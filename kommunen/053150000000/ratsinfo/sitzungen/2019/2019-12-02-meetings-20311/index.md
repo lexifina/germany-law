@@ -1,0 +1,83 @@
+# 51. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-02T16:07:00+01:00
+- Ende: 2019-12-02T19:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20311
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20311
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00749206.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00749206.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00749206.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners - zurückgestellt
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Verlagerung des Touristenbushaltepunktes - endgültig abgelehnt
+- TOP 1.2: Lastenradförderung weiter verbessern - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Anregung der Bezirksvertretung Kalk zur Einführung eines Kurzstreckentickets zum Nulltarif im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - geändert beschlossen
+- TOP 3.1.1: Radschnellweg Köln-Frechen als Pilotstrecke nutzen (TOP 3.4) - endgültig abgelehnt
+- TOP 3.1.2: Änderungsantrag zum Beschluss der BV Lindenthal - Top 3.1 Radschnellweg Köln-Frechen
+- TOP 3.2: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - im ersten Durchgang verwiesen
+- TOP 3.3: Planfeststellungsverfahren Militärringstraße, Anbindung der Aachener Straße und der Stolberger Straße - verwiesen in nachfolgende Gremien
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Anpassung der Zuständigkeitsordnung - geändert beschlossen
+- TOP 4.2: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - endgültig zurückgezogen
+- TOP 4.3: Satzung über die abweichende Herstellung der Erschließungsanlage Fellmühlenweg von Wohnweg bis Mielenforster Straße in Köln-Dellbrück - ungeändert empfohlen
+- TOP 4.4: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.4.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.5: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes von LK-Argus und abschließender Beschluss zur Stufe 3 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert empfohlen
+- TOP 4.6: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert empfohlen
+- TOP 4.7: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - mit Änderungen empfohlen
+- TOP 4.7.1: Ergänzungsantrag zu TOP 4.7 - Entwicklung des neuen Stadtteils Kreuzfeld - abgelehnt (in der Vorberatung)
+- TOP 4.8: Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - im ersten Durchgang verwiesen
+- TOP 4.9: Bahnsteiganhebung Haltestelle Barbarossaplatz - im ersten Durchgang verwiesen
+- TOP 4.10: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - zurückgestellt
+- TOP 4.11: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Freihaltetrassen und möglicher Vorlaufbetrieb - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Sicherheit von Kindern und Jugendlichen im Verkehr – Wie engagiert werden in Köln Verbesserungen umgesetzt? - Sache ist erledigt
+- TOP 5.2.2: Fahrradstraßen – für Fahrräder!? - Sache ist erledigt
+- TOP 5.2.3: Rad(schnell)wege 2019ff - Sache ist erledigt
+- TOP 5.2.4: Elektrobusse - zurückgestellt
+- TOP 5.2.5: Radarkontrollen in Köln - zurückgestellt
+- TOP 5.2.6: Auswirkungen der Brückensanierungsmaßnahme Deutz-Mülheimer-Straße - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Anfrage des Seniorenvertreters Meurers betr. Fußgängerbeauftragten - Sache ist erledigt
+- TOP 6.2: Mülheimer Brücke - Sache ist erledigt
+- TOP 6.3: Verkehrsmaßnahme auf dem Kiesgrubenweg in Rodenkirchen - Sache ist erledigt
+- TOP 6.4: Antriebstechnik neues KD-Schiff - Sache ist erledigt
+- TOP 6.5: Können Störungen im Betriebsablauf der Linie 7 zwischen Poll und Deutz vermieden werden? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.6: Stellplatzschlüssel bei aktuellen Wohnungsbauvorhaben - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.7: Jobtickets in Köln - Sache ist erledigt
+- TOP 6.8: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Abs. 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalinstandsetzung der Grevenstraße, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Sachstand Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" - Kenntnis genommen
+- TOP 7.2.2: Beantwortung einer Anfrage der SPD-Fraktion vom 13.09.2019 - Kenntnis genommen
+- TOP 7.2.3: Sachstandsbericht: Regionale Zusammenarbeit der StadtUmland-Verbünde (S.U.N. und K&RN), regionalbedeutsame Strategiekonzepte (Agglomerationskonzept) und regionale Zukunftsthemen (Strukturwandel/Rheinisches Revier) - Kenntnis genommen
+- TOP 7.2.4: Touristenbusse in der Innenstadt - Kenntnis genommen
+- TOP 7.2.5: European Energy Award: Köln Partnerin mit Auszeichnung. - Kenntnis genommen
+- TOP 7.2.6: Einrichtung von Radfahrstreifen auf dem Ubierring mit einem Teilabschnitt Schutzstreifen - Kenntnis genommen
+- TOP 7.2.7: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - Kenntnis genommen
+- TOP 7.2.8: Sachstand zur Umsetzung der im Radverkehrskonzept Innenstadt definierten Fahrradstraßen - Kenntnis genommen
+- TOP 7.2.9: Sachstand zur Umsetzung der Fahrradstraße im Eifelwall - Kenntnis genommen
+- TOP 7.2.10: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 7.2.11: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sperrung der B9 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Prüfung einer Umweltspur zwischen Deutz und Rudolfplatz - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Verkehrsführungskonzept Altstadt - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Mündliche Anfrage der SE Wienke - zur weiteren Bearbeitung in die Verwaltung überwiesen
