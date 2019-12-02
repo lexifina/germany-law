@@ -1088,6 +1088,7 @@ Amtsgerichten
 - [§ 882f Einsicht in das Schuldnerverzeichnis](0882f.md)
 - [§ 882g Erteilung von Abdrucken](0882g.md)
 - [§ 882h Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses](0882h.md)
+- [§ 882i Rechte der Betroffenen](0882i.md)
 
 ### Abschnitt 3 Zwangsvollstreckung zur
 Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen

@@ -18,8 +18,7 @@ der Überleitungsanstalt Sozialversicherung](0003.md)
 ## Dritter Abschnitt Bewegliche Sachen,
 Forderungen, Verbindlichkeiten
 
-- [§ 7 Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche
-Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut](0007.md)
+- [§ 7 Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut](0007.md)
 - [§ 8 Forderungen und sonstige Rechte](0008.md)
 - [§ 9 Verbindlichkeiten](0009.md)
 

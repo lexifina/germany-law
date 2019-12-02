@@ -437,7 +437,7 @@ Fällen
 
 - [§ 209 Gegenstand der Steueraufsicht](0209.md)
 - [§ 210 Befugnisse der Finanzbehörde](0210.md)
-- [§ 211 Pflichten des Betroffenen](0211.md)
+- [§ 211 Pflichten der betroffenen Person](0211.md)
 - [§ 212 Durchführungsvorschriften](0212.md)
 - [§ 213 Besondere Aufsichtsmaßnahmen](0213.md)
 - [§ 214 Beauftragte](0214.md)
@@ -685,7 +685,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 361 Aussetzung der Vollziehung](0361.md)
 - [§ 362 Rücknahme des Einspruchs](0362.md)
 - [§ 363 Aussetzung und Ruhen des Verfahrens](0363.md)
-- [§ 364 Mitteilung der Besteuerungsunterlagen](0364.md)
+- [§ 364 Offenlegung der Besteuerungsunterlagen](0364.md)
 - [§ 364a Erörterung des Sach- und Rechtsstands](0364a.md)
 - [§ 364b Fristsetzung](0364b.md)
 - [§ 365 Anwendung von Verfahrensvorschriften](0365.md)

@@ -51,11 +51,11 @@ den Vorschriften des Beitrittsgebiets
 
 - [§ 17 Rehabilitierungsbescheinigung und Behördenzuständigkeit](0017.md)
 - [§ 18 Vorläufige Rehabilitierungsbescheinigung](0018.md)
-- [§ 19 Verwendung personenbezogener Daten](0019.md)
+- [§ 19 Verarbeitung von personenbezogenen Daten](0019.md)
 - [§ 20 Antrag](0020.md)
 - [§ 21 Inhalt des Antrags](0021.md)
 - [§ 22 Inhalt der Bescheinigung](0022.md)
-- [§ 23 Antragsfrist für Leistungen nach dem Zweiten und Dritten Abschnitt](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 - [§ 24 Zuständigkeit für Leistungen nach dem Zweiten
 und Dritten Abschnitt](0024.md)
 - [§ 25 Verwaltungsverfahren](0025.md)

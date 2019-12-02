@@ -161,3 +161,4 @@
 ## Teil 4 Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten
 
 - [§ 85 Verarbeitung personenbezogener Daten im Rahmen von nicht in die Anwendungs- bereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten](0085.md)
+- [§ 86 Verarbeitung personenbezogener Daten für Zwecke staatlicher Auszeichnungen und Ehrungen](0086.md)

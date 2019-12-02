@@ -11,6 +11,6 @@
 - [§ 9 Datenschutzrechtliche Verantwortung](0009.md)
 - [§ 10 Protokollierung, technische und organisatorische Maßnahmen](0010.md)
 - [§ 11 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen](0011.md)
-- [§ 12 Berichtigung, Löschung und Sperrung von Daten](0012.md)
-- [§ 13 Errichtungsanordnung](0013.md)
+- [§ 12 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten](0012.md)
+- [§ 13 Festlegungen für die gemeinsame Datei](0013.md)
 - [§ 14 Einschränkung von Grundrechten](0014.md)

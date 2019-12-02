@@ -56,7 +56,7 @@
 
 ## Abschnitt 7 Personenbezogene Daten; Bundesstatistik
 
-- [§ 34 Erhebung, Verarbeitung und Nutzung; Datenschutz](0034.md)
+- [§ 34 Datenverarbeitung; Datenschutz](0034.md)
 - [§ 35 Bundesstatistik](0035.md)
 
 ## Abschnitt 8 Sonstige Bestimmungen

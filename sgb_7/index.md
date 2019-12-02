@@ -418,27 +418,24 @@ und Bauherren](0192.md)
 
 ### Erster Abschnitt Grundsätze
 
-- [§ 199 Erhebung, Verarbeitung und Nutzung von Daten durch die Unfallversicherungsträger](0199.md)
+- [§ 199 Verarbeitung von Daten durch die Unfallversicherungsträger](0199.md)
 - [§ 200 Einschränkung der Übermittlungsbefugnis](0200.md)
 
-### Zweiter Abschnitt Datenerhebung und -verarbeitung durch Ärzte
+### Zweiter Abschnitt Datenverarbeitung durch Ärzte
 
-- [§ 201 Datenerhebung und Datenverarbeitung durch Ärzte und Psychotherapeuten](0201.md)
+- [§ 201 Erhebung, Speicherung und Übermittlung von Daten durch Ärzte und Psychotherapeuten](0201.md)
 - [§ 202 Anzeigepflicht von Ärzten bei Berufskrankheiten](0202.md)
 - [§ 203 Auskunftspflicht von Ärzten](0203.md)
 
-### Dritter Abschnitt Dateien
+### Dritter Abschnitt Dateisysteme
 
-- [§ 204 Errichtung einer Datei für mehrere Unfallversicherungsträger](0204.md)
+- [§ 204 Errichtung eines Dateisystems für mehrere Unfallversicherungsträger](0204.md)
 - [§ 205 (weggefallen)](0205.md)
 
 ### Vierter Abschnitt Sonstige Vorschriften
 
-- [§ 206 Übermittlung von Daten für die Forschung zur Bekämpfung
-von Berufskrankheiten](0206.md)
-- [§ 207 Erhebung, Verarbeitung und Nutzung von Daten zur
-Verhütung von Versicherungsfällen und arbeitsbedingten
-Gesundheitsgefahren](0207.md)
+- [§ 206 Verarbeitung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten](0206.md)
+- [§ 207 Verarbeitung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren](0207.md)
 - [§ 208 Auskünfte der Deutschen Post AG](0208.md)
 
 ## Neuntes Kapitel Bußgeldvorschriften

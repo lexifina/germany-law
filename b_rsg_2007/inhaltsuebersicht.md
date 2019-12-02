@@ -31,6 +31,7 @@
 | § 21 | Externe Abwicklungssysteme |
 | § 22 | Sanktionsausschuss |
 | § 22a | Synchronisierung von im Geschäftsverkehr verwendeten Uhren |
+| § 22b | Verarbeitung personenbezogener Daten |
 |  |
 | Abschnitt 2 |
 | Börsenhandel und Börsenpreisfeststellung |

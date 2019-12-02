@@ -8,7 +8,7 @@
 ### Kapitel 1 Allgemeine Bestimmungen für Teile I, II und III
 
 - [§ 1.01 Begriffsbestimmungen](0001-01.md)
-- [§ 1.02 Anordnungen vorübergehender Art](0001-02.md)
+- [§ 1.02 Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt](0001-02.md)
 - [§ 1.03 Dienstanweisungen](0001-03.md)
 
 ## Teil II Besatzungsvorschriften

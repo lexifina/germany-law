@@ -4,7 +4,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 (weggefallen)](0002.md)
 - [§ 3 (weggefallen)](0003.md)
-- [§ 3a Verarbeitung und Nutzung von Daten](0003a.md)
+- [§ 3a Verarbeitung von Daten](0003a.md)
 - [§ 4 Zuständigkeit für die Überwachung](0004.md)
 - [§ 4a Befugnisse](0004a.md)
 - [§ 5 Gebühren](0005.md)

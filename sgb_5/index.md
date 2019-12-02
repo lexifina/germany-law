@@ -748,7 +748,7 @@ Datenschutz, Datentransparenz
 ### Erster Abschnitt Informationsgrundlagen
 
 
-#### Erster Titel Grundsätze der Datenverwendung
+#### Erster Titel Grundsätze der Datenverarbeitung
 
 - [§ 284 Sozialdaten bei den Krankenkassen](0284.md)
 - [§ 285 Personenbezogene Daten bei den Kassenärztlichen Vereinigungen](0285.md)
@@ -785,7 +785,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 296 Datenübermittlung für Wirtschaftlichkeitsprüfungen](0296.md)
 - [§ 297 Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen](0297.md)
 - [§ 298 Übermittlung versichertenbezogener Daten](0298.md)
-- [§ 299 Datenerhebung, -verarbeitung und -nutzung für Zwecke der Qualitätssicherung](0299.md)
+- [§ 299 Datenverarbeitung für Zwecke der Qualitätssicherung](0299.md)
 - [§ 300 Abrechnung der Apotheken und weiterer Stellen](0300.md)
 - [§ 301 Krankenhäuser](0301.md)
 - [§ 301a Abrechnung der Hebammen und der von ihnen geleiteten Einrichtungen](0301a.md)
@@ -798,7 +798,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 303b Datenübermittlung](0303b.md)
 - [§ 303c Vertrauensstelle](0303c.md)
 - [§ 303d Datenaufbereitungsstelle](0303d.md)
-- [§ 303e Datenverarbeitung und -nutzung, Verordnungsermächtigung](0303e.md)
+- [§ 303e Datenverarbeitung, Verordnungsermächtigung](0303e.md)
 
 ### Dritter Abschnitt Datenlöschung, Auskunftspflicht
 

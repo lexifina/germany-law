@@ -135,6 +135,7 @@
 | § 66 | Benutzung für wissenschaftliche Zwecke |
 | § 67 | Einrichtung zentraler Register |
 | § 68 | Mitteilungen an Behörden und Gerichte von Amts wegen |
+| § 68a | Rechte der betroffenen Person |
 |  |
 | Kapitel 10 |
 | Zwangsmittel, Bußgeldvorschriften, Besonderheiten |

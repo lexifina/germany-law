@@ -392,7 +392,7 @@
 | Steueraufsicht in besonderen Fällen |
 | § 209 | Gegenstand der Steueraufsicht |
 | § 210 | Befugnisse der Finanzbehörde |
-| § 211 | Pflichten des Betroffenen |
+| § 211 | Pflichten der betroffenen Person |
 | § 212 | Durchführungsvorschriften |
 | § 213 | Besondere Aufsichtsmaßnahmen |
 | § 214 | Beauftragte |
@@ -619,7 +619,7 @@
 | § 361 | Aussetzung der Vollziehung |
 | § 362 | Rücknahme des Einspruchs |
 | § 363 | Aussetzung und Ruhen des Verfahrens |
-| § 364 | Mitteilung der Besteuerungsunterlagen |
+| § 364 | Offenlegung der Besteuerungsunterlagen |
 | § 364a | Erörterung des Sach- und Rechtsstands |
 | § 364b | Fristsetzung |
 | § 365 | Anwendung von Verfahrensvorschriften |

@@ -248,11 +248,11 @@
 | Informationsgrundlagen |
 |  |
 | Erster Titel |
-| Grundsätze der Datenverwendung |
+| Grundsätze der Datenverarbeitung |
 | § 93 | Anzuwendende Vorschriften |
 | § 94 | Personenbezogene Daten bei den Pflegekassen |
 | § 95 | Personenbezogene Daten bei den Verbänden der Pflegekassen |
-| § 96 | Gemeinsame Verarbeitung und Nutzung personenbezogener Daten |
+| § 96 | Gemeinsame Verarbeitung personenbezogener Daten |
 | § 97 | Personenbezogene Daten beim Medizinischen Dienst |
 | § 97a | Qualitätssicherung durch Sachverständige |
 | § 97b | Personenbezogene Daten bei den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden und den Trägern der Sozialhilfe |

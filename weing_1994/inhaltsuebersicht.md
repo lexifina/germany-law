@@ -67,7 +67,7 @@
 | § 31 | Allgemeine Überwachung |
 | § 32 | Rückstandsbeobachtung bei geernteten Weintrauben |
 | § 33 | Meldungen, Übermittlung von Informationen |
-| § 34 | Verwendung von Einzelangaben; Weitergabe von Daten aus der Weinbaukartei |
+| § 34 | Verarbeitung von Einzelangaben; Übermittlung von Daten aus der Weinbaukartei |
 |  |
 | 7.AbschnittEinfuhr |
 | § 35 | Einfuhr |

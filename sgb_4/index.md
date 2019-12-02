@@ -48,9 +48,9 @@
 - [§ 18d Einkommensänderungen](0018d.md)
 - [§ 18e Ermittlung von Einkommensänderungen](0018e.md)
 
-### Fünfter Titel Erhebung, Verarbeitung und Nutzung der Versicherungsnummer
+### Fünfter Titel Verarbeitung der Versicherungsnummer
 
-- [§ 18f Zulässigkeit der Erhebung, Verarbeitung und Nutzung](0018f.md)
+- [§ 18f Zulässigkeit der Verarbeitung](0018f.md)
 - [§ 18g Angabe der Versicherungsnummer](0018g.md)
 
 ### Sechster Titel Sozialversicherungsausweis
@@ -62,7 +62,7 @@
 - [§ 18i Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber](0018i.md)
 - [§ 18k Betriebsnummer für Beschäftigungsbetriebe weiterer Meldepflichtiger](0018k.md)
 - [§ 18l Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren](0018l.md)
-- [§ 18m Verarbeitung und Nutzung der Betriebsnummer](0018m.md)
+- [§ 18m Verarbeitung der Betriebsnummer](0018m.md)
 - [§ 18n Absendernummer](0018n.md)
 
 ## Zweiter Abschnitt Leistungen und Beiträge
@@ -217,14 +217,14 @@
 - [§ 93 Aufgaben der Versicherungsämter](0093.md)
 - [§ 94 Bundesversicherungsamt](0094.md)
 
-## Sechster Abschnitt Übermittlung und Verarbeitung von elektronischen Daten in der Sozialversicherung
+## Sechster Abschnitt Verarbeitung von elektronischen Daten in der Sozialversicherung
 
 
 ### Erster Titel Übermittlung von Daten zur und innerhalb der Sozialversicherung
 
 - [§ 95 Gemeinsame Grundsätze Technik](0095.md)
 
-### Zweiter Titel Annahme, Weiterleitung und Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger
+### Zweiter Titel Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger
 
 - [§ 96 Kommunikationsserver](0096.md)
 - [§ 97 Annahmestellen](0097.md)
@@ -235,7 +235,7 @@
 - [§ 99 Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren](0099.md)
 - [§ 100 Inhalt des elektronischen Lohnnachweises](0100.md)
 - [§ 101 Stammdatendatei](0101.md)
-- [§ 102 Verarbeitung, Weiterleitung und Nutzung der Daten zum Lohnnachweisverfahren](0102.md)
+- [§ 102 Annahme, Prüfung und Weiterleitung der Daten zum Lohnnachweisverfahren](0102.md)
 - [§ 103 Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung](0103.md)
 
 ## Siebter Abschnitt Informationsangebote in den Meldeverfahren der sozialen Sicherung
@@ -270,7 +270,7 @@
 - [§ 116a Übergangsregelung zur Beitragshaftung](0116a.md)
 - [§ 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner](0117.md)
 - [§ 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst](0118.md)
-- [§ 119 Übergangsregelungen zur Aufhebung des Verfahrens des elektronischen Entgeltnachweises; Löschung der bisher gespeicherten Daten](0119.md)
+- [§ 119 (weggefallen)](0119.md)
 - [§ 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III

@@ -41,7 +41,7 @@
 | Sechster Abschnitt |  |
 |  | Allgemeine Vorschriften |  |
 | Kostentragung | § 24 |
-| Erhebung, Verarbeitung und Nutzung von Daten | § 25 |
+| Verarbeitung von Daten | § 25 |
 | Datenübermittlung an öffentliche Stellen | § 26 |
 | Aufbewahrungs- und Löschungsfristen | § 27 |
 | Flugsicherheitsarbeit | § 28 |

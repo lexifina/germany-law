@@ -80,13 +80,13 @@
 ## Teil 3 Regelungen zur Datenkommunikation in intelligenten Energienetzen
 
 
-### Kapitel 1 Berechtigte; Allgemeine Anforderungen an die Datenerhebung, -verarbeitung und -nutzung
+### Kapitel 1 Berechtigte; Allgemeine Anforderungen an die Datenverarbeitung
 
-- [§ 49 Erhebung, Verarbeitung und Nutzung personenbezogener Daten](0049.md)
-- [§ 50 Zulässigkeit und Umfang der Erhebung, Verarbeitung und Nutzung von Daten](0050.md)
-- [§ 51 Anforderungen an Erhebung, Verarbeitung und Nutzung von Daten beim Smart-Meter-Gateway; Rolle des Smart-Meter-Gateway-Administrators](0051.md)
+- [§ 49 Verarbeitung personenbezogener Daten](0049.md)
+- [§ 50 Zulässigkeit und Umfang der Verarbeitung von Daten](0050.md)
+- [§ 51 Anforderungen an die Verarbeitung von Daten beim Smart-Meter-Gateway; Rolle des Smart-Meter-Gateway-Administrators](0051.md)
 - [§ 52 Allgemeine Anforderungen an die Datenkommunikation](0052.md)
-- [§ 53 Informationsrechte des Anschlussnutzers](0053.md)
+- [§ 53 Auskunftsrechte des Anschlussnutzers](0053.md)
 - [§ 54 Transparenzvorgaben für Verträge](0054.md)
 
 ### Kapitel 2 Zulässiger Umfang der Datenerhebung; Besondere Anforderungen
@@ -97,25 +97,25 @@
 - [§ 58 Messwerterhebung Gas](0058.md)
 - [§ 59 Weitere Datenerhebung](0059.md)
 
-### Kapitel 3 Besondere Anforderungen an die Datenverarbeitung und -nutzung; Übermittlungs- und Archivierungspflicht; Löschung
+### Kapitel 3 Besondere Anforderungen an die Datenverarbeitung; Übermittlungs- und Archivierungspflicht; Löschung
 
 
 #### Abschnitt 1 Pflichten des Messstellenbetreibers
 
 - [§ 60 Datenübermittlung; sternförmige Kommunikation; Löschung](0060.md)
 - [§ 61 Verbrauchsinformationen für den Anschlussnutzer bei intelligenten Messsystemen und modernen Messeinrichtungen](0061.md)
-- [§ 62 Messwertnutzung zu Zwecken des Anlagenbetreibers](0062.md)
+- [§ 62 Messwertverarbeitung zu Zwecken des Anlagenbetreibers](0062.md)
 - [§ 63 Übermittlung von Stammdaten; Löschung](0063.md)
 - [§ 64 Übermittlung von Netzzustandsdaten; Löschung](0064.md)
 - [§ 65 Weitere Datenübermittlung](0065.md)
 
 #### Abschnitt 2 Zulässiger Datenaustausch: Pflichten der übrigen an der Datenkommunikation Beteiligten
 
-- [§ 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung](0066.md)
-- [§ 67 Messwertnutzung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung](0067.md)
-- [§ 68 Messwertnutzung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung](0068.md)
-- [§ 69 Messwertnutzung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung](0069.md)
-- [§ 70 Messwertnutzung auf Veranlassung des Anschlussnutzers; weiterer Datenaustausch](0070.md)
+- [§ 66 Messwertverarbeitung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung](0066.md)
+- [§ 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung](0067.md)
+- [§ 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung](0068.md)
+- [§ 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung](0069.md)
+- [§ 70 Messwertverarbeitung auf Veranlassung des Anschlussnutzers; weiterer Datenaustausch](0070.md)
 
 #### Abschnitt 3 Besondere Fallgruppen
 

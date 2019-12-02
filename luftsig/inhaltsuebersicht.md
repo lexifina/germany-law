@@ -10,7 +10,7 @@
 | § 3a | Flugverbot |
 | § 4 | Grundsatz der Verhältnismäßigkeit |
 | § 5 | Besondere Befugnisse der Luftsicherheitsbehörden |
-| § 6 | Erhebung, Verarbeitung und Nutzung personenbezogener Daten |
+| § 6 | Verarbeitung personenbezogener Daten |
 | § 7 | Zuverlässigkeitsüberprüfungen |
 | § 8 | Sicherheitsmaßnahmen der Flugplatzbetreiber |
 | § 9 | Sicherheitsmaßnahmen der Luftfahrtunternehmen |

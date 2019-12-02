@@ -145,13 +145,13 @@
 - [§ 48b Zielvereinbarungen](0048b.md)
 - [§ 49 Innenrevision](0049.md)
 
-## Kapitel 6 Datenerhebung, -verarbeitung und -nutzung, datenschutzrechtliche Verantwortung
+## Kapitel 6 Datenverarbeitung und datenschutzrechtliche Verantwortung
 
 - [§ 50 Datenübermittlung](0050.md)
-- [§ 50a Verarbeitung und Nutzung von Daten für die Ausbildungsvermittlung](0050a.md)
-- [§ 51 Erhebung, Verarbeitung und Nutzung von Sozialdaten durch nichtöffentliche Stellen](0051.md)
+- [§ 50a Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung](0050a.md)
+- [§ 51 Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen](0051.md)
 - [§ 51a Kundennummer](0051a.md)
-- [§ 51b Datenerhebung und -verarbeitung durch die Träger der Grundsicherung für Arbeitsuchende](0051b.md)
+- [§ 51b Verarbeitung von Daten durch die Träger der Grundsicherung für Arbeitsuchende](0051b.md)
 - [§ 51c (weggefallen)](0051c.md)
 - [§ 52 Automatisierter Datenabgleich](0052.md)
 - [§ 52a Überprüfung von Daten](0052a.md)
@@ -176,8 +176,6 @@
 ## Kapitel 9 Straf- und Bußgeldvorschriften
 
 - [§ 63 Bußgeldvorschriften](0063.md)
-- [§ 63a Datenschutzrechtliche Bußgeldvorschriften](0063a.md)
-- [§ 63b Datenschutzrechtliche Strafvorschriften](0063b.md)
 
 ## Kapitel 10 Bekämpfung von Leistungsmissbrauch
 

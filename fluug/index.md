@@ -44,7 +44,7 @@ Internationalen Zivilluftfahrt-Organisation](0006.md)
 ## Sechster Abschnitt Allgemeine Vorschriften
 
 - [§ 24 Kostentragung](0024.md)
-- [§ 25 Erhebung, Verarbeitung und Nutzung von Daten](0025.md)
+- [§ 25 Verarbeitung von Daten](0025.md)
 - [§ 26 Datenübermittlung an öffentliche Stellen](0026.md)
 - [§ 27 Aufbewahrungs- und Löschungsfristen](0027.md)
 - [§ 28 Flugsicherheitsarbeit](0028.md)

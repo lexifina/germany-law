@@ -73,6 +73,9 @@ Vorschriften
 - [§ 39 Postgeheimnis](0039.md)
 - [§ 40 Mitteilungen an Gerichte und Behörden](0040.md)
 - [§ 41 Datenschutz](0041.md)
+- [§ 41a Anschriften, Daten zum Zweck der Zustellung](0041a.md)
+- [§ 41b Ausweisdaten](0041b.md)
+- [§ 41c Fundbriefe](0041c.md)
 - [§ 42 Kontrolle und Durchsetzung von Verpflichtungen](0042.md)
 
 ## Abschnitt 10 Postwertzeichen, Regulierungsbehörde
@@ -87,7 +90,7 @@ Vorschriften
 ## Abschnitt 11 Bußgeldvorschriften
 
 - [§ 49 Bußgeldvorschriften](0049.md)
-- [§ 50 Zuständige Behörde](0050.md)
+- [§ 50 (weggefallen)](0050.md)
 
 ## Abschnitt 12 Übergangsvorschriften
 

@@ -13,7 +13,7 @@
 | Page/Seite/Bladzijde 1 |  | N° d’ordre:Laufende Nr.: ..............Volgnummer: |
 |  |  |  |
 | -----------------------------------------------------------------Type du bâtimentArt des FahrzeugsAard van het schip | ------------------------------------------------------------------------------------------------------------------------------Nom du bateauName des SchiffesNaam van het schip |
-| Numéro européen unique d’identificationdes bateaux ou numéro officiel:Einheitliche europäische Schiffsnummeroder amtliche Schiffsnummer: Uniek Europees scheepsidentificatienummerof officieel scheepnummer: | ------------------------------------------------------------------------------------------------------------------------------ |
+| Numéro européen unique d’identificationdes bateaux :Einheitliche europäische Schiffsnummer: Uniek Europees scheepsidentificatienummer: | ------------------------------------------------------------------------------------------------------------------------------ |
 | Lieu de délivrance:Ort der Ausstellung: Plaats | ------------------------------------------------------------------------------------------------------------------------------ |
 | Date de délivrance:Datum der Ausstellung: Datum van afgifte: | ------------------------------------------------------------------------------------------------------------------------------ |
 | Le présent carnet comprend Dieses Buch enthält Dit boekje telt | …………………………………… pages. …………………………………… Seiten.…………………………………… bladzijden. |

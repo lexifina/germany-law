@@ -5,7 +5,7 @@
 ## 1. Abschnitt Allgemeine Vorschriften
 
 - [§ 1 Zweck des Gesetzes](0001.md)
-- [§ 1a Verarbeitung personenbezogener Daten](0001a.md)
+- [§ 1a (weggefallen)](0001a.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Prävention durch Aufklärung](0003.md)
 
@@ -28,6 +28,9 @@
 - [§ 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung](0014.md)
 - [§ 15 Anpassung der Meldepflicht an die epidemische Lage](0015.md)
 - [§ 15a Durchführung der infektionshygienischen und hygienischen Überwachung](0015a.md)
+
+## 4. Abschnitt Verhütung übertragbarer Krankheiten
+
 - [§ 16 Allgemeine Maßnahmen der zuständigen Behörde](0016.md)
 - [§ 17 Besondere Maßnahmen der zuständigen Behörde, Rechtsverordnungen durch die Länder](0017.md)
 - [§ 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen](0018.md)

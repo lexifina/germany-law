@@ -42,7 +42,7 @@
 - [§ 18 Verfügbare Finanzmittel](0018.md)
 - [§ 19 Beitragsberechnung; Methoden der Beitragsbemessung](0019.md)
 - [§ 20 Verwendung der verfügbaren Finanzmittel](0020.md)
-- [§ 21 Verschwiegenheitspflicht und Vertraulichkeit der Daten](0021.md)
+- [§ 21 Verschwiegenheitspflicht und Datenschutz](0021.md)
 
 ### Kapitel 2 Gesetzliche Entschädigungseinrichtungen
 

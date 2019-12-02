@@ -95,6 +95,7 @@
 - [§ 77 Anmeldepflichtige und Form der Anmeldungen](0077.md)
 - [§ 78 Festsetzung von Zwangsgeld](0078.md)
 - [§ 79 Einsicht in das Vereinsregister](0079.md)
+- [§ 79a Anwendung der Verordnung (EU) 2016/679 im Registerverfahren](0079a.md)
 
 ##### Untertitel 2 Stiftungen
 
@@ -2296,7 +2297,7 @@ des Gesamtguts durch die Ehegatten
 - [§ 1560 Antrag auf Eintragung](1560.md)
 - [§ 1561 Antragserfordernisse](1561.md)
 - [§ 1562 Öffentliche Bekanntmachung](1562.md)
-- [§ 1563 Registereinsicht](1563.md)
+- [§ 1563 Registereinsicht; Anwendung der Verordnung (EU) 2016/679 im Registerverfahren](1563.md)
 
 #### Titel 7 Scheidung der Ehe
 

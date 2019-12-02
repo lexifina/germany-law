@@ -33,6 +33,7 @@ ihre Organe
 - [§ 21 Externe Abwicklungssysteme](0021.md)
 - [§ 22 Sanktionsausschuss](0022.md)
 - [§ 22a Synchronisierung von im Geschäftsverkehr verwendeten Uhren](0022a.md)
+- [§ 22b Verarbeitung personenbezogener Daten](0022b.md)
 
 ## Abschnitt 2 Börsenhandel und Börsenpreisfeststellung
 

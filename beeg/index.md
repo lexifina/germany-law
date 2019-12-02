@@ -50,6 +50,7 @@
 - [§ 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt](0023.md)
 - [§ 24 Übermittlung von Tabellen mit statistischen Ergebnissen durch das Statistische Bundesamt](0024.md)
 - [§ 24a Übermittlung von Einzelangaben durch das Statistische Bundesamt](0024a.md)
+- [§ 24b Elektronische Unterstützung bei der Antragstellung](0024b.md)
 - [§ 25 Bericht](0025.md)
 - [§ 26 Anwendung der Bücher des Sozialgesetzbuches](0026.md)
 - [§ 27 Übergangsvorschrift](0027.md)

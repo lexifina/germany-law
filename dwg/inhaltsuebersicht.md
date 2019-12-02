@@ -15,3 +15,4 @@
 | Unterabschnitt 1: | Finanzwesen | §§ 44 - 57 |
 | Unterabschnitt 2: | Vermögen, Beteiligungen, Baumaßnahmen | §§ 58 - 60 |
 | Abschnitt 4: | Aufsicht | §§ 61 - 62 |
+| Abschnitt 5: | Datenschutz | §§ 63 - 66 |

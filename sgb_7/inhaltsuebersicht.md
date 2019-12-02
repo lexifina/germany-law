@@ -363,24 +363,24 @@
 |  |
 |  |  | Erster Abschnitt |
 |  |  |  | Grundsätze |
-| § 199 | Erhebung, Verarbeitung und Nutzung von Daten durch die Unfallversicherungsträger |
+| § 199 | Verarbeitung von Daten durch die Unfallversicherungsträger |
 | § 200 | Einschränkung der Übermittlungsbefugnis |
 |  |
 |  |  | Zweiter Abschnitt |
-|  |  |  | Datenerhebung und -verarbeitung durch Ärzte |
-| § 201 | Datenerhebung und Datenverarbeitung durch Ärzte und Psychotherapeuten |
+|  |  |  | Datenverarbeitung durch Ärzte |
+| § 201 | Erhebung, Speicherung und Übermittlung von Daten durch Ärzte und Psychotherapeuten |
 | § 202 | Anzeigepflicht von Ärzten bei Berufskrankheiten |
 | § 203 | Auskunftspflicht von Ärzten |
 |  |
 |  |  | Dritter Abschnitt |
-|  |  |  | Dateien |
-| § 204 | Errichtung einer Datei für mehrere Unfallversicherungsträger |
+|  |  |  | Dateisysteme |
+| § 204 | Errichtung eines Dateisystems für mehrere Unfallversicherungsträger |
 | § 205 | (weggefallen) |
 |  |
 |  |  | Vierter Abschnitt |
 |  |  |  | Sonstige Vorschriften |
-| § 206 | Übermittlung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten |
-| § 207 | Erhebung, Verarbeitung und Nutzung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren |
+| § 206 | Verarbeitung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten |
+| § 207 | Verarbeitung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren |
 | § 208 | Auskünfte der Deutschen Post AG |
 |  |
 | Neuntes Kapitel |

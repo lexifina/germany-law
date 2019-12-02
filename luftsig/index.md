@@ -13,7 +13,7 @@
 - [§ 3a Flugverbot](0003a.md)
 - [§ 4 Grundsatz der Verhältnismäßigkeit](0004.md)
 - [§ 5 Besondere Befugnisse der Luftsicherheitsbehörden](0005.md)
-- [§ 6 Erhebung, Verarbeitung und Nutzung personenbezogener Daten](0006.md)
+- [§ 6 Verarbeitung personenbezogener Daten](0006.md)
 - [§ 7 Zuverlässigkeitsüberprüfungen](0007.md)
 - [§ 8 Sicherheitsmaßnahmen der Flugplatzbetreiber](0008.md)
 - [§ 9 Sicherheitsmaßnahmen der Luftfahrtunternehmen](0009.md)

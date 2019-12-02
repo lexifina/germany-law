@@ -112,3 +112,10 @@
 
 - [§ 61 Ausschluss der Fachaufsicht](0061.md)
 - [§ 62 Rechtsaufsicht](0062.md)
+
+## Abschnitt 5 Datenschutz
+
+- [§ 63 Datenverarbeitung zu journalistischen Zwecken](0063.md)
+- [§ 64 Der Beauftragte für den Datenschutz der Deutschen Welle](0064.md)
+- [§ 65 Aufgaben und Befugnisse des Beauftragten für den Datenschutz der Deutschen Welle](0065.md)
+- [§ 66 Der Datenschutzbeauftragte im Sinne der §§ 5 bis 7 des Bundesdatenschutzgesetzes](0066.md)

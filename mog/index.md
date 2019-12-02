@@ -77,10 +77,10 @@
 ## Abschnitt 6 Datenschutz
 
 - [§ 34a Betriebsdaten](0034a.md)
-- [§ 34b Erhebung, Verarbeitung und Nutzung von Daten durch die zuständige Behörde](0034b.md)
+- [§ 34b Verarbeitung von Daten durch die zuständige Behörde](0034b.md)
 - [§ 34c Übermittlung von Daten](0034c.md)
 - [§ 34d Löschungsfristen](0034d.md)
-- [§ 34e Nutzung weiterer Daten bei außergewöhnlichen Maßnahmen](0034e.md)
+- [§ 34e Verarbeitung weiterer Daten bei außergewöhnlichen Maßnahmen](0034e.md)
 - [§ 34f Ermächtigungen](0034f.md)
 
 ## Abschnitt 7 Straf- und Bußgeldvorschriften

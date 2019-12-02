@@ -8,8 +8,7 @@
 - [§ 3 Folgeansprüche](0003.md)
 - [§ 4 Beendigung der Vollstreckung](0004.md)
 - [§ 5 Bundeszentralregister](0005.md)
-- [§ 6 Erstattung von Geldstrafen, Kosten des Verfahrens und
-notwendigen Auslagen des Betroffenen](0006.md)
+- [§ 6 Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen](0006.md)
 
 ## Abschnitt 2 Gerichtliches Verfahren
 
@@ -38,7 +37,7 @@ Strafprozessordnung](0015.md)
 - [§ 23 Zusammentreffen von Ansprüchen](0023.md)
 - [§ 24 Anwendung des Bundesversorgungsgesetzes](0024.md)
 - [§ 25 Zuständigkeiten](0025.md)
-- [§ 25a Verwendung personenbezogener Daten](0025a.md)
+- [§ 25a Verarbeitung von personenbezogenen Daten](0025a.md)
 
 ## Abschnitt 4 Überleitungs- und
 Schlussvorschriften

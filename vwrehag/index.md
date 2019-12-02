@@ -11,7 +11,7 @@
 - [§ 8 Berufliche Benachteiligung](0008.md)
 - [§ 9 Antrag](0009.md)
 - [§ 10 Inhalt des Antrags](0010.md)
-- [§ 11 Verwendung personenbezogener Daten](0011.md)
+- [§ 11 Verarbeitung von personenbezogenen Daten](0011.md)
 - [§ 12 Rehabilitierungsbehörde](0012.md)
 - [§ 13 Verwaltungsverfahren](0013.md)
 - [§ 14 Kosten](0014.md)

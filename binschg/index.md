@@ -14,7 +14,7 @@
 - [§ 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen](0006a.md)
 - [§ 6b Verwaltungszwang](0006b.md)
 - [§ 7 Bußgeldvorschriften](0007.md)
-- [§ 8 Erhebung, Verarbeitung und Nutzung von Daten im Binnenschiffsverkehr](0008.md)
+- [§ 8 Verarbeitung von Daten im Binnenschiffsverkehr](0008.md)
 - [§ 9 Binnenschiffsbestandsdatei](0009.md)
 - [§ 10 Amtliche Mitteilung](0010.md)
 - [§ 11 Ordnungswidrigkeitendatei](0011.md)

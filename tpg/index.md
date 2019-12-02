@@ -1,5 +1,4 @@
-# Gesetz über die Spende, Entnahme und
-Übertragung von Organen und Geweben
+# Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -17,7 +16,7 @@
 - [§ 4a Entnahme bei toten Embryonen und Föten](0004a.md)
 - [§ 5 Nachweisverfahren](0005.md)
 - [§ 6 Achtung der Würde des Organ- und Gewebespenders](0006.md)
-- [§ 7 Datenerhebung und -verwendung; Auskunftspflicht](0007.md)
+- [§ 7 Datenverarbeitung, Auskunftspflicht](0007.md)
 
 ## Abschnitt 3 Entnahme von Organen und Geweben bei lebenden 
 Spendern

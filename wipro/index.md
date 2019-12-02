@@ -71,7 +71,7 @@
 ### Sechster Abschnitt Allgemeine Vorschriften
 für das Verwaltungsverfahren
 
-- [§ 36a Untersuchungsgrundsatz, Mitwirkungspflicht, Übermittlung personenbezogener Daten](0036a.md)
+- [§ 36a Untersuchungsgrundsatz, Mitwirkungspflicht, Datenübermittlung](0036a.md)
 
 ### Siebenter Abschnitt Berufsregister
 

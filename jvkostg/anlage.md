@@ -39,7 +39,7 @@ Gebühren
 | Vorbemerkung 1.1.3: Die Gebühr 1130 wird nicht erhoben, wenn ein Führungszeugnis zur Ausübung einer ehrenamtlichen Tätigkeit benötigt wird, die für eine gemeinnützige Einrichtung, für eine Behörde oder im Rahmen eines der in § 32 Abs. 4 Nr. 2 Buchstabe d EStG genannten Dienste ausgeübt wird. |
 | 1130 | Führungszeugnis nach § 30, § 30a oder § 30b BZRG .......... | 13,00 € |
 | 1131 | (weggefallen) |  |
-| 1132 | Auskunft nach § 150 der Gewerbeordnung .......... | 13,00 € |
+| 1132 | Auskunft nach § 150 Absatz 1 Satz 1 der Gewerbeordnung .......... | 13,00 € |
 | Abschnitt 4 Abruf von Daten in Handels-,Partnerschafts-, Genossenschafts- und Vereinsregisterangelegenheiten |
 | Vorbemerkung 1.1.4: (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Registergericht geführten Datenbestand. Für den Aufruf von Daten und Dokumenten in der Geschäftsstelle des Gerichts werden keine Gebühren erhoben. (2) Neben den Gebühren werden keine Auslagen erhoben. |
 | 1140 | Abruf von Daten aus dem Register: je Registerblatt .......... | 4,50 € |

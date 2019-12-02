@@ -13,7 +13,7 @@ Zuständige Behörde im Sinne des § 1.07 Nummer 6 der Anlage, deren § 15.05 Nr
 (6)
 Zuständige Behörde für die Zulassung von Baumustern von Signalleuchten nach § 3.02 Nr. 2 der Anlage ist das Bundesamt für Seeschiffahrt und Hydrographie.
 (7)
-Zuständige Behörden für die Entgegennahme der Meldungen nach § 12.01 Nr. 2 der Anlage sind die Revierzentralen der Generaldirektion Wasserstraßen und Schifffahrt in Duisburg und Oberwesel.
+Zuständige Behörden für die Entgegennahme der Meldungen nach § 12.01 Nummer 3 und 7 der Anlage sind die Revierzentralen der Generaldirektion Wasserstraßen und Schifffahrt in Duisburg und Oberwesel.
 (8)
 Zuständige Behörde für die Zulassung einer Annahmestelle nach § 15.05 Nummer 2 Satz 1 der Anlage ist die nach Landesrecht bestimmte Behörde.
 (9)

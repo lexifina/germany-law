@@ -42,9 +42,9 @@
 - [§ 21 Entschädigungsberechtigter, Forderungsübergang](0021.md)
 - [§ 22 Ergänzende Bestimmungen](0022.md)
 
-## Abschnitt 7 Datenerhebung
+## Abschnitt 7 Datenverarbeitung
 
-- [§ 23 Datenerhebung](0023.md)
+- [§ 23 Datenverarbeitung](0023.md)
 
 ## Abschnitt 8 Überwachung, zuständige Behörden
 

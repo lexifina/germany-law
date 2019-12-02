@@ -26,7 +26,8 @@
 | § 1.19 | Besondere Anweisungen |
 | § 1.20 | Überwachung |
 | § 1.21 | Sondertransporte; Amphibienfahrzeuge |
-| § 1.22 | Anordnungen vorübergehender Art |
+| § 1.22 | Anordnungen vorübergehender Art der zuständigen Behörde |
+| § 1.22a | Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt |
 | § 1.23 | Erlaubnis besonderer Veranstaltungen |
 | § 1.24 | Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze |
 |  |

@@ -1067,6 +1067,7 @@
 | § 882f | Einsicht in das Schuldnerverzeichnis |
 | § 882g | Erteilung von Abdrucken |
 | § 882h | Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses |
+| § 882i | Rechte der Betroffenen |
 | Abschnitt 3 |
 | Zwangsvollstreckung zur Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen oder Unterlassungen |
 | § 883 | Herausgabe bestimmter beweglicher Sachen |

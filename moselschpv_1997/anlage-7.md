@@ -104,6 +104,7 @@ B.11 a) Gebot, Sprechfunk zu benutzen.
       (§ 4.05 Nr. 5)
       Beispiel: Kanal 11
       ... nicht darstellbare 2 Tafelzeichen
+| B.12 | Gebot zur Nutzung von Landstromanschlüssen(§ 7.06 Nr. 3) |  |
 C. Zeichen für Einschränkungen
 C.1 Die Fahrwassertiefe ist begrenzt.
     ... nicht darstellbares Tafelzeichen

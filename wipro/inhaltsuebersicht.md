@@ -64,7 +64,7 @@
 | (weggefallen) | § 36 |
 |  |
 | Sechster Abschnitt: Allgemeine Vorschriften für das Verwaltungsverfahren |
-| Untersuchungsgrundsatz, Mitwirkungspflicht, Übermittlung personenbezogenen Daten | § 36a |
+| Untersuchungsgrundsatz, Mitwirkungspflicht, Datenübermittlung | § 36a |
 |  |
 | Siebenter Abschnitt: Berufsregister |
 | Registerführende Stelle | § 37 |

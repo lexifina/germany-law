@@ -59,6 +59,9 @@
 | § 39 | Postgeheimnis |
 | § 40 | Mitteilungen an Gerichte und Behörden |
 | § 41 | Datenschutz |
+| § 41a | Anschriften, Daten zum Zweck der Zustellung |
+| § 41b | Ausweisdaten |
+| § 41c | Fundbriefe |
 | § 42 | Kontrolle und Durchsetzung von Verpflichtungen |
 | Abschnitt 10 |
 |  | Postwertzeichen, Regulierungsbehörde |
@@ -71,7 +74,6 @@
 | Abschnitt 11 |
 |  | Bußgeldvorschriften |
 | § 49 | Bußgeldvorschriften |
-| § 50 | Zuständige Behörde |
 | Abschnitt 12 |
 |  | Übergangsvorschriften |
 | § 51 | Befristete gesetzliche Exklusivlizenz |

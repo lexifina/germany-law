@@ -257,13 +257,12 @@ Pflegeleistungen
 ### Erster Abschnitt Informationsgrundlagen
 
 
-#### Erster Titel Grundsätze der Datenverwendung
+#### Erster Titel Grundsätze der Datenverarbeitung
 
 - [§ 93 Anzuwendende Vorschriften](0093.md)
 - [§ 94 Personenbezogene Daten bei den Pflegekassen](0094.md)
 - [§ 95 Personenbezogene Daten bei den Verbänden der Pflegekassen](0095.md)
-- [§ 96 Gemeinsame Verarbeitung und Nutzung personenbezogener
-Daten](0096.md)
+- [§ 96 Gemeinsame Verarbeitung personenbezogener Daten](0096.md)
 - [§ 97 Personenbezogene Daten beim Medizinischen Dienst](0097.md)
 - [§ 97a Qualitätssicherung durch Sachverständige](0097a.md)
 - [§ 97b Personenbezogene Daten bei den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden und den Trägern der Sozialhilfe](0097b.md)

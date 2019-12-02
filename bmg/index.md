@@ -15,10 +15,10 @@
 ## Abschnitt 2 Schutzrechte
 
 - [§ 8 Schutzwürdige Interessen der betroffenen Person](0008.md)
-- [§ 9 Rechte der betroffenen Person](0009.md)
-- [§ 10 Auskunft an die betroffene Person](0010.md)
+- [§ 9 (weggefallen)](0009.md)
+- [§ 10 Auskunftsrecht der betroffenen Person](0010.md)
 - [§ 11 Auskunftsbeschränkungen](0011.md)
-- [§ 12 Berichtigung und Ergänzung von Daten](0012.md)
+- [§ 12 Recht auf Berichtigung](0012.md)
 - [§ 13 Aufbewahrung von Daten](0013.md)
 - [§ 14 Löschung von Daten](0014.md)
 - [§ 15 Aufbewahrung und Löschung von Hinweisen](0015.md)
@@ -43,7 +43,7 @@
 - [§ 28 Besondere Meldepflichten für Binnenschiffer und Seeleute](0028.md)
 - [§ 29 Besondere Meldepflicht in Beherbergungsstätten](0029.md)
 - [§ 30 Besondere Meldescheine für Beherbergungsstätten](0030.md)
-- [§ 31 Nutzungsbeschränkungen](0031.md)
+- [§ 31 Verarbeitungsbeschränkungen](0031.md)
 - [§ 32 Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen](0032.md)
 
 ## Abschnitt 5 Datenübermittlungen
@@ -87,5 +87,6 @@
 
 - [§ 55 Regelungsbefugnisse der Länder](0055.md)
 - [§ 56 Verordnungsermächtigungen](0056.md)
+- [§ 56 Verordnungsermächtigungen](0056-2.md)
 - [§ 57 Verwaltungsvorschriften](0057.md)
-- [§ 58 Bericht und Evaluierung](0058.md)
+- [§ 58 (weggefallen)](0058.md)

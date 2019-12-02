@@ -131,7 +131,7 @@
 
 ## Kapitel 8 Datenschutz, gemeinsames Verfahren, Zoll
 
-- [§ 77 Erhebung und Verarbeitung von Informationen einschließlich personenbezogener Daten](0077.md)
+- [§ 77 Verarbeitung von Informationen einschließlich personenbezogener Daten](0077.md)
 - [§ 78 Übermittlung von Informationen einschließlich personenbezogener Daten an die zuständige Behörde](0078.md)
 - [§ 79 Gemeinsames Verfahren von Bund und Ländern](0079.md)
 - [§ 80 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten und Vertragsstaaten](0080.md)

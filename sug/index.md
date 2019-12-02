@@ -63,7 +63,7 @@
 
 ### Unterabschnitt 7 Allgemeine Vorschriften
 
-- [§ 33 Erhebung, Verarbeitung und Nutzung von Daten](0033.md)
+- [§ 33 Verarbeitung](0033.md)
 - [§ 34 Vertraulichkeit](0034.md)
 - [§ 35 Übermittlung an öffentliche Stellen](0035.md)
 - [§ 36 Aufbewahrungs- und Löschungsfristen](0036.md)

@@ -13,6 +13,7 @@
 | § 11 | Ausschluss aus der Entschädigungseinrichtung |
 | § 12 | Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums |
 | § 13 | Verschwiegenheitspflicht |
+| § 13a | Verarbeitung personenbezogener Daten |
 | § 14 | Nichtanwendung des Versicherungsaufsichtsgesetzes |
 | § 15 | Bußgeldvorschriften |
 | § 16 | Zwangsmittel |

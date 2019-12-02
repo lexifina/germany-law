@@ -11,7 +11,7 @@
 | § 4a | Entnahme bei toten Embryonen und Föten |
 | § 5 | Nachweisverfahren |
 | § 6 | Achtung der Würde des Organ- und Gewebespenders |
-| § 7 | Datenerhebung und -verwendung; Auskunftspflicht |
+| § 7 | Datenverarbeitung, Auskunftspflicht |
 |  |
 |  | Abschnitt 3Entnahme von Organenund Geweben bei lebenden Spendern |
 | § 8 | Entnahme von Organen und Geweben |

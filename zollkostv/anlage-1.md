@@ -12,11 +12,13 @@ Vorbemerkungen
 Die Untersuchungsgebühr bemisst sich für den Aufbau der Untersuchungsanlage, die Untersuchung der Ware, den Abbau und die Reinigung der Untersuchungsanlage sowie die Dokumentation des Untersuchungsergebnisses nach den in den Abschnitten A bis G aufgeführten Sätzen. Vermindert sich der zur Durchführung der Untersuchung erforderliche Aufwand durch Reihenuntersuchungen von Waren gleicher oder ähnlicher Art erheblich, so werden die Gebührensätze mit Ausnahme der Grundgebühren entsprechend, höchstens bis zur Hälfte der Sätze, ermäßigt.
 (2)
 Sind für Untersuchungen Gebührensätze nicht festgelegt oder ist im Gebührentarif bestimmt, dass die Gebühr nach dem Zeitaufwand (nZ) zu bemessen ist, so ist als Stundensatz zugrunde zu legen:
-| a) für Beamte des höheren Dienstes und vergleichbare Angestellte | 63 Euro, |
-| b) für sonstige Bedienstete | 44 Euro. |
+| a) für Beamtinnen und für Beamte des höheren Dienstes und vergleichbare Angestellte | 73 Euro, |
+| b) für sonstige Bedienstete | 50 Euro. |
 Für jede angefangene Viertelstunde ist ein Viertel des Stundensatzes zu berechnen.
 (3)
 Zu den Untersuchungen rechnen auch aufwändige Probenvorbereitungen, die nach Sachlage erforderliche Begutachtung von Waren anhand von Zeichnungen, Prospekten, Angaben des Antragstellers oder Anmeldepflichtigen und weiteren zu Dokumentationszwecken eingereichten Unterlagen sowie die Auswertung von Analyseergebnissen und -zeugnissen. Für diese Untersuchungen und die Dokumentation des Ergebnisses werden Gebühren nach dem Zeitaufwand angesetzt. Im Zusammenhang mit Warenuntersuchungen aufgewendete Zeiten für Literaturstudium, Besprechungen und dergleichen sind für die Gebührenberechnung nur zu berücksichtigen, soweit die betreffenden Tätigkeiten nicht über den konkreten Einzelfall hinaus von Bedeutung sind.
+(4)
+DIN- und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin, erschienen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 Untersuchungsgebühr
 | Nummer des Gebührentarifs | Euro (€) | Art der Untersuchung |
 | A. Physikalische und physikochemische Messungen und Untersuchungen |
@@ -64,10 +66,16 @@ Untersuchungsgebühr
 | A.12.6.5 | nZ + Grundgebühr 98,00 | – – Röntgenspektrometer |
 | A.12.6.6 | nZ + Grundgebühr 93,00 | – – Diffraktometer |
 | A.12.6.7 | nZ + Grundgebühr 22,00 | – – Funkenspektrometer (OES) |
-| A.12.6.8 | nZ + Grundgebühr 36,00 | – – andere Spektrographen oder Spektralphotometer |
+| A.12.6.8 |  | – Kernresonanzspektroskopie (NMR) |
+| A.12.6.8.1 | nZ + Grundgebühr 133,00 | – – – mit der Kernresonanzspektroskopie (300-MHz-NMR) |
+| A.12.6.8.2 | nZ + Grundgebühr 50,00 | – – – mit der Kernresonanzspektroskopie (andere) |
+| A.12.6.9 | nZ + Grundgebühr 36,00 | – – andere Spektrographen oder Spektralphotometer |
+| A.12.7 | nZ + Grundgebühr 25,00 | – Messung mit dem Differenzkalorimeter |
+| A.12.8 | nZ + Grundgebühr 36,00 | – andere Spektrographen oder Spektralphotometer |
 | A.13 |  | Messung der Radioaktivität |
 | A.13.1 | 12,00 | – mit dem Geiger-Müller-Zählrohr |
-| A.13.2 | nZ + Grundgebühr 58,00 | – anders |
+| A.13.2 | nZ + Grundgebühr 98,00 | – mit dem Flüssigszintillationszähler |
+| A.13.3 | nZ + Grundgebühr 58,00 | – anders |
 | A.14 |  | Chromatographische Bestimmung |
 | A.14.1 |  | – mit dem Gaschromatographen |
 | A.14.1.1 | nZ + Grundgebühr 56,00 | – – mit dem massenselektiven Detektor |
@@ -82,6 +90,7 @@ Untersuchungsgebühr
 | A.16 |  | Mikroskopische Untersuchung |
 | A.16.1 | nZ | – ohne Bilddokumentation |
 | A.16.2 | nZ + Grundgebühr 14,00 | – mit Bilddokumentation |
+| A.16.3 | nZ + Grundgebühr 75,00 | – Mikroskopische Untersuchungen mit dem Elektronenmikroskop oder Elementanalyse (EDS) |
 | A.17 | nZ | Physikalische und physikochemische Messung und Untersuchung, anderweit nicht genannt |
 | B. Chemische Untersuchungen |
 | B.1 |  | Bestimmung des Abdampfrückstands |
@@ -273,7 +282,7 @@ Untersuchungsgebühr
 | F.6 | 120,00 | Pourpoint nach ISO 3016* |
 | F.7 | 96,00 | Ölgehalt in Paraffin nach ASTM D 721/ISO 2908* |
 | F.8 | 48,00 | Erstarrungspunkt am rotierenden Thermometer nach ISO 2207* |
-| F.9 | 72,00 | Tropfpunkt nach Ubbelohde; DIN 51801* |
+| F.9 | 72,00 | Bestimmung des Tropfpunkts |
 | F.10 | 72,00 | Nadelpenetration nach ISO 1426* |
 | F.11 | 96,00 | Walk-Konuspenetration nach ISO 2137* |
 | F.12 | 72,00 | Konuspenetration nach ISO 2137* |

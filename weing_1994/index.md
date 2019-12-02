@@ -74,7 +74,7 @@
 - [§ 31 Allgemeine Überwachung](0031.md)
 - [§ 32 Rückstandsbeobachtung bei geernteten Weintrauben](0032.md)
 - [§ 33 Meldungen, Übermittlung von Informationen](0033.md)
-- [§ 34 Verwendung von Einzelangaben; Weitergabe von Daten aus der Weinbaukartei](0034.md)
+- [§ 34 Verarbeitung von Einzelangaben; Übermittlung von Daten aus der Weinbaukartei](0034.md)
 
 ## 7. Abschnitt Einfuhr
 

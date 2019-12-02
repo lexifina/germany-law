@@ -6,7 +6,7 @@
 - [§ 1 Gegenstand der Verordnung](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
-## Teil 2 Maßnahmen nach den §§ 100a, 100e der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, den §§ 23a bis 23c und 23e des Zollfahndungsdienstgesetzes, § 20l des Bundeskriminalamtgesetzes oder nach Landesrecht
+## Teil 2 Maßnahmen nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, den §§ 23a bis 23c und 23e des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes oder nach Landesrecht
 
 
 ### Abschnitt 1 Kreis der Verpflichteten, Grundsätze

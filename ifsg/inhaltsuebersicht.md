@@ -3,7 +3,7 @@
 | 1. Abschnitt - Allgemeine Vorschriften |
 |  |
 | § 1 | Zweck des Gesetzes |
-| § 1a | Verarbeitung personenbezogener Daten |
+| § 1a | (weggefallen) |
 | § 2 | Begriffsbestimmungen |
 | § 3 | Prävention durch Aufklärung |
 |  |

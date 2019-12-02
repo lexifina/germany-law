@@ -12,10 +12,10 @@ Allgemeine Bestimmungen
 Abschnitt 2
 Schutzrechte
 | § 8 | Schutzwürdige Interessen der betroffenen Person |
-| § 9 | Rechte der betroffenen Person |
-| § 10 | Auskunft an die betroffene Person |
+| § 9 | (weggefallen) |
+| § 10 | Auskunftsrecht der betroffenen Person |
 | § 11 | Auskunftsbeschränkungen |
-| § 12 | Berichtigung und Ergänzung von Daten |
+| § 12 | Recht auf Berichtigung |
 | § 13 | Aufbewahrung von Daten |
 | § 14 | Löschung von Daten |
 | § 15 | Aufbewahrung und Löschung von Hinweisen |
@@ -38,7 +38,7 @@ Besondere Meldepflichten
 | § 28 | Besondere Meldepflichten für Binnenschiffer und Seeleute |
 | § 29 | Besondere Meldepflicht in Beherbergungsstätten |
 | § 30 | Besondere Meldescheine für Beherbergungsstätten |
-| § 31 | Nutzungsbeschränkungen |
+| § 31 | Verarbeitungsbeschränkungen |
 | § 32 | Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen |
 Abschnitt 5
 Datenübermittlungen
@@ -77,4 +77,4 @@ Sonstige Vorschriften, Schlussvorschriften
 | § 55 | Regelungsbefugnisse der Länder |
 | § 56 | Verordnungsermächtigungen |
 | § 57 | Verwaltungsvorschriften |
-| § 58 | Bericht und Evaluierung |
+| § 58 | (weggefallen) |

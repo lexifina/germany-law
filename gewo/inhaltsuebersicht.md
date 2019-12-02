@@ -15,7 +15,7 @@
 | § 8 | Ablösung von Rechten |
 | § 9 | Streitigkeiten über Aufhebung oder Ablösung von Rechten |
 | § 10 | Kein Neuerwerb von Rechten |
-| § 11 | Erhebung, Verarbeitung und Nutzung personenbezogener Daten |
+| § 11 | Verarbeitung personenbezogener Daten |
 | § 11a | Vermittlerregister |
 | § 11b | Bewacherregister |
 | § 11c | Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraums bei reglementierten Berufen |
@@ -186,7 +186,7 @@
 | Titel XI |
 | Gewerbezentralregister |
 | § 149 | Einrichtung eines Gewerbezentralregisters |
-| § 150 | Auskunft auf Antrag betroffener Personen |
+| § 150 | Auskunft auf Antrag der betroffenen Person |
 | § 150a | Auskunft an Behörden oder öffentliche Auftraggeber |
 | § 150b | Auskunft für die wissenschaftliche Forschung |
 | § 150c | Auskunft an ausländische sowie über- und zwischenstaatliche Stellen |

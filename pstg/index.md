@@ -141,6 +141,7 @@ Personenstandsregister
 - [§ 66 Benutzung für wissenschaftliche Zwecke](0066.md)
 - [§ 67 Einrichtung zentraler Register](0067.md)
 - [§ 68 Mitteilungen an Behörden und Gerichte von Amts wegen](0068.md)
+- [§ 68a Rechte der betroffenen Person](0068a.md)
 
 ## Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten
 

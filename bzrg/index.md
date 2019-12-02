@@ -69,7 +69,7 @@ Gewerbes](0018.md)
 #### 2. Unbeschränkte Auskunft aus dem Register
 
 - [§ 41 Umfang der Auskunft](0041.md)
-- [§ 42 Auskunft an die Betroffenen](0042.md)
+- [§ 42 Auskunft an die betroffene Person](0042.md)
 - [§ 42a Auskunft für wissenschaftliche Zwecke](0042a.md)
 - [§ 42b Auskünfte zur Vorbereitung von Rechtsvorschriften
 und allgemeinen Verwaltungsvorschriften](0042b.md)
@@ -123,7 +123,7 @@ des Verurteilten
 - [§ 61 Auskunft aus dem Erziehungsregister](0061.md)
 - [§ 62 Suchvermerke](0062.md)
 - [§ 63 Entfernung von Eintragungen](0063.md)
-- [§ 64 Begrenzung von Offenbarungspflichten des Betroffenen](0064.md)
+- [§ 64 Begrenzung von Offenbarungspflichten der betroffenen Person](0064.md)
 
 ## Vierter Teil Übernahme des Strafregisters beim
 Generalstaatsanwalt der Deutschen Demokratischen Republik

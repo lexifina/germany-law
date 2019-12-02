@@ -36,7 +36,7 @@
 - [§ 19 Aufbewahrung und Vernichtung der Unterlagen](0019.md)
 - [§ 20 Speichern, Verändern und Nutzen personenbezogener Daten in Dateien](0020.md)
 - [§ 21 Übermittlung und Zweckbindung](0021.md)
-- [§ 22 Berichtigen, Löschen und Sperren personenbezogener Daten](0022.md)
+- [§ 22 Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten](0022.md)
 - [§ 23 Auskunft über gespeicherte personenbezogene Daten](0023.md)
 
 ## Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich

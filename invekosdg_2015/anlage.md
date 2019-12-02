@@ -8,7 +8,7 @@
   e) Angaben zur Aufspaltung des Betriebes eines Betriebsinhabers nach dem 18. Oktober 2011 oder zur Entstehung eines Betriebes durch eine solche Aufspaltung,
   f) Angaben zur Feststellung der Eigenschaft als Junglandwirt im Sinne des Artikels 50 Absatz 2, auch in Verbindung mit den Absätzen 3 und 11 der Verordnung (EU) Nr. 1307/2013,
   g) Angaben zur Teilnahme an der Kleinerzeugerregelung im Sinne des Titels V der Verordnung (EU) Nr. 1307/2013,
-  h) landwirtschaftliche und, soweit sie für die Aktivierung von Zahlungsansprüchen genutzt werden sollen, nichtlandwirtschaftliche Flächen des Betriebes nach Lage und Größe zuzüglich kartographischer Unterlagen, die sie betreffenden Bewirtschaftungsauflagen und die jeweiligen Nutzungen,
+  h) landwirtschaftliche und, soweit sie für die Aktivierung von Zahlungsansprüchen verwendet werden sollen, nichtlandwirtschaftliche Flächen des Betriebes nach Lage und Größe zuzüglich kartographischer Unterlagen, die sie betreffenden Bewirtschaftungsauflagen und die jeweiligen Nutzungen,
   i) Arten, Anzahl und Bestandsregister der gehaltenen landwirtschaftlichen Nutztiere,
   j) Landschaftselemente als Bestandteil jeder einzelnen landwirtschaftlichen Fläche,
   k) bei Ackerland im Umweltinteresse genutzte Flächen als Bestandteil jeder einzelnen landwirtschaftlichen Fläche,

@@ -12,6 +12,7 @@
 - [§ 4b Beschwerden](0004b.md)
 - [§ 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren](0004c.md)
 - [§ 4d Meldung von Verstößen; Verordnungsermächtigung](0004d.md)
+- [§ 4e Vorschriften über die Verarbeitung personenbezogener Daten](0004e.md)
 
 ## Zweiter Abschnitt Organisation
 

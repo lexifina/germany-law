@@ -17,7 +17,7 @@
 - [§ 8 Ablösung von Rechten](0008.md)
 - [§ 9 Streitigkeiten über Aufhebung oder Ablösung von Rechten](0009.md)
 - [§ 10 Kein Neuerwerb von Rechten](0010.md)
-- [§ 11 Erhebung, Verarbeitung und Nutzung personenbezogener Daten](0011.md)
+- [§ 11 Verarbeitung personenbezogener Daten](0011.md)
 - [§ 11a Vermittlerregister](0011a.md)
 - [§ 11b Bewacherregister](0011b.md)
 - [§ 11c Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen](0011c.md)
@@ -209,7 +209,7 @@ Handwerkskammern, Innungsverbände
 ## Titel XI Gewerbezentralregister
 
 - [§ 149 Einrichtung eines Gewerbezentralregisters](0149.md)
-- [§ 150 Auskunft auf Antrag betroffener Personen](0150.md)
+- [§ 150 Auskunft auf Antrag der betroffenen Person](0150.md)
 - [§ 150a Auskunft an Behörden oder öffentliche Auftraggeber](0150a.md)
 - [§ 150b Auskunft für die wissenschaftliche Forschung](0150b.md)
 - [§ 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen](0150c.md)

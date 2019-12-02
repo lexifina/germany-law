@@ -44,8 +44,7 @@ Vereinbarungen](0019.md)
 
 - [§ 21 Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung](0021.md)
 - [§ 22 Befugnisse der zuständigen Behörden](0022.md)
-- [§ 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden,
-Jahresbericht](0023.md)
+- [§ 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht](0023.md)
 - [§ 24 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften](0024.md)
 - [§ 25 Bußgeldvorschriften](0025.md)
 - [§ 26 Strafvorschriften](0026.md)

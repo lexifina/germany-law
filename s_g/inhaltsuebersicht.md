@@ -31,7 +31,7 @@
 | § 19 | Aufbewahrung und Vernichtung der Unterlagen |
 | § 20 | Speichern, Verändern und Nutzen personenbezogener Daten in Dateien |
 | § 21 | Übermittlung und Zweckbindung |
-| § 22 | Berichtigen, Löschen und Sperren personenbezogener Daten |
+| § 22 | Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten |
 | § 23 | Auskunft über gespeicherte personenbezogene Daten |
 | Fünfter Abschnitt |
 |  | Sonderregelungen für den nichtöffentlichen Bereich |

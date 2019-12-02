@@ -199,7 +199,7 @@
 - [§ 86 Erhebung personenbezogener Daten](0086.md)
 - [§ 86a Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration](0086a.md)
 - [§ 87 Übermittlungen an Ausländerbehörden](0087.md)
-- [§ 88 Übermittlungen bei besonderen gesetzlichen Verwendungsregelungen](0088.md)
+- [§ 88 Übermittlungen bei besonderen gesetzlichen Verarbeitungsregelungen](0088.md)
 - [§ 88a Verarbeitung von Daten im Zusammenhang mit Integrationsmaßnahmen](0088a.md)
 - [§ 89 Verfahren bei identitätsüberprüfenden, -feststellenden und -sichernden Maßnahmen](0089.md)
 - [§ 90 Übermittlungen durch Ausländerbehörden](0090.md)

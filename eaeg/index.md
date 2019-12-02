@@ -14,6 +14,7 @@
 - [§ 11 Ausschluss aus der Entschädigungseinrichtung](0011.md)
 - [§ 12 Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums](0012.md)
 - [§ 13 Verschwiegenheitspflicht](0013.md)
+- [§ 13a Verarbeitung personenbezogener Daten](0013a.md)
 - [§ 14 Nichtanwendung des Versicherungsaufsichtsgesetzes](0014.md)
 - [§ 15 Bußgeldvorschriften](0015.md)
 - [§ 16 Zwangsmittel](0016.md)

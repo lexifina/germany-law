@@ -39,7 +39,7 @@ Steuersachen](0006.md)
 - [§ 10 Mitteilungen über Pflichtverletzungen und andere Informationen](0010.md)
 - [§ 10a Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen](0010a.md)
 - [§ 10b Vorwarnmechanismus](0010b.md)
-- [§ 11 Erhebung und Verwendung personenbezogener Daten](0011.md)
+- [§ 11 Verarbeitung personenbezogener Daten](0011.md)
 - [§ 12 Hilfeleistung im Abgabenrecht fremder Staaten](0012.md)
 
 ### Zweiter Abschnitt Lohnsteuerhilfevereine

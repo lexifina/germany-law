@@ -63,8 +63,9 @@ D. Empfehlende Zeichen
 E. Hinweiszeichen
 | E.1 | Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).(§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a) |  |
 | E.2 | Kreuzung einer Hochspannungsleitung. |  |
-| E.3 | (ohne Inhalt) |  |
-| E.4 | Nicht frei fahrende Fähre. |  |
+| E.3 | Wehr |  |
+| E.4a | Nicht frei fahrende Fähre. |  |
+| E.4b | Frei fahrende Fähre |  |
 | E.5 | Erlaubnis zum Stilliegen auf der Seite der Wasserstraße, auf der das Zeichen steht.(§ 7.05 Nr. 1) |  |
 | E.5.1 | Erlaubnis zum Stilliegen auf der Wasserfläche, deren Breite, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.(§ 7.05 Nr. 2) |  |
 | E.5.2 | Erlaubnis zum Stilliegen auf der Wasserfläche zwischen den zwei Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben sind.(§ 7.05 Nr. 3) |  |

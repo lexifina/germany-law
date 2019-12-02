@@ -382,7 +382,7 @@ Berichterstattung
 - [§ 281 Arbeitsmarktstatistiken](0281.md)
 - [§ 282 Arbeitsmarkt- und Berufsforschung](0282.md)
 - [§ 282a Übermittlung von Daten](0282a.md)
-- [§ 282b Verarbeitung und Nutzung von Daten für die Ausbildungsvermittlung durch die Bundesagentur](0282b.md)
+- [§ 282b Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur](0282b.md)
 - [§ 283 Arbeitsmarktberichterstattung, Weisungsrecht](0283.md)
 
 ### Zweiter Abschnitt Erteilung von Genehmigungen und Erlaubnissen
@@ -623,9 +623,8 @@ zum Erlass von Verwaltungsvorschriften
 
 ### Fünfter Abschnitt Datenschutz
 
-- [§ 394 Erhebung, Verarbeitung und Nutzung von Daten durch die Bundesagentur](0394.md)
-- [§ 395 Datenübermittlung an Dritte; Erhebung, Verarbeitung und Nutzung von
-Sozialdaten durch nichtöffentliche Stellen](0395.md)
+- [§ 394 Verarbeitung von Sozialdaten durch die Bundesagentur](0394.md)
+- [§ 395 Datenübermittlung an Dritte; Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen](0395.md)
 - [§ 396 Kennzeichnungs- und Maßregelungsverbot](0396.md)
 - [§ 397 Automatisierter Datenabgleich](0397.md)
 - [§ 398 Datenübermittlung durch beauftragte Dritte](0398.md)

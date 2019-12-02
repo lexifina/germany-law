@@ -56,8 +56,7 @@ Waffenherstellung, Waffenhandel, Schießstätten, Bewachungsunternehmer
 - [§ 25 Ermächtigungen und Anordnungen](0025.md)
 - [§ 26 Nichtgewerbsmäßige Waffenherstellung](0026.md)
 - [§ 27 Schießstätten, Schießen durch Minderjährige auf Schießstätten](0027.md)
-- [§ 28 Erwerb, Besitz und Führen von Schusswaffen und Munition durch
-Bewachungsunternehmer und ihr Bewachungspersonal](0028.md)
+- [§ 28 Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmer und ihr Bewachungspersonal](0028.md)
 - [§ 28a Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung](0028a.md)
 
 ### Unterabschnitt 5 Verbringen und Mitnahme von Waffen

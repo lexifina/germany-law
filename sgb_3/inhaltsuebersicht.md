@@ -376,7 +376,7 @@
 | § 281 | Arbeitsmarktstatistiken |
 | § 282 | Arbeitsmarkt- und Berufsforschung |
 | § 282a | Übermittlung von Daten |
-| § 282b | Verarbeitung und Nutzung von Daten für die Ausbildungsvermittlung durch die Bundesagentur |
+| § 282b | Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur |
 | § 283 | Arbeitsmarktberichterstattung, Weisungsrecht |
 |  |  |
 | Zweiter Abschnitt |
@@ -614,8 +614,8 @@
 |  |  |
 | Fünfter Abschnitt |
 | Datenschutz |
-| § 394 | Erhebung, Verarbeitung und Nutzung von Daten durch die Bundesagentur |
-| § 395 | Datenübermittlung an Dritte; Erhebung, Verarbeitung und Nutzung von Sozialdaten durch nichtöffentliche Stellen |
+| § 394 | Verarbeitung von Sozialdaten durch die Bundesagentur |
+| § 395 | Datenübermittlung an Dritte; Verarbeitung von Sozialdaten durch nichtöffentliche Stellen |
 | § 396 | Kennzeichnungs- und Maßregelungsverbot |
 | § 397 | Automatisierter Datenabgleich |
 | § 398 | Datenübermittlung durch beauftragte Dritte |

@@ -10,6 +10,7 @@
 | § 4b | Beschwerden |
 | § 4c | Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren |
 | § 4d | Meldung von Verstößen; Verordnungsermächtigung |
+| § 4e | Vorschriften über die Verarbeitung personenbezogener Daten |
 | Zweiter Abschnitt |
 |  | Organisation |
 | § 5 | Organe, Satzung |
