@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-12-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146178
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146178
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung und Sammelbeschluss
+- TOP 1.3.: Genehmigung der Protokolle vom 05.11.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Änderung der BA-Geschäftsordnung: Handhabung der Ordnung und Hausrecht
+- TOP 2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (Antrag) Bürgerinnen und Bürger gestalten ihre Stadt: Ensemblegeschützter Dorfkern Forstenried - Möglichkeiten für Fußgänger*innen, Radfahrer*innen, weitere Entwicklung
+- TOP 3.3.: (E) Stadtbezirksbudget Deutscher Touring-Kajak-Club München e.V. Anschaffung von Kajakausrüstung vom 20.12.2019 bis 31.03.2020 2.938,37 €; Az. 0262.0-19-0291
+- TOP 3.4.: (E) Stadtbezirksbudget Bürgertreff München Süd treff + tee e.V. Öffentlichkeitsarbeit und Empfang für ehrenamtliche Mitarbeiter*innen 859,75 €; Az. 0262.0-19-0292
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Begrünung an der Drygalski Allee
+- TOP 4.4.: (Antrag) Verkürzung der Reinigungsintervalle im Bereich des Busbahnhofes Aidenbachstraße
+- TOP 4.5.: (A) Antwortschreiben BA-Antrag Nr. 14-20 / B 08354 „Insekten schützen - Biodiversität verbessern“
+- TOP 4.6.: Wertstoffcontainer im „EON“-Gelände
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Sanierung der Fahrradwege in der Hofmannstraße
+- TOP 5.1.2: Fahrradgegenverkehr im Bereich Höglwörther Str. / Drygalski-Allee ermöglichen
+- TOP 5.2.: (Antrag) Ersatzabstellplätze für Fahrräder am U-Bahnhof Aidenbachstraße
+- TOP 5.3.: (Antrag) Verkehrssituation Grundschule Walliser Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Tempo-30 Schulzentrum Fürstenried
+- TOP 5.5.: (Antrag) Taxistand Baierbrunner Straße
+- TOP 5.6.: (Antrag) Verkehrsgutachten Campus Süd/Hofmannstraße
+- TOP 5.7.: (Antrag) Treppenabgang S-Bahnhof Solln
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Halteverbot Schertlinstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive 2013-2030
+- TOP 6.4.: (A) Verkauf einer städtischen Immobilie: Schäftlarnstraße/ Fraunbergstraße
+- TOP 6.5.: (Antrag) Bebauungsplan 161 Allescherstraße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Planung der Einsätze für mobile Spiel- und Kunstaktionen 2020 und 2021
+- TOP 7.3.: (A) Satzungsänderung: Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte (Stadtratsantrag)
+- TOP 7.4.: (A) Satzungsänderung: Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung
+- TOP 7.5.: (Antrag) Gymnasium an der Gmunder Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Straßenerläuterungsschilder im 19. Stadtbezirk
+- TOP 8.3.: (A) Vermietung stadteigenes Grundstück: Constanze-Hallgarten-Straße
+- TOP 8.4.: (U) Gaststättenfortführung: Herterichstraße 46
