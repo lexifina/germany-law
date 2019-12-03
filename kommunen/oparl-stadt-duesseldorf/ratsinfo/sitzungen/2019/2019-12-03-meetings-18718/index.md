@@ -1,0 +1,68 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-03T16:00:00+01:00
+- Ende: 2019-12-03T20:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18718
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18718
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket BV2 03.12.2019 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364557.pdf
+- Ergebnisprotokoll: Sitzungspaket BV2 03.12.2019 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364557.pdf
+- Wortprotokoll: Sitzungspaket BV2 03.12.2019 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364557.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/02/2019 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Grünanlage Buscher Mühle - Konzept einer Parksanierung und Aufwertung - zur Kenntnis genommen
+- TOP 5: Neuwahl einer Schiedsperson -Vorstellung der Kandidatinnen und des Kandidaten - Empfehlung mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - Empfehlung mehrheitlich beschlossen
+- TOP 9: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung einstimmig beschlossen
+- TOP 10: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 11: Bezirklicher Bauunterhalt Stadtbezirk 2 - Schulbaumaßnahmen - - einstimmig beschlossen
+- TOP 12: Bezirksbezogener Bauunterhalt - Vergabe der Restmittel 2019
+- TOP -: Anträge
+- TOP 13: Bezirksbezogene Bauunterhaltungsmittel für Errichtung von Stelen am Wehrhahn und am ehemaligen Consum, Ronsdorfer Str. 77a im Rahmen des Industriepfades Flingern - Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen
+- TOP 14: Bauunterhalt Liste B Restmittel - Antrag der CDU-Fraktion
+- TOP 15: Bezirksbezogene Haushaltsmittel - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 16: Bezirksbezogene Haushaltsmittel - Initiative "Lebende Weihnachtsbäume in Düsseldorf" - Antrag der Fraktionen Bündnis 90/Die Grünen und SPD
+- TOP 17: Walter-Eucken-Straße – Belästigungen durch Wochenendparker - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 18: Cranachbrücke/Schwelmer Straße - Beleuchtung - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 19: OSD - Gedankenaustausch im Koordinationskreis - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 20: Scheidtstraße/Brehmstraße – Gefahrenstelle - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 21: Fahrradständer Cranachstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 22: Sitzgelegenheit Stadt-Natur Park Flingern - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Dependance der Heinrich-Heine-Gesamtschule/Schulwegsicherung - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 26: Neue Haltestelle Allwetterbad - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 27: Ein neuer Tannenbaum für den Edisonplatz - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 28: Zoopavillon Brehmplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 29: Kleinteilige Infrastruktur in Grafental - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 30: Entwicklung METRO-Gelände - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 31: Tempo 30 auf der Ahnfeldstraße - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP -: Anfragen
+- TOP 32: Baumfällungen und Nachpflanzungen im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 33: Neue Bäume im Bezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 34: Bedarf an Mikroappartements im Stadtbezirk 2 - Anfrage der Fraktion Bündnis90/Die Grünen - beantwortet
+- TOP 35: Brehmplatz - Zoo-Pavillon/Gebäudesanierung - Anfrage der SPD-Fraktion - beantwortet
+- TOP 36: Ersatzpflanzungen Flurstraße 57 "Wohnpark Flingern" - Anfrage von Brigitte Reich - beantwortet
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Fahrradständer Kühlwetterstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 40: Neues Gymnasium Heinzelmännchenweg / Grafental - Anfrage der CDU-Fraktion - beantwortet
+- TOP 41: Wirkung der Umweltspur im Straßennetz des Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP -: Informationsvorlagen
+- TOP 42: Mehr Biodiversität auf städtischen Flächen im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, BV2/054/2019 - zur Kenntnis genommen
+- TOP 43: Anpflanzung neuer Bäume im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Dr.Nr. BV2/037/2019 - zur Kenntnis genommen
+- TOP 44: Fahrradständer Graf-Recke-Straße/Tiergartenstraße - Beschluss der Bezirksvertretung 2, Dr.Nr. BV2/059/2019 - zur Kenntnis genommen
+- TOP 45: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 46: Haus für Kinder, Jugendliche und Familien Froschkönigweg, Stadtbezirk 2 (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 47: Vorstellung der Ergebisse des Ideenwettbewerbs Change sth für Kinder und Jugendliche zum Thema "Was fehlt Euch zu Eurem Glück in Flingern" - mündlicher Bericht - zur Kenntnis genommen
