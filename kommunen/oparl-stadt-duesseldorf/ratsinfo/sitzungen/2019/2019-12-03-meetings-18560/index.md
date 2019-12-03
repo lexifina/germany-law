@@ -1,0 +1,51 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-03T15:00:00+01:00
+- Ende: 2019-12-03T16:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18560
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18560
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket (Stand: 25.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364796.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket (Stand: 25.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364796.pdf
+- Wortprotokoll: Digitales Sitzungspaket (Stand: 25.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364796.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen gemäß § 21 (14) Geschäftsordnung des Rates - einstimmig beschlossen
+- TOP 3: Terminplan für die Sitzungen des Jugendhilfeausschusses im Jahr 2020 (2. Halbjahr) - einstimmig beschlossen
+- TOP 4: Anfrage
+- TOP 4.1: Anfrage der CDU-Ratsfraktion: Neues Honorierungssystem für ausbildende Erzieherinnen und Erzieher - beantwortet
+- TOP 5: Berichte
+- TOP 5.1: Bildungs- und Freizeitveranstaltungen der Jugendverbände Düsseldorf - hier: Gedenkstättenfahrt der Falken - zur Kenntnis genommen
+- TOP 5.2: Jugendratswahl 2019 - Rückblick - zur Kenntnis genommen
+- TOP 5.3: Ausblick auf den Umbau der Freizeitstätte Garath, Fritz-Erler-Str. 21 - zur Kenntnis genommen
+- TOP 6: Präventionsketten Düsseldorf
+- TOP 6.1: Präventionskonzept für Kinder, Jugendliche und junge Erwachsene in Düsseldorf - vertagt
+- TOP 6.2: Düsseldorfer Präventionsketten: Elterntalk NRW - Elternarbeit durch geschultes Ehrenamt - zur Kenntnis genommen
+- TOP 7: Tageseinrichtungen für Kinder
+- TOP 7.1: Wahl des Jugendamtselternbeirates 2019 - zur Kenntnis genommen
+- TOP 7.2: Organisationsentwicklung im Jugendamt - hier: Kindertagespflege - zur Kenntnis genommen
+- TOP 7.3: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 7.4: Controlling Personal in städtischen Kindertageseinrichtungen in 2019 - zur Kenntnis genommen
+- TOP 8: Jugendförderung
+- TOP 8.1: Investitionskostenzuschüsse an freie Träger der Jugendhilfe - einstimmig beschlossen
+- TOP 8.2: Rückblick auf den Fachkongress „Kinder und Jugendliche haben Rechte“ am 4. September 2019 - zur Kenntnis genommen
+- TOP 8.3: Mittagsverpflegung in Offenen Ganztagsschulen (OGS) - mehrheitlich beschlossen
+- TOP 9: Familienförderung
+- TOP 9.1: Informationen zur Unterhaltsvorschussstelle der Abteilung Familienförderung im Jugendamt - zur Kenntnis genommen
+- TOP 9.2: Zusammenarbeit zwischen den Düsseldorfer Erziehungs-, Familien-, Jugend-, Ehe- und Lebensberatungsstellen und dem Zentrum für Schulpsychologie - zur Kenntnis genommen
+- TOP 10: Gebäudeangelegenheiten
+- TOP 10.1: Neubau eines "Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg", Stadtbezirk 6 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 10.2: Spieloase Brunnenstraße 65a, Stadtbezirk 3 – Erweiterung, Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 10.3: Haus für Kinder, Jugendliche und Familien Froschkönigweg, Stadtbezirk 2 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 11: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 11.1: Befristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Bärenclub gGmbH - einstimmig beschlossen
+- TOP 11.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: PRI & PRI KITA Düsseldorf gGmbH - einstimmig beschlossen
+- TOP 11.3: Befristete Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Familie und Beruf gGmbH - mehrheitlich beschlossen
+- TOP 11.4: Befristete Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: PIBEI e.V. (Pädagogisches Institut für Bildung, Erziehung & Inklusion) - einstimmig beschlossen
+- TOP 12: Beschlusskontrolle 2019 - zur Kenntnis genommen
