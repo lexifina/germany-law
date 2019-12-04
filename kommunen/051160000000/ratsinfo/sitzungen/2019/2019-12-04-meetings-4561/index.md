@@ -1,0 +1,67 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-12-04T16:00:00+01:00
+- Ende: 2019-12-04T20:14:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4561
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4561
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: HSP-Umsetzungsbericht 30.09.2019 - Kenntnisnahme
+- TOP 2: Bericht zum Strategischen Controlling - Kenntnisnahme
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2018 - Einstimmiger Beschluss
+- TOP 4: Jahresabschluss 2018 - Verwendung des Jahresergebnisses - Einstimmiger Beschluss
+- TOP 5: Haushaltsrechtliche Abwicklung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 6: Wettbewerbsverfahren Rathaus der Zukunft mg+; Wettbewerbsergebnis und weiteres Vorgehen - Mit Stimmenmehrheit beschlossen
+- TOP 7: Wirtschaftsplan Rathaus der Zukunft mg+ 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 9: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 10: Sachstandsbericht Wohnungsbaugesellschaften - Kenntnisnahme
+- TOP 11: Wirtschaftsplan 2020 der mags - An den Rat verwiesen
+- TOP 11.1: Vorlage 4197/IX: Wirtschaftsplan 2020 der mags - An den Rat verwiesen
+- TOP 12: Vierter Nachtrag mags-Satzung - An den Rat verwiesen
+- TOP 12.1: Satzung der Mönchengladbacher Abfall-, Grün- und Straßenbetriebe AöR (mags), hier: Ergänzung der Sat - An den Rat verwiesen
+- TOP 13: Friedhofs- und Friedhofsgebührensatzung - Kenntnisnahme
+- TOP 14: Abfallsatzung, Abfallgebührensatzung - An den Rat verwiesen
+- TOP 14.1: Vorlage 4299/IX: Dritter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgun - An den Rat verwiesen
+- TOP 15: Straßenreinigungssatzung - An den Rat verwiesen
+- TOP 15.1: Vorlage 4300/IX: Dritter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßen - An den Rat verwiesen
+- TOP 16: Einführung der gelben Tonne - Mit Stimmenmehrheit beschlossen
+- TOP 16.1: Vorlage 4318/IX: einführung der gelben Tonne für das Stadtgebiet Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 17: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (4. Nachweisung) - Kenntnisnahme
+- TOP 18: Erster Nachtrag zur Wahlordnung für die Wahl der Mitglieder des Integrationsrates - Einstimmiger Beschluss
+- TOP 19: 1. Fortschreibung der Digitalisierungsstrategie der Stadtverwaltung Mönchengladbach - Einstimmiger Beschluss
+- TOP 20: Inangriffnahme Kunststoffrasen-Kleinspielfeld und Beachvolleyballanlage BSA Schlossstr - Mit Stimmenmehrheit beschlossen
+- TOP 21: Inangriffnahme der Qualifizierung der Sportanlage Venn - Einstimmiger Beschluss
+- TOP 22: Digitalisierung an Schulen Zuwendungsmaßnahme zur Anbindung von 22 Schulstandorten an das städtische - Einstimmiger Beschluss
+- TOP 23: Digitalisierung an Schulen Medienentwicklungsplan für die Schulen der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarungen über das Angebot eines "Tagestreffs" - Einstimmiger Beschluss
+- TOP 25: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldnerberatung der Freien Wohlf - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarung Fahrradstationen - Einstimmiger Beschluss
+- TOP 27: Öffentlich-rechtliche Vereinbarung Apothekenaufsicht - Einstimmiger Beschluss
+- TOP 28: Mobilitätssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 29: Fünfter Nachtrag zur Verwaltungsgebührensatzung - Einstimmiger Beschluss
+- TOP 30: Modernisierung von Bahnübergängen - Einstimmiger Beschluss
+- TOP 31: Integriertes Handlungs- und Entwicklungskonzept (IHEK) Rheindahlen-Mitte - Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 32: Festlegung des Stadtumbaugebietes „Stadtumbau Rheindahlen-Mitte“ gemäß § 171 b (1) BauGB - Einstimmiger Beschluss
+- TOP 33: 25. Nachtrag zur Kanalbenutzungsgebührensatzung und 12. Nachtrag zur Klärschlammbeseitigungssatzung - Einstimmiger Beschluss
+- TOP 34: Städtisches Schallschutzfensterprogramm - Einstimmiger Beschluss
+- TOP 35: Sanierung, Modernisierung und Erweiterung der ZBMG - Einstimmiger Beschluss
+- TOP 36: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Schulzentr - Einstimmiger Beschluss
+- TOP 37: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Mathematis - Einstimmiger Beschluss
+- TOP 38: Blühendes Mönchengladbach - Einstimmiger Beschluss
+- TOP 39: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Alternatives Grundstück zum Bau e - Vom Antragsteller zurückgezogen
+- TOP 40: Bericht Sanierung Theodor-Heuss-Straße inklusive Rad- und Fußweg - Vom Antragsteller zurückgezogen
+- TOP 41: Aktualisierung des Gesellschaftsvertrags der Gesellschaft für Wertstofferfassung, - Siehe Niederschrift
+- TOP 42: Artenschutz - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Kita-Bau durch städtische Beteiligungsunternehmen - Einstimmiger Beschluss
+- TOP 44: Förderung von zivilgesellschaftlichem Engagement gegen Extremismus - Einstimmiger Beschluss
+- TOP 45: Lokalen Handel stärken: Gebühren für Sondernutzung senken - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Mönchengladbach als Teil einer Modellregion für das 365-Euro-Ticket - An den Rat verwiesen
+- TOP 47: Resolution gegen Antisemitismus - Einstimmiger Beschluss
+- TOP 48: Anfragen und Mitteilungen
