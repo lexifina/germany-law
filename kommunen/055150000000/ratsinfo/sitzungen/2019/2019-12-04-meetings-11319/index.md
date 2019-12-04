@@ -1,0 +1,98 @@
+# 45. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-12-04T17:09:00+01:00
+- Ende: 2019-12-04T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11319
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11319
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00453943.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: "Integration durch Gremien stärken" - Antrag der AfD Ratsgruppe im Rat der Stadt Münster (A-R/0015/2019) - mehrheitlich beschlossen
+- TOP 2.2: Antrag der Ratsgruppe AfD an den Rat Nr. A-R/044/2018 „Keine Kommerzialisierung kommunaler Daten“ - mehrheitlich beschlossen
+- TOP 2.3: Antrag der Ratsgruppe AfD an den Rat Nr. A-R/0031/2018: "Den Gründer der Sozialen Marktwirtschaft Alfred Müller-Armack ehren" - mehrheitlich beschlossen
+- TOP 2.4: Vermüllung öffentlicher Räume stoppen - mehrheitlich beschlossen
+- TOP 3: Wirtschaftsplan 2020 der Theaterhaus Pumpenhaus gGmbH - mehrheitlich beschlossen
+- TOP 4: Bestellung des Abschlussprüfers für den Jahresabschluss 2019 der KonvOY GmbH - einstimmig beschlossen
+- TOP 5: Kosten für Abfallentsorgung bei Menschen, die aufgrund einer Behinderung oder aufgrund von gesundheitlichen Einschränkungen einen erhöhten Bedarf an Windeln haben. - einstimmig beschlossen
+- TOP 6: Konzern-Scorecard 2018 - einstimmig beschlossen
+- TOP 7: Planungs- und Baubeschluss: Einrichtung der Schillerstraße/des Lütkenbecker Weges zwischen Hansaring und Theodor-Scheiwe-Straße als Fahrradstraße - einstimmig beschlossen
+- TOP 7.1: Planungs- und Baubeschluss: Einrichtung der Schillerstraße/des Lütkenbecker Weges zwischen Hansaring und Theodor-Scheiwe-Straße als Fahrradstraße
+- TOP 8: Arbeitsmarkt- und Integrationsprogramm 2020 des Jobcenters Münster - mehrheitlich beschlossen
+- TOP -: Berichtsvorlage an den Rat
+- TOP 9: Bericht zur Realisierbarkeit und Kostenschätzung der Forderungen der Fridays for Future - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Etatberatungen
+- TOP 10: Wirtschaftsplan 2020 der citeq - einstimmig beschlossen
+- TOP 11: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Gigabit-Versorgung der Gewerbegebiete - einstimmig beschlossen
+- TOP 12: Aufhebung der öffentlich-rechtlichen Vereinbarung über den Einsatz von Notärztinnen/Notärzten zwischen der Stadt Münster und dem Kreis Coesfeld - einstimmig beschlossen
+- TOP 13: Stadion an der Hammer Straße: Zwischenstand Stadionausbau und Gewährung einer Beihilfe an den SC Preußen Münster - ohne Beschlussfassung geschoben
+- TOP 14: Beirat Stadtregion Münster - ohne Beschlussfassung geschoben
+- TOP 15: Wirtschaftsplan 2020 von Münster Marketing - mehrheitlich beschlossen
+- TOP 15.1: Wirtschaftsplan 2020 von Münster Marketing
+- TOP 16: Fertigbauklassen Ludgerusschule Hiltrup - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 17: Johann-Conrad-Schlaun-Gymnasium: Grundsatzbeschluss für einen Verbleib am Standort Sonnenstraße und zur Sanierung sowie zum Teilneubau für ein 3-zügiges Gymnasium - ohne Beschlussfassung geschoben
+- TOP 18: Verlagerung der Städtischen Berufsfachschule für pharmazeutisch-technische Assistenten der Stadt Münster - einstimmig beschlossen
+- TOP 19: Kindertageseinrichtungen
+- TOP 19.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Robert-Bosch-Straße in Berg Fidel - mehrheitlich beschlossen
+- TOP 19.2: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Am Edelbach in Münster-Coerde, Bezirk Nord - mehrheitlich beschlossen
+- TOP 19.2.1: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Am Edelbach in Münster-Coerde, Bezirk Nord
+- TOP 19.3: Errichtungsbeschluss: Errichtung einer Kindertageseinrichtung östlich des Dahlweges/südlich Roddesttraße im Bezirk - mehrheitlich beschlossen
+- TOP 20: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2020 - einstimmig beschlossen
+- TOP 21: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - ohne Beschlussfassung geschoben
+- TOP 21.1: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022"
+- TOP 22: Handlungsprogramm Klimaschutz 2030 für Münster - ohne Beschlussfassung geschoben
+- TOP 22.1: Handlungsprogramm Klimaschutz 2030 für Münster
+- TOP 23: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 23.1: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster
+- TOP 24: Abfallwirtschaftsbetriebe Münster - mehrheitlich geändert beschlossen
+- TOP 25: Neufassung der Abfallsatzung - einstimmig beschlossen
+- TOP 26: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 26.1: Abwassergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 26.2: Gewässergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 26.3: Anpassung der Satzung für die Benutzung der städtischen Übergangseinrichtungen für Flüchtlinge und Wohnungslose der Stadt Münster und Neufestsetzung der Benutzungsgebühren - einstimmig beschlossen
+- TOP 26.4: Straßenreinigungsgebühren 2020 - mehrheitlich beschlossen
+- TOP 26.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2020 - mehrheitlich beschlossen
+- TOP 26.6: Abfallgebühren 2020 - mehrheitlich geändert beschlossen
+- TOP 26.6.1: Abfallgebühren 2020
+- TOP 27: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2020 - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung von sonstigen Ratsentscheidungen
+- TOP 28: Digitale Stadt Münster: WLAN-Ausbau im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 29: Bericht über die Umsetzung der Handlungsempfehlungen des Gutachters zur strukturellen Verbesserung des Taxengewerbes - zur Kenntnis genommen
+- TOP 30: Antrag an den Rat Nr. A-R/0069/2019 der AfD-Ratsgruppe im Rat der Stadt Münster - mehrheitlich beschlossen
+- TOP 31: Anregung nach § 24 GO NRW Nr. 2019-00185 - mehrheitlich beschlossen
+- TOP 32: Bericht über die Beteiligungen der Stadt Münster im Jahr 2018 (Beteiligungsbericht 2018) - zur Kenntnis genommen
+- TOP 33: Grundsteuerreform - zur Kenntnis genommen
+- TOP 34: Satzung der Stadt Münster für den Nachweis notwendiger Stellplätze und Fahrradabstellplätze (Stellplatzsatzung der Stadt Münster) - einstimmig beschlossen
+- TOP 34.1: Satzung der Stadt Münster für den Nachweis notwendiger Stellplätze und Fahrradabstellplätze (Stellplatzsatzung der Stadt Münster)
+- TOP 35: Förderprogramm für Lastenfahrräder und -anhänger: Erfahrungsbericht - zur Kenntnis genommen
+- TOP 36: Landeswettbewerb "Mobil.NRW - Modellvorhaben innovativer ÖPNV im ländlichen Raum" - einstimmig beschlossen
+- TOP 37: Verwendung der Fördermittel gem. § 11 a und § 11 Abs. 2 ÖPNVG - zur Kenntnis genommen
+- TOP 38: Stadtteilentwicklung Coerde - Errichtung eines multifunktionalen „Stadtteilhauses" am Hamannplatz (Grundsatzbeschluss) - einstimmig beschlossen
+- TOP 39: Planung und Entwicklung eines integrierten Begegnungs-, Bildungs- und Gesundheitszentrums als Bestandteoleines im südlichen Teilbereich des Stadtteilzentrums am Hamannplatz Nr. 36 - 40 neu zu errichtenden "Stadtteilhauses" für Coerde. - einstimmig beschlossen
+- TOP 40: Jugendberufsagentur - mehrheitlich beschlossen
+- TOP 41: Auslaufende Auflösung der Friedensreich-Hundertwasser-Schule zum Schuljahr 2020/2021 - einstimmig beschlossen
+- TOP 42: Änderung des „Allgemeinen Rahmens zur Aufnahme von Schülerinnen/ Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 43: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit, hier: EU-Zuwanderer/-innen ohne Sozialleistungsansprüche - mehrheitlich beschlossen
+- TOP 44: Bauleitplanung
+- TOP 44.1: Stadtbezirk Mitte
+- TOP 44.1.1: 97. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 609 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 44.1.1.1: 97. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 609 - Beschluss zur Aufstellung
+- TOP 44.1.2: Bebauungsplan Nr. 391 - 6. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 44.1.3: Bebauungsplan Nr. 391 - vorhabenbezogene 5. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 44.2: Stadtbezirk West
+- TOP 44.2.1: 3. Änderung des Bebauungsplans Nr. 268 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 44.2.2: 3. Änderung des Bebauungsplans Nr. 312 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 44.3: Stadtbezirk Nord
+- TOP 44.3.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 44.4: Stadtbezirk Südost
+- TOP 44.4.1: 63. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 44.4.2: Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 45: Verschiedenes
