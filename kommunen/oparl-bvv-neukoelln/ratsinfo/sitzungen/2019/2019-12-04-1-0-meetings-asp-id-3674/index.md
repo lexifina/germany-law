@@ -1,0 +1,77 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-12-04T17:00:00+01:00
+- Ende: 2019-12-04T22:42:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3674
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3674
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Verkehrsplanung - beantwortet
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Entschließungen - (offen)
+- TOP 3.1: Britzer Traditionsunternehmen Haupt Pharma Berlin GmbH erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 4.1: Haushaltsnahe Altglassammlung in Neukölln sicherstellen - in der BVV abgelehnt
+- TOP 4.2: Mietendeckel für die Neuköllnerinnen und Neuköllner! - beantwortet
+- TOP 4.3: Lange Wartezeiten in Bürgerämtern wegen Personalmangel - Dennoch wenige Stellen im Haushalt 2020/21 - beantwortet
+- TOP 4.4: Gilt in Neuköllner Schulkantinen die Scharia - Teil VIII - schriftlich beantwortet
+- TOP 4.5: Neuköllner Märkte sichern - Händler unterstützen! - in der BVV abgelehnt
+- TOP 4.6: Sportlichen Erfolg wertschätzen - Unterstützung für den SV Tasmania Berlin e.V. I - in der BVV abgelehnt
+- TOP 4.7: Einsammeln von benutzten Drogenspritzen – Sinnvolle Beschäftigung von Drogenkonsumenten - in der BVV abgelehnt
+- TOP 4.8: Einsammeln von benutzten Drogenspritzen, aber nicht von Bezirksamtmitarbeitern - in der BVV abgelehnt
+- TOP 4.9: Spritzen rechtzeitig erkennen - in der BVV abgelehnt
+- TOP 4.10: Neukölln macht´s vor! Inklusionskonzept für die Kinder- und Jugendarbeit in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 4.11: Öko-Logisches Grünflächenmanagement - ohne Änderungen in der BVV beschlossen
+- TOP 4.12: Änderung der Geschäftsordnung I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Änderung der Geschäftsordnung II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Änderung der Geschäftsordnung III - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Änderung der Geschäftsordnung IV - in der BVV abgelehnt
+- TOP 4.16: Erinnerung an die Novemberrevolution - ohne Änderungen in der BVV beschlossen
+- TOP 4.17: Inklusion als Ziele der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 4.18: Genehmigung der im Haushaltsjahr 2018 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Bat-Yam-Platz aufwerten - in der BVV zurückgezogen
+- TOP 4.21: Beleuchtung für Blueberry Inn-Umgebung nicht vergessen - ohne Änderungen in der BVV beschlossen
+- TOP 4.22: Informationen über Organspende in Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 4.23: Gegen Altersarmut - Über Grundsicherung im Alter informieren - ohne Änderungen in der BVV beschlossen
+- TOP 4.24: Vergrößerung der Baumscheiben zwecks besseren Regenwasserzuflusses - in der BVV abgelehnt
+- TOP 4.25: Gute Verkehrsanbindung des Neubaugebiets "Buckower Felder" - beantwortet
+- TOP 4.26: Alt-Buckow 37 - beantwortet
+- TOP 4.27: Umsetzungsstand IFEK Neukölln - vertagt
+- TOP 4.28: Braucht Neukölln ein Karstadt-Quartier? - vertagt
+- TOP 4.29: Erfolg der Maßnahmen zur Clankriminalität - vertagt
+- TOP 4.30: Stolpersteine und die Erteilung von Sondernutzungserlaubnissen - schriftlich beantwortet
+- TOP 4.31: Unhaltbare Zustände in der Außenstelle des Sozialamtes Donaustrasse 89 - schriftlich beantwortet
+- TOP 4.32: Ist der Kleine Fratz deutsch(en)feindlich? - vertagt
+- TOP 4.33: Belastung der Straße Alt-Britz bei Veranstaltungen auf dem Gutshof verhindern - vertagt
+- TOP 4.34: Engstelle der Karl-Marx-Straße am Rathaus Neukölln sicher machen - vertagt
+- TOP 4.35: Keine Kürzung von Fördergelder für Integrationsprojekte - vertagt
+- TOP 4.36: Handeln statt populistischem Spiel - vertagt
+- TOP 4.37: Soko BTM - vertagt
+- TOP 4.38: Überbelastung von Buckow durch Flüchtlingsstandorte verhindern! - vertagt
+- TOP 4.39: Preissystem der Berliner Bäderbetriebe - vertagt
+- TOP 4.40: Lärmprognose in belasteten Gebieten - vertagt
+- TOP 4.41: Sitzbänke am Weigandufer aufstellen - vertagt
+- TOP 4.42: Einrichtung von Boule-Bahnen - vertagt
+- TOP 4.43: Brandschutz in Shisha-Bars sicherstellen - vertagt
+- TOP 4.44: Parkraumbewirtschaftung: Ist das sinnvoll für Neukölln? - vertagt
+- TOP 4.45: Die Buslinie 171 soll wieder durch das Einkaufs- und Dienstleistungszentrum Alt-Rudow fahren - vertagt
+- TOP 4.46: Rudower Dorfteich reinigen - vertagt
+- TOP 4.47: Einhaltung der StVO im Möwenweg - vertagt
+- TOP 4.48: Gehwegbeleuchtung an der Nordseite der Saalestraße sicherstellen - vertagt
+- TOP 4.49: Gehwegbeleuchtung an der Oderstraße sicherstellen - vertagt
+- TOP 4.50: Gehwegbeleuchtung des Mittelbuschwegs sicherstellen - vertagt
+- TOP 4.51: Gefahrensituation in der Glasower Straße entschärfen - vertagt
+- TOP 4.52: Ampelanlage Werbellinstraße / Morusstraße - vertagt
+- TOP 4.53: 27. Januar - Gedenktag für die Opfer des Nationalsozialismus begehen - vertagt
+- TOP 4.54: Sicherung und Aufbau der bezirklichen Schulstationen - vertagt
+- TOP 4.55: Dreck im Gleisbett - vertagt
+- TOP 4.56: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - vertagt
+- TOP 4.57: Klimagerechte BVV-Unterlagen - vertagt
