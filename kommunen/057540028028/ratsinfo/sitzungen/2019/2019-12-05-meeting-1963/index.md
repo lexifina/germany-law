@@ -1,0 +1,57 @@
+# Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss (41. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2019-12-05T17:00:00+01:00
+- Ende: 2019-12-05T19:58:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-16
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRcJ6Lfh3xvSwS_o00ZaIkE
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1963
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSNWZ8j9AFBVDuTQ9P1z5NHpdDlssgDm_X5nb_ldQe_e/Bekanntmachung_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_05.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYJ2yG3fRdZXhQ9TORTce_DXMUWScdDVvHU6iyRGx8bU/Oeffentliche_Niederschrift_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_05.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Bürgerantrag Neuanpflanzung von Bäumen im Stadtgebiet
+- TOP 3.1: Bürgerantrag Neuanpflanzung von Bäumen im Stadtgebiet - Einstimmig
+- TOP 4: Bürgerantrag "Bürgerwald"
+- TOP 4.1: Bürgerantrag "Bürgerwald" - Einstimmig
+- TOP 5: Bürgerantrag Resolution zur Ausrufung des Klimanotstandes
+- TOP 5.1: Bürgerantrag Resolution zur Ausrufung des Klimanotstandes - Einstimmig
+- TOP 6: Bürgerantrag auf Erlass einer Baumschutzsatzung für Rheda-Wiedenbrück
+- TOP 6.1: Bürgerantrag auf Erlass einer Baumschutzsatzung für Rheda-Wiedenbrück - 6 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 7: Antrag der FDP-Fraktion Fürst-Bentheim-Straße als Fahrradstraße
+- TOP 7.1: Antrag der FDP-Fraktion Fürst-Bentheim-Straße als Fahrradstraße - 5 Ja-Stimme(n), 1 Nein-Stimme(n), 5 Enthaltung(en)
+- TOP 8: Abschlussbericht Klimaschutzmanagement Rheda-Wiedenbrück - Kenntnisnahme
+- TOP 9: Umbenennung der Hans-Schmitz-Straße
+- TOP 9.1: Umbenennung der Hans-Schmitz-Straße - 8 Ja-Stimme(n), 3 Nein-Stimme(n)
+- TOP 10: Städtebaulicher Vertrag flankierend zu einem Bebauungsplanverfahren - Einstimmig
+- TOP 11: Bebauungsplan Nr. 399 "Am Rondell / Ringstraße" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit u - Einstimmig
+- TOP 12: ISEK Rheda | Umgestaltung des Doktorplatzes | Möblierung
+- TOP 12.1: ISEK Rheda | Umgestaltung des Doktorplatzes | Möblierung - 5 Ja-Stimme(n), 5 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 13: Alltagsradwege im Kreis Gütersloh - Kenntnisnahme
+- TOP 14: Verkehrssituation Neuenkirchener Straße
+- TOP 14.1: Verkehrssituation Neuenkirchener Straße - 6 Ja-Stimme(n), 2 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 15: Haushaltsplanung 2020 und Vorstellung der geplanten Straßenbaumaßnahmen 2020 - 9 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 16: Nachmalige Herstellung der Straße "Delitzschweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm)
+- TOP 16.1: Nachmalige Herstellung der Straße "Delitzschweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm) - Einstimmig
+- TOP 17: Nachmalige Herstellung der Straße "Petkuserweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm)
+- TOP 17.1: Nachmalige Herstellung der Straße "Petkuserweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm) - Einstimmig
+- TOP 18: Bericht zur Beschlusskontrolle
+- TOP 19: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 20: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 21: Erklärung von Ausschließungsgründen
+- TOP 22: Beschlussfassung über die Empfehlungen zu den Bauvorhaben der 36. Gestaltungsbeiratsitzung
+- TOP 22.1: Beschlussfassung über die Empfehlungen zu den Bauvorhaben der 36. Gestaltungsbeiratsitzung - 7 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 23: Vertragsangelegenheiten
+- TOP 23.1: Vertragsangelegenheiten - Einstimmig
+- TOP 24: Rechtsangelegenheit
+- TOP 25: Bekanntgabe von Auftragsvergaben
+- TOP 26: Bericht zur Beschlusskontrolle
+- TOP 27: Dringende Anfragen und Anregungen
