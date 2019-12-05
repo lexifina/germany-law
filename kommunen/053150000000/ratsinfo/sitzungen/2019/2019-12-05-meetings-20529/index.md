@@ -1,0 +1,74 @@
+# 41. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-05T17:00:00+01:00
+- Ende: 2019-12-05T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20529
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20529
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.:Heilig-Geist-Krankenhaus (AZ. 02-1600-148/2019 ) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrssituation auf dem Schillplatz in Köln-Nippes - Kenntnis genommen
+- TOP 7.1.2: Anfrage gem. § 4 der Geschäftsordnung "Auf dem Gistenberg" AN/1489/2019 - Kenntnis genommen
+- TOP 7.1.3: Verwendung von Stellplatzablösemittel - Kenntnis genommen
+- TOP 7.1.4: Anfrage zur Instandsetzung des Verbindungsweges Xantener Straße zum Nordpark - Kenntnis genommen
+- TOP 7.1.5: Altablagerung 50702 Am Bilderstöckchen/Longericher Straße und Bodenbelastung auf dem städtischen Grundstück Eschenbachstraße - Kenntnis genommen
+- TOP 7.1.6: KVB-Weiche Mollwitzstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bodenbelastung auf dem städtischen Grundstück Eschenbachstraße - Kenntnis genommen
+- TOP 7.2.2: Widmung von Straßenzügen in Longerich als reines Wohngebiet - Kenntnis genommen
+- TOP 7.2.3: Ergebnisse Bodenuntersuchung Bilderstöckchen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Entsiegelung von Plätzen und Flächen im Stadtbezirk Nippes
+- TOP -: Entsiegelung von Plätzen und Flächen im Stadtbezirk - geändert beschlossen
+- TOP 8.1.2: Klagemöglichkeiten der Stadt Köln gegen die Deutsche Bahn AG - ungeändert beschlossen
+- TOP 8.1.3: Errichtung eines Taubenhauses an der S-Bahn-Station Nippes - geändert beschlossen
+- TOP 8.1.4: Verkehrslärmbelästigung im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.5: Verlängerung der Grünphase an der Friedrich-Karl-Straße zur Merheimer Straße - ungeändert beschlossen
+- TOP 8.1.6: Schutz von Vorgärten durch Bebauungsplanfestsetzungen - ungeändert beschlossen
+- TOP 8.1.7: Verkehrssicherheit Longericher Hauptstraße - ungeändert beschlossen
+- TOP 8.1.8: Treppenaufstieg barrierefrei gestalten - ungeändert beschlossen
+- TOP 8.1.9: Nebenfahrbahn zur Emdener Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Aussetzen aller weiteren planerischen und baulichen Tätigkeiten auf dem ehemaligen Deponiegelände Simonskaul - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für die Optimierung der Knotenpunkte Escher Straße/Liebigstraße/Lämmerstraße und Escher Straße/Geldernstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Str - ungeändert beschlossen
+- TOP 9.1.2: Einbeziehung in die Kautschukstraße in Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.3: Zuschüsse für investive Maßnahmen der Bürgervereine - ungeändert beschlossen
+- TOP 9.1.4: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.1.5: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - mit Änderungen empfohlen
+- TOP 9.2.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - mit Änderungen empfohlen
+- TOP 9.2.3: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - geändert beschlossen
+- TOP 9.2.4: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - mit Änderungen empfohlen
+- TOP 9.2.5: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert empfohlen
+- TOP 9.2.6: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - mit Änderungen empfohlen
+- TOP -: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt
+- TOP 9.2.7: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - geändert beschlossen
+- TOP 9.2.8: Mittelfreigabe Speedskater - ungeändert empfohlen
+- TOP 9.2.9: Stadtgrün naturnah - ungeändert empfohlen
+- TOP 9.2.10: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - mit Änderungen empfohlen
+- TOP 9.2.11: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 10.2.3: Bewirtschaftung des städtischen Waldes 2019/2020 in den Stadtbezirken Rodenkirchen, Nippes, Ehrenfeld und Chorweiler - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zu einem Beschluss der Bezirksvertretung Nippes vom 19.09.2019, TOP 8.1.7: Starke Verunreinigungen entlang der Scheibenstraße in Weidenpesch - Antrag der SPD - AN/1158/2019 - Kenntnis genommen
