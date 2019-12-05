@@ -1,0 +1,53 @@
+# Bau- und Umweltausschuss (41. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2019-12-05T17:00:00+01:00
+- Ende: 2019-12-05T22:10:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-5
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeZh2CE1n5lbSTM88Tkl4QE
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3732
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXS6UyTSOLEk2_S2Bt1ANWK7AjITIHG1BO5xK4W9bPKR/Einladung_Bau-_und_Umweltausschuss_05.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQB1_D9BaceJWNo-zAwAvY89B29sRqkG6rUAB_L_GXiP/Oeffentliche_Niederschrift_Bau-_und_Umweltausschuss_05.12.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Stimmberechtigung der Mitglieder sowie Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Bau- und Umweltausschusses vom 11.09.2019
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Fragestunde für Ausschussmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP zu A. 5: Stellungnahme zu dem Bürgerantrag, für einen Zeitraum von fünf Jahren im Stadtgebiet von Herford keine Bäume zu fällen
+- TOP A.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP zu A.6: Stellungnahme betreffend Pflegekonzept für Straßen- und Wegeränder sowie Grabenböschungen
+- TOP A.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP zu A. 7: Stellungnahme betreffend Instandsetzung und lfd. Unterhaltung der Straße Schlehenweg
+- TOP A.8: Pflegekonzept der Straßen- und Wegeränder sowie Grabenböschungen
+- TOP A.9: Ausbau der Vlothoer Straße; hier: Beschluss zum Abriss der denkmalgeschützten Mauer entlang der Vlothoer Straße, Beschluss der verkehrlichen Gestaltung der Einmündung „Wentworth-Areal“ (westl. Hausnr. 48); - So dann wurdemehrheitlich bei drei Enthaltungen der nachfolgende Beschluss zu I. „Abriss der Mauer“ gefasstund einstimmig ohne Enthaltung der nachfolgende Beschluss zu II „Einmündung Wentworth-Areal“ gefasst:
+- TOP A.10: Gemeinsamer Antrag der Fraktionen SPD, B90/DIE GRÜNEN und DIE LINKEN: Verkehrskonzept Stiftberg/Vlothoer Straße
+- TOP A.11: Vorstellung der Entwurfsplanung der Freianlagen des Bildungscampus Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Qualifizierung des integrierten städtebaulichen Entwicklungskonzeptes (ISEK) "Konversion Stiftberg" hier: Beschluss des Berichts - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: Sanierungssatzung "Ulmenstraße" hier: Entwurfsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Sachstandsbericht zum Baumschutz 2017 und 2018
+- TOP A.15: Aktuelle Klima(wandel-)folgen auf Grünanlagen - Rußrindenkrankheit
+- TOP A.16: Baumschutzangelegenheiten: Hier: Fällung verschiedener Bäume auf dem Grundstück des Ravensberger Gymnasiums in Herford im Zusammenhang mit dem Neubau einer Dreifachsporthalle mit Schulanbau und Umnutzung einer denkmalgeschützten Sporthalle ,,Lübberbruch‘‘ - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Baumschutzangelegenheiten: Hier: Fällung von 2 Winter-Linden und einer Silber-Linde am Wilhelmsplatz
+- TOP A.18: Säuleneiche an der südöstlichen Ecke der Markthalle
+- TOP A.19: Vorhabenbezogener Bebauungsplan Nr. 6.81 "Lebensmittelmarkt Ahmser Straße" hier: Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.21: Bericht zur Stickstoffdioxidmessung im Bereich Alter Markt
+- TOP A.22: Maßnahmen des Straßenbauprogramms ab 2020, hier: Straßenneubau, Grunderneuerung und Straßenendausbau - Zur Beschlussvorlage wurde mehrheitlich bei einer Gegenstimme und keiner Enthaltung folgender Beschluss gefasst:
+- TOP A.23: Maßnahmen des Straßenbauprogramms ab 2020, hier: Sanierung von Fahrbahnen und Grunderneuerung von Gehwegen - Mehrheitlich bei einer Gegenstimme und keiner Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Unterführung Johannisstraße hier: Vorstellung des künstlerischen Konzeptes - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Gebührenhaushalt Abfallentsorgung 6. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Gebührenhaushalt Straßenreinigung 9. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford - Mehrheitlich bei einer Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.28: Bebauungsplan Nr. 12.29 "Berger Heide", Änderung Nr. 1.18 Hier: erneuter Entwurfsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Antrag der Fraktion Bündnis 90/ Die Grünen Installation von PV-Anlagen auf Parkplätzen bzw. Parkhäusern - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.30: Antrag der Fraktion B90/DIE GRÜNEN: Förderung des Radverkehrs - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.31: Denkmalangelegenheiten Endgültige Eintragung des folgenden Objektes in die Denkmalliste der Stadt Herford: fachwerkenes Wohn- und Wirtschaftsgebäude Stedefreunder Straße 31 - Mehrheitlich bei einer Nein-Stimme und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.32: Richtlinien für den Verkauf von Wohnbaugrundstücken zur Eigennutzung Hier: Beratung
+- TOP A.33: Mitteilungen
