@@ -1,0 +1,82 @@
+# 44. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-05T15:05:00+01:00
+- Ende: 2019-12-05T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20367
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20367
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates Entwicklung des Siemens-Geländes an der Franz-Geuer-Straße - Kenntnis genommen
+- TOP 1.2: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus? - Kenntnis genommen
+- TOP 1.3: Dauer des Rechtsstreits bezüglich des Projektes Nachtigallenhof - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der SPD-Fraktion betreffend "Städtebauinvestitionsprogramm 2020 – keine Förderung von „Starke Veedel – starkes Köln""
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Wohnen.Bezahlbar.Machen: Wohnungen über Lebensmittelmärkten bauen - Ausnahmeregelung jetzt beschließen! - Sache ist erledigt
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen gem. § 13 der Geschäftsordnung des Rates; hier: SPD-Antrag „Wohnen.Bezahlbar.Machen: Wohnungen über Lebensmittelmärkten bauen - Ausnahmeregelung jetzt beschließen!“, AN/1442/2019 - ungeändert beschlossen
+- TOP 3.2: Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - zurückgestellt
+- TOP -: Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln- Porz-Elsdorf - Schulinfrastruktur zeitnah erweitern! (AN/1142/2019) - zurückgestellt
+- TOP 3.3: Antrag zur Aufwertung des Wiener Platzes - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: 219. Änderung des Flächennutzungsplanes, Arbeitstitel: Parkstadt Süd in Köln-Zollstock, -Raderberg und -Bayenthal - geändert beschlossen
+- TOP 4.2.2: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - geändert beschlossen
+- TOP 5.2: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk B) über die Deutz-Mülheimer Straße in Köln-Deutz - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - endgültig zurückgezogen
+- TOP 6.2: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - zurückgestellt
+- TOP 6.4: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert beschlossen
+- TOP 6.6: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 6.7: Beschluss über die Planung und Durchführung eines Wettbewerblichen Dialogverfahrens gemäß § 119 Abs. (6) GWB und § 18 VgV sowie der anschließenden integrierten Planung zur Entwicklung eines städtebaulichen Masterplans auf Grundlage des Leitbildes Kre - geändert beschlossen
+- TOP 6.8: Kiosk Rheinboulevard - ungeändert beschlossen
+- TOP 6.9: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - zurückgestellt
+- TOP -: Änderungsantrag gemäß § 13 der Geschäftsordnung des Rates der Stadt Köln Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung - zurückgestellt
+- TOP 6.10: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90 / Die Grünen, Die Linke. und FDP - geändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Neubau Justizzentrum in Köln-Sülz - ungeändert beschlossen
+- TOP 10.3: Beschluss zur Umstellung des Bebauungsplan-Verfahrens mit dem Arbeitstitel „Am Nachtigallental“ in Köln-Weiden (vorhabenbezogener Bebauungsplan(VEP) von bislang § 13a Baugesetzbuch (BauGB) (beschleunigtes Verfahren bei Innenentwicklungsplänen) auf k - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und Durchführung einer frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Campus Kartause (Kartäuserwall 24b) in Köln-Neustadt-Süd - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (Vorhaben- und Erschließungsplan) Arbeitstitel: Melatengürtel/Grüner Weg in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan 67370/02 Arbeitstitel: Pastoratsstraße in Köln-Rondorf - geändert beschlossen
+- TOP 12.2: Satzungsbeschluss betreffend den Bebauungsplan Nummer 67421/02 Arbeitstitel: Mannsfelder Straße/ Kreuznacher Straße - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Teilaufhebung des Bebauungsplanes 63429/06 - Stellungnahmen/Satzungsbeschluss - Arbeitstitel: Hermeskeiler Platz in Köln-Sülz - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Porz - Ensen, Arbeitstitel: Kölner Straße / Hauptstraße - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf mit der Nummer 7340/02 Arbeitstitel: Kölner Straße / Hauptstraße in Köln-Porz-Ensen - zurückgestellt
+- TOP 17.2: European Energy Award: Köln Partnerin mit Auszeichnung. - Kenntnis genommen
+- TOP 17.3: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - Kenntnis genommen
+- TOP 17.4: Stellplatzschlüssel bei aktuellen Wohnungsbauvorhaben - Kenntnis genommen
+- TOP 17.5: Offenlage Bebauungsplan 7053/02 Kurtekottener Straße 1.Änderung in Köln-Flittard - Kenntnis genommen
+- TOP 17.6: Offenlage vorhabenbezogener Bebauungsplan 74407/02 Arbeitstitel: Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven - Kenntnis genommen
+- TOP 17.7: Kooperatives Baulandmodell Köln; Hier: 2. Sachstandsbericht Kooperatives Baulandmodell mit Stand 15.10.2019 - Kenntnis genommen
+- TOP 17.8: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
