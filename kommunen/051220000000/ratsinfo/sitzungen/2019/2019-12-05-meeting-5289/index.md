@@ -1,0 +1,101 @@
+# Rat (38. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-12-05T17:08:00+01:00
+- Ende: 2019-12-05T21:12:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTx5Ox-v-J0vGxFdW6c8POk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5289
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZURllXCiTnFUJeqXXlonyC-RQoMcK3P__nvQUwpwZ8E7/Bekanntmachung_Rat_05.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbk6i0h2z-KwMthKPPG2G20rUNjsA0HnZ4sTCLfjhV2/Oeffentliche_Niederschrift_Rat_05.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sanierungsstau bei Eisenbahnbrücken und –unterführungen
+- TOP 1.2: Attraktivierung der Übernahme eines kommunalen Mandats zur Wahlzeit 2020 bis 2025 durch das Angebot zur Kinderbetreuung während Gremiensitzungen
+- TOP 1.3: Verspätungen der S-Bahnlinie 1
+- TOP 1.4: Einrichtung eines geplanten 5G-Testfeldes in der Innenstadt und des Smart-City-Modellstadt Projektes
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 37. Sitzung des Rates am 26.09.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 7.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 8.: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 8.1: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 9.: Bergisch-Rheinischer-Wasserverband Vertretung der Stadt Solingen im Vorstand
+- TOP 10.: Besetzung des Finanzausschusses beim Wupperverband
+- TOP 11.: Mitgliederversammlung 2020 des Städtetages Nordrhein-Westfalen hier: Benennung stimmberechtigter Abgeordneter sowie Gäste
+- TOP 12.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff.
+- TOP 12.1: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff.
+- TOP 12.2: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der BfS-Ratsfraktion vom 21.11.2019
+- TOP 12.3: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der FDP-Ratsfraktion vom 27.11.2019
+- TOP 12.4: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der FDP-Ratsfraktion vom 29.11.2019
+- TOP 13.: Stellenplannachtrag 2019
+- TOP 14.: „Gute Schule 2020“
+- TOP 15.: Schulentwicklungsplan 2019 - 2029
+- TOP 15.1: Schulentwicklungsplan 2019 – 2029 hier: Austausch Steckbrief Nr.18
+- TOP 15.2: Schulentwicklungsplan 2019 - 2029
+- TOP 15.3: Schulentwicklungsplan 2019 - 2029
+- TOP 16.: Überplanmäßige Aufwendungen/Auszahlungen gemäß § 83 GO NRW - Digitalisierung an Schulen
+- TOP 17.: Überplanmäßige Ausgabe gemäß § 83 GO NRW in den Produkten 1.31.01.040 (Eingliederungshilfe), 1.31.01.050 (Hilfe zur Pflege) sowie 1.31.05.010 (Hilfen für Flüchtlinge)
+- TOP 18.: Auf- und Ausbau der Prävention im Bereich der Frühen Hilfen
+- TOP 19.: Umsetzung der Ausbildung zum/zur Notfallsanitäter/in bei der Feuer-wehr Solingen und entsprechende Anpassung der öffentlich-rechtlichen Vereinbarung über die bestehende gemeinschaftliche staatlich anerkannte Schule für Rettungsassistenten/-assistentinnen für die Städte Solingen, Remscheid und Leverkusen
+- TOP 20.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 21.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 22.: Stadtentwicklungsgesellschaft Solingen - Jahresprogramm 2020 der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 23.: Verkaufsoffene Sonntage 2020
+- TOP 24.: Bestellung des Vorsitzenden und stellvertretenden Vorsitzenden des Umlegungsausschusses und Festlegung der Arbeitsentschädigung im Vertretungsfall
+- TOP 25.: Zusammenführung von Gremien zum Solinger Nachhaltigkeitsprozess –Einrichtung des Beirates „Nachhaltige Kommune Solingen“
+- TOP 26.: Vergabe des Lokalen Agenda-Preises der Stadt Solingen 2019
+- TOP 27.: Teilnahme an der Aktion „Wir jagen Funklöcher“ der Deutschen Telekom
+- TOP 28.: Verspätungen auf der S-Bahnlinie 1 hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 20.11.2019
+- TOP 29.: Vertrag zwischen der Stadt Solingen und der Ströer Media Deutschland GmbH (DSM) hier: Antrag der Ratsfraktionen SPD und Bündnis 90/ Die Grünen - offene Liste vom 20.11.2019
+- TOP 30.: VIII. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 31.: Neufassung der Revisionsordnung der Stadt Solingen
+- TOP 32.: Satzung der Stadt Solingen über die abweichende Erhebung von Gebühren nach der Allgemeinen Verwaltungsgebührenordnung für das Land Nordrhein-Westfalen (AVerwGebO NRW) für Amtshandlungen des Standesamtes nach dem Personenstandsgesetz
+- TOP 33.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 33.1: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 34.: Änderungssatzung zur Satzung für die Übergangsheime der Klingenstadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 35.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten
+- TOP 36.: Einführung von digitalen Bezahlmöglichkeiten städt. Parkgebühren und Anpassung der Parkgebührenordnung
+- TOP 37.: Bericht über die Prüfung des Jahresabschlusses der Klingenstadt Solingen zum 31.12.2018
+- TOP 37.1: Bericht über die Prüfung des Jahresabschlusses der Klingenstadt Solingen zum 31.12.2018
+- TOP 38.: Entwurf des Gesamtabschlusses 2018 der Klingenstadt Solingen
+- TOP 39.: Grundstücksbereinigung zwischen den TBS und der Kernverwaltung
+- TOP 40.: Gebührenbedarfsberechnung 2020
+- TOP 41.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 42.: Jahresabschluss 2018 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 43.: Jahresabschluss 2018 des Eigenbetriebs Wasserversorgung Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 44.: Wirtschaftsplan 2020 der Technischen Betriebe Solingen
+- TOP 44.1: Wirtschaftsplan 2020 der Technischen Betriebe Solingen
+- TOP 45.: Wirtschaftsplan 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 46.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 47.: I. Änderungssatzung zur Friedhofssatzung der Stadt Solingen
+- TOP 48.: I. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 49.: III. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 50.: V. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 51.: V. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 52.: Verschiedenes
+- TOP 52.1: Mitteilungen der Verwaltung
+- TOP 52.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2019
+- TOP 52.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Insolvenz der Firma Piel und Adey (PIAD)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 37. Sitzung des Rates am 26.09.2019
+- TOP 4.: Westfälisch-Bergische Entsorgungsgesellschaft mbH (WBE GmbH) - Entsendung der Vertreter der Stadt Solingen in die Gesellschafterversammlung
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen - Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 6.: Zusammenschluss der IT-Dienstleister regio iT GmbH und civitec Zweckverband Kommunale Informationsverarbeitung
+- TOP 7.: Stadtwerke Solingen GmbH - Erwerb von Geschäftsanteilen an der items GmbH (§ 22 Abs. 1 lit. d der Satzung)
+- TOP 8.: Verkauf von RWE-Aktien / Ausscheiden aus der VkA GmbH
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
