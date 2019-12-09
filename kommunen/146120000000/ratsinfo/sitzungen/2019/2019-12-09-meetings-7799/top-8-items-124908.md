@@ -1,0 +1,6 @@
+# TOP 8: Arbeitsgrundlage für den Seniorenbeirat 2020 - Themen-Diskussion im Seniorenbeirat
+
+- Sitzung: 2. Sitzung des Seniorenbeirates (2019-12-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/124908
