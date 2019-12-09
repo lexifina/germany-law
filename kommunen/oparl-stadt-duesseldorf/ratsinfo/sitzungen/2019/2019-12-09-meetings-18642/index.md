@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-09T15:00:00+01:00
+- Ende: 2019-12-09T15:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18642
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18642
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlicher Teil HFA 09.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365900.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlicher Teil HFA 09.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365900.pdf
+- Wortprotokoll: Sitzungspaket öffentlicher Teil HFA 09.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365900.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung des Haupt-und Finanzausschusses am 18.11.2919 (7/2019) - einstimmig beschlossen
+- TOP 3: Gemeinsamer Controllingbericht der Stadtkämmerin und des Personaldezernenten zur haushalts- und personalwirtschaftlichen Lage nach dem 30.09.2019 - zur Kenntnis genommen
+- TOP 4: Jahresabschluss 2018 - Beschluss über das Jahresergebnis - Empfehlung einstimmig beschlossen
+- TOP 5: Jahresabschluss zum 31.12.2018 und Lagebericht für das Wirtschaftsjahr 2018 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD)" - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2020 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2019 bis 2023 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 8: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2020-31.12.2020 - Beschluss - - Empfehlung mehrheitlich beschlossen
+- TOP 9: Abwasserbeseitigungskonzept (ABK) 2020 - 2031 / 7. Fortschreibung - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 10: Makkabi Deutschland Games 2020 in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 11: Etatberatung 2020 - passieren lassen
+- TOP 11.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 mit Anlagen - passieren lassen
+- TOP 11.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 mit Anlagen - passieren lassen
+- TOP 11.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2020 - passieren lassen
+- TOP 11.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 - passieren lassen
+- TOP 12: Neubau eines "Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg", Stadtbezirk 6 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 13: Spieloase Brunnenstraße 65a, Stadtbezirk 3 – Erweiterung, Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 14: Haus für Kinder, Jugendliche und Familien Froschkönigweg, Stadtbezirk 2 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 15: Besetzung des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e. V." - Empfehlung einstimmig beschlossen
+- TOP 16: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt St. Rochus Grundschule, Gneisenaustraße 60 - Empfehlung einstimmig beschlossen
+- TOP 17: Südverlängerung der Toulouser Allee mit Anschluss an die Worringer Straße -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 18: Bezirkssportanlage Garath, Koblenzer Straße 133, Qualifizierung der Bezirkssportanlage zur Förderung des Breitensports - Empfehlung einstimmig beschlossen
+- TOP 19: Zweckverband Verkehrsverbund Rhein Ruhr: Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2020 - Empfehlung einstimmig beschlossen
+- TOP 20: Eigenanteil zum SchokoTicket - Änderungen durch das Starke-Familien-Gesetz - Empfehlung einstimmig beschlossen
+- TOP 21: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 22: Gründung des Vereins "Psychosoziale Arbeitsgemeinschaft e.V. - Empfehlung einstimmig beschlossen
+- TOP 23: Informationsreise für POA-Ausschussmitglieder zum Kongress 'Digitaler Staat' 2020 - mehrheitlich beschlossen
+- TOP -: Städtebauliche Planungsmaßnahmen
+- TOP 24: Bebauungsplan-Entwurf Nr. 05/011 - Verweyenstraße - Empfehlung mehrheitlich beschlossen
+- TOP 25: Bebauungsplan - Entwurf Nr. 09/003 - Nördlich Paulsmühlenstraße - Empfehlung mehrheitlich beschlossen
+- TOP 26: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses - hier: Neubau eines Funktionsgebäudes in modularer Fertigbauweise auf dem städtischen Grundstück beim TSV Urdenbach - Empfehlung einstimmig beschlossen
+- TOP 27: Brandschutzsanierung der Obdachlosenunterkunft Eisenstraße - Empfehlung einstimmig beschlossen
+- TOP 28: Klimaneutralität bis 2035 – Änderungsantrag der Fraktionen von SPD, GRÜNEN und FDP zur Vorlage RAT/115/2019-1 „Konzept 2035 – Pfad zur Erreichung der Klimaneutralität" - zur Kenntnis genommen
+- TOP 29: 1. Regionalplanänderung „Mehr Wohnbauland am Rhein" - Stellungnahme der Landeshauptstadt Düsseldorf zur 2. Beteiligung - passieren lassen
+- TOP 30: Projekt "Vertical Farming in Düsseldorf"(Machbarkeitsstudie) - Empfehlung einstimmig beschlossen
+- TOP 31: Projekt "Kunst-, Kultur- und Bürgerraum Ulmer Höh'"(Umbau des ehemaligen Kapellengebäudes der Justizvollzugsanstalt Ulmer Höh'); - Empfehlung einstimmig beschlossen
+- TOP 32: Projekt "Kunst- und Kulturbunker Düsseldorf-Bilk" (Umbau des Bestandsgebäudes Aachener Straße 39); - Empfehlung einstimmig beschlossen
