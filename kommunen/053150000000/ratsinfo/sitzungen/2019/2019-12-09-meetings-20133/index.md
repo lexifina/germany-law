@@ -1,0 +1,89 @@
+# 44. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-09T17:00:00+01:00
+- Ende: 2019-12-09T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20133
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20133
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.:Beleuchtung Gehweg Äußere Kanalstraße, Abschnitt Ossendorfbad bis Haltestelle Iltisstraße (Az: 02-1600-245/18) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem § 24 GO "Tempo 30 Ossendorfer Straße" (AZ: 02-1600-198/19) - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Verringerte Zeiten der Parkraumbewirtschaftung in der Lindenbornstraße (Az.: 02-1600-238/19) - ungeändert beschlossen
+- TOP 3.4: Bürgereingabe gem. § 24 GO, betr.: Antrag auf Installation einer Toilette auf dem Takuplatz - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion DIE LINKE. BV Ehrenfeld.: Wie lassen sich Hindernisse beseitigen? - Kenntnis genommen
+- TOP 6.2.1: Wie lassen sich Hindernisse beseitigen? - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion DIE LINKE: Querung Ehrenfeldgürtel / Bartholomäus-Schink-Straße / Hüttenstraße - Kenntnis genommen
+- TOP 6.3.1: Querung Ehrenfeldgürtel / Bartholomäus-Schink-Straße / Hüttenstraße; - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zu Immobilien der Deutschen Bahn im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.5: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssituation in der Hüttenstraße - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Die Linke, betr.: Anwendung der Wohnraumschutzsatzung und Zweckentfremdung von Wohnraum in Ehrenfeld - Kenntnis genommen
+- TOP 6.7.1: Die Beantwortung erfolgt unter TOP 20.1 im nichtöffentlichen Teil
+- TOP 6.8: Anfrage der SPD-Fraktion, betr.: Wohnungsbaupakt der Stadt Köln mit der Bundesanstalt für Immobilienaufgaben - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Sachstand Bebauungsplan Heliosgelände - Kenntnis genommen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion in der Bezirksvertretung Ehrenfeld, betr.: Sachstand Bebauungsplanverfahren Heliosgelände - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Kita-Ausbau und Ausbaubedarfe im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Wohnungsbauprojekte nach dem Kooperativen Baulandmodell im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.3.1: Beantwortung einer Anfrage der Fraktion die Linke, betr.: Wohnungsbauprojekte nach dem Kooperativen Baulandmodell im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: BimA-Grundstücke in Ehrenfeld - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Verknüpfung der S-Bahn Köln-Mönchengladbach mit Verlängerung der Stadtbahnlinie 4 - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Linke: Kommunale Strategien gegen den Verlust demokratischer Gleichheit entwickeln - endgültig zurückgezogen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger/innen, betr.: Querungshilfe Kita -My Dagis - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion, betr.: Bedarfsampel Venloer Straße hinter der Äußeren Kanalstraße - endgültig zurückgezogen
+- TOP 8.8: Antrag der CDU-Fraktion, betr.: Hinweisschilder auf Fahrbahnrichtungen - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - ungeändert beschlossen
+- TOP 9.1.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld in der Zuständigkeit des Amtes für Straßen und Verkehrsentwicklung - Kenntnis genommen
+- TOP 9.2: Sitzen statt Parken - Außengastronomie auf Stellplätzen - geändert beschlossen
+- TOP 9.2.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: "Sitzen statt Parken" - ungeändert beschlossen
+- TOP 9.3: Förderprogramm der Bezirksvertretung Ehrenfeld für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Köln-Ehrenfeld für das Jahr 2020 - ungeändert beschlossen
+- TOP 9.4: Beschluss über die Planung und Durchführung von Maßnahmen auf dem Schulhof der GGS Vogelsanger Str. 453 im Rahmen des Landesförderprogramms "Gute Schule 2020" gemäß § 2 Absatz 1 Ziffer 4.1 der Zuständigkeitsordnung des Rates - ungeändert beschlossen
+- TOP 9.5: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld - Förderprogramm - ungeändert beschlossen
+- TOP 9.6: Generalsanierung Bezirkssportanlage Bocklemünd, Platz 1 und Platz 2 - geändert beschlossen
+- TOP 9.7: Mittelfreigabe SC West e.V - geändert beschlossen
+- TOP 9.8: Stadtklima-/Stadtverschönerungsprogramm 2019 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.9: 5. Vergabe der bezirklichen Finanzmittel 2019 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: die Vorlage wurde von der Verwaltung von der Tagesordnung genommen
+- TOP 10.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP 10.2.1: Gemeinsamer Änderungsantrag aller Fraktionen und Einzelmandatsträger, betr.: Änderungsantrag zur Beschlussvorlage 2476/2019, TOP 10.2 - ungeändert beschlossen
+- TOP 10.3: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3.1: Änderungsantrag zu TOP 10.3 KAG-Maßnahmen - endgültig abgelehnt
+- TOP 10.4: Konzept "Essbare Stadt" - geändert beschlossen
+- TOP 10.4.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: „Essbare Stadt“ - ungeändert beschlossen
+- TOP 10.5: Stadtgrün naturnah - ungeändert beschlossen
+- TOP 10.6: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 10.7: Planfeststellungsverfahren Militärringstraße, Anbindung der Aachener Straße und der Stolberger Straße - ungeändert beschlossen
+- TOP 10.8: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ungeändert beschlossen
+- TOP 10.8.1: Ergänzungsantrag der SPD-Fraktion im Rat der Stadt Köln zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - Kenntnis genommen
+- TOP 10.9: der TOP wird unter TOP 9.6 behandelt
+- TOP 10.10: der TOP wird unter TOP 9.7 behandelt
+- TOP 10.11: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Radverkehrskonzept Ehrenfeld - Kenntnis genommen
+- TOP 12.2: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.3: Errichtung eines Wohngebäudes mit 32 WE und einer Tiefgarage mit 45 Einstellplätzen sowie 22 oberirdischen Stellplätzen - Kenntnis genommen
+- TOP 12.4: Einschätzung zur Umsetzbarkeit des Verschwenks der Venloer Straße über den Rochusplatz - Kenntnis genommen
+- TOP 12.5: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 12.6: Bewirtschaftung des städtischen Waldes 2019/2020 in den Stadtbezirken Rodenkirchen, Nippes, Ehrenfeld und Chorweiler - Kenntnis genommen
+- TOP 12.7: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 13: mündliche Anfragen
