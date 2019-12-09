@@ -1,0 +1,12 @@
+# Annahme weiterer Spenden, Schenkungen und ähnlicher Zuwendungen im Haushaltsjahr 2019
+
+- Körperschaft: Gemeinde Schiffdorf
+- Drucksache/Vorlage: 267/2019 - 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-12-09
+- Ratsinformationssystem: https://schiffdorf.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTj_sYyINQ4bY795f-3urU4
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8846
+- Quelle: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Annahme weiterer Spenden, Schenkungen und ähnlicher Zuwendungen im  Haushaltsjahr 2019) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT8RkAYyL-AiWfctZrLb_6pxYpaAdxA-36HFvZWGCGms/Beschlussvorlage_267-2019_-_1._Ergaenzung.pdf
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5026 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-24
