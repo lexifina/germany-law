@@ -1,0 +1,92 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-09T14:34:00+01:00
+- Ende: 2019-12-09T16:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20368
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20368
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen in der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2019 - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz – Stand: 31.10.2019 - Kenntnis genommen
+- TOP 2.4: Entwicklung des Betriebskostenzuschusses an die Bühnen Köln - Kenntnis genommen
+- TOP 2.5: Fortentwicklung des PCGK der Stadt Köln - zurückgestellt
+- TOP 2.6: Fördermittelakquise und -abwicklung von EU Drittmitteln hier: Sachstandsbericht - Kenntnis genommen
+- TOP 2.7: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2019 - zu 3614/2019 Nr. 4 VI/67 ÜPL Friedhöfe (TOP 6.1.1 Sitzung des Finanzausschuss vom 04.11.2019) - Kenntnis genommen
+- TOP 2.8: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 2.9: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 2.10: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 2.11: Projektförderung für bürgerschaftliches Engagement - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Haushaltsjahr 2019 gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2019 - Kenntnis genommen
+- TOP 6.1.2: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Generalinstandsetzung der Grevenstraße, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - geändert beschlossen
+- TOP 7.2: Baubeschluss für die Optimierung der Knotenpunkte Escher Straße/Liebigstraße/Lämmerstraße und Escher Straße/Geldernstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Str - ungeändert beschlossen
+- TOP 7.3: Baubeschluss für die Umgestaltung des Knotenpunktes Hans-Schulten-Straße/Dattenfelder Straße/Rather Kirchweg in einen Kreisverkehr - ungeändert beschlossen
+- TOP 7.4: Klettenbergpark - ungeändert beschlossen
+- TOP 7.5: Mittelfreigabe Speedskater - ungeändert beschlossen
+- TOP 7.6: Freigabe einer investiven Auszahlungsermächtigung zum Abschluss einer Vereinbarung über die Planung und Herstellung eines gemeinsamen Geh- und Radweges parallel der Markgrafenstraße auf der Ostseite der Gleise der Stadtbahnlinie 4 - unter Vorbehalt beschlossen
+- TOP 7.7: Mittelfreigabe SC West e.V - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o. Nr., 50765 Köln-Blumenberg, Gemarkung Worringen, Flur 50, Flurstück 1872 tlw. - zurückgestellt
+- TOP 10.2: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - ungeändert beschlossen
+- TOP 10.3: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 10.4: Änderung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 10.5: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - ungeändert beschlossen
+- TOP 10.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - zurückgestellt
+- TOP 10.7: Schulrechtliche Änderung der Kapazität der GGS Hauptstraße 432, 51443 Köln-Porz von 3 auf 4 Züge gemäß § 81 Absatz 2 Schulgesetz NRW - ungeändert beschlossen
+- TOP 10.8: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 10.9: Jahresabschluss Wirtschaftsjahr 2017/2018 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 10.10: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes von LK-Argus und abschließender Beschluss zur Stufe 3 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP 10.11: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.12: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - geändert beschlossen
+- TOP 10.13: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2019, Teil 2 - ungeändert beschlossen
+- TOP 10.14: Pflege von Schmuckbeeten - ungeändert beschlossen
+- TOP 10.15: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd - ungeändert beschlossen
+- TOP 10.16: Jahresabschluss 2016 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.17: Jahresabschluss 2017 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.18: Anregung der Bezirksvertretung Kalk zur Einführung eines Kurzstreckentickets zum Nulltarif im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.19: Beschluss über die Planung und Durchführung eines Wettbewerblichen Dialogverfahrens gemäß § 119 Abs. (6) GWB und § 18 VgV sowie der anschließenden integrierten Planung zur Entwicklung eines städtebaulichen Masterplans auf Grundlage des Leitbildes Kre - geändert beschlossen
+- TOP 10.20: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.21: Generalsanierung der Sportanlage Fühlinger Weg in Köln-Volkhoven/ Weiler - ungeändert beschlossen
+- TOP 10.22: Generalsanierung Bezirkssportanlage Bocklemünd, Platz 1 und Platz 2 - ungeändert beschlossen
+- TOP 10.23: Sportanlage Martinusstraße, Köln-Auweiler - geändert beschlossen
+- TOP 10.24: Kiosk Rheinboulevard - ungeändert beschlossen
+- TOP 10.25: Fortführung des kombinierten Programms "Win-Win für Köln", haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés sowie Antrag auf Bereitstellung einer überplanmäßigen Auszahlung - ungeändert beschlossen
+- TOP 10.26: 7. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.27: 4. Satzung zur Änderung der Satzung über die Abfallgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.28: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert beschlossen
+- TOP 10.29: Vergabe der Mietzuschüsse in der Sparte Bildende Kunst, Haushaltsjahre 2020 - 2024 - ungeändert beschlossen
+- TOP 10.30: eigenbetriebsähnliche Einrichtung Abfallwirtschaft - ungeändert beschlossen
+- TOP 10.31: Beschlussvorlage für den Beitritt der Stadt Köln zur Blockchain-Genossenschaft „govdigital eG“ - ungeändert beschlossen
+- TOP 10.32: Freigabe Kulturförderabgabe 2019 - ungeändert beschlossen
+- TOP 10.33: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - zurückgestellt
+- TOP 10.34: Kliniken der Stadt Köln gGmbH - ungeändert beschlossen
+- TOP 10.35: Gemeinsame Baumaßnahmen in der Philharmonie und im Museum Ludwig - ohne Votum in nachfolgende Gremien
+- TOP 10.36: Änderung der Benutzungs- und Entgeltordnung für die Museen der Stadt Köln - ungeändert beschlossen
+- TOP 10.37: 3. Satzung zur Änderung der Satzung zur Erhebung einer Kulturförderabgabe im Gebiet der Stadt Köln vom 18.11.2014 - ungeändert beschlossen
+- TOP 10.38: Feststellung des Jahresabschlusses zum 31.12.2017 und des Lageberichtes für das Wirtschaftsjahr 01.01.2017 - 31.12.2017 des Wallraf-Richartz-Museums & Foundation Corboud - ungeändert beschlossen
+- TOP 10.39: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 10.40: Mehrbedarf zur Beschaffung der Einrichtung für die Erweiterungsbauten Elisabeth-von-Thüringen-Gymnasium und Schiller-Gymnasium, Nikolausstr. 51-55, 50937 Köln - unter Vorbehalt beschlossen
+- TOP 10.41: Kölner Verkehrs-Betriebe AG (KVB): Vorsorgliche Maßnahmen im Zusammenhang mit dem Nachprüfungsverfahren gegen die erfolgte Direktvergabe von öffentlichen Personenverkehrsdiensten - ungeändert beschlossen
+- TOP 10.42: Stadtklima-/Stadtverschönerungsprogramm 2019 im Stadtbezirk Ehrenfeld - unter Vorbehalt beschlossen
+- TOP 10.43: Stadtverschönerungsmittel für den Stadtbezirk Lindenthal 2019 - unter Vorbehalt beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
