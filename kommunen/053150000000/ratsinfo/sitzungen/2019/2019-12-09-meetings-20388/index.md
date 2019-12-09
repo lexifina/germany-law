@@ -1,0 +1,101 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-09T16:00:00+01:00
+- Ende: 2019-12-09T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00751305.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00751305.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00751305.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken im Pauliviertel (Az.: 02-1600-167/19) - zurückgestellt
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Mehr Sicherheit am Übergang Sülzgürtel/Wichterichstraße (Az.: 02-1600-253/19) - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Geschwindigkeitskontrollen Lise-Meitner-Ring
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Einsatz von E-Bussen auf der Aachener Straße an den Messstellen - zurückgestellt
+- TOP 7.2.2: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 7.2.3: Leerstehendes Mehrfamilienhaus an der Classen-Kappelmann-Straße 47 - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: „Testplanung“ zum Güterverkehrknoten Köln - ungeändert beschlossen
+- TOP 8.1.2: Baumpflanzungen auf der Stolberger Straße - ungeändert beschlossen
+- TOP 8.1.3: Parkmöglichkeit nur für PKW - ungeändert beschlossen
+- TOP 8.1.4: Parkplatz Gleueler Straße Grüngürtel nur für PKWs - geändert beschlossen
+- TOP 8.1.5: Betriebskindergarten für das medizinische Labor Wisplinghoff in Marsdorf - ungeändert beschlossen
+- TOP 8.1.6: Entsiegelung von Flächen und Plätzen im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 8.1.7: Verbrauchsdaten und CO2-Emissionen von Schulgebäuden schulintern bekannt machen - geändert beschlossen
+- TOP 8.1.8: Heranführung von Schülerinnen und Schülern an die Arbeit der Bezirksvertretung - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 8.1.8 - ungeändert beschlossen
+- TOP 8.1.9: Änderung des am 02.02.2015 beschlossenen Gesamtkonzepts für den Kölner Westen Abschnitt Stadtbahn - zurückgestellt
+- TOP 8.1.10: Maßnahmen zur Verkehrssicherheit an der Kreuzung Klosterstraße/Clarenbachstraße - ungeändert beschlossen
+- TOP 8.1.11: Maßnahmen gegen die Vermüllung am Karl-Schwering-Platz und in den umliegenden Grünanlagen - ungeändert beschlossen
+- TOP 8.1.12: Berichterstattung Pförtnerampel - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Lindenthal - Förderprogramm - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 9.2.2: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 9.2.3: Teilaufhebung des Bebauungsplanes 63429/06 - Stellungnahmen/Satzungsbeschluss - Arbeitstitel: Hermeskeiler Platz in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Neubau Justizzentrum in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.5: Planfeststellungsverfahren Militärringstraße, Anbindung der Aachener Straße und der Stolberger Straße - ungeändert beschlossen
+- TOP 9.2.6: Stadtgrün naturnah - ungeändert beschlossen
+- TOP 9.2.7: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 9.2.8: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert beschlossen
+- TOP 9.2.9: Klettenbergpark - ungeändert beschlossen
+- TOP 9.2.10: Mehrbedarf zur Beschaffung der Einrichtung für die Erweiterungsbauten Elisabeth-von-Thüringen-Gymnasium und Schiller-Gymnasium, Nikolausstr. 51-55, 50937 Köln - ungeändert beschlossen
+- TOP 9.2.11: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Aufhebung des Radweges Aachener Straße an Melaten
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Einbeziehung von Vorgärten in das Programm „Grün Hoch 3“
+- TOP 11.3.2: Änderungen zum Fahrplanwechsel 2019
+- TOP 11.3.3: Sachstand zur Umsetzung der Fahrradstraße im Eifelwall
+- TOP 11.3.4: Planungsrechtlicher Vorbescheid- Bürokomplex Eupener Str./ Stolberger St.
+- TOP 11.3.5: Kiosk Luxemburger Str,
+- TOP 11.3.6: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 11.5.1: Prüfung der Errichtung Sonnenschutz auf dem Spielplatz Karl-Schwering-Platz
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.2: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.3: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.4: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.5: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.6: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.7: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.8: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.9: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.10: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.11: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.12: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.13: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.14: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.15: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.16: Begegnungsräume in Widdersdorf - zurückgestellt
+- TOP 12.17: Unterbindung von Lärmbelästigungen im Beethovenpark - zurückgestellt
+- TOP 12.18: Geschwindigkeitskontrollen Lise-Meitner-Ring - zurückgestellt
+- TOP 12.19: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 12.20: Geruchsbelästigung im Stadtbezirk - zurückgestellt
+- TOP 12.21: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
