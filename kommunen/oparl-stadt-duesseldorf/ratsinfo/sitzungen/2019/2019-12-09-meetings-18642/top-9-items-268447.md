@@ -1,0 +1,8 @@
+# TOP 9: Abwasserbeseitigungskonzept (ABK) 2020 - 2031 / 7. Fortschreibung - Beschluss -
+
+- Sitzung: Haupt- und Finanzausschuss (2019-12-09)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/268447
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/100716
