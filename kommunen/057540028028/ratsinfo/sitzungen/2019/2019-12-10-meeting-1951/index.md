@@ -1,0 +1,65 @@
+# Rat der Stadt Rheda-Wiedenbrück (34. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2019-12-10T17:00:00+01:00
+- Ende: 2019-12-10T20:14:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaNRmnxZK7JEM2eejOARkTU
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1951
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfvv1hKUejyFI85DhCtsEv-EC2_I19GfhYI7077rqomA/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_10.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQwIJoORlsjdZbnqRGnfJdqI6-qVEnThvGf1NMKgjFV7/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_10.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Anpassung der Fachausschussbesetzungen - bei 1 Enthaltung einstimmig zugestimmt
+- TOP 5: Empfehlende Beschlussfassungen in den Fachausschüssen in der Zeit vom 20.11. bis 10.12.2019
+- TOP 5.1: Bürgerantrag Neuanpflanzung von Bäumen im Stadtgebiet - 37 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 5.2: Bürgerantrag "Bürgerwald" - Einstimmig
+- TOP 5.3: Bürgerantrag Resolution zur Ausrufung des Klimanotstandes - Einstimmig
+- TOP 5.4: Bürgerantrag auf Erlass einer Baumschutzsatzung für Rheda-Wiedenbrück - 23 Ja-Stimme(n), 15 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 5.5: Antrag der FDP-Fraktion Fürst-Bentheim-Straße als Fahrradstraße - 37 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 5.6: Umbenennung der Hans-Schmitz-Straße - 24 Ja-Stimme(n), 14 Nein-Stimme(n)
+- TOP 5.7: ISEK Rheda | Umgestaltung des Doktorplatzes | Möblierung - Einstimmig
+- TOP 5.8: Verkehrssituation Neuenkirchener Straße - Einstimmig
+- TOP 5.9: Nachmalige Herstellung der Straße "Delitzschweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm) - Einstimmig
+- TOP 5.10: Nachmalige Herstellung der Straße "Petkuserweg" gem. § 8 KAG/NRW - Beschluss des Ausbauplanes (Bauprogramm) - Einstimmig
+- TOP 5.11: Außerplanmäßige Mehrausgaben für Einzelvorhaben des Vermögensplanes 2019 des Eigenbetriebes Abwasser; hier: Erneuerung des MW-Kanals in der August-Euler Straße - Einstimmig
+- TOP 5.12: Überplanmäßige Mehrausgaben für Einzelvorhaben des Vermögensplanes 2019 des Eigenbetriebes Abwasser; hier: Erneuerung der Pumpwerke Kapellenstraße und Waldsiedlung - Einstimmig
+- TOP 5.13: Überplanmäßige Mehrausgaben für Einzelvorhaben des Vermögensplanes 2019 des Eigenbetriebes Abwasser; hier: RW-Kanal und SW-Kanal Kanalerneuerung im Heiligenhäuschenweg - Einstimmig
+- TOP 6: Gleichstellungsplan der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 7: Neufassung der Wahlordnung für die Wahl der Mitglieder des Integrationsrates der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 8: Neufassung der Rechnungsprüfungsordnung für die Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 9: Klimaschutzmanagement in Rheda-Wiedenbrück - Einstimmig
+- TOP 10: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2018, Entlastung der Betriebsleitung sowie des Betriebsausschusses; hier: Bericht der Dr. Heilmaier & Partner GmbH - 38 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 11: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für Mai 2019 bis Oktober 2019 für das Haushaltsjahr 2019 - Kenntnisnahme
+- TOP 12: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2020; hier: Vorlage des Entwurfs - Einstimmig
+- TOP 13: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - 38 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 14: Betrieb Bauhof: Wirtschaftsplan für das Jahr 2020 - Einstimmig
+- TOP 15: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2020 - 26 Ja-Stimme(n), 12 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 15.1: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2020 - 12 Nein-Stimmen, 1 Enthaltung, ansonsten mehrheitlich
+- TOP 16: Angepasstes Raum- und Funktionsprogramm für den Zubau der Gesamtschule im Schulzentrum Wiedenbrück - Einstimmig
+- TOP 17: Abschluss einer öffentlich-rechtlichen Vereinbarung mit dem Kreis Gütersloh zur Durchführung eines Förderverfahrens im 6. Förderaufruf des Bundesprogramms zum Breitbandausbau - Einstimmig
+- TOP 18: Klärschlammentsorgung - Beitritt zur Klärschlammverwertung OWL GmbH - Einstimmig
+- TOP 19: Bebauungsplan Nr. 399 "Am Rondell / Ringstraße" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit u - Einstimmig
+- TOP 20: Städtebaulicher Vertrag flankierend zu einem Bebauungsplanverfahren - Einstimmig
+- TOP 21: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 22: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 26: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 27: Empfehlende Beschlussfassungen in den Fachausschüssen in der Zeit vom 20.11. bis 10.12.2019
+- TOP 27.1: Beschlussfassung über die Empfehlungen zu den Bauvorhaben der 36. Gestaltungsbeiratsitzung
+- TOP 27.2: Vertragsangelegenheiten - Einstimmig
+- TOP 28: Rechtsangelegenheit - Kenntnisnahme
+- TOP 29: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 30: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
