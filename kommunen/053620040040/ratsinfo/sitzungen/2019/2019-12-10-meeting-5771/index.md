@@ -1,0 +1,53 @@
+# Rat (39. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2019-12-10T18:00:00+01:00
+- Ende: 2019-12-10T20:00:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZtmf0gt-UQ1oaROFOiupOU
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5771
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX9QykPoq1B3zi4HPDDW6qwhutopRT2vN18MxOBd7165/Einladung_Rat_10.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWCwE-LvommK-xlVZE7EhVfvOUDotQUu3bbzNNjStGH_/Oeffentliche_Niederschrift_Rat_10.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Antrag der CDU-Fraktion: Sachstand Rheinspange 553
+- TOP 7.: Errichtung einer Gesamtschule Empfehlung des Schulausschusses - 34 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 8.: Bildung des Integrationsrates oder -ausschusses der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 9.: Satzung zur Änderung der Satzung zur Bildung des Integrationsrates der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 10.: 2. Änderung der Wahlordnung für die Wahl des Seniorenbeirates der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 11.: Satzungsänderung der Satzung über die Allgemeinen Bedingungen für die Abwasserbeseitigung in der Stadt Wesseling (AB-Abwasser) - Einstimmig, 0 Enthaltungen
+- TOP 12.: Entsorgungsbetriebe Wesseling hier: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2020 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Kindertageseinrichtungen der Stadt Wesseling; Feststellung des Jahresabschlusses 2018, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 14.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2018; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 15.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2018, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 16.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2018; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 17.: Haushaltswirtschaft im Haushaltsjahr 2019 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 18.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2020 - 32 Ja-Stimmen, 2 Nein-Stimmen, 2 Enthaltungen
+- TOP 19.: Integriertes Klimaschutzkonzept der Stadt Wesseling hier: Ergänzung des Beschlusses vom 09.07.2019 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Einrichtung eines Jugendrates - Einstimmig, 0 Enthaltungen
+- TOP 21.: Widmung einer Straße in Wesseling als städtische Straße für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 22.: Erfahrungsbericht zum kommunalen Ordnungsdienst und Vertiefung des Konzeptes
+- TOP 23.: Einrichtung einer Stelle für den Bereich Schulen - Einstimmig, 0 Enthaltungen
+- TOP 24.: Einrichtung von 2 Personalstellen für das Jugendcafé in der Innenstadt - Einstimmig, 0 Enthaltungen
+- TOP 25.: Empfehlung des Integrationsrates an den Rat "Alltagsrassismus" - Durchführung eines oder mehrerer Workshops Antrag der SPD-Fraktion
+- TOP 26.: Antrag der SPD-Fraktion: Zulassung von standesamtlichen Trauungen im Schwingeler Hof - Einstimmig, 0 Enthaltungen
+- TOP 27.: Antrag der CDU-Fraktion: Onlineservice Verbesserungsvorschläge - Einstimmig, 0 Enthaltungen
+- TOP 28.: Antrag der CDU-Fraktion: Öffentliche Sicherheit und Ordnung
+- TOP 29.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 30.: Mitteilungen und Anfragen
+- TOP 30.1.: Landeswettbewerb „Modellregion Wasserstoffregion Rheinland“
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Genehmigung einer Dringlichkeitsentscheidung: Vergabe eines öffentlichen Dienstleistungsauftrages zur Erbringung von öffentlichen Personenverkehrsdienstleistungen durch die Stadtwerke Wesseling GmbH im Wege der Notmaßnahme - Einstimmig, 0 Enthaltungen
+- TOP 2.: Erhöhung der Kapitalrücklage der Stadtwerke Wesseling GmbH - Einstimmig, 0 Enthaltungen
+- TOP 3.: Mitteilungen und Anfragen
+- TOP 4.: Presseveröffentlichungen
