@@ -1,5 +1,6 @@
 # Grundsteuergesetz
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt I Steuerpflicht
 
@@ -19,16 +20,16 @@ Entstehung der Steuer](0009.md)
 
 ## Abschnitt II Bemessung der Grundsteuer
 
-- [§ 13 Steuermeßzahl und Steuermeßbetrag](0013.md)
+- [§ 13 Steuermesszahl und Steuermessbetrag](0013.md)
 - [§ 14 Steuermeßzahl für Betriebe der Land- und Forstwirtschaft](0014.md)
-- [§ 15 Steuermeßzahl für Grundstücke](0015.md)
+- [§ 15 Steuermesszahl für Grundstücke](0015.md)
 - [§ 16 Hauptveranlagung](0016.md)
 - [§ 17 Neuveranlagung](0017.md)
 - [§ 18 Nachveranlagung](0018.md)
 - [§ 19 Anzeigepflicht](0019.md)
 - [§ 20 Aufhebung des Steuermeßbetrags](0020.md)
 - [§ 21 Änderung von Steuermeßbescheiden](0021.md)
-- [§ 22 Zerlegung des Steuermeßbetrags](0022.md)
+- [§ 22 Zerlegung des Steuermessbetrags](0022.md)
 - [§ 23 Zerlegungsstichtag](0023.md)
 - [§ 24 Ersatz der Zerlegung durch Steuerausgleich](0024.md)
 
@@ -46,28 +47,12 @@ Grundsteuer
 ## Abschnitt IV Erlaß der Grundsteuer
 
 - [§ 32 Erlaß für Kulturgut und Grünanlagen](0032.md)
-- [§ 33 Erlaß wegen wesentlicher Ertragsminderung](0033.md)
-- [§ 34 Verfahren](0034.md)
+- [§ 33 Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft](0033.md)
+- [§ 34 Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken](0034.md)
+- [§ 35 Verfahren](0035.md)
 
 ## Abschnitt V Übergangs- und Schlußvorschriften
 
-- [§ 35](0035.md)
-- [§ 36 Steuervergünstigung für abgefundene Kriegsbeschädigte](0036.md)
-- [§ 37 Sondervorschriften für die Hauptveranlagung 1974](0037.md)
-- [§ 38 Anwendung des Gesetzes](0038.md)
-- [§ 39](0039.md)
-
-## Abschnitt VI Grundsteuer für Steuergegenstände in dem
-in Art 3 des Einigungsvertrages genannten Gebiet ab dem
-Kalenderjahr 1991
-
-- [§ 40 Land- und forstwirtschaftliches Vermögen](0040.md)
-- [§ 41 Bemessung der Grundsteuer für Grundstücke
-nach dem Einheitswert](0041.md)
-- [§ 42 Bemessung der Grundsteuer für
-Mietwohngrundstücke und Einfamilienhäuser
-nach der Ersatzbemessungsgrundlage](0042.md)
-- [§ 43 Steuerfreiheit für neugeschaffene Wohnungen](0043.md)
-- [§ 44 Steueranmeldung](0044.md)
-- [§ 45 Fälligkeit von Kleinbeträgen](0045.md)
-- [§ 46 Zuständigkeit der Gemeinden](0046.md)
+- [§ 36 Sondervorschriften für die Hauptveranlagung 2025](0036.md)
+- [§ 37 Anwendung des Gesetzes](0037.md)
+- [§ 38 Bekanntmachung](0038.md)

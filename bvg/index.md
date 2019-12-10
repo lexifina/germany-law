@@ -214,7 +214,7 @@
 - [§ 85](0085.md)
 - [§ 86 Unterhaltsbeihilfe für Angehörige von Kriegsgefangenen und politischen Häftlingen](0086.md)
 - [§ 87](0087.md)
-- [§ 88 (weggefallen)](0088.md)
+- [§ 88 Übergangsregelung zur Verhinderung einer Zahlungslücke](0088.md)
 
 ## Härteausgleich
 

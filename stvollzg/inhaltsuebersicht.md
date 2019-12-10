@@ -227,7 +227,7 @@
 |  |  |  | Kriminologische Forschung im Strafvollzug |
 |  |  | § 166 |  |
 | Fünfter Abschnitt |
-|  | Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz, Sozial- und Arbeitslosenversicherung, Schlußvorschriften |
+|  | Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlußvorschriften |
 |  |  | Erster Titel |
 |  |  |  | Vollzug des Strafarrestes in Justizvollzugsanstalten |
 |  |  | § 167 | Grundsatz |
@@ -250,16 +250,16 @@
 |  |  |  | Unmittelbarer Zwang in Justizvollzugsanstalten |
 |  |  | § 178 |  |
 |  |  | Fünfter Titel |
-|  |  |  | Datenschutz |
+|  |  |  | Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft |
 |  |  | § 179 | Datenerhebung |
-|  |  | § 180 | Verarbeitung und Nutzung |
-|  |  | § 181 | Zweckbindung |
-|  |  | § 182 | Schutz besonderer Informationen |
-|  |  | § 183 | Schutz der Daten in Akten und Dateien |
-|  |  | § 184 | Berichtigung, Löschung, Sperrung |
-|  |  | § 185 | Auskunft an den Betroffenen, Akteneinsicht |
-|  |  | § 186 | Auskunft und Akteneinsicht für wissenschaftliche Zwecke |
-|  |  | § 187 | Anwendung des Bundesdatenschutzgesetzes |
+|  |  | § 180 | Verarbeitung |
+|  |  | § 181 | Zweckbindung bei Übermittlungen |
+|  |  | § 182 | Schutz besonderer Kategorien personenbezogener Daten |
+|  |  | § 183 | Schutz der Daten in Akten und Dateisystemen |
+|  |  | § 184 | Berichtigung, Löschung, Einschränkung der Verarbeitung |
+|  |  | § 185 | Auskunft an die betroffene Person, Akteneinsicht |
+|  |  | § 186 | Auskunft und Akteneinsicht für wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe |
+|  |  | § 187 | (weggefallen) |
 |  |  | Sechster Titel |
 |  |  |  | Anpassung des Bundesrechts |
 |  |  | § 188 | (gestrichen) |

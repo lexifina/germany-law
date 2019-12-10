@@ -1,0 +1,41 @@
+# Anlage 42 (zu § 259 Absatz 1) Normalherstellungskosten
+
+I. Begriff der Brutto-Grundfläche (BGF)
+  1. Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den Grundflächen folgende Bereiche zu unterscheiden:
+    Bereich a: überdeckt und allseitig in voller Höhe umschlossen,
+    Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe umschlossen,
+    Bereich c: nicht überdeckt.
+    Für die Anwendung der Normalherstellungskosten (NHK) sind im Rahmen der Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c zuzuordnen.
+    Für die Ermittlung der BGF sind die äußeren Maße der Bauteile einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.
+  2. Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
+II. Normalherstellungskosten (NHK)
+  Normalherstellungskosten in Euro/m² BGF auf der Grundlage der Normalherstellungskosten 2010 (NHK 2010), einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart (Kostenstand 2010) sowie eines pauschalen Zuschlages für bauliche Anlagen, insbesondere Außenanlagen, und sonstige Anlagen (3 %)
+  | Gebäudeart | Baujahrgruppe |
+  | vor 1995 | 1995 – 2004 | ab 2005 |
+  | 1 | Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung) | 695 | 886 | 1 118 |
+  | 2 | Banken und ähnliche Geschäftshäuser | 736 | 937 | 1 494 |
+  | 3 | Bürogebäude, Verwaltungsgebäude | 839 | 1 071 | 1 736 |
+  | 4 | Gemeindezentren, Vereinsheime, Saalbauten, Veranstaltungsgebäude | 1 004 | 1 282 | 1 555 |
+  | 5 | Kindergärten (Kindertagesstätten), allgemeinbildende Schulen, berufsbildende Schulen, Hochschulen, Sonderschulen | 1 164 | 1 488 | 1 710 |
+  | 6 | Wohnheime, Internate, Alten-, Pflegeheime | 876 | 1 118 | 1 370 |
+  | 7 | Krankenhäuser, Kliniken, Tageskliniken, Ärztehäuser | 1 334 | 1 705 | 2 075 |
+  | 8 | Beherbergungsstätten, Hotels, Verpflegungseinrichtungen | 1 118 | 1 427 | 1 859 |
+  | 9.1 | Sporthallen | 1 133 | 1 447 | 1 777 |
+  | 9.2 | Tennishallen | 814 | 1 040 | 1 226 |
+  | 9.3 | Freizeitbäder, Kur- und Heilbäder | 1 978 | 2 524 | 3 075 |
+  | 10.1 | Verbrauchermärkte | 582 | 742 | 896 |
+  | 10.2 | Kauf- und Warenhäuser | 1 066 | 1 360 | 1 633 |
+  | 10.3 | Autohäuser ohne Werkstatt | 757 | 968 | 1 277 |
+  | 11.1 | Betriebs- und Werkstätten eingeschossig oder mehrgeschossig ohne Hallenanteil; industrielle Produktionsgebäude, Massivbauweise | 762 | 973 | 1 200 |
+  | 11.2 | Betriebs- und Werkstätten, mehrgeschossig, hoher Hallenanteil; industrielle Produktionsgebäude, überwiegend Skelettbauweise | 536 | 680 | 942 |
+  | 12.1 | Lagergebäude ohne Mischnutzung, Kaltlager | 283 | 361 | 505 |
+  | 12.2 | Lagergebäude mit bis zu 25 Prozent Mischnutzung | 443 | 567 | 711 |
+  | 12.3 | Lagergebäude mit mehr als 25 Prozent Mischnutzung | 716 | 917 | 1 128 |
+  | 13 | Museen, Theater, Sakralbauten | 1 514 | 1 875 | 2 395 |
+  | 14 | Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen und Ähnliches | 263 |
+  | 15 | Stallbauten | 422 |
+  | 16 | Hochgaragen, Tiefgaragen und Nutzfahrzeuggaragen | 623 |
+  | 17 | Einzelgaragen, Mehrfachgaragen | 500 |
+  | 18 | Carports und Ähnliches | 196 |
+  | 19 | Teileigentum Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen. |
+  | 20 | Auffangklausel Normalherstellungskosten für nicht aufgeführte Gebäudearten sind aus den Normalherstellungskosten vergleichbarer Gebäudearten abzuleiten. |

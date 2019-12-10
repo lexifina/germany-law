@@ -155,6 +155,7 @@ Individuell zurechenbare öffentliche Leistungen nach der TfV
 | 10.4 | Anerkennung als Ausbilder | § 14 Absatz 1 und 6 TfV | 850 Euro |
 | 10.5 | Anerkennung als Prüfer | § 15 Absatz 1 TfV | 850 Euro |
 | 10.6 | Anerkennung als Arzt oder Psychologe zur Durchführung von Tauglichkeitsuntersuchungen | § 16 Absatz 1 TfV | 850 Euro |
+| 10.7 | Umstellen einer Fahrerlaubnis auf einen Triebfahrzeugführerschein | § 21 Absatz 3 TfV | 150 Euro |
 Abschnitt 11
 Sonstige individuell zurechenbare öffentliche Leistungen
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |

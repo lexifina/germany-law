@@ -16,4 +16,4 @@
 - [§ 10 Beirat](0010.md)
 - [§ 11 Datenerhebung; Verordnungsermächtigung](0011.md)
 - [§ 12 Bußgeldvorschriften](0012.md)
-- [§ 13 (weggefallen)](0013.md)
+- [§ 13 Übergangsvorschrift](0013.md)

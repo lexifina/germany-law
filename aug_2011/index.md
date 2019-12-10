@@ -40,7 +40,7 @@
 - [§ 16 Auskunftsrecht der zentralen Behörde zur Herbeiführung oder Änderung eines Titels](0016.md)
 - [§ 17 Auskunftsrecht zum Zweck der Anerkennung, Vollstreckbarerklärung und Vollstreckung eines Titels](0017.md)
 - [§ 18 Benachrichtigung über die Datenerhebung](0018.md)
-- [§ 19 Übermittlung und Löschung von Daten](0019.md)
+- [§ 19 Übermittlung von Daten](0019.md)
 
 ### Abschnitt 5 Verfahrenskostenhilfe
 

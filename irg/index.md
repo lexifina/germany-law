@@ -297,12 +297,17 @@ Mitgliedstaat der Europäischen Union
 - [§ 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen](0096.md)
 - [§ 97 (weggefallen)](0097.md)
 
-## Elfter Teil Schlussvorschriften
+## Elfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
 
-- [§ 98 Anwendungsvorbehalt; Stichtagsregelung](0098.md)
-- [§ 98a Übergangsvorschrift für Ersuchen, die auf einer Abwesenheitsentscheidung beruhen](0098a.md)
-- [§ 98b Übergangsvorschrift für die Vollstreckung freiheitsentziehender Sanktionen](0098b.md)
-- [§ 98c Übergangsvorschrift für Ersuchen um sonstige Rechtshilfe](0098c.md)
-- [§ 98d Gleichstellung von ausländischen mit inländischen Amtsträgern bei Amtshandlungen in der Bundesrepublik Deutschland](0098d.md)
-- [§ 98e Ausgleich von Schäden](0098e.md)
-- [§ 99 Einschränkung von Grundrechten](0099.md)
+- [§ 98 Vorrang des Elften Teils](0098.md)
+- [§ 99 Grundsätzliche Pflicht zur Bewilligung](0099.md)
+
+## Zwölfter Teil Schlussvorschriften
+
+- [§ 100 Anwendungsvorbehalt; Stichtagsregelung](0100.md)
+- [§ 101 Übergangsvorschrift für Ersuchen, die auf einer Abwesenheitsentscheidung beruhen](0101.md)
+- [§ 102 Übergangsvorschrift für die Vollstreckung freiheitsentziehender Sanktionen](0102.md)
+- [§ 103 Übergangsvorschrift für Ersuchen um sonstige Rechtshilfe](0103.md)
+- [§ 104 Gleichstellung von ausländischen mit inländischen Amtsträgern bei Amtshandlungen in der Bundesrepublik Deutschland](0104.md)
+- [§ 105 Ausgleich von Schäden](0105.md)
+- [§ 106 Einschränkung von Grundrechten](0106.md)

@@ -271,9 +271,7 @@ Strafvollzug
 
 - [§ 166](0166.md)
 
-## Fünfter Abschnitt Vollzug weiterer freiheitsentziehender
-Maßnahmen in Justizvollzugsanstalten, Datenschutz,
-Sozial- und Arbeitslosenversicherung, Schlußvorschriften
+## Fünfter Abschnitt Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlußvorschriften
 
 
 ### Erster Titel Vollzug des Strafarrestes in
@@ -305,17 +303,17 @@ Justizvollzugsanstalten
 
 - [§ 178](0178.md)
 
-### Fünfter Titel Datenschutz
+### Fünfter Titel Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft
 
 - [§ 179 Datenerhebung](0179.md)
-- [§ 180 Verarbeitung und Nutzung](0180.md)
-- [§ 181 Zweckbindung](0181.md)
-- [§ 182 Schutz besonderer Daten](0182.md)
-- [§ 183 Schutz der Daten in Akten und Dateien](0183.md)
-- [§ 184 Berichtigung, Löschung und Sperrung](0184.md)
-- [§ 185 Auskunft an den Betroffenen, Akteneinsicht](0185.md)
-- [§ 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke](0186.md)
-- [§ 187 Anwendung des Bundesdatenschutzgesetzes](0187.md)
+- [§ 180 Verarbeitung](0180.md)
+- [§ 181 Zweckbindung bei Übermittlungen](0181.md)
+- [§ 182 Schutz besonderer Kategorien personenbezogener Daten](0182.md)
+- [§ 183 Schutz der Daten in Akten und Dateisystemen](0183.md)
+- [§ 184 Berichtigung, Löschung und Einschränkung der Verarbeitung](0184.md)
+- [§ 185 Auskunft an den die betroffene Person, Akteneinsicht](0185.md)
+- [§ 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe](0186.md)
+- [§ 187 (weggefallen)](0187.md)
 
 ### Sechster Titel Anpassung des Bundesrechts
 

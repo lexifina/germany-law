@@ -25,7 +25,8 @@
 
 - [§ 10 Anwendungsbereich](0010.md)
 - [§ 11 Rechtsverordnung](0011.md)
-- [§ 12 Kommission](0012.md)
+- [§ 12 Berufung der Kommission](0012.md)
+- [§ 12a Empfehlung von Arbeitsbedingungen](0012a.md)
 - [§ 13 Rechtsfolgen](0013.md)
 
 ## Abschnitt 4a Arbeitsbedingungen im Gewerbe des grenzüberschreitenden Straßentransports von Euro-Bargeld
@@ -51,4 +52,4 @@
 ## Abschnitt 7 Schlussvorschriften
 
 - [§ 24 Evaluation](0024.md)
-- [§ 25 Inkrafttreten, Außerkrafttreten](0025.md)
+- [§ 25 Übergangsregelung](0025.md)

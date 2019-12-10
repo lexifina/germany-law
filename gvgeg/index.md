@@ -30,6 +30,7 @@ von Amts wegen
 - [§ 19](0019.md)
 - [§ 20](0020.md)
 - [§ 21](0021.md)
+- [§ 21a](0021a.md)
 - [§ 22](0022.md)
 
 ## Dritter Abschnitt Anfechtung von Justizverwaltungsakten

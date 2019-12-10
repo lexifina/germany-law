@@ -792,31 +792,31 @@
 - [§ 474 Auskünfte und Akteneinsicht für Justizbehörden und andere öffentliche Stellen](0474.md)
 - [§ 475 Auskünfte und Akteneinsicht für Privatpersonen und sonstige Stellen](0475.md)
 - [§ 476 Auskünfte und Akteneinsicht zu Forschungszwecken](0476.md)
-- [§ 477 Datenübermittlung und Verwendungsbeschränkungen](0477.md)
-- [§ 478 Entscheidung über Auskunft oder Akteneinsicht; Rechtsbehelfe](0478.md)
-- [§ 479 Datenübermittlung von Amts wegen](0479.md)
-- [§ 480 Unberührt bleibende Übermittlungsregelungen](0480.md)
+- [§ 477 Datenübermittlung von Amts wegen](0477.md)
+- [§ 478 Form der Datenübermittlung](0478.md)
+- [§ 479 Übermittlungsverbote und Verwendungsbeschränkungen](0479.md)
+- [§ 480 Entscheidung über die Datenübermittlung](0480.md)
 - [§ 481 Verwendung personenbezogener Daten für polizeiliche Zwecke](0481.md)
 - [§ 482 Mitteilung des Aktenzeichens und des Verfahrensausgangs an die Polizei](0482.md)
 
-### Zweiter Abschnitt Dateiregelungen
+### Zweiter Abschnitt Regelungen über die Datenverarbeitung
 
 - [§ 483 Datenverarbeitung für Zwecke des Strafverfahrens](0483.md)
 - [§ 484 Datenverarbeitung für Zwecke künftiger Strafverfahren; Verordnungsermächtigung](0484.md)
 - [§ 485 Datenverarbeitung für Zwecke der Vorgangsverwaltung](0485.md)
-- [§ 486 Gemeinsame Dateien](0486.md)
-- [§ 487 Übermittlung gespeicherter Daten; Auskunft aus einer Datei](0487.md)
+- [§ 486 Gemeinsame Dateisysteme](0486.md)
+- [§ 487 Übermittlung gespeicherter Daten; Auskunft](0487.md)
 - [§ 488 Automatisierte Verfahren für Datenübermittlungen](0488.md)
-- [§ 489 Berichtigung, Löschung und Sperrung von Daten](0489.md)
-- [§ 490 Errichtungsanordnung für automatisierte Dateien](0490.md)
-- [§ 491 Auskunft an Betroffene](0491.md)
+- [§ 489 Löschung und Einschränkung der Verarbeitung von Daten](0489.md)
+- [§ 490 Errichtungsanordnung für automatisierte Dateisysteme](0490.md)
+- [§ 491 Auskunft an betroffene Personen](0491.md)
 
 ### Dritter Abschnitt Länderübergreifendes staatsanwaltschaftliches Verfahrensregister
 
 - [§ 492 Zentrales staatsanwaltschaftliches Verfahrensregister](0492.md)
 - [§ 493 Automatisiertes Verfahren für Datenübermittlungen](0493.md)
-- [§ 494 Berichtigung, Löschung und Sperrung von Daten; Verordnungsermächtigung](0494.md)
-- [§ 495 Auskunft an Betroffene](0495.md)
+- [§ 494 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten; Verordnungsermächtigung](0494.md)
+- [§ 495 Auskunft an betroffene Personen](0495.md)
 
 ### Vierter Abschnitt Schutz personenbezogener Daten in einer elektronischen Akte; Verwendung personenbezogener Daten aus elektronischen Akten
 
@@ -824,4 +824,8 @@
 - [§ 497 Datenverarbeitung im Auftrag](0497.md)
 - [§ 498 Verwendung personenbezogener Daten aus elektronischen Akten](0498.md)
 - [§ 499 Löschung elektronischer Aktenkopien](0499.md)
+
+### Fünfter Abschnitt Anwendbarkeit des Bundesdatenschutzgesetzes
+
+- [§ 500 Entsprechende Anwendung](0500.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 933, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -](anhang-ev.md)

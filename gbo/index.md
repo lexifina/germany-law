@@ -20,6 +20,7 @@
 - [§ 12a](0012a.md)
 - [§ 12b](0012b.md)
 - [§ 12c](0012c.md)
+- [§ 12d Anwendung der Verordnung (EU) 2016/679](0012d.md)
 
 ## Zweiter Abschnitt Eintragungen in das Grundbuch
 
@@ -200,4 +201,3 @@ besonderen Fällen
 - [§ 149](0149.md)
 - [§ 150](0150.md)
 - [§ 151](0151.md)
-- [Anlage (zu § 126 Abs. 1 Satz 2 Nr. 3)](anlage.md)

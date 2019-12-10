@@ -17,3 +17,4 @@
 - [§ 14 Übergangsregelung zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung](0014.md)
 - [§ 15 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen](0015.md)
 - [§ 16 Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens](0016.md)
+- [§ 17 Übergangsregelung zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 und zu § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017](0017.md)
