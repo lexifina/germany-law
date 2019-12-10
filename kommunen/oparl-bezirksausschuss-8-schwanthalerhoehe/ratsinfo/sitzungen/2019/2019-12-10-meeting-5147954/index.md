@@ -1,0 +1,67 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147954
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147954
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Verlängerung der Grünphase für Fußgänger an der Kreuzung Hans-Fischer-Straße / Theresienhöhe
+- TOP 4.2.: Anwohnerparken in der Schießstättstraße im Umfeld des Einkaufszentrums Schwanthaler Forum
+- TOP 4.3.: Einrichtung eines geschützten Radwegs an der Trappentreustraße
+- TOP 4.4.: Verkehrssituation an der Baustelle in der Trappentreustraße zwischen Westendstraße und Landsberger Straße
+- TOP 6.1.1.: Theresienhöhe 15; Wiederherstellung der Platzfläche
+- TOP 6.2.1.: Bauvorhaben / Baumfällungen Parkstraße 6
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststätten
+- TOP 6.3.3.: Freischankfläche vor der Schwankwirtschaft „Kiosk Bar“, Parkstraße 25
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Investitionskostenförderung Kindergarten Kazmairstr. 21
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Fahrradabstellplätze im Hinterhof des Anwesens Schwanthalerstraße 123; Schaffung von Fahrradstellplätzen vor dem Anwesen Schwanthalerstr. 125
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Austausch der Lichtsignalanlage Bavariaring / Schwanthalerstraße
+- TOP 8.2.2.: Baumfällung Gollierstraße 16
+- TOP 8.2.3.: Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 8.2.4.: Straßenbauarbeiten in der Grasserstraße
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Spurführung an der Einmündung der Donnersberger Brücke zur Landsberger Straße
+- TOP 8.3.2.: Fällung von Gefahrenbäumen im öffentlichen Raum
+- TOP 8.3.3.: Ortstermin "begrünte Lärmschutzwand Trappentreutunnel"
+- TOP 8.3.4.: Baumfällung Theresienhöhe 16 - Fällungsfreigabe
+- TOP 8.3.5.: Saisonale Umnutzung von Straßenräumen - Parklets; Bewerbungs- und Auswahlverfahren für das Jahr 2020
+- TOP 8.3.6.: Bodenmarkierungen auf dem Geh- und Radweg der Donnersbergerbrücke
+- TOP 8.3.7.: Ligsalzstr. Einmündung Kazmairstr.; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 8.3.8.: Verbesserung der Zugänglichkeit zum Haupteingang des Forum Schwanthalerhöhe in der Schießstättstraße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Ökumenisches Büro für Frieden und Gerechtigkeit e.V. Theater- und Veranstaltungsreihe zur Seenotrettung vom 06.12. – 07.12.19 3.000,- €; Az. 0262.0-8-0198
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Übersichtsliste Stadtbezirksbudget; 2. Halbjahr 2019
+- TOP 10.1.: Schaffung von mehr Fahrradstellplätzen im gesamten Stadtbezirk durch Umwidmung von jeweils 1-2 Kfz-Stellplätzen im Abstand von 50 Metern in Fahrradstellplätze
+- TOP 11.1.: Änderung der BA-Geschäftsordnung hinsichtlich der Handhabung der Ordnung und des Hausrechts
+- TOP 11.2.: Umzug der Bezirksinspektion Süd in die Implerstraße 11
