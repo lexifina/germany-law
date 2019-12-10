@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-10T17:00:00+01:00
+- Ende: 2019-12-10T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20485
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20485
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag der SPD-Fraktion auf eine aktuelle Stunde zum Thema: Schnelle Sanierung des Lehrschwimmbeckens Ensen Grundschule Hohe Straße" - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Sachstand Nachtigallenhof - leerstehende Wohnungen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Anlegen einer Busspur auf der Frankfurter Straße (Az.: 02-1600-39/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Herstellung einer Teilfläche in der Schubertstraße - zurückgestellt
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Baubeschluss für die Öffnung der Einbahnstraßen Houdainer Straße und Hauptstraße zwischen Schmittgasse und Burgweg für den gegenläufigen Radverkehr - geändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - mit Änderungen empfohlen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Schulrechtliche Änderung der Kapazität der GGS Hauptstraße 432, 51143 Köln-Porz von 3 auf 4 Züge gemäß § 81 Absatz 2 Schulgesetz NRW - ungeändert empfohlen
+- TOP 7.3: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert empfohlen
+- TOP 7.4: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" Sammelumdruck - ungeändert empfohlen
+- TOP 7.5: Stadtgrün naturnah - ungeändert empfohlen
+- TOP 7.6: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt Sammelumdruck - zurückgestellt
+- TOP 7.6.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 7.7: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung Sammelumdruck - zurückgestellt
+- TOP 7.8: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - zurückgestellt
+- TOP 7.9: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - zurückgestellt
+- TOP 7.9.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.9: Bebauungsplan, Arbeitstitel: Östlich Im Falkenhorst - zurückgestellt
+- TOP 7.10: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 7.11: Beschluss der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Porz-Ost, Finkenberg, Gremberghoven und Eil" - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Durchgangsverkehr in der Meirowskystraße/Carlebachstraße - geändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Fahrradschutzstreifen - ungeändert beschlossen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der Fraktion die Grünen: Parkdruck verringern durch Parkraumbewirtschaftung mit 24 Stunden frei parken in den Stadtteilen - zurückgestellt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion: Vorstellung eines Konzeptes für ein geregeltes Parksystem am S-Bahnhof Wahn - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion: Verlängerung der kostenfreien Nutzungszeit am Parkhaus Wahn - ungeändert beschlossen
+- TOP 8.6.1: Änderungsantrag der CDU-Fraktion zu TOP 8.6: P&R Anlagen am S-Bahnhof Wahn - endgültig zurückgezogen
+- TOP 8.7: Antrag der Fraktion die Grünen: Einrichtung einer Busspur Entlastung Schmittgasse von der Ranzeler Str. bis zur Wahner Str. - ungeändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Antrag der CDU-Fraktion: Anpassung der Sperrung der GE- Straßen "Alte Blockstelle" und "Aloys- Boecker" - Sache ist erledigt
+- TOP 8.10: Antrag der SPD-Fraktion: Obstbaumpflanzung in Wahn, Wahnheide und Lind - geändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion: Ortstermin zur Inklusion der Übergänge am S-Bahnhof Wahn in Porz- Wahn - endgültig zurückgezogen
+- TOP 8.12: Antrag der SPD-Fraktion: Priorisierung der Neubauten weiterführender Schulen - ungeändert beschlossen
+- TOP 8.13: Antrag der SPD-Fraktion: Wohnungsleerstand / Ortstermin Nachtigallenstraße - endgültig zurückgezogen
+- TOP 8.14: Antrag der SPD-Fraktion: Mehr Verkehrssicherheit auf der Gremberghovener Str. in Porz-Ensen - ungeändert beschlossen
+- TOP 8.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16: Dringlichkeitsantrag der Frakton die Grünen: Dringende Verbesserung der Verkehrssituation (Schulwegsicherung) entlang des Fußweges Frankfurter Str. Rückseite Otto-Lilienthal-Realschule - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Unfallstelle Gremberghovener Straße/Kölner Straße - Kenntnis genommen
+- TOP 9.1.1.1: Mündliche Anfrage der SPD-Fraktion: Gremberghovener Straße - Sache ist erledigt
+- TOP 9.1.2: Betreff: Regionalplan-Überarbeitung, Modul III – Empfehlungen zur Darstellung Anfrage der SPD-Fraktion in der BV Porz zur Sitzung der Bezirksvertretung am 05.11.2019 - Kenntnis genommen
+- TOP 9.1.2.1: Anfrage der SPD Fraktion: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung - Sache ist erledigt
+- TOP 9.1.3: Beantwortung der Anfrage AN/0674/2019 - WC - Anlage Endhaltestelle Zündorf - Kenntnis genommen
+- TOP 9.1.3.1: Anfrage der CDU-Fraktion: WC - Anlage Endhaltestelle Zündorf - Sache ist erledigt
+- TOP 9.1.4: Können Störungen im Betriebsablauf der Linie 7 zwischen Poll und Deutz vermieden werden? - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer mündlichen Anfrage der SPD-Fraktion: Nibelungenstraße AN/1234/2019 - Kenntnis genommen
+- TOP 9.1.5.1: mündliche Anfrage der SPD-Fraktion: Nibelungenstraße - Sache ist erledigt
+- TOP 9.1.6: Beantwortung einer mündlichen Anfrage AN/1538/2019 Grünmittel 2018, Stadtverschönerungsprogramm 2018 - Kenntnis genommen
+- TOP 9.1.6.1: Anfrage zum Stadtverschönerungsprogramm 2018 zu einem BV-Beschluss vom 13.11.2019 - Sache ist erledigt
+- TOP 9.1.7: Besuchszeiten und Besucherbuchführung in der Unterkunft für Geflüchtete in der Aloys-Boecker-Straße - Kenntnis genommen
+- TOP 9.1.7.1: Anfrage zu temporärer Flüchtlingsunterkunft in der Aloys-Boecker-Straße in Porz-Lind - Sache ist erledigt
+- TOP 9.1.8: Fragen zu den Ausfällen bzw. Verspätungen der Straßenbahn Linie 7 im Monat November 2018 - Kenntnis genommen
+- TOP 9.1.8.1: Anfrage der Fraktion die Grünen: Fragen zu den Ausfällen bzw. Verspätungen der Straßenbahn Linie 7 im Monat November 2018 - Sache ist erledigt
+- TOP 9.1.9: Buslinie über die Rodenkirchener Brücke - Kenntnis genommen
+- TOP 9.1.9.1: Anfrage der SPD-Fraktion: Bus Porz Rodenkirchen - Sache ist erledigt
+- TOP 9.1.10: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Kosten für Öffnung des Wahnbades in den Sommerferien - zurückgestellt
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Anfrage der SPD-Fraktion: Kita- und Schulplätze in Zündorf und Langel - zurückgestellt
+- TOP 9.2.4: mündliche Anfrage der CDU-Fraktion: zu „Baumaßnahmen: Zum alten Paulshof 2-14" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstand zu durchgängigen Grünphase für Fußgänger - Kenntnis genommen
+- TOP 10.2.2: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Offenlage vorhabenbezogener Bebauungsplan 74407/02 Arbeitstitel: Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven - Kenntnis genommen
+- TOP 10.2.4: Bewirtschaftung des städtischen Waldes 2019/2020 in den Stadtbezirken Kalk, Porz, Mülheim - Kenntnis genommen
+- TOP 10.2.5: Stellungnahme zum Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln- Porz-Elsdorf - Schulinfrastruktur zeitnah erweitern! (AN/1142/2019) - Kenntnis genommen
+- TOP 10.2.6: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 10.2.7: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
