@@ -1,0 +1,61 @@
+# Rat (37. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2019-12-10T18:00:00+01:00
+- Ende: 2019-12-10T19:36:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcavHu8IVMq64K9CfJK1aP8
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19960
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQtQdCyrUow_WjXyDEU3kJXQgVRV9D663bASIE_q7eMY/Bekanntmachung_Rat_10.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcEwDFi9Pp9vsOs4nEbxyK_A444YalfYkR2TBOoS9SxS/Oeffentliche_Niederschrift_Rat_10.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 01.10.2019 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Besetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 25.09.2019 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs.3 GO NRW nicht mit.
+- TOP -: Besetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 02.12.2019 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs.3 GO NRW nicht mit.
+- TOP 5.: Besetzung von Ausschüssen hier: Wahl von gebundenen Stellvertretern und Stellvertreterinnen für den Wahlausschuss sowie Nachbesetzung im Ausschuss für Bildung, Kultur, Sport, Soziales, Städtepartnerschaften und Tourismus; Schreiben der UWV-Fraktion vom 04.11.2019 und der CDU-Fraktion vom 21.11.2019 - Einstimmiger Beschluss: Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs.3 GO NRW nicht mit.
+- TOP 6.: Wahlleitung für die Kommunalwahlen am 13.09.2020 - Einstimmiger Beschluss
+- TOP 7.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 8.: Mobilfunkempfang und mobiles Internet - Einstimmiger Beschluss:
+- TOP 9.: Mietzahlungen für Flüchtlingsunterkünfte; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 10.: Bebauungsplan Nr. 88 "Auf der Kumm", Ortsteil Iversheim im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Zurückziehen des Satzungsbeschlusses vom 25.09.2018 - Einstimmiger Beschluss:
+- TOP 11.: 31. Änderung des Flächennutzungsplans "Neubau Zimmerei-Outlet-Store" hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 12.: Bebauungsplan Nr. 10 "Kurhausgebiet" - 7. Änderung im beschleunigten Verfahren gem. § 13a BauGB hier: a) Abwägungsbeschlüsse und b) Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 13.: Integriertes Stadtentwicklungskonzept (ISEK) der Stadt Bad Münstereifel hier: I. Bewilligung Programmantrag 2019 und Gesamtantrag 2018-2022 II. Programmantrag 2020 - Beschluss mit 29 Ja-Stimmen, 1 Nein-Stimme und 2 Enthaltungen:
+- TOP 14.: 3. Satzung zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung-Badeordnung) - Beschluss mit 1 Gegenstimme:
+- TOP 15.: 4. Satzung zur Änderung der Satzung über die Erhebung eines Fremdenverkehrsbeitrages in der Stadt Bad Münstereifel vom 11.12.2014 - Einstimmiger Beschluss:
+- TOP 16.: Ausschreibung der Entsorgungsdienstleistungen - Einstimmiger Beschluss:
+- TOP 17.: 22. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 17.1: 22. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel -   
+- TOP 18.: 33. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 19.: Abwasserbeseitigungskonzept 2020 - 2025 hier: Fortschreibung - Einstimmiger Beschluss:
+- TOP 20.: Entsorgungsgebühren Grundstücksentwässerungsanlagen 2020 hier: 16. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 21.: Beitragsbedarfsberechnung Wasseranschlussbeitrag - Einstimmiger Beschluss:
+- TOP 22.: Wassergebühren 2020 hier: Gebührenkalkulation - Einstimmiger Beschluss:
+- TOP 23.: Abwassergebühren (Kanalbenutzungsgebühren) 2020 - Einstimmiger Beschluss:
+- TOP 24.: Erlass der Wirtschaftspläne 2020 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Feststellung - Einstimmiger Beschluss:
+- TOP 25.: Erlass des Wirtschaftsplanes 2020 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss:
+- TOP 26.: Erlass der Haushaltssatzung für das Haushaltsjahr 2020 mit den gesetzlichen Anlagen hier: 1. Veränderungsliste -   
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2020 mit den gesetzlichen Anlagen; hier: Verfügungsmittel der Bürgermeisterin; FDP-Antrag vom 10.11.2019 -   
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2020 mit den gesetzlichen Anlagen; hier: Anträge der Fraktion Bündnis`90 / Die Grünen vom 18. und 20.11.2019 -    
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2020 mit den gesetzlichen Anlagen; hier: 2. Veränderungsliste und Beschlussfassung - Beschluss mit 23 Ja- und 9 Nein-Stimmen:
+- TOP 27.: Stellenplan für das Haushaltsjahr 2020 -   
+- TOP -: Stellenplan für das Haushaltsjahr 2020 - Beschluss mit 23 Ja- und 9 Nein-Stimmen:
+- TOP 28.: Anfragen und Mitteilungen
+- TOP 28.1: ISEK Bad Münstereifel – A.2-A.4 Citymanagement hier: Mitteilung über die Auftragsvergabe
+- TOP 28.2: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2020
+- TOP 28.3: Haushalt 2019 hier: Bericht zum 30.09.2019 im Rahmen des Finanzcontrollings
+- TOP 28.4: Radweg Arloff - Kalkar
+- TOP 28.5: Errichtung eines Lebensmittelmarktes in Arloff
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Parkhotel; hier: Auftragsvergabe Abbruch-Kataster - Einstimmiger Beschluss:
+- TOP 2.: Bewirtschaftung Heinz-Gerlach-Halle und Mimi-Renno-Halle; hier: Hausmeisterdienstleistungen - Beschluss mit 1 Gegenstimme:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Ausschreibung und Vergabe Gebäudereinigung; hier: Ergebnis des Vergabeverfahrens
