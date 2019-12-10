@@ -1,0 +1,120 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2019-12-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5217925
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5217925
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.2.: Abbiegesituation an der Ecke Rosental / Oberanger
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP A: Allgemeines
+- TOP 4.1.: Änderung der BA-Geschäftsordnung hinsichtlich Handhabung der Ordnung und Hausrecht
+- TOP 4.2.: Änderung der BA-Satzung: Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0.1.: Vorstellung des Bauvorhabens Thierschstr. 10 RGB durch den Projektleiter der Gewofag
+- TOP 1.1.: Vorkaufsrecht Mannhardtstraße 7, Bürgeranliegen
+- TOP 3.1.1.: Reitmorstr. 30, Instandsetzung/Umbau eines Hochparterre-Freisitzes mit Fahrrad- und Abfalllagerraum, Baumfällung in Zusammenhang mit dem Bauvorhaben
+- TOP 3.1.2.: Oberanger 45, Neubau eines Wohn-, Büro- und Geschäftshauses mit Tiefgarage – TEKTUR, Baumfällung in Zusammenhang mit dem Bauvorhaben
+- TOP 3.1.3.: Oberanger 4, Nutzungsänderung Verkaufsfläche im 1. OG zu Gastronomie
+- TOP 3.1.4.: St.-Anna-Straße 25, Abbruch des Bestands und Neuerrichtung eines Wohngebäudes mit Laden und Atelier
+- TOP 3.2.1.: Errichtung einer Treppenanlage an der Maximiliansbrücke auf der Praterinel (Anhörung im wasserrechtlichen Genehmigungsverfahren)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Viehtransporte in der Innenstadt, Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.3: Sonstige
+- TOP 3: Anhörungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Damenstiftstraße 18: Antrag auf Aufstellung einer Sitzgelegenheit (Holzbank)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Parksituation in der Liebherrstraße, Bürgeranliegen
+- TOP 1.2.: Die Verkehrssituation im südlichen Lehel nach Beendigung der Baustelle Steinsdorfstraße 10 neu ordnen, Antrag der Fraktion Bündnis 90/Die Grünen, vertagt aus 2019.11
+- TOP 1.3.: Umgestaltung des Bereichs Adelgundenstraße zwischen Mannhardt- und Thierschstraße, Bürgeranliegen (vertagt aus 09.2019 und 11.2019)
+- TOP 1.4.: Anwohnerparken in der Blumenstraße, Bürgeranliegen
+- TOP 1.5.: Müllerstraße / Am Einlaß - Einrichtung eines Fußgängerübergangs
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung einer Teilstrecke der Sendlinger Straße und der Gesamtstrecke der Schmidstraße und der Gesamtstrecke der Singlspielerstraße
+- TOP 3: Anhörungen
+- TOP 3.1.: Verkehrsführung Hackenviertel im Rahmen der Umplanung des Georg-Kronawitter-Platzes (Anhörung zur Beschlussvorlage für den Stadtrat)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat des Wilhelmsgymnasiums München Medienkompetenz vom 10.03.2020 bis 31.07.2020 3.979,- €; Az. 0262.0-1-0182
+- TOP 2.2.: (E) Stadtbezirksbudget Georg-Elsner-Initiative München Lauter Elsers am 08.11.2019 1.100,- €, Az. 0262.0-1-0184
+- TOP 3: Anhörungen
+- TOP 3.1.: Spielen in der Stadt e.V.: Planung der Einsätze 2020 und 2021, vertagt aus 2019.11
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: (E) + (U) Zeitgemäßes Format der Bürgerversammlung
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP B 4.3.: Bauvorhaben Prannerstr. 4, Abdruck der Baugenehmigung
+- TOP B 4.4.: Stellungnahme des Denkmalschutzes zur Errichtung eines erdgeschossigen Anbaus, Viktualienmarkt 5
+- TOP B 4.5.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019-2023, Infrastrukturversorgungskonzept 2019-2023; Sitzungsvorlage Nr. 14-20 / V 15810
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Barrierefreier Zugang zur Reichenbachbrücke, Protokoll der Vor-Ort-Besprechung am 18.10.2019
+- TOP C 4.4.: Nichtkommerzielle Sitzgelegenheiten am Brunnen vor Tal 13, Antwort auf Bürgeranliegen 2019.08 B 1.1
+- TOP C 4.5.: Beginn des Christkindlmarktes neu regeln, Sitzungsvorlage Nr. 14-20 / V 15647
+- TOP C 4.6.: Infoveranstaltung der BRH-Rettungshundestaffel am 07.12.2019 auf dem Odeonsplatz, Zustimmung per Eilentscheidung des stellv. BA-Vorsitzenden
+- TOP C 4.7.: (U) Marienplatz Durchgang Altes Rathaus - Bekanntgabe -
+- TOP C 4.8.: Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München, Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München mit ergänzender Befragung; Sitzungsvorlage Nr. 14-20 / V 16302
+- TOP C 4.9.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Arbeiten im Straßenraum: Bauphase 3 Maxburgstraße (Fernwärme und -kälteleitung)
+- TOP D 4.2.: Zukunftsfähigkeit des Münchner U-Bahn-Netzes – Umsetzung der Vorhaltemaßnahmen sowie weitere Planungen für die Entlastungsspange U9, Sitzungsvorlage Nr. 14-20 / V 15457
+- TOP D 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.4.: Baumpflanzungen im Gehwegbereich Rumford-/Zwingerstraße, Antwort auf weitergeleitetes Bürgeranliegen 2019.05 A 3.1
+- TOP D 4.5.: Arbeiten im Straßenraum: Prinzregentenstraße: Eisbachbrücke, Rückbau der Betonleitwände
+- TOP D 4.6.: Arbeiten im Straßenraum: Neuhauser Straße im Bereich der Alten Akademie. Fernwärme-/Fernkälteleitung, Bauphase 3
+- TOP D 4.7.: Arbeiten im Straßenraum: Fernwärme/Fernkälte Ettstraße, Bauphasen 1.1 und 2
+- TOP D 4.8.: Einrichtung einer unechten Einbahnstraße und Markierung von beidseitigen Schutzstreifen auf der Fahrbahn der Brienner Straße zwischen Odeons- und Amiraplatz
+- TOP D 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.10.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen, Meldeliste vom 30.10.2019
+- TOP D 4.11.: Arbeiten im Straßenraum; Prinzregentenstraße, Eisbachbrücke
+- TOP D 4.12.: Baumschutz in der Landeshauptstadt München; Sitzungsvorlage Nr. 14-20 / V 16921
+- TOP D 4.13.: Arbeiten im Straßenraum: Oberanger und Rosental, Fernkälte, Nachphasen 1 bis 3
+- TOP D 4.14.: Poller an der Zufahrt zum Spielplatz auf der Praterinsel, Antwort KVR Veranstaltungsbüro auf BA-Schreiben vom 13.11.2019, TOP A 3.1
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: Task Force Kindertageseinrichtungen – Sachstandsbericht Sitzungsvorlage Nr. 14-20 / V 14672
+- TOP E 4.2.: Schulbauoffensive 2013-2030 – 3. Schulbauprogramm und Kita-Bauprogramm 2019, Ergänzung vom 31.10.2019, Sitzungsvorlage Nr. 14-20 / V 16741
+- TOP E 4.3.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP E 4.4.: Vollzug des Haushaltsplanes 2020 für den Bereich „Förderung freier Träger“ des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung; Sitzungsvorlage Nr. 14-20 / V 16835
+- TOP E 4.5.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP E 4.6.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP E 4.7.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP E 4.8.: Übersichtsliste zum Stadtbezirksbudget 2019
