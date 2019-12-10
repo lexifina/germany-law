@@ -1,0 +1,54 @@
+# Haupt-, Finanz- und Steuerungsausschuss (105. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2019-12-10T17:03:00+01:00
+- Ende: 2019-12-10T21:06:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Sitzungsraum 415
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZREJHJzRBqw9vf_95YN_De8
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15281
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfwKUXmDfW_VdyOw0Ej2-_fdyQJyD1k74XGeTQIgnv1o/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_10.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTH1eij4Olj5qNwVtMmNGgELUs_6s4qsznM0RX6VUlZk/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_10.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 10.10.2019
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Finanzangelegenheiten
+- TOP 3.1: Feststellung des Jahresabschlusses 2018, Entlastung des Bürgermeisters - Einstimmig
+- TOP 3.2: Managementbericht zum 31.10.2019 - Zur Kenntnis genommen
+- TOP 4.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2018 mit Jahresabschluss zum 31.12.2018 - Einstimmig
+- TOP 5.: Vorzeitige Ausschüttung vom Jahresüberschuss 2019 des Abwasserwerkes - 13 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2020 - Einstimmig
+- TOP 7.: Bestellung eines stellvertretenden Betriebsleiters für das Abwasserwerk der Stadt Emsdetten - Einstimmig
+- TOP 8.: Stadtwerke Emsdetten GmbH
+- TOP 8.1: Gesellschafterdarlehen an die Stadtwerke Emsdetten GmbH bzw. Übernahme einer Ausfallbürgschaft für die Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 9.: Kleingartenanlagen: Antrag auf Befreiung von Straßenbaubeiträgen - Zur Kenntnis genommen
+- TOP 10.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 10.1: Antrag der SPD Fraktion: Erneute Prüfung der Verbesserung der ÖPNV Anbindung von Emsdetten zum Marienhospital in Borghorst - Zur Kenntnis genommen
+- TOP 11.: Verkehrsangelegenheiten
+- TOP 11.1: Bewertung des Radverkehrskonzeptes des Kreises Steinfurt und Stellungnahme der Stadt Emsdetten - Einstimmig
+- TOP 12.: Satzungsrecht
+- TOP 12.1: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten vom 21. Dezember 2016 und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 21. Dezember 2016 auf Grundlage der Gebührenkalkulation für das Jahr 2020. - Einstimmig
+- TOP 12.2: VIII. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 12.3: XIII. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - Einstimmig
+- TOP 12.4: Änderung der Satzung der Stadt Emsdetten über die Erhebung von Vergnügungssteuer (Vergnügungssteuersatzung) - Einstimmig
+- TOP 12.5: Satzung über eine Veränderungssperre für den Geltungsbereich des Bebauungsplanes Nr. 17 A "Industriegebiet Süd", 15. Änderung - Einstimmig
+- TOP 13.: Bebauungsplan
+- TOP 13.1: Bebauungsplan Nr. 29 A "Habichtshöhe Nord", 5. Änderung - Entscheidung über den überarbeiteten Wettbewerbsentwurf und Beendigung des Konzeptvergabeverfahrens "Quartiersentwicklung Taubenstraße" - Einstimmig
+- TOP 14.: Durchführung des Umbaus und der Erweiterung der EMS-HALLE Antrag der UWE-Fraktion - Schreiben des TVE zur Errichtung eines Sportzentrums - 13 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 15.: Attraktivierung Hof Deitmar, 3. BA Beschluss zur Ausführungsplanung - Einstimmig
+- TOP 16.: Allgemeine Umweltangelegenheiten
+- TOP 16.1: Entwicklung von Grundsätzen zum Umgang mit Stein-, Kies- und Schotterflächen Antrag der Fraktion Die GRÜNEN - Einstimmig
+- TOP 17.: Schulangelegenheiten
+- TOP 17.1: Verwendungsplanung 2020 und geänderte Verwendungsplanung 2019 zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 17.2: Entscheidung über ein mittelfristiges Bauprogramm für die Emsdettener Grundschulen - Einstimmig
+- TOP 17.3: Bildung der Grundschuleingangsklassen im Schuljahr 2020/2021 - Einstimmig
+- TOP 18.: Zwischenfazit des Gleichstellungsplans 2017-2021 - Datenentwicklung und Maßnahmenumsetzung - Zur Kenntnis genommen
+- TOP 19.: Etat/Budget
+- TOP 19.1: Stellenplan 2020 - Einstimmig
+- TOP 19.2: Entwurf Haushaltssatzung und Haushaltsplan 2020 - 13 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Verschiedenes
