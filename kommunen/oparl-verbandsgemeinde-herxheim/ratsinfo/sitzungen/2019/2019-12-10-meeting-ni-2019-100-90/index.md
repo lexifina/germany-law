@@ -1,0 +1,51 @@
+# 5. Sitzung des Verbandsgemeinderates Herxheim
+
+- Körperschaft: Verbandsgemeinde Herxheim
+- Beginn: 2019-12-10T18:00:00+01:00
+- Ende: 2019-12-10T21:07:00+01:00
+- Ort: Dorfgemeinschaftshaus Insheim, großer Saal, , 76865 Insheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/100
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2019-100-90
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2019-100-90
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-100-90
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-100-90
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-100-90
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Nachwahlen in Ausschüsse Ausschuss für Generationen, Sport und Kultur
+- TOP 3: Beratung der Wirtschaftspläne der Verbandsgemeindewerke Herxheim für das Wirtschaftsjahr 2020 mit Investitionsprogramm, Finanzplan und Stellenübersicht a) Betriebszweig Wasserversorgung b) Betriebszweig Abwasserbeseitigung
+- TOP 4: Übersicht der freiwilligen Leistungen der Verbandsgemeinde Herxheim in den Jahren 2017-2019
+- TOP 5: Beratung und Erlass der Haushaltssatzung der Verbandsgemeinde Herxheim und des Wirtschaftsplanes für den Baubetriebshof für das Haushaltsjahr 2020
+- TOP 6: Unterrichtung über die überörtliche Kassenprüfung der Verbandsgemeindekasse Herxheim 2019
+- TOP 7: Änderung der Gebühren und Beitragssatzung für die Wasserversorgung und Abwasserbeseitigung der VG Herxheim
+- TOP 8: Nachtrag Nr. 1 zum Geschäftsbesorgungsvertrag mit dem Land Rheinland-Pfalz über den Erwerb und die Förderung von digitalen Endgeräten der Behörden und Organisationen mit Sicherheitsaufgaben in Rheinland-Pfalz
+- TOP 9: Fortschreibung des Lärmaktionsplanes der Verbandsgemeinde Herxheim (Stufe 3)
+- TOP 10: Mitgliedschaften der Gemeinde
+- TOP 11: Verteilung der Integrationspauschale 2018/2019
+- TOP 12: Satzung über die Benutzung der Obdachlosen- und Flüchtlingsunterkünfte der Verbandsgemeinde Herxheim
+- TOP 13: Dritte Satzung zur Änderung der Satzung über den Kostenersatz und die Gebührenerhebung für Hilfe- und Dienstleistungen der Feuerwehr der Verbandsgemeinde Herxheim
+- TOP 14: Vergabe eines Darlehens für Investitionsmaßnahmen an den Baubetriebshof
+- TOP 15: Änderungen des Flächennutzungsplanes
+- TOP 16: Positionierung des Verbandsgemeinderates Herxheim zur Erdölförderung in der Nachbargemeinde Offenbach (Antrag der CDU-Fraktion)
+- TOP 17.1: Auftragsvergabe Unterstützungsleistungen für die Erstellung des Klimaschutzkonzeptes
+- TOP 17.2: Auftragsvergabe Herstellung von 2 Überdachungen am Feuerwehrhaus Herxheimweyher
+- TOP 17.3: Auftragsvergaben Modernisierung und funktionale Verbesserung des Rathauses Ergänzung Schreinerarbeiten-Einbaumöbel
+- TOP 17.4: Auftragsvergaben Modernisierung und funktionale Verbesserung des Rathauses Möblierung
+- TOP 18.1: Mitteilungen und Anfragen; Umstellung der Beleuchtung an der Grundschule Herxheim sowie im Rathaus Herxheim auf LED-Technik
+- TOP 18.2: Mitteilungen und Anfragen; Ergänzung zum Vortrag der Polizei über die Kriminalitäts- und Verkehrsunfallentwicklung in der Sitzung des Verbandsgemeinderates vom 24.09.2019
+- TOP 18.3: Mitteilungen und Anfragen; Arbeit in Ausschüssen
+- TOP 18.4: Mitteilungen und Anfragen; Hotline für Amts- und Mandatsträger
+- TOP 18.5: Mitteilungen und Anfragen Sitzungskalender
+- TOP 18.6: 
+- TOP 18.7: Mitteilungen und Anfragen Anfrage zum Thema 'Ruhender Verkehr'
+- TOP 18.8: Mitteilungen und Anfragen Medientechnik im Ratssaal
+- TOP 18.9: Mitteilungen und Anfragen Kartenvorverkauf an der Infotheke
+- TOP 18.10: Mitteilungen und Anfragen Glasfaserausbau
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
