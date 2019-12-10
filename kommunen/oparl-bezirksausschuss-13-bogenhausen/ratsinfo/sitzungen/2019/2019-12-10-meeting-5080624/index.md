@@ -1,0 +1,172 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5080624
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5080624
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.2.: Umstellung der Versendung der Baupläne in elektronischer Form
+- TOP 2.1.3.: WLAN für die Fraktionssitzungen: Aktueller Stand und weiteres Prozedere
+- TOP 2.1.4.: Abschlussfeier des BA 13 zum Ende der Wahlperiode: Aktueller Stand und weiteres Prozedere
+- TOP 2.1.5.: Weitere Themen
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.11.: Verkehrsgutachten des Bezirksausschusses 13
+- TOP 2.4.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.10.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 12.11.2019
+- TOP 2.1.1.: Abrechnung der zusätzlichen Aufwendungen der Bezirksausschuss-Mitglieder 2019 über die Verwaltungskostenpauschale
+- TOP 2.2.1.: Rosenkavalierplatz 2: Neubau eines Veranstaltungssaals für das StMUV - Zustimmungsverfahren - Vorstellung durch das Staatliche Bauamt München -
+- TOP 2.2.2.: Truderinger/Daglfinger Kurve und viergleisiger Ausbau des Streckenabschnitts Zamdorf bis Johanneskirchen: Daten beschaffen, aus einem Guss planen, Anwohnerschutz gewährleisten!; Antrag der CSU-Fraktion vom 12.11.2019
+- TOP 2.2.3.: Truderinger und Daglfinger Kurve sowie Erschließung von Pferdesportflächen im Münchner Nordosten - Beschlussvorlage; Anhörung des Referats für Stadtplanung und 04.11.2019 (Nachtrag)
+- TOP 2.2.4.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive 2013 - 2030, Entwurf der Sitzungsvorlage; Anhörung des Referats für Stadtplanung und Bauordnung vom 05.11.2019
+- TOP 2.2.5.: Mitteilung über sämtlichen Leerstand aller Immobilien im 13. Stadtbezirk; Antrag der FDP-Fraktion vom 12.11.2019
+- TOP 2.2.6.: Planungsstand zum städtischen Grundstück am Vogelweideplatz; Antrag der Fraktion DaCG/ÖDP vom 24.11.2019
+- TOP 2.2.7.: Intersburger Str. 2, 2a, 2b: Antrag auf Abweichung/Befreiung der Einfriedung zur Errichtung eines Glas-Schallschutzes; Bürgeranliegen vom 28.10.2019
+- TOP 2.2.8.: Felix-Danh-Straße 9: Neubau zweier Wohngebäude mit Tiefgarage - Vorbescheid (Bedenken hinsichtlich Denkmalschutz); Bürgeranliegen vom 23.11.2019
+- TOP 2.2.9.: Arabellastrasse 7: Beschwerde über Baustelle; Bürgeranliegen vom 10.11.2019
+- TOP 2.2.10.: Daglfinger Str. 101: Neubau eines Mehrfamilien- und eines Reihenhauses mit gemeinsamer Tiefgarage; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 23.10.2019
+- TOP 2.2.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.13.: Verschiedenes, Termine
+- TOP 2.3.1.: Verkehrslage Kreuzung Cosimastraße/Johanneskirchner Straße
+- TOP 2.3.2.: Stuntzstr. 18: Einrichtung eines personenbezogenen Behindertenparkplatz; Anhörung des Kreisverwaltungsreferats vom 12.11.2019
+- TOP 2.3.3.: Johanneskirchner Str. (auf Höhe Fürkhofstr. 19): Anordnung eines absoluten Halteverbots; Anhörung des Kreisverwaltungsreferats vom 31.10.2019
+- TOP 2.3.4.: Abfrage des Bedarfs nach Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen; Anhörung des Kreisverwaltungsreferats vom 25.11.2019
+- TOP 2.3.5.: Johanneskirchner Straße (ggü. Wacholderweg): Anordnung absolutes Halteverbot; Unterrichtung des Kreisverwaltungsreferats vom 30.10.2019
+- TOP 2.3.6.: Preziosastr. 18-20: Anordnung eines absolutes Halteverbots - Feuerwehrzufahrt; Unterrichtung des Kreisverwaltungsreferats vom 10.10.2019
+- TOP 2.3.7.: Stuntzstraße auf Höhe Scherfweg: Anordnung eines absoluten Haltverbots; Unterrichtung des Kreisverwaltungsreferats vom 26.11.2019
+- TOP 2.3.8.: Musenbergstr. 30: Verlängerung des absolutes Halteverbots - Feuerwehranfahrtszone/ -aufstellfläche; Unterrichtung des Kreisverwaltungsreferats vom 30.10.2019
+- TOP 2.3.9.: Ruth-Drexel-Straße 121 - 113: Einrichtung eines absoluten Haltverbots; Unterrichtung des Kreisverwaltungsreferates vom 24.10.2019
+- TOP 2.3.10.: Errichtung einer Personaltoilette an der Tramendhaltestelle "Berg am Laim S-Bahnhof"; Antrag der CSU-Fraktion vom 28.10.2019
+- TOP 2.3.11.: Kurzzeitparkplätze in der Schumannstraße, Lamontstraße, Geibelstraße; Antrag der CSU-Fraktion vom 03.11.2019
+- TOP 2.3.12.: Wertstoffsammelstelle Daglfing: Standortvorschlag Kunihohstraße; Antrag der Fraktion DaCG/ÖDP vom 24.11.2019
+- TOP 2.3.13.: Kurzzeitparkplätze in der Ismaninger Straße; Antrag der CSU-Fraktion vom 03.11.2019
+- TOP 2.3.14.: Kreuzung Richard-Strauss-Straße/Denninger Straße: Installation eines Grünpfeils; Antrag der FDP-Fraktion vom 12.11.2019
+- TOP 2.3.15.: Mehr Verkehrssicherheit auf der Richard-Strauss-Straße; Antrag der FDP-Fraktion vom 12.11.2019
+- TOP 2.3.16.: Antrag auf Verkehrsberuhigung auf dem Hermann Gmeiner Weg, sowie in der Daglfinger Straße; Bürgeranliegen vom 14.10.2019
+- TOP 2.3.17.: Glücksburgerstraße: Weiterführung des Radwegs; Bürgeranliegen vom 01.11.2019
+- TOP 2.3.18.: Problematische Schulbussituation an der Fritz-Lutz-Schule; Bürgeranliegen vom 04.11.2019
+- TOP 2.3.19.: Gefährliche Situationen in der Zamdorfer Straße; Bürgeranliegen vom 02.11.2019
+- TOP 2.3.20.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.21.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget Initiative "Booklet" Druck eines Booklets 600,00 € / Az. 0262.0-13-0223
+- TOP 2.4.2.: (E) Stadtbezirksbudget Kantorei der evang.-luth. Kirchengemeinde Immanuel-Nazareth München Konzert am 07.03.2020 2.000,00 € / Az. 0262.0-13-0225
+- TOP 2.4.3.: (E) + (U) Ergebnisse der Anträge vom Vorjahr vortragen
+- TOP 2.4.4.: Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte; Anhörung des Direktoriums vom 30.10.2019
+- TOP 2.4.5.: Änderung der BA-Geschäftsordnung hinsichtlich Handhabung der Ordnung und Hausrecht; Anhörung des Direktoriums vom 07.11.2019
+- TOP 2.4.6.: Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung - Änderung der BA-Satzung; Anhörung des Direktoriums vom 18.11.2019
+- TOP 2.4.7.: Verkehrsgutachten des Bezirksausschusses 13
+- TOP 2.4.9.: Verschiedenes, Termine
+- TOP 2.5.1.: Klausenburger Str. 2-6: Umbau und Nutzungsänderung von Büroflächen zur vorübergehenden Unterbringung von Flüchtlingen befristet bis zum 31.12.2031 und danach stets widerruflich - Vorbescheid; - gewünschte Ergänzung bzgl. Kita- und Klassenplätzen aus der Sitzung vom 12.11.2019 -
+- TOP 2.5.2.: Planung der Einsätze der mobilen Spiel- und Kunstaktionen 2020 und 2021; Anhörung von Spielen in der Stadt vom 29.10.2019
+- TOP 2.5.3.: Planungsstellen für den Schulstandort Stuntzstraße: Kombination zwischen Grund- und Mittelschule für die Standardplanung zu schwer, da Planer fehlen; Antrag der CSU-Fraktion vom 28.10.2019
+- TOP 2.5.4.: Aufnahme der Grund- und Mittelschule an der Stuntzstraße in die Schulbauoffensive; Antrag der SPD-Fraktion vom 11.07.2019
+- TOP 2.5.5.: Prinz-Eugen-Park: Möglichkeiten für Kinderspielen ermöglichen; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 15.07.2019
+- TOP 2.5.6.: Vorstellung des Innovationsanschub "Schulpreis"
+- TOP 2.5.7.: Erweiterung und Umbau des Spielplatzes am Shakespeareplatz; Bürgeranliegen vom 26.11.2019
+- TOP 2.5.8.: Umsonstschrank in der Parkstadt Bogenhausen; Bürgeranliegen vom 10.10.2019
+- TOP 2.5.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.: Sperrung der Biotopfläche in der öffentlichen Grünanlage an der Pühnstraße - Vorstellung durch das Baureferat -
+- TOP 2.6.2.: Baumfällungen (Anhörungen): Flaschenträgerstr. 10: lt. Plan Schneidemühler Str. 20: lt Plan Zoppoter Str. 16: lt. Plan Spervogelstr. 10: lt. Plan Marienburger Str. 44: lt. Plan Felix-Dahn-Str. 9: lt. Plan Spielplatz Herkomerplatz: lt. Plan Undinestr. 4: lt Plan Max-Nadler-Str. 4: lt. Plan Gnesener Str. 16: lt. Plan Pienzenauerstr. 142: lt Plan Friedrich-Eckart-Str. 2: lt. Plan Gleißenbachstr. 5: 1 Tanne Pachmayrplatz 8: 1 Birke Pienzenauerstr. 34: 1 Birke Pienzenauerstr 127-129: 1 Hängebirke Franz-Wolter-Str. 48: 1 Robinie Denninger 12: 1 Traubenkirsche, 2 Linden, 1 Vogelkirsche, 1 Silberahorn St. Emmeram32a: 1 Esche, 1 Ahorn, 3 Fichten, 1 Kiefer Apenrader Str. 114: 1 Birke Friedrich-Eckart-Str. 2: lt Plan Daglfinger Str. 101: lt Plan Johanneskirchnerstr. 9: 1 Kiefer oder Fichte Pienzenauerstr. 84: 1 Silberpappel, 1 Spitzahorn
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Normannenpl 2 (1 Kiefer), Gleiwitzer Str. 8 (1 Tanne), Spilhofstr.34, Taimerhofstr. 52-54 (3 Scheinzypressen), St.Emmeram 30 (1 Esche), Gleißenbachstr. 18 (1 Vogelbeere); Gleißenbachstr. 9 (1 Fichte, 1 Kastanienbaum)
+- TOP 2.6.4.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Unterrichtung des Baureferats vom 27.11.2019
+- TOP 2.6.5.: Streuobstwiese am sogenannten Pühnpark; Antrag der CSU-Fraktion vom 28.10.2019
+- TOP 2.6.6.: Verkehrsknotenpunkt Herkomerplatz: Einrichtung eines Raums zum Entspannen und Ausruhen; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 04.10.2019
+- TOP 2.6.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.8.: Verschiedenes, Termine
+- TOP 2.6.9.: Bau der Öffentlichen Grünfläche auf dem Gelände der ehem. Ziegelei Deck - Beschluss nach Vollmacht des Oberbürgermeisters - Vorlage des Baureferats
+- TOP 5.1.: Faschingszug Gaudiwurm am 23.02.2019, Start: Maibaum Johanneskirchen; Anhörung des Kreisverwaltungsreferats vom 20.11.2019
+- TOP 6.1.: Erneuerung der Straßenbelages in einem Teilabschnitt der Barbarossastraße
+- TOP 6.2.: Mehrgenerationenpark für den Stadtbezirk Bogenhausen - Bestellung städtischer Leistungen
+- TOP 6.3.: Nutzung des Sportplatzes an der Ruth-Drexel-Schule
+- TOP 6.4.: Nicht nachvollziehbare Haltung der Lokalbaukommission hinsichtlich der Phorms-Schule
+- TOP 6.5.: Hort bzw. Kindertagesstätte auf dem Gelände Prinzregentenstraße 159 (Giesecke+Devrient)
+- TOP 6.6.: Kostenübernahme für die Feinplanung der Tunnellösung der S-Bahnstrecke Daglfing - Johanneskirchen
+- TOP 6.7.: Montgelasstraße bergab: Anpassung der Schaltung der Auffangampel
+- TOP 6.8.: Gemeinschaftsunterkunft Max-Proebstl-Str.; Flst. 625, Gem. Daglfing: Bolzplatz für Flüchtlinge und Bürgerinnen und Bürger aus der Nachbarschaft sowie Raum für „urban gardening“
+- TOP 6.9.: Bessere Ausstattung des Neubaus Max-Pröbstl-Str. 4
+- TOP 6.10.: Freilegung und Renaturierung des „Krautgarten-Grabens“ in St. Emmeram
+- TOP 6.11.: Pflanzung von ausschließlich verschiedenen einheimische Laub- und Nadelbäume entlang der Ruth-Drexel-Straße, Jörg-Hube-Straße und Eugen-Jochum-Straße im Prinz-Eugen-Park
+- TOP 6.12.: Einsatz autonomer Shuttle-E-Busse im Prinz-Eugen-Park
+- TOP 6.13.: Bessere Sicherheit bei den Bushaltestellen
+- TOP 6.14.: Antrag auf Anbringung eines oder mehrerer Parkpfosten (bzw. Bäume) Ecke Trogerstraße/Prinzregentenstraße
+- TOP 6.15.: Bereitstellung eines städtischer Versammlungsraumes – Seminarraumes mit Zugang für Parteien, Vereine und Bürgerinitiativen im Stadtteil Bogenhausen
+- TOP 6.16.: Weiterführung der Buslinie X30 zum Arabellapark
+- TOP 6.17.: Flächendeckendes schnelles Funk- und Internetnetz
+- TOP 6.18.: Umbau des Bezirkssportanlage Fritz-Lutz-Straße
+- TOP 7.1.1.: Übersichtslisten zum Stadtbezirksbudget: 2. Halbjahr 2019; Unterrichtung des Direktoriums vom 26.11.2019
+- TOP 7.2.1.: (U) Ausbau Mittlerer Ring (B2R) Abschnitt Isarring Neubau Tunnel Englischer Garten Überbauerneuerung John-F.-Kennedy-Brücke 12. Stadtbezirk Schwabing - Freimann 13. Stadtbezirk Bogenhausen 1. Sachstandsbericht Neubau Tunnel Englischer Garten 2. Planungsauftrag Überbauerneuerung John-F.-Kennedy-Brücke
+- TOP 7.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.1.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 7.7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.3.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Darstellung der Kosten und der Finanzierung (einschließlich Personalbedarf) - Finanzierungsbeschluss -
+- TOP 7.7.4.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 7.7.5.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 7.7.6.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 7.7.7.: (U) Richard Strauss-Straße (östlich) (Grundstück Fl.Nr. 214/17) - Teiländerung des Bebauungsplans Nr. 1325 - A) Bekanntgabe des Ergebnisses des Planungswettbewerbes B) Weiteres Vorgehen Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.8.: (U) Münchner Nordosten Projektorganisation und externe Steuerungsunterstützung A) Anlass und weiteres Vorgehen B) Finanz- und Personalbedarf - Darstellung der Kosten und der Finanzierung C) Anträge 1. MRG mit der Projektsteuerung der Entwicklung im Münchner Nordosten betrauen Antrag Nr. 14-20 / A 04698 vom 28.11.2018 2. Dauerhaft bezahlbare Wohnungen im Münchner Nordosten Antrag Nr. 14-20 / A 05194 vom 05.04.2019 3. Kosten für beabsichtigte Infrastruktur im Nordosten darstellen Antrag Nr. 14-20 / A 05195 vom 05.04.2019 4. Biodiversität im Münchner Nordosten fördern Antrag Nr. 14-20 / A 05196 vom 05.04.2019 5. Beratungsstelle für GrundeigentümerInnen Antrag Nr. 14-20 / A 05197 vom 05.04.2019 6. Lebensqualität und Infrastruktur im Münchner Nordosten schon heute verbessern Antrag Nr. 14-20 / A 05199 vom 05.04.2019
+- TOP 7.7.9.: Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 7.7.10.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 7.7.11.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 7.7.12.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 7.7.13.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 7.7.14.: (U) Aktueller Status der Verkehrsprojekte U4/ Tram St.Emmeran/ Föhringer Ring (im Hinblick auf SEM Nordost) Empfehlung Nr. 14-20 / E 02247 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 25.10.2018
+- TOP 7.7.15.: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 7.7.16.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 7.7.17.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 7.7.18.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2150 Richard-Strauss-Straße (östlich) Grundstück Fl.Nr. 214/17 (Teiländerung des Bebauungsplans Nr. 1325) - Einleitungs- und Aufstellungsbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.19.: (U) Bebauungsplan mit Grünordnung Nr. 2151 Nördlich des Salzsenderweges und der Fideliostraße, südlich der Grimmeisenstraße und östlich des Ringofenweges Teiländerung des Bebauungsplanes Nr. 43 d - Aufstellungsbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.8.1.: (U) Turnerschaft Jahn München von 1887 e. V. Stadtbezirk 13 - Bogenhausen Neubau einer Dreifachsporthalle und Erweiterung und Sanierung der Sportanlage an der Weltenburger Straße 53 Förderung der Baumaßnahmen nach dem Sonderförderprogramm für den Sporthallenbau und den Sportförderrichtlinien der Landeshauptstadt München
+- TOP 7.8.2.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: - Libauer Str. 2 - Höslstr. 16, 20, 22 - Marienburger Str. 44
+- TOP 7.9.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.9.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 7.9.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 7.9.5.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 7.11.1.: Einbringung des Mehrjahresinvestitionsprogramms 2019 - 2023 in der Sitzung der Vollversammlung am 18.12.2019 Fachausschussberatungen zum Haushalt 2020 Verteilung der Unterlagen
+- TOP 7.12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
