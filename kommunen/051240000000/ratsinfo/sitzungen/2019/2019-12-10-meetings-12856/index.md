@@ -1,0 +1,92 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-12-10T16:03:00+01:00
+- Ende: 2019-12-10T17:10:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12856
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12856
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 02.12.2019 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00248209.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00249842.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2018 KIJU - Entgegennahme ohne Beschluss
+- TOP 1.1.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2018 der BinnenWind Windpark Verwaltungs GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2020 KIJU - Entgegennahme ohne Beschluss
+- TOP 2.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2020 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 2.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2020 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.4: Wirtschaftsplan 2020 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 2.6: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 2.7: Wirtschaftsplan 2020 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.8: Wirtschaftsplan 2020 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Entwicklung der Finanzsituation des Gebäudemanagements der Stadt Wuppertal (GMW) und Konsequenzen für den Haushalt 2019 und den Entwurf des Haushaltsplanes 2020/2021 - ungeändert beschlossen
+- TOP 3.1.1: Monitoring GMW - vertagt auf Rat
+- TOP 3.2: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 31.10.2019 - Entgegennahme ohne Beschluss
+- TOP 3.3: Monitoring APH zum 31.10.2019 - Entgegennahme ohne Beschluss
+- TOP 3.4: Monitoring Wuppertal Marketing GmbH (WMG) 10/2019 - Entgegennahme ohne Beschluss
+- TOP 3.5: Zukünftige Struktur des Eigenbetriebs Straßenreinigung Wuppertal ESW - Entgegennahme ohne Beschluss
+- TOP 3.6: Bestellung der Betriebsleitung für den Eigenbetrieb Gebäudemanagement Wuppertal (GMW) - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Umsetzung des Bundesinvestitionsprogramms (1. Kapitel) 5. Bericht Tiefbau - Entgegennahme ohne Beschluss
+- TOP 5.2: Wohnbaugrundstücke Holthauser Str. - Entgegennahme ohne Beschluss
+- TOP 5.3: Sachstand Beyeröhde - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Planung und Errichtung des Pina Bausch Zentrums - vertagt auf Rat
+- TOP 6.2: Verwendung des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 6.3: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 6.4: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 6.5: Entgelte für Kindertagespflege auf 4,20 € für die Förderleistung festzulegen - abgelehnt
+- TOP 6.6: Beschlussempfehlung zum Bürgerantrag gem. § 24 Gemeindeordnung NRW - Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen - vertagen
+- TOP 6.7: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgänerzonen der "Herzogstraße" - ungeändert beschlossen
+- TOP 6.8: Verkauf des städtischen Grundstückes Berghauser Str. 45 - vertagen
+- TOP 6.9: Bürgerantrag zur Genehmigung und Finanzierung des Rosensonntagszuges in Wuppertal - vertagt auf Rat
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Ratsauftrag vom 25.02.2019 zur Bürgerbeteiligung am Haushalt 2020/21 (VO/0167/19/1-Neuf.) - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 30.11.2019 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Haushaltsplan 2020/2021 - ungeändert beschlossen
+- TOP 9.1.1: Begleitdrucksache zum Haushaltsplan-Entwurf 2020/2021 - Einführung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 9.1.1.1: Einführung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 9.1.2: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2020/2021 - ungeändert beschlossen
+- TOP 9.1.2.1: Aktuelle Veränderungen gegenüber dem Haushaltsplan-Entwurf 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 9.1.3: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 9.1.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 9.1.5: Haushaltsplan 2020/21 - geändert beschlossen
+- TOP 9.1.6: Haushaltsplan 2020/21 - ungeändert beschlossen
+- TOP 9.1.7: Antrag Haushaltsplanberatungen - vertagt auf Rat
+- TOP 9.1.8: Vergabegrundsätze der Stadt Wuppertal / Begleitantrag zum Haushaltsplan 2020/21 - ungeändert beschlossen
+- TOP 9.1.9: 9. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2020 - ungeändert beschlossen
+- TOP 9.2: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2018 - ungeändert beschlossen
+- TOP 9.3: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - vertagt auf Rat
+- TOP 9.4: Gebührensatzung zur Abfallwirtschaft 2020 - ungeändert beschlossen
+- TOP 9.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2020 - ungeändert beschlossen
+- TOP 9.6: 7. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.7: 13. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.8: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.9: Ergänzungsmaßnahme Abwicklung Kommunalinvestitionsgesetz Programm Stufe 1 - ungeändert beschlossen
+- TOP 9.10: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2010 - ungeändert beschlossen
+- TOP 9.11: Verwendung der Zuweisung für Integrationsmaßnahmen nach dem Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in NRW gem. § 14 b und § 14 c Teilhabe- und Integrationsgesetz - vertagt auf Rat
+- TOP 9.12: Einführung einer einheitlichen Geldwertkarte sowie Anpassung der Entgeltordnung für die Bä-der und Saunen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.13: Kein Kind ohne Schulmittagessen - Antrag der Fraktionen vom 27.11.2018 - in der Sache erledigt
+- TOP 9.13.1: Änderungsantrag zu VO/1071/18 Kein Kind ohne Schulmittagessen - in der Sache erledigt
+- TOP 9.14: Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten. - in der Sache erledigt
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Wirtschaftsplan 2020 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
