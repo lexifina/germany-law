@@ -1,0 +1,6 @@
+# TOP 1.: Verschiedenes
+
+- Sitzung: Gemeindevertretung (23. Sitzung) (2019-12-10)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/398
