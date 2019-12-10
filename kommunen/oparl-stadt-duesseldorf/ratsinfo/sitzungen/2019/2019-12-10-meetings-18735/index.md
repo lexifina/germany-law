@@ -1,0 +1,62 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-10T15:00:00+01:00
+- Ende: 2019-12-10T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18735
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18735
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365920.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365920.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00365920.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - zurückgestellt
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 3: Ortsumgehung Oberbilk Sachstandsbericht - zur Kenntnis genommen
+- TOP -: Standortvorschlag für eine Calisthenics-Anlage im Bereich Volksgarten/Südpark und konkreter Zeitplan für die Realisierung der multifunktionalen Sportfläche im Stadtbezirk 3. Mündlicher Bericht - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bebauungsplan Entwurf Nr. 03/033 Nordöstlich Halbinsel Kesselstraße - mehrheitlich beschlossen
+- TOP 9: Genehmigung des Dringlichkeitsbeschlusses zum Neubau Am Fallhammer 15 - einstimmig beschlossen
+- TOP 10: Sportanlage Stoffeler Kapellenweg 72; Erneuerung Kunstrasenbelag - mehrheitlich beschlossen
+- TOP -: Spieloase Brunnenstraße 65a, Stadtbezirk 3 – Erweiterung, Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP -: Verkehrsplanungsangelegenheiten
+- TOP 11: Wohngebiet Moorenstraße- Einrichtung eines Bewohnerparkgebietes - einstimmig beschlossen
+- TOP 12: Wohngebiet Moorenplatz- Einrichtung eines Bewohnerparkgebietes - einstimmig beschlossen
+- TOP 13: Umsetzung des regionalen Schnellbuskonzeptes - abweichend beschlossen
+- TOP 14: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - abweichend beschlossen
+- TOP 15: Zielkonzept "ÖPNV Düsseldorf: Teil 1 - Stadtbahn" - zur Kenntnis genommen
+- TOP -: Anregungen und Beschwerden aus der Bürgerschaft
+- TOP -: sonstige Verwaltungsvorlagen
+- TOP 16: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 17: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - einstimmig beschlossen
+- TOP 18: Bezirklicher Bauunterhalt - Haushaltsjahr 2019, Stadtbezirk 3, Liste A - abweichend beschlossen
+- TOP 19: Kronprinzenstraße; Schule, Schau- und Briefkasten; Finanzierung - einstimmig beschlossen
+- TOP 20: Sonnenpark; Gestaltung Basketballfeld, Finanzierung - zurückgezogen
+- TOP -: KöniginnenundHelden, Umbau; Finanzierung - einstimmig beschlossen
+- TOP -: Puppentheater; Renovierungsarbeiten; Finanzierung - einstimmig beschlossen
+- TOP 21: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - mehrheitlich beschlossen
+- TOP 22: Annahme eines Kunstwerks für den öffentlichen Raum - abweichend beschlossen
+- TOP 23: Sitzungstermine und Termine Bürgerforen 2020 - abweichend beschlossen
+- TOP -: Anfragen
+- TOP 24: Bachstraße; Ampelanlagen - vertagt
+- TOP 25: Lärmreduzierung auf der Bilker Allee - vertagt
+- TOP 26: Moorenplatz-Rechtsabbieger Richtung Wersten - schriftlich beantwortet
+- TOP 27: Sichere Überwege für Kinder im Stadtteil Bilk - schriftlich beantwortet
+- TOP 28: Ausweichverkehre Umweltspuren im Stadtbezirk 3 - vertagt
+- TOP 29: Erweiterung Spieloase Bilk; Sachstand - zurückgestellt
+- TOP -: Sachstand Vorplatz Arkaden - vertagt
+- TOP -: Genehmigungsfreie Beseitigung von Anlagen, Abbruch des Gebäudes der ehem. Tankstelle Bilker Allee 233, ehemals Vereinsheim der Brause Metzgerei Schnitzel e. V. - vertagt
+- TOP -: Anträge
+- TOP 30: Konzept Attraktivitätssteigerung P&R-Anlage Südfriedhof - abweichend beschlossen
+- TOP 31: Einrichtung eines Kinder- und Jugendpreises „Young Biber" der Bezirksvertretung 3 mit jährlicher Verleihung - einstimmig beschlossen
+- TOP -: Erhaltungssatzungen aufstellen - abweichend beschlossen
+- TOP 32: Mitteilungen des Bezirksbürgermeisters
