@@ -1,0 +1,126 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2019-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5143149
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5143149
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 03.12.19
+- TOP 10.2: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.19
+- TOP 10.3: Beschluss der Vollversammlung vom 23.10.19
+- TOP 10.4: Beschluss des Kommunalausschusses vom 07.11.19
+- TOP 10.5: Beschluss des Bildungsausschusses gemeinsam mit dem Kinder- und Jugendhilfeausschuss und dem Bauausschuss vom 05.11.19
+- TOP 10.6: Beschluss der Vollversammlung vom 27.11.19
+- TOP 10.7: Beschluss des Auschusses für Stadtplanung und Bauordnung vom 04.12.19
+- TOP 10.8: Beschluss/Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 16.10.19
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Verlegung Fußgängerüberweg Ubostraße
+- TOP 2.1.2.: (N) - Einrichtung einer Sitzmöglichkeit an der Bushaltestelle Wiesentfelser Straße (Haltestelle der Linie 143)
+- TOP 2.1.3.: (N) Verkehrsrechtliche Verbesserungen in der Freienfelsstraße
+- TOP 2.1.4.: (N) Parkplatzproblem durch den Sirius Business Park
+- TOP 2.1.5.: (N) Sicherer Schulweg Lochhausen
+- TOP 2.1.6.: (N) Prognose Einwohnerzahl Freiham Nord
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Rohrsängerplatz 15 - Pretzfelder Str. - Teufelsbergstr. (N) - Hittoweg 21 (N) - Grafrather Str. 28 (N) - Grafrather Str. 7 (N) - Johannes-Tanner-Str. 10
+- TOP 3.1.2.: Baumfällung zu einem Bauvorhaben: - Hallstätter Str. 13
+- TOP 3.1.3.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, Liste Baureferat vom 31.10.19
+- TOP 3.1.4.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlage städt. Immobilien, in Friedhöfen oder auf anderen städt. Grundstücken, hier: Flnr. 3542/19 Gemarkung Aubing an der BAB 96, Schr. Baureferat vom 08.11.19
+- TOP 4.1.: Bestellung einer/eines stellvertretenden Kinder- und Jugendbeauftragten der LH München (Christina Stelzer, Sebastian Kratzer)
+- TOP 4.2.: Ein Wahlrecht für die Bestattungskultur ermöglichen: Angebote auf dem Aubinger- und Lochhausener Friedhof machen (Sibylle Schrott, Christian Stockmann, Herbert Forster)
+- TOP 4.3.: Mobil machen - Pilotprojekt für Mitfahrerbänke im Stadtbezirk (Christian Stockmann, Sebastian Kriesel, Jürgen Umseher)
+- TOP 4.4.: Radwege entlang der Lochhausener Straße - eine wichtige Radwegeverbindung etablieren (Jürgen Umseher, Christian Stockmann, Sebastian Kriesel)
+- TOP 4.5.: Ein zweiter Schulstandort für Lochhausen und Langwied (Jürgen Umseher, Christian Stockmann, Sebastian Kriesel)
+- TOP 4.6.: Auskunft über Ort und Art der Messstellen im Stadtgebiet des BA 22 (Dagmar Mosch, Barbara Ney, Karin Binsteiner)
+- TOP 4.7.: Mobilitätskonzept Freiham: Seilbahntangentiale Nordwest (Karin Binsteiner, Dagmar Mosch, Barbara Ney)
+- TOP 5.1.: (E) Aufhebung der Einbahnregelung für Radfahrer für die letzten fünf Meter vor der Altostraße und Schaffung von Radlspur bis zur Ampel
+- TOP 5.2.: (E) Stadtbezirksbudget Bienenzucht und Obstbauverein München-Lochhausen und Umgebung e.V. Baumpflege ab 18.12.2019 9.000,- €; Az. 0262.0-22-0130
+- TOP 6.1.1.1.: Veranstaltung im Freien auf Privatgrund und Büchermarkt im Pfarrsaal, hier: Limesstr. 85 vom 06.12.-08.12.19, Adventsmarkt der Adventskirche, Anhörung KVR vom 21.11.19 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.1.2.: Unterrichtung über eine Anzeige über das Abbrennen eines Feuerwerkes durch einen gewerblichen Pyrotechniker auf Privatgrund, hier: Am Gleisdreieck 15, 06.12.19, Musterschießen Silvesterfeuerwerk Comet, Anhörung KVR vom 21.11.19 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2.1.: Kinder- und Jugendforum vom 08.11.19, Anträge und Protokoll
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Dienststellenverständigung, Haus für Kinder in der Rossittener Str. 21, Schr. Ref. f. Bildung u. Sport vom 13.11.19
+- TOP 6.2.2.2.: Noch immer Probleme mit der Schulwegsicherheit in Aubing, Schr. KVR vom 14.11.19 (Vorgang auch unter TOP 6.3.2.1)
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Lisbergstr. / Trimburgstr., Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 26.11.19 - Fritz-Bauer-Str., Kita-Anfahrtszone, Anhörung KVR vom 26.11.19
+- TOP 6.3.1.2.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen", Protokoll der Besprechung am 26.09.19 zum Thema weiteres Vorgehen, Schr. KVR vom 25.11.19
+- TOP 6.3.1.3.: (N) Siedlungsschwerpunkt Freiham, Vorstellung des Mobiliätskonzepts für Freiham Nord unter Einbeziehung der Impulse aus der Modellstadt 2030 und Vergabe von Beratungs- und Moderationsleistungen für eine Mobiliätskoordination für Freiham Nord, Beschlussvorlage für den gemeinsamen Ausschuss für Stadtplanung und Bauordnung, Anhörung Planungsreferat vom 09.12.19
+- TOP 6.3.1.4.: (N) Ausbau der Straßen Lisbergstr. und Leisaustraße, Anhörung Gem. Gräfelfing vom 09.12.19
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Noch immer Probleme mit der Schulwegsicherheit in Aubing, Schr. KVR vom 14.11.19
+- TOP 6.3.2.2.: Aufnahme einer Radnebenroute, Schr. Planungsreferat vom 27.09.19
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnung, hier: (N) - Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Ehrenbürgstr. 22, Schr. KVR vom 02.12.19
+- TOP 6.3.2.4.: (N) Verkehrsfreigabe Ubostraße / Altostraße zwischen Giglweg und Georg-Böhmer-Straße, Schr. KVR vom 29.11.19
+- TOP 6.3.2.5.: (N) Straßenbenennung im 22. Stadtbezirk, U-1750 Verbindungsstraße zwischen Aubinger Allee und der BAB A 99, Schr. Kommunalreferat vom 25.11.19
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Siedlungsschwerpunkt Freiham, 2. Realisierungsabschnitt Freiham Nord: A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes für den 2. Realisierungsabschnitt und der Vergabeentscheidung zur Rahmenplanung 2. Realisierungsabschnitt B) Bebauungsplan mit Grünordnung, Aufstellungsbeschluss C) Weiteres Vorgehen, Anhörung Referat für Stadtplanung und Bauordnung vom 03.05.19 (vertagt aus 11/19)
+- TOP 6.4.1.2.: Tausch von städt. Immobilien (Teilfächen), Flst. 3531, 869 und 894 (Flächen Zweckverband Freiham) und 866, 868, 870, 871, 881, 888, 889, 891, 892 und 874 (Flächen LHM) Gemarkung Aubing, westlich der Aubinger Allee, Anhörung Kommunalreferat vom 13.11.19
+- TOP 6.4.1.3.: Erbbaurechtsvergabe städt. Immobilien, Flurstücke: 3691 und 3692, 3741 (Teilfläche), 3531/15 (Teilfläche), 3531/17 (Teilfläche), Gemarkung Aubing, Freiham Nord: WA 2 West, WA 14 West, WA 15 (1) Süd, WA 17 Nordost, Anhörung Kommunalreferat vom 13.11.19
+- TOP 6.4.1.4.: Errichtung einer Messstation für Stickstoffdioxid an der Lochhausener Straße, Empf. Nr. 14-20 / E 2598 der Bürgerversammlung vom 28.05.19, hier: Stellungnahme des Ref. f. Gesundheit u. Umwelt vom 12.11.19
+- TOP 6.4.1.5.: Tausch einer städt. Immobilie, Flst. 849, 850, 3455, 3455/1, 3515, 3515/1, 3713, Anhörung Kommunalreferat vom 18.11.19 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.4.1.6.: (N) Anzeige über das Abbrennen eines Feuerwerks durch einen gewerblichen Pyrotechniker auf Privatgrund, hier: Acker Nähe Grafrather Str. / Germeringer Weg am 31.12.19, Anlass: Silvesterfeier des Fördervereins 1000 Jahre Aubing e.V., Anhörung KVR vom 02.12.19
+- TOP 6.4.1.7.: (E) Errichtung einer Messstation für Stickstoffdioxid an der Lochhausener Straße Empfehlung Nr. 14-20 / E 02598 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 28.05.2019
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 11.11.-17.11.19, 18.11.-24.11.19
+- TOP 6.4.2.2.: Sachstand Strukturkonzept Lochhausen, Schr. Planungsreferat vom 14.11.19
+- TOP 6.4.2.3.: Baumaßnahmen der Stadtwerke München, Stichtag: 11.11.-25.11.19
+- TOP 6.4.2.4.: Bärenklau an der Aubinger Lohe, Schr. Kommunalreferat vom 22.11.19
+- TOP 6.4.2.5.: (N) Lochhausener Straße - Neubau einer Wohnanlage (EOF) mit Tiefgarage, Schr. Planungsreferat vom 28.11.19
+- TOP 6.4.2.6.: (N) Ausnahmezulassung gem. § 7 BImSchG, hier: Betrieb von Müllsammelfahrzeugen für 2020, Schr. Ref. f. Gesundheit u. Umwelt am 03.12.19
+- TOP 6.4.2.7.: (N) Alleebäume in Freiham-Süd und Ackerrand Hecken, Schr. Baureferat vom 20.11.19
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Aubing-Ost-Str., Schr. Sozialreferat vom 14.11.19
+- TOP 8.2.: Übersichtslisten zum Stadtbezirksbudget; 2. Halbjahr 2019, Schr. Direktorium vom 26.11.19
+- TOP 10.1.1.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 10.1.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 10.1.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 10.1.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 10.1.5.: (U) Einrichtung und Ausschreibung eines Nachbarschaftstreffs in Freiham Bebauungsplan Nr. 2068 im Siedlungsschwerpunkt Freiham - 1. Realisierungsabschnitt 1. Bauabschnitt 2. Standort in 2022 22. Stadtbezirk - Aubing-Lochhausen-Langwied Bedarfs- und Konzeptgenehmigung Vormerkung zur Errichtung eines Nachbarschaftstreffs in Freiham 2. Realisierungsabschnitt - 3. Standort 22. Standort - Aubing-Lochhausen-Langwied Vorbeugen statt nachsteuern - sozialpolitische Erkenntnisse aus dem Projekt Messestadt klar benennen und Konsequenzen für weitere Großsiedlungsprojekte wie z. B. Freiham ziehen Antrag Nr. 08-14 / A 03385 ..............................
+- TOP 10.2.1.: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 10.2.2.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 10.2.3.: (U) Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.1.: (U) Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Marianne-Hoppe-Straße Margot-Hielscher-Straße
+- TOP 10.4.2.: (U) Errichtung eines Neubaus für die offene Einrichtung für Jugendliche Freizeitstätte „AWO‘s Fredl“ in der Bodenseestr. 186/188 Träger: AWO München gemeinnützige Betriebs GmbH im 22. Stadtbezirk Aubing-Lochhausen-Langwied Regionale Angebote der offenen Kinder- und Jugendarbeit Projektkosten Neubau 6.850.000 Euro davon Ersteinrichtungskosten 120.000 Euro davon Ersteinrichtungskosten Küche 80.000 Euro Projektkosten Abriss und Entsorgung Containerprovisorium 150.000 Euro Projektkosten Freimachung Grundstück 130.000 Euro 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 10.5.1.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 10.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7.1.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 10.7.2.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 10.7.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 10.7.4.: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
+- TOP 10.7.5.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 10.8.1.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 10.8.2.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 11.1.: (N) Terminabfrage PLAN HA II bzgl. Verkehrssituation Kronwinklerstr. am 17.12.19 von 11.00-12.00 Uhr, Blumenstr. 28 b (Hochhaus), Zi. 431 a
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 22.01.20 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Planen/Bauen/Umwelt: Montag, den 02.12.19 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 03.12.19 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, den 04.12.19 um 19 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 05.12.19 um 19 Uhr, Friedrichshafener Str. 11
