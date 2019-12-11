@@ -1,0 +1,124 @@
+# 43. Sitzung (Verabschiedung Haushalt 2020)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-12-11T17:40:00+01:00
+- Ende: 2019-12-11T00:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11318
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11318
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00454393.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Verbleibendes globales CO2-Budget
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Coerde jetzt unterstützen! - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8.1: Erhaltung von Bewegungsbädern in Münster - verwiesen
+- TOP 8.2: Angebot der Wohnberatung im Informationsbüro Pflege ausbauen - verwiesen
+- TOP 8.3: App "Gut versorgt in ..." für die Stadt Münster - verwiesen
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Zuweisungen an die Schulen für Folgekosten aus dem Medienentwicklungsplan erhöhen - aufgegriffen
+- TOP 9.2: Ein Rederecht für den Jugendrat - verwiesen
+- TOP 9.3: Endlich handeln: Verkehrswende umsetzen! - verwiesen
+- TOP 10: Bericht zur Realisierbarkeit und Kostenschätzung der Forderungen der Fridays for Future - zur Kenntnis genommen
+- TOP -: Beratungen zum Haushalt 2020 Reden der Vorsitzenden der Fraktionen, der Gruppen und des fraktionslosen Ratsmitgliedes
+- TOP 11: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2020 - mehrheitlich beschlossen
+- TOP 12: Wirtschaftsplan 2020 der citeq - einstimmig beschlossen
+- TOP 13: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Gigabit-Versorgung der Gewerbegebiete - einstimmig beschlossen
+- TOP 14: Aufhebung der öffentlich-rechtlichen Vereinbarung über den Einsatz von Notärztinnen/Notärzten zwischen der Stadt Münster und dem Kreis Coesfeld - einstimmig beschlossen
+- TOP 15: Vorabgewinnausschüttung auf den Bilanzgewinn 2019 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 15.1: Erweiterung des laufenden Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2017 bis 2020 um ein weiteres Jahr bis 2021 - mehrheitlich beschlossen
+- TOP 16: Stadion an der Hammer Straße: Zwischenstand Stadionausbau und Gewährung einer Beihilfe an den SC Preußen Münster - mehrheitlich geändert beschlossen
+- TOP 17: Beirat Stadtregion Münster - einstimmig geändert beschlossen
+- TOP 18: Wirtschaftsplan 2020 von Münster Marketing - mehrheitlich beschlossen
+- TOP 18.1: Wirtschaftsplan 2020 von Münster Marketing
+- TOP 19: Fertigbauklassen Ludgerusschule Hiltrup - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 20: Johann-Conrad-Schlaun-Gymnasium: Grundsatzbeschluss für einen Verbleib am Standort Sonnenstraße und zur Sanierung sowie zum Teilneubau für ein 3-zügiges Gymnasium - mehrheitlich beschlossen
+- TOP 21: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude und eine Zweifachsporthalle auf der Konversionsfläche York: - einstimmig beschlossen
+- TOP 21.1: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude und eine Zweifachsporthalle auf der Konversionsfläche York:
+- TOP 22: Verlagerung der Städtischen Berufsfachschule für pharmazeutisch-technische Assistenten der Stadt Münster - einstimmig beschlossen
+- TOP 23: Kindertageseinrichtungen
+- TOP 23.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Robert-Bosch-Straße in Berg Fidel - mehrheitlich beschlossen
+- TOP 23.2: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Am Edelbach in Münster-Coerde, Bezirk Nord - mehrheitlich beschlossen
+- TOP 23.2.1: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Am Edelbach in Münster-Coerde, Bezirk Nord
+- TOP 23.3: Errichtungsbeschluss: Errichtung einer Kindertageseinrichtung östlich des Dahlweges/südlich Roddesttraße im Bezirk - mehrheitlich beschlossen
+- TOP 24: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2020 - einstimmig beschlossen
+- TOP 25: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - mehrheitlich beschlossen
+- TOP 25.1: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022"
+- TOP 26: Handlungsprogramm Klimaschutz 2030 für Münster - mehrheitlich geändert beschlossen
+- TOP 26.1: Handlungsprogramm Klimaschutz 2030 für Münster
+- TOP 26.1.1: Handlungsprogramm Klimaschutz 2030 für Münster
+- TOP 27: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - mehrheitlich beschlossen
+- TOP 27.1: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster
+- TOP 28: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 28.1: Abfallwirtschaftsbetriebe Münster
+- TOP 29: Neufassung der Abfallsatzung - einstimmig beschlossen
+- TOP 30: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 30.1: Abwassergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 30.2: Gewässergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 30.3: Anpassung der Satzung für die Benutzung der städtischen Übergangseinrichtungen für Flüchtlinge und Wohnungslose der Stadt Münster und Neufestsetzung der Benutzungsgebühren - mehrheitlich beschlossen
+- TOP 30.4: Straßenreinigungsgebühren 2020 - mehrheitlich beschlossen
+- TOP 30.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2020 - mehrheitlich beschlossen
+- TOP 30.6: Abfallgebühren 2020
+- TOP 30.6.1: Abfallgebühren 2020 - einstimmig beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 31: Wiederwahl des Beigeordneten Wolfgang Heuer - mehrheitlich beschlossen
+- TOP 32: Digitale Stadt Münster: WLAN-Ausbau im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 33: Bericht über die Umsetzung der Handlungsempfehlungen des Gutachters zur strukturellen Verbesserung des Taxengewerbes - zur Kenntnis genommen
+- TOP 34: Abschluss eines Managementkontraktes (MMK) mit der KonvOY GmbH für die Jahre 2020 bis 2024 - mehrheitlich beschlossen
+- TOP 35: Antrag an den Rat Nr. A-R/0069/2019 der AfD-Ratsgruppe im Rat der Stadt Münster - mehrheitlich beschlossen
+- TOP 36: Anregung nach § 24 GO NRW Nr. 2019-00185 - mehrheitlich beschlossen
+- TOP 37: Bericht über die Beteiligungen der Stadt Münster im Jahr 2018 (Beteiligungsbericht 2018) - zur Kenntnis genommen
+- TOP 38: Grundsteuerreform - zur Kenntnis genommen
+- TOP 39: Satzung der Stadt Münster für den Nachweis notwendiger Stellplätze und Fahrradabstellplätze (Stellplatzsatzung der Stadt Münster) - einstimmig beschlossen
+- TOP 39.1: Satzung der Stadt Münster für den Nachweis notwendiger Stellplätze und Fahrradabstellplätze (Stellplatzsatzung der Stadt Münster)
+- TOP 40: Förderprogramm für Lastenfahrräder und -anhänger: Erfahrungsbericht - zur Kenntnis genommen
+- TOP 41: Landeswettbewerb "Mobil.NRW - Modellvorhaben innovativer ÖPNV im ländlichen Raum" - einstimmig beschlossen
+- TOP 42: Verwendung der Fördermittel gem. § 11 a und § 11 Abs. 2 ÖPNVG - zur Kenntnis genommen
+- TOP 43: Stadtteilentwicklung Coerde - Errichtung eines multifunktionalen „Stadtteilhauses" am Hamannplatz (Grundsatzbeschluss) - einstimmig beschlossen
+- TOP 44: Planung und Entwicklung eines integrierten Begegnungs-, Bildungs- und Gesundheitszentrums als Bestandteoleines im südlichen Teilbereich des Stadtteilzentrums am Hamannplatz Nr. 36 - 40 neu zu errichtenden "Stadtteilhauses" für Coerde. - einstimmig beschlossen
+- TOP 45: Jugendberufsagentur - mehrheitlich beschlossen
+- TOP 46: Auslaufende Auflösung der Friedensreich-Hundertwasser-Schule zum Schuljahr 2020/2021 - einstimmig beschlossen
+- TOP 47: Änderung des „Allgemeinen Rahmens zur Aufnahme von Schülerinnen/ Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 48: Bedarf an Plätzen im Gemeinsamen Lernen in der Sekundarstufe - Dauerhafte Einrichtung des Gemeinsamen Lernens an drei städtischen Gymnasien - mehrheitlich beschlossen
+- TOP 49: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit, hier: EU-Zuwanderer/-innen ohne Sozialleistungsansprüche - mehrheitlich beschlossen
+- TOP 50: Bauleitplanung
+- TOP 50.1: Stadtbezirk Münster-Mitte
+- TOP 50.1.1: 97. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 609 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 50.1.1.1: 97. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 609 - Beschluss zur Aufstellung
+- TOP 50.1.2: Bebauungsplan Nr. 391 - 6. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 50.1.3: Bebauungsplan Nr. 391 - vorhabenbezogene 5. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 50.2: Stadtbezirk Münster-West
+- TOP 50.2.1: 3. Änderung des Bebauungsplans Nr. 268 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 50.2.2: 3. Änderung des Bebauungsplans Nr. 312 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 50.3: Stadtbezirk Münster-Nord
+- TOP 50.3.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 50.4: Stadtbezirk Münster-Südost
+- TOP 50.4.1: 63. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 50.4.2: Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 51: Bestellung von Vertreter/innnen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes St. Mauritz - Altenberge - einstimmig geändert beschlossen
+- TOP 52: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes Obere Stever Nottuln sowie des Wasserverbandes Amelsbüren-Hiltrup - einstimmig beschlossen
+- TOP 53: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 54: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 54.1: Milieuschutzsatzung für das Hansa- und Hafenviertel einführen - mehrheitlich beschlossen
+- TOP 54.2: Entwicklung von Wohnflächen zügig um- - mehrheitlich abgelehnt
+- TOP 55: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 55.1: Aktionsplan "Gemeinsam gegen Gewalt" - verwiesen
+- TOP 55.2: Wahlplakatierung sicher und ökologisch sinnvoll gestalten - verwiesen
+- TOP 55.3: Beschleunigungsprogramm für den ÖPNV auf Münsters Straßen - verwiesen
+- TOP 55.4: Parken, umsteigen und losfahren – P+R in Münster ausbauen - verwiesen
+- TOP 55.5: Eine Bestandsaufnahme der großen Wohnimmobilien in Münster-Nord erstellen und eine Handlungsstrategie entwickeln, um die Wohnsituation der BewohnerInnen zu verbessern - verwiesen
+- TOP 55.6: Digitale Stadt Münster – citeq als Dienstleister für Politik und Verwaltung - verwiesen
+- TOP 55.7: Pflege, Versorgungssicherheit und selbständiges Wohnen im Quartier konsequent ausbauen - verwiesen
+- TOP 56: Verschiedenes
