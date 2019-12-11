@@ -1,0 +1,120 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2019-12-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5079887
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5079887
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 1.6.: Haltverbote Cherubinistraße
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Seniorenvertretung Schwabing-West: Standortvorschläge für öffentliche Toiletten
+- TOP 2.1.: (E) Stadtbezirksbudget Wilhelmschule-Förderverein e.V. Friedensprojekt ab 14.01.2020 330,00 Euro, Az.: 0262.0-4-0276
+- TOP 2.2.: (E) Stadtbezirksbudget Seniorenvertretung Schwabing-West Faschingsfest am 13.02.2020 250,00 Euro, Az.: 0262.0-4-0277
+- TOP 2.3.: Eigene Veranstaltung des BA: Frühlingsfest im ASZ am 21.04.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis und Sachbericht Spielen in der Stadt e.V. (Zirkus Pumpernudl)
+- TOP 3.2.2.: Bewilligungsbescheid an „Sehbehindert – aber Richtig“ e.V. (Heizung)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Toiletten im öffentlichen Raum, Beschlussvorlage für den Bauausschuss vom 03.12.2019 (Sitzungsvorlage Nr. 14-20 / V 16785)
+- TOP 3.3.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 3.3.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.3.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 3.3.5.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.3.6.: (U) Mehrjahresinvestitionsprogramm (MIP) 2019 - 2023 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Stadtbezirksbudget Svapinga Consort e.V. Orchestermusik vom 09.01. - 12.01.2020 3.000,- €; Az. 0262.0-4-0275
+- TOP 2.2.2.: (E) Stadtbezirksbudget Wannda e.V. Förderung kostenloses Musik- und Kinderprogramm Märchenbazar vom 28.11. - 29.12.2019 14.657,50€; Az. 0262.0-4-0270
+- TOP 2.3.1.: „Wings4Life Worldrun 2019“ am 03.05.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Anwohnerbeschwerden über Geruchsbelästigung durch den Imbiss in der Hohenzollernstr. 152 (Antwort der Bezirksinspektion Nord auf BA-Schreiben vom 24.10.2019)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis und Sachbericht Kick-off-Veranstaltung für Foto-Festival 2020
+- TOP 3.2.2.: Bewilligungsbescheid an Pathos München e.V. (Die Schimmelreiter*in)
+- TOP 3.4.1.: Schank- und Speisewirtschaft „New Saigon“, Hohenzollernplatz 8
+- TOP 3.4.2.: Schank- und Speisewirtschaft „L‘Osteria“, Elisabethstr. 52
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Unterstützung des Volksbegehrens „Mietenstopp in Bayern“ durch den Stadtrat (Schreiben des Referats für Stadtplanung und Bauordnung zur Erledigung einer Empfehlung aus der Bürgerversammlung vom 10.10.2019)
+- TOP 2.1.2.: Städtisches Vorkaufsrecht für vor 1950 errichtete Gebäude (Anhörung zur Beschlussvorlage für den Stadtrat zur Erledigung einer Empfehlung aus der Bürgerversammlung 2018)
+- TOP 2.1.3.: Clemensstr. 71: Nutzungsänderung einer ehemaligen Gaststätte zu Büro
+- TOP 2.1.4.: Tektur Ansprengerstr. 12: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.5.: Schleißheimer Str. 220: Nutzungsänderung Bankfilialie zu Tanzschule
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bauerstr. 10-12: Leerstand von Wohnungen und Vermietung zu überhöhten Preisen (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 26.09.2019)
+- TOP 3.1.2.: Schleißheimer Str. 228: Aufgabe der Gärtnerei Stängle? (Antwort der LBK auf BA-Anfrage vom 24.10.2019)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Bebauungsplan mit Grünordnung Nr. 2096a Dachauer Straße (nordöstlich) Heßstraße (südwestlich) Lothstraße (nordwestlich) - Kreativquartier an der Dachauer Straße/Schwere-Reiter-Straße Teilbereiche Kreativpark und Kreativplattform - - Satzungsbeschluss - Stadtbezirk 9 Neuhausen-Nymphenburg Stadtbezirk 4 Schwabing West
+- TOP 3.2.2.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 3.2.3.: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
+- TOP 3.2.4.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2115a Arcisstraße (östlich), Elisabethplatz (südlich), Nordenstraße (westlich), (Teiländerung des Bebauungsplans Nr. 259) -Satzungsbeschluss- Stadtbezirk 4 Schwabing-West
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Wertstoffcontainer gegenüber Römerstr. 11
+- TOP 1.2.: Bürgerin: Fahrradstraße Winzererstraße und Radler auf Gehwegen
+- TOP 1.3.: Antrag Grüne: Fassadenbegrünung des Theaters Schauburg
+- TOP 1.4.: Bürgerin: Einführung des Parkraummanagements im Ackermannbogen
+- TOP 1.5.: Bürgerin: Fahrradstraße an der Schwere-Reiter-Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Unterstützung des Projekts „Ackermannbogen: Biodiversität im Quartier – gemeinsam erleben, nutzen. gestalten“
+- TOP 2.1.2.: Einhaltung des Pariser Klimaabkommens: Begrenzung der Stadterwärmung auf unter zwei Grad (Anhörung zur Beschlussvorlage für den Stadtrat zur Erledigung einer Empfehlung aus der Bürgerversammlung 2019)
+- TOP 2.1.3.: Cherubinistr. 5: Fällung einer Winterlinde
+- TOP 2.1.4.: Erich-Kästner-Str. 40: Fällung eines Feldahorn
+- TOP 2.2.1.: (E) Fahrradstraße Clemensstraße Clemensstraße nur für Fahrräder und Anwohner-Pkws freigeben
+- TOP 2.2.2.: (E) Maßnahmen gegen Parken auf Rad- und Fußwegen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Geh- und Radweg zwischen Adams-Lehmann- und Saarstraße: Verbesserung der Beschilderung am Südende (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 31.10.2019, weitergeleitetes Bürgeranliegen)
+- TOP 3.1.2.: Baumpflanzungen in der Georgenstraße
+- TOP 3.1.3.: Aufwertung der Aufenthaltsfläche an der Ecke Hohenzollern-/Friedrichstraße: Terminvorschläge für Ortstermin (Antwort des Baureferats Tiefbau auf BA-Schreiben vom 26.09.2019)
+- TOP 3.1.4.: Neuordnung des Silvesterfeuerwerks: Verbot privater Feuerwerke im Luitpoldpark und am Bayernplatz (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 31.10.2019)
+- TOP 3.1.5.: Schulwegsicherheit an der Kreuzung Schleißheimer Straße/Hildebold-/Leonhard-Frank-Straße (Zwischennachricht des KVR zu BA-Schreiben vom 21.11.2019)
+- TOP 3.2.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen an Straßen und in öffentlichen Grünflächen
+- TOP 3.2.2.: Fällungsgenehmigung Götzstr. 10
+- TOP 3.3.1.: Fahrradstraßenpilotroute Nymphenburg-Petuelring: Teilabschnitt Birnauer Straße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Verschiebung der Baumaßnahme Tengstraße zwischen Georgen- und Elisabethstraße
+- TOP 3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 3.4.4.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 3.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.6.: (U) Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand - Bekanntgabe -
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Anhörung zu einer Änderung der BA-Satzung: Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung
+- TOP F.2.: Stadtbezirksbudget: Übersichtsliste 2. Halbjahr 2019
+- TOP G: Verschiedenes
+- TOP H: Termine
