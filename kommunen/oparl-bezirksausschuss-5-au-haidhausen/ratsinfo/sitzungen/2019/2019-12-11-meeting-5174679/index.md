@@ -1,0 +1,157 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-12-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174679
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174679
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10: Mieterbeirat
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Massive Belästigung durch Nachtbaustelle Tram: Nockherberg, Tegernseer Landstraße, St.-Bonifatius-Straße
+- TOP 5.1.: Unterführung Ost im Ostbahnhof München verbessern und optimieren
+- TOP 5.2.: Fahrradstraße in der Maria-Theresia-Straße
+- TOP 5.3.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben
+- TOP 5.4.: Orleansplatz: Zwei Rolltreppen
+- TOP 5.5.: Wiederherstellung der Radwegmarkierung vom Anwesen Ohlmüllerstr. 40-44
+- TOP 6.1.1.: (E) Stadtbezirksbudget Curatorium Altern gestalten Silberfilm München vom 01.01. - 31.12.2020 8.980,00 € - siehe auch UA Soziales -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein München e.V. / Haus an der Franziskanerstraße Weihnachtsfeier am 24.12.2019 843,75 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.3.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Aufstellung einer Bank über dem Auer Mühlbach
+- TOP 6.1.4.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Pflanzung einer Hecke am Kolumbusplatz / Humboldtstraße
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative "Milchstraße4" Filmische Installation "ZEIT" vom 06.-27.02.2020 2.000,00 € / Az. 0262.0-5-0271
+- TOP 7.1.: Änderung der BA-Satzung Verankerung der Funktion der Gleichstellungsbeauftragten der Bezirksausschüsse in der BA-Satzung Frist: 30.12.2019
+- TOP 7.2.: Änderung der BA-Geschäftsordnung hinsichtlich Handhabung der Ordnung und Hausrecht Frist: 19.12.2019
+- TOP 7.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Balanstr. 14
+- TOP 8.1.1.: Keine Mülltonnenaufstellung am Wiener Platz beim ehemaligen "Huterer"
+- TOP 8.1.2.: Wertstoffcontainer an den Haidenauplatz
+- TOP 8.1.3.: Errichtung einer Infotafel für Franz Xaver Schmederer im Kronepark
+- TOP 8.1.4.: Rückbau des baulich getrennten Restradweges in der Orleansstraße
+- TOP 8.1.5.: Verschmutzungsproblem Bushaltestelle Aurbacherstraße (Punkt 3 des Antrags)
+- TOP 8.1.6.: Verstärkt Inklusion an der Grundschule und Haupt-/Mittelschule an der Hochstraße
+- TOP 8.1.7.: Einbau von Pollern am Michael-Huber-Weg
+- TOP 8.1.8.: Offener Bücherschrank in Haidhausen Ergebnis Ortstermin vom 04.12.2019
+- TOP 8.3.1.: Einbringung des Mehrjahresinvestitionsprogramms 2019 - 2023 in der Sitzung der Vollversammlung am 18.12.2019 Fachausschussberatungen zum Haushalt 2020 Verteilung der Unterlagen
+- TOP 8.3.2.: Wochen- und Bauernmarkt Mariahilfplatz, Änderungen wegen Sanierung der Kirche
+- TOP 8.4.1.: Infoblatt Dezember
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Temporäre Kunst im öffentlichen Raum: Kunstaktion "BEYOND" vom 20.09.2019 - 30.04.2020 in der Steinstr. 61
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Curatorium Altern gestalten Silberfilm München vom 01.01. - 31.12.2020 8.980,00 €
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Städtische Kindertagesstätte am Mariahilfplatz 17b; Baustellenbedingte Auslagerung
+- TOP 3.2.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2019 - 2023 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.3.: (U) Mehrjahresinvestitionsprogramm (MIP) 2019 - 2023 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.5.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 3.6.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 3.7.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.8.: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Alkoholkonsum und Vandalismus auf dem Hypopark
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein München e.V. / Haus an der Franziskanerstraße Weihnachtsfeier am 24.12.2019 843,75 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 09.05. sowie 12.09.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Franziskanerstr. 15: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.: Sommerstr. 7, Rückgebäude: Neubau eines Wohnhauses mit Versenkgarage => dazu: Baumfällungen
+- TOP 2.3.: Nockherstr. 9: Aufstockung und Sanierung eines Zweifamilienhauses
+- TOP 2.4.: Hochstr. 53: Abbruch Bestand und Neubau eines Mehrfamilienhauses mit Unterkellerung, Vorbescheid
+- TOP 2.5.: Max-Planck-Str. 1: Barrierefreie Erschließung und Errichtung Aufzug Arkaden (Besucherzugang West)
+- TOP 2.6.: Errichtung einer Treppenanlage an der Maximiliansbrücke auf der Praterinsel; Antrag auf wasserrechtliche Anlagengenehmigung
+- TOP 2.7.: Eduard-Schmid-Str. 36: Anbau einer Fluchttreppe zur energetischen Sanierung des Azubigebäudes => dazu: Baumfällungen
+- TOP 2.8.: Wiener Platz 6: Nutzungsänderung und Umbau: Werkstatt / Atelier zu Ferienwohnung
+- TOP 2.9.: Metzstr. 37: Teilausbau im Dachgeschoss, Errichtung von Dachgauben und einer Dachterrasse
+- TOP 2.10.: Lucile-Grahn-Str. 48: Nutzungsänderung: Büro zu Wohnung und Wohnung zu Büro
+- TOP 2.11.: Simon-Knoll-Platz 2: Sanierung inkl. Austausch der Fenster und Umbau einer Wohnung (3. OG rechts)
+- TOP 2.12.: Einsteinstr. 46: Umbau, Renovierung und DG-Ausbau sowie Nutzungsänderung der EG-Räume; Tektur
+- TOP 2.13.: Einsteinstr. 111: Umgestaltung der Freifläche; Tektur
+- TOP 2.14.: Franziskanerstr. 47: Erweiterung der nordseitigen EG-Wohnung nach Osten sowie Nutzungsänderung der hofseitigen Kellerräume zu einem Studio
+- TOP 2.15.: Boosstr. 18: Erneuerung und Erweiterung von Balkonen
+- TOP 2.16.: Kellerstr. 1: Sitzplatzanzahl-Erhöhung einer Gastroeinheit und geringfügige Erhöhung einer Stufe am Nebeneingang sowie Verkleinerung einer Ladeneinheit
+- TOP 2.17.: Rosenheimer Str. 115: Umbau und Aufstockung eines Mehrfamilienhauses, Anbau von Balkonen sowie Errichtung eines Außenaufzugs; Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 3.2.: Ausschreibung der Grundstücksfläche Metzgerstr. 5 a der MGS, Bericht über den Sachstand
+- TOP 3.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 3.4.: Antwort der LBK auf Stellungnahmen des BA 5 zu Bauvorhaben: a) Orleansstr. 56 b) Sedanstr. 34
+- TOP 3.5.: Errichtung einer öffentlichen Toilette im Bereich der Eduard-Schmid-Str. 36 / Bericht vom Ortstermin am 05.12.2019
+- TOP 3.6.: Toiletten im öffentlichen Raum Sitzungsvorlagen Nr. 14-20 / V 16785
+- TOP 3.7.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 3.8.: TSV München-Ost e.V. Errichtung eines Erweiterungsbaus (Dreifachsporthalle) auf dem Bestandsgebäude an der Sieboldstr. 4 - Korrektur von Investitionsförderungen Sitzungsvorlagen Nr. 14-20 / V 16644
+- TOP 3.9.: Neubau der öffentlichen Grünflächen an der Regerstraße und an der Falkenstraße im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2076 Sitzungsvorlagen Nr. 14-20 / V 15998
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Grünflächenmangel / Bebauung im Stadtviertel
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Errichtung einer Trambahnhaltestelle in der Regerstraße durch die Stadtwerke Teilnehmer: MVG, Planungsreferat, Baureferat, Bayerische Hausbau
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Fahrradstraße in der Kirchenstraße: Nachbesserungen hier: Spiegelstrich 1 Verweisung in den Unterausschuss aus der Sitzung vom 20.11.2019
+- TOP 2.: Anhörungen
+- TOP 2.1.: Abfrage des Bedarfs nach Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im 5. Stadtbezirk
+- TOP 3.2.: Wiederherstellung der Radwegmarkierung der Orleansstraße zwischen Balanstraße und Rosenheimer Straße Endgültige Erledigung der Empfehlung Nr. 14-20 / E 02455 der Bürgerversammlung am 21.02.2019
+- TOP 3.3.: Parksituation mit dem Anwohnerausweis "Franziskanerstraße" Antwort KVR zum Schreiben BA 5 vom 14.10.2019
+- TOP 3.4.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 3.7.: Rückbau Rampe Weißenburger Str. 41, weiteres Vorgehen
+- TOP 3.8.: Radlwege aus Obergiesing in die Innenstadt verbessern ! Antrag BA 17 Obergiesing-Fasangarten
+- TOP 3.9.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 3.10.: Bericht Ortstermin Trogerstraße am 07.11.2019
+- TOP 3.11.: Fahrbahnsanierung Lucile-Grahn-Straße zwischen Einsteinstraße und Haidhauser Straße
+- TOP 3.12.: Protokoll Standortbegehung Elektro-Ladesäulen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: 2. S-Bahntunnel Haidhausen
+- TOP 4.2.: Fußgängerüberweg Metz-/Wörthstraße
+- TOP 4.3.: "Überreiter-Stau" auf der Pariser Straße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 13.01.2020, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 13.01.2020, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 14.01.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 15.01.2020, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 16.01.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 22.01.2020, 19.30 Uhr, Gasteig, Rosenheimer Str. 5 BA-Vorstand, Dienstag, 07.01.2020, 19 Uhr, Friedenstraße 40
