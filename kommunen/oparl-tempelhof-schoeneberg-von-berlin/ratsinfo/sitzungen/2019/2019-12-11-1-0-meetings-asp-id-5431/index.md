@@ -1,0 +1,114 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-12-11T17:00:00+01:00
+- Ende: 2019-12-11T20:20:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5431
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5431
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=345802
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Zebrastreifen für die Prechtlstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Gefährliches Über-Rot-Fahren an der Kreuzung Groß-Ziethener Straße/Nahariyastraße - vertagt
+- TOP 4.3: Ein Zebrastreifen an der Kreuzung Tautenburger Straße/Frankenhauser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Ein Zebrastreifen auf der Motzener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Anhebung der Halker Zeile am nördlichen Ende der Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Umstellung der Ampelschaltung an der Kreuzung Marienfelder Allee/Nahmitzer Damm - vertagt
+- TOP 4.8: Verlängerung der Grün-Phase der Fußgängerampel Kolonnenstraße Ecke Wilhelm-Kabus-Straße - vertagt
+- TOP 4.9: Ampelschaltung vor dem Robert Blum Gymnasium - vertagt
+- TOP 4.10: Fahrradwege für die Günzel Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: 2-spuriger Radweg Hohenstaufenstraße (Höhe Martin-Luther-Straße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Längere grüne Ampelzeit für die Fußgänger an der Kreuzung Potsdamer Straße Ecke Goebenstraße - vertagt
+- TOP 4.13: Lehrer dürfen keine Kinder beleidigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Diese e.G unter dem Mietendeckel - schriftlich beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wie ist der Bezirk auf die Eröffnung des BER im Herbst 2020 vorbereitet? - vertagt
+- TOP 8.2: DIESE eG vom Senat gerettet? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: des Bezirksamtes Tempelhof-Schöneberg über den Entwurf einer FNP-Änderung für den Bereich Attilastraße/Röblingstraße - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: 2940 Kilometer von Berlin nach Santiago de Compostela Ausschilderung des Jakobswegs durch den Bezirk Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Röhrenskulptur von Fridtjof Schliephacke durch Umsetzung sichtbar machen - überwiesen
+- TOP 10.3: Aussetzen der Sanktionen bei ALG II-Bezieher_innen - überwiesen
+- TOP 10.4: Aufenthaltsqualität des Bayrischen Platzes mit einfachen Mitteln erhöhen - überwiesen
+- TOP 10.5: Ökologische Einbindung Landschaftsschutzgebiet Marienfelde - überwiesen
+- TOP 10.6: Bessere Voraussetzungen zur Vermeidung von Wohnungslosigkeit und Obdachlosigkeit psychisch kranker Menschen schaffen – den sozialpsychiatrischen Dienst personell stärken und die Kooperation aller zuständigen Bereiche fördern - überwiesen
+- TOP 10.7: Keine weitere Ausübung des Vorkaufsrechts zugunsten der „DIESE eG“ - überwiesen
+- TOP 10.8: Restliche Sondermittel für den Umzug des Ponyhofes am Lichterfelder Ring an einen anderen Standort - in der BVV zurückgezogen
+- TOP 10.9: Sichere und bequeme Fußwege im Bezirk - überwiesen
+- TOP 10.10: Querungshilfe in der John-Locke-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Laubbeseitigung in Grünanlagen - überwiesen
+- TOP 10.12: Grünanlagen im Zeichen der Klimaerwärmung - überwiesen
+- TOP 10.13: Sperrung der nördlichen Steinmetzstraße für den Durchgangsverkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Zweigleisiger S-Bahnausbau nach Blankenfelde endlich bestellen und bauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Fahrradspuren in der Yorckstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Die Flughafeneröffnung und die Busspur auf dem Mariendorfer und Lichtenrader Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Grünzug nach Gerda und Wolfgang Szepansky benennen - überwiesen
+- TOP 10.18: Eine öffentliche Toilette für den Bayerischen Platz - überwiesen
+- TOP 10.19: Cheruskerpark prioritär in Arbeitsplanung 2020 aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.20: Erinnerung an Dr. Kurt Gudell endlich umsetzen! - überwiesen
+- TOP 10.21: Tempelhof-Schöneberg unterstützt die „Nacht der Solidarität" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.22: Falls der Dringlichkeit stattgegeben: LARA über das Jahresende hinaus unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: Falls der Dringlichkeit stattgegeben: Dringliche Haushaltssperre: finanzielle Unwägbarkeiten auf Grund Vorkaufsrecht - überwiesen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: BVV Tempelhof–Schöneberg will endlich familienfreundliche Arbeitsstrukturen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Raserei und illegale Autorennen: „Akustik-Blitzer“ gegen Lärmbelästigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Sehbehindertentag jährlich würdigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Temporäre Spielstraßen auch in Tempelhof-Schöneberg einrichten - vertagt
+- TOP 12.5: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Verkehrssicherheit in der Handjerystraße Ecke Schmiljanstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Neue Mitte Tempelhof – Quartiersgaragen für den ruhenden Verkehr - vertagt
+- TOP 12.8: Fahrradbügel am Platz der Luftbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Strategie für sauberes Straßenland entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Koordinierungsgruppe gegen sogenannte Clankriminalität in Tempelhof-Schöneberg einrichten - vertagt
+- TOP 12.11: Umgestaltung des Kleistparks öffentlich diskutieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Tag des Sports nutzen - Sportgespräch etablieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Historische Lichtenrader Postagentur (1893-1904) in Alt-Lichtenrade vor dem Verfall schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Tag der Menschen mit Behinderung nutzen, um sichtbar zu machen, wie behindert wird - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Container für Obdachlose und Wohnungslose nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Mehr Schulwegsicherheit und mehr Fahrradabstellanlagen am Südwestkorso Ecke Varziner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Bürokomplex Reichartstraße sinnvoll und angemessen erschließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Keine Kompromisse bei den bezirklichen Sportflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Für eine Mischnutzung aus Gewerbe und Wohnen im ehemaligen Wegerthaus an der Ecke Potsdamer/Kurfürstenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Zivilstreifen des Ordnungsamtes auch in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Ponyhof am Lichterfelder Ring in den geänderten FN-Plan integrieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Kein Abzug von der Miete bei sozialen Leistungsemfänger_innen bei Mietminderungen - vertagt
+- TOP 12.24: Potentiale von Baumpflanzungen darstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Maßnahmen gegen Falschparken in der Reißeckstraße/Alt-Mariendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Bankpatenschaften für die Allgemeinheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Bürgeramtsstandort in der Rheinstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.28: Wahl einer Patientenfürsprecherin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.29: Geschichte auch an Schulgebäuden in Tempelhof Schöneberg sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.30: Das SIBUZ benötigt einen Standort, der seinen Aufgabenstellungen entspricht! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.31: Verwendung von Sondermitteln für karitative Einrichtungen zum Jahresende 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.32: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Update Typo3-Content-Management-System (CMS), Umsetzung einer barrierefreien Website - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.33: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - "Projekttage Wasser" Erwerb von Wassertischen für frühkindliche naturwissenschaftliche Experimente - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.34: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Ausstattung von Sitzmobiliar zur Versorung chronischer kranker Menschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.35: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Bezuschussung des Projekts "Digitalisierung" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.36: Weiterbetrieb des Stroke-Einsatz-Mobils (STEMO) in Mariendorf unterstützen - vertagt
+- TOP 12.37: STEMOs erhalten – Schlaganfallpatienten schneller helfen, Leben retten! - vertagt
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Innsbrucker Straße: Weniger Ratten ohne Dornenbüsche - überwiesen
+- TOP 13.2: Naturlehrpfade einrichten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Tiergehege im Franckepark - überwiesen
+- TOP 13.4: Unterkunft für obdachlose LGBTTIQ schaffen - überwiesen
+- TOP 13.5: Trauerweiden im Rudolph-Wilde-Park ersetzen - überwiesen
+- TOP 13.6: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Veröffentlichung der Bezirksregionenprofile (BZRP) Teil II (konzeptioneller Teil, Strategien und Maßnahmen) für die Bezirksregionen Tempelhof und Lichtenrade - vertagt
+- TOP 13.7: Einleitung des Verfahrens zur Aufstellung des Bebauungsplans 7 99 für die Grundstü-cke Mariendorfer Damm 222/290 und Hirzer Weg 45/109 (Trabrennbahn Mariendorf) im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13.8: Ungestörtes Weihnachtssingen - vertagt
+- TOP 14: Termin der nächsten Sitzung - erledigt
