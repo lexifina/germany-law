@@ -1,0 +1,80 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-12-11T17:00:00+01:00
+- Ende: 2019-12-11T20:25:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4029
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4029
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 09.10.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 06.11.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Unterzeichnung des ICAN-Appells für eine atomwaffenfreie Welthier: Tagesordnungsantrag der Fraktion DIE LINKE vom 03.09.2019
+- TOP 6: Landesprogramm „Gute Schule 2020“ - Bericht 3. Quartal 2019 - ungeändert beschlossen
+- TOP 7: Bewohnerparken;hier: Ergebnisse des Pilotprojektes zur Ausweitung des Berechtigungskreises im Frankenberger Viertel - ungeändert beschlossen
+- TOP 8: Denkmalbereich Kornelimünsterhier: Beschluss der Satzung - ungeändert beschlossen
+- TOP 9: Bebauungsplan Nr. 989 - Trierer Straße/Schönforststraße - für den Planbereich im Stadtbezirk Aachen-Mitte entlang der Trierer Straße zwischen Neuhausstraße und Madrider Ringhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Erlass eines dritten Nachtrages zur Gebührensatzung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 11: 1. Änderungssatzung zur Satzung der Stadt Aachen über die Erhebung von Beiträgen nach § 8 KAG NW vom 11.12.2015sowieSachstand zur Gesetzesinitiative zur Modernisierung des KAG in Bezug auf Straßenausbaubeiträge - geändert beschlossen
+- TOP 12: Satzung über die förmliche Festsetzung des Sanierungsgebietes "Beverau" - ungeändert beschlossen
+- TOP 13: 19. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 14: 22. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen hier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 15: Abfallwirtschaftskonzept 2020 - ungeändert beschlossen
+- TOP 16: 7. Änderungssatzung zur Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung) vom 10.12.2008 - ungeändert beschlossen
+- TOP 17: 2. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018. - ungeändert beschlossen
+- TOP 18: Wirtschaftsplan 2020 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 19: Bericht der PKF Fasselt Schlage Partnerschaft mbB Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2018 und Lagebericht für das Wirtschaftsjahr 2018 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für das Jahr 2018 - ungeändert beschlossen
+- TOP 20: Abfallgebührensatzung der Stadt Aachen- Gebührenbedarfsberechnung 2020 - - ungeändert beschlossen
+- TOP 21: Friedhofsgebühren der Stadt Aachen- Gebührenbedarfsberechnung 2020 - - ungeändert beschlossen
+- TOP 22: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 23: Wirtschaftsplan 2020 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 24: Jahresabschluss zum 31. 12. 2018 und Lagebericht 2018 der Volkshochschule Aachen - ungeändert beschlossen
+- TOP 25: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2020 - geändert beschlossen
+- TOP 26: Jahresabschluss Eurogress Aachen 2018 - ungeändert beschlossen
+- TOP 27: Wirtschaftsplan Eurogress Aachen 2020 - ungeändert beschlossen
+- TOP 28: Digitale Strategie der Stadt Aachen - ungeändert beschlossen
+- TOP 29: Wahl des Wahlausschusses für die Kommunalwahl am 13.09.2020 - geändert beschlossen
+- TOP 30: Benennung von 7 stimmberechtigten Delegierten für die Mitgliederversammlung 2020 des Städtetages Nordrhein-Westfalen - geändert beschlossen
+- TOP 31: Überlassungs- und Benutzungsordnung für den Grillplatz BirkstraßeRedaktionelle Änderungen - ungeändert beschlossen
+- TOP 32: Mittelverlagerung im Haushaltsjahr 2019 – Verlagerung von Mitteln aus dem PSP-Element 5-011303-900-02400-300-7 in Höhe von 75.000 Euro - ungeändert beschlossen
+- TOP 33: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 33.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2019; Produkt 021701, Notfallrettung: Ersatzbeschaffung eines Rettungswagens (RTW) nach Verkehrsunfall - ungeändert beschlossen
+- TOP 33.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2019; Produkt 021501, Brandbekämpfung: Umbaumaßnahme Seminarraum Wache 3/Nord - ungeändert beschlossen
+- TOP 34: Anfragen:
+- TOP 34.1: Ratsanfragen - ungeändert beschlossen
+- TOP 34.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 35: Ratsanträge - ungeändert beschlossen
+- TOP 36: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 36.1: Umbesetzungsantrag der SPD-Fraktion vom 14.11.2019 - ungeändert beschlossen
+- TOP 36.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 25.11.2019 - ungeändert beschlossen
+- TOP 36.3: Umbesetzungsantrag der Fraktion DIE LINKE vom 26.11.2019 - ungeändert beschlossen
+- TOP 36.4: Umbesetzungsantrag der Fraktion DIE LINKE vom 09.12.2019 - ungeändert beschlossen
+- TOP 37: Einrichtung einer Stelle für eine Marketingfachkraft bei Stadttheater und Musikdirektion Aachen ab dem Wirtschaftsjahr 2020/21 - ungeändert beschlossen
+- TOP 38: Mitteilungen der Verwaltung
+- TOP 39: "Keine Privatisierung der Spielbanken in NRW"hier: Gemeinsamer Tagesordnungsantrag der Fraktionen GRÜNE, DIE LINKE, PIRATEN und des Ratsherrn Allemand, UWG, vom 26.11.2019
+- TOP 40: Antrag des Vereins Kinder- und Jugendhilfe Driescher Hof e.V. auf eine Förderung für anstehende Sanierungsmaßnahmen inklusive Anschaffung einer Photovoltaikanlage - ungeändert beschlossen
+- TOP 41: Digitale Werkstatt für den Mittelstand - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
