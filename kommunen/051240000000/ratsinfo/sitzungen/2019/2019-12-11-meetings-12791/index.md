@@ -1,0 +1,121 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-12-11T16:02:00+01:00
+- Ende: 2019-12-11T16:42:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12791
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12791
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand: 03.12.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00248384.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00249701.pdf
+- Wortprotokoll: Anwesenheitsliste http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00249337.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten / Haushalt (nur Rat)
+- TOP 1.1: Einführung eines Stadtverordneten
+- TOP 1.1.1: Nachwahl einer Bürgermeisterin / eines Bürgermeisters
+- TOP 1.1.2: Bericht über den Sachstand der Umsetzung von Ratsaufträgen
+- TOP 1.1.3: Haushaltsreden
+- TOP 1.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplanes 2020/2021
+- TOP 1.2.1: Planungsmittel Haushalt 2020/2021
+- TOP 1.2.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2020/2021
+- TOP 1.3: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltplanes 2020/2021
+- TOP 1.3.1: Antrag auf anteilige Finanzierung der Kath. Beratungsstelle für Ehe-, Familien- und Lebensfragen durch die Stadt Wuppertal
+- TOP 1.3.2: Haushaltsgesamtantrag der Arbeitsgemeinschaft der Freien Wohlfahrtspflege 2020/21
+- TOP 1.3.3: Antrag auf Zuschusserhöhung der Soziokulturellen Zentren (die börse und Färberei e. V.)
+- TOP 1.3.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2020/2021
+- TOP 1.4: Anträge zum Haushalt
+- TOP 1.4.1: Abgesetzt. In der Sache erledigt. Kein Kind ohne Schulmittagessen - Antrag der Fraktionen vom 27.11.2018
+- TOP 1.4.1.1: Abgesetzt. In der Sache erledigt. Änderungsantrag zur Drucksache VO/1071/18 Kein Kind ohne Schulmittagessen
+- TOP 1.4.2: Entgelte für Kindertagespflege auf 4,20 € für die Förderleistung festzulegen
+- TOP 1.4.3: Abgesetzt. In der Sache erledigt. Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten.
+- TOP 1.4.4: Bürgerantrag zur Genehmigung und Finanzierung des Rosensonntagszuges in Wuppertal
+- TOP 1.4.5: Haushaltsplan 2020/21
+- TOP 1.4.6: Haushaltsplan 2020/21
+- TOP 1.4.6.1: Vergabegrundsätze der Stadt Wuppertal / Begleitantrag zum Haushaltsplan 2020/21
+- TOP 1.4.6.2: Haushalt 2020/2021 - Änderungsantrag zu VO/1222/19
+- TOP 1.4.7: Haushaltsplanberatungen
+- TOP 1.4.8: Haushaltsplan 2020/2021 - Verkehrsinfrastruktur
+- TOP 1.4.9: Haushaltsplan 2020/2021 - Bezahlung von Honorarkräften in der Bergischen Musikschule
+- TOP 1.5: Drucksachen zum Haushalt
+- TOP 1.5.1: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgänerzonen der "Herzogstraße"
+- TOP 1.5.2: Finanzsituation des Gebäudemanagements der Stadt Wuppertal
+- TOP 1.5.2.1: Monitoring GMW
+- TOP 1.5.2.2: Haushaltsplan 2020/2021 - Prozessoptimierung beim Gebäudemanagement
+- TOP 1.5.3: Bürgerbeteiligung am Haushalt 2020/21 (VO/0167/19/1-Neuf.)
+- TOP 1.5.4: Verwendung des Bürgerbudgets 2019
+- TOP 1.6: Haushaltsplan 2020/2021
+- TOP 1.6.1: Begleitdrucksache zum Haushaltsplan-Entwurf 2020/2021 - Einführung einer Infrastrukturförderabgabe
+- TOP 1.6.1.1: Einführung einer Infrastrukturförderabgabe
+- TOP 1.7: Veränderungsnachweisungen
+- TOP 1.7.1: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2020/2021
+- TOP 1.7.2: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2020/2021
+- TOP 1.7.3: Veränderungsnachweisung zum Stellenplan 2020/2021 - Feuerwehrtechnischer Dienst
+- TOP 1.8: 9. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2020
+- TOP 1.9: Haushaltssatzung 2020/2021
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Weitere juristische Schritte der Tanztheater-Geschäftsführung
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Abgesetzt. Vorberatung nicht abgeschlossen. Bürgerantrag zum Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen
+- TOP 3.2: Bürgerantrag: Resolution zum Klimanotstand - abgelehnt
+- TOP 3.2.1: Zur Drucksache VO/1042/19, Bürgerantrag „Resolution zum Klimanotstand“ - ungeändert beschlossen
+- TOP 3.2.2: Klimacheck für Verwaltungsentscheidungen - Entgegennahme ohne Beschluss
+- TOP 3.2.3: Klimaschutzverpflichtung - Antrag zu Tagesordnungspunkt 3.2 - abgelehnt
+- TOP 3.3: Bürgerantrag zum Thema "Testweise einen Radweg auf der jeweils rechten Fahrspur auf der Friedrich-Engels-Allee in einem Zeitraum von sechs bis zwölf Monaten einrichten" - zur Beratung und Entscheidung verwiesen
+- TOP 3.4: Bürgerantrag zur Einschaltung der Gerüstbeleuchtung der Schwebebahn zwischen den Stationen Kluse und Ohligsmühle - abgelehnt
+- TOP 4: Anträge
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt) - ungeändert beschlossen
+- TOP 5.1: Ordnungsdienst, allg. Gefahrenabwehr in den Barmer Anlagen
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vorberatung nicht abgeschlossen. Satzung für die Benennung von Straßen, Wegen und Plätzen und Benennungen im Rahmen der Erinnerungskultur
+- TOP 6.2: 7. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2020 - ungeändert beschlossen
+- TOP 6.4: Gebührensatzung zur Abfallwirtschaft 2020 - ungeändert beschlossen
+- TOP 6.5: 13. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Einführung einer einheitlichen Geldwertkarte sowie Anpassung der Entgeltordnung für die Bä-der und Saunen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.7: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - vertagt auf Rat
+- TOP 6.8: Wahlordnung für die Wahl der direkt in das Integrationsgremium der Stadt Wuppertal zu wählenden Mitglieder - ungeändert beschlossen
+- TOP 6.9: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Allgemeine Haushaltsangelegenheiten
+- TOP 7.1: Ergänzungsmaßnahme Abwicklung Kommunalinvestitionsförderungsgesetz Programm Stufe 1 - ungeändert beschlossen
+- TOP 7.2: (nur Rat) Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2018
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2020 des Eigenbetriebes Straßenreinigung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2020 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2020 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.4: Jahresabschluss 2018 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.5: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan 2020 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.7: Wirtschaftsplan 2020 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan 2020 des Eigenbetriebes Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.9: Wirtschaftsplan 2020 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.10: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2018 - ungeändert beschlossen
+- TOP 8.11: Bestellung der Betriebsleitung für den Eigenbetrieb Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Erarbeitungsverfahren der 1. Änderung des Regionalplans Düsseldorf - Siedlungsbereiche - - Entgegennahme ohne Beschluss
+- TOP 9.2: Planänderungsverfahren für den Ausbau der L 419 zwischen Lichtscheid und Erbschlö (1. Bauabschnitt) - Stellungnahme der Stadt zum Deckblatt I - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 991 - Kyffhäuser Straße/ Weyerbuschweg - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Dachbegrünung - ungeändert beschlossen
+- TOP 11.2: Umbenennung des Stadtbetriebes 213 - Historisches Zentrum - ungeändert beschlossen
+- TOP 11.3: Antrag auf Genehmigung der Erhöhung der Zügigkeit eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.4: Antrag auf Einrichtung eines Bildungsgangs gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.5: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.6: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.7: Konzept „Jugendbeteiligung in Wuppertal stärken“ - ungeändert beschlossen
+- TOP 11.8: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gemäß Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2010 - ungeändert beschlossen
+- TOP 11.9: Verwendung der Zuweisung für Integrationsmaßnahmen nach dem Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in NRW gemäß § 14 b und § 14 c Teilhabe- und Integrationsgesetz - vertagt auf Rat
+- TOP 11.10: Planung und Errichtung des Pina Bausch Zentrums - vertagt auf Rat
+- TOP 11.11: Sachstandsbericht zur Vorbereitung der Bewerbung um die Ausrichtung der Bundesgartenschau 2031 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Neuberufung der Mitglieder des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.4: TOP 12 Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung Hauptausschuss - ungeändert beschlossen
