@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-12-11T15:00:00+01:00
+- Ende: 2019-12-11T21:20:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4567
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4567
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift 02.10.2019-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00160776.pdf
+- Ergebnisprotokoll: Niederschrift 02.10.2019-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00160776.pdf
+- Wortprotokoll: Niederschrift 02.10.2019-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00160776.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 40. Sitzung des Rates am 02.10.2019- öffentlicher Teil - Siehe Anlage
+- TOP 2: HSP-Umsetzungsbericht 30.09.2019 - Kenntnisnahme
+- TOP 3: HSP-Fortschreibung 2020 im Doppelhaushalt 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 4: Mitgliederversammlung des Städtetages NRW - Einstimmiger Beschluss
+- TOP 5: Beitritt der Stadt Mönchengladbach zum Verein Wissenscampus MG - Einstimmiger Beschluss
+- TOP 6: Feststellung des Jahresabschlusses 31.12.2018 - Einstimmiger Beschluss
+- TOP 7: Jahresabschluss 2018 - Verwendung des Jahresergebnisses - Einstimmiger Beschluss
+- TOP 8: Haushaltsrechtliche Abwicklung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 9: Wettbewerbsverfahren Rathaus der Zukunft mg+; Wettbewerbsergebnis und weiteres Vorgehen - Mit Stimmenmehrheit beschlossen
+- TOP 9.1: TOP 9 Vorlage 4288/IX, Strategisches Raumkonzept (HSP 2012-0139) Wettbewerbs-verfahren Rathaus der Z - Mit Stimmenmehrheit abgelehnt
+- TOP 10: Wirtschaftsplan Rathaus der Zukunft mg+ 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 11: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 12: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 13: Sachstandsbericht Wohnungsbaugesellschaften - Kenntnisnahme
+- TOP 13.1: Vorlage 4297/IX: Sachstandsbericht Wohnungsbaugesellschaften - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Wirtschaftsplan 2020 der mags - Mit Stimmenmehrheit beschlossen
+- TOP 14.1: Vorlage 4197/IX: Wirtschaftsplan 2020 der mags - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Vierter Nachtrag mags-Satzung - Mit Stimmenmehrheit beschlossen
+- TOP 15.1: Satzung der Mönchengladbacher Abfall-, Grün- und Straßenbetriebe AöR (mags), hier: Ergänzung der Sat - Mit Stimmenmehrheit abgelehnt
+- TOP 16: Friedhofs- und Friedhofsgebührensatzung - Kenntnisnahme
+- TOP 17: Abfallsatzung, Abfallgebührensatzung - Kenntnisnahme
+- TOP 17.1: Vorlage 4299/IX: Dritter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgun - Mit Stimmenmehrheit abgelehnt
+- TOP 17.2: Vierter Nachtrag zur Satzung der Stadt Mönchengladbach über die "mags Mönchengladba-cher Abfall-, Gr - Mit Stimmenmehrheit abgelehnt
+- TOP 18: Straßenreinigungssatzung - Kenntnisnahme
+- TOP 18.1: Vorlage 4300/IX: Dritter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßen - Mit Stimmenmehrheit abgelehnt
+- TOP 19: Einführung der gelben Tonne - Mit Stimmenmehrheit beschlossen
+- TOP 19.1: Vorlage 4318/IX: einführung der gelben Tonne für das Stadtgebiet Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 20: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (4. Nachweisung) - Kenntnisnahme
+- TOP 21: Vertretung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Mündlicher Sachstandsbericht - Siehe Niederschrift
+- TOP 23: Vertretung der Stadt Mönchengladbach - Siehe Niederschrift
+- TOP 24: Erster Nachtrag zur Wahlordnung für die Wahl der Mitglieder des Integrationsrates - Einstimmiger Beschluss
+- TOP 25: 1. Fortschreibung der Digitalisierungsstrategie der Stadtverwaltung Mönchengladbach - Kenntnisnahme
+- TOP 26: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 27: Inangriffnahme Kunststoffrasen-Kleinspielfeld und Beachvolleyballanlage BSA Schlossstr - Einstimmiger Beschluss
+- TOP 28: Inangriffnahme der Qualifizierung der Sportanlage Venn - Mit Stimmenmehrheit beschlossen
+- TOP 29: Digitalisierung an Schulen Zuwendungsmaßnahme zur Anbindung von 22 Schulstandorten an das städtische - Einstimmiger Beschluss
+- TOP 30: Digitalisierung an Schulen Medienentwicklungsplan für die Schulen der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 31: Leistungsvereinbarungen über das Angebot eines "Tagestreffs" - Einstimmiger Beschluss
+- TOP 32: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldnerberatung der Freien Wohlf - Einstimmiger Beschluss
+- TOP 33: Leistungsvereinbarung Fahrradstationen - Einstimmiger Beschluss
+- TOP 34: Öffentlich-rechtliche Vereinbarung Apothekenaufsicht - Einstimmiger Beschluss
+- TOP 35: Mobilitätssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 36: Fünfter Nachtrag zur Verwaltungsgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 37: Modernisierung von Bahnübergängen - Einstimmiger Beschluss
+- TOP 38: Integriertes Handlungs- und Entwicklungskonzept (IHEK) Rheindahlen-Mitte - Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 39: Festlegung des Stadtumbaugebietes „Stadtumbau Rheindahlen-Mitte“ gemäß § 171 b (1) BauGB - Einstimmiger Beschluss
+- TOP 40: 25. Nachtrag zur Kanalbenutzungsgebührensatzung und 12. Nachtrag zur Klärschlammbeseitigungssatzung - Einstimmiger Beschluss
+- TOP 41: Städtisches Schallschutzfensterprogramm - Einstimmiger Beschluss
+- TOP 42: Sanierung, Modernisierung und Erweiterung der ZBMG - Einstimmiger Beschluss
+- TOP 43: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Schulzentr - Einstimmiger Beschluss
+- TOP 44: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Mathematis - Einstimmiger Beschluss
+- TOP 45: Blühendes Mönchengladbach - Einstimmiger Beschluss
+- TOP 46: Erweiterung der S28 von Kaarst nach Viersen - An den Ausschuss für Planung, Bauen und Stadtentwicklung verwiesen
+- TOP 47: Aktualisierung des Gesellschaftsvertrags der Gesellschaft für Wertstofferfassung, - Mit Stimmenmehrheit abgelehnt
+- TOP 48: Artenschutz - Mit Stimmenmehrheit abgelehnt
+- TOP 49: Kita-Bau durch städtische Beteiligungsunternehmen - Einstimmiger Beschluss
+- TOP 50: Förderung von zivilgesellschaftlichem Engagement gegen Extremismus - Einstimmiger Beschluss
+- TOP 51: Lokalen Handel stärken: Gebühren für Sondernutzung senken - Mit Stimmenmehrheit abgelehnt
+- TOP 52: Bericht zur aktuellen Finanzsituation - Vom Antragsteller zurückgezogen
+- TOP 53: Mönchengladbach als Teil einer Modellregion für das 365-Euro-Ticket - In den nächsten Ratszug geschoben
+- TOP 54: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 55: Resolution gegen Antisemitismus - Einstimmiger Beschluss
+- TOP 56: ICAN-Städteappell zum Vertrag über das Verbot von Atomwaffen - Mit Stimmenmehrheit abgelehnt
+- TOP 57: Umbesetzung des Ausschusses für Finanzen und Beteiligungen - Einstimmiger Beschluss
+- TOP 58: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 59: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 59.1: Anfrage von RF Brombeis zu Kulturgütern im kolonialem Kontext - Siehe Niederschrift
+- TOP 59.2: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zur Werbung des Netto-Discounters - Siehe Niederschrift
