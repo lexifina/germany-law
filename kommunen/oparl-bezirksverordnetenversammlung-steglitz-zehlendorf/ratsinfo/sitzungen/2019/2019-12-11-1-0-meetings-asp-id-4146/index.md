@@ -1,0 +1,91 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-12-11T17:00:00+01:00
+- Ende: 2019-12-11T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4146
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4146
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Razzia am Hindenburgdamm ohne Ergebnisse? - beantwortet
+- TOP 3.2: Bauliche Änderungen in Lichterfelde-Ost (Nachfragen zur Großen Anfrage, Drs. 1596/V aus der BVV vom 23.10.2019 „Welche baulichen Veränderungen werden in Lichterfelde-Ost vorgenommen?“) - beantwortet
+- TOP 3.3: Upgrade auf die richtige Windows 10-Version? - beantwortet
+- TOP 3.4: Anzeichen von Asbestspuren in einem Gebäude des Rathauses Zehlendorf - beantwortet
+- TOP 3.5: Grundwasser in Steglitz-Zehlendorf - beantwortet
+- TOP 3.6: Dürfen Mitarbeiter des Ordnungsamtes nur Knöllchen schreiben, die der "Chef" erlaubt? - beantwortet
+- TOP 3.7: Psychosoziale und psychiatrische Unterstützung traumatisierter Flüchtlinge - schriftlich beantwortet
+- TOP 3.8: Schutz der körperlichen Unversehrtheit unserer Bürger - schriftlich beantwortet
+- TOP 3.9: Poller-Radweg auf dem Dahlemer Weg anpassen - schriftlich beantwortet
+- TOP 3.10: Schulstandort Lichterfelde-Süd – endlich Klarheit schaffen - schriftlich beantwortet
+- TOP 3.11: Barrierefreiheit an den bezirklichen Schulen - schriftlich beantwortet
+- TOP 3.12: Freiwilligenagentur sinnvoll unterstützen II - schriftlich beantwortet
+- TOP 3.13: Umsetzung Beschluss 408/V Videoaufklärung gegen Fahrraddiebstahl - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk 3 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungsplan 6-34B (Dahlem) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Bessere Zusammenarbeit des Ordnungsamtes mit der Polizei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Altglas-Sammel-Tonnen erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Schulsozialarbeit für alle Schularten einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Temporäre Unterrichtsräume bei Schulsanierungen als „Fliegende Klassenzimmer" in Holzbauweise errichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Weniger ist mehr: Wenn man vor lauter Plakaten die Wahlwerbung nicht mehr sieht - in der BVV abgelehnt
+- TOP 4.11: Geschichte des Yehudi-Menuhin-Platzes sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Mehr Sicherheit auf dem Ludwig-Beck-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Stindestraße: Fuß- und Radweg freihalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Aktuelle Software auf den Computern der Johann-August-Zeune-Schule und Berufsfachschule Dr. Silex – Förderzentrum „Sehen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Eigene Baumschule gründen - in der BVV abgelehnt
+- TOP 4.16: Stärkung der Kindernotfallpraxen - in der BVV abgelehnt
+- TOP 4.17: Notfalldienstpraxis für Kinder und Jugendliche in Steglitz-Zehlendorf jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Digitalisierung unserer Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Hundeauslauf in Steglitz erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Logik der Bildungssenatorin folgen - in der BVV abgelehnt
+- TOP 4.21: Aufstellung einer Gedenktafel Studentendorf Schlachtensee als Nationales Kultur- und Gartendenkmal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Grünen Weg (nicht nur) für Schulkinder sicher machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Grünanlagen – sicher und frei von Angsträumen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Protokolle Runde Tische veröffentlichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Radfahrer an die Straßenverkehrsordnung erinnern III - in der BVV abgelehnt
+- TOP 4.26: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Berufung eines beratenden Mitgliedes als Vertretung für die Arbeit mit behinderten Kindern und Jugendlichen in der tandem BTL gGmbH in den Jugendhilfeausschuss für die V. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Barrierefreiheit in allen öffentlichen Gebäuden des Bezirks - überwiesen
+- TOP 5.2: Ermäßigung bei Kultureinrichtungen für Rentner*innen - überwiesen
+- TOP 5.3: Wahl der bezirklichen Seniorenvertretung - überwiesen
+- TOP 5.4: Ampelkreuzung Fischerhüttenstraße/Potsdamer Straße mit Vorrangschaltung für Bus X11 - überwiesen
+- TOP 5.5: Vorrang für Öffis auf dem Teltower Damm I - überwiesen
+- TOP 5.6: Steuerinformationen im Finanzamt in Papierform - überwiesen
+- TOP 5.7: Vorrang für Öffis auf dem Teltower Damm II - überwiesen
+- TOP 5.8: Wohnraumappell der Bezirksbürgermeisterin - überwiesen
+- TOP 5.9: Ausreichende Bewässerung sicherstellen - überwiesen
+- TOP 5.10: Konzerträume für die Musikschule in Steglitz-Zehlendorf - überwiesen
+- TOP 5.11: LSA für den Radverkehr Machnower Straße/Teltower Damm - überwiesen
+- TOP 5.12: Wannsee, Schlachtensee und Nikolassee besser mit der Innenstadt verbinden - überwiesen
+- TOP 5.13: Fahrrad-Abstellanlage Mexikoplatz - überwiesen
+- TOP 5.14: Wildschweinplage in Lichterfelde-Süd beenden - überwiesen
+- TOP 5.15: Antworten, die weiterhelfen - überwiesen
+- TOP 5.16: JFE Brittendorfer Weg - überwiesen
+- TOP 5.17: Dialogdisplay zur Schulwegsicherung in der Leo-Baeck-Straße aufstellen - überwiesen
+- TOP 5.18: Autofreie Bushaltestelle - überwiesen
+- TOP 5.19: Verkehrssicherheit/Überholverbot in der Lorenzstraße/Mariannenstraße - überwiesen
+- TOP 5.20: Schnelle Ersatz- und Erweiterungsmöglichkeiten schaffen für die Umkleide-/Sanitärgebäude beim Berliner Hockey Club - überwiesen
+- TOP 5.21: Neuordnung Busverkehr Großbeeren – Lichterfelde-Süd - überwiesen
+- TOP 5.22: Baumpflanzung vor der Dahlemer Dorfkirche St. Annen - überwiesen
+- TOP 5.23: Stadtbildgerechter Umbau von Gaslaternen zu LED-Lampen - überwiesen
+- TOP 5.24: Carsharing Lichterfelde-Süd - überwiesen
+- TOP 5.25: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - überwiesen
+- TOP 6: Große Anfragen - beantwortet
+- TOP 6.1: Asbestsanierung im Rathaus Zehlendorf – War der Zustand bereits bei den Prüfungen zu SARAZENU bekannt und hätte längst dringend saniert werden müssen? - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Sicherung der Arbeitsfähigkeit der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: FahrRat-Protokolle veröffentlichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Alliiertenmuseum soll bleiben! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Jährlicher Wohnungsneubaubericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
