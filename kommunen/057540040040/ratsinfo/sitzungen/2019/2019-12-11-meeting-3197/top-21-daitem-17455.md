@@ -1,0 +1,7 @@
+# TOP 21.: Niederschlagung von Gewerbesteuerforderungen
+
+- Sitzung: Rat (40. Sitzung) (2019-12-11)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/17455
+- Ergebnis: Abstimmungsergebnis:Einstimmig
