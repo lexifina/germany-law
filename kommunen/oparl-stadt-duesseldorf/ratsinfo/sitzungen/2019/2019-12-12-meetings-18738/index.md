@@ -1,0 +1,75 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-12T17:00:00+01:00
+- Ende: 2019-12-12T19:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18738
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18738
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 12.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366487.pdf
+- Ergebnisprotokoll: NachtragsTO vom 12.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366487.pdf
+- Wortprotokoll: NachtragsTO vom 12.12.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366487.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Bebauungsplanverfahren Nr. 08/007 - Breidenplatz - Empfehlung einstimmig beschlossen
+- TOP 5: Umweltspuren - Auswirkungen auf den Stadtbezirk 8 - Bericht der Verwaltung
+- TOP 6: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung einstimmig beschlossen
+- TOP 7: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - vertagt
+- TOP 8: Schlossallee - barrierefreier Ausbau der Bushaltestelle Schloss Eller - einstimmig beschlossen
+- TOP 9: Wormser Weg- barrierefreier Ausbau der Bushaltestelle Offenbacher Weg in Fahrtrichtung Hauptbahnhof - einstimmig beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - Empfehlung mehrheitlich beschlossen
+- TOP 11: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 12: Sportanlage Vennhauser Allee 256 - Erneuerung Kunstrasenbelag - vertagt
+- TOP 13: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2020 - einstimmig beschlossen
+- TOP 14: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 15: Zuschuss an den Boston Club e.V. Düsseldorf - einstimmig beschlossen
+- TOP 16: Zuschuss an die Segel-Kameradschaft Unterbacher See e.V. - einstimmig beschlossen
+- TOP 17: Zuschüsse der Bezirksvertretung 8 im Jahre 2019
+- TOP 18: Logistikzentrum Dillenburger Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Elektro- und Zukunftsmobilität im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Freiheitplatz in Vennhausen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Schadstoffbelastungen in Unterbach (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Rathaus Eller- Elektro-Kleingeräte-Sammelbehälter (Anfrage CDU-Fraktion) - beantwortet
+- TOP 24: Lärm Güterbahnhof Speyerweg (Anfrage CDU-Fraktion) - beantwortet
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Beleuchtung Eller Süd S-Bahnhof (Anfrage SPD-Fraktion) - beantwortet
+- TOP 28: Lärmschutz an der A46 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Toilette Schlesische Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Fahrradboxen am S-Bahnhof Eller Süd (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 34: Sitzungstermine der Bezirksvertretung 8 im Jahre 2020 - zur Kenntnis genommen
+- TOP 35: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 36: Schließung Filiale Lierenfeld der Stadtsparkasse Düsseldorf - zur Kenntnis genommen
+- TOP 37: Gerresheimer Landstraße - Sitzgelegenheiten - zur Kenntnis genommen
+- TOP 38: Kinderspielplatz Dillenburger Weg - zur Kenntnis genommen
+- TOP 39: Bernburger Straße - Schadstoffbelastung - zur Kenntnis genommen
+- TOP 40: Parkplatz Vennhauser Allee / Krippstraße - zur Kenntnis genommen
+- TOP 41: Am Kleinforst - P+R-Parkplatz - zur Kenntnis genommen
+- TOP 42: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Verkehrsregelung Vennhauser Allee - zur Kenntnis genommen
+- TOP 44: Wochenmarkt Freiheitplatz - zur Kenntnis genommen
+- TOP 45: Tempo 30 auf der Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 46: Verbindungsweg Am Schwalbenberg / Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 47: Einmündungsbereich Am Strasserfeld / Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 48: Mobilstationen und Sharing-Anbieter im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Ordnung des Parkens/Halten an einzelnen verkehrlichen Engstellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Ergebnisse von Verkehrszählungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Karl-Geusen-Straße - Sicherheit für Fußgänger / Radfahrer - zur Kenntnis genommen
+- TOP 52: Lärm Güterbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 53: Bauvorhaben Am Hackenbruch / Reisholzer Straße - zur Kenntnis genommen
+- TOP 54: Grundstück An der Schützenwiese 40 - zur Kenntnis genommen
+- TOP 55: Altpapier-Depotcontainerstation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Karlsruher Straße - Fahrrad-Schutzstreifen - zur Kenntnis genommen
+- TOP 57: Erfurter Weg - Spielstraße/Anliegerstraße - zur Kenntnis genommen
+- TOP 58: Rathaus Eller - Elektrokleingeräte-Sammelbehälter - zur Kenntnis genommen
