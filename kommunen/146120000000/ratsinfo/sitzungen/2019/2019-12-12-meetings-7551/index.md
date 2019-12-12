@@ -1,0 +1,135 @@
+# 6. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-12-12T16:00:00+01:00
+- Ende: 2019-12-13T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7551
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7551
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00445996.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: 1. Einwohnerfragestunde
+- TOP 4: Aktuelle Stunde - Baukultur in Dresden - Vertagung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Satzung zur Änderung der Hauptsatzung und Änderung der Geschäftsordnung des Stadtrates - Vertagung
+- TOP 7: Einigungsverfahren Besetzung Gremien
+- TOP 7.1: Ausschuss Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 7.2: Ausschuss für Finanzen - Einigung
+- TOP 7.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Einigung
+- TOP 7.4: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Einigung
+- TOP 7.5: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 7.6: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 7.7: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Einigung
+- TOP 7.8: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 7.9: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 7.10: Ausschuss für Umwelt und Kommunalwirtschaft (Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 7.11: Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 7.12: Besetzung des Integrations- und Ausländerbeirates - Einigung
+- TOP 7.13: Umbesetzung Jugendhilfeausschuss - Einigung
+- TOP 7.14: Besetzung der Verbandsversammlung und des Hauptausschusses des Zweckverbandes Verkehrsverbund Oberelbe (ZVOE) - Einigung
+- TOP 7.15: Wahl der Vertreter/-innen der Landeshauptstadt Dresden und ihrer Stellvertreter/-innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Einigung
+- TOP 7.16: Wahl der Vertreter für die Neubesetzung der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Einigung
+- TOP 8: Grundhafter Ausbau der Straßenzüge des Gewerbestandortes Zwickauer Straße zwischen Hahnebergstraße und Feldschlößchenstraße - Zustimmung mit Ergänzung
+- TOP 9: Mittelbereitstellung für den Erwerb Mobiler Fahrzeugrückhaltesysteme zur Absicherung von Großveranstaltungen in der Landeshauptstadt Dresden - Verweisung
+- TOP 10: Wirtschaftspläne 2020 der Eigenbetriebe der Landeshauptstadt Dresden - Ersetzung
+- TOP 11: Aufnahme der Kindertageseinrichtung Hort der Kulturwerkschule Dresden, Luboldtstr. 15 in 01324 Dresden rückwirkend zum 1. August 2019 in den Bedarfsplan Kindertageseinrichtungen und Kindertagspflege 2019/20 - Zustimmung
+- TOP 12: Herausnahme der Kindertageseinrichtung Eberswalder Straße 4 in 01097 Dresden aus dem Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2019/2020 rückwirkend zum 1. September 2019 - Zustimmung
+- TOP 13: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2020 - Zustimmung
+- TOP 14: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2020 - Zustimmung mit Änderung
+- TOP 15: Eintrittspreise der Dresdner Philharmonie und Bedingungen zur Vermietung des Kulturpalastes ab Spielzeit 2020/2021 - Zustimmung
+- TOP 16: Besetzung des Wohnbeirates gemäß § 25 Abs. 9 Hauptsatzung der Landeshauptstadt Dresden - Einigung
+- TOP 17: Bestellung der Wirtschaftsprüfungsgesellschaft für die Jahresabschlüsse des Städtischen Klinikums Dresden für die Jahre 2019 und 2020 - Zustimmung
+- TOP 18: Rahmenvereinbarung zur Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung nach § 264 Abs. 1 SGB V in Verbindung mit §§ 1, sowie 4 und 6 Asylbewerberleistungsgesetz (AsylbLG) - Zustimmung
+- TOP 19: Änderung der Satzung der Landeshauptstadt Dresden über den Zuschuss zur gemeinschaftlichen Mittagsverpflegung an Schulhorten in den Schulferien - Zustimmung
+- TOP 20: Änderung und Neufassung der Richtlinie zur Gewährung des Dresden-Passes für Einwohnerinnen und Einwohner der Landeshauptstadt Dresden mit geringem Einkommen - Zustimmung
+- TOP 21: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung mit Änderung
+- TOP 22: Erwerb eines Grundstücks und Übertragung in das Sondervermögen des Eigenbetriebes Stadtentwässerung - Zustimmung
+- TOP 23: Erneuerung des Korrosionsschutzes und Instandsetzung von Stahlbauteilen der Loschwitz Blasewitzer Brücke - Vertagung
+- TOP 24: Erneuerung der Straßenbeleuchtungsanlage im Zuge der grundhaften Sanierung der Augsburger Straße zwischen der Blasewitzer Straße und Tittmannstraße - Vertagung
+- TOP 25: Grundhafter Ausbau der Zwickauer Straße zwischen Würzburger Straße und Hahnebergstraße als Alternativ- und Umleitungsstrecke für Stadtbahn 2020, Teilabschnitt 1.2 - Vertagung
+- TOP 26: Sechste Fortschreibung des Abfallwirtschaftskonzeptes (AWK) der Landeshauptstadt Dresden - Zustimmung
+- TOP 27: Abstimmungsvereinbarung mit der Reclay Systems GmbH - Duales System Redual zur Erfassung gebrauchter Verkaufsverpackungen und Nebenentgeltvereinbarung mit acht Dualen Systemen - Zustimmung
+- TOP 28: Dresden blüht - - Zustimmung
+- TOP 29: Dresdens Märkte und Feste plastikfrei - Zustimmung mit Änderung
+- TOP 30: Begrünungssatzung für die Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 31: Für eine saubere Stadt! Graffiti-Schmierereien nachhaltig und wirkungsvoll bekämpfen - Vertagung
+- TOP 32: Vertagungen aus der Sondersitzung vom 05.12.2019 (optional)
+- TOP 32.1: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden – Mandat der Sozialdemokratischen Partei Deutschlands (SPD) - erledigt
+- TOP 32.2: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden – Mandat der Partei DIE LINKE. (LINKE) - erledigt
+- TOP 32.3: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden – Mandat der Freien Demokratischen Partei (FDP) - erledigt
+- TOP 32.4: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Leuben der Landeshauptstadt Dresden – Mandat der Partei BÜNDNIS 90/DIE GRÜNEN (GRÜNE) - erledigt
+- TOP 32.5: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Mandat der Partei BÜNDNIS 90/DIE GRÜNEN - Zustimmung
+- TOP 32.6: Einigungsverfahren Aufsichtsräte
+- TOP 32.6.1: Besetzung des Aufsichtsrates der ENSO Energie Sachsen Ost AG - erledigt
+- TOP 32.6.2: Besetzung des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - erledigt
+- TOP 32.6.3: Besetzung des Aufsichtsrates der Dresden Marketing GmbH - erledigt
+- TOP 32.6.4: Besetzung des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - erledigt
+- TOP 32.6.5: Besetzung des Aufsichtsrates der Verkehrsmuseum Dresden gGmbH - erledigt
+- TOP 32.6.6: Besetzung des Aufsichtsrates der Zoo Dresden GmbH - erledigt
+- TOP 32.6.7: Besetzung des Aufsichtsrates der Dresden-IT GmbH - erledigt
+- TOP 32.6.8: Besetzung des Aufsichtsrates der Flughafen Dresden GmbH - erledigt
+- TOP 32.6.9: Besetzung des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - erledigt
+- TOP 32.6.10: Besetzung des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - erledigt
+- TOP 32.6.11: Besetzung des Aufsichtsrates der Dresdner Bäder GmbH - erledigt
+- TOP 32.6.12: Besetzung des Aufsichtsrates der NanoelektronikZentrumDresden GmbH - erledigt
+- TOP 32.6.13: Besetzung des Aufsichtsrates der Kommunale Immobilien Dresden GmbH & Co. KG - erledigt
+- TOP 32.6.14: Besetzung des Aufsichtsrates der Messe Dresden GmbH - erledigt
+- TOP 32.6.15: Besetzung des Aufsichtsrates der STESAD GmbH - gewählt
+- TOP 32.6.16: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - erledigt
+- TOP 32.6.17: Besetzung des Aufsichtsrates der Technische Werke Dresden GmbH - erledigt
+- TOP 32.6.18: Besetzung des Aufsichtsrates der EnergieVerbund Dresden GmbH - erledigt
+- TOP 32.6.19: Besetzung des Aufsichtsrates der Wohnen in Dresden GmbH & Co. KG - erledigt
+- TOP 32.6.20: Besetzung des Aufsichtsrates der Stadtreinigung Dresden GmbH - gewählt
+- TOP 32.6.21: Wahl und Entsendung der Vertreter/-innen der Landeshauptstadt Dresden in die Achte Verbandsversammlung des Kommunalen Sozialverbandes Sachsen (KSV) - erledigt
+- TOP 32.6.22: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - gewählt
+- TOP 32.7: Besetzung des Beirates "Gesunde Städte" gemäß § 25 Abs. 6 Hauptsatzung der Landeshauptstadt Dresden - erledigt
+- TOP 32.8: Besetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - gewählt
+- TOP 32.9: Besetzung des Beirates für Menschen mit Behinderungen gemäß § 25 Abs. 8 Hauptsatzung der Landeshauptstadt Dresden - erledigt
+- TOP 32.10: Widerspruch zu Beschlüssen aus der Sitzung 6. Juni 2019 gem. § 52 Abs. 2 Satz 1 SächsGemO
+- TOP 32.10.1: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Ablehnung
+- TOP 32.10.2: Gute Arbeit in und bei der Landeshauptstadt Dresden - punktweise Abstimmung
+- TOP 32.11: Verweisung aus der Sitzung vom 04.07.2019
+- TOP 32.11.1: Festsetzung der Elternbeiträge ab dem 1. September 2019 nach Vollzug des Abstimmungsverfahrens nach § 15 Abs. 1 SächsKitaG i. V. m. § 2 Abs. 2 der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - punktweise Abstimmung
+- TOP 32.11.2: Bildung und Kultur in der Landeshauptstadt stärken - Zustimmung
+- TOP 32.12: Vertagung aus der Sitzung vom 26.09.2019
+- TOP 32.12.1: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Ablehnung
+- TOP 32.12.2: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung
+- TOP 32.12.3: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung
+- TOP 32.12.4: Neues Teilhabechancengesetz nutzen – Stellen für langzeitarbeitslose Menschen schaffen - Ablehnung
+- TOP 32.12.5: Digitale Offensive für die Bürgerinnen und Bürger der Stadt Dresden - Zustimmung mit Ergänzung
+- TOP 32.12.6: Stärkung des Gemeindlichen Vollzugsdienstes - Ablehnung
+- TOP 32.12.7: Mehr Frauen in Führungspositionen - Vertagung
+- TOP 32.13: Vertagung aus der Sitzung vom 30.10.2019
+- TOP 32.13.1: Jahresabschluss 2018 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 32.13.2: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 32.13.3: Finanzielle Änderungen im Bereich Asyl im Jahr 2019 - Zustimmung
+- TOP 32.13.4: Änderung der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden (Anlage zu Beschluss V0359/15) - erledigt
+- TOP 32.13.5: Umsetzung und Fortschreibung Lichtmasterplan Dresdner Innenstadt aus dem Jahr 2009 - Zustimmung mit Änderung
+- TOP 32.13.6: Kiessee Leuben als sichere Badestelle entwickeln - Zustimmung mit Änderung
+- TOP 32.13.7: Fachförderrichtlinie „Zukunftsstadt Dresden" - Zustimmung mit Änderung
+- TOP 32.14: Beitritt der Landeshauptstadt Dresden zur bundesweiten Initiative Klischeefrei - erledigt
+- TOP 32.15: Veranstaltungsnetz Altmarkt - Umgestaltung für eine barrierefreie Leitungsführung/Herstellung einer funktionstüchtigen Platzdrainage - Ersetzung
+- TOP 32.16: Erhöhung des Kassenkreditrahmens für das Wirtschaftsjahr 2019 des Eigenbetriebes Städtisches Klinikum Dresden - erledigt
+- TOP 32.17: Neufassung der Zahlung einer außertariflichen Zulage für Fachärztinnen und Fachärzte im Gesundheitsamt sowie Brand- und Katastrophenschutzamt - erledigt
+- TOP 32.18: Umverteilung von Verpflichtungsermächtigungen - erledigt
+- TOP 32.19: Ersatzneubau einer Zweifeld-Sporthalle an der 113. Grundschule "Canaletto", Georg-Nerlich-Straße 1 in 01307 Dresden - Zustimmung mit Ergänzung
+- TOP 32.20: Jahresabschluss 2018 des Eigenbetriebes Kindertageseinrichtungen Dresden - erledigt
+- TOP 32.21: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2020 - erledigt
+- TOP 32.22: Satzung der Landeshauptstadt Dresden über die Feuerwehr (Feuerwehrsatzung) - erledigt
+- TOP 32.23: Stadtumbau – Programmteil Aufwertung, Dresden Westlicher Innenstadtrand (WIR) - erledigt
+- TOP 32.24: Aufhebung der Sanierungssatzung für das Sanierungsgebiet Dresden S 10, Dresden-Neumarkt - Zustimmung
+- TOP 32.25: Bestellung eines Wirtschaftsprüfers zur Prüfung des Jahresabschlusses 2019 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - erledigt
+- TOP 32.26: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Vertagung
+- TOP 32.27: Trainingsbedingungen in Klotzsche sichern - Ersetzung
+- TOP 32.28: Sozialen Wohnungsbau mit ökologisch und städtebaulich innovativem Quartier voranbringen - Aufstellungsbeschluss für Globus-Markt am Leipziger Bahnhof aufheben - Vertagung
+- TOP 32.29: Gebührenfreie Vergabe von Wohnberechtigungsscheinen - Zustimmung
+- TOP 32.30: Kunst-, Antik- und Trödelmärkte in der Hauptstraße ermöglichen - Zustimmung mit Ergänzung
+- TOP 32.31: Maßnahmen zur kurzfristigen baulichen Erweiterung der Grundschulkapazitäten im Grundschulbezirk Altstadt 1 - Zustimmung mit Änderung
+- TOP 36.2: Beteiligungsbericht 2018 der Landeshauptstadt Dresden - zur Kenntnis genommen
