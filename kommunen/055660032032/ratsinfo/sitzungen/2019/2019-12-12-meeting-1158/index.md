@@ -1,0 +1,59 @@
+# Rat der Gemeinde Ladbergen (37. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2019-12-12T18:00:00+01:00
+- Ende: 2019-12-12T20:05:00+01:00
+- Ort: Rathaus, Jahnstraße 5, 49549 Ladbergen, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXfiSJtcC1flVckcDFVa8Ok
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1158
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcdHa-ONQlnzZqACafvxR_GMG_iuzFhf72b50LWK3DOe/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_12.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY9yYAkz1gqnrwsTimIXh8Q3T5MRf-zx84g1PcoDDwyp/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_12.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Einführung und Verpflichtung des Ratsherrn Rüdiger Ullmann
+- TOP 4: Wahl des 2. ehrenamtlichen Stellvertreters des Bürgermeisters
+- TOP 5: Verpflichtung und Einführung des 2. ehrenamtlichen Stellvertreters des Bürgermeisters
+- TOP 6: Neubesetzung der Ausschüsse - Einstimmig
+- TOP 7: Neubesetzung für Gremien und sonstige Einrichtungen hier: Verbandsversammlung Musikschule Tecklenburger Land - Einstimmig
+- TOP 8: Benennung von Vertretern in sonstigen Einrichtungen hier: Ausschüsse der Wasserunterhaltungsverbände - Einstimmig
+- TOP 9: Antrag der CDU-Fraktion: hier: Umgestaltung des Eingangsbereiches im Rathaus - 7 Ja, 15 Nein, 0 Enthaltung(en)
+- TOP 10: Antrag der FDP-Fraktion: hier: Umgestaltung des Eingangsbereiches im Rathaus - 15 Ja, 7 Nein, 0 Enthaltung(en)
+- TOP 11: Antrag der CDU-Fraktion: hier: Neuanschaffung einer Photovoltaikanlage für das Dach des Rathauses und das Dach der Grundschule - Einstimmig
+- TOP 12: Antrag der CDU-Fraktion: hier: Hot Spot Versorgung in Ladbergen - Einstimmig
+- TOP 13: Antrag der SPD-Fraktion: hier: Anschaffung von einem Schlepper für den Bauhof - Einstimmig
+- TOP 14: Antrag der FDP-Fraktion: hier: Einstellung von Haushaltsmitteln zur Förderung des Klima- und Artenschutzes - 15 Ja, 7 Nein, 0 Enthaltung(en)
+- TOP 15: Antrag der FDP-Fraktion: hier: Senkung des Hebesatzes für die Grundsteuer A und die Gewerbesteuer - 10 Ja, 12 Nein, 0 Enthaltung(en)
+- TOP 16: Antrag der Fraktion „Bündnis 90/Die Grünen“ vom 03.11.2019 Verbesserung der Verkehrssicherheit auf der Dorfstraße - Einstimmig
+- TOP 17: Antrag der Fraktion „Bündnis 90 / Die Grünen“: hier: Anschaffung von Solarthermie- bzw. Photothermieanlagen für Sporthalle I und Freiluftsportanlage - Einstimmig
+- TOP 18: Antrag der Fraktion „Bündnis 90 / Die Grünen“: hier: Anschaffung von 2 Geschwindigkeitsanzeigeanlagen - Einstimmig
+- TOP 19: Stellenplan 2020 - Einstimmig
+- TOP 20: Haushaltssatzung nebst Anlagen für das Haushaltsjahr 2020 - 19 Ja, 3 Nein, 0 Enthaltung(en)
+- TOP 21: Genehmigung bzw. Bekanntgabe des über- und außerplanmäßigen Aufwandes bzw. der über- und außerplanmäßigen Auszahlungen für das I. bis III. Quartal 2019 - Einstimmig
+- TOP 22: Satzungen
+- TOP 22.1: 5. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig
+- TOP 22.2: 7. Änderungssatzung zur Erhebung von Kanalanschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse - Einstimmig
+- TOP 22.3: 12. Änderungssatzung über die Entsorgung von Grundstücksentwässerungsanlagen - Einstimmig
+- TOP 22.4: 1. Änderungssatzung zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 22.5: 2. Änderungssatzung zur Gebührensatzung zur Abfallentsorgung - Einstimmig
+- TOP 23: Gelbe Tonne oder gelber Sack - 11 Ja, 9 Nein, 2 Enthaltung(en)
+- TOP 24: Bestellung des Leiters und stellvertretenden Leiters der Freiwilligen Feuerwehr Ladbergen - Einstimmig
+- TOP 25: Zusammenführung der 1. und 2. Windpark Laubersreuth GmbH & Co. KG - Einstimmig
+- TOP 26: Änderung Gesellschaftszweck der SWL Vertriebsgesellschaft GmbH - Einstimmig
+- TOP 27: Änderung Gesellschaftszweck der teutel GmbH - Einstimmig
+- TOP 28: Änderung Gesellschaftszweck der edikoo GmbH & Co. KG
+- TOP 29: Bebauungspläne
+- TOP 29.1: 2. Änderung / Erweiterung des Bebauungsplanes Nr. 22 "Schulten Kamp" hier: Aufstellungs- und Offenlegungsbeschluss - Einstimmig
+- TOP 29.2: 5. Änderung des BebauungsplanesNr. 25 "Sandtoschlag II" hier: Aufstellungs- und Offenlegungsbeschluss - Einstimmig
+- TOP 29.3: 18. Änderung des Bebauungsplanes Nr. 7 "Gausebreede" hier: a) Beratung von Anregungen b) Satzungsbeschluss - Einstimmig
+- TOP 29.4: 19. Änderung des Bebauungsplanes Nr. 7 "Gausebreede" hier: a) Beratung von Anregungen b) Satzungsbeschluss - Einstimmig
+- TOP 30: Veranstaltungs- und Kulturwoche vom 22.06. – 28.06.2020 - Einstimmig
+- TOP 31: Mitteilungen und Anfragen
+- TOP 31.1: Digital Hub Satelliten
+- TOP 31.2: Jahresabschlussrede 2019
