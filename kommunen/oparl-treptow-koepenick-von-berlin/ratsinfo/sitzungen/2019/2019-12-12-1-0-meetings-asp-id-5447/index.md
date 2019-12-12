@@ -1,0 +1,100 @@
+# 31. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-12-12T16:30:00+01:00
+- Ende: 2019-12-12T22:08:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5447
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5447
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - vertagt
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: (vertraulich)
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-31 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Bebauungsplan Funkwerk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Fahrradschnellwege für Treptow-Köpenick sicherstellen und erweitern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Querungshilfe im Umfeld der Archenhold-Sternwarte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Fortschreibung Sportstättenentwicklungsplan - überwiesen
+- TOP 7.2.2: Umstellung der PC in der schulischen Verwaltung - überwiesen
+- TOP 7.2.3: Schulentwicklungsplanung zügig vorlegen - überwiesen
+- TOP 7.2.4: Hortanmeldung erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Errichtung eines Fußgängerüberweges an der Schönefelder Chaussee 174 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.6: Unterstützung der Mieter/-innen des Kosmosviertels - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.7: Steinbachstraße – Verlegung von Gehwegplatten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.8: Finanzierung Schulstation der Bouché-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.9: Europäische Datenschutz-Grundverordnung an Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Anordnung von Tempo 30 auf dem Adlergestell / Haltestelle "Zum Seeblick" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.11: Sondermittel für den Verein "Behinderten-Sportverein Köpenick e. V." (SM 19-02) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.12: Informationen über die Anwendung der ILO-Kernarbeitsnormen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Arbeit, Soziales, Gesundheit, Gleichstellung und gesellschaftliche Vielfalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer Bürgerdeputierten für den Ausschuss für Arbeit, Soziales, Gesundheit, Gleichstellung und gesellschaftliche Vielfalt - gewählt
+- TOP 8.3: Nachwahl eines Kiezpaten - gewählt
+- TOP 8.4: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 5 und 6 - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Das Kiefernwäldchen in Adlershof – Bäume fällen für den Wohnungsbau - schriftlich beantwortet
+- TOP 9.2: Klimanotstand im Bezirk – Klimaschutz nicht verschlafen - schriftlich beantwortet
+- TOP 9.3: Kita und Hort an der Sophie-Brahe-Schule – Kita- und Hortplätze schaffen durch die Herstellung des vorgeschriebenen Brandschutzes - schriftlich beantwortet
+- TOP 9.4: Verkehrskonzeption für Grünau, Bohnsdorf und Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Verkehrskonzept Südost – Treptow-Köpenick verkehrlich zukunftsfähig machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Mehr Sicherheit für Radfahrer: Radwegmarkierungen in Baumschulenweg - mit Änderungen in der BVV beschlossen
+- TOP 9.7: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Beschilderung Kreuzung Schnellerstraße / Rudower Straße - in der BVV zurückgezogen
+- TOP 9.9: Mehr Ladestationen für E-Autos - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Gedenktafel für die Opfer des Brotaufruhrs am 6. April 1945 in Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Sicherung vorhandener grüner und sozialer Infrastruktur in Spindlersfeld – Wohnungsneubau im Karree Färber- / Oberspree- / Ottomar-Geschke-Straße / Ahornallee - mit Änderungen in der BVV beschlossen
+- TOP 9.12: Bebauungspläne für Nachverdichtung erstellen - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Umgang des Schul- und Sportamtes mit dem Schüler- und Schülerinnenkongress des Bezirksschülerausschusses Treptow-Köpenick - vertagt
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2018 - überwiesen
+- TOP 11.2: Sondermittel für den "Förderverein der Müggelsee-Schule e. V." (SM 19-27) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Änderung der Anlage 3 des BA-Beschlusses vom 22.10.2019 (BA-Vorlage Nr. 339/19) zur Neufassung der Prüfkriterien für die Umsetzung der sozialen Erhaltungsverordnung in den Erhaltungsgebieten nach § 172 Absatz 1 Satz 1 Nummer 2 BauGB im Bezirk Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Evaluierung des "Ausbildungstages Süd-Ost" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Neubau der Elsenbrücke unter Berücksichtigung des Weiterbaus der A100 schnell vorantreiben – Verkehrskonzepte für die Zeit nach der Eröffnung der Autobahn bis Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bauvorhaben im Geltungsbereich des Bebauungsplans 9-63 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Outdoorsportplätze schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Generationenübergreifender Sport- und Fitnessplatz in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sicheres Radfahren entlang der Bundesstraße B96a - überwiesen
+- TOP 12.7: Mehr Sicherheit und weniger Lärm: Tempo 30 in der Siemensstraße in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Eisenhutweg erschließen - überwiesen
+- TOP 12.9: Beleuchteter Schulweg durch den Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Beleuchtungslücke in der Dahlwitzer Landstraße und Mühlenstraße schließen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Frühzeitiges Beteiligungsverfahren am Bebauungsplan 9-73 ("Bürgerbräu Friedrichshagen") - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Ehemaliges Lager für Zwangsarbeiterinnen in Adlershof kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Gedenktafel für Ernst Reuter in der Siedlung Elsengrund - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Willi-Sänger-Sportanlage sanieren und ausbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Linksabbiegerampel von der Bellevuestraße in den Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Gründung einer Grundschule im Ortsteil Oberschöneweide, Keplerstr. 10 in 12459 Berlin zum Schuljahr 2020/2021 - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Gemeinschaftsschulstandort in Plänterwald stärken und ISS-Standort schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Vorhabenbezogener Bebauungsplan 9-55 VE ("Bruno-Taut-Straße 6"), Ortsteil Bohnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Fortführung des Bund-Länder-Förderprogramms "Soziale Stadt" im Fördergebiet Kosmosviertel in Altglienicke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Straßenbahn-Lückenschluss zwischen FEZ Wuhlheide und Regionalbahnhof Ostkreuz - überwiesen
+- TOP 14.2: Wirtschaftliche Zukunft von Treptow-Köpenick sichern - überwiesen
+- TOP 14.3: S-Bahnhöfe an der BER-Strecke sicherer machen - überwiesen
+- TOP 14.4: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - überwiesen
+- TOP 14.5: Zügiger Ausbau der bezirklichen Elektroladeinfrastruktur durch Wirtschaftsförderungsmaßnahmen - überwiesen
+- TOP 14.6: Investitionsmittel für Freie Schulen ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Beleuchtung auf dem Kaisersteg zwischen Ober- und Niederschöneweide normgerecht instand setzen - überwiesen
+- TOP 14.8: Mehr Standorte für die Altglassammlung - überwiesen
+- TOP 14.9: Dialog-Displays vorrangig vor Schulen und Kindertagesstätten - überwiesen
+- TOP 14.10: Barrierefreiheit in Mittelpunktbibliotheken - überwiesen
+- TOP 14.11: Infrastrukturkosten gerecht verteilen - überwiesen
+- TOP 14.12: Bauliche Voraussetzungen für Trinkwasserspender herstellen - überwiesen
+- TOP 14.13: Grünen Pfeil am Bahnhof Schöneweide erhalten - überwiesen
+- TOP 14.14: Behelfsbrücke Lange Brücke unverzüglich instand setzen - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Für wen arbeitet das Bezirksamt - vertagt
