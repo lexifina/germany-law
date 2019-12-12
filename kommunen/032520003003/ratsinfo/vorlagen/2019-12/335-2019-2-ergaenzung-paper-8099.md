@@ -1,0 +1,23 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2020 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2020
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 335/2019 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-12-12
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQqMGCBiscWsFvAtlmYHnTs
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8099
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2020 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUA2NWN_3MkF8ylbHuTJl4mJlimCWtYzvxw1y6gMG_AK/Beschlussvorlage_335-2019_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (GesErgHH - 26.11.2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfBah447GJHLnNbG4Bm80zTrqvyHcUF9CkjJGc-nEQi8/GesErgHH_-_26.11.2019.pdf
+- Anlage: Beschlussvorlage (GesFinHH - 26.11.2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ8SB6S0OP7G14bHXQbqdNnQxfQDi3JUjSdSYNzWPhfE/GesFinHH_-_26.11.2019.pdf
+- Anlage: Beschlussvorlage (STELLENPLAN) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ6QMS0vhLpa_Xt3QVfEfGUamz0DjGBDrNoRbCtjoZJS/STELLENPLAN.pdf
+- Anlage: Beschlussvorlage (Investitionen 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSkAC_YZ6CXALpGQgn9Tk8LCoelKGaSLFiw4uVucGrUT/Investitionen_2020.pdf
+- Anlage: Beschlussvorlage (Verpflichtungsermächtigungen 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeStIznrVzYQqEbU3MXKZmKX-OOhOSiE01he7vjyPGy2/Verpflichtungsermaechtigungen_2020.pdf
+- Anlage: Beschlussvorlage (Veränderungsdienst 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ8d8wf3Ro0OIAO1UvuaH6oGdG7UnQsoCn6_hGEu-6j-/Veraenderungsdienst_2020.pdf
+- Anlage: Beschlussvorlage (Gesamtergebnishaushalt 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfuAW4uERaF4rOspIAMFDk5ZhEFsumNvESBSswgJjcKf/Gesamtergebnishaushalt_2020.pdf
+- Anlage: Beschlussvorlage (Gesamtfinanzhaushalt Bauhof 2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe3TcUydeSPWV2KOCm-UYc4taA6z3_2gooAJS_GnL9kL/Gesamtfinanzhaushalt_Bauhof_2020.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Fraktion) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQa_Q9Dyjc5fkUkz53MIrJAQTwqtCOokKQbuEKsf7GP9/Antrag_CDU_Fraktion.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Fraktion vom 03.12.2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZav7zVRIpwOf-H0xUc8Sx1pHXul_cn4BJ2ZhkCA1CTq-/Antrag_CDU_Fraktion_vom_03.12.2019.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18337 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18300 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
