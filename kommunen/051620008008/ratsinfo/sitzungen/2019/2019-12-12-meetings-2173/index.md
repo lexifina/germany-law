@@ -1,0 +1,106 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-12-12T18:09:00+01:00
+- Ende: 2019-12-12T21:13:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2173
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2173
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsrede des Fraktionsvorsitzenden der CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00098155.pdf
+- Ergebnisprotokoll: Haushaltsrede des Fraktionsvorsitzenden der CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00098155.pdf
+- Wortprotokoll: Haushaltsrede des Fraktionsvorsitzenden der CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00098155.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Flüchtlings- und Integrationsangelegenheiten
+- TOP 5: Unterbindung von Silvesterfeuerwerk - einstimmig
+- TOP 6: Integrationsrat 20.03.2019
+- TOP 6.1: Änderungen Integrationsrat - Kenntnisnahme
+- TOP 7: JHA 05.11.2019
+- TOP 7.1: Satzung KTP - mehrheitlich bei
+- TOP 7.2: Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder in der Stadt Grevenbr - mehrheitlich bei
+- TOP 7.3: Satzung über die Erhebung von Kostenbeiträgen für die Inanspruchnahme der Kindertagespflege in der S - mehrheitlich bei
+- TOP 7.4: Ausbau und Weiterentwicklung des Netzwerkes „Frühe Hilfen“ - einstimmig
+- TOP 7.5: Personalstruktur der Kinder- und Jugendförderung - einstimmig
+- TOP 8: BetriebsA 05.06.2019 und 13.11.2019
+- TOP 8.1: Jahresabschluss 2017 - einstimmig
+- TOP 8.2: Wirtschaftsplan 2020 - einstimmig
+- TOP 8.3: Abwassergebührenkalkulation 2020 - einstimmig
+- TOP 9: Entscheidung PlanungsA 12.11.2019
+- TOP 9.1: Rahmenplan Lohweg - einstimmig
+- TOP 9.2: W 56 - Aufstellungsbeschluss + frühz. Bet. - einstimmig
+- TOP 9.3: W 57 - Aufstellungsbeschluss + frühz. Bet. - einstimmig
+- TOP 9.4: G 220 - Aufstellungsbeschluss + frühz. Bet. - einstimmig
+- TOP 9.5: Regionalplanänderung für RWE-Flächen im Umfeld des Kraftwerks Frimmersdorf - Kenntnisnahme
+- TOP 9.6: N 47 Aufstellung + frühz. Bet. - einstimmig
+- TOP 9.7: 32. FNP Änderung - Industriepark Elsbachtal - einstimmig
+- TOP 9.8: G 219 - städtebaulicher Vertrag - einstimmig
+- TOP 9.9: G 219 Satzungsbeschluss § 13a - einstimmig
+- TOP 9.10: H 20 Aufstellungsbeschluss 13 b - mehrheitlich bei
+- TOP 9.11: K 36 erneute Aufstellung n. § 30 Abs. 3 BauGB - einstimmig
+- TOP 10: UmweltA 27.11.2019
+- TOP 10.1: Friedhofsgebühren 2020 - mehrheitlich bei
+- TOP 10.2: Gebührenbedarfsberechnung Abfall 2020 - einstimmig
+- TOP 11: Haushaltsrelevante Anträge - Kenntnisnahme
+- TOP 12: Haushalt 2020
+- TOP 12.1: Reden FV
+- TOP 12.2: Stellenplan 2020 - mehrheitlich bei
+- TOP 12.3: Personalentwicklungsbericht 2020 - mehrheitlich bei
+- TOP 12.4: Haushalt 2020 - mehrheitlich bei
+- TOP 13: Beantwortung Anträge und Anfragen
+- TOP 13.1: Bepflanzte Bushaltestellendächer - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: CDU
+- TOP 14.1.1: Durchfahrtsverbot für Nicht-Anlieger - einstimmig
+- TOP 14.1.2: Rasenurnengräber auf dem Friedhof Noithausen - einstimmig
+- TOP 14.1.3: Sicherung der Schulbushaltestelle - einstimmig
+- TOP 14.1.4: Sponsorenkonzept für Bepflanzungen - einstimmig
+- TOP 14.1.5: Verlagerung der Veranstaltung "Grevenbroich im Park" - Kenntnisnahme
+- TOP 14.1.6: Vorgesehener Rechtsanspruch auf einen Ganztagsplatz - einstimmig
+- TOP 14.2: SPD
+- TOP 14.3: UWG
+- TOP 14.4: FDP
+- TOP 14.4.1: Smart City Grevenbroich entwickeln (Antrag.Nr. 179/19) - einstimmig
+- TOP 14.4.2: Ausschussumbesetzung - einstimmig
+- TOP 14.4.3: Verzicht auf Laternenplakate - einstimmig
+- TOP 14.5: B 90/DIE GRÜNEN
+- TOP 14.5.1: Ausbau der regenerativen Energiegewinnung - einstimmig
+- TOP 14.5.2: Prüfung der Denkmalschutzwürdigkeit - einstimmig
+- TOP 14.5.3: Ausschussumbesetzung - einstimmig
+- TOP 14.6: Mein Grevenbroich
+- TOP 14.7: DIE LINKE
+- TOP 14.7.1: Solar - einstimmig
+- TOP 14.7.2: Arbeitskreis Strukturwandel - Kenntnisnahme
+- TOP 14.7.3: Wohnungsbaugesellschaft - einstimmig
+- TOP 14.7.4: Ausschussumbesetzung - einstimmig
+- TOP 15: Gemeinschaftsanträge
+- TOP 15.1: Kulturelle Teilhabe erweitern - Kenntnisnahme
+- TOP 16: Schriftliche Anfragen
+- TOP 16.1: CDU
+- TOP 16.2: SPD
+- TOP 16.3: UWG
+- TOP 16.4: FDP
+- TOP 16.4.1: Anfrage zur Parksituation - Kenntnisnahme
+- TOP 16.4.2: Falsche Halteverbotsschilder - Kenntnisnahme
+- TOP 16.4.3: Musical Nacht - Kenntnisnahme
+- TOP 16.5: B 90/DIE GRÜNEN
+- TOP 16.6: Mein Grevenbroich
+- TOP 16.7: DIE LINKE
+- TOP 16.7.1: Zwangsräumungen - Kenntnisnahme
+- TOP 17: Digitalisierungsbericht 2019 - Kenntnisnahme
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: Feuerwache Frimmersdorf (Anfrage Nr. 260/2019)
+- TOP 18.2: Weihnachtsmarkt (Anfrage Nr. 261/2019)
+- TOP 18.3: Gratis-Trinkwasser-Station (Antrag Nr. 151/2019)
+- TOP 18.4: Fahrradfreundlichen Kommune (Anfrage Nr. 262/2019)
+- TOP 18.5: Nachfragen Anfragen (Nr. 245/19, 147/2018 und Nr. 248/19)
+- TOP 18.6: Aufstellen einer Geschwindigkeitsmessanlage (Antrag Nr. 263/19)
+- TOP 18.7: Baumfällarbeiten an der Energiestraße (Anfrage Nr. 264/2019)
+- TOP 18.8: Liste der Anträge und Anfragen (Anfrage Nr. 265/2019)
+- TOP 19: Mitteilungen BM
