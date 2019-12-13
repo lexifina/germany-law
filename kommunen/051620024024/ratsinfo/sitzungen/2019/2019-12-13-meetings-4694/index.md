@@ -1,0 +1,68 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-12-13T16:00:00+01:00
+- Ende: 2019-12-13T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4694
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4694
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 5: Kunstrasenplätze auf Neusser Sportanlagen
+- TOP 6: Neuwahl stellvertretender Schiedspersonen
+- TOP 7: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad
+- TOP 8: Anträge zur Berufsförderung an Neusser Schulen für das Schuljahr 2020/2021
+- TOP 9: Ergänzung des Konzeptes Kunst im öffentlichen Raum - Ergebnis einer interfraktionellen AG des Kulturausschusses
+- TOP 10: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2020
+- TOP 11: Konrad-Adenauer-Ring: Barrierefreier Umbau der Bushaltestelle "Polizeibehörde" (Fahrtrichtung stadteinwärts)
+- TOP 12: Cranachstraße (Stich- und Verbindungswege): Straßenwiederherstellung nach Verlegung von Kanal- und Versorgungsleitungen
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. V 117/3 - Vogelsang, Gladbacher Straße (Wohnbebauung): Verkehrliche Erschließung
+- TOP 14: Rheintorstraße: Anhebung der östlichen Fahrbahnseite im Einmündungsbereich Rheintorstraße / Collingstraße
+- TOP 15: An der Hammer Brücke: Barrierefreier Umbau der beiden Bushaltestellen "NE-Rheinpark-Center" sowie Schaffung eines Leitstreifens zum S-Bahn-Haltepunkt "NE-Rheinpark-Center"
+- TOP 16: Wirtschaftsplan 2020 für das Tiefbaumanagement der Stadt Neuss
+- TOP 17: Wirtschaftsplan 2020 für das Gebäudemanagement der Stadt Neuss (GMN)
+- TOP 18: Festsetzung von Gebühren 2020 für den Bereich Abfallentsorgung
+- TOP 19: Sporthafen Neuss: Sanierungsmaßnahmen und Verlagerung des Feuerlöschbootes
+- TOP 20: Beratung des Haushaltsplan-Entwurfes 2020
+- TOP 21: Beratung der mittelfristigen Ergebnisplanung 2019 - 2023
+- TOP 22: Beratung des Investitionsprogramms (investive Finanzplanung) 2019 - 2023
+- TOP 23: Erlass einer Hebesatzsatzung für das Jahr 2020
+- TOP 24: Erlass einer Haushaltssatzung für die Stadt Neuss
+- TOP 25: Vertretung der Stadt Neuss in Drittgremien
+- TOP 26: Prüfung des Jahresabschlusses 2018 sowie der Jahresabschlüsse 2018 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung)
+- TOP 27: Prüfung des Gesamtabschlusses 2018
+- TOP 28: Städtepartnerschaft mit der türkischen Stadt Bolu
+- TOP -: Beschlussfassung des Rates
+- TOP 29: Städtepartnerschaft mit der israelischen Stadt Herzliya
+- TOP 30: Vertretung der Stadt Neuss in Drittgremien
+- TOP 31: Änderung der Vergabeordnung
+- TOP 32: Vertretung der Stadt Neuss in Drittgremien; hier: Neuwahl Erbentag des Deichverbandes Meerbusch-Lank
+- TOP 33: Personelle Besetzung in Wasser- und Bodenverbänden; hier: Umbesetzung im Ausschuss des Wasser- und Bodenverbandes Nordkanal
+- TOP 34: Heimatwerkstatt Neusserfurth
+- TOP 35: Einrichtung eines Integrationsausschusses in der kommenden Wahlperiode
+- TOP 36: Entsendung von Arbeitnehmervertretern in den Aufsichtsrat der Rheinland Klinikum Neuss GmbH
+- TOP -: Anträge
+- TOP -: Anfragen
+- TOP 36.1: Anfrage von Herrn Stadtverordneten Carsten Thiel betr. Rußrindenkrankheit an Ahorn
+- TOP -: Mitteilungen der Verwaltung
+- TOP 36.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP 38: Perspektive Beruf
+- TOP 39: Vorstellung der Vorlagen des neuen Ratsinformationssystem "Session"
+- TOP 40: Handlungsoptionen RWE-Aktien
+- TOP 41: Bericht des Antikorruptionsbeauftragten
+- TOP 42: Fördermodelle Familienrabatt und "Jung kauft Alt"
+- TOP 43: Novellierung KiBiz - finanzielle Auswirkungen auf Stadt Neuss
+- TOP -: Einwohnerfragestunde
