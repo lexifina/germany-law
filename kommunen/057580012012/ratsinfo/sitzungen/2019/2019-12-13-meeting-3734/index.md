@@ -1,0 +1,75 @@
+# Rat (43. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2019-12-13T16:00:00+01:00
+- Ende: 2019-12-13T20:58:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQsM0SBYLuSv5O-qY5MOZUc
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3734
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU9LYRGeX4rFl-Jh7KCBtsDskd_sjFum4HqtM3Uuaja1/Einladung_Rat_13.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV_2m1tyiwJb0tc1cXN59PJuaXwUy80FqgIuZYf67OYN/Oeffentliche_Niederschrift_Rat_13.12.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 07.10.2019
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.31: Gemeinsamer Antrag der Fraktionen SPD, B90/DIE GRÜNEN und DIE LINKEN: Verkehrskonzept Stiftberg/Vlothoer Straße - Bei 20 Nein-Stimmen und ohne Enthaltung wurde der Antrag A/47/2019 mit 21 Ja-Stimmen mehrheitlich beschlossen.
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Bericht aus dem Beteiligungscontrolling: II. Tertialbericht der Interkomm Interkommunales Gewerbegebiet Ostwestfalen-Lippe GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5b: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.09.2019 b) Jahresprognose 2019 der Beteiligungsunternehmen zum 30.09.2019
+- TOP A.5c: HVV- Konzern: Wirtschaftspläne 2020 und Mittelfristpläne des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH
+- TOP zu A.5c: HVV- Konzern: Wirtschaftspläne 2020 und Mittelfristpläne des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Bei 3 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5d: Pro Herford GmbH: Geänderter Wirtschaftsplan 2019 Wirtschaftsplan 2020 Mittelfristplan 2021-2024 - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5e: IAB Immobilien- und Abwasser-Betrieb Herford: Feststellung des Jahresabschlusses 2018, Ergebnisverwendung und Entlastung des Betriebsausschusses - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5f: IAB Immobilien- und Abwasser-Betrieb Herford: Geänderter Wirtschaftsplan 2019 Wirtschaftsplan 2020 Mittelfristplanung 2021-2024 - Der Verwaltungsvorschlag wurde mit der ergänzenden Option einer überplanmäßigen Finanzierung aus dem städtischen Haushalt zur Abstimmung gestellt:Bei 3 Enthaltungen und 17 Nein-Stimmen wurde mit 21 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP A.5g: Interkomm GmbH, Wirtschaftsplan 2020 u. Mittelfristplanung 2021 - 2024 - Bei 2 Nein-Stimmen und ohne Enthaltung wurde mit 39 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.5h: kommunale Klärschlammentsorgung durch die Klärschlammkooperation OWL, Gründung der Klärschlammverwertung OWL GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5i: Abwasserbeseitigungskonzept 2020-2031 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5j: Westfalen Weser Energie GmbH & Co. KG: Beteiligung weiterer kommunaler Gesellschafter an der Westfalen Weser Energie GmbH & Co. KG; Änderung des Gesellschaftsvertrages der Westfalen Weser Energie GmbH & Co. KG; Erwerb eines Gesellschaftsanteils an der Blomberg Netz GmbH & Co. KG durch die Westfalen Weser Netz GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5k: Westfalen Weser Gruppe: Beteiligung der Westfalen Weser Energie GmbH & Co. KG über die Westfalen Weser Netz GmbH an der Ostwestfalen Netz GmbH & Co. KG und der Ostwestfalen Netz Verwaltung GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5l: Volkshochschule im Kreis Herford; hier: Eintritt der Hansestadt Herford in den Zweckverband Volkshochschule im Kreis Herford bei gleichzeitigem Austritt der Kultur Herford gGmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2018, Ergebnisverwendung und Entlastung des Bürgermeisters - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.7: 3. Situationsbericht zur Haushaltswirtschaft 2019
+- TOP A.8: Entwurf der Haushaltssatzung 2020/2021 sowie mittelfristige Ergebnis- und Finanzplanung 2022 - 2024 hier: Einbringung des Entwurfs der Haushaltssatzung 2020/2021 mit ihren Anlagen
+- TOP A.9: Stellenplan für das Haushaltsjahr 2020/21
+- TOP A.10: Genehmigung einer Dringlichkeitsentscheidung zur Einführung eines kostenlosen ÖPNV-Angebotes an den Adventssamstagen und verkaufsoffenem Sonntag - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Öffentlicher Personennahverkehr in Herford Einführung eines Klimatickets - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Antrag der Fraktion BfH: Prüfauftrag "Maßnahme zum Klimaschutz: Vergünstigte Busfahrten für alle Herforder Seniorinnen und Senioren" - Einstimmig und ohne Enthaltung wurde beschlossen die Anträge zu TOP A.27 und TOP A.28 entsprechend zu beantworten.
+- TOP A.28: Antrag der Fraktion BfH: Prüfauftrag "Maßnahme zum Klimaschutz: Kostenlose Busfahrten für alle Herforder Schülerinnen und Schüler" - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Innovatives ÖPNV-Konzept für Herford; hier: Präsentation der Ergebnisse; Entscheidung zum Standort des künftigen zentralen Knotenpunkts für die Stadt- und Regionalbusse; Entscheidung für ein Linien-/Fahrplankonzept
+- TOP A.13: Aktualisierung des Klimaschutzkonzeptes der Hansestadt Herford
+- TOP zu A.13: Beschlussantrag der Fraktion B90/DIE GRÜNEN: Antrag zur Umsetzung des Klimaschutzkonzeptes vom 12.06.19, der in der letzten Ratssitzung vertagt worden war
+- TOP zu A.13: Beschlussantrag der Fraktion B90/DIE GRÜNEN: Antrag zur Ergänzung der Leitziele des Klimaschutzkonzeptes vom 10.12.19
+- TOP A.14: Breitbandausbau in Herford Sachstandsbericht
+- TOP A.25: Antrag der Fraktion B90/DIE GRÜNEN zum Thema Breitbandausbau: Umsetzung der Maßnahme Nr. 4 des Stadtentwicklungsprogramms Herford 2030 - Breitbandausbau (Sachstandsbericht)
+- TOP A.15: Rahmenplanung Rathausplatz / Münsterkirchplatz - Der Beschlussvorschlag der Verwaltung wurde einstimmig und ohne Enthaltung wie folgt gefasst: 
+- TOP zu A.15: Beschlussantrag der Fraktion DIE LINKE: Planung Rathausplatz
+- TOP A.16: Gebührenhaushalt Abfallentsorgung 6. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Gebührenhaushalt Straßenreinigung 9. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford - Bei einer Nein-Stimme und ohne Enthaltung wurde mit 40 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.19: Änderung der Entwässerungsgebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Qualifizierung des integrierten städtebaulichen Entwicklungskonzeptes (ISEK) "Konversion Stiftberg" hier: Beschluss des Berichts - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Regiopolregion Bielefeld / Regionale 2022: OWL•Kultur-Plattform
+- TOP A.22: Neufassung der Rechnungsprüfungsordnung der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Zuständigkeitskatalog für die städtischen Ausschüsse hier: Aufgaben und Zuständigkeiten des Bau- und Umweltausschusses - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.24: Gremien-Besetzungen:
+- TOP A.24a: Geschäftsführung Jugendhilfeausschuss: Wahl einer Vertretung und einer Stellvertretung des neuen Jugendamtselternbeirates als beratendes Mitglied im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24b: Nachbesetzung im Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24c: Antrag der FDP: Umbesetzungen im Sportausschuss und Beirat der Kultur
+- TOP zu A.24c: nachgereichter Antrag der FDP-Fraktion zur Umbesetzung im Sportausschuss und Beirat der Kultur
+- TOP A.26: Antrag der Fraktion B90/DIE GRÜNEN: Förderung des Radverkehrs
+- TOP A.29: Antrag der Fraktion B90/DIE GRÜNEN zum Thema SWK-Rekommunalisierung: Rekommunalisierung der SWK GmbH gem. Ratsbeschluss vom 29.03.2019 (Sachstandsbericht) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.30: Geschwister-Scholl-Schule: Vorschläge zur Container-Lösung
+- TOP A.30a: Antrag der CDU: Containerlösung an der Geschwister-Scholl-Schule
+- TOP A.30b: Antrag der SPD: Containerlösung an der Geschwister-Scholl-Schule
+- TOP zu A.30: Gemeinsamer Beschlussantrag der Fraktionen SPD und CDU: Geschwister-Scholl-Schule: Vorschläge zur Container-Lösung
+- TOP A.32: Antrag der CDU zum Thema "Medienentwicklungsplan" - Bei 2 Enthaltungen und einer Nein-Stimme wurde mit 38 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.33: Antrag der CDU zum Thema "Mülltrennung" - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.34: Ergänzende Termine der Ratssitzungen für das Jahr 2020 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.35: Mitteilungen
