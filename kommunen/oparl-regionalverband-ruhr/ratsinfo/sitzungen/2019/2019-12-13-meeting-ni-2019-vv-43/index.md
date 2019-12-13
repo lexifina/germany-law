@@ -1,0 +1,69 @@
+# 25. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-12-13T10:00:00+01:00
+- Ende: 2019-12-13T12:50:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-43
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-43
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-VV-43
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2019-VV-43
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2019-VV-43
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 11.10.2019
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 0.1: Antrag auf Abberufung des Beigeordneten Martin Tönnes gem. § 16 Gesetz über den Regionalverband Ruhr i.V.m. § 71 Abs. 7 Gemeindeordnung NRW sowie Anordnung der sofortigen Vollziehung dieses Beschlusses gem. § 80 Abs. 2 Satz 1 Nr. 4 Verwaltungsgerichtsordnung
+- TOP 0.2: Ausschreibung einer Beigeordnetenstelle für den Bereich III (Planung)
+- TOP 0.3: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2020/2021
+- TOP 0.3.1: Finanzierung IGA 2027
+- TOP 0.3.2: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Finanzierung IGA 2027
+- TOP 0.4: Verabschiedung des Doppelhaushaltes 2020 / 2021
+- TOP 0.4.1: Anpassung der Erträge durch Forstwirtschaft durch Ruhr Grün an die Realitäten
+- TOP 0.4.2: Verabschiedung des Doppelhaushaltes 2020 / 2021 Hier: Veränderungen im Doppelhaushalt zur Erfüllung von Aufgabenstellungen aus dem Strategie- und Zielkonzept
+- TOP 0.4.3: Antrag zum Doppelhaushalt 2020/2021
+- TOP 0.4.4: Anträge zum Haushaltsplanentwurf 2020/2021
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen / Strukturausschuss
+- TOP 1.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für das Jahr 2020
+- TOP 1.2: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2020
+- TOP 1.3: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2020 Beratung und Beschlussfassung
+- TOP 1.4: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik – Kulturregionen Hellweg und Niederrhein hier: Beratung und Beschlussfassung 2019
+- TOP -: Vorlagen des Regionalverband Ruhr / Planungsausschuss
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.1: Maßnahmen zum weiteren Verfahren des Regionalplans Ruhr
+- TOP 1.5.2: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Weiteres Vorgehen und geplante Inhalte der Abgrabungskonferenz
+- TOP 1.6: 10. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe (GEP E-L), auf dem Gebiet der Stadt Haltern am See - Erweiterung eines Bereichs für die Sicherung und den Abbau oberflächennaher Bodenschätze (BSAB)
+- TOP 1.7: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Umbesetzung in den Ausschüssen und Gremien hier: Umbesetzung im Wirtschaftsausschuss
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.2: Angelegenheiten der Freizeitgesellschaften Freizeitgesellschaft Metropole Ruhr mbH - Wechsel im Aufsichtsrat
+- TOP -: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 2.3: Änderung der Rechnungprüfungsordnung der Regionalverbandes Ruhr
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.4: Aufnahme der Antony-Hütte als Ankerpunkt in die Route Industriekultur
+- TOP -: Vorlagen aus dem Umweltausschuss vom 22.11.2019
+- TOP 2.5: Fortführung des Kooperationsvertrages Besucherzentrum Hoheward mit den Städten Herten und Recklinghausen
+- TOP -: Vorlagen aus dem Umweltausschuss vom 20.09.2019
+- TOP 2.6: Weiterführung des Projektes Schiffsparade/KulturKanal nach 2020
+- TOP 2.7: Agenda Klimaoffensive.RUHR
+- TOP 2.7.1: Antrag der Fraktion Die Linke Agenda Klimaoffensive.RUHR - Modellprojekt für 2020 „Einrichtung einer auf Geodaten basierenden Vitalitätskartierung von Wäldern und Grünflächen“
+- TOP 2.8: Rahmennutzungskonzept zur Weiterentwicklung von Haldenstandorten in der Metropole Ruhr
+- TOP 2.8.1: Antrag der Fraktion Die Linke Rahmennutzungskonzept zur Weiterentwicklung von Haldenstandorten in der Metropole Ruhr Hier: Ergänzung des Beschlussvorschlages
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.9: IGA Metropole Ruhr 2027 - Modifizierung des Beschlusses zur Gründung der Durchführungsgesellschaft „Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 gGmbH“ aufgrund aktueller Entwicklungen
+- TOP 2.10: Angelegenheiten der Freizeitgesellschaften Freizeitgesellschaft Metropole Ruhr mbH - Erwerb der Geschäftsanteile der Wassersportschule Kemnade GmbH
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften Maximilianpark Hamm GmbH – Zuschuss- und Finanzierungsvertrag 2020-2022
+- TOP 2.12: Angelegenheiten der Freizeitgesellschaften Freizeitschwerpunkt Glörtalsperre GmbH - Übernahme der Gesellschafteranteile der Stadt Hagen
+- TOP 2.13: Angelegenheiten der Freizeitgesellschaften Freizeitschwerpunkt Glörtalsperre GmbH - Änderung des Gesellschaftsvertrages
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.14: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2020/2021
+- TOP 2.15: Anfragen und Mitteilungen
+- TOP 2.15.1: Umsetzung der Informations- und Motivationskampagne
+- TOP 2.15.2: Antwort auf die Fraktionsanfrage der Fraktion B90/Die Grünen zum sachlichen Teilplan regionale Kooperationsstandorte
