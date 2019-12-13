@@ -11,7 +11,7 @@ Nr. | Vorhaben | UVP-Festlegung
 1. | Neu- und Ausbau eines schiffbaren Fließgewässers, | 
  | a) | das für Schiffe mit mehr als 1 350 t zugänglich ist | X
  | b) | im Übrigen; | A
-2. | Bau, Ausbau und Verlegung von Straßen im Sinne von § 3 Absatz 1 Nummer 1 bis 3 SächsStrG, | 
+2. | Bau, Ausbau und Verlegung von Straßen im Sinne von § 3 Absatz 1 Nummer 1 bis 3, Absatz 3 SächsStrG, | 
  | a) | wenn die neue Straße eine Schnellstraße im Sinne der Begriffsbestimmung des Europäischen Übereinkommens über die Hauptstraßen des internationalen Verkehrs vom 15. November 1975 (BGBl. 1983 II S. 246) ist, | X
  | b) | wenn die neue Straße oder der ausgebaute oder verlegte Straßenabschnitt mindestens vier Streifen und eine durchgehende Länge von mindestens 10 km aufweist, | X
  | c) | wenn die neue, ausgebaute oder verlegte Straße durch einen Nationalpark im Sinne von § 24 BNatSchG, durch ein Naturschutzgebiet im Sinne von § 23 BNatSchG oder durch Gebiete führt, die durch die Richtlinie 2009/147/EG oder durch die Richtlinie 92/43/EWG unter besonderem Schutz stehen oder solche Gebiete berührt, | X
