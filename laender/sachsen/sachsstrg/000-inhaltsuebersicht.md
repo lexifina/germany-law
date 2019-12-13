@@ -17,11 +17,12 @@ Erster Teil Allgemeine Bestimmungen
 § 12 Grundbuchberichtigung und Vermessung
 § 13 Eigentumserwerb
 3. Abschnitt Benutzung der öffentlichen Straßen
-§ 14 Gemeingebrauch
+§ 14 Gemeingebrauch, Straßenanliegergebrauch
 § 15 Beschränkungen des Gemeingebrauchs
 § 16 Vergütung von Mehrkosten
 § 17 Verunreinigung und Beschädigung
 § 18 Sondernutzung
+§ 18a Sondernutzung durch stationsbasiertes Carsharing
 § 19 Besondere Veranstaltungen und gewerbliche Nutzung
 § 20 Unerlaubte Benutzung einer Straße
 § 21 Gebühren für Sondernutzungen
@@ -65,10 +66,10 @@ Zweiter Teil Straßenbaulastträger, Aufsicht und Zuständigkeit
 Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 § 52 Ordnungswidrigkeiten
 § 53 Einteilung der vorhandenen öffentlichen Straßen
-§ 54 Straßen- und Bestandsverzeichnisse
-§ 55 Ortsdurchfahrten
+§ 54 Bestandsverzeichnisse
+§ 55 (aufgehoben)
 § 56 (aufgehoben)
-§ 57 Gesetzlicher Eigentumsübergang
+§ 57 (aufgehoben)
 § 58 Sondernutzung
 § 59 (aufgehoben)
 § 60 (aufgehoben)
