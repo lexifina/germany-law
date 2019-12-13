@@ -1,65 +1,87 @@
 # Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“ und des Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2013-12-18 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/luftrettungssatzung_20131218.pdf
+- Datum: 2019-12-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/luftrettungssatzung_20191213.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“ und des
-Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung) vom 18. Dezember 2013
-Der Rat der Stadt Köln hat in seiner Sitzung vom 17.12.2013 aufgrund der §§ 2, 3, 6, 10, 13, 14 und 15 des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmen (RettG NRW) vom 24.11.1992 (SGV NRW 215), der §§ 4 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21.10.1969 (SGV NRW 610) und der §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NRW 2023) –jeweils in der bei Erlass dieser Satzung geltenden Fassung- diese Satzung beschlossen:
+Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“
+und des Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung)
+vom 13. Dezember 2019
+- ABl StK 2019, S. 792 -
+Der Rat der Stadt Köln hat in seiner Sitzung vom 12.12.2019 aufgrund der §§ 2, 3, 6, 10, 13 und 14 des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmer (RettG NRW) vom 24.11.1992 (SGV NRW 215), der §§ 1, 2, 4 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG NRW) vom 21.10.1969 (SGV NRW 610) und der §§ 7, 41 und 77 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NRW 2023) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – diese Satzung beschlossen:
 § 1 Trägergemeinschaften
-(1) Die Stadt Köln nimmt gemäß der öffentlich-rechtlichen Vereinbarungen der Trägergemeinschaften des Rettungshubschraubers „Christoph 3“ (ABl. Reg. K 2006, S. 343) und des Intensivtransporthubschraubers „Christoph Rheinland“ (ABl. Reg. K 2007, S. 277) als Kernträgerin im Sinne des § 10 Abs. 3 Satz 2 RettG NRW die Aufgaben des jeweiligen Hubschraubers für die übrigen Mitglieder der Trägergemeinschaften wahr.
-(2) Diese Gebührensatzung gilt gemäß § 25 Abs. 1 des Gesetzes über kommunale Gemeinschaftsarbeit in der Fassung der Bekanntmachung vom 01.10.1979 für das gesamte Gebiet beider in Abs. 1 genannten Trägergemeinschaften.
+(1) Die Stadt Köln nimmt gemäß der öffentlich-rechtlichen Vereinbarungen der Trägergemeinschaften des Rettungshubschraubers „Christoph 3“ (ABl. Reg. K 2006, S. 343) und des Intensivtransporthubschraubers „Christoph Rheinland“ (ABl. Reg. K 2007, S. 277) als Kernträgerin im Sinne des § 10 Abs. 2 RettG NRW die Aufgaben des jeweiligen Hubschraubers für die übrigen Mitglieder der Trägergemeinschaften wahr.
+(2) Diese Gebührensatzung gilt gemäß § 25 Abs. 1 des Gesetzes über kommunale Gemeinschaftsarbeit (GkG NRW) in der Fassung der Bekanntmachung vom 01.10.1979 (SGV NRW 202) für das gesamte Gebiet beider in Abs. 1 genannten Trägergemeinschaften.
 § 2 Aufgaben des Rettungshubschraubers
-(1) Aufgabe des Rettungshubschraubers „Christoph 3“ sind die Notfallrettung gemäß § 3 Abs. 3 RettG NRW sowie andere Einsätze, die sich nach den gesetzlichen Vorschriften und Weisungen der Aufsichtsbehörden richten. Er kann außerdem für Personen- und Materialtransporte eingesetzt werden.
-(2) Ergänzend zum bodengebundenen Rettungsdienst wird für die Notfallrettung der Rettungshubschrauber eingesetzt, um bei Notfallpatientinnen und Notfallpatienten lebensrettende Maßnahmen am Notfallort durchzuführen, deren Transportfähigkeit herzustellen und sie unter Aufrechterhaltung der Transportfähigkeit und Vermeidung weiterer Schäden in ein für die weitere Versorgung geeignetes Krankenhaus oder in Diagnose- und geeignete Behandlungseinrichtungen zu befördern (Primäreinsatz).
-(3) Soweit der Intensivtransporthubschrauber „Christoph Rheinland“ nicht verfügbar ist, kann der Rettungshubschrauber auch für intensivmedizinische Transportflüge erforderlichenfalls auch über größere Entfernungen eingesetzt werden (Sekundäreinsatz).
-Seite 1 von 4
+(1) Aufgabe des Rettungshubschraubers „Christoph 3“ sind die Notfallrettung gemäß § 3 Abs. 3 RettG NRW sowie andere Einsätze, die sich nach den gesetzlichen Vorschriften und Weisungen der Aufsichtsbehörden richten.
+(2) Ergänzend zum bodengebundenen Rettungsdienst wird für die Notfallrettung der Rettungshubschrauber eingesetzt, um bei Notfallpatientinnen und Notfallpatienten lebensrettende Maßnahmen am Notfallort durchzuführen und deren Transportfähigkeit herzustellen (Primärversorgungsflüge) und sie unter Aufrechterhaltung der Transportfähigkeit und Vermeidung weiterer Schäden in ein für die weitere Versorgung geeignetes Krankenhaus oder in Diagnose- und geeignete Behandlungseinrichtungen zu befördern (Primärtransportflüge).
+(3) Soweit der Intensivtransporthubschrauber „Christoph Rheinland“ nicht verfügbar ist, kann der Rettungshubschrauber auch für intensivmedizinische Transportflüge – erforderlichenfalls auch über größere Entfernungen – eingesetzt werden (Sekundäreinsätze).
+(4) Darüber hinaus kann der Rettungshubschrauber auch für besonders dringliche Transporte z.B. von speziellem ärztlichem Personal, Organen, Blutkonserven und Arzneimitteln/Medizinprodukten eingesetzt werden (Sachtransportflüge).
 
 § 3 Aufgaben des Intensivtransporthubschraubers
-(1) Aufgabe des Intensivtransporthubschraubers „Christoph Rheinland“ sind intensivmedizinische Transportflüge und sonstige Transporte über größere Entfernungen einschließlich der Spezialtransporte (z.B. mit Inkubator), soweit ein Rettungshubschrauber nicht geeignet oder verfügbar ist, sowie andere Einsätze, die sich nach den gesetzlichen Vorschriften und Weisungen der Aufsichtsbehörden richten. (2) Ergänzend zum bodengebundenen Rettungsdienst wird der Intensivtransporthubschrauber eingesetzt, um medizinisch erstversorgte Patientinnen und Patienten nach ärztlicher Indikation aus einem Krankenhaus in ein anderes für die weitere medizinische Versorgung geeignetes Krankenhaus zu transportieren (Sekundäreinsatz). (3) Soweit der Rettungshubschrauber „Christoph 3“ nicht verfügbar ist, kann der Intensivtransporthubschrauber auch für die Notfallrettung eingesetzt werden (Primäreinsatz).
+(1) Aufgabe des Intensivtransporthubschraubers „Christoph Rheinland“ sind intensivmedizinische Transportflüge und sonstige Transporte über größere Entfernungen einschließlich der Spezialtransporte (z. B. mit Inkubator), soweit ein Rettungshubschrauber nicht geeignet oder verfügbar ist, sowie andere Einsätze, die sich nach den gesetzlichen Vorschriften und Weisungen der Aufsichtsbehörden richten.
+(2) Ergänzend zum bodengebundenen Rettungsdienst wird der Intensivtransporthubschrauber eingesetzt, um medizinisch erstversorgte Patientinnen und Patienten nach ärztlicher Indikation aus einem Krankenhaus in ein anderes für die weitere medizinische Versorgung geeignetes Krankenhaus zu transportieren (Sekundärtransportflüge).
+(3) Soweit der Rettungshubschrauber „Christoph 3“ nicht verfügbar ist, kann der Intensivtransporthubschrauber auch für die Notfallrettung (Primäreinsätze) oder für Personenund Materialtransporte (Sachtransportflüge) eingesetzt werden.
 § 4 Einsatzgrundsätze
-(1) Die Entscheidung über den Einsatz des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ trifft gemäß § 10 Abs. 3 Satz 3 RettG NRW die Leitstelle der Berufsfeuerwehr der Stadt Köln entsprechend der Anforderung des Bestellers und nach pflichtgemäßer Prüfung. (2) Die Benutzerin oder der Benutzer des Rettungs- oder Intensivtransporthubschraubers hat keinen Anspruch darauf, dass der Hubschrauber für einen eventuell notwendigen weiteren Transport für sie / ihn bereitgehalten wird. (3) Der Pilot des Hubschraubers bestimmt die Flugstrecke bei Einsätzen unter Berücksichtigung der Luftverkehrslage und der meteorologischen Gegebenheiten selbst.
+(1) Die Entscheidung über den Einsatz des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ trifft gemäß § 10 Abs. 2 Satz 3 RettG NRW die Leitstelle der Berufsfeuerwehr der Stadt Köln entsprechend der Anforderung der Bestellerin oder des Bestellers und nach pflichtgemäßer Prüfung.
+(2) Die Benutzerin oder der Benutzer des Rettungs- oder Intensivtransporthubschraubers hat keinen Anspruch darauf, dass der von ihr / ihm benutzte Hubschrauber für einen eventuell notwendigen weiteren Transport für sie / ihn bereitgehalten wird.
+(3) Die Pilotin oder der Pilot des Hubschraubers bestimmt die Flugstrecke bei Einsätzen unter Berücksichtigung der Luftverkehrslage und der meteorologischen Gegebenheiten selbst.
 § 5 Begleitpersonen
-Ein Transport von Begleitpersonen ist in beiden Hubschraubern –vorbehaltlich einer abweichenden Entscheidung des Piloten in Ausnahmefällen- grundsätzlich ausgeschlossen.
+(1) Ein Transport von Begleitpersonen ist in beiden Hubschraubern – vorbehaltlich einer abweichenden Entscheidung der Pilotin / des Piloten in Ausnahmefällen – grundsätzlich ausgeschlossen.
+(2) Gegenüber mitgenommenen Begleitpersonen haftet die Stadt Köln nur für Vorsatz und grobe Fahrlässigkeit städtischer Organe, Bediensteter oder Beauftragter.
 § 6 Gegenstand der Gebühren und Gebührentarif
-(1) Für Einsätze des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ erhebt die Stadt Köln Gebühren nach Maßgabe dieser Satzung und des beiliegenden Gebührentarifs, der Bestandteil dieser Satzung ist. (2) Gebühren werden auch erhoben für: 1. den Einsatz des bestellten Rettungs- oder Intensivtransporthubschraubers ohne
-Benutzung, 2. Personen- und Materialtransporte,
-Seite 2 von 4
+(1) Für Einsätze des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ erhebt die Stadt Köln Gebühren nach Maßgabe dieser Satzung und des beiliegenden Gebührentarifs, der Bestandteil dieser Satzung ist.
+(2) Gebühren werden auch erhoben für: 1. den Einsatz des bestellten Rettungs- oder Intensivtransporthubschraubers ohne Benutzung, wenn der Einsatz auf missbräuchlichem Verhalten der Verursacherin oder des Verursachers beruht, 2. eine vorsätzliche grundlose Alarmierung,
 
-3. eine vorsätzliche grundlose Alarmierung, 4. Beobachtungs- und sonstige Unterstützungsflüge für andere Behörden im
-Rahmen der Amtshilfe.
-§ 7 Gebührenanspruch und Gebührenschuldner (1) Der Gebührenanspruch entsteht mit der Inbetriebnahme des jeweils eingesetzten Hubschraubers für die gesamte Einsatzdauer. Die Einsatzdauer umfasst die Zeit von der Inbetriebnahme des Hubschraubers bis zur Wiederherstellung seiner Einsatzbereitschaft auf der Betriebsstation. Wird vor der Rückkehr des Hubschraubers zur Betriebsstation ein neuer Einsatzbefehl erteilt, so endet für den bisherigen und beginnt für den folgenden Einsatz -abweichend von Satz 1- die Einsatzdauer mit Erteilung des neuen Einsatzbefehls. (2) Gebührenschuldner ist derjenige, der die Leistung des Rettungshubschraubers oder Intensivtransporthubschraubers in Anspruch nimmt oder bestellt hat. Mehrere Gebührenschuldner haften als Gesamtschuldner.
-§ 8 Festsetzung und Fälligkeit der Gebühren (1) Die Gebühren werden vom Oberbürgermeister der Stadt Köln -Berufsfeuerwehr, Amt für Feuerschutz, Rettungsdienst und Bevölkerungsschutz- in einem den Gebührenschuldnern zu erteilenden Gebührenbescheid festgesetzt. (2) Die Gebühren werden innerhalb eines Monats nach Zugang des Gebührenbescheides beim Gebührenschuldner fällig.
-§ 9 Inkrafttreten Diese Satzung tritt am 01.01.2014 in Kraft.
-Seite 3 von 4
+3. Beobachtungs- und sonstige Unterstützungsflüge für andere Behörden im Rahmen der Amtshilfe (z.B. Luftbeobachtung bei Großbrandereignissen).
+§ 7 Gebührenanspruch und Gebührenschuldner
+(1) Der Gebührenanspruch entsteht mit der Inbetriebnahme des jeweils eingesetzten Hubschraubers für die gesamte Einsatzdauer. Die Einsatzdauer umfasst die Zeit von der Inbetriebnahme des Hubschraubers bis zur Wiederherstellung seiner Einsatzbereitschaft auf der Betriebsstation. Wird vor der Rückkehr des Hubschraubers zur Betriebsstation ein neuer Einsatzbefehl erteilt, so endet für den bisherigen und beginnt für den folgenden Einsatz - abweichend von Satz 2 - die Einsatzdauer mit Erteilung des neuen Einsatzbefehls.
+(2) Gebührenschuldner ist die Person, die die Leistung des Rettungshubschraubers oder Intensivtransporthubschraubers in Anspruch nimmt oder bestellt hat. Mehrere Gebührenschuldner haften als Gesamtschuldner.
+(3) Hat eine gesetzliche Krankenkasse oder ein anderer gesetzlicher Kostenträger für ein Mitglied ein Kostenanerkenntnis abgegeben oder steht die Mitgliedschaft der Benutzerin oder des Benutzers in einer gesetzlichen Krankenkasse oder bei einem anderen gesetzlichen Kostenträger fest, so steht es der Stadt Köln frei, die Gebühren von der Krankenkasse oder beim Kostenträger einzuziehen. Die Gebührenpflicht des Gebührenschuldners bleibt davon unberührt.
+§ 8 Festsetzung und Fälligkeit der Gebühren
+(1) Die Gebühren werden von der Oberbürgermeisterin bzw. vom Oberbürgermeister der Stadt Köln – Berufsfeuerwehr, Amt für Feuerschutz, Rettungsdienst und Bevölkerungsschutz – in einem den Gebührenschuldnern bzw. in den Fällen des § 7 Abs. 3 den Krankenkassen oder anderen Kostenträgern zu erteilenden Gebührenbescheid festgesetzt.
+(2) Die Gebühren werden innerhalb eines Monats nach Zugang des Gebührenbescheides beim Gebührenschuldner bzw. bei der Krankenkasse oder einem anderen Kostenträger fällig.
+§ 9 Inkrafttreten
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung im Amtsblatt der Stadt Köln in Kraft.
+(2) Gleichzeitig tritt die Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“ und des Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung) vom 18.12.2013 (ABl. Stadt Köln 2013, S. 791) außer Kraft.
 
 Gebührentarif
 
-zur Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“ und des Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung) vom 18. Dezember 2013
+zur Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungshubschraubers (RTH) „Christoph 3“
+und des Intensivtransporthubschraubers (ITH) „Christoph Rheinland“ (Luftrettungssatzung)
 
-Die Gebühr für Einsätze des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ beträgt:
+vom 13. Dezember 2019
 
-für Primäreinsätze
+Die Gebühr für Einsätze des Rettungshubschraubers „Christoph 3“ und des Intensivtransporthubschraubers „Christoph Rheinland“ beträgt
 
-pro Einsatz 1.429,00 €.
+für die Dauer sämtlicher Einsätze (Primäreinsätze, Sekundäreinsätze, Sachtransportflüge, Einsätze in den Fällen des § 6 Abs. 2 der Satzung)
 
-für die Dauer von Sekundäreinsätzen
+pro Flugminute 143,00 €
 
-pro Einsatzminute 78,53 €.
+Bei Untersuchung mehrerer Patientinnen / Patienten an einer Einsatzstelle bzw. gleichzeitiger Beförderung mehrerer Patientinnen / Patienten in einem Hubschrauber wird die Gebühr anteilig von den untersuchten bzw. beförderten Patientinnen / Patienten erhoben.
 
-für die Dauer von Einsätzen in den Fällen des § 6 Abs. 2 pro Einsatzminute 78,53 €.
+Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
 
-Vorstehende Satzung wird hiermit öffentlich bekanntgemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
 
-Köln, den 18.12.2013
+§ 7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
 
-Der Oberbürgermeister gez. Roters
+"Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
 
-- ABl StK 2013, S. 791 -
+a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt,
 
-Seite 4 von 4
+b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden,
+
+c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet
+
+oder
+
+d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
+
+Köln, den 13.12.2019
+
+Die Oberbürgermeisterin gez. Henriette Reker
