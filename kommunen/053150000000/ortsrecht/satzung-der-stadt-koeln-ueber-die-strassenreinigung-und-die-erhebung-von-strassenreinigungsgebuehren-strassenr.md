@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2018-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/strassenreinigungssatzung_19_12_2018.pdf
+- Datum: 2019-12-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/strassenreinigungssatzung_13_12_2019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,22 +10,20 @@
 
 Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren
 (Straßenreinigungssatzung - StrReinS -) vom 19. Dezember 2012
-in der Fassung der 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln (Straßenreinigungssatzung – StrReinS -) vom 19. Dezember 2018 *
-- ABl StK 2012, S. 1057, 2013, S. 803, 2014, S. 220, 1080, 2015, S.575, 2016, S. 520, 2017, S. 550, 2018, S. 598 -
+in der Fassung der 7. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln (Straßenreinigungssatzung – StrReinS -) vom 13. Dezember 2019 *
+- ABl StK 2012, S. 1057, 2013, S. 803, 2014, S. 220, 1080, 2015, S.575, 2016, S. 520, 2017, S. 550, 2018, S. 598, 2019, S. 808 -
 Der Rat der Stadt Köln hat in seiner Sitzung vom 18.12.2012 aufgrund der §§ 1, 3 und 4 des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NRW) vom 18. Dezember 1975 (SGV. NRW. 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV. NRW. 610) und den §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NRW. 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 I.
-Die Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung – StrReinS –) vom 19. Dezember 2012 in der Fassung der 5. Änderungssatzung vom 20. Dezember 2017 (ABl. Stadt Köln 2017 Nr. 55, S. 550 ff), wird wie folgt geändert:
+Die Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung – StrReinS –) vom 19. Dezember 2012 in der Fassung der 6. Änderungssatzung vom 19. Dezember 2018 (ABl. Stadt Köln 2018 Nr. 53, S. 598 ff.), wird wie folgt geändert:
 1. Das Straßenreinigungsverzeichnis nach § 3 der Straßenreinigungssatzung wird geändert. Die Änderungen ergeben sich aus der Anlage 1 dieser Satzung; die Anlage ist Bestandteil dieser Satzung.
-2. Die „Aufstellung der Straßen für die Fahrbahnen mit besonderem Reinigungsaufwand gemäß § 8 Abs. 1 Ziffern 1.1.2 und 1.2.2“ (Anlage 2 zu dieser Satzung) wird umbenannt in „Aufstellung der Straßen für die Fahrbahnen mit niveaugleichem Gehwegausbau gemäß § 8 Abs. 1 Ziffern 1.1.2 und 1.2.2“ und ergänzt; die Anlage ist Bestandteil dieser Satzung.
-3. Die Aufstellung der Fußgängergeschäftsstraßen mit besonderem Reinigungsaufwand der Straßenreinigungssatzung (Anlage 3) entfällt
-4. Anlage 4 wird Anlage 3, Anlage 5 wird Anlage 4.
+2. Die „Aufstellung der Straßen für die Fahrbahnen mit niveaugleichem Gehwegausbau gemäß § 8 Abs. 1 Ziffer 1.1.2 und 1.2.2“ (Anlage 2 zu dieser Satzung) wird geändert; die Anlage ist Bestandteil dieser Satzung.
+3. Die Aufstellung der Bereiche des zu reinigenden Straßenbegleitgrüns (Anlage 4 zu dieser Satzung) wird geändert. Ferner wird die Spaltenbezeichnung „Reinigungshäufigkeit“ in „Reinigungshäufigkeit jährlich“ umbenannt. Die Anlage ist Bestandteil dieser Satzung.
 §1 Allgemeines
-(1) Die Stadt betreibt die Reinigung der öffentlichen Straßen innerhalb der geschlossenen Ortslagen – bei Bundesstraßen, Landesstraßen, Radschnellverbindungen des Landes und Kreisstraßen jedoch nur der Ortsdurchfahrten – als öffentliche Einrichtung.
-Mit der Erfüllung der Aufgaben nach dieser Satzung hat die Stadt Köln die AWB Abfallwirtschaftsbetriebe Köln GmbH (im Folgenden „AWB“ genannt) beauftragt.
+(1) Die Stadt betreibt die Reinigung der öffentlichen Straßen innerhalb der geschlossenen Ortslagen – bei Bundesstraßen, Landesstraßen, Radschnellverbindungen des Landes und Kreisstraßen jedoch nur der Ortsdurchfahrten – als öffentliche Einrichtung. Mit der Erfüllung der Aufgaben nach dieser Satzung hat die Stadt Köln die AWB Abfallwirtschaftsbetriebe Köln GmbH (im Folgenden „AWB“ genannt) beauftragt.
+Hierzu gehören auch folgende Verwaltungsdienstleitungen: Prüfungen und Stellungnahmen zu Anträgen, Widersprüchen gegen Gebühren- und Widerspruchsbescheide sowie Unterstützung der Stadt Köln bei Klageverfahren.
 *Geändert durch die Satzung zur rückwirkenden Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 19. Dezember 2012 und deren Änderungssatzungen vom 16. Dezember 2015 und vom 21. Dezember 2016 vom 16. Juni 2021 in der Fassung vom 18. Dezember 2021.
 Seite 1 von 10
 
-Hierzu gehören auch folgende Verwaltungsdienstleitungen: Prüfungen und Stellungnahmen zu Anträgen, Widersprüchen gegen Gebühren- und Widerspruchsbescheide sowie Unterstützung der Stadt Köln bei Klageverfahren.
 (2) Die Reinigung beinhaltet die Beseitigung von Unrat, Verschmutzungen und Wildkräutern, die die Hygiene oder das Stadtbild nicht unerheblich beeinträchtigen, insbesondere von tierischen Exkrementen, Papier, Zigarettenschachteln sowie Ansammlungen von Zigarettenkippen und Kaugummis, oder die eine Gefährdung des Verkehrs darstellen, wie beispielsweise Laub und Blüten.
 Sie beinhaltet auch die Winterwartung gemäß § 5 dieser Satzung. (3) Die Reinigungspflicht umfasst die Reinigung der Fahrbahnen, Gehwege und
 Randstreifen.
@@ -62,7 +60,7 @@ c) Anzahl der wöchentlichen Reinigungen durch die Stadt, soweit sich nicht aus 
 d) Reinigungsverpflichtete.
 Die Regelungen im Straßenreinigungsverzeichnis bleiben bei Umbenennung von Straßen unberührt.
 (3) Abweichend von den Regelungen zu Abs. 2 Buchst. c) sind Mittelalleen einmal wöchentlich zu reinigen, es sei denn, in Anlage 3 ist etwas anderes geregelt.
-(4) Das in der Anlage 4 zur Straßenreinigungssatzung genannte Straßenbegleitgrün wird in der dort genannten Häufigkeit gereinigt.
+(4) Das in der Anlage 4 zur Straßenreinigungssatzung genannte Straßenbegleitgrün wird in der dort genannten Häufigkeit jährlich gereinigt.
 §4 Ausführung der Reinigung
 (1) Die Fahrbahnen und Gehwege sind nach Maßgabe dieser Satzung, insbesondere des Straßenreinigungsverzeichnisses, zu reinigen.
 (2) Soweit die Reinigungspflicht dem/r Anlieger/in obliegt, ist die Reinigung von ihm/ihr nach Bedarf, mindestens jedoch einmal wöchentlich werktags bis spätestens samstags 19.00 Uhr, durchzuführen.
@@ -120,43 +118,41 @@ für Fahrbahnen von
 
 Anliegerstraßen
 
--A -
-
-96 %
-
-1.1.1 Anliegerstraßen mit besonderem Reinigungsaufwand
+1.1.1 ohne niveaugleichen Gehwegausbau
 
 -A -
 
-89 %
+98 %
 
-1.2
+1.1.2 mit niveaugleichem Gehwegausbau
 
-Hauptstraßen
+-A -
 
--H-
-
-59 %
-
-1.2.1 Hauptstraßen mit besonderem Reinigungsaufwand
-
--H-
-
-75 %
+88 %
 
 Seite 6 von 10
 
-2.
+1.2 1.2.1
+1.2.2
+2. 3.
 
+Hauptstraßen
+ohne niveaugleichen Gehwegausbau
+mit niveaugleichem Gehwegausbau
 für Gehwege
-
-3.
-
 für Fußgängergeschäftsstraßen
+
+-H-
+
+61,5 %
+
+-H-
+
+82 %
 
 -G- FG -
 
-85 % 98 %
+77 % 70 %
 
 (5) Im Sinne des Absatzes 4 gelten als
 1. Anliegerstraßen (Wohn- und Quartierstraßen): Straßen, die überwiegend der Erschließung der angrenzenden oder der durch private Zuwegung mit ihnen verbundenen Grundstücke dienen.
@@ -181,14 +177,27 @@ von Anliegerstraßen
 
 ohne niveaugleichen Gehwegausbau
 
-4,38 €
+4,58 €
 
-1.1.2 1.2 1.2.1 1.2.2
+1.1.2 1.2
 
-mit niveaugleichem Gehwegausbau von Hauptstraßen ohne niveaugleichen Gehwegausbau mit niveaugleichem Gehwegausbau
+mit niveaugleichem Gehwegausbau von Hauptstraßen
 
-10,46 €
-2,70 € 8,67 €
+10,94 €
+
+1.2.1
+
+ohne niveaugleichen Gehwegausbau
+
+2,83 €
+
+1.2.2
+
+mit niveaugleichem Gehwegausbau
+
+9,12 €
+
+Seite 7 von 10
 
 Fahrbahnen mit niveaugleichem Gehwegausbau sind Fahrbahnen, an denen kein abgegrenzter Gehweg vorhanden ist. Soweit Fahrbahnen von Straßen unter die Ziffern 1.1.2 und 1.2.2 fallen, sind sie in der als Anlage 2 beigefügten Aufstellung genannt. Diese Anlage ist Bestandteil der Satzung.
 
@@ -196,21 +205,21 @@ Fahrbahnen mit niveaugleichem Gehwegausbau sind Fahrbahnen, an denen kein abgegr
 
 Gehwegen
 
-6,47 €
+6,78 €
 
 3.
 
-Fußgängergeschäftsstraße / n
+Fußgängergeschäftsstraßen
 
-8,69 €
-
-Seite 7 von 10
+9,11 €
 
 (2) Erfolgt die wöchentliche Reinigung mehrfach, so vervielfachen sich die Gebühren entsprechend.
 §9 Gebührenschuldner, Anzeige- und Auskunftspflicht, Betretungsrecht
 (1) Gebührenschuldner/in ist der/die Eigentümer/in des erschlossenen Grundstücks. Mehrere Gebührenschuldner/innen sind Gesamtschuldner/innen.
-Grundstücksbezogene Benutzungsgebühren ruhen als öffentliche Last auf dem Grundstück. (2) Im Falle eines Eigentumswechsels ist der neue Eigentümer vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
+Grundstücksbezogene Benutzungsgebühren ruhen als öffentliche Last auf dem Grundstück.
+(2) Im Falle eines Eigentumswechsels ist der neue Eigentümer vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
 (3) Die Gebührenschuldner/innen haben alle für die Errechnung der Gebühren erforderlichen Auskünfte zu erteilen und zu dulden, dass Beauftragte der Stadt nach Vorlage eines dienstlichen Ausweises das Grundstück betreten, um Feststellungen zu treffen, die für die ordnungsgemäße Gebührenerhebung notwendig sind.
+
 § 10 Entstehung, Änderung, Fälligkeit und Vorauszahlung der Gebühr
 (1) Die Gebührenpflicht für die Straßenreinigung entsteht mit dem 1. des Monats, in dem die satzungsmäßige Reinigung der Straße begonnen wird. Sie erlischt mit dem Ende des Monats, in dem die satzungsmäßige Reinigung eingestellt wird.
 (2) Ändern sich die Grundlagen für die Berechnung der Gebühr, so mindert oder erhöht sich die Benutzungsgebühr vom 1. des Monats an, der der Änderung folgt.
@@ -219,11 +228,11 @@ a) Schwerpunktbildung zur Beseitigung von Laub und Blüten oder infolge von Veru
 b) unvorhersehbare Betriebsstörungen, durch Witterungseinflüsse (z.B. Sturm, Starkregen), oder durch andere zwingende Gründe,
 c) Straßenbauarbeiten,
 sofern die unter a) bis c) genannten Ausfälle einzeln oder gemeinsam einen zusammenhängenden Monat nicht überschreiten.
-Die Gebührenminderung oder -erstattung erfolgt für den Zeitraum, der den zusammenhängenden Monat überschreitet. Dabei werden angefangene Monate als volle Monate gerechnet. (4) Die Gebührenschuldner/innen erhalten über die zu entrichtenden Beträge einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann.
-Bei Wohnungseigentümern/innen können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den
 Seite 8 von 10
 
-Wohnungseigentümern/innen oder dem/der Verwalter/in, den die Wohnungseigentümer/innen nach dem Wohnungseigentumsgesetz bestellt haben, bekanntgegeben.
+Die Gebührenminderung oder -erstattung erfolgt für den Zeitraum, der den zusammenhängenden Monat überschreitet. Dabei werden angefangene Monate als volle Monate gerechnet.
+(4) Die Gebührenschuldner/innen erhalten über die zu entrichtenden Beträge einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann.
+Bei Wohnungseigentümern/innen können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den Wohnungseigentümern/innen oder dem/der Verwalter/in, den die Wohnungseigentümer/innen nach dem Wohnungseigentumsgesetz bestellt haben, bekanntgegeben.
 (5) Die Gebühren nach § 8 für ein Kalenderjahr werden am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen fällig. Die Stadt kann bestimmen, dass Kleinbeträge abweichend wie folgt fällig werden:
 Am 15. August mit dem Jahresbetrag, wenn dieser 15,- € nicht übersteigt, am 15. Februar und 15. August je zur Hälfte des Jahresbetrages, wenn dieser 30,- € nicht übersteigt.
 Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenschuldner/in zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlungen zu leisten.
@@ -236,283 +245,18 @@ Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenschuld
 1. vorgeschriebene oder übernommene Reinigungen nicht durchführt (§ 2 Abs. 1, § 4 Abs. 1 und 2),
 2. belästigende Staubentwicklung nicht verhindert (§ 4 Abs. 3 Satz 1),
 3. Kehricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2),
-4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, § 2 Abs. 2 Sätze 1 und 5),
-5. die Beendigung der Übernahme der Reinigung nicht anzeigt (§ 2 Abs. 3 Satz 4).
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500,- € geahndet werden.“
 Seite 9 von 10
 
-II. Inkrafttreten Diese Satzung tritt am 01. Januar 2019 in Kraft.
+4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, § 2 Abs. 2 Sätze 1 und 5),
+5. die Beendigung der Übernahme der Reinigung nicht anzeigt (§ 2 Abs. 3 Satz 4).
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500,- € geahndet werden.“ II.
+Inkrafttreten Diese Satzung tritt am 01. Januar 2020 in Kraft.
 Seite 10 von 10
 
-Anlage 1 zur Straßenreinigungssatzung 01.01.2019
+Anlage 1 zur Straßenreinigungssatzung 01.01.2020
 Straßenreinigungsverzeichnis gemäß § 3 Abs. 1 StrReinS
 
-Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2019
-Straße
-Am Malzbüchel
-An der Malzmühle
-Augustinerstr.
-Baumstr.
-Blaubach
-Brüderstr. Platzfläche
-Brügelmannstr. von Deutz-Mülheimer-Str. bis Messeparkplatz P22
-Cäcilienstr.
-Elogiusplatz
-Glockengasse von Kolumbastr. bis Tunisstr. von Tunisstr. bis Krebsgasse von Krebsgasse bis Hämergasse
-Heumarkt von Am Malzbüchel bis Am Leystapel vor Hausnr. 1 Busspur von Pipinstr. zu Am Malzbüchel vor Hausnr. 25 von Nr. 43 bis Seidmacherinnengäßchen ungerade
-Hausnummernseite Platzflächenseite von Unter Käster bis Salzgasse Platzflächenseite gerade Hausnummernseite von Salzgasse bis Markmannsgasse Platzflächenseite gerade Hausnummernseite Platzfläche
-Hühnergasse
-Krebsgasse von Schildergasse bis Brüderstr. von Brüderstr. bis Glockengasse
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-H
-
-7
-
-7
-
-H
-
-7
-
-7
-
-H
-
-7
-
-7
-
-A
-
-7
-
-7
-
-H
-
-6
-
-6
-
-A
-
-7
-
-7
-
-G
-
-13
-
-A
-
-1
-
-1
-
-H
-
-7
-
-7
-
-G
-
-7
-
-A
-
-11
-
-11
-
-A
-
-13
-
-13
-
-A
-
-11
-
-11
-
-H
-
-7
-
-7
-
-H
-
-7
-
-7
-
-H
-
-7
-
-H
-
-7
-
-H
-
-13
-
-13
-
-H
-
-13
-
-H
-
-13
-
-H
-
-13
-
-13
-
-H
-
-13
-
-H
-
-13
-
-13
-
-G
-
-13
-
-A
-
-7
-
-FG
-
-13
-
-H
-
-13
-
-13
-
-Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2019
-Straße
-Luxemburger Str. Barbarossaplatz bis Moselstr. von Moselstr. bis Luxemburger Wall
-Mühlenbach
-Offenbachplatz von Brüderstr./Streitzeuggasse bis Glockengasse Platzfläche
-Pipinstr. Platzfläche zwischen Hohe Str. und Große Sandkaul 3. Fahrbahn
-Tunisstr. untere Fahrbahn von An der Rechtschule bis Ursulastr. obere Fahrbahn von Offenbachplatz bis An der
-Rechtschule/Röhrergasse bis Ursulastr.
-Universitätsstr. von Bachemer Str. bis Aachener Str. (gerade
-Hausnummernseite)
-Wermelskircher Str. von Karlsruher Str. bis Messeparkplatz P22
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-H
-
-9
-
-9
-
-H
-
-7
-
-7
-
-A
-
-7
-
-7
-
-H
-
-7
-
-7
-
-H
-
-13
-
-H
-
-7
-
-7
-
-G
-
-7
-
-A
-
-7
-
-7
-
-H
-
-3
-
-H
-
-7
-
-7
-
-H
-
-5
-
-5
-
-H
-
-3
-
-3
-
-A
-
-1
-
-Bezirk: Rodenkirchen, Satzungsänderungen zum 01.01.2019
+Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2020
 Straße
 
 Straßen- Reinigungszuständigkeit/
@@ -527,949 +271,244 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Eygelshovener Str. von Sürther Str. bis Grundstücksanfang Nebeneingang Schule A von Sürther Str. bis Grundstücksanfang Nebeneingang Schule A
-(ungerade Hausnr.Seite)
-Parkplatz
-
-Gerhard-vom-Rath-Str.
-
-A
-
-Oberländer Ufer
-
-von Bayenthalgürtel bis Militärringstr.
-
-H
-
-von Bayenthalgürtel bis Militärringstr. unbebaute Seite
-
-H
-
-von Bayenthalgürtel bis Grundstücksanfang Hausnr. 194/200
-
-H
-
-von Grundstücksende Hausnr. 194/200 bis Militärringstr.
-
-H
-
-Oktavianstr.
-
-A
-
-Raderberger Str.
-
-von Marktstr. bis Wendeplatz
-
-A
-
-Verbindungsweg zur Kreuznacher Str.
-
-G
-
-Sinziger Str.
-
-von Bonner Str. bis Hausnr. 20
-
-A
-
-von Bonner Str. bis Hausnr. 20 (gerade Hausnr.Seite)
-
-A
-
-von Bonner Str. bis Ende Grundstück Hausnr. 19/21
-
-A
-
-(ungerade Hausnr.Seite)
-
-von Hausnr.20 bis Kreibohmstr.
-
-A
-
-Weidengasse
-
-von Weißer Hauptstr. bis Pflasterhofweg
-
-A
-
-von Pflasterhofweg bis Hausnr. 46
-
-1 1
-
-x
-
-2
-
-2
-
-2 2 2 2
-
-1
-
-1
-
-2
-
-2
-
-2
-
-2 2 2
-
-1
-
-1
-
-1
-
-x
-
-x
-
-Bezirk: Lindenthal, Satzungsänderungen zum 01.01.2019
-Straße
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Bert-Fenger-Str. von Salzburger Weg bis Tannenstr. von Salzburger Weg bis Tannenstr. (gerade Hausnr.Seite)
-
-A
-
-1
-
-A
-
-Eichenstr. von Tannenstr. bis Kiefernweg von Kiefernweg bis Salzburger Weg
-
-A
-
-1
-
-A
-
-1
-
-Emmy-Noether-Str.
-
-von Dürener Str. bis Badische Allee
-
-A
-
-1
-
-Stichstraße bis zur Grundstücksgrenze zum P+R Grundstück
-
-A
-
-1
-
-Eschenweg von Bert-Fenger-Str. bis Silberahornweg
-
-A
-
-1
-
-Kiefernweg von Eichenstr. bis Lärchenweg
-
-A
-
-1
-
-Lärchenweg von Bert-Fenger-Str. bis Kiefernweg
-
-A
-
-1
-
-Rotbuchenweg von Eichenstr. bis Ulmenweg
-
-A
-
-1
-
-Schinkelstr.
-
-A
-
-1
-
-Silberahornweg von Eichenstr. bis Eschenweg
-
-A
-
-1
-
-Tannenstr. von Bert-Fenger-Str. bis Eichenstr.
-
-A
-
-1
-
-Ulmenweg von Bert-Fenger-Str. bis Rotbuchenweg
-
-A
-
-1
-
-Universitätsstr. von Luxemburger Str. bis Stadtteilgrenze Sülz (beidseitig) von Stadtteilgrenze Sülz bis Bachemer Str. (beidseitig) bis Aachener Str. (ungerade Hausnummernseite) 3. Fahrbahn von Gottfried-Keller-Str. bis Aachener Str. 3. Fahrbahn von Gyrhofstr. bis Repgowstr. (beidseitig des
-Tunnels)
-
-H
-
-3
-
-H
-
-3
-
-H
-
-3
-
-H
-
-3
-
-H
-
-3
-
-1 1
-x x
-1
-3 3 3 3 3
-
-Bezirk: Lindenthal, Satzungsänderungen zum 01.01.2019
-Straße
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Vinzenzallee
-
-von Brauweilerstr. bis Hausnr. 28 und Seitenfront Hausnr. 25 H
-
-1
-
-x
-
-von Hausnr. 28 und Seitenfront Hausnr. 25 bis Hausnr. 49
-
-x
-
-Stichstraße bis Kölner Str. (Seitenfront Kölner Str. 56e)
-
-x
-
-Stichweg zwischen den Hausgrundstücken 48 und 50 bis
-
-x
-
-Grünanlage
-
-Vitalisstr. von Widdersdorfer Str. bis Wendelinstr. Stichstraße zu Nr. 318-324 (inkl. Wendehammer) Verbindungsweg zur neuen Führung Vitalisstr. mit
+Alter Markt
+von Kleine Budengasse bis Bechergasse
+Platzfläche von Bechergasse bis Unter Käster/Lintgasse
+von Nr. 2 bis Unter Käster
 Treppenanlage
 
 H
 
-2
+16
 
-2
-
-H
-
-1
-
-1
-
-G
-
-2
-
-Stichstraße zum Manstedter Weg zwischen Hausnr. 388-390
-
-H
-
-1
-
-1
-
-von Widdersdorfer Str. bis Girlitzweg
-
-H
-
-2
-
-2
-
-Bezirk: Ehrenfeld, Satzungsänderungen zum 01.01.2019
-Straße
-Mendelssohnstr.
-Silcherstr. von Äußere Kanalstr. bis Vitalisstr. von Vitalisstr. bis Ende Parkplatz
-Steubenstr. bis Hausnr. 15/16 Gehweg vor Hausnr. 17/18 Verbindungsweg zu den Häusern 19-23 und 20-24
-Vastersstr. Verbindungsweg zur Äußeren Kanalstr.
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-A
-
-3
-
-3
-
-A
-
-3
-
-A
-
-1
-
-A
-
-1
-
-A
-
-3
-
-A
-
-A
-
-1
-
-A
-
-3 1
-3 3
-x
-1 1
-
-Bezirk: Nippes, Satzungsänderungen zum 01.01.2019
-Straße
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Longericher Str.
-
-von Parkgürtel bis Am Bilderstöckchen
-
-H
-
-von Am Bilderstöckchen bis Robert-Perthel-Str.
-
-H
-
-von Robert-Pertel-Str. bis Etzelstr.
-
-H
-
-von Etzelstr. bis Militärringstr.
-
-H
-
-Unterführung zur Etzelstr.
-
-H
-
-Wohnwege
-
-Zufahrt zu Nr. 175
-
-Sackgasse bis Nr. 239
-
-A
-
-Stichstraße zu Nr. 223-235
-
-A
-
-Mauenheimer Gürtel
-
-H
-
-Verbindungsstraßen zur Kempener Str.
-
-H
-
-höhergelegene Fußwege zur S-Bahn von Longericher
-
-G
-
-Str./Geldernstr. bis Kempener Str.
-
-Niehler Kirchweg
-
-von Mauenheimer Str. bis Neusser Str.
-
-H
-
-Parkplatz gegenüber Hausnr. 39
-
-A
-
-von Neusser Str. bis Nordseite Stadtbahnunterführung
-
-H
-
-von Nordseite Stadtbahnunterführung bis Friedrich-Karl-Str.
-
-H
-
-von Friedrich-Karl-Str. bis Niehler Str.
-
-H
-
-Trifelsstr.
-
-A
-
-2
-
-2
-
-1
-
-x
-
-1
-
-1
-
-1
-
-x
-
-1
-
-1
-
-x
-
-x
-
-x
-
-1
-
-1
-
-1
-
-1
-
-2
-
-2
-
-3
-
-x
-
-3
-
-1
-
-x
-
-1
-
-2
-
-2
-
-2
-
-2
-
-1
-
-1
-
-1
-
-1
-
-Bezirk: Chorweiler, Satzungsänderungen zum 01.01.2019
-Straße
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Bitterstr.
-
-von Hackhauser Weg bis An den Kaulen
-
-A
-
-1
-
-x
-
-von An den Kaulen bis Dornstr.
-
-A
-
-1
-
-x
-
-Stichstraße zu Nr. 14
-
-x
-
-x
-
-Verbindungsweg zwischen Bitterstr. und Hackenbroicher Str.
-
-x
-
-Verbindungsweg zwischen Nr. 17 und 19 zur Holtestr.
-
-x
-
-Elvira-Tuszik-Str von Straberger Weg bis Nr. 12 und gegenüber von Nr. 12 und gegenüber bis Ende
-
-x
-
-x
-
-x
-
-Geranienweg
-
-von Oranjehofstr. bis einschl. Wendehammer
-
-A
-
-1
-
-x
-
-Wohnwege zu Nr. 3-9, 12-17, 20-25
-
-x
-
-Holtestr.
-
-A
-
-1
-
-x
-
-Otto-Müller-Str. von Donatusstr. bis Donatusstr.
-Verbindungsweg zwischen Otto-Müller-Str. 15 und 17 zur Offenbachstr.
-
-x
-
-x
-
-x
-
-Bezirk: Porz, Satzungsänderungen zum 01.01.2019
-Straße
-
-Straßen- Reinigungszuständigkeit/
-
-art
-
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Brüsseler Str.
-Gehweg gerade Hausnummern-Seite von Nr. 2 bis Nr. 16 einschließlich
-
-A
-
-2
-
-A
-
-Gehweg gerade Hausnummern-Seite bis Lütticher Str.
-
-Gehweg gerade Hausnummern-Seite bis Konrad-Adenauer-
-
-A
-
-Str.
-
-Gehweg ungerade Hausnummern-Seite von Konrad-
-
-Adenauer-Str. bis einschließlich Hausnr. 159
-
-Gehweg ungerade Hausnummern-Seite bis Konrad-Adenauer- A Str.
-
-Wohnwege von Nr. 18-22, 24-26, 44-76, 1-41, 47-61, 63-69, 73-87, 89-97, 113-123
-
-2
-x 2
-x 2
-x
-
-Forsbachstr.
-
-von Am Leuschhof bis Wendekreis
-
-4 Wohnwege zu Nr. 1-3, 5-7, 9-11, 13-15
-
-Stichstraße zu den Häusern Nr. 2-10
-
-Verbindungsweg zur Pappelallee
-
-Verbindungsweg zur Frankfurter Str. bis Treppe
-
-Treppe und Rampe am Verbindungsweg zur Frankfurter Str.
-
-A
-
-Verbindungsweg zur Frankfurter Str. ab Treppe bis Frankfurter Str.
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-1
-
-x
-
-x
-
-Heinrich-Klein-Str. Parkplatz an der Lülsdorfer Str.
-
-x
-
-x
-
-A
-
-1
-
-Humboldtstr. von Kaiserstr. bis Leostr./Kasparstr. von Leostr./Kasparstr. bis Steinstr. Verbindungswege zur Kasparstr.
-
-H
-
-1
-
-1
-
-H
-
-1
-
-1
-
-G
-
-1
-
-Jungbergerstr.
-Kasparstr. bis Hausnr. 84/Wohnweg Amsterdamer Str. 43-53 Wohnweg zu Nr. 51-65 von Hausnr. 86/Wohnweg Amsterdamer Str. 43-53 bis
-Wendehammer Verbindungsweg zur Bergerstr.
-
-x
-
-x
-
-x
-
-x
-
-A
-
-1
-
-1
-
-A
-
-1
-
-Konrad-Adenauer-Str.
-
-von Humboldtstr. bis Wendehammer Fahrbahn
-
-H
-
-2
-
-2
-
-Gehweg entlang Hausnr. 15-17 und seitlich Hausnr. 22
-
-G
-
-2
-
-von Nr. 29/Brüsseler Str. bis Theodor-Heuss-Str.
-
-H
-
-2
-
-2
-
-Fußgängerzone
+16
 
 FG
 
-6
+16
 
-Verbindungsweg zu Nr. 32
+H
+
+16
+
+16
 
 G
 
-2
+16
 
-Bezirk: Porz, Satzungsänderungen zum 01.01.2019
-Straße
+Augustinerplatz
 
-Straßen- Reinigungszuständigkeit/
+G
 
-art
+7
 
-Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Kurt-Schumacher-Str. von Humboldstr. bis Nr. 23/Johannesstr. von Nr. 23/Johannesstr. ca. 25 m langes Teilstück Verbindungsstraße von Kurt-Schumacher-Str. bis Garagen Verbindungsweg von Garagen bis Bunsenstr.
-
-A
-
-1
-
-x
-
-x
-
-x
-
-A
-
-1
-
-A
-
-1
-
-Max-Glomsda-Str. von Rolshover Str. bis Max-Glomsda-Str. 4 gerade
-Hausnummernseite
-von Max-Glomsda-Str. 4 bis Am Grauen Stein gerade Hausnummernseite
-von Rolshover Str. bis Am Grauen Stein ungerade Hausnummernseite
-südliche Abzweigung der Max-Glomsda-Str.
+Bechergasse
+von Große Neugasse/Am Hof bis Alter Markt/Mühlengasse
 
 H
 
-1
+16
 
-H
+16
 
-1
+Brüsseler Platz
 
-H
-
-1
+von Moltkestr. bis Brüsseler Str. (außer Platzfläche)
 
 A
 
-1
+7
 
-x 1 1
-x
-
-Ranzeler Str.
-
-von Hauptstr. bis Schmittgasse
-
-H
-
-1
-
-x
-
-Parkplatz zwischen den Häusern Ranzeler Str. 18 und 20
-
-x
-
-x
-
-Siebengebirgsallee Stichstraße zu den Häusern Nr. 47-57 Wohnwege entlang den Hausnrn. 3-3d und 5-5c
+von Neue Maastrichter Str. bis Moltkestr. (außer
 
 A
 
-1
+7
 
-x
+Platzfläche)
 
-x
+von Maastrichter Str. bis Brüsseler Str.
 
-x
+A
 
-Bezirk: Kalk, Satzungsänderungen zum 01.01.2019
-Straße
+7
 
-Straßen- Reinigungszuständigkeit/
+7
 
-art
+von Maastrichter Str. bis Neue Maastrichter Str.
 
-Reinigungshäufigkeit
+A
 
-Fahrbahn
+7
 
-Gehweg
+7
 
-Stadt Anlieger Stadt Anlieger
+Platzfläche rund um die Kirche
 
-Kalk-Mülheimer Str.
+G
 
-von Kalker Hauptstr. bis Peter-Stühlen-Str.
+7
+
+Parkplätze vor der Kirche mit Verbindungsweg
+
+A
+
+7
+
+7
+
+Ebertplatz Platzfläche
 
 H
 
 7
 
-von Peter-Stühlen-Str. bis Wipperfürther Str.
+7
 
 H
 
-6
+13
 
-von Wipperführter Str. bis Zoobrücke
+Friesenplatz Platzfläche
 
 H
 
-2
+16
 
-Zufahrt zum Parkplatz neben Nr. 14
+16
+
+H
+
+16
+
+Gülichplatz Platzfläche
+
+A
+
+7
+
+7
+
+A
+
+7
+
+Hohe Pforte
+
+H
+
+7
+
+7
+
+Kurt-Rossa-Platz
+
+G
+
+7
+
+Laurenzplatz
+
+A
+
+7
+
+Marsplatz
+
+A
+
+9
+
+9
+
+Mühlenbach
+
+H
+
+7
+
+7
+
+Pipinstr. 3. Fahrbahn
+
+H
+
+7
+
+7
+
+A
+
+7
+
+7
+
+Rudolfplatz Platzfläche
+
+H
+
+16
+
+16
+
+H
+
+16
+
+Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2020
+Straße
+Salomonsgasse von Hohe Str. bis Marspfortengasse von Marspfortengasse bis Laurenzplatz
+Seidmacherinnengäßchen Platzfläche
+Steinfelder Gasse Unter Käster Unter Taschenmacher
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+FG
+
+13
+
+A
+
+7
+
+7
+
+A
+
+9
+
+9
+
+G
+
+9
 
 A
 
 3
 
-Verbindungsweg entlang der Stadtautobahn (südliche Seite) von Kalk-Mülheimer Str. bis Solinger Str.
-
-Fußweg entlang der Stadtautobahn (nördliche Seite) von Kalk-Mülheimer Str. bis Waldecker Str.
-
-Stichstraße neben Hausnr. 216 Parkplatz Höhe Hausnr. 216
-
-A
-
-2
-
-A
-
-2
-
-Rösrather Str. von Frankfurter Str. bis Servatiusstr.
+3
 
 H
 
-2
-
-von Servatiusstr. bis Neubrücker Ring
-
-H
-
-2
-
-Verbindungsweg zwischen Nr. 178/180 und KVB-Haltestelle G Autobahn
-
-von Neubrücker Ring bis Rather Mauspfad
-
-H
-
-2
-
-Verbindungswege
-
-Weismantelweg von Hermann-Hesse-Weg bis Hausrnr. 16 von Hausnr. 16 bis An St. Adelheid Wohn- und Verbindungswege Verbindungsstraße zwischen Nr. 5 und Nr. 7
-
-A FG
+16
 
 A
 
-1
+13
 
-7 6 2 3
-x
-x
-2 2
-2 x
-1
-x x
-1 3
-x 1
-
-Bezirk: Mülheim, Satzungsänderungen zum 01.01.2019
+Bezirk: Rodenkirchen, Satzungsänderungen zum 01.01.2020
 Straße
 
 Straßen- Reinigungszuständigkeit/
@@ -1484,7 +523,797 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Juliusstr. Verbindungsweg zur Gaußstr.
+Breniger Str. von Vorgebirgsstr. bis Bornheimer Str. Stichstr. entlang den Hausnr. 14-16 Stichstr. zwischen den Hausnr. 7-9
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+Dominikus-Böhm-Str. von Heinrich-Erpenbach-Str. bis Wendeplatz Stichweg entlang der Hausgrundstücke Dominikus-
+Böhm-Str. 1 bis Heinrich-Erpenbach-Str. 80
+Stichweg entlang der Hausgrundstücke DominikusBöhm-Str. 25 bis Heinrich-Erpenbach-Str. 102
+Verbindungsweg zwischen den Hausgrundstücken Dominikus-Böhm-Str. 2 bis 24 und davon abgehend zur Elisabeth-Selbert-Str.
+
+x x
+x
+x
+
+Fritz-Hecker-Str.
+
+von Marienhof bis Leichweg/Landskronstr.
+
+A
+
+Von Leichweg/Landskronstr. bis Sportplatzende
+
+A
+
+von Marienhof bis Ausbauende vor dem Grundstück Fritz-Hecker-Str. 66
+
+Helene-Wessel-Str. von Heinricht-Erpenbach-Str. bis Wendeplatz
+Jean-Kübbeler-Str. von Bahnhofstr. bis Wendebereich Verbindungsweg von Wendeanlage bis Seniorenweg
+Peter-Koep-Str. Wegeverbindung von Peter-Koep-Str. bis Falderstr von Johann--Reintgen-Str. u-förmig verlaufend und an
+der Johann-Reintgen-Str. endend
+
+Petersbergstr. von Trenkebergstr. bis Wendeplatz Verbindungswege zur Zaunhof- und Kettelerstr. Wohnweg zu Nr. 24-32 Wohnweg zu Nr. 36-38a
+
+1
+
+1
+
+1
+
+1
+
+x
+
+x
+x x
+x x x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Bezirk: Lindenthal, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Burgenlandweg Verbindungsweg zum Verbindungsweg zum
+Donauweg
+Donauweg Verbindungsweg zum Donauweg
+
+A
+
+1
+
+G
+
+A
+
+1
+
+A
+
+x 1
+x 1
+
+Eichenweg Wohnwege
+
+A
+
+1
+
+x
+
+x
+
+Eschenweg
+
+von Bert-Fenger-Str. bis Silberahornweg
+
+x
+
+Haselbergstr. von Aachener Str. bis Woensamstr. 3.Fahrbahn
+
+A
+
+2
+
+2
+
+x
+
+Kiefernweg
+
+von Eichenstr. bis Lärchenweg
+
+x
+
+Kirchenhof von Alter Militärring bis Wendehammer Parkplatz Gehweg zur Fußgängerbrücke
+
+A
+
+1
+
+A
+
+1
+
+1 x
+
+Lärchenweg
+
+von Bert-Fenger-Str. bis Kiefernweg
+
+x
+
+Remigiusstr.
+
+von Lotharstr. bis Arnulfstr.
+
+A
+
+3
+
+3
+
+von Arnulfstr. bis Wendehammer bei Hausnr. 16
+
+A
+
+3
+
+3
+
+Fußweg zur Universitätsstr.
+
+G
+
+1
+
+Rotbuchenweg
+
+von Eichenstr. bis Ulmenweg
+
+x
+
+Salzburger Weg
+
+A
+
+Verbindungsweg neben dem Salzburger Weg Hausnr.
+
+G
+
+8 zum Verbindungsweg zum Burgenlandweg
+
+Parkplätze
+
+1
+
+1
+
+1
+
+x
+
+Silberahornweg
+
+von Eichenstr. bis Eschenweg
+
+x
+
+Ulmenweg
+
+von Bert-Fenger-Str. bis Rotbuchenweg
+
+x
+
+Bezirk: Lindenthal, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Widdersdorfer Str.
+
+ungerade Hausnummernseite von Bahnüberführung
+
+A
+
+2
+
+2
+
+bis Hausnr. 429
+
+gerade Hausnummernseite von Bahnüberführung bis
+
+A
+
+2
+
+2
+
+Unterführung zum Girlitzweg
+
+gerade Hausnummernseite von Unterführung zum Girlitzweg bis gegenüber Hausnr. 429
+
+A
+
+2
+
+Unterführung von Girlitzweg linke Seite Unterführung von Girlitzweg rechte Seite
+
+A
+
+2
+
+A
+
+2
+
+2
+
+Zum Dammfelde
+
+von Hauptstr. bis Nr. 55 Ecke Fliederweg/Buchenweg
+
+A
+
+1
+
+x
+
+Wohnweg zu Nr. 45-53
+
+x
+
+von Fliederweg/Buchenweg bis Ende
+
+x
+
+Bezirk: Ehrenfeld, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Grüner Weg Stichstraße zum Melatengürtel
+
+A
+
+3
+
+3
+
+A
+
+1
+
+1
+
+Mathias-Brüggen-Str. von Venloer Str. bis Stadtteilgrenze Bickendorf von Stadtteilgrenze Bickendorf bis Hugo-Eckener-Str. Stichstraße neben Nr. 20 Stichstraße zwischen Nr. 7 und Nr. 9 von Hugo-Eckener-Str bis Militärringstr.
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+1 1 1
+x 1
+
+Philippstr.
+
+A
+
+5
+
+5
+
+Vogelsanger Str.
+
+von Innere Kanalstr. bis Ehrenfeldgürtel
+
+H
+
+5
+
+von Ehrenfeldgürtel bis Oskar-Jäger-Str.
+
+H
+
+6
+
+von Oskar-Jäger-Str. bis Äußere Kanalstr.
+
+H
+
+3
+
+von Äußere Kanalstr. bis Vitalisstr.
+
+H
+
+3
+
+von Vitalisstr. bis Nr. 358/404
+
+H
+
+2
+
+von Nr. 358/404 bis Wilhelm-Mauser-Str.
+
+H
+
+2
+
+von Wilhelm-Mauser-Str. bis Gelbspötterweg
+
+H
+
+1
+
+von Gelbspötterweg bis Goldammerweg
+
+H
+
+1
+
+von Goldammerweg bis Vogelsanger Str. 545 und gegenüber
+
+A
+
+1
+
+Verbindungsweg zum Sperlingsweg
+
+5 6 3 3 2
+x x x x
+
+Bezirk: Nippes, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Am Molenkopf Parkplatz Ecke Niederländer Ufer
+
+A
+
+2
+
+x
+
+A
+
+1
+
+Frankenthaler Str.
+
+von Schiefersburger Weg bis Ludwigshafer Str.
+
+A
+
+1
+
+x
+
+Schiefersburger Weg
+
+von Longericher Str. bis Escher Str.
+
+A
+
+Stichstraße zwischen Nr. 35 und Nr. 37 zur Ravensburger Str. A
+
+Stichstraße von Nr. 81-95
+
+Fußweg zur Longericher Str.
+
+3
+
+3
+
+1
+
+x
+
+x
+
+x
+
+x
+
+Schmiedegasse
+
+von Neusser Str. bis Merheimer Str./Jesuitengasse
+
+A
+
+1
+
+von Merheimer Str./Jesuitengasse bis Nr. 58 und gegenüber
+
+A
+
+1
+
+von Nr. 58 bis Einmündung Balmungweg
+
+A
+
+1
+
+gegenüberliegende Seite
+
+A
+
+1
+
+von Balmungweg bis Etzelstr.
+
+A
+
+1
+
+1 x x
+x
+
+Bezirk: Chorweiler, Satzungsänderungen zum 01.01.2020
+Straße
+Alte Neusser Landstr. von Am Tekelkamp/Senfweg bis Langeler Weg und
+gegenüber bis Neusser Landstr.
+Auweilerweg von Pescher Str. bis Erlenweg/Hahnenweg gerade Hausnummernseite bis Stichstr. zu Nr. 54;58-62 ungerade Hausnummernseite bis einschl. Rückfront
+Akazienstr. 10 ca. 110m langes Straßenteilstück sowie ein hiervon
+abgehendes ca. 40m langes Teilstück zu den Häusern 58-62
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+H
+
+1
+
+H
+
+1
+
+1 x
+
+H
+
+1
+
+x
+
+H
+
+1
+
+x
+
+H
+
+1
+
+x
+
+x
+
+x
+
+Diemelweg
+
+Verbindungsweg ab Platzfläche Saalestr. 16a bis zum
+
+x
+
+Kinderspielplatz
+
+Verbindungsweg von Kinderspielplatz (zwischen Diemelweg
+
+x
+
+17/19) bis zur Moldaustr.
+
+von Kinderspielplatz bis zum Beginn der Platzfläche
+
+x
+
+Weserplatz einschl. der abgehenden Stichwege zur Saale- und
+
+zur Moldaustr.
+
+Elvira-Tuszik-Str von Straberger Weg bis Nr. 12 und gegenüber von Nr. 12 und gegenüber bis Ende Verbindungsweg zwischen Nr. 16 und 18
+
+x
+
+x
+
+x
+
+x
+
+Gottfried-Mock-Str. von Straberger Weg bis Nr. 11 und gegenüber von Nr. 11 und gegenüber bis Ende
+
+x
+
+x
+
+x
+
+Kasselberger Weg bis Wendeplatz
+Verbindungsweg zum Wendeplatz entlang Nr. 100-122 Verbindungsweg zum Feldkasseler Weg zwischen Nr. 110 und Nr. 112
+
+x
+
+x
+
+x
+
+x
+
+Parkplatz im Bereich der Grünanlage südlich von Nr. 122 Parkplatz neben Nr. 100
+
+x
+
+A
+
+1
+
+Martinusstr.
+
+von Chorbuschstr. bis Auweilerstr.
+
+A
+
+1
+
+x
+
+von Amselweg bis südwestlich der Zufahrt zur
+
+A
+
+1
+
+x
+
+Sportplatzanlage (Abpollerung)
+
+Wohnwege zu Nr. 22-26, 23-37, 39-49, 53-61
+
+x
+
+Musikgasse
+
+x
+
+Bezirk: Chorweiler, Satzungsänderungen zum 01.01.2020
+Straße
+Rotmilanweg
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+x
+
+Saalestr.
+
+Stichweg zwischen Elbeallee und Saalestr. einschl.
+
+x
+
+Platzfläche und Fußgängerbrücke über die Elbeallee (mit Rampe
+
+und Treppe)
+
+Weserplatz
+
+gesamte Platzfläche
+
+G
+
+Platzfläche in Höhe von Weserplatz 17 und gegenüber Saalestr. 40 bis hinter Saalestr. 50 einschl. des Stichweges zur Moldaustr.
+
+6 x
+
+Bezirk: Porz, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Bielefelder Str. von Bonner Str. bis Duisburger Str.
+
+A
+
+1
+
+x
+
+Freiheit von Pastor-Huthmacher-Str. bis Kuxgasse von Kuxgasse bis Wildpfad
+
+x
+
+x
+
+x
+
+Kurt-Schumacher-Str. von Humboldtstr. bis Nr. 23/Johannesstr. von Nr. 23/Johannesstr. bis Ende Verbindungsstraße von Kurt-Schumacher-Str. bis Garagen Verbindungsweg von Garagen bis Bunsenstr.
+
+A
+
+1
+
+x
+
+x
+
+x
+
+A
+
+1
+
+A
+
+1
+
+Linder Weg von Heidestr. bis einschl. Hausnr. 2 von Hausnr. 4 bis Scheuermühlenstr. von Scheuermühlenstr. bis Nibelungenstr. von Nibelungenstr. bis Viehtrift Fußweg zur Guntherstr.
+Reinholdstr. Verbindungsstraße zu Nr. 15-19
+
+x
+
+x
+
+x
+
+H
+
+1
+
+x
+
+H
+
+1
+
+x
+
+x
+
+A
+
+1
+
+x
+
+x
+
+Bezirk: Kalk, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Am Narzissenhof von In der Konde bis Bahnstr.
+
+x
+
+x
+
+Erna-Scheffler-Str. von Straße des 17.Juni bis einschl. Wendeanlage von Wendeanlage bis zur Gummersbacher Str.
 
 A
 
@@ -1496,841 +1325,326 @@ G
 
 2
 
-Karl-Droll-Weg
+Hermann-Hesse-Weg
 
-Weg von Steylerstr. bis Grundstück der Kleingartenanlage
+von Europaring bis Hausnr. 1a
+
+Verbindungsweg seitlich entlang Hausnr. 1a
+
+Verbindungsweg von Hausnr. 1m bis Ende der Garagen
+
+Platzfläche vor den Hausnr. 1f bis 1l
 
 G
 
-2
+von Platzfläche vor den Hausnr. 1f bis 1l bis Platzfläche vor
 
-Regentenstr.
+G
+
+den Hausnr. 24-26 und 27
+
+Platzfläche vor den Hausnr. 24-26 und 27
+
+G
+
+von Platzfläche vor den Hausnr. 24-26 und 27 bis Heinrich-
+
+G
+
+Lersch-Str.
+
+2 Verbindungswege zum Ludwig-Quidde-Platz
+
+G
+
+x x x 1 1
+1 1
+1
+
+Waldstr. von Ostheimer Str. bis Plantagenstr. von Plantagenstr. bis Hinter dem Hessgarten von Hinter dem Hessgarten bis Kampgasse gerade
+Hausnummernseite
+von Hinter dem Hessgarten bis Kampgasse ungerade Hausnummernseite
+von Kampgasse bis Ende Stichstr. von Hausnr. 25-41 Stichstr. von Hausnr. 43-55 Zufahrt zu Nr. 58/60
 
 A
 
-3
+2
 
-3
+A
 
-Anlage 2 zur Straßenreinigungssatzung 01.01.2019
+2
 
-Ergänzung zur Aufstellung der Straßen für die Fahrbahnen mit niveaugleichem Gehwegausbau § 8 Abs. 1 Ziffer 1.1.2 und 1.2.2 der Straßenreinigungssatzung
+2
+
+A
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+x
+
+x
+
+Bezirk: Mülheim, Satzungsänderungen zum 01.01.2020
+Straße
+
+Straßen- Reinigungszuständigkeit/
+
+art
+
+Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Am Flachsrosterweg
+
+von Berliner Str. bis Bahnüberführung
+
+H
+
+1
+
+x
+
+2. Fahrbahn von Auffahrt Bahnüberführung bis Von-Ketteler- H
+
+1
+
+x
+
+Str.
+
+Wohnwege zu Nr. 4-12, 14-18, 20-34, 36-56, 58-72
+
+x
+
+An der Kemperwiese bis Nr. 5 bis Ende Stichstraße zu Nr. 4-8 Parkplatz
+
+A
+
+1
+
+1
+
+x
+
+x
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+Damaschkestr. von Kaspar-Düppes-Str. bis Hausnr. 2 von Hausnr. 2 bis Ende
+
+A
+
+1
+
+x
+
+x
+
+Mülheimer Ufer
+
+von Platzfläche bis Kirchstr.
+
+A
+
+1
+
+bis Münzstr.
+
+A
+
+1
+
+von Peter-Müller-Str. bis Krahnenstr.
+
+A
+
+1
+
+von Hafenstr. 25 ca. 290m in nörtliche Richtung einschl. der
+
+G
+
+1
+
+beiden Wegeverbindungen zur Hafenstr. bzw. Deutz-
+
+Mülheimer-Str.
+
+Seidenstr.
+
+von Wallstr. bis Adamstr. gerade Hausnummernseite
+
+A
+
+2
+
+von Wallstr. bis Adamstr. ungerade Hausnummernseite
+
+A
+
+2
+
+2
+
+von Adamstr. bis Clevischer Ring
+
+A
+
+2
+
+2
+
+Siebenschönweg
+
+von Drosselbartstr. bis Stichstr. Hausnr. 7 bis Hausnr. 11a
+
+A
+
+1
+
+1
+
+Stichstr. Hausnr. 7 bis Hausnr. 11a
+
+A
+
+1
+
+1
+
+von Stichstr. Hausnr. 7 bis Hausnr. 11a bis Ende rechte Seite
+
+A
+
+1
+
+1
+
+von Stichstr. Hausnr. 7 bis Hausnr. 11a bis Ende linke Seite
+
+A
+
+1
+
+Fußweg von Hausnr. 11a bis Bechsteinstr.
+
+G
+
+1
+
+Anlage 2 zur Straßenreinigungssatzung 01.01.2020
+
+Änderung zur Aufstellung der Straßen für die Fahrbahnen mit niveaugleichem Gehwegausbau § 8 Abs. 1 Ziffer 1.1.2 und 1.2.2 der Straßenreinigungssatzung
 
 Stadtbezirk
 
 Straßenbezeichnung
 
-Änderungen: 3 3 3 3 3 3 3 3
+Änderungen: 3 3 3 3 3 3
 
-Eichenstr. von Tannenstr. bis Kiefernweg
 Eschenweg von Bert-Fenger-Str. bis Silberahornweg
 Kiefernweg von Eichenstr. bis Lärchenweg
 Lärchenweg von Bert-Fenger-Str. bis Kiefernweg
 Rotbuchenweg von Eichenstr. bis Ulmenweg
 Silberahornweg von Eichenstr. bis Eschenweg
-Tannenstr. von Bert-Fenger-Str. bis Eichenstr.
 Ulmenweg von Bert-Fenger-Str. bis Rotbuchenweg
 
-Anlage 3 zur Straßenreinigungssatzung 01.01.2019
+Anlage 3 zur Straßenreinigungssatzung 01.01.2020
 Aufstellung der Mittelalleen mit erhöhtem Reinigungsaufwand gemäß § 3 Abs. 3 Satz 2 der Straßenreinigungssatzung
 keine Änderungen
 
-zur Straßereinigungssatzung 01.01.2019
+Anlage 4 zur Straßenreinigungssatzung 01.01.2020
+Änderung zur Aufstellung der Bereiche des zu reinigenden Straßenbegleitgrüns gemäß § 3 Abs. 4 der Straßenreinigungssatzung
 
-Aufstellung der Bereiche des zu reinigenden Straßenbegleitgrüns
-
-Bezirk 1 1 1 1 1
-1 1 1
-1 1 1 1 1 1 1 1
-1 1 1 1
-
-Straßenbezeichnung Agrippinaufer von Ubierring bis Südbrücke (Mittelstreifen) Am Bayenturm von Ubierring bis Bayenstr. (Seitenstreifen einseitig und Mittelstreifen) Am Kümpchenshof von Hansaring bis Kyotostr. (Mittelstreifen) Am Leystapel von Große Witschgasse bis Rheinufertunnel (Mittelstreifen) Bayenstr. von Severinswall bis Mechtildisstr. (Seitenstreifen einseitig und Mittelstreifen) Blaubach von Perlengraben bis Waidmarkt (Mittelstreifen) Cäcilienstr. von Neumarkt bis Hohe Str. (Mittelstreifen entlang den Gleisen) Deutz-Mülheimer-Str. von Messekreisel bis Barmer Str. (Seitenstreifen beidseitig und Mittelstrifen entlang den Gleisen) Elsa-Brandström-Str. von Konrad-Adenauer-Ufer bis Riehler Str. (Mittelstreifen) Erftstr. von Hermann-Becker-Str. bis Venloer Wall (Mittelstreifen) Hansaring von Ebertplatz bis Hermann-Becker-Str. (Mittelstreifen beidseitig) Holzmarkt von Mechtildisstr. bis Große Witschgasse (Mittelstreifen) Im Hasental von Siegburger Str. bis Alter Mühlenweg (Mittelstreifen) Innere Kanalstr. von Aachener Str. bis Eisstadion (Mittelstreifen) Kaltenbornweg von Siegburger Str. bis Dr.-Simon-Str. (Seitenstreifen und Mittelstreifen) Konrad-Adenauer-Ufer von Rheinufertunnel bis Zoobrücke (Seitenstreifen einseitig und Mittelstreifen) Kyotostr. von Am Kümpchenshof bis Victoriastr. (Mittelstreifen) Moltkestr. von Aachenerstr. bis Jülicher Str. (Mittelstreifen) Neuer Weyerstr. von Friedrichstr. bis Pantaleonsswall (Seitenstreifen und Mittelstreifen) Neuköllner Str. von Blaubach bis Unterführung/Cäcilienstr. (Mittelstreifen)
-
-Anlage 4
-Reinigungshäufigkeit
-12 6
-12 6 6
-12 6
-12
-6 12
-6 6 12 6 6 6
-12 6
-12 12
-
-Bezirk Straßenbezeichnung 1 Neusser Str. von Weißenburgstr. bis Kempener Str. (Mittelstreifen)
-1 Perlengraben von Mengelbergstr. bis Blaubach (Mittelstreifen)
-1 Rothgerberbach von Perlengraben bis Am Weidenbach (Mittelstreifen)
-1 Sachsenring von Eifelstr. bis Höhe Metzer Str. (Mittelstreifen entlang den Gleisen)
-1 Salierring von Trierer Str. bis Eifelstr. (Mittelstreifen beidseitig entlang den Gleisen)
-1 Tel-Aviv-Str. von Blaubach bis Ulrichgasse (Mittelstreifen)
-1 Trierer Str./ Pfälzer Str. von Luxemburger Str. bis Salierring (Mittelstreifen einseitig entlang den Gleisen)
-1 Tunisstr. (Obere Führung) von Komödienstr. bis Rundschauhaus (Mittelstreifen)
-1 Tunisstr. von Brüderstr. bis Unterführung WDR (Mittelstreifen)
-1 Turiner Str. von Maximinenstr. bis Ebertplatz (Mittelstreifen)
-1 Ubierring von Chlodwigplatz bis Agrippinaufer (Mittelstreifen entlang den Gleisen)
-1 Ulrichgasse von Tel-Aviv-Str./Ankerstr. bis Sachsenring (Mittelstreifen)
-1 Ursulastr. von Auf dem Hunnenrücken bis Unterführung (Mittelstreifen)
-1 Venloer Str. von Hans-Böckler-Platz bis Innere Kanalstr. (Seitenstreifen beidseitig)
-1 Victoriastr. von Kyotostr. bis Ursulastr. (Mittelstreifen)
-1 Vorgebirgsstr. von Salierring bis Lothringer Str. (Mittelstreifen)
-1 Zeughausstr. von Mohrenstr. bis Friesenstr. (Mittelstreifen)
-2 Gustav-Heinemann-Ufer von Südbrücke bis Bayenthalgürtel (Seitenstreifen einseitig und Mittelstreifen)
-2 Raderberggürtel von Bonner Str. bis Brühler Str. (Seitenstreifen beidseitig und Mittelstreifen)
-2 Raderthalgürtel von Brühler Str. bis Vorgebirgstr. (Seitenstreifen beidseitig und Mittelstreifen)
-2 Zollstockgürtel von Vorgebirgstr. bis DB-Unterführung (Seitenstreifen beidseitig und Mittelstreifen)
-
-Reinigungshäufigkeit
-12 12 12 12 12 12
-6
-12 12 12
-6 12 12 12 12
-6 12 12
-6
-6
-6
-
-Bezirk Straßenbezeichnung
-
-Reinigungshäufigkeit
-
-3 Aachener Str.
-
-12
-
-von Richard-Wagner-Str. bis Haselbergstr. (Mittelstreifen entlang den
-
-Gleisen)
-
-von Brucknerstr. bis Militärringstr. (Mittelstreifen)
-
-von Militärringstr. bis Kirchweg (Mittelstreifen)
-
-von Kirchweg bis Breslauer Str. (Seitenstreifen beidseitig und Mittelstreifen mit
-
-Verkehrsinsel)
-
-von Friedhof Weiden bis Bonnstr. (Seitenstreifen beidseitig und Mittelstreifen
-
-mit Verkehrsinsel)
-
-3 Alte Klosterstr.
-
-6
-
-von Am Weidenpesch bis Ginsterweg (Seitenstreifen beidseitig)
-
-3 Alter Militärring
-
-6
-
-von Wendelinstr. bis Wendehammer (Seitenstreifen beidseitig)
-
-3 Am Engelshof
-
-6
-
-von Potsdamer Str. bis Ende (Seitenstreifen einseitig)
-
-3 Am Frankenhain
-
-6
-
-von Sudetenweg bis Kölner Weg (Seitenstreifen beidseitig)
-
-3 An der alten Post
-
-6
-
-Ecke Aachener Str. (Seitenstreifen einseitig und Mittelstreifen mit
-
-Verkehrsinsel)
-
-von Potsdamer Str. bis Ostlandstr. (Seitenstreifen einseitig)
-
-3 An der Ronne
-
-6
-
-von Ahrstr. bis Lahnstr. (Seitenstreifen beidseitig)
-
-von Widdersdorfer Landstr. bis Brauweiler Str. (Seitenstreifen beidseitig)
-
-3 Bachemer Str.
-
-6
-
-von Universitätsstr. bis Zülpicher Wall (Seitenstreifen beidseitig)
-
-von Hans-Sachs-Str. bis Kringsweg (Seitenstreifen einseitig)
-
-3 Bahnstr.
-
-6
-
-Höhe Schillerstr. (Verkehrsinsel bepflanzt)
-
-von Aachener Str. bis Goethestr. (Seitenstreifen beidseitig)
-
-3 Benfleetstr.
-
-6
-
-Ecke Göttinger Str. (Seitenstreifen beidseitig)
-
-von Göttinger Str. bis Breslauer Str. (Seitenstreifen beidseitig)
-
-von Breslauer Str. bis Ignystr. (Seitenstreifen beidseitig)
-
-3 Brauweilerweg
-
-6
-
-Höhe Lovis-Corinth-Str. (Seitenstreifen einseitig)
-
-3 Breslauer Str.
-
-6
-
-von Benfleetstr. bis Nr. 28-30 (Seitenstreifen beidseitig)
-
-von Aachener Str. bis Diepenbeekallee (Seitenstreifen einseitig)
-
-3 Carl-Schurz-Str.
-
-6
-
-von Bachemer Str. bis Decksteinerstr. (Seitenstreifen beidseitig)
-
-3 Clarenbachstr.
-
-6
-
-von Klosterstr. bis Lortzingstr. (Seitenstreifen beidseitig)
-
-3 Decksteiner Str.
-
-6
-
-von Gleueler Str. bis Hans-Driesch-Str. (Mittelstreifen und Seitenstreifen
-
-einseitig)
-
-von Hans-Driesch-Str. bis Werthmannstr. (Seitenstreifen beidseitig)
-
-Bezirk Straßenbezeichnung 3 Diepenbeekallee von Pestalozzistr. bis Hs.Nr. 8 (Seitenstreifen einseitig)
-3 Dürener Str. von Realkauf bis Autobahnmeisterei (Mittelstreifen) von Militärringstr. bis Universitätsstr. (Seitenstreifen beidseitig)
-3 Feldblumenweg von 20m hinter Margaritenweg bis linke Seite (Seitenstreifen und Mittelstreifen einseitig Richtung Vogelsanger Weg)
-3 Feuerbachstr. Ecke Böcklingstr. (Verkehrsinsel bepflanzt)
-3 Frankenstr. von Statthalterhofallee bis Kölner Weg (Seitenstreifen beidseitig) von Kölner Weg bis Kirchweg (Seitenstreifen beidseitig)
-3 Franz-Seiwert-Str. von Hs.Nr. 19 bis Hs.Nr. 21 (Mittelstreifen)
-3 Freiburger Str. von Ostlandstr. bis Potsdamer Str. (Seitenstreifen beidseitig)
-3 Freiligrather Str. von Gleueler Str. bis Bachemer Str. (Seitenstreifen beidseitig)
-3 Friedrich-Schmidt-Str. von Vincenz-Statz-Str. bis Kitschburger Str. (Seitenstreifen beidseitig)
-3 Fuchsweg von Vincenzallee bis Kölner Str. (Seitenstreifen beidseitig)
-3 Getreideweg von Am Lindenweg bis Im Rapsfeld (Seitenstreifen einseitig)
-3 Gleueler Str. von Kringsweg bis Freiligrather Str. (Seitenstreifen beidseitig)
-3 Göttinger Str. von Ostlandstr. bis Leipziger Str. (Seitenstreifen beidseitig)
-3 Hans-Carl-Nipperdey-Str. von Rudolf-Amelunxen-Str. bis Luxemburger Str. (Mittelstreifen mit Verkehrsinsel und Seitensteifen einseitig)
-3 Heidehofweg von Marsdorfer Str. bis Wendehammer (Seitenstreifen einseitig)
-3 Hirseweg von Weizenweg bis Getreideweg (Seitenstreifen einseitig)
-3 Hölderlinstr. von Ludwig-Jahn-Str. bis Mörickestr. (Seitenstreifen einseitig und Verkehrsinsel bepflanzt)
-3 Ignystr. von Diepenbeekallee bis Bebauungsende (Seitenstreifen beidseitig)
-3 Im Rapsfeld von Leinsamenweg bis Weizenweg (Seitenstreifen einseitig)
-3 Karl-Kaulen-Str. von Brauweiler Str. bis Nr. 13 (Seitenstreifen beidseitig)
-
-Reinigungshäufigkeit
-6 12
-6
-6 6
-6 6 6 6 6 6 6 6 6
-6 6 6
-6 6 6
-
-Bezirk Straßenbezeichnung 3 Kerpener Str. von Lindenthalgürtel bis Hs. Nr. 107 (Seitenstreifen einseitig) Verkehrsinsel Höhe Rurstr. von Sülzburgstr. bis Josef-Stelzmann-Str. (Seitenstreifen beidseitig) von Josef-Stelzmann-Str.bis Weyertal (Seitenstreifen beidseitig) von Universitätsstr. bis Meister-Eckard-Str. (Mittelstreifen)
-3 Klosterstr. von Dürener Str. bis Aachener Str. (Seitenstreifen beidseitig)
-3 Leipziger Str. von Benfleetstr. bis Ende (Seitenstreifen beidseitig)
-3 Leinsamenweg von Nr. 1 bis Nr. 31 (Seitenstreifen einseitig)
-3 Lortzingstr. von Rautenstrauchstr. bis Wüllnerstr. (Seitenstreifen beidseitig)
-3 Lovis-Corinth-Str. vor Hs. Nr. 15+17 (Seitenstreifen einseitig)
-3 Ludwig-Jahn-Str. von Lessingstr. bis Hölderlinstr. (Seitenstreifen einseitig)
-3 Luxemburger Str. von Eifelwall bis vor Militärring (Mittelstreifen) von Geisbergstr. bis Militärring (Seitenstreifen beidseitig und Mittelstreifen einschl. Abzweigung zur Militärringstr.) von Hans-Carl-Nipperdey-Str. bis Greinstr. (Seitenstreifen beidseitig und Mittelstreifen 3. Fahrbahn geg. Justizzentrum)
-3 Maisweg von Getreideweg bis Weizenweg (Seitenstreifen einseitig)
-3 Marderallee von Mittelweg bis Zaunstr. (Seitenstreifen einseitig)
-3 Max-Planck-Str. (Stichstr.) von Max-Planck-Str. bis Wendehammer (Seitenstreifen beidseitig)
-3 Max-Planck-Str. von Möbel-Franz bis Ende (Seitenstreifen einseitig)
-3 Mohnweg von Blumenallee bis Aachener Str. (Seitenstreifen einseitig)
-3 Moltkestr. von Aachener Str. bis Selma-Lagerlöf-Str. (Seitenstreifen einseitig)
-3 Neuenhöfer Allee von Luxemburger Str. bis Zülpicher Str. (Seitenstreifen beidseitig)
-3 Ostlandstr. von Breslauer Str. bis Tilsiter Weg (Seitenstreifen einseitig) von An der alten Post bis Schulstr. (Seitenstreifen einseitig)
-3 Paul-Finger-Str. von Kölner Weg bis Statthalterhofallee (Seitenstreifen beidseitig)
-3 Potsdamer Str. von Schulstr. bis An der alten Post (Seitenstreifen beidseitig) von An der alten Post bis Lübecker Str. (Seitenstreifen einseitig)
-3 Siebengebirgsallee Höhe Löwenburgstr. (Seitenstreifen einseitig)
-
-Reinigungshäufigkeit
-6
-6 6 6 6 6 6 12
-6 6 6 6 6 6 6 6
-6 6
-6
-
-Bezirk 3 3 3 3 3
-3
-3
-3
-3 4 4
-4 4
-4 4 4 4 4 4
-
-Straßenbezeichnung Spitzangerweg von Brauweiler Str. bis Lahnstr. (Seitenstreifen einseitig)
-Stormstr. von Aachener Str. bis Hölderlinstr. (Seitenstreifen einseitig)
-Stüttgerhofweg von 4c+geg.13+geg.74a bis 34+geg.22a-22b (Seitenstreifen beidseitig)
-Südallee von Statthalterhofallee bis Kölner Weg (Seitenstreifen beidseitig)
-Universitätsstr. von Aachener Str. bis Dürener Str. (Seitenstreifen einseitig und Mittelstreifen 3. Fahrb. Fa. Kiedorf) von Bachemer Str. bis Luxemburger Str. (Mittelstreifen Verkehrsinsel/ Zülpicher Str.)
-Vincenzallee von Brauweiler Str. bis Hs.Nr. 28 (Seitenstreifen einseitig) von Hs. Nr. 1a bis Brauweiler Str. (Seitenstreifen einseitig)
-Weißhausstr. von Luxemburger Str. bis Höhe Hs. Nr. 7 (Seitenstreifen einseitig und Mittelstreifen)
-Weizenweg von Im Rapsfeld bis gegenüber Nr. 17 (Seitenstreifen einseitig) von Nr. 17 bis Getreideweg (Seitenstreifen einseitig)
-Zaunstr. von Jägerstr. bis Marderallee (Seitenstreifen einseitig)
-Akazienweg von DB-Unterführung bis geg. Nr. 195 (Seitenstreifen einseitig)
-Äußere Kanalstr. von Iltisstr. bis Feltenstr. (Seitenstreifen einseitig) von Borsigstr. bis Vogelsanger Str. (Mittelstreifen)
-Bachstelzenweg von Goldammerweg bis Ende (Seitenstreifen beidseitig)
-Ehrenfeldgürtel von Vogelsanger Str. bis Nußbaumerstr. (Mittelstreifen entlang den Gleisen)
-Girlitzweg von Vitalisstr. bis 2. DB-Unterführung (Seitenstreifen einseitig)
-Goldammerweg (Einkaufszentrum) von Bachstelzenweg bis Steinkauzweg (Seitenstreifen beidseitig)
-Grüner Brunnenweg Ecke Am Rosengarten (Seitenstreifen einseitig)
-Heinrich-Rohlmann-Str. von Hugo-Eckener-Str. bis Ende (Seitenstreifen einseitig)
-Herkulesstr. von Innere Kanalstr bis Am Gleisdreieck (Mittelstreifen)
-Hugo-Eckener-Str. von Rochusstr. bis Matthias-Brüggen-Str. (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-
-Reinigungshäufigkeit
-6 6 6 6 12
-6
-12
-6
-6 6 12
-6 6
-6 6 6 6 12 6
-
-Bezirk Straßenbezeichnung
-
-Reinigungshäufigkeit
-
-4 Iltisstr.
-
-6
-
-Ecke Takuplatz (Seitenstreifen einseitig)
-
-4 Kappelsweg
-
-6
-
-von Nattermannallee bis Obere Dorfstr. (Seitenstreifen einseitig)
-
-4 Karl-Bosch-Str.
-
-6
-
-von Matthias-Brüggen-Str. bis Westendstr. (Mittelstreifen entlang den
-
-Gleisen)
-
-4 Köhlstr.
-
-6
-
-von Matthias-Brüggen-Str. bis Hugo-Eckener-Str. (Seitenstreifen
-
-beidseitig)
-
-4 Kolkrabenweg
-
-6
-
-Ecke Venloer Str. (Mittelstreifen)
-
-von Venloer Str. bis Steinkauzweg (Seitenstreifen beidseitig)
-
-4 Kurt-Weill-Weg
-
-6
-
-Ecke Ingendorfer Weg (Mittelstreifen mit Verkehrsinseln)
-
-4 Maarweg
-
-12
-
-von Vogelsanger Str. bis DB-Unterführung (Seitenstreifen einseitig)
-
-4 Matthias-Brüggen-Str.
-
-6
-
-Ecke Ossendorfer Weg (Mittelstreifen mit Verkehrsinseln)
-
-4 Melatengürtel
-
-6
-
-von Vogelsanger Str. bis Aachener Str. (Mittelstreifen mit Verkehrsinsel)
-
-4 Nattermannallee
-
-6
-
-von Venloer Str. bis Untere Dorfstr. (Mittelstreifen mit Verkehrsinseln)
-
-4 Ollenhauerring
-
-6
-
-Ecke Militärring (Mittelstreifen mit Verkehrsinseln)
-
-4 Parkgürtel
-
-12
-
-von Nußbaumerstr. bis A57 (Mittelstreifen entlang der Hochbahn)
-
-von A57 bis Escher Str. (Mittelstreifen unter Hochbahn)
-
-von A57 bis Escher Str. (Seitenstreifen einseitig)
-
-4 Reiherweg
-
-6
-
-von Akazienweg bis Vogelsanger Str. (Seitenstreifen beidseitig)
-
-4
-
-6
-
-Rochusstr. von Margaretenstr. bis Butzweiler Str. (Seitenstreifen teilw.beidseitig) von Gerhard-Bruders-Str. bis Butzweilerstr. (Seitenstreifen entlang den Gleisen)
-
-4 Sandweg
-
-6
-
-von Mühlenweg bis Nr. 179 (Seitenstreifen einseitig)
-
-4 Subbelrather Str.
-
-6
-
-von Innere Kanalstr. bis Myliusstr. (Mittelstreifen entlang den Gleisen)
-
-von Innere Kanalstr. bis Peter-Bauer-Str. (Seitenstreifen beidseitig)
-
-4 Venloer Str.
-
-12
-
-von Akazienweg bis Karl-Bosch-Str. (Mittelstreifen)
-
-4 Venloer Str.
-
-6
-
-von Wilhelm-Mauser-Str. bis Matthias-Brüggen-Str. (Seitenstreifen
-
-beidseitig)
-
-von Matthias-Brüggen-Str. bis Militärringstr. (Seitenstreifen beidseitig und
-
-Mittelstreifen mit Verkehrsinseln)
-
-Bezirk 4 4 4
-4 5 5 5
-5
-5
-5 5
-5 5
-5
-5
-5 5 5
-
-Straßenbezeichnung Vitalisstr. von Widdersdorfer Str. bis Stolberger Str. (Seitenstreifen beidseitig) Vogelsanger Str. von Reiherweg bis Bussardweg (Seitenstreifen einseitig)
-Von-Hünefeld-Str. von Gunther-Plüschow-Str. bis Matthias-Brüggen-Str. (Seitenstreifen einseitig)
-Wilhelm-Mauser-Str. von Venloerstr. bis Vogelsanger Str. (Mittelallee mit Verkehrsinseln) Am Botanischen Garten von Hs. Nr. 10 bis Riehler Gürtel (Seitenstreifen beidseitig) Am Molenkopf von Kuhweg bis Ende (Seitenstreifen einseitig)
-Am Stammheimer Weg von Frohngasse bis Stammheimerstr. (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel)
-Amsterdamer Str. von Innere Kanalstr. bis Boltensternstr. (Mittelstreifen entlang den Gleisen) von Kinderkrankenhaus bis Innere Kanalstr. (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel)
-An der Schanz von Leidener Str. bis Abfahrt Kuhweg (Mittelstreifen) von Leidener Str. bis Abfahrt Kuhweg (Seitenstreifen einseitig) Äußere Kanalstr. von Butzweiler Str. bis Escher Str. (Mittelstreifen)
-Barbarastr. von Amsterdamer Str. bis Boltensternstr. (Seitenstreifen einseitig) von Amsterdamer Str. bis Wettsteinstr.(Mittelstreifen)
-Boltensternstr. von Industriestr. bis Pasteurstr.(Seitenstreifen teilw. beidseitig)
-Boltensternstr. von Pasteurstr bis Barbarastr. (Mittelstreifen) von Barbarastr. bis Pionierstr. (Mittelstreifen)
-Contzenstr. von Hohlgasse bis Heckweg (Seitenstreifen mit Verkehrsinseln und Mittelstreifen entlang den Gleisen)
-Emdener Str. von Causemannstr. bis Bremerhavenerstr. (Seitenstreifen beidseitig) Nr. 117 (Mittelstreifen mit Verkehrsinsel)
-Escher Str. von Parkgürtel bis Göppinger Str. (Seitenstreifen beidseitig) Etzelstr. von Schmiedegasse bis DB-Unterführung (Seitenstreifen einseitig)
-Florastr. von Amsterdamer Str. bis Kuenstr. (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-
-Reinigungshäufigkeit
-6 6 6
-6 6 6 6
-12
-12
-12 6
-6 12
-6
-6
-6 6 6
-
-Bezirk Straßenbezeichnung 5 Frohngasse von Niederländer Ufer bis Alter Stammheimer Weg (Mittelstreifen mit Verkehrsinsel) von Niederländer Ufer bis Alter Stammheimer Weg (Seitenstreifen einseitig)
-5 Geestemünder Str. von geg. Hs. Nr. 34 bis geg. Hs. Nr. 42a (Seitenstreifen einseitig) Ecke Merkenicher Str. (Seitenstreifen einseitig)
-5 Ginsterpfad Ecke Köslinerstr. (Mittelstreifen mit Verkehrsinseln)
-5 Inneren Kanalstr. (Auffahrt) von Frohngasse bis Innere Kanalstr. (Seitenstreifen beidseitig)
-5 Johannes-Rings-Str. von Meerfeldstr. bis Longericher Str. (Seitenstreifen beidseitig)
-5 Kapuzinerstr. von Neusser Str. bis Floriansgasse (Mittelstreifen) von Neusser Str. bis Floriansgasse (Seitenstreifen einseitig)
-5 Kempener Str. von Mauenheimer Gürtel bis Merheimer Str. (Mittelstreifen)
-5 Kuenstr. von Florastr. bis Beuelsweg (Seitenstreifen beidseitig)
-5 Lindweilerweg von Hs. Nr. 88 bis Militärring (Mittelstreifen mit Verkehrsinsel) von Hs. Nr. 88 bis Militärring (Seitenstreifen einseitig)
-5 Longericher Str. von August-Haas-Str. bis Johannes-Rings-Str. (Mittelstreifen entlang den Gleisen) von Parkgürtel bis Robert-Perthel-Str. (Seitenstreifen einseitig)
-5 Mauenheimer Gürtel von Merheimer Str. bis Kempener Str. (Mittelstreifen) von Merheimer Str. bis Kempener Str. (Seitenstreifen einseitig)
-5 Mönchsgasse von Simonskaul bis Jesuitengasse (Seitenstreifen einseitig)
-5 Niederländer Ufer von Zoobrücke bis An der Schanz (Mittelstreifen) von Zoobrücke bis An der Schanz (Seitenstreifen einseitig)
-5 Niehler Damm von Amsterdamer Str. bis Bremerhavener Str. (Seitenstreifen einseitig)
-5 Niehler Kirchweg von Hs. Nr. 39 bis Hs. Nr. 47 (Seitenstreifen einseitig) Ecke Niehler Str./ Drosselweg (Seitenstreifen einseitig)
-5 Ossitzkystr. von Longericher Str. bis Wendehammer (Seitenstreifen einseitig)
-5 Pallenbergstr. Ecke Ginsterpfad (Mittelstreifen mit Verkehrsinseln)
-5 Parkgürtel von Escher Str. bis Longericher Str.(Mittelstreifen unter Hochbahn) von Escher Str. bis Longericher Str.(Seitenstreifen beidseitig)
-
-Reinigungshäufigkeit
-12
-6
-6 12
-6 6
-6 6 6
-6
-12
-6 6
-6 6
-6 6 12
-
-Bezirk Straßenbezeichnung 5 Rambouxstr. Ecke Rüdellstr./ Parkplatz (Seitenstreifen einseitig)
-5 Riehler Gürtel Ecke Stammheimer Str. (Parkplatz Zooeingang)
-5 Riehler Str. von Ebertplatz bis Frohngasse (Seitenstreifen mit Verkehrsinsel und Mittelstreifen) von Frohngasse bis Boltensternstr. (Seitenstreifen mit Verkehrsinsel und Mittelstreifen entlang den Gleisen)
-5 Riehler Tal von Hs. Nr. 10 bis Stammheimer Str. (Seitenstreifen beidseitig)
-5 Robert-Perthel-Str. von Escher Str. bis Autohaus Hammer (Seitenstreifen beidseitig) Ecke Longericher Str. (TÜV) (Mittelstreifen mit Verkehrsinseln) Ecke Longericher Str. vor der Fa. Leo Piller (Mittelstreifen) Ecke Heckweg (Mittelstreifen)
-5 Scheibenstr. von Neusser Str. bis Haupteingang Rennbahn (Mittelstreifen)
-5 Schmiedegasse von Merheimer Str. bis Neue Kempener Str. (Seitenstreifen beidseitig)
-5 Sebastianstr. von Scheibenstr. bis Trakener Str. (Seitenstreifen einseitig)
-5 Sebastianstr. Ecke Niehler Damm (Seitenstreifen einseitig)
-5 Wilhelm-Sollmann-Str. von Neusser Str. bis Meerfeldstr. (Seitenstreifen beidseitig) Ecke Graseggerstr. (Mittelstreifen mit Verkehrsinseln)
-6 Allerstr. von Elbeallee bis Ende (Seitenstreifen beidseitig)
-6 Alte Neusser Landstr. von Neusser Landstr. bis Hs. Nr. 172 (Seitenstreifen einseitig) von Hs. Nr. 172 bis St. Tönnisstr. (Seitenstreifen beidseitig)
-6 Am Kölner Weg Hs.Nr. 3 (Seitenstreifen einseitig)
-6 An den Kaulen von Dornstr. bis Hackenbroicher Str. (Seitenstreifen beidseitig)
-6 Asternweg Ecke Aurikelweg (Seitenstreifen einseitig)
-6 Athener Ring von Merianstr bis Willi-Suth-Allee (Mittelstreifen und Seitenstreifen teilw. beidseitig)
-6 Auweilerstr. von Am Schildchen bis Pescher Str. (Seitenstreifen einseitig)
-6 Berberitzenweg von Mercatorstr. bis Ilexweg (Seitenstreifen einseitig)
-6 Berrischstr. von Sinnersdorfer Str bis Mörterweg (Seitenstreifen einseitig)
-
-Reinigungshäufigkeit
-6 6 12
-6 6
-6 6 6 6 6
-6 6
-6 6 6 12
-6 6 6
-
-Bezirk Straßenbezeichnung 6 Bitterstr. von Hackenbroicher Str. bis Hackhauser Weg (Seitenstreifen beidseitig) von Hackenbroicher Str. bis Dornstr. (Seitenstreifen beidseitig)
-6 Blockstr. von Weiler Weg bis Hs. Nr. 35 (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-6 Bruchstr. von Sinnersdorfer Str bis Hs.Nr. 144 (Seitenstreifen einseitig) von S-Bahn Unterführung bis Hs. Nr. 106 (Seitenstreifen einseitig)
-6 Causemannstr. von Emdener Str. bis Daverkusenstr. (Seitenstreifen einseitig)
-6 Chrysanthemenweg (geg. Bushaltestelle) (Mittelstreifen)
-6 Cohnenhofstr. Hs.Nr. 9 (Seitenstreifen einseitig) Hs. Nr. 17b (Seitenstreifen einseitig) Hs. Nr. 19a (Seitenstreifen beidseitig) Hs. Nr. 23d (Seitenstreifen einseitig) Hs. Nr. 49 (Seitenstreifen einseitig) von Am Königsweg bis Hitdorfer Fährweg (Seitenstreifen beidseitig)
-6 Deliastr. von geg. Hs. Nr. 26 bis Hs. Nr. 13 (Seitenstreifen einseitig) Ecke Weiler Weg (Seitenstreifen einseitig)
-6 Doktorshof von Pohlhofstr. bis Auweilerstr. (Seitenstreifen einseitig)
-6 Donatusstr. von Kapellenweg bis Pescher Holz (Seitenstreifen einseitig) von Pescher Holz bis Escher Str. (Seitenstreifen einseitig) von Waffenschmidtstr. bis Im Gewerbegebiet (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel)
-6 Edsel-Ford-Str. von Robert-Bosch-Str. bis Spessartstr. (Seitenstreifen einseitig mit Verkehrsinsel)
-6 Elbeallee von Allerstr. bis Merianstr. (Mittelstreifen mit Verkehrsinsel) von Allerstr. bis Merianstr. (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-6 Escher Str. Ecke Longericher Str. (Seitenstreifen einseitig)
-6 Florenzer Str. von Athener Ring bis Lyoner Passage (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-6 Fühlinger Weg Ecke Merianstr. (Mittelstreifen mit Verkehrsinsel)
-6 Gustorferweg von Stallagsweg bis Orrer Weg (Seitenstreifen einseitig)
-6 Hackenbroicher Str. von Bitterstr. bis Alte Straße (Seitenstreifen einseitig)
-
-Reinigungshäufigkeit
-6 6 6 6 6 6
-6 6 6
-6 12
-6 6 6 6 6
-
-Bezirk Straßenbezeichnung
-
-Reinigungshäufigkeit
-
-6 Hackhauser Weg
-
-6
-
-von Widdeshover Weg bis St. Tönnisstr. (Seitenstreifen einseitig)
-
-6 Hahner Weg
-
-6
-
-Ecke Auweilerweg (Seitenstreifen einseitig)
-
-6 Haselnußweg
-
-6
-
-von Oranjehofstr. bis Zypressenstr. (Seitenstreifen teilw. beidseitig und
-
-Mittelstreifen)
-
-6 Havelstr.
-
-6
-
-von Elbeallee bis Ende (Seitenstreifen beidseitig)
-
-6 Herstattallee
-
-6
-
-von Willi-Suth-Allee bis Berberitzenweg (Seitenstreifen einseitig und
-
-Mittelstreifen mit Verkehrsinsel)
-
-6 Kapellenweg
-
-6
-
-von Escher Str. bis Donatusstr. (Seitenstreifen einseitig)
-
-6 Lavendelweg
-
-6
-
-von Berberitzenweg bis Ende (Seitenstreifen einseitig und Mittelstreifen mit
-
-Verkehrsinsel)
-
-6 Longericher Str.
-
-6
-
-Ecke Pescher Weg von Pescher Weg bis KVB Haltestelle (Seitenstreifen
-
-einseitig)
-
-6 Ludwig-Heinrich-Str.
-
-6
-
-von Blockstr. bis geg. Hs. Nr. 13 (Seitenstreifen beidseitig)
-
-6 Marconistr.
-
-6
-
-von Feldkasseler Weg bis Feldkasseler Weg (Mittelstreifen mit
-
-Verkehrsinsel)
-
-6 Martinusstr.
-
-6
-
-von Chorbuschstr. bis Amselweg (Mittelstreifen mit Verkehrsinsel)
-
-6 Mengenicher Str.
-
-6
-
-Ecke Heribert-Klar-Platz (Seitenstreifen einseitig)
-
-6 Merkenicher Hauptstr.
-
-6
-
-von Ivenshofweg bis Auf dem Alten Weerth (Seitenstreifen mit Verkehrsinsel
-
-und Mittelstreifen)
-
-6 Neißestr.
-
-6
-
-von Weichselring bis Ende (Seitenstreifen beidseitig)
-
-6 Nettesheimer Str.
-
-6
-
-von Stallagsweg bis Willi-Suth-Allee (Seitenstreifen einseitig und Mittelstreifen
-
-mit Verkehrsinsel)
-
-6 Neusser Landstr.
-
-6
-
-Ecke Crysanthemenweg (Mittelstreifen mit Verkehrsinsel)
-
-von Stallagsbergweg bis BAB-Unterführung (Seitenstreifen beidseitig)
-
-6 Oranjehofstr.
-
-6
-
-von Neusser Landstr. bis Mercatorstr. (Seitenstreifen einseitig und
-
-Mittelstreifen mit Verkehrsinsel)
-
-6 Pescher Weg (Pesch)
-
-6
-
-von Unnauer Weg bis Kirburger Weg (Seitenstreifen beidseitig)
-
-6 Regastr.
-
-6
-
-von Weichselring bis Ende (Seitenstreifen beidseitig)
-
-Bezirk Straßenbezeichnung 6 Robert-Bosch-Str. Ecke Feldkasseler Weg (Mittelstreifen mit Verkehrsinsel) Ecke Industriestr. (Mittelstreifen mit Verkehrsinsel)
-6 Sinnersdorfer Str. Ecke Berrischstr. (Mittelstreifen mit Verkehrsinsel) von Further Str. (Sportplatz) bis Berrischstr. (Seitenstreifen einseitig)
-6 Soldiner Str. von Hs. Nr. 50 bis Hs. Nr. 42 (Seitenstreifen einseitig)
-6 Stallagsweg von Volkhovener Weg bis Zedernweg (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel)
-6 Stockholmer Allee von Willi-Suth-Allee bis Athener Ring (Mittelstreifen mit Verkehrsinsel und Seitenstreifen einseitig)
-6 Stolpestr. von Regastr. bis Ende (Seitenstreifen beidseitig)
-6 Turkuplatz (Mittelstreifen) 6 Üdesheimer Weg
-von Hackhauser Weg bis St. Tönnisstr. (Seitenstreifen beidseitig)
-6 Volkhovener Weg von Pingenweg bis Stallagsweg (Seitenstreifen einseitig)
-6 Weichselring von Merianstr. bis Allerstr. (Mittelstreifen m. Verkehrsinsel) von Merianstr. bis Allerstr. (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-6 Weilerstr. Ecke Chorbuschstr. (Mittelstreifen)
-6 Wezelostr. von Damiansweg bis Weilerweg (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel )
-6 Willi-Suth-Allee von Merianstr. bis Mercatorstr. (Mittelstreifen mit Verkehrsinsel) von Merianstr. bis Mercatorstr. (Seitenstreifen beidseitig und Mittelstreifen mit Verkehrsinsel)
-6 Zypressenstr. von Stallagsweg bis Haselnußweg (Mittelstreifen mit Verkehrsinsel)
-7 Berliner Str. von Oberstr. bis Bahnübergang (Seitenstreifen einseitig)
-7 Brüsseler Str. von Konrad-Adenauer Str. bis Konrad-Adenauer-Str. (Seitenstreifen teilweise)
-7 Deutzer Weg von Steinstr. bis Bahnübergang (Seitenstreifen beidseitig und Mittelstreifen 3. Fahrbahn)
-7 Ettore-Bugatti-Str. von Hs. Nr. 47 bis Rather Str. (Seitenstreifen einseitig)
-7 Eupener Str. von Kreuzung/ Brüsseler Str. (Seitenstreifen)
-
-Reinigungshäufigkeit
-6
-6
-6 6
-6
-6 6 6 6 12
-6 6
-12
-6 6 6
-6
-6 6
-
-Bezirk Straßenbezeichnung 7 Frankfurter Str. von Theodor-Heuss-Str. bis Ludwigstr. (Seitenstreifen einseitig) von gegenüber Hs. Nr. 620 bis Bochumer Str. (Seitenstreifen teilweise und Mittelstreifen 3. Fahrbahn)
-7 Friedrichstr. von Bergerstr. bis Bahnhofstr. (Seitenstreifen einseitig)
-7 Gartenweg (Mittelstreifen 3. Fahrbahn)
-7 Gilgaustr. von Gartenstr. bis Elsterweg (Mittelstreifen)
-7 Hauptstr. (Zündorf) (mit Verkehrsinsel Kreuzung Schmittgasse)
-7 Heidestr. von Linder Mauspfad bis 200m vor BAB- Brücke (Seitenstreifen beidseitig) von Kornblumenweg bis BAB-Brücke (Seitenstreifen beidseitig) von Kornblumenweg bis Hs. Nr. 19 (Seitenstreifen einseitig)
-7 Humboldtstr. von Steinstr. bis Theodor-Heuss-Str. (Seitenstreifen einseitig und Mittelstreifen mit Verkehrsinsel Steinstr.) von Theodor-Heuss-Str. bis Kasparstr. (Seitenstreifen einseitig)
-7 Jägerstr. von Hs.6b bis Hs. Nr. 10 (Seitenstreifen einseitig)
+Stadtbezirk 6
 7
-Kölner Str. von BAB-Brücke bis ca. 100m Richtung Porz (Seitenstreifen beidseitig) von Mudra-Kaserne bis Stollwerkstr. (Seitenstreifen beidseitig und Mittelstreifen) von Stollwerkstr. bis Helenenstr. (Seitenstreifen beidseitig und Mittelstreifen)
-7 Königsberger Str. von Humboldtstr. bis Hs. Nr. 10 (Seitenstreifen einseitig) von entlang Eggerstr. bis Parkplatz (Seitenstreifen einseitig)
-7 Konrad-Adenauer-Str. von Amsterdamer Str. bis Humboldtstr. (Seitenstreifen beidseitig)
-7 Linder Mauspfad von Viehtrift bis Torfweg (Seitenstreifen einseitig)
-7 Ludwigstr. von gegenüber bis Besenbinderweg (Seitenstreifen einseitig)
-7 Lütticher Str. von Kreuzung/ Brüsseler Str. (Seitenstreifen)
-7 Osloer Str. von Kreuzung/ Brüsseler Str. (Seitenstreifen)
-7 Rather Str. (Seitenstreifen einseitig) Kreuzungsbereich vor der Frankfurter Str.
-7 Rolandstr. (mit Verkehrsinsel)
+7 8 9
 
-Reinigungshäufigkeit
-12
-6 6 6 6 12
-12
-6 12
-6 12 12
-6 6 6 6 6
+Straßenbezeichnung
 
-Bezirk Straßenbezeichnung 7 Rolshover Kirchweg von Allerseelenstr. bis Wissener Weg (Seitenstreifen einseitig)
-7 Schmittgasse von Ranzeler Str. bis Alte Apotheke (Seitenstreifen beidseitig teilweise)
-7 Stresemannstr. von Theodor-Heuss-Str. bis Humboldtstr. (Seitenstreifen teilweise)
-7 Theodor-Heuss-Str. von Stresemannstr. bis Humboldtstr. (Seitenstreifen beidseitig)
-7 Ulrikenstr. von Evastr. bis Elisenstr. (Seitenstreifen einseitig)
-7 Zündorfer Str. (mit Verkehrsinsel Elsdorfer Str.)
-8 Am Rande von Sengerweg bis Im Feld (Seitenstreifen einseitig)
-8 Bahnstr. von In der Konde bis Porzer Str. (Seitenstreifen einseitig)
-8 Baldurstr. von Donarstr. bis Walhallstr. (Seitenstreifen beidseitig) von Rather Mauspfad bis Walhallstr. (Seitenstreifen beidseitig)
-8 Donarstr. von Forsbachstr. bis Baldurstr. (Seitenstreifen beidseitig)
-8 Europaring von Neubrücker Ring bis Bennstr. (Mittelstreifen) von Franz-Stock-Weg bis Romain-Rolland-Str. (Seitenstreifen einseitig) von Robert-Schuman-Str. bis Neurather Ring (Mittelstreifen)
-8 Forsbachstr. von Rösrather Str. bis Waldrand (Seitenstreifen einseitig und Mittelstreifen)
-8 Frankfurter Str. von Autobahnbrücke bis Vingster Ring (Seitenstreifen beidseitig und Mittelstreifen) von Weimarer Str. bis Hardtgenbuscher Kirchweg (Seitenstreifen beidseitig)
-8 Freyastr. von Wodanstr. bis Rather Mauspfad (Seitenstreifen beidseitig)
-8 Hans-Schulten-Str. von Olpener Str. bis Dattenfelder Str. (Seitenstreifen einseitig und Mittelstreifen)
-8 Hardtgenbuscher Kirchweg von Frankfurter Str. bis ca. 150m (Mittelstreifen) von Rösrather Str. bis Ludwig-Ronig-Str. (Seitenstreifen einseitig)
-8 Kannebäckerstr. von Bendorfer Weg bis Burgenlandstr. (Seitenstreifen einseitig)
-8 Neubrücker Ring von Rösrather Str. bis Rather Kirchweg (Seitenstreifen einseitig)
-8 Olpener Str. von Broichstr. bis Hans-Schulten-Str. (Seitenstreifen beidseitig) von Hs. Nr. 403 bis Hs. Nr. 550 (Mittelstreifen)
+Reinigungs-häufigkeit jährlich
 
-Reinigungshäufigkeit
-12 12 12 12
-6 6 6 6 6
-6 6
-6
-6
-6 12
-6
-6 12 12
+Deliastr.
 
-Bezirk Straßenbezeichnung 8 Olpener Str. von Hs. Nr. 612 bis Hans-Schulten-Str. (Seitenstreifen beidseitig) von Hs. Nr. 453 bis Hs. Nr. 610 (Seitenstreifen beidseitig) von Hs. Nr. 401 bis Ostmerheimer Str. (Seitenstreifen einseitig) von Hohensyburgstr. bis Winterberger Str. (Seitenstreifen einseitig) von Nohlenweg bis Servatiusstr. (Seitenstreifen beidseitig)
-8 Ostmerheimer Str. von Fußfallstr. bis Rüdigerstr. (Seitenstreifen einseitig)
-8 Rather Kirchweg von Hans-Schulten-Str. bis Neubrücker Ring (Seitenstreifen beidseitig)
-8 Rather Mauspfad von Zum Rabenbruch bis Hermodurstr. (Seitenstreifen einseitig)
-8 Rolshoverstr. von vor der ARAL-Tankstelle (Seitenstreifen einseitig)
-8 Rösrather Str. von Hardtgenbuscher Kirchweg bis Neubrücker Ring (Seitenstreifen beidseitig)
-8 Rüdigerstr. (mit Verkehrsinsel Kreuzung Ostmerheimer Str.)
-8 Troisdorfer Str. von Siegburger Str. bis Severinsbrücke (Seitenstreifen einseitig und Mittelstreifen)
-8 Walhallstr. von Idunastr. bis Ende (Platz) (Seitenstreifen einseitig)
-8 Westerwaldstr. von Pfarrer-Moll-Str. bis Vallendarer Str. (Seitenstreifen einseitig)
-9 Am Klosterhof von Schweidnitzer Str. bis Schleifenbaumstr. (Seitenstreifen beidseitig)
-9 Bergisch Gladbacher Str. von Steylerstr. bis Richtg. Vischeringstr. (Seitenstreifen einseitig)
-9 Bergischer Ring von Grünstr. bis Wiener Platz (Seitenstreifen einseitig und Mittelstreifen teilw. entlang den Gleisen)
-9
-Berliner Straße Mülheim; entlang Troponwerk (Seitenstreifen einseitig) Höhenhaus; von Hs. Nr. 583 bis Schleifenbaumstr. (Seitenstreifen einseitig) Dünnwald; (mit Verkehrsinsel Kreuzung Leuchterstr.)
-9 Clevischer Ring von Mülheimer Brücke bis Manforter Str. (Mittelstreifen)
-9 Düsseldorfer Str. von Hs. Nr. 215/217 (Seitenstreifen beidseitig)
-9 Frankfurter Str. von Nr. 127 Höhe Heidelberger Str. bis Autobahnbrücke (Seitenstreifen beidseitig und Mittelstreifen)
-9 Germaniastr. von Frankfurter Str bis ca. 30 m (Mittelstreifen)
-
-Reinigungshäufigkeit
-6
-6 12
-6 6 12
-6 12
-6 6 6 6 12
-6
-12 6 6
 6
 
-Bezirk Straßenbezeichnung 9 Gerstenkamp von Wolfskaul bis Hs. Nr. 5 (Mittelstreifen)
-9 Grafenmühlenweg von Neufelder Str. bis Mielenforster Str. (Seitenstreifen beidseitig)
-9 Haslacher Weg (mit Verkehrsinsel gegenüber Haus Nr. 23)
-9 Heidelberger Str. von Frankfurter Str. bis DB-Unterführung (Seitenstreifen einseitig)
-9 Karlsruher Str. von Wermelskirchener Str. bis Pfälzischer Ring (Seitenstreifen mit Verkehrsinsel und Mittelstreifen)
-9 Kaspar-Düppes-Str. (mit Verkehrsinsel Kreuzung Schnellweider Str.)
-9 Modemannstr. von Frankfurter Str. bis Gleiwitzer Str. (Mittelstreifen)
-9 Mülheimer Brücke von Clevischer Ring bis Einfahrt U-Bahn (Mittelstreifen)
-9 Neufelder Str. von Krankenhauszufahrt bis Hs. Nr. 40 (Seitenstreifen einseitig)
-9 Ostmerheimer Str. von KVB Einfahrt bis Schlagbaumsweg (Seitenstreifen einseitig)
-9 Penningsfelder Weg von Gierrather Str. bis Hs. Nr. 53 (Seitenstreifen beidseitig)
-9 Pfälzischer Ring von Messekreisel bis Grünstr. DB Unterführung (Seitenstreifen beidseitig und Mittelstreifen teilw. entlang den Gleisen)
-9 Piccoloministr. von Gartenanlage bis Honschaftsstr. (Seitenstreifen einseitig)
-9 Schlagbaumsweg von Isenburger Kirchweg bis BAB-Brücke (Seitenstreifen einseitig) von Gutshof Schlagbaum bis Buchheimer Ring (Seitenstreifen beidseitig)
-9 Thuleweg (Seitenstreifen einseitig)
-9 Wolfskaul von Hahnenweg Nr. 2 bis Gerstenkamp (Mittelstreifen)
+von gegenüber Hs.Nr. 26 bis Hs.Nr. 13
 
-Reinigungshäufigkeit
-6 6 6 6 12
-6 6 6 6 6 6 12
-6 12
-6 6
+(Seitenstreifen einseitig)
+
+Ecke Weilerweg (Seitenstreifen
+
+einseitig)
+
+Königsberger Str.
+
+6
+
+von Humboldtstr. bis Hs.Nr. 10
+
+(Seitenstreifen einseitig)
+
+entlang Eggerstr. bis Parkplatz
+
+(Seitenstreifen einseitig)
+
+Ludwigstr.
+
+6
+
+gegenüber Besenbinderweg
+
+(Seitenstreifen einseitig)
+
+Rolshover Str.
+
+vor der ARAL-Tankstelle (Seitenstreifen
+
+einseitig)
+
+6
+
+Düsseldorfer Str.
+
+ab Hs.Nr. 215/217 bis Ende
+
+(Seitenstreifen beidseitig)
+
+6
