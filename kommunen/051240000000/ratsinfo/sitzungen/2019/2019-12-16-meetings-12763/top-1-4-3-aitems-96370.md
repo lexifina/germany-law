@@ -1,0 +1,8 @@
+# TOP 1.4.3: Abgesetzt. In der Sache erledigt. Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten.
+
+- Sitzung: öffentliche Sitzung des Rates der Stadt Wuppertal (2019-12-16)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/96370
+- Ergebnis: abgesetzt
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/44750
