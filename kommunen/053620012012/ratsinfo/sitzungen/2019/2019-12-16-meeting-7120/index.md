@@ -1,0 +1,97 @@
+# Rat (51. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-12-16T17:03:00+01:00
+- Ende: 2019-12-16T21:47:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdcXw1CBeneEJpwX3gXYkq8
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7120
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTLoitX_VAhJYOkXTUzDejkFrv4m9JliMAd8FDm_RRb2/Bekanntmachung_Rat_16.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcUVpCCWjIYN8HP0lLzLyyvyltIWUdZbY5T5BUEb3x3v/Oeffentliche_Niederschrift_Rat_16.12.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Bibliothekskonzept
+- TOP 1.2: Kommunalverfassungsstreitverfahren
+- TOP 1.3: Informationen über Tierschutzorganisationen
+- TOP 1.4: Buch "Magische Momente, romantische Plätze und faszinierende Ansichten"
+- TOP 1.5: Brühl Kierberg; Schulstraße
+- TOP 2.: Niederschrift vom 28.10.2019
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Erklärung zur Bekämpfung des Klimanotstandes Bezug: Antrag aller Fraktionen des Brühler Rates vom 28.10.2019 - (kein Text vorhanden)
+- TOP 4.: Haushalt 2020
+- TOP 4.1: Einwendungen gegen den Entwurf der Haushaltssatzung 2020 - hier: Stellungnahme IHK-
+- TOP 4.2: Anträge zum Haushalt 2020
+- TOP 4.3: Masterplan Klima Bezug: Gemeinsamer Antrag der Fraktionen CDU/Grüne/FDP - (kein Text vorhanden)
+- TOP 4.4: City Management - (kein Text vorhanden)
+- TOP 4.5: Mündlich gestellte Anträge
+- TOP 4.6: Konsequentes Controlling im Rahmen einer nachhaltigen Haushaltssanierung Bezug: Antrag Ratsherr Dr. Herbert Heermann vom 03.12.2019
+- TOP 4.7: Haushaltssatzung 2020 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 4.8: Erlass der Haushaltssatzung 2020 Rat 28.10. u. HA 25.11., 02.12.19 - (kein Text vorhanden)
+- TOP 5.: Bibliothekskonzept
+- TOP 5.1: Bibliothekskonzept hier: Personalbedarf Bezug: KPTA vom 10.10.2019 u. HA vom 18.10.2019 Vorlagen-Nr. 382/2019 - (kein Text vorhanden)
+- TOP 6.: Verleihung der Ehrenplakette der Stadt Brühl - (kein Text vorhanden)
+- TOP 7.: Verein "Brühl digital e. V." - (kein Text vorhanden)
+- TOP 7.1: TISCHVORLAGE Verein "Brühl digital e. V."; hier: Vereinssatzung Bezug: Vorlage Nr. 496/2019, RAT 16.12.2019
+- TOP 8.: Katholische Grundschule Barbara Räumliche Erweiterung der Übermittagsbetreuung Bezug: Änderungsantrag zum Antrag der Fraktion Linke & Piraten, Rat 6.5.2019, Vorlagen-Nr. 113/2019, Antrag der SPD-Fraktion vom 02.05.2019 166/2019, HA 27.05.2019, Rat 08.07.2019, Vorlagen-Nr.: 268/2019, Gemeinsamer Antrag der Fraktion CDU und Grüne vom 06.05.2019 zu TOP 18.1, Rat 6.05.2019, Vorlage-Nr. 113/2019, Bezug: Rat 23.09.2019, SchA 26.11.2019,Vorlagen-Nr. 368/2019 - (kein Text vorhanden)
+- TOP 9.: Neue „Benutzungsordnung der Stadt Brühl für die Nutzung stadteigener Schulräume“ Anpassung an die veränderte Schulraumsituation und Aktualisierung der Rahmenbedingungen
+- TOP 9.1: Neue „Benutzungsordnung der Stadt Brühl für die Nutzung stadteigener Schulräume“ Anpassung an die veränderte Schulraumsituation und Aktualisierung der Rahmenbedingungen Bezug: SchA 26.11.2019, Vorlage-Nr. 340/2019 - (kein Text vorhanden)
+- TOP 10.: "Gute Schule 2020" Mittelverwendung und Maßnahmenplanung 2019 Bezug: Rat 10.07.2017, Vorlage 181/2017 - (kein Text vorhanden)
+- TOP 11.: Kooperation mit Urban Sports Club für die Beschäftigten der Stadt Brühl - (kein Text vorhanden)
+- TOP 11.1: Kooperation mit Urban Sports für die Beschäftigten der Stadt Brühl Hier: Beantwortung von Rückfragen Bezug: Rat 28.10.2019 Vorlage 394/2019
+- TOP 11.2: Rückfragen zur Vorlage „URBAN SPORTS“ aus der Sitzung HA 02.12.2019
+- TOP 12.: Kindertagesbetreuung in Einrichtungen hier: Finanzierung des Neubaus und der Einrichtung der Erweiterung der evangelischen Kindertagesstätte Rodderweg und anteilige Übernahme des Trägeranteils an den Betriebskosten - (kein Text vorhanden)
+- TOP 13.: Crowdfunding-Projekt der Stadt Brühl Anschaffung von Kinderspielgeräten - (kein Text vorhanden)
+- TOP 14.: Beanstandung des Ratsbeschlusses vom 6.5.2019 Bezug: Sitzung des Rates vom 23.9.2019
+- TOP 15.: Klage gegen den Rat der Stadt Brühl
+- TOP 15.1: Kommunalverfassungsstreitverfahren
+- TOP 16.: Gesellschafterversammlung Gebausie hier: Wirtschaftsplan 2020 - (kein Text vorhanden)
+- TOP 17.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier Wirtschaftsplan 2020 - (kein Text vorhanden)
+- TOP 18.: Über- und Außerplanmäßige Mittelbereitstellungen
+- TOP 18.1: Überplanmäßige Mittelbereitstellung „Hilfen für jungen Menschen und ihre Familien“– Teilergebnisplan 3603 - (kein Text vorhanden)
+- TOP 18.2: Überplanmäßige Mittelbereitstellung im Rahmen des Asylbewerberleistungsgesetzes (AsylbLG) - (kein Text vorhanden)
+- TOP 18.3: Überplanmäßige Mittelbereitstellung Erweiterung Mischwasserrückhaltebecken Brühl-Ost (RHB Brühl-Ost) - (kein Text vorhanden)
+- TOP 18.4: Turnhalle Vochem Hier: apl. Aufwand für Trockenlegung des Gebäudes - (kein Text vorhanden)
+- TOP 18.5: Ersatzbeschaffung eines PKW für die Feuerwehr hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 18.6: Überplanmäßige Mittelbereitstellung im Bereich Versorgungsaufwendungen (51) - (kein Text vorhanden)
+- TOP 18.7: Intercultra Hier: üpl. Mittelbereitstellung - (kein Text vorhanden)
+- TOP 18.8: Stadtbahnlinie 18 Interlokale Verkehre – Aufwandsdeckungsfehlbeträge/Ist-Daten 2018 hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 19.: Bebauungspläne/Flächennutzungsplan
+- TOP 19.1: Bebauungsplan 01.17 "Energiezentrale Otto-Wels-Straße" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 19.2: 44. Änderung des Flächennutzungsplanes (Bebauungsplan 05.01 Teilbereich B „Unter dem Dorf“) - Abwägungs- und Feststellungsbeschluss - - (kein Text vorhanden)
+- TOP 19.3: 44. Änderung des Flächennutzungsplanes (Bebauungsplan 05.01 Teilbereich B „Unter dem Dorf“) - Abwägungs- und Feststellungsbeschluss - - (kein Text vorhanden)
+- TOP 20.: Satzungen
+- TOP 20.1: 7. Satzung zur Änderung der Satzung für das Jugendamt der Stadt Brühl hier: Beratende Mitglieder im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 20.2: Änderung Straßenreinigungssatzung zum 01.01.2020 - (kein Text vorhanden)
+- TOP 21.: Prüfung Jahresabschluss 2018
+- TOP 21.1: Prüfung Jahresabschluss 2018 - (kein Text vorhanden)
+- TOP 22.: Beteiligungsbericht 2016
+- TOP 23.: Anträge
+- TOP 23.1: Reaktivierung der Bahntrasse Brühl Wesseling Bezug: Antrag der FDP-Fraktion vom 22.10.2019 - (kein Text vorhanden)
+- TOP 23.2: Erhalt von Grabmalen und Erinnerung an bekannte und geschichtsrelevante Persönlichkeiten Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 06.11.2019 - (kein Text vorhanden)
+- TOP 23.3: Planung von Straßen in künftigen Neubaugebieten mit Alleecharakter Bezug: Antrag der FDP-Fraktion vom 20.11.2019 - (kein Text vorhanden)
+- TOP 23.4: Pflegesituation in Brühl hier: stationäre Pflegeplätze Bezug: Antrag der FDP-Fraktion vom 27.11.2019 - (kein Text vorhanden)
+- TOP 23.5: Ersatz für die Radstation auf dem Parkplatz am Bahnhof Bezug: Eilantrag der FDP-Fraktion vom 09.12.2019 (Eingang per Mail 12.12.19) - (kein Text vorhanden)
+- TOP 24.: Umbesetzung in Ausschüssen
+- TOP 24.1: Umbesetzung im Ausschuss für Kultur, Partnerschaften und Tourismus Bezug: Antrag der Fraktion Linke&Piraten vom 28.11.2019 - (kein Text vorhanden)
+- TOP 25.: Mitteilungen
+- TOP 25.1: Gender Award
+- TOP 26.: Anfragen
+- TOP 26.1: Nördliche Römerstraße
+- TOP 26.2: Brühl Kierberg; Talstraße
+- TOP 26.3: Brühl-Kierberg; Schulstraße II
+- TOP B): Nichtöffentliche Sitzung
+- TOP 27.: Max-Ernst-Gymnasium Hier: Besetzung der stellvertretenden Schulleitung zum frühestmöglichen Zeitpunkt - (kein Text vorhanden)
+- TOP 28.: Balthasar-Neumann-Platz
+- TOP 29.: Neubau Rathaus B - Gerüstarbeiten - (kein Text vorhanden)
+- TOP 30.: Anträge
+- TOP 30.1: Pflegesituation in Brühl Bezug: Antrag der FDP-Fraktion vom 27.11.2019 - (kein Text vorhanden)
+- TOP 30.2: Antrag zum Stellenplan; hier: Anhebung einer Stelle Bezug: Antrag der CDU-Fraktion vom 12.12.2019
+- TOP 31.: Klage gegen den Rat der Stadt Brühl - (kein Text vorhanden)
+- TOP 32.: Mitteilungen
+- TOP 33.: Anfragen
