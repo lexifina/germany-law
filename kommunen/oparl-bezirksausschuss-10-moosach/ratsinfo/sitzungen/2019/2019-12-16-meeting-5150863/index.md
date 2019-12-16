@@ -1,0 +1,81 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150863
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150863
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule, Kultur, Budget
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Stadtteilbudget (BSL): Lärmschutz in Form von mehr Bäumen oder Sträuchern am Wintrichring/ Ecke Dachauer Straße
+- TOP 2.2.: Probleme mit dem ruhenden Verkehr in Moosach (Karl-Lipp-/ Ernst-Platz-Straße, Gleismüller-/ Gaggenaystraße)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Alzeyer Str. 8-14 2. Baubergerstr. 34 3. Ernst-Platz-Str. 2a 4. Feldmochinger Str. 16 5. Simrockstr. 27
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Gleißmüllerstr. 13 2. Feldmochinger Str. 16 (-> Bauvorhaben siehe TOP 3.3.1.4) 3. Simrockstr. 27 (-> Bauvorhaben siehe TOP 3.3.1.5) 4. Waldhornstr. 70a
+- TOP 3.3.3.: Wiedervorlage: Gestalterische Überarbeitung des "Moosacher Stachus" (Antwortschreiben des Baureferates zum gemeinsamen Ortstermin am 07.10.2019)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Aufnahme der Olympia-Pressestadt in den Umgriff für die Bewerbung "Welterbe Olympiapark"
+- TOP 4.1.2.: Herausnahme der Dachauer Straße (zwischen Max-Born-Straße und Georg-Brauchle-Ring) aus dem Vorbehaltsnetz für den städtischen Wirtschaftsverkehr
+- TOP 4.2.1.: Herstellung Gehweg Saarlouiser Straße (Anfrage)
+- TOP 4.2.2.: Taxistand in der Allacher Straße (Anfrage)
+- TOP 4.3.1.: Ausweitung des im Juli 2019 beschlossene Böllerverbots auch außerhalb des Mittleren Rings auf den Stadtteil Moosach
+- TOP 4.3.2.: Aufstellung von Fahrradständern vor der Münchner Volkshochschule in Moosach
+- TOP 4.3.3.: Installierung einer Medienklappe in der Stadtbibliothek Moosach
+- TOP 4.3.4.: Berücksichtigung der Grünflächen "Amphionpark" und "Am Kapuzinerhölzl" bei der Aufstellung von öffentlichen Toiletten (im Rahmen der sog. "Toilettenoffensive")
+- TOP 5.1.: (E) Stadtbezirksbudget Elternbeirat des Gymnasium München Moosach MfM-Projekt vom 02.-06.03.2020 1.320,00 € / Az. 0262.0-10-0200
+- TOP 5.2.: (E) Stadtbezirksbudget Elterninitiative Manzis e.V. Anschaffung einer Datenbank und von Spielgeräten 3.792,40 € / Az. 0262.0-10-0201
+- TOP 6.1.: Änderung der BA-Satzung: Verankerung der Funktion der Gleichstellungsbeauftragten
+- TOP 6.2.: Abfrage des Bedarfs nach Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 6.3.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 StVO: 1. Riesengebirgstraße; Errichtung eines absoluten Haltverbots
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund, im Freien auf Privatgrund und in städt. Grünanlagen: Start Olympiapark "Wings 4 Life 2020" am 03.05.2020
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Eggmühler Str. 43 2. Paula-Ludwig-Weg 3. Riesstr. 4 4. Rigaer Str. 11 5. Rigaer Str. 19 6. Thorner Str. 19 7. Eggmühler Str 6
+- TOP 7.1.: Randsteinabsenkung Ecke Schiestlstraße / Rigaer Straße, 80992 München [BA-Antrag Nr. 14-20/B 06830; bereits im Oktober 2019 ausgeführt]
+- TOP 7.2.: Kinderforum in Moosach am 29.04.2019: Erhöhung der Reinigungsintervalle in der Grünanlage am Amphionpark und Aufstellung zusätzlicher Hundekottütenspender in Grünanlagen um Nanga-Parbat-Straße [Schreiben BA10 vom 05.05.2019; Müllanfall im Rahmen, zusätzliche Reinigungen bei Bedarf. Anbringen von 2 Tütenspendern im öffentlichen Bereich.]
+- TOP 7.3.: Kinderforum in Moosach am 29.04.2019: Reinigung der Fußgänger-Unterführung am S-Bahnhof Moosach [Schreiben BA10 vom 19.09.2019; Reinigung der Wände und Beleuchtungsanlage wird veranlasst, Abfallbehälter wird zusätzlich aufgestellt.]
+- TOP 7.4.: Ampel-Nachrüstung Kreuzung Wintrichring/ Dachauer Straße: Taktiles Signal für Blinde [Schreiben BA10 vom 118.07.2019; LSA-Austausch komplett in 2020 vorgesehen, umgehende Nachrüstung technisch nicht möglich]
+- TOP 7.5.: Wintrichring: Zurücksetzen des Hinweisschildes auf die Rechtsabbiegespur in die Allacher Straße [Schreiben des BA10 vom 17.10.2019; Einordnungstafel wird 30m in nördliche Richtung versetzt.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumentfernungen und Gehölzepflegemaßnahmen a) an Straßen und in öffentlichen Grünflächen (Hengerler Straße, Glogauer Platz, Ohlauer Platz u.a.) b) in den Aussenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken (verschiedene Schulen und Kitas)
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Dachauer Str. 260; Aufhebung Kurzparkzone und Errichtung absolutes Haltverbot und Dachauer Straße/ Hugo-Troendle-Straße; Errichtung Wendeverbot 2. Dachauer Str. 399; Einrichtung Kurzparkplätze
+- TOP 8.4.: Unveränderte Fortführung eines Gaststättenbetriebes: Bunzlauer Platz 1
+- TOP 8.5.: Allgemeinverfügung der Landeshauptstadt München über das Verbot des Abbrennens von pyrotechnischen Gegenständen der Kategorie F2 mit ausschließlicher Knallwirkung innerhalb des mittleren Ringes (Umweltzone)
+- TOP 8.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 8.7.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 8.8.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 8.9.: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 8.10.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 8.11.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 8.12.: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
+- TOP 8.13.: (U) Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 8.14.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 8.15.: (U) Mehrjahresinvestitionsprogramm (MIP) 2019 - 2023 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.18.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2019 - 2023, Einzelplan 4 / Sozialbereich
+- TOP 8.19.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 8.20.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 8.21.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.22.: Mobilfunk: Erweiterung eines bestehenden Mobilfunkstandortes in der Riesstraße - nicht-öffentlich -
+- TOP 8.23.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Bielefelder Straße
+- TOP 8.24.: WEB - alle Anträge vom 16.10.2019 bis 31.10.2019 - nicht-öffentlich -
