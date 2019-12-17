@@ -91,6 +91,7 @@
 - [§ 50 Mehrarbeitsvergütung für Soldaten](0050.md)
 - [§ 50a Vergütung für Soldaten mit besonderer zeitlicher Belastung](0050a.md)
 - [§ 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern](0050b.md)
+- [§ 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern](0050b-2.md)
 - [§ 51 Andere Zulagen und Vergütungen](0051.md)
 
 ## Abschnitt 5 Auslandsbesoldung

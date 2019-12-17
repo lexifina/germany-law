@@ -37,3 +37,4 @@ Nachstehende Pläne und Programme fallen nach § 2 Absatz 7 in den Anwendungsber
 | 2.10 | Bestimmung von Maßnahmen durch Rechtsverordnung nach § 123 Satz 2 des Strahlenschutzgesetzes |
 | 2.11 | Radonmaßnahmenplan nach § 122 Absatz 1 des Strahlenschutzgesetzes |
 | 2.12 | Aktionspläne nach § 40d des Bundesnaturschutzgesetzes |
+| 2.13 | Klimaschutzprogramme nach § 9 des Bundes-Klimaschutzgesetzes |

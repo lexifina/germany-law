@@ -190,6 +190,8 @@ Endnutzerleistungen
 - [§ 77n Fristen, Entgeltmaßstäbe und Regulierungsziele der nationalen Streitbeilegung](0077n.md)
 - [§ 77o Verordnungsermächtigungen](0077o.md)
 - [§ 77p Genehmigungsfristen für Bauarbeiten](0077p.md)
+- [§ 77q Vorausschau zum Mobilfunknetzausbau](0077q.md)
+- [§ 77r Verordnungsermächtigung](0077r.md)
 
 ## Teil 6 Universaldienst
 

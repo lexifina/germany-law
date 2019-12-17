@@ -89,6 +89,7 @@
 | § 51 | Festsetzung einer Pauschgebühr |
 | § 52 | Anspruch gegen den Beschuldigten oder den Betroffenen |
 | § 53 | Anspruch gegen den Auftraggeber, Anspruch des zum Beistand bestellten Rechtsanwalts gegen den Verurteilten |
+| § 53a | Vergütungsanspruch bei gemeinschaftlicher Nebenklagevertretung |
 | § 54 | Verschulden eines beigeordneten oder bestellten Rechtsanwalts |
 | § 55 | Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse |
 | § 56 | Erinnerung und Beschwerde |

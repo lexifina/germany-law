@@ -34,7 +34,7 @@
 |  |  | § 28 | Deutsches Strafverfahren und Überstellungsersuchen |
 |  |  | § 29 | Herausgabe von Gegenständen im Überstellungsverfahren |
 |  |  | § 30 | Beschlagnahme und Durchsuchung |
-|  |  | § 31 | Beistand |
+|  |  | § 31 | Rechtsbeistand |
 |  |  | § 32 | Vereinfachte Überstellung |
 |  |  | § 33 | Anrufung des Bundesgerichtshofes |
 | Teil 3 |
@@ -53,7 +53,7 @@
 |  |  | § 43 | Vollstreckung von Geldstrafen |
 |  |  | § 44 | Vollstreckung von Anordnungen der Einziehung von Taterträgen |
 |  |  | § 45 | Vollstreckung von Wiedergutmachungsanordnungen |
-|  |  | § 46 | Zuständigkeit, Anrufung des Bundesgerichtshofes, Beistand |
+|  |  | § 46 | Zuständigkeit, Anrufung des Bundesgerichtshofes, Rechtsbeistand |
 | Teil 5 |
 | Sonstige Rechtshilfe |
 |  |  | § 47 | Grundsatz |

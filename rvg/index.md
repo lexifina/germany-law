@@ -91,6 +91,7 @@
 - [§ 51 Festsetzung einer Pauschgebühr](0051.md)
 - [§ 52 Anspruch gegen den Beschuldigten oder den Betroffenen](0052.md)
 - [§ 53 Anspruch gegen den Auftraggeber, Anspruch des zum Beistand bestellten Rechtsanwalts gegen den Verurteilten](0053.md)
+- [§ 53a Vergütungsanspruch bei gemeinschaftlicher Nebenklagevertretung](0053a.md)
 - [§ 54 Verschulden eines beigeordneten oder bestellten Rechtsanwalts](0054.md)
 - [§ 55 Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse](0055.md)
 - [§ 56 Erinnerung und Beschwerde](0056.md)

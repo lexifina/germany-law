@@ -1,7 +1,9 @@
 # Wohnungsbau-Prämiengesetz
 
 - [§ 1 Prämienberechtigte](0001.md)
+- [§ 1 Prämienberechtigte](0001-2.md)
 - [§ 2 Prämienbegünstigte Aufwendungen](0002.md)
+- [§ 2 Prämienbegünstigte Aufwendungen](0002-2.md)
 - [§ 2a Einkommensgrenze](0002a.md)
 - [§ 2b](0002b.md)
 - [§ 3 Höhe der Prämie](0003.md)
@@ -14,3 +16,4 @@
 - [§ 8 Anwendung der Abgabenordnung und der Finanzgerichtsordnung](0008.md)
 - [§ 9 Ermächtigungen](0009.md)
 - [§ 10 Schlußvorschriften](0010.md)
+- [§ 10 Schlußvorschriften](0010-2.md)

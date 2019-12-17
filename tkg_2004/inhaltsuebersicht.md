@@ -196,6 +196,8 @@
 | § 77n | Fristen, Entgeltmaßstäbe und Regulierungsziele der nationalen Streitbeilegung |
 | § 77o | Verordnungsermächtigungen |
 | § 77p | Genehmigungsfristen für Bauarbeiten |
+| § 77q | Vorausschau zum Mobilfunknetzausbau |
+| § 77r | Verordnungsermächtigung |
 |  |
 | Teil 6 |
 | Universaldienst |

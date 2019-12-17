@@ -47,7 +47,7 @@
 - [§ 37 Vorübergehende Auslieferung](0037.md)
 - [§ 38 Herausgabe von Gegenständen im Auslieferungsverfahren](0038.md)
 - [§ 39 Beschlagnahme und Durchsuchung](0039.md)
-- [§ 40 Beistand](0040.md)
+- [§ 40 Rechtsbeistand](0040.md)
 - [§ 41 Vereinfachte Auslieferung](0041.md)
 - [§ 42 Anrufung des Bundesgerichtshofes](0042.md)
 
@@ -57,8 +57,7 @@
 - [§ 44 Zuständigkeit](0044.md)
 - [§ 45 Durchlieferungsverfahren](0045.md)
 - [§ 46 Durchlieferung bei vorübergehender Auslieferung](0046.md)
-- [§ 47 Unvorhergesehene Zwischenlandung bei Beförderung auf dem
-Luftweg](0047.md)
+- [§ 47 Unvorhergesehene Zwischenlandung bei Beförderung auf dem Luftweg](0047.md)
 
 ## Vierter Teil Rechtshilfe durch Vollstreckung
 ausländischer Erkenntnisse
@@ -68,7 +67,7 @@ ausländischer Erkenntnisse
 - [§ 50 Sachliche Zuständigkeit](0050.md)
 - [§ 51 Örtliche Zuständigkeit](0051.md)
 - [§ 52 Vorbereitung der Entscheidung](0052.md)
-- [§ 53 Beistand](0053.md)
+- [§ 53 Rechtsbeistand](0053.md)
 - [§ 54 Umwandlung der ausländischen Sanktion](0054.md)
 - [§ 54a Vollstreckung langer freiheitsentziehender Sanktionen](0054a.md)
 - [§ 55 Entscheidung über die Vollstreckbarkeit](0055.md)
@@ -108,6 +107,9 @@ Verfahren](0070.md)
 
 ## Siebenter Teil Gemeinsame Vorschriften
 
+
+### Abschnitt 1 Allgemeine Regelungen
+
 - [§ 73 Grenze der Rechtshilfe](0073.md)
 - [§ 74 Zuständigkeit des Bundes](0074.md)
 - [§ 74a Internationale Strafgerichtshöfe, zwischen- und überstaatliche Einrichtungen](0074a.md)
@@ -116,6 +118,15 @@ Verfahren](0070.md)
 - [§ 77 Anwendung anderer Verfahrensvorschriften](0077.md)
 - [§ 77a Elektronische Kommunikation und Aktenführung](0077a.md)
 - [§ 77b Verordnungsermächtigung](0077b.md)
+
+### Abschnitt 2 Schutz personenbezogener Daten im Rechtshilfeverkehr
+
+- [§ 77c Anwendungsbereich](0077c.md)
+- [§ 77d Übermittlung personenbezogener Daten](0077d.md)
+- [§ 77e Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle](0077e.md)
+- [§ 77f Verfahren bei Fehlen eines Angemessenheitsbeschlusses](0077f.md)
+- [§ 77g Zustimmung zur Weiterleitung personenbezogener Daten](0077g.md)
+- [§ 77h Verwendung von übermittelten personenbezogenen Daten](0077h.md)
 
 ## Achter Teil Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europäischen Union
 
@@ -149,6 +160,7 @@ Mitgliedstaat der Europäischen Union
 
 - [§ 83h Spezialität](0083h.md)
 - [§ 83i Unterrichtung über Fristverzögerungen](0083i.md)
+- [§ 83j Rechtsbeistand](0083j.md)
 
 ## Neunter Teil Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
 
@@ -198,7 +210,7 @@ Mitgliedstaat der Europäischen Union
 - [§ 87b Zulässigkeitsvoraussetzungen](0087b.md)
 - [§ 87c Vorbereitung der Entscheidung über die Bewilligung](0087c.md)
 - [§ 87d Grundsätzliche Pflicht zur Bewilligung](0087d.md)
-- [§ 87e Beistand](0087e.md)
+- [§ 87e Rechtsbeistand](0087e.md)
 - [§ 87f Bewilligung der Vollstreckung](0087f.md)
 - [§ 87g Gerichtliches Verfahren](0087g.md)
 - [§ 87h Gerichtliche Entscheidung nach Einspruch](0087h.md)
@@ -297,7 +309,13 @@ Mitgliedstaat der Europäischen Union
 - [§ 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen](0096.md)
 - [§ 97 (weggefallen)](0097.md)
 
-## Elfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
+## Elfter Teil Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten
+
+- [§ 97a Anwendungsbereich](0097a.md)
+- [§ 97b Übermittlung personenbezogener Daten](0097b.md)
+- [§ 97c Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle](0097c.md)
+
+## Zwölfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
 
 - [§ 98 Vorrang des Elften Teils](0098.md)
 - [§ 99 Grundsätzliche Pflicht zur Bewilligung](0099.md)

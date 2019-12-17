@@ -37,9 +37,7 @@ oder in einem ausländischen Staat
 (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)](0011.md)
 - [§ 12 Überstellungshaftbefehl](0012.md)
 - [§ 13 Vorläufige Festnahme](0013.md)
-- [§ 14 Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls
-
-(Zu Artikel 59 Abs. 2 des Römischen Statuts)](0014.md)
+- [§ 14 Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls(Zu Artikel 59 Abs. 2 des Römischen Statuts)](0014.md)
 - [§ 15 Verfahren nach vorläufiger Festnahme](0015.md)
 - [§ 16 Haftentscheidungen, Aussetzung des Vollzuges des Überstellungshaftbefehls
 
@@ -62,7 +60,7 @@ oder in einem ausländischen Staat
 - [§ 28 Deutsches Strafverfahren und Überstellungsersuchen](0028.md)
 - [§ 29 Herausgabe von Gegenständen im Überstellungsverfahren](0029.md)
 - [§ 30 Beschlagnahme und Durchsuchung](0030.md)
-- [§ 31 Beistand](0031.md)
+- [§ 31 Rechtsbeistand](0031.md)
 - [§ 32 Vereinfachte Überstellung
 
 (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)](0032.md)
@@ -77,9 +75,7 @@ oder in einem ausländischen Staat
 
 (Zu Artikel 89 Abs. 3 des Römischen Statuts)](0035.md)
 - [§ 36 Zuständigkeit](0036.md)
-- [§ 37 Durchbeförderungsverfahren
-
-(Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)](0037.md)
+- [§ 37 Durchbeförderungsverfahren(Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)](0037.md)
 - [§ 38 Mehrfache Durchbeförderung](0038.md)
 - [§ 39 Unvorhergesehene Zwischenlandung
 
@@ -101,7 +97,7 @@ Artikel 106, Artikel 110 des Römischen Statuts)](0041.md)
 - [§ 45 Vollstreckung von Wiedergutmachungsanordnungen
 
 (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)](0045.md)
-- [§ 46 Zuständigkeit, Anrufung des Bundesgerichtshofes, Beistand](0046.md)
+- [§ 46 Zuständigkeit, Anrufung des Bundesgerichtshofes, Rechtsbeistand](0046.md)
 
 ## Teil 5 Sonstige Rechtshilfe
 

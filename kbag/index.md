@@ -1,4 +1,4 @@
-# Gesetz über die Errichtung eines Kraftfahrt-Bundesamts
+# Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes
 
 - [§ 1](0001.md)
 - [§ 2](0002.md)
