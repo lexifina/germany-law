@@ -1,0 +1,12 @@
+# Entwurf der Haushaltssatzung und des Haushaltsplanes 2020 und des Wirtschaftsplanes des Abwasserwerkes Langenberg für das Wirtschaftsjahr 2020 sowie der mittelfristigen Finanzplanung bis 2023 und des Stellenplanes 2020
+
+- Körperschaft: Gemeinde Langenberg
+- Drucksache/Vorlage: VL-168/2019 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-12-17
+- Ratsinformationssystem: https://ratsinfo.langenberg.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXM_JZMiDauFl5Rt2DVyidc
+- OParl: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/paper/1033
+- Quelle: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Entwurf der Haushaltssatzung und des Haushaltsplanes 2020 und des Wirtschaftsplanes des Abwasserwerkes Langenberg für das Wirtschaftsjahr 2020 sowie der mittelfristigen Finanzplanung bis 2023 und des Stellenplanes 2020) https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcozjC94AKEk5mBHbUcAr_KyUMwBUa1wMFHxIzj61C1s/Beschlussvorlage_VL-168-2019_1._Ergaenzung.pdf
+- Beratung:  https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/meeting/3668 https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/organization/1-1
+- underDirectionOf: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/organization/3-2
