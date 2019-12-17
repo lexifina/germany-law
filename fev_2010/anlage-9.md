@@ -186,6 +186,7 @@ II. nationale Schlüsselzahlen
 | 22 |  | (weggefallen) |
 | 23 | 193 | Auflagen zu den Klassen D und DE: Bis zur Vollendung des 23. Lebensjahres nur bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42 und 43 PBefG bei Linienlängen von bis zu 50 Kilometer nach beschleunigter Grundqualifikation nach § 4 Absatz 2 BKrFQG. |
 | 24 | 194 | Klasse B berechtigt im Inland a) bis zur Vollendung des 21. Lebensjahres zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A1 b) nach Vollendung des nach Buchstabe a vorgeschriebenen Mindestalters zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A. |
+| 25 | 195 | Auflage zu der Klasse AM: Bis zur Vollendung des 16. Lebensjahres nur in den Ländern, die von der Ermächtigung des § 6 Absatz 5a StVG Gebrauch gemacht haben. |
 IIa. Entfallene nationale Schlüsselzahlen
 | Lfd. Nr. | Entfallene Schlüsselzahl |
 | 1 | 192 | Berechtigt abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung zum Führen von Fahrzeugen der Fahrerlaubnisklasse B, deren zulässige Gesamtmasse 3 500 kg übersteigt, jedoch nicht mehr als 4 250 kg beträgt, soweit 1.die Fahrzeuge a)elektrisch betrieben undb)im Bereich Gütertransport eingesetztsind und2.der Inhaber der Fahrerlaubnis an einer zusätzlichen Fahrzeugeinweisung teilgenommen hat. |
