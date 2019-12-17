@@ -170,7 +170,7 @@
 |  |  | Jugendarrest | § 90 |
 |  |  | (weggefallen) | § 91 |
 |  |  | Rechtsbehelfe im Vollzug | § 92 |
-|  |  | (weggefallen) | § 93 |
+|  |  | Gerichtliche Zuständigkeit und gerichtliches Verfahren bei Maßnahmen, die der vorherigen gerichtlichen Anordnung oder der gerichtlichen Genehmigung bedürfen | § 93 |
 |  |  | Unterbringung in einer Entziehungsanstalt | § 93a |
 | Viertes Hauptstück |  |
 |  | Beseitigung des Strafmakels |  |
