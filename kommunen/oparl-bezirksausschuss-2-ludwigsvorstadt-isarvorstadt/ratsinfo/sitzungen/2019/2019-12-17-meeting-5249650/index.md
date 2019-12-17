@@ -1,0 +1,137 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5249650
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5249650
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorstellung des Informationsangebots für das Oktoberfestattentat
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Entfernung der Betonplatten am Baum vor der Schillerstraße 31, um dort ein Grünpatenprojekt zu ermöglichen
+- TOP 1.2.: Umgestaltung des Spielplatzes an der Schmellerwiese
+- TOP 1.3.: Antrag a.1 der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 Kostenfreie MVV-Tickets für Kinder aus Übergangsklassen
+- TOP 1.4.: Antrag a.2 der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 MVV-Kindermonatstickets für maximal 20,- €
+- TOP 1.5.: Antrag b der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 Skateranlage für Anfänger
+- TOP 1.6.: Antrag c der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 Haus für Obdachlose
+- TOP 1.7.: Antrag d der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 Mildere Konsequenzen beim Fehlen in der Schule wegen „Fridays for Future“-Demos
+- TOP 2.1.: (E) Stadtbezirksbudget Bürgerinitiative Piazza Zenetti Projekt Piazza Zenetti von April - Oktober 2020 8.878,0 Euro, Az.: 0262.0-2-0314
+- TOP 2.2.: Stadtbezirksbudget Erhöhung der Zuwendung an den Tanztendenz München e.V. um die Summe von 4.499,02 € für Umbaumaßnahmen (ursprünglicher Antrag s. TOP A 2.7 der Sitzung am 21.05.2019)
+- TOP 5.2.: Task Force Kindertageseinrichtungen, Sachstandsbericht (vertagt aus der Sitzung am 26.11.2019)
+- TOP 5.3.: Gestaltung der Hauswand Pestalozzistraße 52 - 60
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Schillerstraße 11a Nutzungsänderung: Bar zu Wettannahmebüro
+- TOP 3.1.2.: Pettenkoferstraße 24 / RGB TEKTUR: Anbau zweier Balkone
+- TOP 3.1.3.: Pettenkoferstraße 25 / RGB VORBESCHEID: Neubau eines Wohngebäudes im Hinterhof
+- TOP 3.1.4.: Herzog-Heinrich-Straße 5 Erweiterung einer Dachgeschosswohnung und Anbau eines Aufzugs
+- TOP 3.1.5.: Bavariaring 18 TEKTUR: Verringerung der Grundfläche, Zusammenlegung des Erd- und Obergeschosses zu einer Wohneinheit, Verkleinerung der Tiefgarage durch den Einbau von Duplex-Parksystemen
+- TOP 3.1.6.: Westermühlstraße 19 VORBESCHEID: Aufstockung eines eingeschossigen Rückgebäudes sowie Nutzungsänderung zu einem Wohnhaus
+- TOP 3.1.7.: Goethestraße 25a Nutzungsänderung Lagerflächen zu Bürofläche
+- TOP 3.1.8.: Goethestraße 11 Teilumbau Hotel Dolomit - Nutzungsänderung EG / UG: Laden zu Gaststätte mit Freischankfläche sowie Anbau von Markisen an den Vordächern über den Freischankflächen und Änderung der bisher externen Büro- und Konferenzräumen zu Hotelnutzung
+- TOP 3.1.9.: Waltherstraße 17 TEKTUR: Dachgeschossausbau
+- TOP 3.1.10.: Mittererstraße 9 TEKTUR: Änderung Freiflächenplan mit Wirtsgarten und Ständer für 26 Fahrräder sowie Nutzungsänderung
+- TOP 3.2.1.: Ersatzbaumpflanzung Goethestraße Ecke Pettenkoferstraße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Brandgefahr durch Elektroautos (Anfrage vom 27.11.2019)
+- TOP 1.2.: Informationsgewinnung bezüglich zulässiger Geruchsemissionen; vgl. TOP C 5.6
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: (E) Radabstellanlagen in der Jahnstraße Schaffung von mehr Fahrradabstellplätzen in der Jahnstraße Empfehlung Nr. 14-20 / E 01817 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017 Umwandlung von vier Auto- in Fahrradstellplätze in der Jahnstraße Empfehlung Nr. 14-20 / E 02286 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Veranstaltung „Eiche-Fasching“ am 25.02.2020, Reichenbachstraße
+- TOP 3.2.1.: Errichtung einer Ladezone im Bereich Goethestraße 40/42 (vertagt aus der Sitzung am 22.10.2019)
+- TOP 3.2.2.: Austausch von Lichtsignalanlagen an der Paul-Heyse-/Schwanthalerstraße
+- TOP 3.2.3.: Bauzeitliches Fahrradparken am Hauptbahnhof, Tempo 30 in der Bayerstraße zur Ermöglichung von Fahrradabstellanlagen am Fahrbahnrand
+- TOP 3.2.4.: Kfz-Stellplatzumwandlung vor den Häusern Goethestraße 2 bis 8 zu circa 75 Fahrradabstellplätzen
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Stellplatzumwandlung in der Thalkirchner Straße 88, Alternativstandorte, Antwortschreiben zum BA-Antrag Nr. 14-20 / B 06592
+- TOP 3.3.2.: Gefahrenstelle für Fahrradfahrer an der Thalkirchner Straße, Antwortschreiben zum Bürgeranliegen
+- TOP 3.3.3.: Erweiterung der Gehwegnase an der Kreuzung St.-Pauls- / Schwanthalerstraße zur Vergrößerung der Aufstellfläche vor dem Schuleingang Schwanthaler-Schule
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorschlag zur Bestellung einer städtischen Leistung: Umgestaltung des Kapuzinerplatzes (vertagt aus der Sitzung am 26.11.2019)
+- TOP 5.2.: Vorschlag zur Bestellung einer städtischen Leistung: Dauerhafte Umgestaltung des Zenettiplatzes (vertagt aus der Sitzung am 26.11.2019)
+- TOP 5.3.: Bürgeranliegen, Ehrengutstraße zwischen Dreimühlenstraße und Roecklplatz für Autos sperren (vertagt aus der Sitzung am 26.11.2019)
+- TOP 5.4.: Bürgeranliegen, Beibehaltung der Trambahnhaltestelle Fraunhoferstraße 38 (vertagt aus der Sitzung am 26.11.2019)
+- TOP 5.5.: Bürgeranliegen, Verkehrskonzept für das Gärtnerplatz- / Glockenbachviertel
+- TOP 5.6.: Bürgeranliegen, Unser Schlachthof stinkt zum Himmel
+- TOP 5.7.: Bürgeranliegen, Lichtverschwendung in der Grundschule Tumblingerstraße
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Vollzug des Haushaltsplanes 2020 für den Bereich „Förderung freier Träger“ des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung; Sitzungsvorlage Nr. 14-20 / V 16835
+- TOP A 4.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP A 4.5.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP A 4.6.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen, Meldeliste vom 04.11.2019
+- TOP B 4.3.: Festsetzen der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019-2023, Infrastrukturversorgungskonzept 2019-2023, Sitzungsvorlage Nr. 14-20 / V 15810
+- TOP B 4.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP B 4.5.: Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt Münchens, Vergabeermächtigung, Sitzungsvorlage Nr. 14-20 / V 16302
+- TOP B 4.6.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP B 4.7.: Baumschutz in der Landeshauptstadt München, Sitzungsvorlage Nr. 14-20 / V 16921
+- TOP B 4.8.: (U) Anschlussbereiche westlich / östlich der Ludwigsbrücken zwischen Rumford-/Thierschstraße und Am Gasteig im 1. Stadtbezirk Altstadt - Lehel, im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 11.000.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP B 4.9.: Fällgenehmigung, eine Kastanie, Jahnstraße 48
+- TOP B 4.10.: Fällgenehmigung, ein Laubbaum, Ehrengutstraße 20
+- TOP B 4.11.: Tekturantrag Bavariaring 47 - Antwort auf BA-Stellungnahme vom 27.11.2019
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Aufforderung der Anbieter der E-Tretroller zur Einhaltung der Nutzungsbedingungen des öffentlichen Raums
+- TOP C 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.8.: Umgestaltung der Fraunhoferstraße im Dialog mit Gewerbetreibenden und Anwohnenden
+- TOP C 4.9.: Antrag auf Genehmigung einer Freischankfläche, Goethestraße 40, Entscheidung des Oberbürgermeisters
+- TOP C 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.11.: (E) Lindwurmstraße stadtauswärts: Ampelertüchtigung für links abbiegende Radfahrer in die Reisingerstraße
+- TOP C 4.12.: Jahresgenehmigung 2020 für Reinigungsarbeiten an U-Bahnhöfen
+- TOP C 4.13.: Jahresgenehmigung 2020 für Müllsammelfahrzeuge im Stadtgebiet München
+- TOP C 4.14.: Informationskampagne Fahrradstraße
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Übersichtslisten zum Stadtbezirksbudget, 2. Halbjahr 2019
+- TOP E 2: Bereich Besondere Angelegenheiten
