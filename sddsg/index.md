@@ -7,4 +7,3 @@
 - [§ 5 Begrenzung der Verpflichtung zur Löschung](0005.md)
 - [§ 6 Anwendung des Bundesdatenschutzgesetzes](0006.md)
 - [§ 7 Inkrafttreten](0007.md)
-- [§ 8 (jetzt § 7)](0008.md)
