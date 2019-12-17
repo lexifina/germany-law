@@ -1,0 +1,146 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147328
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147328
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Fehlende Abfalleimer in der Zillertalstraße
+- TOP 6.6.2: Fehlende Abfalleimer am U-Bahnhof Westpark Ecke Garmischer Str. / Ehrwalder Str.
+- TOP 6.6.3: Errichtung einer Moschee in der Edelsbergstraße
+- TOP 10.10.1: (E) Stadtbezirksbudget FC Ludwigsvorstadt München e.V. Anschaffung von Mini-Toren 1.136,25 € / Az. 0262.0-7-0272
+- TOP 10.10.2: (E) Stadtbezirksbudget Seniorenvertretung Sendling-Westpark Neujahrsempfang am 16.01.2020 750,00 € / Az. 0262.0-7-0271
+- TOP 10.10.3: (E) Stadtbezirksbudget TheaterSpielhaus e.V. Valene und die gute Nacht Schaukel vom 15.01. - 15.07.2020 2.956,00 € / Az. 0262.0-7-0270
+- TOP 10.10.4: (E) Stadtbezirksbudget THETA e.V. Anschubfinanzierung 10.180,00 € / Az. 0262.0-7-0268
+- TOP 10.10.5: (E) Stadtbezirksbudget Heldenfrühstück Ska Rock Jahresabschlusskonzert am 20.12.2019 865,58 € / Az. 0262.0-7-0269
+- TOP 10.10.6: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-7-0274
+- TOP 10.10.7: (E) Stadtbezirksbudget Binario11 Regenwasser und Bewässerung der Grümpatenschaft (Green City) von Binario 11 vom 15.02.20 – 30.04.20 2.350,- €; Az. 0262.0-7-0273
+- TOP 11.11.1: Kennzeichnung der Fußgängerübergänge an der Albert-Roßhaupter-Straße
+- TOP 11.11.2: Radwegüberquerungen rot einfärben
+- TOP 11.11.3: Parklizenzgebiet nach Westen erweitern
+- TOP 15.15.1: Baumschutz / Bauvorhaben Edelsbergstraße
+- TOP 15.15.2: Baumschutz / Bauvorhaben Gilmstraße
+- TOP 16.16.1: CSU-Veranstaltung am Luise-Kiesselbach-Platz im Anschluß an die Feier des Maibaumverein Sendling e.V.
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.20.1: Änderung der BA-Satzung; Verankerung der Funktion der/des Gleichstellungsbeauftragte/n
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Verlagerung der Bezirksinspektion Süd
+- TOP 22.22.2: VRA im Bereich Johann-Clanze-Straße / Höltystraße / Eichendorffplatz
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Mehr Sicherheit bei der Querung Johann-Clanze-Straße in Höhe des Eichendorffplatzes
+- TOP 31.31.2: Verbesserung des Radwegeangebots in der Höglwörther Straße
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kulturreferat
+- TOP 36.: Lokalbaukommission
+- TOP 36.36.1: Listen der Bauvorhaben
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.37.1: Sachstand Anschaffung "TOPO-Boxen"
+- TOP 37.37.2: StVO-Beschilderung ab nordöstlich der Höllentalstraße - Vorverlegung des Durchfahrtsverbots
+- TOP 37.37.3: Ausweisen von temporären PKW-Parkplätzen in der Inninger Straße
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Genossenschaftlicher Wohnungsbau, Wohnungen für Mitarbeiterinnen und Mitarbeiter der Münchenstift GmbH und sozial-kulturelle Räume für das Quartier rund um den Luise-Kiesselbach-Platz
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen der Stadtwerke München
+- TOP 43.43.2: Kurzbericht über die vom BA geförderte Maßnahme "SüdpART"
+- TOP 43.43.3: Verlegung der Wertstoffcontainer am Pfrontener Platz
+- TOP 45.: Baureferat
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Kurzbericht zur geförderten Ausstellung 14x2m
+- TOP 47.47.2: Verwendungsnachweis: Caritas WG Andreas-Vöst-Straße
+- TOP 47.47.3: Verwendungsnachweis: Feierwerk Skatebard-Minirampe
+- TOP 47.47.4: Bilanz Stadtbezirksbudget 2. Halbjahr 2019.
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VRA Gottfried-Böhm-Ring - Ausführung
+- TOP 49.49.2: VRA Ettalstraße - Ausführung
+- TOP 49.49.3: Bürgeranfrage - Beschilderung in der Pollinger Straße
+- TOP 49.49.4: Drehgenehmigungen im Westpark
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Ausnahmezulassung für Müllsammelfahrzeuge in 2020
+- TOP 54.54.2: Ausnahmezulassung Reinigung U-Bahnhöfe in 2020
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 55.55.2: (U) Einhausung der A96 im Stadtgebiet der Landeshauptstadt München - Sachstand und Empfehlungen - Machbarkeitsstudie zur Einhausung der A96 unverzüglich dem Stadtrat zur Entscheidung vorlegen Empfehlung Nr. 14-20 / E 01729 14351der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 10.10.2017 A96; Machbarkeitsanalyse zur Einhausung (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 01738 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 17.10.2017
+- TOP 55.55.3: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: (U) MÜNCHENSTIFT GmbH - Vorbereitung einer möglichen Generalsanierung des Hauses St. Josef - Erstellung des vorläufigen Nutzerbedarfspro- gramms - Voruntersuchungen/Vorplanungsauftrag - Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms 7. Stadtbezirk - Sendling-Westpark
+- TOP 56.56.2: (U) Unterstützung für Münchner Schülerinnen und Schüler Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Aufstockung bzw. Einführung an diversen Grundschulen Antrag Nr. 14-20 / B 05884... Einrichtung einer Planstelle für Schulsozialarbeit an der Grundschule an der Gilmstraße Antrag Nr. 14-20 / B 05216 ... Zusammengehörigkeitsgefühl stärken II Antrag Nr. 14-20 / A 04397 ... Mobbing an Münchner Schulen gemeinsam wirksam vorbeugen und bekämpfen! Antrag Nr. 14-20 / A 03679 ...
+- TOP 56.56.3: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 57.57.1: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 57.57.2: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 57.57.3: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 57.57.4: (U) Entwurf des Mehrjahresinvestitionsprogramms 2019 - 2023 Einzelplan 4 / Jugendamtsbereich
+- TOP 57.57.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.7: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 57.57.8: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 57.57.9: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 57.57.10: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 57.57.11: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 57.57.12: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 57.57.13: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 57.57.14: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 57.57.15: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 57.57.16: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 57.57.17: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 57.57.18: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 57.57.19: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 57.57.20: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 57.57.21: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 57.57.22: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 57.57.23: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
