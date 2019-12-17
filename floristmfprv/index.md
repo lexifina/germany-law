@@ -1,0 +1,15 @@
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin
+
+- [§ 1 Ziel der Prüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Gliederung der Prüfung](0003.md)
+- [§ 4 Handlungsbereiche](0004.md)
+- [§ 5 Handlungsobjekte](0005.md)
+- [§ 6 Durchführung der Prüfung](0006.md)
+- [§ 7 Befreiung von einzelnen Prüfungsbestandteilen](0007.md)
+- [§ 8 Bewertung der Prüfungsleistungen](0008.md)
+- [§ 9 Bestehen der Prüfung, Gesamtnote](0009.md)
+- [§ 10 Zeugnisse](0010.md)
+- [§ 11 Wiederholung der Prüfung](0011.md)
+- [Anlage 1 (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel](anlage-1.md)
+- [Anlage 2 (zu § 10)Zeugnisinhalte](anlage-2.md)
