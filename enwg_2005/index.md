@@ -122,6 +122,8 @@
 - [§ 27 Zugang zu den vorgelagerten Rohrleitungsnetzen](0027.md)
 - [§ 28 Zugang zu Speicheranlagen](0028.md)
 - [§ 28a Neue Infrastrukturen](0028a.md)
+- [§ 28b Bestandsleitungen zwischen Deutschland und einem Drittstaat](0028b.md)
+- [§ 28c Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten](0028c.md)
 
 ### Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen
 
