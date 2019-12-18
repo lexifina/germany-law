@@ -1,0 +1,92 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5222244
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5222244
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.: Vorstellung „Bildung im Quartier“ durch die mobile Bildungsmanagerin
+- TOP 4.4.1.: Anwohnerparkproblematik in der Nähe von BMW-Gebäuden und Olympiapark
+- TOP 4.4.2.: Lena-Christ-Straße (Südseite) – Parken auf Gehwegen - Antwortschreiben
+- TOP 4.4.3.: Halbseitiges Gehwegparken in der Hugo-Wolf-Straße (zwischen Weyprecht- und Rathenaustraße) erlauben - Rückmeldung auf den Abklärungsbedarf des BA 11
+- TOP 4.4.4.: BA 11-Wunsch: Einsichtnahme der Beurteilungsprotokolle zum Thema „Kontinuierliche Instandsetzung der Fahrradwege (SV Nr. 14-20 V/ 16573) - Antwort
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Akademisches Sinfonieorchester München e.V. Werkstattkonzert am 29.11.2019 2.250,- €; Az. 0262.0-11-0361
+- TOP 6.1.2.: (E) Stadtbezirksbudget Domagkateliers gGmbH Ausstellung "Mira Zyklus" vom 28.12.2019 - 28.03.2020 6.125,00 Euro, Az.: 0262.0-11-0363
+- TOP 6.1.3.: (E) Stadtbezirksbudget Outer Circle e.V. Unterführungsgestaltung am Rangierbahnhof von März – Mai 2020 9.000,- €; Az. 0262.0-11-0357
+- TOP 6.1.4.: (E) Stadtbezirksbudget Versöhnungskirche München Harthof Faschingskonzert am 22.02.2020 460,00 Euro, Az.: 0262.0-11-0365
+- TOP 6.1.5.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Anschaffung eines Betonkickers 2.326,57 Euro, Az.: 0262.0-11-0364
+- TOP 6.1.6.: (E) Stadtbezirksbudget Trägerverein Kulturhaus Milbertshofen e.V. 1. Interkulturelles Theaterfestival München vom 05.11.-09.11.2019 2.150,- €, Az. 0262.0-11-0355
+- TOP 6.1.7.: (E) Stadtbezirksbudget Heideflächenverein Münchener Norden e.V. Ergänzung des Lehrpfades im Umweltbildungsgelände der Fröttmaninger Heide von 01.01.2020 bis 30.06.2020 11.944,-€; Az. 0262.0-11-0359
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Weg zwischen Bernayspark und Dientzenhoferstraße (Höhe Kindertagesstätte) - Anbringen einer Straßenbeleuchtung Empfehlung Nr. 14-20 / E 02792 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 18.07.2019
+- TOP 6.2.2.: (E) Schmalkaldener-/Silcherstraße - Einrichtung eines absoluten Haltverbots
+- TOP 6.2.3.: (E) Aufstellen von ausreichend fest installierten Sitzbänken in den vorderen und hinteren Trainingsbereichen des TSV Milbertshofen (Hans-Denzinger-Straße)
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Mehr Trinkbrunnen im Stadtbezirk Milbertshofen - Am Hart
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Grundschule in der Nadistraße 3: Gewährleistung einer qualitativen Hortbetreuung mit längeren Öffnungszeiten
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Unterstützung des Antrags des BA 3 zur Priorisierung der „U29-Spange“ im Zuge des U-Bahn-Projekts „U9“ - positive Auswirkungen auf die „U26-Spange“ (U2)
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Änderung der BA-Satzung: Verankerung der Funktion der Gleichstellungsbeauftragten
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Preußenstraße a) Bauvorhaben: Neubau eines Bürogebäudes mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Lerchenauer Str. 114 a) Bauvorhaben: Neubau eines Bürogebäudes mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Antrag auf Baumfällung: Dewetstraße 15
+- TOP 8.2.4.: Senioren- und Pflegeheim im 11. Stadtbezirk - Standortsuche und Realisierung Beschlussentwurf
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Wings for Life Worldrun 2020" im Olympiapark am 03.05.2020
+- TOP 8.3.2.: Veranstaltung "Trail Run - ISPO Munich Night RUN 2020" im Olympiapark am 01.02.2020
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Bebauungsplan mit Grünordnung Nr. xxxx - Schnellbustrasse zwischen den U-Bahnhöfen Am Hart und Kieferngarten Abschnitt "Gymnasium München Nord - Bayernkaserne"
+- TOP 8.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Langensalzastraße (Südteil) - Absolutes Haltverbot
+- TOP 8.4.3.: Abfrage des Bedarfs nach Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 8.4.4.: Grünanlage Rathenaustraße – Fuß-/Radwegkonflikt
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Stadtbezirksbudget - Verwendungsnachweise, Kurzberichte: Freizeitstätte Neuland, KiTa Hildegard-v-Bingen-Anger, ASZ Milbertshofen, Männerchor Milbertshofen-Riesenfeld e.V., RIVA NORD
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.2.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheid: Frankfurter Ring 15-17 - Genehmigung (akute Umsturz-/ Bruchgefahr)
+- TOP 9.2.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 9.2.4.: (U) Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der Landeshauptstadt München (Datenerhebungssatzung EH) mit ergänzender Befragung Vergabeermächtigung
+- TOP 9.2.5.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 9.2.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 9.2.7.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 9.2.8.: (U) Bebauungsplan mit Grünordnung Nr. 1939d Rathenaustraße (südlich), Knorrstraße (westlich), BMW Forschungs- und Innovationszentrum (FIZ) Erweiterung Nord (nördlich), Schleißheimer Straße (östlich) und Bereich der ehemaligen Panzerbrücke - BMW FIZ Erweiterung Nord Nord - (Aufhebung des übergeleiteten Bebauungsplanes gemäß § 173 Abs. 3 BBauG und Teilverdrängung der Bebauungspläne Nrn. 40 Teil 2, 462, 948b, 948b (Teiländerung und Ergänzung), 948c, 1939a und 1939c) - Satzungsbeschluss - Stadtbezirk 11 Milbertshofen-Am Hart Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 9.2.9.: Zone innerhalb des Mittleren Ringes: Abbrennverbot von pyrotechnischen Gegenständen F2 mit ausschließlicher Knallwirkung (Silvesterknaller, Böller, etc.) - Allgemeinverfügung
+- TOP 9.2.10.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Tüllesamtstraße 1 / Wachterstraße 38
+- TOP 9.2.11.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheid: Griegstr. 47 - 49, Silberahorn - Zustimmung
+- TOP 9.2.12.: Meldelisten Bauvorhaben vom 04.11.2019 - 24.11.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 9.3.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 9.3.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Erlaubnis - Arbeiten im Straßenraum: Kämpferstraße 2 – 24 und gegenüber für den Neubau einer Wohnanlage
+- TOP 9.4.2.: Jahresgenehmigung 2020 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Vollzug des BImSchG und der 32. BImSchV)
+- TOP 9.4.3.: (U) Bebauungsplan mit Grünordnung Nr. 1989 - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne ...Verweis auf den Eckdatenbeschluss und Expressbustrasse... - Sitzungsvorlage Nr. 14-20 / V 11076 und V13449
