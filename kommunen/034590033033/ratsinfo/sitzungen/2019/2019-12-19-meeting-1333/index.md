@@ -1,0 +1,56 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2019-12-19T17:30:00+01:00
+- Ende: 2019-12-19T20:07:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVBwAbwrMYJrhER8IpbCW2k
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1333
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTdcvkfG80Crb7pxoRwuCDUxxzWmgWnuUDvKdIdp69cX/Bekanntmachung_Rat_19.12.2019.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTvfQZPri275jIIzR09tGcUkIypTE7wDaMwdNlQPas31/Oeffentliches_Beschlussprotokoll_Rat_19.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 29.10.2019
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Antrag der CDU-Fraktion auf Planung eines Radweges zwischen Osnabrück und Bramsche als Verlängerung des Osnabrücker Haseuferweges - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Antrag der CDU-Fraktion auf Planung eines Radschnellweges zwischen Bramsche - Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.3: Antrag der CDU-Fraktion auf vollständige Planung des Radweges zwischen Hollage und Halen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Antrag der CDU-Fraktion auf Erstellung eines Bebauungsplans im Bereich Harenkamp - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.5: Antrag der CDU-Fraktion auf Erstellung eines Bebauungsplan im Bereich Klönemoor/Hof im Hagen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.6: Antrag der CDU-Fraktion auf Erstellung eines Bebauungsplans im Bereich Stüvestraße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.7: Antrag der CDU-Fraktion auf Fortschreibung des Lärmaktionsplans der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.8: Antrag der CDU-Fraktion auf Ausweisung eines neuen Windvorranggebiets in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.9: Antrag der CDW/W-Fraktion auf Erstellung von Richtlinien zur Bezuschussung von Sportveranstaltungen der Sportvereine in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Wirtschaftsangelegenheiten
+- TOP 5.1: Neuordnung der Tourismusstrukturen im Landkreis Osnabrück, der Stadt Osnabrück und den Städten, Samtgemeinden und Gemeinden des Landkreises Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 6.1: Bebauungsplan Nr. 279 „Westlich Stadtweg“ hier: Beschluss über das städtebauliche Konzept - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Sanierungsverfahren „Wallenhorst-Zentrum“ hier: Ausstehende Projekte vor Abschluss des Verfahrens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Beschluss des Radverkehrskonzeptes der Gemeinde Wallenhorst als handlungsorientierte Grundlage zur Förderung des Radverkehrs - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Umsetzung des Radverkehrskonzeptes der Gemeinde Wallenhorst hier: Ausbau der „östlichen Uhlandstraße“ zum einem Geh- und Radweg - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Ersatzbau eines Pfarr- und Jugendheimes; hier: Antrag der Kath. Kirchengemeinde St. Josef Hollage auf Bezuschussung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Antrag der Kath. Kirchengemeinde St. Josef Hollage auf Rückkauf des Philipp-Neri-Hauses (Hof- und Gebäudefläche Hollager Straße 127, 49134 Wallenhorst) durch die Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Schulangelegenheiten
+- TOP 8.1: Errichtung eines Kleinspielfeldes auf dem Schulhof der Katharinaschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Verkehrsangelegenheiten
+- TOP 9.1: Erhalt der Buslinie 585 Damme - Osnabrück mit Halt in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Familie und Soziales
+- TOP 10.1: Inklusionskonzept der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kulturangelegenheiten
+- TOP 11.1: Antrag des Vereins Ruller Haus e.V. auf Bezuschussung der Kosten für die Neugestaltung des Hoftores einschließlich der Beschriftung und Beleuchtung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Änderung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Haushaltswirtschaft für das Jahr 2020 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.2: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2018 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Einladungszustellung per Taxi
+- TOP 13.2: Verkehrssituation auf der L109
+- TOP 13.3: Haltezone für Schwerstbehinderte
