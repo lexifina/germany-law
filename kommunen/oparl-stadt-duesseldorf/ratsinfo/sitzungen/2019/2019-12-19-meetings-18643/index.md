@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-12-19T09:00:00+01:00
+- Ende: 2019-12-19T21:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18643
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18643
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366649.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366649.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00366649.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Jahresabschluss 2018 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 3: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31.12.2018 - Feststellung des Jahresabschlusses und Entlastung des Oberbürgermeisters - - einstimmig beschlossen
+- TOP 4: Jahresabschluss zum 31.12.2018 und Lagebericht für das Wirtschaftsjahr 2018 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - einstimmig beschlossen
+- TOP 5: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2020 - einstimmig beschlossen
+- TOP 6: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2019 bis 2023 - einstimmig beschlossen
+- TOP 7: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2020-31.12.2020 - einstimmig beschlossen
+- TOP 8: Abwasserbeseitigungskonzept (ABK) 2020 - 2031 / 7. Fortschreibung - einstimmig beschlossen
+- TOP 9: Neubau eines "Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg", Stadtbezirk 6 (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 10: Haus für Kinder, Jugendliche und Familien Froschkönigweg, Stadtbezirk 2 (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 11: Spieloase Brunnenstraße 65a, Stadtbezirk 3 – Erweiterung, Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 12: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Erweiterungsneubaus Am Massenberger Kamp 45 - einstimmig beschlossen
+- TOP 13: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt St. Rochus Grundschule, Gneisenaustraße 60 - einstimmig beschlossen
+- TOP 14: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses - hier: Neubau eines Funktionsgebäudes in modularer Fertigbauweise auf dem städtischen Grundstück beim TSV Urdenbach - einstimmig beschlossen
+- TOP 15: Südverlängerung der Toulouser Allee mit Anschluss an die Worringer Straße -Bedarfsbeschluss- - abweichend beschlossen
+- TOP 16: Brandschutzsanierung der Obdachlosenunterkunft Eisenstraße - einstimmig beschlossen
+- TOP 17: Bezirkssportanlage Garath, Koblenzer Straße 133, Qualifizierung der Bezirkssportanlage zur Förderung des Breitensports - einstimmig beschlossen
+- TOP 18: Integrierte Quartiersentwicklung "Garath 2.0 - Den Wandel gestalten", Ergänzung des Ratsbeschlusses vom 22.03.2018 - einstimmig beschlossen
+- TOP 19: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - einstimmig beschlossen
+- TOP 19.1: Ergänzungsantrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN, SPD und FDP zu TOP 19, Vorlage SCHUA/025/2019 - Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - einstimmig beschlossen
+- TOP 20: Medienentwicklungsplan der Düsseldorfer Schulen - einstimmig beschlossen
+- TOP 20.1: Ergänzungsantrag des Ratsherrn Grenda zu TOP 20, Vorlage SCHUA/014/2019: Medienentwicklungsplan - mehrheitlich abgelehnt
+- TOP 21: Eigenanteil zum SchokoTicket - Änderungen durch das Starke-Familien-Gesetz - einstimmig beschlossen
+- TOP 22: Zweckverband Verkehrsverbund Rhein Ruhr: Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2020 - einstimmig beschlossen
+- TOP 23: Projekt "Vertical Farming in Düsseldorf"(Machbarkeitsstudie) - einstimmig beschlossen
+- TOP 24: Projekt "Kunst-, Kultur- und Bürgerraum Ulmer Höh'"(Umbau des ehemaligen Kapellengebäudes der Justizvollzugsanstalt Ulmer Höh'); - einstimmig beschlossen
+- TOP 25: Projekt "Kunst- und Kulturbunker Düsseldorf-Bilk" (Umbau des Bestandsgebäudes Aachener Straße 39); - einstimmig beschlossen
+- TOP 26: Etatberatung 2020
+- TOP 26.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 mit Anlagen - mehrheitlich beschlossen
+- TOP 26.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 mit Anlagen - zur Kenntnis genommen
+- TOP 26.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2020 - mehrheitlich beschlossen
+- TOP 26.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2020 - mehrheitlich beschlossen
+- TOP 27: 1. Regionalplanänderung „Mehr Wohnbauland am Rhein" - Stellungnahme der Landeshauptstadt Düsseldorf zur 2. Beteiligung - mehrheitlich beschlossen
+- TOP 27.1: Änderungsantrag der Ratsfraktion Tierschutz FREIE WÄHLER zu TOP 27, Vorlage APS/054/2019: "1. Regionalplanänderung" - zurückgezogen
+- TOP 27.2: Änderungsantrag der CDU-Ratsfraktion zu TOP 27, Vorlage APS/054/2019: "1. Regionalplanänderung" - mehrheitlich beschlossen
+- TOP 27.3: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/054/2019 - 1. Regionalplanänderung „Mehr Wohnbauland am Rhein“ – Stellungnahme der Landeshauptstadt Düsseldorf zur 2. Beteiligung - mehrheitlich beschlossen
+- TOP 28: Annahme eines Kunstwerks für den öffentlichen Raum - mehrheitlich beschlossen
+- TOP 29: Wahlordnung für die Wahl der direkt in den Integrationsrat zu wählenden Mitglieder (IRWahlO) - einstimmig beschlossen
+- TOP 30: Gründung des Vereins "Psychosoziale Arbeitsgemeinschaft e.V. - einstimmig beschlossen
+- TOP 31: Besetzung des Aufsichtsrates für die Connected Mobility Düsseldorf GmbH - mehrheitlich beschlossen
+- TOP 32: Kuratorium der Stiftung Museum Kunstpalast - Nachbesetzung - einstimmig beschlossen
+- TOP 33: Bestellung von Vertretern der Stadt für die Mitgliederversammlung des Vereins Digitale Stadt Düsseldorf e.V. - einstimmig beschlossen
+- TOP 34: Besetzung des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e. V." - einstimmig beschlossen
+- TOP 35: Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 36: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP -: Städtebauliche Planungsmaßnahmen
+- TOP 37: Bebauungsplan-Entwurf Nr. 05/011 - Verweyenstraße - mehrheitlich beschlossen
+- TOP 38: Bebauungsplan - Entwurf Nr. 09/003 - Nördlich Paulsmühlenstraße - mehrheitlich beschlossen
+- TOP 39: Makkabi Deutschland Games 2020 in Düsseldorf - einstimmig beschlossen
+- TOP 40: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
