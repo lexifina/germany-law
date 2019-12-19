@@ -1,0 +1,140 @@
+# 33. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM und INTEGRATIONSPREISVERLEIHUNG)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-12-19T17:30:00+01:00
+- Ende: 2019-12-19T22:35:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4861
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4861
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=456658
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - (offen)
+- TOP 2.1: Spielhallengesetz durchsetzen - in der BVV zurückgezogen
+- TOP 2.2: Gebäudeensemble in der Rathenower Straße unter Denkmalschutz stellen - beantwortet
+- TOP 3: Verleihung des Integrationspreises 2019 - erledigt
+- TOP 4: Feststellen von Dringlichkeiten - erledigt
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: des Vorstandes - erledigt
+- TOP 5.2: der Fraktionen - erledigt
+- TOP 5.3: der Ausschüsse - erledigt
+- TOP 5.4: des Bezirksamtes - erledigt
+- TOP 6: Konsenslisten - mit Änderungen im Ausschuss beschlossen
+- TOP 7: Thematische Stunde - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Was ist mit dem Real auf der Müllerstraße? - beantwortet
+- TOP 8.2: Wann werden die Pförtnerdienste wieder in öffentliche Hand kommen? - beantwortet
+- TOP 8.3: Transportdienste - beantwortet
+- TOP 8.4: Wann wird die Aschesäule vor dem Reichstag entfernt? - beantwortet
+- TOP 8.5: Beschlagnahmung von Wohnraum nach ASOG – Hindert die geläufige Unterbringungspraxis das Bezirksamt hieran? - beantwortet
+- TOP 8.6: Köllnischer Park: Sanierung oder nicht, das ist hier die Frage - schriftlich beantwortet
+- TOP 8.7: Kinderwagen in Cafés ausgesperrt - schriftlich beantwortet
+- TOP 8.8: Anna-Lindh-Grundschule – Hausmeisterwohnung immer noch ungenutzt! - schriftlich beantwortet
+- TOP 8.9: E-Mobilität in Mitte- wie sind wir derzeit aufgestellt? - schriftlich beantwortet
+- TOP 8.10: Wo bleibt der Hund? - schriftlich beantwortet
+- TOP 8.11: Grünanlage auf der Fischerinsel - schriftlich beantwortet
+- TOP 8.12: Schulische Sanierungsvorhaben nicht auf die lange Bank schieben - schriftlich beantwortet
+- TOP 8.13: Gießt Mitte genug? - schriftlich beantwortet
+- TOP 8.14: Wie geht es weiter im Hansaviertel? - schriftlich beantwortet
+- TOP 8.15: Ein weiteres Jahr JARA - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Was unternimmt das Bezirksamt für die Lebensmittelsicherheit? - beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Wie weiter auf dem Zentralen Festplatz? - beantwortet
+- TOP 10.2: Erste Konsequenzen aus den neuen Leitlinien zur Wohnungslosenarbeit in Berlin - beantwortet
+- TOP 10.3: Bürgerbeteiligung? Nix da, in Mitte wird von oben rein- und durchregiert! - schriftlich beantwortet
+- TOP 10.4: Weshalb wurde die Instrumentalisierung von Holocaust-Opfern durch das linksgerichtete „Zentrum für politische Schönheit“ (ZPS) vor dem Reichstag so lange geduldet? - schriftlich beantwortet
+- TOP 10.5: Autofreie Friedrichstraße - schriftlich beantwortet
+- TOP 10.6: Jeden Tag in Mitte eine Zwangsräumung und trotzdem keine Mittel vom Senat für den Aufbau integrierter Fachstellen zur Prävention von Wohnungslosigkeit: Wie geht es nun weiter? - schriftlich beantwortet
+- TOP 10.7: Azubis und der Bezirk - wie läuft hier die Ausbildung des Nachwuchses? - schriftlich beantwortet
+- TOP 10.8: Umsetzung des Digitalpakts in Mitte - schriftlich beantwortet
+- TOP 10.9: Drogenkonsum auf den Bahnhöfen in unserem Bezirk - was wird getan? - schriftlich beantwortet
+- TOP 10.10: EU-Freizügigkeit und Leistungsmissbrauch - schriftlich beantwortet
+- TOP 10.11: Fahrverbote in Berlin-Mitte - schriftlich beantwortet
+- TOP 10.12: Mal wieder die Betriebssystemausstattung der Verwaltung mit Windows - schriftlich beantwortet
+- TOP 10.13: Umstrittene Aktion des Zentrums für pol. Schönheit? - schriftlich beantwortet
+- TOP 10.14: Sperrung der Friedrichstr. im Jahr 2020? - schriftlich beantwortet
+- TOP 10.15: Informationsstelen für Touristen im Bezirk? - schriftlich beantwortet
+- TOP 10.16: „Keine Barrierefreiheit in Moabit?“ - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2018 - überwiesen
+- TOP 12.2: Änderung zu § 51 der Geschäftsordnung der BVV Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13.1: Schulentwicklungsplanung für den Bezirk Mitte für die Schuljahre 2018/19 bis 2030/31 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sitzungskalender 2020 - mit Änderungen in der BVV beschlossen
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: Erreichbarkeit der Beratungsstelle für behinderte, krebskranke und sehbehinderte Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Engere Taktung der Linie 120 - in der BVV abgelehnt
+- TOP 15.2: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - überwiesen
+- TOP 15.3: Konsequenzen aus dem Urteil des Bundesverfassungsgerichts zur Zulässigkeit von Sanktionen in der Grundsicherung für Arbeitssuchende - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Temporäre Spielstraßen auch in Mitte unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Erhalt des Oromo Horn von Afrika Zentrums - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Rathausvorplatz für alle - überwiesen
+- TOP 15.7: Provisorischen Wetterschutz für das Café Leo erhalten - mit Änderungen in der BVV beschlossen
+- TOP 15.8: Nachwahl Bürgerdeputierte - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: EU-Bürger*innen haben Anspruch auf Unterbringung nach ASOG. - überwiesen
+- TOP 15.10: Für einen sicheren Nahverkehr: Drogenkonsum im Berliner Nahverkehr den Kampf ansagen! - überwiesen
+- TOP 15.11: Gelbes Containerhäuschen im Kleinen Tiergarten entfernen - in der BVV abgelehnt
+- TOP 15.12: Bürger*innenbeteiligung achten - Parkplätze auf Karl-Marx-Allee einrichten UND die Fläche teilentsiegeln - überwiesen
+- TOP 15.13: Gesellschaftliche Wirklichkeit endlich in der Verwaltung abbilden: Anteil von Beschäftigten mit zugeschriebenem Migrationshintergrund im Bezirksamt erhöhen - überwiesen
+- TOP 15.14: Basketballkörbe für die kleinen Basketballprofis - ohne Änderungen in der BVV beschlossen
+- TOP 15.15: Sitzbänke auf der Müllerstrasse wieder aufstellen! - überwiesen
+- TOP 15.16: Wer duale Ausbildung sucht, soll sie auch erhalten! - überwiesen
+- TOP 15.17: Runder Tisch Mobilität - überwiesen
+- TOP 15.18: Ausbau der Fahrradinfrastruktur digital darstellen - überwiesen
+- TOP 15.19: Schilder mit nicht mehr aktuellen Telefonnummern - überwiesen
+- TOP 15.20: Behindertengerechte WC- und Sanitär-Anlagen in der Arminiusmarkthalle (Moabit) herstellen - überwiesen
+- TOP 15.21: Himmelbeet auf den Mettmannplatz! - überwiesen
+- TOP 15.22: Fußgängerzone Gendarmenmarkt schützen - überwiesen
+- TOP 15.23: Jugendberufshilfe im Bezirk - Angebote für junge Schulpflichtige ausbauen und inklusiv weiterentwickeln - überwiesen
+- TOP 15.24: Sozialassistenten-Ausbildung - ohne Zugangsbeschränkung und schulgeldfrei! - überwiesen
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: BVV Mitte verurteilt antisemitische Provokation in Moabit - in der BVV abgelehnt
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Gender Mainstreaming konsequent umsetzen – Gezielte gendergerechte Gestaltung von Nut-zungsverträgen im Rahmen der Nutzungs- und Vergabegrundsätze lt. Sportanlagen-Nutzungsvorschriften (SPAN) des Landes Berlin - in der BVV abgelehnt
+- TOP 17.2: Mitte liest - Dank der BücherboXX auch in Mitte und Tiergarten - mit Änderungen in der BVV beschlossen
+- TOP 17.3: Gesamtkonzept für die Fischerinsel - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Fußgängerüberweg und Umgestaltung Jülicher Straße/ Ecke Eulerstraße - mit Änderungen in der BVV beschlossen
+- TOP 17.5: Den Zentralen Festplatz auch als Schulstandort entwickeln - mit Änderungen in der BVV beschlossen
+- TOP 17.6: Haushaltsnahe Altglassammlung in Berlin-Mitte sicherstellen - gegenstandslos
+- TOP 17.7: Fahrbahn für Radfahrer instand setzen! - gegenstandslos
+- TOP 17.8: Den Einsatz von photokatalytischem Asphalt und Pflaster prüfen - Stickstoffoxide reduzieren - in der BVV abgelehnt
+- TOP 17.9: Mehr Licht auf der Fischerinsel - ohne Änderungen in der BVV beschlossen
+- TOP 17.10: Öffentliche Nutzungen der Pavillons in der Karl-Marx-Allee planungsrechtlich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 17.11: Spielplatzerneuerung in den Rehbergen - ohne Änderungen in der BVV beschlossen
+- TOP 17.12: Die Invalidenstraße sicherer machen! - ohne Änderungen in der BVV beschlossen
+- TOP 17.13: Mitte braucht Schule! - gegenstandslos
+- TOP 17.14: Nutzungsdauer der Kita Kiautschoustraße 10 verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 17.15: Schuldner*innenberatung stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 17.16: Schwerpunktaktion am Weinbergsweg - mit Änderungen in der BVV beschlossen
+- TOP 17.17: Kindern Gesundbrunnens ein „Grünes Klassenzimmer“ geben - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Für die Parks im Parkviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Sanierung des Ufergehwegs im Nikolaiviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Nikolaiviertel baulich ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Zebrastreifen Usedomer Straße / Jasmunder Straße verstetigen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Taxistand an der Charité - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Panke- Rad- und Wanderweg sicherer machen – Zebrastreifen an der Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Versuchstrecke Tempo30-Anordnung der Leipziger Straße verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Wieder Öffentlicher Parkplatz bis der Wohnungsbau in der Berolinastraße hinter Nr.9 umgesetzt wird - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Anwendung des Vorkaufsrechtes bzw. der Abwendungserklärung in Milieuschutzgebieten nach dem Münchener Modell - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Für Sicherheit und Lärmschutz: Geschwindigkeitsbegrenzungen durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Grüne Infrastruktur schützen: Erhalt der Kleingartenanlage „Virchow“ sichern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.12: Zisterne auf der Fläche des Spielplatzes Wiebestraße 38 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Lastenfahrräder für Mitte! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.14: Gefahrlosen Zugang zum DDR-Grenzwachturm sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Taxistand am Alexa - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Park am Nordbahnhof mit vielen Beteiligten weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.17: Baumscheiben - Wie gehts richtig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Erlöst uns vom Wettbewerb des schlechten Geschmacks auf dem Alexanderplatz! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.19: Letzte Wege sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.20: Anerkennung von ehrenamtlich Tätigen durch BVG-Fahrscheine - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.21: Beschluss über die Änderung der räumlichen Geltungsbereiche der in Aufstellung be-findlichen Bebauungspläne 1-83e und 1-83f, über die Umstellung der Aufstellungsverfahren 1-82e und 1-83b auf Verfahren gemäß § 13a BauGB, die Umstellung der Aufstellungsverfahren für die Bebauungspläne 1-82a bis 1-82d, 1-82f und 1-83c bis 1-83f auf Verfahren gemäß § 13 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: Beschluss über die erneute, eingeschränkte Beteiligung der Behörden und sonstigen Trä-ger öffentlicher Belange gem. § 4 a Abs. 3 Baugesetzbuch (BauGB) i. V. m. § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 1-22B. - mit Abschlussbericht zur Kenntnis genommen
