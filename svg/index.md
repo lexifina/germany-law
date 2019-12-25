@@ -99,10 +99,12 @@
 #### Unterabschnitt 7 Ausgleich bei Altersgrenzen
 
 - [§ 38 Ausgleich bei Altersgrenzen](0038.md)
+- [§ 38 Ausgleich bei Altersgrenzen](0038-2.md)
 
 #### Unterabschnitt 8 Berufsförderung der Berufssoldaten
 
 - [§ 39 Berufsförderung der Berufssoldaten](0039.md)
+- [§ 39 Berufsförderung der Berufssoldaten](0039-2.md)
 - [§ 40 Eingliederung von Berufssoldaten in das Erwerbsleben](0040.md)
 
 ### Abschnitt 3 Versorgung der Hinterbliebenen von Soldaten
@@ -171,6 +173,7 @@
 - [§ 72 Kinderzuschlag zum Witwen- und Witwergeld](0072.md)
 - [§ 73 Pflege- und Kinderpflegeergänzungszuschlag](0073.md)
 - [§ 74 Vorübergehende Gewährung von Zuschlägen](0074.md)
+- [§ 74 Vorübergehende Gewährung von Zuschlägen](0074-2.md)
 - [§ 75 (weggefallen)](0075.md)
 - [§ 76 (weggefallen)](0076.md)
 - [§ 77 (weggefallen)](0077.md)
