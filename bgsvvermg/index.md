@@ -1,5 +1,4 @@
-# Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im
-Beitrittsgebiet
+# Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet
 
 
 ## Erster Abschnitt Regelungsgegenstand

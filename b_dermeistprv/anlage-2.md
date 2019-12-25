@@ -1,49 +1,18 @@
-# Anlage 2 (zu § 8 Absatz 3)
+# Anlage 2 (zu § 10)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 1998, 1817;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-........................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluß
-Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
-Herr/Frau ..............................................................
-geboren am ................... in ....................................
-hat am ....................... die Prüfung zu anerkannten Abschluß
-Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter
-Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe vom
-7. Juli 1998 (BGBl. I S. 1810), die zuletzt durch Artikel 40
-der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
-worden ist, mit folgenden Ergebnissen bestanden:
-Ergebnisse der Prüfung Note
-I. Allgemeiner Teil ...........
-1. Grundlagen für kostenbewußtes Handeln ...........
-2. Grundlagen für rechtsbewußtes Handeln ...........
-3. Grundlagen für die Zusammenarbeit im Betrieb ...........
-II. Fachtheoretischer Teil ...........
-1. Mathematische und naturwissenschaftliche Grundlagen ...........
-2. Bädertechnik ...........
-3. Bäderbetrieb ...........
-4. Schwimm- und Rettungslehre ...........
-5. Gesundheitslehre ...........
-III. Fachpraktischer Teil ...........
-1. Rettungsschwimmen und Schwimmsport ...........
-2. Management und Führungsaufgaben ...........
-3. Betriebstechnische Situationsaufgabe ...........
-IV. Berufs- und arbeitspädagogischer Eignung
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach
-§ 3 Absatz 3 den Nachweis über den Erwerb der berufs-
-und arbeitspädagogischen Eignung durch die
-Prüfung am .......... in .......... vor .......... erbracht.
-(Im Falle des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 7 im Hinblick auf die am ... in ... vor ... abgelegte
-Prüfung vom Prüfungsbestandteil ... freigestellt.")
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum .................................
-Unterschrift(en) ......................
-(Siegel der zuständigen Stelle)
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung, Bewertung und Note der Prüfungsteile nach § 3 Absatz 1 Nummer 1 bis 3,
+2. Benennung, Bewertung und Note der Prüfungsfächer nach § 8 Absatz 3,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 7,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 3 Absatz 3.

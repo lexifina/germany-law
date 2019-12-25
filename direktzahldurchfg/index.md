@@ -28,6 +28,7 @@
 - [§ 14 Ausschluss gleichwertiger Methoden](0014.md)
 - [§ 15 Dauergrünland in bestimmten Gebieten](0015.md)
 - [§ 16 Beibehaltung des Dauergrünlandanteils](0016.md)
+- [§ 16a Bagatellregelung](0016a.md)
 - [§ 17 Ermächtigungen zur Beibehaltung des Dauergrünlandanteils](0017.md)
 - [§ 18 Flächennutzung im Umweltinteresse](0018.md)
 

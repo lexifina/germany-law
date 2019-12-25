@@ -5,7 +5,7 @@
 ## Abschnitt 1 Begriffsbestimmungen und Verpflichtete
 
 - [§ 1 Begriffsbestimmungen](0001.md)
-- [§ 2 Verpflichtete, Verordnungsermächtigung, Versicherungstätigkeit](0002.md)
+- [§ 2 Verpflichtete, Verordnungsermächtigung](0002.md)
 - [§ 3 Wirtschaftlich Berechtigter](0003.md)
 
 ## Abschnitt 2 Risikomanagement

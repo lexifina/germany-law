@@ -1,42 +1,19 @@
-# Anlage 2 (zu § 7 Abs. 1 und 3)
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2000, 197;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-...............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin"
-Herr/Frau .....................................................................
-geboren am ........................ in ........................................
-hat am ............................ die Prüfung zum anerkannten Abschluss
-Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin" vom 1. März 2000
-(BGBl. I S. 193), die durch Artikel 2 der Verordnung vom 26. März 2014
-(BGBl. I S. 274) geändert worden ist,
-mit folgenden Ergebnissen bestanden:
-Gesamtnote ......
-Datum Ort der Punkte 1)
-der Prüfung prüfenden Stelle
-Allgemeine Bankbetriebswirtschaft .......................................
-Betriebswirtschaft .......................................
-Volkswirtschaft .......................................
-Recht .......................................
-Privatkundengeschäft oder Immobilien-
-geschäft oder Firmenkundengeschäft .......................................
-Praxisorientiertes Situationsgespräch .......................................
-(Im Fall des § 6: "Der Prüfungsteilnehmer wurde gemäß § 6
-im Hinblick auf die am ............... in ...............
-vor ............... abgelegte Prüfung von der Prüfungsleistung
-............... freigestellt.")
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
-1) Die Punktebewertungsskala ist wie folgt gegliedert: 100-92 Punkte = Note 1 = sehr gut, unter 92-81 Punkte = Note 2 = gut, unter 81-67 Punkte = Note 3 = befriedigend, unter 67-50 Punkte = Note 4 = ausreichend, unter 50-30 Punkte = Note 5 = mangelhaft, unter 30-0 Punkte = Note 6 = ungenügend.
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung der Prüfungsbereiche im Prüfungsteil „Grundlegende Qualifikationen“ und Bewertung jedes Prüfungsbereichs mit Punkten,
+2. Benennung des gewählten Prüfungsbereichs im Prüfungsteil „Spezielle Qualifikationen“ und Bewertung mit Punkten,
+3. Benennung des praxisorientierten Situationsgesprächs und Bewertung mit Punkten,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Befreiungen nach § 6,
+8. Bescheinigung über die Befreiung vom schriftlichen Teil der Prüfung der Ausbilder-Eignungsverordnung nach § 11.

@@ -77,9 +77,10 @@
 | Erster Unterabschnitt |  |
 |  | Das Vorverfahren |  |
 |  |  | Umfang der Ermittlungen | § 43 |
-|  |  | Vernehmung des Beschuldigten | § 44 |
+|  |  | Vernehmung des Beschuldigten bei zu erwartender Jugendstrafe | § 44 |
 |  |  | Absehen von der Verfolgung | § 45 |
 |  |  | Wesentliches Ergebnis der Ermittlungen | § 46 |
+|  |  | Anklage vor Berichterstattung der Jugendgerichtshilfe | § 46a |
 | Zweiter Unterabschnitt |  |
 |  | Das Hauptverfahren |  |
 |  |  | Einstellung des Verfahrens durch den Richter | § 47 |
@@ -88,6 +89,7 @@
 |  |  | (weggefallen) | § 49 |
 |  |  | Anwesenheit in der Hauptverhandlung | § 50 |
 |  |  | Zeitweilige Ausschließung von Beteiligten | § 51 |
+|  |  | Neubeginn der Hauptverhandlung | § 51a |
 |  |  | Berücksichtigung von Untersuchungshaft bei Jugendarrest | § 52 |
 |  |  | Anrechnung von Untersuchungshaft bei Jugendstrafe | § 52a |
 |  |  | Überweisung an das Familiengericht | § 53 |
@@ -116,11 +118,16 @@
 |  |  | Ergänzung rechtskräftiger Entscheidungen bei mehrfacher Verurteilung | § 66 |
 | Siebenter Unterabschnitt |  |
 |  | Gemeinsame Verfahrensvorschriften |  |
-|  |  | Stellung des Erziehungsberechtigten und des gesetzlichen Vertreters | § 67 |
+|  |  | Stellung der Erziehungsberechtigten und der gesetzlichen Vertreter | § 67 |
+|  |  | Unterrichtung der Erziehungsberechtigten und der gesetzlichen Vertreter | § 67a |
 |  |  | Notwendige Verteidigung | § 68 |
+|  |  | Zeitpunkt der Bestellung eines Pflichtverteidigers | § 68a |
+|  |  | Vernehmungen und Gegenüberstellungen vor der Bestellung eines Pflichtverteidigers | § 68b |
 |  |  | Beistand | § 69 |
-|  |  | Mitteilungen | § 70 |
-|  |  | Belehrungen | § 70a |
+|  |  | Mitteilungen an amtliche Stellen | § 70 |
+|  |  | Unterrichtung des Jugendlichen | § 70a |
+|  |  | Belehrungen | § 70b |
+|  |  | Vernehmung des Beschuldigten | § 70c |
 |  |  | Vorläufige Anordnungen über die Erziehung | § 71 |
 |  |  | Untersuchungshaft | § 72 |
 |  |  | Heranziehung der Jugendgerichtshilfe in Haftsachen | § 72a |

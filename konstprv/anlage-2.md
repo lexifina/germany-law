@@ -1,0 +1,23 @@
+# Anlage 2 (zu § 9)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum fachrichtungsübergreifenden Prüfungsteil
+  a) Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+  b) Benennung der Prüfungsfächer und Bewertung mit Note,
+2. zum fachrichtungsspezifischen Prüfungsteil
+  a) Benennung dieses Prüfungsteils mit Note,
+  b) Benennung der Konstruktionsaufgabe mit Note sowie
+  c) Benennung des Fachgesprächs mit Note,
+3. Benennung von Arbeitsgebiet, Thema und Beschreibung der Konstruktionsaufgabe,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Befreiungen nach § 6.

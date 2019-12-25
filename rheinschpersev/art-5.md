@@ -3,7 +3,7 @@
 (1)
 Der Eigentümer, der Ausrüster und der Schiffsführer haben dafür zu sorgen, dass
 1. die für die jeweilige Betriebsform und Einsatzzeit des Fahrzeugs nach § 2.02 Nummer 1 Satz 2, 3 und 5, Nummer 2 Satz 4, Nummer 3, §§ 3.15, 3.16, 3.17, 3.18, 3.19 Nummer 1, § 3.20 Nummer 1 und 2 Satz 1 und 2, § 3.21 Satz 2 und § 3.22 Satz 2 der Schiffspersonalverordnung-Rhein vorgeschriebene Besatzung während der Fahrt ständig an Bord ist,
-2. ein Mitglied der Besatzung seine Tätigkeit an Bord eines Fahrzeugs, das Flüssig - erdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2 der Schiffspersonalverordnung-Rhein erst dann aufnimmt, nachdem es in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist,
+2. ein Mitglied der Besatzung seine Tätigkeit an Bord eines Fahrzeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2 der Schiffspersonalverordnung-Rhein erst dann aufnimmt, nachdem es in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist,
 3. das für Tagesausflugsschiffe und Kabinenschiffe nach § 5.09 Nummer 1 Satz 1 der Schiffspersonalverordnung-Rhein jeweils vorgeschriebene Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an Bord verfügbar ist sowie der nach § 5.11 der Schiffspersonalverordnung-Rhein vorgeschriebene Kontrollgang nachts stündlich durchgeführt wird,
 4. ungültig gezeichnete Bordbücher und die Aufzeichnungen der Fahrtenschreiber nach § 3.13 der Schiffspersonalverordnung-Rhein sowie die Ölkontrollbücher nach § 15.05 Absatz 1 der Rheinschifffahrtspolizeiverordnung zur Wahrung des Datenschutzes nach 15 Monaten vernichtet werden.
 (2)
@@ -47,7 +47,7 @@ Jedes Mitglied der Besatzung
 1. muss seine Befähigung an Bord nach § 3.05 Nummer 1 Buchstabe b oder Nummer 2 der Schiffspersonalverordnung-Rhein nachweisen,
 2. muss das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der Schiffspersonalverordnung-Rhein rechtzeitig vorlegen,
 3. muss über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff nach § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein verfügen, wenn es auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, am Bunkervorgang beteiligt ist,
-4. darf seine Tätigkeit an Bord eines Fahr zeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2 der Schiffspersonalverordnung-Rhein erst dann aufnehmen, nachdem es vom Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist.
+4. darf seine Tätigkeit an Bord eines Fahrzeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2 der Schiffspersonalverordnung-Rhein erst dann aufnehmen, nachdem es vom Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist.
 (7)
 Der Sachkundige für Fahrgastschifffahrt hat gemäß § 5.10 Nummer 2 Satz 2 Buchstabe c der Schiffspersonalverordnung-Rhein die Fahrgäste auf Kabinenschiffen bei Antritt der Fahrt auf die Verhaltensmaßregeln und den Sicherheitsplan hinzuweisen.
 (8)

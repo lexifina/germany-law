@@ -93,9 +93,10 @@
 ##### Erster Unterabschnitt Das Vorverfahren
 
 - [§ 43 Umfang der Ermittlungen](0043.md)
-- [§ 44 Vernehmung des Beschuldigten](0044.md)
+- [§ 44 Vernehmung des Beschuldigten bei zu erwartender Jugendstrafe](0044.md)
 - [§ 45 Absehen von der Verfolgung](0045.md)
 - [§ 46 Wesentliches Ergebnis der Ermittlungen](0046.md)
+- [§ 46a Anklage vor Berichterstattung der Jugendgerichtshilfe](0046a.md)
 
 ##### Zweiter Unterabschnitt Das Hauptverfahren
 
@@ -105,6 +106,7 @@
 - [§ 49](0049.md)
 - [§ 50 Anwesenheit in der Hauptverhandlung](0050.md)
 - [§ 51 Zeitweilige Ausschließung von Beteiligten](0051.md)
+- [§ 51a Neubeginn der Hauptverhandlung](0051a.md)
 - [§ 52 Berücksichtigung von Untersuchungshaft bei Jugendarrest](0052.md)
 - [§ 52a Anrechnung von Untersuchungshaft bei Jugendstrafe](0052a.md)
 - [§ 53 Überweisung an das Familiengericht](0053.md)
@@ -138,12 +140,16 @@
 
 ##### Siebenter Unterabschnitt Gemeinsame Verfahrensvorschriften
 
-- [§ 67 Stellung des Erziehungsberechtigten und des gesetzlichen Vertreters](0067.md)
-- [§ 67a Unterrichtung bei Freiheitsentzug](0067a.md)
+- [§ 67 Stellung der Erziehungsberechtigten und der gesetzlichen Vertreter](0067.md)
+- [§ 67a Unterrichtung der Erziehungsberechtigten und der gesetzlichen Vertreter](0067a.md)
 - [§ 68 Notwendige Verteidigung](0068.md)
+- [§ 68a Zeitpunkt der Bestellung eines Pflichtverteidigers](0068a.md)
+- [§ 68b Vernehmungen und Gegenüberstellungen vor der Bestellung eines Pflichtverteidigers](0068b.md)
 - [§ 69 Beistand](0069.md)
-- [§ 70 Mitteilungen](0070.md)
-- [§ 70a Belehrungen](0070a.md)
+- [§ 70 Mitteilungen an amtliche Stellen](0070.md)
+- [§ 70a Unterrichtung des Jugendlichen](0070a.md)
+- [§ 70b Belehrungen](0070b.md)
+- [§ 70c Vernehmung des Beschuldigten](0070c.md)
 - [§ 71 Vorläufige Anordnungen über die Erziehung](0071.md)
 - [§ 72 Untersuchungshaft](0072.md)
 - [§ 72a Heranziehung der Jugendgerichtshilfe in Haftsachen](0072a.md)
