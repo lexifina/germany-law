@@ -1,6 +1,7 @@
 # Abschnitt 1 - Leistungsverzeichnis
 Abschnitt 1 Leistungsverzeichnis
-Nr. | Leistung | beihilfefähiger Höchstbetrag in Euro bis 31.12.2018 | beihilfefähiger Höchstbetrag in Euro ab 01.01.2019 |  | 
+Nr. | Leistung | beihilfefähiger Höchstbetrag in Euro | beihilfefähiger Höchstbetrag in Euro |  | 
+ |  | bis 31.12.2018 | ab 01.01.2019 |  | 
  | Bereich Inhalation |  |  |  | 
 1 | Inhalationstherapie, auch mittels Ultraschallvernebelung |  |  |  | 
  | a) als Einzelinhalation | 8,00 | 8,80 |  | 
@@ -8,8 +9,8 @@ Nr. | Leistung | beihilfefähiger Höchstbetrag in Euro bis 31.12.2018 | beihilf
  | c) als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener natürlicher Heilwässer, je Teilnehmerin oder Teilnehmer | 6,80 | 7,50 |  | 
  | Aufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig. |  |  |  | 
 2 | Radon-Inhalation |  |  |  | 
-a) im Stollen | 13,60 | 14,90 |  |  | 
-a) mittels Hauben | 16,60 | 18,20 |  |  | 
+ | a) im Stollen | 13,60 | 14,90 |  | 
+ | b) mittels Hauben | 16,60 | 18,20 |  | 
  | Bereich Krankengymnastik, Bewegungsübungen |  |  |  | 
 3 | Physiotherapeutische Erstbefundung zur Erstellung eines Behandlungsplans | 15,00 | 16,50 |  | 
 4 | Krankengymnastik, auch auf neurophysiologischer Grundlage, Atemtherapie, einschließlich der zur Leistungserbringung erforderlichen Massage, als Einzelbehandlung, Richtwert: 20 Minuten | 23,40 | 25,70 |  | 
@@ -26,14 +27,14 @@ a) mittels Hauben | 16,60 | 18,20 |  |  |
 12 | Chirogymnastik (funktionelle Wirbelsäulengymnastik), Richtwert: 20 Minuten | 17,30 | 19,00 |  | 
 13 | Bewegungsübungen |  |  |  | 
  | a) als Einzelbehandlung, Richtwert: 20 Minuten | 9,20 | 10,20 |  | 
- | b) in einer Gruppe (2 bis 5 Personen), Richtwert: 20 Minuten | 6,00 | 6,60 |  | 
+ | e) in einer Gruppe (2 bis 5 Personen), Richtwert: 20 Minuten | 6,00 | 6,60 |  | 
 14 | Bewegungsübungen im Bewegungsbad |  |  |  | 
  | a) als Einzelbehandlung einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten | 28,30 | 31,20 |  | 
  | b) in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten | 17,80 | 19,50 |  | 
  | c) in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten | 14,20 | 15,60 |  | 
 15 | Erweiterte ambulante Physiotherapie (EAP), Richtwert: 120 Minuten je Behandlungstag | 98,30 | 108,10 |  | 
-16 | Gerätegestützte Krankengymnastik (KGGerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen), Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr | 42,00 | 46,20 |  | 
-17 | Traktionsbehandlung mit Gerät (zum Beispiel Schrägbrett, Extensionstisch, Perl’sches Gerät, Schlingentisch) als Einzelbehandlung, Richtwert: 20 Minuten | 8,00 | 8,80 |  | 
+16 | Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen), Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr | 42,00 | 46,20 |  | 
+17 | Traktionsbehandlung mit Gerät (zum Beispiel Schrägbrett, Extensionstisch, Perl‘sches Gerät, Schlingentisch) als Einzelbehandlung, Richtwert: 20 Minuten | 8,00 | 8,80 |  | 
  | Bereich Massagen |  |  |  | 
 18 | Massage einzelner oder mehrerer Körperteile |  |  |  | 
  | a) Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, Bürsten- und Colonmassage, Richtwert: 20 Minuten | 16,60 | 18,20 |  | 
@@ -71,7 +72,7 @@ a) mittels Hauben | 16,60 | 18,20 |  |  |
 32 | Bürstenmassagebad einschließlich der erforderlichen Nachruhe | 22,80 | 25,10 |  | 
 33 | Naturmoorbad einschließlich der erforderlichen Nachruhe |  |  |  | 
  | a) Teilbad | 39,40 | 43,30 |  | 
- | b Vollbad | 47,90 | 52,70 |  | 
+ | b) Vollbad | 47,90 | 52,70 |  | 
 34 | Sandbad einschließlich der erforderlichen Nachruhe |  |  |  | 
  | a) Teilbad | 34,40 | 37,90 |  | 
  | b) Vollbad | 39,40 | 43,30 |  | 

@@ -15,21 +15,44 @@ Die genetische Analyse wird bei den Indexfällen durchgeführt. Dabei handelt es
 3. Teilnahme an einem Strukturierten Früherkennungsprogramm
 Aufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal 580 Euro beihilfefähig.
 4. Im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs zusammengeschlossene universitäre Zentren
-a) Berlin Charité - Universitätszentrum Berlin, Brustzentrum
-b) Dresden Medizinische Fakultät der Technischen Universität Dresden Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
-c) Düsseldorf Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum
-d) Frankfurt Universitätsklinikum Frankfurt Klinik für Frauenheilkunde und Geburtshilfe
-e) Göttingen Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
-f) Greifswald Institut für Humangenetik der Universitätsmedizin Greifswald
-g) Hamburg Brustzentrum Klinik und Poliklinik für Gynäkologie Universitätsklinikum Hamburg-Eppendorf
-h) Hannover Institut für Humangenetik, Medizinische Hochschule Hannover
-i) Heidelberg Institut für Humangenetik der Universität Heidelberg
-j) Kiel Klinik für Gynäkologie und Geburtshilfe des Universitätsklinikums Schleswig-Holstein
-k) Köln Zentrum Familiärer Brust- und Eierstockkrebs
-l) Leipzig Institut für Humangenetik der Universität Leipzig Zentrum für familiären Brust- und Eierstockkrebs
-m) München Universitätsfrauenklinik der Ludwig-Maximilians-Universität München-Großhadern Universitätsfrauenklinik der Technischen Universität München am Klinikum rechts der Isar
-n) Münster Institut für Humangenetik der Universität Münster
-o) Regensburg Institut für Humangenetik, Universität Regensburg
-p) Tübingen Universität Tübingen, Institut für Humangenetik
-q) Ulm Frauenklinik und Poliklinik der Universität Ulm
-r) Würzburg Institut für Humangenetik der Universität Würzburg
+a) Berlin
+Charité - Universitätszentrum Berlin, Brustzentrum
+b) Dresden
+Medizinische Fakultät der Technischen Universität Dresden
+Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
+c) Düsseldorf
+Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum
+d) Frankfurt
+Universitätsklinikum Frankfurt
+Klinik für Frauenheilkunde und Geburtshilfe
+e) Göttingen
+Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
+f) Greifswald
+Institut für Humangenetik der Universitätsmedizin Greifswald
+g) Hamburg
+Brustzentrum Klinik und Poliklinik für Gynäkologie
+Universitätsklinikum Hamburg-Eppendorf
+h) Hannover
+Institut für Humangenetik, Medizinische Hochschule Hannover
+i) Heidelberg
+Institut für Humangenetik der Universität Heidelberg
+j) Kiel
+Klinik für Gynäkologie und Geburtshilfe des Universitätsklinikums Schleswig-Holstein
+k) Köln
+Zentrum Familiärer Brust- und Eierstockkrebs
+l) Leipzig
+Institut für Humangenetik der Universität Leipzig
+Zentrum für familiären Brust- und Eierstockkrebs
+m) München
+Universitätsfrauenklinik der Ludwig-Maximilians-Universität München-Großhadern
+Universitätsfrauenklinik der Technischen Universität München am Klinikum rechts der Isar
+n) Münster
+Institut für Humangenetik der Universität Münster
+o) Regensburg
+Institut für Humangenetik, Universität Regensburg
+p) Tübingen
+Universität Tübingen, Institut für Humangenetik
+q) Ulm
+Frauenklinik und Poliklinik der Universität Ulm
+r) Würzburg
+Institut für Humangenetik der Universität Würzburg

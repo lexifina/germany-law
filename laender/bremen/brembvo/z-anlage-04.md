@@ -21,12 +21,12 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 1.16 Aufrichteschlaufe
 1.17 Aufrichtstuhl (für Aufrichtfunktion sind bis zu 150 Euro beihilfefähig)
 1.18 Aufstehgestelle
-1.19 Auftriebshilfe (bei Schwerstbehinderung)
+1.19 Auftriebshilfe (bei Schwerstbehinderten)
 1.20 Augenbadewanne, -dusche, -spülglas, -flasche, -pinsel, -pipette oder -stäbchen
 1.21 Augenschielklappe, auch als Folie
 2.1 Badestrumpf
 2.2 Badewannensitz (bei Schwerstbehinderung, Totalendoprothese, Hüftgelenk-Luxations-Gefahr oder Polyarthritis)
-2.3 Badewannenverkürzer
+2:3 Badewannenverkürzer
 2.4 Ballspritze
 2.5 Behinderten-Dreirad
 2.6 Bestrahlungsmaske für ambulante Strahlentherapie
@@ -37,7 +37,7 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 2.11 Blindenführhund (einschließlich Geschirr, Leine, Halsband, Maulkorb)
 2.12 Blindenleitgerät (Ultraschallbrille, Ultraschallleitgerät)
 2.13 Blindenstock, -langstock oder -taststock
-2.14 Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichem Herzklappenersatz)
+2.14 Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichem Herzklappenersatz
 2.15 Blutlanzette
 2.16 Blutzuckermessgerät
 2.17 Bracelet
@@ -46,7 +46,7 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 3.2 Cochlea-Implantate einschließlich Zubehör
 3.3 Communicator (bei dysarthrischen Sprachstörungen)
 3.4 Computerspezialausstattung für Behinderte; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
-4.1 Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
+4.1 Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße
 4.2 Delta-Gehrad
 4.3 Drehscheibe, Umsetzhilfen
 4.4 Duschsitz oder -stuhl
@@ -63,7 +63,7 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 6.3 Fingerling
 6.4 Fingerschiene
 6.5 Fixationshilfen
-6.6 Fußteil-Entlastungsschuh (Einzelschuhversorgung)
+6.6. Fußteil-Entlastungsschuh (Einzelschuhversorgung)
 7.1 Gehgipsgalosche
 7.2 Gehhilfen und -übungsgeräte
 7.3 Gehörschutz
@@ -83,13 +83,13 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 8.5 Helfende Hand, Scherenzange
 8.6 Herz-Atmungs-Überwachungsgerät oder -monitor
 8.7 Hochtontherapiegerät
-8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte], Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen, Otoplastik, In-dem-Ohr-Geräte [IdO-Geräte]),
+8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte], Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen, Otoplastik, In- dem-Ohr-Geräte [IdO-Geräte]),
 9.1 Impulsvibrator
 9.2 Infusionsbesteck oder -gerät und Zubehör
 9.3 Inhalationsgerät, einschließlich Sauerstoff und Zubehör, jedoch keine Luftbefeuchter, -filter, -wäscher
 9.4 Innenschuh, orthopädischer
 9.5 Insulinapplikationshilfen und Zubehör (Insulindosiergerät, -pumpe, -injektor)
-9.6. Irisschale mit geschwärzter Pupille bei entstellenden Veränderungen der Hornhaut eines blinden Auges
+9.6 Irisschale mit geschwärzter Pupille bei entstellenden Veränderungen der Hornhaut eines blinden Auges
 10.1 (frei)
 11.1 Kanülen und Zubehör
 11.2 Katapultsitz
@@ -111,7 +111,7 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 11.18 Korrektursicherungsschuh
 11.19 Krabbler für Spastikerinnen und Spastiker
 11.20 Krampfaderbinde
-11.21 Krankenfahrstuhl und Zubehör
+11.21 Krankenfahrstuhl mit Zubehör
 11.22 Krankenpflegebett
 11.23 Krankenstock
 11.24 Kreuzstützbandage
@@ -196,14 +196,14 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 23.2 Wechseldruckgerät
 24.1 (frei)
 25.1 (frei)
-26.1 Zyklomat-Hormon-Pumpe.
+26.1 Zyklomat-Hormon-Pumpe
 2. Mieten für Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle sind beihilfefähig, soweit sie nicht höher als die entsprechenden Anschaffungskosten sind und sich dadurch eine Anschaffung erübrigt.
 3. Aufwendungen für den Ersatz eines unbrauchbar gewordenen Hilfsmittels oder Gerätes sind in der bisherigen Ausführung auch ohne ärztliche Verordnung beihilfefähig, wenn die Ersatzbeschaffung innerhalb von sechs Monaten seit dem Kauf erfolgt.
 4. Aufwendungen für Reparaturen der Hilfsmittel und Geräte sind stets ohne ärztliche Verordnung beihilfefähig.
 5. Die innerhalb eines Kalenderjahres über 100,00 Euro hinausgehenden Aufwendungen für Betrieb und Unterhaltung der Hilfsmittel und Geräte sind beihilfefähig. Nicht beihilfefähig sind Aufwendungen für Batterien für Hörgeräte von Personen, die das achtzehnte Lebensjahr vollendet haben, und für Pflege- und Reinigungsmittel für Kontaktlinsen.
 6. Aufwendungen für Bandagen, Einlagen und Hilfsmittel zur Kompressionstherapie sind beihilfefähig.
-7. Aufwendungen für Hörgeräte einschließlich der Nebenkosten sind für Personen ab 15 Jahren auf 1500 Euro je Ohr begrenzt; gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte Fernbedienung. Der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten. Eine Versorgung mit Hörgeräten ist alle fünf Jahre beihilfefähig; es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich.
-8. Aufwendungen für ärztlich verordnete Perücken sind bis zum Betrag von 512,00 Euro beihilfefähig, wenn ein krankhafter entstellender Haarausfall (z. B. Alopecia areata), eine erhebliche Verunstaltung (z. B. infolge Schädelverletzung) oder ein totaler oder weitgehender Haarausfall vorliegt. Die Aufwendungen für eine Zweitperücke sind nur beihilfefähig, wenn eine Perücke voraussichtlich länger als ein Jahr getragen werden muss. Die Aufwendungen für die erneute Beschaffung einer Perücke sind nur beihilfefähig, wenn seit der vorangegangenen Beschaffung mindestens vier Jahre vergangen sind, oder wenn sich bei Kindern vor Ablauf dieses Zeitraumes die Kopfform geändert hat.
+7. Aufwendungen für Hörgeräte einschließlich der Nebenkosten sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt; gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte Fernbedienung. Der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten. Eine Versorgung mit Hörgeräten ist alle fünf Jahre beihilfefähig; es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich.
+8. Aufwendungen für ärztlich verordnete Perücken sind bis zum Betrag von 512,00 Euro beihilfefähig, wenn ein krankhafter entstellender Haarausfall (z.B. Alopecia areata), eine erhebliche Verunstaltung (z.B. infolge Schädelverletzung) oder ein totaler oder weitgehender Haarausfall vorliegt. Die Aufwendungen für eine Zweitperücke sind nur beihilfefähig, wenn eine Perücke voraussichtlich länger als ein Jahr getragen werden muss. Die Aufwendungen für die erneute Beschaffung einer Perücke sind nur beihilfefähig, wenn seit der vorangegangenen Beschaffung mindestens vier Jahre vergangen sind, oder wenn sich bei Kindern vor Ablauf dieses Zeitraumes die Kopfform geändert hat.
 9. Aufwendungen für Erektionshilfen sind nicht beihilfefähig.
 10. Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
 1.1 Adju-Set/-Sano
@@ -230,8 +230,8 @@ Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle 
 2.12 Blinden-Uhr
 2.13 Blutdruckmessgerät
 2.14 Brückentisch
-3.1 (frei)
-4.1 Dusche
+3.1. (frei)
+4.1. Dusche
 5.1 Einkaufsnetz
 5.2 Einmal-Handschuhe, es sei denn, sie sind bei regelmäßiger Katheterisierung, zur endotrachialen Absaugung, im Zusammenhang mit sterilem Ansaugkatheter oder bei Querschnittgelähmten zur Darmentleerung erforderlich
 5.3 Eisbeutel und -kompressen
@@ -318,14 +318,14 @@ c) die Teilnahme am gesellschaftlichen Leben wird damit wieder ermöglicht
 24.1 (frei)
 25.1 (frei)
 26.1 Zahnpflegemittel
-26.2 Zweirad für Behinderte.
+26.2 Zweirad für Behinderte
 11. Über die Beihilfefähigkeit der Aufwendungen für Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle, die weder in dieser Anlage aufgeführt noch den aufgeführten Gegenständen vergleichbar sind, entscheidet die Beihilfefestsetzungsstelle im Einvernehmen mit dem Senator für Finanzen.
 12. Aufwendungen für Sehhilfen sind wie folgt beihilfefähig:
 12.1 Sehhilfen zur Verbesserung des Visus sind beihilfefähig
 a) für Personen, die das 18. Lebensjahr noch nicht vollendet haben,
 b) für Personen, die das 18. Lebensjahr vollendet haben und unter folgenden Erkrankungen leiden:
 aa) Blindheit beider Augen (Diagnoseschlüssel H 54.0) oder
-bb) Blindheit eines Auges und Sehschwäche des anderen Auges (Diagnoseschlüssel H 54.1) oder
+bb) Blindheit eines Auges und Sehschwäche des anderen Auges Diagnoseschlüssel H 54.1) oder
 cc) gravierende Sehschwäche beider Augen (Diagnoseschlüssel H 54.2) oder
 dd) erheblichen Gesichtsausfällen.
 c) für Personen, die das 18. Lebensjahr vollendet haben, bei einem Korrekturausgleich für einen Refraktionsfehler
@@ -334,48 +334,50 @@ bb) bei Hyperopie von mehr als 6 dpt,
 cc) bei Astigmatismus von mehr als 4 dpt.
 Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
 12.2 Aufwendungen für Brillen sind - einschließlich Handwerksleistung, jedoch ohne Brillenfassung - bis zu folgenden Höchstbeträgen beihilfefähig:
-a) für vergütete Gläser mit Gläserstärken bis +/- 6 Dioptrien (dpt): |  |  | 
-Einstärkengläser: | für das sph. Glas | 31,00 Euro | 
- | für das cyl. Glas | 41,00 Euro | 
-Mehrstärkengläser: | für das sph. Glas | 72,00 Euro | 
- | für das cyl. Glas | 92,50 Euro | 
-b) bei Gläserstärken über +/- 6 Dioptrien (dpt): |  |  | 
-zuzüglich je Glas |  |  | 21,00 Euro
-c) Dreistufen- oder Multifokalgläser: |  |  | 
-zuzüglich je Glas |  |  | 21,00 Euro
-d) Gläser mit prismatischer Wirkung: |  |  | 
-zuzüglich je Glas |  |  | 21,00 Euro.
+a) für vergütete Gläser mit Gläserstärken bis +/- 6 Dioptrien (dpt):
+Einstärkengläser: | für das sph. Glas | 31,00 Euro
+ | für das cyl. Glas | 41,00 Euro
+Mehrstärkengläser: | für das sph. Glas | 72,00 Euro
+ | für das cyl. Glas | 92,50 Euro
+b) bei Gläserstärken über +/- 6 Dioptrien (dpt):
+zuzüglich je Glas | bis zu 21,00 Euro
+c) Dreistufen- oder Multifokalgläser:
+zuzüglich je Glas | bis zu 21,00 Euro
+d) Gläser mit prismatischer Wirkung:
+zuzüglich je Glas | bis zu 21,00 Euro
 12.3 Brillen mit besonderen Gläsern
 Die Mehraufwendungen für Brillen mit Kunststoff-, Leicht- und Lichtschutzgläsern sind bei folgenden Indikationen neben den Höchstbeträgen der Nr. 12.2 im jeweils genannten Umfang beihilfefähig:
-12.3.1 | Kunststoffgläser, Leichtgläser (hochbrechende mineralische Gläser) zuzüglich je Glas | bis zu 21,00 Euro
+12.3.1 Kunststoffgläser, Leichtgläser (hochbrechende mineralische Gläser)
+zuzüglich je Glas | bis zu 21,00 Euro
 a) bei Gläserstärken ab +/- 6 dpt,
 b) bei Anisometropien ab 2 dpt,
 c) unabhängig von der Gläserstärke
 aa) bei Kindern bis zum 14. Lebensjahr,
-bb) bei Patienten mit chronische Druckekzem der Nase, mit Fehlbildungen oder Missbildungen des Gesichts, insbesondere im Nasen- und Ohrenbereich, wenn trotz optimaler Anpassung unter Verwendung von Silikatgläsern ein befriedigender Sitz der Brille nicht gewährleistet ist,
+bb) bei Patienten mit chronischem Druckekzem der Nase, mit Fehlbildungen oder Missbildungen des Gesichts, insbesondere im Nasen- und Ohrenbereich, wenn trotz optimaler Anpassung unter Verwendung von Silikatgläsern ein befriedigender Sitz der Brille nicht gewährleistet ist,
 cc) bei Spastikern, Epileptikern und Einäugigen.
-12.3.2 | Getönte Gläser (Lichtschutzgläser), phototrope Gläser zuzüglich je Glas | bis zu 11,00 Euro
-a) bei umschriebenen Transparenzverlusten (Trübungen) im Bereich der brechenden Medien, die zu Lichtstreuungen führen (z. B. Hornhautnarben, Glaskörpertrübungen, Linsentrübungen),
-b) bei krankhaften, andauernden Pupillenerweiterungen sowie den Blendschutz herabsetzenden Substanzverlusten der Iris (z. B. Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse),
-c) bei chronisch-rezidivierenden Reizzuständen der vorderen und mittleren Augenabschnitte, die medikamentös nicht behebbar sind (z. B. Keratokonjunktivitis, Iritis, Zyklitis),
-d) bei entstellenden Veränderungen im Bereich der Lider und ihrer Umgebung (z. B. Lidkolobom, Lagophthalmus, Narbenzug) und Behinderung der Tränenabfuhr,
+12.3.2 Getönte Gläser (Lichtschutzgläser), phototrope Gläser
+zuzüglich je Glas | bis zu 11,00 Euro
+a) bei umschriebenen Transparenzverlusten (Trübungen) im Bereich der brechenden Medien, die zu Lichtstreuungen führen (z.B. Hornhautnarben, Glaskörpertrübungen, Linsentrübungen),
+b) bei krankhaften, andauernden Pupillenerweiterungen sowie den Blendschutz herabsetzenden Substanzverlusten der Iris (z.B. Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse),
+c) bei chronisch-rezidivierenden Reizzuständen der vorderen und mittleren Augenabschnitte, die medikamentös nicht behebbar sind (z.B. Keratokonjunktivitis, Iritis, Zyklitis),
+d) bei entstellenden Veränderungen im Bereich der Lider und ihrer Umgebung (z.B. Lidkolobom, Lagophthalmus, Narbenzug) und Behinderung der Tränenabfuhr,
 e) bei Ziliarneuralgie,
 f) bei blendungsbedingenden entzündlichen oder degenerativen Erkrankungen der Netzhaut/Aderhaut oder der Sehnerven,
 g) bei totaler Farbenblindheit,
 h) bei Albinismus,
 i) bei unerträglichen Blendungserscheinungen bei praktischer Blindheit,
-j) bei intrakraniellen Erkrankungen, bei denen nach ärztlicher Erfahrung eine pathologische Blendungsempfindlichkeit besteht (z. B. Hirnverletzungen, Hirntumoren),
+j) bei intrakraniellen Erkrankungen, bei denen nach ärztlicher Erfahrung eine pathologische Blendungsempfindlichkeit besteht (z.B. Hirnverletzungen, Hirntumoren),
 k) bei Gläsern ab + 10 dpt,
 l) im Rahmen einer Fotochemotherapie,
 m) bei Aphakie als UV-Schutz der Netzhaut.
 12.4 Kontaktlinsen
-12.4.1 Mehraufwendungen für Kontaktlinsen sind nur in medizinisch zwingend erforderlichen Ausnahmefällen nach § 33 Abs. 3 Fünftes Buch Sozialgesetzbuch beihilfefähig.
+12.4.1 Mehraufwendungen für Kontaktlinsen sind nur in medizinisch zwingend erforderlichen Ausnahmefällen nach § 33 Absatz 3 Fünftes Buch Sozialgesetzbuch beihilfefähig.
 12.4.2 Sofern ein Ausnahmefall nach Nummer 12.4.1 vorliegt, sind Aufwendungen für Kurzzeitlinsen bis zu 154,00 Euro (sphärisch) und 230,00 Euro (torisch) im Kalenderjahr beihilfefähig.
 12.4.3 Liegt keine der Indikationen für Kontaktlinsen vor, sind nur die vergleichbaren Kosten für Brillengläser beihilfefähig.
 12.4.4 Beihilfefähig sind ferner neben den Aufwendungen für Kontaktlinsen - im Rahmen der Nr. 12.2 und 12.3 - Aufwendungen für
 a) eine Reservebrille oder
 b) eine Nahbrille (bei eingesetzten Kontaktlinsen) sowie eine Reservebrille zum Ersatz der Kontaktlinsen und eine Reservebrille zum Ausgleich des Sehfehlers im Nahbereich bei Aphakie.
-12.5 Müssen Schulkinder während des Schulsports eine Sportbrille tragen, sind notwendige Aufwendungen - einschließlich Handwerksleistung - in folgendem Umfang beihilfefähig:
+12.5 Müssen Schulkinder während des Schulsports eine Sportbrille tragen, sind notwendige Aufwendungen einschließlich Handwerksleistung in folgendem Umfang beihilfefähig:
 a) für Gläser im Rahmen der Höchstbeträge nach den Nummer 12.2 und 12.3 (die Voraussetzungen der Nummer 12.3.1 entfallen),
 b) für eine Brillenfassung bis zu 52,00 Euro.
 12.6 Im Übrigen sind Aufwendungen für die erneute Beschaffung von Sehhilfen nur beihilfefähig, wenn bei gleichbleibender Sehschärfe seit dem Kauf der bisherigen Sehhilfe drei Jahre - bei weichen Kontaktlinsen zwei Jahre - vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
@@ -384,20 +386,19 @@ b) die bisherige Sehhilfe verlorengegangen oder unbrauchbar geworden ist oder
 c) sich die Kopfform geändert hat.
 12.7 Aufwendungen für
 a) Brillenversicherungen und
-b) Etuis sind
-nicht beihilfefähig.
-13.
-Die Aufwendungen für Speziallinsen und Brillengläser, die der Krankenbehandlung bei Augenverletzungen oder Augenerkrankungen dienen (therapeutische Sehhilfen) sind in den nach § 33 Abs. 1 Satz 3 Fünftes Buch Sozialgesetzbuch genannten Fällen beihilfefähig.
+b) Etuis
+sind nicht beihilfefähig.
+13. Die Aufwendungen für Speziallinsen und Brillengläser, die der Krankenbehandlung bei Augenverletzungen oder Augenerkrankungen dienen (therapeutische Sehhilfen) sind in den nach § 33 Absatz 1 Satz 3 Fünftes Buch Sozialgesetzbuch genannten Fällen beihilfefähig.
 Lässt sich durch Verordnung einer Brille oder von Kontaktlinsen das Lesen normaler Zeitungsschrift nicht erreichen, können Aufwendungen für eine vergrößernde Sehhilfe (Lupe, Leselupe, Leselineale, Fernrohrbrille, Fernrohrlupenbrille, elektronisches Lesegerät, Prismenlupenbrille u. ä.) als beihilfefähig anerkannt werden.
 14. Aufwendungen für Blindenhilfsmittel sowie die erforderliche Unterweisung im Gebrauch (Mobilitätstraining) sind in folgendem Umfang beihilfefähig:
 a) Anschaffungen zweier Langstöcke sowie gegebenenfalls elektronischer Blindenleitgeräte nach ärztlicher Verordnung,
 b) Aufwendungen für eine Ausbildung im Gebrauch des Langstockes sowie für eine Schulung in Orientierung und Mobilität bis zu folgenden Höchstbeträgen:
-aa) Unterrichtsstunde a 60 Minuten, einschließlich 15 Minuten Vor- und Nachbereitung sowie der Erstellung von Unterrichtsmaterial bis zu 100 Stunden, | 56,43 Euro
-bb) Fahrzeitentschädigung je Zeitstunde, wobei jede angefangene Stunde im 5-Minuten Takt anteilig berechnet wird, | 44,87 Euro
-cc) Fahrtkostenerstattung für Fahrten des Trainers je gefahrenen Kilometer oder die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels, | 0,30 Euro
-dd) Ersatz der notwendigen Aufwendungen für Unterkunft und Verpflegung des Trainers, soweit eine tägliche Rückkehr zum Wohnort des Trainers nicht zumutbar ist. | 26,00 Euro
+aa) | Unterrichtsstunde à 60 Minuten, einschließlich 15 Minuten Vor- und Nachbereitung sowie der Erstellung von Unterrichtsmaterial bis zu 100 Stunden | 56,43 Euro
+bb) | Fahrzeitentschädigung je Zeitstunde, wobei jede angefangene Stunde im 5-Minuten Takt anteilig berechnet wird | 44,87 Euro
+cc) | Fahrtkostenerstattung für Fahrten des Trainers je gefahrenen Kilometer oder die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels | 0,30 Euro
+dd) | Ersatz der notwendigen Aufwendungen für Unterkunft und Verpflegung des Trainers, soweit eine tägliche Rückkehr zum Wohnort des Trainers nicht zumutbar ist | 26,00 Euro.
 Das Mobilitätstraining erfolgt grundsätzlich als Einzeltraining und kann sowohl ambulant als auch in einer Spezialeinrichtung (stationär) durchgeführt werden.
 Werden an einem Tag mehrere Blinde unterrichtet, können die genannten Aufwendungen des Trainers nur nach entsprechender Teilung berücksichtigt werden.
-c) Aufwendungen für ein erforderliches Nachtraining (z. B. bei Wegfall eines noch vorhandenen Sehrestes, Wechsel des Wohnortes) entsprechend Buchstabe b.
+c) Aufwendungen für ein erforderliches Nachtraining (z.B. bei Wegfall eines noch vorhandenen Sehrestes, Wechsel des Wohnortes) entsprechend Buchstabe b.
 d) Aufwendungen eines ergänzenden Trainings an Blindenleitgeräten können in der Regel bis zu 30 Stunden gegebenenfalls einschließlich der Kosten für Unterkunft und Verpflegung sowie notwendiger Fahrkosten des Trainers in entsprechendem Umfang anerkannt werden. Die Anerkennung weiterer Stunden ist bei entsprechender Bescheinigung der Notwendigkeit möglich.
 Die entstandenen Aufwendungen sind durch eine Rechnung einer Blindenorganisation nachzuweisen. Ersatzweise kann auch eine unmittelbare Abrechnung durch den Mobilitätstrainer akzeptiert werden, falls dieser zur Rechnungsstellung gegenüber den gesetzlichen Krankenkassen berechtigt ist. Sofern Umsatzsteuerpflicht besteht (es ist ein Nachweis des Finanzamtes vorzulegen), erhöhen sich die beihilfefähigen Aufwendungen um die jeweils gültige Umsatzsteuer.

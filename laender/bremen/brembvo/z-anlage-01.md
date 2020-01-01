@@ -16,7 +16,7 @@ Im Fall eines positiven Gutachtens wird die Zahl der durchgeführten Akutbehandl
 2. Gemeinsame Regelungen für die Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie
 2.1 Aufwendungen für Leistungen der Psychotherapie sind beihilfefähig bei
 1. affektiven Störungen: depressive Episoden, rezidivierende depressive Störungen und Dysthymie,
-2. Angststörungen und Zwangsstörungen,
+2. Angststörungen und Zwangsstörungen
 3. somatoformen Störungen und dissoziativen Störungen,
 4. Anpassungsstörungen und Reaktionen auf schwere Belastungen,
 5. Essstörungen,
@@ -52,8 +52,10 @@ Aufwendungen für Maßnahmen nach Satz 1 Nummer 2 sind auch dann beihilfefähig,
 3.1.10 Aufwendungen für katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig.
 4. Verhaltenstherapie
 4.1 Aufwendungen für eine Verhaltenstherapie (Nummern 870 und 871 der Anlage zur Gebührenordnung für Ärzte) sind je Krankheitsfall in folgendem Umfang beihilfefähig:
-als Einzelbehandlung 60 Sitzungen, in Ausnahmefällen weitere 20 Sitzungen,
-als Gruppenbehandlung 60 Sitzungen, in Ausnahmefällen weitere 20 Sitzungen.
+als Einzelbehandlung 60 Sitzungen,
+in Ausnahmefällen weitere 20 Sitzungen,
+als Gruppenbehandlung 60 Sitzungen,
+in Ausnahmefällen weitere 20 Sitzungen.
 4.2 Nummer 3.1.5 bis Nummer 3.1.8 gilt entsprechend.
 4.3 Einer Anerkennung nach Nummer 2.3 Ziffer 3 bedarf es nicht, wenn der Festsetzungsstelle nach den probatorischen Sitzungen die Feststellung der Therapeutin oder des Therapeuten nach Nummer 7.3 vorgelegt wird, dass
 1. bei Einzelbehandlung nicht mehr als zehn Sitzungen,
@@ -86,7 +88,7 @@ Aufwendungen für Leistungen nach Satz 1 Ziffer 1 sind nicht beihilfefähig, wen
 1. einer Ärztin oder einem Arzt,
 2. einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten,
 3. einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten.
-Die behandelnde Person muss über Kenntnisse und Erfahrungen in der Anwendung der entsprechenden Intervention verfügen.
+4. Die behandelnde Person muss über Kenntnisse und Erfahrungen in der Anwendung der entsprechenden Intervention verfügen.
 5.5 Aufwendungen für eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind bis zu der Höhe der Vergütung, die von den gesetzlichen Krankenkassen oder den Rentenversicherungsträgern zu tragen ist, beihilfefähig.
 6. Anforderungen des Leistungserbringers einer tiefenpsychologisch fundierten und analytischen Psychotherapie
 6.1 Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
@@ -123,7 +125,7 @@ Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin
 2. in das Arztregister eingetragen sein oder
 3. über eine abgeschlossene Ausbildung in Verhaltenstherapie an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten verhaltenstherapeutischen Ausbildungsinstitut verfügen.
 7.4 Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendlichenpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 7.1, 7.2 oder 7.3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
-Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 7.1, 7.2 oder 7.3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 7.1,7.2 oder 7.3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
 8. Anforderungen des Leistungserbringers einer Eye-Movement-Desensitization-and-Reprocessing-Behandlung
 8.1 Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person
 1. die Voraussetzungen nach Nummer 6 oder Nummer 7 erfüllen und

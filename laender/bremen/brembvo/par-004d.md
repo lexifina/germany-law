@@ -1,4 +1,2 @@
-# § 4d Häusliche Pflege bei Verhinderung der Pflegeperson*)
+# § 4d Häusliche Pflege bei Verhinderung der Pflegeperson
 Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der häuslichen Pflege gehindert, so sind Aufwendungen für eine notwendige Ersatzpflege entsprechend § 39 des Elften Buches Sozialgesetzbuch beihilfefähig. Voraussetzung ist, dass die Pflegeperson die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person vor der erstmaligen Verhinderung mindestens sechs Monate in ihrer häuslichen Umgebung gepflegt hat.
-Fußnoten
-*) [Gemäß Bekanntmachung vom 29. November 2022 (Brem.GBl. S. 865) wird folgende Entscheidungsformel aus dem Urteil des Oberverwaltungsgerichts der Freien Hansestadt Bremen vom 16. Dezember 2020 – OVG: 2 D 291/19 – veröffentlicht: „Artikel 1 der Verordnung zur Änderung der Bremischen Beihilfeverordnung vom 21.05.2019, verkündet am 18.06.2019, (Brem.GBl. 2019, S. 444 - 506) wird insoweit für unwirksam erklärt, als § 4j BremBVO die bisherige Beihilfe für vollstationäre Pflege gemäß § 4d Abs. 2 BremBVO a.F. ersetzt.“]

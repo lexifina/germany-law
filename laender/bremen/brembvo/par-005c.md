@@ -4,8 +4,8 @@
 2. durchgeführt werden von Fachärztinnen oder Fachärzten für
 a) Neurologie,
 b) Nervenheilkunde, Psychiatrie oder Psychotherapie,
-c) Kinder-und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder
-d) Neurochirurgie und Kinder-und Jugendpsychiatrie und -psychotherapie,
+c) Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder
+d) Neurochirurgie und Kinder- und Jugendpsychiatrie und -psychotherapie,
 die zusätzlich zu ihrer Gebietsbezeichnung über eine neuropsychologische Zusatzqualifikation verfügen. Satz 1 gilt auch bei Behandlungen, die durchgeführt werden von
 1. ärztlichen Psychotherapeutinnen oder Psychotherapeuten,
 2. psychologischen Psychotherapeutinnen oder Psychotherapeuten oder
@@ -18,7 +18,7 @@ wenn diese über eine neuropsychologische Zusatzqualifikation verfügen. Der Umf
 (3) Aufwendungen für neuropsychologische Behandlungen sind in folgendem Umfang beihilfefähig:
 1. bis zu fünf probatorische Sitzungen,
 2. bei Einzelbehandlung, gegebenenfalls unter Einbeziehung von Bezugspersonen
-a) im Regelfall bei einer Behandlungseinheit von mindesten 25 Minuten und 120 Einheiten oder 50 Minuten und 60 Einheiten,
-b) im Ausnahmefall bei einer Behandlungseinheit von mindesten 25 Minuten und 40 weitere Einheiten oder 50 Minuten und 20 weitere Einheiten,
-3. bei Gruppenbehandlung, bei Kindern und Jugendlichen gegebenenfalls unter Einbeziehung von Bezugspersonen bei einer Behandlungseinheit von mindestens 50 Minuten und 80 Einheiten oder 100 Minuten und 40 Einheiten.
+3. im Regelfall bei einer Behandlungseinheit von mindesten 25 Minuten und 120 Einheiten oder 50 Minuten und 60 Einheiten,
+4. im Ausnahmefall bei einer Behandlungseinheit von mindesten 25 Minuten und 40 weitere Einheiten oder 50 Minuten und 20 weitere Einheiten,
+5. bei Gruppenbehandlung, bei Kindern und Jugendlichen gegebenenfalls unter Einbeziehung von Bezugspersonen bei einer Behandlungseinheit von mindestens 50 Minuten und 80 Einheiten oder 100 Minuten und 40 Einheiten.
 Bei einer Kombination von Einzel- und Gruppenbehandlung ist die gesamte Behandlung nach Satz 1 Nummer 2 beihilfefähig.

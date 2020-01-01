@@ -10,7 +10,7 @@ c) Krankengymnastin oder Krankengymnast,
 2. Bereich Stimm-, Sprech- und Sprachtherapie
 a) Logopädin oder Logopäde,
 b) staatlich anerkannte Sprachtherapeutin oder staatlich anerkannter Sprachtherapeut,
-c) staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst- Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,
+c) staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst-Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,
 d) medizinische Sprachheilpädagogin oder medizinischer Sprachheilpädagoge,
 e) klinische Linguistin oder klinischer Linguist,
 f) klinische Sprechwissenschaftlerin oder klinischer Sprechwissenschaftler,

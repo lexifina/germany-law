@@ -2,7 +2,7 @@
 Anlage 2
 (zu § 4 Abs. 1 Nr. 1 Satz 2 und § 7 BremBVO)
 Zahnärztliche und kieferorthopädische Leistungen
-Aufwendungen für zahnärztliche und kieferorthopädische Leistungen nach den folgenden Maßgaben beihilfefähig:
+Aufwendungen für zahnärztliche und kieferorthopädische Leistungen sind nach den folgenden Maßgaben beihilfefähig:
 1. Zahntechnische Leistungen
 Aufwendungen für zahntechnische Leistungen, die bei einer zahnärztlichen Behandlung für konservierende Leistungen nach Abschnitt C Nummern 2150 bis 2180, 2200 bis 2250 und 2310 bis 2320, prothetische Leistungen nach Abschnitt F und implantologische Leistungen nach Abschnitt K des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte entstehen, sowie Aufwendungen für Edelmetalle, Edelmetalllegierungen und Keramik sind einschließlich der Handwerksleistungen in Höhe von 60 vom Hundert beihilfefähig. Nummer 6 Buchstabe b bleibt unberührt.
 2. Kieferorthopädische Leistungen
