@@ -1,8 +1,8 @@
 # Förderrichtlinie Kunst und Kultur Vollzitat: Förderrichtlinie Kunst und Kultur
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-04-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18065.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18065.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-05.04.2019
+01.01.2020
 bis
-31.12.2019
+30.06.2023
 
 Förderrichtlinie Kunst und Kultur
 
@@ -113,6 +113,12 @@ c)
 
 Bemessungsgrundlage für die Höhe der Förderung sind die zuwendungsfähigen Gesamtausgaben. Hierzu zählen im Rahmen der institutionellen Förderung grundsätzlich die gesamten im Wirtschaftsplan der Einrichtung veranschlagten notwendigen Ausgaben, im Rahmen der Projektförderung grundsätzlich die im unmittelbaren Zusammenhang mit dem Projekt notwendigen Honorarausgaben, anteiligen Personalausgaben, Sachausgaben und Investitionsausgaben. Die Bewilligungsbehörde bestimmt Umfang und Höhe der zuwendungsfähigen Gesamtausgaben.
 
+
+d)
+
+Für Projektförderungen nach Ziffer III gilt keine Bagatellgrenze.
+
+
 4.
 
 Sonstige Zuwendungsbestimmungen
@@ -128,7 +134,13 @@ bei institutionell geförderten Zuwendungsempfängern die Bildung von Rücklagen
 
 b)
 
-von den Allgemeinen Nebenbestimmungen für Zuwendungen zur institutionellen Förderung oder zur Projektförderung (Anlagen 1, 2 und 3a der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) abweichende Regelungen zur Anforderung und Auszahlung der Zuwendung treffen, falls die eigenen und sonstigen Mittel des Antragstellers oder die Zuwendungen anderer Zuwendungsgeber voraussichtlich erst zu einem späteren Zeitpunkt zur Verfügung stehen werden.
+von den Allgemeinen Nebenbestimmungen für Zuwendungen zur institutionellen Förderung oder zur Projektförderung (Anlagen 1, 2 und 3a der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) abweichende Regelungen zur Anforderung und Auszahlung der Zuwendung treffen, falls die eigenen und sonstigen Mittel des Antragstellers oder die Zuwendungen anderer Zuwendungsgeber voraussichtlich erst zu einem späteren Zeitpunkt zur Verfügung stehen werden;
+
+
+c)
+
+bei Projektförderungen nach Ziffer III Nummer 1 Buchstabe a eine Zweckbindungsfrist von bis zu 25 Jahren bestimmen.
+
 
 5.
 
@@ -355,9 +367,9 @@ Fsn-Nr.: 5571-V19.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  5. April 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -382,7 +394,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18065.1
+https://www.revosax.sachsen.de/vorschrift/18065.2
 Stand vom
 18.11.2026
 
