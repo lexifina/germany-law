@@ -1,8 +1,8 @@
 # Richtlinie Regionales Wachstum Vollzitat: Richtlinie Regionales Wachstum
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-02-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18000.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18000.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.02.2019
+01.01.2020
 bis
-31.12.2019
+24.12.2020
 
 Richtlinie Regionales Wachstum
 
@@ -132,6 +132,7 @@ Von der Förderung ebenfalls ausgeschlossen sind:
 a)
 
 Unternehmen, an denen Banken, Versicherungen, die Bundesrepublik Deutschland, der Freistaat Sachsen oder Kommunen Anteile halten5
+
 
 b)
 
@@ -291,7 +292,7 @@ Umfang der Förderung
 Bemessungsgrundlage für die Förderung sind die förderfähigen Investitionskosten. Förderfähig sind Kosten19 dann, wenn sie zur Durchführung des Vorhabens notwendig sind.
 
 
-Abweichend von Nummer 3.1 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) besteht für Zuwendungsempfänger keine Verpflichtung zur Einhaltung der Vorschriften über die Vergabe von Aufträgen.
+Abweichend von Nummer 3 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) besteht für Zuwendungsempfänger keine Verpflichtung zur Einhaltung der Vorschriften über die Vergabe von Aufträgen.
 
 3.
 
@@ -408,7 +409,7 @@ der Antrag22 auf Gewährung von Investitionszuschüssen unter Verwendung des von
 
 b)
 
-die Bewilligungsstelle schriftlich eine Genehmigung zum vorzeitigen Maßnahmenbeginn erteilt hat.
+bei Maßnahmen mit im Antrag zugrunde gelegten Ausgaben ab 100 000 Euro die Bewilligungsstelle schriftlich eine Genehmigung zum vorzeitigen Maßnahmenbeginn erteilt hat.
 
 2.
 
@@ -463,11 +464,11 @@ Ansprechpartner für Beratung und Antragstellung sowie Bewilligungsstelle ist di
 
 2.
 
-Die Auszahlung der Zuwendung erfolgt nur für bereits bezahlte Rechnungen. Zum Nachweis sind Rechnungen und Zahlungsbelege vorzulegen.
+Die Auszahlung der Zuwendung erfolgt nur für bereits bezahlte Rechnungen.
 
 3.
 
-Die Verwendungsnachweisprüfung obliegt der SAB. Es wird ein einfacher Verwendungsnachweis gemäß Nummer 5.3.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung zugelassen. Im Sachbericht zum Verwendungsnachweis hat der Zuwendungsempfänger die Wirkung der Investition insbesondere hinsichtlich des mit der Investition verbundenen Ziels (vergleiche Ziffer IV Nummer 1) darzustellen.
+Die Verwendungsnachweisprüfung obliegt der SAB. Im Sachbericht zum Verwendungsnachweis hat der Zuwendungsempfänger die Wirkung der Investition insbesondere hinsichtlich des mit der Investition verbundenen Ziels (vergleiche Ziffer IV Nummer 1) darzustellen.
 
 
 VIII.
@@ -490,9 +491,9 @@ Fsn-Nr.: 5501-V19.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Februar 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 24. Dezember 2020
 
 Drucken/Speichern
 
@@ -517,7 +518,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18000.1
+https://www.revosax.sachsen.de/vorschrift/18000.2
 Stand vom
 18.11.2026
 
