@@ -1,8 +1,8 @@
 # Förderrichtlinie Absatzförderung Vollzitat: Förderrichtlinie Absatzförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-05-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18068.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18068.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.05.2019
+01.01.2020
 bis
-31.12.2019
+28.04.2021
 
 Förderrichtlinie Absatzförderung
 
@@ -82,12 +82,12 @@ der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. Apri
 
 –
 
-der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 27. Februar 2019 (SächsABl. S. 451) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
 
 
 –
 
-der Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Agrar-Freistellungsverordnung – AgrarFVO) (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2017/1084 der Kommission vom 14. Juni 2017 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist,
+der Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Agrar-Freistellungsverordnung – AgrarFVO) (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2019/289 vom 19. Februar 2019 (ABl. L 48 vom 20.2.2019, S. 1) geändert worden ist,
 
 
 –
@@ -97,7 +97,9 @@ der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die
 
 –
 
-der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9),
+der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die durch die Verordnung (EU) 2019/316 vom 21. Februar 2019 (ABl. L 51l vom
+
+22.2.2019, S. 1) geändert worden ist,
 
 
 –
@@ -107,7 +109,7 @@ der Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwe
 
 –
 
-der Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8),
+der Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die durch die Verordnung (EU) 2018/1923 vom 7. Dezember 2018 (ABl. L 313 vom 10.12.2018, S. 2) geändert worden ist,
 
 
 in den jeweils geltenden Fassungen.
@@ -357,7 +359,9 @@ Form der Zuwendung
 
 a)
 
-Für Maßnahmen nach Ziffer II Nummer 1 wird Zuwendungsempfängern nach Ziffer III Nummern 3 eine Pauschale in Höhe von 4 000 Euro im Ausland und in Höhe von 3 000 Euro im Inland gewährt.
+Für Maßnahmen nach Ziffer II Nummer 1 wird Zuwendungsempfängern nach Ziffer III Nummer 3 eine Pauschale von 4 000 Euro für Teilnahmen an internationalen
+
+Messen und in Höhe von 3 000 Euro für reine Inlandsmessen gewährt.
 
 
 b)
@@ -493,7 +497,7 @@ Verfahren
 
 1.
 
-Anträge auf Förderung sind rechtzeitig vor Beginn der jeweiligen Maßnahme bei dem Sächsischen Landesamt für Umwelt, Landwirtschaft und Geologie (LfULG) als der zuständigen Bewilligungsstelle einzureichen. Die erforderlichen Formulare stehen elektronisch bereit (Richtlinie »Absatzförderung der sächsischen Land- und Ernährungswirtschaft« [AbsLE/2019] https://www.smul.sachsen.de/foerderung/1045.htm). Werden Maßnahmen nach Ziffer II Nummern 2 bis 5 beantragt, darf mit der Maßnahme erst begonnen werden, wenn die Bewilligung erteilt oder auf Antrag ein vorzeitiger Maßnahmebeginn genehmigt worden ist.
+Anträge auf Förderung sind bei dem Sächsischen Landesamt für Umwelt, Landwirtschaft und Geologie (LfULG) als der zuständigen Bewilligungsstelle einzureichen. Die erforderlichen Formulare stehen elektronisch bereit (Richtlinie »Absatzförderung der sächsischen Land- und Ernährungswirtschaft« [AbsLE/2019] https://www.smul.sachsen.de/foerderung/1045.htm).
 
 2.
 
@@ -506,10 +510,7 @@ Antragsverfahren
 
 a)
 
-Der schriftliche Antrag zur Förderung einer Messeteilnahme soll in der Regel innerhalb von 14 Tagen nach Anmeldung zu einer Messe bei der Bewilligungsstelle eingereicht werden. Die Anmeldung bei der Messe als Maßnahmebeginn ist förderunschädlich. Als Zeitpunkt des förderunschädlichen Maßnahmebeginns ist auf den Tag der Anmeldung zur Messe abzustellen.
-
-
-Für alle übrigen Maßnahmen soll der schriftliche Antrag in der Regel bis spätestens zwei Monate vor dem geplanten Maßnahmebeginn eingereicht werden. Als Maßnahmebeginn ist dabei der Tag der geplanten ersten Auftragserteilung zu werten.
+Die Anmeldung bei einer Messe als Maßnahmebeginn ist förderunschädlich. Die Anmeldung zu einer Messe kann daher vor Antragstellung erfolgen. Als Zeitpunkt des förderunschädlichen Maßnahmebeginns ist auf den Tag der Anmeldung zur Messe abzustellen.
 
 
 b)
@@ -521,7 +522,7 @@ Der Antragsteller hat anhand geeigneter Unterlagen die jeweiligen Zuwendungsvora
 Bewilligungsverfahren
 
 
-Aus der Zustimmung zum förderunschädlichen Maßnahmebeginn kann kein Rechtsanspruch auf eine Förderung abgeleitet werden, insbesondere stellt sie keine Zusicherung im Sinne von § 38 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 7 des Gesetzes vom 18. Dezember 2018 (BGBl. I S. 2639) geändert worden ist, dar. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. Eine spätere Förderung erfolgt nach der geltenden Richtlinie. Die Bewilligungsstelle entscheidet durch schriftlichen Bescheid.
+Aus den Regelungen zum förderunschädlichen Maßnahmebeginn kann kein Rechtsanspruch auf eine Förderung abgeleitet werden, insbesondere stellt sie keine Zusicherung im Sinne von § 38 des Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist, dar. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. Eine spätere Förderung erfolgt nach der in diesem Zeitpunkt geltenden Richtlinie. Die Bewilligungsstelle entscheidet durch schriftlichen Bescheid.
 
 5.
 
@@ -550,12 +551,6 @@ bei Vorhaben nach Ziffer II Nummer 1 die Rechnung des Veranstalters über die St
 
 bei Vorhaben nach Ziffer II Nummer 2 einschließlich eigener Veranstaltungen (zum Beispiel Hoffeste) ein adäquater Nachweis von Dritten.
 
-7.
-
-Anwendung des Vergaberechts
-
-
-Hinsichtlich der Anwendung des Vergaberechts gelten die jeweiligen allgemeinen Nebenbestimmungen gemäß der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Abweichend gilt: ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 98 Nummer 2 bis 6 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2018 (BGBl. I S. 1151) geändert worden ist, in der jeweils geltenden Fassung vor, sind bei Zuwendungen von mehr als 5 000 Euro mit dem Antrag grundsätzlich drei vergleichbare Angebote fachkundiger und leistungsfähiger Anbieter vorzulegen. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden oder dem Antrag nicht das wirtschaftlichste Angebot zugrunde gelegt wird, ist dies vom Antragsteller schriftlich zu begründen.
 
 VII.
 Inkrafttreten und Außerkrafttreten
@@ -577,9 +572,9 @@ Fsn-Nr.: 5563-V19.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Mai 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 28. April 2021
 
 Drucken/Speichern
 
@@ -604,7 +599,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18068.1
+https://www.revosax.sachsen.de/vorschrift/18068.2
 Stand vom
 18.11.2026
 
