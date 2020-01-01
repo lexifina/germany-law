@@ -1,0 +1,2 @@
+# [Präambel]
+Angesichts des Trümmerfeldes, zu dem eine Staats- und Gesellschaftsordnung ohne Gott, ohne Gewissen und ohne Achtung vor der Würde des Menschen die Überlebenden des zweiten Weltkrieges geführt hat, in dem festen Entschlusse, den kommenden deutschen Geschlechtern die Segnungen des Friedens, der Menschlichkeit und des Rechtes dauernd zu sichern, gibt sich das Bayerische Volk, eingedenk seiner mehr als tausendjährigen Geschichte, nachstehende demokratische Verfassung
