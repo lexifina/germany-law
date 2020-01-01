@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-02-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.3
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-02.02.2018
+01.01.2020
 bis
-31.12.2019
+13.01.2022
 
 RL Landes-Technologieförderung
 
@@ -209,11 +209,6 @@ Der Antrag muss eine Einschätzung des Dienstleisters enthalten, dass der in ein
 
 e)
 
-Der Antragsteller darf den Vertrag mit dem Dienstleister erst nach Erhalt des Zuwendungsbescheids der SAB oder nach Genehmigung der SAB zum vorzeitigen Beginn abschließen.
-
-
-f)
-
 Von der Förderung ausgeschlossen sind
 
 
@@ -250,9 +245,9 @@ cc)
 Leistungen des Dienstleisters, die die Europäische Kommission im Rahmen des zu beantragenden HORIZON 2020-Projekts voll oder anteilig finanziert.
 
 
-g)
+f)
 
-Der Dienstleister hat schriftlich zu erklären, dass er für das Vorhaben in Anspruch genommene kostenfreie oder anteilig finanzierte Leistungen gemäß Buchstabe f Doppelbuchstabe bb und cc dem Unternehmen nicht oder maximal nur bis zur Höhe des nicht öffentlich finanzierten Kostenanteils in Rechnung stellt.
+Der Dienstleister hat schriftlich zu erklären, dass er für das Vorhaben in Anspruch genommene kostenfreie oder anteilig finanzierte Leistungen gemäß Buchstabe e Doppelbuchstabe bb und cc dem Unternehmen nicht oder maximal nur bis zur Höhe des nicht öffentlich finanzierten Kostenanteils in Rechnung stellt.
 
 
 5.
@@ -505,6 +500,11 @@ Dienstreisen für im Projekt beschäftigte Personen, soweit diese zur Erfüllung
 
 d)
 
+Für zuwendungsfähige Ausgaben/Kosten, insbesondere für Personal, können Pauschalen zugrunde gelegt werden. Nähere Angaben zu Form und Höhe der Pauschalen sind der Internetseite der Bewilligungsstelle zu entnehmen. Die Pauschalen treten am 1. Oktober 2020 in Kraft.
+
+
+e)
+
 Der Abschluss eines Vertrags mit wiederkehrenden Leistungen gemäß Buchstabe c Doppelbuchstabe cc oder der Einkauf derartiger Leistungen, die zur Durchführung des Vorhabens erforderlich sind, gelten in Abweichung von Nummer 1.3.1 Satz 1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung nicht als Beginn des Vorhabens.
 
 
@@ -534,7 +534,7 @@ Patentverwertung durch Hochschulen und Forschungseinrichtungen
 Zuwendungszweck
 
 
-Das Bundesministerium für Wirtschaft und Energie (BMWi) unterstützt Hochschulen und öffentlich finanzierte Forschungseinrichtungen bei der Intensivierung des Wissens- und Technologietransfers durch die wirtschaftliche Verwertung von vertraglich nicht gebundenem Know-how auf der Grundlage von Nummer 2.1.2 der Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Hochschulen und Unternehmen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 20. November 2015 (BAnz AT 27.11.2015 B1).
+Das Bundesministerium für Wirtschaft und Energie (BMWi) unterstützt Hochschulen und öffentlich finanzierte Forschungseinrichtungen bei der Intensivierung des Wissens- und Technologietransfers durch die wirtschaftliche Verwertung von vertraglich nicht gebundenem Know-how auf der Grundlage von Nummer 2.1.1 und 2.1.2 der Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Hochschulen und Unternehmen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 16. Dezember 2019 (BAnz AT 17.01.2020 B1).
 
 
 Die Förderung erstreckt sich von der Identifizierung über die schutzrechtliche Sicherung bis zur Verwertung geeigneter Forschungsergebnisse. Adressat der Förderung ist der Verbund SachsenPatent, zu dem sich sächsische Hochschulen und Forschungseinrichtungen zusammengeschlossen haben. Der Verbund ermöglicht Synergieeffekte bei der Erschließung von Verwertungswegen. Fördervoraussetzung ist die Erarbeitung und Implementierung einer spezifischen Strategie zur Behandlung und Verwertung von geistigem Eigentum durch jedes Verbundmitglied. Ziele der Förderung sind die Erhöhung der Transparenz von Wissensressourcen und die Verbesserung des Transfers in die Wirtschaft. Die Förderbeiträge des BMWi sind in Nummer 2.1.2.3 der Richtlinie WIPANO festgelegt. Die Förderung durch den Freistaat Sachsen dient der Sicherung der Gesamtfinanzierung der Aktivitäten im Verbund.
@@ -561,7 +561,7 @@ Zuwendungsempfänger ist der jeweilige Koordinator des Verbunds SachsenPatent. R
 Zuwendungsvoraussetzungen
 
 
-Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Abweichend von Ziffer I Nummer 2 erfolgt die Förderung durch den Freistaat auf der Grundlage der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 8 Absatz 10 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, einschließlich der zugehörigen Verwaltungsvorschrift.  
+Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Abweichend von Ziffer I Nummer 2 erfolgt die Förderung durch den Freistaat auf der Grundlage der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 3 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) geändert worden ist, einschließlich der zugehörigen Verwaltungsvorschrift.  
 
 
 5.
@@ -574,37 +574,37 @@ Der Freistaat gewährt im Rahmen einer Projektförderung eine Zuwendung in Form 
 
 a)
 
-für LP 4 (Patentierung) als Anteilfinanzierung in Höhe von 25 Prozent,
+für LP 4 Schutzrechtsanmeldung (Amtsgebühren und Ausgaben für Patentanwalt) als Anteilfinanzierung in Höhe von 25 Prozent,
 
 
 b)
 
-für die übrigen LP wie folgt als Festbetragsfinanzierung:
+für die übrigen LP wie folgt als Festbetrags­finanzierung bei Durchführung des LP durch qualifizierte externe Dienstleister:
 
 
 LP 1
 
-Grobprüfung je Erfindungsmeldung 215 Euro,
+Beratung und Detailprüfung hinsichtlich Neuheit 355 Euro,
 
 
 LP 2
 
-Detailprüfung je Erfindungsmeldung 570 Euro,
+Detailprüfung hinsichtlich wirtschaftlicher Verwertung 355 Euro,
 
 
 LP 3
 
-Strategieberatung Erstanmeldung 345 Euro und Strategieberatung Nachanmeldung 285 Euro,
+(Strategie-)Beratung und Unterstützung bei der Schutzrechtsanmeldung Erstanmeldung 355 Euro und Nachanmeldung 210 Euro,
 
 
 LP 5
 
-Verwertungsaktivitäten je Erstanmeldung 1 000 Euro,
+Aktivitäten zur Verwertung 1 140 Euro,
 
 
 LP 6
 
-Portfolioverwaltung je Erstanmeldung pro Jahr, maximal zehn Jahre 285 Euro.
+Portfolioverwaltung und weitere Verwertung, ab dem zweiten Jahr bis maximal zehn Jahre jährlich 285 Euro.
 
 
 Die Festbeträge entsprechen grundsätzlich fünf Siebteln der jeweils durch das BMWi gewährten Beträge.
@@ -647,7 +647,7 @@ Sonstige Zuwendungsvoraussetzungen
 
 a)
 
-Für alle Finanzierungsanteile gelten einheitlich die Bestimmungen gemäß Nummer 2.1.1 und 2.1.2 der Richtlinie WIPANO.
+Für alle Finanzierungsanteile gelten einheitlich die Bestimmungen gemäß Nummer 2.1.1 und 2.1.2 der Richtlinie WIPANO vom 16. Dezember 2019.
 
 
 b)
@@ -743,7 +743,7 @@ b)
 Förderfähig sind Personal- und Sachausgaben/Personal- und Sachkosten zur Erstellung der Feinkonzeption, für Organisation, Umsetzung und Dokumentation von Veranstaltungen.
 
 
-Die Förderung wird als Zuschuss von bis zu 50 Prozent der förderfähigen Ausgaben/Kosten gewährt, jedoch maximal in Höhe der nicht durch anderweitige Einnahmen des Veranstalters abgedeckten Ausgaben/Kosten, höchstens jedoch in Höhe von 60 000 Euro pro Veranstaltung.
+Die Förderung wird als Zuschuss von bis zu 50 Prozent der förderfähigen Ausgaben/Kosten gewährt, höchstens jedoch in Höhe von 60 000 Euro pro Veranstaltung.
 
 
 c)
@@ -1147,7 +1147,13 @@ Um die Wirksamkeit des Förderprogramms bewerten zu können, ist es erforderlich
 
 g)
 
-Eine Förderung ist ausgeschlossen, wenn mit dem Investitionsvorhaben vor Bewilligung des beantragten Vorhabens begonnen wurde. Die Bewilligungsstelle kann auf schriftlichen Antrag in begründeten Fällen eine Genehmigung zum vorzeitigen Maßnahmenbeginn erteilen. Beginn der Arbeiten für das Investitionsvorhaben ist entweder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- oder Leistungsvertrags oder der Beginn der Bauarbeiten für die Investition oder die erste rechtsverbindliche Verpflichtung zur Bestellung von Ausrüstung oder eine andere Verpflichtung, die die Investition unumkehrbar macht. Der früheste der vorgenannten Zeitpunkte ist maßgebend. Der Kauf von Grundstücken und Vorarbeiten wie die Einholung von Genehmigungen und die Erstellung vorläufiger Durchführbarkeitsstudien gelten nicht als Beginn der Arbeiten für das Investitionsvorhaben. Bei Baumaßnahmen gelten Planung und Baugrunduntersuchung sowie sonstige vorbereitende Maßnahmen nicht als Beginn des Vorhabens.
+Eine Förderung bei Maßnahmen mit im Antrag zugrunde gelegten Ausgaben ab 100 000 Euro ist ausgeschlossen, wenn mit dem Investitionsvorhaben vor Bewilligung des beantragten Vorhabens begonnen wurde.
+
+Die Bewilligungsstelle kann auf schriftlichen Antrag in begründeten Fällen eine Genehmigung zum vorzeitigen Maßnahmenbeginn erteilen.
+
+Bei Vorhaben mit vom Zuwendungsempfänger im Antrag zugrunde gelegten Ausgaben von weniger als 100 000 Euro ist der Vorhabensbeginn ab Antragsstellung unter Verwendung des von der Bewilligungsstelle vorgegebenen Vordrucks (Datum, Posteingang bei der Bewilligungsstelle) zugelassen.
+
+Beginn der Arbeiten für das Investitionsvorhaben ist entweder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- oder Leistungsvertrags oder der Beginn der Bauarbeiten für die Investition oder die erste rechtsverbindliche Verpflichtung zur Bestellung von Ausrüstung oder eine andere Verpflichtung, die die Investition unumkehrbar macht. Der früheste der vorgenannten Zeitpunkte ist maßgebend. Der Kauf von Grundstücken und Vorarbeiten wie die Einholung von Genehmigungen und die Erstellung vorläufiger Durchführbarkeitsstudien gelten nicht als Beginn der Arbeiten für das Investitionsvorhaben. Bei Baumaßnahmen gelten Planung und Baugrunduntersuchung sowie sonstige vorbereitende Maßnahmen nicht als Beginn des Vorhabens.
 
 
 h)
@@ -1189,7 +1195,7 @@ eine Vorhabensbeschreibung mit Darstellung und Begründung der beantragten inves
 
 Beihilferechtliche Bestimmungen
 
-Bei den Zuwendungen für die Anschaffung oder Herstellung nicht wirtschaftlich genutzter Wirtschaftsgüter handelt es sich nicht um staatliche Beihilfen gemäß Ziffer I Nummer 3.“
+Bei den Zuwendungen für die Anschaffung oder Herstellung nicht wirtschaftlich genutzter Wirtschaftsgüter handelt es sich nicht um staatliche Beihilfen gemäß Ziffer I Nummer 3.
 
 
 III.
@@ -1584,9 +1590,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  2. Februar 2018
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 13. Januar 2022
 
 Drucken/Speichern
 
@@ -1611,7 +1617,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.3
+https://www.revosax.sachsen.de/vorschrift/17309.4
 Stand vom
 18.11.2026
 
