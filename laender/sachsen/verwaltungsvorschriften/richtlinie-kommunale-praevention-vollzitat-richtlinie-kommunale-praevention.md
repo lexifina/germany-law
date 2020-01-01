@@ -1,8 +1,8 @@
 # Richtlinie Kommunale Prävention Vollzitat: Richtlinie Kommunale Prävention
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-06-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17736.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17736.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-29.06.2018
+01.01.2020
 bis
-31.12.2019
+15.06.2023
 
 Richtlinie Kommunale Prävention
 
@@ -142,7 +142,34 @@ Die Zuwendung wird als zweckgebundener, nicht rückzahlbarer Zuschuss gewährt.
 
 Bemessungsgrundlage
 
-Bemessungsgrundlage für die Höhe der Zuwendung sind die für das Projekt oder die Maßnahme als zuwendungsfähig anerkannten Ausgaben. Zuwendungsfähig sind die Personal- und Sachausgaben, die für die Erreichung des Zuwendungszwecks notwendig sind. Nicht zuwendungsfähig sind investive Ausgaben.
+Bemessungsgrundlage für die Höhe der Zuwendung sind die für das Projekt oder die Maßnahme als zuwendungsfähig anerkannten Ausgaben.
+
+Zuwendungsfähig sind die Personal- und Sachausgaben, die für die Erreichung des Zuwendungszwecks notwendig sind.
+
+Für die aus der Zuwendung zu tätigenden Personalausgaben gelten folgende Entgeltgruppen aus dem Tarifvertrag für den öffentlichen Dienst der Länder (TV-L) als Obergrenze:
+
+
+–
+
+abgeschlossene Berufsausbildung – EG 7, Stufe 3,
+
+
+–
+
+abgeschlossene Fachhochschulausbildung – EG 11, Stufe 3,
+
+
+–
+
+abgeschlossene wissenschaftliche Hochschulausbildung – EG 14, Stufe 3,
+
+
+–
+
+abgeschlossene wissenschaftliche Hochschulausbildung und Führungsfunktion – EG 15, Stufe 3.
+
+
+Nicht zuwendungsfähig sind investive Ausgaben.
 
 
 5.
@@ -150,6 +177,26 @@ Bemessungsgrundlage für die Höhe der Zuwendung sind die für das Projekt oder 
 Eigenanteil
 
 Voraussetzung für eine Förderung ist die Erbringung eines Eigenanteils durch die Kommunen. Als Eigenanteil wird dabei auch die Bereitstellung von kommunalem Personal sowie von Sachmitteln innerhalb der Kommunalverwaltung für die Steuerung des kommunalen Präventionsgremiums anerkannt.
+
+
+6.
+
+Ausnahmen von der Förderuntergrenze Zuwendungen von 10 000 Euro und weniger können im Einzelfall insbesondere gewährt werden für
+
+
+–
+
+Projekte, die kurzfristig auf konkrete regionale Bedarfe reagieren,
+
+
+–
+
+Projekte, die sich auf anlassbezogene lokale Ereignisse oder empirische Befunde beziehen oder
+
+
+–
+
+Projekte, die auf aktuelle Lagen reagieren und in die Gesamtpräventionsstrategie integriert werden.
 
 
 VI.
@@ -175,12 +222,17 @@ Dem Antrag sind beizufügen:
 
 a)
 
-eine ausführliche Projektbeschreibung, die sich an den Beccaria-Standards zur Qualitätssicherung kriminalpräventiver Projekte orientiert (https://beccariatest.files.wordpress.com/2011/10/beccaria-standards_brosch_de-neu.pdf) sowie
+eine ausführliche Projektbeschreibung, die sich an den Beccaria-Standards zur Qualitätssicherung kriminalpräventiver Projekte orientiert (https://beccariatest.files.wordpress.com/2011/10/beccaria-standards_brosch_de-neu.pdf),
 
 
 b)
 
-ein Finanzierungsplan.
+ein Finanzierungsplan sowie
+
+
+c)
+
+Nachweis über den beruflichen Bildungsabschluss des mit Hilfe der Zuwendung finanzierten Personals.
 
 
 Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen anzufordern.
@@ -188,20 +240,15 @@ Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen anzufordern.
 
 4.
 
-Die Genehmigung zum förderunschädlichen vorzeitigen Vorhabensbeginn kann im Einzelfall auf schriftlichen Antrag erteilt werden.
+Die Bewilligungsbehörde prüft die Förderfähigkeit und entscheidet über die Gewährung der Zuwendung. Die Bewilligung erfolgt durch schriftlichen Zuwendungsbescheid.
 
 
 5.
 
-Die Bewilligungsbehörde prüft die Förderfähigkeit und entscheidet über die Gewährung der Zuwendung. Die Bewilligung erfolgt durch schriftlichen Zuwendungsbescheid.
-
-
-6.
-
 Die Auszahlung der bewilligten Mittel erfolgt auf Antrag.
 
 
-7.
+6.
 
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen werden.
 
@@ -231,9 +278,9 @@ Fsn-Nr.: 551-V18.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 29. Juni 2018
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 15. Juni 2023
 
 Drucken/Speichern
 
@@ -258,7 +305,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17736.1
+https://www.revosax.sachsen.de/vorschrift/17736.2
 Stand vom
 18.11.2026
 
