@@ -1,2 +1,2 @@
 # Eingangsformel
-Gemäß § 78 Abs. 1, § 74 c Abs. 1 und § 78 a Abs. 2 des Gerichtsverfassungsgesetzes, zuletzt geändert durch Artikel 22 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (BGBl. I S. 469) in Verbindung mit § 1 des Gesetzes über Rechtsverordnungen im Bereich der Gerichtsbarkeit vom 1. Juli 1960 (BGBl. I S. 481) verordnet der Senat:
+Aufgrund des § 78 Absatz 1 und des § 78a des Gerichtsverfassungsgesetzes in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), das zuletzt durch Artikel 8 Absatz 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1002) geändert worden ist, verordnet der Senat:

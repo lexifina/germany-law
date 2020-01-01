@@ -1,1 +1,1 @@
-# Verordnung über die Strafkammer und die Strafvollstreckungskammer in Bremerhaven vom 3. Dezember 1974
+# Verordnung über die Strafkammer und die Strafvollstreckungskammer in Bremerhaven vom 3. Dezember 2019
