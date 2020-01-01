@@ -12,18 +12,16 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
  |  |  | 1.5 | Verwaltung der
  |  |  | 1.5.1 | Erbschaft- und Schenkungsteuer
  |  |  | 1.5.2 | Grunderwerbsteuer
- |  |  | 1.6 | Durchführung der Einheitsbewertung und Bedarfsbewertung des Grundvermögens
- |  | Bremen | 1.7 | Verwaltung der Grundbesitzabgaben mit Ausnahme der Kassengeschäfte und des Vollstreckungsverfahrens
+ |  |  | 1.6 | Durchführung der Einheitsbewertung des Grundvermögens sowie der gesonderten Feststellung der Grundbesitzwerte nach § 151 Absatz 1 Satz 1 Nummer 1 des Bewertungsgesetzes und der Werte des Betriebsvermögens und der Anteile am Betriebsvermögen, von nicht notierten Anteilen an Kapitalgesellschaften und des Vermögens von Gemeinschaften nach § 151 Absatz 1 Satz 1 Nummer 2 bis 4 des Bewertungsgesetzes
+ |  | Bremen | 1.7 | Verwaltung der Grundbesitzabgaben mit Ausnahme der Aufgaben nach § 3a dieser Verordnung
 2 | Bremen | Alle Finanzämter im Lande Bremen | 2.1 | Besteuerung der in Norwegen, Finnland und Lettland ansässigen Unternehmer auf Grund bundesweit verordneter Übertragung der örtlichen Zuständigkeit hinsichtlich
  |  |  | 2.1.1 | der Umsatzsteuer
  |  |  | 2.1.2 | der Steuern vom Einkommen und Vermögen, wenn der Unternehmer Bauleistungen (§ 48 Absatz 1 Satz 2 Einkommensteuergesetz) erbringt
  |  |  | 2.1.3 | der Lohnsteuer bei Arbeitnehmerüberlassung im Baugewerbe
- |  |  | 2.2 | die gesonderte Feststellung der Werte des Betriebsvermögens oder der Anteile am Betriebsvermögen, von nicht notierten Anteilen an Kapitalgesellschaften und des Vermögens von Gemeinschaften nach § 151 Absatz 1 Satz 1 Nummer 2 bis 4 des Bewertungsgesetzes für Bewertungsstichtage ab dem 1. Januar 2009 und für Fälle, in denen ein Antrag nach Artikel 3 des Erbschaftsteuerreformgesetzes vom 24. Dezember 2008 (BGBl. I S. 3018) gestellt worden ist.
- |  |  | 2.2 | die gesonderte Feststellung der Werte des Betriebsvermögens oder der Anteile am Betriebsvermögen, von nicht notierten Anteilen an Kapitalgesellschaften und des Vermögens von Gemeinschaften nach § 151 Absatz 1 Satz 1 Nummer 2 bis 4 des Bewertungsgesetzes für Bewertungsstichtage ab dem 1. Januar 2009 und für Fälle, in denen ein Antrag nach Artikel 3 des Erbschaftsteuerreformgesetzes vom 24. Dezember 2008 (BGBl. I S. 3018) gestellt worden ist.
- |  |  | 2.3 | Verwaltung der Rennwett- und Lotteriesteuer
- |  |  | 2.4 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht in der Spielbank Bremen und im Automatensaal Bremerhaven
- |  |  | 2.5 | Aufsicht über die Lohnsteuerhilfevereine nach § 27 des Steuerberatungsgesetzes
- |  |  | 2.6 | Besteuerung der juristischen Personen im Sinne des § 1 Absatz 1 und § 2 des Körperschaftsteuergesetzes
+ |  |  | 2.2 | Verwaltung der Rennwett- und Lotteriesteuer
+ |  |  | 2.3 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht in der Spielbank Bremen und im Automatensaal Bremerhaven
+ |  |  | 2.4 | Aufsicht über die Lohnsteuerhilfevereine nach § 27 des Steuerberatungsgesetzes
+ |  |  | 2.5 | Besteuerung der juristischen Personen im Sinne des § 1 Absatz 1 und § 2 des Körperschaftsteuergesetzes
 3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
  |  |  | 3.3 | Ausstellung der Bescheinigungen für
