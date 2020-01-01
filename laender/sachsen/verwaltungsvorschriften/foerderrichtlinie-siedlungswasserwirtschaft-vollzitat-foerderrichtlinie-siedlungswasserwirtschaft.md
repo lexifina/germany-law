@@ -1,8 +1,8 @@
 # Förderrichtlinie Siedlungswasserwirtschaft Vollzitat: Förderrichtlinie Siedlungswasserwirtschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-07-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16756.2
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16756.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.07.2019
+01.01.2020
 bis
-31.12.2019
+29.06.2023
 
 Förderrichtlinie Siedlungswasserwirtschaft
 
@@ -62,7 +62,9 @@ a)
 
 Sächsische Haushaltsordnung
 
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist,
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782)
+
+geändert worden ist,
 
 
 b)
@@ -70,18 +72,20 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 25. März 2015 (SächsABl. S. 515) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt
+
+enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen              vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2010) geändert worden ist.            
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen              vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist.            
 
 
 1.2.2
 
-Für Projekte, die aus Mitteln der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ mitfinanziert werden, gelten darüber hinaus das GAK-Gesetz in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055), das zuletzt durch Artikel 367 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und die Regelungen des Förderbereiches „wasserwirtschaftliche Maßnahmen“ des Rahmenplanes der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ (GAK-Rahmenplan).
+Für Projekte, die aus Mitteln der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ mitfinanziert werden, gelten darüber hinaus das GAK-Gesetz in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055), das zuletzt durch Artikel 1 des Gesetzes vom 11. Oktober 2016  (BGBl. I S. 2231) geändert worden ist, und die Regelungen des Förderbereiches „wasserwirtschaftliche Maßnahmen“ des Rahmenplanes der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ (GAK-Rahmenplan).
 
 1.2.3
 
@@ -95,7 +99,7 @@ die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die
 
 b)
 
-die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9),
+die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die durch die Verordnung (EU) 2019/316 (ABl. L 51 I vom 22.2.2019, S. 1) geändert worden ist,
 
 
 c)
@@ -121,7 +125,7 @@ Gegenstand der Förderung
 
 2.1
 
-Ertüchtigung und Ersatzneubau öffentlicher Kläranlagen über den am 1. Januar 2016 geltenden Stand der Technik nach § 57 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 320 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit Anhang 1 zur Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 2. September 2014 (BGBl. I S. 1474) geändert worden ist, hinaus, soweit dies wasserwirtschaftlich geboten ist.
+Ertüchtigung und Ersatzneubau öffentlicher Kläranlagen über den am 1. Januar 2016 geltenden Stand der Technik nach § 57 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 4. Dezember 2018 (BGBl. I S. 2254) geändert worden ist, in  Verbindung mit Anhang 1 zur Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 22. August 2018 (BGBl. I S. 1327) geändert worden ist, hinaus, soweit dies wasserwirtschaftlich geboten ist.
 
 2.2
 
@@ -196,22 +200,13 @@ Dabei soll auf die Kostenvorteilhaftigkeit der Vorzugsvariante innerhalb der ers
 4.1.2
 
 
-Vorzeitiger förderunschädlicher Vorhabensbeginn
-
-
-Die Bewilligungsstelle kann im Ausnahmefall einem vorzeitigen förderunschädlichen Vorhabensbeginn zustimmen, wenn die sachliche Prüfung der Zuwendungsvoraussetzungen mit positivem Ergebnis abgeschlossen wurde. Mit der Zustimmung wird bescheinigt, dass die Ausführung des Projektes vor dessen Bewilligung einer eventuellen späteren Förderung nicht entgegensteht. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. In der Zustimmung zum vorzeitigen förderunschädlichen Vorhabensbeginn ist ausdrücklich darauf hinzuweisen, dass daraus kein Rechtsanspruch auf eine Förderung abgeleitet werden kann, dass sie keine Zusicherung im Sinne von § 38 des Verwaltungsverfahrensgesetzes auf Erlass eines Zuwendungsbescheids darstellt und dass eine spätere Förderung grundsätzlich nach den dann geltenden Richtlinien erfolgen würde.            
-
-
-4.1.3
-
-
 Sicherung der Gesamtfinanzierung
 
 
 Bei der Förderung von Zuwendungsempfängern nach Nummer 3.2 ist die Gesamtfinanzierung mit dem Nachweis der Auszahlungsvoraussetzungen gemäß Nummer 7.3 Buchstabe a durch den Bauherrn nachgewiesen.
 
 
-4.1.4
+4.1.3
 
 
 Finanzierungsquellen
@@ -220,14 +215,14 @@ Finanzierungsquellen
 Werden Zuwendungen aus Finanzierungsquellen mit besonderen Zweckbestimmungen oder Zuwendungsbedingungen finanziert, so sind die dafür gültigen Fördergrundsätze, Gebietskulissen und Verfahrensbestimmungen zusätzlich zu beachten. Insofern sind tatbestandliche Abweichungen von dieser Richtlinie zugelassen.
 
 
-4.1.5
+4.1.4
 
 
 Der Antragsteller muss für Maßnahmen der öffentlichen Abwasserbeseitigung erklären, dass diese mit einem unbeanstandeten Abwasserbeseitigungskonzept übereinstimmen, welches den Anforderungen des § 51 Absatz 1 des
 
 Sächsischen Wassergesetzes
 
-vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 22 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, in der jeweils geltenden Fassung, entspricht.
+vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 2 des Gesetzes vom 8. Juli 2016 (SächsGVBl. S. 287) geändert worden ist, in der jeweils geltenden Fassung, entspricht.
 
 
 4.2
@@ -267,7 +262,7 @@ Zuwendungs- und Finanzierungsart
 
 5.1.1
 
-Die Zuwendung wird im Rahmen einer Projektförderung als verbilligtes Darlehen mit Tilgungszuschuss oder als Zuschuss in Form einer Anteilsfinanzierung gewährt. Die Zuwendung ist auf einen Höchstbetrag zu begrenzen.
+Die Zuwendung wird im Rahmen einer Projektförderung als verbilligtes Darlehen mit Tilgungszuschuss oder als Zuschuss in Form einer Anteils- oder Festbetragsfinanzierung gewährt. Die Zuwendung ist auf einen Höchstbetrag zu begrenzen.
 
 5.1.2
 
@@ -304,7 +299,9 @@ Zuwendungen unter 25 000 Euro werden nicht gewährt.
 
 5.2.2
 
-Für Maßnahmen nach Nummer 2.2 beträgt die Höhe der Zuwendung 50 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 750 Euro. Die Zuwendung wird als Zuschuss gewährt.
+Für Maßnahmen nach Nummer 2.2 erfolgt die Förderung mit einem Festbetrag in Höhe von 750 Euro. Sind die zuwendungsfähigen Ausgaben geringer
+
+als der Festbetrag in Höhe von 750 Euro, wird der Festbetrag auf die Höhe der zuwendungsfähigen Ausgaben entsprechend reduziert.
 
 5.2.3
 
@@ -320,7 +317,7 @@ Zuwendungsfähige Ausgaben
 
 5.3.1
 
-Zuwendungsfähig sind Ausgaben für die Erfüllung des Zuwendungszweckes, soweit sie notwendig und angemessen sind und soweit nicht Vorgaben gemäß Nummer 4.1.4 dieser Richtlinie entgegenstehen, insbesondere:
+Zuwendungsfähig sind Ausgaben für die Erfüllung des Zuwendungszweckes, soweit sie notwendig und angemessen sind und soweit nicht Vorgaben gemäß Nummer 4.1.3 dieser Richtlinie entgegenstehen, insbesondere:
 
 
 a)
@@ -405,11 +402,7 @@ Eigenleistungen.
 Sonstige Zuwendungsbestimmungen
 
 
-Nachfolgende Nebenbestimmungen sind, soweit für die jeweilige Fördermaßnahme zutreffend, in den Zuwendungsbescheid ergänzend zu den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften (ANBest-K
-
-, Anlage 3a zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) beziehungsweise zu den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P
-
-, Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) aufzunehmen:
+Nachfolgende Nebenbestimmungen sind, soweit für die jeweilige Fördermaßnahme zutreffend, in den Zuwendungsbescheid ergänzend zu den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften (ANBest-K, Anlage 3a zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) beziehungsweise zu den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P, Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) aufzunehmen:
 
 
 6.1
@@ -422,24 +415,19 @@ Der Aufgabenträger der öffentlichen Abwasserbeseitigung bestätigt dem Zuwendu
 
 6.3
 
-Der Zuwendungsempfänger nach Nummer 3.1 ist verpflichtet, die Bewilligungsstelle über vergebene Aufträge (Art der Vergabe, Submissionsergebnis, Auftragnehmer, Auftragssumme, Kurzbeschreibung des Auftrags) durch Übersendung des Vergabevermerks mit dem ersten Auszahlungsantrag schriftlich zu unterrichten.
+Der Zuwendungsempfänger nach Nummer 3.1 ist verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
 
 6.4
 
-Der Zuwendungsempfänger nach Nummer 3.1 ist verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
+Die Zweckbindungsfrist beträgt zwölf Jahre für bauliche Anlagen, beginnend mit dem Tag der Fertigstellung, für technische Einrichtungen, Maschinen und Geräte fünf Jahre, beginnend mit dem Tag der Lieferung.
 
 6.5
-
-Die Zweckbindungsfrist beträgt zwölf Jahre für bauliche Anlagen, beginnend mit dem Tag der Inbetriebnahme, für technische Einrichtungen, Maschinen und Geräte fünf Jahre, beginnend mit dem Tag der Lieferung; die Bewilligungsstelle kann für besondere Zuwendungsgegenstände in begründeten Ausnahmefällen abweichende Fristen festsetzen.
-
-6.6
-
 
 Zuwendungen für Zuwendungsempfänger nach Nummer 3.1 sind wie Kapitalzuschüsse im Sinne von § 13 Absatz 1 Satz 2 des
 
 Sächsischen Kommunalabgabengesetzes
 
-in der Fassung der Bekanntmachung vom 26. August 2004 (SächsGVBl. S. 418, 2005 S. 306), das zuletzt durch Artikel 6 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822) geändert worden ist, in der jeweils geltenden Fassung, zu behandeln.
+in der Fassung der Bekanntmachung vom 9. März 2018 (SächsGVBl. S. 116), das zuletzt durch Artikel 2 Absatz 17 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in der jeweils geltenden Fassung, zu behandeln.
 
 
 7.
@@ -474,7 +462,7 @@ Gesamtübersicht zu Vorhaben der öffentlichen Abwasserbeseitigung, soweit zutre
 
 d)
 
-Nachweis der Sicherung der Gesamtfinanzierung gemäß Nummer 4.1.3.
+Nachweis der Sicherung der Gesamtfinanzierung gemäß Nummer 4.1.2.
 
 7.2
 
@@ -539,9 +527,7 @@ Der Verwendungsnachweis ist formgebunden gemäß Formblatt der SAB bei der Bewil
 Zu beachtende Vorschriften
 
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten im Übrigen die
-
-Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung              und die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten im Übrigen die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
 
 8.
 
@@ -633,9 +619,9 @@ Fsn-Nr.: 5564-V15.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Juli 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -660,7 +646,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16756.2
+https://www.revosax.sachsen.de/vorschrift/16756.3
 Stand vom
 18.11.2026
 
