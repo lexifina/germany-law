@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-04-17 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.4
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-17.04.2019
+01.01.2020
 bis
-31.12.2019
+14.09.2021
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -64,17 +64,18 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 27. Februar 2019 (SächsABl. S. 451) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 7 des Gesetzes vom 18. Dezember 2018 (BGBl. S. 2639) geändert worden ist,
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist,  
+
 
 d)
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die durch die Verordnung (EU) 2019/289 (ABl. L 48 vom 20.2.2019, S. 1) geändert worden ist,
 
 
 e)
@@ -118,7 +119,7 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 
 4.
 
-Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2019/71 (ABl. L 16 vom 18.1.2019, S. 1) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
+Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2019/288 (ABl. L 53 vom 22.2.2019, S. 14) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
 
 
 III.
@@ -212,11 +213,6 @@ Erzeugerzusammenschlüsse, deren Ziele mit den Artikeln 152 Absatz 1 Buchstabe c
 
 
 j)
-
-Anträge, wenn der Zuschuss weniger als 1 000 Euro betragen würde,
-
-
-k)
 
 Zuwendungsempfänger, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
 
@@ -396,6 +392,11 @@ c)
 Die jährliche Zuwendung darf den Betrag von 100 000 Euro nicht übersteigen. Der Gesamtbetrag der Zuwendungen nach Ziffer III darf 400 000 Euro nicht überschreiten.
 
 
+d)
+
+Das Staatsministerium für Umwelt und Landwirtschaft ist berechtigt im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
+
+
 IV.
 
 
@@ -540,7 +541,9 @@ Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
 
 r)
 
-Aufwendungen für die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 2017/1981 (ABl. L 285 vom 1.11.2017, S. 10) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Aufwendungen für die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 2019/1243 (ABl. L 198 vom 25.7.2019,
+
+S. 241) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
 
 
 s)
@@ -601,7 +604,7 @@ Es sind Wirtschaftlichkeitsberechnungen vorzulegen, in denen plausibel nachzuwei
 
 d)
 
-Zuwendungsempfänger gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag.
+Zuwendungsempfänger gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag. Zuwendungen bis 2.500 Euro werden nicht gewährt.
 
 
 e)
@@ -697,15 +700,10 @@ f)
 
 Der Gesamtwert aller Beihilfen aus zulässigen Förderprogrammen (unter anderem Zuschüsse, Zinsverbilligung für Darlehen, öffentliche Bürgschaften und Beteiligungen) für ein Vorhaben ist bei Zuwendungen nach Ziffer IV Nummer 6 Buchstaben b, c und d auf maximal 40 Prozent der zuwendungsfähigen Aufwendungen sowie bei Zuwendungen nach Ziffer IV Nummer 6 Buchstabe e für kleine Unternehmen auf maximal 20 Prozent und für mittlere Unternehmen auf maximal 10 Prozent der zuwendungsfähigen Aufwendungen begrenzt.
 
-7.
 
-Sonstige Zuwendungsbestimmungen
+g)
 
-
-Hinsichtlich der Anwendung des Vergaberechts gelten die jeweiligen allgemeinen Nebenbestimmungen gemäß den Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung.
-
-
-Abweichend gilt: Ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 99 Nummer 2 bis 4 sowie des § 100 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2018 (BGBl. I S. 1151) geändert worden ist, in der jeweils geltenden Fassung, vor, sind bei Zuwendungen von mehr als 5 000 Euro mit dem Antrag mindestens drei vergleichbare Angebote fachkundiger und leistungsfähiger Anbieter vorzulegen. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden oder dem Antrag nicht das billigste Angebot zugrunde gelegt wird, ist dies vom Antragsteller schriftlich zu begründen. Gleiches gilt, wenn von dem Antrag zugrunde liegenden Angebot später abgewichen wird.
+Das Staatsministerium für Umwelt und Landwirtschaft ist berechtigt im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
 
 
 V.
@@ -747,7 +745,7 @@ Soweit aufgrund dieser Richtlinie Einzelbeihilfen auf Grundlage der Verordnung (
 Auszahlung der Zuwendung
 
 
-Nach Abschluss einer Teilmaßnahme oder eines Teilzeitraumes kann nach Vorlage eines schriftlichen Auszahlungsantrages mit Teilverwendungsnachweis unter Beifügung bezahlter Rechnungen und Zahlungsnachweise eine Auszahlung erfolgen. Der Auszahlungsantrag ist auf dem vorgesehenen Formular bei der zuständigen Stelle einzureichen.
+Nach Abschluss einer Teilmaßnahme oder eines Teilzeitraumes kann nach Vorlage eines schriftlichen Auszahlungsantrages mit Teilverwendungsnachweis eine Auszahlung erfolgen. Der Auszahlungsantrag ist auf dem vorgesehenen Formular bei der zuständigen Stelle einzureichen.
 
 
 Die Auszahlung erfolgt auf der Grundlage der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung;
@@ -762,25 +760,13 @@ Abweichend von Nummer 1.4 der Allgemeinen Nebenbestimmungen für Zuwendungen zur
 Verwendungsnachweisverfahren
 
 
-Der Endverwendungsnachweis ist vom Zuwendungsempfänger spätestens sechs Monate nach Abschluss der Maßnahmen gemäß dem vorgegebenen Muster bei der zuständigen Stelle in zweifacher Ausfertigung vorzulegen.
-
-
-Dem Verwendungsnachweis für Maßnahmen nach Ziffer IV ist eine Ausgabenaufstellung gemäß Formblatt beizufügen.
-
-
-Des Weiteren sind jedem Verwendungsnachweis die dazu gehörigen Belege (Rechnungen und Zahlungsnachweise) jeweils im Original und als Kopie beizulegen.
-
-
-Sofern die Zuwendung nach Ziffer IV in Raten gezahlt wurde, ist nach Abschluss der Maßnahme eine Gesamtausgabenaufstellung (zweifach) für den Abruf der letzten Rate vorzulegen. Durch die Vorlage der Gesamtaufstellung gilt der zahlenmäßige Nachweis als erbracht. Der Gesamtausgabenaufstellung ist ein Sachbericht beizufügen.
+Der Verwendungsnachweis ist auf den vorgesehenen Formularen bei der zuständigen Stelle einzureichen.
 
 
 Entsprechende Auflagen sind im Zuwendungsbescheid aufzunehmen.
 
 
-Die Sächsische Aufbaubank prüft die sachliche und rechnerische Richtigkeit und die ordnungsgemäße Durchführung der Fördermaßnahme. Hierzu erfolgt nach Einreichung des Endverwendungsnachweises grundsätzlich eine Vor-Ort-Kontrolle durch die Sächsische Aufbaubank. Die originalen Zahlungs- und Rechnungsbelege sind durch die Sächsische Aufbaubank als gefördert zu kennzeichnen.
-
-
-Die Sächsische Aufbaubank setzt mit der Anerkennung des Endverwendungsnachweises die Förderung fest und teilt dem Zuwendungsempfänger das Ergebnis durch Bescheid mit.
+Die Sächsische Aufbaubank prüft die sachliche und rechnerische Richtigkeit und die ordnungsgemäße Durchführung der Fördermaßnahme.
 
 5.
 
@@ -846,9 +832,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 17. April 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 14. September 2021
 
 Drucken/Speichern
 
@@ -873,7 +859,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.4
+https://www.revosax.sachsen.de/vorschrift/16242.5
 Stand vom
 18.11.2026
 
