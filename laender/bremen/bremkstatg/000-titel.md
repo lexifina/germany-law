@@ -1,0 +1,1 @@
+# Gesetz zur fortlaufenden Untersuchung der Kriminalitätslage und ergänzenden Auswertung der polizeilichen Kriminalitätsstatistik im Land Bremen (Bremisches Kriminalitätsstatistikgesetz - BremKStatG) vom 2. April 2019
