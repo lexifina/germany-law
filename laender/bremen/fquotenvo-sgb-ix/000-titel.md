@@ -1,0 +1,1 @@
+# Verordnung zur Festsetzung der Finanzierungsquote zur Kostenbeteiligung der Freien Hansestadt Bremen an den Nettokosten der Eingliederungshilfeleistungen der Stadtgemeinde Bremen und der Stadtgemeinde Bremerhaven nach dem Neunten Buch Sozialgesetzbuch (Fi
