@@ -1,8 +1,8 @@
 # Vollzitat: RL Digitale Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18186.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18186.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.06.2019
+01.01.2020
 bis
-31.12.2019
+14.06.2020
 
 RL Digitale Schulen
 
@@ -38,9 +38,7 @@ Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und den
-
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 27. Februar 2019 (SächsABl. S. 451) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), sowie nach der Verwaltungsvereinbarung DigitalPakt Schule 2019 bis 2024 vom 16. Mai 2019 (VV) auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
+Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung, sowie nach der Verwaltungsvereinbarung über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104c des Grundgesetzes zur Förderung der kommunalen Bildungsinfrastruktur (Verwaltungsvereinbarung DigitalPakt Schule 2019 bis 2024) vom 16. Mai 2019 (BAnz AT 14.06.2019 B2), in der jeweils geltenden Fassung, auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
 
 2.
 
@@ -102,7 +100,7 @@ Gemeinden, Landkreise und an kommunale Zusammenschlüsse als Träger von Schulen
 
 2.
 
-freie Träger entsprechender genehmigter Ersatzschulen, die gemäß § 14 des Sächsischen Gesetzes über Schulen in freier Trägerschaft vom 8. Juli 2015 (SächsGVBl. S. 434), das zuletzt durch Artikel 18 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, durch den Freistaat Sachsen bezuschusst werden und deren Wartefrist abgelaufen ist und
+freie Träger entsprechender genehmigter Ersatzschulen, die gemäß § 14 des Sächsischen Gesetzes über Schulen in freier Trägerschaft vom 8. Juli 2015 (SächsGVBl. S. 434), das zuletzt durch Artikel 1 der Verordnung vom 21. Juni 2019 (SächsGVBl. S. 476) geändert worden ist, in der jeweils geltenden Fassung, durch den Freistaat Sachsen bezuschusst werden und deren Wartefrist abgelaufen ist und
 
 3.
 
@@ -114,7 +112,7 @@ Zuwendungsvoraussetzungen
 
 1.
 
-Eine Förderung wird nur gewährt für Maßnahmen, mit denen nicht vor dem 17. Mai 2019 begonnen worden ist und bei denen eine vollständige Abnahme bis zum 31. Dezember 2024 gesichert erscheint. Der vorzeitige förderunschädliche Maßnahmebeginn gemäß Nummer 1.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung oder gemäß Nummer 1.3 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) wird entsprechend zugelassen.
+Eine Förderung wird nur gewährt für Maßnahmen, mit denen nicht vor dem 17. Mai 2019 begonnen worden ist und bei denen eine vollständige Abnahme bis zum 31. Dezember 2024 gesichert erscheint. Der vorzeitige förderunschädliche Maßnahmebeginn gemäß Nummer 1.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung oder gemäß Nummer 1.3 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) wird für alle Maßnahmen entsprechend zugelassen.
 
 2.
 
@@ -252,7 +250,7 @@ eine Erklärung des Antragstellers, dass die zu erstellenden digitalen Netze und
 
 2.
 
-Eine gemeindewirtschaftliche Stellungnahme nach Großbuchstabe B der VwV Kommunale Haushaltswirtschaft vom 11. Dezember 2017 (SächsABl. S. 1709) in der jeweils geltenden Fassung, ist entbehrlich.
+Eine gemeindewirtschaftliche Stellungnahme nach Großbuchstabe B der VwV Kommunale Haushaltswirtschaft vom 31. Juli 2019 (SächsABl. S. 1179) in der jeweils geltenden Fassung, ist entbehrlich.
 
 3.
 
@@ -272,7 +270,7 @@ Abweichend von Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Ha
 
 7.
 
-Verwendungs- beziehungsweise Teilverwendungsnachweis bestehen aus einem Sachbericht und einem zahlenmäßigen Nachweis. Mit dem Verwendungsnachweis ist die Einhaltung aller für das Vorhaben einschlägigen Vergabebestimmungen durch den Zuwendungsempfänger gegenüber der Bewilligungsstelle zu erklären.
+Verwendungs- beziehungsweise Teilverwendungsnachweis bestehen aus einem Sachbericht und einem zahlenmäßigen Nachweis. Unterliegt der Zuwendungsempfänger den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P), so hat er mit dem Verwendungsnachweis die Einhaltung der Bestimmungen nach Nummer 3 ANBest-P gegenüber der Bewilligungsstelle zu erklären.
 
 8.
 
@@ -309,9 +307,9 @@ Fsn-Nr.: 5572-V19.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Juni 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 14. Juni 2020
 
 Drucken/Speichern
 
@@ -338,7 +336,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18186.1
+https://www.revosax.sachsen.de/vorschrift/18186.2
 Stand vom
 18.11.2026
 
