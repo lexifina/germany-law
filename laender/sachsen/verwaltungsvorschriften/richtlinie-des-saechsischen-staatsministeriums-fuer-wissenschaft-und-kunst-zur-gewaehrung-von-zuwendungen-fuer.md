@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Projekte im Forschungsbereich Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-07-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18280.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18280.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-03.07.2019
+01.01.2020
 bis
-31.12.2019
+30.06.2023
 
 Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Projekte im Forschungsbereich
 
@@ -98,9 +98,11 @@ b)
 
 Forschungszentren gemäß § 94 des Sächsischen Hochschulfreiheitsgesetzes
 
+
 c)
 
 gemeinnützige Forschungseinrichtungen im Status eines An-Instituts gemäß § 95 des Sächsischen Hochschulfreiheitsgesetzes
+
 
 d)
 
@@ -202,7 +204,7 @@ Die Förderung nach dieser Richtlinie entfällt, wenn vom Antragsteller die zuwe
 VI.
 Sonstige Zuwendungsbestimmungen
 
-Ausgaben und Kosten für ausschließlich vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände sind zuwendungsfähig, sofern diese nach Ende des Bewilligungszeitraumes im Rahmen der im Zuwendungsbescheid festgelegten Zweckbindungsfrist von fünf Jahren ausschließlich für nichtwirtschaftliche Tätigkeiten im Bereich Forschung und/oder Lehre eingesetzt werden.
+Ausgaben und Kosten für ausschließlich vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände sind zuwendungsfähig, sofern diese nach Ende des Bewilligungszeitraumes im Rahmen der im Zuwendungsbescheid festgelegten Zweckbindungsfrist von drei Jahren ausschließlich für nichtwirtschaftliche Tätigkeiten im Bereich Forschung und/oder Lehre eingesetzt werden.
 
 VII.
 Verfahren
@@ -257,9 +259,9 @@ Fsn-Nr.: 5572-V19.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  3. Juli 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -284,7 +286,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18280.1
+https://www.revosax.sachsen.de/vorschrift/18280.2
 Stand vom
 18.11.2026
 
