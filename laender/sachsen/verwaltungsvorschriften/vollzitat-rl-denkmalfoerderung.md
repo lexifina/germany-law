@@ -1,8 +1,8 @@
 # Vollzitat: RL Denkmalförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-08-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18370.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18370.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-31.08.2019
+01.01.2020
 bis
-31.12.2019
+18.11.2021
 
 RL Denkmalförderung
 
@@ -58,7 +58,20 @@ Darüber hinaus finden die allgemeinen haushaltsrechtlichen Bestimmungen, insbes
 
 3.
 
-Soweit die Zuwendungen staatliche Beihilfen im Sinne von Artikel 107 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) sind, findet Artikel 53 der Allgemeinen Gruppenfreistellungsverordnung (EU) Nr. 651/2014 der Europäischen Kommission vom 17. Juni 2014 (ABl. L 187 vom 26.6.2014, S. 1) in der Fassung der Verordnung (EU) 2017/1084 vom 14. Juni 2017 (ABl. L 156 vom 20.6.2017, S. 1), in der jeweils geltenden Fassung, Anwendung.
+Soweit die Zuwendungen staatliche Beihilfen im Sinne von Artikel 107 des Vertrages über die Arbeitsweise der Europäischen Union (AEUV) sind, finden
+
+
+a)
+
+die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union, die durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist, und
+
+
+b)
+
+die Verordnung (EU) Nr. 1407/2013 der Europäischen Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1),
+
+
+in den jeweils geltenden Fassungen, Anwendung.
 
 
 II
@@ -192,17 +205,7 @@ Wird die Bauunterhaltspflicht für ein Kulturdenkmal, ein Denkmalschutzgebiet, e
 IV
 Zuwendungsvoraussetzungen
 
-1.
-
 Die zuwendungsfähigen Maßnahmen müssen mit der denkmalrechtlichen Genehmigung gemäß § 12 Absatz 1 und 2, § 21 Absatz 2, § 22 Absatz 2 und § 23 Absatz 3 des Sächsischen Denkmalschutzgesetzes oder der die denkmalrechtliche Genehmigung enthaltenden Entscheidung, insbesondere einer Baugenehmigung, übereinstimmen, soweit erforderlich.
-
-2.
-
-Mit der Maßnahme darf vor der Bewilligung der Zuwendung nicht begonnen worden sein. Ist eine Entscheidung über die Bewilligung noch nicht möglich, kann die Bewilligungsbehörde im Einzelfall nach Maßgabe der Nummer 1.3 der VwV zu § 44 der Sächsischen Haushaltsordnung einen vorzeitigen Maßnahmebeginn zulassen.
-
-
-Die Zustimmung zum vorzeitigen Maßnahmebeginn ersetzt nicht die Baugenehmigung oder denkmalschutzrechtliche Genehmigung und begründet keinen Rechtsanspruch auf eine Zuwendung.
-
 
 V
 Art und Umfang, Höhe der Zuwendungen
@@ -302,7 +305,7 @@ im Sonderprogramm Denkmalpflege 75 Prozent der zuwendungsfähigen Ausgaben.
 Im Ausnahmefall kann der Fördersatz durch die Bewilligungsbehörde bis auf 90 Prozent angehoben werden.
 
 
-Die Gewährung eines Fördersatzes von mehr als 90 Prozent ist nur im Sonderprogramm Denkmalpflege zulässig und bedarf der Zustimmung des Staatsministeriums des Innern.
+Die Gewährung eines Fördersatzes von mehr als 90 Prozent ist nur im Sonderprogramm Denkmalpflege zulässig und bedarf der Zustimmung des Staatsministeriums für Regionalentwicklung.
 
 
 Eine abweichende Festlegung des in Satz 1 festgelegten Fördersatzes kommt insbesondere bei der Kombination der Zuwendungen verschiedener Fördermittelgeber im Sinne der Nummer 4 Buchstabe e in Betracht.
@@ -406,7 +409,7 @@ Folgende Anlagen sind Bestandteil der Richtlinie: Der Mehrkostenkatalog (Anlage 
 Bewilligungsverfahren
 
 
-Bei Maßnahmen im Sonderprogramm Denkmalpflege an Kulturdenkmalen im Sinne des § 2 Absatz 5 Buchstabe g des Sächsischen Denkmalschutzgesetzes sowie bei Maßnahmen nach Ziffer II Nummer 7 und 8 in einem Grabungsschutzgebiet oder einem archäologischen Reservat entscheidet die Bewilligungsbehörde im Einvernehmen mit dem Landesamt für Archäologie Sachsen. Kommt kein Einvernehmen zustande, so entscheidet das Staatsministerium des Innern im Benehmen mit dem Staatsministerium für Wissenschaft und Kunst.
+Bei Maßnahmen im Sonderprogramm Denkmalpflege an Kulturdenkmalen im Sinne des § 2 Absatz 5 Buchstabe g des Sächsischen Denkmalschutzgesetzes sowie bei Maßnahmen nach Ziffer II Nummer 7 und 8 in einem Grabungsschutzgebiet oder einem archäologischen Reservat entscheidet die Bewilligungsbehörde im Einvernehmen mit dem Landesamt für Archäologie Sachsen. Kommt kein Einvernehmen zustande, so entscheidet das Staatsministerium für Regionalentwicklung im Benehmen mit dem Staatsministerium für Wissenschaft, Kultur und Tourismus.
 
 3.
 
@@ -627,7 +630,8 @@ Leistungsbereiche
 
 | 5.
 
-|
+| 
+
 Maurer-, Beton- und Stahlbetonarbeiten
 (einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
 
@@ -643,7 +647,8 @@ Maurer-, Beton- und Stahlbetonarbeiten
 
 | 6.
 
-|
+| 
+
 Naturwerksteinarbeiten
 (einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
 
@@ -674,7 +679,8 @@ Naturwerksteinarbeiten
 
 | 7.
 
-|
+| 
+
 Zimmermannsarbeiten
 (einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
 
@@ -775,7 +781,8 @@ sowie übrige Klempnerarbeiten Dachentwässerungen (auch Schneefanggitter)
 
 | 11.
 
-|
+| 
+
 Putzarbeiten
 (einschließlich des dafür erforderlichen Abschlagens und Entsorgens des Putzes)
 
@@ -1269,9 +1276,9 @@ Fsn-Nr.: 5571-V19.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 31. August 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 18. November 2021
 
 Drucken/Speichern
 
@@ -1298,7 +1305,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18370.1
+https://www.revosax.sachsen.de/vorschrift/18370.2
 Stand vom
 18.11.2026
 
