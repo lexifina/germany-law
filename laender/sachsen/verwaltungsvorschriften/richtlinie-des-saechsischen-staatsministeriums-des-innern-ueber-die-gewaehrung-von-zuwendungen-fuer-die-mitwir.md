@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz Vollzitat: Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwir
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.4
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.06.2019
+01.01.2020
 bis
-31.12.2019
+04.06.2020
 
 Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz
 
@@ -41,15 +41,7 @@ Zuwendungszweck, Rechtsgrundlagen
 1.
 
 
-Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des 
-
-Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch Artikel 2 des Gesetzes vom 13. Februar 2014 (SächsGVBl. S. 47) geändert worden ist, in Verbindung mit § 11 der 
-
-Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, nach Maßgabe der §§ 23 und 44 der 
-
-Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Gesetz vom 6. Mai 2014 (SächsGVBl. S. 286) geändert worden ist, der 
-
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 25. März 2015 (SächsABl. S. 515) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848), zu § 44 der Sächsischen Haushaltsordnung und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
+Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 11 der Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, in der jeweils geltenden Fassung, nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378) und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
 
 
 2.
@@ -83,7 +75,7 @@ die Unterbringung und Unterhaltung der in Anlage 1 aufgeführten Ausstattung,
 2.
 
 
-die Aufwendungen für die Übernahme der Trägerschaft der in Ziffer V Nr. 2 aufgeführten Katastrophenschutzeinheiten einschließlich von Kosten der Helferwerbung und Helferausbildung und für die Einheiten in Trägerschaft privater Hilfsorganisationen eine Pauschale zur Unterbringung der Helfer,
+die Aufwendungen für die Übernahme der Trägerschaft der in Ziffer V Nummer 3 aufgeführten Katastrophenschutzeinheiten einschließlich von Kosten der Helferwerbung und Helferausbildung und für die Einheiten in Trägerschaft privater Hilfsorganisationen eine Pauschale zur Unterbringung der Helfer,
 
 
 3.
@@ -203,10 +195,16 @@ Art und Umfang, Höhe der Zuwendung
 1.
 
 
-Zuwendungen nach Ziffer II Nr. 1 werden im Rahmen der institutionellen Förderung als Festbetragsfinanzierung gewährt. Die Höhe der jährlichen Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, bemisst sich nach Anlage 1.
+Zuwendungen nach Ziffer II Nummer 1 und 2 an Zuwendungsempfänger nach Ziffer III Nummer 1, die kommunale Körperschaften sind, können abweichend von Nummer 1.1 Satz 2 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung nach Maßgabe der Nummern 2 und 3 10 000 Euro und weniger betragen. An die übrigen Zuwendungsempfänger nach Ziffer III können nach Maßgabe der Nummern 2 bis 6 abweichend von Nummer 1.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Zuwendungen im Einzelfall von 2 500 Euro und weniger bewilligt werden.
 
 
 2.
+
+
+Zuwendungen nach Ziffer II Nr. 1 werden im Rahmen der institutionellen Förderung als Festbetragsfinanzierung gewährt. Die Höhe der jährlichen Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, bemisst sich nach Anlage 1.
+
+
+3.
 
 
 Zuwendungen nach Ziffer II Nummer 2 werden im Rahmen der institutionellen Förderung als Festbetragsfinanzierung gewährt. Die Höhe der Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, beträgt jährlich je
@@ -275,7 +273,7 @@ Höhe der Zuwendung
 | 400 Euro.
 
 
-3.
+4.
 
 
 Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr. 3 im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 20 000 Euro; für Kraftfahrzeuge
@@ -283,13 +281,13 @@ Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr
 beträgt sie höchstens 30 000 Euro.
 
 
-4.
+5.
 
 
 Die Zuwendungen nach Ziffer II Nr. 4 werden im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 2 500 EUR. Die Zuwendung wird als nicht rückzahlbarer Zuschuss gewährt.
 
 
-5.
+6.
 
 
 Zuwendungen nach Ziffer II Nummer 5 werden im Wege der Projektförderung als Festbetragsfinanzierung gewährt. Die Höhe, die als nicht rückzahlbarer Zuschuss bewilligt wird, beträgt jeweils 1 000 Euro für den Erwerb von jährlich bis zu zwei Fahrerlaubnissen der Klasse C beziehungsweise CE je Einheit durch ehrenamtliche
@@ -389,7 +387,7 @@ Anforderungs- und Auszahlungsverfahren
 a)
 
 
-Die Auszahlung der Zuwendungen nach Ziffer II Nr. 1, 2 und 4 erfolgt in einem Betrag. Die Mittel stehen zur Verwendung im Haushaltsjahr der Gewährung der Zuwendung ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der 
+Die Auszahlung der Zuwendungen nach Ziffer II Nr. 1, 2 und 4 erfolgt in einem Betrag. Die Mittel stehen zur Verwendung im Haushaltsjahr der Gewährung der Zuwendung ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der
 
 Verwaltungsvorschrift zu § 44 SäHO nach der Auszahlung zur Verfügung.
 
@@ -406,7 +404,9 @@ Die Bewilligungsbehörde berichtet dem Staatsministerium des Innern jährlich zu
 Verwendungsnachweisverfahren
 
 
-Für Zuwendungen nach Ziffer II Nr. 1 ist ein einfacher Verwendungsnachweis zugelassen. Soweit bei Zuwendungen nach Ziffer II Nummer 1 und 2 die zuwendungsfähigen Ausgaben die bewilligten Festbeträge nicht erreichen, ist der übersteigende Betrag zurückzufordern. Bei Zuwendungen nach Ziffer II Nummer 1 ist dabei auf die Summe der Festbeträge für alle Fahrzeuge einer Katastrophenschutzeinheit abzustellen, die dem Zuwendungsempfänger zugeordnet sind.
+Soweit bei Zuwendungen nach Ziffer II Nummer 1 und 2 die zuwendungsfähigen Ausgaben die bewilligten Festbeträge nicht erreichen, ist der übersteigende Betrag zurückzufordern.
+
+Bei Zuwendungen nach Ziffer II Nummer 1 ist dabei auf die Summe der Festbeträge für alle Fahrzeuge einer Katastrophenschutzeinheit abzustellen, die dem Zuwendungsempfänger zugeordnet sind.
 
 
 5.
@@ -502,9 +502,9 @@ Fsn-Nr.: 5536-V11.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juni 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis:  4. Juni 2020
 
 Drucken/Speichern
 
@@ -531,7 +531,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12058.4
+https://www.revosax.sachsen.de/vorschrift/12058.5
 Stand vom
 18.11.2026
 
