@@ -1,8 +1,8 @@
 # Förderrichtlinie Gewässer/Hochwasserschutz Vollzitat: Förderrichtlinie Gewässer/Hochwasserschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-07-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17743.2
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17743.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.07.2019
+01.01.2020
 bis
-31.12.2019
+29.06.2023
 
 Förderrichtlinie Gewässer/Hochwasserschutz
 
@@ -53,13 +53,13 @@ Grundsätzlich gelten:
 a)
 
 
-Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist,
+Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist,
 
 
 b)
 
 
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 3. Januar 2018 (SächsABl. S. 132, 453) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378).
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378).
 
 
 1.2
@@ -83,12 +83,12 @@ Richtlinie 2007/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
 
 c)
 
-Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2771) geändert worden ist,  
+Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 4. Dezember 2018  (BGBl. I S. 2254) geändert worden ist,  
 
 
 d)
 
-§ 13 des Abwasserabgabengesetzes in der Fassung der Bekanntmachung vom 18. Januar 2005 (BGBl. I S. 114), das zuletzt durch Artikel 2 der Verordnung vom 1. Juni 2016 (BGBl. I S. 1290) geändert worden ist,  
+§ 13 des Abwasserabgabengesetzes in der Fassung der Bekanntmachung vom 18. Januar 2005 (BGBl. I S. 114), das zuletzt durch Artikel 2 der Verordnung vom 22. August 2018 (BGBl. I S. 1327) geändert worden ist,  
 
 
 e)
@@ -220,7 +220,7 @@ Zuwendungsempfänger können sein:
 3.1
 
 
-Gemeinden, kommunale Zusammenschlüsse nach dem Sächsischen Gesetz über kommunale Zusammenarbeit in der Fassung der Bekanntmachung vom 3. März 2014 (SächsGVBl. S. 196), das zuletzt durch Artikel 3 des Gesetzes vom 13. Dezember 2017 (SächsGVBl. S. 626) geändert worden ist, sowie Wasser- und Bodenverbände, die insoweit nicht wirtschaftlich tätig werden, für alle Maßnahmen,
+Gemeinden, kommunale Zusammenschlüsse nach dem Sächsischen Gesetz über kommunale Zusammenarbeit in der Fassung der Bekanntmachung vom 15. April 2019 (SächsGVBl. S. 270), sowie Wasser- und Bodenverbände, die insoweit nicht wirtschaftlich tätig werden, für alle Maßnahmen,
 
 
 3.2
@@ -517,40 +517,12 @@ Bei der Maßnahmedurchführung sind die einschlägigen Rechtsvorschriften, insbe
 
 6.1.2
 
-Abweichend von Nummer 3.1 der ANBest-P ist es bei Zuwendungen bis zu 1 000 000 Euro ausreichend, wenn durch Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung dokumentiert wird, dass die Vergabe nach wettbewerblichen Gesichtspunkten und wirtschaftlichen Bedingungen erfolgt ist. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden sollen, bedarf dieses der Bestätigung durch die Bewilligungsstelle. Bei Auftragswerten bis 25 000 Euro können als vergleichbare Angebote auch öffentlich zugängliche Preisinformationen (zum Beispiel aus Katalogen, Flyern oder Internetangeboten) eingeholt werden.
+Der Zuwendungsempfänger ist verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
 
 
 6.1.3
 
-Der Zuwendungsempfänger ist verpflichtet, die Bewilligungsstelle über vergebene Aufträge durch Übersendung der Vergabedokumentation (Art der Vergabe, Submissionsergebnis, Auftragnehmer, Auftragssumme, Kurzbeschreibung des Auftrages) oder in den Fällen der Nummer 6.1.2 der drei vergleichbaren Angebote mit dem ersten Auszahlungsantrag schriftlich zu unterrichten.
-
-
-6.1.4
-
-Der Zuwendungsempfänger ist verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
-
-
-6.1.5
-
-Zuwendungen werden gewährt unter dem Vorbehalt des Widerrufs für den Fall, dass die geförderten
-
-
-a)
-
-Grundstücke innerhalb des Zeitraumes von zwölf Jahren ab Fertigstellung der geförderten Maßnahme,
-
-
-b)
-
-Bauten und baulichen Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Fertigstellung,
-
-
-c)
-
-technischen Einrichtungen, Maschinen und Geräte innerhalb eines Zeitraumes von fünf Jahren ab Lieferung
-
-
-veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden (Zweckbindungsfrist gemäß Nummer 4 der ANBest-P/ANBest-K).
+Grundstücke sind im Rahmen dieser Richtlinie hinsichtlich der Zweckbindung gemäß Nummer 4.2.6 Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und gemäß Nummer 4.2.6 Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) Bauinvestitionen gleichgestellt.
 
 
 6.2
@@ -945,9 +917,9 @@ Fsn-Nr.: 5564-V18.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Juli 2019
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -972,7 +944,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17743.2
+https://www.revosax.sachsen.de/vorschrift/17743.3
 Stand vom
 18.11.2026
 
