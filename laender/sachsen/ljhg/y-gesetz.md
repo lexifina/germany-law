@@ -1,5 +1,5 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 26. Juli 2018
+Rechtsbereinigt mit Stand vom 1. Januar 2020
 Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
