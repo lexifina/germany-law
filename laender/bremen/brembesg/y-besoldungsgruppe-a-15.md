@@ -4,14 +4,13 @@ Abteilungsdirektorin beim Landesinstitut für Schule1), Abteilungsdirektor beim 
 Akademische Direktorin, Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 - als Lektorin oder als Lektor an einer Hochschule -
-Chefärztin2), Chefarzt2)
 Direktorin, Direktor
+Direktorin im pädagogischen Verwaltungsdienst, Direktor im pädagogischen Verwaltungsdienst
 Direktorstellvertreterin des Landesinstituts für Schule6), Direktorstellvertreter des Landesinstituts für Schule6)
 Fachdirektorin beim Landesinstitut für Schule, Fachdirektor beim Landesinstitut für Schule
 Hauptkustodin, Hauptkustos
 Leiterin der Pädagogischen Arbeitsstelle, Leiter der Pädagogischen Arbeitsstelle
 - am Lehrerfortbildungsinstitut bei der Stadtgemeinde Bremerhaven -
-Oberärztin5), Oberarzt5)
 Oberschulrätin8), Oberschulrat8)
 Ortsamtsleiterin5) 9), Ortsamtsleiter5) 9)
 Rektorin, Rektor
@@ -38,12 +37,10 @@ einer Oberschule im Aufbau mit
 mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt4),
 mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen4),
 mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen4),
-einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern4) 12) -
+einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern4) 12)
 Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6.
 1) Erhält eine Amtszulage nach Anlage 6.
-2) Soweit nicht in den Besoldungsgruppen A 14, A 16.
-2) Soweit nicht in den Besoldungsgruppen A 14, A 16.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
@@ -57,8 +54,6 @@ Fußnoten
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
-5) Soweit nicht in der Besoldungsgruppe A 14.
-5) Soweit nicht in der Besoldungsgruppe A 14.
 5) Soweit nicht in der Besoldungsgruppe A 14.
 5) Soweit nicht in der Besoldungsgruppe A 14.
 6) Erhält eine Amtszulage nach Anlage 6.

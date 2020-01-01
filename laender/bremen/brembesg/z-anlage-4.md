@@ -3,10 +3,8 @@ Anlage IV
 Künftig wegfallende Ämter (zu § 68)
 Besoldungsgruppe A 12
 Lehrerin für die Primarstufe und Sekundarstufe I1) 8), Lehrer für die Primarstufe und Sekundarstufe I1) 8)
-Fußnoten
-6) Entfällt.
-7) Entfällt.
 Besoldungsgruppe A 13
+Ä r z t i n2) 3), A r z t2) 3)
 Didaktische Leiterin4), Didaktischer Leiter4)
 Fachbereichsleiterin3), Fachbereichsleiter3)
 Hauptlehrerin, Hauptlehrer
@@ -35,6 +33,8 @@ Abteilungsleiterin eines Schulzentrums der Sekundarstufe I, Abteilungsleiter ein
 - des gymnasialen Zweiges mit bis zu 180 Schülerinnen und Schülern1) -
 - des Haupt- und Realschulzweiges mit bis zu 540 Schülerinnen und Schülern -
 - des Haupt- und Realschulzweiges mit mehr als 540 Schülerinnen und Schülern2) -
+Ä r z t i n 3), A r z t3)
+Chefärztin6) 7), Chefarzt6) 7)
 Didaktische Leiterin5), Didaktischer Leiter5)
 Direktorstellvertreterin6), Direktorstellvertreter6)
 Fachbereichsleiterin3), Fachbereichsleiter3)
@@ -43,6 +43,7 @@ Jahrgangsleiterin an einem Gymnasium3), Jahrgangsleiter an einem Gymnasium3)
 Jahrgangsleiterin an einer Oberschule3), Jahrgangsleiter an einer Oberschule3)
 Leiterin einer Werkschule5), Leiter einer Werkschule5)
 Leiterin eines Zentrums für unterstützende Pädagogik5), Leiter eines Zentrums für unterstützende Pädagogik5)
+Oberärztin 6), Oberarzt6)
 Oberstufenleiterin5), Oberstufenleiter5)
 - an einer Oberschule -
 Rektorin, Rektor
@@ -60,6 +61,7 @@ Besoldungsgruppe A 15
 Abteilungsleiterin an einem Schulzentrum, Abteilungsleiter an einem Schulzentrum
 - der Sekundarstufe II1) -
 - des gymnasialen Zweiges der Sekundarstufe I mit mehr als 180 Schülerinnen und Schülern -
+Chefärztin5) 14), Chefarzt 5) 14)
 Didaktische Leiterin3), Didaktischer Leiter3)
 - einer Oberschule im Aufbau mit
 mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt4),
@@ -92,6 +94,7 @@ mit mehr als 1 000 Schülerinnen und Schülern4) -
 - als die ständige Vertretung der Leiterin oder des Leiters eines Schulzentrums der Sekundarstufe II4) -
 Leiterin einer Werkschule3), Leiter einer Werkschule3)
 Leiterin eines Zentrums für unterstützende Pädagogik3), Leiter eines Zentrums für unterstützende Pädagogik3)
+Oberärztin5), Oberarzt5)
 Oberstufenleiterin3), Oberstufenleiter3)
 - an einer Gesamtschule -
 - an einer Oberschule -
@@ -124,9 +127,10 @@ eines nicht voll ausgebauten Gymnasiums4),
 eines voll ausgebauten Gymnasiums mit bis zu 360 Schülerinnen und Schülern4),
 eines voll ausgebauten Oberstufengymnasiums4),
 einer nicht voll ausgebauten Oberschule4),
-einer voll ausgebauten Oberschule mit bis zu 360 Schülerinnen und Schülern4),
+einer voll ausgebauten Oberschule mit bis zu 360 Schülerinnen und SchülernChefärztin,
 eines Zentrums für unterstützende Pädagogik -
 Besoldungsgruppe A 16
+Chefärztin7) , Chefarzt7)
 Direktorin einer Gesamtschule, Direktor einer Gesamtschule
 - mit mehr als 1 000 Schülerinnen und Schülern -
 - mit Oberstufe -
@@ -172,6 +176,8 @@ Fußnoten
 1) Als Einstiegsamt.
 1) Die am 1. Januar 2000 im Amt befindlichen Stelleninhaberinnen und Stelleninhaber erhalten weiterhin Dienstbezüge aus Besoldungsgruppe A 15.
 1) Erhält eine Amtszulage nach Anlage 6.
+2) Als Einstiegsamt
+2) Als Einstiegsamt
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
@@ -194,6 +200,10 @@ Fußnoten
 3) Soweit nicht in der Besoldungsgruppe A 14.
 3) Soweit nicht in der Besoldungsgruppe A 14.
 3) Soweit nicht in der Besoldungsgruppe A 14.
+3) Soweit nicht in der Besoldungsgruppe A 14.
+3) Soweit nicht in der Besoldungsgruppe A 14.
+3) Soweit nicht in der Besoldungsgruppe A 13.
+3) Soweit nicht in der Besoldungsgruppe A 13.
 3) Soweit nicht in der Besoldungsgruppe A 13.
 3) Soweit nicht in der Besoldungsgruppe A 13.
 3) Soweit nicht in der Besoldungsgruppe A 13.
@@ -218,7 +228,6 @@ Fußnoten
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
-4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
@@ -257,8 +266,16 @@ Fußnoten
 5) Soweit nicht in den Besoldungsgruppen A 13, A 15.
 5) Soweit nicht in der Besoldungsgruppe A 14.
 5) Soweit nicht in der Besoldungsgruppe A 14.
+5) Soweit nicht in der Besoldungsgruppe A 14.
+5) Soweit nicht in der Besoldungsgruppe A 14.
+5) Soweit nicht in den Besoldungsgruppe A 14.
+5) Soweit nicht in den Besoldungsgruppe A 14.
 6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
 6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
+6) Soweit nicht in der Besoldungsgruppe A 15.
+6) Soweit nicht in der Besoldungsgruppe A 15.
+6) Soweit nicht in der Besoldungsgruppe A 15.
+6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Die Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
@@ -267,6 +284,10 @@ Fußnoten
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
+7) Soweit nicht in der Besoldungsgruppe A 16.
+7) Soweit nicht in der Besoldungsgruppe A 16.
+7) Soweit nicht in den Besoldungsgruppen A 14, A 15.
+7) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 8) Soweit nicht in der Besoldungsgruppe A 13.
 8) Soweit nicht in der Besoldungsgruppe A 13.
 8) Soweit nicht in der Besoldungsgruppe A 12.
@@ -285,3 +306,5 @@ Fußnoten
 12) Erhält eine Amtszulage nach Anlage 6.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
+14) Soweit nicht in der Besoldungsgruppe A 16.
+14) Soweit nicht in der Besoldungsgruppe A 16.

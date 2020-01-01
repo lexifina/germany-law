@@ -1,13 +1,14 @@
 # Anlage 6 - Amtszulagen, Stellenzulagen, Zulagen
 Anlage 6
 Amtszulagen, Stellenzulagen, Zulagen
-(Monatsbeträge in Euro) in der Reihenfolge der Gesetzestabellen
-Gültig ab 01. Januar 2019
+(Monatsbeträge in Euro)
+in der Reihenfolge der Gesetzestabellen
+Gültig ab 01. Januar 2020
 Zulagen dem Grunde nach geregelt in | Betrag in Euro | 
-§ 42 Abs. 1 (Allgemeine Stellenzulage) |  | 
-Nr. 1 Buchstabe a | 21,61 | 
-Nr. 1 Buchstabe b | 84,54 | 
-Nr. 2 | 93,95 | 
+§ 42 Abs: 1 (Allgemeine Stellenzulage) |  | 
+Nr. 1 Buchstabe a | 22,30 | 
+Nr. 1 Buchstabe b | 87,25 | 
+Nr. 2 | 96,96 | 
 § 43 (Sicherheitszulage) |  | 
 Die Zulage beträgt für Beamtinnen und Beamte der Besoldungsgruppen |  | 
 A 3 bis A 5 | 115,04 | 
@@ -33,32 +34,31 @@ der Laufbahngruppe 2 | 38,35 |
 wenn ein Amt ausgeübt wird |  | 
 in der Besoldungsgruppe R 1 | 205,54 | 
 in der Besoldungsgruppe R 2 | 230,08 | 
-§ 70 (Leitung untere Verwaltungsbehörden) | 228,27 | 
+§ 70 (Leitung untere Verwaltungsbehörden) | 235,57 | 
 Besoldungsordnungen A und B |  | 
 Besoldungsgruppen | Fußnote | 
-A 4 | 2 | 74,45
-A 5 | 2 | 74,45
-A 6 | 2 | 40,35
-A 9 | 1 | 300,49
+A 4 | 2 | 76,83
+A 5 | 2 | 76,83
+A 6 | 2 | 41,64
+A 9 | 1 | 310,11
 A 10 | 3, 4 | 25,56
 A 11 | 1, 2 | 25,56
 A 12 | 3 | 25,56
- | 7 | 170,14
+ | 7 | 175,58
 A 12 a | 2 | 25,56
- | 5 | 170,14
-A 13 | 1, 9, 10 | 297,68
- | 12 | 204,09
- | 14 -kw- | 183,72
- | 15 | 91,61
-A 14 | 2 | 204,09
-A 15 | 1 | 136,09
- | 4 | 204,09
- | 6 | 340,10
- | 7 -kw- | 377,31
-A 16 | 3 | 228,27
+ | 5 | 175,58
+A 13 | 1, 9, 10 | 307,21
+ | 12 | 210,62
+ | 14 -kw- | 189,60
+ | 15 | 94,54
+A 14 | 2 | 210,62
+A 15 | 1 | 140,44
+ | 4 | 210,62
+ | 6 | 350,98
+ | 7 -kw- | 389,38
 Besoldungsordnung R |  | 
 Besoldungsgruppen | Fußnote | 
-R 1 | 1, 2 | 225,65
-R 2 | 1, 2, 6, 7, 8 | 225,65
- | 3 | 365,50
-R 3 | 1 | 225,65
+R 1 | 1, 2 | 232,87
+R 2 | 1, 2, 6, 7, 8 | 232,87
+ | 3 | 377,20
+R 3 | 1 | 232,87

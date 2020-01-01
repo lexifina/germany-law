@@ -2,12 +2,12 @@
 Anlage 7
 Anwärtergrundbetrag
 (Monatsbeträge in Euro)
-Gültig ab 01. Januar 2019
+Gültig ab 01. Januar 2020
 Einstiegsamt, in das die Anwärterin oder der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt | Grundbetrag
-A 6 bis A 8 | 1.183,37
-A 9 bis A 11 | 1.238,68
-A 12 | 1.381,84
-A 13 | 1.414,39
+A 6 bis A 8 | 1.233,37
+A 9 bis A 11 | 1.288,68
+A 12 | 1.431,84
+A 13 | 1.464,39
 A 13 + Zulage | 
 (§ 42 Nr. 2 c) | 
-oder R 1 | 1.450,17
+oder R 1 | 1.500,17

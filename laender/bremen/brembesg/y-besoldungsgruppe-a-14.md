@@ -3,9 +3,8 @@ Besoldungsgruppe A 14
 Akademische Oberrätin, Akademischer Oberrat
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 - als Lektorin oder als Lektor an einer Hochschule -
-Ärztin3), Arzt3)
-Chefärztin4), Chefarzt4)
 Erste Fachleiterin beim Landesinstitut für Schule, Erster Fachleiter beim Landesinstitut für Schule
+Erste Oberamtsanwältin11), Erster Oberamtsanwalt11)
 Kanzlerin der Hochschule Bremerhaven7), Kanzler der Hochschule Bremerhaven7)
 Kanzlerin der Hochschule für Künste7), Kanzler der Hochschule für Künste7)
 Konrektorin, Konrektor
@@ -19,9 +18,9 @@ Konrektorin, Konrektor
 - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
 - zur Wahrnehmung von Schulleitungsaufgaben an einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
 Leiterin des Medienzentrums Bremerhaven, Leiter des Medienzentrums Bremerhaven
-Oberärztin6), Oberarzt6)
 Oberkustodin, Oberkustos
 Oberrätin, Oberrat
+Oberrätin im pädagogischen Verwaltungsdienst, Oberrat im pädagogischen Verwaltungsdienst
 Oberstudienrätin, Oberstudienrat
 - an allgemeinbildenden und beruflichen Schulen -
 Ortsamtsleiterin6) 9), Ortsamtsleiter6) 9)
@@ -44,12 +43,6 @@ Fußnoten
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
-3) Soweit nicht in der Besoldungsgruppe A 13.
-3) Soweit nicht in der Besoldungsgruppe A 13.
-4) Soweit nicht in den Besoldungsgruppen A 15, A 16.
-4) Soweit nicht in den Besoldungsgruppen A 15, A 16.
-6) Soweit nicht in der Besoldungsgruppe A 15.
-6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 7) Soweit nicht in der Besoldungsgruppe W 2.
@@ -63,3 +56,5 @@ Fußnoten
 9) Bis zum vollendeten 10. Dienstjahr. Erhält das Endgrundgehalt.
 10) Erhält eine Stellenzulage nach Maßgabe des § 46.
 10) Erhält eine Stellenzulage nach Maßgabe des § 46.
+11) als Leiterin oder Leiter der Abteilung für Amtsanwaltssachen der Staatsanwaltschaft.
+11) als Leiterin oder Leiter der Abteilung für Amtsanwaltssachen der Staatsanwaltschaft.

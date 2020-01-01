@@ -1,12 +1,12 @@
 # Besoldungsgruppe A 16
 Besoldungsgruppe A 16
-Chefärztin1), Chefarzt1)
 Direktorin der Kataster- und Vermessungsverwaltung, Direktor der Kataster- und Vermessungsverwaltung
 Direktorin des Landesinstituts für Schule, Direktor des Landesinstituts für Schule
 Direktorin der Verwaltungsschule, Direktor der Verwaltungsschule
 Leitende Akademische Direktorin, Leitender Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 Leitende Direktorin2), Leitender Direktor2)
+Leitende Direktorin im pädagogischen Verwaltungsdienst, Leitender Direktor im pädagogischen Verwaltungsdienst
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Oberschulrätin4), Oberschulrat4)
 Oberstudiendirektorin, Oberstudiendirektor
@@ -15,8 +15,6 @@ Oberstudiendirektorin, Oberstudiendirektor
 Senatsrätin, Senatsrat
 - bei einer obersten Landesbehörde2) -
 Fußnoten
-1) Soweit nicht in den Besoldungsgruppen A 14, A 15.
-1) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.

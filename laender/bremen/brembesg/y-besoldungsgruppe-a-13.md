@@ -3,7 +3,6 @@ Besoldungsgruppe A 131)
 Akademische Rätin2), Akademischer Rat2)
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 - als Lektorin oder als Lektor an einer Hochschule -
-Ärztin2) 3), Arzt2) 3)
 Erste Kriminalhauptkommissarin, Erster Kriminalhauptkommissar
 Erste Polizeihauptkommissarin, Erster Polizeihauptkommissar
 Fachleiterin beim Landesinstitut für Schule2), Fachleiter beim Landesinstitut für Schule2)
@@ -18,9 +17,11 @@ Lehrerin5) 6), Lehrer5) 6)
 Lehrerin bei den Justizvollzugsanstalten2) 11), Lehrer bei den Justizvollzugsanstalten2) 11)
 Oberamtsanwältin9), Oberamtsanwalt9)
 Oberamtsrätin10), Oberamtsrat10)
+Oberamtsrätin im pädagogischen Verwaltungsdienst, Oberamtsrat im pädagogischen Verwaltungsdienst
 Oberrechnungsrätin, Oberrechnungsrat
 - als Prüfungsbeamtin oder als Prüfungsbeamter beim Rechnungshof -
 Rätin2), Rat2)
+Rätin im pädagogischen Verwaltungsdienst2), Rat im pädagogischen Verwaltungsdienst2)
 Sonderschullehrerin14) 15), Sonderschullehrer14) 15)
 Studienrätin2), Studienrat2)
 - an allgemeinbildenden und beruflichen Schulen sowie an Regionalen Beratungs- und Unterstützungszentren -
@@ -36,12 +37,10 @@ Fußnoten
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
+2) Als Einstiegsamt
+2) Als Einstiegsamt
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
-2) Als Einstiegsamt.
-2) Als Einstiegsamt.
-3) Soweit nicht in der Besoldungsgruppe A 14.
-3) Soweit nicht in der Besoldungsgruppe A 14.
 5) Soweit nicht in den Besoldungsgruppen A 12, A 12a.
 5) Soweit nicht in den Besoldungsgruppen A 12, A 12a.
 6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
