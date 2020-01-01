@@ -1,8 +1,8 @@
 # Vollzitat: RL Inklusion
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-06-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17310.1
+- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17310.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-20.06.2017
+01.01.2020
 bis
-31.12.2019
+30.06.2023
 
 RL Inklusion
 
@@ -180,7 +180,11 @@ Es gelten die Allgemeinen Nebenbestimmungen zur Projektförderung (ANBest-P, Anl
 
 3.
 
-Für das einzelne Projekt gilt die Förderung nur innerhalb des Bewilligungszeitraumes. Auf Antrag kann die Bewilligungsbehörde im Einzelfall einen vorzeitigen Beginn des Projektes genehmigen. Eine Förderung nach dieser Richtlinie ist ausgeschlossen, wenn vom Antragsteller für dasselbe Projekt öffentliche Mittel aus anderen Programmen in Anspruch genommen werden.
+Für das einzelne Projekt gilt die Förderung nur innerhalb des Bewilligungszeitraumes.
+
+Ein vorzeitiger Maßnahmebeginn ist nicht zugelassen.
+
+Auf Antrag kann die Bewilligungsbehörde jedoch im Einzelfall einen vorzeitigen Beginn des Projektes genehmigen. Eine Förderung nach dieser Richtlinie ist ausgeschlossen, wenn vom Antragsteller für dasselbe Projekt öffentliche Mittel aus anderen Programmen in Anspruch genommen werden.
 
 
 4.
@@ -266,9 +270,9 @@ Fsn-Nr.: 5584-V17.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 20. Juni 2017
+Fassung gültig ab:  1. Januar 2020
 
-Fassung gültig bis: 31. Dezember 2019
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -293,7 +297,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17310.1
+https://www.revosax.sachsen.de/vorschrift/17310.2
 Stand vom
 18.11.2026
 
