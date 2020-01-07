@@ -1,0 +1,52 @@
+# 31. öffentliche Sitzung des Bauausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-01-07T16:15:00+01:00
+- Ende: 2020-01-07T19:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5459
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5459
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=340829
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschriften der 29. Sitzung vom 05.11.2019 und 30. Sitzung vom 03.12.2019 - erledigt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Zusätzliche Fahrradständer Lindauer Allee - vertagt
+- TOP 3.2: Schutz der Menschen im Waldseeviertel - vertagt
+- TOP 3.3: Schulprojekte zum Erhalt des Waldbestandes anregen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.4: Temporäre Modalfilter für Verkehrsberuhigung und -sicherheit im Waldseeviertel - vertagt
+- TOP 3.5: Mittel für Straßensanierungen verdoppeln - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.6: Parkfläche zur Ausstellung von Skulpturen - im Ausschuss abgelehnt
+- TOP 3.7: Inklusive Sportanlagen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.8: "Klimaschutz in Reinickendorf - aktives Handeln des Bezirks" - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.9: Wochenmärkte mit regionalen Anbietern in Reinickendorf - mit Änderungen im Ausschuss beschlossen
+- TOP 3.10: Sichere Überquerung am Senftenberger Ring zwischen dem Märkischen Zentrum (Nordausgang) und der Skateranlage - vertagt
+- TOP 3.11: Sichere Überquerung der Treuenbrietzener Str. bei der Bushaltestelle "Packereigraben" - vertagt
+- TOP 3.12: Verkehrssicherungspflicht Öschelbonner Weg nachkommen! - vertagt
+- TOP 3.13: Erhalt und Sanierung des ehemaligen Pferdestalles der Feuerwache Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.14: Insektenfreundliche Grünfläche in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.15: Eingangstor zum Freizeitpark Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.16: Baumlücke schließen - vertagt
+- TOP 3.17: Lösung an der Grundschule am Fließtal - vertagt
+- TOP 3.18: Ein Naturerfahrungsraum (NER) für Reinickendorf - vertagt
+- TOP 3.19: Zusätzliche Standorte für Trinkbrunnen in Reinickendorf - vertagt
+- TOP 3.20: Sitzbänke und Abfallbehälter auf dem Weg parallel zum Nordgraben - vertagt
+- TOP 3.21: Wasserspielplatz im Freizeitpark Lübars - vertagt
+- TOP 3.22: Neugestaltung von Spielplätzen - vertagt
+- TOP 3.23: Zugang zum Heiligensee - vertagt
+- TOP 3.24: "Dogstations" für Reinickendorf - vertagt
+- TOP 3.25: Nachpflanzungen von Bäumen auf dem KaBoN-Gelände - vertagt
+- TOP 3.26: Baumpflanzungen Antonienstraße - vertagt
+- TOP 3.27: Trampelpfade in ordentliche Wege umgestalten - vertagt
+- TOP 3.28: Einrichtung einer Informationsplattform über geplante Baumfällungen in Reinickendorf - vertagt
+- TOP 3.29: Mehr Papierkörbe für Reinickendorf - vertagt
+- TOP 3.30: Fahrradpiktogramme - vertagt
+- TOP 3.31: Annahme von Grünschnitt und Holz am Recyclinghof in Heiligensee - vertagt
+- TOP 3.32: Beleuchtung an der Boulebahn am Falkenplatz - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
