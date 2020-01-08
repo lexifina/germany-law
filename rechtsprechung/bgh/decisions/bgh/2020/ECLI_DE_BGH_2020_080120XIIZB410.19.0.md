@@ -1,0 +1,242 @@
+---
+ecli: "ECLI:DE:BGH:2020:080120XIIZB410.19.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 410/19"
+decided: "2020-01-08"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=0&nr=103646&anz=3286&pos=29&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2020-01-08_XII_ZB_410_19_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/1897.md", "germany/bund/acts/bgb/1908b.md", "germany/bund/acts/famfg/0059.md", "germany/bund/acts/famfg/0074.md", "germany/bund/acts/famfg/0274.md", "germany/bund/acts/famfg/0303.md"]
+---
+
+# Bundesgerichtshof, XII ZB 410/19 vom 2020-01-08
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                             BESCHLUSS
+XII ZB 410/19
+
+                                     vom
+
+                                8. Januar 2020
+
+                            in der Betreuungssache
+
+Nachschlagewerk:       ja
+
+BGHZ:               nein
+
+BGHR:                  ja
+
+
+
+FamFG § 303 Abs. 2 Nr. 1
+
+
+Für die Beschwerdebefugnis naher Angehöriger nach § 303 Abs. 2 Nr. 1
+FamFG ist maßgeblich, ob das Rechtsmittel dem objektiven Interesse des Betroffenen dient. Dabei ist ausreichend, dass der Rechtsmittelführer Interessen
+des Betroffenen zumindest mitverfolgt.
+
+
+
+
+BGH, Beschluss vom 8. Januar 2020 - XII ZB 410/19 - LG Osnabrück
+                                                    AG Osnabrück
+
+
+
+
+ECLI:DE:BGH:2020:080120BXIIZB410.19.0
+
+                                             -2-
+
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 8. Januar 2020 durch den
+    Vorsitzenden Richter Dose, die Richter Prof. Dr. Klinkhammer, Dr. Günter und
+    Dr. Botur und die Richterin Dr. Krüger
+
+
+    beschlossen:
+
+          Auf die Rechtsbeschwerde des weiteren Beteiligten zu 3 wird der
+          Beschluss der 7. Zivilkammer des Landgerichts Osnabrück vom
+          19. Juli   2019   (Verwerfung      der   Beschwerde   des   weiteren
+          Beteiligten zu 3) aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+          über die Kosten des Rechtsbeschwerdeverfahrens, an das
+          Landgericht zurückverwiesen.
+
+          Das Verfahren der Rechtsbeschwerde ist gerichtskostenfrei.
+
+          Wert: 5.000 €
+
+
+
+
+                                        Gründe:
+
+                                              I.
+
+1         Für die unter einer Demenzerkrankung leidende Betroffene wurde im Juni 2016 der Beteiligte zu 1, einer ihrer beiden Söhne, als Betreuer für den Aufgabenkreis Gesundheitssorge, Aufenthaltsbestimmung, Vermögenssorge sowie
+    Rechts-/Antrags- und Behördenangelegenheiten bestellt. Zur Ersatzbetreuerin
+    mit dem Aufgabenkreis Gesundheitssorge und Aufenthaltsbestimmung wurde
+    die Ehefrau des Beteiligten zu 1, die Beteiligte zu 2, bestellt. Im September
+
+                                         -3-
+
+
+
+    2018 hat der Beteiligte zu 3, der andere Sohn der Betroffenen, beim Amtsgericht beantragt, den Betreuer und die Ersatzbetreuerin zu entlassen und eine
+    neutrale, familienfremde Person zum Betreuer zu bestellen.
+
+2         Das Amtsgericht hat die Betreuung im bisherigen Umfang verlängert, den
+    beantragten Betreuerwechsel abgelehnt und die Entscheidung über die Erweiterung der Betreuung auf ein Umgangsrecht zurückgestellt. Die gegen die Ablehnung des Betreuerwechsels gerichtete Beschwerde des Beteiligten zu 3 hat
+    das Landgericht verworfen. Hiergegen wendet sich der Beteiligte zu 3 mit der
+    Rechtsbeschwerde.
+
+                                          II.
+
+3         Die zulässige Rechtsbeschwerde ist begründet.
+
+4         1. Die Rechtsbeschwerde ist statthaft (vgl. Senatsbeschluss vom
+    15. September 2010 - XII ZB 166/10 - FamRZ 2010, 1897 Rn. 9 f.) und auch im
+    Übrigen zulässig. Die Beschwerdebefugnis des Beteiligten zu 3 folgt für das
+    Verfahren der Rechtsbeschwerde bereits daraus, dass seine Erstbeschwerde
+    verworfen worden ist (Senatsbeschluss vom 25. Januar 2017 - XII ZB 438/16 -
+    FamRZ 2017, 552 Rn. 5 mwN).
+
+5         2. Die Rechtsbeschwerde hat auch in der Sache Erfolg.
+
+6         a) Das Landgericht hat zur Begründung seiner Entscheidung folgendes
+    ausgeführt:
+
+7         Eine Beschwerdebefugnis des Beteiligten zu 3 folge nicht aus § 59
+    Abs. 1 FamFG, weil Angehörige eines Betroffenen durch betreuungsgerichtliche
+    Entscheidungen grundsätzlich nicht in eigenen Rechten im Sinne dieser Vorschrift beeinträchtigt werden könnten. Auch aus § 303 Abs. 2 Nr. 1 FamFG er-
+
+                                         -4-
+
+
+
+    gebe sich keine Beschwerdebefugnis des Beteiligten zu 3. Zwar sei dieser im
+    erstinstanzlichen Verfahren beteiligt worden. Jedoch stehe beteiligten Angehörigen die Beschwerdebefugnis nach § 303 Abs. 2 Nr. 1 FamFG nur zu, wenn
+    die Beschwerdeeinlegung im Interesse des Betroffenen erfolge. Dies sei vorliegend nicht der Fall. Nach den objektiven, sich aus dem gesamten Akteninhalt
+    ergebenden Umständen verfolge der Beschwerdeführer lediglich seine eigenen
+    Interessen. Die Betroffene habe bei ihrer letzten Anhörung ausdrücklich bekundet, dass sie keinen Betreuerwechsel wünsche. Umstände, die eine Entlassung
+    der bisherigen Betreuer als im Interesse der Betroffenen liegend erscheinen
+    lassen, seien nicht ersichtlich. Das Betreuungsverfahren sei durchweg von den
+    Auseinandersetzungen zwischen dem Betreuer und dem Beteiligten zu 3 geprägt gewesen. Die Betroffene wünsche nach ihrer ausdrücklichen Erklärung
+    bei der Anhörung hingegen keine in einem gerichtlichen Verfahren ausgetragene Konfrontation, sondern eine durch Vernunft geprägte Verständigung ihrer
+    Söhne zumindest insoweit, dass ein geordneter zwischenmenschlicher Umgang
+    innerhalb der Familie gewährleistet sei. Zudem werde die Betroffene durch die
+    in das Betreuungsverfahren hineingetragene persönliche Auseinandersetzung
+    zwischen ihren Söhnen außerordentlich belastet. Dass die Beschwerde objektiv
+    im Interesse der Betroffenen liege, sei daher nicht erkennbar. Ergänzend sei
+    darauf hinzuweisen, dass die amtsgerichtliche Entscheidung in der Sache vollumfänglich zutreffend sei.
+
+8         b) Dies hält rechtlicher Nachprüfung nicht stand. Der am erstinstanzlichen Verfahren beteiligte Sohn der Betroffenen ist gemäß § 303 Abs. 2 Nr. 1
+    FamFG berechtigt, im eigenen Namen Beschwerde gegen die amtsgerichtliche
+    Entscheidung zu führen, mit der der beantragte Betreuerwechsel im Rahmen
+    der Verlängerung der bestehenden Betreuung abgelehnt worden ist.
+
+                                          -5-
+
+
+
+9          aa) Die Beschwerdebefugnis naher Angehöriger nach § 303 Abs. 2 Nr. 1
+     FamFG erstreckt sich auch auf eine betreuungsgerichtliche Entscheidung, mit
+     der im Rahmen einer Verlängerungsentscheidung ein beantragter Betreuerwechsel abgelehnt worden ist (vgl. Senatsbeschluss vom 8. Juli 2015 - XII ZB
+     292/14 - FamRZ 2015, 1701 Rn. 6).
+
+10         bb) Entgegen der Auffassung des Landgerichts hat der Beteiligte zu 3 mit
+     seinem Rechtsmittel auch in dem von § 303 Abs. 2 FamFG geforderten Interesse der Betroffenen gehandelt.
+
+11         (1) Dieses Tatbestandsmerkmal schließt ein Rechtsmittel eines der in
+     § 303 Abs. 2 FamFG genannten Beteiligten nicht schon dann aus, wenn es
+     dem - gegebenenfalls auch ausdrücklich erklärten - Willen des Betroffenen widerspricht (so aber MünchKommFamFG/Schmidt-Recla 3. Aufl. § 303 Rn. 9,
+     § 274 Rn. 13 f.). Vielmehr führt die tatbestandsmäßige Einschränkung nur zur
+     Unzulässigkeit des Rechtsmittels, wenn der Beteiligte mit diesem lediglich seine
+     eigenen Interessen verfolgt. Es besteht ein Gleichlauf zwischen der Kann-Beteiligung nach § 274 Abs. 4 Nr. 1 FamFG im Interesse des Betroffenen und
+     der Beschwerdeberechtigung dieses Beteiligtenkreises nach § 303 Abs. 2 FamFG. Ebenso wie die Hinzuziehung der in § 274 Abs. 4 Nr. 1 FamFG genannten Kann-Beteiligten selbst gegen den Willen des Betroffenen in dessen objektivem Interesse möglich ist (Senatsbeschluss vom 25. Januar 2017 - XII ZB
+     438/16 - FamRZ 2017, 552 Rn. 21), kann ein solcher Beteiligter im objektiven
+     Interesse                           des                             Betroffenen
+     - und damit auch gegen dessen Willen - das Rechtsmittel führen (Senatsbeschluss vom 18. Oktober 2017 - XII ZB 336/17 - FamRZ 2018, 134 Rn. 6 mwN).
+     Maßgeblich für die Beschwerdebefugnis naher Angehöriger nach § 303 Abs. 2
+     Satz 1 FamFG ist daher, ob das Rechtsmittel dem objektiven Interesse des Betroffenen dient. Eine Beschwerdebefugnis besteht nur dann nicht, wenn der
+
+                                          -6-
+
+
+
+     Rechtsmittelführer erkennbar ausschließlich eigene Interessen verfolgt (vgl.
+     Senatsbeschluss vom 18. Oktober 2017 - XII ZB 336/17 - FamRZ 2018, 134
+     Rn. 6; BeckOK FamFG/Günter [Stand: 1. Oktober 2019] § 303 Rn. 7). Ausreichend ist, dass der Rechtsmittelführer Interessen des Betroffenen zumindest
+     mitverfolgt (Keidel/Giers FamFG 20. Aufl. § 303 Rn. 25; Jürgens/Kretz Betreuungsrecht 6. Aufl. § 303 FamFG Rn. 7).
+
+12         (2) Auf dieser rechtlichen Grundlage hat das Landgericht zu Unrecht angenommen, dass der Beteiligte zu 3 mit der Beschwerde nur eigene Interessen
+     verfolgt und ihm deshalb keine Beschwerdebefugnis zusteht.
+
+13         Das Landgericht begründet seine Auffassung im Wesentlichen damit,
+     dass die Betroffene und ihr Ehemann keinen Betreuerwechsel wünschten und
+     darüber hinaus aus objektiver Sicht keine Gründe dafür vorlägen, die eine Entlassung der bisherigen Betreuer als im Interesse der Betroffenen erscheinen
+     ließen. Damit hat das Landgericht Fragen der Zulässigkeit und der Begründetheit der Beschwerde in unzulässiger Weise miteinander vermischt. Bei der Prüfung der Beschwerdebefugnis nach § 303 Abs. 2 Satz 1 FamFG ist nicht entscheidend, ob in der Sache die Voraussetzungen für einen Betreuerwechsel
+     vorliegen. Maßgeblich ist vielmehr, ob eine Überprüfung der erstinstanzlichen
+     Entscheidung aufgrund eines von einem nahen Angehörigen nach § 303 Abs. 2
+     Satz 1 FamFG eingelegten Rechtsmittels zumindest auch dem objektiven Interesse des Betroffenen dient. Dies schließt die vom Landgericht gegebene Begründung nicht aus. Der Beteiligte zu 3 hat in seiner Beschwerdebegründung
+     substantiiert Gründe dafür vorgetragen, warum der Beteiligte zu 1 das ihm übertragene Betreueramt in vermögensrechtlichen Angelegenheiten angeblich nicht
+     zum Wohl der Betroffenen ausübe. Insbesondere hat er hierbei auf einen Interessenkonflikt des Beteiligten zu 1 hingewiesen, der sich daraus ergeben könnte, dass der Ehemann der Betroffenen dem Beteiligten zu 1 ein Darlehen ge-
+
+                                          -7-
+
+
+
+     währt hat, dessen Rückzahlung gefährdet sein könnte, sollte der Beteiligte zu 1
+     weiter zum Betreuer in Vermögensangelegenheiten bestellt bleiben. Sofern diese Behauptungen des Beteiligten zu 3 zutreffen, könnte es dem Wohl der Betroffenen entsprechen, einen Betreuerwechsel vorzunehmen, um deren Vermögensinteressen zu schützen. Schon aus diesem Grund liegt die Beschwerdeeinlegung objektiv auch im Interesse der Betroffenen.
+
+14         Zudem hat das Landgericht bei seiner Entscheidung nicht in den Blick
+     genommen, dass der Beteiligte zu 3 mit seiner Beschwerde die Bestellung eines neutralen Berufsbetreuers erreichen möchte. Auch dies könnte im Hinblick
+     auf die gegen den Beteiligten zu 1 erhobenen Vorwürfe bei objektiver Betrachtung im wohlverstandenen Interesse der Betroffenen liegen, auch wenn sie und
+     ihr Ehemann einen Betreuerwechsel ablehnen. Insoweit weist die Rechtsbeschwerde zu Recht darauf hin, dass der Beteiligte zu 3 die Entscheidungen eines neutralen Berufsbetreuers auch dann zu akzeptieren habe, wenn sie seinen
+     eigenen Interessen widersprechen.
+
+15         3. Der angefochtene Beschluss ist daher aufzuheben und die Sache ist
+     an das Landgericht zurückzuverweisen, weil sie nicht zur Endentscheidung reif
+     ist (§ 74 Abs. 5, Abs. 6 Satz 1 und 2 FamFG).
+
+16         Für das weitere Verfahren weist der Senat auf folgendes hin:
+
+17         Ist im Zusammenhang mit der Entscheidung über die Verlängerung einer
+     bereits bestehenden Betreuung über einen Betreuerwechsel zu befinden, richtet
+     sich die Auswahl der Person des Betreuers nicht nach § 1908 b Abs. 3 BGB,
+     sondern nach der für die Neubestellung eines Betreuers maßgeblichen Vorschrift des § 1897 BGB (vgl. Senatsbeschluss vom 14. Februar 2018 - XII ZB
+     507/17 - FamRZ 2018, 707 Rn. 7 mwN). Zudem wird das Landgericht zu prüfen
+     haben, ob im Hinblick auf den Umfang des angeordneten Aufgabenkreises die
+
+                                           -8-
+
+
+
+     Bestellung eines Verfahrenspflegers für die Betroffene erforderlich ist (vgl. Senatsbeschluss vom 30. Oktober 2019 - XII ZB 144/19 - juris Rn. 7 mwN, 15).
+
+18          4. Von einer weiteren Begründung der Entscheidung wird abgesehen,
+     weil sie nicht geeignet wäre, zur Klärung von Rechtsfragen grundsätzlicher Bedeutung, zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen
+     Rechtsprechung beizutragen (§ 74 Abs. 7 FamFG).
+
+
+
+
+     Dose                                Klinkhammer                         Günter
+
+                         Botur                                 Krüger
+
+
+
+     Vorinstanzen:
+     AG Osnabrück, Entscheidung vom 20.03.2019 - 80 XVII 5/16 (H) -
+     LG Osnabrück, Entscheidung vom 19.07.2019 - 7 T 399/19 -
