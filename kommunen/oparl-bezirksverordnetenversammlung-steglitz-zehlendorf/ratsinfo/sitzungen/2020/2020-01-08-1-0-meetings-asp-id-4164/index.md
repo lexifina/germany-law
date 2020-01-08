@@ -1,0 +1,57 @@
+# 15. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-01-08T17:00:00+01:00
+- Ende: 2020-01-08T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4164
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4164
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 27.11.2020 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - vertagt
+- TOP 4.2: Stärkung des ÖPNV am Hindenburgdamm - vertagt
+- TOP 4.3: Angsträume beseitigen - vertagt
+- TOP 4.4: Parkkonzept für Zehlendorf-Mitte - vertagt
+- TOP 4.5: Altensteinstraße sicherer und ruhiger - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Straßen ökologisch aufwerten mit den Anwohnenden - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Kreuzung Machnower Straße/Teltower Damm sicher für Rad und Fuß - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller - im Ausschuss abgelehnt
+- TOP 4.9: Saubere Straßenbenennungsschilder in Steglitz-Zehlendorf! - im Ausschuss abgelehnt
+- TOP 4.10: Fußgängerzone am Kleinen Teltower Damm sicherer machen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.11: Mehr Behindertenparkplätze auf der Schloßstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.12: Gefährliches Überholen von Fahrrädern auf der Brückenkuppe Sundgauer Straße unterbinden - mit Änderungen im Ausschuss beschlossen
+- TOP 4.13: Wasserbrunnen an der Stewardstraße errichten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.14: Schulwegsicherung Erich-Kästner-Grundschule - vertagt
+- TOP 4.15: Schulkinder schützen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.16: Kreuzung Siemensstraße/Leonorenstraße - vertagt
+- TOP 4.17: Kreuzung Alt-Lankwitz/Kaiser-Wilhelm-Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.18: Ampelanlage (LZA) Argentinische Allee Höhe Siebenendenweg - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Zeitlich begrenzte Parkplätze am S-Bahnhof Nikolassee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.20: Verkehrsführung „kleiner“ Teltower Damm - vertagt
+- TOP 4.21: Spiegel Kreuzung Mühlenstraße/Echtermeyerstraße - vertagt
+- TOP 4.22: Aufhebung sachgrundloser Geschwindigkeitsbegrenzung Lorenz- und Mariannenstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.23: Tempo 30 in der Matterhornstraße durchsetzen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.24: Fußgängerüberweg im Dahlemer Weg Höhe Jägerndorfer Zeile einrichten - vertagt
+- TOP 4.25: Fahrradwege sicherer machen - vertagt
+- TOP 4.26: Barrierefreie Wege zur Kirche - Bordsteinabsenkungen rund um die Martin-Luther-Kirche - vertagt
+- TOP 4.27: Aufstellung eines Kunstwerkes auf dem Mittelstreifen vor dem Haus am Waldsee genehmigen - vertagt
+- TOP 4.28: Eine Lösung für das Be- und Entladen vor der Post am Hindenburgdamm 99, 12203 Berlin, dabei Kunden, Gewerbetreibende und Anwohner nicht verprellen! - vertagt
+- TOP 4.29: Fußgängerbrücke über den Teltowkanal in Verlängerung der Sachtlebenstraße - vertagt
+- TOP 4.30: Tempo 30 vor der Erich-Kästner-Grundschule - vertagt
+- TOP 4.31: Ampelkreuzung Fischerhüttenstraße/Potsdamer Straße mit Vorrangschaltung für Bus X11 - vertagt
+- TOP 4.32: LSA für den Radverkehr Machnower Straße/Teltower Damm - vertagt
+- TOP 4.33: Fahrrad-Abstellanlage Mexikoplatz - vertagt
+- TOP 4.34: Dialogdisplay zur Schulwegsicherung in der Leo-Baeck-Straße aufstellen - vertagt
+- TOP 4.35: Autofreie Bushaltestelle - vertagt
+- TOP 4.36: Verkehrssicherheit/Überholverbot in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 4.37: Stadtbildgerechter Umbau von Gaslaternen zu LED-Lampen - vertagt
+- TOP 4.38: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 5: Verschiedenes - erledigt
