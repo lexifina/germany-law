@@ -293,5 +293,6 @@
 - [§ 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz](0064v.md)
 - [§ 64w Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz](0064w.md)
 - [§ 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz](0064x.md)
+- [§ 64y Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie](0064y.md)
 - [§ 65](0065.md)
 - [Anhang I Informationsbogen für den Einleger](anhang-i.md)
