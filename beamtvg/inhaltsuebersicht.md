@@ -1,13 +1,13 @@
 # Inhaltsübersicht
 
-| Abschnitt I |
+| Abschnitt 1 |
 | Allgemeine Vorschriften |
 | § 1 | Geltungsbereich |
 | § 1a | Lebenspartnerschaft |
 | § 2 | Arten der Versorgung |
 | § 3 | Regelung durch Gesetz |
 |  |  |
-| Abschnitt II |
+| Abschnitt 2 |
 | Ruhegehalt, Unterhaltsbeitrag |
 | § 4 | Entstehen und Berechnung des Ruhegehalts |
 | § 5 | Ruhegehaltfähige Dienstbezüge |
@@ -24,9 +24,9 @@
 | § 14 | Höhe des Ruhegehalts |
 | § 14a | Vorübergehende Erhöhung des Ruhegehaltssatzes |
 | § 15 | Unterhaltsbeitrag für entlassene Beamte auf Lebenszeit und auf Probe |
-| § 15a | Beamte auf Probe und auf Zeit in leitender Funktion |
+| § 15a | Beamte auf Zeit und auf Probe in leitender Funktion |
 |  |  |
-| Abschnitt III |
+| Abschnitt 3 |
 | Hinterbliebenenversorgung |
 | § 16 | Allgemeines |
 | § 17 | Bezüge für den Sterbemonat |
@@ -42,11 +42,11 @@
 | § 27 | Beginn der Zahlungen |
 | § 28 | Witwerversorgung |
 |  |  |
-| Abschnitt IV |
+| Abschnitt 4 |
 | Bezüge bei Verschollenheit |
 | § 29 | Zahlung der Bezüge |
 |  |  |
-| Abschnitt V |
+| Abschnitt 5 |
 | Unfallfürsorge |
 | § 30 | Allgemeines |
 | § 31 | Dienstunfall |
@@ -70,15 +70,15 @@
 | § 46 | Begrenzung der Unfallfürsorgeansprüche |
 | § 46a | (weggefallen) |
 |  |  |
-| Abschnitt VI |
+| Abschnitt 6 |
 | Übergangsgeld, Ausgleich |
 | § 47 | Übergangsgeld |
 | § 47a | Übergangsgeld für entlassene politische Beamte |
 | § 48 | Ausgleich bei besonderen Altersgrenzen |
 |  |  |
-| Abschnitt VII |
+| Abschnitt 7 |
 | Gemeinsame Vorschriften |
-| § 49 | Versorgungsauskunft und Zahlung der Versorgungsbezüge |
+| § 49 | Festsetzung und Zahlung der Versorgungsbezüge, Versorgungsauskunft |
 | § 50 | Familienzuschlag und Ausgleichsbetrag |
 | § 50a | Kindererziehungszuschlag |
 | § 50b | Kindererziehungsergänzungszuschlag |
@@ -100,21 +100,21 @@
 | § 61 | Erlöschen der Witwen- und Waisenversorgung |
 | § 62 | Anzeigepflicht |
 | § 62a | Versorgungsbericht, Mitteilungspflichten |
-| § 63 | Anwendungsbereich |
+| § 63 | Gleichstellungen |
 |  |  |
-| Abschnitt VIII |
+| Abschnitt 8 |
 | Sondervorschriften |
 | § 64 | Entzug von Hinterbliebenenversorgung |
 | § 65 | Nichtberücksichtigung der Versorgungsbezüge |
 |  |  |
-| Abschnitt IX |
+| Abschnitt 9 |
 | Versorgung besonderer Beamtengruppen |
 | § 66 | Beamte auf Zeit |
 | § 67 | Professoren an Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten mit Bezügen nach § 77 Abs. 2 des Bundesbesoldungsgesetzes sowie Professoren und hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen mit Bezügen nach der Bundesbesoldungsordnung W |
 | § 68 | Ehrenbeamte |
 |  |  |
-| Abschnitt X |
-| Vorhandene Versorgungsempfänger und Versorgungsfälle ab 1. Januar 2002 |
+| Abschnitt 10 |
+| Übergangsvorschriften |
 | § 69 | Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger |
 | § 69a | Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger |
 | § 69b | Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle |
@@ -129,17 +129,17 @@
 | § 69k | Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften |
 | § 69l | Übergangsregelung zu § 55 |
 |  |  |
-| Abschnitt XI |
+| Abschnitt 11 |
 | Anpassung der Versorgungsbezüge |
 | § 70 | Allgemeine Anpassung |
 | § 71 | Erhöhung der Versorgungsbezüge |
 | §§ 72 bis 76 | (weggefallen) |
 |  |  |
-| Abschnitt XII |
+| Abschnitt 12 |
 | (weggefallen) |
 |  |  |
-| Abschnitt XIII |
-| Übergangsvorschriften neuen Rechts |
+| Abschnitt 13 |
+| Übergangsvorschriften alten Rechts |
 | § 84 | Ruhegehaltfähige Dienstzeit |
 | § 85 | Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Beamte |
 | § 85a | Erneute Berufung in das Beamtenverhältnis |
@@ -149,12 +149,10 @@
 | § 89 | (weggefallen) |
 | § 90 | Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung |
 | § 91 | Hochschullehrer, Wissenschaftliche Assistenten und Lektoren |
+| §§ 92 bis 104 | (weggefallen) |
 |  |  |
-| Abschnitt XIV |
-| (weggefallen) |
-|  |  |
-| Abschnitt XV |
-| Schlußvorschriften |
+| Abschnitt 14 |
+| Schlussvorschriften |
 | § 105 | Außerkrafttreten |
 | § 106 | Verweisung auf aufgehobene Vorschriften |
 | § 107 | Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften |

@@ -2,14 +2,14 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Abschnitt I Allgemeine Vorschriften
+## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 1a Lebenspartnerschaft](0001a.md)
 - [§ 2 Arten der Versorgung](0002.md)
 - [§ 3 Regelung durch Gesetz](0003.md)
 
-## Abschnitt II Ruhegehalt, Unterhaltsbeitrag
+## Abschnitt 2 Ruhegehalt, Unterhaltsbeitrag
 
 - [§ 4 Entstehen und Berechnung des Ruhegehalts](0004.md)
 - [§ 5 Ruhegehaltfähige Dienstbezüge](0005.md)
@@ -26,9 +26,9 @@
 - [§ 14 Höhe des Ruhegehalts](0014.md)
 - [§ 14a Vorübergehende Erhöhung des Ruhegehaltssatzes](0014a.md)
 - [§ 15 Unterhaltsbeitrag für entlassene Beamte auf Lebenszeit und auf Probe](0015.md)
-- [§ 15a Beamte auf Probe und auf Zeit in leitender Funktion](0015a.md)
+- [§ 15a Beamte auf Zeit und auf Probe in leitender Funktion](0015a.md)
 
-## Abschnitt III Hinterbliebenenversorgung
+## Abschnitt 3 Hinterbliebenenversorgung
 
 - [§ 16 Allgemeines](0016.md)
 - [§ 17 Bezüge für den Sterbemonat](0017.md)
@@ -44,11 +44,11 @@
 - [§ 27 Beginn der Zahlungen](0027.md)
 - [§ 28 Witwerversorgung](0028.md)
 
-## Abschnitt IV Bezüge bei Verschollenheit
+## Abschnitt 4 Bezüge bei Verschollenheit
 
 - [§ 29 Zahlung der Bezüge](0029.md)
 
-## Abschnitt V Unfallfürsorge
+## Abschnitt 5 Unfallfürsorge
 
 - [§ 30 Allgemeines](0030.md)
 - [§ 31 Dienstunfall](0031.md)
@@ -72,15 +72,15 @@
 - [§ 46 Begrenzung der Unfallfürsorgeansprüche](0046.md)
 - [§ 46a (weggefallen)](0046a.md)
 
-## Abschnitt VI Übergangsgeld, Ausgleich
+## Abschnitt 6 Übergangsgeld, Ausgleich
 
 - [§ 47 Übergangsgeld](0047.md)
 - [§ 47a Übergangsgeld für entlassene politische Beamte](0047a.md)
 - [§ 48 Ausgleich bei besonderen Altersgrenzen](0048.md)
 
-## Abschnitt VII Gemeinsame Vorschriften
+## Abschnitt 7 Gemeinsame Vorschriften
 
-- [§ 49 Versorgungsauskunft und Zahlung der Versorgungsbezüge](0049.md)
+- [§ 49 Festsetzung und Zahlung der Versorgungsbezüge, Versorgungsauskunft](0049.md)
 - [§ 50 Familienzuschlag und Ausgleichsbetrag](0050.md)
 - [§ 50a Kindererziehungszuschlag](0050a.md)
 - [§ 50b Kindererziehungsergänzungszuschlag](0050b.md)
@@ -102,20 +102,20 @@
 - [§ 61 Erlöschen der Witwen- und Waisenversorgung](0061.md)
 - [§ 62 Anzeigepflicht](0062.md)
 - [§ 62a Versorgungsbericht, Mitteilungspflichten](0062a.md)
-- [§ 63 Anwendungsbereich](0063.md)
+- [§ 63 Gleichstellungen](0063.md)
 
-## Abschnitt VIII Sondervorschriften
+## Abschnitt 8 Sondervorschriften
 
 - [§ 64 Entzug von Hinterbliebenenversorgung](0064.md)
 - [§ 65 Nichtberücksichtigung der Versorgungsbezüge](0065.md)
 
-## Abschnitt IX Versorgung besonderer Beamtengruppen
+## Abschnitt 9 Versorgung besonderer Beamtengruppen
 
 - [§ 66 Beamte auf Zeit](0066.md)
 - [§ 67 Professoren an Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten mit Bezügen nach § 77 Abs. 2 des Bundesbesoldungsgesetzes sowie Professoren und hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen mit Bezügen nach der Bundesbesoldungsordnung W](0067.md)
 - [§ 68 Ehrenbeamte](0068.md)
 
-## Abschnitt X Vorhandene Versorgungsempfänger
+## Abschnitt 10 Übergangsvorschriften
 
 - [§ 69 Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger](0069.md)
 - [§ 69a Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger](0069a.md)
@@ -131,17 +131,17 @@
 - [§ 69k Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften](0069k.md)
 - [§ 69l Übergangsregelung zu § 55](0069l.md)
 
-## Abschnitt XI Anpassung der Versorgungsbezüge
+## Abschnitt 11 Anpassung der Versorgungsbezüge
 
 - [§ 70 Allgemeine Anpassung](0070.md)
 - [§ 71 Erhöhung der Versorgungsbezüge](0071.md)
 - [§ 72 (weggefallen)](0072.md)
 - [(XXXX) §§ 73 bis 76 (weggefallen)](xxxx-73-bis-76.md)
 
-## Abschnitt XII (weggefallen)
+## Abschnitt 12 (weggefallen)
 
 
-## Abschnitt XIII Übergangsvorschriften neuen Rechts
+## Abschnitt 13 Übergangsvorschriften alten Rechts
 
 - [§ 84 Ruhegehaltfähige Dienstzeit](0084.md)
 - [§ 85 Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Beamte](0085.md)
@@ -153,10 +153,7 @@
 - [§ 90 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung](0090.md)
 - [§ 91 Hochschullehrer, Wissenschaftliche Assistenten und Lektoren](0091.md)
 
-## Abschnitt XIV (weggefallen)
-
-
-## Abschnitt XV Schlußvorschriften
+## Abschnitt 14 Schlussvorschriften
 
 - [§ 105 Außerkrafttreten](0105.md)
 - [§ 106 Verweisung auf aufgehobene Vorschriften](0106.md)
