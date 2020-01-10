@@ -63,9 +63,9 @@ Steuersachen](0006.md)
 
 - [§ 21 Aufzeichnungspflicht](0021.md)
 - [§ 22 Geschäftsprüfung](0022.md)
-- [§ 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11, Beratungsstellen](0023.md)
-- [§ 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11](0024.md)
-- [§ 25 Haftungsausschluß, Haftpflichtversicherung](0025.md)
+- [§ 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen](0023.md)
+- [§ 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer](0024.md)
+- [§ 25 Haftungsausschluss, Haftpflichtversicherung](0025.md)
 - [§ 26 Allgemeine Pflichten der Lohnsteuerhilfevereine](0026.md)
 
 #### Vierter Unterabschnitt Aufsicht
@@ -84,8 +84,7 @@ Steuersachen](0006.md)
 
 ### Erster Abschnitt Allgemeine Vorschriften
 
-- [§ 32 Steuerberater, Steuerbevollmächtigte und
-Steuerberatungsgesellschaften](0032.md)
+- [§ 32 Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften](0032.md)
 - [§ 33 Inhalt der Tätigkeit](0033.md)
 - [§ 34 Berufliche Niederlassung, weitere Beratungsstellen](0034.md)
 
@@ -143,7 +142,7 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 62a Inanspruchnahme von Dienstleistungen](0062a.md)
 - [§ 63 Mitteilung der Ablehnung eines Auftrags](0063.md)
 - [§ 64 Gebührenordnung](0064.md)
-- [§ 65 Pflicht zur Übernahme einer Prozeßvertretung](0065.md)
+- [§ 65 Pflicht zur Übernahme einer Prozessvertretung](0065.md)
 - [§ 65a Pflicht zur Übernahme der Beratungshilfe](0065a.md)
 - [§ 66 Handakten](0066.md)
 - [§ 67 Berufshaftpflichtversicherung](0067.md)
@@ -214,7 +213,7 @@ Verschwiegenheit](0102.md)
 #### Dritter Unterabschnitt Verfahrensvorschriften
 
 
-##### 1. Allgemeines
+##### Erster Teilabschnitt Allgemeines
 
 - [§ 105 Vorschriften für das Verfahren](0105.md)
 - [§ 106 Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten](0106.md)
@@ -226,7 +225,7 @@ oder Bußgeldverfahren](0109.md)
 Verfahren anderer Berufsgerichtsbarkeiten](0110.md)
 - [§ 111 Aussetzung des berufsgerichtlichen Verfahrens](0111.md)
 
-##### 2. Das Verfahren im ersten Rechtszug
+##### Zweiter Teilabschnitt Das Verfahren im ersten Rechtszug
 
 - [§ 112 Örtliche Zuständigkeit](0112.md)
 - [§ 113 Mitwirkung der Staatsanwaltschaft](0113.md)
@@ -245,7 +244,7 @@ Steuerbevollmächtigten](0121.md)
 - [§ 124 Verlesen von Protokollen](0124.md)
 - [§ 125 Entscheidung](0125.md)
 
-##### 3. Rechtsmittel
+##### Dritter Teilabschnitt Rechtsmittel
 
 - [§ 126 Beschwerde](0126.md)
 - [§ 127 Berufung](0127.md)
@@ -254,17 +253,17 @@ Steuerbevollmächtigten](0121.md)
 - [§ 130 Einlegung der Revision und Verfahren](0130.md)
 - [§ 131 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof](0131.md)
 
-##### 4. Die Sicherung von Beweisen
+##### Vierter Teilabschnitt Die Sicherung von Beweisen
 
 - [§ 132 Anordnung der Beweissicherung](0132.md)
 - [§ 133 Verfahren](0133.md)
 
-##### 5. Das Berufs- und Vertretungsverbot
+##### Fünfter Teilabschnitt Das Berufs- und Vertretungsverbot
 
 - [§ 134 Voraussetzung des Verbots](0134.md)
 - [§ 135 Mündliche Verhandlung](0135.md)
 - [§ 136 Abstimmung über das Verbot](0136.md)
-- [§ 137 Verbot im Anschluß an die Hauptverhandlung](0137.md)
+- [§ 137 Verbot im Anschluss an die Hauptverhandlung](0137.md)
 - [§ 138 Zustellung des Beschlusses](0138.md)
 - [§ 139 Wirkungen des Verbots](0139.md)
 - [§ 140 Zuwiderhandlungen gegen das Verbot](0140.md)
@@ -305,6 +304,7 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 - [§ 157 Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater](0157.md)
 - [§ 157a Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes](0157a.md)
 - [§ 157b Anwendungsvorschrift](0157b.md)
+- [§ 157c Anwendungsvorschrift zu § 36 Absatz 2](0157c.md)
 
 ### Siebenter Abschnitt Verordnungsermächtigung
 
@@ -324,11 +324,10 @@ Handlungen und Unterlassungen
 - [§ 161 Schutz der Bezeichnungen "Steuerberatungsgesellschaft",
 "Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"](0161.md)
 - [§ 162 Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten](0162.md)
-- [§ 163 Pflichtverletzung von Personen, deren sich der Verein bei der
-Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient](0163.md)
+- [§ 163 Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient](0163.md)
 - [§ 164 Verfahren](0164.md)
 
-## Vierter Teil Schlußvorschriften
+## Vierter Teil Schlussvorschriften
 
 - [§ 164a Verwaltungsverfahren und finanzgerichtliches Verfahren](0164a.md)
 - [§ 164b Gebühren](0164b.md)

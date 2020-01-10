@@ -14,7 +14,7 @@
 |  | § 3c | Ort der Lieferung in besonderen Fällen |
 |  | § 3d | Ort des innergemeinschaftlichen Erwerbs |
 |  | § 3e | Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn |
-|  | § 3f | Ort der unentgeltlichen Lieferungen und sonstigen Leistungen |
+|  | § 3f | (weggefallen) |
 |  | § 3g | Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte |
 | II. | Steuerbefreiungen und Steuervergütungen |
 |  | § 4 | Steuerbefreiungen bei Lieferungen und sonstigen Leistungen |
@@ -23,6 +23,7 @@
 |  | § 5 | Steuerbefreiungen bei der Einfuhr |
 |  | § 6 | Ausfuhrlieferung |
 |  | § 6a | Innergemeinschaftliche Lieferung |
+|  | § 6b | Konsignationslagerregelung |
 |  | § 7 | Lohnveredelung an Gegenständen der Ausfuhr |
 |  | § 8 | Umsätze für die Seeschifffahrt und für die Luftfahrt |
 |  | § 9 | Verzicht auf Steuerbefreiungen |
@@ -72,8 +73,9 @@
 |  | § 25a | Differenzbesteuerung |
 |  | § 25b | Innergemeinschaftliche Dreiecksgeschäfte |
 |  | § 25c | Besteuerung von Umsätzen mit Anlagegold |
-|  | § 25d | Haftung für die schuldhaft nicht abgeführte Steuer |
+|  | § 25d | (weggefallen) |
 |  | § 25e | Haftung beim Handel auf einem elektronischen Marktplatz |
+|  | § 25f | Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung |
 | VII. | Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften |
 |  | § 26 | Durchführung, Erstattung in Sonderfällen |
 |  | § 26a | Bußgeldvorschriften |
@@ -86,7 +88,7 @@
 |  | § 29 | Umstellung langfristiger Verträge |
 | Anlage 1 (zu § 4 Nr. 4a) |
 |  | Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können |
-| Anlage 2 (zu § 12 Abs. 2 Nr. 1 und 2) |
+| Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14) |
 |  | Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände |
 | Anlage 3 (zu § 13b Absatz 2 Nummer 7) |
 |  | Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7 |

@@ -20,7 +20,7 @@ Vertragsparteien des Nordatlantikvertrags](0001c.md)
 - [§ 3c Ort der Lieferung in besonderen Fällen](0003c.md)
 - [§ 3d Ort des innergemeinschaftlichen Erwerbs](0003d.md)
 - [§ 3e Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn](0003e.md)
-- [§ 3f Ort der unentgeltlichen Lieferungen und sonstigen Leistungen](0003f.md)
+- [§ 3f (weggefallen)](0003f.md)
 - [§ 3g Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte](0003g.md)
 
 ## Zweiter Abschnitt Steuerbefreiungen und
@@ -33,6 +33,7 @@ Gegenständen](0004b.md)
 - [§ 5 Steuerbefreiungen bei der Einfuhr](0005.md)
 - [§ 6 Ausfuhrlieferung](0006.md)
 - [§ 6a Innergemeinschaftliche Lieferung](0006a.md)
+- [§ 6b Konsignationslagerregelung](0006b.md)
 - [§ 7 Lohnveredelung an Gegenständen der Ausfuhr](0007.md)
 - [§ 8 Umsätze für die Seeschiffahrt und für die Luftfahrt](0008.md)
 - [§ 9 Verzicht auf Steuerbefreiungen](0009.md)
@@ -90,8 +91,9 @@ Gegenständen](0004b.md)
 - [§ 25a Differenzbesteuerung](0025a.md)
 - [§ 25b Innergemeinschaftliche Dreiecksgeschäfte](0025b.md)
 - [§ 25c Besteuerung von Umsätzen mit Anlagegold](0025c.md)
-- [§ 25d Haftung für die schuldhaft nicht abgeführte Steuer](0025d.md)
+- [§ 25d (weggefallen)](0025d.md)
 - [§ 25e Haftung beim Handel auf einem elektronischen Marktplatz](0025e.md)
+- [§ 25f Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung](0025f.md)
 
 ## Siebenter Abschnitt Durchführung, Bußgeld-,
 Straf-, Verfahrens-, Übergangs- und Schlussvorschriften
@@ -108,6 +110,6 @@ Straf-, Verfahrens-, Übergangs- und Schlussvorschriften
 - [Anlage 1 (zu § 4 Nr. 4a)
 
 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können](anlage-1.md)
-- [Anlage 2 (zu § 12 Abs. 2 Nr. 1 und 2)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände](anlage-2.md)
+- [Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände](anlage-2.md)
 - [Anlage 3 (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7](anlage-3.md)
 - [Anlage 4 (zu § 13b Absatz 2 Nummer 11)Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet](anlage-4.md)

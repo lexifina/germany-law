@@ -219,6 +219,7 @@
 | § 117a | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union |
 | § 117b | Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten |
 | § 117c | Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten |
+| § 117d | Statistiken über die zwischenstaatliche Amts- und Rechtshilfe |
 |  |  |
 | Zweiter Abschnitt |
 | Verwaltungsakte |

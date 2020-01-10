@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 12 Abs. 2 Nr. 1 und 2)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
+# Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 
 | Lfd.Nr. | Warenbezeichnung | Zolltarif(Kapitel, Position,Unterposition) |
 | 1 | Lebende Tiere, und zwara)(weggefallen) |  |
@@ -104,3 +104,8 @@
 | aa)kursungültige Banknoten einschließlich Briefmarkengeld und Papiernotgeld, | aus Position 9705 00 00 |
 | bb)Münzen aus unedlen Metallen, | aus Position 9705 00 00 |
 | cc)Münzen und Medaillen aus Edelmetallen, wenn die Bemessungsgrundlage für die Umsätze dieser Gegenstände mehr als 250 Prozent des unter Zugrundelegung des Feingewichts berechneten Metallwerts ohne Umsatzsteuer beträgt | aus Positionen 7118, 9705 00 00 und 9706 00 00 |
+| 55 | Erzeugnisse für Zwecke der Monatshygiene, und zwara)hygienische Binden (Einlagen) und Tampons aus Stoffen aller Art, | aus Position 9619 |
+| b)Hygienegegenstände aus Kunststoffen (Menstruationstassen, Menstruationsschwämmchen), | aus Unterposition 3924 90 |
+| c)Waren zu hygienischen Zwecken aus Weichkautschuk (Menstruationstassen), | aus Unterposition 4014 90 |
+| d)natürliche Schwämme tierischen Ursprungs (Menstruationsschwämmchen), | aus Unterposition 0511 99 39 |
+|  | e)Periodenhosen (Slips und andere Unterhosen mit einer eingearbeiteten saugfähigen Einlage, zur mehrfachen Verwendung), | aus Position 9619 |

@@ -1,3 +1,282 @@
 # Inhaltsübersicht
 
-
+Erster Teil
+Vorschriften über
+die Hilfeleistung in Steuersachen
+Erster Abschnitt
+Ausübung der Hilfe in Steuersachen
+Erster Unterabschnitt
+Anwendungsbereich
+| § 1 | Anwendungsbereich |
+Zweiter Unterabschnitt
+Befugnis
+| § 2 | Geschäftsmäßige Hilfeleistung |
+| § 3 | Befugnis zu unbeschränkter Hilfeleistung in Steuersachen |
+| § 3a | Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen |
+| § 3b | Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen |
+| § 3c | Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen |
+| § 4 | Befugnis zu beschränkter Hilfeleistung in Steuersachen |
+Dritter Unterabschnitt
+Verbot und Untersagung
+| § 5 | Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen |
+| § 6 | Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen |
+| § 7 | Untersagung der Hilfeleistung in Steuersachen |
+Vierter Unterabschnitt
+Sonstige Vorschriften
+| § 8 | Werbung |
+| § 9 | Vergütung |
+| § 9a | Erfolgshonorar |
+| § 10 | Mitteilungen über Pflichtverletzungen und andere Informationen |
+| § 10a | Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen |
+| § 10b | Vorwarnmechanismus |
+| § 11 | Verarbeitung personenbezogener Daten |
+| § 12 | Hilfeleistung im Abgabenrecht fremder Staaten |
+Zweiter Abschnitt
+Lohnsteuerhilfevereine
+Erster Unterabschnitt
+Aufgaben
+| § 13 | Zweck und Tätigkeitsbereich |
+Zweiter Unterabschnitt
+Anerkennung
+| § 14 | Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit |
+| § 15 | Anerkennungsbehörde, Satzung |
+| § 16 | Gebühren für die Anerkennung |
+| § 17 | Urkunde |
+| § 18 | Bezeichnung „Lohnsteuerhilfeverein“ |
+| § 19 | Erlöschen der Anerkennung |
+| § 20 | Rücknahme und Widerruf der Anerkennung |
+Dritter Unterabschnitt
+Pflichten
+| § 21 | Aufzeichnungspflicht |
+| § 22 | Geschäftsprüfung |
+| § 23 | Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen |
+| § 24 | Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 |
+| § 25 | Haftungsausschluss, Haftpflichtversicherung |
+| § 26 | Allgemeine Pflichten der Lohnsteuerhilfevereine |
+Vierter Unterabschnitt
+Aufsicht
+| § 27 | Aufsichtsbehörde |
+| § 28 | Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde |
+| § 29 | Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen |
+| § 30 | Verzeichnis der Lohnsteuerhilfevereine |
+Fünfter Unterabschnitt
+Verordnungsermächtigung
+| § 31 | Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine |
+Zweiter Teil
+Steuerberaterordnung
+Erster Abschnitt
+Allgemeine Vorschriften
+| § 32 | Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften |
+| § 33 | Inhalt der Tätigkeit |
+| § 34 | Berufliche Niederlassung, weitere Beratungsstellen |
+Zweiter Abschnitt
+Voraussetzungen für die Berufsausübung
+Erster Unterabschnitt
+Persönliche Voraussetzungen
+| § 35 | Zulassung zur Prüfung, Befreiung von der Prüfung, organisatorische Durchführung der Prüfung, Abnahme der Prüfung, Wiederholung der Prüfung und Besetzung des Prüfungsausschusses |
+| § 36 | Voraussetzungen für die Zulassung zur Prüfung |
+| § 37 | Steuerberaterprüfung |
+| § 37a | Prüfung in Sonderfällen |
+| § 37b | Zuständigkeit für die Zulassung zur Prüfung, für die Befreiung von der Prüfung, für die organisatorische Durchführung der Prüfung, für die Abnahme der Prüfung und für die Berufung und Abberufung des Prüfungsausschusses |
+| § 38 | Voraussetzungen für die Befreiung von der Prüfung |
+| § 38a | Verbindliche Auskunft |
+| § 39 | Gebühren für Zulassung, Prüfung, Befreiung und verbindliche Auskunft, Kostenerstattung |
+| § 39a | Rücknahme von Entscheidungen |
+Zweiter Unterabschnitt
+Bestellung
+| § 40 | Bestellende Steuerberaterkammer, Bestellungsverfahren |
+| § 41 | Berufsurkunde |
+| § 42 | Steuerbevollmächtigter |
+| § 43 | Berufsbezeichnung |
+| § 44 | Bezeichnung „Landwirtschaftliche Buchstelle“ |
+| § 45 | Erlöschen der Bestellung |
+| § 46 | Rücknahme und Widerruf der Bestellung |
+| § 47 | Erlöschen der Befugnis zur Führung der Berufsbezeichnung |
+| § 48 | Wiederbestellung |
+Dritter Unterabschnitt
+Steuerberatungsgesellschaft
+| § 49 | Rechtsform der Gesellschaft, anerkennende Steuerberaterkammer, Gesellschaftsvertrag |
+| § 50 | Voraussetzungen für die Anerkennung |
+| § 50a | Kapitalbindung |
+| § 51 | Gebühren für die Anerkennung |
+| § 52 | Urkunde |
+| § 53 | Bezeichnung „Steuerberatungsgesellschaft“ |
+| § 54 | Erlöschen der Anerkennung |
+| § 55 | Rücknahme und Widerruf der Anerkennung |
+Dritter Abschnitt
+Rechte und Pflichten
+| § 56 | Weitere berufliche Zusammenschlüsse |
+| § 57 | Allgemeine Berufspflichten |
+| § 57a | Werbung |
+| § 58 | Tätigkeit als Angestellter |
+| § 59 | Steuerberater oder Steuerbevollmächtigte im öffentlich-rechtlichen Dienst- oder Amtsverhältnis |
+| § 60 | Eigenverantwortlichkeit |
+| § 61 | Ehemalige Angehörige der Finanzverwaltung |
+| § 62 | Verschwiegenheitspflicht beschäftigter Personen |
+| § 62a | Inanspruchnahme von Dienstleistungen |
+| § 63 | Mitteilung der Ablehnung eines Auftrags |
+| § 64 | Gebührenordnung |
+| § 65 | Pflicht zur Übernahme einer Prozessvertretung |
+| § 65a | Pflicht zur Übernahme der Beratungshilfe |
+| § 66 | Handakten |
+| § 67 | Berufshaftpflichtversicherung |
+| § 67a | Vertragliche Begrenzung von Ersatzansprüchen |
+| § 68 | (weggefallen) |
+| § 69 | Bestellung eines allgemeinen Vertreters |
+| § 70 | Bestellung eines Praxisabwicklers |
+| § 71 | Bestellung eines Praxistreuhänders |
+| § 72 | Steuerberatungsgesellschaften |
+Vierter Abschnitt
+Organisation des Berufs
+| § 73 | Steuerberaterkammer |
+| § 74 | Mitgliedschaft |
+| § 75 | Gemeinsame Steuerberaterkammer |
+| § 76 | Aufgaben der Steuerberaterkammer |
+| § 77 | Vorstand |
+| § 77a | Abteilungen des Vorstandes |
+| § 77b | Ehrenamtliche Tätigkeit des Vorstandes |
+| § 78 | Satzung |
+| § 79 | Beiträge und Gebühren |
+| § 80 | Pflicht zum Erscheinen vor der Steuerberaterkammer |
+| § 80a | Zwangsgeld bei Verletzung von Mitwirkungspflichten |
+| § 81 | Rügerecht des Vorstands |
+| § 82 | Antrag auf berufsgerichtliche Entscheidung |
+| § 83 | Pflicht der Vorstandsmitglieder zur Verschwiegenheit |
+| § 84 | Arbeitsgemeinschaft |
+| § 85 | Bundessteuerberaterkammer |
+| § 86 | Aufgaben der Bundessteuerberaterkammer |
+| § 86a | Zusammensetzung und Arbeitsweise der Satzungsversammlung |
+| § 86b | Steuerberaterverzeichnis |
+| § 87 | Beiträge zur Bundessteuerberaterkammer |
+| § 87a | Wirtschaftsplan, Rechnungslegung |
+| § 88 | Staatsaufsicht |
+Fünfter Abschnitt
+Berufsgerichtsbarkeit
+Erster Unterabschnitt
+Die berufsgerichtliche
+Ahndung von Pflichtverletzungen
+| § 89 | Ahndung einer Pflichtverletzung |
+| § 90 | Berufsgerichtliche Maßnahmen |
+| § 91 | Rüge und berufsgerichtliche Maßnahme |
+| § 92 | Anderweitige Ahndung |
+| § 93 | Verjährung der Verfolgung einer Pflichtverletzung |
+| § 94 | Vorschriften für Mitglieder der Steuerberaterkammer, die nicht Steuerberater oder Steuerbevollmächtigte sind |
+Zweiter Unterabschnitt
+Die Gerichte
+| § 95 | Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim Landgericht |
+| § 96 | Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Oberlandesgericht |
+| § 97 | Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof |
+| § 98 | (weggefallen) |
+| § 99 | Steuerberater oder Steuerbevollmächtigte als Beisitzer |
+| § 100 | Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung |
+| § 101 | Enthebung vom Amt des Beisitzers |
+| § 102 | Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit |
+| § 103 | Reihenfolge der Teilnahme an den Sitzungen |
+| § 104 | Entschädigung der ehrenamtlichen Richter |
+Dritter Unterabschnitt
+Verfahrensvorschriften
+Erster Teilabschnitt
+Allgemeines
+| § 105 | Vorschriften für das Verfahren |
+| § 106 | Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten |
+| § 107 | Verteidigung |
+| § 108 | Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten |
+| § 109 | Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren |
+| § 110 | Verhältnis des berufsgerichtlichen Verfahrens zu den Verfahren anderer Berufsgerichtsbarkeiten |
+| § 111 | Aussetzung des berufsgerichtlichen Verfahrens |
+Zweiter Teilabschnitt
+Das Verfahren im ersten Rechtszug
+| § 112 | Örtliche Zuständigkeit |
+| § 113 | Mitwirkung der Staatsanwaltschaft |
+| § 114 | Einleitung des berufsgerichtlichen Verfahrens |
+| § 115 | Gerichtliche Entscheidung über die Einleitung des Verfahrens |
+| § 116 | Antrag des Steuerberaters oder Steuerbevollmächtigten auf Einleitung des berufsgerichtlichen Verfahrens |
+| § 117 | Inhalt der Anschuldigungsschrift |
+| § 118 | Entscheidung über die Eröffnung des Hauptverfahrens |
+| § 119 | Rechtskraftwirkung eines ablehnenden Beschlusses |
+| § 120 | Zustellung des Eröffnungsbeschlusses |
+| § 121 | Hauptverhandlung trotz Ausbleibens des Steuerberaters oder Steuerbevollmächtigten |
+| § 122 | Nichtöffentliche Hauptverhandlung |
+| § 123 | Beweisaufnahme durch einen ersuchten Richter |
+| § 124 | Verlesen von Protokollen |
+| § 125 | Entscheidung |
+Dritter Teilabschnitt
+Rechtsmittel
+| § 126 | Beschwerde |
+| § 127 | Berufung |
+| § 128 | Mitwirkung der Staatsanwaltschaft im zweiten Rechtszug |
+| § 129 | Revision |
+| § 130 | Einlegung der Revision und Verfahren |
+| § 131 | Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof |
+Vierter Teilabschnitt
+Die Sicherung von Beweisen
+| § 132 | Anordnung der Beweissicherung |
+| § 133 | Verfahren |
+Fünfter Teilabschnitt
+Das Berufs- und Vertretungsverbot
+| § 134 | Voraussetzung des Verbots |
+| § 135 | Mündliche Verhandlung |
+| § 136 | Abstimmung über das Verbot |
+| § 137 | Verbot im Anschluss an die Hauptverhandlung |
+| § 138 | Zustellung des Beschlusses |
+| § 139 | Wirkungen des Verbots |
+| § 140 | Zuwiderhandlungen gegen das Verbot |
+| § 141 | Beschwerde |
+| § 142 | Außerkrafttreten des Verbots |
+| § 143 | Aufhebung des Verbots |
+| § 144 | Mitteilung des Verbots |
+| § 145 | Bestellung eines Vertreters |
+Vierter Unterabschnitt
+Die Kosten in
+dem berufsgerichtlichen
+und in dem Verfahren bei
+Anträgen auf berufsgerichtliche
+Entscheidung über die Rüge. Die
+Vollstreckung der berufsgerichtlichen
+Maßnahmen und der Kosten. Die Tilgung.
+| § 146 | Gerichtskosten |
+| § 147 | Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens |
+| § 148 | Kostenpflicht des Verurteilten |
+| § 149 | Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge |
+| § 150 | Haftung der Steuerberaterkammer |
+| § 151 | Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten |
+| § 152 | Tilgung |
+Fünfter Unterabschnitt
+Für die
+Berufsgerichtsbarkeit
+anzuwendende Vorschriften
+| § 153 | Für die Berufsgerichtsbarkeit anzuwendende Vorschriften |
+Sechster Abschnitt
+Übergangsvorschriften
+| § 154 | Bestehende Gesellschaften |
+| § 155 | Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes |
+| § 156 | Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes |
+| § 157 | Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater |
+| § 157a | Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes |
+| § 157b | Anwendungsvorschrift |
+Siebenter Abschnitt
+Verordnungsermächtigung
+| § 158 | Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften |
+Dritter Teil
+Zwangsmittel, Ordnungswidrigkeiten
+Erster Abschnitt
+Vollstreckung wegen
+Handlungen und Unterlassungen
+| § 159 | Zwangsmittel |
+Zweiter Abschnitt
+Ordnungswidrigkeiten
+| § 160 | Unbefugte Hilfeleistung in Steuersachen |
+| § 161 | Schutz der Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“ und „Landwirtschaftliche Buchstelle“ |
+| § 162 | Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten |
+| § 163 | Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient |
+| § 164 | Verfahren |
+Vierter Teil
+Schlussvorschriften
+| § 164a | Verwaltungsverfahren und finanzgerichtliches Verfahren |
+| § 164b | Gebühren |
+| § 164c | Laufbahngruppenregelungen der Länder |
+| § 165 | Ermächtigung |
+| § 166 | Fortgeltung bisheriger Vorschriften |
+| § 167 | Freie und Hansestadt Hamburg |
+| § 168 | Inkrafttreten des Gesetzes |
+| Anlage(zu § 146 Satz 1) | Gebührenverzeichnis |

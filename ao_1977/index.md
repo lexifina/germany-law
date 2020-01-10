@@ -241,6 +241,7 @@ und der Sachverständigen
 - [§ 117a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union](0117a.md)
 - [§ 117b Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten](0117b.md)
 - [§ 117c Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten](0117c.md)
+- [§ 117d Statistiken über die zwischenstaatliche Amts- und Rechtshilfe](0117d.md)
 
 ### Zweiter Abschnitt Verwaltungsakte
 
