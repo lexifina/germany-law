@@ -27,22 +27,16 @@
 | § 14 | Teilnetze |
 | § 15 | Ermittlung der Netzentgelte |
 | § 16 | Verprobung |
-| § 17 | Änderungen der Netzentgelte |
+| § 17 | (weggefallen) |
 | § 18 | Besondere Regeln für örtliche Verteilernetze |
 | § 19 | Besondere Regeln für Fernleitungsnetze |
 | § 20 | Sonderformen der Netznutzung |
+| § 20a |  |
+| § 20b |  |
+| § 21 | Netzentgeltbildung bei Anreizregulierung |
 | Teil 3 |
-|  | Vergleichsverfahren |
-|  |  | Abschnitt 1 |
-|  |  |  | Vergleichsverfahren bei kostenorientierter Ermittlung der Netzentgelte |
-| § 21 | Verfahren |
-| § 22 | Vergleich |
-| § 23 | Strukturklassen |
-| § 24 | Kostenstruktur |
-| § 25 | Mitteilungspflichten gegenüber der Regulierungsbehörde |
-|  |  | Abschnitt 2 |
-|  |  |  | Vergleichsverfahren bei der Ermittlung der Netzentgelte gemäß § 20 |
-| § 26 | Vergleich der Fernleitungsnetzbetreiber |
+|  | (weggefallen) |  |
+| §§ 22 bis 26 | (weggefallen) |
 | Teil 4 |
 |  | Pflichten der Netzbetreiber |
 | § 27 | Veröffentlichungspflichten |

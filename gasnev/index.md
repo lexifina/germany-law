@@ -34,29 +34,17 @@
 - [§ 14 Teilnetze](0014.md)
 - [§ 15 Ermittlung der Netzentgelte](0015.md)
 - [§ 16 Verprobung](0016.md)
-- [§ 17 Änderungen der Netzentgelte](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Besondere Regeln für örtliche Verteilernetze](0018.md)
 - [§ 19 Besondere Regeln für Fernleitungsnetze](0019.md)
 - [§ 20 Sonderformen der Netznutzung](0020.md)
 - [§ 20a](0020a.md)
 - [§ 20b](0020b.md)
+- [§ 21 Netzentgeltbildung bei Anreizregulierung](0021.md)
 
-## Teil 3 Vergleichsverfahren
+## Teil 3 (weggefallen)
 
-
-### Abschnitt 1 Vergleichsverfahren bei kostenorientierter
-Ermittlung der Netzentgelte
-
-- [§ 21 Verfahren](0021.md)
-- [§ 22 Vergleich](0022.md)
-- [§ 23 Strukturklassen](0023.md)
-- [§ 24 Kostenstruktur](0024.md)
-- [§ 25 Mitteilungspflichten gegenüber der Regulierungsbehörde](0025.md)
-
-### Abschnitt 2 Vergleichsverfahren bei der Ermittlung der
-Netzentgelte gemäß § 20
-
-- [§ 26 Vergleich der Fernleitungsnetzbetreiber](0026.md)
+- [(XXXX) §§ 22 bis 26 (weggefallen)](xxxx-22-bis-26.md)
 
 ## Teil 4 Pflichten der Netzbetreiber
 
