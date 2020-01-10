@@ -31,5 +31,6 @@
 | § 21 | Verfahrensgrundsätze |
 | § 22 | Kosten |
 |  |
-| Anlage (zu § 1 Absatz 3) |
-| Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2016 |
+| Anlage |
+| (zu § 1 Absatz 3) |
+| Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020 |

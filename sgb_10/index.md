@@ -199,8 +199,7 @@ Leistungsträger mit Dritten
 Leistungsträger untereinander
 
 - [§ 102 Anspruch des vorläufig leistenden Leistungsträgers](0102.md)
-- [§ 103 Anspruch des Leistungsträgers, dessen Leistungsverpflichtung
-nachträglich entfallen ist](0103.md)
+- [§ 103 Anspruch des Leistungsträgers, dessen Leistungsverpflichtung nachträglich entfallen ist](0103.md)
 - [§ 104 Anspruch des nachrangig verpflichteten Leistungsträgers](0104.md)
 - [§ 105 Anspruch des unzuständigen Leistungsträgers](0105.md)
 - [§ 106 Rangfolge bei mehreren Erstattungsberechtigten](0106.md)

@@ -1,36 +1,18 @@
-# Anlage 2 (zu § 6 Abs. 2)
+# Anlage 2 (zu § 8)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2001, 2254;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-...............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin"
-Herr/Frau .....................................................................
-geboren am ............................. in ...................................
-hat am ................................. die Prüfung zum anerkannten Abschluss
-Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin" vom
-23. August 2001 (BGBl. I S. 2250), die zuletzt durch Artikel 13 der Verordnung
-vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-Note
-Büroorganisation und -verwaltung ....
-Personalwirtschaft und Mandantenbetreuung ....
-Mandatsbetreuung im Kosten-, Gebühren- und
-Prozessrecht ....
-Mandatsbetreuung in der Zwangsvollstreckung
-und im materiellen Recht ....
-Praxisorientiertes Situationsgespräch ....
-(Im Fall des § 5: "Der Prüfungsteilnehmer wurde gemäß § 5 im
-Hinblick auf die am ................................. in ......................
-vor .......... abgelegte Prüfung von der Prüfungsleistung .... freigestellt.")
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum ...............................................
-Unterschrift(en) ....................................
-(Siegel der zuständigen Stelle)
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung der Handlungsbereiche der schriftlichen Prüfung und Bewertung als Note,
+2. Benennung des praxisorientierten Situationsgesprächs und Bewertung als Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 5,
+7. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 11.

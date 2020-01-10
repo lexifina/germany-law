@@ -36,9 +36,10 @@ Ausfuhr](0012.md)
 
 ## - Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes
 
-- [§ 17a Nachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017a.md)
-- [§ 17b Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen](0017b.md)
-- [§ 17c Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen](0017c.md)
+- [§ 17a Gelangensvermutung beiinnergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017a.md)
+- [§ 17b Gelangensnachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017b.md)
+- [§ 17c Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen](0017c.md)
+- [§ 17d Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen](0017d.md)
 
 ## - Zu § 4 Nr. 2 und § 8 des Gesetzes
 
@@ -57,7 +58,7 @@ und für die Luftfahrt](0018.md)
 
 ## - Zu § 4 Nr. 18 des Gesetzes
 
-- [§ 23 Amtlich anerkannte Verbände der freien Wohlfahrtspflege](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 
 ## - Zu § 4a des Gesetzes
 

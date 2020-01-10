@@ -1,0 +1,19 @@
+# Anlage 2 (zu § 16)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung und Bewertung der Prüfungsbereiche nach § 5 Absatz 1 zur Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“ in Punkten,
+2. die zusammengefasste Bewertung der Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“ in Punkten und als Note,
+3. Benennung der Handlungsbereiche und Bewertung der schriftlichen Situationsaufgaben und des situationsbezogenen Fachgesprächs zur Teilprüfung „Handlungsspezifische Qualifikationen“ in Punkten und als Note,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Befreiungen nach § 13,
+8. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 3 Absatz 1.

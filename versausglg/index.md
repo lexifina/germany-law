@@ -109,6 +109,10 @@
 
 - [§ 47 Berechnung des korrespondierenden Kapitalwerts](0047.md)
 
+## Teil 2a Ergänzende Vorschriften
+
+- [§ 47a Erstattung nach interner Teilung von Anrechten aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis](0047a.md)
+
 ## Teil 3 Übergangsvorschriften
 
 - [§ 48 Allgemeine Übergangsvorschrift](0048.md)

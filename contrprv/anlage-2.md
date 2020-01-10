@@ -1,39 +1,19 @@
-# Anlage 2 (zu § 6 Abs. 3)
+# Anlage 2 (zu § 8)Zeugnisinhalte
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 1583;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-..............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-Herr/Frau ....................................................................
-geboren am ............................. in ..................................
-hat am ................................. die Prüfung zum anerkannten Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
-Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579),
-die durch Artikel 63 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
-geändert worden ist, mit folgenden Ergebnissen bestanden:
-Punkte *) Note
-1. Kostenrechnung und Kostenmanagement ......... .........
-2. Unternehmensplanung und Budgetierung ......... .........
-3. Jahresabschlussanalyse ......... .........
-4. Berichtswesen und Informationsmanagement ......... .........
-5. Projektarbeit ......... .........
-Thema der Projektarbeit: ..................
-6. Präsentation und Fachgespräch ......... .........
-(Im Fall des § 5: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde gemäß
-§ 5 im Hinblick auf die am ......... in ............... vor ..................
-abgelegte Prüfung in dem Handlungsbereich ....................................
-freigestellt.")
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2) in Verbindung mit der Bekanntmachung
-vom 26. März 2014 (BAnz AT 02.04.2014 B1).
-Datum .....................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
-*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde: ................
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung und Bewertung der Handlungsbereiche nach § 3 Absatz 1 Nummer 1 bis 4 mit Punkten und Note,
+2. Benennung der Projektarbeit mit Punkten und Note,
+3. Benennung des Themas der Projektarbeit,
+4. Benennung von Präsentation und Fachgespräch mit Punkten und Note,
+5. die errechnete Gesamtpunktzahl,
+6. die Gesamtnote als Dezimalzahl,
+7. die Gesamtnote in Worten,
+8. Befreiungen nach § 5.

@@ -139,6 +139,8 @@
 - [§ 60 Verbot der Abschiebung](0060.md)
 - [§ 60a Vorübergehende Aussetzung der Abschiebung (Duldung)](0060a.md)
 - [§ 60b Duldung für Personen mit ungeklärter Identität](0060b.md)
+- [§ 60c Ausbildungsduldung](0060c.md)
+- [§ 60d Beschäftigungsduldung](0060d.md)
 - [§ 61 Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen](0061.md)
 - [§ 62 Abschiebungshaft](0062.md)
 - [§ 62a Vollzug der Abschiebungshaft](0062a.md)

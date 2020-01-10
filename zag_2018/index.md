@@ -120,6 +120,10 @@
 - [§ 57 Zugang zu Zahlungssystemen](0057.md)
 - [§ 58 Aufgaben der Bundesanstalt bei Kartenzahlverfahren, Ausnahmen für neue Zahlverfahren im Massenzahlungsverkehr; Verordnungsermächtigung](0058.md)
 
+### Unterabschnitt 5a Technische Infrastrukturleistungen
+
+- [§ 58a Zugang zu technischen Infrastrukturleistungen bei der Erbringung von Zahlungsdiensten oder dem Betreiben des E-Geld-Geschäfts](0058a.md)
+
 ## Abschnitt 11 Datenschutz
 
 - [§ 59 Datenschutz](0059.md)

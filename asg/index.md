@@ -38,10 +38,8 @@ verpflichteten Person
 
 - [§ 14 Inhalt des durch Verpflichtung begründeten
 Arbeitsverhältnisses](0014.md)
-- [§ 15 Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis
-in der privaten Wirtschaft](0015.md)
-- [§ 16 Einfluß der Verpflichtung auf ein Dienst- oder
-Arbeitsverhältnis im öffentlichen Dienst](0016.md)
+- [§ 15 Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis in der privaten Wirtschaft](0015.md)
+- [§ 16 Einfluß der Verpflichtung auf ein Dienst- oder Arbeitsverhältnis im öffentlichen Dienst](0016.md)
 - [§ 17 Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben](0017.md)
 
 ### 3. Unterabschnitt Sozialversicherung,

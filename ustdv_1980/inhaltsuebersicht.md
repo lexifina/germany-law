@@ -30,9 +30,10 @@
 |  |
 | Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes |
 |  |  |
-| § 17a | Nachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen |
-| § 17b | Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen |
-| § 17c | Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen |
+| § 17a | Gelangensvermutung bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen |
+| § 17b | Gelangensnachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen |
+| § 17c | Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen |
+| § 17d | Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen |
 |  |
 | Zu § 4 Nr. 2 und § 8 des Gesetzes |
 |  |  |
@@ -50,7 +51,7 @@
 |  |
 | Zu § 4 Nr. 18 des Gesetzes |
 |  |  |
-| § 23 | Amtlich anerkannte Verbände der freien Wohlfahrtspflege |
+| § 23 | (weggefallen) |
 |  |
 | Zu § 4a des Gesetzes |
 |  |  |

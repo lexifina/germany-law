@@ -85,9 +85,9 @@
 - [§ 61 Übermittlung der Daten aus den Registern](0061.md)
 - [§ 62 Abgleich der Daten mit dem Fahreignungsregister](0062.md)
 - [§ 63 Übermittlung von Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes](0063.md)
-- [§ 64 Verarbeitung und Nutzung der Daten für wissenschaftliche und statistische Zwecke](0064.md)
+- [§ 64 Weiterverarbeitung der Daten für wissenschaftliche und statistische Zwecke](0064.md)
 - [§ 65 Datenvergleich zur Beseitigung von Fehlern](0065.md)
-- [§ 66 Verarbeitung und Nutzung der Daten durch den Empfänger](0066.md)
+- [§ 66 Weiterverarbeitung der Daten durch den Empfänger](0066.md)
 - [§ 67 Löschung der Daten](0067.md)
 
 ## Abschnitt 8 Ermächtigungsgrundlagen, Übergangs- und Schlussvorschriften

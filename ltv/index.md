@@ -8,6 +8,4 @@
 - [§ 6](0006.md)
 - [§ 7](0007.md)
 - [Anlage 1 (zu § 1 Absatz 1)Verzeichnis und Tabelle der Lotsabgaben](anlage-1.md)
-- [Anlage 1a (zu § 1 Absatz 1a)](anlage-1a.md)
-- [Anlage 1b (zu § 1 Absatz 1a)](anlage-1b.md)
 - [Anlage 2](anlage-2.md)

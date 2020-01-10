@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 13 Absatz 1 Nummer 5)
+# Anlage 5 (zu § 13 Absatz 1 Satz 1 Nummer 3)Zeichen Diesel
 
-|  |
-| Ø = 85 mm bis 100 mm |
+|  |  |
+| Teil a | Teil b |

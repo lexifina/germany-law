@@ -1,34 +1,30 @@
-# Anlage 3 (zu § 4 Abs. 2)
+# Anlage 3 (zu § 4 Abs. 3)
 
-| (Fundstelle des Originaltextes: BGBl. I 2000, 170) |
-| Dauer und Inhalt des Fortbildungslehrgangs |
-| 1. | Grundlagen | 80 Unterrichtsstunden |
-|  | 1.1 | Fachtheorie |
-|  |  | - | Fachrechnen |
-|  |  | - | Fachzeichnen |
-|  | 1.2 | Gerätekunde |
-|  |  | - | Kenntnisse über Aufbau und Wirkungsweise von Leicht- und Helmtauchgeräten |
-|  |  | - | Kenntnisse in der Handhabung von Unterwasserarbeitsgeräten |
-|  | 1.3 | Arbeitskunde |
-|  |  | - | Kenntnisse in den Möglichkeiten der Signalgebung |
-|  |  | - | Grundkenntnisse über die Durchführung der verschiedenen Unterwasserarbeiten (z.B. Suchen, Hebearbeiten, Bergung, UW-Schweißen und Schneiden) |
-|  | 1.4 | Medizinische Grundlagen |
-|  |  | - | Grundkenntnisse über die Gesundheitsrisiken für den Taucher beim Abtauchen, Aufenthalt unter Wasser, Auf- und Austauchen |
-|  | 1.5 | Rechtsvorschriften |
-|  |  | - | Kenntnisse der einschlägigen Unfallverhütungsvorschriften und vorhandenen Regeln für Sicherheits- und Gesundheitsschutz |
-| 2. | Schweißen | 80 Unterrichtsstunden |
-|  | Schweißkursus gemäß DVS-Richtlinie 1123 - Lichtbogenhandschweißen - mit Nachweis der Basisqualifikation nach DIN EN 287/Teil 1 |
-| 3. | Tauchmedizin | 60 Unterrichtsstunden |
-|  | 3.1 | Wirkung der Gase unter Überdruck auf den Taucher |
-|  | 3.2 | Anatomie, Blutkreislauf, Atmung, Nervensystem, Taucherkrankungen, Belastung beim Tauchen |
-|  | 3.3 | Taucherhygiene |
-|  | 3.4 | Erste Hilfe |
-| 4. | Anwendungskenntnisse | 100 Unterrichtsstunden |
-|  | 4.1 | Anwendung von Arbeitstechniken unter Wasser |
-|  | 4.2 | Druckkammertechnik/Behandlung (50 m Tiefe, O(tief)2 Verträglichkeit) |
-|  | 4.3 | Austauchtabellenhandhabung |
-|  | 4.4 | Notfallmaßnahmen |
-|  | 4.5 | Simulation von Notfällen |
-|  | 4.6 | Durchführung von Taucherarbeiten in größeren Tiefen (mindestens 35 m) |
-|  | 4.7 | Atemgas und Atemgasgemische |
-|  | 4.8 | Fachrechnen/Fachzeichnen |
+| (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen Änderungen vgl. Fußnote) |
+| Dauer und Inhalt der betrieblichen Fortbildung |
+| 1. | Durchführung von Arbeiten mit autonomen und schlauchversorgten Tauchgeräten mindestens 200 Taucherstunden (davon mindesten 20 Stunden mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät) |
+| 2. | Vermittlung von Kenntnissen in |
+|  | 2.1 | Tauchgerätekunde (marktorientiert) |
+|  | 2.2 | Arbeitsgerätekunde (hydraulisch, pneumatisch, elektrisch) |
+|  | 2.3 | Wartungs-Inspektionskunde |
+|  | 2.4 | Seemannschaft |
+| 3. | Vermittlung von Fertigkeiten bei Unterwasserarbeiten in verschiedenen Tiefen, z.B. |
+|  | 3.1 | Schweißen, Schneiden |
+|  | 3.2 | Betonieren |
+|  | 3.3 | Schalungsarbeiten |
+|  | 3.4 | Spülarbeiten |
+|  | 3.5 | Messen, Durchführen von Video-, Foto- und Ultraschallaufnahmen |
+|  | 3.6 | Hebearbeiten |
+|  | 3.7 | Montieren |
+|  | 3.8 | Suchen |
+|  | 3.9 | Abdichten |
+|  | 3.10 | Konservieren und Reinigen |
+| 4. | Arbeiten unter erschwerten Bedingungen, z.B. |
+|  | 4.1 | Arbeiten bei Strömung |
+|  | 4.2 | "Schwarzem Wasser" |
+|  | 4.3 | Nachttauchen |
+| 5. | Durchführung von Notfallmaßnahmen, z.B. |
+|  | 5.1 | Bergung eines verunfallten Tauchers |
+|  | 5.2 | Erstellung einer Rettungskette |
+|  | 5.3 | Sofortmaßnahmen am Unfallort |
+|  | 5.4 | Transport |

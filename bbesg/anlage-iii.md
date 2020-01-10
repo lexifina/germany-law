@@ -11,6 +11,7 @@ Die Stellenzulage wird nicht neben der bei der Deutschen Bundesbank gewährten B
 (3)
 Richter und Staatsanwälte erhalten während der Verwendung bei obersten Behörden eines Landes, das für die Richter und Staatsanwälte für die Verwendung bei seinen obersten Behörden eine Stellenzulage vorsieht, die Stellenzulage in der nach dem Besoldungsrecht dieses Landes bestimmten Höhe.
 Besoldungsgruppe R 1
+(weggefallen)
 Besoldungsgruppe R 2
 Richter am Bundespatentgericht
 Vorsitzender Richter am Truppendienstgericht
@@ -21,8 +22,9 @@ Vorsitzender Richter am Bundespatentgericht
 Präsident des Truppendienstgerichts
 Oberstaatsanwalt beim Bundesgerichtshof
 Besoldungsgruppe R 4
-Vizepräsident des Bundespatentgerichts
+(weggefallen)
 Besoldungsgruppe R 5
+Vizepräsident des Bundespatentgerichts
 Besoldungsgruppe R 6
 Richter am Bundesarbeitsgericht
 Richter am Bundesfinanzhof
@@ -33,6 +35,7 @@ Bundesanwalt beim Bundesgerichtshof
 Besoldungsgruppe R 7
 Bundesanwalt beim Bundesgerichtshof
 – als Abteilungsleiter bei der Bundesanwaltschaft –
+– als der ständige Vertreter des Generalbundesanwalts –
 Besoldungsgruppe R 8
 Vorsitzender Richter am Bundesarbeitsgericht
 Vorsitzender Richter am Bundesfinanzhof

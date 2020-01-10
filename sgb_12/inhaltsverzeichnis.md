@@ -21,7 +21,7 @@
 | § 11 | Beratung und Unterstützung, Aktivierung |
 | § 12 | Leistungsabsprache |
 | § 13 | Leistungen für Einrichtungen, Vorrang anderer Leistungen |
-| § 14 | Vorrang von Prävention und Rehabilitation |
+| § 14 | (weggefallen) |
 | § 15 | Vorbeugende und nachgehende Leistungen |
 | § 16 | Familiengerechte Leistungen |
 |  |
@@ -46,6 +46,7 @@
 | § 27 | Leistungsberechtigte |
 | § 27a | Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze |
 | § 27b | Notwendiger Lebensunterhalt in Einrichtungen |
+| § 27c | Sonderregelung für den Lebensunterhalt |
 | § 28 | Ermittlung der Regelbedarfe |
 | § 28a | Fortschreibung der Regelbedarfsstufen |
 | § 29 | Festsetzung und Fortschreibung der Regelsätze |
@@ -94,7 +95,8 @@
 | § 41a | Vorübergehender Auslandsaufenthalt |
 | § 42 | Bedarfe |
 | § 42a | Bedarfe für Unterkunft und Heizung |
-| § 43 | Einsatz von Einkommen und Vermögen, Berücksichtigung von Unterhaltsansprüchen |
+| § 42b | Mehrbedarfe |
+| § 43 | Einsatz von Einkommen und Vermögen |
 |  |
 |  | Zweiter Abschnitt |
 |  | Verfahrensbestimmungen |
@@ -120,17 +122,16 @@
 | § 51 | Hilfe bei Sterilisation |
 | § 52 | Leistungserbringung, Vergütung |
 |  |
-| Sechstes Kapitel |
-| Eingliederungshilfe für behinderte Menschen |
-| § 53 | Leistungsberechtigte und Aufgabe |
-| § 54 | Leistungen der Eingliederungshilfe |
-| § 55 | Sonderregelung für behinderte Menschen in Einrichtungen |
+| Sechstes Kapitel (weggefallen) |
+|  |
+| § 53 | (weggefallen) |
+| § 54 | (weggefallen) |
+| § 55 | (weggefallen) |
 | § 56 | (weggefallen) |
-| § 57 | Persönliches Budget |
+| § 57 | (weggefallen) |
 | § 58 | (weggefallen) |
-| § 59 | Aufgaben des Gesundheitsamtes |
-| § 60 | Verordnungsermächtigung |
-| § 60a | Sonderregelungen zum Einsatz von Vermögen |
+| § 59 | (weggefallen) |
+| § 60 | (weggefallen) |
 |  |
 | Siebtes Kapitel |
 | Hilfe zur Pflege |
@@ -172,14 +173,17 @@
 | § 74 | Bestattungskosten |
 |  |
 | Zehntes Kapitel |
-| Einrichtungen |
-| § 75 | Einrichtungen und Dienste |
+| Vertragsrecht |
+| § 75 | Allgemeine Grundsätze |
 | § 76 | Inhalt der Vereinbarungen |
-| § 77 | Abschluss von Vereinbarungen |
-| § 78 | Außerordentliche Kündigung der Vereinbarungen |
-| § 79 | Rahmenverträge |
-| § 80 | Schiedsstelle |
-| § 81 | Verordnungsermächtigungen |
+| § 76a | Zugelassene Pflegeeinrichtungen |
+| § 77 | Verfahren und Inkrafttreten der Vereinbarung |
+| § 77a | Verbindlichkeit der vereinbarten Vergütung |
+| § 78 | Wirtschaftlichkeits- und Qualitätsprüfung |
+| § 79 | Kürzung der Vergütung |
+| § 79a | Außerordentliche Kündigung der Vereinbarungen |
+| § 80 | Rahmenverträge |
+| § 81 | Schiedsstelle |
 |  |
 | Elftes Kapitel |
 | Einsatz des Einkommens und des Vermögens |
@@ -206,7 +210,6 @@
 |  | Vierter Abschnitt |
 |  | Einschränkung der Anrechnung |
 | § 92 | Anrechnung bei behinderten Menschen |
-| § 92a | Einkommenseinsatz bei Leistungen für Einrichtungen |
 |  |
 |  | Fünfter Abschnitt |
 |  | Verpflichtungen anderer |
@@ -306,21 +309,10 @@
 | § 134 | Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6 |
 | § 135 | Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes |
 | § 136 | Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019 |
+| § 136a | Erstattung des Barbetrages durch den Bund ab dem Jahr 2020 |
 | § 137 | Überleitung in Pflegegrade zum 1. Januar 2017 |
 | § 138 | Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes |
-| § 139 | Übergangsregelung zur Erbringung von Leistungen nach dem Sechsten Kapitel für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
-|  |
-| Siebzehntes Kapitel |
-| Regelungen zur Teilhabe am Arbeitsleben für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
-| § 140 | Teilhabe am Arbeitsleben |
-|  |
-| Achtzehntes Kapitel |
-| Regelungen für die Gesamtplanung für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
-| § 141 | Gesamtplanverfahren |
-| § 142 | Instrumente der Bedarfsermittlung |
-| § 143 | Gesamtplankonferenz |
-| § 143a | Feststellung der Leistungen |
-| § 144 | Gesamtplan |
-| § 145 | Teilhabezielvereinbarung |
+| § 139 | Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020 |
+| § 140 | Übergangsregelung zur Verhinderung einer Zahlungslücke |
 Anlage zu § 28
 Anlage zu § 34

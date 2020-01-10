@@ -1,0 +1,6 @@
+# Art 83
+
+(1)
+Die §§ 285, 286, 289a, 289f, 291, 314, 315a, 324, 325, 325a, 329 und 341s des Handelsgesetzbuchs in der ab dem 1. Januar 2020 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse sowie Lage- und Konzernlageberichte für das nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Dezember 2019 geltenden Fassung sind letztmals anzuwenden auf Jahres- und Konzernabschlüsse sowie Lage- und Konzernlageberichte für das vor dem 1. Januar 2021 beginnende Geschäftsjahr. Wurde für das in Satz 2 bezeichnete Geschäftsjahr oder für ein diesem vorausgehendes Geschäftsjahr bereits ein Vergütungsbericht nach § 162 des Aktiengesetzes erstellt, so sind für dieses Geschäftsjahr nicht die in Satz 2 bezeichneten Vorschriften, sondern die in Satz 1 bezeichneten Vorschriften anzuwenden.
+(2)
+§ 340i Absatz 6 und § 341j Absatz 5 des Handelsgesetzbuchs in der ab dem 1. Januar 2020 geltenden Fassung sind erstmals auf Konzernerklärungen zur Unternehmensführung für das nach dem 31. Dezember 2018 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften können bereits auf Konzernerklärungen zur Unternehmensführung für die nach dem 31. Dezember 2016 beginnenden Geschäftsjahre angewendet werden.

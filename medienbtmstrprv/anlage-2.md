@@ -1,30 +1,25 @@
-# Anlage 2 (zu § 7 Absatz 6)Muster
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-| .......................................................................................... |
-| (Bezeichnung der zuständigen Stelle) |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Meister Medienproduktion Bild und Ton
-Geprüfte Meisterin Medienproduktion Bild und Ton
-| Herr/Frau ........................................................................................................................... |
-| geboren am .................................................. | in ........................................................................... |
-| hat am ............................................................ | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Meister Medienproduktion Bild und Ton
-Geprüfte Meisterin Medienproduktion Bild und Ton
-nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012 (BGBl. I S. 1467), die durch Artikel 47 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-| Gesamtnote ......................... |  |  |  |
-|  |  | Punkte |  | Note |
-| I. | Betriebsmanagement | .................... |  | .................... |
-|  | 1. Schriftliche Aufgaben zum Handlungsbereich Organisation | ..................... |  |  |
-|  | 2. Schriftliche Aufgaben zum Handlungsbereich Führung | ..................... |  |  |
-|  | 3. Rollenspiel zum Handlungsbereich Führung | ..................... |  |  |
-| II. | Projektmanagement | ..................... |  | ................... |
-|  | 4. Mehrteilige schriftliche Situationsaufgabe | ..................... |  |  |
-|  | 5. Fachgespräch | ..................... |  |  |
-|  | (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am ..........................in ................................... vor ...................................... abgelegte Prüfung von diesem Prüfungsbestandteil ...................................................freigestellt.“) |
-| III. | Berufs- und arbeitspädagogische Qualifikationen |  |  |  |
-|  | „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ hat nach § 2 Absatz 2 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen Eignung durch die Prüfung am .................................................. in ............................................vor ........................................ erbracht. |
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum ................................................. |
-| Unterschrift(en) .................................... |
-| (Siegel der zuständigen Stelle) |
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung des Prüfungsteils „Betriebsmanagement“ und Bewertung mit Punkten und Note,
+2. Benennung
+  a) der schriftlichen Aufgaben zum Handlungsbereich Organisation und Bewertung mit Punkten,
+  b) der schriftlichen Aufgaben zum Handlungsbereich Führung und Bewertung mit Punkten,
+  c) des Rollenspiels zum Handlungsbereich Führung und Bewertung mit Punkten,
+3. Benennung des Prüfungsteils „Projektmanagement“ und Bewertung mit Punkten und Note,
+4. Benennung
+  a) der mehrteiligen schriftlichen Situationsaufgabe und Bewertung mit Punkten,
+  b) des Fachgesprächs und Bewertung mit Punkten,
+5. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+6. die Gesamtnote als Dezimalzahl,
+7. die Gesamtnote in Worten,
+8. Befreiungen nach § 6,
+9. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.

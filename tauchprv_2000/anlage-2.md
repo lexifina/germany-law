@@ -1,30 +1,22 @@
-# Anlage 2 (zu § 4 Abs. 3)
+# Anlage 2 (zu § 11)Zeugnisinhalte
 
-| (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen Änderungen vgl. Fußnote) |
-| Dauer und Inhalt der betrieblichen Fortbildung |
-| 1. | Durchführung von Arbeiten mit autonomen und schlauchversorgten Tauchgeräten mindestens 200 Taucherstunden (davon mindesten 20 Stunden mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät) |
-| 2. | Vermittlung von Kenntnissen in |
-|  | 2.1 | Tauchgerätekunde (marktorientiert) |
-|  | 2.2 | Arbeitsgerätekunde (hydraulisch, pneumatisch, elektrisch) |
-|  | 2.3 | Wartungs-Inspektionskunde |
-|  | 2.4 | Seemannschaft |
-| 3. | Vermittlung von Fertigkeiten bei Unterwasserarbeiten in verschiedenen Tiefen, z.B. |
-|  | 3.1 | Schweißen, Schneiden |
-|  | 3.2 | Betonieren |
-|  | 3.3 | Schalungsarbeiten |
-|  | 3.4 | Spülarbeiten |
-|  | 3.5 | Messen, Durchführen von Video-, Foto- und Ultraschallaufnahmen |
-|  | 3.6 | Hebearbeiten |
-|  | 3.7 | Montieren |
-|  | 3.8 | Suchen |
-|  | 3.9 | Abdichten |
-|  | 3.10 | Konservieren und Reinigen |
-| 4. | Arbeiten unter erschwerten Bedingungen, z.B. |
-|  | 4.1 | Arbeiten bei Strömung |
-|  | 4.2 | "Schwarzem Wasser" |
-|  | 4.3 | Nachttauchen |
-| 5. | Durchführung von Notfallmaßnahmen, z.B. |
-|  | 5.1 | Bergung eines verunfallten Tauchers |
-|  | 5.2 | Erstellung einer Rettungskette |
-|  | 5.3 | Sofortmaßnahmen am Unfallort |
-|  | 5.4 | Transport |
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 2 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zur Teilprüfung im „Fachtheoretischen Teil“
+  a) Benennung dieser Teilprüfung sowie
+  b) Benennung und Bewertung der fünf Prüfungsbereiche dieser Teilprüfung mit Note,
+2. zur Teilprüfung im „Fachpraktischen Teil“
+  a) Benennung dieser Teilprüfung sowie
+  b) Benennung der beiden Handlungsbereiche und Bewertung mit Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Vorliegen der Bescheinigung nach § 3 Absatz 2,
+7. Befreiungen nach § 8.

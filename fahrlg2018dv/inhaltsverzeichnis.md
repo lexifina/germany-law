@@ -5,10 +5,11 @@ Anforderungen an
 Fahrlehrer und Fahrschulen
 | § 1 | Sprachtest; Anpassungslehrgang und Eignungsprüfung |
 | § 2 | Anwärterschein und Fahrlehrerschein |
+| § 2a | Durchführung des Lehrgangs Fahrschulbetriebswirtschaft |
 | § 3 | Unterrichtsräume |
 | § 4 | Lehrmittel |
 | § 5 | Lehrfahrzeuge für Fahrschüler |
-| § 6 | Ausbildungsnachweis und Ausbildungsbescheinigung für Fahrschüler |
+| § 6 | Ausbildungsnachweis |
 | § 7 | Preisaushang |
 Zweiter Abschnitt
 Anforderungen an
@@ -37,6 +38,7 @@ Siebter Abschnitt
 | § 20 | Ordnungswidrigkeiten |
 | Anlage 1.1 (zu § 2 Absatz 1) | Anwärterschein Fahrlehrer |
 | Anlage 1.2 (zu § 2 Absatz 1) | Fahrlehrerschein |
+| Anlage 1a (zu § 2a) | Musterplan für den Fahrschulbetriebswirtschaftslehrgang |
 | Anlage 2 (zu § 3) | Unterrichtsräume |
 | Anlage 3 (zu § 6 Absatz 1) | Ausbildungsnachweis/Ausbildungsbescheinigung |
 | Anlage 4 (zu § 7) | Preisaushang nach § 32 des Fahrlehrergesetzes |

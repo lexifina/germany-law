@@ -83,7 +83,9 @@
 
 - [§ 42 Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches](0042.md)
 - [§ 42a Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes](0042a.md)
-- [§ 43 Weitergeltung bisherigen Rechts](0043.md)
-- [§ 44 Einmaliger zusätzlicher Wohngeldbetrag](0044.md)
-- [Anlage 1 (zu § 19 Absatz 1)](anlage-1.md)
-- [Anlage 2 (zu § 19 Absatz 2)](anlage-2.md)
+- [§ 42b Übergangsregelung aus Anlass des Gesetzes zur Stärkung des Wohngeldes](0042b.md)
+- [§ 43 Fortschreibung des Wohngeldes](0043.md)
+- [§ 44 Übergangsregelung bei Fortschreibung des Wohngeldes](0044.md)
+- [Anlage 1 (zu § 12 Absatz 1)](anlage-1.md)
+- [Anlage 2 (zu § 19 Absatz 1)](anlage-2.md)
+- [Anlage 3 (zu § 19 Absatz 2)](anlage-3.md)

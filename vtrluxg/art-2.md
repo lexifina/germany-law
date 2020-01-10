@@ -16,7 +16,7 @@ a) Von dem nach Artikel 3 des Vertrags zu zahlenden Betrag von 35 Millionen Deut
 | 4,341 Millionen DM | von der Bundesversicherungsanstalt für Angestellte, |
 | 9,437 Millionen DM | von der Arbeitsgemeinschaft der Knappschaften (Treuhandverwaltung der Reichsknappschaft) |
 getragen.
-  b) Das Bundesversicherungsamt stellt nach dem für das Jahr 1958 errechneten Verhältnis der Beitragseinnahmen die von den Trägern der Arbeiterrentenversicherung aufzubringenden Beträge fest und führt die Zahlung des Betrags von 35 Millionen Deutsche Mark an Luxemburg aus.
+  b) Das Bundesamt für Soziale Sicherung stellt nach dem für das Jahr 1958 errechneten Verhältnis der Beitragseinnahmen die von den Trägern der Arbeiterrentenversicherung aufzubringenden Beträge fest und führt die Zahlung des Betrags von 35 Millionen Deutsche Mark an Luxemburg aus.
 (5)
 a) Der in Artikel 8 Abs. 1 Satz 2 des Vertrags bestimmte Forderungsübergang erstreckt sich auch auf die aufgelaufenen Zinsen. Die in Anlage 1 zu Teil II des Vertrags genannten Stellen führen die dort genannten Beträge zuzüglich der im vorhergehenden Satz genannten und von der Bundesrepublik Deutschland an das Großherzogtum Luxemburg zu zahlenden Zinsen binnen zwei Monaten nach Inkrafttreten dieses Gesetzes an den Bund ab.
   b)

@@ -11,7 +11,7 @@
 - [§ 8 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung](0008.md)
 - [§ 9 Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen](0009.md)
 - [§ 10 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr](0010.md)
-- [§ 11 Zuständigkeiten des Bundesamtes für kerntechnische Entsorgungssicherheit](0011.md)
+- [§ 11 Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung](0011.md)
 - [§ 12 Ergänzende Zuständigkeiten der Benannten Stellen für Tanks](0012.md)
 - [§ 13 Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße](0013.md)
 - [§ 13a Zuständigkeiten der Benennenden Behörde](0013a.md)

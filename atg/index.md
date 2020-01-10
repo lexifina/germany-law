@@ -61,6 +61,7 @@ Bezeichnung als Inhaber einer Kernanlage](0017.md)
 - [§ 21 Kosten](0021.md)
 - [§ 21a Kosten (Gebühren und Auslagen) oder Entgelte für die Benutzung von Anlagen nach § 9a Abs. 3](0021a.md)
 - [§ 21b Beiträge](0021b.md)
+- [§ 21c Öffentlich-rechtlicher Vertrag](0021c.md)
 
 ## Dritter Abschnitt Verwaltungsbehörden
 
@@ -69,7 +70,7 @@ Bezeichnung als Inhaber einer Kernanlage](0017.md)
 - [§ 23a Zuständigkeit des Bundesverwaltungsamtes](0023a.md)
 - [§ 23b (weggefallen)](0023b.md)
 - [§ 23c (weggefallen)](0023c.md)
-- [§ 23d Zuständigkeit des Bundesamtes für kerntechnische Entsorgungssicherheit](0023d.md)
+- [§ 23d Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung](0023d.md)
 - [§ 24 Zuständigkeit der Landesbehörden](0024.md)
 - [§ 24a Information der Öffentlichkeit; Informationsübermittlung](0024a.md)
 - [§ 24b Selbstbewertung und internationale Prüfung](0024b.md)

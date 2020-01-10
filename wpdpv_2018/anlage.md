@@ -67,7 +67,7 @@ Prüfungsfeststellungen:
 | 35 | Art. 26 VO (EU) Nr. 600/2014 i. V. m. Art. 1, 4 − 12, Art. 13 Abs. 2 und 3, Art. 14, 15 Del. VO (EU) 2017/590 | Meldung von Geschäften mit Finanzinstrumenten |  |  |
 | 36 | § 57 Abs. 1, 4 WpHG | Meldungen von Positionen in Warenderivaten |  |  |
 | Depotgeschäft nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes |
-| 37 | Vorgaben zum Depotgeschäft; §§ 128, 135 AktG | Prüfungsrelevante Erkenntnisse, die für die Beurteilung der Ordnungsmäßigkeit des Depotgeschäftes von Bedeutung sind |  |  |
+| 37 | Vorgaben zum Depotgeschäft; § 67a Abs. 3, § 67b, jeweils auch i. V. m. § 125 Abs. 1, 2 und 5, § 135 AktG | Prüfungsrelevante Erkenntnisse, die für die Beurteilung der Ordnungsmäßigkeit des Depotgeschäftes von Bedeutung sind |  |  |
 | Verwendung von Ratings |
 | 38 | Art. 4 Abs. 1 Unterabs. 1 VO (EG) Nr. 1060/2009 | Verwendung von Ratings für aufsichtsrechtliche Zwecke |  |  |
 | 39 | Art. 5a Abs. 1 VO (EG) Nr. 1060/2009 | Übermäßiger Rückgriff auf Ratings |  |  |

@@ -91,6 +91,11 @@
 - [§ 42 Anzeigewesen](0042.md)
 - [§ 43 Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz](0043.md)
 
+### Abschnitt 8a Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+
+- [§ 43a Zeitpunkt der Prüfung](0043a.md)
+- [§ 43b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung](0043b.md)
+
 ### Abschnitt 9 Schlussbemerkung
 
 - [§ 44 Schlussbemerkung](0044.md)
@@ -114,3 +119,4 @@
 
 - [§ 54 Übergangsvorschrift](0054.md)
 - [§ 55 Inkrafttreten](0055.md)
+- [Anlage (zu § 43b Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung](anlage.md)

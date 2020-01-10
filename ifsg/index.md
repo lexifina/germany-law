@@ -108,9 +108,7 @@ Erlaubnis](0047.md)
 Arbeitsförderung](0057.md)
 - [§ 58 Aufwendungserstattung](0058.md)
 - [§ 59 Sondervorschrift für Ausscheider](0059.md)
-- [§ 60 Versorgung bei Impfschaden und bei
-Gesundheitsschäden durch andere Maßnahmen der
-spezifischen Prophylaxe](0060.md)
+- [§ 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe](0060.md)
 - [§ 61 Gesundheitsschadensanerkennung](0061.md)
 - [§ 62 Heilbehandlung](0062.md)
 - [§ 63 Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen](0063.md)

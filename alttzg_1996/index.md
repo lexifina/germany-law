@@ -15,7 +15,7 @@
 - [§ 12 Verfahren](0012.md)
 - [§ 13 Auskünfte und Prüfung](0013.md)
 - [§ 14 Bußgeldvorschriften](0014.md)
-- [§ 15 Verordnungsermächtigung](0015.md)
+- [§ 15 (weggefallen)](0015.md)
 - [§ 15a Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung](0015a.md)
 - [§ 15b Übergangsregelung nach dem Gesetz zur Reform der
 gesetzlichen Rentenversicherung](0015b.md)

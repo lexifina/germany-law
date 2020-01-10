@@ -8,6 +8,7 @@
 - [§ 3 Sitz und Satzung](0003.md)
 - [§ 4 Prävention für Beamte, Verordnungsermächtigung](0004.md)
 - [§ 4a Unfallfürsorge für Beamte](0004a.md)
+- [§ 4b Aufgabenübertragung an die Unfallversicherung Bund und Bahn](0004b.md)
 - [§ 5 Kosten bei Errichtung](0005.md)
 
 ## Abschnitt 2 Personalrechtliche Übergangsregelungen

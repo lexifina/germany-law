@@ -1,28 +1,16 @@
-# Anlage 2 (zu § 7 Absatz 4)Muster
+# Anlage 2 (zu § 10)Zeugnisinhalte
 
-| ............................................................................... |
-| (Bezeichnung der zuständigen Stelle) |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Zweirad-Servicetechniker
-Geprüfte Zweirad-Servicetechnikerin
-nichtmotorisierte/motorisierte Zweiradtechnik
-| Herr/Frau ............................................................................... |
-| geboren am ....................................................................... | in ............................................................ |
-| hat am ................................................................... | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Zweirad-Servicetechniker
-Geprüfte Zweirad-Servicetechnikerin
-nichtmotorisierte/motorisierte Zweiradtechnik
-nach der Zweirad-Service-Fortbildungsverordnung vom 13. Februar 2013 (BGBl. I S. 214), die durch Artikel 54 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-| Gesamtnote: ......................................... |
-|  |  | Punkte |
-| I. | Situationsaufgabe „Technik“ | ............................ |
-| II. | Situationsaufgabe „Organisation, Kooperation und Kommunikation“ | ............................ |
-| III. | Situatives Fachgespräch | ............................ |
-(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach § 8 im Hinblick auf die am .............
-in ............. vor ............. abgelegte Prüfung in dem Prüfungsteil .............
-freigestellt.“)
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 5 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum ....................................................................... |
-| Unterschrift(en) ................................................................ |
-| (Siegel der zuständigen Stelle) |  |
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. die Benennung, die jeweilige Bewertung und die Note der Situationsaufgaben und des situationsbezogenen Fachgesprächs,
+2. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+3. die Gesamtnote als Dezimalzahl,
+4. die Gesamtnote in Worten,
+5. Befreiungen nach § 7.

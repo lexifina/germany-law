@@ -5,6 +5,7 @@
 - [§ 3 Regelmäßige Haushaltsüberwachung](0003.md)
 - [§ 4 Drohende Haushaltsnotlage](0004.md)
 - [§ 5 Sanierungsverfahren](0005.md)
+- [§ 5a Überprüfung der Einhaltung der grundgesetzlichen Verschuldungsregel](0005a.md)
 - [§ 6 Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes](0006.md)
 - [§ 7 Unabhängiger Beirat des Stabilitätsrates](0007.md)
 - [§ 8 Unterrichtung der Parlamente](0008.md)

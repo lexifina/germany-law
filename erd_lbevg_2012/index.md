@@ -62,4 +62,4 @@
 - [§ 38 Auskunftspflichten, Prüfungspflichten und -rechte](0038.md)
 - [§ 39 Mitwirkung der Finanzverwaltung](0039.md)
 - [§ 40 Bußgeldvorschriften](0040.md)
-- [§ 41 (weggefallen)](0041.md)
+- [§ 41 Übergangsregelung](0041.md)

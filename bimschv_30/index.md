@@ -12,10 +12,8 @@ Bundes-Immissionsschutzgesetzes
 die Beschaffenheit und den Betrieb
 
 - [§ 3 Mindestabstand](0003.md)
-- [§ 4 Emissionsbezogene Anforderungen für Anlieferung, Aufbereitung,
-Stofftrennung und Lagerung und Transport](0004.md)
-- [§ 5 Emissionsbezogene Anforderungen für biologische Behandlung,
-Prozesswässer und Brüdenkondensate](0005.md)
+- [§ 4 Emissionsbezogene Anforderungen für Anlieferung, Aufbereitung, Stofftrennung und Lagerung und Transport](0004.md)
+- [§ 5 Emissionsbezogene Anforderungen für biologische Behandlung, Prozesswässer und Brüdenkondensate](0005.md)
 - [§ 6 Emissionsgrenzwerte](0006.md)
 - [§ 7 Ableitbedingungen für Abgase](0007.md)
 

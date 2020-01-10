@@ -1,44 +1,25 @@
-# Anlage 2 (zu § 9 Abs. 5)Muster
+# Anlage 2 (zu § 11)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2006, 73;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-..............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-Herr/Frau ....................................................................
-geboren am ............................. in ..................................
-hat am ................................. die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
-Technischer Fachwirt/Geprüfte Fachwirtin vom 17. Januar 2006 (BGBl. I S. 66),
-die zuletzt durch Artikel 15 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
-geändert worden ist, mit folgenden Ergebnissen bestanden:
-Punkte *) Note
-1. Wirtschafsbezogene Qualifikationen .........
-Qualifikationsbereiche
-1. Volks- und Betriebswirtschaft .........
-2. Rechnungswesen .........
-3. Recht und Steuern .........
-4. Unternehmensführung .........
-2. Technische Qualifikationen .........
-Naturwissenschaftliche und technische Grundlagen .........
-Technische Kommunikation und
-Werkstofftechnologie .........
-Fertigungs- und Betriebstechnik .........
-3. Handlungsspezifische Qualifikationen
-Schriftliche Situationsaufgabe .........
-Situationsbezogenes Fachgespräch mit
-Präsentation .........
-(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde
-nach § 8 im Hinblick auf die am .......... in .......... vor ..........
-abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
-*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde: .............
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
+  a) Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+  b) Benennung und Bewertung der vier Qualifikationsbereiche mit Punkten,
+2. zum Prüfungsteil „Technische Qualifikationen“
+  a) Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+  b) Benennung und Bewertung der drei Qualifikationsbereiche mit Punkten,
+3. zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+  a) Benennung des Prüfungsteils,
+  b) Benennung der schriftlichen Situationsaufgabe mit Note sowie
+  c) Benennung des situationsbezogenen Fachgesprächs mit Präsentation mit Note,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Befreiungen nach § 8.

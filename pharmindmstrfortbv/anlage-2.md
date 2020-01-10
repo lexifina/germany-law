@@ -1,38 +1,24 @@
-# Anlage 2 (zu § 7 Absatz 6)Muster
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2010, 1257 - 1258;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-|  | ........................................ |  |
-|  | (Bezeichnung der zuständigen Stelle) |  |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-| Herr/Frau ........................................ |
-| geboren am ........................................ | in ........................................ |
-| hat am ........................................ | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom 26. August 2010 (BGBl. I S. 1249), die durch Artikel 34 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-|  |  | Punkte |  | Note |
-| I. | Fachrichtungsübergreifende Basisqualifikationen |  |  | .............. |
-|  | Prüfungsbereiche: |  |  |  |
-|  | 1. Rechtsbewusstes Handeln | .............. |  |  |
-|  | 2. Betriebswirtschaftliches Handeln | .............. |  |  |
-|  | 3. Anwenden von Methoden der Information, Kommunikation und Planung | .............. |  |  |
-|  | 4. Zusammenarbeit im Betrieb | .............. |  |  |
-|  | (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am .............. in .............. vor .............. abgelegte Prüfung vom Prüfungsbestandteil .............. freigestellt.“) |
-| II. | Handlungsspezifische Qualifikationen |  |  |  |
-|  |  | Punkte |  | Note |
-|  | 1. Situationsaufgabe I im Handlungsbereich „Pharmazeutische Fertigung und Verpackung“ | .............. |  | .............. |
-|  | 2. Situationsaufgabe II im Handlungsbereich „Organisation, Führung und Kommunikation“ | .............. |  | .............. |
-|  | 3. Schriftliche Ausarbeitung im Handlungsbereich „Spezialisierungsgebiete“ mit dem Wahlqualifikationsschwerpunkt |  |  |  |
-|  | ............................................................................... .................. | .............. |  | .............. |
-|  | (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am .............. in .............. vor .............. abgelegte Prüfung vom Prüfungsbestandteil .............. freigestellt.“) |
-| III. | Berufs- und arbeitspädagogische Qualifikationen |  |  |  |
-|  | Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 3 Absatz 3 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen Eignung durch die Prüfung am .............. in .............. vor .............. erbracht. |
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum .............. |  |  |
-| Unterschrift(en) .............. |  |  |
-|  |  |  |
-|  | (Siegel der zuständigen Stelle) |  |
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+  a) Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+  b) Benennung der Prüfungsbereiche und Bewertung mit Punkten,
+2. zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+  a) Benennung dieses Prüfungsteils,
+  b) Benennung der Situationsaufgabe I im Handlungsbereich „Pharmazeutische Fertigung und Verpackung“ und Bewertung mit Punkten und Note,
+  c) Benennung der Situationsaufgabe II im Handlungsbereich „Organisation, Führung und Kommunikation“ und Bewertung mit Punkten und Note sowie
+  d) Benennung der schriftlichen Ausarbeitung im Handlungsbereich „Spezialisierungsgebiete“ mit Benennung des Wahlqualifikationsschwerpunkts und Bewertung mit Punkten und Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 6,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.

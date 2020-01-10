@@ -1,5 +1,4 @@
-# Verordnung zur Durchführung des Stellenvorbehalts nach § 10
-Abs. 4 Satz 7 des Soldatenversorgungsgesetzes
+# Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 

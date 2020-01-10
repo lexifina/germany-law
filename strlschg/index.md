@@ -321,7 +321,7 @@
 
 - [§ 184 Zuständigkeit der Landesbehörden](0184.md)
 - [§ 185 Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung](0185.md)
-- [§ 186 Zuständigkeit des Bundesamtes für kerntechnische Entsorgungssicherheit](0186.md)
+- [§ 186 Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung](0186.md)
 - [§ 187 Zuständigkeit der Physikalisch-Technischen Bundesanstalt](0187.md)
 - [§ 188 Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung](0188.md)
 - [§ 189 Zuständigkeit des Luftfahrt-Bundesamtes](0189.md)

@@ -15,12 +15,13 @@
 - [§ 6 Interne Sicherungsmaßnahmen](0006.md)
 - [§ 7 Geldwäschebeauftragter](0007.md)
 - [§ 8 Aufzeichnungs- und Aufbewahrungspflicht](0008.md)
-- [§ 9 Gruppenweite Einhaltung von Pflichten](0009.md)
+- [§ 9 Gruppenweite Pflichten](0009.md)
 
 ## Abschnitt 3 Sorgfaltspflichten in Bezug auf Kunden
 
 - [§ 10 Allgemeine Sorgfaltspflichten](0010.md)
 - [§ 11 Identifizierung](0011.md)
+- [§ 11a Verarbeitung personenbezogener Daten durch Verpflichtete](0011a.md)
 - [§ 12 Identitätsüberprüfung, Verordnungsermächtigung](0012.md)
 - [§ 13 Verfahren zur Identitätsüberprüfung, Verordnungsermächtigung](0013.md)
 - [§ 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung](0014.md)
@@ -36,6 +37,7 @@
 - [§ 21 Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen](0021.md)
 - [§ 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung](0022.md)
 - [§ 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung](0023.md)
+- [§ 23a Meldung von Unstimmigkeiten an die registerführende Stelle](0023a.md)
 - [§ 24 Gebühren und Auslagen, Verordnungsermächtigung](0024.md)
 - [§ 25 Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung](0025.md)
 - [§ 26 Europäisches System der Registervernetzung, Verordnungsermächtigung](0026.md)
@@ -44,7 +46,7 @@
 
 - [§ 27 Zentrale Meldestelle](0027.md)
 - [§ 28 Aufgaben, Aufsicht und Zusammenarbeit](0028.md)
-- [§ 29 Datenverarbeitung und weitere Verwendung](0029.md)
+- [§ 29 Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen](0029.md)
 - [§ 30 Entgegennahme und Analyse von Meldungen](0030.md)
 - [§ 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht](0031.md)
 - [§ 32 Datenübermittlungsverpflichtung an inländische öffentliche Stellen](0032.md)
@@ -61,9 +63,9 @@
 
 ## Abschnitt 6 Pflichten im Zusammenhang mit Meldungen von Sachverhalten
 
-- [§ 43 Meldepflicht von Verpflichteten](0043.md)
+- [§ 43 Meldepflicht von Verpflichteten, Verordnungsermächtigung](0043.md)
 - [§ 44 Meldepflicht von Aufsichtsbehörden](0044.md)
-- [§ 45 Form der Meldung, Verordnungsermächtigung](0045.md)
+- [§ 45 Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung](0045.md)
 - [§ 46 Durchführung von Transaktionen](0046.md)
 - [§ 47 Verbot der Informationsweitergabe, Verordnungsermächtigung](0047.md)
 - [§ 48 Freistellung von der Verantwortlichkeit](0048.md)
@@ -73,13 +75,14 @@
 
 - [§ 50 Zuständige Aufsichtsbehörde](0050.md)
 - [§ 51 Aufsicht](0051.md)
+- [§ 51a Verarbeitung personenbezogener Daten durch Aufsichtsbehörden](0051a.md)
 - [§ 52 Mitwirkungspflichten](0052.md)
 - [§ 53 Hinweise auf Verstöße](0053.md)
 - [§ 54 Verschwiegenheitspflicht](0054.md)
 - [§ 55 Zusammenarbeit mit anderen Behörden](0055.md)
 - [§ 56 Bußgeldvorschriften](0056.md)
 - [§ 57 Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen](0057.md)
-- [§ 58 Datenschutz](0058.md)
+- [§ 58 (weggefallen)](0058.md)
 - [§ 59 Übergangsregelung](0059.md)
 - [Anlage 1 (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko](anlage-1.md)
 - [Anlage 2 (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell höheres Risiko](anlage-2.md)

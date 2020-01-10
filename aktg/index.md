@@ -90,6 +90,12 @@ stehendes Unternehmen](0056.md)
 - [§ 65 Zahlungspflicht der Vormänner](0065.md)
 - [§ 66 Keine Befreiung der Aktionäre von ihren Leistungspflichten](0066.md)
 - [§ 67 Eintragung im Aktienregister](0067.md)
+- [§ 67a Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen](0067a.md)
+- [§ 67b Übermittlung von Informationen durch Intermediäre an die Aktionäre](0067b.md)
+- [§ 67c Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes](0067c.md)
+- [§ 67d Informationsanspruch der Gesellschaft gegenüber Intermediären](0067d.md)
+- [§ 67e Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre](0067e.md)
+- [§ 67f Kosten; Verordnungsermächtigung](0067f.md)
 - [§ 68 Übertragung von Namensaktien. Vinkulierung](0068.md)
 - [§ 69 Rechtsgemeinschaft an einer Aktie](0069.md)
 - [§ 70 Berechnung der Aktienbesitzzeit](0070.md)
@@ -123,6 +129,7 @@ Hauptversammlungsbeschlüssen](0083.md)
 - [§ 85 Bestellung durch das Gericht](0085.md)
 - [§ 86](0086.md)
 - [§ 87 Grundsätze für die Bezüge der Vorstandsmitglieder](0087.md)
+- [§ 87a Vergütungssystem börsennotierter Gesellschaften](0087a.md)
 - [§ 88 Wettbewerbsverbot](0088.md)
 - [§ 89 Kreditgewährung an Vorstandsmitglieder](0089.md)
 - [§ 90 Berichte an den Aufsichtsrat](0090.md)
@@ -151,6 +158,9 @@ Hauptversammlungsbeschlüssen](0083.md)
 Ausschüsse](0109.md)
 - [§ 110 Einberufung des Aufsichtsrats](0110.md)
 - [§ 111 Aufgaben und Rechte des Aufsichtsrats](0111.md)
+- [§ 111a Geschäfte mit nahestehenden Personen](0111a.md)
+- [§ 111b Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen](0111b.md)
+- [§ 111c Veröffentlichung von Geschäften mit nahestehenden Personen](0111c.md)
 - [§ 112 Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern](0112.md)
 - [§ 113 Vergütung der Aufsichtsratsmitglieder](0113.md)
 - [§ 114 Verträge mit Aufsichtsratsmitgliedern](0114.md)
@@ -169,7 +179,8 @@ auf die Gesellschaft
 
 - [§ 118 Allgemeines](0118.md)
 - [§ 119 Rechte der Hauptversammlung](0119.md)
-- [§ 120 Entlastung; Votum zum Vergütungssystem](0120.md)
+- [§ 120 Entlastung](0120.md)
+- [§ 120a Votum zum Vergütungssystem und zum Vergütungsbericht](0120a.md)
 
 ##### Zweiter Unterabschnitt Einberufung der
 Hauptversammlung
@@ -183,11 +194,11 @@ Hauptversammlung
 - [§ 126 Anträge von Aktionären](0126.md)
 - [§ 127 Wahlvorschläge von Aktionären](0127.md)
 - [§ 127a Aktionärsforum](0127a.md)
-- [§ 128 Übermittlung der Mitteilungen](0128.md)
+- [§ 128 (weggefallen)](0128.md)
 
 ##### Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht
 
-- [§ 129 Geschäftsordnung, Verzeichnis der Teilnehmer](0129.md)
+- [§ 129 Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung](0129.md)
 - [§ 130 Niederschrift](0130.md)
 - [§ 131 Auskunftsrecht des Aktionärs](0131.md)
 - [§ 132 Gerichtliche Entscheidung über das Auskunftsrecht](0132.md)
@@ -196,7 +207,11 @@ Hauptversammlung
 
 - [§ 133 Grundsatz der einfachen Stimmenmehrheit](0133.md)
 - [§ 134 Stimmrecht](0134.md)
-- [§ 135 Ausübung des Stimmrechts durch Kreditinstitute und geschäftsmäßig Handelnde](0135.md)
+- [§ 134a Begriffsbestimmungen; Anwendungsbereich](0134a.md)
+- [§ 134b Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten](0134b.md)
+- [§ 134c Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern](0134c.md)
+- [§ 134d Offenlegungspflichten der Stimmrechtsberater](0134d.md)
+- [§ 135 Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde](0135.md)
 - [§ 136 Ausschluß des Stimmrechts](0136.md)
 - [§ 137 Abstimmung über Wahlvorschläge von Aktionären](0137.md)
 
@@ -227,7 +242,7 @@ Geltendmachung von Ersatzansprüchen
 Gewinnverwendung
 
 
-#### Erster Abschnitt Jahresabschluß und Lagebericht
+#### Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht
 
 - [§ 150 Gesetzliche Rücklage. Kapitalrücklage](0150.md)
 - [§ 150a (weggefallen)](0150a.md)
@@ -246,7 +261,8 @@ Jahresabschlusses
 ##### Erster Unterabschnitt Prüfung durch
 Abschlußprüfer
 
-- [(XXXX) §§ 162 bis 169](xxxx-162-bis-169.md)
+- [§ 162 Vergütungsbericht](0162.md)
+- [(XXXX) §§ 163 bis 169](xxxx-163-bis-169.md)
 
 ##### Zweiter Unterabschnitt Prüfung durch
 den Aufsichtsrat

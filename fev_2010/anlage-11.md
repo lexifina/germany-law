@@ -9,7 +9,7 @@
 | Israel | B | nein | nein |
 | Japan | alle | nein | nein |
 | Jersey | alle | nein | nein |
-| Ehemalige jugoslawische Republik Mazedonien | alle | nein | nein |
+| Republik Nordmazedonien | alle | nein | nein |
 | (weggefallen) |  |  |  |
 | Monaco | alle | nein | nein |
 | Namibia | A1, A, B, BE, C1, C1E, C, CE | nein | nein |
@@ -21,7 +21,7 @@
 | Serbien | alle | nein | nein |
 | Singapur | alle | nein | nein |
 | Südafrika | alle | nein | nein |
-| Fahrerlaubnisse, die im tatsächlichen Herrschafts- bereich der Behörden in Taiwan erteilt wurden | B/BE | nein | ja |
+| Fahrerlaubnisse, die im tatsächlichen Herrschafts- bereich der Behörden in Taiwan erteilt wurden | B/BE | nein | nein |
 | Fahrerlaubnisse aus den Australischen Territorien: |  |  |  |
 | – Australian Capital Territory | C, R | nein | nein |
 | – New South Wales | C, R | nein | nein |

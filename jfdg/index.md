@@ -13,3 +13,4 @@
 - [§ 11 Vereinbarung, Bescheinigung, Zeugnis](0011.md)
 - [§ 12 Datenschutz](0012.md)
 - [§ 13 Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen](0013.md)
+- [§ 15 (weggefallen)](0015.md)

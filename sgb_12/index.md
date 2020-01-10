@@ -23,7 +23,7 @@
 - [§ 11 Beratung und Unterstützung, Aktivierung](0011.md)
 - [§ 12 Leistungsabsprache](0012.md)
 - [§ 13 Leistungen für Einrichtungen, Vorrang anderer Leistungen](0013.md)
-- [§ 14 Vorrang von Prävention und Rehabilitation](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Vorbeugende und nachgehende Leistungen](0015.md)
 - [§ 16 Familiengerechte Leistungen](0016.md)
 
@@ -48,6 +48,7 @@
 - [§ 27 Leistungsberechtigte](0027.md)
 - [§ 27a Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze](0027a.md)
 - [§ 27b Notwendiger Lebensunterhalt in Einrichtungen](0027b.md)
+- [§ 27c Sonderregelung für den Lebensunterhalt](0027c.md)
 - [§ 28 Ermittlung der Regelbedarfe](0028.md)
 - [§ 28a Fortschreibung der Regelbedarfsstufen](0028a.md)
 - [§ 29 Festsetzung und Fortschreibung der Regelsätze](0029.md)
@@ -97,8 +98,8 @@ Erwerbsminderung
 - [§ 41a Vorübergehender Auslandsaufenthalt](0041a.md)
 - [§ 42 Bedarfe](0042.md)
 - [§ 42a Bedarfe für Unterkunft und Heizung](0042a.md)
-- [§ 42b (weggefallen)](0042b.md)
-- [§ 43 Einsatz von Einkommen und Vermögen, Berücksichtigung von Unterhaltsansprüchen](0043.md)
+- [§ 42b Mehrbedarfe](0042b.md)
+- [§ 43 Einsatz von Einkommen und Vermögen](0043.md)
 
 ### Zweiter Abschnitt Verfahrensbestimmungen
 
@@ -124,18 +125,9 @@ Erwerbsminderung
 - [§ 51 Hilfe bei Sterilisation](0051.md)
 - [§ 52 Leistungserbringung, Vergütung](0052.md)
 
-## Sechstes Kapitel Eingliederungshilfe für
-behinderte Menschen
+## Sechstes Kapitel (weggefallen)
 
-- [§ 53 Leistungsberechtigte und Aufgabe](0053.md)
-- [§ 54 Leistungen der Eingliederungshilfe](0054.md)
-- [§ 55 Sonderregelung für behinderte Menschen in Einrichtungen](0055.md)
-- [§ 56 (weggefallen)](0056.md)
-- [§ 57 Persönliches Budget](0057.md)
-- [§ 58 (weggefallen)](0058.md)
-- [§ 59 Aufgaben des Gesundheitsamtes](0059.md)
-- [§ 60 Verordnungsermächtigung](0060.md)
-- [§ 60a Sonderregelungen zum Einsatz von Vermögen](0060a.md)
+- [(XXXX) §§ 53 bis 60 (weggefallen)](xxxx-53-bis-60.md)
 
 ## Siebtes Kapitel Hilfe zur Pflege
 
@@ -177,15 +169,18 @@ besonderer sozialer Schwierigkeiten
 - [§ 73 Hilfe in sonstigen Lebenslagen](0073.md)
 - [§ 74 Bestattungskosten](0074.md)
 
-## Zehntes Kapitel Einrichtungen
+## Zehntes Kapitel Vertragsrecht
 
-- [§ 75 Einrichtungen und Dienste](0075.md)
+- [§ 75 Allgemeine Grundsätze](0075.md)
 - [§ 76 Inhalt der Vereinbarungen](0076.md)
-- [§ 77 Abschluss von Vereinbarungen](0077.md)
-- [§ 78 Außerordentliche Kündigung der Vereinbarungen](0078.md)
-- [§ 79 Rahmenverträge](0079.md)
-- [§ 80 Schiedsstelle](0080.md)
-- [§ 81 Verordnungsermächtigungen](0081.md)
+- [§ 76a Zugelassene Pflegeeinrichtungen](0076a.md)
+- [§ 77 Verfahren und Inkrafttreten der Vereinbarung](0077.md)
+- [§ 77a Verbindlichkeit der vereinbarten Vergütung](0077a.md)
+- [§ 78 Wirtschaftlichkeits- und Qualitätsprüfung](0078.md)
+- [§ 79 Kürzung der Vergütung](0079.md)
+- [§ 79a Außerordentliche Kündigung der Vereinbarungen](0079a.md)
+- [§ 80 Rahmenverträge](0080.md)
+- [§ 81 Schiedsstelle](0081.md)
 
 ## Elftes Kapitel Einsatz des Einkommens und des Vermögens
 
@@ -212,8 +207,7 @@ nach dem Fünften bis Neunten Kapitel
 
 ### Vierter Abschnitt Einschränkung der Anrechnung
 
-- [§ 92 Anrechnung bei behinderten Menschen](0092.md)
-- [§ 92a Einkommenseinsatz bei Leistungen für Einrichtungen](0092a.md)
+- [§ 92 Beschränkung des Einkommenseinsatzes auf die häusliche Ersparnis](0092.md)
 
 ### Fünfter Abschnitt Verpflichtungen anderer
 
@@ -316,21 +310,10 @@ Artikel 116 Abs. 1 des Grundgesetzes](0133.md)
 - [§ 134 Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6](0134.md)
 - [§ 135 Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes](0135.md)
 - [§ 136 Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019](0136.md)
+- [§ 136a Erstattung des Barbetrags durch den Bund ab dem Jahr 2020](0136a.md)
 - [§ 137 Überleitung in Pflegegrade zum 1. Januar 2017](0137.md)
 - [§ 138 Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes](0138.md)
-- [§ 139 Übergangsregelung zur Erbringung von Leistungen nach dem Sechsten Kapitel für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019](0139.md)
-
-## Siebzehntes Kapitel Regelungen zur Teilhabe am Arbeitsleben für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019
-
-- [§ 140 Teilhabe am Arbeitsleben](0140.md)
-
-## Achzehntes Kapitel Regelungen für die Gesamtplanung für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019
-
-- [§ 141 Gesamtplanverfahren](0141.md)
-- [§ 142 Instrumente der Bedarfsermittlung](0142.md)
-- [§ 143 Gesamtplankonferenz](0143.md)
-- [§ 143a Feststellung der Leistungen](0143a.md)
-- [§ 144 Gesamtplan](0144.md)
-- [§ 145 Teilhabezielvereinbarung](0145.md)
+- [§ 139 Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020](0139.md)
+- [§ 140 Übergangsregelung zur Verhinderung einer Zahlungslücke](0140.md)
 - [Anlage (zu § 28)Regelbedarfsstufen nach § 28 in Euro](anlage.md)
 - [Anlage (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro](anlage-2.md)

@@ -1,0 +1,34 @@
+# Anlage 4 (zu § 4 Abs. 2)
+
+| (Fundstelle des Originaltextes: BGBl. I 2000, 170) |
+| Dauer und Inhalt des Fortbildungslehrgangs |
+| 1. | Grundlagen | 80 Unterrichtsstunden |
+|  | 1.1 | Fachtheorie |
+|  |  | - | Fachrechnen |
+|  |  | - | Fachzeichnen |
+|  | 1.2 | Gerätekunde |
+|  |  | - | Kenntnisse über Aufbau und Wirkungsweise von Leicht- und Helmtauchgeräten |
+|  |  | - | Kenntnisse in der Handhabung von Unterwasserarbeitsgeräten |
+|  | 1.3 | Arbeitskunde |
+|  |  | - | Kenntnisse in den Möglichkeiten der Signalgebung |
+|  |  | - | Grundkenntnisse über die Durchführung der verschiedenen Unterwasserarbeiten (z.B. Suchen, Hebearbeiten, Bergung, UW-Schweißen und Schneiden) |
+|  | 1.4 | Medizinische Grundlagen |
+|  |  | - | Grundkenntnisse über die Gesundheitsrisiken für den Taucher beim Abtauchen, Aufenthalt unter Wasser, Auf- und Austauchen |
+|  | 1.5 | Rechtsvorschriften |
+|  |  | - | Kenntnisse der einschlägigen Unfallverhütungsvorschriften und vorhandenen Regeln für Sicherheits- und Gesundheitsschutz |
+| 2. | Schweißen | 80 Unterrichtsstunden |
+|  | Schweißkursus gemäß DVS-Richtlinie 1123 - Lichtbogenhandschweißen - mit Nachweis der Basisqualifikation nach DIN EN 287/Teil 1 |
+| 3. | Tauchmedizin | 60 Unterrichtsstunden |
+|  | 3.1 | Wirkung der Gase unter Überdruck auf den Taucher |
+|  | 3.2 | Anatomie, Blutkreislauf, Atmung, Nervensystem, Taucherkrankungen, Belastung beim Tauchen |
+|  | 3.3 | Taucherhygiene |
+|  | 3.4 | Erste Hilfe |
+| 4. | Anwendungskenntnisse | 100 Unterrichtsstunden |
+|  | 4.1 | Anwendung von Arbeitstechniken unter Wasser |
+|  | 4.2 | Druckkammertechnik/Behandlung (50 m Tiefe, O(tief)2 Verträglichkeit) |
+|  | 4.3 | Austauchtabellenhandhabung |
+|  | 4.4 | Notfallmaßnahmen |
+|  | 4.5 | Simulation von Notfällen |
+|  | 4.6 | Durchführung von Taucherarbeiten in größeren Tiefen (mindestens 35 m) |
+|  | 4.7 | Atemgas und Atemgasgemische |
+|  | 4.8 | Fachrechnen/Fachzeichnen |

@@ -12,8 +12,8 @@
 - [§ 9 Zeugnisse](0009.md)
 - [§ 10 Wiederholung der Prüfung](0010.md)
 - [§ 11 Übergangsvorschrift](0011.md)
-- [Schlußformel](schlussformel.md)
 - [§ 12 Inkrafttreten](0012.md)
+- [Schlußformel](schlussformel.md)
 - [Anlage 1 (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel](anlage-1.md)
 - [Anlage 2 (zu § 9)Zeugnisinhalte](anlage-2.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III

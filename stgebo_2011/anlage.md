@@ -170,7 +170,7 @@ Gebühren der Behörden im Landesbereich
 | 215.6 |  | Zwangsweise Einziehung eines Erlaubnisbescheides. Diese Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist. | 14,30 bis 286,00 |
 | 215.7 |  | Überprüfung einer verkehrspsychologischen Teilmaßnahme des Fahreignungsseminars (§ 4a Absatz 8 Satz 1 Nummer 1 StVG). Die Gebühr ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne Verschulden der nach Landesrecht zuständigen Behörde und ohne ausreichende Entschuldigung des Inhabers der Seminarerlaubnis Verkehrspsychologie am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. | 30,70 bis 511,00 |
 | 215.8 |  | Versagung der Seminarerlaubnis | 33,20 bis 256,00 |
-| 216 |  | Eintragung der Schlüsselzahlen 96 und 192 im Führerschein | 28,60 |
+| 216 |  | Eintragung der Schlüsselzahlen 96 und 196 im Führerschein | 28,60 |
 | 217 |  | Anerkennung des Trägers einer unabhängigen Stelle |  |
 | 217.1 |  | Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten | 250,00 bis 1 000,00 |
 | 217.2 |  | Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung | 250,00 bis 1 000,00 |
@@ -275,7 +275,7 @@ Gebühren der Behörden im Landesbereich
 | 301 |  | Fahrlehrerprüfung |  |
 | 301.1 |  | für die Klasse BE |  |
 |  |  | – für die fahrpraktische Prüfung | 238,02 |
-|  |  | – für die Fachkundeprüfung | 577,68 |
+|  |  | – für die Fachkundeprüfung | 635,68 |
 |  |  | – für die Lehrproben |  |
 |  |  | a) im theoretischen Unterricht | 210,92 |
 |  |  | b) im fahrpraktischen Unterricht | 210,92 |
@@ -288,26 +288,25 @@ Gebühren der Behörden im Landesbereich
 |  |  | Diese Gebühren schließen die Kosten für die Mitglieder des Prüfungsausschusses – mit Ausnahme der Auslagen – ein. Die Gebühr ist auch zu entrichten für Teile, die ohne Verschulden des Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnten. |  |
 | 302 |  | Erteilung (außer der etwaigen Gebühr nach Nummer 308) |  |
 | 302.1 |  | der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins | 40,90 |
-| 302.2 |  | der Fahrlehrerlaubnis, der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins oder des Vermerks auf dem Fahrlehrerschein | 40,90 |
+| 302.2 |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins | 40,90 |
 | 302.3 |  | der Fahrschulerlaubnis |  |
 |  |  | – an eine natürliche Person | 102,00 |
 |  |  | – an eine juristische Person oder Personengesellschaft | 153,00 |
 | 302.4 |  | der Zweigstellenerlaubnis | 84,40 |
 | 302.5 |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG | 102,00 bis 358,00 |
-| 302.6 |  | der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins |  |
-|  |  | der Fahrlehrerlaubnis, der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins oder des Vermerks auf dem Fahrlehrerschein |  |
-|  |  | der Fahrschulerlaubnis |  |
-|  |  | der Zweigstellenerlaubnis oder |  |
+| 302.6 |  | der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins | 33,20 bis 256,00 |
+|  |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins |  |
+|  |  | der Fahrschulerlaubnis, der Zweigstellenerlaubnis oder |  |
 |  |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG |  |
-|  |  | nach vorangegangener Versagung, Rücknahme oder Widerruf oder nach vorangegangenem Verzicht | 33,20 bis 256,00 |
-| 303 |  | Erweiterung |  |
-| 303.1 |  | der Fahrlehrerlaubnis einschließlich der Ausfertigung eines Fahrlehrerscheins | 40,90 |
+|  |  | nach vorangegangener Versagung, Rücknahme oder Widerruf oder nach vorangegangenem Verzicht |  |
+| 303 |  | Änderung |  |
+| 303.1 |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung eines Fahrlehrerscheins oder eines Anwärterscheins | 40.90 |
 | 303.2 |  | der Fahrschulerlaubnis | 56,20 |
 | 303.3 |  | der Zweigstellenerlaubnis | 40,90 |
 | 303.4 |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte | 51,10 bis 169,00 |
 | 304 |  | Gestrichen |  |
 | 305 |  | Ausfertigung eines Fahrlehrerscheins, eines Anwärterscheins | 15,30 bis 38,30 |
-| 306 |  | Rücknahme oder Widerruf der Fahrlehrerlaubnis, der Anwärterbefugnis, der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der Fahrschulerlaubnis, der Zweigstellenerlaubnis oder der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG | 33,20 bis 256,00 |
+| 306 |  | Rücknahme oder Widerruf der Fahrlehrerlaubnis, der Anwärterbefugnis, Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der Fahrschulerlaubnis, der Zweigstellenerlaubnis oder der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG | 33,20 bis 256,00 |
 | 307 |  | Zwangsweise Einziehung eines Fahrlehrerscheins, eines Anwärterscheins | 14,30 bis 286,00 |
 |  |  | Diese Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist. |  |
 | 308 |  | Überprüfung |  |
@@ -315,7 +314,7 @@ Gebühren der Behörden im Landesbereich
 | 308.2 |  | einer Fahrlehrerausbildungsstätte | 30,70 bis 511,00 |
 |  |  | Die Gebühr ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Fahrschulinhabers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. |  |
 | 309 |  | Erteilung oder Versagung einer Ausnahme von den Vorschriften über das Fahrlehrerwesen | 5,10 bis 511,00 |
-| 310 |  | Versagung (außer der etwaigen Gebühr nach Nummer 308) der Fahrlehrerlaubnis oder der Seminarerlaubnis (§ 45 FahrlG) oder deren Erweiterung, der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der befristeten Fahrlehrerlaubnis, der Fahrschulerlaubnis oder deren Erweiterung, der Zweigstellenerlaubnis oder deren Erweiterung oder der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG oder deren Erweiterung | 33,20 bis 256,00 |
+| 310 |  | Versagung (außer der etwaigen Gebühr nach Nummer 308) der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der Anwärterbefugnis, der Fahrschulerlaubnis, der Zweigstellenerlaubnis, der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte, eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG oder deren Änderung | 33,20 bis 256,00 |
 | 311 |  | Genehmigung eines Qualitätssicherungssystems für die verkehrspädagogische Teilmaßnahme des Fahreignungsseminars oder für den Einweisungslehrgang nach § 46 Absatz 5 Satz 2 Nr. 4 Buchstabe b FahrlG | nach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Bearbeitungszeit |
 |  | E. | Kraftfahrsachverständigengesetz |  |
 | 321 |  | Prüfung für die |  |

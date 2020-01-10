@@ -42,7 +42,7 @@ Vierter Abschnitt
 Mitteilungspflichten
 | §§ 16 bis 16c | (weggefallen) |
 | § 16d | Mitteilungspflichten bei Gemischen |
-| § 16e | Mitteilungen für die Informations- und Behandlungszentren für Vergiftungen |
+| § 16e | Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen |
 | § 16f | (weggefallen) |
 Fünfter Abschnitt
 Ermächtigung zu Verboten

@@ -1,36 +1,25 @@
-# Anlage 3 (zu § 7 Absatz 7)Muster
+# Anlage 3 (zu § 10)Zeugnisinhalte
 
-| ............................................................................................... |
-| (Bezeichnung der zuständigen Stelle) |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Polier
-Geprüfte Polierin
-| Herr/Frau ............................................................................................................ |
-| geboren am ................................................... | in ................................... |
-| hat am ................................................... | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Polier
-Geprüfte Polierin
-nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin vom 6. September 2012 (BGBl. I S. 1926), die zuletzt durch Artikel 48 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-|  |  | Punkte |  | Note |
-| I. | Baubetrieb |  |  | ........... |
-|  | Projektarbeit | ........... |  |  |
-|  | Präsentation | ........... |  |  |
-|  | Fachgespräch | ........... |  |  |
-| II. | Bautechnik im Bereich...................................... |  |  | ........... |
-|  | Situationsaufgabe I | .......... |  |  |
-|  | Situationsaufgabe II | .......... |  |  |
-| III. | Mitarbeiterführung und Personalmanagement |  |  | ........... |
-|  | Situationsaufgabe I | ............ |  |  |
-|  | Situationsaufgabe II | ............ |  |  |
-|  | Gesamtnote: |  |  | ........... |
-(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach § 8 im Hinblick auf die am ..........................................
-in .................................. vor ........................................... abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich ............................................
-freigestellt.“)
-IV. Berufs- und arbeitspädagogische Qualifikation
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 3 Absatz 2 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen Kenntnisse durch die Prüfung am ..........................................
-in ..................................................................... vor ................................................................... erbracht.
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum ....................................................................... |
-| Unterschrift(en) ................................................................ |
-| (Siegel der zuständigen Stelle) |
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Baubetrieb“
+  a) Benennung des Prüfungsteils, die zusammengefasste Bewertung mit Note,
+  b) Benennung der Projektarbeit, der Präsentation und des Fachgesprächs und die Bewertung mit Punkten,
+2. zum Prüfungsteil „Bautechnik“
+  a) Benennung des Prüfungsteils unter Angabe des Bereichs „Hochbau“ oder „Tiefbau“ und die Bewertung mit Note,
+  b) Benennung der beiden Situationsaufgaben und die jeweilige Bewertung mit Punkten,
+3. zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+  a) Benennung des Prüfungsteils „Mitarbeiterführung und Personalmanagement“ und die Bewertung mit Note,
+  b) Benennung der beiden Situationsaufgaben und die jeweilige Bewertung mit Punkten,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Befreiungen nach § 7,
+8. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 3 Absatz 2.

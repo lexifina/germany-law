@@ -1,6 +1,6 @@
 # Anlage 4a (zu § 11 Absatz 5)Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
 
-Grundlage für die Beurteilung der Eignung zum Führen von Kraftfahrzeugen sind die Begutachtungs-Leitlinien für Kraftfahreignung vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 15. September 2017 (VkBl. S. 884).
+Grundlage für die Beurteilung der Eignung zum Führen von Kraftfahrzeugen sind die Begutachtungs-Leitlinien für Kraftfahreignung vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 28. Oktober 2019 (VkBl. S. 775).
 1. Die Untersuchung ist unter Beachtung folgender Grundsätze durchzuführen:
   a) Die Untersuchung ist anlassbezogen und unter Verwendung der von der Fahrerlaubnisbehörde zugesandten Unterlagen über den Betroffenen vorzunehmen. Der Gutachter hat sich an die durch die Fahrerlaubnisbehörde vorgegebene Fragestellung zu halten.
   b) Gegenstand der Untersuchung sind nicht die gesamte Persönlichkeit des Betroffenen, sondern nur solche Eigenschaften, Fähigkeiten und Verhaltensweisen, die für die Kraftfahreignung von Bedeutung sind (Relevanz zur Kraftfahreignung).

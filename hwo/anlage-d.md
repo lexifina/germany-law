@@ -1,6 +1,6 @@
 # Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
-I. In der Handwerksrolle dürfen folgende Daten gespeichert werden:
+I. In der Handwerksrolle sind folgende Daten zu speichern:
   1. bei natürlichen Personen
     a) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Absatz 2 oder im Falle des § 7 Absatz 1 Satz 1 der Handwerksordnung sind auch der Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internet-Adresse, Telefaxnummer oder Telefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Buchstabe e einzutragen;
     b) die Firma, wenn der selbständige Handwerker eine Firma führt, die sich auf den Handwerksbetrieb bezieht, die Webseite des Handwerksbetriebes sowie dessen Etablissementbezeichnung;
@@ -28,19 +28,19 @@ I. In der Handwerksrolle dürfen folgende Daten gespeichert werden:
     e) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Leiters des Nebenbetriebes und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
     f) der Zeitpunkt der Eintragung in die Handwerksrolle.
 II. Abschnitt I gilt entsprechend für das Verzeichnis der Inhaber von Betrieben in zulassungsfreien Handwerken oder handwerksähnlichen Gewerben. Dieses Verzeichnis braucht nicht die gleichen Angaben wie die Handwerksrolle zu enthalten. Mindestinhalt sind die wesentlichen betrieblichen Verhältnisse einschließlich der wichtigsten persönlichen Daten des Betriebsinhabers.
-III. In der Lehrlingsrolle dürfen folgende personenbezogene Daten gespeichert werden:
-  1. bei den Ausbildenden
+III. In der Lehrlingsrolle sind folgende personenbezogene Daten zu speichern:
+  1. bei den Ausbildenden,
     a) die in der Handwerksrolle eingetragen sind:
-      Die Eintragungen in der Handwerksrolle, soweit sie für die Zwecke der Führung der Lehrlingsrolle erforderlich sind,
+      die Eintragungen in der Handwerksrolle, soweit sie für die Zwecke der Führung der Lehrlingsrolle erforderlich sind;
     b) die nicht in der Handwerksrolle eingetragen sind:
-      Die der Eintragung nach Abschnitt I Nummer 1 Buchstabe a entsprechenden Daten mit Ausnahme der Daten zum Betriebsleiter zum Zeitpunkt der Eintragung in die Handwerksrolle und der Angaben zu Abschnitt I Nummer 1 Buchstabe e, soweit sie für die Zwecke der Lehrlingsrolle erforderlich sind;
+      die der Eintragung nach Abschnitt I Nummer 1 Buchstabe a entsprechenden Daten mit Ausnahme der Daten zum Betriebsleiter zum Zeitpunkt der Eintragung in die Handwerksrolle und die Angaben zu Abschnitt I Nummer 1 Buchstabe e, soweit sie für die Zwecke der Lehrlingsrolle erforderlich sind;
   2. bei den Ausbildern:
-    Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, Art der fachlichen Eignung;
+    Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Anschrift, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, Art der fachlichen Eignung;
   3. bei den Auszubildenden
     a) beim Lehrling:
-      Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, berufliche Vorbildung, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer,
-    b) erforderlichenfalls bei gesetzlichen Vertretern:
-      Name, Vorname und Anschrift;
+      Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, vorherige Berufsausbildung sowie vorheriges Studium, Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach dem Berufsbildungsgesetz oder der Handwerksordnung einschließlich Ausbildungsberuf, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer;
+    b) bei gesetzlichen Vertretern:
+      Name, Vorname und Anschrift der gesetzlichen Vertreter;
   4. beim Ausbildungsverhältnis:
-    Ausbildungsberuf einschließlich Fachrichtung, Datum des Abschlusses des Ausbildungsvertrages, Ausbildungsdauer, Datum des Beginns der Berufsausbildung, Dauer der Probezeit, bei überwiegend öffentlich, insbesondere auf Grund des Dritten Buches Sozialgesetzbuch geförderten Berufsausbildungsverhältnissen, Art der Förderung, Anschrift der Ausbildungsstätte, wenn diese vom Betriebssitz abweicht, Wirtschaftszweig, Zugehörigkeit zum öffentlichen Dienst.
+    Ausbildungsberuf einschließlich Fachrichtung, ausbildungsintegrierendes duales Studium, Tag, Monat und Jahr des Abschlusses des Ausbildungsvertrages, Ausbildungsdauer, Tag, Monat und Jahr des vertraglich vereinbarten Beginns und Endes der Berufsausbildung, Tag, Monat und Jahr einer vorzeitigen Auflösung des Ausbildungsverhältnisses, Dauer der Probezeit, Verkürzung der Ausbildungsdauer, Teilzeitberufsausbildung, die bei Vertragsabschluss vereinbarte Vergütung für jedes Ausbildungsjahr, Art der Förderung bei überwiegend öffentlich, insbesondere auf Grund des Dritten Buches Sozialgesetzbuch geförderten Berufsausbildungsverhältnissen, Anschrift und Amtlicher Gemeindeschlüssel der Ausbildungsstätte, Wirtschaftszweig, Betriebsnummer der Ausbildungsstätte nach § 18i Absatz 1 oder § 18k Absatz 1 des Vierten Buches Sozialgesetzbuch, Zugehörigkeit zum öffentlichen Dienst.
 IV. In das Verzeichnis der Unternehmer nach § 90 Abs. 3 und 4 der Handwerksordnung werden die Personen nach § 90 Abs. 3 und 4 der Handwerksordnung mit den nach Abschnitt I Nr. 1 Buchstabe a und c geforderten Angaben für natürliche Personen sowie der Zeitpunkt der Gewerbeanmeldung eingetragen.

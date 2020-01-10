@@ -87,7 +87,7 @@
 | § 43 | Inhalt der Leistung |
 |  |  |
 | Vierter Titel |
-| Pflege in vollstationären Einrichtungen der Hilfe für behinderte Menschen |
+| Pauschalleistung für die Pflege von Menschen mit Behinderungen |
 | § 43a | Inhalt der Leistungen |
 |  |  |
 | Fünfter Titel |
@@ -308,7 +308,7 @@
 | § 118 | Beteiligung von Interessenvertretungen, Verordnungsermächtigung |
 | § 119 | Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes |
 | § 120 | Pflegevertrag bei häuslicher Pflege |
-|  |
+|  |  |
 | Zwölftes Kapitel |
 | Bußgeldvorschrift |
 | § 121 | Bußgeldvorschrift |
@@ -358,5 +358,6 @@
 | § 144 | Überleitungs- und Übergangsregelungen, Verordnungsermächtigung |
 | § 145 | Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege |
 | § 146 | Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3 |
+|  |  |
 Anlage 1 (zu § 15) Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
 Anlage 2 (zu § 15) Bewertungssystematik (Summe der Punkte und gewichtete Punkte)

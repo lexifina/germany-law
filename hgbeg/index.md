@@ -196,7 +196,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 
 ## Fünfunddreißigster Abschnitt Übergangsvorschrift zum Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
-- [Artikel 73](artikel-73.md)
+- [Art 73](art-73.md)
 
 ## Sechsunddreißigster Abschnitt Übergangsvorschriften zum Kleinanlegerschutzgesetz
 
@@ -230,3 +230,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Dreiundvierzigster Abschnitt Übergangsvorschriften zum Gesetz zum Bürokratieabbau und zur Förderung der Transparenz bei Genossenschaften
 
 - [Art 82](art-82.md)
+
+## Vierundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
+
+- [Art 83](art-83.md)

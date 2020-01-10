@@ -2,14 +2,14 @@
 
 | Nummer | Übersicht | Seite |
 |  | A. | Gebühren in besonderen Fällen | 5 |
-| 1 bis 107 | B. | Grundleistungen und allgemeine Leistungen | 5 |
+| 1 bis 109 | B. | Grundleistungen und allgemeine Leistungen | 5 |
 | 1 bis 15 |  | I. | Allgemeine Beratungen und Untersuchungen | 5 |
 | A bis K 1 |  | II. | Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5, 6, 7 oder 8 | 7 |
 | 20 bis 34 |  | III. | Spezielle Beratungen und Untersuchungen | 8 |
 | 45 bis 62 |  | IV. | Visiten, Konsiliartätigkeit, Besuche, Assistenz | 10 |
-| E bis K 2 |  | V. | Zuschläge zu den Leistungen nach den Nummern 45 bis 62 | 12 |
+| E bis K 2 |  | V. | Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und 101 | 12 |
 | 70 bis 96 |  | VI. | Berichte, Briefe | 13 |
-| 100 bis 107 |  | VII. | Todesfeststellung | 14 |
+| 100 bis 109 |  | VII. | Todesfeststellung | 14 |
 | 200 bis 449 | C. | Nichtgebietsbezogene Sonderleistungen | 14 |
 | 200 bis 247 |  | I. | Anlegen von Verbänden | 14 |
 | 250 bis 298 |  | II. | Blutentnahmen, Injektionen, Infiltrationen, Infusionen, Transfusionen, Implantation, Abstrichentnahmen | 16 |
@@ -35,7 +35,7 @@
 | 1400 bis 1639 | J. | Hals-, Nasen-, Ohrenheilkunde | 54 |
 | 1700 bis 1860 | K. | Urologie | 61 |
 | 2000 bis 3321 | L. | Chirurgie, Orthopädie | 67 |
-| 2000 bis 2010 *) |  | I. | Wundversorgung, Fremdkörperentfernung | 67 |
+| 2000 bis 2010 |  | I. | Wundversorgung, Fremdkörperentfernung | 67 |
 | 2029 bis 2093 |  | II. | Extremitätenchirurgie | 68 |
 | 2100 bis 2196 |  | III. | Gelenkchirurgie | 70 |
 | 2203 bis 2241 |  | IV. | Gelenkluxationen | 73 |
@@ -53,8 +53,8 @@
 | 3300 bis 3321 |  | XVI. | Orthopädisch-chirurgische konservative Leistungen | 97 |
 | 3500 bis 4787 | M. | Laboratoriumsuntersuchungen | 98 |
 | 3500 bis 3532 |  | I. | Vorhalteleistungen in der eigenen, niedergelassenen Praxis | 99 |
-| 3541 bis 3621 *) |  | II. | Basislabor | 100 |
-| 3630 bis 4469 *) |  | III. | Untersuchungen von körpereigenen oder körperfremden körperfremden Substanzen und körpereigenen Zellen | 103 |
+| 3541 bis 3621 |  | II. | Basislabor | 100 |
+| 3630 bis 4469 |  | III. | Untersuchungen von körpereigenen oder körperfremden körperfremden Substanzen und körpereigenen Zellen | 103 |
 | 4500 bis 4787 |  | IV. | Untersuchungen zum Nachweis und zur Charakterisierung von Krankheitserregern | 129 |
 | 4800 bis 4873 | N. | Histologie, Zytologie und Zytogenetik | 138 |
 | 4800 bis 4816 |  | I. | Histologie | 138 |
@@ -209,9 +209,9 @@ Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundelieg
 |  |  | Die Leistung nach Nummer 61 darf nicht berechnet werden, wenn die Assistenz durch nicht liquidationsberechtigte Ärzte erfolgt. |  |  |
 |  | 62 | Zuziehung eines Assistenten bei operativen belegärztlichen Leistungen oder bei ambulanter Operation durch niedergelassene Ärzte, je angefangene halbe Stunde | 150 | 17,10 |
 |  |  | Wird die Leistung nach Nummer 62 berechnet, kann der assistierende Arzt die Leistung nach Nummer 61 nicht berechnen. |  |  |
-| V. | Zuschläge zu den Leistungen nach den Nummern 45 bis 62 |  |  |
+| V. | Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und 101 |  |  |
 Allgemeine Bestimmungen
-Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D sowie K 1 nicht berechnet werden.
+Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Im Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D sowie K 1 nicht berechnet werden.
 Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen.
 | E | Zuschlag für dringend angeforderte und unverzüglich erfolgte Ausführung | 160 | 18,24 |
 |  | Der Zuschlag nach Buchstabe E ist neben Leistungen nach den Nummern 45 und/oder 46 nicht berechnungsfähig, es sei denn, die Visite wird durch einen Belegarzt durchgeführt. Der Zuschlag nach Buchstabe E ist neben Zuschlägen nach den Buchstaben F, G und/oder H nicht berechnungsfähig. |  |  |
@@ -240,13 +240,19 @@ Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundelieg
 |  | 96 | Schreibgebühr, je Kopie | 3 | 0,34 |
 |  |  | Die Schreibgebühren nach den Nummern 95 und 96 sind nur neben den Leistungen nach den Nummern 80, 85 und 90 und nur mit dem einfachen Gebührensatz berechnungsfähig. |  |  |
 | VII. | Todesfeststellung |  |  |
-Allgemeine Bestimmung
-Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen nach den Nummern 100 bis 107 außerhalb seiner Arbeitsstätte (Praxis oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte Wegstrecke Wegegeld nach § 8 berechnen.
-|  | 100 | Untersuchung eines Toten - einschließlich Feststellung des Todes und Ausstellung des Leichenschauscheines - | 250 | 28,50 |
-|  | 102 | Entnahme einer Körperflüssigkeit bei einem Toten | 150 | 17,10 |
-|  | 104 | Bulbusentnahme bei einem Toten | 250 | 28,50 |
-|  | 105 | Hornhautentnahme aus einem Auge bei einem Toten | 230 | 26,22 |
-|  | 107 | Entnahme eines Herzschrittmachers bei einem Toten | 220 | 25,08 |
+Allgemeine Bestimmungen
+1. Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen nach den Nummern 100 bis 109 außerhalb seiner Arbeitsstätte (Praxis oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte Wegstrecke Wegegeld nach § 8 oder Reiseentschädigung nach § 9 berechnen.
+2. Neben den Leistungen nach den Nummern 100 und 101 sind Zuschläge nach den Buchstaben F bis H berechnungsfähig.
+3. Neben den Leistungen nach den Nummern 100 und 101 sind die Leistungen nach den Nummern 48 bis 52 nicht berechnungsfähig.
+4. Die Leistungen nach den Nummern 100 und 101 sind nicht nebeneinander berechnungsfähig.
+5. Die Leistungen nach den Nummern 100 und 101 sowie der Zuschlag nach Nummer 102 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
+| 100 | Untersuchung eines Toten und Ausstellung einer vorläufigen Todesbescheinigung gemäß landesrechtlicher Bestimmungen, gegebenenfalls einschließlich Aktenstudium und Einholung von Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten (Dauer mindestens 20 Minuten), gegebenenfalls einschließlich Aufsuchen (vorläufige Leichenschau) Dauert die Leistung nach Nummer 100 weniger als 20 Minuten (ohne Aufsuchen), mindestens aber 10 Minuten (ohne Aufsuchen), sind 60 Prozent der Gebühr zu berechnen. | 1896 |  |
+| 101 | Eingehende Untersuchung eines Toten und Ausstellung einer Todesbescheinigung, einschließlich Angaben zu Todesart und Todesursache gemäß landesrechtlicher Bestimmungen, gegebenenfalls einschließlich Aktenstudium und Einholung von Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten (Dauer mindestens 40 Minuten), gegebenenfalls einschließlich Aufsuchen (eingehende Leichenschau) Dauert die Leistung nach Nummer 101 weniger als 40 Minuten (ohne Aufsuchen), mindestens aber 20 Minuten (ohne Aufsuchen), sind 60 Prozent der Gebühr zu berechnen. | 2844 |  |
+| 102 | Zuschlag zu den Leistungen nach den Nummern 100 oder 101 bei einer Leiche mit einer dem Arzt oder der Ärztin unbekannten Identität und/oder besonderen Todesumständen (zusätzliche Dauer mindestens 10 Minuten) | 474 |  |
+| 106 | Entnahme einer Körperflüssigkeit bei einem Toten | 150 |  |
+| 107 | Bulbusentnahme bei einem Toten | 250 |  |
+| 108 | Hornhautentnahme aus einem Auge bei einem Toten | 230 |  |
+| 109 | Entnahme eines Herzschrittmachers bei einem Toten | 220 |  |
 | C. | Nichtgebietsbezogene Sonderleistungen |  |  |
 | I. | Anlegen von Verbänden |  |  |
 Allgemeine Bestimmungen
@@ -1187,7 +1193,7 @@ J. Hals-, Nasen-, Ohrenheilkunde
 |  | 1526 | Chemische Ätzung im Kehlkopf | 76 | 8,66 |
 |  | 1527 | Galvanokaustik oder Elektrolyse oder Kürettement im Kehlkopf | 370 | 42,18 |
 |  | 1528 | Fremdkörperentfernung aus dem Kehlkopf | 554 | 63,16 |
-|  | 1529 | Intubation oder Einführung von Dehnungs- instrumenten in den Kehlkopf, als selbständige Leistung | 152 | 17,33 |
+|  | 1529 | Intubation oder Einführung von Dehnungsinstrumenten in den Kehlkopf, als selbständige Leistung | 152 | 17,33 |
 |  | 1530 | Untersuchung des Kehlkopfes mit dem Laryngoskop | 182 | 20,75 |
 |  | 1532 | Endobronchiale Behandlung mit weichem Rohr | 182 | 20,75 |
 | Die Leistung nach Nummer 1532 ist im Zusammenhang mit einer Intubationsnarkose nicht berechnungsfähig. |  |  |
@@ -1472,7 +1478,7 @@ Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenha
 |  | 2088 | Operation einer Dupuytren'schen Kontraktur mit vollständiger Entfernung der Palmaraponeurose | 1100 | 125,40 |
 |  | 2089 | Operation der Dupuytren'schen Kontraktur mit vollständiger Entfernung der Palmaraponeurose und mit Strangresektion an einzelnen Fingern gegebenenfalls einschließlich Z- und/oder Zickzackplastiken - | 1800 | 205,20 |
 |  | 2090 | Spülung bei eröffnetem Sehnenscheidenpanaritium, je Sitzung | 63 | 7,18 |
-|  | 2091 | Sehnenscheidenradikaloperation (Tendosynovektomie) - gegebenenfalls mit Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung - | 924 | 105,34 |
+|  | 2091 | Sehnenscheidenradikaloperation(Tendosynovektomie)- gegebenenfalls mit Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung - | 924 | 105,34 |
 |  | 2092 | Operation der Tendosynovitis im Bereich eines Handgelenks oder der Anularsegmente eines Fingers | 750 | 85,50 |
 |  | 2093 | Spülung bei liegender Drainage | 50 | 5,70 |
 | III. | Gelenkchirurgie |  |  |
@@ -1546,7 +1552,7 @@ Die Leistungen nach den Nummern 2192, 2195 und/oder 2196 sind für operative Ein
 | 2182 | Gewaltsame Lockerung oder Streckung eines Schulter-, Ellenbogen-, Hüft- oder Kniegelenks ... | 379 | 43,21 |
 | 2183 | Operatives Anlegen einer Extension am Schädel bei Behandlung von Halswirbelverletzungen/-instabilitäten (z.B. Crutchfieldzange) .......................... | 740 | 84,36 |
 | 2184 | Anlegen von Halo-Extensionen zur Vorbereitung der operativen Behandlung von Skoliosen und Kyphosen ..................................... | 1000 | 114,-- |
-| 2189 | Arthroskopische Operation mit Entfernung oder Teilresektion eines Meniskus im Kniegelenk - gegebenenfalls einschließlich Plicateilresektion, Teilresektion des Hoffa&apos;schen Fettkörpers und/oder Entfernung freier Gelenkkörper - ................. | 1500 | 171,-- |
+| 2189 | Arthroskopische Operation mit Entfernung oder Teilresektion eines Meniskus im Kniegelenk - gegebenenfalls einschließlich Plicateilresektion, Teilresektion des Hoffa`schen Fettkörpers und/oder Entfernung freier Gelenkkörper - ................. | 1500 | 171,-- |
 | 2190 | Arthroskopische erhaltende Operation an einem Meniskus (z.B. Meniskusnaht, Refixation) in einem Kniegelenk .............................. | 1800 | 205,20 |
 | 2191 | Arthroskopische Operation mit primärer Naht, Reinsertion, Rekonstruktion oder plastischem Ersatz eines Kreuz- oder Seitenbands an einem Kniegelenk - einschließlich Kapselnaht - ..................................... | 2000 | 228,-- |
 | 2192 | Zuschlag zu der Leistung nach Nummer 2191 für die primäre Naht, Reinsertion, Rekonstruktion oder den plastischen Ersatz eines weiteren Bands in demselben Kniegelenk im Rahmen derselben Sitzung ................................ | 500 | 57,-- |
@@ -1732,7 +1738,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 | 2501 | Operation einer offenen Impressions- oder Splitterfraktur des Schädels - einschließlich Reimplantation von Knochenstücken - | 3100 | 353,40 |
 | 2502 | Operation eines epiduralen Hämatoms | 2750 | 313,50 |
 | 2503 | Operation einer frischen Hirnverletzung mit akutem subduralem und/oder intrazerebralem Hämatom | 5250 | 598,50 |
-| 2504 | Operation einer offenen Hirnverletzung mit Dura- und/oder KopfSchwartenplastik | 4500 | 513,-- |
+| 2504 | Operation einer offenen Hirnverletzung mit Dura- und/oder Kopfschwartenplastik | 4500 | 513,-- |
 | 2505 | Operation des akuten subduralen Hygroms oder Hämatoms beim Säugling oder Kleinkind | 3000 | 342,-- |
 | 2506 | Exstirpation eines chronischen subduralen Hämatoms einschließlich Kapselentfernung | 3750 | 427,50 |
 | 2507 | Entleerung eines chronischen subduralen Hämatoms mittels Bohrlochtrepanation(en) - gegebenenfalls einschließlich Drainage - | 1800 | 205,20 |
@@ -1804,7 +1810,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 | 2599 | Blockade eines Nerven im Bereich der Schädelbasis | 225 | 25,65 |
 | 2600 | Exstirpation eines Ganglions im Bereich der Schädelbasis | 1500 | 171,-- |
 | 2601 | Grenzstrangresektion im zervikalen Bereich | 1000 | 114,-- |
-| 2602 | Abdomino-retroperitoneale lumbale GrenzStrangresektion | 1480 | 168,72 |
+| 2602 | Abdomino-retroperitoneale lumbale Grenzstrangresektion | 1480 | 168,72 |
 | 2603 | Kombinierte thorakolumbale Grenzstrangresektion | 3000 | 342,-- |
 | 2604 | Splanchnikusdurchtrennung, peritoneal oder retroperitoneal | 1480 | 168,72 |
 | IX. Mund-, Kiefer- und Gesichtschirurgie |  |  |
@@ -2067,7 +2073,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 | 3209 | Verschlußoperation für einen Anus praeter mit Darmresektion | 1750 | 199,50 |
 | 3210 | Anlegen eines Anus praeter duplex transversalis | 2000 | 228,-- |
 | 3211 | Unterweisung eines Anus-praeter-Patienten in der Irrigator-Methode zur Darmentleerung | 120 | 13,68 |
-| 3215 | Eröffnung eines kongenitalen oberflächlichen AfterverSchlusses | 150 | 17,10 |
+| 3215 | Eröffnung eines kongenitalen oberflächlichen Afterverschlusses | 150 | 17,10 |
 | 3216 | Operation eines kongenitalen tiefreichenden Mastdarmverschlusses vom Damm aus oder der Analatresie | 1200 | 136,80 |
 | 3217 | Operation der Anal- und Rektumatresie einschließlich Kolondurchzugsoperation | 3750 | 427,50 |
 | 3218 | Radikaloperation eines tiefreichenden Mastdarmverschlusses mit Eröffnung der Bauchhöhle | 2700 | 307,80 |
@@ -2233,9 +2239,9 @@ Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 
 | 3585.H1 | Kreatinin | 40 | 4,56 |
 | 3587.H1 | Alkalische Phosphatase | 40 | 4,56 |
 | 3588.H1 | Alpha-Amylase (auch immuninhibitorische Bestimmung der Pankreas-Amylase) | 50 | 5,70 |
-| 3589.H1 | Cholinesterase (Pseudocholinesterase,CHE, PCHE) | 40 | 4,56 |
+| 3589.H1 | Cholinesterase (Pseudocholinesterase, CHE, PCHE) | 40 | 4,56 |
 | 3590.H1 | Creatinkinase (CK) | 40 | 4,56 |
-| 3591.H1 | Creatinkinase MB (CK-MB),Immuninhibitionsmethode | 50 | 5,70 |
+| 3591.H1 | Creatinkinase MB (CK-MB), Immuninhibitionsmethode | 50 | 5,70 |
 | 3592.H1 | Gamma-Glutamyltranspeptidase (Gamma-Glutamyltransferase, Gamma-GT) | 40 | 4,56 |
 | 3593.H1 | Glutamatdehydrogenase (GLDH) | 50 | 5,70 |
 | 3594.H1 | Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST) | 40 | 4,56 |
@@ -2246,7 +2252,7 @@ Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 
 | 3599 | Saure Phosphatase (sP), photometrisch | 70 | 7,98 |
 | 6. Gerinnungssystem |  |  |
 | 3605 | Partielle Thromboplastinzeit (PTT, aPTT), Einfachbestimmung | 50 | 5,70 |
-| 3606 | Plasmathrombinzeit (PTZ, TZ),Doppelbestimmung | 70 | 7,98 |
+| 3606 | Plasmathrombinzeit (PTZ, TZ), Doppelbestimmung | 70 | 7,98 |
 | 3607 | Thromboplastinzeit (Prothrombinzeit, TPZ, Quickwert), Einfachbestimmung | 50 | 5,70 |
 | 7. Funktionsteste |  |  |
 Allgemeine Bestimmungen
@@ -2667,7 +2673,7 @@ Für die mit H4 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 
 | 4076 | Steroidprofil |  |  |
 | 4077 | Vanillinmandelsäure (VMA) |  |  |
 | 4078 | Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben. |  |  |
-| 4079 | Zuschlag zu den leistungen nach den Nummern 4071 bis 4078 bei Anwendung der Gaschromatographie-Massenspektrometrie | 350 | 39,90 |
+| 4079 | Zuschlag zu den Leistungen nach den Nummern 4071 bis 4078 bei Anwendung der Gaschromatographie-Massenspektrometrie | 350 | 39,90 |
 | 4080 | 5-Hydroxyindolessigsäure (5-HIES), Farbreaktion und visuell, qualitativ | 120 | 13,68 |
 | 4081 | Humanes Choriongonadotropin im Urin, Schwangerschaftstest (Nachweisgrenze des Tests kleiner als 500 U/l) | 120 | 13,68 |
 | 4082 | Humanes Choriongonadotropin im Urin (HCG), Schwangerschaftstest (Nachweisgrenze des Tests kleiner als 50 U/l), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve - | 140 | 15,96 |

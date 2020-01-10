@@ -2,7 +2,7 @@
 Private
 
 - [§ 1 Bau und Finanzierung durch Private](0001.md)
-- [§ 2 Mautgebührenerhebung durch Private](0002.md)
+- [§ 2 Mautgebührenerhebung durch Private; Verordnungsermächtigung](0002.md)
 - [§ 3 Mautgebühren](0003.md)
 - [§ 4 Mautbemessungs- und -kalkulationsverordnung](0004.md)
 - [§ 5 Mautgebührenverordnung](0005.md)

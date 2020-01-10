@@ -91,8 +91,7 @@ Kurzzeitpflege
 
 - [§ 43 Inhalt der Leistung](0043.md)
 
-#### Vierter Titel Pflege in vollstationären
-Einrichtungen der Hilfe für behinderte Menschen
+#### Vierter Titel Pauschalleistung für die Pflege von Menschen mit Behinderungen
 
 - [§ 43a Inhalt der Leistung](0043a.md)
 
@@ -286,6 +285,7 @@ Leistungsdaten
 - [§ 105 Abrechnung pflegerischer Leistungen](0105.md)
 - [§ 106 Abweichende Vereinbarungen](0106.md)
 - [§ 106a Mitteilungspflichten](0106a.md)
+- [§ 106b Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0106b.md)
 
 ### Dritter Abschnitt Datenlöschung, Auskunftspflicht
 
@@ -331,7 +331,7 @@ zum Schutz der Pflegebedürftigen
 
 - [§ 123 Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung](0123.md)
 - [§ 124 Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat](0124.md)
-- [§ 125 (weggefallen)](0125.md)
+- [§ 125 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0125.md)
 
 ## Vierzehntes Kapitel Zulagenförderung der privaten Pflegevorsorge
 

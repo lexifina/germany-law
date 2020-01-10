@@ -13,7 +13,7 @@
 - [§ 10 Zuständigkeiten der durch das Bundesministerium der Verteidigung bestimmten Sachverständigen und Dienststellen](0010.md)
 - [§ 11 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr](0011.md)
 - [§ 12 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung](0012.md)
-- [§ 13 Zuständigkeiten des Bundesamtes für kerntechnische Entsorgungssicherheit](0013.md)
+- [§ 13 Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung](0013.md)
 - [§ 14 Zuständigkeiten des Umweltbundesamtes](0014.md)
 - [§ 15 Zuständigkeiten der für die Schiffssicherheit zuständigen bundesunmittelbaren Berufsgenossenschaft](0015.md)
 - [§ 16 Zuständigkeiten der Benannten Stellen](0016.md)

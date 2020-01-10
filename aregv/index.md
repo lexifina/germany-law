@@ -32,9 +32,9 @@
 - [§ 15 Ermittlung der Ineffizienzen](0015.md)
 - [§ 16 Effizienzvorgaben](0016.md)
 
-### Abschnitt 3 Ermittlung der Netzentgelte
+### Abschnitt 3 (weggefallen)
 
-- [§ 17 Netzentgelte](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 
 ### Abschnitt 4 Qualitätsvorgaben
 

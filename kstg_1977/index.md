@@ -56,7 +56,7 @@ Einkunftsteilen
 
 - [§ 23 Steuersatz](0023.md)
 - [§ 24 Freibetrag für bestimmte Körperschaften](0024.md)
-- [§ 25 Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben](0025.md)
+- [§ 25 Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben](0025.md)
 - [§ 26 Steuerermäßigung bei ausländischen Einkünften](0026.md)
 
 ## Vierter Teil Nicht in das Nennkapital geleistete

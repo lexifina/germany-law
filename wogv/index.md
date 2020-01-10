@@ -35,4 +35,4 @@
 - [§ 20 Weiterverwendung der Antwortdatensätze](0020.md)
 - [§ 21 Verfahrensgrundsätze](0021.md)
 - [§ 22 Kosten](0022.md)
-- [Anlage Anlage(zu § 1 Absatz 3)](anlage.md)
+- [Anlage (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020](anlage.md)

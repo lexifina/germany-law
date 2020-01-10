@@ -59,7 +59,7 @@
 
 #### Abschnitt 2 Beratung
 
-- [§ 32 Ergänzende unabhängige Teilhabeberatung](0032.md)
+- [§ 32 Ergänzende unabhängige Teilhabeberatung; Verordnungsermächtigung](0032.md)
 - [§ 33 Pflichten der Personensorgeberechtigten](0033.md)
 - [§ 34 Sicherung der Beratung von Menschen mit Behinderungen](0034.md)
 - [§ 35 Landesärzte](0035.md)
@@ -101,6 +101,7 @@
 - [§ 59 Arbeitsförderungsgeld](0059.md)
 - [§ 60 Andere Leistungsanbieter](0060.md)
 - [§ 61 Budget für Arbeit](0061.md)
+- [§ 61a Budget für Ausbildung](0061a.md)
 - [§ 62 Wahlrecht des Menschen mit Behinderungen](0062.md)
 - [§ 63 Zuständigkeit nach den Leistungsgesetzen](0063.md)
 
@@ -147,33 +148,57 @@
 
 ### Kapitel 1 Allgemeine Vorschriften
 
-- [(XXXX) §§ 90 bis 93 (zukünftig in Kraft)](xxxx-90-bis-93.md)
+- [§ 90 Aufgabe der Eingliederungshilfe](0090.md)
+- [§ 91 Nachrang der Eingliederungshilfe](0091.md)
+- [§ 92 Beitrag](0092.md)
+- [§ 93 Verhältnis zu anderen Rechtsbereichen](0093.md)
 - [§ 94 Aufgaben der Länder](0094.md)
-- [(XXXX) §§ 95 bis 98 (zukünftig in Kraft)](xxxx-95-bis-98.md)
+- [§ 95 Sicherstellungsauftrag](0095.md)
+- [§ 96 Zusammenarbeit](0096.md)
+- [§ 97 Fachkräfte](0097.md)
+- [§ 98 Örtliche Zuständigkeit](0098.md)
 
-### Kapitel 2 (zukünftig in Kraft)
+### Kapitel 2 Grundsätze der Leistungen
 
-- [(XXXX) §§ 99 bis 108 (zukünftig in Kraft)](xxxx-99-bis-108.md)
+- [§ 99 Leistungsberechtigter Personenkreis](0099.md)
+- [§ 100 Eingliederungshilfe für Ausländer](0100.md)
+- [§ 101 Eingliederungshilfe für Deutsche im Ausland](0101.md)
+- [§ 102 Leistungen der Eingliederungshilfe](0102.md)
+- [§ 103 Regelung für Menschen mit Behinderungen und Pflegebedarf](0103.md)
+- [§ 104 Leistungen nach der Besonderheit des Einzelfalles](0104.md)
+- [§ 105 Leistungsformen](0105.md)
+- [§ 106 Beratung und Unterstützung](0106.md)
+- [§ 107 Übertragung, Verpfändung oder Pfändung, Auswahlermessen](0107.md)
+- [§ 108 Antragserfordernis](0108.md)
 
-### Kapitel 3 (zukünftig in Kraft)
+### Kapitel 3 Medizinische Rehabilitation
 
-- [(XXXX) §§ 109 und 110 (zukünftig in Kraft)](xxxx-109-und-110.md)
+- [§ 109 Leistungen zur medizinischen Rehabilitation](0109.md)
+- [§ 110 Leistungserbringung](0110.md)
 
-### Kapitel 4 (zukünftig in Kraft)
+### Kapitel 4 Teilhabe am Arbeitsleben
 
-- [(XXXX) § 111 (zukünftig in Kraft)](xxxx-111.md)
+- [§ 111 Leistungen zur Beschäftigung](0111.md)
 
-### Kapitel 5 (zukünftig in Kraft)
+### Kapitel 5 Teilhabe an Bildung
 
-- [(XXXX) § 112 (zukünftig in Kraft)](xxxx-112.md)
+- [§ 112 Leistungen zur Teilhabe an Bildung](0112.md)
 
-### Kapitel 6 (zukünftig in Kraft)
+### Kapitel 6 Soziale Teilhabe
 
-- [(XXXX) §§ 113 bis 116 (zukünftig in Kraft)](xxxx-113-bis-116.md)
+- [§ 113 Leistungen zur Sozialen Teilhabe](0113.md)
+- [§ 114 Leistungen zur Mobilität](0114.md)
+- [§ 115 Besuchsbeihilfen](0115.md)
+- [§ 116 Pauschale Geldleistung, gemeinsame Inanspruchnahme](0116.md)
 
-### Kapitel 7 (zukünftig in Kraft)
+### Kapitel 7 Gesamtplanung
 
-- [(XXXX) §§ 117 bis 122 (zukünftig in Kraft)](xxxx-117-bis-122.md)
+- [§ 117 Gesamtplanverfahren](0117.md)
+- [§ 118 Instrumente der Bedarfsermittlung](0118.md)
+- [§ 119 Gesamtplankonferenz](0119.md)
+- [§ 120 Feststellung der Leistungen](0120.md)
+- [§ 121 Gesamtplan](0121.md)
+- [§ 122 Teilhabezielvereinbarung](0122.md)
 
 ### Kapitel 8 Vertragsrecht
 
@@ -190,17 +215,30 @@
 - [§ 133 Schiedsstelle](0133.md)
 - [§ 134 Sonderregelung zum Inhalt der Vereinbarungen zur Erbringung von Leistungen für minderjährige Leistungsberechtigte und in Sonderfällen](0134.md)
 
-### Kapitel 9 (zukünftig in Kraft)
+### Kapitel 9 Einkommen und Vermögen
 
-- [(XXXX) §§ 135 bis 142 (zukünftig in Kraft)](xxxx-135-bis-142.md)
+- [§ 135 Begriff des Einkommens](0135.md)
+- [§ 136 Beitrag aus Einkommen zu den Aufwendungen](0136.md)
+- [§ 137 Höhe des Beitrages zu den Aufwendungen](0137.md)
+- [§ 138 Besondere Höhe des Beitrages zu den Aufwendungen](0138.md)
+- [§ 139 Begriff des Vermögens](0139.md)
+- [§ 140 Einsatz des Vermögens](0140.md)
+- [§ 141 Übergang von Ansprüchen](0141.md)
+- [§ 142 Sonderregelungen für minderjährige Leistungsberechtigte und in Sonderfällen](0142.md)
 
-### Kapitel 10 (zukünftig in Kraft)
+### Kapitel 10 Statistik
 
-- [(XXXX) §§ 143 bis 148 (zukünftig in Kraft)](xxxx-143-bis-148.md)
+- [§ 143 Bundesstatistik](0143.md)
+- [§ 144 Erhebungsmerkmale](0144.md)
+- [§ 145 Hilfsmerkmale](0145.md)
+- [§ 146 Periodizität und Berichtszeitraum](0146.md)
+- [§ 147 Auskunftspflicht](0147.md)
+- [§ 148 Übermittlung, Veröffentlichung](0148.md)
 
-### Kapitel 11 (zukünftig in Kraft)
+### Kapitel 11 Übergangs- und Schlussbestimmungen
 
-- [(XXXX) §§ 149 bis 150 (zukünftig in Kraft)](xxxx-149-bis-150.md)
+- [§ 149 Übergangsregelung für ambulant Betreute](0149.md)
+- [§ 150 Übergangsregelung zum Einsatz des Einkommens](0150.md)
 
 ## Teil 3 Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)
 

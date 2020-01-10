@@ -1,41 +1,21 @@
-# Anlage 2 Muster
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 1978, 1799 - 1800)
-...............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-Geprüfter Gerüstbau-Kolonnenführer
-Herr/Frau/Frl. ................................................................
-geboren am: ..................................... in: .........................
-hat am .............................. die Prüfung zum anerkannten Abschluß
-Geprüfter Gerüstbau-Kolonnenführer
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter
-Gerüstbau-Kolonnenführer vom 14. November 1978 (BGBl. I S. 1795)
-bestanden.
-Ergebnisse der Prüfung
-Note
-I. Fachtheoretische Prüfung:
-1. Gerüstsysteme und Gerüstbauteile ....................
-2. Tragverhalten der Gerüste ....................
-3. Arbeitsvorbereitung und Bauausführung ....................
-4. Personalführung und Arbeitssicherheit ....................
-(Im Falle des § 6: "Der Prüfungsteilnehmer
-wurde gemäß § 6 im Hinblick auf die
-am .......... in .......... vor ..........
-abgelegte Prüfung von der Prüfung in diesem
-Prüfungsteil/im Prüfungsfach ..........
-freigestellt.")
-II. Fachpraktische Prüfung:
-1. Gerüstsysteme, Gerüstbauteile und bauliche
-Einzelheiten ....................
-2. Bauausführung und Bauüberwachung ....................
-(Im Falle des § 6: "Der Prüfungsteilnehmer wurde
-gemäß § 6 im Hinblick auf die
-am .......... in .......... vor ..........
-abgelegte Prüfung von der Prüfung in diesem
-Prüfungsteil/im Prüfungsfach ..........
-freigestellt.")
-Datum ......................................................
-Unterschrift ...............................................
-(Siegel der zuständigen Stelle)
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zur Fachtheoretischen Prüfung
+  a) Benennung dieser Teilprüfung sowie
+  b) Benennung und Bewertung der vier Prüfungsfächer dieser Teilprüfung mit Note,
+2. zur Fachpraktischen Prüfung
+  a) Benennung dieser Teilprüfung sowie
+  b) Benennung der beiden Prüfungsfächer und Bewertung mit Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 6.

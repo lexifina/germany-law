@@ -18,6 +18,7 @@
 - [§ 5 Sonderbestimmungen für das Führen von Mofas und geschwindigkeitsbeschränkten Kraftfahrzeugen](0005.md)
 - [§ 6 Einteilung der Fahrerlaubnisklassen](0006.md)
 - [§ 6a Fahrerlaubnis der Klasse B mit der Schlüsselzahl 96](0006a.md)
+- [§ 6b Fahrerlaubnis der Klasse B mit der Schlüsselzahl 196](0006b.md)
 
 ### 2. Voraussetzungen für die Erteilung einer Fahrerlaubnis
 
@@ -153,6 +154,7 @@
 - [Anlage 6 (zu den §§ 12, 48 Absatz 4 und 5)Anforderungen an das Sehvermögen](anlage-6.md)
 - [Anlage 7 (zu § 16 Absatz 2, § 17 Absatz 2 und 3)Fahrerlaubnisprüfung](anlage-7.md)
 - [Anlage 7a (§ 6a Absatz 3 und 4)Fahrerschulung ab 17 Jahre](anlage-7a.md)
+- [Anlage 7b (zu § 6b Absatz 3 und 4)Fahrerschulung für das Führen von Krafträdern der Klasse A1](anlage-7b.md)
 - [Anlage 8 (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung](anlage-8.md)
 - [Anlage 8a (zu § 22 Absatz 4 Satz 7)](anlage-8a.md)
 - [Anlage 8b (zu § 48a)](anlage-8b.md)

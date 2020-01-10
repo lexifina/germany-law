@@ -64,6 +64,7 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 20h Förderung der Selbsthilfe](0020h.md)
 - [§ 20i Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe, Verordnungsermächtigung](0020i.md)
 - [§ 20j Präexpositionsprophylaxe](0020j.md)
+- [§ 20k Förderung der digitalen Gesundheitskompetenz](0020k.md)
 - [§ 21 Verhütung von Zahnerkrankungen (Gruppenprophylaxe)](0021.md)
 - [§ 22 Verhütung von Zahnerkrankungen (Individualprophylaxe)](0022.md)
 - [§ 22a Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen](0022a.md)
@@ -99,9 +100,11 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 30a](0030a.md)
 - [§ 31 Arznei- und Verbandmittel, Verordnungsermächtigung](0031.md)
 - [§ 31a Medikationsplan](0031a.md)
+- [§ 31b Referenzdatenbank für Fertigarzneimittel](0031b.md)
+- [§ 31c Beleihung mit der Aufgabe der Referenzdatenbank für Fertigarzneimittel;Rechts- und Fachaufsicht über die Beliehene](0031c.md)
 - [§ 32 Heilmittel](0032.md)
 - [§ 33 Hilfsmittel](0033.md)
-- [§ 33a](0033a.md)
+- [§ 33a Digitale Gesundheitsanwendungen](0033a.md)
 - [§ 34 Ausgeschlossene Arznei-, Heil- und Hilfsmittel](0034.md)
 - [§ 35 Festbeträge für Arznei- und Verbandmittel](0035.md)
 - [§ 35a Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen, Verordnungsermächtigung](0035a.md)
@@ -178,9 +181,12 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 65b Förderung von Einrichtungen zur Verbraucher- und Patientenberatung](0065b.md)
 - [§ 65c Klinische Krebsregister](0065c.md)
 - [§ 65d Förderung besonderer Therapieeinrichtungen](0065d.md)
+- [§ 65e Ambulante Krebsberatungsstellen](0065e.md)
 - [§ 66 Unterstützung der Versicherten bei Behandlungsfehlern](0066.md)
 - [§ 67 Elektronische Kommunikation](0067.md)
 - [§ 68 Finanzierung einer persönlichen elektronischen Gesundheitsakte](0068.md)
+- [§ 68a Förderung der Entwicklung digitaler Innovationen durch Krankenkassen](0068a.md)
+- [§ 68b Förderung von Versorgungsinnovationen](0068b.md)
 
 ## Viertes Kapitel Beziehungen der Krankenkassen zu den
 Leistungserbringern
@@ -210,6 +216,7 @@ Versorgung](0072.md)
 - [§ 74 Stufenweise Wiedereingliederung](0074.md)
 - [§ 75 Inhalt und Umfang der Sicherstellung](0075.md)
 - [§ 75a Förderung der Weiterbildung](0075a.md)
+- [§ 75b Richtlinie zur IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0075b.md)
 - [§ 76 Freie Arztwahl](0076.md)
 
 #### Zweiter Titel Kassenärztliche und Kassenzahnärztliche
@@ -240,7 +247,7 @@ Vereinigungen
 - [§ 85b (weggefallen)](0085b.md)
 - [§ 85c (weggefallen)](0085c.md)
 - [§ 85d (weggefallen)](0085d.md)
-- [§ 86 Verwendung von Verschreibungen in elektronischer Form](0086.md)
+- [§ 86 Verwendung von Verordnungen in elektronischer Form](0086.md)
 - [§ 87 Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte](0087.md)
 - [§ 87a Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten](0087a.md)
 - [§ 87b Vergütung der Ärzte (Honorarverteilung)](0087b.md)
@@ -264,6 +271,7 @@ Bundesausschuss
 - [§ 90a Gemeinsames Landesgremium](0090a.md)
 - [§ 91 Gemeinsamer Bundesausschuss](0091.md)
 - [§ 91a Aufsicht über den Gemeinsamen Bundesausschuss, Haushalts- und Rechnungswesen, Vermögen](0091a.md)
+- [§ 91b Verordnungsermächtigung zur Regelung der Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus](0091b.md)
 - [§ 92 Richtlinien des Gemeinsamen Bundesausschusses](0092.md)
 - [§ 92a Innovationsfonds, Grundlagen der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss](0092a.md)
 - [§ 92b Durchführung der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss](0092b.md)
@@ -387,7 +395,7 @@ Leistungserbringern
 - [§ 132h Versorgungsverträge mit Kurzzeitpflegeeinrichtungen](0132h.md)
 - [§ 132i Versorgungsverträge mit Hämophiliezentren](0132i.md)
 - [§ 133 Versorgung mit Krankentransportleistungen](0133.md)
-- [§ 134](0134.md)
+- [§ 134 Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung](0134.md)
 - [§ 134a Versorgung mit Hebammenhilfe](0134a.md)
 
 ### Neunter Abschnitt Sicherung der Qualität der
@@ -419,6 +427,7 @@ Leistungserbringung
 - [§ 139b Aufgabendurchführung](0139b.md)
 - [§ 139c Finanzierung](0139c.md)
 - [§ 139d Erprobung von Leistungen und Maßnahmen zur Krankenbehandlung](0139d.md)
+- [§ 139e Verzeichnis für digitale Gesundheitsanwendungen; Verordnungsermächtigung](0139e.md)
 
 ### Zehnter Abschnitt Eigeneinrichtungen der Krankenkassen
 
@@ -599,7 +608,7 @@ Arbeitslosengeld II oder Unterhaltsgeld](0203a.md)
 - [§ 219a Deutsche Verbindungsstelle Krankenversicherung - Ausland](0219a.md)
 - [§ 219b Datenaustausch im automatisierten Verfahren zwischen den Trägern der sozialen Sicherheit und der Deutschen Verbindungsstelle Krankenversicherung – Ausland](0219b.md)
 - [§ 219c (weggefallen)](0219c.md)
-- [§ 219d Nationale Kontaktstelle](0219d.md)
+- [§ 219d Nationale Kontaktstellen](0219d.md)
 
 ## Achtes Kapitel Finanzierung
 
@@ -690,6 +699,7 @@ Zivildienstleistende](0244.md)
 - [§ 261 Rücklage](0261.md)
 - [§ 262 Gesamtrücklage](0262.md)
 - [§ 263 Verwaltungsvermögen](0263.md)
+- [§ 263a Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen](0263a.md)
 - [§ 264 Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung](0264.md)
 
 ### Vierter Abschnitt Finanzausgleiche und Zuweisungen aus dem 
@@ -769,6 +779,7 @@ Krankenkassen
 - [§ 291e Interoperabilitätsverzeichnis](0291e.md)
 - [§ 291f Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0291f.md)
 - [§ 291g Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung und zur Videosprechstunde](0291g.md)
+- [§ 291h Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0291h.md)
 - [§ 292 Angaben über Leistungsvoraussetzungen](0292.md)
 - [§ 293 Kennzeichen für Leistungsträger und Leistungserbringer](0293.md)
 
@@ -794,11 +805,12 @@ von Leistungsdaten, Datentransparenz
 
 #### Zweiter Titel Datentransparenz
 
-- [§ 303a Wahrnehmung der Aufgaben der Datentransparenz](0303a.md)
-- [§ 303b Datenübermittlung](0303b.md)
+- [§ 303a Wahrnehmung der Aufgaben der Datentransparenz; Verordnungsermächtigung](0303a.md)
+- [§ 303b Datenzusammenführung und -übermittlung](0303b.md)
 - [§ 303c Vertrauensstelle](0303c.md)
-- [§ 303d Datenaufbereitungsstelle](0303d.md)
-- [§ 303e Datenverarbeitung, Verordnungsermächtigung](0303e.md)
+- [§ 303d Forschungsdatenzentrum](0303d.md)
+- [§ 303e Datenverarbeitung](0303e.md)
+- [§ 303f Gebührenregelung; Verordnungsermächtigung](0303f.md)
 
 ### Dritter Abschnitt Datenlöschung, Auskunftspflicht
 

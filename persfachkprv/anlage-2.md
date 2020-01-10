@@ -1,38 +1,18 @@
-# Anlage 2 (zu § 6 Abs. 3)
+# Anlage 2 (zu § 8)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2002, 934;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-...............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Personalfachkaufmann/Geprüfte Personalfachkauffrau"
-Herr/Frau .....................................................................
-geboren am .......................... in ......................................
-hat am .............................. die Prüfung zum anerkannten Abschluss
-Geprüfter Personalfachkaufmann/Geprüfte Personalfachkauffrau
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss "Geprüfter
-Personalfachkaufmann/Geprüfte Personalfachkauffrau" vom 11. Februar 2002
-(BGBl. I S. 930), die zuletzt durch Artikel 60 der Verordnung vom 26. März 2014
-(BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-Punkte 1) Note
-Personalarbeit organisieren und durchführen .......... ...........
-Personalarbeit auf Grundlage rechtlicher
-Bestimmungen durchführen .......... ...........
-Personalplanung, -marketing und -controlling
-gestalten und umsetzen .......... ...........
-Personal- und Organisationsentwicklung steuern .......... ...........
-Situationsbezogenes Fachgespräch .......... ...........
-(Im Fall des § 5: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach
-§ 5 im Hinblick auf die am .......... in .......... vor .......... abgelegte
-Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Ort, Datum ........................................
-Unterschrift(en) ..................................
-(Siegel der zuständigen Stelle)
------
-1) Den Bewertungen lag folgender Punkteschlüssel zugrunde: ....................
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. Benennung der vier Handlungsbereiche der schriftlichen Prüfung und Bewertung mit Punkten und Note,
+2. Benennung des Fachgesprächs und Bewertung mit Punkten und Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Zahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 5,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.

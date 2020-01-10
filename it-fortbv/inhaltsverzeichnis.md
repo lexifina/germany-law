@@ -35,31 +35,38 @@
 | § 19 | Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom) |
 |  |  | Abschnitt 6 |
 |  |  |  | Bewertung der Prüfungsteile und Bestehen der Prüfung |
-| § 20 | Bewerten der Prüfungsteile und Bestehen der Prüfung |
-| § 21 | Ausbildereignung |
+| § 20 | Bewerten der Prüfungsleistungen |
+| § 21 | Bestehen der Prüfung, Gesamtnote |
+| § 22 | Zeugnisse |
+| § 23 | Ausbildereignung |
 | Teil 3 |
-|  | Vorschriften für die Prüfung der strategischen Professionals |
+|  | Vorschriften für die Prüfung der Strategischen Professionals |
 |  |  | Abschnitt 1 |
-|  |  |  | Gemeinsame Vorschriften für die Prüfung der strategischen Professionals |
-| § 22 | Zulassungsvoraussetzungen (Strategische Professionals) |
-| § 23 | Gliederung der Prüfung (Strategische Professionals) |
-| § 24 | Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse" |
-| § 25 | Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen" |
-| § 26 | Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement" |
+|  |  |  | Gemeinsame Vorschriften für die Prüfung der Strategischen Professionals |
+| § 24 | Zulassungsvoraussetzungen (Strategische Professionals) |
+| § 25 | Gliederung der Prüfung (Strategische Professionals) |
+| § 26 | Durchführung der Prüfung im Prüfungsteil „Strategische Prozesse“ |
+| § 27 | Durchführung der Prüfung im Prüfungsteil „Projekt- und Geschäftsbeziehungen“ |
+| § 28 | Durchführung der Prüfung im Prüfungsteil „Strategisches Personalmanagement“ |
 |  |  | Abschnitt 2 |
 |  |  |  | Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical Engineer) |
-| § 27 | Ziel der Prüfung und Bezeichnung des Abschlusses |
-| § 28 | Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker) |
+| § 29 | Ziel der Prüfung und Bezeichnung des Abschlusses |
+| § 30 | Prüfungsinhalte im Prüfungsteil „Strategische Prozesse“ (Informatiker) |
 |  |  | Abschnitt 3 |
 |  |  |  | Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin (Certified IT Business Engineer) |
-| § 29 | Ziel der Prüfung und Bezeichnung des Abschlusses |
-| § 30 | Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker) |
+| § 31 | Ziel der Prüfung und Bezeichnung des Abschlusses |
+| § 32 | Prüfungsinhalte im Prüfungsteil „Strategische Prozesse“ (Wirtschaftsinformatiker) |
 |  |  | Abschnitt 4 |
 |  |  |  | Bewertung der Prüfungsteile und Bestehen der Prüfung |
-| § 31 | Bestehen der Prüfung |
+| § 33 | Bewerten der Prüfungsleistungen |
+| § 34 | Bestehen der Prüfung, Gesamtnote |
+| § 35 | Zeugnisse |
 | Teil 4 |
 |  | Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften |
-| § 32 | Anrechnung anderer Prüfungsleistungen |
-| § 33 | Wiederholung der Prüfung |
-| § 34 | Übergangsvorschriften |
-| § 35 | Inkrafttreten, Außerkrafttreten |
+| § 36 | Befreiung von einzelnen Prüfungsbestandteilen |
+| § 37 | Wiederholung der Prüfung |
+| § 38 | Übergangsvorschriften |
+| § 39 | Inkrafttreten, Außerkrafttreten |
+| Anlage 1(zu den §§ 20, 21, 33 und 34) | Bewertungsmaßstab und -schlüssel |
+| Anlage 2(zu den §§ 22 und 35) | Zeugnisinhalte |
+| Anlage 3(zu § 2 Absatz 2) | Spezialistenprofile in der IT-Fortbildung |

@@ -14,6 +14,6 @@
 - [§ 10 Geheime Beratungen, Bewertungen, Sondervoten](0010.md)
 - [§ 11 Unterstützung der Mitglieder durch eigene Mitarbeiter](0011.md)
 - [§ 12 Beschäftigte des Kontrollgremiums](0012.md)
-- [§ 12a Amtsbezüge der oder des Ständigen Bevollmächtigten](0012a.md)
+- [§ 12a Übergangsregelung](0012a.md)
 - [§ 13 Berichterstattung](0013.md)
 - [§ 14 Gerichtliche Zuständigkeit](0014.md)

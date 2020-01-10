@@ -96,4 +96,5 @@
 ## Kapitel 6 Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften
 
 - [§ 55 Bußgeldvorschriften](0055.md)
-- [§ 56 Anwendungs- und Übergangsvorschriften](0056.md)
+- [§ 56 Anwendungs- und Übergangsvorschriften zum Investmentsteuerreformgesetz](0056.md)
+- [§ 57 Anwendungsvorschriften](0057.md)

@@ -361,9 +361,6 @@ forstwirtschaftlichen Vermögens](0140.md)
 - [§ 202 Betriebsergebnis](0202.md)
 - [§ 203 Kapitalisierungsfaktor](0203.md)
 
-## Dritter Teil Schlussbestimmungen
-
-
 ### Siebenter Abschnitt Bewertung des Grundbesitzes für die Grundsteuer ab 1. Januar 2022
 
 
@@ -448,6 +445,9 @@ forstwirtschaftlichen Vermögens](0140.md)
 ##### V. Ermächtigungen
 
 - [§ 263 Ermächtigungen](0263.md)
+
+## Dritter Teil Schlussbestimmungen
+
 - [§ 264 Bekanntmachung](0264.md)
 - [§ 265 Anwendungsvorschriften](0265.md)
 - [§ 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils](0266.md)

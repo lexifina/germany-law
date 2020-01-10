@@ -86,6 +86,5 @@
 ## Abschnitt 7 Sonstige Vorschriften, Schlussvorschriften
 
 - [§ 55 Regelungsbefugnisse der Länder](0055.md)
-- [§ 56 Verordnungsermächtigungen](0056.md)
 - [§ 57 Verwaltungsvorschriften](0057.md)
 - [§ 58 (weggefallen)](0058.md)

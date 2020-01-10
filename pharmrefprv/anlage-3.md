@@ -1,0 +1,151 @@
+# Anlage 3 (zu § 2 Abs. 1 Nr. 3)Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
+
+|  | Inhaltsübersicht |
+|  | Qualifikationsbereiche | RichtwertUnterrichtsstunden |
+|  | I. | Naturwissenschaftliche und medizinische Grundlagen | 250 |
+|  | II. | Pharmakologie, Pharmakotherapie und Krankheitsbilder | 420 |
+|  | III. | Arzneimittelrecht, Gesundheitsmanagement und -ökonomie | 180 |
+|  | IV. | Kommunikation, Pharmamarkt, Pharmamarketing | 150 |
+|  | Insgesamt | 1 000 |
+|  |
+| Qualifikationsbereiche | Lerninhalte | Zahl derUnterrichtsstunden |
+| I. | Naturwissenschaftliche und medizinische Grundlagen | 250 Stunden |
+|  | Es sollen Grundkenntnisse, die zum Verständnis der anderen Lernbereiche erforderlich sind, vermittelt werden. Der Schwerpunkt ist hierbei auf Struktur, Stoffumsetzung und Reaktionsablauf zu legen, insbesondere soweit sie zum Verständnis von Biochemie und Arzneimittelwirkungen erforderlich sind. Physikalische Grundlagen sind nur insoweit zu vermitteln, wie sie für das Verständnis biologischer, pharmazeutischer und pharmakologischer Prozesse erforderlich sind. | 1 | Chemie und Physik |
+| 1.1 | Aufbau der Materie |
+| 1.2 | Chemische Bindungen |
+| 1.3 | Chemische Reaktionen |
+| 1.4 | Lösungssysteme |
+| 1.5 | Grundlagen der organischen Chemie |
+| 1.6 | Grundlagen der Physik |
+|  |
+|  | Es sollen Kenntnisse des Aufbaus und der Funktion von Zellen und Zellverbänden vermittelt werden, um Organbau und -funktionen verstehen zu können. Darüber hinausgehende Kenntnisse sollen nur insoweit vermittelt werden, als sie zum Verständnis der Mikrobiologie und Molekularbiologie notwendig sind. | 2 | Biologie |
+| 2.1 | Bau und Funktion der Zelle |
+| 2.2 | Vererbungslehre |
+| 2.3 | Gewebelehre |
+| 2.4 | Grundzüge der Molekularbiologie |
+| 2.5 | Grundzüge der Biotechnologie |
+| 2.6 | Grundzüge der Gentechnologie |
+| 2.7 | Mikrobiologische Grundlagen |
+|  |
+|  | In der Biochemie sollen grundlegende biochemische Vorgänge im Organismus vermittelt werden. Dabei soll der Schwerpunkt auf die Aufnahme, Verarbeitung und Ausscheidung von Stoffen sowie Auf- und Abbau von Zellstrukturen gelegt werden, um Metabolismus und Wirkung von Arzneimitteln verstehen zu können. | 3 | Biochemie |
+| 3.1 | Ernährung und Verdauung |
+| 3.2 | Kohlenhydrate |
+| 3.3 | Lipide |
+| 3.4 | Proteine und Aminosäuren |
+| 3.5 | Biologische Oxidation |
+| 3.6 | Enzyme |
+| 3.7 | Nucleinstoffwechsel |
+| 3.8 | Stoffwechselregulation |
+| 3.9 | Vitamine |
+| 3.10 | Mineralstoffe und Spurenelemente |
+| 3.11 | Wasser- und Elektrolythaushalt |
+|  |
+|  | Es sollen Kenntnisse über Lage, Bau und Funktionen des menschlichen Organismus sowie Störungen von Funktionsabläufen zusammenhängend vermittelt werden. Die medizinische Nomenklatur und anatomischer Feinbau sind hierbei im notwendigen Maße zu vermitteln. | 4 | Anatomie, Physiologie |
+| 4.1 | Medizinische Terminologie und Lagebezeichnungen |
+| 4.2 | Regulation, Koordination und Kontrolle |
+| 4.3 | Transportsysteme |
+| 4.4 | Stoffwechsel |
+| 4.5 | Bewegung und Stabilität: Knochen, Knorpel, Muskel und Gelenke |
+| 4.6 | Abwehr- und Überlebensfunktionen: Haut und Immunsystem |
+| 4.7 | Fortpflanzung und Sexualität |
+|  |
+| II. | Pharmakologie, Pharmakotherapie und Krankheitsbilder | 420 Stunden |
+|  | Es sollen Kenntnisse und mögliche Gefahren im Umgang mit Arzneimitteln vermittelt werden. Im Mittelpunkt stehen Aufnahme, Umbau und Ausscheidung von Pharmaka. Des Weiteren sind Wirkungsmechanismen zu veranschaulichen und Arzneimittelrisiken aufzuzeigen. Ebenso sind die Wege der Arzneimittelentwicklung, Prüfung und Sicherheit zu vermitteln. | 1 | Allgemeine Pharmakologie |
+| 1.1 | Grundbegriffe |
+| 1.2 | Wirkungen des Organismus auf Pharmaka |
+| 1.3 | Wirkungen von Pharmaka auf den Organismus |
+| 1.4 | Unerwünschte Arzneimittelwirkungen |
+| 1.5 | Wechselwirkungen von Arzneimitteln |
+| 1.6 | Pharmakogenetik |
+| 1.7 | Gen- und Antisensetherapie |
+| 1.8 | Chronopharmakologie |
+| 1.9 | Arzneimittelentwicklung und -prüfung |
+| 1.10 | Arzneimittelsicherheit und Pharmakovigilanz |
+| 1.11 | Phytopharmaka |
+| 1.12 | Homöopathika |
+| 1.13 | Diagnostika und Laborhilfsmittel |
+|  |
+|  | Es sind Kenntnisse über die Herstellung von Fertigarzneimitteln zu vermitteln. Dabei ist der Schwerpunkt auf die unterschiedlichen Darreichungsformen und Anforderungen an die Verpackungen zu richten. Begleitend ist die Bedeutung von Qualitätssicherung und -kontrolle sowie Arzneimittelsicherheit zu verdeutlichen. | 2 | Pharmazie und pharmazeutische Technologie |
+| 2.1 | Definitionen |
+| 2.2 | Galenik |
+| 2.3 | Herstellung von Fertigarzneimitteln |
+| 2.4 | Qualitätssicherung |
+| 2.5 | Qualitätskontrolle |
+| 2.6 | Arzneimittelsicherheit |
+|  |
+|  | Es sollen Kenntnisse über krankhafte Veränderungen an Zellen und Geweben, deren Auslöser und pathophysiologischen Manifestationen vermittelt werden. | 3 | Allgemeine Pathologie |
+| 3.1 | Gesundheit und Krankheit |
+| 3.2 | Zell- und Gewerbeaktionen |
+| 3.3 | Noxen |
+| 3.4 | Reversible Schäden und Degeneration |
+| 3.5 | Entzündung |
+| 3.6 | Tumorpathologie |
+| 3.7 | Allgemeine Begriffserklärungen zur Pathologie der Systeme |
+|  |
+|  | Hier sind Krankheiten und Krankheitsverläufe mit den dazugehörigen möglichen medikamentösen Therapien, ihren Wirkungen, Interaktionen, unerwünschten Wirkungen und ihre Auswirkungen auf den menschlichen Organismus zu verknüpfen. Dabei stehen die großen Volkskrankheiten im Vordergrund. | 4 | Pharmakoprofile und Pharmakotherapie häufiger Krankheiten |
+| 4.1 | Nervensystem |
+| 4.2 | Endokrines System |
+| 4.3 | Blut- und Gerinnungssystem |
+| 4.4 | Niere und ableitende Harnwege; Wasser- und Elektrolythaushalt |
+| 4.5 | Kardiovaskuläres System |
+| 4.6 | Atmungssystem |
+| 4.7 | Verdauungssystem |
+| 4.8 | Stoffwechsel |
+| 4.9 | Bewegungsapparat |
+| 4.10 | Haut |
+| 4.11 | Eingriffe in das Immunsystem |
+| 4.12 | Klinische Grundlagen von Tumorerkrankungen |
+| 4.13 | Infektionslehre |
+| 4.14 | Antiinfektiva |
+|  |
+| III. | Arzneimittelrecht, Gesundheitsmanagement und -ökonomie | 180 Stunden |
+|  | Der Pharmareferent soll in die Lage versetzt werden, nationale und europäische rechtliche Rahmenbedingungen beachten zu können, um Patientensicherheit und Produktsicherheit zu gewährleisten. Hierzu gehören auch gesetzlich festgelegte Informationspflichten und Selbstverpflichtungen. | 1 | Arzneimittelrecht |
+| 1.1 | Zuständige Behörden, relevante Gesetze |
+| 1.2 | Gesetzliche Begriffsbestimmungen |
+| 1.3 | Anforderungen an Arzneimittel |
+| 1.4 | Herstellung |
+| 1.5 | Zulassung |
+| 1.6 | Klinische Prüfung |
+| 1.7 | Abgabe von Arzneimitteln |
+| 1.8 | Sicherung und Kontrolle |
+| 1.9 | Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken |
+| 1.10 | Überwachung der Arzneimittelsicherheit |
+| 1.11 | Grenzüberschreitender Arzneimittelverkehr |
+| 1.12 | Pflichten des Pharmaberaters |
+| 1.13 | Haftung für Arzneimittelschäden |
+|  |
+|  |  | 2 | Europäisches Arzneimittelrecht |
+| 2.1 | Bedeutung von EU-Richtlinien, Verordnungen und Leitlinien |
+| 2.2 | Zulassungsverfahren |
+| 2.3 | Qualitätssicherungsvorschriften |
+|  |
+|  |  | 3 | Heilmittelwerbung |
+| 3.1 | Werbung für Publikum und Fachkreise |
+| 3.2 | Selbstverpflichtungen |
+|  |
+|  | Es soll ein Überblick über das nationale Gesundheitswesen sowie die Kranken- und Pflegeversicherung vermittelt werden. Weitere Schwerpunkte sind die Wirtschaftlichkeit von Arzneimittelverordnungen sowie die evidenzbasierte Medizin. | 4 | Gesundheitsmanagement und -ökonomie |
+| 4.1 | Aufgaben und Organisation des Gesundheitswesens |
+| 4.2 | Kranken- und Pflegeversicherung |
+| 4.3 | Wirtschaftlichkeit von Arzneimittelverordnungen |
+| 4.4 | Evidenzbasierte Medizin |
+| 4.5 | Qualitätsmanagement im Gesundheitswesen |
+|  |
+| IV. | Kommunikation, Pharmamarkt, Pharmamarketing | 150 Stunden |
+|  | Pharmareferenten sollen in die Lage versetzt werden, durch die Umsetzung kommunikations- und gesprächspsychologischer Kenntnisse den Beratungsauftrag gemäß des Arzneimittelgesetzes gegenüber Ärzten, Apothekern und anderen Angehörigen der Heilberufe wahrnehmen zu können. Dabei soll der Pharmareferent über Produkteigenschaften informieren und auf die in den anderen Qualifikationsbereichen erworbenen Kenntnisse zurückgreifen können. Daneben sollen dem Pharmareferenten Präsentations- und Moderationstechniken vermittelt werden, die es ermöglichen, weitere Aufgaben wie zum Beispiel Schulungen, Beratungen und Informationsveranstaltungen durchführen zu können. | 1 | Kommunikation |
+| 1.1 | Kommunikationspsychologie |
+| 1.2 | Grundlagen der Gesprächspsychologie |
+| 1.3 | Beratungsgespräch |
+| 1.4 | Präsentations- und Moderationstechnik |
+| 1.5 | Arbeitstechniken und Zeitmanagement |
+|  |
+|  | Es soll die Fähigkeit erworben werden, anhand von Marktdaten, -teilnehmern und -strukturen relevante Märkte beurteilen zu können. | 2 | Pharmamarkt |
+| 2.1 | Relevanter Markt |
+| 2.2 | Pharmamarktdaten |
+| 2.3 | Akteure |
+| 2.4 | Marktverhalten |
+| 2.5 | Wettbewerb |
+|  |
+|  | Der Pharmareferent soll die auf dem Pharmamarkt eingesetzten Marketinginstrumente kennen. | 3 | Pharmamarketing |
+| 3.1 | Projektmanagement |
+| 3.2 | Grundzüge des Marketing und der Marktforschung |
+| 3.3 | Marketinginstrumente |

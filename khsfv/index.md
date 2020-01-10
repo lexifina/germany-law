@@ -6,10 +6,10 @@
 
 - [§ 1 Förderungsfähige Vorhaben](0001.md)
 - [§ 2 Förderungsfähige Kosten](0002.md)
-- [§ 3 Verwaltungsaufgaben des Bundesversicherungsamts](0003.md)
+- [§ 3 Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung](0003.md)
 - [§ 4 Antragstellung](0004.md)
 - [§ 5 Nachverteilung](0005.md)
-- [§ 6 Auszahlungsbescheide des Bundesversicherungsamts](0006.md)
+- [§ 6 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung](0006.md)
 - [§ 7 Rückforderung und Verzinsung von Fördermitteln](0007.md)
 - [§ 8 Auswertung der Wirkungen der Förderung](0008.md)
 - [§ 9 Bewirtschaftung der Fördermittel](0009.md)

@@ -1,13 +1,13 @@
 # Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst
 
 
-## Erster Abschnitt Grundwehrdienst und Wehrübungen
+## Abschnitt 1 Grundwehrdienst und Wehrübungen
 
 - [§ 1 Ruhen des Arbeitsverhältnisses](0001.md)
 - [§ 2 Kündigungsschutz für Arbeitnehmer, Weiterbeschäftigung nach der Berufsausbildung](0002.md)
 - [§ 3 Wohnraum und Sachbezüge](0003.md)
 - [§ 4 Erholungsurlaub](0004.md)
-- [§ 5](0005.md)
+- [§ 5 Benachteiligungsverbot](0005.md)
 - [§ 6 Fortsetzung des Arbeitsverhältnisses](0006.md)
 - [§ 7 Vorschriften für in Heimarbeit Beschäftigte](0007.md)
 - [§ 8 Vorschriften für Handelsvertreter](0008.md)
@@ -18,16 +18,17 @@
 - [§ 12 Anrechnung der Wehrdienstzeit und der Zeit einer Berufsförderung bei Einstellung entlassener Soldaten](0012.md)
 - [§ 13 Anrechnung des Wehrdienstes im späteren Berufsleben](0013.md)
 
-## Zweiter Abschnitt Meldung bei den Erfassungsbehörden und Wehrersatzbehörden
+## Abschnitt 2 Meldung
 
 - [§ 14 Weiterzahlung des Arbeitsentgelts](0014.md)
 
-## Dritter Abschnitt Alters- und Hinterbliebenenversorgung
+## Abschnitt 3 Alters- und Hinterbliebenenversorgung
 
 - [§ 14a Zusätzliche Alters- und Hinterbliebenenversorgung für Arbeitnehmer](0014a.md)
 - [§ 14b Alters- und Hinterbliebenenversorgung in besonderen Fällen](0014b.md)
+- [§ 14c Verfahren](0014c.md)
 
-## Vierter Abschnitt Schlußvorschriften
+## Abschnitt 4 Schlussvorschriften
 
 - [§ 15 Begriffsbestimmungen](0015.md)
 - [§ 16 Sonstige Geltung des Gesetzes](0016.md)

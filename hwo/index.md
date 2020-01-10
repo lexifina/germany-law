@@ -63,6 +63,7 @@ Ausbildungszeit
 - [§ 27a](0027a.md)
 - [§ 27b](0027b.md)
 - [§ 27c](0027c.md)
+- [§ 27d](0027d.md)
 
 ### Dritter Abschnitt Verzeichnis der
 Berufsausbildungsverhältnisse
@@ -120,6 +121,11 @@ Menschen, Berufsausbildungsvorbereitung
 - [§ 42o](0042o.md)
 - [§ 42p](0042p.md)
 - [§ 42q](0042q.md)
+- [§ 42r](0042r.md)
+- [§ 42s](0042s.md)
+- [§ 42t](0042t.md)
+- [§ 42u](0042u.md)
+- [§ 42v](0042v.md)
 
 ### Achter Abschnitt Berufsbildungsausschuß
 

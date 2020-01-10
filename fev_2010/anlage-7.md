@@ -141,16 +141,16 @@
     bb) Fahren mit Schrittgeschwindigkeit geradeaus, Stop and Go oder Kreisfahrt.
   Summe der zu fahrenden Grundfahraufgaben: vier.
 2.1.4.2 Bei der Klasse B
-  a) Obligatorisch
-    Abbremsen mit höchstmöglicher Verzögerung,
-  b) Alternativ, wobei eine Aufgabe geprüft werden muss:
+  a) Alternativ, wobei eine Aufgabe geprüft werden muss:
     aa) Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
       oder
-      Rückwärtsfahren in eine Parklücke (Längsaufstellung),
-    bb) Umkehren
+    bb) Rückwärtsfahren in eine Parklücke (Längsaufstellung),
+  b) Alternativ, wobei zwei Aufgaben geprüft werden müssen:
+    aa) Umkehren,
+    bb) Einfahren in eine Parklücke (Quer- oder Schrägaufstellung)
       oder
-      Einfahren in eine Parklücke (Quer- oder Schrägaufstellung).
-  Summe der zu fahrenden Grundfahraufgaben: drei.
+    cc) Abbremsen mit höchstmöglicher Verzögerung.
+    Summe der zu fahrenden Grundfahraufgaben: drei.
 2.1.4.3 Bei den Klassen C1, C, D1, D
   a) Obligatorisch, wobei eine Aufgabe geprüft werden muss:
     aa) Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen (nur Klasse C, C1) oder
@@ -229,7 +229,7 @@
   b) zulässige Gesamtmasse des Anhängers mindestens 1 300 kg,
   c) tatsächliche Gesamtmasse des Anhängers mindestens 800 kg,
   d) Aufbau des Anhängers kastenförmig oder vergleichbar, Breite und Höhe mindestens wie das Zugfahrzeug, und
-  e) Sicht nach hinten nur über die Außenspiegel.
+  e) Sicht nach hinten nur über die Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.6 Für Klasse C:
   Fahrzeuge der Klasse C
   a) Mindestlänge 8 m,
@@ -240,7 +240,7 @@
   f) mit Anti-Blockier-System (ABS),
   g) mit Fahrtenschreiber,
   h) Aufbau kastenförmig oder vergleichbar, mindestens so breit und so hoch wie das Führerhaus, und
-  i) Sicht nach hinten nur über Außenspiegel.
+  i) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.7 Für Klasse CE:
   a) Fahrzeugkombinationen bestehend aus einem Prüfungsfahrzeug der Klasse C mit selbsttätiger Kupplung und einem Anhänger mit eigener Lenkung oder mit einem Starrdeichselanhänger mit Tandem-/Doppelachse
     aa) Länge der Fahrzeugkombination mindestens 14 m,
@@ -252,7 +252,7 @@
     gg) Länge des Anhängers mindestens 7,5 m,
     hh) Mindestbreite des Anhängers 2,4 m,
     ii) Aufbau des Anhängers kastenförmig oder vergleichbar, mindestens so breit und so hoch wie das Führerhaus des Zugfahrzeugs, und
-    jj) Sicht nach hinten nur über Außenspiegel
+    jj) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht
     oder
   b) Sattelkraftfahrzeuge
     aa) Länge mindestens 14 m,
@@ -263,7 +263,7 @@
     ff) Sattelzugmaschine und Sattelanhänger mit Anti-Blockier-System (ABS),
     gg) mit Fahrtenschreiber,
     hh) Aufbau kastenförmig oder vergleichbar, mindestens so breit und so hoch wie das Führerhaus, und
-    ii) Sicht nach hinten nur über Außenspiegel.
+    ii) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.8 Für Klasse C1:
   Fahrzeuge der Klasse C1
   a) Länge mindestens 5 m,
@@ -272,7 +272,7 @@
   d) mit Anti-Blockier-System (ABS),
   e) mit Fahrtenschreiber,
   f) Aufbau kastenförmig oder vergleichbar, mindestens so breit und so hoch wie das Führerhaus, und
-  g) Sicht nach hinten nur über Außenspiegel.
+  g) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.9 Für Klasse C1E:
   Fahrzeugkombinationen bestehend aus einem Prüfungsfahrzeug der Klasse C1 und einem Anhänger
   a) Länge der Fahrzeugkombination mindestens 9 m,
@@ -281,7 +281,7 @@
   d) tatsächliche Gesamtmasse des Anhängers mindestens 800 kg,
   e) Anhänger mit eigener Bremsanlage,
   f) Aufbau des Anhängers kastenförmig oder vergleichbar, mindestens so hoch und etwa so breit wie das Führerhaus des Zugfahrzeugs (der Aufbau kann geringfügig weniger breit sein), und
-  g) Sicht nach hinten nur über Außenspiegel.
+  g) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.10 Für Klasse D:
   Fahrzeuge der Klasse D
   a) Länge mindestens 10 m,
@@ -298,7 +298,7 @@
   e) tatsächliche Gesamtmasse des Anhängers mindestens 800 kg,
   f) Anhänger mit eigener Bremsanlage,
   g) Aufbau des Anhängers kastenförmig oder vergleichbar, mindestens 2 m breit und hoch, und
-  h) Sicht nach hinten nur über Außenspiegel.
+  h) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.12 Für Klasse D1:
   Fahrzeuge der Klasse D1
   a) Länge mindestens 5 m, maximale Länge 8 m,
@@ -314,7 +314,7 @@
   d) tatsächliche Gesamtmasse des Anhängers mindestens 800 kg,
   e) Anhänger mit eigener Bremsanlage,
   f) Aufbau des Anhängers kastenförmig oder vergleichbar, mindestens 2 m breit und hoch, und
-  g) Sicht nach hinten nur über Außenspiegel.
+  g) Sicht nach hinten nur über Außenspiegel oder andere zugelassene Einrichtungen für indirekte Sicht.
 2.2.14 Für Klasse AM:
   Zweirädrige Kleinkrafträder oder Fahrräder mit Hilfsmotor mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mindestens 40 km/h.
 2.2.15 Für Klasse T:

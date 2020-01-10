@@ -1,38 +1,24 @@
-# Anlage 2 (zu § 7 Absatz 6)Muster
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-| ................................................................................................................................................................................................ |
-| (Bezeichnung der zuständigen Stelle) |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk
-Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-| Herr/Frau .......... |
-| geboren am .......... | in .......... |
-| hat am .......... | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk
-Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk vom 13. Mai 2014 (BGBl. I S. 515) mit folgenden Ergebnissen bestanden:
-Gesamtnote: ..........
-|  |  | Punkte |  | Note |
-| I. | Fachrichtungsübergreifende Basisqualifikationen |  |  | .......... |
-|  | Prüfungsbereiche: |  |  |  |
-|  | Rechtsbewusstes Handeln | .......... |  |  |
-|  | Betriebswirtschaftliches Handeln | .......... |  |  |
-|  | Anwenden von Methoden der Information, Kommunikation und Planung | .......... |  |  |
-|  | Zusammenarbeit im Betrieb | .......... |  |  |
-|  | Berücksichtigung naturwissenschaftlicher und technischer Gesetzmäßigkeiten | .......... |  |  |
-|  | (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach § 6 im Hinblick auf die am .......... in .......... vor .......... abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“) |
-|  |  | Punkte* |  | Note |
-| II. | Handlungsspezifische Qualifikationen |  |  |  |
-|  | Integrative Situationsaufgaben |  |  |  |
-|  | 1. Schriftliche Situationsaufgabe aus dem Handlungsbereich „Technik“ mit dem Wahlpflichtqualifikationsschwerpunkt .......... | .......... |  | .......... |
-|  | 2. Schriftliche Situationsaufgabe aus dem Handlungsbereich „Organisation“ | .......... |  | .......... |
-|  | 3. Situationsbezogenes Fachgespräch aus dem Handlungsbereich „Führung und Personal“ | .......... |  | .......... |
-|  | (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach § 6 im Hinblick auf die am .......... in .......... vor .......... abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“) |
-| III. | Berufs- und arbeitspädagogische Qualifikationen |  |  |  |
-|  | Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 2 Absatz 2 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen Kenntnisse durch die Prüfung am .......... in .......... vor .......... erbracht. |
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum .......... |
-| Unterschrift(en) .......... |
-| (Siegel der zuständigen Stelle) |
-_______________
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+  a) Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+  b) Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten,
+2. zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+  a) Benennung dieses Prüfungsteils,
+  b) Benennung der Situationsaufgabe nach § 5 Absatz 6 und Bewertung mit Punkten und mit Note,
+  c) Benennung der Situationsaufgabe nach § 5 Absatz 7 und Bewertung mit Punkten und mit Note sowie
+  d) Benennung der Situationsaufgabe nach § 5 Absatz 8 und Bewertung mit Punkten und mit Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 6,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.

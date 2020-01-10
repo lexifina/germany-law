@@ -44,10 +44,10 @@
 
 - [§ 28 Behördliche Verbraucherschlichtungsstellen](0028.md)
 
-## Abschnitt 6 Universalschlichtungsstellen der Länder
+## Abschnitt 6 Universalschlichtungsstelle des Bundes
 
-- [§ 29 Universalschlichtungsstelle und Verordnungsermächtigung](0029.md)
-- [§ 30 Zuständigkeit und Verfahren der Universalschlichtungsstelle](0030.md)
+- [§ 29 Errichtung der Universalschlichtungsstelle des Bundes](0029.md)
+- [§ 30 Zuständigkeit und Verfahren der Universalschlichtungsstelle des Bundes](0030.md)
 - [§ 31 Gebühr](0031.md)
 
 ## Abschnitt 7 Zentrale Anlaufstelle für Verbraucherschlichtung, Liste der Verbraucherschlichtungsstellen und Berichtspflichten

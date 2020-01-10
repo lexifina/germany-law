@@ -79,6 +79,7 @@
 | Ethinamat | - | (1-Ethinylcyclohexyl)carbamat |
 | - | 3-O-Ethylmorphin(Ethylmorphin) | 4,5α-Epoxy-3-ethoxy-17-methylmorphin-7-en-6α-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 2,5 vom Hundert oder je abgeteilte Form bis zu 100 mg Ethylmorphin, berechnet als Base, enthalten - |
+| - | N-Ethylnorpentylon(Ephylon, bk-EBDP,bk-Ethyl-K) | 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)pentan-1-on |
 | - | Ethylphenidat | Ethyl[2-(phenyl)-2-(piperidin-2-yl) acetat] |
 | Etilamfetamin | N-Ethylamphetamin | (Ethyl)(1-phenylpropan-2-yl)azan |
 | - | 5F-ABICA(5F-AMBICA, 5-Fluor-ABICA, 5-Fluor-AMBICA) | N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluorpentyl)-1H-indol-3-carboxamid |
@@ -152,10 +153,12 @@
 | Nicodicodin | 6-Nicotinoyldihydrocodein | (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)nicotinat |
 | - | Ocfentanil (A-3217) | N-(2-Fluorphenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin-4-yl]acetamid |
 | - | Oripavin | 4,5α-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol |
+| - | Orthofluorfentanyl(2-Fluorfentanyl, 2F-F, 2-FF,o-FF)- | N-(2-Fluorphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | NM-2201(CBL-2201) | Naphthalin-1-yl[1-(5-fluorpentyl)-1H-indol-3-carboxylat] |
 | Oxymorphon | 14-Hydroxydihydromorphinon | 4,5α-Epoxy-3,14-dihydroxy-17-methylmorphinan-6-on |
 | - | Papaver bracteatum(Pflanzen und Pflanzenteile, ausgenommen die Samen, der zur Art Papaver bracteatum gehörenden Pflanzen) | - |
 | -ausgenommen zu Zierzwecken - |
+| - | Parafluorbutyrylfentanyl(Parafluorbutyrfentanyl,4-Fluorbutyrfentanyl, 4F-BF, PFBF) | N-(4-Fluorphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamid |
 | - | PB-22 (QUPIC) | Chinolin-8-yl(1-pentylindol-3-carboxylat) |
 | - | Pentedron | 2-(Methylamino)-1-phenylpentan-1-on |
 | - | Pethidin-Zwischenprodukt A (Prepethidin) | 1-Methyl-4-phenylpiperidin-4-carbonitril |

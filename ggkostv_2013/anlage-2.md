@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 1 Absatz 2)Gebührenverzeichnis Gebühren des Bundesamtes für kerntechnische Entsorgungssicherheit
+# Anlage 2 (zu § 1 Absatz 2)Gebührenverzeichnis Gebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 Inhaltsübersicht
 |  | Gebührennummer |

@@ -6,7 +6,7 @@
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Vorhabenträger](0003.md)
-- [§ 4 Bundesamt für kerntechnische Entsorgungssicherheit](0004.md)
+- [§ 4 Bundesamt für die Sicherheit der nuklearen Entsorgung](0004.md)
 
 ## Teil 2 Beteiligungsverfahren
 

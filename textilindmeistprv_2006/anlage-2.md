@@ -1,56 +1,23 @@
-# Anlage 2 (zu § 7 Abs. 5)Muster
+# Anlage 2 (zu § 9)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2006, 82 - 83;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-..............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Textilwirtschaft
-Herr/Frau ....................................................................
-geboren am ............................. in ..................................
-hat am ................................. die Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Textilwirtschaft
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Textilwirtschaft
-vom 17. Januar 2006 (BGBl. I S. 74), die zuletzt durch Artikel 37 der Verordnung
-vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
-mit folgenden Ergebnissen bestanden:
-I. Fachrichtungsübergreifende Note
-Basisqualifikationen .........
-Prüfungsbereich: Punkte *)
-Rechtsbewusstes Handeln .........
-Betriebswirtschaftliches Handeln .........
-Anwenden von Methoden der Information,
-Kommunikation und Planung .........
-Zusammenarbeit im Betrieb .........
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin wurde nach § 6
-im Hinblick auf die am .......... in .......... vor ..........
-abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
-II. Handlungsspezifische Qualifikationen Note
-Integrative, schriftliche Situationsaufgaben im
-Handlungsbereich Technik .........
-Handlungsbereich Organisation .........
-Handlungsbereich Führung und Personal .........
-Situationsbezogenes Fachgespräch im
-Handlungsbereich .................. .........
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin wurde nach § 6
-im Hinblick auf die am .......... in .......... vor ..........
-abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
-III. Berufs- und arbeitspädagogische Qualifikationen
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2 den
-Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Kenntnisse durch die Prüfung am ................ in ................ vor
-......... erbracht.
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
-*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde: .............
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+  a) Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+  b) Benennung der Prüfungsbereiche und Bewertung mit Punkten,
+2. zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+  a) Benennung dieses Prüfungsteils,
+  b) Benennung der integrativen schriftlichen Situationsaufgaben, Benennung der Handlungsbereiche und Bewertung mit Note sowie
+  c) Benennung des situationsbezogenen Fachgesprächs unter Benennung des Handlungsbereichs mit Note,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 6,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.

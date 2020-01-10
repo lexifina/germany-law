@@ -7,13 +7,15 @@ Die Liste ist eine nicht erschöpfende Aufzählung von Faktoren und möglichen A
   c) juristische Personen oder Rechtsvereinbarungen, die als Instrumente für die private Vermögensverwaltung dienen,
   d) Unternehmen mit nominellen Anteilseignern oder als Inhaberpapiere emittierten Aktien,
   e) bargeldintensive Unternehmen,
-  f) angesichts der Art der Geschäftstätigkeit als ungewöhnlich oder übermäßig kompliziert erscheinende Eigentumsstruktur des Unternehmens;
+  f) angesichts der Art der Geschäftstätigkeit als ungewöhnlich oder übermäßig kompliziert erscheinende Eigentumsstruktur des Unternehmens,
+  g) der Kunde ist ein Drittstaatsangehöriger, der Aufenthaltsrechte oder die Staatsbürgerschaft eines Mitgliedstaats im Austausch gegen die Übertragung von Kapital, den Kauf von Immobilien oder Staatsanleihen oder Investitionen in Gesellschaften in diesem Mitgliedstaat beantragt;
 2. Faktoren bezüglich des Produkt-, Dienstleistungs-, Transaktions- oder Vertriebskanalrisikos:
   a) Betreuung vermögender Privatkunden,
   b) Produkte oder Transaktionen, die Anonymität begünstigen könnten,
-  c) Geschäftsbeziehungen oder Transaktionen ohne persönliche Kontakte und ohne bestimmte Sicherungsmaßnahmen wie z. B. elektronische Unterschriften,
+  c) Geschäftsbeziehungen oder Transaktionen ohne persönliche Kontakte und ohne bestimmte Sicherungsmaßnahmen wie elektronische Mittel für die Identitätsfeststellung, einschlägige Vertrauensdienste gemäß der Definition in der Verordnung (EU) Nr. 910/2014 oder andere von den einschlägigen nationalen Behörden regulierte, anerkannte, gebilligte oder akzeptierte sichere Verfahren zur Identifizierung aus der Ferne oder auf elektronischem Weg,
   d) Eingang von Zahlungen unbekannter oder nicht verbundener Dritter,
-  e) neue Produkte und neue Geschäftsmodelle einschließlich neuer Vertriebsmechanismen sowie Nutzung neuer oder in der Entwicklung begriffener Technologien für neue oder bereits bestehende Produkte;
+  e) neue Produkte und neue Geschäftsmodelle einschließlich neuer Vertriebsmechanismen sowie Nutzung neuer oder in der Entwicklung begriffener Technologien für neue oder bereits bestehende Produkte,
+  f) Transaktionen in Bezug auf Öl, Waffen, Edelmetalle, Tabakerzeugnisse, Kulturgüter und andere Artikel von archäoloischer, historischer, kultureller oder religiöser Bedeutung oder von außergewöhnlichem wissenschaftlichem Wert sowie Elfenbein und geschützte Arten;
 3. Faktoren bezüglich des geografischen Risikos:
   a) unbeschadet des Artikels 9 der Richtlinie (EU) 2015/849 ermittelte Länder, deren Finanzsysteme laut glaubwürdigen Quellen (z. B. gegenseitige Evaluierungen, detaillierte Bewertungsberichte oder veröffentlichte Follow-up-Berichte) nicht über hinreichende Systeme zur Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und Terrorismusfinanzierung verfügen,
   b) Drittstaaten, in denen Korruption oder andere kriminelle Tätigkeiten laut glaubwürdigen Quellen signifikant stark ausgeprägt sind,

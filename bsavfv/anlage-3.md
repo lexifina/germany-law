@@ -1,12 +1,12 @@
 # Anlage 3 (zu § 12 Absatz 1 und § 13 Absatz 6)Gebührenverzeichnis für Erhaltungssorten
 
-| Gebühren-nummer | Gebührentatbestand | Bezogene Vorschrift(SaatG) | Gebühr(Euro) |
+| Gebühren-nummer | Gebührentatbestand | Rechtsgrundlage(SaatG) | Gebühr(Euro) |
 | 1 | 2 | 3 | 4 |
 | 4 | Saatgutverkehrsgesetz (SaatG) in Verbindung mit derVerordnung über Erhaltungssorten und ihre Aufzeichnung (Erhaltungssorten-VO) |  |  |
 | 400 | Verfahren der Sortenzulassung | § 41 |  |
 | 401 | Entscheidung über die Sortenzulassung | § 42 in Verbindung mit § 4 Erhaltungssorten-VO | 30 |
 | 402 | Registerprüfung | § 44 Abs. 1 bis 3 in Verbindung mit § 2 Abs. 2 bis 4 Erhaltungssorten-VO |  |
-| 402.1 | bei Sorten landwirtschaftlicher Arten und Gemüsearten |  | 170 |
+| 402.1 | bei Sorten landwirtschaftlicher Arten und Gemüsearten |  | 190 |
 | 402.2 | bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse einer anderen Stelle, einmalig |  | 30 |
 | 410 | Überwachung der Erhaltung einer Sorte oder einer weiteren Erhaltungszüchtung | § 37 Satz 2 | 30 |
 | 420 | Verfahren zur Verlängerung einer Sortenzulassung | § 36 Abs. 2 und 3 |  |

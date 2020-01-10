@@ -10,10 +10,13 @@
 | 1. Januar 2017 | 409 | 368 | 327 | 311 | 291 | 237 |
 | 1. Januar 2018 | 416 | 374 | 332 | 316 | 296 | 240 |
 | 1. Januar 2019 | 424 | 382 | 339 | 322 | 302 | 245 |
+| 1. Januar 2020 | 432 | 389 | 345 | 328 | 308 | 250 |
 Regelbedarfsstufe 1:
 Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.
 Regelbedarfsstufe 2:
-Für jede erwachsene Person, wenn sie in einer Wohnung nach § 42a Absatz 2 Satz 2 mit einem Ehegatten oder Lebenspartner oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft mit einem Partner zusammenlebt.
+Für jede erwachsene Person, wenn sie
+1. in einer Wohnung nach § 42a Absatz 2 Satz 2 mit einem Ehegatten oder Lebenspartner oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft mit einem Partner zusammenlebt oder
+2. nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person ein persönlicher Wohnraum und mit weiteren Personen zusätzliche Räumlichkeiten nach § 42a Absatz 2 Satz 3 zur gemeinschaftlichen Nutzung überlassen sind.
 Regelbedarfsstufe 3:
 Für eine erwachsene Person, deren notwendiger Lebensunterhalt sich nach § 27b bestimmt.
 Regelbedarfsstufe 4:

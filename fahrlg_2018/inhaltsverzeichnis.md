@@ -77,9 +77,9 @@ Registrierung
 | § 61 | Übermittlung der Daten aus den Registern |
 | § 62 | Abgleich der Daten mit dem Fahreignungsregister |
 | § 63 | Übermittlung von Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes |
-| § 64 | Verarbeitung und Nutzung der Daten für wissenschaftliche und statistische Zwecke |
+| § 64 | Weiterverarbeitung der Daten für wissenschaftliche und statistische Zwecke |
 | § 65 | Datenvergleich zur Beseitigung von Fehlern |
-| § 66 | Verarbeitung und Nutzung der Daten durch den Empfänger |
+| § 66 | Weiterverarbeitung der Daten durch den Empfänger |
 | § 67 | Löschung der Daten |
 Abschnitt 8
 Ermächtigungsgrundlagen,

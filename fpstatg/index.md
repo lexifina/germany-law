@@ -16,4 +16,4 @@
 - [§ 13 Zusammenführung](0013.md)
 - [§ 14 Übermittlung](0014.md)
 - [§ 15 Veröffentlichung](0015.md)
-- [§ 16 (Inkrafttreten, Außerkrafttreten)](0016.md)
+- [§ 16 Geschäftsstatistik zur Entwicklungszusammenarbeit](0016.md)

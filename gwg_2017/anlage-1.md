@@ -11,7 +11,7 @@ Die Liste ist eine nicht abschließende Aufzählung von Faktoren und möglichen 
   c) Rentensysteme und Pensionspläne oder vergleichbare Systeme, die den Arbeitnehmern Altersversorgungsleistungen bieten, wobei die Beiträge vom Gehalt abgezogen werden und die Regeln des Systems den Begünstigten nicht gestatten, ihre Rechte zu übertragen,
   d) Finanzprodukte oder -dienste, die bestimmten Kunden angemessen definierte und begrenzte Dienstleistungen mit dem Ziel der Einbindung in das Finanzsystem („financial inclusion“) anbieten,
   e) Produkte, bei denen die Risiken der Geldwäsche und der Terrorismusfinanzierung durch andere Faktoren wie etwa Beschränkungen der elektronischen Geldbörse oder die Transparenz der Eigentumsverhältnisse gesteuert werden (z. B. bestimmte Arten von E-Geld).
-3. Faktoren bezüglich des geografischen Risikos:
+3. Faktoren bezüglich des geografischen Risikos – Registrierung, Niederlassung, Wohnsitz in:
   a) Mitgliedstaaten,
   b) Drittstaaten mit gut funktionierenden Systemen zur Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und von Terrorismusfinanzierung,
   c) Drittstaaten, in denen Korruption und andere kriminelle Tätigkeiten laut glaubwürdigen Quellen schwach ausgeprägt sind,

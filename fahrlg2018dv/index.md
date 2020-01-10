@@ -6,10 +6,11 @@
 
 - [§ 1 Sprachtest; Anpassungslehrgang und Eignungsprüfung](0001.md)
 - [§ 2 Anwärterschein und Fahrlehrerschein](0002.md)
+- [§ 2a Durchführung des Lehrgangs Fahrschulbetriebswirtschaft](0002a.md)
 - [§ 3 Unterrichtsräume](0003.md)
 - [§ 4 Lehrmittel](0004.md)
 - [§ 5 Lehrfahrzeuge für Fahrschüler](0005.md)
-- [§ 6 Ausbildungsnachweis und Ausbildungsbescheinigung für Fahrschüler](0006.md)
+- [§ 6 Ausbildungsnachweis](0006.md)
 - [§ 7 Preisaushang](0007.md)
 
 ## Zweiter Abschnitt Anforderungen an Fahrlehrerausbildungsstätten
@@ -44,6 +45,7 @@
 - [§ 20 Ordnungswidrigkeiten](0020.md)
 - [Anlage 1.1 (zu § 2 Absatz 1)Anwärterschein Fahrlehrer](anlage-1-1.md)
 - [Anlage 1.2 (zu § 2 Absatz 1)Fahrlehrerschein](anlage-1-2.md)
+- [Anlage 1a (zu § 2a) Musterplan für den Fahrschulbetriebswirtschaftslehrgang](anlage-1a.md)
 - [Anlage 2 (zu § 3)Unterrichtsräume](anlage-2.md)
-- [Anlage 3 (zu § 6 Absatz 1)](anlage-3.md)
+- [Anlage 3 (zu § 6 Absatz 1) Ausbildungsnachweis](anlage-3.md)
 - [Anlage 4 (zu § 7)Preisaushang nach § 32 des Fahrlehrergesetzes](anlage-4.md)

@@ -4,4 +4,4 @@
 - [§ 2 Anspruch](0002.md)
 - [§ 3 Anpassung](0003.md)
 - [§ 4 Rückforderung](0004.md)
-- [§ 5 Erstattung](0005.md)
+- [§ 5 (weggefallen)](0005.md)

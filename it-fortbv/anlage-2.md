@@ -1,54 +1,24 @@
-# Anlage 2 (zu § 20 Abs. 5)
+# Anlage 2 (zu den §§ 22 und 35)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2002, 1563;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-...............................................................................
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-Herr/Frau .....................................................................
-geboren am ................. in ...............................................
-hat am ..................... die Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-gemäß der Verordnung über die berufliche Fortbildung im Bereich der
-Informations- und Telekommunikationstechnik (IT-Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 55 der Verordnung
-vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
-Punkte 1) Note
-I. Betriebliche IT-Prozesse
-Themenstellung: ................................ ......... .......
-II. Profilspezifische IT-Fachaufgaben ......... .......
-1. Situationsaufgabe 1
-Themenstellung ............................... .........
-2. Situationsaufgabe 2
-Themenstellung ............................... .........
-3. Situationsaufgabe 3
-Themenstellung ............................... .........
-III. Mitarbeiterführung und Personalmanagement ......... .......
-1. Situationsaufgabe 1
-Themenstellung ............................... .........
-2. Situationsaufgabe 2
-Themenstellung ............................... .........
-3. Praktische Demonstration
-Anwendungsfall ............................... .........
-IV. Gesamtnote 2) .......
-(Im Fall des § 32: "Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-wurde gemäß § 32 im Hinblick auf die am .....................................
-in ..................... vor .............................. abgelegte Prüfung
-in dem Prüfungsteil/Prüfungsbereich .................. freigestellt.")
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
-dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
-(BAnz AT 20.11.2013 B2).
-Datum ............................................
-Unterschrift(en) .................................
-(Siegel der zuständigen Stelle)
------
-1) Den Bewertungen lag folgender Punkteschlüssel zugrunde: .................
-..........................................................................
-2) Die Gesamtnote wird aus dem arithmetischen Mittel der
-Punktebewertungen der drei Prüfungsteile gebildet. Dabei hat der
-Prüfungsteil "Betriebliche IT-Prozesse" das doppelte Gewicht gegenüber
-den beiden anderen Prüfungsteilen.
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4 und 5,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Betriebliche IT-Prozesse“ die Benennung, die Themenstellung, die Bewertung und die Note,
+2. zum Prüfungsteil „Profilspezifische IT-Fachaufgaben“
+  a) Benennung, Themenstellungen und Bewertungen für die drei Situationsaufgaben dieses Prüfungsteils sowie
+  b) das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils,
+3. zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+  a) Benennung, Themenstellungen und Bewertungen für die zwei Situationsaufgaben,
+  b) Benennung, den für die praktische Demonstration gewählten Anwendungsfall und dessen Bewertung sowie
+  c) das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils,
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+5. die Gesamtnote als Dezimalzahl,
+6. die Gesamtnote in Worten,
+7. Vorliegen des Nachweises nach § 24,
+8. Befreiungen nach § 36.

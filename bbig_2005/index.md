@@ -19,9 +19,10 @@ von Ausbildungsberufen
 
 - [§ 4 Anerkennung von Ausbildungsberufen](0004.md)
 - [§ 5 Ausbildungsordnung](0005.md)
-- [§ 6 Erprobung neuer Ausbildungsberufe, Ausbildungs- und Prüfungsformen](0006.md)
-- [§ 7 Anrechnung beruflicher Vorbildung auf die Ausbildungszeit](0007.md)
-- [§ 8 Abkürzung und Verlängerung der Ausbildungszeit](0008.md)
+- [§ 6 Erprobung neuer Ausbildungs- und Prüfungsformen](0006.md)
+- [§ 7 Anrechnung beruflicher Vorbildung auf die Ausbildungsdauer](0007.md)
+- [§ 7a Teilzeitberufsausbildung](0007a.md)
+- [§ 8 Verkürzung oder Verlängerung der Ausbildungsdauer](0008.md)
 - [§ 9 Regelungsbefugnis](0009.md)
 
 #### Abschnitt 2 Berufsausbildungsverhältnis
@@ -41,12 +42,12 @@ Ausbildungsverhältnisses
 ##### Unterabschnitt 3 Pflichten der Ausbildenden
 
 - [§ 14 Berufsausbildung](0014.md)
-- [§ 15 Freistellung](0015.md)
+- [§ 15 Freistellung, Anrechnung](0015.md)
 - [§ 16 Zeugnis](0016.md)
 
 ##### Unterabschnitt 4 Vergütung
 
-- [§ 17 Vergütungsanspruch](0017.md)
+- [§ 17 Vergütungsanspruch und Mindestvergütung](0017.md)
 - [§ 18 Bemessung und Fälligkeit der Vergütung](0018.md)
 - [§ 19 Fortzahlung der Vergütung](0019.md)
 
@@ -87,7 +88,7 @@ Berufsausbildungsverhältnisse
 
 - [§ 37 Abschlussprüfung](0037.md)
 - [§ 38 Prüfungsgegenstand](0038.md)
-- [§ 39 Prüfungsausschüsse](0039.md)
+- [§ 39 Prüfungsausschüsse, Prüferdelegationen](0039.md)
 - [§ 40 Zusammensetzung, Berufung](0040.md)
 - [§ 41 Vorsitz, Beschlussfähigkeit, Abstimmung](0041.md)
 - [§ 42 Beschlussfassung, Bewertung der Abschlussprüfung](0042.md)
@@ -108,8 +109,22 @@ Berufsausbildungsverhältnisse
 
 ### Kapitel 2 Berufliche Fortbildung
 
-- [§ 53 Fortbildungsordnung](0053.md)
+
+#### Abschnitt 1 Fortbildungsordnungen des Bundes
+
+- [§ 53 Fortbildungsordnungen der höherqualifizierenden Berufsbildung](0053.md)
+- [§ 53a Fortbildungsstufen](0053a.md)
+- [§ 53b Geprüfter Berufsspezialist und Geprüfte Berufsspezialistin](0053b.md)
+- [§ 53c Bachelor Professional](0053c.md)
+- [§ 53d Master Professional](0053d.md)
+- [§ 53e Anpassungsfortbildungsordnungen](0053e.md)
+
+#### Abschnitt 2 Fortbildungsprüfungsregelungen der zuständigen Stellen
+
 - [§ 54 Fortbildungsprüfungsregelungen der zuständigen Stellen](0054.md)
+
+#### Abschnitt 3 Ausländische Vorqualifikationen, Prüfungen
+
 - [§ 55 Berücksichtigung ausländischer Vorqualifikationen](0055.md)
 - [§ 56 Fortbildungsprüfungen](0056.md)
 - [§ 57 Gleichstellung von Prüfungszeugnissen](0057.md)
@@ -197,14 +212,15 @@ Stelle
 - [§ 98 Satzung](0098.md)
 - [§ 99 Personal](0099.md)
 - [§ 100 Aufsicht über das Bundesinstitut für Berufsbildung](0100.md)
-- [§ 101 Auskunftspflicht](0101.md)
+- [§ 101 Bußgeldvorschriften](0101.md)
 
 ## Teil 6 Bußgeldvorschriften
 
-- [§ 102 Bußgeldvorschriften](0102.md)
+- [§ 102 Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit](0102.md)
 
 ## Teil 7 Übergangs- und Schlussvorschriften
 
-- [§ 103 Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit](0103.md)
-- [§ 104 Fortgeltung bestehender Regelungen](0104.md)
-- [§ 105 Übertragung von Zuständigkeiten](0105.md)
+- [§ 103 Fortgeltung bestehender Regelungen](0103.md)
+- [§ 104 Übertragung von Zuständigkeiten](0104.md)
+- [§ 105 Evaluation](0105.md)
+- [§ 106 Übergangsregelung](0106.md)

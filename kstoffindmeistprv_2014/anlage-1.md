@@ -1,18 +1,54 @@
-# Anlage 1 (zu § 7 Absatz 6)Muster
+# Anlage 1 (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
-| ................................................................................................................................................................................................ |
-| (Bezeichnung der zuständigen Stelle) |
-Zeugnis
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk
-Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-| Herr/Frau .......... |
-| geboren am .......... | in .......... |
-| hat am .......... | die Prüfung zum anerkannten Fortbildungsabschluss |
-Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk
-Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk vom 13. Mai 2014 (BGBl. I S. 515) bestanden.
-Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
-| Datum .......... |
-| Unterschrift(en) .......... |
-| (Siegel der zuständigen Stelle) |
+| Punkte | Noteals Dezimalzahl | Note in Worten | Definition |
+| 100 | 1,0 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 98 und 99 | 1,1 |
+| 96 und 97 | 1,2 |
+| 94 und 95 | 1,3 |
+| 92 und 93 | 1,4 |
+| 91 | 1,5 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 90 | 1,6 |
+| 89 | 1,7 |
+| 88 | 1,8 |
+| 87 | 1,9 |
+| 85 und 86 | 2,0 |
+| 84 | 2,1 |
+| 83 | 2,2 |
+| 82 | 2,3 |
+| 81 | 2,4 |
+| 79 und 80 | 2,5 | befriedigend | eine Leistung, die den Anforderungen im Allgemeinen entspricht |
+| 78 | 2,6 |
+| 77 | 2,7 |
+| 75 und 76 | 2,8 |
+| 74 | 2,9 |
+| 72 und 73 | 3,0 |
+| 71 | 3,1 |
+| 70 | 3,2 |
+| 68 und 69 | 3,3 |
+| 67 | 3,4 |
+| 65 und 66 | 3,5 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 63 und 64 | 3,6 |
+| 62 | 3,7 |
+| 60 und 61 | 3,8 |
+| 58 und 59 | 3,9 |
+| 56 und 57 | 4,0 |
+| 55 | 4,1 |
+| 53 und 54 | 4,2 |
+| 51 und 52 | 4,3 |
+| 50 | 4,4 |
+| 48 und 49 | 4,5 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass gewisse Grundkenntnisse noch vorhanden sind |
+| 46 und 47 | 4,6 |
+| 44 und 45 | 4,7 |
+| 42 und 43 | 4,8 |
+| 40 und 41 | 4,9 |
+| 38 und 39 | 5,0 |
+| 36 und 37 | 5,1 |
+| 34 und 35 | 5,2 |
+| 32 und 33 | 5,3 |
+| 30 und 31 | 5,4 |
+| 25 bis 29 | 5,5 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundkenntnisse fehlen |
+| 20 bis 24 | 5,6 |
+| 15 bis 19 | 5,7 |
+| 10 bis 14 | 5,8 |
+| 5 bis 9 | 5,9 |
+| 0 bis 4 | 6,0 |

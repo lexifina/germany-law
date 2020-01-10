@@ -56,7 +56,7 @@
 |  |  |
 |  | Steuersatz | § 23 |
 |  | Freibetrag für bestimmte Körperschaften | § 24 |
-|  | Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben | § 25 |
+|  | Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben | § 25 |
 |  | Steuerermäßigung bei ausländischen Einkünften | § 26 |
 |  |  |  |
 | Vierter Teil |
