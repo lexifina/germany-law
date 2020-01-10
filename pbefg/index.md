@@ -123,5 +123,6 @@ Allgemeinen Verwaltungsvorschriften
 - [§ 63 Ausschluss abweichenden Landesrechts](0063.md)
 - [§ 64 Andere Gesetze](0064.md)
 - [§ 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht](0064a.md)
+- [§ 64b Landesrecht im Bereich des Gelegenheitsverkehrs](0064b.md)
 - [§ 65 Ausnahmen für Straßenbahnen](0065.md)
 - [§ 66 Berichtspflicht](0066.md)
