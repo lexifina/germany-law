@@ -1,7 +1,7 @@
 # Anlage (zu § 5 Absatz 1)
 Gebührentabelle
-lfd. Nr. | Maßnahme | Gebühr in EUR
-Laufende Nummer | Maßnahme | Gebühr in EUR
+lfd. Nr. | Maßnahme | Gebühr in Euro
+Laufende Nummer | Maßnahme | Gebühr in Euro
 1 | Brandmeister – Einführungslehrgang | 15 500
 2 | Brandmeister – Abschlusslehrgang | 7 700
 3 | Brandoberinspektor | 9 800
