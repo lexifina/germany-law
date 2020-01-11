@@ -1,6 +1,6 @@
 # Inhaltsverzeichnis
 Teil 1 Allgemeine Vorschriften
-§ 1 Anwendungsbereich
+§ 1 Anwendungsbereich, Anzahl der Besucher
 § 2 Begriffe
 Teil 2 Allgemeine Bauvorschriften
 Abschnitt 1 Bauteile und Baustoffe
@@ -16,7 +16,7 @@ Abschnitt 3 Besucherplätze und Einrichtungen für Besucher
 § 10 Bestuhlung, Gänge und Stufengänge
 § 11 Abschrankungen und Schutzvorrichtungen
 § 12 Toilettenräume
-§ 13 Stellplätze für Menschen mit Behinderungen
+§ 13 Stellplätze für Menschen mit Behinderung
 Abschnitt 4 Technische Einrichtungen
 § 14 Sicherheitsstromversorgungsanlagen, elektrische Anlagen und Blitzschutzanlagen
 § 15 Sicherheitsbeleuchtung
@@ -53,8 +53,8 @@ Abschnitt 4 Verantwortliche Personen, besondere Betriebsvorschriften
 § 38 Pflichten der Betreiber, Veranstalter und Beauftragten
 § 39 Verantwortliche für Veranstaltungstechnik
 § 40 Aufgaben und Pflichten der Verantwortlichen für Veranstaltungstechnik, technische Probe
-§ 41 Rettungsdienst
-§ 42 Brandschutzordnung, Feuerwehrpläne
+§ 41 Brandsicherheitswache, Rettungsdienst
+§ 42 Brandschutzordnung, Räumungskonzept, Feuerwehrpläne
 § 43 Sicherheitskonzept, Ordnungsdienst
 Teil 5 Zusätzliche Bauvorlagen
 § 44 Zusätzliche Bauvorlagen, Bestuhlungs- und Rettungswegeplan
@@ -63,7 +63,7 @@ Teil 6 Bestehende Versammlungsstätten
 § 46 Anwendung der Vorschriften auf bestehende Versammlungsstätten
 Teil 7 Schlussvorschriften
 § 47 Ordnungswidrigkeiten
-§ 48 Übergangsregelung
+§ 48 (weggefallen)
 § 49 In-Kraft-Treten und Außer-Kraft-Treten
 Anlage 1 (zu § 39 Abs. 1 Satz 2)
 Anlage 2 (zu § 45)
