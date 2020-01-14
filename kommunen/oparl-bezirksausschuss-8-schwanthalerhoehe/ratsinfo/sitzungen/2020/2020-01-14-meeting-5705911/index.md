@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5705911
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5705911
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.2.2.: Bauvorhaben Landsberger Straße 137
+- TOP 6.2.3.: Bauvorhaben Bergmannstraße 8
+- TOP 4.1.: Freischankfläche auf dem Parkstreifen vor der Gaststätte Bürgerheim, Gollierstraße 56
+- TOP 4.2.: Fahrradparkplätze vor dem Gesundheitsladen Astallerstraße 14
+- TOP 4.3.: Freilaufende Hunde im Bavariapark
+- TOP 4.4.: Überfüllte und vermüllte Containerstandorte an der Ecke Bergmannstraße / Westendstraße sowie am Gollierplatz
+- TOP 6.2.1.: Errichtung eins Neubaus mit sechs Nutzungseinheiten auf dem Anwesen Schrenkstraße 8 / Westendstraße 66a; Projektauftrag
+- TOP 6.3.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.2.: Freischankfläche vor der Schwankwirtschaft „Kiosk Bar“, Parkstraße 25
+- TOP 6.3.3.: Dauerhafte Genehmigung der Freischankfläche Lisalzstr. 30
+- TOP 6.3.4.: Meldelisten Bauvorhaben
+- TOP 6.3.5.: Meldeliste Bauvorhaben SWM
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Informationsveranstaltung des Referates für Bildung und Sport mit den BAs am 02.07.2020
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumfällung Geroltstraße 12
+- TOP 8.2.2.: Personenbezogener Behindertenparkplatz im Bereich Bergmannstraße 9
+- TOP 8.2.3.: 1. Münchner Tomatenfestival am 15.08.2020 auf dem Schneckenplatz
+- TOP 8.2.4.: Informationsveranstaltung E-Bike-Fahrsicherheit am 06.02.2020 auf dem Vorplatz Am Bavariapark 5
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Ausweisung der Heimeranstraße als Fahrradstraße
+- TOP 8.3.2.: Verlängerung des baulichen Radwegs in der Barthstraße bis zur Landsberger Straße
+- TOP 8.3.3.: Versammlung in der Heimeranstraße 31 am 09.01.2020
+- TOP 8.3.4.: Baumfällung Am Bavariapark 5 - Ablehnung der Fällung
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-8-0202
+- TOP 9.1.2.: (E) Stadtbezirksbudget Theatergruppe Auferstehungskirche Westend Anschaffung von Technik für das Krippenspiel am 24.12.2019 2.886,94 €; Az. 0262.0-8-0200
+- TOP 9.1.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. Demokratiemobil München am 13.03. und 14.03.2020 1.500,- €; Az. 0262.0-8-0204
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Errichtung eines Zebrastreifens an der Kreuzung Tulbeckstr. / Ganghoferstr.
+- TOP 11.1.: Berechnung der Zahl der Mitglieder der BAs ab der Amtsperiode 2026 bis 2032
