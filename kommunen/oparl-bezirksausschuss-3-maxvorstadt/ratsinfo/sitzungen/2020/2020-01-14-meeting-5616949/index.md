@@ -1,0 +1,143 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5616949
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5616949
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 25.11.2019, Parkplatzsituation Von-der-Tann-Straße, Schönfeldviertel
+- TOP 5.2.2.: Bürgeranliegen vom 23.11.2019, Totalsperrung für Radfahrer am Oskar-von-Miller-Ring
+- TOP 5.2.3.: Bürgeranliegen vom 04.12.2019, Falschparker in der Amalienstraße
+- TOP 5.2.4.: Bürgeranliegen vom 11.12.2019, Verkehrsspiegel in der Barer Straße
+- TOP 5.2.5.: Bürgeranliegen vom 22.12.2019, Lärmbelästigung durch Lokal in der Isabellastraße
+- TOP 6.1.: Werbeausleger, Werbeanbringung im Bereich Dachauer Straße, Anwortschreiben der Bezirksinspektion Mitte auf eine Bürgeranfrage
+- TOP 6.2.: Bürgeranliegen Gefährdung von Kindern im Bereich der Tiefgarage Josephsplatz, TOP A 5.2.6/11 2019, Maßnahmen durch das Kreisverwaltungsreferat, Verkehrsüberwa- chung eingeleitet
+- TOP 6.3.: Weitere Versiegelung von Grünflächen für Skaterparks vermeiden
+- TOP 6.4.: Aufwertung der Rottmannstraße durch Baumpflanzungen TOP B 1.1/11 2011, Antwortschrei- ben des Baureferates
+- TOP 6.5.: Baumpflanzungen in der Maxvorstadt
+- TOP 6.6.: Der BA 3 fordert das Baureferat auf, die Bäume vor dem Fremdspracheninstitut mindestens drei Meter vom Gebäude entfernt zu pflanzen und zwar auf Höhe der Flucht der Gebäude in der Amalienstraße
+- TOP 6.7.: Bildungsinsel im Arnulfpark fördern
+- TOP 6.8.: Schutz der Anwohner in der Schellingstraße vor Lärm und Abgasen
+- TOP 6.9.: Zeitnahe Umsetzung des Masterplanes im Kunstareal
+- TOP 6.10.: Kunstareal - Verbesserungen im Außenbereich
+- TOP 6.11.: Öffnungszeiten, Freischankflächen, s. TOP A 5.2.7/12 2019, Antwortschreiben Sozialreferat
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 27.12.2019 Biologische Vielfalt im Stadtviertel stärken! Die offenen Baumbereiche in der Tengstraße mit Wildblumen ansäen und einen Parkschutz anlegen
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 27.12.2019 Biologische Vielfalt im Stadtviertel stärken! Wildblumenwiese anstelle von Schmuckstau- den vor dem Innenministerium und auf den Wiesenflächen um den Obelisken am Karolinen- platz anlegen
+- TOP 1.3.: ntrag Bündnis 90/Die Grünen vom 23.12.2019 Technische Innovationen zur CO2-Reduktion und zum Schutz der Insekten (s. Neues Baye- risches Naturschutzgesetz Art. 11 a) zügig umsetzen.
+- TOP 2.1.1.: Listen der Bauvorhaben der LBK: 47., 48., 49., 50. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 47., 48. KW
+- TOP 2.1.3.: Nordendstraße 17, Nutzungsänderung: Büroräume zu Eiscafé
+- TOP 2.1.4.: Dachauer Straße 7 bis 7a, Neuerrichtung des Daches, Nutzungsänderung, Vorbescheid
+- TOP 2.1.5.: Referat für Stadtplanung und Bauordnung, Bebauungsplan mit Grünordnung Nr. 2126 Königinstraße (östlich), Englischer Garten (westlich)
+- TOP 3.2.1.: Veterinärstraße 13, mehrere Bäume
+- TOP 3.2.2.: Dachauer Straße 96, mehrere Bäume
+- TOP 3.2.3.: Ludwigstraße 2, zwei Robinien
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Festsetzung der Reihenfolge großer Siedlungmaßnahmen für die Jahre 2019 – 2023 Infrastrukturversorgungskonzept 2019 – 2023, Sitzungsvorlage Nr. 14-20 / V 15810
+- TOP 5.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erfassung des Einzelhandels im gesamten Stadtgebiet der Landeshauptstadt München Satzung zur Durchführung einer Erhebung des Einzelhandels der LH München (Datenerhebungssatzung EH) mit ergänzender Befragung, Vergabeermächtigung Sitzungsvorlage Nr. 14-20 / V 16302
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Baumschutz in der Landeshauptstadt München, Sitzungsvorlage Nr. 14-20 / V 16921
+- TOP 5.4.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 5.5.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grün- flächen
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag FDP vom 01.11.2019 Buslinie 154, Umbenennung der Haltestelle „Schellingstraße“ in „Barer Straße“
+- TOP 1.2.: Antrag FDP vom 01.11.2019 Neben den Sitzbänken auf dem Geschwister-Scholl-Platz und dem Prof.-Huber-Platz soll eine ausreichende Anzahl von Aschenbecher und Abfallkörben aufgestellt werden.
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 18.11.2019 Pilotprojekt Lehrerparkplätze deutlich reduzieren – Schulbauoffensive 2013 bis 2030 hier: Schulsanierung Luisenstraße 29/Brienner Straße 37 vertagt aus der Sitzung am 03.12.2019 TOP C 1.10
+- TOP 1.4.: Antrag FDP vom 01.12.2019 Automatisierte Fahrradabstellanlage zwischen Fahrbahn Ludwigstraße und U-Bahn-Trasse (Hohlraum über der U-Bahn) an der Haltestelle Universität Nord
+- TOP 1.5.: Antrag SPD vom 18.12.2019 Parkplatz bzw. Ladezone für den Kath. Männerfürsorgeverein e.V.
+- TOP 1.6.: Antrag SPD vom 22.12.2019 Keine komplette Sondernutzung von zukünftigen neuen Gehwegflächen in der Augusten- straße etc.
+- TOP 1.7.: Antrag SPD vom 17.12.2019 E-Ladesäule in der Seidlstraße
+- TOP 1.8.: Antrag SPD vom 20.12.2019 Wettbüros und Table Dance Bars im Bereich des BA 3
+- TOP 1.9.: Antrag SPD vom 20.12.2019 Brienner Straße 47, Kombimülleimer
+- TOP 1.10.: Antrag CSU vom 23.12.2019 Verbesserung der Beleuchtung der Fußgängerwege in der Luisenstraße zwischen Königs- platz und Karlstraße
+- TOP 1.11.: Antrag CSU vom 23.12.2019 Regelmäßige Reinigung des Briefkastens Ecke Theresien-/Schwindstraße sicherstellen
+- TOP 1.12.: Antrag CSU vom 23.12.2019 Markierung Zebrastreifen Ecke Heß-/Arcisstraße auf den Radweg erweitern
+- TOP 1.13.: Antrag CSU vom 23.12.2019 Stadteinwärts Fahrradampel auf der Ludwigstraße, Kreuzung Theresienstraße installieren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schreiben des Bezirksausschusses 4 Schwabing-West vom 21.11.2019 Stellungnahme zu einem Bürgeranliegen, Umwandlung Augustenstraße in eine Fahrrad- straße
+- TOP 2.1.2.: entfällt
+- TOP 2.1.3.: Verkehrsrechtliche Anordnung, Parkraumbewirtschaftung, Parklizenzbereich Schönfeld- viertel/Maxvorstadt, Änderung der Regelung zum Parken in der Kaulbachstraße
+- TOP 2.1.4.: Abfrage des Bedarfs nach Geschwindigkeitsmessungen und Verkehrszählungen in Tempo- 30-Zonen
+- TOP 2.2.1.: Geschwister-Scholl-Platz 1 (Seite Amalienstraße), Sanierung historisches Mosaikpflaster
+- TOP 2.3.1.: Dachauer Straẞe 7, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Karlstraße 54, Aufhebung der Sperrzeit
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Görresstraße 46-54 und Kreuzungsbereich Winzererstraße: Neubau Wasserleitung b) Marsstraße zwischen Pappenheim- und Seidlstraße, Straßenbau c) Oskar-von-Miller-Ring, Verbreiterung des Baufeldes an der Südseite
+- TOP 3.2.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung, Einrichtung einer unechten Einbahnstraße, Brienner Straße zwischen Odeonsplatz und Amiraplatz
+- TOP 3.3.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Dachauer Straße 96-98: Ergänzung der Tempo-30-Beschilderung
+- TOP 3.4.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen Nymphenburger Straße 18, Haltverbotszone mit Zusätzen
+- TOP 3.5.: Baureferat, Beschlussvorlage Nahmobilitätspauschale, Erhöhung ab 2020
+- TOP 3.6.: Kreisverwaltungsreferat, Erlaubnisbescheid „Grüne Weihnachten“ am 07.12.2019 auf dem Josephsplatz
+- TOP 3.7.: Isabellastraße 8 und 14: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze (Anlehnen)
+- TOP 3.8.: Kardinal-Döpfner-Straße 8, Umwandlung Kfz-Stellplätze in Fahrradstellplätze (Anlehnen)
+- TOP 3.9.: Ausnahmezulassung, Jahresgenehmigung 2020 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet nach BImschG
+- TOP 3.10.: 3.10 Ausnahmezulassung, Jahresgenehmigung, Betrieb von Müllsammelfahrzeugen 2020
+- TOP 3.11.: Stadtwerke München, Baumaßnahmen: a) Schönfeldstraße 8-10, Wasser b) Max-Joseph-Straße 5, Fernkälte
+- TOP 3.12.: Ausnahmezulassung, Mülleinsammlung Partie 18-037, Schleißheimer-, Schwind-, There- sien-, Linprun- Schelling- und Sandstraße
+- TOP 3.13.: Ausnahmezulassung, Mülleinsammlung Partie 18-012, Umgebung Stiglmaierplatz
+- TOP 3.14.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP 3.15.: Referat für Gesundheit und Umwelt, Jahresgenehmigungen für Reinigungsarbeiten an U-Bahn- höfen im gesamten Stadtgebiet München
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Verkehrsrechtliche Anordnung, Nordseite Von-der-Tann-Straße, östlich Ludwigstraße; am Zeichen 214 StVO wird der Zusatz „Linienverkehr frei“ angebracht
+- TOP 3.18.: Verkehrsrechtliche Anordnung, Kardinal-Döpfner-Straße, Verlegen eines eingeschränkten Haltverbotes von der Westseite an die Ostseite
+- TOP 3.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. “Café Hereinspaziert/ Come 2gether, get united“ von 01.01. - 31.07.20 307,50 €; Az. 0262.0-3-0280
+- TOP 2.2.: (E) Stadtbezirksbudget St. Vinzentiusverein – Konferenz St. Benno (Träger des kath. Kindergarten und Hort) Erneuerung Tische und Stühle im Hort zur Hausaufgabenbetreuung ab Januar 2020 11.743,- €; Az. 0262.0-3-0281
+- TOP 2.3.: (E) Stadtbezirksbudget Haus an der Gabelsbergerstraße Katholischer Männerfürsorgeverein e.V. “Kreative Köpfe“ vom 15.01.2020 – 31.05.2020 2.489,78 €; Az. 0262.0-3-0282
+- TOP 2.4.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Anteilige Personalkosten für das Kooperationsprojekt „Solidarity City München“ vom 01.04. - 31.12.2020 4.056,96 €; Az. 0262.0-3-0287
+- TOP 2.5.: (E) Stadtbezirksbudget Polizeiklasse Projekt 80335/6 vom 18.01. - 31.12.2020 15.000,- €; Az. 0262.0-3-0285
+- TOP 2.6.: (E) Stadtbezirksbudget Refugee Law Clinic Munich e.V. Ausbildungswochenende für neue Berater vom 29.05. - 31.05.2020 2.929,05 €; Az. 0262.0-3-0286
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 4.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 4.4.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.5.: Sozialreferat, Ausbau der Mietberatungsstelle, Stärkung der Beratungsleistungen für Mieterinnen und Mieter in Not, Beschlussvorlage Sitzungsvorlage Nr. 114-20 / A 04196
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 Euro, Az.: 0262.0-3-0283
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Übersichtslisten zum Stadtbezirksbudget, 2. Halbjahr 2019
+- TOP F.2.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
