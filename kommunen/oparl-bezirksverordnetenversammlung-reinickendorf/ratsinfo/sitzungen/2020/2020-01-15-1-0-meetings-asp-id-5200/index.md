@@ -1,0 +1,117 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-01-15T17:02:00+01:00
+- Ende: 2020-01-15T22:03:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5200
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5200
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: ÖPNV-Anbindung Heiligensee - beantwortet
+- TOP 2.2: Maßnahmen gegen Diskriminierung deutscher Wohnungssuchender - beantwortet
+- TOP 2.3: Verbot privaten Feuerwerks in Reinickendorf - beantwortet
+- TOP 2.4: Stilllegung von Tiefbrunnen im Einzugsgebiet des Tegeler Sees - beantwortet
+- TOP 2.5: Bezirkliche Hilfemaßnahmen zur Verhinderung von Wohnraumverlust - beantwortet
+- TOP 2.6: Geschützte Grünanlage auf dem Gelände des KBoN - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 38. Sitzung der BVV am 15.01.2020 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Humboldt Klinikum - beantwortet
+- TOP 4.2: TetraPak-Gelände - beantwortet
+- TOP 4.3: Windows 7 Rechner in der Reinickendorfer Verwaltung - beantwortet
+- TOP 4.4: Sachstand KBoN-Gelände - beantwortet
+- TOP 4.5: Abgestellte und vernachlässigte Fahrräder am Rathaus Reinickendorf - beantwortet
+- TOP 4.6: Familienfarm Lübars - beantwortet
+- TOP 4.7: Stand bei der Umstellung auf Windows 10 - beantwortet
+- TOP 4.8: Quereinsteiger an Reinickendorfer Schulen - beantwortet
+- TOP 4.9: Trödelmärkte Markstraße - beantwortet
+- TOP 4.10: Antrag Anordnungsbehörde zu Querung der Heidekrautbahn bei km 3,3? - beantwortet
+- TOP 4.11: Feuersicherheit in modularen Ergänzungsbauten - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Städtebauliche Aufwertung eines Platzes in Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Verhinderung von Falschparkern in der Wittestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Beleuchtungssituation in der Wiltinger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Spielplatzversorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Zusätzlicher Recyclinghof in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Erinnerung Luftbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Vernetzung interkultureller Organisationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Verkehrssicherheit an der Treuenbrietzener Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Bezirkliche Feier zur Einbürgerung - überwiesen
+- TOP 7.10: Gehwegparken zwischen der Straße nach der Höhe und Hochjagdstraße aufheben - überwiesen
+- TOP 7.11: Lärm- und Geruchsbelästigung am Pumpwerk Heiligensee abstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Regenbogenfahne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Runder Tisch der Senatsverwaltung: Medizinische Versorgung von in Berlin lebenden Menschen mit Flüchtlingshintergrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: "Nacht der Solidarität" - Zählung obdachloser Menschen / Freiwillige - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Einstellung des Bebauungsplanentwurfs XX-182 c für die Grundstücke Kurt-Schumacher-Damm 28, 30B-G, 32A-B, 34A-B, 36A-B, 38A-B, die Teilflächen der Grundstücke Grundbuch Blätter 7, 1109, 2757, 4213 und 5000 von Tegel-Forst, die Flächen der Straßen 442, 443, 445 und Teilflächen der Meteor-, Nordlichtstraße, des Kurt-Schumacher-Damms und des Bundesautobahnabzweiges Wedding A 105 im Bezirk Reinickendorf, Ortsteil Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Einstellung des Bebauungsplanentwurfs 12-14 für die Grundstücke Kurt-Schumacher-Damm 12/16, Nordlichtstraße 2/4 und Abschnitte der Straße 462, der Nordlichtstraße und des Kurt-Schumacher-Damms im Bezirk Reinickendorf, Ortsteil Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Einstellung des Bebauungsplanentwurfs XX-182 b für die Grundstücke Scharnweberstraße 138, Kurt-Schumacher-Damm 2-6, Straße 462 Nr. 2/4, Nordlichtstraße 6-10 und 13, Meteorstraße 6/10, einen Abschnitt der Nordlichtstraße und Teilflächen der Straße 462 und des Kurt-Schumacher-Damms sowie Verkehrsflächen am U-Bahnhof Kurt-Schumacher-Platz einschließlich des Parkplatzes im Bezirk Reinickendorf, Ortsteil Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schulplatzversorgung in Reinickendorf - beantwortet
+- TOP 8.1.1: Schulneubau - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Verschleppt Stadtrat weiterhin die Umsetzung von BVV-Beschlüssen? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Humboldtklinikum besser an den ÖPNV anbinden - erledigt
+- TOP 10.2: Hundeauslaufzone - erledigt
+- TOP 10.3: Digitale Bildung sicherstellen 3 - erledigt
+- TOP 10.4: Schaffung eines Rad- und Wanderwegs zwischen Reinickendorf und Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Fontane-Haus barrierefrei zugänglich machen - erledigt
+- TOP 10.6: Verkehrsberuhigung des Dorfkerns Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Schönheitskur für die Tegeler Sechserbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Blumenkübel am Ludolfinger Platz - erledigt
+- TOP 10.9: Fahrradweg durch den Steinbergpark - erledigt
+- TOP 10.10: Barrierefreiheit in der Wachsmuthstraße - erledigt
+- TOP 10.11: Sechserbrücke in Tegel endlich behindertengerecht herrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Verbesserung der Beleuchtung im Schloßviertel in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Potentialanalyse / Ausbau Jugendarbeit - erledigt
+- TOP 10.14: Zebrastreifen für Menschen mit Sehbehinderung und blinde Menschen - in der BVV abgelehnt
+- TOP 10.15: Hitzeaktionsplan - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Keine Umstellung der Altglassammlung - in der BVV abgelehnt
+- TOP 10.17: Geschirrmobil - vertagt
+- TOP 10.18: Radverkehr in Reinickendorf- sicher, komfortabel und ideologiefrei IV - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Verleihung eines Reinickendorfer Umweltpreises - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Eingeschränktes Halteverbot auf der Fahrbahn des Grünlandwegs - in der BVV abgelehnt
+- TOP 10.21: Dialogdisplays in der Roedernstraße/Odilostraße aufstellen - erledigt
+- TOP 10.22: Umweltschutzprojekte mit dem Kiezfonds fördern - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Mobiltelefone für den Sozialdienst - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Mobile Schadstoffsammlung in Reinickendorf ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schwerpunkteinsätze des Ordnungsamtes in Bezug auf Verkehrsordnungswidrigkeiten durchführen - überwiesen
+- TOP 12.2: Orientierungshilfe für Autofahrer - überwiesen
+- TOP 12.3: Bezirkliche Kontrolle von Förderprogrammen und Sondermitteln - überwiesen
+- TOP 12.4: Reduzierung von CO2-Emissionen - überwiesen
+- TOP 12.5: IGSV - auch in Reinickendorf umsetzen - überwiesen
+- TOP 12.6: Fahrradwracks schneller aus dem öffentlichen Raum entfernen - überwiesen
+- TOP 12.7: Alle Straßen in der Cité Guynemer öffentlich-rechtlich widmen - überwiesen
+- TOP 12.8: Solardächer auf Schulen - überwiesen
+- TOP 12.9: Maßnahmen gegen sexualisierte Gewalt I - überwiesen
+- TOP 12.10: Maßnahmen gegen sexualisierte Gewalt II - überwiesen
+- TOP 12.11: Spielplatzplanung Wittenau - überwiesen
+- TOP 12.12: Verwaltungsinterner Klima-Wettbewerb - überwiesen
+- TOP 12.13: Rucksack-Programm - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Ausfahrt aus der Nordmeile - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Temperaturanzeiger im öffentlichen Raum - überwiesen
+- TOP 13.3: Schutzwohnungen von zur Zwangsheirat Betroffenen einrichten - überwiesen
+- TOP 13.4: S1X als Pendler-Express-Linien einführen - überwiesen
+- TOP 13.5: Zugtausche bei der S-Bahn wieder kunden- und hörbehindertenfreundlicher gestalten - überwiesen
+- TOP 13.6: "Blaue Augen" in Reinickendorf - überwiesen
+- TOP 13.7: Zugänglichkeit von BVG-WCs für Behinderte - überwiesen
+- TOP 13.8: Verschiebung des BVG-Wartehäuschens - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Briefkasten Leerung in der Grußdorfstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Effizienter Umgang mit illegalen Müllablagen - überwiesen
+- TOP 13.11: Sicherstellen einer zuverlässigen ÖPNV-Anbindung der Ortsteile Heiligensee/Tegel /Konradshöhe-Verspätungen und Ausfälle abstellen. - überwiesen
+- TOP 13.12: Einsatzkräfte von Polizei, Feuerwehr und Hilfsorganisationen besser schützen - überwiesen
