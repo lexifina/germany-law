@@ -1,0 +1,61 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-01-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5607812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5607812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 03.12.2019
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Berechnung Mitgliederzahlen Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Deutscher Touring Kajak Club 1912 e.V. 29.Münchner Kanu Triathlon 2020 am 10.05.2020 375,00 € / Az. 0262.0-19-0294
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Projekt Schulimkerei 2020 vom 01.01.-31.12.2020 4.516,88 € / Az. 0262.0-19-0295
+- TOP 3.4.: (E) Stadtbezirksbudget Ev. Sozialdienst e.V. Intensive Deutschförderung für Kinder mit Migrationshintergrund von 09.09.20 – 29.07.21 2.500,- €; Az. 0262.0-19-0293
+- TOP 3.5.: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-19-0296
+- TOP 3.6.: (E) Stadtbezirksbudget Kindertagesstätte Rasselbande gGmbH Anschaffung eines Klettergerüstes im Frühjahr 2020 11.344,12 €; Az. 0262.0-19-0297
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Wertstoffcontainer im Stadtbezirk 19 abschaffen - die Gelbe Tonne einführen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Absolutes Halteverbot im Kreuzungsbereich Springerstraße/Herterichstraße
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Gefahrzeichen Kinder Grundschule Walliser Straße
+- TOP 5.3.: (A) Bedarf TOPO-Boxen zur Verkehrszählung und Geschwindigkeitsmessung
+- TOP 5.4.: Nutzungsanfrage Busabstellplätze am Ratzingerplatz
+- TOP 5.5.: Behindertenparkplätze Baierbrunner Straße 101-103
+- TOP 5.6.: (Antrag) Parksituation Herterichstraße
+- TOP 5.7.: (A) Sanierung der Fahrradwege in der Hofmannstraße (BA-Antrag Nr. 14-20 / B 5882)
+- TOP 5.8.: (Antrag) Wendemöglichkeit Aidenbachstraße
+- TOP 5.9.: (Antrag) Halteverbot Forstenrieder Allee - wird nachgereicht -
+- TOP 5.10.: (Antrag) Fahrradstraße Forst-Kasten-Allee
+- TOP 5.11.: (Antrag) Halteverbot Bertelestraße/Stridbeckstraße
+- TOP 5.12.: (E) Projektplanung: Aufstellfläche und Fahrradabstellplätze Winterthurer Straße/ Züricher Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Betriebsbeschreibung: Sonderpädagogisches Förderzentrum Allescher Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Bürgerbüro Forstenrieder Allee
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Streetart-Projekt Unterführung Heinrich-Vogl-Straße (S-Bahnstation Solln)
+- TOP 8.2.: (U) Gaststättenfortführung: Boschetsrieder Straße 5
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung und Sammelbeschluss
