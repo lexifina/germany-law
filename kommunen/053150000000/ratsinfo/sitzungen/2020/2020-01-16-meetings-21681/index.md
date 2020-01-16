@@ -1,0 +1,67 @@
+# 43. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-16T15:30:00+01:00
+- Ende: 2020-01-16T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21681
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21681
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP -: Ersetzungsantrag der SPD Fraktion zu AN/1090/2019 Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP 2.2: Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 2.2 - Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte - Sache ist erledigt
+- TOP 2.3: Ersetzungsantrag: Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte - Sache ist erledigt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Verteilung der Fördermittel 2020 "SeniorenNetzwerke/Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - endgültig zurückgezogen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen von SPD und Die Linke zu Vorlage 1224/2019 Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion der FDP zur Vorlage 1224/2019 - Sache ist erledigt
+- TOP 4.2: Sitzen statt Parken - Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 4.3: Neue Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz - ungeändert empfohlen
+- TOP 4.4: 'Integrationsbudget' - Verteilung der Finanzmittel in 2020 - ungeändert empfohlen
+- TOP 4.5: Förderung der Antirassismus-Arbeit / 1. Zuwendung 2020 - ungeändert empfohlen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Stadtarbeitsgemeinschaften
+- TOP 7: Behindertenbeauftragter
+- TOP 7.1: Bericht des Behindertenbeauftragten 01/2020 - Kenntnis genommen
+- TOP 7.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 8: Aktuelle Situation Geflüchteter in Köln
+- TOP 8.1: Bericht zur aktuellen Situation von Geflüchteter in Köln
+- TOP 8.2: Evaluation Mindeststandards zur Flüchtlingsunterbringung - Teil II - ungeändert empfohlen
+- TOP 8.3: Medizinische Grundversorgung von Geflüchteten - Evaluation Mindeststandards Teil I - ungeändert empfohlen
+- TOP 8.4: Beschluss zur Seenotrettung vom Februar 2019: Was ist bisher passiert? - Kenntnis genommen
+- TOP 9: JobCenter Köln
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9.2: Übernahme von Mitgliedsbeiträgen für den Mieterverein durch das Jobcenter - Kenntnis genommen
+- TOP 9.3: Beantwortung der Anfrage der Fraktion DIE LINKE zur Übernahme von Mitgliedsbeiträgen für den Mieterverein durch das Jobcenter - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage Ratsgruppe BUNT AN/0307/2019 zu Solidarity City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - Kenntnis genommen
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Optimierung des gesamtstädtischen Flüchtlingsdatenmanagements - Kenntnis genommen
+- TOP 15.2: Sachstandsbericht: Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 15.3: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus? - Kenntnis genommen
+- TOP 15.4: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 15.5: Kooperatives Baulandmodell Köln; Hier: 2. Sachstandsbericht Kooperatives Baulandmodell mit Stand 15.10.2019 - Kenntnis genommen
+- TOP 15.6: Mitteilung zum Bericht zur Situation wohnungloser und von Wohnungslosigkeit bedrohter Frauen in der Stadt Köln - Kenntnis genommen
+- TOP 15.7: Erfahrungsbericht 2018 zur Inklusionsvereinbarung - Kenntnis genommen
+- TOP 15.8: Projektförderung für bürgerschaftliches Engagement - Kenntnis genommen
+- TOP 15.9: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 15.10: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - zurückgestellt
+- TOP 15.11: Resolution zur ärztlichen und zahnärztlichen Versorgung in Pflegeeinrichtungen - geändert beschlossen
+- TOP 15.12: Überprüfung des Zolls bei Bewachungsunternehmen für Geflüchtetenunterkünfte - Kenntnis genommen
+- TOP 15.13: Abschlussbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
