@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 2.2 - Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte
+
+- Sitzung: 43. Sitzung des Ausschusses Soziales und Senioren (2020-01-16)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/292416
+- Ergebnis: Sache ist erledigt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/139981
