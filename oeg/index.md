@@ -13,7 +13,7 @@
 - [§ 9 (Änderung des Pflichtversicherungsgesetzes)](0009.md)
 - [§ 10 Übergangsvorschriften](0010.md)
 - [§ 10a Härteregelung](0010a.md)
-- [§ 10b Härteausgleich](0010b.md)
+- [§ 10b (weggefallen)](0010b.md)
 - [§ 10c Übergangsregelung](0010c.md)
 - [§ 10d Übergangsvorschrift](0010d.md)
 - [§ 11 (Inkrafttreten)](0011.md)
