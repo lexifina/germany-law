@@ -208,8 +208,7 @@ Sachverständigengutachten
 ##### IV. Auskunfts- und Vorlageverweigerungsrechte
 
 - [§ 101 Auskunfts- und Eidesverweigerungsrecht der Angehörigen](0101.md)
-- [§ 102 Auskunftsverweigerungsrecht zum Schutz bestimmter
-Berufsgeheimnisse](0102.md)
+- [§ 102 Auskunftsverweigerungsrecht zum Schutz bestimmter Berufsgeheimnisse](0102.md)
 - [§ 103 Auskunftsverweigerungsrecht bei Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit](0103.md)
 - [§ 104 Verweigerung der Erstattung eines Gutachtens und der
 Vorlage von Urkunden](0104.md)
@@ -282,6 +281,14 @@ und Vermögensmassen](0137.md)
 - [§ 138a Länderbezogener Bericht multinationaler Unternehmensgruppen](0138a.md)
 - [§ 138b Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften](0138b.md)
 - [§ 138c Verordnungsermächtigung](0138c.md)
+- [§ 138d Pflicht zur Mitteilung grenzüberschreitender Steuergestaltungen](0138d.md)
+- [§ 138e Kennzeichen grenzüberschreitender Steuergestaltungen](0138e.md)
+- [§ 138f Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre](0138f.md)
+- [§ 138g Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer](0138g.md)
+- [§ 138h Mitteilungen bei marktfähigen grenzüberschreitenden Steuergestaltungen](0138h.md)
+- [§ 138i Information der Landesfinanzbehörden](0138i.md)
+- [§ 138j Auswertung der Mitteilungen grenzüberschreitender Steuergestaltungen](0138j.md)
+- [§ 138k Angabe der grenzüberschreitenden Steuergestaltung in der Steuererklärung](0138k.md)
 - [§ 139 Anmeldung von Betrieben in besonderen Fällen](0139.md)
 
 #### 3. Unterabschnitt Identifikationsmerkmal

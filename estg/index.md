@@ -191,6 +191,10 @@
 
 - [§ 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer](0035b.md)
 
+### 6. Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
+
+- [§ 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden](0035c.md)
+
 ## VI. Steuererhebung
 
 

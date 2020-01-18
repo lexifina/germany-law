@@ -258,6 +258,14 @@
 | § 138a | Länderbezogener Bericht multinationaler Unternehmensgruppen |
 | § 138b | Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften |
 | § 138c | Verordnungsermächtigung |
+| § 138d | Pflicht zur Mitteilung grenzüberschreitender Steuergestaltungen |
+| § 138e | Kennzeichen grenzüberschreitender Steuergestaltungen |
+| § 138f | Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre |
+| § 138g | Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer |
+| § 138h | Mitteilungen bei marktfähigen grenzüberschreitenden Steuergestaltungen |
+| § 138i | Information der Landesfinanzbehörden |
+| § 138j | Auswertung der Mitteilungen grenzüberschreitender Steuergestaltungen |
+| § 138k | Angabe der grenzüberschreitenden Steuergestaltung in der Steuererklärung |
 | § 139 | Anmeldung von Betrieben in besonderen Fällen |
 |  |  |
 | 3. Unterabschnitt |
