@@ -8,7 +8,6 @@ Sonderversorgungssystemen des Beitrittsgebiets durch den Bund
 - [§ 3 Erstattung der Verwaltungskosten](0003.md)
 - [§ 4 Erfassung der Aufwendungen](0004.md)
 - [§ 5 Vorschüsse](0005.md)
-- [§ 6 Durchführung des Erstattungsverfahrens und der
-Abrechnung](0006.md)
+- [§ 6 Durchführung des Erstattungsverfahrens und der Abrechnung](0006.md)
 - [§ 7 Inkrafttreten](0007.md)
 - [Schlußformel](schlussformel.md)

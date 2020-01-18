@@ -215,7 +215,7 @@
 - [§ 91 Arten](0091.md)
 - [§ 92 Versicherungsämter](0092.md)
 - [§ 93 Aufgaben der Versicherungsämter](0093.md)
-- [§ 94 Bundesversicherungsamt](0094.md)
+- [§ 94 Bundesamt für Soziale Sicherung](0094.md)
 
 ## Sechster Abschnitt Verarbeitung von elektronischen Daten in der Sozialversicherung
 

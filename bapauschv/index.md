@@ -6,7 +6,6 @@ arbeitsmarktbedingte Renten wegen voller Erwerbsminderung
 - [§ 1 Berechnung des Ausgleichsbetrags](0001.md)
 - [§ 2 Fälligkeit der Abschlagszahlungen auf den Ausgleichsbetrag](0002.md)
 - [§ 3 Fälligkeit des Ausgleichsbetrags](0003.md)
-- [§ 4 Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den
-Ausgleichsbetrag](0004.md)
+- [§ 4 Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den Ausgleichsbetrag](0004.md)
 - [§ 5 Inkrafttreten](0005.md)
 - [Schlussformel](schlussformel.md)

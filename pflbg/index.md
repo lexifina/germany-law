@@ -118,6 +118,7 @@
 - [§ 64 Fortgeltung der Berufsbezeichnung](0064.md)
 - [§ 65 Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz](0065.md)
 - [§ 66 Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz](0066.md)
+- [§ 66a Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse](0066a.md)
 - [§ 67 Kooperationen von Hochschulen und Pflegeschulen](0067.md)
 - [§ 68 Evaluierung](0068.md)
 - [Anlage (zu § 41 Absatz 1 Satz 1)](anlage.md)

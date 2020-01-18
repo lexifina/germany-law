@@ -32,9 +32,6 @@ Ausbildung zu pharmazeutisch-technischen Assistenten
 
 - [§ 16 Anrechnungsfähige Ausbildungszeiten und Prüfungen](0016.md)
 - [§ 17 Fehlzeiten](0017.md)
-
-## Abschnitt 4a Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitglied staat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
-
 - [§ 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben](0018.md)
 - [§ 18a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum](0018a.md)
 - [§ 18b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat](0018b.md)

@@ -43,6 +43,7 @@
 - [§ 16 Zulage für Klimaerprobung](0016.md)
 - [§ 16a Zulage für Unterdruckkammerdienst](0016a.md)
 - [§ 16b Zulage für Ausbildungstätigkeiten im Feuerwehrdienst der Bundeswehr](0016b.md)
+- [§ 16c Zulage für die Begleitung von Rückführungen auf dem Luftweg](0016c.md)
 - [§ 17 Zulage für Tätigkeiten mit kontaminierten Personen oder Gegenständen](0017.md)
 
 ## Abschnitt 3 Zulage für Dienst zu wechselnden Zeiten
@@ -61,8 +62,7 @@
 - [§ 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal](0022a.md)
 - [§ 23 Zulage für die Beseitigung von Munition aus den Weltkriegen](0023.md)
 - [§ 23a Zulage für Tätigkeiten im Seuchenbetrieb des Friedrich-Loeffler-Instituts](0023a.md)
-- [§ 23b Zulage für Tätigkeiten an Bord in Dienst gestellter seegehender Schiffe](0023b.md)
-- [§ 23c Zulage für Tätigkeiten an Bord in Dienst gestellter U-Boote](0023c.md)
+- [(XXXX)§§ 23b und 23c (weggefallen)](xxxx-23b-und-23c.md)
 - [§ 23d Zulage für Tätigkeiten im Maschinenraum seegehender Schiffe](0023d.md)
 - [§ 23e Zulage für Minentaucher](0023e.md)
 - [§ 23f Zulage für fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes](0023f.md)
@@ -75,6 +75,9 @@
 - [§ 23m Zulage für Spezialkräfte der Bundeswehr](0023m.md)
 - [§ 23n Zulage für besondere Erprobungs- und Versuchsarbeiten im Geschäftsbereich des Bundesministeriums der Verteidigung](0023n.md)
 - [§ 23o Zulage für spezialisierte Kräfte der Bundeswehr](0023o.md)
+- [§ 23p Zulage für besonders befähigte Unterstützungskräfte der Spezialkräfte der Bundeswehr](0023p.md)
+- [§ 23q Zulage für Tätigkeiten im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung](0023q.md)
+- [§ 23r Zulage für Tätigkeiten mit Biostoffen in Laboratorien](0023r.md)
 
 ## Abschnitt 5 Übergangsregelungen
 

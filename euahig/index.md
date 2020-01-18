@@ -35,5 +35,5 @@
 - [§ 17 Standardformblätter und Kommunikationsmittel](0017.md)
 - [§ 18 Informationsübermittlung an Drittstaaten](0018.md)
 - [§ 19 Datenschutz und Zweckbestimmung](0019.md)
-- [§ 20 Statistiken zum automatischen Informationsaustausch](0020.md)
+- [§ 20 Statistiken und Bewertungen](0020.md)
 - [§ 21 Übergangsvorschriften](0021.md)

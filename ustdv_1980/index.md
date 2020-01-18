@@ -90,8 +90,7 @@ unterliegen](0032.md)
 
 ## - Zu § 15 des Gesetzes
 
-- [§ 35 Vorsteuerabzug bei Rechnungen über Kleinbeträge und bei
-Fahrausweisen](0035.md)
+- [§ 35 Vorsteuerabzug bei Rechnungen über Kleinbeträge und bei Fahrausweisen](0035.md)
 - [(XXXX) §§ 36 bis 39a (weggefallen)](xxxx-36-bis-39a.md)
 - [§ 40 Vorsteuerabzug bei unfreien Versendungen](0040.md)
 - [(XXXX) §§ 41 bis 42 (weggefallen)](xxxx-41-bis-42.md)

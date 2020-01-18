@@ -7,8 +7,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Zuständige Stellen](0002.md)
-- [§ 3 Grundlagen der Beziehungen zwischen den Trägern der
-Rentenversicherung und dem Renten Service](0003.md)
+- [§ 3 Grundlagen der Beziehungen zwischen den Trägern der Rentenversicherung und dem Renten Service](0003.md)
 - [§ 4 Verantwortungsbereiche](0004.md)
 - [§ 5 Ergänzende Regelungen](0005.md)
 

@@ -40,6 +40,7 @@ Sonstige einzeln abzugeltende Erschwernisse
 | § 16 | Zulage für Klimaerprobung |
 | § 16a | Zulage für Unterdruckkammerdienst |
 | § 16b | Zulage für Ausbildungstätigkeiten im Feuerwehrdienst der Bundeswehr |
+| § 16c | Zulage für die Begleitung von Rückführungen auf dem Luftweg |
 | § 17 | Zulage für Tätigkeiten mit kontaminierten Personen oder Gegenständen |
 Abschnitt 3
 Zulage für Dienst zu wechselnden Zeiten
@@ -57,8 +58,8 @@ Zulagen in festen Monatsbeträgen
 | § 22a | Zulage für Polizeivollzugsbeamte als fliegendes Personal |
 | § 23 | Zulage für die Beseitigung von Munition aus den Weltkriegen |
 | § 23a | Zulage für Tätigkeiten im Seuchenbetrieb des Friedrich-Loeffler-Instituts |
-| § 23b | Zulage für Tätigkeiten an Bord in Dienst gestellter seegehender Schiffe |
-| § 23c | Zulage für Tätigkeiten an Bord in Dienst gestellter U-Boote |
+| § 23b | (weggefallen) |
+| § 23c | (weggefallen) |
 | § 23d | Zulage für Tätigkeiten im Maschinenraum seegehender Schiffe |
 | § 23e | Zulage für Minentaucher |
 | § 23f | Zulage für fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes |
@@ -71,6 +72,9 @@ Zulagen in festen Monatsbeträgen
 | § 23m | Zulage für Spezialkräfte der Bundeswehr |
 | § 23n | Zulage für besondere Erprobungs- und Versuchsarbeiten im Geschäftsbereich des Bundesministeriums der Verteidigung |
 | § 23o | Zulage für spezialisierte Kräfte der Bundeswehr |
+| § 23p | Zulage für besonders befähigte Unterstützungskräfte der Spezialkräfte der Bundeswehr |
+| § 23q | Zulage für Tätigkeiten im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung |
+| § 23r | Zulage für Tätigkeiten mit Biostoffen in Laboratorien |
 Abschnitt 5
 Übergangsregelungen
 | § 24 | Übergangsregelung für Beamte des Bundeseisenbahnvermögens und der Postnachfolgeunternehmen |
