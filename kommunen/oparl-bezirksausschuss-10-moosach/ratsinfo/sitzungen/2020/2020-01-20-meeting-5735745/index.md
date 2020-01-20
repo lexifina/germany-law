@@ -1,0 +1,64 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-01-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5735745
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5735745
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule, Kultur, Budget
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Ideen für den Radwegausbau zwischen Obermenzing - Moosach - Nymphenburg
+- TOP 3.3.1.: Erneuerung Fußgängerbrücke: Pelkovenstr. 71 / Fodermayrstraße
+- TOP 4.1.1.: Ertüchtigung Bolzplatz hinter der Freizeitstätte "Boomerang"
+- TOP 4.1.2.: Mehr Bürgernähe wagen: Glückwünsche und Gratulationen ermöglichen!
+- TOP 4.1.3.: MVG-Radstation bei "Meile Moosach"
+- TOP 4.2.1.: Benennung Zeitpunkt der endgültigen Herstellung des Fahrbahnbereiches im Straßenbahn-Haltestellenbereich „Dachauer Straße/ Westfriedhof/ Orpheusstraße/ Emmy-Noether-Straße/ Hanauer Straße“ (Anfrage)
+- TOP 4.3.1.: Herstellung der Barrierefreiheit an Verkehrsknotenpunkten a) am Moosacher S-Bahnhof zur Tramhaltestelle Linie 20 und b) an der Hanauerstraße gegenüber Mona-Einkaufszentrum
+- TOP 4.3.2.: Öffnung von Fußwegen auch für Fahrradfahrer
+- TOP 4.3.3.: Abgeschlossene Erneuerung der Kreuzung Dachauer Straße / Hugo-Troendle-Straße: a) Antrag: Verkehrsschild "Tram hat Vorrang" an der Kreuzung Dachauer -/ Hugo-Troendle-Straße anbringen; b) Anfrage: Warum wurde die Lichtzeichenanlage zwischen den Gleisen abgebaut?
+- TOP 4.5.1.: Anträge / Wünsche aus der Einwohnerversammlung für Senioren am 18.10.2019
+- TOP 5.1.: (E) Stadtbezirksbudget Elterninitiative Manzis e.V. Anschaffung einer Datenbank und von Spielgeräten 3.792,40 € / Az. 0262.0-10-0201
+- TOP 5.2.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 € / Az. 0262.0-10-0203
+- TOP 5.3.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Workshop "Sicher im Internet" vom 22.-24.01.2020 708,40 € / Az. 0262.0-10-0202
+- TOP 5.4.: (E) Anbringung einer Kamera-Überwachung an der Wertstoffinsel am Claudiusplatz, 80992 München
+- TOP 5.5.: (E) Umgestaltung Radweg Dachauer Straße (2-Richtungs-Radweg) zwischen Georg-Brauchle-Ring und Feldmochinger Straße stadtauswärts Empfehlung Nr. 14-20 / E 02893 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 17.10.2019
+- TOP 5.6.: (E) Aufstellen von Fahrradständern vor Anwesen Hanauer Str. 56 (Bezirksinspektion Nord) auf öffentlichem Grund Empfehlung Nr. 14-20 / E 02896 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 17.10.2019
+- TOP 6.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 6.2.: Öffnung der einbahngeregelten Dietrichstraße für gegenläufigen Radverkehr (-> Nachfrage KVR zu erledigtem BA-Antrag, TOP 7.2)
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Öffnung der einbahngeregelten Pickelstraße zwischen Sapporobogern und ca. 20m nördlich davon für den gegenläufigen Radverkehr
+- TOP 6.4.: Veranstaltungen auf öffentlichem Verkehrsgrund: 1. Bunzlauer Platz: Einsatz Demokratiemobil vom 12. bis 14.02.2020 2. Bunzlauer Platz: Moosach Narrisch, Straßenfasching am 15.02.2020
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Rathgeberstr. 39
+- TOP 7.1.: Einrichtung eines Bürgerbüros in dem geplanten Kompro/B-Haus mit Kinderkrippe in der Bunzlauer Straße [BA-Antrag Nr. 08-14/ B02433; Altfall 2010; Ablehnung Standort Moosach, da für Norden Standort Scheidplatz in Planung.]
+- TOP 7.2.: Radfahren in Moosach: Verbesserung der Zuwegung Dietrichstraße zum neuen Haupteingang FC Amicitia [BA-Antrag Nr. 14-20/ B06179; Anbringung von Bordsteinabsenkungen, Ablehnung öffentlicher Fahrradabstellplatz auf Fahrbahn.]
+- TOP 7.3.: Stadtsanierung in München - Untersuchungsgebiet Moosach; Entlastung der Verkehrsflächen durch Schaffung von unterirdischem Parkraum [BA-Antrag Nr. 14-20/ B06829; Prüfung wird in das zu erstellende städtebaulich-freiraumplanerische Gesamtkonzept mit aufgenommen.]
+- TOP 7.4.: Abbiegen von Radfahrern vom Sapporobogen in die Pickelstraße, 80637 München [BA-Antrag Nr. 14-20/ B07120; Zustimmung mit verkehrliche Anordnung (gegenläufiger Radverkehr) wird erfolgen]
+- TOP 7.5.: Neubau Kita Dachauer Str. 352; Errichtung einer Hol- und Bringzone für Eltern/ Kinder [Schreiben BA10 vom 20.11.2019; Einrichtung in Absprache mit RBS.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Allacher Straße; Absolutes Halteverbot an Feuerwehrszufahrten 2. Glogauer Platz; Eingeschränktes Haltverbot und Grenzmarkierung 3. Leidinger Platz; Absolutes Haltverbot an der Grünanlage/ Spielplatzeingang 4. Zettlerstraße; Absolutes Haltverbot an der Ostseite 5. Dachauer Straße, Nordseite zw. Franz-Fihl- und Hugo-Troendle-Straße; Ausweisung eines Zweirichtungsradweges
+- TOP 8.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 8.4.: (U) Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2019 – 2023 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 8.5.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP 8.6.: Vorkaufsrecht nach dem BauGB: Hardenbergstraße - nicht-öffentlich -
+- TOP 8.7.: WEB - alle Anträge vom 16.11.2019 bis 30.11.2019 - nicht-öffentlich -
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4.: Anträge
