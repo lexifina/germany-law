@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-20T17:05:00+01:00
+- Ende: 2020-01-20T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21806
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21806
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bezirksrathaus, Absage Ausweichquartier "Volvo-Gelände" - Sache ist erledigt
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrssicherheit auf der Bonner Straße in Köln-Bayenthal und -Marienburg - Kenntnis genommen
+- TOP 7.1.2: Container für die Grundschule Sürther Hauptstr. (Brüder Grimm Schule) - Kenntnis genommen
+- TOP 7.1.3: Zugeparkter Gehweg am Gustav-Heinemann-Ufer - Kenntnis genommen
+- TOP 7.1.4: Weltkinder-KiTa Gaedestraße - Kenntnis genommen
+- TOP 7.1.5: Sanierung Brunnentempel im Fritz-Encke-Volkspark in Köln-Raderthal - Kenntnis genommen
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.7: Beantwortung zu AN/1197/2017, Müllaufkommen im Vorgebirgspark - Kenntnis genommen
+- TOP 7.1.8: Situation der Autofahrer am gesperrten "Rechtsabbieger" am Südstadion - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Unterbringung unerlaubt eingereister Personen, - Kenntnis genommen
+- TOP 7.2.2: Areal Weißer Straße 147 bis151, Köln-Rodenkirchen, ehemalige alte Farbenfabrik, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Durchgangsverkehrs Sinziger Straße und Heidekaul, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Fahrgastzahlen der Buslinie 106, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Gefährdung der Kinder der GGS Sankt-Nikolaus-Schule in Zollstock, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrsplanung rund um das Quartier Reiterstaffel, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Unter Buschweg in Sürth: Teilausbau des Bürgersteigs, Antrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.2.1: TOP 8.1.2: Unterbuschweg in Sürth - geringere Geschwindigkeit, u.a. durch breitere Bürgersteige - zurückgestellt
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Sichere Radverkehrsführung zwischen Rodenkirchen und Rondorf, Dringlichkeitsantrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.5: Ströer-Campus in Sürth: Anbindung durch Kreisverkehr, Gemeinsamer Dringlichkeitsantrag aller Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bericht des Oberbürgermeisterin gem. § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen; hier Jahresbericht 2016 - 2018 - zurückgestellt
+- TOP 9.1.2: Baubeschluss für die Sanierung des Geh- und Radweges auf der Vorgebirgsstraße zwischen Am Vorgebirgstor und Bischofsweg in Köln-Raderberg - ungeändert beschlossen
+- TOP 9.1.3: Umbenennung der Bezirkssportanlage Süd in "Jean-Löring-Sportpark" - ungeändert beschlossen
+- TOP 9.1.4: Förderung "Veedelszüge" 2020, - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - mit Änderungen empfohlen
+- TOP 9.2.2: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - mit Änderungen empfohlen
+- TOP 9.2.2.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - Sache ist erledigt
+- TOP 9.2.3: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 9.2.4: Schulrechtliche Errichtung einer dreizügigen Grundschule – als offene Ganztagsgrundschule - in Köln-Marienburg am Standort Gaedestraße 31, 50968 Köln zum Schuljahr 2022/23 - ungeändert empfohlen
+- TOP 9.2.5: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Sechtemer Straße/Bonnerstraße in Köln-Raderberg - zurückgestellt
+- TOP 9.2.6: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd - ungeändert empfohlen
+- TOP 9.2.7: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Bevölkerungsprognose für Köln 2018 bis 2040 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.2: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtkonzept Parkstadt Süd (3700/2019); Hier: Beschluss der BV 2 v. 09.12.2019 - endgültig zurückgezogen
+- TOP 10.2.3: Verkehrskonzept Rondorf-Nord-West - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 10.2.4: Reinigung und Pflege von Reitwegen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.5: Sachstand Parkstadt Süd- Teilbereich Eifelwall - Kenntnis genommen
+- TOP 10.2.6: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.7: Neues Ausweichquartier für das Bezirksrathaus Rodenkirchen gesucht - Kenntnis genommen
