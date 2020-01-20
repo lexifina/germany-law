@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-20T15:00:00+01:00
+- Ende: 2020-01-20T18:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21685
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21685
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin - ungeändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Rückzug aller Kölner Gymnasien aus der zieldifferenzierten Inklusion - Kenntnis genommen
+- TOP 3.1.1.1: Anfrage AN/1064/2019 Rückzug der Gymnasien aus der zieldifferenzierten Inklusion - Kenntnis genommen
+- TOP 3.1.2: Zusätzlicher Computerraum Heinrich-Heine-Gymnasium - Kenntnis genommen
+- TOP 3.1.3: Qualität und Arbeitsbedingungen im Offenen Ganztag an Kölner Schulen - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - geändert beschlossen
+- TOP 4.2: Mehrbedarf zur Beschaffung der Einrichtung für die Erweiterungsbauten Elisabeth-von-Thüringen-Gymnasium und Schiller-Gymnasium, Nikolausstr. 51-55, 50937 Köln - ungeändert beschlossen
+- TOP 4.3: Schulrechtliche Errichtung einer dreizügigen Grundschule – als offene Ganztagsgrundschule - in Köln-Marienburg am Standort Gaedestraße 31, 50968 Köln zum Schuljahr 2022/23 - ungeändert beschlossen
+- TOP 4.4: Generalsanierung der Sportanlage Hardtgenbuscher Kirchweg - ungeändert beschlossen
+- TOP 4.5: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus für die Gesamtschule Im Weidenbruch 214, 51061 Köln-Höhenhaus im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 4.6: Errichtung des Bildungsgangs "Fachoberschule für Informatik" - ungeändert beschlossen
+- TOP 4.7: Beschluss über die kommunale Klassenrichtzahl - ungeändert beschlossen
+- TOP 4.8: Errichtung eines Bildungsgangs "Zweiradmechatronikerin/Zweiradmechatroniker" - ungeändert beschlossen
+- TOP 4.9: Einrichtung des Bildungsgangs "Eisenbahnerin/Eisenbahner im Betriebsdienst" - ungeändert beschlossen
+- TOP 4.10: Generalinstandsetzung der Doppelturnhalle der Kurt-Tucholsky-Hauptschule, Helene-Weber-Platz 3 in 51109 Köln-Neubrück - Baubeschluss - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Start Projekt "Hands on Coding" - Kenntnis genommen
+- TOP 5.2: Sachstandsbericht: Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 5.3: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus? - Kenntnis genommen
+- TOP 5.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 5.5: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 5.6: Neues VHS-Programm für das 1. Semester 2020 - Kenntnis genommen
+- TOP 5.7: Formulare zur Anmeldung in Schulen und zur Schuleingangsuntersuchung - Kenntnis genommen
+- TOP 5.8: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 5.9: Kostenfortschreibung zur Generalinstandsetzung des Schulgebäudes für die Gesamtschule Overbeckstraße 71-73, 50823 Köln - Ehrenfeld - Kenntnis genommen
+- TOP 5.10: Sanierung von Schultoiletten - Kenntnis genommen
+- TOP 5.11: Fortschreibung der priorisierenden Schulbaumaßnahmenliste - zu AN/1668/2019, Anfrage der SPD-Fraktion zur Sitzung des Betriebsausschusses der Gebäudewirtschaft am 2.12.2019 zu Vorlage 2905/2019 - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Erweiterungsbau Henry-Ford Realschule, Karl-Marx-Allee in Seeberg
+- TOP 6.2: Bildungslandschaft Köln
+- TOP 6.3: Terminkollision mit dem Integrationsrat
+- TOP 6.4: Leitfaden für Schulen bei Rassismus
+- TOP 6.5: Digitalisierungsstrategie
+- TOP 6.6: Schulapp Kiks
+- TOP 6.7: Schulgirokonten
+- TOP 7: Verschiedenes
