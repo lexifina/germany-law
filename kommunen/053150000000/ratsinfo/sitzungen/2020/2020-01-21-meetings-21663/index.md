@@ -1,0 +1,72 @@
+# 52. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-21T17:00:00+01:00
+- Ende: 2020-01-21T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21663
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21663
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Pendelbus zwischen Longerich (S11) und Wilhelm-Sollmann-Straße (Linien 12 und 15) - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 3.2: Planfeststellungsverfahren Militärringstraße, Anbindung der Aachener Straße und der Stolberger Straße - ungeändert beschlossen
+- TOP 3.3: Bedarfsfeststellungsbeschluss zum Abschluss eines Wartungsvertrages für das Verkehrsleitsystem Köln (66/024/18) - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 4.2: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 4.3: Kapazitätserhöhung Stadtbahnlinie 18 - Übertragung der Federführung - ungeändert empfohlen
+- TOP 4.4: Stadtautobahn B55a/Zoobrücke Los D, Erneuerung der innenliegenden Brückenentwässerungsleitung und Elektroanlage,Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert empfohlen
+- TOP 4.5: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu TOP 4.5 - Rondorf Nord-West, Entflechtungsstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 4.6: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Nachhaltige Urbane Mobilitätsplanung - ungeändert empfohlen
+- TOP 4.8: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Beschluss über die Planung der Maßnahme "Umgestaltung der Frankfurter Straße in Buchheim" aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.6) - ungeändert empfohlen
+- TOP 4.10: Aufbau eines On-Demand-Angebots als Ergänzung zum bestehenden ÖPNV-Angebot und Aufnahme in den Öffentlichen Dienstleistungsauftrag über Verkehrsleistungen im Stadtbahn- und Busverkehr in der Stadt Köln (ÖDLA) der KVB - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Freihaltetrassen und möglicher Vorlaufbetrieb - Sache ist erledigt
+- TOP 5.1.2: Elektrobusse - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 21.01.2020 - Kenntnis genommen
+- TOP 5.1.3: Radarkontrollen in Köln - Sache ist erledigt
+- TOP 5.1.4: Auswirkungen der Brückensanierungsmaßnahme Deutz-Mülheimer-Straße - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: "Vervollständigung der Fußgängerinfrastruktur" - Umsetzung des alten Luftreinhalteplanes in seiner Fortschreibung aus dem Jahr 2012 - Sache ist erledigt
+- TOP 5.2.1.1: Vervollständigung der Fußgängerinfrastruktur - Umsetzung des alten Luftreinhalteplanes in seiner Fortschreibung aus dem Jahr 2012 - zurückgestellt
+- TOP 5.2.2: Busspur Innere Kanalstraße - Sache ist erledigt
+- TOP 5.2.3: Vorbild Berlin: Eigene Abschleppfahrzeuge für die KVB? - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Aufhebung der Radwegebenutzungspflicht - Sache ist erledigt
+- TOP 6.2: Sperrung der B9 - Sache ist erledigt
+- TOP 6.3: Stellplatzschlüssel bei aktuellen Wohnungsbauvorhaben - Sache ist erledigt
+- TOP 6.4: Rad(schnell)wege 2019ff - Sache ist erledigt
+- TOP 6.5: Fahrradstraßen - für Fahrräder!? - Sache ist erledigt
+- TOP 6.6: Sicherheit von Kindern und Jugendlichen im Verkehr - Wie engagiert werden in Köln Verbesserungen umgesetzt? - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus? - Kenntnis genommen
+- TOP 7.2.2: Neue Kölner Statistik 3/2019 – Kraftfahrzeuge 1967/2019 hier: Niederschrift der Sitzung des Ausschusses Umwelt und Grün vom 12.09.2019, Top 7.2 - Kenntnis genommen
+- TOP 7.2.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 7.2.4: Busanbindung Schule Wasseramselweg - Kenntnis genommen
+- TOP 7.2.5: Bedarfsfeststellungsbeschluss über die Vergabe von freiberuflichen Leistungen zur Realisierung der Maßnahmenumsetzung "Vollausbau der Geestemünder Straße" in Köln-Niehl - Kenntnis genommen
+- TOP 7.2.6: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.2.7: Verkehrskonzept Rondorf-Nord-West - Kenntnis genommen
+- TOP 7.2.8: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 11 - Kenntnis genommen
+- TOP 7.2.9: Lärmschutzwand Militärringstraße - Vogelsang - Kenntnis genommen
+- TOP 7.2.10: Stärkung und Ausweitung des KVB-Stadtbahn- und Busnetzes hier: Stellungnahme zu den Vorlagen-Nr. 1103/2019, 1215/2019 und 1418/2019 - Kenntnis genommen
+- TOP 7.2.11: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: "RingFrei" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: E-Scooter - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Ost-West-Achse - zur weiteren Bearbeitung in die Verwaltung überwiesen
