@@ -1,0 +1,6 @@
+# TOP 2: Mitteilungen
+
+- Sitzung: 38. Sitzung des Ausschusses für Anregungen und Beschwerden (2020-01-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/289856
