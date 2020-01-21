@@ -1,0 +1,131 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2020-01-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5756619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5756619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.3.: Kassenbericht für das Jahr 2019
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.4.: Durchfahrtsverkehr in der Liebigstraße, aufgenommen aus der Sitzung am 10.12.2019
+- TOP 3.1.: Vorstellung der Planungen der MVV rund um die Ludwigsbrücke
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP E 4.1.: Stadtbezirksbudget: Nachweise und Berichte
+- TOP A: Allgemeines
+- TOP 4.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 4.2.: Meldung der Kontostände des Girokontos mit Stichtag 31.12.2019
+- TOP B: Planen, Bauen, Wohnen
+- TOP 1.1.: Bitte um Untersagung der Nutzung des nicht genehmigten Fußball-Kleinfelds auf dem Grundstück mit der Flurstücksnummer 1189/1, Höhe Oettingenstraße 80
+- TOP 3.1.1.: Reitmorstraße 47, TEKTUR, Änderung des zweiten Rettungsweges aus dem Spitzboden über eine Auszugstreppe zum Treppenhaus, Vergrößerung der Terrasse, Verlegung der Innentreppe
+- TOP 3.1.2.: Hochbrückenstraße 20 RGB, TEKTUR, Neubau eines Rückgebäudes mit vier Gässteap- partements und Wohnbereich (Townhouse)
+- TOP 3.1.3.: Kanalstraße 7, DG-Abbruch und -Neuerrichtung, Grundrissänderung Wohnung 4. OG mit Ausbau des neuen Dachstuhles zu Wohnfläche, Abbruch und Neuerrichtung von Balkonen sowie energetische Sanierung
+- TOP 3.1.4.: Viktualienmarkt 8, Nutzungsänderung einer Verkaufsfläche zu Gastronomie und Änderung der Fassade
+- TOP 3.1.5.: Ledererstraße 14, Dachgeschossausbau mit Gauben und Nachunterkellerung
+- TOP 3.1.6.: Rosenstraße 5, Errichtung zweier Vordächer an ein Geschäftshaus
+- TOP 3.2.1.: Bebauungsplan mit Grünordnung Nr. 2126 Königinstraße (östlich), Veterinärstraße (nördlich), Englischer Garten (westlich)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Umgestaltung des Platzes Ecke Mannhardtstraße / Thierschstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Pfisterstraße 7
+- TOP 2.1.2.: Genehmigung einer Freischankfläche, Dienerstraße 12
+- TOP 2.1.3.: Grundsatzbeschluss zur Freischankflächengestaltung in der Sendlinger Straße
+- TOP 2.1.4.: Erweiterung einer Freischankfläche, Rosenstraße 9
+- TOP 2.1.5.: Änderungsantrag für die Freischankfläche im Tal 15
+- TOP 2.2.1.: Antrag auf Aufstellen eines mobilen Fahrradständers vor dem Anwesen Unsöldstraße 20
+- TOP 2.2.2.: Aufstellen von zwei Kleiderständern vor dem Geschäft am Rindermarkt 10
+- TOP 2.2.3.: Aufstellen von einem Kleiderständer vor dem Geschäft für Fotoaufnahmen am Rindermarkt 10
+- TOP 2.2.4.: Aufstellen eines Postkartenständers vor dem Geschäft am Marienplatz 8 (Seite Landschaftsstraße)
+- TOP 2.2.5.: Aufstellen einer Kleiderpuppe vor dem Geschaft in der St.-Anna-Straße 17
+- TOP 2.3: Sonstige
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fasching München Narrisch vom 23.02. bis 25.02.2020 in der Fußgängerzone (einschließlich Karlsplatz und Marienplatz)
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Verlegung des Werbeverkaufsplatzes Nr. 5, Kaufingerstraße 1 (Ortstermin am 20.01.2020)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Verbesserung der Verkehrssicherheit in der Liebigstraße
+- TOP 1.2.: Müllerstraße / Am Einlaß - Einrichtung eines Fußgängerübergangs, vertagt aus der Sitzung am 10.12.2019
+- TOP 1.3.: Ummünzung der Liebigstraße und weiterer Anwohnerstraßen im Lehel von normalen Lizenzgebieten in „Haltverbotszone mit Parkerlaubnis nur für Bewohner mit Parkausweis“, Bürgeranliegen, vertagt aus der Sitzung am 10.12.2019
+- TOP 1.5.: Verkehrsregelungen Emil-Riedel-Straße, Bürgeranliegen
+- TOP 1.6.: Einrichtung von Logistik Depots anstelle von Parkplätzen, Antrag der SPD-Fraktion vom 08.01.2020
+- TOP 1.7.: Tempo 30 in der Steinsdorfstraße, Antrag des Unterausschusses vom 14.01.2020
+- TOP 1.8.: Aufstellung von Dialogdisplays in der Oettingen- und Sternstraße, Antrag der Fraktion Die Grünen vom 08.01.2020
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.2.: Antrag auf Baumfällung, Himmelreichstraße 3
+- TOP 3.3.: Verkehrsführung Hackenviertel im Rahmen der Umplanung des Georg-Kronawitter-Platzes
+- TOP 3.4.: Umbau der Trambahnhaltestelle Deutsches Museum - Planfeststellungsverfahren
+- TOP 3.5.: Abfrage des Bedarfs an Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 3.6.: Einrichtung von allgemeinen Behindertenparkplätzen am S-Bahnhof Karlsplatz (Stachus)
+- TOP 3.7.: Austausch von Lichtsignalanlagen an der Fraunhofer-/Müllerstraße
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Evang. Familien-Bildungsstätte Elly Heuss-Knapp gGmbH Nähkurs für Migrantinnen und deren Kleinkinder im Jahr 2020 13.240,- €; Az. 0262.0-1-0183
+- TOP 2.2.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. 16. Konzertreihe vom 16.02.2020 – 01.01.2021 3.150,- €; Az. 0262.0-1-0185
+- TOP 2.3.: (E) Stadtbezirksbudget Elternbeirat der St.-Anna-Grundschule Anschaffung von Büchern 253,- €; Az. 0262.0-1-0186
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 Euro, Az.: 0262.0-1-0187
+- TOP 2.5.: (E) Stadtbezirksbudget Verein für Fraueninteressen e.V. Wettbewerb für Nachwuchskünstlerinnen vom 28.01. – 26.07.2020 680,- €; Az. 0262.0-1-0188
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Vorkaufsrecht für das Objekt Kreuzstraße 23, Antwortschreiben
+- TOP B 4.3.: Wasserrechtliche Gestattung für die Vorwegmaßnahmen für die Instandsetzung der Ludwigsbrücken
+- TOP B 4.4.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Ausnahmezulassung für den nächtlichen Abbau eines Baukrans, 04.12. bis 05.12.2019
+- TOP C 4.4.: Bauernmarkt St.-Anna-Platz: Toilette mit Waschgelegenheit für die Marktleute; Antwortschreiben der Markthallen
+- TOP C 4.5.: Verlängerung der Ausnahmezulassung für Müllsammelfahrzeuge ab 05:30 Uhr bis einschließlich 13.01.2020
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Arbeiten im Straßenraum, Maxburgstraße zwischen Herzog-Max- und Karmeliterstraße
+- TOP D 4.2.: (U) Anschlussbereiche westlich / östlich der Ludwigsbrücken zwischen Rumford-/Thierschstraße und Am Gasteig im 1. Stadtbezirk Altstadt - Lehel, im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 11.000.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP D 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.4.: Jahresgenehmigung 2020 für Reinigungsarbeiten an U-Bahnhöfen
+- TOP D 4.5.: Jahresgenehmigung 2020 für Müllsammelfahrzeuge im Stadtgebiet München
+- TOP D 4.6.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze (Anlehnen), Rindermarkt 13-14
+- TOP D 4.7.: Verkehrsrechtliche Anordnung: Beschilderung und Absicherung der Arbeitsstelle Prinzregentenstraße, Eisbachbrücke („Winterpause“)
+- TOP D 4.8.: Verkehrsrechtliche Anordnung: Terminverschiebung der Fernwärmemaßnahme an der Prinzregentenstraße, Eisbachbrücke
+- TOP D 4.9.: Umbau der Fahrspur unter dem alten Rathaus in eine Fußgängerzone
+- TOP D 4.10.: Arbeiten im Straßenraum; hier: Rochus- und Pacellistraße, Fernwärme- und Fernkältemaßnahmen
+- TOP D 4.11.: Arbeiten im Straßenraum; hier: Fürstenfelder und Kaufinger Straße, Fernkälteleitung
+- TOP D 4.12.: Arbeiten im Straßenraum; hier: Marstallstraße, Fernkälteleitung Phase 2
+- TOP D 4.13.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP D 4.14.: Sanierung der Grünfläche zwischen Straße und Fußweg in der Liebig- und Christophstraße; Antwortschreiben
+- TOP D 4.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.2.: Rücknahme des Antrags auf Zuwendungen aus dem Stadtbezirksbudget, Musici München e.V.
