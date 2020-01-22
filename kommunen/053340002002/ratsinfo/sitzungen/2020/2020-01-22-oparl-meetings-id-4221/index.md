@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-01-22T17:00:00+01:00
+- Ende: 2020-01-22T20:02:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4221
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4221
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.12.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4.1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.12.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen im Haushaltsjahr 2019 - Maßnahmenpaket "Dieselgipfel" - ungeändert beschlossen
+- TOP 6: Entwurf Wirtschaftsplan 2020 der Volkshochschule Aachen einschließlich mittelfristige Ergebnis- und Finanzplanung 2020 bis 2024 - ungeändert beschlossen
+- TOP 7: Haushaltsplanberatungen einschließlich Stellenplan:
+- TOP 7.1: Haushaltsreden
+- TOP 7.2: Einrichtung von acht Vollzeitstellen im Fachbereich Stadtentwicklung und Verkehrsanlagen (FB 61) sowie von einer Vollzeitstelle im Fachbereich Umwelt (FB 36) für die Planung und Umsetzung von Maßnahmen in Folge des Bürgerbegehrens „Radentscheid Aachen“ - ungeändert beschlossen
+- TOP 7.3: Einrichtung von 1,5 befristeten Stellen im Fachbereich Kinder, Jugend und Schule (FB 45) für die Planung und Umsetzung von Maßnahmen im Zusammenhang mit der Wiedereinführung von G 9 an den Gymnasien - ungeändert beschlossen
+- TOP 7.4: Einrichtung einer Vollzeitstelle im Fachbereich Immobilienmanagement (FB 23) für das strategische Immobilienmanagement zur zielgerichteten Aktivierung städtischer Flächenpotentiale - ungeändert beschlossen
+- TOP 7.5: Einrichtung von zwei Vollzeitstellen im Fachbereich Rechnungsprüfung zur Durchführung von IT-Prüfungen infolge der Fusion des Zweckverbandes civitec mit der regio iT - ungeändert beschlossen
+- TOP 7.6: Einrichtung einer halben Projektstelle im Fachbereich Umwelt (FB 36) für die Durchführung des Projekts „FLIP – Förderung der Lebensqualität von Insekten und Menschen durch perfekte Wiesenwelten“ - ungeändert beschlossen
+- TOP 7.7: Einrichtung von zwei befristeten Stellen im Fachbereich Feuerwehr (FB 37) für das Förderprojekt „VirtualDisaster“ - ungeändert beschlossen
+- TOP 7.8: Stellenplan 2020 und Entwicklung der Personal- und Versorgungsaufwendungen 2020 - ungeändert beschlossen
+- TOP 7.9: Haushaltsplanberatungen 2020 - ungeändert beschlossen
+- TOP 8: Beschluss zum Klimanotstand Anwendung der wissenschaftlichen Aussagen zur Treibhausgasemissionsbegrenzung für ein 1,5 Grad Ziel auf die Stadt Aachen - ungeändert beschlossen
+- TOP 9: 1. Nachtrag zur Stellplatzsatzung der Stadt Aachen vom 14.12.2018 - ungeändert beschlossen
+- TOP 10: 2. Nachtrag zur Satzung der Stadt Aachen über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) - ungeändert beschlossen
+- TOP 11: Beschluss über eine weitere Verlängerung der Veränderungssperre für das Grundstück Gemarkung Burtscheid, Flur 2, Flurstück 1657 (Kurbrunnenstraße 22) im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 12: Bebauungsplan Nr. 986 - Burggrafenstraße/ Wiesental - für den Planbereich Aachen-Mitte zwischen Jülicher Straße, Burggrafenstraße und der Kleingartenanlage Wiesentalhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13: Neufassung der Entgeltordnung für die Tätigkeit der Rechnungsprüfung bei der Abrechnung von Leistungen für Dritte - ungeändert beschlossen
+- TOP 14: Anfragen:
+- TOP 14.1: Ratsanfragen - ungeändert beschlossen
+- TOP 14.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 15: Ratsanträge - ungeändert beschlossen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 16.1: Umbesetzungsantrag der PIRATEN-Fraktion vom 21.01.2020 - ungeändert beschlossen
+- TOP 16.2: Umbesetzungsantrag der SPD-Fraktion vom 22.01.2020 - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 21.01.2020 - ungeändert beschlossen
+- TOP 17: Mitteilungen der Verwaltung
+- TOP 18: "Keine Privatisierung der Spielbanken in NRW" hier: Gemeinsamer Tagesordnungsantrag der Fraktionen GRÜNE, DIE LINKE, PIRATEN und des Ratsherrn Allemand, UWG, vom 06.01.2020
+- TOP 19: Verfahrensregelungen für außertarifliche Arbeitsverträge mit Beschäftigten in Führungsfunktionen nach § 24 Abs. 2 der Hauptsatzung der Stadt Aachen (AT-Bezahlungsrichtlinie) - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
