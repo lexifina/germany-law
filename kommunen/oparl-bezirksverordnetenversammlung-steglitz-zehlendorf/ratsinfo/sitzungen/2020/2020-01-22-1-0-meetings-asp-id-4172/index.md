@@ -1,0 +1,86 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-01-22T17:00:00+01:00
+- Ende: 2020-01-22T21:30:00+01:00
+- Ort: Schloßstr. 37, 12163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4172
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4172
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Alliiertenmuseum - beantwortet
+- TOP 3.2: Demenzfreundlicher Bezirk Steglitz-Zehlendorf? - beantwortet
+- TOP 3.3: Stammbahn - beantwortet
+- TOP 3.4: Erster Runder Tisch zum Osteweg - schriftlich beantwortet
+- TOP 3.5: Warten auf den Altenplan - beantwortet
+- TOP 3.6: Warum befindet sich ein Werbevideo von Klaus Groth (CDU-Mitglied und Großspender für die Partei) auf der Seite des Bezirksamtes Steglitz-Zehlendorf? - beantwortet
+- TOP 3.7: Nutzung von Twitter und Instagram - beantwortet
+- TOP 3.8: Natur-Ranger in Steglitz-Zehlendorf - beantwortet
+- TOP 3.9: Quartiersmanagement Thermometersiedlung: Hat das Bezirksamt bereits Nägel mit Köpfen gemacht? - beantwortet
+- TOP 3.10: Rückkauf von Wohnungen im Bezirk - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne X-B 22, X-B 23, X-B 24 und X-B 25 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Rampe im Rathaus Zehlendorf rollstuhlfreundlicher gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Rassistische Skulptur aus dem Straßenland entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Transparenz bei Baumaßnahmen in denkmalgeschützten Gebäuden - in der BVV abgelehnt
+- TOP 4.7: Sicherung der Notfallwasserversorgung in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller - in der BVV abgelehnt
+- TOP 4.9: Mehr Behindertenparkplätze auf der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Gefährliches Überholen von Fahrrädern auf der Brückenkuppe Sundgauer Straße unterbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Neue Bäume für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Wasserbrunnen an der Stewardstraße errichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Schulkinder schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Kreuzung Alt-Lankwitz/Kaiser-Wilhelm-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Ampelanlage (LZA) Argentinische Allee Höhe Siebenendenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Zeitlich begrenzte Parkplätze am S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Tempo 30 in der Matterhornstraße durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: „Reparaturführer Steglitz-Zehlendorf" neu auflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Zusätzliche Fahrradstellplätze an den Rathäusern des Bezirks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2018 - überwiesen
+- TOP 5.2: Obdachlosenunterkunft für Frauen - überwiesen
+- TOP 5.3: Klimagutachten für das Bauvorhaben Lichterfelde-Süd, B-Plan 6-30 - überwiesen
+- TOP 5.4: Transparenz schaffen: Aktuelle Anträge auf Erteilung eines Bauvorbescheides der BVV zur Verfügung stellen - überwiesen
+- TOP 5.5: Medienkompetenz von Kindern und Jugendlichen stärken - gegen Fake-News auf Facebook, Twitter, Instagram & Co - überwiesen
+- TOP 5.6: Milieuschutz Lichterfelde-Ost und Lankwitz - überwiesen
+- TOP 5.7: Mindestanforderungen für die Sicherheit von Fahrradfahrer*innen in Steglitz-Zehlendorf herstellen und gewährleisten - überwiesen
+- TOP 5.8: Bauliche Erweiterung Staatliche Europaschule „Campus Dreilinden" - überwiesen
+- TOP 5.9: Beleuchtung Parkplatz Chausseestraße/Wannsee - überwiesen
+- TOP 5.10: Familienfreundlicher Bezirk - überwiesen
+- TOP 5.11: Halteverbot Chausseestraße Wannsee - überwiesen
+- TOP 5.12: Hinterer Zugang Bahnhof Wannsee - überwiesen
+- TOP 5.13: Informationssystem für Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.14: Tiere vor Silvesterbeschuss schützen - überwiesen
+- TOP 5.15: Maßnahmen Königstraße Wannsee - überwiesen
+- TOP 5.16: Beschilderung Einbahnstraße Am Großen Wannsee - überwiesen
+- TOP 5.17: Behindertengerechter Übergang Königstraße - überwiesen
+- TOP 5.18: Maßnahmen Bushaltestelle und Fußgängerüberweg Kreuzung Königstraße / Chausseestraße - überwiesen
+- TOP 5.19: Ruhe im Nieritzweg - überwiesen
+- TOP 5.20: Asphaltierung der Tambacher Straße zwischen Brotteroder Straße und Marchandstraße - überwiesen
+- TOP 5.21: Zusatzbezeichnung - St-Annen-Kirche - der Bushaltestelle Domäne Dahlem - überwiesen
+- TOP 5.22: Unterstützung der Hellenischen Gemeinde - überwiesen
+- TOP 5.23: Wilma-Rudolph-Schule: Breitbandanschluss endlich realisieren - überwiesen
+- TOP 5.24: Sachverständige für Barrierefreiheit - überwiesen
+- TOP 5.25: Koordination der Mobilitätshilfedienste in Steglitz-Zehlendorf - überwiesen
+- TOP 6: Bebauungspläne - erledigt
+- TOP 6.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange nach § 4 Abs. 2 BauGB im Bebauungsplanverfahren 6-30, Lichterfelde-Süd - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Schafft das Bezirksamt in dieser Legislatur noch einen Schulentwicklungsplan? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Jährlicher Wohnungsneubaubericht - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Straßen ökologisch aufwerten mit den Anwohnenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Kreuzung Machnower Straße/Teltower Damm sicher für Rad und Fuß - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wohnen für Geflüchtete planungsrechtlich absichern - in der BVV abgelehnt
+- TOP 9.5: Wohnraumappell der Bezirksbürgermeisterin - in der BVV abgelehnt
