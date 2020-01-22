@@ -1,0 +1,141 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2020-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5666985
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5666985
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss der Vollversammlung des Stadtrates vom 18.12.19:
+- TOP 10.2: Beschluss der Vollversammlung vom 27.11.19
+- TOP 10.3: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.19
+- TOP 10.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.19
+- TOP 10.5: Beschluss der Vollversammlung vom 23.10.19
+- TOP 10.6: Beschluss des Bauausschusses vom 08.10.19:
+- TOP 10.7: Beschluss des Ausschusses für Arbeit und Wirtschaft am 19.11.2019:
+- TOP 10.8: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.01.20:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 10.9: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 03.12.19:
+- TOP 2.1.1.: Zone 30 Bergsonstraße
+- TOP 2.1.2.: Stadtbus 157, Bauvorhaben an der Aubing-Ost-Str. / Ecke Ilse-Fehling-Straße
+- TOP 2.1.3.: Nachfrage Quartier an der Henschelstraße
+- TOP 2.1.4.: Radkonzept für den Stadtbezirk 22
+- TOP 2.1.5.: Lkw über 7,5 T parkt im Wohngebiet, Umweltschutz/Lärmbelästigung + N
+- TOP 2.1.6.: Haltverbote in der Hellensteinstraße - Bus 175
+- TOP 2.1.7.: N - Zustand des Harthauser Wegs
+- TOP 2.1.8.: N - Ravensburger Ring - neue Schule - 2 neue Haltestellen der neuen Buslinie 157
+- TOP 2.1.9.: N - Verwahrlosung des neuen Stadtteils Freiham
+- TOP 2.1.10.: N - Schnittarbeiten Spielplatz Langwied
+- TOP 2.1.11.: N - Umgestaltung des neu gebauten Gehwegs Ubostraße
+- TOP 2.1.12.: N - Ersatzpflanzung Industriestraße
+- TOP 3.1.1.: Baumfällungen auf Anforderungen: - Papinstr. 33 - Feldmeierbogen 32 - Altostr. - Kurt-Floericke-Str. 47 - Radolfszeller Str. 17 - Kastelburgstr. 54
+- TOP 3.1.2.: Baumfällungen zu einen Bauvorhaben: - Spatzenwinkel 24 - Teckstr. 12 - Am Langwieder Bach 69 - Erlbachstr. 16 - Federseestr.
+- TOP 3.1.3.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen: Entfernung von Gefahrenbäumen im Bereich des Langwieder Sees und Lußsees, Schr. Baureferat vom 16.12.19
+- TOP 4.1.: Anfrage: Sanierung Allacher Tunnel (Fr. Binsteiner, Fr. Mosch, Fr. Ney)
+- TOP 4.2.: Anfrage: Stromkabel Georg-Böhmer-Str. 1 (Fr. Binsteiner, Fr. Ney)
+- TOP 4.3.: Hinweisschilder zu Mobilitätsstationen der MVG (Hr. Liedl, Fr. Mosch, Fr. Binsteiner)
+- TOP 4.4.: Erneutes Problem mit den Recycling-Containern an den Bodensee-/Ehrenbürgstraße (Hr. Bernsdorf)
+- TOP 4.5.: Müll für die Anwohner? (Hr. Bernsdorf)
+- TOP 4.6.: Erweiterung Öffnungszeiten Eisbahn West (Hr. Kriesel, Hr. Schrader)
+- TOP 4.7.: Bessere Versorgung mit Glasfaser, Mobilfunk und Errichtung von kostenfreien WLan Hotspots (Hr. Schrader, Hr. Kriesel, Fr. Schrott)
+- TOP 4.8.: Tempobegrenzung auf der A8 und A99 auf 80 km/h prüfen (Hr. Kriesel, Hr. Stockmann, Hr. Umseher)
+- TOP 4.9.: Attraktivität des ÖPNV steigern: Die Buslinie 159 auch Samstags anbieten (Hr. Kriesel, Hr. Stockmann, Hr. Umseher)
+- TOP 5.1.: (E) Stadtbezirksbudget: Initiative „Integratives Theaterprojekt“, Integratives Theaterprojekt von Januar 2020 – November 2020, 5.000,- €; Az. 0262.0-22-0131
+- TOP 5.2.: (E) Stadtbezirksbudget: Initiative "Seele einer Stadt", Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021, 1.480,00 Euro, Az.: 0262.0-22-0132
+- TOP 5.3.: (E) Stadtbezirksbudget Theatergruppe St. Quirin Anschaffung von LED Scheinwerfern im März & April 2020 5.567,- €; Az. 0262.0-22-0133
+- TOP 5.4.: (E) Stadtbezirksbudget Kultur&Spielraum e.V./ Münchner Kinder- und Jugendforum Projekt „Lasst uns mal ran!“ vom 03.02.- 31.12.20 4.000,- €; Az. 0262.0-22-0134
+- TOP 5.5.: N - (E) + (U) Errichtung zusätzlicher PKW-Stellplätze auf dem Gelände der Anlage Bodensee-/Mainaustraße Empfehlung Nr. 14-20 / E 02597 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 28.05.2019
+- TOP 6.1.2.1.: Friedhof für Freiham, Schr. Städtische Friedhöfe vom 23.12.19
+- TOP 6.1.2.2.: N - Veranstaltungen im Januar 2020, Schr. Kulturreferat vom 08.01.2020
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Bildungscampus Freiham, Schr. Referat für Bildung und Sport vom 20.12.19
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Siedlungsschwerpunkt Freiham, Vorstellung des Mobiliätskonzepts für Freiham Nord unter Einbeziehung der Impulse aus der Modellstadt 2030 und Vergabe von Beratungs- und Moderationsleistungen für eine Mobiliätskoordination für Freiham Nord, Beschlussvorlage für den gemeinsamen Ausschuss für Stadtplanung und Bauordnung, Anhörung Planungsreferat vom 09.12.19 (vertagt aus 12/19)
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung, hier: - Radolfzeller Straße/Altenburgstraße - Geschwindigkeitsbeschränkung auf 30 km/h aus Lärmschutzgründen von 22 Uhr bis 6 Uhr, Anhörung KVR vom 11.12.19 - Lochhausener Str. / Pirolstr., Anbringung eines Gefahrzeichens, Anhörung KVR vom 20.12.19
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung: Brunhamstraße, südlich Papinstraße - Anbringung einer Haltlinie mit dem Zusatz "bei Rot hier halten", Anhörung KVR vom 12.12.19
+- TOP 6.3.1.4.: Erinnerungsverfahren, Fußgängerüberweg Ubostraße zw. Hs. Nr. 42 und 44, Anhörung Baureferat vom 17.12.19
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Neubauviertel an der Gleisharfe, Durchgangsverkehr, Schr. KVR vom 12.12.19
+- TOP 6.3.2.2.: Absenkung von Gehsteigkanten, Schr. Baureferat vom 12.12.19
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnung: - Rosittener Straße: Einrichtung von Haltverboten; gemeinsamer Fuß- und Radweg, Schr. KVR vom 10.12.19 - Ubostr. / Altostr.; Beschilderung nach Straßenumbau; Einrichtung von absoluten Haltverboten, Schr. KVR vom 20.12.19 - Toni-Berger-Str. 14, Aufhebung eines personenbezogenen Behindertenparkplatzes, Schr. KVR vom 19.12.19 - Colmdorfstraße / Zugang zur S 4 Aubing, Beschilderung mit Gehweg "Radfahrer frei", Schr. KVR vom 19.12.19 - Aubinger Straße, westlich Ravensburger Ring - Einrichtung von Haltverboten, Schr. KVR vom 08.01.19 - Hans-Stützle-Platz - Beschilderung nach Straßenumbau, Schr. KVR vom 08.01.19
+- TOP 6.3.2.4.: Errichtung einer Ampel an der Kreuzung Pretzfelderstraße zur Limesstraße, Schr. KVR vom 02.12.19
+- TOP 6.3.2.5.: Quartiersplatz Colmdorfstraße, Schr. KVR vom 11.12.19
+- TOP 6.3.2.6.: Verkehrsbelastung Limesstraße, Schr. KVR vom 09.12.19
+- TOP 6.3.2.7.: Sicherheit für Radfahrer Kreuzung Bergsonstraße / Industriestraße, Schr. KVR vom 02.12.19
+- TOP 6.3.2.8.: Optimierung des Verkehrsflusses am Freihamer Weg, Schr. KVR vom 17.12.19
+- TOP 6.3.2.9.: Erweiterung des Halteverbotes in der Aubinger Straße, Ecke Köglsteinerstraße (vor alter Tankstelle - jetzt Taxiwerkstatt), Schr. KVR vom 20.12.19
+- TOP 6.3.2.10.: Landwirtschaftlicher Verkehr in der Eichenauer Straße, Schr. KVR vom 19.12.19
+- TOP 6.3.2.11.: Neubau eines Fuß- und Radweges durch die Ausgleichsfläche im ehemaligen Ausbesserungswerk Neuaubing, Schr. Baureferat vom 02.01.19
+- TOP 6.3.2.12.: Unfallgefahr an den Glascontainer Altostraße / Grabenfleckstraße, Schr. Abfallwirtschaftsbetrieb vom 23.12.19
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Im Stocket 30 - Neubau eines Doppelhauses mit Carports, Anhörung Referat für Stadtplanung und Bauordnung vom 06.12.19
+- TOP 6.4.1.2.: Aubing-Ost-Straße 1 - Neubau 2er nicht großflächiger SB-Märkte und eines Pflegeheims mit Tiefgarage (Variante 1), Neubau eines nicht großflächigen SB-Marktes und von Wohnungen mit Tiefgarage (Variante 2), Neubau von 4 Mehrfamilienhäuser mit Tiefgarage, Anhörung Referat für Stadtplanung und Bauordnung vom 10.12.19
+- TOP 6.4.1.3.: Brunhamstr. 54 - Neubau zweier Wohngebäude (8 WE) mit Tiefgarage, Anhörung Referat für Stadtplanung und Bauordnung vom 23.12.19
+- TOP 6.4.1.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 und Bebauungsplan mit Grünordnung Nr. XXX Jasperalle (nördlich), Bergsonstraße (nördlich), Mooswiesenstraße (westlich und südlich) und Dreilingsweg (östlich) (Teilverdrängung der Bebauungspläne Nrn. 45b, 586 und 1055) und Kreuzungsbereich An der Langwieder Haide / Mühlangerstraße; Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbs, Anhörung Referat für Stadtplanung und Bauordnung vom 14.01.2020
+- TOP 6.4.1.5.: N - Krautgartenweg 44 - Neubau einer Doppelhaushälfte mit Garage (Haus 1 bis Haus 4), Anhörung Referat für Stadtplanung und Bauordnung vom 14.01.2020
+- TOP 6.4.1.6.: N - Hoheneckstr. 26 - Erweiterung eines Zweifamilienhauses, Anhörung Referat für Stadtplanung und Bauordnung vom 15.01.2020
+- TOP 6.4.1.7.: N - Ehrenbürgstraße - Neubau eines Zweifamilienhauses mit 1 Stellplatz und 1 Garage mit Geräteraum, Anhörung Referat für Stadtplanung und Bauordnung vom 16.01.2020
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 25.11.-01.12.19, 02.12.-08.12.19, 09.12.-15.12.19, 16.12.19-01.01.20
+- TOP 6.4.2.2.: Vollzug der Wassergesetze: vorläufige Sicherung des Überschwemmungsgebietes am Gröbenbach von Flusskilometer 8,0 bis 8,8 und Flusskilometer 12,2 bis 14,2 jeweils innerhalb der Stadtgrenzen der LHM (Beschluss Umweltausschuss vom 10.12.19), Schr. RGU vom 13.11.19
+- TOP 6.4.2.3.: Baumaßnahmen der Stadtwerke: Stichtage 25.11.-09.12.19
+- TOP 6.4.2.4.: Klimaschutz vor Ort 2, Darstellung der Auswirkungen von großen Siedlungsgebieten auf das Stadtklima, Schr. Planungsreferat vom 20.12.19
+- TOP 6.4.2.5.: Gut Freiham, Schr. Planungsreferat vom 04.12.19
+- TOP 6.4.2.6.: Abfall in der Kravogelstraße / Papinstraße; Gehweg halb zuparken in der Kravogelstr. 1-1, Schr. Baureferat vom 20.12.19
+- TOP 6.4.2.7.: Abgrabung des Bahndamms an der Aubing-Ost-Straße zwischen Altostraße und Josef-Suder-Bogen, Schr. Ref. f. Arbeit u. Wirtschaft vom 17.12.19
+- TOP 6.4.2.8.: Recycling-Containersammelstelle an der Ehrenbürgstr. 1, Schr. AWM vom 17.12.19
+- TOP 6.4.2.9.: Anfrage zum Bebauungsplan Landschaftspark Freiham, Schr. Referat für Stadtplanung und Bauordnung vom 20.12.19
+- TOP 6.4.2.10.: Klimaschutz vor Ort 4, Solarstrom mit Lärmschutz in Freiham verbinden, Schr. Baureferat vom 23.12.19
+- TOP 6.4.2.11.: Ehemaliges Bahn-Ausbesserungswerk Neuaubing, Schr. Referat für Stadtplanung und Bauordnung vom 10.12.19
+- TOP 6.4.2.12.: Anfrage zum zusätzlichen Mobilfunkstandort Gotzmannstraße, Schr. Referat für Gesundheit und Umwelt vom 23.12.19
+- TOP 6.4.2.13.: N - Siedlungsschwerpunkt Freiham, 2. Realisierungsabschnitt Freiham Nord: A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes für den 2. Realisierungsabschnitt und der Vergabeentscheidung zur Rahmenplanung 2. Realisierungsabschnitt B) Bebauungsplan mit Grünordnung, Aufstellungsbeschluss C)Weiteres Vorgehen, Schr. Referat für Stadtplanung und Bauordnung vom 017.01.2020
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, Anhörung Direktorium vom 16.12.19
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung der Gaststätte: - "Pearl" - Wiesentfelserstr. 68, Schr. KVR vom 09.12.19 - "Die Mausefalle" - Bodenseestr. 131, Schr. KVR vom 19.12.19 N - "Apollon", Pretzfelder Str. 22, Schr. KVR vom 14.01.2020
+- TOP 8.2.: Neuerrichtung des Gaststättenbetriebes: "Robert Toni Gross Fisch- und Fleischspezialitäten", Am Gleisdreieck 15, Schr. KVR vom 10.12.19
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Dachshofstr., Schr. Sozialreferat vom 18.12.19 N - Spatzenwinklel, Schr. Sozialreferat vom 08.01.2020
+- TOP 10.1.1.: (U) Bürgerbegehren „Altstadt-Radlring“, Bürgerbegehren „Radentscheid“ Umsetzung - Teil I
+- TOP 10.2.1.: (U) Sportbauprogramm 2019 A. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2019 2. Verfahren 3. Anpassung des Standardraumprogramms 4. Bericht zu den lfd. Projekten, zum 1. und 2. Maßnahmenpaket 5. Beschreibung und Festlegung des 3. Maßnahmenpaketes 6. Ausblick auf das 4. Maßnahmenpaket B. Fortschreibung Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2019 2. Bericht 3. Verfahren 4. Finanzierung C. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2019 2. Bericht 3. Verfahren 4. Finanzierung D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen E. Behandlung von Anträgen aus dem Stadtrat und den Bezirksausschüssen Prüfauftrag: ... F. Beteiligungen und Anhörungen
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.1.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 10.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.3.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 10.5.1.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 10.6.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 10.7.1.: (U) Mietradsystem MVG Rad, Sachstandsbericht, Ausbau des Stationsnetzes und der Mietradflotte; Finanzierung (2. Ausbaustufe), Anmeldung zum Mehrjahresinvestitionsprogramm 2019 - 2023
+- TOP 10.8.1.: (U) "Wohnungsbau in Holzbauweise"
+- TOP 10.8.2.: (U) Integriertes Strukturkonzept Lochhausen/Langwied mit Öffentlichkeitsdialog Sachstand und weiteres Vorgehen
+- TOP 10.9.1.: N - (U) Einrichtung und Ausschreibung eines Nachbarschaftstreffs in Freiham Bebauungsplan Nr. 2068 im Siedlungsschwerpunkt Freiham - 1. Realisierungsabschnitt 1. Bauabschnitt, 2. Standort in 2022, 22. Stadtbezirk - Aubing-Lochhausen-Langwied Bedarfs- und Konzeptgenehmigung Vormerkung zur Errichtung eines Nachbarschaftstreffs in Freiham 2. Realisierungsabschnitt - 3. Standort, 22. Standort - Aubing-Lochhausen-Langwied
+- TOP 11.1.: N - Einladung zum BA-Dialog mit dem Referat für Bildung und Sport am 02.07.2020, Schr. RBS vom 09.01.2020
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 19.02.2020 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Planen/Bauen/Umwelt: Montag, den 13.01.20 um 18.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 14.01.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, den 15.01.20 um 19 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familien/Senioren/Kultur: Donnerstag, den 16.01.20 um 19 Uhr, Friedrichshafener Str. 11
+- TOP 3.1: Baumschutzbeauftragte
