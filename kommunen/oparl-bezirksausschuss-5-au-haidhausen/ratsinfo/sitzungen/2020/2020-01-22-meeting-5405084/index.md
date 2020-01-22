@@ -1,0 +1,171 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-01-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405084
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405084
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Ergänzungen: - zu TOP A 8.1.7: Antrag Denkmalschutz Schutzengelhaus - zu TOP A 8.1.8: Antrag Anti-Graffiti-Beschichtung - zu TOP B II 1. und 1.a: Dringlichkeitsantrag Stadtbezirksbudget - zu TOP B V 2.16: Antrag Bauvorhaben Lilienstr. 15
+- TOP 5.1.: Außenbeleuchtung an der Adalbert-Stifter-Schule
+- TOP 5.2.: Zwischennutzung im Motorama ?
+- TOP 5.3.: Sanierung der Versailler Straße
+- TOP 5.4.: Radlaufstellfläche Einstein-/Kuglerstraße
+- TOP 5.5.: Feuerwehranfahrt am Wiener Platz prüfen !
+- TOP 5.6.: Wertstoff-Inseln im Stadtbezirk 5 Au-Haidhausen vernünftig bewirtschaften !
+- TOP 5.7.: Ausschilderung Ostbahnhof I: Busbahnhof
+- TOP 5.8.: Ausschilderung Ostbahnhof II: Ausgelagerte Linien in der Orleansstraße
+- TOP 5.9.: Weitere Zeitkartenautomaten im Ostbahnhof
+- TOP 5.10.: Nutzung von Elektrokleinstfahrzeugen im Stadtbezirk 5 Au-Haidhausen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Auer/Haidhauser Journal" Herausgabe des "Auer/Haidhauser Journals" vom 01.04.2020 - 31.03.2021 2.500,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 € - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München und Freising e.V. Anschaffung eines Gartenspielgerätes 14.472,98 € - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Förderverein des Sonderpädagogischen Förderzentrums (SFZ) An der Isar e.V. Fest zur Ernennung als "Schule ohne Rassismus - Schule mit Courage" am 13.02.2020 2.790,00 € - siehe auch UA Soziales -
+- TOP 6.2.1.: Antrag für einen mobilen Fahrradständer für eine Physiotherapiepraxis in der Sckellstr. 3 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Ritzi", Maria-Theresia-Str. 2 a - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Errichtung einer Blitzeranlage an der Kreuzung Humboldtstr./Claude-Lorrain-Str. zur Einhaltung des Tempo 30
+- TOP 7.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032 Frist: 31.03.20
+- TOP 7.2.: Anwohnerdialog zur 2. Stammstrecke: Suche nach Multiplikatoren aus dem 5. Stadtbezirk
+- TOP 8.1.1.: WLAN / WiFi in allen MVG- und MVV-Bereichen
+- TOP 8.1.2.: Orleansplatz: Wiederherstellung des Brunnens
+- TOP 8.1.3.: Parksituation rund um das Prinzregententheater durch Baustelle
+- TOP 8.1.4.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Oefelestraße
+- TOP 8.1.5.: Busch- und Baumrückschnitte in der Brutzeit
+- TOP 8.1.6.: Neue Verkehrsführung: Fahrradstraße in der Kirchenstraße
+- TOP 8.1.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.9.: Keine Einzäunung des Maxwerks, sondern endlich Sanierung der Fassade und Entfernung der Graffiti !
+- TOP 8.1.10.: Kolumbusstraße: Errichtung von Fahrradständern
+- TOP 8.1.11.: Errichtung von Radabstellplätzen in der Wörthstraße
+- TOP 8.1.12.: Workshopergebnisse "Orleansplatz" auf den Prüfstand stellen und bearbeiten
+- TOP 8.1.13.: Beschleunigung der Planungen zum Aus-/Umbau der Regerbrücke
+- TOP 8.3.1.: (U) Mehrjahresinvestitionsprogramm 2019 - 2023 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 8.3.2.: (U) Sportbauprogramm 2019 A. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2019 2. Verfahren 3. Anpassung des Standardraumprogramms 4. Bericht zu den lfd. Projekten, zum 1. und 2. Maßnahmenpaket 5. Beschreibung und Festlegung des 3. Maßnahmenpaketes 6. Ausblick auf das 4. Maßnahmenpaket B. Fortschreibung Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2019 2. Bericht 3. Verfahren 4. Finanzierung C. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2019 2. Bericht 3. Verfahren 4. Finanzierung D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen E. Behandlung von Anträgen aus dem Stadtrat und den Bezirksausschüssen Prüfauftrag: ... F. Beteiligungen und Anhörungen
+- TOP 8.4.1.: Infoblatt 01/20
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 € - Vorstellung durch die Antragsteller - => dazu: Dringlichkeitsantrag Stadtbezirksbudget
+- TOP II.2.: ThemenGeschichtsPfad "Eisenbahn im Münchner Osten" erarbeiten - Anhörung -
+- TOP II.3.: Benennung der Wegeverbindung zwischen Keller- und Rosenheimer Straße - nichtöffentlich -
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München und Freising e.V. Anschaffung eines Gartenspielgerätes 14.472,98 €
+- TOP 1.2.: (E) Stadtbezirksbudget Förderverein des Sonderpädagogischen Förderzentrums (SFZ) An der Isar e.V. Fest zur Ernennung als "Schule ohne Rassismus - Schule mit Courage" am 13.02.2020 2.790,00 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Errichtung eines Hauses für Kinder mit 3 Krippen- und 2 Kindergartengruppen an der Welfenstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ausbau der Mietberatungsstelle, Stärkung der Beratungsleistungen für Mieterinnen und Mieter in Not Sitzungsvorlagen Nr. 14-20 / V 14841
+- TOP 3.2.: Neues Belegrechtsprogramm "Soziales Vermieten leicht gemacht"
+- TOP 3.3.: Alkoholkonsum und Vandalismus auf dem Hypopark Zwischenmitteilung Sozialreferat zum BA-Schreiben vom 16.12.2019
+- TOP 3.4.: Ausbau der Offenen Kinder- und Jugendarbeit rund um das Neubaugebiet des ehemaligen Paulaner Brauereigeländes Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms Sitzungsvorlage Nr. 14-20 / V 16495 - nichtöffentlich -
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bitte um Entschärfung der angespannten Situation am Kolumbusplatz; Bürgerschreiben vom 16.09.19
+- TOP 4.2.: Erneuerung Spielplatz an der Reichenbachbrücke
+- TOP 4.3.: Stationäres Hospiz für den Münchner Osten
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative "Auer/Haidhauser Journal" Herausgabe des "Auer/Haidhauser Journals" vom 01.04.2020 - 31.03.2021 2.500,00 €
+- TOP 1.2.: Antrag für einen mobilen Fahrradständer für eine Physiotherapiepraxis in der Sckellstr. 3
+- TOP 1.3.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Ritzi", Maria-Theresia-Str. 2 a
+- TOP 2.: Anhörungen
+- TOP 2.1.: Demokratiemobil am 18.02.2020 in der Einsteinstr. 28
+- TOP 2.2.: Kinderaktion des AKA e.V. im Jahr 2020 an verschiedenen Standorten im Stadtbezirk
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Einlagerung Parkbank am Mariahilfplatz wegen des Bauern- und Wochenmarktes
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rosenheimer Str. 15: Flächenänderung der Freischankfläche vor der Bar/Lounge; Tektur
+- TOP 2.2.: Albanistr. 7: Errichtung von Balkonen
+- TOP 2.3.: Mariahilfplatz 17a und 18: Schulbauoffensive, Sanierung Schule und Kita, Dachausbau Dienstwohnung; Tektur
+- TOP 2.4.: Lilienstr. 2: Nutzungsänderung: Gaststätte im Souterrain zu "Escape Games"
+- TOP 2.5.: Austausch einer Werbeanlage in der Rosenheimer Straße / DB-Brücke: Errichtung von 2 Mooswänden mit je 1 Digitalboard mit 10 Sekunden Bildwechsel
+- TOP 2.6.: Nigerstr. 1: Speicherausbau zu einer Wohnung, Aufstockung der Aufzugsanlage bis zum Dachgeschoss
+- TOP 2.7.: Asamstr. 5: Sanierung und Erweiterung Wohngebäude mit Balkon- und Aufzugsanbau, Vorbescheid
+- TOP 2.8.: Leuchtenbergring 20: Errichtung einer Freischankfläche
+- TOP 2.9.: Pariser Str. 25: Errichten einer Balkonanlage vom EG bis 3. OG (Seitengebäude) und Nutzungsänderung von zwei Gewerbeeinheiten in zwei Wohnungen (EG und 1.OG, Seitengebäude)
+- TOP 2.10.: Pariser Str. 23: Umbauarbeiten in Wohnung Nr. 10 / 1. OG mit Änderung tragender Bauteile
+- TOP 2.11.: Lothringer Str. 11: Errichtung zweier außenliegender Aufzugsanlagen an Vorder- und Rückgebäude
+- TOP 2.12.: Innere Wiener Str. 57: Dachgeschossausbau und Aufzugsanbau (2 WE)
+- TOP 2.13.: Schneckenburger Str. 11: Wohnraumvergrößerung eines Appartements durch Speicherausbau
+- TOP 2.14.: Ohlmüllerstr. 12: Dacherhöhung mit DG-Ausbau, Balkonvergrößerung, Liftanbau, Tektur (Nutzungsänderung Wohneinheit 3 zu Ferienwohnung
+- TOP 2.15.: Nockherstr. 2-4: Errichtung zweier Fußgängerstege über den Auer Mühlbach
+- TOP 2.16.: Lilienstr. 15: Neubau einer Wohnanlage mit Tiefgarage und Stützpunkt der DLRG, Vorbescheid => dazu: Antrag Bau von ausschliesslich gefördertem Wohnraum
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Öffentliche Flächen vor dem Motel One sollen öffentlich bleiben - Verweis aus der Sitzung vom 11.12.2019 (Recherche im Bebauungsplan) -
+- TOP 3.2.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB, jährlicher Sachstandsbericht Sitzungsvorlagen Nr. 14-20 / V 15999
+- TOP 3.3.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Asamstr. 19 b) Preysingstr. 26
+- TOP 3.4.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk a) vom 25.10.2019 b) vom 03.11.2019 c) vom 16.12.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Öffnung der Höfe in der Lothringer Str. 8 und 8a
+- TOP 4.2.: Lärmbelästigung durch Baustellen auf dem Gelände des Kirchlichen Zentrums
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Vorstellung des aktuellen Planungsstands der Baumaßnahme Ludwigsbrücke durch die MVG
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ludwigsbrücken: Umbau der Trambahnhaltestelle Deutsches Museum
+- TOP 2.2.: Franziskanerstr. 14: Fällung von 1 Säulenpappel
+- TOP 2.3.: Mariahilfplatz 17 a und 18: Fällung von 1 Linde und 1 Prunus avium
+- TOP 2.4.: Metzstr. 42: Fällung von 1 Vogelkirsche
+- TOP 2.5.: Gallmayerstr. 13: Fällung von 1 Esche
+- TOP 2.6.: Errichtung eines Wertstoffcontainerstandorts an der Lucile-Grahn-Straße / Haidhauser Straße als Ersatz für den Standort Grillparzerstraße / Ernst-Reuter-Straße
+- TOP 2.7.: Errichtung einer Ladezone in der Kirchenstr. 86
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Anschlussbereiche westlich / östlich der Ludwigsbrücken zwischen Rumford-/Thierschstraße und Am Gasteig im 1. Stadtbezirk Altstadt - Lehel, im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 11.000.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Vollzug der Wassergesetze, hier: Vorwegmaßnahmen der Instandsetzung der Ludwigsbrücken Bescheid des Referats für Gesundheit und Umwelt
+- TOP 3.4.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP 3.5.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im 5. Stadtbezirk
+- TOP 3.6.: Durchgeführte Ersatzpflanzung Orleansstr. 10-12
+- TOP 3.7.: Fahrtrichtung in der Schiltbergerstraße Antwort KVR zum BA-Schreiben vom 30.07.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Gefahrenstelle für Schulkinder in der Preysingstraße => dazu: Protokoll Ortstermin vom 11.12.2019
+- TOP 4.2.: Konzept für Wertstoffinsel Senftlstraße
+- TOP 4.3.: Verbot von privaten Kaminfeuer
+- TOP 4.4.: Errichtung von Fahrradparkplätzen in der Zeppelinstraße Höhe Hausnummer 67 / 65
+- TOP 4.5.: Schuiwegsicherheit am Gebsattelberg
+- TOP 4.6.: Eröffnung eines REWE-Marktes in der Falkenstraße: verkehrliche Probleme für Fußgänger im Areal
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 10.02.2020, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 10.02.2020, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 11.02.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 12.02.2020, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 13.02.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 19.02.2020, 19.00 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Dienstag, 04.02.2020, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Bürgerversammlung - Bezirksteil Haidhausen am 23.01.2020 um 19 Uhr im Hofbräukeller - Bezirksteil Au am 30.01.2020 um 19 Uhr im Pestalozzi-Gymnasium
