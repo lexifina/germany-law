@@ -1,0 +1,55 @@
+# Sitzung des Sportausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-23T17:00:00+01:00
+- Ende: 2020-01-23T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/14
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21688
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21688
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnern und Bürgern
+- TOP -: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP -: Film zur Kinderrechtskampagne in Köln 2019 - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 2.1: Antrag des Sachkundigen Einwohners Herbert Krempa auf Anregung der Seniorenvertretung Porz vom 17.12.2019 (Reha Bewegungs Sport für Menschen im Seniorenalter in Porz-Ensen - ungeändert beschlossen
+- TOP 3: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Tennishallenplätze in Köln - zurückgestellt
+- TOP 3.2: Gewalt im Fußball - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 3.3: Können wir schon Olympia? - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 4: Ausschuss-Empfehlungen an den Rat/andere Ausschüsse/Bezirksvertretungen
+- TOP 4.1: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 4.2: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - geändert beschlossen
+- TOP 4.3: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - ungeändert beschlossen
+- TOP 4.4: Generalsanierung der Sportanlage Hardtgenbuscher Kirchweg - ungeändert beschlossen
+- TOP 4.5: Zuschuss TuS Köln rrh. 1874 e.V. - ungeändert beschlossen
+- TOP 4.6: Kostenfortschreibung zur Generalinstandsetzung des Schulgebäudes für die Gesamtschule Overbeckstraße 71-73, 50823 Köln - Ehrenfeld - Kenntnis genommen
+- TOP 4.7: Generalinstandsetzung der Doppelturnhalle der Kurt-Tucholsky-Hauptschule, Helene-Weber-Platz 3 in 51109 Köln-Neubrück - Baubeschluss - endgültig zurückgezogen
+- TOP 4.8: 219. Änderung des Flächennutzungsplanes, Arbeitstitel: Parkstadt Süd in Köln-Zollstock, -Raderberg und -Bayenthal - ungeändert beschlossen
+- TOP 4.9: Sportanlage Neue Sandkaul (Widdersdorf) - Kunststoffrasen-Belagserneuerung - ungeändert beschlossen
+- TOP 4.10: Olympische und Paralympische Spiele 2032 - ohne Votum in nachfolgende Gremien
+- TOP 5: Entscheidungen
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 6.2: Sportplatz Kommune - Kinder- und Jugendsport fördern in NRW! - Kenntnis genommen
+- TOP 6.3: Mitteilung zur Kostenerhöhung bei der Generalsanierung der Sportanlage Egonstraße in Köln-Stammheim - Kenntnis genommen
+- TOP 6.4: Mitteilung über die Abweichung von der Regelbauweise von Kunststoffrasenspielfeldern auf der Bezirkssportanlage Everhardstraße - Kenntnis genommen
+- TOP 6.5: 100 Jahre Sport für Köln - ein bewegtes Jahrhundert - Kenntnis genommen
+- TOP 6.6: Das Kölner Sportjahr 2020 - gemeinsam am Start - Kenntnis genommen
+- TOP 6.7: Sportpartnerschaft Köln - Nairobi - Kenntnis genommen
+- TOP 6.8: Gewährte Baubeihilfen an Kölner Sportvereine - Kenntnis genommen
+- TOP 6.9: Sachstand Generalsanierung Halle Bocklemünd - Kenntnis genommen
+- TOP 6.10: Lehrschwimmbecken der GGS Hohe Straße in Porz Ensen - Offener Brief der Vernetzung Porzer Bürgervereine und Statikgutachten - Kenntnis genommen
+- TOP 7: Beantwortung von Anfragen
+- TOP 7.1: Aufgabe von Sportflächen und Anschlussnutzung - Kenntnis genommen
+- TOP 7.2: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.3: Sachstand Parkstadt Süd / Sportpark Süd - Kenntnis genommen
+- TOP 7.4: Beantwortung einer mündlichen Nachfrage aus der 40. Sitzung des Hauptausschusses zu TOP 3.4, „Planungssicherheit für die Sportvereine - Sicherung des Kunstrasenprogramms!“ - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
