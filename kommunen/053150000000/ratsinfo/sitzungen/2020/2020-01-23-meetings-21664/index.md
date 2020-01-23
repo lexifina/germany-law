@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-23T16:00:00+01:00
+- Ende: 2020-01-23T18:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21664
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21664
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 23.01.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00757486.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 23.01.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00757486.pdf
+- Wortprotokoll: Tagesordnung, Stand 23.01.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00757486.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - Sache ist erledigt
+- TOP 1.1.1: Beantwortung Anfrage Ratsguppe Bunt AN/0631/2019 zum Thema Verwarn- und Bußgelder für Verunreinigungen im öffentlichen Raum - Kenntnis genommen
+- TOP 1.2: Zur Herkunft der Steinkohle im HKW Rostock der Rheinenergie AG - Sache ist erledigt
+- TOP 1.2.1: Herkunft der Steinkohle im HKW Rostock der RheinEnergie AG - Kenntnis genommen
+- TOP 1.2.2: Herkunft der Steinkohle im HKW Rostock der RheinEnergie AG - Kenntnis genommen
+- TOP 1.3: Lichtverschmutzung ausgehend von den MMC-studios - Sache ist erledigt
+- TOP 1.4: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - Sache ist erledigt
+- TOP 1.4.1: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Vernetzung von Ökosystemen auf Kölner Stadtgebiet - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Änderungen zum Förderprogramm "Altbausanierung und Energieeffizienz - klimafreundliches Wohnen" - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 4.1.2.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 4.1.3: Stadtverschönerungsmittel für den Stadtbezirk Lindenthal 2019 - Kenntnis genommen
+- TOP 4.1.4: Stadtklima-/Stadtverschönerungsprogramm 2019 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 4.1.5: Fortschreibung des Landschaftsplans Köln (12. Änderung) - im ersten Durchgang verwiesen
+- TOP 4.1.6: Rondorf Nord-West, Entflechtungsstraße - zurückgestellt
+- TOP 4.1.6.1: Dringlichkeitsantrag zum Verfahren Rondorf Nord-West, Entflechtungsstraße - ungeändert beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Stadtgrün naturnah - zurückgestellt
+- TOP 4.2.2: Konzept "Essbare Stadt" - zurückgestellt
+- TOP 4.2.3: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 4.2.4: Kleingartenwettbewerb "Bunte Gartenvielfalt" - geändert beschlossen
+- TOP 4.2.5: Beschaffung von 4 Geräteträgern und 3 Frontsichelmulchern für den Bereich der Allgemeinen Grünunterhaltung - ungeändert beschlossen
+- TOP 4.2.6: Stadtklima-/Stadtverschönerungsprogramm 2019 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus? - Kenntnis genommen
+- TOP 7.2: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 7.4: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 7.5: Glyphosat im Grundwasser im Stadtgebiet und im Regierungsbezirk Kölns - Kenntnis genommen
+- TOP 7.6: Zwischenbericht Monitoring StadtNaturParke 2019 - Kenntnis genommen
+- TOP 7.7: Sachstand Parkstadt Süd- Teilbereich Eifelwall - Kenntnis genommen
+- TOP 7.8: Beantwortung einer mündlichen Nachfrage aus der 40. Sitzung des Hauptausschusses zu TOP 3.4, „Planungssicherheit für die Sportvereine - Sicherung des Kunstrasenprogramms!“ - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
