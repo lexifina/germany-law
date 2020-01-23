@@ -1,0 +1,92 @@
+# 41. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-23T17:00:00+01:00
+- Ende: 2020-01-23T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21927
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21927
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756152.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756152.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756152.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage vom 10.10.2019 betreffend Nutzung des Heßhofplatzes in Köln-Vingst - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage vom 10.10.2019 betreffend Sportwettbüros auf der Ostheimer Straße in Köln-Höhenberg und Rösrather Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der Einwohneranfrage: Sachstand zur Hubschrauberbetriebsstation (HBS) und Rettungshubschrauber - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Neuerburgstraße Stadtteil Kalk (Az.: 02-1600-188/19) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Rücksichtsloses Verhalten von Radfahrern, Pfosten vor Unterführungen (Az.: 02-1600-228/19) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.:Anwohnerparkplätze in der Warendorfer Straße in Köln-Merheim (Az.: 02-1600-263/19) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Neubrück: Auto parken statt Müll entladen - endgültig zurückgezogen
+- TOP 7.2: Verbesserung der Ausleuchtung des Fußgängerüberwegs Eiler Straße in Köln-Rath/Heumar vor der Kirche St. Cornelius - Sache ist erledigt
+- TOP 7.3: Aufbringen eines Piktogramms „Tempo 30“ auf der Erlöserkirchstraße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.4: Park & Ride Platz an der Haltestelle Kalker Friedhof in Köln-Merheim - geändert beschlossen
+- TOP 7.5: Entsiegelung und Begrünung der Verkehrsinseln im Bereich der Kreuzung Olpener Straße/Frankfurter Straße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.6: Autofreier Raum in der Steinmetzstraße 23-29 in Köln-Kalk schaffen - ungeändert beschlossen
+- TOP 7.7: Mobiles Drogenhilfeangebot im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.8: Resolution gegen die Schließung der Sparkassen-Filialen in den Stadtteilen Ostheim und Brück - ungeändert beschlossen
+- TOP 7.9: Weitere Maßnahmen zur Beseitigung des Angstraumes Autobahnunterführung Rösrather Straße in Köln-Ostheim - ungeändert beschlossen
+- TOP 7.10: Verbesserung des Verkehrsflusses am Knotenpunkt Kreuzung Frankfurter Straße/KVB-Stadtbahnlinie/Rösrather Straße/Ostheimer Straße in Köln-Ostheim - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Finanzmittel für die Bürgervereine im Stadtbezirk Kalk für Instandsetzungsmaßnahmen, Renovierungen und kleinere Anschaffungen im Jahr 2019; hier: Vergabe weiterer Mittel an den Bürgerverein Köln-Neubrück e.V. - ungeändert beschlossen
+- TOP 8.1.2: Sitzen statt Parken - Außengastronomie auf Stellplätzen - geändert beschlossen
+- TOP 8.1.3: Baubeschluss für die Neuordnung des ruhenden Verkehrs und Markierung von Schutz- und Radfahrstreifen in der Gießener Straße zwischen Deutzer Ring und Taunusstraße - ungeändert beschlossen
+- TOP 8.1.4: Fassaden und Dachsanierung Alt- und Anbau Bürgerhaus Kalk - geändert beschlossen
+- TOP -: Fassaden und Dachsanierung Alt- und Anbau Bürgerhaus Kalk (Vorlagen-Nr. 3645/2019) - ungeändert beschlossen
+- TOP 8.1.5: Beschluss der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Humboldt/Gremberg und Kalk" - ungeändert beschlossen
+- TOP 8.1.6: Förderung "Veedelszöch" 2020, hier: Vergabe der Mittel für die Veedelzüge im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.1.7: Haushaltsplan 2020/21 - hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2020 und 2021 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 8.1.8: Vergabe der bezirksorientierten Mittel für das Jahr 2020 (Neufassung) - ungeändert beschlossen
+- TOP 8.1.9: Verwendung der Kulturmittel 2020 für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - geändert beschlossen
+- TOP -: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - Kenntnis genommen
+- TOP -: Regionalplanüberarbeitung, Modul - III. Empfehlungen zur Darstellung neuer Siedlungsbereiche ... (Vorlagen-Nr. 2887/2019) - Kenntnis genommen
+- TOP -: Regionalplanüberarbeitung, Modul - III. Empfehlungen zur Darstellung neuer Siedlungsbereiche ... (Vorlagen-Nr. 2887/2019) - Kenntnis genommen
+- TOP -: Regionalplanüberarbeitung, Modul - III. Empfehlungen zur Darstellung neuer Siedlungsbereiche ... (Vorlagen-Nr. 2887/2019) - Kenntnis genommen
+- TOP -: Regionalplanüberarbeitung, Modul - III. Empfehlungen zur Darstellung neuer Siedlungsbereiche ... (Vorlagen-Nr. 2887/2019) - Kenntnis genommen
+- TOP 8.2.2: Generalinstandsetzung der Doppelturnhalle der Kurt-Tucholsky-Hauptschule, Helene-Weber-Platz 3 in 51109 Köln-Neubrück - Baubeschluss - endgültig zurückgezogen
+- TOP 8.2.3: Generalsanierung der Sportanlage Hardtgenbuscher Kirchweg - ungeändert beschlossen
+- TOP 8.2.4: Zuschuss TuS Köln rrh. 1874 e.V. - ungeändert beschlossen
+- TOP 8.2.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74440/02 Arbeitstitel: Rather See in Köln – Rath / Heumar - ungeändert beschlossen
+- TOP 8.2.6: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Konsequenzen der ICE-Baustelle in Kalk - Kenntnis genommen
+- TOP 9.1.2: Sachstand zum Energie- und Wärmeverbrauch in städtischen oder von der Stadt Köln genutzten Gebäuden - zur Anfrage der Linken AN/1166/2019 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Ersatzstandort der Glassammelcontainer in der Eiler Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.2.2: Erschließung der Siedlung Oberer Bruch in Köln-Brück - Kenntnis genommen
+- TOP 9.2.3: Wiederherrichtung der Grünfläche Olpener Straße/Einmündung Hohensyburgstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht zu den Schulen GGS und KGS Kapitelstraße in Köln-Kalk und KGS Zehnthofstraße in Köln- Ostheim sowie zur Schulneubaumaßnahme Thessaloniki-Allee in Köln-Kalk
+- TOP -: Sachstand Grüneberg-Schule in der Kapitelstraße - zu Mitteilung 3920/2019 - Kenntnis genommen
+- TOP 10.2.2: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 10.2.3: Bewirtschaftung des städtischen Waldes 2019/2020 in den Stadtbezirken Kalk, Porz, Mülheim - Kenntnis genommen
+- TOP 10.2.4: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.5: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 10.2.6: Bildungscampus Kalk des Erzbistums Köln – Ergebnis Architektenwettbewerb - Kenntnis genommen
+- TOP 10.2.7: Aufstellen weiterer Abfallbehälter im Bereich Merheimer Heideweg/Günter-Kuxdorf-Weg in Köln-Höhenberg - Kenntnis genommen
+- TOP 10.2.8: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 11 - Kenntnis genommen
+- TOP 10.2.9: Barrieren auf dem Fußweg zwischen Anisweg und Neubrück - Kenntnis genommen
+- TOP 10.2.10: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 10.2.11: Stärkung und Ausweitung des KVB-Stadtbahn- und Busnetzes hier: Stellungnahme zu den Vorlagen-Nr. 1103/2019, 1215/2019 und 1418/2019 - Kenntnis genommen
+- TOP 10.2.12: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.13: Prüfauftrag zur Schaffung von weiterem Park-and-Ride Angebot in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.14: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
