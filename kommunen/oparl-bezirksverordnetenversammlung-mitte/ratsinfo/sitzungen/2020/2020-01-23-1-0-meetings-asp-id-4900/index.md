@@ -1,0 +1,118 @@
+# 34. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-01-23T17:30:00+01:00
+- Ende: 2020-01-23T21:05:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4900
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4900
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=459787
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Parkverbot Rathausstraße und Nikolaiviertel - beantwortet
+- TOP 2.2: Stellenbesetzung für Sozialarbeiter/-in beim Träger FIXPUNKT - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Integratives Wohnen in Mitte - beantwortet
+- TOP 7.2: Frühkindliche Sprachförderung im Bezirk Mitte - beantwortet
+- TOP 7.3: Clanfriseure im Wedding - beantwortet
+- TOP 7.4: Bezirksamt erhöht Parkdruck in Mitte ausgleichslos? - schriftlich beantwortet
+- TOP 7.5: Zwangsräumungen 2019 - schriftlich beantwortet
+- TOP 7.6: Unterbringung schulpflichtiger Kinder ohne Deutschkenntnisse in Mitte? - schriftlich beantwortet
+- TOP 7.7: Beteiligung bei der Erneuerung des Spielplatzes in der Grünanlage Schumannstr/Reinhardtstraße - schriftlich beantwortet
+- TOP 7.8: Sicher mit dem Fahrrad nach Kopenhagen - schriftlich beantwortet
+- TOP 7.9: Was soll in der Triftstraße passieren? - schriftlich beantwortet
+- TOP 7.10: Wer bezahlt den durch die ZPS-Stele entstandenen Schaden? - schriftlich beantwortet
+- TOP 7.11: Zusammenarbeit von Bezirken und Trägern der Wohnungslosenhilfe bei der Straßensozialarbeit - wer ist dafür verantwortlich, dass es hierzu nicht voran geht? - schriftlich beantwortet
+- TOP 7.12: Fachplan Grün- und Freiflächen endlich vorlegen! - schriftlich beantwortet
+- TOP 7.13: Wird die Bundestagswiese nun wieder austrocknen? - schriftlich beantwortet
+- TOP 7.14: 10 Minuten – alle Zeit der Welt - schriftlich beantwortet
+- TOP 7.15: Mondpreise für Widersprüche gegen die Straßenumbenennungen im afrikanischen Viertel? - schriftlich beantwortet
+- TOP 7.16: Geschäftsstraßenmanagement Müllerstraße am Ende - schriftlich beantwortet
+- TOP 7.17: Werden die Gehwege im Frühling frei für Fußgänger*innen sein? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Kein Interesse am Musterprozess? - beantwortet
+- TOP 8.2: Schulreinigung – künftig kommunal! - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Wie gut werden die Spritzenentsorgungseimer angenommen? - beantwortet
+- TOP 9.2: Radverkehrsbeauftragter in Mitte? - beantwortet
+- TOP 9.3: Mietendeckel vs. Baugenehmigungen? - schriftlich beantwortet
+- TOP 9.4: Wie ist die Lage der Wochenmärkte im Bezirk Mitte? - schriftlich beantwortet
+- TOP 9.5: Gute Arbeit ermöglichen statt prekäre Minijobs: Welchen Stellenwert hat für das Bezirksamt die Tagesreinigung von Gebäuden? - schriftlich beantwortet
+- TOP 9.6: Schimmel und kein Ende II - schriftlich beantwortet
+- TOP 9.7: Kita-Ausbau - schriftlich beantwortet
+- TOP 9.8: Gewalt im Amateurfußball in Berlin-Mitte - schriftlich beantwortet
+- TOP 9.9: Wie weiter mit den illegalen Hütchenspielern? - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Nachbarschafts- und Bildungszentrum für das QM-Gebiet Pankstraße - überwiesen
+- TOP 14.2: Plantagenstraße zur Spielstraße - überwiesen
+- TOP 14.3: Runder Tisch zur Rathenower Str. 15-18 & Moratorium des Teilabrisses - überwiesen
+- TOP 14.4: Querung der Weddingstr. Ecke Reinickendorfer Str. sicherer machen - überwiesen
+- TOP 14.5: Zigarettenstummel richtig entsorgen - Aktionskampagne 2020 starten! - überwiesen
+- TOP 14.6: Besucher*innenumfrage in Wohnungslosentagesstätten - überwiesen
+- TOP 14.7: Bessere Verkehrsanbindung der Europacity - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Mobility Data Specification auch für Berlin - überwiesen
+- TOP 14.9: Freischaffende Künstler*innen in Mitte stärken - überwiesen
+- TOP 14.10: Querungshilfe in der Graunstr. einrichten - überwiesen
+- TOP 14.11: Keine Verpollerung der Radwege - überwiesen
+- TOP 14.12: Verkehrsberuhigung in Tiergarten Süd - überwiesen
+- TOP 14.13: Handlungsempfehlungen der „Prüfgruppe Korruptionsprävention“ konsequent umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Erklär- und Gendenktafel für Leonhard Euler auf dem Leonhard Euler Spielplatz im Gesundbrunnen - überwiesen
+- TOP 14.15: Stadtklima verbessern, Grünflächen entsiegeln - überwiesen
+- TOP 14.16: Clärchens Ballhaus erhalten! - überwiesen
+- TOP 14.17: Umweltgerechtigkeit ist Querschnittsaufgabe im Bezirksamt - überwiesen
+- TOP 14.18: Jakobsweg in Mitte ausschildern - überwiesen
+- TOP 14.19: Krankenhausbeirat und Psychiatriebeirat wieder regelmäßig einberufen - überwiesen
+- TOP 14.20: Größere Baumscheiben für Straßenbäume - überwiesen
+- TOP 14.21: Ein Haus der Hilfe für Mitte - überwiesen
+- TOP 14.22: Spreeuferweg im Nikolaiviertel - überwiesen
+- TOP 14.23: Bezirkliche Solar-B-Plan-Regelungen für mehr Klimaschutz - überwiesen
+- TOP 14.24: Neuköllner Handlungskonzept als Vorbild für Mitte - überwiesen
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Leerstand nutzen: Zwischennutzungen und ein „Haus der Hilfe“ in der Schulstraße 97 ermöglichen - in der BVV abgelehnt
+- TOP 16.2: Entscheidend is auf´m Platz – Bezug zu Alfred Döblin und Hauptwerk mit ins „Konzept Alexanderplatz“ - gegenstandslos
+- TOP 16.3: Der Bezirk-Mitte erkennt den Klimanotstand an - mit Änderungen in der BVV beschlossen
+- TOP 16.4: Durchsetzung der Nachtruhe am Weinbergsweg/Volkspark am Weinbergsweg, Rosenthaler Platz und Umgebung und im Weinbergspark - mit Änderungen in der BVV beschlossen
+- TOP 16.5: Barrierefreiheit in Mitte herstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 16.6: Mehr Straßenpumpen in Mitte zur Bewässerung von Bäumen - ohne Änderungen in der BVV beschlossen
+- TOP 16.7: Gedenktafel für Franziska Bereit - mit Änderungen in der BVV beschlossen
+- TOP 16.8: Barrierefreiheit in Mitte herstellen – auch an Bushaltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 16.9: Jugendberufshilfe im Bezirk - Angebote für junge Schulpflichtige ausbauen und inklusiv weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Bericht über Partnerschaften des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Überfällige Befragung der Beschäftigten durchführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.3: Führungskräftefeedback in der Bezirksverwaltung Mitte umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: B12 – Menschenunwürdige Zustände beenden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Moabit, aber sicher! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.6: Betreuungszeiten der Hausmeister den Öffnungszeiten von Schulen anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Stellenbesetzung in der Wirtschaftsförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: Modellprojekt „Parkplatz-Öffnung nach Ladenschluss“ einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Mobilitätsgesetz in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: Beschäftigte in Öffentlichen Bibliotheken stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: SIWANA nicht im Alleingang – BVV einbeziehen und Transparenz sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.12: Schulisches Mobilitätsmanagement in Mitte fördern und unterstützen – Landesprogramm initiieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.13: Beschlüsse der BVV umgesetzt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Gefahrstelle am Hotel Meininger beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: Wochenmarkt in der Europacity - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.16: Beschluss über die Einstellung des Bebauungsplanverfahrens 1-70a (ehemaliges Haus der Statistik), die Aufstellung des Bebauungsplanes 1-105 (ehemaliges Haus der Statistik) und die Änderung der räumlichen Geltungsbereiche der in Aufstellung befindlichen Bebauungspläne 1.70b (Bereich Mollstraße 4) und 1-82a (Bereich Berolinastraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Beschluss über die Aufstellung des vorhabenbezogenen Bebauungsplans II-26-1VE „Birkenstraße 1“ und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 und Behördenbeteiligungen gemäß § 4 Abs. 1 und 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Kriterien für die Genehmigung von Wohnungskäufen nach § 172 Abs. 4 Satz 4 BauGB in den Gebieten mit Verordnungen zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.19: Projektvereinbarung zur Errichtung einer Mittelpunktbibliothek innerhalb des Neubau-Vorhabens der Staatsanwaltschaft in der Turmstraße 22 - mit Abschlussbericht zur Kenntnis genommen
