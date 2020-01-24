@@ -1,0 +1,8 @@
+# TOP 9: Werstener Feld - Querschnittseinengung an der Benninghauser Straße und der Opladener Straße
+
+- Sitzung: Bezirksvertretung 9 (2020-01-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/269705
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/103434
