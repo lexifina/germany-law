@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-24T16:00:00+01:00
+- Ende: 2020-01-24T17:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18775
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18775
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö - BV 9 - 24012020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368827.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö - BV 9 - 24012020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368827.pdf
+- Wortprotokoll: Sitzungspaket Ö - BV 9 - 24012020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368827.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 22.11.2019 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Wettbewerb mit Öffentlichkeitsbeteiligung nach RPW "Quartier Regerstraße" - einstimmig beschlossen
+- TOP 6: Bezirklicher Bauunterhalt 2020 - Liste B - einstimmig beschlossen
+- TOP 7: Sitzungstermine 2020 (2. Halbjahr) - mehrheitlich beschlossen
+- TOP 8: Rodungsarbeiten im Zuge von Kanalsanierungsarbeiten innerhalb der Itterstraße - zur Kenntnis genommen
+- TOP 9: Werstener Feld - Querschnittseinengung an der Benninghauser Straße und der Opladener Straße - zur Kenntnis genommen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 10: Parkraumbewirtschaftung „Rund um das Benrather Krankenhaus“ - schriftlich beantwortet
+- TOP 11: Parkplatznot im Einzugsbereich der Harffstraße - schriftlich beantwortet
+- TOP 12: Sachstand Prioritätenliste Mischverkehrsflächen - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 13: Zufahrt Haus-Endt-Siedlung bei Einsätzen der Feuerwehr - vertagt
+- TOP 14: Toilettenanlagen im Stadtbezirk 9 - schriftlich beantwortet
+- TOP 15: Parkplatz Altenbrückstraße - schriftlich beantwortet
+- TOP 16: Schrankensicherung am Werstener Kreuz - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Altes Hospital, Backsteine wieder verwertbar? - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 19: Toilettenanlage Jugendfreizeiteinrichtung Kamper 17 - abweichend beschlossen
+- TOP 20: Kulturbunker Wersten - einstimmig beschlossen
+- TOP 21: Radfahrstreifen Hildener Straße / B228 - einstimmig beschlossen
+- TOP 22: Benrodestraße zwischen Görres- und Erich-Müller-Straße - einstimmig beschlossen
+- TOP 23: Flugzeugmotor - einstimmig beschlossen
+- TOP 24: Erneuerung der Fahrbahnbelages der Bruchhausenstraße - abweichend beschlossen
+- TOP 25: Erweiterung der Fahrradabstellanlage "Am Spaltwerk"/Werstener Kreuz - abweichend beschlossen
+- TOP 26: Bücherschrank Benrath - einstimmig beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung
+- TOP 27: Verfügungsmittel: Repräsentation 2020 - einstimmig beschlossen
+- TOP 28: Verfügungsmittel: Geranien Rathaus Benrath - einstimmig beschlossen
+- TOP 29: Verfügungsmittel: "Alde Odebacher Jonges" - Feier zum 100jährigen Bestehen - einstimmig beschlossen
+- TOP 30: Verfügungsmittel: Hermann-Gmeiner-Schule - "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 31: Verfügungsmittel: IG Pauls-Mühler-Jecke e.V. - Veedelszoch 2020 - einstimmig beschlossen
+- TOP 32: Verfügungsmittel: St.-Elisabeth-Schule - Projekt zur Gewaltprävention "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 33: Einrichtung eines Messortes zur Luftqualitätsmessung am Werstener Kreuz - zur Kenntnis genommen
+- TOP 34: Querungshilfe Dechenweg - zur Kenntnis genommen
+- TOP 35: Nutzung Carborundum-Bürogebäude - zur Kenntnis genommen
