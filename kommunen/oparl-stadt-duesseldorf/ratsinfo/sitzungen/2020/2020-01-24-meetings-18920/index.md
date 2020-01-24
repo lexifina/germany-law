@@ -1,0 +1,80 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-24T14:00:00+01:00
+- Ende: 2020-01-24T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18920
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18920
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368712.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368712.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368712.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 1 am 22. November 2019 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung des InnovationsHUB: Beispiel für eine Kooperation der Gewerbebetriebe in der Ackerstraße 11 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.2: Vorstellung des Vereins Kulturliste e.V. - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.3: Zielkonzept "ÖPNV Düsseldorf: Teil 1 - Stadtbahn" - zur Kenntnis genommen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Fischmärkte auf dem Tonhallenufer im Jahre 2020 - Empfehlung einstimmig beschlossen
+- TOP 4.8: Bücherbummel auf der Königsallee im Jahre 2020 - einstimmig beschlossen
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste C) - Haushalt 2020 - - einstimmig beschlossen
+- TOP 4.10: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen
+- TOP 5.1: Fahrradstraßen im Stadtbezirk 1 - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Ehemaliges Telekom-Gelände Moltkestraße 23 - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Ackerstraße 11 und 9 - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 5.7: Lärmreduzierung auf der Sternstraße - Anfrage der SPD-Fraktion
+- TOP 5.8: Worringer Platz 4 - überfraktionelle Anfrage - zur Kenntnis genommen
+- TOP 5.9: Videoüberwachung am Grabbeplatz - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6: Anträge
+- TOP 6.1: Öffnung der Mauerstraße für den Radverkehr in entgegengesetzter Fahrtrichtung (Antrag der Fraktion Bündnis90/Die Grünen) - einstimmig beschlossen
+- TOP 6.2: Installation einer Anzeigetafel an den Bushaltestellen Frankenplatz (Antrag der Fraktion Bündnis90/Die Grünen) - einstimmig beschlossen
+- TOP 6.3: Baumersatzpflanzung in der Römerstraße vor dem Haus mit der Nr. 27 (Antrag der Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 6.4: Modellversuch - Begrünte Haltestellendächer - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.5: Feuertreppe Schloß Jägerhof - Antrag der CDU-Fraktion - vertagt
+- TOP 6.6: Verbesserung der Beleuchtung des Gedenksteins für die alte Synagoge - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 6.7: Gedenkort Ulmer Höh' - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 6.8: Gehweg Vagedesstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6.9: Gehwege Kolpingplatz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6.10: Bauleitplanverfahren für den Bereich Ackerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.11: Drohnen gegen Kanadagänse - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 6.12: Rechtsabbiegepfeil Am Wehrhahn/Worringer Str. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 7.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 7.2: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 7.3: Abzug von Altpapier-Depotcontainerstationen - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Sitzgelegenheiten auf dem Kolpingplatz Beschluss der Bezirksvertretung 1 vom 11.10.2019, BV1/040/2019 - zur Kenntnis genommen
+- TOP 7.6: Baumpflanzung auf der Kapellstraße vor Haus Nr. 46 Beschluss der Bezirksvertretung 1 vom 11.10.2019, BV1/017/2019 - zur Kenntnis genommen
+- TOP 7.7: Einrichtung von Schließfächern für die Multifunktionsfläche unter der Theodor-Heuss-Brücke Beschluss der Bezirksvertretung 1 vom - zur Kenntnis genommen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Absenkung Gehweg Benedikt-Schmittmann-Straße/Ecke Camphausenstraße; Beschluss der Bezirksvertretung 1 vom 22. November 2019; BV1/071/2019 - zur Kenntnis genommen
+- TOP 7.10: Barrierefreiheit auf der Roßstraße, Beschluss der Bezirksvertretung 1 vom 22. November 2019; BV1/082/2019 - zur Kenntnis genommen
+- TOP 7.11: Auf dem Vorplatz des Mahmals am ehemaligen Güterbahnhof soll Parken verhindert werden; Beschluss der Bezirksvertretung 1 vom 11. Oktober 2019; BV1/020/2019 - zur Kenntnis genommen
+- TOP 7.12: Fahrradabstellbügel Bagelstraße 136, 132, 122 b - Beschluss der Bezirksvertretung 1 vom 22. November 2019; BV1 - zur Kenntnis genommen
+- TOP 7.13: Bordsteinabsenkung Kreuzung Weißenburgstraße/Geistenstraße - Anfrage vom 22. November 2019; BV1/078/2019 - zur Kenntnis genommen
+- TOP 7.14: Lichtzeichenanlage Kreuzungsbereich Am Wehrhahn / Kölner Straße - Anfrage zur Sitzung am 11. Oktober 2019; BV1/ - zur Kenntnis genommen
+- TOP 8: Verfügungsmittel der Bezirksvertretung 1
+- TOP 8.1: Verfügungsmittel der BV1 - Zuschuss für das Integrationsprojekt der Neue Zeiten e.V. - einstimmig abgelehnt
+- TOP 8.2: Verfügungsmittel der BV 1 - Zuschuss für den Verein vision:teilen e.V. für das Winterfest "hallo nachbar!" - einstimmig beschlossen
+- TOP 8.3: Verfügungsmittel der BV 1 - Zuschussantrag der Thomas-Schule für die Beschaffung von Büchern für die Schulbibliothek - einstimmig beschlossen
+- TOP 8.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Ballspielverein 04 e.V. - einstimmig beschlossen
+- TOP 8.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für "Düsseldorf singt" - vertagt
+- TOP 8.6: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 8.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Grundschule Lennéstraße; Bildungsangebot "Lernwelt Musik" - einstimmig beschlossen
+- TOP 8.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den KG Düsseldorfer Originale e.V. - einstimmig beschlossen
+- TOP 9: Verschiedenes
