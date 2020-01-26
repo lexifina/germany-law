@@ -1,4 +1,4 @@
-# Suchdienstedatenschutzgesetz
+# Gesetz zur Regelung des Datenschutzes für den Suchdienst des Deutschen Roten Kreuzes
 
 - [§ 1 Anwendungsbereich des Gesetzes](0001.md)
 - [§ 2 Aufgaben des DRK-Suchdienstes](0002.md)

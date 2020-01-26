@@ -578,8 +578,6 @@ Personenkreis
 für einzelne Renten
 
 - [§ 235 Regelaltersrente](0235.md)
-- [(XXXX) §§ 235a und 235b (weggefallen)](xxxx-235a-und-235b.md)
-- [(XXXX) §§ 235a und 235b (weggefallen)](xxxx-235a-und-235b-2.md)
 - [§ 236 Altersrente für langjährig Versicherte](0236.md)
 - [§ 236a Altersrente für schwerbehinderte Menschen](0236a.md)
 - [§ 236b Altersrente für besonders langjährig Versicherte](0236b.md)

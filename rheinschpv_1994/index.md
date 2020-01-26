@@ -40,7 +40,7 @@
 - [§ 2.02 Kennzeichen der Kleinfahrzeuge](0002-02.md)
 - [§ 2.03 Schiffseichung](0002-03.md)
 - [§ 2.04 Einsenkungsmarken und Tiefgangsanzeiger](0002-04.md)
-- [§ 2.05 Kennzeichen der Anker](0002-05.md)
+- [§ 2.05](0002-05.md)
 - [§ 2.06 Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen(Anlage 3: Bild 66)](0002-06.md)
 
 ### Kapitel 3 Bezeichnung der Fahrzeuge
