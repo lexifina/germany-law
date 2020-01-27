@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-27T17:05:00+01:00
+- Ende: 2020-01-27T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21902
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21902
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage Verkehrskonzept
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradweg Auenweg in Höhe Claudius Therme (Az.:02-1600-119/19) - zurückgestellt
+- TOP 2.2: Siedlung Egonstraße in Köln-Stammheim; Bürgereingabe vom 01.09.2019 - geändert beschlossen
+- TOP 2.3: Eingabe nach § 24 GO - AZ 187/19 B - 57 Maßnahmen für Mülheim - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Baumsterben im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.1.2: Verlängerung Stadtbahn Mülheim-Süd - Stammheim - Flittard - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung: Fluglärm in Köln-Mülheim – Anfrage der Fraktion Bündnis 90/ Grüne vom 26.10.2019 (AN/1437/2019) - Kenntnis genommen
+- TOP 7.1.4: Sicherung des Kinder- und Jugendschutzes in Köln Buchheim - im Besonderen - Kenntnis genommen
+- TOP 7.1.5: Schulweg Teilstandort der Gesamtschule Höhenhaus in Dellbrück zur Willy-Brandt-Gesamtschule Höhenhaus - Kenntnis genommen
+- TOP 7.1.6: Buchheimer Ring: Einrichtung von Parkplätzen für die Nutzer des Fußballfeldes in der Merheimer Heide (Ecke Schlagbaumsweg/Buchheimer Ring) - Kenntnis genommen
+- TOP 7.1.7: Geschwindigkeitskontrolle am Stammheimer Ring
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Stellflächen für E-Roller - Kenntnis genommen
+- TOP 7.2.2: Zukunft des Grundstücks „Peugeot“ in Holweide - Kenntnis genommen
+- TOP 7.2.3: Wasserhochstand des Mutzbaches östlich des Waldbades - Drohen dem Waldbad Schäden ? - Kenntnis genommen
+- TOP 7.2.3.1: Wasserhochstand des Mutzbaches östlich des Waldbades - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Begrünte KVB-Fahrgastunterstände - ungeändert beschlossen
+- TOP 8.1.2: ÖPNV attraktiver machen: mehr Komfort im ÖPNV. Ertüchtigung der Bushaltestelle Stammheimer Friedhof - ungeändert beschlossen
+- TOP 8.1.3: Gefahrenstelle Dünnwalder Kommunalweg/ Am Flachsrosterweg
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Änderung der Richtlinie der Stadt Köln zur Gewährung von Zuwendungen aus dem Verfügungsfonds im Rahmen des Programms „Starke Veedel – Starkes Köln“ für das Gebiet „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 9.1.2: Generalsanierung der Pützlachstraße und der Frasengasse in Köln-Flittard - ungeändert beschlossen
+- TOP 9.1.3: Förderprogramm zur Sicherung der Veedelszüge, hier; Vergabe der Mittel für die Veedelszüge im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.4: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - geändert beschlossen
+- TOP 9.2.1.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - geändert beschlossen
+- TOP 9.2.1.2: Änderungsantrag zum Regionalplan (2887/2019) - ungeändert beschlossen
+- TOP 9.2.2: 229. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Im Rodfeld/Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die Ergänzung des Bebauungsplan-Entwurfs 73480/06; Arbeitstitel: Kochwiesenstraße in Köln-Holweide - ungeändert beschlossen
+- TOP 9.2.4: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.5: Teilaufhebung des Bebauungsplanes Nummer 73490/06- Arbeitstitel: August-Strindberg-Straße in Köln-Holweide; Anhörung der Bezirksvertretung Mülheim zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarb - ungeändert beschlossen
+- TOP 9.2.6: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Planung der Maßnahme "Umgestaltung der Frankfurter Straße in Buchheim" aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.6) - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.4: Offenlage des vorhabenbezogenen Bebauungsplanes (VEP) Nr. 72498/02 Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - Kenntnis genommen
+- TOP 10.2.5: Illegales Parken im Landschaftsschutzgebiet m Bereich Diepeschrather Str. - Kenntnis genommen
+- TOP 10.2.6: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 10.2.7: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 10.2.8: Stärkung und Ausweitung des KVB-Stadtbahn- und Busnetzes hier: Stellungnahme zu den Vorlagen-Nr. 1103/2019, 1215/2019 und 1418/2019 - Kenntnis genommen
+- TOP 10.2.9: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.10: 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Sigwinstraße in Köln-Höhenhaus hier: Offenlage nach § 3 Absatz 2 BauGB und Beteiligung der Träger öffentlicher Belange nach § 4 Absatz 2 BauGB - Kenntnis genommen
+- TOP 10.2.11: Ergebnis des Qualifizierungsverfahrens zum Quartier Schlebuscher Weg in Köln Höhenhaus - Kenntnis genommen
+- TOP 10.2.12: Teilnahme des Erich-Gutenberg-Berufskollegs am Schulversuch Talentschulen - Kenntnis genommen
+- TOP 10.2.13: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.3: Bemerkungen zur Niederschrift
