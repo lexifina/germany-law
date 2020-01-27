@@ -1,0 +1,7 @@
+# TOP 5.: Die Migrantenmilieu-Studie 2018
+
+- Sitzung: Zuwanderer- und Integrationsrat (34. Sitzung) (2020-01-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/55204
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/31665
