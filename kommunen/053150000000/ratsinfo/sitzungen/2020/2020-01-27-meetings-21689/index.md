@@ -1,0 +1,53 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-27T17:00:00+01:00
+- Ende: 2020-01-27T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21689
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21689
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag AN/0143/2020 der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen auf Durchführung einer Aktuellen Stunde betreffend „Anonymer Hinweis auf Arbeitsüberlastung in der Verwaltung“ - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage der SPD-Fraktion betreffend "Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus" aus der Sitzung des AVR vom 02.12.2019 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 02.12.2019 betreffend "Personalbericht 2018/2019" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalbericht 2018/2019 - Kenntnis genommen
+- TOP 4.2: Erfahrungsbericht 2018 zur Inklusionsvereinbarung - Kenntnis genommen
+- TOP 4.3: Sachstandsmitteilung zum Personalrisikomanagement - Kenntnis genommen
+- TOP 4.4: Auszeichnung der Stadt Köln für besonderes Engagement bei der beruflichen Inklusion - Kenntnis genommen
+- TOP 4.5: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 4.6: Beantwortung der Anfrage AN/1577/2019 der SPD-Fraktion betreffend "Städtebauinvestitionsprogramm 2020 - keine Förderung von "Starke Veedel - starkes Köln"" zur Sitzung des Stadtentwicklungsausschusses vom 05.12.2019 - Kenntnis genommen
+- TOP 4.7: Abschlussbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
+- TOP 4.8: Videoüberwachung auf Baustellen - zum Beschluss AN/1293/2019 des Betriebsausschusses der Gebäudewirtschaft vom 28.10.2019 - Kenntnis genommen
+- TOP 4.9: Kinderfreundliche Kommune Köln - zurückgestellt
+- TOP 4.10: Mitteilung des Personal- und Verwaltungsmanagements zu der Thematik Marketingsmaßnahmen / Personalgewinnung - zurückgestellt
+- TOP 4.11: Beantwortung der Anfrage AN/1563/2019 der Fraktion DIE LINKE betreffend "Fachkräftemangel bei der Gebäudewirtschaft" zur Sitzung des Betriebsausschusses der Gebäudewirtschaft am 27.01.2020 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage AN/0021/2020 der CDU-Fraktion betreffend "Wartezeiten bei der städtischen Zulassungsstelle" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0021/2020 der CDU-Fraktion betreffend "Wartezeiten bei der städtischen Zulassungsstelle" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage betreffend "Sachstandsbericht zur Konzeptentwicklung Städtpartnerschaftsarbeit"
+- TOP 7.2: Mündliche Anfrage betreffend "Sicherheitskonzept zum "NRW-Tag""
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 9.1: Vergabe zentraler Innenstadtplätze - Neumarkt, Heumarkt und Roncalliplatz; hier: Anträge der Stabsstelle Events der Stadt Köln/Projektbüro NRW-Tag 2020 auf Durchführung der Feierlichkeiten des "NRW Tages" - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Schulrechtliche Errichtung einer dreizügigen Grundschule – als offene Ganztagsgrundschule - in Köln-Marienburg am Standort Gaedestraße 31, 50968 Köln zum Schuljahr 2022/23 - ungeändert beschlossen
+- TOP 10.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 10.3: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2018 - ungeändert beschlossen
+- TOP 10.4: Errichtung der "MAKK-Förderstiftung" - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 10.6: Nachhaltige Urbane Mobilitätsplanung - ungeändert beschlossen
+- TOP 10.7: Medizinische Grundversorgung von Geflüchteten - Evaluation Mindeststandards Teil I - geändert beschlossen
+- TOP 10.8: Rettungsdienstbedarfsplan 2016 - Bedarfsgerechte Anpassung im Jahr 2019 - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
