@@ -1,0 +1,52 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-28T16:00:00+01:00
+- Ende: 2020-01-28T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18934
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18934
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368876.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368876.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368876.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 26.11.2019 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: "Garath 2.0 - Den Wandel gestalten" - Neue Namen für die vier Garather Viertel - zurückgezogen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Diakonie Düsseldorf e.V. "zentrum plus" Garath - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der BV 10, Zuschuss für Film- und Fotoaufnahmen im Stadtbezirk 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der BV 10, Zuschuss an die Bürger- und Interessengemeinschaft Garath e.V. (BIG), Abteilung Geschichtswerkstatt - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Geldautomat in Hellerhof - vertagt
+- TOP 5.2: E-Mobilität in Garath und Hellerhof - Ursprungsanfrage 170/ 171/2017 vom 28.11.2017 - - schriftlich beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Müllabfallstandorte unter Flur - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Modernisierung Rheinwohnungsbau - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Ökologische Anreicherung des Straßenbegleitgrüns in Hellerhof - Antrag der Herren Butzke (FDP) und Hartmann (BÜNDNIS 90/DIE GRÜNEN) - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Reinigung der Graffiti-Schmierereien in Garath und Hellerhof - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Bau von Ladestationen für Elektro- Autos und E-Bikes - Informationsvorlage zum Beschluss BV10/103/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.2: Erreichbarkeit des Sportparks Niederheid im ÖPVN nach Schließung des Hallenbades Benrath - Beantwortung der Nachfrage zur Informationsvorlage BV10/054/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.3: Lärmaktionsplan III - ergänzende Information zur Informationsvorage AUS/023/2019 - - zur Kenntnis genommen
+- TOP 8.4: Fahrradständer EKZ Hellerhof - Informationsvorlage zum Beschluss BV10/031/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
