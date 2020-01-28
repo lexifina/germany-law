@@ -1,0 +1,6 @@
+# TOP 4: Jahresprogramm der KIB 2020
+
+- Sitzung: Sitzung (2020-01-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/198358
