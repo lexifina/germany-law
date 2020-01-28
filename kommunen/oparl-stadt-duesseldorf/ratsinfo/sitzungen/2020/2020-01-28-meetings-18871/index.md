@@ -1,0 +1,58 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-28T17:00:00+01:00
+- Ende: 2020-01-28T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18871
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18871
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368781.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368781.pdf
+- Wortprotokoll: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368781.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 26. November 2019 - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Städtebaulich-landschaftsplanerischer Wettbewerb "Wohnen am Himgesberg" - Empfehlung abweichend beschlossen
+- TOP 7: Zielkonzept "ÖPNV Düsseldorf: Teil 1 - Stadtbahn" - zur Kenntnis genommen
+- TOP 8: Aufhebung der Einbahnstraßenregelungen im Stadtteil Stockum, hier: Wohngebiet zwischen A44, Am Roten Haus, Sandweg und Danziger Straße - mehrheitlich abgelehnt
+- TOP 9: Abriss der Fußgängerbrücke zum Nordpark und Neubau einer Fußgängerquerung mit Lichtsignalanlage (LSA) - Empfehlung einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 (Liste B) - Am Schwarzbach, Installation von Lichtmasten - Sachkonto 1.10.11.111.05.001 52415500 - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, Förderung Dritter (Liste C) - Haushalt 2020, Restaurierung der Glasmosaike im Rundbogen über der Apsis der Lantz'schen Kapelle - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 12: Aktueller Planungsstand zur Aufwertung der Ortsmitte Stockum (Kaiserswerther Straße/Am Hain/Stockumer Kirchstraße)
+- TOP 13: Dreiecksparkplatz - Festsetzungen - beantwortet
+- TOP 14: Gefährliche Auf- und Abfahrten an der B8N
+- TOP -: Neue Anfragen
+- TOP 15: Erschließung der Grundstücke Einbrunger Straße 82 a- d
+- TOP 16: Verkehrssicherheit für Fußgänger und Radfahrer Angermunder Straße / Pfarrer-Holl-Weg (Angermund)
+- TOP 17: Einsatz des Ordnungs- und Servicedienstes am 23. Dezember 2019 auf der Burgallee - beantwortet
+- TOP 18: Sachstand Radwegeführung Freiligrathplatz und Kaiserswerther Straße
+- TOP 19: Abbrennen von Feuerwerken und Böllern im Stadtbezirk 5 - beantwortet
+- TOP 20: P&R Parkplatz Am Froschenteich
+- TOP 21: Schloss Kalkum - Wie geht es weiter und wie hält es die Verwaltung mit der Information der Öffentlichkeit?
+- TOP 22: Kaiserswerther Markt - Wie hält es die Fachverwaltung mit der Beteiligung der Bezirksvertretung und mit dem Denkmalschutz? - beantwortet
+- TOP 23: Unfallherd Kreuzung Sandweg/Am Roten Haus?
+- TOP -: Anträge
+- TOP 24: Verkehrliche Erreichbarkeit des Stadtbezirks 5 während der Bauarbeiten der U81 sicherstellen - einstimmig beschlossen
+- TOP 25: Instandsetzung der Wegeflächen Grünzug Kaiserswerth - abweichend beschlossen
+- TOP 26: Zukunftswerkstatt Schloss Kalkum - Nachnutzung aktiv angehen! - mehrheitlich beschlossen
+- TOP 27: Klemensplatz - Fußgängerzone - mehrheitlich abgelehnt
+- TOP 28: Kaiserswerther Markt - Aufenthaltsqualität kurzfristig erhöhen! - einstimmig beschlossen
+- TOP 29: Weg zwischen dem Hotel H. Hein und der Hundeschule - einstimmig beschlossen
+- TOP 30: Instandsetzung des Fußweges Alte Kalkumer Straße - einstimmig beschlossen
+- TOP 31: Schallschutzwände hin zur A44 - einstimmig beschlossen
+- TOP 32: Parkscheibenregelung An Sankt Swidbert - abweichend beschlossen
+- TOP 33: Reinigung/Freilegung der Skulpturen auf der Danziger Straße/B8 - einstimmig beschlossen
+- TOP 34: Metrobus Stufe 2: Prüfung Verlängerung Linie M1 bis D-Wittlaer (U) - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Verschiedenes
