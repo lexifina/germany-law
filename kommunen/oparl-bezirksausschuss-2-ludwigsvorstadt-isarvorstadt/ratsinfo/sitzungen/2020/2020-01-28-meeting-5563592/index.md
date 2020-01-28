@@ -1,0 +1,143 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-01-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5563592
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5563592
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Neubau eines Hotels in der Schillerstraße 3a - Anlieferung
+- TOP 3.3.2.: Anschlussbereiche Ludwigsbrücke - Planungen der MVG
+- TOP 3.3.3.: Planung der Trambahnanlagen am Münchner Hauptbahnhof
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 2.3.2.: Mobile Toilette am Gärtnerplatz
+- TOP 3.1: Veranstaltungen
+- TOP 3.1.6.: Pestalozzistraßenfest
+- TOP 3.1.7.: Glockenbachfest
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.3.: Kassenbericht für das Jahr 2019
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Sub – Schwules Kommunikations- und Kulturzentrum München e.V. Konzert – Bird Berlin am 17.01.2020 600,- €; Az. 0262.0-2-0319
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Seele einer Stadt" Projekt "München - Seele einer Stadt" vom 01.02.2020 - 01.02.2021 1.480,00 Euro, Az.: 0262.0-2-0318
+- TOP 2.3.: (E) Stadtbezirksbudget Kirchenstiftung St. Anton im Pfarrverband Isarvorstadt Ausstellung „Paradies im Kopf“ in St. Anton vom 25.01. - 21.02.2020 750,- €; Az. 0262.0-2-0315
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative „ Sag deine Meinung“ Seminar „Sag deine Meinung“ vom 24.03.-02.04.2020 3.931,04 €; Az. 0262.0-2-0317
+- TOP 2.5.: (E) Stadtbezirksbudget impro company GbR Stadtteil-Theater- Workshop LUISE von Januar bis Juni 2020 1.500,- €; Az. 0262.0-2-0323
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative Internationaler Frauentag 2020 Internationaler Frauentag am 03.03.20 1.050,- €; Az. 0262.0-2-0320
+- TOP 2.7.: (E) Stadtbezirksbudget Kunstraum München e.V. Dokumentation einer Ausstellung im Februar 2020 1.500,- €; Az. 0262.0-2-0321
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: St.-Pauls-Platz 5 Erneuerung der Westfassade - Dämmung (WDVS), Fenster, Balkone, Dachgauben und -einschnitte, Errichtung eines Aufzugs
+- TOP 3.1.2.: Lindwurmstraße 67 Nutzungsänderung und Umbau einer bestehenden Arztpraxis im 1. OG in zwei Wohnungen
+- TOP 3.1.3.: Lindwurmstraße 145 Neubau eines Personenaufzugs im Innenhof eines Mietwohnhauses und Errichtung von Balkonen; 1. bis 4. Obergeschoss; Seitenflügel
+- TOP 3.1.4.: Schwanthalerstraße 13 Entfristung der Genehmigung für Freischankfläche und Wirtsgarten sowie Erweiterung der Freischankfläche an der Straße
+- TOP 3.1.5.: Lindwurmstraße 35-37 Neubau eines Gebäudes und Hotels als Erweiterung des Hotels Lindwurmstraße 35; Umbau und Aufstockung des Hotels Lindwurmstraße 35
+- TOP 3.1.6.: Goethestraße 26 VORBESCHEID: Abbruch und Neubau eines Hotels
+- TOP 3.1.7.: Waltherstraße 16-16a Errichtung eines neuen Fahrradkellers, Umbau von Gewerbeeinheiten, Hofunterkellerung und -überdachung, Einbau eines neuen Lastenaufzugs und Sanierung hofseitiger Balkone
+- TOP 3.1.8.: Bayerstraße 31 Brandschutztechnische Sanierung mit Errichtung eines außenliegenden Fluchttreppenhauses und Einbau eines zusätzlichen Aufzugs
+- TOP 3.1.9.: Goethestraße 74 Erweiterung des Sportwettbüros um Büro- und Lagerflächen
+- TOP 3.1.10.: Pettenkoferstraße 12-14/RGB Baufeldfreimachung und Neubau Universitätsgebäude
+- TOP 3.2.1.: Ersatzbaumpflanzung Goethestraße Ecke Pettenkoferstraße
+- TOP 3.2.2.: Antrag auf Baumfällung, Hans-Sachs-Straße 2
+- TOP 3.2.3.: Antrag auf Baumfällung, Tumblingerstraße 21
+- TOP 3.2.4.: Antrag auf Baumfällung, Thalkirchner Str. 49a - 67
+- TOP 3.3.4.: Umbau der Trambahnhaltestelle Deutsches Museum - Planfeststellungsverfahren
+- TOP 3.3.5.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, München bewahren – Hinterhäuser
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Bericht über die Erfahrungen der Stadtverwaltung und Polizei zu den neuerlichen Feuerwerksverboten (Antrag vom 04.01.2020)
+- TOP 1.2.: Standorte für Wertstoffcontainer als Unterflurcontainer im 2. Stadtbezirk
+- TOP 1.3.: Zusätzliche Sammelstellen für gebrauchte Christbäume (Initiative: Hubert Ströhle; Antrag vom 20.01.2020)
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Erweiterung einer Freischankfläche an der Klenzestraße 97
+- TOP 2.3.1.: (E) Radabstellanlagen in der Jahnstraße Schaffung von mehr Fahrradabstellplätzen in der Jahnstraße Empfehlung Nr. 14-20 / E 01817 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017 Umwandlung von vier Auto- in Fahrradstellplätze in der Jahnstraße Empfehlung Nr. 14-20 / E 02286 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Sonnwendfeuer auf der Theresienwiese am 12.06.2020 und 13.06.2020
+- TOP 3.1.2.: Bike Polo EM auf der Theresienwiese Ende Juni 2020 (5 Veranstaltungstage)
+- TOP 3.1.3.: Night-RUN auf der Theresienwiese am 29.05.,30.05.,05.06. oder 06.06.2020 (1 Veranstaltungstag)
+- TOP 3.1.4.: Gemeinsames Picknick auf der Theresienwiese am 04.07.2020
+- TOP 3.1.5.: Gemeinsames Fastenbrechen (Ende Ramadan) auf der Theresienwiese vom 22.05 bis 24.05.2020
+- TOP 3.2.1.: Kfz-Stellplatzumwandlung vor den Häusern Goethestraße 2 bis 8 zu circa 75 Fahrradabstellplätzen (vertagt aus der Sitzung am 17.12.2019)
+- TOP 3.2.2.: Abfrage des Bedarfs an Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 3.2.3.: Austausch von Lichtsignalanlagen; Fraunhofer-/Müllerstraße
+- TOP 3.2.4.: Wegweisung Touristeninformation, Bahnhofsplatz und Arnulfstr.
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Schaltung der Fußgänger-Ampel Ecke Schwanthaler-/Martin-Greif-Straße
+- TOP 5.2.: Mehrere Bürgeranliegen, Gestank durch den Schlachthof
+- TOP 5.3.: Bürgeranliegen, Lichtverschwendung in der Grundschule Tumblingerstraße (vertagt aus der Sitzung am 17.12.2019)
+- TOP 5.4.: Bürgeranliegen, Einrichtung eines eingeschränkten Haltverbots in der Fraunhoferstraße (vertagt aus der Sitzung am 17.12.2019)
+- TOP 5.5.: Bürgeranliegen, Fahrradwegführung zwischen Herzog-Heinrich-Straße und Paul-Heyse-Unterführung
+- TOP 5.6.: Bürgeranliegen, Widerruf der Ausnahmezulassung der Straßenreinigung, Bereich Schillerstraße
+- TOP 5.7.: Bürgeranliegen, Anstieg der Straßenreinigungsgebühren in der Müllerstraße um 112 %
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 1.2.: Meldung der Kontostände des Girokontos bzw. der Girokonten mit Stichtag 31.12.2019
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Satzung zur Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München (Mieterbeiratssatzung) Gleichstellung bei der Besetzung des Mieterbeirates
+- TOP A 4.4.: Schließung Heilpädagogische Tagesstätte, Klenzestraße 27
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: (U) Anschlussbereiche westlich / östlich der Ludwigsbrücken zwischen Rumford-/Thierschstraße und Am Gasteig im 1. Stadtbezirk Altstadt - Lehel, im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 11.000.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP B 4.3.: Wasserrechtliche Gestattung für die Vorwegmaßnahmen für die Instandsetzung der Ludwigsbrücken
+- TOP B 4.4.: Genehmigungsbescheid für den Fällungsantrag für das Grundstück Schmellerstraße 30
+- TOP B 4.5.: Genehmigungsbescheid für eine Baumfällung auf dem Grundstück Thalkirchner Straße 47 – 47e
+- TOP B 4.6.: Bevorstehende Entfernung von Gefahrenbäumen; Meldeliste vom 21.10.2019
+- TOP B 4.7.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP B 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.9.: Schwanthalerstraße 64, Ergangener Vorbescheid - Neubau des Gewerkschaftshauses mit Büro- und Konferenzbereich sowie einer Tiefgarage und damit verbundene Fällung des Baumes XL 16 gegen Ersatzpflanzung
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Verbesserung der Querung Thalkirchner Straße Höhe der Einmündungen Ehrengut-/Reifenstuelstraße
+- TOP C 4.7.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP C 4.8.: Antragsunterlagen für den Christkindlmarkt „Pink Christmas“ 2020
+- TOP C 4.9.: Zwischennachricht zur Empfehlung „Kurzzeitparken in der Fraunhoferstraße“ Nr. 14-20 / E 03026 der Bürgerversammlung am 07.11.2019
+- TOP C 4.10.: Zustimmung per Eilentscheidung zur Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Baumstraße 10
+- TOP C 4.11.: Ausweisung eines Baumes im Stadtviertel als Naturdenkmal; Antwortschreiben
+- TOP C 4.12.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Weichenwartung Tram, Ausnahmezulassung
+- TOP C 4.13.: Überprüfung von Anträgen zum Erhalt eines Parkberechtigungsscheins
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
