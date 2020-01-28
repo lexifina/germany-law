@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-28T14:00:00+01:00
+- Ende: 2020-01-28T15:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21692
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21692
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Film „Auf dem Weg zur Kinderfreundlichkeit – 30 Jahre UN-Kinderrechte in Köln“
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Trägerwechsel Kita "Die Roonis", Roonstr. 50, 50674 Köln von "Die Roonis e.V. zur Synagogen-Gemeinde - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: gemeinnützige "KRF KinderRechteForum UG" - ungeändert beschlossen
+- TOP 2.1.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kölner Eulen e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Förderung nach §§ 44 und 45 KiBiz - Weiterentwicklung plusKITAS und Einrichtungen mit zusätzlichem Sprachförderbedarf ab Kindergartenjahr 2020/21 - ungeändert beschlossen
+- TOP 2.2.2: Jugendhilfeplanung in der Kindertagesbetreuung 2020/21 als Grundlage für die Beantragung von Landeszuschüssen nach § 21 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 2.2.3: Jährliche Förderung aus kommunalen Mitteln für die Maßnahme „Angle Dikhas“ des Trägers Rom e.V. ab dem 01.01.2020 - ungeändert beschlossen
+- TOP 2.2.4: Durchführung Förderprogramm TBS in 2020/21 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Annahme einer zweckgebundenen Spende und Umgestaltung des Spielplatzes An der Groov in Köln-Zündorf - ungeändert beschlossen
+- TOP 3.2: Neugestaltung des öffentlichen Spielplatzes Manstedter Weg in Köln-Müngersdorf - ungeändert beschlossen
+- TOP 3.3: Neugestaltung des Wasserspielplatzes im Inneren Grüngürtel zwischen Vogelsanger Straße und Venloer Straße in Köln/Neustadt-Nord - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Wohnen.Bezahlbar.Machen: Synergien bei Wohnungsbau und Kita-Ausbau nutzen! - Sache ist erledigt
+- TOP -: Zu 6.1.1 Schriftliche Beantwortung der SPD Anfrage AN/1552/2019 "Wohnen.Bezahlbar.machen - Kenntnis genommen
+- TOP 6.1.2: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 6.1.3: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln 3633/2019 - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - zurückgestellt
+- TOP 6.2.2: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung der Anfrage von RM Sylvia Laufenberg aus der Sitzung vom 29.10.2019 zum Thema Verfahren bei Auslandsadoptionen - Kenntnis genommen
+- TOP 7.1.2: Bildungsdelegation Köln-Peking/Shanghai 25.05.-31.05.2019 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Neuwahl beratender Mitglieder für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Sachstandsbericht: Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 8.5.2: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 8.5.3: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 8.5.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 8.5.5: Abschlussbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
+- TOP 8.5.6: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 8.5.7: Sicherheit von Kindern und Jugendlichen im Verkehr - Wie engagiert werden in Köln Verbesserungen umgesetzt? - Kenntnis genommen
+- TOP 8.5.8: Verwendung von Mitteln aus dem Veränderungsnachweis 3 (pol. VN) zum Hpl 2020/2021 - Kenntnis genommen
