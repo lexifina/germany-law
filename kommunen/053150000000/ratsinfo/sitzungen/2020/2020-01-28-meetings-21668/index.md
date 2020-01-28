@@ -1,0 +1,60 @@
+# 41. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-28T15:36:00+01:00
+- Ende: 2020-01-28T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21668
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21668
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktion Die Linke: Ein KölnTag im Monat ist nicht genug - endgültig abgelehnt
+- TOP 3.1.1: Antrag Die Linke „ Ein KölnTag im Monat ist nicht genug „ - ungeändert beschlossen
+- TOP 3.2: Antrag der Fraktionen SPD, Bündnis 90 / Die Grünen, Die Linke und Ratsgruppe GUT: NSDOK: Gebühren für Schülerinnen und Schüler abschaffen - endgültig zurückgezogen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Errichtung der "MAKK-Förderstiftung" - ohne Votum in nachfolgende Gremien
+- TOP 4.2: MINT-Angebote in der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 4.3: Konzept zum Wettbewerb zur Sichtbarmachung von Heinrich Böll und Karl Marx im Stadtbild - endgültig abgelehnt
+- TOP 4.3.1: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen zu Top 4.3: Konzept zum Wettbewerb zur Sichtbarmachung von Heinrich Böll und Karl Marx im Stadtbild - geändert beschlossen
+- TOP 4.4: Sonntagsöffnung der Stadtbibliothek - ungeändert beschlossen
+- TOP 4.5: Vergabe der Mietzuschüsse in der Sparte Bildende Kunst, Haushaltsjahre 2020 - 2024 - geändert beschlossen
+- TOP 4.6: zurückgestellt: Entgelt- und Honorarordnung für den Museumsdienst Köln - zurückgestellt
+- TOP 4.7: Maßnahmen aus der Kulturentwicklungsplanung, hier: Figurentheaterfestival am Hänneschen-Theater im Jahr 2020 - ungeändert beschlossen
+- TOP 4.8: Entwicklung und Renovierung Volkhovener Weg 209 - 211 als Atelierstandort - zurückgestellt
+- TOP 4.9: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Jahr 2020, hier: Maßnahmen der Stadtbibliothek - ungeändert beschlossen
+- TOP 4.10: Betriebskostenzuschlag für den Verein 1700 Jahre jüdisches Leben in Deutschland e.V. - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen 2020 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vervollständigung des einzigartigen Zyklus spätmittelalterlicher Gerechtigkeitsbilder des Rathauses durch den Ankauf des Gerechtigkeitsbilds „Das Schießen auf den toten Vater" für das Kölnische Stadtmuseum - Kenntnis genommen
+- TOP 8.2: Vandalismusereignisse auf der Baustelle Eifelwall, Neubau Historisches Archiv und Rheinisches Bildarchiv - Kenntnis genommen
+- TOP 8.3: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 8.4: Energetische Gebäudeanalyse für das Museum für Ostasiatische Kunst (MOK) - Kenntnis genommen
+- TOP 8.5: Stadtbibliothek Köln Bericht 2019/2020 - Kenntnis genommen
+- TOP 8.6: Vertragsabschluss zwischen der Stadt Köln und dem Landschaftsverband Rheinland (LVR) zum Nutzungsvertrag MiQua - Kenntnis genommen
+- TOP 8.7: Gemeinsame Baumaßnahme in der Philharmonie und im Museum Ludwig - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 09.01.2020 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 16.01.2020 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 23.01.2020 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Zusammen mit 18.3. im n.o.T. Rückfrage zur Beantwortung der Anfrage (2978/2019) von Herrn RM Zimmermann (Ratsgruppe GUT) aus der Sitzung des Hauptausschusses vom 09.09.2019 betr: „Kartäuserwall 18 erhalten“ (AN/1058/2019) - Kenntnis genommen
+- TOP 10.2: Mündliche Anfrage von Frau von Bülow im Ausschuss Kunst und Kultur vom 26.11.2019 - zu 2184/2019, hier: Sachstandsbericht zur Sanierung Fensteranlage im Museum für Angewandte Kunst - Kenntnis genommen
+- TOP 10.3: Mündliche Anfrage von Frau von Bülow im Ausschuss Kunst und Kultur vom 26.11.2019 zu 2184/2019, hier: Sachstandsbericht zum Nutzungskonzept Hallen Kalk, Hallen 76 und 77 - Kenntnis genommen
+- TOP 10.4: Mündliche Anfrage von Frau von Bülow im Ausschuss Kunst und Kultur vom 26.11.2019 zu 2184/2019, hier: Sachstandsbericht zur Sanierung Overstolzensaal im Museum für Angewandte Kunst - Kenntnis genommen
+- TOP 10.5: Beantwortung der schriftlichen Anfrage AN/1572/2019 der SPD Fraktion im Ausschuss Kunst und Kultur vom 26.11.2019: Inklusion in der Kultur stärker in den Fokus nehmen - Kenntnis genommen
+- TOP 10.6: Beantwortung einer Nachfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow) aus der Sitzung des KuK am - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftl. Anfrage der Fraktion Die Linke: Ökologische Zukunftsfähigkeit von Kunst - und Kulturproduktionen, -stätten in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 12: Mündliche Anfragen
