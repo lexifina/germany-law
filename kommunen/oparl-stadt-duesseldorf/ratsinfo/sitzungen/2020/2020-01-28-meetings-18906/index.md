@@ -1,0 +1,75 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-28T17:00:00+01:00
+- Ende: 2020-01-28T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18906
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18906
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368713.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368713.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00368713.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Torfbruchstraße 185 - 189 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.2: Cirque du Soleil - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.3: Bücherschrank Apostelplatz - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.4: Joggingstrecke Limburgstraße umsetzen - Antrag der FDP-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.5: Anbringung größerer Abfallbehälter entlang des Schulwegs vom S-Bahnhof Gerresheim - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.6: Temporäre Nutzung des ehemaligen Parkplatzes an der Sana Klinik als Park-and-Ride-Platz - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.7: Verkehrsbelastung der Rennbahn- / Fahneburgstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.8: Zuwegung von der Düsselbrücke (bei „Zur Düsselaue“) in Richtung Kamper Weg - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.9: Reit- und Fußwegtrennung ab Gothaer Weg/Innere südliche Düssel - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.10: Sachstandsbericht Bebauung Innenbereich Ludenberger Straße und Hardtstraße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.11: Schattenspender für Spielplatz Heinrich-Könn-Straße - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Südliche Heyestraße – Wirtschaftliche Entwicklung - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.14: Verkehrskonzept Cirque du Soleil - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.15: Ottostraße - Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und FDP - - abweichend beschlossen
+- TOP 5.16: Fahrradständer vor dem Gerresheimer Gymnasium - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.17: Zufahrt zur Fußgängerzone Neusser Tor - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Akademie Regenbogenland - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Aufwertung des Standorts Heyestraße - Anfrage der FDP-Fraktion -
+- TOP 6.4: Trinkwasser für den Spielplatz Alter Gerresheimer Friedhof - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Digitalisierung - Breitbandausbau im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Ersatzpflanzungen Grafenberger Allee - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.10: Otto– und Vereinsstraße – Zustand der Fahrbahnen - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 7.2: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 7.3: Abzug von Altpapier-Depotcontainerstationen - zur Kenntnis genommen
+- TOP 7.4: Dachaufstockungen und Dachaufbauten im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 7.5: Salinen Brunnen des Gerresheimer Bildhauers Max Kratz - Informationsvorlage zum Beschluss der BV 7 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 7.6: Begrünung von Haltestellen - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 7.7: Masterplan Green-City Mobility / Mobilstationen im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 27.11.2018 - - zur Kenntnis genommen
+- TOP 7.8: Errichtung von Werbeanlagen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 7.9: Wasserspielplatz auf dem Dreherpark - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 7.10: "Little Homes" gegen Obdachlosigkeit - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 7.11: Bergische Kaserne / Olympisches Dorf - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 7.12: Änderung der Verkehrsführung auf der Ludenberger Straße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 7.13: Neue Parkplätze an der Kreuzung Keldenich-/Gräfrather Straße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 7.14: Regionalplanänderung "mehr Wohnbauland am Rhein" und keine Änderung des Regionalplans im Bereich Grafenberger Wald/Güterzugstrecke-Grünzug Grafenberg, vgl. Steckbrief D_06 - Informationsvorlagen zu den Beschlüssen der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
