@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-01-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5688979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5688979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei und aus dem Stadtrat
+- TOP 3.: Vorstellung der Schnellbustrasse zwischen den U-Bahnhöfen Am Hart und Kieferngarten Abschnitt "Gymnasium München Nord - Bayernkaserne"
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Abstimmungsergebnis BA 11 zum Stadtbezirksbudget „Begleitung und Transfer der Erstklässler (Sitzungsvorlage Nr. 14-20 / V 15764)“ - Antragshinweis
+- TOP 4.2.1.: Haltestelle U-Bahnhof Harthof (Oberfläche) - Aufstellen von Mülleimern
+- TOP 4.2.2.: Bebauung Oberwiesenfeld: Verlagerung des Hochhauses nach Norden
+- TOP 4.2.3.: Max-Liebermann-Straße 6 (Weyprechthof): Bauvorhaben und geschützter Baumbestand - Antwortschreiben
+- TOP 4.3.1.: Investorensuche für den Stadtteil Am Hart im SB 11 (E 01679) - Stellungnahme des Fachreferates
+- TOP 4.4.1.: Haltestelle U-Bahnhof Harthof - Aufstellen von Fahrradständern BA-Antrag Nr. 14-20 / B 006955 - Antwortschreiben
+- TOP 6.1.1.: (E) Stadtbezirksbudget Evang. - Luth. Dankeskirche Milbertshofen Konzert am 24.01.2020 750,- €; Az. 0262.0-11-0367
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-11-0370
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kulturverein Olympiadorf e.V. “Souviens-toi: Erinnere dich“ am 25.01.20 und 27.01.20 1.858,75 €; Az. 0262.0-11-0371
+- TOP 6.1.4.: (E) Stadtbezirksbudget Domagkateliers gGmbH Ausstellung "Mira Zyklus" vom 28.12.2019 - 28.03.2020 6.125,00 Euro, Az.: 0262.0-11-0363
+- TOP 6.1.5.: (E) Stadtbezirksbudget Pfarrverband Milbertshofen, Pfarrei St. Lantpert Konzert am 12.01.2020 5.282,53 €; Az. 0262.0-11-0366
+- TOP 6.1.6.: (E) Stadtbezirksbudget mq18 Kunstplatz/ Kulturraum e.V. Kunstausstellung „Paese Reale“ vom 17.01. - 25.03.2020 993,75 €; Az. 0262.0-11-0369
+- TOP 6.1.7.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Kunstprojekt vom 20.01. - 31.01.2020 600,- €; Az. 0262.0-11-0368
+- TOP 6.1.8.: (E) Stadtbezirksbudget Zukunft Am Hart e.V. Vortrag „Klimawandel und Kohlendioxid“ am 13.02.2020 975,00; Az. 0262.0-11-0372
+- TOP 6.2.1.: (E) Leopold-/Schenkendorfstraße - Lärmbelästigung durch geeignete Lärmschutzmaßnahmen und Kontrollen des Straßenverkehrs minimieren
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Unsere Heimat Milbertshofen - Am Hart auf den Klimawandel vorbereiten
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Oberhofer Platz 8 - 10 a) Bauvorhaben: Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks - Vorbescheid b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Preußenstraße a) Bauvorhaben: Neubau einer Wohnanlage mit einem Haus für Kinder und einer TG b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Preußenstraße a) Bauvorhaben: Neubau einer Wohnanlage mit TG b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Antrag auf Baumfällung: Lerchenauer Str. 76
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Bebauungsplan mit Grünordnung Nr. xxxx - Schnellbustrasse zwischen den U-Bahnhöfen Am Hart und Kieferngarten Abschnitt "Gymnasium Nord - Bayernkaserne"- Sitzungsvorlage Nr. 14-20 / V 16083 (Beschlussentwurf)
+- TOP 8.4.2.: Grünanlage Rathenaustraße - Fuß-/Radwegkonflikt
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Schriftverkehr
+- TOP 9.2.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.2.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Wachterstraße 13
+- TOP 9.2.5.: Meldelisten Bauvorhaben vom 25.11.2019 - 29.12.2019
+- TOP 8.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Hanselmannstraße 37-49 - absolutes Haltverbot mit Zusatz „Feuerwehrzufahrt“ b) Griegstraße (Ostseite) - absolutes Haltverbot c) Straßbergerstraße zwischen 12 und 14- Aufhebung eines Behindertenparkplatzes
+- TOP 9.4.2.: Aufstellen von Dialog-Displays für den Zeitraum 07.01.2020- 01.03.2020 in der Milbertshofener Straße
+- TOP 9.4.3.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 9.2: Bau / Umwelt
+- TOP 9.3: Kultur / Soziales
