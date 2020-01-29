@@ -1,0 +1,139 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2020-01-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5756183
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5756183
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: Eigene Veranstaltung des BA: Frühlingsfest im ASZ am 21.04.2020 (vertagt aus 12/19)
+- TOP 2.2.: (E) Stadtbezirksbudget Kindergarten der Elterninitiative Arbeitskreis Neue Erziehung e.V. Gartenausbau im Februar/ März 2020 14.278,62 €; Az. 0262.0-4-0280
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative „Bankaustausch“ Austausch einer Bank Höhe der Clemensstraße 64 117,52 €; Az. 0262.0-4-0283
+- TOP 2.4.: (E) Stadtbezirksbudget Förderverein Caritas Kinderhaus St. Nikolaus München Trommelworkshop vom 20.04.20 – 26.06.20 1.245,- €; Az. 0262.0-4-0282
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis und Sachbericht Bewachung Obdachlosenhilfe St. Bonifaz
+- TOP 3.2.2.: Verwendungsnachweis und Sachbericht ClubIN (Seminar „Umgang mit Diversität“)
+- TOP 3.2.3.: Verwendungsnachweis und Sachbericht LILALU (Spielprogramm „Umsonst & Draußen“)
+- TOP 3.2.4.: Verwendungsnachweis und Sachbericht REGSAM („Anbandeln“ - Neue soziale Netzwerke)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Stadtbezirksbudget Stiftung Pfennigparade, Kulturforum Konzert „Heid soidd ma nausgeh“ am 15.05.2020 1.030,- €; Az. 0262.0-4-0278
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-4-0279
+- TOP 2.2.3.: (E) Stadtbezirksbudget Kontrapunkt gGmbH – Jugend Kunst Kultur Projekt „d.alle/ RepairCafe&Atelier“ vom 01.01. - 31.12.20 7.000,- €; Az. 0262.0-4-0281
+- TOP 2.2.4.: Eigene Veranstaltung des BA: Einladung für ehrenamtliche Patinnen und Paten der öffentlichen Bücherschränke
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis MGS Filmproduktion (Exposé und Trailer „Hohenzollernstraße“)
+- TOP 3.2.2.: Verwendungsnachweis und Sachbericht Chorbande Schwabing (Chorprobentage)
+- TOP 3.2.3.: Verwendungsnachweis und Sachbericht Initiative Kolibri (Kunstprojekt)
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Bar La Piazza Pizzeria“, Hohenzollernstr. 124
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Ro e Buni“, Kaiserstr. 55
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Tektur Clemensstr. 122: Ausbau und Erweiterung zweier Dachgeschosse, Anbau von Balkonen an den Innenhoffassaden / HIER: Ausbau und Erweiterung der beiden Dachgeschosse zur Errichtung zweier Maisonettewohnungen, Änderung des 2. Retttungswegs über anleiterbare Dachflächenfenster, Herstellen zweier Dachterrassen als Dacheinschnitte in der 1. DG-Ebene
+- TOP 2.1.2.: Tektur Kaiserstr. 63: Dachgeschossausbau (2 WE) und Ausbau einer DG-Wohnung / HIER: Grundrissänderung/Reduzierung der Galeriefläche in WE 11, Anpassung Aufschlagsrichtung Dachschiebefenster
+- TOP 2.1.3.: Hohenzollernstr. 74-76: a) Anbau von 4 Außenaufzügen und eines Lastenaufzugs, Erhöhung Treppenhausabschluss an obersten Haltestellen, Errichtung neuer Eingangsbauten im EG, Teilumbau einer Tiefgarage, neuer Kelleranbau, Erneuerung der Fenster, Putzsanierung, Legalisierung vorhandener Umbauten b) Baumfällungen in Zusammenhang mit dem Bauvorhaben
+- TOP 2.1.4.: Infanteriestr. 6: Abbruch und Neubau eines Funkdachmastes für das BOS-Funknetz
+- TOP 2.1.5.: Tektur Arcisstraße 61: Errichtung einer Außenaufzuganlage im Innenhof und Änderung dreier Treppenläufe, HIER: Haltestelle im EG, Änderung Fenster zu Tür im EG)
+- TOP 2.1.6.: Herzogstraße 84 /RGB: Baumfällung in Zusammenhang mit dem Neubau eines Studentenwohnheims
+- TOP 2.1.7.: Nordendstraße 46-48: Neubau Dachgeschoss und Anbau von Balkonen, Verlängerung der Treppenläufe, Dämmung der Außenwände und Neugestaltung der Fassaden; Nordendstraße 48: Grundrissänderung 1–3- OG mit Nutzungsänderung, Anbau eines Aufzugs
+- TOP 2.1.8.: Mainzer Str. 9/Speyerer Str. 1-3: Fassadensanierung – Austausch der Glasfassade an den Treppenhäusern einschließlich Vordächer, im Dachbereich Blecheindeckung statt Glas
+- TOP 2.1.9.: Klopstockstr. 4: Errichtung eines Mülltonnenhauses
+- TOP 2.1.10.: Jakob-Klar-Str. 14: Erneuerung von Balkonen im Innenhof
+- TOP 2.1.11.: Tektur Destouchesstr. 83: Sanierung eines Wohn- und Geschäftshauses, HIER: Änderung eines Teilbereichs der Büronutzung zu einer Wohnung
+- TOP 2.1.12.: Tektur Herzogstr. 90: Dachgeschossrestausbau
+- TOP 2.1.13.: Elisabethplatz: Neuerrichtung Markt mit 10 Marktständen (16 Ladeneinheiten, 6 Gaststätten), Errichtung einer Marktgarage (22 Stellplätze) sowie einer Anwohnergarage (56 Stellplätze)
+- TOP 2.1.14.: Tektur Clemensstr. 43: Nutzungsänderung Waschküche zu Wohnung/Apartment, Einbau eines Duschbades (Keller)/Südwestseite
+- TOP 2.1.15.: Erlass einer Erhaltungssatzung „Birnauer Straße“ - Anhörung zum Satzungsbeschluss
+- TOP 2.1.16.: Degenfeldstr. 2: Balkonvergrößerung im 4. OG
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Schwarzbau Hiltenspergerstr. 47 (Antwort der LBK auf BA-Nachfrage vom 21.11.2019)
+- TOP 3.1.2.: Tektur Brunnerstr. 2 (Antwort der LBK auf BA-Stellungnahme vom 21.11.2019)
+- TOP 3.1.3.: Kraepelinstr. 2-16: Neubau einer psychiatrischen Klinik (Abdruck der Baugenehmigung, vgl. BA-Stellungnahme vom 01.02.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 3.2.3.: Mieterbeirat: Protokoll der Sitzung vom 13.01.2020 – Präsentation zur Entwicklung des Zweckentfremdungsverbots in München
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Radweg Isabella-/Elisabethstraße: Piktogramm als Warnung für Fußgänger
+- TOP 1.2.: Antrag Grüne: Fassadenbegrünung des Theaters Schauburg (vertagt aus 12/19)
+- TOP 1.3.: Bürger: Parksituation Ackermannstraße (Weiterleitung durch den BA 9)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Ainmillerstraße 44, Fällung eines Spitzahorns
+- TOP 2.1.2.: Heßstraße 136, Fällung einer Lärche und eines Apfelbaumes
+- TOP 2.1.3.: Schwere-Reiter-Straße 8, Fällung einer Platane
+- TOP 2.1.4.: (E) Luftreinhaltung im Bereich um die Grundschule Farinellistraße Empfehlung Nr. 14-20 / E 02840 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing-West am 10.10.2019
+- TOP 2.1.5.: Infanteriestr. 14: Fällung zweier Ahornbäume
+- TOP 2.1.6.: Fallmerayerstr. 24: Fällung einer Kastanie
+- TOP 2.2.1.: (E) Fest verankerte Poller im Kreuzungsbereich Agnes- / Isabellastraße Empfehlung Nr. 14-20 / E 02839 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 10.10.2019
+- TOP 2.2.2.: Schaffung von Fahrradabstellplätzen im Bereich Hiltenspergerstr. 66 durch Umwandlung von vier Kfz-Stellplätzen (weitergeleitetes Bürgeranliegen aus 09/19)
+- TOP 2.2.3.: Gefährdung durch zu schnelle Radfahrer im Ackermannbogen: Bitte um neue Terminvorschläge für Ortstermin ab 05.02.2020
+- TOP 2.2.4.: Schulwegsicherheit Kreuzung Schleißheimer Straße/Hildeboldstraße/Leonhard-Frank-Straße: Beschilderung mit Gefahrzeichen „Achtung Kinder“ und Zusatzzeichen „Schulweg“
+- TOP 2.2.5.: Fahrbahnsanierung Agnesstraße zwischen Hiltensperger- und Adelheidstraße: Asphalt statt Kleinsteinpflaster (Erinnungsverfahren des Baureferats)
+- TOP 2.2.6.: (E) Einhaltung der Verkehrsregeln in Fahrradstraßen: Infokampagne und Überwachung
+- TOP 2.2.7.: Abfrage des Bedarfs an Geschwindigkeitsmessungen und Verkehrszählungen in Tempo-30-Zonen
+- TOP 2.2.8.: (E) Verbreiterung der Geh- und Radwege in der Franz-Joseph-Straße (Antrag 3) Empfehlung Nr. 14-20 / E 02843 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 10.10.2019
+- TOP 2.2.9.: Clemens-/Fallmerayerstraße: Austausch des Fahrbahnbelags im Kreuzungsbereich (Erinnerungsverfahren des Baureferats)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Saisonale Umnutzung von Straßenräumen – Sommerstraßen und Parklets: Fallmerayerstraße (Antwort des Referats für Stadtplanung und Bauordnung auf BA- Anfrage vom 21.11.2019)
+- TOP 3.1.2.: Verbesserung der Verkehrssicherheit an der Kreuzung Birnauer/Bregenzer Straße (Antwort des KVR auf BA-Schreiben vom 21.11.2019)
+- TOP 3.1.3.: Krähensichere Abfalleimer: Ergebnisse des Pilotprojekts – aktueller Stand der Überlegungen (Antwort des Baureferats Gartenbau auf BA-Anfrage vom 24.10.2019)
+- TOP 3.1.4.: Hörwarthstraße als Fahrradstraße ausweisen
+- TOP 3.1.5.: Tischtennistreffpunkt Luitpoldpark: Weitere Platten anstelle des kaum genutzten Sandkastens
+- TOP 3.1.6.: Baumfällung auf dem Grundstück Emanuelstr. 8 (Antwort der Unteren Naturschutzbehörde auf weitergeleitetes Bürgeranliegen vom November 2019)
+- TOP 3.1.7.: Umwandlung der Augustenstraße in eine Fahrradstraße (Antwort des BA 3 Maxvorstadt auf weitergeleitete Empfehlung aus der Bürgerversammlung vom 10.10.2019)
+- TOP 3.2.1.: Winzererstr. 27: Fällungsgenehmigung für einen Walnussbaum
+- TOP 3.2.2.: Cherubinistr. 5-7: Fällungsgenehmigung für eine Winterlinde
+- TOP 3.2.3.: Hildeboldstr. 28: Fällungsgenehmigung für zwei Birken
+- TOP 3.2.4.: Schulsportanlage Clemensstr. 100: Fällung einer Linde als Gefahrenbaum
+- TOP 3.3.1.: Karl-Theodor-Str. 63: Umwandlung von Kfz- in Fahrradabstellplätze
+- TOP 3.3.2.: Vollsperrung Lissi-Kaeser-Str. 7-9 wegen Kanalbauarbeiten
+- TOP 3.3.3.: Erweiterung einer Tempo-30-Zone auf die Kraepelin-, James-Loeb- und Bummstraße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP 3.4.2.: Christbaumsammelstelle Adams-Lehmann-Straße (Höhe Hausnr. 22), Sondernutzungserlaubnis
+- TOP 3.4.3.: Fünf Plätze attraktiv neu gestalten (u.a. Bonner Platz), Beschluss des Bauausschusses vom 08.10.2019 (Sitzungsvorlage Nr. 14-20 / V 15997)
+- TOP 3.4.4.: Schienenwechsel auf U-Bahnlinie U2 vom 16. bis 20.02.2020
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032: Erfahrungen der amtierenden Bezirksausschüsse?
+- TOP F.2.: Meldung der Kontostände der BA-Girokonten und Informationsschreiben zum Umgang mit Spenden
+- TOP G: Verschiedenes
+- TOP H: Termine
