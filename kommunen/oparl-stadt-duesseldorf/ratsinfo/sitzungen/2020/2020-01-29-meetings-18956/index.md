@@ -1,0 +1,72 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-29T17:00:00+01:00
+- Ende: 2020-01-29T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18956
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18956
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00369098.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00369098.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00369098.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - über die Sitzung vom 11. September 2019 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - über die Sitzung vom 9. Oktober 2019 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Flächennutzungsplan-Änderung Nr. 180 - Vogelsanger Weg- Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 8: Anfrage CDU und FDP: Parken im Gewerbebereich - schriftlich beantwortet
+- TOP 9: Anfrage SPD: Trasse Ortsumgehung Rath - vertagt
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Ehemalige Tankstelle in Unterrath, Kalkumer Straße Ecke Zaberner Straße - schriftlich beantwortet
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Anfrage der CDU-Fraktion und der FDP-Fraktion: Zwischennutzung Grundstück an der Theodorstraße als Parkplatz - schriftlich beantwortet
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Anfrage der SPD-Fraktion: Landstromversorgung westliches Flughafengelände - schriftlich beantwortet
+- TOP 21: Anfrage der SPD-Fraktion: Verkehrsspiegel Rheinlandstraße/Eschenweg - schriftlich beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Anfrage der CDU und FDP: Bodenprüfung in der Westfalenstraße, Düsseldorf Rath - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 25: Antrag der FDP und CDU: Reduzierung der Geschwindigkeit der Busse bei der Einfahrt in die Haltestelle Unterrath S, FR Freiligrathplatz - mehrheitlich beschlossen
+- TOP 26: Antrag der CDU und FDP: Verkehrswende umsetzen - Verbesserung für Pendler aus Ratingen und Umgebung - zurückgestellt
+- TOP 27: Antrag der SPD-Fraktion: Haltverbot durch Schraffierung Rheinlandstraße Einmündung Kalkumer - einstimmig beschlossen
+- TOP 28: Antrag der CDU-Fraktion und der FDP-Fraktion: Zwischennutzung Grundstück an der Theodorstraße als Parkplatz - mehrheitlich beschlossen
+- TOP 29: Antrag der CDU-Fraktion und der FDP-Fraktion: Beschädigte und verschmutzte Beleuchtung im Park A44 Unterrath bis Kartäuserpark - einstimmig beschlossen
+- TOP -: Verwaltungsvorlage
+- TOP 30: Bauunterhaltungsmittel 2020 Teil B - "sonstige Gebäude" - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2020 Antrag Unterrather Funken Blau-Gelb 1950 e.V. - Kindersitzung 2020 - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2020 Antrag Wilhelm-Ferdinand-Schüßler-Tagesschule - Antrag Projekt "Klasse in der Krise" und "fair bleiben" - einstimmig beschlossen
+- TOP 33: Zuschussvergabe 2020 Antrag Bürgerverein Mörsenbroich 1928 e.V., Festausschuss Mörsenbroicher Veedelszoch - Mörsenbroicher Veedelszoch 2020 - abweichend beschlossen
+- TOP 34: Zuschussvergabe 2020 Antrag Städt. Katholische Grundschule Rather Kreuzweg - Präventionsprogramme "Die große Nein-Tonne" und "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 35: Zuschussvergabe 2020 Antrag GGS Wrangelstraße - Theateraufführung "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 36: Informationsvorlage Beratungsergebnis HH-Plan 2020 - zur Kenntnis genommen
+- TOP 37: Sozialräumliche Gliederung - Maßnahmen? - Vorlage 176/224/2018 - zur Kenntnis genommen
+- TOP 38: Zielkonzept "ÖPNV Düsseldorf: Teil 1 - Stadtbahn" - zur Kenntnis genommen
+- TOP 39: Kreuzung Theodorstraße/Am Hülserhof/Am Röhrenwerk - Vorlage 176/87/2019 - zur Kenntnis genommen
+- TOP 40: Theodorstraße in Rath - Haltestelle ISS Dome - Ergänzung Zugang zur Haltestelle - zur Kenntnis genommen
+- TOP 41: Verkehrsregelung Zur alten Kaserne/Zur Weide (hier: Verkehrszählung) - Vorlage 176/29/2018 - zur Kenntnis genommen
+- TOP 42: Anmeldung des Friedrich-Rückert-Gymnasiums zum Schulversuch "Talentschule" beim Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen - Vorlage 176/124/2019 - zur Kenntnis genommen
+- TOP 43: MdV - Baumfällungen aus Verkehrssicherungsgründen im Winter 2019 Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 44: Vorbericht zum Masterplan "energieeffiziente und historische Straßenbeleuchtung" - zur Kenntnis genommen
+- TOP 45: Parkscheibenregelung im Bereich der Einzelhändler Kalkumer Straße / Unterrather Straße - Vorlage 176/ 129/2019 - zur Kenntnis genommen
+- TOP 46: Stationsbasiertes Carsharing im Stadtbezirk 6 - Vorlage 176/38/2019 - zur Kenntnis genommen
+- TOP 47: Modifizierung und dadurch Erhöhung der Verkehrssicherheit für Fußgänger bei beiden Fußgängerfurten auf der Straße An der Piwipp Höhe Hausnummern 77 und 89 - Vorlage 176/105/2019 - zur Kenntnis genommen
+- TOP 48: Kleidercontainerleerung im Stadtbezirk 6 - Vorlage 176/ 90/2019 - zur Kenntnis genommen
+- TOP 49: Stelen, Infosteine oder -plaketten zur Erinnerung an historische Stellen oder Gebäude - Vorlage 176/ 135/2019 - zur Kenntnis genommen
