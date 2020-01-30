@@ -1,0 +1,8 @@
+# TOP 7: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße
+
+- Sitzung: Bezirksvertretung 8 (2020-01-30)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/271228
+- Ergebnis: Empfehlung mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/102138
