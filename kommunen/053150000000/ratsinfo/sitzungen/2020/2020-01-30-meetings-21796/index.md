@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-30T16:00:00+01:00
+- Ende: 2020-01-30T21:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21796
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21796
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756410.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756410.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00756410.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: ExWoSt-Modellvorhaben "aktive Mobilität in städtischen Quartieren"
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk B) über die Deutz-Mülheimer Straße in Köln-Deutz - ungeändert empfohlen
+- TOP 3.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 3.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - mit Änderungen empfohlen
+- TOP 3.4: Bahnsteiganhebung Haltestelle Barbarossaplatz - mit Änderungen empfohlen
+- TOP 3.4.1: Änderungsantrag zum Erweiterten Bedarfsfeststellungs- und Erweiterungsbeschluss zur Bahnsteiganhebung an der Stadtbahnhaltestelle Barbarossaplatz - ungeändert beschlossen
+- TOP 3.5: Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - zurückgestellt
+- TOP 3.5.1: Änderungsantrag zum erweiterten Planungs- und Feststellungsbeschluss zur Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - zurückgestellt
+- TOP 3.6: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - ungeändert empfohlen
+- TOP 3.7: Vergabe zentraler Innenstadtplätze - Neumarkt, Heumarkt und Roncalliplatz - ungeändert beschlossen
+- TOP 3.8: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - zurückgestellt
+- TOP 3.9: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.10: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - mit Änderungen empfohlen
+- TOP 3.11: Neugestaltung des Wasserspielplatzes im Inneren Grüngürtel zwischen Vogelsanger Straße und Venloer Straße in Köln/Neustadt-Nord - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Neue Verkehrsführung im Bereich der Straße Eigelstein sowie Bürgereingabe gem. 24 GO „Verkehrsberuhigung des Eigelsteins“ AZ.:127/19 B - geändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Fahrradstellplätze Hauptbahnhof (Az.: 02-1600-251/18) - geändert beschlossen
+- TOP 4.2.1: Gem. Änderungsantrag zu 1277/2019 - Fahrradparken Hauptbahnhof - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – "Ergänzung der Bebauungspläne im Eigelstein-Viertel mit dem Ziel, die Ansiedlung weiterer Kebap-Restaurants mit Holzkohlegrills zu verhindern" (AZ 194/19 B) - geändert beschlossen
+- TOP 4.4: Bürgereingabe nach § 24 GO – "Sanierung der Bahnunterführung Johannisstraße am Bahnhof"Aktenzeichen 278/19 B - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung Moselstraße und Entschärfung Kreuzung Mosel-, Pfälzer- und Saarstraße (Az.: 02-1600-214/18) - ungeändert beschlossen
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken am Kaiser-Wilhelm-Ring (Az.: 02-1600-255/19) - ungeändert beschlossen
+- TOP 4.7: Bürgereingabe gem. § 24 GO, betr.: Reduzierung des motorisierten Verkehrs an den Adventswochenenden (Az.: 02-1600-201/19) - ungeändert beschlossen
+- TOP 4.8: Bürgereingabe gem. § 24 GO, betr.: Gestaltung der Schutzwände anlässlich der Karnevalstage durch Künstler oder Fotografen - ungeändert beschlossen
+- TOP 4.9: Bürgereingabe nach § 24 GO - "Errichtung eines Erweiterungsbaus Gymnasium Alte Wallgasse" - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Verlegung des Parkscheinautomaten vom Gehweg der Erftstraße (gegenüber Tankstelle), Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Instandsetzung der Spielgeräte auf dem Bebelplatz in Deutz - geändert beschlossen
+- TOP 5.2.3: Kurzzeitparken in der Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 5.2.4: Aufstellung eines visuellen Geschwindigkeitsmessgeräts am Venloer Wall - ungeändert beschlossen
+- TOP 5.2.5: Gestaltung des Alleestreifens auf der Volksgarten-/Rolandstraße - geändert beschlossen
+- TOP 5.2.6: Haltebucht für Krankentransporte und Taxen vor dem Ärztehaus Ebertplatz 2 - zurückgestellt
+- TOP 5.2.7: Reinigung und Verschönerung des Platzes an der Bottmühle - ungeändert beschlossen
+- TOP 5.2.8: Installation "Kölscher Straßennamenschilder" - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.5: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.6: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.7: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 6.1.8: Sachstand Radabstellanlagen Trajanstraße - Antrag aus 2015 (0012/2015) - zurückgestellt
+- TOP 6.1.9: Tag des Büdchens - Sachstand - zurückgestellt
+- TOP 6.1.10: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 6.1.11: Sachstand Umgestaltung Maternuskirchplatz
+- TOP 6.1.11.1: Sachstand Umgestaltung Maternuskirchplatz
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 6.2.2: Leerstand Geschäftsflächen in der Innenstadt - zurückgestellt
+- TOP 6.2.3: Leerstände Weyerstraße 49 und 51 (Altstadt/Süd) - zurückgestellt
+- TOP 6.2.4: Nachfrage Zweckentfremdung von Wohnraum - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Touristenbusse in der Innenstadt - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.2: Änderungen zum Fahrplanwechsel 2019 - Kenntnis genommen
+- TOP 9.3: Sachstand zur Umsetzung der Fahrradstraße im Eifelwall - Kenntnis genommen
+- TOP 9.4: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 9.5: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 11 - Kenntnis genommen
+- TOP 9.6: Sachstand Parkstadt Süd- Teilbereich Eifelwall - Kenntnis genommen
+- TOP 9.7: Ausbau der Offenen Kinder- und Jugendarbeit im Bürgerhaus Stollwerck(Altstadt/Süd)
+- TOP 9.8: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 9.9: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 9.10: Änderung der Information der Stadt Köln zum Langzeitparken in der Innenstadt - Kenntnis genommen
+- TOP 9.11: Domumfeld: Kleine Maßnahmen mit großer Wirkung - Kenntnis genommen
+- TOP 9.12: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 9.13: Dauerhafte Sperrung Deutzer Drehbrücke (AN/1776/2017); Beschluss der Bezirksvertretung Innenstadt vom 12.09.2019 - Kenntnis genommen
+- TOP 9.14: Sachstand über die Sanierung und Wiederinbetriebnahme des Parkcafés im Kölner Rheinpark - Kenntnis genommen
