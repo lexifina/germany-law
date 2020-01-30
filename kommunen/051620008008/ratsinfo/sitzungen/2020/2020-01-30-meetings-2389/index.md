@@ -1,0 +1,95 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-01-30T18:19:00+01:00
+- Ende: 2020-01-30T22:00:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2389
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2389
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Rahmenkonzept Verkehrsentwicklungsplanung - einstimmig
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: ISEK Umbau Bahnstraße und Bahnhofsquartier - einstimmig
+- TOP 5.1: Gemeinschaftsantrag ISEK ( Antrag Nr. 15/2020)
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Geschäftskreis der Beigeordneten - Kenntnisnahme
+- TOP 8: Meldung der einrichtungsscharfen Zuordnung von Plätzen - einstimmig
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 9.1: Änderungen Integrationsrat - mehrheitlich bei
+- TOP 10: Entscheidung PlanungsA
+- TOP 10.1: 33. FNP Änd. Aufstellung+frühz. Beteiligung - einstimmig
+- TOP 10.2: G 51 5. Änd. - Satzungsbeschluss - einstimmig
+- TOP 10.3: Gu 37 Satzungsbeschluss - mehrheitlich bei
+- TOP 10.4: 27. FNP Änd. erneute Aufstellung - einstimmig
+- TOP 11: Beantwortung Anträge und Anfragen
+- TOP 11.1: Sammelbeantwortung - Kenntnisnahme
+- TOP 11.2: Zusammenarbeit von Verwaltung und Politik (Antrag Nr. 126/2019) - Kenntnisnahme
+- TOP 11.3: Reduzierung Geräusche L 361 - Kenntnisnahme
+- TOP 11.4: Zwangsräumungen - Kenntnisnahme
+- TOP 11.5: Verlagerung der Veranstaltung "Grevenbroich im Park" - Kenntnisnahme
+- TOP 11.6: Kulturelle Teilhabe erweitern - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: CDU
+- TOP 12.1.1: Zustand der Friedhofswege prüfen, Mängel beheben (Antrag Nr. 23/2020) - einstimmig
+- TOP 12.1.2: Perspektivische Erweiterung des Bauhofs (Antrag Nr. 24/2020) - einstimmig
+- TOP 12.1.3: Ideenwettbewerb "NATÜRlich Erft" (Antrag Nr. 25/2020) - einstimmig
+- TOP 12.1.4: Fußgängerampeln mit (akustischen) Signalen (Antrag Nr. 26/2020) - einstimmig
+- TOP 12.1.5: Förderung von Langzeitarbeitslosen (Antrag Nr. 27/2020) - einstimmig
+- TOP 12.1.6: Fällung einer Buche am westlichen Rand (Antrag Nr. 28/2020) - einstimmig
+- TOP 12.1.7: Baugebiet "Am Mevissen" (Antrag Nr. 29/2020) - einstimmig
+- TOP 12.1.8: Ausschussumbesetzung (Antrag Nr. 30/2020) - einstimmig
+- TOP 12.1.9: Ausbau des Angebots an integrativen Betruungsplätzen (Antrag Nr. 31/2020) - einstimmig
+- TOP 12.2: SPD
+- TOP 12.2.1: Blaues Mobilitätsband Erft (Antrag Nr. 18/2020) - einstimmig
+- TOP 12.2.2: Erfolgreicher Strukturwandel (Antrag Nr. 19/2020) - einstimmig
+- TOP 12.2.3: 25 Jahre Landesgartenschau (Antrag Nr. 21/2020) - einstimmig
+- TOP 12.2.4: Ausschussumbesetzung (Antrag Nr. 08/2020) - einstimmig
+- TOP 12.3: UWG
+- TOP 12.3.1: Information über Gefahrenpunkte bei Starkregenereignissen (Antrag Nr. 01/2020) - einstimmig
+- TOP 12.3.2: Errichtung einer elektrisch betriebenen Fahrradpumpe (Antrag Nr. 02/2020) - einstimmig
+- TOP 12.4: FDP
+- TOP 12.4.1: Aufbringung einer schraffierten Sperrfläche (Antrag Nr. 04/2020) - einstimmig
+- TOP 12.4.2: Kosten bei der Standortsuche (Antrag Nr. 22/2020) - einstimmig
+- TOP 12.4.3: Aktion Seebrücke - Aufnahme von Flüchtlingen (Antrag Nr. 07/2020) - mehrheitlich bei
+- TOP 12.4.4: Neustrukturierung des Jugendrates (Antrag Nr. 09/2020) - einstimmig
+- TOP 12.5: B 90/DIE GRÜNEN
+- TOP 12.6: Mein Grevenbroich
+- TOP 12.6.1: Anteilige Kosten der Stadt (Antrag Nr. 11/2020) - einstimmig
+- TOP 12.6.2: Mülldetektive für Grevenbroich (Antrag Nr. 12/2020) - einstimmig
+- TOP 12.6.3: Kosteneinschätzung Gesamtschule III (Antrag Nr. 13/2020) - einstimmig
+- TOP 12.7: DIE LINKE
+- TOP 13: Gemeinschaftsanträge
+- TOP 13.1: Verlegung und Neugestaltung des Aschestreufeldes (Antrag Nr. 16/2020) - einstimmig
+- TOP 13.2: Straßenverkehrssituation Kapellen (Antrag Nr. 17/2020) - einstimmig
+- TOP 14: Schriftliche Anfragen
+- TOP 14.1: CDU
+- TOP 14.2: SPD
+- TOP 14.3: UWG
+- TOP 14.4: FDP
+- TOP 14.4.1: Wann wird die zulässige Höchstgeschwindigkeit (Anfrage Nr. 05/2020) - Kenntnisnahme
+- TOP 14.4.2: Social-Media-Aktivitäten der Stadtverwaltung Grevenbroich (Anfrage Nr. 06/2020) - Kenntnisnahme
+- TOP 14.4.3: Sachstand zur Umsetzung des Ratsbeschlusses (Anfrage Nr. 03/2020) - Kenntnisnahme
+- TOP 14.4.4: EU Richtlinie zur Beschaffung emissionsarmer Busse im ÖPNV (Anfrage Nr. 10/2020) - Kenntnisnahme
+- TOP 14.5: B 90/DIE GRÜNEN
+- TOP 14.6: Mein Grevenbroich
+- TOP 14.7: DIE LINKE
+- TOP 14.7.1: Schlossstadion (Antrag Nr. 259/2019) - Kenntnisnahme
+- TOP 14.7.2: Privatisierung Verkehrsüberwachung (Antrag Nr. 14/2020) - Kenntnisnahme
+- TOP 15: mündliche Anträge/Anfragen
+- TOP 15.1: Hoeninger Straße Barrenstein (Anfrage Nr. 35/2020)
+- TOP 15.2: Kita Barrenstein (Anfrage Nr. 36/2020)
+- TOP 15.3: Verkehrssituation Richard-Wagner-Straße (Anfrage Nr. 37/2020)
+- TOP 15.4: Baumfällarbeiten (Anfrage Nr. 38/2020)
+- TOP 15.5: Prüfung rechtmäßigen Handelns (Antrag Nr. 39/2020)
+- TOP 15.6: Geschwindigkeitsmessanlage (Anfrage Nr. 40/2020)
+- TOP 15.7: Anträge/Anfrage zum Klimaschutz (Nr. 252/2019, 161/2019 und 166/2019)
+- TOP 15.8: Car-Sharing (Anfrage Nr. 41/2020)
+- TOP 16: Mitteilungen BM
