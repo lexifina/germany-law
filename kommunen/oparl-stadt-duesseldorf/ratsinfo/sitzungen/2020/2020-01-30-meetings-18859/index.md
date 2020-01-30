@@ -1,0 +1,58 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-01-30T17:00:00+01:00
+- Ende: 2020-01-30T19:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18859
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18859
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrag vom 30.01.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370386.pdf
+- Ergebnisprotokoll: Nachtrag vom 30.01.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370386.pdf
+- Wortprotokoll: Nachtrag vom 30.01.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370386.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Niederschlagswasserbehandlungsanlage Krippstraße - Bericht der Verwaltung
+- TOP 5: Jugend checkt Düsseldorf - Bericht der Verwaltung
+- TOP 6: Ausführungs- und Finanzierungsbeschluss Multifunktionale Sportanlagen im Nachbarschaftspark Am Hackenbruch - einstimmig beschlossen
+- TOP 7: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - Empfehlung mehrheitlich beschlossen
+- TOP 8: Sportanlage Vennhauser Allee 256 - Erneuerung Kunstrasenbelag - einstimmig beschlossen
+- TOP 9: Schlesische Straße – Barrierefreier Ausbau der Bushaltestelle Schlesische Straße (Steig 5 und 6) - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Gebäude Gumbertstraße / Alt-Eller (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Baubeginn Carl-Sonnenschein-Schule (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Düssel-Brücke Vennhausen (Anfrage CDU-Fraktion) - beantwortet
+- TOP 16: Naturnahe Umgestaltung Eselsbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Bebauungsplanverfahren Am Kleinforst (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Verkehrswende und SPNV-Halte im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Neujahrsempfang der Bezirksvertretung 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Baustelle Nördlich Gerresheimer Landstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 23: Baustelle Gerresheimer Landstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 24: Spielplätze in Unterbach (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Grünfläche/Spielplatz Am Schwalbenberg 76-80 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Schwerlastverkehr Gerresheimer Landstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 31: Lärmschutz an der A46 - zur Kenntnis genommen
+- TOP 32: Nachbarschaftspark Schlesische Straße - Toilettenanlage - zur Kenntnis genommen
+- TOP 33: Blaue Tonne im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Reichenbacher Weg - Einfassung vor Haus Nr. 78 - zur Kenntnis genommen
+- TOP 35: Gestaltung Schlossallee - zur Kenntnis genommen
+- TOP 36: Parkplatz Anhalter Straße / Klein-Eller - zur Kenntnis genommen
+- TOP 37: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - zur Kenntnis genommen
+- TOP 38: Bebauungsplanverfahren Am Kleinforst - zur Kenntnis genommen
+- TOP 39: Stadtsparkasse Düsseldorf - Standort Lierenfeld - zur Kenntnis genommen
+- TOP 40: Erkrather Straße - Verkehrsführung im Bereich Am Bermeshau - zur Kenntnis genommen
+- TOP 41: Ohlauer Weg - Einmündung Neusalzer Weg - zur Kenntnis genommen
