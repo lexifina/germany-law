@@ -1,0 +1,78 @@
+# 42. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-30T17:00:00+01:00
+- Ende: 2020-01-30T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21830
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21830
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verkehrsproblematik in der Graseggerstraße
+- TOP -: Medienkompetenz für Bilderstöckchen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Grundschule Halfengasse -Annahme einer Schenkung - ungeändert beschlossen
+- TOP 6.2: Grundschule Steinberger Straße - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage SPD Fraktion nach § 4 BV5 vom 05.12.2019 AN/1583/2019 Widmung von Straßenzügen in Longerich als reines Woihngebiet - Kenntnis genommen
+- TOP 7.1.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und Bürger in Köln 3154/2019 - Kenntnis genommen
+- TOP 7.1.3: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung 3633/2019 - Kenntnis genommen
+- TOP 7.1.4: Lieferverkehr auf der Neusser Straße - Kenntnis genommen
+- TOP 7.1.5: Kleingartenanlage An der Ling - Anfrage der SPD-Fraktion - - Kenntnis genommen
+- TOP 7.1.6: Überprüfung des Rückbaus freilaufender Rechtsabbieger Geldernstraße - Kenntnis genommen
+- TOP 7.1.7: KVB-Weiche Mollwitzstraße - Kenntnis genommen
+- TOP 7.1.8: Verkehrssituation Kreuzung Xanterner Straße/Kretzerstraße - Kenntnis genommen
+- TOP 7.1.9: Bogensportanlage im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Quartiersparkhaus Nippeser Tälchen - Kenntnis genommen
+- TOP 7.2.2: Anfrage zur Effektivität der App "Sag's uns" - Kenntnis genommen
+- TOP 7.2.3: Stand der Umsetzung des Standortkonzepts für eine Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln insbesondere im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.4: Projekt „Celsius“ - Kenntnis genommen
+- TOP 7.2.5: Sachstand Sanierung Toiletten im Blücherpark - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Installieren von Sitz-Möglichkeiten an der Bus-Haltestelle Amsterdamer Straße/Gürtel - Sache ist erledigt
+- TOP 8.1.2: Sicherheitstechnische Optimierung der Kreuzung Johannes-Rings-Straße/Longericher Straße - geändert beschlossen
+- TOP 8.1.3: Entwidmung des Niehler Kirchwegs im Nippeser Tälchen - ungeändert beschlossen
+- TOP 8.1.4: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 2 - 34 - ungeändert beschlossen
+- TOP 8.1.5: Sanierung einer Rad- und Fußwegeverbindung im Blücherpark - ungeändert beschlossen
+- TOP 8.1.6: Städtebauliche Aufwertung des Riehler Ortskerns - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Zuwendung aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum "Bilderstöckchen" - ungeändert beschlossen
+- TOP 9.1.2: Namensgebung der Gemeinschaftshauptschule Reutlinger Straße 49, 50739 Köln (Bilderstöckchen) - zurückgestellt
+- TOP 9.1.3: Unterstützung des karnevalistischen Brauchtums in den Bezirken - ungeändert beschlossen
+- TOP 9.1.4: Bänke für den Nordpark und die BSA Weidenpesch - ungeändert beschlossen
+- TOP 9.1.5: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes 2020 - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.1.6: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.7: Förderprogramm der Bezirksvertretung Nippes für die Vergabe bezirksorientierter Haushaltsmittel nach § 37 Abs. 3 GO NW im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ungeändert empfohlen
+- TOP 9.2.2: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.3: Modernisierung der Leitstelle der Feuerwehr Köln – Projekt „Leitstelle 2020“ - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.2: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 10.2.3: Verkehrsberuhigung Graseggerstraße - Kenntnis genommen
+- TOP 10.2.4: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.5: Klagemöglichkeiten der Stadt Köln gegen die Deutsche Bahn AG - Kenntnis genommen
+- TOP 10.2.6: Verkehrslärmbelästigung im Stadtbezirk Nippes - Beschluss vom 05.12.2019 zum Antrag der CDU AN/1585/2019 - Kenntnis genommen
+- TOP 10.2.7: Antrag nach § 3 BV5 (SPD); AN/0325/2019; Wartungsarbeiten und gewerbliche Tätigkeiten auf dem ehemaligen Verschiebebahnhof Köln-Nippes - Kenntnis genommen
+- TOP 10.2.8: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 10.2.9: Jahresbericht der Sozialraumkoordination Bilderstöckchen 2019 mit Pressespiegel - Kenntnis genommen
+- TOP 10.2.10: Stellungnahme zu einem Antrag Umsetzung der von der Verwaltung vorgeschlagenen Maßnahmen am ehemaligen Verschiebebahnhof Köln-Nippes Antrag der SPD-Fraktion AN/0575/2019 - Kenntnis genommen
+- TOP 10.2.11: Erhebung von Straßenbaubeiträgen nach § 8 KAG für die Sanierung des Brunhildplatzes und des Balmungsweges in Köln-Mauenheim - Kenntnis genommen
+- TOP 10.2.12: Makrofontests in der Nacht außerhalb der ICX-Hallen - Kenntnis genommen
