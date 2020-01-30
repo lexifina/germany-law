@@ -1,0 +1,85 @@
+# 45. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-30T15:05:00+01:00
+- Ende: 2020-01-30T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21694
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21694
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bauaufsicht ist völlig überfordert - Landesprüfer im Stadthaus. Wie kommen Kölnerinnen und Kölner an ihre Baugenehmigung - endgültig zurückgezogen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Status Planumsetzung und Rahmenbedingungen Parkstadt Süd - Sache ist erledigt
+- TOP -: Status Planumsetzung und Rahmenbedingungen Parkstadt Süd Hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 2.2: Entwicklung der Flächen aus dem StEK Wohnen
+- TOP 2.3: Entwicklung des sog. Max-Becker-Areals in Ehrenfeld
+- TOP 3: Anträge
+- TOP 3.1: Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - zurückgestellt
+- TOP -: Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln- Porz-Elsdorf - Schulinfrastruktur zeitnah erweitern! (AN/1142/2019) - zurückgestellt
+- TOP 3.2: Gebäudetypologien des Wohnens im Außenbereich der wachsenden Stadt - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk B) über die Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 5.2: Beschluss der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Humboldt/Gremberg und Kalk" - ungeändert beschlossen
+- TOP 5.3: Beschluss der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - zurückgestellt
+- TOP 6.2: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP -: Gemeinsamer Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 30.01.2020 zu TOP 6.2. - Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Beschluss über die Planung der Maßnahme "Umgestaltung der Frankfurter Straße in Buchheim" aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.6) - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - ungeändert beschlossen
+- TOP 7.2: 229. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Im Rodfeld/Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Sechtemer Straße/Bonnerstraße in Köln-Raderberg - zurückgestellt
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - Sache ist erledigt
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - zurückgestellt
+- TOP -: Gesamtschule für Porz - Änderungsantrag zu 10.2 "Beschluss über die Aufstellung eines Bebauungsplanes eines Bebauungsplanes Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach" - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die Ergänzung des Bebauungsplan-Entwurfs 73480/06; Arbeitstitel: Kochwiesenstraße in Köln-Holweide - ungeändert beschlossen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74440/02 Arbeitstitel: Rather See in Köln – Rath / Heumar - zurückgestellt
+- TOP 12.3: Beschluss über Stellungnahmen, sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 73370/04; Arbeitstitel: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung - ungeändert beschlossen
+- TOP 12.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 59575/01:Arbeitstitel: Sinnersdorfer Straße 88-90 in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Teilaufhebung des Bebauungsplanes Nummer 73490/06- Arbeitstitel: August-Strindberg-Straße in Köln-Holweide; Anhörung der Bezirksvertretung Mülheim zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarb - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Lärmschutzwand Militärringstraße - Vogelsang - Kenntnis genommen
+- TOP 17.2: Offenlage gemäß § 3 Abs. 2 BauGB für den einfachen Bebauungsplan Nr. 74410/02, Arbeitstitel: Eisenbahnersiedlung in Köln - Porz - Gremberghoven - Kenntnis genommen
+- TOP 17.3: Beantwortung der Anfrage 1350/2019 von CDU-Fraktion und Fraktion Bündnis 90/Die Grünen im Kölner Rat zu "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - Kenntnis genommen
+- TOP 17.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 17.5: Dirt Track der AbenteuerHalleKalk in Köln-Kalk AN/1439/2019 - Kenntnis genommen
+- TOP 17.6: Beantwortung der SPD Anfrage AN/1552/2019 "Wohnen.Bezahlbar.machen - Kenntnis genommen
+- TOP 17.7: Sachstand Parkstadt Süd- Teilbereich Eifelwall - Kenntnis genommen
+- TOP 17.8: Offenlage des vorhabenbezogenen Bebauungsplanes (VEP) Nr. 72498/02 Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - Kenntnis genommen
+- TOP 17.9: Bildungscampus Kalk des Erzbistums Köln – Ergebnis Architektenwettbewerb - Kenntnis genommen
+- TOP 17.10: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 11 - Kenntnis genommen
+- TOP 17.11: Umsetzung Einzelhandels- und Zentrenkonzept - Kenntnis genommen
+- TOP 17.12: Sachstand zur Teilmaßnahme 0.0.1 "Verfügungsfonds" aus dem Programm "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 17.13: 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Sigwinstraße in Köln-Höhenhaus hier: Offenlage nach § 3 Absatz 2 BauGB und Beteiligung der Träger öffentlicher Belange nach § 4 Absatz 2 BauGB - Kenntnis genommen
+- TOP 17.14: Ergebnis des Qualifizierungsverfahrens zum Quartier Schlebuscher Weg in Köln Höhenhaus - Kenntnis genommen
+- TOP 17.15: Domumfeld: Kleine Maßnahmen mit großer Wirkung - Kenntnis genommen
+- TOP 17.16: Kinderfreundliche Kommune Köln
+- TOP 17.17: Neue Mitte Porz, Belegung von Haus 1 mit einem Vollversorger - Kenntnis genommen
+- TOP 17.18: Bebauung am Poller Marktplatz -Vollversorger für Poll (AN/1734/2019) - Kenntnis genommen
+- TOP 17.19: Stadtstrategie "Kölner Perspektiven 2030": Stand und weiterer Prozess - Kenntnis genommen
+- TOP 17.20: Verordnung über eine Umwandlungsgenehmigung in Gebieten zur Erhaltung der Zusammensetzung der Wohnbevölkerung (Umwandlungsverordnung – UmwandVO) - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
