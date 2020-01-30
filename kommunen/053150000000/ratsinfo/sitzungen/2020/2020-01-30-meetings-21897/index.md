@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-01-30T17:00:00+01:00
+- Ende: 2020-01-30T19:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21897
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21897
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: 0 - Bestellung eines städtischen Bediensteten zum Schriftführer der Bezirksvertretung Porz - ungeändert beschlossen
+- TOP -: Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - zurückgestellt
+- TOP 2.2: Zukünftige Nutzung des Verkehrsübungsplatzes in Köln-Poll - Babywald für Köln - ungeändert empfohlen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Herstellung einer Teilfläche in der Schubertstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Baubeschluss für die Umgestaltung des Knotenpunktes Friedensstraße/Akazienweg in einen Kreisverkehr sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert beschlossen
+- TOP 6.3: Bezirksorientierte Mittel - Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 6.4: Beschluss der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - mit Änderungen empfohlen
+- TOP 7.1.1: Änderungsantrag zur Vorlage 3841/2019 - Bebauungsplan Leidenhausener Straße - ungeändert beschlossen
+- TOP 7.2: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - mit Änderungen empfohlen
+- TOP 7.2.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.9: Bebauungsplan, Arbeitstitel: Östlich Im Falkenhorst - endgültig zurückgezogen
+- TOP 7.2.2: Änderungsantrag zur Vorlage 3843/2019 - Bebauungsplan Östlich im Falkenhorst - ungeändert beschlossen
+- TOP 7.3: Beschluss über Stellungnahmen, sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 73370/04; Arbeitstitel: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung - ungeändert empfohlen
+- TOP 7.4: Städtebauliches Planungskonzept vorhabenbezogener Bebauungsplan – An der Mühle – in Köln-Porz-Langel Anhörung der Bezirksvertretung Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Änderung des Geltungsbereiches - ungeändert empfohlen
+- TOP 7.5: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - mit Änderungen empfohlen
+- TOP 7.5.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - Kenntnis genommen
+- TOP 7.5.2: Änderungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III - endgültig zurückgezogen
+- TOP 7.5.3: Änderungsantrag zur Vorlage 2887/2019 - Regionalplanüberarbeitung Modull III - ungeändert beschlossen
+- TOP 7.6: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - zurückgestellt
+- TOP 7.6.1: Änderungsantrag zur Vorlage 3406/2019, Gewässerentwicklungskonzept - zurückgestellt
+- TOP 7.7: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.8: Ordnungsbehördliche Verordnung für 2020 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 7.9: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Parkdruck verringern durch Parkraumbewirtschaftung mit 24 Stunden frei parken in den Stadtteilen - Antrag der Fraktion die Grünen - endgültig zurückgezogen
+- TOP 8.1.1: gem. Änderungsantrag (CDU/FDP/Grüne BV 7) - Parkraumbewirtschaftung - ungeändert beschlossen
+- TOP 8.2: Vorstellung eines Konzeptes für ein geregeltes Parksystem am S-Bahnhof Wahn - Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Fußweg vor dem Alten Friedhof in Poll - Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.6: Sachstandsbericht zum Umbau der Kreuzung Hauptstarße/Steinstraße in Porz Mitte - Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.7: Vervollständigung der Baumreihe Auf dem Sandberg in Köln-Poll - Antrag der Fraktion die Grünen - ungeändert beschlossen
+- TOP 8.8: Pflege Porzer - zurückgestellt
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Umwidmung des Lärmschutzwalls im Bereich der Straße "Am Liburer Wall" in Libur - Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.11: Verbesserung der Verkehrssituation entlang der St.-Sebastianus-Str. in Porz-Wahn - Antrag der Fraktion die Grünen - geändert beschlossen
+- TOP 8.12: Verhinderung weiterer Wettbüros in Porz - Dringlichkeitsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.13: Planungsstart zur Verlängerung der Linie 7 - Dringlichkeitsantrag der SPD-Fraktion - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Parkhaus Wahn am Bahnhof: Sachstandsbericht zur Ausnutzung - Kenntnis genommen
+- TOP 9.1.2: Absperrpfosten Fischerweg - Kenntnis genommen
+- TOP 9.1.3: Zum Alten Paulshof 2 - 14 - Kenntnis genommen
+- TOP 9.1.3.1: mündliche Anfrage der CDU-Fraktion: zu „Baumaßnahmen: Zum alten Paulshof 2-14" - Kenntnis genommen
+- TOP 9.1.4: Parkplatz Glashüttenstraße - Kenntnis genommen
+- TOP 9.1.4.1: Mündliche Anfrage der SPD-Fraktion: Parkplatz Glashüttenstraße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Sachstand der Bebauung des B-Plan-Gebietes Poller Damm - Anfrage SPD-Fraktion - zurückgestellt
+- TOP 9.2.2: Generalsanierung des Schulzentrums Zündorf, Anfrage der SPD-Fraktion - zurückgestellt
+- TOP 9.2.3: Schulsituation in Porz - Anfrage der Fraktion die Grünen - Kenntnis genommen
+- TOP 9.2.3.1: AN/0127/2020 Schulsituation in Porz - Anfrage der Fraktion Bündnis 90/Die Grünen - Kenntnis genommen
+- TOP 9.2.4: U 3 und Ü 3 Versorgung in Porz - Anfrage der Fraktion die Grünen - Kenntnis genommen
+- TOP 9.2.4.1: U3 und Ü3 Versorgung in Porz - Kenntnis genommen
+- TOP 9.2.5: Tagesticket für den Parkplatz St.-Sebastianus-Straße in Porz-Wahn - zurückgestellt
+- TOP 9.2.6: Umwandlung und Nutzungsänderung einer Garage in Grenzbebauung Lülsdorfer Str. 209 - zurückgestellt
+- TOP 9.2.7: Spielhalle und vermüllte leere Ladenlokale im Kita Nahbereich Frankenstraße 4 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Feststellungsklage beim Verwaltungsgericht zur Überprüfung einer möglichen Verletzung von Mitwirkungsrechten im Zusammenhang mit der Zentralisierung des städtischen Ordnungsdienstes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Offenlage gemäß § 3 Abs. 2 BauGB für den einfachen Bebauungsplan Nr. 74410/02, Arbeitstitel: Eisenbahnersiedlung in Köln - Porz - Gremberghoven - Kenntnis genommen
+- TOP 10.2.2: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 10.2.3: Verbreiterung der Mendener Straße in Poll - Kenntnis genommen
+- TOP 10.2.4: Notfallkonzept für den Verkehr im Porzer Süden - Kenntnis genommen
+- TOP 10.2.5: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 10.2.6: Kita- und Schulplätze in Zündorf und Langel - Kenntnis genommen
+- TOP 10.2.7: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.8: Sachstand zur Thematik der Stellplätze - Kenntnis genommen
+- TOP 10.2.9: Niederschrift zum 11. Runden Tisch "Radverkehr" vom 02.12.2019 - Kenntnis genommen
+- TOP 10.2.10: Lehrschwimmbecken der GGS Hohe Straße in Porz Ensen - Offener Brief der Vernetzung Porzer Bürgervereine und Statikgutachten - Kenntnis genommen
+- TOP 10.2.11: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 10.2.12: Neue Mitte Porz, Belegung von Haus 1 mit einem Vollversorger - Kenntnis genommen
+- TOP 10.2.13: Bebauung am Poller Marktplatz -Vollversorger für Poll (AN/1734/2019) - Kenntnis genommen
+- TOP 10.2.14: Mitteilung der Verwaltung zum Beschluss der Bezirksvertretung Porz vom 08.10.2019, TOP 8.9 (AN/1358/2019) - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
+- TOP 11.1: Annahme einer zweckgebundenen Spende und Umgestaltung des Spielplatzes An der Groov in Köln-Zündorf - ungeändert beschlossen
