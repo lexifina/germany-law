@@ -1,4 +1,4 @@
-# Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit Ausschreibungen nach dem Erneuerbare-Energien-Gesetz und nach dem Kraft-Wärme-Kopplungsgesetz
+# Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit ihren Aufgaben nach dem Erneuerbare-Energien-Gesetz und Ausschreibungen nach dem Kraft-Wärme-Kopplungsgesetz
 
 - [§ 1 Gebühren und Auslagen](0001.md)
 - [§ 2 Ermäßigung der Gebühr](0002.md)

@@ -27,7 +27,7 @@
 - [§ 14 Begriff der Pflegebedürftigkeit](0014.md)
 - [§ 15 Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument](0015.md)
 - [§ 16 Verordnungsermächtigung](0016.md)
-- [§ 17 Richtlinien der Pflegekassen](0017.md)
+- [§ 17 Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen](0017.md)
 - [§ 17a (weggefallen)](0017a.md)
 - [§ 18 Verfahren zur Feststellung der Pflegebedürftigkeit](0018.md)
 - [§ 18a Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten](0018a.md)
@@ -143,9 +143,13 @@ Verbandsaufgaben
 
 - [§ 52 Aufgaben auf Landesebene](0052.md)
 - [§ 53 Aufgaben auf Bundesebene](0053.md)
-- [§ 53a Zusammenarbeit der Medizinischen Dienste](0053a.md)
-- [§ 53b Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit](0053b.md)
-- [§ 53c Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte](0053c.md)
+- [§ 53a Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit](0053a.md)
+- [§ 53b Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte](0053b.md)
+
+### Fünfter Abschnitt Medizinische Dienste, Medizinischer Dienst Bund
+
+- [§ 53c Medizinische Dienste, Medizinischer Dienst Bund, Übergangsregelung](0053c.md)
+- [§ 53d Aufgaben des Medizinischen Dienstes Bund](0053d.md)
 
 ## Sechstes Kapitel Finanzierung
 
