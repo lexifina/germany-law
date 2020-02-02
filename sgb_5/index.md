@@ -182,6 +182,7 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 65c Klinische Krebsregister](0065c.md)
 - [§ 65d Förderung besonderer Therapieeinrichtungen](0065d.md)
 - [§ 65e Ambulante Krebsberatungsstellen](0065e.md)
+- [§ 65e Vereinbarung zur Suche und Auswahl nichtverwandter Spender von Blutstammzellen aus dem Knochenmark oder aus dem peripheren Blut](0065e-2.md)
 - [§ 66 Unterstützung der Versicherten bei Behandlungsfehlern](0066.md)
 - [§ 67 Elektronische Kommunikation](0067.md)
 - [§ 68 Finanzierung einer persönlichen elektronischen Gesundheitsakte](0068.md)
@@ -568,6 +569,7 @@ Knappschaft-Bahn-See
 - [§ 198 Meldepflicht des Arbeitgebers für versicherungspflichtig
 Beschäftigte](0198.md)
 - [§ 199 Meldepflichten bei unständiger Beschäftigung](0199.md)
+- [§ 199a Informationspflichten bei krankenversicherten Studenten](0199a.md)
 - [§ 200 Meldepflichten bei sonstigen versicherungspflichtigen Personen](0200.md)
 - [§ 201 Meldepflichten bei Rentenantragstellung und Rentenbezug](0201.md)
 - [§ 202 Meldepflichten bei Versorgungsbezügen](0202.md)
@@ -646,8 +648,7 @@ Beschäftigter](0230.md)
 - [§ 234 Beitragspflichtige Einnahmen der Künstler und
 Publizisten](0234.md)
 - [§ 235 Beitragspflichtige Einnahmen von Rehabilitanden, Jugendlichen und Menschen mit Behinderungen in Einrichtungen](0235.md)
-- [§ 236 Beitragspflichtige Einnahmen der Studenten und
-Praktikanten](0236.md)
+- [§ 236 Beitragspflichtige Einnahmen der Studenten und Praktikanten](0236.md)
 - [§ 237 Beitragspflichtige Einnahmen versicherungspflichtiger Rentner](0237.md)
 - [§ 238 Rangfolge der Einnahmearten versicherungspflichtiger
 Rentner](0238.md)
@@ -731,7 +732,7 @@ ihrer Verbände
 
 - [§ 274 Prüfung der Geschäfts-, Rechnungs- und Betriebsführung](0274.md)
 
-## Neuntes Kapitel Medizinischer Dienst der Krankenversicherung
+## Neuntes Kapitel Medizinischer Dienst
 
 
 ### Erster Abschnitt Aufgaben
@@ -739,17 +740,20 @@ ihrer Verbände
 - [§ 275 Begutachtung und Beratung](0275.md)
 - [§ 275a Durchführung und Umfang von Qualitätskontrollen in Krankenhäusern durch den Medizinischen Dienst](0275a.md)
 - [§ 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege durch den Medizinischen Dienst](0275b.md)
+- [§ 275c Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst](0275c.md)
+- [§ 275d Prüfung von Strukturmerkmalen](0275d.md)
 - [§ 276 Zusammenarbeit](0276.md)
 - [§ 277 Mitteilungspflichten](0277.md)
 
 ### Zweiter Abschnitt Organisation
 
-- [§ 278 Arbeitsgemeinschaft](0278.md)
-- [§ 279 Verwaltungsrat und Geschäftsführer; Beirat](0279.md)
-- [§ 280 Aufgaben des Verwaltungsrats](0280.md)
-- [§ 281 Finanzierung und Aufsicht](0281.md)
-- [§ 282 Medizinischer Dienst des Spitzenverbandes Bund der Krankenkassen](0282.md)
-- [§ 283 Ausnahmen](0283.md)
+- [§ 278 Medizinischer Dienst](0278.md)
+- [§ 279 Verwaltungsrat und Vorstand](0279.md)
+- [§ 280 Finanzierung, Haushalt, Aufsicht](0280.md)
+- [§ 281 Medizinischer Dienst Bund, Rechtsform, Finanzen, Aufsicht](0281.md)
+- [§ 282 Medizinischer Dienst Bund, Verwaltungsrat und Vorstand](0282.md)
+- [§ 283 Aufgaben des Medizinischen Dienstes Bund](0283.md)
+- [§ 283a Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See](0283a.md)
 
 ## Zehntes Kapitel Versicherungs- und Leistungsdaten,
 Datenschutz, Datentransparenz
@@ -853,3 +857,5 @@ der Herstellung der Einheit Deutschlands
 - [§ 324 Übergangsregelung für ehemalige Soldatinnen und Soldaten auf Zeit](0324.md)
 - [§ 325 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0325.md)
 - [§ 326 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0326.md)
+- [§ 327 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0327.md)
+- [§ 328 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0328.md)

@@ -81,9 +81,9 @@
 | Vierter Abschnitt | Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds ................ | §§ 265 bis 273 |
 | Fünfter Abschnitt | Prüfung der Krankenkassen und ihrer Verbände ............................ | § 274 |
 |  |  |
-| Neuntes Kapitel | Medizinischer Dienst der Krankenversicherung |  |
+| Neuntes Kapitel | Medizinischer Dienst |  |
 | Erster Abschnitt | Aufgaben ............................ | §§ 275 bis 277 |
-| Zweiter Abschnitt | Organisation ........................ | §§ 278 bis 283 |
+| Zweiter Abschnitt | Organisation ........................ | §§ 278 bis 283a |
 |  |  |
 | Zehntes Kapitel | Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz |  |
 | Erster Abschnitt | Informationsgrundlagen |  |
@@ -96,4 +96,4 @@
 |  |  |
 | Elftes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 306 und 307b |
 | Zwölftes Kapitel | Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ....... | §§ 308 bis 313 |
-| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 326 |
+| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 328 |
