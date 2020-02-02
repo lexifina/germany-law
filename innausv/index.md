@@ -1,0 +1,17 @@
+# Verordnung zu den Innovationsausschreibungen
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Anwendung des Erneuerbare-Energien-Gesetzes](0003.md)
+- [§ 4 Teilnahmeberechtigte Anlagen](0004.md)
+- [§ 5 Gebote der Innovationsausschreibungen](0005.md)
+- [§ 6 Weitere Anforderungen an Gebote für Anlagenkombinationen](0006.md)
+- [§ 7 Zusätzliche Bekanntmachung bei Innovationsausschreibungen](0007.md)
+- [§ 8 Fixe Marktprämie](0008.md)
+- [§ 9 Verringerung des Zahlungsanspruchs bei negativen Preisen](0009.md)
+- [§ 10 Höchstwert](0010.md)
+- [§ 11 Zuschlagserteilung, Zuschlagsbegrenzung](0011.md)
+- [§ 12 Bekanntgabe der Zuschläge und Werte](0012.md)
+- [§ 13 Weitere Bestimmungen zu Anlagenkombinationen](0013.md)
+- [§ 14 Evaluierung](0014.md)
+- [§ 15 Abweichender erster Gebotstermin](0015.md)
