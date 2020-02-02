@@ -11,14 +11,17 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
   7. des Vollzugs von Untersuchungs- und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung und Besserung sowie der Anordnung und des Vollzugs anderer Freiheitsentziehungen;
   8. des Bußgeldverfahrens;
   9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts.
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in den Geschäftsjahren 2016 bis 2019 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäftsjahr 2020 eingehen, aus den Rechtsbereichen
   1. des Vertriebenenrechts;
   2. des Körperschaftsteuerrechts und des Umwandlungssteuerrechts;
   3. des Waffenrechts;
   4. des Petitionsrechts;
   5. des Rechts der Zwangsversteigerung und Zwangsvollstreckung (soweit es sich nicht um Erkenntnisverfahren handelt);
-  6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird).
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2018 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche (einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen):
+  6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
+  7. des Wohnungseigentumsrechts;
+  8. des Kaufrechts;
+  9. des Dienst- und Werkvertragsrechts mit Ausnahme des Anwaltsvertrags- und Arztvertragsrechts.
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2020 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche (einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen):
   1. allgemeines Persönlichkeitsrecht;
   2. Recht der Glaubens- und Bekenntnisfreiheit (Artikel 4 Absatz 1 und 2 GG);
   3. Recht der freien Meinungsäußerung, Informations-, Rundfunk- und Pressefreiheit (Artikel 5 GG);
@@ -40,12 +43,10 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2018 eingehen, aus d
   19. Kreditrecht einschließlich des Rechts der Sicherungen;
   20. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
   21. Regulierungsrecht;
-  22. Dienst- und Werkvertragsrecht einschließlich Anwaltsvertrags- und Arztvertragsrecht;
+  22. Anwaltsvertrags- und Arztvertragsrecht;
   23. sonstiges Deliktsrecht;
   24. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
-  25. Vollstreckung öffentlich-rechtlicher Forderungen;
-  26. Wohnungseigentumsrecht;
-  27. Kaufrecht.
+  25. Vollstreckung öffentlich-rechtlicher Forderungen.
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
   1. bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
   2. bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.
