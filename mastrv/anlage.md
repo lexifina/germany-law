@@ -92,7 +92,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.1.10 | Schwarzstartfähigkeit |  | P*12 |  | V*2 | NP |  |
 | II.1.1.11 | Inselbetriebsfähigkeit |  | P*12 |  | V*2 | NP |  |
 | II.1.1.12 | Präqualifikation Regelleistung |  | P*11 |  | V*2 |  |  |
-| II.1.1.13 | Fernsteuerbarkeit durch Netzbetreiber, Direktvermarkter und Dritte |  | P |  |  | NP |  |
+| II.1.1.13 | Fernsteuerbarkeit durch Netzbetreiber, Direktvermarkter und Dritte |  | P |  |  | NP | NP nur bei Fernsteuerbarkeit durch den Netzbetreiber |
 | II.1.1.14 | Art der Einspeisung |  | P |  |  |  |  |
 | II.1.1.15 | Technologie der Stromerzeugung |  | R |  |  |  | WI: [I]: P, [II]: P.SO: /.BI: [I]: P.GS: [II]: P. |
 | II.1.1.16 | Energieträger | R | R |  |  | NP |  |
@@ -209,7 +209,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.2.4.5 Zusätzliche Daten bei Verwendung von Biomethan |
 | II.2.4.5.1 | Datum des erstmaligen ausschließlichen Einsatzes von Biomethan |  | P |  |  |  |  |
 | II.2.5 Zusätzliche Daten zu Windenergie-Anlagen |
-| II.2.5.1 | Pilotwindanlage |  | P |  |  |  |  |
+| II.2.5.1 | Pilotwindanlage |  | P |  |  | NP |  |
 | II.2.5.2 | Prototypanlage |  | P |  |  |  |  |
 | II.2.5.3 | Verhältnis der Ertragseinschätzung zum Referenzertrag nach Ertragsgutachten |  | P |  |  |  |  |
 | II.2.5.4 | Verhältnis des Ertrags zum Referenzertrag nach Ablauf des Referenzzeitraums von fünf Jahren |  | P |  |  |  |  |
