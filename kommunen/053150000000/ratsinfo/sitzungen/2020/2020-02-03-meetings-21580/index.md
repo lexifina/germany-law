@@ -1,0 +1,90 @@
+# 45. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-02-03T17:00:00+01:00
+- Ende: 2020-02-03T21:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21580
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21580
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gemeinsamer Austausch mit Herrn Stadtdirektor Dr. Keller
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Antrag auf Installation einer Toilette auf dem Takuplatz - ungeändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Änderung des Linienweges der Buslinie 139 (AZ. 02-1600-257/2019 ) - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Sanierung Vogelsanger Straße - Erhalt der Fußgänger-Ampel an der Einmündung zur Neptunstraße (Az.: 02-1600-271/19) - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - Kenntnis genommen
+- TOP 6.1.1: Beantwortung einer Anfrage der Fraktion Die Linke, betr.: Deckel Drauf! - eine Einhausung der A 57 - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zu Immobilien der Deutschen Bahn im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.2.1: Immobilien der Deutschen Bahn AG im Stadtbezirk Ehrenfeld | Beantwortung der Anfrage AN/1071/2019 - zurückgestellt
+- TOP 6.3: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 - zurückgestellt
+- TOP 6.3.1: Beantwortung einer Anfragen der Fraktion Die Linke, betr.: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 | Beantwortung der Anfrage AN/1071/2019 der Fraktion DIE LINKE in der BV Ehrenfeld - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssituation in der Hüttenstraße - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion, betr.: Wohnungsbaupakt der Stadt Köln mit der Bundesanstalt für Immobilienaufgaben - Kenntnis genommen
+- TOP 6.5.1: Die Beantwortung erfolgt unter TOP 20.1 im nichtöffentlichen Teil - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Die Linke, betr.: Kita-Ausbau und Ausbaubedarfe im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.6.1: Beantwortung einer Anfrage der Fraktion Die Linke, betr.: Kitaausbau und Ausbaubedarfe im Stadtbezirk Ehrenfeld AN 1677/2019 - Kenntnis genommen
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: BimA-Grundstücke in Ehrenfeld - Kenntnis genommen
+- TOP 6.7.1: Die Beantwortung erfolgt unter TOP 20.1 im nichtöffentlichen Teil - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Sachstand zu den Unterkünften für Geflüchtete im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.1.1: Beantwortung der Anfrage der Fraktion Die Linke TOP 7.1: Sachstand zu den Unterkünften für Geflüchtete im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.2: Sachstand zum Fahrradparken am Bahnhof Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bebauungsplan Heliosgelände - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Belieferung eines Rewe-Marktes an der Venloer Straße 310 - zurückgestellt
+- TOP 7.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Veränderte Verkehrsführung Venloer Straße - zurückgestellt
+- TOP 7.6: Anfrage der CDU-Fraktion, betr.: Entwicklung Jennerstraße 8 50823 Köln-Ehrenfeld - zurückgestellt
+- TOP 7.7: Anfrage der SPD- Fraktion: Stand der Planungen Baumaßnahme Drogeriemarkt Rochusplatz - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Barrierfreier Zugang zur Parkanlage Schlösserstraße - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Markt am Butzweilerhof - ungeändert beschlossen
+- TOP 8.4: Waschbetonpoller an den Spielplätzen Glasstraße und Gutenbergstraße ersetzen! Mehr Platz für Fußgänger*innen schaffen! - ungeändert beschlossen
+- TOP 8.5: Antrag der FDP: "Fußgängerüberweg Goldammerweg in Köln-Vogelsang" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Käthe-Paulus-Straße - geändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Planungen für Schlachthofgelände und Umgebung - geändert beschlossen
+- TOP 8.8: Antrag der CDU-Fraktion, betr.: Markt Bickendorf - ungeändert beschlossen
+- TOP 8.9: Mikrodepots einrichten – Lastenrad-Logistik unterstützen! - geändert beschlossen
+- TOP 8.10: Antrag der FDP: "Geschwindigkeitsmessungen auf dem Goldammerweg in Köln-Vogelsang" - ungeändert beschlossen
+- TOP 8.11: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Erhalt einer Süßkirsche in Bickendorfer Kleingarten - ungeändert beschlossen
+- TOP 8.11.1: Stellungnahme der Verwaltung zum Antrag der Fraktion Bündnis 90/Die Grünen, hier: Erhalt einer Süßkirche in Bickendorfer Kleingarten - Kenntnis genommen
+- TOP 8.12: Antrag der CDU-Fraktion, betr.: Kreisverkehr Kreuzung Militärring Venloer Straße - ungeändert beschlossen
+- TOP 8.13: Antrag der CDU-Fraktion, betr.: Bienenlehrpfad - geändert beschlossen
+- TOP 8.14: Antrag der CDU-Fraktion, betr.: Bocklemünd - endgültig zurückgezogen
+- TOP 8.15: Antrag der SPD-Fraktion, betr.: Ankauf Gelände an der Venloer Str. 513 / 515. - ungeändert beschlossen
+- TOP 8.16: Gemeinsamer Dringlichkeitsantrag, betr.: Umsetzung des Beschlusses der BV- Ehrenfeld vom 04. November 2019 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Einziehung einer Teilfläche am Erlenweg in Köln-Bickendorf - ungeändert beschlossen
+- TOP 9.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld - Mittelvergabe - ungeändert beschlossen
+- TOP 9.3: 1. Vergabe der bezirklichen Finanzmittel 2020 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - geändert beschlossen
+- TOP 10.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: 273. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 12.2: Nachfrage zur Vorlage 3687/2019 "Barrierefreie Gehwegmobilität" - Kenntnis genommen
+- TOP 12.3: Kostenfortschreibung zur Generalinstandsetzung des Schulgebäudes für die Gesamtschule Overbeckstraße 71-73, 50823 Köln - Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Zwischenbericht Monitoring StadtNaturParke 2019 - Kenntnis genommen
+- TOP 12.5: Lärmschutzwand Militärringstraße - Vogelsang - Kenntnis genommen
+- TOP 12.6: Mitteilung über die Abweichung von der Regelbauweise von Kunststoffrasenspielfeldern auf der Bezirkssportanlage Everhardstraße - Kenntnis genommen
+- TOP 12.7: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 12.7.1: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung - Kenntnis genommen
+- TOP 12.8: Öffnung von Einbahnstraßen in Köln Ehrenfeld für den gegenläufigen Radverkehr - Kenntnis genommen
+- TOP 12.9: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 12.10: Sachstand Generalsanierung Halle Bocklemünd - Kenntnis genommen
+- TOP 12.11: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 12.12: Schulwegsicherung Grundschule Vogelsanger Straße - Kenntnis genommen
+- TOP 12.13: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 12.14: Beantwortung einer mündlichen Anfrage aus der Sitzung der Bezirksvertretung Ehrenfeld am 09.12.2019: - Kenntnis genommen
+- TOP 13: mündliche Anfragen
