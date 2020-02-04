@@ -1,0 +1,7 @@
+# TOP 6.: Widdert – Kanalbaumaßnahme – Temporäre Umfahrung Antragsteller: Technische Betriebe Solingen
+
+- Sitzung: Beirat Untere Naturschutzbehörde (35. Sitzung) (2020-02-04)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/55356
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/31748
