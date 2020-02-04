@@ -1,0 +1,63 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-02-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5607876
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5607876
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung und Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 15.01.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative „Seele einer Stadt“ Projekt „München - Seele einer Stadt“ vom 01.02.2020 – 01.02.2021 1.480,00€, Az. 0262.0-19-0296
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Die kleinen Sänger" Operettenprojekt „Orpheus in der Unterwelt“ vom 31.01.2020 – 31.07.2020 1.575,00€; Az. 0262.0-19-0299
+- TOP 3.4.: (E) Stadtbezirksbudget Feierwerk e.V. Künstlerarbeiten vom 31.01. - 30.06.20 3.611,25 €; Az. 0262.0-19-3000
+- TOP 3.5.: (E) Stadtbezirksbudget SehT UG (haftungsbeschränkt) Anschubfinanzierung vom 29.01.2020 – 31.12.2020 21.532,54€, Az. 0262.0-19-0298
+- TOP 3.6.: (E) Stadtbezirksbudget Evangelisch – Lutherische Kirchengemeinde München-Andreaskiche Adventskonzert am 06.12.2020 2.300,00€; Az. 0262.0-19-0301
+- TOP 3.7.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. MFM – Workshop vom 12.05.2020 – 23.06.2020 600,00€; Az. 0262.0-19-0302
+- TOP 3.8.: (E) Stadtbezirksbudget Förderverein “Lernen fördern“ e.V. Projekt „2schneidig“ vom 30.03.2020 bis 31.03.2020 800,00€; Az. 0262.0-19-0303
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Anbringung einer Grenzmarkierung vor der Grundschule Walliser Straße
+- TOP 5.1.2: Umgestaltung Fußgängerüberweg Tölzer Straße
+- TOP 5.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes Widmung der Gesamtstrecke des Christel-Küpper-Platzes
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Hol- und Bringzone Kita Drygalski-Allee
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Verlängerung Tempo-30-Zone Boschetsrieder Straße
+- TOP 5.5.: (Antrag) Einrichtung einer Bushaltestelle an der Ecke Springerstraße/ Herterichstraße
+- TOP 5.6.: Verkehrssituation Einkaufsmarkt Machtlfinger Straße/ Boschetsrieder Straße
+- TOP 5.7.: Absolutes Halteverbot Forstenrieder Allee 247
+- TOP 5.8.: Absolutes Halteverbot Forstenrieder Allee 97-147
+- TOP 5.9.: (Antrag) Radfahrsituation Herterichstraße
+- TOP 5.10.: (Antrag) S-Bahnhof Solln
+- TOP 5.11.: (Antrag) Radweg Forstenried
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Betriebsbeschreibung und Verkehrsgutachten: Sonderpädagogisches Förderzentrum Allescher Straße
+- TOP 6.4.: (U) Grundstücksgeschäft: Gmunder Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Erklärende Zusatzschilder an Straßennamen im Stadtbezirk 19
+- TOP 8.3.: (A) Veranstaltung: Forstenrieder Volkslauf am 28.03.2020
+- TOP 8.4.: (U) Gaststättenfortführung: Züricher Straße 35
+- TOP 8.5.: (E) Atelier- und Kulturareal Thalkirchen BV-Empfehlung Nr. 14-20 / E 02512; Sitzungsvorlage Nr. 14-20 / V 17294
