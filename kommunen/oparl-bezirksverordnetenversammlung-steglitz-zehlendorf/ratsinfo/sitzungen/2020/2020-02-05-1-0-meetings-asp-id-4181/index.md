@@ -1,0 +1,51 @@
+# 16. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-02-05T17:00:00+01:00
+- Ende: 2020-02-05T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4181
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4181
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 08.01.2020 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - vertagt
+- TOP 4.2: Stärkung des ÖPNV am Hindenburgdamm - vertagt
+- TOP 4.3: Schulwegsicherung Erich-Kästner-Grundschule - vertagt
+- TOP 4.4: Tempo 30 vor der Erich-Kästner-Grundschule - vertagt
+- TOP 4.5: Kreuzung Siemensstraße/Leonorenstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.6: Verkehrsführung „kleiner“ Teltower Damm - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.7: Spiegel Kreuzung Mühlenstraße/Echtermeyerstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Fußgängerüberweg im Dahlemer Weg Höhe Jägerndorfer Zeile einrichten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Fahrradwege sicherer machen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.10: Barrierefreie Wege zur Kirche - Bordsteinabsenkungen rund um die Martin-Luther-Kirche - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: Aufstellung eines Kunstwerkes auf dem Mittelstreifen vor dem Haus am Waldsee genehmigen - vertagt
+- TOP 4.12: Eine Lösung für das Be- und Entladen vor der Post am Hindenburgdamm 99, 12203 Berlin, dabei Kunden, Gewerbetreibende und Anwohner nicht verprellen! - vertagt
+- TOP 4.13: Fußgängerbrücke über den Teltowkanal in Verlängerung der Sachtlebenstraße - vertagt
+- TOP 4.14: Ampelkreuzung Fischerhüttenstraße/Potsdamer Straße mit Vorrangschaltung für Bus X11 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.15: LSA für den Radverkehr Machnower Straße/Teltower Damm - vertagt
+- TOP 4.16: Fahrrad-Abstellanlage Mexikoplatz - vertagt
+- TOP 4.17: Dialogdisplay zur Schulwegsicherung in der Leo-Baeck-Straße aufstellen - vertagt
+- TOP 4.18: Autofreie Bushaltestelle - vertagt
+- TOP 4.19: Verkehrssicherheit/Überholverbot in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 4.20: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 4.21: Stadtbildgerechter Umbau von Gaslaternen zu LED-Lampen - vertagt
+- TOP 4.22: Mindestanforderungen für die Sicherheit von Fahrradfahrer*innen in Steglitz-Zehlendorf herstellen und gewährleisten - vertagt
+- TOP 4.23: Halteverbot Chausseestraße Wannsee - vertagt
+- TOP 4.24: Maßnahmen Königstraße Wannsee - vertagt
+- TOP 4.25: Beschilderung Einbahnstraße Am Großen Wannsee - vertagt
+- TOP 4.26: Behindertengerechter Übergang Königstraße - vertagt
+- TOP 4.27: Maßnahmen Bushaltestelle und Fußgängerüberweg Kreuzung Königstraße / Chausseestraße - vertagt
+- TOP 4.28: Ruhe im Nieritzweg - vertagt
+- TOP 4.29: Asphaltierung der Tambacher Straße zwischen Brotteroder Straße und Marchandstraße - vertagt
+- TOP 4.30: Wilma-Rudolph-Schule: Breitbandanschluss endlich realisieren - vertagt
+- TOP 4.31: Angsträume beseitigen - vertagt
+- TOP 4.32: Parkkonzept für Zehlendorf-Mitte - vertagt
+- TOP 5: Verschiedenes - erledigt
