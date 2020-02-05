@@ -1,0 +1,7 @@
+# TOP 26.2: Antrag des Nachbarschaftsheims Wuppertal e.V. auf finanzielle Unterstützung der Veranstaltung " Tag des guten Lebens"
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld (2020-02-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/97549
+- Ergebnis: ungeändert beschlossen
