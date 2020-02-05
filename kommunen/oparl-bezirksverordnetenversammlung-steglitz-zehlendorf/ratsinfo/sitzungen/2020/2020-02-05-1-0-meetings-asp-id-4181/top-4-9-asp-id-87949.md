@@ -1,0 +1,8 @@
+# TOP 4.9: Fahrradwege sicherer machen
+
+- Sitzung: 16. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau (2020-02-05)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=87949
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=87949
