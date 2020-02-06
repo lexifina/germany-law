@@ -1,0 +1,6 @@
+# TOP 10.1: Befreiungen von Bebauungsplanfestsetzungen im Zeitraum 01. Januar bis 31. Dezember 2019
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (46. Sitzung) (2020-02-06)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/29131
