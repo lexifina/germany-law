@@ -1,0 +1,6 @@
+# TOP 11.1: Euskirchener Straße 18 / Ringofen / Alte Bohle
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (46. Sitzung) (2020-02-06)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/29438
