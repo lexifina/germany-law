@@ -1,0 +1,90 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-06T14:00:00+01:00
+- Ende: 2020-02-06T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19025
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19025
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket 1. Nachlieferung öffentlicher Teil RAT 06.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370803.pdf
+- Ergebnisprotokoll: Sitzungspaket 1. Nachlieferung öffentlicher Teil RAT 06.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370803.pdf
+- Wortprotokoll: Sitzungspaket 1. Nachlieferung öffentlicher Teil RAT 06.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00370803.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung des Rates am 28.11.2019 (9/2019) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: „Haus der Kulturen“ erhält keine Fördermittel – wie geht es nun weiter? - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass des Ratsherrn Grenda: Grüne Welle - Audis Exklusivrecht in Düsseldorf - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Auftrag zu Verkaufsliste Kulturgebäude - schriftlich beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Rütz: Sanierungsvorhaben und Nutzungskonzept für den Kulturbahnhof Eller - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktion Tierschutz Freie Wähler: Flugreisen - beantwortet
+- TOP 5.2: Anfrage der Ratsfraktion Tierschutz Freie Wähler: Mietwillige mit Hunden - beantwortet
+- TOP 5.3: Anfrage der FDP-Ratsfraktion: Rasen vor dem KIT - beantwortet
+- TOP 5.4: Anfrage der FDP-Ratsfraktion: Einschränkung der Außenflächen Kinderhilfezentrum - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion Die Linke: Defender - 2020 - Truppenverlegungen durch Düsseldorf - beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion Bündnis 90/Die Grünen: Künstler*innen-Förderung durch Ateliers - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Die Linke: Vertreibung von Wohnungslosen - schriftlich beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Maniera: Freiwillige Aufnahme von Asylbewerber und Flüchtlingen - schriftlich beantwortet
+- TOP 5.9: Anfrage der Ratsfrau Opelt: Mangelhafte Bearbeitung von Duldungen im städtischen Integrationsamt: Wer trägt die Kosten? - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Opelt: Zusätzliche Aufnahme von Flüchtlingen und Migranten für Düsseldorf - Parteipolitik durch die Verwaltung? - schriftlich beantwortet
+- TOP 5.11: Anfrage des Ratsherrn Maniera: Fehlende Pflegeplätze in Düsseldorf - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Grenda: Elektroladesäulenkonzept / Zukunftsviertel Düsseldorf - schriftlich beantwortet
+- TOP 5.13: Anfrage des Ratsherrn Grenda: Das lange Warten auf den deutschen Pass in Düsseldorf - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfrau Dr. Strack-Zimmermann: WLAN in Jugendeinrichtungen - schriftlich beantwortet
+- TOP 5.15: Anfrage der Ratsfrau Dr. Strack-Zimmermann: Bergische Kaserne - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Krüger: Überwachungs-, Sicherheits- und Vorsorgemaßnahmen für wildlebende Tiere rund um den Wildpark, den Streichelzoo, den Hofgarten und weitere Orte im Stadtgebiet - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau Kraft-Dlangamandla: Rechtsgültigkeit der Düsseldorfer Vorgartensatzung - schriftlich beantwortet
+- TOP 5.18: Anfrage der Ratsfrau Krüger: Mittagsessen an Düsseldorfer Schulen - schriftlich beantwortet
+- TOP 5.19: Anfrage des Ratsherrn Dr. Wlecke: Mißbrauch mit Schülerausweisen - schriftlich beantwortet
+- TOP 5.20: Anfrage des Ratsherrn Dr. Wlecke: Bußgelder für Müllsünder - schriftlich beantwortet
+- TOP 5.21: Anfrage der Ratsfrau Mohaya: Coronavirus - schriftlich beantwortet
+- TOP 5.22: Anfrage der Ratsfrau Mohaya: Schulabgänger ohne Abschluss - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung und dem Nachhaltigkeits-Beirat (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 10: Neubau Haus der Jugend mit Kita und Azubi-Wohnen, Lacombletstraße 10, Stadtbezirk 2 (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 11: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss - - mehrheitlich beschlossen
+- TOP 11.1: Änderungsantrag der Ratsfraktionen Bündnis 90/Die Grünen und FDP zur Vorlage BAU/003/2019/1: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss – - zurückgezogen
+- TOP 11.2: Ergänzungsantrag der Ratsfraktionen Bündnis 90/Die Grünen und FDP zur Vorlage BAU/003/2019/1: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss – - einstimmig beschlossen
+- TOP 11.3: Änderungsantrag der Ratsfraktionen Bündnis 90/Die Grünen, FDP und CDU zur Vorlage BAU/003/2019/1: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss - - mehrheitlich abgelehnt
+- TOP 12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - mehrheitlich beschlossen
+- TOP 13: Konzept zur Internationalisierung www.duesseldorf.de - einstimmig beschlossen
+- TOP 13.1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage RAT/159/2019: Konzept zur Internationalisierung www.duesseldorf.de - mehrheitlich abgelehnt
+- TOP 14: Präventionskonzept für Kinder, Jugendliche und junge Erwachsene in Düsseldorf - einstimmig beschlossen
+- TOP 15: Mitgliederversammlung des Städtetages NRW vom 25. bis 26. Mai 2020 in Essen -Bestellung stimmberechtigter Delegierter- - einstimmig beschlossen
+- TOP 16: Ersatzwahl eines stellvertretenden Mitgliedes der im Bereich des Jugendamtes wirkenden und anerkannten Träger der freien Jugendhilfe in den Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 17: Umbesetzung in der Kunstkommission Düsseldorf - einstimmig beschlossen
+- TOP 18: Neuwahl einer Schiedsperson - zurückgezogen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Bebauungsplan-Entwurf Nr.04/007 - Hansaallee/Niederkasseler Lohweg - mehrheitlich beschlossen
+- TOP 21: Flächennutzungsplan-Änderung Nr. 180 - Vogelsanger Weg- Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 22: Anträge
+- TOP 22.1: Antrag der Ratsfraktionen SPD und Bündnis 90/Die Grünen: Förderung des Radtourismus in Düsseldorf - mehrheitlich beschlossen
+- TOP 22.1.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage RAT/072/2019: Förderung des Radtourismus in Düsseldorf - abweichend beschlossen
+- TOP 22.2: Antrag der CDU-Ratsfraktion: "Videoguide Düsseldorf" für Tourismus-Marketing nutzen - zurückgezogen
+- TOP 22.3: Antrag der FDP-Ratsfraktion: Zugang zum Tour de France-Vertrag für alle Düsseldorfer Bürgerinnen und Bürger öffnen - abweichend beschlossen
+- TOP 22.4: Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/Die Grünen und FDP: Respekt für Rettende, Helfende und Personen mit öffentlichen Aufgaben - einstimmig beschlossen
+- TOP 22.5: Antrag der CDU-Ratsfraktion: Unterstützung des Brauchtums in Düsseldorf - zurückgezogen
+- TOP 22.6: Antrag der Ratsfraktion Die Linke: Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus - abweichend beschlossen
+- TOP 22.6.1: Änderungsantrag der Ratsfraktionen Bündnis 90/Die Grünen, SPD und FDP zur Vorlage RAT/021/2020: Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus - mehrheitlich beschlossen
+- TOP 22.7: Antrag der Ratsfraktion Die Linke: Autofreier Tag und kostenloser ÖPNV aus Anlass des Metro-Marathons am 26.04.2020 und des Japan-Tages am 16.05.2020 - mehrheitlich abgelehnt
+- TOP 22.7.1: Änderungsantrag der Ratsfraktion SPD zur Vorlage RAT/023/2020: Autofreier Tag und kostenloser ÖPNV aus Anlass des Metro-Marathons am 26.04.2020 und des Japan-Tages am 16.05.2020 - mehrheitlich beschlossen
+- TOP 22.8: Antrag der CDU-Ratsfraktion: Für eine kulturelle Nachnutzung des Hofgärtnerhauses
+- TOP 22.9: Antrag der CDU-Ratsfraktion: Verlegung Abstellbahnhof Düsseldorf untersuchen
+- TOP 22.10: Antrag der Ratsfraktionen FDP und Bündnis 90/Die Grünen: Brand im Krefelder Zoo
+- TOP 22.11: Antrag der Ratsfraktionen Bündnis 90/Die Grünen, SPD und FDP: Aufnahme alleinreisender geflüchteter Kinder aus Flüchtlingslagern in Griechenland
+- TOP 22.12: Antrag der Ratsfraktionen Bündnis 90/Die Grünen, SPD und FDP: Ateliers und Atelierwohnungen
+- TOP 22.12.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage RAT/037/2020: Ateliers und Atelierwohnungen
+- TOP 22.13: Antrag der Ratsfraktionen Bündnis 90/Die Grünen und FDP: Verkehrserschließung großer Gewerbebauprojekte
+- TOP 22.13.1: Änderungsantrag der Ratsfraktionen von SPD, Bündnis 90/Die Grünen und FDP zur Vorlage RAT/038/2020: Verkehrserschließung großer Gewerbeprojekte
+- TOP 23: Bewerbung für das Festival „Politik im Freien Theater“ im Jahr 2021 - einstimmig beschlossen
+- TOP 24: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellungen- - abweichend beschlossen
+- TOP 25: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr -Ersatzbestellungen- - einstimmig beschlossen
