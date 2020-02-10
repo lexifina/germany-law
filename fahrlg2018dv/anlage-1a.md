@@ -1,5 +1,7 @@
-# Anlage 1a (zu § 2a) Musterplan für den Fahrschulbetriebswirtschaftslehrgang
+# Anlage 1a (zu § 2a)
 
+Musterplan
+für den Fahrschulbetriebswirtschaftslehrgang
 | Abschnitt | UE | Sachgebiet | Lehrkraft |
 | 1. | 1 | Einführung | Jurist, Betriebswirt, Fahrlehrer |
 | 2. | 12 | Die Fahrschule |  |

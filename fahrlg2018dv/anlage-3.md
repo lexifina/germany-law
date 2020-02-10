@@ -1,5 +1,6 @@
-# Anlage 3 (zu § 6 Absatz 1) Ausbildungsnachweis
+# Anlage 3 (zu § 6 Absatz 1)
 
+Ausbildungsnachweis
 Ausbildungsnachweis für Klasse ____________________
 gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 der Fahrschüler-Ausbildungsordnung
 |  |  |  |  |  |
