@@ -1,0 +1,9 @@
+# TOP 7.: Denkmalliste der Stadt Solingen hier: Prinzenstraße 2a
+
+- Sitzung: Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (44. Sitzung) (2020-02-10)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/55440
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/31740
+- Beschluss (Datei): Beschlusstext (Denkmalliste der Stadt Solingen
+hier: Prinzenstraße 2a) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQIdtWu6W-NLguLPBeIwMHh8ILKn3jgHvJP9BZReYIXs/Beschlusstext_6545-2020_-oeffentlich-_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_10.02.2020.pdf
