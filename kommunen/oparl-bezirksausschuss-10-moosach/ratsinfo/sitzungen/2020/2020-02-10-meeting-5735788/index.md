@@ -1,0 +1,58 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5735788
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5735788
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule, Kultur und Budget
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Nutzbarkeit des Festplatzes am St.-Martins-Platz für die Boule-Gruppe des Moosacher Kulturvereins DIE LINIE 1 verbessern und Aufstellung von Sitzbänken
+- TOP 2.2.: Errichtung Parkverbot in der Gaggenaystraße
+- TOP 3.2.1.: Ideen für den Radwegausbau zwischen Obermenzing - Moosach - Nymphenburg (-> vertagt aus Sitzung am 20.01.2020)
+- TOP 3.3.1.: Bauvorhaben: 1. Baldurstr. 9
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Schweidnitzer Str. 18 Haus 1 (-> BV siehe TOP 3.3.1.1) 2. Schweidnitzer Str. 18 Haus 2 (-> BV siehe TOP 3.3.1.2) 3. Schweidnitzer Str. 18 Haus 3 (-> BV siehe TOP 3.3.1.3) 4. Schweidnitzer Str. 18 Haus 4 (-> BV siehe TOP 3.3.1.4) 5. Schweidnitzer Str. 18 Haus 5 (-> BV siehe TOP 3.3.1.5) 6. Gärtnerstraße
+- TOP 4.1.1.: Fortsetzung des Baumgrabens in der Feldmochinger Straße
+- TOP 4.1.2.: Umgestaltung der Straßenkreuzung Hugo-Troendle-Straße/ Karlingerstraße/ Nanga-Parbat-Straße
+- TOP 4.1.3.: Schlechter Straßenzustand der Franz-Fihl-Straße und ungeregeltes Parken
+- TOP 4.1.4.: Neubewertung der Mehrfachtötung am 22.07.2016 am OEZ und entsprechende Ergänzung des Denkmals (Text)
+- TOP 4.3.1.: Anbringung eines Verkehrsschildes oder einer Zusatzampel an der Kreuzung Bauberger-/ Netzerstraße
+- TOP 4.3.2.: Angebot einer Informationsmöglichkeit zur ökologischen Garten- und Balkongestaltung in der Bürgerversammlung 2020
+- TOP 4.4.1.: Anfrage: Grund für die Rodungsarbeiten auf dem Rangierbahnhofsgelände in Moosach
+- TOP 5.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil am 12. + 14.02.2020 1.500,00 € / Az. 0262.0-10-0204
+- TOP 5.2.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Moosach e.V. Anschaffung von Fahrzeug-/Geräteaufrüstung 6.463,39 € / Az. 0262.0-10-0206
+- TOP 5.3.: (E) Stadtbezirksbudget Elternbeirat des Kindergartens St. Martin Dreifuß-Modell vom 01.01. - 31.12.2020 8.668,20 € / Az. 0262.0-10-0207
+- TOP 6.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchuG) und des Bayerischen Naturschutzgesetzes (BayNatSchuG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 6.2.: Veranstaltung in der städtischen Grünanlage Simmerleinplatz: a) Wintergrillen am 15.02.2020; b) Pflanzentauschbörse am 09.05.2020
+- TOP 6.3.: Baumfällungen (Baumschutz): 1. Benzstr. 6 2. Eggmühler Str. 1 3. Eininger Str. 25 4. Görlitzer Str. 9 5. Hanauer Str. 42
+- TOP 6.4.: Sondernutzung auf öffentlichem Verkehrsgrund: Erinnerungszeichen für Dirk Koedoot am 20.02.2020; Pressetermin OB
+- TOP 7.1.: Aufstellen eines Toilettenhäuschens für Busfahrer in der Dessauer Straße [Schreiben BA 10 vom 19.09.2019; mobile Toilette wird vom Baureferat abgelehnt, aber Verlag gegenüber Endhaltestelle gewährt Zugang zu dortigen Sanitäranlagen.]
+- TOP 7.2.: Behinderungen des öfentlichen Fuß- und Radweges durch die private Baustelle an der Pelkovenstr. 66 [Bürgeranliegen vom 17.01.2020; KVR prüft Freigabe und zusätzlich teilweise Wieder-Öffnung der Leipziger Straße für Fahrverkehr.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Walter-Flex-Straße; Öffnung Einbahnstraße für gegenläufigen Radverkehr 2. Quedlinburger Str. 9-11; Errichtung Absperrschranke zur Freihaltung Einmündung Gehweg Batzenhoferstraße
+- TOP 8.3.: Baumschutz in der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20/V 16921); hier: Beschluss VB neu nach Änderungsanträgen
+- TOP 8.4.: (U) Satzung zur Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München (Mieterbeiratssatzung) Gleichstellung bei der Besetzung des Mieterbeirates
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: Zweckentfremdung von Wohnraum durch Abbruch: Hardenbergstraße - nicht-öffentlich -
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4.: Anträge
