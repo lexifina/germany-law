@@ -1,0 +1,25 @@
+# 36. öffentliche Sitzung des Ausschusses für Haushalt, Wirtschaft, Verwaltung und Gleichstellung
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-02-10T17:05:00+01:00
+- Ende: 2020-02-10T19:20:00+01:00
+- Ort: Karl-Marx-Straße 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4066
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4066
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Annahme der Tagesordnung - erledigt
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Durchführung einer Veranstaltung zur Zukunft des Philip-Morris-Geländes - vertagt
+- TOP 4: Mädchen- und Frauen-Sportfest - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Sondernutzung auf dem Böhmischen Platz - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - vertagt
+- TOP 7: Einrichtung E-Bike-Sharing im Bezirksamt - mit Änderungen im Ausschuss beschlossen
+- TOP 8: Mitteilungen der Verwaltung - erledigt
+- TOP 9: Verschiedenes - erledigt
+- TOP 10: Protokollabstimmung der 33. und 34. Sitzung - erledigt
+- TOP 11: Nächste Sitzung am 09. März 2020 - erledigt
