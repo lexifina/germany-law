@@ -315,7 +315,7 @@ Mitgliedstaat der Europäischen Union
 - [§ 97b Übermittlung personenbezogener Daten](0097b.md)
 - [§ 97c Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle](0097c.md)
 
-## Zwölfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
+## Zwölfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen (doppelt)
 
 - [§ 98 Vorrang des Elften Teils](0098.md)
 - [§ 99 Grundsätzliche Pflicht zur Bewilligung](0099.md)
