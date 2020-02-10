@@ -176,6 +176,8 @@
 ## Kapitel 9 Straf- und Bußgeldvorschriften
 
 - [§ 63 Bußgeldvorschriften](0063.md)
+- [§ 63a (weggefallen)](0063a.md)
+- [§ 63b (weggefallen)](0063b.md)
 
 ## Kapitel 10 Bekämpfung von Leistungsmissbrauch
 

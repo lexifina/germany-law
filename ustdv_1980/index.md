@@ -36,7 +36,7 @@ Ausfuhr](0012.md)
 
 ## - Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes
 
-- [§ 17a Gelangensvermutung beiinnergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017a.md)
+- [§ 17a Gelangensvermutung bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017a.md)
 - [§ 17b Gelangensnachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen](0017b.md)
 - [§ 17c Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen](0017c.md)
 - [§ 17d Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen](0017d.md)
