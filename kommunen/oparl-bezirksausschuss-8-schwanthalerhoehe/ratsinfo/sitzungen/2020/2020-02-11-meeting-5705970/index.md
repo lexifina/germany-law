@@ -1,0 +1,69 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5705970
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5705970
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Geplante Erweiterung der Freischankfläche der Gaststätte Bürgerheim
+- TOP 6.2.1.: Bauvorhaben Anglerstraße 12
+- TOP 6.2.2.: Bauvorhaben Astallerstr. 7
+- TOP 6.3.1.: Errichtung von öffentlichen WC-Anlagen am Georg-Freundorfer-Platz und am Gollierplatz
+- TOP 6.3.2.: Informationsveranstaltung für die Anwohner zur Bebauung des MK3-Grundstücks an der Hans-Fischer-Straße 9 durch die Firma Rischart im März 2020
+- TOP 6.3.3.: Gastronomie "Kiosk Bar" in der Parkstraße 25 - Antwortschreiben
+- TOP 6.3.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Liste der Standorte für Flüchtlinge und Wohnungslose in München
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Nutzung der Theresienwiese 2020
+- TOP 8.2.2.: Baumfällung Anglerstraße 19
+- TOP 8.2.3.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 8.2.4.: Straßenbaumaßnahme Geroltstraße 12
+- TOP 8.2.5.: Straßenbaumaßnahme Landsberger Str. 4 - 20
+- TOP 8.2.6.: Errichtung eines allgemeinen Behindertenparkplatzes in der Guldeinstraße vor dem Gebäude Astallerstr. 14
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Anwohnerparken in der Schießstättstraße
+- TOP 8.3.2.: Verbesserung der Parksituation für Anwohner in der Gollierstraße zwischen Bergmann- und Trappentreustraße
+- TOP 8.3.3.: Blindengerechter Umbau der Ampelanlage an der Trambahnhaltestelle Barthstraße; Verkürzung der Anforderungszeiten für Fußängergrün
+- TOP 8.3.4.: Versammlung am 14.02.2020 in der Bergmannstraße 47 - 49
+- TOP 8.3.5.: Meldelisten Bauvorhaben SWM
+- TOP 8.3.6.: Unterhalts- und Pflegemaßnahmen im Bavariapark
+- TOP 8.3.7.: Umwandlung von zwei Kfz-Parkplätzen vor dem Anwesen Schwanthalerstraße 125 in Fahrradstellplätze
+- TOP 8.3.8.: Verbesserung der Abstellsituation von E-Tretrollern durch Einrichtung gesonderter Abstellflächen – Austausch am 20.02.2020, 17:00 Uhr
+- TOP 8.3.9.: Einladung zum Workshop Radl-Übungsplatz auf der Theresienwiese am 18.02.2020, 14:00-16:00 Uhr
+- TOP 8.3.10.: Dialogdisplays in der Schrenkstraße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Initiative „Bühnenprogramm“ Bühnenprogramm und Musikaufführungen während des Weihnachtsmarktes vom 25.11.2019 – 24.12.2019 4.050,00€, Az. 0262.0-8-0199
+- TOP 9.1.2.: (E) Stadtbezirksbudget Initiative Streetart-Projekt Streetart-Projekt vom 10.02.2020 – 22.02.2020 895,00€; Az. 0262.0-8-0205
+- TOP 9.1.3.: (E) Stadtbezirksbudget Strandkorb. Laden für neue Perspektiven. Konzert „Black Patti – Blues“ am 16.07.2020 478,00€
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Austausch der BA-Vorsitzenden mit dem Oberbürgermeister vom 28.05.2019
+- TOP 11.2.: (E) + (U) Strategie zur Förderung von inhabergeführten Betrieben Empfehlung Nr. 14-20 / E 02582 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 11.3.: Demokratie-Café am 20.02.2020 und am 27.03.2020 im Sozialhilfezentrum München
+- TOP 12.1.: Protokoll der BA-Sitzung vom 14.01.2020
