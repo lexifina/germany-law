@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-02-11T19:00:00+01:00
+- Ende: 2020-02-11T00:00:00+01:00
+- Ort: Schwelmer Str. 15a (Zugang über den Hof), 1.OG, 42389 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18332
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18332
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00251693.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00252393.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 1.1: Aushändigung der Ehrennadel an Karl Grünewald und Andreas Bialas
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Antworten sowie Anfragen und Anregungen an die Verwaltung
+- TOP 3.1: Rastplätze entlang der Nordbahntrasse - s. TOP 8 Sitzung 10.09.2019 (SI/0571/19), VO/0698/19
+- TOP 3.2: Bauleitplanverfahren der Stadt Schwelm für ein Nahversorgungsstandort - s. TOP 16 Sitzung 08.10.2019 (SI/0655/19), VO/0893/19
+- TOP 3.3: Neubau Hauptschule Dieckerhoffstraße - s. TOP 3 Sitzung 03.12.2019 (SI/0573/19)
+- TOP 3.4: Bautätigkeiten Ehrenberger Straße ehemals Haus Kramer - s. TOP 3 Sitzung 03.12.2019 (SI/0573/19)
+- TOP 4: Aktueller Sachstand zum Schadensereignis Beyeröhde
+- TOP 5: Neubau Vereinsheim TV Beyeröhde
+- TOP 6: Langerfeld-Trasse
+- TOP 6.1: Langerfeld-Trasse
+- TOP 6.2: Langerfeld-Trasse - Entgegennahme ohne Beschluss
+- TOP 7: Ausbau der offenen Ganztagsschule um 225 Plätze zum Schuljahr 2020/2021 - ungeändert beschlossen
+- TOP 8: Maßnahmen zur Verbesserung der Umsetzung der Rechte der Bezirksvertretungen - ungeändert beschlossen
+- TOP 8.1: Umsetzung der Gemeindeordnung von 1974 und 1994 - ungeändert beschlossen
+- TOP 9: Konzept "Neue Wohnbauflächen für Wuppertal" - ungeändert beschlossen
+- TOP 10: Stellplatzsatzung der Stadt Wuppertal - vertagen
+- TOP 11: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - vertagen
+- TOP 12: Einrichtung von Tempo 30-Strecken vor schützenswerten Einrichtungen - ungeändert beschlossen
+- TOP 13: Evaluation des Bürgerbudgets 2019 - Entgegennahme ohne Beschluss
+- TOP 14: Jahresbericht 2019 der Stabsstelle Bürgerbeteiligung und Bürgerengagement - Entgegennahme ohne Beschluss
+- TOP 15: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - Entgegennahme ohne Beschluss
+- TOP 16: Sachstand zur Standortfindung für eine Fischaufzuchtanlage - Entgegennahme ohne Beschluss
+- TOP 17: Bau-Vorhabenprogramm des Gebäudemanagements Wuppertal für 2020 - Entgegennahme ohne Beschluss
+- TOP 18: Aufbringung von Flüsterasphalt auf der Nächstebrecker Straße - Entgegennahme ohne Beschluss
+- TOP 19: Fällung von Bäumen auf dem städtischen Grundstück Dahler Straße 59 - ungeändert beschlossen
+- TOP 20: Ergänzungsantrag zu VO/0717/19 - Straßenumbenennungen - ungeändert beschlossen
+- TOP 21: Unterhaltungspauschale GFG aus dem Budget 2020
+- TOP 21.1: Aufstellen eines Mastes in der Steinhauser Str. zur Anbringung eines Geschwindigkeits-Displays
+- TOP 21.2: Informationsschrank für Beyenburg - Am Kriegermal 19
+- TOP 22: Freie Mittel aus dem Budget 2020
+- TOP 22.1: Zuschuss an das Kindermuseum Beyeröhde 2. Rate über 2.000,- €
+- TOP 22.2: Antrag der Kanusport-Gemeinschaft Wuppertal e.V. vom 05.09.2019 auf Reparatur des Vereinsbusses
+- TOP 22.3: Antrag der evgl. Grundschule Dieckerhoffstr. vom 18.11.2019 für das Projekt "Mein Körper gehört mir"
+- TOP 22.4: Antrag der Stadtbibliothek Beyenburg vom 20.01.2020 auf faltbare Raumtrenner
+- TOP 22.5: Antrag des Fördervereins Gesamtschule Langerfeld vom 22.01.2020 für das Projekt Stadt, Land, Fluss
+- TOP 22.6: Antrag des DLRG e.V. vom 30.01.2020 auf div. Schwimmmittel
+- TOP 22.7: Eröffnungsfeier der Schwarzbachtrasse - Dankeschön der Bezirksvertretung
