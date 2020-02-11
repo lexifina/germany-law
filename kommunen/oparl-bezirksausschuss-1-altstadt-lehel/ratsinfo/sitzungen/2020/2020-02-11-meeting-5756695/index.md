@@ -1,0 +1,111 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2020-02-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5756695
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5756695
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP E 4.1.: Stadtbezirksbudget: Nachweise und Berichte
+- TOP A: Allgemeines
+- TOP B: Planen, Bauen, Wohnen
+- TOP 1.1.: Unverzügliche Errichtung des beschlossenen Neubaus des Pädagogischen Institutes zur Linderung der Raumnot an der Schulanlage in der Herrnstraße
+- TOP 1.2.: Bauvorhaben auf der Praterinsel (Isar), Bürgeranliegen
+- TOP 1.3.: Den Verkehr in unseren Vierteln weiterentwickeln, XX Sachstand zum Aufzug an der S-Bahnstation Isartor, Antrag der Fraktion B90-Die Grünen
+- TOP 3.1.1.: Theatinerstraße 36, Wohnraumerweiterung durch Errichtung eines Wintergartens im Teilbereich der Dachterasse, Änderung der Rauchableitungsöffnung und Raumaufteilung Gäste WC, Waschküche – TEKTUR
+- TOP 3.1.2.: Kapellenstraße 1, Erweiterung der Gaststätte
+- TOP 3.1.3.: Sendlinger Straße 34, Nutzungsänderung: Laden im EG (VGB), Arztpraxis im 1.+2. OG (jeweils VGB) und Wohnflächen im 1.+3. OG (jeweils VGB+RGB) zu Büroflächen
+- TOP 3.1.4.: Thierschstraße 42, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.5.: Viktualienmarkt, Umbau einer Gaststätte mit Erweiterung des Wirtsgartens, befristet auf 5 Jahre
+- TOP 3.1.6.: Widenmayerstraße, Kunst im öffentlichen Raum: Errichtung eines temporären Pavillons in Form einer auskragenden Aussichtsplattform auf der westlichen Uferseite der Isar sowie einer gegenüberliegenden Holzplattform auf der Schwindinsel (Widenmayerstr./Praterinsel)
+- TOP 3.1.7.: St.-Anna-Straße 25, Abbruch des Bestands und Neuerrichtung eines Wohngebäudes mit Laden und Atelier - TEKTUR
+- TOP 3.1.8.: St.-Anna-Straße 25, Baumfällung im Rahmen des unter 3.1.7 genannten Bauvorhabens
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Aktives lebenswertes Stadtviertel, VIII Anfrage zum innerstädtischen Verbot von privatem Feuerwerk, Antrag der Fraktion B90-Die Grünen
+- TOP 1.2.: Rücknahme der Erhöhung der städtischen Straßenreinigungsgebühren in der Müllerstraße; Bürgeranliegen
+- TOP 1.3.: Verkaufsplatz für den Turnus der Obst-Gemüse-Südfrüchtehändler, Sendlinger Straße; Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche vor dem Anwesen Marienplatz 8, Seite Dienerstraße
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: (E) Silvesterböllerei – nein danke!
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Geldbeutelwaschen am 26.02.2020 (Aschermittwoch) auf dem Marienplatz
+- TOP 3.1.2.: „Stijlmarkt“ am 07.03. und 08.03.2020 auf der Praterinsel
+- TOP 3.1.3.: Namenslesung zum Gedenken an den 77. Jahrestag der Deportation der Münchner Sinti & Roma am Platz der Opfer des Nationalsozialismus am 13.03.2020
+- TOP 3.1.4.: Parade zum St.Patricksday am 15.03.2020 und Veranstaltung auf dem Odeonsplatz am 14./15.03.2020
+- TOP 3.1.5.: Informationsveranstaltung der Rettungsstaffel der Johanniter-Unfallhilfe am 04.04.2020 auf dem sog. Odeonsplatz
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Geschwindigkeits- und Verkehrskontrollen in der Widenmayer- und Oettingenstraße
+- TOP 1.2.: München opfert seine Innenstadt, Bürgeranliegen zum Bebauungsplanverfahren am Georg-Kronawitter-Platz; vertagt aus der Sitzung am 21.01.2020
+- TOP 1.3.: Alternativvorschlag für die Gestaltung des Georg-Kronawitter-Platzes; Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.: Beseitigung des Bauschadens in der Seitzstraße 8
+- TOP 3.2.: Austausch der Klinker der Gehbahn in der St.-Anna-Straße
+- TOP 3.3.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Schulhofgestaltung an der St.-Anna Grundschule instand setzen und neu gestalten, Antrag der SPD-Fraktion
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative Internationaler Frauentag 2020 Internationaler Frauentag am 03.03.20 1.050,- €; Az. 0262.0-1-0189
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Gemeinsamer Austausch mit Herrn OB Reiter am 28.05.2019; ergänzendes Schreiben
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Satzung zur Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München (Mieterbeiratssatzung); Gleichstellung bei der Besetzung des Mieterbeirates; Sitzungsvorlage Nr. 14-20 / V 16891
+- TOP B 4.3.: Rückzug des Baumfällungsantrages im Rahmen des Bauvorhabens Reitmorstraße 30 Instandsetzung/Umbau eines Hochparterrefreisitzes mit Fahrrad- und Abfalllagerraum
+- TOP B 4.4.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.5.: (U) Publikation „Historisches Grün – Anlagen in der Münchner Altstadt und Umgebung“
+- TOP B 4.6.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Herzog-Wilhelm-Straße
+- TOP C 4.4.: Defektes Holzstangengeländer am Isarhochufer zwischen Max-Joseph-Brücke und Rosenbuschstraße; Antwortschreiben
+- TOP C 4.5.: Beeinträchtigung der Ladengeschäfte in der Theatinerstraße 35; Antwortschreiben auf Bürgeranliegen
+- TOP C 4.6.: Verbot von Heizstrahlern auf Freischankflächen und in Wirtsgärten
+- TOP C 4.7.: Heizstrahler auf Freischankflächen verbieten - Prüfverfahren für umweltverträglichere Heizmöglichkeiten erarbeiten
+- TOP C 4.8.: Entfernen der Graffiti am Kulturbunker Blumenstraße 22, Antwortschreiben auf BA-Anfrage
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Änderung bzw. Ergänzung der verkehrsrechtlichen Erlaubnis für die Baustelle an der Tiefgarage Thomas Wimmer Ring (Erlaubnis vom 13.01.2020 bis 30.09.2021)
+- TOP D 4.2.: Altstadt-Radlring - Abschnitt Thomas-Wimmer-Ring; Stellungnahme des BA-Vorsitzenden zur Sitzungsvorlage Nr. 14-20 / V 17498
+- TOP D 4.3.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Weichenwartung Tram, Ausnahmezulassung
+- TOP D 4.4.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP D 4.5.: Innerstädtischer Isarraum, Stadtratsauftrag zur Durchführung eines Verkehrsversuchs mit einer Fahrstreifenreduktion in der Steinsdorfstraße im Bereich der Lukaskirche vom 26.06.2019
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
