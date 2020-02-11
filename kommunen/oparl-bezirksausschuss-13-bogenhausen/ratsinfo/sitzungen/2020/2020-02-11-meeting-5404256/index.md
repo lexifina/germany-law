@@ -1,0 +1,127 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2020-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5404256
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5404256
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.1.: Kassenbericht 2019
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.2.: Ismaninger Str. 74: Sanierung Baudenkmal mit neu 14 Wohnungen (Bestand: 13 WE), Anbau neuer Balkone, Lifteinbau Treppenhaus, DG-Ausbau - TEKTUR; Anhörung des Referats für Stadtplanung und Bauordnung vom 14.01.2020
+- TOP 2.2.3.: Effnerstr. 130: Erweiterung eines Shopgebäudes zur Ergänzung des Gastronomieangebots durch Einbau eines Schnell-Restaurants ("Burger King") - VORBESCHEID; Anhörung des Referats für Stadtplanung und Bauordnung vom 14.01.2020
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 14.01.2020
+- TOP 2.2.1.: Maßnahmen zur Luftreinhaltung gemeinsam erarbeiten anstatt sie über die Köpfe der Bürger hinweg zu beschließen - Vorstellung/Austausch durch die Stadtverwaltung - gemeinsame Sitzung der UA&#039;s Planung und Verkehr -
+- TOP 2.2.4.: LED-Straßenbeleuchtung in Bogenhausen; Antrag der CSU-Fraktion vom 15.01.2020
+- TOP 2.2.5.: Entlastung von Mietern durch Mieterstrom; Antrag der CSU-Fraktion vom 14.01.2020
+- TOP 2.3.1.: (E) Aufklärungskampagne der Rechten und Pflichten von Radfahrern sowie Autofahrern
+- TOP 2.3.2.: (E) Neuherstellung der Oberföhringer Straße zwischen Herkomerplatz und Mauerkircherstraße (Abfahrt) sowie der kompletten Mauerkircherstraße Empfehlung Nr. 14-20 / E 02968 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 24.10.2019
+- TOP 2.3.3.: (E) Erneuerung des Straßenbelags der Oberföhringer Straße (vom Herkomerplatz bis St. Emmeramsmühle) Empfehlung Nr. 14-20 / E 02949 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 24.10.2019
+- TOP 2.3.4.: (E) Befestigung des Bereichs vor den Altglascontainern nahe dem Wilhelm-Hausenstein-Gymnasium Empfehlung Nr. 14-20 / E 02938 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 24.10.2019
+- TOP 2.3.5.: Beetzstr. 15: Reparatur/Wiederherstellung des Gehwegs aufgrund Bauschaden; Anhörung des Baureferats vom 07.01.2020
+- TOP 2.3.6.: Straßenunterhaltsmaßnahmen Mauerkircherstr. 155 - 167: Fahrbahndeckensanierung; Anhörung des Baureferates vom 24.01.2020
+- TOP 2.3.7.: Straßenunterhaltsmaßnahmen Mauerkircherstr. 35 - 59: Fahrbahndeckensanierung; Anhörung des Baureferates vom 24.01.2020
+- TOP 2.3.8.: Denninger-/Vollmannstr.: Austausch von Lichtsignalanlagen; Anhörung des Kreisverwaltungsreferats vom 23.01.2020
+- TOP 2.3.9.: Parkraummangement – zukünftige Regelung (Bericht des Ortstermins am 18.09.2020); Unterrichtung des Kreisverwaltungsreferats vom 28.01.2020
+- TOP 2.3.10.: Cuvilliérsstraße und Lamontstraße: Errichtung von Kurzzeit-Parkplätzen; Unterrichtung des Kreisverwaltungsreferats vom 27.01.2020
+- TOP 2.3.11.: Mehr Verkehrssicherheit auf der Richard-Strauss-Straße; Antrag der FDP-Fraktion vom 12.11.2019 (Bericht des Ortstermins am 10.02.2020)
+- TOP 2.3.12.: Wertstoffsammelstelle Daglfing: Standortvorschlag Kunihohstraße; Antrag der Fraktion DaCG/ÖDP vom 24.11.2019 (Bericht des Ortstermins am 05.02.2020)
+- TOP 2.3.13.: Verbesserung der Umsteigebeziehung am Effnerplatz; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 23.01.2020
+- TOP 2.3.14.: Fahrrad-Schutzstreifen an der Eggenfeldener Straße: Aufnahme in Maßnahmenbündel zur Umsetzung des Radentscheids; Antrag der Fraktion DacG/ÖDP vom 26.01.2020
+- TOP 2.3.15.: Fahrradstraße Grimmelshausenstraße prüfen; Antrag der Fraktion DacG/ÖDP vom 26.01.2020
+- TOP 2.3.16.: Antrag auf Verkehrsberuhigung auf dem Hermann Gmeiner Weg, sowie in der Daglfinger Straße; Bürgeranliegen vom 14.10.2019 (Bericht des Ortstermins am 20.01.2020)
+- TOP 2.3.17.: Sofortige Einstellung der Baumaßnahme "Schaffung von mehr Parkplätzen am Rosenkavalierplatz", Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 31.01.2020
+- TOP 2.3.18.: Überdachung und Befestigung der Bushaltestelle Schwarzwaldstraße; Bürgeranliegen vom 17.12.2019
+- TOP 2.3.19.: 14 Anträge zur Verbesserung des Bogenhausener Busnetzes; Bürgeranliegen vom 03.01.2020 (einer wurde nachgereicht)
+- TOP 2.3.20.: Linie X30 Haltestellenbenutzung Moselstraße; Bürgeranliegen vom 19.01.2020
+- TOP 2.4.1.: (E) + (U) Ausbau der Transparenz und Information durch den Bezirksausschuss
+- TOP 2.4.2.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032; Anhörung des Direktoriums vom 16.12.2019
+- TOP 2.5.1.: Ortstermin mit der SWM für den BA-Antrag 14-20 / B 06726: Hanglage im Cosimabad für eine Kinderrutsche nutzen
+- TOP 2.5.2.: Hanglage im Cosimabad für eine Kinderrutsche nutzen
+- TOP 2.5.3.: Erstellung eines Flyers für „Jetzt schlägst´s 13“ durch die Landeshauptstadt München - Bestellung städtischer Leistung; Antrag aus der Sitzung des UA BKSS vom 14.01.2020
+- TOP 2.5.4.: Nutzung des Sportplatzes an der Ruth-Drexel-Schule - Beschilderung; Bürgeranliegen vom 26.01.2020
+- TOP 2.5.5.: Lärmbelästigung Basket-/Streetplatz Sportplatz an der Ruth-Drexel-Schule durch Jugendliche; Bürgeranliegen vom 10.12.2019
+- TOP 2.5.6.: Erweiterung und Umbau des Spielplatzes am Shakespeareplatz; Bürgeranliegen vom 26.11.2019
+- TOP 2.6.1.: Baumfällungen (Anhörungen) Adalbert-Stifter-Str. 15 Buschingstr. 1 Felix-Dahn-Str. 8 Flensburger Str. 49 Lamontstr. 9 Masurenstr. 3 Mauerkircherstr. 1 Mauerkircher Str. 1a (vertagt aus der Sitzung vom 14.01.2020) Memeler Str. 82 Normannenpl. 28 Oberföhringer Str. 91 Ostpreußenstr. 48 - 50 Pienzenauerstr. 118 Prinzregentenstr. 159 An der Schanze 1
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): EnglschalkingerStr. 136-146: 1 Rotbuche, 4 Schwarzkiefern, 1 Bergkiefer, 1 Ulme; Leutweinstraße 30: 1 Blaufichte; Mauerkircherstr. 51: 1 Schwarzkiefer
+- TOP 2.6.3.: (E) Nur noch kommunale Feuerwerke zu Silvester
+- TOP 2.6.4.: (E) Verbot von privaten Silvesterfeuerwerken in ganz München
+- TOP 2.6.5.: (E) Anbringung von Hundekotbeutelspendern im Zamilapark Empfehlung Nr. 14-20 / E 02932 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 24.10.2019
+- TOP 2.6.6.: (Verbots-)regelungen für den Betrieb von Laubbläsern - Entwurf der Sitzungsvorlage; Anhörung des Referats für Gesundheit und Umwelt vom 08.01.2020
+- TOP 2.6.7.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München; Anhörung der Referates für Stadtplanung und Bauordnung vom 17.01.2020
+- TOP 2.6.8.: Streuobstwiesen in städtischen Parkanlagen sowie auf Landwirtschafts- und Naturschutzflächen anlegen; Antrag der SPD- und FDP-Fraktion vom 12.12.2019 (geänderte Version vom 19.01.2020)
+- TOP 5.1.: Veranstaltung in städtischen Grünanlagen: Sommerfest Phorms am 14.07.2020 im Bürgermeistergarten (Ismaninger-/Händelstr.); Anhörung des Kreisverwaltungsreferats vom 23.12.2019
+- TOP 5.2.: An der Cosimastr./Englschalkinger Str.: Zirkusgastspiel vom 04.03.2020 bis 29.03.2020; Anhörung des Kommunalreferats vom 08.01.2020
+- TOP 5.3.: An der Cosimastraße/Englschalkinger Str.: Anfrage der Fläche für Korbwarenverkauf vom 15.03.2020-15.06.2020; Anhörung des Kommunalreferats vom 13.01.2020
+- TOP 6.1.: Kreuzung Richard-Strauss-Straße/Denninger Straße: Installation eines Grünpfeillichtzeichens
+- TOP 6.2.: Nichtberücksichtigung von kleinen Wohneinheiten bei Fernwärme, Gasanschluss und Internet
+- TOP 6.3.: Ampelschaltung an der Grenze Bogenhausen/Haidhausen; Kreuzung Villa Stuck: Ismaningerstr. in Fahrtrichtung Max Weber-Platz
+- TOP 6.4.: Kennzeichnung der Feuerwehrzufahrten am Fritz-Meyer-Weg 38-44
+- TOP 6.5.: Verbesserungsvorschläge zur Stadtökologie
+- TOP 6.6.: Mieterstrom-Projekte im Prinz-Eugen-Park bei GEWOFAG und GWG?
+- TOP 6.7.: Aufstellung von einem Hundekot-Tütenspender und Mülleimer am Parkplatz der Schrebergärten an der Küstnerstraße
+- TOP 6.8.: Gemeinsamen Rad- und Fußgängerüberweg am Bichlhofweg als solchen kennzeichnen
+- TOP 6.9.: Galileiplatz: Antrag auf Querungshilfe
+- TOP 7.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.3.: (U) Bebauungsplan mit Grünordnung Nr. 2151 Nördlich des Salzsenderweges und der Fideliostraße, südlich der Grimmeisenstraße und östlich des Ringofenweges Teiländerung des Bebauungsplanes Nr. 43 d - Aufstellungsbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.4.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2150 Richard-Strauss-Straße (östlich) Grundstück Fl.Nr. 214/17 (Teiländerung des Bebauungsplans Nr. 1325) - Einleitungs- und Aufstellungsbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.6.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030 a) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich I/43 Bebauungsplan mit Grünordnung Nr. 2156 Birkenfeldstraße / Heidelberger Straße (südlich), Sulzbacher Straße (westlich) und Simmernstraße (östlich) (Teiländerung der Bebauungspläne Nr. 75 und Nr. 1528) Stadtbezirk 12 Schwabing – Freimann b) Bebauungsplan mit Grünordnung Nr. XX Stuntzstraße (nördlich) Stadtbezirk 13 Bogenhausen c) Bebauungsplans mit Grünordnung Nr. XX Jakob-Kaiser-Straße / Theodor-Heuss-Platz (westlich) und Lüdersstraße (nördlich) (Teiländerung des Bebauungsplanes Nr. 57bq) Stadtbezirk 16 Ramersdorf – Perlach d) Berichtigung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich XX Bebauungsplan mit Grünordnung Nr. XX Theodolindenstraße (westlich) und Seybothstraße (östlich) (Änderung des Bebauungsplanes Nr. 672) Stadtbezirk 18 Untergiesing – Harlaching usw.
+- TOP 7.7.7.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: - Kulmer Str. 4 - Undinestr. 4 - Musenbergstr. 8
+- TOP 2.2.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.7.: Verschiedenes, Termine
+- TOP 2.3.21.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.22.: Verschiedenes, Termine
+- TOP 2.4.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.4.: Verschiedenes, Termine
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Verschiedenes, Termine
+- TOP 2.6.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.10.: Verschiedenes, Termine
