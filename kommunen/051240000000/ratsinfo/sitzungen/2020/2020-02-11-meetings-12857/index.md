@@ -1,0 +1,60 @@
+# öffentliche/nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-02-11T17:34:00+01:00
+- Ende: 2020-02-11T18:51:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12857
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12857
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00251213.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00252915.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Beirates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan GMW 2020 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Monitoring des Gebäudemanagements der Stadt Wuppertal (GMW) zum 31.12.2019 - Entgegennahme ohne Beschluss
+- TOP 3.2: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 30.11.2019 - Entgegennahme ohne Beschluss
+- TOP 3.3: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 31.12.2019 - Entgegennahme ohne Beschluss
+- TOP 3.4: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 31.12.2019 - Entgegennahme ohne Beschluss
+- TOP 3.5: Monitoring Wuppertal Marketing GmbH (WMG) 11/2019 - Entgegennahme ohne Beschluss
+- TOP 3.6: Monitoring Wuppertal Marketing GmbH (WMG) 12/2019 - Entgegennahme ohne Beschluss
+- TOP 3.7: Monitoring APH zum 30.11.2019 - Entgegennahme ohne Beschluss
+- TOP 3.8: Monitoring APH zum 31.12.2019 - Entgegennahme ohne Beschluss
+- TOP 3.9: Neufassung des Gesellschaftsvertrages der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Jahresbericht 2019 Personal- und Organisationsentwicklung - Entgegennahme ohne Beschluss
+- TOP 5.2: Sachstandsbericht zur Umsetzung der Digitalisierungsstrategie digiTAL 2023 - Entgegennahme ohne Beschluss
+- TOP 5.3: Bericht über den Sachstand zur Umsetzung der Ergebnisse der Organisationsuntersuchung im Team 104.11 „Verkehrslenkung und Ausnahmegenehmigungen“ - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Nutzung der Bundesbahndirektion durch die Stadtverwaltung - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Schulden und Kassenkredite zum 31.12.2019 - Entgegennahme ohne Beschluss
+- TOP 8.2: Bericht über den Sachstand der Umsetzung von Haushaltbeschlüssen - Entgegennahme ohne Beschluss
+- TOP 8.3: Verfahrensstand Bebauungsplan 1230 - Maßregelvollzugsklinik Kleine Höhe - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Sechste Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.2: Zustimmung zu dem von der Bezirksregierung Münster beschiedenen Ausgleichsfond gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2020 bis 31.12.2020 - ungeändert beschlossen
+- TOP 9.3: Richtlinien über die Förderung in Kindertagespflege und über die Festsetzung der Höhe der Geldleistung für Kindertagespflegepersonen nach § 23 SGB VIII - vertagt auf Rat
+- TOP 9.4: Umfeldgestaltung Berliner Platz und Schöneberger Ufer – Soziale Stadt Oberbarmen/Wichlinghausen - vertagen
+- TOP 9.5: Sanierung Brücke Germanenstraße - Genehmigung von überplanmäßigen Mitteln zur Schlussabrechnung - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Veröffentlichung des Prüfvermerkes der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2018 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
