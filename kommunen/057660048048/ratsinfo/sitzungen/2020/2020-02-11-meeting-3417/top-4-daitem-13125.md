@@ -1,0 +1,6 @@
+# TOP 4.: Einführung eines Verbrauchsmanagements; hier: Antrag der Fraktion Bündnis 90/Die Grünen
+
+- Sitzung: Betriebsausschuss Immobilien und Gebäudemanagement (20. Sitzung) (2020-02-11)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13125
