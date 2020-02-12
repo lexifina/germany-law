@@ -1,0 +1,64 @@
+# 44. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-02-12T17:33:00+01:00
+- Ende: 2020-02-12T20:54:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11700
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11700
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00456973.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Mobilfunknetz 5G - gesundheitliche, datenschutzrechtliche und ökologische Bedenken
+- TOP 2.2: Abfallaufkommen in der Stadtverwaltung
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 11: Zwischenbericht zum Gleichstellungsplan 2018-2021 - zur Kenntnis genommen
+- TOP 12: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen im 2. Halbjahr 2019 - zur Kenntnis genommen
+- TOP 13: Lastenradförderung: Kaufprämie und Abstellanlagen - mehrheitlich beschlossen
+- TOP 14: Projekt S-Bahn-Münsterland - einstimmig beschlossen
+- TOP 15: Fahrplanmaßnahmen 2020 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 16: Offene Ganztagsschulen in Münster - Bericht 2020 - einstimmig beschlossen
+- TOP 17: Errichtungsbeschluss: Neubau einer 5-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck [NRW.URBAN] - mehrheitlich beschlossen
+- TOP 18: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Drostebusch (ehemals Kita Paul-Schneider-Haus) im Stadtteil Mauritz-Ost - mehrheitlich beschlossen
+- TOP 19: Anpassung der Richtlinien über Verfügungen aus dem Sonderfonds "Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" - einstimmig beschlossen
+- TOP 20: Erich-Klausener-Schule, bauliche Erweiterung zur 4-Zügigkeit und Errichtung einer ebenerdigen Zweifachsporthalle - einstimmig beschlossen
+- TOP 21: Wohnraumschutzsatzung - mehrheitlich beschlossen
+- TOP 22: Erwerb von Grundstücken durch die Stadt von der KonvOY GmbH zum Zwecke der Bestellung/Gewährleistung von Erbbaurechten für gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte - mehrheitlich beschlossen
+- TOP 23: Änderung von Gebühren und Entgelten - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Mitte
+- TOP 24.1.1: Veränderungssperre Nr. 108, Erste Verlängerung - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk Münster-Nord
+- TOP 24.2.1: 94. Änderung FNP - Beschluss zur Änderung - 1. Änderung Bebauungsplan Nr. 334 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 24.2.2: Vorhabenbezogene 4. Änderung des Bebauungsplans Nr. 227: Nienberge-Ortskern - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Münster-Südost
+- TOP 24.3.1: Neubau des Polizeipräsidiums am Standort Loddenheide - Standortentscheidung - Bebauungsplan Nr. 611 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.4: Stadtbezirk Münster-Ost
+- TOP 24.4.1: 101. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 610 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 24.4.2: 96. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 605 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 25: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 28.1: Das Gebiet Hauptbahnhof qualifiziert überplanen - verwiesen
+- TOP 28.2: Kinder brauchen Raum – Schulhöfe auch an Sonntagen öffnen - verwiesen
+- TOP 28.3: Ratsarbeit attraktiv machen – Digitalisierung vorantreiben - verwiesen
+- TOP 28.4: Alleen in Münster pflanzen - verwiesen
+- TOP 28.5: Kritische Infrastruktur in den Blick nehmen - verwiesen
+- TOP 28.6: Münster sicher machen – Dem Terror keine Chance geben - verwiesen
+- TOP 28.7: Die Energiewende in Münster schaffen: Freiflächen-Photovoltaikanlage auf der Bodendeponie Coerheide - verwiesen
+- TOP 29: Verschiedenes
