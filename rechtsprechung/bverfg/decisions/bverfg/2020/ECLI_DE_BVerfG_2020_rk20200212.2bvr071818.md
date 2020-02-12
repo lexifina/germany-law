@@ -1,0 +1,167 @@
+---
+ecli: "ECLI:DE:BVerfG:2020:rk20200212.2bvr071818"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 718/18"
+decided: "2020-02-12"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 12. Februar 2020\n- 2 BvR 718/18 -, Rn. 1-11,\n                    https://www.bverfg.de/e/rk20200212_2bvr071818"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/02/rk20200212_2bvr071818.html"
+corpus_doc_id: "BVerfG_2020-02-12_K_2_BvR_0718_18_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0003.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/inso/0089.md", "germany/bund/acts/rvg/0037.md", "germany/bund/acts/stpo/0111f.md", "germany/bund/acts/stpo/0111k.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 718/18 vom 2020-02-12
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 718/18 -
+
+
+
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+
+des Rechtsanwalt B… als Insolvenzverwalter über das Vermögen der R…GmbH,
+
+- Bevollmächtigte:   …-
+
+gegen    a) den Beschluss des Oberlandesgerichts Dresden vom 19. Februar 2018
+         - 1 Ws 289/17 -,
+
+         b) den Beschluss des Oberlandesgerichts Dresden vom 16. November
+         2017 - 1 Ws 289/17 -,
+
+         c) den Beschluss des Landgerichts Leipzig vom 13. September 2017 - 15
+         Qs 29/16 -,
+
+         d) den Beschluss des Landgerichts Leipzig vom 6. Juni 2016 - 15 Qs 29/
+         16 -,
+
+         e) den Beschluss des Amtsgerichts Leipzig vom 25. Oktober 2013 - 280
+         ER 16 Gs 3870/13 -
+
+
+hier: Antrag auf Auslagenerstattung und Festsetzung des Gegenstandswerts
+
+hat die 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                die Richterin Hermanns,
+
+                                den Richter Müller
+
+                                und die Richterin Langenfeld
+
+am 12. Februar 2020 einstimmig beschlossen:
+
+        Der Antrag des Beschwerdeführers auf Anordnung der Erstattung seiner notwendigen Auslagen wird abgelehnt.
+
+        Der Antrag des Beschwerdeführers, den Wert des Gegenstands der
+        anwaltlichen Tätigkeit auf 1.570.000 Euro festzusetzen, wird verworfen.
+
+
+                                        1/5
+
+                                    Gründe:
+ 1. Über die Verfassungsbeschwerde ist aufgrund der Erledigungserklärung des Beschwerdeführers vom 16. Juli 2019 nicht mehr zu entscheiden (vgl. BVerfGE 7, 75
+<76>; 85, 109 <113>).
+
+ 2. Der Antrag des Beschwerdeführers, die Erstattung seiner notwendigen Auslagen         2
+anzuordnen, ist unbegründet.
+
+  a) Nach Erledigung der Hauptsache ist über die Auslagenerstattung gemäß § 34a          3
+Abs. 3 BVerfGG nach Billigkeitsgesichtspunkten zu entscheiden (vgl. BVerfGE 85,
+109 <114>; 133, 37 <38 Rn. 1>). Dabei ist eine Gesamtwürdigung aller bekannten
+Umstände vorzunehmen (vgl. BVerfG, Beschluss der 2. Kammer des Ersten Senats
+vom 9. Februar 2017 - 1 BvR 309/11 -, Rn. 2; Beschluss der 3. Kammer des Zweiten
+Senats vom 28. Oktober 2019 - 2 BvR 962/19 -, juris, Rn. 2). Mit Blick auf die Funktion und die Tragweite der Entscheidungen des Bundesverfassungsgerichts findet eine summarische Prüfung der Erfolgsaussicht der Verfassungsbeschwerde im Rahmen der Entscheidung nach § 34a Abs. 3 BVerfGG grundsätzlich nicht statt (vgl.
+BVerfGE 33, 247 <264 f.>; 85, 109 <115 f.>; 87, 394 <398>; 133, 37 <38 f. Rn. 2>).
+Eine Erstattung von Auslagen kommt allerdings in Betracht, wenn die Erfolgsaussicht
+der Verfassungsbeschwerde unterstellt werden kann oder wenn die verfassungsrechtliche Frage bereits geklärt ist (vgl. BVerfGE 85, 109 <115 f.>; 133, 37 <38
+Rn. 2>). So kann es insbesondere dann billig sein, dem Beschwerdeführer die Erstattung seiner Auslagen zuzuerkennen, wenn die öffentliche Gewalt von sich aus
+den mit der Verfassungsbeschwerde angegriffenen Akt beseitigt oder der Beschwer
+auf andere Weise abhilft und deshalb davon ausgegangen werden kann, dass sie
+das Begehren des Beschwerdeführers selbst für berechtigt gehalten hat (vgl.
+BVerfGE 85, 109 <114 ff.>; 87, 394 <397 f.>; 91, 146 <147>; 133, 37 <38 Rn. 2>).
+Die Auslagenerstattung entspricht hingegen regelmäßig nicht der Billigkeit, wenn die
+Verfassungsbeschwerde vom Zeitpunkt ihrer Einlegung bis zur Erledigung durch die
+Abhilfe im fachgerichtlichen Verfahren unzulässig war (vgl. BVerfG, Beschluss der 3.
+Kammer des Ersten Senats vom 13. April 2011 - 1 BvR 689/11 -, juris, Rn. 4; Beschluss der 2. Kammer des Zweiten Senats vom 9. Oktober 2014 - 2 BvR 550/14,
+juris, Rn. 3; Beschluss der 3. Kammer des Zweiten Senats vom 28. Oktober 2019 - 2
+BvR 962/19 -, juris, Rn. 2).
+
+ b) Danach kommt eine Auslagenerstattung im vorliegenden Fall nicht in Betracht.         4
+
+  aa) Soweit sich die Verfassungsbeschwerde gegen die Arrestanordnung des Amtsgerichts Leipzig vom 25. Oktober 2013 in Gestalt des abändernden Beschlusses des
+Landgerichts Leipzig vom 6. Juni 2016 sowie die nachfolgend ergangenen Entscheidungen des Landgerichts Leipzig vom 13. September 2017 und des Oberlandesgerichts Dresden vom 16. November 2017 und 19. Februar 2018 richtete, war sie vom
+Zeitpunkt ihrer Einlegung an unzulässig. Nach eigenem, rechtlich zutreffendem Vortrag war und ist der Beschwerdeführer durch die Arrestanordnung nicht beschwert.
+
+
+
+
+                                          2/5
+
+ Mit dem Beschluss vom 6. Juni 2016 wechselte das Landgericht Leipzig den Arrestgläubiger in der Arrestanordnung aus, wodurch das Pfandrecht des Freistaats Sachsen an der hinterlegten Lösungssumme erlosch. Die abgeänderte Arrestanordnung
+wurde in der Folge jedoch nicht zugunsten der neuen Arrestgläubigerin, der Bundesrepublik Deutschland, vollstreckt. Weder erfolgte zu ihren Gunsten eine Hinterlegung
+der Lösungssumme noch wurde für sie eine Pfändung des Anspruchs der Arrestschuldnerin auf Herausgabe der Lösungssumme ausgebracht. Mit Eröffnung des Insolvenzverfahrens über das Vermögen der Arrestschuldnerin am 1. März 2017 – und
+damit vor Erhebung der Verfassungsbeschwerde am 21. März 2018 – trat das Vollstreckungsverbot des § 89 Abs. 1 InsO ein, so dass eine Vollstreckung der Arrestanordnung seither unzulässig ist. Dass das Landgericht Leipzig und das Oberlandesgericht Dresden die Arrestanordnung auf die weitere Beschwerde des
+Beschwerdeführers dennoch nicht aufgehoben haben, führt vor diesem Hintergrund
+– wie der Beschwerdeführer selbst ausführt –nicht zu einer Beschwer.
+
+  bb) Beschwert war der Beschwerdeführer bei Einreichung der Verfassungsbeschwerde allerdings durch den Umstand, dass die Lösungssumme weiterhin beim
+Amtsgericht Leipzig hinterlegt und nicht an ihn ausgezahlt worden war. Das Auszahlungsbegehren erledigte sich sodann durch den Beschluss des Landgerichts Leipzig
+vom 23. Januar 2019 sowie die daraufhin am 24. Juni 2019 getroffene Herausgabeanordnung des Amtsgerichts Leipzig und die Gutschrift der 1,2 Millionen Euro zugunsten des Massekontos am 1. Juli 2019. Der Beschwerdeführer erreichte dies im
+fachgerichtlichen Rechtsweg, der ihm in Form eines Antrags auf gerichtliche Entscheidung nach § 111k Abs. 3 StPO (vormals § 111f Abs. 5 StPO a.F.) und der Beschwerde gegen die den Antrag ablehnende Entscheidung des Ermittlungsrichters
+offen stand. Diesen Rechtsweg beschritt er jedoch erst nach Erhebung der Verfassungsbeschwerde, die deshalb mangels Erschöpfung des Rechtswegs von Anfang
+an unzulässig war (§ 90 Abs. 2 BVerfGG).
+
+ 3. Der Antrag des Beschwerdeführers, den Wert des Gegenstands der anwaltlichen        8
+Tätigkeit auf 1.570.000 Euro festzusetzen, ist mangels Rechtsschutzbedürfnisses
+unzulässig.
+
+  a) Wird eine Verfassungsbeschwerde nicht zur Entscheidung angenommen, über           9
+sie also nicht inhaltlich befunden, kommt für die Berechnung der Rechtsanwaltsgebühren ein höherer Gegenstandswert als der gesetzliche Mindestwert nach § 37 Abs.
+2 Satz 2 RVG in Höhe von 5.000 Euro im Regelfall nicht in Betracht. In diesen Fällen
+besteht kein Rechtsschutzbedürfnis für die Festsetzung des Gegenstandswerts (vgl.
+BVerfGE 79, 365 <369>; BVerfG, Beschluss des Zweiten Senats vom 25. Mai 1999
+- 2 BvR 1790/94 -, Rn. 2). Gleiches gilt im Falle der Rücknahme der Verfassungsbeschwerde (vgl. BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 10. April
+2018 - 1 BvR 2119/17 -, Rn. 2; Beschluss der 1. Kammer des Zweiten Senats vom
+25. Juni 2018 - 2 BvR 2263/16 -, Rn. 2) sowie in Fällen, in denen die Verfassungsbeschwerde für erledigt erklärt wird, sie jedoch von Anfang an unzulässig war (vgl.
+BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 2. Mai 2017 - 2 BvR 572/
+
+
+                                         3/5
+
+17 -, juris, Rn. 3 f.; Beschluss der 3. Kammer des Zweiten Senats vom 28. Oktober
+2019 - 2 BvR 962/19 -, juris, Rn. 3 und 5).
+
+  b) Im vorliegenden Fall war die Verfassungsbeschwerde im Zeitpunkt ihrer Erhebung mangels Beschwer beziehungsweise mangels Rechtswegerschöpfung unzulässig, so dass es im Verfassungsbeschwerdeverfahren von vornherein keiner inhaltlichen Auseinandersetzung mit dem Sachverhalt und den sich stellenden
+Rechtsfragen bedurfte. Es sind daher auch keine Umstände ersichtlich, die die Festsetzung eines über den Mindestwert des § 37 Abs. 2 Satz 2 RVG hinausgehenden
+Gegenstandswerts rechtfertigen könnten.
+
+ Diese Entscheidung ist unanfechtbar.                                                 11
+
+                Hermanns                      Müller                   Langenfeld
+
+
+
+
+                                        4/5
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Zweiten Senats vom
+12. Februar 2020 - 2 BvR 718/18
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 12. Februar 2020 - 2 BvR 718/18 - Rn. (1 - 11), http://www.bverfg.de/e/
+                rk20200212_2bvr071818.html
+
+ECLI            ECLI:DE:BVerfG:2020:rk20200212.2bvr071818
+
+
+
+
+                                      5/5
