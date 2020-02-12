@@ -1,0 +1,112 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-02-12T17:00:00+01:00
+- Ende: 2020-02-12T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5220
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5220
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 1.1: BerlKönig BC in Heiligensee endlich starten - in der BVV zurückgezogen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Grundschule am Vierrutenberg Umkleide- und Sanitärräume der Sporthalle - gegenstandslos
+- TOP 2.2: Behindertenparkplatz - gegenstandslos
+- TOP 2.3: Daten- und Informationsanfragen der Veterinär- und Lebensmittelaufsicht - beantwortet
+- TOP 2.4: Parkplatz Königshorster Straße - beantwortet
+- TOP 2.5: Durchgang an der Scharfenberger Straße 41 - beantwortet
+- TOP 2.6: Begabtenförderung an Reinickendorfer Oberschulen - beantwortet
+- TOP 2.7: Digitalisierung Schulen - beantwortet
+- TOP 2.8: 30-jähriges Jubiläum Wiedervereinigung - beantwortet
+- TOP 2.9: Umweltschutz an Reinickendorfer Schulen - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 39. Sitzung der BVV am 12.02.2020 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Schulneubau - beantwortet
+- TOP 4.2: Bezirksstadtrat Maacks Zuwendungsbescheid an seinen eigenen Verein - beantwortet
+- TOP 4.3: Prävention von Pandemien in Reinickendorf - beantwortet
+- TOP 4.4: Neubau Grundschule - beantwortet
+- TOP 4.5: Gegen die Wand - beantwortet
+- TOP 4.6: Wiedereinführung einer öffentlichen Grillfläche in Reinickendorf - beantwortet
+- TOP 4.7: Taschengeld in stationären Einrichtungen - beantwortet
+- TOP 4.8: Protokoll des Bezirksamtes bei Feierstunden - beantwortet
+- TOP 4.9: Einhaltung des Mindestlohns beim Schulmittagessen - beantwortet
+- TOP 4.10: Nutzung KBoN-Gelände - beantwortet
+- TOP 4.11: Freie Fahrt für eine VzK zum Antrag 0695/XX ? - beantwortet
+- TOP 4.12: Verkehrssicherheit Kreuzung Holzhauser Straße/ Berliner Straße - beantwortet
+- TOP 4.13: Netzwerke in der Altenpflege - beantwortet
+- TOP 4.14: Übriggebliebenes kostenfreies Schulessen - schriftlich beantwortet
+- TOP 4.15: Mittel für Schulbausanierung - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Geschirrmobil (Beschlussempfehlung) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Illegalen Welpenhandel in Reinickendorf bekämpfen III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Ausreisepflichtige Personen konsequent abschieben - überwiesen
+- TOP 7.3: Kohlendioxid-Mess- und Warngeräte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Bedarf an Schulstation an Reinickendorfer Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Ausstellung zum Europa-Tag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Räumlichkeiten für "Little Homes" - Projekt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Volkspark Am Schäfersee/Lindenallee Sturmschäden beseitigen und zusammen mit Rundweg erneuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Verwendung zusätzlicher Mittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Stationäre Versorgung psychisch kranker Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Investitionen aus dem Digitalpakt für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Halteverbot vor Edeka Bernauer Straße - Parkplätze nur zum Be- und Entladen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Grillen im Landschaftsschutzgebiet verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Reinigung eines Gedenkortes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Telefonische Erreichbarkeit von Familienmitgliedern im Krankenhaus ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Plastikmüll - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Bäume wässern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Keine Umbenennung der BVG-Bushaltestelle "Jugendherberge" an der Ernst-Reuter Jugendherberge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung vom 01.06.2016 bis zum 31.12.2019 - überwiesen
+- TOP 7.19: Jahresbericht des Patientenfürsprechers aus dem Krankenhaus des Maßregelvollzugs für das Jahr 2019 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Tourismus in Reinickendorf - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - gewählt
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über die Änderung der vorläufigen Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - §23 I GO-BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Veranstaltungen mit fairem Angebot - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Stromversorung der Reinickendorfer Feuerwehren gewährleisten - erledigt
+- TOP 10.4: Lösung an der Grundschule am Fließtal - in der BVV abgelehnt
+- TOP 10.5: Ein Naturerfahrungsraum (NER) für Reinickendorf - in der BVV abgelehnt
+- TOP 10.6: Zusätzliche Standorte für Trinkbrunnen in Reinickendorf - erledigt
+- TOP 10.7: Sitzbänke und Abfallbehälter auf dem Weg parallel zum Nordgraben - erledigt
+- TOP 10.8: Wasserspielplatz im Freizeitpark Lübars - in der BVV abgelehnt
+- TOP 10.9: Neugestaltung von Spielplätzen - in der BVV abgelehnt
+- TOP 10.10: Aufklärungskampagne: "Zigarettenstummel gehören in den Mülleimer" - in der BVV abgelehnt
+- TOP 10.11: Verfall öffentlicher Liegenschaften entgegentreten! - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Zuweisung der Zuständigkeit zur Erarbeitung von Vorschlägen zur besseren Bürgerbeteiligung an einen Ausschuss nach §18 IV GO-BVV - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Beidseitig befahrbaren Radweg an der Heiligenseestraße anlegen - überwiesen
+- TOP 12.2: Trinkwasserbeeinträchtigung in Reinickendorf - überwiesen
+- TOP 12.3: Einwohneranfragen auch für Sehgeschädigte und Gehörlose! - überwiesen
+- TOP 12.4: Mediation für Cite Guynemer - überwiesen
+- TOP 12.5: Nachpflanzung von Straßenbäumen am Sportplatz Borsigwalde in der Tietzstraße - überwiesen
+- TOP 12.6: Konzept zu einer umweltfreundlichen Entwicklung der öffentlichen Sportstätten des Bezirks - überwiesen
+- TOP 12.7: Sporthalle Bettina-von-Arnim- Schule - überwiesen
+- TOP 12.8: Stellplätze für Lastenfahrräder in Reinickendorf vorsehen - überwiesen
+- TOP 12.9: Ordnungsamt-App auf die Bedürfnisse der Nutzer/-innen hin fortentwickeln - überwiesen
+- TOP 12.10: Schulsportanlage Sommerfelder Straße für Vereine öffnen - überwiesen
+- TOP 12.11: Atrium der Ringelnatz-Grundschule nach Baumaßnahme wiederherstellen - überwiesen
+- TOP 12.12: Dienstlastenfahrrad für Bezirksamt - überwiesen
+- TOP 12.13: Erinnerung auf der Insel Reiswerder - überwiesen
+- TOP 12.14: Schulgarten der Ringelnatz-Grundschule - überwiesen
+- TOP 12.15: Kiezfonds 2020 - mit Änderungen in der BVV beschlossen
+- TOP 12.16: Reinickendorf braucht ISS mit eigener Oberstufe am Waidmannsluster Damm - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: TXL-Beschilderung am U-Bhf. Franz-Neumann-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Fortsetzung der See-Meile prüfen - überwiesen
+- TOP 13.3: Bewohnbarkeit der City Guynemer gewährleisten - überwiesen
+- TOP 13.4: Keine weitere Unterbringung von Geflüchteten in der KBoN - überwiesen
+- TOP 13.5: Zukunft denken, Ladeinfrastruktur schaffen - überwiesen
+- TOP 13.6: Straßenbaumpflegegeld auf 85 € erhöhen - überwiesen
+- TOP 13.7: Keine zusätzlichen Asylbewerberunterkünfte auf dem KBoN-Gelände - überwiesen
+- TOP 13.8: Entschärfung der Gefahrenstelle Holzhauser Str. - ohne Änderungen in der BVV beschlossen
