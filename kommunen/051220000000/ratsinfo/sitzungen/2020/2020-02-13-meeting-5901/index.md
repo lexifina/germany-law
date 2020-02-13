@@ -1,0 +1,52 @@
+# Rat (39. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-02-13T17:02:00+01:00
+- Ende: 2020-02-13T18:38:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbVGb7rU538SxTw8MSiJf2I
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5901
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbaBTHzKjwWQSoRJ4P3VRb7YiS1A2SAgqQxsem-CCmZD/Bekanntmachung_Rat_13.02.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSboabCnjSIglbHzSWwcSOcCmpnj0kMNLHt5cpuurFZo/Oeffentliche_Niederschrift_Rat_13.02.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Kommunaler Ordnungsdienst und Parteiveranstaltung
+- TOP 1.2: Busverbindung Solingen-Wuppertal
+- TOP 1.3: Robustes Netz NRW
+- TOP 1.4: Machbarkeitsstudie Querschluss L 288 – BAB Dreieck Langenfeld
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Rates am 05.12.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 7.: Integriertes Stadtteilentwicklungskonzept für den Stadtteil Burg Verwaltungsrichtlinien der Stadt Solingen für die Vergabe des Budgets aus dem Verfügungsfonds zur Bürgerbeteiligung im Stadtteil Burg
+- TOP 8.: Zustimmung zu einer zu 100 % aus Fördermitteln gedeckten konsumtiven Mehrauszahlung gemäß § 83 GO NRW hier: Durchführung und Fertigstellung diverser Stadtentwicklungsmaßnahmen
+- TOP 9.: Klimawandel als globale Bedrohung
+- TOP 10.: Wahlordnung für die Wahl des Zuwanderer- und Integrationsrates der Stadt Solingen hier: III Änderungssatzung
+- TOP 11.: Satzung der Stadt Solingen über die abweichende Erhebung von Gebühren nach der Allgemeinen Verwaltungsgebührenordnung für das Land Nordrhein-Westfalen (AVerwGebO NRW) für Amtshandlungen des Standesamtes nach dem Personenstandsgesetz
+- TOP 12.: Anpassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung)
+- TOP 13.: Anpassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Theaters und Konzerthauses Solingen
+- TOP 14.: Professor Max-Kratz-Stiftung hier: Satzung in der II. Änderungsfassung
+- TOP 14.1: Professor Max-Kratz-Stiftung hier: Satzung in der II. Änderungsfassung
+- TOP 15.: Denkmalliste der Stadt Solingen hier: Prinzenstraße 2a
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 4. Quartal 2019
+- TOP 16.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Städt. Klinikum Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Rates am 05.12.2019
+- TOP 4.: Stadtwerke Solingen GmbH (SW SG) – Änderung des Gesellschaftsvertrages
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
