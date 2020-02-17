@@ -1,0 +1,60 @@
+# Rat (53. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-02-17T18:02:00+01:00
+- Ende: 2020-02-17T19:03:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYVVNhRiXSFo9Ep9CKEW4Nc
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7230
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUKiedMTO4pAOfPq0HKG4b74ISIzrHAj3F96J_zTAHgU/Bekanntmachung_Rat_17.02.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVufCJzQY99nE-5o3kC8fiH79ysypaTwIVizWIggxFih/Oeffentliche_Niederschrift_Rat_17.02.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Online-Handel
+- TOP 2.: Niederschrift vom 16.12.2019 und 23.12.2019
+- TOP 3.: Verein "Brühl digital e.V."; hier: Bestellung des Vorsitzenden Bezug: HA 2.12.2019, RAT 16.12.2019, Vorlage Nr. 496/2019 und 548/2019 - (kein Text vorhanden)
+- TOP 4.: Interkommunales Gewerbegebiet „Barbarahof“ Teilflächen 1 und 2 - Unterstützung der Beschlüsse zur Änderung des Regionalplans der Städte Hürth und Erftstadt - (kein Text vorhanden)
+- TOP 5.: Projekt "Sanierung bzw. Neubau Rathaus Steinweg/Umgestaltung Janshof" hier: Durchführung einer weiteren Einwohnerversammlung - (kein Text vorhanden)
+- TOP 6.: Stellenplan 2020 hier: Ausweisung zusätzlicher Ausbildungsstellen - (kein Text vorhanden)
+- TOP 7.: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 8.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 8.1: KarlsBad Brühl hier: Änderung der Eintrittspreise für Schulen und Vereine - (kein Text vorhanden)
+- TOP 8.2: Überplanmäßige Mittelbereitstellung für die Errichtung eines Bewegungsparcours Bezug: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen vom 19.11.2018 SpA 16.05.2019, Vorlage 154/2019, SpA 09.09.2019, Vorlage 331/2019, SpA 30.01.2020, Vorlage 20/2020 - (kein Text vorhanden)
+- TOP 9.: Bebauungsplan 06.12 „Im Geildorfer Feld“ 1. Änderung - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 10.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes BP 06.12 "Im Geildorfer Feld"-1 - Anderung- - (kein Text vorhanden)
+- TOP 11.: Anträge
+- TOP 11.1: Prüfauftrag für eine Radstation in Brühl-Mitte Bezug: Antrag der FDP-Fraktion vom 24.01.2020 - (kein Text vorhanden)
+- TOP 12.: Umbesetzung in Ausschüssen
+- TOP 12.1: Umbesetzung im Sozialausschuss Bezug: Antrag der Grünen-Fraktion vom 11.02.2020 - (kein Text vorhanden)
+- TOP 12.2: Umbesetzung im Sportausschuss Bezug: Antrag der Fraktion Linke&Piraten vom 14.02.2020 - (kein Text vorhanden)
+- TOP 12.3: Umbesetzung im Wahlausschuss Bezug: Antrag der CDU-Fraktion vom 17.02.2020 - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Kommunalverfassungsstreitverfahren
+- TOP 14.: Anfragen
+- TOP 14.1: Earth-Hour
+- TOP 14.2: Abstellmöglichkeiten für Fahrräder an den Haltepunkten der Linie 18
+- TOP 14.3: Projekt "Bespielbare und besitzbare Stadt"
+- TOP 14.4: Ampelschaltung Römerstraße/Ecke Rodderweg u.a.
+- TOP 14.5: Öffnungszeiten Bürgeramt
+- TOP 14.6: Antrag zum Haushalt von Ratsherr Dr. Heermann
+- TOP 14.7: Arbeitskreise
+- TOP 14.8: Radstation am Bahnhof
+- TOP 14.9: Toilettenanlage an der Bleiche
+- TOP 15.: Anmerkung des Bürgermeisters
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Ernennung zur Stadtverwaltungsdirektorin - (kein Text vorhanden)
+- TOP 17.: Ernennung zur Stadtverwaltungsoberrätin - (kein Text vorhanden)
+- TOP 18.: Ernennung zum Leitenden Stadtverwaltungsdirektor - (kein Text vorhanden)
+- TOP 19.: Bestellung der Schulleitung gemäß § 61 SchulG NRW hier: Gemeinschaftshauptschule Clemens-August - (kein Text vorhanden)
+- TOP 20.: Bericht über die 152. Sitzung des Aufsichtsrates der REVG mbH am 19.12.2019
+- TOP 21.: Mitteilungen
+- TOP 22.: Anfragen
+- TOP 22.1: Durchfahrverbot Brühl-Mitte
+- TOP 22.2: Bestellung Schulleitung
+- TOP 22.3: Gewerbegebiet Brühl-Nord
