@@ -1,0 +1,87 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2020-02-17T17:00:00+01:00
+- Ende: 2020-02-17T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1117
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1117
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00042901.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00043100.pdf
+
+## Tagesordnung
+
+- TOP 1: Vermögenshaushalt
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Beratung des Vermögenshaushaltes 2020 mit Investitionsprogramm 2019 - 2023
+- TOP 1.2.1: 0600 9340 - Ersatzbeschaffung von Bühnenteilen für die Rathaushalle Anfrage von Stadträtin Glos
+- TOP 1.2.2: 0241 9350 - Öffentlichkeitsarbeit/Stabsstelle, Beschaffung Stellwandsystem Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.3: 0600 9345 - Neubeschaffung von Geschirr für Sitzungen und Veranstaltungen Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.4: 0000 9352 Oberste Gemeindeorgane, Beschaffung von Tablets für die Stadtratsmitglieder Anfrage von Stadträtin Schwab
+- TOP 1.2.5: 0601 9352 - Informations- und Kommunikationstechnik Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.6: 2111 9355 - St. Hedwig-Schule, Erstausstattung Räume offener Ganztag Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.7: 2111 9420 - St. Hedwig-Schule, Neubau von Räumen für offenes Ganztagsangebot im Zuge Neubau der Zweifeldsporthalle Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.8: 2140 9451 - Schulsportanlage Deusterpark Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.9: UA 3331 - Musikschule, Anfrage von Stadträtin Schwab zur Schallproblematik
+- TOP 1.2.10: 2431 9352 - EDV-Ausstattung Friedrich-Bernbeck-Schule Anfrage von Stadträtin Glos
+- TOP 1.2.11: 2141 9450 - Schulsportanlage Siedlungsschulen Anfrage von Stadtrat Müller
+- TOP 1.2.12: 3210 9358 - Städtisches Museum, Beschaffung von Museumsgut Anfrage von 2. Bürgermeister Heisel
+- TOP 1.2.13: Antrag der SPD-Fraktion Schaffung eines öffentlichen Bücherschrankes - beschlossen
+- TOP 1.2.14: UA 3420 - Alte Synagoge, Klimaanlage Anfrage von Stadträtin Glos - abgelehnt
+- TOP 1.2.15: Kindergarten Hohenfeld Anfrage von Stadträtin Stocker
+- TOP 1.2.16: 5653 9350 - Sporthalle im Deusterpark, Beschaffung eines Defibrillators Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.17: 5931 9503 Neubau Spielplatz Marshall Heights Anfrage von Stadträtin Schwab
+- TOP 1.2.18: UA 6309/6310 Anbindung Nordtangente an die ST 2272 mit Bau Kreisverkehr conneKT Anfrage von Stadtrat Schardt
+- TOP 1.2.19: 6306 9502 - Umgestaltung Bahnhofsplatz Anfrage von Stadtrat Moser
+- TOP 1.2.20: 6406 9560 - Neugestaltung der Innenstadtstraßen inkl. Barrierefreiheit Anfrage von Stadtrat Popp
+- TOP 1.2.21: 6810 9502 Errichtung Busbahnhof, Außenanlagen samt P+R Nord Anfrage von Stadtrat Moser
+- TOP 1.2.22: 6709 9582 - Straßenbeleuchtung Umstellung auf LED-Beleuchtung Anfrage von Stadträtin Schwab
+- TOP 1.2.23: 7000 9535 - Abwasserbeseitigung, Kanalsanierung gem. Prioritätenliste Anfrage von Stadträtin Schwab
+- TOP 1.2.24: 7620 9350 - Stadtteilzentrum Siedlung, Beschaffung eines Defibrillators Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.25: 7520 9581 - Ehrengrab für Alt-OB Rudolf Schardt Anfrage von Stadträtin Schwab
+- TOP 1.2.26: 7516 9350 - Friedhof Hohenfeld, Austausch von Bänken Anfrage von Stadträtin Stocker
+- TOP 1.2.27: 7902 9590 - Wohnmobilstellplatz, Planungskosten Neukonzeption Anfrage von Stadtrat Popp
+- TOP 1.2.28: 9101 3100 - Entnahme aus der allgemeinen Rücknahme Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.29: 9121 3776 - Kreditaufnahmen von privaten Unternehmen Hinweis von Stadtkämmerin Erdel
+- TOP 1.2.30: 9161 3000 - Zuführung des Verwaltungs- und den Vermögenshaushalt Hinweis von Stadtkämmerin Erdel
+- TOP 2: Verwaltungshaushalt
+- TOP 2.1: Budgetfestlegung
+- TOP 2.1.1: Budgetfestlegung für das Haushaltsjahr 2020 - beschlossen
+- TOP 2.1.2: Budgetfestlegung 2020 für SG12/IT - beschlossen
+- TOP 2.1.3: Budgetfestlegung für das Haushaltsjahr 2020: Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.1.4: Budgetfestlegungen für das Haushaltsjahr 2020: Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.1.5: Budgetfestlegung für das Haushaltsjahr 2020; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2131, 2132, 2431 - beschlossen
+- TOP 2.1.6: Budgetfestlegung für das Haushaltsjahr 2020; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 2.1.7: Budgetfestlegung für das Haushaltsjahr 2020; Gesamtbudget "Sportanlagen" - UA 2151, 5601, 5602, 5603, 5651, 5652 u. 5653 - beschlossen
+- TOP 2.1.8: Budgetfestlegung für das Haushaltsjahr 2020; Budget der Alten Synagoge - UA 3420 - - beschlossen
+- TOP 2.1.9: Budgetfestlegung für das Haushaltsjahr 2020 Budget Stadtarchiv - UA 3211 - beschlossen
+- TOP 2.1.10: Budgetfestlegung für das Haushaltsjahr 2020;Budget Musikschule - UA 3331 - beschlossen
+- TOP 2.1.11: Budgetfestlegung für das Haushaltsjahr 2020; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.1.12: Budgetfestlegung für das Haushaltsjahr 2020; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 2.1.13: Budgetfestlegung für das Haushaltsjahr 2020: Budget Stadtbücherei UA 3521 - beschlossen
+- TOP 2.1.14: Budgetfestlegung; jungStil UA 4605 - beschlossen
+- TOP 2.1.15: Budgetfestlegung für das Haushaltsjahr 2020; Budget Gärtnerei - UA 5821 - - beschlossen
+- TOP 2.1.16: Budgetfestlegung für das Haushaltsjahr 2020: Gesamtbudget "Straßen, Wege, Plätze" - beschlossen
+- TOP 2.1.17: Budgetfestlegung für das Haushaltsjahr 2020; Gesamtbudget "Abwasserbeseitigung" - beschlossen
+- TOP 2.1.18: Budgetfestlegung für das Haushaltsjahr 2020 - beschlossen
+- TOP 2.1.19: Budgetfestlegung für das Haushaltsjahr 2020; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 2.1.20: Budgetfestlegung für das Haushaltsjahr 2020; Budget Touristinfo - UA 7901 - beschlossen
+- TOP 2.1.21: Budgetfestlegung für das Haushaltsjahr 2020; "Städtischer Waldbesitz" - UA 8551 - beschlossen
+- TOP 2.1.22: Budgetfestlegung für das Haushaltsjahr 2020; sonstige bebaute Grundstücke - UA 8802 - beschlossen
+- TOP 2.1.23: Budgetfestlegung für Haushaltsjahr 2020; "Sonstiges Allgemeines Grundvermögen" - UA 8891 - beschlossen
+- TOP 3: Beratung des Verwaltungshaushaltes 2020 mit Finanzplanung 2019 - 2023
+- TOP 3.1: Gruppierungsnummer 6510 - Zeitschriften und Ergänzungslieferungen Anfrage von Stadträtin Glos
+- TOP 3.2: 0241 6320/6328 - Markenbildungsprozess und "Kitzingen kanns" bzw. "Kitzingen emotional" Anfrage von Stadträtin Glos
+- TOP 3.3: 0241 6378 - Wartung und Pflege für die städtischen Internetseiten Anfrage von Stadtrat Pauluhn
+- TOP 3.4: 2111.1612 - Erstattungen vom Land, Gastschulbeiträge für Asylbewerberkinder Anfrage von Stadträtin Schwab
+- TOP 3.5: UA 3400 - Heimat- und Kulturpflege, Sondermittel für eine 1275 Jahr-Feier Antrag der SPD Fraktion - beschlossen
+- TOP 3.6: UA 3400 - Heimat- und Kulturpflege, Sondermittel für die Jubiläumsfeier "100 Jahre Siedlung" Antrag der SPD Fraktion - beschlossen
+- TOP 3.7: 3602 5170 - Unterhalt land- und forstwirtschaftlicher Grundbesitz, Landschaftspflegemaßnahmen Anfrage von Stadträtin Schwab
+- TOP 3.8: UA 4701 - Mittel für die Sprachwoche Antrag von Stadträtin Glos - beschlossen
+- TOP 3.9: Gebäudeunterhalt Stadtteilzentrum Anfrage von Stadträtin Schmidt
+- TOP 3.10: Anrufsammeltaxi; Antrag aus dem Haushalt 2019 Anfrage von Stadträtin Kahnt
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2020 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2019 - 2022
+- TOP 5: Antrag der ödp-Stadtratsgruppe Antrag Klimaschutz- und Nachhaltigkeitsmanager*in - beschlossen
