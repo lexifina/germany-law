@@ -1,0 +1,64 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-02-17T17:05:00+01:00
+- Ende: 2020-02-17T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21807
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21807
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Schwarz-Folien auf den Äckern im Kölner Süden; Entsorgung - Kenntnis genommen
+- TOP 7.1.2: Bereitstellung von Fahrradboxen für Pendler aus dem Nahbereich der KVB-Haltestelle Bhf Rodenkirchen - Kenntnis genommen
+- TOP 7.1.3: Container für die Grundschulen Annastraße und Franziskusschule Cäsarstraße - zu AN/1438/2019 Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Großmarkt, Verlagerung, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Hochwasserschutz in Köln und insbesondere Rodenkirchen: Stand, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Bezirksrathaus Rodenkirchen: Unterhaltskosten des Gebäudes, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4.1: Unterhaltungskosten des Bezirksrathauses Rodenkirchen - zur Anfrage der Fraktion Die Grünen AN/0226/2020 - Kenntnis genommen
+- TOP 7.2.5: Sachstand Schenkung Wohncontainer aus der Wohncontaineranlage für Geflüchtete am Standort Eygelshovener Straße 33 in 50999 Köln, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrssicherheit auf der Westerwaldstraße in Köln - Rondorf, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.2: Ausstattung des Spielplatzes an der Westerwaldstraße in Köln - Rondorf mit Spielgeräten, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.3: Prüfen von Zwischenlösungen für das Bezirksrathaus, Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.3.1: Zwischenlösung für das Bezirksrathaus Rodenkirchen - zum Antrag der CDU-Fraktion, AN/0210/2020 - Kenntnis genommen
+- TOP 8.1.4: Unterbuschweg in Sürth - geringere Geschwindigkeit, u.a. durch breitere Bürgersteige; Antrag der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.4.1: Ersetzungsantrag der Fraktion der Grünen mit Beitritt der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.5: Errichtung eines Zebrastreifens auf der Bahnhofstraße in Köln-Sürth, Antrag der FDP-Fraktion mit Beitritt aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.6: Bedienung der Busverbindung Linie 935 Hermülheim (Stadtbahn) —> Meschenich —> Brühl Mitte, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Quote von Ersatzpflanzungen bei künftigen Fällungen von Bäumen im Zusammenhang mit Bauprojekten im Stadtbezirk Köln-Rodenkirchen, Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.8: Bereitstellung von Fahrradboxen für Pendler aus dem Nahbereich der KVB-Haltestellen Bhf Rodenkirchen, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bericht des Oberbürgermeisters gem. § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen; hier Jahresbericht 2016 - 2018 - zurückgestellt
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Rondorf Nord-West, Entflechtungsstraße - zurückgestellt
+- TOP 9.2.1.1: Gemeinsamer Ergänzungsantrag zu TOP 9.2.1 der SPD-Fraktion und der Fraktion Die Grünen - zurückgestellt
+- TOP 9.2.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - mit Änderungen empfohlen
+- TOP 9.2.3: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Sechtemer Straße/Bonnerstraße in Köln-Raderberg - ungeändert empfohlen
+- TOP 9.2.4: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Ringstraße 38-46 in Köln-Rodenkirchen Anhörung der Bezirksvertretung Rodenkírchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausar - mit Änderungen empfohlen
+- TOP 9.2.5: Husarenstraße in Rondorf; 66380/03; Satzungsbeschluss - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstand zur Teilmaßnahme 0.0.1 "Verfügungsfonds" aus dem Programm "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.2: Verkehrskonzept Rondorf-Nord-West - zurückgestellt
+- TOP 10.2.3: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 10.2.4: Grundstück Hitzeler Straße 125 in Köln Raderthal - Kenntnis genommen
