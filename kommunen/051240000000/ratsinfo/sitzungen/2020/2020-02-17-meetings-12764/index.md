@@ -1,0 +1,112 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-02-17T16:05:00+01:00
+- Ende: 2020-02-17T20:20:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12764
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12764
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand: 07.02.20 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00251699.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00252808.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.1: Durchführung einer Aktuellen halben Stunde zur Situation der Wuppertaler Bühnen
+- TOP 1.1.2: Vorschlag zur Wahl eines Beigeordneten
+- TOP 1.2: Bericht über den Sachstand der Umsetzung von Ratsaufträgen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Umsetzung VO/1104/18, Lokale Demokratie stärken - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Umsetzung VO/1104/18, Lokale Demokratie stärken" vom 10.01.2020 (VO/0031/20) - Entgegennahme ohne Beschluss
+- TOP 2.2: Eingesparte Sozialleistungen von Hartz IV in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Eingesparte Sozialleistungen von Hartz IV in Wuppertal" vom 14.01.2020 (VO/0047/20) - Entgegennahme ohne Beschluss
+- TOP 2.3: Abschiebungen aus Wuppertal und humanitärer Aufenthalt - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Abschiebungen aus Wuppertal und humanitärer Aufenthalt" vom 15.01.2020 (VO/0056/20) - Entgegennahme ohne Beschluss
+- TOP 2.4: Sicherheitskonzeption für das Wuppertaler Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfage der SPD-Fraktion "Sicherheitskonzeption für das Wuppertaler Stadtgebiet" vom 30.01.2020 (VO/0129/20) - Entgegennahme ohne Beschluss
+- TOP 2.5: Neufassung § 13 Kommunalwahlgesetz - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Neufassung § 13 Kommunalwahlgesetz" vom 03.02.2020 (VO/0136/20) - Entgegennahme ohne Beschluss
+- TOP 2.6: Städtische Maßnahmen im Zusammenhang mit dem Corona-Virus - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion Freie Wähler "Städtische Maßnahmen im Zusammenhang mit dem Corona-Virus vom 05.02.2020 (VO/0147/20) - Entgegennahme ohne Beschluss
+- TOP 2.7: Erreichung Klimaziele - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Anfrage der SPD-Fraktion "Erreichung Klimaziele" vom 10.02.2020 (VO/0164/20) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur generellen Sperrung des Walls für den Allgemeinverkehr
+- TOP 3.2: Bürgerantrag zur Öffentlichkeitsarbeit der Wuppertaler Unfallkommission
+- TOP 3.3: Bürgerantrag zum Thema "Park & Ride Parkplätze und Bike & Ride Parkplätze sollen für ÖPNV-Nutzer auch zukünftig kostenlos bleiben"
+- TOP 3.4: Bürgerantrag zur Erhaltung des gesunden Baumbestandes in der Straße Alte Freiheit/Poststraße
+- TOP 3.5: Bürgeranträge zu den Themen "Alternativvorschläge anstelle eines Taxi-Halteplatzes am Döppersberg - östlich des Primark-Gebäudes" und "Keinen Schwebebahnwagen auf dem Platz hinter dem Primark-Gebäude am Döppersberg aufstellen"
+- TOP 3.6: Behandlung erfolgt unter TOP 3.5 Bürgerantrag zum Thema "Keinen Schwebebahnwagen auf dem Platz hinter dem Primark-Gebäude am Döppersberg aufstellen"
+- TOP 3.7: Bürgerantrag zum Thema "Kontrolle sämtlicher öffentlich gewidmeter Verkehrsflächen durch das Ordnungsamt"
+- TOP 3.8: Bürgerantrag zum Thema "Vorschläge u. a. zur Umbenennung des Historischen Zentrums"
+- TOP 4: Anträge
+- TOP 4.1: Künstlerische Kommentierung der Pallas Athene von A. Breker - ungeändert beschlossen
+- TOP 4.2: Anhebung der anzuerkennenden Unterkunftskosten - abgelehnt
+- TOP 4.3: Installation einer Außenstelle des Einwohnermeldeamtes im Verwaltungshaus Elberfeld analog der bestehenden Bürgerbüros
+- TOP 4.3.1: Prüfauftrag – Unterbringung von Einwohnermeldeamt oder Bürgerbüro in dem Gebäude der ehemaligen Bundesbahndirektion - geändert beschlossen
+- TOP 4.3.2: Nutzung der Bundesbahndirektion durch die Stadtverwaltung - ungeändert beschlossen
+- TOP 4.4: Gesamtfahrplan der Wuppertaler Stadtwerke mobil GmbH - abgelehnt
+- TOP 4.5: Umsetzung von Haushaltsbeschlüssen aus der Ratssitzung am 16.12.2019 - ungeändert beschlossen
+- TOP 4.6: Wählerverzeichnis für die Wahl des Integrationsausschusses aktualisieren - ungeändert beschlossen
+- TOP 4.7: Appell: Mittel für Geflüchtete an die Kommunen weiterleiten - ungeändert beschlossen
+- TOP 4.8: Umsetzung von Haushaltsbeschlüssen aus der Ratssitzung am 16.12.2019 - ungeändert beschlossen
+- TOP 4.9: Einrichtung von Schnellladeplätzen in Wuppertal - vertagen
+- TOP 4.9.1: Änderungsantrag zur Drucksache VO/0132/20, Einrichtung von Schnellladeplätzen in Wuppertal - vertagen
+- TOP 4.10: Behandlung erfolgt unter TOP 4.3.1 Prüfauftrag - Unterbringung von Einwohnermeldeamt oder Bürgerbüro in dem Gebäude der ehemaligen Bundesbahndirektion
+- TOP 4.11: Prüfauftrag – Sonntagsöffnung der Stadtbibliothek - zur Vorberatung verwiesen
+- TOP 4.12: Anmeldungen zum Haushalt 2020 / 2021 - Ergänzung zur Drucksache VO/1112/19 Unterhaltung von Ehrengräbern - vertagen
+- TOP 4.13: Beleuchtung des Engels-Denkmals - ungeändert beschlossen
+- TOP 4.14: Anmeldungen zum Haushalt 2020/2021 - Sanierung Jakobstreppe - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Haushaltsplan 2020/2021 - Prozessoptimierung beim Gebäudemanagement - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vorberatung nicht abgeschlossen. Satzung für die Benennung von Straßen, Wegen und Plätzen und Benennungen im Rahmen der Erinnerungskultur - abgesetzt
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 24.05.2020 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Verordnung über das Offenhalten von Verkaufsstellen am 23.08.2020 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen am 11.10.2020 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.5: Verordnung über das Offenhalten von Verkaufsstellen am 29.11.2020 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.6: Verordnung über das Offenhalten von Verkaufsstellen am 29.11.2020 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.7: Verordnung über das Offenhalten von Verkaufsstellen am 06.12.2020 in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 6.8: Ablehnung des Antrages auf Sonntagsöffnung der Verkaufsstellen in Elberfeld am 13.09.2020 - ungeändert beschlossen
+- TOP 6.9: Sechste Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.10: Änderung der städtischen Parkgebührenordnung durch Ausweitung der Bewirtschaftungszeiten und Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Überplanmäßige Ausgabe: Sanierung Brücke Germanenstraße - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan Gebäudemanagement 2020 - ungeändert beschlossen
+- TOP 8.2: Neufassung des Gesellschaftsvertrages der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1232 - Weiherstraße / Am Diek - - ungeändert beschlossen
+- TOP 9.2: Abgesetzt. Vorberatung nicht abgeschlossen. Bebauungsplan 1223 - August-Jung-Weg / östlich Hosfelds Katernberg - - abgesetzt
+- TOP 9.3: Bebauungsplan 682 - Hardt / Schwabenweg - 2. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung (124B) - Satzungsbeschluss - Teilaufhebung - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren 1053 - Mediapark Wuppertal / Event Center NRW - - ungeändert beschlossen
+- TOP 9.5: Verfahrensstand Bebauungsplan 1230 - Maßregelvollzugsklinik Kleine Höhe - Entgegennahme ohne Beschluss
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Abgesetzt. Vorberatung nicht abgeschlossen. Umfeldgestaltung Berliner Platz und Schöneberger Ufer – Soziale Stadt Oberbarmen/Wichlinghausen - abgesetzt
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Vorberatung nicht abgeschlossen. Konzept "Neue Wohnbauflächen für Wuppertal" - abgesetzt
+- TOP 11.2: Ausbau der offenen Ganztagsschule um 225 Plätze zum Schuljahr 2020/2021 - ungeändert beschlossen
+- TOP 11.3: Verlagerung des Teilstandortes Gewerbeschulstraße von der Städtischen Hauptschule Barmen-Südwest, Emilienstraße, Wuppertal ins Schulgebäude Röttgen - ungeändert beschlossen
+- TOP 11.4: Evaluation des Bürgerbudgets 2019 - Entgegennahme ohne Beschluss
+- TOP 11.5: Jahresbericht 2019 der Stabsstelle Bürgerbeteiligung und Bürgerengagement - Entgegennahme ohne Beschluss
+- TOP 11.6: Zustimmung zu dem von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2020 bis 31.12.2020 - ungeändert beschlossen
+- TOP 11.7: Richtlinien über die Förderung in der Kindertagespflege und über die Festsetzung der Höhe der Geldleistung für Kindertagespflegepersonen nach § 23 SGB VIII - ungeändert beschlossen
+- TOP 11.8: Einrichtung eines Teilstandortes für das Städtische Gymnasium Bayreuther Straße im Schulgebäude Hufschmiedstraße (Umzug) - ungeändert beschlossen
+- TOP 11.9: Maßnahmen zur Verbesserung der Umsetzung der Rechte der Bezirksvertretungen - ungeändert beschlossen
+- TOP 11.10: Behandlung erfolgt unter TOP 4.3.2 Nutzung der Bundesbahndirektion durch die Stadtverwaltung (VO/0046/20)
+- TOP 11.11: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Döppersberg Platz Ost - Gestaltungsvorschläge - abgesetzt
+- TOP 11.11.1: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Döppersberg Platz Ost - Gestaltungsvorschläge - Durchführung einer Bürgerbeteiligung - abgesetzt
+- TOP 11.12: Kalktrichterofen - Erstellung eines Gutachtens - Entgegennahme ohne Beschluss
+- TOP 11.13: Abgesetzt. Vorberatung nicht abgeschlossen. Bündnis für Wohnen in Wuppertal - abgesetzt
+- TOP 11.14: Gremientätigkeiten von Herrn Oberbürgermeister Andreas Mucke - Entgegennahme ohne Beschluss
+- TOP 11.15: Umsetzung Bonussystem im Zusammenhang mit Einführung der Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.3: Abberufung beratender Gremienmitglieder nach Fraktionsauflösung - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.5: TOP 12 Gremienbesetzung/Benennung - ungeändert beschlossen
