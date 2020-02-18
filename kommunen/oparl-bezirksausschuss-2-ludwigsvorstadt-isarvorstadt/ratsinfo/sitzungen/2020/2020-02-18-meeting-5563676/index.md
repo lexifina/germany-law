@@ -1,0 +1,147 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-02-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5563676
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5563676
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorstellung des lesbisch-queeren Zentrums LeZ in der Müllerstraße 26
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.2.: Zeitliche Auflistung der Maßnahmen zur Geruchsbelästigung im Schlachthof, eingebracht in der Sitzung am 28.01.2020
+- TOP 5.3.: Fischgestank im Dreimühlenviertel, eingebracht in der Sitzung am 28.01.2020
+- TOP 5.4.: Leergutentsorgung vor den Wertstoffcontainern in der Isartalstraße, eingebracht in der Sitzung am 28.01.2020
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Alte Utting GmbH Kinderprogramm auf der Alten Utting vom 01.02.2020 - 31.01.2021 4.010,99 Euro, Az.: 0262.0-2-0322
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Auf die Straße" Theaterstück "Auf die Straße" vom 09.03. - 06.07.2020 1.920,00 Euro, Az.: 0262.0-2-0324
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative „ Sag deine Meinung“ Seminar „Sag deine Meinung“ vom 24.03.-02.04.2020 3.931,04 €; Az. 0262.0-2-0317
+- TOP 2.4.: (E) Stadtbezirksbudget Kunstraum München e.V. Dokumentation einer Ausstellung im Februar 2020 1.500,- €; Az. 0262.0-2-0321
+- TOP 5.2.: Gefahrenstellen Schulweg - Grundschule am Gärtnerplatz
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: Wohnbebauung auf dem Viehhofgelände; Empfehlung Nr. 14-20 / E 03016 der Bürgerversammlung am 07.11.2019
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Kapuzinerstraße 26 Umbau, Modernisierung, brandschutztechnische Ertüchtigung, sowie Nutzungsänderung mit Vermietung von gewerblichen Büroflächen und Räumlichkeiten für eine 3-gruppige Kindertagesstätte -TEKTUR
+- TOP 3.1.2.: Baumstraße 9 Anbau dreier Balkone
+- TOP 3.1.3.: Wittelsbacherstraße 7 Erneuerung der Balkone auf der Hofseite
+- TOP 3.1.4.: Schillerstraße 30 Erweiterung eines Sportwettbüros
+- TOP 3.1.5.: Bayerstraße 7a Nutzungsänderung von Erschließungsflächen und einer Gaststätte im EG und einer Spielhalle im 1. OG zu einer Verkaufsstätte
+- TOP 3.1.6.: Kolosseumstraße 6 Nutzungsänderung eines Ladens in ein Tages-Café mit Freischankfläche
+- TOP 3.1.7.: Am Glockenbach 10 Umbau, Sanierung und Aufstockung eines Wohngebäudes, Anbau von Balkonen sowie Nutzungsänderung von Laden zu Wohnen
+- TOP 3.1.8.: Holzstraße 30 Errichtung einer Dachterrasse im 2. OG
+- TOP 3.1.9.: Bayerstraße 49 Umbau und Nutzungsänderung einer Teilfläche der Tiefgarage in Lager- und Technikräume zur Autarkstellung des Laborgebäudes vom Hauptgebäude sowie Abbruch des Vordaches und Windfanges des Hauptgebäudes und Errichtung von 20 offenen Stellplätzen im Innenhof befristet bis 31.12.2023
+- TOP 3.1.10.: Kapuzinerstraße 48 Sanierung und Erweiterung der Balkone und Neuerrichtung je zweier Balkone im EG und DG, Dachspitzbodenbausbau dreier DG-Wohnungen als Wohnraumerweiterung mit Aufenthaltsräumen sowie Errichtung eines neuen Fluchtwegs
+- TOP 3.1.11.: Thalkirchner Straße 23 Abbruch eines Vorderhauses, Neubau eines Mehrfamilienhauses mit TG
+- TOP 3.1.12.: Tumblingerstraße 48 / RGB, RGB: Erstellung einer Dachkonstruktion mit 1 WE und 3 Gauben, Aufstockung DG mit Dachterrasse u. Neuerrichtung einer intelligenten Liftanlage sowie einer Fluchtleiteranlage
+- TOP 3.1.13.: Tumblingerstraße 48, Errichtung einer neuen Dachkonstruktion mit Schaffung einer Wohneinheit mit 2 Loggien und 5 Gauben, Neuerrichtung von Balkonanlagen sowie einer außenliegenden Liftanlage, Nutzungsänderung eines Ladens zu einer Wohnung (EG)
+- TOP 3.1.14.: Fraunhoferstraße 27-27a, Neubau Wohn- und Geschäftshaus (Rückgebäude) sowie Aufstockung DG (Vordergebäude) und Teilumbau Tiefgarage
+- TOP 3.1.15.: Waltherstraße 18, Rückbau Balkon mit Neuanlage Dachloggia Nordseite
+- TOP 3.1.16.: Paul-Heyse-Straße 7, Reorganisation des ehemaligen Postbank-Karrees, Teilabriss, Sanierung und Neubau auf der Basis der bestehenden Gebäudestruktur zur Integration eines öffentlichen Hofes (überwiegend Büronutzung, im EG zusätzlich Gastronomie und Einzelhandel) - VORBESCHEID
+- TOP 3.1.17.: Thalkirchner Straße 23 Balkon- und Wintergartenanbau, DG-Ausbau und -Erweiterung, Errichtung einer Dachterrasse, Nutzungsänderung Werkstatt- und Lagerräume zu Gewerbefläche sowie Anbringen eines Wärmedämmverbundsystems an der Fassade
+- TOP 3.1.18.: Auenstraße 37 Nutzungsänderung eines Büros mit Flächen im UG zu einer Wohnung sowie Anbau eines Balkons
+- TOP 3.1.19.: Schillerstraße 11a Nutzungsänderung zweier Bars bzw. Tabledance und Nightclub zu Wettbüro
+- TOP 3.1.20.: Schillerstraße 18, VGB Umbau und Nutzungsänderung eines Hotels
+- TOP 3.1.21.: Holzstraße 24-26 Nutzungsänderung: Abtrennung des Ladens vom Appartement für Holzstraße 24 und 26 Holzstraße 26 EG links: Laden zu Büro
+- TOP 3.1.22.: Maistraße 6 Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.23.: Herzog-Heinrich-Straße 38 Nutzungsänderung: Pizza-Lieferservice zu Gaststätte mit Markise für Außensitz
+- TOP 3.2.1.: Vollzug der Baumschutzverordnung im Rahmen des Bauvorhabens Fraunhoferstraße 27-27a (s. TOP B 3.1.14)
+- TOP 3.2.2.: Vollzug der Baumschutzverordnung im Rahmen des Bauvorhabens Paul-Heyse-Straße 7 (s. TOP B 3.1.16)
+- TOP 3.2.3.: Ersatzbaumpflanzung Goethestraße Ecke Pettenkoferstraße, vertagt aus den Sitzungen am 17.12.2019 und 28.01.2020
+- TOP 3.2.4.: Antrag auf Baumfällung, Tumblingerstraße 21, vertagt aus der Sitzung am 28.01.2020
+- TOP 3.2.5.: Antrag auf Baumfällung, Thalkirchner Str. 49a – 67, vertagt aus der Sitzung am 28.01.2020
+- TOP 3.3.1.: Informationen zur 2. Stammstrecke – Baustelle Hauptbahnhof; Vorstellung der DB Netz AG im Unterausschuss
+- TOP 3.3.2.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München, vertagt aus der Sitzung am 28.01.2020
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, München bewahren – Hinterhäuser, vertagt aus der Sitzung am 28.01.2020
+- TOP 5.2.: Bürgeranliegen, Urban-Gardening Projekt auf der Grünfläche zwischen Auen-, Wittelsbacher- und Geyerstraße
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Thalkirchner Straße Tempo 30
+- TOP 1.2.: Fußgänger-Querungshilfe Hackerbrücke Nord
+- TOP 1.3.: Sichtfeld Zebrastreifen Klinik Thalkirchner Straße
+- TOP 1.4.: Provisorische Radfahrstreifen für die Paul-Heyse-Straße zwischen Bayer- und Schwanthalerstraße stadteinwärts
+- TOP 1.5.: Auskunft des Referates für Gesundheit und Umwelt zur Geruchsproblematik im Schlachthof
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Erweiterung einer Freischankfläche, Fraunhoferstraße 39
+- TOP 2.3.1.: (E) Fußgängerübergang in der Auenstraße / Maximilianskirche
+- TOP 2.3.2.: (E) Sicherer Zugang zur Isar Empfehlung Nr. 14-20 / E 03048 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.3.3.: (E) Stellplatz für Fahrräder und (Kinder-)Roller vor dem Haupteingang der Grundschule am Gärtnerplatz (Klenzestraße 27) Empfehlung Nr. 14-20 / E 03039 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.3.4.: (E) Begrünung und Verkehrsberuhigung in der Baaderstraße Empfehlung Nr. 14-20 / E 03037 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.3.5.: (E) Umwandlung von einem PKW- in einen Fahrradstellplatz in der Hans-Sachs-Straße Empfehlung Nr. 14-20 / E 03032 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.3.6.: (E) Öffentliche Toilette in Gehweite zum Gärtnerplatz schaffen (Ziffer 3) Empfehlung Nr. 08-14 / E 01576 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012 Öffentliche Toilette am Gärtnerplatz schaffen, Toilettenanlage an der Reichenbachbrücke wieder in Betrieb nehmen (Ziffer 2) Empfehlung Nr. 08-14 / E 01578 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012 Öffentliche Toilette am Gärtnerplatz schaffen, Toilettenanlage an der Reichenbachbrücke wieder in Betrieb nehmen (Ziffer 2) Empfehlung Nr. 08-14 / E 01580 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012
+- TOP 2.3.7.: (E) Radabstellanlagen in der Jahnstraße Schaffung von mehr Fahrradabstellplätzen in der Jahnstraße Empfehlung Nr. 14-20 / E 01817 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017 Umwandlung von vier Auto- in Fahrradstellplätze in der Jahnstraße Empfehlung Nr. 14-20 / E 02286 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 2.3.8.: (E) Ausweitung der Sperrzeit einer Bar in der Tumblingerstraße 16
+- TOP 2.3.9.: (E) Einrichtung Zebrastreifen in der Wittelsbacherstraße vor der Einmündung Klenzestraße
+- TOP 3.: Anhörungen
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Fahrbahnsanierung Decke und Großstein Fugensanierung in der Ringseis- und Maistraße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Anstieg der Straßenreinigungsgebühren in der Müllerstraße um 112 %, vertagt aus der Sitzung am 28.01.2020
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Übertrag nicht verbrauchter Restmittel auf das Jahr 2020
+- TOP A 4.4.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Dezember 2019
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP B 4.3.: Baugenehmigung für das Vorhaben Landwehrstraße 28 a: Revitalisierung (inklusive Abbruch einzelner Bauteile) und Erweiterung eines Bürogebäudes Landwehrstraße 28 a / Schillerstraße 23 a
+- TOP B 4.4.: (U) Publikation „Historisches Grün – Anlagen in der Münchner Altstadt und Umgebung“
+- TOP B 4.5.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP B 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Fahrradstraße Zenettistraße und Fleischerstraße als Radl-Route zum Kulturzentrum Luise
+- TOP C 4.7.: Behindertenparkplätze und Lieferzonen Fraunhoferstraße
+- TOP C 4.8.: (U) Bürgerbegehren „Altstadt-Radlring“ Bürgerbegehren „Radentscheid“ Umsetzung - Teil I Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel Antrag 14-20 / A 00828 von der Fraktion Bündnis 90/Die Grünen/RL vom 24.03.2015 Radwegesicherheit XV: 2,50 Meter Mindestbreite für neue Radwege Antrag Nr. 14-20 / A 04104 der ÖDP vom 18.05.2018 Alter Botanischer Garten und Elisenstraße: Ertüchtigung des Parks und Errichtung von Radwegen Antrag Nr. 14-20 / A 04427 von der Fraktion FDP - HUT vom 07.09.2018 Sicherheit im innerstädtischen Radwegenetz erhöhen - Lücken dringend schließen Antrag Nr. 14-20 / A 04691 von der Fraktion DIE GRÜNEN/RL vom 23.11.2018 Altstadt-RadIring Antrag Nr. 14-20 / A 04960 von der Fraktion DIE GRÜNEN/RL, DIE LINKE und ÖDP vom 06.02.2019 Verkehrswende jetzt einleiten - autofreie Altstadt IV Neuaufteilung der Verkehrsflächen auf der Ludwigsbrücke, in der Zweibrückenstraße, am Isartor und am Thomas-Wimmer-Ring Antrag 14-20 / A 05125 von der Fraktion DIE GRÜNEN/RL vom 22.03.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 5 – Endlich Radstreifen für die Lindwurmstraße Antrag Nr. 14-20 / A 05346 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 Verkehrswende jetzt einleiten – Vorfahrt fürs Rad 6 – Provisorische Radstreifen für die Ludwigstraße Antrag Nr. 14-20 / A 05347 von der Fraktion DIE GRÜNEN/RL vom 10.05.2019 ...
+- TOP C 4.9.: Die Arndtstraße zur Spielstraße umgestalten
+- TOP C 4.10.: Öffnung der gesamten Schillerstraße für Radfahrer in Richtung Bayerstraße
+- TOP C 4.11.: (U) Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP C 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.13.: Übergangsbegrünung an der Fraunhoferstraße
+- TOP C 4.14.: Auf Kinder hören - Sicherheit für den Schulweg Kreuzung Corneliusstraße / Erhardtstraße für Fußgänger und Radfahrer entschärfen
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Gemeinsamer Austausch mit Herrn OB Reiter am 28.05.2019; ergänzendes Schreiben
+- TOP E 2: Bereich Besondere Angelegenheiten
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
