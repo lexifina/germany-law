@@ -42,7 +42,7 @@ Die Zeitgebühr beträgt je 15 Minuten 16,00 Euro.
 | Laufende Nummer |  |  | Euro |
 |  | Teil A |  |
 |  | Grundleistungen |  |
-|  | Die Gebühren für Grundleistungen bei landwirtschaftlich genutzten Tieren bemessen sich nach dem Einfachen nachstehender Sätze; dies gilt nicht für Leistungen, die bei Nacht (zwischen 19.00 und 7.00 Uhr) und während der Zeit des Bereitschaftsdienstes an Wochenenden (samstags 13.00 Uhr bis montags 7.00 Uhr) und Feiertagen erbracht werden. |  |
+|  | Die Gebühren für Grundleistungen bei landwirtschaftlich genutzten Tieren bemessen sich nach dem Einfachen nachstehender Sätze; dies gilt nicht für Leistungen, die bei Nacht und an Wochenenden außerhalb der regulären Sprechstunden einer tierärztlichen Praxis, Tierärztlichen Klinik oder sonstigen tierärztlichen Einrichtung sowie an Feiertagen erbracht werden. |  |
 | 10 | Beratung im einzelnen Fall ohne Untersuchung (auch schriftlich oder fernmündlich) | 7,04 |
 | 11 | Eingehende Anamneseerhebung oder Beratung |  |
 |  | das gewöhnliche Maß übersteigend einschließlich eingehender Vorbereitung, beispielsweise bei Verhaltensstörungen und im Rahmen von Naturheilverfahren, z. B. Akupunktur, Homöopathie etc. | 19,24 Z |
