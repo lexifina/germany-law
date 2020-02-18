@@ -113,7 +113,7 @@ Endnutzerleistungen
 
 ## Teil 4 Rundfunkübertragung
 
-- [§ 48 Interoperabilität von Fernsehgeräten](0048.md)
+- [§ 48 Interoperabilität von Fernseh- und Radiogeräten](0048.md)
 - [§ 49 Interoperabilität der Übertragung digitaler Fernsehsignale](0049.md)
 - [§ 50 Zugangsberechtigungssysteme](0050.md)
 - [§ 51 Streitschlichtung](0051.md)

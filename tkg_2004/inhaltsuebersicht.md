@@ -115,7 +115,7 @@
 | Teil 4 |
 | Rundfunkübertragung |
 |  |
-| § 48 | Interoperabilität von Fernsehgeräten |
+| § 48 | Interoperabilität von Fernseh- und Radiogeräten |
 | § 49 | Interoperabilität der Übertragung digitaler Fernsehsignale |
 | § 50 | Zugangsberechtigungssysteme |
 | § 51 | Streitschlichtung |
