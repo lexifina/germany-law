@@ -6,12 +6,12 @@
 | Dritter Abschnitt: | Zulassungsfreie Handwerke und handwerksähnliche Gewerbe | §§ 18 - 20 |
 | Zweiter Teil: Berufsbildung im Handwerk |  |
 | Erster Abschnitt: | Berechtigung zum Einstellen und Ausbilden | §§ 21 - 24 |
-| Zweiter Abschnitt: | Ausbildungsordnung, Änderung der Ausbildungszeit | §§ 25 - 27c |
+| Zweiter Abschnitt: | Ausbildungsordnung, Änderung der Ausbildungszeit | §§ 25 - 27d |
 | Dritter Abschnitt: | Verzeichnis der Berufsausbildungsverhältnisse | §§ 28 - 30 |
 | Vierter Abschnitt: | Prüfungswesen | §§ 31 - 40a |
 | Fünfter Abschnitt: | Regelung und Überwachung der Berufsausbildung | §§ 41 - 41a |
-| Sechster Abschnitt: | Berufliche Fortbildung, berufliche Umschulung | §§ 42 - 42j |
-| Siebenter Abschnitt: | Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung | §§ 42k - 42q |
+| Sechster Abschnitt: | Berufliche Fortbildung, berufliche Umschulung | §§ 42 - 42r |
+| Siebenter Abschnitt: | Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung | §§ 42p - 42v |
 | Achter Abschnitt: | Berufsbildungsausschuss | §§ 43 - 44b |
 | Dritter Teil: Meisterprüfung, Meistertitel |  |
 | Erster Abschnitt: | Meisterprüfung in einem zulassungspflichtigen Handwerk | §§ 45 - 51 |
@@ -24,7 +24,7 @@
 | Fünfter Teil: Bußgeld-, Übergangs- und Schlussvorschriften |  |
 | Erster Abschnitt: | Bußgeldvorschriften | §§ 117 - 118a |
 | Zweiter Abschnitt: | Übergangsvorschriften | §§ 119 - 124b |
-| Dritter Abschnitt: | Schlussvorschriften | § 125 |
+| Dritter Abschnitt: | Schlussvorschriften | §§ 125 - 126 |
 | Anlage A: | Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können | Nr. 1 - 41 |
 | Anlage B: | Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können |  |
 |  | Abschnitt 1 | Nr. 1 - 53 |

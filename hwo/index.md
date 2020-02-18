@@ -110,15 +110,14 @@ Umschulung
 - [§ 42h](0042h.md)
 - [§ 42i](0042i.md)
 - [§ 42j](0042j.md)
-
-### Siebenter Abschnitt Berufliche Bildung behinderter
-Menschen, Berufsausbildungsvorbereitung
-
 - [§ 42k](0042k.md)
 - [§ 42l](0042l.md)
 - [§ 42m](0042m.md)
 - [§ 42n](0042n.md)
 - [§ 42o](0042o.md)
+
+### Siebenter Abschnitt Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
+
 - [§ 42p](0042p.md)
 - [§ 42q](0042q.md)
 - [§ 42r](0042r.md)
@@ -262,8 +261,9 @@ zulassungspflichtigen Handwerk
 ### Dritter Abschnitt Schlußvorschriften
 
 - [§ 125](0125.md)
-- [Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Abs. 2)](anlage-a.md)
-- [Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Abs. 2)](anlage-b.md)
+- [§ 126](0126.md)
+- [Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Absatz 2)](anlage-a.md)
+- [Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2)](anlage-b.md)
 - [Anlage C zu dem Gesetz zur Ordnung des Handwerks
 (Handwerksordnung)](anlage-c.md)
 - [Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle](anlage-d.md)
