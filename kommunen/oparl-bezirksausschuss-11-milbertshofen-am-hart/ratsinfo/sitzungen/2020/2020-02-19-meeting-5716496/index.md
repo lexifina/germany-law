@@ -1,0 +1,79 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5716496
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5716496
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Neugestaltung und Renovierung des Spielplatzes am Hirschkäferweg - Antwortschreiben
+- TOP 4.2.2.: Max-Liebermann-Straße 6 (Weyprechthof): Bauvorhaben und geschützter Baumbestand - Antwortschreiben
+- TOP 4.2.3.: (U) Senioren- und Pflegeheim im 11. Stadtbezirk Standortsuche und Realisierung Vorschlag für den Standort: Brentano- und Abtstr. östlich der Einmündung der Lena-Christ-Str. in die Abtstraße (Fl.St.Nr. 279/21, 279/22, 280, Gemarkung Milbertshofen) Antrag Nr. 14-20 / B 03849 ............................. Bau einer Senioreneinrichtung am Harthof Empfehlung Nr. 14-20 / E 01672 ............. Seniorenwohnheim für Milbertshofen-Am Hart Antrag Nr. 14-20 / A 04659 ............................. Wohn- und Pflegeheime im 11. Stadtbezirk als kommunale Daseinsvorsorge der Landeshauptstadt München Empfehlung Nr. 14-20 / E 02131 ..................... Bau einer Seniorenresidenz mit Tagespflege am ehemaligen Busbahnhof Olympiapark Empfehlung Nr. 14-20 / E 02135 ............. Bau einer Senioreneinrichtung am ehemaligen Busbahnhof Olympiapark Empfehlung Nr. 14-20 / E 02134 ............
+- TOP 4.4.1.: Parkraumorganisation im Stadtbezirk 11
+- TOP 4.4.2.: Lena-Christ-Straße (Südseite) - Parken auf Gehwegen - Wunsch des BA 11: Runder Tisch - Antwortschreiben
+- TOP 4.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative „Wunderbuch 2.0“ für Grundschulkinder Theater „Wunderbuch 2.0“ für Grundschulkinder vom 01.04.2020 – 18.12.2020 1.800,00€; Az. 0262.0-11-0373
+- TOP 6.1.2.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Projektwochen "Smartphone und Medienkompetenz" vom 09. - 31.03.2020 2.400,00 Euro, Az.: 0262.0-11-0374
+- TOP 6.1.3.: (E) Stadtbezirksbudget FARHANG afghanischer Kultur- und Bildungsverein e.V. Fest „Nauroz/Nevruz“ am 21.03.2020 3.393,00€; Az. 0262.0-11-0376
+- TOP 7.1: Plenum
+- TOP 7.2.1.: (BSL) Haltestelle U-Bahnhof Harthof (Aufgang Weyprechtstraße Süd) - Anbringen einer Beleuchtung für den Fahrradabstellplatz
+- TOP 7.2.2.: (BSL) Bushaltestelle Röblingweg (Richtung Feldmoching) - Aufstellung eines Wartehäuschens mit Beleuchtung und einem großen Abfallbehälter
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: (BSL) Nietzschestraße 32 - Umwandlung eines KfZ-Stellplatzes in eine Fahrradabstellfläche
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Vollzug des BNatSchG und des BayNatSchG: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 8.2.2.: Anträge auf Baumfällungen bzw. Baumveränderungen: a) Hamburger Straße 22 - 28 b) Frankfurter Ring 128 / Langensalzastr. c) Wundtstr. 30-40 d) Riesenfeldstr. 89
+- TOP 8.2.3.: Oberhofer Platz 8 - 10 a) Bauvorhaben: Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks - Vorbescheid b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Lerchenauer Str. 136a a) Bauvorhaben: Neubau eines Gewerbegebäudes - Vorbescheid b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.5.: Moosacher Straße a) Bauvorhaben: Neubau eines Bürogebäudes b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.3.1.: Veranstaltung "Siedlerfest" auf dem Mettenleiterplatz am 01.05.2020
+- TOP 8.3.2.: Veranstaltung "Familien-Mutmach-Tag" - Milbertshofener Str. 72a am 21.05.2020
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Erinnerungsverfahren: Schleißheimer Straße/Petuelring (Kreuzung) - Straßenmarkierung/Verkehrsführung
+- TOP 8.4.2.: Veranstaltung „Blade-Night 2020“ auf öffentlichen Straßen ab 04.05.2020 bis 28.09.2020 (jeweils montags)
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Antworten zu den Themenfeldern des Austausches der BA-Vorsitzenden und Herrn OB Reiter
+- TOP 9.1.2.: Unveränderte Fortführung eines Gaststättenbetriebes: "Bi Lo`s" - Milbertshofener Straße 29
+- TOP 9.1.3.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte: EB GS Hildegard-v.-Bingen-Anger, Initiative Begleitung
+- TOP 9.2.1.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Baustelleneinrichtung im Oberhofer Weg - Seite Taunusstraße
+- TOP 9.2.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum - Abbruchanzeige: a) Riesenfeldstraße 52 b) Riesenfeldstraße 54 c) Griegstraße 22 und 24 d) Spitzerstraße 48
+- TOP 9.2.3.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 9.2.4.: Vollzug des BImSchG und UVPG Schleißheimer Straße 422: BMW FIZ Werk 1.5 - Änderung des Antriebszentrum durch technische Überarbeitung
+- TOP 9.2.5.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.6.: Meldelisten Bauvorhaben vom 06.01.2020 - 26.01.2020
+- TOP 8.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: U-Bahnlinie U2: Einschränkungen im Spätverkehr im Zeitraum 16. - 20.02.2020 durch Schienenwechsel im Bereich Königsplatz - Theresienstraße
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Ingolstädter Straße 101 – Verkürzung des Taxistandplatzes → Kurzparkzone b) Sudetendeutsche Straße - Kurzparkzone c) Ingolstädter Straße (Westseite) - absolutes Haltverbot
+- TOP 9.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 9.2: Bau / Umwelt
+- TOP 9.3: Kultur / Soziales
