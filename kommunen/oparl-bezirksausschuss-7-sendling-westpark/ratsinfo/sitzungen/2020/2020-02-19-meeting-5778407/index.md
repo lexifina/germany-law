@@ -1,0 +1,192 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5778407
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5778407
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 37.37.1: Baulisten
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Anerkennung Umgestaltung Werdenfelsstraße
+- TOP 6.6.2: Parksituation Audi Dome
+- TOP 6.6.3: Glasfaser Sendling-Westpark
+- TOP 6.6.3.1: Glasfaseranfrage
+- TOP 6.6.4: Information zum Bau eines Gebetshauses in der Edelsbergstraße 4
+- TOP 6.6.5: Nutzung des Audi Dome durch WWK Voleys Herrsching
+- TOP 6.6.6: Parksituation Lenaustraße & Martin-Behaim-Straße
+- TOP 6.6.7: Massnahmenpaket Moscheebau
+- TOP 6.6.8: Brunecker Straße
+- TOP 6.6.9: Ergebnis der Umfrage zur Höglwörther Straße
+- TOP 6.6.10: Fördersumme Mittagsbetreuung Elterninitiative
+- TOP 6.6.10.1: Mittagsbetreuung
+- TOP 6.6.11: Beschwerde neue Parkbank
+- TOP 8.8.1: (E) Gestalterische Aufwertung der S-Bahn-Unterführungen in Mittersendling Empfehlung Nr. 14-20 / E 03062 der Bürgerversammlung des Stadtbezirkes 07 – Sendling-Westpark am 19.11.2019
+- TOP 8.8.2: (E) Pflege der Gehölze und Beleuchtung der Parkfläche zwischen Hansastraße und Martin-Behaim-Straße Empfehlung Nr. 14-20 / E 03089 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 19.11.2019
+- TOP 8.8.3: (E) + (U) Einrichtung einer Tempo-30-Zone in der Passauer Straße zwischen Mittlerer Ring und Hasenthalweg
+- TOP 10.10.1: (E) Stadtbezirksbudget Iwanson Schule Veranstaltung „Around Town“ vom 04.03.2020 – 08.03.2020 11.393,02€; Az. 0262.0-7-0275
+- TOP 10.10.2: (E) Stadtbezirksbudget Alten- und Service-Zentrum (ASZ) Westpark Gesundheitswandern im ASZ Westpark von Mai 2020 bis April 2021 960,00€; Az. 0262.0-7-0277
+- TOP 10.10.3: (E) Stadtbezirksbudget Freunde der Kirchenmusik St. Heinrich e.V. Konzert „CONNECTED“ am 14.03.2020 1.015,00€; Az. 0262.0-7-0278
+- TOP 10.10.4: (E) Stadtbezirksbudget Initiative: Pädagogisches Camp KISKO KISKO vom 18.03.2020 – 20.03.2020 3.775,50€; Az. 0262.0-7-0280
+- TOP 11.11.1: Antrag Verpackungen
+- TOP 11.11.2: Antrag Fahrradständer Ehrwalderstr.
+- TOP 11.11.3: Antrag Luise-Kiesselbach-Platz Grünfläche
+- TOP 11.11.4: Antrag Platz für Fußgänger in der Krottenkopfstr
+- TOP 11.11.5: Erweiterung der Tempo-30-Zone um den Eichendorffplatz
+- TOP 11.11.6: Barrierefreier Zugang zur Polizeiinspektion 15
+- TOP 11.11.7: Durchführung von zwei Bürgerversammlungen pro Jahr in Sendling-Westpark
+- TOP 11.11.7.1: Bürgerversammlungen
+- TOP 11.11.8: Antrag SPD Volleyball im Audi Dome
+- TOP 11.11.8.1: Volleyball im Audi Dome
+- TOP 14.14.1: Heuwinkel-Hr.Wolf
+- TOP 14.14.2: Martin-Behaimstr.-Hr.Sturm
+- TOP 14.14.3: Johann-Clanze-Str.-Hr Meyer
+- TOP 14.14.4: Hahndorfer Str- Fr. Schoneweg
+- TOP 14.14.5: Westendstr.-Hr.Keller
+- TOP 14.14.6: Dauthendeystr.-Hr.jörg
+- TOP 14.14.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.15.1: Bauvorhaben Hundepfundweg
+- TOP 15.15.2: Bauvorhaben Hundertpfundweg
+- TOP 15.15.3: Bauvorhaben Rüdesheimer Str
+- TOP 15.15.4: Bauvorhaben Krüner Str.
+- TOP 15.15.5: Baumfällung Reulandstr.
+- TOP 16.16.1: Maibaumfest Luise-Kiesselbach-Platz
+- TOP 17.17.1: Theateraufführung Shakespeare im Theatron
+- TOP 17.17.2: Aktionstag des Schiffsmodellbaus
+- TOP 17.17.3: Westpark, Vesakh-Fest
+- TOP 18.: Baureferat
+- TOP 18.18.1: Fahrbahnsanierung Werdenfelsstr.
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Spendenlauf Südpark
+- TOP 22.22.2: Einrichtung eines Behindertenparkplatz im Bereich Pfaffenwinkel 27
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.28.1: Naturdenkmal
+- TOP 28.28.2: Wohnbebauung über Parkplätzen
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Bürgerinnen gestalten die Stadt. Fahrradabstellmöglichkeiten
+- TOP 31.31.2: Terminierung Umbaumaßnahmen
+- TOP 31.31.3: Gehwegabsenkung
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Ausschreibung Sicherheitsdienst Westpark
+- TOP 34.34.2: Kulturbürgerhaus für Sendling Westpark
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Kennzeichnung der Fußgängerübergänge
+- TOP 35.35.2: Anbringen einer Zickzacklinie Luise-Kiesselbach-Platz
+- TOP 35.35.3: Anwohnerversammlung zum Thema Parken Novalisstraße
+- TOP 35.35.4: Standort Dialog Display
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.2: LBK-Themen des BA 7
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Aschenbecher Partnachplatz
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 43.43.2: Parkplätze Siegburger Straße
+- TOP 43.43.3: Toilette U-Bahnhof Westendstraße
+- TOP 45.: Baureferat
+- TOP 45.45.1: Läuterung Westpark
+- TOP 45.45.2: Baumfällung Siegenburger Str.
+- TOP 45.45.3: Baumentfernung städt. Imobilien
+- TOP 45.45.4: Baumentfernung Westpark
+- TOP 45.45.5: Baumentfernung Schule Konrad.Celtes-Str.
+- TOP 45.45.6: (U) Aufwertungsmaßnahmen Sendlinger Wald / Südpark im 7. Stadtbezirk Sendling - Westpark und im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Projektkosten (Ausführungskosten): 2.310.000 Euro Ausführungsgenehmigung
+- TOP 45.45.7: Baumfällung Siegenburger Str
+- TOP 45.45.8: Gefahrenbaum Fernpaßstraße
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budget-Bescheid Trommelprojekt
+- TOP 47.47.2: Austausch OB Reiter
+- TOP 47.47.3: Verwendungsnachweis zwei Jurten
+- TOP 47.47.4: Verwendungsnachweis 100 Jahre Jubiläumsfeier
+- TOP 47.47.5: Änderungsbescheid Klasse Metzel
+- TOP 47.47.6: Verwendungsnachweis 50 Jahre Klingende Brücke in München
+- TOP 47.47.7: Kurzbericht geförderte Maßnahme SüdpART
+- TOP 47.47.8: Erstattung der Miete BA-Sitzungen 20
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Novalisstraße Rettungsweg
+- TOP 49.49.2: Absolutes Haltverbot Georg-Hager-Str
+- TOP 49.49.3: Rettungsweg Grüntenstr/Rettungsweg
+- TOP 49.49.4: Rettungsweg OetztalerStraße
+- TOP 49.49.5: Behindertenparkplatz U-Bahnhof Westpark
+- TOP 49.49.6: Behindertenparkplatz U-Bahnhof Partnachplatz
+- TOP 49.49.7: Behindertenparkplatz S-Bahnhaltestelle Mittersendling
+- TOP 49.49.8: Verkehrsaufsichtliche Erlaubnis Gilmstr.
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: MTV München 1879 e.v
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Ausnahmezulassung Tram
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Baumfällung Uttinger Str.
+- TOP 55.55.2: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 55.55.3: Unterbindung des LKW-Verkehrs im 7. Stadtbezirk
+- TOP 55.55.4: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 55.55.5: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 55.55.6: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 55.55.7: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren Begrünung gegen steigende Hitzebelastung Empfehlung Nr. 14-20 / E 02748 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Münchner Bevölkerung vor Folgen des Klimawandels und der steigenden Hitzebelastung schützen (Antrag a) Empfehlung Nr. 14-20 / E 02750 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019 Ergebnisse der Klimasimulation für Münchner Bauvorhaben auf der Homepage der LHM veröffentlichen (Antrag b) Empfehlung Nr. 14-20 / E 02751 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 55.55.8: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 55.55.9: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 55.55.10: (U) Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 55.55.11: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 55.55.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.55.13: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 55.55.14: Problemzone Säulingstraße,Kreuzung Rauheck-und Edelsbergstr
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zweckentfremdung Andreas-Vöst-Straße
+- TOP 56.56.2: Vollzug der Erhaltungssatzung Hansastraße
+- TOP 56.56.3: Münchner-Inklusionstag 2020
+- TOP 56.56.4: Fristverlängerung Mädchentreff
+- TOP 56.56.5: (U) Entwurf des Mehrjahresinvestitionsprogramms 2019 - 2023 Einzelplan 4 / Jugendamtsbereich
+- TOP 56.56.6: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Personalaufstockung in der Einrichtung "Trafixx" in Obersendling Empfehlung Nr. 14-20 / E 02517 ........................ "Mädchentreff Blumenau" I: Anerkennung als eigenständige Einrichtung und Anpassung der finanziellen Förderung Antrag Nr. 14-20 / B 05956 ................................ "Mädchentreff Blumenau" II: Ausstattung des Mädchentreffs mit 2 unbefristeten Vollzeitstellen (Soziale Arbeit) Antrag Nr. 14-20 / B 05958 ........................ "Mädchentreff Blumenau" IV: Ortsnah zusätzlichen Raum für Einzelberatung anmieten Antrag Nr. 14-20 / B 06048 ......................................
+- TOP 56.56.7: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 56.56.8: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 56.56.9: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020 Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 56.56.10: (U) Satzung zur Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München (Mieterbeiratssatzung) Gleichstellung bei der Besetzung des Mieterbeirates
+- TOP 56.56.11: Erhaltungssatzung Euckenstr.
+- TOP 57.57.1: Bericht Mieterbereit
+- TOP 57.57.2: Information Schienenschleifarbeiten U6
