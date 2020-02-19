@@ -1,0 +1,51 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2020-02-19T15:00:00+01:00
+- Ende: 2020-02-19T16:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVjFhh_RuQw3GxLXVCLfDGo
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/562
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZ6jdIBCTqBtgOS1qJcHPBcR6pquG36keJCInqlG4nP/Einladung_Seniorenbeirat_19.02.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUTWDo8K7JU8ojihwM-7i3rGOQLQbCD8DTnJPM6HVQBY/Oeffentliche_Niederschrift_Seniorenbeirat_19.02.2020.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 3.1: Verbindliche kommunale Pflegeplanung für den Zeitraum März 2020 bis März 2023 - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Bochumer Ortsteile kompakt 2019 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.2: Sachstand öffentliche Toiletten in Bochum / "Toilette für alle" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.3: Hausbesuche für Senioren ab 75 Jahren - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.4: Friedhofsmobil Freigrafendamm - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.5: Sachstand 1.000 Bänke-Programm - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.6: Stolpergefahr durch Baumwurzeln auf dem Husemannplatz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.7: Mündlicher Bericht zum Begleitdienst bei Fahrten mit der BOGESTRA
+- TOP 8.8: Mündliche Berichte aus den Gremien
+- TOP 9: Anfragen
+- TOP 9.1: Sicherer Zugang zum Seniorenbüro Südwest - Anfrage des Seniorenbeirates - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.2: Bürgersteigabsenkung an der Querungshilfe Tippelsberger Str. / Elfenstr.
+- TOP 9.3: Besetzung der Koordinierungsstelle - Anfrage des Seniorenbeirates - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
