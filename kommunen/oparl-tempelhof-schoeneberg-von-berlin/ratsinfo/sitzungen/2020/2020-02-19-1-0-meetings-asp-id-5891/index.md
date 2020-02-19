@@ -1,0 +1,89 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-02-19T17:00:00+01:00
+- Ende: 2020-02-19T21:55:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5891
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5891
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=349655
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Nachbesetzung einer/s Bürgerdeputierten als beratendes Mitglied im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Nachbesetzung einer/s Bürgerdeputierten als stimmberechtigtes Mitglied im Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Nachbesetzung einer/s Bürgerdeputierten als beratendes Mitglied in Vertretung im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 3.4: Nachbesetzung einer/s Bürgerdeputierten als stimmberechtigtes Mitglied in Vertretung im Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 3.5: Wahl eines Bezirksamtsmitglieds - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Zebrastreifen vor der Tempelherren Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Gefährliches Über-Rot-Fahren an der Kreuzung Groß-Ziethener Straße/Nahariyastraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Gleditschstrasse Achtung keine voreiligen Handlungen - vertagt
+- TOP 6.3: Ein Verkehrskonzept für Neu-Tempelhof - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Modellvorhaben "Fliegende Klassenzimmer“ - beantwortet
+- TOP 8.2: Wo leidet die Gesundheit der Tempelhof-Schöneberger*innen unter den Auswirkungen der Umweltbelastung am stärksten – was kann das Bezirksamt dagegen tun? - beantwortet
+- TOP 8.3: LARA schützen – Räume für den Schutz von Frauen* vor Gewalt im Bezirk sichern - beantwortet
+- TOP 8.4: Mitarbeiterplanung im Bezirk - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Ehemaliges Pumpwerk Lichtenrade - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Gegen rechte Gewalt: Wanderausstellung „Immer wieder?“ im Bezirk zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Kontrollen auf Märkten durchführen - überwiesen
+- TOP 10.4: Gedenktafel für entrechtete Bezirks- und Stadtverordnete 1933 - überwiesen
+- TOP 10.5: Verkehrssicherheit für alle Verkehrsteilnehmerinnen und Verkehrsteilnehmer erhöhen - überwiesen
+- TOP 10.6: Verkehr in der Gartenstadt Neu-Tempelhof überwachen und reduzieren – Anwohner endlich entlasten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Chance nutzen - Bahnübergang Buckower Chaussee den Anforderungen des Mobilitätsgesetzes anpassen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Haltestellenüberdachung Yorckstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: LKW-Verkehr auf der Stadtautobahn reduzieren - in der BVV abgelehnt
+- TOP 10.10: Flächennutzung am Sachsendamm - überwiesen
+- TOP 10.11: Gedenktafel an den Schöneberger Widerstand gegen den Kapp-Putsch 1920 wieder sichtbar machen - in der BVV zurückgezogen
+- TOP 10.12: Kapp-Putsch-Gedenktafel wieder am Kaiser-Wilhelm-Platz 3a anbringen - mit Änderungen in der BVV beschlossen
+- TOP 10.13: Den FahrRat zu einem MobilitätsRat weiterentwickeln - überwiesen
+- TOP 10.14: Tempo-30-Zone auf die Rathausstraße in Mariendorf ausweiten - überwiesen
+- TOP 10.15: Sparsamer Umgang mit den Kapazitäten der Sportverwaltung - überwiesen
+- TOP 10.16: Organspende - ja bitte! - überwiesen
+- TOP 10.17: Gemeinschaftshaus Lichtenrade fit für die Zukunft machen - überwiesen
+- TOP 10.18: Klimaschutzplan für Tempelhof-Schöneberg - emissionsneutrales Bezirksamt ansteuern - überwiesen
+- TOP 10.19: Kippen in den Kasten - Ballot Bins für Tempelhof-Schöneberg - überwiesen
+- TOP 10.20: Keinen dauerhaften Sperrmüll-Abstellplatz am Crellemarkt entstehen lassen II - ohne Änderungen in der BVV beschlossen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 11.1: Ausbau der Radverkehrs-Infrastruktur im Bezirk - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Erschütterungen in der Goltzstraße in Lichtenrade - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Goltzstraße für den Umleitungsverkehr für die Zeit der jahrelangen Sperrung des Bahnübergangs an der Bahnhofstraße ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Temporäre Spielstraßen auch in Tempelhof-Schöneberg einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Recht vor Technik – Anträge rechtssicher bescheiden - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fahrradunterstand vom P+R-Parkplatz in der Lichtenrader Steinstraße entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Konzept für E-Roller-Parkplätze erarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Wohnquartier Albert- / Ebersstraße wirksam vor Durchgangsverkehr schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Keine Zwangsräumungen bei Mieter_innen in Sozialleistungsbezug durch die städtischen Wohnungsbau-Gesellschaften - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bezirksbelange in den Planungsprozess Tempelhofer Damm einbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Parkhäfen am Gustav-Müller-Platz nur für Pkw - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Aussetzen der Sanktionen bei ALG II-Bezieher_innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Sichere und bequeme Fußwege im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Dringliche Haushaltssperre: finanzielle Unwägbarkeiten auf Grund Vorkaufsrecht - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Ausstattung von Spiel- und Sportgeräten für den Winterspielplatz 2020 - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Bezuschussung des Projekts "25 Jahre Kabarett Korsett" - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Bezuschussung des Projekts "Originalquellen retten, Digitalisiertes zeigen, Generationen verbinden" - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Bezuschussung einer Konzertreise des Sinfonie Orchesters Tempelhof (SOT) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: GREEN BUDDY AWARD zukünftig mit stärkerer Beteiligung der Bezirksverordnetenversammlung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: Sportgeschichte festhalten - Aufarbeitung nationalsozialistischer Vergangenheit fördern - überwiesen
+- TOP 13.3: Hartz 4-Sanktion wegen Meldeversäumnisse verringern, durch Änderung der Verwaltungspraxis bei der Einladungen zu Meldeterminen – Auswahlmöglich-keit der Leistungsbeziehenden bei der Terminvergabe. - überwiesen
+- TOP 13.4: Lichtenrader Graben als Aufenthaltsort und als Wegeverbindung ertüchtigen - überwiesen
+- TOP 13.5: Kontrollen im Rudolf-Wilde-Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.6: Bäume im Kleistpark retten - überwiesen
+- TOP 13.7: Querungshilfen für Radfahrende und Fußgänger*innen in der Alarich- und in der Rathausstraße einrichten - überwiesen
+- TOP 13.8: Einleitung des Verfahrens zur Aufstellung des Bebauungsplans 7-95 für die Grundstücke Röblingstraße 90/162, Attilastraße 46-59 sowie die Flurstücke 127, 130, 133 und 135 der Flur 9 im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof - überwiesen
+- TOP 14: Termin der nächsten Sitzung - im Ausschuss abgelehnt
