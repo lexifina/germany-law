@@ -1,0 +1,158 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2020-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5667044
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5667044
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Abstimmung, Planung und Umsetzung der provisorischen Lichtsignalanlage an der Kreuzung Aubinger- / Helmut-Schmidt-Allee in Freiham Nord, Vorstellung durch Vertreter des Baureferates
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.19
+- TOP 10.2: Beschluss des Kommunalausschusses vom 09.01.20
+- TOP 10.3: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.19
+- TOP 10.4: Beschluss des Bauausschusses vom 04.02.20
+- TOP 10.5: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.02.20
+- TOP 10.6: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.02.20
+- TOP 10.7: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.02.2020:
+- TOP 10.8: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.01.20
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Aufstellung Sitzgelegenheit Bushaltestelle Limesstraße (Antwort dazu unter TOP 6.3.2.14); Errichtung ASZ in Freiham
+- TOP 2.1.2.: Baustelle an der Langwieder Hauptstr., neben dem Flüchtlingsheim
+- TOP 2.1.3.: (N) Einsetzen eines/r Campusmanager/in für den Bildungscampus Freiham
+- TOP 2.1.4.: (N) Planung zur Schließung der Hortgruppe Aubing 2
+- TOP 2.1.5.: (N) Neubaugebiet Freiham - Grünfinger-Grünband
+- TOP 2.1.6.: (N) Überfüllte Wertstoffcontainer Ecke Altostr. / Grabenfleckstr.
+- TOP 2.1.7.: (N) Mobilfunkanlage Grunschule Gotzmannstraße
+- TOP 2.1.8.: (N) Quartiersplatz Colmdorfstraße
+- TOP 2.1.9.: (N) Verhinderung einer geplanten Baumfällaktion Aubinger Lohe / östlicher Teil
+- TOP 2.1.10.: (N) Flüchtlingsunterkunft Centa-Hafenbrädl-Str.
+- TOP 2.1.11.: (N) Zustand des Harthauser Wegs (vertagt aus 01/20)
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Fabrikstr. 9 - Distelfinkweg 21 - Walter-Schnackenberg-Weg - Altenburgstr. 3 - Ulrich-Corti-Str. 1 - Schönbrunner Str. 15 - Lichtenfelser Str. 24 - Kurt-Floericke-Str. 21 - Sigererstr. 1 - Oswaldweg 40
+- TOP 3.1.2.: Baumfällungen zu Bauvorhaben: - Köferinger Str. 4 - Allinger Str. 29 - Kleiberweg 11-11a - Rupert-Bodner-Str. (N) - Lichtenfelser Str. 36
+- TOP 3.1.3.: Genehmigungsbescheid zur Baumfällung Schönbrunner Str. 15, Schr. Planungsreferat vom 28.01.20
+- TOP 4.1.: Nachbarschaftstreff für das Quartier um die Gilchinger Straße (Fr. Bacak, Hr. Federmann, Fr. Mosch)
+- TOP 4.2.: Frische Luft für die Umgebung (Reinhard Bernsdorf)
+- TOP 4.3.: Planungsstand der Feuerwache im 22. Stadtbezirk (Sebastian Kriesel, Sibylle Schrott, Christina Stelzer)
+- TOP 4.4.: Sanierung der Fahrbahn in der Müllerstadlstraße (Christian Stockmann, Jürgen Schrader, Sebastian Kriesel)
+- TOP 4.5.: Sanierung Wiesentfelser Str. im Bereich zwischen Ellis-Kaut-Str. und Bodenseestr. (Sebastian Kriesel, Sibylle Schrott)
+- TOP 4.6.: Schutz des 22. Stadtbezirkes vor Schleichverkehr, Planungsstand Pförtnerampel BAB A 99 Germering Nord, Durchsetzung Durchfahrtsverbot Hörweg (Sebastian Kriesel, Jürgen Schrader)
+- TOP 4.7.: Verbesserungen für das Ehrenamt und Vereine ermöglichen (Sebastian Kriesel, Jürgen Schrader, Christiana Stelzer)
+- TOP 4.8.: Fachärztliche Unterversorgung mit Kinderärzten im Bereich des 22. Stadtbezirkes (Christina Stelzer, Sebastian Kriesel, Jürgen Schrader)
+- TOP 4.9.: Versorgungslage im Aubinger Ortskern (Dagmar Mosch, Karin Binsteiner, Barbara Ney)
+- TOP 4.10.: Verkehrssicherheit in der Aubing-Ost-Straße (Dagmar Mosch, Karin Binsteiner, Barbara Ney)
+- TOP 4.11.: Alleen und Radwege oder -streifen neu schaffen und bestehende ergänzen (Siegfried Liedl, Dagmar Mosch, Karin Binsteiner)
+- TOP 4.12.: Einschränkung des LKW-Verkehrs (Verkehrszeichen 253) (Dagmar Mosch, Karin Binsteiner, Barbara Ney)
+- TOP 4.13.: (N) Dringlichkeitsantrag: Entfernung des Stromkabels Georg-Böhmer-Str. 1 (Dagmar Mosch, Barbara Ney, Karin Binsteiner)
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung, hier: - Programm Barrierefreie Bushaltestellen, Aubinger Straße, Haltestelle Ravensburger Ring
+- TOP 5.2.: (E) Stadtbezirksbudget Siedlergemeinschaft Aubing-Ost e.V. Anschaffung eines Zeltes für die Sommerfeste 694,88 Euro, Az.: 0262.0-22-0135
+- TOP 6.1.1.1.: Veranstaltung in einer städtischen Grünanlage: Skate-Programm/Kurse High Five e.V. in der Wiesentfelserstraße immer Donnerstags von 30.04.-29.10.20, Anhörung KVR vom 04.02.20
+- TOP 6.1.1.2.: (N) Veranstaltung auf Privatgrund, hier: Willlkommensfest Otto-Meitinger-Str. 7 / Freiham Nord WA 5 am 21.02.20, Anhörung KVR vom 17.02.20
+- TOP 6.1.2.1.: (N) Übersicht Unterkünfte Flüchtlinge und Wohnungslose, Stand: Dezember 2019, Schr. Sozialreferat vom 06.02.20
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Kurzzeitparkmöglichkeiten in der Nähe des Sonderpädagogischen Förderzentrums am Bildungscampus Freiham, Schr. Ref. f. Bildung u. Sport vom 20.01.20
+- TOP 6.2.2.2.: Tag der offenen Türe an den neuen Schulen, Schr. Ref. f. Bildung u. Sport vom 17.01.20
+- TOP 6.2.2.3.: Schulbusbeförderung an die Helmut-Schmidt-Allee, Schr. Referat für Bildung und Sport vom 03.02.2020
+- TOP 6.2.2.4.: Kindersprechstunde des BA 21 - Anregung für Schulcampus Freiham, Schr. BA 21 vom 30.01.2020
+- TOP 6.2.2.5.: Verkehrsrechtliche Anordnung, hier: - Helmut-Schmidt-Str. 41, Einrichtung einer Anfahrtszone für den Bildungscampus Freiham, Schr. KVR vom 23.01.20 (Vorgang unter TOP 6.3.2.1)
+- TOP 6.2.2.6.: (N) Ein zweiter Schulstandort für Lochhausen und Langwied, Schr. Ref. f. Bildung u. Sport vom 30.01.20
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Erinnerungsverfahren; Limesstr. 49 / Kohlsteiner Str. 23, Gehbahn / Radweg - Fahrbahn-/-deckensanierung, Anhörung Baureferat vom 15.01.20
+- TOP 6.3.1.2.: Erinnerungsverfahren; Limesstr. 43, Gehbahn / Radweg zw. Einmündung Kohlsteiner Str. und Limesstr. 41, Anhörung Baureferat vom 27.01.20
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung, hier: Ehrenbürgstr. 29 - Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung KVR vom 05.02.20
+- TOP 6.3.1.4.: Verkehrsrechtliche Anordnung, hier. Kallmünzer Str. 8 -Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 05.02.20
+- TOP 6.3.1.5.: Verkehrsrechtliche Anordnung, hier: Trimburgstr. 4a - Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 05.02.20
+- TOP 6.3.1.6.: Verkehrsrechtliche Anordnung, hier: Radolfzeller Straße - Altenburgstraße, Reduzierung der Höchstgeschwindigkeit aus Gründen des Lärmschutzes im Straßenzug auf 30 km/h, Anordnung des Regelbetriebes, Anhörung KVR vom 03.02.20
+- TOP 6.3.1.7.: (N) Verkehrsrechtliche Anordnung, hier: Freienfelsstr., Kita-Anfahrtszone und absoluten Haltverbot, Anhörung KVR vom 11.02.20
+- TOP 6.3.1.8.: (N) Verkehrsrechtliche Anordnung, hier: Plankenfelser Str., Aufhebung der Zeichen 136 StVO mit Zusatz "Kindergarten", Anhörung KVR vom 11.02.20
+- TOP 6.3.1.9.: (N) Verkehrsrechtliche Anordnung, hier: Elisabeth-Jost-Str. / Lohmeierweg, Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 11.02.20
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnung, hier: - Helmut-Schmidt-Str. 41, Einrichtung einer Anfahrtszone für den Bildungscampus Freiham, Schr. KVR vom 23.01.20 (N) - Freienfelsstr., Einrichtung eines absoluten Haltverbotes mit dem Zusatz "Feuerwehranfahrtszone", Schr. KVR vom 12.02.20 (N) - Freihamer Weg, Einrichtung eines absoluten Haltverbotes, Schr. KVR vom 12.02.20
+- TOP 6.3.2.2.: Mittelbahnsteig am S-Bahnhof Aubing, Schr. Ref. f. Arbeit u. Wirtschaft vom 16.01.20
+- TOP 6.3.2.3.: Parkplatzproblem durch den Sirius Business Park, Schr. KVR vom 15.01.20
+- TOP 6.3.2.4.: Situation Eschenrieder Straße bei Parkplatzsperrung Langwieder Seenplatte, Schr. KVR vom 16.01.20
+- TOP 6.3.2.5.: Umgestaltung des neu gebauten Gehwegs Ubostraße, Schr. MGS vom 27.01.20
+- TOP 6.3.2.6.: Verkehrssituation in Aubing Bereich Kastelburgstraße / Kronwinklerstraße, Schr. KVR vom 30.01.20
+- TOP 6.3.2.7.: Sperrung der Krögelsteiner Straße für den LKW-Durchgangsverkehr, Schr. KVR vom 30.01.20
+- TOP 6.3.2.8.: Errichtung einer Höhenkontrolle an der Unterführung Altostraße / Limesstraße, Schr. KVR vom 29.01.20
+- TOP 6.3.2.9.: Aufhebung des verkehrsberuhigten Bereichs in der Kronwinkler Straße, Schr. KVR vom 29.01.20
+- TOP 6.3.2.10.: Jahresgenehmigung 2020 für Reinigungsarbeiten an oberirdischen Verkehrsanlagen im Stadtgebiet München Nord - Ausnahmezulassung nach BImSchG, Schr. RGU vom 04.02.2020
+- TOP 6.3.2.11.: (N) Aschenbecher an den Mülleimern an der S-Bahn-Haltestelle Leienfelsstraße, Schr. Referat für Arbeit und Wirtschaft vom 30.01.20
+- TOP 6.3.2.12.: (N) Stadtbus 157, Bauvorhaben an der Aubing-Ost-Str. / Ecke Ilse-Fehling-Straße, Schr. MVG vom 06.02.20
+- TOP 6.3.2.13.: (N) Errichtung einer Tempo-30-Zone im Bereich der Bebauung am Krähenweg, Schr. KVR vom 05.02.20
+- TOP 6.3.2.14.: (N) Bushaltestelle Limesstraße - Errichtung einer Sitzbank, Schr. MVG vom 06.02.20
+- TOP 6.3.2.15.: (N) Waldschranke Aubinger Lohe S 4, Schr. Planungsreferat vom 04.02.20
+- TOP 6.3.2.16.: (N) Parkverbotsschilder am Durchgang Lohmaierweg / Elisabeth-Jost-Straße, Schr. KVR vom 11.02.20
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bauleitplanung der Stadt Germering, Vorhabenbezogener Bebauungsplan "Germeringer Norden, Briefverteilzentrum der Deutschen Post AG" mit Vorhaben und Erschließungsplan sowie 7. Änderung des Flächennutzungsplans, Anhörung Planungsreferat vom 21.01.20
+- TOP 6.4.1.2.: Kreuzkapellenstr. 89, Revitalisierung, Umbau und Erweiterung einer Gaststätten- und Hotelanlage - Vorbescheid, Anhörung Planungsreferat vom 27.01.20
+- TOP 6.4.1.3.: Vollz. d. Bundesnaturschutzgesetzes und des Bay. Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung der LH München, Anhörung Planungsreferat vom 17.01.20
+- TOP 6.4.1.4.: Gemeinde Bergkirchen, Bebauungsplan Nr. 98, Palsweis, Fuchsbergweg, Anhörung Planungsreferat vom 28.01.20
+- TOP 6.4.1.5.: Schussenrieder Str. 10, Neubau eines Mehrfamilienhauses (7 WE) mit Mittel-Tiefgarage, Anhörung Planungsreferat vom 29.01.20
+- TOP 6.4.1.6.: Langwieder Hauptstr. 8c, Neubau eines 3-Spänners, Anhörung Planungsreferat vom 04.02.20
+- TOP 6.4.1.7.: Bergsonstraße, Flurst. 2108/9, Beleuchtete Litfaßsäule, Anhörung Planungsreferat vom 04.02.20
+- TOP 6.4.1.8.: (N) Wiesentfelser Str., Fl.Nr. 1211/3, 1 beleuchtete Litfaßsäule (Wiesentfelser Str. /Ellis-Kaut-Str.), Anhörung Planungsreferat vom 06.02.20
+- TOP 6.4.1.9.: (N) Schussenrieder Str. 16, Neubau von 4 Wohnhäusern mit Tiefgarage, Anhörung Planungsreferat vom 06.02.20
+- TOP 6.4.1.10.: (N) Lochhausener Str. 201-201 a, Neubau eines Laborgebäudes, Anhörung Planungsreferat vom 11.02.20
+- TOP 6.4.1.11.: (N) Papinstr. 45-47, Neubau eines Wohngebäudes (10 WE) - Vorbescheid, Anhörung Planungsreferat vom 13.02.20
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 06.01.-12.01.20, 13.01.-19.01.20, 20.01.-26.01.20, 27.01.-02.02.20, (N) 03.02.-09.02.20
+- TOP 6.4.2.2.: Klimaschutz vor Ort 3, 1.000 Bäume für den Stadtbezirk, Schr. Baureferat vom 02.01.20
+- TOP 6.4.2.3.: Baumaßnahmen der Stadtwerke München, Stichtag: 09.01.-20.01.20
+- TOP 6.4.2.4.: (N) Nachfrage Quartier an der Henschelstraße, Schr. Planungsreferat vom 06.02.20
+- TOP 6.4.2.5.: (N) REWE Markt in der Ubostr. 68, Schr. REWE vom 03.02.20
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, Anhörung Direktorium vom 16.12.19 (vertagt aus 01/20)
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Erlbachstr., Schr. Sozialreferat vom 21.01.20 (N) - Köferinger Str., Schr. Sozialreferat vom 05.02.20 (N) - Scharinenbachstr., Schr. Sozialreferat vom 05.02.20 (N) - Schussenrieder Str., Schr. Sozialreferat vom 04.02.20
+- TOP 8.2.: Unveränderte Fortführung des Gaststättenbetriebes "Cafe 222", Bodenseestr. 222, Schr. KVR vom 03.02.20
+- TOP 8.3.: (N) Veranstaltungsübersicht Februar 2020, Schr. Kulturreferat vom 11.02.20
+- TOP 9.1.: Erstattung der Mieten für Räumlichkeiten zu Bezirksausschuss-Sitzungen in 2020, Schr. Direktorium vom 24.01.2020
+- TOP 10.1.1.: (U) Folgen des Klimawandels und Hitzebelastung in München reduzieren
+- TOP 10.1.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 10.1.3.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung
+- TOP 10.1.4.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2019 - 2023 Infrastrukturversorgungskonzept 2019 – 2023
+- TOP 10.2.1.: (U) Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Privatstraße auf dem Gut Freiham
+- TOP 10.3.1.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2020, Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 10.3.2.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2020, Vollzug des Haushaltsplans 2020 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 10.3.3.: (U) Haushaltsplan 2020 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2020, Vollzug des Haushaltsplanes 2020 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 10.4.1.: (U) Verlängerung der U-Bahn-Linie 5-West von Pasing nach Freiham 1. Sachstand Vorplanung 2. Bedarfs- und Konzeptgenehmigung für Vorhaltemaßnahmen Die U-Bahn schneller nach Freiham bringen BA-Antrag Nr. 14-20 / B 07123 des Bezirksausschusses des Stadtbezirkes 22 Aubing - Lochhausen - Langwied vom 20.11.2019
+- TOP 10.5.1.: (U) Soziale Infrastrukturversorgung Lochhausen im Umgriff der Henschelstraße Bebauungsplan mit Grünordnung Nr. 2084, Anmietung einer offenen Einrichtung für Kinder und Jugendliche im Alter von 12 bis 21 Jahren 22. Stadtbezirk – Aubing-Lochhausen-Langwied 1. Genehmigung des Bedarfs 2. Zustimmung zur Planung 3. Standortsicherung 4. Ermächtigung des Kommunalreferats zu vorbereitenden Verhandlungen für die Anmietung
+- TOP 10.5.2.: (U) Soziale Infrastruktur für Kinder, Jugendliche und Familien; Freiham Nord 2. Realisierungsabschnitt (2. RA) Teileigentumserwerb/Anmietung von Räumen für ein Familienzentrum, Zustimmung zur Planung und Genehmigung der Flächenbedarfe für ein Familienzentrum Teileigentumserwerb/Anmietung von Räumen für eine Außenstelle der für den 22. Stadtbezirk zuständigen Erziehungsberatungsstelle, Zustimmung zur Planung und Genehmigung der Flächenbedarfe für die Außenstelle der für den 22. Stadtbezirk zuständigen Erziehungsberatungsstelle Neubau einer Einrichtung der Offenen Arbeit für Kinder und Jugendliche Zustimmung zur Planung und Genehmigung der Flächenbedarfe für die Einrichtung der Offenen Arbeit für Kinder und Jugendliche im Alter von 12 bis 21 Jahren in Freiham Neubau einer Einrichtung der Offenen Arbeit für Kinder im Alter von fünf bis elf Jahren "Abenteuerspielplatz mit Festbau", Zustimmung zur Planung und Genehmigung der Flächenbedarfe für einen Abenteuerspielplatz mit Festbau Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.6.1.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 10.7.1.: (U) Siedlungsschwerpunkt Freiham 2. Realisierungsabschnitt Freiham Nord A) Bekanntgabe des Ergebnissees des städtebaulichen und landschatsplanerischen Wettbewerbes für den 2. Realisierungsabschnitt und der Vergabeentscheidung zur Rahmenplanung 2. Realisierungsabschnitt B) Bebauungsplan mit Grünordnung NR.: Hörweg (südlich), Aubinger Allee (westlich), Annemarie-Renger-Straße (nördlich), Zukünftiger Landschaftspark Freiham Aufstellungsbeschluss Nr. 2083 (östlich) (Teiländerung des Bebauungsplans mit Grünordnung Nr. 2092) - Aufstellungbeschluss- C) Weiteres Vorgehen Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.7.2.: (U) Nahverkehrsplan der Landeshauptstadt München 1. Ergebnisse des Teils Qualitätsstandards 2. Grundlagen der Fortschreibung des Infrastrukturteils 3. Sachstand zum Thema Barrierefreiheit im ÖPNV 4. Anträge und Empfehlungen
+- TOP 10.7.3.: (U) Siedlungsschwerpunkt Freiham, Vorstellung des Mobilitätskonzepts für Freiham Nord unter Einbeziehung der Impulse aus der Modellstadt 2030 und Vergabe von Beratungs- und Moderationsleistungen für eine Mobilitätskoordination für Freiham Nord Erholungsgebiet und Bademöglichkeiten für Freiham BA-Antrags-Nr. 14-20 / B 06933 des Bezirksausschusses des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied vom 16.10.2019
+- TOP 10.7.4.: (U) Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP 10.8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.: (N) Faschingsclub Laim e.V. zur Schlüsselübergabe im Pasinger Rathaussaal am 19.02.20 um 18.30 Uhr
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 18.03.2020 um 19.30 Uhr im Bürgersaal am Westkreuz, Friedrichshafener Str. 17 - UA Planen/Bauen/Umwelt: Montag, den 10.02.20 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 11.02.20 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, den 12.02.20 um 19.00 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 13.02.20 um 19.00 Uhr, Friedrichshafener Str. 11
+- TOP 3.1: Baumschutzbeauftragte
