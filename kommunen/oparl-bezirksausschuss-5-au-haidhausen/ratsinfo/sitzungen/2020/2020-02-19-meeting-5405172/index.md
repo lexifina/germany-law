@@ -1,0 +1,137 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-02-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405172
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405172
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Ergänzungen: - A 5.7 Dringliche Aufnahme des Pestalozzi-Gymnasiums in das aktuelle 3. Schulbauprogramm - A 7.1 Fahrrad-Testevent auf dem Mariahilfplatz vom 16.05.-17.05.2020
+- TOP 5.1.: Baumgräben schützen
+- TOP 5.2.: Bazeillesschule: Schutz der Mauer
+- TOP 5.3.: Fußampel Innere Wiener/Stubenvollstraße
+- TOP 5.4.: Kirchenstraße: Nachbarschaftliches Gärtnern
+- TOP 5.5.: Rotmarkierung der Radwege an der Kreuzung Ohlmüllerstraße/Falkenstraße
+- TOP 5.6.: Sportplatz im Hypo-Park dringend ertüchtigen
+- TOP 5.7.: Dringliche Aufnahme des Pestalozzi-Gymnasiums in das aktuelle 3. Schulbauprogramm
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil am 18. + 20.02.2020 1.500,00 € / Az. 0262.0-5-0275 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Improtheaterfestival München e.V. Spontaneous Arts Conference - SPARC vom 07.-09.02.2020 3.153,00 € / Az. 0262.0-5-0276 - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kita Kinderreich Anschaffung einer Schaukel 3.147,03 € / Az. 0262.0-5-0277 - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Iwanson International Around Town vom 04.-08.03.2020 2.000,00 € / Az. 0262.0-5-0278 - siehe auch UA Kultur -
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Il Padrino", Kirchenstr. 44 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Genehmigung einer Freischankfläche für einen Lottoladen in der Zeppelinstr. 3 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Müll entsorgen unter der Wittelsbacher Brücke Empfehlung Nr. 14-20 / E 01649 ....
+- TOP 7.1.: Fahrrad-Testevent auf dem Mariahilfplatz vom 16.05.-17.05.2020
+- TOP 8.1.1.: Dächer mit Photovoltaik-Anlagen nachrüsten
+- TOP 8.1.2.: Wiederherstellung der Radwegmarkierung vom Anwesen Ohlmüllerstr. 40-44
+- TOP 8.1.3.: Einbau von Pollern am Michael-Huber-Weg
+- TOP 8.1.4.: Busbahnhof am Ostbahnhof neu denken
+- TOP 8.1.5.: Tassiloplatz, Haltverbot am Zugang zum Park
+- TOP 8.1.6.: Versammlungsstätten für nachbarschaftliches Engagement
+- TOP 8.1.7.: Räumlichkeiten für Projekt-Laden International Haidhausen
+- TOP 8.1.8.: Stolperfalle und Ampel auf Fußüberweg am Ostbahnhof entfernen
+- TOP 8.1.9.: Große Piktogramme für alle Fahrradstraßen
+- TOP 8.1.10.: Zunehmender Busverkehr in der Maria-Theresia-Straße (südlicher Teil)
+- TOP 8.4.1.: Infoblatt Februar 2020
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Improtheaterfestival München e.V. Spontaneous Arts Conference - SPARC vom 07.-09.02.2020 3.153,00 €
+- TOP II.2.: (E) Stadtbezirksbudget Iwanson International Around Town vom 04.-08.03.2020 2.000,00 €
+- TOP III.: UA Soziales
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Stationäres Hospiz für den Münchner Osten - Vorstellung durch den Hospizdienst DaSein e.V. -
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kita Kinderreich Anschaffung einer Schaukel 3.147,03 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung einer Begegnungsstätte in der Au Empfehlung Nr. 14-20 / E 02484 der Bürgerversammlung vom 26.02.2019 Antrag BA 5 Nr. 14-20 / B 07009 vom 16.10.2019
+- TOP 3.: Unterrichtungen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil am 18. + 20.02.2020 1.500,00 € => dazu: Einladung zur Mitmachausstellung des Demokratiemobils
+- TOP 1.2.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Il Padrino", Kirchenstr. 44
+- TOP 1.3.: Genehmigung einer Freischankfläche für einen Lottoladen in der Zeppelinstr. 3
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Anlieferzone Kellerstraße Antwort Gasteig zum BA-Schreiben vom 30.10.2019
+- TOP 3.2.: Antwortschreiben des KVR Veranstaltungsbüro zu BA-Stellungnahmen a) Demokratiemobil 18.02.2020 an der VHS Einsteinstr. 28 b) Flohmärkte des AKA e.V. auf der Postwiese am 09.05. und 12.09.2020
+- TOP V.: UA Planung
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Standort für eine öffentliche Toilette am Johannisplatz - Vorstellung durch das Baureferat -
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 46: Umbau, Renovierung und Dachgeschossausbau sowie Nutzungsänderung der Erdgeschossräume, Tektur
+- TOP 2.2.: Franziskanerstr. 15: Neubau eines Mehrfamilienhauses mit Tiefgarage, Vorbescheid
+- TOP 2.3.: Breisacher Str. 25: Aufstockung eines Mehrfamilienhauses und Errichtung eines hofseitigen Anbaus mit einem Personenaufzug (Vordergebäude) sowie Errichtung eines Stadthauses (Rückgebäude) und Hubparkers
+- TOP 2.4.: Wörthstr. 23: Erneuerung und Vergrößerung der bestehenden Balkone, statische Ertüchtigung der Decke der Durchfahrt zwischen Keller- und Erdgeschoss
+- TOP 2.5.: Eduard-Schmid-Str. 36: Nutzungsänderungen im Obergeschoss: Technisches Büro zu Flur, Schulung und Mehrzweckraum 1,2, Zeichensaal zu Schulung; Erdgeschoss: Kasse zu Personalraum, Telefonzentrale und Kleingartenverband zu Getränke Abstellraum, Verwaltung und Betriebsrat zu Personalraum, Kleingartenverband und Außendienst zu Wohnen und Anbau einer Fluchttreppe zur energetischen Sanierung des Azubigebäudes
+- TOP 2.6.: Rosenheimer Str. 117: Ausbau eines Dachspeichers zur Wohnraum-Erweiterung durch eine aufgemauerte Dachgaube
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 3.3.: (U) Publikation „Historisches Grün – Anlagen in der Münchner Altstadt und Umgebung“
+- TOP 3.4.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Keine weitere Genehmigungen für Dachausbauten
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Grundsatzbeschluss Sharing-Mobilty Vorstellung und gemeinsamer Austausch mit dem Planungsreferat
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Errichtung einer Ladezone in der Kirchenstr. 86 Vertagung aus der Sitzung vom 22.01.2020
+- TOP 2.2.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 2.3.: Trogerstr. 17a: Fällung von 3 Bäumen
+- TOP 2.4.: Mariahilfplatz 17a und 18: Fällung von 1 Baum, Baumveränderung an 2 Bäumen
+- TOP 2.5.: Gebsattelstr. 14: Fällung von 1 Hainbuche
+- TOP 2.6.: Falkenstr. 48: Fällung von 1 Ahorn, 1 Robinie und 1 Weide
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Baumschutz in der Landeshauptstadt München Anträge und Empfehlung a) Hart durchgreifen bei nicht genehmigten Grundstücksrodungen Antrag Nr. 14-20 / A 05024 b) Mehr Schutz für Bäume I Sicherheitsleistung für Baum-Ersatzpflanzungen auch in München einführen – Lebensqualität in München bewahren Antrag Nr. 14-20 / A 05151 c) Mehr Schutz für Bäume II Höhere Strafen bei ungenehmigten Baumfällungen Antrag Nr. 14-20 / A 05152 d) Mehr Schutz für Bäume VI Baumrecht gegenüber Baurecht stärken – keine Baumfällungen mehr für Tiefgaragen Antrag Nr. 14-20 / A 05156 e) Unterbindung und deutliche Bestrafung nicht genehmigter Baumfällungen / Grundstücksrodungen BA-Antrags-Nr. 14-20 / B 05913 f) Baumrecht vor Baurecht Empfehlung Nr. 14-20 / E 02504 g) Gartenstadt Obermenzing; Drastische Erhöhung des Bußgeldes für Baumrodungen ohne Genehmigung Empfehlung Nr. 14-20 / E 02538 h) Schutz der Bäume und des Charakters / der städtebaulichen Kultur im Stadtviertel Empfehlung Nr. 14-20 / E 02531
+- TOP 3.2.: Weitere Sammelplätze für Christbäume im Franzosenviertel - Zwischennachricht -
+- TOP 3.3.: Begrünung der Eggernstraße, hier: Fassadenbegrünung Antwort des St. Josefs-Verein e.V. zum BA-Schreiben vom 25.09.2019
+- TOP 3.4.: Baumfällung Gallmayerstr. 13 Antwort der Unteren Naturschutzbehörde zur BA-Stellungnahme vom 23.01.2020
+- TOP 3.5.: Verbesserung der Abstellsituation von E-Tretrollern durch Einrichtung gesonderter Abstellflächen Einladung zu einem Austausch mit dem KVR am 20.02.2020 um 17 Uhr
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Gefährdung von Schülerinnen und Schülern des Campus Kirchenstraße beim Überqueren der Kirchenstraße durch passierende Fahrradfahrer
+- TOP 4.2.: Parkverbot Zeppelinstr. 69-71
+- TOP 4.3.: Schulwegsicherheit an der Grundschule Ernst-Reuter-Straße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 09.03.2020, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 09.03.2020, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 10.03.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 11.03.2020, 19.00 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 12.03.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.03.2020, 19.00 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Dienstag, 03.03.2020, 19 Uhr, Friedenstraße 40
