@@ -1,0 +1,76 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-02-19T17:00:00+01:00
+- Ende: 2020-02-19T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4183
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4183
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Altglascontainer im Bezirk - beantwortet
+- TOP 3.2: Neuer Auftakt in Richtung eines Wohnraumbündnisses für Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Aktueller Fall von Lungentuberkulose - beantwortet
+- TOP 3.4: Jugendfreizeiteinrichtung Schottenburg 2020 – Zustand, Planungen und Betriebsaufnahme - beantwortet
+- TOP 3.5: Mensabauprogramm – auch in Steglitz-Zehlendorf? - beantwortet
+- TOP 3.6: Angebot für Obdachlose am Kreisel - beantwortet
+- TOP 3.7: Gesundheitsämter vorbereitet auf Corona-Pandemie? - beantwortet
+- TOP 3.8: Spielplätze für behinderte Kinder im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.9: Fahrradwege Schloßstraße - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Nachwahl von einem Mitglied in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungsplan 6-34B (Dahlem) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Franz Kafka-Gedenktafel Grunewaldstraße 13 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Verlängerung der U9 bis zum R- und S-Bahnhof Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Die Einwohner nach vorne! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Die U9 bis nach Lankwitz weiterführen - in der BVV abgelehnt
+- TOP 4.9: Ressourcen der Zentralstelle für Prävention beim Landeskriminalamt Berlin nutzen - in der BVV abgelehnt
+- TOP 4.10: Ungebundenen Sport im Steglitzer Stadtpark ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Kreuzung Mühlenstraße/Echtermeyerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Fußgängerüberweg im Dahlemer Weg Höhe Jägerndorfer Zeile einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Fahrradwege sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: "BeeStops" - Haltestellendächer begrünen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Bei Spielplätzen auch für Kinder unter drei Jahren planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Radfahrer an die Straßenverkehrsordnung erinnern I - in der BVV abgelehnt
+- TOP 4.17: Ampelkreuzung Fischerhüttenstraße/Potsdamer Straße mit Vorrangschaltung für Bus X11 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Wannsee, Schlachtensee und Nikolassee besser mit der Innenstadt verbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Neuordnung Busverkehr Großbeeren – Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Carsharing Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Transparenz schaffen: Aktuelle Anträge auf Erteilung eines Bauvorbescheides der BVV zur Verfügung stellen - in der BVV abgelehnt
+- TOP 4.22: Jährlicher Wohnungsneubaubericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Umbenennung Hindenburgdamm - überwiesen
+- TOP 5.2: Verdrängung stoppen! Milieuschutz für Steglitz-Zehlendorf II - überwiesen
+- TOP 5.3: Verdrängung stoppen! Milieuschutz für Steglitz-Zehlendorf III - überwiesen
+- TOP 5.4: Kein Bebauungsplan X-B 6-30 für Lichterfelde-Süd (Parks-Range) ohne das Grundeigentum des Landes Berlin an der „Grünen Mitte“/ „Lichterfelder Weidelandschaft“ - überwiesen
+- TOP 5.5: Anlaufstelle für Obdachlose im Herzen Steglitz unterstützen - überwiesen
+- TOP 5.6: Historischen Gedenk- und Lernort in Lichterfelde-Süd entsprechend Einwohnerantrag realisieren - überwiesen
+- TOP 5.7: Gedenk- und Lernort in Lichterfelde-Süd kennen und erleben - überwiesen
+- TOP 5.8: Absicherung für den Ferdinandmarkt jetzt sofort! - überwiesen
+- TOP 5.9: Rattenplage im und um das Geisterhaus Gardeschützenweg 3 - überwiesen
+- TOP 5.10: Straßen ökologisch aufwerten II - überwiesen
+- TOP 5.11: Sicherung des Lern- und Gedenkortes Lichterfelde-Süd - überwiesen
+- TOP 5.12: Schule und Neubau in Lichterfelde-Süd zeitgleich beginnen - überwiesen
+- TOP 5.13: Einrichtung eines Ausschusses „Inklusion – Gesellschaftliche Teilhabe behinderter Menschen“ in der Bezirksverordnetenversammlung Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Reaktionsfähigkeit steigern durch Protokolleinsicht Gedenk- und Lernort Lichterfelde-Süd - überwiesen
+- TOP 5.15: Mehr Polizeischutz für Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.16: Internetpräsenz Grunewaldseen - überwiesen
+- TOP 5.17: Busbeschleunigung in der Schildhornstraße - überwiesen
+- TOP 5.18: Erich Fellgiebel angemessen würdigen - überwiesen
+- TOP 5.19: Zebrastreifen Straße Am Rohrgarten/Einmündung Lissabonallee - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Mittelausschöpfung bauliche Unterhaltung 2019 - beantwortet
+- TOP 6.2: Missstände an den Schulen im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Verdrängung stoppen! Milieuschutz für Steglitz-Zehlendorf I - überwiesen
+- TOP 7.2: Milieuschutz für Steglitz-Zehlendorf - überwiesen
+- TOP 7.3: Nägel mit Köpfen machen: Machbarkeitsstudie für die Einpassungsplanung der Anna-Essinger-Gemeinschaftsschule am Osteweg 53 jetzt in Auftrag geben - überwiesen
