@@ -1,0 +1,7 @@
+# TOP 11.: Reisekostenvergütung bei Fortbildungsveranstaltungen
+
+- Sitzung: Rat (40. Sitzung) (2020-02-20)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/24200
+- Ergebnis: Einstimmig, 0 Enthaltungen
