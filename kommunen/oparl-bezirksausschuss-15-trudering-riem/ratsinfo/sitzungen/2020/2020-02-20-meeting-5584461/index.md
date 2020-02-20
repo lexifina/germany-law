@@ -1,0 +1,156 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2020-02-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5584461
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5584461
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Stahlgruberring 21
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung des BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 10: Unterrichtungen
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 7.3.3 Messestadt Riem Kopfbau und Tribünenanlage Sanierungskonzept und Nutzerbedarf 15. Stadtbezirk Trudering-Riem Sanierung und Nutzung des denkmalgeschützten Tribünen-Kopfbaus in der Messestadt zügig und konsequent angehen Antrag Nr. 14-20 / A 05093 von der Fraktion DIE GRÜNEN/RL vom 15.03.2019 Sitzungsvorlage Nr. 14-20 / V 17829 Beschluss des Kommunalausschusses vom 05.03.2020 (VB) Anhörung des Bezirksausschusses
+- TOP 1.3.2.: 7.4.18 Kameruner Straße 2, Fl.Nr.: 456/22 - Neubau einer Wohnanlage (16 WE) mit Tiefgarage (Kameruner Straße 2 / Tangastraße 51a)
+- TOP 2.1.1.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Ausstattung des Kompetenzzentrums „Barrierefreies Wohnen zu Hause“ 25.361,18 € / Az. 0262.0-15-0323 Vertagung aus der Januarsitzung - Behandlung im UA Schule, Soziales und Kultur
+- TOP 2.1.2.: (E) Stadtbezirksbudget Pfarrbüro St. Florian, DPSG Messestadt Riem, Stamm Galileo Galilei Stammestag am 18.07.2020 828,80 € / Az. 0262.0-15-0333
+- TOP 2.1.3.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Gymnasium Trudering e.V. Veranstaltung zum Start eines Ballons vom 06.-24.07.2020 970,00 € / Az. 0262.0-15-0334
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative „Neue Bohème“ Inszenierung Konzert/ Lesung 16.10.2020 4.350,- €; Az. 0262.0-15-0335
+- TOP 2.2.1.: (E) Helsinkistraße: Einrichtung eines Fußgängerüberwegs und verstärkte Falschparkerkontrollen
+- TOP 2.2.2.: (E) Fauststr. 90: Heckenordnung Begründung für ausstehenden Schadensersatz (Ziffer 1) Wiederherstellung der gerodeten Hecke (Ziffer 2) Empfehlung Nr. 14-20 / E 2869 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 10.10.2019
+- TOP 2.2.3.: (E) + (U) Rolltreppenergänzung am U-Bahnhof Messestadt-Ost Empfehlung Nr. 14-20 / E 02888 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 10.10.2019
+- TOP 2.2.4.: (E) Friedrich-Creuzer-Straße beidseitiges Halteverbot (Ziffer 1) Einrichten einer Ampelphase für Linksabbieger in die Zehntfeldstraße (Ziffer 2) Vertagung aus der Januarsitzung in den UA Bau und Verkehr zur Erarbeitung einer Stellungnahme
+- TOP 2.2.5.: (E) Fahrradweg Kreillerstraße / Bajuwarenstraße rot einfärben (Ziffer 1) Fahrradweg Feldbergstraße rot einfärben und verstärkte Kontrolle der falsch abgestellten Fahrzeuge an der Bezirkssportanlage (Ziffer 2)
+- TOP 2.2.6.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 Abhalten eines Flohmarktes am 25.04.2020 auf dem Platz der Menschenrechte (Ersatztermin: 02.05.2020)
+- TOP 3.1.1.: Riemer Park: Bademöglichkeit für Hunde
+- TOP 3.2.1.: Schramminger Weg: Verkehrssicherheit
+- TOP 3.5.1.: Riemer Park: Informationstafel zum künstlerischen Urheber der Panoramabank am Rodelhügel
+- TOP 3.6.1.: Riemer Park: Anpflanzung von 500 Bäumen (vornehmlich Obst- und Nussbaumarten)
+- TOP 4.1.: Radwege an der Truderinger Straße von Schatzbogen bis zur Einmündung WaBuLa ertüchtigen
+- TOP 4.2.: Unterflurcontainer – zukünftiger Standard für Trudering-Riem
+- TOP 4.3.: Kreuzung Zehntfeldstraße / Friedrich-Creuzer-Straße
+- TOP 4.4.: Verkehrsprobleme Friedrich-Creuzer-Straße
+- TOP 4.5.: Wasserburger Landstraße: Situation für Radfahrende verbessern, ohne „das Kind mit dem Bade auszuschütten“
+- TOP 4.6.: Auswirkung des neuen Maßnahmengesetzvorbereitungsgesetz MgvG auf die aktuellen Bahnprojekte im Münchner Osten
+- TOP 4.7.: Kinder-/Jugendgerechte Planung der Widmannsiedlung und Grünanlage Theodor-Kober-Straße
+- TOP 5.1.: Errichtung eines Outdoor-Floorball-Feldes in der Messestadt-Riem Wiedervorlage gemäß Beschluss aus der Novembersitzung 2019
+- TOP 5.2.: Bus wartet wirklich auf U-Bahn - Anschlusssicherung 2.0 in Trudering endlich realisieren Wiedervorlage gemäß Beschluss aus der Novembersitzung 2019
+- TOP 5.3.: Ampeln ausschalten, Bushaltestellen beleuchten
+- TOP 5.4.: Darstellung der Sportflächensituation in der Messestadt gemeinsames Antwortschreiben mit TOP 5.5
+- TOP 5.5.: Auslastung der Sportstätten im Stadtbezirk Trudering-Riem gemeinsames Antwortschreiben mit TOP 5.4
+- TOP 5.6.: Marianne-Plehn-Straße / Karpfenstraße / Kreuzung Kreillerstraße: Optimierung der Nord-Süd-Fahrradverbindung
+- TOP 5.7.: Flughafen-Riem-Straße / Vallettastraße: Erhöhung der Fußgängersicherheit
+- TOP 5.8.: Geothermie Riem: keine erneute Drohung mit dem Einbau von Temperaturbegrenzern!
+- TOP 5.9.: Stahlgruberring: Parkplatzmangel aufgrund dauerhaft abgestellter Fahrzeuge - Begrenzung der Parkzeit auf 2 Stunden
+- TOP 5.10.: Spielplatz an der Gemeinschaftsunterkunft Stolzhofstraße 25 aufwerten
+- TOP 5.11.: Antrag zum Aufstellen von grünen "Betreten für Hunde verboten" Pollern auf einer Grünfläche am Leonhardiweg 68
+- TOP 5.12.: Reitanlage Riem: Lärmbelästigung durch und Unrat nach Veranstaltungen
+- TOP 5.13.: Barrierefreier Ausbau des S-Bahnhof Riem: aktueller Stand der Baumaßnahmen
+- TOP 5.14.: Eindeutige Fahrgastinformation am S-Bahnhof Trudering
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Riemer Park: Kursanmeldung Hundeschule für 2020
+- TOP 7.1.2.: Veranstaltung in städtischen Grünanlagen hier: Spielbus des Echo e.V. am 17.04., 08./09.06., 27.-29.07. und 03./04.09.2020 im Riemer Park, Ruth-Beutler-Str. zwischen Nr. 20 und 4 Frist: 13.03.2020
+- TOP 7.1.3.: Veranstaltung in städtischen Grünanlagen hier: Vatertags-Fußballturnier am 21.05.2020 in der Grünanlage Graf-Spee-Platz Frist: 07.04.2020
+- TOP 7.1.4.: Veranstaltung in städtischen Grünanlagen hier: 18. Feldkirchner Straßenlauf des TSV Feldkirchen am 17.05.2020 in Feldkirchen - München, Riemer Park Frist: 26.02.2020
+- TOP 7.1.5.: Veranstaltung in einer städtischen Grünanlage Riemer Park immer Montags ab 27.04.2020 bis 26.10.2020 Skate-Programm/Kurse High Five e.V. im Zeitraum: 17.04.2020 - 29.10.2020 Termin: 01.04.2020
+- TOP 7.1.6.: Laufveranstaltung XLETIX Challenge und schauinsland Muddy Angel Run in München-Riem zuzügl. Feldkirchen und Haar vom 20.06. bis 21.06.2020 Frist: 13.03.2020
+- TOP 7.1.7.: Veranstaltungen in städtischen Grünanlagen mehrere Standorte - Stbz. 15: Riemer Park, Spielnachmittage des RBS, Mai 20 bis April 21, sonntags Frist: 27.03.2020
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Fahrbahnsanierung Truderinger Straße zwischen Schmuckerweg und Nikolaus-Prugger-Weg Vertagung aus der Januarsitzung
+- TOP 7.2.2.: Austausch von Lichtsignalanlagen Erdinger Straße / Riemer Straße
+- TOP 7.2.3.: Austausch von Lichtsignalanlagen Truderinger Straße / Ursberger Straße
+- TOP 7.2.4.: Hotelanfahrtszone Wamslerstraße 7 Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Frist: 16.03.2020
+- TOP 7.2.5.: Anfahrtszone für Kita Hippelstraße 30 / 30a Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Frist: 23.03.2020
+- TOP 7.2.6.: Gefahrzeichen „Achtung Kinder“ (Z 136 StVO) Xaver Weismor-Straße, Spielplatz Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Frist: 18.03.2020
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Bebauuungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg, Karl-Marx-Ring, Niederalmstraße, Stemplingeranger Herstellung und Umbau der öffentlichen Verkehrsflächen Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse Stellungnahme des Baureferats zum Schreiben des BA 15 sowie Schreiben des Baureferats zur Stellungnahme des BA 16
+- TOP 7.3.2.: Bauleitplanung der Gemeinde Aschheim 45. Änderung des Flächennutzungsplans Verfahren nach § 4 Abs. 2 BauGB Frist: 13.03.2020
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Lachenmeyrstraße 28-30, Fl.Nr.: 458/5 - Neubau von 4 Mehrfamilienhäusern mit Tiefgarage
+- TOP 7.4.2.: Xaver-Weismor-Straße 75, Fl.Nr.: 96/32 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.3.: Riemer Straße 343, Fl.Nr.: 1635/1 - Errichtung eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.)
+- TOP 7.4.4.: Graf-Spee-Platz 10, Fl.Nr.: 486/11 - Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage
+- TOP 7.4.5.: Feldbergstraße 2b, Fl.Nr.: 384/6 - Wintergartenerweiterung und Umbau eines Reihenendhauses mit Neubau eines Gästepavillons
+- TOP 7.4.6.: Am Moosfeld 84, Fl.Nr.: 82/22 - Neubau von 4 Doppelhaushälften mit Garagen
+- TOP 7.4.7.: Truderinger Straße 306, Fl.Nr.: 296/0 - Neubau eines Hotelgebäudes mit Tiefgarage - TEKTUR zu 1.1-2017-17437-32
+- TOP 7.4.8.: Askaripfad 4, Fl.Nr.: 467/13 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.9.: Kurzhuberstraße 3, Fl.Nr.: 282/8 - TEKTUR zu 1.2-2018-28962-32 - Errichtung eines Mehrfamilienhauses (7 WE) mit Tiefgarage und eines Doppelhauses mit 2 Garagen - JETZT: Mehrfamilien- und Doppelhaus mit TG (8 Stpl.)
+- TOP 7.4.10.: Schmuckerweg 4, Fl.Nr.: 237/0 - Abbruch bestehendes Wohnhaus mit Garagen, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.11.: Wiesbachhornstraße, Fl.Nr.: 363/142 - Neubau eines Einfamilienhauses mit Nebengebäuden
+- TOP 7.4.12.: Xaver-Weismor-Straße 56, Fl.Nr.: 96/43 - Neubau einer Wohnanlage (2 Baukörper) mit gemeinsamer Tiefgarage - VORBESCHEID
+- TOP 7.4.13.: Fabinistraße 30, Fl.Nr.: 84/46 - Neubau eines Wohnhauses (3 WE) mit Garage
+- TOP 7.4.14.: Friedenspromenade 79, Fl.Nr.: 313/18 - Abbruch Bestandsbebauung, Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 7.4.15.: Schmuckerweg 10, Fl.Nr.: 189/32 - TEKTUR zu 1.2-2019-24722-32 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.16.: Solalindenstraße 54, Fl.Nr.: 931/1 - Abbruch eines Einfamilienhauses mit Garage, Neubau eines Mehrfamilienhauses mit überdachter Tiefgaragenzufahrt und Nebengebäuden - VORBESCHEID
+- TOP 7.4.17.: Wasserburger Landstraße 283, Fl.Nr.: 452/3 - Neubau zweier Wohngebäude mit gemeinsamer Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Grünanlage zwischen Rotkehlchenweg, Häherweg und Wasserburger Landstraße: Umgang mit Hunden auf den Sportplätzen Stellungnahmeersuchen des Baureferats zur Beantwortung eines Bürgeranliegens
+- TOP 7.5.2.: Messestadt: Errichtung eines zusätzlichen Bolzplatzes Bitte des Referats den Antrag zurückzuziehen
+- TOP 7.6: UA Umwelt
+- TOP 7.6.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Frist: 10.03.2020
+- TOP 9.1.1: Zustimmung zur beantragten Baumfällung Am Messesee 2
+- TOP 9.2.: Vorstellung des Projekts "III. stationäres Hospiz für München" des Vereins Hospizdienst DaSein e.V. im UA Schule, Soziales und Kultur Bericht des UA-Vorsitzenden Vertagung aus der Januarsitzung
+- TOP 10.1: UA Allgemeines
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) sowie Widerruf einer verkehrsrechtlichen Anordnung nach Art. 49 Abs. 1 des Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG) Messestadt West - Riem Neue Wegweisung zum Bauzentrum
+- TOP 10.2.2.: verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO Gartenstadtstraße Z 286 ("eingeschränktes Halteverbot") vor Wertstoffcontainern
+- TOP 10.2.3.: verkehrsrechtliche Anordnung nach § 45 StVO Feldbergstraße Anbringung einer Gefahrzeichenbeschilderung „Radverkehr“ (Zweirichtungsradverkehr)
+- TOP 10.2.4.: verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO Zehntfeldstraße zwischen Bajuwarenstraße / Corinthstraße und Neusönner Straße Z 283 StVO ("absolutes Halteverbot")
+- TOP 10.2.5.: verkehrsrechtliche Anordnung nach § 45 StVO Kopenhagenstraße Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 10.2.6.: verkehrsrechtliche Anordnung nach § 45 StVO Erdinger Straße Einrichtung eines absoluten Haltverbots
+- TOP 10.2.7.: verkehrsrechtliche Anordnung nach § 45 StVO Tangastraße personenbezogener Behindertenparkplatz: Änderung des Zusatzes
+- TOP 10.2.8.: verkehrsrechtliche Anordnung nach § 45 StVO Karotschstraße Errichtung absoluten Haltverbotes
+- TOP 10.2.9.: verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO Max-Beckmann-Straße Z 283 StVO ("absolutes Halteverbot") im Kurvenbereich
+- TOP 10.2.10.: verkehrsrechtliche Anordnung nach § 44 und § 45 StVO Fauststraße zwischen Friesplatz und Nauestraße Vollsperre vom 01.04. - 03.07.2020 Arbeiten im Straßenraum: Bau einer Gasleitung
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.2.: Brenner Nordzulauf, München Trudering - Grafing Informationsveranstaltung Stadt Grafing / Gmd. Assling am 21.01.2020 Bericht des Referats für Stadtplanung und Bauordnung
+- TOP 10.3.3.: Bauleitplanung der Gemeinde Aschheim Aufstellung eines Bebauungsplanes Nr. 085/05 „Teiländerung und Erweiterung der Bebauungspläne Nrn. 085, 085/01, 085/02 und 085/04 – Umbau der Hof- und Verkehrsflächen und Erweiterung des Betriebsgeländes des Frachtpostzentrums in Aschheim“ Verfahren nach § 4 Abs. 1 BauGB Stellungnahme der Landeshauptstadt München an die Gemeinde Aschheim
+- TOP 10.3.4.: (U) Rahmenplanung Wasserburger Landstraße - Beschlussfassung Stadtbezirk 15 - Trudering Riem
+- TOP 10.3.5.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie A) Bekanntgabe des Entwurfs der Hochhausstudie B) Durchführung des weiteren Diskussions- und Beteiligungsprozesses
+- TOP 10.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.10.: Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Heilwigstraße 26
+- TOP 10.4.1.2: Georg-Thiele-Straße 1
+- TOP 10.4.1.3: Am Moosfeld 84
+- TOP 10.4.1.4: Iltisstraße 79
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Ausbau der Mietberatungsstelle Stärkung der Beratungsleistungen für Mieterinnen und Mieter in Not Antrag Nr. 14-20 / A 04196 ...............
+- TOP 10.5.2.: Satzung zur Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München (Mieterbeiratssatzung) Gleichstellung bei der Besetzung des Mieterbeirates
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Postweg
+- TOP 1.3.3.: 8.2.34 Friedenspromenade 79 8.2.35 Jagdhornstraße 2 8.2.36 Dachsteinstraße 20 8.2.37 Marthastraße 2 8.2.38 Dresselstraße 21 8.2.39 Schneefinkenweg 17 8.2.40 Windhuker Straße 10 8.2.41 Lehrer-Götz-Weg 22 8.2.42 Halleiner Straße 3 8.4.43 Xaver-Weismor-Straße 75
+- TOP 8.2.1.: Askaripfad 4 Böcklerweg 22 Dachsteinstraße 30 Emplstraße 1 Forellenstraße 22 Friedenspromenade 14 Galopperstraße 10 Groß-Nabas-Straße 4 Häherweg 14 Kameruner Straße 2 Kilihofstraße 36 Kurzhuberstraße 3 Lehrer-Götz-Weg 8 Matterhornstraße 17a Neusönnerstraße 12a Oberseestraße 5 Riemer Straße 335 Riemer Straße 343 Sansibarstraße 44 Schmuckerweg 4 Schmuckerweg 10 Schwedensteinstraße 25 Solalindenstraße 54 Solalindenstraße 60 Stahlgruberring 4 Truchthari-Anger 12 Tsingtauer Straße 97 Wachtelweg 37 Wasserburger Landstr. 283 Waterbergstraße 8 Westermeierstraße 6 Wiesbachhornstraße Xaver-Weismor-Straße 56
