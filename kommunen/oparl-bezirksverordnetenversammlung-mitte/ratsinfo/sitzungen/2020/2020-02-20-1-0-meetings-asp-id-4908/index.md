@@ -1,0 +1,137 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-02-20T17:30:00+01:00
+- Ende: 2020-02-20T22:45:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4908
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4908
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=463766
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: - Verschmutzte Gehwege durch Krähen - Zustand von Gehwegen - Bebauung Parkflächen Rochstraße geplant? - beantwortet
+- TOP 2.2: Bedarfsgemeinschaften - beantwortet
+- TOP 2.3: Betreuungsplatz für Kita - beantwortet
+- TOP 2.4: Vorstellungen in den Märchenhütten im Monbijoupark - erledigt
+- TOP 2.5: Vorstellungen in den Märchenhütten im Monbijoupark - erledigt
+- TOP 2.6: Bedarfsgemeinschaften nach dem SGB II - erledigt
+- TOP 2.7: Bedarfsgemeinschaften nach dem SGB II - Wohnen - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Standesamt in Not - beantwortet
+- TOP 7.2: Unnötige Entwurzelung der Bäume und Sträucher vor der Charlotte-Pfeffer-Schule? - beantwortet
+- TOP 7.3: Wie geht’s weiter mit dem Café Leo? - beantwortet
+- TOP 7.4: Das Bezirksamt Mitte und der Mietendeckel - beantwortet
+- TOP 7.5: Welche Fortschritte gibt es für das Himmelbeet? - beantwortet
+- TOP 7.6: Wie geht es unter der Bahnbrücke in der Tegeler Straße weiter? - schriftlich beantwortet
+- TOP 7.7: Erreichbarkeit des Ordnungsamts - schriftlich beantwortet
+- TOP 7.8: Kiezhaus als neue Register-Anlaufstelle - schriftlich beantwortet
+- TOP 7.9: Mindestlohn für die Beschäftigten der Schulcaterer in Mitte - schriftlich beantwortet
+- TOP 7.10: Leerstandswohnungen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.11: Ist das Büroflächenkonzept des Bezirks Mitte fertig? - schriftlich beantwortet
+- TOP 7.12: Aktueller Stand Bahnhof Perleberger Brücke bei der S21 - schriftlich beantwortet
+- TOP 7.13: Wie weiter mit den Obdachlosen? - schriftlich beantwortet
+- TOP 7.14: Immer noch keine Ausschreibung der Pförtnerdienste - schriftlich beantwortet
+- TOP 7.15: Ganzjährige Kältehilfeplätze auch in Mitte - schriftlich beantwortet
+- TOP 7.16: Drogen und Müll in der Gleim-Oase? - schriftlich beantwortet
+- TOP 7.17: Karl-Marx-Allee - Wegfall der Parkplätze und ihre Auswirkung auf die Bezirkskasse - schriftlich beantwortet
+- TOP 7.18: Bedarfsgemeinschaften ohne Mietkostenübernahme - schriftlich beantwortet
+- TOP 7.19: Verbindungen des Bezirksamtes zum Berliner Baulöwen Christian Krawinkel - schriftlich beantwortet
+- TOP 7.20: Gibt es eine Verkehrslenkung für die Touristenbusse in Mitte? - schriftlich beantwortet
+- TOP 7.21: Zusammenarbeit mit den örtlichen Initiativen bei der Bekämpfung der Zweckentfremdung von Wohnraum in Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Brand am Leopoldplatz - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Situation in den Bürgerämtern - beantwortet
+- TOP 9.2: Einbürgerungen - im Ausschuss abgelehnt
+- TOP 9.3: Großflächenwerbung an bewohnten Häusern - beantwortet
+- TOP 9.4: Wie viele Stellen sind im Gesundheitsamt nicht besetzt? - schriftlich beantwortet
+- TOP 9.5: Tag der Solidarität - wie sind die Ergebnisse im Bezirk Mitte? - schriftlich beantwortet
+- TOP 9.6: Dreck und Müll - schriftlich beantwortet
+- TOP 9.7: Was tut das Bezirksamt gegen illegalen Sperrmüll? - schriftlich beantwortet
+- TOP 9.8: „Nacht der Solidarität“ - schriftlich beantwortet
+- TOP 9.9: Nahversorgung in den Kiezen sichern! - schriftlich beantwortet
+- TOP 9.10: Spiel und Spaß im Schillerpark? - schriftlich beantwortet
+- TOP 9.11: Investorenmittel für Schulstandorte nutzen und nicht auf‘s Spiel setzen - schriftlich beantwortet
+- TOP 9.12: Wiederaufbau der Bauakademie - schriftlich beantwortet
+- TOP 9.13: Prüfen bis es zu spät ist? Was wird nun aus dem Bolzplatz Pohlstraße 8? - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: die Wahl und Berufung eines stimmberechtigten Mitglieds des Jugendhilfeausschusses gemäß § 35 Abs. 5 Nr. 2 AG KJHG in Verbindung mit § 35 Abs. 9 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt gem. § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Leipziger Straße" im Bezirk Mitte von Berlin - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Nahtlose Fortführung des Angebots JARA auf dem Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bezirkliche Gedenkfeier zum Jahrestag des Judenpogroms von 1510 am 19. Juli 2020 - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Schnelle Schadensbehebung am Leopoldplatz - mit Änderungen in der BVV beschlossen
+- TOP 13.4: Sicherer Schulweg auch für unsere Kleinsten: Laterne vor der Anderson-Grundschule umgehend wieder zum Strahlen bringen. - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Wiederaufbau des Aufenthaltsbereichs für die so genannte „Trinkerszene“ am Leopoldplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: kontinuierliche Arbeit des Oromo Horn von Afrika Zentrums sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Illegales Hütchenspiel - überwiesen
+- TOP 14.3: Frühjahrsputz bei Himmelbeet - in der BVV abgelehnt
+- TOP 14.4: MINT-Kompetenzzentrum am Campus Bernauer Straße ermöglichen - überwiesen
+- TOP 14.5: Denkmalschutz und Barrierefreiheit endlich gemeinsam denken - mit Änderungen in der BVV beschlossen
+- TOP 14.6: Uferhallen als Kulturstandort erhalten! - überwiesen
+- TOP 14.7: Informationsstele reinigen - mit Änderungen in der BVV beschlossen
+- TOP 14.8: Indymediawerbung am Leopoldplatz entfernen - in der BVV abgelehnt
+- TOP 14.9: Verkehrsberuhigung in Wohnkiezen – „Superblocks“ (Superilles) auch für Mitte - überwiesen
+- TOP 14.10: Ehemaliges Moabiter Krankenhaus als Standort für soziale und gesundheitliche Dienstleistungen ausbauen - überwiesen
+- TOP 14.11: „Ball der Vielfalt“ auch in Mitte - überwiesen
+- TOP 14.12: Altglassammelcontainer – Standorte bekanntgeben - überwiesen
+- TOP 14.13: Mehr Rücksicht auf Fußgänger an Bushaltestellen - überwiesen
+- TOP 14.14: Anordnung Tempo 30 für die Veteranenstraße - überwiesen
+- TOP 14.15: Querung Fennstraße endlich sicher machen - überwiesen
+- TOP 14.16: Eine neue Chance für ein Monbijoutheater! - überwiesen
+- TOP 14.17: Verkehrssicherheit im Brüsseler Kiez erhöhen - überwiesen
+- TOP 14.18: Mietendeckel in Mitte effektiv und konsequent umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Strategie für eine zukunftsfähige Quartiersentwicklung der Friedhofsflächen St. Johannes Evangelist - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Bebauungsplanentwurf II-7b-1VE „Strom-/Turmstraße“ Bürgerbeteiligung mit öffentlicher Veranstaltung unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte – BVV-Beschluss DS 1791/V vom 21.11.2019 umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Großflächenwerbung an bewohnten Wohnhäusern - mit Änderungen in der BVV beschlossen
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Gute Kulisse – mit Menschen! - in der BVV abgelehnt
+- TOP 16.2: Aufwertung der Friedrichstraße - mit Änderungen in der BVV beschlossen
+- TOP 16.3: Verkehr in Wohnquartieren reduzieren: Diagonalsperren auch für Mitte! - mit Änderungen in der BVV beschlossen
+- TOP 16.4: Sechs neue Pavillons für die Karl-Marx-Allee – öffentliche und bedarfsorientierte Nutzung durch Transparenz und Bürgerbeteiligung gewährleisten - mit Änderungen in der BVV beschlossen
+- TOP 16.5: Für einen sicheren Nahverkehr: Drogenkonsum im Berliner Nahverkehr den Kampf ansagen! - in der BVV abgelehnt
+- TOP 16.6: Karl-Marx-Allee: Bürger*innenbeteiligung beachten - gegenstandslos
+- TOP 16.7: Sitzbänke auf der Müllerstrasse wieder aufstellen! - mit Änderungen in der BVV beschlossen
+- TOP 16.8: Wer duale Ausbildung sucht, soll sie auch erhalten! - mit Änderungen in der BVV beschlossen
+- TOP 16.9: Ausbau der Fahrradinfrastruktur digital darstellen - mit Änderungen in der BVV beschlossen
+- TOP 16.10: Schilder mit nicht mehr aktuellen Telefonnummern - gegenstandslos
+- TOP 16.11: Behindertengerechte WC- und Sanitär-Anlagen in der Arminiusmarkthalle (Moabit) herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 16.12: Querung der Weddingstr. Ecke Reinickendorfer Str. sicherer machen - gegenstandslos
+- TOP 16.13: Besucher*innenumfrage in Wohnungslosentagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 16.14: Querungshilfe in der Graunstr. einrichten - gegenstandslos
+- TOP 16.15: Keine Verpollerung der Radwege - in der BVV abgelehnt
+- TOP 16.16: Verkehrsberuhigung in Tiergarten Süd - mit Änderungen in der BVV beschlossen
+- TOP 16.17: Krankenhausbeirat und Psychiatriebeirat wieder regelmäßig einberufen - gegenstandslos
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Information und Veröffentlichung von Gutachten (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Strukturierter Prozess für neue Stellen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Freie Stellen schnell besetzen – Einführung eines zentralen Personalmanagements prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Theater im Monbijoupark auf neue Füße stellen - unterbrechungsfreien Kulturbetrieb auch im Sommer 2019 sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Errichtung eines weiteren Drogenkonsumraums - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Fahrradstreifen in der Turmstraße sicher machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Das Mitte Museum soll wachsen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.8: Drogenprobleme in der Heinrich-Heine-Straße lösen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Grenzwachturm in der Erna-Berger-Straße retten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: Entwicklung einer Kleingartenanlage im Volkspark Rehberge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: Evaluation der Umsetzung der Leitlinien für Bürgerbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Beschluss über das Anhörungsergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 BauGB zum Entwurf des vorhabenbezogenen Bebauungsplans II-83-1VE „Schill-/Kurfürstenstraße“ und die Durchführung der Behördenbeteiligung gemäß § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
