@@ -1,0 +1,60 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-25T17:00:00+01:00
+- Ende: 2020-02-25T20:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18992
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18992
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371717.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371717.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371717.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.2: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - Empfehlung einstimmig beschlossen
+- TOP 4.3: Ludenberger Straße 15 - Beseitigung eines Wohnhauses, eines Autohandels und eines Lagers mit Garagen im Bereich einer Erhaltungssatzung - - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2020) - einstimmig beschlossen
+- TOP 4.6: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anträge
+- TOP 5.1: Fahrbahn „Am Grünewald“ - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.2: Sanierung Bürgersteig „Am Poth“, Ostseite - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.3: Bänke Kastanienallee - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 5.4: Spielplatz Dreherpark - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.5: Info-Bildschirm am Gerresheimer S-Bahnhof - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.6: U-Bahnkonzept / Unterirdische Weiterführung der Wehrhahnlinie bis zum Staufenplatz - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.7: Trinkwasserbrunnen in der Fußgängerzone am Neusser Tor - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.8: Verkehrssituation am Gerricusplatz - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.9: Pferdetränke - Antrag der SPD-.Fraktion - - abweichend beschlossen
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Schulwegsicherung Katholische Grundschule Unter den Eichen - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Neugestaltung Apostelplatz - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen
+- TOP 6.1: Aufwertung des Standorts Heyestraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Ersatzpflanzungen Grafenberger Allee - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Temporäre Einrichtung von Künstlerateliers im ehemaligen DRK-Haus - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.7: Fahrkartenautomat - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Erhaltungssatzung Gerresheim-Süd - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Neue Mülleimerstandorte in Gerresheim Süd und Quartier Alte Insel - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 7.2: Gestaltung Dreiecksplatz (Heinrich-Könn-Siedlung) - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 7.3: Sicherheit für Radfahrer auf dem Zamenhofweg - Informationsvorlage zum Beschluss der BV 7 vom 17.10.2017 - - zur Kenntnis genommen
+- TOP 7.4: Abzug von Altpapier-Depotcontainerstationen ab Mitte Februar 2020 - zur Kenntnis genommen
+- TOP 7.5: Torfbruchstraße 185 - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 7.6: Verkehrsberuhigung Hagener Straße - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
