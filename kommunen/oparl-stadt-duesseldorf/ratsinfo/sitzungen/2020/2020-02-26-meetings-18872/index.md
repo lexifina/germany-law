@@ -1,0 +1,56 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-26T17:00:00+01:00
+- Ende: 2020-02-26T19:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18872
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18872
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371734.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371734.pdf
+- Wortprotokoll: Sitzungsunterlagen öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371734.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 28. Januar 2020 - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4: Mündlicher Bericht zu den Signalsteuerungen der Lichtsignalanlagen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2020 (Liste B), diverse Kita-Einrichtungen - einstimmig beschlossen
+- TOP 6: Trödelmarkt auf dem Messeparkplatz P1 am 22. März 2020 - einstimmig beschlossen
+- TOP 7: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 8: Aktueller Planungsstand zur Aufwertung der Ortsmitte Stockum (Kaiserswerther Straße/Am Hain/Stockumer Kirchstraße) - beantwortet
+- TOP 9: Gefährliche Auf- und Abfahrten an der B8N
+- TOP 10: Erschließung der Grundstücke Einbrunger Straße 82 a- d
+- TOP 11: Verkehrssicherheit für Fußgänger und Radfahrer Angermunder Straße / Pfarrer-Holl-Weg (Angermund) - beantwortet
+- TOP 12: Sachstand Radwegeführung Freiligrathplatz und Kaiserswerther Straße
+- TOP 13: P&R Parkplatz Am Froschenteich - beantwortet
+- TOP 14: Schloss Kalkum - Wie geht es weiter und wie hält es die Verwaltung mit der Information der Öffentlichkeit? - beantwortet
+- TOP 15: Unfallherd Kreuzung Sandweg/Am Roten Haus?
+- TOP -: Neue Anfragen
+- TOP 16: Bau eines Rheinbahn-Depot auf dem Hauptbetriebshof des Gartenamtes "Am Staad/Stockumer Höfe"?
+- TOP 17: Parkplätze Lintorfer Waldstraße
+- TOP 18: Sperrung des Spazierweges entlang des Schwarzbachs in Wittlaer
+- TOP 19: Beschädigter Pflasterbelag Edmund-Bertrams-Straße
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 – Schulen: Renovierung der Flure - beantwortet
+- TOP 21: Öffentliche Ladeinfrastruktur für E-Mobilität im Düsseldorfer Norden
+- TOP 22: Haus Litzbrück
+- TOP 23: Wohnungsleerstand Kaiserswerther Markt 59 - beantwortet
+- TOP -: Anträge
+- TOP 24: Schloss Kalkum - Raum für Fotozentrum und Atelierräume? - mehrheitlich beschlossen
+- TOP 25: Kiwifalter in Kalkum - Radverkehr sicher machen! - mehrheitlich beschlossen
+- TOP 26: Verbesserung des Verkehrsflusses vor dem Vollsortimenter in Lohausen auf der Niederrheinstraße 84-88 - einstimmig beschlossen
+- TOP 27: Änderung der Verkehrsführung Niederrheinstraße/Stockumer Höfe in Fahrtrichtung Freiligrathplatz und Verbesserung der Ampelschaltung in den Morgenstunden - mehrheitlich beschlossen
+- TOP 28: Prüfauftrag: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße - einstimmig beschlossen
+- TOP 29: Umbau Laternenmast am Kirchweg/In den Blamüsen - einstimmig beschlossen
+- TOP 30: Aufklärung und Mitwirkung der Bezirksvertretung beim Verkauf städtischer Immobilien im Stadtbezirk 5 sicherstellen - zurückgezogen
+- TOP 31: Sicherheit für Ehrenamt und öffentlichen Gebäudebestand - Positionierung der Verwaltungsspitze zum "Gebäudeausverkauf" und Anhebungen von Miete und Pacht im Düsseldorfer Norden - mehrheitlich beschlossen
+- TOP -: Informationsvorlage
+- TOP 32: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Verschiedenes
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
