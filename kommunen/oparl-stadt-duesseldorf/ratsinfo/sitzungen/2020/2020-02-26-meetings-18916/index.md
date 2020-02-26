@@ -1,0 +1,61 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-26T16:00:00+01:00
+- Ende: 2020-02-26T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18916
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18916
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzung 26.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372203.pdf
+- Ergebnisprotokoll: Sitzung 26.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372203.pdf
+- Wortprotokoll: Sitzung 26.02.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372203.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der gemeinsamen Sondersitzung des Ordnungs- und Verkehrsausschusses, des Ausschusses für Umweltschutz sowie der Bezirksvertretungen 1,3 und 9 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 06.11.2019 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.11.2019 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Funktionsabläufe der Notbremsen bei Stadt- und Straßenbahnen - beantwortet
+- TOP 4.2: Radweg an der Ulmenstraße - Anfrage der Ratsfraktion Die Linke- - beantwortet
+- TOP 4.3: Neue Rheinbrücke zwischen dem Düsseldorfer und Neusser Hafen -Anfrage der CDU-Ratsfraktion- - beantwortet
+- TOP 4.4: U81-Rheinquerung – wann kommt die neue linksrheinische Stadtbahn? -Anfrage der CDU-Ratsfraktion- - beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Einrichtung eines Zebrastreifens über die Neusser Straße -Antrag der Ratsfraktion Die Linke- - zurückgezogen
+- TOP 5.2: Einrichtung eines eigenen Bahnkörpers für die Straßenbahn auf der Kaiserstraße - Antrag der Ratsfraktion Die Linke - - mehrheitlich beschlossen
+- TOP 5.3: Sachstandsbericht über die verkehrstechnischen Einrichtungen der Landeshauptstadt -Antrag der CDU-Ratsfraktion- - zurückgezogen
+- TOP 5.4: Radschnellweg-Planung für den Düsseldorfer Süden -Antrag der CDU-Ratsfraktion- - einstimmig beschlossen
+- TOP 6: Aktuelles
+- TOP 6.1: Karneval 2020 - Glasverbot und Toilettenkonzept -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Verkehrsbericht 2019 - Jährliche Verkehrsunfallbilanz des PP Düsseldorf - -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 9: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - passieren lassen
+- TOP 10: Fünftes Gesetz zur Änderung des Kommunalabgabengesetzes vom 19.12.2019 - Weitere Vorgehensweise der Verwaltung - zur Kenntnis genommen
+- TOP 11: Erste Fortschreibung Handlungskonzept Elektromobilität der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 12: Ergebnisse der Mobilitätsbefragung in Düsseldorf - zur Kenntnis genommen
+- TOP 13: Verbesserung der Verkehrssicherheit und ÖPNV-Beschleunigung auf der Corneliusstraße - einstimmig beschlossen
+- TOP 14: Optimierung der Umweltspuren - abweichend beschlossen
+- TOP 15: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - mehrheitlich beschlossen
+- TOP 15.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage OVA/049/2019 - Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Erkrather Straße - mehrheitlich abgelehnt
+- TOP 16: Wiedereinrichtung des ÖPNV-Sonderfahrstreifens Oberbilker Allee - mehrheitlich beschlossen
+- TOP 17: Berichterstattung Park+Ride in und um Düsseldorf - abweichend beschlossen
+- TOP 18: Innovative Verkehrsmittel/Seilbahn - mehrheitlich beschlossen
+- TOP 19: Planung und Durchführung eines verkehrsreduzierten Sonntags am 16.08.2020 mit Schwerpunkt Fahrrad in Verbindung mit kostenfreier ÖPNV-Nutzung - mehrheitlich beschlossen
+- TOP 20: Masterplan Ingenieurbauwerke im Bestand - zur Kenntnis genommen
+- TOP 21: Hochstraße Benediktusstraße im Zuge der B7 - Sachstandsinformation zur Nachrechnung - einstimmig beschlossen
+- TOP 22: Abriss der Fußgängerbrücke zum Nordpark und Neubau einer Fußgängerquerung mit Lichtsignalanlage (LSA) - einstimmig beschlossen
+- TOP 23: Neubau Rad- und Fußgängerbrücke Kennedydamm - Bestätigung des Votums der Empfehlungskommission im Rahmen des Gutachterverfahrens- - einstimmig beschlossen
+- TOP 24: Geschwindigkeitsreduzierung Brunnenstraße - zur Kenntnis genommen
+- TOP 25: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement - -2. Halbjahr 2019- - zur Kenntnis genommen
+- TOP 26: Fischmärkte auf dem Tonhallenufer im Jahre 2020 - mehrheitlich beschlossen
+- TOP 27: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 28: Jährliche Antragsbeschlusskontrolle des Ordnungs- und Verkehrsausschusses - zur Kenntnis genommen
+- TOP 29: Kunst am Bau Projekt U-Bahnhof Flughafen Terminal - Empfehlung mehrheitlich beschlossen
+- TOP 30: Ausführungs- und Finanzierungsbeschluss für die Maßnahme Speditionstraße - Westseite - passieren lassen
