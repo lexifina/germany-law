@@ -1,0 +1,68 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-26T16:00:00+01:00
+- Ende: 2020-02-26T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18935
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18935
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371978.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371978.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00371978.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Zulassung von Vertreterinnen und Vertretern des Jugendrates - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Kinderparlament Garath: Übersicht der Angebote kultureller Bildung für Kinder im Stadtbezirk 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: "Garath 2.0 - Den Wandel gestalten" - Neue Namen für die vier Garather Viertel - mehrheitlich beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt 2020 und 2021 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Sonstige Gebäude B - Vorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.7: Bezirklicher Bauunterhalt 2020 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2020 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Diakonie Düsseldorf e.V. „zentrum plus“ Garath- - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der BV 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der BV 10, Zuschuss an den Garather Schützenverein 1967 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Durchführung eines Kommunalen Sicherheitstages im Stadtbezirk 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Modernisierung Rheinwohnungsbau - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Gefällte Bäume Schloß Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Ärztliche Versorgung - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Bepflanzung zur Verhinderung von Wildparken im Grünstreifenbereich Ricarda-Huch-Straße/Kreuzung Emil-Barth-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Fahrradständer in Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Begrünung von Bauvorhaben - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Park and Ride Parkplätze - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Bürgerfragestunde - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Farbige Gestaltung der Unterführung S-Bahn Düsseldorf Hellerhof, der angrenzenden Betonwände und Betonsockel, der Brücke über die Frankfurter Straße und der Betonwand an der Haltestelle des Universitätsschnellbusses, S 57 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Ausfälle der S-Bahn Linie S6 im Zusammenhang mit dem Ausbau des RRX - Antrag der (CDU-Fraktion) - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Austausch der morschen Bänke in der Leo-Baeck-Straße - Informationsvorlage zum Beschluss BV10/105/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.2: „Mehr ökologisches Handeln im Stadtbezirk 10“ - Informationsvorlage zum Beschluss BV/106/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.3: Abzug von Altpapier-Depotcontainerstationen - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.4: Maßnahmen zur Rattenbekämpfung Garath - Informationsvorlage zum Beschluss BV10/088/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.5: Besetzung der vakanten Stelle am Abenteuerspielplatz Reinhold-Schneider-Straße - Informationsvorlage zum Beschluss 170/ 59/2019 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 8.6: Bezirkssportanlage Garath, Koblenzer Straße 133, Qualifizierung der Bezirkssportanlage zur Förderung des Breitensports - Informationsvorlage zur Anregung der Bezirksvertretung 10 zur Vorlage SPOA/005/2019 vom 26.11-2019 - - zur Kenntnis genommen
+- TOP 8.7: Überprüfung der Dehnungsfugen und Kanaldeckel auf der BAB 59 oberhalb des Garather Hauptzentrums - zur Kenntnis genommen
+- TOP 9: Verschiedenes
