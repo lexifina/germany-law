@@ -669,6 +669,7 @@ Desfluran
 Desipramin
 Desirudin
 Desloratadin
+– ausgenommen Arzneimittel in der oralen Anwendung zur symptomatischen Behandlung bei allergischer Rhinitis und Urtikaria bei Erwachsenen, Jugendlichen und Kindern ab zwei Jahren, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –
 Deslorelin
 – zur Anwendung bei Tieren –
 Desmeninol

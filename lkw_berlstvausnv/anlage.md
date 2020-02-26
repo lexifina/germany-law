@@ -429,7 +429,7 @@ Nachgeordnetes Straßennetz Bayern:
 | St 2053 | Von der A 9 (AS Eching) über St 2053, Oskar-von-Miller-Straße und Dieselstraße bis Dieselstraße 37 in Eching |
 | St 2053 | Von der A 9 (AS Eching) über St 2053, Fraunhoferstraße, Dieselstraße, Oskar-von-Miller-Straße und Lilienthalstraße bis Lilienthalstraße 6 in Neufahrn bei Freising |
 | St 2053 | Von der A 9 (AS Eching) über St 2053, Untere Hauptstraße, Fraunhoferstraße, Dieselstraße, Ludwig-Erhard-Straße, Zeppelinstraße bis Zeppelinstraße 3 in Neufahrn bei Freising |
-| Autobahn-zubringerA 92 | Von der A 92 (AS Eching-Ost) über Autobahnzubringer, Dieselstraße, Ludwig-Erhard-Straße bis Ludwig-Erhard-Straße 12, 85375 Neufahrn bei Freising |
+| AutobahnzubringerA 92 | Von der A 92 (AS Eching-Ost) über Autobahnzubringer, Dieselstraße, Ludwig-Erhard-Straße bis Ludwig-Erhard-Straße 12, 85375 Neufahrn bei Freising |
 | St 2054 | Von der A 9 (AS Allershausen) über St 2054 und Im Lekkerland bis zu Im Lekkerland 1 in Allershausen |
 | St 2063 | Von der Einmündung der Robert-Bosch-Straße in Dachau bis zur Kreuzung mit der Schleißheimer Straße in Dachau |
 | St 2068 | Von der A 96 (AS Oberpfaffenhofen/Gilching-West) über St 2068 und Landsberger Straße und Claude-Dornier-Straße und Friedrichshafener Straße bis Friedrichshafener Straße 6a in Oberpfaffenhofen |
@@ -535,7 +535,7 @@ Nachgeordnetes Straßennetz Brandenburg:
 | Gemeindestraße | Gemeinde Grünheide (Mark): von Eichenstraße/Schlehenstraße über Birkenstraße bis Hausnummer 4 |
 | Gemeindestraße | Amt Brück: von der A 9 (AS Brück) in die Chausseestraße in die Westfalenstraße in die Mindener Straße, weiter rechts abbiegen in den Gregor-Brück-Ring bis Hausnummer 13 |
 | Gemeindestraße | Vom Betriebsgelände EDEKA MIOS (Dreilindener Weg 1) über den Stolper Weg zur AS Kleinmachnow (Richtung Süd) |
-| Gemeindestraße | Von der AS Kleinmachnow (Richung Nord) über den Stolper Weg in den Dreilindener Weg bis Hausnummer 1 (Betriebsgelände EDEKA MIOS) |
+| Gemeindestraße | Von der AS Kleinmachnow (RichtungNord) über den Stolper Weg in den Dreilindener Weg bis Hausnummer 1 (Betriebsgelände EDEKA MIOS) |
 Nachgeordnetes Straßennetz Bremen:
 |  | Von der A 1 (AS Hemelingen), Abfahrt in Richtung Gewerbegebiet Hansalinie, Anton-Tucher-Straße, Europaallee, Bordeaux-Straße bis PCC und zurück |
 |  | Von der A 1 (AS Hemelingen), Abfahrt in Richtung Stadtmitte, Autobahnzubringer Hemelingen, Pfalzburger Straße, An der Grenzpappel, Hemelinger Tunnel, Sebaldsbrücker Heerstraße, Hermann-Koenen-Straße bis Mercedes-Benz, Tor 8 und zurück |
@@ -1539,10 +1539,10 @@ Nachgeordnetes Straßennetz Thüringen:
 | Gemeindestraßezur A 4 | Von der A 4 (AS Neudietendorf) über L 1044 –Thöreyer Straße über Industriestraße über Garantstraße über Arnstädter Straße zur L 1044 bis zur A 4 (AS Neudietendorf)–Am Sülzenbrückener Weg zwischen Thöreyer Straße und Garantstraße–Am Burgsteig in 99334 Amt Wachsenburg |
 | Gemeindestraßezur A 9 | Von der A 9 (AS Dittersdorf) über L 1077 bis Leiten 3 in 07907 Dittersdorf |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Hessen):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | 24-Total Autohof Neuberg | AS Langenselbold-West | A 45/L 3445 |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Mecklenburg-Vorpommern):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | Autohof Rostock | AS 5 Rostock-Nord | A 19/L 22/Große Rampe |
 | Autohof Müritz | AS 18 Röbel/Müritz | A 19/B 198/L 241 |
 | Autohof Pommerndreieck | AS 23 Grimmen-Ost | A 20/B 194/Pommern-dreieck |
@@ -1550,7 +1550,7 @@ Fahrtstrecken zu Autohöfen neben Autobahnen (Mecklenburg-Vorpommern):
 | Autohof Wittenburg | AS 10 Wittenburg, Stadt | A 24/L 04/Alter Wölzower Weg/Rudolf-Diesel-Straße |
 | Truck Stop A 24 Mega Park | AS 9a Gallin | A 24/Am Heisterbusch |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Niedersachsen):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | Autohof Sittensen | AS Sittensen | A 1/L 130 |
 | Autohof Bockel | AS Bockel | A 1/B 71 |
 | Autohof Groß Mackenstedt | AS Delmenhorst-Ost | A 1/B 322 |
@@ -1577,7 +1577,7 @@ Fahrtstrecken zu Autohöfen neben Autobahnen (Niedersachsen):
 | Autohof Westerlinde | AS Westerlinde | A 39/K 57 |
 | Aral-Autohof | AS Winsen-Ost | A 39/K 84 |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Nordrhein-Westfalen):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | Autohof Senden | AS Senden [3] | A 43/L 550 |
 | Autohof Ladbergen | AS Ladbergen [74] | A 1/B 475/L 597 |
 | Autohof Paderborn-Mönkeloh | AS Paderborn-Mönkeloh [28] | A 33/L 755 |
@@ -1590,7 +1590,7 @@ Fahrtstrecken zu Autohöfen neben Autobahnen (Nordrhein-Westfalen):
 | Autohof Holthausen | AS Holthausen [25] | A 46/Oerschbachstraße/Am Dammsteg/Burgenlandweg |
 | Autohof Wilnsdorf | AS Wilnsdorf [23] | A 45/L 722/Elkersberg |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Rheinland-Pfalz):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | MAXI Autohof Kirchheim | AS Grünstadt | A 6/B 271 |
 | Raststätte Ramstein | AS Ramstein-Miesenbach | A 6/L 363 |
 | Euro Rastpark Waldlaubersheim | AS Waldlaubersheim | A 61/L 236 |
@@ -1599,7 +1599,7 @@ Fahrtstrecken zu Autohöfen neben Autobahnen (Rheinland-Pfalz):
 Fahrtstrecken zu Autohöfen neben Autobahnen (Schleswig-Holstein):
 In Schleswig-Holstein sind sämtliche Autohöfe neben Autobahnen anfahrbar.
 Fahrtstrecken zu Autohöfen neben Autobahnen (Thüringen):
-| Autohofname | Name der AS | Knoten- bezeichnung |
+| Autohofname | Name der AS | Knotenbezeichnung |
 | Autohof Hermsdorf-Ost | AS 56a Hermsdorf-Ost | A 4/L 1070 |
 | Autohof Stadtroda | AS 55 Stadtroda | A 4/L 1076 |
 | Autohof Apolda | AS 50 Apolda | A 4/B 87 |
