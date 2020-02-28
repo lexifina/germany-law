@@ -1,8 +1,8 @@
 # Vollzitat: RL Brachenberäumung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-06-23 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17289.1
+- Datum: 2020-02-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17289.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-23.06.2017
+28.02.2020
 bis
-27.02.2020
+30.06.2023
 
 RL Brachenberäumung
 
@@ -243,31 +243,10 @@ VI.
 Sonstige Zuwendungsbestimmungen
 
 
-1.
-
-
 Sicherung der Finanzierung
 
 
 Die Gemeinde muss in der Lage sein, den Eigenanteil an den zuwendungsfähigen und die nicht zuwendungsfähigen Ausgaben zu tragen. Dazu hat sie darzulegen, dass die Ausgaben Bestandteil des Haushaltsplanes sind und, soweit Folgekosten entstehen, eine vom Bürgermeister unterschriebene Erklärung abzugeben, wonach diese getragen werden können. Bei einem Eigenanteil von mehr als 50 000 Euro hat die Gemeinde eine gemeindewirtschaftliche Stellungnahme der Rechtsaufsichtsbehörde vorzulegen. Kostenbeteiligungen Dritter sind im Kosten- und Finanzierungsplan auszuweisen und durch Kostenübernahmeerklärung nachzuweisen.
-
-
-2.
-
-
-Maßnahmenbeginn
-
-
-a)
-
-
-Zuwendungen dürfen nur für solche Maßnahmen bewilligt werden, die noch nicht begonnen worden sind.
-
-
-b)
-
-
-Ausgaben für Planungen und Baugrunduntersuchungen, die bereits vor Bewilligung des Förderantrages durchgeführt wurden, sind zuwendungsfähig, sofern diese nicht alleiniger Zweck der Zuwendung sind.
 
 
 VII.
@@ -312,9 +291,9 @@ Fsn-Nr.: 5532-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 23. Juni 2017
+Fassung gültig ab: 28. Februar 2020
 
-Fassung gültig bis: 27. Februar 2020
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -339,7 +318,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17289.1
+https://www.revosax.sachsen.de/vorschrift/17289.2
 Stand vom
 18.11.2026
 
