@@ -1,0 +1,80 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-28T14:00:00+01:00
+- Ende: 2020-02-28T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18921
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18921
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372234.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372234.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372234.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 24. Januar 2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 5: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 5.1: Bericht Kriegerdenkmal Reeser Platz - zur Kenntnis genommen
+- TOP 5.2: Interessenswettbewerb zu "Ort für die Erinnerung und Akzeptanz von gleichgeschlechtlicher und sexueller Vielfalt" - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - Empfehlung einstimmig beschlossen
+- TOP 5.7: Neubau Rad- und Fußgängerbrücke Kennedydamm - Bestätigung des Votums der Empfehlungskommission im Rahmen des Gutachterverfahrens- - Empfehlung einstimmig beschlossen
+- TOP 5.8: Büchermeile auf der Rheinuferpromenade im Jahre 2020 - einstimmig beschlossen
+- TOP 5.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2020 - mehrheitlich beschlossen
+- TOP 5.10: Workshopverfahren und verkehrsplanerische Untersuchungen zur Neugestaltung des Heinrich-Heine-Platzes und des Vorplatzes Wilhelm-Marx-Haus - Empfehlung abweichend beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Blockierung des Radweges am Mannesmannufer (Anfrage der SPD-Fraktion) - zur Kenntnis genommen
+- TOP 6.4: Nutzung der Umweltspuren im Stadtbezirk 1 (Anfrage der Fraktion Bündnis90/Die Grünen) - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Leerstehendes Wohngebäude Frankenstrasse 34 – Anfrage der Fraktion BÜ90 /Die Grünen - zur Kenntnis genommen
+- TOP 7.2: Kennedydamm 9 - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.3: Radverkehrsverbindung Hofgarten – Königsallee - Anfrage der SPD-Fraktion
+- TOP 7.4: Worringer Platz 4 - überfraktionelle Anfrage - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Ausverkauf der Stadt - Rheinterrasse - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.7: Energetische Gebäudesanierung an städtischen Gebäuden im Stadtbezirk - Anfrage der CDU-Fraktion
+- TOP 7.8: Leerstand Augustastraße 35 - Anfrage Ratsherr André Simon, CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.9: Glas- und Altpapiercontainer Schwerinstraße/Ecke Nordstraße- Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Feuertreppe Schloß Jägerhof - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.2: Fahrradständer für den Stadtbezirk 1 - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.3: Prüfung alternativer Standorte für die Altpapier- und Altglascontainer an der Kreuzung von Collenbachstraße und Golzheimer Straße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 8.4: Ausbesserung der Wege auf dem Frankenplatz und am Schwanenmarkt - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 8.5: Sperrung der Tannenstraße an der Ulmenstraße - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Bauleitplanverfahren für den Bereich Jägerhofstraße/Gartenstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.8: Standort für eine Baumpflanzung in der Verkehrsinsel Rheinbabenstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Geisterfahrer auf der Schwerinstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.11: Sauberkeit und Umgestaltung der Grünfläche Ulmen-, Glocken- und Rheinbabenstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.12: Verkehrssicherheit für Radfahrende und Fußgänger auf der Toulouser Allee (Höhe FOM) - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.13: Kenntlichmachung der Einbahnstraße Schwerinstraße - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 8.14: Verkehrssicherheit auf der Nordstraße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 8.15: Verhindern von Behinderungen auf dem Radweg am Mannesmannufer - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 8.16: Abkürzungsverkehr Joseph-Beuys-Ufer zur Inselstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.17: Nutzungskonzept für das Hofgärtnerhaus nach Auszug des Theatermuseums - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.18: Schutz der Baumscheiben im Bezirk 1 der Landeshauptstadt Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 8.19: Sonnenschutz für den Spielplatz Klosterstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Öffnung der Mauerstraße für den Radverkehr in entgegengesetzter Richtung; Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/001/2020 - zur Kenntnis genommen
+- TOP 9.2: Installation einer Anzeigetafel an den Bushaltestellen Frankenplatz, Beschluss der Bezirksvertretung 1 vom 24. Januar 2020; BV1/002/2020 - zur Kenntnis genommen
+- TOP 9.3: Errichtung von Werbeanlagen im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 9.4: Aalschokker im alten Hafenbecken, Beschluss der Bezirksvertretung 1 vom 01.12.2017; Vorlage Nr. 171/ 189/2017 - zur Kenntnis genommen
+- TOP 9.5: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.6: Gehweg Vagedesstraße - Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/034/2020 - zur Kenntnis genommen
+- TOP 9.7: Gehweg Kolpingplatz - Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/035/2020 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für "Düsseldorf singt" - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Initiative Düsseldorfer Büdchentag - einstimmig beschlossen
+- TOP 11: Verschiedenes
