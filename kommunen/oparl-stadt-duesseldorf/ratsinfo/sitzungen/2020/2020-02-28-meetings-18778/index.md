@@ -1,0 +1,67 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-02-28T16:00:00+01:00
+- Ende: 2020-02-28T18:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18778
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18778
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372280.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372280.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00372280.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehnmigung der Niederschrift - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Bestellung einer Schriftführerin für die Bezirksvertretung 9 - einstimmig beschlossen
+- TOP 6: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 7: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - mehrheitlich abgelehnt
+- TOP 8: Straßenbenennung Werstener Deckel - einstimmig beschlossen
+- TOP 9: Straßenbenennung Hans-Aring-Platz - vertagt
+- TOP 10: Werstener Friedhofstraße - Errichtung einer zusätzlichen Querungshilfe zur Schulwegsicherung - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - einstimmig beschlossen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Zufahrt Haus-Endt-Siedlung bei Einsätzen der Feuerwehr - schriftlich beantwortet
+- TOP 14: Schrankensicherung am Werstener Kreuz - schriftlich beantwortet
+- TOP -: Aktuelle Anfragen
+- TOP 15: Abstellen von gewerblichen Fahrzeugen und behindernder Gewerbeverkehr im öffentlichen Straßenraum „Am Trippelsberg“ und an anderen Stellen im Stadtbezirk 9 - vertagt
+- TOP 16: Milieuschutzsatzungen im Stadtbezirk 9 - vertagt
+- TOP 17: Parkplatznot im Einzugsbereich der Harffstraße Wersten - vertagt
+- TOP 18: Spielplätze für 15-18-Jährige in Wersten - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 19: Beleuchtung für den Radfahr-und Fußgängerweg entlang der Münchener Straße - mehrheitlich beschlossen
+- TOP 20: Einrichtung eines Park& Ride Parkplatzes an der Bonner Straße / Haltepunkt Niederheid - einstimmig beschlossen
+- TOP 21: Erweiterung der Busspur auf der Münchener Straße - mehrheitlich beschlossen
+- TOP 22: P&R-Parkplatz Münchener Straße und Verlängerung der Stadtbahntrasse Universität - mehrheitlich abgelehnt
+- TOP 23: Bunker Paulsmühle - mehrheitlich beschlossen
+- TOP 24: Beleuchtung Grünanlage Kammerrathsfeldstraße - einstimmig beschlossen
+- TOP 25: Sachstand „Machbarkeitsstudie Bahnhof Benrath" - einstimmig beschlossen
+- TOP 26: Beschränkung der Nutzung des Werstener Tunnels und des Uni-Tunnels - mehrheitlich abgelehnt
+- TOP 27: Paulsmühlenstraße, Zufahrt Albrecht-Dürer-Berufskolleg - mehrheitlich beschlossen
+- TOP 28: Zufahrt Wasserwerk Flehe, Fahrradstraße - mehrheitlich beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung 9
+- TOP 29: Verfügungsmittel: Don Bosco "Herz und Hand für Wersten" - Rheinschifffahrt für Senior*innen 2020 - einstimmig beschlossen
+- TOP 30: Verfügungsmittel: Lauftreff Düsseldorf-Süd e. V. - 12. Benrather Schlosslauf 2020 - einstimmig beschlossen
+- TOP 31: Verfügungsmittel: Himmelgeist 1100 e.V. - Himmelgeister Jüchtlauf 2020 - einstimmig beschlossen
+- TOP 32: Verfügungsmittel: KG Düsseldorfer Räbbelche 1962 e. V. - Zuschuss für die Ausstattung der Tanzgarde - einstimmig beschlossen
+- TOP 33: Verfügungsmittel: Förderverein der Grundschule Urdenbach e. V. - Zirkusprojekt "Zirkus ohne Grenzen" - einstimmig beschlossen
+- TOP 34: Verfügungsmittel: Wir in Wersten e. V. - Osterfeuer 2020 - einstimmig beschlossen
+- TOP 35: Verfügungsmittel: Wir in Wersten e. V. - Werstenrallye 2020 - einstimmig beschlossen
+- TOP 36: Verfügungsmittel: Gemeinschaft Schlossparksiedlung Urdenbach - Anschaffung von Partyzelten für Straßenfeste - einstimmig beschlossen
+- TOP 37: Verfügungsmittel: Henri-Dunant-Schule - Aufführungen der Theaterpädagogischen Werkstatt Osnabrück - einstimmig beschlossen
+- TOP 38: Verfügungsmittel: GGS Schloss Benrath - Projekt zur Gewaltprävention "Mut tut gut" - einstimmig beschlossen
+- TOP 39: Verfügungsmittel: St. Antonius Schützenbruderschaft D-Hassels e.V. - Restaurierung der historischen Vereinsfahne - einstimmig beschlossen
+- TOP 40: Verfügungsmittel: Adolf-Klarenbach-Grundschule - Projektwoche "Unsere Erde - Eine Reise um die Welt" 2020 - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 41: Beleuchtung Rad-/ Fußweg Müchener Straße - zur Kenntnis genommen
+- TOP 42: Nutzungskonzept Kapelle Mehrgenerationen-Projekt - zur Kenntnis genommen
+- TOP 43: Fahrradweg Am Schönenkamp - zur Kenntnis genommen
+- TOP 44: Berichterstattung Park+Ride in und um Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
