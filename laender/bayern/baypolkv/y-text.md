@@ -1,0 +1,1 @@
+Auf Grund des Art. 76 Satz 3 des Polizeiaufgabengesetzes in der Fassung der Bekanntmachung vom 14. September 1990 (GVBl S. 397, BayRS 2012-1-1-I), zuletzt geändert durch § 2 des Gesetzes vom 25. Oktober 2000 (GVBl S. 752), erlässt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
