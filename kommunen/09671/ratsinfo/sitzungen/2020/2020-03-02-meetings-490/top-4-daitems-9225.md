@@ -1,0 +1,7 @@
+# TOP 4: Antrag des Marktes Großostheim auf Mitfinanzierung zusätzlicher Spät- und Nachtbusse
+
+- Sitzung: Sitzung des Ausschusses für Umwelt und ÖPNV (2020-03-02)
+- Körperschaft: Landkreis Aschaffenburg
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/agendaitems/9225
+- Beratung: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/consultations/1273
