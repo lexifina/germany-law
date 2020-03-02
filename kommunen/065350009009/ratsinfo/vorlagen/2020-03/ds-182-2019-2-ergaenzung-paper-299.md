@@ -1,0 +1,28 @@
+# Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2020
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: DS-182/2019 2. Ergänzung
+- Art: StVV - Drucksache
+- Datum: 2020-03-02
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQAgXzWF3XjT8kyIH3N3JRg
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/299
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: StVV - Drucksache (Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-_TQmpny4ppjjRZ7V94LdtHyogccs18PaPfKuIHmVv/StVV_-_Drucksache_DS-182-2019_2._Ergaenzung.pdf
+- Anlage: StVV - Drucksache (Inhaltsverzeichnis Haushalt 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOUFlCBr7ZFlziC9W-NW_Ne8yz4PtPSNCG0pzQaswFk/Inhaltsverzeichnis_Haushalt_2020.pdf
+- Anlage: StVV - Drucksache (Hebesatzsatzung 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZr5rZB-Ml6M04xQKtuVP3sIC26AQrb5h6pQJ86rjoil/Hebesatzsatzung_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltssatzung 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa6AdmC8MMHxKI4Sbt5bgLFzVKzJf4lX5Bhr70hMoFkW/Haushaltssatzung_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltsvorbericht 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX3MPoguMevTDl8WLwNk0Atil5LE1MqbdS243dWmYX3f/Haushaltsvorbericht_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltssicherungskonzept 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfT1RUEgR4L-umvlX-rpmhOfthE9JQwr9tIvGpj88Oe-/Haushaltssicherungskonzept_2020.pdf
+- Anlage: StVV - Drucksache (Finanzstatusbericht) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVjbBWBgUzE3kv-pwkfcvSHtZQcQo1SUTnKrKVbQIL_q/Finanzstatusbericht.pdf
+- Anlage: StVV - Drucksache (Übersicht über die Budgets) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVf1M2AxadRdEfjxNwAEY_Ul1Q7P2EqRPZ3mIGFP9rjl/Uebersicht_ueber_die_Budgets.pdf
+- Anlage: StVV - Drucksache (Grundsätze für die Budgetierung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQWfUphGIfwhKvesTL396XHzGl68VRXCWFr_1kyV0ERU/Grundsaetze_fuer_die_Budgetierung.pdf
+- Anlage: StVV - Drucksache (Produktbereichsplan) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb49aIhj4gsR0-mF58ZIn8iblH59yJQ-KOEHpkqKndoJ/Produktbereichsplan.pdf
+- Anlage: StVV - Drucksache (Übersicht Verpflichtungsermächtigungen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTJDfKiVH9BA4JzHDh5sSJN4rZkWpn_kKKnT6o7E3TUo/Uebersicht_Verpflichtungsermaechtigungen.pdf
+- Anlage: StVV - Drucksache (Übersicht voraussichtlicher Stand Verbindlichkeiten) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcgchZQZ4zZ70O6XDgfxyPwLhRZbzpr4wjLDkT9ETVgB/Uebersicht_voraussichtlicher_Stand_Verbindlichkeiten.pdf
+- Anlage: StVV - Drucksache (Übersicht voraussichtlicher Stand Rücklagen und Rückstellungen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9cbkXiCy1uZEIs-2eY1q-j5FL79w6id9ZO00nSeQtk/Uebersicht_voraussichtlicher_Stand_Ruecklagen_und_Rueckstellungen.pdf
+- Anlage: StVV - Drucksache (Übersicht Fraktionen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKz4KqFcrhhgDN-ohwVqSmuW9_3Xl3z1pYoVcAiuohg/Uebersicht_Fraktionen.pdf
+- Anlage: StVV - Drucksache (Jahresabschluss 2018) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWccRk1fdTw_V1mNQL374oEmFItRA3i5DUTDl3e3yuEu/Jahresabschluss_2018.pdf
+- Anlage: StVV - Drucksache (Haushaltsplan 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZckZB6S9EG8OwJ5aho47uCbz3GqheCi_5KAlUAzOLbo2/Haushaltsplan_2020.pdf
+- Anlage: StVV - Drucksache (Stellenplan 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX8IWRwKiBA02Puvzbcv4Vo9B6wapJULnUet5TIMiqZd/Stellenplan_2020.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/675 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
