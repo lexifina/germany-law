@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-03-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5607940
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5607940
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 04.02.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Berechnung Mitgliederzahlen Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 2.4.: Einstehen für unsere Demokratie - keine Zusammenarbeit mit der AFD
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Stadtbezirksbudget Elternbeirat Thomas-Mann-Gymnasium MfM-Projekt im Juni/Juli 2020 2.150,00 € / Az. 0262.0-19-0304
+- TOP 3.3.: (E) Stadtbezirksbudget Evang. Pflegezentrum Sendling Besuch des Therapiehundes vom 01.03.2020 - 28.02.2021 405,00 € / Az. 0262.0-19-0305
+- TOP 3.4.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Solln von 1873 Beschaffung „Lardis ONE 7“ ab 05.03.2020 3.143,38€; 0262.0-19-0310
+- TOP 3.5.: (E) Stadtbezirksbudget Elterninitiative Silizius e.V. Sandkastenbau und Erneuerung Transportseil des Sonnensegels im Frühsommer 2020 5.986,54€; Az. 0262.0-19-0309
+- TOP 3.6.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V. Maifest Thalkirchen vom 01.-03.05.2020 7.649,00€; Az. 0262.0-19-0306
+- TOP 3.7.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V. Wachhütte Maibaum Thalkirchen vom 28.03.2020 – 30.04.2020 7.708,23€; Az. 0262.0-19-0307
+- TOP 3.8.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule Forstenrieder Allee 175 Projekt "Schule fördert Biodiversität" vom 31.03.2020 – 14.05.2020 3.876,00€; Az. 0262.0-19-0312
+- TOP 3.9.: (E) Stadtbezirksbudget Circus Galliano Ferien im Circus vom 15.04.-18.04.20 und vom 23.04.-26.04.20 2.513,66€; Az. 0262.0-19-0313
+- TOP 3.10.: (E) Stadtbezirksbudget Apostelkirche München-Solln Oratorienkonzert am 08.03.2020 2.100,00€; Az. 0262.0-19-0308
+- TOP 3.11.: (E) Stadtbezirksbudget Elterninitiative Silizius e.V. Anschaffung einer Spülmaschine vom 01.07. - 31.08.2020 4.391,99 €; Az. 0262.0-19-0315
+- TOP 3.12.: (E) Stadtbezirksbudget TSV München Solln e.V., Abt. Ski und Berg 40-jähriges Jubiläum „Ski und Berg“ am 30.04.2020 1.022,40 €; Az. 0262.0-19-0314
+- TOP 3.13.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried MUN- Konferenz in Haarlem vom 02.-05.04.2020 3.591,00€; Az. 0262.0-19-0311
+- TOP 3.14.: (Antrag) Erklärende Zusatzschilder an Straßennamen im Stadtbezirk 19
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Beschlussvorlage: Verein Hubertus für Jagd- und Sportschießen e.V. Umbau und Großinstandsetzung der Schießanlage in Unterdill Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München; Sitzungsvorlage Nr. 14-20 / V 17780
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Zweirichtungsradwege in Ost-West-Richtung am Neurieder Kreisel
+- TOP 5.1.2: Ringschluss der Buslinie 136
+- TOP 5.1.3: MVG-Radstation am Sollner S-Bahnhof
+- TOP 5.1.4: Ersatz-Treppe S-Bahnhof Solln
+- TOP 5.1.5: Bereich des Busbahnhofs Aidenbachstraße öfter reinigen
+- TOP 5.2.: (Antrag) Hol- und Bringzone, Verkehrsspiegel und Geländer an der Grundschule Forstenrieder Allee
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Halteverbot Schertlinstraße
+- TOP 5.4.: Verkehrssituation Forstenrieder Allee
+- TOP 5.5.: (Antrag) Entfernung Kopfsteinpflaster Zielstattstr. 2a
+- TOP 5.6.: (A) Haltverbot Forstenrieder Allee 113
+- TOP 5.7.: (Antrag) Beschilderung U-Bahn-Haltestellen
+- TOP 5.8.: (Antrag) Ausbau Kopfsteinpflaster Zielstattstr. zwischen Murnauer/Höglwörther Str.
+- TOP 5.9.: PKW-Parken in der Forst-Kasten-Allee, Eingang Waldfriedhof
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Betriebsbeschreibung und Verkehrsgutachten: Sonderpädagogisches Förderzentrum Allescher Straße
+- TOP 6.4.: (Antrag) Prüfung und Stärkung des Dorfkernensembles in Forstenried
+- TOP 6.5.: Rahmenplanung Gartenstadt - Planungsgebiet Solln
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Provisorisches Container-Schulgebäude Grundschule Baierbrunner Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
