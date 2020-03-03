@@ -1,0 +1,7 @@
+# TOP 5.: Sachstandsbericht zu Digitalisierungsprojekten - mündlicher Bericht -
+
+- Sitzung: Unterausschuss Aufgabenkritik (17. Sitzung) (2020-03-03)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/56604
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/31903
