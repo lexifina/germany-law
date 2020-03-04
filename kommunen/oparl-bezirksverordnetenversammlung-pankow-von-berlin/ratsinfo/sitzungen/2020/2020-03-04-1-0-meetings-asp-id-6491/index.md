@@ -1,0 +1,116 @@
+# 30. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2020-03-04T17:30:00+01:00
+- Ende: 2020-03-04T20:25:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6491
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6491
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=206239
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Friedvolle Walpurgisnacht am 30. April 2020 im Mauerpark ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Zwischenpräsentation kooperatives städtebauliches Werkstattverfahren v. 14.02.2020 - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.9: Nachwahl eines Mitgliedes des Ehrenamtlichen Dienstes im sozialen Bereich - Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Neubau von Grundschulen in Weissensee zusammen mit Kitas planen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Integrierten B-Plan für Gesamtvorhaben Jahn-Sportpark statt Schnellschuss - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Rad- und Fußweg „Wilhelmsruher Spange“ entlang der Heidekraut-Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Arbeit bezirklicher Beiräte und Kommissionen für die Öffentlichkeit transparenter darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Baustellenkennzeichnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Verkehrsberuhigung im Komponistenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Durchgangsverkehre im Alten Schlachthof reduzieren! - in der BVV abgelehnt
+- TOP 1.17: Verhinderung des Durchgangverkehrs für schwere LKW in der John-Schehr-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verhinderung des Durchgangverkehrs im „Stadtquartier Alter Schlachthof“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Künstlerische Kommentierung des Thälmann-Denkmals - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Klimaschutz und Klimaneutralität in Pankow aktiv fördern – Bau einer »Grünen Turnhalle« für die Bornholmer Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Negative Auswirkungen der Baumaßnahmen in der Anton-Saefkow-Siedlung reduzieren! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Der Städtepartnerschaft mit Ashkelon einen Ort geben und sie im Bezirk bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Durchgangsverkehre in der Ilsenburgstraße reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Einmündung Pasewalker Str. / Blankenburger Weg in Französisch-Buchholz - in der BVV abgelehnt
+- TOP 1.25: Mobilitätsgesetz umsetzen – Sicheren Radverkehr auf der Schönhauser Allee ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Mobilitätsgesetz umsetzen – Sicheren Radverkehr auf der Berliner Allee ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Temporäre Spielstraße am Teutoburger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Brücke am Rostsperlingweg in Pankow wiederherstellen - überwiesen
+- TOP 1.29: Masterplan „100% Klimaschutz in Pankow bis 2050“ - in der BVV abgelehnt
+- TOP 1.30: Brücken am S-Bahnhof Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Arbeit des Bezirksamts transparent und nachvollziehbar machen – Ansprechpersonen für Rückfragen ausweisen! - überwiesen
+- TOP 1.32: Streckenführung für die Verlängerung der M2 zum Bahnhof Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: 10-Minuten-Takt der S-Bahn-Linie 2 ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Laternen im Park am Weißen See - in der BVV abgelehnt
+- TOP 1.35: Integration stärken – Zugang zum Arbeitsmarkt verbessern - überwiesen
+- TOP 1.36: Sanierung der Straße vor Schönholz (Niederschönhausen) an moderner und nachhaltiger Verkehrsplanung und dem Mobilitätsgesetz ausrichten - überwiesen
+- TOP 1.37: Verkehrslösung Heinersdorf endlich umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Neubau einer Polizeiwache bei den Planungen zum Friedrich-Ludwig-Jahn-Sportpark mitdenken - in der BVV abgelehnt
+- TOP 1.39: Umsetzung des BVV-Beschlusses VII-0517 Kommentierung des Thälmann-Denkmals - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Hinweisschilder auf Bezirksbibliotheken im Stadtraum - überwiesen
+- TOP 1.41: Klothilde in den Bürgerpark Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Verkehrssicherheit auf und an der Sellheimbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Bezirklich geförderte Projekte in S-Tabelle überleiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Hauptstadtzulage auch bei Trägern - überwiesen
+- TOP 1.45: Gleichbehandlungscheck des ADS anwenden - überwiesen
+- TOP 1.46: Pankow sammelt Brillen für bedürftige Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Kampagne „Luisa ist hier!“ anschließen - überwiesen
+- TOP 1.48: Einrichtung eines Modellprojekts „Lenkungsrat zur Steuerung von Großprojekten in Bezirken“ – konkret: Neubau der Schönhauser-Allee-Brücke - in der BVV abgelehnt
+- TOP 1.49: Kleingärten erhalten - Änderung des Straßenreinigungsgesetzes einfordern - überwiesen
+- TOP 1.50: Neubau der Schönhauser-Allee-Brücke aktiv unterstützen – notwendige Planungsschritte schon jetzt einleiten - überwiesen
+- TOP 1.51: Straßenbeleuchtung - überwiesen
+- TOP 1.52: Informationsreihe über die Klimapolitik mit dem Thema der vermeintlichen Übereinstimmung aller Wissenschaftler zur CO2-Theorie beginnen - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Entwurf des Doppelhaushaltsplans 2016/2017 für den Bezirk Pankow (einschließlich Vorbericht, Anlagen 1 - 3 und Stellenplan) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3.1: Ergänzungen zur Bezirksamtsvorlage VII-1255/2015 Entwurf des Doppelhaushaltsplanes 2016/2017 für den Bezirk Pankow (Nachschiebeliste) einschl. der Anlage 2/Wirtschaftsplan 2016/2017 der Parkraumüberwachung des Bezirks Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Verkehrsanbindung des Stadtquartiers „Wilhelmsruher Tor“ / B-Plan 3-18 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Sowjetisches Ehrenmal in die Liste historischer Orte aufnehmen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Open-Data Initiative Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Pankower Bezirkshaushalt transparent kommunizieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Konzept für die Einrichtung eines Gedenk - und Informationsortes auf dem Bezirksamtsgelände (Kellerräume Haus 3) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Errichtung einer Gedenkstätte Fluchttunnel im Mauerpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Schulwege sicherer machen - Dialogdisplays installieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Robert Rössle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: „Klothilde“ muss bleiben! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Transparenz für die Sanierung von Gehwegen im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Mobi-Hubs für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Gemeinschaftsschule am Pankower Tor - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Spracherwerb fördern – Integration stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Informationsveranstaltung zum Bebauungsplan 3-59 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Sportplatz an der Röländer Straße nutzbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Arbeiten und Planungen für den B-Plan 3-69 umgehend einstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: „Sportflächen in Blankenburg erweitern“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Amt für Chancengleichheit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Entwicklung von Formaten der Kinder- und Jugendbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Kulturstandort Freilichtbühne Weißensee sichern und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Stedingerweg für den Durchgangsverkehr schließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Endlich Ruhe - "Durchfahrt verboten" im Blumenviertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Gehwegschäden in Berlin Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Sicher auf den Spielplatz - Querungs- und Verkehrssicherheit am Arnswalder Platz gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Mehr Raum zur Entfaltung - attraktive Wohnviertel durch Entschleunigung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Verbindliche Bauleitplanung für das Pankower Tor - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Nutzbarkeit der Boenkestraße herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Gefahrenstelle an der Kreuzung Gravensteinstraße und Eddastraße unverzüglich beseitigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Umsteigesituation zwischen U2 und den Straßenbahnlinie M1 und 50 optimieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.35: Soziales Erhaltungsrecht für das Gebiet Danziger Straße Ost - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.36: Beteiligung an der Europäischen Impfwoche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Entlassungsmanagement der Krankenhäuser optimieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.38: Buswartehalle in Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.39: Gemeinschaftsschulstandort auf dem Ostgelände des „Pankower Tors“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Dienstfahrräder für Beschäftigte des Bezirksamts Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Offene Bäder für heiße Sommer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Aufteilung der Mittel zur Umsetzung des Aktionsprogramms „Sauberes Berlin“: Für eine attraktive, saubere und lebenswerte Hauptstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Benennung eines Mitgliedes für das Kuratorium der „Seniorenstiftung Prenzlauer Berg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Aufteilung der Mittel für die ehrenamtliche Arbeit zur Verbesserung der öffentlichen Infrastruktur (FEIN-Einzelmaßnahmen) - mit Abschlussbericht zur Kenntnis genommen
