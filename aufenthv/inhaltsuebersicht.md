@@ -51,6 +51,7 @@
 | Visumverfahren |
 | § 30a | Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren und bei der Unterrichtung über die Erteilung von Visa |
 | § 31 | Zustimmung der Ausländerbehörde zur Visumerteilung |
+| § 31a | Beschleunigtes Fachkräfteverfahren |
 | § 32 | Zustimmung der obersten Landesbehörde |
 | § 33 | Zustimmungsfreiheit bei Spätaussiedlern |
 | § 34 | Zustimmungsfreiheit bei Wissenschaftlern und Studenten |

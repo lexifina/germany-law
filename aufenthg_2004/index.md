@@ -14,6 +14,7 @@
 
 - [§ 3 Passpflicht](0003.md)
 - [§ 4 Erfordernis eines Aufenthaltstitels](0004.md)
+- [§ 4a Zugang zur Erwerbstätigkeit](0004a.md)
 - [§ 5 Allgemeine Erteilungsvoraussetzungen](0005.md)
 - [§ 6 Visum](0006.md)
 - [§ 7 Aufenthaltserlaubnis](0007.md)
@@ -36,26 +37,34 @@
 
 ### Abschnitt 3 Aufenthalt zum Zweck der Ausbildung
 
-- [§ 16 Studium](0016.md)
-- [§ 16a Mobilität im Rahmen des Studiums](0016a.md)
-- [§ 16b Teilnahme an Sprachkursen und Schulbesuch](0016b.md)
-- [§ 17 Sonstige Ausbildungszwecke](0017.md)
+- [§ 16 Grundsatz des Aufenthalts zum Zweck der Ausbildung](0016.md)
+- [§ 16a Berufsausbildung; berufliche Weiterbildung](0016a.md)
+- [§ 16b Studium](0016b.md)
+- [§ 16c Mobilität im Rahmen des Studiums](0016c.md)
+- [§ 16d Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen](0016d.md)
+- [§ 16e Studienbezogenes Praktikum EU](0016e.md)
+- [§ 16f Sprachkurse und Schulbesuch](0016f.md)
+- [§ 17 Suche eines Ausbildungs- oder Studienplatzes](0017.md)
 - [§ 17a Anerkennung ausländischer Berufsqualifikationen](0017a.md)
 - [§ 17b Studienbezogenes Praktikum EU](0017b.md)
 
 ### Abschnitt 4 Aufenthalt zum Zweck der Erwerbstätigkeit
 
-- [§ 18 Beschäftigung](0018.md)
-- [§ 18a Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung](0018a.md)
-- [§ 18b Niederlassungserlaubnis für Absolventen deutscher Hochschulen](0018b.md)
-- [§ 18c Aufenthaltserlaubnis zur Arbeitsplatzsuche für qualifizierte Fachkräfte](0018c.md)
-- [§ 18d Teilnahme am europäischen Freiwilligendienst](0018d.md)
-- [§ 19 Niederlassungserlaubnis für Hochqualifizierte](0019.md)
-- [§ 19a Blaue Karte EU](0019a.md)
-- [§ 19b ICT-Karte für unternehmensintern transferierte Arbeitnehmer](0019b.md)
-- [§ 19c Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehmer](0019c.md)
-- [§ 19d Mobiler-ICT-Karte](0019d.md)
-- [§ 20 Forschung](0020.md)
+- [§ 18 Grundsatz der Fachkräfteeinwanderung; allgemeine Bestimmungen](0018.md)
+- [§ 18a Fachkräfte mit Berufsausbildung](0018a.md)
+- [§ 18b Fachkräfte mit akademischer Ausbildung](0018b.md)
+- [§ 18c Niederlassungserlaubnis für Fachkräfte](0018c.md)
+- [§ 18d Forschung](0018d.md)
+- [§ 18e Kurzfristige Mobilität für Forscher](0018e.md)
+- [§ 18f Aufenthaltserlaubnis für mobile Forscher](0018f.md)
+- [§ 19 ICT-Karte für unternehmensintern transferierte Arbeitnehmer](0019.md)
+- [§ 19a Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehmer](0019a.md)
+- [§ 19b Mobiler-ICT-Karte](0019b.md)
+- [§ 19c Sonstige Beschäftigungszwecke; Beamte](0019c.md)
+- [§ 19d Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung](0019d.md)
+- [§ 19e Teilnahme am europäischen Freiwilligendienst](0019e.md)
+- [§ 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18b Absatz 2, den §§ 18d, 18e, 18f und 19e](0019f.md)
+- [§ 20 Arbeitsplatzsuche für Fachkräfte](0020.md)
 - [§ 20a Kurzfristige Mobilität für Forscher](0020a.md)
 - [§ 20b Aufenthaltserlaubnis für mobile Forscher](0020b.md)
 - [§ 20c Ablehnungsgründe bei Forschern, Studenten, Schülern, Praktikanten, Teilnehmern an Sprachkursen und Teilnehmern am europäischen Freiwilligendienst](0020c.md)
@@ -64,7 +73,7 @@
 ### Abschnitt 5 Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
 
 - [§ 22 Aufnahme aus dem Ausland](0022.md)
-- [§ 23 Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden](0023.md)
+- [§ 23 Aufenthaltsgewährung durch die obersten Landesbehörden;Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden](0023.md)
 - [§ 23a Aufenthaltsgewährung in Härtefällen](0023a.md)
 - [§ 24 Aufenthaltsgewährung zum vorübergehenden Schutz](0024.md)
 - [§ 25 Aufenthalt aus humanitären Gründen](0025.md)
@@ -94,7 +103,7 @@
 
 ### Abschnitt 8 Beteiligung der Bundesagentur für Arbeit
 
-- [§ 39 Zustimmung zur Ausländerbeschäftigung](0039.md)
+- [§ 39 Zustimmung zur Beschäftigung](0039.md)
 - [§ 40 Versagungsgründe](0040.md)
 - [§ 41 Widerruf der Zustimmung und Entzug der Arbeitserlaubnis](0041.md)
 - [§ 42 Verordnungsermächtigung und Weisungsrecht](0042.md)
@@ -190,6 +199,7 @@
 - [§ 79 Entscheidung über den Aufenthalt](0079.md)
 - [§ 80 Handlungsfähigkeit](0080.md)
 - [§ 81 Beantragung des Aufenthaltstitels](0081.md)
+- [§ 81a Beschleunigtes Fachkräfteverfahren](0081a.md)
 - [§ 82 Mitwirkung des Ausländers](0082.md)
 - [§ 83 Beschränkung der Anfechtbarkeit](0083.md)
 - [§ 84 Wirkungen von Widerspruch und Klage](0084.md)

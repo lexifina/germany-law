@@ -14,7 +14,7 @@
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
 - [§ 5 Bund-Länder-Informationsverfahren](0005.md)
 
-## 3. Abschnitt Epidemiologische Überwachung
+## 3. Abschnitt Überwachung
 
 - [§ 6 Meldepflichtige Krankheiten](0006.md)
 - [§ 7 Meldepflichtige Nachweise von Krankheitserregern](0007.md)
@@ -37,13 +37,13 @@
 - [§ 19 Aufgaben des Gesundheitsamtes in besonderen Fällen](0019.md)
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
 - [§ 21 Impfstoffe](0021.md)
-- [§ 22 Impfausweis](0022.md)
+- [§ 22 Impfdokumentation](0022.md)
 - [§ 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder](0023.md)
 - [§ 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten](0023a.md)
 
 ## 5. Abschnitt Bekämpfung übertragbarer Krankheiten
 
-- [§ 24 Behandlung übertragbarer Krankheiten](0024.md)
+- [§ 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung](0024.md)
 - [§ 25 Ermittlungen](0025.md)
 - [§ 26 Teilnahme des behandelnden Arztes](0026.md)
 - [§ 27 Unterrichtungspflichten des Gesundheitsamtes](0027.md)

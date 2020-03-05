@@ -12,7 +12,7 @@
 | § 4 | Aufgaben des Robert Koch-Instituts |
 | § 5 | Bund-Länder-Informationsverfahren |
 |  |
-| 3. Abschnitt - Epidemiologische Überwachung |
+| 3. Abschnitt - Überwachung |
 |  |
 | § 6 | Meldepflichtige Krankheiten |
 | § 7 | Meldepflichtige Nachweise von Krankheitserregern |
@@ -35,13 +35,13 @@
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
 | § 21 | Impfstoffe |
-| § 22 | Impfausweis |
+| § 22 | Impfdokumentation |
 | § 23 | Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder |
 | § 23a | Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten |
 |  |
 | 5. Abschnitt - Bekämpfung übertragbarer Krankheiten |
 |  |
-| § 24 | Behandlung übertragbarer Krankheiten |
+| § 24 | Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung |
 | § 25 | Ermittlungen |
 | § 26 | Teilnahme des behandelnden Arztes |
 | § 27 | Unterrichtungspflichten des Gesundheitsamtes |

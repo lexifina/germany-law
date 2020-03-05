@@ -55,6 +55,7 @@ werden
 - [§ 21a Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens](0021a.md)
 - [§ 22 Abruf im automatisierten Verfahren](0022.md)
 - [§ 23 Statistische Aufbereitung der Daten](0023.md)
+- [§ 23a Datenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik](0023a.md)
 - [§ 24 Planungsdaten](0024.md)
 - [§ 24a Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke](0024a.md)
 

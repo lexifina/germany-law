@@ -1,15 +1,75 @@
 # Anlage 2 (zu § 18 Abs. 5)
 
-① Antrag
-auf Eintragung in das Wählerverzeichnis zur Bundestagswahl 20...
-und Wahlscheinantrag gemäß § 18 Absatz 5 der Bundeswahlordnung für im Ausland lebende Deutsche
+① Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
+– Erstausfertigung –
+|  |  |  |  |
+| ② | An die Gemeindebehörde |  | Bitte–füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus,–beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,–das Zutreffende ankreuzen ⌧ |
+|  | .......... |  |
+|  | .......... |  |
+|  |  |  |  |
+|  |  |  |
+|  | Familienname – ggf. auch Geburtsname – Vornamen |  |
+|  | Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland bei der Meldebehörde gemeldet war, ⃞ ist unverändert ⃞ lautete damals: |  |
+|  | Geburtsdatum | Tag | Monat | Jahr | E-Mail: (für Rückfragen) |  |
+|  |  |  |  |  |  |  |  |
+| ③ | Meine derzeitige Wohnung (vollständige Wohnanschrift im Ausland) |  |  |  |
+|  | .......... |  |  |
+| ④ | Ich hatte vor meinem Umzug ins Ausland in der Bundesrepublik Deutschland*) mindestens 3 Monate ununterbrochen und zuletzt folgende bei der Meldebehörde gemeldete Wohnung(en) inne: |  |
+|  | vom | bis zum | (Straße, Hausnummer, Postleitzahl, Ort) |  |
+|  | vom | bis zum | (Straße, Hausnummer, Postleitzahl, Ort) |  |
+| ⑤ | und bin fortgezogen am (Datum der Abmeldung) | nach (Ort, Staat) |  |
+| ⑥ | Ich bin im Besitz eines ⃞ Personalausweises ⃞ Reisepasses | Ausweis-Nummer: | ausgestellt am: |  |
+| von (ausstellende Behörde) |  |  |
+| ⑦ | Ich versichere gegenüber der Gemeindebehörde an Eides statt: |  |
+| ⑧ | ⃞ Ich bin Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes. |  |
+|  | ⃞ Ich habe das 18. Lebensjahr vollendet. | oder | ⃞ Ich werde das 18. Lebensjahr bis zum Wahltag vollenden. |  |
+| ⑨ | ⃞ Ich bin nicht vom Wahlrecht ausgeschlossen. |  |
+| ⑩ | ⃞ Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten. | oder | ⃞ Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen. |  |
+| ⑪ | ⃞ Ich habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Deutschen Bundestag gestellt. |  |
+|  | Mir ist bekannt, dass sich strafbar macht, wer durch falsche Angaben die Eintragung in das Wählerverzeichnis erwirkt, und wer unbefugt wählt oder dies versucht.Ich werde deshalb unverzüglich gegenüber der Gemeindebehörde diesen Antrag zurücknehmen und an der Wahl nicht teilnehmen, wenn ich bis zum Wahltag nicht mehr Deutsche(r) oder vom Wahlrecht ausgeschlossen sein sollte. |  |
+| ⑫ | ⃞ Die Wahlunterlagen sollen an meine oben angegebene derzeitige Wohnung übersandt werden. |  |
+|  | ⃞ Die Wahlunterlagen sollen mir an folgende Anschrift übersandt werden: |  |
+|  | (Straße, Hausnummer) | .......... |  |
+|  | (Postleitzahl, Ort, Staat) | .......... |  |
+| ⑬ | .......... Datum, Unterschrift des Antragstellers/der Antragstellerin (Vor- und Familienname) |  |
+| ⑭ | Ich versichere gegenüber der Gemeindebehörde an Eides statt, dass ich den Antrag als Hilfsperson nach den Angaben des Antragstellers ausgefüllt habe und die darin gemachten Angaben nach meiner Kenntnis der Wahrheit entsprechen........... Datum, Unterschrift der Hilfsperson (Vor- und Familienname) |  |
+|  |  |  |
+Wird von der Gemeindebehörde ausgefüllt.
+Rückseite
+der Erstausfertigung
+Muster für amtliche Vermerke
+| 1 | Zuständigkeit der Gemeindebehörde |  | ⃞ ja |
+| ⃞ Nein. Urschriftlich zuständigkeitshalber abgegeben an die Gemeindebehörde (Gemeindebehörde) |
+| Begründung |
+| (Ort, Datum) | Im Auftrag (Unterschrift des Beauftragten der Gemeindebehörde) |
+| 2 | Antragseingang |  |
+|  | am (Datum) | 21. Tag vor der Wahl |  |  | Antragseingang |
+|  |  | = |  |  | ⃞ verspätet | ⃞ rechtzeitig |
+| 3 | Status als Deutscher nachgewiesen | ⃞ nein | ⃞ ja |
+| 4 | 18. Lebensjahr am Wahltag vollendet | ⃞ nein | ⃞ ja |
+| 5 | Wahlausschlussgrund nach § 13 BWG | ⃞ vorhanden | ⃞ nicht vorhanden |
+| 6 | Weitere wahlrechtliche Voraussetzungen |  |
+| 6.1 | Mindestens dreimonatiger ununterbrochener Aufenthalt in der Bundesrepublik Deutschland | ⃞ nein | ⃞ ja |
+| innerhalb der letzten 25 Jahre | ⃞ nein | ⃞ ja |
+| nach Vollendung des 14. Lebensjahres | ⃞ nein | ⃞ ja |
+| 6.2 | Antragsteller hat aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und ist von ihnen betroffen | ⃞ nein | ⃞ ja |
+| 7 | Wahlrechtsvoraussetzungen erfüllt nach | § 12 Absatz 2 Satz 1 Nummer 1 BWG | ⃞ nein | ⃞ ja |
+| § 12 Absatz 2 Satz 1 Nummer 2 BWG | ⃞ nein | ⃞ ja |
+| 8 | Erledigung des Antrages |
+| ⃞ Eintragung in das Wählerverzeichnis | Bezeichnung des Wahlbezirks |
+| ⃞ Erteilung des Wahlscheines | Wahlscheinnummer |
+| ⃞ Vermerk über die Wahlscheinerteilung im Wählerverzeichnis |
+|  | ⃞ Absendung des Wahlscheines und der Briefwahlunterlagen per Luftpost | ⃞ Übersendung der Zweitausfertigung des Antrages an den Bundeswahlleiter |
+|  | am (Datum) | am (Datum) |
+|  | ⃞ Zurückweisung (s. Anlage) |
+① Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
 - Zweitausfertigung -
 |  |  |  |  |  |  |  |  |  |  |  |
 | ② |  | An die Gemeindebehörde |  | Bitte |  |  |
 |  |  | . . . . . . . . . . . . . . . . |  | -füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus, |  |
 |  |  |  |  | -beachten Sie die Erläuterungen im Merkblatt zu den Randnummern, |  |
 |  |  | . . . . . . . . . . . . . . . . |  | -das Zutreffende ankreuzen X |  |
-|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | Familienname — ggf. auch Geburtsname — Vornamen |  |
 |  |  | Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland*) bei der Meldebehörde gemeldet war, |  |
 |  |  | □ist unverändert | □lautete damals: |  |
@@ -31,17 +91,17 @@ und Wahlscheinantrag gemäß § 18 Absatz 5 der Bundeswahlordnung für im Auslan
 | ⑧ |  | □Ich bin Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes. |  |  |  |  |  |
 |  |  | □Ich habe das 18. Lebensjahr vollendet. | oder | □Ich werde das 18. Lebensjahr bis zum Wahltag vollenden. |  |
 | ⑨ |  | □Ich bin nicht vom Wahlrecht ausgeschlossen. |  |  |  |  |  |
-| ⑩ |  | □Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland*) eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten. | oder | □Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen. |  |
+| ⑩ |  | □Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten. | oder | □Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen. |  |
 |  |  |  |  |  |  |  |  |
 | ⑪ |  | □Ich habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Deutschen Bundestag gestellt. |  |
 |  |  | Mir ist bekannt, dass sich strafbar macht, wer durch falsche Angaben die Eintragung in das Wählerverzeichnis erwirkt, und wer unbefugt wählt oder dies versucht.Ich werde deshalb unverzüglich gegenüber der Gemeindebehörde diesen Antrag zurücknehmen und an der Wahl nicht teilnehmen, wenn ich bis zum Wahltag nicht mehr Deutsche(r) oder vom Wahlrecht ausgeschlossen sein sollte. |  |
 | ⑫ |  | □Die Wahlunterlagen sollen an meine oben angegebene derzeitige Wohnung übersandt werden.□Die Wahlunterlagen sollen mir an folgende Anschrift übersandt werden: |  |
 |  |  | (Straße, Hausnummer) . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 |  |  | (Postleitzahl, Ort, Staat) . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| ⑬ |  | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Datum, Unterschrift des Antragstellers (Vor- und Familienname) |  |
+| ⑬ |  | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Datum, Unterschrift des Antragstellers/der Antragstellerin (Vor- und Familienname) |  |
 | ⑭ |  | Ich versichere gegenüber der Gemeindebehörde an Eides statt, dass ich den Antrag als Hilfsperson nach den Angaben des Antragstellers ausgefüllt habe und die darin gemachten Angaben nach meiner Kenntnis der Wahrheit entsprechen.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Datum, Unterschrift der Hilfsperson (Vor- und Familienname) |  |
 |  |  |  |  |  |  |  |  |
-|  |  | *) Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost). |  |
+|  |  |  |  |
 | Rückseiteder Zweitausfertigung |  |  |  |
 |  |  |  |  |
 | Datenerfassung für denBundeswahlleiterStatistisches BundesamtZweigstelle BonnPostfach 17 03 7753029 Bonn |  |  |  |
@@ -75,10 +135,7 @@ und Wahlscheinantrag gemäß § 18 Absatz 5 der Bundeswahlordnung für im Auslan
 |  |  |  |  |
 |  |  |  |  |
 | _________________________________________________________________________________________________________________________________ |
-Merkblatt
-zu dem Antrag auf Eintragung in das Wählerverzeichnis
-und zu der Versicherung an Eides statt
-für im Ausland lebende Deutsche
+Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
 Wahlberechtigte, die in der Bundesrepublik Deutschland noch für eine Wohnung gemeldet sind, dürfen den Antrag nicht stellen.
 | ① | Antrag auf Eintragung in das Wählerverzeichnis vom Ausland aus |
 |  | Wahlberechtigte können an der Wahl zum Deutschen Bundestag grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind. |
@@ -100,7 +157,7 @@ Wahlberechtigte, die in der Bundesrepublik Deutschland noch für eine Wohnung ge
 | ⑧ | Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind Personen, die 1.die deutsche Staatsangehörigkeit oder2.als Spätaussiedler/Spätaussiedlerinnen oder als deren in den Aufnahmebescheid einbezogene Ehegatten oder Abkömmlinge auf Grund ihrer Aufnahme in Deutschland nach § 4 Absatz 3 des Bundesvertriebenengesetzes (BVFG) vor Ausstellung der Bescheinigung nach § 15 Absatz 1 oder 2 BVFG, mit der sie nach § 7 des Staatsangehörigkeitsgesetzes die deutsche Staatsangehörigkeit erwerben, vorübergehend die Rechtsstellung als (Status-) Deutsche ohne deutsche Staatsangehörigkeit |
 |  | besitzen. |
 | ⑨ | Vom Wahlrecht zum Deutschen Bundestag ist nach § 13 des Bundeswahlgesetzes ausgeschlossen, wer infolge Richterspruchs das Wahlrecht nicht besitzt. |
-| ⑩ | Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland*) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2. |
+| ⑩ | Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2. |
 |  | Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland inne hatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. |
 |  | In diesen Fällen ist auf einem gesonderten Blatt zu begründen, wodurch und in welcher Weise der Antragsteller/die Antragstellerin persönlich und unmittelbar (auf Grund eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. Zum Beleg können dem Antrag Unterlagen beigefügt werden. |
 |  | Wahlberechtigt können beispielsweise folgende dauerhaft im Ausland lebende deutsche Staatsangehörige sein (für die nicht bereits die beim linken Kästchen genannten Voraussetzungen zutreffen): –Ortskräfte an deutschen Auslandsvertretungen, deutsche Mitarbeiter an Goetheinstituten, an den deutschen geisteswissenschaftlichen Instituten im Ausland, an deutschen Auslandsschulen, bei den Auslandsbüros der politischen Stiftungen, der deutschen Entwicklungszusammenarbeit oder der Auslandshandelskammern sowie Korrespondenten deutscher Medien;–Sogenannte Grenzpendler, die ihre Arbeits- oder Dienstleistung regelmäßig im Inland erbringen;–Auslandsdeutsche, die durch ein Engagement in deutschen Verbänden, Parteien und sonstigen Organisationen in erheblichem Umfang am politischen und gesellschaftlichen Leben der Bundesrepublik Deutschland teilnehmen. |

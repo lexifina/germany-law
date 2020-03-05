@@ -49,6 +49,7 @@
 |  | § 21a | Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens |
 |  | § 22 | Abruf im automatisierten Verfahren |
 |  | § 23 | Statistische Aufbereitung der Daten |
+|  | § 23a | Datenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik |
 |  | § 24 | Planungsdaten |
 |  | § 24a | Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke |
 |  |

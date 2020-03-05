@@ -1,4 +1,4 @@
-# Anlage IX (zu den Anlagen I und III)Gültig ab 1. Januar 2020
+# Anlage IX (zu den Anlagen I und III) Gültig ab 1. März 2020
 
 Zulagen
 – in der Reihenfolge der Gesetzesstellen –
@@ -42,7 +42,7 @@ Zulagen
 | 34 | Absatz 1 Satz 2 |  | 615,00 |
 | 35 | Nummer 6a |  | 150,00 |
 | 36 | Nummer 7 | Beamte und Soldaten der Besoldungsgruppe(n) |  |
-| 37 | – A 2 bis A 5 | 165,00 |
+| 37 | – A 3 bis A 5 | 165,00 |
 | 38 | – A 6 bis A 9 | 220,00 |
 | 39 | – A 10 bis A 13 | 275,00 |
 | 40 | – A 14, A 15, B 1 | 330,00 |
@@ -51,12 +51,12 @@ Zulagen
 | 43 | – B 8 bis B 10 | 540,00 |
 | 44 | – B 11 | 610,00 |
 | 45 | Nummer 8 | Beamte der Besoldungsgruppen |  |
-| 46 | – A 2 bis A 5 | 150,00 |
+| 46 | – A 3 bis A 5 | 150,00 |
 | 47 | – A 6 bis A 9 | 200,00 |
 | 48 | – A 10 bis A 13 | 250,00 |
 | 49 | – A 14 und höher | 300,00 |
 | 50 | Nummer 8a | Beamte und Soldaten der Besoldungsgruppen |  |
-| 51 | – A 2 bis A 5 | 103,00 |
+| 51 | – A 3 bis A 5 | 103,00 |
 | 52 | – A 6 bis A 9 | 141,00 |
 | 53 | – A 10 bis A 13 | 174,00 |
 | 54 | – A 14 und höher | 206,00 |
@@ -65,12 +65,12 @@ Zulagen
 | 57 | – des gehobenen Dienstes | 99,00 |
 | 58 | – des höheren Dienstes | 122,00 |
 | 59 | Nummer 8b | Beamte der Besoldungsgruppen |  |
-| 60 | – A 2 bis A 5 | 120,00 |
+| 60 | – A 3 bis A 5 | 120,00 |
 | 61 | – A 6 bis A 9 | 160,00 |
 | 62 | – A 10 bis A 13 | 200,00 |
 | 63 | – A 14 und höher | 240,00 |
 | 64 | Nummer 8c | Beamte und Soldaten der Besoldungsgruppen |  |
-| 65 | – A 2 bis A 5 | 85,00 |
+| 65 | – A 3 bis A 5 | 85,00 |
 | 66 | – A 6 bis A 9 | 110,00 |
 | 67 | – A 10 bis A 13 | 125,00 |
 | 68 | – A 14 und höher | 140,00 |
@@ -102,63 +102,61 @@ Zulagen
 | 94 | – A 14 bis A 16 | 220,00 |
 | 95 | Nummer 14 |  | 35,00 |
 | 96 | Nummer 15 | Beamte der Besoldungsgruppen |  |
-| 97 | – A 2 bis A 5 | 70,00 |
+| 97 | – A 3 bis A 5 | 70,00 |
 | 98 | – A 6 bis A 9 | 90,00 |
 | 99 | – A 10 bis A 13 | 110,00 |
 | 100 | – A 14 und höher | 140,00 |
 | 101 | Nummer 16 | Beamte und Soldaten der Besoldungsgruppen |  |
-| 102 | – A 2 bis A 5 | 150,00 |
+| 102 | – A 3 bis A 5 | 150,00 |
 | 103 | – A 6 bis A 9 | 200,00 |
 | 104 | – A 10 bis A 13 | 250,00 |
 | 105 | – A 14 und höher | 300,00 |
 | 106 | Nummer 17 | Beamte der Besoldungsgruppen |  |
-| 107 | – A 2 bis A 5 | 96,00 |
+| 107 | – A 3 bis A 5 | 96,00 |
 | 108 | – A 6 bis A 9 | 128,00 |
 | 109 | – A 10 bis A 13 | 160,00 |
 | 110 | – A 14 und höher | 192,00 |
 | 111 | Nummer 18 | Beamte und Soldaten der Besoldungsgruppen |  |
-| 112 | – A 2 bis A 5 | 96,00 |
+| 112 | – A 3 bis A 5 | 96,00 |
 | 113 | – A 6 bis A 9 | 128,00 |
 | 114 | – A 10 bis A 13 | 160,00 |
 | 115 | – A 14 und höher | 192,00 |
 | 116 | Nummer 19 | Beamte der Besoldungsgruppen |  |
-| 117 | – A 2 bis A 5 | 20,00 |
+| 117 | – A 3 bis A 5 | 20,00 |
 | 118 | – A 6 bis A 9 | 40,00 |
 | 119 | – A 10 bis A 13 | 60,00 |
 | 120 | – A 14 und höher | 80,00 |
 | 121 | Amtszulagen |
 | 122 | Besoldungs- gruppe | Fußnote(n) |  |  |
-| 123 | A 2 | 1 |  | 42,92 |
-| 124 |  | 2 |  | 79,16 |
-| 125 | A 3 | 2 |  | 42,92 |
-| 126 |  | 4 |  | 79,16 |
-| 127 |  | 5 |  | 39,97 |
-| 128 | A 4 | 1 |  | 42,92 |
-| 129 |  | 2 |  | 79,16 |
-| 130 |  | 4 |  | 8,63 |
-| 131 | A 5 | 1 |  | 42,92 |
-| 132 |  | 3 |  | 79,16 |
-| 133 | A 6 | 2, 5 |  | 42,92 |
-| 134 | A 7 | 5 |  | 53,30 |
-| 135 | A 8 | 1 |  | 68,66 |
-| 136 | A 9 | 1 |  | 319,49 |
-| 137 | A 13 | 1 |  | 324,68 |
-| 138 |  | 7 |  | 148,41 |
-| 139 | A 14 | 5 |  | 222,60 |
-| 140 | A 15 | 3 |  | 296,78 |
-| 141 |  | 8 |  | 222,60 |
-| 142 | A 16 | 6 |  | 248,94 |
-| 143 | B 10 | 1 |  | 514,41 |
-| 144 | Anlage III (Bundesbesoldungsordnung R) |
-| 145 | Stellenzulage |
-| 146 | Vorbemerkung |  |  |
-| 147 | Nummer 2 | Richter und Staatsanwälte der Besoldungsgruppe(n) |  |
-| 148 | – R 1 | 330,00 |
-| 149 | – R 2 bis R 4 | 400,00 |
-| 150 | – R 5 bis R 7 | 470,00 |
-| 151 | – R 8 und höher | 540,00 |
-| 152 | Amtszulagen |
-| 153 | Besoldungs- gruppe | Fußnote |  |  |
-| 154 | R 2 | 1 |  | 246,12 |
-| 155 | R 7 | 1 |  | 366,00 |
-| 156 | R 8 | 1 |  | 492,13 |
+| 123 | A 3 | 1 |  | 43,37 |
+| 124 |  | 2 |  | 80,00 |
+| 125 |  | 3 |  | 40,39 |
+| 126 | A 4 | 1 |  | 43,37 |
+| 127 |  | 2 |  | 80,00 |
+| 128 |  | 4 |  | 8,72 |
+| 129 | A 5 | 1 |  | 43,37 |
+| 130 |  | 3 |  | 80,00 |
+| 131 | A 6 | 2, 5 |  | 43,37 |
+| 132 | A 7 | 5 |  | 53,86 |
+| 133 | A 8 | 1 |  | 69,39 |
+| 134 | A 9 | 1 |  | 322,88 |
+| 135 | A 13 | 1 |  | 328,12 |
+| 136 |  | 7 |  | 149,98 |
+| 137 | A 14 | 5 |  | 224,96 |
+| 138 | A 15 | 3 |  | 299,93 |
+| 139 |  | 8 |  | 224,96 |
+| 140 | A 16 | 6 |  | 251,58 |
+| 141 | B 10 | 1 |  | 519,86 |
+| 142 | Anlage III (Bundesbesoldungsordnung R) |
+| 143 | Stellenzulage |
+| 144 | Vorbemerkung |  |  |
+| 145 | Nummer 2 | Richter und Staatsanwälte der Besoldungsgruppe(n) |  |
+| 146 | – R 1 | 330,00 |
+| 147 | – R 2 bis R 4 | 400,00 |
+| 148 | – R 5 bis R 7 | 470,00 |
+| 149 | – R 8 und höher | 540,00 |
+| 150 | Amtszulagen |
+| 151 | Besoldungs- gruppe | Fußnote |  |  |
+| 152 | R 2 | 1 |  | 248,73 |
+| 153 | R 7 | 1 |  | 369,88 |
+| 154 | R 8 | 1 |  | 497,35 |

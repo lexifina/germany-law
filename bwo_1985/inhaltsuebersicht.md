@@ -126,7 +126,7 @@
 | Sechster Abschnitt |
 | Übergangs- und Schlussbestimmungen (§§ 85 bis 93) |
 |  |
-| § 85 | (weggefallen) |
+| § 85 | Datenschutzrechtliche Spezialregelungen |
 | § 86 | Öffentliche Bekanntmachungen |
 | § 87 | Zustellungen, Versicherungen an Eides statt |
 | § 88 | Beschaffung von Stimmzetteln und Vordrucken |

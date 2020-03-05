@@ -25,7 +25,7 @@ Wahlschein
 | Versicherung an Eides statt zur Briefwahl |
 | Ich versichere gegenüber dem Kreiswahlleiter/der Verwaltungsbehörde des Kreises/der mit der Durchführung der Briefwahl betrauten Gemeindebehörde an Eides statt, dass ich den beigefügten Stimmzettel persönlich - als Hilfsperson gemäß dem erklärten Willen des Wählers - gekennzeichnet habe. |
 |  |  |  |  |
-| Unterschrift des Wählers | - oder - | Unterschrift der Hilfsperson |
+| Unterschrift des Wählers/der Wählerin | - oder - | Unterschrift der Hilfsperson |
 |  |  |  |  |
 | ...................................................................................................................................................(Datum, Vor- und Familienname) | ...............................................................................................................................(Datum, Vor- und Familienname) |
 |  |  |  | Weitere Angaben in Blockschrift! |

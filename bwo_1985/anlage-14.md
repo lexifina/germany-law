@@ -5,6 +5,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 |  | Ausgegeben |
 | (Dienstsiegel der Dienststelledes Kreiswahlleiters) | ................................................................, den .................................................. |
 |  | Der Kreiswahlleiter |
+|  |  |  |
 Unterstützungsunterschrift
 (vollständig in Maschinen- oder Druckschrift ausfüllen)
 |  |  |  |  |  |
@@ -28,6 +29,7 @@ Unterstützungsunterschrift
 |  | ..............................................(Datum) | .............................................................................................(Persönliche und handschriftliche Unterschrift) |  |
 |  |  |  |  |  |
 |  | (Nicht vom Unterzeichner ausfüllen) |  |
+|  |  |  |  |  |
 |  | Bescheinigung des Wahlrechts |  |
 |  | Der/Die vorstehende Unterzeichner(in) ist Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes. Er/Sie erfüllt die sonstigen Voraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und im oben bezeichneten Wahlkreis wahlberechtigt. |  |
 |  | (Dienstsiegel) | ...................................................., den ................................................ |  |
@@ -54,3 +56,26 @@ für die Wahl zum ....................... Deutschen Bundestag
 |  | Die Gemeindebehörde |
 |  | ............................................................................................................ |
 ______________
+| Datenschutzhinweise auf der Rückseite |
+Rückseite
+des Formblatts für eine Unterstützungsunterschrift
+(Kreiswahlvorschlag)
+Informationen zum Datenschutz
+Für die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten gilt:
+1. Die Verarbeitung der personenbezogenen Daten dient dazu, die Mindestzahl von Unterstützungsunterschriften für Wahlvorschläge nach § 20 Absatz 2 Bundeswahlgesetz und § 20 Absatz 3 Bundeswahlgesetz nachzuweisen.
+  Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung.
+2. Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+  Ihre Unterstützungsunterschrift für den Wahlvorschlag ist jedoch nur mit diesen Angaben gültig.
+3. Verantwortlich für die Verarbeitung der mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten ist die Unterstützungsunterschriften sammelnde Partei oder der Unterstützungsunterschriften sammelnde Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) (……………………………………………).
+  Nach Einreichung der Unterstützungsunterschriften beim Kreiswahlleiter ist der Kreiswahlleiter (………………………………) für die Verarbeitung der personenbezogenen Daten verantwortlich.
+  Verantwortlich für die Verarbeitung der personenbezogenen Daten bei der Erstellung der Wahlrechtsbescheinigung ist die Gemeindebehörde, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind.
+4. Empfänger der personenbezogenen Daten ist der Kreiswahlausschuss (Postanschrift: c/o Kreiswahlleiter, siehe oben Nummer 3).
+  Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können auch der Landeswahlausschuss, der Landeswahlleiter und der Bundeswahlleiter Empfänger der personenbezogenen Daten sein.
+  Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
+5. Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 2 Bundeswahlordnung: Formblätter mit Unterstützungsunterschriften für Wahlvorschläge sind nach Ablauf von sechs Monaten seit der Wahl zu vernichten, wenn nicht der Bundeswahlleiter mit Rücksicht auf ein schwebendes Wahlprüfungsverfahren etwas anderes anordnet oder sie für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
+6. Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
+7. Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+8. Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+9. Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Durch einen Antrag auf Einschränkung der Verarbeitung wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
+11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.

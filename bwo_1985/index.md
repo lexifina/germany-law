@@ -104,8 +104,7 @@ und Justizvollzugsanstalten](0064.md)
 ## Vierter Abschnitt Ermittlung und Feststellung der
 Wahlergebnisse
 
-- [§ 67 Ermittlung und Feststellung des Wahlergebnisses
-im Wahlbezirk](0067.md)
+- [§ 67 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk](0067.md)
 - [§ 68 Zählung der Wähler](0068.md)
 - [§ 69 Zählung der Stimmen](0069.md)
 - [§ 70 Bekanntgabe des Wahlergebnisses](0070.md)
@@ -132,7 +131,7 @@ Berufung von Listennachfolgern
 
 ## Sechster Abschnitt Übergangs- und Schlussbestimmungen
 
-- [§ 85](0085.md)
+- [§ 85 Datenschutzrechtliche Spezialregelungen](0085.md)
 - [§ 86 Öffentliche Bekanntmachungen](0086.md)
 - [§ 87 Zustellungen, Versicherungen an Eides statt](0087.md)
 - [§ 88 Beschaffung von Stimmzetteln und Vordrucken](0088.md)

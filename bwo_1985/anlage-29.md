@@ -10,7 +10,7 @@
 Wahlniederschrift
 über die Ermittlung und Feststellung des Ergebnisses der Wahl im Wahlbezirk
 der Wahl zum Deutschen Bundestag
-am ..........
+am
 1. Wahlvorstand
   Zu der Bundestagswahl waren für den Wahlbezirk vom Wahlvorstand erschienen:
   | Familienname | Vornamen | Funktion |
@@ -38,12 +38,11 @@ am ..........
 |  | Der Wahlvorsteher eröffnete die Wahlhandlung damit, dass er die anwesenden Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hinwies; er stellte die Erteilung dieses Hinweises an alle Beisitzer vor Aufnahme ihrer Tätigkeit sicher. Er belehrte sie über ihre Aufgaben. |  |  |  |  |  |
 |  | Abdrucke des Bundeswahlgesetzes und der Bundeswahlordnung lagen im Wahlraum vor. |  |  |  |  |  |
 | 2.2 | Vorbereitung des Wahlraums |  |  |  |  |  |
-|  | Damit die Wähler die Stimmzettel unbeobachtet kennzeichnen konnten, waren im Wahlraum Wahlkabinen oder Tische mit Sichtblenden oder Nebenräume, die nur vom Wahlraum aus betretbar waren, hergerichtet: |  |  |  |  |  |
-|  |  |  | (Bitte eintragen:) |  |
+|  | Damit die Wähler die Stimmzettel unbeobachtet kennzeichnen konnten, waren im Wahlraum Wahlkabinen oder Tische mit Sichtblenden oder Nebenräume, die nur vom Wahlraum aus betretbar waren, hergerichtet: |  | (Bitte eintragen:) |  |
 |  |  |  | Zahl der Wahlkabinen oder Tische mit Sichtblenden: |  |
-|  |  |  | .......... |  |
+|  |  |  |  |  |
 |  |  |  | Zahl der Nebenräume: |  |
-|  |  |  | .......... |  |
+|  |  |  |  |  |
 |  | Vom Tisch des Wahlvorstandes konnten die Wahlkabinen oder Tische mit Sichtblenden oder Eingänge zu den Nebenräumen überblickt werden. |  |  |  |  |  |
 | 2.3 | Vorbereitung der Wahlurne |  |  |  |  |  |
 |  | Der Wahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war. |  |  |  |  |  |
@@ -51,81 +50,93 @@ am ..........
 |  |  |  | ⃞ | versiegelt. |  |
 |  |  |  | ⃞ | verschlossen; der Wahlvorsteher nahm den Schlüssel in Verwahrung. |  |
 | 2.4 | Beginn der Stimmabgabe |  |  |  |  |
-|  | Mit der Stimmabgabe wurde um |  | (Bitte eintragen:).......... Uhr .......... Minuten begonnen. | (Bitte eintragen:).......... Uhr .......... Minuten begonnen. |  |  |
+|  | Mit der Stimmabgabe wurde um |  | (Bitte eintragen:) Uhr Minuten begonnen. | (Bitte eintragen:) Uhr Minuten begonnen. |  |  |
 | 2.5 | Berichtigungen aufgrund nachträglich ausgestellter Wahlscheine |  |  |  |  |  |
 |  | Vor Beginn der Stimmabgabe: |  | (Bitte Zutreffendes ankreuzen:) |  |  |
 |  |  |  | ⃞ | Ein Verzeichnis über nachträglich ausgestellte Wahlscheine lag nicht vor. Das Wählerverzeichnis war nicht zu berichtigen. |  |
 |  |  |  | ⃞ | Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet. |  |
-|  | Während der Stimmabgabe: |  | ⃞ | Der Wahlvorsteher berichtigte das Wählerverzeichnis später aufgrund der durch die Gemeindebehörde am Wahltag erfolgten Mitteilungen über die noch am Wahltag an erkrankte Wahlberechtigte erteilten Wahlscheine, indem er bei den Namen der noch am Wahltag mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet. |  |
+|  | Während der Stimmabgabe: |  | ⃞ | Der Wahlvorsteher berichtigte das Wählerverzeichnis später aufgrund der durch die Gemeindebehörde am Wahltag erfolgten Mitteilungen über die noch am Wahltag an erkrankte Wahlberechtigte erteilten Wahlscheine, indem er bei den Namen der noch am Wahltag mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet. |  |
 | 2.6 | Ungültigkeit von Wahlscheinen |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | Der Wahlvorstand hat eine Mitteilung über die Ungültigkeit von Wahlscheinen nicht erhalten. |  |
 |  |  |  | ⃞ | Der Wahlvorstand wurde vom |  |
-|  |  |  |  | .......... |  |
+|  |  |  |  |  |  |
 |  |  |  |  | unterrichtet, dass folgende(r) Wahlschein(e) für ungültig erklärt worden ist/sind: |  |
-|  |  |  |  | .......... (Bitte Vor- und Familienname des Wahlschein- inhabers sowie Wahlschein-Nummer eintragen) |  |
+|  |  |  |  | (Bitte Vor- und Familienname des Wahlschein-inhabers sowie Wahlschein-Nummer eintragen) |  |
 | 2.7 | Beweglicher Wahlvorstand |  |  |  |  |  |
 |  | Im Wahlbezirk |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | war kein beweglicher Wahlvorstand tätig. (Weiter bei Punkt 2.8) |  |
 |  |  |  | ⃞ | war ein beweglicher Wahlvorstand tätig. (Bitte Zutreffendes ankreuzen:) Im Wahlbezirk befindet sich |  |
 |  |  |  | ⃞ | das kleinere Krankenhaus/Alten- oder Pflegeheim |  |
-|  |  |  |  | .........., (Bezeichnung) |  |
+|  |  |  |  | , (Bezeichnung) |  |
 |  |  |  | ⃞ | das Kloster |  |
-|  |  |  |  | .........., (Bezeichnung) |  |
+|  |  |  |  | , (Bezeichnung) |  |
 |  |  |  | ⃞ | die sozialtherapeutische Anstalt |  |
-|  |  |  |  | .........., (Bezeichnung) |  |
+|  |  |  |  | , (Bezeichnung) |  |
 |  |  |  | ⃞ | die Justizvollzugsanstalt |  |
-|  |  |  |  | .........., (Bezeichnung) |  |
+|  |  |  |  | , (Bezeichnung) |  |
 |  |  |  | für das/die die Gemeinde die Stimmabgabe vor einem beweglichen Wahlvorstand zugelassen hat. |  |
 |  |  |  | Die personelle Zusammensetzung des/der beweglichen Wahlvorstandes/Wahlvorstände für die einzelne(n) Anstalt(en) (drei Mitglieder des Wahlvorstandes einschließlich des Wahlvorstehers oder seines Stellvertreters) ist aus den dieser Niederschrift als |  |
-|  |  |  | Anlagen Nr. .......... bis .......... beigefügten besonderen Niederschriften ersichtlich. |  |
+|  |  |  | Anlagen Nr. bis beigefügten besonderen Niederschriften ersichtlich. |  |
 |  | Der bewegliche Wahlvorstand begab sich zu der von der Gemeindebehörde bestimmten Wahlzeit in die Einrichtung(en) und übergab dort den Wahlberechtigten die Stimmzettel. Er wies die Wahlberechtigten, die sich bei der Stimmabgabe der Hilfe einer anderen Person bedienen wollten, darauf hin, dass sie auch ein von ihnen bestimmtes Mitglied des Wahlvorstandes als Hilfsperson in Anspruch nehmen können. Die Wähler hatten die Möglichkeit, den Stimmzettel unbeobachtet zu kennzeichnen. |  |  |  |  |  |
 |  | Nach Prüfung der Wahlscheine warfen die Wähler ihre gefalteten Stimmzettel in die vom beweglichen Wahlvorstand mitgebrachte verschlossene Wahlurne. Soweit ein Wähler es wünschte, warf der Wahlvorsteher oder sein Stellvertreter den gefalteten Stimmzettel in die Wahlurne. Der bewegliche Wahlvorstand vereinnahmte die Wahlscheine und brachte nach Schluss der Stimmabgabe die verschlossene Wahlurne und die eingenommenen Wahlscheine unverzüglich in den Wahlraum zurück. Hier verblieb die verschlossene Wahlurne bis zum Schluss der Wahlhandlung unter ständiger Aufsicht des Wahlvorstandes. |  |  |  |  |  |
 | 2.8 | Beweglicher Wahlvorstand im Sonderwahlbezirk |  |  |  |  |  |
 |  | Im Sonderwahlbezirk |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | war kein beweglicher Wahlvorstand tätig. |  |
-|  |  |  | ⃞ | begab sich ein beweglicher Wahlvorstand in die Krankenzimmer und verfuhr wie unter 2.7 beschrieben. |  |
+|  |  |  | ⃞ | begab sich ein beweglicher Wahlvorstand in die Krankenzimmer und verfuhr wie unter Punkt 2.7 beschrieben. |  |
 | 2.9 | Besondere Vorfälle während der Wahlhandlung |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | waren nicht zu verzeichnen. |  |
-|  |  |  | ⃞ | waren zu verzeichnen. Über die besonderen Vorfälle (z .B. Zurückweisung von Wählern in den Fällen des § 56 Absatz 6 und 7 und des § 59 der Bundeswahlordnung) wurden Niederschriften angefertigt, die als Anlagen |  |
+|  |  |  | ⃞ | waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von Wählern in den Fällen des § 56 Absatz 6 und 7 und des § 59 der Bundeswahlordnung) wurden Niederschriften angefertigt, die als Anlagen |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  | Nr. ……… bis ……… beigefügt sind. | Nr. ……… bis ……… beigefügt sind. |  |  |  |
 | 2.10 | Ablauf der Wahlzeit |  |  |  |  |  |
-|  | Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die im Wahlraum anwesenden Wahlberechtigten zur Stimmabgabe zugelassen. Der Zutritt zum Wahlraum wurde so lange gesperrt, bis der letzte der anwesenden Wähler seine Stimme abgegeben hatte. Sodann wurde die Öffentlichkeit wieder hergestellt. |  |  |  |  |  |
+|  | Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die Wähler zur Stimmabgabe zugelassen, die vor Ablauf der Wahlzeit erschienen waren und sich im Wahlraum oder aus Platzgründen davor befanden. Nach Ablauf der Wahlzeit eintreffenden Personen wurde der Zutritt zur Stimmabgabe gesperrt. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben hatten, erklärte der Wahlvorsteher die Wahlhandlung für geschlossen. |  |  |  |  |  |
 |  |  |  |  | Um ……… Uhr ……… Minuten | Um ……… Uhr ……… Minuten |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  | erklärte der Wahlvorsteher die Wahl für geschlossen. |  |
 |  | Vom Wahltisch wurden alle nicht benutzten Stimmzettel entfernt. |  |  |  |  |  |
 | 3. | Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk |  |  |  |  |  |
-| 3.1 | Leitung der Ergebnisfeststellung; Öffnung der Wahlurne |  |  |  |  |  |
-|  | Die Ermittlung und Feststellung des Wahlergebnisses wurden unmittelbar im Anschluss an die Stimmabgabe und ohne Unterbrechung unter der Leitung des Wahlvorstehers/des stellvertretenden Wahlvorstehers vorgenommen. |  |  |  |  |  |
-|  | Zunächst wurde die Wahlurne geöffnet; die Stimmzettel wurden entnommen. |  |  |  |  |  |
-|  | Sie wurden mit dem Inhalt der Wahlurne(n) des/der beweglichen Wahlvorstandes/Wahlvorstände vermischt. |  | (Bitte Zutreffendes ankreuzen:) |  |
-|  |  |  | ⃞ | ja (kann nur zutreffen, wenn ein beweglicher Wahlvorstand tätig war; siehe dazu oben Punkt 2.7 und 2.8) |  |
-|  |  |  | ⃞ | nein (kann nur zutreffen, wenn kein beweglicher Wahlvorstand tätig war, siehe dazu oben Punkt 2.7 und 2.8) |  |
-|  | Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war. |  |  |  |  |  |
-| 3.2 | Zahl der Wähler |  |  |  |  |  |
-|  | a) Sodann wurden die Stimmzettel gezählt. |  |  |  |  |  |
-|  | Die Zählung ergab |  | (Bitte Zahl eintragen:) |  |
-|  |  |  | ………… Stimmzettel (= Wähler insgesamt) |  |
-|  |  |  |  |  |  |
-|  |  |  | Diese Zahl hinten in Abschnitt 4 bei eintragen. |  |  |
-|  | b) Daraufhin wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt. |  |  |  |  |  |
-|  | Die Zählung ergab |  | (Bitte Zahl eintragen:) |  |
-|  |  |  | ………… Stimmabgabevermerke |  |
-|  | c) Dann wurden die eingenommenen Wahlscheine gezählt. |  |  |  |  |  |
-|  | Die Zählung ergab |  | ………… Wahlscheine (= Wähler mit Wahlschein) |  |
-|  |  |  |  |  |  |
-|  |  |  | Diese Zahl hinten in Abschnitt 4 bei eintragen. |  |  |
-|  | b) + c) zusammen ergab |  | …………… Personen. |  |  |
-|  |  |  | (Bitte Zutreffendes ankreuzen:) |  |
-|  |  |  | ⃞ | Die Gesamtzahl b) + c) stimmte mit der Zahl der Stimmzettel unter a) überein. |  |
-|  |  |  | ⃞ | Die Gesamtzahl b) + c) war |  |
-|  |  |  | um …………… (Anzahl) größer |  |
-|  |  |  | um …………… (Anzahl) kleiner |  |
-|  |  |  | als die Zahl der Stimmzettel. |  |
+| 3.1 | Leitung der Ergebnisfeststellung |  |  |  |  |  |
+|  | Die Ermittlung und Feststellung des Wahlergebnisses wurden im Anschluss an die Stimmabgabe unter der Leitung des Wahlvorstehers vorgenommen. |  |  |  |  |  |
+| 3.2 | Zahl der Wähler; Öffnung der Wahlurne |  |  |  |  |  |
+|  | a) | Zunächst wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt. |  |  |  |  |  |
+|  |  | Die Zählung ergab |  | (Bitte Zahl eintragen:) |  |
+|  |  |  |  | ………… Stimmabgabevermerke |  |
+|  | b) | Dann wurden die eingenommenen Wahlscheine gezählt. |  |  |  |  |  |
+|  |  | Die Zählung ergab |  | ………… Wahlscheine (= Wähler mit Wahlschein) |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  | Diese Zahl hinten in Abschnitt 4 bei eintragen. |  |  |
+|  | c) | Die Feststellung der Zahl der Stimmabgabevermerke im Wählerverzeichnis und der eingenommenen Wahlscheine ergab, dass |  | ⃞ | mehr als 50 Wähler ihre Stimme abgegeben haben (weiter bei Punkt 3.2 e)) |  |
+|  |  |  |  | ⃞ | weniger als 50 Wähler ihre Stimme abgegeben haben; der Kreiswahlleiter wurde unterrichtet (weiter bei Punkt 3.2 d)). |  |
+|  | d) | Weil weniger als 50 Wähler ihre Stimme abgegeben haben, hat der Kreiswahlleiter nach § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Wahlergebnisses mit einem von ihm bestimmten anderen Wahlvorstand |  | um ……… Uhr ……… Minuten angeordnet. | um ……… Uhr ……… Minuten angeordnet. |  |  |
+|  |  | Der Wahlvorstand des Wahlbezirks mit weniger als 50 Wählern (abgebender Wahlvorstand) |  | (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks) |  |
+|  |  | hat die verschlossene Wahlurne, die Abschlussbeurkundung, das Wählerverzeichnis und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Wahlvorstand (aufnehmender Wahlvorstand) |  | (aufnehmender Wahlvorstand/Name oder Nummer des Wahlbezirks) |  |
+|  |  |  |  | um ……… Uhr ……… Minuten übergeben. | um ……… Uhr ……… Minuten übergeben. |  |  |
+|  |  | Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Wahlvorsteher und der Schriftführer, ein weiteres Mitglied des Wahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend. |  | ⃞ | (Bitte durch Ankreuzen bestätigen) (Weiter bei Punkt 5.4) |  |
+|  | e) | Sodann wurde die Wahlurne geöffnet; die Stimmzettel wurden entnommen. |  |  |  |  |  |
+|  |  | Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war. |  |  |  |  |  |
+|  | f) | Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil |  | (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2 g)) |  |
+|  |  |  |  | ⃞ | im Wahlbezirk/Sonderwahlbezirk ein beweglicher Wahlvorstand tätig war |  |
+|  |  |  |  | ⃞ | aufgrund der Anordnung des Kreiswahlleiters |  |
+|  |  |  |  |  | von ……… Uhr ……… Minuten die verschlossene Wahlurne, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine des |  |
+|  |  |  |  |  | (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks) |  |
+|  |  |  |  |  | um ……… Uhr ……… Minuten zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses übernommen wurden. |  |
+|  |  | Bei der Zahl der Wähler (3.2 a), b), g)) und der Zahl der Wahlberechtigten (3.3) sind die Zahlen aus den Wählerverzeichnissen, Abschlussbeurkundungen, eingenommenen Wahlscheinen und Stimmzetteln des abgebenden und des aufnehmenden Wahlvorstands zusammenzuzählen. |  |  |  |  |  |
+|  |  | Nach der Vermischung sind die Stimmzettel gemeinsam auszuzählen (ab 3.2 g)). |  |  |  |  |  |
+|  | g) | Sodann wurden die Stimmzettel gezählt. |  |  |  |  |  |
+|  |  | Die Zählung ergab |  | (Bitte Zahl eintragen:) |  |
+|  |  |  |  | ………… Stimmzettel (= Wähler insgesamt) |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  | Diese Zahl hinten in Abschnitt 4 bei eintragen. |  |  |
+|  |  | a) + b) zusammen ergab |  | …………… Personen. |  |  |
+|  |  |  |  | (Bitte Zutreffendes ankreuzen:) |  |
+|  |  |  |  | ⃞ | Die Gesamtzahl a) + b) stimmte mit der Zahl der Stimmzettel unter g) überein. |  |
+|  |  |  |  | ⃞ | Die Gesamtzahl a) + b) war |  |
+|  |  |  |  | um …………… (Anzahl) größer |  |
+|  |  |  |  | um …………… (Anzahl) kleiner |  |
+|  |  |  |  | als die Zahl der Stimmzettel. |  |
 |  |  |  | Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen: |  |
 |  |  |  | (Bitte erläutern:) |  |  |
-|  |  |  | ........................................ |  |
+|  |  |  |  |  |
 | 3.3 | Zahl der Wahlberechtigten |  |  |  |  |  |
 |  | Der Schriftführer übertrug aus der Bescheinigung über den Abschluss des Wählerverzeichnisses |  | die Zahl der Wahlberechtigten hinten in Abschnitt 4 unter |  |
 |  |  |  | der Wahlniederschrift. |  |
@@ -155,7 +166,7 @@ am ..........
 |  | sowie |  |  |  |  |  |
 |  | die Zahl der ungültigen Erststimmen |  | = Zeile C in Abschnitt 4 |  |
 |  | ermittelt. |  |  |  |  |  |
-|  | Die so ermittelten Stimmenzahlen wurden als Zwischensummen (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen. |  | ⃞ | (Nach Eintragung durch Ankreuzen bestätigen) |  |
+|  | Die so ermittelten Stimmenzahlen wurden als Zwischensummen II (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen. |  | ⃞ | (Nach Eintragung durch Ankreuzen bestätigen) |  |
 | 3.4.4 | Die Zählungen nach 3.4.2 und 3.4.3 verliefen wie folgt: |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | Unstimmigkeiten bei den Zählungen haben sich nicht ergeben. |  |
 |  |  |  | ⃞ | Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den betreffenden Stapel nacheinander erneut. |  |
@@ -166,30 +177,30 @@ am ..........
 | 3.5 | Sammlung und Beaufsichtigung der Stimmzettel |  |  |  |  |  |
 |  | Die vom Wahlvorsteher bestimmten Beisitzer sammelten a)die Stimmzettel, auf denen die Erst- und die Zweitstimme oder nur die Erststimme abgegeben worden waren, getrennt nach den Bewerbern, denen die Erststimme zugefallen war,b)die Stimmzettel, auf denen nur die Zweitstimme abgegeben worden war, getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,c)die ungekennzeichneten Stimmzettel und |  |  |  |  |  |
 |  | d)die Stimmzettel, die Anlass zu Bedenken gegeben hatten, |  |  |  |  |  |
-|  | je für sich und behielten sie unter Ihrer Aufsicht. |  |  |  |  |  |
+|  | je für sich und behielten sie unter ihrer Aufsicht. |  |  |  |  |  |
 |  |  |  |  | Die in d) bezeichneten Stimmzettel sind als Anlagen unter den fortlaufenden Nummern |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  | .......... bis .......... | beigefügt. |
+|  |  |  |  | bis | beigefügt. |
 | 3.6 | Feststellung und Bekanntgabe des Wahlergebnisses |  |  |  |  |  |
 |  | Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Wahlvorstand als das Wahlergebnis im Wahlbezirk festgestellt und vom Wahlvorsteher mündlich bekannt gegeben. |  | ⃞ | (Bitte durch Ankreuzen bestätigen) |  |  |
 | 4. | Wahlergebnis |  |  |  |  |  |  |
 |  | Kennbuchstaben für die Zahlenangaben |  |  | (Wahlniederschrift und Vordruck für die Schnellmeldung sind aufeinander abgestimmt. Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung (siehe Punkt 5.3) bei demselben Kennbuchstaben einzutragen, mit dem sie in der Wahlniederschrift bezeichnet sind.) |  |
 |  |  |  |  |  |
-|  | Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein) |  | .......... |  |
-|  | Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein)1) |  | .......... |  |
-|  | im Wählerverzeichnis insgesamt eingetragene Wahlberechtigte1) |  | .......... |  |
-|  | Wähler insgesamt [vgl. oben 3.2 a)] |  | .......... |  |
-|  | darunter Wähler mit Wahlschein [vgl. oben 3.2 c)] |  | .......... |  |
+|  | Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein) |  |  |  |
+|  | Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein) |  |  |  |
+|  | im Wählerverzeichnis insgesamt eingetragene Wahlberechtigte1) |  |  |  |
+|  | Wähler insgesamt [vgl. oben 3.2 g)] |  |  |  |
+|  | darunter Wähler mit Wahlschein [vgl. oben 3.2 b)] |  |  |  |
 | Ergebnis der Wahl im Wahlkreis (Erststimmen) |
 | Summe + muss mit übereinstimmen. |
 |  |  | ZS I | ZS II | ZS III | Insgesamt |
 | C | Ungültige Erststimmen |  |  |  |  |
 Gültige Erststimmen:
 |  | Von den gültigen Erststimmen entfielen auf den Bewerber (Vor- und Familienname des Bewerbers sowie Kurzbezeichnung der Partei/bei anderen Kreiswahlvorschlägen das Kennwort – laut Stimmzettel –) | ZS I | ZS II | ZS III | Insgesamt |
-| D1 | 1. .......... |  |  |  |  |
-| D2 | 2. .......... |  |  |  |  |
-| D3 | 3. .......... |  |  |  |  |
-| D4 | 4. .......... |  |  |  |  |
+| D1 | 1. |  |  |  |  |
+| D2 | 2. |  |  |  |  |
+| D3 | 3. |  |  |  |  |
+| D4 | 4. |  |  |  |  |
 |  | usw. |  |  |  |  |
 | D | Gültige Erststimmen insgesamt |  |  |  |  |
 | Ergebnis der Wahl nach Landeslisten (Zweitstimmen) |
@@ -198,29 +209,29 @@ Gültige Erststimmen:
 | E | Ungültige Zweitstimmen |  |  |  |  |
 Gültige Zweitstimmen:
 |  | Von den gültigen Zweitstimmen entfielen auf die Landesliste der (Kurzbezeichnung der Partei – laut Stimmzettel –) | ZS I | ZS II | ZS III | Insgesamt |
-| F1 | 1. .......... |  |  |  |  |
-| F2 | 2. .......... |  |  |  |  |
-| F3 | 3. .......... |  |  |  |  |
-| F4 | 4. .......... |  |  |  |  |
+| F1 | 1. |  |  |  |  |
+| F2 | 2. |  |  |  |  |
+| F3 | 3. |  |  |  |  |
+| F4 | 4. |  |  |  |  |
 |  | usw. |  |  |  |  |
 | F | Gültige Zweitstimmen insgesamt |  |  |  |  |
 | 5. | Abschluss der Wahlergebnisfeststellung |  |  |  |  |  |
 | 5.1 | Besondere Vorkommnisse bei der Ergebnisfeststellung |  |  |  |  |  |
-|  | Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen: |  | .................... |  |
-|  | Der Wahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse: |  | .................... |  |  |  |
+|  | Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen: |  |  |  |
+|  | Der Wahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse: |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 5.2 | Erneute Zählung |  |  |  |  |  |
 |  | (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.) |  |  |  |  |  |
-|  | Das/Die Mitglied(er) des Wahlvorstandes |  | .......... (Vor- und Familienname) |  |
-|  | beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil |  | .............................. (Angabe der Gründe) |  |
+|  | Das/Die Mitglied(er) des Wahlvorstandes |  | (Vor- und Familienname) |  |
+|  | beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil |  | (Angabe der Gründe) |  |
 |  | Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.4) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  | ⃞ | mit dem gleichen Ergebnis erneut festgestellt |  |
 |  |  |  | ⃞ | berichtigt (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben bitte nicht löschen oder radieren.) |  |
 |  | und vom Wahlvorsteher mündlich bekannt gegeben. |  |  |  |  |  |
 | 5.3 | Schnellmeldung |  |  |  |  |  |
 |  | Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und |  | auf schnellstem Wege (z. B. telefonisch) |  |
-|  |  |  | .......... (Bitte Art der Übermittlung eintragen) an |  |
-|  |  |  | .......... übermittelt. (Bitte Empfänger eintragen) |  |
+|  |  |  | (Bitte Art der Übermittlung eintragen) |  |
+|  |  |  | an übermittelt. (Bitte Empfänger eintragen) |  |
 | 5.4 | Anwesenheit des Wahlvorstandes |  |  |  |  |  |
 |  | Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Wahlergebnisses mindestens fünf Mitglieder des Wahlvorstandes, darunter jeweils der Wahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend. |  |  |  |  |  |
 | 5.5 | Öffentlichkeit der Wahlhandlung und Ergebnisfeststellung |  |  |  |  |  |
@@ -237,18 +248,18 @@ Gültige Zweitstimmen:
 |  |
 |  |  |  |  |  |  |  |
 | 5.7 | Verweigerung der Unterschrift und Angabe von Gründen |  |  |  |  |  |
-|  | Das/Die Mitglied(er) des Wahlvorstandes |  | .......... (Vor- und Familienname) |  |
+|  | Das/Die Mitglied(er) des Wahlvorstandes |  | (Vor- und Familienname) |  |
 |  | verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil |  |  |  |  |  |
-|  |  |  | .............................. (Angabe der Gründe) |  |
+|  |  |  | (Angabe der Gründe) |  |
 | 5.8 | Bündelung von Stimmzetteln und Wahlscheinen |  |  |  |  |  |
-|  | Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt: |  | a)Ein Paket mit den Stimmzetteln, die nach den für die Wahlkreisbewerber abgegebenen Stimmen geordnet und gebündelt sind,b)ein Paket mit den Stimmzetteln, auf denen nur die Zweitstimme abgegeben worden war,c)ein Paket mit den ungekennzeichneten Stimmzetteln,d)ein Paket mit den eingenommenen Wahlscheinen sowiee)ein Paket mit den unbenutzten Stimmzetteln. |  |
+|  | Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2 d)): |  | a)Ein Paket mit den Stimmzetteln, die nach den für die Wahlkreisbewerber abgegebenen Stimmen geordnet und gebündelt sind,b)ein Paket mit den Stimmzetteln, auf denen nur die Zweitstimme abgegeben worden war,c)ein Paket mit den ungekennzeichneten Stimmzetteln,d)ein Paket mit den eingenommenen Wahlscheinen sowiee)ein Paket mit den unbenutzten Stimmzetteln. |  |
 |  | Die Pakete zu a) bis d) wurden versiegelt und mit dem Namen der Gemeinde, der Nummer des Wahlbezirks und der Inhaltsangabe versehen. |  |  |  |  |  |
 | 5.9 | Übergabe der Wahlunterlagen |  |  |  |  |  |
-|  | Dem Beauftragten der Gemeindebehörde wurden |  | am ……………………, um ……… Uhr, übergeben –diese Wahlniederschrift mit Anlagen,–die Pakete wie in Abschnitt 5.8 beschrieben,–das Wählerverzeichnis,–die Wahlurne – mit Schloss und Schlüssel –sowie–alle sonstigen dem Wahlvorstand von der Gemeinde zur Verfügung gestellten Gegenstände und Unterlagen. |  |
+|  | Dem Beauftragten der Gemeindebehörde wurden |  | am ……………………, um ……… Uhr, übergeben –diese Wahlniederschrift mit Anlagen,–die Pakete wie in Abschnitt 5.8 beschrieben,–das Wählerverzeichnis (außer bei Punkt 3.2 d)),–die Wahlurne – mit Schloss und Schlüssel –sowie–alle sonstigen dem Wahlvorstand von der Gemeinde zur Verfügung gestellten Gegenstände und Unterlagen. |  |
 |  | Der Wahlvorsteher |  |  |  |  |  |
-|  | .......... |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  | Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen. |  |
-|  | .......... (Unterschrift des Beauftragten der Gemeindebehörde) |  |  |  |  |  |
+|  | Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am , um Uhr, auf Vollständigkeit überprüft und übernommen. |  |
+|  | (Unterschrift des Beauftragten der Gemeindebehörde) |  |  |  |  |  |
 |  | Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind. |  |

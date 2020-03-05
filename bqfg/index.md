@@ -29,6 +29,7 @@
 ### Kapitel 3 Gemeinsame Vorschriften
 
 - [§ 14 Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen](0014.md)
+- [§ 14a Beschleunigtes Verfahren im Fall des § 81a des Aufenthaltsgesetzes](0014a.md)
 - [§ 15 Mitwirkungspflichten](0015.md)
 - [§ 16 Rechtsweg](0016.md)
 

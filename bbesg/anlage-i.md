@@ -277,13 +277,12 @@ Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verte
 Beamte, die in der Zentrale der Bundesagentur für Arbeit verwendet werden, erhalten eine Zulage nach Anlage IX. Mit der Zulage werden auch die mit der Tätigkeit allgemein verbundenen Aufwendungen abgegolten.
 Bundesbesoldungsordnung A
 Besoldungsgruppe A 2
-Oberamtsgehilfe
-Wachtmeister,
+(weggefallen)
 Besoldungsgruppe A 3
 Hauptamtsgehilfe
-Oberaufseher,
-Oberschaffner,
-Oberwachtmeister,,,
+Oberaufseher
+Oberschaffner
+Oberwachtmeister,
 Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose
 Gefreiter
 Besoldungsgruppe A 4

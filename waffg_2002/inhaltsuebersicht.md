@@ -67,7 +67,7 @@
 | Verbote |
 | § 40 | Verbotene Waffen |
 | § 41 | Waffenverbote für den Einzelfall |
-| § 42 | Verbot des Führens von Waffen bei öffentlichen Veranstaltungen |
+| § 42 | Verbot des Führens von Waffen bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen |
 | § 42a | Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen |
 | Abschnitt 3 |
 | Sonstige waffenrechtliche Vorschriften |

@@ -124,7 +124,7 @@ Allgemeiner Datenbestand
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 6 | (1) |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 24a des AZR-Gesetzes |
 | – als Flüchtling im Ausland anerkannt | (5) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | –Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migra- tion und Flüchtlinge |
-|  |  |  |  | –Bundespolizei–andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden–Staatsanwaltschaften–Gerichte–Bundesagentur für Arbeit–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–deutsche Auslands- vertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches Bundes- amt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
+|  |  |  | –Bundespolizei–andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden–Staatsanwaltschaften–Gerichte–Bundesagentur für Arbeit–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–deutsche Auslands- vertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches Bundes- amt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
 | A | A1*) | B**) | C | D |
 | 8 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -151,15 +151,15 @@ Allgemeiner Datenbestand
 | s) | Asylantrag vor Einreise abgelehnt am | (1) |
 | t) | Aufenthaltsgestattung seit | (6) |
 | u) | Aufenthaltsgestattung erloschen am | (6) |
-| v) | Nummer der Bescheinigung über die Aufenthaltsgestattung |  | (7) |  |
+| v) | Nummer der Bescheinigung über die Aufenthaltsgestattung | (7) |
 | w) | über Überstellung an (Staatsangehörigkeitsschlüssel des Dubliner Vertragsstaats) entschieden am | (2) |
 | x) | Überstellung an (Staatsangehörigkeitsschlüssel des Dubliner Vertragsstaats) erfolgt am | (5) |
 | y) | Übernahme von (Staatsangehörigkeitsschlüssel des Dubliner Vertragsstaats) entschieden am | (2) |
 | z) | räumliche Beschränkung nachaa) § 56 Absatz 1 oder Absatz 2 AsylG Bezirk der Ausländerbehörde kraft Gesetzes entstanden am geändert am erlischt am | (7) |
-|  | bb) § 59b Absatz 1 AsylG Bezirk der Ausländerbehörde erteilt am befristet bis |  | (7) |  |
-| ai) | Wohnsitzauflage nachaa) § 60 Absatz 1 AsylG Ort erteilt am befristet bis |  | (7) |  |
-|  | bb) § 60 Absatz 2 Satz 1 Nummer 1 und 2 AsylG Ort erteilt am befristet bis |  | (7) |  |
-|  | cc) § 60 Absatz 2 Satz 1 Nummer 3 AsylG Bezirk der Ausländerbehörde erteilt am befristet bis |  | (7) |  |
+|  | bb) § 59b Absatz 1 AsylG Bezirk der Ausländerbehörde erteilt am befristet bis | (7) |
+| ai) | Wohnsitzauflage nachaa) § 60 Absatz 1 AsylG Ort erteilt am befristet bis | (7) |
+|  | bb) § 60 Absatz 2 Satz 1 Nummer 1 und 2 AsylG Ort erteilt am befristet bis | (7) |
+|  | cc) § 60 Absatz 2 Satz 1 Nummer 3 AsylG Bezirk der Ausländerbehörde erteilt am befristet bis | (7) |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 2 | (2) |  |  |  |
 | Asyl | – wie vor-stehend – | –Bundesamt für Migra- tion und Flüchtlinge zu Spalte A Buchstabe a bis e, g bis j, l bis s–Ausländerbehörden zu Spalte A Buchstabe f, q bis s | – wie vorstehend – |
 | – wie vorstehend ohne die Buchstaben a und u bis w – |
@@ -179,14 +179,14 @@ Allgemeiner Datenbestand
 | 8b | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 in Verbindung mit § 2 Absatz 1a Nummer 2 und 3 | (1) |  |  | §§ 15, 17a, 21, 23 des AZR-Gesetzes |
-| a) | unerlaubt eingereist | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–mit grenzpolizeilichen Aufgaben betraute Behörden–Aufnahmeeinrichtungen–Bundeskriminalamt–Landeskriminalämter–Zollkriminalamt–sonstige Polizeivoll- zugsbehörden der Länder | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migra- tion und Flüchtlinge–Bundespolizei–andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden der Länder–Staatsanwaltschaften–Statistisches Bundesamt–deutsche Auslandsver- tretungen und andere öffentliche Stellen im Visaverfahren–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| a) | unerlaubt eingereist | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–mit grenzpolizeilichen Aufgaben betraute Behörden–Aufnahmeeinrichtungen–Bundeskriminalamt–Landeskriminalämter–Zollkriminalamt–sonstige Polizeivoll- zugsbehörden der Länder | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migra- tion und Flüchtlinge–Bundespolizei–andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden der Länder–Staatsanwaltschaften–Statistisches Bundesamt–deutsche Auslandsver- tretungen und andere öffentliche Stellen im Visaverfahren–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
 | b) | unerlaubt aufhältig seit | (7) |
-|  |  |  |  |  | § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden |
+|  |  |  |  |  |  |
 | A | A1*) | B**) | C | D |
 | 9 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 24a des AZR-Gesetzes |
-| Aufenthaltsstatus |  |  | –Ausländerbehörden und mit der Durchführung ausländerrecht- licher Vorschriften betraute öffent- liche Stellen | I)–Ausländerbehörden und mit der Durch- führung ausländer- rechtlicher Vorschrif- ten betraute öffent- liche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der poli- zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslands- vertretungen und andere öffentliche Stellen im Visa- verfahren–Statistisches Bundesamt zu Spalte A Buchstabe a bis g, i bis l–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufga- |
+| Aufenthaltsstatus |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt zu Spalte A Buchstabe a bis g, i bis l–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des GeldwäschegesetzesII)–für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den–Bundeskriminalamt–Landeskriminalämter–sonstige Polizei- vollzugsbehörden–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–die für die Grund- sicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
 | a) | vom Erfordernis eines Aufenthaltstitels befreit |  | (5) |
 | b) | Erteilung/Verlängerung des Aufenthaltstitels abgelehnt am |  | (3) |
 | c) | Aufenthaltstitel zurückgenommen am widerrufen am erloschen am |  | (3) |
@@ -200,7 +200,7 @@ Allgemeiner Datenbestand
 |  | bb) | Zustimmung der Bundesagentur für Arbeit versagt am |  | (5)* |  |
 | j) | Nebenbestimmungen zur Erwerbstätigkeit |  |  |  |
 |  | aa) | Selbständige Tätigkeit erlaubt am befristet bis weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen | (1) | (2)* |  |
-|  | bb) | Beschäftigung erlaubt am befristet bis räumlich beschränkt auf Arbeitgeberbindung/ keine Arbeitgeberbindung weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen |  | (2)* |  | ben nach § 28 Ab- satz 1 Satz 2 Num- mer 2 des Geld- wäschegesetzesII)–für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den–Bundeskriminalamt–Landeskriminalämter–sonstige Polizei- vollzugsbehörden–Staatsanwaltschaften–Gerichte–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–die für die Grund- sicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
+|  | bb) | Beschäftigung erlaubt am befristet bis räumlich beschränkt auf Arbeitgeberbindung/ keine Arbeitgeberbindung weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen |  | (2)* |  |
 | k) | zustimmungsfreie Beschäftigung bis festgestellt am |  | (2)* |  |
 | l) | zustimmungsfreie Beschäftigung aufgrund Vorbeschäftigungszeiten oder längeren Aufenthalts festgestellt am |  | (2) |  |
 | m) | Aufenthaltstitel erteilt nach Einreise in das Bundesgebiet mit |  | (5)* |  |
@@ -219,75 +219,84 @@ Allgemeiner Datenbestand
 |  | aa) | Ablehnung am |  | (2)* |  |
 |  | bb) | Bescheinigung |  | (2)* |  |
 |  | ausgestellt am |  |  |  |
-|  | gültig bis |  |  |  |  |
-| q) | Räumliche Beschränkung nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe q bis w |  |
-|  | Land |  |  |  |
-|  | Ort |  |  |  |
-|  | erteilt am |  |  |  |
-|  | befristet bis |  |  |  |
-|  | geändert am |  |  |  |
-| r) | Wohnsitzauflage nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) |  |  |
-|  | Land |  |  |  |  |
-|  | Ort |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-| s) | Wohnsitzregelung nach |  |  |  |  |
-|  | § 12a Absatz 1 Satz 1 AufenthG |  | (7) |  |  |
-|  | Land |  |  |  |  |
-|  | kraft Gesetzes entstanden am |  |  |  |  |
-|  | erlischt am |  |  |  |  |
-|  | § 12a Absatz 2 Satz 1 AufenthG |  | (7) |  |  |
-|  | Ort oder Landkreis |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-|  | § 12a Absatz 3 AufenthG |  | (7) |  |  |
-|  | Ort oder Landkreis |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-|  | § 12a Absatz 4 Satz 1 AufenthG |  | (7) |  |  |
-|  | Ort, an dem der Wohnsitz nicht genommen werden darf |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-| t) | Wohnsitzverpflichtung nach |  |  |  |  |
-|  | § 24 Absatz 5 Satz 2 AufenthG (auch in Verbindung mit § 23 Absatz 3 und § 23 Absatz 4 Satz 2 AufenthG) |  | (7) |  |  |
-|  | Ort |  |  |  |  |
-|  | kraft Gesetzes entstanden am |  |  |  |  |
-|  | erlischt |  |  |  |  |
-| u) | Wohnsitzverpflichtung nach |  |  |  |  |
-|  | § 46 Absatz 1 AufenthG |  | (7) |  |  |
-|  | Ort |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-| v) | Räumliche Beschränkung nach |  |  |  |  |
-|  | § 61 Absatz 1 Satz 1 AufenthG |  | (7) |  |  |
-|  | Land |  |  |  |  |
-|  | kraft Gesetzes entstanden am |  |  |  |  |
-|  | erlischt am |  |  |  |  |
-|  | § 61 Absatz 1a Satz 1 AufenthG |  | (7) |  |  |
-|  | Bezirk |  |  |  |  |
-|  | kraft Gesetzes entstanden am |  |  |  |  |
-|  | erlischt am |  |  |  |  |
-|  | § 61 Absatz 1c Satz 1 AufenthG |  | (7) |  |  |
-|  | Land oder Bezirk |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-|  | § 61 Absatz 1c Satz 2 AufenthG |  | (7) |  |  |
-|  | Bezirk |  |  |  |  |
-|  | erteilt am |  |  |  |  |
-|  | befristet bis |  |  |  |  |
-|  | geändert am |  |  |  |  |
-| w) | Wohnsitzauflage nach |  |  |  |  |
-|  | § 61 Absatz 1d Satz 1 AufenthG |  | (7) |  |  |
-|  | Ort |  |  |  |  |
-|  | kraft Gesetzes entstanden am |  |  |  |  |
-|  | erlischt am |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+|  | gültig bis |  |  |  |
+| q) | Räumliche Beschränkung nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe q bis w |
+|  | Land |  |  |
+|  | Ort |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+| r) | Wohnsitzauflage nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) |
+|  | Land |  |  |
+|  | Ort |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+| s) | Wohnsitzregelung nach |  |  |
+|  | § 12a Absatz 1 Satz 1 AufenthG |  | (7) |
+|  | Land |  |  |
+|  | kraft Gesetzes entstanden am |  |  |
+|  | erlischt am |  |  |
+|  | § 12a Absatz 2 Satz 1 AufenthG |  | (7) |
+|  | Ort oder Landkreis |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+|  | § 12a Absatz 3 AufenthG |  | (7) |
+|  | Ort oder Landkreis |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+|  | § 12a Absatz 4 Satz 1 AufenthG |  | (7) |
+|  | Ort, an dem der Wohnsitz nicht genommen werden darf |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+| t) | Wohnsitzverpflichtung nach |  |  |
+|  | § 24 Absatz 5 Satz 2 AufenthG (auch in Verbindung mit § 23 Absatz 3 und § 23 Absatz 4 Satz 2 AufenthG) |  | (7) |
+|  | Ort |  |  |
+|  | kraft Gesetzes entstanden am |  |  |
+|  | erlischt |  |  |
+| u) | Wohnsitzverpflichtung nach |  |  |
+|  | § 46 Absatz 1 AufenthG |  | (7) |
+|  | Ort |  |  |
+|  | erteilt am |  |  |
+|  | befristet bis |  |  |
+|  | geändert am |  |  |
+| v) | Räumliche Beschränkung nach |  |  |
+|  | § 61 Absatz 1 Satz 1 AufenthG |  | (7) |
+|  | Land |  |  |
+|  | kraft Gesetzes entstanden am |  |  |
+|  | erlischt am |  |  |
+|  | § 61 Absatz 1a Satz 1 AufenthG |  | (7) |
+|  | Bezirk |  |  |
+|  | kraft Gesetzes entstanden am |  |  |
+|  | erlischt am |  |  |
+|  | § 61 Absatz 1c Satz 1 AufenthG |  | (7) |
+|  | Land oder Bezirk |  |  |
+|  | erteilt am |  |
+|  | befristet bis |  |
+|  | geändert am |  |
+|  | § 61 Absatz 1c Satz 2 AufenthG | (7) |
+|  | Bezirk |  |
+|  | erteilt am |  |
+|  | befristet bis |  |
+|  | geändert am |  |
+| w) | Wohnsitzauflage nach |  |
+|  | § 61 Absatz 1d Satz 1 AufenthG | (7) |
+|  | Ort |  |
+|  | kraft Gesetzes entstanden am |  |
+|  | erlischt am |  |
+| q) | Einreise und Aufenthalt nach § 30 Absatz 5 AufenthG (Ehegattennachzug zu kurzfristig mobilen Forschern) | (2)* | –Ausländerbehördenzu Spalte A Buchstaben n bis r jeweils die Ziffern aa |
+|  | aa) | Ablehnung am |
+|  | bb) | Bescheinigung |
+|  |  | ausgestellt am |
+|  |  | gültig bis |
+| r) | § 32 Absatz 5 AufenthG (Kindesnachzug zu kurzfristig mobilen Forschern) | (2)* | –Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben n bis r |
+|  | aa) | Ablehnung am |
+|  | bb) | Bescheinigung |
+|  |  | ausgestellt am |
+|  |  | gültig bis |
 | § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4 |  |  |  |  |
 | Aufenthaltsstatus | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
 |  | – wie vorstehend Spalte A Buchstabe a bis c, e bis h – |
@@ -311,271 +320,402 @@ Allgemeiner Datenbestand
 | 10 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23 des AZR-Gesetzes |
-| Aufenthaltserlaubnisse/Aufenthaltstitel |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der poli- zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizei- vollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslands- vertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des GeldwäschegesetzesII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden |
-| a) | Aufenthalt zum Zweck der Ausbildung nach |  |  |
-|  | aa) | § 16 Absatz 1 AufenthG (Studium) erteilt am |  | (2)* |
+| Aufenthaltserlaubnisse/Aufenthaltstitel |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizei- vollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt–Zentralstelle fürFinanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des GeldwäschegesetzesII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zu- ständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Gerichte–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–die für die Durch- führung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
+| a) | Aufenthalt zum Zweck der Ausbildung nach | (1) |  |
+|  | aa) | § 16a Absatz 1 AufenthG (betriebliche Berufsausbildung/ Weiterbildung) | (2)* |
+|  |  | erteilt am |  |
+|  |  | befristet bis |  |
+|  | bb) | § 16a Absatz 2 AufenthG (schulische Berufsausbildung) | (2)* |
+|  |  | erteilt am |  |
+|  |  | befristet bis |  |
+|  | cc) | § 16b Absatz 1 AufenthG (Studium) | (2)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | bb) | § 16 Absatz 6 AufenthG (bedingte Zulassung Studium, bedingte oder unbedingte Zulassung Teilzeitstudium, studienvorbereitender Sprachkurs ohne Zulassung zum Studium, studienvorbereitendes Praktikum ohne Zulassung zum Studium) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | cc) | § 16 Absatz 7 AufenthG (Studienbewerbung) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | dd) | § 16 Absatz 9 AufenthG (Studium für in einem anderen Mitgliedstaat international Schutzberechtigten) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | ee) | § 16b Absatz 1 AufenthG (Sprachkurse, Schulbesuch) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | ff) | § 17 Absatz 1 AufenthG (sonstige betriebliche Ausbildungszwecke) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | gg) | § 17a Absatz 1 AufenthG (Durchführung einer Bildungsmaßnahme) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | hh) | § 17a Absatz 5 AufenthG (Ablegung einer Prüfung) erteilt am |  | (2)* |  | und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Gerichte–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–die für die Durch- führung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
-|  |  | befristet bis |  |  |  |
-|  | ii) | § 17b Absatz 1 AufenthG (Studienbezogenes Praktikum EU) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-| b) | Aufenthalt zum Zweck der Erwerbstätigkeit nach |  |  |  |
-|  | aa) | § 16 Absatz 5 AufenthG (Arbeitsplatzsuche nach Studium) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | bb) | § 16b Absatz 3 AufenthG (Arbeitsplatzsuche nach schulischer qualifizierter Berufsausbildung) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | cc) | § 17 Absatz 3 AufenthG (Arbeitsplatzsuche nach betrieblicher Berufsausbildung) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | dd) | § 17a Absatz 4 AufenthG (Arbeitsplatzsuche nach Anerkennung ausländischer Berufsqualifikationen) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | ee) | § 18 Absatz 3 AufenthG (keine qualifizierte Beschäftigung) erteilt am |  | (2)* |  |
-|  |  | befristet bis |  |  |  |
-|  | ff) | § 18 Absatz 4 AufenthG |  |  |  |
-|  |  | aaa) | § 18 Absatz 4 Satz 1 AufenthG (qualifizierte Beschäftigung nach Rechtsverordnung) erteilt am |  | (2)* |  |
-|  |  |  | befristet bis |  |  |  |
-|  |  | bbb) | § 18 Absatz 4 Satz 2 AufenthG (qualifizierte Beschäftigung im öffentlichen Interesse) erteilt am |  | (2)* |  |
-|  |  |  | befristet bis |  |  |  |
-|  | gg) | § 18 Absatz 4a AufenthG (Beamtenverhältnis zu einem deutschen Dienstherrn) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | hh) | § 18a AufenthG |  |  |  |  |
-|  |  | aaa) | § 18a Absatz 1 Nummer 1 Buchstabe a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Abschluss in Deutschland) erteilt am |  | (2)* |  |  |
-|  |  |  | befristet bis |  |  |  |  |
-|  |  | bbb) | § 18a Absatz 1 Nummer 1 Buchstabe b AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit einem anerkannten Hochschulabschluss oder mit einem ausländischen Hochschulabschluss, der einem deutschen Hochschulabschluss vergleichbar ist, und mit seit zwei Jahren ununterbrochener, dem Abschluss angemessener Beschäftigung) erteilt am |  | (2)* |  |  |
-|  |  |  | befristet bis |  |  |  |  |
-|  |  | ccc) | § 18a Absatz 1 Nummer 1 Buchstabe c AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete, die als Fach- kraft seit drei Jahren ununterbrochen eine Beschäftigung ausgeübt haben, die eine qualifizierte Berufsausbildung voraussetzt) erteilt am |  | (2)* |  |  |
-|  |  |  | befristet bis |  |  |  |  |
-|  |  | ddd) | § 18a Absatz 1a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine Ausbildungsduldung nach § 60a Absatz 2 Satz 4 AufenthG)erteilt ambefristet biswiderrufen am |  |  |  |  |
-|  | ii) | § 18c AufenthG (Aufenthaltserlaubnis zur Arbeitsplatzsuche) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | jj) | § 18d Absatz 1 AufenthG (europäischer Freiwilligendienst) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | kk) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV (Blaue Karte EU, Regelberufe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ll) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV (Blaue Karte EU, Mangelberufe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | mm) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV (Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in [EU-Mitgliedstaat], Regelberufe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis [Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat] |  |  |  |  |
-|  | nn) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV (Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in [EU-Mitgliedstaat], Regelberufe) |  | (2)* |  |  |
-|  |  | abgelehnt am [Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat] |  |  |  |  |
-|  | oo) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV (Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in [EU-Mitgliedstaat], Mangelberufe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis [Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat] |  |  |  |  |
-|  | pp) | § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV (Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in [EU-Mitgliedstaat], Mangelberufe) |  | (2)* |  |  |
-|  |  | abgelehnt am [Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat] |  |  |  |  |
-|  | qq) | § 19b Absatz 1 AufenthG (ICT-Karte) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | rr) | § 19d Absatz 1 AufenthG (Mobiler-ICT-Karte) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ss) | § 20 Absatz 1 AufenthG (Forscher) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | tt) | § 20 Absatz 7 AufenthG (Arbeitsplatzsuche nach Abschluss der Forschungstätigkeit) erteilt ambefristet bis |  |  |  |  |
-|  | uu) | § 20 Absatz 8 AufenthG (in einem anderen Mitgliedstaat als international Schutzberechtigte anerkannte Forscher) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | vv) | § 20b Absatz 1 AufenthG erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ww) | § 21 Absatz 1 AufenthG (selbständige Tätigkeit – wirtschaftliches Interesse) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | xx) | § 21 Absatz 2 AufenthG (selbständige Tätigkeit – völkerrechtliche Vergünstigung) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | yy) | § 21 Absatz 2a AufenthG (selbständige Tätigkeit – Absolvent inländischer Hochschule) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | zz) | § 21 Absatz 5 AufenthG (freiberufliche Tätigkeit) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-| c) | Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen nach |  |  |  |  |
-|  | aa) | § 22 Satz 1 AufenthG (Aufnahme aus dem Ausland) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | bb) | § 22 Satz 2 AufenthG (Aufnahme durch BMI) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | cc) | § 23 Absatz 1 AufenthG (Aufnahme durch Land) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | dd) | § 23 Absatz 2 AufenthG (besondere Fälle) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ee) | § 23 Absatz 4 AufenthG (Resettlement) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ff) | § 23a AufenthG (Härtefallaufnahme durch Länder) erteilt am |  | (2)* |  |  |
-|  |  | gültig ab |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | gg) | § 24 AufenthG (vorübergehender Schutz) erteilt am | (1) | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | hh) | § 25 Absatz 1 AufenthG (Asyl) anerkannt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ii) | § 25 Absatz 2 AufenthG (GFK) gewährt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | jj) | § 25 Absatz 2 AufenthG (subsidiärer Schutz) gewährt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | kk) | § 25 Absatz 3 AufenthG (Abschiebungsverbot) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ll) | § 25 Absatz 4 Satz 1 AufenthG (dringende persönliche oder humanitäre Gründe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | mm) | § 25 Absatz 4 Satz 2 AufenthG (Verlängerung wegen außergewöhnlicher Härte) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | nn) | § 25 Absatz 5 AufenthG (rechtliche oder tatsächliche Gründe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | oo) | § 25a Absatz 1 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: integrierter Jugendlicher/ Heranwachsender) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | pp) | § 25a Absatz 2 Satz 1 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Eltern) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | qq) | § 25a Absatz 2 Satz 2 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Geschwister) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | rr) | § 25a Absatz 2 Satz 3 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Ehegatte/Lebenspartner) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ss) | § 25a Absatz 2 Satz 5 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: minderjährige ledige Kinder) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | tt) | § 25b Absatz 1 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: integrierter Ausländer) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | uu) | § 25b Absatz 4 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: Ehegatte/Lebenspartner) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | vv) | § 25b Absatz 4 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: minderjähriges Kind) erteilt am |  | (2)* |  |  |
-| d) | Aufenthalt aus familiären Gründen nach |  |  |  |  |
-|  | aa) | § 28 Absatz 1 Satz 1 Nummer 1 AufenthG (Familiennachzug zu Deutschen: Ehegatte) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | bb) | § 28 Absatz 1 Satz 1 Nummer 2 AufenthG (Familiennachzug zu Deutschen: Kinder) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | cc) | § 28 Absatz 1 Satz 1 Nummer 3 AufenthG (Familiennachzug zu Deutschen: Elternteil) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | dd) | § 28 Absatz 1 Satz 4 AufenthG (Familiennachzug zu Deutschen: Elternteil) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ee) | § 28 Absatz 4 AufenthG (Familiennachzug zu Deutschen: Sonstige) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ff) | § 30 AufenthG (Ehegattennachzug) ohne § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c dritte und vierte Alternative und Nummer 3 Buchstabe g erste Alternative AufenthG |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | gg) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c dritte Alternative AufenthG (Ehegattennachzug zu Asylberechtigtem) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | hh) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c vierte Alternative AufenthG (Ehegattennachzug zu anerkanntem Flüchtling) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ii) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe g erste Alternative AufenthG (Ehegattennachzug zu einem Inhaber einer Blauen Karte EU) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | jj) | § 32 Absatz 1 Nummer 1 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach § 7 Absatz 1 Satz 3 oder Kapitel 2 Abschnitt 3 oder 4 AufenthG) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | kk) | § 32 Absatz 1 Nummer 2 AufenthG (Kindesnachzug zu Asylberechtigtem oder anerkanntem Flüchtling) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ll) | § 32 Absatz 1 Nummer 3 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach den§§ 28, 30, 31, 36 oder 36aAufenthG) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | mm) | § 32 Absatz 1 Nummer 4 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach sonstigen Vorschriften des AufenthG) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | nn) | § 32 Absatz 1 Nummer 5 erste Alternative AufenthG (Kindesnachzug zu einem Inhaber einer Blauen Karte EU) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | oo) | § 32 Absatz 1 Nummer 6 AufenthG (Kindesnachzug zu einem Inhaber einer Niederlassungserlaubnis) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | pp) | § 32 Absatz 1 Nummer 7 AufenthG (Kindesnachzug zu einem Inhaber einer Erlaubnis zum Daueraufenthalt-EU) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | qq) | § 32 Absatz 1 in Verbindung mit Absatz 2 Satz 1 AufenthG (Nachzug von Kindern über 16 Jahre zu einem Inhaber einer Aufenthaltserlaubnis – außer nach § 25 Absatz 1 und 2 AufenthG –, einer Niederlassungserlaubnis – außer nach § 26 Absatz 3 und § 19 AufenthG – oder einer Erlaubnis zum Daueraufenthalt EU) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | rr) | § 32 Absatz 4 AufenthG (Kindesnachzug im Härtefall) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ss) | § 33 AufenthG (Geburt im Bundesgebiet) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | tt) | § 36 Absatz 1 AufenthG (Nachzug von Eltern) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | uu) | § 36 Absatz 2 AufenthG (Nachzug sonstiger Familienangehöriger) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | vv) | § 36a Absatz 1 Satz 1 erste Alternative AufenthG (Ehegattennachzug zu subsidiär Schutzberechtigten) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ww) | § 36a Absatz 1 Satz 1 zweite AlternativeAufenthG (Kindesnachzug zu subsidiär Schutzberechtigten) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | xx) | § 36a Absatz 1 Satz 2 AufenthG (Elternnachzug zu minderjährigen subsidiär Schutzberechtigten) |  | (2)* |  |  |
-|  |  | erteilt am |  |  |  |  |
-|  |  | befristet bis |  |  |  |  |
-| e) | besondere Aufenthaltsrechte nach |  |  |  |  |
-|  | aa) | § 7 Absatz 1 Satz 3 AufenthG (sonstige begründete Fälle) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | bb) | § 25 Absatz 4a AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuchs wurden) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | cc) | § 25 Absatz 4b AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | dd) | § 31 Absatz 1, 2, 4 AufenthG (eigenständiges Ehegattenaufenthaltsrecht) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ee) | § 34 Absatz 2 AufenthG (eigenständiges Aufenthaltsrecht von Kindern) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ff) | § 37 Absatz 1 AufenthG (Wiederkehr) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | gg) | § 37 Absatz 5 AufenthG (Wiederkehr Rentner) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | hh) | § 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG (ehemaliger Deutscher) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ii) | § 38a AufenthG (langfristig Aufenthaltsberechtigter in [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | jj) | § 104a Absatz 1 Satz 1 AufenthG (Aufenthaltserlaubnis auf Probe) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | kk) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 1 Satz 2 AufenthG (Altfallregelung) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | ll) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 1 AufenthG (Altfallregelung für volljährige Kinder von Geduldeten) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | mm) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 2 AufenthG (Altfallregelung für unbegleitete Flüchtlinge) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | nn) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104b AufenthG (integrierte Kinder von Geduldeten) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | oo) | § 4 Absatz 5 AufenthG (Assoziationsrecht EWG/Türkei) erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | pp) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
-|  | qq) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |  |  |
-|  |  | befristet bis |  |  |  |  |
+|  | dd) | § 16b Absatz 5 AufenthG |  |  |
+|  |  | aaa) | bedingte Zulassung Studium, Zulassung Teilzeitstudium | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | studienvorbereitender Sprachkurs ohne Zulassung zum Studium | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ccc) | studienvorbereitendes Praktikum ohne Zulassung zum Studium | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  | ee) | § 16b Absatz 7 AufenthG (Studium bei in einem anderen Mitgliedstaat international Schutzberechtigten) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ff) | § 16d Absatz 1 AufenthG (Durchführung einer Qualizierungsmaßnahme) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | gg) | § 16d Absatz 1 in Verbindung mit Absatz 2 AufenthG (Durchführung einer Qualifizierungsmaßnahme mit Beschäftigung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | hh) | § 16d Absatz 3 AufenthG (Anerkennung der Berufsqualifikation während einer Beschäftigung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ii) | § 16d Absatz 4 Nummer 1 AufenthG (Anerkennung der Berufsqualifikation aufgrund einer Absprache der Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und Gesundheitsbereich) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | jj) | § 16d Absatz 4 Nummer 2 AufenthG (Anerkennung der Berufsqualifikation aufgrund einer Absprache der Bundesagentur für Arbeit bei sonstigen Berufen) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | kk) | § 16d Absatz 5 AufenthG (Ablegung einer Prüfung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ll) | § 16e Absatz 1 AufenthG (Studienbezogenes Praktikum EU) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | mm) | § 16f Absatz 1 AufenthG (Sprachkurse, Schüleraustausch) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | nn) | § 16f Absatz 2 AufenthG (Schulbesuch, allgemeinbildend) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | oo) | § 17 Absatz 1 AufenthG (Ausbildungsplatzsuche) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | pp) | § 17 Absatz 2 AufenthG (Studienbewerbung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+| b) | Aufenthalt zum Zweck der Erwerbstätigkeit nach |  |  |
+|  | aa) | § 18a AufenthG (Fachkraft mit Berufsausbildung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | bb) | § 18b Absatz 1 AufenthG (Fachkraft mit akademischer Ausbildung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | cc) | § 18b Absatz 2 Satz 1 AufenthG (Blaue Karte EU, Fachkräfte mit akademischer Ausbildung, Regelberufe) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | dd) | § 18b Absatz 2 Satz 2 AufenthG (Blaue Karte EU, Fachkräfte mit akademischer Ausbildung, Mangelberufe) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ee) | § 18d Absatz 1 AufenthG (Forscher) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ff) | § 18d Absatz 7 AufenthG (in einem anderen Mitgliedstaat als international Schutzberechtigte anerkannte Forscher) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | gg) | § 18f Absatz 1 AufenthG (mobile Forscher) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | hh) | § 19 Absatz 1 AufenthG (ICT-Karte) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ii) | § 19b Absatz 1 AufenthG (Mobiler-ICT-Karte) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | jj) | § 19c Absatz 1 AufenthG (Beschäftigung unabhängig von der Qualifikation nach der Beschäftigungsverordnung) |  |  |
+|  |  | aaa) | § 3 BeschV, LeitendeAngestellte, Führungskräfte und Spezialisten | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | § 5 Nummer 1 und 2 BeschV, Wissenschaft und Forschung | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ccc) | § 5 Nummer 3 bis 5 BeschV, Wissenschaft, Forschung und Entwicklung | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ddd) | § 10 Absatz 1 Nummer 1 BeschV, internationaler Personalaustausch | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | eee) | § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV, internationaler Personalaustausch | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | fff) | § 11 Absatz 1 BeschV, Sprachlehrer | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ggg) | § 11 Absatz 2 BeschV, Spezialitätenköche | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | hhh) | § 12 BeschV, Au pair | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | iii) | § 14 Absatz 1 Nummer 1 BeschV, Freiwilligendienst | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | jjj) | § 14 Absatz 1 Nummer 2, 1. Alternative BeschV, Beschäftigung aus karitativen Gründen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | kkk) | § 14 Absatz 1 Nummer 2, 2. Alternative BeschV, Beschäftigung aus religiösen Gründen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | lll) | § 15 Nummer 3 und 5 BeschV, öffentlich geförderte Praktika | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | mmm) | § 15 Nummer 4 und 6 BeschV, Praktika | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | nnn) | § 18 BeschV, Journalisten | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ooo) | § 19 Absatz 2 BeschV, Beschäftigung im Rahmen von Werklieferungsverträgen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ppp) | § 21 BeschV, vorübergehende Dienstleistungserbringung | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | qqq) | § 22 Nummer 4 BeschV, Berufssportler und -trainer | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | rrr) | § 23 BeschV, akkreditierte Personen bei internationalen Sportveranstaltungen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | sss) | § 24 Nummer 3 BeschV, Personal auf Binnenschiffen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ttt) | § 24 Nummer 4 BeschV, Besatzungen von Luftfahrzeugen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | uuu) | § 25 BeschV, Kultur, Unterhaltung, Gastspiele, Film- und Fernsehproduktionen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | vvv) | § 26 Absatz 1 BeschV, bestimmte Staatsangehörige | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | www) | § 26 Absatz 2 BeschV, bestimmte Staatsangehörige | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | xxx) | § 29 Absatz 3 BeschV, zwischenstaatliche Vereinbarungen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | yyy) | § 29 Absatz 5 BeschV, Freihandelsabkommen | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  | kk) | § 19c Absatz 2 AufenthG (non-formale qualifizierte Beschäftigung in Verbindung mit § 6 BeschV) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ll) | § 19c Absatz 3 AufenthG (Beschäftigung im öffentlichen Interesse) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | mm) | § 19c Absatz 4 AufenthG (Beamtenverhältnis zu einem deutschen Dienstherrn) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | nn) | § 19d AufenthG |  |  |
+|  |  | aaa) | § 19d Absatz 1 Nummer 1 Buchstabe a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Berufsausbildung in Deutschland) | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | § 19d Absatz 1 Nummer 1 Buchstabe b AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Hochschulabschluss) | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ccc) | § 19d Absatz 1 Nummer 1 Buchstabe c AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete, die seit drei Jahren ununterbrochen eine Beschäftigung ausgeübt haben) | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ddd) | § 19d Absatz 1a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine Ausbildungsduldung) | (2)* |  |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  |  | widerrufen am |  |  |
+|  | oo) | § 19e Absatz 1 AufenthG (europäischer Freiwilligendienst) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | pp) | § 20 Absatz 1 AufenthG (Arbeitsplatzsuche für Fachkraft mit Berufsausbildung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | qq) | § 20 Absatz 2 AufenthG (Arbeitsplatzsuche für Fachkraft mit akademischer Ausbildung) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | rr) | § 20 Absatz 3 Nummer 1 AufenthG (Arbeitsplatzsuche nach Studium in Deutschland) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ss) | § 20 Absatz 3 Nummer 2 AufenthG (Arbeitsplatzsuche nach Forschungstätigkeit) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | tt) | § 20 Absatz 3 Nummer 3 AufenthG (Arbeitsplatzsuche nach qualifizierter Berufsausbildung in Deutschland) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | uu) | § 20 Absatz 3 Nummer 4 AufenthG (Arbeitsplatzsuche nach Feststellung der Gleichwertigkeit der Berufsqualifikation) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | vv) | § 20b Absatz 1 AufenthG erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | vv) | § 21 Absatz 1 AufenthG (selbständige Tätigkeit – wirtschaftliches Interesse) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ww) | § 21 Absatz 2 AufenthG (selbständige Tätigkeit – völkerrechtliche Vergünstigung) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | xx) | § 21 Absatz 2a AufenthG (selbständige Tätigkeit – Absolvent inländischer Hochschule) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | zz) | § 21 Absatz 5 AufenthG (freiberufliche Tätigkeit) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+| c) | Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen nach |  |  |
+|  | aa) | § 22 Satz 1 AufenthG (Aufnahme aus dem Ausland) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | bb) | § 22 Satz 2 AufenthG (Aufnahme durch BMI) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | cc) | § 23 Absatz 1 AufenthG (Aufnahme durch Land) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | dd) | § 23 Absatz 2 AufenthG (besondere Fälle) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ee) | § 23 Absatz 4 AufenthG (Resettlement) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ff) | § 23a AufenthG (Härtefallaufnahme durch Länder) erteilt am | (2)* |  |
+|  |  | gültig ab |  |  |
+|  |  | befristet bis |  |  |
+|  | gg) | § 24 AufenthG (vorübergehender Schutz) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | hh) | § 25 Absatz 1 AufenthG (Asyl) anerkannt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ii) | § 25 Absatz 2 AufenthG (GFK) gewährt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | jj) | § 25 Absatz 2 AufenthG (subsidiärer Schutz) gewährt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | kk) | § 25 Absatz 3 AufenthG (Abschiebungsverbot) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ll) | § 25 Absatz 4 Satz 1 AufenthG (dringende persönliche oder humanitäre Gründe) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | mm) | § 25 Absatz 4 Satz 2 AufenthG (Verlängerung wegen außergewöhnlicher Härte) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | nn) | § 25 Absatz 5 AufenthG (rechtliche oder tatsächliche Gründe) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | oo) | § 25a Absatz 1 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: integrierter Jugendlicher/ Heranwachsender) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | pp) | § 25a Absatz 2 Satz 1 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Eltern) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | qq) | § 25a Absatz 2 Satz 2 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Geschwister) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | rr) | § 25a Absatz 2 Satz 3 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Ehegatte/Lebenspartner) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ss) | § 25a Absatz 2 Satz 5 AufenthG (Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: minderjährige ledige Kinder) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | tt) | § 25b Absatz 1 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: integrierter Ausländer) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | uu) | § 25b Absatz 4 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: Ehegatte/Lebenspartner) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | vv) | § 25b Absatz 4 Satz 1 AufenthG (Aufenthaltsgewährung bei nachhaltiger Integration: minderjähriges Kind) erteilt am | (2)* |  |
+| d) | Aufenthalt aus familiären Gründen nach |  |  |
+|  | aa) | § 28 Absatz 1 Satz 1 Nummer 1 AufenthG (Familiennachzug zu Deutschen: Ehegatte) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | bb) | § 28 Absatz 1 Satz 1 Nummer 2 AufenthG (Familiennachzug zu Deutschen: Kinder) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | cc) | § 28 Absatz 1 Satz 1 Nummer 3 AufenthG (Familiennachzug zu Deutschen: Elternteil) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | dd) | § 28 Absatz 1 Satz 4 AufenthG (Familiennachzug zu Deutschen: Elternteil) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ee) | § 28 Absatz 4 AufenthG (Familiennachzug zu Deutschen: Sonstige) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ff) | § 30 AufenthG (Ehegattennachzug) ohne § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c dritte und vierte Alternative und Nummer 3 Buchstabe g erste Alternative AufenthG | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | gg) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c dritte Alternative AufenthG (Ehegattennachzug zu Asylberechtigtem) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | hh) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe c vierte Alternative AufenthG (Ehegattennachzug zu anerkanntem Flüchtling) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ii) | § 30 Absatz 1 Satz 1 Nummer 3 Buchstabe g erste Alternative AufenthG (Ehegattennachzug zu einem Inhaber einer Blauen Karte EU) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | jj) | § 32 Absatz 1 Nummer 1 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach § 7 Absatz 1 Satz 3 oder Kapitel 2 Abschnitt 3 oder 4 AufenthG) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | kk) | § 32 Absatz 1 Nummer 2 AufenthG (Kindesnachzug zu Asylberechtigtem oder anerkanntem Flüchtling) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ll) | § 32 Absatz 1 Nummer 3 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach den§§ 28, 30, 31, 36 oder 36aAufenthG) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | mm) | § 32 Absatz 1 Nummer 4 AufenthG (Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis nach sonstigen Vorschriften des AufenthG) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | nn) | § 32 Absatz 1 Nummer 5 erste Alternative AufenthG (Kindesnachzug zu einem Inhaber einer Blauen Karte EU) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | oo) | § 32 Absatz 1 Nummer 6 AufenthG (Kindesnachzug zu einem Inhaber einer Niederlassungserlaubnis) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | pp) | § 32 Absatz 1 Nummer 7 AufenthG (Kindesnachzug zu einem Inhaber einer Erlaubnis zum Daueraufenthalt-EU) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | qq) | § 32 Absatz 1 in Verbindung mit Absatz 2 Satz 1 AufenthG (Nachzug von Kindern über 16 Jahre zu einem Inhaber einer Aufenthaltserlaubnis – außer nach § 25 Absatz 1 und 2 AufenthG –, einer Niederlassungserlaubnis – außer nach § 26 Absatz 3 und § 19 AufenthG – oder einer Erlaubnis zum Daueraufenthalt EU) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | rr) | § 32 Absatz 4 AufenthG (Kindesnachzug im Härtefall) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ss) | § 33 AufenthG (Geburt im Bundesgebiet) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | tt) | § 36 Absatz 1 AufenthG (Nachzug von Eltern) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | uu) | § 36 Absatz 2 AufenthG (Nachzug sonstiger Familienangehöriger) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | vv) | § 36a Absatz 1 Satz 1 erste Alternative AufenthG (Ehegattennachzug zu subsidiär Schutzberechtigten) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ww) | § 36a Absatz 1 Satz 1 zweite AlternativeAufenthG (Kindesnachzug zu subsidiär Schutzberechtigten) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | xx) | § 36a Absatz 1 Satz 2 AufenthG (Elternnachzug zu minderjährigen subsidiär Schutzberechtigten) | (2)* |  |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+| e) | besondere Aufenthaltsrechte nach |  |  |
+|  | aa) | § 7 Absatz 1 Satz 3 AufenthG (sonstige begründete Fälle) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | bb) | § 25 Absatz 4a AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuchs wurden) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | cc) | § 25 Absatz 4b AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | dd) | § 31 Absatz 1, 2, 4 AufenthG (eigenständiges Ehegattenaufenthaltsrecht) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ee) | § 34 Absatz 2 AufenthG (eigenständiges Aufenthaltsrecht von Kindern) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ff) | § 37 Absatz 1 AufenthG (Wiederkehr) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | gg) | § 37 Absatz 5 AufenthG (Wiederkehr Rentner) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | hh) | § 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG (ehemaliger Deutscher) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ii) | § 38a AufenthG (langfristig Aufenthaltsberechtigter in [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | jj) | § 104a Absatz 1 Satz 1 AufenthG (Aufenthaltserlaubnis auf Probe) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | kk) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 1 Satz 2 AufenthG (Altfallregelung) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | ll) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 1 AufenthG (Altfallregelung für volljährige Kinder von Geduldeten) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | mm) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 2 AufenthG (Altfallregelung für unbegleitete Flüchtlinge) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | nn) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104b AufenthG (integrierte Kinder von Geduldeten) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | oo) | § 4 Absatz 5 AufenthG (Assoziationsrecht EWG/Türkei) erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | pp) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
+|  | qq) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am | (2)* |  |
+|  |  | befristet bis |  |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  |  |
 | Aufenthaltserlaubnis | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
 | –wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq – |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Aufenthaltserlaubnis | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
-| –wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq – |
+| Aufenthaltserlaubnis–wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq – | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 11 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23 des AZR-Gesetzes |
-| Niederlassungserlaubnis/unbefristeter Aufenthaltstitel nach |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)– Ausländerbehörden – Aufnahmeeinrichtun- gen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migra- tion und Flüchtlinge – Bundespolizei |
+| Niederlassungserlaubnis/unbefristeter Aufenthaltstitel nach |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)– Ausländerbehörden – Aufnahmeeinrichtun- gen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migra- tion und Flüchtlinge – Bundespolizei– andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden der Länder – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes – deutsche Auslands- vertretungen und andere öffentliche Stellen im Visaverfahren – Statistisches Bundes- amt – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – sonstige öffentliche Stellen zu Spalte A Buchstabe a bis uII)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes – Staatsanwaltschaften – Gerichte – Behörden der Zollver- waltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen– Jugendämter– Träger der Deutschen Rentenversicherung– Staatsangehörigkeitsbehörden– Zollkriminalamt |
 | a) | § 9 AufenthG (allgemein) erteilt am | (2)* |
-| b) | § 9a AufenthG (Daueraufenthalt – EU) erteilt am | (2)* |
-| c) | § 18b AufenthG (Niederlassungserlaubnis für Absolventen deutscher Hochschulen) erteilt am |  | (2)* |  | )– andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden der Länder – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes – deutsche Auslands- vertretungen und andere öffentliche Stellen im Visaverfahren – Statistisches Bundes- amt – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – sonstige öffentliche Stellen zu Spalte A Buchstabe a bis uII)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes – Staatsanwaltschaften – Gerichte – Behörden der Zollver- waltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen– Jugendämter– Träger der Deutschen Rentenversicherung– Staatsangehörigkeitsbehörden– Zollkriminalamt |
-| d) | § 19 Absatz 1 AufenthG (Hochqualifizierter ohne Zuordnung nach Absatz 2) erteilt am |  | (2)* |
-| e) | § 19 Absatz 2 Nummer 1 AufenthG (Hochqualifizierter Wissenschaftler) erteilt am |  | (2)* |
-| f) | § 19 Absatz 2 Nummer 2 AufenthG (Hochqualifizierte Lehrperson) erteilt am |  | (2)* |
-| g) | § 19a Absatz 6 Satz 1 AufenthG (Niederlassungserlaubnis für Inhaber der Blauen Karte EU nach frühestens 33 Monaten) erteilt am |  | (2)* |
-| h) | § 19a Absatz 6 Satz 3 AufenthG (Niederlassungerlaubnis für Inhaber der Blauen Karte EU nach frühestens 21 Monaten) erteilt am |  | (2)* |
-| i) | § 21 Absatz 4 AufenthG (3 Jahre selbständige Tätigkeit) erteilt am |  | (2) |
-| j) | § 23 Absatz 2 AufenthG (besondere Fälle) erteilt am |  | (3)* |
-| k) | (doppelt) § 23 Absatz 4 AufenthG (Resettlement) erteilt am |  | (2)* |
-| l) | § 26 Absatz 3 Satz 1 AufenthG (Asyl/GFK nach 5 Jahren) erteilt am |  | (2)* |
-| m) | § 26 Absatz 3 Satz 3 AufenthG (Asyl/GFK nach 3 Jahren) erteilt am |  | (2)* |
-| n) | § 26 Absatz 3 Satz 5 in Verbindung mit § 35 AufenthG (Kinder mit Einreise vor Vollendung des 18. Lebensjahres) erteilt am |  | (2) |
-| o) | § 26 Absatz 3 Satz 6 in Verbindung mit Satz 1 AufenthG (Resettlement nach 5 Jahren) erteilt am |  | (2)* |
-| p) | § 26 Absatz 3 Satz 6 in Verbindung mit Satz 3 AufenthG (Resettlement nach 3 Jahren) erteilt am |  | (2)* |
-| q) | § 26 Absatz 4 AufenthG (aus humanitären Gründen nach 5 Jahren) erteilt am |  | (3) |
-| r) | § 28 Absatz 2 AufenthG (Familienangehörige von Deutschen) erteilt am |  | (2)* |  |  |
-| s) | § 31 Absatz 3 AufenthG (eigenständiges Aufenthaltsrecht der ausländischen Ehegatten) erteilt am |  | (2)* |
-| t) | § 35 AufenthG (Kinder) erteilt am |  | (2)* |
-| u) | § 38 Absatz 1 Nummer 1 AufenthG (ehemalige Deutsche) erteilt am |  | (2)* |
-| v) | Bescheinigung nach § 51 Absatz 2 Satz 3 AufenthG erteilt am |  | (2)* |
-| w) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |
-| x) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) | – wie vorstehend – |  |  |  |  |
+| b) | § 9a AufenthG (Daueraufenthalt-EU) erteilt am | (2)* |
+| c) | § 18c Absatz 1 AufenthG (Fachkräfte) erteilt am | (2)* |
+| d) | § 18c Absatz 2 Satz 1 AufenthG (Inhaber einer Blauen Karte EU nach 33 Monaten) erteilt am | (2)* |
+| e) | § 18c Absatz 2 Satz 3 AufenthG (Inhaber einer Blauen Karte EU nach 21 Monaten) erteilt am | (2)* |
+| f) | § 18c Absatz 3 AufenthG (besonders hochqualifizierte Fachkräfte) erteilt am | (2)* |
+| g) | § 21 Absatz 4 AufenthG (3 Jahre selbständige Tätigkeit) erteilt am | (2) |
+| h) | § 23 Absatz 2 AufenthG (besondere Fälle) erteilt am | (3)* |
+| i) | (doppelt) § 23 Absatz 4 AufenthG (Resettlement) erteilt am | (2)* |
+| j) | § 26 Absatz 3 Satz 1 AufenthG (Asyl/GFK nach 5 Jahren) erteilt am | (2)* |
+| k) | § 26 Absatz 3 Satz 3 AufenthG (Asyl/GFK nach 3 Jahren) erteilt am | (2)* |
+| l) | § 26 Absatz 3 Satz 5 in Verbindung mit § 35 AufenthG (Kinder mit Einreise vor Vollendung des 18. Lebensjahres) erteilt am | (2) |
+| m) | § 26 Absatz 3 Satz 6 in Verbindung mit Satz 1 AufenthG (Resettlement nach 5 Jahren) erteilt am | (2)* |
+| n) | § 26 Absatz 3 Satz 6 in Verbindung mit Satz 3 AufenthG (Resettlement nach 3 Jahren) erteilt am | (2)* |
+| o) | § 26 Absatz 4 AufenthG (aus humanitären Gründen nach 5 Jahren) erteilt am | (3) |
+| p) | § 28 Absatz 2 AufenthG (Familienangehörige von Deutschen) erteilt am | (2)* |
+| q) | § 31 Absatz 3 AufenthG (eigenständiges Aufenthaltsrecht der ausländischen Ehegatten) erteilt am | (2)* |
+| r) | § 35 AufenthG (Kinder) erteilt am | (2)* |
+| s) | § 38 Absatz 1 Nummer 1 AufenthG (ehemalige Deutsche) erteilt am | (2)* |
+| t) | Bescheinigung nach § 51 Absatz 2 Satz 3 AufenthG erteilt am | (2)* |
+| w) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am | (2)* |
+| x) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am | (2)* |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) | – wie vorstehend – |  |  |
 | Niederlassungserlaubnis/unbefristeter Aufenthaltstitel | – wie vorstehend – | – wie vorstehend – |
 | – wie vorstehend ohne die Buchstaben r und s – |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (3) | – wie vorstehend – |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Niederlassungserlaubnis/unbefristeter Aufenthaltstitel | – wie vorstehend – | – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (3) | – wie vorstehend – | – wie vorstehend – | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
+| Niederlassungserlaubnis/unbefristeter Aufenthaltstitel | – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
 | – wie vorstehend ohne die Buchstaben r und s – |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |

@@ -87,7 +87,7 @@ und Nachweispflichten
 
 - [§ 40 Verbotene Waffen](0040.md)
 - [§ 41 Waffenverbote für den Einzelfall](0041.md)
-- [§ 42 Verbot des Führens von Waffen bei öffentlichen Veranstaltungen](0042.md)
+- [§ 42 Verbot des Führens von Waffen bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen](0042.md)
 - [§ 42a Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen](0042a.md)
 
 ## Abschnitt 3 Sonstige waffenrechtliche Vorschriften

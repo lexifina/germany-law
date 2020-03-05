@@ -3,16 +3,16 @@
 
 ## Teil 1 Allgemeine Bestimmungen
 
-- [§ 1 Anwendungsbereich der Verordnung, Begriffsbestimmungen](0001.md)
+- [§ 1 Anwendungsbereich der Verordnung](0001.md)
 
-## Teil 2 Zuwanderung von Fachkräften
+## Teil 2 Qualifizierte Beschäftigungen
 
-- [§ 2 Hochqualifizierte, Blaue Karte EU, Hochschulabsolventinnen und Hochschulabsolventen](0002.md)
+- [§ 2 Vermittlungsabsprachen](0002.md)
 - [§ 3 Führungskräfte](0003.md)
 - [§ 4 Leitende Angestellte und Spezialisten](0004.md)
 - [§ 5 Wissenschaft, Forschung und Entwicklung](0005.md)
-- [§ 6 Ausbildungsberufe](0006.md)
-- [§ 7 Absolventinnen und Absolventen deutscher Auslandsschulen](0007.md)
+- [§ 6 Beschäftigung in ausgewählten Berufen bei ausgeprägter berufspraktischer Erfahrung](0006.md)
+- [§ 7 (weggefallen)](0007.md)
 - [§ 8 Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen](0008.md)
 - [§ 9 Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt](0009.md)
 
