@@ -1,0 +1,91 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-05T16:00:00+01:00
+- Ende: 2020-03-05T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21797
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21797
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde zur Situation der Bäume in der Innenstadt und am Bahndamm
+- TOP 1.2: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - mit Änderungen empfohlen
+- TOP 1.2.1: Änderungsantrag Grüne zur Vorlage 2805/2019 - Erweiterung der Nord- und Südseite Hohenzollernbrücke - ungeändert beschlossen
+- TOP 1.3: Verkehrsauswirkungen durch die geplante Erneuerung von Eisenbahnüberführungen über die Deutz-Mülheimer Straße in Köln-Deutz
+- TOP 1.4: Touristenbusse in der Innenstadt
+- TOP 1.5: Erneuerung der Interimsbrücke an Severinstraße/Waidmarkt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse
+- TOP 3.1.1: Änderungsantrag Grüne zur Verwaltungsvorlage 3186/2019 - Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse - geändert beschlossen
+- TOP 3.2: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert empfohlen
+- TOP 3.3: Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - mit Änderungen empfohlen
+- TOP 3.3.1: Änderungsantrag zum erweiterten Planungs- und Feststellungsbeschluss zur Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - ungeändert beschlossen
+- TOP 3.4: Herstellung von Barrierefreiheit auf Kölner Gehwegen - mit Änderungen empfohlen
+- TOP 3.4.1: Änderungsantrag Grüne zu 3.4 Herstellung der Barrierefreiheit - geändert beschlossen
+- TOP 3.5: Aufhebung des Einleitungsbeschlusses vom 15.09.2011 zu den Aufhebungsverfahren Nummer 3011 a und Teilaufhebungsverfahren 121 Arbeitstitel: Fluchtlinienplan 3011 a ohne Arbeitstitel, Fluchtlinienplan 121 "Kölner Stadterweiterung" in Köln-Altstadt/Süd - ungeändert empfohlen
+- TOP 3.6: Erneuerung der Lüftungsanlage (RLT) im Quäker Nachbarschaftsheim - Norbert-Burger-Bürgerzentrum - ungeändert beschlossen
+- TOP 3.7: Baubeschluss für die Generalinstandsetzung der Waltharistr. und der Theodor-Hürth-Str. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 3.8: Erneuerung der Brandmeldeanlage im Bürgerhaus Stollwerck - ungeändert empfohlen
+- TOP 3.9: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2020 - ungeändert beschlossen
+- TOP 3.10: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Neustadt/Nord Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - ungeändert beschlossen
+- TOP 3.11: Haushaltsplan Doppelhaushalt 2020 / 2021 hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 3.12: Besondere Regelung zur "Straßenmusik im Domumfeld" - ungeändert empfohlen
+- TOP 3.13: Instandsetzung der Straßen "Mühlenbach" und "An der Malzmühle" - ungeändert empfohlen
+- TOP 3.14: Fahrradfreundliche Querung des Salierrings Am Duffesbach/Am Weidenbach - ungeändert beschlossen
+- TOP 3.15: Baubeschluss für die Generalinstandsetzung des Deutzer Ringes zwischen östlichem Zubringer und der Severinsbrücke in beiden Fahrtrichtungen (Bauabschnitt 2 und 3) sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Fin - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Zufahrt für Lieferfahrzeuge in Schildergasse und Hohe Straße (Az.: 02-1600-282/19) - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Überweg Fußgänger*innen und Radfahrer*innen Cäcilienstraße - geändert beschlossen
+- TOP 5.1.1.1: Übergang Neumarkt - geändert beschlossen
+- TOP 5.1.2: Countdown Ampel für Zufußgehende - Kreuzung Ubierring/Alteburger Straße - zurückgestellt
+- TOP 5.1.2.1: Änderungsantrag zu AN/1281/2019 Countdown Ampel für Zufußgehende - zurückgestellt
+- TOP 5.1.3: Fahrradabstellanlage auf der ehemaligen Bushaltestelle an der Johannisstraße - endgültig zurückgezogen
+- TOP 5.1.4: Neuorganisation der Verkehrsführung auf der Schmalbeinstraße - zurückgestellt
+- TOP 5.1.5: Kurzzeitparken in der Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 5.1.6: Haltebucht für Krankentransporte und Taxen vor dem Ärztehaus Ebertplatz 2 - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Aufstellung einer Wanderbaumallee und des Gogomobils im öffentlichen Verkehrsraum - zurückgestellt
+- TOP 5.2.2: Verbesserung der Parksituation am Caritas-Altenzentrum in Deutz - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Parkraumfreie Zone
+- TOP 6.1.4.1: Parkraumfreie Zone Innenstadt
+- TOP 6.1.5: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.6: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.7: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 6.1.8: Sachstand Radabstellanlagen Trajanstraße - Antrag aus 2015 (0012/2015)
+- TOP 6.1.8.1: Sachstand Radabstellanlagen Trajanstraße
+- TOP 6.1.9: Tag des Büdchens - Sachstand
+- TOP 6.1.9.1: Tag des Büdchens, Beantwortung der Anfrage der SPD-Fraktion aus der Sitzung der BV Innenstadt am 28.11.2019 - AN/1570/2019
+- TOP 6.1.10: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 6.1.11: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 6.1.12: Leerstand Geschäftsflächen in der Innenstadt - zurückgestellt
+- TOP 6.1.13: Leerstände Weyerstraße 49 und 51 (Altstadt/Süd) - zurückgestellt
+- TOP 6.1.14: Nachfrage Zweckentfremdung von Wohnraum
+- TOP 6.1.14.1: Nachfrage Zweckentfremdung von Wohnraum
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf Alleestreifen und Fahrbahn - zurückgestellt
+- TOP 6.2.2: Montessori-Grundschule Gilbachstraße (Neustadt/Nord) – Sachstand der Sanierung
+- TOP 6.2.2.1: Montessori-Grundschule Gilbachstraße - zu AN/0250/2020 Anfrage der SPD-Fraktion
+- TOP 6.2.3: Nutzung Gebäude Oberfinanzdirektion - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung - Kenntnis genommen
+- TOP 9.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung
+- TOP 9.2: Aufstellung eines visuellen Geschwindigkeitsmessgerätes am Venloer Wall
+- TOP 9.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind
+- TOP 9.4: Ergebnis eines Prüfauftrages zu 0270/2020 Bürgereingabe nach § 24 GO - "Errichtung eines Erweiterungsbaus Gymnasium Alte Wallgasse"
+- TOP 9.5: Brüsseler Platz - Gerichtlicher Vergleich vor dem OVG NRW am 20. November 2019
+- TOP 9.6: Teilnahme an der Earth Hour 2020
+- TOP 9.7: Im Sionstal für Radverkehr in Gegenrichtung geöffnet
