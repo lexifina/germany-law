@@ -395,6 +395,8 @@ Leistungserbringern
 - [§ 132g Gesundheitliche Versorgungsplanung für die letzte Lebensphase](0132g.md)
 - [§ 132h Versorgungsverträge mit Kurzzeitpflegeeinrichtungen](0132h.md)
 - [§ 132i Versorgungsverträge mit Hämophiliezentren](0132i.md)
+- [§ 132j Regionale Modellvorhaben zur Durchführung von Grippeschutzimpfungen in Apotheken](0132j.md)
+- [§ 132k Vertrauliche Spurensicherung](0132k.md)
 - [§ 133 Versorgung mit Krankentransportleistungen](0133.md)
 - [§ 134 Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung](0134.md)
 - [§ 134a Versorgung mit Hebammenhilfe](0134a.md)
