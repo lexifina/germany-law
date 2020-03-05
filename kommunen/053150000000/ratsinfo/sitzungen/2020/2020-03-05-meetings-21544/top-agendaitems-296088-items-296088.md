@@ -1,0 +1,8 @@
+# TOP -: Stellungnahme der Verwaltung liegt vor
+
+- Sitzung: 50. Sitzung der Bezirksvertretung Chorweiler (2020-03-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/296088
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/141213
