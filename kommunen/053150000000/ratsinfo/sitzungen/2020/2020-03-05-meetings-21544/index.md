@@ -1,0 +1,82 @@
+# 50. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-05T17:00:00+01:00
+- Ende: 2020-03-05T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21544
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21544
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00763377.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00763377.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00763377.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Wilde Müllablageplätze - Kenntnis genommen
+- TOP 7.1.2: Marienberger Hof in Köln-Lindweiler - Kenntnis genommen
+- TOP 7.1.3: Wochenmarkt in Chorweiler - Kenntnis genommen
+- TOP 7.1.4: S-Bahnhaltestelle Blumenberg - Kenntnis genommen
+- TOP 7.1.5: Sachstandsanfrage Blumenbergsweg - Kenntnis genommen
+- TOP 7.1.6: Öffentlichkeitsarbeit zu der Forststraße in Köln-Heimersdorf als öffentliche Parkfläche - Kenntnis genommen
+- TOP 7.1.7: Entwicklung von Gewerbeflächen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Sicherheit der Fußgängerbrücke über die Willy-Suth-Allee - Kenntnis genommen
+- TOP 7.1.9: Alte Römer Straße - zurückgestellt
+- TOP 7.1.10: Förderung der Elektromobilität in Köln - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Holzsitze auf Pariser Platz Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Notfallpraxis in Köln - Longerich Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Elterntaxis an der Soldiner Straße Grundschule Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: KVB-Fahrplan Karneval 2020 Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Sturm und Trockenheitsschäden im Stadtgrün Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Verwendung der Mittel des Stadtverschönerungsprogramms 2020 Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Mehr P+R-Parkplätze im Stadtbezirk Chorweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umsetzung des Integrierten Handlungskonzeptes Lindweiler hier: Ernennung eines stellvertretenden Mitgleides für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplan Doppelhaushalt 2020 / 2021 hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.3: Grundschule Gutnickstr.- Annahme einer Schenkung - ungeändert beschlossen
+- TOP 9.1.4: Altlastensanierung des mit PFC verunreinigten Standortes „Am Baggerfeld 4, 50767 Köln“ - ungeändert beschlossen
+- TOP 9.1.5: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung nach § 3(1) BauGB sowie Beschluss über den geänderten Geltungsbereich des Bebauungsplans Arbeitstitel: "Südlich Baptiststraße" in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 9.2.2: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Baubeschluss für die Generalsanierung der Deichkronenwege in Köln-Merkenich sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Koordinierungsgruppe Flüchtlingsunterbringung im Kölner Norden - ungeändert beschlossen
+- TOP 10.1.2: Bodenplatte für die Friedensglocke auf dem Pariser Platz - ungeändert beschlossen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2019 Bezirk 6 Chorweiler Ost - Kenntnis genommen
+- TOP 10.2.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler hier: Aktueller Sachstand zur Projektumsetzung (Stand: 31.12.2019) - Kenntnis genommen
+- TOP 10.2.3: Erneute Prüfung der Ausweisung einer Hundefreilauffläche in Worringen nahe dem Naturschutzgebiet Rheinaue Worringen bis Langel (N4) - Kenntnis genommen
+- TOP 10.2.4: Sachstand zur Teilmaßnahme 0.0.1 "Verfügungsfonds" aus dem Programm "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.5: Bericht zum Umsetzungsstand des ZMI-Eckpunktepapiers - Kenntnis genommen
+- TOP 10.2.6: Schließung der hausärztlichen Notfallpraxis in Köln-Chorweiler: Sachstandsmitteilung - Kenntnis genommen
+- TOP 10.2.7: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.8: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Kennzeichnung von Parkplätzen in der verkehrsberuhigten Josef Göedecke Straße 2-30 in Köln Worringen (Neubaugebiet Krebelsweide) - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
