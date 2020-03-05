@@ -1,0 +1,67 @@
+# 44. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-05T15:30:00+01:00
+- Ende: 2020-03-05T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21742
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21742
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Ausschussmitglieds - Sache ist erledigt
+- TOP -: gem. Dringlichkeitsantrag der Fraktionen Die Linke und SPDStruktur der Arbeitslosenzentren in Köln aufrechterhalten - zurückgestellt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der SPD-Fraktion betreffend "Unterstützung für langzeitarbeitslose Menschen mit Behinderung auf dem Arbeitsmarkt" - geändert beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion betreffend "Pauschalen zur Finanzierung der Flüchtlingsunterbringung auskömmlich gestalten – Erstattungszeitraum ausweiten" - endgültig abgelehnt
+- TOP -: Gemeinsamer Änderungsantrag zu AN/0165/2020 "Pauschalen zur Finanzierung der Flüchtlingsunterbringung auskömmlich gestalten – Erstattungszeitraum ausweiten“ - ungeändert beschlossen
+- TOP 2.3: Antrag der Fraktion Die Linke. betreffend "Verzicht auf Jobcenter-Sanktionen bei ALG-II-Beziehern" - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD Fraktion zu Verzicht auf Jobcenter-Sanktionen bei ALG II-Beziehern - endgültig abgelehnt
+- TOP 2.4: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen Freiwillige Zählung obdachloser Menschen in Köln - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.5: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen Runder Tisch Pflege - geändert beschlossen
+- TOP 2.6: Antrag der FDP-Fraktion Pilotprojekt Duschbus für Wohnungslose - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion die Linke zu TOP 2.6 "Pilotprojekt Duschbus für Wohnungslose" - Sache ist erledigt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Verteilung der Globalmittel 2020 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der SPD Fraktion Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Drogenhilfekonzept 2020 der Stadt Köln - geändert beschlossen
+- TOP 4.3: Änderung der Anlage 4 (Förderungshöhe) der Richtlinie für die Anerkennung und Förderung der Interkulturellen Zentren - ungeändert beschlossen
+- TOP 4.4: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2020 - ungeändert beschlossen
+- TOP 4.5: Teilnahme an der Landesinitiative "Durchstarten in Ausbildung und Arbeit" - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Stadtarbeitsgemeinschaften
+- TOP 7: Behindertenbeauftragter
+- TOP 7.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der SPD Fraktion Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen - ohne Votum in nachfolgende Gremien
+- TOP 7.2: Bericht des Behindertenbeauftragten 2/2020 - Kenntnis genommen
+- TOP 8: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 8.1: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9: JobCenter Köln
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Gemeinsame Anfrage der CDU-Fraktion und der Ratsfraktion Bündnis90/Die Grünen Sachstand zur Förderung der Arbeitslosenzentren (ALZ) und Erwerbslosen-beratungsstellen (EBS) über 2020 hinaus - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung zu AN/0235/2020Sachstand zur Förderung der Arbeitslosenzentren (ALZ) und Erwerbslosenberatungsstellen (EBS) über 2020 hinaus - Kenntnis genommen
+- TOP 11.2: Anfrage der SPD FraktionDringend gebotene humanitäre Hilfe für die Menschen in den völlig überfüllten Flüchtlingslagern in Griechenland - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung zu Vorlage AN/0291/2020Dringend gebotene humanitäre Hilfe für die Menschen in den völlig überfüllten Flüchtlingslagern in Griechenland - Kenntnis genommen
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Bescheinigung über den Wohngeldbezug für BUT Antragsteller - zurückgestellt
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 15.2: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 15.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte hier: Mitteilung zum aktuellen Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 15.4: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 15.5: Wohnungsangebote der Sozial-Betriebe-Köln gGmbH für Seniorinnen und Senioren - Kenntnis genommen
+- TOP 15.6: Integriertes Management im Dezernat V - Kenntnis genommen
+- TOP 15.7: Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - Kenntnis genommen
+- TOP 15.8: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2019 - Kenntnis genommen
+- TOP 15.9: Aktionstag „gesund & mobil im Alter“ in Kooperation mit dem 13. Kölner Vorsorge-Tag am 18. März 2020 in der Zeit von 9 bis 17 Uhr im Gürzenich Köln - Kenntnis genommen
+- TOP 15.10: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - zurückgestellt
