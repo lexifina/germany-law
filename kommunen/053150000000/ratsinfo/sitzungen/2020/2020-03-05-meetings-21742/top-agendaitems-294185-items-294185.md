@@ -1,0 +1,7 @@
+# TOP -: Verpflichtung eines Ausschussmitglieds
+
+- Sitzung: 44. Sitzung des Ausschusses Soziales und Senioren (2020-03-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/294185
+- Ergebnis: Sache ist erledigt
