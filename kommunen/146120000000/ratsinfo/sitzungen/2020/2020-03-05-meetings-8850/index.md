@@ -1,0 +1,52 @@
+# 8. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-03-05T16:00:00+01:00
+- Ende: 2020-03-05T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8850
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8850
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00455433.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde - Baukultur in Dresden - erledigt
+- TOP 4: Aktuelle Stunde zum Thema „Was macht Dresdens Stadtverwaltung bürgerfreundlich?“ - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzung
+- TOP 5.1: Umbesetzung Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Blasewitz der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE - Zustimmung
+- TOP 8: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Pieschen der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE - Zustimmung
+- TOP 9: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Blasewitz der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE. - Zustimmung
+- TOP 10: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden – Mandat der Partei DIE LINKE. - Zustimmung
+- TOP 11: Vertagungen letzte Stadtratssitzung am 30.01.2020
+- TOP 11.1: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung durch Einreicher
+- TOP 11.2: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 11.3: Sozialen Wohnungsbau mit ökologisch und städtebaulich innovativem Quartier voranbringen - Aufstellungsbeschluss für Globus-Markt am Leipziger Bahnhof aufheben - Vertagung durch Einreicher
+- TOP 11.4: Für eine saubere Stadt! Graffiti-Schmierereien nachhaltig und wirkungsvoll bekämpfen - punktweise Zustimmung mit Änderung
+- TOP 11.5: Verzicht auf die Aufstellung eines Gesamtabschlusses der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 11.6: Dresden-Gorbitz als Pilotprojekt für lokale Kriminalprävention in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 11.7: Bäume für Dresden - - Vertagung durch Einreicher
+- TOP 11.8: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse – Parken am Blauen Wunder - Vertagung nach 22 Uhr
+- TOP 11.9: Evaluation der Tätigkeit von Trägern der freien Kinder- und Jugendhilfe in Dresden - Vertagung nach 22 Uhr
+- TOP 11.10: Vorplatzgestaltung des Kulturpalastes - Vertagung nach 22 Uhr
+- TOP 12: Ausschreibung der Stelle der/des Beigeordneten für Bildung und Jugend - Zustimmung
+- TOP 13: Übertragung der Verwaltung des ehemaligen Schulstandortes Alexander-Herzen-Straße 64 - Zustimmung mit Ergänzung
+- TOP 14: Aufhebung der Richtlinie der Landeshauptstadt Dresden über die Gewährung einer Umzugsbeihilfe für Studenten - Zustimmung mit Änderung
+- TOP 15: Einrichtung einer Fachschule, Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (Ausbildung zum/zur Erzieher/-in) am Beruflichen Schulzentrum für Dienstleistung und Gestaltung - Zustimmung mit Änderung
+- TOP 16: Satzung der Landeshauptstadt Dresden über die Erhebung von Kostenersatz für Leistungen der Feuerwehren (Feuerwehrkostensatzung – FwKS) - Zustimmung
+- TOP 17: Beitritt der Landeshauptstadt Dresden zum "HEALTHY SAXONY - Verein zur Förderung der Gesundheitswirtschaft e. V." - Vertagung durch Einreicher
+- TOP 18: Bebauungsplan Nr. 357 B, Dresden-Neustadt Nr. 39, Leipziger Straße/Neustädter Hafen - Zustimmung
+- TOP 19: Satzung der Landeshauptstadt Dresden über die Friedhofsgebühren für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofsgebührensatzung) - Zustimmung
+- TOP 20: Bereitstellung zusätzlicher finanzieller Mittel im Produkt Wald für den Zeitraum 2020 bis 2024 - Zustimmung
+- TOP 21: Barrierefreiheit im ÖPNV. Teilhabe von Menschen mit Behinderungen ermöglichen - Zustimmung mit Ergänzung
+- TOP 22: Verbesserung der Verkehrssicherheit durch Beräumung von Verkehrshindernissen (E-Scootern) - Verweisung
+- TOP 23: Elektrokleinstfahrzeuge in Dresden - Verweisung
+- TOP 24: Verwaltungszentrum Ferdinandplatz – Moratorium Wettbewerblicher Dialog - Vertagung durch Einreicher
+- TOP 25: Ausschreibung der Stadtwerbeverträge gemeinsam erarbeiten - Ersetzung
+- TOP 26: Neue Wohnbauflächen in der Neustadt entwickeln! - Verweisung
