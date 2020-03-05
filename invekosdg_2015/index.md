@@ -1,4 +1,4 @@
-# Gesetz über die Verarbeitung und Nutzung von Daten im Rahmen des Integrierten Verwaltungs- und Kontrollsystems nach den unionsrechtlichen Vorschriften für Agrarzahlungen
+# Gesetz über die Verarbeitung von Daten im Rahmen des Integrierten Verwaltungs- und Kontrollsystems nach den unionsrechtlichen Vorschriften für Agrarzahlungen
 
 - [§ 1 Zweck und Anwendungsbereich](0001.md)
 - [§ 2 Betriebsdaten](0002.md)
