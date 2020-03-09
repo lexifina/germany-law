@@ -1,0 +1,26 @@
+# Soko BTM
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 0427/XX
+- Art: Vorlage zur Kenntnisnahme - SB
+- Datum: 2020-03-09
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5753
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=5753
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=188575
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3142 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3415 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3450 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3327 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3400 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3403 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3574 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3663 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3664 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3778 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3673 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3674 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3834 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3835 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4124 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=1
