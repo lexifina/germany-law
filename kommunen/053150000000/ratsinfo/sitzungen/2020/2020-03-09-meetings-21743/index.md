@@ -1,0 +1,66 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-09T15:00:00+01:00
+- Ende: 2020-03-09T18:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21743
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21743
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin - ungeändert beschlossen
+- TOP -: Kurzinformation über die Schulentwicklungsplanung 2020 - Kenntnis genommen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Ausbau des Gesamtschulangebotes in Köln – Standortsuche muss verstärkt werden - Sache ist erledigt
+- TOP 2.1.1: Änderungsantrag zu TOP 2.1. „Ausbau des Gesamtschulangebotes in Köln – Standortsuche muss verstärkt werden“ - Sache ist erledigt
+- TOP 2.1.2: Änderungsantrag zu TOP 2.1 DA Ausbau des Gesamtschulangebotes in Köln - ungeändert beschlossen
+- TOP 2.2: Corona-Prävention in städtischen Einrichtungen - ungeändert beschlossen
+- TOP 2.2.1: Corona-Prävention in städtischen Einrichtungen (AN/0351/2020) - Kenntnis genommen
+- TOP 2.3: Gymnasial- und Gesamtschulplätze für Köln in Porz - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 3.1.2: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP 3.1.2.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: KLASSE-Projekt Klima Aktion: Schulen sparen Energie - Kenntnis genommen
+- TOP 3.2.2: Netzwerke an Schulen - NetCologne - Kenntnis genommen
+- TOP 3.2.3: Beschleunigung der Schulbaumaßnahmen- weitere Projektarten - Kenntnis genommen
+- TOP 3.2.4: Schulreinigung - Kenntnis genommen
+- TOP 3.2.4.1: Beantwortung einer Anfrage, AN/0195/2020 - Kenntnis genommen
+- TOP 3.2.5: Gebäudenutzung Möbelhaus Flamme als Schulgebäude - Kenntnis genommen
+- TOP 3.2.6: Kölner Partnerschulen in Polen: LGBTI-freie Zonen in Polen - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Einrichtung von Fachräumen als Automatisierungslabor im Berufskolleg 17, Eitorfer Str. 18-20, 50679 Köln (Deutz) - Förderprogramm des Landes NRW 'Digitalpakt Schule' - außerplanmäßige Auszahlungen mit dazugehöriger Freigabe - ungeändert beschlossen
+- TOP 4.2: Teilnahme an der Landesinitiative "Durchstarten in Ausbildung und Arbeit" - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Elternbeitragssatzung für die Kindertagesbetreuung ab 01.08.2020 - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: Sicherheit von Kindern und Jugendlichen im Verkehr - Wie engagiert werden in Köln Verbesserungen umgesetzt? - Kenntnis genommen
+- TOP 5.2: Lehrschwimmbecken der GGS Hohe Straße in Porz Ensen - Offener Brief der Vernetzung Porzer Bürgervereine und Statikgutachten - Kenntnis genommen
+- TOP 5.3: Teilnahme des Erich-Gutenberg-Berufskollegs am Schulversuch Talentschulen - Kenntnis genommen
+- TOP 5.4: Neue Integrationschancen durch einen Schulabschluss an der Tages- und Abendschule Köln - Kenntnis genommen
+- TOP 5.5: AN/0127/2020 Schulsituation in Porz - Anfrage der Fraktion Bündnis 90/Die Grünen - Kenntnis genommen
+- TOP 5.6: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 5.7: 20. Ehrenamtspreis "KölnEngagiert" - Kenntnis genommen
+- TOP 5.8: Jahresbericht 2019 des Amts für Weiterbildung / Volkshochschule liegt vor - Kenntnis genommen
+- TOP 5.9: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.10: Beantwortung einer Anfrage zum Verbot der muttersprachlichen Unterhaltung von Schüler*innen während der Pausen in den Kölner Schulen - AN/1739/2019 - Kenntnis genommen
+- TOP 5.11: Rückblick Digital Education Day 2019 - Kenntnis genommen
+- TOP 5.12: Dokumentation des Fachtags der Schulsozialarbeit "mehr möglich machen" - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
