@@ -1,0 +1,6 @@
+# TOP 5: Anfragen der Bürger
+
+- Sitzung: 7. Sitzung des Ortschaftsrates Altfranken (2020-03-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/128442
