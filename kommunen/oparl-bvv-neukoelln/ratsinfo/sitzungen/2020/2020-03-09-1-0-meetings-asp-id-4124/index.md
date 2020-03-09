@@ -1,0 +1,109 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-03-09T18:33:00+01:00
+- Ende: 2020-03-09T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4124
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4124
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - (offen)
+- TOP 1.1: Nie wieder 2015 – wir haben keinen Platz! - in der BVV abgelehnt
+- TOP 1.2: Sofortmaßnahmen gegen SARS-Cov-2 - in der BVV abgelehnt
+- TOP 2: Geschäftliches - (offen)
+- TOP 3: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 3.1: Vorzeitige Beendigung eines Mandats als Bezirksverordnete im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 4.1: Belastung der Straße Alt-Britz bei Veranstaltungen auf dem Gutshof verhindern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Engstelle der Karl-Marx-Straße am Rathaus Neukölln sicher machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Keine Kürzung von Fördergelder für Integrationsprojekte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Handeln statt populistischem Spiel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.5: Soko BTM - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.6: Überbelastung von Buckow durch Flüchtlingsstandorte verhindern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.7: Preissystem der Berliner Bäderbetriebe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.8: Lärmprognose in belasteten Gebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.9: Sitzbänke am Weigandufer aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.10: Einrichtung von Boule-Bahnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.11: Brandschutz in Shisha-Bars sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.12: Parkraumbewirtschaftung: Ist das sinnvoll für Neukölln? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.13: Die Buslinie 171 soll wieder durch das Einkaufs- und Dienstleistungszentrum Alt-Rudow fahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.14: Rudower Dorfteich reinigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.15: Einhaltung der StVO im Möwenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.16: Gehwegbeleuchtung an der Nordseite der Saalestraße sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.17: Gehwegbeleuchtung an der Oderstraße sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.18: Gehwegbeleuchtung des Mittelbuschwegs sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.19: Gefahrensituation in der Glasower Straße entschärfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.20: Ampelanlage Werbellinstraße / Morusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.21: 27. Januar - Gedenktag für die Opfer des Nationalsozialismus begehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.22: Sicherung und Aufbau der bezirklichen Schulstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.23: Dreck im Gleisbett - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.24: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.25: Klimagerechte BVV-Unterlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.26: Drogenhandel nachhaltig und robust bekämpfen. - in der BVV abgelehnt
+- TOP 4.27: Hundeauslaufgebiet im Frauenviertel - in der BVV abgelehnt
+- TOP 4.28: Sport in Zukunft müllfrei - ohne Änderungen in der BVV beschlossen
+- TOP 4.29: Einrichtung von weiteren Neuköllner Koordinierungsstellen - in der BVV abgelehnt
+- TOP 4.30: Anti-Mobbing-Team für Neukölln - Mobbing wirksam bekämpfen! - in der BVV abgelehnt
+- TOP 4.31: Tatsächliche Bürgerbeteiligung bei der Haushaltsplanung ermöglichen - in der BVV abgelehnt
+- TOP 4.32: Anhebung der Investitionspauschale für Straßenunterhaltung und Gehwegsanierung - in der BVV abgelehnt
+- TOP 4.33: Grünflächen ankaufen - in der BVV abgelehnt
+- TOP 4.34: Defibrillatoren in weiteren Bürostandorten - ohne Änderungen in der BVV beschlossen
+- TOP 4.35: ALLRIS-Datenbank nutzbarer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 4.36: Wartemöglichkeiten für die Donaustraße 89 - in der BVV abgelehnt
+- TOP 4.37: Einberufung des Tourismus-Beirates - ohne Änderungen in der BVV beschlossen
+- TOP 4.38: Klimanotstand! Neukölln handelt angesichts der Klimakrise - ohne Änderungen in der BVV beschlossen
+- TOP 4.39: Schulwegsicherheit verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 4.40: Neue Fahrradstellplätze im Straßenraum - in der BVV abgelehnt
+- TOP 4.41: Kanalgeländer fachgerecht restaurieren - in der BVV abgelehnt
+- TOP 4.42: Treptower Straße beruhigen - ohne Änderungen in der BVV beschlossen
+- TOP 4.43: Menschen in Alt-Britz nicht alt aussehen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 4.44: Migrationsbeirat abschaffen - in der BVV abgelehnt
+- TOP 4.45: Mehr Schulgärten - ohne Änderungen in der BVV beschlossen
+- TOP 4.46: Aufenthalts und Speiseräume an Schulen durch Container - in der BVV abgelehnt
+- TOP 4.47: Verwahrlosung bekämpfen – Urban-Gardening fördern! - ohne Änderungen in der BVV beschlossen
+- TOP 4.48: Schwerpunktkontrollen des Ordnungsamtes mit anderen Behörden - beantwortet
+- TOP 4.49: Warum liegen unsere Baustellen völlig brach? - beantwortet
+- TOP 4.50: Hitzeaktionsplan für Neukölln? - beantwortet
+- TOP 4.51: Camp Stahl - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.52: Dauercamper bei Standortsuche unterstützen - vertagt
+- TOP 4.53: Gartenwasser Flatrate - vertagt
+- TOP 4.54: Mädchen- und Frauen-Sportfest - vertagt
+- TOP 4.55: Sondernutzung auf dem Böhmischen Platz - vertagt
+- TOP 4.56: Einrichtung E-Bike-Sharing im Bezirksamt - vertagt
+- TOP 4.57: Abgabe Tätigkeitsbericht Seniorenbeauftragte - vertagt
+- TOP 4.58: Aussetzung der Sanktionen im Jobcenter Neukölln - vertagt
+- TOP 4.59: Plastikmüll an Neuköllner Schulen vermeiden - vertagt
+- TOP 4.60: Fußgänger im Krischanweg schützen - vertagt
+- TOP 4.61: "Berlkönig" soll auch im Süden regieren - vertagt
+- TOP 4.62: „Diese eG“ ist keine Option für Neukölln - vertagt
+- TOP 4.63: Kein Nettoverlust von Grün- und Freiflächen - vertagt
+- TOP 4.64: Konzept zur Reduktion des Flächenverbrauches - vertagt
+- TOP 4.65: Verkehrschaos in Rudow nach Eröffnung des BER? - vertagt
+- TOP 4.66: Lässt der Bezirk Geld im Park liegen? - vertagt
+- TOP 4.67: Strategie gegen Vereinsamung - vertagt
+- TOP 4.68: Mehr Wohnungen im geschützten Marktsegment für Neukölln - vertagt
+- TOP 4.69: Trägerschaft und Arbeit der Werkstatt der Kulturen - schriftlich beantwortet
+- TOP 4.70: Neukölln macht´s vor! Ein barrierefreier Spielplatz für Alle - vertagt
+- TOP 4.71: Grüne Dächer für BVG- Wartehäuschen - vertagt
+- TOP 4.72: Neukölln wächst zu - vertagt
+- TOP 4.73: Vorbereitende Untersuchung Milieuschutzgebiet Gropiusstadt beauftragen - vertagt
+- TOP 4.74: Fußgänger*innenfreundliche Querung Werbellinstraße - vertagt
+- TOP 4.75: Familien-Service-Büro für Neukölln - vertagt
+- TOP 4.76: Schaffung eines Bundesleistungsgesetzes - vertagt
+- TOP 4.77: Stelle eines / einer Beauftragten für Senioren einrichten - vertagt
+- TOP 4.78: Bürgerämter entlasten - vertagt
+- TOP 4.79: Pflichtaufgaben der Bürgerämter durch Bezirke sicherstellen - vertagt
+- TOP 4.80: Beteiligung am europaweiten autofreien Tag - vertagt
+- TOP 4.81: Selbstbestimmte dritte Option zum Geschlechtseintrag - vertagt
+- TOP 4.82: Bauende informieren – Umweltsituation verbessern - vertagt
+- TOP 4.83: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - vertagt
+- TOP 4.84: Flächen für produzierendes Gewerbe sichern - vertagt
+- TOP 4.85: Reinigung der Grünflächen - vertagt
+- TOP 4.86: Kita Riesestraße 1-2 - vertagt
+- TOP 4.87: Hänselstraße zwischen Sonnenallee und Gretelstraße zum verkehrsberuhigten Bereich umwidmen - vertagt
