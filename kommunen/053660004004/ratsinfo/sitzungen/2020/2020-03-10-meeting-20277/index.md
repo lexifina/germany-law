@@ -1,0 +1,60 @@
+# Stadtentwicklungsausschuss (32. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-03-10T18:00:00+01:00
+- Ende: 2020-03-10T21:20:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcWFpdRb5mRKsPjc5JJmOn4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20277
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUc_lF7s4PXItMG2tLaUWLLpUKNhi_JIvfe9xAqZUy4e/Bekanntmachung_Stadtentwicklungsausschuss_10.03.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_z5q7GOqK8ARTaGpsS470xOQ-vVIMiuCNYWIf0VNbV/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_10.03.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 04.12.2019 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Integration von Schülerspezialverkehr in den ÖPNV - Einstimmiger Empfehlungsbeschluss
+- TOP 4.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Maßnahme Nr. A9 Mobilitätskonzept inklusive Parkraumstrategie hier: Präsentation der ersten Maßnahmenvorschläge - Einstimmiger Beschluss
+- TOP 5.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A.6 Masterplan Werther Quartier/Stadteingang Nord hier: Vorstellung des Entwurfs - Einstimmiger Beschluss
+- TOP 6.: Planungen zu Erneuerbaren Energien hier: Konzentrationszonenplanung für Windenergienutzung - Empfehlungsbeschluss bei 5 Gegenstimmen
+- TOP 7.: Sperrung des Möschemer Weg mittels einer Schranke hier: CDU-Antrag vom 30.09.2019 - Einstimmiger Beschluss bei 2 Enthaltungen
+- TOP 8.: Verkehrsberuhigung Thomasstraße in Wald hier: Antrag der SPD-Fraktion vom 09.12.2019 - Einstimmiger Beschluss 
+- TOP 9.: Weltkulturerbeantrag Niedergermanischer Limes - Einstimmiger Beschluss
+- TOP 10.: Optimierung der Bahnstrecke Euskirchen/Bad Münstereifel hier: Antrag der FDP-Fraktion vom 06.02.2020 - Beschluss bei 2 Gegenstimmen und 1 Enthaltung
+- TOP 11.: Verbesserung der ÖPNV Anbindung in Eschweiler hier: Antrag der CDU-Fraktion vom 12.02.2020 - Einstimmiger Beschluss
+- TOP 12.: Maßnahmen des Kreises Euskirchen zur Verkehrsberuhigung im Ortseingang Odesheim (K 50) - Einstimmiger Beschluss
+- TOP 13.: Entwicklung des Schleidpark-Areals - Beschluss bei 1 Gegenstimme
+- TOP 14.: Integriertes Stadtentwicklungs - und Handlungskonzept (ISEK) - A.12 Neuordnung/Umgestaltung Stadtpark hier: Umwandlung des dritten Bauabschnitts A12.3 „Kurparkwäldchen“ - Beschluss bei 1 Gegenstimme
+- TOP 15.: 33. Änderung des Flächennutzungsplanes für die Ortschaft Wald, Bereiche Weidenweg und Zum Sommerberg hier: Aufstellungsbeschluss und Beschluss zur Durchführung der Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Beschluss bei 6 Gegenstimmen und 1 Enthaltung
+- TOP 16.: 32. Änderung des Flächennutzungsplanes "Sondergebiet Zweckbestimmung Einzelhandel/Nahversorgung" für den Bereich Bahnhofsstraße/ L11/ L194, Ortsteil Arloff hier: Aufstellungsbeschluss und Beschluss zur Durchführung der Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss
+- TOP 17.: Bebauungsplan Nr. 93 "Sondergebiet Einzelhandel/Nahversorgung Arloff" hier: Aufstellungsbeschluss und Beschluss zur Durchführung der Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss
+- TOP 18.: 1. Änderung des Bebauungsplanes Nr. 3 c "Freizeitzentrum Goldenes Tal - Sondergebiet Campingplatz/Schulung" hier: Beschluss zur Durchführung der Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss
+- TOP 19.: Bebauungsplan Nr. 10 "Kurhausgebiet" - 8. Änderung im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss und Beschluss zur Durchführung der Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Beschluss bei 4 Gegenstimmen
+- TOP 20.: Bebauungsplan Nr. 36a "Uhlenberg Nord" - 5. Änderung im beschleunigten Verfahren gem. § 13a BauGB hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 21.: Bebauungsplan Nr. 88 "Auf der Kumm", Ortsteil Iversheim im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 22.: Bebauungsplan Nr. 90 "Neubau Zimmerei-Outlet-Store" hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 23.: Bauliche Entwicklung auf dem Grundstück Gemarkung Münstereifel, Flur 6, Flurstücke 1160 bis 1162, Große Bleiche 1 in Bad Münstereifel, hier: Antrag auf Änderung des Bebauungsplanes Nr. 3a „Goldenes Tal Südumgehung“ - Einstimmiger Beschluss bei 1 Enthaltung
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.: Anfragen und Mitteilungen
+- TOP 29.1: Gestaltung des Platzes vor St. Brigida in Eicherscheid hier: SPD-Antrag vom 28.10.2019
+- TOP 29.2: Anfragen und Mitteilungen; Gefahrenpunkt Wallgasse/Alte Gasse hier: FDP-Antrag vom 21.10.2019 – Ergebnis der Verkehrsschau
+- TOP 29.3: Anfragen und Mitteilungen; Verkehrsberuhigung Aspelweg hier: Antrag nach § 24 GO NRW vom 14.11.2019 – Ergebnis der Verkehrsschau
+- TOP 29.4: Anfragen und Mitteilungen; Widerrechtliches Parken auf dem Bürgersteig Ecke Turmgasse / Iversheimer Straße in Eschweiler hier: CDU-Antrag vom 30.09.2019 – Ergebnis der Verkehrsschau
+- TOP 29.5: Anfragen und Mitteilungen; Aufbringen von Fahrbahnmarkierungen im Kreuzungsbereich Fabrikstraße / Gutenbergweg / Im Floting / Brückenstraße in Arloff hier: Antrag der CDU-Fraktion vom 22.09.2018
+- TOP 29.6: Sachstand Breitbandausbau im Stadtgebiet
+- TOP 29.7: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK); Konzept zur Reduzierung von Barrieren im öffentlichen Raum; hier: Barrierefreiheit in der Kernstadt; SPD-Antrag vom 01.03.2020
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Rechtliche Beratung zu Erneuerbaren Energien hier: Folgeauftrag - Beschluss bei einer Gegenstimme
+- TOP 2.: Anfragen und Mitteilungen
+- TOP 2.1: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.5 Gestaltungsleitlinie hier: Mitteilung über die Auftragsvergabe
+- TOP 2.2: Integration von Schülerspezialverkehr in den ÖPNV Hier: Vertragliche Konsequenzen -  
+- TOP 2.3: Mitteilung über die nach den §§ 31 bis 37 BauGB getroffenen Entscheidungen (Bauvorhaben) - 4. Quartal 2019
+- TOP 2.4: Bedarf von Unterkünften der FH für Rechtspflege hier: Antrag der SPD-Fraktion vom 01.03.2020
