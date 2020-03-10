@@ -1,0 +1,60 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-10T14:10:00+01:00
+- Ende: 2020-03-10T15:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21745
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21745
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kunststück Familie e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Fachbeirat für Mädchenarbeit - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Teilnahme an der Landesinitiative "Durchstarten in Ausbildung und Arbeit" - ungeändert beschlossen
+- TOP 4.2: Elternbeitragssatzung für die Kindertagesbetreuung ab 01.08.2020 - ohne Votum in nachfolgende Gremien
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - zurückgestellt
+- TOP -: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - zurückgestellt
+- TOP 6.1.2: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Einsatzkonzepte Karneval Streetwork und Ordnungsdienst - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 7.1.2: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Jugendhilfeausschuss - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 8.5.2: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2019 in der Stadt Köln - Kenntnis genommen
+- TOP 8.5.3: "Stufenkonzept Frühe Bildung / Flüchtlingskinder" Kölner Modell zur vorschulischen Förderung und Integration von Flüchtlingskindern - Kenntnis genommen
+- TOP 8.5.4: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2019 - Kenntnis genommen
+- TOP 8.5.5: 27. Bericht zur Situation Geflüchteter - zurückgestellt
+- TOP 8.5.6: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 8.5.7: Dokumentation des Fachtags der Schulsozialarbeit "mehr möglich machen" - Kenntnis genommen
+- TOP 8.5.8: Erweiterung und Optimierung der IT-Versorgung in 231 städtischen Kindertagesstätten - Kenntnis genommen
+- TOP 8.5.9: Neugestaltung des Spiel- und Bolzplatzes Eythstraße in Köln-Kalk - Kenntnis genommen
