@@ -1,0 +1,59 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-10T17:00:00+01:00
+- Ende: 2020-03-10T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19076
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19076
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket 10.03.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373048.pdf
+- Ergebnisprotokoll: Sitzungspaket 10.03.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373048.pdf
+- Wortprotokoll: Sitzungspaket 10.03.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373048.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften der Bezirksvertretung 3 SI-BV3/01/2019 vom 17.09.2019, SI-BV3/02/2019 vom 08.10.2019, SI-BV3/03/2019 vom 10.12.2019, SI-BV3/01/2020 vom 21.01.2020 sowie die gemeine - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Grundschule Heerstraße 18/18a" - einstimmig beschlossen
+- TOP 5: Flächennutzungsplanänderung Nr. 192 - Östlich Völklinger Straße - Stellungnahmen;Planbeschluss - einstimmig beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 193 - Nordöstlich Halbinsel Kesselstraße - Stellungnahmen,Planbeschluss - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - mehrheitlich beschlossen
+- TOP -: Geschwindigkeitsreduzierung Brunnenstraße - zur Kenntnis genommen
+- TOP -: Verbesserung der Verkehrssicherheit und ÖPNV-Beschleunigung auf der Corneliusstraße - zur Kenntnis genommen
+- TOP -: Wiedereinrichtung des ÖPNV-Sonderfahrstreifens Oberbilker Allee - zur Kenntnis genommen
+- TOP 14: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 15: Vorstellung Sachstand Wohnungsmarkt - zurückgezogen
+- TOP 16: Fahrradständer auf dem südlichen Teil der Himmelgeister Straße - zurückgestellt
+- TOP 17: Fahrradständer auf dem Ernst-Reuter-Platz/Adersstraße - zurückgestellt
+- TOP 18: Ausbau des Programms "Essbare Stadt" Düsseldorf im Stadtbezirk 3 - zurückgestellt
+- TOP -: Tempo 30 auf der Monheimstraße und der Mindener Straße - einstimmig beschlossen
+- TOP -: Umbau der Haltestelle Karolingerplatz als Chance nutzen - mehrheitlich beschlossen
+- TOP 19: Sachstand Bauvorhaben Grand Central - beantwortet
+- TOP 20: Baumpflanzungen im Stadtbezirk 3 - beantwortet
+- TOP 21: Sachstand Vorplatz Arkaden - beantwortet
+- TOP 22: Ausweichverkehre Umweltspuren im Stadtbezirk 3 - beantwortet
+- TOP 23: Lärmreduzierung auf der Bilker Allee - beantwortet
+- TOP 24: Lärmreduzierung auf der Bilker Allee - beantwortet
+- TOP 25: Wiederbepflanzung von Baumscheiben - beantwortet
+- TOP 26: Bachstraße; Ampelanlagen - beantwortet
+- TOP 27: Ausweichverkehr durch das Gurkenland unterbinden, Rheinbahnlinie 705 beschleunigen - beantwortet
+- TOP 28: Rechtsabbiegen von der Moorenstraße in Richtung Wersten - beantwortet
+- TOP 29: Radweg auf Aachener Straße zwischen Im Dahlacker und Südring - vertagt
+- TOP 30: Bezirklicher Bauunterhalt - Haushaltsjahr 2020, Stadtbezirk 3, Liste A - Schulen - einstimmig beschlossen
+- TOP 31: Schulgarten Räuscherweg; Zuschuss - einstimmig beschlossen
+- TOP 32: Josef-Beuys-Gesamtschule; Zuschussantrag - vertagt
+- TOP -: KGS Bonifatiusschule; Sonnenschutz; Zuschussantrag - vertagt
+- TOP -: Ausführungs- und Finanzierungsbeschluss für die Maßnahme Speditionstraße - Westseite - mehrheitlich beschlossen
+- TOP 33: Moorenstraße 5; Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 34: Readinger Straße - zur Kenntnis genommen
+- TOP 35: Mitteilungen des Bezirksbürgermeisters
