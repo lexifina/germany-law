@@ -1,0 +1,157 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5617123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5617123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 29.01.2020, Baumpflanzungen in der Maxvorstadt
+- TOP 5.2.2.: Bürgeranliegen vom 04.02.2020, Schulwegsicherheit, Grundschule Türkenstraße
+- TOP 5.2.3.: Bürgeranliegen vom 12.01.2020, Barer Straße 77/Ecke Nordendstraße: „Barer Höfe“ vertagt aus der Sitzung am 11.02.2020
+- TOP 5.2.4.: Bürgeranliegen vom 20.02.2020, Situation um den Hauptbahnhof
+- TOP 5.2.5.: Bürgeranliegen vom 27.02.2020, Fußgänger- bzw. Fahrradampeln in der Ludwigstraße
+- TOP 6.1.: Entlastung Parkplatzproblematik Schönfeldviertel
+- TOP 6.2.: Arbeitsbedingungen der sogenannten „Juicer“ der E-Scooter – gegen die Schaffung eines neuen Dienstleistungsprekariats! Zwischennachricht zu BA-Antrag Nr. 14-20 / B 06768 vom 13.09.2019
+- TOP 6.3.: Erweiterung der Zuständigkeit des Kommunalen Außendienstes (KAD) BA-Antrag Nr. 14-20 / B 06878 vom 08.10.2019
+- TOP 6.4.: Markierung Zebrastreifen Ecke Haß-/Arcisstraße auf den Radweg erweitern
+- TOP 6.5.: Verkehrsampel vor dem Amerikanischen Generalkonsulat (TOP A 5.2.10/11 2019) Antwortschreiben des Kreisverwaltungsreferates an den Bürger
+- TOP 6.6.: Noch immer unbeleuchtete Buswartehallen in der Schellingstraße und am Josephsplatz
+- TOP 6.7.: Mehr Sicherheit auf dem Weg zum Spielplatz - Radfahrer auf kreuzende Fußgänger hinweisen
+- TOP 6.8.: Verkehrsberuhigung und Zweirichtungs-Fahrradverkehr in der Erzgießereistraße
+- TOP 6.9.: Arbeitsbedingungen der sogenannten "Juicer" der E-Scooter - gegen die Schaffung eines neuen Dienstleistungsprekariats!
+- TOP 6.10.: Radampeln Ludwigstraße Ecke Geschwister-Scholl-Platz bzw. Professor-Huber-Platz einrichten
+- TOP 6.11.: Trinkwasserbrunnen in der Maxvorstadt umgehend einrichten - Forderung der Bundesumweltministerin umsetzen
+- TOP 6.12.: Bänke vor dem Haus Karlstraße 49, Bürgeranliegen Antwortschreiben des Sozialreferates zu TOP A 5.2.5/12 2019
+- TOP 6.13.: Verkehrssituation Steinickeweg, Bürgeranliegen Antwortschreiben des Baureferates vom 05.02.2020, TOP A 5.2.5/11 2019
+- TOP 6.14.: Spielplätze verschönern in der Maxvorstadt (2); Maßnahmen am Spielplatz Josephsplatz
+- TOP 6.15.: Keine komplette Sondernutzung von zukünftigen neuen Gehwegflächen in der Augusten straße etc. BA-Antrag Nr. 14-20 / B 07363 vom 14.01.2020, Zwischennachricht
+- TOP 6.16.: Park- bzw. Abstellkonzept für E-Scooter entwickeln
+- TOP 6.17.: Arbeitsbedingungen der sogenannten „Juicer“ der E-Scooter – gegen die Schaffung eines neuen Dienstleistungsprekariats! BA-Antrag Nr. 14-20 / B 06768 vom 10.09.2019, Beantwortung mit Beschlussvorlage
+- TOP 6.18.: Spielplätze verschönern in der Maxvorstadt (4); Maßnahmen am Spielplatz Arnulfpark
+- TOP 6.19.: Einbahnstraßenregelungen und Durchfahrverbote in der Tengstraße zwischen Görres-und Georgenstraße einschließlich der gleichzeitig eingeführten Abbiegerestriktionen unverzüglich zurücknehmen
+- TOP 6.20.: Öffnungszeiten für Freischankflächen, Lärmbelästigung im Bereich Georg-Elser-Platz Antwortschreiben des Referates für Gesundheit und Umwelt (s. TOP A 5.2.7/ 12 2019)
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag SPD vom 10.02.2020 Maxvorstadt „Zero Waste Quarter“
+- TOP 1.2.: Antrag SPD vom 23.02.2020 Erhaltungssatzung ausweiten! Aufnahme der Türekn., Amalien-, Adalbert- und Kurfürsten- straße in das Erhaltungssatzungsgebiet
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 23.02.2020 Ausverkauf der Maxvorstadt verhindern! Neuerlass einer Erhaltungssatzung im Bereich der Maxvorstadt im Umgriff der Türken- straße, Amalienstraße und Schellingstraße
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 24.02.2020 Barer Höfe, Barer Straße 77 – Genehmigung, Neubau und Umbau – Nachfrage
+- TOP 1.5.: Antrag SPD vom 24.02.2020 Sozialcharta Dawonia (ehemals GBW) bei Zweckentfremdung durch Abbruch einbeziehen
+- TOP 2.1.1.: LBK Listen Bauvorhaben: 5., 6., 7., 8. KW
+- TOP 2.1.2.: WEB Listen der LBK: 3., 4., 5., 6., 7. KW
+- TOP 2.1.3.: Schwindstraße 28 Rgb., Umbau und Sanierung eines Rückgebäudes
+- TOP 2.1.4.: Luisenstraße 22, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.1.: Luisenstraße 22, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.2.1.: Linprunstraße 58, eine Esche
+- TOP 3.2.2.: Gabelsbergerstraße 48 b und 48 c, drei Ebereschen
+- TOP 3.2.3.: Deroystraße 4, ein Weißdorn
+- TOP 3.2.4.: Dachauer Straße 21, eine Buche, ein Holunder, eine Fichte und eine Kirsche
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, Fällgenehmigung a) Barer Straße 27, eine Kastanie b) Gabelsbergerstraße 54 u. 54 a, eine Weide
+- TOP 5.2.: Zieblandstraße 11, Fällung eines Gefahrbaumes
+- TOP 5.3.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 5.4.: Bürgerkonvent zu den Themen Wohnen und Verkehr in München Errichtung einer „Koordinierungsstelle für Bürgerbeteiligung“ mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Beschlussvorlage Ausschuss für Stadtplanung und Bauordnung vom 04.03.2020 Sitzungsvorlage Nr. 14-20 / V 17470
+- TOP 5.5.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 5.6.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 5.7.: (U) LOS_DAMA! (Landscape and Open Space Development in Alpine Metropolitan Areas) - Ergebnisse, Andockförderung und weitere Möglichkeiten für Folgeprojekte
+- TOP 5.8.: Baureferat, Baumentfernungen und Gehölzpflegemaßnahmen, Zieblandstraße 11, eine Linde
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 01.02.2020 Rückbau der Schrankenanlage in der Grünfläche Königinstraße
+- TOP 1.2.: Antrag SPD vom 01.02.2020 Schulungsverpflichtung für Personal von Veranstaltern Königsplatz
+- TOP 1.3.: Antrag CSU vom 23.02.2020 Frühjahrsputz: Befreiung des öffentlichen Raumes von Schrotträdern
+- TOP 1.4.: Antrag SPD vom 24.02.2020 Verschmutzung durch die Baustelle „Postpalast“ - nachgefragt
+- TOP 1.5.: Antrag SPD vom 24.02.2020 Blutenburgstraße in Sackgasse umwandeln
+- TOP 1.6.: Antrag SPD vom 24.02.2020 Königsplatz für den Radverkehr ertüchtigen
+- TOP 1.7.: Antrag SPD vom 24.02.2020 Radroute Maillingerstraße – Lothstraße vervollständigen
+- TOP 1.8.: Antrag SPD vom 23.02.2020 Umgestaltung der Barer Straße im Kunstareal
+- TOP 1.9.: Antrag CSU vom 23.02.2020 Markierung Radwege in der Görres- und Augustenstraße
+- TOP 1.10.: Antrag CSU vom 23.02.2020 Spielregeln für E-Scooter als U-Bahn-Werbung
+- TOP 1.11.: Antrag Bündnis 90/die Grünen vom 23.02.2020 Parken auf Geh- und Radwegen verstärkt kontrollieren und mit dem neuen Bußgeld bis zu 100,00 € ahnden
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Anfahrtszone für das Anwesen Oskar-von-Miller-Ring 35 in der Fürstenstraße
+- TOP 2.1.2.: (E) Radweg für die Schellingstraße zur Universität
+- TOP 2.2.1.: (E) Verbreiterung des Bürgersteiges in der Georgenstraße zwischen Hiltensperger- und Adelheidstraße Empfehlung Nr. 14-20 / E 03120 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 28.11.2019
+- TOP 2.2.2.: Ladesäulen/Elektromobilität im Stadtbezirk 3, Barer Straße 29
+- TOP 2.2.3.: Erika-Mann-Straße, Arnulfparkbrücke, Rampe Nord
+- TOP 2.2.4.: (E) In der Grundstückseinfahrt zu den Anwesen Blutenburgstraße 40-42 und 44 sollen Metallpoller aufgestellt werden Empfehlung Nr. 14-20 / E 03116 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 28.11.2019
+- TOP 2.2.5.: Kreisverwaltungsreferat, Anhörung Verbesserung der Abstellsituation von E-Tretrollern (sog. E-Scootern) durch Einrichtung gesonderter Abstellflächen
+- TOP 2.2.6.: Königsplatz, beidseitig zwischen Arcis- und Luisenstraße, gemeinsamer Geh- und Radweg, Straßenunterhalt
+- TOP 2.3.1.: (E) Verstärkte polizeiliche Überwachung und Bestreifung des Umfeldes einer Gaststätte in der Schleißheimer Straße
+- TOP 2.3.2.: Georgenstraße 67, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.3.: Neureutherstraße 24, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Abschluss der Fallarbeit – Franziskusbrunnen am Josephsplatz
+- TOP 3.2.: Baustelleneinrichtungsfläche der Stadtwerke München auf der P+R-Anlage Elisenstraße / Dachauer Straße
+- TOP 3.3.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Einrichtung einer Lieferzone in der Brienner Straße, Parklizenzgebiet „Königsplatz“
+- TOP 3.4.: Arbeiten im Straßenraum a) Denisstraße und Einmündungsbereich Denisstraße/Marsstraße, Fernwärme/Fernkälte b) Kreuzung Marsstraße/Seidlstraße, Fernwärme und Gas
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mobilitätsplan für München – Sachstand der Phase II der Modellstadt 2030, Sachstand und weiteres Vorgehen zum Mobilitätsplan, Behandlung der Stadtratsanträge Sitzungsvorlage, Nr. 14-20 / V 17371
+- TOP 3.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nahverkehrsplan der Landeshauptstadt München Sitzungsvorlage Nr. 14-20 / V 15439
+- TOP 3.7.: MVG Sonderfahrplan U1 vom 15.03. bis 19.03.2020
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Radstellplätze Kardinal-Döpfner-Straße (Haus der Bayerischen Landkreise)
+- TOP 3.10.: Baumaßnahmen der Stadtwerke a) Theresienstraße/Ecke Ludwigstraße, Gas b) Amalienstraße 15, Strom
+- TOP 3.11.: Verkehrsrechtliche Anordnung, Aufhebung eines personenbezogenen Behindertenpark- platzes im Bereich Prinz-Ludwig-Straße 3
+- TOP 3.12.: Austausch von Lichtsignalanlagen: Karl-/Pappenheimstraße
+- TOP 3.13.: Schleißheimer Straße 41, Anordnung Tempo 30 vor Kindertagesstätte („Kinder hoch 3“)
+- TOP 3.14.: Theresienstraße 83, Anordnung Tempo 30 vor Kindertagesstätte („KiGa Theresienstr. e.V.“)
+- TOP 3.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Kreisverwaltungsreferat, Nachtrag zur Anhörung Parade zum St. Patricksday am 14./15.03.2020 Eilentscheidung des Vorsitzenden: Zustimmung
+- TOP 3.18.: Kardinal-Döpfner-Straße 8, Einrichtung von Fahrradabstellplätzen, Schreiben des Bau- referates an eine Rechtsanwaltskanzlei
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 24.02.2020 Antrag auf Auskunft über die Sanierung bzw. Abriss und Neubebauung der Förderschule auf dem Grundstück Dachauer Straße 96
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein Schwindschule e.V. Lernförderung und Hausaufgabenbetreuung vom 16.03.2020 - 12.03.2021 6.660,00 Euro, Az.: 0262.0-3-0292
+- TOP 2.2.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Inklusion in Bewegung vom 21.04. - 14.05.2020 4.270,00 Euro, Az.: 0262.0-3-0298
+- TOP 2.3.: Spielnachmittage des Referates für Bildung und Sport in städtischen Grünanlagen von Mai 2020 bis April 2021
+- TOP 2.4.: (E) Stadtbezirksbudget Mittagsbetreuung Schwindschule e.V. Ausflug der Mittagsbetreuung am 16.03.2020 1.089,00 Euro, Az.: 0262.0-3-0297
+- TOP 2.5.: (E) Stadtbezirksbudget InitiativGruppe e.V. interkulturelle Begegnung und Bildung Deutschcafé vom 01.04. - 31.12.2020 4.200,00 Euro, Az.: 0262.0-3-0299
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Sozialreferat, Übersicht Unterkünfte Wohnungslose und Flüchtlinge Dezember 2019
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Behördenorchester e.V. Vorbereitung für das Konzert in der LMU vom 20. - 22.03.2020 1.857,00 Euro, Az.: 0262.0-3-0294
+- TOP 2.2.: (E) Stadtbezirksbudget GEDOK München e.V. Lesung "Walpurgisnacht der Literatinnen" vom 18.03. - 30.04.2020 600,00 Euro, Az.: 0262.0-3-0296
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Brahms-Chor e.V. Mater-Marienkompositionen am 27.03.2020 2.020,00 Euro, Az.: 0262.0-3-0295
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "jewellery-not jewellery" Ausstellung "jewellery-not jewellery" vom 09.03. - 15.03.2020 3.411,00 Euro, Az.: 0262.0-3-0293
+- TOP 2.5.: Kulturreferat, Beschlussvorlage „Kunst im öffentlichen Raum“ vertagt aus der Sitzung am 11.02.2020, TOP E 2.6
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
