@@ -1,0 +1,7 @@
+# TOP 29.3: Anfragen und Mitteilungen; Verkehrsberuhigung Aspelweg hier: Antrag nach § 24 GO NRW vom 14.11.2019 – Ergebnis der Verkehrsschau
+
+- Sitzung: Stadtentwicklungsausschuss (32. Sitzung) (2020-03-10)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/35520
+- Beratung: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/consultation/44322
