@@ -1,0 +1,63 @@
+# 42. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-10T15:40:00+01:00
+- Ende: 2020-03-10T19:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21675
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21675
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten, hier: Filmkultur - zurückgestellt
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Schriftl. Antrag von SPD, CDU, Bündnis 90/Grüne, Die Linke, FDP, RG GUT, W. Wortmann u. L. Gerlach; hier: NSDOK: Gebühren für Führungen von Kölner Schülerinnen und Schüler abschaffen - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Entwicklung und Renovierung Volkhovener Weg 209 - 211 als Atelierstandort - zurückgestellt
+- TOP 4.2: Vergabe der Fördermittel in den Schwerpunkten „Produktionen und Sonderprojekte“ und „Cologne Music Export“ - ungeändert beschlossen
+- TOP 4.3: Neubesetzung des Beirats Filmkultur - ungeändert beschlossen
+- TOP 4.4: Entgelt- und Honorarordnung für den Museumsdienst Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Gründung der Film Festival Cologne GmbH - ungeändert empfohlen
+- TOP 4.6: Beauftragung einer Umzugsspedition für den Bezug des Neubaus am Eifelwall durch Historisches Archiv - ungeändert beschlossen
+- TOP 4.7: Freigabe und Vergabe der Fördermittel für den Verein "Theaterpädagogisches Zentrum Köln e. V." in 2020 - ungeändert empfohlen
+- TOP 4.8: Freigabe des Betriebskostenzuschuss für den Verein "afroTopia e. V." - ungeändert empfohlen
+- TOP 4.9: Freigabe der Mittelerhöhung zur institutionellen Förderung der Initiative Kölner Jazz Haus e.V. Europäisches Zentrum für Jazz und aktuelle Musik in 2020 und 2021 - ungeändert empfohlen
+- TOP 4.10: Freigabe und Vergabe der Fördermittel "Jazzstadt Köln" in 2020 und 2021 - ungeändert empfohlen
+- TOP 4.11: Freigabe und Vergabe der Fördermittel "IFM Organisatorische Stärkung" in 2020 und 2021 als befristete institutionelle Förderung - zurückgestellt
+- TOP 4.12: Freigabe der Mittelerhöhung zur institutionellen Förderung von ON Neue Musik Köln e.V. zur Vorbereitung und Durchführung eines Musiktheaterfestivals in 2020 und 2021 - ungeändert empfohlen
+- TOP 4.13: Freigabe und Vergabe der Fördermittel "Freie Projektmittel für den Initiative Freie Musik e.V." - zurückgestellt
+- TOP 4.14: Freigabe der Mittelerhöhung zur institutionellen Förderung für Filminitiativ Köln e.V./Afrika Film Fest Köln - geändert beschlossen
+- TOP 4.15: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: "Erhöhung des Förderetats für interkulturelle Projekte" sowie "Etatisierung eines Förderbudgets für freie inklusive Kulturarbeit" - ungeändert empfohlen
+- TOP 4.16: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2020, Teil 1 - ohne Votum in nachfolgende Gremien
+- TOP 4.17: Bedarfsfeststellungsbeschluss zur Anmietung neuer Räume für die Kunst- und Museumsbibliothek - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen 2020 - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vorstellung des Spielplans der Puppenspiele der Stadt Köln für die Spielzeit 2020/2021 - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Einrichtung eines Begleitgremiums Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung - zurückgestellt
+- TOP 8.4: Externe Studie "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 11. Februar 2020 - Kenntnis genommen
+- TOP 9.2: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 29. Februar 2020 - Kenntnis genommen
+- TOP 9.3: Sachstand Neubau des Historischen Archivs mit Rheinischem Bildarchiv
+- TOP 9.4: Sachstand Zentralbibliothek Köln
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündl. Nachfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow) aus der Sitzung des KuK am 26.11.2019 - Kenntnis genommen
+- TOP 10.2: Schriftl. Anfrage der Denkmalpflege, Dr. Kierdorf, hier: Denkmalschutz für Historische Eisenbahnüberführungen
+- TOP -: Beantwortung der schrift. Anfrage der Denkmalpflege, Dr. Kierdorf, hier: Denkmalschutz für Historische Eisenbahnüberführungen - Kenntnis genommen
+- TOP 10.3: Schriftl. Anfrage der Denkmalpflege, Dr. Kierdorf, hier: Einrichtung vom Denkmalbereichen in Köln
+- TOP -: Beantwortung der schrift. Anfrage der Denkmalpflege, Dr. Kierdorf, hier: Einrichtung von Denkmalbereichen in Köln - Kenntnis genommen
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftl. Anfrage der Fraktionen CDU und Bündnis 90 / Die Grünen, hier: Sachstand Simultanhalle - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 12: Mündliche Anfragen
