@@ -1,0 +1,120 @@
+# DIESE SITZUNG WURDE ABGESAGT!!!! 40. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-03-11T17:00:00+01:00
+- Ende: 2020-03-11T17:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5240
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5240
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - (offen)
+- TOP 1.1: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Lokaler Bildungsverbund im Märkischen Viertel - vertagt
+- TOP 1.2: Planung Jugend-Freizeiteinrichtung Tegel - Nutzer*innen beteiligen! - vertagt
+- TOP 1.3: Verkehrsmengenerhebungen des fließenden Verkehrs - vertagt
+- TOP 1.4: Sicher mit dem Fahrrad von Tegel nach Lübars I - vertagt
+- TOP 1.5: Anschlag auf ein Restaurant in Wittenau - vertagt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Parksituation im Gewobag-Wohngebiet in Tegel-Süd - schriftlich beantwortet
+- TOP 2.2: Straßensperrung Elsestraße Hermsdorf - in der BVV zurückgezogen
+- TOP 2.3: Modalfilter Waldseeviertel - vertagt
+- TOP 2.4: Sperrung Elsestraße - vertagt
+- TOP 2.5: Verkehrsprobleme zwischen Glienicke und Hermsdorf - vertagt
+- TOP 2.6: Sperrung Elsestraße und Schildower Straße - vertagt
+- TOP 2.7: Umbau Residenzstraße - schriftlich beantwortet
+- TOP 2.8: Schließung zweier Verbindungsstraßen zwischen Hermsdorf und Glienicke - vertagt
+- TOP 2.9: Schließung der Elsestraße und Schildower Straße - vertagt
+- TOP 2.10: Schäfersee - schriftlich beantwortet
+- TOP 2.11: Veterinäramt Reinickendorf - zurückgezogen
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 40. Sitzung der BVV am 11.03.2020 - gegenstandslos
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Neubau Grundschule in Reinickendorf-Ost - schriftlich beantwortet
+- TOP 4.2: Schutzmaßnahmen vor Corona-Virus - schriftlich beantwortet
+- TOP 4.3: Unterstützung von Wirtschaftsunternehmen in Reinickendorf - schriftlich beantwortet
+- TOP 4.4: Welt-Wasser-Tag zum Thema "Wasser und Klimaschutz" - schriftlich beantwortet
+- TOP 4.5: Transphobe Straftaten - schriftlich beantwortet
+- TOP 4.6: Informationssäule Widerstandsgruppe Mannhart - schriftlich beantwortet
+- TOP 4.7: Kriterien für Entscheidungen durch den Amtsarzt - schriftlich beantwortet
+- TOP 4.8: Kommunales Nachbarschaftsforum Berlin und Brandenburg - schriftlich beantwortet
+- TOP 4.9: Wegeleitsystem Rathaus - schriftlich beantwortet
+- TOP 4.10: Öffnungszeiten Bau-Archiv - schriftlich beantwortet
+- TOP 4.11: Bürgerfest am Rathaus 21. - 23. 05.2020 - schriftlich beantwortet
+- TOP 4.12: Verzögerung Grundschulbau Reinickendorf-Ost - schriftlich beantwortet
+- TOP 4.13: Beantwortung der Drucksache 1551/XX - schriftlich beantwortet
+- TOP 4.14: Stärkere Vermarktung des Tourismuspotentials in Reinickendorf - schriftlich beantwortet
+- TOP 4.15: Zurückgegebene Trainingszeiten - schriftlich beantwortet
+- TOP 4.16: Schädlingsbefall in Reinickendorf - schriftlich beantwortet
+- TOP 4.17: Verbote in der Grünanlage Schäfersee - schriftlich beantwortet
+- TOP 4.18: Baumaßnahmen an Reinickendorfer Schulen - schriftlich beantwortet
+- TOP 4.19: Autofreier Tag 2020 - schriftlich beantwortet
+- TOP 4.20: Auswirkungen der verzögerten Fertigstellung der Straßenbaumaßnahme Oranienburger Straße - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - vertagt
+- TOP 6.2: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - vertagt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Wartezeiten im Bürgeramt abbauen - vertagt
+- TOP 7.2: Grundinstandsetzung der Zufahrt in der Ollenhauerstraße 65A - 64E / am Kienhorstpark - vertagt
+- TOP 7.3: Unterstützung beim Säubern Reinickendorfer Gewässer - vertagt
+- TOP 7.4: Parkleitsystem für Tegel - vertagt
+- TOP 7.5: Außenstellen der Polizei in Reinickendorf - vertagt
+- TOP 7.6: Erweiterung der Kapazitäten des "Bollerwagens" - vertagt
+- TOP 7.7: Jugendfreizeiteinrichtung in Tegel - vertagt
+- TOP 7.8: Die Freiwilligen Feuerwehren stärken - vertagt
+- TOP 7.9: Errichtung einer Blitzersäule (Geschwindigkeitserfassung) an der gefährlichen Kreuzung Holländerstraße/Markstraße Richtung Osloer Straße - vertagt
+- TOP 7.10: Schutz vor Wohnungseinbrüchen verbessern - vertagt
+- TOP 7.11: Sauberkeit auf Wirtschaftswegen - vertagt
+- TOP 7.12: Flughafensee - Illegales Zelten kontrollieren - vertagt
+- TOP 7.13: Hippotherapeutisches Zentrum auf dem Gelände der Karl-Bonhoeffer-Nervenklinik erhalten - vertagt
+- TOP 7.14: Umsetzung des Digitalpaktes in Reinickendorf - vertagt
+- TOP 7.15: Bike Flashes - vertagt
+- TOP 7.16: Kunstschule Atrium erhalten - vertagt
+- TOP 7.17: Standorte für Angebote der offenen Kinder- und Jugendarbeit - vertagt
+- TOP 7.18: Parkkontrollen in der Treuenbrietzener Straße 14 - vertagt
+- TOP 7.19: Mittel erhöhen für "Fluchtwohnungen" - vertagt
+- TOP 7.20: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldt-Klinikum (Bereich Somatik) für das Jahr 2019 - vertagt
+- TOP 7.21: Jahresbericht der Patientenfürsprecherin aus dem Vivantes Humboldt-Klinikum (Bereich Psychiatrie) für das Jahr 2019 - vertagt
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - vertagt
+- TOP 10.2: Kiezfonds 2019 - vertagt
+- TOP 10.3: Den Kiezfonds wieder in die Kieze geben - vertagt
+- TOP 10.4: Mehr Verkehrssicherheit im Oraniendamm - vertagt
+- TOP 10.5: Mehr Fahrradständer für den U-Bahnhof Holzhauser Straße - vertagt
+- TOP 10.6: Bauliche Fahrplanänderungen bei der S-Bahn wieder sehbehindertengerechter auf den Bahnhöfen aushängen - vertagt
+- TOP 10.7: Strandbad Tegel - Busanbindung wiederherstellen - vertagt
+- TOP 10.8: Strandbad Tegel - Mehr Fahrradabstellanlagen zur Verfügung stellen - vertagt
+- TOP 10.9: Kopftuchverbot für Schülerinnen bis einschließlich Klasse 6 - vertagt
+- TOP 10.10: IGSV - auch in Reinickendorf umsetzen - vertagt
+- TOP 10.11: Temporäre Modalfilter im Waldseeviertel und Evaluation der Auswirkungen einer Schließung - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Halteverbot im Waidmannsluster Damm durchsetzen - vertagt
+- TOP 12.2: Schulen werden KlimaMacher! - vertagt
+- TOP 12.3: Transparenter Mobilitätsrat - vertagt
+- TOP 12.4: Desinfektionsmittelspender an Eingängen zu öffentlichen Gebäuden installieren - vertagt
+- TOP 12.5: Haltelinie an Autobahnauffahrt Holzhauser Straße/Firma MF Oils vorverlegen - vertagt
+- TOP 12.6: Bordsteinabsenkung Alt-Tegel/Treskowstraße - vertagt
+- TOP 12.7: Noch (k)ein ökologisch mobiler Bezirksbürgermeister - vertagt
+- TOP 12.8: Erstellung eines Tourismuskonzepts für den Bezirk Reinickendorf - vertagt
+- TOP 12.9: Zusatzausstattung mit Geschirr der Seniorenfreizeitstätten in Reinickendorf - vertagt
+- TOP 12.10: Open Data Strategie für Reinickendorf - vertagt
+- TOP 12.11: Stärkere Vermarktung des Tourismuspotentials in Reinickendorf - vertagt
+- TOP 12.12: Illegale Müllentsorgung verhindern - vertagt
+- TOP 12.13: Kreuzung Alt-Wittenau / Techowpromenade - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Bushaltestelle an der Jugendherberge Ernst-Reuter umbenennen - vertagt
+- TOP 13.2: Hubschrauberstaffel zeitnah zum BER umsetzen - vertagt
+- TOP 13.3: BSR Recyclinghof Lengeder Straße auch für Farben und Lacke öffnen - vertagt
+- TOP 13.4: BerlKönig auch in Frohnau und Hermsdorf - vertagt
+- TOP 13.5: Sichere Querung Veitstr./Treskowstr. - vertagt
+- TOP 13.6: Aktivierung vom OParl Modul für Allris - vertagt
+- TOP 13.7: Angebot der Buslinie 327 ausweiten - vertagt
+- TOP 13.8: Behindertengerechte Bushaltestellen am U-Bhf. Alt-Tegel - vertagt
