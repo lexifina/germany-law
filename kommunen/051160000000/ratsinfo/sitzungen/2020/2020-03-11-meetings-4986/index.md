@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-03-11T15:00:00+01:00
+- Ende: 2020-03-11T00:00:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4986
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4986
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183581.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183581.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183581.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2019 bis 31.12.2019 - Kenntnisnahme
+- TOP 2: Aufstellung von Nebentätigkeiten des Oberbürgermeisters gemäß § 17 Korruptionsbe-kämpfungsgesetz - Kenntnisnahme
+- TOP 3: Glasfaserausbau Gigabitstrategie - Kenntnisnahme
+- TOP 4: Teilnahme am Förderwettbewerb "Modellprojekte Smart Cities: Stadtentwicklung und Digitalisierung" vom Bundesministerium des Innern, für Bau und Heimat – Zweite Wettbewerbsrunde - Siehe Niederschrift
+- TOP 4.1: Vorlage Nr. 4499/IX: Teilnahme am Förderwettbewerb „Modellprojekte Smart Cities: - Siehe Niederschrift
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 6: Sachstandsbericht zur Beteiligung der NEW Smart City GmbH an der share2drive GmbH - Ohne Abstimmung
+- TOP 6.1: Rückabwicklung der Beteiligung der NEW an der share2drive GmbH, hier: Haftungsansprüche gegenüber handelnden Personen - Siehe Niederschrift
+- TOP 6.2: TOP 6 – Sachstandsbericht zur Beteiligung der NEW Smart City GmbH an der share2drive GmbH (Vorlagen-Nr. 4467/IX) - Siehe Niederschrift
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (5. Nachweisung) - Kenntnisnahme
+- TOP 8: Apl. Bereitstellung Erhöhung Rückstellung REME Gelände - Mit Stimmenmehrheit beschlossen
+- TOP 9: Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach im Jahr 2020 - Mit Stimmenmehrheit beschlossen
+- TOP 10: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 10.1: Vorlage Nr. 4377/IX: Rahmenplan "Offener Ganztagund schulische Betreuung“ im Primarbereich; hier: Umgestaltung von Schulen und Offenen Ganztagsschulen/ Neueinrichtung von OGS-Gruppen - Mit Stimmenmehrheit abgelehnt
+- TOP 11: Olympia-Bewerbung "Rhein Ruhr City 2032" - Siehe Niederschrift
+- TOP 12: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 13: Kindergartenbedarfsplanung für das Kindergartenjahr 2020/2021 - Siehe Niederschrift
+- TOP 14: Einrichtung von weiteren Familienzentren an Grundschulen - Einstimmiger Beschluss
+- TOP 15: Fenster- und Fassadensanierung der Ostfassade am Gebäudeteil 3 der Comenius-Hauptschule in Mönchengladbach - Einstimmiger Beschluss
+- TOP 16: Mönchengladbach als Teil einer Modellregion für das 365-Euro-Ticket - Vom Antragsteller zurückgezogen
+- TOP 17: Vorgaben zur Vergabe externer Gutachten, Expertisen und Präsentationen - hier: Urheberschutz und Veröffentlichungsrecht - Mit Stimmenmehrheit abgelehnt
+- TOP 18: Wohnumfeldverbesserung in den Stadtteilen / Masterplan periphere Stadtteile - Mit Stimmenmehrheit beschlossen
+- TOP 19: Einführung einer Rufbereitschaft für den Kommunalen Ordnungsdiesnt in Mönchengladbach auch an Sonn- und Feiertagen - Mit Stimmenmehrheit beschlossen
+- TOP 20: Sparen durch mehr Komfort und Sicherheit für Radfahrende; hier: Antrag der Ratsfraktion DIE LINKE. vom 28.01.2020 - Mit Stimmenmehrheit abgelehnt
+- TOP 21: Bewerbung ‚Wettbewerb Naturstadt‘ - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Kündigung des Nutzungsvertrags mit dem Cafeteriaverein der GES Espenstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Vorlage Nr. 4384/IX: Eingangsklassenbildung an den städtischen Grundschulen im Schuljahr 2020/21 - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Sachstände von Beteiligungen - Siehe Niederschrift
+- TOP 25: Getränkeangebot für Besucher*innen der Ratssitzungen - Vom Antragsteller zurückgezogen
+- TOP 26: Heimatpreis - Einstimmiger Beschluss
+- TOP 27: Neubau des ZOB, hier: Sicherstellung eines attraktiven zukunftssicheren ÖPNV-Knotenpunktes - Siehe Niederschrift
+- TOP 27.1: Neubau des ZOB, hier: Sicherstellung eines attraktiven zukunftssichern ÖPNV-Knotenpunktes; Antrag der FDP-Ratsfraktion (TOP-27-Vorlage 4473/IX) - Siehe Niederschrift
+- TOP 27.2: Vorlage Nr. 4473/IX: Neubau des ZOB, hier: Sicherstellung eines attraktiven zukunftssicheren ÖPNV-Knotenpunktes; Antrag der FDP-Ratsfraktion vom 19.02.2020 - Siehe Niederschrift
+- TOP 28: Umbesetzung in Gremien - Einstimmiger Beschluss
+- TOP 29: Umbesetzung von Gremien - Ohne Abstimmung
+- TOP 30: Beitritt der Stadt Mönchengladbach zur Städte-Initiative des Bündnisses „Sichere Häfen“ zur Aufnahme von Flüchtlingen - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Anfragen und Mitteilungen
