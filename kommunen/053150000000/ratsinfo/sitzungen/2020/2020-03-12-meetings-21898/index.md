@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Porz - Sitzung fällt aus
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-12T17:00:00+01:00
+- Ende: 2020-03-12T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21898
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21898
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand Schulbau in Porz
+- TOP -: Sachstand Porz Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Umleitung Großbaustellen in Porz 2017/2018 (Az.: 02-1600-92/17) - zurückgestellt
+- TOP -: Änderungsantrag der SPD - Fraktion zu TOP 2.1: Baustellenverkehr - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion - Bürgereingabe „Umleitung Großbaustellen in Porz 2017/2018 - zurückgestellt
+- TOP -: Änderungsantrag CDU, Grüne, FDP - Umleitung Großbaustelle in Porz 2017/2018 - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - zurückgestellt
+- TOP -: Änderungsantrag der CDU, Grüne, FDP - Verkehrssituation Linder Mauspfad - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation auf der Hohenstaufenstrasse (Az.: 02-1600-246/19) - zurückgestellt
+- TOP -: Änderungsantrag CDU, Grüne, FDP - Bürgereingabe Hohenstaufenstraße - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Herstellung einer Teilfläche in der Schubertstraße - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Gehweganbindung Vor den Feldern/Im Bodesfeld in Wahn - zurückgestellt
+- TOP 6.3: Haushaltsplan Doppelhaushalt 2020/2021 - Veranschlagung BO-Mittel - zurückgestellt
+- TOP 6.4: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr2020 - zurückgestellt
+- TOP 6.5: Sportanlage Brucknerstraße - Kunststoffrasen-Belagserneuerung - zurückgestellt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP -: Änderungsantrag CDU, Grüne, FDP - Herstellung von Barrierefreiheit - zurückgestellt
+- TOP -: Ergänzungsantrag SPD - Stellplatzregulierung für Elektrokleinstfahrzeuge - zurückgestellt
+- TOP 7.2: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - zurückgestellt
+- TOP 7.2: Änderungsantrag zur Vorlage 3406/2019, Gewässerentwicklungskonzept - zurückgestellt
+- TOP 7.3: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 7.4: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 "Zuhaus im Veedel - Aktivierung und Beteiligung im Quartier" - Sozialraum Porz-Ost, Finkenberg, Gremberghoven und Eil, Quartier Finkenberg - zurückgestellt
+- TOP 7.5: Dringlichkeitsantrag der Bezirksvertretung Porz vom 13.06.2019 (AN/0851/2019) betr. Wohnungsbauprogramm Südlich Friedensstraße Bebauungsplan Nr. 76380/03 (Session 1106/2019: Mitteilung zur Offenlage) - zurückgestellt
+- TOP -: Änderungsantrag Wohnungsbauprogramm Südlich Friedensstraße - zurückgestellt
+- TOP 7.6: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 7.7: Ersatz eines maroden Schulklassenpavillons an der Katholischen Grundschule Hinter der Kirche 3-5, 51143 Köln (Porz) - Bedarfsanerkennung und Baubeschluss - zurückgestellt
+- TOP 7.8: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Dringlichkeitsantrag der SPD-Fraktion - Planungsstart zur Verlängerung der Linie 7 - zurückgestellt
+- TOP -: Änderungsantrag der CDU, Grüne, FDP - Planungsstart zur Verlängerung der Linie 7 - zurückgestellt
+- TOP 8.4: Antrag CDU-Fraktion - Sachvortrag über die Spielhallen und Wettbüros im Stadtbezirk Porz - zurückgestellt
+- TOP 8.5: Antrag SPD-Fraktion - Jugend-BV - zurückgestellt
+- TOP 8.6: Antrag CDU-Fraktion -Halteverbotsschilder im Bereich der Houdainer Straße in Höhe der alten Gewächshäuser in Porz-Zündorf - zurückgestellt
+- TOP 8.7: Antrag SPD-Fraktion - Schutzhütten als Aufenthaltsorte für Jugendliche im Stadtbezirk Porz - zurückgestellt
+- TOP -: Änderungsantrag CDU, Grüne, FDP - Jugendbänke und - unterstände - zurückgestellt
+- TOP 8.8: Antrag CDU-Fraktion - Sachstandsbericht zur Verbesserung des Verkehrsflusses und der Parksituation entlang der Hauptstraße in Porz-Zündorf - zurückgestellt
+- TOP 8.9: Dringlichkeitsantrag der SPD-Fraktion - Planungsstart zur Veränderung der Porzer Fußgängerbrücke - zurückgestellt
+- TOP 8.10: Dringlichkeitsantrag CDU, Grüne, FDP - Wettbüro in der Bahnhofstarße 39 in Porz-Mitte - zurückgestellt
+- TOP 8.11: Dringlichkeitsantrag CDU, Grüne, FDP - Feststellungsklage beim Verwaltungsgericht zur Überprüfung einer möglichen Verletzung - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Anfrage der FDP Köln nach § 4 der GO des Rates der Stadt Köln zur Sitzung der Bezirksvertretung am 10.09.2019 zum Thema "Aufenthaltssorte für Jugendliche in Porz." - zurückgestellt
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung einer Anfrage zum Gewässerentwicklungskonzept - hier: Weiher in Wahn-Heide und Grengel - zurückgestellt
+- TOP 9.1.3: Anfrage zur Sitzung der Bezirksvertretung Porz am 13.11.2018 - zurückgestellt
+- TOP 9.1.3: Anfrage der SPD-Fraktion: Spielplatzbedarfsplanung der Stadt Köln, Stadtteil Finkenberg - zurückgestellt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Anfrage der CDU-Fraktion - Köln-Porz-Wahnheide:Der Bieselwald zwischen Nachtigallenstraße, Bieselweg, Neue Heide, - Sache ist erledigt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresberichte 2017, 2018, Bezirk 7, Wahner Heide - zurückgestellt
+- TOP 10.2.2: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 10.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.4: Sachstandsbericht zum Umbau der Kreuzung Hauptstraße/Steinstraße in Porz-Mitte - zurückgestellt
+- TOP 10.2.5: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 10.2.6: Förderung "Veedelszöch" 2020 - Vergabe der Mittel für die Veedelsumzüge im Stadtbezirk Porz - zurückgestellt
+- TOP 10.2.7: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 10.2.8: Protokoll über die Sitzung der Jugend-BV am 22.11.2019 - zurückgestellt
+- TOP 10.2.9: Verhinderung weiter Wettbüros in Porz-Dringlichkeitsantrag der SPD-Fraktion AN/0124/2020 - zurückgestellt
+- TOP 10.2.10: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 10.2.11: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf mit der Nummer 7340/02 Arbeitstitel: Kölner Straße / Hauptstraße in Köln-Porz-Ensen - zurückgestellt
+- TOP 10.2.12: 220. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz-Elsdorf Arbeitstitel: Fuchskaule in Köln-Porz-Elsdorf - zurückgestellt
+- TOP 10.2.13: Fertiggestelle Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Porz - zurückgestellt
+- TOP 10.2.14: Verbreiterung Mendener Straße in Poll - zurückgestellt
+- TOP 10.2.15: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
+- TOP 11: Annahme von Schenkungen
