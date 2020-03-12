@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-12T16:00:00+01:00
+- Ende: 2020-03-12T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21682
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21682
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 12.03.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764161.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 12.03.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764161.pdf
+- Wortprotokoll: Tagesordnung, Stand 12.03.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764161.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: EFRE Grüne Infrastruktur - Vielfalt vernetzen - ungeändert beschlossen
+- TOP 4.1.3: Wahl der Vertreter des Rates in der Jurysitzung des Umweltschutzpreises der Stadt Köln - ungeändert beschlossen
+- TOP 4.1.4: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 4.1.5: Besondere Regelung zur "Straßenmusik im Domumfeld" - ohne Votum in nachfolgende Gremien
+- TOP 4.1.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Satzungsänderung - ungeändert beschlossen
+- TOP 4.1.7: Grün hoch 3 - ungeändert beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Stadtgrün naturnah - ungeändert beschlossen
+- TOP 4.2.2: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - geändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung von zwei Hubarbeitsbühnen auf LKW-Fahrgestellen für die Baumpflege - ungeändert beschlossen
+- TOP 4.2.4: Ersatzbeschaffung von 3 Schmalspurgeräteträgern für den Grünbereich - ungeändert beschlossen
+- TOP 4.2.5: Beschaffung von 4 Gießarmgespannen inclusive Tankwagen für den Anbau an Kompaktschlepper der Grünunterhaltung - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Förderwettbewerb Modellregion Wasserstoffmobilität - Kenntnis genommen
+- TOP 7.2: Integriertes Management im Dezernat V - Kenntnis genommen
+- TOP 7.3: Obstbaumpflanzungen in Wahn, Wahnheide und Lind - Kenntnis genommen
+- TOP 7.4: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 7.5: Folgen der beiden trockenen und heißen Sommer der Jahre 2018/19 für den Kölner Baumbestand - Kenntnis genommen
+- TOP 7.6: Bushaltestellen für Bienen begrünen - Kenntnis genommen
+- TOP 7.7: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 03.03.2020 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
