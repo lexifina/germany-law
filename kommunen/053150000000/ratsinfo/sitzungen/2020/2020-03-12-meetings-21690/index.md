@@ -1,0 +1,85 @@
+# 53. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-12T15:07:00+01:00
+- Ende: 2020-03-12T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21690
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21690
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764466.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764466.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00764466.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Mehr Sicherheit für KVB-Servicemitarbeiterinnen und -mitarbeiter Pilotprojekt mit Bodycams aufsetzen - geändert beschlossen
+- TOP 1.1.1: Pilotprojekt mit Bodycams AN/0193/2020 - ungeändert beschlossen
+- TOP 1.2: Antrag des Seniorenvertreters Meurers betr. Schaltung von Fußgängerampeln - endgültig zurückgezogen
+- TOP 1.3: Anwohnerinnen und Anwohner in Mülheim vor Dieselabgasen und Lärm schützen – Landstromanlagen am Rheinufer einrichten! - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - geändert beschlossen
+- TOP 3.1.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen - endgültig abgelehnt
+- TOP 3.1.2: Sitzen statt parken – nicht nur für Geld! – Ergänzungsantrag zu Top 3.1 „Sitzen statt Parken - Außengastronomie auf Stellplätzen“ - endgültig abgelehnt
+- TOP 3.2: Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall sowie Freigabe von investiven Auszahlungsermächtigungen - im ersten Durchgang verwiesen
+- TOP 3.2.1: "Verbindung des Grüngürtels schaffen" – Änderungsantrag zu Top 3.2 „Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall“ - im ersten Durchgang verwiesen
+- TOP 3.3: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 3.4: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - im ersten Durchgang verwiesen
+- TOP 3.4.1: Änderungsantrag zu Vorlage 0473/2020 – Einrichtung eines Radfahrstreifens auf der Aachener Straße - im ersten Durchgang verwiesen
+- TOP 3.5: Instandsetzung der Straßen "Mühlenbach" und "An der Malzmühle" - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bahnsteiganhebung Haltestelle Barbarossaplatz - ungeändert empfohlen
+- TOP 4.2: Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - ungeändert empfohlen
+- TOP 4.3: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - ohne Votum in nachfolgende Gremien
+- TOP 4.3.1: Änderungsantrag gemäß § 13 der Geschäftsordnung des Rates der Stadt Köln Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - mit Änderungen empfohlen
+- TOP 4.6: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Dritte Satzung zur Änderung der Satzung der Stadt Köln vom 28.02.2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.8: Achtzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.9: Ergänzung der Richtlinie der Stadt Köln zur Förderung nach § 11 Abs. 2 ÖPNVG NRW aus 2012 zuletzt geändert durch (Beschluss 1027/2019) vom 26.09.2019 - ungeändert empfohlen
+- TOP 4.10: Ergänzung des Stadtbahnvertrages "Linie 1" - ungeändert empfohlen
+- TOP 4.11: Baubeschluss für die Generalinstandsetzung des Deutzer Ringes zwischen östlichem Zubringer und der Severinsbrücke in beiden Fahrtrichtungen (Bauabschnitt 2 und 3) sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Fin - ungeändert empfohlen
+- TOP 4.12: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - zurückgestellt
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Gummersbacher Straße - Umsetzung der Beschlusslage - Sache ist erledigt
+- TOP 5.2.1.1: Gummersbacher Straße - Umsetzung der Beschlusslage - zurückgestellt
+- TOP 5.2.2: Anfrage des Seniorenvertreters Meurers betr. Parken auf Behindertenparkplätzen - Sache ist erledigt
+- TOP 5.2.2.1: Anfrage gem. § 4 der Geschäftsordnung, Parken auf Behindertenparkplätzen - zurückgestellt
+- TOP 5.2.3: Welche Ideen hat die Verwaltung, um die Situation am Chlodwigplatz zu verbessern ? - Sache ist erledigt
+- TOP 5.2.4: Rechtswidrige Tempolimits in Köln? - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Radarkontrollen in Köln - Sache ist erledigt
+- TOP 6.2: "Vorbild Berlin: Eigene Abschleppfahrzeuge für die KVB?"- Anfrage der Fraktion Die Linke. vom 16.01.2020 (AN/0086/2020) - Sache ist erledigt
+- TOP 6.3: "Auswirkungen der Brückensanierungsmaßnahme Deutz-Mühlheimer-Straße"- Anfrage von der CDU Fraktion - Sache ist erledigt
+- TOP 6.4: Sachstand zur Umsetzung der im Radverkehrskonzept Innenstadt definierten Fahrradstraße - Sache ist erledigt
+- TOP 6.5: Vervollständigung der Fußgängerinfrastruktur - Umsetzung des alten Luftreinhalteplanes in seiner Fortschreibung aus dem Jahr 2012 - Sache ist erledigt
+- TOP 6.6: Freihaltetrassen und möglicher Vorlaufbetrieb - zurückgestellt
+- TOP 6.7: Busspur Innere Kanalstraße - zurückgestellt
+- TOP 6.8: Einrichtung von Radfahrstreifen auf dem Ubierring - Sache ist erledigt
+- TOP 6.9: Bilanz der Kommission zur Stärkung der Bezirke - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 7.2.2: Förderwettbewerb Modellregion Wasserstoffmobilität - Kenntnis genommen
+- TOP 7.2.3: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 7.2.4: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 7.2.5: Radschnellweg Köln-Frechen - Kenntnis genommen
+- TOP 7.2.6: 3. Baustufe Nord-Süd Stadtbahn / Aktueller Sachstand und Bauzeit - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Abriss der Fußwegbrücke und Neubau einer ebenerdigen Querung über die Luxemburger Straße an der Stadtbahnhaltestelle Weißhausstraße - Kenntnis genommen
+- TOP 7.2.8: Geestemünder Straße von Neusser Landstraße bis Industriestraße - Kenntnis genommen
+- TOP 7.2.9: Bau einer provisorischen Fuß- und Radwegerampe an der linksrheinischen unterstromigen Seite der Hohenzollernbrücke und Planung einer dauerhaften Rampe am Rheinufer - Kenntnis genommen
+- TOP 7.2.10: Stadtbahnhaltestelle Vingst, Aufzugsnachrüstung, Sperrung der Haltestelle in den Osterferien 2020 - Kenntnis genommen
+- TOP 7.2.11: KVB-Baumaßnahme zwischen den Haltestellen Slabystraße und Mülheim Wiener Platz - Kenntnis genommen
+- TOP 7.2.12: Evalution Kölner Ringe - Kenntnis genommen
+- TOP 7.2.13: Umsetzungsstand Radverkehrsführung an den Kölner Ringen - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Zustand auf der Komödienstraße - Sache ist erledigt
