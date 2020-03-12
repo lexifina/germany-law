@@ -1,0 +1,79 @@
+# 42. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-12T17:00:00+01:00
+- Ende: 2020-03-12T17:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21928
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21928
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00762823.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00762823.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00762823.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 der Gemeindeordnung Nordrhein-Westfalen (GO NRW): Maßnahmen zur Schaffung von mehr Grün- und Erholungsflächen im Stadtteil Kalk (Az.:132/19 B) - zurückgestellt
+- TOP 2.2: Bürgereingaben gem. § 24 der Gemeindeordnung Nordrhein-Westfalen (GO NRW): Maßnahmen zur Schaffung von mehr Grün- und Erholungsflächen im Stadtteil Kalk (Az.:126/19 B) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung des Fördervereins der GGS Volberger Weg für die Aufstellung von Spielgeräten auf dem Schulhof der GGS Volberger Weg in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 6.2: Grundschule Zehnthofstraße in Köln-Ostheim -Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Smarte Sitzbänke im Stadtbezirk Kalk - zurückgestellt
+- TOP 7.2: Aufhängen von Schildern "Respekt! Kein Platz für Rassismus" im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.3: Sicherung eines Grundstücks auf dem Gelände der städtischen Kliniken im Stadtteil Merheim für den Bau der dringend benötigten Grundschule - ungeändert beschlossen
+- TOP 7.4: Lkw-Parken auf dem Rather Kirchweg zwischen Pohlstadtsweg und der Einmündung Neubrücker Ring in Köln-Brück/-Neubrück - geändert beschlossen
+- TOP -: Lkw-Parken auf dem Rather Kirchweg zwischen Pohlstadtsweg und der Einmündung Neubrücker Ring in Köln-Brück/-Neubrück - geändert beschlossen
+- TOP 7.5: Sicherung des Neubrücker Marktplatzes und des Ludwig-Quidde-Platzes in Köln-Neubrück vor unbefugtem Befahren - geändert beschlossen
+- TOP 7.6: Kalk Post ist kein Parkplatz! Erneuerung der Abpollerung an der Robertstraße im Stadtteil Kalk - ungeändert beschlossen
+- TOP 7.7: Parken an der Einmündung Frankfurter Straße/Merheimer Heideweg in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: EFRE Grüne Infrastruktur - Vielfalt vernetzen - ungeändert beschlossen
+- TOP 8.1.2: Zuwendung aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum „Höhenberg und Vingst“ - ungeändert beschlossen
+- TOP 8.1.3: Thumbstraße - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert beschlossen
+- TOP 8.2.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Überprüfung der Situation des Lkw-Parkens auf dem Rather Kirchweg zwischen Pohlstadtsweg und Einmündung Neubrücker Ring in Brück/Neubrück - Kenntnis genommen
+- TOP 9.1.2: Grünfläche Olpener Str. an der Einmündung Hohensyburgstr. in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.3: Erweiterung der Umweltzone im Stadtbezirk Kalk (AN/1170/2019) - Kenntnis genommen
+- TOP 9.1.4: Vermietungen durch Airbnb in der Wetzlarer Straße 18 in Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Rasenflächen im Bereich der Vorgärten von Schulen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.2: Realisierung des Park+Ride-Parkplatzes an der Stadtbahnhaltestelle Röttgensweg in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.2.3: Übergriff auf den Fanbus des FC Viktoria Köln 1904 e.V. - Kenntnis genommen
+- TOP -: Übergriff auf den Fanbus des FV Viktoria Köln 1904 e.V. - Kenntnis genommen
+- TOP 9.2.4: Autos, Fußgänger, Alkohol und Turnhallen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP -: Autos, Fußgänger, Alkohol und Turnhallen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.5: Rückzug des Vereins Erlebnis inklusiv e.V. aus der Halle 60 in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.6: Entsiegelung von Plätzen und Flächen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.7: Umsetzung des Ortseingangsschildes auf dem Heumarer Mauspfad in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP -: Sachstandsbericht zu den Schulen GGS und KGS Kapitelstraße in Köln-Kalk und KGS Zehnthofstraße in Köln-Ostheim sowie zur Schulneubaumaßnahme Thessaloniki-Allee in Köln-Kalk
+- TOP -: Sachstandsbericht Baumaßnahme Katholische Grundschule Zehnthofstraße - zu 3920/2019 - Kenntnis genommen
+- TOP 10.2.1: Jahresberichte 2017, 2018, 2019; Bezirk 8 - Kenntnis genommen
+- TOP 10.2.2: Niederschrift 2. Runder Tisch Radverkehr Kalk vom 18.11.2019 - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 10.2.4: Versetzen des Urinals an der Haltestelle Trimbornstraße/Ecke Dillenburger Straße in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.5: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.6: Rücksichtsloses Verhalten von Radfahrern, Pfosten vor Unterführungen Az. 02-1600-228/19 - Kenntnis genommen
+- TOP 10.2.7: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 10.2.8: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 10.2.9: Mehr Grün für die Anschlussstelle Königsforst der A3 in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.10: Neugestaltung des Spiel- und Bolzplatzes Eythstraße in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.11: Fertiggestellte Baumaßnamen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Kalk - Kenntnis genommen
+- TOP 10.2.12: Stadtbahnhaltestelle Vingst, Aufzugsnachrüstung, Sperrung der Haltestelle in den Osterferien 2020 - Kenntnis genommen
+- TOP 10.2.13: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
