@@ -210,7 +210,7 @@ V. Teil: Seeschiffsverkehr
 2. Abschnitt: Gebühren der Landesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 1001 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 7 Absatz 1 der Gefahrgutverordnung See). | 50 bis 2 000 |
-| 1002 | Amtshandlungen, einschließlich Prüfungen, der in § 9 Absatz 2 der Gefahrgutverordnung See genannten Landesbehörden, für Aufgaben, die ihnen im IMDG-Code zugewiesen sind. | 25 je begonnene Viertelstunde |
+| 1002 | Amtshandlungen, einschließlich Prüfungen, der in § 9 Absatz 2der Gefahrgutverordnung See genannten Landesbehörden, für Aufgaben, die ihnen im IMDG-Code zugewiesen sind. | 25 je begonnene Viertelstunde |
 3. Abschnitt: Gebühren der Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 4
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 1050 | Prüfung und Erteilung einer Bescheinigung für IMO-Tanks (Absatz 6.8.3.1.3.2, 6.8.3.2.3.2, 6.8.3.3.3.2 und 6.8.3.4.3.2 IMDG-Code). | 25 je begonnene Viertelstunde |
