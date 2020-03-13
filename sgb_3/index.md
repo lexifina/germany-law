@@ -707,3 +707,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 446 Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften](0446.md)
 - [§ 447 Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung](0447.md)
 - [§ 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern](0448.md)
+- [§ 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung](0449.md)

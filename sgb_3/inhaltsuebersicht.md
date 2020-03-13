@@ -688,3 +688,4 @@
 | § 446 | Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften |
 | § 447 | Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung |
 | § 448 | Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern |
+| § 449 | Gesetz zur Modernisierung und Stärkung der beruflichen Bildung |
