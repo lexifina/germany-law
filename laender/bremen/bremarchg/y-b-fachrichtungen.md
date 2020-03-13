@@ -20,7 +20,7 @@ d) Objektunterhaltung,
 e) Projektentwicklung und -steuerung,
 f) Moderation, Gutachten, Wettbewerbe.
 II. Fachrichtung Innenarchitektur
-Im Rahmen eines hauptsächlich auf Innenarchitektur ausgerichteten Studiums von mindestens 180 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
+Im Rahmen eines hauptsächlich auf Innenarchitektur ausgerichteten Studiums von mindestens 240 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
 1. Methoden und Techniken:
 a) Entwerfen,
 b) Darstellung und Gestaltung,
@@ -37,7 +37,7 @@ d) Objektunterhaltung,
 e) Projektentwicklung und -steuerung,
 f) Moderation, Gutachten, Wettbewerbe.
 III. Fachrichtung Landschaftsarchitektur
-Im Rahmen eines hauptsächlich auf Landschaftsarchitektur ausgerichteten Studiums von mindestens 180 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
+Im Rahmen eines hauptsächlich auf Landschaftsarchitektur ausgerichteten Studiums von mindestens 240 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
 1. Methoden und Techniken:
 a) Planung und Entwerfen,
 b) Darstellung und Gestaltung,
@@ -58,7 +58,7 @@ f) Gartendenkmalpflege,
 g) Projektsteuerung,
 h) Moderation, Gutachten, Wettbewerbe.
 IV. Fachrichtung Stadtplanung
-Im Rahmen eines hauptsächlich auf Stadtplanung ausgerichteten Studiums von mindestens 180 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
+Im Rahmen eines hauptsächlich auf Stadtplanung ausgerichteten Studiums von mindestens 240 ECTS-Leistungspunkten (Credit Points) müssen Studieninhalte erworben werden, die insbesondere Kennnisse, Fähigkeiten und Kompetenzen in folgenden Bereichen vermitteln:
 1. Methoden und Techniken:
 a) stadtplanerische Projektarbeit und städtebauliches Entwerfen,
 b) Städtebau, Stadtgestaltung, Gebäudelehre und Siedlungswesen,
