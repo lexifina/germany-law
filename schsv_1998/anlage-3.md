@@ -55,10 +55,7 @@ B. Prüfungsordnung, Durchführung der Prüfung
   1.1.3 Für die in Nummer 1.1.2 genannten Zwecke werden von den beauftragten Verbänden Prüfungsausschüsse eingerichtet. Ein Prüfungsausschuss besteht aus einem Leiter, der vom Bundesamt für Seeschifffahrt und Hydrographie mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bestellt wird, und seinem Stellvertreter.
   1.1.4 Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt im Einvernehmen mit den beauftragten Verbänden den Sitz der Prüfungsausschüsse.
   1.1.5 Die Prüfungen zum Funkzeugnis werden von Prüfungskommissionen abgenommen, die vom Leiter des Prüfungsausschusses eingesetzt werden und aus einem Vorsitzenden und zwei Beisitzern bestehen. Die Mitglieder der Prüfungskommissionen werden vom Bundesamt für Seeschifffahrt und Hydrographie auf Vorschlag der beauftragten Verbände bestellt. Nach Anhörung der beauftragten Verbände kann das Bundesamt für Seeschifffahrt und Hydrographie die Bestellung der Mitglieder der Prüfungskommissionen widerrufen oder zurücknehmen. Die Mitglieder der Prüfungskommissionen müssen mindestens Inhaber des Allgemeinen Funkbetriebszeugnisses (LRC) sein.
-  1.1.6 Der Bewerber hat seine Anmeldung schriftlich an einen Prüfungsausschuss zu richten. Der Anmeldung sind beizufügen:
-    a) eine Ablichtung des gültigen Personalausweises oder Reisepasses und
-    b) ein Passbild aus neuerer Zeit.
-    Die Anmeldung zu einer Prüfung kann auch als Gruppenanmeldung erfolgen.
+  1.1.6 Der Bewerber hat seine Anmeldung schriftlich an einen Prüfungsausschuss zu richten. Der Anmeldung ist ein aktuelles Passbild beizufügen. Die Anmeldung zu einer Prüfung kann auch als Gruppenanmeldung erfolgen.
   1.1.7 Der Bewerber wird zur Prüfung zugelassen, wenn die nach diesem Abschnitt erforderlichen Unterlagen vorliegen und der Eingang der Prüfungsgebühren nachgewiesen ist. Die Zulassung zur Prüfung darf frühestens drei Monate vor Erreichen des Mindestalters nach Abschnitt A Nr. 3.1 Buchstabe a erfolgen.
   1.2 Durchführung der Prüfung
   1.2.1 Der Leiter des Prüfungsausschusses oder sein Stellvertreter bestimmt den Prüfungstermin sowie den Prüfungsort. Über den Prüfungsverlauf ist eine Niederschrift aufzunehmen.

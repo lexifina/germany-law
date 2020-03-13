@@ -46,8 +46,10 @@ Verkehrsarten
 
 ### A. Straßenbahnen
 
-- [§ 28 Planfeststellung](0028.md)
+- [§ 28 Planfeststellung und vorläufige Anordnung](0028.md)
 - [§ 28a Veränderungssperre, Vorkaufsrecht](0028a.md)
+- [§ 28b Projektmanager](0028b.md)
+- [§ 28c Veröffentlichung im Internet](0028c.md)
 - [§ 29 Planfeststellungsbehörde](0029.md)
 - [§ 29a Vorzeitige Besitzeinweisung](0029a.md)
 - [§ 30 Enteignung](0030.md)
@@ -56,6 +58,7 @@ Verkehrsarten
 - [§ 32 Duldungspflichten Dritter](0032.md)
 - [(XXXX) §§ 33 bis 35 (weggefallen)](xxxx-33-bis-35.md)
 - [§ 36 Bau- und Unterhaltungspflicht](0036.md)
+- [§ 36a Besondere Pflichten im Interesse der Unterhaltung](0036a.md)
 - [§ 37 Aufnahme des Betriebs](0037.md)
 - [§ 38](0038.md)
 - [§ 39 Beförderungsentgelte und -bedingungen](0039.md)

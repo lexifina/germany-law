@@ -189,6 +189,7 @@
 - [§ 110a Verdeckter Ermittler](0110a.md)
 - [§ 110b Verfahren beim Einsatz eines Verdeckten Ermittlers](0110b.md)
 - [§ 110c Befugnisse des Verdeckten Ermittlers](0110c.md)
+- [§ 110d Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach § 184b des Strafgesetzbuches](0110d.md)
 - [§ 111 Errichtung von Kontrollstellen an öffentlich zugänglichen Orten](0111.md)
 - [§ 111a Vorläufige Entziehung der Fahrerlaubnis](0111a.md)
 - [§ 111b Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung](0111b.md)

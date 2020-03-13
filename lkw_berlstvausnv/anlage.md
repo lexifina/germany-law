@@ -113,7 +113,7 @@
 | B 12 | Von Weitnau (Hellengerst, südwestlich Kempten) bis zur A 980 (AS Waltenhofen) |
 | B 13 (A 995) | Von der AS München-Giesing bis zur AS Sauerlach |
 | B 15n | Von der AS Ergoldsbach (LA 9) bis zum AD Saalhaupt (A 93) |
-| B 16 B 2 B 25 | Von der AS Augsburgerstraße (St 2035)/B 16 bei Neuburg a. d. Donau auf die B 16, Lechbrücke (B 16), B 2, B 25, Nördlinger Straße, bis Nördlinger Straße 24, 86609 Donauwörth |
+| B 16B 2B 25 | Von der AS Augsburgerstraße (St 2035)/B 16 bei Neuburg a. d. Donau auf die B 16, Lechbrücke (B 16), B 2, B 25, Nördlinger Straße, bis Nördlinger Straße 24, 86609 Donauwörth |
 | B 17 | Von der A 96 (AS Landsberg am Lech-West) bis zur A 8 (AS Augsburg-West) |
 | B 19 | Nördlich Sonthofen (B 308/OA 5) bis zur A 980 (AS Waltenhofen) |
 | B 20 | Von der A 92, AS 22 (Landau a. d. Isar) südlich auf die B 20, bis Abfahrt auf Industriestraße, weiter bis Industriestraße 8, 84326 Falkenberg |
@@ -286,8 +286,8 @@ Nachgeordnetes Straßennetz Bayern:
 | B 2 | Von der B 2 (AS Gersthofen-Nord) über Messerschmittstraße, Gutenbergstraße und Finkenweg bis zum Finkenweg 11 in Gersthofen |
 | B 2 A 5 | Von der B 2 (AS Gersthofen-Nord) über Kreisstraße A 5, Messerschmittstraße und Einsteinring bis zum Einsteinring 8 in Gersthofen |
 | B 2 | Von der B 2 (AS Gersthofen-Nord) über Messerschmittstraße, Gutenbergstraße und rechts Thyssenstraße bis zur Thyssenstraße 43 in Gersthofen |
-| B 2 St 2036 | Von der B 2 (AS Gersthofen) über St 2036, Bahnhofstraße, Dieselstraße und Finkenweg bis zum Finkenweg 11 in Gersthofen |
-| B 2 St 2069 | Von der A 99 (AS Germering-Nord) über B 2, St 2069 und Holzkirchner Straße bis zur Holzkirchner Straße 10 in Eichenau |
+| B 2St 2036 | Von der B 2 (AS Gersthofen) über St 2036, Bahnhofstraße, Dieselstraße und Finkenweg bis zum Finkenweg 11 in Gersthofen |
+| B 2St 2069 | Von der A 99 (AS Germering-Nord) über B 2, St 2069 und Holzkirchner Straße bis zur Holzkirchner Straße 10 in Eichenau |
 | B 2 HO 1 | Von der A 72 (AS Hof/Töpen) über B 2, HO 1 und Tiefendorfer Straße bis zur Tiefendorfer Straße 5 in Töpen |
 | B 2 St 2380 AIC 25 | Von der B 17 (AS Königsbrunn-Süd) über Bobinger Straße, Lechstraße, St 2380, B 2, Chippenham-Ring, AIC 25 bis zur A 8 (AS Friedberg) |
 | B 2 | Von der B 2 (AS Asbach-Bäumenheim) über die B 16 (AS Rain-Ost) und die Süd-Ost-Umgehungsstraße Rain bis Donauwörther Straße 3 – 5 in Rain |
@@ -1536,7 +1536,7 @@ Nachgeordnetes Straßennetz Thüringen:
 | Gemeindestraße L 1095 | Industriestraße Schleiz bis L 1095 und B 282 zur A 9 |
 | Gemeindestraßezur A 71 | Paul-Reuss-Straße in 06556 Artern über Otto-Brünner-Straße zur L 1172 bis zur A 71 (AS Sömmerda-Ost) |
 | Gemeindestraßezur A 4 | Von der A 4 (AS Ronneburg) bis Neue Straße 2 in 04626 Löbichau |
-| Gemeindestraßezur A 4 | Von der A 4 (AS Neudietendorf) über L 1044 –Thöreyer Straße über Industriestraße über Garantstraße über Arnstädter Straße zur L 1044 bis zur A 4 (AS Neudietendorf)–Am Sülzenbrückener Weg zwischen Thöreyer Straße und Garantstraße–Am Burgsteig in 99334 Amt Wachsenburg |
+| Gemeindestraßezur A 4 | Von der A 4 (AS Neudietendorf) über L 1044 –Thöreyer Straße über Industriestraße über Garantstraße über Arnstädter Straße zur L 1044 bis zur A 4 (AS Neudietendorf)–Am Sülzenbrückener Weg zwischen Thöreyer Straße und Garantstraße–Am Burgsteigin 99334 Amt Wachsenburg |
 | Gemeindestraßezur A 9 | Von der A 9 (AS Dittersdorf) über L 1077 bis Leiten 3 in 07907 Dittersdorf |
 Fahrtstrecken zu Autohöfen neben Autobahnen (Hessen):
 | Autohofname | Name der AS | Knotenbezeichnung |
@@ -1545,7 +1545,7 @@ Fahrtstrecken zu Autohöfen neben Autobahnen (Mecklenburg-Vorpommern):
 | Autohofname | Name der AS | Knotenbezeichnung |
 | Autohof Rostock | AS 5 Rostock-Nord | A 19/L 22/Große Rampe |
 | Autohof Müritz | AS 18 Röbel/Müritz | A 19/B 198/L 241 |
-| Autohof Pommerndreieck | AS 23 Grimmen-Ost | A 20/B 194/Pommern-dreieck |
+| Autohof Pommerndreieck | AS 23 Grimmen-Ost | A 20/B 194/Pommerndreieck |
 | Autohof Mecklenburg | AS 14 Neustadt-Glewe | A 24/B 191/An derAutobahn |
 | Autohof Wittenburg | AS 10 Wittenburg, Stadt | A 24/L 04/Alter Wölzower Weg/Rudolf-Diesel-Straße |
 | Truck Stop A 24 Mega Park | AS 9a Gallin | A 24/Am Heisterbusch |

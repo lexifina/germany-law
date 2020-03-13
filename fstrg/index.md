@@ -3,6 +3,7 @@
 - [§ 1 Einteilung der Bundesstraßen des Fernverkehrs](0001.md)
 - [§ 2 Widmung, Umstufung, Einziehung](0002.md)
 - [§ 3 Straßenbaulast](0003.md)
+- [§ 3a Duldungspflichten im Interesse der Unterhaltung](0003a.md)
 - [§ 4 Sicherheitsvorschriften](0004.md)
 - [§ 5 Träger der Straßenbaulast](0005.md)
 - [§ 5a Zuwendungen für fremde Träger der Straßenbaulast](0005a.md)

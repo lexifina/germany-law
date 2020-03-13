@@ -70,7 +70,7 @@ die Ausrüstung und den Betrieb von Fahrgastschiffen
 6 Fahrtbeschränkungen
 6.1 Bäderboote dürfen nur während der Sommermonate fahren. Die Fahrt darf nicht länger als 2 Stunden dauern und der Abstand von der Küstenlinie bei mittlerem Hochwasser nicht mehr als 4 Seemeilen betragen. Die Berufsgenossenschaft kann für einzelne Schiffe in sinngemäßer Anwendung der Richtlinie 2009/45/EG andere Abstände von der Küstenlinie festlegen.
 6.2 Sportanglerfahrzeuge dürfen einen Abstand von 10 Seemeilen von der Küstenlinie bei mittlerem Hochwasser nicht überschreiten.
-6.3 Bäderboote und Sportanglerfahrzeuge dürfen nur zwischen Sonnenaufgang und Sonnenuntergang fahren.
+6.3 Bäderboote und Sportanglerfahrzeuge dürfen nur zwischen Sonnenaufgang und Sonnenuntergang, in jedem Fall aber zwischen 8 und 17 Uhr, fahren.
 6.4 Bäderboote und Sportanglerfahrzeuge dürfen die Fahrt nicht antreten
   a) bei Sturm (8 Beaufort oder mehr) oder Sturmwarnung,
   b) bei auflandigem Starkwind (6 und 7 Beaufort) oder
@@ -94,8 +94,7 @@ die Ausrüstung und den Betrieb von Fahrgastschiffen
   Die Süllhöhe von Türen, die zu Räumen mit zu schützenden Öffnungen in den Schiffskörper führen, kann im Bereich 1 auf 380 mm und im Bereich 2 auf 100 mm reduziert werden.
 8.3.4 Fenster
   Im Bereich des ersten Aufbaudecks können anstelle von Bullaugen im Sinne der Regel 23 Absatz 2 der Anlage 1 zum Freibord-Übereinkommen Fenster nach Maßgabe der Regel 23 Absatz 3 der Anlage 1 zum Freibord-Übereinkommen zugelassen werden, wenn für jedes dieser Fenster jeweils eine Seeschlagblende mit Befestigungsmaterial in der direkten Umgebung der Fenster vorgesehen ist. Sofern die Fenster aus Sicherheitsverbundglas bestehen, dessen Festigkeitswert der umgebenden Schiffsstruktur entspricht, kann auf Seeschlagblenden verzichtet werden. Fahrzeuge, deren Aufbauten oder Deckshäuser in die Pantokarenen eingerechnet sind, müssen auch in diesem Bereich wirksam wetterdicht verschlossen sein.
-8.3.5 Virtuelle Schottendecks und versenkte Salons
-  Fahrzeuge mit virtuellem Schottendeck und versenktem Salon dürfen ausschließlich in der Wattfahrt eingesetzt werden.
+8.3.5 Fahrzeuge mit virtuellem Schottendeck und versenktem Salon dürfen ausschließlich in der Wattfahrt eingesetzt werden. Ein virtuelles Schottendeck ist ein gedachtes, aber nicht vorhandenes Deck, welches bei der Leckrechnung an Stelle eines tatsächlich vorhandenen Schottendecks angenommen und berücksichtigt wird. Ein versenkter Salon ist ein Fahrgastraum, der bei Fahrgastschiffen mit virtuellem Schottendeck im Bereich des tatsächlich fehlenden wasserdichten Decks angeordnet ist und bei dem sich die Begrenzung (Boden) des Fahrgastraums unterhalb sowie die obere Begrenzung (Decke) des Fahrgastraums oberhalb des virtuellen Schottendecks befindet.
 8.3.6 Wasserpforten
   Der Wasserpfortenquerschnitt nach Regel 24 der Anlage 1 zum Freibord-Übereinkommen kann um höchstens 50 % vermindert werden.
 8.4 Für Sportanglerfahrzeuge und Bäderboote kann die Berufsgenossenschaft weitergehende Ausnahmen zulassen.
@@ -125,7 +124,7 @@ die Ausrüstung und den Betrieb von Fahrgastschiffen
 11 Brandschutz
   Für vorhandene Fahrgastschiffe der Klassen C und D, die ausschließlich Tagesfahrten durchführen, kann die Nachrüstung einer Feuerlöschanlage für Unterkunfts- und Wirtschaftsräume, Treppenschächte und Gänge in erleichterter Form durch eine nicht selbsttätig auslösende Anlage oder mobile Brandbekämpfungseinheiten, die strategisch günstig in Brandabschnitten platziert werden und aktiv durch die Besatzungen zum Einsatz kommen können, vorgenommen werden. Feuerlöschanlagen sind so auszulegen, dass eine gleichwertige Sicherheit gegenüber dem festen Einbau einer Sprinkleranlage erfüllt wird.
 12 Zeugnismuster
-  Die Muster des Sicherheitszeugnisses für Fahrgastschiffe und der Fahrterlaubnis in besonderen Fällen werden nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht.
+  Die Muster des Sicherheitszeugnisses für Fahrgastschiffe und der Fahrterlaubnis in besonderen Fällen werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 Teil 2
 Sicherheitsanforderungen für Binnenschiffe,
 die in dem Bereich nach § 9 Absatz 5 verkehren
@@ -139,7 +138,7 @@ die in dem Bereich nach § 9 Absatz 5 verkehren
 2.6 Binnenschiffe dürfen Containerladung nur dann in dem bezeichneten Gebiet transportieren, wenn sie Anhang II Kapitel 22 der BinSchUO erfüllen; unbeschadet dessen dürfen dabei nur gesicherte Container transportiert werden.
 2.7 Die Erfüllung der vorgenannten Anforderungen ist durch eine zusätzliche Bescheinigung, die von der Generaldirektion Wasserstraßen und Schifffahrt ausgestellt wird, nachzuweisen.
 2.8 Binnenschiffe können das bezeichnete Seegebiet mit Besatzungen nach den Bestimmungen der BinSchUO befahren, wenn der Schiffsführer das nach § 29 der Seeleute-Befähigungsverordnung für das Schiff erforderliche nautische Patent zum Kapitän besitzt.
-2.9 Das Muster der Bescheinigung für Binnenschiffe nach § 9 Absatz 5 dieser Verordnung wird nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht.
+2.9 Das Muster der Bescheinigung für Binnenschiffe nach § 9 Absatz 5 dieser Verordnung wird nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 Teil 3
 Sicherheitsanforderungen an den
 Bau und die Ausrüstung von Traditionsschiffen
@@ -168,7 +167,7 @@ Allgemeine Bestimmungen
 2.1.5 Länge: Die Vermessungslänge nach Maßgabe des Artikels 2 Absatz 8 des Londoner Schiffsvermessungsübereinkommens oder für Traditionsschiffe mit weniger als 24 m Vermessungslänge die Rumpflänge LH nach DIN EN ISO 8666, Ausgabe Dezember 2016;
 2.1.6 Betreiber: Der Eigentümer des Schiffes oder jede andere Organisation oder Person, die vom Eigentümer des Schiffes die Verantwortung für den Betrieb des Schiffes übernommen hat;
 2.1.7 Berufsgenossenschaft: Die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation;
-2.1.8 Anerkannte Organisation: Eine nach der Richtlinie 2009/15/EG anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden ist;
+2.1.8 Anerkannte Organisation: Eine nach der Verordnung (EG) Nr. 391/2009 anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Verordnung (EG) Nr. 391/2009 begründet worden ist;
 2.1.9 Anerkannter Schiffbaustandard: die Klassifikationsregeln einer anerkannten Organisation;
 2.1.10 Stand der medizinischen Erkenntnisse: Der nach § 108 Absatz 2 Satz 1 des Seearbeitsgesetzes im Verkehrsblatt oder im Bundesanzeiger jeweils zuletzt bekannt gemachte Stand der medizinischen Anforderungen in der Seeschifffahrt;
 2.1.11 IMO: Die Internationale Seeschifffahrts-Organisation;
@@ -179,7 +178,7 @@ Allgemeine Bestimmungen
 2.2.3 SOLAS-Übereinkommen: Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See (BGBl. 1979 II S. 141, 142), das zuletzt durch die Entschließungen MSC.269(85) vom 4. Dezember 2008 und MSC.282(86) vom 5. Juni 2009 (BGBl. 2011 II S. 506, 507, 518) geändert worden ist, sowie Protokoll von 1988 zu dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See (BGBl. 1994 II S. 2458, Anlageband), das zuletzt durch die Entschließung MSC.283(86) vom 5. Juni 2009 (BGBl. 2011 II S. 506, 523) geändert worden ist, in der jeweils innerstaatlich geltenden Fassung;
 2.2.4 MARPOL-Übereinkommen: Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und Protokoll von 1978 zu diesem Übereinkommen (BGBl. 1982 II S. 2, 4, 24; 1996 II S. 399, Anlageband; 2003 II S. 130, 132, 136), zuletzt geändert durch die Entschließungen MEPC.200(62) und MEPC.201(62) vom 15. Juli 2011 (BGBl. 2012 II S. 1194, 1195, 1206), in der jeweils innerstaatlich geltenden Fassung;
 2.2.5 Londoner Schiffsvermessungsübereinkommen: Internationales Schiffsvermessungs-Übereinkommen von 1969 vom 23. Juni 1969 (BGBl. 1975 II S. 67);
-2.2.6 Binnenschiffsuntersuchungsordnung: Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450), die durch Artikel 1 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung;
+2.2.6 Binnenschiffsuntersuchungsordnung: Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, in der jeweils geltenden Fassung;
 2.2.7 Richtlinie 2009/15/EG: Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S. 47) in der jeweils geltenden und anzuwendenden Fassung;
 2.2.8 Richtlinie 2009/45/EG: Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (Neufassung), (ABl. L 163 vom 25.6.2009, S. 1), die zuletzt durch die Richtlinie (EU) 2016/844 der Kommission vom 27. Mai 2016 (ABl. L 141 vom 28.5.2016, S. 51) geändert worden ist, in der jeweils geltenden Fassung;
 2.2.9 Internationaler Rettungsmittel-(LSA-)Code: Der vom Schiffssicherheitsausschuss der IMO mit Entschließung MSC.48(66) angenommene Internationale Rettungsmittel-(LSA-)Code, angenommen am 4. Juni 1996 (BAnz. Nr. 118a vom 1. Juli 1998) in der jeweils geltenden Fassung;
@@ -882,7 +881,7 @@ Zusätzliche Anforderungen an Segelschulungsschiffe
   Mindestens eine Person an Bord, die mit der Ausbildung der Trainees im Bereich Sicherheit befasst ist, muss über entsprechende Nachweise einer Ausbildung nach STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 und A-VI/4-1 verfügen. Es ist zulässig, dass mehrere Personen über einzelne Nachweise verfügen, sofern alle hier aufgeführten Ausbildungen nachgewiesen werden.
 Kapitel 12
 Muster der Zeugnisse
-Die Muster eines Sicherheitszeugnisses für Traditionsschiffe, eines vorläufigen Sicherheitszeugnisses für Traditionsschiffe und eines Schiffsbesatzungszeugnisses für Traditionsschiffe werden nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht.
+Die Muster eines Sicherheitszeugnisses für Traditionsschiffe, eines vorläufigen Sicherheitszeugnisses für Traditionsschiffe und eines Schiffsbesatzungszeugnisses für Traditionsschiffe werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 Teil 4
 Sicherheitsanforderungen an Sportboote
 (Ohne Inhalt)
@@ -893,8 +892,12 @@ Fischereifahrzeuge mit einer Länge unter 24 m
 1.1 Dieser Teil gilt für Fischereifahrzeuge mit einer Länge unter 24 m, die die Bundesflagge führen.
 1.2 Dieser Teil konkretisiert die Anforderungen an die Schiffssicherheit von Fischereifahrzeugen unter 24 m Länge im Sinne der §§ 3 und 7 bis 9 des Schiffssicherheitsgesetzes und dient als Grundlage für Schiffssicherheitszeugnisse im Sinne des § 9 Absatz 3 Nummer 2 dieser Verordnung.
 2. Begriffsbestimmungen
-  1. Es werden die Begriffsbestimmungen der Anlage des Torremolinos-Protokolls von 1993 zum Internationalen Übereinkommen von Torremolinos von 1977 über die Sicherheit von Fischereifahrzeugen (BGBl. 2003 II S. 1330, 1331), in der Fassung des Übereinkommens von Kapstadt von 2012 zur Durchführung des Torremolinos-Protokolls von 1993 zum Internationalen Übereinkommen von Torremolinos von 1977 über die Sicherheit von Fischereifahrzeugen (BGBl. 2016 II S. 175, 176) angewendet, sofern nicht nachfolgend etwas anderes bestimmt ist.
-  2. Im Sinne dieses Teils bezeichnet der Ausdruck:
+  Es werden die Begriffsbestimmungen des Übereinkommens von Kapstadt von 2012 zur Durchführung des Torremolinos-Protokolls von 1993 zum Internationalen Übereinkommen von Torremolinos von 1977 über die Sicherheit von Fischereifahrzeugen (Kapstadt-Übereinkommen, BGBl. 2016 II S. 175, 176) angewendet, sofern nicht nachfolgend etwas anderes bestimmt ist.
+  Im Sinne dieses Teils bezeichnet der Ausdruck
+  a) Fischereifahrzeug: ein Fahrzeug, das für den Fang von Fischen oder anderen Lebewesen des Meeres oder für deren anderweitige Gewinnung und Verarbeitung verwendet wird,
+  b) gedecktes Fischereifahrzeug: ein Fischereifahrzeug mit einem durchgehenden wasserdichten Wetterdeck, das bei allen Beladungszuständen oberhalb der Wasserlinie liegt,
+  c) offenes oder teilgedecktes Fischereifahrzeug: ein Fischereifahrzeug, das kein gedecktes Fischereifahrzeug ist und bei dem überkommendes Wasser in die Bilge gelangen kann,
+  d) Berufsgenossenschaft: die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 2.1 Fischereifahrzeug: Ein Fahrzeug, das für den Fang von Fischen oder anderen Lebewesen des Meeres oder für deren anderweitige Gewinnung und Verarbeitung verwendet wird.
 2.2 Gedecktes Fischereifahrzeug: Ein Fischereifahrzeug mit einem durchgehenden wasserdichten Wetterdeck, das bei allen Beladungszuständen oberhalb der Wasserlinie liegt.
 2.3 Offenes oder teilgedecktes Fischereifahrzeug: Ein Fischereifahrzeug, das kein gedecktes Fischereifahrzeug ist und bei dem überkommendes Wasser in die Bilge gelangen kann.
@@ -914,7 +917,7 @@ Fischereifahrzeuge mit einer Länge unter 24 m
 6.1 Der Schiffstyp, der Werkstoff und die Festigkeit des Schiffskörpers müssen den Anforderungen des vorgesehenen Einsatzes und Fahrtgebietes genügen und den allgemein anerkannten Regeln der Schiffbautechnik entsprechen. Türen, Mannlöcher, Lüftungskanäle oder andere Öffnungen im Kollisionsschott unterhalb des Arbeitsdecks bedürfen der Genehmigung durch die Berufsgenossenschaft.
 6.2 Lade-, Fischraum-, Ausrüstungs- und Einsteigluken auf dem Wetterdeck müssen eine Süllhöhe von mindestens 0,80 m haben. Bei Luken bis zu einem freien Querschnitt von 1,00 m x 1,00 m ist eine Süllhöhe von 0,60 m ausreichend. Bei Ausrüstungsluken außerhalb des Verkehrsbereiches kann die Berufsgenossenschaft Abweichungen von dieser Süllhöhe genehmigen. Die Unterkanten der Lukensülle müssen abgerundet sein. Der Einbau von Glattdeckluken bedarf der Genehmigung der Berufsgenossenschaft.
 6.3 Türen, die unmittelbar vom Wetterdeck in den Haupt- oder Hilfsmaschinenraum führen, sind unzulässig.
-6.4 Abweichend von Kapitel III Regel 2 in Verbindung mit Regel 1 und 7 des Torremolinos-Übereinkommens können für gedeckte Fischereifahrzeuge folgende Stabilitätskriterien angewendet werden:
+6.4 Abweichend von Kapitel III Regel 2 in Verbindung mit Regel 1 und 7 des Kapstadt-Übereinkommens können für gedeckte Fischereifahrzeuge folgende Stabilitätskriterien angewendet werden:
   | Aufrichtender Hebelarm bei 30° Neigung | ≥ 0,20 m |
   | Anfangsstabilität, korrigiert für freie Oberflächen (GM') | ≥ 0,35 m |
   | Fläche unter der Hebelarmkurve bis 30° Neigung | ≥ 0,055 m x Radiant |
@@ -934,10 +937,14 @@ Fischereifahrzeuge mit einer Länge unter 24 m
   4. Fang an Deck unter den oben genannten Betriebszuständen;
   5. Wasserballast, falls Tanks hierfür vorgesehen sind;
   6. Berücksichtigung des Einflusses freier Oberflächen von Flüssigkeiten und ggf. von Fisch.
-6.5 (weggefallen)
+6.5 Die Leerschiffsdaten als Grundlage der Stabilität des Fahrzeugs sind alle zehn Jahre durch einen Krängungsversuch zu überprüfen. Die Berufsgenossenschaft kann auf Antrag von dem Erfordernis der Durchführung eines erneuten Krängungsversuchs absehen, wenn
+  a) der letzte Krängungsversuch nicht länger als zehn Jahre zurückliegt und
+  b) der Antragssteller glaubhaft macht, dass seit dem letzten Krängungsversuch keine die Stabilität verändernden Maßnahmen am Fahrzeug vorgenommen wurden.
 6.6 Für Fischereifahrzeuge, die mit doppeltem Fanggeschirr fischen, ist ein aufrichtender Hebelarm bei 30° Neigung von mindestens 0,25 m nachzuweisen, falls keine automatisch wirkenden Einrichtungen zum schnellen Lösen des verhakten Fanggeschirrs vorhanden sind.
 6.7 Bei offenen oder teilgedeckten Fischereifahrzeugen beträgt der Mindest-Freibord 6 v. H. der Länge über alles oder 40 v. H. der Seitenhöhe, gemessen von der Oberkante der Sponung bis zur Oberkante des Dollbord an seiner niedrigsten Stelle über der Wasserlinie. Liegt die Oberkante einer Bünn oder die Unterkante einer anderen Öffnung im Schiffskörper, durch die Wasser in das Fahrzeug eindringen kann, tiefer über der Wasserlinie als die tiefste Stelle des Dollbords, ist die Seitenhöhe bis zur Oberkante des Sülls der Bünn oder bis zur Unterkante der tiefsten Öffnung zu messen.
-6.8 Die erforderlichen Mindestabmessungen für offene und teilgedeckte Fischereifahrzeuge betragen:
+6.8 Bei gedeckten Fischereifahrzeugen beträgt der Mindestfreibord grundsätzlich 5 v. H. der Schiffsbreite, jedoch mindestens 0,20 m; sofern für diese Schwimmlage eine ausreichende Schiffskörperfestigkeit sowie die Einhaltung der Stabilitätskriterien nach 6.4 nachgewiesen wurden. Machen die Stabilität oder die Festigkeit des Schiffskörpers oder andere Bedingungen einen größeren Freibord erforderlich, so ist dieser maßgeblich.
+6.9 Der Mindestfreibord wird im Sicherheitszeugnis für Fischereifahrzeuge vermerkt. Er ist an beiden Fahrzeugseiten auf halber Schiffslänge durch eine Lademarke in Kontrastfarbe zum Rumpf zu markieren.
+6.10 Die erforderlichen Mindestabmessungen für offene und teilgedeckte Fischereifahrzeuge betragen:
   | Länge über alles | 3,60 m |
   | Breite | 1,60 m |
   | Seitenhöhe | 0,60 m |
@@ -979,7 +986,7 @@ Fischereifahrzeuge mit einer Länge unter 24 m
 10.2.1 Fischereifahrzeuge müssen ab einer Länge von 15 m mit einer GMDSS-UKW-Seefunkanlage nach der Richtlinie 2014/90/EU (Schiffsausrüstungsrichtlinie) ausgerüstet sein.
 10.2.2 Fahrzeuge mit einer Länge zwischen 8 und 15 m müssen mindestens mit einer nach den Bestimmungen der Richtlinie 99/5/EG (RTTE-Richtlinie) in Verkehr gebrachten GMDSS-UKW-Seefunkanlage mit DSC-D ausgerüstet sein, die so ausgelegt ist, dass unter den in einem Notfall herrschenden Bedingungen alle betrieblichen Anforderungen des GMDSS erfüllt sind.
 10.2.3 Bei Überschreitung des Bedeckungsbereiches von UKW-Küstenfunkstellen muss auf Fischereifahrzeugen eine GMDSS-Grenzwellenseefunkanlage mit DSC oder eine GMDSS-Satellitenfunkanlage mitgeführt werden.
-11. Das Muster eines Sicherheitszeugnisses für Fischereifahrzeuge wird nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht.
+11. Das Muster eines Sicherheitszeugnisses für Fischereifahrzeuge wird nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 Teil 6
 Sicherheitsanforderungen an Frachtschiffe
 Kapitel 1
@@ -990,10 +997,10 @@ Allgemeine Bestimmungen
   2. Frachtschiffe in der Auslandfahrt, soweit das SOLAS-Übereinkommen keine Anwendung findet.
 1.2 Dieser Teil gilt nicht für
   1. Schiffe der Bundesmarine und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
-  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
+  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
   3. Fischereifahrzeuge;
   4. Sportboote im Sinne der See-Sportbootverordnung;
-  5. Kleinfahrzeuge, die nicht gewerbsmäßig für Sport- und Freizeitzwecke verwendet werden;
+  5. Kleinfahrzeuge, die nicht gewerbsmäßig und ausschließlich für Sport- oder Erholungszwecke verwendet werden;
   6. Traditionsschiffe, die Teil 3 unterliegen;
   7. Arbeitsboote bis zu einer Länge von 8 m.
 2. Begriffsbestimmungen
@@ -1048,7 +1055,7 @@ Allgemeine Bestimmungen
 2.3 DIN-, DIN EN- und DIN EN ISO-Normen, auf die in diesem Teil verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin und Köln, erschienen.
 3. Sicherheitsanforderungen
 3.1 Neue und vorhandene Frachtschiffe müssen den Anforderungen des Kapitels 2 dieses Teils entsprechen, sofern nicht nachfolgend etwas anderes geregelt ist.
-3.2 Für neue und vorhandene Kleinfahrzeuge gelten die Anforderungen des Kapitels 2 nur, wenn nicht in Kapitel III etwas Abweichendes geregelt ist.
+3.2 Für neue und vorhandene Kleinfahrzeuge gelten die Anforderungen des Kapitels 2 nur, wenn nicht in Kapitel 3 etwas Abweichendes geregelt ist.
 3.3 Für neue und vorhandene Sonderfahrzeuge sind ergänzend die Vorschriften des Kapitels 4 anzuwenden.
 3.4 Für neue und vorhandene Arbeitsboote gelten die Vorschriften des Kapitels 5.
 3.5 Für Errichterschiffe kann die Berufsgenossenschaft ergänzend die Vorschriften des SPS-Codes und des MODU-Codes heranziehen, soweit dies erforderlich ist, um den besonderen Anforderungen dieser Schiffe Rechnung zu tragen. Die Berufsgenossenschaft bestimmt im Einzelfall, welche Bestimmungen angewendet werden.
@@ -1379,7 +1386,7 @@ Offshore-Servicefahrzeuge
 10. Der Bereich, der beim Übersteigen von Offshore-Servicepersonal zum und vom Offshore-Bauwerk gegen dessen Bauteile gedrückt wird, muss so beschaffen und geschützt sein, dass die auftretenden Belastungen ertragen und Kontaktschäden vermieden werden. Es sind die Anforderungen der anerkannten Organisation einzuhalten, deren Überwachung das Schiff nach Regel 1 unterliegt.
 Kapitel 7
 Zeugnismuster
-Die Muster folgender Zeugnisse und Bescheinigungen werden nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht:
+Die Muster folgender Zeugnisse und Bescheinigungen werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht:
 1. Bau- und Ausrüstungs-Sicherheitszeugnis,
 2. Funk-Sicherheitszeugnis,
 3. Sicherheitszeugnis für Spezialschiffe,
@@ -1394,9 +1401,9 @@ Anforderungen an den Freibord
   2. Frachtschiffe und Fahrgastschiffe in der Auslandfahrt, soweit das Freibord-Übereinkommen keine Anwendung findet.
 1.2 Dieser Teil gilt nicht für:
   1. Schiffe der Bundesmarine und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
-  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
+  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
   3. Sportboote im Sinne der See-Sportbootverordnung;
-  4. Kleinfahrzeuge, die nicht gewerbsmäßig für Sport- und Freizeitzwecke verwendet werden;
+  4. Kleinfahrzeuge, die nicht gewerbsmäßig und ausschließlich für Sport- oder Erholungszwecke verwendet werden;
   5. Traditionsschiffe, die Teil 3 unterliegen;
   6. Arbeitsboote bis zu einer Länge von 8 m;
   7. Fischereifahrzeuge.
@@ -1456,13 +1463,13 @@ Anforderungen an den Freibord
 8.6 Besichtigungs- und Zeugnispflichten aus anderen Rechtsvorschriften bleiben unberührt.
 8.7 Zeugnisse und Bescheinigungen, die bis zum 30. September 2015 auf Grundlage der Schiffssicherheitsverordnung in der Fassung der Bekanntmachung vom 3. September 1997 (BGBl. I S. 2217), zuletzt geändert durch die Verordnung vom 19. Juni 1998 (BGBl. I S. 1431) erteilt worden sind, bleiben bis zum Ablauf ihrer Gültigkeit wirksam.
 9. Zeugnismuster
-  Das Muster des Nationalen Freibordzeugnisses wird nach § 3 Absatz 3 Nummer 4 dieser Verordnung im Verkehrsblatt bekannt gemacht.
+  Das Muster des Nationalen Freibordzeugnisses wird nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 Anhang: Freibordanforderungen und Ausführungen von Verschlüssen bezogen auf die Schiffslänge „L“
 | Schiffsöffnung | Schiffslänge: L < 12 m | Schiffslänge: 12 m ≤ L < 18 m | Schiffslänge: 18 m ≤ L < 24 m |
 | Süllhöhen von wetterdichten Öffnungen, die zu Räumen unterhalb des Wetterdecks führen. |
 | Bereich 1 | Bereich 1 | Bereich 2 | Bereich 1 | Bereich 2 |
 | Türen (Reg. 12, 17, 18) | 300 mm | 400 mm | 230 mm | 500 mm | 300 mm |
-| Luken (Reg. 15) | 300 mm | 400 mm | 230 mm | 500 mm | 300 mm |
+| Luken (Reg. 14-1) | 300 mm | 400 mm | 230 mm | 500 mm | 300 mm |
 | Notausstiege | 300 mm | 400 mm | 230 mm | 500 mm | 300 mm |
 | Luft- und Peilrohre (Reg. 20) | 760 mm | 760 mm | 450 mm | 760 mm | 450 mm |
 | verschließbare Lüfter (Reg. 17, 18) | 760 mm | 800 mm | 550 mm | 850 mm | 650 mm |

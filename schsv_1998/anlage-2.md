@@ -61,8 +61,7 @@ A. Schiffszeugnisse und -bescheinigungen
   4.1 Reicht bei einem Frachtschiff die Festigkeit des Schiffskörpers nur für einen begrenzten Fahrtbereich aus, so ist dies in einem mit dem Sicherheitszeugnis zu verbindenden Anhang einzutragen.
   4.2 Auflagen bei der Anwendung des § 7 oder § 9 werden in einen mit dem entsprechenden Zeugnis zu verbindenden Anhang eingetragen.
   4.3 Die einschlägigen Vorschriften über die Erteilung der Zeugnisse gelten entsprechend für Eintragungen in die Zeugnisse.
-  5. Probefahrten
-    Auf Probefahrten in den inneren deutschen Gewässern und im deutschen Küstenmeer können erforderliche Zeugnisse durch eine Probefahrtbescheinigung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ersetzt werden.
+  5. Auf Probefahrten in den inneren deutschen Gewässern und im deutschen Küstenmeer oder von einem deutschen Hafen zu einem anderen deutschen Hafen können erforderliche Zeugnisse durch eine Probefahrtbescheinigung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ersetzt werden. Diese bestimmt mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur die Sicherheitsanforderungen für Probefahrten nach Satz 1, soweit sie nicht anderweitig verbindlich festgelegt sind, und macht sie im Verkehrsblatt bekannt.
   6. Ersatzausfertigung
     Ist ein Zeugnis oder eine Bescheinigung unbrauchbar geworden oder wird glaubhaft gemacht, daß sie verlorengegangen sind, stellt die zuständige Behörde eine Ersatzausfertigung aus, die als solche zu bezeichnen ist.
   7. Rückgabe von Bescheinigungen

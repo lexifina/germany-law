@@ -18,8 +18,8 @@ I und II der Meisterprüfung
 
 ## 3. Abschnitt Übergangs- und Schlußvorschriften
 
-- [§ 6](0006.md)
-- [§ 7 Sonstige Vorschriften](0007.md)
-- [§ 8 Berlin-Klausel](0008.md)
+- [§ 6 Übergangsvorschrift](0006.md)
+- [§ 7 Weitere Regelungen zur Meisterprüfung](0007.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Inkrafttreten](0009.md)
 - [Schlußformel](schlussformel.md)

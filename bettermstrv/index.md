@@ -18,5 +18,5 @@ Teilen I und II der Meisterprüfung
 ## 3. Abschnitt Übergangs- und Schlußvorschriften
 
 - [§ 6 Übergangsvorschrift](0006.md)
-- [§ 7 Weitere Anforderungen](0007.md)
+- [§ 7 Weitere Regelungen zur Meisterprüfung](0007.md)
 - [§ 8 Inkrafttreten](0008.md)

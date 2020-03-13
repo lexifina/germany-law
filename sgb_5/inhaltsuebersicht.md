@@ -96,4 +96,4 @@
 |  |  |
 | Elftes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 306 und 307b |
 | Zwölftes Kapitel | Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ....... | §§ 308 bis 313 |
-| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 328 |
+| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 329 |

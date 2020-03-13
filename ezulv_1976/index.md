@@ -57,6 +57,7 @@
 
 - [§ 18 Entstehen des Anspruchs](0018.md)
 - [§ 19 Weitergewährung bei Unterbrechung der zulageberechtigenden Tätigkeit](0019.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Zulage für besondere Dienste in der Gesundheits- und Krankenpflege](0021.md)
 - [§ 22 Zulage für besondere Einsätze](0022.md)
 - [§ 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal](0022a.md)

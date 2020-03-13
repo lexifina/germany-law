@@ -82,6 +82,7 @@
 
 - [§ 44 Vorschriften für besonders geschützte und bestimmte andere Tier- und Pflanzenarten](0044.md)
 - [§ 45 Ausnahmen; Ermächtigung zum Erlass von Rechtsverordnungen](0045.md)
+- [§ 45a Umgang mit dem Wolf](0045a.md)
 - [§ 46 Nachweispflicht](0046.md)
 - [§ 47 Einziehung und Beschlagnahme](0047.md)
 

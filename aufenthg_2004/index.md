@@ -45,8 +45,6 @@
 - [§ 16e Studienbezogenes Praktikum EU](0016e.md)
 - [§ 16f Sprachkurse und Schulbesuch](0016f.md)
 - [§ 17 Suche eines Ausbildungs- oder Studienplatzes](0017.md)
-- [§ 17a Anerkennung ausländischer Berufsqualifikationen](0017a.md)
-- [§ 17b Studienbezogenes Praktikum EU](0017b.md)
 
 ### Abschnitt 4 Aufenthalt zum Zweck der Erwerbstätigkeit
 
