@@ -2,7 +2,7 @@
 
 | (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen Änderungen vgl. Fußnote) |
 | Dauer und Inhalt der betrieblichen Fortbildung |
-| 1. | Durchführung von Arbeiten mit autonomen und schlauchversorgten Tauchgeräten mindestens 200 Taucherstunden (davon mindesten 20 Stunden mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät) |
+| 1. | Durchführung von Arbeiten mit autonomen und schlauchversorgten Tauchgeräten mindestens 200 Taucherstunden (davon mindestens 20 Stunden mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät) |
 | 2. | Vermittlung von Kenntnissen in |
 |  | 2.1 | Tauchgerätekunde (marktorientiert) |
 |  | 2.2 | Arbeitsgerätekunde (hydraulisch, pneumatisch, elektrisch) |
