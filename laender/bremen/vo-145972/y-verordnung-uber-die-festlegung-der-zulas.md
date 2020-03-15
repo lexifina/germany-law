@@ -1,3 +1,3 @@
-# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen im Lande Bremen vom 5. Juli 2013
-Verordnung aufgehoben mit Ausnahme des § 3 Abs. 2, vgl. § 3 Abs. 2 der Verordnung vom 24.10.2013 (Brem.GBl. S. 554)
+# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufsqualifikation im Lande Bremen vom 11. März 2020
+V aufgeh. durch § 4 Absatz 2 der Verordnung vom 1. Juli 2020 (Brem.GBl. S. 526)
 Einzelansicht Seitenanfang
