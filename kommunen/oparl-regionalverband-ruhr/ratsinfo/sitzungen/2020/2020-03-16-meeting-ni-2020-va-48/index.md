@@ -1,0 +1,62 @@
+# 23. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-03-16T10:00:00+01:00
+- Ende: 2020-03-16T11:30:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-48
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-48
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-48
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-48
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 02.12.2019
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Förderprogramm Kommunaler Straßenbau 2020 hier: Unterrichtung und Beschlussfassung
+- TOP 1.2: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2020
+- TOP 1.2.1: Ergänzung zur Beschlussvorlage 13/1641 Vorschlag für das Städtebauförderprogramm 2020
+- TOP 1.3: Städtebauförderung hier: Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2020“
+- TOP 1.3.1: Ergänzung zur Beschlussvorlage 13/1642 Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2020
+- TOP -: Vorlagen des Regionalverband Ruhr/Planungsausschuss
+- TOP 1.4: Aufhebung des Piktogramms „Kraftwerke und einschlägige Nebenbetriebe“ in einem Bereich für gewerbliche und industrielle Nutzungen (Ehemaliges Kraftwerk Knepper)
+- TOP 1.5: Aufhebung der Zweckbindung und des Piktogramms für „Kraftwerke und einschlägige Nebenbetriebe“ eines Bereichs für gewerbliche und industrielle Nutzungen (ehemaliges Kraftwerk Knepper)
+- TOP 1.6: Erarbeitungsbeschluss zur 15. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, in der Stadt Marl: Erweiterung eines Allgemeinen Siedlungsbereichs im Rahmen eines Flächentauschs
+- TOP 1.7: 13. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, Änderung der textlichen Festlegung 16.2 zum Bereich für flächenintensive Großvorhaben (newPark) - Aufstellungbeschluss
+- TOP 1.8: Änderungsverfahren 35 E (Pferdebahnstraße / Berthold-Beitz-Boulevard - ESSEN 51) des Regionalen Flächennutzungsplans (RFNP) Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.9: Zeitplan für die Umsetzung der Aufträge der Beratung in den Gremien
+- TOP 1.10: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.0: Bestellung der Prüfer im Referat Rechnungsprüfung
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Ermächtigungsübertragungen gem. § 22 KomHVO NRW
+- TOP 2.3: Übersicht über die Fraktionsanfragen aus dem Jahr 2019
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.4: Fortführung Luftbildkooperation Geonetzwerk.metropoleRuhr
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.5: Liegenschaftskonzept des Regionalverbandes Ruhr
+- TOP 2.6: Abbruch des ehemaligen Forsthauses Oberhausener Straße 140 in Bottrop und Entwicklung des Grundstückes
+- TOP 2.7: Konzept zur Umwandlung von Waldflächen des RVR in Naturwaldzellen
+- TOP 2.8: Bauen mit Holz statt mit Beton
+- TOP 2.8.1: Antwort auf die Anfrage der Fraktion Piraten Bauen mit Holz statt mit Beton
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.9: Angelegenheiten der Kultur Ruhr GmbH - Verlängerung der Nebenabrede zum Gesellschaftsvertrag der Kultur Ruhr GmbH für den Zeitraum 2021-2023
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.10: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2018 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.10.1: Entwicklung der Personalaufwendungen im Jahr 2018 – Feststellungen im Lagebericht zum Jahresabschluss 2018 aus dem Wirtschaftsausschuss am 3. März 2020
+- TOP 2.10.2: 
+- TOP 2.11: Zertifizierung der Wälder von Ruhr Grün nach FSC
+- TOP 2.12: Anfragen und Mitteilungen
+- TOP 2.12.1: Antwort auf die Anfrage der FDP-Fraktion i.S. Umsetzung der Informations- und Motivationskampagne zur Direktwahl des Ruhrparlaments im Jubiläumsjahr 2020
+- TOP 2.12.2: Antwort auf die Anfrage der CDU-Fraktion Initiativen des Regionalverbandes Ruhr zu Olympia 2032
+- TOP -: Maßnahmen des RVR in Zeiten der COVID-19-Pandemie
+- TOP -: Haushaltsanträge zur Organisationsstruktur
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
