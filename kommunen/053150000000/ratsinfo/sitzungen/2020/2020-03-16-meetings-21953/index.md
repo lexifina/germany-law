@@ -1,0 +1,104 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-16T16:00:00+01:00
+- Ende: 2020-03-16T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21953
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21953
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO- "Parkanarchie auf dem Auerbachplatz parallel zum Flohmarkt" - zurückgestellt
+- TOP 5.2: Anregung nach Paragraf 24 GO NRW - Trinkwasserbrunnen Stadtwaldweiher / Tierpark - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 7.1.2: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 7.2.2: Betlehem-Platz in Köln-Widdersdorf - zurückgestellt
+- TOP 7.2.3: Maßnahmen gegen illegale Sprayaktionen und Farbschmierereien - zurückgestellt
+- TOP 7.2.4: Verlegung der Großmarktes von Raderberg nach Marsdorf - zurückgestellt
+- TOP 7.2.5: Radverkehr-Konzept Köln Widdersdorf - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Mängelbeseitigung und Ausbesserung Radweg Militärringstraße - zurückgestellt
+- TOP 8.1.2: Beschilderung Römergrab - zurückgestellt
+- TOP 8.1.3: Kreisverkehr Lindenburger Allee / Bachemer Straße - zurückgestellt
+- TOP 8.1.4: Machbarkeitsstudie Stadtbahn Westtrasse / Klüttenbahn - zurückgestellt
+- TOP 8.1.5: Bäume für Widdersdorf - zurückgestellt
+- TOP 8.1.6: Bürokomplex Eupener Straße/Stolberger Straße - zurückgestellt
+- TOP 8.1.7: Abdichtung von Fahrgastunterständen - zurückgestellt
+- TOP 8.1.8: Zukunftskonzept „Kulturraum Kölner Friedhöfe 2025" - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Umgestaltung des öffentlichen Spielplatzes Im Rapsfeld/Egelspfad in Köln- Müngersdorf - zurückgestellt
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 9.2.2: Beschluss über die Einleitung betreffend die vereinfachte 1. Änderung des Bebauungsplanes Nr. 60429/02, Arbeitstitel: Marsdorf Ost in Köln-Junkersdorf, 1. Änderung - zurückgestellt
+- TOP 9.2.3: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sachstandsbericht 2019 der Bezirksvertretung Lindenthal - zurückgestellt
+- TOP 11.1.2: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 11.1.3: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Lindenthal - zurückgestellt
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Sachstand zum Grundstück Lövenicher Weg 9-11 / Belvederestr. 17 (ehemaliger Petershof) in Köln-Müngersdorf - zu AN/0870/2019, Beschluss der Bezirksvertretung 3 (Lindenthal) vom 01.07.2019 - zurückgestellt
+- TOP 11.2.2: Mobilitätskonzept Stolberger Straße - zurückgestellt
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 11.3.2: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 11.3.3: Abriss der Fußwegbrücke und Neubau einer ebenerdigen Querung über die Luxemburger Straße an der Stadtbahnhaltestelle Weißhausstraße - zurückgestellt
+- TOP 11.3.4: Radschnellweg Köln-Frechen - zurückgestellt
+- TOP 11.3.5: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
+- TOP 11.3.6: Vorschlag zur Umbenennung des Heinz-Mohnen-Platzes - zurückgestellt
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.2: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.3: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.4: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.5: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.6: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.7: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.8: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich - zurückgestellt
+- TOP 12.9: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.10: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.11: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.12: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.13: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.14: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.15: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.16: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.17: Begegnungsräume in Widdersdorf - zurückgestellt
+- TOP 12.18: Unterbindung von Lärmbelästigungen im Beethovenpark - zurückgestellt
+- TOP 12.19: Geschwindigkeitskontrollen Lise-Meitner-Ring - zurückgestellt
+- TOP 12.20: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 12.21: Ergänzung der Arbeitsplatzbeschreibung der Schulhausmeister im Bezirk 3 als Baustein eines kommunalen Energie- und Umweltmanagements - zurückgestellt
+- TOP 12.22: Geruchsbelästigung im Stadtbezirk - zurückgestellt
+- TOP 12.23: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
+- TOP 12.24: Leerstehendes Mehrfamilienhaus an der Classen-Kappelmann-Straße 47 - zurückgestellt
+- TOP 12.25: Einsatz von E-Bussen auf der Aachener Straße an den Messstellen - zurückgestellt
+- TOP 12.26: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 12.27: Bauvorhaben Bürokomplex Eupener Straße/Stolberger Straße - zurückgestellt
+- TOP 12.28: Anfrage Weißhaus - zurückgestellt
+- TOP 12.29: Baumfällungen - zurückgestellt
+- TOP 12.30: Anwohnerschutzkonzept - zurückgestellt
+- TOP 12.31: Mommsenstraße - zurückgestellt
+- TOP 12.32: Demontage der Lichtsignalanlage Hauptstraße/Leonardsgasse/Blaugasse - zurückgestellt
+- TOP 12.33: Beleuchtung Kreisverkehr Lise-Meitner-Ring / Adrian-Meller-Straße - zurückgestellt
+- TOP 12.34: Sachstand Bahnsteigverlängerungen Linie 1 - zurückgestellt
