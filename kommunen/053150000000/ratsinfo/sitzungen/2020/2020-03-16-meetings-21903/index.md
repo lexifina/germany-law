@@ -1,0 +1,75 @@
+# Sitzung der Bezirksvertretung Mülheim Die Sitzung wurde abgesagt !!!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-16T17:00:00+01:00
+- Ende: 2020-03-16T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21903
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21903
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Tempo 30 für die Straße "Im Weidenbruch" und den Zufahrten zu dieser Straße (Az.: 02-1600-46/19) - zurückgestellt
+- TOP 2.1.1: Änderungsantrag zur Bürgereingabe TOP 2.1 Im Weidenbruch - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ausweitung des Bediengebiets des Leihradangebots der KVB im rechtsrheinischen Osten - zurückgestellt
+- TOP 7.1.2: Belästigungen durchh Gewerbebetriebe in der Buchholzstraße; Beantwortung der gemeinsamen Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 24.06.2019 - zurückgestellt
+- TOP 7.1.3: Einrichtung eines P+R-Platzes an der Haltestelle Herler Straße/Schützegildeweg - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Wegführung in Köln-Buchheim am Gelände Parkour (Zwischen „Am Schneckenberg“ und „An St. Theresia“) - zurückgestellt
+- TOP 7.2.2: Situation am Zeisbuschweg - zurückgestellt
+- TOP 7.2.3: Elektrozaun am Hornpottweg - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Offenes Baumkataster für Mülheim: Standorte benennen und Pflanzung fordern - zurückgestellt
+- TOP 8.1.2: Anwohnerinnen und Anwohner in Mülheim vor Dieselabgasen und Lärm schützen – Landstromanlagen am Rheinufer einrichten! - zurückgestellt
+- TOP 8.1.3: Einrichtung einer Teilzeitstelle für den Verein „FEE – Fördern & Ernten e.V.“ aus Köln-Holweide - zurückgestellt
+- TOP 8.1.4: Fluglärm in Köln-Mülheim - zurückgestellt
+- TOP 8.1.5: Umsetzung der im Bebauungsplan „Zentrum Buchforst“ festgesetzten Nutzungsausschlüsse - zurückgestellt
+- TOP 8.1.6: Einrichtung einer stationären Geschwindigkeitsüberwachung im Bereich GieratherStraße zwischen Penningsfelder Weg und Stadtgrenze Bergisch Gladbach und Durchfahrverbot Anliegerverkehr und Linienbusverkehr frei) für LKW ab 3,5 t in beiden Richtungen - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Entfall der Eisenbahnüberführung "Eschenbruchstraße" der DB Netz AG - zurückgestellt
+- TOP 9.1.2: Straßenunterhaltungsmaßnahme im Kölner Stadtgebiet (Mülheim) - zurückgestellt
+- TOP 9.1.3: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - zurückgestellt
+- TOP 9.1.4: Haushaltsplan Doppelhaushalt 2020 / 2021; hier Veranschlagung der bezirksorientierten Mittel für die Jahr 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - zurückgestellt
+- TOP 9.1.5: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vorzeitige Vergabe von bereits vorliegenden Anträgen - zurückgestellt
+- TOP 9.1.6: Benennung einer Privatstraße im Geltungsbereich des Bebauungsplanes Ehemaliger Güterbahnhof in Köln-Mülheim - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 9.2.2: verschhoben zu 10.2.16
+- TOP 9.2.3: EFRE Grüne Infrastruktur - Vielfalt vernetzen - zurückgestellt
+- TOP 9.2.4: Baubeschluss für die Generalinstandsetzung des Dellbrücker Steinweges zwischen den Hausnummern 2 und 18 sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finazstelle 6601-1201-0-6605, Generalsanierung von Straßen - zurückgestellt
+- TOP 9.2.5: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Otto und Langen-Quartier' in Köln-Mülheim nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - zurückgestellt
+- TOP 9.2.6: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.7: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 10.2.8: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 10.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.10: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 10.2.11: Bushaltestellen für Bienen begrünen - zurückgestellt
+- TOP 10.2.12: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Beziirk Mülheim - zurückgestellt
+- TOP 10.2.13: KVB-Baumaßnahme zwischen den Haltestellen Slabystraße und Mülheim Wiener Platz - zurückgestellt
+- TOP 10.2.14: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
+- TOP 10.2.15: Außenflächennutzung Kinder- und Jugendtreff Picco - zurückgestellt
+- TOP 10.2.16: Sachstand zur Teilmaßnahme 0.0.1 "Verfügungsfonds" aus dem Programm "Starke Veedel - Starkes Köln" - zurückgestellt
+- TOP 10.3: Bemerkungen zur Niederschrift
