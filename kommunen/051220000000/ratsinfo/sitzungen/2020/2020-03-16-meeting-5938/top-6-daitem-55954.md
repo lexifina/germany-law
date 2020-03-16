@@ -1,0 +1,7 @@
+# TOP 6.: Wirtschaftsplan 2020 des Zweckverbandes Bergische Volkshochschule (BVHS)
+
+- Sitzung: Beteiligungsausschuss (48. Sitzung) (2020-03-16)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/55954
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/31643
