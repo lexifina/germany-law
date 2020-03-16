@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - - - Die Sitzung wurde abgesagt - - -
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-16T17:00:00+01:00
+- Ende: 2020-03-16T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21748
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21748
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 02.12.2019 betreffend "Messenger-Dienst als städtisches Kommunikationsmittel" - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung des Personal- und Verwaltungsmanagements zu der Thematik Marketingsmaßnahmen / Personalgewinnung - zurückgestellt
+- TOP 4.2: Brüsseler Platz - Gerichtlicher Vergleich vor dem OVG NRW am 20. November 2019 - zurückgestellt
+- TOP 4.3: Kinderfreundliche Kommune Köln Erster internationaler Child Friendly Cities Summit in Köln,veranstaltet durch UNICEF und der Stadt Köln / Halbzeitbilanz "Kinderfreundliche Kommune" - zurückgestellt
+- TOP 4.4: Mitgliedschaft der Stadt Köln bei Transparency International - zurückgestellt
+- TOP 4.5: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 4.6: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen 2019 - zurückgestellt
+- TOP 4.7: Evaluationsbericht zum vereinfachten Ersatzbeschaffungsverfahren von Rettungsdienstfahrzeugen durch die Festlegung von Nutzungsdauern - zurückgestellt
+- TOP 4.8: Mitteilung des Personal- und Verwaltungsmanagements zum Kaufhof-Bewerbertag in 2019 - zurückgestellt
+- TOP 4.9: Kompensationszahlung der Stadt Köln für 2019 - zurückgestellt
+- TOP 4.10: Transparenzbericht 2019 zur Verwaltungsreform #wirfürdiestadt - zurückgestellt
+- TOP 4.11: Mitteilung zum Änderungsbeschluss vom 23.04.2018 (AN/0629/2018) - zurückgestellt
+- TOP 4.12: EDELGARD schützt - Aktueller Sachstand und Evaluationsbericht - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Einsatzkonzepte Karneval Streetwork und Ordnungsdienst" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Änderungsantrag der SPD-Fraktion betreffend TOP 10.2 "Herstellung von Barrierefreiheit auf Kölner Gehwegen" (2763/2019) - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2020 - zurückgestellt
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 10.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 10.3: Dritte Satzung zur Änderung der Satzung der Stadt Köln vom 28.02.2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 10.4: Entgelt- und Honorarordnung für den Museumsdienst Köln - zurückgestellt
+- TOP 10.5: Besondere Regelung zur "Straßenmusik im Domumfeld" - zurückgestellt
+- TOP 10.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Satzungsänderung - zurückgestellt
+- TOP 10.7: Kommunales Vorkaufsrecht - Erfahrungsbericht und Evaluation - zurückgestellt
+- TOP 10.8: Bedarfsfeststellung über die Ersatz-/Neubeschaffung von Veranstaltungsmobiliar für das Historische Rathaus sowie die Beteiligung an Planungskosten für Instandhaltungsmaßnahmen - zurückgestellt
+- TOP 10.9: Anpassung der Ermäßigungsregelung für Konzerte des Gürzenich-Orchesters ab der Spielzeit 2020/21 - zurückgestellt
+- TOP 10.10: Elternbeitragssatzung für die Kindertagesbetreuung ab 01.08.2020 - zurückgestellt
+- TOP 10.11: Ersatzansprüche der Häfen und Güterverkehr Köln AG - Ausbaustopp Godorfer Hafen - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
