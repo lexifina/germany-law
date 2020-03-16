@@ -1,0 +1,1 @@
+Auf Grund des Art. 14 Satz 2 Halbsatz 2 und des Art. 63 Abs. 1 Satz 1 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl. S. 410, 764, BayRS 2032-1-1-F), das zuletzt durch § 3 des Gesetzes vom 24. Juli 2015 (GVBl. S. 266) geändert worden ist, verordnet die Bayerische Staatsregierung:
