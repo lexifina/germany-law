@@ -1,0 +1,7 @@
+# TOP 7.: Aktueller Sachstand OGS Ausbau - mündlicher Bericht -
+
+- Sitzung: Ausschuss für Schule und Weiterbildung (38. Sitzung) (2020-03-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/57054
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/32115
