@@ -1,0 +1,6 @@
+# TOP 1.: Verschiedenes
+
+- Sitzung: Bau- und Umweltausschuss (2020-03-17)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/2517
