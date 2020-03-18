@@ -1,0 +1,170 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-03-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405259
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405259
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Nachtrag: - BV 2.13-2.19: Bauvorhaben - BVI 2.3: Austausch Lichtsignalanlage Eduard-Schmid-/Ohlmüllerstraße - BVI 2.4-2.6: Baumfällungen
+- TOP 5.1.: Planungen für den Radweg am Gebsattelberg offenlegen !
+- TOP 5.2.: Die Stadtverwaltung legt die Streichungen von Parkplätzen im Stadtbezirk 5 offen !
+- TOP 5.3.: Dachaufbau und innerstädtische Verdichtungen
+- TOP 5.4.: Erneuerung und Erweiterung öffentlicher Grünflächen und Spielplätze in der Au
+- TOP 5.5.: Kegelhofmühlbach: Nachpflanzung eines Ersatzbaums
+- TOP 6.1.1.: (E) Stadtbezirksbudget AKA e.V. Aufstellung Bücherschrank am Genoveva-Schauer-Platz ab 18.03.2020 10.293,50 €; Az. 0262.0-5-0279 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Dokumentarfilm" Produktion eines Dokumentarfilms vom 03.-30.04.2020 2.750,00 € / Az. 0262.0-5-0282 - siehe auch UA Kultur - - Eilentscheidung durch OB -
+- TOP 6.2.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Verkehrsgrund in der Weißenburger Str. 17 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Verkürzung der Rotphase der Ampel Innere Wiener Straße 1 zu ungunsten des Autoverkehrs
+- TOP 8.1.1.: Fahrradstraße in der Kirchenstraße: Nachbesserungen (2. Spiegelstrich)
+- TOP 8.1.2.: Befüllung und Entleerung der Enzis am Mariahilfplatz
+- TOP 8.1.3.: Radaufstellfläche Einstein-/Kuglerstraße
+- TOP 8.1.4.: Rosenheimer Platz stadteinwärts: Radfahrstreifen
+- TOP 8.1.5.: Weitere Radlständer in der Weißenburger Str. 41
+- TOP 8.1.6.: Gehwegbenutzung "Am Nockherberg" bergabwärts durch Radfahrer
+- TOP 8.1.7.: Schuiwegsicherheit am Gebsattelberg erhöhen
+- TOP 8.1.8.: Pflaster am Genoveva-Schauer-Platz bearbeiten
+- TOP 8.1.9.: Kein Abriss der historischen Anwesen Hochstr. 53 und 53a, Aufnahme in die Denkmalliste - Zwischennachricht -
+- TOP 8.1.10.: Ausbaupläne der MVG am Ostbahnhof
+- TOP 8.1.11.: 1. Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Pilgersheimer- und Humboldtstraße 2. Schaffung einer 30er-Zone ab Wittelsbacherbrücke bis Falkenstraße
+- TOP 8.1.12.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Aufstellung einer Bank über dem Auer Mühlbach
+- TOP 8.1.13.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Pflanzung einer Hecke am Kolumbusplatz / Humboldtstraße
+- TOP 8.1.14.: Einrichtung eines Tagesheims an der Grundschule am Mariahilfplatz
+- TOP 8.1.15.: Eilanfrage zu Mariahilfplatz 18: Schulbauoffensive - Abbruch und Erweiterung Sporthallen mit Tagesheim
+- TOP 8.1.16.: Versammlungsstätten für nachbarschaftliches Engagement Vertagung aus der Sitzung vom 19.02.2020
+- TOP 8.1.17.: Zwischennutzung im Motorama ?
+- TOP 8.2.1.: Baumgräben in der Lothringer Straße instand setzen Antwort Baureferat zur Anfrage BA 5 vom 19.02.2020
+- TOP 8.3.1.: Geschwindigkeitskontrollen in der Welfenstraße
+- TOP 8.3.2.: Graffiti Wildwuchs
+- TOP 8.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.4.: Unterstützung der Bezirksausschüsse beim papierlosen Arbeiten in der Wahlperiode 2020-2026
+- TOP 8.4.1.: Infoblatt März 2020
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Vorstellung der Theatergruppe "Brettgeflüster"
+- TOP II.2.: (E) Stadtbezirksbudget Initiative "Dokumentarfilm" Produktion eines Dokumentarfilms vom 03.-30.04.2020 2.750,00 € / Az. 0262.0-5-0282 - Eilentscheidung durch OB -
+- TOP II.3.: ThemenGeschichtsPfad "Eisenbahn im Münchner Osten" erarbeiten
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Situation am Kolumbusplatz Antwort AKIM zum Schreiben BA 5 vom 31.01.2020 => dazu Bürgeranliegen: Entschärfung der angespannten Situation am Kolumbusplatz
+- TOP 3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städt. Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2019/2020
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kleinkindschaukel für den Spielplatz auf der Postwiese (Ziffer 2 des Antrags)
+- TOP 4.2.: Zuschuss für zwei Aktionstage für Mädchen und Jungen Schreiben von Projekt-Laden International Haidhausen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget AKA e.V. Aufstellung Bücherschrank am Genoveva-Schauer-Platz ab 18.03.2020 10.293,50 €; Az. 0262.0-5-0279
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Verkehrsgrund in der Weißenburger Str. 17
+- TOP 2.: Anhörungen
+- TOP 2.1.: ASZ Sommerfest am 25.06.2020 am Kolumbusplatz - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.2.: Kulturelle Strandveranstaltung an der Corneliusbrücke vom 15.05.-15.08.2020 - Fristverlängerung bis 30.04.2020 -
+- TOP 2.3.: Skatepark Mobil in der Postwiese am 02.05., 04.06., 27.06., 18.07., 31.07., 14.08., 28.08., 04.10. und 24.10.2020 - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.4.: Spielaktionen der AG Spiellandschaft Stadt 2020, Antrag auf Sammelgenehmigung - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 3.: Unterrichtungen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Braystr. 16: Ausbau Dachgeschoss 2 sowie Anbau eines Aufzugs, Tektur - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.2.: Weißenburger Str. 29: Aufbau einer Dachterrasse auf dem Seitenflügel im 1. Obergeschoss, Tektur - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.3.: Gaisbergstr. 18: Zusammenlegung zweier Nutzeinheiten im Erdgeschoss - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.4.: Rosenheimer Str. 65: Abbruch und Neuerrichtung Satteldach, DG-Ausbau, Anbau neuer Balkone, Einbau eines Aufzugs, Neugestaltung der Fassade, Nutzungsänderung des Hofgebäudes, Tektur - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.5.: Ismaninger Str. 22: Anbau eines Bettenaufzugs in der Urologie zwischen Stationsgebäude und Treppenhaus mit Zugangssteg im 1. und 2. Obergeschoss und neuer Außentreppe als Zugangs- und Fluchttreppe im Erdgeschoss - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.6.: Falkenstr. 21: Neubau eines Wohnhauses mit Tiefgarage, Abbruch Wohn- und Geschäftshaus - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.7.: Lilienstr. 2: Nutzungsänderung UG von Gaststätte zu Escape Games, Schließung eines Ausgangs des bestehenden EG-Kinos zur räumlichen Abtrennung eines Rettungswegs aus der Nutzungseinheit UG, Tektur - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.8.: Preysingstr. 87: Nutzungsänderung eines Seminarhauses zu einem Verwaltungsbau sowie Errichtung neuer Türöffnungen - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.9.: Max-Weber-Platz 9: Überdachung Lichthof mit Kellerabgang - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.10.: Regerstr. 25: Errichtung einer Überdachung mit beweglichen Glaselementen für die Terrasse des bestehenden McDonalds Restaurants - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.11.: Regerstraße: Neubau des Sternenhauses mit 3 separaten Wohnungen - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.12.: Regerstraße: Neubau eines Wohnblocks (91 WE) mit Kindertagesstätte und Tiefgarage / Baugebiet 2 (2) - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.13.: Eggernstr. 3: Abbruch der Garagenanlage, Neubau eines Hinterhofgebäudes mit Wohnflächen sowie Entsiegelung des asphaltierten Hofes durch wasserdurchlässigen Belag, Begrünung des baumlosen Grundstücks - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.14.: Johannisplatz 18: Neubau einer Dachgaube - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.15.: Lilienstr. 56: DG-Ausbau in einem denkmalgeschützten Wohngebäude mit Errichtung von 8 Gauben sowie eines Balkons an der Innenhoffassade - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.16.: Holzhofstr. 3: Schaffung von Wohnraum im Innenhof in 3 Varianten, Vorbescheid - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.17.: Wörthstr. 2: Schulbauoffensive - Sanierung und Umbau von WC-Anlagen, Einbau zweier Aufzüge, Nutzungsänderung von Klassenzimmern zu Mittagsbetreuung und Fachlehrsälen sowie Einbau von Akustikdecken - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.18.: Wörthstr. 3: Rückbau des Notdachs aus dem Jahr 1945 und Wiederherstellung des ursprünglichen Mansarddachs von 1895 mit DG-Ausbau (2 WE) sowie Anbau eines Personenlifts, Tektur (Anbau von Notleiteranlagen u.a.) - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.19.: Pariser Str. 30: Errichtung eines privaten 1-zügigen jüdischen Gymnasiums im rückwärtigen Grundstücksbereich durch Umbau/Sanierung des derzeit bereits als Schulhaus genutzte 4-geschossige "Hofgebäude" sowie Ergänzung um einen 4-geschossigen Erweiterungsbau im süd-östl. Bereich nach Rückbau des an dieser Stelle befindlichen Garagenbaukörpers - VORBESCHEID - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 3.2.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP 3.3.: (U) LOS_DAMA! (Landscape and Open Space Development in Alpine Metropolitan Areas) - Ergebnisse, Andockförderung und weitere Möglichkeiten für Folgeprojekte
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Errichtung einer Treppenanlage an der Maximiliansbrücke auf der Praterinsel Genehmigungsbescheid
+- TOP 3.6.: Information zum Beginn von Baumaßnahmen an der S-Bahn-Station und in der Grünanlage Rosenheimer Platz
+- TOP 3.7.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Asamstr. 5 b) Milchstr. 6 c) Sommerstr. 7
+- TOP 3.8.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 3.9.: Sperrmüll in den Innenhöfen der Lothringer Str. 8 und 8a Antwort AWM zum Schreiben BA 5 vom 31.01.2020
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Prüfung Vorkaufsrecht Balanstr. 41 und 41 a
+- TOP 4.2.: Keine weitere Genehmigungen für Dachausbauten Vertagung aus der Sitzung vom 19.02.2020
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch von Lichtsignalanlagen an der Maximiliansbrücke Ost - Stellungnahme nicht erforderlich (Unterrichtung) -
+- TOP 2.2.: Maria-Theresia-Str. 3a: Fällung von 1 Vogelkirsche - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.3.: Austausch von Lichtsignalanlagen in der Eduard-Schmid-/Ohlmüllerstraße - Stellungnahme nicht erforderlich (Unterrichtung) -
+- TOP 2.4.: Breisacher Str. 9: Fällung von 1 Birke - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.5.: Kirchenstr. 24: Fällung von 1 Weide - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 2.6.: Mariahilfstr. 8: Fällung von 2 Robinien - Stellungnahme gemäß Beschluss UA nach § 20 der BA-Satzung erfolgt -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 3.6.: (U) Umsetzung des Radbegehren komplett vorstellen Antrag Nr. 14-20 / A 06575 von Herrn BM Manuel Pretzl vom 21.01.2020, eingegangen am 21.01.2020
+- TOP 3.7.: Umbau Trambahnhaltestelle Deutsches Museum Stellungnahme Referat für Stadtplanung und Bauordnung zum Planfeststellungsverfahren
+- TOP 3.8.: Information zu den Sperrungen der Ludwigsbrücken während der Bauarbeiten
+- TOP 3.9.: Novellierung der Naturdenkmalverordnung Antwort Untere Naturschutzbehörde zum Schreiben BA 5 vom 26.02.2020
+- TOP 3.10.: Parksituation mit dem Anwohnerausweis "Franziskanerstraße" Antwort KVR zum Schreiben BA 5 vom 06.02.2020
+- TOP 3.11.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume, hier: 1 Bergahorn, Preysingplatz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Vorfahrt Pariser Platz / Behinderungen durch Falschparker (Ziffer 1 und 3 des Antrags)
+- TOP 4.2.: Errichtung von Fahrradstellplätzen in der Balanstr. 28 vor dem ASZ Au
+- TOP 4.3.: Diverse Anliegen für den Bezirksausschuss: 1. Regelmäßige Fahrradentrümpelungen in der Oberen Au/Haidhausen ? 2. "Zweckentfremdung" von Gehwegen und Baumgrünflächen z.B. in der Welfenstraße 3. Orleansstraße / X 30 Haltestellenerweiterung Welfenstraße / Aurbacherstraße 4. Gehwegerweiterung am Gebsattelberg stadteinwärts 5. Anbringung von Parkverbotsschildern an der Aurbacherstraße 6. Bahnübergang Ostfriedhof 7. Infrastruktur von Einkaufsmöglichkeiten und Erholung
+- TOP 4.4.: Baustelle Grundschule Hypopark
+- TOP 4.5.: Ampel an der Orleansstraße / Elsässer Straße Antwort KVR liegt vor
+- TOP 4.6.: Fahrradstraße für den Bereich Zeppelinstraße / Mariahilfstraße / Bereiteranger
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 30.03.2020, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 30.03.2020, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 31.03.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 01.04.2020, 19.00 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 02.04.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 22.04.2020, 19.00 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Dienstag, 24.03.2020, 19 Uhr, Friedenstraße 40
