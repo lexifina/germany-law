@@ -1,0 +1,57 @@
+# Bezirksvertretung 6 - ENTFÄLLT (bis vorerst 19. April 2020 werden keine Sitzungen stattfinden)
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-18T17:00:00+01:00
+- Ende: 2020-03-18T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19005
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19005
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket der Bezirksvertretung 6 für den 2020-03-18 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373937.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket der Bezirksvertretung 6 für den 2020-03-18 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373937.pdf
+- Wortprotokoll: Digitales Sitzungspaket der Bezirksvertretung 6 für den 2020-03-18 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00373937.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 4: Anfrage SPD: Trasse Ortsumgehung Rath
+- TOP 5: Ladestationen im Stadtbezirk 6
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspiel in Mörsenbroich
+- TOP 13: Anfrage der CDU-Fraktion: Kinderspielplatz obere Kalkumer Straße / Grünzug A 44
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 15: Antrag der CDU und FDP: Verkehrswende umsetzen - Verbesserung für Pendler aus Ratingen und Umgebung
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 19: Bereitstellung von Mitteln für den Jahresempfang 2020
+- TOP 20: Bauunterhaltungsmittel 2020 - Teil B
+- TOP 21: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Projekt "Blumenoasen"
+- TOP 22: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Projekt "Gesunder Garten in Jugendeinrichtungen"
+- TOP 23: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Konkretisierung Grünordnungsplan
+- TOP 24: Zuschussvergabe 2020 Antrag Verein der Förderer der St.-Franziskus-Schule e.V. - Förderung der Brauchtumspflege - Mörsenbroicher Veedelszoch
+- TOP 25: Zuschussvergabe 2020 Antrag der Karnevalsgesellschaft Gemeinsam Jeck e.V. - Unterstützung bei der Finanzierung der Vereinskleidung
+- TOP 26: Zuschussvergabe 2020 Antrag des Bürger-Schützenverein 1925 e.V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag
+- TOP 27: Zuschussvergabe 2020 Antrag der GGS Krahnenburgstraße - Präventionsprogramm "Mein Körper gehört mir"
+- TOP 28: Zuschussvergabe 2020 Antrag Deutsches Rotes Kreuz, Kreisverband Düsseldorf e.V. - "Unterrath schaut über den Tellerrand - nah und fern ..."
+- TOP -: Informationsvorlagen
+- TOP 29: Mobilitätsplan D; hier: Ortsumgehung Rath - Vorlage 176/ 93/2019
+- TOP 30: Jugendverkehrsschule Rath, Rather Broich 137
+- TOP 31: Erstellung eines Verkehrskonzeptes für den Stadtteil Rath und im 2. Schritt für den Stadtbezirk 6 - Vorlage 176/122/2019
+- TOP 32: Zuschussvergabe 2020 - Antrag der St. Seb. Schützenbruderschaft e.V. Düsseldorf-Unterrath - Seniorennachmittag am Kirmesmontag
+- TOP 33: Verfügungsmittel 2020 - Schulgarten Friedrich-Rückert-Gymnasium
+- TOP 34: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude"
