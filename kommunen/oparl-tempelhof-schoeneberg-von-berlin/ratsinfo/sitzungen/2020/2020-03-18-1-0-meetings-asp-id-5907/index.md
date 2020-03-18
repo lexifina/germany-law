@@ -1,0 +1,107 @@
+# entfällt - 41. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-03-18T17:00:00+01:00
+- Ende: 2020-03-18T17:00:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5907
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5907
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=351728
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen
+- TOP 2: Einwohneranfragen
+- TOP 3: Vorlagen des Vorstehers
+- TOP 3.1: Benennung eines_r Bezirksverordneten als Mitglied in den Kulturbeirat
+- TOP 4: Kinder- und Jugendparlament
+- TOP 5: Protokollgenehmigung
+- TOP 6: Unerledigte Drucksachen
+- TOP 6.1: Ausbau der Radverkehrs-Infrastruktur im Bezirk
+- TOP 6.2: Gleditschstrasse Achtung keine voreiligen Handlungen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Große Anfragen
+- TOP 8.1: Teileinziehung des Breslauer Platzes
+- TOP 8.2: Müll im öffentlichen Raum
+- TOP 8.3: Covid-19/ SARS-CoV-2 in Tempelhof-Schöneberg
+- TOP 8.4: Hilfen für Geflüchtete im Bezirk?
+- TOP 9: Vorlagen zur Beschlussfassung
+- TOP 10: Anträge
+- TOP 10.1: Schulwegsicherheit an der Havelland-Schule durch Anpassung der Ampelschaltung erhöhen
+- TOP 10.2: Frauentoiletten mit Menstruationsprodukten ausstatten
+- TOP 10.3: Anmietung von Flächen für eine temporäre Schule statt Errichtung auf dem Gelände der Kolonie Eschenallee prüfen
+- TOP 10.4: Rheumatologische Versorgung im Bezirk sicherstellen
+- TOP 10.5: Überprüfung der Löhne bei „Aufstockern“ auf Mindestlohn durch das Jobcenter
+- TOP 10.6: Realistische Sachkostenerstattung für die im Bezirk tätigen Schiedspersonen
+- TOP 10.7: Regenwasserduschen für Fußgänger*innen beenden
+- TOP 10.8: Mehr Regenbogen wagen
+- TOP 10.9: Luisa ist hier! - Hilfsangebot für Frauen und Mädchen in der Partyszene
+- TOP 10.10: Vollstreckung von Bußgeldern bei Verstößen gegen den Mietendeckel aussetzen
+- TOP 10.11: Versprechen einhalten - Konsequenzen aus der Einwohner_innenversammlung zur Marienhöhe ziehen
+- TOP 10.12: Schlaglöcher in der Hedwigstraße beseitigen
+- TOP 10.13: Kinderlärm ist Zukunftsmusik – von Schallschutzmaßnahmen in Bädern absehen
+- TOP 10.14: Verkehrswende in Tempelhof-Schöneberg mit Ladestellen unterstützen
+- TOP 10.15: Aktiv gegen Antisemitismus & gruppenbezogene Menschenfeindlichkeit
+- TOP 10.16: Das Angebot des „Mobilen Bürgeramtes/Bürgeramtskoffer“ für Tempelhof-Schöneberg ausbauen.
+- TOP 10.17: Eingang zum Bahnhof Südkreuz an der zum Nord-Süd-Grünzug gelegenen Seite wieder öffnen
+- TOP 10.18: Sensortechnik für mehr Hygiene und Infektionsschutz in den Toilettenanlagen unseres Bezirks
+- TOP 10.19: Fahrradführung in die Else-Lasker-Schüler-Straße verbessern
+- TOP 10.20: Sozialräumliche Arbeit in der Berliner Jugendhilfe weiterentwickeln
+- TOP 10.21: Zusätzliches Kleinspielfeld in der Bosestraße ermöglichen
+- TOP 10.22: Sanierung Goltzstraße und Gleditschstraße rund um den Winterfeldtplatz
+- TOP 10.23: Teileinziehung der Lauterstraße umsetzen
+- TOP 10.24: Notfalldosen fördern
+- TOP 10.25: Wahl eines stellv. Bürgerdeputierten
+- TOP 11: übrige Große Anfragen
+- TOP 11.1: Parkraumbewirtschaftung überall - nur nicht in Friedenau?
+- TOP 12: Beschlussempfehlungen
+- TOP 12.1: Selbstverteidigung & Selbstbehauptung für Mädchen*
+- TOP 12.2: Inklusions- & Parasport unterstützen - jährlichen Förderpreis vergeben
+- TOP 12.3: Queersport unterstützen - jährlichen Förderpreis vergeben
+- TOP 12.4: Benennungen von Sportanlagen transparent, geschichtsbewusst & gleichstellungsfördernd gestalten
+- TOP 12.5: Projekt „Kiez-Hausmeister“ eng begleiten
+- TOP 12.6: Freischaffende Künstler*innen in Tempelhof-Schöneberg stärken
+- TOP 12.7: Zentrenkonzept fortschreiben und städtebauliche Entwicklungsimpulse geben
+- TOP 12.8: Kein Abzug von der Miete bei sozialen Leistungsemfänger_innen bei Mietminderungen
+- TOP 12.9: Zusammensetzung der Wohnbevölkerung schützen Verkäufe an „Proforma-Mieter*innen“ in Milieuschutzgebieten unterbinden
+- TOP 12.10: Über die Weiterentwicklung des Wenckebach-Klinikums informieren
+- TOP 12.11: B-Plan-Verfahren am Mühlenberg aussetzen
+- TOP 12.12: Stufenvorweggewährungen im RSD vereinfachen
+- TOP 12.13: Wo Vierfüßler um die Wette laufen, können dies auch Zweifüßler – Trabrennbahn Mariendorf für weitere Sportarten nutzbar machen
+- TOP 12.14: Bike-Flashs in Tempelhof-Schöneberg erproben
+- TOP 12.15: Literatur gegen Homophobie in die Bibliotheken
+- TOP 12.16: des Bezirksamtes Tempelhof-Schöneberg über den Entwurf einer FNP-Änderung für den Bereich Attilastraße/Röblingstraße
+- TOP 12.17: Aufenthaltsqualität des Bayrischen Platzes mit einfachen Mitteln erhöhen
+- TOP 12.18: Ökologische Einbindung Landschaftsschutzgebiet Marienfelde
+- TOP 12.19: Bessere Voraussetzungen zur Vermeidung von Wohnungslosigkeit und Obdachlosigkeit psychisch kranker Menschen schaffen
+- TOP 12.20: Keine weitere Ausübung des Vorkaufsrechts zugunsten der „DIESE eG“
+- TOP 12.21: Laubbeseitigung in Grünanlagen
+- TOP 12.22: Grünanlagen im Zeichen der Klimaerwärmung
+- TOP 12.23: Erinnerung an Dr. Kurt Gudell endlich umsetzen!
+- TOP 12.24: Mahnmal wieder ins Zentrum
+- TOP 12.25: Löhne auf Sittenwidrigkeit bei „Aufstockern“ durch das Jobcenter überprüfen
+- TOP 12.26: Ergonomie in den Schulen verbessern
+- TOP 12.27: Städtebauliche Planung Am Mühlenberg im Baukollegium beraten
+- TOP 12.28: Dresdner Bahn: Parkplatz Briesingstraße als P+R-Erweiterung
+- TOP 12.29: Gedenktafel für entrechtete Bezirks- und Stadtverordnete 1933
+- TOP 12.30: Bauvorhaben Mühlenberg – Mehrwert für den Kiez sicherstellen
+- TOP 12.31: Gartendenkmal Bayerischer Platz
+- TOP 12.32: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung für ein chinesisches-deutsches Mathematik-Projekt
+- TOP 12.33: Vergabe von Sondermittel der Bezirksverordnetenversammlung - Unterstützung für die Ausrichtung des 20. internationalen Fußball-Tuniers
+- TOP 12.34: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung für die Her- und Aufstellung von Informationstafeln
+- TOP 12.35: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung zur Anschaffung für eine neue Saalbestuhlung
+- TOP 12.36: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung für zwei Trainingslager in Montenegro und Málaga
+- TOP 12.37: Kitasanierung: Ämterübergreifende Arbeitsgruppe einrichten.
+- TOP 12.38: Personaloffensive für den Regionalen Sozialdienst (RSD)
+- TOP 13: Mitteilungen zur Kenntnisnahme
+- TOP 13.1: Tempo 30 am Zebrastreifen General-Pape-Straße / Hertha-Block-Promenade
+- TOP 13.2: U-Bahnlinie 6: Zukunftsoptionen nicht verbauen!
+- TOP 13.3: Geburtstag Tucholskys auf Gedenktafel korrigieren
+- TOP 13.4: Rücknahme der Mieterhöhungen bei städtischen Wohnbaugesellschaften
+- TOP 13.5: Hauptstadtregion Berlin-Brandenburg – Tempelhof-Schöneberg gehört dazu
+- TOP 13.6: Ausweichstandort Hundeauslaufplatz
+- TOP 13.7: LARA über das Jahresende hinaus unterstützen
+- TOP 14: Termin der nächsten Sitzung
