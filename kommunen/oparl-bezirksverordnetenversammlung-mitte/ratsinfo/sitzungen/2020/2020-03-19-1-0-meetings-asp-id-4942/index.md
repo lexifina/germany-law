@@ -1,0 +1,113 @@
+# !!! A B G E S A G T !!! - 36. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-03-19T00:00:00+01:00
+- Ende: 2020-03-19T00:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4942
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4942
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=466897
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 6: Thematische Stunde
+- TOP 7: Mündliche Anfragen
+- TOP 8: Dringlichkeitsanfragen
+- TOP 9: Große Anfragen
+- TOP 9.1: Coronakollaps in Berlin-Mitte?
+- TOP 9.2: Autofreie Friedrichstraße auf Biegen und Brechen?
+- TOP 9.3: Keine Senatsmittel für den Bereich Schule?!
+- TOP 9.4: Umsetzung des Leitprojektes „Radwegeinfrastruktur“ in Berlin-Mitte, hier: Fahrradparken
+- TOP 9.5: Aufwertung der Grünflächen an der nördliche Seite der Holzmarktstraße
+- TOP 9.6: Autofreie Friedrichstraße
+- TOP 9.7: Wie hält es das Bezirksamt mit der IT-Sicherheit?
+- TOP 9.8: IBV Triftstraße: Mit Volldampf voraus ins Chaos!
+- TOP 9.9: Licht an!
+- TOP 9.10: Gedenkveranstaltung 2020 zum Judenpogrom von 1510
+- TOP 9.11: Schuldenberatung für Jugendliche und junge Erwachsene
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 11: Vorlagen zur Beschlussfassung
+- TOP 11.1: Gründung des Vereins Kommunales Nachbarschaftsforum Berlin-Brandenburg e.V. (KNF)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 13: Dringlichkeitsanträge
+- TOP 14: Anträge
+- TOP 14.1: Edinburger Straße 55 neu bauen oder grundsanieren - rasch !
+- TOP 14.2: Flussbadpokal in 2020 fördern
+- TOP 14.3: Beachprojekt Plötzensee ermöglichen
+- TOP 14.4: Grünfläche im Monbijoupark erweitern und kulturelle Nutzungen zwischen Hochbunkeranlage und südlichen Flächen bis zur Spree ermöglichen
+- TOP 14.5: Hauptstadtzulage
+- TOP 14.6: Mühlendammbrücke retten
+- TOP 14.7: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung"
+- TOP 14.8: Sicherstellung der Aufnahmekapazitäten für Geflüchtete
+- TOP 14.9: Mühlendammbrücke
+- TOP 14.10: Mittes Rathaus der Zukunft ist aus Holz
+- TOP 14.11: Mehr Schulplätze in Mitte schaffen - Gottfried-Röhl-Grundschule unverzüglich baulich erweitern
+- TOP 14.12: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte anwenden
+- TOP 14.13: Sofortmaßnahmen gegen SARS-Cov-2
+- TOP 14.14: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren
+- TOP 14.15: Fahrplan für die Gewinnung von Schul- und Kitastandorten vorlegen
+- TOP 14.16: U-Bahnhof Französische Straße
+- TOP 14.17: Verkehrskonzepte für ALLE Verkehrsteilnehmer erstellen – Umstieg auf E-Mobilität fördern!
+- TOP 14.18: Pilotprojekt: Schaffung eines Referenzobjektes „Klimaneutrale öffentliche Liegenschaften im Bezirk Mitte“
+- TOP 14.19: 75 Jahre Befreiung vom Faschismus angemessen in Berlin-Mitte gedenken
+- TOP 14.20: Mitte kommt auf den Hund
+- TOP 14.21: Zweite und dritte Stellvertretung Bürgerdeputierte für den Ausschuss „Soziale Stadt“
+- TOP 14.22: Hülsen für Traglufthalle Stadtbad Tiergarten jetzt schon anbringen
+- TOP 14.23: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte
+- TOP 14.24: Tempo 30 für die Köpenicker Str.
+- TOP 14.25: Den Einsatz eines anonymisierten Bewerbungsverfahrens prüfen
+- TOP 15: Entschließungen
+- TOP 15.1: Habersaathstraße 40-48 - Günstigen Wohnraum erhalten – Rekommunalisierung prüfen
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen
+- TOP 16.1: Regelmäßig über den Stand von Baumaßnahmen berichten und vollständigen Risikomanagementbericht vorlegen
+- TOP 16.2: Rathausvorplatz für alle
+- TOP 16.3: EU-Bürger*innen haben Anspruch auf Unterbringung nach ASOG.
+- TOP 16.4: soziale Infrastruktureinrichtungen für das QM-Gebiet Pankstraße
+- TOP 16.5: Runder Tisch zur Rathenower Str. 15-18 & Moratorium des Teilabrisses
+- TOP 16.6: Umweltgerechtigkeit ist Querschnittsaufgabe im Bezirksamt
+- TOP 16.7: Jakobsweg in Mitte ausschildern
+- TOP 16.8: Ein Haus der Hilfe für Mitte
+- TOP 16.9: Illegales Hütchenspiel
+- TOP 16.10: Eine neue Chance für ein Monbijoutheater!
+- TOP 17: Vorlagen zur Kenntnisnahme
+- TOP 17.1: Jährlicher Energiebericht
+- TOP 18: Keine Verdrängungspolitik am Hansaplatz
+- TOP 18.1: Chancen und Verantwortung am Leopoldplatz wahrnehmen
+- TOP 18.2: Neue Wahlperiode, alte Probleme: Unternehmensfreundliche Novellierung der Überbrückungs-hilfen weiterhin einfordern
+- TOP 18.3: Weg zum Schleusenkrug sicher gestalten!
+- TOP 18.4: Werkstatt-Verfahren „Neue Pavillons für die Karl-Marx-Allee“
+- TOP 18.5: Personalbestand bei Evas Haltestelle den größeren Räumlichkeiten anpassen
+- TOP 18.6: Berlin trägt Kippa! - und rückt Zeugnisse historischer Judenpogrome ins Licht
+- TOP 18.7: Konflikte am Rosenthaler Platz und Weinbergsweg endlich beilegen!
+- TOP 18.8: Weniger Müll in Mitte
+- TOP 18.9: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen
+- TOP 18.10: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte
+- TOP 18.11: Antrag zum Eckwertebeschluss für den Doppelhaushalt 2020/2021
+- TOP 18.12: Ein Treffpunkt für den Huttenkiez ist unabdingbar.
+- TOP 18.13: Mehr Schulplätze an der Gottfried-Röhl – Schulgrundstück größer machen!
+- TOP 18.14: Gehwege frei! Fahrradstellplätze auf die Straße – Autoparkplätze umwidmen!
+- TOP 18.15: Neue Räumlichkeiten - Senior*innen nicht allein lassen
+- TOP 18.16: Schulen über Angebot der Kiezsportlotsin informieren
+- TOP 18.17: Erinnerung "Rund um den Koppenplatz"
+- TOP 18.18: Obdachlosigkeit verhindern! Sofortige Beschlagnahme der Wohnung
+- TOP 18.19: Leitung des Schulamts – Besetzungsverfahren starten
+- TOP 18.20: Erreichbarkeit der Beratungsstelle für behinderte, krebskranke und sehbehinderte Menschen
+- TOP 18.21: Beschluss zum Bebauungsplanentwurf III-34-1 VE vom 23.09.2018 mit Deckblatt vom 06.03.2019, geändert am 10.12.2019 für das Grundstück Sellerstraße 17 im Bezirk Mitte, Ortsteil Wedding, den Entwurf des Durchführungsvertrages zum vorhabenbezogenen Bebauungsplanentwurf III-34-1 VE und die Durchführung einer erneuten Anzeige gemäß § 6 Abs. 2 AGBauGB bei der zuständigen Senatsverwaltung.
+- TOP 18.22: Modifikation der Lebensweltlich Orientierten Räume (LOR)
+- TOP 18.23: Entwicklung und Verwendung von Stiftungsmitteln der „Conrad-Stiftung Bürger* für Mitte“ im Haushaltsjahr 2019
+- TOP 18.24: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2019
+- TOP 18.25: Mittelvergabe zur kiezorientierten Gewalt- und Kriminalitätsprävention der Landeskommis-sion Berlin gegen Gewalt (LaKogG)
+- TOP 18.26: Leitlinien Bürgerbeteiligung - Vorhabenliste
+- TOP 18.27: Quartiersvision Nikolaiviertel
