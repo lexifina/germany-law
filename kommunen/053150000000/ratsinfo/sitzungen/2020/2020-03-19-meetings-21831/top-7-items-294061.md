@@ -1,0 +1,6 @@
+# TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+
+- Sitzung: 43. Sitzung der Bezirksvertretung Nippes Die Sitzung fällt aus !!!! (2020-03-19)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/294061
