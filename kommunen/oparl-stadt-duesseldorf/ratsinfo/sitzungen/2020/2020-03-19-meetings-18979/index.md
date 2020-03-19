@@ -1,0 +1,64 @@
+# Bezirksvertretung 8 -ENTFÄLLT-
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-19T17:00:00+01:00
+- Ende: 2020-03-19T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18979
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18979
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Verpflichtung von einem Mitglied der Bezirksvertretung 8
+- TOP 4: Genehmigung der Niederschrift
+- TOP 5: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW)
+- TOP 6: Unfallstatistik und Kriminalitätsentwicklung 2019 im Stadtbezirk 8
+- TOP 7: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung
+- TOP 8: Berichterstattung Park+Ride in und um Düsseldorf
+- TOP 9: Lärmoptimierter Asphalt (LOA) für den Straßenzug Bernburger Straße/Klein Eller -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2020
+- TOP 14: Handwerker- und Bauernmarkt auf dem Breidenplatz im Jahre 2020
+- TOP 15: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 16: Zuschüsse der Bezirksvertretung 8 im Jahre 2020 - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 17: Baumfällungen in Unterbach (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Sparkasse Lierenfeld (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen)
+- TOP 20: Kulturbahnhof Eller (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen)
+- TOP 21: Ortsumgehung Flingern mit Rad- und Gehwegen (Anfrage CDU-Fraktion)
+- TOP 22: Bahn-Unterführung Gumbertstraße (Eller Mitte) (Anfrage CDU-Fraktion)
+- TOP 23: Verkaufsabsichten städtischer Gebäude im Stadtbezirk 8 (Anfrage CDU-Fraktion)
+- TOP 24: VRR-Stationsbericht 2019 und Barrierefreiheit Eller Mitte S (Anfrage CDU-Fraktion)
+- TOP 25: Qualitätssicherndes Verfahren Dillenburger Weg (Anfrage CDU-Fraktion)
+- TOP 26: Baumentnahme im Stadtbezirk 8 (Anfrage Fraktion Bündnis 90/Die Grünen)
+- TOP 27: Jugendfreizeiteinrichtung Chemnitzer Straße (Anfrage SPD-Fraktion)
+- TOP 28: Zweckverband Unterbacher See (Anfrage SPD-Fraktion)
+- TOP -: Anträge
+- TOP 29: Stromtanken Lierenfeld (Antrag SPD-Fraktion)
+- TOP 30: Trinkbrunnen (Antrag SPD-Fraktion)
+- TOP 31: Mehr Grün in Lierenfeld (Antrag CDU-Fraktion)
+- TOP 32: Geländer Freitreppe auf dem Schulhof Wichernschule (Antrag CDU-Fraktion)
+- TOP 33: Befestigung Verbindungsweg Friedhof Unterbach (Antrag CDU-Fraktion)
+- TOP 34: Wiederherstellung des Bürgersteigs Rathelbeckstraße 360 - 364 (Antrag CDU-Fraktion)
+- TOP 35: Fuß- und Radweg zwischen Bernburger Straße und Darmstädter Straße entlang der S-Bahntrasse (Antrag Fraktion Bündnis 90/Die Grünen)
+- TOP 36: Bahnübergang Am Hackenbruch (Antrag CDU-Fraktion)
+- TOP 37: Einrichtung Tempo 30 (Antrag SPD-Fraktion)
+- TOP -: Informationsvorlagen
+- TOP 38: Fahrradboxen am S-Bahnhof Eller-Süd
+- TOP 39: Gebäude Gumbertstraße / Alt-Eller
+- TOP 40: Rodungsarbeiten im Zuge der Baumaßnahme Krippstraße, Niederschlagswasser-Behandlung
+- TOP 41: Schützenplatz Unterbach - Baumfällungen
+- TOP 42: Stadtsparkasse Düsseldorf - Standort Lierenfeld
+- TOP 43: Freiheitplatz in Vennhausen
+- TOP 44: Schul- / Spielhof auf dem Schulgrundstück Fuldaer Straße 33
+- TOP 45: Schulhof Brorsstraße - Wasseranschluss
+- TOP 46: Düssel-Brücke Vennhausen
+- TOP 47: Kreuzung Klein-Eller/Weinheimer Straße/Annweiler Straße - Erhöhung der Verkehrssicherheit
