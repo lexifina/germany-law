@@ -1,0 +1,65 @@
+# 43. Sitzung der Bezirksvertretung Nippes Die Sitzung fällt aus !!!!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-19T17:00:00+01:00
+- Ende: 2020-03-19T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21831
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21831
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 7.1.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln 3154/2019, 4332/2019 - zurückgestellt
+- TOP 7.1.3: Bauvorhaben auf dem Gelände Getränkehandel Falko Merkenicher Str. 210 in Niehl - zurückgestellt
+- TOP 7.1.4: Grundstück Nordstr. 17 in Köln-Nippes - zurückgestellt
+- TOP 7.1.5: Effektivität der App "Sag´s uns" - zurückgestellt
+- TOP 7.1.6: Verwendung von Stellplatzablösemitteln - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baumfällungen an der Wendeschleife der Linien 12 und 147 - zurückgestellt
+- TOP 7.2.2: Plastiktüten in Altkleidercontainern - zurückgestellt
+- TOP 7.2.3: Renaturierung des Grüngeländes am Hl. Geist Krankenhaus - zurückgestellt
+- TOP 7.2.4: Blumen- und Langgraswiesen - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vermeidung von Unfällen an der Kreuzung Mauenheimer Gürtel/ Geldernstraße - zurückgestellt
+- TOP 8.1.2: Tempo 30 auf der Neusser Straße/Klimastraße - zurückgestellt
+- TOP 8.1.3: Benennung des Platzes vor dem Nebeneingang des Zoos, Stammheimer Straße - zurückgestellt
+- TOP 8.1.4: Verkehrssicherheit an der Wagenhallenstraße und Bahnwärterweg gewährleisten - zurückgestellt
+- TOP 8.1.5: Halteverbot auf der Kapuzinerstraße in Weidenpesch - zurückgestellt
+- TOP 8.1.6: Renaturierung ehem. Containerstandort der Gesamtschule Longerich - zurückgestellt
+- TOP 8.1.7: Einrichtung einer Querungshilfe auf der Höhe der Bushaltestelle Nievenheimer Straße/Geldernstraße - zurückgestellt
+- TOP 8.1.8: Anlegen einer Wegeverbindung im Lohsepark östlich der Neusser Straße - zurückgestellt
+- TOP 8.1.9: Sitzen statt Parken - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Planungsstrategie für künftige Bauvorhaben im Stadtbezirk Nippes - zurückgestellt
+- TOP 8.2.2: Bauvorhaben Simonskaul - zurückgestellt
+- TOP 8.2.3: Erweiterung der Anliegen-Kategorien des Online-Portals „Sag´s uns“ - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Namensgebung der Gemeinschaftshauptschule Reutlinger Straße 49, 50739 Köln (Bilderstöckchen) - zurückgestellt
+- TOP 9.1.2: Beratung des Entwurfs des Doppelhaushalts 2020/2021 und Festsetzung der bezirksorientierten Mittel für die Haushaltsjahre 2020 und 2021 - Sache ist erledigt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 9.2.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 10.2.2: Errichtung eines Taubenhauses an der S-Bahn-Station Nippes - zurückgestellt
+- TOP 10.2.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 10.2.4: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 10.2.5: Geestemünder Straße von Neusser Landstraße bis Industriestraße - zurückgestellt
+- TOP 10.2.6: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Nippes - zurückgestellt
+- TOP 10.2.7: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
