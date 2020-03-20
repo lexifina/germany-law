@@ -10,7 +10,7 @@
 Wahlniederschrift
 über die Ermittlung und Feststellung des Ergebnisses der Briefwahl
 bei der Wahl zum Deutschen Bundestag
-am
+am ..........
 1. Briefwahlvorstand
   Zu der Bundestagswahl waren zur Ermittlung und Feststellung des Ergebnisses der Briefwahl vom Briefwahlvorstand erschienen:
   | Familienname | Vornamen | Funktion |
@@ -42,7 +42,7 @@ am
 |  | Sodann wurde die Wahlurne |  | ⃞ | versiegelt. |  |
 |  |  |  | ⃞ | verschlossen; der Briefwahlvorsteher nahm den Schlüssel in Verwahrung. |  |
 | 2.3 | Anzahl Wahlbriefe; Ungültigkeit von Wahlscheinen |  |  |  |  |  |
-|  | Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom |  | (Bitte die zuständige Stelle eintragen:) |  |
+|  | Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom |  | (Bitte die zuständige Stelle eintragen:) ............................................................ |  |
 |  |  |  | (Bitte Anzahl eintragen:) |  |
 |  |  |  | …………… Wahlbriefe übergeben worden sind. |  |
 |  | Der Briefwahlvorstand stellte weiter fest, dass ihm |  | (Bitte Zutreffendes ankreuzen:) |  |
@@ -53,7 +53,7 @@ am
 | 2.4 | Am Wahltag eingegangene Wahlbriefe |  |  |  |  |  |
 |  | Die Wahlbriefe, die am Wahltag bei der auf dem Wahlbriefumschlag angegebenen Stelle noch vor Schluss der Wahlzeit eingegangen waren, wurden dem Briefwahlvorstand überbracht. |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  |  | ⃞ | Nein, es wurden keine noch vor Schluss der Wahlzeit eingegangenen Wahlbriefe überbracht. (weiter bei Punkt 2.5) |  |
-|  |  |  | ⃞ | Ja, es wurden noch vor Schluss der Wahlzeit eingegangene Wahlbriefe überbracht. (Bitte die weiteren Eintragungen vornehmen:) Ein Beauftragter des/der überbrachte um ……… Uhr ………… Minuten weitere …………… (Anzahl) Wahlbriefe. |  |
+|  |  |  | ⃞ | Ja, es wurden noch vor Schluss der Wahlzeit eingegangene Wahlbriefe überbracht. (Bitte die weiteren Eintragungen vornehmen:) Ein Beauftragter des/der............................................................ überbrachte um ……… Uhr ………… Minuten weitere …………… (Anzahl) Wahlbriefe. |  |
 | 2.5 | Zulassung, Beanstandung und Zurückweisung von Wahlbriefen |  |  |  |  |  |
 | 2.5.1 | Ein vom Briefwahlvorsteher bestimmtes Mitglied des Briefwahlvorstands öffnete die Wahlbriefe nacheinander, entnahm ihnen den Wahlschein und den Stimmzettelumschlag und übergab beide dem Briefwahlvorsteher. |  |  |  |  |  |
 | 2.5.2 | Es wurden |  | (Bitte Zutreffendes ankreuzen:) |  |
@@ -81,8 +81,8 @@ am
 |  | Die Zählung ergab, dass |  | ⃞ | mehr als 50 Wahlbriefe zugelassen wurden (weiter bei Punkt 3.2.3) |  |
 |  |  |  | ⃞ | weniger als 50 Wahlbriefe zugelassen wurden; der Kreiswahlleiter wurde unterrichtet (weiter bei Punkt 3.2.2) |  |
 | 3.2.2 | Weil weniger als 50 Wahlbriefe zugelassen wurden, hat der Kreiswahlleiter nach § 75 Absatz 3 Satz 2 in Verbindung mit § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses mit einem von ihm bestimmten anderen Briefwahlvorstand |  |  | um ……… Uhr ……… Minuten angeordnet. | um ……… Uhr ……… Minuten angeordnet. |  |  |
-|  | Der Briefwahlvorstand des Briefwahlbezirks mit weniger als 50 Wählern (abgebender Briefwahlvorstand) |  |  | (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
-|  | hat die verschlossene Wahlurne und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Briefwahlvorstand (aufnehmender Briefwahlvorstand) |  |  | (aufnehmender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
+|  | Der Briefwahlvorstand des Briefwahlbezirks mit weniger als 50 Wählern (abgebender Briefwahlvorstand) |  |  | ............................................................ (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
+|  | hat die verschlossene Wahlurne und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Briefwahlvorstand (aufnehmender Briefwahlvorstand) |  |  | ............................................................ (aufnehmender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
 |  |  |  |  | um ……… Uhr ……… Minuten übergeben. | um ……… Uhr ……… Minuten übergeben. |  |  |
 |  | Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Briefwahlvorsteher und der Schriftführer, ein weiteres Mitglied des Briefwahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend. |  | ⃞ | (Bitte durch Ankreuzen bestätigen) (Weiter bei Punkt 5.4) |  |
 | 3.2.3 | Sodann wurde die Wahlurne geöffnet. |  |  | (Bitte Uhrzeit eintragen:) |  |
@@ -90,7 +90,7 @@ am
 |  | Die Stimmzettelumschläge wurden entnommen. Der Briefwahlvorsteher überzeugte sich, dass die Wahlurne leer war. |  |  |  |  |  |
 |  | Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil |  | (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2.4) |  |
 |  |  |  | ⃞ | aufgrund der Anordnung des Kreiswahlleiters von ……… Uhr ……… Minuten die verschlossene Wahlurne und die eingenommenen Wahlscheine des |  |
-|  |  |  |  | (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
+|  |  |  |  | ............................................................ (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer) |  |
 |  |  |  |  | um ……… Uhr ……… Minuten zur gemeinsamen Ermittlung und Feststellung des Briefwahlergebnisses übernommen wurden. |  |
 |  | Bei der Zahl der Wahlscheine (Punkt 3.2.1) sind die eingenommenen Wahlscheine des abgebenden und des aufnehmenden Briefwahlvorstands zusammenzuzählen. |  |  |  |  |  |
 |  | Nach der Vermischung sind die Stimmzettelumschläge und die Stimmzettel gemeinsam auszuzählen (ab Punkt 3.2.4). |  |  |  |  |  |
@@ -102,7 +102,7 @@ am
 |  |  |  | ⃞ | Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte überein. (weiter bei Punkt 3.2.5) |  |
 |  |  |  | ⃞ | Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte nicht überein. |  |
 |  |  |  |  | Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen: |  |
-|  |  |  |  |  |  |
+|  |  |  |  | ................................................................................................................................................................................................................................................ |  |
 | 3.2.5 | Der Schriftführer übertrug die Zahl der Wähler in Abschnitt 4 Kennbuchstabe B der Wahlniederschrift. |  |  |  |  |  |
 | 3.3 | Zählung der Stimmen; Stimmzettelstapel |  |  |  |  |  |
 |  | Nunmehr öffneten mehrere Beisitzer unter Aufsicht des Briefwahlvorstehers die Stimmzettelumschläge, nahmen die Stimmzettel heraus, bildeten daraus die folgenden Stapel und behielten sie unter Aufsicht: |  |  |  |  |  |
@@ -141,7 +141,7 @@ am
 |  | Die vom Briefwahlvorsteher bestimmten Beisitzer sammelten a)die Stimmzettel, auf denen die Erst- und die Zweitstimme oder nur die Erststimme abgegeben worden waren, getrennt nach den Bewerbern, denen die Erststimme zugefallen war,b)die Stimmzettel, auf denen nur die Zweitstimme abgegeben worden war, getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,c)die leer abgegebenen Stimmzettelumschläge und die ungekennzeichneten Stimmzettel,d)die Stimmzettelumschläge, die Anlass zu Bedenken gegeben hatten, mit den zugehörigen Stimmzetteln,die Stimmzettel, die Anlass zu Bedenken gegeben hatten unddie Stimmzettelumschläge mit mehreren Stimmzetteln, |  |  |  |  |  |
 |  | je für sich und behielten sie unter ihrer Aufsicht. |  | Die in d) bezeichneten Stimmzettelumschläge und Stimmzettel sind als Anlagen unter den fortlaufenden Nummern |  |
 |  |  |  |  |  |  |  |  |
-|  |  |  |  | bis |  |  |
+|  |  |  |  | .......... bis .......... |  |  |
 |  |  |  |  | beigefügt. |  |  |
 | 3.5 | Feststellung und Bekanntgabe des Briefwahlergebnisses |  |  |  |  |  |
 |  | Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Briefwahlvorstand als das Briefwahlergebnis festgestellt und vom Briefwahlvorsteher mündlich bekannt gegeben. |  | ⃞ | (Bitte durch Ankreuzen bestätigen) |  |
@@ -150,17 +150,17 @@ am
 |  |  |  |  |  |
 |  | Wähler insgesamt [vgl. oben 3.2.4] |  |  |  |
 |  | zugleich |  |  |  |  |  |  |
-|  | Wähler mit Wahlschein |  |  |  |
+|  | Wähler mit Wahlschein |  | ............................................................ |  |
 | Ergebnis der Wahl im Wahlkreis (Erststimmen) |
 | Summe + muss mit übereinstimmen. |
 |  |  | ZS I | ZS II | ZS III | Insgesamt |
 | C | Ungültige Erststimmen |  |  |  |  |
 Gültige Erststimmen:
 |  | Von den gültigen Erststimmen entfielen auf den Bewerber (Vor- und Familienname des Bewerbers sowie Kurzbezeichnung der Partei/bei anderen Kreiswahlvorschlägen das Kennwort – laut Stimmzettel –) | ZS I | ZS II | ZS III | Insgesamt |
-| D1 | 1. |  |  |  |  |
-| D2 | 2. |  |  |  |  |
-| D3 | 3. |  |  |  |  |
-| D4 | 4. |  |  |  |  |
+| D1 | 1. ............................................................ |  |  |  |  |
+| D2 | 2. ............................................................ |  |  |  |  |
+| D3 | 3. ............................................................ |  |  |  |  |
+| D4 | 4. ............................................................ |  |  |  |  |
 |  | usw. |  |  |  |  |
 | D | Gültige Erststimmen insgesamt |  |  |  |  |
 | Ergebnis der Wahl nach Landeslisten (Zweitstimmen) |
@@ -169,28 +169,28 @@ Gültige Erststimmen:
 | E | Ungültige Zweitstimmen |  |  |  |  |
 Gültige Zweitstimmen:
 |  | Von den gültigen Zweitstimmen entfielen auf die Landesliste der (Kurzbezeichnung der Partei – laut Stimmzettel –) | ZS I | ZS II | ZS III | Insgesamt |
-| F1 | 1. |  |  |  |  |
-| F2 | 2. |  |  |  |  |
-| F3 | 3. |  |  |  |  |
-| F4 | 4. |  |  |  |  |
+| F1 | 1. ............................................................ |  |  |  |  |
+| F2 | 2. ............................................................ |  |  |  |  |
+| F3 | 3. ............................................................ |  |  |  |  |
+| F4 | 4. ............................................................ |  |  |  |  |
 |  | usw. |  |  |  |  |
 | F | Gültige Zweitstimmen insgesamt |  |  |  |  |
 | 5. | Abschluss der Wahlergebnisfeststellung |  |  |  |  |  |
 | 5.1 | Besondere Vorkommnisse bei der Ergebnisfeststellung |  |  |  |  |  |
-|  | Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen: |  |  |  |
-|  | Der Briefwahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse: |  |  |  |
+|  | Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen: |  | ........................................................................................................................ |  |
+|  | Der Briefwahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse: |  | ........................................................................................................................ |  |
 | 5.2 | Erneute Zählung |  |  |  |
 |  | (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.) |  |  |  |
-|  | Das/Die Mitglied(er) des Briefwahlvorstandes |  | , (Vor- und Familienname) |  |
-|  | beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil |  | (Angabe der Gründe) |  |
+|  | Das/Die Mitglied(er) des Briefwahlvorstandes |  | ............................................................, (Vor- und Familienname) |  |
+|  | beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil |  | .................................................................................................................................................................................... (Angabe der Gründe) |  |
 |  | Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.3) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde |  | (Bitte Zutreffendes ankreuzen:) |  |
 |  |  | ⃞ | mit dem gleichen Ergebnis erneut festgestellt |  |
 |  |  |  | ⃞ | berichtigt (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht löschen oder radieren.) |  |
 |  | und vom Briefwahlvorsteher mündlich bekannt gegeben. |  |  |  |  |  |
 | 5.3 | Schnellmeldung |  |  |  |  |  |
 |  | Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und |  | auf schnellstem Wege (z. B. telefonisch) |  |
-|  |  |  | (Bitte Art der Übermittlung eintragen) |  |
-|  |  |  | an (Bitte Empfänger eintragen) |  |
+|  |  |  | ............................................................ (Bitte Art der Übermittlung eintragen) |  |
+|  |  |  | an ............................................................ (Bitte Empfänger eintragen) |  |
 |  |  |  | übermittelt. |  |
 | 5.4 | Anwesenheit des Briefwahlvorstandes |  |  |  |  |  |
 |  | Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Briefwahlergebnisses mindestens fünf Mitglieder des Briefwahlvorstandes, darunter jeweils der Briefwahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend. |  |  |  |  |  |
@@ -209,20 +209,20 @@ Gültige Zweitstimmen:
 |  |
 |  |  |  |  |  |  |  |
 | 5.7 | Verweigerung der Unterschrift und Angabe von Gründen |  |  |  |
-|  | Das/Die Mitglied(er) des Briefwahlvorstandes verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil |  | (Vor- und Familienname) |  |
-|  |  |  | (Angabe der Gründe) |  |
+|  | Das/Die Mitglied(er) des Briefwahlvorstandes verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil |  | ............................................................ (Vor- und Familienname) |  |
+|  |  |  | .................................................................................................................................................................................... (Angabe der Gründe) |  |
 | 5.8 | Bündelung von Stimmzetteln, Stimmzettelumschlägen und Wahlscheinen |  |  |  |
 |  | Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel, Stimmzettelumschläge und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2.2): |  | a)Ein Paket mit den Stimmzetteln, die nach den für die Wahlkreisbewerber abgegebenen Stimmen geordnet und gebündelt sind,b)ein Paket mit den Stimmzetteln, auf denen nur die Zweitstimme abgegeben worden war,c)ein Paket mit den ungekennzeichneten Stimmzetteln,d)ein Paket mit den leer abgegebenen Stimmzettelumschlägen sowiee)ein Paket mit den eingenommenen Wahlscheinen. |  |
 |  | Die Pakete wurden versiegelt und mit der Nummer des Briefwahlvorstandes sowie der Inhaltsangabe versehen. |  |  |  |
 | 5.9 | Übergabe der Wahlunterlagen |  |  |  |
 |  | Dem Beauftragten des/der |  | (Bitte eintragen, z. B. Gemeindebehörde) |  |
-|  |  |  |  |  |
-|  | wurden |  | am , um Uhr, übergeben |  |
-|  |  |  | –diese Wahlniederschrift mit Anlagen,–die Pakete wie in Abschnitt 5.8 beschrieben,–das/die Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine samt Nachträgen/die Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind,–die Wahlurne – mit Schloss und Schlüssel – sowie–alle sonstigen dem Briefwahlvorstand von dem/der(Bitte eintragen, z. B. Gemeindebehörde)zur Verfügung gestellten Gegenstände und Unterlagen. |  |
+|  |  |  | ............................................................ |  |
+|  | wurden |  | am .......... , um .......... Uhr, übergeben |  |
+|  |  |  | –diese Wahlniederschrift mit Anlagen,–die Pakete wie in Abschnitt 5.8 beschrieben,–das/die Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine samt Nachträgen/die Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind,–die Wahlurne – mit Schloss und Schlüssel – sowie–alle sonstigen dem Briefwahlvorstand von dem/der(Bitte eintragen, z. B. Gemeindebehörde)............................................................zur Verfügung gestellten Gegenstände und Unterlagen. |  |
 |  | Der Briefwahlvorsteher |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+|  | ............................................................ |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  | Vom Beauftragten des/der wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am , um Uhr, auf Vollständigkeit überprüft und übernommen. |  |
-|  | (Unterschrift des Beauftragten) |  |  |  |  |  |
+|  | Vom Beauftragten des/der .................... wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen. |  |
+|  | ............................................................ (Unterschrift des Beauftragten) |  |  |  |  |  |
 |  | Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind. |  |

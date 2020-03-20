@@ -708,18 +708,11 @@ Zivildienstleistende](0244.md)
 ### Vierter Abschnitt Finanzausgleiche und Zuweisungen aus dem 
 Gesundheitsfonds
 
-
-#### Erster Titel
-
 - [§ 265 Finanzausgleich für aufwendige Leistungsfälle](0265.md)
 - [§ 265a Finanzielle Hilfen zur Vermeidung der Schließung oder Insolvenz einer Krankenkasse](0265a.md)
 - [§ 265b Freiwillige finanzielle Hilfen](0265b.md)
 - [§ 266 Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich)](0266.md)
 - [§ 267 Datenerhebungen zum Risikostrukturausgleich](0267.md)
-
-#### Zweiter Titel Finanzausgleich in der
-Krankenversicherung der Rentner
-
 - [§ 268 Weiterentwicklung des Risikostrukturausgleichs](0268.md)
 - [§ 269 Sonderregelungen für Krankengeld und Auslandsversicherte](0269.md)
 - [§ 270 Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben](0270.md)
