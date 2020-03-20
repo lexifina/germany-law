@@ -16,6 +16,7 @@
 - [§ 10 Rechtsfolgen bei Unwirksamkeit](0010.md)
 - [§ 10a Rechtsfolgen bei Überlassung durch eine andere Person als den Arbeitgeber](0010a.md)
 - [§ 11 Sonstige Vorschriften über das Leiharbeitsverhältnis](0011.md)
+- [§ 11a Verordnungsermächtigung](0011a.md)
 - [§ 12 Rechtsbeziehungen zwischen Verleiher und Entleiher](0012.md)
 - [§ 13 Auskunftsanspruch des Leiharbeitnehmers](0013.md)
 - [§ 13a Informationspflicht des Entleihers über freie Arbeitsplätze](0013a.md)
