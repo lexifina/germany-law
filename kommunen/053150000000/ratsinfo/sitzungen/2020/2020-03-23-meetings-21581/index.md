@@ -1,0 +1,67 @@
+# 46. Sitzung der Bezirksvertretung Ehrenfeld DIE SITZUNG WURDE ABGESAGT!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-23T17:00:00+01:00
+- Ende: 2020-03-23T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21581
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21581
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Bewohnerparken Ehrenfeld (Az.: 02-1600-281/19) - zurückgestellt
+- TOP 3.2: Bürgereingabe nach § 24 GO – Chemiepavillon und Kindergarten Montessori-Zentrum Ossendorf, Aktenzeichen 13/20 B - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssituation in der Hüttenstraße - zurückgestellt
+- TOP 6.2: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 - zurückgestellt
+- TOP 6.2.1: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 | Beantwortung der Anfrage AN/1071/2019 der Fraktion DIE LINKE in der BV Ehrenfeld - zurückgestellt
+- TOP 6.3: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zu Immobilien der Deutschen Bahn im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.3.1: Immobilien der Deutschen Bahn AG im Stadtbezirk Ehrenfeld | Beantwortung der Anfrage AN/1071/2019 - zurückgestellt
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Entwicklung Jennerstraße 8 50823 Köln-Ehrenfeld - zurückgestellt
+- TOP 6.4.1: Anfrage der CDU-Fraktion, betr.: Entwicklung Jennerstraße 8, 50823 Köln-Ehrenfeld - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bebauungsplan Heliosgelände - zurückgestellt
+- TOP 6.5.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bebauungsplan Heliosgelände - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Belieferung eines Rewe-Marktes an der Venloer Straße 310 - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Veränderte Verkehrsführung Venloer Straße - zurückgestellt
+- TOP 6.8: Anfrage der SPD- Fraktion: Stand der Planungen Baumaßnahme Drogeriemarkt Rochusplatz - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion BÜNDNIS/DIE GRÜNEN: Aktueller Planungsstand Verwaltungsgebäude "HERBOL-Gelände" - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion DIE LINKE: Bekannte Entwicklungen im Rahmenplangebiet - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Notwendige Maßnahmen der Zusammenarbeit der in Bocklemünd handelnden Einrichtungen, Verwaltungsstellen, Ordnungskräften und sozialen Akteure - zurückgestellt
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der Fraktion DIE LINKE: Menschen vor Verdrängung schützen! Beschlüsse zu Sozialen Erhaltungssatzungen umsetzen! - zurückgestellt
+- TOP 8.5: Gem. Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN und DEINE FREUNDE: "Machbarkeitsstudie Stadtbahn-Westtrasse" - zurückgestellt
+- TOP 8.6: Antrag der Fraktion DIE LINKE: Vorverkaufsrechte nutzen! - zurückgestellt
+- TOP 8.7: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion DIE LINKE: Kommunale Strategien gegen den Verlust demokratischer Gleichheit entwickeln! - zurückgestellt
+- TOP 8.8: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN. Bürgerbeteiligung "Max-Becker-Gelände" - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Haushalts-Entwurf Doppelhaushalt 2020/2021 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Geimeindeordnung Nordrhein-Westfalen (GO NRW) - zurückgestellt
+- TOP 9.2: Überarbeitetes Förderprogramm über die Vergabe bezirksorientierter Mittel 2020 gemäß § 37 (3) GO NRW - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.4: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 12.2: Antrag der CDU - Fraktion BV 4 hier: Bienenlehrpfad im Hieronimie Park in Ehrenfeld - Stellungnahme der Verwaltung - zurückgestellt
+- TOP 12.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 12.4: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 12.5: Beschluss der Bezirksvertretung Ehrenfeld vom 03.02.2020 betr.: Max-Becker-Gelände, Umsetzung des Beschlusses der BV-Ehrenfeld vom 04. November 2019 Hier: Stellungnahme der Verwaltung - zurückgestellt
+- TOP 12.6: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 12.7: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Ehrenfeld - zurückgestellt
+- TOP 12.8: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
+- TOP 12.9: Mobilitätskonzept Stolberger Straße - zurückgestellt
+- TOP 12.10: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - zurückgestellt
+- TOP 13: mündliche Anfragen
