@@ -1,0 +1,88 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-23T14:37:00+01:00
+- Ende: 2020-03-23T15:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21751
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21751
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.3: Mitgliedschaft der Stadt Köln bei Transparency International - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.01.2020 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Haushaltsjahr 2019 gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2019 - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Haushaltsjahr 2020 gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neugestaltung des Spiel- und Bolzplatzes Eythstraße in Köln-Kalk - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Generalinstandsetzung der Waltharistr. und der Theodor-Hürth-Str. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von zwei Hubarbeitsbühnen auf LKW-Fahrgestellen für die Baumpflege - ungeändert beschlossen
+- TOP 7.3: EFRE Grüne Infrastruktur - Vielfalt vernetzen - ungeändert beschlossen
+- TOP 7.4: Ersatzbeschaffung von 3 Schmalspurgeräteträgern für den Grünbereich - ungeändert beschlossen
+- TOP 7.5: Beschaffung von 4 Gießarmgespannen inclusive Tankwagen für den Anbau an Kompaktschlepper der Grünunterhaltung - ungeändert beschlossen
+- TOP 7.6: Baubeschluss für die Generalinstandsetzung des Dellbrücker Steinweges zwischen den Hausnummern 2 und 18 sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finazstelle 6601-1201-0-6605, Generalsanierung von Straßen - ungeändert beschlossen
+- TOP 7.7: Baubeschluss für die Generalsanierung der Deichkronenwege in Köln-Merkenich sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9.1: Einrichtung von Fachräumen als Automatisierungslabor im Berufskolleg 17, Eitorfer Str. 18-20, 50679 Köln (Deutz) - Förderprogramm des Landes NRW 'Digitalpakt Schule' - außerplanmäßige Auszahlungen mit dazugehöriger Freigabe - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Anlage 4 (Förderungshöhe) der Richtlinie für die Anerkennung und Förderung der Interkulturellen Zentren - ungeändert beschlossen
+- TOP 10.2: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2020 - ungeändert beschlossen
+- TOP 10.3: Bahnsteiganhebung Haltestelle Barbarossaplatz - ungeändert beschlossen
+- TOP 10.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o. Nr., 50765 Köln-Blumenberg, Gemarkung Worringen, Flur 50, Flurstück 1872 tlw. - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Aufzugsnachrüstung der Stadtbahnhaltestelle Friesenplatz - ungeändert beschlossen
+- TOP 10.6: Ergänzung des Stadtbahnvertrages "Linie 1" - ungeändert beschlossen
+- TOP 10.7: Feststellung des Jahresabschlusses zum 31.12.2018 der Gebäudewirtschaft der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Wirtschaftsplan 2020 der Gebäudewirtschaft der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Erweiterung der Nord- und Südseite der Hohenzollernbrücke; Bedarfsfeststellungs- und Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Gründung der Film Festival Cologne GmbH - ungeändert beschlossen
+- TOP 10.12: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - geändert beschlossen
+- TOP 10.13: Kommunales Vorkaufsrecht - ungeändert beschlossen
+- TOP 10.14: Grün hoch 3 - ungeändert beschlossen
+- TOP 10.15: MINT-Angebote in der Stadtbibliothek Köln - endgültig zurückgezogen
+- TOP 10.16: Entgelt- und Honorarordnung für den Museumsdienst Köln - ungeändert beschlossen
+- TOP 10.17: Erneuerung der Brandmeldeanlage im Bürgerhaus Stollwerck - ungeändert beschlossen
+- TOP 10.18: Dritte Satzung zur Änderung der Satzung der Stadt Köln vom 28.02.2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 10.19: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 "Zuhaus im Veedel - Aktivierung und Beteiligung im Quartier" - Sozialraum Porz-Ost, Finkenberg, Gremberghoven und Eil, Quartier Finkenberg - ungeändert beschlossen
+- TOP 10.20: Baubeschluss für die Generalinstandsetzung des Deutzer Ringes zwischen östlichem Zubringer und der Severinsbrücke in beiden Fahrtrichtungen (Bauabschnitt 2 und 3) sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Fin - ungeändert beschlossen
+- TOP 10.21: Verlängerung des Prüfungsmandats zur Jahresabschlussprüfung der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.22: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2020, Teil 1 - zurückgestellt
+- TOP 10.23: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen 2020 - Fortschreibung - ungeändert beschlossen
+- TOP 10.24: Freigabe der Mittelerhöhung zur institutionellen Förderung für Filminitiativ Köln e.V./Afrika Film Fest Köln - geändert beschlossen
+- TOP 10.25: GbR Historische Mitte: Entsendung von Mitgliedern in den Lenkungskreis - ungeändert beschlossen
+- TOP 10.26: Freigabe und Vergabe der Fördermittel für den Verein "Theaterpädagogisches Zentrum Köln e. V." in 2020 - ungeändert beschlossen
+- TOP 10.27: Freigabe des Betriebskostenzuschuss für den Verein "afroTopia e. V." - ungeändert beschlossen
+- TOP 10.28: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: "Erhöhung des Förderetats für interkulturelle Projekte" sowie "Etatisierung eines Förderbudgets für freie inklusive Kulturarbeit" - ungeändert beschlossen
+- TOP 10.29: Teilnahme an der Landesinitiative "Durchstarten in Ausbildung und Arbeit" - ungeändert beschlossen
+- TOP 10.30: Freigabe der Mittelerhöhung zur institutionellen Förderung der Initiative Kölner Jazz Haus e.V. Europäisches Zentrum für Jazz und aktuelle Musik in 2020 und 2021 - ungeändert beschlossen
+- TOP 10.31: Freigabe und Vergabe der Fördermittel "Jazzstadt Köln" in 2020 und 2021 - ungeändert beschlossen
+- TOP 10.32: Freigabe und Vergabe der Fördermittel "IFM Organisatorische Stärkung" in 2020 und 2021 als befristete institutionelle Förderung - zurückgestellt
+- TOP 10.33: Freigabe der Mittelerhöhung zur institutionellen Förderung von ON Neue Musik Köln e.V. zur Vorbereitung und Durchführung eines Musiktheaterfestivals in 2020 und 2021 - ungeändert beschlossen
+- TOP 10.34: Freigabe und Vergabe der Fördermittel "Freie Projektmittel für den Initiative Freie Musik e.V." - zurückgestellt
+- TOP 10.35: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.36: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Satzungsänderung - ungeändert beschlossen
+- TOP 10.37: GAG Immobilien AG: Satzungsänderung; GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - zurückgestellt
+- TOP 10.38: Anpassung der Ermäßigungsregelung für Konzerte des Gürzenich-Orchesters ab der Spielzeit 2020/21 - ungeändert beschlossen
+- TOP 10.39: Freigabe von Mitteln aus der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2020" und der Jubiläumsveranstaltung "10 Jahre Klubkomm" - ungeändert beschlossen
+- TOP 10.40: Elternbeitragssatzung für die Kindertagesbetreuung ab 01.08.2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.41: Ersatzansprüche der Häfen und Güterverkehr Köln AG - Ausbaustopp Godorfer Hafen - ohne Votum in nachfolgende Gremien
+- TOP 10.42: Freigabe von Mitteln aus der Kulturförderabgabe zur Förderung von Projekten der Kreativwirtschaft - ungeändert beschlossen
+- TOP 10.43: Ersatz eines maroden Schulklassenpavillons an der Katholischen Grundschule Hinter der Kirche 3-5, 51143 Köln (Porz) - Bedarfsanerkennung und Baubeschluss - unter Vorbehalt beschlossen
+- TOP 10.44: Jugendzentren Köln gGmbH, Jugendzentrum "Alte Schule Widdersdorf", hier: Baubeschluss zur baulichen Erneuerung des Bewegungsraumes "Pavillon" auf dem Außengelände - unter Vorbehalt beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
