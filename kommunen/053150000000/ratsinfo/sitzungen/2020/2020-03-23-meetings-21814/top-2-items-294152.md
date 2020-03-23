@@ -1,0 +1,6 @@
+# TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+
+- Sitzung: Sitzung der Bezirksvertretung Rodenkirchen - Sitzung fällt aus (2020-03-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/294152
