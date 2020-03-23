@@ -1,0 +1,76 @@
+# Sitzung der Bezirksvertretung Rodenkirchen - Sitzung fällt aus
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-03-23T17:00:00+01:00
+- Ende: 2020-03-23T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21814
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21814
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Marienburg (Az.: 02-1600-256/19) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Parken auf der Bahnhofstraße in Köln-Sürth (Az.: 02-1600-290/19) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Pläne zum Schutz und/oder Verkauf des Geländes Sürther Aue - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Beantwortung AN/0245/2020 - Interkommunale Zusammenarbeit der Hauptschulen in Wesseling und Rodenkirchen. - zurückgestellt
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Anmeldungen an Schulen im Stadtbezirk Rodenkirchen 2020/2021, Anfrage der SPD-Fraktion - zurückgestellt
+- TOP 7.2.4: Ehemalige Gaststätte Räderscheid, Köln-Raderthal, Schulze-Delitzsch-Str. 108, Anfrage der SPD-Fraktion - zurückgestellt
+- TOP 7.2.5: Unterbringung von Flüchtlingen entgegen des Leverkusener Modells in ausschließlich leerstehenden Ein- und Zweifamilienhäusern im Stadtbezirk Köln-Rodenkirchen, Anfrage der FDP-Fraktion - zurückgestellt
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.7: Emil-Hoffmann-Straße: Bushaltestelle, Sicherheit, Anfrage der Fraktion Die Grünen - zurückgestellt
+- TOP 7.2.8: Kfz-Zulassungszahlen im Stadtbezirk Rodenkirchen, Anfrage der FDP-Fraktion - zurückgestellt
+- TOP 7.2.8.1: Zulassungszahlen im Stadtbezirk Köln-Rodenkirchen (Beantwortung zu AN/0420/2020) - zurückgestellt
+- TOP 7.2.9: Kiosk an der Endhaltestelle der KVB-Linie 106 in Marienburg; Anfrage der CDU-Fraktion - zurückgestellt
+- TOP 7.2.10: Top 2 der nicht realisierten ÖPNV-Verbindungen im Stadtbezirk 2, Anfrage der CDU-Fraktion - zurückgestellt
+- TOP 7.2.11: Maßnahmen zur Reduzierung der Staus auf der Bonner Straße, Anfrage der CDU-Fraktion - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Eindämmung der nächtlichen Beleuchtung im Stadtbezirk Rodenkirchen, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Zugang Rheinaustraße 1 in Köln-Sürth, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.4: Radweg entlang der Bonner Straße: Zustand in einem Teilbereich, Verbesserung, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.5: Nord-Süd-Stadtbahn – Behinderungen, Umleitungen und Verkehrslenkung während der Realisierung der 3. Baustufe auf der Bonner Straße in Köln-Bayenthal und - Marienburg, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.6: Wanderbaumallee: Aufstellung im öffentlichen Raum, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Haushaltsplan Doppelhaushalt 2020 / 2021 hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - zurückgestellt
+- TOP 9.1.2: Bericht des Oberbürgermeisters gem. § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen; hier Jahresbericht 2016 - 2018 - zurückgestellt
+- TOP 9.1.3: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Meschenich“ - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 9.2.2: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kölnberg - zurückgestellt
+- TOP 9.2.3: Rondorf Nord-West, Entflechtungsstraße - Sache ist erledigt
+- TOP 9.2.3.1: Verkehrskonzept Rondorf-Nord-West - Sache ist erledigt
+- TOP 9.2.3.2: Ergänzungsantrag der SPD-Fraktion und der Fraktion Die Grünen zu TOP 9.2.1 "Rondorf Nord-West - Entflechtungsstraße" - Sache ist erledigt
+- TOP 9.2.3.3: Gemeinsamer Änderungsantrag der Ratsfraktionen CDU und Grüne - Sache ist erledigt
+- TOP 9.2.3.4: Änderungsantrag der CDU-Fraktion zu 4122/2019 - Sache ist erledigt
+- TOP 9.2.4: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - zurückgestellt
+- TOP 10.2.2: Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds im „Soziale Stadt“ Gebiet Meschenich - zurückgestellt
+- TOP 10.2.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - zurückgestellt
+- TOP 10.2.4: Antrag der Freien Demokraten BV 2 (Rodenkirchen) hier: Quote von Ersatzpflanzungen bei künftigen Fällungen von Bäumen im Zusammenhang mit Bauprojekten im Stadtbezirk Köln-Rodenkirchen - zurückgestellt
+- TOP 10.2.5: Teilnahme an der Earth Hour 2020 - zurückgestellt
+- TOP 10.2.6: Jugendbefragung und dann… - Erste Bilanzierung - zurückgestellt
+- TOP 10.2.7: Verkehrsplanung rund um das Quartier Reiterstaffel - zurückgestellt
+- TOP 10.2.8: Bushaltestellen für Bienen begrünen - zurückgestellt
+- TOP 10.2.9: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Rodenkirchen - zurückgestellt
+- TOP 10.2.10: 3. Baustufe Nord-Süd Stadtbahn / Aktueller Sachstand und Bauzeit - zurückgestellt
+- TOP 10.2.11: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - zurückgestellt
