@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (45. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-03-23T17:00:00+01:00
+- Ende: 2020-03-23T18:00:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWNghMMEmhJh94galSNCbZg
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5887
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfcTRvzL52IapRklHrHSgmJ4362_wFsNMChc4WRvmW3P/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_23.03.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQRfKQXrKRF4VdllVW_OL8hp_H07B-WG8ccZj4wLxFf9/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_23.03.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: ÖPNV in Solingen
+- TOP 1.2: Partnerschaften mit Jinotega/Nicaragua und Thiès/Senegal hier: kommunale Entwicklungszusammenarbeit in Projekten
+- TOP 1.3: Straßenbaumaßnahme Höhscheider Weg
+- TOP 1.4: Schienenpersonennahverkehr in und im Umland der Klingenstadt Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 10.02.2020
+- TOP 4.: Jahresverkehrsbericht 2019 der Polizei
+- TOP 5.: Bau der Ersatzsportanlage Höher Heide 2
+- TOP 6.: Handlungskonzept Wohnen – Stand der Umsetzung der Bausteine: Wohnbauoffensive, Flächenaktivierung und Schaffung bezahlbaren Wohnraums
+- TOP 7.: Vorstellung Wohnbaulandkataster der Stadt Solingen - mündlicher Bericht -
+- TOP 8.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 9.: Integriertes Stadtteilentwicklungskonzept Ohligs: Freiraumplanerischer Wettbewerb "Umgestaltung der Fußgängerzone und Marktplatz - Weiteres Verfahren -
+- TOP 10.: ÖPNV-Verkehrsmodell, Ergebnis 3. Beiratssitzung
+- TOP 11.: Gegen weitere Kürzungen bei den Bussen – für Fahrplan-Verbesserungen
+- TOP 12.: Prüfergebnis der Kreisverkehre am Dickenbusch
+- TOP 13.: Fahrbahndeckenprogramm 2020
+- TOP 14.: Änderung des Kommunalabgabengesetzes NRW (KAG NRW) hier: neu eingefügter § 8a KAG NRW „Ergänzende Vorschriften für die Durchführung von Straßenausbaumaßnahmen und über die Erhebung von Straßenausbaubeiträgen"
+- TOP 15.: Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplans D 280 für den Bereich nördlich der Straße Erbenhäuschen im Bereich nördlich der Einmündung des Magnolienweges – Stadtbezirk Mitte –
+- TOP 16.: Bauleitplanung Rembrandtstraße/ Locher Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB zum Vorentwurf des Bebauungsplanes W 568 sowie zum Vorentwurf der Flächennutzungsplanberichtigung Nr. B28/ 04 für das Gebiet zwischen Locher Straße, Rembrandtstraße, Wiedenkamper Straße und dem evgl. Friedhof - Stadtbezirk Wald -
+- TOP 17.: Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 679 sowie Satzungsbeschluss zum Bebauungsplan H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 3) – Stadtbezirk Mitte –
+- TOP 18.: Beschlusskontrolle ASUKM 2019
+- TOP 19.: Verbesserung der Sicherheit am Graf-Wilhelm-Platz
+- TOP 20.: Einrichtung von Tempo-30-Zonen / - Strecken in Gebieten von Hofschaften, Wohngebieten und deren Anbindungen und in Straßen ohne Gehweganlagen Antrag der BfS-Fraktion vom 30.01.2020
+- TOP 21.: Behindertengerechter Ausbau der Haltestellen Antrag der Fraktionen von Bündnis 90/Die Grünen – offene Liste und SPD vom 09.03.2020
+- TOP 22.: Beleuchtungsmittel Unterburg und Oberburg Antrag der Fraktion Bündnis 90/Die Grünen - offene Liste vom 09.03.2020
+- TOP 23.: Verschiedenes
+- TOP 23.1: Mitteilungen der Verwaltung
+- TOP 23.1.1: Integriertes Stadtteilentwicklungskonzept Ohligs: Neugestaltung des Vorplatzes am östlichen Bahnhofausgang - Sachstandsbericht zum Vergabeverfahren gem. VGV
+- TOP 23.1.2: Veloroute Düsseldorf – Hilden – SOLINGEN – Wuppertal: Stand der Umsetzung
+- TOP 23.1.3: 1. Zusammenkunft Runder Tisch Wald (Forst) am 05.03.2020 - mündlicher Bericht -
+- TOP 23.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 10.02.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.1.1: Sachstand Mitarbeiterparkplatz Diakonisches Werk Bethanien - mündlicher Bericht -
+- TOP 4.2: Anfragen an die Verwaltung
