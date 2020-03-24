@@ -1,0 +1,74 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-24T17:00:00+01:00
+- Ende: 2020-03-24T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18993
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18993
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00374380.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Eingabe nach § 24 Gemeindeordnung NRW
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: ÖPNV-Erschließung für die Bergische Kaserne - Vortrag Amt für Verkehrsmanagement -
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Handwerker- und Bauernmarkt auf dem Gerricusplatz im Jahre 2020 - beschlossen
+- TOP 5.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2020) - beschlossen
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - beschlossen
+- TOP 5.7: Verwendung von Haushaltsmitteln - beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anträge
+- TOP 6.1: Fußweg Zamenhofweg - Antrag der SPD-Fraktion -
+- TOP 6.2: Baumpatenschaften - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 6.3: Verkehrsführung Villa Sohl - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 6.4: Verkehrsführung Villa Sohl während der Bauphase - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 6.5: Weg entlang Pillebach (von Kleineforstweg bis Am Backesberg) - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 6.6: Verkehrskontrollen Höherhofstraße - Antrag der CDU-Fraktion -
+- TOP 6.7: Änderung der Verkehrsführung Torfbruch-/Dreherstraße - Antrag der SPD-Fraktion -
+- TOP 6.8: Litfaßsäule Staufenplatz - Antrag der CDU-Fraktion -
+- TOP 6.9: Beleuchtung Bereich Dreherstraße/ Einfahrt Wiebachweg - Antrag der CDU-Fraktion -
+- TOP 6.10: Beleuchtung Gehrtstraße - Antrag der CDU-Fraktion -
+- TOP 6.11: Hinweisschild Fußgängertunnel Staufenplatz - Antrag der CDU-Fraktion -
+- TOP 6.12: CO – Pipeline Dormagen - Uerdingen - Antrag der CDU-Fraktion -
+- TOP 6.13: Parkflächen Hardtstraße - Antrag der SPD-Fraktion -
+- TOP 6.14: Städtisches Grundstück Benderstraße - Antrag der CDU-Fraktion -
+- TOP 6.15: Spielplatz „Alter Friedhof“ an der Dreherstraße - Antrag der CDU-Fraktion -
+- TOP 6.16: Beleuchtung Fußweg unterhalb Bushaltestelle Gallberg - Antrag der CDU-Fraktion -
+- TOP 6.17: Kletterbalken auf dem Schulhof der Gutenbergschule - Antrag der CDU-Fraktion -
+- TOP 6.18: Erneuerung Geländer entlang des Fuß- und Radweges Gallberg - Antrag der CDU-Fraktion -
+- TOP 6.19: Erneuerung Sporthalle Gymnasium Gerresheim - Antrag der CDU-Fraktion -
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Aufwertung des Standorts Heyestraße - Anfrage der FDP-Fraktion -
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Fahrkartenautomat - Anfrage der SPD-Fraktion -
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Erhaltungssatzung Gerresheim-Süd - Anfrage der CDU-Fraktion -
+- TOP 8: Anfragen
+- TOP 8.1: Spontaner Beschluss zur Denkmalwürdigkeit für alte Trinkwassertanks - Anfrage der FDP-Fraktion -
+- TOP 8.2: Anmeldezahlen Gerresheimer Gymnasien - Anfrage der Fraktion Bündnis 90/Die Grünen -
+- TOP 8.3: Hundekotbeutel - Anfrage der Fraktion Bündnis 90/Die Grünen -
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Kindertageseinrichtung St. Maria vom Frieden - Anfrage der FDP-Fraktion -
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Anmeldungen Gerresheimer Gymnasien – Schuljahr 2020/ 2021 - Anfrage der CDU-Fraktion -
+- TOP 8.10: Brückensanierungen - Anfrage der CDU-Fraktion -
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Neubau Trinkwasserspeicher "Auf der Hardt" - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 -
+- TOP 9.2: Ottostraße - Informationsvorlage zum Beschluss der BV7 vom 28.01.2020 -
+- TOP 9.3: Neubau einer Kindertageseinrichtung, einer Großtagespflege sowie eines zusätzlichen Raumes für ein Sportangebot an der Halleschen Straße (Bedarfsbeschluss) - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 -
+- TOP 9.4: Platz bei Glascontainer auf Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 -
+- TOP 9.5: Engere Reinigungsintervalle für Container Torfbruch-/Sulzbachstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 -
+- TOP 9.6: Ostparkweiher - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 -
+- TOP 9.7: Schattenspender für Spielplatz Heinrich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 -
+- TOP 9.8: Zügige Besetzung der freien Stelle in der Jugendeinrichtung "Heyebad" - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2019 -
