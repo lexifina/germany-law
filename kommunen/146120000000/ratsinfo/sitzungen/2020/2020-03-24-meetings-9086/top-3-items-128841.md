@@ -1,0 +1,6 @@
+# TOP 3: Finanzmittelvergabe 2020
+
+- Sitzung: 7. Sitzung des Ortschaftsrates Oberwartha - ABGESAGT! (2020-03-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/128841
