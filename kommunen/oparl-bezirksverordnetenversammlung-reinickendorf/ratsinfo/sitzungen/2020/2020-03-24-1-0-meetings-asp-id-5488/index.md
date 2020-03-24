@@ -1,0 +1,14 @@
+# Sitzung abgesagt!!! öffentliche Sitzung des Integrationsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-03-24T17:00:00+01:00
+- Ende: 2020-03-24T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Ratsinformationssystem: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5488
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5488
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
