@@ -1,0 +1,61 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-24T16:00:00+01:00
+- Ende: 2020-03-24T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18936
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18936
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00374639.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10 , Zuschuss an den Hellerhofer Bürgerverein e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 -
+- TOP 4.6: Bezirklicher Bauunterhalt 2020 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2020 - Beschlussvorlage der Bezirksverwaltungsstelle 10 -
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Kontrollgänge Spontanvegetation - Anfrage der SPD-Fraktion -
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Wildschäden - Anfrage der SPD-Fraktion -
+- TOP 6.5: Darstellung der Schülerzahlen in verschiedenen Schulformen im Stadtbezirk 10 - Anfrage der CDU-Fraktion -
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Übertragung der zum Jahresende 2019 nicht verausgabten Verfügungsmittel in das Jahr 2020 - Antrag der SPD-Fraktion -
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Farbige Gestaltung der Verteilerkästen für Strom, Telefon und Internet in Hellerhof - Antrag der CDU-Fraktion -
+- TOP 7.4: Umbenennung Straßennamen - Antrag der SPD-Fraktion -
+- TOP 7.5: Müllbehälter Rodelberg - Antrag der SPD-Fraktion -
+- TOP 7.6: Grundstücke für Senioren- und Pflegeheime - Antrag der SPD-Fraktion -
+- TOP 7.7: Schaffung von zusätzlichen Parkmöglichkeiten als Park&Ride Platz, an der GoslarerStraße/ Frankfurter Straße in Düsseldorf Hellerhof - Antrag der CDU-Fraktion -
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Einladung eines Vertreters der Stadtwerke - Antrag der SPD-Fraktion -
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: „Anreicherung des Straßenbegleitgrüns in Hellerhof“ - Informationsvorlage zum Beschluss BV10/008/2020 vom 29.01.2020 -
+- TOP 8.2: Insektenhotels - Informationsvorlage zum Beschluss BV10/009/2020 vom 28.01.2020 -
+- TOP 8.3: Information über die Möglichkeit von Baumpatenschaften - Informationsvorlage zum Beschluss BV10/036/2020 vom 26.02.2020 -
+- TOP 8.4: Ausstattung der Haltestellen im Bezirk 10 mit Dynamischen Fahrgastanzeigen - Informationsvorlage zum Beschluss BV10/027/2019 vom 24.09.2019 -
+- TOP 8.5: Radwegführung auf der Koblenzer Straße zwischen Josef-Maria-Olbrlch-Straße und Peter-Behrens-Straße - Informationsvorlage zum Beschluss BV10/024/2019 vom 24.09.2019 -
+- TOP 8.6: Ersatzpflanzungen mit früchtetragenden Bäumen - Informationsvorlage zum Beschluss BV10/027/2020 vom 26.02.2020 -
+- TOP 8.7: Begrünung von Bauvorhaben - Informationsvorlage zum Beschluss BV10/023/2020 vom 26.02.2020 -
+- TOP 8.8: Vortrag zur künftigen Verkehrsanbindung des Stadtbezirks an die Düssel-dorfer Innenstadt - Informationsvorlage zum Beschluss BV10/086/2019 vom 26.11.2019 -
+- TOP 8.9: Park and Ride Parkplätze - Informationsvorlage zum Beschluss BV10/024/2020 vom 26.02.2020 -
+- TOP 9: Verschiedenes
