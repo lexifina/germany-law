@@ -1,0 +1,7 @@
+# TOP 8.: Einrichtung eines Klimabarometers für die Stadt Solingen gemeinsamer Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste und der SPD vom 11.03.2020
+
+- Sitzung: Rat (40. Sitzung) (2020-03-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/57271
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/32188
