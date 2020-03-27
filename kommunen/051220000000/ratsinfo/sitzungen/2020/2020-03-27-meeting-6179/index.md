@@ -1,0 +1,54 @@
+# Haupt- und Personalausschuss (40. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-03-27T17:00:00+01:00
+- Ende: 2020-03-27T17:24:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTend3QV6fXAhFvqcjXoU6s
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6179
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTpwr6aMsc24WZQrCbwhq53Nell-r2ywRlHcWoVmgEsR/Bekanntmachung_Haupt-_und_Personalausschuss_27.03.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTf37w3qs0L7SXLwQVHSRxOJyC5AGkXUDCJieeql1vNq/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_27.03.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Fahrbahndeckenprogramm 2020
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Haupt- und Personalausschusses am 11.02.2020
+- TOP 4.: Novellierung KiBiz hier: Anpassung Elternbeitragssatzung
+- TOP 5.: Erhöhung der Zügigkeit eines Bildungsganges am Mildred-Scheel-Berufskolleg Solingen
+- TOP 6.: Überplanmäßige Aufwendungen gemäß § 83 GO NRW im Teilplan 31.01 (Sozialhilfe nach SGB XII) für das Jahr 2019
+- TOP 7.: Bau der Ersatzsportanlage Höher Heide 2
+- TOP 8.: Zustimmung zu einem/ einer aus der Sportpauschale gedeckten konsumtiven Mehraufwand/ Mehrauszahlung gemäß §83 GO NRW hier: Sanierung von vier Kunstrasenplätzen
+- TOP 9.: Jahresabschluss 2018 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 10.: Wirtschaftsplan 2020 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 11.: Fahrbahndeckenprogramm 2020
+- TOP 11.1: Fahrbahndeckenprogramm 2020
+- TOP 12.: Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 679 sowie Satzungsbeschluss zum Bebauungsplan H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 3) – Stadtbezirk Mitte –
+- TOP 12.1: Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 679 sowie Satzungsbeschluss zum Bebauungsplan H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 3) – Stadtbezirk Mitte –
+- TOP 13.: Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplans D 280 für den Bereich nördlich der Straße Erbenhäuschen im Bereich nördlich der Einmündung des Magnolienweges – Stadtbezirk Mitte –
+- TOP 14.: Bauleitplanung Rembrandtstraße/ Locher Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB zum Vorentwurf des Bebauungsplanes W 568 sowie zum Vorentwurf der Flächennutzungsplanberichtigung Nr. B28/ 04 für das Gebiet zwischen Locher Straße, Rembrandtstraße, Wiedenkamper Straße und dem evgl. Friedhof - Stadtbezirk Wald -
+- TOP 14.1: Bauleitplanung Rembrandtstraße/ Locher Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB zum Vorentwurf des Bebauungsplanes W 568 sowie zum Vorentwurf der Flächennutzungsplanberichtigung Nr. B28/ 04 für das Gebiet zwischen Locher Straße, Rembrandtstraße, Wiedenkamper Straße und dem evgl. Friedhof - Stadtbezirk Wald -
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.1.1: Bereitstellung von Finanzmitteln für „Corona“-bedingte Aufwendungen
+- TOP 15.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Haupt- und Personalausschusses am 11.02.2020
+- TOP 4.: Jahresabschluss 2018 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 5.: Städtische Musikschule Solingen GmbH – Widerruf einer Prokura
+- TOP 6.: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — Bestellung/Abberufung einer / eines kaufmännischen Geschäfts-führerin / Geschäftsführers
+- TOP 7.: Städtisches Klinikum gemeinnützige GmbH (SKS) - Verlängerung der Bestellung als Verwaltungsleiter und Mitglied der Betriebsleitung
+- TOP 8.: Wirtschaftsplan 2020 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 9.: Wirtschaftsplan 2020 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 10.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) - Bestellung eines Prokuristen
+- TOP 11.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) - Grundstücksverkäufe
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.2: Anfragen an die Verwaltung
