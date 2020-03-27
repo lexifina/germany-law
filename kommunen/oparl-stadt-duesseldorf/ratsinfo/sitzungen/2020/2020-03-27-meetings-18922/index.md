@@ -1,0 +1,66 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-03-27T14:00:00+01:00
+- Ende: 2020-03-27T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18922
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18922
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00374822.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 28.02.2020
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 4.1: Situation der obdachlosen Menschen im Stadtbezirk 1 - mündlicher Bericht
+- TOP 4.2: Vorstellung der 15. Afrika-Tage - mündlicher Bericht
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Reduktion der Betriebsstörungen an Stadt- und Straßenbahnlinien durch die Reduktion von Falschparkern – Pilotstrecke Derendorfer Straße
+- TOP 4.6: Barrierefreier Haltestellenumbau Nordstraße
+- TOP 4.7: „Design Classic Düsseldorf 2020“ in der Verkaufshalle des Blumengroßmarktes am Sonntag, dem 29.11.2020
+- TOP 4.8: Handwerker- und Bauernmarkt auf dem Frankenplatz im Jahre 2020
+- TOP 4.9: Veranstaltungen Burgplatz - Nachmeldungen Jahresprogramm 2020
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020
+- TOP 4.11: Gestaltungsmaßnahmen Rochusmarkt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Radverkehrsverbindung Hofgarten – Königsallee - Anfrage der SPD-Fraktion
+- TOP 6: Anfragen
+- TOP 6.1: Erneute Anfrage Sanierung der Maxschule - Anfrage der FDP-Fraktion
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Verbesserung der Beschilderung der Toulouser Allee - Anfrage der CDU-Fraktion
+- TOP 6.4: Optische Aufwertung der Fassade und der Flächen an und um die Kunsthalle - Anfrage der CDU-Fraktion
+- TOP 6.5: Umsetzung der Neugestaltung der Grünfläche Ulmenstraße/Rheinbabenstraße - Anfrage der SPD-Fraktion
+- TOP 6.6: Lärmreduzierung auf der Roßstraße - Anfrage der SPD-Fraktion
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Mensa des Görres-Gymnasiums - Anfrage der FDP-Fraktion
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Opernhaus Düsseldorf - Antrag der CDU-Fraktion
+- TOP 7.2: Smart Learning an Düsseldorfer Schulen im Stadtbezirk 1 - Antrag der CDU-Fraktion
+- TOP 7.3: Schutz der Baumscheiben im Bezirk 1 der Landeshauptstadt Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7.4: Verbesserung der Situation für Radfahrer*innen und Fußgänger*innen im Kreuzungsbereich von Bagelstraße und Derendorfer Straße - Antrag der SPD-Fraktion
+- TOP 7.5: Wiederherstellung der Fahrbahnmarkierung inklusive farblicher Ausfüllung der Aufstellfläche - Bagelstraße - Antrag der Fraktion Bündnis90/Die Grünen
+- TOP 7.6: Abfallbehälter auf dem Frankenplatz dem Bedarf anpassen - Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7.7: Bäume für die Münsterstraße - Antrag der Fraktion Bündnis90/Die Grünen
+- TOP 7.8: Umleitung des Radverkehrs bei Veranstaltungen am Rathausufer und Mannesmannufer - Antrag der FDP-Fraktion
+- TOP 7.9: Briefkasten in der Umgebung des Carlsplatzes - Antrag der FDP-Fraktion
+- TOP 7.10: Vermeidung von weiterer Verschmutzung der Grünanlage Hans-Böckler-Straße - Antrag der SPD-Fraktion
+- TOP 7.11: Sonnenschutz im Hof der Jugendfreizeiteinrichtung Ulmen Club - Antrag der CDU-Fraktion
+- TOP 7.12: Aufstellflächen für Zulieferfirmen im Quartier Central - Antrag der CDU-Fraktion
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Mitteilung der Verwaltung
+- TOP 8.2: Bürgersteig Ulmenstraße zwischen Spichernplatz und Saarbrücker Straße, Beschluss der Bezirksvertretung 1 vom 11.10.2019; BV1/030/2019
+- TOP 8.3: Baumersatzpflanzung in der Römerstraße vor dem Haus Nr. 27, Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/009/2020
+- TOP 8.4: Rechtsabbiegepfeil Am Wehrhahn/Worringer Str., Beschluss der Bezirksvertretung 1; BV1/041/2020
+- TOP 8.5: Sauberkeit und Umgestaltung der Grünfläche Ulmen-, Glocken- und Rheinbabenstraße; Beschluss der Bezirksvertretung 1 vom 28.02.2020
+- TOP 8.6: Verdeckte Geschwindigkeitsmessung am Mannesmannufer die 3., Beschluss der Bezirksvertretung 1 vom 11.10.2019
+- TOP 8.7: Standort für eine Baumpflanzung in der Verkehrsinsel Rheinbabenstraße - Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/067/2020
+- TOP 8.8: Modellversuch - Begrünte Haltestellendächer; Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/030/2020
+- TOP 9: Zuschüsse aus Verfügungsmitteln der BV 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den St. Sebastian-Schützenverein Düsseldorf 1316 e.V.
