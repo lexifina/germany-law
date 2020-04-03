@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2019/2020
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18191.1
+- Datum: 2020-04-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18191.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.06.2019
+03.04.2020
 bis
-02.04.2020
+04.06.2020
 
 VwV Bedarf und Schuljahresablauf 2019/2020
 
@@ -586,7 +586,7 @@ Die Gesamtzahl der Gruppen oder Klassen in den Fächern Kunst und Musik in der K
 
 c)
 
-Schüler der Klassenstufe 10 wählen zwei Fächer aus Gemeinschaftskunde/Rechtserziehung, Geschichte und Geographie. Pro Klasse können maximal 6  Wochenstunden für diese Fächer verplant werden. Die Planung ist klassenübergreifend zu vollziehen.
+Schüler der Klassenstufe 10 wählen zwei Fächer aus Gemeinschaftskunde/Rechtserziehung, Geschichte und Geographie. Pro Klasse können maximal 6    Wochenstunden für diese Fächer verplant werden. Die Planung ist klassenübergreifend zu vollziehen.
 
 
 d)
@@ -902,13 +902,9 @@ ferien
 | 28. August 2020
 
 
-| unterrichtsfreier Tag
+| unterrichtsfreie Tage
 
-| 22. Mai 2020
-
-| 
-
-| 
+| 16. und 17. März 2020 sowie 22. Mai 2020
 
 
 Angegeben sind jeweils der erste und der letzte Ferientag. Darüber hinaus legt jede Schule im Einvernehmen mit dem Landesamt für Schule und Bildung, dem Schulträger und dem Träger der Schülerbeförderung einen frei beweglichen Ferientag fest.
@@ -994,11 +990,6 @@ Termine Berufs- und Studienorientierung
 | 9. bis 14. März 2020
 
 | „SCHAU REIN! – Woche der offenen Unternehmen Sachsen“
-
-
-| 26. März 2020
-
-| „Girls’ Day 2020“/„Boys’ Day 2020“
 
 
 C
@@ -1257,7 +1248,7 @@ Bis zum 18. Juni 2020 erstellt der Prüfungsausschuss einen Organisationsplan f�
 Schulfremde Prüfungsteilnehmer an Oberschulen
 
 
-Schulfremde, die einen Hauptschulabschluss, qualifizierenden Hauptschulabschluss oder Realschulabschluss erwerben wollen, müssen bis zum 28. Februar 2020 einen Antrag auf Teilnahme an der Prüfung zum Erwerb des gewünschten Abschlusses beim Landesamt für Schule und Bildung stellen. Bis zum 9. April 2020 informiert das Landesamt für Schule und Bildung die schulfremden Prüfungsteilnehmer schriftlich, an welcher Oberschule die Prüfung stattfindet.
+Schulfremde, die einen Hauptschulabschluss, qualifizierenden Hauptschulabschluss oder Realschulabschluss erwerben wollen, müssen bis zum 28. Februar 2020 einen Antrag auf Teilnahme an der Prüfung zum Erwerb des gewünschten Abschlusses beim Landesamt für Schule und Bildung stellen. Bis zum 24. April 2020 informiert das Landesamt für Schule und Bildung die schulfremden Prüfungsteilnehmer schriftlich, an welcher Oberschule die Prüfung stattfindet.
 
 5.
 
@@ -1510,7 +1501,7 @@ Schulfremde, die an der Abiturprüfung teilnehmen wollen, sollen spätestens am 
 
 b)
 
-Der schriftliche Prüfungsteil findet in dem Zeitraum statt, der in Nummer 6 geregelt ist. Die Bekanntgabe seiner Ergebnisse erfolgt am 19. Juni 2020. Die Zulassung oder Nichtzulassung zum mündlichen Prüfungsteil erfolgt am 29. Juni 2020. Der mündliche Prüfungsteil findet vom 30. Juni bis zum 6. Juli 2020 statt.
+Der schriftliche Prüfungsteil findet in dem Zeitraum statt, der in Nummer 5 geregelt ist. Die Bekanntgabe seiner Ergebnisse erfolgt am 19. Juni 2020. Die Zulassung oder Nichtzulassung zum mündlichen Prüfungsteil erfolgt am 29. Juni 2020. Der mündliche Prüfungsteil findet vom 30. Juni bis zum 6. Juli 2020 statt.
 
 
 c)
@@ -1547,7 +1538,7 @@ a)
 Ersttermine
 
 
-Erstermine
+Ersttermine
 
 
 | Fach
@@ -1612,20 +1603,6 @@ Nachtermine
 | 11. März 2020
 
 | 16. März 2020
-
-
-| Englisch
-
-| 13. März 2020
-
-| 18. März 2020
-
-
-| Mathematik
-
-| 17. März 2020
-
-| 20. März 2020
 
 
 3.
@@ -1916,7 +1893,7 @@ Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die prüfenden Gymnasi
 
 d)
 
-Die Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, oder für Schüler der Klassenstufe 4 mit Bildungsempfehlung für die Oberschule, die an der schriftlichen Leistungserhebung und am verpflichtenden Beratungsgespräch teilgenommen haben, finden am 30. März 2020 und am 31. März 2020 statt. Ihre Ergebnisse werden den Eltern unverzüglich mitgeteilt. Für Schüler, die aus wichtigen Gründen an der Teilnahme an den Nachprüfungen des Aufnahmeverfahrens verhindert waren, soll das betreffende Gymnasium das Aufnahmeverfahren bis zum 21. April 2020 durchführen.
+Die Gymnasien mit vertiefter Ausbildung vereinbaren individuelle Nachtermine mit den betreffenden Schülern bzw. deren Eltern.
 
 
 e)
@@ -1945,7 +1922,7 @@ Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die prüfenden Gymnasi
 
 d)
 
-Die Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, finden am 30. März 2020 und am 31. März 2020 statt. Ihre Ergebnisse werden den Eltern unverzüglich mitgeteilt. Eine Ausnahme bilden die besonderen sportlichen Eignungsprüfungen.
+Die Gymnasien mit vertiefter Ausbildung vereinbaren individuelle Nachtermine mit den betreffenden Schülern bzw. deren Eltern.
 
 
 e)
@@ -2037,7 +2014,7 @@ Papier-und-Stift-Variante
 
 | Klassenstufe
 
-| Mathematik
+| Mathe­matik
 
 | Deutsch
 
@@ -2046,12 +2023,9 @@ Papier-und-Stift-Variante
 
 | 3
 
-| 23. April 2020
+| *
 
-| (Teil 1)*
-27. April 2020
-(Teil 2)*
-28. April 2020
+| *
 
 | –
 
@@ -2067,7 +2041,7 @@ Papier-und-Stift-Variante
 
 *
 
-nur gemeinsam wählbar
+Die Termine werden den Schulen rechtzeitig durch das SMK bekannt gegeben.
 
 
 b)
@@ -2139,13 +2113,21 @@ Der Unterricht kann am 1. September 2019 beginnen.
 
 b)
 
+Berufsfachschule für Pflegeberufe:
+
+
+Der Unterricht kann am 1. März 2020 beginnen. Diese Schulen melden den Termin für den Unterrichtsbeginn unverzüglich an das Landesamt für Schule und Bildung.
+
+
+c)
+
 Berufsfachschule für Hebammen und Entbindungspfleger, Berufsfachschule für Notfallsanitäter, Fachschule – Fachbereich Sozialwesen:
 
 
 Der Unterricht kann am 1. September 2019 oder am 1. März 2020 beginnen. Diese Schulen melden den gewählten Termin für den Unterrichtsbeginn mindestens zwei Monate vorher an das Landesamt für Schule und Bildung.
 
 
-c)
+d)
 
 Berufliches Gymnasium:
 
@@ -2185,19 +2167,8 @@ Für die Berufsfachschule für Altenpflege, die Berufsfachschule für Sozialwese
 Prüfungen an der Fachschule – Fachbereich Sozialwesen
 
 
-a)
+Sofern das Landesamt für Schule und Bildung im Bereich der Fachschule – Fachbereich Sozialwesen – weitere Prüfungszeiträume für angezeigt hält, entscheidet darüber das Staatsministerium für ­Kultus.
 
-An der Fachschule – Fachbereich Sozialwesen – finden die schriftlichen Prüfungen in der Fachrichtung Sozialpädagogik im Zeitraum vom 23. März bis zum 3. April 2020 statt, wenn die berufspraktische Ausbildung parallel zur schulischen Ausbildung durchgeführt wird und der schulische Teil bis zu diesem Zeitpunkt beendet ist.
-
-
-b)
-
-In der Fachrichtung Heilerziehungspflege finden die schriftlichen Prüfungen ebenfalls im Zeitraum vom 23. März bis zum 3. April 2020 statt.
-
-
-c)
-
-Sofern das Landesamt für Schule und Bildung im Bereich der Fachschule – Fachbereich Sozialwesen - weitere Prüfungszeiträume für angezeigt hält, entscheidet darüber das Staatsministerium für Kultus.
 
 5.
 
@@ -2288,7 +2259,8 @@ Berufliches Gymnasium
 | Nachtermin
 
 
-|
+| 
+
 Fach
 (G = Grundkurs,
 L = Leistungskurs)
@@ -2320,6 +2292,13 @@ L = Leistungskurs)
 | 8. Mai 2020
 
 | 10. Juni 2020
+
+
+| Technik/Maschinenbautechnik (L) DUBAS
+
+| 8. Mai 2020
+
+| 11. Juni 2020
 
 
 | Agrartechnik mit Biologie (L)
@@ -2473,20 +2452,21 @@ Prüfungen zur Zertifizierung von Fremdsprachenkenntnissen
 
 | mündliche Prüfung
 
-| schriftlichePrüfung
+| schriftliche Prüfung
 
 
 | Sprache
 
 | Beruf
 
-| Ni-
-veau
+| Niveau
 
-| mündliche Prüfung
+| mündliche
+Prüfung
 (frühestens)
 
-| schriftliche Prüfung
+| schriftliche
+Prüfung
 
 
 | Englisch
@@ -2519,7 +2499,7 @@ veau
 
 | 6. Januar 2020
 
-| 19. März 2020
+| *
 
 
 | Englisch
@@ -2535,13 +2515,14 @@ veau
 
 | Englisch
 
-| Metallberufe
+| Metallberufe 
 
 | B1
 
 | 6. Januar 2020
 
-| 2. Juli 2020
+| 2. Juli
+2020
 
 
 | Englisch
@@ -2557,8 +2538,8 @@ veau
 
 | Englisch
 
-| Chemie-
-und chemieverwandte Berufe
+| Chemie- und chemie-
+verwandte Berufe
 
 | B1
 
@@ -2597,7 +2578,7 @@ und chemieverwandte Berufe
 
 | 6. Januar 2020
 
-| 19. März 2020
+| *
 
 
 | Englisch
@@ -2608,7 +2589,7 @@ und chemieverwandte Berufe
 
 | 6. Januar 2020
 
-| 19. März 2020
+| *
 
 
 | Englisch
@@ -2631,6 +2612,11 @@ und chemieverwandte Berufe
 | 6. Januar 2020
 
 | 3. Juli 2020
+
+
+*
+
+Die Termine werden den Schulen rechtzeitig durch das SMK bekannt gegeben.
 
 
 IV.
@@ -2727,17 +2713,22 @@ Termine der Vergleichsarbeiten in Klassenstufe 11
 
 | Mathematik
 
-| 20. März 2020
+| *
 
 
 | Englisch
 
-| 23. März 2020
+| *
 
 
 | Deutsch
 
-| 25. März 2020
+| *
+
+
+*
+
+Die Termine werden den Schulen rechtzeitig durch das SMK bekannt gegeben.
 
 
 V.
@@ -2771,9 +2762,9 @@ Fsn-Nr.: 710-V19.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Juni 2019
+Fassung gültig ab:  3. April 2020
 
-Fassung gültig bis:  2. April 2020
+Fassung gültig bis:  4. Juni 2020
 
 Drucken/Speichern
 
@@ -2800,7 +2791,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18191.1
+https://www.revosax.sachsen.de/vorschrift/18191.2
 Stand vom
 18.11.2026
 
