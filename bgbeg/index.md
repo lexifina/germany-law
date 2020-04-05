@@ -857,6 +857,12 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 229
 
 
+#### Art 229
+
+
+#### Art 229
+
+
 ## Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -1091,7 +1097,19 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 239 Länderöffnungsklausel
 
 
-#### Art 240 (weggefallen)
+#### Art 240 Vertragsrechtliche Regelungen aus Anlass der COVID-19-Pandemie
+
+
+#### Art 240
+
+
+#### Art 240
+
+
+#### Art 240
+
+
+#### Art 240
 
 
 #### Art 241 (weggefallen)
