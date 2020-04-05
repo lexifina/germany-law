@@ -51,5 +51,3 @@ Befugnisse
 - [§ 27 Begriffsbestimmung](0027.md)
 - [§ 28](0028.md)
 - [§ 29](0029.md)
-- [§ 30 Berlin-Klausel](0030.md)
-- [§ 31 Inkrafttreten](0031.md)
