@@ -7,10 +7,11 @@
 | § 2 | Begriffsbestimmungen |
 | § 3 | Prävention durch Aufklärung |
 |  |
-| 2. Abschnitt - Koordinierung und Früherkennung |
+| 2. Abschnitt - Koordinierung und epidemische Lage von nationaler Tragweite |
 |  |
 | § 4 | Aufgaben des Robert Koch-Instituts |
-| § 5 | Bund-Länder-Informationsverfahren |
+| § 5 | Epidemische Lage von nationaler Tragweite |
+| § 5a | Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung |
 |  |
 | 3. Abschnitt - Überwachung |
 |  |

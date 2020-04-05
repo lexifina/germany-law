@@ -9,10 +9,11 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Prävention durch Aufklärung](0003.md)
 
-## 2. Abschnitt Koordinierung und Früherkennung
+## 2. Abschnitt Koordinierung und epidemische Lage von nationaler Tragweite
 
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
-- [§ 5 Bund-Länder-Informationsverfahren](0005.md)
+- [§ 5 Epidemische Lage von nationaler Tragweite](0005.md)
+- [§ 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung](0005a.md)
 
 ## 3. Abschnitt Überwachung
 
@@ -104,8 +105,7 @@ Erlaubnis](0047.md)
 ## 12. Abschnitt Entschädigung in besonderen Fällen
 
 - [§ 56 Entschädigung](0056.md)
-- [§ 57 Verhältnis zur Sozialversicherung und zur
-Arbeitsförderung](0057.md)
+- [§ 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung](0057.md)
 - [§ 58 Aufwendungserstattung](0058.md)
 - [§ 59 Sondervorschrift für Ausscheider](0059.md)
 - [§ 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe](0060.md)
