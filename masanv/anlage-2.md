@@ -1,0 +1,26 @@
+# Anlage 2 Liste zusätzlicher Indikatoren des Sanierungsplans
+
+1. Kapitalindikatoren
+  a) Verhältnis von Gewinnrücklage und Rückstellungen zum Gesamteigenkapital
+  b) Nachteilige Informationen über die Finanzlage wichtiger Gegenparteien
+2. Liquiditätsindikatoren
+  a) Konzentration von Liquidität und Finanzierungsquellen
+  b) Kosten der Gesamtfinanzierung (Einlagenrefinanzierung und Refinanzierung am Interbankengeldmarkt)
+  c) Durchschnittliche Position der Refinanzierung am Interbankengeldmarkt
+  d) Inkongruenz bei der vertraglichen Laufzeit
+  e) Verfügbare unbelastete Vermögenswerte
+3. Rentabilitätsindikatoren
+  a) Aufwand-Ertrag-Verhältnis (Betriebskosten/Betriebseinkommen)
+  b) Nettozinsspanne
+4. Indikatoren für die Qualität der Vermögenswerte
+  a) Notleidende Kredite/Eigenkapital
+  b) Notleidende Kredite (brutto)/Kredite insgesamt
+  c) Anstiegsrate der Wertminderungen auf Finanzanlagen
+  d) Notleidende Kredite nach wesentlicher geografischer oder sektoraler Konzentration
+  e) Gestundete Forderungen/Risikopositionen insgesamt
+5. Marktbasierte Indikatoren
+  a) Kurs-Buchwert-Verhältnis
+  b) Risiko für das Ansehen des Instituts oder erheblicher Schaden für das Ansehen des Instituts
+6. Makroökonomische Indikatoren
+  a) Rating mit negativem Ausblick oder Bonitätsherabstufung von Staaten
+  b) Arbeitslosenquote

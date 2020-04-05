@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 21a Absatz 1 Satz 1 und 3 des Sanierungs- und Abwicklungsgesetzes, der durch Artikel 1 Nummer 7 des Gesetzes vom 2. November 2015 (BGBl. I S. 1864) eingefügt worden ist, in Verbindung mit § 1c Buchstabe a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der durch Artikel 1 der Verordnung vom 11. Dezember 2017 (BGBl. I S. 3908) eingefügt worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde:

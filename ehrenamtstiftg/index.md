@@ -1,0 +1,17 @@
+# Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Errichtung und Sitz](0001.md)
+- [§ 2 Stiftungszweck und Begriffsbestimmungen](0002.md)
+- [§ 3 Erfüllung des Stiftungszwecks](0003.md)
+- [§ 4 Stiftungsvermögen](0004.md)
+- [§ 5 Organe der Stiftung](0005.md)
+- [§ 6 Stiftungsrat](0006.md)
+- [§ 7 Vorstand](0007.md)
+- [§ 8 Satzung](0008.md)
+- [§ 9 Beschäftigte](0009.md)
+- [§ 10 Haushalt](0010.md)
+- [§ 11 Rechtsaufsicht](0011.md)
+- [§ 12 Auflösung](0012.md)
+- [§ 13 Evaluierung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)
