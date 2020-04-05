@@ -69,7 +69,7 @@
 - [§ 44 Registrierung und Berichtspflichten](0044.md)
 - [§ 45 Erstellung und Bekanntmachung von Jahresberichten](0045.md)
 - [§ 46 Inhalt von Jahresabschlüssen und Lageberichten](0046.md)
-- [§ 47 Prüfung und Bestätigung des Abschlussprüfers](0047.md)
+- [§ 47 Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung](0047.md)
 - [§ 48 Verkürzung der handelsrechtlichen Offenlegungsfrist](0048.md)
 - [§ 48a Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung](0048a.md)
 
