@@ -667,6 +667,7 @@ und zeitweilige Aufgaben
 - [§ 421 Förderung der Teilnahme an Sprachkursen](0421.md)
 - [§ 421a Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen](0421a.md)
 - [§ 421b Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland](0421b.md)
+- [§ 421c Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit](0421c.md)
 
 ### Dritter Abschnitt Grundsätze bei Rechtsänderungen
 

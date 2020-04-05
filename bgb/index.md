@@ -2562,6 +2562,7 @@ der elterlichen Sorge](1698a.md)
 - [§ 1764 Wirkung der Aufhebung](1764.md)
 - [§ 1765 Name des Kindes nach der Aufhebung](1765.md)
 - [§ 1766 Ehe zwischen Annehmendem und Kind](1766.md)
+- [§ 1766a Annahme von Kindern des nichtehelichen Partners](1766a.md)
 
 ##### Untertitel 2 Annahme Volljähriger
 

@@ -1,0 +1,24 @@
+# Anlage 9 Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
+
+In einem Vergabeverfahren können insbesondere folgende Nachhaltigkeitskriterien einbezogen werden. Die nachfolgende Aufzählung ist nicht abschließend.
+Umweltbezogene Kriterien
+– Anforderung der Erfüllung der Voraussetzungen eines ISO-14024-Typ-I-Umweltzeichens (zum Beispiel Blauer Engel, Nordischer Schwan, Österreichisches Umweltzeichen) oder gleichwertige Kriterien
+– Anforderung einer Übereinstimmung mit der durch die Verordnung (EG) Nr. 1221/2009 festgelegten Strategie für Umweltmanagement und -betriebsprüfung (EMAS)
+– Anforderung einer Übereinstimmung mit einem Umweltmanagementsystem gemäß der Norm ISO 14001, mit Ausnahme der durch die Verordnung (EG) Nr. 1221/2009 festgelegten Strategie für Umweltmanagement und -betriebsprüfung (EMAS)
+– Anforderung einer Übereinstimmung mit der höchsten Energieeffizienzklasse (im Einklang mit der Definition in verschiedenen Rechtsvorschriften, zum Beispiel in der Verordnung (EU) Nr. 626/2011 über Luftkonditionierer)
+– Anforderung einer Übereinstimmung, für den größten Teil der betreffenden Beschaffung, mit der Verordnung (EG) Nr. 834/2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Produkten
+– Vorgabe einer Kostenberechnung auf der Grundlage von Lebenszykluskosten
+Soziale Kriterien
+– Beschäftigungsmöglichkeiten für Langzeitarbeitslose, Benachteiligte und/oder für Menschen mit Behinderungen
+– Zugänglichkeit der Leistung für Menschen mit Behinderungen
+– faire Arbeitsbedingungen
+– Schutz der Menschen- und Arbeitnehmerrechte in globalen Wertschöpfungsketten
+– Gleichstellung der Geschlechter
+– Gleichstellung von ethnischen Gruppen
+– Kernarbeitsnormen der Internationalen Arbeitsorganisation (IAO) entlang der globalen Wertschöpfungskette
+Innovative Kriterien
+– Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen sind innovativ für die Organisation.
+– Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen sind innovativ für den gesamten Markt.
+– Die technischen Spezifikationen beruhen in erster Linie auf den Funktions- und Leistungsanforderungen und nicht auf der Beschreibung der technischen Lösung.
+– Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen umfassen Forschungs- und Entwicklungstätigkeiten.
+– Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen dürften die Wirksamkeit der Arbeit des Beschaffers erhöhen.

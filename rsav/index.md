@@ -2,90 +2,48 @@
 
 - [Eingangsformel](eingangsformel.md)
 
-## Erster Abschnitt Gemeinsame Vorschriften
+## Abschnitt 1 Gemeinsame Vorschriften
 
 - [§ 1 Begriffsbestimmungen](0001.md)
-- [§ 2 Versichertengruppen](0002.md)
-- [§ 3 Erhebung der Versicherungszeiten](0003.md)
+- [§ 2 Risikogruppen](0002.md)
+- [§ 3 Versicherungszeiten](0003.md)
 - [§ 4 Berücksichtigungsfähige Leistungsausgaben](0004.md)
-- [§ 5 Verhältniswerte für die Ermittlung der
-standardisierten Leistungsausgaben](0005.md)
-- [§ 6 Standardisierte Leistungsausgaben](0006.md)
-- [§ 7 Voraussichtliche standardisierte Leistungsausgaben](0007.md)
-- [§ 8 Beitragspflichtige Einnahmen](0008.md)
-- [§ 9 Voraussichtliche beitragspflichtige Einnahmen](0009.md)
-- [§ 10 Beitragsbedarf](0010.md)
-- [§ 11 Ausgleichsbedarfssatz](0011.md)
-- [§ 12 Finanzkraft](0012.md)
-- [§ 13 Berechnungsgrundlagen](0013.md)
-- [§ 14 Abrechnungsverfahren, Zahlungsverkehr, Säumniszuschläge](0014.md)
-- [§ 15 Bekanntmachungen](0015.md)
-- [§ 15a Prüfung](0015a.md)
+- [§ 5 Bekanntmachungen](0005.md)
+- [§ 6 Zahlungsverkehr und Verrechnung](0006.md)
 
-## Zweiter Abschnitt Monatlicher Ausgleich
+## Abschnitt 2 Datenmeldungen, Versichertenklassifikationsmodell und Gutachten
 
-- [§ 16 Ansprüche und Verpflichtungen](0016.md)
-- [§ 17 Monatlicher Ausgleich](0017.md)
+- [§ 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs](0007.md)
+- [§ 8 Auswahl und Anpassung des Versichertenklassifikationsmodells](0008.md)
+- [§ 9 Datenmeldungen für den monatlichen Ausgleich](0009.md)
+- [§ 10 Folgegutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte](0010.md)
 
-## Dritter Abschnitt Jahresausgleich
+## Abschnitt 3 Zuweisungen aus dem Gesundheitsfonds
 
-- [§ 18 Allgemeines](0018.md)
-- [§ 19 Jahresausgleich](0019.md)
+- [§ 11 Zuweisungen für das Krankengeld](0011.md)
+- [§ 12 Ermittlung der Höhe der Grundpauschale](0012.md)
+- [§ 13 Zuweisungen für sonstige Ausgaben](0013.md)
+- [§ 14 Risikopool](0014.md)
+- [§ 15 Zuweisungen für Vorsorge- und Früherkennungsmaßnahmen und für strukturierte Behandlungsprogramme](0015.md)
+- [§ 16 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung](0016.md)
+- [§ 17 Mitgliederbezogene Veränderung der Zuweisungen](0017.md)
+- [§ 18 Jahresausgleich](0018.md)
+- [§ 19 Ausschluss auffälliger Risikogruppen](0019.md)
+- [§ 20 Prüfung der Datenmeldungen](0020.md)
+- [§ 21 Ermittlung des Korrekturbetrags nach § 273 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch](0021.md)
+- [§ 22 Durchführung des Einkommensausgleichs](0022.md)
 
-## Vierter Abschnitt Übergangsvorschriften
+## Abschnitt 4 Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen
 
-- [§ 20 Versichertengruppen 1994 und 1995](0020.md)
-- [§ 21 Versichertenzahl 1994 und 1995](0021.md)
-- [§ 22 Berücksichtigungsfähige Leistungsausgaben 1994](0022.md)
-- [§ 23 Verhältniswerte 1994 und 1995](0023.md)
-- [§ 24 Beitragspflichtige Einnahmen 1994](0024.md)
-- [§ 25 Jahresausgleiche bis 1997](0025.md)
-- [§ 26 Verrechnungen](0026.md)
+- [§ 23 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds](0023.md)
 
-## Fünfter Abschnitt Sonderregelungen
+## Abschnitt 5 Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137g des Fünften Buches Sozialgesetzbuch
 
-- [§ 27 Beitrittsgebiet](0027.md)
-- [§ 27a Finanzkraftausgleich ab 1999](0027a.md)
-- [§ 28 Berlin](0028.md)
-- [§ 28a (weggefallen)](0028a.md)
+- [§ 24 Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme](0024.md)
+- [§ 25 Anforderungen an das Verfahren der Verarbeitung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten](0025.md)
+- [§ 26 Berechnung der Kosten für die Bescheidung von Zulassungsanträgen](0026.md)
 
-## Sechster Abschnitt Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach
-§ 137f Abs. 2 des Fünften Buches Sozialgesetzbuch
+## Abschnitt 6 Übergangsregelung
 
-- [§ 28b (weggefallen)](0028b.md)
-- [§ 28c (weggefallen)](0028c.md)
-- [§ 28d Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme](0028d.md)
-- [§ 28e (weggefallen)](0028e.md)
-- [§ 28f Anforderungen an das Verfahren der Erhebung und Übermittlung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten](0028f.md)
-- [§ 28g (weggefallen)](0028g.md)
-- [§ 28h Berechnung der Kosten für Bescheidung von Zulassungsanträgen](0028h.md)
-
-## Siebter Abschnitt Weiterentwicklung des 
-Risikostrukturausgleichs ab 2009
-
-- [§ 29 Grundsätze für die Weiterentwicklung des Risikostrukturausgleichs](0029.md)
-- [§ 30 Erhebung und Verwendung von Daten für die Weiterentwicklung des Risikostrukturausgleichs](0030.md)
-- [§ 31 Auswahl und Anpassung des Klassifikationsmodells](0031.md)
-- [§ 32 Datenmeldungen für den monatlichen Ausgleich](0032.md)
-- [§ 33 Gutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte](0033.md)
-- [§ 33a Folgegutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte](0033a.md)
-- [(XXXX) §§ 33b bis 34 (weggefallen)](xxxx-33b-bis-34.md)
-
-## Achter Abschnitt Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich) ab 2009
-
-- [§ 35 Anwendbare Regelungen](0035.md)
-- [§ 36 Ermittlung der Höhe der Grundpauschale](0036.md)
-- [§ 37 Zuweisungen für sonstige Ausgaben](0037.md)
-- [§ 38 Zuweisung für strukturierte Behandlungsprogramme ab 2009](0038.md)
-- [§ 39 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung](0039.md)
-- [§ 39a Ermittlung des Korrekturbetrags](0039a.md)
-- [§ 40 Mitgliederbezogene Veränderung der Zuweisungen](0040.md)
-- [§ 41 Jahresausgleich](0041.md)
-- [§ 42 Prüfung der Datenmeldungen](0042.md)
-- [§ 43 Durchführung des Einkommensausgleichs](0043.md)
+- [§ 27 Übergangsregelung](0027.md)
 - [Schlußformel](schlussformel.md)
-
-## Neunter Abschnitt Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen
-
-- [§ 44 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds](0044.md)
-- [(XXXX) Anlagen 1 bis 12 (weggefallen)](xxxx-anlagen-1-bis-12.md)

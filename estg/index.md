@@ -150,7 +150,7 @@
 - [§ 32 Kinder, Freibeträge für Kinder](0032.md)
 - [§ 32a Einkommensteuertarif](0032a.md)
 - [§ 32b Progressionsvorbehalt](0032b.md)
-- [§ 32c (weggefallen)](0032c.md)
+- [§ 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft](0032c.md)
 - [§ 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen](0032d.md)
 - [§ 33 Außergewöhnliche Belastungen](0033.md)
 - [§ 33a Außergewöhnliche Belastung in besonderen Fällen](0033a.md)

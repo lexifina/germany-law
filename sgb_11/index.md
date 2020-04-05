@@ -372,5 +372,14 @@ zum Schutz der Pflegebedürftigen
 - [§ 144 Überleitungs- und Übergangsregelungen, Verordnungsermächtigung](0144.md)
 - [§ 145 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege](0145.md)
 - [§ 146 Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3](0146.md)
+
+### Dritter Abschnitt Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie
+
+- [§ 147 Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18](0147.md)
+- [§ 148 Beratungsbesuche nach § 37](0148.md)
+- [§ 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege](0149.md)
+- [§ 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige](0150.md)
+- [§ 151 Qualitätsprüfungen nach § 114](0151.md)
+- [§ 152 Verordnungsermächtigung](0152.md)
 - [Anlage 1 (zu § 15)Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul](anlage-1.md)
 - [Anlage 2 (zu § 15) Bewertungssystematik (Summe der Punkte und gewichtete Punkte)Schweregrad der Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten im Modul](anlage-2.md)

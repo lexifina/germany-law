@@ -237,7 +237,24 @@
 - [§ 151 Unterbrechung von gerichtlichen Verfahren in Zivilsachen](0151.md)
 - [§ 152 Haftungsbeschränkung](0152.md)
 
-## Teil 5 Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten
+## Teil 5 Sondervorschriften für zentrale Gegenparteien
+
+- [§ 152a Anwendungsbereich](0152a.md)
+- [§ 152b Ausgestaltung von Sanierungsplänen](0152b.md)
+- [§ 152c Bewertung von Sanierungsplänen](0152c.md)
+- [§ 152d Maßnahmen bei Mängeln von Sanierungsplänen](0152d.md)
+- [§ 152e Erstellung und Aktualisierung von Abwicklungsplänen](0152e.md)
+- [§ 152f Abwicklungsfähigkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungsermächtigung](0152f.md)
+- [§ 152g Zwecke und Umfang der Bewertung; Unterlagen](0152g.md)
+- [§ 152h Anordnung von Abwicklungsmaßnahmen](0152h.md)
+- [§ 152i Zwecke der Instrumente der Vertragsbeendigung, der Minderung zu zahlender Gewinne und des zusätzlichen Barmittelabrufs](0152i.md)
+- [§ 152j Instrument der Vertragsbeendigung](0152j.md)
+- [§ 152k Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder](0152k.md)
+- [§ 152l Instrument des zusätzlichen Barmittelabrufs](0152l.md)
+- [§ 152m Schutzbestimmungen für Anteilsinhaber, Gläubiger und Clearingmitglieder](0152m.md)
+- [§ 152n Rechtsschutz](0152n.md)
+
+## Teil 6 Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten
 
 
 ### Kapitel 1 Anerkennung von Maßnahmen der Behörden anderer Mitgliedstaaten
@@ -277,14 +294,14 @@
 - [§ 170 Recht auf Verweigerung der Anerkennung oder Durchsetzung von Drittstaatsabwicklungsverfahren](0170.md)
 - [§ 171 Abwicklung von inländischen Unionszweigstellen](0171.md)
 
-## Teil 6 Bußgeldvorschriften
+## Teil 7 Bußgeldvorschriften
 
 - [§ 172 Bußgeldvorschriften](0172.md)
 - [§ 173 Zuständige Verwaltungsbehörde](0173.md)
 - [§ 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen](0174.md)
 - [§ 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen](0175.md)
 
-## Teil 7 Maßnahmen des Ausschusses
+## Teil 8 Maßnahmen des Ausschusses
 
 - [§ 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen](0176.md)
 - [§ 177 Prüfungen vor Ort nach der SRM-Verordnung](0177.md)

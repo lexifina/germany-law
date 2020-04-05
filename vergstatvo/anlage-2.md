@@ -1,23 +1,51 @@
-# Anlage 2 (zu § 3 Absatz 2)Daten, die durch öffentliche Auftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages über soziale und andere besondere Dienstleistungen nach Anhang XIV der Richtlinie 2014/24/EU an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind
+# Anlage 2 (zu § 3 Absatz 1 Nummer 2)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
 
-| lfd. Nr. | Bezeichnung lt. Anhang XVIII zur Durchführungsverordnung (EU) 2015/1986 | Bemerkung |
-| 1 | Abschnitt I: Öffentlicher Auftraggeber I.1) Name und Adressen Postleitzahl | Postleitzahl des Sitzes des öffentlichen Auftraggebers bzw. der Dienststelle/Vergabestelle. |
-| 2 | Abschnitt I: Öffentlicher Auftraggeber I.1) Name und Adressen E-Mail | Angabe einer funktionalen, nicht personenbezogenen E-Mail-Adresse des öffentlichen Auftraggebers. |
-| 3 | Abschnitt I: Öffentlicher Auftraggeber I.4) Art des öffentlichen Auftraggebers◯ Ministerium oder sonstige zentral- oder bundesstaatliche Behörde einschließlich regionaler oder lokaler Unterabteilungen◯ Agentur/Amt auf zentral- oder bundesstaatlicher Ebene◯ Regional- oder Kommunalbehörde◯ Agentur/Amt auf regionaler oder lokaler Ebene◯ Einrichtung des öffentlichen Rechts◯ Europäische Institution/Agentur oder internationale Organisation◯ anderer öffentlicher Auftraggeber |  |
-| 4 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.2) CPV-Code Hauptteil CPV-Code Zusatzteil | CPV = Common Procurement Vocabulary-Nomenklatur (gemeinsames Vokabular für öffentliche Aufträge) |
-| 5 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.6) Angaben zu den Losen Aufteilung des Auftrags in Lose◯ ja ◯ nein |  |
-| 6 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.7) Gesamtwert der Beschaffung (ohne MwSt.) Wert |  |
-| 7 | Abschnitt II: Gegenstand II.2) Beschreibung II.2.5) Zuschlagskriterien ⃞ Qualitätskriterium – Name/Gewichtung◯ Kostenkriterium – Name/Gewichtung◯ Preis – Gewichtung | Die Angaben zu den Zuschlagskriterien, Name und Gewichtung der Qualitäts- oder der Kostenkriterien umfassen auch Angaben zu qualitativen, umweltbezogenen, sozialen oder innovativen Kriterien im Sinne von § 58 Abs. 2 VgV. |
-| 8 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.1) Verfahrensart |  |
-|  | ◯ Offenes Verfahren◯ Nicht offenes Verfahren◯ Verfahren, das Verhandlungen einschließt ◯ Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union | –Offenes Verfahren gem. § 15 VgV–Nicht offenes Verfahren gem. § 16 VgV–umfasst: Verhandlungsverfahren gem. § 17 VgV, wettbewerblicher Dialog gem. § 18 VgV, Innovationspartnerschaft gem. § 19 VgV–Verhandlungsverfahren ohne Teilnahmewettbewerb gem. § 17 Abs. 5 VgV |
-| 9 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.3) Angaben zur Rahmenvereinbarung oder zum dynamischen Beschaffungssystem ⃞ Die Bekanntmachung betrifft den Abschluss einer Rahmenvereinbarung | Abgeschlossene Rahmenvereinbarungen werden einmal statistisch erfasst. Einzelabrufe aus Rahmenvereinbarungen werden nicht gesondert statistisch erfasst. |
-| 10 | Abschnitt IV: Verfahren IV.2) Verwaltungsangaben IV.2.1) Frühere Bekanntmachung zu diesem Verfahren Bekanntmachungsnummer im ABl. |  |
-| 11 | Abschnitt V: Auftragsvergabe Auftrags-Nr. |  |
-| 12 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.1) Tag des Vertragsabschlusses (TT/MM/JJJJ) |  |
-| 13 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote |  |
-| 14 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von KMU | Anzahl der eingegangenen Angebote von kleinen oder mittleren Unternehmen gemäß der Definition in der Empfehlung 2003/361/EC der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36). |
-| 15 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von Bietern aus anderen EU-Mitgliedstaaten |  |
-| 16 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der elektronisch eingegangenen Angebote |  |
-| 17 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.3) Name und Anschrift des Wirtschaftsteilnehmers, zu dessen Gunsten der Zuschlag erteilt wurde Der Auftragnehmer ist ein KMU◯ ja ◯ nein |  |
-| 18 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.3) Name und Anschrift des Wirtschaftsteilnehmers, zu dessen Gunsten der Zuschlag erteilt wurde Land | Staat, in dem das Unternehmen, auf dessen Angebot der Zuschlag erteilt wurde, seinen Sitz hat. |
-| 19 | Anhang D1 – Allgemeine Aufträge Begründung der Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union (ABl. S) | Begründung der Wahl des Verhandlungsverfahrens ohne Teilnahmewettbewerb gem. § 17 Abs. 5 VgV (Nummer 9 „Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union“) entsprechend der in Anhang D1 aufgeführten Fallgruppen. |
+Abschnitt 1
+Daten, die durch öffentliche Auftraggeber nach
+Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages
+im Oberschwellenbereich über soziale und andere besondere Dienstleistungen
+nach Anhang XIV der Richtlinie 2014/24/EU dem Statistischen Bundesamt zugeleitet werden
+| Merkmalsgruppe | Name des Merkmals | Ausprägungen/Bemerkungen |
+| Angaben zum Auftraggeber | Name des Auftraggebers | Anzugeben ist hier die Bezeichnung des Auftraggebers und keine einzelnen Organisationseinheiten innerhalb des Auftraggebers. |
+| Leitweg-ID | Jeder öffentliche Auftraggeber verfügt über eine oder mehrere Leitweg-ID, die zur Übermittlung der elektronischen Rechnung gem. ERechV (auf Bundesebene) in den Vergabeunterlagen angegeben werden müssen. Die Angabe ist nur für Auftraggeber auf Bundesebene verpflichtend. |
+| Art des Auftraggebers | Öffentliche Auftraggeber Bund☐ Oberste Bundesbehörden☐ Obere, mittlere und untere Bundesbehörden☐ Körperschaften des öffentlichen Rechts auf Bundesebene☐ Anstalten des öffentlichen Rechts auf Bundesebene☐ Stiftungen des öffentlichen Rechts auf Bundesebene☐ Sonstige Auftraggeber auf Bundesebene Land☐ Oberste Landesbehörden☐ Obere, mittlere und untere Landesbehörden☐ Körperschaften des öffentlichen Rechts auf Landesebene☐ Anstalten des öffentlichen Rechts auf Landesebene☐ Stiftungen des öffentlichen Rechts auf Landesebene☐ Sonstige Auftraggeber auf Landesebene Kommunen☐ Kommunalbehörden☐ Körperschaften des öffentlichen Rechts auf Kommunalebene☐ Anstalten des öffentlichen Rechts auf Kommunalebene☐ Stiftungen des öffentlichen Rechts auf Kommunalebene☐ Sonstige Auftraggeber auf Kommunalebene Sonstige☐ Sonstige Auftraggeber |
+| Postleitzahl des Auftraggebers | Räumliche Zuordnung des Auftraggebers |
+| Zentrale Beschaffungsstelle | ☐ ja ☐ nein |
+| Angaben zum Auftragsgegenstand | Bekanntmachungsnummer im Amtsblatt der EU | Bekanntmachungsnummer im Amtsblatt der EU |
+| Auftragsnummer | Interne Auftrags-Nr. oder vergebenes Aktenzeichen |
+| Art des Auftrages | ⊠ Aufträge über soziale und andere besondere Dienstleistungen |
+| CPV-Code | Die Angabe dient der Ermittlung des Auftragsgegenstandes. Anzugeben ist der Hauptteil des CPV-Codes (ohne Zusatzteil). Mehrfachnennung ist möglich. Es können bis zu drei CPV-Codes angegeben werden. |
+| Auftragswert | Ermittlung des Netto-Auftragswertes in Euro |
+| Aufteilung des Auftrags in Lose | ☐ ja ☐ nein |
+| Zuschlagskriterium | Ermittlung der Zuschlagskriterien für die Zuschlagsentscheidung: ☐ nur Preis ☐ nur Kosten ☐ Preis und Qualitätskriterien ☐ Kosten und Qualitätskriterien Wenn Zuschlagskriterium: ⊠ Preis und Qualitätskriterien➔ Gewichtung Preis vs. Qualitätskriterien in % Wenn Zuschlagskriterium: ⊠ Kosten und Qualitätskriterien➔ Gewichtung Kosten vs. Qualitätskriterien in % |
+| Angaben zum Verfahren | Verfahrensart | ☐ Offenes Verfahren (§ 15 VgV) ☐ Nicht offenes Verfahren (§ 16 VgV) ☐ Verhandlungsverfahren mit Teilnahmewettbewerb (§ 17 Abs. 1 VgV) ☐ Verhandlungsverfahren ohne Teilnahmewettbewerb (§ 17 Abs. 5 VgV) ☐ Wettbewerblicher Dialog (§ 18 VgV) ☐ Innovationspartnerschaft (§ 19 VgV) |
+| Rahmenvereinbarung | ☐ ja ☐ nein |
+| Nachhaltigkeitskriterien (siehe Anlage 9) | Berücksichtigung nachhaltiger Kriterien bei der Leistungsbeschreibung, bei der Eignung, bei den Zuschlagskriterien oder bei den Ausführungsbedingungen ☐ ja ☐ nein |
+| Wenn Nachhaltigkeitskriterien ⊠ ja ➔ Ermittlung, an welcher Stelle des Vergabeverfahrens das/die Nachhaltigkeitskriterium/en vorgegeben wurde/n: ☐ Leistungsbeschreibung ☐ Eignung ☐ Zuschlag ☐ Ausführungsbedingungen (Mehrfachnennung ist möglich.) Wenn Leistungsbeschreibung ⊠ ➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen ☐ sozial ☐ innovativ (Mehrfachnennung ist möglich.) |
+|  |  | Wenn Eignung ⊠ ➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen ☐ sozial ☐ innovativ (Mehrfachnennung ist möglich.) Wenn Zuschlag ⊠ ➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen ☐ sozial ☐ innovativ (Mehrfachnennung ist möglich.) Wenn Ausführungsbedingung ⊠ ➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen ☐ sozial☐ innovativ (Mehrfachnennung ist möglich.) |
+| Angaben zur Auftragsvergabe | Datum des Vertragsabschlusses | Zeitliche Zuordnung der Vergabe |
+| Gesamtanzahl eingegangener Angebote | Anzahl der Angebote, die insgesamt eingegangen sind |
+| Anzahl Angebote von KMU | Anzahl der Angebote, die von Kleinstunternehmen und/oder kleinen und/oder mittleren Unternehmen eingegangen sind. Es wird die KMU-Definition in der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36) zugrunde gelegt. |
+| Anzahl Angebote aus anderen EU-Mitgliedstaaten | Anzahl der Angebote, die aus anderen europäischen Mitgliedstaaten eingegangen sind |
+| Anzahl elektronisch übermittelter Angebote | Anzahl der auf elektronischem Wege eingegangenen Angebote |
+| Auftragnehmer ist ein KMU | ☐ ja ☐ nein |
+| Herkunftsland Auftragnehmer | Angabe des Herkunftslandes des Auftragnehmers |
+| Abschlussseite | Bemerkung | Freiwillige Angabe |
+Abschnitt 2
+Merkmale, die ausschließlich der
+technischen Umsetzung der Datenübermittlung nach § 2 Absatz 1 dienen
+| Merkmalsgruppe | Name des Merkmals | Ausprägungen/Bemerkungen |
+| Merkmale | Name der Berichtsstelle | Zur Erfüllung ihrer Meldepflichten bedienen sich die Auftraggeber Berichtsstellen. Berichtsstellen sind diejenigen Stellen, die Informationen über vergebene Aufträge als Auftraggeber selbst oder für einen anderen Auftraggeber melden. |
+| Straße |  |
+| Hausnummer |  |
+|  | Postleitzahl |  |
+|  | Ort |  |
+| Postfachnummer | Freiwillige Angaben |
+| Postleitzahl des Postfaches |
+| Ort des Postfaches |
+| Nachname Ansprechperson |
+| Vorname Ansprechperson |
+| E-Mail-Adresse |
+| Telefonnummer |
+| Auftraggebereigenschaft | ☐ Öffentlicher Auftrag durch öffentliche Auftraggeber im Oberschwellenbereich ☐ Öffentlicher Auftrag durch öffentliche Auftraggeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich ☐ Öffentlicher Auftrag durch Sektorenauftraggeber im Oberschwellenbereich ☐ Öffentlicher Auftrag durch Sektorenauftraggeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich ☐ Konzession durch Konzessionsgeber im Oberschwellenbereich ☐ Konzession durch Konzessionsgeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich ☐ Verteidigungs- und sicherheitsspezifischer öffentlicher Auftrag durch öffentliche Auftraggeber und Sektorenauftraggeber im Oberschwellenbereich ☐ Öffentliche Aufträge durch öffentliche Auftraggeber im Unterschwellenbereich |
+| Angaben zur Meldung | Korrekturmeldung | ☐ ja ☐ nein |

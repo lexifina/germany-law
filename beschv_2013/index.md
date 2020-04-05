@@ -8,8 +8,8 @@
 ## Teil 2 Qualifizierte Beschäftigungen
 
 - [§ 2 Vermittlungsabsprachen](0002.md)
-- [§ 3 Führungskräfte](0003.md)
-- [§ 4 Leitende Angestellte und Spezialisten](0004.md)
+- [§ 3 Leitende Angestellte, Führungskräfte und Spezialisten](0003.md)
+- [§ 4 (weggefallen)](0004.md)
 - [§ 5 Wissenschaft, Forschung und Entwicklung](0005.md)
 - [§ 6 Beschäftigung in ausgewählten Berufen bei ausgeprägter berufspraktischer Erfahrung](0006.md)
 - [§ 7 (weggefallen)](0007.md)
@@ -43,6 +43,7 @@
 - [§ 22 Besondere Berufsgruppen](0022.md)
 - [§ 23 Internationale Sportveranstaltungen](0023.md)
 - [§ 24 Schifffahrt- und Luftverkehr](0024.md)
+- [§ 24a Berufskraftfahrerinnen und Berufskraftfahrer](0024a.md)
 - [§ 25 Kultur und Unterhaltung](0025.md)
 - [§ 26 Beschäftigung bestimmter Staatsangehöriger](0026.md)
 - [§ 27 Grenzgängerbeschäftigung](0027.md)

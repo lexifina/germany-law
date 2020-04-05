@@ -46,7 +46,7 @@
 ## Abschnitt 5 OTC-Derivate und Transaktionsregister
 
 - [§ 30 Überwachung des Clearings von OTC-Derivaten und Aufsicht über Transaktionsregister](0030.md)
-- [§ 31 Mitteilungspflichten nichtfinanzieller Gegenparteien](0031.md)
+- [§ 31 Verordnungsermächtigung zu den Mitteilungspflichten nach der Verordnung (EU) Nr. 648/2012](0031.md)
 - [§ 32 Prüfung der Einhaltung bestimmter Pflichten der Verordnung (EU) Nr. 648/2012 und der Verordnung (EU) Nr. 600/2014](0032.md)
 
 ## Abschnitt 6 Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
@@ -190,7 +190,7 @@
 
 - [§ 127 Erstmalige Mitteilungs- und Veröffentlichungspflichten](0127.md)
 - [§ 128 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Wahl des Herkunftsstaats](0128.md)
-- [§ 129 Übergangsregelung für die Kostenerstattungspflicht nach § 11 der bis zum 2. Januar 2018 gültigen Fassung dieses Gesetzes](0129.md)
+- [§ 129 (weggefallen)](0129.md)
 - [§ 130 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen nach § 30i in der Fassung dieses Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2481)](0130.md)
 - [§ 131 Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a der bis zum 4. August 2009 gültigen Fassung dieses Gesetzes](0131.md)
 - [§ 132 Anwendungsbestimmung für das Transparenzrichtlinie-Umsetzungsgesetz](0132.md)

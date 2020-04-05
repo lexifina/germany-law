@@ -39,9 +39,13 @@
 - [§ 19 Schlichtungsausschuss auf Bundesebene zur Klärung strittiger Kodier- und Abrechnungsfragen](0019.md)
 - [§ 20 Nichtanwendung von Pflegesatzvorschriften](0020.md)
 
-## 4. Abschnitt (weggefallen)
+## 4. Abschnitt Sonderregelungen
 
-- [(XXXX) §§ 21 bis 26 (weggefallen)](xxxx-21-bis-26.md)
+- [§ 21 Ausgleichszahlungen an Krankenhäuser aufgrund von Sonderbelastungen durch das neuartige Coronavirus SARS-CoV-2](0021.md)
+- [§ 22 Behandlung in Vorsorge- und Rehabilitationseinrichtungen](0022.md)
+- [§ 23 Verordnungsermächtigung](0023.md)
+- [§ 24 Überprüfung der Auswirkungen](0024.md)
+- [(XXXX) §§ 25 u. 26 (weggefallen)](xxxx-25-u-26.md)
 
 ## 5. Abschnitt Sonstige Vorschriften
 

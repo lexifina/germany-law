@@ -250,7 +250,7 @@
 | § 111 | Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen |
 | § 112 | Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen |
 | § 113 | Verordnungsermächtigung |
-| § 114 | Monitoring und Pflicht zur Übermittlung von Vergabedaten |
+| § 114 | Monitoring und Vergabestatistik |
 |  |
 | Abschnitt 2 |
 | Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber |

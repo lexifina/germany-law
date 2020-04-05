@@ -17,6 +17,7 @@
 | Georgien | Senegal |
 | Ghana | Sierra Leone |
 | Guinea | Sudan |
+|  | Südsudan |
 | Guinea-Bissau | Syrien, Arabische Republik |
 | Irak | Tadschikistan |
 | Iran, Islamische Republik | Togo |

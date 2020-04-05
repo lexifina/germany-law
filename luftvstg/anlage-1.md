@@ -3,6 +3,7 @@
 | Albanien | Monaco |
 | Algerien | Montenegro |
 | Andorra | Niederlande |
+|  | Nordmazedonien, Republik |
 | Belgien | Norwegen |
 | Bosnien und Herzegowina | Österreich |
 | Bulgarien | Polen |
@@ -13,7 +14,7 @@
 | Frankreich | Schweden |
 | Griechenland | Schweiz |
 | Irland | Serbien |
-| Island | Slowakische Republik |
+| Island | Slowakei |
 | Italien | Slowenien |
 | Kosovo | Spanien |
 | Kroatien | Tschechische Republik |
@@ -24,5 +25,5 @@
 | Luxemburg | Vatikanstadt |
 | Malta | Vereinigtes Königreich |
 | Marokko | Weißrussland |
-| Mazedonien, Ehem. Jugoslaw. Rep. | Zypern |
-| Moldau |  |
+| (weggefallen) | Zypern |
+| Moldau, Republik |  |

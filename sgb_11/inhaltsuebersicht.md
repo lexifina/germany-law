@@ -364,5 +364,13 @@
 | § 145 | Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege |
 | § 146 | Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3 |
 |  |  |
+| Dritter Abschnitt |
+| Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie |
+| § 147 | Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18 |
+| § 148 | Beratungsbesuche nach § 37 |
+| § 149 | Einrichtungen zur Inanspruchnahme von Kurzzeitpflege |
+| § 150 | Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige |
+| § 151 | Qualitätsprüfungen nach § 114 |
+| § 152 | Verordnungsermächtigung |
 Anlage 1 (zu § 15) Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
 Anlage 2 (zu § 15) Bewertungssystematik (Summe der Punkte und gewichtete Punkte)

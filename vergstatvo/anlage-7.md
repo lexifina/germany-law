@@ -1,20 +1,47 @@
-# Anlage 7 (zu § 3 Absatz 7)Daten, die durch öffentliche Auftraggeber und Sektorenauftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines verteidigungs- oder sicherheitsspezifischen öffentlichen Auftrages an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind
+# Anlage 7 (zu § 3 Absatz 1 Nummer 7)Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
 
-| lfd. Nr. | Bezeichnung lt. Anhang XV zur Durchführungsverordnung (EU) 2015/1986 | Bemerkung |
-| 1 | Abschnitt I: Öffentlicher Auftraggeber/Auftraggeber I.1) Name, Adressen und Kontaktstelle(n) Postleitzahl | Postleitzahl des Sitzes des Auftraggebers bzw. der Dienststelle/Vergabestelle. |
-| 2 | Abschnitt I: Öffentlicher Auftraggeber/Auftraggeber I.1) Name, Adressen und Kontaktstelle(n) E-Mail | Angabe einer funktionalen, nicht personenbezogenen E-Mail-Adresse des öffentlichen Auftraggebers oder des Sektorenauftraggebers. |
-| 3 | Abschnitt I: Öffentlicher Auftraggeber/Auftraggeber I.2) Art des öffentlichen Auftraggebers◯ Ministerium oder sonstige zentral- oder bundesstaatliche Behörde einschließlich regionaler oder lokaler Unterabteilungen◯ Agentur/Amt auf zentral- oder bundesstaatlicher Ebene◯ Regional- oder Kommunalbehörde◯ Agentur/Amt auf regionaler oder lokaler Ebene◯ Einrichtung des öffentlichen Rechts◯ Europäische Institution/Agentur oder internationale Organisation◯ Sonstige |  |
-| 4 | Abschnitt II: Auftragsgegenstand II.1) Beschreibung II.1.2) Art des Auftrags und Ort der Ausführung, Lieferung bzw. Dienstleistung◯ Bauauftrag◯ Lieferauftrag◯ Dienstleistungen |  |
-| 5 | Abschnitt II: Auftragsgegenstand II.1) Beschreibung II.1.3) Angaben zur Rahmenvereinbarung ⃞ Die Bekanntmachung betrifft den Abschluss einer Rahmenvereinbarung | Abgeschlossene Rahmenvereinbarungen werden einmal statistisch erfasst. Einzelabrufe aus Rahmenvereinbarungen werden nicht gesondert statistisch erfasst. |
-| 6 | Abschnitt II: Auftragsgegenstand II.1) Beschreibung II.1.5) Gemeinsames Vokabular für öffentliche Aufträge (CPV) Hauptgegenstand | CPV = Common Procurement Vocabulary-Nomenklatur (gemeinsames Vokabular für öffentliche Aufträge) |
-| 7 | Abschnitt II: Auftragsgegenstand II.2) Endgültiger Gesamtauftragswert II.2.1) Endgültiger Gesamtauftragswert (ohne MwSt.) Wert |  |
-| 8 | Abschnitt IV: Verfahren IV.1) Verfahrensart IV.1.1) Verfahrensart |  |
-|  | ◯ Nicht offen◯ Beschleunigtes nicht offenes Verfahren◯ Wettbewerblicher Dialog ◯ Verhandlungsverfahren mit Auftragsbekanntmachung ◯ Beschleunigtes Verhandlungsverfahren◯ Verhandlungsverfahren ohne Auftragsbekanntmachung | –nicht offenes Verfahren gem. § 11 VSVgV–Wettbewerblicher Dialog gem. § 13 VSVgV–Verhandlungsverfahren mit Teilnahmewettbewerb gem. § 11 VSVgV–Verhandlungsverfahren ohne Teilnahmewettbewerb gem. § 12 VSVgV |
-| 9 | Abschnitt IV: Verfahren IV.2) Zuschlagskriterien IV.2.1) Zuschlagskriterien◯ Niedrigster Preis◯ das wirtschaftlich günstigste Angebot Kriterien | Die Angaben zu Name und Gewichtung der Kriterien zur Ermittlung des wirtschaftlich günstigsten Angebotes umfassen auch Aspekte im Sinne von § 34 Absatz 3 der VSVgV wie zum Beispiel Qualität, Lebenszykluskosten oder Umwelteigenschaften. |
-| 10 | Abschnitt IV: Verfahren IV.3) Verwaltungsangaben IV.3.2) Frühere Bekanntmachung(en) desselben Auftrags Auftragsbekanntmachung Bekanntmachungsnummer im ABl. |  |
-| 11 | Abschnitt V: Auftragsvergabe Auftrags-Nr. |  |
-| 12 | Abschnitt V: Auftragsvergabe V.1) Tag der Zuschlagsentscheidung (TT/MM/JJJJ) |  |
-| 13 | Abschnitt V: Auftragsvergabe V.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote |  |
-| 14 | Abschnitt V: Auftragsvergabe V.2) Angaben zu den Angeboten Anzahl der elektronisch eingegangenen Angebote |  |
-| 15 | Abschnitt V: Auftragsvergabe V.3) Name und Anschrift des Wirtschaftsteilnehmers, zu dessen Gunsten der Zuschlag erteilt wurde Land | Staat, in dem das Unternehmen, auf dessen Angebot der Zuschlag erteilt wurde, seinen Sitz hat. |
-| 16 | Anhang D3 – Verteidigung und Sicherheit Begründung der Auftragsvergabe ohne vorherige Auftragsbekanntmachung im Amtsblatt der Europäischen Union (ABl.) | Begründung der Wahl des Verhandlungsverfahren ohne Auftragsbekanntmachung gem. § 12 VSVgV (Nummer 9 „Verhandlungsverfahren ohne Auftragsbekanntmachung“) entsprechend der in Anhang D3 aufgeführten Fallgruppen. |
+Abschnitt 1
+Daten, die durch öffentliche Auftraggeber und Sektorenauftraggeber nach
+Zuschlagserteilung im Rahmen der Vergabe eines verteidigungs- oder sicherheitsspezifischen
+öffentlichen Auftrages im Oberschwellenbereich dem Statistischen Bundesamt zugeleitet werden
+| Merkmalsgruppe | Name des Merkmals | Ausprägungen/Bemerkungen |
+| Angaben zum Auftraggeber | Name des Auftraggebers | Anzugeben ist hier die Bezeichnung des Auftraggebers und keine einzelnen Organisationseinheiten innerhalb des Auftraggebers. |
+| Leitweg-ID | Jeder öffentliche Auftraggeber verfügt über eine oder mehrere Leitweg-ID, die zur Übermittlung der elektronischen Rechnung gem. ERechV (auf Bundesebene) in den Vergabeunterlagen angegeben werden müssen. Die Angabe ist nur für Auftraggeber auf Bundesebene verpflichtend. |
+| Art des Auftraggebers | Öffentliche Auftraggeber Bund☐ Oberste Bundesbehörden☐ Obere, mittlere und untere Bundesbehörden☐ Körperschaften des öffentlichen Rechts auf Bundesebene☐ Anstalten des öffentlichen Rechts auf Bundesebene☐ Stiftungen des öffentlichen Rechts auf Bundesebene☐ Sonstige Auftraggeber auf Bundesebene Land☐ Oberste Landesbehörden☐ Obere, mittlere und untere Landesbehörden☐ Körperschaften des öffentlichen Rechts auf Landesebene☐ Anstalten des öffentlichen Rechts auf Landesebene☐ Stiftungen des öffentlichen Rechts auf Landesebene☐ Sonstige Auftraggeber auf Landesebene Kommunen☐ Kommunalbehörden☐ Körperschaften des öffentlichen Rechts auf Kommunalebene☐ Anstalten des öffentlichen Rechts auf Kommunalebene☐ Stiftungen des öffentlichen Rechts auf Kommunalebene☐ Sonstige Auftraggeber auf Kommunalebene Sonstige☐ Sonstige Auftraggeber |
+| Postleitzahl des Auftraggebers | Räumliche Zuordnung des Auftraggebers |
+| Zentrale Beschaffungsstelle | ☐ ja ☐ nein |
+| Angaben zum Auftragsgegenstand | Bekanntmachungsnummer im Amtsblatt der EU | Bekanntmachungsnummer im Amtsblatt der EU |
+| Auftragsnummer | Interne Auftrags-Nr. oder vergebenes Aktenzeichen |
+| Art des Auftrages | ☐ Bauauftrag☐ Lieferauftrag☐ Dienstleistungsauftrag |
+| CPV-Code | Die Angabe dient der Ermittlung des Auftragsgegenstandes. Anzugeben ist der Hauptteil des CPV-Codes (ohne Zusatzteil). Mehrfachnennung ist möglich. Es können bis zu drei CPV-Codes angegeben werden. |
+| Auftragswert | Ermittlung des Netto-Auftragswertes in Euro |
+| Zuschlagskriterium | Ermittlung der Zuschlagskriterien für die Zuschlagsentscheidung: ☐ nur Preis ☐ nur Kosten ☐ Preis und Qualitätskriterien ☐ Kosten und Qualitätskriterien |
+| Angaben zum Verfahren | Verfahrensart | ☐ Nicht offenes Verfahren (§ 11 VSVgV; § 3 VS Nr. 1 VOB/A) [einschließlich des beschleunigten, nicht offenen Verfahrens] ☐ Verhandlungsverfahren mit Teilnahmewettbewerb (§ 11 VSVgV; § 3 VS Nr. 2 VOB/A) [einschließlich des beschleunigten Verhandlungsverfahrens] ☐ Verhandlungsverfahren ohne Teilnahmewettbewerb (§ 12 VSVgV; § 3 VS Nr. 2 VOB/A) ☐ Wettbewerblicher Dialog (§ 13 VSVgV; § 3 VS Nr. 3 VOB/A) |
+| Rahmenvereinbarung | ☐ ja ☐ nein |
+| Nachhaltigkeitskriterien (siehe Anlage 9) | Berücksichtigung nachhaltiger Kriterien bei der Leistungsbeschreibung, bei der Eignung, bei den Zuschlagskriterien oder bei den Ausführungsbedingungen ☐ ja ☐ nein |
+| Wenn Nachhaltigkeitskriterien ⊠ ja ➔ Ermittlung, an welcher Stelle des Vergabeverfahrens das/die Nachhaltigkeitskriterium/en vorgegeben wurde/n: ☐ Leistungsbeschreibung ☐ Eignung ☐ Zuschlag☐ Ausführungsbedingungen (Mehrfachnennung ist möglich.) Wenn Leistungsbeschreibung ⊠ ➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen☐ sozial☐ innovativ (Mehrfachnennung ist möglich.) |
+|  |  | Wenn Eignung ⊠➔ Ermittlung, welche Art von Nachhaltigkeitskriterium: ☐ umweltbezogen ☐ sozial☐ innovativ (Mehrfachnennung ist möglich.) Wenn Zuschlag ⊠➔ Ermittlung, welche Art von Nachhaltigkeitskriterium:☐ umweltbezogen ☐ sozial☐ innovativ (Mehrfachnennung ist möglich.) Wenn Ausführungsbedingung ⊠➔ Ermittlung, welche Art von Nachhaltigkeitskriterium:☐ umweltbezogen ☐ sozial☐ innovativ (Mehrfachnennung ist möglich.) |
+| Angaben zur Auftragsvergabe | Datum des Vertragsabschlusses | Zeitliche Zuordnung der Vergabe |
+| Gesamtanzahl eingegangener Angebote | Anzahl der Angebote, die insgesamt eingegangen sind |
+| Anzahl elektronisch übermittelter Angebote | Anzahl der auf elektronischem Wege eingegangenen Angebote |
+| Herkunftsland Auftragnehmer | Angabe des Herkunftslandes des Auftragnehmers |
+| Abschlussseite | Bemerkung | Freiwillige Angabe |
+Abschnitt 2
+Merkmale, die ausschließlich der
+technischen Umsetzung der Datenübermittlung nach § 2 Absatz 1 dienen
+| Merkmalsgruppe | Name des Merkmals | Ausprägungen/Bemerkungen |
+| Merkmale | Name der Berichtsstelle | Zur Erfüllung ihrer Meldepflichten bedienen sich die Auftraggeber Berichtsstellen. Berichtsstellen sind diejenigen Stellen, die Informationen über vergebene Aufträge als Auftraggeber selbst oder für einen anderen Auftraggeber melden. |
+| Straße |  |
+| Hausnummer |  |
+| Postleitzahl |  |
+| Ort |  |
+| Postfachnummer | Freiwillige Angaben |
+| Postleitzahl des Postfaches |
+| Ort des Postfaches |
+| Nachname Ansprechperson |
+|  | Vorname Ansprechperson |  |
+| E-Mail-Adresse |  |
+| Telefonnummer |
+| Auftraggebereigenschaft | ☐ Öffentlicher Auftrag durch öffentliche Auftraggeber im Oberschwellenbereich ☐ Öffentlicher Auftrag durch öffentliche Auftraggeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich |
+|  | ☐ Öffentlicher Auftrag durch Sektorenauftraggeber im Oberschwellenbereich ☐ Öffentlicher Auftrag durch Sektorenauftraggeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich ☐ Konzession durch Konzessionsgeber im Oberschwellenbereich ☐ Konzession durch Konzessionsgeber über soziale und andere besondere Dienstleistungen im Oberschwellenbereich ☐ Verteidigungs- und sicherheitsspezifischer öffentlicher Auftrag durch öffentliche Auftraggeber und Sektorenauftraggeber im Oberschwellenbereich ☐ Öffentliche Aufträge durch öffentliche Auftraggeber im Unterschwellenbereich |
+| Angaben zur Meldung | Korrekturmeldung | ☐ ja ☐ nein |

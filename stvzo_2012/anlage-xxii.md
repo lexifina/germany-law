@@ -412,6 +412,29 @@ Anhang III
 (zu Nummer 11)
 Antrag auf Erteilung einer Allgemeinen Betriebserlaubnis
 für ein NOxMS-Pkw bei einer Hardware-Nachrüstung oder bei einem Software-Update
+1. Der Antrag auf Erteilung einer ABE für ein NOxMS-Pkw ist schriftlich bei der Genehmigungsbehörde durch den Hersteller zu stellen; sonstige Formerfordernisse bestehen nicht. Der Antrag muss gleichzeitig den Antrag auf Erteilung einer ABE für Fahrzeugteile nach § 22 enthalten, es sei denn, eine solche ABE ist bereits anderweitig erteilt worden.
+2. Gemeinsam mit dem Antrag auf Erteilung einer ABE für NOxMS-Pkw sind die folgenden Angaben/Nachweise/Bestätigungen durch den Hersteller einzureichen:
+  a) Bestätigung, dass die Dauerhaltbarkeitsanforderungen nach Nummer 2 erfüllt werden und Überwachungsmaßnahmen nach Nummer 10.1 durchgeführt werden,
+  b) Bestätigung der Einhaltung der Typgenehmigungsvorschriften nach Nummer 13.1,
+  c) Nachweise über die Geräuschemissionen nach Nummer 13.3 (falls zutreffend),
+  d) Nachweise über die elektromagnetische Verträglichkeit nach Nummer 13.4,
+  e) Bestätigung des Austauschs vorhandener PMS oder des Einbaus nicht vorhandener PMS nach Nummer 13.5 (falls zutreffend),
+  f) Bestätigung vorhandener OBD- und NC-Systeme sowie vorhandener Warn- und Aufforderungssysteme nach Nummer 13.7.1,
+  g) Bestätigung vorhandener Vorrichtungen nach den Nummern 13.7.2 und 13.8 und Nachweis darüber,
+  h) Nachweise über Sekundäremissionen nach Nummer 13.9,
+  i) Angaben über Änderungen an emissionsrelevanten Bauteilen und/oder Systemkomponenten (falls zutreffend) nach Nummer 13.10,
+  j) Einbau- und Installationsanweisungen sowie Betriebs- und Wartungsanweisungen nach Nummer 13.11,
+  k) Nachweis über CO2-Emissionen nach Nummer 13.13,
+  l) Erklärung zur technischen Änderung (Hardware-Nachrüstung oder Software-Update), mit der die Minderungsleistung erreicht wurde.
+3. Der Hersteller muss die verwaltungsrechtlichen und technischen Anforderungen für die Erteilung einer ABE nach § 22 erfüllen und zur Erlangung einer ABE für NOxMS-Pkw die erforderlichen Unterlagen nach Vorgabe der Genehmigungsbehörde vorlegen.
+4. Grundlage für die Erteilung der ABE ist der Technische Bericht eines vom Hersteller beauftragten Technischen Dienstes, in dem
+  a) das NOxMS-Pkw beschrieben ist,
+  b) die nach den technischen Anforderungen dieser Anlage durchzuführenden Prüfungen dokumentiert sind und
+  c) bestätigt wird, dass die entsprechenden Bestimmungen eingehalten werden.
+Anhang IV
+(zu Nummer 14.2)
+Bescheinigung der Abnahme des ordnungsgemäßen Einbaus eines NOxMS-Pkw
+(Hardware-Nachrüstung oder Software-Update) zur Vorlage bei der Zulassungsbehörde
 1 Bestätigung des ordnungsgemäßen Einbaus
 1.1 Vor dem Einbau des NOxMS-Pkw ist der technisch einwandfreie Zustand des Kraftfahrzeugs gemäß Nummer 14.1 festgestellt/hergestellt worden.
 1.2 In das in Nummer 2 beschriebene Kraftfahrzeug wurde das in Nummer 3 benannte NOxMS-Pkw eingebaut; der ordnungsgemäße Einbau aller Teile und die einwandfreie Funktion des NOxMS-Pkw werden hiermit bestätigt. Die Anforderungen des NOxMS-Pkw-Herstellers an das Fahrzeug werden eingehalten.

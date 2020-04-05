@@ -10,7 +10,8 @@
 - [§ 2b Geschlechtsspezifische Besonderheiten](0002b.md)
 - [§ 3 Solidarische Finanzierung](0003.md)
 - [§ 4 Krankenkassen](0004.md)
-- [§ 4a Sonderregelungen zum Verwaltungsverfahren](0004a.md)
+- [§ 4a Wettbewerb der Krankenkassen, Verordnungsermächtigung](0004a.md)
+- [§ 4b Sonderregelungen zum Verwaltungsverfahren](0004b.md)
 
 ## Zweites Kapitel Versicherter Personenkreis
 
@@ -326,6 +327,7 @@ und anderen Einrichtungen
 gleichartigen Einrichtungen](0111a.md)
 - [§ 111b Landesschiedsstelle für Vergütungsvereinbarungen zwischen Krankenkassen und Trägern von Vorsorge- oder Rehabilitationseinrichtungen](0111b.md)
 - [§ 111c Versorgungsverträge mit Rehabilitationseinrichtungen](0111c.md)
+- [§ 111d Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung](0111d.md)
 - [§ 112 Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung](0112.md)
 - [§ 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung](0113.md)
 - [§ 114 Landesschiedsstelle](0114.md)
@@ -461,72 +463,50 @@ Entwicklung im Gesundheitswesen
 ## Sechstes Kapitel Organisation der Krankenkassen
 
 
-### Erster Abschnitt Arten der Krankenkassen
+### Erster Abschnitt Errichtung, Vereinigung und Beendigung von Krankenkassen
 
 
-#### Erster Titel Ortskrankenkassen
+#### Erster Titel Arten der Krankenkassen
 
-- [§ 143 Bezirk der Ortskrankenkassen](0143.md)
-- [§ 144 Freiwillige Vereinigung](0144.md)
-- [§ 145 Vereinigung innerhalb eines Landes auf Antrag](0145.md)
-- [§ 146 Verfahren bei Vereinigung innerhalb eines Landes auf Antrag](0146.md)
-- [§ 146a Schließung](0146a.md)
+- [§ 143 Ortskrankenkassen](0143.md)
+- [§ 144 Betriebskrankenkassen](0144.md)
+- [§ 145 Innungskrankenkassen](0145.md)
+- [§ 146 Landwirtschaftliche Krankenkasse](0146.md)
+- [§ 147 Deutsche Rentenversicherung Knappschaft-Bahn-See](0147.md)
+- [§ 148 Ersatzkassen](0148.md)
 
-#### Zweiter Titel Betriebskrankenkassen
+#### Zweiter Titel Besondere Vorschriften zur Errichtung, zur Ausdehnung und zur Auflösung von Betriebskrankenkassen sowie zum Ausscheiden von Betrieben aus Betriebskrankenkassen
 
-- [§ 147 Errichtung](0147.md)
-- [§ 148 Verfahren bei Errichtung](0148.md)
-- [§ 149 Ausdehnung auf weitere Betriebe](0149.md)
-- [§ 150 Freiwillige Vereinigung](0150.md)
-- [§ 151 Ausscheiden von Betrieben](0151.md)
-- [§ 152 Auflösung](0152.md)
-- [§ 153 Schließung](0153.md)
-- [§ 154](0154.md)
-- [§ 155 Abwicklung der Geschäfte, Haftung für Verpflichtungen](0155.md)
-- [§ 156 Betriebskrankenkassen öffentlicher Verwaltungen](0156.md)
+- [§ 149 Errichtung von Betriebskrankenkassen](0149.md)
+- [§ 150 Verfahren bei Errichtung](0150.md)
+- [§ 151 Ausdehnung auf weitere Betriebe](0151.md)
+- [§ 152 Ausscheiden von Betrieben](0152.md)
+- [§ 153 Auflösung](0153.md)
+- [§ 154 Betriebskrankenkassen öffentlicher Verwaltungen](0154.md)
 
-#### Dritter Titel Innungskrankenkassen
+#### Dritter Titel Vereinigung, Schließung und Insolvenz von Krankenkassen
 
-- [§ 157 Errichtung](0157.md)
-- [§ 158 Verfahren bei Errichtung](0158.md)
-- [§ 159 Ausdehnung auf weitere Handwerksinnungen](0159.md)
-- [§ 160 Vereinigung von Innungskrankenkassen](0160.md)
-- [§ 161 Ausscheiden einer Handwerksinnung](0161.md)
-- [§ 162 Auflösung](0162.md)
-- [§ 163 Schließung](0163.md)
-- [§ 164 Auseinandersetzung, Abwicklung der Geschäfte, Haftung bei Verpflichtungen, Dienstordnungsangestellte](0164.md)
+- [§ 155 Freiwillige Vereinigung](0155.md)
+- [§ 156 Vereinigung auf Antrag](0156.md)
+- [§ 157 Verfahren bei Vereinigung auf Antrag](0157.md)
+- [§ 158 Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen](0158.md)
+- [§ 159 Schließung](0159.md)
+- [§ 160 Insolvenz von Krankenkassen](0160.md)
+- [§ 161 Aufhebung der Haftung nach § 12 Absatz 2 der Insolvenzordnung](0161.md)
+- [§ 162 Insolvenzfähigkeit von Krankenkassenverbänden](0162.md)
+- [§ 163 Vermeidung der Schließung oder Insolvenz von Krankenkassen](0163.md)
+- [§ 164 Vorübergehende finanzielle Hilfen](0164.md)
 
-#### Vierter Titel (weggefallen)
+#### Vierter Titel Folgen der Auflösung, der Schließung und der Insolvenz
 
-- [§ 165 (weggefallen)](0165.md)
-
-#### Fünfter Titel Landwirtschaftliche Krankenkasse
-
-- [§ 166 Landwirtschaftliche Krankenkasse](0166.md)
-
-#### Sechster Titel Deutsche Rentenversicherung
-Knappschaft-Bahn-See
-
-- [§ 167 Deutsche Rentenversicherung Knappschaft-Bahn-See](0167.md)
-
-#### Siebter Titel Ersatzkassen
-
-- [§ 168 Ersatzkassen](0168.md)
-- [§ 168a Vereinigung von Ersatzkassen](0168a.md)
-- [§ 169](0169.md)
-- [§ 170 Schließung](0170.md)
-- [§ 171 Auseinandersetzung, Abwicklung der Geschäfte, Haftung für Verpflichtungen](0171.md)
-
-#### Achter Titel Kassenartenübergreifende Regelungen
-
-- [§ 171a Kassenartenübergreifende Vereinigung von Krankenkassen](0171a.md)
-- [§ 171b Insolvenz von Krankenkassen](0171b.md)
-- [§ 171c Aufhebung der Haftung nach § 12 Abs. 2 der Insolvenzordnung](0171c.md)
-- [§ 171d Haftung im Insolvenzfall](0171d.md)
-- [§ 171e Deckungskapital für Altersversorgungsverpflichtungen](0171e.md)
-- [§ 171f Insolvenzfähigkeit von Krankenkassenverbänden](0171f.md)
-- [§ 172 Vermeidung der Schließung oder Insolvenz von Krankenkassen](0172.md)
-- [§ 172a Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen](0172a.md)
+- [§ 165 Abwicklung der Geschäfte](0165.md)
+- [§ 166 Haftung für Verpflichtungen bei Auflösung oder Schließung](0166.md)
+- [§ 167 Verteilung der Haftungssumme auf die Krankenkassen](0167.md)
+- [§ 168 Personal](0168.md)
+- [§ 169 Haftung im Insolvenzfall](0169.md)
+- [§ 170 Deckungskapital für Altersversorgungsverpflichtungen, Verordnungsermächtigung](0170.md)
+- [§ 171 (weggefallen)](0171.md)
+- [§ 172 (weggefallen)](0172.md)
 
 ### Zweiter Abschnitt Wahlrechte der Mitglieder
 
@@ -709,11 +689,9 @@ Zivildienstleistende](0244.md)
 Gesundheitsfonds
 
 - [§ 265 Finanzausgleich für aufwendige Leistungsfälle](0265.md)
-- [§ 265a Finanzielle Hilfen zur Vermeidung der Schließung oder Insolvenz einer Krankenkasse](0265a.md)
-- [§ 265b Freiwillige finanzielle Hilfen](0265b.md)
-- [§ 266 Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich)](0266.md)
-- [§ 267 Datenerhebungen zum Risikostrukturausgleich](0267.md)
-- [§ 268 Weiterentwicklung des Risikostrukturausgleichs](0268.md)
+- [§ 266 Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich), Verordnungsermächtigung](0266.md)
+- [§ 267 Datenverarbeitung für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs](0267.md)
+- [§ 268 Risikopool](0268.md)
 - [§ 269 Sonderregelungen für Krankengeld und Auslandsversicherte](0269.md)
 - [§ 270 Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben](0270.md)
 - [§ 270a Einkommensausgleich](0270a.md)
@@ -734,7 +712,7 @@ ihrer Verbände
 
 - [§ 275 Begutachtung und Beratung](0275.md)
 - [§ 275a Durchführung und Umfang von Qualitätskontrollen in Krankenhäusern durch den Medizinischen Dienst](0275a.md)
-- [§ 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege durch den Medizinischen Dienst](0275b.md)
+- [§ 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege durch den Medizinischen Dienst und Verordnungsermächtigung](0275b.md)
 - [§ 275c Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst](0275c.md)
 - [§ 275d Prüfung von Strukturmerkmalen](0275d.md)
 - [§ 276 Zusammenarbeit](0276.md)
@@ -763,6 +741,7 @@ Datenschutz, Datentransparenz
 - [§ 285 Personenbezogene Daten bei den Kassenärztlichen Vereinigungen](0285.md)
 - [§ 286 Datenübersicht](0286.md)
 - [§ 287 Forschungsvorhaben](0287.md)
+- [§ 287a Federführende Datenschutzaufsicht in der Versorgungs- und Gesundheitsforschung](0287a.md)
 
 #### Zweiter Titel Informationsgrundlagen der
 Krankenkassen
@@ -781,6 +760,7 @@ Krankenkassen
 - [§ 291h Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0291h.md)
 - [§ 292 Angaben über Leistungsvoraussetzungen](0292.md)
 - [§ 293 Kennzeichen für Leistungsträger und Leistungserbringer](0293.md)
+- [§ 293a Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung](0293a.md)
 
 ### Zweiter Abschnitt Übermittlung und Aufbereitung
 von Leistungsdaten, Datentransparenz
@@ -849,9 +829,11 @@ der Herstellung der Einheit Deutschlands
 - [§ 321 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1](0321.md)
 - [§ 322 Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen](0322.md)
 - [§ 323 Bestandsbereinigung bei der freiwilligen Versicherung](0323.md)
-- [§ 324 Übergangsregelung für ehemalige Soldatinnen und Soldaten auf Zeit](0324.md)
+- [§ 324 (weggefallen)](0324.md)
 - [§ 325 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0325.md)
 - [§ 326 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0326.md)
 - [§ 327 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0327.md)
 - [§ 328 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0328.md)
 - [§ 329 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0329.md)
+- [§ 329 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0329-2.md)
+- [§ 330 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0330.md)

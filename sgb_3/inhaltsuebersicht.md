@@ -650,6 +650,7 @@
 | § 421 | Förderung der Teilnahme an Sprachkursen |
 | § 421a | Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen |
 | § 421b | Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland |
+| § 421c | Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit |
 |  |  |
 | Dritter Abschnitt |
 | Grundsätze bei Rechtsänderungen |

@@ -393,6 +393,7 @@ Zweiter Teil
 Schlussvorschriften
 | § 246 | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
 | § 246a | Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete |
+| § 246b | Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen zur Windenergie |

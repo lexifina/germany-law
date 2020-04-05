@@ -6,7 +6,7 @@
 - [§ 3 Sachlich und örtlich zuständige Behörde](0003.md)
 - [§ 4 Entstehung der Steuer](0004.md)
 - [§ 5 Steuerbefreiungen](0005.md)
-- [§ 6 Steuerschuldner](0006.md)
+- [§ 6 Steuer- und Haftungsschuldner](0006.md)
 - [§ 7 Registrierung](0007.md)
 - [§ 8 Steuerliche Beauftragte](0008.md)
 - [§ 9 Sicherheit](0009.md)

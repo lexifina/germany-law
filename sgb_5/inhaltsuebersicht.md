@@ -1,6 +1,6 @@
 # Inhaltsübersicht
 
-| Erstes Kapitel | Allgemeine Vorschriften .............. | §§ 1 bis 4a |
+| Erstes Kapitel | Allgemeine Vorschriften .............. | §§ 1 bis 4b |
 |  |
 | Zweites Kapitel | Versicherter Personenkreis |  |
 |  |  |  |
@@ -51,14 +51,12 @@
 |  |  |
 | Sechstes Kapitel | Organisation der Krankenkassen |  |
 | Erster Abschnitt | Arten der Krankenkassen |  |
-| Erster Titel | Ortskrankenkassen ................... | §§ 143 bis 146a |
-| Zweiter Titel | Betriebskrankenkassen ............... | §§ 147 bis 156 |
-| Dritter Titel | Innungskrankenkassen ................ | §§ 157 bis 164 |
-| Vierter Titel | (weggefallen) ....... | § 165 |
-| Fünfter Titel | Landwirtschaftliche Krankenkasse ....... | § 166 |
-| Sechster Titel | Deutsche Rentenversicherung Knappschaft-Bahn-See ................. | § 167 |
-| Siebter Titel | Ersatzkassen ........................ | §§ 168 bis 171 |
-| Achter Titel | Kassenartenübergreifende Regelungen ....... | §§ 171a bis 172a |
+| Erster Titel | Ortskrankenkassen ................... | §§ 143 bis 148 |
+| Zweiter Titel | Besondere Vorschriften zur Errichtung, zur Ausdehnung und zur Auflösung von Betriebskrankenkassen sowie zum Ausscheiden von Betrieben aus Betriebskrankenkassen | §§ 149 bis 154 |
+| Dritter Titel | Vereinigung, Schließung und Insolvenz von Krankenkassen | §§ 155 bis 164 |
+| Vierter Titel | Folgen der Auflösung, der Schließung und der Insolvenz | § 165 bis 170 |
+|  |  |  |
+|  | (weggefallen) | §§ 171 und 172 |
 | Zweiter Abschnitt | Wahlrechte der Mitglieder ........... | §§ 173 bis 175 |
 | Erster Titel | (weggefallen) |  |
 | Zweiter Titel | (weggefallen) ....... | §§ 176 bis 185 |
@@ -88,7 +86,7 @@
 | Zehntes Kapitel | Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz |  |
 | Erster Abschnitt | Informationsgrundlagen |  |
 | Erster Titel | Grundsätze der Datenverwendung ...... | §§ 284 bis 287 |
-| Zweiter Titel | Informationsgrundlagen der Krankenkassen ....................... | §§ 288 bis 293 |
+| Zweiter Titel | Informationsgrundlagen der Krankenkassen ....................... | §§ 288 bis 293a |
 | Zweiter Abschnitt | Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz |  |
 | Erster Titel | Übermittlung von Leistungsdaten ....... | §§ 294 bis 303 |
 | Zweiter Titel | Datentransparenz ....... | §§ 303a bis 303e |
