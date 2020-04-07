@@ -5,7 +5,7 @@ Aufgrund von Artikel 3 Nr. 1 der Verordnung der Sächsischen Staatsregierung zur
 2. die am 28. Mai 2002 in Kraft getretene Verordnung vom 30. April 2002 (SächsGVBl. S. 161),
 3. den am 21. Oktober 2009 in Kraft getretenen Artikel 1 der Verordnung vom 2. Oktober 2009 (SächsGVBl. S. 522),
 4. den am 31. Januar 2010 in Kraft getretenen Artikel 1 der Verordnung vom 20. Januar 2010 (SächsGVBl. S. 22),
-5. die am 14. März 2013 nach ihrem Artikel 4 in Kraft getretene eingangs genannte Verordnung .
+5. die am 14. März 2013 nach ihrem Artikel 4 in Kraft getretene eingangs genannte Verordnung.
 Die Rechtsvorschriften wurden erlassen aufgrund von
 zu 1. a)
 § 6 Abs. 3 Satz 4, § 7 Abs. 5 Satz 2, § 9 Abs. 1 Satz 2 und § 25 Abs. 2 Satz 1 der Bundesnotarordnung (BNotO) in der im Bundesgesetzblatt III, Gliederungsnummer 303-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 1 des Gesetzes vom 31. August 1998 (BGBl. I S. 2585),

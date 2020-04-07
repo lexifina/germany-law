@@ -1,5 +1,5 @@
-# Verordnung der Sächsischen Staatsregierung und des Sächsischen Staatsministeriums der Justiz zur Ausführung der Bundesnotarordnung (BNotOAVO)
-Rechtsbereinigt mit Stand vom 4. Dezember 2016
+# Verordnung der Sächsischen Staatsregierung und des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung zur Ausführung der Bundesnotarordnung (BNotOAVO)
+Rechtsbereinigt mit Stand vom 7. April 2020
 Inhaltsübersicht
 Erster Abschnitt Die Angelegenheiten der Notarassessoren
 § 1 Ziel des Anwärterdienstes
