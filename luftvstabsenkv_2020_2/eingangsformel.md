@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt durch Artikel 1 Nummer 6 Buchstabe b des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2492) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie:
