@@ -8,7 +8,7 @@
 - [3. Stellung der betroffenen Mitglieder des Bundestages](0003.md)
 - [4. Entscheidungen in Immunitätsangelegenheiten](0004.md)
 - [5. Beleidigungen politischen Charakters](0005.md)
-- [6. Festnahme eines Mitgliedes des Bundestages bei Begehung der Tat](0006.md)
+- [6a.](0006a.md)
 - [7. Verhaftung eines Mitgliedes des Bundestages](0007.md)
 - [8. Vollstreckung von Freiheitsstrafen oder von Erzwingungshaft (§§ 96, 97 OWiG)](0008.md)
 - [9. Disziplinarverfahren](0009.md)
