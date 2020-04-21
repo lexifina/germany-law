@@ -131,7 +131,7 @@
 | 40232 | Serie bis einschließlich 25 Fahrzeuge |  |  | 1420 |
 | 40233 | Serie bis einschließlich 50 Fahrzeuge |  |  | 2840 |
 | 4024 | Sonder- oder Nachuntersuchung undAusstellung einer Fahrtauglichkeitsbescheinigung als Prototypenabnahme |  |  | 1/3 derGebühr nach den Nummern 40231, 40232 oder 40233 bezogen auf den ursprünglichen Antrag |
-| 403 | besondere Erlaubnis zum Wasserskilaufen | § 4 WaSkiV |  |  |
+| 403 | besondere Erlaubnis zum Wasserskilaufen | § 4 WasSkiV |  |  |
 | 4031 | mehrere Personen an einer festangebrachten Stange oder anVorrichtungen |  |  |  |
 | 40311 | Erstantrag |  |  | 219 |
 | 40312 | Neuantrag |  |  | 110 |

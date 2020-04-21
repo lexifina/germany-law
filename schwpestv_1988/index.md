@@ -102,5 +102,5 @@
 
 - [§ 25a Weitergehende Maßnahmen](0025a.md)
 - [§ 25b Übergangsbestimmungen](0025b.md)
-- [§ 26 Wirksamwerden von Bekanntmachungen](0026.md)
+- [§ 26 (weggefallen)](0026.md)
 - [Anlage (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe aaa)Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung](anlage.md)

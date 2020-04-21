@@ -6,7 +6,7 @@
 |  |  | Einhufer | Rinder | Schweine | Schafe | Ziegen | Hunde | Katzen | Hasen, Kaninchen | Puten | Gänse | Enten | Hühner | Tauben | Forellen und forel- lenartige Fische | Karpfen | andere Tierarten (vgl. Bemerkungen) |  |
 | 1. | (weggefallen) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 2. | Ansteckende Metritis des Pferdes (CEM) |  | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
-| 3. | (weggefallen) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | Bornavirus-Infektionen der Säugetiere |  |  |  |  |  |  |  |  | – | – | – | – | – | – | – |  |  |
 | 4. | Campylobacteriose (thermophile Campylobacter) | – |  | – |  |  |  |  | – |  |  |  |  |  | – | – |  |  |
 | 5. | Chlamydiose (Chlamydophila Spezies) | – |  | – |  |  | – | – | – |  |  |  |  |  | – | – |  |  |
 | 6. | Echinokokkose |  |  |  |  |  |  |  |  | – | – | – | – | – | – | – |  |  |
@@ -24,7 +24,7 @@
 | 17a. | Niedrigpathogene aviäre Influenza der Wildvögel | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
 | 18. | Paratuberkulose | – |  | – |  |  | – | – | – | – | – | – | – | – | – | – |  |  |
 | 19. | Q-Fieber | – |  | – |  |  | – | – | – | – | – | – | – | – | – | – |  |  |
-| 20. | (weggefallen) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | Rauschbrand | – | – | – |  |  | – | – | – | – | – | – | – | – | – | – | – |  |
 | 21. | Säugerpocken(Orthopoxinfektion) |  |  |  | – |  | – |  |  | – | – | – | – | – | – | – |  |  |
 | 22. | Salmonellose/Salmonella spp. |  | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 23. | Schmallenberg-Virus | – |  | – |  |  | – | – | – | – | – | – | – | – | – | – |  |  |

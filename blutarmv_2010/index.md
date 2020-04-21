@@ -10,6 +10,7 @@
 
 - [§ 2 Impfungen und Heilversuche](0002.md)
 - [§ 3 Untersuchungen](0003.md)
+- [§ 3a Veranstaltungen mit Einhufern](0003a.md)
 
 ## Abschnitt 3 Besondere Schutzmaßregeln
 

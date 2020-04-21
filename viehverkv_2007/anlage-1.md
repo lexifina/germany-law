@@ -8,7 +8,7 @@
   a) Einrichtungen zur Reinigung und Desinfektion der Hände und des Schuhwerks sowie,
   b) soweit erforderlich, ein Raum für den beamteten Tierarzt
   vorhanden sein.
-5. Viehhandelsunternehmer, Transportunternehmer und Betreiber einer Sammelstelle müssen über einen schriftlichen Plan für die Reinigung und die Desinfektion
+5. Viehhandelsunternehmer, Transportunternehmer und Betreiber einer Sammelstelle müssen über einen schriftlichen oder elektronischen Plan für die Reinigung und die Desinfektion
   a) der Transportfahrzeuge,
   b) der Stallungen und Verkehrswege
   verfügen. Aus dem Plan müssen die Art und Weise und die Häufigkeit der Reinigung und Desinfektion sowie das vorgesehene Desinfektionsmittel ersichtlich sein. Der Plan ist der zuständigen Behörde auf Anforderung während der üblichen Geschäftszeiten jederzeit vorzulegen.

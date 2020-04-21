@@ -81,12 +81,13 @@
 - [§ 42 Bestandsregister](0042.md)
 - [§ 43 Verbot der Übernahme, Inverkehrbringen von Ohrmarken](0043.md)
 
-## Abschnitt 13 Kennzeichnung von Einhufern nach der Verordnung (EG) Nr. 504/2008
+## Abschnitt 13 Kennzeichnung von Einhufern nach der Durchführungsverordnung (EU) 2015/262
 
 - [§ 44 Kennzeichnung](0044.md)
 - [§ 44a Equidenpass](0044a.md)
-- [§ 44b Verbot der Übernahme](0044b.md)
-- [§ 44c Anzeige der Kennzeichnung](0044c.md)
+- [§ 44b Rückgabe und Ungültigmachen des Equidenpasses](0044b.md)
+- [§ 44c Verbot der Übernahme](0044c.md)
+- [§ 44d Anzeige der Kennzeichnung](0044d.md)
 
 ## Abschnitt 14 Sonstige Tierhaltungen
 
@@ -102,7 +103,7 @@
 - [Anlage 3 (zu § 25 Absatz 1)Muster für Kontrollbücher](anlage-3.md)
 - [Anlage 4 (zu § 27 Absatz 3 und 4)Ohrmarken zur Rinderkennzeichnung](anlage-4.md)
 - [Anlage 5 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2](anlage-5.md)
-- [Anlage 6 (zu § 28 und § 32 Absatz 1)Rasseschlüssel](anlage-6.md)
+- [Anlage 6 (zu § 28 und § 32 Absatz 1 Satz 1 Nummer 1)Rasseschlüssel](anlage-6.md)
 - [Anlage 7 (zu § 30 Absatz 1 und § 31)](anlage-7.md)
 - [Anlage 8 (zu § 32 Absatz 1)Bestandsregister für Rinderhaltungen](anlage-8.md)
 - [Anlage 9 (zu § 34 Absatz 3 und 4)Ohrmarken zur Kennzeichnung von Schafen und Ziegen](anlage-9.md)
