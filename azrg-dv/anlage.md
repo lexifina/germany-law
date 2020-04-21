@@ -214,12 +214,12 @@ Allgemeiner Datenbestand
 |  |  | am |  |  |  |
 |  | ee) | einem im Verfahren nach § 81aAufenthG erteilten Visum |  | (5)* |  |
 |  |  | am |  |  |  |
-| n) | Einreise und Aufenthalt nach § 16a AufenthG |  |  | –Ausländerbehörden zu Spalte A Buchstaben n bis p jeweils die Ziffern aa–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben n bis p jeweils die Ziffern bb |
+| n) | Einreise und Aufenthalt nach § 16c AufenthG |  |  | –Ausländerbehörden zu Spalte A Buchstaben n bis p jeweils die Ziffern aa–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben n bis p jeweils die Ziffern bb |
 |  | aa) | Ablehnung am |  | (2) |
 |  | bb) | Bescheinigung |  | (2) |
 |  | ausgestellt am |  |  |
 |  | gültig bis |  |  |
-| o) | Einreise und Aufenthalt nach § 19c Absatz 1 AufenthG |  |  |
+| o) | Einreise und Aufenthalt nach § 19a Absatz 1 AufenthG |  |  |
 |  | aa) | Ablehnung am |  | (2)* |
 |  | bb) | Bescheinigung |  | (2)* |
 |  | ausgestellt am |  |  |
@@ -848,7 +848,7 @@ Allgemeiner Datenbestand
 | o) | Bescheinigung über die Aussetzung der Abschiebung nach § 60a Absatz 2 Satz 3 in Verbindung mit § 60c Absatz 7 AufenthG (Ausbildungsduldung, Ermessen)erteilt ambefristet biswiderrufen amerloschen am |  |  |  |  |  |  |
 | p) | Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60b Absatz 1 AufenthG (Duldung für Personen mit ungeklärter Identität)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |  |  |
 | q) | Bescheinigung über die Aussetzung der Abschiebung nach § 60a Absatz 2 Satz 3 in Verbindung mit § 60d Absatz 1 AufenthG (Beschäftigungsduldung, Regelanspruch)erteilt ambefristet biswiderrufen amerloschen am |  |  |  |  |  |  |
-| j) | Bescheinigung über die Aussetzung der Abschiebung nach § 60a Absatz 2 Satz 3 in Verbindung mit § 60d Absatz 4 AufenthG (Beschäftigungsduldung, Ermessen).erteilt amhbefristet biswiderrufen amerloschen am |  |  |  |  |  |  |
+| j) | Bescheinigung über die Aussetzung der Abschiebung nach § 60a Absatz 2 Satz 3 in Verbindung mit § 60d Absatz 4 AufenthG (Beschäftigungsduldung, Ermessen).erteilt ambefristet biswiderrufen amerloschen am |  |  |  |  |  |  |
 | k) | Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2a AufenthG erteilt am befristet bis widerrufen am |  | (2) |  |  |  |
 | h) | Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2b AufenthG erteilt am befristet bis widerrufen am |  | (2) |  |
 | i) | Nummer der Bescheinigung |  | (2) |  |
