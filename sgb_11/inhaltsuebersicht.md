@@ -279,6 +279,7 @@
 | § 105 | Abrechnung pflegerischer Leistungen |
 | § 106 | Abweichende Vereinbarungen |
 | § 106a | Mitteilungspflichten |
+| § 106b | Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
 |  |  |
 | Dritter Abschnitt |
 | Datenlöschung, Auskunftspflicht |
@@ -324,7 +325,7 @@
 |  |
 | § 123 | Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung |
 | § 124 | Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat |
-| § 125 | (weggefallen) |
+| § 125 | Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
 |  |
 | Vierzehntes Kapitel |
 | Zulagenförderung der privaten Pflegevorsorge |
