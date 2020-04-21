@@ -1,0 +1,52 @@
+# Bau- und Feuerwehrausschuss (32. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-04-21T18:00:00+02:00
+- Ende: 2020-04-21T18:50:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZ8k3F_WqSKjHNu3KWbrssM
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20300
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQEU3FXNFKHD_5Uutylvuj7LigrWs8NWDvvoo7i-Gz3f/Bekanntmachung_Bau-_und_Feuerwehrausschuss_21.04.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXZ1oYDHC4-9SIF9Lg5fukPETmLrMUD3ZgdUa0GTUOyC/Oeffentliche_Niederschrift_Bau-_und_Feuerwehrausschuss_21.04.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bau- und Feuerwehrausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Bau- und Feuerwehrausschusses vom 17.03.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A12.1 Europaplatz hier: Beschluss der Ausschreibungsunterlagen zur Auftragsvergabe der Leistungsphasen 4-8 HOAI - Beschluss
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A12.1 Europaplatz hier: Beschluss der Ausschreibungsunterlagen zur Auftragsvergabe der Leistungsphasen 4-8 HOAI - Beschluss mit 12 Ja-Stimmen, 1 Nein-Stimme und 1 Enthaltung
+- TOP 4.: Löschwasserversorgung Neubaugebiet in Kirspenich hier: Antrag der Fraktion "Bündnis 90/Die Grünen" vom 29.01.2020 - Einstimmiger Beschluss
+- TOP 5.: Verbreiterung der Gemeindestraße "Gutenbergweg" zwischen der L11 und L194 hier: Antrag der CDU-Fraktion vom 02.03.2020 - Einstimmiger Beschluss
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Änderung des Kommunalabgabengesetzes (KAG)
+- TOP 6.2: Fischteich am ehemaligen Parkhotel im Schleidpark in Bad Münstereifel
+- TOP 6.3: Erddeponie in Houverath hier: Anfrage der SPD-Fraktion vom 04.11.2019
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Erschließungsvertrag "Erschließungsmaßnahme Wald, Bereich zwischen Thomasstraße und Zum Stuckental" - Einstimmiger Beschluss
+- TOP -: Erschließungsvertrag "Erschließungsmaßnahme Wald, Bereich zwischen Thomasstraße und Zum Stuckental" hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 2.: Erschließungsvertrag Bebauungsplan Nr. 88 "Auf der Kumm" in Iversheim hier: Anpassung vertraglicher Regelungen - Einstimmiger Beschluss
+- TOP -: Erschließungsvertrag Bebauungsplan Nr. 88 "Auf der Kumm" in Iversheim hier: Anpassung vertraglicher Regelungen hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 3.: Erschließungsvertrag "Baulandflächen innerhalb der Ergänzungssatzung Eicherscheid, Bereich Kohlstraße" - Einstimmiger Beschluss
+- TOP -: Erschließungsvertrag "Baulandflächen innerhalb der Ergänzungssatzung Eicherscheid, Bereich Kohlstraße" hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 4.: Erweiterungsbau Feuerwehrgerätehaus Nöthen Auftragsvergabe der Bauleistungen nach Gewerken - Einstimmiger Beschluss
+- TOP -: Erweiterungsbau Feuerwehrgerätehaus Nöthen Auftragsvergabe der Bauleistungen nach Gewerken hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 5.: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der Bauleistungen nach Gewerken - Einstimmiger Beschluss
+- TOP -: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der Bauleistungen nach Gewerken hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP -: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der TGA Planung - Einstimmiger Beschluss
+- TOP -: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der TGA Planung hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP -: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der Architekturplanung LP 5-9 und Tragwerksplanung LP 5+6 - Einstimmiger Beschluss
+- TOP -: Bau einer zweigruppigen Kindertagesstätte Mahlberg Auftragsvergabe der Architekturplanung LP 5-9 und Tragwerksplanung LP 5+6 hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 6.: Sport- und MZH Arloff hier: Erneuerung des defekten Gas-Brennwertkessels hier: Genehmigung einer Dringlichkeit - Einstimmger Beschluss
+- TOP 7.: Sanierung eifelbad Erneuerung des Hot-Whirlpool Innen - Einstimmiger Beschluss
+- TOP 8.: Sanierung eifelbad Badewasserfilteranlagen : nachfüllen/auffüllen Filterkohle und Filtermaterial - Einstimmger Beschluss
+- TOP 9.: Erneuerung Außenbecken eifelbad Vergabe der Ingenieurleistungen Architektur-, Tragwerksplanung – und TGA- Planung - Einstimmiger Beschluss
+- TOP 10.: Sanierung des Biologiefachraumes im St. Michael-Gymnasium; hier: Leistungsverzeichnis und Firmenbenennung für Vergabe der Architektur- und Ingenieurleistungen nach HOAI - Einstimmiger Beschluss
+- TOP 11.: Sanierung Turnhalle Mahlberg Honoraranfrage Architekten- und Ingenieurauftrag gemäß HOAI LP 1-9 - Einstimmiger Beschluss
+- TOP 12.: Straßenausbau Fichtenweg in Bad Münstereifel-Nitterscheid hier: Vergabe der Ingenieurleistungen - Beschluss mit 13 Ja-Stimmen und 1 Enthaltung
+- TOP 13.: Straßenausbau Varusstraße in Bad Münstereifel-Kalkar hier: Vergabe der Ingenieurleistungen - Beschlus mit 13 Ja-Stimmen und 1 Enthaltung
+- TOP 14.: Anfragen und Mitteilungen
+- TOP 14.1: Anfragen und Mitteilungen; Ersatzbeschaffung eines Tanklöschfahrzeuges (TLF 2000) für die Löschgruppe Nöthen sowie eines Einsatzleitwagens (ELW 1) für die Freiwillige Feuerwehr; hier: Mitteilung der wirtschaftlichsten Bieter
