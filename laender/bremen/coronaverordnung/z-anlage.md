@@ -33,8 +33,9 @@ Abschnitt 2: Öffentlicher Dienst
 24. Freie Träger der Kinder- und Jugendhilfe, der Flüchtlings- und Wohnungslosenhilfe, der Alten- und Behindertenhilfe sowie der Drogen- und Suchthilfe
 25. Personal, das die Notversorgung in Kita und Schule sichert
 26. stationäre Betreuungseinrichtungen (z.B. Hilfen für Erziehung)
-27. den Ziffern 1 bis 26 entsprechende Einrichtungen anderer Bundesländer und Kommunen Abschnitt.
-28. Einrichtungen, deren Tätigkeit für die Pflege diplomatischer und konsularischer Beziehungen sowie die Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen notwendig ist.
+27. Die Landesbeauftragte für Datenschutz und Informationsfreiheit
+28. den Ziffern 1 bis 26 entsprechende Einrichtungen anderer Bundesländer und Kommunen
+29. Einrichtungen, deren Tätigkeit für die Pflege diplomatischer und konsularischer Beziehungen sowie die Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen notwendig ist.
 Abschnitt 3: Kritische Infrastruktur
 1. Ver- und Entsorgung (Strom, Wasser, Energie, Abfall): z.B. Hansewasser, Bremer Stadtreinigung, SWB/Wesernetz, Kraftstoffversorgung (HGM Energy)
 2. Transport und Verkehr
