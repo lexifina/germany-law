@@ -1,0 +1,51 @@
+# 45. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-04-23T15:30:00+02:00
+- Ende: 2020-04-23T17:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21755
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21755
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Überblick über Maßnahmen der Verwaltung im Rahmen der Corona-Pandemie für besonders vulnerable Gruppen und Einrichtungen - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Struktur der Arbeitslosenzentren in Köln aufrechterhalten - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Erneuerung der Brandmeldeanlage im Bürgerhaus Stollwerck - ungeändert beschlossen
+- TOP 3.2: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 "Zuhaus im Veedel - Aktivierung und Beteiligung im Quartier" - Sozialraum Porz-Ost, Finkenberg, Gremberghoven und Eil, Quartier Finkenberg - ungeändert beschlossen
+- TOP 3.3: Anerkennung von vier neuen Interkulturellen Zentren Köln - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Verteilung der Mittel zur Förderung von neuen Interkulturellen Zentren und die Verwendung des übergreifenden Budgets für Interkulturelle Zentren Köln für das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 4.2: Bedarfsplanung vom Amt für Wohnungswesen für neu anzumietende Objekte gem. § 5 Abs. 2 a der Zuständigkeitsverordnung der Stadt Köln vom 13.12.2019 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Stadtarbeitsgemeinschaften
+- TOP 7: Behindertenbeauftragter
+- TOP 7.1: Inklusionstaxen in Köln - zurückgestellt
+- TOP 8: Aktuelle Situation von Flüchtigen in Köln
+- TOP 8.1: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2019 in der Stadt Köln - Kenntnis genommen
+- TOP 8.2: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen 2019 - Kenntnis genommen
+- TOP 9: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 10.1: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Bescheinigung über den Wohngeldbezug für BUT Antragsteller - Kenntnis genommen
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 13.1: Menschen in der Prostitution während und nach der Corona-Krise - zurückgestellt
+- TOP 13.2: Häusliche Gewalt in der Coronakrise - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage Häusliche Gewalt in der Corona-Krise (Beantwortung von AN/0441/2020) - Kenntnis genommen
+- TOP 13.3: Beantwortung der Anfrage AN/0453/2020 der SPD-Fraktion im Rat der Stadt Köln "Soziale Soforthilfen und Kinder- und Jugendhilfe in der Corona-Krise" - Kenntnis genommen
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 15.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 15.3: Verschenkung von Wohncontainern (ehem. Geflüchtetenunterkunft Eygelshovener Straße) - Kenntnis genommen
+- TOP 15.4: Bericht der drei Träger Auszugsmanagement für den Zeitraum 01.01.-31.12.2019 - Kenntnis genommen
+- TOP 15.5: Förderung von Wohnungen mit Mitteln des Landes NRW Jahr 2019 und Überblick der Änderungen im Förderrecht 2020 - Kenntnis genommen
+- TOP 15.6: Interkulturelle Zentren Köln – „Die ganze Welt in Köln“ Informationsbroschüre und Übersichtskarte - zurückgestellt
