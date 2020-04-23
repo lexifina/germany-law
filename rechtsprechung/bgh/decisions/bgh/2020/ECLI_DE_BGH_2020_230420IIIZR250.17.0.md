@@ -1,0 +1,698 @@
+---
+ecli: "ECLI:DE:BGH:2020:230420IIIZR250.17.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-03"
+aktenzeichen: "III ZR 250/17"
+decided: "2020-04-23"
+typ: "U"
+bemerkung: "siehe auch: Pressemitteilung Nr. 42/20  vom 23.4.2020,\n     Pressemitteilung Nr. 167/19  vom 19.12.2019"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=28&nr=106344&anz=3286&pos=842&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-03_NA_2020-04-23_III_ZR_250_17_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bbg_2009/0076.md", "germany/bund/acts/bgb/0254.md", "germany/bund/acts/bgb/0425.md", "germany/bund/acts/bgb/0823.md", "germany/bund/acts/bgb/0839.md", "germany/bund/acts/bjagdg/0001.md", "germany/bund/acts/grundgesetz/artikel/034.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/sg/0030.md", "germany/bund/acts/stvo_2013/0003.md", "germany/bund/acts/zpo/0088.md", "germany/bund/acts/zpo/0170.md", "germany/bund/acts/zpo/0187.md", "germany/bund/acts/zpo/0189.md", "germany/bund/acts/zpo/0287.md", "germany/bund/acts/zpo/0520.md", "germany/bund/acts/zpo/0547.md"]
+---
+
+# Bundesgerichtshof, III ZR 250/17 vom 2020-04-23
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 IM NAMEN DES VOLKES
+
+                            URTEIL
+III ZR 250/17
+                                               Verkündet am:
+                                               23. April 2020
+                                               Kiefer
+                                               Justizangestellter
+                                               als Urkundsbeamter
+                                               der Geschäftsstelle
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2020:230420UIIIZR250.17.0
+
+                                        - 2 -
+
+
+
+    Der III. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 16. Januar 2020 durch den Vorsitzenden Richter Dr. Herrmann, den Richter Dr. Remmert, die Richterin Dr. Böttcher sowie die Richter Dr. Kessen und
+    Dr. Herr
+
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Klägerin und die Revisionen der Beklagten
+          wird das Urteil des 7. Zivilsenats des Schleswig-Holsteinischen
+          Oberlandesgerichts vom 10. August 2017 aufgehoben.
+
+
+          Die Sache wird zur neuen Verhandlung und Entscheidung, auch
+          über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+                                   Von Rechts wegen
+
+
+
+
+                                     Tatbestand:
+
+
+1         Die Klägerin macht unter dem Vorwurf einer Verkehrssicherungspflichtverletzung gegen die Beklagten aus übergegangenem Recht Schadensersatzansprüche des C.          T.      (im Folgenden: Geschädigter) wegen eines
+    Fahrradunfalls geltend.
+
+
+2         Der Geschädigte war bis zu dem Unfallgeschehen als Marineoffizier der
+    Bundeswehr tätig. Am Nachmittag des 15. Juni 2012 unternahm er mit seinem
+    Mountainbike eine Radtour. Über die ihm unbekannten Örtlichkeiten hatte er
+
+                                         - 3 -
+
+
+
+    sich zuvor mittels einer Karten-App informiert. Gegen 17.00 Uhr bog er von einer Straße in einen zum Gebiet der zu 1 beklagten Gemeinde gehörenden unbefestigten Feldweg ab, der als Sackgasse in einem Waldstück endete. Nach
+    ungefähr 50 m befand sich auf dem Feldweg eine Absperrung. Diese bestand
+    aus zwei in der Mitte des Weges befindlichen vertikalen nach unten auf den
+    Boden gerichteten Holzlatten, an denen das Verkehrszeichen 260 (Verbot für
+    Kraftfahrzeuge) befestigt war und die durch zwei waagerecht verlaufende verzinkte Stacheldrähte in der Höhe von etwa 60 cm und 90 cm gehalten wurden.
+    Diese waren ihrerseits seitlich des Feldweges an im Unterholz stehenden Holzpfosten befestigt. An einem dieser Pfosten konnten die Stacheldrähte gelöst
+    werden, um die Absperrung zu öffnen. Diese war Ende der 1980er-Jahre mit
+    Zustimmung der Beklagten zu 1 durch den damaligen Jagdpächter errichtet
+    worden. Der ehemalige Bürgermeister der Beklagten zu 1 hatte bis in das Jahr
+    2013 circa zwei- bis dreimal pro Quartal nach der Absperrung gesehen. Die
+    Beklagten zu 2 und 3 waren die am Unfalltag verantwortlichen Jagdpächter des
+    Niederwildreviers und nutzten den Feldweg regelmäßig, um zu einer hinter der
+    Absperrung gelegenen Wiese zu gelangen, wo sich ein mobiler Hochsitz/Jagdwagen befand.
+
+
+3         Als der Geschädigte die über den Feldweg gespannten Stacheldrähte
+    bemerkte, führte er eine Vollbremsung durch; die Einzelheiten sind zwischen
+    den Parteien streitig. Es gelang ihm nicht, sein Fahrrad rechtzeitig vor der Absperrung zum Stehen zu bringen, sondern er stürzte - links des Verkehrszeichens - kopfüber in das Hindernis. Dort blieb er mit seiner Kleidung hängen und
+    konnte sich nicht mehr bewegen. Gegen 19.20 Uhr bemerkte ihn der zufällig
+    vorbeikommende Beklagte zu 2, der Rettungsdienst und Polizei alarmierte.
+
+
+4
+
+                                         - 4 -
+
+
+
+          Durch den Sturz erlitt der Geschädigte einen Bruch des Halswirbels und
+    als Folge dessen eine vollständige Querschnittslähmung unterhalb des vierten
+    Halswirbels. Vom 22. Juni 2012 bis 15. April 2013 befand er sich in stationärer
+    Behandlung in einem Querschnittgelähmten-Zentrum. Er ist seit dem Unfall
+    dauerhaft hochgradig pflegebedürftig und bedarf lebenslang einer querschnittslähmungsspezifischen Weiterbehandlung mit kranken-, physio- und ergotherapeutischen Maßnahmen. Das Wehrdienstverhältnis endete zum 31. März 2014;
+    bis dahin erbrachte die Klägerin Ausgleichszahlungen nach § 85 Abs. 1 des
+    Soldatenversorgungsgesetzes. Seitdem ist der Geschädigte Versorgungsempfänger; der Unfall wurde als Dienstunfall anerkannt.
+
+
+5         Die Klägerin macht - soweit im Revisionsverfahren noch Gegenstand -
+    mit der Klage Ansprüche auf Ersatz der Ausgleichszahlungen und von an den
+    Geschädigten gezahlten Versorgungsbezügen gemäß Soldatenversorgungsgesetz, stationärer Behandlungskosten, von Kostenerstattungen für Heil- und
+    Hilfsmittel sowie von Behandlungs- und Pflegeleistungen in Höhe von
+    582.730,40 € geltend. Außerdem verlangt sie die Feststellung der Ersatzpflicht
+    bezüglich aller zukünftigen materiellen Schäden, soweit sie auf sie übergehen.
+    Die Klägerin macht geltend, die Beklagte zu 1 als Eigentümerin des Feldweges
+    und die Beklagten zu 2 und 3 als Jagdpächter hätten ihre Verkehrssicherungspflichten verletzt. Bei der Absperrung handele es sich um eine "jagdliche Einrichtung", die (auch) der Wildruhe gedient habe. Für den Geschädigten sei die
+    Absperrung erst aus einer Entfernung von höchstens acht Metern erkennbar
+    gewesen.
+
+
+6         Das Landgericht hat die Klage abgewiesen. Auf die hiergegen gerichtete
+    Berufung der Klägerin hat das Oberlandesgericht nach Beweisaufnahme das
+    Ersturteil teilweise abgeändert und der Klage unter Berücksichtigung eines Mit-
+
+                                           - 5 -
+
+
+
+    verschuldensanteils des Geschädigten von 75 % in Höhe von 145.682,60 €
+    nebst Zinsen stattgegeben und die Schadensersatzpflicht der Beklagten entsprechend dieser Quote festgestellt.
+
+
+7         Die Klägerin wendet sich mit ihrer vom Senat zugelassenen Revision
+    gegen die Annahme des Mitverschuldens des Geschädigten. Die Beklagten
+    begehren mit ihren ebenfalls vom Senat zugelassenen Revisionen die vollständige Zurückweisung der Berufung.
+
+
+
+
+                                Entscheidungsgründe:
+
+
+8         Die zulässigen Revisionen der Klägerin und der Beklagten haben Erfolg.
+    Sie führen zur Aufhebung des angefochtenen Urteils und Zurückverweisung der
+    Sache an das Oberlandesgericht.
+
+
+
+
+                                            A.
+
+
+9         Das Berufungsgericht hat im Wesentlichen ausgeführt (DAR 2018, 150),
+    die Berufung sei zulässig; insbesondere sei sie auch hinsichtlich der Beklagten
+    zu 2 und 3 hinreichend begründet worden. Die Klage sei zulässig, auch soweit
+    sie gegen die Beklagte zu 1 gerichtet sei. Diese sei zwar zunächst nicht ordnungsgemäß vertreten gewesen, da sie als amtsangehörige Gemeinde nach
+    § 3 der schleswig-holsteinischen Amtsordnung (AmtsO SH) nicht durch den
+    Bürgermeister, an den die Klageschrift entsprechend den dortigen Angaben der
+    Vertretungsverhältnisse zugestellt worden sei, sondern durch das Amt, dem sie
+    angehöre, vertreten werde. Die Beklagte zu 1 verhalte sich aber treuwidrig,
+
+                                          - 6 -
+
+
+
+     wenn sie sich auf eine hieraus folgende Unzulässigkeit der Klage berufe. Daher
+     sei das Berufungsgericht berechtigt gewesen, durch Rubrumsberichtigung die
+     Vertretungsverhältnisse der Beklagten zu 1 richtigzustellen.
+
+
+10         Die Klägerin sei aus übergegangenem Recht gemäß § 30 Abs. 3 SG
+     i.V.m. § 76 Satz 1 BBG aktivlegitimiert. Davon seien nur Schmerzensgeldansprüche ausgenommen. Das Quotenvorrecht des Geschädigten gemäß § 76
+     Satz 3 BBG greife nicht, da für den verfahrensgegenständlichen Zeitraum dem
+     Geschädigten kein materieller Schaden verblieben sei; die Klägerin habe sämtlichen unfallbedingten Mehraufwand und alle Behandlungskosten übernommen;
+     ein Haushaltsführungsschaden liege nicht vor.
+
+
+11         Die Beklagten hätten jeweils eigene Verkehrssicherungspflichten gemäß
+     § 823 Abs. 1 BGB beziehungsweise § 839 BGB i.V.m. Art. 34 GG verletzt und
+     seien daher dem Geschädigten als Gesamtschuldner dem Grunde nach zum
+     Schadensersatz verpflichtet. Die Beklagte zu 1 habe die ihr als Eigentümerin
+     und Trägerin der Straßenbaulast obliegende Unterhaltungs- und Überwachungspflicht bezüglich der ihr jahrelang bekannten, überprüften und mit ihrer
+     Zustimmung zur Vorbeugung gegen illegale Müllentsorgungen errichteten Absperrung verletzt. Dabei handele es sich um eine offensichtliche Gefahrenquelle. Feld- und Waldwege würden erkennbar zunehmend bevorzugt auch von
+     Mountainbike-Fahrern genutzt, so dass es einer Entfernung oder Kennzeichnung der leicht zu übersehenden Stacheldrähte bedurft hätte.
+
+
+12         Die Beklagten zu 2 und 3 seien für die Feldheckabsperrung verantwortlich, weil es sich um eine jagdliche Einrichtung im Sinne von § 26 Abs. 1 des
+     Jagdgesetzes des Landes Schleswig-Holstein (LJagdG SH) handele, die nach
+     dem Ergebnis der Beweisaufnahme zumindest auch jagdlichen Zwecken, näm-
+
+                                         - 7 -
+
+
+
+     lich der Einrichtung einer Ruhezone für das Wild, gedient habe. Ihnen hätte die
+     mangelnde Verkehrssicherheit der Absperrung bei gehöriger Aufmerksamkeit
+     auffallen und Anlass zu Abhilfe sein müssen, weil auch sie mit Mountainbike-Fahrern hätten rechnen müssen.
+
+
+13         Dem Geschädigten sei allerdings ein Mitverschulden von 75% anzulasten. Er habe gegen § 3 Abs. 1 StVO verstoßen, weil er angesichts der örtlichen
+     Verhältnisse mit einer unangepassten Geschwindigkeit von mindestens 16 km/h
+     gefahren sei. Die Absperrung sei aus einer Entfernung von 8,50 m erkennbar
+     gewesen, so dass der Unfall bei einer Geschwindigkeit von 13 km/h hätte vermieden werden können. Auch habe sich der Geschädigte mit dem Bremsverhalten seines relativ neuen Mountainbikes mit hoher Überschlagsneigung nicht
+     hinreichend vertraut gemacht und hätte den Überschlag durch eine geringfügige
+     Gewichtsverlagerung vermeiden können. Nicht zuletzt begegne die Nutzung
+     von Klickpedalen Bedenken. Andererseits seien die verkehrssicherungswidrige
+     Feldheckabsperrung, die unzureichende Kennzeichnung des verzinkten doppelten Stacheldrahtes sowie dessen atypische Kombination mit dem nicht genehmigten Verkehrszeichen 260 zu berücksichtigen.
+
+
+
+
+                                           B.
+
+
+14         Diese Erwägungen halten der rechtlichen Überprüfung nicht stand, soweit das Berufungsgericht ein Mitverschulden des Geschädigten von 75 % angenommen und das Bestehen eines Quotenvorrechts verneint hat.
+
+                                            - 8 -
+
+
+
+                                              I.
+
+
+15         Indessen hat das Oberlandesgericht mit Recht die Klage und die Berufung der Klägerin hinsichtlich aller Beklagten für zulässig erachtet.
+
+
+16   1.    Zutreffend hat das Berufungsgericht die Klage insoweit als zulässig angesehen, als sie gegen die Beklagte zu 1 gerichtet ist. Diese war - entgegen
+     ihrer Ansicht - in dem Verfahren nach Vorschrift der Gesetze vertreten, so dass
+     ein absoluter Revisionsgrund gemäß § 547 Nr. 4 ZPO nicht vorliegt.
+
+
+17         Dem steht nicht entgegen, dass die Klageschrift an den Bürgermeister
+     der Beklagten zu 1 zugestellt worden ist. Zwar war diese Zustellung gemäß
+     § 170 Abs. 1 Satz 2 ZPO unwirksam, weil sie entgegen § 170 Abs. 1 Satz 1
+     ZPO nicht an das Amt als den gemäß § 3 Abs. 1 Satz 5 AmtsO SH für gerichtliche Verfahren bestimmten gesetzlichen Vertreter der Beklagten zu 1 erfolgt ist.
+
+
+18         Dieser Zustellungsmangel ist jedoch gemäß § 189 ZPO geheilt worden.
+     § 189 ZPO, der seinem Sinn und Zweck entsprechend weit auszulegen ist, ist
+     auch dann anzuwenden, wenn ein Rechtsanwalt erst durch spätere Bevollmächtigung zu einem Prozessbeteiligten wird und er bereits zuvor oder zeitgleich in den Besitz des zuzustellenden Schriftstücks gelangt ist (vgl. BGH, Urteile vom 22. November 1988 - VI ZR 226/87, NJW 1989, 1154 f zu § 187 ZPO
+     a.F. und vom 7. Dezember 2010 - VI ZR 48/10, NJW-RR 2011, 417 Rn. 11). So
+     liegt es hier. Die bereits erstinstanzlich tätig gewordene Rechtsanwältin B.
+     hat sich für die Beklagte zu 1 bestellt. Entsprechend § 88 Abs. 2 ZPO ist davon
+     auszugehen, dass die Anwältin von dieser wirksam bevollmächtigt war, dass ihr
+     also gemäß § 3 Abs. 1 Satz 5 AmtsO SH das Amt eine Prozessvollmacht erteilt
+     hatte. Die Beklagte zu 1 hat in Kenntnis davon, dass sie von der Rechtsanwältin
+
+                                          - 9 -
+
+
+
+     vertreten wurde, hiergegen nichts erinnert; es bestehen auch sonst keine Bedenken. Sie hat zwar in der Berufungserwiderung und in ihrer Stellungnahme
+     zum Hinweis des Berufungsgerichts auf die fehlerhafte Zustellung ausgeführt,
+     die mangelnde Zustellung an das Amt führe zur Unzulässigkeit der Klage, die
+     nur durch eine erneute Zustellung behoben werden könne. Mit der Äußerung
+     dieser Rechtsansicht hat sie aber nicht die vorherige Erklärung ihrer Prozessbevollmächtigten, sich für die Beklagte zu 1 zu bestellen, und die damit konkludent enthaltene Versicherung, entsprechend bevollmächtigt zu sein, in Frage
+     gestellt. Es bestand somit bereits in erster Instanz ein Prozessrechtsverhältnis
+     zwischen den Parteien, so dass das Berufungsgericht zu Recht das Rubrum
+     berichtigt hat. Der vorliegende Sachverhalt unterscheidet sich insofern von den
+     Fällen einer fehlerhaften Prozessvertretung einer Gesellschaft oder Sparkasse
+     gegenüber einem Vorstand (vgl. hierzu BGH, Urteile vom 16. Februar 2009 - II
+     ZR 282/07, NJW-RR 2009, 690 und vom 30. April 2019 - II ZR 317/17, NJW
+     2019, 2473), in denen anders als vorliegend nicht die gesetzliche Vertretung
+     durch eine andere juristische Person, sondern die Frage inmitten stand, welches von mehreren Organen derselben juristischen Person für diese vertretungsbefugt war, um eine unvoreingenommene, von sachfremden Erwägungen
+     unbeeinflusste Vertretung sicherzustellen (vgl. BGH, Urteil vom 16. Februar
+     2009 aaO Rn. 7).
+
+
+19   2.    Weiterhin hat das Oberlandesgericht die Berufung der Klägerin rechtsfehlerfrei auch als zulässig angesehen, soweit sie gegen die Beklagten zu 2
+     und 3 gerichtet war. Insbesondere genügte entgegen deren Verfahrensrüge die
+     Berufungsbegründung den Anforderungen des § 520 Abs. 3 Satz 2 Nr. 2 ZPO.
+     Nach dieser Vorschrift hat die Berufungsbegründung die Bezeichnung der Umstände zu enthalten, aus denen sich nach Ansicht des Rechtsmittelführers die
+     Rechtsverletzung und deren Erheblichkeit für die angefochtene Entscheidung
+
+                                          - 10 -
+
+
+
+     ergibt. Da die Berufungsbegründung erkennen lassen soll, aus welchen tatsächlichen und rechtlichen Gründen der Berufungskläger das angefochtene
+     Urteil für unrichtig hält, hat dieser - zugeschnitten auf den konkreten Streitfall
+     und aus sich heraus verständlich - diejenigen Punkte rechtlicher Art darzulegen,
+     die er als unzutreffend beurteilt ansieht, und dazu die Gründe anzugeben, aus
+     denen sich die Fehlerhaftigkeit jener Punkte und deren Erheblichkeit für die angefochtene Entscheidung herleitet. Zur Darlegung der Fehlerhaftigkeit ist somit
+     die Mitteilung der Umstände erforderlich, die das Urteil aus der Sicht des Berufungsführers in Frage stellen (st. Rspr.; z.B. Senat, Beschluss vom 28. Juli 2016
+     - III ZB 127/15, NJW 2016, 2890 Rn. 10 mwN).
+
+
+20         Diesen Anforderungen genügt die Berufungsbegründung der Klägerin
+     auch insoweit, als das Rechtsmittel gegen die Abweisung der gegen die Beklagten zu 2 und 3 erhobenen Klage gerichtet war. Das Landgericht hatte die
+     Abweisung in Bezug auf die Beklagten zu 2 und 3 mit einer knappen Zusammenfassung der auch für die Beklagte zu 1 geltenden Erwägungen begründet,
+     dass eine Verkehrssicherungspflichtverletzung nicht vorliege. Um die Fehlerhaftigkeit der Abweisung der Klage gegen die Beklagten zu 2 und 3 zu rügen, genügte es daher, dass die Klägerin in der Berufungsbegründung diese Erwägungen angriff und hinsichtlich der gegen die Beklagten zu 2 und 3 gerichteten Berufung hierauf Bezug nahm.
+
+
+
+                                             II.
+
+
+21         Mit Recht hat das Berufungsgericht darauf erkannt, dass dem Geschädigten dem Grunde nach ein Anspruch auf Schadensersatz gegen die Beklagten aus § 839 Abs. 1 Satz 1 BGB i.V.m. Art. 34 Satz 1 GG (Beklagte zu 1) beziehungsweise § 823 Abs. 1 BGB (Beklagte zu 2 und 3) zusteht, der auf die
+
+                                          - 11 -
+
+
+
+     Klägerin übergegangen ist. Hingegen sind die Ausführungen der Vorinstanz zu
+     einem Mitverschulden des Geschädigten und soweit, als sie das Bestehen eines Quotenvorrechts verneint hat, nicht frei von Rechtsfehlern.
+
+
+22   1.     a) Die Beklagte zu 1 hat hinsichtlich des Drahthindernisses die sie treffende Verkehrssicherungspflicht verletzt.
+
+
+23          aa) Sie ist als Trägerin der Straßenbaulast gemäß § 9 Abs. 1 Satz 1,
+     § 10 Abs. 4 Satz 1, § 15 Abs. 1, § 3 Abs. 1 Nr. 4 Buchst. a des Straßen- und
+     Wegegesetzes des Landes Schleswig-Holstein öffentlich-rechtlich für die Sicherheit des Feldweges verantwortlich. Zutreffend hat daher das Berufungsgericht § 839 Abs. 1 Satz 1 BGB i.V.m. Art. 34 Satz 1 GG als Anspruchsgrundlage
+     herangezogen (vgl. Senat, Urteil vom 1. Juli 1993 - III ZR 167/92, BGHZ 123,
+     102, 103 f).
+
+
+24          bb) Die Beklagte zu 1 hat die sie danach treffende Verkehrssicherungspflicht verletzt.
+
+
+25          Nach ständiger Rechtsprechung des Bundesgerichtshofs ist derjenige,
+     der eine Gefahrenlage schafft, grundsätzlich verpflichtet, die notwendigen und
+     zumutbaren Vorkehrungen zu treffen, um eine Schädigung anderer möglichst
+     zu verhindern (z.B. Senat, Urteile vom 2. Februar 2006 - III ZR 159/05, VersR
+     2006, 803 Rn. 12 und vom 16. Februar 2006 - III ZR 68/05, VersR 2006, 665
+     Rn. 13; BGH, Urteile vom 2. März 2010 - VI ZR 223/09, VersR 2010, 544 Rn. 5
+     und vom 15. Februar 2011 - VI ZR 176/10, VersR 2011, 546 Rn. 8, jeweils
+     mwN). Die rechtlich gebotene Verkehrssicherung umfasst diejenigen Maßnahmen, die ein umsichtiger und verständiger, in vernünftigen Grenzen vorsichtiger
+     Mensch für notwendig und ausreichend hält, um andere vor Schäden zu be-
+
+                                         - 12 -
+
+
+
+     wahren (vgl. Senat, Urteil vom 16. Februar 2006 aaO sowie BGH jeweils aaO).
+     Verkehrssicherungspflichtig ist auch derjenige, der in seinem Verantwortungsbereich eine eingetretene Gefahrenlage andauern lässt (vgl. Senat, Urteil vom
+     16. Februar 2006 aaO; BGH, Urteil vom 12. Februar 1985 - VI ZR 193/83, NJW
+     1985, 1773, 1774 mwN).
+
+
+26         Das Berufungsgericht hat festgestellt, dass die Drahtabsperrung mit dem
+     daran angebrachten - von der Straßenverkehrsbehörde nicht genehmigten -
+     Verkehrszeichen "ungewöhnlich" war und eine Gefahrenquelle für Fußgänger
+     und Radfahrer darstellte; die Stacheldrähte seien dünn und daher zwangsläufig
+     leicht zu übersehen gewesen. Ohne Schwierigkeiten sei es möglich gewesen,
+     besser erkennbare und einfacher zu handhabende Absperrmittel zu verwenden.
+
+
+27         Die Bewertung dieses Zustands als verkehrspflichtwidrig lässt Rechtsfehler nicht erkennen. Ein quer über einen für die Nutzung durch Radfahrer zugelassenen Weg gespannter, nicht auffällig gekennzeichneter doppelter Stacheldraht ist im wörtlichen wie auch im rechtlichen Sinne verkehrswidrig. Eine hinreichend deutliche Kennzeichnung bestand auch nicht in dem an den Drähten
+     befestigten Verkehrsschild. Dieses erhöhte im Gegenteil die Gefährlichkeit der
+     Vorrichtung (siehe dazu näher Nr. 4 Buchst. a). Ein solches Hindernis ist angesichts seiner schweren Erkennbarkeit und der daraus sowie aus seiner Beschaffenheit folgenden Gefährlichkeit völlig ungewöhnlich und objektiv geradezu als tückisch anzusehen, so dass ein Fahrradfahrer hiermit nicht rechnen
+     muss. Für die Frage der Verletzung der Verkehrssicherungspflicht ist es deshalb unerheblich, ab exakt welcher Entfernung die Stacheldrähte objektiv sichtbar waren. Denn entscheidend ist nicht, ab welcher Distanz sie erblickt werden
+     konnten, sondern dass sie wegen ihrer Beschaffenheit und Ungewöhnlichkeit
+     leicht zu übersehen waren. Der von den Beklagten beantragten Inaugenschein-
+
+                                         - 13 -
+
+
+
+     nahme wie auch der Einholung eines ergänzenden Sachverständigengutachtens zu ihrer Behauptung, die Stacheldrähte seien aus mindestens zehn bis 15
+     m beziehungsweise aus weit größerer Entfernung als zehn oder elf Metern
+     sichtbar gewesen, bedurfte es daher nicht.
+
+
+28          Unerheblich ist es auch, ob der vom Geschädigten befahrene Weg bis
+     zum Unfall tatsächlich nur von wenigen Personen und insbesondere nicht von
+     Fahrradfahrern genutzt wurde. Der Weg stand der Allgemeinheit zur Nutzung
+     zur Verfügung. Insbesondere war unabhängig von einer Widmung auch das
+     Befahren mit einem Fahrrad erlaubt und vom Nutzungszweck erfasst (siehe
+     § 30 Abs. 1 beziehungsweise Abs. 2 Satz 1 LNatSchG SH, § 17 Abs. 1 LWaldG
+     SH). Einschränkungen desselben sind nicht vorgetragen worden und hätten
+     zudem kenntlich gemacht werden müssen. Aus einer geringen Nutzungsfrequenz folgt lediglich, dass an den Umfang der Verkehrssicherung geringere
+     Anforderungen zu stellen sind (vgl. Senat, Urteil vom 23. Juli 2015 - III ZR
+     86/15, VersR 2016, 63 Rn. 10). Hier steht jedoch nicht das Unterlassen von
+     Schutzmaßnahmen in Rede, sondern die Errichtung einer ungesicherten Gefahrenquelle. Ohne Bedeutung ist es insofern, ob die mit der Drahtabsperrung verfolgten Zwecke auf andere Weise mit zumutbarem Aufwand erreichbar waren.
+     Es war keinesfalls gerechtfertigt, eine leicht zu übersehende Gefahrenquelle zu
+     schaffen.                            Vielmehr                             hätte
+     - wenn denn eine zumutbare Alternative wie etwa eine mit Warnfarben versehene Schranke oder wenigstens eine gut sichtbare Markierung der Drähte fehlte - auf quer über den Weg gespannten Stacheldraht verzichtet werden müssen.
+
+
+29          cc) Die Verantwortlichkeit der Beklagten zu 1 ist entgegen ihrer Ansicht
+     nicht durch eine Delegation der Verkehrssicherungspflicht an die Beklagten zu
+
+                                           - 14 -
+
+
+
+     2 und 3 ausgeschlossen. Das Berufungsgericht hat keine Umstände festgestellt, aus denen sich eine solche Pflichtenübertragung (ihre Zulässigkeit unterstellt) ergeben könnte. Diesbezügliche Verfahrensrügen hat die Beklagte zu 1
+     nicht erhoben. Allein der Umstand, dass es sich bei der Absperrung um eine mit
+     einer jagdlichen Zielsetzung geschaffene Einrichtung handelte, für die auch die
+     Beklagten zu 2 und 3 verkehrssicherungspflichtig waren (siehe hierzu sogleich
+     Buchst. b), genügt den Anforderungen an eine Übertragung der Verkehrssicherungspflicht, die im Übrigen klar und eindeutig hätte vereinbart werden müssen
+     (vgl. BGH, Urteil vom 22. Januar 2008 - VI ZR 126/07, NJW 2008, 1440 Rn. 9
+     mwN), nicht. Zudem hätte die Beklagte zu 1 ihre bei Annahme einer Delegation
+     bestehenden Kontroll- und Überwachungspflichten (vgl. hierzu BGH aaO) verletzt. Die Revision zeigt keine Feststellungen oder Vortrag auf, nach dem die
+     Beklagte zu 1 diese Pflichten erfüllt hätte. Vielmehr hatte sie - vermittelt durch
+     ihren Bürgermeister - Kenntnis von der Drahtabsperrung und ihrer Ausgestaltung, unternahm hiergegen jedoch nichts.
+
+
+30         dd) Die Haftung der Beklagten zu 1 ist schließlich auch nicht gemäß
+     § 839 Abs. 1 Satz 2 BGB ausgeschlossen. Diese Bestimmung findet auf die
+     Verletzung allgemeiner Verkehrssicherungspflichten keine Anwendung (z.B.
+     Senat, Urteile vom 1. Juli 1993 - III ZR 167/92, BGHZ 123, 102, 104 f und vom
+     9. Oktober 2014 - III ZR 68/14, NJW 2014, 3580 Rn. 19).
+
+
+31         b) Zutreffend hat das Berufungsgericht die Beklagten zu 2 und 3 als zuständige Jagdpächter für die Verkehrssicherheit der Feldheckabsperrung ebenfalls als verantwortlich angesehen.
+
+
+32         aa) Das Drahthindernis ist nach den rechtsfehlerfreien Feststellungen
+     des Berufungsgerichts von dem früheren Jagdpächter in dieser Eigenschaft
+
+                                           - 15 -
+
+
+
+     errichtet worden. Es bezweckte jedenfalls damals, eine Ruhezone für das Wild
+     zu schaffen, und sollte damit unmittelbar einen jagdlichen Zweck verwirklichen;
+     dieser ist nicht auf das Erlegen des Wildes beschränkt, sondern umfasst auch
+     dessen Hege (vgl. § 1 Abs. 1 BJagdG). Ob die Drahtabsperrung ausschließlich
+     diesem Zweck diente und ob dies, wie die Beklagten zu 2 und 3 mit ihren Revisionen geltend machen, für die Annahme einer jagdlichen Einrichtung im Sinne
+     des § 26 Abs. 1 Satz 1 LJagdG SH erforderlich ist, ist für die aus ihrer Errichtung folgende Verkehrssicherungspflicht des früheren Jagdpächters unerheblich. Ebenso ist es nicht relevant, ob der Vortrag der Beklagten zu 2 und 3 zutrifft, die Einrichtung sei zur Erreichung des mit ihr verfolgten Zwecks tatsächlich
+     nicht geeignet, jedenfalls werde dieser Zweck nicht weiterhin verfolgt. Den
+     Jagdausübungsberechtigten treffen auch in einem solchen Fall für die von ihm
+     hergestellte Einrichtung so lange Verkehrssicherungspflichten, bis sie beseitigt
+     ist.
+
+
+33          Diese Pflichten sind auf die Beklagten zu 2 und 3 übergegangen. Ohne
+     Rechtsfehler ist das Berufungsgericht davon ausgegangen, dass die Beklagten
+     zu 2 und 3 das Drahthindernis, das ihnen bekannt war und das sie weiterhin
+     benutzten, von ihren Vorgängern als Jagdausübungsberechtigten übernommen
+     hatten. Damit trafen nunmehr sie die insofern bestehenden Verkehrssicherungspflichten. Sie erwarben mit der Übernahme der Jagdpacht das Recht, die
+     von den bisherigen Jagdausübungsberechtigten in dieser Eigenschaft geschaffenen Einrichtungen zu benutzen, und damit aber auch die Verpflichtung, für
+     ihre Verkehrssicherheit zu sorgen. Soweit die Beklagten zu 2 und 3 in der Revisionsverhandlung demgegenüber geltend gemacht haben, keine Kenntnis davon gehabt zu haben, dass die Absperrung von dem früheren Jagdpächter zu
+     jagdlichen Zwecken errichtet worden war, haben sie einen entsprechenden vorinstanzlichen Vortrag hierzu nicht aufgezeigt.
+
+                                          - 16 -
+
+
+
+
+34         bb) Dass die Beklagte zu 1 die für die Errichtung der Absperrung erforderliche Zustimmung erteilte und hiermit einen eigenen Zweck (Verhinderung
+     illegaler Müllablagerungen) verfolgte, entlastet die Beklagten zu 2 und 3 nicht.
+     Hieraus folgt insbesondere nicht, dass die Absperrung in Ausübung eines öffentlichen Amtes errichtet worden wäre mit der Folge einer Haftungsüberleitung
+     gemäß Art. 34 Satz 1 GG. Zwar kann die Aufstellung von Verkehrszeichen
+     durch Private zum Zweck der Verkehrsregelung in Ausübung eines öffentlichen
+     Amtes erfolgen, so dass eine Haftung des Privaten gemäß Art. 34 Satz 1 GG
+     ausgeschlossen ist (vgl. Senat, Urteil vom 6. Juni 2019 - III ZR 124/18, NJW-RR 2019, 1163 Rn. 11 ff). Dies setzt aber voraus, dass die öffentliche Hand in
+     so weitgehendem Maße auf die Durchführung der Arbeiten Einfluss nimmt,
+     dass der Private gleichsam als bloßes "Werkzeug" oder "Erfüllungsgehilfe" des
+     Hoheitsträgers handelt und dieser die Tätigkeit des Privaten deshalb wie eine
+     eigene gegen sich gelten lassen muss. Je stärker der hoheitliche Charakter der
+     Aufgabe in den Vordergrund tritt, je enger die Verbindung zwischen der übertragenen Tätigkeit und der von der öffentlichen Hand zu erfüllenden hoheitlichen Aufgabe und je begrenzter der Entscheidungsspielraum des Privaten ist,
+     desto näher liegt es, ihn als Beamten im haftungsrechtlichen Sinne anzusehen
+     (Senat aaO). So liegt es hier indes nicht. Die Aufstellung der Absperrung sowie
+     des Verkehrsschildes erfolgte auf von Eigeninteressen geleiteter Initiative des
+     damaligen Jagdpächters, der auch die konkrete Ausgestaltung bestimmte. Die
+     Beklagte zu 1 erteilte hierzu lediglich ihre Zustimmung, bediente sich aber nicht
+     des damaligen Jagdpächters als Werkzeug.
+
+
+35   2.    Die Beklagten haben die Verletzung der jeweiligen Verkehrssicherungspflichten zu vertreten. Hiergegen wird von den Revisionen auch nichts erinnert.
+
+                                         - 17 -
+
+
+
+36   3.    Ohne Rechtsfehler und ebenfalls von den Revisionen unbeanstandet ist
+     das Berufungsgericht weiter davon ausgegangen, dass der Unfall und seine
+     Folgen auf das Drahthindernis zurückzuführen sind.
+
+
+37   4.    Rechtsfehlerhaft sind indessen die Erwägungen des Berufungsgerichts,
+     mit denen es ein Mitverschulden des Geschädigten von 75 % angenommen
+     hat. Die Abwägung der Verantwortlichkeiten zwischen den Parteien eines
+     Schadensersatzanspruchs im Rahmen der Prüfung des Mitverschuldens gemäß § 287 ZPO unterliegt zwar einem weiten tatrichterlichen Entscheidungsspielraum. Die Prüfung des Revisionsgerichts ist darauf beschränkt, ob alle in
+     Betracht kommenden Umstände richtig und vollständig berücksichtigt und der
+     Abwägung rechtlich zulässige Erwägungen zugrunde gelegt worden sind, hierbei insbesondere nicht gegen Denkgesetze und Erfahrungssätze verstoßen
+     wurde (vgl. z.B. Senat, Urteile vom 20. Juni 2013 - III ZR 326/12, VersR 2013,
+     1322 Rn. 19 und vom 23. Juli 2015 - III ZR 86/15, VersR 2016, 63 Rn. 31). Solche Rechtsfehler liegen indes vor; die vom Berufungsgericht dem Geschädigten
+     angelasteten Umstände rechtfertigen aus Rechtsgründen einen Mitverschuldensvorwurf jedenfalls in Höhe der angenommenen Quote nicht.
+
+
+38         a) Der Geschädigte hat entgegen der Ansicht des Berufungsgerichts
+     nicht gegen § 3 Abs. 1 StVO verstoßen. Die Vorinstanz hat diese Wertung darauf gestützt, dass der Geschädigte so schnell gefahren ist, dass er sein Fahrrad nicht mehr vor der Absperrung stoppen konnte. Ein Verstoß gegen das
+     Sichtfahrgebot (§ 3 Abs. 1 Satz 4 StVO) folgt hieraus jedoch nicht. Das Sichtfahrgebot, das auch für Fahrradfahrer gilt (vgl. OLG Hamm, NJW-RR 2015, 86,
+     88; OLG Frankfurt am Main, Urteil vom 26. Mai 2017 - 13 U 21/14, juris Rn. 40),
+     verlangt, dass der Fahrer vor einem Hindernis, das sich innerhalb der übersehbaren Strecke auf der Straße befindet, anhalten kann (BGH, Urteil vom 15. Mai
+
+                                     - 18 -
+
+
+
+1984 - VI ZR 161/82, NJW 1984, 2412). Er muss beim Fahren auf Sicht dementsprechend prüfen, wie weit er sehen und ob er mit der gefahrenen Geschwindigkeit noch rechtzeitig anhalten kann, wenn im sich beim Fahren regelmäßig in Fahrtrichtung verschiebenden Sichtbereich - genauer am Ende der
+sich verschiebenden übersehbaren Strecke - ein Hindernis auf der Fahrbahn
+erscheint (vgl. BGH aaO). Maßgeblich ist damit, dass der Fahrer innerhalb der
+übersehbaren Strecke anhalten kann (König in Hentschel/König/Dauer, Straßenverkehrsrecht, 45. Aufl., § 3 StVO Rn. 14 mwN). Dabei bezieht sich der
+(Gegen-)Begriff der Unübersichtlichkeit nur auf die Fahrbahn, so dass eine
+Straßenstelle nicht schon dann unübersichtlich wird, wenn der Verkehrsablauf
+in der seitlichen Umgebung der Straße nicht voll überblickt werden kann (Senat,
+Urteil vom 21. Februar 1985 - III ZR 205/83, NJW 1985, 1950, 1951; BGH, Urteile vom 13. Februar 1990 - VI ZR 128/89, NJW 1990, 1483; vom 12. Mai 1998
+- VI ZR 124/97, NJW 1998, 2816, 2817 und vom 23. April 2002, VI ZR 180/01,
+NJW 2002, 2324). Hiervon als Bezugspunkt zu unterscheiden ist der Augenblick, zu dem ein zwar bereits im Sichtbereich befindliches, für den Fahrzeugführer jedoch nicht sogleich erkennbares Hindernis für ihn sichtbar wird. Auf
+solche gegebenenfalls erst aus wenigen Metern erkennbaren Objekte muss der
+Fahrer seine Geschwindigkeit - bei allerdings Anwendung eines strengen Maßstabs hinsichtlich der Erkennbarkeit - nicht einrichten (vgl. BGH, Urteil vom 27.
+Juni 1972 - VI ZR 184/71, VersR 1972, 1067). Insoweit wird das Sichtfahrgebot
+durch den Vertrauensgrundsatz (vgl. hierzu BGH, Urteil vom 25. März 2003 - VI
+ZR 161/02, NJW 2003, 1929, 1930 mwN) für solche Hindernisse begrenzt, mit
+denen der Fahrer unter keinem vertretbaren Gesichtspunkt rechnen muss (vgl.
+OLG Hamm, VersR 1999, 898, 899; Thüringer OLG, ZfS 2009, 376; vgl. auch
+BGH, Urteil vom 14. Mai 1974 - VI ZR 106/73, NJW 1974, 1378, 1379). Dies
+betrifft etwa Hindernisse, die wegen ihrer besonderen Beschaffenheit ungewöhnlich schwer erkennbar sind oder deren Erkennbarkeit in atypischer Weise
+
+                                           - 19 -
+
+
+
+     besonders erschwert ist und auf die nichts hindeutet (vgl. BGH, Urteile vom
+     5. April 1960 - VI ZR 49/59, VersR 1960, 636, 637; vom 27. Juni 1972 - VI ZR
+     184/71, VersR 1972, 1067 und vom 15. Mai 1984 - VI ZR 161/82, NJW 1984,
+     2412 f). Anderenfalls dürfte sich der Fahrer stets nur mit minimalem Tempo bewegen, um noch rechtzeitig anhalten zu können. Das Sichtfahrgebot beruht auf
+     der Erwägung, dass es dem Fahrer zugemutet werden kann, seine Geschwindigkeit dem vorausberechneten Anhalteweg anzupassen. An dieser Möglichkeit
+     fehlt es aber, wenn sich der geschätzte Anhalteweg durch nicht voraussehbare
+     und damit nicht einkalkulierbare Umstände verkürzt (vgl. BGH, Urteil vom 14.
+     Mai 1974 aaO). Es darf insofern auch nicht auf eine statische Betrachtung aus
+     einer bestimmten Entfernung abgestellt werden, vielmehr ist die Fahrt als dynamischer Vorgang zu betrachten. Ein Radfahrer ist nicht verpflichtet, lückenlos
+     den unmittelbar vor seinem Rad liegenden Bereich noch gezielt im Auge zu behalten und auf Hindernisse zu überprüfen, die - bei an sich übersichtlicher Lage
+     - aus größerer Entfernung noch nicht zu erkennen waren (OLG Hamm NJW-RR
+     2010, 33, 35). Das gilt insbesondere für einen über einen Wald- oder Wiesenweg gespannten Draht (vgl. OLG Köln, VersR 1998, 860).
+
+
+39         Nach diesen Kriterien war der Geschädigte nicht gehalten, seine Geschwindigkeit so zu wählen, dass er vor den quer über den Weg gespannten
+     Drähten gefahrlos anhalten konnte. Der Sichtbereich des Geschädigten reichte
+     bei Annährung an die Drahtsperre deutlich über diese hinaus. Ein solches Hindernis ist, wie bereits ausgeführt, eine völlig atypische Sperrvorrichtung, die -
+     wie das Berufungsgericht aus den oben ausgeführten Gründen verfahrensfehlerfrei festgestellt hat - leicht zu übersehen ist. Im Hinblick auf das Sichtfahrgebot hatte es daher keine Bedeutung. Dabei ist es auch unerheblich, ob die Stacheldrähte, wie die Beklagten behauptet haben, bereits aus einer Entfernung
+     von mindestens zehn bis 15 m beziehungsweise aus weitaus größerer Entfer-
+
+                                         - 20 -
+
+
+
+     nung als zehn oder elf Metern sichtbar waren. Selbst wenn dieser Vortrag der
+     Beklagten zutreffen sollte, so handelte es sich doch um ein geradezu verkehrsfeindliches Hindernis, mit dem der Geschädigte nicht rechnen musste, so dass
+     es ihm nicht zum Vorwurf gereichen kann, wenn er dieses nicht sofort ab dem
+     Zeitpunkt, zu dem es objektiv sichtbar wurde, tatsächlich wahrnahm.
+
+
+40         Als Hindernis frühzeitig erkennbar war auf dem für den Geschädigten
+     übersehbaren Teil des Weges allein das Verkehrsschild, das eine Durchfahrt
+     nur für Kraftfahrzeuge untersagte. Dies ändert an der vorstehenden Würdigung
+     jedoch nichts. Im Gegenteil suggerierte es, wie vom Berufungsgericht zutreffend gewürdigt, dass Radfahrer freie Durchfahrt hätten. Dementsprechend
+     konnte ein solcher Nutzer des Weges erst recht nicht damit rechnen, dass
+     künstlich geschaffene und zudem schwer erkennbare Hindernisse einen solchen zulässigen Verkehr behindern und, wie im vorliegenden Fall, gar gefährden. Aus diesem Grunde stellte die Kombination der Stacheldrähte und des
+     Verkehrsschilds mit dem Zeichen 260 für Fahrradfahrer eine objektiv geradezu
+     tückische Gefahrenquelle dar, auf die sie sich nicht einzurichten brauchten. Anhaltspunkte dafür, dass das Schild nicht umfahren und die Fahrt auf dem dahinterliegenden ebenfalls im Sichtbereich liegenden Teil des Weges ungehindert
+     fortgesetzt werden konnte, bestanden nicht. Die Revisionen weisen zwar im
+     Ausgangspunkt zutreffend darauf hin, dass das Schild irgendwie befestigt sein
+     musste. Daraus musste der Geschädigte aber nicht auf über den Weg gespannte Drähte schließen. Vielmehr vermittelten die nach unten auf den Boden
+     gerichteten Holzlatten den Eindruck, dass das Schild - wie üblich - auf dem Boden stehen würde. Zu besonderer Aufmerksamkeit bestand daher für den Geschädigten auch insofern kein Anlass.
+
+
+41
+
+                                          - 21 -
+
+
+
+           Dabei ist es rechtlich nicht von Bedeutung, dass das Berufungsgericht
+     keine Feststellungen dazu getroffen hat, ob die Latten den Boden berührten
+     oder ob zwischen dem unteren Ende dieser Holzstreben und der Oberfläche
+     des Weges eine - nach den in der Akte befindlichen Fotos allenfalls kleinere -
+     Lücke bestand, die den Rückschluss auf eine Befestigung des Schildes durch
+     quer gespannte Drähte ermöglicht hätte. Selbst wenn Letzteres der Fall gewesen sein sollte, wie es der Prozessbevollmächtigte der Beklagten zu 2 und 3 in
+     der mündlichen Verhandlung des Senats als Sachverhaltsvariante geltend gemacht hat, gereichte es dem Geschädigten nicht zu einem vorwerfbaren Obliegenheitsverstoß, wenn er die (etwaige) Lücke nicht wahrnahm und dementsprechend nicht die Schlussfolgerung zog, dass das Schild an quer über den
+     Weg verlaufenden Drähten angebracht war. Auch dann bleibt es dabei, dass
+     die zum Boden weisenden Latten gegenüber einem sich der Vorrichtung nähernden Radfahrer jedenfalls zunächst den täuschenden Eindruck erweckten,
+     das Schild sei im Erdreich befestigt. Darauf, dass dieser Anschein unrichtig sein
+     könnte, musste sich ein Radfahrer nicht einrichten, da die (etwaige) Lücke zwischen den Latten und dem Boden, insbesondere vor dem Hintergrund des mit
+     Gras bewachsenen Mittelstreifens zwischen den beiden Radspuren, nur bei
+     einer besonders aufmerksamen Betrachtung erkennbar war. Anlass für eine
+     ungeachtet des zunächst täuschenden Eindrucks gebotene besondere Aufmerksamkeit bestand für den Geschädigten aber insbesondere auch deshalb
+     nicht, weil die Konstruktion des Hindernisses derart ungewöhnlich war, dass ein
+     Radfahrer mit einer solchermaßen beschaffenen Vorrichtung nicht rechnen
+     musste.
+
+
+42         Aus diesen Gründen ist auch die Verfahrensrüge der Beklagten im Ergebnis unbegründet, das Berufungsgericht hätte die zum Beweis einer gegenüber den Feststellungen des Sachverständigen M.             früheren objektiven
+
+                                 - 22 -
+
+
+
+Sichtbarkeit des Hindernisses beantragte Inaugenscheinnahme vorzunehmen
+und das angebotene Sachverständigengutachten einzuholen gehabt.
+
+                                          - 23 -
+
+
+
+43         Sonstige sichtbare Gefahrenquellen hat das Berufungsgericht nicht festgestellt. Soweit es den Bewuchs im Anschluss an die äußeren Grünstreifen erwähnt hat, hat es nicht festgestellt, dass hierdurch die Befahrbarkeit des Weges
+     selbst beeinträchtigt gewesen wäre. Die seitliche Umgebung der Straße ist aber
+     - wie ausgeführt - im Hinblick auf das Sichtfahrgebot grundsätzlich unerheblich.
+     Allein der Umstand, dass es sich um einen unbefestigten Weg handelte, erforderte es nicht, weniger als eine "normale" Geschwindigkeit, die bei den hier als
+     Mindestgeschwindigkeit des Geschädigten festgestellten 16 km/h ohne weiteres
+     angenommen werden kann (vgl. BGH, Urteil vom 4. November 2008 - VI ZR
+     171/07, VersR 2009, 234 Rn. 7), zu wählen.
+
+
+44         Soweit in den vorstehenden Ausführungen auch vereinzelte Elemente
+     einer tatrichterlichen Beurteilung enthalten sind, ist der Senat als Revisionsgericht hierzu befugt, weil insofern weitere Erkenntnisse nicht zu erwarten sind
+     (vgl. z.B. Senat, Urteil vom 17. Oktober 2019 - III ZR 42/19, NJW 2020, 399 Rn.
+     51; BGH, Urteil vom 10. Mai 2011 - X ZR 16/09, BGHZ 189, 330 Rn. 31).
+
+
+45         b) Die Reaktion des Geschädigten auf das Hindernis, die zum Überschlag des Fahrrads führte, vermag ebenfalls den Vorwurf eines Mitverschuldens nicht zu begründen. Die falsche Reaktion eines Verkehrsteilnehmers stellt
+     dann keinen vorwerfbaren Obliegenheitsverstoß dar, wenn dieser in einer ohne
+     sein Verschulden eingetretenen, für ihn nicht vorhersehbaren Gefahrenlage
+     keine Zeit zu ruhiger Überlegung hat und deshalb nicht das Richtige und Sachgerechte unternimmt, um den Unfall zu verhüten, sondern aus verständlichem
+     Erschrecken objektiv falsch reagiert (vgl. BGH, Urteile vom 4. November 2008
+     aaO Rn. 10 und vom 5. Oktober 2010 - VI ZR 286/09, NJW 2011, 292 Rn. 13).
+     So liegt es unter Zugrundelegung der tatsächlichen Feststellungen des Berufungsgerichts entgegen seiner rechtlichen Würdigung hier. Es kann dem Ge-
+
+                                          - 24 -
+
+
+
+     schädigten daher nicht als Verschulden gegen sich selbst angelastet werden,
+     wenn er die Vollbremsung zu heftig oder insoweit nicht sachgerecht ausführte,
+     als er sein Gewicht nicht nach hinten verlagerte.
+
+
+46         c) Auf dieser Grundlage ist auch die Annahme des Berufungsgerichts,
+     der Geschädigte habe sich "offenbar" nicht hinreichend mit dem Bremsverhalten des Fahrrads vertraut gemacht, nicht tragfähig. Sonstige Umstände als die -
+     aus den dargelegten Gründen nicht relevante - Fehlreaktion des Geschädigten,
+     die diese Einschätzung stützen würden, insbesondere zu den tatsächlich vom
+     Geschädigten vor dem Unfall gewonnenen Erfahrungen im Umgang mit Mountainbikes im Allgemeinen und seinem eigenen (relativ neuen) Fahrrad, hat das
+     Berufungsgericht nicht festgestellt. Es ist auch kein entsprechender Sachvortrag in den Tatsacheninstanzen ersichtlich. Dies gilt auch im Hinblick darauf,
+     dass sich der Geschädigte mit diesem "Sportgerät" in unbefestigtem und unbekanntem Gelände bewegte. Auch insofern sind außer seiner Fehlreaktion keine
+     Anhaltspunkte dafür festgestellt, dass er dieses Gelände nicht hätte bewältigen
+     können. Bei einem erstmaligen Befahren eines Weges eine Vorsicht zu fordern,
+     die es dem Geschädigten ermöglicht hätte, auch nicht vorhersehbaren Gefahren auszuweichen, würde die Sorgfaltsanforderungen überspannen.
+
+
+47         d) Der Geschädigte musste sich auch nicht im Hinblick darauf, dass es
+     sich bei dem Feldweg um eine Sackgasse handelte, auf eine quer über diesen
+     gespannte Drahtabsperrung einstellen. Da das Ende des Weges für den Geschädigten nicht sichtbar war, vielmehr das Schild, das nur für Kraftfahrzeuge
+     die Weiterfahrt verbot, suggerierte, Radfahrer hätten freie Durchfahrt, bot der
+     Umstand, dass der Weg eine Sackgasse war, keinen Anlass für besondere
+     Vorsicht bereits an dieser Stelle.
+
+                                         - 25 -
+
+
+
+48         e) Als Umstand, der ein anspruchsminderndes Mitverschulden des Geschädigten gemäß § 254 Abs. 1 BGB begründen könnte, bleibt lediglich, dass
+     er auf dem unbefestigten und unebenen Feldweg statt der "normalen" Fahrradpedale die Klickpedale nutzte. Das Berufungsgericht wird in tatrichterlicher
+     Würdigung erneut darüber zu entscheiden haben, ob darin ein Obliegenheitsverstoß des Geschädigten zu erblicken ist. Dabei wird es sich auch mit dem
+     insoweitigen Vorbringen der Revision zu befassen haben, auf das einzugehen
+     der Senat im vorliegenden Verfahrensstand keine Veranlassung hat.
+
+
+49   5.    Rechtsfehlerhaft sind schließlich die Erwägungen, mit denen das Berufungsgericht das Bestehen eines Quotenvorrechts (siehe § 76 Satz 3 BBG
+     i.V.m. § 30 Abs. 3 SG) verneint hat, da es seine Entscheidung insoweit auf Vortrag der Klägerin gestützt hat, den diese erst nach Schluss der mündlichen Verhandlung gehalten hat. Die Beklagten hatten daher keine Gelegenheit, sich
+     hierzu zu äußern. Damit hat das Berufungsgericht ihnen hierzu das gemäß Art.
+     103 Abs. 1 GG gebotene rechtliche Gehör nicht gewährt.
+
+
+50   6.    Danach kann das Berufungsurteil keinen Bestand haben, soweit die Klage abgewiesen worden ist und soweit das Berufungsgericht das Bestehen eines
+     Quotenvorrechts verneint hat. Das Berufungsgericht wird unter Beachtung der
+     vorstehenden Ausführungen erneut darüber zu entscheiden haben, ob der
+     Schadensersatzanspruch des Geschädigten auf der Grundlage von § 254 Abs.
+     1 BGB zu kürzen ist und gegebenenfalls in welchem Umfang. Insoweit merkt
+     der Senat für das weitere Verfahren an, dass der auf der Grundlage der bisherigen Feststellungen insoweit allein in Betracht zu ziehende Umstand - Verwendung von Klickpedalen auf einem "holprigen" Feldweg - allenfalls zu einer Anspruchsminderung von einem Viertel führen kann. Zudem wird das Berufungsgericht neu über das Bestehen eines Quotenvorrechts zu befinden haben.
+
+                                    - 26 -
+
+
+
+Schließlich ist hinsichtlich der Zinsentscheidung zu berücksichtigen, dass die
+Rechtshängigkeit bezüglich der Beklagten jeweils einzeln wirkt (§ 425 BGB).
+
+
+Herrmann                            Remmert                           Böttcher
+
+
+                  Kessen                                 Herr
+
+
+
+
+Vorinstanzen:
+LG Lübeck, Entscheidung vom 05.02.2016 - 2 O 116/15 -
+OLG Schleswig, Entscheidung vom 10.08.2017 - 7 U 28/16 -
