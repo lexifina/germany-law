@@ -1,0 +1,54 @@
+# Rat (127. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2020-04-23T18:04:00+02:00
+- Ende: 2020-04-23T21:43:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW7EKafRQHLEMsXlUpqYlvI
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16165
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQUhVa5fbkW4XhPOtSnBGs0TVCvq1cUMg1VxuGZnZVKZ/Bekanntmachung_Rat_23.04.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWuTrub1yfeszcbgEnhpWK-Pui5tzS6q2A3x2cKWiQZ8/Oeffentliche_Niederschrift_Rat_23.04.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 31.03.2020
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Bestellung von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 4.2: Genehmigung einer Dringlichkeitsentscheidung hier: Änderung der Ordnungsbehördllichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Emsdetten - Einstimmig
+- TOP 4.3: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 79/2020 "19. Änderung des Flächennutzungsplanes der Stadt Emsdetten im Bereich des Vorhabenbezogenen Bebauungsplanes VEP 5 Nahversorgungsstandort Im Hagenkamp - Beschluss über die frühzeitige Beteiligung der Öffentlichkeit und Behörden" - Einstimmig
+- TOP 4.4: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 82/2020 "Ergänzung des Einzelhandelsentwicklungs- und Zentrenkonzeptes der Stadt Emsdetten ¿ Beschluss zur Ergänzung der Ansiedlungsregel 2" - 18 Ja-Stimme(n), 8 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 4.5: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 85/2020 ¿Bebauungsplan Nr. 17 A ¿Industriegebiet Süd¿ 16. Änderung - Satzungsbeschluss¿ - 18 Ja-Stimme(n), 8 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 4.6: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 86/2020 "Bebauungsplan Nr. 36 "Eisengraben", 6. Änderung - Beschluss zur öffentlichen Auslegung-" - Einstimmig
+- TOP 4.7: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Marita Haude zu Drucksache 87/2020 "Bebauungsplan Nr. 37 Josefskirche, 5. Änderung - Beschluss zur öffentlichen Auslegung-" - Einstimmig
+- TOP 4.8: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Sanierung und Erweiterung der EMS-HALLE - 2. BA; europaweites Vergabeverfahren für die Planungsleistungen - 21 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 4.9: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Attraktivierung Hof Deitmar - 3. BA, Errichtung des Erlebnisspielplatzes - Einstimmig
+- TOP 4.10: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Freiflächenplanung Zweifeld-Sporthalle an der Käthe-Kollwitz-Schule - Einstimmig
+- TOP 4.11: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock über die zeitliche Reihenfolge der an den Grundschulen anstehenden Baumaßnahmen - Einstimmig
+- TOP 4.12: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 80/2020 "Städtebaulicher Vertrag Herzbach, Planstraße B" - Einstimmig
+- TOP 4.13: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 90/2020 "Albert Haverkamp Weg - Förderkulisse ¿ Bedeutung - Ausbauvarianten" - 17 Ja-Stimme(n), 9 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 4.14: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zu Drucksache 89/2020 "Fortschreibung des Abwasserbeseitigungskonzeptes - Änderungsbericht 2020" - Einstimmig
+- TOP 4.15: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) incl. Änderung der Anlage 2 Richtlinien zur Gewährung der Kindertagespflege - Einstimmig
+- TOP 4.16: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Aussetzung der Elternbeitragspflicht nach der Satzung zur Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) für den Monat April 2020 - Einstimmig
+- TOP 4.17: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock zur Feststellung der demographische Entwicklung in Emsdetten und ihrer Auswirkungen auf die Jugendhilfeplanung im Bereich der Kindertagesbetreuung - Einstimmig
+- TOP 5.: Bildung und Besetzung von Gremien
+- TOP 5.1: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Übersicht über Maßnahmen und Angebote der Stadt Emsdetten während der Corona-Pandemie - Zur Kenntnis genommen
+- TOP 7.: Verwaltungsorganisation
+- TOP 7.1: Auswirkungen der Corona-Pandemie auf die Stadtverwaltung und aktuelle Handlungsoptionen - Zur Kenntnis genommen
+- TOP 8.: Finanzangelegenheiten
+- TOP 8.1: Finanzbericht - aktuelle Prognosen zum Haushalt 2020 - Zur Kenntnis genommen
+- TOP 8.2: Investitions- und Unterhaltungsmaßnahmen im Haushalt 2020 - 17 Ja-Stimme(n), 8 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 8.3: Ermächtigungsübertragungen 2019 nach 2020 gem. § 22 KomHVO - Zur Kenntnis genommen
+- TOP 8.4: Ermächtigungsübertragungen 2019 nach 2020 gem. § 22 KomHVO für das Abwasserwerk der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 9.: Mitgliedschaft bei der ¿Gütegemeinschaft Mittelstandsorientierte Kommunalverwaltung e.V." - 25 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.: Verwendungsplanung 2020 und 2021 im Rahmen der Antragstellung zur Förderrichtlinie "Digitalpakt NRW" - Einstimmig
+- TOP 11.: Verkehrsfragen
+- TOP 11.1: Erarbeitung eines integrierten Mobilitätskonzeptes für die Stadt Emsdetten - 22 Ja-Stimme(n), 0 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 12.: Glasfaser, Kooperationsvertrag mit der Nordwest, Antrag der SPD-Fraktion vom 21.04.2020
+- TOP 13.: Verschiedenes
