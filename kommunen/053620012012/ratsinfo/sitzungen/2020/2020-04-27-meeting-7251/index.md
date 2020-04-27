@@ -1,0 +1,97 @@
+# Rat (54. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-04-27T18:00:00+02:00
+- Ende: 2020-04-27T22:14:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSjGmQZtSu-aQR2G4h8qNQY
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7251
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWjxholCizIlBni_eUbsn3oOi6t6sNjzJ8K16oQZeqmz/Bekanntmachung_Rat_27.04.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZTUgHbo8nh72kfbDzbveJDyryg48EqIg0L4FWk5WaqI/Oeffentliche_Niederschrift_Rat_27.04.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 17.02.2020
+- TOP 3.: Erlass von Gebühren
+- TOP 3.1: Erlass der Beiträge für die Betreuung von Kindern in der offenen Ganztagsschule
+- TOP 3.1.1: Erlass der Beiträge für die Betreuung von Kindern in der offenen Ganztagsschule Bezug: Vorlage 110/2020 - (kein Text vorhanden)
+- TOP 3.2: Erlass der Beiträge für die Betreuung von Kindern in Kindertagesstätten und der Kindertagespflege, Erstattung von Essensgeld in der Mittagsverpflegung der städtischen Kindertagesstätten, Weiterzahlung von Leistungen an das „Brühler Kindernest - der Minikindergarten“, an die Tagespflegepersonen und an soziale Dienstleister
+- TOP 3.2.1: Erlass der Beiträge für die Betreuung von Kindern in Kindertagesstätten und der Kindertagespflege, Erstattung von Essensgeld in der Mittagsverpflegung der städtischen Kindertagesstätten, Weiterzahlung von Leistungen an das „Brühler Kindernest - der Minikindergarten“, an die Tagespflegepersonen und an soziale Dienstleister - (kein Text vorhanden)
+- TOP 3.3: Erlass der KuMs-Gebühren wegen Unterrichtsausfall aufgrund Corona-Krise
+- TOP 3.3.1: Erlass der KuMs-Gebühren wegen Unterrichtsausfall aufgrund Corona-Krise - (kein Text vorhanden)
+- TOP 3.4: Erlass der Erhebung von Gebühren für die außerschulische Benutzung städtischer Sportanlagen an Vereine - (kein Text vorhanden)
+- TOP 3.5: Finanzielle Auswirkungen im Rahmen der Corona-Pandemie -Erste Einschätzung-
+- TOP 4.: Janshof: Freigabe der Leistungsphase 3 und Beauftragung der Ausführungsplanung - (kein Text vorhanden)
+- TOP 5.: Änderung der Wahlordnung für die Wahl des Integrationsrates (WahlO IntRat) - (kein Text vorhanden)
+- TOP 6.: Einführung der Offenen Ganztagsschule an der KGS Brühl-Pingsdorf - (kein Text vorhanden)
+- TOP 7.: Ausbau der KGS Pingsdorf auf eine konstante 2-Zügigkeit - (kein Text vorhanden)
+- TOP 8.: Schulentwicklungsplanung Hier: Prognose Grundschulen
+- TOP 9.: „Gute Schule 2020“ Mittelverwendung und Maßnahmenplanung Restbetrag 2019 Bezug: Rat 10.07.2017, Vorlage 181/2017, Rat 16.12.2019, Vorlage 479/2019 - (kein Text vorhanden)
+- TOP 10.: Förderprogramm DigitalPakt Bezug: SchA 26.11.2019, Vorlage-Nr. 478/2019
+- TOP 11.: Gewährung städtischer Zuschüsse an Sportvereine gemäß Sportförderrichtlinien Hier: Änderung der Sportförderrichtlinien Bezug: Workshop am 05.03.2020 - (kein Text vorhanden)
+- TOP 12.: Fördermittel für Modellprojekte „Smart Cities“ hier: Bewerbung der Stadt Brühl
+- TOP 13.: Einrichtung eines "Citymanagements" Bezug: Gemeinsamer Antrag der Fraktionen CDU/Grüne/FDP vom 12.12.2019, Rat 16.12.2019
+- TOP 14.: Wirtschaftsförderung Rhein-Erft GmbH (WfG) hier: Änderung/Anpassung des Gesellschaftsvertrages Bezug: HA 3.2.2020, Vorlage Nr. 11/2020 - (kein Text vorhanden)
+- TOP 15.: Satzungen
+- TOP 15.1: 2. Satzung zur Änderung der Satzung der Stadt Brühl für die Anstalt des öffentlichen Rechts - (kein Text vorhanden)
+- TOP 15.2: Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung)
+- TOP 15.2.1: Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung) Bezug: Vorlage 94/2020 - (kein Text vorhanden)
+- TOP 15.2.2: Änderungsantrag zu TOP 15.2.1 - Inklusionsbeiratssatzung § 5 Wahl einer/eines Vorsitzenden Bezug: Antrag der Fraktion Linke&Piraten vom 22.04.2020
+- TOP 16.: 1.Satzung zur Änderung der Satzung über die Benutzung öffentlicher Spiel- und Bolzplätze und Schulhöfe der Stadt Brühl als Kinderspielplätze - (kein Text vorhanden)
+- TOP 17.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 17.1: Übernahme der Elternbeiträge bei außerunterrichtlichen Ganztags- und Betreuungsangeboten im Primarbereich und der Sekundarstufe I und überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 17.2: Erich-Kästner-Realschule -Übergangsunterbringung- Hier: überplanmäßige Mittelbereitstellung für die Herrichtung des „RWE-Gebäudes“ Auguste-Viktoria-Straße als Interimslösung EKR - (kein Text vorhanden)
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Kindertagesstätte Wingertsberg – Herrichtung einer vorläufigen Einrichtung mit 3 Gruppen hier: außerplanmäßige Mittelbereitstellung Bezug: Dringlichkeitsentscheidung Hauptausschuss - (kein Text vorhanden)
+- TOP 19.: Umbesetzung in Ausschüssen
+- TOP 19.1: Umbesetzung im Ausschuss für Verkehr und Mobilität Bezug: Antrag der Fraktion Linke&Piraten vom 09.04.2020 - (kein Text vorhanden)
+- TOP 19.2: Umbesetzung im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 20.: Anträge
+- TOP 20.1: Unterstützung in der Corona-Krise; Prüfaufträge für verschiedene Bereiche Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 23.03.2020
+- TOP 20.1.1: Unterstützung in der Corona-Krise; Prüfaufträge für weitere Bereiche Bezug: Gemeinsamer Ergänzungsantrag der Fraktionen CDU und Grüne vom 24.04.2020 zum Antrag vom 23.3.2020, RAT 27.4.2020, TOP 20.1, Vorlage Nr. 107/2020,
+- TOP 20.2: Beratungshotline durch Wirtschaftsförderung und Steueramt für wirtschaftlich in Not geratene Brühler Unternehmer und Kulturschaffende Bezug: Antrag der FDP-Fraktion vom 23.03.2020
+- TOP 20.2.1: Unterstützung, Beratung und Hilfe durch die Stadt Brühl während der Corona-Krise Bezug: Anträge der Fraktionen CDU/Grüne und FDP vom 23.3.2020
+- TOP 20.3: Weitere Maßnahmen der Stadt Brühl zur Entschärfung der Folgen aus der Corona-Krise Bezug: Antrag der Fraktion Linke&Piraten vom 09.04.2020
+- TOP 20.4: Mehrgenerationenzentrum West mit Schwerpunkt "Bewegung und Sport" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 06.04.2020 - (kein Text vorhanden)
+- TOP 21.: Mitteilungen
+- TOP 21.1: Schreiben des erzbischöflichen St.-Ursula-Gymnasiums
+- TOP 21.2: Schreiben der Privaten Realschule des Erzbistums Köln Elisabeth-von Thüringen
+- TOP 22.: Anfragen
+- TOP 22.1: Maßnahmen zum Corona-Virus-Schutz in Sammelunterkünften der Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 09.04.2020
+- TOP 22.2: Kinder in der Notfallbetreuung Bezug: Gemeinsame Anfrage der Fraktionen CDU und Grüne vom 27.04.2020, RAT 27.4.2020
+- TOP 22.3: Antrag zum Haushalt von Ratsmitglied Dr. Heermann;Vorl.-Nr.: 541/2019
+- TOP 22.4: Sachstand Radmasterplan
+- TOP 22.5: Häusliche Gewalt und Kindeswohlgefährdung in Corona-Zeiten
+- TOP 22.6: Digitale Ausstattung der Schulen
+- TOP 22.7: Parkplatz Eisenwerk als Autokino
+- TOP 22.8: Wirtschaftslage
+- TOP 22.9: Kreissparkasse Köln
+- TOP 22.10: Aufstellungsversammlungen der Parteien
+- TOP B): Nichtöffentliche Sitzung
+- TOP 23.: Vergaben
+- TOP 23.1: Neubau "Clemens-August-Forum" Hier: Estricharbeiten - (kein Text vorhanden)
+- TOP 23.2: Lernmittelbeschaffung für das Schuljahr 2018 / 2019 Los 1 und Los 2 (im Auslosungsverfahren) - (kein Text vorhanden)
+- TOP 23.3: Sportplatz Badorf- Sanierung Kunstrasenplatz - (kein Text vorhanden)
+- TOP 23.4: Feuerwehr Brühl 2 Stück Mannschaftstransportwagen - (kein Text vorhanden)
+- TOP 23.5: Theodor-Körner-Straße, 2. BA Ingenieurleistungen - (kein Text vorhanden)
+- TOP 23.6: Clemens-August-Schule: Sanierung des denkmalgeschützten Schulgebäudes Hier: Flur EG und Raum 11 und Werkraum UG Objektplanungsleistungen LPH 5-9 - (kein Text vorhanden)
+- TOP 23.7: Bewegungspfad am Partnerschaftsweg hier: GaLaBau Arbeiten - (kein Text vorhanden)
+- TOP 23.8: Barbara-Schule - Erweiterungsneubau Tragwerksplanung - (kein Text vorhanden)
+- TOP 23.9: Neu- und Umbau Rathaus B Hier: Beschaffung eines motorisierten Metallvorhanges - (kein Text vorhanden)
+- TOP 24.: Vergabe eines Erbbaurechts - (kein Text vorhanden)
+- TOP 25.: Sicherstellung des Stadtverkehrs Brühl: Direktvergabe an eine neue Verkehrsgesellschaft als Tochter der Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 26.: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 27.: Antrag auf zinslose Stundung von Schmutzwassergebühren - (kein Text vorhanden)
+- TOP 28.: Antrag auf zinslose Stundung von Niederschlagswassergebühren - (kein Text vorhanden)
+- TOP 29.: Stundung Grundsteuer - (kein Text vorhanden)
+- TOP 30.: Mitteilungen
+- TOP 30.1: Kommende Sitzungen des Rates und seiner Ausschüsse
+- TOP 30.2: SAE der Stadt Brühl
+- TOP 31.: Anfragen
+- TOP 31.1: Rücksichtnahme I
+- TOP 31.2: Rücksichtnahme II
