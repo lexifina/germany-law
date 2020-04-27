@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-04-27T15:08:00+02:00
+- Ende: 2020-04-27T16:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21756
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21756
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - endgültig abgelehnt
+- TOP 2.1.1: Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln- Porz-Elsdorf - Schulinfrastruktur zeitnah erweitern! (AN/1142/2019) - Kenntnis genommen
+- TOP 2.2: NSDOK: Gebühren für Führungen von Kölner Schülerinnen und Schüler abschaffen - ungeändert beschlossen
+- TOP 2.3: Ansteckungsrisiken bei Wiederaufnahme des Schulbetriebes senken – Maskenpflicht an den Kölner Schulen einführen - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.4: Verleih von digitalen Endgeräten an bedürftige Schülerinnen und Schüler - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2: Beschleunigung der Schulbaumaßnahmen- weitere Projektarten - Kenntnis genommen
+- TOP 3.1.2.1: Beschleunigung der Schulbaumaßnahmen- weitere Projektarten - Beantwortung der Anfrage AN/0248/2020 der Fraktionen - Kenntnis genommen
+- TOP 3.1.3: Trinkwasserbrunnen in Kölner Schulen - dat Wasser vun Kölle is jot! - Kenntnis genommen
+- TOP 3.1.4: KLASSE-Projekt Klima Aktion: Schulen sparen Energie - Kenntnis genommen
+- TOP 3.1.4.1: Anfrage AN/0101/2020 KLASSE-Projekt Klima Aktion Schulen Sparen Energie - Kenntnis genommen
+- TOP 3.1.5: Beantwortung der Anfrage AN/1569/2019 der CDU-Fraktion und der Fraktions Bündnis 90 / Die Grünen zur Überlassung von mobilen Endgeräten für einkommensschwache Schülerinnen und Schüler - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Änderung der Entgelt- und Benutzungsordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 4.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.3: Ersatz eines maroden Schulklassenpavillons an der Katholischen Grundschule Hinter der Kirche 3-5, 51143 Köln (Porz) - Bedarfsanerkennung und Baubeschluss - ungeändert beschlossen
+- TOP 4.4: Einrichtung eines Erweiterungsbaus mit Dreifachturnhalle für die Kaiserin-Theophanu-Schule, Gymnasium, Kantstraße 3, 51103 Köln-Kalk - ungeändert beschlossen
+- TOP 4.5: Erweiterung der Gesamtschule Rodenkirchen, Sürther Straße 191, 50999 Köln – Bau- und Vergabebeschluss - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 5.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 5.3: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 5.4: Aktualisierung des Fertigstellungstermins der Turnhalle an der Overbeckstraße 71 – 73 - Kenntnis genommen
+- TOP 5.5: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 5.6: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.7: Lehrschwimmbecken der GGS Hohe Straße in Porz Ensen - Ergebnis der Prüfung von Interimslösungen - Kenntnis genommen
+- TOP 5.8: Mitteilung über die Beantwortung einer Anfrage zum Verbot der muttersprachlichen Unterhaltung von Schüler*innen während der Pausen in den Kölner Schulen - Kenntnis genommen
+- TOP 5.9: Anfrage AN/0453/2020 der SPD-Fraktion im Rat der Stadt Köln "Soziale Soforthilfen und Kinder- und Jugendhilfe in der Corona-Krise" - Kenntnis genommen
+- TOP 5.10: Schließung und teilweise Wiedereröffnung der Schulen im Rahmen der Corona-Krise – bisherige Maßnahmen, aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion: E-Learning an Schulen - Chancengleichheit sichern
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
