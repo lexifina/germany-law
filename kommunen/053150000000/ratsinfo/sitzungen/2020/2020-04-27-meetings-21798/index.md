@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-04-27T16:00:00+02:00
+- Ende: 2020-04-27T18:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21798
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21798
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Offene Aussprache über die zukünftige Arbeit der BV 1 in Zeiten von Corona, auf Vorschlag H. Hupke
+- TOP 1.2: Informationen zum Projektstatus iResilience – Fokusgruppe Roadmapping Köln-Deutz, TU Bochum - zurückgestellt
+- TOP 1.3: Aktuelle Stunde: Gestaltung Zürich Areal Campus 1 und 2 I IG Neustadt Nord Villenviertel, auf Vorschlag CDU - zurückgestellt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag zu TOP 3.1: Baubeschluss für den Umbau der Kreuzung Luxemburgerstraße Eifelwall - geändert beschlossen
+- TOP 3.2: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zu TOP 3.2: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - geändert beschlossen
+- TOP 3.3: Fortschreibung der Schulentwicklungsplanung Köln 2020 - geändert beschlossen
+- TOP 3.3.1: Änderungsantrag: Fortschreibung der Schulentwicklungsplanung Köln 2020 (0418/2020) - ungeändert beschlossen
+- TOP 3.4: Pilotbeteiligung Quartiersplatz Am Salzmagazin - Alternative beschlossen
+- TOP 3.5: Genehmigung einer Dringlichkeitsentscheidung: Beschluss über die Zustimmung zum Abschluss des städtebaulichen Vertrags zum städtebaulichen Planungskonzept "Laurenz-Carré" in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.6: Genehmigung einer Dringlichkeitsentscheidung: Sanierung Salzgasse - ungeändert beschlossen
+- TOP 3.7: Genehmigung einer Dringlichkeitsentscheidung: Weihnachtsmarkt auf dem Chlodwigplatz 2020 - ungeändert beschlossen
+- TOP 3.8: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO - zurückgestellt
+- TOP 4.2: Bürgereingabe gemäß § 24 GO - Spielplatz Von-Sandt-Platz in Deutz - zurückgestellt
+- TOP 4.3: Öffentliche Toilette auf dem Rathenauplatz - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Countdown Ampel für Zufußgehende - Kreuzung Ubierring/Alteburger Straße - zurückgestellt
+- TOP 5.1.1.1: Änderungsantrag zu AN/1281/2019 Countdown Ampel für Zufußgehende - zurückgestellt
+- TOP 5.1.2: Neuorganisation der Verkehrsführung auf der Schmalbeinstraße - zurückgestellt
+- TOP 5.1.3: Kurzzeitparken in der Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 5.1.4: Haltebucht für Krankentransporte und Taxen vor dem Ärztehaus Ebertplatz 2 - zurückgestellt
+- TOP 5.1.5: Aufstellung einer Wanderbaumallee und des Gogomobils im öffentlichen Verkehrsraum - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Neuregelung der Arbeitszeiten der Verkehrsüberwachung - zurückgestellt
+- TOP 5.2.2: Verbessertes Erscheinungsbild für die Haltestelle Hansaring (Neustadt/Nord) - zurückgestellt
+- TOP 5.2.3: Gefährliche Einmündung Eintrachtstraße/Cordulastraße in der Innenstadt-Nord entschärfen, Antrag CDU - zurückgestellt
+- TOP 5.2.4: Verabschiedung einer Stellplatzsatzung durch den Rat gem. § 89 Abs. 1 Nr. 4 BauO NRW - zurückgestellt
+- TOP 5.2.5: Kiss & Go Zone vor Grundschulen, Antrag CDU - zurückgestellt
+- TOP 5.2.6: Aufwertung der Mittelallee in der Sudermannstraße (Neustadt/Nord) - zurückgestellt
+- TOP 5.2.7: Parken auf dem Platz Apostelnkloster - zurückgestellt
+- TOP 5.2.8: Keine Ruine in der City: Parkhausgrundstück Auf dem Hunnenrücken/Enggasse/Tunisstraße muss entwickelt werden (Altstadt/Nord), Antrag SPD - zurückgestellt
+- TOP 5.2.9: Radspur auf der Komödienstraße, - zurückgestellt
+- TOP 5.2.10: Flächen für Außengastronomie in Corona-Zeiten - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.6: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 6.1.7: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 6.1.8: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 6.1.9: Leerstand Geschäftsflächen in der Innenstadt - zurückgestellt
+- TOP 6.1.10: Leerstände Weyerstraße 49 und 51 (Altstadt/Süd)
+- TOP 6.1.10.1: Leerstände in der Weyerstraße
+- TOP 6.1.11: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf Alleestreifen und Fahrbahn - zurückgestellt
+- TOP 6.1.12: Nutzung Gebäude Oberfinanzdirektion - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Leerstand Agrippinaufer
+- TOP 6.2.1.1: Leerstand Agrippinaufer
+- TOP 6.2.2: Öffentliche Stationen / Ladesäulen in der Innenstadt
+- TOP 6.2.2.1: Öffentliche Ladestationen in der Innenstadt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Baustellenmanagement in Coronazeiten- Einhaltung von Abständen
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Bau einer provisorischen Fuß- und Radwegerampe an der linksrheinischen unterstromigen Seite der Hohenzollernbrücke und Planung einer dauerhaften Rampe am Rheinufer
+- TOP 9.2: Jugendbefragung und dann… - Erste Bilanzierung
+- TOP 9.3: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Innenstadt
+- TOP 9.4: Ergebnis eines Prüfauftrages zu 0270/2020 Bürgereingabe nach § 24 GO - "Errichtung eines Erweiterungsbaus Gymnasium Alte Wallgasse"
+- TOP 9.5: Evalution Kölner Ringe
+- TOP 9.6: Anfrage der Fraktion DIE LINKE betreffend "Ehemaliger Zurich-Campus"
+- TOP 9.7: Umsetzungsstand Radverkehrsführung an den Kölner Ringen
+- TOP 9.8: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen
+- TOP 9.9: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019
+- TOP 9.10: Stellungnahme zu einem Antrag nach § 3 der Geschäftsordnung des Rates der Bezirksvertretung 1 (Innenstadt) - AN/0071/2020
+- TOP 9.11: Mainzer Straße
+- TOP 9.12: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“
+- TOP 9.13: Handlungskonzept Trockenheitsphasen
+- TOP 9.14: Baumpflanzungen August Sander Park
+- TOP 9.15: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen
