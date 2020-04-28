@@ -1,0 +1,64 @@
+# 55. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-04-28T16:03:00+02:00
+- Ende: 2020-04-28T18:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21702
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21702
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand 27.04.2020) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00768604.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand 27.04.2020) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00768604.pdf
+- Wortprotokoll: Tagesordnung (Stand 27.04.2020) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00768604.pdf
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht der KVB AG zu den Maßnahmen und Auswirkungen während der Corona-Pandemie - Kenntnis genommen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 3.1.1: "Verbindung des Grüngürtels schaffen" – Änderungsantrag zu Top 3.2 „Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall“ - endgültig abgelehnt
+- TOP 3.1.2: Hier: Umbau der Kreuzung Luxemburger Straße / Eifelwall DSNR.4397/2019 - ungeändert beschlossen
+- TOP 3.2: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zu Vorlage 0473/2020 – Einrichtung eines Radfahrstreifens auf der Aachener Straße - endgültig abgelehnt
+- TOP 3.2.2: Hier: 3.2Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt0473/2020 - ungeändert beschlossen
+- TOP 3.3: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - Sache ist erledigt
+- TOP 3.3.1: Änderungsantrag zu TOP 3.3 - Umgestaltung Amsterdamer Straße / Xantener Straße - Sache ist erledigt
+- TOP 3.4: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellungsbeschluss und Vergabe eines Gutachtens zur Standortfindung von 10 weiteren Variotafeln - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Stellplatzsatzung für Köln - im ersten Durchgang verwiesen
+- TOP 4.1.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - im ersten Durchgang verwiesen
+- TOP 4.2: 274. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.3: Erneuerung der Eisenbahnüberführungen Innere Kanalstraße (S-Bahnbrücke) in Köln-Ehrenfeld - ungeändert empfohlen
+- TOP 4.4: Übertragung der Federführung für die Stadtbahnanbindung von Mülheim über Stammheim bis Flittard an die Kölner Verkehrs-Betriebe AG - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Photovoltaikanlagen auf P+R-Parkanlagen - Sache ist erledigt
+- TOP 5.2.2: Lastenradförderung fortsetzen - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Freihaltetrassen und möglicher Vorlaufbetrieb - Sache ist erledigt
+- TOP 6.2: Busspur Innere Kanalstraße - zurückgestellt
+- TOP 6.3: Anfrage gem. § 4 der Geschäftsordnung, Parken auf Behindertenparkplätzen - Sache ist erledigt
+- TOP 6.4: Gummersbacher Straße - Umsetzung der Beschlusslage - Sache ist erledigt
+- TOP 6.5: Rechtswidrige Tempolimits in Köln? - Sache ist erledigt
+- TOP 6.6: Welche Ideen hat die Verwaltung, um die Situation am Chlodwigplatz zu verbessern ? - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 7.2.2: Kooperation Köln und rechtsrheinische Nachbarn (K&RN): Stadt Köln übernimmt Konsortialführung für zwei Jahre - Kenntnis genommen
+- TOP 7.2.3: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regio-nalplan veröffentlicht - Kenntnis genommen
+- TOP 7.2.4: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 7.2.5: StVO-Novelle - Kenntnis genommen
+- TOP 7.2.6: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 7.2.7: Information zum Sachstand Lastenradförderung 2019 - zurückgestellt
+- TOP 7.2.8: Kölner Verkehrs-Betriebe AG (KVB): Nachprüfungsverfahren gegen die Vergabe eines öffentlichen Dienstleistungsauftrags an die KVB über die Erbringung öffentlicher Personenverkehrsdienste (Vorlagen-Nr. 4240/2018) - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sachstand zur Leverkusener Brücke - Sache ist erledigt
+- TOP 8.2: Verlängerung der Westumgehung Kalk nach Norden - Sache ist erledigt
