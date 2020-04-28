@@ -1,1 +1,1 @@
-# Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Bremischen Behindertengleichstellungsgesetz (Bremische Kommunikationshilfenverordnung - BremKHV) vom 27. September 2005
+# Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Bremischen Behindertengleichstellungsgesetz (Bremische Kommunikationshilfenverordnung - BremKHV) vom 14. April 2020
