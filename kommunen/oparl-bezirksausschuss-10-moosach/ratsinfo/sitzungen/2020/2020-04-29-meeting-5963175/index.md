@@ -1,0 +1,59 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-04-29T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5963175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5963175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Freigabe Protokoll Sitzung am 10.02.2020
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule, Kultur und Budget
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 4.1.1.: Bedarfs-Ampel Feldmochinger Straße/ Höhe Hardenbergstraße und Quedlinburger Straße auch am Wochenende aktivieren
+- TOP 4.1.2.: Berücksichtigung der Vorschläge des BA 10 für einen künftigen Standort eines Bürgerbüros in Moosach
+- TOP 4.1.3.: Vorstellung der Pläne zur Sanierung und künftigen Nutzung des denkmalgeschützten Gebäudes an der Feldmochinger/Pelkovenstraße (ehem. "Spieglwirt")
+- TOP 4.1.4.: Den Spielraum der Baumschutzverordnung ausschöpfen und angemessene Ersatzpflanzungen einfordern!
+- TOP 4.1.5.: Wiederherstellung von Baumgräben
+- TOP 4.2.1.: Erneuerung Kennzeichnung Behindertenparkplatz gegenüber Haus Ehrenbreitsteiner Str. 5
+- TOP 4.3.1.: In Zeiten aktueller Ausgangsbeschränkungen sollen Grünanlagen und öffentliche Flächen häufiger gesäubert werden
+- TOP 4.3.2.: Vernetzung und gebündelte Präsentation der vielfältigen Hilfsangebote des Stadtviertels während der derzeitigen Corona-Pandemie
+- TOP 4.4.1.: Anfrage: Einfluss zukünftiger Entwicklungen des Bahnverkehrs auf Moosacher Bürger und den Rangierbahnhof
+- TOP 5.1.: (E) Stadtbezirksbudget Mittelschule München Moosach Unterstützung des freiwilligen Praktikums vom 03.02. - 07.02.2020 994,- €; Az. 0262.0-10-0209
+- TOP 5.2.: (E) Stadtbezirksbudget REGSAM e.V. 22. Moosacher Stadtteilkulturtage vom 26.06. - 05.07.2020 1.650,00 € / Az. 0262.0-10-0215
+- TOP 5.3.: (E) Stadtbezirksbudget GermaNTRAK - NTRAK German Division e.V. Jubiläums-Ausstellung zum 20-jährigen Bestehen vom 24.-26.04.2020 399,00 € / Az. 0262.0-10-0214
+- TOP 5.4.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Zirkus Pumpernudl vom 07.-09.08.2020 und Artmobil vom 05.-07.09.2020 2.887,00 € / Az. 0262.0-10-0217
+- TOP 5.5.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Zirkus Pumpernudl und Artmobil in 2021 2.887,00 € / Az. 0262.0-10-0218
+- TOP 5.6.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Einrichtung neuer Räume vom 24.02. - 20.03.2020 6.381,25 € / Az. 0262.0-10-0213
+- TOP 5.7.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Eröffnungsfest am 28.05.2020 593,00 € / Az. 0262.0-10-0211
+- TOP 5.8.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Werbungskosten vom 15.04. - 30.08.2020 350,00 € / Az. 0262.0-10-0212
+- TOP 5.9.: (E) Stadtbezirksbudget Initiative Digitaltraining "Dieselstraße" Digitaltraining 3. Klasse vom 30.06. - 17.07.2020 949,40 € / Az. 0262.0-10-0219
+- TOP 5.10.: (E) Stadtbezirksbudget Initiative „LILLYS BUS“ Theater „LILLYS BUS“ vom 13. - 16.06.2020 1.633,09 €; Az.0262.0-10-0210
+- TOP 5.11.: Stadtbezirksbudget - Nachträgliche Erhöhung des Zuschussbetrages: Förderverein der Mittelschule München Moosach "Ausbildung von Streitschlichter*innen" (-> TOP 5.2 , Sitzung am 18.11.2019)
+- TOP 5.12.: Stadtbezirksbudget - Nachträgliche Erhöhung des Zuschussbetrages: Moosacher Faschingsclub - München e.V. "Naturwissenschaftliche Show" (-> TOP 5.4, Sitzung am 16.09.2019)
+- TOP 5.13.: (E) Stadtbezirksbudget Pflegezentrum Moosach Senioren besuchen Museen vom 26.02. - 27.11.2020 2025,00 Euro, Az.: 0262.0-10-0208
+- TOP 5.14.: (E) Stadtbezirksbudget Initiative „Auf die Straße“ Auf die Straße von 09.03. - 06.07.2020 2.650,00 €; Az. 0262.0-10-0205
+- TOP 5.15.: (E) Verbesserung der Parksituation rund um die Siegmund-Schacky-Straße (Kurzzeitparkplätze und Anwohnerparklizenzen) (Ziffer 8 des Antrages)
+- TOP 5.16.: (E) Pelkovenstraße: a) Anordnung Tempo30-Zone mit Vorfahrt "rechts vor links" und b) Schaffung eines sicheren Radweges in der Pelkovenstraße
+- TOP 6.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2019 bis 2023
+- TOP 6.2.: Leistungsprogramm 2021
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4.: Anträge
