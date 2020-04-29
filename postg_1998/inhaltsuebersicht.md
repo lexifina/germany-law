@@ -74,6 +74,7 @@
 | Abschnitt 11 |
 |  | Bußgeldvorschriften |
 | § 49 | Bußgeldvorschriften |
+| § 50 |  | (weggefallen) |
 | Abschnitt 12 |
 |  | Übergangsvorschriften |
 | § 51 | Befristete gesetzliche Exklusivlizenz |
