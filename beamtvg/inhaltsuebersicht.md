@@ -160,5 +160,5 @@
 | § 107b | Verteilung der Versorgungslasten |
 | § 107c | Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem in Artikel 3 des Einigungsvertrages genannten Gebiet |
 | § 107d | Befristete Ausnahme für Verwendungseinkommen |
-| § 108 | (weggefallen) |
+| § 108 | Anwendungsbereich in den Ländern |
 | § 109 | (Inkrafttreten) |

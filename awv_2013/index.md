@@ -214,4 +214,4 @@
 - [Anlage 16 Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“](anlage-16.md)
 - [Anlage 17 Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“](anlage-17.md)
 - [Anlage 18 Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“](anlage-18.md)
-- [Anlage 19 Anlage LV „Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz“](anlage-19.md)
+- [Anlage 19 Anlage LV zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz](anlage-19.md)

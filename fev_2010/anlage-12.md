@@ -24,7 +24,7 @@ A. Schwerwiegende Zuwiderhandlungen
   | das Überholen | (§ 5, Anlage 2 zu § 41 Absatz 1) |
   | die Vorfahrt | (§ 8 Absatz 2, Anlage 2 zu § 41 Absatz 2) |
   | das Abbiegen, Wenden und Rückwärtsfahren | (§ 9) |
-  | die Pflichten des Fahrzeugführers bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße in Bezug auf das Bilden einer vorschriftsmäßigen Gasse | (§ 11 Absatz 2) |
+  | die Pflichten des Fahrzeugführers bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße in Bezug auf das Bilden einer vorschriftsmäßigen Gasse sowie in Bezug auf das unberechtigte Nutzen einer freien Gasse | (§ 11 Absatz 2) |
   | die Benutzung von Autobahnen und Kraftfahrstraßen | (§ 2 Absatz 1, § 18 Absatz 2 bis 5, Absatz 7, Anlage 3 zu § 42 Absatz 2) |
   | das Verhalten an Bahnübergängen | (§ 19 Absatz 1 und 2, Anlage 1 zu § 40 Absatz 7, Anlage 2 zu § 41 Absatz 1) |
   | das Verhalten an öffentlichen Verkehrsmitteln und Schulbussen | (§ 20 Absatz 2, 3 und 4, Anlage 2 zu § 41 Absatz 1) |

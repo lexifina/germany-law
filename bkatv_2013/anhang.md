@@ -12,8 +12,8 @@ a) Kraftfahrzeuge der in § 3 Absatz 3 Nummer 2 Buchstaben a oder b StVO genannt
   | geschlossener Ortschaften | geschlossener Ortschaften |
   | 11.1.3 | bis 15 für mehr als 5 Minuten Dauer oder in mehr als zwei Fällen nach Fahrtantritt | 80 | 70 | – | – |
   | 11.1.4 | 16 – 20 | 80 | 70 | – | – |
-  | 11.1.5 | 21 – 25 | 95 | 80 | – | – |
-  | 11.1.6 | 26 – 30 | 140 | 95 | 1 Monat | – |
+  | 11.1.5 | 21 – 25 | 95 | 80 | 1 Monat | – |
+  | 11.1.6 | 26 – 30 | 140 | 95 | 1 Monat | 1 Monat |
   | 11.1.7 | 31 – 40 | 200 | 160 | 1 Monat | 1 Monat |
   | 11.1.8 | 41 – 50 | 280 | 240 | 2 Monate | 1 Monat |
   | 11.1.9 | 51 – 60 | 480 | 440 | 3 Monate | 2 Monate |
@@ -40,16 +40,16 @@ c) andere als die in Buchstaben a oder b genannten Kraftfahrzeuge
   | Lfd. Nr. | Überschreitung in km/h | Regelsatz in Euro bei Begehung |
   | innerhalb | außerhalb |
   | geschlossener Ortschaften |
-  | 11.3.1 | bis 10 | 15 | 10 |
-  | 11.3.2 | 11 – 15 | 25 | 20 |
-  | 11.3.3 | 16 – 20 | 35 | 30 |
+  | 11.3.1 | bis 10 | 30 | 20 |
+  | 11.3.2 | 11 – 15 | 50 | 40 |
+  | 11.3.3 | 16 – 20 | 70 | 60 |
   Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.3 der Anlage.
   | Lfd. Nr. | Überschreitung in km/h | Regelsatz in Euro bei Begehung | Fahrverbot in Monaten bei Begehung |
   | innerhalb | außerhalb | innerhalb | außerhalb |
   | geschlossener Ortschaften | geschlossener Ortschaften |
-  | 11.3.4 | 21 – 25 | 80 | 70 | – | – |
-  | 11.3.5 | 26 – 30 | 100 | 80 | – | – |
-  | 11.3.6 | 31 – 40 | 160 | 120 | 1 Monat | – |
+  | 11.3.4 | 21 – 25 | 80 | 70 | 1 Monat | – |
+  | 11.3.5 | 26 – 30 | 100 | 80 | 1 Monat | 1 Monat |
+  | 11.3.6 | 31 – 40 | 160 | 120 | 1 Monat | 1 Monat |
   | 11.3.7 | 41 – 50 | 200 | 160 | 1 Monat | 1 Monat |
   | 11.3.8 | 51 – 60 | 280 | 240 | 2 Monate | 1 Monat |
   | 11.3.9 | 61 – 70 | 480 | 440 | 3 Monate | 2 Monate |

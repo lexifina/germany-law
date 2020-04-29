@@ -212,14 +212,14 @@ Stelle
 - [§ 98 Satzung](0098.md)
 - [§ 99 Personal](0099.md)
 - [§ 100 Aufsicht über das Bundesinstitut für Berufsbildung](0100.md)
-- [§ 101 Bußgeldvorschriften](0101.md)
 
 ## Teil 6 Bußgeldvorschriften
 
-- [§ 102 Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit](0102.md)
+- [§ 101 Bußgeldvorschriften](0101.md)
 
 ## Teil 7 Übergangs- und Schlussvorschriften
 
+- [§ 102 Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit](0102.md)
 - [§ 103 Fortgeltung bestehender Regelungen](0103.md)
 - [§ 104 Übertragung von Zuständigkeiten](0104.md)
 - [§ 105 Evaluation](0105.md)

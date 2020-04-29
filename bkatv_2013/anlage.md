@@ -13,10 +13,10 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 1.4 |  | einen Anderen geschädigt, soweit im Folgenden nichts anderes bestimmt ist |  | 35 € |
 | 1.5 | Beim Fahren in eine oder aus einer Parklücke stehendes Fahrzeug beschädigt | § 1 Absatz 2 § 49 Absatz 1 Nummer 1 | 30 € |
 |  | Straßenbenutzung durch Fahrzeuge |  |  |
-| 2 | Vorschriftswidrig Gehweg, linksseitig angelegten Radweg, Seitenstreifen (außer auf Autobahnen oder Kraftfahrstraßen), Verkehrsinsel oder Grünanlage benutzt | § 2 Absatz 1 § 49 Absatz 1 Nummer 2 | 10 € |
-| 2.1 |  | – mit Behinderung | § 2 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 2 | 15 € |
-| 2.2 |  | – mit Gefährdung |  | 20 € |
-| 2.3 |  | – mit Sachbeschädigung |  | 25 € |
+| 2 | Vorschriftswidrig Gehweg, linksseitig angelegten Radweg, Seitenstreifen (außer auf Autobahnen oder Kraftfahrstraßen), Verkehrsinsel oder Grünanlage benutzt | § 2 Absatz 1 § 49 Absatz 1 Nummer 2 | 55 € |
+| 2.1 |  | – mit Behinderung | § 2 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 2 | 70 € |
+| 2.2 |  | – mit Gefährdung |  | 80 € |
+| 2.3 |  | – mit Sachbeschädigung |  | 100 € |
 | 3 | Gegen das Rechtsfahrgebot verstoßen durch Nichtbenutzen |  |  |
 | 3.1 |  | der rechten Fahrbahnseite | § 2 Absatz 2 § 49 Absatz 1 Nummer 2 | 15 € |
 | 3.1.1 |  | – mit Behinderung | § 2 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 2 | 25 € |
@@ -57,8 +57,8 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 9.2 |  | um mehr als 15 km/h mit kennzeichnungspflichtigen Kraftfahrzeugen der in Nummer 9.1 genannten Art mit gefährlichen Gütern oder Kraftomnibussen mit Fahrgästen |  | Tabelle 1 Buchstabe b |
 | 9.3 |  | um mehr als 25 km/h innerorts oder 30 km/h außerorts mit anderen als den in Nummer 9.1 oder 9.2 genannten Kraftfahrzeugen |  | Tabelle 1 Buchstabe c |
 | 10 | Beim Führen eines Fahrzeugs ein Kind, einen Hilfsbedürftigen oder älteren Menschen gefährdet, insbesondere durch nicht ausreichend verminderte Geschwindigkeit, mangelnde Bremsbereitschaft oder unzureichenden Seitenabstand beim Vorbeifahren oder Überholen | § 3 Absatz 2a § 49 Absatz 1 Nummer 3 | 80 € |
-| 11 | Zulässige Höchstgeschwindigkeit überschritten mit | § 3 Absatz 3 Satz 1, Absatz 4 § 49 Absatz 1 Nummer 3 § 18 Absatz 5 Satz 2 § 49 Absatz 1 Nummer 18 § 20 Absatz 2 Satz 1, Absatz 4 Satz 1, 2 § 49 Absatz 1 Nummer 19 Buchstabe b § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17 (Zeichen 237, 238) Spalte 3 Nummer 3, lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 2, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 3, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 4, lfd. Nr. 21 (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt) Spalte 3 Nummer 2 oder lfd. Nr. 23 (Zeichen 244.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt) Spalte 3 Nummer 2, |  |
-|  |  | lfd. Nr. 49 (Zeichen 274), lfd. Nr. 50 (Zeichen 274.1, 274.2) § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 12 (Zeichen 325.1, 325.2) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 5 |  |
+| 11 | Zulässige Höchstgeschwindigkeit überschritten mit |  |  |
+|  |  | § 3 Absatz 3 Satz 1, Absatz 4 § 49 Absatz 1 Nummer 3 § 18 Absatz 5 Satz 2 § 49 Absatz 1 Nummer 18 § 20 Absatz 2 Satz 1, Absatz 4 Satz 1, 2 § 49 Absatz 1 Nummer 19 Buchstabe b § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17 (Zeichen 237, 238) Spalte 3 Nummer 3, lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 2, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 3, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 4, lfd. Nr. 21 (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt)Spalte 3 Nummer 2, lfd. Nr. 23 (Zeichen 244.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt) Spalte 3 Nummer 2, lfd. Nr. 24.1 (Zeichen 244.3 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt) Spalte 3 Nummer 2, lfd. Nr. 49 (Zeichen 274), lfd. Nr. 50 (Zeichen 274.1, 274.2) § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 12 (Zeichen 325.1) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 5 |  |
 | 11.1 |  | Kraftfahrzeugen der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art |  | Tabelle 1 Buchstabe a |
 | 11.2 |  | kennzeichnungspflichtigen Kraftfahrzeugen der in Nummer 11.1 genannten Art mit gefährlichen Gütern oder Kraftomnibussen mit Fahrgästen |  | Tabelle 1 Buchstabe b |
 | 11.3 |  | anderen als den in Nummer 11.1 oder 11.2 genannten Kraftfahrzeugen |  | Tabelle 1 Buchstabe c |
@@ -82,18 +82,18 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 17 | Außerhalb geschlossener Ortschaften rechts überholt | § 5 Absatz 1 § 49 Absatz 1 Nummer 5 | 100 € |
 | 18 | Mit nicht wesentlich höherer Geschwindigkeit als der zu Überholende überholt | § 5 Absatz 2 Satz 2 § 49 Absatz 1 Nummer 5 | 80 € |
 | 19 | Überholt, obwohl nicht übersehen werden konnte, dass während des ganzen Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war, oder bei unklarer Verkehrslage | § 5 Absatz 2 Satz 1, Absatz 3 Nummer 1 § 49 Absatz 1 Nummer 5 | 100 € |
-| 19.1 |  | und dabei ein Überholverbot (§ 19 Absatz 1 Satz 3 StVO, Zeichen 276, 277) nicht beachtet oder Fahrstreifenbegrenzung (Zeichen 295, 296) überquert oder überfahren oder der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) nicht gefolgt | § 5 Absatz 2 Satz 1, Absatz 3 Nummer 1 § 19 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 5, 19a § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53 und 54 und lfd. Nr. 53 und 54 (Zeichen 276, 277) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 | 150 € |
-| 19.1.1 |  | – mit Gefährdung | § 5 Absatz 2 Satz 1, Absatz 3 Nummer 1 § 19 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 5, 19a § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53 und 54 und lfd. Nr. 53 und 54 (Zeichen 276, 277) Spalte 3,lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1 | 250 €Fahrverbot 1 Monat |
+| 19.1 |  | und dabei ein Überholverbot (§ 19 Absatz 1 Satz 3 StVO, Zeichen 276, 277, 277.1) nicht beachtet oder Fahrstreifenbegrenzung (Zeichen 295, 296) überquert oder überfahren oder der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) nicht gefolgt | § 5 Absatz 2 Satz 1, Absatz 3 Nummer 1 § 19 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 5, 19a § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 | 150 € |
+| 19.1.1 |  | – mit Gefährdung | § 5 Absatz 2 Satz 1, Absatz 3 Nummer 1 § 19 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 5, 19a § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1 | 250 €Fahrverbot 1 Monat |
 | 19.1.2 |  | – mit Sachbeschädigung |  | 300 €Fahrverbot 1 Monat |
 | (20) | (aufgehoben) |  |  |
 | 21 | Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 7,5 t überholt, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug | § 5 Absatz 3a § 49 Absatz 1 Nummer 5 | 120 € |
 | 21.1 |  | – mit Gefährdung | § 5 Absatz 3a § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 5 | 200 €Fahrverbot 1 Monat |
 | 21.2 |  | – mit Sachbeschädigung |  | 240 €Fahrverbot 1 Monat |
 | 22 | Zum Überholen ausgeschert und dadurch nachfolgenden Verkehr gefährdet | § 5 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 5 | 80 € |
-| 23 | Beim Überholen ausreichenden Seitenabstand zu anderen Verkehrsteilnehmern nicht eingehalten | § 5 Absatz 4 Satz 2 § 49 Absatz 1 Nummer 5 | 30 € |
-| 23.1 |  | – mit Sachbeschädigung | § 5 Absatz 4 Satz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 5 | 35 € |
-| 24 | Nach dem Überholen nicht so bald wie möglich wieder nach rechts eingeordnet | § 5 Absatz 4 Satz 3 § 49 Absatz 1 Nummer 5 | 10 € |
-| 25 | Nach dem Überholen beim Einordnen, denjenigen, der überholt wurde, behindert | § 5 Absatz 4 Satz 4 § 49 Absatz 1 Nummer 5 | 20 € |
+| 23 | Beim Überholen ausreichenden Seitenabstand zu anderen Verkehrsteilnehmern nicht eingehalten | § 5 Absatz 4 Satz 2, 3 § 49 Absatz 1 Nummer 5 | 30 € |
+| 23.1 |  | – mit Sachbeschädigung | § 5 Absatz 4 Satz 2, 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 5 | 35 € |
+| 24 | Nach dem Überholen nicht so bald wie möglich wieder nach rechts eingeordnet | § 5 Absatz 4 Satz 5 § 49 Absatz 1 Nummer 5 | 10 € |
+| 25 | Nach dem Überholen beim Einordnen, denjenigen, der überholt wurde, behindert | § 5 Absatz 4 Satz 6 § 49 Absatz 1 Nummer 5 | 20 € |
 | 26 | Beim Überholtwerden Geschwindigkeit erhöht | § 5 Absatz 6 Satz 1 § 49 Absatz 1 Nummer 5 | 30 € |
 | 27 | Ein langsameres Fahrzeug geführt und die Geschwindigkeit nicht ermäßigt oder nicht gewartet, um mehreren unmittelbar folgenden Fahrzeugen das Überholen zu ermöglichen | § 5 Absatz 6 Satz 2 § 49 Absatz 1 Nummer 5 | 10 € |
 | 28 | Vorschriftswidrig links überholt, obwohl der Fahrer des vorausfahrenden Fahrzeugs die Absicht, nach links abzubiegen, angekündigt und sich eingeordnet hatte | § 5 Absatz 7 Satz 1 § 49 Absatz 1 Nummer 5 | 25 € |
@@ -125,15 +125,15 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 38.1 |  | – mit Behinderung | § 9 Absatz 2 Satz 2, 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 20 € |
 | 38.2 |  | – mit Gefährdung |  | 25 € |
 | 38.3 |  | – mit Sachbeschädigung |  | 30 € |
-| 39 | Abgebogen, ohne Fahrzeug durchfahren zu lassen | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 49 Absatz 1 Nummer 9 | 20 € |
-| 39.1 |  | – mit Gefährdung | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 70 € |
+| 39 | Abgebogen, ohne Fahrzeug durchfahren zu lassen | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 49 Absatz 1 Nummer 9 | 40 € |
+| 39.1 |  | – mit Gefährdung | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 € |
 | (40) | (aufgehoben) |  |  |
-| 41 | Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen und diese dadurch gefährdet | § 9 Absatz 3 Satz 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 70 € |
+| 41 | Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen und diese dadurch gefährdet | § 9 Absatz 3 Satz 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 € |
 | 42 | Beim Linksabbiegen nicht voreinander abgebogen | § 9 Absatz 4 Satz 2 § 49 Absatz 1 Nummer 9 | 10 € |
 | 42.1 |  | – mit Gefährdung | § 9 Absatz 4 Satz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 70 € |
 | (43) | (aufgehoben) |  |  |
 | 44 | Beim Abbiegen in ein Grundstück, beim Wenden oder Rückwärtsfahren einen anderen Verkehrsteilnehmer gefährdet | § 9 Absatz 5 § 49 Absatz 1 Nummer 9 | 80 € |
-| (45) | (aufgehoben) |  |  |
+| 45 | Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t innerorts beim Rechtsabbiegen nicht mit Schrittgeschwindigkeit gefahren | § 9 Absatz 6 § 49 Absatz 1 Nummer 9 | 70 € |
 | (46) | (aufgehoben) |  |  |
 |  | Einfahren und Anfahren |  |  |
 | 47 | Aus einem Grundstück, einem Fußgängerbereich (Zeichen 242.1, 242.2), einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) auf die Straße oder von einem anderen Straßenteil oder über einen abgesenkten Bordstein hinweg auf die Fahrbahn eingefahren oder vom Fahrbahnrand angefahren und dadurch einen anderen Verkehrsteilnehmer gefährdet | § 10 Satz 1 § 49 Absatz 1 Nummer 10 | 30 € |
@@ -141,66 +141,91 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | (48) | (aufgehoben) |  |  |
 |  | Besondere Verkehrslagen |  |  |
 | 49 | Trotz stockenden Verkehrs in eine Kreuzung oder Einmündung eingefahren und dadurch einen Anderen behindert | § 11 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 11 | 20 € |
-| 50 | Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet | § 11 Absatz 2 § 49 Absatz 1 Nummer 11 | 200 € |
-| 50.1 |  | – mit Behinderung | § 11 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 11 | 240 €Fahrverbot 1 Monat |
+| 50 | Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet | § 11 Absatz 2 § 49 Absatz 1 Nummer 11 | 200 €Fahrverbot 1 Monat |
+| 50.1 |  | – mit Behinderung | § 11 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 11 | 240 €Fahrverbot 1 Monat |
 | 50.2 |  | – mit Gefährdung |  | 280 €Fahrverbot 1 Monat |
 | 50.3 |  | – mit Sachbeschädigung |  | 320 €Fahrverbot 1 Monat |
+| 50a | Unberechtigt mit einem Fahrzeug auf einer Autobahn oder Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei- oder Hilfsfahrzeugen benutzt | § 11 Absatz 2 § 49 Absatz 1 Nummer 11 | 240 €Fahrverbot 1 Monat |
+| 50a.1 |  | – mit Behinderung | § 11 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 11 | 280 €Fahrverbot 1 Monat |
+| 50a.2 |  | – mit Gefährdung |  | 300 €Fahrverbot 1 Monat |
+| 50a.3 |  | – mit Sachbeschädigung |  | 320 €Fahrverbot 1 Monat |
 |  | Halten und Parken |  |  |
-| 51 | Unzulässig gehalten | § 12 Absatz 1 § 49 Absatz 1 Nummer 12 § 37 Absatz 1 Satz 2, Absatz 5 § 49 Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70 (Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 10 € |
-| 51.1 |  | – mit Behinderung | § 12 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1,12 § 37 Absatz 1 Satz 2, Absatz 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70 (Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 15 € |
-| 51a |  | Unzulässig in „zweiter Reihe“ gehalten | § 12 Absatz 4 Satz 1, 2 Halbsatz 2 § 49 Absatz 1 Nummer 12 | 15 € |
-| 51a.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, 2 Halbsatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 20 € |
-| 51b | An einer engen oder unübersichtlichen Straßenstelle oder im Bereich einer scharfen Kurve geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 1 Nummer 1, 2 § 49 Absatz 1 Nummer 12 | 15 € |
-| 51b.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 25 € |
-| 51b.2 |  | länger als 1 Stunde | § 12 Absatz 1 Nummer 1, 2 § 49 Absatz 1 Nummer 12 | 25 € |
-| 51b.2.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 35 € |
-| 51b.3 |  | wenn ein Rettungsfahrzeug im Einsatz behindert worden ist | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 60 € |
-| 52 | Unzulässig geparkt (§ 12 Absatz 2 StVO) in den Fällen, in denen das Halten verboten ist | § 12 Absatz 1 Nummer 3, 4 § 49 Absatz 1 Nummer 12 § 37 Absatz 1 Satz 2, Absatz 5 § 49 Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, | 15 € |
+| 51 | Unzulässig gehalten | § 12 Absatz 1 § 49 Absatz 1 Nummer 12 § 37 Absatz 1 Satz 2, Absatz 5 § 49 Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70 (Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 20 € |
+| 51.1 |  | – mit Behinderung | § 12 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1,12 § 37 Absatz 1 Satz 2, Absatz 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70 (Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
+| 51a |  | Unzulässig in „zweiter Reihe“ gehalten | § 12 Absatz 4 Satz 1, 2 Halbsatz 2 § 49 Absatz 1 Nummer 12 | 55 € |
+| 51a.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, 2 Halbsatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 70 € |
+| 51a.2 |  | – mit Gefährdung |  | 80 € |
+| 51a.3 |  | – mit Sachbeschädigung |  | 100 € |
+| 51b | An einer engen oder unübersichtlichen Straßenstelle oder im Bereich einer scharfen Kurve geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 1 Nummer 1, 2 § 49 Absatz 1 Nummer 12 | 35 € |
+| 51b.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 55 € |
+| 51b.2 |  | länger als 1 Stunde | § 12 Absatz 1 Nummer 1, 2 § 49 Absatz 1 Nummer 12 | 55 € |
+| 51b.2.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 55 € |
+| 51b.3 |  | wenn ein Rettungsfahrzeug im Einsatz behindert worden ist | § 12 Absatz 1 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 100 € |
+| 52 | Unzulässig geparkt (§ 12 Absatz 2 StVO) in den Fällen, in denen das Halten verboten ist | § 12 Absatz 1 Nummer 3, 4 § 49 Absatz 1 Nummer 12 § 37 Absatz 1 Satz 2, Absatz 5 § 49 Absatz 3 Nummer 2 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, | 25 € |
 |  |  | lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70 (Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 |  |
-| 52.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 3, 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 25 € |
-| 52.2 |  | länger als 1 Stunde | § 12 Absatz 1 Nummer 3, 4 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, | 25 € |
+| 52.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 3, 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 40 € |
+| 52.2 |  | länger als 1 Stunde | § 12 Absatz 1 Nummer 3, 4 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, | 40 € |
 |  |  |  | lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 |  |
-| 52.2.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 3, 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
-| 52a | Unzulässig auf Geh- und Radwegen geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 1, Absatz 4a § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 20 € |
-| 52a.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, Absatz 4a § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 30 € |
-| 52a.2 |  | länger als 1 Stunde | § 12 Absatz 4 Satz 1, Absatz 4a § 49 Absatz 1 Nummer 12 | 30 € |
+| 52.2.1 |  | – mit Behinderung | § 12 Absatz 1 Nummer 3, 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1, 2, 3 (Zeichen 201, 205, 206) Spalte 3 Nummer 2, lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 3, lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1, lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2, lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1) Spalte 3 Nummer 1, lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 50 € |
+| 52a | Unzulässig auf Geh- und Radwegen geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 1, Absatz 4a § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 55 € |
+| 52a.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, Absatz 4a § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 70 € |
+| 52a.2 |  | länger als 1 Stunde | § 12 Absatz 4 Satz 1, Absatz 4a § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 70 € |
 |  |  | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 |  |
-| 52a.2.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, Absatz 4a § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
-| 53 | Vor oder in amtlich gekennzeichneten Feuerwehrzufahrten geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 1 Nummer 5 § 49 Absatz 1 Nummer 12 | 35 € |
-| 53.1 |  | und dadurch ein Rettungsfahrzeug im Einsatz behindert | § 12 Absatz 1 Nummer 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 65 € |
-| 54 | Unzulässig geparkt (§ 12 Absatz 2 StVO) in den in § 12 Absatz 3 Nummer 1 bis 5 genannten Fällen oder in den Fällen der Zeichen 201, 224, 295, 296, 299, 306, 314 mit Zusatzzeichen und 315 StVO | § 12 Absatz 3 Nummer 1 bis 5 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 14(Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7(Zeichen 314 mit Zusatzzeichen) Spalte 3Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2 § 49 Absatz 3 Nummer 5 | 10 € |
-| 54.1 |  | – mit Behinderung | § 12 Absatz 3 Nummer 1 bis 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 14(Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 | 15 € |
+| 52a.2.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1, Absatz 4a § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 80 € |
+| 52a.3 |  | – mit Gefährdung |  | 80 € |
+| 52a.4 |  | – mit Sachbeschädigung |  | 100 € |
+| 53 | Vor oder in amtlich gekennzeichneten Feuerwehrzufahrten geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 1 Nummer 5 § 49 Absatz 1 Nummer 12 | 55 € |
+| 53.1 |  | und dadurch ein Rettungsfahrzeug im Einsatz behindert | § 12 Absatz 1 Nummer 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 100 € |
+| 54 | Unzulässig geparkt (§ 12 Absatz 2 StVO) in den in § 12 Absatz 3 Nummer 1 bis 5 genannten Fällen oder in den Fällen der Zeichen 201, 295, 296, 306, 314 mit Zusatzzeichen und 315 StVO | § 12 Absatz 3 Nummer 1 bis 5 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7(Zeichen 314 mit Zusatzzeichen) Spalte 3Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2 § 49 Absatz 3 Nummer 5 | 10 € |
+| 54.1 |  | – mit Behinderung | § 12 Absatz 3 Nummer 1 bis 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2, | 15 € |
 |  |  |  | § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7(Zeichen 314 mit Zusatzzeichen) Spalte 3Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Num-mer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 |  |
-| 54.2 |  | länger als 3 Stunden | § 12 Absatz 3 Nummer 1 bis 5 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 14(Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, lfd. Nr. 73(Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2 § 49 Absatz 3 Nummer 5 | 20 € |
-| 54.2.1 |  | – mit Behinderung | § 12 Absatz 3 Nummer 1 bis 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 14(Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, | 30 € |
+| 54.2 |  | länger als 3 Stunden | § 12 Absatz 3 Nummer 1 bis 5 § 49 Absatz 1 Nummer 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, § 49 Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2 § 49 Absatz 3 Nummer 5 | 20 € |
+| 54.2.1 |  | – mit Behinderung | § 12 Absatz 3 Nummer 1 bis 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68(Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 2, 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, | 30 € |
 |  |  |  | lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 |  |
-| 54a | Unzulässig auf Schutzstreifen für den Radverkehr geparkt | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 49 Absatz 3 Nummer 5 | 20 € |
-| 54a.1 |  | – mit Behinderung | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 | 30 € |
-| 54a.2 |  | länger als 3 Stunden | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 49 Absatz 3 Nummer 5 | 30 € |
-| 54a.2.1 |  | – mit Behinderung | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 | 35 € |
-| 55 | Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2 StVO) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314) Spalte 3 Nummer 1, 2d, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1 Satz 2, Nummer 2d § 49 Absatz 3 Nummer 5 | 35 € |
+| 54.3 |  | Unzulässig gehalten in den Fällen der Zeichen 245, 299 | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 55 € |
+| 54.3.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 70 € |
+| 54.3.2 |  | – mit Gefährdung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 80 € |
+| 54.3.3 |  | – mit Sachbeschädigung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 100 € |
+| 54.4 |  | Unzulässig geparkt in den Fällen der Zeichen 224, 245, 299 | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 55 € |
+| 54.4.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 70 € |
+| 54.4.2 |  | – mit Gefährdung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 80 € |
+| 54.4.3 |  | – mit Sachbeschädigung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 100 € |
+| 54.4.4 |  | länger als 3 Stunden | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 70 € |
+| 54.4.4.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 80 € |
+| 54.4.4.2 |  | – mit Gefährdung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 80 € |
+| 54.4.4.3 |  | – mit Sachbeschädigung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 14 (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245), lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 100 € |
+| 54a | Unzulässig auf Schutzstreifen für den Radverkehr gehalten | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 49 Absatz 3 Nummer 5 | 55 € |
+| 54a.1 |  | – mit Behinderung | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 | 70 € |
+| 54a.2 |  | – mit Gefährdung |  | 80 € |
+| 54a.3 |  | – mit Sachbeschädigung |  | 100 € |
+| 54a.2.1 |  | (weggefallen) |  |  |
+| 55 | Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2 StVO) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314) Spalte 3 Nummer 1, 2d, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1 Satz 2, Nummer 2d § 49 Absatz 3 Nummer 5 | 55 € |
+| 55a | Unberechtigt auf einem Parkplatz für elektrisch betriebene Fahrzeuge geparkt (§ 12 Absatz 2 StVO) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314) Spalte 3 Nummer 1, 3a, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1 Satz 2, Nummer 3a § 49 Absatz 3 Nummer 5 | 55 € |
+| 55b | Unberechtigt auf einem Parkplatz für Carsharingfahrzeuge geparkt (§ 12 Absatz 2 StVO) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314) Spalte 3 Nummer 1, 4a, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1 Satz 2, Nummer 4a § 49 Absatz 3 Nummer 5 | 55 € |
 | 56 | In einem nach § 12 Absatz 3a Satz 1 StVO geschützten Bereich während nicht zugelassener Zeiten mit einem Kraftfahrzeug über 7,5 t zulässiger Gesamtmasse oder einem Kraftfahrzeuganhänger über 2 t zulässiger Gesamtmasse regelmäßig geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 3a Satz 1 § 49 Absatz 1 Nummer 12 | 30 € |
 | 57 | Mit Kraftfahrzeuganhänger ohne Zugfahrzeug länger als zwei Wochen geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 3b Satz 1 § 49 Absatz 1 Nummer 12 | 20 € |
-| 58 | In „zweiter Reihe“ geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 12 | 20 € |
-| 58.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 25 € |
-| 58.2 |  | länger als 15 Minuten | § 12 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 12 | 30 € |
-| 58.2.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 35 € |
+| 58 | In „zweiter Reihe“ geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 12 | 55 € |
+| 58.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 80 € |
+| 58.1.1 |  | – mit Gefährdung |  | 90 € |
+| 58.1.2 |  | – mit Sachbeschädigung |  | 110 € |
+| 58.2 |  | länger als 15 Minuten | § 12 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 12 | 85 € |
+| 58.2.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 90 € |
 | 59 | Im Fahrraum von Schienenfahrzeugen gehalten | § 12 Absatz 4 Satz 5 § 49 Absatz 1 Nummer 12 | 20 € |
 | 59.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 30 € |
-| 60 | Im Fahrraum von Schienenfahrzeugen geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 5 § 49 Absatz 1 Nummer 12 | 25 € |
-| 60.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 35 € |
+| 60 | Im Fahrraum von Schienenfahrzeugen geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 4 Satz 5 § 49 Absatz 1 Nummer 12 | 55 € |
+| 60.1 |  | – mit Behinderung | § 12 Absatz 4 Satz 5 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 12 | 70 € |
 | 61 | Vorrang des Berechtigten beim Einparken in eine Parklücke nicht beachtet | § 12 Absatz 5 § 49 Absatz 1 Nummer 12 | 10 € |
 | 62 | Nicht Platz sparend gehalten oder geparkt (§ 12 Absatz 2 StVO) | § 12 Absatz 6 § 49 Absatz 1 Nummer 12 | 10 € |
 |  | Einrichtungen zur Überwachung der Parkzeit |  |  |
-| 63 | An einer abgelaufenen Parkuhr, ohne vorgeschriebene Parkscheibe, ohne Parkschein oder unter Überschreiten der erlaubten Höchstparkdauer geparkt (§ 12 Absatz 2 StVO) | § 13 Absatz 1, 2 § 49 Absatz 1 Nummer 13 | 10 € |
-| 63.1 |  | bis zu 30 Minuten |  | 10 € |
-| 63.2 |  | bis zu 1 Stunde |  | 15 € |
-| 63.3 |  | bis zu 2 Stunden |  | 20 € |
-| 63.4 |  | bis zu 3 Stunden |  | 25 € |
-| 63.5 |  | länger als 3 Stunden |  | 30 € |
+| 63 | An einer abgelaufenen Parkuhr, ohne vorgeschriebene Parkscheibe, ohne Parkschein oder unter Überschreiten der erlaubten Höchstparkdauer geparkt (§ 12 Absatz 2 StVO) | § 13 Absatz 1, 2 § 49 Absatz 1 Nummer 13 | 20 € |
+| 63.1 |  | bis zu 30 Minuten |  | 20 € |
+| 63.2 |  | bis zu 1 Stunde |  | 25 € |
+| 63.3 |  | bis zu 2 Stunden |  | 30 € |
+| 63.4 |  | bis zu 3 Stunden |  | 35 € |
+| 63.5 |  | länger als 3 Stunden |  | 40 € |
 |  | Sorgfaltspflichten beim Ein- und Aussteigen |  |  |
-| 64 | Beim Ein- oder Aussteigen einen anderen Verkehrsteilnehmer gefährdet | § 14 Absatz 1 § 49 Absatz 1 Nummer 14 | 20 € |
-| 64.1 |  | – mit Sachbeschädigung | § 14 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 14 | 25 € |
+| 64 | Beim Ein- oder Aussteigen einen anderen Verkehrsteilnehmer gefährdet | § 14 Absatz 1 § 49 Absatz 1 Nummer 14 | 40 € |
+| 64.1 |  | – mit Sachbeschädigung | § 14 Absatz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 14 | 50 € |
 | 65 | Fahrzeug verlassen, ohne die nötigen Maßnahmen getroffen zu haben, um Unfälle oder Verkehrsstörungen zu vermeiden | § 14 Absatz 2 Satz 1 § 49 Absatz 1 Nummer 14 | 15 € |
 | 65.1 |  | – mit Sachbeschädigung | § 14 Absatz 2 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 14 | 25 € |
 |  | Liegenbleiben von Fahrzeugen |  |  |
@@ -307,8 +332,8 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 115 | Als Veranstalter erlaubnispflichtige Veranstaltung ohne Erlaubnis durchgeführt | § 29 Absatz 2 Satz 1 § 49 Absatz 2 Nummer 6 | 40 € |
 | 116 | Ohne Erlaubnis ein Fahrzeug oder einen Zug geführt, dessen Abmessungen, Achslasten oder Gesamtmasse die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschritten oder dessen Bauart dem Fahrzeugführenden kein ausreichendes Sichtfeld ließ | § 29 Absatz 3 § 49 Absatz 2 Nummer 7 | 60 € |
 |  | Umweltschutz |  |  |
-| 117 | Bei Benutzung eines Fahrzeugs unnötigen Lärm oder vermeidbare Abgasbelästigungen verursacht | § 30 Absatz 1 Satz 1, 2 § 49 Absatz 1 Nummer 25 | 10 € |
-| 118 | Innerhalb einer geschlossenen Ortschaft unnütz hin- und hergefahren und dadurch Andere belästigt | § 30 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 25 | 20 € |
+| 117 | Bei Benutzung eines Fahrzeugs unnötigen Lärm oder vermeidbare Abgasbelästigungen verursacht | § 30 Absatz 1 Satz 1, 2 § 49 Absatz 1 Nummer 25 | 80 € |
+| 118 | Innerhalb einer geschlossenen Ortschaft unnütz hin- und hergefahren und dadurch Andere belästigt | § 30 Absatz 1 Satz 3 § 49 Absatz 1 Nummer 25 | 100 € |
 |  | Sonn- und Feiertagsfahrverbot |  |  |
 | 119 | Verbotswidrig an einem Sonntag oder Feiertag gefahren | § 30 Absatz 3 Satz 1 § 49 Absatz 1 Nummer 25 | 120 € |
 | 120 | Als Halter das verbotswidrige Fahren an einem Sonntag oder Feiertag angeordnet oder zugelassen | § 30 Absatz 3 Satz 1 § 49 Absatz 1 Nummer 25 | 570 € |
@@ -336,32 +361,33 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 130.2 |  | – mit Sachbeschädigung |  | 10 € |
 | 131 | Beim Rechtsabbiegen mit Grünpfeil |  |  |
 | 131.1 |  | aus einem anderen als dem rechten Fahrstreifen abgebogen | § 37 Absatz 2 Nummer 1 Satz 9 § 49 Absatz 3 Nummer 2 | 15 € |
-| 131.2 |  | den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, behindert | § 37 Absatz 2 Nummer 1 Satz 10 § 49 Absatz 3 Nummer 2 | 35 € |
-| 132 | Als Kfz-Führer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 90 € |
-| 132.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 200 €Fahrverbot 1 Monat |
+| 131.2 |  | den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, behindert | § 37 Absatz 2 Nummer 1 Satz 12 § 49 Absatz 3 Nummer 2 | 35 € |
+| 132 | Als Kfz-Führer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 90 € |
+| 132.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 200 €Fahrverbot 1 Monat |
 | 132.2 |  | – mit Sachbeschädigung |  | 240 €Fahrverbot 1 Monat |
-| 132.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 49 Absatz 3 Nummer 2 | 200 €Fahrverbot 1 Monat |
-| 132.3.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 320 €Fahrverbot 1 Monat |
+| 132.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2 § 49 Absatz 3 Nummer 2 | 200 €Fahrverbot 1 Monat |
+| 132.3.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 320 €Fahrverbot 1 Monat |
 | 132.3.2 |  | – mit Sachbeschädigung |  | 360 €Fahrverbot 1 Monat |
-| 132a |  | Als Radfahrer oder Fahrer eines Elektrokleinstfahrzeugs in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 60 € |
-| 132a.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 | 100 € |
+| 132a |  | Als Radfahrer oder Fahrer eines Elektrokleinstfahrzeugs in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 60 € |
+| 132a.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2 | 100 € |
 | 132a.2 |  | – mit Sachbeschädigung | § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 120 € |
-| 132a.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 49 Absatz 3 Nummer 2 | 100 € |
-| 132a.3.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 | 160 € |
+| 132a.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2 § 49 Absatz 3 Nummer 2 | 100 € |
+| 132a.3.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2 | 160 € |
 | 132a.3.2 |  | – mit Sachbeschädigung | § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 180 € |
 | 133 | Beim Rechtsabbiegen mit Grünpfeil |  |  |
 | 133.1 |  | vor dem Rechtsabbiegen nicht angehalten | § 37 Absatz 2 Nummer 1 Satz 7 § 49 Absatz 3 Nummer 2 | 70 € |
-| 133.2 |  | den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, gefährdet | § 37 Absatz 2 Nummer 1 Satz 10 § 49 Absatz 3 Nummer 2 | 100 € |
-| 133.3 |  | den Fußgängerverkehr oder den Fahrradverkehr auf Radwegfurten der freigegebenen Verkehrsrichtungen | § 37 Absatz 2 Nummer 1 Satz 10 § 49 Absatz 3 Nummer 2 |  |
+| 133.2 |  | den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, gefährdet | § 37 Absatz 2 Nummer 1 Satz 12 § 49 Absatz 3 Nummer 2 | 100 € |
+| 133.3 |  | den Fußgängerverkehr oder den Fahrradverkehr auf Radwegfurten der freigegebenen Verkehrsrichtungen | § 37 Absatz 2 Nummer 1 Satz 12 § 49 Absatz 3 Nummer 2 |  |
 | 133.3.1 |  | behindert |  | 100 € |
 | 133.3.2 |  | gefährdet |  | 150 € |
 |  | Blaues und gelbes Blinklicht |  |  |
 | 134 | Blaues Blinklicht zusammen mit dem Einsatzhorn oder allein oder gelbes Blinklicht missbräuchlich verwendet | § 38 Absatz 1 Satz 1, Absatz 2, Absatz 3 Satz 3 § 49 Absatz 3 Nummer 3 | 20 € |
-| 135 | Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen | § 38 Absatz 1 Satz 2 § 1 Absatz 2 § 49 Absatz 3 Nummer 3 | 240 €Fahrverbot 1 Monat |
+| 135 | Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen | § 38 Absatz 1 Satz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 3 | 240 €Fahrverbot 1 Monat |
 | 135.1 |  | – mit Gefährdung |  | 280 €Fahrverbot 1 Monat |
 | 135.2 |  | – mit Sachbeschädigung |  | 320 €Fahrverbot 1 Monat |
 |  | Vorschriftzeichen |  |  |
-| 136 | Zeichen 206 (Halt. Vorfahrt gewähren.) nicht befolgt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 3 (Zeichen 206) Spalte 3 Nummer 1, 3 § 49 Absatz 3 Nummer 4 | 10 € |
+| 136 | Dem Schienenverkehr nicht Vorrang gewährt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 | 80 € |
+| 136.1 | Zeichen 206 (Halt. Vorfahrt gewähren.) nicht befolgt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 3 (Zeichen 206) Spalte 3 Nummer 1, 3 § 49 Absatz 3 Nummer 4 | 10 € |
 | 137 | Bei verengter Fahrbahn (Zeichen 208) dem Gegenverkehr keinen Vorrang gewährt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 4 (Zeichen 208) Spalte 3 § 49 Absatz 3 Nummer 4 | 5 € |
 | 137.1 |  | – mit Gefährdung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 4 (Zeichen 208) Spalte 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 10 € |
 | 137.2 |  | – mit Sachbeschädigung |  | 20 € |
@@ -375,42 +401,42 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 139.2.2 |  | – mit Gefährdung |  | 30 € |
 | 139.2.3 |  | – mit Sachbeschädigung |  | 35 € |
 | 139a | Beim berechtigten Überfahren der Mittelinsel eines Kreisverkehrs einen anderen Verkehrsteilnehmer gefährdet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 8 (Zeichen 215) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 35 € |
-| 140 | Vorschriftswidrig einen Radweg (Zeichen 237) oder einen sonstigen Sonderweg (Zeichen 238, 240, 241) benutzt oder mit einem Fahrzeug eine Fahrradstraße (Zeichen 244.1) vorschriftswidrig benutzt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2, lfd. Nr. 23(Zeichen 244.1) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 | 15 € |
-| 140.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2, lfd. Nr. 23(Zeichen 244.1) Spalte 3 Nummer 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 20 € |
+| 140 | Vorschriftswidrig einen Radweg (Zeichen 237), einen sonstigen Sonderweg (Zeichen 238, 240, 241) benutzt oder mit einem Fahrzeug eine Fahrradstraße (Zeichen 244.1) oder Fahrradzone (Zeichen 244.3) benutzt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2, lfd. Nr. 23 (Zeichen 244.1) Spalte 3 Nummer 1, lfd. Nr. 24.1 (Zeichen 244.3) Spalte 3 Nummer 1 § 49 Absatz 3 Nummer 4 | 15 € |
+| 140.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2, lfd. Nr. 23 (Zeichen 244.1) Spalte 3 Nummer 1, lfd. Nr. 24.1 (Zeichen 244.3) Spalte 3 Nummer 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 20 € |
 | 140.2 |  | – mit Gefährdung |  | 25 € |
 | 140.3 |  | – mit Sachbeschädigung |  | 30 € |
-| 141 | Vorschriftswidrig Fußgängerbereich (Zeichen 239, 242.1, 242.2) benutzt oder ein Verkehrsverbot (Zeichen 250, 251, 253, 254, 255, 260) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 21(Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3 § 49 Absatz 3 Nummer 4 |  |
-| 141.1 |  | mit Kraftfahrzeugen über 3,5 t zulässiger Gesamtmasse, ausgenommen Personenkraftwagen und Kraftomnibusse |  | 75 € |
-| 141.2 |  | mit den übrigen Kraftfahrzeugen der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art |  | 25 € |
-| 141.3 |  | mit anderen als in den Nummern 141.1 und 141.2 genannten Kraftfahrzeugen |  | 20 € |
-| 141.4 |  | als Radfahrer |  | 15 € |
-| 141.4.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 21(Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 31 (Zeichen 250, 254) § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 20 € |
-| 141.4.2 |  | – mit Gefährdung |  | 25 € |
-| 141.4.3 |  | – mit Sachbeschädigung |  | 30 € |
-| 142 | Verkehrsverbot (Zeichen 262 bis 266) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 36 bis 40 (Zeichen 262 bis 266) Spalte 3 § 49 Absatz 3 Nummer 4 | 20 € |
-| 142a | Verbot des Einfahrens (Zeichen 267) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 41 (Zeichen 267) Spalte 3 § 49 Absatz 3 Nummer 4 | 25 € |
+| 141 | Entgegen Zeichen 239 einen Gehweg, Zeichen 240 einen gemeinsamen Geh- und Radweg, Zeichen 241 einen Gehweg des getrennten Geh- und Radwegs oder Zeichen 242.1 den Bereich einer Fußgängerzone befahren oder dort gehalten oder entgegen Zeichen 250, 251, 253, 254, 255, 260 der StVO das Verkehrsverbot nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2, lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3 § 49 Absatz 3 Nummer 4 |  |
+| 141.1 |  | mit Kraftfahrzeugen über 3,5 t zulässiger Gesamtmasse, ausgenommen Personenkraftwagen und Kraftomnibusse |  | 100 € |
+| 141.2 |  | mit den übrigen Kraftfahrzeugen der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art |  | 55 € |
+| 141.3 |  | mit anderen als in den Nummern 141.1 und 141.2 genannten Kraftfahrzeugen |  | 50 € |
+| 141.4 |  | als Radfahrer |  | 25 € |
+| 141.4.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2, lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 31 (Zeichen 250, 254) § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 30 € |
+| 141.4.2 |  | – mit Gefährdung |  | 35 € |
+| 141.4.3 |  | – mit Sachbeschädigung |  | 40 € |
+| 142 | Verkehrsverbot (Zeichen 262 bis 266) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 36 bis 40 (Zeichen 262 bis 266) Spalte 3 § 49 Absatz 3 Nummer 4 | 40 € |
+| 142a | Verbot des Einfahrens (Zeichen 267) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 41 (Zeichen 267) Spalte 3 § 49 Absatz 3 Nummer 4 | 50 € |
 | 143 | Beim Radfahren Verbot des Einfahrens (Zeichen 267) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 41 (Zeichen 267) Spalte 3 § 49 Absatz 3 Nummer 4 | 20 € |
 | 143.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 41 (Zeichen 267) Spalte 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 25 € |
 | 143.2 |  | – mit Gefährdung |  | 30 € |
 | 143.3 |  | – mit Sachbeschädigung |  | 35 € |
-| 144 | In einem Fußgängerbereich, der durch Zeichen 239, 242.1 oder 250 gesperrt war, geparkt (§ 12 Absatz 2 StVO) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28 (Zeichen 250) § 49 Absatz 3 Nummer 4 | 30 € |
-| 144.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28 (Zeichen 250) § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
-| 144.2 |  | länger als 3 Stunden | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28 (Zeichen 250) § 49 Absatz 3 Nummer 4 | 35 € |
+| 144 | Entgegen Zeichen 239 auf einem Gehweg, Zeichen 240 auf einem gemeinsamen Geh- und Radweg, Zeichen 241 auf einem Gehweg des getrennten Geh- und Radwegs, Zeichen 242.1 der StVO im Bereich einer Fußgängerzone oder entgegen Zeichen 250, 251, 253, 254, 255, 260 der StVO trotz eines Verkehrsverbots geparkt (§ 12 Absatz 2 StVO) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2, lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3 § 49 Absatz 3 Nummer 4 | 55 € |
+| 144.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2, lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 70 € |
+| 144.2 |  | länger als 3 Stunden | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 1, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2, lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1, lfd. Nr. 26 Spalte 3 Satz 1 i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3 § 49 Absatz 3 Nummer 4 | 70 € |
 | (145 bis 145.3) | (aufgehoben) |  |  |
 | 146 | Bei zugelassenem Fahrzeugverkehr auf einem Gehweg (Zeichen 239) oder in einem Fußgängerbereich (Zeichen 242.1, 242.2) nicht mit Schrittgeschwindigkeit gefahren (soweit nicht von Nummer 11 erfasst) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18 (Zeichen 239) Spalte 3 Nummer 2 Satz 3 Halbsatz 2, lfd. Nr. 21(Zeichen 242.1) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 15 € |
-| 146a | Bei zugelassenem Fahrzeugverkehr auf einem Radweg (Zeichen 237), einem gemeinsamen Geh- und Radweg (Zeichen 240) oder einem getrennten Rad- und Gehweg (Zeichen 241) die Geschwindigkeit nicht angepasst (soweit nicht von Nummer 11 erfasst) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16 (Zeichen 237) Spalte 3 Nummer 3, lfd. Nr. 19(Zeichen 240) Spalte 3 Nummer 3 Satz 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 4 Satz 2 § 49 Absatz 3 Nummer 4 | 15 € |
+| 146a | Bei zugelassenem Fahrzeugverkehr auf einem Radweg (Zeichen 237), einem gemeinsamen Geh- und Radweg (Zeichen 240), einem getrennten Rad- und Gehweg (Zeichen 241) die Geschwindigkeit nicht angepasst (soweit nicht von lfd. Nr. 11 erfasst) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 16 (Zeichen 237) Spalte 3 Nummer 3, lfd. Nr. 19 (Zeichen 240) Spalte 3 Nummer 3 Satz 2, lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 4 Satz 2 § 49 Absatz 3 Nummer 4 | 15 € |
 | 147 | Unberechtigt mit einem Fahrzeug einen Bussonderfahrstreifen (Zeichen 245) benutzt | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1 und 2 § 49 Absatz 3 Nummer 4 | 15 € |
 | 147.1 |  | – mit Behinderung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1 und 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
 | 148 | Wendeverbot (Zeichen 272) nicht beachtet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 47 (Zeichen 272) Spalte 3 § 49 Absatz 3 Nummer 4 | 20 € |
 | 149 | Vorgeschriebenen Mindestabstand (Zeichen 273) zu einem vorausfahrenden Fahrzeug unterschritten | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 48 (Zeichen 273) Spalte 3 Satz 1 § 49 Absatz 3 Nummer 4 | 25 € |
 | 150 | Zeichen 206 (Halt. Vorfahrt gewähren.) nicht befolgt oder trotz Rotlicht nicht an der Haltlinie (Zeichen 294) gehalten und dadurch einen Anderen gefährdet | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 3 (Zeichen 206) Spalte 3 Nummer 1, lfd. Nr. 67 (Zeichen 294) Spalte 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 70 € |
 | 151 | Beim Führen eines Fahrzeugs in einem Fußgängerbereich (Zeichen 239, 242.1, 242.2) einen Fußgänger gefährdet |  |  |
-| 151.1 |  | bei zugelassenem Fahrzeugverkehr (Zeichen 239, 242.1 mit Zusatzzeichen) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1 mit Zusatzzeichen) Spalte 3 Nummer 2 § 1 Absatz 2 § 49 Absatz 3 Nummer 1, 4 | 60 € |
-| 151.2 |  | bei nicht zugelassenem Fahrzeugverkehr |  | 70 € |
+| 151.1 |  | bei zugelassenem Fahrzeugverkehr (Zeichen 239, 242.1 mit Zusatzzeichen) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1 mit Zusatzzeichen) Spalte 3 Nummer 2 § 49 Absatz 3 Nummer 4 | 60 € |
+| 151.2 |  | bei nicht zugelassenem Fahrzeugverkehr | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1) Spalte 3 Nummer 2, § 49 Absatz 3 Nummer 4 | 70 € |
 | 152 | Eine für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern (Zeichen 261) oder für Kraftfahrzeuge mit wassergefährdender Ladung (Zeichen 269) gesperrte Straße befahren | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 35, 43 (Zeichen 261, 269) Spalte 3 § 49 Absatz 3 Nummer 4 | 100 € |
 | 152.1 |  | bei Eintragung von bereits einer Entscheidung wegen Verstoßes gegen Zeichen 261 oder 269 im Fahreignungsregister |  | 250 €Fahrverbot 1 Monat |
-| 153 | Mit einem Kraftfahrzeug trotz Verkehrsverbotes zur Verminderung schädlicher Luftverunreinigungen (Zeichen 270.1, 270.2) am Verkehr teilgenommen | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 44, 45 (Zeichen 270.1, 270.2) Spalte 3 § 49 Absatz 3 Nummer 4 | 80 € |
-| 153a | Überholt unter Nichtbeachten von Verkehrszeichen (Zeichen 276, 277) | § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53 und 54 und lfd. Nr. 53, 54 (Zeichen 276, 277) Spalte 3 § 49 Absatz 3 Nummer 4 | 70 € |
+| 153 | Mit einem Kraftfahrzeug trotz Verkehrsverbotes zur Verminderung schädlicher Luftverunreinigungen (Zeichen 270.1, 270.2) am Verkehr teilgenommen | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 44, 45 (Zeichen 270.1, 270.2) Spalte 3 § 49 Absatz 3 Nummer 4 | 100 € |
+| 153a | Überholt unter Nichtbeachten von Verkehrszeichen (Zeichen 276, 277, 277.1) | § 41 Absatz 1 i. V. m. Anlage 2 zu lfd. Nr. 53, 54 und 54.4 und lfd. Nr. 53, 54, 54.4 (Zeichen 276, 277, 277.1) Spalte 3 § 49 Absatz 3 Nummer 4 | 70 € |
 | 154 | An der Haltlinie (Zeichen 294) nicht gehalten | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 67 (Zeichen 294) Spalte 3 § 49 Absatz 3 Nummer 4 | 10 € |
 | 155 | Fahrstreifenbegrenzung (Zeichen 295, 296) überfahren oder durch Pfeile vorgeschriebener Fahrtrichtung (Zeichen 297) nicht gefolgt oder Sperrfläche (Zeichen 298) benutzt (außer Parken) | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 1, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 1, lfd. Nr. 72(Zeichen 298) Spalte 3 § 49 Absatz 3 Nummer 4 | 10 € |
 | 155.1 |  | – mit Sachbeschädigung | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a, lfd. Nr. 69(Zeichen 296) Spalte 3 Nummer 1, lfd. Nr. 70(Zeichen 297) Spalte 3 Nummer 1, lfd. Nr. 72(Zeichen 298) Spalte 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4 | 35 € |
@@ -690,9 +716,9 @@ Vorsätzlich begangene Ordnungswidrigkeiten
 |  | Sonstige Pflichten von Fahrzeugführenden |  |  |
 | 246 | Elektronisches Gerät rechtswidrig benutzt | § 23 Absatz 1a § 49 Absatz 1 Nummer 22 |  |
 | 246.1 |  | beim Führen eines Fahrzeugs |  | 100 € |
-| 246.2 |  | – mit Gefährdung |  | 150 €Fahrverbot 1 Monat |
+| 246.2 |  | – mit Gefährdung | § 23 Absatz 1a Satz 1, § 1 Absatz 2, § 49 Absatz 1 Nummer 1, 22 | 150 €Fahrverbot 1 Monat |
 | 246.3 |  | – mit Sachbeschädigung |  | 200 €Fahrverbot 1 Monat |
-| 246.4 |  | beim Radfahren |  | 55 € |
+| 246.4 |  | beim Radfahren | § 23 Absatz 1a Satz 1, § 49 Absatz 1 Nummer 22 | 55 € |
 | 247 | Beim Führen eines Kraftfahrzeugs verbotswidrig ein technisches Gerät zur Feststellung von Verkehrsüberwachungsmaßnahmen betrieben oder betriebsbereit mitgeführt | § 23 Absatz 1c § 49 Absatz 1 Nummer 22 | 75 € |
 | 247a | Beim Führen eines Kraftfahrzeugs Gesicht verdeckt oder verhüllt | § 23 Absatz 4 Satz 1 § 49 Absatz 1 Nummer 22 | 60 € |
 | 248 | (weggefallen) |  |  |

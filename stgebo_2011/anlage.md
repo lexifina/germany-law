@@ -262,6 +262,7 @@ Gebühren der Behörden im Landesbereich
 | 257 |  | Bewertung alternativer Lehr- und Lernmethoden und Medien zur Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars nach § 42 Absatz 2 FeV einschließlich der Auslagen für eine externe Begutachtung | 1 000,00 bis 10 000,00 |
 | 258 |  | Anerkennung eines Qualitätssicherungssystems für die verkehrspsychologische Teilmaßnahme des Fahreignungsseminars nach § 4a Absatz 8 StVG | nach dem Zeitaufwandmit 12,80 Euroje angefangene Viertelstunde Bearbeitungszeit |
 | 259 |  | Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4 EmoG in Verbindung mit § 9a Absatz 4 FZV | 11,00 |
+| 260 |  | Zuteilung eines Ausweises zur Kennzeichnung von Carsharingfahrzeugen nach § 2 Nummer 1 und § 4 Absatz 1 CsgG | 11,00 |
 |  | B. | Straßenverkehrs-Ordnung |  |
 | 261 |  | Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen | 10,20 bis 767,00 |
 | 262 |  | Anordnung zur Teilnahme am Verkehrsunterricht | 25,60 |

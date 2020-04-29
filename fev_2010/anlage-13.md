@@ -6,6 +6,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 1.1 | Fahrlässige Tötung | § 222 StGB |
   | 1.2 | Fahrlässige Körperverletzung | § 229 StGB |
   | 1.3 | Nötigung | § 240 StGB |
+  | 1.3a | Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr | § 315 StGB |
   | 1.4 | Gefährliche Eingriffe in den Straßenverkehr | § 315b StGB |
   | 1.5 | Gefährdung des Straßenverkehrs | § 315c StGB |
   | 1.6 | Verbotene Kraftfahrzeugrennen | § 315d Absatz 1 Nummer 2 und 3, Absatz 2, 4 und 5 StGB |
@@ -21,6 +22,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 2.1.1 | Fahrlässige Tötung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 222 StGB |
   | 2.1.2 | Fahrlässige Körperverletzung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 229 StGB |
   | 2.1.3 | Nötigung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 240 StGB |
+  | 2.1.3a | Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr, sofern ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 315 StGB |
   | 2.1.4 | Gefährliche Eingriffe in den Straßenverkehr | § 315b StGB |
   | 2.1.5 | Gefährdung des Straßenverkehrs | § 315c StGB |
   | 2.1.6 | Verbotene Kraftfahrzeugrennen | § 315d Absatz 1 Nummer 2 und 3, Absatz 2, 4 und 5 StGB |
@@ -38,6 +40,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 2.2.4 | Erforderlichen Abstand von einem vorausfahrenden Fahrzeug nicht eingehalten | 12.6 in Verbindung mit 12.6.3, 12.6.4 oder 12.6.5 der Tabelle 2 des Anhangs sowie 12.7 in Verbindung mit 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs |
   | 2.2.5 | Überholvorschriften nicht eingehalten | 19.1.1, 19.1.2, 21.1, 21.2 |
   | 2.2.5a | Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet | 50, 50.1, 50.2, 50.3 |
+  | 2.2.5b | Unberechtigt mit einem Fahrzeug auf einer Autobahn oder Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei- oder Hilfsfahrzeugen (§ 11 Absatz 2 StVO) benutzt | 50a, 50a.1, 50a.2, 50a.3 |
   | 2.2.6 | Auf der durchgehenden Fahrbahn von Autobahnen oder Kraftfahrstraßen gewendet, rückwärts oder entgegen der Fahrtrichtung gefahren | 83.3 |
   | 2.2.7 | Als Fahrzeugführer Bahnübergang unter Verstoß gegen die Wartepflicht oder trotz geschlossener Schranke oder Halbschranke überquert | 89b.2, 244 |
   | 2.2.8 | Als Kraftfahrzeugführer rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt bei Gefährdung, mit Sachbeschädigung oder bei schon länger als einer Sekunde andauernder Rotphase eines Wechsellichtzeichens | 132.1, 132.2, 132.3, 132.3.1, 132.3.2 |
@@ -54,12 +57,16 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 3.2.3 | den Abstand | 12.5 in Verbindung mit 12.5.1, 12.5.2, 12.5.3, 12.5.4 oder 12.5.5 der Tabelle 2 des Anhangs, 12.6 in Verbindung mit 12.6.1 oder 12.6.2 der Tabelle 2 des Anhangs, 12.7 in Verbindung mit 12.7.1 oder 12.7.2 der Tabelle 2 des Anhangs, 15 |
   | 3.2.4 | das Überholen | 17, 18, 19, 19.1, 153a, 21, 22 |
   | 3.2.5 | die Vorfahrt | 34 |
-  | 3.2.6 | das Abbiegen, Wenden und Rückwärtsfahren | 39.1, 41, 42.1, 44 |
+  | 3.2.6 | das Abbiegen, Wenden und Rückwärtsfahren | 39.1, 41, 42.1, 44, 45 |
   | 3.2.7 | Park- oder Halteverbote mit Behinderung von Rettungsfahrzeugen | 51b.3, 53.1 |
+  | 3.2.7a | Unzulässiges Halten in „zweiter Reihe“ | 51a.1, 51a.2, 51a.3 |
+  | 3.2.7b | Unzulässiges Parken auf Geh- und Radwegen oder Radschnellwegen | 52a.1, 52a.2, 52a.2.1, 52a.3, 52a.4 |
+  | 3.2.7c | Unzulässiges Halten auf Schutzstreifen für den Radverkehr | 54a.1, 54a.2, 54a.3 |
+  | 3.2.7d | Unzulässiges Parken in „zweiter Reihe“ | 58.1, 58.1.1, 58.1.2, 58.2, 58.2.1 |
   | 3.2.8 | das Liegenbleiben von Fahrzeugen | 66 |
   | 3.2.9 | die Beleuchtung | 76 |
   | 3.2.10 | die Benutzung von Autobahnen und Kraftfahrstraßen | 79, 80.1, 82, 83.1, 83.2, 85, 87a, 88 |
-  | 3.2.11 | das Verhalten an Bahnübergängen | 89, 89a, 89b.1, 245 |
+  | 3.2.11 | das Verhalten an Bahnübergängen | 89, 89a, 89b.1, 136, 245 |
   | 3.2.12 | das Verhalten an öffentlichen Verkehrsmitteln und Schulbussen | 92.1, 92.2, 93, 95.1, 95.2 |
   | 3.2.13 | die Personenbeförderung, die Sicherungspflichten | 99.1, 99.2 |
   | 3.2.14 | die Ladung | 102.1, 102.1.1, 102.2.1, 104 |
