@@ -1,0 +1,154 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405347
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405347
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 6.1.1.: (E) Stadtbezirksbudget Pfadfinder-Förderverein Pegasus e.V. Brandschutzgerechter Küchenausbau 4.893,28 € / Az. 0262.0-5-0284 - siehe auch UA Soziales -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Lothringer13 Halle" Wiederauflage der Programmhefte und Druck eines Newsletters im Mai 2020 2.500,00 € / Az. 0262.0-5-0285 - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Ausflüge "Bewegung und Kultur" für Mädchen und Jungen vom 20.04. - 30.11.2020 645,00 € / Az. 0262.0-5-0283 - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Ali Wunsch München e.V. Theaterstück "Der Bürger als Edelmann" vom 01.05. - 11.10.2020 1.000,00 € / Az. 0262.0-5-0287 - siehe auch UA Kultur -
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative "Desert of Unrest" "Desert of Unrest" am 30.04.2020 1.000,00 € / Az. 0262.0-5-0286 - siehe auch UA Kultur -
+- TOP 6.2.1.: Abhalten eines Flohmarktes am 09.05.2020 auf dem Platz vor dem Alten- und Service-Zentrum Haidhausen in der Wolfgangstr. 18 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Antrag auf Erweiterung einer bestehenden Freischankfläche, hier: Ristorante L&#039;incontro, Lilienstr. 67 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.3.: Antrag auf Erweiterung einer bestehenden Freischankfläche, hier: Cafe Bar Meandros, Orleansstr. 69 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Bordsteinabsenkung für Fußgänger am Genoveva-Schauer-Platz Empfehlung Nr. 14-20 / E 03180 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 30.01.2020
+- TOP 6.3.2.: (E) Zusätzliche Abfallbehälter an der Zeppelinstraße zwischen Deutschem Museum und Ludwigsbrücke Empfehlung Nr. 14-20 / E 03189 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 30.01.2020
+- TOP 7.1.: Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2019 bis 2023
+- TOP 8.1.1.: Anfrage: Aktuelle Informationen zum Orleansplatz
+- TOP 8.1.2.: Wiederherstellung der Radwege Welfenstraße und Rosenheimer Straße
+- TOP 8.1.3.: Orleansplatz: Zwei Rolltreppen
+- TOP 8.1.4.: Feuerwehranfahrt am Wiener Platz prüfen !
+- TOP 8.1.5.: Wertstoff-Inseln im Stadtbezirk 5 Au-Haidhausen vernünftig bewirtschaften !
+- TOP 8.1.6.: Konzept für Wertstoffinsel Senftlstraße / Weilerstraße
+- TOP 8.1.7.: Fraktionssprecher-Unterlagen über Alfresco zur Verfügung stellen
+- TOP 8.1.8.: Fußampel Innere Wiener/Stubenvollstraße
+- TOP 8.1.9.: Stadtbezirksbudget
+- TOP 8.1.10.: Verwendung einer Anti-Graffiti-Beschichtung der Fraunhofer-Gesellschaft bei der Sanierung des Maxwerks
+- TOP 8.1.11.: Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße
+- TOP 8.1.12.: Ausschilderung Ostbahnhof II: Ausgelagerte Linien in der Orleansstraße
+- TOP 8.1.13.: Kein Abriss der historischen Anwesen Hochstr. 53 und 53a, Aufnahme in die Denkmalliste
+- TOP 8.1.14.: Denkmalantrag "Weisse Rose"
+- TOP 8.1.15.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Oefelestraße
+- TOP 8.1.16.: Sanierung der Versailler Straße
+- TOP 8.4.1.: Infoblatt 04/2020
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Lothringer13 Halle" Wiederauflage der Programmhefte und Druck eines Newsletters im Mai 2020 2.500,00 € / Az. 0262.0-5-0285
+- TOP II.2.: (E) Stadtbezirksbudget Ali Wunsch München e.V. Theaterstück "Der Bürger als Edelmann" vom 01.05. - 11.10.2020 1.000,00 € / Az. 0262.0-5-0287
+- TOP II.3.: (E) Stadtbezirksbudget Initiative "Desert of Unrest" "Desert of Unrest" am 30.04.2020 1.000,00 € / Az. 0262.0-5-0286
+- TOP II.4.: Kommission für Kunst am Bau und im öffentlichen Raum Bestellung der fachlichen Mitglieder für die 12. Amtsperiode Sitzungsvorlage Nr. 14-20 / V 05859
+- TOP II.5.: Kunstaktion "Ruth&#039;s Bankerl" am 15.05.2020 auf dem Bordeauxplatz, am 16.05.2020 auf dem Mariahilfplatz und am 11.06.2020 auf dem Weißenburger Platz
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Pfadfinder-Förderverein Pegasus e.V. Brandschutzgerechter Küchenausbau 4.893,28 € / Az. 0262.0-5-0284
+- TOP 1.2.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Ausflüge "Bewegung und Kultur" für Mädchen und Jungen vom 20.04. - 30.11.2020 645,00 € / Az. 0262.0-5-0283
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Errichtung eines Hauses für Kinder mit 3 Krippen- und 2 Kindergartengruppen an der Welfenstraße Antwort Referat für Bildung und Sport zum Schreiben BA 5 vom 31.01.2020
+- TOP 3.2.: Alkoholkonsum und Vandalismus auf dem Hypopark Antwort Sozialreferat zum Schreiben BA 5 vom 16.12.2019
+- TOP 3.3.: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2019/2020 Stand: 20.10.2019
+- TOP 3.4.: (U) Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Abhalten eines Flohmarktes am 09.05.2020 auf dem Platz vor dem Alten- und Service-Zentrum Haidhausen in der Wolfgangstr. 18
+- TOP 1.2.: Antrag auf Erweiterung einer bestehenden Freischankfläche, hier: Ristorante L&#039;incontro, Lilienstr. 67
+- TOP 1.3.: Antrag auf Erweiterung einer bestehenden Freischankfläche, hier: Cafe Bar Meandros, Orleansstr. 69
+- TOP 2.: Anhörungen
+- TOP 2.1.: Mobile Spiel- und Kunstaktionen für Kinder und Jugendliche im Freien von Spielen in der Stadt e.V. am Weißenburger Platz von 28.-30.05. und am Orleansplatz von 23.-25.07.2020
+- TOP 2.2.: Antrag für Fitnesstraining in der Grünanlage Kronepark
+- TOP 2.3.: Spezialmarkt Freundschaftstreffen der Biergartenfreunde auf dem Orleansplatz vom 27.06. bis zum 12.07.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Antrag auf Ausdehnung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen für die Gaststätte "Il Padrino", Kirchenstr. 44 Einholung der Entscheidung des Oberbürgermeisters
+- TOP 3.2.: Ausnahmegenehmigung für einen Bücherschrank am Genoveva-Schauer-Platz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Falkenstr. 7: Dachgeschossneubau; Änderung der Dachneigung auf 45° mit Bau einer Dachterrasse und Verlängerung einer Gaube, Tektur
+- TOP 2.2.: Einsteinstr. 96: Abbruch des Bestandsgebäudes sowie Neubau eines Wohnhauses (109 Wohneinheiten) mit Mobilitätskonzept, Einzelhandel, Gastronomie und Tiefgarage, Tektur => dazu: Baumfällungen
+- TOP 2.3.: Hochstr. 31: Schulbauoffensive - Neubau einer 3zügigen Grundschule inkl. Mensa und Nebengebäude, Tektur
+- TOP 2.4.: Karl-Müller-Weg: Nutzungsänderung WC-Anlage zu öffentlicher WC-Anlage mit Gaststätte (an der Ludwigsbrücke), Tektur
+- TOP 2.5.: Jugendstr. 3: Anbau eines Balkons im 1. und 2. OG
+- TOP 2.6.: Ismaninger Str. 5: Erweiterung der Wohneinheit 5 (3. OG) um ein Badezimmer
+- TOP 2.7.: Balanstr. 10: Anbau von Balkonen mit Errichtung einer neuen Feuerleiter zur Sicherstellung des 2. Rettungswegs
+- TOP 2.8.: Balanstr. 14: Anbau eines Aufzugs
+- TOP 2.9.: Schornstr. 2: Erweiterung der Freischankfläche auf öffentlichem Grund
+- TOP 2.10.: Wörthstr. 42: Sanierung und Umbau des Dachgeschosses, Ersatzbau für ein Vordach im Hof (Hinterhaus)
+- TOP 2.11.: Orleansstr. 31: Ausbau der nicht genutzten Durchfahrt im EG zu einer Wohneinheit
+- TOP 2.12.: Planungsgrundsätze für die Neuordnung der medizinischen Bereiche des Klinikums rechts der Isar bis 2050
+- TOP 2.13.: Generalinstandsetzung der Ludwigsbrücken sowie der Unterführungen West und Ost Antrag auf wasserrechtliche Anlagengenehmigung und Ausnahmegenehmigung zum Bauen im festgesetzten Überschwemmungsgebiet Isar Fristverlängerung bis 30.04.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 3.2.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Franziskanerstr. 15 b) Nockherstr. 9
+- TOP 3.3.: Grütznerstr. 8, Sachstand zum Balkon Antwort Baureferat zum Schreiben BA 5 vom 06.02.2020
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Regerstr. 15: Fällung von 1 Sommerlinde
+- TOP 2.2.: Einrichtung von allgemeinen Behindertenparkplätzen am Orleansplatz
+- TOP 2.3.: Einrichtung eines allgemeinen Behindertenparkplatzes im Umkreis Nockherstraße, Falkenstraße, Schwalbenstraße
+- TOP 2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Haidhauser Str. 6
+- TOP 2.5.: Einrichtung von Abstellflächen für E-Scooter
+- TOP 2.6.: MVG-Leistungsprogramm 2021
+- TOP 2.7.: Neubau einer Haltestelle in der Regerstraße mit Lageanpassung der Straßenbahngleise
+- TOP 2.8.: Fußgängerübergang Auerfeldstraße östlich Sieboldstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Messung der Luftqualität in der Rosenheimer Straße Mitteilung über die Messergebnisse aus Quartal 3 und 4 des Jahres 2019
+- TOP 3.2.: Baumfällung Wörthstr. 9 - Rückmeldung des Baureferats
+- TOP 3.3.: Einrichtung von Elektro-Ladesäulen im öffentlichen Raum im Jahr 2019
+- TOP 3.4.: Schaffung eines Platzes anstelle einer Verkehrsinsel Entenbachstraße Ecke Schlotthauerstraße Antwort Baureferat zu einem Bürgeranliegen
+- TOP 3.5.: Poller Ecke Metzstraße / Preysingstraße Antwort Baureferat zum Schreiben BA 5 vom 06.02.2020
+- TOP 3.6.: Austausch Lichtsignalanlage Maximiliansbrücke Ost Antwort zur Nachfrage Sachstand Fußgängerüberweg
+- TOP 3.7.: Fortführung Wegeverbindung Maximiliansanlagen
+- TOP 3.8.: Versetzung der Lieferzone Lucile-Grahn-Straße
+- TOP 3.9.: Standort für die Dialogdisplays im Stadtbezirk 5
+- TOP 3.10.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2019 - 2023 mit verbindlicher Planung für 2024; Entwurf für das Baureferat
+- TOP 3.11.: (U) Meldeplattform Radverkehr Internetportal zur Bearbeitung von Anregungen und Beschwerden zum Radverkehr
+- TOP 3.12.: (U) Freies WLAN in U-Bahn, Tram und Bus Antrag Nr. 14-20 / A 05156 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.02.2014 Das M-WLAN auch auf Sperrengeschosse ausweiten Antrag Nr. 14-20 / A 00425 von der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 12.11.2014 Was in Nürnberg möglich ist, muss auch in München gehen: Einführung von öffentlichen WLAN-Netzen in Zwischen-geschossen und an Bahnsteigen der MVG Antrag Nr. 14-20 / A 04436 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.09.2018 WLAN /WiFi in allen MVG- und MVV-Bereichen Antrag Nr. 14-20 / B 06062 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 10.04.2019 In MVG-Bussen Handy laden und öffentlichen WLAN-Anschluss Antrag Nr. 14-20 / B 07276 des Bezirksausschusses des Stadtbezirkes 18 – Untergiesing-Harlaching vom 17.12.2019
+- TOP 4.1.: Projektantrag "Begrünung der Rosenheimer Straße"
+- TOP 4.2.: Parksituation Gebiet Grillparzerstraße um Kirche St. Gabriel
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 18.05.2020, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 18.05.2020, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 19.05.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 20.05.2020, 19.00 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 20.05.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 06.05.2020, Konstituierende Sitzung, 19 Uhr, VHS Einsteinstr. 28 Mittwoch, 27.05.2020, 19.00 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Dienstag, 12.05.2020, 19 Uhr, Friedenstraße 40
