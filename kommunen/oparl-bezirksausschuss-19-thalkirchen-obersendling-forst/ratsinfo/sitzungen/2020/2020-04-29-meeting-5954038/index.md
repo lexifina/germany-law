@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5954038
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5954038
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 0.1.: - entfällt - Hinweis: Die Sitzungen der Ferienausschüsse finden teilweise in kleineren Besprechungsräumen mit entsprechend reduzierter Kapazität statt. Es stehen unter Umständen nur wenige Plätze für Besucher*innen zur Verfügung. Auch finden die Sitzungen mit einer stark reduzierten Tagesordnung und - nach zuvor erfolgten internen Vorabstimmungen in den Bezirksausschüssen - weitestgehend ohne inhaltliche Diskussionen statt. Die Bürgersprechstunde entfällt.
+- TOP 1.4.: Genehmigung der Protokolle vom 03.03.2020 und der Festlegungen im Umlaufverfahren vom 31.03.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Ferienausschuss – Umlaufbeschluss
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kirchenstiftung St. Joachim Stadtteilfest „Wir in Obersendling- Willkommen im Quartier“ am 04.07.2020 4.780,00 €, Az.: 0262.0-19-0314
+- TOP 3.3.: (E) Stadtbezirksbudget Elterninitiative Silizius e.V. Anschaffung einer Spülmaschine vom 01.07.-31.08.2020 3.391,99 €, Az:0262.0-8-0320
+- TOP 3.4.: (E) Stadtbezirksbudget Elterninitiative Silizius e.V. Sandkastenbau und Erneuerung Transportseile des Sonnensegels vom 04.05.-30.06.2020 4.486,54 €, AZ: 0262.0-19-0319
+- TOP 3.5.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Artmobil vom 15.05. - 17.05.2020 und 02.10. - 04.10.2010 2.542,00 Euro, Az.: 0262.0-19-0321
+- TOP 3.6.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Artmobil 2021 1.271,00 Euro, Az.: 0262.0-19-0322
+- TOP 3.7.: (E) Stadtbezirksbudget TSV Forstenried e.V. Anschaffung von Gerätschaften für Jugendfußball und Gewichtheben 709,87 Euro, Az.: 0262.0-19-0316
+- TOP 3.8.: (E) Stadtbezirksbudget Initiative Konzert Forstenried Konzert Kirche Heilig Kreuz Forstenried am 26.04.2020 3.095,00€, AZ: 0262.0-19-0324
+- TOP 3.9.: (A) Mehrjahreskosteninvestitionsprogramm (MIP) 2020-2024
+- TOP 3.10.: (E) Stadtbezirksbudget Maibaumverein Forstenried e.V. Abbau Maibaum vom 16.-17.10.2020 2.100,00 €, AZ: 0262.0-19-0325
+- TOP 3.11.: (E) Stadtbezirksbudget REGSAM e.V. Herausgabe einer Broschüre mit Informationen für ältere Menschen und deren Angehörige 3.380,00 €, AZ:0262.0-19-0326
+- TOP 3.12.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Klavierkonzert vom 13.05.-30.04.2021 300,00€; Az. 0262.0-19-0327
+- TOP 3.13.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. Forstenrieder Dorffest 2020 vom 16.05.-17.05.2020 bzw. im Herbst 2020 3.433,50€; Az. 0262.0-19-0328
+- TOP 3.14.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Ausflugsfahrten zum Tierpark Hellabrunn am 20. und 26.05.2020 1.230,00 €; Az. 0262.0-19-0329
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Baumschutz München: Aufklären und verbessern
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Blumenwiesen im 19. Stadtbezirk: Grünanlage Bleibtreustraße/Begasweg
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Entfernung Kopfsteinpflaster Zielstattstr. 2a
+- TOP 5.3.: (Antrag) Schulwegsicherheit Fußgängerüberweg Zielstattstraße
+- TOP 5.4.: (E) Projektplanung: U-Bahn-Station Fürstenried West, überdachte Fahrradabstellanlage
+- TOP 5.5.: Straßensperrung Peretshofener Straße
+- TOP 5.6.: Verkehrskonzept Sonderpädagogisches Förderzentrum Allescherstraße
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Aufhebung Radwegbenutzungspflicht Steinkirchner Straße
+- TOP 5.8.: (A) Bebauungsplan Nr. 2072a - Am Südpark: Erschließungsstraße U-1732 Eleonore-Romberg-Straße
+- TOP 5.9.: (A) MVG-Leistungsprogramm 2021
+- TOP 5.10.: (Antrag) Ersatz Kopfsteinpflaster durch Flüsterbelag im Bereich Hofmannstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Betriebsbeschreibung und Verkehrsgutachten: Sonderpädagogisches Förderzentrum Allescher Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Provisorisches Container-Schulgebäude Grundschule Baierbrunner Straße
+- TOP 7.3.: (Antrag) Finanzielle Förderung von Mittagsbetreuungen
+- TOP 7.4.: (Antrag) Aufbesserung Kleinkinderspielplatz Sollner Hügel
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee 01.05. bis 03.08.2020
