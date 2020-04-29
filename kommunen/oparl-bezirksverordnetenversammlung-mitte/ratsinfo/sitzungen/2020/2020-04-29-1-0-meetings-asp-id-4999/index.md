@@ -1,0 +1,51 @@
+# 41. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-04-29T17:30:00+02:00
+- Ende: 2020-04-29T20:00:00+02:00
+- Ort: UNVG , https://global.gotomeeting.com/join/487267477
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4999
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4999
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=468412
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=469898
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - mit Änderungen im Ausschuss beschlossen
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Absprache zur Durchführung von kommenden Ausschusssitzungen. - erledigt
+- TOP 4: Protokoll - (offen)
+- TOP 4.1: der 35. Sitzung am 23.10.2019 - vertagt
+- TOP 4.2: der 38. Sitzung am 21.01.2020 - vertagt
+- TOP 4.3: der 39. Sitzung am 24.02.2020 - vertagt
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: des Bezirksamtes - erledigt
+- TOP 6: Aktuelle Viertelstunde - erledigt
+- TOP 7: Beratung von Drucksachen - (offen)
+- TOP 7.1: Runder Tisch Engelbecken - vertagt
+- TOP 7.2: Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten - vertagt
+- TOP 7.3: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - vertagt
+- TOP 7.4: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - vertagt
+- TOP 7.5: über den Beschluss über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 Baugesetzbuch (BauGB) zum Bebau-ungsplanverfahren I-57-1 (Monbijou-Theater). - vertagt
+- TOP 7.6: Runder Tisch Mobilität - vertagt
+- TOP 7.7: Himmelbeet auf den Mettmannplatz! - vertagt
+- TOP 7.8: Plantagenstraße zur Spielstraße - vertagt
+- TOP 7.9: Stadtklima verbessern, Grünflächen entsiegeln - vertagt
+- TOP 7.10: Größere Baumscheiben für Straßenbäume - vertagt
+- TOP 7.11: Spreeuferweg im Nikolaiviertel - vertagt
+- TOP 7.12: Verkehrsberuhigung in Wohnkiezen – „Superblocks“ (Superilles) auch für Mitte - vertagt
+- TOP 7.13: Altglassammelcontainer – Standorte bekanntgeben - vertagt
+- TOP 7.14: Mehr Rücksicht auf Fußgänger an Bushaltestellen - vertagt
+- TOP 7.15: Anordnung Tempo 30 für die Veteranenstraße - vertagt
+- TOP 7.16: Querung Fennstraße endlich sicher machen - vertagt
+- TOP 7.17: Verkehrssicherheit im Brüsseler Kiez erhöhen - vertagt
+- TOP 8: Verschiedenes - erledigt
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: der Seniorenvertretung - erledigt
+- TOP 10: Terminplanung - im Ausschuss abgelehnt
