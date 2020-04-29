@@ -1,0 +1,111 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2020-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5756509
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5756509
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP B: Soziales
+- TOP 1.1.: Antrag CSU zur Anmietung Hohenzollernstr. 7
+- TOP 2.1.: (E) Stadtbezirksbudget Verein für Internationale Jugendarbeit Ortsverband München e.V. Anschaffung Salattheke 1.167€, Az.: 0262.0-4-0293
+- TOP 2.2.: (E) Stadtbezirksbudget Pfennigparade Ernst-Barlach-Schulen GmbH Theater Trampelmuse vom 18.06. - 30.06.2020 930,00 Euro, Az.: 0262.0-4-0289
+- TOP 2.3.: (E) Stadtbezirksbudget Centro Cultural del Peru e.V. Seminar „Mut! Power! Standing!“ vom 05.-14.05.2020 2.282,90€; Az. 0262.0-4-0295
+- TOP 2.4.: (E) Stadtbezirksbudget Condrobs e.V. Therapeutische Ferienfahrt zwischen Mai und September 2020 1.550€, AZ: 0262.0-04-0297
+- TOP 2.5.: Versorgung wohnungsloser Haushalte an den Standorten Hohenzollernplatz 7 und Dantestraße 18 (Anhörung zum Beschlussentwurf für den Sozialausschuss vom 28.05.2020)
+- TOP 2.6.: (E) Stadtbezirksbudget Condrobs e.V. Neue Dunstabzugshaube für unseren Kontaktladen „limit.“ 2.471,97€; Az. 0262.0-4-0300
+- TOP 2.7.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl vom 22.-24.09.2020 1.616,00€; Az. 0262.0-4-0301
+- TOP 2.8.: (E) Stadtbezirksbudget Kick it international e.V. Kick it Familientag am 01.05.2020 1.840,00 € / Az. 0262.0-4-0298
+- TOP 2.9.: (E) Stadtbezirksbudget Ackermannbogen e.V. Umweltbildung im Gemeinschaftsgarten StadtAcker am Ackermannbogen vom 01.05.-31.12.2020 3.375,00€; Az. 0262.0-4-0291
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Baulicher Zustand der Grundschule am Bayernplatz (Antwort des Referats für Bildung und Sport auf BA-Schreiben vom 20.02.2020 und Stellungnahme der Rektorin dazu)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Vorübergehende Anmietung des Jugendgästehauses „Haus International“ (Elisabethstr. 87) zur Aufrechterhaltung der Versorgung von akut wohnungslosen Menschen / Eindämmung der Corona-Pandemie
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: „Ho Guom“, Schleißheimer Str. 121: Erweiterung der bestehenden Freischankfläche
+- TOP 2.2.1.: (E) Stadtbezirksbudget Moreth Company Aufführung "Sarajevo - die Toten tanzen noch" im Mai bis Juni 2020 4.000,00 Euro, Az.: 0262.0-4-0292
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative "Peace Damage" Peace Damage - Phase I von Mai bis Juli 2020 5.375,50 € / Az. 0262.0-4-0299
+- TOP 2.2.3.: (E) Stadtbezirksbudget Initiative „Multimediale Theaterperformance“ “Multimediale Theaterperformance“ von September bis Dezember 2020 3.000,00€; Az. 0262.0-4-0294
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Mietverhältnisse in der Lerchenauer Straße
+- TOP 1.2.: Bürger und Ackermannbogen e.V.: Erweiterung des Studentenwohnheims Schwere-Reiter-Straße
+- TOP 1.3.: Bürger: Baumaßnahmen am Bamberger Haus
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Vorbescheid Hiltenspergerstr. 44 RGB: Aufstockung eines Rückgebäudes mit 5 Wohneinheiten
+- TOP 2.1.2.: Hiltenspergerstr. 55: Nutzungsänderung und Umbau der Räume im EG und 1. OG: Kindergarten zu Büroräumen
+- TOP 2.1.3.: Arcisstraße: Neubau Wohn- und Geschäftshaus mit Tiefgarage, Büro- und Verkaufsräumen, Gastronomie und Kindertagesstätte
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Tengstr. 14: Vermietung von Wohnraum an häufig wechselnde Untermieter (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 20.02.2020)
+- TOP 3.1.2.: Isabellastr. 35: Leerstand einer Wohnung und eines Ladens (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 20.02.2020)
+- TOP 3.1.3.: Cherubinistr. 2: Abdruck der Baugenehmigung zum Anbau von Balkonen sowie Dach- und Fassadensanierung zweier Wohngebäude im Ensemble incl. Modernisierung der Außenanlagen
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Sichtbarkeit der Barriere an der Trambahnhaltestelle Nordbad (Linie 27) verbessern
+- TOP 1.2.: Bürger: Einhaltung von Tempo 30 in der westlichen Herzogstraße
+- TOP 1.3.: Bürger: Poller oder Sperrbügel zum Schutz der Haltverbotsfläche Schleißheimer Str. 221
+- TOP 1.4.: Bürgerin: Falschparker in der Spielstraße Rosa-Aschenbrenner-Bogen
+- TOP 1.5.: Bürgerin: Sitzbank an der Winzerer- / Ecke Saarstraße (Westseite)
+- TOP 1.6.: Ackermannbogen e.V.: Fußgänger- und Radbrücke über die Schwere-Reiter-Straße planerisch festsetzen (vgl. dazu Zwischennachricht TOP E 3.1.3)
+- TOP 1.7.: Ackermannbogen e.V.: Gestaltung des namenlosen Platzes an der Adams-Lehmann-Straße
+- TOP 1.8.: Ackermannbogen e.V.: Fahrrad-Rennstrecke im Ackermannbogen und Einbiegung Saarstraße – Aufforderung zur Rücksichtnahme
+- TOP 1.9.: Ackermannbogen e.V.: Überhöhte Geschwindigkeiten in der Adams-Lehmann- und Petra-Kelly-Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Unterflurcontainer für die Wertstoffinsel Römerstraße 12 Empfehlung Nr. 14-20 / E 02855 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 10.10.2019
+- TOP 2.2.1.: (E) + (U) Mehr Platz für die Buslinie 142 an der Rümann- / Ecke Isoldenstraße Empfehlung Nr. 14-20 / E 02846 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing West am 10.10.2019
+- TOP 2.2.2.: Verbesserung der Abstellsituation von E-Tretrollern (sog. E-Scootern) durch Einrichtung gesonderter Abstellflächen: Standortvorschläge des BA?
+- TOP 2.2.3.: (E) Kombinierter Fußgänger- und Radweg in der Bamberger Straße
+- TOP 2.2.4.: (E) Einhaltung der Verkehrsregeln in Fahrradstraßen: Infokampagne und Überwachung
+- TOP 2.2.5.: (E) Rampe statt Stufen am Deidesheimer Anger Empfehlung Nr. 14-20 / E 02850 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 10.10.2019
+- TOP 2.2.6.: Anhörung zum MVG-Leistungsprogramm 2021
+- TOP 2.2.7.: Einrichtung einer Pkw-Parkzone in der Birnauer Straße / U-Bahnhof Petuelring (Nordseite)
+- TOP 2.2.8.: (E) Radweg in der Kurfürstenstraße zum Gehweg umwidmen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Hörwarthstraße als Fahrradstraße ausweisen (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 30.01.2020)
+- TOP 3.3.1.: Übersicht über die 2018 und 2019 im Stadtgebiet München errichteten E-Ladesäulen (alphabetisch nach Straßennamen und nach Stadtbezirken geordnet)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP 3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.: Straßenunterhaltsarbeiten entlang der Trambahnschienen in der Barer Straße (Informationsschreiben der Stadtwerke MVG an die Bezirksausschüsse 3 und 4)
+- TOP 3.4.4.: (U) Meldeplattform Radverkehr Internetportal zur Bearbeitung von Anregungen und Beschwerden zum Radverkehr
+- TOP 3.4.5.: Aufstellung von Dialogdisplays in der Herzogstraße zwischen Fallmerayer- und Schleißheimer Straße (27.04. bis 21.06.2020)
+- TOP 3.4.6.: Ausnahmezulassung für nächtliche Bauarbeiten zur Fahrbahnsanierung an der Kreuzung Belgrad-/Unertlstraße (27. bis 30.04.2020)
+- TOP 3.4.7.: Brunnerstr. 41-43: Sanierung der Fahrbahn und der Bordsteine (Anliegerinformation des Baureferats Tiefbau)
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Mehrjahresinvestitionsprogramm – Anhörungsverfahren: Fortschreibung für die Jahre 2019 bis 2020
+- TOP G: Verschiedenes
+- TOP H: Termine
