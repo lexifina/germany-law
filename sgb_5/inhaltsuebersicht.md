@@ -21,7 +21,7 @@
 | Siebter Abschnitt | Zahnersatz .......................... | §§ 55 bis 59 |
 | Achter Abschnitt | Fahrkosten .......................... | § 60 |
 | Neunter Abschnitt | Zuzahlungen, Belastungsgrenze ....... | §§ 61 und 62 |
-| Zehnter Abschnitt | Weiterentwicklung der Versorgung ....... | §§ 63 bis 68 |
+| Zehnter Abschnitt | Weiterentwicklung der Versorgung ....... | §§ 63 bis 68b |
 |  |  |
 | Viertes Kapitel | Beziehungen der Krankenkassen zu den Leistungserbringern |  |
 | Erster Abschnitt | Allgemeine Grundsätze ....... | §§ 69 bis 71 |
@@ -41,7 +41,7 @@
 | Sechster Abschnitt | Beziehungen zu Leistungserbringern von Hilfsmitteln ........................ | §§ 126 bis 128 |
 | Siebter Abschnitt | Beziehungen zu Apotheken und pharmazeutischen Unternehmern ....... | §§ 129 bis 131a |
 | Achter Abschnitt | Beziehungen zu sonstigen Leistungserbringern ................. | §§ 132 bis 134 |
-| Neunter Abschnitt | Sicherung der Qualität der Leistungserbringung ................. | §§ 135 bis 139c |
+| Neunter Abschnitt | Sicherung der Qualität der Leistungserbringung ................. | §§ 135 bis 139e |
 | Zehnter Abschnitt | Eigeneinrichtungen der Krankenkassen ....... | § 140 |
 | Elfter Abschnitt | Sonstige Beziehungen zu den Leistungserbringern ........ | §§ 140a bis 140d |
 | Zwölfter Abschnitt | Beziehungen zu Leistungserbringern in Staaten, in denen die Verordnung (EWG) Nr. 1408/71 anzuwenden ist ...... | § 140e |
@@ -89,7 +89,7 @@
 | Zweiter Titel | Informationsgrundlagen der Krankenkassen ....................... | §§ 288 bis 293a |
 | Zweiter Abschnitt | Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz |  |
 | Erster Titel | Übermittlung von Leistungsdaten ....... | §§ 294 bis 303 |
-| Zweiter Titel | Datentransparenz ....... | §§ 303a bis 303e |
+| Zweiter Titel | Datentransparenz ....... | §§ 303a bis 303f |
 | Dritter Abschnitt | Datenlöschung, Auskunftspflicht ....... | §§ 304 und 305b |
 |  |  |
 | Elftes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 306 und 307b |
