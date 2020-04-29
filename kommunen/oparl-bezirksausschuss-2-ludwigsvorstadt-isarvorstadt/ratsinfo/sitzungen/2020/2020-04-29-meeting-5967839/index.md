@@ -1,0 +1,106 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5967839
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5967839
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Wahl der/s Vorsitzenden des Ferienausschusses
+- TOP 4.: Genehmigung der Niederschriften der Sitzung am 18.02.2020
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide für Veranstaltungen
+- TOP D 4.1.: Eilentscheidungen zu Angelegenheiten der abgesagten Sitzung am 24.03.2020
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: Stadtbezirksbudget Erhöhung des Zuschusses für das Projekt „The Pissoir“ um 93,78 € auf insgesamt 1.313,78 € (ursprünglicher Antrag vom 17.07.2017 der Initiative „The Pissoir“)
+- TOP 2.2.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Artmobil 2021 1.271,00€; Az. 0262.0-2-0332
+- TOP 2.3.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Artmobil vom 04.-06.08.2020 1.271,00€; Az. 0262.0-2-0333
+- TOP 2.4.: (E) Stadtbezirksbudget Schüler-Frei-Raum e.V. Ferienfahrt Pfingsten 2020 vom 29.05. - 09.06.2020 3.211,50 €, AZ: 0262.0-2-0331
+- TOP 2.5.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Anschaffung Tischtennisplatten ab 08.05.2020 2.721,75€; Az. 0262.0-2-0334
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative „15x4“ Veranstaltung „15x4 Geburtstagsevent im Deutschen Museum“ am 14.05.2020 1.689,28€; Az. 0262.0-2-0329
+- TOP 2.7.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Erweiterung der Bepflanzung des öffentlichen Bahngartens ab 12.05.2020 4.159,66€; Az. 0262.0-2-0335
+- TOP 2.8.: (E) Stadtbezirksbudget Tanztendenz München e.V. Residenz und Netzwerktreffen mit PlattformPLUS vom 22.03.-05.04.2020 und vom 29.06.-07.07.2020 3.142,60€; Az. 0262.0-2-0325
+- TOP 2.9.: (E) Stadtbezirksbudget Bellevue di Monaco eG Straßenfest am 21.06.2020 (Regenalternative: 28.06.2020) 1.425,00€; Az. 0262.0-2-0328
+- TOP 2.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.11.: (E) Stadtbezirksbudget Initiative "Sag&#039;s einfach" Seminar "Sag&#039;s einfach" vom 24.03.2020 - 02.04.2020 3.931,04 Euro, Az.: 0262.0-2-0327
+- TOP 5.1.: (E) Einrichtung Zebrastreifen in der Wittelsbacherstraße vor der Einmündung Klenzestraße
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.2.1.: Antrag auf Baumfällung, Baldestraße 7
+- TOP 3.2.2.: Antrag auf Baumfällung, Ringseisstraße 10
+- TOP 3.3.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2019 bis 2023
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: (E) Radabstellanlagen in der Jahnstraße Schaffung von mehr Fahrradabstellplätzen in der Jahnstraße Empfehlung Nr. 14-20 / E 01817 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017 Umwandlung von vier Auto- in Fahrradstellplätze in der Jahnstraße Empfehlung Nr. 14-20 / E 02286 der Bürgerversammlung des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Austausch einer Ampel am Zenettiplatz
+- TOP 3.2.2.: Einrichtung einer Lieferzone im Parklizenzgebiet Gärtnerplatz, Müllerstraße 17
+- TOP 3.2.3.: Erleichterte streckenbezogene Anordnung von 30 km/h vor Schulen und ähnlichen Einrichtungen – hier: Krankenhaus und Kindergarten in der Thalkirchner Straße 48 und 86
+- TOP 3.2.4.: MVG-Leistungsprogramm 2021 - Anhörung der Bezirksausschüsse
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Antrag d der Kinder- und Jugendeinwohnerversammlung vom 21.11.2019 Mildere Konsequenzen beim Fehlen in der Schule wegen „Fridays for Future“-Demos
+- TOP A 4.4.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume; Westermühlstraße Ecke Hans-Sachs-Straße
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Anwohner-Information zu den Baumaßnahmen auf dem Schlachthofgelände
+- TOP C 4.7.: Umwidmung von Kurzzeit-Mischpark-Bereichen zu Mischparkbereichen bzw. Mischparkbereichen zu Anwohnerparkbereichen
+- TOP C 4.8.: Mehr Fahrradabstellplätze am Hauptbahnhof während der Bauarbeiten
+- TOP C 4.9.: Einrichtung von Elektro-Ladesäulen im öffentlichen Raum Standortübersicht für die Ladepunkte, die 2018 errichtet wurden
+- TOP C 4.10.: Einrichtung von Elektro-Ladesäulen im öffentlichen Raum Standortübersicht für die Ladepunkte, die 2019 errichtet wurden
+- TOP C 4.11.: Thalkirchner Straße: Tempo 30 zwischen Kapuziner- und Reisingerstraße
+- TOP C 4.12.: Sichtfeld am provisorischen Zebrastreifen vor der Klinik Thalkirchner Straße freihalten
+- TOP C 4.13.: Zusätzliche Sammelstellen für gebrauchte Christbäume
+- TOP C 4.14.: Kunstaktion „Ruth‘s Bankerl“ am 09.06.2020 in der Goethestr. / Ecke Landwehrstr. und am 10.06.2020 auf der Theresienwiese (unterhalb der Bavaria)
+- TOP C 4.15.: Mitteilung der Aufstellung von Dialogdisplays vom 27.04.2020 bis 21.06.2020 an der Wittelsbacherstraße
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
