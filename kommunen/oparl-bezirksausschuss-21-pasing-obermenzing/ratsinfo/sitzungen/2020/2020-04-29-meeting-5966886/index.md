@@ -1,0 +1,98 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2020-04-29T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5966886
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5966886
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 3.: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Slezakstr. 7: 1 Eibe
+- TOP 3.1.2.: Menzinger Str. 64d: 1 Weide
+- TOP 3.1.3.: Böhlaustr. 4: 1 Birke
+- TOP 3.1.4.: Bergsonstr. 53: Baumbestandsplan
+- TOP 3.1.5.: Steffanistr. 6a: Baumbestandsplan
+- TOP 3.1.6.: Haidelweg 34-38: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.7.: Im Wismat 6: Baumbestandsplan
+- TOP 3.1.8.: Chopinstr. 7: 2 Fichten, 1 Kiefer
+- TOP 3.1.9.: Pfättendorferstr. 17: Baumbestandsplan
+- TOP 3.1.10.: Marsopstr. 29: Baumbestandsplan
+- TOP 3.1.11.: Prentelweg 7: Baumbestandsplan
+- TOP 3.1.12.: Pippinger Str. 124: Baumbestandsplan
+- TOP 3.1.13.: Herzog-Johann-Str. 8: 1 Fichte, 1 Kirsche
+- TOP 3.1.14.: Münchhausenstr. 2: 1 Thuja
+- TOP 3.1.15.: Josef-Lang-Str. 10: 5 Ahorn, 1 Eiche, 1 Linde
+- TOP 3.1.16.: Rißheimerstr. 13: 1 Schwarzkiefer
+- TOP 3.1.17.: Steirerstr. 16: 1 Silberpappel
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1: Berichte der Beauftragten
+- TOP 7.1.1: Kinderbeauftragte
+- TOP 7.1.2: Jugendbeauftragte
+- TOP 7.1.3: Gleichstellungsbeauftragte
+- TOP 7.1.4: Behindertenbeauftragte
+- TOP 7.1.5: Bürgerbeiräte Verdistr. 45, Jugendhilfez. Scapinellistr,
+- TOP 7.1.6: Migrationsbeauftragter
+- TOP 7.1.7: Beauftragter im Mieterbeirat
+- TOP 7.1.8: REGSAM-Beauftragte
+- TOP 7.1.9: Denkmalschutzbeauftragter
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Anhörungen
+- TOP 11.: Anträge und Anfragen
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 14.2: Sonstige
+- TOP 15.: Verschiedenes
+- TOP 3.1.: Protokoll des Ortstermins vom 19.03.20 (Neupflanzungen öffentliche Grünfläche nördlich des Karlsgymnasiums)
+- TOP 9.1.: (E) Stadtbezirksbudget Evang.-Luth. Carolinenkirche Neugestaltung der Außenanlage ab 27.03.2020 15.108,00 Euro, Az.: 0262.0-21-0238 (Vertagung aus der BA-Sitzung am 03.03.20)
+- TOP 9.2.: (E) Stadtbezirksbudget Initiative "Künstlerische Gestaltung" Künstlerische Gestaltung des Unterstandes in der Grünanlage Josef-Felder-Straße vom 01.04.2020 - 31.05.2020 4.045,80 Euro, Az.: 0262.0-21-0237 (Vertagung aus der BA-Sitzung am 03.03.20)
+- TOP 9.3.: (E) Stadtbezirksbudget Kulturforum München-West e.V. Veranstaltung "Ankommen in Pasing" am 16.05.2020 452,00 Euro, Az.: 0262.0-21-0243
+- TOP 9.4.: (E) Stadtbezirksbudget Institut für zukunftsweisende Geschichte e.V. Ausstellung "Pasinger Erinnerungsorte" von März bis Juni 2021 8.000,00 € / Az. 0262.0-21-0240
+- TOP 9.5.: (E) Stadtbezirksbudget Gebirgstrachtenerhaltungsverein D&#039;Würmtaler-Stamm e.V. München-Pasing Maibaumfest 2020 am 01.05.2020 4.368,75 €, AZ: 0262.0-21-0244
+- TOP 9.6.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Zirkus Pumpernudl vom 18.-20.07.2020 und Artmobil vom 15.-17.09.2020 2.887,00 € / Az. 0262.0-21-0248
+- TOP 9.7.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Zirkus Pumpernudl und Artmobil in 2021 2.887,00 € / Az. 0262.0-21-0247
+- TOP 9.8.: (E) Stadtbezirksbudget Veteranen- und Reservistenkameradschaft Obermenzing e.V. 110-jähriges Jubiläum am 12.09.2020 3.100,00 € / Az. 0262.0-21-0246
+- TOP 9.9.: (E) Stadtbezirksbudget TSG Pasing von 1888 e.V. Anschaffung notwendiger Sportartikel 2.500,00 € / Az. 0262.0-21-0245
+- TOP 9.10.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung; Josef-Osterhuber-Platz
+- TOP 10.1.: Bergsonstr. 53: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.2.: Steffanistr. 6a: Baumbestandsplan
+- TOP 10.3.: Haidelweg 34-38: Generalinstandsetzung der Tiefgarage (mit Eingriff in tragende Bauteile) sowie lokale Erdarbeiten (Rückbau stat. unzulässiger Hügel) und lokale Abdichtungsarbeiten
+- TOP 10.4.: Errichtung einer Wertstoffcontainerinsel; Standort Am Stadtpark / Wiesengrund
+- TOP 10.5.: Errichtung einer Wertstoffcontainerinsel; Standort Wilhelm-Hey-Straße gegenüber Croissant-Rust-Straße
+- TOP 10.6.: Errichtung einer Wertstoffcontainerinsel; Standort Hillernstraße / Steinerweg
+- TOP 10.7.: Errichtung einer Wertstoffcontainerinsel; Standort Maria-Eich-Straße / Paosostraße
+- TOP 10.8.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2019 bis 2030
+- TOP 10.9.: MVG-Leistungsprogramm 2021
+- TOP 10.10.: Pfättendorferstr. 17: Neubau eines Einfamilienhauses mit Carport
+- TOP 10.11.: Marsopstr. 29: Neubau zweier Satteldach-Mehrfamilienhäuser mit Tiefgarage
+- TOP 10.12.: Prentelweg 7: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.13.: Pippinger Str. 124: Umbau des 2-geschossigen Rückgebäudes in eine physiotherapeutische Praxis (EG) und eine 2-Zimmerwohnung (OG) sowie Neuerrichtung 3er Pkw-Stellplätze
+- TOP 10.14.: Floßmannstr. 20: Abbruch von Bestandsbauten und Neubau eines Wohngebäudes mit Wintergarten und Nebengebäude (Gartenhaus) - Variante 1; Neubau eines Wohngebäudes mit Nebengebäude (Gartenhause) - Variante 2
+- TOP 10.15.: Silberdistelstraße; Pasinger Vorwiesn vom 29.07.-03.08.20
+- TOP 10.16.: Bäckerstraße, Anordnung von absoluten Haltverboten (Zeichen 283 StVO); verkehrsrechtliche Anordnung
+- TOP 11.1.: CSU, Antrag: Verlegung der Bushaltestelle Linie 130 Veldener Straße stadteinwärts überprüfen
+- TOP 11.2.: CSU, Antrag: Anbringen von Umlaufsperren am Fußweg westlich der Würm zwischen Betzenweg und Dorfstraße
+- TOP 11.3.: CSU, Antrag: Neue Haltestelle St. Wolfgang / Pipping der Linie 159
+- TOP 11.4.: SPD, Antrag: Alle Bau-, Baumbestands- und Freiflächengestaltungspläne ab sofort in Alfresco verfügbar machen, um die Handlungsfähigkeit auch in Corona-Zeiten zu gewährleisten
+- TOP 11.5.: SPD, Antrag: BA-Sitzungen in der Turnhalle in der Grandlschule
+- TOP 14.2.1.: Pro Bahn: MVG-Leistungsprogramm 2021
+- TOP 14.2.2.: Münchner Forum: MVG-Leistungsprogramm 2021
+- TOP 14.2.3.: Deutsche Stiftung Denkmalschutz: Tag des Offenen Denkmals 2020
+- TOP 14.2.4.: Bauvorhaben Pasinger Marienplatz; Hotelanfahrt
