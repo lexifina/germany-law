@@ -1,0 +1,131 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2020-04-29T17:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5957001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5957001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Sozialstation Berg am Laim und Trudering gGmbH Sommerfest am 17.07. oder 24.07.2020 970,00 € / Az. 0262.0-18-0205
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Artmobil und Zirkus Pumpernudl in 2021 4.158,00 € / Az. 0262.0-18-0208
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Artmobil vom 08.-10.092020 + 23.-25.10.2020 und Zirkus Pumpernudl vom 25.-27.09.2020 4.158,00 € / Az. 0262.0-18-0209
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Spiellandschaft Stadt e.V. Familienfest und Spielwerkstatt vom 14.-17.08.2020 3.970,00 € / Az. 0262.0-18-0207
+- TOP 3.1.2.5.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget; hier: Kreuzung Hans-Mielich-Platz / Pilgersheimer Straße - Verkehrsspiegel zur Vermeidung von Unfällen
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Initiative "Mehrzweckraum" Ausstellung "Martin Oscity" vom 06.03. - 20.06.2020 487,50 € / Az. 0262.0-18-0193
+- TOP 3.1.2.7.: (E) Stadtbezirksbudget Initiative „Tape Art“ “Tape Art“ vom 19.03. - 20.03.2020 1.000,- €; Az. 0262.0-18-0198
+- TOP 3.1.2.8.: (E) Stadtbezirksbudget Init. „Mehrzweckraum“ MitSingKonzert am 26.03.2020 247,50 €; Az. 0262.0-18-0199
+- TOP 3.1.2.9.: (E) Stadtbezirksbudget Maibaumverein Menterschwaige e.V. Harlachinger Maibaumfest 2020 vom 30.04.-02.05.2020 6.095,00€; Az. 0262.0-18-0200
+- TOP 3.1.2.10.: (E) Stadtbezirksbudget Kreisjugendring München Stadt Fromundstraßenfest 2020 am 17.07.2020 3.945,00 € / Az. 0262.0-18-0201
+- TOP 3.1.2.11.: (E) Stadtbezirksbudget Green City e.V. Essbare Stadt von April bis November 2020 2.450,00 € / Az. 0262.0-18-0202
+- TOP 3.1.2.12.: (E) Stadtbezirksbudget BIKU e.V. Projekt "Mädchen an den Ball!" vom 01.06. - 31.12.2020 3.150,00 € / Az. 0262.0-18-0204
+- TOP 3.1.2.13.: (E) Stadtbezirksbudget Pfarrverband Harlaching Pfingstfahrt vom 31.05. - 06.06.2020 und Zeltlager vom 09. - 06.06.2020 5.200,00 € / Az. 0262.0-18-0203
+- TOP 3.1.2.14.: (E) Stadtbezirksbudget Kunstverein München e.V. Diskursive Reihe für kulturellen Austausch im öffentlichen Raum von Juni bis Oktober 2020 3.305,32 € / Az. 0262.0-18-0210
+- TOP 3.1.4.1.: Kairosis gUG - Theaterprojekt "So lonely - letzte Reise", Verlängerung des Bewilligungszeitraums bis 31.12.2020; Anhörung des Direktoriums
+- TOP 3.2.1: Bericht
+- TOP 3.2.2.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung; hier: Geiselgasteigstraße 141 - 147; Projekt-Nr.: 100936; Beschluss des BA 18 vom 17.03.2020
+- TOP 3.2.2.2.: (E) + (U) Tramlinien 15 und 25: regelmäßiger 5 Minutentakt Empfehlung Nr. 14-20 / E 03004 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 07.11.2019
+- TOP 3.2.2.3.: (E) Durchgang zwischen der Rotbuchenstraße und dem Hohen Weg: Nutzung durch Fußgängerinnen und Fußgänger sowie Rollstuhlfahrerinnen und Rollstuhlfahrer Empfehlung Nr. 14-20 / E 02993 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 07.11.2019
+- TOP 3.2.2.4.: (E) ungehinderte Nutzung der Bürgersteige durch Fußgänger im Umfeld des Wettersteinplatzes
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Erinnerungsverfahren - Otkerstraße - Fußgängerunterführung; Anpassung Straßenraum - Einmündungsbereich; Zuleitung Baureferat-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2.1.: (E) Erneuerung der Freizeitsportanlage am Candidplatz Empfehlung Nr. 14-20 / E 03008 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 07.11.2019
+- TOP 3.3.3: Anträge
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Anträge
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 22.02.17; hier: Obstverkaufsstand Candidplatz ggü. Hausnummer 1; Beschluss des Ferienausschusses vom 29.04.2020
+- TOP 3.5.3: Anträge
+- TOP 3.5.4.1.1.: Rabenkopfstraße 31, Neubau eines Zwischenbaus zwischen zwei Einfamilienhäusern (Rabenkopfstr.31+33) Anhörung vom 09.04.2020
+- TOP 3.5.4.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: (E) Einrichtung eines Begegnungs- und Kulturzentrums in Untergiesing Empfehlung Nr. 14-20 / E 03002 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 07.11.2019
+- TOP 3.6.2.2.: (E) Offener Bücherschrank auf dem Hans-Mielich-Platz
+- TOP 3.6.3: Anträge
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
