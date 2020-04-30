@@ -1,0 +1,146 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin - mit LIVESTREAM -
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-04-30T17:30:00+02:00
+- Ende: 2020-04-30T20:15:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4980
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4980
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=468411
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Feststellen von Dringlichkeiten - erledigt
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: des Vorstandes - erledigt
+- TOP 3.2: der Fraktionen - erledigt
+- TOP 3.3: der Ausschüsse - erledigt
+- TOP 3.4: des Bezirksamtes Informationen zur aktuellen Lage aufgrund der Corona-Krise unter Einbeziehung der Anfragen der Fraktionen und der Gruppe - erledigt
+- TOP 3.4.1: Wie ist das Bezirksamt auf die kommenden Schulöffnungen vorbereitet? - (offen)
+- TOP 3.4.2: Fragen zur aktuellen Pandemie - erledigt
+- TOP 3.4.3: Was sind die nächsten Schritte des Bezirksamtes im Umgang mit der Corona-Krise? - (offen)
+- TOP 3.4.4: Soziale Notlagen verhindern und Menschen helfen - (offen)
+- TOP 3.4.5: Corona und die Folgen - (offen)
+- TOP 3.4.6: Corona-Fragen der PIRATEN - (offen)
+- TOP 4: Konsenslisten - erledigt
+- TOP 5: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 5.1: Gründung des Vereins Kommunales Nachbarschaftsforum Berlin-Brandenburg e.V. (KNF) - überwiesen
+- TOP 6: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 7: Dringlichkeitsanträge - (offen)
+- TOP 7.1: Angebot des ZK/U zur Nutzung der Räumlichkeiten des Zentrums für die anliegenden Schulen - überwiesen
+- TOP 7.2: Gabenzäune dulden - ohne Änderungen in der BVV beschlossen
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Edinburger Straße 55 neu bauen oder grundsanieren - rasch ! - überwiesen
+- TOP 8.2: Flussbadpokal in 2020 fördern - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.3: Beachprojekt Plötzensee ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Grünfläche im Monbijoupark erweitern und kulturelle Nutzungen zwischen Hochbunkeranlage und südlichen Flächen bis zur Spree ermöglichen - vertagt
+- TOP 8.5: Hauptstadtzulage - überwiesen
+- TOP 8.6: Mühlendammbrücke retten - überwiesen
+- TOP 8.7: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung" - überwiesen
+- TOP 8.8: Sicherstellung der Aufnahmekapazitäten für Geflüchtete - überwiesen
+- TOP 8.9: Mühlendammbrücke - überwiesen
+- TOP 8.10: Mittes Rathaus der Zukunft ist aus Holz - vertagt
+- TOP 8.11: Mehr Schulplätze in Mitte schaffen - Gottfried-Röhl-Grundschule unverzüglich baulich erweitern - überwiesen
+- TOP 8.12: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte anwenden - überwiesen
+- TOP 8.13: Sofortmaßnahmen gegen SARS-Cov-2 - vertagt
+- TOP 8.14: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren - vertagt
+- TOP 8.15: Fahrplan für die Gewinnung von Schul- und Kitastandorten vorlegen - vertagt
+- TOP 8.16: U-Bahnhof Französische Straße - vertagt
+- TOP 8.17: Verkehrskonzepte für ALLE Verkehrsteilnehmer erstellen – Umstieg auf E-Mobilität fördern! - vertagt
+- TOP 8.18: Pilotprojekt: Schaffung eines Referenzobjektes „Klimaneutrale öffentliche Liegenschaften im Bezirk Mitte“ - überwiesen
+- TOP 8.19: 75 Jahre Befreiung vom Faschismus angemessen in Berlin-Mitte gedenken - mit Änderungen in der BVV beschlossen
+- TOP 8.20: Mitte kommt auf den Hund - überwiesen
+- TOP 8.21: Zweite und dritte Stellvertretung Bürgerdeputierte für den Ausschuss „Soziale Stadt“ - ohne Änderungen in der BVV beschlossen
+- TOP 8.22: Hülsen für Traglufthalle Stadtbad Tiergarten jetzt schon anbringen - überwiesen
+- TOP 8.23: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte - überwiesen
+- TOP 8.24: Tempo 30 für die Köpenicker Str. - überwiesen
+- TOP 8.25: Den Einsatz eines anonymisierten Bewerbungsverfahrens prüfen - überwiesen
+- TOP 8.26: Benennung von zwei Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 8.27: Planungen und Unterstützungen für die Wiedereröffnung der Schulen - überwiesen
+- TOP 8.28: Mehr Platz für das Rad – temporäre Radwege schaffen! - vertagt
+- TOP 8.29: Bürgernah, sozial und gerecht - Konsequenzen aus der Corona-Krise - überwiesen
+- TOP 8.30: Kontaktmöglichkeiten für Menschen in Pflegeeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 8.31: Frühzeitige Erkennung von an Covid-19 erkranktem Pflegepersonal - ohne Änderungen in der BVV beschlossen
+- TOP 8.32: Informationsschreiben an die Senior*innen im Bezirk mehrsprachig und in leichter Sprache - vertagt
+- TOP 8.33: Fels in der Brandung: Bezirksverwaltung jetzt Pandemie-gerecht umbauen! - überwiesen
+- TOP 8.34: Sportvereine, die aufgrund der Coronakrise in Not geraten sind, unterstützen - vertagt
+- TOP 8.35: Digitale BVV - überwiesen
+- TOP 8.36: Pflicht zum Tragen einer Mund-Nasen-Maske (Community-Maske) - vertagt
+- TOP 8.37: Kleine Kinder unterstützen – Familien entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 8.38: Keine Bußgelder im Meldewesen - überwiesen
+- TOP 8.39: Keine Aussetzung der Umstellung des Geburtsdatenprinzips auf das Wohnortsprinzip für wohnungslose Geflüchtete durch die Hintertür! - ohne Änderungen in der BVV beschlossen
+- TOP 8.40: Erreichbarkeit von Sozialpädagoginnen und Sozialpädagoginnen sicherstellen - überwiesen
+- TOP 8.41: Hilfe und Schutz für Wohnungs- und Obdachlose in der Corona-Krise - überwiesen
+- TOP 8.42: Die Forderungen des Offenen Briefs der LAG Migrationsbeauftragten im Bezirk Mitte umsetzen - überwiesen
+- TOP 8.43: Wiedereröffnung der Rathäuser und Dienstgebäude für die Bevölkerung und die Beschäftigten - überwiesen
+- TOP 8.44: Mundnasenschutz im ÖPNV - erledigt
+- TOP 9: Entschließungen - (offen)
+- TOP 9.1: Habersaathstraße 40-48 - Günstigen Wohnraum erhalten – Rekommunalisierung prüfen - vertagt
+- TOP 9.2: Gerade in CORONA-Zeiten solidarisch sein: Menschen eine Zukunft geben - vertagt
+- TOP 10: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 10.1: Regelmäßig über den Stand von Baumaßnahmen berichten und vollständigen Risikomanagementbericht vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Rathausvorplatz für alle - in der BVV abgelehnt
+- TOP 10.3: EU-Bürger*innen haben Anspruch auf Unterbringung nach ASOG. - vertagt
+- TOP 10.4: Sozialassistenten-Ausbildung - ohne Zugangsbeschränkung und schulgeldfrei! - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: soziale Infrastruktureinrichtungen für das QM-Gebiet Pankstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Runder Tisch zur Rathenower Str. 15-18 & Moratorium des Teilabrisses - vertagt
+- TOP 10.7: Erklär- und Gendenktafel für Leonhard Euler auf dem Leonhard Euler Spielplatz im Gesundbrunnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Umweltgerechtigkeit ist Querschnittsaufgabe im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Jakobsweg in Mitte ausschildern - in der BVV abgelehnt
+- TOP 10.10: Ein Haus der Hilfe für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Illegales Hütchenspiel - in der BVV abgelehnt
+- TOP 10.12: Ehemaliges Moabiter Krankenhaus als Standort für soziale und gesundheitliche Dienstleistungen ausbauen - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.13: Eine neue Chance für ein Monbijoutheater! - vertagt
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Jährlicher Energiebericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.2: Keine Verdrängungspolitik am Hansaplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.3: Chancen und Verantwortung am Leopoldplatz wahrnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.4: Mehr Familienförderung in Mitte mit dem HH 18/19 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.5: Achtsamkeit für die Arbeitsmöglichkeit von Heimatverein und Geschichtswerkstatt Tiergarten e.V. – Räumlichkeiten nicht ohne geeigneten Ersatz amtlich wegbauen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.6: Neue Wahlperiode, alte Probleme: Unternehmensfreundliche Novellierung der Überbrückungs-hilfen weiterhin einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.7: Weg zum Schleusenkrug sicher gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.8: Unerlaubtes Parken auf Gehwegen und Freiflächen auf dem Gelände des OSZ Banken und Versicherungen in Moabit unterbinden. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.9: Werkstatt-Verfahren „Neue Pavillons für die Karl-Marx-Allee“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.10: Personalbestand bei Evas Haltestelle den größeren Räumlichkeiten anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.11: Berlin trägt Kippa! - und rückt Zeugnisse historischer Judenpogrome ins Licht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.12: Konflikte am Rosenthaler Platz und Weinbergsweg endlich beilegen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.13: Weniger Müll in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.14: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - vertagt
+- TOP 11.15: Reichstagufer - eine glatte fahrradtaugliche Straßendecke statt Kopfsteinpflaster führt zu höherer Sicherheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.16: Stärkere Ausrichtung der bezirklichen Angebote der Wohnungslosenhilfe auf die Bedürfnisse von Obdachlosen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.17: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte - vertagt
+- TOP 11.18: Tarifabschluss vollständig an Beschäftigte bei freien Trägern weitergeben! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.19: Kein Ausspielen der Krankenheilwohnung für Obdachlose gegen Räume für das Gesundheitsamt durch die BIM! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.20: Zufahrtsbeschränkung am Alexanderplatz durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.21: Bäume vor Trockenheit schützen – Sommerdienst einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.22: Planungssicherheit für Veranstaltungen auf dem Gendarmenmarkt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.23: Was kostet die Beleuchtung in Grünanlagen? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.24: Tiere füttern verboten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.25: Finanzielle Zukunft des Beratungsladen „MachBar“ und „Kiezläufer“ absichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.26: Antrag zum Eckwertebeschluss für den Doppelhaushalt 2020/2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.27: DER LAUF & DER MARKT für seelische Gesundheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.28: Ein Treffpunkt für den Huttenkiez ist unabdingbar. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.29: Mehr Schulplätze an der Gottfried-Röhl – Schulgrundstück größer machen! - vertagt
+- TOP 11.30: Gehwege frei! Fahrradstellplätze auf die Straße – Autoparkplätze umwidmen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.31: Neue Räumlichkeiten - Senior*innen nicht allein lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.32: Schnellere Beseitigung von Autowracks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.33: Schulen über Angebot der Kiezsportlotsin informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.34: Erinnerung "Rund um den Koppenplatz" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.35: Obdachlosigkeit verhindern! Sofortige Beschlagnahme der Wohnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.36: Ohne BPUs liegen die dringenden Schulsanierungsmaßnahmen auf Eis! - Amtshilfe ersuchen in anderen Bezirken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.37: Stellenbesetzungsverfahren für den planenden Bereich im Schulamt Mitte beschleunigen und professionalisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.38: Leitung des Schulamts – Besetzungsverfahren starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.39: Erreichbarkeit der Beratungsstelle für behinderte, krebskranke und sehbehinderte Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.40: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte – BVV-Beschluss DS 1791/V vom 21.11.2019 umsetzen - vertagt
+- TOP 11.41: Beschluss zum Bebauungsplanentwurf III-34-1 VE vom 23.09.2018 mit Deckblatt vom 06.03.2019, geändert am 10.12.2019 für das Grundstück Sellerstraße 17 im Bezirk Mitte, Ortsteil Wedding, den Entwurf des Durchführungsvertrages zum vorhabenbezogenen Bebauungsplanentwurf III-34-1 VE und die Durchführung einer erneuten Anzeige gemäß § 6 Abs. 2 AGBauGB bei der zuständigen Senatsverwaltung. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.42: Modifikation der Lebensweltlich Orientierten Räume (LOR) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.43: Entwicklung und Verwendung von Stiftungsmitteln der „Conrad-Stiftung Bürger* für Mitte“ im Haushaltsjahr 2019 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.44: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2019 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.45: Mittelvergabe zur kiezorientierten Gewalt- und Kriminalitätsprävention der Landeskommis-sion Berlin gegen Gewalt (LaKogG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.46: Leitlinien Bürgerbeteiligung - Vorhabenliste - vertagt
+- TOP 11.47: Quartiersvision Nikolaiviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.48: Gewährung von Fördermitteln für Freiwilliges Engagement in Nachbarschaften (FEIN) - Einzelmaßnahmen im Bezirk Mitte für das Jahr 2020 - mit Abschlussbericht zur Kenntnis genommen
