@@ -47,7 +47,7 @@
 - [§ 7 Absetzung für Abnutzung oder Substanzverringerung](0007.md)
 - [§ 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen](0007a.md)
 - [§ 7b Sonderabschreibung für Mietwohnungsneubau](0007b.md)
-- [XXXX (§§ 7c bis 7d) (weggefallen)](xxxx-7c-bis-7d.md)
+- [(XXXX) §§ 7c bis 7d (weggefallen)](xxxx-7c-bis-7d.md)
 - [§ 7e (weggefallen)](0007e.md)
 - [§ 7f (weggefallen)](0007f.md)
 - [§ 7g Investitionsabzugsbeträge und Sonderabschreibungen zur Förderung kleiner und mittlerer Betriebe](0007g.md)

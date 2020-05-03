@@ -97,9 +97,8 @@ Anmeldung](0039.md)
 - [§ 50 Nichtigkeit wegen absoluter Schutzhindernisse](0050.md)
 - [§ 51 Nichtigkeit wegen des Bestehens älterer Rechte](0051.md)
 - [§ 52 Wirkungen des Verfalls und der Nichtigkeit](0052.md)
-- [§ 53 Löschung durch das Patentamt wegen Verfalls](0053.md)
-- [§ 54 Löschungsverfahren vor dem Patentamt wegen absoluter
-Schutzhindernisse](0054.md)
+- [§ 53 Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt](0053.md)
+- [§ 54 Beitritt zum Verfalls- und Nichtigkeitsverfahren](0054.md)
 - [§ 55 Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten](0055.md)
 
 ### Abschnitt 4 Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt

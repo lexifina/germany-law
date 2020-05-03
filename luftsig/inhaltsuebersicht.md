@@ -12,6 +12,7 @@
 | § 5 | Besondere Befugnisse der Luftsicherheitsbehörden |
 | § 6 | Verarbeitung personenbezogener Daten |
 | § 7 | Zuverlässigkeitsüberprüfungen |
+| § 7a | Gemeinsames Luftsicherheitsregister |
 | § 8 | Sicherheitsmaßnahmen der Flugplatzbetreiber |
 | § 9 | Sicherheitsmaßnahmen der Luftfahrtunternehmen |
 | § 9a | Sicherheitsmaßnahmen der Beteiligten an der sicheren Lieferkette |

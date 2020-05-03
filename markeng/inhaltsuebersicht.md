@@ -79,8 +79,8 @@
 | § 50 | Nichtigkeit wegen absoluter Schutzhindernisse |
 | § 51 | Nichtigkeit wegen des Bestehens älterer Rechte |
 | § 52 | Wirkungen des Verfalls und der Nichtigkeit |
-| § 53 | Löschung durch das Patentamt wegen Verfalls |
-| § 54 | Löschungsverfahren vor dem Patentamt wegen absoluter Schutzhindernisse |
+| § 53 | Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt |
+| § 54 | Beitritt zum Verfalls- und Nichtigkeitsverfahren |
 | § 55 | Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten |
 |  |  | Abschnitt 4 |
 |  |  |  | Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt |

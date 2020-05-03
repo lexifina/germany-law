@@ -15,6 +15,7 @@
 - [§ 5 Besondere Befugnisse der Luftsicherheitsbehörden](0005.md)
 - [§ 6 Verarbeitung personenbezogener Daten](0006.md)
 - [§ 7 Zuverlässigkeitsüberprüfungen](0007.md)
+- [§ 7a Gemeinsames Luftsicherheitsregister](0007a.md)
 - [§ 8 Sicherheitsmaßnahmen der Flugplatzbetreiber](0008.md)
 - [§ 9 Sicherheitsmaßnahmen der Luftfahrtunternehmen](0009.md)
 - [§ 9a Sicherheitsmaßnahmen der Beteiligten an der sicheren Lieferkette](0009a.md)

@@ -1,3 +1,3 @@
-# XXXX (§§ 7c bis 7d) (weggefallen)
+# (XXXX) §§ 7c bis 7d (weggefallen)
 
 
