@@ -1,0 +1,97 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-04T16:00:00+02:00
+- Ende: 2020-05-04T17:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21954
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21954
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00770159.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00770159.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00770159.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Radverkehrskonzept Köln Widdersdorf - Kenntnis genommen
+- TOP 7.1.2: Demontage der Lichtsignalanlage Hauptstraße/Leonhardsgasse/Blaugasse - Kenntnis genommen
+- TOP 7.1.3: Beleuchtung Kreisverkehre Lise-Meitner-Ring/Adrian-Meller-Straße - Kenntnis genommen
+- TOP 7.1.4: Geruchsbelästigung im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.5: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Maßnahmen gegen illegale Sprayaktionen und Farbschmierereien - zurückgestellt
+- TOP 7.2.2: Verlegung der Großmarktes von Raderberg nach Marsdorf - zurückgestellt
+- TOP 7.2.3: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 7.2.4: Radverkehr-Konzept Köln Widdersdorf - zurückgestellt
+- TOP 7.2.5: Betlehem-Platz in Köln-Widdersdorf - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Bürokomplex Eupener Straße/Stolberger Straße - geändert beschlossen
+- TOP 8.1.2: Kreisverkehr Lindenburger Allee / Bachemer Straße - ungeändert beschlossen
+- TOP 8.1.3: Machbarkeitsstudie Stadtbahn Westtrasse / Klüttenbahn - ungeändert beschlossen
+- TOP 8.1.4: Abdichtung von Fahrgastunterständen - ungeändert beschlossen
+- TOP 8.1.5: Beschilderung Römergrab - ungeändert beschlossen
+- TOP 8.1.6: Mängelbeseitigung und Ausbesserung Radweg Militärringstraße - ungeändert beschlossen
+- TOP 8.1.7: Zukunftskonzept „Kulturraum Kölner Friedhöfe 2025" - ungeändert beschlossen
+- TOP 8.1.8: Sachstandsbericht 2019 - ungeändert beschlossen
+- TOP 8.1.9: Baumschutz bei Baumaßnahmen - ungeändert beschlossen
+- TOP 8.1.10: Gänsemanagement für städtische Gewässer - ungeändert beschlossen
+- TOP 8.1.11: Umbenennung Heinz Mohnen Platz - ungeändert beschlossen
+- TOP 8.1.12: Unterstützung der Gastronomie - ungeändert beschlossen
+- TOP 8.1.13: Abstimmung Corona - endgültig abgelehnt
+- TOP 8.1.14: Bezirksorientierte Mittel 01/2020 - ungeändert beschlossen
+- TOP 8.1.15: Bäume für Widdersdorf - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1.1: Umgestaltung des öffentlichen Spielplatzes Im Rapsfeld/Egelspfad in Köln- Müngersdorf - ungeändert beschlossen
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: DE Sofortmaßnahme Fort Deckstein - ungeändert beschlossen
+- TOP 9.2: Entscheidungen
+- TOP 9.2.1: Baubeschluss für die Umgestaltung der Berrenrather Straße von Universitätsstraße bis Sülzgürtel sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Jugendzentren Köln gGmbH, Jugendzentrum "Alte Schule Widdersdorf", hier: Baubeschluss zur baulichen Erneuerung des Bewegungsraumes "Pavillon" auf dem Außengelände - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Einleitung betreffend die vereinfachte 1. Änderung des Bebauungsplanes Nr. 60429/02, Arbeitstitel: Marsdorf Ost in Köln-Junkersdorf, 1. Änderung - ungeändert beschlossen
+- TOP 9.2.4: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 72 des Friedhofs Melaten - ungeändert beschlossen
+- TOP 9.2.5: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert beschlossen
+- TOP 9.2.6: Bundesfachplanung für das Vorhaben "Ultranet - Gleichstromverbindung zwischen Osterath und Philippsburg, Abschnitt E: Rommerskirchen-Weißenthurm" - ungeändert beschlossen
+- TOP 9.2.7: 215. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: „Universitätsklinik zu Köln, Baufeld West“ in Köln-Lindenthal hier: Feststellungsbeschluss - ungeändert beschlossen
+- TOP 9.2.8: Fortschreibung der Schulentwicklungsplanung Köln 2020 - ungeändert beschlossen
+- TOP 9.3: Anhörungen und Stellungnahmen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 11.1.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 11.1.3: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Lindenthal - Kenntnis genommen
+- TOP 11.1.4: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 11.1.5: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 11.1.6: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 11.1.7: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Sachstand zum Grundstück Lövenicher Weg 9-11 / Belvederestr. 17 (ehemaliger Petershof) in Köln-Müngersdorf - zu AN/0870/2019, Beschluss der Bezirksvertretung 3 (Lindenthal) vom 01.07.2019 - Kenntnis genommen
+- TOP 11.2.2: Mobilitätskonzept Stolberger Straße - Kenntnis genommen
+- TOP 11.2.3: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Abriss der Fußwegbrücke und Neubau einer ebenerdigen Querung über die Luxemburger Straße an der Stadtbahnhaltestelle Weißhausstraße - Kenntnis genommen
+- TOP 11.3.2: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 11.3.3: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 11.3.4: Radschnellweg Köln-Frechen - Kenntnis genommen
+- TOP 11.3.5: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 11.3.6: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 11.3.7: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 11.3.8: Vorschlag zur Umbenennung des Heinz-Mohnen-Platzes - Kenntnis genommen
+- TOP 11.3.9: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 11.3.10: 15 Minuten kostenfreies Parken auf der Aachener Straße in Braunsfeld - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
