@@ -1,0 +1,8 @@
+# TOP 5: Entwurf des NKF-Gesamtabschlusses 2017 der Landeshauptstadt Düsseldorf
+
+- Sitzung: Haupt- und Finanzausschuss (2020-05-04)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/275792
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/105128
