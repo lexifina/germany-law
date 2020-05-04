@@ -1,0 +1,8 @@
+# TOP -: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Otto und Langen-Quartier' in Köln-Mülheim nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch
+
+- Sitzung: Sitzung der Bezirksvertretung Mülheim (2020-05-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/299589
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/141728
