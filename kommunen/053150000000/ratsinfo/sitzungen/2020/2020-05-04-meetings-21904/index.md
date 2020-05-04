@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-04T17:02:00+02:00
+- Ende: 2020-05-04T17:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21904
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21904
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Tempo 30 für die Straße "Im Weidenbruch" und den Zufahrten zu dieser Straße (Az.: 02-1600-46/19) - geändert beschlossen
+- TOP 2.1.1: Änderungsantrag zur Bürgereingabe TOP 2.1 Im Weidenbruch - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ausweitung des Bediengebiets des Leihradangebots der KVB im rechtsrheinischen Osten - Kenntnis genommen
+- TOP 7.1.2: Belästigungen durchh Gewerbebetriebe in der Buchholzstraße; Beantwortung der gemeinsamen Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 24.06.2019 - Kenntnis genommen
+- TOP 7.1.3: Einrichtung eines P+R-Platzes an der Haltestelle Herler Straße/Schützegildeweg - Kenntnis genommen
+- TOP 7.1.4: Bürgersteigaustausch Damaschkestraße in Holweide - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Wegführung in Köln-Buchheim am Gelände Parkour (Zwischen „Am Schneckenberg“ und „An St. Theresia“) - Kenntnis genommen
+- TOP 7.2.2: Situation am Zeisbuschweg - Kenntnis genommen
+- TOP 7.2.3: Elektrozaun am Hornpottweg - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Offenes Baumkataster für Mülheim: Standorte benennen und Pflanzung fordern - ungeändert beschlossen
+- TOP 8.1.2: Anwohnerinnen und Anwohner in Mülheim vor Dieselabgasen und Lärm schützen – Landstromanlagen am Rheinufer einrichten! - ungeändert beschlossen
+- TOP 8.1.3: Einrichtung einer Teilzeitstelle für den Verein „FEE – Fördern & Ernten e.V.“ aus Köln-Holweide - ungeändert beschlossen
+- TOP 8.1.4: Fluglärm in Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.5: Umsetzung der im Bebauungsplan „Zentrum Buchforst“ - ungeändert beschlossen
+- TOP 8.1.6: Einrichtung einer stationären Geschwindigkeitsüberwachung im Bereich GieratherStraße zwischen Penningsfelder Weg und Stadtgrenze Bergisch Gladbach und Durchfahrverbot Anliegerverkehr und Linienbusverkehr frei) für LKW ab 3,5 t in beiden Richtungen - zurückgestellt
+- TOP 8.1.7: Sanierung der Entwässerung der Eisenbahnunterführung Höhenhauser Ring in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8.1.8: Lage im Gewerbegebiet Romaneystraße / Köln-Buchheim - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßenunterhaltungsmaßnahme im Kölner Stadtgebiet (Mülheim) - ungeändert beschlossen
+- TOP -: Straßenunterhaltungsmaßnahme im Kölner Stadtgebiet (Mülheim) - ungeändert beschlossen
+- TOP 9.1.2: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP -: Beschlussvorlage für die Bezirksvertretung Mülheim (Vorlagen-Nr.: 0706/2020) Projektanträge im Rahmen des vierten Antragsdurchlaufs des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP -: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.1.4: Benennung einer Privatstraße im Geltungsbereich des Bebauungsplanes Ehemaliger Güterbahnhof in Köln-Mülheim
+- TOP -: Benennung einer Privatstraße im Geltungsbereich des Bebauungsplanes Ehemaliger Güterbahnhof in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.5: Halle Herler Ring - ungeändert beschlossen
+- TOP 9.1.6: Haushaltsplan Doppelhaushalt 2020 / 2021; hier Veranschlagung der bezirksorientierten Mittel für die Jahr 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.7: Entfall der Eisenbahnüberführung "Eschenbruchstraße" der DB Netz AG - ungeändert beschlossen
+- TOP 9.1.8: Vergabe von bezirksorientierten Mittel für das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 9.1.9: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Buchheim und Buchforst und Mülheim-Nord, Keupstraße,“ - ungeändert beschlossen
+- TOP 9.1.10: Baubeschluss für die Generalsanierung der Montanusstraße zwischenSteinkopfstraße und Clostermannstraße - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: EFRE Grüne Infrastruktur - Vielfalt vernetzen - ungeändert beschlossen
+- TOP -: EFRE Grüne Infrastruktur - Vielfalt vernetzen - ungeändert beschlossen
+- TOP 9.2.2: Baubeschluss für die Generalinstandsetzung des Dellbrücker Steinweges zwischen den Hausnummern 2 und 18 sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finazstelle 6601-1201-0-6605, Generalsanierung von Straßen - ungeändert beschlossen
+- TOP -: Baubeschluss für die Generalinstandsetzung des Dellbrücker Steinweges zwischen den Hausnummern 2 und 18 sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finazstelle 6601-1201-0-6605, Generalsanierung von Straßen - ungeändert beschlossen
+- TOP 9.2.3: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Otto und Langen-Quartier' in Köln-Mülheim nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - ungeändert beschlossen
+- TOP -: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Otto und Langen-Quartier' in Köln-Mülheim nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - ungeändert beschlossen
+- TOP 9.2.4: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert beschlossen
+- TOP 9.2.5: Fortschreibung der Schulentwicklungsplanung Köln 2020 - ungeändert beschlossen
+- TOP 9.2.6: 274. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Piccoloministraße: Erhöhung der Sicherheit von Fußgänger*innen - Kenntnis genommen
+- TOP 10.2.4: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.7: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.8: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 10.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.10: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 10.2.11: Bushaltestellen für Bienen begrünen - Kenntnis genommen
+- TOP 10.2.12: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Mülheim - Kenntnis genommen
+- TOP 10.2.13: KVB-Baumaßnahme zwischen den Haltestellen Slabystraße und Mülheim Wiener Platz - Kenntnis genommen
+- TOP 10.2.14: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.15: Außenflächennutzung Kinder- und Jugendtreff Picco - Kenntnis genommen
+- TOP 10.2.16: Sachstand zur Teilmaßnahme 0.0.1 "Verfügungsfonds" aus dem Programm "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.17: BAB-3-Anschlußstelle Dellbrück/Holweide - Kenntnis genommen
+- TOP 10.2.18: Niederschrift 2. Runder Tisch "Radverkehr" - Kenntnis genommen
+- TOP 10.2.19: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 10.2.20: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.21: Sachstandsmitteilung zu den von der Bezirksvertretung Mülheim priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.22: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 10.2.23: Mitteilung zum Änderungsbeschluss vom 27.01.2020 (4195/2019) - Kenntnis genommen
+- TOP 10.2.24: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 10.2.25: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 10.2.26: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf 74490/07 Arbeitstitel: Wasserwerkstraße in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
