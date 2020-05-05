@@ -1,0 +1,58 @@
+# Absage öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-05-05T16:00:00+02:00
+- Ende: 2020-05-05T00:00:00+02:00
+- Ort: Die Sitzung entfällt. - Onlinebereitstellung von Unterlagen -
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12858
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12858
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2020/2021 - vertagt auf Rat
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Monitoring des Gebäudemanagements der Stadt Wuppertal (GMW) zum 31.03.2020 - Entgegennahme ohne Beschluss
+- TOP 3.2: Monitoring APH 01/2020 und 02/2020 - Entgegennahme ohne Beschluss
+- TOP 3.3: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 31.01.2020 - Entgegennahme ohne Beschluss
+- TOP 3.4: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 29.02.2020 - Entgegennahme ohne Beschluss
+- TOP 3.5: Monitoring Wuppertal Marketing GmbH (WMG) 01/2020 - Entgegennahme ohne Beschluss
+- TOP 3.6: Monitoring Wuppertal Marketing GmbH (WMG) 02/2020 - Entgegennahme ohne Beschluss
+- TOP 3.7: Monitoring Wuppertal Marketing GmbH (WMG) 03/2020 - Entgegennahme ohne Beschluss
+- TOP 3.8: Bestellung der Mitglieder für den Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - vertagt auf Rat
+- TOP 3.8.1: Bestellung der Mitglieder für den Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - Entgegennahme ohne Beschluss
+- TOP 3.9: Fortführung der Wuppertaler Bühnen und Sinfonieorchester GmbH durch einen Sonderzuschuss - vertagt auf Rat
+- TOP 3.10: Verbesserung der Planungs- und Controllingprozesse der Wuppertaler Bühnen und Sinfonieorchester GmbH - Entgegennahme ohne Beschluss
+- TOP 3.11: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2020 bis 31.12.2020 - vertagt auf Rat
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Rechenschaftsbericht zur Bürgerbeteiligung am Haushalt („Bürgerhaushalt“) - Entgegennahme ohne Beschluss
+- TOP 5.2: Finanzielle Auswirkungen der Corona-Pandemie - Entgegennahme ohne Beschluss
+- TOP 5.3: Finanzierung der 7. Gesamtschule - Entgegennahme ohne Beschluss
+- TOP 5.4: Ausbau des Wuppertaler Gesamtschulangebots - Entgegennahme ohne Beschluss
+- TOP 5.5: Fällung von Bäumen auf dem städtischen Grundstück Uellendahler Str. 190 - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Aussetzung der Satzungen für die Elternbeitragserhebungen für die Monate April und Mai 2020 - vertagt auf Rat
+- TOP 6.2: Beteiligung an der Finanzierung der Johannes-Rau-Bibliothek - vertagt auf Rat
+- TOP 6.3: Umfeldgestaltung Berliner Platz und Schöneberger Ufer – Soziale Stadt Oberbarmen/Wichlinghausen - vertagt auf Rat
+- TOP 6.4: Erlebnisspielplatz - Soziale Stadt Oberbarmen/Wichlinghausen - vertagt auf Rat
+- TOP 6.5: BOB Campus Nachbarschaftspark - Soziale Stadt Oberbarmen/Wichlinghausen - vertagt auf Rat
+- TOP 6.6: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - vertagt auf Rat
+- TOP 6.7: Kleine Höhe - Beantwortung der Anfrage der Ratsfraktion Bündnis 90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes Wasser und Abwasser ( WAW) für das IV. Quartal 2019 - Entgegennahme ohne Beschluss
+- TOP 11.2: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes Wasser und Abwasser( WAW) für das I. Quartal 2020 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
