@@ -1,0 +1,20 @@
+# 27. öffentliche Sitzung des Gesundheitsausschusses Telefonnr.: 030 5679 5800 Deutschland Meeting-ID: 813 9493 4024 Passwort: 058078
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-05-05T17:00:00+02:00
+- Ende: 2020-05-05T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4047
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4047
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Annahme der Tagesordnung - erledigt
+- TOP 2: Protokollabstimmung der 26. Sitzung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3: Aktuelle Information zur Corona-Pandemie in Neukölln, Berlin und darüber hinaus - erledigt
+- TOP 4: Mitteilungen der Verwaltung - erledigt
+- TOP 5: Verschiedenes - erledigt
+- TOP 6: Nächste Sitzung / Video-Konferenz - erledigt
