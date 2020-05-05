@@ -1,0 +1,63 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-05T14:05:00+02:00
+- Ende: 2020-05-05T15:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21759
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21759
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Jugendzentren Köln gGmbH, Jugendzentrum "Alte Schule Widdersdorf", hier: Baubeschluss zur baulichen Erneuerung des Bewegungsraumes "Pavillon" auf dem Außengelände - geändert beschlossen
+- TOP 2.2.2: Kindertagespflege nach § 23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 2.2.3: Kommunale Förderung der Maßnahme "GREMBOX - Jugendtreff Gremberghoven" beim Träger "RheinFlanke Köln gGmbH" - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Kulturpädagogische Facheinrichtungen: Angleichung der kommunalen Förderrichtlinien an die Richtlinien für die Offene Kinder- und Jugendarbeit; - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - zurückgestellt
+- TOP -: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - zurückgestellt
+- TOP 6.1.2: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - zurückgestellt
+- TOP -: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Ausstiegs-Szenarien aus den Corona-Beschränkungen entwickeln – schrittweise Betreuung ausweiten - Kenntnis genommen
+- TOP 6.2.2: Jugendverbände in der Krise stärken - Frist zur Verwendung der Haushaltsmittel
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Elternbeiträge zur Kindertagesbetreuung, hier Anfrage aus der Sitzung vom 19.11.2019 - Kenntnis genommen
+- TOP 7.1.2: Umsetzungsstand des Projektes Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 7.1.3: Dirtfläche für BMX als Angebot für Einrichtungen der Kinder- und Jugendarbeit, hier Abenteuerhallen Kalk - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Neuer Kita-Standort in der Berrischstraße 132-136 weiterhin nicht nutzbar - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 8.5.2: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 8.5.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 8.5.4: Förderprogramme des Landes für Migrant/innen - Kenntnis genommen
+- TOP 8.5.5: Coronakrise-Situation von Jugendlichen in Problemlagen (AN/0466/2020) - Kenntnis genommen
+- TOP 8.5.6: Anfrage AN/0453/2020 der SPD-Fraktion im Rat der Stadt Köln "Soziale Soforthilfen und Kinder- und Jugendhilfe in der Corona-Krise" - Kenntnis genommen
+- TOP 8.5.7: Schließung und teilweise Wiedereröffnung der Schulen im Rahmen der Corona-Krise – bisherige Maßnahmen, aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 8.5.8: Auswirkungen der Corona-Krise auf die Angebote des Amtes für Kinder, Jugend und Familie – Maßnahmen, aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 8.5.9: Rechtsänderungen durch das neue Kinderbildungsgesetz; - Kenntnis genommen
