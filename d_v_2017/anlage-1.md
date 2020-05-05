@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 3 Absatz 4 Satz 2, § 6 Absatz 4, 5 und 7, § 8 Absatz 3 und 4)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere; mittlere Nährstoffaufnahme von Wiederkäuern aus Grobfutter
+# Anlage 1 (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier
 
 Tabelle 1
 Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr bzw. je Tier
@@ -153,55 +153,3 @@ Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und
 | 142. |  | Schnellmast, 5,0 kg Zuwachs/Tier | 0,231 | 0,133 |
 | 143. | Mittelmast, 6,8 kg Zuwachs/Tier | 0,702 | 0,387 |
 | 144. | Spät-/Weidemast, 7,8 kg Zuwachs/Tier | 1,074 | 0,334 |
-Tabelle 2
-Mittlere Nährstoffaufnahme von Wiederkäuern aus Grobfutter je Stallplatz und Jahr bzw. je Tier
-|  | Kategorie | Produktionsverfahren | Nährstoffaufnahme in kg |
-|  |  |  | N | P2O5 |
-|  | Milchviehhaltung |  | je Stallplatz und Jahr |
-| 1. | Kälberaufzucht | 0 bis 16 Wochen; 90 kg Zuwachs je Kalb; 3 Durchgänge p.a. | 5,6 | 2,0 |
-| 2. | Jungrinderaufzucht | Erstkalbealter 27 Monate; 605 kg Zuwachs je aufgezogenes Tier | je Tier und Jahr |
-| 3. |  | Grünlandbetrieb, mit und ohne Flächen im „Naturschutz“ | konventionell | 58 | 17 |
-| 4. | extensiv | 53 | 16 |
-| 5. | Ackerfutterbaubetrieb | mit Weide | 48 | 15 |
-| 6. | Stallhaltung | 43 | 14 |
-| 7. | Milcherzeugung | Leistung bezogen auf ECM (4,0 % Fett, 3,4 % Eiweiß); 0,9 Kalb | je Tier und Jahr |
-| 8. | mittelschwere und schwere Rassen | Grünlandbetrieb (mit Weidegang) | 6 000 kg ECM | 108 | 33 |
-| 8 000 kg ECM | 111 | 34 |
-| 10 000 kg ECM | 113 | 36 |
-| 9. | Grünlandbetrieb(ohne Weidegang mit Heu) | 6 000 kg ECM | 98 | 31 |
-| 10. | 8 000 kg ECM | 98 | 31 |
-| 11. | 10 000 kg ECM | 101 | 33 |
-| 12. | Ackerfutterbaubetrieb (mit Weidegang) | 6 000 kg ECM | 86 | 28 |
-| 13. | 8 000 kg ECM | 93 | 31 |
-| 14. | 10 000 kg ECM | 98 | 33 |
-| 15. | 12 000 kg ECM | 101 | 34 |
-| 16. | Ackerfutterbaubetrieb(ohne Weidegang mit Heu) | 6 000 kg ECM | 77 | 27 |
-| 17. | 8 000 kg ECM | 84 | 29 |
-| 18. | 10 000 kg ECM | 89 | 31 |
-| 19. | 12 000 kg ECM | 94 | 32 |
-| 20. | leichte Rassen | Ackerfutterbaubetrieb | 5 000 kg ECM | 68 | 22 |
-| 21. | 7 000 kg ECM | 75 | 25 |
-| 22. | 9 000 kg ECM | 80 | 27 |
-|  | Rindermast |
-| 23. | Jungrindermast | je Stallplatz und Jahr |
-| 24. | Rosa-Kalbfleisch Erzeugung | Mast von 50 bis 350 kg LM; 1,3 Umtriebe p.a. | 7,0 | 2,9 |
-| 25. | Kälbermast | 50 bis 250 kg LM; 2,1 Umtriebe p.a. | MAT | 0,6 | 0,4 |
-| 26. | MAT und Kraftfutter | 0,3 | 0,1 |
-| 27. | Fresseraufzucht | 80 bis 210 kg LM; 2,7 Umtriebe p.a. | Standardfutter | 6,0 | 2,3 |
-| 28. | N-/P-reduziert | 6,0 | 2,3 |
-|  | Bullenmast | je Tier und Jahr |
-| 29. |  | bis 675 kg LM (19 Monate) | ab Kalb 45 kg LM | 19,6 | 7,9 |
-| 30. | bis 750 kg LM | ab Kalb 45 kg LM | 20,2 | 8,1 |
-| 31. | bis 750 kg LM | ab Kalb 80 kg LM | 21,0 | 8,5 |
-| 32. | bis 750 kg LM | ab Kalb 210 kg LM | 22,4 | 9,0 |
-|  | Mutterkuhhaltung | je Tier und Jahr |
-| 33. | 6 MonateSäugezeit | 500 kg LM; 0,9 Kalb je Kuh p.a.(200 kg Absetzgewicht) | 90 | 27 |
-| 34. | 700 kg LM; 0,9 Kalb je Kuh p.a.(230 kg Absetzgewicht) | 108 | 32 |
-| 35. | 9 MonateSäugezeit | 700 kg LM; 0,9 Kalb je Kuh p.a.(340 kg Absetzgewicht) | 120 | 36 |
-|  | Lammfleischerzeugung | je Tier und Jahr |
-| 36. | Mutterschafmit Nachzucht | 1,5 Lämmer/Schaf;40 kg Zuwachs je Lamm | konventionell | 18,2 | 5,3 |
-| 37. | 1,1 Lämmer/Schaf;40 kg Zuwachs je Lamm | extensiv | 17,3 | 5,0 |
-|  | Ziegenmilcherzeugung | je Tier und Jahr |
-| 38. | Milchziegemit Nachzucht | 800 kg Milch je Ziege p.a.; 1,5 Lämmer je Ziege;16 kg Zuwachs je Lamm | 11,7 | 3,8 |
-|  | Gehegewild | je Tier und Jahr |
-| 39. | Damtiere | 45 kg Zuwachs je Produktionseinheit(1 Alttier mit 0,85 Kalb) | 21,3 | 6,1 |

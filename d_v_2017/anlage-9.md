@@ -21,10 +21,10 @@ Dunganfall bei der Haltung landwirtschaftlicher Nutztiere in t/Tier bzw. m³/Tie
 | 13. | MilcherzeugungLeistungbezogen auf ECM(4,0 % Fett,3,4 % Eiweiß); 0,9 Kalb | Ackerfutterbaubetrieb(mit Weidegang) | 6 000 kg ECM | 4,0 | 7,2 | 9,5 | 3,0 |
 | 14. | 8 000 kg ECM | 4,0 | 7,5 | 10,0 | 3,2 |
 | 15. | 10 000 kg ECM | 5,0 | 8,0 | 10,5 | 3,4 |
-| 16. | 12 000 kg ECM | 6,0 | 7,2 | 11,05 | 3,65 |
-| 17. | Ackerfutterbaubetrieb(ohne Weidegang mit Heu) | 6 000 kg ECM | 4,0 | 7,5 | 9,5 | 3,0 |
-| 18. | 8 000 kg ECM | 4,0 | 8,0 | 10,0 | 3,2 |
-| 19. | 10 000 kg ECM | 5,0 | 8,5 | 10,5 | 3,4 |
+| 16. | 12 000 kg ECM | 6,0 | 8,5 | 11,05 | 3,65 |
+| 17. | Ackerfutterbaubetrieb(ohne Weidegang mit Heu) | 6 000 kg ECM | 4,0 | 7,2 | 9,5 | 3,0 |
+| 18. | 8 000 kg ECM | 4,0 | 7,5 | 10,0 | 3,2 |
+| 19. | 10 000 kg ECM | 5,0 | 8,0 | 10,5 | 3,4 |
 | 20. | 12 000 kg ECM | 6,0 | 8,5 | 11,05 | 3,65 |
 | 21. | Leichte Rassen | Ackerfutterbaubetrieb | 5 000 kg ECM | 3,0 | 6,9 | 9,256 | 2,96 |
 | 22. | 7 000 kg ECM | 4,06 | 7,4 | 9,756 | 3,16 |

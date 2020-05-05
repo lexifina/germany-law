@@ -23,6 +23,7 @@
 |  |  |  |  |  |  | § 17 | Schriftliche Stimmabgabe |
 |  |  |  |  |  |  | § 18 | Behandlung der schriftlich abgegebenen Stimmen |
 |  |  |  |  |  |  | § 19 | Stimmabgabe bei Nebenstellen und Teilen von Dienststellen |
+|  |  |  |  |  |  | § 19a | Sonderregelungen für die Personalratswahl 2020 |
 |  |  |  |  |  |  | § 20 | Feststellung des Wahlergebnisses |
 |  |  |  |  |  |  | § 21 | Wahlniederschrift |
 |  |  |  |  |  |  | § 22 | Benachrichtigung der gewählten Bewerber |
