@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung des Kreisausschusses (aufgrund von COVID-19 verlegt)
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2020-05-06T15:00:00+02:00
+- Ende: 2020-05-06T18:35:00+02:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/2
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2821
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2821
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreisausschuss 06.05.2020 -öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00060936.pdf
+- Ergebnisprotokoll: Einladung Kreisausschuss 06.05.2020 -öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00060936.pdf
+- Wortprotokoll: Einladung Kreisausschuss 06.05.2020 -öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00060936.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Bestätigung von Beschlüssen der Ausschüsse
+- TOP 2.1: Naturschutzbeirat am 14.11.2019 - einstimmig beschlossen
+- TOP 2.2: Naturschutzbeirat am 11.02.2020 - einstimmig beschlossen
+- TOP 2.3: Sozial- und Gesundheitsausschuss am 13.02.2020 - einstimmig beschlossen
+- TOP 2.4: Finanzausschuss am 11.03.2020 - einstimmig beschlossen
+- TOP 3: Kenntnisnahme von Niederschriften
+- TOP 4: Strukturwandel, Braunkohlenplanung und Energiewirtschaft - zur Kenntnis genommen
+- TOP 5: Regionalarbeit - zur Kenntnis genommen
+- TOP 6: Wirtschaft-und Beschäftigungsförderung (Stand März 2020) - zur Kenntnis genommen
+- TOP 6.1: Tischvorlage: Aktuelle Arbeitslosenzahlen
+- TOP 7: Entwicklung der Kosten der Unterkunft und der Bedarfsgemeinschaften - zur Kenntnis genommen
+- TOP 8: COVID-19
+- TOP 8.1: COVID-19: Tischvorlage Aktuelle Situation im Rhein-Kreis Neuss
+- TOP 8.2: COVID-19: Unterrichtung des Kreisausschusses über die Haushaltsentwicklung im Zusammenhang mit der Corona-Pandemie - einstimmig beschlossen
+- TOP 8.3: Tischvorlage Außerplanmäßige Bereitstellung von weiteren Finanzmitteln für Maßnahmen im Zusammenhang mit der Bewältigung der Corona-Krise - einstimmig beschlossen
+- TOP 9: Handlungsoptionen für Fraktionssitzungen: Präsenzsitzungen, Sitzungsgeld
+- TOP 10: Bestätigung von Dringlichkeitsbeschlüssen
+- TOP 10.1: Bestätigung von Dringlichkeitsbeschlüssen: Beschlüsse des Kreisausschusses - einstimmig beschlossen
+- TOP 10.2: Kenntnisnahme von Dringlichkeitsbeschlüssen, die im nächsten Kreistag bestätigt werden - zur Kenntnis genommen
+- TOP 11: Anträge
+- TOP 11.1: Antrag der Kreistagsfraktion UWG-Freie Wähler/Die Aktive vom 19.02.2020: Aktuelle Nitratgehalte im Grundwasser aller bekannten Messstellen" - einstimmig beschlossen
+- TOP 11.2: Antrag der Kreistagsfraktionen CDU und FDP vom 08.03.2020 zum Thema "Verstärkte Zusammenarbeit bei Bürgerportalen in der Kreisgemeinschaft" - einstimmig beschlossen
+- TOP 11.3: Antrag der Fraktion UWG/die Aktive/Freie Wähler vom 21.04.2020 zum Thema "Tragen eines Mund-Nasen-Schutzes (MNS) in bestimmten Bereichen der Öffentlichkeit verpflichtend
+- TOP 11.4: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen vom 22.04.2020 zum Thema "Einrichtung eines Notfallfonds" - zurückgestellt
+- TOP 11.5: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen vom 23.04.2020 zum Thema "Elternbeiträge weiter aussetzen" - zurückgestellt
+- TOP 11.6: Tischvorlage: Resolution der SPD Kreistagsfraktion vom 04.05.2020 zum Thema: „Kommunale Handlungsfähigkeit erhalten – Kommunen und kommunale Unternehmen unter den Rettungsschirm“
+- TOP 12: Mitteilungen
+- TOP 12.1: Planfeststellungsverfahren für den geplanten Neubau der Anschlussstelle Dormagen-Delrath an der A 57 einschließlich Verbindungsstr. K 33 n
+- TOP 12.2: Beeinflussung der Abfallentsorgung im Rhein-Kreis Neuss durch die Corona-Pandemie (Stand: 21.04.2020)
+- TOP 13: Anfragen
+- TOP 13.1: Anfrage der Kreistagsgruppe Die Linke vom 10.03.2020 zum Thema "Hilfsfristen im Rettungsdienst"
+- TOP 13.2: Anfrage der SPD-Kreistagsfraktion vom 12.03.2020 zum Thema "Kreiswohnungsgesellschaft / Service- und Koordinierungsgesellschaft"
+- TOP 13.3: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 22.04.2020 zum "Ersatz von abgeholzten Bäumen an Kreisstraßen"
+- TOP 13.4: Anfrage der Kreistagsfraktion BÜNDNIS90/Die GRÜNEN vom 29.04.2020: "Anfrage zu Grundwasserschutz bei Gülleausbringung"
+- TOP 13.5: Tischvorlage: Anfrage der Kreistagsfraktion SPD vom 05.05.2020 zum Thema "Wöchnerinnen im Rhein-Kreis Neuss“
+- TOP 13.6: Tischvorlage: Anfrage der Kreistagsfraktion SPD vom 05.05.2020 zum Thema "Konzepte des Rhein-Kreises Neuss in der Corona-Krise“
