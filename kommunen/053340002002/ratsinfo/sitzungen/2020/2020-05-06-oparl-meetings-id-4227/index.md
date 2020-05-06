@@ -1,0 +1,63 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen - ACHTUNG: GEÄNDERTER SITZUNGSORT !
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-05-06T17:00:00+02:00
+- Ende: 2020-05-06T18:52:00+02:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4227
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4227
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 18.03.2020 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Aussetzen der Beitragserhebung für die Betreuung von Kindern in den Kindertagesstätten, der Kindertagespflege und zur Betreuung in der gebundenen und offenen Ganztagsschule sowie außerunterrichtlichen Betreuungsangeboten der Primarstufe und der Sekundarstufe I im Zuge von COVID-19 für den Monat April 2020
+- TOP 4.1: Aussetzen der Beitragserhebung für die Betreuung von Kindern in den Kindertagesstätten, der Kindertagespflege und zur Betreuung in der gebundenen und offenen Ganztagsschule sowie außerunterrichtlichen Betreuungsangeboten der Primarstufe und der Sekundarstufe I im Zuge von COVID-19 für den Monat April 2020 (Ergänzung)
+- TOP 4.2: Aussetzen der Beitragserhebung für die Betreuung von Kindern in den Kindertagesstätten, der Kindertagespflege und zur Betreuung in der gebundenen und offenen Ganztagsschule sowie außerunterrichtlichen Betreuungsangeboten der Primarstufe und der Sekundarstufe I im Zuge von COVID-19 für die Monate April und Mai 2020 (2. Ergänzung) - ungeändert beschlossen
+- TOP 5: Aachen-Pass - Änderung der RichtlinienRatsantrag der Fraktionen von CDU und SPD vom 15.01.2020 - ungeändert beschlossen
+- TOP 6: Zentren- und Nahversorgungskonzept der Stadt Aachenhier: Beschluss Sortimentsliste 2020 - ungeändert beschlossen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - vertagt
+- TOP 8: Aachener Modell zur kommunalen Wohnungsbauförderung; Ratsantrag der CDU- und SPD-Fraktionen im Rat der Stadt Aachen vom 06.12.2018
+- TOP 8.1: Aachener Modell zur kommunalen Wohnungsbauförderung; Ratsantrag der CDU- und SPD-Fraktionen im Rat der Stadt Aachen vom 06.12.2018; Ergänzung zur WLA-Vorlage vom 04.02.2020 - ungeändert beschlossen
+- TOP 9: Fünftes Gesetz zur Änderung des KommunalabgabengesetzesHier: Gemeindliches Straßen- und Wegekonzept und verbindliche Anliegerversammlung nach § 8a KAG NRW - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan für die Spielzeit 2020/2021 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 11: Vorläufiger Wirtschaftsplan für die Spielzeit 2021/2022 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 12: Integrationsratswahl 2020Änderung der Wahlordnung des Integrationsrates - geändert beschlossen
+- TOP 13: Olympiabewerbung - ungeändert beschlossen
+- TOP 14: Landesprogramm „Gute Schule 2020“ Bericht 1. Quartal 2020 - ungeändert beschlossen
+- TOP 15: Überprüfung und Einrichtung von Lernschulgärten - abgelehnt
+- TOP 16: Städteregion - Abrechnungsgrundlagen für die differenzierte Regionsumlage - geändert beschlossen
+- TOP 17: Städteregionales Gewerbeflächenkonzept - Gewerbeflächenpool - geändert beschlossen
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung für den Rat der Stadt gem. § 60 I GO NRW: Überplanmäßige Mittelbereitstellung zur Beschaffung von 2.500 Feldbetten sowie 160 Gitterboxen - ungeändert beschlossen
+- TOP 19: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 19.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungenhier: Überplanmäßige Mittelbereitstellung für die Maßnahme Breitbenden - ungeändert beschlossen
+- TOP 19.2: Bereitstellung überplanmäßiger Mittel im Haushaltsjahr 2020;hier: Endausbau Alter Tivoli - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 22.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 20.04.2020 - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 24: 111 Jahre Jubiläumsfeier der Prinzengarde - ungeändert beschlossen
+- TOP 25: Einbringung des Entwurfs der 1. Nachtragssatzung zur Haushaltssatzung 2020 - ungeändert beschlossen
+- TOP 26: Gemeinsame Erklärung des Rates und des Oberbürgermeisters der Stadt Aachen zum 75. Jahrestag des Kriegsendes am 8. Mai 1945
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
