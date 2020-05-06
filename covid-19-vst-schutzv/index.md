@@ -1,0 +1,1 @@
+# Verordnung zum Ausgleich COVID-19 bedingter finanzieller Belastungen der Zahnärztinnen und Zahnärzte, der Heilmittelerbringer und der Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen sowie zur Pflegehilfsmittelversorgung
