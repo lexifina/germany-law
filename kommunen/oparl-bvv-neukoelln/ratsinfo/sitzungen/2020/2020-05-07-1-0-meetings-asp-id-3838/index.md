@@ -1,0 +1,58 @@
+# 46. öffentliche - außerordentlichen - Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-05-07T18:10:00+02:00
+- Ende: 2020-05-07T21:00:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3838
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3838
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Antrag zur Geschäftsordnung - erledigt
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 4.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Auswirkungen der Corona-Krise auf die Arbeit des Bezirksamtes - beantwortet
+- TOP 7.2: Aktuelle Situation zur Bekämpfung der Corona-Pandemie - vertagt
+- TOP 7.3: Neukölln legt Corona lahm? - vertagt
+- TOP 7.4: Soziale Auswirkungen in Zeiten von Corona - vertagt
+- TOP 7.5: Schulöffnung während Corona - vertagt
+- TOP 7.6: Beratung von Mieter*innen bei coronabedingtem Einnahmenausfall - vertagt
+- TOP 8: Große Anfragen - schriftlich - (offen)
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Schulöffnung in Corona-Zeiten - überwiesen
+- TOP 9.2: Aus COVID19 lernen - Schule und Kultur widerstandsfähiger gegen Pandemiefälle machen! - überwiesen
+- TOP 9.3: Wohnungs- und Sozialamt personell stärken - überwiesen
+- TOP 9.4: Kein Kind bleibt zurück! - überwiesen
+- TOP 9.5: Änderung der Geschäftsordnung I - Fraktionssitzungen und Ausschusssitzungen im Pandemiefall - überwiesen
+- TOP 9.6: Temporärer Radweg auf der südlichen Seite der Blaschkoallee - überwiesen
+- TOP 9.7: Corona-Infos für Mieter*innen auf die Bezirksamtswebsite stellen - überwiesen
+- TOP 9.8: Regelmäßige Informationen zur Corona-Pandemie durch den Bezirk Neukölln - überwiesen
+- TOP 9.9: Pop-up-Radwege für Neukölln - überwiesen
+- TOP 9.10: Temporäre Radwege Buckower Damm/Rufacher Weg - überwiesen
+- TOP 9.11: Masken- und Desinfektionspflicht im Bezirksamt - überwiesen
+- TOP 9.12: Prinzessinnengärten - Vorbild für Friedhofs-Nachnutzung - überwiesen
+- TOP 9.13: Jahresbericht linksextreme Aktivitäten in Neukölln - überwiesen
+- TOP 9.14: Kurzes Ende der Nansenstraße - überwiesen
+- TOP 9.15: Änderung der Geschäftsordnung II - Ergänzung der Tagesordnung außerordentlicher Sitzungen - überwiesen
+- TOP 9.16: Berlins Versorgung mit Arzneimitteln sichern - überwiesen
+- TOP 9.17: Lastenfahrrädern auf den Recyclinghöfen den Vorzug gewähren - überwiesen
+- TOP 9.18: Abschaffung des Fahrverbotes für Dieselfahrzeuge und Lastwagen bis einschließlich Abgasnorm 5 - überwiesen
+- TOP 9.19: Temporäre Radwege auf der Hermannstraße - überwiesen
+- TOP 9.20: Hinweisschilder an den Eingängen zur Hasenheide erneuern - überwiesen
+- TOP 9.21: Temporäre Schließung von Nebenstraßen - überwiesen
+- TOP 9.22: Bündnis Neukölln - überwiesen
+- TOP 9.23: Temporäre Schließung der „Rixdorfer Schnalle“ für den Autoverkehr - überwiesen
+- TOP 9.24: Sachleistungen statt Taschengeld - überwiesen
+- TOP 9.25: Haltestellenumbenennung - überwiesen
