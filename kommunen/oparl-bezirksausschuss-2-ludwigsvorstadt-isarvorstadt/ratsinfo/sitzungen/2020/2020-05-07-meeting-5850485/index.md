@@ -1,0 +1,53 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5850485
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5850485
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 2: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 3: Beschluss über die endgültige Tagesordnung
+- TOP 4: Berufung einer Wahlkommission
+- TOP 5: Bekanntgabe der Fraktionssprecher
+- TOP 6: Bekanntgabe der Fraktionsgemeinschaften
+- TOP 1: Wahl einer Vorsitzenden bzw. eines Vorsitzenden
+- TOP 1.1.: Übernahme der Sitzungsleitung durch die Vorsitzende bzw. den Vorsitzenden
+- TOP 1.2.: Vereidigung neugewählter BA-Mitglieder, die nicht an den Vereidigungsveranstaltungen teilnehmen konnten
+- TOP 2: Wahl der/des ersten stellvertretenden Vorsitzenden
+- TOP 3: Wahl der/des zweiten stellvertretenden Vorsitzenden
+- TOP 4: Beschluss über die weitere Zusammensetzung des Vorstands
+- TOP 4.1.: Wahl der / des 1. Beisitzerin / Beisitzer - optional
+- TOP 4.2.: Wahl der / des 2. Beisitzerin / Beisitzer - optional
+- TOP 4.3.: Wahl einer Kassiererin / eines Kassiers - optional
+- TOP 1: Bildung von Unterausschüssen (UAs)
+- TOP 1.2.: Benennung der Mitglieder und Regelung der Stellvertretung
+- TOP 1.3.: Wahl der Vorsitzenden der Unterausschüsse
+- TOP 2.3.: Wahl der / des Vorsitzenden des Sonderausschusses
+- TOP 3: Bildung eines Ferienausschusses für August 2020 - optional
+- TOP 3.3.: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 2: Benennung eines / einer Beauftragten für Menschen mit Behinderungen
+- TOP 3: Wahl eines / einer Gleichstellungsbeauftragte/n
+- TOP 4: Beschlussfassung über die Benennung weiterer Beauftragter und deren Zuständigkeit
+- TOP 5: Benennung der Schaukastenbetreuerinnen bzw. -betreuer
+- TOP I: Eröffnung der Sitzung
+- TOP II: Wahl des Vorstands
+- TOP III: Bildung von Ausschüssen
+- TOP 1.1.: Beschlussfassung über - die Anzahl und Zuständigkeit der Unterausschüsse - die Anzahl an Sitzen pro Unterausschuss - Fraktionszusammenschlüsse / UA-Gemeinschaften
+- TOP 2: Bildung eines Sonderausschusses für die Monate Mai, Juni und Juli 2020 - optional
+- TOP 2.1.: Beschlussfassung über - die Anzahl an Sitzen des Sonderausschusses - Fraktionszusammenschlüsse / Ausschussgemeinschaften
+- TOP 2.2.: Benennung der Mitglieder und Regelung der Stellvertretung
+- TOP 3.1.: Beschluss über - die Anzahl an Sitzen des Ferienausschusses - Fraktionszusammenschlüsse / Ausschussgemeinschaften
+- TOP 3.2.: Benennung der Mitglieder und Regelung der Stellvertretung
+- TOP IV: Berufung / Wahl von Beauftragten des Bezirksausschusses
+- TOP 1: Wahl einer bzw. eines Kinderbeauftragten Wahl einer bzw. eines Jugendbeauftragten - optional
+- TOP V: Beschluss über die weiteren Sitzungstermine und -orte im Jahr 2020
+- TOP VI: Verschiedenes / Sonstiges
+- TOP VII: Unaufschiebbare Sachthemen
