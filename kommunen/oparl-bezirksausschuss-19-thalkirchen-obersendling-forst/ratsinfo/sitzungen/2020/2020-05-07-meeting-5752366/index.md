@@ -1,0 +1,89 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752366
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752366
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Teil A: Konstituierende Sitzung
+- TOP 1.1.: Begrüßung, Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Bekanntgabe der Fraktionssprecher/innen und Benennung von Fraktions- und Ausschussgemeinschaften
+- TOP 3.: Bestimmung einer Wahlprüfungs- und Zählkommission
+- TOP 4.: Wahl BA-Vorstand
+- TOP 4.1.: Wahl der / des Vorsitzenden
+- TOP 4.2.: Übergabe der Sitzungsleitung an die / den Vorsitzende/n
+- TOP 4.3.: Vereidigung von noch nicht vereidigten Mitgliedern durch die / den BA-Vorsitzenden
+- TOP 4.4.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 4.5.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 4.6.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 4.7.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 4.8.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 4.9.: Wahl einer Kassiererin / eines Kassiers (optional)
+- TOP 5.: Bildung der Unterausschüsse
+- TOP 5.1.: Beschlussfassung über die Anzahl, Größe und Ressortverteilung der Unterausschüsse
+- TOP 5.2.: Benennung der Unterausschussmitglieder durch die Fraktionen / Gruppierungen
+- TOP 5.3.: Benennung der Ersatzmitglieder in den Unterausschüssen durch die Fraktionen / Gruppierungen (optional)
+- TOP 5.4.: Wahl der / des Unterausschussvorsitzenden durch den Bezirksausschuss
+- TOP 5.5.: Bestellung der / des stellvertretenden Unterausschussvorsitzenden durch den Bezirksausschuss (optional)
+- TOP 6.: Bildung eines Ferienausschusses (optional)
+- TOP 6.1.: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA 19
+- TOP 6.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 6.3.: Benennung der Mitglieder des Ferienausschusses durch die Fraktionen / Gruppierungen
+- TOP 6.4.: Benennung der Ersatzmitglieder des Ferienausschusses durch die Fraktionen / Gruppierungen (optional)
+- TOP 6.5.: Wahl der / des Vorsitzenden des Ferienausschusses durch den Bezirksausschuss
+- TOP 6.6.: Bestellung der / des stellvertretenden Vorsitzenden des Ferienausschusses durch den Bezirksausschuss (optional)
+- TOP 7.: Bildung eines Sonderausschusses (optional)
+- TOP 7.1.: Beschlussfassung über die Größe des Sonderausschusses
+- TOP 7.2.: Benennung der Mitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen
+- TOP 7.3.: Benennung der Ersatzmitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen (optional)
+- TOP 7.4.: Wahl der / des Vorsitzenden des Sonderausschusses durch den Bezirksausschuss
+- TOP 7.5.: Bestellung der / des stellvertretenden Vorsitzenden des Sonderausschusses durch den Bezirksausschuss (optional)
+- TOP 8.: Wahl bzw. Bestellung von Beauftragten
+- TOP 8.1.: Beschluss über Anzahl und die Zuständigkeit der Beauftragten
+- TOP 8.2.: Wahl einer / eines Kinderbeauftragten
+- TOP 8.3.: Wahl einer / eines Jugendbeauftragten (optional)
+- TOP 8.4.: Bestellung einer / eines Beauftragten für Menschen mit Behinderung
+- TOP 8.5.: Wahl einer / eines Gleichstellungsbeauftragten
+- TOP 8.6.: Bestellung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus (optional)
+- TOP 8.7.: Bestellung einer / eines Seniorenbeauftragten (optional)
+- TOP 8.8.: Bestellung einer / eines Beauftragten für Baumschutz (optional)
+- TOP 8.9.: Bestellung einer / eines Beauftragten für Gewerbe (optional)
+- TOP 8.10.: Bestellung einer / eines Beauftragten für REGSAM / RAG (optional)
+- TOP 8.11.: Bestellung einer / eines Beauftragten für Denkmalschutz (optional)
+- TOP 8.12.: Bestellung einer / eines Beauftragten für Internet (BA-Homepage) (optional)
+- TOP 8.13.: Bestellung von Betreuerinnen / Betreuern für die BA-Schaukästen (optional)
+- TOP 8.14.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 8.15.: Bestellung weiterer Beauftragter
+- TOP -: Teil B: Arbeitssitzung
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung - Teil B
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.: Allgemeines
+- TOP 1.3.: Beschluss über die Tagesordnung – Teil A
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.3.: Genehmigung der Protokolle vom 29.04.2020
+- TOP 2: Allgemeines
+- TOP 3.2.: (E) Stadtbezirksbudget NaturFreunde Deutschlands, Bezirk München e.V. Neugestaltung Spielplatz auf Vereinsgelände 13.293,49€, Az: 0262.0-19-0318
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
