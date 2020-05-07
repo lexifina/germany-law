@@ -1,0 +1,99 @@
+# Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-07T17:00:00+02:00
+- Ende: 2020-05-07T18:40:00+02:00
+- Ort: in der Scheune des Altenberger Hofes, Mauenheimer Str. 92, 50733 Köln.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21832
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21832
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung Nippes
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Öffnung der Einbahnstraßen in Gegenrichtung für den Radverkehr (Az.: 02-1600-234/19) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 7.1.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln 3154/2019, 4332/2019 - Kenntnis genommen
+- TOP 7.1.3: Bauvorhaben auf dem Gelände Getränkehandel Falko Merkenicher Str. 210 in Niehl - Kenntnis genommen
+- TOP 7.1.4: Grundstück Nordstr. 17 in Köln-Nippes - Kenntnis genommen
+- TOP 7.1.5: Effektivität der App "Sag´s uns" - Kenntnis genommen
+- TOP 7.1.6: Verwendung von Stellplatzablösemitteln - Kenntnis genommen
+- TOP 7.1.7: Köln Mobil 2025 - Kenntnis genommen
+- TOP 7.1.8: Renaturierung des Grüngeländes am Heilig-Geist-Krankenhaus - zur Anfrage der SPD-Fraktion AN/0414/2020 - Kenntnis genommen
+- TOP 7.1.9: Stand der Umsetzung des Standortkonzepts für eine Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln - Kenntnis genommen
+- TOP 7.1.10: Hygiene der Kindertageseinrichtungen im Stadtbezirk Nippes anlässlich Corona-Pandemie - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baumfällungen an der Wendeschleife der Linien 12 und 147 - Kenntnis genommen
+- TOP 7.2.2: Plastiktüten in Altkleidercontainern - Kenntnis genommen
+- TOP 7.2.3: Renaturierung des Grüngeländes am Hl. Geist Krankenhaus - Kenntnis genommen
+- TOP 7.2.4: Blumen- und Langgraswiesen - Kenntnis genommen
+- TOP 7.2.5: Neusser Land Str. 2a - Kenntnis genommen
+- TOP 7.2.6: Warteschlangen auf Bürgersteigen vor kleinen Geschäften - Kenntnis genommen
+- TOP 7.2.7: Hygiene der Grundschulen im Stadtbezirk Nippes anlässlich Corona-Pandemie - Kenntnis genommen
+- TOP 7.2.8: Hygiene der Kindertagestätten im Stadtbezirk Nippes anlässlich Corona-Pandemie - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vermeidung von Unfällen an der Kreuzung Mauenheimer Gürtel / Geldernstraße - ungeändert beschlossen
+- TOP 8.1.2: Tempo 30 auf der Neusser Straße/Klimastraße - ungeändert beschlossen
+- TOP 8.1.3: Benennung des Platzes vor dem Nebeneingang des Zoos, Stammheimer Straße - geändert beschlossen
+- TOP 8.1.4: Verkehrssicherheit an der Wagenhallenstraße und Bahnwärterweg gewährleisten - geändert beschlossen
+- TOP 8.1.5: Halteverbot auf der Kapuzinerstraße in Weidenpesch - endgültig zurückgezogen
+- TOP 8.1.6: Renaturierung ehem. Containerstandort der Gesamtschule Longerich - geändert beschlossen
+- TOP 8.1.7: Einrichtung einer Querungshilfe auf der Höhe der Bushaltestelle Nievenheimer Straße/Geldernstraße - ungeändert beschlossen
+- TOP 8.1.8: Anlegen einer Wegeverbindung im Lohsepark östlich der Neusser Straße - geändert beschlossen
+- TOP 8.1.9: Sitzen statt Parken - ungeändert beschlossen
+- TOP 8.1.10: Ehemaliger Luftschutzbunker am Grünen Hof - ungeändert beschlossen
+- TOP 8.1.11: „Machbarkeitsstudie Stadtbahn-West-Ost-Trasse“ - zurückgestellt
+- TOP 8.1.12: Schutz des Kahnweihers im Blücherpark - ungeändert beschlossen
+- TOP 8.1.13: Verbreiterung des Radweges auf dem Mauenheimer Gürtel zwischen Geldernstraße und Abbiegemöglichkeit Kempener Straße - ungeändert beschlossen
+- TOP 8.1.14: Einrichtung von Pop-up-Bikes-Lanes im Stadtbezirk Nippes auf der Niehler Straße - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Planungsstrategie für künftige Bauvorhaben im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.2.2: Bauvorhaben Simonskaul - ungeändert beschlossen
+- TOP 8.2.3: Erweiterung der Anliegen-Kategorien des Online-Portals „Sag´s uns“ - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Namensgebung der Gemeinschaftshauptschule Reutlinger Straße 49, 50739 Köln (Bilderstöckchen) - ungeändert beschlossen
+- TOP 9.1.2: Beratung des Entwurfs des Doppelhaushalts 2020/2021 und Festsetzung der bezirksorientierten Mittel für die Haushaltsjahre 2020 und 2021 - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.4: Baubeschluss für die Umgestaltung des Einmündungsbereiches Escher Straße/Am Bilderstöckchen sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert beschlossen
+- TOP 9.1.5: Baubeschluss für die Generalinstandsetzung der Merheimer Straße im Abschnitt zwischen Friedrich-Karl-Straße und Roßbachstr. und Umbau der Knotenpunkte Merheimer Straße/Friedrich-Karl-Straße und Merheimer Straße/Theklastraße zu Kreisverkehren sowie - zurückgestellt
+- TOP 9.1.6: Vergabe von bezirksorientierten Mitteln - geändert beschlossen
+- TOP 9.1.7: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - mit Änderungen empfohlen
+- TOP 9.2.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - mit Änderungen empfohlen
+- TOP 9.2.3: 274. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.4: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - Sache ist erledigt
+- TOP 9.2.5: Erneuerung der Eisenbahnüberführungen Innere Kanalstraße (S-Bahnbrücke) in Köln-Nippes - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 10.2.2: Errichtung eines Taubenhauses an der S-Bahn-Station Nippes - Kenntnis genommen
+- TOP 10.2.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.4: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 10.2.5: Geestemünder Straße von Neusser Landstraße bis Industriestraße - Kenntnis genommen
+- TOP 10.2.6: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Nippes - Kenntnis genommen
+- TOP 10.2.7: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.8: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.9: Dringlichkeitsantrag AN/0425/2020 - Sitzen statt Parken, Eliasgasse, Köln-Longerich - Kenntnis genommen
+- TOP 10.2.10: Förderung der Elektromobilität im Stadtteil Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.11: Sachstandsmitteilung zu den von der Bezirksvertretung Nippes priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.12: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.13: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 10.2.14: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 10.2.15: Klagemöglichkeiten der Stadt Köln gegen die Deutsche Bahn AG - Kenntnis genommen
+- TOP 10.2.16: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 10.2.17: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 10.2.18: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
