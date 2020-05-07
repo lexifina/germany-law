@@ -1,0 +1,76 @@
+# 47. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-07T15:05:00+02:00
+- Ende: 2020-05-07T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21761
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21761
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der mündlichen Anfrage des RM Zimmermann aus der Sitzung des Stadtentwicklungsausschusses vom 05.12.2019 betr. Heliosgelände - Kenntnis genommen
+- TOP 1.2: Beantwortung einer Anfrage der SPD Fraktion (AN/0390/2020 "Starke Veedel - Starkes Köln") betreffend "Haus-, Hof- und Fassadenprogramm - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der SPD-Fraktion betreffend "Baugenehmigungen auf Rekordtief – steigende Mieten - Familien flüchten aus Köln"
+- TOP 2.2: Einwohner*innenbeteiligung während der Pandemie - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktion Die Linke betr. Einwohner*innenbeteiligung während der Pandemie - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Wohnen.Bezahlbar.Machen.: Bebaubare Grundstücke veröffentlichen – Baulandkataster einführen! - zurückgestellt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - zurückgestellt
+- TOP 6.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.3: Fortschreibung des Landschaftsplans Köln (12. Änderung) - zurückgestellt
+- TOP 6.4: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 215. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: „Universitätsklinik zu Köln, Baufeld West“ in Köln-Lindenthal hier: Feststellungsbeschluss - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes im vereinfachten Verfahren Arbeitstitel: Kaiserstraße Nummer 95-99 in Köln-Porz-Urbach - ungeändert beschlossen
+- TOP 10.4: Beschluss über d. Teilaufhebung d. Bebauungsplanes 75389/03. - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74440/02 Arbeitstitel: Rather See in Köln – Rath / Heumar - ungeändert beschlossen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 76380/03; Arbeitstitel: "Südlich Friedensstraße – Westteil" in Köln-Porz-Elsdorf - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Dringlichkeitsantrag der Bezirksvertretung Porz vom 13.06.2019 (AN/0851/2019) betr. Wohnungsbauprogramm Südlich Friedensstraße Bebauungsplan Nr. 76380/03 (Session 1106/2019: Mitteilung zur Offenlage) - zurückgestellt
+- TOP -: Änderungsantrag Wohnungsbauprogramm Südlich Friedensstraße - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf mit der Nummer 7340/02 Arbeitstitel: Kölner Straße / Hauptstraße in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 17.3: 220. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz-Elsdorf Arbeitstitel: Fuchskaule in Köln-Porz-Elsdorf - Kenntnis genommen
+- TOP 17.4: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 17.5: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 17.6: Immobilien der Deutschen Bahn AG im Stadtbezirk Ehrenfeld | Beantwortung der Anfrage AN/1071/2019 - Kenntnis genommen
+- TOP 17.7: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 | Beantwortung der Anfrage AN/1071/2019 der Fraktion DIE LINKE in der BV Ehrenfeld - Kenntnis genommen
+- TOP 17.8: Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - Kenntnis genommen
+- TOP 17.9: Einrichtung eines Begleitgremiums Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung - Kenntnis genommen
+- TOP 17.10: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 17.11: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 17.12: Externe Studie "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - Kenntnis genommen
+- TOP 17.13: Kooperation Köln und rechtsrheinische Nachbarn (K&RN): Stadt Köln übernimmt Konsortialführung für zwei Jahre - Kenntnis genommen
+- TOP 17.14: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regio-nalplan veröffentlicht - Kenntnis genommen
+- TOP 17.15: Bevölkerungsentwicklung 2019: Leichtes Wachstum - Kenntnis genommen
+- TOP 17.16: Verordnung über eine Umwandlungsgenehmigung in Gebieten zur Erhaltung der Zusammensetzung der Wohnbevölkerung (Umwandlungsverordnung – UmwandVO) hier: Mitteilung an den StEA bzgl. der Rückschrift des Schreibens an die Ministerin für Heimat, Kommunale - Kenntnis genommen
+- TOP 17.17: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 17.18: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 17.19: Förderung von Wohnungen mit Mitteln des Landes NRW Jahr 2019 und Überblick der Änderungen im Förderrecht 2020 - Kenntnis genommen
+- TOP 17.20: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf 74490/07 Arbeitstitel: Wasserwerkstraße in Köln-Dellbrück - Kenntnis genommen
+- TOP 17.21: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
