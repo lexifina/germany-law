@@ -1,0 +1,53 @@
+# 54. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-05-07T17:03:00+02:00
+- Ende: 2020-05-07T18:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11828
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11828
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00461420.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Seihofteich - einstimmig beschlossen
+- TOP 5: Berichte
+- TOP 5.1: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden - von der Tagesordnung abgesetzt
+- TOP 5.1.1: Verlagerung des Schulstandortes in Nienberge - von der Tagesordnung abgesetzt
+- TOP 6: Entscheidungen
+- TOP 6.1: Straßenbenennungen in Gievenbeck - Oxford-Quartier - einstimmig beschlossen
+- TOP 6.2: Ergänzung zum Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die bezirklichen Baumaßnahmen im Stadtbezirk West - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Albachten der Freiwilligen Feuerwehr Münster - mehrheitlich geändert beschlossen
+- TOP 7.2: Grundschule Oxford - mehrheitlich beschlossen
+- TOP 7.3: Grünanlage Aasee - von der Tagesordnung abgesetzt
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Erweiterung des BWZ ökologisch gestalten - eingebracht
+- TOP 8.2: Lärmschutzwälle für Photovoltaikanlagen nutzen - eingebracht
+- TOP 8.3: Zukunft der Erstaufnahmeeinrichtung - eingebracht
+- TOP 8.4: Änderung der Ampelphasen der Fußgängerampel Osthofstraße - Schulwegsicherung - eingebracht
+- TOP 8.5: Einrichtung von Behindertenparkplätzen in Albachten - eingebracht
+- TOP 8.6: Standort für einen Recyclinghof in Albachten - eingebracht
+- TOP 8.7: Spielmobil für Wohnquartier "Schwarzer Kamp" - beantwortet
+- TOP 8.8: Gut erreichbare und barrierefreie Wahllokale für alle Wahlberechtigten in Mecklenbeck-Süd - beantwortet
+- TOP 8.9: Feuerwehrstandort Albachten - eingebracht
+- TOP 8.10: Zusätzliche Fahrrad-Bügel an den Bushaltestellen Technologiepark B und Abzweig Wilkinghege stadteinwärts - eingebracht
+- TOP 8.11: Einrichtung einer neuen Buslinie zwischen Senden und Coesfelder Kreuz - eingebracht
+- TOP 8.12: Aufstellung eines Verkehrs- und Mobilitätskonzepts für Gievenbeck - eingebracht
+- TOP 8.13: Verkehrskonzept für die Weseler Straße im Stadtteil Albachten - eingebracht
+- TOP 8.14: Eine Pumptrack-Anlage für Albachten - eingebracht
+- TOP 8.15: Verbesserter ÖPNV im wachsenden Stadtteil Albachten - eingebracht
+- TOP 8.16: Installierung von Durchfahrtsperren/Felssteinen zwischen den Straßen Am Haselhof/Kleine Breikamp - eingebracht
+- TOP 8.17: Sitzgelegenheit am Fußweg entlang Christoph-Bernhard-Graben - eingebracht
+- TOP 8.18: Aufstellung von Hundekotbeutelspender und Müllsammelbehälter in Nienberge - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Aufstellung eines mobilen Dialogdisplays auf der Isolde-Kurz-Straße zwischen den Bushaltestellen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10: Verschiedenes - entfällt
