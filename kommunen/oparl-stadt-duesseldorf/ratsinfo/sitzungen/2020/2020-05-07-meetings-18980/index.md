@@ -1,0 +1,105 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-07T17:00:00+02:00
+- Ende: 2020-05-07T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18980
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18980
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 07.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377503.pdf
+- Ergebnisprotokoll: NachtragsTO vom 07.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377503.pdf
+- Wortprotokoll: NachtragsTO vom 07.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377503.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Verpflichtung eines Mitgliedes der Bezirksvertretung 8
+- TOP 4: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 5: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 6: Berichterstattung Park+Ride in und um Düsseldorf - einstimmig beschlossen
+- TOP 7: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Radfahrstreifen Königsberger Straße und Sandträgerweg im Bereich zwischen Posener Straße und Bunzlauer Weg - Empfehlung mehrheitlich beschlossen
+- TOP 12: Vier Raumbilder für das Raumwerk D - vertagt
+- TOP 13: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - vertagt
+- TOP 14: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - vertagt
+- TOP 15: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2020 - einstimmig beschlossen
+- TOP 16: Handwerker- und Bauernmarkt auf dem Breidenplatz im Jahre 2020 - einstimmig beschlossen
+- TOP 17: Spezialmarkt „Düsseldorfer Herbstfestival“ im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2020 - einstimmig beschlossen
+- TOP 18: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2020 - einstimmig beschlossen
+- TOP 19: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 20: Zuschüsse der Bezirksvertretung 8 im Jahre 2020 - einstimmig beschlossen
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Lärmoptimierter Asphalt (LOA) für den Straßenzug Bernburger Straße/Klein-Eller – Ausführungs- und Finanzierungsbeschluss – Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 24: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 25: Zuschüsse der Bezirksvertretung 8 im Jahre 2020 – Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 26: Berichterstattung Park + Ride in und um Düsseldorf - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 27: Baumfällungen in Unterbach (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Sparkasse Lierenfeld (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 30: Kulturbahnhof Eller (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 31: Ortsumgehung Flingern mit Rad- und Gehwegen (Anfrage CDU-Fraktion) - beantwortet
+- TOP 32: Bahn-Unterführung Gumbertstraße (Eller Mitte) (Anfrage CDU-Fraktion) - beantwortet
+- TOP 33: Verkaufsabsichten städtischer Gebäude im Stadtbezirk 8 (Anfrage CDU-Fraktion) - beantwortet
+- TOP 34: VRR-Stationsbericht 2019 und Barrierefreiheit Eller Mitte S (Anfrage CDU-Fraktion) - beantwortet
+- TOP 35: Qualitätssicherndes Verfahren Dillenburger Weg (Anfrage CDU-Fraktion) - beantwortet
+- TOP 36: Baumentnahme im Stadtbezirk 8 (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 37: Jugendfreizeiteinrichtung Chemnitzer Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 38: Zweckverband Unterbacher See (Anfrage SPD-Fraktion) - beantwortet
+- TOP 39: Notbetreuung in Kita und Schule (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 40: Antrag auf Finanzhilfe (Corona-Hilfe) der Landeshauptstadt Düsseldorf im Stadtbezirk 8 (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 41: Bürgerhaus Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 42: Verkehrsführung Egilweg/Blümchensiedlung Lierenfeld nach Realisierung des Bauvorhabens Erkrather Straße 388-392 (Anfrage CDU-Fraktion) - beantwortet
+- TOP 43: Parteienwerbung vor dem Rathaus Eller (Anfrage CDU-Fraktion) - beantwortet
+- TOP 44: Stromtanken Lierenfeld (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 45: Trinkbrunnen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 46: Geländer Freitreppe auf dem Schulhof Wichernschule (Antrag CDU-Fraktion) - mehrheitlich beschlossen
+- TOP 47: Mehr Grün in Lierenfeld (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 48: Befestigung Verbindungsweg Friedhof Unterbach (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 49: Wiederherstellung des Bürgersteigs Rathelbeckstraße 360 - 364 (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 50: Fuß- und Radweg zwischen Bernburger Straße und Darmstädter Straße entlang der S-Bahntrasse (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 51: Bahnübergang Am Hackenbruch (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 52: Einrichtung Tempo 30 im Bereich Neusalzer Weg, Reichenbacher Weg, Eller Kamp (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 53: Bänke und Hundefreilauffläche an der Südlichen Düssel (Antrag SPD-Fraktion) - vertagt
+- TOP 54: Einrichtung einer Schnell-/Metrobuslinie aus Richtung Erkrath, Hilden und Solingen (Antrag Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 55: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56: Fahrradboxen am S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 57: Gebäude Gumbertstraße / Alt-Eller - zur Kenntnis genommen
+- TOP 58: Rodungsarbeiten im Zuge der Baumaßnahme Krippstraße, Niederschlagswasser-Behandlung - zur Kenntnis genommen
+- TOP 59: Schützenplatz Unterbach - Baumfällungen - zur Kenntnis genommen
+- TOP 60: Stadtsparkasse Düsseldorf - Standort Lierenfeld - zur Kenntnis genommen
+- TOP 61: Freiheitplatz in Vennhausen - zur Kenntnis genommen
+- TOP 62: Schul- / Spielhof auf dem Schulgrundstück Fuldaer Straße 33 - zur Kenntnis genommen
+- TOP 63: Schulhof Brorsstraße - Wasseranschluss - zur Kenntnis genommen
+- TOP 64: Düssel-Brücke Vennhausen - zur Kenntnis genommen
+- TOP 65: Kreuzung Klein-Eller/Weinheimer Straße/Annweiler Straße - Erhöhung der Verkehrssicherheit - zur Kenntnis genommen
+- TOP 66: Projekttage und Bürgerinformation zu aufgestellten Defibrillatoren - zur Kenntnis genommen
+- TOP 67: Jugend checkt Düsseldorf - Umsetzung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 68: Beleuchtung im Stadtbezirk 8 während der Adventszeit - zur Kenntnis genommen
+- TOP 69: Öffnung der Eichkatzstraße und der Sperberstraße für den Radverkehr - zur Kenntnis genommen
+- TOP 70: Schadstoffbelastungen durch Pflanzenschutzmittel in Unterbach - zur Kenntnis genommen
+- TOP 71: Elektro- und Zukunftsmobilität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 72: Gerresheimer Landstraße - Schwerlastverkehr - zur Kenntnis genommen
+- TOP 73: Defibrillatoren im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 74: Baustelle „Rewe-Gelände“ Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 75: Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 76: On-Demand-Verkehr für Unterbach - zur Kenntnis genommen
+- TOP 77: Spielplatz "Am Schwalbenberg" in Unterbach - zur Kenntnis genommen
+- TOP 78: Gestaltung Grünfläche / Spielplatz Am Schwalbenberg 76-80 - zur Kenntnis genommen
+- TOP 79: ÖPNV-Buslinie 891 / Verbindung zum Südstrand Unterbacher See - zur Kenntnis genommen
+- TOP 80: Masterplan "Energieeffiziente und historische Straßenbeleuchtung" - zur Kenntnis genommen
+- TOP 81: Schutz erhaltenswerter Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 82: Geländerertüchtigung an Ingenieurbauwerken - zur Kenntnis genommen
+- TOP 83: Wohnhäuser Vennhauser Allee 231 und 233 - zur Kenntnis genommen
+- TOP 84: Baumentnahme im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 85: Verkaufsabsichten städtischer Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 86: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 87: Antrag auf Finanzhilfe (Corona-Hilfe) der Landeshauptstadt Düsseldorf im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 88: Masterplan Kinderspielplätze - zur Kenntnis genommen
