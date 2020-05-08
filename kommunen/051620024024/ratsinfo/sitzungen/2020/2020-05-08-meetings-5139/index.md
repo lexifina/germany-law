@@ -1,0 +1,115 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-05-08T16:00:00+02:00
+- Ende: 2020-05-08T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5139
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5139
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich ohne Anlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00129327.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich ohne Anlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00129327.pdf
+- Wortprotokoll: Sitzungspaket öffentlich ohne Anlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00129327.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestellung eines zweiten Schriftführers für den Rat der Stadt Neuss - einstimmig zugestimmt
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 7: Beratung mobil - aufsuchende Drogenhilfe - mehrheitlich zugestimmt
+- TOP 8: Zuständigkeitsordnung - verwiesen
+- TOP 9: Einwohnerfragestunde in Ausschüssen - einstimmig zugestimmt
+- TOP 10: Neueinrichtung und Fortführung von Gremien des Rates und der Ausschüsse - verwiesen
+- TOP 11: Richtlinien zur Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 12: Fesserstraße, Knotenpunkt Römerstraße: Barrierefreier Knotenpunktumbau sowie Umbau von Nebenanlagen - einstimmig zugestimmt
+- TOP 13: Geulenstraße: Fahrbahnverbreiterung zwischen der Straße "Am Hasenberg" und der Mecklenburgstraße - einstimmig zugestimmt
+- TOP 14: Alexianerplatz: Umbau zur Erschließung des Bebauungsplangebietes 484; Beseitigung einer Engstelle in der Nebenanlage der Nordkanalallee - einstimmig zugestimmt
+- TOP 15: Kölner Straße: Barrierefreier Umbau der Bushaltestellen "Humboldtstraße" sowie barrierefreier Umbau des Knotenpunktes Kölner Straße / Grüner Weg / Humboldtstraße - einstimmig zugestimmt
+- TOP 16: Gladbacher Straße: Barrierefreier Umbau der Bushaltestellen "Am Strauchbusch" sowie der angrenzenden Querungsstellen - einstimmig zugestimmt
+- TOP 17: Grefrather Weg: Barrierefreier Umbau der Bushaltestelle "Gaußstraße" sowie Herstellung barrierefreier Querungsstellen - einstimmig zugestimmt
+- TOP 18: Nachrüstung vorhandener Bushaltestellen mit taktilen Elementen (2. Maßnahmenpaket für das Förderprogramm 2021) - einstimmig zugestimmt
+- TOP 19: Goldregenweg und Haselweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - mehrheitlich zugestimmt
+- TOP 20: Hagebuttenweg und Magnolienweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - mehrheitlich zugestimmt
+- TOP 21: Hainbuchenweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - mehrheitlich zugestimmt
+- TOP 22: Leostraße zwischen Further Straße und Frankenstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - mehrheitlich zugestimmt
+- TOP 23: Am Hochofen, Heerdterbuschstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - mehrheitlich zugestimmt
+- TOP 24: Neuaufstellung des Flächennutzungsplanes für die Stadt Neuss - Erneuter Auslegungsbeschluss - einstimmig zugestimmt
+- TOP 25: Umgestaltung des Knotenpunktes Am Kivitzbusch/ Frankenstraße - einstimmig zugestimmt
+- TOP 26: Umgestaltung der Gnadentaler Allee im Bereich der Sekundarschule Neuss - mehrheitlich zugestimmt
+- TOP 27: Geförderter Wohnungsbau im Geltungsbereich des Bebauungsplanes Nr. 456 - Rheintorstraße / Düsseldorfer Straße - - mehrheitlich zugestimmt
+- TOP 28: Bebauungsplan V 117/3 Gladbacher Straße (Wohnungsbau) - einstimmig zugestimmt
+- TOP 29: Flächennutzungsplanänderung Nr. 133 – Hammfeld II, Hammer Landstraße / Derendorfweg - Aufstellungsbeschluss - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 30: Veräußerung der RWE-Aktien - mehrheitlich zugestimmt
+- TOP 31: Kreiswerke Grevenbroich GmbH - Benennung stellvertrender Mitglieder des Aufsichtsrates - mehrheitlich zugestimmt
+- TOP 32: Beibehaltung der aktuellen Regelungen zur Parkraumbewirtschaftung im öffentlichen Raum und in den Parkbauten der CityParkhaus GmbH aufgrund der Corona-Lage bis zum 31. - mehrheitlich zugestimmt
+- TOP 33: Hilfsmaßnahmen für von "Corona" besonders betroffene Unternehmen - mehrheitlich zugestimmt
+- TOP 34: Erlass von Sondernutzungsgebühren im Rahmen des kommunalen Rettungsschirms - einstimmig zugestimmt
+- TOP 35: Anpassung von Betriebszeiten für derzeit eingeschränkte Außengastronomie - einstimmig zugestimmt
+- TOP 36: Elternbeiträge Kita, Kindertagespflege und OGS für den Monat Mai 2020 - einstimmig zugestimmt
+- TOP 37: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 37.1: Genehmigung der Dringlichkeitsentscheidung Nr. 295 - einstimmig zugestimmt
+- TOP 37.2: Genehmigung der Dringlichkeitsentscheidung Nr. 296 - einstimmig zugestimmt
+- TOP 37.3: Genehmigung der Dringlichkeitsentscheidung Nr 297 - mehrheitlich zugestimmt
+- TOP 37.4: Genehmigung der Dringlichkeitsentscheidung Nr. 298 - einstimmig zugestimmt
+- TOP 37.5: Genehmigung der Dringlichkeitsentscheidung Nr. 299 betr.: Lärmaktionsplan der stadt Neuss - einstimmig zugestimmt
+- TOP 37.6: Genehmigung der Dringlichkeitsentscheidung Nr. 300 betr.: Zweckgebundener Zuschuss für die "Neusser Eine-Welt-Initiative - einstimmig zugestimmt
+- TOP 37.7: Genehmigung der Dringlichkeitsentscheidung Nr. 294 betr. Einsatz von Bioziden zur Bekämpfung des Eichenprozessionsspinners - mehrheitlich zugestimmt
+- TOP 37.8: Genehmigung der Dringlichkeitsentscheidung Nr. 301 - Zweckgebundener Zuschuss für die "neuss-agenda 21 e.V." für das Jahr 2020 - einstimmig zugestimmt
+- TOP 37.9: Genehmigug der Dringlichkeitsentscheidung Nr. 302 betr. Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2020/21 - einstimmig zugestimmt
+- TOP 37.10: Genehmigung der Dringlichkeitsentscheidung Nr. 292 betr.: Vorgeschlagene Änderungen der Satzung Elternbeiträge für Angebote der offenen Ganztagsgrundschule - einstimmig zugestimmt
+- TOP 37.11: Genehmigung der Dringlichkeitsentscheidung Nr. 293 betr.: Kooperationsvereinbarung Kolping-Bildungswerk - einstimmig zugestimmt
+- TOP 37.12: Genehmigung der Dringlichkeitsentscheidung Nr. 304 - Bebauungsplan Nr. 499 – Barbaraviertel, Bockholtstraße/Leuschstraße (Gewerbe- und Industriegebiet) - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 37.13: Genehmigung der Dringlichkeitsentscheidung Nr. 305 - Bebauungsplan Nr. 500 – Hammfeld II, Hammer Landstraße/Derendorfweg - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 37.14: Genehmigung der Dringlichkeitsentscheidung Nr. 306 - Bebauungsplan Nr. 501 - Norf, Nievenheimer Straße (Kita) - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 37.15: Genehmigung der Dringlichkeitsentscheidung Nr. 307 - Bebauungsplan Nr. 484 – Augustinusviertel, Ehemaliges St.-Alexius-Krankenhaus - Auslegungsbeschluss - einstimmig zugestimmt
+- TOP 37.16: Genehmigung der Dringlichkeitsentscheidung Nr. 308 - Stadtmauerkonzept und Umsetzung erster Maßnahmen - einstimmig zugestimmt
+- TOP 37.17: Genehmigung der Dringlichkeitsentscheidung Nr. 309 - Erneuerung Beleuchtungsanlagen am Wierstraetweg zwischen Niedertor und Alte Post - einstimmig zugestimmt
+- TOP 37.18: Genehmigung der Dringlichkeitsentscheidung Nr. 310 - Tag der nachhaltigen Mobilität am 20.06.2020 - Durchführung und Finanzierung - einstimmig zugestimmt
+- TOP 37.19: Genehmigung der Dringlichkeitsentscheidung Nr. 313 - 1. Verlängerung der Veränderungssperre Nr. 37 für den Geltungsbereich des Bebauungsplans Nr. 487 - Barbaraviertel, Düsseldorfer Straße / Bockholtstraße / Leuschstraße (ehemaliges Pierburgareal) - mehrheitlich zugestimmt
+- TOP 37.20: Genehmigung der Dringlichkeitsentscheidung Nr. 320 betr. Betreuungsbeiträge - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 38: Antrag der SPD-Fraktion betr. Flächendeckend Bezirksauschüsse einrichten - verwiesen
+- TOP 39: Antrag der Ratsfraktion DIE LINKE betr. Änderung der Geschäftsordnung des Rates - einstimmig zugestimmt
+- TOP 40: Antrag der FDP-Fraktion betr.: Konzept und Strategieentwicklung zur langfristigen Reduzierung der Personalkosten im Zeitrahmen 2020-2030 - vertagt
+- TOP 41: Antrag der FDP-Fraktion betr. Wider die unreflektierten und vornehmlich affektiv begründeten Anträge, die RWE-Aktien der Stadt abzustoßen - Transformationsprozess des Energiekonzerns rechtfertigt ein Festhalten an den RWE-Aktien - mehrheitlich zugestimmt
+- TOP 42: Antrag der Stadtratsfraktion UWG/Freie Wähler Neuss - GO-Neuss betr. Sportförderrichtlinien der Stadt Neuss / Fristverlängerung für die Antragstellung
+- TOP 43: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr. Aufwertung Stadtgarten - zur Kenntnis genommen
+- TOP 44: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr. Planungsstand Feuerwache Süd - zur Kenntnis genommen
+- TOP 45: Antrag der SPD-Fraktion betr. Lehren aus der Corona-Krise für die Schullandschaft ziehen – Einrichtung eines „Runden Tisches“ - verwiesen
+- TOP 46: Antrag der FDP-Fraktion betr. Aufbau der IT-Infrastruktur zur Virtualisierung des Schulunterrichts in Zeiten der Pandemie und danach - verwiesen
+- TOP 47: Antrag der FDP-Fraktion betr. Erweiterung des digitalen Bürgerservices - verwiesen
+- TOP 48: Antrag der FDP-Fraktion betr. Einrichtung eines virtualisierten Bürgerservices - verwiesen
+- TOP 49: Antrag der SPD-Fraktion betr. Corona-Schutzschirm: Mit dem „Neu(ss)Start“ die Herausforderungen der Krise meistern - verwiesen
+- TOP 50: Antrag der AfD-Fraktion betr. Beendigung Corona-Shutdown - mehrheitlich abgelehnt
+- TOP 51: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Gastronomen und Schausteller entlasten - verwiesen
+- TOP 52: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Digitalisierung in Neusser Schulen vorantreiben - verwiesen
+- TOP 53: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Neuss bleibt soziale Großstadt - einstimmig zugestimmt
+- TOP 54: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Kita-Trägerschaften sichern - verwiesen
+- TOP 55: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Berichterstattung des GMN zum Stand der Bau- und Sanierungsmaßnahmen an den Neusser Schulen - zur Kenntnis genommen
+- TOP 56: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Humanitäre Notfallmaßnahme - Aufnahme hilfsbedürftiger Familien und minderjähriger unbegleiteter Geflüchteter aus Griechenland - mehrheitlich zugestimmt
+- TOP 57: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Elternbeiträge aussetzen - einstimmig zugestimmt
+- TOP 58: Antrag der LINKE-Fraktion betr. Umsetzung von Haushaltsbeschlüssen - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 58.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 58.2: Anfrage des Stv. Herrn C. Thiel betr. Parkraumsituation Jakob-Koch-Str./Südpark in Neuss-Reuschenberg - zur Kenntnis genommen
+- TOP 58.3: Anfrage des Herrn Stadtverordneten C. Thiel betr. Parkraumsituation Parkplatz Südpark Eishalle in Neuss-Reuschenberg - zur Kenntnis genommen
+- TOP 58.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 58.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 58.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 58.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 58.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 59: Bericht zur aktuellen Haushaltslage - zur Kenntnis genommen
+- TOP 60: Steigerung der Attraktivität und Leistungsfähigkeit der Freiwilligen Feuerwehr (hier: Sachstand zur Einführung einer betrieblichen Krankenversicherung) - zur Kenntnis genommen
+- TOP 61: Wirtschaftsförderung in der Coronakrise - zur Kenntnis genommen
+- TOP 62: Sachstandsmitteilung Wegfall verkaufsoffener Sonntag am 03.05.2020 durch COVID-19 - zur Kenntnis genommen
+- TOP 63: Handlungsempfehlungen zum Umgang mit Leistungsstörungen im Zusammenhang mit der Covid-19-Pandemie - zur Kenntnis genommen
+- TOP 64: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP -: Einwohnerfragestunde
