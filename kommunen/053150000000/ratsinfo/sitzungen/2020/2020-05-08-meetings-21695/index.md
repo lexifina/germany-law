@@ -1,0 +1,65 @@
+# 43. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-08T15:40:00+02:00
+- Ende: 2020-05-08T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21695
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21695
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00766507.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00766507.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00766507.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 3.2: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Sachstand Verlagerung des Großmarkts und Errichtung eines Frischezentrums" - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der SPD-Fraktion betr.: "Wirtschaftliche Auswirkungen der Corona-Pandemie für zentrale Angebote und Einrichtungen des Kölner Startup-Ökosystems: Was unternimmt die Verwaltung?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betr.: " Wirtschaftliche Auswirkungen der Corona-Pandemie für zentrale Angebote und Einrichtungen des Kölner Startup-Ökosystems: Was unternimmt die Verwaltung?" (AN/0529/2020) - Kenntnis genommen
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Antrag der CDU-Fraktion, Fraktion Bündnis 90/Die Grünen, FDP-Fraktion, Ratsgruppe GUT betr.: "Regionale Erzeugung und Verteilung landwirtschaftlich erzeugter Nahrungsmittel" - ungeändert beschlossen
+- TOP -: Stellungnahme zu AN/0404/2020 - Kenntnis genommen
+- TOP 5.2: Dringlichkeitsantrag der SPD-Fraktion betr.: "Die ganze Stadt im Blick: Kreative Lösungen für Außengastronomie stadtweit umsetzen" - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen zu TOP 5.2 betr.: "Die ganze Stadt im Blick: Kreative Lösungen für Außengastronomie stadtweit umsetzen" [AN/0521/2020] - geändert beschlossen
+- TOP 5.3: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Aufhebung der Reservierung eines Grundstücks im Industriepark Nord" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. zu Top 5.3 betr.: "Aufhebung der Reservierung eines Grundstücks im Industriepark Nord" (AN/0551/2020) - geändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regio-nalplan veröffentlicht - zurückgestellt
+- TOP 7.2: Kooperation Köln und rechtsrheinische Nachbarn (K&RN): Stadt Köln übernimmt Konsortialführung für zwei Jahre - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 8.1: Durchführung einer crossmedialen Kampagne für die Kölner Wochenmärkte - Bedarfsfeststellung, Teilplan 0203 Märkte - ungeändert beschlossen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: Förderwettbewerb Modellregion Wasserstoffmobilität - Kenntnis genommen
+- TOP 14.2: Unterstützung für die Kölner Unternehmen in der Corona-Epedimie - Kenntnis genommen
+- TOP 14.3: Aufhebung einer Flächenreservierung im Industriepark Köln-Nord - Kenntnis genommen
+- TOP 14.4: Unterstützung für die Kölner Wirtschaft in der Corona Krise - Der Service der KölnBusiness Wirtschaftsförderungs-GmbH - Kenntnis genommen
+- TOP 15: Mitteilungen
+- TOP 15.1: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 15.2: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 15.3: Förderprogramme des Landes für Migrant/innen - Kenntnis genommen
+- TOP 15.4: Information zum Sachstand Lastenradförderung 2019 - Kenntnis genommen
+- TOP 15.5: Beantwortung der Anfrage der SPD-Fraktion betr.: "Unterstützung für die Kultur und Wirtschaft im Angesicht der COVID-19-Pandemie" (AN/0452/2020) - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion betr.: "Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen" - zurückgestellt
+- TOP 16.2: Freigabe von Mitteln aus der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2020" und der Jubiläumsveranstaltung "10 Jahre Klubkomm" - ungeändert beschlossen
+- TOP 16.3: Freigabe von Mitteln aus der Kulturförderabgabe zur Förderung von Projekten der Kreativwirtschaft - ungeändert beschlossen
+- TOP 16.4: Freigabe zusätzlicher Mittel aus der Kulturförderabgabe - Teilplan 1501 Wirtschaft und Tourismus - Zuschuss an die KölnTourismus GmbH - ungeändert empfohlen
+- TOP 16.5: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) mit dem Arbeitstitel: "Hermes Logistik-Center Hansestraße" in Köln-Rath/Heumar und -Porz-Gremberghoven - ungeändert empfohlen
+- TOP 16.6: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - zurückgestellt
+- TOP 17: Mündliche Anfragen - zurückgestellt
