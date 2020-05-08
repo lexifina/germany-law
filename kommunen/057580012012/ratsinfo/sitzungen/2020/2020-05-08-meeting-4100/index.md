@@ -1,0 +1,60 @@
+# Rat (45. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2020-05-08T16:00:00+02:00
+- Ende: 2020-05-08T20:48:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZceos5Yn_59ZPghtc85Zvuw
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4100
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcxd-0V-x7D5atby7JHv0DGVZJFAYXGaiJvPI_ezY4Hr/Einladung_Rat_08.05.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdq0-EiB_7la8d0_slmEwRmMl8P0kYfmsjk1NfhrViB_/Oeffentliche_Niederschrift_Rat_08.05.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 07.02.2020
+- TOP A.2: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.3: Genehmigung von Dringlichkeitsentscheidungen:
+- TOP A.3a: Genehmigung von Dringlichkeitsentscheidungen; hier: Aussetzen der Beitragserhebung für die Monate April und Mai 2020 für die Betreuung von Kindern in der Kindertagesbetreuung einschließlich der Kindertagespflege und im Rahmen des Offenen Ganztages an Schulen der Primarstufe im Zuge von COVID-19 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.3b: Genehmigung einer Dringlichkeitsentscheidung; hier: Förderprogramm "Moderne Sportstätte 2022": Sachstand und weiteres Vorgehen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.3c: Genehmigung einer Dringlichkeitsentscheidung hier: Förmliche Gebietsabgrenzung des Fördergebietes "Konversion Stiftberg" als Stadtumbaugebiet gem. § 171 b Abs. 1 BauGB Hier: Beschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.4: Steuerung von Drittorganisationen:
+- TOP A.4a: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 31.12.2019 b) Jahresprognose 2019 der Beteiligungsunternehmen zum 31.12.2019
+- TOP zu A.4a: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 31.12.2019 b) Jahresprognose 2019 der Beteiligungsunternehmen zum 31.12.2019
+- TOP A.4b: BildungsCampus Herford: Beauftragung von Erschließungsmaßnahmen auf der ehemaligen Wentworth- Kaserne
+- TOP A.5: 4. Situationsbericht zur Haushaltswirtschaft 2019
+- TOP zu A.5: 4. Situationsbericht zur Haushaltswirtschaft 2019
+- TOP A.6: Finanzielle Auswirkungen der Corona-Pandemie auf den Haushalt der Hansestadt Herford
+- TOP A.7: Aktualisierung des Klimaschutzkonzeptes der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst:
+- TOP A.7a: Antrag der Fraktion B90/DIE GRÜNEN zur Umsetzung des Klimaschutzkonzeptes vom 12.06.19
+- TOP A.7b: Antrag der Fraktion B90/DIE GRÜNEN zur Ergänzung der Leitziele des Klimaschutzkonzeptes vom 10.12.19
+- TOP zu A.7: Antrag der Fraktion DIE LINKE zur "Aktualisierung des Klimaschutzkonzeptes"
+- TOP A.8: Öffentliches Personennahkonzept:
+- TOP zu A.8: Antrag der FDP-Fraktion zum ÖPNV
+- TOP A.8a: Innovatives ÖPNV-Konzept für Herford; hier: Präsentation der Ergebnisse; Entscheidung zum Standort des künftigen zentralen Knotenpunkts für die Stadt- und Regionalbusse; Entscheidung für ein Linien-/Fahrplankonzept - Herr Bürgermeister Kähler stellte den Antrag der Fraktion B90/DIE GRÜNEN –mit Hinweis auf die zuvor geeinigte Weise den Begriff „mittelfristig“ zu streichen- zur Abstimmung:Bei 8 Nein-Stimmen und ohne Enthaltung wurde mit 9 Ja-Stimmen der Antrag (A/14/202
+- TOP A.8b: Antrag der Fraktion B90/DIE GRÜNEN: Geänderter Beschlussvorschlag zum ÖPNV - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.8b: Antrag der Fraktion DIE LINKE zum ÖPNV
+- TOP A.9: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.10: Bewertung von Leitungsstellen - Bei 3 Enthaltungen und ohne Nein-Stimmen wurde mit 14 Ja-Stimmen einstimmig folgender Beschluss gefasst: 
+- TOP A.11: Neue Satzung für den Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Satzung und Wahlordnung für den Seniorenbeirat der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: Änderung der Wahlordnung zur Wahl des Integrationsrates der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Gebührensatzung zur Unterbringung von Geflüchteten, die als Asylberechtigte anerkannt bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15: Bericht zum Masterplan Innenstadt (ISEK) hier: Ergänzende Maßnahmen zum Abschluss der Förderperiode 1 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst:
+- TOP A.16: Grunderneuerung der Teileinrichtung Beleuchtung in der Anlage „Hoffmannsweg“ hier: Beschluss über die Kostenspaltung gem. § 7 der Satzung über die Erhebung von Beiträgen nach § 8 KAG (Kommunalabgabengesetz) für straßenbaurechtliche Maßnahmen in der zur Zeit gültigen Fassung für die Beitragsabrechnung der Teileinrichtung Beleuchtung der Anlage „Hoffmannsweg“. - Bei einer Enthaltung und 3 Nein-Stimmen wurde mit 13 Ja-Stimmen  mehrheitlich folgender Beschluss gefasst: 
+- TOP A.17: Antrag der Fraktion B90/DIE GRÜNEN: Funktionsstellenplan - Bei einer Enthaltung und 7 Nein-Stimmen wurde mit 9 Ja-Stimmen der Antrag der Fraktion B90/DIE GRÜNEN mehrheitlich beschlossen.
+- TOP zu A.17: Stellungnahme der Verwaltung
+- TOP A.18: Antrag der Fraktion B90/DIE GRÜNEN: Radverkehrsverbindung Bünde - Hiddenhausen - Herford - Bei 2 Enthaltungen und ohne Nein-Stimmen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.19: Antrag der Fraktion B90/DIE GRÜNEN: Einführung einer Verpackungssteuer auf Einwegverpackungen - Bei einer Enthaltung und 7 Ja-Stimmen wurde mit 9 Nein-Stimmen der Antrag der Fraktion B90/DIE GRÜNEN (A/11/2020) mehrheitlich abgelehnt.
+- TOP A.20: Antrag der Fraktion DIE LINKE: Sozialbericht - Einstimmig und ohne Enthaltung wurde der Antrag der Fraktion DIE LINKE (A/12/2020) beschlossen. 
+- TOP A.21: Initiative zur Flüchtlingsaufnahme "sichere Häfen":
+- TOP A.21a: "Sichere Häfen" - Aufnahmeinitiative für NRW - Bei 2 Enthaltungen und 5 Nein-Stimmen wurde mit 10 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.21b: Antrag der Fraktion DIE LINKE: Aufnahme von Flüchtlingen
+- TOP zu A.21: Antrag der Fraktion BfH zur Initiative zur Flüchtlingsaufnahme
+- TOP A.22: Umsetzungen in städtischen Gremien:
+- TOP A.22a: Wahl eines neuen stellvertretenden stimmberechtigten Mitglieds für den Jugendhilfeausschuss auf Vorschlag der Arbeitsgemeinschaft der Wohlfahrtsverbände - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22b: Antrag der Fraktion B90/DIE GRÜNEN: Umbesetzung von Gremien: hier Schulausschuss und Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Mitteilungen
