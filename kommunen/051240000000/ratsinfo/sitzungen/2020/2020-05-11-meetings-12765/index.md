@@ -1,0 +1,84 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-05-11T16:00:00+02:00
+- Ende: 2020-05-11T21:40:00+02:00
+- Ort: Stadthalle, Großer Saal, Am Johannisberg
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12765
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12765
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat - Stand: 30.04.20 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00254431.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00255270.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Aktueller Bericht zur Corona-Pandemie und zur Arbeit des Krisenstabes - Entgegennahme ohne Beschluss
+- TOP 1.2: Bericht über den Sachstand der Umsetzung von Ratsaufträgen - Entgegennahme ohne Beschluss
+- TOP 2: Fragestunde (nur Rat)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Aufnahme unbegleiteter minderjähriger Geflüchteter - in der Sache erledigt
+- TOP 4.2: Beratung erfolgt unter TOP 11.17.1 Unterstützung für das Arbeitslosenzentrum
+- TOP 4.3: Kommunaler Rettungsschirm und Altschuldenhilfe angesichts der Corona-Pandemie - geändert beschlossen
+- TOP 4.3.1: Änderungsantrag zur Drucksache VO/0346/20/1-Neuf. - geändert beschlossen
+- TOP 4.4: Resolution: Corona-Schutzschirm für Kommunen - zurückgezogen
+- TOP 4.5: Corona-Zuschlag bzw.“ Nulldarlehen“ für Bezieher*innen von Leistungen nach ALG II-/SGB XII-/AsylbLG - zurückgezogen
+- TOP 4.6: Dringlichkeitsantrag: Städtische Großprojekte pausieren - abgelehnt
+- TOP 4.7: Hilfen für Kulturschaffende in der Corona-Pandemie - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der städtischen Parkgebührenordnung - Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 6.2: Aussetzung der Satzungen für die Elternbeitragserhebungen für die Monate April und Mai 2020 - ungeändert beschlossen
+- TOP 6.2.1: Ergänzungsantrag zur Drucksache VO/0278/20 Aussetzung der Elternbeiträge für April - geändert beschlossen
+- TOP 6.3: Aufhebung der Verordnungen über das Offenhalten von Verkaufsstellen am 24.05.2020 in Wuppertal-Barmen und über das Offenhalten der Verkaufsstellen am 23.08.2020 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Fortführung der Wuppertaler Bühnen und Sinfonieorchester GmbH durch einen Sonderzuschuss - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 8.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2019 der APH Service GmbH - ungeändert beschlossen
+- TOP 8.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2020 bis 31.12.2020 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Verfahrensbedingte Rückholung von Zuständigkeiten des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1229 - An der Museumsbahn - - vertagen
+- TOP 9.3: Bebauungsplan 1223 - August-Jung-Weg / östlich Hosfelds Katernberg - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 892 - Steinweg/Alter Markt - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1259 - Staasstraße - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 226 - Wilhelmring - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 800 - Scheidtstraße - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 199 - Lohsiepen - - vertagen
+- TOP 9.9: Bebauungsplan 1266 - Nördlich Tescher Treppe - - ungeändert beschlossen
+- TOP 9.10: Bebauungsplan 1268 - Karlstraße - Aufstellungsbeschluss Bebauungsplan 90 - Friedrichschulstraße / Nordstraße / Albrechtstraße / Höchsten / Karlstraße und Gathe - Aufstellungsbeschluss zur Aufhebung - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Umfeldgestaltung Berliner Platz und Schöneberger Ufer – Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 10.2: Umgestaltung der Neuen Friedrichstraße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Beratung erfolgt in der nächsten Sitzungsfolge. Berghauser Straße - Optimierung der Radverkehrsführung - abgesetzt
+- TOP 11.2: Radverkehrskonzept Achse 6 / Umsetzung Abschnitt A - Schutzstreifen Vohwinkeler Straße - zur Beratung und Entscheidung verwiesen
+- TOP 11.3: Radverkehrskonzept Achse 6 / Umsetzung Abschnitt F - Busspurverlängerung Bundesallee B7/Kasinostraße - ungeändert beschlossen
+- TOP 11.4: Einrichtung von Tempo 30-Strecken vor schützenswerten Einrichtungen - geändert beschlossen
+- TOP 11.5: Umgestaltung Außengelände Station Natur und Umwelt - ungeändert beschlossen
+- TOP 11.6: Kommunale Klassenrichtzahl - ungeändert beschlossen
+- TOP 11.7: Abgesetzt. Vorberatung nicht abgeschlossen. Prüfauftrag für das ehemalige Altenheim Obere Lichtenplatzer Straße - abgesetzt
+- TOP 11.8: Zuschüsse zur Förderung der Jugendverbandsarbeit 2020 - ungeändert beschlossen
+- TOP 11.9: Ausbau des Wuppertaler Gesamtschulangebots - Entgegennahme ohne Beschluss
+- TOP 11.9.1: Ergänzende Hinweise zur Drucksache VO/0331/20 – Ausbau des Wuppertaler Gesamtschulangebots - Entgegennahme ohne Beschluss
+- TOP 11.9.2: Antrag zur Drucksache VO/0331/20 - Ausbau des Wuppertaler Gesamtschulangebots - geändert beschlossen
+- TOP 11.9.3: Prüfauftrag zur Drucksache VO/0331/20 - Ausbau des Wuppertaler Gesamtschulangebots - ungeändert beschlossen
+- TOP 11.10: Finanzierung der 7. Gesamtschule - Entgegennahme ohne Beschluss
+- TOP 11.11: Beteiligung an der Finanzierung der Johannes-Rau-Bibliothek - ungeändert beschlossen
+- TOP 11.12: Erlebnisspielplatz - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.13: BOB Campus Nachbarschaftspark - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.14: Betriebskostenzuschüsse 2020 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.15: Auslobung eines Heimatpreises - geändert beschlossen
+- TOP 11.16: Umsetzung der Haushaltsbeschlüsse Straßeninstandsetzung/ Ausbaumaßnahmen für den nicht motorisierten Straßenverkehr - Entgegennahme ohne Beschluss
+- TOP 11.17: Verwendung zusätzlicher Haushaltsmittel für die Suchtberatung, Schuldnerberatung, Prävention in der Wohnungslosenhilfe sowie für die Arbeitsgemeinschaft der freien Wohlfahrtspflege - geändert beschlossen
+- TOP 11.17.1: Unterstützung für das Arbeitslosenzentrum - zur Vorberatung verwiesen
+- TOP 11.18: Vergleich zwischen Stadt, Land und Deutscher Umwelthilfe e. V. zur Verbesserung der Luftreinhaltung in Wuppertal - Umsetzung der Maßnahmen - ungeändert beschlossen
+- TOP 11.19: Stationäre Geschwindigkeitsüberwachung - Umsetzung des Vergleichs (OVG Beschluss vom 21.04.2020) des Landes NRW und der Stadt Wuppertal mit der DUH - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung der Mitglieder für den Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - geändert beschlossen
+- TOP 12.1.1: Bestellung der Mitglieder für den Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - Entgegennahme ohne Beschluss
+- TOP 12.2: Benennung des Wirtschaftsprüfers für den Jahresabschluss APH 2019 - ungeändert beschlossen
