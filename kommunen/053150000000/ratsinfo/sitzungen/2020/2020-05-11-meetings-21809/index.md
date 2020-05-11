@@ -1,0 +1,104 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-11T17:10:00+02:00
+- Ende: 2020-05-11T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21809
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21809
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parken auf der Bahnhofstraße in Köln-Sürth (Az.: 02-1600-290/19) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Marienburg (Az.: 02-1600-256/19) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Pläne zum Schutz und/oder Verkauf des Geländes Sürther Aue - Kenntnis genommen
+- TOP 7.1.2: Situation der Autofahrer am gesperrten "Rechtsabbieger am Südstadion" - Kenntnis genommen
+- TOP 7.1.3: Baumfällungen an der Eygelshovener Straße zur Erweiterung der dortigen Gesamtschule - Beantwortung der Anfrage AN/0739/2017 der Fraktion Die Grünen - Kenntnis genommen
+- TOP 7.1.4: Fahrgastzahlen der Buslinie 106 - Kenntnis genommen
+- TOP 7.1.5: Gefährdung der Kinder der GGS St.-Nikolaus-Schule in Köln-Zollstock - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Beantwortung AN/0245/2020 - Interkommunale Zusammenarbeit der Hauptschulen in Wesseling und Rodenkirchen. - Kenntnis genommen
+- TOP 7.2.2: Mögliche Pläne zum Abriss oder zur Umgestaltung der Rodenkirchener Brücke. - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Anmeldungen an Schulen im Stadtbezirk Rodenkirchen 2020/2021 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Ehemalige Gaststätte Räderscheid, Köln-Raderthal, Schulze-Delitzsch-Str. 108 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4.1: Ehemalige Gaststätte Räderscheid, Köln-Raderthal, Schulze-Delitzsch-Str. 108 - Kenntnis genommen
+- TOP 7.2.5: Unterbringung von Flüchtlingen entgegen des Leverkusener Modells in ausschließlich leerstehenden Ein- und Zweifamilienhäusern im Stadtbezirk Köln-Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5.1: Unterbringung von Flüchtlingen entgegen des Leverkusener Modells in ausschließlich leerstehenden Ein-und Zweifamilienhäusern im Stadtbezirk Köln-Rodenkirchen - Kenntnis genommen
+- TOP 7.2.6: Nutzung von Flüchtlingseinrichtungen/Kasernen wegen der Corona-Epidemie. - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6.1: Nutzung von Flüchtlingseinrichtungen/Kasernen wegen der Corona-Epidemie - Kenntnis genommen
+- TOP 7.2.7: Emil-Hoffmann-Straße: Bushaltestelle, Sicherheit - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Kfz-Zulassungszahlen im Stadtbezirk Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8.1: Zulassungszahlen im Stadtbezirk Köln-Rodenkirchen (Beantwortung zu AN/0420/2020) - Kenntnis genommen
+- TOP 7.2.9: Kiosk an der Endhaltestelle der KVB-Linie 106 in Marienburg - endgültig zurückgezogen
+- TOP 7.2.9.1: Kiosk an der Haltestelle Bayenthalgürtel der Linien 16 und 17 am Rheinufer - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.10: Top 2 der nicht realisierten ÖPNV-Verbindungen im Stadtbezirk 2 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.11: Maßnahmen zur Reduzierung der Staus auf der Bonner Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Eindämmung der nächtlichen Beleuchtung im Stadtbezirk Rodenkirchen, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.1.1: Eindämmung der nächtlichen Beleuchtung im Stadtbezirk Rodenkirchen, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.2: P & R – Möglichkeiten im Bereich der KVB-Haltestelle Michaelshoven, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Neubau der EMA-Grundschule: Verkehrskonzept für die Schulzufahrt und den umgebenden Bereich, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.5: Mangel an Schulplätzen im Bezirk: Konzentration auf Schulneu- und -ausbau, Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - zurückgestellt
+- TOP 8.1.6: Zugang Rheinaustraße 1 in Köln-Sürth, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.7: Radweg entlang der Bonner Straße: Zustand in einem Teilbereich, Verbesserung, Antrag der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.8: Nord-Süd-Stadtbahn – Behinderungen, Umleitungen und Verkehrslenkung während der Realisierung der 3. Baustufe auf der Bonner Straße in Köln-Bayenthal und - Marienburg, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.9: Neubau EMA-Grundschule: Linksabbieger, Plan für Grünausgleich, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Wanderbaumallee: Aufstellung im öffentlichen Raum, Antrag der Fraktion Die Grünen - mit Änderungen empfohlen
+- TOP 8.2.2: Unbürokratische Unterstützung der Gastronomie durch Förderung der Außengastronomie, Dringlichkeitsantrag der CDU-Fraktion - ungeändert empfohlen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Haushaltsplan Doppelhaushalt 2020 / 2021 hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2020 und 2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.2: Bericht der Oberbürgermeisterin gem. § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen; hier Jahresbericht 2016 - 2018 - geändert beschlossen
+- TOP 9.1.3: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Meschenich“ - ungeändert beschlossen
+- TOP 9.1.3.1: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Meschenich“ - ungeändert beschlossen
+- TOP 9.1.4: Projektanträge im Rahmen des Verfügungsfonds für das Gebiet der „Sozialen Stadt“ Mesche-nich im Sozialraum „Meschenich und Rondorf“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert empfohlen
+- TOP 9.2.2: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kölnberg - ungeändert empfohlen
+- TOP 9.2.2.1: Nachträgliche Genehmigung der Dringlichkeitsentscheidung vom 23.03.2020: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kölnberg - ungeändert empfohlen
+- TOP 9.2.3: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 9.2.3.1: Ergänzungsantrag zu TOP 9.2.3 " Fortschreibung der Schulentwicklungsplanung Köln 2020" - zurückgestellt
+- TOP 9.2.4: Bundesfachplanung für das Vorhaben "Ultranet - Gleichstromverbindung zwischen Osterath und Philippsburg, Abschnitt E: Rommerskirchen-Weißenthurm" - ungeändert empfohlen
+- TOP 9.2.5: Erweiterung der Gesamtschule Rodenkirchen, Sürther Straße 191, 50999 Köln – Bau- und Vergabebeschluss - ungeändert empfohlen
+- TOP 9.2.6: - nicht behandelt - Stellplatzsatzung für Köln - zurückgestellt
+- TOP 9.2.6.1: Änderungsantrag der Ratsfraktion DIe Linke zu "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 10.2.2: Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds im „Soziale Stadt“ Gebiet Meschenich - Kenntnis genommen
+- TOP 10.2.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.4: Antrag der Freien Demokraten BV 2 (Rodenkirchen) hier: Quote von Ersatzpflanzungen bei künftigen Fällungen von Bäumen im Zusammenhang mit Bauprojekten im Stadtbezirk Köln-Rodenkirchen - Kenntnis genommen
+- TOP 10.2.5: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 10.2.6: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 10.2.7: Verkehrsplanung rund um das Quartier Reiterstaffel - Kenntnis genommen
+- TOP 10.2.8: Bushaltestellen für Bienen begrünen - Kenntnis genommen
+- TOP 10.2.9: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.10: 3. Baustufe Nord-Süd Stadtbahn / Aktueller Sachstand und Bauzeit - Kenntnis genommen
+- TOP 10.2.11: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.12: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.13: Sachstandsmitteilung zu den von der Bezirksvertretung Rodenkirchen priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.15: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.16: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 10.2.17: Verschenkung von Wohncontainern (ehem. Geflüchtetenunterkunft Eygelshovener Straße) - Kenntnis genommen
+- TOP 10.2.18: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 10.2.19: PFC-Grundwasserverunreinigungen - Kenntnis genommen
+- TOP 10.2.20: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 10.2.21: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.22: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
