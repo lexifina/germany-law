@@ -1,0 +1,93 @@
+# 47. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-11T17:00:00+02:00
+- Ende: 2020-05-11T18:35:00+02:00
+- Ort: Friedrich-Ebert-Saal, Josef-Esser-Platz 1, 50827 Köln INFEKTIONSSCHUTZ: Aufgrund der Mindestabstände stehen weniger Plätze für die Öffentlichkeit zur Verfügung. Bitte melden Sie sich unbedingt vorab bei der Schriftführung an!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21582
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21582
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssituation in der Hüttenstraße - zurückgestellt
+- TOP 6.2: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 - Kenntnis genommen
+- TOP 6.2.1: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 | Beantwortung der Anfrage AN/1071/2019 der Fraktion DIE LINKE in der BV Ehrenfeld - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zu Immobilien der Deutschen Bahn im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.3.1: Immobilien der Deutschen Bahn AG im Stadtbezirk Ehrenfeld | Beantwortung der Anfrage AN/1071/2019 - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Entwicklung Jennerstraße 8 50823 Köln-Ehrenfeld - Kenntnis genommen
+- TOP 6.4.1: Anfrage der CDU-Fraktion, betr.: Entwicklung Jennerstraße 8, 50823 Köln-Ehrenfeld - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bebauungsplan Heliosgelände - Kenntnis genommen
+- TOP 6.5.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bebauungsplan Heliosgelände - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Belieferung eines Rewe-Marktes an der Venloer Straße 310 - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Veränderte Verkehrsführung Venloer Straße - zurückgestellt
+- TOP 6.8: Anfrage der SPD- Fraktion: Stand der Planungen Baumaßnahme Drogeriemarkt Rochusplatz - Kenntnis genommen
+- TOP 6.8.1: Stand der Planungen Baumaßnahme Drogeriemarkt Rochusplatz Beantwortung an die SPD-Fraktion der Bezirksvertretung 4 (Ehrenfeld) - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion BÜNDNIS/DIE GRÜNEN: Aktueller Planungsstand Verwaltungsgebäude "HERBOL-Gelände" - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion DIE LINKE: Bekannte Entwicklungen im Rahmenplangebiet - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion DIE LINKE: Leerstände in Zeiten von Pandemie und Distanzgebot - Kenntnis genommen
+- TOP 7.3.1: Leerstände in Zeiten von Pandemie und Distanzgebot - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Notwendige Maßnahmen der Zusammenarbeit der in Bocklemünd handelnden Einrichtungen, Verwaltungsstellen, Ordnungskräften und sozialen Akteure - endgültig zurückgezogen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der Fraktion DIE LINKE: Menschen vor Verdrängung schützen! Beschlüsse zu Sozialen Erhaltungssatzungen umsetzen! - ungeändert beschlossen
+- TOP 8.5: Gem. Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN und DEINE FREUNDE: "Machbarkeitsstudie Stadtbahn-Westtrasse" - geändert beschlossen
+- TOP 8.6: Antrag der Fraktion DIE LINKE: Vorkaufsrechte nutzen! - ungeändert beschlossen
+- TOP 8.7: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion DIE LINKE: Kommunale Strategien gegen den Verlust demokratischer Gleichheit entwickeln! - geändert beschlossen
+- TOP 8.8: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN. Bürgerbeteiligung "Max-Becker-Gelände" - endgültig zurückgezogen
+- TOP 8.9: Antrag der SPD-Fraktion, betr.: Bewegungsraum Venloer Straße: Autofreie Sonntage auf der endlich umsetzen - ungeändert beschlossen
+- TOP 8.10: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger/innen, betr.: Unterstützung der Gastronomie: Außengastronomie erweitern - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion, betr,; Maßnahmen zur Sicherheit / Görlinger Zentrum, Bocklemünd - endgültig zurückgezogen
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.1: Änderungsantrag der SPD-Fraktion zu TOP 8.12, betr.: Pandemietaugliche Verkehrsinfrastruktur für Ehrenfeld - Sache ist erledigt
+- TOP 8.12.2: Ersetzungsantrag der Fraktion Die Linke, betr; pandemietaugliche Verkehrsinfrastruktur - ungeändert beschlossen
+- TOP 8.13: Gemeinsamer Dringlichkeitsantrag aller Fraktionen und Einzelmandatsträger*innen, betr.: Erhalt bezirklicher Strukturen – eva e.V. - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Haushalts-Entwurf Doppelhaushalt 2020/2021 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Geimeindeordnung Nordrhein-Westfalen (GO NRW) - Sache ist erledigt
+- TOP 9.1.1: Genehmigung einer Dringlichkeitsentscheidung: Haushalts-Entwurf Doppelhaushalt 2020/2021 Hier: Aufteilung der bezirksbezogenen Haushaltsmittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.2: Überarbeitetes Förderprogramm über die Vergabe bezirksorientierter Mittel 2020 gemäß § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.3: Genehmigung einer Dringlichkeitsentscheidung, betr.: 2. Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.4: Genehmigung einer Dringlichkeitsentscheidung, betr.: 3. Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.5: 4. Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ungeändert empfohlen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - mit Änderungen empfohlen
+- TOP 10.2.1: Änderungsantrag der SPD-Fraktion zu TOP 10.2, betr.: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - ungeändert empfohlen
+- TOP 10.3.1: Änderungsantrag der SPD-Fraktion zu TOP 10.3, betr.: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - endgültig abgelehnt
+- TOP 10.4: Fortschreibung der Schulentwicklungsplanung Köln 2020 - mit Änderungen empfohlen
+- TOP 10.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: 274. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Beantwortung einer Anfrage zum Umsetzungsstand des Eckpunktepapiers des Zentrums für Mehrsprachigkeit und Integration (ZMI) aus einer früheren Sitzung - Kenntnis genommen
+- TOP 12.2: Antrag der CDU - Fraktion BV 4 hier: Bienenlehrpfad im Hieronimie Park in Ehrenfeld - Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 12.3: Vergabe der bezirksorientierten Mittel 2019, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 12.4: Teilnahme an der Earth Hour 2020 - Kenntnis genommen
+- TOP 12.5: Beschluss der Bezirksvertretung Ehrenfeld vom 03.02.2020 betr.: Max-Becker-Gelände, Umsetzung des Beschlusses der BV-Ehrenfeld vom 04. November 2019 Hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 12.6: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 12.7: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.8: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 12.9: Mobilitätskonzept Stolberger Straße - Kenntnis genommen
+- TOP 12.10: Beantwortung der Anfrage der SPD-Fraktion betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 12.11: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.12: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 12.13: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 12.14: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 12.15: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 12.16: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.17: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 12.18: Aktualisierung des Fertigstellungstermins der Turnhalle an der Overbeckstraße 71 – 73 - Kenntnis genommen
+- TOP 12.19: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 12.20: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 13: mündliche Anfragen
