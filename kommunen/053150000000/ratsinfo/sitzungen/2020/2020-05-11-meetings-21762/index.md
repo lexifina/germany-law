@@ -1,0 +1,75 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-11T14:40:00+02:00
+- Ende: 2020-05-11T15:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21762
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21762
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 29.02.2020 - Kenntnis genommen
+- TOP 2.3: Haushaltsbewirtschaftung in Zeiten der Corona-Krise - Kenntnis genommen
+- TOP 2.4: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.03.2020 - Kenntnis genommen
+- TOP 2.6: Information zum Sachstand Lastenradförderung 2019 - Kenntnis genommen
+- TOP 2.7: Kölner Verkehrs-Betriebe AG (KVB): Nachprüfungsverfahren gegen die Vergabe eines öffentlichen Dienstleistungsauftrags an die KVB über die Erbringung öffentlicher Personenverkehrsdienste (Vorlagen-Nr. 4240/2018) - Kenntnis genommen
+- TOP 2.8: Auswirkungen der Corona-Pandemie auf die Beteiligungsunternehmen der Stadt Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Gemeinsamer mündlicher Dringlichkeitsantrag gem. § 12 der Geschäftsordnung des Rates der CDU-Fraktion, der Fraktion Bündnis 90/ Die Grünen und der SPD-Fraktion - unter Vorbehalt beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Verfügt die Kämmerei über ein Warnsystem zur kurzfristigen Überwachung der Haushaltsentwicklung unter Berücksichtigung der außerordentlichen Einflüsse der Covid19-Epidemie? - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates, AN/0397/2020 - Kenntnis genommen
+- TOP 4.2: Aktueller Sachstand zum 45-Millionen-Euro-Hilfsmaßnahmenpaket zur Bewältigung der wirtschaftlichen und sozialen Folgen der Corona-Krise - Kenntnis genommen
+- TOP 4.2.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates, AN/0556/2020 - Kenntnis genommen
+- TOP 4.3: Corona-Pandemie: Wirtschaftliche Auswirkungen auf städtische Unternehmen und mögliche Stützungsmaßnahmen - Kenntnis genommen
+- TOP 4.3.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates, AN 0562/2020 - Kenntnis genommen
+- TOP 4.4: Corona-Pandemie: Wirtschaftliche Auswirkungen auf die Veranstaltungs- und Event-branche in Köln - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Finanzielle Auswirkungen der Corona-Pandemie - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.3: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.3.1: Ökologische Revitalisierung Westerwaldstraße - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für den Umbau der Kreuzung Luxemburger Straße/Eifelwall sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung der Berrenrather Straße von Universitätsstraße bis Sülzgürtel sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 7.3: Baubeschluss für die Umgestaltung des Einmündungsbereiches Escher Straße/Am Bilderstöckchen sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert beschlossen
+- TOP 7.4: Einrichtung eines Erweiterungsbaus mit Dreifachturnhalle für die Kaiserin-Theophanu-Schule, Gymnasium, Kantstraße 3, 51103 Köln-Kalk - ungeändert beschlossen
+- TOP 7.5: Baubeschluss für die Generalinstandsetzung der Merheimer Straße im Abschnitt zwischen Friedrich-Karl-Straße und Roßbachstr. und Umbau der Knotenpunkte Merheimer Straße/Friedrich-Karl-Straße und Merheimer Straße/Theklastraße zu Kreisverkehren sowie - zurückgestellt
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Feststellung des Jahresabschlusses zum 31.08.2017 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.2: Feststellung des Jahresabschlusses zum 31.08.2018 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2020, Teil 1 - endgültig abgelehnt
+- TOP 10.4: Bedarfsplanung vom Amt für Wohnungswesen für neu anzumietende Objekte gem. § 5 Abs. 2 a der Zuständigkeitsverordnung der Stadt Köln vom 13.12.2019 - zurückgestellt
+- TOP 10.5: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kölnberg - ungeändert beschlossen
+- TOP 10.6: Änderung der Entgelt- und Benutzungsordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 10.7: Fortschreibung der Schulentwicklungsplanung Köln 2020 - zurückgestellt
+- TOP 10.8: Freigabe und Vergabe der Fördermittel "IFM Organisatorische Stärkung" in 2020 und 2021 als befristete institutionelle Förderung - ungeändert beschlossen
+- TOP 10.9: Freigabe und Vergabe der Fördermittel "Freie Projektmittel für den Initiative Freie Musik e.V." - ungeändert beschlossen
+- TOP 10.10: GAG Immobilien AG: Satzungsänderung; GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - zurückgestellt
+- TOP 10.11: Ermächtigungsübertragung in das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 10.12: Übertragung der Federführung für die Stadtbahnanbindung von Mülheim über Stammheim bis Flittard an die Kölner Verkehrs-Betriebe AG - ungeändert beschlossen
+- TOP 10.13: Verteilung der Mittel zur Förderung von neuen Interkulturellen Zentren und die Verwendung des übergreifenden Budgets für Interkulturelle Zentren Köln für das Haushaltsjahr 2020 - zurückgestellt
+- TOP 10.14: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): - ungeändert beschlossen
+- TOP 10.15: Entwurf des Jahresabschlusses 2019 - ungeändert beschlossen
+- TOP 10.16: Freigabe zusätzlicher Mittel aus der Kulturförderabgabe - Teilplan 1501 Wirtschaft und Tourismus - Zuschuss an die KölnTourismus GmbH - ungeändert beschlossen
+- TOP 10.17: Mietzuschuss an die Kölnische Gesellschaft für christlich-jüdische Zusammenarbeit e. V., Haushaltsjahr 2020ff - ungeändert beschlossen
+- TOP 10.18: Sanierung der Fensteranlage im Museum für Angewandte Kunst Köln, hier: Fortführung der Maßnahme - ungeändert beschlossen
+- TOP 10.19: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2020/21 - ungeändert beschlossen
+- TOP 10.20: Erweiterung der Gesamtschule Rodenkirchen, Sürther Straße 191, 50999 Köln – Bau- und Vergabebeschluss - ungeändert beschlossen
+- TOP 10.21: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln); Jahresabschluss 2019 - ungeändert beschlossen
+- TOP 10.22: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2019 - ungeändert beschlossen
+- TOP 10.23: Kulturpädagogische Facheinrichtungen: Angleichung der kommunalen Förderrichtlinien an die Richtlinien für die Offene Kinder- und Jugendarbeit; - ungeändert beschlossen
+- TOP 10.24: Erneuerung der Deckenaufbauten und Sanierung des Küchenbereiches im Museum Ludwig/Philharmonie - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
