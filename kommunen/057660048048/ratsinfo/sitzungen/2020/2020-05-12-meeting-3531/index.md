@@ -1,0 +1,14 @@
+# SPD-Fraktion
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2020-05-12T18:00:00+02:00
+- Ende: 2020-05-12T19:35:00+02:00
+- Ort: Onlinesitzung, ,  , Onlinesitzung
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/2-3
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWGkwCMC901c_7X6mACk6LQ
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3531
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
