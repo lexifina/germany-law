@@ -1,0 +1,57 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2020-05-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5773903
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5773903
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A.6.: 6. Verschiedenes
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: Diskussion zum Einsatz von Videokonferenzen und Beschaffung entsprechender Dienstleistungen
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: BA-Vorsitzender
+- TOP 8.: Verschiedenes / Termine
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP I-A.2.: 2. BA-Vorstand 2.1 Wahl der/des Vorsitzenden 2.2 Vereidigung von neuen Mitgliedern durch die/den BA-Vorsitzenden 2.3 Wahl der/des 1. stellvertretenden Vorsitzenden 2.4 Wahl der/des 2. stellvertretenden Vorsitzenden 2.5 Beschlussfassung über die weitere Zusammensetzung des Vorstandes 2.6 Wahl der/des 1. Beisitzerin/Beisitzers 2.7 Wahl der/des 2. Beisitzerin/Beisitzers 2.8 Wahl einer Kassiererin/ eines Kassiers
+- TOP I-A.4.: Wahl / Benennung von Beauftragten 4.1 Wahl einer/eines Kinderbeauftragten 4.2 Wahl einer/eines Jugendbeauftragten 4.3 Wahl einer/ eines Gleichstellungsbeauftragten 4.4 Benennung einer/eines Beauftragten für Menschen mit Behinderung 4.5 Benennung einer/eines/von Beauftragten gegen Rechtsextremismus 4.6 Benennung weiterer Beauftragter 4.7 Benennung von Beiräten
+- TOP II-B: Teil B - Arbeitssitzung des neuen Bezirksausschusses
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative „Kunstprojekt Feldmoching-Hasenbergl“ Erstellung eines großformatigen Wandbilds in der Unterführung an der Lasallestraße 35.173,00 € Az.0262.0-24-0316
+- TOP 2.2.: Stadtbezirksbudget: Änderung des Zuwendungszweckes bzgl. des Aufstellungsortes; Antrag der Augustinum gGmbH/ Otto-Steiner-Schule zur "Anschaffung von Sinnesmaterialien bzw. -spielen für Autisten zur Nutzung auf dem Pausenhof der Otto-Steiner-Schule" (zu TOP 2.1, Sitzung 22.10.2020)
+- TOP 2.3.: (E) Stadtbezirksbudget Feldmochinger Rossler e.V. Beschaffung von Vereinskleidung 782,06 € Az.0262.0-24-0318
+- TOP 2.4.: (E) Stadtbezirksbudget Freundeskreis der städt. Willy-Brandt-Gesamtschule-München e.V. Abschiedskunstmagazin der Städt. Willy-Brandt-Gesamtschule vom 15.06.2020 bis November 2020 1.230,00€, AZ: 0262.0-24-0321
+- TOP 2.5.: (E) Betreuungsproblematik Grundschulkinder Fasanerie - Feldmoching
+- TOP 3.1.: Anordnung einseitiges Haltverbot auf der Himmelschlüsselstraße durchgängig zwischen Feldmochinger Straße und Lassallestraße
+- TOP 3.2.: Lösung der Parkplatzsituation im Stadtbezirksteil Hasenbergl
+- TOP 3.3.: Spielplatz für die Schwarzhölzlsiedlung
+- TOP 3.4.: Baumfällungen und Nachpflanzungen: a) Anträge: Möglichkeit aus dem Stadtbezirksbudget Zuschüsse für Nachpflanzungen zu finanzieren; bei Nachpflanzungen das Volumen der gefällten Bäume berücksichtigen; konsequente Bestrafung bei illegalen Baumfällungen; der BA soll jede beantragte Baumfällung im Rahmen von Bauvorhaben hinsichtlich der Klimarelevanz; alle geforderten Nachpflanzungen erfolgen innerhalb des Stadtbezirkes. b) Anfrage: Stellungnahme des BA zu erfolgten Baumfällungen entlang des Eishüttenwegs, Würmkanal, Pappelallee und Ittlingerstraße
+- TOP 5.2.1.: Himmelschlüsselstr. 57
+- TOP 5.2.2.: Karlsfelder Str. 17 - 17a
+- TOP 5.2.3.: Kuckucksblumenstr. 20
+- TOP 5.4.1.: Leistungsprogramm 2021
+- TOP 5.4.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2020-2024
+- TOP 5.4.3.: Wochenmarkt Lerchenauer See - Lassallestraße; Verlegung des Marktes für einen Zeitraum von ca. 6-8 Jahren aufgrund Schulbaumaßnahme
+- TOP 5.4.4.: Vollzug der Wassergesetze; Antrag auf Anlage eines Fischpasses zur durchgängigen Anbindung des Würmkanals an den Schwebelbach
+- TOP 5.4.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbotes mit Zusatz in der Waldrebenstraße (Nordseite)
+- TOP 5.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Anordnung eines absoluten Haltverbots mit Zeitzusatz, Ittlingerstraße (nördlich ggü. Hs.Nr. 35)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP I-A.1.: 1 Allgemeines 1.1 Begrüßung, Bestimmung einer vorläufigen Sitzungsleitung 1.2 Feststellung der Beschlussfähigkeit, Beschlussfassung über die endgültige TO (Teil A) 1.3 Bildung eines Wahlgremiums
+- TOP I-A.3.: 3. Bildung der Unterausschüsse 3.1 Beschluss über die 1. Anzahl 2. Zuständigkeit / Ressortverteilung 3. Größe der Unterausschüsse 4. Fraktionszusammenschlüsse / UA-Gemeinschaften 3.2 Benennung der Mitglieder und ihrer Stellvertreter des UA 3.3 Wahl der/des Vorsitzenden des UA 3.4 ggf. Benennung der/des stellvertretenden Vorsitzenden des UA 3.5 ggf. Festlegung der Ferienzeit und Bildung eines Ferienausschusses 1. Beschlussfassung über Größe 2. Benennung der Mitglieder und ihrer Stellvertreter 3. Wahl der / des Vorsitzenden 4. ggf. Benennung der / des stellvertretenden Vorsitzenden 3.6 ggf. Bildung eines Sonderausschusses 1. Beschlussfassung über Größe 2. Benennung der Mitglieder und ihrer Stellvertreter 3. Wahl der / des Vorsitzenden 4. ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP I-A.5.: Berufung von Betreuern für die 6 BA-Schaukästen 5.1 1. Ludwigsfeld: Onyxplatz 2. Feldmoching: Josef-Frankl-Str. 55 3. Lerchenau: Lerchenauer Str. 195 4. Fasanerie: Feldmochinger Str. 222 (Edeka) 5. Hasenbergl: Stanigplatz 11 6. Harthof: Gundermannstraße (Feuerwehrhäuschen)
+- TOP 3.: Anträge
