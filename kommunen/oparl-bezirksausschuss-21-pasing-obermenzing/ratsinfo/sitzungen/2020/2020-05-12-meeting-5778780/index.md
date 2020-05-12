@@ -1,0 +1,55 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2020-05-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5778780
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5778780
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.2: Feststellung der Beschlussfähigkeit, Beschlussfassung über die Tagesordnung (Teil A)
+- TOP 1.3: Bildung eines Wahlgremiums
+- TOP 2.: BA-Vorstand
+- TOP 2.1: Wahl der / des Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzenden
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6: Wahl der / des 1. Beisitzerin / Beisitzer
+- TOP 2.7: Wahl der / des 2. Beisitzerin / Beisitzer
+- TOP 2.8: Wahl einer Kassiererin / eines Kassiers
+- TOP 3.: Bildung von Unterausschüssen
+- TOP 3.1: Beschluss über die Anzahl, Zuständigkeit / Ressortverteilung und Größe der Unterausschüsse
+- TOP 3.2: Bekanntgabe von Fraktionszusammenschlüsse / UA-Gemeinschaften
+- TOP 3.3: Benennung von Mitgliedern und ihrer Stellvertreter des jeweiligen Unterausschusses
+- TOP 3.4: Wahl der / des Vorsitzenden des jeweiligen Unterausschusses
+- TOP 3.5: Benennung der / des stellvertretenden Vorsitzenden des jeweiligen Unterausschusses
+- TOP 4.: Bildung eines Ferienausschusses
+- TOP 4.1: Beschlussfassung über die Bildung eines Ferienausschusses und dessen Größe
+- TOP 4.2: Benennung von Mitgliedern und ihrer Stellvertreter des Ferienausschusses
+- TOP 4.3: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 4.4: Benennung der / des stellvertretenden Vorsitzenden des Ferienausschusses
+- TOP 5.: Bildung eines Sonderausschusses
+- TOP 5.1: Beschlussfassung über die Bildung eines Sonderausschusses und dessen Größe
+- TOP 5.2: Benennung von Mitgliedern und ihrer Stellvertreter des Sonderausschusses
+- TOP 5.3: Wahl der / des Vorsitzenden des Sonderausschusses
+- TOP 5.4: Benennung der / des stellvertretenden Vorsitzenden des Sonderausschusses
+- TOP 6.: Beauftragte
+- TOP 6.2: Wahl einer / eines Jugendbeauftragten
+- TOP 6.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 6.4: Wahl einer / eines Gleichstellungsbeauftragten
+- TOP 6.5: Benennung einer / eines Beauftragten gegen Rechtsextremismus
+- TOP 6.6: Benennung weiterer Beauftragter
+- TOP 6.7: Benennung von Beiräten
+- TOP 7.: Verschiedenes
+- TOP 7.1: Bekanntgabe der Fraktionssprecher*innen
+- TOP 7.2: Festlegung / Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP 7.3: Betreuung der Schaukästen
+- TOP 6.1.: Wahl einer / eines Kinderbeauftragten
