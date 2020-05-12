@@ -1,0 +1,128 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5778684
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5778684
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Teil A: Konstituierende Sitzung
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.2.: Feststellung der Beschlussfähigkeit und der ordnungsgemäßen Ladung
+- TOP 2.: Bekanntgabe der Fraktionssprecher/innen und Benennung von Fraktions- und Ausschussgemeinschaften
+- TOP 3.: Bestimmung einer Wahlprüfungs- und Zählkommission
+- TOP 4.: BA-Vorstand
+- TOP 4.1.: Wahl der / des Vorsitzenden
+- TOP 4.2.: Übergabe der Sitzungsleitung an die / den Vorsitzende/n
+- TOP 4.3.: Vereidigung von noch nicht vereidigten Mitgliedern durch die / den BA-Vorsitzenden
+- TOP 4.4.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 4.5.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 4.6.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 4.7.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 4.8.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 4.9.: Wahl einer Kassiererin / eines Kassiers (optional)
+- TOP 5.: Bildung der Unterausschüsse
+- TOP 5.1.: Beschlussfassung über die Anzahl, Größe und Ressortverteilung der Unterausschüsse
+- TOP 5.2.: Benennung der Unterausschussmitglieder durch die Fraktionen / Gruppierungen
+- TOP 5.3.: Benennung der Ersatzmitglieder in den Unterausschüssen durch die Fraktionen / Gruppierungen
+- TOP 5.4.: Wahl der / des Unterausschussvorsitzenden durch den Bezirksausschuss
+- TOP 5.5.: Bestellung der / des stellvertretenden Unterausschussvorsitzenden durch den Bezirksausschuss
+- TOP 6.: Bildung eines Ferienausschusses (optional)
+- TOP 6.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 6.3.: Benennung der Mitglieder des Ferienausschusses durch die Fraktionen / Gruppierungen
+- TOP 6.4.: Benennung der Ersatzmitglieder des Ferienausschusses durch die Fraktionen / Gruppierungen
+- TOP 6.5.: Wahl der / des Vorsitzenden des Ferienausschusses durch den Bezirksausschuss
+- TOP 6.6.: Bestellung der / des stellvertretenden Vorsitzenden des Ferienausschusses durch den Bezirksausschuss
+- TOP 7.: Bildung eines Sonderausschusses (optional)
+- TOP 7.1.: Beschlussfassung über die Größe des Sonderausschusses
+- TOP 7.2.: Benennung der Mitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen
+- TOP 7.3.: Benennung der Ersatzmitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen
+- TOP 7.4.: Wahl der / des Vorsitzenden des Sonderausschusses durch den Bezirksausschuss
+- TOP 7.5.: Bestellung der / des stellvertretenden Vorsitzenden des Sonderausschusses durch den Bezirksausschuss
+- TOP 8.: Wahl bzw. Bestellung von Beauftragten
+- TOP 8.1.: Beschluss über Anzahl und die Zuständigkeit der Beauftragten
+- TOP 8.2.: Wahl einer / eines Kinderbeauftragten
+- TOP 8.3.: Wahl einer / eines Jugendbeauftragten (optional)
+- TOP 8.4.: Wahl einer / eines Gleichstellungsbeauftragten
+- TOP 8.5.: Bestellung einer / eines Beauftragten für Menschen mit Behinderung
+- TOP 8.6.: Bestellung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus
+- TOP 8.7.: Bestellung einer / eines Seniorenbeauftragten
+- TOP 8.8.: Bestellung einer / eines Beauftragten für Baumschutz
+- TOP 8.9.: Bestellung einer / eines Beauftragten für Klimaschutz
+- TOP 8.10.: Bestellung einer / eines Beauftragten für REGSAM
+- TOP 8.11.: Bestellung einer / eines Integrationsbeauftragten
+- TOP 8.12.: Bestellung einer / eines Beauftragten für Gewerbe
+- TOP 8.13.: Bestellung einer / eines Fahrrad- und Mobilitätsbeauftragten
+- TOP 8.14.: Bestellung einer / eines Beauftragten für Denkmalschutz
+- TOP 8.15.: Bestellung einer / eines Beauftragten für Internet (BA-Homepage)
+- TOP 8.16.: Bestellung von Betreuerinnen / Betreuern für die BA-Schaukästen
+- TOP 8.17.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 8.18.: Bestellung weiterer Beauftragter
+- TOP -: Teil B: Arbeitssitzung
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 12: Protokoll und Umlauf
+- TOP 1.3.: Beschluss über die Tagesordnung – Teil A
+- TOP 9.: Verschiedenes
+- TOP 4.1.: Vorstellung der RadlVorrang-Karte-to-go
+- TOP 4.2.: Temporäre Radwege - Popup-Bike-Lanes
+- TOP 4.3.: Baumrückschnitt Westendstraße 36
+- TOP 4.4.: Kein Autokino auf der Theresienwiese
+- TOP 4.5.: Lärmbelästigung Bauvorhaben Heimeranplatz
+- TOP 4.6.: Wasserstelle für Wildtiere im Bavariapark
+- TOP 4.7.: Ersatzpflanzung für die Baumfällungen in der Gollierstraße / Ganghoferstraße
+- TOP 4.8.: Begrünung der Tramtrasse in der Landsbergerstr. - Grasserstraße
+- TOP 4.9.: Kunst im Quadrat - Kultur mit Abstand @ Theresienwiese München
+- TOP 6.2.1.: Bauvorhaben Jugendhotel Am Bavariapark 16
+- TOP 6.2.2.: Bauvorhaben Schwanthalerstraße 125 / RGB
+- TOP 6.2.3.: Bauvorhaben Tulbeckstraße 32
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.3.: Bauarbeiten Theresienhöhe 15
+- TOP 6.3.4.: Antwortschreiben Bauvorhaben Parkstraße 6
+- TOP 6.3.5.: Straßenbauarbeiten Gollierstraße 4
+- TOP 6.3.6.: Gesamtstellungnahme Umbau-/ Gleiserneuerung 796
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Veranstaltungswoche "Gut leben" in der Schwanthalerhöhe und Laim
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Nachbarschaftsflohmarkt Gollierplatz
+- TOP 8.2.2.: MVG-Leistungsprogramm 2021
+- TOP 8.2.3.: Sitzgelegenheiten an öffentlichen Plätzen
+- TOP 8.2.4.: Abstellflächen für E-Tretroller – Standortvorschläge
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Errichtung eines großen Fahrradständers auf der Plattenfläche vor dem Anwesen Astallerstraße 16
+- TOP 8.3.2.: Kein Abstellen von Fahrzeugen aller Art auf Gehwegen und Plätzen
+- TOP 8.3.3.: (E) Neuregelung des Verkehrs bzw. des Anwohnerparkens während der Wiesn
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget BrückenBauen gUG Ausstellung „Land der Kulturen“ vom 01.-14.08.2020 225,00€; Az. 0262.0-8-0222
+- TOP 9.1.2.: (E) Stadtbezirksbudget Pfarrverband München Westend - Festausschuss Pfarrverbandsfest am 12.07.2020 791,00 € / Az. 0262.0-8-0220
+- TOP 9.1.3.: (E) Stadtbezirksbudget Initiative „Uns gehört die Stadt!“ Postproduktion des Dokumentarfilms „Uns gehört die Stadt!“ vom 14.04.2020 bis Ende Juli 2020 891,95€; Az. 0262.0-8-0226
+- TOP 9.1.4.: (E) Stadtbezirksbudget Initiative "Teestunde" Teestunde mit Märchen und Konzert am 02.08.2020 750,00€, AZ: 0262.0-8-0224
+- TOP 9.1.5.: (E) Stadtbezirksbudget "Das Westend tafelt", Essensausgabe für bedürftige Menschen - Coronakrise; 25. April bis 30. Mai 2020 - Fortsetzungsantrag; € 6000,-
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Bestellung städtischer Leistungen; Errichtung einer Bedarfsampel an der Landsberger Straße / Bergmannstraße
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Kreative Nutzung der Theresienwiese
+- TOP 11: Verschiedenes
+- TOP 6.1.: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA8
