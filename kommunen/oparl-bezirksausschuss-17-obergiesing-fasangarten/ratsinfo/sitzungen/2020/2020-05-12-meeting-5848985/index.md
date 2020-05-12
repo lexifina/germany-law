@@ -1,0 +1,67 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2020-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5848985
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5848985
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Begrüßung, Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.2.: Feststellung der Beschlussfähigkeit, Beschlussfassung über die endgültige TO (Teil A)
+- TOP 1.3.: Bildung eines Wahlgremiums
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitgliedern durch die / den BA-Vorsitzenden
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzer
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzer
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassiers
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.2.: Benennung der Mitglieder und ihrer Stellvertreter des UA
+- TOP 3.3.: Wahl der / des Vorsitzenden des UA
+- TOP 4.: Wahl / Benennung von Beauftragten
+- TOP 4.2.: Wahl einer / eines Jugendbeauftragten
+- TOP 4.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderung
+- TOP 4.4.: Wahl einer / eines Gleichstellungsbeauftragten
+- TOP 4.5.: Benennung einer / eines Beauftragten gegen Rechtsextremismus
+- TOP 4.7.: Benennung von Beiräten
+- TOP 5.: Berufung von Betreuern für die BA-Schaukästen
+- TOP 6.: Sonstiges / Verschiedenes
+- TOP 1.1.: Beschlussfassung über die endgültige Tagesordnung (Teil B)
+- TOP 1.2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Baumschutz
+- TOP 3.: Budget
+- TOP 4.: Entscheidungen und Anhörungen
+- TOP 4.1.: Bau/Planung/Wohnen
+- TOP 4.2.: Familie/Soziales/Ausbildung
+- TOP 4.3.: Verkehr
+- TOP 4.4.: Umwelt und Gesundheit
+- TOP 4.5.: Kultur/Vereine/Initiativen/Sport
+- TOP 4.6.: lokale Wirtschaft und Arbeit
+- TOP 5.: Termine, Ankündigungen, Verschiedenes
+- TOP 5.1.: Die nächste Sitzung des BA 17 Obergiesing-Fasangarten findet am Dienstag, den 16.06.2020, um 19.30 Uhr, im Stadtteilkulturzentrum Giesinger Bahnhof, Gepäckhalle, Giesinger Bahnhofplatz 1, 81539 München statt.
+- TOP 5.2.: Termine der Unterausschüsse
+- TOP 1.3.: Grundsatzbeschluss des BA 17
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 3.1.: Beschluss über die ▪ Anzahl ▪ Zuständigkeit / Ressortverteilung ▪ Größe der Unterausschüsse ▪ Fraktionszusammenschlüsse / UA-Gemeinschaften abfragen
+- TOP 4.6.: Benennung weiterer Beauftragter z.B. Baumschutz, Flüchtlinge
+- TOP II-B: Teil B: 1. Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.3.1.: Grundsatzbeschluss des BA 17: Keine Zusammenarbeit mit der AfD; für ein weltoffenes, demokratisches und humanes München - Obergiesing-Fasangarten
+- TOP 4.6.1.: Offener Brief zur Lage in der Gastronomie, Schreiben der Gewerbetreibenden vom 02.05.2020
+- TOP 4.6.2.: Ergänzung des § 10 der BA-Satzung durch den Stadtrat um Punkt e) Verwendung des Stadtteilbudgets zur Abmilderung der durch die Covid 19 Pandemie entstandenen Negativfolgen; Dringlichkeitsantrag Fraktion Die Grünen
+- TOP 4.6.3.: Gastronomie und Corona in Giesing; Dringlichkeitsantrag der SPD-Fraktion
+- TOP 3.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden des UA
+- TOP 3.5.: Ggf. Festlegung der Ferienzeit und Bildung eines Ferienausschusses 1. Beschlussfassung über die Größe 2. Benennung der Mitglieder und ihrer Stellvertreter 3. Wahl der / des Vorsitzenden 4. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 3.6.: Ggf. Bildung eines Sonderausschusses 1. Beschlussfassung über die Größe 2. Benennung der Mitglieder und ihrer Stellvertreter 3. Wahl der / des Vorsitzenden 4. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4.1.: Wahl einer / eines Kinderbeauftragten
+- TOP 6.1.: Neues Sitzungslokal für den BA 17 für die Zeit von Corona Vorschläge
