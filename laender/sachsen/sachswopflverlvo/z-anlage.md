@@ -2,46 +2,50 @@
 Staatenliste
 Staatenliste
 Staat | Staat
-Ägypten | Korea, Demokratische Volksrepublik
-Algerien | Korea, Republik
-Angola | Kuba
-Äquatorialguinea | Kuwait
-Argentinien | Laos, Demokratische Volksrepublik
-Armenien | Libanon
-Aserbaidschan | Liberia
-Bangladesch | Libyen
-Benin | Madagaskar
-Bhutan | Malawi
-Botsuana | Mali
-Brasilien | Marokko
-Burkina Faso | Mauretanien
-Cabo Verde | Moldau, Republik
-Chile | Mongolei
-China | Mosambik
-China (Taiwan) | Namibia
-Côte d‘Ivoire | Nepal
-Dominikanische Republik | Nicaragua
-Ecuador | Niger
-El Salvador | Nigeria
-Eswatini | Norwegen
-Gabun | Pakistan
-Gambia | Paraguay
-Georgien | Russische Föderation
-Grenada | Sambia
-Guinea | São Tomé und Príncipe
-Guinea-Bissau | Sierra Leone
-Guyana | Sri Lanka
-Haiti | Südafrika
-Indien | Tadschikistan
-Israel | Tansania, Vereinigte Republik
-Jordanien | Thailand
-Kambodscha | Timor-Leste
+Ägypten | Kuba
+Algerien | Kuwait
+Angola | Libanon
+Äquatorialguinea | Liberia
+Argentinien | Madagaskar
+Armenien | Malaysia
+Aserbaidschan | Mali
+Äthiopien | Marokko
+Bahamas | Mauretanien
+Bangladesch | Mauritius
+Benin | Moldau, Republik
+Bhutan | Mongolei
+Brasilien | Mosambik
+Burkina Faso | Namibia
+Cabo Verde | Nepal
+China | Nicaragua
+China (Hongkong) | Niger
+China (Taiwan) | Nigeria
+Costa Rica | Norwegen
+Côte d‘Ivoire | Pakistan
+Dominikanische Republik | Paraguay
+Dschibuti | Philippinen
+Ecuador | Russische Föderation
+Eswatini | Sambia
+Gambia | Schweiz
+Georgien | Sierra Leone
+Guatemala | Simbabwe
+Guinea | Singapur
+Guinea-Bissau | Sri Lanka
+Honduras | St. Lucia
+Indien | Südafrika
+Indonesien | Sudan
+Israel | Suriname
+Japan | Tadschikistan
+Jordanien | Tansania, Vereinigte Republik
+Kambodscha | Thailand
 Kamerun | Togo
 Kanada | Tschad
 Kasachstan | Tunesien
-Katar | Ukraine
-Kenia | Usbekistan
-Kirgisistan | Vereinigte Staaten von Amerika
-Kolumbien | Vietnam
-Komoren | Weißrussland
-Kongo | Zentralafrikanische Republik
+Kenia | Turkmenistan
+Kirgisistan | Uganda
+Kolumbien | Ukraine
+Komoren | Vereinigte Arabische Emirate
+Kongo | Vereinigte Staaten von Amerika
+Kongo, Demokratische Republik | Vietnam
+Korea, Demokratische Volksrepublik | Weißrussland
+Korea, Republik | Zentralafrikanische Republik
