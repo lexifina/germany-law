@@ -1,0 +1,7 @@
+# § 9a Freiluftsport
+(1) Die Ausübung von Sport auf öffentlichen und nichtöffentlichen Freiluftsportanlagen wird unter der Maßgabe des Kontaktverbots nach § 5 Absatz 1 und 2 zugelassen. Danach ist bei Ausübung des Sports ein Abstand von mindestens 1,5 Metern einzuhalten. Unter dieser Maßgabe ist auch die Ausübung von Sport in Gruppen zulässig, soweit pro Person eine Fläche von mindestens 10 Quadratmetern zur Verfügung gestellt wird.
+(2) Für öffentliche und nichtöffentliche Freiluftsportanlagen gelten folgende Maßgaben:
+1. anderweitige Menschenansammlungen auf der Sportanlage sind unzulässig;
+2. Umkleideräume und Duschen dürfen nicht geöffnet werden. Gebäude für die Unterbringung von Booten und Flugzeugen im Bereich des Wasser- und Flugsports dürfen ausschließlich zur Nutzung der Boote und Flugzeuge geöffnet werden. Notwendige Reparaturarbeiten können durchgeführt werden;
+3. Toiletten können zur Nutzung geöffnet werden, wenn Händewasch- oder Desinfektionsmittel sowie Papierhandtücher in ausreichender Menge bereitgehalten werden;
+4. Die Betreiber von Sportanlagen gemäß § 6 Absatz 2 Nummer 2 bis 4 des Sportförderungsgesetzes haben einen Hygiene- und Pandemieplan zu erstellen und dem Ordnungsamt Bremen oder dem Magistrat der Stadt Bremerhaven auf Verlangen vorzuweisen; die Betreiber können anlagenspezifische Zugangsbeschränkungen festlegen und Auflagen für die Nutzung erteilen; diese Pläne sind auf der Sportanlage bekannt zu machen. Dies gilt nicht auf Freiluftsportanlagen, die öffentlich zugänglich sind und auf denen kein Vereinssport stattfindet.
