@@ -1,0 +1,63 @@
+# Rat (69. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-05-13T18:00:00+02:00
+- Ende: 2020-05-13T23:04:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZa5ZaujajBbkv5yT9eY9p74
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4449
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRU5ORgozOdV8H1C2g6ETPlDBiex-opeirgpKDRR2IyT/Bekanntmachung_Rat_13.05.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYJEQ3r0l32PckvYtw5UW2cRRnK75wY8Hp0_E49x2b_z/Oeffentliche_Niederschrift_Rat_13.05.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung neuer Ratsmitglieder - Ohne Abstimmung
+- TOP 3.: Niederschrift vom 04.03.2020
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der CDU-Fraktion vom 29.04.2020; Wirtschaftliche Folgen von Covid-19 auf die lokale Wirtschaft – Unterstützung der heimischen Gastronomie und des lokalen Einzelhandels in unseren Ortsteilen - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Corona-Hilfeleistungen für grenzüberschreitende Unternehmer in Gronau und Epe
+- TOP 5.: Genehmigung von öffentlichen Dringlichkeitsbeschlüssen
+- TOP 5.1: Genehmigung eines Dringlichkeitsbeschlusses Bebauungsplan Nr. 40 "Möllenweg", 5. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 5.1.1: Bebauungsplan Nr. 40 "Möllenweg", 5. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss
+- TOP 5.2: Genehmigung eines Dringlichkeitsbeschlusses Bebauungsplan Nr. 140 "Ehemalige Baumwollspinnerei Gronau", Stadtteil Gronau Aufstellungsbeschluss - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 5.2.1: Bebauungsplan Nr. 140 "Ehemalige Baumwollspinnerei Gronau", Stadtteil Gronau Aufstellungsbeschluss
+- TOP 5.3: Genehmigung eines Dringlichkeitsbeschlusses Bebauungsplan Nr. 181 "Südliche Innenstadt", Teilbereich I, Stadtteil Gronau Erlass einer Veränderungssperre - 33 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 5.3.1: Bebauungsplan Nr. 181 "Südliche Innenstadt", Teilbereich I, Stadtteil Gronau Erlass einer Veränderungssperre
+- TOP 5.4: Genehmigung einer Dringlichkeitsentscheidung: Erlass eines Betrauungsakts zugunsten der WGG Wohnbau- und Grundstücksgesellschaft der Stadt Gronau (Westf.) mbH & Co.KG - Einstimmig, 0 Enthaltungen
+- TOP 5.4.1: Erlass eines Betrauungsakts zugunsten der WGG Wohnbau- und Grundstücksgesellschaft der Stadt Gronau (Westf.) mbH & Co.KG
+- TOP 6.: Vorstellung eines Vorentwurfs zum Neubau eines historischen Rathauses an der Bahnhofstraße - Einstimmig, 2 Enthaltungen
+- TOP 7.: Satzungsbeschluss des Gestaltungshandbuches mit Satzung für den Ortskern Epe - Einstimmig, 1 Enthaltungen
+- TOP 8.: Stellplatzsatzung - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 9.: Rede- und Anhörungsrecht des Stadtjugendringes und des Jugendschülerparlamentes im Rat und in den Ausschüssen der Stadt Gronau Hier: Verfahren für die Einbindung des Jugendschülerparlaments in die Arbeit des Rates und der Ausschüsse der Stadt Gronau - 25 Jastimmen, 0 Neinstimmen, 9 Enthaltungen
+- TOP 10.: Anpassung der Elternbeitragssatzung in Kindertageseinrichtungen und in der Tagespflege - Einstimmig, 0 Enthaltungen
+- TOP 11.: Aussetzen der Beitragserhebung für die Betreuung von Kindern in der Kindertagesbetreuung (Kindertageseinrichtungen und Kindertagespflege) von COVID-19 für den Monat April 2020 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Aussetzen der Beitragserhebung für die Betreuung in der gebundenen und offenen Ganztagsschule sowie außerunterrichtlichen Betreuungsangeboten der Primarstufe und der Sekundarstufe I im Zuge von COVID-19 für den Monat April 2020 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Bebauungsplan Nr. 63 "Dreiländersee", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 1 Jastimmen, 28 Neinstimmen, 2 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 26 "Bayernstraße" 3. Änderung, Stadtteil Gronau (Teilweise Änderung des Bebauungsplans Nr. 57) (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 182 "Südlich der Brahmsstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 250 „Im Bommer/Esteresch“, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gem. § 13a Abs. 3 Nr. 1und 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 4. Satzungsbeschluss - 27 Jastimmen, 2 Neinstimmen, 4 Enthaltungen
+- TOP 18.: Rad-/Gehwegerneuerung Füchter Straße (K59) - Einstimmig, 1 Enthaltungen
+- TOP 19.: Beteiligung der Stadt Gronau (Westf.) am interkommunalen Förderantrag „Smart Cities made in Germany (2. Staffel)" des Zweckverbandes Kommunale ADV-Anwendergemeinschaft West (KAAW) - Einstimmig, 4 Enthaltungen
+- TOP 20.: Beteiligung der Stadtwerke Gronau GmbH an der TRIANEL WINDKRAFT SOLAR GmbH & Co.KG et al. (TWS)
+- TOP 21.: Sachstandsbericht der Verwaltung i.S. Corona-Pandemie - Einstimmig, 0 Enthaltungen
+- TOP 21.1: Sachstandsbericht der Verwaltung i.S. Corona-Pandemie
+- TOP 22.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 23.: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Gronau - Einstimmig, 1 Enthaltungen
+- TOP 24.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Sitzung des AK Klimaschutz
+- TOP 25.2: „Grau statt Grün - Gewerbegebiete im Wandel"
+- TOP 25.3: Klimaschutzmanager
+- TOP 26.: Anfragen
+- TOP 26.1: Terminkollision (Anfrage von RM Buchholz)
+- TOP 26.2: Sperrmüllabfuhr (Anfrage von RM Schwartze)
+- TOP 26.3: Bußgeldverfahren i.S. Müllablagerungen (Anfrage vom 2. Stellv. BM Bajorath)
+- TOP 26.4: Schadstoffmobil (Anfrage vom 2. Stellv. BM Bajorath)
+- TOP 26.5: Kommunalwahlen 2020 (Anfrage von RM Buchholz)
+- TOP 26.6: Errichtung von Zäunen auf priv. Grundstücken (Anfrage von 3. Stellv. BM Tegetmeyer)
