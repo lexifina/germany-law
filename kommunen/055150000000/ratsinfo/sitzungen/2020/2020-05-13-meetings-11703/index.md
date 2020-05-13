@@ -1,0 +1,142 @@
+# 48. Sitzung gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung für das Land Nordrhein-Westfalen
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-05-13T17:04:00+02:00
+- Ende: 2020-05-13T22:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11703
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11703
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00461801.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3: Vorgesehen für den Rat
+- TOP 3.1: Genehmigung von Dringlichkeitsentscheidungen - beschlossen
+- TOP 3.1.1: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 3.2: Vorgesehen für die Sitzung des Rates am 25.03.2020
+- TOP 3.2.1: Feststellung des Jahresabschlusses 2018 der Stadt Münster - einstimmig beschlossen
+- TOP 3.2.2: Ratsantrag der SPD-Fraktion Nr.: A-R/0068/2017 "Ehrenamtliches Engagement in Münster stärken - leichteren Zugang zum Messe und Congress Centrum Halle Münsterland ermöglichen" - von der Tagesordnung abgesetzt
+- TOP 3.2.3: Aufnahme der Stadtwerke Solingen GmbH als Gesellschafterin der items GmbH durch Kapitalerhöhung sowie Erhöhung des Geschäftsanteils der Mark-E Aktiengesellschaft durch Veräußerung und Übertragung des Eigenanteils der items GmbH zum 01.01.2020 - einstimmig beschlossen
+- TOP 3.2.4: Verzicht auf die Anhebung der Hundesteuersätze aus Umweltgründen - einstimmig beschlossen
+- TOP 3.2.5: Verlagerung des Landesstudios Münster des Westdeutschen Rundfunks (WDR): Ein vielfältiger und urbaner Ort am Servatiiplatz und ein neues Wohnquartier auf dem WDR-Gelände an der Mondstraße - mehrheitlich beschlossen
+- TOP 3.2.5.1: Verlagerung des Landesstudios Münster des Westdeutschen Rundfunks (WDR): Ein vielfältiger und urbaner Ort am Servatiiplatz und ein neues Wohnquartier auf dem WDR-Gelände an der Mondstraße
+- TOP 3.2.6: nördlich Stadthafen 1 - Planungs- und Projekt-Startschuss - mehrheitlich beschlossen
+- TOP 3.2.7: Verlängerung des Geltungszeitraumes der Richtlinie zu § 11 Absatz 2 ÖPNVG NRW - einstimmig beschlossen
+- TOP 3.2.8: Aufstellung einer sozialen Erhaltungssatzung - einstimmig beschlossen
+- TOP 3.2.9: Smart City: Einführung Handy-Parken - einstimmig beschlossen
+- TOP 3.2.10: Flyover Aegidiitor: Radverkehrsbrücke zwischen Promenade und Bismarckallee - Förderantragsverfahren für das Programm „Förderung innovativer Projekte zur Verbesserung des Radverkehrs in Deutschland" - mehrheitlich geändert beschlossen
+- TOP 3.2.11: Grundsatzbeschluss zur Einführung eines Bike-Sharing-Systems in Münster - mehrheitlich beschlossen
+- TOP 3.2.12: Erweiterung und Sanierung der Hauptkläranlage inklusive Errichtung einer 4. Reinigungsstufe - einstimmig beschlossen
+- TOP 3.2.13: Neuverteilung Schulsozialarbeit 2020 - mehrheitlich beschlossen
+- TOP 3.2.14: Grundsatzbeschluss für ein "digitales Labor" zur Förderung der Medien- und Digitalkompetenz - einstimmig beschlossen
+- TOP 3.2.15: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen u. OGS" - einstimmig beschlossen
+- TOP 3.2.16: Bau eines Kunstrasen- und eines Naturrasenspielfeldes auf der Sportanlage Hensenstraße und nötige Umschichtung von Finanzmitteln - mehrheitlich beschlossen
+- TOP 3.2.17: Wirtschaftsplan 2020/2021 des Theater Münster - einstimmig beschlossen
+- TOP 3.2.18: Teilnahme am European Climate Adaption Award (ECA) - einstimmig beschlossen
+- TOP 3.2.19: Bauleitplanung
+- TOP 3.2.19.1: Stadtbezirk Mitte
+- TOP 3.2.19.1.1: 104. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 612 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 3.2.19.2: Stadtbezirk West
+- TOP 3.2.19.2.1: 64. Änderung FNP - Geänderter Beschluss zur Änderung - einstimmig beschlossen
+- TOP 3.2.19.2.2: 2. Änderung des Bebauungsplans Nr. 409: Technologiepark Steinfurter Straße im Bereich Johann-Krane-Weg [Studierendenwohnungen - ehemalige Eissporthalle] - mehrheitlich beschlossen
+- TOP 3.2.19.3: Stadtbezirk Hiltrup und Südost
+- TOP 3.2.19.3.1: Veränderungssperre Nr. 110, Erste Verlängerung - mehrheitlich beschlossen
+- TOP 3.2.19.3.2: Veränderungssperre Nr. 110, Erste Verlängerung
+- TOP 3.2.19.4: Stadtbezirk Südost
+- TOP 3.2.19.4.1: Veränderungssperre Nr. 109, Erste Verlängerung - einstimmig beschlossen
+- TOP 3.2.19.4.2: Veränderungssperre Nr. 109, Erste Verlängerung
+- TOP 3.2.19.4.3: 62. Änderung FNP - Bebauungsplan Nr. 591 - Beschluss zur Änderung / Geänderter Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 3.3: Vorgesehen für die Sitzung des Rates am 13.05.2020
+- TOP 3.3.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 3.3.1.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 3.3.2: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Albachten der Freiwilligen Feuerwehr Münster - von der Tagesordnung abgesetzt
+- TOP 3.3.3: Rückkauf von Geschäftsanteilen an der smartOPTIMO GmbH + Co. KG - einstimmig beschlossen
+- TOP 3.3.4: Anpassung der Satzung des ZVM - einstimmig beschlossen
+- TOP 3.3.5: Sportpark Berg Fidel: Bau von zwei zusätzlichen Trainingsplätzen sowie einer Beachvolleyballanlage - mehrheitlich beschlossen
+- TOP 3.3.6: Landesinitiative "Durchstarten in Ausbildung und Arbeit" - Umsetzung der Förderbausteine und Einbindung der Anträge "Integration von Geflüchteten steigern" und "Münster integriert in Ausbildung - ganzheitlicher Integrationsförderplan für alle zugewan - mehrheitlich beschlossen
+- TOP 3.3.7: Änderung des Schulnamens der "Schule an der Beckstraße" in Kompass-Schule, schulischer Lernort und Auflösung des letzten verbliebenen Jahrgangs der Richard-von-Weizsäcker-Schule - einstimmig beschlossen
+- TOP 3.3.8: Übertragung der Trägerschaft für die Offene Ganztagsschule in der städtischen evangelischen Melanchthonschule in Coerde - einstimmig beschlossen
+- TOP 3.3.9: Verzicht auf die Erhebung von Elternbeiträgen für die Betreuung in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen aufgrund der Corona-Krise - einstimmig geändert beschlossen
+- TOP 3.3.10: Konversion York- /Oxford Kasernen - Personalstelle Klimaschutz - mehrheitlich beschlossen
+- TOP 3.3.11: Stellungnahme der Stadt Münster zum Planfeststellungsverfahren nach dem Bundeswasserstraßengesetz für den Ausbau des Dortmund-Ems-Kanals (DEK) bei km 62,405 durch Ersatz der Prinzbrücke Nr.66 in Münster-Hiltrup und Erklärung zur Übernahme der Kosten - mehrheitlich beschlossen
+- TOP 3.3.12: Erneutes Einvernehmen der Stadt Münster zum Neubau der Justizvollzugsanstalt (JVA) Münster auf einem Standort nordöstlich von Münster-Wolbeck - einstimmig beschlossen
+- TOP 3.3.13: Bauleitplanung
+- TOP 3.3.13.1: Stadtbezirk Mitte
+- TOP 3.3.13.1.1: 105. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 580 - Beschluss zur Aufstellung - Anordnung der Umlegung - einstimmig geändert beschlossen
+- TOP 3.3.13.2: Stadtbezirk Hiltrup
+- TOP 3.3.13.2.1: Bebauungsplan Nr. 613 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 3.3.13.3: Stadtbezirk Nord
+- TOP 3.3.13.3.1: 90. Änderung des FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 3.3.13.3.2: Bebauungsplan Nr. 559 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 3.3.13.4: Stadtbezirk Südost
+- TOP 3.3.13.4.1: 78. Änderung FNP - Geänderter Beschluss zur Änderung - einstimmig beschlossen
+- TOP 3.3.13.5: Stadtbezirk Ost
+- TOP 3.3.13.5.1: 4. Änderung des Bebauungsplans Nr. 262: „St. Mauritz - Mondstraße / Erikaweg“ im Bereich westlich Mondstraße / südlich Hans-Bredow-Weg - einstimmig beschlossen
+- TOP 4: Vorgesehen für den Haupt- und Finanzausschuss
+- TOP 4.1: Vorgesehen für die Sitzung des Haupt- und Finanzausschusses am 25.03.2020
+- TOP 4.1.1: Antrag an den Rat Nr. A-R/0021/2018 - Ein Vorkaufsrecht für die Stadt Münster bei Immobilienverkäufen städtischer Gesellschaften - mehrheitlich beschlossen
+- TOP 4.2: Vorgesehen für die Sitzung des Haupt- und Finanzausschusses am 13.05.2020
+- TOP 4.2.1: Genehmigung von drei Dringlichkeitsentscheidungen - beschlossen
+- TOP 4.2.2: Anpassung der städtischen Anlagerichtlinie - einstimmig beschlossen
+- TOP 4.2.3: Thomas-Morus-Schule - einstimmig beschlossen
+- TOP 4.2.4: Grundschule Oxford - einstimmig beschlossen
+- TOP 4.2.5: Grundschule York - einstimmig beschlossen
+- TOP 5: Vorgesehen für den Ausschuss für Umweltschutz, Klimaschutz und Bauwesen
+- TOP 5.1: Vorgesehen für die Sitzung des Ausschusses für Umweltschutz, Klimaschutz und Bauwesen am 17.03.2020
+- TOP 5.1.1: Kläranlage Häger Aufhebung - einstimmig beschlossen
+- TOP 5.1.2: Meesenstiege – Knotenpunkt Franz-Berding-Weg/Wielandstraße - Umwandlung der Lichtsignalanlage - einstimmig beschlossen
+- TOP 5.1.3: Osthofstraße - einstimmig beschlossen
+- TOP 5.1.4: Antrag A-R/0047/2019 der Ratsgruppe AfD an den Rat zur Anbringung einer Klimauhr am Rathaus - mehrheitlich beschlossen
+- TOP 5.2: Vorgesehen für die Sitzung des Ausschusses für Umweltschutz, Klimaschutz und Bauwesen am 05.05.2020
+- TOP 5.2.1: Wolbecker Straße L 793 - einstimmig beschlossen
+- TOP 5.2.2: Veloroute 11 Münster-Telgte, Teilabschnitte Dieckstraße, Dingstiege, Boniburgallee, Kirschgarten und Kötterstraße - mehrheitlich beschlossen
+- TOP 5.2.3: Junker-Jörg-Platz Kanalsanierung - einstimmig beschlossen
+- TOP 5.2.4: Blumen statt Beton - mehrheitlich beschlossen
+- TOP 5.2.5: Errichtung von 5 Fertigbauklassen für die Ludgerusschule Hiltrup - einstimmig beschlossen
+- TOP 6: Vorgesehen für den Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wohnen
+- TOP 6.1: Vorgesehen für die Sitzung des Ausschusses für Stadtplanung, Stadtentwicklung, Verkehr und Wohnen am 19.03.2020
+- TOP 6.1.1: Veloroute Münster-Everswinkel: Routenführung - mehrheitlich beschlossen
+- TOP 6.1.1.1: Veloroute Münster-Everswinkel: Routenführung
+- TOP 6.1.2: Veloroute Münster-Nottuln: Routenführung - mehrheitlich beschlossen
+- TOP 6.1.3: B-Plan Nr. 579: "Gievenbeck-Oxford-Quartier (Roxeler Straße/Dieckmannstraße/Gievenbecker Reihe/Niedenstiege)", Ausbau der Knotenpunkte und der Roxeler Straße im Bereich der Oxford-Kaserne - mehrheitlich geändert beschlossen
+- TOP 6.2: Vorgesehen für die Sitzung des Ausschusses für Stadtplanung, Stadtentwicklung, Verkehr und Wohnen am 07.05.2020
+- TOP 6.2.1: A-R/0047/2018 - einstimmig beschlossen
+- TOP 7: Vorgesehen für den Ausschuss für Personal, Organisation, Sicherheit, Ordnung und E-Government
+- TOP 7.1: Vorgesehen für die Sitzung des Ausschusses für Personal, Organisation, Sicherheit, Ordnung und E-Government am 24.03.2020
+- TOP 7.1.1: Antrag der SPD Fraktion an den Rat Nr. A-R/0087/2018 "Abbau prekärer Beschäftigung bei der Stadt Münster fortführen!" - mehrheitlich beschlossen
+- TOP 7.1.2: Antrag der Ratsgruppe AfD an den Rat Nr. A-R/0006/2020 vom 04.02.2020, Münster sicher machen - Dem Terror keine Chance geben - mehrheitlich beschlossen
+- TOP 7.2: Vorgesehen für die Sitzung des Ausschusses für Personal, Organisation, Sicherheit, Ordnung und E-Government am 12.05.2020
+- TOP 7.2.1: Einrichtung von neuen Gruppen in offenen Ganztagsschulen Schuljahr 2020/2021 - Entsperrung von Planstellen - einstimmig beschlossen
+- TOP 8: Vorgesehen für den Sportausschuss
+- TOP 8.1: Vorgesehen für die Sitzung des Sportausschusses am 24.03.2020
+- TOP 8.1.1: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen z. B. Verlagerung von Sportanlagen), Maßnahmen 2020 - einstimmig beschlossen
+- TOP 9: Berichtsvorlagen Bauleitplanung
+- TOP 9.1: 64. Änderung FNP - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 9.2: Bebauungsplan Nr. 572 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 9.3: 62. Änderung FNP - Bebauungsplan Nr. 591 - Kenntnisnahme der Planentwürfe zur Offenlegung - zur Kenntnis genommen
+- TOP 9.4: 78. Änderung FNP - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 9.5: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 134 II - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 10: Berichtsvorlagen ohne Bauleitplanung
+- TOP 10.1: Finanzielle Risiken der Corona-Pandemie und Maßnahmen zur Gegensteuerung - zur Kenntnis genommen
+- TOP 10.2: Bearbeitungsstand der Ratsanträge - 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 10.3: Schulden- und Liquiditätsbericht 2019 - zur Kenntnis genommen
+- TOP 10.4: Städtisches Stadion an der Hammer Straße: Ergebnisse der Machbarkeitsstudie
+- TOP 10.5: Lärmaktionsplan der 3. Runde für die Stadt Münster - Öffentliche Auslegung des Entwurfes - zur Kenntnis genommen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Corona: Clubs und Gastronomie unterstützen - einstimmig geändert beschlossen
+- TOP 11.2: Jugend- und Musikclubs dauerhaft entlasten: Tanzsteuer abschaffen - zurückgezogen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 12.1: International Cargo Bike Festival in Münster ausrichten - verwiesen
+- TOP 12.2: Protokolle und Vorlagen von vor 2005 ins Ratsinformationssystem - verwiesen
+- TOP 12.3: Münster tritt dem Globalen Netzwerk der WHO für altersfreundliche Städte und Gemeinden (WHO Global Network for Age-friendly Cities and Communities) bei - verwiesen
+- TOP 13: Anträge von Fraktionen an den Haupt- und Finanzausschuss
+- TOP 13.1: Eine Mobilitätsflatrate für Münster aus einer Hand – Carsharing, Bikesharing und ÖPNV, Eine Mobilitätsflatrate fu¨r Münster – smarte Mobilität für eine Smart City - verwiesen
+- TOP 13.2: Ausweitung der städtischen Wohnungs- und Grundstücksvermittlung auf aktive Mitglieder der Freiwilligen Feuerwehr Münster und der Mitglieder der Katastrophenschutzeinheiten in Münster - verwiesen
+- TOP 13.3: Beschleunigter Ausbau der Wasserstofftechnologie (Grüner Wasserstoff) - verwiesen
+- TOP 14: Verschiedenes
