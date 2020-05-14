@@ -1,0 +1,147 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-14T14:00:00+02:00
+- Ende: 2020-05-14T18:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19245
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19245
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlicher Teil RAT 14.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377444.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlicher Teil RAT 14.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377444.pdf
+- Wortprotokoll: Sitzungspaket öffentlicher Teil RAT 14.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377444.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung von Ehrenringen des Rates
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Aktuelle Informationen zum Coronavirus (SARS-CoV-2) - zur Kenntnis genommen
+- TOP 4: Genehmigung der Niederschrift über die öffentlichen Sitzungen des Rates am 19.12.2019 (10/2019) und 06.02.2020 (SI-RAT/01/2020) - einstimmig beschlossen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 5.1: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz Freie Wähler: Hundeauslaufplätze in Düsseldorf - schriftlich beantwortet
+- TOP 5.2: Anfrage des Ratsherrn Dr. Wlecke: Corona-Anträge 1 - schriftlich beantwortet
+- TOP 5.3: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz Freie Wähler: Baumfällungen am Hauptbahnhof - schriftlich beantwortet
+- TOP 5.4: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Ponyranch südlich Auf`m Tetelberg - schriftlich beantwortet
+- TOP 5.5: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: Informelle Ansammlung und Demonstrationszug von Gegner*innen der Corona-Prävention - schriftlich beantwortet
+- TOP 5.6: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Schule in Düsseldorf - Infokampagne oder Wahlkampf auf Steuerzahlerkosten? - schriftlich beantwortet
+- TOP 5.7: Anfrage aus aktuellem Anlass der Ratsfraktion Die Linke: Unangemeldete 'Corona-Demonstrationen' in Düsseldorf erlaubt? - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der Ratsfraktion Tierschutz Freie Wähler: Problematiken rund um den Hofgarten - schriftlich beantwortet
+- TOP 6.2: Anfrage der Ratsfraktion Tierschutz Freie Wähler: Covid 19 - schriftlich beantwortet
+- TOP 6.3: Anfrage der CDU-Ratsfraktion: Sachstand zur Ertüchtigung der Geländer an Ingenieurbauwerken und zur provisorischen Sicherung zur Ermöglichung des Radverkehrs - schriftlich beantwortet
+- TOP 6.4: Anfrage der Ratsfraktion Die Linke: Fortzahlung der Honorare von freien MitarbeiterInnen in KiTas, OGS und anderen sozialen Einrichtungen - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion Die Linke: Fördermöglichkeiten von Kultureinrichtungen während der Corona-Pandemie - schriftlich beantwortet
+- TOP 6.6: Anfrage der Ratsfraktion Bündnis 90/Die Grünen: Ausfallhonorare für VHS-Honorarkräfte - schriftlich beantwortet
+- TOP 6.7: Anfrage des Ratsherrn Maniera: Verstöße gegen „Corona-Regeln“ - schriftlich beantwortet
+- TOP 6.8: Anfrage des Ratsherrn Maniera: Sinnhaftigkeit des Fortbestands der Umweltspuren - schriftlich beantwortet
+- TOP 6.9: Anfrage der Ratsfrau Opelt: Zusammenhang mit Luftwerten erschüttert: Wann werden die Umweltspuren abgeschafft? - schriftlich beantwortet
+- TOP 6.10: Anfrage des Ratsherrn Grenda: Mobbing bei Düsseldorfer Jugendlichen (inkl. Schulen) - schriftlich beantwortet
+- TOP 6.11: Anfrage des Ratsherrn Grenda: Ablehnung der Bundesratinitiative des Bundesverkehrsministerium - schriftlich beantwortet
+- TOP 6.12: Anfrage der Ratsfraktion von Bündnis 90/Die Grünen: Schulbegleitung für Kinder mit Förderbedarf im Home-Schooling - schriftlich beantwortet
+- TOP 6.13: Anfrage des Ratsherrn Dr. Wlecke: Corona-Anträge 2 - schriftlich beantwortet
+- TOP 6.14: Anfrage der Ratsfrau Mohaya: Corona-Anträge 2 - schriftlich beantwortet
+- TOP 6.15: Anfrage der Ratsfrau Krüger: Corona-Anträge 2 - schriftlich beantwortet
+- TOP 6.16: Anfrage der Ratsfrau Krüger: Corona-Anträge 1 - schriftlich beantwortet
+- TOP 6.17: Anfrage der Ratsfrau Mohaya: Corona-Anträge 1 - schriftlich beantwortet
+- TOP 6.18: Anfrage von Ratsfrau Mucha und Ratsherrn Wiedon: Digitale Schule – Endgeräteausstattung - schriftlich beantwortet
+- TOP 6.19: Anfrage von Ratsfrau Mucha und Ratsherrn Tussing: Digitale Schule – Home Schooling - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission Smart City ZURÜCKGEZOGEN - zurückgezogen
+- TOP 12: Entwurf des NKF-Gesamtabschlusses 2017 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Entwurf Jahresabschluss 2019 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 14: Aussetzung der Beitragserhebung für die Betreuung von Kindern in der Kindertagesbetreuung (einschließlich) der Kindertagespflege und im Rahmen des Offenen Ganztages an Schulen der Primarstufe und Förderschulen im Zuge von COVID-19 - einstimmig beschlossen
+- TOP 15: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - mehrheitlich beschlossen
+- TOP 15.1: Ergänzungsantrag der CDU-Ratsfraktion zur Vorlage OVA/011/2020: Beschluss des Masterplans "Energieeffiziente und historische Straßenbeleuchtung" inkl. Erhaltungsvorschlag für die Gasbeleuchtung - mehrheitlich beschlossen
+- TOP 15.2: Änderungsantrag der Ratsfraktionen von Bündnis/Die Grünen, SPD und FDP zur Vorlage OVA/011/2020: Beschluss Masterplan „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - mehrheitlich beschlossen
+- TOP 16: Städtische Förderung von Wohnungstauschmaßnahmen - Richtlinien Wohnungstausch - einstimmig beschlossen
+- TOP 17: Erste Fortschreibung Handlungskonzept Elektromobilität der Landeshauptstadt Düsseldorf - vertagt
+- TOP 18: Umsetzungsplanung Klimaschutz städtische Töchter (Stadtwerke Düsseldorf, Rheinbahn, Flughafen, Messe, Bädergesellschaft) - zur Kenntnis genommen
+- TOP 19: Klimaschutzmaßnahmen der Stadt 2018 / 2019 und geplante Vorhaben für die Jahre 2020 und 2021 - zur Kenntnis genommen
+- TOP 20: Beschluss 01/182/2019 "Blumenwiese statt Steinwüsten" - Änderungsantrag zur Vorlage 01/151/2019 "Stadtklima schützen, Schottergärten vermeiden" - zur Kenntnis genommen
+- TOP 21: Maßnahmenkatalog, um dem Fachkräftemangel....... entgegenzuwirken (Beschluss des Rates vom 23.05.2019 zur Drucksachennummer 01/162/2019) - zur Kenntnis genommen
+- TOP 22: Öffentlich-rechtliche Vereinbarung zwischen der Landeshauptstadt Düsseldorf und dem Rhein-Kreis Neuss zur Durchführung des Zensus 2021 - einstimmig beschlossen
+- TOP 23: Konzept für eine Clearingstelle zur Akutaufnahme von gewaltbetroffenen Frauen (und ihren Kindern) - einstimmig beschlossen
+- TOP 24: Stiftung Gerhart-Hauptmann-Haus, Nachbesetzung des Kuratoriums - einstimmig beschlossen
+- TOP 25: Besetzung der Ausschüsse durch den Jugendrat - einstimmig beschlossen
+- TOP 26: Umbesetzungen in der Kunstkommission - einstimmig beschlossen
+- TOP 27: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 28: Bestellungen und Abberufungen von Prüferinnen und Prüfern - einstimmig beschlossen
+- TOP 29: Bestellung von Vertreter*innen der Landeshauptstadt Düsseldorf in der Mitgliederversammlung und im Gesamtvorstand des Vereins „Psychosoziale Arbeitsgemeinschaft (PSAG) Düsseldorf e.V. ZURÜCKGEZOGEN - zurückgezogen
+- TOP 30: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: Quadenhofstraße 151, Friedhof Gerresheim, Gesamtsanierung der Unteren Kapelle - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 32: Jugendverkehrsschule Rath, Rather Broich 137 - einstimmig beschlossen
+- TOP 33: Änderung des Ausführungs- und Finanzierungsbeschlusses für das Projekt Stadtbahn U81, 1. Bauabschnitt Freiligrathplatz – Flughafen Terminal - mehrheitlich beschlossen
+- TOP 34: Zweite Änderung des Ausführungs- und Finanzierungsbeschlusses des Projektes Eisenbahnunterführung (EÜ) Bamberger Straße, Tieferlegung der Straße - mehrheitlich beschlossen
+- TOP 35: Grundsatzbeschluss: Marie-Curie-Gymnasium, Gräulinger Straße 15 – Sanierung der naturwissenschaftlichen Fach- und Nebenräume - einstimmig beschlossen
+- TOP 36: Bebauungsplanverfahren Ulmer Höh´- Nordteil (B-Plan Nr. 01/011) - mehrheitlich beschlossen
+- TOP 37: Genehmigung von dringlichen Entscheidungen gemäß § 60 Abs. 1 Satz 2 GO NRW
+- TOP 37.1: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Teilweise Aufhebung der "Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen in der Landeshauptstadt Düsseldorf" - Ausnahmen vom Ladenschluss - - einstimmig beschlossen
+- TOP 37.2: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Finanzhilfen für Düsseldorfer Unternehmen und sonstige Institutionen zur Abwendung von kurzfristig drohenden Insolvenzen aufgrund der Auswirkungen des Corona-Virus - einstimmig beschlossen
+- TOP 37.3: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW und Satzungsbeschluss Bebauungsplan - Entwurf Nr. 06/014 - Vogelsanger Weg/Münsterstraße - Stellungnahmen, Änderung, Satzung - einstimmig beschlossen
+- TOP 37.4: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Rahmenplan Einzelhandel 2016 2. Änderung - Zentrum Münsterstraße / Vogelsanger Weg - einstimmig beschlossen
+- TOP 37.5: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Maßnahme Bezirkssportanlage Flinger Broich (Paul-Janes-Stadion):Ertüchtigung Gästezugang und Wallanlagen - einstimmig beschlossen
+- TOP 37.6: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Grundschule Heerstraße 18/18a“ - einstimmig beschlossen
+- TOP 37.7: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Deutsches Foto-Institut - einstimmig beschlossen
+- TOP 37.8: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: 60. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 37.9: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Umbesetzung im Ausschuss für Planung und Stadtentwicklung - einstimmig beschlossen
+- TOP 37.10: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Umbesetzung im Personal- und Organisationsausschuss - einstimmig beschlossen
+- TOP 37.11: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Teilweise Aufhebung der gemäß Ratsbeschluss vom 06.02.2020 erlassenen "Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen in der LHD" - einstimmig beschlossen
+- TOP 38: Genehmigung von Eilentscheidungen gemäß § 60 Abs. 1 Satz 1 GO NRW
+- TOP 38.1: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - einstimmig beschlossen
+- TOP 38.2: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Überarbeitung der Richtlinie sowie Vergabe des Umweltpreises - einstimmig beschlossen
+- TOP 38.3: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Neubau Rad- und Fußgängerbrücke Kennedydamm - Bestätigung des Votums der Empfehlungskommission im Rahmen des Gutachterverfahrens- - einstimmig beschlossen
+- TOP 38.4: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Ausführungs- und Finanzierungsbeschluss für die Maßnahme Speditionstraße - Westseite - einstimmig beschlossen
+- TOP 38.5: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Lärmoptimierter Asphalt (LOA) für den Straßenzug Bernburger Straße/Klein Eller -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 38.6: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Festsetzung der Bestimmungen für die Verleihung des Bernd-und-Hilla-Becher-Preises - einstimmig beschlossen
+- TOP 38.7: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Flächennutzungsplanänderung Nr. 192 - Östlich Völklinger Straße - Stellungnahmen; Planbeschluss - einstimmig beschlossen
+- TOP 38.8: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Flächennutzungsplanänderung Nr. 193 - Nordöstlich Halbinsel Kesselstraße - Stellungnahmen, Planbeschluss - mehrheitlich beschlossen
+- TOP 38.9: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Erhöhung der Finanzhilfen für Düsseldorfer Unternehmen und sonstige Institutionen aufgrund der Auswirkungen des Corona-Virus für bis zu 20 weitere Unternehmen um maximal 100.000 EUR - einstimmig beschlossen
+- TOP 39: Anträge
+- TOP 39.1: Antrag der CDU-Ratsfraktion: Für eine kulturelle Nachnutzung des Hofgärtnerhauses
+- TOP 39.2: Antrag der CDU-Ratsfraktion: Verlegung Abstellbahnhof Düsseldorf untersuchen
+- TOP 39.3: Antrag der Ratsfraktionen von FDP und Bündnis 90/Die Grünen: Brand im Krefelder Zoo - vertagt
+- TOP 39.4: Antrag der Ratsfraktionen von Bündnis 90/Die Grünen, SPD und FDP: Aufnahme alleinreisender geflüchteter Kinder aus Flüchtlingslagern in Griechenland
+- TOP 39.4.1: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage RAT/036/2020: Aufnahme alleinreisender geflüchteter Kinder aus Flüchtlingslagern in Griechenland
+- TOP 39.5: Antrag der Ratsfraktionen von Bündnis 90/Die Grünen, SPD und FDP: Ateliers und Atelierwohnungen
+- TOP 39.5.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage RAT/037/2020: Ateliers und Atelierwohnungen
+- TOP 39.6: Antrag der Ratsfraktionen von Bündnis 90/Die Grünen und FDP: Verkehrserschließung großer Gewerbebauprojekte - vertagt
+- TOP 39.6.1: Änderungsantrag der Ratsfraktionen von SPD, Bündnis 90/Die Grünen und FDP zur Vorlage RAT/038/2020: Verkehrserschließung großer Gewerbeprojekte - vertagt
+- TOP 39.7: Antrag der CDU-Ratsfraktion: Wenn nicht jetzt, wann dann? Endlich mehr Sauberkeit in der Stadt! - vertagt
+- TOP 39.8: Antrag der Ratsfraktion Die Linke: Förderung der Anschaffung von Lastenfahrrädern
+- TOP 39.8.1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage RAT/076/2020: Förderung der Anschaffung von Lastenfahrrädern
+- TOP 39.9: Antrag der Ratsfraktion Die Linke: Kein Verkauf von Gut Niederheid - Erarbeitung eines gemeinsamen Konzepts zur Weiterführung und Ausbau der Angebote
+- TOP 39.10: Antrag der CDU-Ratsfraktion: Düsseldorfer Bildungseinrichtungen brauchen dringend bessere hygienische Bedingungen
+- TOP 39.11: Antrag der CDU-Ratsfraktion: Konzept für die Nachnutzung der Räume der Zentralbibliothek am Bertha-von-Suttner-Platz
+- TOP 39.12: Antrag der CDU-Ratsfraktionen: Interaktives Zeitzeugen-Projekt zum Holocaust nach Düsseldorf holen
+- TOP 39.13: Antrag der CDU-Ratsfraktion: Städtische Hilfen für durch das Corona-Virus verursachte wirtschaftliche Ausfälle bei Düsseldorfer Unternehmen, Kulturinstituten und Vereinen
+- TOP 39.14: Antrag der CDU-Ratsfraktion: Wohnraumschutzsatzung zielgenauer machen – soziale Einrichtungen unterstützen
+- TOP 39.15: Antrag der CDU-Ratsfraktion: Urban Gardening in KiTa, Schule und Jugendeinrichtungen
+- TOP 39.15.1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage RAT/126/2020: Urban Gardening in KiTa, Schule und Jugendeinrichtungen
+- TOP 39.16: Antrag der Ratsfraktion Die Linke: Honorarauszahlung an selbständige MitarbeiterInnen der Volkshochschule
+- TOP 39.16.1: Änderungsantrag der Ratsfraktion von Bündnis 90/Die Grünen zur Vorlage RAT/129/2020: Honorarauszahlung an selbständige MitarbeiterInnen der Volkshochschule
+- TOP 39.17: Antrag der Ratsfraktion Die Linke: Dringliche Änderung der Wohnraumschutzsatzung
+- TOP 39.18: Antrag der CDU-Ratsfraktion: „Die Große 2020“ – Forderung nach einer Online-Präsentation mit Verkaufsmöglichkeit der Kunstwerke in diesem Jahr und auch in Zukunft parallel zum bisherigen Veranstaltungsmodell - vertagt
+- TOP 39.19: Antrag der Ratsfraktion Die Linke: Bau der U81 stoppen - mehrheitlich abgelehnt
+- TOP 39.20: Antrag der Ratsfraktion Die Linke: Planungen zur Erweiterung des Flughafens stoppen
+- TOP 39.21: Antrag der Ratsfraktion Die Linke: Neufassung von §10 Inkrafttreten, Außerkrafttreten der Wohnraumschutzsatzung der Landeshauptstadt Düsseldorf
+- TOP 39.22: Antrag der Ratsfraktion Die Linke: Schulbegleitung
+- TOP 39.22.1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage RAT/145/2020: Schulbegleitung
+- TOP 39.23: Antrag der CDU-Ratsfraktion: Unentgeltliche Erweiterung von Terrassenflächen für Gastronomie
+- TOP 39.24: Antrag der CDU-Ratsfraktion: Reduzierung der Erbpachtzinsen für Kultureinrichtungen
+- TOP 39.25: Antrag der FDP-Ratsfraktion: summer school anbieten
+- TOP 39.25.1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage RAT/165/2020: summer school anbieten
+- TOP 39.26: Antrag der Ratsfraktion von Bündnis 90/Die Grünen und FDP: Solidarität der Städtepartnerschaften und -freundschaften in und nach der Corona-Pandemie
+- TOP 39.26.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/154/2020: Solidarität der Städtepartnerschaften und -freundschaften in und nach der Corona-Pandemie
+- TOP 39.27: Antrag der Ratsfraktion von Bündnis 90/Die Grünen und FDP: Kinder, Jugendliche und Familien entlasten: mehr Platz und Angebote im Sommer
+- TOP 39.27.1: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage RAT/156/2020: Kinder, Jugendliche und Familien entlasten: mehr Platz und Angebote im Sommer
+- TOP 39.28: Antrag der Ratsfraktion von Bündnis90/Die Grünen, SPD und FDP: Abstand halten – Begegnungen ermöglichen
+- TOP 39.29: Antrag der CDU-Ratsfraktion: Sonderbusse einsetzen für den Schülertransport
+- TOP 40: Corona- Härtefallfonds - einstimmig beschlossen
+- TOP 41: Durchführung zusätzlicher Corona-Tests bei Menschen, die Umgang mit Risikogruppen haben - zur Kenntnis genommen
+- TOP 42: Einkünfte aus Nebentätigkeiten im Jahr 2019 für Oberbürgermeister Thomas Geisel
+- TOP 43: Auswirkungen des Corona-Virus auf den städtischen Haushalt - Vorlage zu § 25 KomHVO - Berichtspflicht und Kommunalschutzpaket - zur Kenntnis genommen
