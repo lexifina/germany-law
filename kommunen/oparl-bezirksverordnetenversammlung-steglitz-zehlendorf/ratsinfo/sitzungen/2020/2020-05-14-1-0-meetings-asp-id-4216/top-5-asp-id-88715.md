@@ -1,0 +1,7 @@
+# TOP 5: Bericht aus dem Bezirksamt
+
+- Sitzung: 30. öffentliche Sitzung des Ausschusses für Pflege, Soziales und Senioren (2020-05-14)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=88715
+- Ergebnis: erledigt
