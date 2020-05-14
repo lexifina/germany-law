@@ -1,0 +1,7 @@
+# TOP 5: Aktueller Stand Jugendfördergesetz hinsichtlich der Veränderungen in den Planungen der Neuköllner Träger und des Bezirksamtes zu den Jugendfreizeitmaßnahmen 2020
+
+- Sitzung: 43. öffentliche Sitzung des Jugendhilfeausschusses (2020-05-14)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=35268
+- Ergebnis: erledigt
