@@ -1,0 +1,135 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-05-14T15:09:00+02:00
+- Ende: 2020-05-14T18:49:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2396
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2396
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00105125.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00105125.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00105125.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Bürgeranträge nach § 24 GO NRW
+- TOP 2.1: Bürgerantrag gem. § 24 GO NRW, Internetsuchmaschine - einstimmig
+- TOP 2.2: Bürgeranträge nach § 24 GO NW - mehrheitlich bei
+- TOP 3: Streetworker - einstimmig
+- TOP 4: Errichtung 3. GE - einstimmig
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: Info Dringlichkeitsentscheidung 34. FNP Änd.
+- TOP 5.2: Wärmeversorgung von Neubaugebieten (Antrag Nr. 51/2020) Dringlichkeitsentscheidung
+- TOP 5.3: Aussetzung der Elternbeiträge für April 2020 für den Besuch von Tageseinrichtungen für Kinder, Kinde
+- TOP 5.4: Genehmigung DE Elternbeiträge Mai
+- TOP 6: Berichterstattung
+- TOP 6.1: Finanzen
+- TOP 6.1.1: Anfragen/ Mittelveränderungen gem. HFDA vom 21.11.2019
+- TOP 6.1.2: Bekanntgabe der über- und außerplanmäßigen Mittelbereitstellungen vom 08.01.2019 bis 27.02.2020
+- TOP 6.2: Feuerschutz
+- TOP 6.3: Soziales
+- TOP 7: Bekanntgabe der Entwicklungen des Haushaltes 2020 mit besonderer Betrachtung der Auswirkungen aufgrund der Maßnahmen zum Corona- Virus
+- TOP 8: Haushaltssatzung 2020 - mehrheitlich abgelehnt
+- TOP 8.1: Haushaltssatzung 2020
+- TOP 9: Änderung der Wahlordnung zur Integrationsratswahl - einstimmig
+- TOP 10: Beratungspunkte aus dem Planungsausschuss
+- TOP 10.1: 25. FNP Änd. ern. Aufstellung + frühz. B.Bet. - einstimmig
+- TOP 10.2: G 221 Aufstellung und frühz. Beteiligung - einstimmig
+- TOP 10.3: 32. FNP Änd - frühz. Bürgerbet - einstimmig
+- TOP 10.4: Gu 38 Aufstellung + frühz. Bet. - einstimmig
+- TOP 10.5: 34. FNP Änderung - frühz. Bet. - einstimmig
+- TOP 10.6: K 34 - erneute Auslegung - einstimmig
+- TOP 10.7: W 54 - frühz. Öffentlichkeitsbeteiligung - einstimmig
+- TOP 10.8: ISEK - Konkretisierung Gestaltungsplan - einstimmig
+- TOP 10.9: Regelmäßigen Informationen aus Beratungen Strukturwandel (Antrag Nr. 172/18)
+- TOP 10.10: 360° Panoramabilder
+- TOP 11: Beratungspunkte JHA
+- TOP 11.1: Übernahme Trägeranteil St. Clemens Kapellen - einstimmig
+- TOP 11.2: Übernahme Trägeranteile Kerbelweg Kapellen - einstimmig
+- TOP 11.3: Übernahme Trägeranteil Lebenshilfe - einstimmig
+- TOP 11.4: Übernahme Trägeranteil Pari Sozial und Deutschorden - einstimmig
+- TOP 12: Beratungspunkte BauA
+- TOP 12.1: Aufhebung Haltverbots Torbogen
+- TOP 12.2: Anwohnerparkzone Schillerstraße - einstimmig
+- TOP 12.3: Abbau von Pollern auf Radwegen
+- TOP 12.4: Durchfahrtsverbot Hoeninger Straße Barrenstein - mehrheitlich bei
+- TOP 12.5: Fußgängerampeln nachrüsten - Kenntnisnahme
+- TOP 12.6: Sperrfläche Am Burgturm - mehrheitlich bei
+- TOP 12.7: Umgesteltung Platz Schubertstraße - Kenntnisnahme
+- TOP 12.8: Austausch der „Tempo-30“ Schilder in Digitale Verkehrszeichen auf der Rheydter Straße - Kenntnisnahme
+- TOP 12.9: Baugebiet G 215 - Kenntnisnahme
+- TOP 12.10: Versetzung Wartehallen - Kenntnisnahme
+- TOP 12.11: Abbau von öffentlichen Fernsprecherstandorten - einstimmig
+- TOP 12.12: Verkehrslagebericht - Kenntnisnahme
+- TOP 12.13: Geschwindigkeitswarntafeln - Kenntnisnahme
+- TOP 12.14: Mitteilungen der Verwaltung - Kenntnisnahme
+- TOP 13: Beratungspunkte UmweltA
+- TOP 13.1: Rasenurnengräber
+- TOP 13.2: Baumschutzsatzung
+- TOP 13.3: Mitteilungen der Verwaltung zu Angelegenheiten des Umweltausschusses
+- TOP 14: Beantwortung Anträge/Anfragen
+- TOP 14.1: Gigawatt Pakt - Kenntnisnahme
+- TOP 14.2: Übernahme der Bearbeitung von Reisekosten vom Rhein-Kreis Neuss prüfen - Kenntnisnahme
+- TOP 14.3: Übernahme der Beihilfebearbeitung vom Rhein-Kreis Neuss prüfen - Kenntnisnahme
+- TOP 14.4: Privatisierung der Kantine - Kenntnisnahme
+- TOP 14.5: Digitalisierungsstrategie 20-30
+- TOP 14.6: Musical Nacht - Kenntnisnahme
+- TOP 14.7: Schlossstadion (Anfrage Nr. 259/2019) - Kenntnisnahme
+- TOP 14.8: Privatisierung Verkehrsüberwachung (Anfrage Nr. 14/2020) - Kenntnisnahme
+- TOP 14.9: Sachstand zur Umsetzung Goldene Buch digitalisieren (Antrag Nr. 120/19) - Kenntnisnahme
+- TOP 14.10: hier Beantwortung: Social-Media-Aktivitäten der Stadtverwaltung Grevenbroich (Anfrage Nr. 06/2020) - Kenntnisnahme
+- TOP 14.11: Sammelbeantwortung - Kenntnisnahme
+- TOP 15: Schriftliche Anträge
+- TOP 15.1: Anträge der CDU-Fraktion
+- TOP 15.1.1: Aussetzung der Nutzungsgebühren für außengastronomische Angebote (Antrag Nr. 59/2020) - einstimmig
+- TOP 15.2: Anträge der SPD-Fraktion
+- TOP 15.2.1: Modulare Entwicklung des Baugebietes (Antrag Nr. 48/2020) - einstimmig
+- TOP 15.2.2: Kita-Beiträge aussetzen (Antrag Nr. 56/2020)
+- TOP 15.2.3: Kreisverkehr Frimmersdorf (Antrag Nr. 49/2020)
+- TOP 15.2.4: Vereine und Verbände bei Mietzahlungen unterstützen (Antrag Nr. 63/2020) - einstimmig
+- TOP 15.3: Anträge der UWG-Fraktion
+- TOP 15.3.1: Ausschussumbesetzungen (Antrag Nr. 32/2020) - einstimmig
+- TOP 15.3.2: Ausschussumbesetzung (Antrag Nr. 32/2020) - einstimmig
+- TOP 15.4: Anträge der FDP-Fraktion
+- TOP 15.4.1: Neustart für Carsharing in Grevenbroich (Antrag Nr. 43/2020) - einstimmig
+- TOP 15.4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.4.3: Chancen in der Krise nutzen (Antrag Nr. 52/2020)
+- TOP 15.4.4: Schnellstmögliche Öffnung des Schloßbades (Antrag Nr. 67/2020)
+- TOP 15.5: Anträge B90/Grüne
+- TOP 15.5.1: Digitalisierung der Stadtbücherei (Antrag Nr. 60/2020) - einstimmig
+- TOP 15.5.2: Aufnahme von unbegleiteten Flüchtlingen (Antrag Nr. 62/2020) - einstimmig
+- TOP 15.6: Anträge der Fraktion Mein Grevenbroich
+- TOP 15.6.1: Notfallplan zur Unterstützung der örtlichen Gastronomie- und Hotelbetriebe (Antrag Nr. 66/2020) - einstimmig
+- TOP 15.7: Anträge der Fraktion DIE LINKE
+- TOP 15.7.1: Bahnhaltepunkt Noithausen (Antrag Nr. 45/2020) - einstimmig
+- TOP 15.7.2: Förderung des sozialen Wohnungsbaus (Antrag Nr. 46/2020) - einstimmig
+- TOP 15.7.3: Wegen Corona erstrecht: Schutzschirm für die Kommunen aufspannen! (Antrag Nr. 65/2020)
+- TOP 16: Schriftliche Anfragen von Fraktionen und Ausschussmitgliedern
+- TOP 16.1: Anfragen der CDU-Fraktion
+- TOP 16.2: Anfragen der SPD-Fraktion
+- TOP 16.3: Anfragen der UWG-Fraktion
+- TOP 16.3.1: Batteriefabrik GigaFactory
+- TOP 16.3.2: Information zu der aktuellen Kostensituation (Anfrage Nr. 61/2020)
+- TOP 16.4: Anfragen der FDP-Fraktion
+- TOP 16.5: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 16.5.1: Ausbau Home-Office, Sachstand und Perspektive (Anfrage Nr. 64/2020)
+- TOP 16.6: Anfragen der Fraktion Mein Grevenbroich
+- TOP 16.7: Anfragen der Fraktion DIE LINKE
+- TOP 16.7.1: Wohnungsbaugesellschaft
+- TOP 16.7.2: Wohnungen Südstadt
+- TOP 16.7.3: Sportler/innen und ihre Vereine brauchen eine Perspektive (Anfrage Nr. 58/2020)
+- TOP 17: Mündliche Anträge und Anfragen von Fraktionen und Ausschussmitgliedern
+- TOP 17.1: Kreisverkehr Frimmersdorf, Antrag vom 11.02.2020 (Antrag Nr. 69/2020)
+- TOP 17.2: Werbung im Kreisverkehr auf der Grevenbroicher Straße in Wevelinghoven (Anfrage Nr. 70/2020)
+- TOP 17.3: Einsatz von Geschwindigkeitswarntafeln, Top 12.13 (Anfrage Nr. 71/2020)
+- TOP 17.4: Dechant-Schütz-Straße (Anfrage Nr. 72/2020)
+- TOP 17.5: Altenpark in Neurath (Anfrage Nr. 73/2020)
+- TOP 17.6: Tennisvereine (Anfrage Nr. 74/2020)
+- TOP 17.7: Strategischer Bahndamm (Anfrage Nr. 75/2020)
+- TOP 17.8: Einsatz von Umweltpapier (Anfrage Nr. 76/2020)
+- TOP 17.9: Werbeseiten des Rhein-Kreises Neuss (Anfrage Nr. 77/2020)
+- TOP 18: Mitteilungen des Bürgermeisters
