@@ -1,0 +1,104 @@
+# 34. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-05-14T16:30:00+02:00
+- Ende: 2020-05-14T22:06:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5667
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5667
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=332552
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - gegenstandslos
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-34 und VIII-35 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Internetauftritt des Bürgerhauses Altglienicke grundlegend verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Kosten-Leistungsrechnung im Kulturbereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Sicher mit Rad: Fahrradparkhäuser an den S-Bahnhöfen Adlershof, Friedrichshagen und Köpenick errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Umgestaltung des Gesamtensembles aus Bohnsdorfer Dorfanger und Dorfkirche - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Verkehrsanbindung des Stadions An der Alten Försterei verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Bedarfsfußgängerampel Bulgarische Straße / Erwin-Bennewitz-Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Eisenhutweg erschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Anleger für Fähre am Spreetunnel in Friedrichshagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Linksabbiegerampel von der Bellevuestraße in den Fürstenwalder Damm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.10: Umbau Kreuzung Südostallee / Rixdorfer Straße / Kiefholzstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.11: Einrichtung einer Bushaltestelle in Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.12: Begrünte Wartehäuschen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.13: Erinnerung 30 Jahre frei gewählte Bezirksverordnetenversammlungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Ruine in der Siriusstraße (Altglienicke) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Fahlenbergbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Umfeld der Kindertagesstätten sicherer gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Sondermittel für den Verein Interessengemeinschaft Dörpfeldstraße e. V. (SM 16-26) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Schöner Fahrradparken - überwiesen
+- TOP 7.2.6: Verkehrsführung Rudower Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Evaluation der Einnahmeziele des Maßnahmeplans Weiterbildung und Kultur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Pedelecs für die Fahrradstaffel des Allgemeinen Ordnungsdienstes (AOD) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Barrierefreie Neugestaltung des Vorplatzes am S-Bahnhof Friedrichshagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Illegalen Schrotthandel in Karolinenhof unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Fehlende Ressourcen für bezirkliche Fraueninfrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Zentrales Baustellenverzeichnis für Treptow-Köpenick anlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Verkehrssicherheit am Waldfriedhof Müggelheim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Sondermittel für den Verein "Seesportclub Berlin-Grünau e. V." (SM 19-17) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Kontrolle des Hundeauslaufs an Badestellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.16: Fuß- und Radverkehrsbrücke über die Dahme zwischen Wendenschloß und Grünau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.17: Gemeinschaftsschulstandort in Plänterwald stärken und ISS-Standort schaffen - überwiesen
+- TOP 7.2.18: Gründung einer Integrierten Sekundarschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Schule - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Aufhebung der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 BauGB für das Gebiet "Alt-Treptow" im Bezirk Treptow-Köpenick von Berlin vom 24.06.2016 (GVBI., 72. Jahrgang, Nr. 18 vom 08.07.2016,S.413) und Neuerlass der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 BauGB für das Gebiet "Alt-Treptow" im Bezirk Treptow-Köpenick von Berlin mit neuem Geltungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für den Verein "Köpenicker HauptmannGarde e. V." (SM 20-01) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den "Ortsverein Grünau e. V." (SM 20-12) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Kreditkarten in Bürgerämtern ermöglichen - in der BVV abgelehnt
+- TOP 12.2: "BerlKönig" für Treptow-Köpenick ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicheres Radfahren entlang der Bundesstraße B96a - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Geschwindigkeitsbegrenzung in der Straße "Hinter dem Kurpark" - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Leihfahrräder und Leih-E-Roller nur stationsgebunden oder in GPS-Parkzonen zulassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Gesamte Verkehrssituation in Köpenick beim Abriss und Neubau der Langen Brücke berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Wegsanierung am Landwehrkanal - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fairtrade-Town mit fairen Mäusen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Vorhabenbezogener Bebauungsplan 9-74 VE ("BVG Betriebshof") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Neueinrichtung der Abteilung II 5 (Erdreihengräber) auf dem städtischen Friedhof Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Vorhabenbezogener Bebauungsplan 9-2-1 VE ("Music Factory") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bezirkliche Unternehmen und Beschäftigung in Pandemiezeiten unterstützen (I) - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Videosprechstunden und kontaktloses Bezahlen anbieten - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Neubau einer Brücke für den allgemeinen Straßenverkehr von der Ewaldstraße in Altglienicke zur Paradiesstraße in Bohnsdorf zwecks Anschlusses des Ortsteils Altglienicke an die B 96a - überwiesen
+- TOP 14.4: Beleuchtung der Einmündung Rabindranath-Tagore-Straße in das Adlergestell - überwiesen
+- TOP 14.5: Temporäre Spielstraßen an Sonn- und Feiertagen öffnen - mit Änderungen in der BVV beschlossen
+- TOP 14.6: Vorübergehende Nutzung des Gebäudes in der Willi-Sänger-Straße durch die Sophie-Brahe-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Bezirkliche Unternehmen und Beschäftigung in Pandemiezeiten unterstützen (II) - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Förderung der Sprachkenntnisse - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Informationszentrum zum 17. Juni 1953 am ehemaligen "Funkwerk" errichten - überwiesen
+- TOP 14.10: Corona-Drive-In für Treptow-Köpenick - in der BVV abgelehnt
+- TOP 14.11: Temporäre zusätzliche Fahrradspuren für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Autokino in Treptow-Köpenick ermöglichen - in der BVV abgelehnt
+- TOP 14.13: Öffnungsstufenplan für Kita und Schule unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 14.14: Keine Kürzungen im Bereich der sozialen Infrastruktur - überwiesen
+- TOP 14.15: Bereitstellung von Hand-Desinfektionsmitteln an Schulen - in der BVV abgelehnt
+- TOP 14.16: Überschwemmung der Lindenstraße in Bohnsdorf bei Starkregen verhindern - überwiesen
+- TOP 14.17: Dammweg begrünen - überwiesen
+- TOP 14.18: Einheitliche Verfahrensweise bei Covid-19 durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Vermehrte Kontrollen des Ordnungsamtes in Niederschöneweide - überwiesen
+- TOP 14.20: Unterstützung für Träger der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Mehr Angebote für Kinder und Jugendliche auf dem Entwicklungsgebiet des ehemaligen Güterbahnhofs Köpenick verankern - überwiesen
+- TOP 14.22: Für mehr Freude am Autofahren: Umnutzung von Fahrspuren für den Radverkehr verhindern - in der BVV abgelehnt
+- TOP 14.23: Ausbildungsplätze sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: Maßgabebeschluss zur Aufhebung der qualifizierten Haushaltssperre im Titel für Tarifbeschäftigte des Ordnungsamtes - ohne Änderungen in der BVV beschlossen
+- TOP 14.25: Ostendstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
