@@ -1,0 +1,113 @@
+# 59. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-14T15:35:00+02:00
+- Ende: 2020-05-14T18:49:00+02:00
+- Ort: Gürzenich, Großer Saal, Martinstraße 29-37, 50667 Köln INFEKTIONSSCHUTZ: Aufgrund der Mindeststabstände stehen weniger Plätze für Gremienmitglieder und Öffentlichkeit zur Verfügung.  Bitte melden Sie sich unbedingt vorab bei der Schriftführung an!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21498
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21498
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Version Umduck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772156.pdf
+- Ergebnisprotokoll: Tagesordnung Rat - Version Umduck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772156.pdf
+- Wortprotokoll: Tagesordnung Rat - Version Umduck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772156.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke., FDP, der Gruppe GUT, von RM Wortmann (Freie Wähler Köln) und von RM Gerlach betreffend "Aktuelle Stunde zur Kölner Situation mit SARS-CoV-2" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme einer Schenkung indischer Miniaturmalereien (Sammlung Prof. Dr. Ludwig Habighorst) - ungeändert beschlossen
+- TOP 2.2: Annahme einer Schenkung von Fotografien der Künstlerin Walde Huth für das Museum Ludwig - ungeändert beschlossen
+- TOP 2.3: Annahme einer Schenkung des Kunstwerkes Untitled, 2017 von Wade Guyton für das Museum Ludwig - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT betreffend "2. Maßnahmenpaket für Schulbauprojekte" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 3.1.2: Antrag der SPD-Fraktion betreffend "Kölner Stadtteile auch digital stärken - Digitale Veedel mit vielfältigen Angeboten und Services entwickeln" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag der FDP-Fraktion - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.3: Antrag der Fraktion Die Linke. und von RM Gerlach betreffend "Schaffung eines Kölner Klimarates" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag der Fraktionen SPD, Die Linke. und von RM Gerlach - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.4: Antrag der AfD-Fraktion betreffen "Resolution: Finanzielle Handlungsfähigkeit der Stadt sichern – Ausgaben unter Finanzierungsvorbehalt stellen, Unterstützungszahlungen an Bedingungen knüpfen" - endgültig abgelehnt
+- TOP 3.1.5: Antrag der AfD-Fraktion betreffend "Kölner Hotellerie von den Folgen der Corona-Krise entlasten, „Kulturförderabgabe“ aussetzen!" - endgültig abgelehnt
+- TOP 3.1.6: Antrag der AfD-Fraktion betreffend "Köln darf keine Tempo-30-Zone werden! Nein zum autofeindlichen Vorstoß der Oberbürgermeisterin" - endgültig abgelehnt
+- TOP 3.1.7: Dringlichkeitsantrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT betreffend "Kinder- und Jugendfreizeiten im Sommer 2020 sichern" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 3.1.8: Dringlichkeitsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke., FDP und der Gruppe GUT und RM Gerlach betreffend "Unterstützung von LGBTI in Katowice" - ungeändert beschlossen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Gruppe GUT betreffend "Straßenverkehr – mit Abstand am sichersten" - zurückgestellt
+- TOP 4.2: Anfrage der Gruppe GUT betreffend "Schulunterricht in der Corona-Krise" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 14.05.2020 - Kenntnis genommen
+- TOP 4.3: Anfrage der AfD-Fraktion betreffend "Zweitwohnsteuer in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 14.05.2020 - Kenntnis genommen
+- TOP 4.4: Anfrage der AfD-Fraktion betreffend "Demokratieförder- bzw. Extremismuspräventionsprogramme" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 14.05.2020 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4.1: Ächtung des N*Wortes - geändert beschlossen
+- TOP 5.4.2: Anregung des Integrationsrates für die Integrationsratswahlen 2020 - zurückgestellt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Änderung der Entgelt- und Benutzungsordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 6.4.1: Wahlordnung Integrationsratswahlen 2020 - ungeändert beschlossen
+- TOP 6.4.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen,-auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhung nach § 25 Abs. 2 KommHVO
+- TOP 7.2.1: Ökologische Revitalisierung Westerwaldstraße - Kenntnis genommen
+- TOP 7.2.2: Finanzielle Auswirkungen der Corona-Pandemie - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Besondere Regelung zur "Straßenmusik im Domumfeld" - zurückgestellt
+- TOP 10.2: Bedarfsplanung vom Amt für Wohnungswesen für neu anzumietende Objekte gem. § 5 Abs. 2 a der Zuständigkeitsverordnung der Stadt Köln vom 13.12.2019 - zurückgestellt
+- TOP 10.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o. Nr., 50765 Köln-Blumenberg, Gemarkung Worringen, Flur 50, Flurstück 1872 tlw. - ungeändert beschlossen
+- TOP 10.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - ungeändert beschlossen
+- TOP 10.5: GAG Immobilien AG: Satzungsänderung; GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - zurückgestellt
+- TOP 10.6: Überörtliche Prüfung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 10.7: Zweckverband Erholungsgebiet Stöckheimer Hof/Änderung der Verbandssatzung - ungeändert beschlossen
+- TOP 10.8: Ermächtigungsübertragung in das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 10.9: Verteilung der Mittel zur Förderung von neuen Interkulturellen Zentren und die Verwendung des übergreifenden Budgets für Interkulturelle Zentren Köln für das Haushaltsjahr 2020 - zurückgestellt
+- TOP 10.10: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): - ungeändert beschlossen
+- TOP 10.11: Entwurf des Jahresabschlusses 2019 - ungeändert beschlossen
+- TOP 10.12: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert beschlossen
+- TOP 10.13: Erneuerung der Eisenbahnüberführungen Innere Kanalstraße (S-Bahnbrücke) in Köln-Nippes - ungeändert beschlossen
+- TOP 10.14: Erweiterung der Gesamtschule Rodenkirchen, Sürther Straße 191, 50999 Köln – Bau- und Vergabebeschluss - ungeändert beschlossen
+- TOP 10.15: Mietzuschuss an die Kölnische Gesellschaft für christlich-jüdische Zusammenarbeit e. V., Haushaltsjahr 2020ff - ungeändert beschlossen
+- TOP 10.16: Feststellung des Jahresabschlusses zum 31.08.2017 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.17: Feststellung des Jahresabschlusses zum 31.08.2018 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.18: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2020/21 - ungeändert beschlossen
+- TOP 10.19: Sanierung der Fensteranlage im Museum für Angewandte Kunst Köln, hier: Fortführung der Maßnahme - ungeändert beschlossen
+- TOP 10.20: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion - zurückgestellt
+- TOP 10.21: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2019 - ungeändert beschlossen
+- TOP 10.22: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln); Jahresabschluss 2019 - ungeändert beschlossen
+- TOP 10.23: Übertragung der Federführung für die Stadtbahnanbindung von Mülheim über Stammheim bis Flittard an die Kölner Verkehrs-Betriebe AG - ungeändert beschlossen
+- TOP 10.24: Erneuerung der Deckenaufbauten und Sanierung des Küchenbereiches im Museum Ludwig/Philharmonie - Baubeschluss - ungeändert beschlossen
+- TOP 10.25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.27: Struktursichernde Maßnahme und Weiterentwicklung/Neuaufstellung des Literaturfestivals 2020/2021 - geändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 11.1: 215. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: „Universitätsklinik zu Köln, Baufeld West“ in Köln-Lindenthal hier: Feststellungsbeschluss - ungeändert beschlossen
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74440/02 Arbeitstitel: Rather See in Köln – Rath / Heumar - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, Die Linke. und der Gruppe GUT - endgültig abgelehnt
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 17: Wahlen
+- TOP 17.1: Veranstaltergemeinschaft Radio Köln e.V. - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 18.1: Notfallfonds zur Struktursicherung bei durch die Corona-Pandemie betroffenen Livemusikspielstätten in Köln - ungeändert beschlossen
+- TOP 18.2: Erstattung von Elternbeiträgen und Essensgeld wegen weiterer Corona-bedingter Schließung - ungeändert beschlossen
+- TOP 18.3: Erstattung von Elternbeiträgen und Essensgeld wegen Corona-bedingter Schließung von Kindertagesbetreuungen - ungeändert beschlossen
+- TOP 19: -
