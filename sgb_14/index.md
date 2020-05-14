@@ -76,6 +76,7 @@
 
 ### Abschnitt 4 (zukünftig in Kraft)
 
+- [(XXXX) §§ 60 und 61 (zukünftig in Kraft)](xxxx-60-und-61.md)
 
 ## Kapitel 6 (zukünftig in Kraft)
 
@@ -134,10 +135,10 @@
 
 ## Kapitel 14 (zukünftig in Kraft)
 
+- [§ 101 (zukünftig in Kraft)](0101.md)
 
 ## Kapitel 15 (zukünftig in Kraft)
 
-- [§ 101 (zukünftig in Kraft)](0101.md)
 - [(XXXX) §§ 102 bis 104 (zukünftig in Kraft)](xxxx-102-bis-104.md)
 
 ## Kapitel 16 (zukünftig in Kraft)
@@ -161,6 +162,7 @@
 ### Abschnitt 2 (zukünftig in Kraft)
 
 - [(XXXX) §§ 115 und 116 (zukünftig in Kraft)](xxxx-115-und-116.md)
+- [(XXXX) §§ 117 bis 119 (zukünftig in Kraft)](xxxx-117-bis-119.md)
 
 ### Abschnitt 3 (zukünftig in Kraft)
 
