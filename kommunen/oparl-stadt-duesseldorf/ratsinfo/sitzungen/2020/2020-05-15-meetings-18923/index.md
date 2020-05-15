@@ -1,0 +1,84 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-15T14:00:00+02:00
+- Ende: 2020-05-15T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18923
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18923
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377397.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377397.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377397.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 28.02.2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Genehmigung eines Dringlichkeitsbeschlusses - Barrierefreier Haltestellenumbau Nordstraße - einstimmig beschlossen
+- TOP 4.2: Genehmigung eines Dringlichkeitsbeschlusses - „Design Classic Düsseldorf 2020„ in der Verkaufshalle des Blumengroßmarktes am Sonntag, dem 29.11.2020 - einstimmig beschlossen
+- TOP 4.3: Genehmigung eines Dringlichkeitsbeschlusses - Handwerker- und Bauernmarkt auf dem Frankenplatz im Jahre 2020 - einstimmig beschlossen
+- TOP 4.4: Genehmigung eines Dringlichkeitsbeschlusses - Veranstaltungen Burgplatz - Nachmeldungen Jahresprogramm 2020 - einstimmig beschlossen
+- TOP 4.5: Genehmigung eines Dringlichkeitsbeschlusses - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2020 - einstimmig beschlossen
+- TOP 4.6: Genehmigung des Dringlichkeitsbeschlusses - Gestaltungsmaßnahmen Rochusmarkt - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Reduktion der Betriebsstörungen an Stadt- und Straßenbahnlinien durch die Reduktion von Falschparkern – Pilotstrecke Derendorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 4.11: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - vertagt
+- TOP 4.12: Vier Raumbilder für das Raumwerk D - vertagt
+- TOP 4.13: Südlich Haroldstraße -Durchführung des städtebaulichen Wettbewerbs Südlich Haroldstraße - Empfehlung einstimmig beschlossen
+- TOP 4.14: Bebauungsplan-Vorentwurf Nr. 01/016 Konrad-Adenauer-Platz - Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 4.15: Bebauungsplan-Vorentwurf Nr. 01/017 - Schwannstraße 3 und Kennedydamm 55 - Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 4.16: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2020 - einstimmig beschlossen
+- TOP 4.17: Blaugrüner Ring - Bestätigung des Wettbewerbsergebnisses - Grundsatzbeschluss zum weiteren Vorgehen - vertagt
+- TOP 4.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.20: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - einstimmig beschlossen
+- TOP 4.21: Workshop Westlich Kennedydamm - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Radverkehrsverbindung Hofgarten – Königsallee - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 5.2: Lärmreduzierung auf der Sternstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Erneute Anfrage Sanierung der Maxschule - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Verbesserung der Beschilderung der Toulouser Allee - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.4: Optische Aufwertung der Fassade und der Flächen an und um die Kunsthalle - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.5: Umsetzung der Neugestaltung der Grünfläche Ulmenstraße/Rheinbabenstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.6: Lärmreduzierung auf der Roßstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Mensa des Görres-Gymnasiums - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Smart Learning an Düsseldorfer Schulen im Stadtbezirk 1 - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 7.2: Schutz der Baumscheiben im Bezirk 1 der Landeshauptstadt Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 7.3: Verbesserung der Situation für Radfahrer*innen und Fußgänger*innen im Kreuzungsbereich von Bagelstraße und Derendorfer Straße - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 7.4: Wiederherstellung der Fahrbahnmarkierung inklusive farblicher Ausfüllung der Aufstellfläche - Bagelstraße - Antrag der Fraktion Bündnis90/Die Grünen - abweichend beschlossen
+- TOP 7.5: Abfallbehälter auf dem Frankenplatz dem Bedarf anpassen - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 7.6: Aufstellflächen für Zulieferfirmen im Quartier Central - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.7: Bäume für die Münsterstraße - Antrag der Fraktion Bündnis90/Die Grünen - abweichend beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Bürgersteig Ulmenstraße zwischen Spichernplatz und Saarbrücker Straße, Beschluss der Bezirksvertretung 1 vom 11.10.2019; BV1/030/2019 - zur Kenntnis genommen
+- TOP 8.3: Baumersatzpflanzung in der Römerstraße vor dem Haus Nr. 27, Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/009/2020 - zur Kenntnis genommen
+- TOP 8.4: Rechtsabbiegepfeil Am Wehrhahn/Worringer Str., Beschluss der Bezirksvertretung 1; BV1/041/2020 - zur Kenntnis genommen
+- TOP 8.5: Sauberkeit und Umgestaltung der Grünfläche Ulmen-, Glocken- und Rheinbabenstraße; Beschluss der Bezirksvertretung 1 vom 28.02.2020 - zur Kenntnis genommen
+- TOP 8.6: Standort für eine Baumpflanzung in der Verkehrsinsel Rheinbabenstraße - Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/067/2020 - zur Kenntnis genommen
+- TOP 8.7: Verdeckte Geschwindigkeitsmessung am Mannesmannufer die 3., Beschluss der Bezirksvertretung 1 vom 11.10.2019 - zur Kenntnis genommen
+- TOP 8.8: Modellversuch - Begrünte Haltestellendächer; Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/030/2020 - zur Kenntnis genommen
+- TOP 8.9: Verkehrssicherheit für Radfahrende und Fußgänger auf der Toulouser Allee (Höhe FOM); Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/077/2020 - zur Kenntnis genommen
+- TOP 8.10: Verkehrssicherheit auf der Schirmerstraße, Beschluss der Bezirksvertretung 1 vom 11.10.2019, BV1/019/2019 - zur Kenntnis genommen
+- TOP 8.11: Fahrradständer Kasernenstraße 6, Beschluss der Bezirksvertretung 1 vom 11.10.2020; BV1/039/2019 - zur Kenntnis genommen
+- TOP 8.12: Gedenkort Ulmer Höh, Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/033/2020 - zur Kenntnis genommen
+- TOP 8.13: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8.14: Ausbesserung der Wege auf dem Frankenplatz und am Schwanenmarkt, Beschluss der BV 1 vom 28.02.2020; BV1/062/2020 - zur Kenntnis genommen
+- TOP 8.15: Abkürzungsverkehr Joseph-Beuys-Ufer zur Inselstraße, Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/081/2020 - zur Kenntnis genommen
+- TOP 8.16: Verkehrssicherheit auf der Nordstraße, Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/079/2020 - zur Kenntnis genommen
+- TOP 8.17: Prüfung alternativer Standorte für die Altpapier- und Altglascontainer an der Kreuzung von Collenbachstraße und Golzheimer Straße, Beschluss der Bezirksvertretung 1 vom 28. Februar 2020; BV1/061/2020 - zur Kenntnis genommen
+- TOP 8.18: Radweg Inselstrasse, Bodenmarkierung - Beschluss der Bezirksvertretung 1 vom 24.05.2019; 171/102/2019 - zur Kenntnis genommen
+- TOP 8.19: Feuertreppe Schloß Jägerhof, Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/031/2020 - zur Kenntnis genommen
+- TOP 8.20: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2021 - zur Kenntnis genommen
