@@ -1,0 +1,70 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-15T16:00:00+02:00
+- Ende: 2020-05-15T18:31:00+02:00
+- Ort: Schloß-Gymnasium Benrath, Hospitalstraße 45, Aula Bitte beachten Sie den geänderten Sitzungsort!
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18780
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18780
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket ö - BV 9 - 15-05-2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377596.pdf
+- Ergebnisprotokoll: Sitzungspaket ö - BV 9 - 15-05-2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377596.pdf
+- Wortprotokoll: Sitzungspaket ö - BV 9 - 15-05-2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377596.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28.02.2020 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Berichterstattung über die Vorbereitung des Planfeststellungsverfahrens für das Vorhaben Rhein-Ruhr-Express (RRX) im Planfeststellungsabschnitt (PFA 2.0) Hellerhof-Reisholz hier: Sachstand Kreuzungsbauwerke Reisholz - zur Kenntnis genommen
+- TOP 6: Bebauungsplan Nr. 09/013 - D.Port/Reisholzer Hafen - Empfehlung einstimmig beschlossen
+- TOP 7: Bebauungsplan - Vorentwurf Nr. 09/019 - Briedestraße/Ecke Kappeler Straße - Empfehlung einstimmig beschlossen
+- TOP 8: Aufhebung Bebauungsplan Nr. 6170/064 - Forststraße/Hasselsstraße; Aufhebung Bebauungsplan Nr. 0+9 - Empfehlung mehrheitlich abgelehnt
+- TOP 9: Teilräumliche Aufhebung des Bebauungsplans (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9 - Empfehlung mehrheitlich abgelehnt
+- TOP 10: Bebauungsplan-Vorentwurf Nr. 09/023 - Südlich Bamberger Straße - Empfehlung mehrheitlich abgelehnt
+- TOP 11: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - zur Kenntnis genommen
+- TOP 12: Vier Raumbilder für das Raumwerk D - vertagt
+- TOP 13: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Empfehlung einstimmig beschlossen
+- TOP 14: Bezirklicher Bauunterhalt 2020, (Liste B) - abweichend beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - einstimmig beschlossen
+- TOP 16: Straßenbenennung Hans-Aring-Platz - einstimmig beschlossen
+- TOP 17: Am Köhnen- Markierung von Schrägparkständen vor Haus-Nr. 79-83 - zur Kenntnis genommen
+- TOP 18: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2020 - einstimmig beschlossen
+- TOP 19: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2020 - mehrheitlich beschlossen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 20: Abstellen von gewerblichen Fahrzeugen und behindernder Gewerbeverkehr im öffentlichen Straßenraum „Am Trippelsberg“ und an anderen Stellen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 21: Milieuschutzsatzungen im Stadtbezirk 9 - vertagt
+- TOP 22: Parkplatznot im Einzugsbereich der Harffstraße Wersten - zur Kenntnis genommen
+- TOP -: Aktuelle Anfragen
+- TOP 23: Starkregenschutz im Düsseldörfchen - zur Kenntnis genommen
+- TOP 24: Zustand des Straßenbelags am Werstener Kreuz - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 25: Sport- und Mehrzweckhalle Itterstraße - einstimmig beschlossen
+- TOP 26: Straßensanierung/Instandsetzung Musikantenviertel - einstimmig beschlossen
+- TOP 27: Kinderspielplatz im Bereich der Grünfläche südlich Benrather Schlosspark - abweichend beschlossen
+- TOP 28: Zu-und Abfahrt des Park-and-Ride Parkplatzes an der Ickerswarder Straße - abweichend beschlossen
+- TOP 29: Benennung Lilli-Marx-Straße - einstimmig beschlossen
+- TOP 30: Fußgängerquerungsstelle Forststraße/Am Wald - einstimmig beschlossen
+- TOP 31: Radfahrstreifen Benrather Schloßallee - vertagt
+- TOP 32: Fahrradzone Paulsmühle - abweichend beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung 9
+- TOP 33: Verfügungsmittel: St. Hubertus-Schützenbruderschaft e. V. Itter - "Erneuerung und Verbesserung der Sicherheitsstandards der Schießanlage" - einstimmig beschlossen
+- TOP 34: Verfügungsmittel: Kleingarten-Verein Benrath e.V. - Kindergarten im Kleingartenverein - einstimmig beschlossen
+- TOP 35: Verfügungsmittel: Mit Herz und Hand für Wersten – Don Bosco Stiftung - Aufstellung eines Defibrillators für Wersten - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 36: Fernwärmeverbund Düsseldorf-Süd - zur Kenntnis genommen
+- TOP 37: Mergelgasse und benachbarte Straßen - zur Kenntnis genommen
+- TOP 38: Schulgebäude Angerstr. 5 und Urdenbacher Allee 91 - zur Kenntnis genommen
+- TOP 39: Radfahrstreifen Hildener Straße - zur Kenntnis genommen
+- TOP 40: Erneuerung des Fahrbahnbelages der Bruchhausenstraße - zur Kenntnis genommen
+- TOP 41: Benrodestraße zwischen Görres- und Erich-Müller-Straße - zur Kenntnis genommen
+- TOP 42: Benrather Schloßufer/ Am Wasserturm/ Im Diepental - zur Kenntnis genommen
+- TOP 43: Verkehrszeichen 251 im Einmündungsbereich Harffstraße/Ohligser Straße - zur Kenntnis genommen
+- TOP 44: Beleuchtung Grünanlage Kammerrathsfeldstraße - zur Kenntnis genommen
+- TOP 45: Erweiterung der Fahrradabstellanlage Werstener Kreuz - zur Kenntnis genommen
+- TOP 46: Toilettenanlage Jugendfreizeiteinrichtung Kamper 17 - zur Kenntnis genommen
+- TOP 47: Am Trippelsberg - Protected Bike Lane zwischen Karweg und Bonner Straße mit barrierefreiem Ausbau der Bushaltestellen „Am Trippelsberg“ - Empfehlung einstimmig beschlossen
+- TOP 48: Masterplan Kinderspielplätze 2021 - zur Kenntnis genommen
