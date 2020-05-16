@@ -5,7 +5,7 @@
 | Erster Abschnitt: | Grundsätze ....................... | §§ 1 - 7 |
 | Zweiter Abschnitt: | Begriffsbestimmungen ............. | §§ 8 - 15a |
 |  |
-| Zweiter Teil: Ausgleichsabgaben (nicht veröffentlicht) | §§ 16 - 227 |
+| Zweiter Teil: Ausgleichsabgaben (nicht abgedruckt) | §§ 16 - 227 |
 |  |
 | Achter Abschnitt: |  | § 227a |
 |  |

@@ -1,3 +1,3 @@
-# (XXXX) §§ 16 bis 227
+# (XXXX) §§ 16 bis 227 (nicht abgedruckt)
 
 

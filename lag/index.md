@@ -30,7 +30,7 @@
 
 ## Zweiter Teil Ausgleichsabgaben
 
-- [(XXXX) §§ 16 bis 227](xxxx-16-bis-227.md)
+- [(XXXX) §§ 16 bis 227 (nicht abgedruckt)](xxxx-16-bis-227.md)
 
 ### Achter Abschnitt
 
