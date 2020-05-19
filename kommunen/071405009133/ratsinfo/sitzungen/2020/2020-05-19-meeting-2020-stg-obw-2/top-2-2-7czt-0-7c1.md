@@ -1,0 +1,6 @@
+# TOP 2: Neugestaltung Zehnhofplatz
+
+- Sitzung: Sitzung des Ortsbeirates Werlau der Stadt St. Goar (2020-05-19)
+- Körperschaft: Stadt Sankt Goar
+- Öffentlich: ja
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/2020-StG_OBW-2%7Czt_0%7C1
