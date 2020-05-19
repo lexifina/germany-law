@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 11 Absatz 1 und 2 in Verbindung mit Absatz 3 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799) verordnet das Bundesministerium für Arbeit und Soziales, nachdem es den in den Geltungsbereich dieser Rechtsverordnung fallenden Arbeitgebern und Arbeitnehmerinnen und Arbeitnehmern sowie den Parteien von Tarifverträgen, die zumindest teilweise in den fachlichen Geltungsbereich dieser Rechtsverordnung fallen, und paritätisch besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in der Pflegebranche festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
