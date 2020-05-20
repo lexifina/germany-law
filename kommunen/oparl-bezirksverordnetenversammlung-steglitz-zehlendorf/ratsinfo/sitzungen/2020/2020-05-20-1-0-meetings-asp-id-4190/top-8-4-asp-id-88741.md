@@ -1,0 +1,8 @@
+# TOP 8.4: Auswirkungen der Corona-Pandemie seit März 2020 in Steglitz-Zehlendorf
+
+- Sitzung: 38. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf (2020-05-20)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=88741
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=88741
