@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-05-20T18:30:00+02:00
+- Ende: 2020-05-20T00:00:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18330
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18330
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00255062.pdf
+
+## Tagesordnung
+
+- TOP 1: Controllingliste der Beschlüsse und Aufträge der Bezirksvertretung
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anfragen und Anregungen an die Verwaltung
+- TOP 4: Berichte und Mitteilungen
+- TOP 5: Jugendrat
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge von Fraktionen
+- TOP 7.1: Straßenbennenung des neuen Wohngebietes am Dönberg in "Am Sonnenhang" - ungeändert beschlossen
+- TOP 7.2: Wiedereinführung einer Schnellbusverbindung vom Eckbusch zum Hauptbahnhof - ungeändert beschlossen
+- TOP 7.3: Parken in der Vogelsangstraße - geändert beschlossen
+- TOP 7.4: Anfrage zum Biotopverbund - ungeändert beschlossen
+- TOP 8: Anträge der Fraktionen zu Freibädern im Bezirk
+- TOP 8.1: Antrag Grüne zu Schwimmbäder - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD Unterstützung der Freibäder im Stadtbezirk - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU Freibäder im Bezirk - geändert beschlossen
+- TOP 9: Stellplatzsatzung der Stadt Wuppertal; Ergänzungen nach erster Beratung - geändert beschlossen
+- TOP 10: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung); Ergänzungsvorlage nach erster Beratung - ungeändert beschlossen
+- TOP 11: Aktualisierung des Einzelhandels- und Zentrenkonzeptes Wuppertal - vertagen
+- TOP 12: Konzept "Innenentwicklungskonzept Wuppertal" - geändert beschlossen
+- TOP 13: Aktualisierung der Vorhabenliste für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 14: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 15: Stadtentwässerung- Maßnahmenkatalog 2021/ Katalogentwurf 2022 - ungeändert beschlossen
+- TOP 16: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2021) - ungeändert beschlossen
+- TOP 17: Bebauungsplan 1263 - Röttgen/ Am Deckershäuschen - - geändert beschlossen
+- TOP 18: Antrag nach § 24 GO: Einhaltung von Mindestmaßen bei Gehwegbreiten; hier Hainstraße gegenüber 121-131 - ungeändert beschlossen
+- TOP 19: Uellendahler Straße - Straßeninstandsetzung und Anlegung einer Radverkehrsanlage bergauf - geändert beschlossen
+- TOP 20: Statusbericht Schottervorgärten - Entgegennahme ohne Beschluss
+- TOP 21: Verlagerung des Straßenverkehrsamtes
+- TOP 22: Anträge auf Freie Mittel
+- TOP 22.1: Antrag Sportfreunde Dönberg
+- TOP 22.2: Freiwillige Feuerwehr
+- TOP 22.3: Antrag Kleingartenverein
+- TOP 22.4: Antrag Freibad Eckbusch
+- TOP 23: Quotierte Mittel
+- TOP 23.1: Kurt-Schumacher Schule
+- TOP 23.2: St. Michael Schule
+- TOP 23.3: Schule Am Dönberg
