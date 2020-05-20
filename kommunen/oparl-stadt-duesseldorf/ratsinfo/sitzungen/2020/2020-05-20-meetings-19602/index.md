@@ -1,0 +1,87 @@
+# Bezirksvertretung 6 - geänderter Sitzungsort
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-20T17:00:00+02:00
+- Ende: 2020-05-20T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19602
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19602
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2020-05-20 TOP 1-11 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377992.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2020-05-20 TOP 1-11 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377992.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2020-05-20 TOP 1-11 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00377992.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Wahl einer/s 2. stellvertretenden Bezirksbürgermeisters/in - mehrheitlich abgelehnt
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 20. November 2019 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 29. Januar 2020 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - einstimmig beschlossen
+- TOP 6: Vier Raumbilder für das Raumwerk D - abweichend beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - einstimmig beschlossen
+- TOP 8: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 06/016 - Theodorstraße / A 52 - Aufhebung Einleitung, Einstellung des Verfahrens - einstimmig beschlossen
+- TOP 9: Plan Nr. 06/019 Theodorstraße - zwischen A52 und Wahlerstraße - einstimmig beschlossen
+- TOP 10: Rahmenplan Einzelhandel 2016 1. Änderung (Entwurf) - Fachmarktstandort Nord - einstimmig beschlossen
+- TOP 11: Flächennutzungsplanänderung Nr. 195 - Nördlich und südlich Theodorstraße - zurückgestellt
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Bebauungsplan - Entwurf Nr. 06/014 - Vogelsanger Weg/Münsterstraße - einstimmig beschlossen
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung - Vorlage APS/018/2020 - Bebauungsplan-Entwurf Nr. 06/014 -- Vogelsanger Weg/Münsterstraße - Stellungnahmen, Änderungen, Satzung - einstimmig beschlossen
+- TOP 15: Beschluss des Masterplans „Energieeffiziente und historische Straßenbeleuchtung“ inkl. Erhaltungsvorschlag für die Gasbeleuchtung - einstimmig beschlossen
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung - Vorlage OVA/011/2020 - Beschluss des Masterplans "Energieeffiziente und historische Straßenbeleuchtung" inkl. Erhaltungsvorschlag für die Gasbeleuchtung - einstimmig beschlossen
+- TOP 17: Jugendverkehrsschule Rath, Rather Broich 137 - einstimmig beschlossen
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung - Vorlage OVA/032/2020 - Jugendverkehrsschule Rath, Rather Broich 137, Bedarfsbeschluss - einstimmig beschlossen
+- TOP 19: 2. Förderphase / Fortschreibung Fördergebiet "Soziale Stadt Rath/Mörsenbroich" - abweichend beschlossen
+- TOP 20: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - abweichend beschlossen
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 21: Anfrage SPD: Trasse Ortsumgehung Rath - schriftlich beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspiel in Mörsenbroich - vertagt
+- TOP 31: Anfrage der CDU-Fraktion: Kinderspielplatz obere Kalkumer Straße / Grünzug A 44 - schriftlich beantwortet
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 33: Antrag der CDU und FDP: Verkehrswende umsetzen - Verbesserung für Pendler aus Ratingen und Umgebung - einstimmig beschlossen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 37: Bereitstellung von Mitteln für den Jahresempfang 2020 - einstimmig beschlossen
+- TOP 38: Genehmigung einer Dringlichkeitsentscheidung - Vorlage BV6/040/2020 - Bereitstellung von Mitteln für den Jahresempfang 2020 - einstimmig beschlossen
+- TOP 39: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Projekt "Blumenoasen" - einstimmig beschlossen
+- TOP 40: Genehmigung einer Dringlichkeitsentscheidung - Vorlage BV6/054/2020 - Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Projekt "Blumenoasen" - einstimmig beschlossen
+- TOP 41: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Konkretisierung Grünordnungsplan - einstimmig beschlossen
+- TOP 42: Genehmigung einer Dringlichkeitsentscheidung - Vorlage BV6/056/2020 - Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Konkretisierung Grünordnungsplan - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - Projekt "Gesunder Garten in Jugendeinrichtungen" - einstimmig beschlossen
+- TOP 44: Bauunterhaltungsmittel 2020 - Teil B "sonstige Gebäude" - einstimmig beschlossen
+- TOP 45: Genehmigung einer Dringlichkeitsentscheidung - Finanzierungen aus Bauunterhaltungsmitteln 2020 - Teil B "sonstige Gebäude" - einstimmig beschlossen
+- TOP 46: Zuschussvergabe 2020 Antrag des Bürger-Schützenverein 1925 e.V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag - einstimmig beschlossen
+- TOP 47: Zuschussvergabe 2020 Antrag der GGS Krahnenburgstraße - Präventionsprogramm "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 48: Zuschussvergabe 2020 Antrag Deutsches Rotes Kreuz, Kreisverband Düsseldorf e.V. - "Unterrath schaut über den Tellerrand - nah und fern ..." - einstimmig beschlossen
+- TOP 49: Zuschussvergabe 2020 - Antrag der St. Seb. Schützenbruderschaft e.V. Düsseldorf-Unterrath - Seniorennachmittag am Kirmesmontag - einstimmig beschlossen
+- TOP 50: Verfügungsmittel 2020 - Schulgarten Friedrich-Rückert-Gymnasium - einstimmig beschlossen
+- TOP 51: Genehmigung einer Dringlichkeitsentscheidung - Zuschüsse und Finanzierungen der BV 6 aus Verfügungsmitteln 2020 - einstimmig beschlossen
+- TOP 52: Zuschussvergabe 2020 Antrag Verein der Förderer der St.-Franziskus-Schule e.V. - Förderung der Brauchtumspflege - Mörsenbroicher Veedelszoch - einstimmig abgelehnt
+- TOP 53: Zuschussvergabe 2020 Antrag der Karnevalsgesellschaft Gemeinsam Jeck e.V. - Unterstützung bei der Finanzierung der Vereinskleidung - vertagt
+- TOP 54: Bauunterhaltungsmittel 2020 - Teil B - einstimmig beschlossen
+- TOP 55: Trödelmärkte auf dem Rather Schützenplatz; 1.Terminverlegung im 1. Halbjahr 2020 und Zusatztermin im 2. Halbjahr 2020 - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 56: Mobilitätsplan D; hier: Ortsumgehung Rath - Vorlage 176/ 93/2019 - zur Kenntnis genommen
+- TOP 57: Erstellung eines Verkehrskonzeptes für den Stadtteil Rath und im 2. Schritt für den Stadtbezirk 6 - Vorlage 176/122/2019 - zur Kenntnis genommen
+- TOP 58: Geländerertüchtigung - Info zum Arbeitsstand der prov. Geländerertüchtigung - Vorlage OVA 66/8/2019 - zur Kenntnis genommen
+- TOP 59: Haltestelle Stadtbahn zwischen Rather Broich und Rather Waldstadion - Vorlage BV6/033/2019 - zur Kenntnis genommen
+- TOP 60: Geschwindigkeitsanzeigetafeln - Vorlage 176/94/2019 und Vorlage BV6/001/2019 - zur Kenntnis genommen
+- TOP 61: Überprüfung der Verkehrsführung An der Golzheimer Heide und Rheinlandstraße im Bereich der Grundschulen - Vorlage 176/213/2018 - zur Kenntnis genommen
+- TOP 62: Mülleimer für die "Hall of Fame" (Opernfundus) - Vorlage 176/121/2019 - zur Kenntnis genommen
+- TOP 63: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 64: Wahllokale in Unterrath - Vorlage BV6/018/2019 - zur Kenntnis genommen
+- TOP 65: Bauunterhaltungsmittel 2019/2020 - Kinderspielplatz An der Golzheimer Heide - einstimmig beschlossen
