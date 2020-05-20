@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (49. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-05-20T18:20:00+02:00
+- Ende: 2020-05-20T20:13:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZc2e27rR0cMfTt37h9W250c
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6209
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSXMewLIXvhKhOJWxIzIeVnN1lIdh6RBvtuEKHRo3LEv/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_20.05.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTltQx-21ScRLjSBA7xNsslYYDiS_2puCpZWSSQi4zpl/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_20.05.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: ÖPNV in Solingen
+- TOP 1.2: Partnerschaften mit Jinotega/Nicaragua und Thiès/Senegal hier: kommunale Entwicklungszusammenarbeit in Projekten
+- TOP 1.3: Straßenbaumaßnahme Höhscheider Weg
+- TOP 1.4: Unfallhäufung an der Kreuzung Werwolf /Birkerstr./Schwertstr.
+- TOP 1.5: Schienenpersonennahverkehr in und im Umland der Klingenstadt Solingen
+- TOP 1.6: Beantwortung der Anfrage der FDP Fraktion im ASGWSB vom 27.02.2020 zum Thema „Ausbau und Stärkung des Wohnungsangebotes in Solingen“
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 10.02.2020
+- TOP 4.: Vorhabenliste 2020 Information Gesamtliste
+- TOP 4.1: Vorhabenliste 2020 Information Gesamtliste
+- TOP 5.: Klimaanalyse Nordrhein-Westfalen - Ergebnisse für die Stadt Solingen
+- TOP 6.: Teilnahme der Stadt Solingen Forschungsvorhaben "Stadtklima im Wandel"
+- TOP 7.: Handlungskonzept Wohnen – Stand der Umsetzung der Bausteine: Wohnbauoffensive, Flächenaktivierung und Schaffung bezahlbaren Wohnraums
+- TOP 8.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 8.1: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 9.: Integriertes Stadtteilentwicklungskonzept Ohligs: Freiraumplanerischer Wettbewerb "Umgestaltung der Fußgängerzone und Marktplatz - Weiteres Verfahren -
+- TOP 10.: 
+- TOP 11.: Verbesserung der Sicherheit am Graf-Wilhelm-Platz
+- TOP 12.: Behindertengerechter Ausbau der Haltestellen Antrag der Fraktionen von Bündnis 90/Die Grünen – offene Liste und SPD vom 09.03.2020
+- TOP 13.: Sachstandsbericht Straßenbeleuchtung Unterburg
+- TOP 14.: Beleuchtungsmittel Unterburg und Oberburg Antrag der Fraktion Bündnis 90/Die Grünen - offene Liste vom 09.03.2020
+- TOP 15.: Bürgerbeteiligungsrechte bei Planungen nicht einschränken Antrag der Fraktion Bündnis 90/Die Grünen – offene Liste vom 05.05.2020
+- TOP 16.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Antrag der Fraktion Bündnis 90/Die Grünen- offene Liste vom 05.05.2020
+- TOP 17.: Verschiedenes
+- TOP 17.1: Mitteilungen der Verwaltung
+- TOP 17.1.1: Integriertes Stadtteilentwicklungskonzept Ohligs: Neugestaltung des Vorplatzes am östlichen Bahnhofausgang - Sachstandsbericht zum Vergabeverfahren gem. VGV
+- TOP 17.1.2: Veloroute Düsseldorf – Hilden – SOLINGEN – Wuppertal: Stand der Umsetzung
+- TOP 17.1.3: 1. Zusammenkunft Runder Tisch Wald (Forst) am 05.03.2020 - mündlicher Bericht -
+- TOP 17.1.4: Betrieb der S 1 bis 2031 durch die DB
+- TOP 17.1.5: ÖPNV - Angebote während der Corona-Krise
+- TOP 17.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 10.02.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.1.1: Sachstand Mitarbeiterparkplatz Diakonisches Werk Bethanien - mündlicher Bericht -
+- TOP 4.2: Anfragen an die Verwaltung
