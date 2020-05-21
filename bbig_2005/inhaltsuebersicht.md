@@ -58,8 +58,7 @@ Sonstige Vorschriften
 | § 26 | Andere Vertragsverhältnisse |
 |  |  |
 Abschnitt 3
-Eignung von Ausbildungsstätte
-und Ausbildungspersonal
+Eignung von Ausbildungsstätte und Ausbildungspersonal
 | § 27 | Eignung der Ausbildungsstätte |
 | § 28 | Eignung von Ausbildenden und Ausbildern oder Ausbilderinnen |
 | § 29 | Persönliche Eignung |
@@ -70,8 +69,7 @@ und Ausbildungspersonal
 | § 33 | Untersagung des Einstellens und Ausbildens |
 |  |  |
 Abschnitt 4
-Verzeichnis der
-Berufsausbildungsverhältnisse
+Verzeichnis der Berufsausbildungsverhältnisse
 | § 34 | Einrichten, Führen |
 | § 35 | Eintragen, Ändern, Löschen |
 | § 36 | Antrag |
@@ -111,13 +109,11 @@ Fortbildungsordnungen des Bundes
 | § 53e | Anpassungsfortbildungsordnungen |
 |  |  |
 Abschnitt 2
-Fortbildungsprüfungs-
-regelungen der zuständigen Stellen
+Fortbildungsprüfungsregelungen der zuständigen Stellen
 | § 54 | Fortbildungsprüfungsregelungen der zuständigen Stellen |
 |  |  |
 Abschnitt 3
-Ausländische
-Vorqualifikationen, Prüfungen
+Ausländische Vorqualifikationen, Prüfungen
 | § 55 | Berücksichtigung ausländischer Vorqualifikationen |
 | § 56 | Fortbildungsprüfungen |
 | § 57 | Gleichstellung von Prüfungszeugnissen |
@@ -163,8 +159,7 @@ Abschnitt 2
 | § 76 | Überwachung, Beratung |
 |  |  |
 Abschnitt 3
-Berufsbildungsausschuss
-der zuständigen Stelle
+Berufsbildungsausschuss der zuständigen Stelle
 | § 77 | Errichtung |
 | § 78 | Beschlussfähigkeit, Abstimmung |
 | § 79 | Aufgaben |
@@ -180,8 +175,7 @@ Landesausschüsse für Berufsbildung
 | § 83 | Aufgaben |
 |  |  |
 Teil 4
-Berufsbildungsforschung,
-Planung und Statistik
+Berufsbildungsforschung, Planung und Statistik
 | § 84 | Ziele der Berufsbildungsforschung |
 | § 85 | Ziele der Berufsbildungsplanung |
 | § 86 | Berufsbildungsbericht |

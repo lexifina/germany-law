@@ -14,8 +14,7 @@
 ### Kapitel 1 Berufsausbildung
 
 
-#### Abschnitt 1 Ordnung der Berufsausbildung; Anerkennung
-von Ausbildungsberufen
+#### Abschnitt 1 Ordnung der Berufsausbildung; Anerkennung von Ausbildungsberufen
 
 - [§ 4 Anerkennung von Ausbildungsberufen](0004.md)
 - [§ 5 Ausbildungsordnung](0005.md)
@@ -28,8 +27,7 @@ von Ausbildungsberufen
 #### Abschnitt 2 Berufsausbildungsverhältnis
 
 
-##### Unterabschnitt 1 Begründung des
-Ausbildungsverhältnisses
+##### Unterabschnitt 1 Begründung des Ausbildungsverhältnisses
 
 - [§ 10 Vertrag](0010.md)
 - [§ 11 Vertragsniederschrift](0011.md)
@@ -51,8 +49,7 @@ Ausbildungsverhältnisses
 - [§ 18 Bemessung und Fälligkeit der Vergütung](0018.md)
 - [§ 19 Fortzahlung der Vergütung](0019.md)
 
-##### Unterabschnitt 5 Beginn und Beendigung des
-Ausbildungsverhältnisses
+##### Unterabschnitt 5 Beginn und Beendigung des Ausbildungsverhältnisses
 
 - [§ 20 Probezeit](0020.md)
 - [§ 21 Beendigung](0021.md)
@@ -65,8 +62,7 @@ Ausbildungsverhältnisses
 - [§ 25 Unabdingbarkeit](0025.md)
 - [§ 26 Andere Vertragsverhältnisse](0026.md)
 
-#### Abschnitt 3 Eignung von Ausbildungsstätte und
-Ausbildungspersonal
+#### Abschnitt 3 Eignung von Ausbildungsstätte und Ausbildungspersonal
 
 - [§ 27 Eignung der Ausbildungsstätte](0027.md)
 - [§ 28 Eignung von Ausbildenden und Ausbildern oder Ausbilderinnen](0028.md)
@@ -77,8 +73,7 @@ Ausbildungspersonal
 - [§ 32 Überwachung der Eignung](0032.md)
 - [§ 33 Untersagung des Einstellens und Ausbildens](0033.md)
 
-#### Abschnitt 4 Verzeichnis der
-Berufsausbildungsverhältnisse
+#### Abschnitt 4 Verzeichnis der Berufsausbildungsverhältnisse
 
 - [§ 34 Einrichten, Führen](0034.md)
 - [§ 35 Eintragen, Ändern, Löschen](0035.md)
@@ -93,7 +88,7 @@ Berufsausbildungsverhältnisse
 - [§ 41 Vorsitz, Beschlussfähigkeit, Abstimmung](0041.md)
 - [§ 42 Beschlussfassung, Bewertung der Abschlussprüfung](0042.md)
 - [§ 43 Zulassung zur Abschlussprüfung](0043.md)
-- [§ 44 Zulassung zur Abschlussprüfung bei zeitlich auseinander fallenden Teilen](0044.md)
+- [§ 44 Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen](0044.md)
 - [§ 45 Zulassung in besonderen Fällen](0045.md)
 - [§ 46 Entscheidung über die Zulassung](0046.md)
 - [§ 47 Prüfungsordnung](0047.md)
@@ -166,15 +161,13 @@ Berufsausbildungsverhältnisse
 - [§ 72 Bestimmung durch Rechtsverordnung](0072.md)
 - [§ 73 Zuständige Stellen im Bereich des öffentlichen Dienstes](0073.md)
 - [§ 74 Erweiterte Zuständigkeit](0074.md)
-- [§ 75 Zuständige Stellen im Bereich der Kirchen und
-sonstigen Religionsgemeinschaften des öffentlichen Rechts](0075.md)
+- [§ 75 Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts](0075.md)
 
 #### Abschnitt 2 Überwachung der Berufsbildung
 
 - [§ 76 Überwachung, Beratung](0076.md)
 
-#### Abschnitt 3 Berufsbildungsausschuss der zuständigen
-Stelle
+#### Abschnitt 3 Berufsbildungsausschuss der zuständigen Stelle
 
 - [§ 77 Errichtung](0077.md)
 - [§ 78 Beschlussfähigkeit, Abstimmung](0078.md)
