@@ -110,6 +110,6 @@ von Ordnungswidrigkeiten](0060.md)
 
 - [§ 61 Beschäftigung von Jugendlichen auf Kauffahrteischiffen](0061.md)
 - [§ 62 Beschäftigung im Vollzug einer Freiheitsentziehung](0062.md)
-- [(XXXX) §§ 63 bis 70](xxxx-63-bis-70.md)
+- [(XXXX) §§ 63 bis 70 (Änderungsvorschriften)](xxxx-63-bis-70.md)
 - [§ 71 (weggefallen)](0071.md)
 - [§ 72 Inkrafttreten](0072.md)

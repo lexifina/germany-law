@@ -1,3 +1,3 @@
-# (XXXX) §§ 63 bis 70
+# (XXXX) §§ 63 bis 70 (Änderungsvorschriften)
 
 
