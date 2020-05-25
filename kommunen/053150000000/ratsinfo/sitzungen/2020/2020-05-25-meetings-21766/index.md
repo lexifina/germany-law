@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-25T15:05:00+02:00
+- Ende: 2020-05-25T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21766
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21766
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Auskömmliche Ausstattung der Schülerinnen und Schüler mit digitalen Endgeräten - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: AN/0343/2020 Nutzung des leerstehenden Möbelhauses Flamme als Schulgebäude - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Ausstiegs-Szenarien aus den Corona-Beschränkungen entwickeln – schrittweise Betreuung ausweiten - Kenntnis genommen
+- TOP 3.2.1.1: Ausstiegs-Szenarien aus den Corona-Beschränkungen entwickeln – schrittweise Betreuung ausweiten - Kenntnis genommen
+- TOP 3.2.2: Schulanmeldeverfahren zum Schuljahr 2020/2021 Verteilung nach nicht berücksichtigten Erst- und Zweitwünschen - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Fortschreibung der Schulentwicklungsplanung Köln 2020 - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag der SPD-Fraktion zu TOP 4.1 „Fortschreibung der Schulentwicklungsplanung Köln 2020“ (0418/2020) - Gesamtschule für Rondorf ! - endgültig abgelehnt
+- TOP 4.1.2: Änderungsantrag der Fraktion Die Linke zu TOP 4.1, Fortschreibung der Schulentwicklungsplanung Köln 2020, DS 0418/2020 - endgültig abgelehnt
+- TOP 4.1.3: gemeinsamer Änderungsantrag von SPD, CDU, Fraktion Bündnis 90/Die Grünen und FDP zu TOP 4.1 – Fortschreibung der Schulentwicklungsplanung Köln 2020 - ungeändert beschlossen
+- TOP 4.2: Zügigkeitserweiterung des Leonardo-da-Vinci-Gymnasiums, Blücherstraße 15-17, 50733 Köln-Nippes zum Schuljahr 2021/22 - ungeändert beschlossen
+- TOP 4.3: Ernährungsstrategie für Köln und Umgebung - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellungsbeschluss für die Vergabe der Leistung: Erstellung eines Medienentwicklungsplanes für die Schulen in städtischer Trägerschaft - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Zweiter Kostenfortschreibungsbeschluss für die Generalinstandsetzung des Berufskollegs Perlengraben 101 - Kenntnis genommen
+- TOP 5.2: Förderprogramme des Landes für Migrant/innen - Kenntnis genommen
+- TOP 5.3: Wie leben queere Jugendliche in Köln? - Kenntnis genommen
+- TOP 5.4: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 5.5: Anmeldeverfahren zum Schuljahr 2020/2021 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.6: VHS-Betrieb nach Corona-Unterbrechung neu gestartet - Kenntnis genommen
+- TOP 5.7: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2020/2021 - Kenntnis genommen
+- TOP 5.8: Ausbau der Schulsozialarbeit 2020 - Kenntnis genommen
+- TOP 5.9: Gymnasial- und Gesamtschulplätze für Köln in Porz - Dringlichkeitsantrag AN/0369/2020 in der Sitzung des Ausschusses für Schule und Weiterbildung am 09.03.2020 - Kenntnis genommen
+- TOP 5.10: Digitales Lernen in Kölner Schulen - Ausstattung der Schulen - Kenntnis genommen
+- TOP 5.11: Schließung und sukzessive Wiedereröffnung der Schulen im Rahmen der Corona-Pandemie - aktueller Sachstand der Beantwortung von Anfragen - Kenntnis genommen
+- TOP 5.12: Maßnahmen seit Beginn der Coronakrise bei der Volkshochschule und der Musikschule - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
