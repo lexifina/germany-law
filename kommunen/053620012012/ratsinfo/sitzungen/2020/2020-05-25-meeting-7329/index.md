@@ -1,0 +1,105 @@
+# Rat (55. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-05-25T18:00:00+02:00
+- Ende: 2020-05-25T21:25:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWSCz1-ZLgtWVFzCPJ-cwas
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7329
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdwuct5kOarGqPapcFg76bT4nJRSNyQdtMkaGM5O5q01/Bekanntmachung_Rat_25.05.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVKdJSIfWqbDbqh0Nlr0MRlYdZCq7IfMLNZGL8w2Kp12/Oeffentliche_Niederschrift_Rat_25.05.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Arbeitskreis Inklusionsbeirat
+- TOP 2.: Niederschrift vom 27.04.2020
+- TOP 3.: Corona
+- TOP 3.1: Corona-Pandemie Hier: Sachstand Schulen
+- TOP 3.2: Homeschooling Hier: Sachstandsbericht
+- TOP 3.3: Nutzung der städtischen Turnhallen und der städtischen Sportplätze durch Brühler Schulen und Sportvereine sowie Sachstand zur Wiederöffnung der städtischen Sportanlagen vor dem Hintergrund der Corona-Pandemie. - (kein Text vorhanden)
+- TOP 3.4: Erlass von Sondernutzungsgebühren für die Außengastronomie sowie für die Aufstellung von Werbeanlagen vor Geschäftslokalen im Kalenderjahr 2020 - (kein Text vorhanden)
+- TOP 3.5: Agenda-Markt 2020 hier: Absage der Veranstaltung
+- TOP 3.6: Finanzielle Auswirkungen der Corona Pandemie - Weitere Einschätzung -
+- TOP 4.: Ausbau der KGS Pingsdorf auf eine konstante 2-Zügigkeit - (kein Text vorhanden)
+- TOP 4.1: Klärung Rückfragen zum Ausbau der KGS Pingsdorf auf eine konstante 2-Zügigkeit Hier: Bezug zur Vorlage "Ausbau der KGS Pingsdorf auf eine konstante 2-Zügigkeit", Vorlage Nr. 128/2020
+- TOP 5.: Gewährung städtischer Zuschüsse an Sportvereine gemäß Sportförderrichtlinien Hier: Änderung der Sportförderrichtlinien Bezug: Workshop am 05.03.2020
+- TOP 6.: Bebauungsplan 09.07 "WaldKita am Seeweg" - Auslegungsbeschluss - - (kein Text vorhanden)
+- TOP 7.: Evaluierung Parkraumkonzept - (kein Text vorhanden)
+- TOP 8.: Stellenplan 2020 hier: Ausweisung zusätzlicher Ausbildungsstellen - (kein Text vorhanden)
+- TOP 9.: Kommunalverfassungsstreit - (kein Text vorhanden)
+- TOP 10.: Änderung der Geschäftskreise der Beigeordneten der Dezernate I und III - (kein Text vorhanden)
+- TOP 11.: Satzungen
+- TOP 11.1: Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung)
+- TOP 11.1.1: Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung) Bezug: Vorlage 94/2020
+- TOP 11.1.2: Änderungsantrag zu TOP 15.2.1 - Inklusionsbeiratssatzung § 5 Wahl einer/eines Vorsitzenden Bezug: Antrag der Fraktion Linke&Piraten vom 22.04.2020
+- TOP 11.1.3: Inklusionsbeiratssatzung; hier: Änderungsantrag zu Vorlage 195/2020, Rat 25.5.2020 Bezug: Antrag der FDP-Fraktion vom 19.05.2020 - (kein Text vorhanden)
+- TOP 11.1.4: Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung) Bezug: Vorlagen 136/2020 und 94/2020 - (kein Text vorhanden)
+- TOP 12.: Ermächtigungsübertragung aus dem Haushaltsplan 2019 nach 2020
+- TOP 13.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 13.1: Überplanmäßige Mittelbereitstellung für den Ankauf von Schutzmasken und Plexiglas-Spuckschutze für die Beschäftigten der Stadt Brühl zum Schutz vor dem Coronavirus. - (kein Text vorhanden)
+- TOP 13.2: Sankt Franziskus Schule – Austausch Holzpavillon Hier: überplanmäßige Mittelbereitstellung für den Austausch der Pavillons an der Sankt Franziskus Schule - (kein Text vorhanden)
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14.1: Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung für den Ankauf von Schutzmasken für die Beschäftigten der Stadt Brühl zum Schutz vor der Corona-Pandemie - (kein Text vorhanden)
+- TOP 15.: Anträge
+- TOP 15.1: Konsequentes Controlling im Rahmen einer nachhaltigen Haushaltssanierung Bezug: Antrag Ratsherr Dr. Herbert Heermann vom 03.12.2019
+- TOP 15.1.1: Finanzwirtschaftliches Controlling anhand Aufwandsdeckungsgrad Bezug: Antrag Dr. Heermann vom 03.12.19, Vorl. Nr. 541/2019, Rat 16.12.19
+- TOP 15.2: Teilnahme am Projekt "Kinderfreundliche Kommune" Bezug: Antrag der Fraktion Linke&Piraten vom 09.05.2020 - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Verletzung der schulischen Neutralitätspflicht im Wahlkampf durch einseitige Einladung von Wahlbewerberinnen und Wahlbewerbern Bezug: Anfrage der Fraktion Linke&Piraten vom 09.05.2020
+- TOP 18.1.1: Verletzung der schulischen Neutralitätspflicht im Wahlkampf durch einseitige Einladungen von Wahlbewerber*innen Hier: Antrag DIE LINKE. & PIRATEN PARTEI vom 09.05.2020
+- TOP 18.2: Ticketrückgabe für abgesagte Veranstaltungen
+- TOP 18.3: Sickergrube Brühl-Ost
+- TOP 18.4: Projektpartnerschaft mit Battir
+- TOP 18.5: Talstraße
+- TOP 18.6: Digitalisierung der Verwaltung
+- TOP 18.7: Rathaus Neubau
+- TOP 18.8: Kommunalwahl 2020
+- TOP 18.9: Bewegungsparcour
+- TOP 18.10: Microsite Sport
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Inanspruchnahme Restkreditermächtigung 2019 in 2020 - (kein Text vorhanden)
+- TOP 20.: Ankauf eines Grundstücks in der Gemarkung Badorf - (kein Text vorhanden)
+- TOP 21.: Vergaben
+- TOP 21.1: Clemens-August-Forum Fliesenarbeiten - (kein Text vorhanden)
+- TOP 21.2: Mittagsverpflegung in städtischen Kitas Verlängerung des aktuellen Auftrages bis zum 31.12.2020 - (kein Text vorhanden)
+- TOP 21.3: Schülerbeförderung Los 1 - 4 01.08.2020 - 31.07.2023 - (kein Text vorhanden)
+- TOP 21.4: Neu- und Umbau Rathaus B Hier: RFID-Technik für die Stadtbibliothek - (kein Text vorhanden)
+- TOP 21.5: Sankt Franziskus Grundschule Pavillonaustausch - (kein Text vorhanden)
+- TOP 21.6: Rathaus B - Neu- und Umbau Kommunikations- und Sicherheitstechnik - (kein Text vorhanden)
+- TOP 21.7: Neubau Clemens-August-Forum Hier: Schlosserarbeiten (Stahl-Außentreppe, Geländer...) - (kein Text vorhanden)
+- TOP 21.8: Neubau EKR - Abriss Gebäude A Hier: Bauüberwachung LPH 8 - (kein Text vorhanden)
+- TOP 21.9: Rathausneu-/Umbau Estricharbeiten - (kein Text vorhanden)
+- TOP 22.: Ausschreibung städtischer Grundstücke im Wege des Erbbaurechts - (kein Text vorhanden)
+- TOP 23.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 23.1: Sanierung GHS Clemens-August-Schule Brandschutztechnische Ertüchtigung des Flures (Rettungsweg), des Erdgeschosses und der Werkstatt im Untergeschoss hier: Elektroarbeiten - (kein Text vorhanden)
+- TOP 23.2: Barbara-Schule Abbruch und Erneuerung des vorhandenen Pavillons in Massivbauweise Hier: Planungsleistungen - (kein Text vorhanden)
+- TOP 23.3: Sanierung GHS Clemens-August-Schule Brandschutztechnische Ertüchtigung des Flures (Rettungsweg), des Erdgeschosses und der Werkstatt im Untergeschoss hier: Elektroarbeiten - (kein Text vorhanden)
+- TOP 23.4: Neubau "Clemens-August-Forum" Hier: Innenputzarbeiten - (kein Text vorhanden)
+- TOP 23.5: Umbau RWE-Gebäude zum Schulgebäude EKR als Interimslösung Hier: Malerarbeiten - (kein Text vorhanden)
+- TOP 23.6: Vergabe von Parzellen in der Gemarkung Kierberg an den Rhein-Erft-Kreis im Wege der Erbpacht - (kein Text vorhanden)
+- TOP 23.7: Ankauf einer Parzelle in der Gemarkung Brühl - (kein Text vorhanden)
+- TOP 23.8: Neubau EKR Abbruch und Rückbauarbeiten des Altgebäudes - (kein Text vorhanden)
+- TOP 23.9: Umbau RWE-Gebäude zum Schulgebäude EKR (Interimslösung) Bodenbelagsarbeiten - (kein Text vorhanden)
+- TOP 23.10: Rathaus B - Neu- und Umbau Trockenbauarbeiten - (kein Text vorhanden)
+- TOP 23.11: Rathaus B - Neu- und Umbau Putz- und Stuckarbeiten - (kein Text vorhanden)
+- TOP 23.12: Umbau RWE-Gebäude zum Schulgebäude EKR als Interimslösung Her: Innentüren - (kein Text vorhanden)
+- TOP 23.13: Dringlichkeitsentscheidung zur Auftragsvergabe über den Kauf von Schutzmasken für die Beschäftigten der Stadt Brühl zum Schutz vor der Corona-Pandemie - (kein Text vorhanden)
+- TOP 24.: Stundungen, Niederschlagungen, Erlasse
+- TOP 24.1: Unbefristete Niederschlagung einer Forderung nach Ziffer 14 DA Insolvenz Hier: Unterhaltsrückstand aufgrund gezahlter Leistungen nach dem Unterhaltsvorschussgesetz (UVG) - (kein Text vorhanden)
+- TOP 24.2: Stundungen im Bereich der Gewerbesteuer in Zusammenhang mit der Coronavirus-Pandemie - (kein Text vorhanden)
+- TOP 25.: Kommunalverfassungsstreit - Rechtsanwaltskosten
+- TOP 26.: Mitteilungen
+- TOP 26.1: Sickergrube Brühl-Ost
+- TOP 26.2: Sitzung des Rates am 22.06.2020
+- TOP 27.: Anfragen
+- TOP 27.1: Wochenmärkte
+- TOP 27.2: Kaufhoffiliale Brühl
+- TOP 27.3: Gartenfläche "Alte Bonnstraße"
+- TOP 27.4: Baustelle auf dem Gelände Haus Wetterstein
