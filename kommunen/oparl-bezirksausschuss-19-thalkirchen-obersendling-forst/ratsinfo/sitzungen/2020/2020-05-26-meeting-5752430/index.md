@@ -1,0 +1,62 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-05-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752430
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752430
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 2.7.: Bestellung von weiteren Beauftragten im BA 19
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 07.05.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.4.: Terminplanung 2020 - Festlegung der Sitzungstermine von Juni bis Dezember 2020
+- TOP 2.6.: Festlegung von Zeichnungsberechtigten BA-Konto
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget NaturFreunde Deutschlands, Bezirk München e.V. Neugestaltung Spielplatz auf Vereinsgelände 13.293,49€, Az: 0262.0-19-0318
+- TOP 3.3.: (E) Stadtbezirksbudget SehT UG (haftungsbeschränkt) Live aus Thalkirchen vom 01.05.-31.12.2020 5.800,00€; Az. 0262.0-19-0330
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunk
+- TOP 4.4.: (Antrag) Versetzung Wertstoffcontainer Springerstraße
+- TOP 4.5.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Zusätzliche Bepflanzung auf dem Grünstreifen der Allee der Possenhofener Straße zwischen Würmseestraße und Hatzfelder Weg
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Einrichtung einer Bushaltestelle an der Springer-/Herterichstraße
+- TOP 5.1.2: Verkehrskonzept Campus Süd
+- TOP 5.1.3: Ausbau des Kopfsteinpflasterbelags in der Zielstattstraße zwischen Murnauer- und Höglwörtherstraße
+- TOP 5.2.: (Antrag) Entfernung Kopfsteinpflaster Zielstattstraße 2a
+- TOP 5.3.: (Antrag) Schulwegsicherheit Fußgängerüberweg Zielstattstraße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Aufhebung Radwegbenutzungspflicht Steinkirchner Straße
+- TOP 5.5.: (Antrag) Tempo-30 Frans-Hals-Straße
+- TOP 5.6.: (Antrag) Fußgängerüberweg an der Drygalski-Allee sichern
+- TOP 5.7.: (E) Sondernutzungserlaubnis: Freischankfläche Kistlerhofstraße 104
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Sonderparkplatz für Schwerbehinderte Plinganserstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Siemensallee (nördlich), Baierbrunner Straße (westlich) Hochhaus an der Baierbrunner Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Provisorisches Container-Schulgebäude Grundschule Baierbrunner Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Tag des offenen Denkmals 2020
+- TOP 8.3.: (Antrag) Sommer in der Stadt: Circus Galliano in Forstenried
+- TOP 2.3.: Vorstellung Bebauungsplan Nr. 2132 Grund- und Hauptschule Königswieser Straße
+- TOP 2.5.: Weitere Vorgehensweise - Bürgerinnen und Bürger gestalten Ihre Stadt - Ensemblegeschützter Dorfkern Forstenried
