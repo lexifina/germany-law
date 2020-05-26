@@ -1,0 +1,179 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-05-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5848148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5848148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP 1.4.: Durchführung von Bürgersprechstunden
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 19.05.2020, Sofortmaßnahmen für Rad- und Fußgängerverkehr
+- TOP 5.2.2.: Bürgeranliegen vom 19.05.2020, Sofortmaßnahmen für Rad- und Fußgängerverkehr
+- TOP 5.2.3.: Bürgeranliegen vom 19.02.2020, Verkehrssituation in der Theresienstraße
+- TOP 5.2.4.: Bürgeranliegen vom 27.02.2020, Rückbau der Fahrradstellplätze Kardinal-Döpfner-Straße 8
+- TOP 5.2.5.: Bürgeranliegen vom 11.03.2020, Bitte um Unterstützung in einer Mietsache Maxvorstadt
+- TOP 5.2.6.: Bürgeranliegen vom 10.03.2020, Obdachlose Karlstraße 49
+- TOP 5.2.7.: Bürgeranliegen vom 11.05.2020, Beschädigungen durch Skater am Franziskusbrunnen
+- TOP 5.2.8.: Bürgeranliegen vom 14.05.2020, Baustelle Nymphenburger Straße zw. Hausnr. 62 und 70
+- TOP 5.2.9.: Bürgeranliegen vom 12.05.2020, Probleme mit Obdachlosen
+- TOP 6.1.: Parkplätze an der Lothstraße, Straßenschäden Antwortschreiben Baureferat auf Bürgeranliegen, s. TOP A 5.2.1/02 2020
+- TOP 6.2.: Kreuzung Maßmann-/Dachauer Straße Antwortschreiben der Polizeiinspektion 42 vom 26.02.2020, TOP A 5.2.5/02 2020
+- TOP 6.3.: Begrünung der Maxvorstadt, Situation nördliches Bahnhofsviertel Antwortschreiben des Baureferats Gartenbau vom 27.02.2020, TOP A 5.2.13 12 2019
+- TOP 6.4.: Verbesserung der Beleuchtung der Fußgängerwege in der Luisenstraße zwischen dem Königsplatz und der Karlstraße
+- TOP 6.5.: Überprüfung der Parksituation im Marsfeld zum Zweiten
+- TOP 6.6.: Maxvorstadt plastikfrei - Laden in der Türkenstraße erzeugt weiterhin täglich einen wahnsinnigen Plastikberg
+- TOP 6.7.: Verlotterung des Grundstücks am ehemaligen Gesundheitsamt
+- TOP 6.8.: Radroute Olympiapark Maxvorstadt Zwischennachricht zu BA-Antrag Nr. 14-20 / B 04250 vom 07.11.2017
+- TOP 6.9.: Dachauer Straße, Verschmutzung, nächtliche Ruhestörung, Alkoholkonsum im öffentlichen Raum, Antwortschreiben von AKIM vom 12.03.2020, TOP 5.2.10/12 2019
+- TOP 6.10.: Südliche Georgenstraße - Entfernung der alten Markierungen auf dem Gehweg
+- TOP 6.11.: Was ist der Stand bezgl. der Zwischennutzung des Anwesens in der Dachauer Straße 90/Gesundheitshaus
+- TOP 6.12.: Biologische Vielfalt im Stadtviertel stärken! Insektenfreundliche Bepflanzung in den Blumenbeeten vor dem Innenministerium und in den Blumenbeeten um den Obeliksken am Karolinenplatz herum pflanzen.
+- TOP 6.13.: E-Ladesäule in der Seidlstraße
+- TOP 6.14.: Einführung Geschwindigkeitsbegrenzung auf 30 km/h - Nachfrage
+- TOP 6.15.: Neben den Sitzbänken auf dem Geschwister-Scholl-Platz und dem Prof.-Huber-Platz soll eine ausreichende Anzahl von Aschenbechern und Abfallkörben aufgestellt werden.
+- TOP 6.16.: Abfalleimer mit Aschenbecher an der Kreuzung Brienner Straße/Augustenstraße, vor Hausnummer 47, aufstellen
+- TOP 6.17.: Nutzungsänderung auf dem Gelände des ehemaligen Postpalastes
+- TOP 6.18.: Neuaufteilung des Parkraums in der Gabelsbergerstraße
+- TOP 6.19.: Parkraummanagement Schönfeldviertel, Antwortschreiben zu weitergeleitetem Bürgeranliegen TOP A 5.2.2 02/2020
+- TOP 6.20.: Spielregeln für E-Scooter als U-Bahn-Werbung
+- TOP 6.21.: Ausverkauf der Maxvorstadt verhindern! Neuerlass einer Erhaltungssatzung im Bereich der Maxvorstadt im Umgriff der Türkenstraße, Amalienstraße und Schellingstraße
+- TOP 6.22.: Apple möge dazu beitragen, dass die Wohnungskrise in der Maxvorstadt sich nicht verstärkt!
+- TOP 6.23.: Keine Kommerzialisierung öffentlicher Grünanlagen
+- TOP 6.24.: Der BA 3 bittet die MVG an der Haltestelle "Schellingstraße" der Buslinie 154 die Bandansage im Bus "Schellingstraße" mit dem Zusatz "Barerstraße aussteigen" zu ergänzen.
+- TOP 6.25.: Frühjahrsputz: Befreiung des öffentlichen Raumes von Schrotträdern
+- TOP 6.26.: Die Landeshauptstadt München wird gebeten, dem Katholischen Männerfürsorgeverein e.V. (KMFV) für das Haus an der Gabelsbergerstraße 72 einen festen Parkplatz zuzuweisen bzw. eine nahegelegene Ladezone einzurichten.
+- TOP 6.27.: Stadteinwärts Fahrradampel auf der Ludwigstraße, Kreuzung Theresienstraße
+- TOP 6.28.: Behindertenparkplätze vor dem Wittelsbacherplatz
+- TOP 6.29.: Sozialcharta Dawonia (ehemals GBW) bei Zweckentfremdung durch Abbruch einbeziehen
+- TOP 6.30.: Bauvorhaben des Referates für Stadtplanung und Bauordnung, Eilentscheidung des Vorsitzenden zu den Bauvorhaben a) Amalienstraße 18, Zustimmung b) Luisenstraße 72, Zustimmung c) Türkenstraße 15, Zustimmmung
+- TOP 7.2.1.: Ausnahmezulassung gem. Bundesimmissionsschutzverordnung (BImSchV), Fernkältemaßnahme LOS 2; Schönfeldstraße/Kaulbachstraße
+- TOP B: Klima, Umwelt und Planung
+- TOP 2.1.1.: LBK Listen Bauvorhaben: 9., 10., 11., 12., 13., 14., 15., 16, 17., 18, 19., 20.KW
+- TOP 2.1.2.: WEB Listen der LBK: 8., 9., 16., 17., 18., 19., 20. KW
+- TOP 2.1.3.: entfällt, s. TOP B 5.6
+- TOP 2.1.4.: entfällt, s. TOP B 5.6
+- TOP 2.1.5.: entfällt, s. TOP B 5.6
+- TOP 2.1.6.: Fürstenstraße 11, Neubau eines Bürogebäudes - TEKTUR
+- TOP 2.1.7.: Augustenstraße 103 bis 105, Neubau eines Wohn- und Geschäftshauses mit Seitenflügel, Erweitrung und Umbau des Rückgebäudes, Errichtung einer Gaststätte mit Wirtsgarten und einer zweigeschossigen Tiefgarage
+- TOP 3.2.1.: Veterinärstraße 13, zwei Lebkuchenbäume
+- TOP 5.1.: Fürstenstraße 7, Abbruch eines Wohnhauses mit Gewerbeeinheit und Tiefgarage, Umbau Zugang Rükgebäude, Baugenehmigung
+- TOP 5.2.: Fällgenehmigung Zirkus-Krone-Straße 7
+- TOP 5.3.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 5.4.: Abschluss der Baumaßnahme Türkenstraße 9, Wiederherstellung des Gehweges etc
+- TOP 5.5.: Zustimmung durch Eilentscheidung zum Planfeststellungsverfahren nach § 18 des Allgemeinen Eisenbahngesetzes (AEG) für das Vorhaben: Bauliche Änderung des Bahnhofes Mün chen Hbf (Bahnhof Nr. 4234) samt weiterer Eisenbahnbetriebsanlagen, PFA 1 (Rückbau und Anpassung des Starnberger Flügelbahnhofes), Bahn-km 0,042 bis 0,218 der Strecke 5500 München-Regensburg und der Landeshauptstadt München
+- TOP 5.6.: Eilentscheidung des Vorsitzenden zu den Bauvorhaben a) Amalienstraße 18, Nutzungsänderung Ladenerweitreung, Zustimmung b) Luisenstraße 71 Dachgeschossausbau, Zustimmung c) Türkenstraße 15, Neubau eines Werkstattpavillons, Zustimmung
+- TOP 5.7.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 5.8.: Referat für Stadtplanung und Bauordnung, Informationsschreiben Erfassung und aktualisierung naturschutzrelevanter Flächen im Rahmen des Projektes „Flächenkulisse Biodiversität“ - Beginn der stadtweiten Kartierungsarbeiten
+- TOP 5.9.: Referat für Stadtplanung und Bauordnung, Fällgenehmigung, Linprunstraße 58
+- TOP 5.10.: Referat für Stadtplanung und Bauordnung, Fällgenehmigung, Gabelsbergerstraße 48 a- 48 f
+- TOP 5.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Integriertes Smart City Handlungsprogramm (ISCH), Bewerbung für ein Modellprojekt Smart Cities: Stadtentwicklung und Digitalisierung Sitzungsvorlage Nr. 14-20 / V 18416
+- TOP 5.12.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP 5.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.14.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 5.15.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 5.16.: Tag des offenen Denkmals
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Bündnis 90/die Grünen vom 23.02.2020 Parken auf Geh- und Radwegen verstärkt kontrollieren und mit dem neuen Bußgeld bis zu 100,00 € ahnden
+- TOP 1.2.: Antrag CSU vom 31.03.2020 Verkehrszeichen „Rechts abbiegen für Radfahrer frei“ auf Schleißheimer Straße Kreuzung Theresienstraße
+- TOP 1.3.: Antrag SPD vom 26.04.2020 Aufhebung der baustellenbedingten Verkehrsführung in der Sand- und Linprunstraße
+- TOP 1.4.: Antrag SPD vom 26.04.2020 Instandsetzung von Fußwegen, Treppen und Rampen im Kunstareal
+- TOP 1.5.: Antrag Bündnis 90/Die Grünen vom 28.04.2020 Physical Distancing
+- TOP 1.6.: Antrag SPD vom 08.05.2020 Anhörung zu den geänderten Plänen für die IAA
+- TOP 1.7.: Antrag Bündnis 90/Die Grünen vom 10.05.2020 Rücknahme der Zustimmung des BA-Vorsitzenden zur Veranstaltung des Filmfestes auf dem Königsplatz
+- TOP 1.8.: Antrag Bündnis 90/Die Grünen vom 10.05.2020 Vorstellung der Pläne zu „Open Spaces für die IAA ab 2021 in München“ in öffentlicher Sitzung des Bezirksausschusses
+- TOP 1.9.: Antrag Bündnis 90/Die Grünen vom 15.05.2020 Widerspruch gegen den Beschluss des Münchner Stadtrates am 29.04.2020 in nicht öffentlicher Sitzung des Verwaltungs- und Personalausschusses als Feriensenat, Tages- ordnungspunkt1, Open Spaces für die IAA ab 2021 in München: - Bereitstellung von Innenstadtflächen - Transferachse zwischen Summit und Open Space Sitzungsvorlage Nr. 14-20 / V 18418
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Anhörung zum MVG-Leistungsprogramm 2021
+- TOP 2.1.2.: (E) Stationärer "Blitzer" im Altstadtringtunnel
+- TOP 2.1.3.: (E) Trambahnhaltestelle Lothstraße: Ampelschaltung ändern
+- TOP 2.1.4.: (E) Umwandlung der Arcis- und Karlstraße in eine Fahrradstraße
+- TOP 2.1.5.: Austausch von Lichtsignalanlagen: Barer-/Karlstraße
+- TOP 2.1.6.: Baureferat, Beschlussvorlage Zieblandstraße – Querungshilfe zwischen Teng- und Luisenstraße
+- TOP 2.1.7.: Austausch von Lichtsignalanlagen Karl-/Seidlstraße
+- TOP 2.1.8.: (E) Häufigere Geschwindigkeitsmessungen auf der Ludwigstraße
+- TOP 2.1.9.: Arbeitsbedingungen der sogenannten "Juicer" der E-Scooter - gegen die Schaffung eines neuen Dienstleistungsprekariats!
+- TOP 2.2.1.: (E) Pflanzung einer Baumreihe entlang der gesamten Südseite der Akademiestraße Empfehlung Nr. 14-20 / E 03117 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 28.11.2019
+- TOP 2.2.2.: (E) Baumpflanzungen zur Verbesserung des Mikroklimas Empfehlung Nr. 14-20 / E 03110 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 28.11.2019
+- TOP 2.2.3.: (E) Etablierung eines Wochenmarktes und Foodtrucks auf dem Rudi-Hierl-Platz Empfehlung Nr. 14-20 / E 03121 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 18.10.2018
+- TOP 2.2.4.: (E) Aufstellen von großen Müllcontainern an den Trambahnhaltestellen in der Dachauer Straße Empfehlung Nr. 14-20 / E 03114 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 28.11.2019
+- TOP 2.4.1.: entfällt, s. TOP C 3.13
+- TOP 2.4.2.: Kino Open Air, Königsplatz, 08.06. bis 16.06.2020
+- TOP 2.4.3.: Referat für Arbeit und Wirtschaft, Anhörung zu einer Beschlussvorlage Sommer in der Stadt, Konzeptvorstellung / Einbindung des BA 3 in die Platzfindung
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Umsetzung des Radbegehren komplett vorstellen Antrag Nr. 14-20 / A 06575 von Herrn BM Manuel Pretzl vom 21.01.2020, eingegangen am 21.01.2020
+- TOP 3.2.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Verlegung des Taxistandplatzes und der Behindertenparkplätze vom nördlichen Bahnhofsplatz in der Arnulfstraße b) Übersicht über die 2018 und 2019 im Stadtgebiet München errichteten E-Ladesäulen (alphabetisch nach Straßennamen und nach Stadtbezirken geordnet) c) Busumleitung über Karlstraße in Fahrtrichtung Ost zwischen Seidl- und Luisenstraße
+- TOP 3.3.: (U) Mobilitätsplan für München - - Sachstand der Phase II der Modellstadt 2030 - Sachstand und weiteres Vorgehen zum Mobilitätsplan - Behandlung der Stadtratsanträge Anträge ...........
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Referat für Gesundheit und Umwelt, Ausnahmezulassung Nächtliche Bauarbeiten an den Straßenbahngleisen in der Barer Straße (30.03.-30.05.2020)
+- TOP 3.6.: Stadtwerke MVG Information zu Straßenunterhaltsarbeiten entlang der Trambahnschienen in der Barer Straße
+- TOP 3.7.: Parklizenzbereich Schönfeldviertel: Änderung der Regelungen zum Parken in der Kaulbachstraße
+- TOP 3.8.: (U) Meldeplattform Radverkehr Internetportal zur Bearbeitung von Anregungen und Beschwerden zum Radverkehr
+- TOP 3.9.: Aufstellung von Dialogdisplays in der Türkenstraße Höhe Hausnummer 68
+- TOP 3.10.: Baumaßnahmen der Stadtwerke: a) Trinkwasserprojekt Türkenstraße b) Nymphenburger Straße 64, Strom c) Karlstraße 38, Fernwärme
+- TOP 3.11.: Ausnahmegenehmigung für Baustelleneinrichtung in Grünanlage: Lenbachplatz 6
+- TOP 3.12.: Arbeiten im Straßenraum a) Marsstraße zwischen Denis- und Dachauer Straße: Änderung Phase 7 (Fernkälte-/wärme) b) Marsstraße zwischen Denis- und Dachauer Straße: Fernwärme, Fernkälte, Phase 8 c) Schellingstraße 16-28, Verlegung einer Wasserversorgungsleitung
+- TOP 3.13.: Veranstaltung „München liest aus verbrannten Büchern“ am 10.05.2020 Eilentscheidung des Vorsitzenden vom 22.04.2020, Zustimmung
+- TOP 3.14.: Referat für Gesundheit und Umwelt, Städtische Friedhöfe Alter Südlicher und Alter Nördlicher Friedhof, Bestreifung durch eine Sicherheitsfirma, Ende der Pilotphase zum 30.04.2020
+- TOP 3.15.: Verkehrsrechtliche Anordnungen Dachauer Straße 90, Sonderparkplätze werden aufgenhoben
+- TOP 3.16.: Planfeststellungsverfahren Rückbau und Anpassung des Starnberger Flügelbahnhofs; gesamtstädtische Stellungnahme
+- TOP 3.17.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 3.18.: Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Sitzungsvorlage Nr. 28-26 / V 00232
+- TOP 3.19.: Ausnahmezulassung gem. Bundesimmissionsschutzverordnung (BImSchV), Fernkältemaßnahme LOS 2; Schönfeldstraße/Kaulbachstraße
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Sammelantrag auf Spielaktionen der AG Spiellandschaft Stadt 2020
+- TOP 2.2.: (E) Stadtbezirksbudget Förderverein Schwindschule e.V. Lernförderung und Hausaufgabenbetreuung vom 16.03.2020 - 12.03.2021 6.660,00 Euro, Az.: 0262.0-3-0292
+- TOP 2.3.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl vom 23.05.-01.10.2020 und Artmobil vom 23.06.-03.09.2020 8.316,00€; Az. 0262.0-3-0302
+- TOP 2.4.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl und Artmobil 2021 8.316,00€; Az. 0262.0-3-0303
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen Gertrud-Bäumer-Straße 19 und Dachauer Straße 98, Sitzungsvorlage Nr. 20-26 /V 00061 Eilentscheidung der Vorsitzenden vom 19.05.2020
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget MIR e.V. Veranstaltung „Wer war Lenin?“ am 22.04.2020 1.000,00 €, AZ: 0262.0-03-0300
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Peace Damage" Peace Damage - Phase I von Mai bis Juli 2020 5.375,50 € / Az. 0262.0-3-0301
+- TOP 2.3.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur A.PPLAUS Kinder- und Jugendkultur-Area vom 28.05.-02.06.2020 3.188,00€; Az. 0262.0-3-0304
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Änderung der Bezirksausschusssatzung und der Geschäftsordnung für die Bezirksaus- schüsse der Landeshauptstadt Münch
+- TOP 1.2.: Unterstützung der Bezirksausschüsse beim papierlosen Arbeiten in der Wahlperiode 2020-2026
+- TOP 1.3.: Stadtkämmerei, Anhörung Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2019 bis 2023
+- TOP 1.5.: Weitere Verwendung des Umlaufordners in Corona-Zeiten
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
