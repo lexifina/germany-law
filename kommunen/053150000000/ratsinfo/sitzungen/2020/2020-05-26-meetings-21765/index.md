@@ -1,0 +1,69 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-26T15:30:00+02:00
+- Ende: 2020-05-26T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21765
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21765
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Coronabedingte Auswirkungen auf die Unterbringungssituation
+- TOP -: Antrag „Coronabedingte Auswirkungen auf die Unterbringungssituation der Geflüchteten“ - ungeändert beschlossen
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Netzwerk gegen häusliche Gewalt-Statistik 2018 (DS Nr.3116/2019) - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Unterhaltung von Notunterkünften für ausländische geflüchtete Personen - Kenntnis genommen
+- TOP 3.4: Rückfrage zur Beantwortung einer Anfrage zu politisch motivierter Kriminalität 3953/2019 - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage zur Förderfähigkeit von Institutionen - Kenntnis genommen
+- TOP 3.6: Förderprogramme des Landes für Migrant/innen - Kenntnis genommen
+- TOP 3.7: Beantwortung einer Anfrage zur 'Anmelde- und Auskunftspflicht für Ausländervereine und ausländische Vereine‘ - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Erstellung des Wählerverzeichnisses für die Integrationsratswahlen 2020
+- TOP 4.2: Anfrage zu Kosten der Verteilung eines Informationsschreibens an alle Kölner Haushalte zu den Wahlen 2020
+- TOP 4.3: Sucht und Migration – Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migranten und Migrantinnen in Kölner Kliniken, LVR-Kliniken
+- TOP 4.4: Anfrage zum Polizeieinsatz am Kölner Hauptbahnhof am 9.5.2020
+- TOP 4.5: Anfrage zur Sachbeschädigung an Moschee und auf Verwaltungsgebäude der DITIB
+- TOP 5: Mitteilungen
+- TOP 5.1: 27. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.2: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 5.3: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2019 in der Stadt Köln - Kenntnis genommen
+- TOP 5.4: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen 2019 - Kenntnis genommen
+- TOP 5.5: "Stufenkonzept Frühe Bildung / Flüchtlingskinder" Kölner Modell zur vorschulischen Förderung und Integration von Flüchtlingskindern - Kenntnis genommen
+- TOP 5.6: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 5.7: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 5.8: Verschenkung von Wohncontainern (ehem. Geflüchtetenunterkunft Eygelshovener Straße) - Kenntnis genommen
+- TOP 5.9: Bericht der drei Träger Auszugsmanagement für den Zeitraum 01.01.-31.12.2019 - Kenntnis genommen
+- TOP 5.10: Interkulturelle Zentren Köln – „Die ganze Welt in Köln“ Informationsbroschüre und Übersichtskarte - Kenntnis genommen
+- TOP 5.11: Wie leben queere Jugendliche in Köln? - zurückgestellt
+- TOP 5.12: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 - Kenntnis genommen
+- TOP 5.13: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 5.14: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 5.15: Sachstandsbericht für das Jahr 2019 zu den EHAP-Projekten ALVENI links und rechts vom Rhein - Kenntnis genommen
+- TOP 5.16: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 5.17: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 5.18: Städtische Kindertageseinrichtungen im Bundesprogramm „Sprach-Kitas: Weil Sprache der Schlüssel zur Welt ist“ - Kenntnis genommen
+- TOP 5.19: 28. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 5.20: Unterbringung Geflüchtete: Basisversorgung Internetanbindung - zurückgestellt
+- TOP 5.21: Präventive Hausbesuche für ältere Menschen in Köln – Konzept zur Weiterentwicklung
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Erweiterung der Zuständigkeiten des Integrationsrates – Änderung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 6.2: 10 + 1 Bäume für die Opfer des NSU - ungeändert beschlossen
+- TOP 6.3: Antrag zur Prüfung der Realisierung eines Hauses der Kulturen / House of Resources in Köln - zurückgestellt
+- TOP 6.4: Antrag auf Stärkung der Demokratie durch aktive Bewerbung der Wahlen in Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 6.4 - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Bedarfsplanung vom Amt für Wohnungswesen für neu anzumietende Objekte gem. § 5 Abs. 2 a der Zuständigkeitsverordnung der Stadt Köln vom 13.12.2019 - Sache ist erledigt
+- TOP 8.2: Anerkennung von vier neuen Interkulturellen Zentren Köln - ungeändert beschlossen
+- TOP 8.3: Verteilung der Mittel zur Förderung von neuen Interkulturellen Zentren und die Verwendung des übergreifenden Budgets für Interkulturelle Zentren Köln für das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
