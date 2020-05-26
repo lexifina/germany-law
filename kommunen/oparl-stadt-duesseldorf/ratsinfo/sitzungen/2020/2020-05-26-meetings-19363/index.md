@@ -1,0 +1,84 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-26T17:00:00+02:00
+- Ende: 2020-05-26T23:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19363
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19363
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 04/2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378646.pdf
+- Ergebnisprotokoll: 04/2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378646.pdf
+- Wortprotokoll: 04/2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378646.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 2/2020 vom 10.03.2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Planungs- und Bauangelegenheiten
+- TOP 4: Südlich Haroldstraße -Durchführung des städtebaulichen Wettbewerbs Südlich Haroldstraße - einstimmig beschlossen
+- TOP 5: Plan-Nr. 03/006 Südlich Auf'm Tetelberg - abweichend beschlossen
+- TOP 6: Bebauungsplan-Vorentwurf Nr. 03/011 - Kaistraße 1 - einstimmig beschlossen
+- TOP 7: Satzungsbeschluss B-Plan Nr. 03/033 Nordöstlich Halbinsel Kesselstraße. - mehrheitlich beschlossen
+- TOP 8: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - einstimmig beschlossen
+- TOP 9: Vier Raumbilder für das Raumwerk D - zur Kenntnis genommen
+- TOP 10: Bebauungsplan - Vorentwurf Nr. 03/017 - Elisabethstraße / Bachstraße - einstimmig beschlossen
+- TOP 11: Bebauungsplan-Entwurf Nr. 03/032 - Östlich Völklinger Straße - einstimmig beschlossen
+- TOP 12: Luisenstraße 105; Abriss einer bestehenden Halle mit der Anschrift Helmholtzstraße 17-19 - einstimmig beschlossen
+- TOP 13: Burghofstraße 78; Ausbau des Dachgeschosses und Anbau von Balkonen sowie von Wintergärten im Erdgeschoss - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.1: Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses für die Sanierung von Fassaden an acht Schulen - einstimmig beschlossen
+- TOP -: Verkehrsangelegenheiten
+- TOP 15: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - einstimmig beschlossen
+- TOP 15.1: Wohngebiet Hauptbahnhof-Ost- Einrichtung eines Bewohnerparkgebietes - einstimmig beschlossen
+- TOP 16: Radverkehrsplanung Witzelstraße / Moorenplatz – Querschnittsvarianten im Weg parallel zur Witzelstraße im Bereich Unikliniken - mehrheitlich beschlossen
+- TOP 17: ÖPNV-Beschleunigung und Verbesserung der Radführung am Knoten Kruppstraße/Oberbilker Allee - einstimmig beschlossen
+- TOP 18: Radwegeplanung Oberbilker Allee – Zwischenzustand im Bereich zwischen Corneliusstraße und Hüttenstraße - abweichend beschlossen
+- TOP 19: Anpassung des Knotens Auf`m Hennekamp / Himmelgeister Straße / Kopernikusstraße im Rahmen der ÖPNV-Beschleunigung - einstimmig beschlossen
+- TOP 20: Maßnahmen zur Förderung der Verkehrssicherheit und des Radverkehrs im Bereich der Bilker Allee - zurückgestellt
+- TOP 21: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 22: Fahrradständer im Stadtbezirk 3
+- TOP 22.1: Planung und Durchführung Fahrradständer im Stadtbezirk 3 - abweichend beschlossen
+- TOP 22.2: Fahrradständer entlang der Burghofstraße und der Ringelsweide - einstimmig beschlossen
+- TOP 22.3: Fahrradständer auf dem Ernst-Reuter-Platz/Adersstraße - einstimmig beschlossen
+- TOP 22.4: Fahrradständer auf dem südlichen Teil der Himmelgeister Straße - einstimmig beschlossen
+- TOP 22.5: sonstige Vorschläge
+- TOP 23: Anträge
+- TOP 23.1: steril grün in naturfreundlich umwandeln - einstimmig beschlossen
+- TOP 23.2: Kirchplatz „Wildes Parken“ - einstimmig beschlossen
+- TOP 23.3: Blühwiese Kirchplatz - abweichend beschlossen
+- TOP 23.4: Gedenktafel Heinrich Spoerl - einstimmig beschlossen
+- TOP 23.5: Einrichtung von Fahrradabstellplätzen unterhalb der Brückenrampe der Rheinkniebrücke Zugang über Reichsstraße - einstimmig beschlossen
+- TOP 23.6: Sanierung des Fuß-/Radweges am Rhein entlang vom Kreisel Auf der Böck/Auf den Steinen bis zur Eisenbahnbrücke - einstimmig beschlossen
+- TOP 23.7: Sanierung der Fahrbahn "Am Sandacker" - einstimmig beschlossen
+- TOP 23.8: Fortsetzung der Radspur begleitend im Kreisverkehr Himmelgeister Straße/Moorenstraße - abweichend beschlossen
+- TOP 23.9: Antrag zur Optimierung des Verkehrsflusses Kreuzung Fleher Straße/Südring - mehrheitlich abgelehnt
+- TOP 24: Initiativen des Jugendrates
+- TOP 24.1: Montage einer Lichtanlage im Außenhof der Jugendfreizeiteinrichtung „V24“ - abweichend beschlossen
+- TOP 24.2: Errichtung eines Fußgängerüberwegs/ Zebrastreifens über die Höhenstraße 5/ Ecke Bogenstraße - zurückgestellt
+- TOP 25: Anfragen
+- TOP 25.1: Stellplätze für Fahrräder und Autos - schriftlich beantwortet
+- TOP 25.2: Parkraumbewirtschaftung in Oberbilk - vertagt
+- TOP 25.3: Sicherheit für Fußgängerinnen und Fußgänger und Radfahrerinnen und Radfahrer - schriftlich beantwortet
+- TOP 25.4: Anfrage zur Aufnahme und Unterbringung Geflüchteter im Stadtbezirk 3 - schriftlich beantwortet
+- TOP 25.5: Modernisierung Fahrrad- und Rollerabstellanlagen an Schulen im Stadtbezirk3 - vertagt
+- TOP 25.6: Radweg auf Aachener Straße zwischen Im Dahlacker und Südring - schriftlich beantwortet
+- TOP 26: Haushaltsangelegenheiten
+- TOP 26.1: Bezirklicher Bauunterhalt - Haushaltsjahr 2020, Stadtbezirk 3, Liste A - Schulen - einstimmig beschlossen
+- TOP 26.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
+- TOP 26.3: Auf´m Hennekamp 45; Instandsetzung des überdachten Fahrradunterstandes - einstimmig beschlossen
+- TOP 26.4: Hüttenstraße 68; Betonsanierung der Fensterumrandung; Mehrkosten - einstimmig beschlossen
+- TOP 26.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020; Errichtung eines Besucherpavillons am Standort Auf'm Hennekamp 45 - einstimmig beschlossen
+- TOP 26.6: Impulz Theaterprojekte; Zuschussantrag - einstimmig beschlossen
+- TOP 26.7: Blumenkübel 2020 - einstimmig beschlossen
+- TOP 26.8: Martinstraße 58; Erneuerung im Innenbereich - einstimmig beschlossen
+- TOP 26.9: WelcomePoint 03, Markise; Zuschussantrag - abweichend beschlossen
+- TOP 26.10: Heerstraße 19; Umbaumaßnahmen - abweichend beschlossen
+- TOP 26.11: Helmholtzstraße 38; Schutzmaßnahmen - abweichend beschlossen
+- TOP 26.12: Heerstraße 19; Klimagerechter Umbau - einstimmig beschlossen
+- TOP 27: Sonstiges
+- TOP 27.1: Geplante Straßenbaumaßnahmen in den nächsten 2 bis 3 Jahren - zur Kenntnis genommen
+- TOP 28: Mitteilungen des Bezirksbürgermeisters
