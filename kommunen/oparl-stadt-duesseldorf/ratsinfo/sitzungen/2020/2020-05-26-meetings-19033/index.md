@@ -1,0 +1,73 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-26T17:05:00+02:00
+- Ende: 2020-05-26T19:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19033
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19033
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378254.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378254.pdf
+- Wortprotokoll: Sitzungsunterlagen-oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378254.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 26. Februar 2020 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: An Sankt Swidbert/Niederrheinstraße, Feuerwache der freiwilligen Feuerwehr Kaiserswerth - Neubau, Bedarfsbeschluss - Empfehlung abweichend beschlossen
+- TOP 9: Wahl einer Schiedsperson - vertagt
+- TOP 10: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - vertagt
+- TOP 11: Vier Raumbilder für das Raumwerk D - vertagt
+- TOP 12: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Empfehlung abweichend beschlossen
+- TOP 13: Neupflanzungen Stadtbaumkonzept, Pflanzsaison 2020/2021 - zurückgezogen
+- TOP 14: Instandsetzung Gehweg Lantzallee - einstimmig beschlossen
+- TOP 15: Zuschuss an den ISD Sportverein e.V. - mehrheitlich beschlossen
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW zum Thema "Berichterstattung P+R in und um Düsseldorf" - einstimmig beschlossen
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2020 - Liste A) Schulen 2121101 / 52415500 - einstimmig beschlossen
+- TOP 19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2020 (Liste B), Denkmäler und Kunstobjekte im Lantz'schen Park - einstimmig beschlossen
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2020 (Liste B), Blumenoasen im Stadtbezirk 5 - einstimmig beschlossen
+- TOP -: Informationsvorlage mit eventueller Berichterstattung
+- TOP 21: Berichterstattung über die Vorbereitung des Planfeststellungsverfahrens für das Vorhaben Rhein-Ruhr-Express (RRX) im Planfeststellungsabschnitt (PFA 3.1) Kalkum-Angermund hier: Sachstand zu den Planungsbereichen Bahnhof Angermund und An den Kämpen - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 22: Erhöhung der Sicherheit für die Schulkinder der Grundschule auf der Beckbuschstraße - mehrheitlich beschlossen
+- TOP 23: Verbesserung der Sicherheit an der Fahrradabstellanlage in Stockum - mehrheitlich beschlossen
+- TOP 24: Verkehrssituation und Entwässerung für Flucht- und Rettungswege im Schulbetrieb der Grundschule Wittlaer - mehrheitlich beschlossen
+- TOP 25: Berichterstattung zum Autokino auf dem Messeparkplatz ¬– Präjudiz für Open Air Fläche? - mehrheitlich beschlossen
+- TOP 26: Entschärfung von Konflikten zwischen Fuß- und Radverkehr auf Deichwegen - mehrheitlich beschlossen
+- TOP 27: BV 5 stellt zum 11. Jahrestag klar: Das Plattbodenschiff muss in Kaiserswerth ausgestellt werden! Raddampfer-Museum für Kaiserswerth prüfen - mehrheitlich beschlossen
+- TOP 28: Auf dem Weg in eine "wachsame, verantwortliche Normalität" - "Innovationsschub" nutzen! - mehrheitlich beschlossen
+- TOP 29: Auf dem Weg in eine „wachsame, verantwortliche Normalität“ – Sitzungen der BV 5 in der gewohnten Art und Weise ermöglichen! - mehrheitlich beschlossen
+- TOP 30: Auf dem Weg in eine „wachsame, verantwortliche Normalität“ – Sitzungen der Fraktionen und des Einzelmitglieds in der BV 5 in der gewohnten Art und Weise ermöglichen! - mehrheitlich beschlossen
+- TOP -: Informationsvorlage
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 32: Gefährliche Auf- und Abfahrten an der B8n - beantwortet
+- TOP 33: Erschließung der Grundstücke Einbrunger Straße 82 a- d - beantwortet
+- TOP 34: Sachstand Radwegeführung Freiligrathplatz und Kaiserswerther Straße - beantwortet
+- TOP 35: Unfallherd Kreuzung Sandweg/Am Roten Haus? - beantwortet
+- TOP 36: Bau eines Rheinbahn-Depot auf dem Hauptbetriebshof des Gartenamtes "Am Staad/Stockumer Höfe"? - beantwortet
+- TOP 37: Parkplätze Lintorfer Waldstraße
+- TOP 38: Sperrung des Spazierweges entlang des Schwarzbachs in Wittlaer - beantwortet
+- TOP 39: Beschädigter Pflasterbelag Edmund-Bertrams-Straße - beantwortet
+- TOP 40: Öffentliche Ladeinfrastruktur für E-Mobilität im Düsseldorfer Norden - beantwortet
+- TOP 41: Haus Litzbrück - beantwortet
+- TOP -: Neue Anfragen
+- TOP 42: Erweiterung der Friedrich-von-Spee-Grundschule in Angermund - beantwortet
+- TOP 43: Bürgerbüro Kaiserswerth im Antoniushaus, Kaiserswerth - beantwortet
+- TOP 44: Erneute LKW-Verkehre auf der Stockumer Kirchstraße - beantwortet
+- TOP 45: Eingriffe im Landschaftsschutzgebiet Schwarzbachaue südlich der Einbrunger Straße - beantwortet
+- TOP 46: Bauplanungsrechtliche Situation zur Erweiterung der Fliedner Fachhochschule, Kaiserswerth
+- TOP 47: Denkmalwürdigkeit des Hauses Sankt-Göres-Straße 24 - beantwortet
+- TOP 48: Parken auf der Plektrudisstraße Kaiserswerth
+- TOP 49: Planungsrecht für eine Pumptrack-Anlage in Wittlaer
+- TOP 50: Verschiedenes
