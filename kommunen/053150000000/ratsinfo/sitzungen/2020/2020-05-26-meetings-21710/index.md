@@ -1,0 +1,70 @@
+# 57. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-26T16:04:00+02:00
+- Ende: 2020-05-26T18:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21710
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21710
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar, Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772823.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar, Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772823.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar, Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772823.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Mündlicher Bericht der KVB AG zu den Maßnahmen und Auswirkungen während der Corona-Pandemie
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Zweite Pandemiewelle verhindern – "Abstand halten" ermöglichen! - endgültig abgelehnt
+- TOP 1.1.1: Änderungsantrag zu TOP 1.1 Zweite Pandemiewelle verhindern – "Abstand halten" ermöglichen! - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Abbruch und Ersatzneubau der Brücke Escher See in Köln-Esch - ungeändert beschlossen
+- TOP 3.2: Neubau einer Fuß- und Radwegbrücke über die Weinsbergstraße in Köln-Ehrenfeld Baubeschluss - ungeändert beschlossen
+- TOP 3.3: Planungsbeschluss für eine dauerhafte Fuß- und Radwegerampe an der linksrheinischen nördlichen Seite der Hohenzollernbrücke am Rheinufer - im ersten Durchgang verwiesen
+- TOP 3.4: 64. Anordnung der Kostenspaltung - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellungsbeschluss zur Abwicklung des Touristenbusverkehrs in der Adventszeit - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - unter Vorbehalt beschlossen
+- TOP 4.2: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - ungeändert empfohlen
+- TOP 4.3: Bedarfsfeststellungsbeschluss zur Erweiterung des Verkehrsmanagementsystems und Einrichtung von 80 Dauerzählstellen zur Erfassung von Verkehrsmengen sowie Beschluss zur Bereitstellung einer außerplanmäßigen Auszahlungsermächtigung - ungeändert empfohlen
+- TOP 4.4: Erweiterter Planungsbeschluss für den Abriss und Ersatzneubau der Fuß- und Radwegbrücke Escher Str. - ungeändert empfohlen
+- TOP 4.5: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.5.1: Ersetzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Ausbau der Systematischen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 4.7: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - im ersten Durchgang verwiesen
+- TOP 4.8: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - im ersten Durchgang verwiesen
+- TOP 4.9: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - im ersten Durchgang verwiesen
+- TOP 4.10: Fortschreibung Förderkonzept „Lastenräder für Köln“ - Förderaufruf 2020/2021 - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Top 7.2.2 – DSNR 1081/2020 Änderungen des Gemeindeverkehrsfinanzierungsge-setzes (GVFG) - Sache ist erledigt
+- TOP 5.2.1.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 18.05.2020 betr. Top 7.2.2 – NR 1081/2020 Änderungen des Gemeindeverkehrsfinanzierungsgesetzes (GVFG) - Kenntnis genommen
+- TOP 5.2.2: Verkehrschaos und Asbestängste - warum ist von der Oberbürgermeisterin und der Verwaltung nichts zur Leverkusener Brücke zu hören? - Sache ist erledigt
+- TOP 5.2.2.1: Verkehrschaos und Asbestängste - warum ist von der Oberbürgermeisterin und der Verwaltung nichts zur Leverkusener Brücke zu hören? - Kenntnis genommen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Busspur Innere Kanalstraße - Sache ist erledigt
+- TOP 6.2: Fortführung der Lastenförderung 2020 - Sache ist erledigt
+- TOP 6.3: Photovoltaikanlagen auf P+R-Parkanlagen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Mehrkosten für die Generalsanierung des Tunnels Grenzstraße/Kalk - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Information zum Sachstand Lastenradförderung 2019 - Kenntnis genommen
+- TOP 7.2.2: Änderungen des Gemeindeverkehrsfinanzierungsgesetzes (GVFG) - Kenntnis genommen
+- TOP 7.2.3: Klimaneutrales Köln - Kenntnis genommen
+- TOP 7.2.4: Mögliche Pläne zum Abriss oder Umgestaltung der Rodenkirchener Brücke - Kenntnis genommen
+- TOP 7.2.5: Gesamtinstandsetzung Mülheimer Brücke - zurückgestellt
+- TOP 7.2.6: Verkehrsführungskonzept Altstadt - Kenntnis genommen
+- TOP 7.2.7: Umgestaltung lrh. Uferpromenade von Deutzer Brücke bis Malakoffturm - zurückgestellt
+- TOP 7.2.8: ÖPNV Roadmap - aktueller Sachstand - zurückgestellt
+- TOP 7.2.9: Veränderte Prioritäten im Klimaschutz - Kenntnis genommen
+- TOP 7.2.10: Einsatz von Bodycams bei der KVB - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Parkplätze für Lastenräder - Sache ist erledigt
+- TOP 8.2: Verkehrsmaßnahmen während der Corona-Pandemie - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Tödlicher Unfall am Friesenplatz - zur weiteren Bearbeitung in die Verwaltung überwiesen
