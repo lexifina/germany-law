@@ -1,0 +1,7 @@
+# TOP 8.: Bericht FD350 - Soziales - zur Leistungsgewährung im Jahr 2019
+
+- Sitzung: Ausschuss für Arbeit, Soziales, Familie und Bevölkerungsentwicklung (25. Sitzung) (2020-05-26)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/47738
+- Beratung: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/19433
