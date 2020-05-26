@@ -1,0 +1,9 @@
+# TOP 10.: Verkehrssituation Tersteegenstraße/Wuppertaler Straße Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 03.03.2020
+
+- Sitzung: Bezirksvertretung Gräfrath (41. Sitzung) (2020-05-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/58109
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/32440
+- Beschluss (Datei): Beschlusstext (Verkehrssituation Tersteegenstraße/Wuppertaler Straße
+Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 03.03.2020) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTLNa1Jm2VC2TFLVG3KF3pJLsOCg4sRbd0iaFDnC_L_D/Beschlusstext_6763-2020_1._Erg._-oeffentlich-_Bezirksvertretung_Graefrath_26.05.2020.pdf
