@@ -1,0 +1,122 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-26T16:30:00+02:00
+- Ende: 2020-05-26T18:40:00+02:00
+- Ort: Marie-Curie-Gymnasium  Pädagogisches Zentrum, Gräulinger Str. 15
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18994
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18994
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00379553.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00379553.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00379553.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Handwerker- und Bauernmarkt auf dem Gerricusplatz im Jahre 2020 - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2020) - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.6: Verwendung von Haushaltsmitteln - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.7: Grundsatzbeschluss: Marie-Curie-Gymnasium, Gräulinger Straße 15 - Sanierung der naturwissenschaftlichen Fach- und Nebenräume - - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.8: Verwendung von Haushaltsmitteln - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.9: Umrüstung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - Renovierung Bürgerbüro - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - Umrüstung LED-Beleuchtung - - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.11: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - einstimmig beschlossen
+- TOP 4.12: Vier Raumbilder für das Raumwerk D - einstimmig beschlossen
+- TOP 4.13: Metro Campus - Durchführung eines Workshops vor einem Wettbewerbsverfahren - einstimmig beschlossen
+- TOP 4.14: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Empfehlung abweichend beschlossen
+- TOP 4.15: Sachstand - Bergische Kaserne - zur Kenntnis genommen
+- TOP 4.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.17: Sportanlage Heyestraße Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 4.18: Quadenhofstraße 151, Friedhof Gerresheim, Gesamtsanierung der Unteren Kapelle - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 4.19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
+- TOP 4.20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
+- TOP 4.21: Neupflanzungen Stadtbaumkonzept, Pflanzsaison 2020/2021 - einstimmig beschlossen
+- TOP 4.22: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.23: Ludenberger Straße 17a und 19 - Beseitigung zweier gartenseitiger Anbauten im Bereich einer Erhaltungssatzung - - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Fußweg Zamenhofweg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.2: Baumpatenschaften - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.3: Verkehrsführung Villa Sohl - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 5.4: Verkehrsführung Villa Sohl während der Bauphase - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 5.5: Weg entlang Pillebach (von Kleineforstweg bis Am Backesberg) - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Litfaßsäule Staufenplatz - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.7: Beleuchtung Bereich Dreherstraße/ Einfahrt Wiebachweg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Beleuchtung Gehrtstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.9: Hinweisschild Fußgängertunnel Staufenplatz - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.10: CO – Pipeline Dormagen - Uerdingen - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.11: Städtisches Grundstück Benderstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Spielplatz „Alter Friedhof“ an der Dreherstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.13: Beleuchtung Fußweg unterhalb Bushaltestelle Gallberg - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 5.14: Kletterbalken auf dem Schulhof der Gutenbergschule - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.15: Erneuerung Geländer entlang des Fuß- und Radweges Gallberg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.16: Erneuerung Sporthalle Gymnasium Gerresheim - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.17: Öffnung von Einbahnstraßen für den Radverkehr in beide Fahrtrichtungen - einstimmig beschlossen
+- TOP 5.18: Stele Ehrenfriedhof Blanckertzstraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.19: Wohnmobile auf dem Schützenplatz - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.20: Grüner Pfeil für Fahrradfahrer - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.21: Kein Aufenthalt auf Fußgänger-Mittelinseln - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 5.22: Aufwertung der südlichen Heyestraße - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.23: Sulzbachstraße/Torfbruchstraße sicher für ÖPNV, Rad- und Fußverkehr - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Aufwertung des Standorts Heyestraße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Fahrkartenautomat - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Erhaltungssatzung Gerresheim-Süd - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Spontaner Beschluss zur Denkmalwürdigkeit für alte Trinkwassertanks - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.2: Anmeldezahlen Gerresheimer Gymnasien - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.3: Hundekotbeutel - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Kindertageseinrichtung St. Maria vom Frieden - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Anmeldungen Gerresheimer Gymnasien – Schuljahr 2020/ 2021 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.10: Brückensanierungen - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.11: Waldbrandgefahr im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Neubau Trinkwasserspeicher "Auf der Hardt" - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.2: Ottostraße - Informationsvorlage zum Beschluss der BV7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.3: Neubau einer Kindertageseinrichtung, einer Großtagespflege sowie eines zusätzlichen Raumes für ein Sportangebot an der Halleschen Straße (Bedarfsbeschluss) - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.4: Platz bei Glascontainer auf Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.5: Engere Reinigungsintervalle für Container Torfbruch-/Sulzbachstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.6: Ostparkweiher - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.7: Schattenspender für Spielplatz Heinrich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.8: Zügige Besetzung der freien Stelle in der Jugendeinrichtung "Heyebad" - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2019 - - zur Kenntnis genommen
+- TOP 8.9: Zwischennutzung der Fläche für eine Jugendfreizeiteinrichtung am Quellenbusch - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2019 - - zur Kenntnis genommen
+- TOP 8.10: Schulwegsicherung Katholische Grundschule Unter den Eichen - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.11: Fahrbahn "Am Gründewald" - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.12: Sanierung Bürgersteig "Am Poth", Ostseite - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.13: Reit- und Fußwegtrennung ab Gothaer Weg / Innere südliche Düssel - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.14: Aufnahme des Diepenparks in die Prioritätenliste für Mehrgenerationenflächen - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.15: U-Bahnkonzept/Unterirdische Weiterführung der Wehrhahnlinie bis zum Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.16: Verkehrssituation am Gerricusplatz - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.17: Trinkwasserbrunnen in der Fußgängerzone am Neusser Tor; Gerresheim Süd stärken: Trinkwasserbrunnen für die Heyestraße - Informationsvorlage zu den Beschlüssen der BV 7 vom 26.11.2019 und 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.18: Verbindungsweg entlang der Düssel zwischen Dreherstraße und Zweibrückenstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.19: Bike Sharing für Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.20: Unterführung Bahnhof Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.21: Spielplatz Dreherpark - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.22: Geländerertüchtigung - Information zum Arbeitsstand der provisorischen Geländerertüchtigung - - zur Kenntnis genommen
+- TOP 8.23: Markierung Parkverbot Eisenacher Weg - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.24: Verkehrssicherheit an der Kreuzung Dreherstraße/Hallesche/Diepenstraße - Informationsvorlage zum Beschluss der BV 7 vom 27.11.2018 - - zur Kenntnis genommen
+- TOP 8.25: Änderung der Ampelschaltung an der Einmündung des Pöhlenwegs, um Fußgänger*innen die Querung zu erleichtern - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.26: Geschwindigkeitsanzeige Josef-Neuberger-Straße - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2020 - - zur Kenntnis genommen
+- TOP 8.27: Zuwegung von der Düsselbrücke (bei „Zur Düsselaue “) in Richtung Kamper Weg - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.28: Öffnung von Einbahnstraßen für den Radverkehr - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.29: Anbringung größerer Abfallbehälter entlang des Schulweges vom S-Bahnhof Gerresheim zum Kamper Weg - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.30: Beschleunigung des Umweltverbundes auf der B7 - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2019 - - zur Kenntnis genommen
+- TOP 8.31: Torfbruchstraße 185 - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.32: Bedarfsampel für Fußgängerquerung Torfbruchstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.33: Ampelanlage an der Zufahrt Sulzbachstraße/Torfbruchstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.02.2019 - - zur Kenntnis genommen
