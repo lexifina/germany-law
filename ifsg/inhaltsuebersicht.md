@@ -30,8 +30,8 @@
 | 4. Abschnitt - Verhütung übertragbarer Krankheiten |
 |  |
 | § 15a | Durchführung der infektionshygienischen und hygienischen Überwachung |
-| § 16 | Allgemeine Maßnahmen der zuständigen Behörde |
-| § 17 | Besondere Maßnahmen der zuständigen Behörde, Rechtsverordnungen durch die Länder |
+| § 16 | Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten |
+| § 17 | Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung |
 | § 18 | Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen |
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
@@ -45,10 +45,10 @@
 | § 24 | Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung |
 | § 25 | Ermittlungen |
 | § 26 | Teilnahme des behandelnden Arztes |
-| § 27 | Unterrichtungspflichten des Gesundheitsamtes |
+| § 27 | Gegenseitige Unterrichtung |
 | § 28 | Schutzmaßnahmen |
 | § 29 | Beobachtung |
-| § 30 | Quarantäne |
+| § 30 | Absonderung |
 | § 31 | Berufliches Tätigkeitsverbot |
 | § 32 | Erlass von Rechtsverordnungen |
 |  |
@@ -87,9 +87,11 @@
 | § 53 | Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge |
 | § 53a | Verfahren über eine einheitliche Stelle, Entscheidungsfrist |
 |  |
-| 10. Abschnitt - Zuständige Behörde |
+| 10. Abschnitt - Vollzug des Gesetzes und zuständige Behörden |
 |  |
-| § 54 | Benennung der Behörde |
+| § 54 | Vollzug durch die Länder |
+| § 54a | Vollzug durch die Bundeswehr |
+| § 54b | Vollzug durch das Eisenbahn-Bundesamt |
 |  |
 | 11. Abschnitt - Angleichung an Gemeinschaftsrecht |
 |  |
@@ -114,20 +116,15 @@
 | 13. Abschnitt - Kosten |
 |  |
 | § 69 | Kosten |
+| §§ 70 – 72 | (weggefallen) |
 |  |
-| 14. Abschnitt - Sondervorschriften |
-|  |
-| § 70 | Aufgaben der Bundeswehr und des Gesundheitsamtes |
-| § 71 | (weggefallen) |
-| § 72 | Aufgaben des Eisenbahn-Bundesamtes |
-|  |
-| 15. Abschnitt - Straf- und Bußgeldvorschriften |
+| 14. Abschnitt - Straf- und Bußgeldvorschriften |
 |  |
 | § 73 | Bußgeldvorschriften |
 | § 74 | Strafvorschriften |
 | § 75 | Weitere Strafvorschriften |
 | § 76 | Einziehung |
 |  |
-| 16. Abschnitt - Übergangsvorschriften |
+| 15. Abschnitt - Übergangsvorschriften |
 |  |
 | § 77 | Übergangsvorschriften |

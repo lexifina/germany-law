@@ -32,8 +32,8 @@
 
 ## 4. Abschnitt Verhütung übertragbarer Krankheiten
 
-- [§ 16 Allgemeine Maßnahmen der zuständigen Behörde](0016.md)
-- [§ 17 Besondere Maßnahmen der zuständigen Behörde, Rechtsverordnungen durch die Länder](0017.md)
+- [§ 16 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten](0016.md)
+- [§ 17 Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung](0017.md)
 - [§ 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen](0018.md)
 - [§ 19 Aufgaben des Gesundheitsamtes in besonderen Fällen](0019.md)
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
@@ -47,10 +47,10 @@
 - [§ 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung](0024.md)
 - [§ 25 Ermittlungen](0025.md)
 - [§ 26 Teilnahme des behandelnden Arztes](0026.md)
-- [§ 27 Unterrichtungspflichten des Gesundheitsamtes](0027.md)
+- [§ 27 Gegenseitige Unterrichtung](0027.md)
 - [§ 28 Schutzmaßnahmen](0028.md)
 - [§ 29 Beobachtung](0029.md)
-- [§ 30 Quarantäne](0030.md)
+- [§ 30 Absonderung](0030.md)
 - [§ 31 Berufliches Tätigkeitsverbot](0031.md)
 - [§ 32 Erlass von Rechtsverordnungen](0032.md)
 
@@ -94,9 +94,11 @@ Erlaubnis](0047.md)
 - [§ 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge](0053.md)
 - [§ 53a Verfahren über eine einheitliche Stelle, Entscheidungsfrist](0053a.md)
 
-## 10. Abschnitt Zuständige Behörde
+## 10. Abschnitt Vollzug des Gesetzes und zuständige Behörden
 
-- [§ 54 Benennung der Behörde](0054.md)
+- [§ 54 Vollzug durch die Länder](0054.md)
+- [§ 54a Vollzug durch die Bundeswehr](0054a.md)
+- [§ 54b Vollzug durch das Eisenbahn-Bundesamt](0054b.md)
 
 ## 11. Abschnitt Angleichung an Gemeinschaftsrecht
 
@@ -124,17 +126,17 @@ Erlaubnis](0047.md)
 
 ## 14. Abschnitt Sondervorschriften
 
-- [§ 70 Aufgaben der Bundeswehr und des Gesundheitsamtes](0070.md)
+- [§ 70 (weggefallen)](0070.md)
 - [§ 71 (weggefallen)](0071.md)
-- [§ 72 Aufgaben des Eisenbahn-Bundesamtes](0072.md)
+- [§ 72 (weggefallen)](0072.md)
 
-## 15. Abschnitt Straf- und Bußgeldvorschriften
+## 14. Abschnitt Straf- und Bußgeldvorschriften
 
 - [§ 73 Bußgeldvorschriften](0073.md)
 - [§ 74 Strafvorschriften](0074.md)
 - [§ 75 Weitere Strafvorschriften](0075.md)
 - [§ 76 Einziehung](0076.md)
 
-## 16. Abschnitt Übergangsvorschriften
+## 15. Abschnitt Übergangsvorschriften
 
 - [§ 77 Übergangsvorschriften](0077.md)
