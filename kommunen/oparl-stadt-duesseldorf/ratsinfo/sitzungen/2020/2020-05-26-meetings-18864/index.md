@@ -1,0 +1,68 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-26T16:00:00+02:00
+- Ende: 2020-05-26T18:40:00+02:00
+- Ort: Geänderter Sitzungsort! Werner-von-Siemens Realschule, Rethelstraße 13, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18864
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18864
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378448.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378448.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378448.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/02/2020 vom 18.02.2020 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Empfehlung mehrheitlich beschlossen
+- TOP 5: Wohngebiet Liststraße - Einrichtung eines Bewohnerparkgebietes - Empfehlung mehrheitlich beschlossen
+- TOP 6: Wohngebiet Windscheidstraße - Einrichtung eines Bewohnerparkgebietes - Empfehlung mehrheitlich beschlossen
+- TOP 7: Bezirkssportanlage Flinger Broich (Paul-Janes-Stadion): Ertüchtigung Gästezugang und Wallanlagen, Erneuerung Kunstrasen - Empfehlung einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Metro Campus - Durchführung eines Workshops vor einem Wettbewerbsverfahren - Empfehlung einstimmig beschlossen
+- TOP 10: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 11: Vier Raumbilder für das Raumwerk D - Empfehlung mehrheitlich beschlossen
+- TOP 12: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - Empfehlung einstimmig abgelehnt
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2020 (Liste B) - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung Bezirklicher Bauunterhalt Stadtbezirk 2 - Schulbaumaßnahmen - einstimmig beschlossen
+- TOP 17: Genehmigung einer Dringlichkeitsentscheidung Verwendung von bezirksbezogenen Haushaltsmitteln - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Vorstellung von Abstellmöglichkeiten für Lastenräder - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 21: Geschwindigkeitstafeln auf der Gerresheimer Straße in Höhe Wetterstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 22: Zuschuss für Spielplatzbetreuungen durch die Bürgerinitiative Flingern im Stadtwerkepark und auf dem Hermannplatz sowie Spielmaterial - Antrag der Fraktionen von SPD und Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für die Bürgerinitiative Flingern - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 24: Bezirksbezogene Haushaltsmittel für die Aktion Blumenkübel - Antrag der Fraktionen von Bündnis 90/Die Grünen und SPD - einstimmig beschlossen
+- TOP 25: Bezirksbezogene Haushaltsmittel für Blumenkübel auf der Birkenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 26: Bezirksbezogene Haushaltsmittel für Jugendvideowettbewerb „24h To Take“ 2020 - Antrag der Fraktionen von - einstimmig beschlossen
+- TOP 27: Vorstellung der amtlichen Kriminalstatistik 2019 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 28: Bank Weseler-/Ecke Mülheimer Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 29: Zweckentfremdung von Wohnraum - Anwendung der Wohnraumschutzsatzung-Sachstandsbericht - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 30: Erneuerung der Geländer entlang der Düssel auf der Kühlwetterstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 31: Berechnung von Fahrradstellplätzen im Rahmen der Verkehrswende - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 32: Information des Amtes für Verkehrsmanagements aus September 2019 zum Einsatz der Geschwindigkeitstafeln im Stadtbezirk 2 im Jahr 2018 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 33: Zustand der S-Bahnhöfe im Stadtbezirk 2 - Anfrage der CDU-Fraktion
+- TOP 34: Poller vor der Cranachstraße 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 35: Schutz der Fußgehenden auf Verkehrsinseln - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 36: Spielzeugcontainer Spielplatz Engerstrasse - Anfrage der SPD-Fraktion
+- TOP 37: Gänsemanagement im Zoopark - Anfrage der SPD-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 38: Verkehrssicherung im Baustellenbereich Grafenberger Allee 114/116 - Beschluss der Bezirksvertretung 2, Vorlage BV2/004/2020 - zur Kenntnis genommen
+- TOP 39: Lückenschluss des Fußgängerweges entlang der westlichen Seite der Otto-Petersen-Straße inklusive Fahrradwegmarkierung - Beschluss der Bezirksvertretung 2; Vorlage BV2/023/2020 - zur Kenntnis genommen
+- TOP 40: Scheidtstraße/Brehmstraße-Gefahrenstelle - Beschluss der Bezirksvertretung 2, Vorlage BV2/070/2019 - zur Kenntnis genommen
+- TOP 41: Haltestelle Zoo S-Bahnhof - Beschluss der Bezirksvertretung 2, Vorlage BV2/027/2020 - zur Kenntnis genommen
+- TOP 42: Walter-Eucken-Straße - Belästigung durch Wochenendparker - zur Kenntnis genommen
+- TOP 43: Neue Haltestelle Allwetterbad - Beschluss der Bezirksbertretung 2, Vorlage BV2/086/2019 - zur Kenntnis genommen
+- TOP 44: Hinweis auf verbreiterten Radweg am Ende Grafenberger Allee/Wehrhahnbrücke - Beschluss der Bezirksvertretung 2, Vorlage 172/ 44/2019 - zur Kenntnis genommen
+- TOP 45: Beschilderung 30er Zonen vor Schulen - Beschluss der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 46: Aufpflasterungen an den Einmündungen der Grafenberger Allee mit den Straßen Neanderstraße, Achenbachstraße und Engerstraße - zur Kenntnis genommen
+- TOP 47: Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses für die Sanierung von Fassaden an sieben Schulen - Empfehlung einstimmig beschlossen
