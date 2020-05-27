@@ -1,0 +1,68 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-05-27T17:00:00+02:00
+- Ende: 2020-05-27T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19342
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19342
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö OVA 27.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378836.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö OVA 27.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378836.pdf
+- Wortprotokoll: Sitzungspaket Ö OVA 27.05.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00378836.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Anfragen
+- TOP 4.1: Gefahren im Straßenverkehr minimieren -Anfrage der CDU-Ratsfraktion- - vertagt
+- TOP 4.2: Sachstand Stadtbahn-/Straßenbahnanbindung Universität/Wersten -Anfrage der CDU-Ratsfraktion- - vertagt
+- TOP 5: Anträge
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Bericht des Dezernates 03 zur Corona-Lage - zur Kenntnis genommen
+- TOP 7.2: Statusbericht der Rheinbahn AG zu Corona - zur Kenntnis genommen
+- TOP 7.3: Mündlicher Bericht zur Teilnahme der Landeshauptstadt Düsseldorf an den FußverkehrsChecks 2020 - zur Kenntnis genommen
+- TOP 7.4: Sachstandsbericht zur K-Bahn - zur Kenntnis genommen
+- TOP 7.5: Bericht des Ordnungsamtes zur Corona-Lage - zur Kenntnis genommen
+- TOP 8: Vier Raumbilder für das Raumwerk D - zur Kenntnis genommen
+- TOP 8.1: Vier Raumbilder für das Raumwerk D - Empfehlung mehrheitlich beschlossen
+- TOP 9: Blaugrüner Ring - Bestätigung des Wettbewerbsergebnisses - Grundsatzbeschluss zum weiteren Vorgehen - Empfehlung mehrheitlich beschlossen
+- TOP 10: Bebauungsplan-Vorentwurf Nr. 01/016 Konrad-Adenauer-Platz - Öffentlichkeitsbeteiligung - Empfehlung abweichend beschlossen
+- TOP 11: Radfahrstreifen Königsberger Straße und Sandträgerweg im Bereich zwischen Posener Straße und Bunzlauer Weg - einstimmig beschlossen
+- TOP 12: Am Trippelsberg - Protected Bike Lane zwischen Karweg und Bonner Straße mit barrierefreiem Ausbau der Bushaltestellen „Am Trippelsberg“ - einstimmig beschlossen
+- TOP 13: Radwegeplanung Oberbilker Allee – Zwischenzustand im Bereich zwischen Corneliusstraße und Hüttenstraße - einstimmig beschlossen
+- TOP 14: Maßnahmen zur Förderung der Verkehrssicherheit und des Radverkehrs im Bereich der Bilker Allee - mehrheitlich beschlossen
+- TOP 15: Radverkehrsplanung Witzelstraße / Moorenplatz – Querschnittsvarianten im Weg parallel zur Witzelstraße im Bereich Unikliniken - mehrheitlich beschlossen
+- TOP 16: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Empfehlung abweichend beschlossen
+- TOP 17: Wohngebiet Hauptbahnhof-Ost- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 18: Wohngebiet Liststraße - Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 19: Wohngebiet Windscheidstraße - Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 20: Reaktivierung der Ratinger Weststrecke für den Personenverkehr - einstimmig beschlossen
+- TOP 21: Reduktion der Betriebsstörungen an Stadt- und Straßenbahnlinien durch die Reduktion von Falschparkern – Pilotstrecke Derendorfer Straße - vertagt
+- TOP 22: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - vertagt
+- TOP 23: ÖPNV-Beschleunigung und Verbesserung der Radführung am Knoten Kruppstraße/Oberbilker Allee - einstimmig beschlossen
+- TOP 24: Anpassung des Knotens Auf`m Hennekamp / Himmelgeister Straße / Kopernikusstraße im Rahmen der ÖPNV-Beschleunigung - vertagt
+- TOP 25: Fortführung Testbetrieb Umweltspuren - vertagt
+- TOP 26: Prüfergebnis und Umsetzung der Anbindung des P+R-Platzes an der Messe P2 mit der U78 - mehrheitlich beschlossen
+- TOP 27: Entwicklung Kesselstraße - Beauftragung einer externen Projektsteuerung - Empfehlung einstimmig beschlossen
+- TOP 28: Berichterstattung über die Vorbereitung des Planfeststellungsverfahrens für das Vorhaben Rhein-Ruhr-Express (RRX) im Planfeststellungsabschnitt (PFA 2.0) Hellerhof-Reisholz hier: Sachstand Kreuzungsbauwerke Reisholz - vertagt
+- TOP 29: Berichterstattung über die Vorbereitung des Planfeststellungsverfahrens für das Vorhaben Rhein-Ruhr-Express (RRX) im Planfeststellungsabschnitt (PFA 3.1) Kalkum-Angermund hier: Sachstand zu den Planungsbereichen Bahnhof Angermund und An den Kämpen - vertagt
+- TOP 30: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 31: Wahl einer Schiedsperson - zurückgezogen
+- TOP 32: Sachstand Aufhebung Radwegebenutzungspflicht - zur Kenntnis genommen
+- TOP 33: Radwegeanlagen entlang der Rheinachse - mehrheitlich beschlossen
+- TOP 33.1: Änderungsantrag der Ratsfraktionen SPD und Bündnis 90/Die Grünen zur Vorlage „Radwegeanlagen entlang der Rheinachse“ (Vorlage OVA/072/2020) zur Sitzung des Ordnungs-und Verkehrsausschusses der Landeshauptstadt Düsseldorf am 27.05.2020 - mehrheitlich beschlossen
+- TOP 34: Mindestabstand auf Gehwegen ermöglichen durch Rücknahme der Genehmigung zum Gehwegparken - vertagt
+- TOP 35: Pünktlichkeitsbericht der Rheinbahn für das Jahr 2019 - zur Kenntnis genommen
+- TOP 36: Sachstandsbericht über die verkehrstechnischen Anlagen der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 37: Umsetzungsstand Radschnellweg für den Düsseldorfer Süden - zur Kenntnis genommen
+- TOP 38: Veranstaltungen Burgplatz – Nachmeldungen zum Jahresprogramm 2020 - einstimmig beschlossen
+- TOP 39: Luftqualität 2019 - vertagt
+- TOP 40: Erster Bericht zum Ratsbeschluss "Saubere Luft für Düsseldorf: Reduzierung von NOx-Emissionen vorantreiben!" - vertagt
+- TOP 41: Ausführungs- und Finanzierungsbeschluss für die Maßnahme Umbau des Knotenpunktes Forst- /Kleinstraße - einstimmig beschlossen
