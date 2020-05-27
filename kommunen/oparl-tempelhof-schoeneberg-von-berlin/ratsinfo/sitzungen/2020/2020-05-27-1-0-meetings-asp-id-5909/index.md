@@ -1,0 +1,179 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Achtung! Sitzungsbeginn 17:00 Uhr!
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-05-27T17:00:00+02:00
+- Ende: 2020-05-27T21:00:00+02:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5909
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5909
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Unerledigte Beschlüsse der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Benennung eines_r Bezirksverordneten als Mitglied in den Kulturbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz - "Saubere Schulen in Tempelhof-Schöneberg" - ohne Änderungen in der BVV beschlossen
+- TOP 3.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Gleditschstrasse Achtung keine voreiligen Handlungen - ohne Änderungen in der BVV beschlossen
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Ausbau der Radverkehrs-Infrastruktur im Bezirk - beantwortet
+- TOP 8.2: Schutz und Unterstützung in der Corona-Krise für Beschäftigte und pflegebedürftige Menschen in Alten- und Pflegeheimen - beantwortet
+- TOP 8.3: Arbeitsfähigkeit des Bezirksamts auch in Zeiten des Coronavirus? - vertagt
+- TOP 8.4: Teileinziehung des Breslauer Platzes - schriftlich beantwortet
+- TOP 8.5: Hilfen für Geflüchtete im Bezirk? - schriftlich beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Festsetzung des vorhabenbezogenen Bebauungsplans 7-81 VE für die Grundstücke Gotenstraße 52-53 / Tempelhofer Weg 38-47 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Schulwegsicherheit an der Havelland-Schule durch Anpassung der Ampelschaltung erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Frauentoiletten mit Menstruationsprodukten ausstatten - überwiesen
+- TOP 10.3: Anmietung von Flächen für eine temporäre Schule statt Errichtung auf dem Gelände der Kolonie Eschenallee prüfen - überwiesen
+- TOP 10.4: Rheumatologische Versorgung im Bezirk sicherstellen - vertagt
+- TOP 10.5: Überprüfung der Löhne bei „Aufstockern“ auf Mindestlohn durch das Jobcenter - überwiesen
+- TOP 10.6: Realistische Sachkostenerstattung für die im Bezirk tätigen Schiedspersonen - überwiesen
+- TOP 10.7: Regenwasserduschen für Fußgänger*innen beenden - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Mehr Regenbogen wagen - mit Änderungen in der BVV beschlossen
+- TOP 10.9: Luisa ist hier! - Hilfsangebot für Frauen und Mädchen in der Partyszene - überwiesen
+- TOP 10.10: Vollstreckung von Bußgeldern bei Verstößen gegen den Mietendeckel aussetzen - vertagt
+- TOP 10.11: Versprechen einhalten - Konsequenzen aus der Einwohner_innenversammlung zur Marienhöhe ziehen - überwiesen
+- TOP 10.12: Schlaglöcher in der Hedwigstraße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Kinderlärm ist Zukunftsmusik – von Schallschutzmaßnahmen in Bädern absehen - überwiesen
+- TOP 10.14: Verkehrswende in Tempelhof-Schöneberg mit Ladestellen unterstützen - überwiesen
+- TOP 10.15: Aktiv gegen Antisemitismus & gruppenbezogene Menschenfeindlichkeit - überwiesen
+- TOP 10.16: Das Angebot des „Mobilen Bürgeramtes/Bürgeramtskoffer“ für Tempelhof-Schöneberg ausbauen. - mit Änderungen in der BVV beschlossen
+- TOP 10.17: Eingang zum Bahnhof Südkreuz an der zum Nord-Süd-Grünzug gelegenen Seite wieder öffnen - mit Änderungen in der BVV beschlossen
+- TOP 10.18: Sensortechnik für mehr Hygiene und Infektionsschutz in den Toilettenanlagen unseres Bezirks - mit Änderungen in der BVV beschlossen
+- TOP 10.19: Fahrradführung in die Else-Lasker-Schüler-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Sozialräumliche Arbeit in der Berliner Jugendhilfe weiterentwickeln - überwiesen
+- TOP 10.21: Zusätzliches Kleinspielfeld in der Bosestraße ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Sanierung Goltzstraße und Gleditschstraße rund um den Winterfeldtplatz - mit Änderungen in der BVV beschlossen
+- TOP 10.23: Teileinziehung der Lauterstraße umsetzen - überwiesen
+- TOP 10.24: Notfalldosen fördern - mit Änderungen in der BVV beschlossen
+- TOP 10.25: Wahl eines stellv. Bürgerdeputierten - vertagt
+- TOP 10.26: Öffentlichen Gesundheitsdienst besser auf epidemische Lagen vorbereiten und auch langfristig nach der Pandemie strukturell stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Die BVV Tempelhof-Schöneberg verurteilt jedwede extremistische Gewalt - in der BVV abgelehnt
+- TOP 10.28: Keine weiteren Privatisierungsschritte und keine Zerschlagung der Berliner S-Bahn - vertagt
+- TOP 10.29: Sonntags auf – Umsatz rauf! - in der BVV abgelehnt
+- TOP 10.30: Beschäftigte der Berliner Krankenhäuser sowie Beschäftigte in Alten- und Pflegeheimen brauchen sofort einen finanziellen und arbeitsrechtlichen Schutzschirm - mit Änderungen in der BVV beschlossen
+- TOP 10.31: Bürgerservice wieder auf 100% bringen - vertagt
+- TOP 10.32: Keine temporären Corona-Radwege für Tempelhof-Schöneberg - in der BVV abgelehnt
+- TOP 10.33: Benennung des „Flaschenhalsparks“ in Dora-Duncker-Park - mit Änderungen in der BVV beschlossen
+- TOP 10.34: Unterstützung der Schulen und Planungssicherheit für das nächste Schuljahr - vertagt
+- TOP 10.35: Aus den Augen – aus dem Sinn? - in der BVV abgelehnt
+- TOP 10.36: Freiluftkino oder Autokino auf Parkplätzen im Süden des Bezirks für Marienfelde/ Lichtenrade & Mariendorf ermöglichen. - überwiesen
+- TOP 10.37: Bedarfs-Lichtsignalanlagen mit berührungsfreier Technik ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 10.38: Hygienische Schulreinigung jederzeit sicherstellen - vertagt
+- TOP 10.39: Der Bezirk steht an der Seite seiner Sportvereine: Miteinander reden und handeln - die Vereine sehnen sich nach Sportbetrieb - vertagt
+- TOP 10.40: Fußgängerübergang in der General-Pape-Straße sicherer gestalten - in der BVV abgelehnt
+- TOP 10.41: Förderung von Besuchskabinen in Pflegeheimen - überwiesen
+- TOP 10.42: Sicherer Fahrradverkehr: „Fahrradfallen“ in Mariendorf beseitigen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.43: Homeoffice dauerhaft im Bezirk ermöglichen - überwiesen
+- TOP 10.44: Gastronomie in Tempelhof-Schöneberg entlasten - im Ältestenrat zurückgezogen
+- TOP 10.45: Livestream aus der BVV - jetzt erst recht! - überwiesen
+- TOP 10.46: Keine Waffenläden in Tempelhof-Schöneberg! - in der BVV abgelehnt
+- TOP 10.47: Sperrmüll in den Straßen entfernen lassen - mit Änderungen in der BVV beschlossen
+- TOP 10.48: Verkehrssicherheit für Fußgänger*innen am Knotenpunkt Hauptstraße Ecke Albertstraße bzw. Eisenacher Straße - überwiesen
+- TOP 10.49: Missglückte Busspur am Lichtenrader Damm retten - überwiesen
+- TOP 10.50: Die BVV rechtzeitig über Vorhaben unterrichten und ihr Entscheidungsrecht bei der Errichtung bezirklicher Einrichtungen wahren - vertagt
+- TOP 10.51: Schutz und Sicherstellung von Beschulung in den Gemeinschaftsunterkünften - überwiesen
+- TOP 10.52: Parks reinigen und nutzbar(er) machen - mit Änderungen in der BVV beschlossen
+- TOP 10.53: Sicherheit für den Fuß- und Radverkehr am Südwestkorso herstellen - überwiesen
+- TOP 10.54: 20% mehr Abfallkörbe für die Grünanlagen in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.55: Pilotprojekt mit Trixi-Spiegeln in Tempelhof-Schöneberg - in der BVV abgelehnt
+- TOP 10.56: Seniorenfreizeitstätten ab 1. Juli 2020 wieder öffnen - überwiesen
+- TOP 10.57: Unfallschwerpunkt An der Urania/Kleiststraße/Lietzenburger Str./Martin-Luther-Str. endlich beseitigen - mit Änderungen in der BVV beschlossen
+- TOP 10.58: Gastronomie unterstützen – Sonderregelungen für die Bestuhlung im öffentlichen Raum schaffen - in der BVV abgelehnt
+- TOP 10.59: Aktive finanzielle und logistische Unterstützung der Seniorenvertretung während der Coronakrise - überwiesen
+- TOP 10.60: Spielplätze sauber halten - mit Änderungen in der BVV beschlossen
+- TOP 10.61: Gastronomie unterstützen – Straßenlandsondernutzung pauschal genehmigen und auf Gebühren verzichten - mit Änderungen in der BVV beschlossen
+- TOP 10.62: Waffenladen in der Potsdamer Straße 183 – Ein falsches Signal an der falschen Stelle - mit Änderungen im Ausschuss beschlossen
+- TOP 10.63: Medientaschen für Kinder und Familien - überwiesen
+- TOP 10.64: Natur und Kultur: Wiederherstellung der Freilichtbühne Marienhöhe prüfen - mit Änderungen in der BVV beschlossen
+- TOP 10.65: Amtshilfe Bäume bewässern - mit Änderungen in der BVV beschlossen
+- TOP 10.66: Zukunft für Gabenzäune im Bezirk - überwiesen
+- TOP 10.67: Blutspender*innen in Tempelhof-Schöneberg auch in Corona-Zeiten unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 10.68: Jahresbericht der Registerstelle auf die Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 11.1: Müll im öffentlichen Raum - schriftlich beantwortet
+- TOP 11.2: Gewaltschutz in Corona-Zeiten - vertagt
+- TOP 11.3: Parkraumbewirtschaftung überall - nur nicht in Friedenau? - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Selbstverteidigung & Selbstbehauptung für Mädchen* - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Inklusions- & Parasport unterstützen - jährlichen Förderpreis vergeben - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Queersport unterstützen - jährlichen Förderpreis vergeben - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Benennungen von Sportanlagen transparent, geschichtsbewusst & gleichstellungsfördernd gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Projekt „Kiez-Hausmeister“ eng begleiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Freischaffende Künstler*innen in Tempelhof-Schöneberg stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Zentrenkonzept fortschreiben und städtebauliche Entwicklungsimpulse geben - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Kein Abzug von der Miete bei sozialen Leistungsemfänger_innen bei Mietminderungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Zusammensetzung der Wohnbevölkerung schützen Verkäufe an „Proforma-Mieter*innen“ in Milieuschutzgebieten unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Über die Weiterentwicklung des Wenckebach-Klinikums informieren - vertagt
+- TOP 12.11: B-Plan-Verfahren am Mühlenberg aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Stufenvorweggewährungen im RSD vereinfachen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Wo Vierfüßler um die Wette laufen, können dies auch Zweifüßler – Trabrennbahn Mariendorf für weitere Sportarten nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Bike-Flashs in Tempelhof-Schöneberg erproben - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Literatur gegen Homophobie in die Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: des Bezirksamtes Tempelhof-Schöneberg über den Entwurf einer FNP-Änderung für den Bereich Attilastraße/Röblingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Aufenthaltsqualität des Bayrischen Platzes mit einfachen Mitteln erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Ökologische Einbindung Landschaftsschutzgebiet Marienfelde - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Bessere Voraussetzungen zur Vermeidung von Wohnungslosigkeit und Obdachlosigkeit psychisch kranker Menschen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Keine weitere Ausübung des Vorkaufsrechts zugunsten der „DIESE eG“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Laubbeseitigung in Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Grünanlagen im Zeichen der Klimaerwärmung - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Eine öffentliche Toilette für den Bayerischen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Erinnerung an Dr. Kurt Gudell endlich umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Mahnmal wieder ins Zentrum - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Löhne auf Sittenwidrigkeit bei „Aufstockern“ durch das Jobcenter überprüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Ergonomie in den Schulen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: Städtebauliche Planung Am Mühlenberg im Baukollegium beraten - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Dresdner Bahn: Parkplatz Briesingstraße als P+R-Erweiterung - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Gedenktafel für entrechtete Bezirks- und Stadtverordnete 1933 - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Flächennutzung am Sachsendamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.32: Bauvorhaben Mühlenberg – Mehrwert für den Kiez sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Gartendenkmal Bayerischer Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.34: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung für ein chinesisches-deutsches Mathematik-Projekt - ohne Änderungen in der BVV beschlossen
+- TOP 12.35: Vergabe von Sondermittel der Bezirksverordnetenversammlung - Unterstützung für die Ausrichtung des 20. internationalen Fußball-Tuniers - ohne Änderungen in der BVV beschlossen
+- TOP 12.36: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung für die Her- und Aufstellung von Informationstafeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.37: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Unterstützung zur Anschaffung für eine neue Saalbestuhlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.38: Kitasanierung: Ämterübergreifende Arbeitsgruppe einrichten. - ohne Änderungen in der BVV beschlossen
+- TOP 12.39: Personaloffensive für den Regionalen Sozialdienst (RSD) - ohne Änderungen in der BVV beschlossen
+- TOP 12.40: Umsteigen bitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.41: Röhrenskulptur von Fridtjof Schliephacke durch Umsetzung sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.42: Grünzug nach Gerda und Wolfgang Szepansky benennen - ohne Änderungen in der BVV beschlossen
+- TOP 12.43: Aufstellung historischer Informationstafeln anlässlich des 800. Gründungsjubiläums von Marienfelde - ohne Änderungen in der BVV beschlossen
+- TOP 12.44: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - finanzielle Unterstützung für die Herstellung von Paste Ups anlässlich "800 Jahre Marienfelde" - ohne Änderungen in der BVV beschlossen
+- TOP 12.45: Kultur trotz(t) Corona - ohne Änderungen in der BVV beschlossen
+- TOP 12.46: Organspende - ja bitte! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.2: Rücknahme der Mieterhöhungen bei städtischen Wohnbaugesellschaften - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Pflege (auch) im Süden des Bezirks unterstützen - überwiesen
+- TOP 13.4: Tempo 30 am Zebrastreifen General-Pape-Straße / Hertha-Block-Promenade - überwiesen
+- TOP 13.5: Hauptstadtregion Berlin-Brandenburg – Tempelhof-Schöneberg gehört dazu - überwiesen
+- TOP 13.6: Für die Sicherheit unserer Kinder: keine Elterntaxis! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: U-Bahnlinie 6: Zukunftsoptionen nicht verbauen! - überwiesen
+- TOP 13.8: Geburtstag Tucholskys auf Gedenktafel korrigieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: LARA über das Jahresende hinaus unterstützen - überwiesen
+- TOP 13.10: Ausweichstandort Hundeauslaufplatz - überwiesen
+- TOP 13.11: Verkehrsberuhigung im Pilatusweg dauerhaft sichern - überwiesen
+- TOP 13.12: Online-Chronik des Bezirkes fortschreiben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.13: Veranstaltungen verständlich machen - überwiesen
+- TOP 13.14: Niedrigschwelliges Testangebot auf HIV und andere sexuell übertragbare Krankheiten ausbauen - überwiesen
+- TOP 13.15: Koordinierungsgruppe gegen sogenannte Clankriminalität in Tempelhof-Schöneberg einrichten - überwiesen
+- TOP 13.16: Umgestaltung des Kleistparks öffentlich diskutieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Historische Lichtenrader Postagentur (1893-1904) in Alt-Lichtenrade vor dem Verfall schützen - überwiesen
+- TOP 13.18: Planungen und Machbarkeitsstudie für Verlängerung der U6 nach Süden jetzt anschieben - vertagt
+- TOP 13.19: Verkehr in der Gartenstadt Neu-Tempelhof überwachen und reduzieren – Anwohner endlich entlasten! - vertagt
+- TOP 13.20: Erweiterung des Geltungsbereichs des im Verfahren befindlichen Bebauungsplans 7-80 um östlich der Straße Altes Gaswerk Mariendorf liegen-de Teilflächen sowie Teilflächen der Ringstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13.21: Vertragsmanagement für städtebauliche Verträge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.22: Bahnunterführung der Lichtenrader Bahnhofstraße zeitgemäß bauen - vertagt
+- TOP 13.23: Einleitung des Verfahrens zur Aufstellung des vorhabenbezogenen Bebauungsplanes. 7 101 VE für die Grundstücke Reichartstraße 2, Geneststraße 5 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - vertagt
+- TOP 14: Termin der nächsten Sitzung - im Ausschuss abgelehnt
