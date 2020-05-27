@@ -1,0 +1,52 @@
+# 42. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen - Zugangsdaten: https://global.gotomeeting.com/join/475770301
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-05-27T17:30:00+02:00
+- Ende: 2020-05-27T20:10:00+02:00
+- Ort: UNVG , https://global.gotomeeting.com/join/487267477
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5025
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5025
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=470227
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=472943
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 35. Sitzung am 23.10.2019 (verschickt am 22.01.2020) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.2: der 38. Sitzung am 21.01.2020 (verschickt am 16.02.2020) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.3: der 39. Sitzung am 19.02.2020 (verschickt am 20.05.2020) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.4: der 41. Sitzung am 29.04.2020 (verschickt 20.05.2020) - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Viertelstunde - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Runder Tisch Engelbecken - vertagt
+- TOP 4.2: Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten - vertagt
+- TOP 4.3: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - mit Änderungen im Ausschuss beschlossen
+- TOP 4.4: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - vertagt
+- TOP 4.5: über den Beschluss über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 Baugesetzbuch (BauGB) zum Bebau-ungsplanverfahren I-57-1 (Monbijou-Theater). - vertagt
+- TOP 4.6: Runder Tisch Mobilität - im Ausschuss abgelehnt
+- TOP 4.7: Himmelbeet auf den Mettmannplatz! - im Ausschuss zurückgezogen
+- TOP 4.8: Plantagenstraße zur Spielstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Stadtklima verbessern, Grünflächen entsiegeln - vertagt
+- TOP 4.10: Größere Baumscheiben für Straßenbäume - vertagt
+- TOP 4.11: Spreeuferweg im Nikolaiviertel - vertagt
+- TOP 4.12: Verkehrsberuhigung in Wohnkiezen – „Superblocks“ (Superilles) auch für Mitte - vertagt
+- TOP 4.13: Altglassammelcontainer – Standorte bekanntgeben - vertagt
+- TOP 4.14: Mehr Rücksicht auf Fußgänger an Bushaltestellen - vertagt
+- TOP 4.15: Anordnung Tempo 30 für die Veteranenstraße - vertagt
+- TOP 4.16: Querung Fennstraße endlich sicher machen - vertagt
+- TOP 4.17: Verkehrssicherheit im Brüsseler Kiez erhöhen - vertagt
+- TOP 4.18: Mühlendammbrücke retten - vertagt
+- TOP 4.19: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung" - vertagt
+- TOP 4.20: Mühlendammbrücke - vertagt
+- TOP 4.21: Tempo 30 für die Köpenicker Str. - vertagt
+- TOP 5: Verschiedenes - erledigt
+- TOP 6: Terminplanung - erledigt
