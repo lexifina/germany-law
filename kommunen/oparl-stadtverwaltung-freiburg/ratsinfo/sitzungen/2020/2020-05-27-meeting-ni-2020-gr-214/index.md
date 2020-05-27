@@ -1,0 +1,57 @@
+# 6. Sitzung des Gemeinderates
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2020-05-27T16:05:00+02:00
+- Ende: 2020-05-27T21:50:00+02:00
+- Ort: Großer Saal im Bürgerhaus Zähringen, Lameystraße 2, 79108 Freiburg im Breisgau
+- Status: durchgeführt
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2020-GR-214
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2020-GR-214
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschlussfassung zum weiteren Verfahren h i e r : interfraktioneller Antrag „Entwicklung einer kommunalen offensiven Informationsstrategie zur Inanspruchnahme von Wohngeld“ - Antrag -
+- TOP 2: Beschlussfassung zum weiteren Verfahren h i e r : Antrag der Fraktionsgemeinschaft SPD/Kulturliste "doppelte Haushaltsabsicherung - weiteres Antragsfenster für städtische Zuschüsse an Einrichtungen" - Antrag -
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Beschlussfassung zum weiteren Verfahren h i e r : interfraktioneller Antrag "Fuß- und Radverkehr mit Sicherheitsabstand" - Antrag -
+- TOP 11: Gremienbildung h i e r : Reaktivierung sowie Neubesetzung der gemeinderätlichen Augustinerkommission
+- TOP 13: 3. Änderung des 1. Teilbebauungsplans „Flugplatz / Universitätsquartier“, Plan-Nr. 2-73.1c (Stadtteil Brühl) - vereinfachtes Verfahren nach § 13 Baugesetzbuch (BauGB) h i e r : a) Entscheidung über die im Rahmen der förmlichen Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Satzungsbeschluss
+- TOP 15: Bebauungsplan mit örtlichen Bauvorschriften „Staudinger Schulen“, Plan-Nr. 6-29d (Haslach) - Beschleunigtes Verfahren nach § 13a Baugesetzbuch (BauGB) h i e r : a) Entscheidung über die im Rahmen der förmlichen Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Satzungsbeschluss
+- TOP 16: Bebauungsplan mit örtlichen Bauvorschriften „Schwarzwaldstraße (Ecke Schützen / Maria-Hilf)“, Plan-Nr. 4-88 (Stadtteil Wiehre) h i e r : a) Sachstand b) Fortführung des Bebauungsplans im beschleunigten Verfahren nach § 13a Baugesetzbuch (BauGB) c) Verzicht auf die frühzeitige Öffentlichkeits- und Behördenbeteiligung d) Billigung des Planentwurfs für die förmliche Öffentlichkeits- und Behördenbeteiligung (Offenlagebeschluss)
+- TOP 17: Bebauungsplan „9. Änderung des Bebauungsplans Gewerbegebiet Schildacker", Plan-Nr. 6-17i (Haslach) h i e r : Aufstellungsbeschluss
+- TOP 18: Verfahren nach § 13a Baugesetzbuch (BauGB) h i e r : a) Aufstellungsbeschluss b) Billigung der städtebaulichen Konzeption für die frühzeitige Öffentlichkeits- und Behördenbeteiligung
+- TOP 20: Neuer Stadtteil Dietenbach h i e r : Vorvertrag über die Kooperation zwischen der Gemeinde Bahlingen am Kaiserstuhl und der Stadt Freiburg beim Projekt „Wilde Weiden“ als naturschutzrechtlicher Ausgleich für den neuen Stadtteil Dietenbach
+- TOP 22: Direktvergabe Freiburger Verkehrs AG (VAG) h i e r : Regelung zur Finanzierung von Investitionen (Infrastruktur und Fahrzeuge)
+- TOP 26: Eigenbetrieb Theater Freiburg h i e r : Verfahren und Zeitplan zur Neubesetzung der Stelle „Generalmusikdirektor_in“ zum 01.09.2022
+- TOP 26.1: Eigenbetrieb Theater Freiburg h i e r : Verfahren und Zeitplan zur Neubesetzung der Stelle „Generalmusikdirektor_in“ zum 01.09.2022
+- TOP 31: Jahresabschlüsse 2019 der ASF GmbH, der ASF Solar Verwaltungs-GmbH und der ASF Solar GmbH & Co. KG
+- TOP 32: Entlastung der Aufsichtsrät_innen der ASF GmbH, der ASF Solar Verwaltungs-GmbH und der ASF Solar GmbH & Co. KG für das Jahr 2019
+- TOP 33: 12. Änderung des Flächennutzungsplans 2020 - Waldhaus im Parallelverfahren mit dem Bebauungsplan "WaldHaus", Plan-Nr. 4-80 (Drucksache G-20/079) h i e r : a) Entscheidung über die im Rahmen der förmlichen Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Feststellungsbeschluss
+- TOP 34: Bebauungsplan mit örtlicher Bauvorschrift „WaldHaus“, Plan-Nr. 4-80 (Günterstal) h i e r : a) Entscheidung über die im Rahmen der förmlichen Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Satzungsbeschluss c) Beschluss der Selbstverpflichtung zur Durchführung planexterner Ausgleichsmaßnahmen
+- TOP 35: Soziale Erhaltungssatzung „Haslach - Kernbereich östlich der Bahnlinie“ h i e r : Beschluss über die Aufstellung einer Sozialen Erhaltungssatzung nach § 172 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB)
+- TOP 38: Stadtbahn Messe h i e r : Projektgenehmigung für den Bau einer stadtbahnbedingten Maßnahme im Zuge des Ausbaues der Stadtbahn Messe - Sanierung der Madisonallee (stadteinwärts)
+- TOP 40: Soziale Erhaltungssatzung „Stühlinger – westlich des Kernbereichs“ h i e r : Beschluss über die Aufstellung einer Sozialen Erhaltungssatzung nach § 172 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB)
+- TOP 5: Änderung der Geschäftsordnung des Gemeinderats der Stadt Freiburg i. Br.
+- TOP 6: Neubesetzung von gemeinderätlichen Ausschüssen, Gremien und Organen der Gesellschaften mit städtischer Beteiligung h i e r : Antrag der Fraktion der Freien Wähler vom 27.01.2020
+- TOP 8: Beratung und Beschlussfassung zum Einwohnerantrag „5 Jahre Mietstopp bei der Freiburger Stadtbau“
+- TOP 7: Freiburger Stadtbau GmbH (FSB): Konzeption „FSB 2030 – Mehr Wohnen. Faire Mieten. Für Freiburg.“ sowie Änderung der Hauptsatzung
+- TOP 9: Förderung genossenschaftlichen Wohnens h i e r : a) interfraktioneller Antrag nach § 34 GemO vom 26.04.2019 zur Gründung einer Freiburg Genossenschaft b) Unterstützung und Förderung von neuen genossenschaftlichen Wohnprojekten
+- TOP 10: Erneute Terminierung der Neuwahl des Migrant_innenbeirats 2020
+- TOP 12: Baugebiet „Alter Sportplatz Ebnet“ h i e r : Sonderprogramm familienfreundliches Wohnen auf Erbbaurechtsbasis
+- TOP 14: Bebauungsplan mit örtlichen Bauvorschriften „Elsässer Straße / Obere/Untere Lachen“, Plan-Nr. 5-118, (Mooswald) – Beschleunigtes Verfahren nach § 13 a Baugesetzbuch (BauGB) h i e r : a) Entscheidung über die im Rahmen der förmlichen Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Satzungsbeschluss
+- TOP 19: Neuer Stadtteil Dietenbach h i e r : a) Sachstand und Beschluss zur (Gesamt-)Kosten- und Finanzierungsübersicht b) Einführung einer Sonderrechnung für den neuen Stadtteil Dietenbach c) Beschluss der Kosten- und Finanzierungsübersicht für das Jahr 2020 d) Teilnahme der Sonderrechnung am städtischen Liquiditätsverbund
+- TOP 21: Stadtbahnausbau 2030 h i e r : Rahmenzeitplan für die Stadtbahnprojekte des „Vordringlichen Bedarfs“ sowie Finanzierung von Investitionen für den weiteren Stadtbahnausbau
+- TOP 23: ÖPNV h i e r : Anpassung der Tarife im Regio-Verkehrsverbund Freiburg (RVF)
+- TOP 24: Erweiterung des Berthold-Gymnasiums h i e r : Grundsatzbeschluss
+- TOP 25: Ausbau von Gymnasien h i e r : Standortentscheidung für ein weiteres Gymnasium
+- TOP 27: Sanierung und Neukonzeption des Augustinermuseums h i e r : Kostenfortschreibung für den 3. Bauabschnitt
+- TOP 28: Polizeiliche Kriminalstatistik 2019
+- TOP 29: Sicherheitspartnerschaft zwischen dem Land Baden-Württemberg und der Stadt Freiburg im Breisgau h i e r : Evaluation
+- TOP 30: Situation im öffentlichen Raum h i e r : Bericht zur Straßensozialarbeit, Kommunalen Kriminal- und Suchtprävention, dem Gemeindevollzugsdienst sowie Vollzugsdienst
+- TOP 36: Bebauungsplan „Güterbahnradweg FR2 Bereich Breisacher Straße / Elsässer Straße“, Plan-Nr. 9-001 h i e r : a) Aufstellungsbeschluss b) Billigung der Konzeption für die frühzeitige Öffentlichkeits- und Behördenbeteiligung
+- TOP 37: Bebauungsplan „Radvorrangroute FR3 Bereich Friedhofstraße“, Plan Nr. 9-002 h i e r : a) Aufstellungsbeschluss b) Billigung der Konzeption für die frühzeitige Öffentlichkeits- und Behördenbeteiligung
+- TOP 39: Zentren-Aktivierungs-Konzept (ZAK) Betzenhausen-Bischofslinde h i e r : Entwurf Betzenhauser Torplatz - Projektgenehmigung
+- TOP 41: Temporäre Sondernutzung Außengastronomie
+- TOP 42: Bekanntgaben und Aktuelles
