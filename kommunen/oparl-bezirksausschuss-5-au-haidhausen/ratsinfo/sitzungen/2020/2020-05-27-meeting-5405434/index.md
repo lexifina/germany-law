@@ -1,0 +1,158 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-05-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405434
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405434
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Beauftragter für Menschen mit Behinderung
+- TOP 4.: Integration
+- TOP 5.: Gleichstellung
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 11.: Radverkehr
+- TOP 12.: Senioren
+- TOP 13.: Solarenergie
+- TOP 0.: Einführung
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 1.1.: Benennung der stellvertretenden Vorsitzenden für die Unterausschüsse - Mobilität - Klima und Umwelt - Soziales, Gesundheit und Inklusion - Kultur und Freizeit - Planung - Wirtschaft Vertagung aus der Konstituierenden Sitzung vom 06.05.2020
+- TOP 2.1.: Die Tagesordnung wird wie folgt geändert: UA Wirtschaft: - TOP 1.0 (Antrag Nachprüfungsrecht Freischankflächen) wird aufgenommen - TOP 1.1 und 1.2 wird abgesetzt - TOP 2.1 (Sommer in der Stadt) wird aufgenommen - TOP 4.1 (Unterstützung für einen Mandelstand) wird aufgenommen UA Planung: - TOP 2.7 (Bauvorhaben Oefelestr. 4) wird aufgenommen - TOP 4.2 (Bauliche Zustände in der Wolfgangstr. 21) wird aufgenommen UA Mobilität: - zu TOP 2.3 (Antrag Busverkehr in der Prinzregentenstraße) wird aufgenommen - TOP 4.3a (Radweg Gebsattelberg) wird aufgenommen
+- TOP 5.1.: Straßenbeleuchtung optimieren
+- TOP 5.2.: Verkehrssituation am Rosenheimer Berg (stadteinwärts) entschärfen !
+- TOP 5.3.: Einrichtung eines temporären Radwegs (Pop-up-Radweg) in der Rosenheimer Straße stadteinwärts
+- TOP 5.4.: Corona: Leistungen der Alten- und Service-Zentren
+- TOP 5.5.: Corona: Berührungsfreie Nutzung der Ampel Innere-Wiener-Straße / Stubenvollstraße
+- TOP 5.6.: Corona: Abstand für Fuß- und Radverkehr sicherstellen
+- TOP 6.1.1.: Stadtbezirksbudget - Bestellung einer städtischen Leistung Befüllung und Entleerung der Enzis 2020
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Desert of Unrest" "Desert of Unrest" am 30.04.2020 1.000,00 € / Az. 0262.0-5-0286 Vertagung aus der Sitzung vom 29.04.2020 - siehe auch UA Kultur -
+- TOP 6.2.1.: Erweiterung der Freischankfläche für die Gaststätte "Klimentis", Kellerstr. 1 - siehe UA Wirtschaft -
+- TOP 6.2.2.: Änderung der Freischankfläche für die Gaststätte "Mezzodi", Steinstr. 57 - siehe UA Wirtschaft -
+- TOP 8.1.1.: Errichtung von Fahrradparkplätzen am Bordeauxplatz
+- TOP 8.1.2.: Kirchenstraße: Nachbarschaftliches Gärtnern
+- TOP 8.1.3.: Baumgräben schützen
+- TOP 8.1.4.: Sportplatz im Hypo-Park dringend ertüchtigen
+- TOP 8.1.5.: Radwegbenutzungspflicht Schweigerstraße - Mariahilfplatz – Ohlmüllerstraße
+- TOP 8.1.6.: Weitere Zeitkartenautomaten im Ostbahnhof
+- TOP 8.1.7.: Lilienstr. 15: Neubau einer Wohnanlage mit Tiefgarage und Stützpunkt der DLRG; Bau von ausschliesslich gefördertem Wohnraum
+- TOP 8.1.8.: Benennung der Wegeverbindung zwischen Kellerstraße und Rosenheimer Straße nach Georg Elser
+- TOP 8.1.9.: Nutzung von Elektrokleinstfahrzeugen im Stadtbezirk 5 Au-Haidhausen
+- TOP 8.1.10.: Ausweisung der oberen Preysingstraße in eine Fußgängerzone
+- TOP 8.1.11.: Fahrradtaugliche Induktionsschleifen
+- TOP 8.1.12.: Probleme mit Müllbehältern in der Schloss-/Kirchenstraße
+- TOP 8.1.13.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben
+- TOP 8.3.1.: Bebauung, Verdichtung am Auer Mühlbach
+- TOP 8.3.2.: 2. S-Bahn-Stammstrecke; kein Halt am Rosenheimer Platz
+- TOP 8.3.3.: Gastronomisierung der Wörthstraße zwischen Metz- und Preysingstraße
+- TOP 8.4.1.: Infoblatt Mai 2020
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Desert of Unrest" "Desert of Unrest" am 30.04.2020 1.000,00 € / Az. 0262.0-5-0286 Vertagung aus der Sitzung vom 29.04.2020
+- TOP II.2.: ThemenGeschichtsPfad "Eisenbahn im Münchner Osten" erarbeiten
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beschwerden Skateplatz Postwiese
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Nachprüfungs- und Widerrufsrecht für Freischankflächen
+- TOP 1.2.: Erweiterung der Freischankfläche für die Gaststätte "Klimentis", Kellerstr. 1
+- TOP 1.3.: Änderung der Freischankfläche für die Gaststätte "Mezzodi", Steinstr. 57
+- TOP 1.4.: (E) + (U) Einmalige Freigabe des Mariahilfplatzes für ein Kinderfest 2021 Empfehlung Nr. 14-20 / E 03184 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 30.01.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sommer in der Stadt – Konzeptvorstellung / Einbindung des BA 5 in die Platzfindung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ortstermin für den Bücherschrank am Genoveva-Schauer-Platz
+- TOP 3.2.: Antrag auf Ausdehnung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen für die Gaststätte "Il Padrino", Kirchenstr. 44 Entscheidung des Oberbürgermeisters
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bitte um Unterstützung für einen Mandelstand
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 127: Nutzungsänderung einer Wohnung zu einer Arztpraxis
+- TOP 2.2.: Pilgersheimer Str. 1: Anbau eines Balkons im Erdgeschoss
+- TOP 2.3.: Balanstr. 49: Nutzungsänderung einer Ladenfläche zu einer Physiotherapiepraxis
+- TOP 2.4.: Wörthstr. 10: Statische Instandsetzung der Kellerdecke (Vordergebäude) im Bereich der Durchfahrt
+- TOP 2.5.: Sedanstr. 34: Dachausbau eines denkmalgeschützten Gebäudes mit Abbruch und Einbau neuer Balkone und Veränderung der Fassade im Erdgeschoss, Abbruch eines Schuppens und Errichtung eines Hofgebäudes
+- TOP 2.6.: St.-Wolfgangs-Platz 9: Teilabbruch Pfarrheimtrakt und bauliche Ergänzung des Gebäudebestandes der kath. Kirchenstiftung St. Wolfgang; Vorbescheid
+- TOP 2.7.: Oefelestr. 4: Sanierung und Erweiterung eines Mehrfamilienhauses, Nutzungsänderung von Laden und Lagern zu 3 Wohneinheiten (EG), Aufstockung zur Errichtung von 6 Wohneinheiten (4. OG, DG), Anbau von Balkonen und eines Außenaufzugs
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Beteilligungsrecht von Bezirksausschüssen bei Dienstbarkeitsentschädigungen Antwort Direktorium zum BA-Schreiben vom 30.04.2020 bezüglich Balkon Grütznerstr. 8
+- TOP 3.2.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Falkenstr. 7 b) Lilienstr. 2 c) Orleansstr. 31 d) Wörthstr. 7
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: DLRG München-Mitte Au - Bitte um Unterstützung
+- TOP 4.2.: Bauliche Zustände in der Wolfgangstr. 21
+- TOP VI.: UA Mobilität
+- TOP 0.1.: Einführung in die Arbeit des UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Einrichtung von verbindlichen Abstellflächen für E-Scooter / E-Bikes
+- TOP 1.2.: (E) Errichtung eines Zebrastreifens in der Humboldtstraße (Ziffer 2 des Antrags)
+- TOP 1.3.: (E) Tempo 30-Hinweis auf dem Straßenbelag in der Balanstraße
+- TOP 1.4.: (E) Die Schulwegsicherheit am Gebsattelberg erhöhen mit einer Zone 30
+- TOP 1.5.: (E) + (U) Schulwegsicherheit am Gebsattelberg erhöhen durch Elektrifizierung der Buslinie 62 Empfehlung Nr. 14-20 / E 03172 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 06.02.2020 Hinweis: Alte SV-Nr. 14-20 / V 13873
+- TOP 1.6.: (E) + (U) Busverbindung Untere Au-Isartor Empfehlung Nr. 14-20 / E 03185 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 30.01.2020
+- TOP 1.7.: (E) Im Stadtbezirk Au-Haidhausen - zumindest aber im Bezirksteil Au - soll flächendeckend Tempo 30 eingeführt werden
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anwohnerdialog zur 2. Stammstrecke: Suche nach Multiplikatoren aus dem 5. Stadtbezirk - Vertagung aus der Sitzung vom 22.01.2020 -
+- TOP 2.2.: Fußgängerübergang Auerfeldstraße östlich Sieboldstraße
+- TOP 2.3.: MVG-Leistungsprogramm 2021 - Vertagung aus der Sitzung vom 29.04.2020 - dazu: Zügigen Busverkehr in der Prinzregentenstraße sicherstellen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Errichtung einer Trambahnhaltestelle in der Regerstraße Stellungnahme Referat für Stadtplanung und Bauordnung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Gefahrenzone durch Radverkehr am Preysingplatz
+- TOP 4.2.: Wegen Coronamaßnahmen: Mehr Flächengerechtigkeit im Stadtviertel
+- TOP 4.3.: Radweg am Gebsattelberg a) Planungen für einen Radweg am Gebsattelberg
+- TOP 4.4.: Verlängerung des Radwegs am Nockherberg
+- TOP 4.5.: Orleansplatz: Sanierung / Verbesserung der Gehwege
+- TOP 4.6.: Mangelhafte Verkehrsführung für Radfahrer und Fußgänger in den Frühlingsanlagen
+- TOP 4.7.: Verbesserung Verkehrssituation Tassiloplatz und Balanstraße
+- TOP 4.8.: Einrichtung eines abgesetzten Bordsteins zur Straßenquerung Hochstraße Ecke Ackerstraße Antwort des Baureferates liegt vor
+- TOP VII.: UA Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Wiederinbetriebnahme und Erneuerung der Technik des Brunnens am Orleansplatz Empfehlung Nr. 14-20 / E 03099 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 25.11.2019
+- TOP 2.: Anhörungen
+- TOP 2.1.: Maria-Theresia-Str. 3: Fällung von 1 Bergahorn
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Straßenbegrünung Eggernstraße
+- TOP 3.2.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 3.3.: Pflaster am Genoveva-Schauer-Platz bearbeiten - Verweisung aus der Sitzung vom 18.03.2020 -
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Schandfleck Container in der Einstein-/Flurstraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 15.06.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 15.06.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Wirtschaft, 16.06.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Umwelt, 17.06.2020, 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 17.06.2020, 19.30 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 18.06.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 24.06.2020, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 09.06.2020, 19.30 Uhr, Friedenstraße 40
