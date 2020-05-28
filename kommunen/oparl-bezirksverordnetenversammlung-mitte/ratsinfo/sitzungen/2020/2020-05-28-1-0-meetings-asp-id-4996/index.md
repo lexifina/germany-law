@@ -1,0 +1,135 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-05-28T17:30:00+02:00
+- Ende: 2020-05-28T21:05:00+02:00
+- Ort: Thusnelda Allee 1, 10555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4996
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4996
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=470771
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Konzept Schulneubau und Sanierung in Berlin - schriftlich beantwortet
+- TOP 2.2: Ausführungsvorschriften bzw. Rechtsvorschriften für temopäre Spielstraßen - schriftlich beantwortet
+- TOP 2.3: Theater im Monbijoupark - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Genügend Platz in Notfällen? - beantwortet
+- TOP 7.2: Überschuldete in der Corona-Pandemie - beantwortet
+- TOP 7.3: Soziale Folgen der durch Corona bedingten wirtschaftlichen Krise - beantwortet
+- TOP 7.4: Wie viel Schutz gegen häusliche Gewalt? - beantwortet
+- TOP 7.5: Wie entwickelt sich der Bezirkshaushalt? - beantwortet
+- TOP 7.6: Temporäre Radwege - beantwortet
+- TOP 7.7: COVID-19 und die Verwaltung - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: „Bremer Straße 2030: Strategische Ansätze zur Entwicklung des Nahraums Bremer Straße als sozial-ökologisch-pädagogisches Stadtgefüge“ - überwiesen
+- TOP 10: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 10.1: Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt gem. § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Leipziger Straße" im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Gründung des Vereins Kommunales Nachbarschaftsforum Berlin-Brandenburg e.V. (KNF) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Abriss verhindern! Wohn- und Gewerbehof in der Koloniestr.10 erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bürgerdeputierter für den Hauptausschuss - ohne Änderungen im Ausschuss beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Grünfläche im Monbijoupark erweitern und kulturelle Nutzungen zwischen Hochbunkeranlage und südlichen Flächen bis zur Spree ermöglichen - überwiesen
+- TOP 12.2: Mittes Rathaus der Zukunft ist aus Holz - überwiesen
+- TOP 12.3: Sofortmaßnahmen gegen SARS-Cov-2 - gegenstandslos
+- TOP 12.4: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren - überwiesen
+- TOP 12.5: Fahrplan für die Gewinnung von Schul- und Kitastandorten vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: U-Bahnhof Französische Straße - überwiesen
+- TOP 12.7: Verkehrskonzepte für ALLE Verkehrsteilnehmer erstellen – Umstieg auf E-Mobilität fördern! - überwiesen
+- TOP 12.8: Mehr Platz für das Rad – temporäre Radwege schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Informationsschreiben an die Senior*innen im Bezirk mehrsprachig und in leichter Sprache - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sportvereine, die aufgrund der Coronakrise in Not geraten sind, unterstützen - gegenstandslos
+- TOP 12.11: Pflicht zum Tragen einer Mund-Nasen-Maske (Community-Maske) - überwiesen
+- TOP 12.12: Benennung der neu entstehenden Durchwegung zw. Paul-Löbe-Haus, Willy-Brandt-Straße und Kanzleramt nach Dr. Annemarie Renger - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Gewerbetreibende unterstützen: Mehr Platz für Tische und Stühle - ohne Änderungen im Ausschuss beschlossen
+- TOP 12.14: Verkehrssicherheit Kreuzung Wilhelm-Kuhr-Str./ Nordbahnstr. - überwiesen
+- TOP 12.15: Nicht nur wegen Corona: Das Gesundheitsamt stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Unterstützung der Gastronomie in Mitte - überwiesen
+- TOP 12.17: Testvolumen für SARS-CoV-2 massiv ausweiten - in der BVV abgelehnt
+- TOP 12.18: StVO-Power für Mitte - Fahrradzonen anstatt Tempo 30 Zonen - überwiesen
+- TOP 12.19: Temporäre Spielstraßen jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Saubere Parkanlagen - überwiesen
+- TOP 12.21: Bereitstellung legaler Flächen für Graffiti-Kunst - überwiesen
+- TOP 12.22: Kostenlose Notfalldose für Betroffene im Bezirk - überwiesen
+- TOP 12.23: Ökoexperiment Friedrichstraße sofort absagen - in der BVV abgelehnt
+- TOP 12.24: StVO-Power für Mitte - Grünpfeil für Radfahrende nutzen! - überwiesen
+- TOP 12.25: Elise und Otto Hampel Gedenkstele wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Mehr Platz in der Pandemie für Kinder und Erwachsene - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Gedenken zum 8. Mai jährlich veranstalten - überwiesen
+- TOP 12.28: Baumentwicklungsplan - überwiesen
+- TOP 12.29: Verkehrschaos in der Jonasstraße beenden! - in der BVV abgelehnt
+- TOP 12.30: Bezirkliche COVID19-Lageberichte - überwiesen
+- TOP 12.31: Leopoldplatz - überwiesen
+- TOP 12.32: Für Arbeitsplätze und Lebensqualität im Wedding – Einsatz für das Karstadt Warenhaus am Leopoldplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Auch in Corona-Zeiten sozial Prioritäten setzen und finanzieren - überwiesen
+- TOP 12.34: Informationsstele zum Gedenken an das Ehepaar Hampel wieder herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.35: Digitalisierung der Verwaltung - überwiesen
+- TOP 12.36: Haushaltslage 2020 - überwiesen
+- TOP 12.37: Duale Ausbildung: Die öffentliche Hand muss über Bedarf ausbilden! - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 13.1: Habersaathstraße 40-48 - Günstigen Wohnraum erhalten – Rekommunalisierung prüfen - vertagt
+- TOP 13.2: Gerade in CORONA-Zeiten solidarisch sein: Menschen eine Zukunft geben - vertagt
+- TOP 14: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 14.1: Spielplätze evaluieren und bauen - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - vertagt
+- TOP 14.3: Aufgabenstellung/ Leistungsbeschreibung der Parkläufer im Weinbergspark zielorientiert anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Pilotprojekt entwickeln, um mehr Mädchen und junge Frauen für den Sport zu begeistern - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: BVV bei der Sportentwicklungsplanung einbeziehen - vertagt
+- TOP 14.6: „Bauvorhaben Ernst-Reuter-Schule an pädagogischen Erfordernissen ausrichten“ - mit Änderungen in der BVV beschlossen
+- TOP 14.7: EU-Bürger*innen haben Anspruch auf Unterbringung nach ASOG. - mit Änderungen in der BVV beschlossen
+- TOP 14.8: Runder Tisch Mobilität - vertagt
+- TOP 14.9: Plantagenstraße zur Spielstraße - vertagt
+- TOP 14.10: Runder Tisch zur Rathenower Str. 15-18 & Moratorium des Teilabrisses - in der BVV abgelehnt
+- TOP 14.11: Freischaffende Künstler*innen in Mitte stärken - gegenstandslos
+- TOP 14.12: Bezirkliche Solar-B-Plan-Regelungen für mehr Klimaschutz - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: MINT-Kompetenzzentrum am Campus Bernauer Straße ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Uferhallen als Kulturstandort erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: „Ball der Vielfalt“ auch in Mitte - mit Änderungen in der BVV beschlossen
+- TOP 14.16: Eine neue Chance für ein Monbijoutheater! - vertagt
+- TOP 14.17: Edinburger Straße 55 neu bauen oder grundsanieren - rasch ! - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Sicherstellung der Aufnahmekapazitäten für Geflüchtete - mit Änderungen in der BVV beschlossen
+- TOP 14.19: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte anwenden - mit Änderungen in der BVV beschlossen
+- TOP 14.20: Pilotprojekt: Schaffung eines Referenzobjektes „Klimaneutrale öffentliche Liegenschaften im Bezirk Mitte“ - mit Änderungen in der BVV beschlossen
+- TOP 14.21: Mitte kommt auf den Hund - in der BVV abgelehnt
+- TOP 14.22: Den Einsatz eines anonymisierten Bewerbungsverfahrens prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.23: Planungen und Unterstützungen für die Wiedereröffnung der Schulen - mit Änderungen in der BVV beschlossen
+- TOP 14.24: Fels in der Brandung: Bezirksverwaltung jetzt Pandemie-gerecht umbauen! - mit Änderungen in der BVV beschlossen
+- TOP 14.25: Keine Bußgelder im Meldewesen - vertagt
+- TOP 14.26: Erreichbarkeit von Sozialpädagoginnen und Sozialpädagoginnen sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 14.27: Hilfe und Schutz für Wohnungs- und Obdachlose in der Corona-Krise - ohne Änderungen in der BVV beschlossen
+- TOP 14.28: Die Forderungen des Offenen Briefs der LAG Migrationsbeauftragten im Bezirk Mitte umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.29: Wiedereröffnung der Rathäuser und Dienstgebäude für die Bevölkerung und die Beschäftigten - mit Änderungen in der BVV beschlossen
+- TOP 14.30: Angebot des ZK/U zur Nutzung der Räumlichkeiten des Zentrums für die anliegenden Schulen - mit Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Obdach für Eva - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Die Integration von statusgewandelten Flüchtlingshaushalten in den Wohnungsmarkt ist Pflicht und nicht Kür - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.4: Berlichingen Str. 12: Leerstand beseitigen, Spekulation verhindern, Wohnraum gewinnen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Mitte braucht eine/n Klimaschutzbeauftragte/n! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte - vertagt
+- TOP 15.8: Sportanlage Lüderitzstraße benennen - vertagt
+- TOP 15.9: Mehr Schulplätze an der Gottfried-Röhl – Schulgrundstück größer machen! - vertagt
+- TOP 15.10: Anerkennung von ehrenamtlich Tätigen durch BVG-Fahrscheine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Haus der Gesundheit - vertagt
+- TOP 15.12: Bekanntheit der Härtefallfonds gegen soziale Härten erhöhen - vertagt
+- TOP 15.13: Konsequenzen aus dem Urteil des Bundesverfassungsgerichts zur Zulässigkeit von Sanktionen in der Grundsicherung für Arbeitssuchende - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.14: Handlungsempfehlungen der „Prüfgruppe Korruptionsprävention“ konsequent umsetzen - vertagt
+- TOP 15.15: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte – BVV-Beschluss DS 1791/V vom 21.11.2019 umsetzen - vertagt
+- TOP 15.16: Leitlinien Bürgerbeteiligung - Vorhabenliste - vertagt
+- TOP 15.17: Stadtteilkoordination im Bezirk Mitte – Fortschreibung Konzept 2020 - mit Abschlussbericht zur Kenntnis genommen
