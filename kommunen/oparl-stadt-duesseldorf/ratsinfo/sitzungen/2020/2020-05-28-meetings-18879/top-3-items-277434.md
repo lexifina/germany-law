@@ -1,0 +1,7 @@
+# TOP 3: Mündlicher Bericht und Aussprache zum Sachstand "Corona"
+
+- Sitzung: Ausschuss für Umweltschutz (2020-05-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/277434
+- Ergebnis: zur Kenntnis genommen
