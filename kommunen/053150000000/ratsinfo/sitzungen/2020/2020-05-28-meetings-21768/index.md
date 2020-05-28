@@ -1,0 +1,69 @@
+# 48. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-28T15:07:00+02:00
+- Ende: 2020-05-28T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21768
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21768
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00773960.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00773960.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00773960.pdf
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der mündlichen Nachfrage des RM Frenzel (SPD-Fraktion) zu TOP 1.3 aus der Sitzung des Stadtentwicklungsausschusses vom 19.03.2020 betr. Entwicklung des sog. Max-Becker-Areals in Ehrenfeld - Kenntnis genommen
+- TOP 1.2: Beantwortung einer Anfrage der SPD vom 07.04.2020 - betreffend "Baugenehmigungen auf Rekordtief – steigende Mieten - Familien flüchten aus Köln" (AN/0450/2020) - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 3: Anträge
+- TOP 3.1: Wohnen.Bezahlbar.Machen.: Bebaubare Grundstücke veröffentlichen – Baulandkataster einführen! - Sache ist erledigt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bedarfsfeststellungsbeschluss für die konzeptionellen Maßnahmen "Via Culturalis" im Rahmen des Bundesförderprogramms "Nationale Projekte des Städtebaus" im Zeitraum 2020 - 2023 - ungeändert beschlossen
+- TOP 5.2: Bundesfachplanung für das Vorhaben "Ultranet - Gleichstromverbindung zwischen Osterath und Philippsburg, Abschnitt E: Rommerskirchen-Weißenthurm" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der FDP-Fraktion zur Vorlage 2758/2019 - TOP 6.1 betr.: "Erweiterter Planungsbeschluss zur Tunisstraße" - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Fortschreibung der Schulentwicklungsplanung Köln 2020 - geändert beschlossen
+- TOP 6.3: Fortschreibung des Landschaftsplans Köln (12. Änderung) - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 6.5: ISEK Porz-Mitte - Rheinboulevard Porz (Bedarfsfeststellungsbeschluss) - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 209. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Sülz, Arbeitstitel: "Erweiterung RheinEnergieSportpark" in Köln-Sülz - zurückgestellt
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ohne Votum in nachfolgende Gremien
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion zu Vorlage 0240/2020 - TOP 10.1 betr.: "Bebauungsplan Lerchenweg / Schaffrathsgasse" - endgültig abgelehnt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Einleitungsbeschlusses vom 15.09.2016 (Session-Nr. 1567/2016) zu einem Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) - Einleitungsbeschluss - Arbeitstitel: "Nördlich Colonius" in Köln - Neustadt/Nord - zurückgestellt
+- TOP 11.2: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) mit dem Arbeitstitel: "Hermes Logistik-Center Hansestraße" in Köln-Rath/Heumar und -Porz-Gremberghoven - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan 63419/02, - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 62547/02 Arbeitstitel: Damiansweg in Köln-Volkhoven/ Weiler - Kenntnis genommen
+- TOP 17.2: Rückschau über das Kölner Wohnungsbauforum in der Wahlperiode 2014-2020 - Kenntnis genommen
+- TOP 17.3: Klimaneutrales Köln - Kenntnis genommen
+- TOP 17.4: Verkehrsführungskonzept Altstadt - Kenntnis genommen
+- TOP 17.5: Veränderte Prioritäten im Klimaschutz - Kenntnis genommen
+- TOP 17.6: Wettbewerbliches Dialogverfahren zur Entwicklung des neuen Stadtteils Kreuzfeld Zwischenmitteilung der Verwaltung zum aktuellen Sachstand - Kenntnis genommen
+- TOP 17.7: Mitteilung der Verwaltung zum Potenzialflächenkataster - Kenntnis genommen
+- TOP 17.8: Kölner Statistische Nachrichten 6/2020 - Kenntnis genommen
+- TOP 17.9: Stadtstrategie "Kölner Perspektiven 2030+": Sachstand - Kenntnis genommen
+- TOP 17.10: Soziale Erhaltungssatzung - Kenntnis genommen
+- TOP 17.11: Kölner Statistische Nachrichten - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
