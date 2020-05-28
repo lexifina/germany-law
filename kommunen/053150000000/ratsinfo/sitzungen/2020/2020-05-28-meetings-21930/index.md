@@ -1,0 +1,91 @@
+# 44. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-28T17:00:00+02:00
+- Ende: 2020-05-28T19:00:00+02:00
+- Ort: Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21930
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21930
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00767609.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00767609.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00767609.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Eingabe für Einwohnerfragestunde - gemäß § 39 der "Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln" zur 44. Sitzung der Bezirksvertretung Kalk in der Wahlperiode 2014/2020 am Donnerstag, dem 28.05.2020 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Ausweitung des Sperrbezirks auf den Stadtteil Köln-Kalk (Az.: 69/20) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Smarte Sitzbänke im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: Smarte Sitzbänke im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.2: Toilette für Kinder in der Stadtteilbibliothek Kalk - ungeändert beschlossen
+- TOP 7.3: Umstieg zur klimaneutralen Stadt auch sichtbar machen - Schaffung von Fahrradabstellplätzen auf der Kalker Hauptstraße in Köln-Kalk - zurückgestellt
+- TOP -: Umstieg zur klimaneutralen Stadt auch sichtbar machen - Schaffung von Fahrradabstellplätzen auf der Kalker Hauptstraße in Köln-Kalk - zurückgestellt
+- TOP 7.4: Wasserspielplatz im Breuerpark in Köln-Kalk - geändert beschlossen
+- TOP -: Wasserspielplatz im Breuerpark in Köln-Kalk (AN/0615/2020) - geändert beschlossen
+- TOP 7.5: Strom für die Veedel im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: Strom für die Veedel im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.6: Bestand der Bürgerzentren und -häuser sowie der Bürgerbegegnungsstätten in den Bezirken, insbesondere dauerhafte Sicherung der Nachbarschaftsarbeit Kalk Nord in den Räumlichkeiten Remscheider Straße 32 in Köln Kalk (Nachbarschaftstreff) - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 8.1.2: Umsetzung des Integrierten Stadtentwicklungskonzepts Köln-im Programmgebiet „Humboldt/Gremberg und Kalk“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens, Arbeitstitel: Kalker Hauptstraße/Wippermannstraße in Köln-Kalk (Vorlagen-Nr. 0966/2020) - geändert beschlossen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens, Arbeitstitel: Kalker Hauptstraße/Wippermannstraße in Köln-Kalk (Vorlagen-Nr. 0966/2020) - geändert beschlossen
+- TOP 8.2.2: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) mit dem Arbeitstitel: "Hermes Logistik-Center Hansestraße" in Köln-Rath/Heumar und -Porz-Gremberghoven - ungeändert beschlossen
+- TOP 8.2.3: Stellplatzsatzung für Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - Kenntnis genommen
+- TOP -: Stellplatzsatzung für Köln (Vorlagen-Nr. 3217/2019) - ungeändert beschlossen
+- TOP 8.2.4: Konzept für die SeniorenNetzwerke Köln - Alternative beschlossen
+- TOP 8.2.5: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 8.2.6: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 8.2.7: Erstellung eines Neubaus für die katholische Grundschule Kapitelstr. mit einer Einfachturnhalle in der Thessaloniki-Allee, Köln-Kalk - ungeändert beschlossen
+- TOP 8.2.8: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Erschließung der Siedlung Oberer Bruch in Köln-Brück - Kenntnis genommen
+- TOP 9.1.2: Autos, Fußgänger, Alkohol und Turnhallen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.3: Wiederherrichtung der Grünfläche Olpener Straße/Einmündung Hohensyburgstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Einrichtung eines gesicherten Fußgängerüberweges (Zebrastreifen) auf der Forststraße in Höhe der Straßeneinmündungen Röttgensweg und Alte Forststraße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.2.2: Instandsetzung und Beleuchtung des Fußwegs zwsichen Hans-Schulten-Straße und Astrid-Lindgren-Allee in Köln-Brück - Kenntnis genommen
+- TOP 9.2.3: Trifft die "nicht pauschale Haushaltssperre" den Stadtbezirk Kalk pauschal? - Kenntnis genommen
+- TOP 9.2.4: Grünstreifen zwischen Vietorstraße, Kalk-Mülheimer Straße, Vorsterstraße und Kalker Hauptstraße in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.5: Flüchtlingsunterkünfte in Köln-Brück und Köln-Neubrück - Kenntnis genommen
+- TOP 9.2.6: Entwicklung des Planungsgebiets "Hallen Kalk" - Östlicher Teil (Halle 60, Kulturhof, DOMiD) in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.7: Hallen Kalk Nr. 75, 76 und 77 in Köln-Kalk - Kenntnis genommen
+- TOP -: Hallen Kalk Nr. 75, 76 und 77 in Köln-Kalk - Anfrage der Fraktion Bündnis 90/Die Grünen AN/0646/2020 zur Sitzung der Bezirksvertretung Kalk am 28.05.2020 - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP -: Sachstandsbericht zu den Schulen GGS und KGS Kapitelstraße in Köln-Kalk und KGS Zehnthofstraße in Köln-Ostheim sowie zur Schulneubaumaßnahme Thessaloniki-Allee in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zu den von der Bezirksvertretung Kalk priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.3: Erweiterung der absoluten Haltverbotszone in der Germaniastraße in Köln-Höhenberg - Kenntnis genommen
+- TOP 10.2.4: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 10.2.5: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 10.2.6: Ökologische Revitalisierung Westerwaldstraße - Kenntnis genommen
+- TOP 10.2.7: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.8: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 10.2.9: Errichtung eines Minikreisverkehrs an der Kreuzung Ostmerheimer Straße/Auf dem Eichenbrett - Kenntnis genommen
+- TOP 10.2.10: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 10.2.11: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 10.2.12: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 10.2.13: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 10.2.14: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.15: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 10.2.16: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 10.2.17: Dirtfläche für BMX als Angebot für Einrichtungen der Kinder- und Jugendarbeit, hier Abenteuerhallen Kalk - Kenntnis genommen
+- TOP 10.2.18: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
