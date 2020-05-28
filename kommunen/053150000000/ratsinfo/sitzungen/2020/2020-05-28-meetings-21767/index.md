@@ -1,0 +1,66 @@
+# 46. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-05-28T15:30:00+02:00
+- Ende: 2020-05-28T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21767
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21767
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsbeginn https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772432.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsbeginn https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772432.pdf
+- Wortprotokoll: Tagesordnung Sitzungsbeginn https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00772432.pdf
+
+## Tagesordnung
+
+- TOP -: Überblick über Maßnahmen der Verwaltung im Rahmen der Corona-Pandemie für besonders vulnerable Gruppen und Einrichtungen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Struktur der Arbeitslosenzentren in Köln aufrechterhalten - Sache ist erledigt
+- TOP -: TOP 2.1: ÄA zu AN Linke "Struktur der Arbeitslosenzentren in Köln aufrechterhalten" - ungeändert beschlossen
+- TOP 2.2: Sachstand zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - ungeändert beschlossen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Zuschüsse aus dem Konzept "Wir im Quartier - Struktur- und Beschäftigungsförderung im Stadtviertel" - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Umsetzung des Housing First-Ansatzes als Ergänzung der Wohnungslosenhilfe - ungeändert beschlossen
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 6.1: LST
+- TOP 6.1.1: Wie leben queere Jugendliche in Köln? - Kenntnis genommen
+- TOP 6.2: Seniorenvertretung der Stadt Köln
+- TOP 6.2.1: Resolution der Seniorenvertretung der Stadt Köln zur medizinischen und pflegerischen Versorgung im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 6.2.2: Resolution der Seniorenvertretung der Stadt Köln zur medizinischen und pflegerischen Versorgung im Stadtbezirk Chorweiler und insbesondere in den Stadtteilen Blumenberg und Kreuzfeld - Kenntnis genommen
+- TOP 7: Aus der Arbeit des Behindertenbeauftragten
+- TOP 7.1: Inklusionstaxen in Köln - Kenntnis genommen
+- TOP 8: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 8.1: 28. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.2: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 8.3: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - zurückgestellt
+- TOP 9: Jobcenter Köln
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 10.1: Aktuelle Situation im Bereich der Wohngeldstelle im Amt für Wohnungswesen - zurückgestellt
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Förderprogramme des Landes für Migrant/innen - Kenntnis genommen
+- TOP 12.2: Verschenkung von Wohncontainern (ehem. Geflüchtetenunterkunft Eygelshovener Straße) - Kenntnis genommen
+- TOP 12.3: Anstieg von Zwangsräumungen - Kenntnis genommen
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 13.1: Menschen in der Prostitution während und nach der Corona-Krise - Sache ist erledigt
+- TOP -: Beantwortung der SPD Anfrage vom 07.04.2020: Menschen in der Prostitution während und nach der Corona-Krise - Kenntnis genommen
+- TOP 13.2: Desaster rund um Wohngeldanträge in Köln - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage Wohngeldanträge in Köln - zurückgestellt
+- TOP 13.3: Wohnungslosigkeit zielgruppenorientiert und bedarfsgerecht entgegenwirken - zurückgestellt
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Interkulturelle Zentren Köln – „Die ganze Welt in Köln“ Informationsbroschüre und Übersichtskarte - Kenntnis genommen
+- TOP 15.2: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 - Kenntnis genommen
+- TOP 15.3: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 15.4: Sachstandsbericht für das Jahr 2019 zu den EHAP-Projekten ALVENI links und rechts vom Rhein - Kenntnis genommen
+- TOP 15.5: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 15.6: Unterbringung Geflüchtete: Basisversorgung Internetanbindung - Kenntnis genommen
+- TOP 15.7: Stellungnahme der Verwaltung zum Artikel der Kölnischen Rundschau zum Thema "Entlastung bei Pflege der Eltern" - Kenntnis genommen
+- TOP 15.8: Präventive Hausbesuche für ältere Menschen in Köln – Konzept zur Weiterentwicklung - Sache ist erledigt
+- TOP 15.9: Begehung der Landeserstaufnahmeeinrichtung in Köln-Bayenthal - zurückgestellt
