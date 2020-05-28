@@ -1,0 +1,8 @@
+# TOP -: Strom für die Veedel im Stadtbezirk Kalk
+
+- Sitzung: 44. Sitzung der Bezirksvertretung Kalk (2020-05-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/302998
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/143590
