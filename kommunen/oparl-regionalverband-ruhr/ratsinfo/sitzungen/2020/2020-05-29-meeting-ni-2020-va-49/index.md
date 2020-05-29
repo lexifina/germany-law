@@ -1,0 +1,52 @@
+# 24. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-05-29T11:00:00+02:00
+- Ende: 2020-05-29T12:25:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-49
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-49
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-49
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-49
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen des Regionalverbandes Ruhr / Planungsausschuss
+- TOP 1.1: 12. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe Hier: Aufstellungsbeschluss
+- TOP 1.2: 14. Änderung Regionalplan für den Regierungsbezirk Arnsberg Teilabschnitt Oberbereiche Bochum und Hagen Erweiterung des Allgemeinen Siedlungsbereichs (ASB) im Gebiet der Hansestadt Breckerfeld - Aufstellungsbeschluss
+- TOP 1.3: Sachlicher Teilplan Regionale Kooperationsstandorte zum Regionalplan Ruhr hier: Erarbeitungsbeschluss
+- TOP 1.4: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.1: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2019
+- TOP 2.2: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Mehrkosten in Verbindung mit den Projekten „Staumauersanierung“, „Glör 365“ und „Andere Maßnahmen“
+- TOP 2.3: Angelegenheiten der IGA 2027 gGmbH - Erweiterung des Gesellschafterkreises der Durchführungsgesellschaft 'Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 gGmbH'
+- TOP 2.4: Angelegenheiten der Kultur Ruhr GmbH Prüfung des Vorschlages der Künstlerischen Leitung zur alternativen Durchführung der Ruhrtriennale
+- TOP 2.5: Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften - Sachstandsbericht
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr
+- TOP 2.7: Statusbericht zum Freizeit- und Tourismuskonzept für die Metropole Ruhr
+- TOP 2.8: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr Hier: Sachstandsbericht
+- TOP 2.9: Grundsatzvertrag zwischen der Verkehrsverbund Rhein-Ruhr AöR und dem Regionalverband Ruhr
+- TOP -: Vorlagen für den Betriebsausschuss Ruhr Grün
+- TOP 2.10: Mitteilung über erfolggefährdende Entwicklungen im Forstbereich
+- TOP -: Vorlagen für den Kultur- und Sportausschuss
+- TOP 2.11: Auswirkungen der Coronavirus-Pandemie auf die geplanten Jubiläums- und Kulturveranstaltungen des RVR 2020
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.12: Steuerlicher Querverbund
+- TOP 2.13: Anfragen und Mitteilungen
+- TOP 2.13.1: Antwort der Verwaltung auf die Anfrage der Piratenfraktion Maßnahmen des RVR in Zeiten der COVID-19-Pandemie
+- TOP 2.13.2: Finanzielle Auswirkungen der Corona-PandemieFinanzielle Auswirkungen der Corona-Pandemie
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
