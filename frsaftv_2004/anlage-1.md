@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
+# Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)
 
 Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 | Lfd. Nr. | Bezeichnungen der Lebensmittel | Herstellungsanforderungen |

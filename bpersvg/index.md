@@ -47,6 +47,7 @@ Zusammensetzung des Personalrates
 Personalrates
 
 - [§ 26](0026.md)
+- [§ 26a](0026a.md)
 - [§ 27](0027.md)
 - [§ 28](0028.md)
 - [§ 29](0029.md)
@@ -201,7 +202,8 @@ Länder geltende Vorschriften
 ## Vierter Teil Schlußvorschriften
 
 - [§ 112](0112.md)
-- [(XXXX) §§ 113 und 114 (weggefallen)](xxxx-113-und-114.md)
+- [§ 113](0113.md)
+- [§ 114 (weggefallen)](0114.md)
 - [§ 115](0115.md)
 - [§ 116](0116.md)
 - [§ 116a](0116a.md)

@@ -20,7 +20,3 @@
 - [§ 11 Obergrenze der installierten Leistung von Windenergieanlagen an Land](0011.md)
 - [§ 12 Verteilung auf Ausschreibungen](0012.md)
 - [§ 13 Zeitliche Geltung; Außerkrafttreten](0013.md)
-
-## Abschnitt 3 Übertragung von Verordnungsermächtigungen
-
-- [§ 14 Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie](0014.md)
