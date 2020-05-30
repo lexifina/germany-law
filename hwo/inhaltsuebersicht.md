@@ -23,7 +23,7 @@
 | Vierter Abschnitt: | Handwerkskammern | §§ 90 - 116 |
 | Fünfter Teil: Bußgeld-, Übergangs- und Schlussvorschriften |  |
 | Erster Abschnitt: | Bußgeldvorschriften | §§ 117 - 118a |
-| Zweiter Abschnitt: | Übergangsvorschriften | §§ 119 - 124b |
+| Zweiter Abschnitt: | Übergangsvorschriften | §§ 119 - 124c |
 | Dritter Abschnitt: | Schlussvorschriften | §§ 125 - 126 |
 | Anlage A: | Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können | Nr. 1 - 41 |
 | Anlage B: | Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können |  |

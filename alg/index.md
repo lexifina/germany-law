@@ -273,6 +273,7 @@ Wartezeiterfüllung
 - [§ 87a Regelaltersrente](0087a.md)
 - [§ 87b Vorzeitige Altersrente](0087b.md)
 - [§ 87c Vorzeitige Altersrente für langjährig Versicherte](0087c.md)
+- [§ 87d Waisenrente](0087d.md)
 
 #### Fünfter Unterabschnitt Anspruchsvoraussetzungen
 für Renten

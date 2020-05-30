@@ -137,13 +137,14 @@ Versicherungspflichtige
 #### Vierter Unterabschnitt Berufsausbildung
 
 - [§ 73 Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen](0073.md)
-- [§ 74 Unterstützung und Förderung der Berufsausbildung](0074.md)
-- [§ 75 Ausbildungsbegleitende Hilfen](0075.md)
+- [§ 74 Assistierte Ausbildung](0074.md)
+- [§ 75 Begleitende Phase der Assistierten Ausbildung](0075.md)
+- [§ 75a Vorphase der Assistierten Ausbildung](0075a.md)
 - [§ 76 Außerbetriebliche Berufsausbildung](0076.md)
 - [§ 76a](0076a.md)
-- [§ 77 Sonstige Förderungsvoraussetzungen](0077.md)
+- [§ 77 (weggefallen)](0077.md)
 - [§ 78 (weggefallen)](0078.md)
-- [§ 79 Leistungen](0079.md)
+- [§ 79 (weggefallen)](0079.md)
 - [§ 80 Anordnungsermächtigung](0080.md)
 
 #### Fünfter Unterabschnitt Jugendwohnheime
@@ -206,6 +207,7 @@ Versicherungspflichtige
 - [§ 104 Dauer](0104.md)
 - [§ 105 Höhe](0105.md)
 - [§ 106 Nettoentgeltdifferenz](0106.md)
+- [§ 106a Erstattung der Sozialversicherungsbeiträge bei beruflicher Weiterbildung](0106a.md)
 
 ##### Vierter Titel Anwendung anderer Vorschriften
 
@@ -269,7 +271,7 @@ Versicherungspflichtige
 
 ### Achter Abschnitt Befristete Leistungen und innovative Ansätze
 
-- [§ 130 Assistierte Ausbildung](0130.md)
+- [§ 130 (weggefallen)](0130.md)
 - [§ 131 (weggefallen)](0131.md)
 - [§ 131a Sonderregelungen zur beruflichen Weiterbildung](0131a.md)
 - [§ 131b Weiterbildungsförderung in der Altenpflege](0131b.md)
@@ -662,7 +664,7 @@ und zeitweilige Aufgaben
 
 - [§ 417 (weggefallen)](0417.md)
 - [§ 418 Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer](0418.md)
-- [§ 419 Sonderregelungen zu Kurzarbeitergeld, Qualifizierung und Arbeitslosengeld](0419.md)
+- [§ 419 (weggefallen)](0419.md)
 - [§ 420 Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt](0420.md)
 - [§ 421 Förderung der Teilnahme an Sprachkursen](0421.md)
 - [§ 421a Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen](0421a.md)
@@ -709,3 +711,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 447 Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung](0447.md)
 - [§ 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern](0448.md)
 - [§ 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung](0449.md)
+- [§ 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0450.md)

@@ -216,6 +216,7 @@
 - [§ 87](0087.md)
 - [§ 88 Übergangsregelung zur Verhinderung einer Zahlungslücke](0088.md)
 - [§ 88a](0088a.md)
+- [§ 88b](0088b.md)
 
 ## Härteausgleich
 

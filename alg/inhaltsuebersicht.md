@@ -299,6 +299,7 @@
 | § 87a | Regelaltersrente |
 | § 87b | Vorzeitige Altersrente |
 | § 87c | Vorzeitige Altersrente für langjährig Versicherte |
+| § 87d | Waisenrente |
 | § 88 | Rente an frühere Ehegatten |
 |  |
 | Zweiter Titel |

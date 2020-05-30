@@ -75,6 +75,7 @@
 ## Siebter Teil Besondere Vorschriften, Straf- und Bußgeldvorschriften
 
 - [§ 41a Besondere Regelungen für Besatzungsmitglieder von Seeschiffen](0041a.md)
+- [§ 41b Sonderregelung aus Anlass der COVID-19-Pandemie](0041b.md)
 - [§ 42 Errichtungs- und Tätigkeitsschutz](0042.md)
 - [§ 43 Strafvorschriften](0043.md)
 - [§ 44 Strafvorschriften](0044.md)

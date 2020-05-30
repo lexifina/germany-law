@@ -53,4 +53,5 @@
 - [§ 24b Elektronische Unterstützung bei der Antragstellung](0024b.md)
 - [§ 25 Bericht](0025.md)
 - [§ 26 Anwendung der Bücher des Sozialgesetzbuches](0026.md)
-- [§ 27 Übergangsvorschrift](0027.md)
+- [§ 27 Sonderregelung aus Anlass der COVID-19-Pandemie](0027.md)
+- [§ 28 Übergangsvorschrift](0028.md)

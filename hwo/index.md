@@ -257,6 +257,7 @@ zulassungspflichtigen Handwerk
 - [§ 124](0124.md)
 - [§ 124a](0124a.md)
 - [§ 124b](0124b.md)
+- [§ 124c](0124c.md)
 
 ### Dritter Abschnitt Schlußvorschriften
 

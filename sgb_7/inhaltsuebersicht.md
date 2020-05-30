@@ -404,6 +404,7 @@
 | § 218d | Besondere Zuständigkeiten |
 | § 218e | Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung |
 | § 218f | (weggefallen) |
+| § 218g | Übergangsregelungen bei epidemischer Lage von nationaler Tragweite |
 | § 219 | (weggefallen) |
 | § 219a | Altersrückstellungen |
 | § 220 | Ausgleich unter den gewerblichen Berufsgenossenschaften |

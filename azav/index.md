@@ -7,5 +7,5 @@
 - [§ 4 Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung](0004.md)
 - [§ 5 Zulassungsverfahren](0005.md)
 - [§ 6 Zusammenarbeit](0006.md)
-- [§ 7 Übergangsregelung](0007.md)
+- [§ 7 Sonderregelung](0007.md)
 - [§ 8 Inkrafttreten, Außerkrafttreten](0008.md)

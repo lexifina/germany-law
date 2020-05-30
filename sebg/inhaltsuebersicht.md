@@ -79,3 +79,4 @@
 | § 45 |  |  | Strafvorschriften |
 | § 46 |  |  | Bußgeldvorschriften |
 | § 47 |  |  | Geltung nationalen Rechts |
+| § 48 |  |  | Sonderregelung aus Anlass der COVID-19-Pandemie |

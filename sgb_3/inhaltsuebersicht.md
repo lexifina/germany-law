@@ -134,12 +134,13 @@
 | Vierter Unterabschnitt |
 | Berufsausbildung |
 | § 73 | Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen |
-| § 74 | Unterstützung und Förderung der Berufsausbildung |
-| § 75 | Ausbildungsbegleitende Hilfen |
+| § 74 | Assistierte Ausbildung |
+| § 75 | Begleitende Phase der Assistierten Ausbildung |
+| § 75a | Vorphase der Assistierten Ausbildung |
 | § 76 | Außerbetriebliche Berufsausbildung |
-| § 77 | Sonstige Förderungsvoraussetzungen |
+| § 77 | (weggefallen) |
 | § 78 | (weggefallen) |
-| § 79 | Leistungen |
+| § 79 | (weggefallen) |
 | § 80 | Anordnungsermächtigung |
 |  |  |
 | Fünfter Unterabschnitt |
@@ -200,6 +201,7 @@
 | § 104 | Dauer |
 | § 105 | Höhe |
 | § 106 | Nettoentgeltdifferenz |
+| § 106a | Erstattung der Sozialversicherungsbeiträge bei beruflicher Weiterbildung |
 |  |  |
 | Vierter Titel |
 | Anwendung anderer Vorschriften |
@@ -264,7 +266,7 @@
 |  |  |
 | Achter Abschnitt |
 | Befristete Leistungen und innovative Ansätze |
-| § 130 | Assistierte Ausbildung |
+| § 130 | (weggefallen) |
 | § 131 | (weggefallen) |
 | § 131a | Sonderregelungen zur beruflichen Weiterbildung |
 | § 131b | Weiterbildungsförderung in der Altenpflege |
@@ -645,7 +647,7 @@
 | Ergänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben |
 | § 417 | (weggefallen) |
 | § 418 | Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer |
-| § 419 | Sonderregelung zu Kurzarbeitergeld und Arbeitslosengeld |
+| § 419 | (weggefallen) |
 | § 420 | Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt |
 | § 421 | Förderung der Teilnahme an Sprachkursen |
 | § 421a | Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen |
@@ -690,3 +692,4 @@
 | § 447 | Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung |
 | § 448 | Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern |
 | § 449 | Gesetz zur Modernisierung und Stärkung der beruflichen Bildung |
+| § 450 | Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung |
