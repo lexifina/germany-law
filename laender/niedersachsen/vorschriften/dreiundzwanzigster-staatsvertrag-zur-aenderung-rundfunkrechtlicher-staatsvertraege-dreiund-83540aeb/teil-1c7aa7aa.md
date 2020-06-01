@@ -1,0 +1,61 @@
+# Art. 1  Art. 1 23. RÄndStV - Änderung des Rundfunkbeitragsstaatsvertrages
+
+Der Rundfunkbeitragsstaatsvertrag vom 15. bis 21. Dezember 2010, zuletzt geändert durch den Einundzwanzigsten Rundfunkänderungsstaatsvertrag vom 5. bis 18. Dezember 2017, wird wie folgt geändert:
+1.Das Inhaltsverzeichnis wird wie folgt geändert:
+a)Nach der Angabe zu § 4 wird folgende Angabe angefügt:
+"§ 4a Befreiung von der Beitragspflicht für Nebenwohnungen".
+b)Nach der Angabe zu § 10 wird folgende Angabe angefügt:
+"§ 10a Vollständig automatisierter Erlass von Bescheiden".
+2.Nach § 4 wird folgender § 4a eingefügt:
+"§ 4a Befreiung von der Beitragspflicht für Nebenwohnungen
+(1) Für ihre Nebenwohnungen wird eine natürliche Person von der Beitragspflicht nach § 2 Abs. 1 auf Antrag befreit, wenn sie selbst, ihr Ehegatte oder ihr eingetragener Lebenspartner den Rundfunkbeitrag für die Hauptwohnung an die zuständige Landesrundfunkanstalt entrichtet. Gleiches gilt, wenn sie selbst, ihr Ehegatte oder ihr eingetragener Lebenspartner den Rundfunkbeitrag zwar nicht für die Hauptwohnung, jedoch für eine ihrer Nebenwohnungen entrichtet.
+(2) Die Befreiung erfolgt unbefristet. Sie beginnt mit dem Ersten des Monats, in dem die Voraussetzungen nach Absatz 1 vorliegen, wenn der Antrag innerhalb von drei Monaten nach Vorliegen der Voraussetzungen nach Absatz 1 gestellt wird. Wird der Antrag erst zu einem späteren Zeitpunkt gestellt, so beginnt die Befreiung mit dem Ersten des Monats, in dem die Antragstellung erfolgt.
+(3) Die Befreiung endet mit Ablauf des Monats, in dem die Voraussetzungen nach Absatz 1 nicht mehr vorliegen. Derartige Umstände sind vom Beitragsschuldner unverzüglich der zuständigen Landesrundfunkanstalt mitzuteilen.
+(4) Der Antrag auf Befreiung ist vom Beitragsschuldner schriftlich bei der zuständigen Landesrundfunkanstalt zu stellen. Die Voraussetzungen des Absatzes 1 sind nachzuweisen durch
+1.die Bezeichnung der Haupt- und Nebenwohnungen, mit denen der Antragsteller bei der in § 10 Abs. 7 Satz 1 bestimmten Stelle angemeldet ist oder sich während des Antragsverfahrens anmeldet, und
+2.die Vorlage eines melderechtlichen Nachweises oder Zweitwohnungssteuerbescheids, soweit sich aus diesem alle erforderlichen Angaben ergeben, und
+3.auf Verlangen die Vorlage eines geeigneten behördlichen Nachweises, aus dem der Status der Ehe oder eingetragenen Lebenspartnerschaft hervorgeht.
+§ 4 Abs. 7 Satz 2 und 4 gelten entsprechend."
+3.In § 8 Abs. 4 Nr. 4 werden folgende Wörter angefügt:
+"sowie im Falle der Befreiung nach § 4a die Angabe, bei welcher Wohnung es sich um die Haupt- oder Nebenwohnung handelt,".
+4.§ 9 Abs. 1 wird wie folgt geändert:
+a)Satz 2 wird wie folgt gefasst:
+"Kann die zuständige Landesrundfunkanstalt den Inhaber einer Betriebsstätte nicht feststellen, ist der Eigentümer oder der vergleichbar dinglich Berechtigte des Grundstücks, auf dem sich die Betriebsstätte befindet, verpflichtet, der Landesrundfunkanstalt Auskunft über den tatsächlichen Inhaber der Betriebsstätte zu erteilen."
+b)Satz 3 wird gestrichen.
+c)Die bisherigen Sätze 4 bis 6 werden die neuen Sätze 3 bis 5.
+d)Im neuen Satz 3 wird die Angabe "§ 11 Abs. 6" durch die Angabe "§ 11 Abs. 7" ersetzt.
+e)Im neuen Satz 4 wird die Angabe "Satz 4" durch die Angabe "Satz 3" ersetzt.
+5.Nach § 10 wird folgender § 10a eingefügt:
+"§ 10a Vollständig automatisierter Erlass von Bescheiden
+Die zuständige Landesrundfunkanstalt kann rundfunkbeitragsrechtliche Bescheide vollständig automatisiert erlassen, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht."
+6.§ 11 wird wie folgt geändert:
+a)In Absatz 4 Satz 6 wird die Angabe "§ 14 Absatz 9 Nr. 1 bis 8" durch die Wörter "§ 11 Absatz 5 Satz 1 Nummern 1 bis 8" ersetzt.
+b)Nach Absatz 4 wird folgender neuer Absatz 5 eingefügt:
+"(5) Zur Sicherstellung der Aktualität des Datenbestandes übermittelt jede Meldebehörde alle vier Jahre beginnend ab dem Jahr 2022 für einen bundesweit einheitlichen Stichtag automatisiert gegen Kostenerstattung in standardisierter Form die nachfolgenden Daten aller volljährigen Personen an die jeweils zuständige Landesrundfunkanstalt:
+1.Familienname,
+2.Vornamen unter Bezeichnung des Rufnamens,
+3.frühere Namen,
+4.Doktorgrad,
+5.Familienstand,
+6.Tag der Geburt,
+7.gegenwärtige und letzte Anschrift von Haupt- und Nebenwohnungen, einschließlich aller vorhandenen Angaben zur Lage der Wohnung, und
+8.Tag des Einzugs in die Wohnung.
+Hat die zuständige Landesrundfunkanstalt nach dem Abgleich für eine Wohnung einen Beitragsschuldner festgestellt, hat sie die Daten der übrigen dort wohnenden Personen unverzüglich zu löschen, sobald das Beitragskonto ausgeglichen ist. Im Übrigen darf sie die Daten zur Feststellung eines Beitragsschuldners für eine Wohnung nutzen, für die bislang kein Beitragsschuldner festgestellt wurde; Satz 2 gilt entsprechend. Die zuständige Landesrundfunkanstalt darf die Daten auch zur Aktualisierung oder Ergänzung von bereits vorhandenen Teilnehmerdaten nutzen. Zur Wahrung der Verhältnismäßigkeit zwischen Beitragsgerechtigkeit und dem Schutz persönlicher Daten erfolgt der Meldedatenabgleich nach Satz 1 nicht, wenn die Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF) in ihrem Bericht nach § 3 Abs. 8 des Rundfunkfinanzierungsstaatsvertrages feststellt, dass der Datenbestand hinreichend aktuell ist. Diese Beurteilung nimmt die KEF unter Berücksichtigung der Entwicklung des Beitragsaufkommens und sonstiger Faktoren vor."
+c)Die bisherigen Absätze 5 bis 7 werden die neuen Absätze 6 bis 8.
+d)Im neuen Absatz 7 Satz 1 werden die Wörter "in den Absätzen 4 und 5" durch die Wörter "in den Absätzen 4, 5 und 6" ersetzt und nach der Angabe "§ 4 Abs. 7," wird die Angabe "§ 4a Abs. 4," eingefügt.
+e)Nach dem neuen Absatz 7 Satz 4 werden folgende neue Sätze 5 bis 7 angefügt:
+"Eine über Satz 4 hinausgehende Information findet nicht statt über Daten, die unmittelbar beim Beitragsschuldner oder mit dessen Einverständnis erhoben oder übermittelt wurden. Dies gilt auch für Daten, die aufgrund einer gesetzlichen Grundlage erhoben oder übermittelt worden sind. Informationen zu den in den Artikeln 13 und 14 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) genannten Angaben werden den Beitragsschuldnern durch die nach § 10 Abs. 7 eingerichtete Stelle in allgemeiner Form zugänglich gemacht; im Übrigen gilt Artikel 14 Abs. 5 der Verordnung (EU) 2016/679."
+f)Der neue Absatz 8 wird wie folgt neu gefasst:
+"(8) Jede natürliche Person hat das Recht, bei der für sie zuständigen Landesrundfunkanstalt oder der nach § 10 Abs. 7 eingerichteten Stelle Auskunft zu verlangen über
+1.die in § 8 Abs. 4 genannten, sie betreffenden personenbezogenen Daten,
+2.das Bestehen, den Grund und die Dauer einer sie betreffenden Befreiung oder Ermäßigung im Sinne der §§ 4 und 4a,
+3.sie betreffende Bankverbindungsdaten und
+4.die Stelle, die die jeweiligen Daten übermittelt hat.
+Daten, die nur deshalb gespeichert sind, weil sie aufgrund gesetzlicher oder satzungsmäßiger Aufbewahrungsvorschriften nicht gelöscht werden dürfen oder ausschließlich Zwecken der Datensicherung oder der Datenschutzkontrolle dienen, sind vom datenschutzrechtlichen Auskunftsanspruch nicht umfasst."
+g)Nach dem neuen Absatz 8 wird folgender Absatz 9 angefügt:
+"(9) Die Landesrundfunkanstalten stellen durch geeignete technische und organisatorische Maßnahmen sicher, dass eine Verarbeitung der Daten ausschließlich zur Erfüllung der ihnen nach diesem Staatsvertrag obliegenden Aufgaben erfolgt."
+7.§ 14 wird wie folgt geändert:
+a)Die Absätze 9 und 9a werden gestrichen.
+b)Die bisherigen Absätze 10 und 11 werden die neuen Absätze 9 und 10.
+c)Der neue Absatz 9 wird wie folgt neu gefasst:
+"(9) Die Landesrundfunkanstalten dürfen keine Adressdaten privater Personen ankaufen."
