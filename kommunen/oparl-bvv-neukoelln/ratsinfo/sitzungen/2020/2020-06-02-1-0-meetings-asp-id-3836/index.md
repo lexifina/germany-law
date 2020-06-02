@@ -1,0 +1,167 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-06-02T17:00:00+02:00
+- Ende: 2020-06-02T22:48:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3836
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3836
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Umsetzung des Mietendeckels in Neukölln - schriftlich beantwortet
+- TOP 1.2: Wie weiter mit den Mietern der Hermannstraße 14 - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Tempo 30 in der Hermannstraße - in der BVV abgelehnt
+- TOP 2.2: DraußenStadt auch in Neukölln - überwiesen
+- TOP 2.3: Verzicht auf BVV Sommerpause 2020 - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - im Ausschuss abgelehnt
+- TOP 4: Bürgerbegehren "Saubere Schulen" - ohne Änderungen in der BVV beschlossen
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Corona-Krankenhaus-Pakt für das Klinikum Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Abberufung von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Bebauungsplan XIV-287a-1 („Krugpfuhlsiedlung – Hanne Nüte“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Bebauungsplan XIV-287b-1 („Krugpfuhlsiedlung – Rambowstraße“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Bebauungsplan XIV-287c-1 („Krugpfuhlsiedlung – Parchimer Allee“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Wahl - (offen)
+- TOP 8.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Neue Regeln für Außengastronomie? - beantwortet
+- TOP 9.2: Hilfen zur Erziehung - beantwortet
+- TOP 9.3: Von Bildung abgehängt wegen Corona? - beantwortet
+- TOP 9.4: Probleme bei der Kita-Öffnung - beantwortet
+- TOP 9.5: Wichtige Neuköllner-Verkehrsadern - Bald einspurig für den Lieferverkehr und für Berufspendler? - schriftlich beantwortet
+- TOP 9.6: Rückbauanordnung Prinzessinnengärten - schriftlich beantwortet
+- TOP 9.7: Musterhygieneplan - schriftlich beantwortet
+- TOP 9.8: Schuleingangsuntersuchungen - schriftlich beantwortet
+- TOP 9.9: Kinder und Jugendliche mit Behinderung bzw. Förderbedarf - schriftlich beantwortet
+- TOP 9.10: Einbürgerung in Zeiten von Corona - schriftlich beantwortet
+- TOP 9.11: Gesundheitszentrum Lipschitzallee unerreichbar? - schriftlich beantwortet
+- TOP 9.12: Schule am Koppelweg - schriftlich beantwortet
+- TOP 9.13: Spielstraßen in Neukölln - schriftlich beantwortet
+- TOP 9.14: Unterstützung für soziale Projekte - schriftlich beantwortet
+- TOP 9.15: Fahrdienst für Schüler und Menschen mit Beeinträchtigungen - schriftlich beantwortet
+- TOP 9.16: Belange von stark Geh-Eingeschränkten bei Neuplanung Hermannstraße berücksichtigen - schriftlich beantwortet
+- TOP 9.17: Missbräuchliche Anwendung der Corona-Verordnung durch Stadtrat Liecke gegen muslimische Gemeinden - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Dauercamper bei Standortsuche unterstützen - in der BVV abgelehnt
+- TOP 10.2: Gartenwasser Flatrate - in der BVV abgelehnt
+- TOP 10.3: Mädchen- und Frauen-Sportfest - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sondernutzung auf dem Böhmischen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Einrichtung E-Bike-Sharing im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Abgabe Tätigkeitsbericht Seniorenbeauftragte - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Aussetzung der Sanktionen im Jobcenter Neukölln - in der BVV abgelehnt
+- TOP 10.8: Plastikmüll an Neuköllner Schulen vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Fußgänger im Krischanweg schützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: "Berlkönig" soll auch im Süden regieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: „Diese eG“ ist keine Option für Neukölln - in der BVV abgelehnt
+- TOP 10.12: Kein Nettoverlust von Grün- und Freiflächen - in der BVV zurückgezogen
+- TOP 10.13: Konzept zur Reduktion des Flächenverbrauches - in der BVV abgelehnt
+- TOP 10.14: Verkehrschaos in Rudow nach Eröffnung des BER? - beantwortet
+- TOP 10.15: Lässt der Bezirk Geld im Park liegen? - (offen)
+- TOP 10.16: Strategie gegen Vereinsamung - (offen)
+- TOP 10.17: Neukölln macht´s vor! Ein barrierefreier Spielplatz für Alle - (offen)
+- TOP 10.18: Grüne Dächer für BVG- Wartehäuschen - (offen)
+- TOP 10.19: Neukölln wächst zu - (offen)
+- TOP 10.20: Vorbereitende Untersuchung Milieuschutzgebiet Gropiusstadt beauftragen - (offen)
+- TOP 10.21: Fußgänger*innenfreundliche Querung Werbellinstraße - (offen)
+- TOP 10.22: Familien-Service-Büro für Neukölln - (offen)
+- TOP 10.23: Schaffung eines Bundesleistungsgesetzes - (offen)
+- TOP 10.24: Stelle eines / einer Beauftragten für Senioren einrichten - (offen)
+- TOP 10.25: Bürgerämter entlasten - (offen)
+- TOP 10.26: Pflichtaufgaben der Bürgerämter durch Bezirke sicherstellen - (offen)
+- TOP 10.27: Beteiligung am europaweiten autofreien Tag - (offen)
+- TOP 10.28: Selbstbestimmte dritte Option zum Geschlechtseintrag - (offen)
+- TOP 10.29: Kita Riesestraße 1-2 - (offen)
+- TOP 10.30: Hänselstraße zwischen Sonnenallee und Gretelstraße zum verkehrsberuhigten Bereich umwidmen - (offen)
+- TOP 10.31: Bauende informieren – Umweltsituation verbessern - (offen)
+- TOP 10.32: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - (offen)
+- TOP 10.33: Flächen für produzierendes Gewerbe sichern - (offen)
+- TOP 10.34: Reinigung der Grünflächen - (offen)
+- TOP 10.35: Aktuelle Situation zur Bekämpfung der Corona-Pandemie - (offen)
+- TOP 10.36: Neukölln legt Corona lahm? - (offen)
+- TOP 10.37: Soziale Auswirkungen in Zeiten von Corona - (offen)
+- TOP 10.38: Schulöffnung während Corona - (offen)
+- TOP 10.39: Beratung von Mieter*innen bei coronabedingtem Einnahmenausfall - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Seniorenspielplatz - (offen)
+- TOP 11.2: Handeln gegen das Bienensterben – Grünflächen als Wildblumenwiese - (offen)
+- TOP 11.3: Inklusion auf Spielplätzen! - (offen)
+- TOP 11.4: App exclamo als Pilotprojekt an Neuköllner Schule einführen - (offen)
+- TOP 11.5: Mehr Wohnungen im „Geschützten Marktsegment“ für Neukölln schaffen - (offen)
+- TOP 11.6: Einbahnstraße Prierosser - (offen)
+- TOP 11.7: Ampelanlage Neudecker Weg Ecke August-Fröhlich Straße - (offen)
+- TOP 11.8: Instandsetzung Notwasserbrunnen - (offen)
+- TOP 11.9: Erinnerung an Buckower Felder in Straßennamen bewahren - (offen)
+- TOP 11.10: Ordnungsamtmitarbeiter und Objektschutzmitarbeiter – Nur noch zu zweit auf Streife - (offen)
+- TOP 11.11: Ballungsraumzulage - (offen)
+- TOP 11.12: Zwischenbericht der BAO Fokus des LKA Berlin veröffentlichen - (offen)
+- TOP 11.13: Temporärer Radweg auf der südlichen Seite der Blaschkoallee - (offen)
+- TOP 11.14: Temporäre Radwege auf der Hermannstraße - (offen)
+- TOP 11.15: Temporäre Schließung von Nebenstraßen - (offen)
+- TOP 11.16: Hinweisschild für die Donaustraße 89 - (offen)
+- TOP 11.17: Corona-Infos für Mieter*innen auf die Bezirksamtswebsite stellen - (offen)
+- TOP 11.18: Sachleistungen statt Taschengeld - (offen)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Arbeit des Allgemeinen Ordnungsdienstes (OAD) in Corona-Zeiten - (offen)
+- TOP 12.2: Finanzielle Auswirkungen der Corona-Pandemie auf den Bezirk - (offen)
+- TOP 12.3: Periculum in mora! - Demokratie durch Links gefährdet - (offen)
+- TOP 12.4: Stellenwert und Ausstattung der Seniorenvertretung Neukölln - (offen)
+- TOP 12.5: Quarantänebrecher in Neukölln - (offen)
+- TOP 12.6: Wie können Selbstständige in Neukölln die Coronazeit überleben? - (offen)
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Mehr Wohnungen im geschützten Marktsegment für Neukölln - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sicherer Schulweg über die Blaschkoallee - überwiesen
+- TOP 14.2: Saalestraße / Ecke Zeitzer Straße - überwiesen
+- TOP 14.3: Buschkrugallee am Teltowkanal sicher überqueren - überwiesen
+- TOP 14.4: Bezirke nach der Corona-Pandemie nicht „kaputtsparen“! - überwiesen
+- TOP 14.5: Ermittlungsgruppe Rechtsextremismus - überwiesen
+- TOP 14.6: Autobahnabfahrt Grenzallee - überwiesen
+- TOP 14.7: Potenzialanalyse für mehr Grün in Nordneukölln - überwiesen
+- TOP 14.8: Berlinovo Zweckentfremdung? - überwiesen
+- TOP 14.9: Halteverbote anpassen - überwiesen
+- TOP 14.10: Fahrradfreundlicher Arbeitgeber - überwiesen
+- TOP 14.11: Öffnung der Schulhöfe während der Pandemie - überwiesen
+- TOP 14.12: Unterstützung von Gastronomie in Corona-Zeiten - überwiesen
+- TOP 14.13: Bezirksverordnetenversammlung - überwiesen
+- TOP 14.14: Mehr Parkbänke am Fennpfuhl - überwiesen
+- TOP 14.15: Bordsteinabsenkung und sichere Querung in der Britzkestraße - überwiesen
+- TOP 14.16: Fußgänger-Querungshilfen an Sonnenallee - überwiesen
+- TOP 14.17: Amphibienschutz in Neukölln - überwiesen
+- TOP 14.18: Coronavirus-Hysterie im Bezirk ausrotten! - überwiesen
+- TOP 14.19: Einbahnstraße Prierosser - überwiesen
+- TOP 14.20: Energiesparende LED-Röhren in den BVV-Saal - überwiesen
+- TOP 14.21: Testvolumen für SARS-CoV-2 massiv ausweiten - überwiesen
+- TOP 14.22: Fahrverbote in der Silbersteinstraße aufheben - überwiesen
+- TOP 14.23: Klinikum Neukölln mit Covid-19 Tests ausstatten - überwiesen
+- TOP 14.24: Alternativen für Laubbläser - überwiesen
+- TOP 14.25: Automatische E-Mailbestätigung im BVV-Büro einrichten - überwiesen
+- TOP 14.26: MUF-Neubau stoppen - überwiesen
+- TOP 14.27: Entweder oder! Betreten der Rasenfläche verboten oder nicht? - überwiesen
+- TOP 14.28: Inklusion auf Spielplätzen! - überwiesen
+- TOP 14.29: Straßenschäden Waßmannsdorfer Chaussee - überwiesen
+- TOP 14.30: Neutralitätsklausel bei Zuwendungsbescheiden - überwiesen
+- TOP 14.31: Unterstützung des linksextremistischen Kollektivs „K-Fetisch“ sofort beenden - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Defekter Notwasserbrunnen Geygerstraße - (offen)
+- TOP 15.2: Umbenennung Haltestelle Jugendheim - (offen)
+- TOP 15.3: Flächen- und ressourcensparendes Bauen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Trinkwasserspender für die Grundschule am Fliederbusch - (offen)
+- TOP 16.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.3: Fairen Einkauf für die Verwaltungen erleichtern - (offen)
+- TOP 16.4: Keine Zuwendungskürzungen für To Spiti und Al Muntada - (offen)
+- TOP 16.5: Ausweitung der Öffnungszeiten des Drogenkonsumraumes - (offen)
+- TOP 16.6: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - (offen)
+- TOP 16.7: Inklusion als Ziele der Jugendarbeit - (offen)
+- TOP 16.8: Bebauungsplan 8-36 („Siedlung Neue Heimstatt – Grauwackeweg / Muschelkalkweg“) - (offen)
+- TOP 16.9: Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 190 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b - (offen)
