@@ -1,0 +1,51 @@
+# öffentliche Sitzung der Bezirksvertretung Oberbarmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-02T19:05:00+02:00
+- Ende: 2020-06-02T20:30:00+02:00
+- Ort: Gesamtschule - Forum -, Heinrich-Böll-Str. 250, 42277 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/45
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18318
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18318
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00255896.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00256830.pdf
+
+## Tagesordnung
+
+- TOP 1: Controllingliste der Beschlüsse und Aufträge der Bezirksvertretung
+- TOP 2: Bericht der Bezirksbürgermeisterin
+- TOP 3: Bericht aus dem Jugendrat
+- TOP 4: Anfragen und Anregungen an die Verwaltung
+- TOP 4.1: Finanzielle Auswirkungen der Corona-Pandemie auf den Bau/Ausbau von Kitas und Schulen - Entgegennahme ohne Beschluss
+- TOP 4.2: Drogenszene am Wichlinghauser Markt/Gottesbrünnlein - Entgegennahme ohne Beschluss
+- TOP 5: Bebauungsplan 1250 - Nächstebrecker Straße / Bramdelle - ungeändert beschlossen
+- TOP 6: Bebauungsplan 1155 - Berliner Str./ Bredde - - ungeändert beschlossen
+- TOP 7: Bebauungsplan 1208 - Berliner Straße / Rauer Werth - - ungeändert beschlossen
+- TOP 8: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - abgelehnt
+- TOP 9: Vorhabenbezogener Bebauungsplan 1136 V - Dreigrenzen - - ungeändert beschlossen
+- TOP 10: Verbesserung der Querung Linderhauser Straße / Dr.-Werner-Jackstädt-Weg - ungeändert beschlossen
+- TOP 11: Kinderrastplatz/Fahrradübungsplatz für kleine Kinder auf dem Bergischen Plateau - in der Sache erledigt
+- TOP 12: Verwendung der freien Mittel - ungeändert beschlossen
+- TOP 13: Verwendung der Mittel nach dem Gemeindefinanzierungsgesetz
+- TOP 13.1: Verwendung GFG-Mittel aus der Unterhaltungspauschale - ungeändert beschlossen
+- TOP 14: Errichtung eines Kunstwerkes auf dem Kreisel Wittener Str. / Mollenkotten
+- TOP 15: Eichenhofer Weg Einrichtung einer Tempo 30 Strecke - ungeändert beschlossen
+- TOP 16: Lückenschluss des Gehweges auf der Barmer Straße - ungeändert beschlossen
+- TOP 17: Stellplatzsatzung der Stadt Wuppertal - vertagen
+- TOP 18: Stellplatzsatzung der Stadt Wuppertal; Ergänzungen nach erster Beratung - vertagen
+- TOP 19: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - vertagen
+- TOP 20: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung); Ergänzungsvorlage nach erster Beratung - vertagen
+- TOP 21: Konzept "Innenentwicklungskonzept Wuppertal" - ungeändert beschlossen
+- TOP 22: Aktualisierung des Einzelhandels- und Zentrenkonzeptes Wuppertal - ungeändert beschlossen
+- TOP 23: Aktualisierung der Vorhabenliste für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 24: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 25: Stadtentwässerung- Maßnahmenkatalog 2021/ Katalogentwurf 2022 - ungeändert beschlossen
+- TOP 26: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2021) - ungeändert beschlossen
+- TOP 27: Radverkehrskonzept Achse 6 / Umsetzung Abschnitt L – Radfahrstreifen Berliner Straße (B7) zwischen Rauentaler Bergstraße und Berliner Platz/Schwarzbach in Fahrtrichtung Westen - ungeändert beschlossen
+- TOP 28: Radverkehrskonzept Achse 6 / Planungsstand Abschnitt M und N – Radfahrstreifen Jesinghauser Str./Dahler Str./Höfen (B7) - ungeändert beschlossen
+- TOP 29: Situation SPNV - Beantwortung der Anfrage durch die Verwaltung - Entgegennahme ohne Beschluss
+- TOP 30: Statusbericht Schottervorgärten - Entgegennahme ohne Beschluss
+- TOP 31: Lärmaktionsplan der Runde III für die Stadt Wuppertal - Öffentliche Auslegung des Entwurfes - Entgegennahme ohne Beschluss
+- TOP 32: Sozialdatenatlas - Entgegennahme ohne Beschluss
