@@ -1,0 +1,73 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-03T17:00:00+02:00
+- Ende: 2020-06-03T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18900
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18900
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380066.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380066.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380066.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 27.02.2020 - einstimmig beschlossen
+- TOP 4: Sachstand Corona-Pandemie - mündlicher Bericht der Verwaltung
+- TOP 4.1: Weiteres Vorgehen mit Öffentlichkeitsbeteiligungen gem. § 3(1) BauGB - einstimmig beschlossen
+- TOP 5: Anfragen / Anträge
+- TOP 5.1: Antrag der Ratsfraktion DIE LINKE: "Bauleitplanverfahren Reisholzer Hafen" - mehrheitlich abgelehnt
+- TOP 5.2: Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Autokino - Lärmschutz auch bei guter Unterhaltung - beantwortet
+- TOP 5.3: Anfrage der CDU-Ratsfraktion: Aufstockung des Düsseldorfer Hauptbahnhofs - beantwortet
+- TOP 5.4: Anfrage der CDU-Ratsfraktion: Städtebauförderung 2020 - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Änderung des Regionalplans "Mehr Wohnbauland im Rheinland" - beantwortet
+- TOP -: Stadtentwicklung
+- TOP 6: Evaluierungsergebnis zum Handlungskonzept für den Wohnungsmarkt, Weiterentwicklung der Quotierungsregelung und weiteres Vorgehen" - passieren lassen
+- TOP 7: Erarbeitung von Entscheidungsgrundlagen für den Erlass von Sozialen Erhaltungssatzungen in Düsseldorf - passieren lassen
+- TOP 8: Vier Raumbilder für das Raumwerk D - einstimmig beschlossen
+- TOP 9: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - einstimmig beschlossen
+- TOP 10: 2. Förderphase / Fortschreibung Fördergebiet "Soziale Stadt Rath/Mörsenbroich" - einstimmig beschlossen
+- TOP 11: Rahmenplan Einzelhandel 2016 1. Änderung (Entwurf) - Fachmarktstandort Nord - einstimmig beschlossen
+- TOP -: Qualitätssichernde Verfahren
+- TOP 12: Südlich Haroldstraße -Durchführung des städtebaulichen Wettbewerbs Südlich Haroldstraße - einstimmig beschlossen
+- TOP 13: Plan-Nr. 03/006 Südlich Auf'm Tetelberg - abweichend beschlossen
+- TOP 14: Blaugrüner Ring - Bestätigung des Wettbewerbsergebnisses - Grundsatzbeschluss zum weiteren Vorgehen - einstimmig beschlossen
+- TOP 15: Workshop Westlich Kennedydamm - einstimmig beschlossen
+- TOP -: Bauleitplanung
+- TOP 16: Bebauungsplan Nr. 09/013 - D.Port/Reisholzer Hafen - einstimmig beschlossen
+- TOP 17: Aufhebung Bebauungsplan Nr. 6170/064 - Forststraße/Hasselsstraße - einstimmig beschlossen
+- TOP 18: Teilräumliche Aufhebung des Bebauungsplans (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9 - einstimmig beschlossen
+- TOP 19: Bebauungsplan-Vorentwurf Nr. 09/023 - Südlich Bamberger Straße - einstimmig beschlossen
+- TOP 20: Plan Nr. 06/019 Theodorstraße - zwischen A52 und Wahlerstraße - einstimmig beschlossen
+- TOP 21: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 06/16 - Theodorstraße / A 52 - Aufhebung Einleitung, Einstellung des Verfahrens - einstimmig beschlossen
+- TOP 22: Bebauungsplan Nr. 04/027 - Schiessstraße / Windmühlenstraße - einstimmig beschlossen
+- TOP 22.1: Änderungsantrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN, SPD und FDP zur Vorlage APS/045/2020 - einstimmig beschlossen
+- TOP 23: Bebauungsplan-Vorentwurf Nr. 04/026 - Wettinerstraße/Lütticher Straße - einstimmig beschlossen
+- TOP 24: Bebauungsplan-Vorentwurf Nr. 01/016 - Konrad-Adenauer-Platz - Öffentlichkeitsbeteiligung - abweichend beschlossen
+- TOP 24.1: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/053/2020 - mehrheitlich abgelehnt
+- TOP 25: Bebauungsplan-Vorentwurf Nr. 01/017 - Schwannstraße 3 und Kennedydamm 55 - Öffentlichkeitsbeteiligung - abweichend beschlossen
+- TOP 26: Bebauungsplan-Vorentwurf Nr. 03/011 - Kaistraße 1 - einstimmig beschlossen
+- TOP 27: Bebauungsplan-Vorentwurf Nr. 03/017 - Elisabethstraße / Bachstraße - einstimmig beschlossen
+- TOP 28: Bebauungsplan-Entwurf Nr. 03/032 - Östlich Völklinger Straße - einstimmig beschlossen
+- TOP 29: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - vertagt
+- TOP 30: Satzungsbeschluss B-Plan Nr. 03/033 Nordöstlich Halbinsel Kesselstraße - mehrheitlich beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 36: Anhandgabeverfahren "Am Gansbruch" - mehrheitlich beschlossen
+- TOP -: Sonstiges
+- TOP 37: Flachdach- und Tiefgaragenbegrünung in der Landeshauptstadt Düsseldorf: Musterfestsetzungen - einstimmig beschlossen
+- TOP 38: Sachstand - Bergische Kaserne - zur Kenntnis genommen
+- TOP 39: Entwicklung Kesselstraße - einstimmig beschlossen
+- TOP 40: 4. Änderung des Landschaftsplanes der Landeshauptstadt Düsseldorf - Beschluss zur Offenlage - - einstimmig beschlossen
