@@ -1,0 +1,51 @@
+# 18. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-06-03T17:00:00+02:00
+- Ende: 2020-06-03T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4221
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4221
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 04.03.2020 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Schulwegsicherung Erich-Kästner-Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 4.2: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Stärkung des ÖPNV am Hindenburgdamm - im Ausschuss abgelehnt
+- TOP 4.4: Eine Lösung für das Be- und Entladen vor der Post am Hindenburgdamm 99, 12203 Berlin, dabei Kunden, Gewerbetreibende und Anwohner nicht verprellen! - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.5: Tempo 30 vor der Erich-Kästner-Grundschule - im Ausschuss abgelehnt
+- TOP 4.6: Vorrang für Öffis auf dem Teltower Damm II - im Ausschuss abgelehnt
+- TOP 4.7: Fahrrad-Abstellanlage Mexikoplatz - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.8: Autofreie Bushaltestelle - im Ausschuss abgelehnt
+- TOP 4.9: Verkehrssicherheit/Überholverbot in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 4.10: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - vertagt
+- TOP 4.11: Halteverbot Chausseestraße Wannsee - mit Änderungen im Ausschuss beschlossen
+- TOP 4.12: Maßnahmen Königstraße Wannsee - mit Änderungen im Ausschuss beschlossen
+- TOP 4.13: Beschilderung Einbahnstraße Am Großen Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Behindertengerechter Übergang Königstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.15: Maßnahmen Bushaltestelle und Fußgängerüberweg Kreuzung Königstraße / Chausseestraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.16: Ruhe im Nieritzweg - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.17: Asphaltierung der Tambacher Straße zwischen Brotteroder Straße und Marchandstraße - vertagt
+- TOP 4.18: Wilma-Rudolph-Schule: Breitbandanschluss endlich realisieren - vertagt
+- TOP 4.19: Busbeschleunigung in der Schildhornstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.20: Zebrastreifen Straße Am Rohrgarten/Einmündung Lissabonallee - vertagt
+- TOP 4.21: Keffenbrinkweg in Ordnung bringen! - vertagt
+- TOP 4.22: Drakestraße für Radfahrer*innen sicher machen! - vertagt
+- TOP 4.23: Bezirkliches Radnebenroutennetz in der Goerzalle absichern - vertagt
+- TOP 4.24: Treitschkestraße – BVV-Beschluss 589/V umsetzen! - vertagt
+- TOP 4.25: Ampelanlage (LZA) Clayallee /Ecke Finkenstraße - vertagt
+- TOP 4.26: Verkehrssituation Kreuzung Teltower Damm/Beeskowdamm/Kleinmachnower Weg - vertagt
+- TOP 4.27: Mehr Parkplätze am Bundesarchiv - vertagt
+- TOP 4.28: Fußgänger*innen-Querung Hildburghauser Straße – jetzt! - vertagt
+- TOP 4.29: Freier Weg für Fußgänger, Rollstuhlfahrer*Innen, Kinderwagen-Fahrer*Innen, Kinderräder etc. auf den Bezirksstraßen in Wohngebieten - vertagt
+- TOP 4.30: Temporäre Radwege für den Breitenbachplatz - vertagt
+- TOP 4.31: Sichereres Radeln in der Goerzallee - vertagt
+- TOP 4.32: Verkehrsberuhigung Straße Platz des 4. Juli - vertagt
+- TOP 5: Verschiedenes - erledigt
