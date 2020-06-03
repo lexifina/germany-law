@@ -1,0 +1,40 @@
+# Anlage 4.1 (§ 8 Abs. 3 Satz 4, § 9 Abs. 3 Satz 2, § 10 Abs. 2 Satz 1, § 14 Abs. 1, § 22 Abs. 1 Satz 2 Nr. 1) Geeignete Kompensationsmaßnahmen für das Schutzgut Arten und Lebensräume
+Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5 | Spalte 6
+Nr. | Zielzustand: Lebensraum- und Biotoptypen bzw. Nutzungstyp | Kompensationsmaßnahmen | Entsiegelungs- und Wiedervernetzungsmaßnahmen | Pflege und Bewirtschaftungsmaßnahmen (PIK-Maßnahmen), die einzeln oder in naturschutzfachlich sinnvollen Kombinationen in die land-, teich- oder forstwirtschaftliche Produktion integriert werden können. Mit (X*) gekennzeichnete Maßnahmen können auch auf wechselnden Flächen durchgeführt werden. | Ökokontomaßnahmen
+1 | Quellen und Gewässer | (Wieder-)Herstellung und Verbesserung/Renaturierung von Quellen und Quellfluren aus gefassten Quellen | X |  | X
+(Wieder-)Herstellung und Verbesserung/Renaturierung von Quellen- und Quellfluren innerhalb von Wiesen und Weiden, Renaturierung von Quellen innerhalb von Wäldern |  |  | X
+(Wieder-)Herstellung und Verbesserung von Fließgewässern und Seeuferbereichen: naturraumtypische Ausgestaltung von Gewässerlauf und -struktur einschließlich Ufergestaltungen und Uferbepflanzung | X |  | X
+Wiederherstellung der Durchgängigkeit von Fließgewässern, Rücknahme von Ufer- und Sohlbefestigungen, Beseitigung von Wanderungshindernissen | X |  | X
+Renaturierung/Entwicklung/Neuanlage von Stillgewässern (Teiche, Weiher, Tümpel, Kleingewässer) und Altwässern |  |  | X
+Schaffung von natürlichen Retentionsflächen (Rückverlegung von Deichen, Abgrabungen von Vorländern, Beseitigung von Auffüllungen, Wiederanbindung von Aueflächen innerhalb von HQ 100) in Verbindung mit der Entwicklung von naturschutzfachlich wertvollen Biotoptypen auf den Retentionsflächen | X |  | X
+2 | feuchte bis frische Offenlandstandorte | Entwicklung und Renaturierung von Niedermooren, Hochmooren, Sümpfen | X |  | X
+Entwicklung von Großseggenrieden, Röhricht, naturschutzfachlich hochwertigen Hochstaudenfluren, Kraut- und Staudenfluren | X |  | X
+Entwicklung von ökologisch wertvollen Ufersäumen an Gräben, Bächen und Flüssen | X | X | X
+Entwicklung und Pflege von extensiv genutztem Grünland auf unterschiedlichen Standorten durch Mahd oder Beweidung mit entsprechenden Bewirtschaftungsauflagen (Schnittzeitpunktregelungen, Düngeauflagen, Beweidungsfrequenzen, Beweidungsdichten etc.) |  | X | X
+3 | Gehölzbiotope und Wälder | Anlage von Ufergehölzstreifen mit Pufferzonen (Saum extensiv genutzten Grünlands) | X |  | X
+Neuanlage und Entwicklung von gebietsheimischen Laubgebüschen, Feldgehölzen, strukturreichen, standortheimischen Wäldern, Waldaußenrändern oder (Baum-)Hecken auf unterschiedlichen Standorten (feucht bis trocken) | X | X | X
+Anlage von Alleen oder Einzelbäumen mit gebietsheimischen Gehölzen |  |  | 
+Anlage und Entwicklung von Streuobstwiesen mit naturschutzfachlichen Bewirtschaftungsauflagen |  | X | X
+Anlage, Entwicklung, Wiederherstellung von historischen Waldnutzungsformen, die für den Arten- oder Biotopschutz bedeutsam sind (z.B. Mittel- oder Niederwald) |  | X | X
+Sicherung bestimmter bisher bewirtschafteter Waldbestände als Prozessschutzflächen | X |  | X
+Offenhaltung und Pflege von naturschutzfachlich wertvollen, aber zuwachsenden Lichtungen, Waldwiesen, Brennen, Bachtälern | X | X | 
+Anlage, Entwicklung und Pflege von Strukturen, die für den Arten- und Biotopschutz im Wald bedeutend sind (z.B. Verzicht auf die Nutzung von Altbaumgruppen zur Anreicherung wertvoller Waldreifestadien, Gewässerrenaturierung im Wald) | X | X | X
+Entwicklung seltener/gefährdeter Waldgesellschaften, z.B. durch Revitalisierung von Auwäldern, Bruchwäldern sowie von Wäldern trockenwarmer Standorte oder anderer Sonderstandorte (z.B. Schlucht-, Block- und Hangschuttwälder) | X | X | X
+Rückbau von Infrastrukturen im Wald (z.B. Wirtschaftswege, sonstige bauliche Anlagen) mit anschließender natürlicher Entwicklung | X |  | X
+Maßnahmen, die eine dauerhafte Steigerung des Laubholzanteils, des Laubmischholzanteils oder der Weißtanne in Pflege- und Verjüngungsbeständen sowie bei Umbau- und Unterbaumaßnahmen bewirken, soweit gegenüber der sachgemäßen bzw. vorbildlichen Waldbewirtschaftung im Sinn des Waldgesetzes für Bayern eine Anhebung in Stufen um jeweils mindestens 10 Prozentpunkte festgelegt wird |  | X | X
+4 | trockene und nährstoffarme Offenlandbiotope | Entwicklung von Zwergstrauchheiden (trocken bis feucht) | X |  | X
+Entwicklung von Trockenrasen auf dafür geeigneten Standorten durch Mahd oder Beweidung mit entsprechenden Bewirtschaftungsauflagen (Schnittzeitpunktregelungen, Düngeauflagen, Beweidungsfrequenzen, Beweidungsdichten etc.) | X | X | X
+Entwicklung von Halbtrockenrasen oder wärmeliebenden Säumen auf dafür geeigneten Standorten durch Mahd oder Beweidung mit entsprechenden Bewirtschaftungsauflagen (Schnittzeitpunktregelungen, Düngeauflagen, Beweidungsfrequenzen, Beweidungsdichten etc.) | X | X | X
+Anlage von Steinriegeln, Trockenmauern aus Naturstein | X |  | 
+Herstellung und Pflege von Sand-, Kies-, Schotterflächen in Bereichen hohen Potenzials als Sonderstandorte für naturnahe Vegetation zur Förderung spezifischer Arten und Lebensräume | X |  | X
+Felsfreistellungen (Entbuschung) und Pflege an besonnten Steilwänden |  |  | 
+Entwicklung und Pflege von naturschutzfachlich hochwertigen Ruderalfluren auf vorhandenen verschiedenen Ausgangssubstraten (Kies, Sand, bindiges Substrat) |  |  | 
+5 | Ackerlebensräume | Herstellung und Bewirtschaftung spezifischer Artenschutzflächen (für Flora und/oder Fauna) mit entsprechenden naturschutzfachlichen Bewirtschaftungsauflagen (zu Pflanzenschutzmitteln, zur Düngung, zur Bearbeitungsintensität, zu Bearbeitungszeiten, zu Kombinationen mit bestimmten anderen Maßnahmen, zu Mindestflächengrößen, zu Mindest- und/oder Höchstdauer von bestimmten Maßnahmen): insbesondere zu erreichen durch Lerchenfenster, Ackerwildkrautfluren, extensive Ackernutzung, schlagintegrierte Naturschutzbrachen, Kleegras- und Luzernestreifen, Stoppelbrachen oder Ernteverzicht auf Teilflächen, doppelter Saatreihenabstand, mehrjährige Wildpflanzenmischungen, Ansaat bzw. Pflanzung, Herstellung und Pflege von Blühstreifen und -flächen, Kurzumtriebsplantagen mit naturschutzfachlichen Bewirtschaftungsauflagen etc. | X | X, X* | 
+6 | Sonderstandorte | Entwicklung von Strukturen oder Einrichtungen, die für den Arten- und Biotopschutz bedeutend sind wie z.B. Sicherung von Höhlen oder Kellern als Habitate für Fledermäuse |  |  | 
+Anlage und Entwicklung von Biotopbäumen für spezifische Artenschutzbelange |  | X, X* | 
+Herstellung und dauerhafte Erhaltung von stillgelegten Gleisschotterflächen als Lebensraum für trockenheits- und wärmeliebende Arten | X |  | X
+Technische Maßnahmen zur Wiedervernetzung von Lebensräumen wie Grünbrücken, Grünunterführungen, Tierdurchlässe etc. gegebenenfalls mit entsprechender Umfeldgestaltung oder Hinterlandanbindung | X |  | X
+7 | Sondermaßnahmen | Maßnahmen des zertifizierten ökologischen Landbaus (bezogen auf Acker- und Grünlandlebensräume): Umstellung von konventioneller Bewirtschaftung auf zertifizierten ökologischen Landbau. Der Umfang der anerkennungsfähigen Aufwertung von Natur und Landschaft wird für den Gesamtbetrieb im jeweiligen Einzelfall festgelegt. | X | X, X* | 
+Anmerkung zu verwendetem Saatgut und Pflanzmaterial (krautige Pflanzen und Gehölze):
+Grundsätzlich sollte aus fachlicher Sicht bei Begrünungs- oder Pflanzmaßnahmen – soweit nicht andere fachliche Notwendigkeiten dagegen stehen – vorrangig autochthones Saatgut aus Naturgemischen (z.B. aus diasporenreichem Mähgut oder Heu, Druschgut oder Rechengut) oder autochthones Pflanzmaterial aus derselben Herkunftsregion bzw. demselben Wuchsgebiet eingesetzt werden.
+Es ist zu berücksichtigen, dass die Anforderungen an die Herkunft des Saat- und Pflanzguts um so höher sind, je höher die naturschutzfachliche Bedeutung des von einer Maßnahme betroffenen Landschaftsausschnitts ist. Eine differenzierte, auf den jeweiligen Einzelfall abgestimmte Lösung ist deshalb unumgänglich.
