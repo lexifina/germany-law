@@ -1,0 +1,35 @@
+# Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2020
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: DS-182/2019 4. Ergänzung
+- Art: StVV - Drucksache
+- Datum: 2020-06-03
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbArvnBGxQywMUMbiqy3aBc
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/401
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: StVV - Drucksache (Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRHZDLX6U4VTZk4Ilf97WVCCCItwFDUDb64gd96OHap8/StVV_-_Drucksache_DS-182-2019_4._Ergaenzung.pdf
+- Anlage: StVV - Drucksache (Hebesatzung 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZayBDl9wNYC53VpYf9cDnWYQAOx4ijTdW_6tQ7XCKAYN/Hebesatzung_2020.pdf
+- Anlage: StVV - Drucksache (Inhaltsverzeichnis Haushalt 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQZ7xEVPE26Uf7QD0xNW5ceAuU6NIuWU-26byCztiH7q/Inhaltsverzeichnis_Haushalt_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltssatzung 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUYN0OxK8RDSFzkZlmuxgWTyFd2wXqn8ET2tn3CIU0uC/Haushaltssatzung_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltsvorbericht 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW_em_ppTitBby0sy8rzkfyQ0m5BqziN4nrVkvfiSCk3/Haushaltsvorbericht_2020.pdf
+- Anlage: StVV - Drucksache (Haushaltssicherungskonzept 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX3jTfo2kI8vbyxlQ7mlOsiICCe_atH0GD3EGavVcNIz/Haushaltssicherungskonzept_2020.pdf
+- Anlage: StVV - Drucksache (Finanzstatusbericht) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdxiKZG7FCcx8h9suWhgkL3XFHdJ5K8bi4x5aGTXw93q/Finanzstatusbericht.pdf
+- Anlage: StVV - Drucksache (Übersicht über die Budgets) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRgesDdXMA3ZJzpQLZ0fKOIdJJhzCpp4ONcLzLxZ017/Uebersicht_ueber_die_Budgets.pdf
+- Anlage: StVV - Drucksache (Grundsätze für die Budgetierung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfiibUxldYtt4Ok8UEZsgu82jyfivq-bhUfJqP7xO_-m/Grundsaetze_fuer_die_Budgetierung.pdf
+- Anlage: StVV - Drucksache (Produktbereichsplan 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZegOJ55NKWaTmtOMftGIjgcZV5TG8TMhy4oKNY3z4HWr/Produktbereichsplan_2020.pdf
+- Anlage: StVV - Drucksache (Übersicht Verpflichtungsermächtigungen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQCxcNRW0vapJR6glhav08NAVEhnHDtxpMpR6KjJpntc/Uebersicht_Verpflichtungsermaechtigungen.pdf
+- Anlage: StVV - Drucksache (Übersicht voraussichtlicher Stand Verbindlichkeiten) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdhC-q56vtutrVdxGK8fsRuCWM5MwQSt-jxv_IrmiGzk/Uebersicht_voraussichtlicher_Stand_Verbindlichkeiten.pdf
+- Anlage: StVV - Drucksache (Übersicht voraussichtlicher Stand Rücklagen und Rückstellungen2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVxyBEICFTkRY2pN7GlOR_qlvH8fMQjCF6pfbEkV7Zhy/Uebersicht_voraussichtlicher_Stand_Ruecklagen_und_Rueckstellungen2020.pdf
+- Anlage: StVV - Drucksache (Übersicht Fraktionen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZLTmzX4M-CdlWWWWPKTp5czfkrfQb88wxYcB1x0i4Tt/Uebersicht_Fraktionen.pdf
+- Anlage: StVV - Drucksache (JA 2018) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf8ityeJJr6SgXsPQC31UGx2nHAWbUgerDGGpQQ5Bt9z/JA_2018.pdf
+- Anlage: StVV - Drucksache (Haushalt 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_4DeeeEvQ2J5g8iEx6ATYLavOje4bSVJbDMtAfka41/Haushalt_2020.pdf
+- Anlage: StVV - Drucksache (Stellenplan 2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWG11bps6Bdnn0oXAvPJ7OA6rnZaEc1FjKnvp6hk0s32/Stellenplan_2020.pdf
+- Anlage: StVV - Drucksache (Antrag Stumpf, Hisserich zum Haushalt 2020 vom 28.02.2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVPHWD9d56P6PdUvhnqaNBN1KjP02Xz0-EGOAunqYtiO/Antrag_Stumpf-_Hisserich_zum_Haushalt_2020_vom_28.02.2020.pdf
+- Anlage: StVV - Drucksache (Antrag SPD zum Haushalt 2020 und 2021 vom 13.05.2020) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR5TiSlGIQoWfDuGQtYLQX65Ukz67xSaAKkBp0A7swR3/Antrag_SPD_zum_Haushalt_2020_und_2021_vom_13.05.2020.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/629 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/644 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/645 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/672 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/704 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/709 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
