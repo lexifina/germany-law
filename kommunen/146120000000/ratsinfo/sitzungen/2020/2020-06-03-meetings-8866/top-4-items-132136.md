@@ -1,0 +1,6 @@
+# TOP 4: Informationen zu Auswirkungen der Haushaltssperre auf Förderungen von Angeboten für Menschen mit Behinderungen bzw. geplante Investitionen und Projekte
+
+- Sitzung: 3. Sitzung des Beirates für Menschen mit Behinderungen (2020-06-03)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/132136
