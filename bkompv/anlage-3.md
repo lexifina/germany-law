@@ -1,0 +1,17 @@
+# Anlage 3 (zu § 5 Absatz 3 Satz 2 und § 6 Absatz 2 Satz 2)
+
+1. Feststellung der Schwere der zu erwartenden Beeinträchtigungen
+  | Bedeutung der Funktionen des jeweiligen Schutzguts nach Wertstufen | Stärke, Dauer und Reichweite der vorhabenbezogenen Wirkungen |
+  | I gering | II mittel | III hoch |
+  | 1 sehr gering | – | – | – |
+  | 2 gering | – | – | eB |
+  | 3 mittel | – | eB | eB |
+  | 4 hoch | eB | eB | eBS |
+  | 5 sehr hoch | eB | eBS | eBS |
+  | 6 hervorragend | eBS | eBS | eBS |
+  | –: | keine erhebliche Beeinträchtigung zu erwarten |
+  | eB: | erhebliche Beeinträchtigung zu erwarten |
+  | eBS: | erhebliche Beeinträchtigung besonderer Schwere zu erwarten |
+2. Feststellung der Schwere der zu erwartenden Beeinträchtigungen der in Anlage 1 aufgeführten Bodenfunktionen
+  Für die Feststellung der Schwere der zu erwartenden Beeinträchtigungen der natürlichen Bodenfunktionen durch Versiegelung oder einen Bodenabtrag von bisher unversiegelten Flächen gilt abweichend von Nummer 1 für eine erhebliche Beeinträchtigung besonderer Schwere Folgendes:
+  Bei einer dauerhaften Versiegelung oder einem Bodenabtrag von bisher unversiegelten Flächen ab einer Größe von 2 000 Quadratmetern sowie bei sonstigen dauerhaften Wirkungen (Verdichtung, Veränderung des Bodenwasser- oder Stoffhaushalts) ab dieser Größe hat eine Prüfung zu erfolgen, ob eine erhebliche Beeinträchtigung besonderer Schwere zu erwarten ist. Für die Bewertung sind die Bedeutung der betroffenen Bodenfunktion im konkreten räumlichen Zusammenhang und die Empfindlichkeit gegenüber der spezifischen Wirkung maßgeblich.

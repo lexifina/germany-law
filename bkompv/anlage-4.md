@@ -1,0 +1,77 @@
+# Anlage 4 (zu § 8 Absatz 1 Satz 2 und § 9 Absatz 4 Satz 1)Naturräume in Deutschland
+
+[Bild: bgbl1_2020_j1088-1_0010.jpg]
+Naturräume in Deutschland (Bundesamt für Naturschutz 2011, nach Ssymank 1994)
+| D01 | Mecklenburgisch-Vorpommersches Küstengebiet |
+| D02 | Nordostmecklenburgisches Tiefland mit Oderhaffgebiet |
+| D03 | Rückland der Mecklenburg-Brandenburgischen Seenplatte |
+| D04 | Mecklenburgische Seenplatte |
+| D05 | Mecklenburg-Brandenburgisches Platten- und Hügelland sowie Luchland |
+| D06 | Ostbrandenburgische Platte |
+| D07 | Odertal |
+| D08 | Spreewald und Lausitzer Becken- und Heideland |
+| D09 | Elbtalniederung |
+| D10 | Elbe-Mulde-Tiefland |
+| D11 | Fläming |
+| D12 | Mittelbrandenburgische Platten und Niederungen sowie Ostbrandenburgisches Heide- und Seengebiet |
+| D13 | Oberlausitzer Heideland |
+| D19 | Erzgebirgsvorland und Sächsisches Hügelland |
+| D20 | Mitteldeutsches Schwarzerdegebiet |
+| D21 | Schleswig-Holsteinische Marschen und Nordseeinseln |
+| D22 | Schleswig-Holsteinische Geest |
+| D23 | Schleswig-Holsteinisches Hügelland |
+| D24 | Unterelbeniederung (Elbmarsch) |
+| D25 | Ems-Weser-Marsch |
+| D26 | Ostfriesisch-Oldenburgische Geest |
+| D27 | Stader Geest |
+| D28 | Lüneburger Heide |
+| D29 | Wendland und Altmark |
+| D30 | Dümmer Geestniederung und Ems-Hunte-Geest |
+| D31 | Weser-Aller-Tiefland |
+| D32 | Niedersächsische Börden |
+| D33 | Nördliches Harzvorland |
+| D34 | Westfälische Tieflandsbucht |
+| D35 | Kölner Bucht und Niederrheinisches Tiefland |
+| D14 | Oberlausitz |
+| D15 | Sächsisch-Böhmisches Kreidesandsteingebiet |
+| D16 | Erzgebirge |
+| D17 | Vogtland |
+| D18 | Thüringer Becken und Randplatten |
+| D36 | Unteres Weserbergland und Oberes Weser-Leine-Bergland |
+| D37 | Harz |
+| D38 | Bergisches Land, Sauerland (Süderbergland) |
+| D39 | Westerwald |
+| D40 | Lahntal und Limburger Becken |
+| D41 | Taunus |
+| D42 | Hunsrück |
+| D43 | Moseltal |
+| D44 | Mittelrheingebiet (mit Siebengebirge) |
+| D45 | Eifel und Vennvorland |
+| D46 | Westhessisches Berg- und Beckenland |
+| D47 | Osthessisches Bergland (Vogelsberg und Rhön) |
+| D48 | Thüringisch-Fränkisches Mittelgebirge |
+| D49 | Gutland (Bitburger Land) |
+| D50 | Pfälzisch-Saarländisches Muschelkalkgebiet |
+| D51 | Pfälzer Wald (Haardtgebirge) |
+| D52 | Saar-Nahe-Berg- und Hügelland |
+| D63 | Oberpfälzer und Bayerischer Wald |
+| D53 | Oberrheinisches Tiefland und Rhein-Main-Tiefland |
+| D54 | Schwarzwald |
+| D55 | Odenwald, Spessart und Südrhön |
+| D56 | Mainfränkische Platten |
+| D57 | Neckar- und Tauberland, Gäuplatten |
+| D58 | Schwäbisches Keuper-Lias-Land |
+| D59 | Fränkisches Keuper-Lias-Land |
+| D60 | Schwäbische Alb |
+| D61 | Fränkische Alb |
+| D62 | Oberpfälzisch-Obermainisches Hügelland |
+| D69 | Hochrheingebiet und Dinkelberg |
+| D64 | Donau-Iller-Lech-Platten |
+| D65 | Unterbayerisches Hügelland und Isar-Inn-Schotterplatten |
+| D66 | Voralpines Hügel- und Moorland |
+| D67 | Schwäbisch-Oberbayerische Voralpen |
+| D68 | Nördliche Kalkalpen |
+| D70 | Deutsche Bucht (ohne Felssockel Helgoland) |
+| D71 | Doggerbank und angrenzende zentrale Nordsee |
+| D72 | Westliche Ostsee |
+| D73 | Östliche Ostsee |

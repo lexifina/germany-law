@@ -1,0 +1,891 @@
+# Anlage 2 (zu § 5 Absatz 1)Liste der Biotoptypen und -werte
+
+| Code | Biotoptyp | Biotop- typenwert |
+|  | BIOTOPTYPEN DER MEERE UND KÜSTEN |  |
+| 02. | BENTHAL DER NORDSEE |  |
+| 02.01 | Eulitorales Benthal der Nordsee (Wattflächen, kurz: EBN) |  |
+| 02.01.01.01 | EBN Felsen- und Steingrund mit Epibenthos | 17 |
+| 02.01.01.01.02 | EBN Felsen- und Steingrund mit epibenthischen Muscheln (Bivalvia) | 19 |
+| 02.01.01.02 | EBN Felsen- und Steingrund mit vereinzeltem Epibenthos, Weidegängern oder ohne epibenthische Makroflora oder -fauna | 15 |
+| 02.01.02.01 | EBN Schillgrund mit Epibenthos | 21 |
+| 02.01.02.02 | EBN Schillgrund mit Infauna | 15 |
+| 02.01.02.03 | EBN Schillgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 15 |
+| 02.01.03 | EBN Torfgrund – ausschließlich Wattenmeer und Ästuare | 18 |
+| 02.01.04.01 | EBN Sandgrund mit Epibenthos (ggf. mit Queller oder Schlickgras) | 17 |
+| 02.01.04.01.01.03 | EBN Sandgrund mit Seegras (Zostera-Seegraswiesen) | 18 |
+| 02.01.04.01.02 | EBN Sandgrund mit (lagestabilen) epibenthischen Muscheln (Bivalvia) | 21 |
+| 02.01.04.02 | EBN Sandgrund mit Infauna | 16 |
+| 02.01.04.03 | EBN Sandgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora und -fauna | 15 |
+| 02.01.05.01 | EBN Schlickgrund mit Epibenthos (ggf. mit Queller oder Schlickgras) | 17 |
+| 02.01.05.01.01.03 | EBN Schlickgrund mit Seegras (Zostera-Seegraswiesen) | 18 |
+| 02.01.05.01.02 | EBN Schlickgrund mit (lagestabilen) epibenthischen Muscheln (Bivalvia) | 21 |
+| 02.01.05.02 | EBN Schlickgrund mit Infauna | 17 |
+| 02.01.05.03 | EBN Schlickgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 16 |
+| 02.01.06a | EBN Biogenes Riff mit Europäischen Austern | 23 |
+| 02.01.07a | EBN Biogenes Riff mit (lagestabilen) Pazifischen Austern | 16 |
+| 02.01.08a | EBN Biogenes Riff mit (lagestabilen) Miesmuscheln (Mytilus edulis) | 22 |
+| 02.01.09a | EBN Muschelkulturen | 8 |
+| 02.02 | Sublitorales Benthal der Nordsee (kurz: SBN) |  |
+| 02.02.01.01 | SBN Felsen- und Steingrund mit Epibenthos | 13 |
+| 02.02.01.02 | SBN Felsen- und Steingrund mit vereinzeltem Epibenthos, Weidegängern oder ohne epibenthische Makroflora oder -fauna | 11 |
+| 02.02.02a | SBN Geschiebemergel-/Kleigrund – vorwiegend an exponierten Küstenabschnitten | 13 |
+| 02.02.04.01 | SBN Schillgrund mit Epibenthos | 15 |
+| 02.02.04.01.02 | SBN Schillgrund mit Nesseltieren (Cnidaria) | 16 |
+| 02.02.04.02 | SBN Schillgrund mit Infauna | 11 |
+| 02.02.04.03 | SBN Schillgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 11 |
+| 02.02.05 | SBN Torfgrund – vorwiegend Wattenmeer und Ästuare | 14 |
+| 02.02.06.01 | SBN Mischsubstrat mit Epibenthos | 15 |
+| 02.02.06.02 | SBN Mischsubstrat mit vereinzeltem Epibenthos, Weidegängern oder ohne epibenthische Makroflora oder -fauna | 11 |
+| 02.02.07 | SBN Grobsedimentbank (Sandbank-Komplex) | 14 |
+| 02.02.08.01 | SBN Ebenes Grobsediment mit Epibenthos | 15 |
+| 02.02.08.02 | SBN Ebenes Grobsediment mit Infauna | 14 |
+| 02.02.08.02.01.02 | SBN Ebenes Grobsediment mit Goniadella-Spisula-Gemeinschaft, dominiert von Trogmuscheln (Mactra/Spisula) | 15 |
+| 02.02.08.03 | SBN Ebenes Grobsediment mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 11 |
+| 02.02.09 | SBN Sandbank (inkl. Megarippelfelder) | 13 |
+| 02.02.10.01 | SBN Ebener Sandgrund mit Epibenthos | 15 |
+| 02.02.10.01.01a | SBN Ebener Sandgrund mit Makrophytenbeständen oder Seegraswiesen (wurzelnden Pflanzen, Laichkräutern, Meersalden, Zostera-Seegraswiesen oder Teichfaden) – nur Wattenmeer und Ästuare | 18 |
+| 02.02.10.02 | SBN Ebener Sandgrund mit Infauna | 13 |
+| 02.02.10.02.01.01 | SBN Sandgrund mit Amphiura filiformis-Gemeinschaft, dominiert von Callianassa/Nephrops/Upogebia | 14 |
+| 02.02.10.02.01.02 | SBN Ebener Sandgrund mit Amphiura filiformis-Gemeinschaft, dominiert von Islandmuscheln (Arctica islandica) | 17 |
+| 02.02.10.02.03 | SBN Ebener Sandgrund mit Bathyporaia-Tellina-Gemeinschaft – nur offene Nordsee | 14 |
+| 02.02.10.03 | SBN Ebener Sandgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 11 |
+| 02.02.11.01 | SBN Schlickgrund mit Epibenthos, vor allem mit wurzelnden Pflanzen – nur gering exponierte, flache Buchten des Wattenmeeres und der Ästuare | 17 |
+| 02.02.11.02 | SBN Schlickgrund mit Infauna | 13 |
+| 02.02.11.02.01.01 | SBN Schlickgrund mit Amphiura filiformis-Gemeinschaft, dominiert von Calianassa/Nephrops/Upogebia | 14 |
+| 02.02.11.02.01.02 | SBN Schlickgrund mit Amphiura filiformis-Gemeinschaft, dominiert von Islandmuscheln (Arctica islandica) | 17 |
+| 02.02.11.02.02.04 | SBN Schlickgrund mit Nucula nitidosa-Gemeinschaft, dominiert von Islandmuscheln (Arctica islandica) | 17 |
+| 02.02.11.03 | SBN Schlickgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora und -fauna – vorwiegend gering exponierte, flache Buchten des Wattenmeeres und der Ästuare | 11 |
+| 02.02.12a | SBN Geogenes Riff inkl. Steinfeld/Blockfeld, mariner Findling, Restsediment mit vereinzelten Steinen oder Blöcken | 17 |
+| 02.02.13a.01 | SBN Biogenes Riff mit (lagestabilen) Miesmuscheln (Mytilus edulis) | 20 |
+| 02.02.13a.02 | SBN Biogenes Riff mit epibenthischen Vielborstern, v. a. Sandkoralle (Sabellaria) | 22 |
+| 02.02.13a.03 | SBN Biogenes Riff mit Europäischen Austern | 22 |
+| 02.02.13a.04 | SBN Biogenes Riff mit Pazifischen Austern | 13 |
+| 02.02.13a.05 | SBN Artenreiche Kies-, Grobsand- und Schillgründe | 15 |
+| 02.02.13a.06 | SBN Muschelkulturen | 7 |
+| 05. | BENTHAL DER OSTSEE |  |
+| 05.01 | Hydrolitorales Benthal der Ostsee (Windwatt, kurz: HBO) |  |
+| 05.01.01 | HBO Felsen- und Steingrund | 12 |
+| 05.01.01.01.01 | HBO Felsen- und Steingrund mit mehrjährigen (festsitzenden) Makroalgen, v. a. Fucus vesiculosus | 16 |
+| 05.01.02 | HBO Torfgrund | 15 |
+| 05.01.03 | HBO Mischsubstrat | 12 |
+| 05.01.03.01.01 | HBO Mischsubstrat mit wurzelnden Pflanzen – überwiegend in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 16 |
+| 05.01.03.01.02 | HBO Mischsubstrat mit mehrjährigen (festsitzenden) Makroalgen, v. a. Fucus vesiculosus | 16 |
+| 05.01.04 | HBO Grobsediment | 12 |
+| 05.01.04.01.01 | HBO Grobsediment mit wurzelnden Pflanzen – überwiegend in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 16 |
+| 05.01.04.01.01 | HBO Grobsediment mit mehrjährigen (festsitzenden) Makroalgen, v. a. Fucus vesiculosus | 16 |
+| 05.01.05.01.01 | HBO Sandgrund mit wurzelnden Pflanzen – überwiegend in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 16 |
+| 05.01.05.02 | HBO Sandgrund mit Infauna | 14 |
+| 05.01.05.03a | HBO Hydrolitoraler Sandgrund der Ostsee mit (vereinzeltem) Epibenthos oder ohne Makroflora oder -fauna | 12 |
+| 05.01.06.02 | HBO Schlickgrund mit Infauna | 14 |
+| 05.01.06.03a | HBO Schlickgrund mit (vereinzeltem) Epibenthos oder ohne Makroflora oder -fauna | 12 |
+| 05.02 | Sublitorales Benthal der Ostsee (kurz: SBO) |  |
+| 05.02.01.01 | SBO Felsen- und Steingrund mit Epibenthos | 13 |
+| 05.02.01.01.01a | SBO Felsen- und Steingrund mit Fucus oder Furcellaria lumbricalis | 15 |
+| 05.02.01.02 | SBO Felsen- und Steingrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora und -fauna | 11 |
+| 05.02.02a | SBO aufragender oder ebener Geschiebemergelgrund – vorwiegend an exponierten Küstenabschnitten der offenen Ostsee | 13 |
+| 05.02.04 | SBO Schillgrund | 13 |
+| 05.02.05 | SBO Torfgrund | 14 |
+| 05.02.06.01 | SBO Mischsubstrat mit Epibenthos | 13 |
+| 05.02.06.01.01.01 | SBO Mischsubstrat mit Armleuchteralgen (Characeae) – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.06.01.01.04a | SBO Mischsubstrat mit Seegräsern (Zostera-Seegraswiesen) | 16 |
+| 05.02.06.01.02.01a | SBO Mischsubstrat mit Fucus oder Furcellaria lumbricalis | 15 |
+| 05.02.06.02 | SBO Mischsubstrat mit vereinzeltem Epibenthos, Weidegängern oder ohne epibenthische Makroflora oder -fauna | 11 |
+| 05.02.07 | SBO Grobsedimentbank (Sandbank-Komplex) | 13 |
+| 05.02.08.01.01.03 | SBO Ebenes Grobsediment mit Seegräsern (Zostera-Seegraswiesen) | 16 |
+| 05.02.08.01.02 | SBO Ebenes Grobsediment mit mehrjährigen (festsitzenden) Makroalgen | 15 |
+| 05.02.08.02 | SBO Ebenes Grobsediment der Ostsee mit Infauna | 13 |
+| 05.02.08.03a | SBO Ebenes Grobsediment mit (vereinzeltem) Epibenthos, Weidegängern oder ohne epibenthische Makroflora oder -fauna | 11 |
+| 05.02.09 | SBO Sandbank (Sandbank-Komplex, inkl. Megarippelfelder) | 11 |
+| 05.02.10.01 | SBO Ebener Sandgrund mit Epibenthos oder wurzelnden Pflanzen | 14 |
+| 05.02.10.01.01.01 | SBO Ebener Sandgrund mit Armleuchteralgen (Characeae) – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.10.01.01.04 | SBO Ebener Sandgrund mit Nixkraut (Najas marina) – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.10.01.01.05 | SBO Sandgrund mit Seegräsern (Zostera-Seegraswiesen) | 16 |
+| 05.02.10.01.03 | SBO Ebener Sandgrund mit mehrjährigen (nicht festsitzenden) Makroalgen – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.10.02 | SBO Ebener Sandgrund mit Infauna | 11 |
+| 05.02.10.03 | SBO Ebener Sandgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora oder -fauna | 11 |
+| 05.02.11.01 | SBO Schlickgrund mit Epibenthos oder wurzelnden Pflanzen | 13 |
+| 05.02.11.01.01.01 | SBO Schlickgrund mit Armleuchteralgen (Characeae) – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.11.01.01.04 | SBO Schlickgrund mit Nixkraut (Najas marina) – nur in flachen Buchten (Bodden, Haffe), Förden, Lagunen und Ästuaren | 15 |
+| 05.02.11.01.01.05 | SBO Sandgrund mit Seegräsern (Zostera-Seegraswiesen) | 16 |
+| 05.02.11.02 | SBO Schlickgrund mit Infauna | 11 |
+| 05.02.11.03 | SBO Schlickgrund mit vereinzeltem Epibenthos, Weidegängern oder ohne Makroflora und -fauna | 11 |
+| 05.02.12a | SBO Geogenes Riff inkl. Steinfeld/Blockfeld, mariner Findling, Restsediment mit vereinzelten Steinen oder Blöcken | 16 |
+| 05.02.13a | SBO Biogenes Riff mit (lagestabilen) Miesmuscheln (Mytilus edulis) | 15 |
+| 05.02.14a | SBO Artenreiche Kies-, Grobsand- und Schillgründe | 15 |
+| 06a. | ANTHROPOGENE STRUKTUREN IM MEERES- UND KÜSTENBEREICH |  |
+| 06a.01. | Künstliche Strukturen im Meeres- und Küstenbereich |  |
+| 06a.01.01 | Hafenbecken und Marinas | 6 |
+| 06a.01.02 | Hafenanlage an Land, Kai | 1 |
+| 06a.01.03 | Küstenschutzbauwerk (inkl. Steinschüttungen, Deckwerke) | 4 |
+| 06a.01.04 | Buhne, Mole | 5 |
+| 06a.01.05 | Lahnung | 9 |
+| 06a.01.06 | Schiffswrack | 9 |
+| 06a.02 | Sonstige technische Bauwerke über Meeresboden |  |
+| 06a.02.01 | Technisches Bauwerk aus Naturstein/natürlichem Substrat in gleichartigem natürlichen Umgebungssubstrat | 9 |
+| 06a.02.02 | Technisches Bauwerk aus Naturstein/natürlichem Material in anderem natürlichen Substrat | 4 |
+| 06a.02.03 | Technisches Bauwerk aus sonstigen Materialien | 2 |
+| 06a.03 | Naturfernes Salz- und Brackgewässer im Küstenbereich |  |
+| 06a.03.01 | Fahrrinne im Wattenmeer | 5 |
+| 06a.03.02 | Ausgebauter Brackwasserbach | 8 |
+| 06a.03.03 | Salz- und Brackwassergraben im Küstenbereich | 8 |
+| 06a.03.04 | Naturfernes salzhaltiges Abgrabungsgewässer der Küste | 5 |
+| 06a.03.05 | Sonstiges anthropogenes Salz- und Brackgewässer im Küstenbereich | 6 |
+| 06a.04 | Anthropogene Sand-, Spül- und Verlandungsflächen |  |
+| 06a.04.01 | Spülfläche mit Wattvegetation | 10 |
+| 06a.04.02 | Spülfläche mit Salzwiese | 10 |
+| 06a.04.03 | Sonstige Spül- und Verlandungsflächen | 8 |
+| 07. | SALZGRÜNLAND DER NORDSEEKÜSTE (Supralitoral) |  |
+| 07.01 | Unteres Salzgrünland der Nordseeküste (z. B. Andelrasen) | 18 |
+| 07.02 | Höhergelegenes Salzgrünland der Nordseeküste (z. B. Rotschwingel- und Bottenbinsenrasen) | 16 |
+| 07.03 | Strandwiesen der Nordseeküste [Komplex] | 19 |
+| 07.04 | Brack- und Salzwasserröhricht der Nordseeküste und der Ästuare | 18 |
+| 07.05 | Brackwasser-Hochstaudenflur der Nordseeküste und der Ästuare | 20 |
+| 07.06 | Brackwasserbeeinflusstes Grünland der Nordseeküste und der Ästuare | 20 |
+| 08. | SALZGRÜNLAND, BRACKWASSERRÖHRICHTE UND HOCHSTAUDENFLUREN DES GEOLITORALS DER OSTSEEKÜSTE |  |
+| 08.01 | Salzgrünland des Geolitorals der Ostseeküste (ohne Röhrichte) | 21 |
+| 08.02 | Brackwasserröhrichte der Ostseeküste (Übergangsbereich Hydro- und Geolitoral) | 17 |
+| 08.03 | Brackwasser-Hochstaudenfluren der Ostseeküste | 18 |
+| 08.04 | Schlenke, Kolk und Rinne des Geolitorals der Ostseeküste mit Pioniervegetation (u. a. Queller) | 18 |
+| 08.05 | Strandwiesen der Ostseeküste [Komplex] | 18 |
+| 09. | SÄNDE, SAND-, GERÖLL- UND BLOCKSTRÄNDE |  |
+| 09.01 | Sandbank, Außensand und Nehrungshaken | 18 |
+| 09.02 | Sandstrände und Sandplaten | 18 |
+| 09.03 | Kies- und Geröllstrände | 17 |
+| 09.04 | Blockstrände | 17 |
+| 09.05 | Strandwälle | 18 |
+| 09.06 | Strandgewässer | 20 |
+| 10. | KÜSTENDÜNEN |  |
+| 10.01 | Vordüne | 20 |
+| 10.02 | Weißdüne | 18 |
+| 10.03 | Graudünen (Dünenrasen) | 20 |
+| 10.04 | Braundünen (Küstendünenheiden) | 20 |
+| 10.05 | Feuchte/nasse Dünentäler, inkl. Dünenmoore [Komplex] | 24 |
+| 10.06 | Dünengebüsche | 18 |
+| 10.07 | Wanderdüne | 22 |
+| 11. | FELS- UND STEILKÜSTEN |  |
+| 11.01 | Sandstein-Felsküste (nur Helgoland) | 22 |
+| 11.02 | Kreide-Felsküste (Ostsee) | 18 |
+| 11.03 | Geestkliff der Nordseeküste und -inseln | 19 |
+| 11.04 | Moränensteilküsten der Ostsee | 17 |
+| 12a. | FLIESSGEWÄSSER DER BRACKWASSER-ÄSTUARE |  |
+| 12a.01 | Unverändertes und gering verändertes Fließgewässer der Brackwasser-Ästuare | 23 |
+| 12a.02 | Mäßig verändertes Fließgewässer der Brackwasser-Ästuare | 15 |
+| 12a.03 | Stark verändertes Fließgewässer der Brackwasser-Ästuare | 6 |
+| 12a.04 | Zeitweilig trockenfallende Lebensräume unterhalb des Mittelwasserbereichs an Ästuaren einschließlich Brackwasserwatt |  |
+| 12a.04.01 | – Natürliche oder naturnahe Ausprägung | 20 |
+| 12a.04.02 | – Bedingt naturnahe Ausprägung | 14 |
+|  | BIOTOPTYPEN DES BINNENLANDES |  |
+| 22. | QUELLEN (inkl. Quellabfluss [Krenal]) |  |
+| 22.01.01 | Kalkarme Sicker- und Sumpfquellen (Helokrenen) | 22 |
+| 22.01.02 | Kalkreiche Sicker- und Sumpfquellen (Helokrenen) (inkl. Kalktuff-Sicker- und -Sumpfquelle) | 20 |
+| 22.02 | Grundquellen (Limnokrenen) | 22 |
+| 22.03 | Sturzquellen (Rheokrenen) (inkl. Kalktuff-Sturzquelle) | 22 |
+| 22.04 | Salz- oder Solquellen | 23 |
+| 22.05 | künstlich gefasste Quellen | 11 |
+| 23. | FLIESSENDE GEWÄSSER |  |
+| 23.01 | Natürliche und naturnahe Fließgewässer | 22 |
+| 23.02 | Anthropogen mäßig beeinträchtigte Fließgewässer | 17 |
+| 23.03 | Anthropogen stark beeinträchtigte Fließgewässer |  |
+| 23.03a.01 | – Typische Ausprägung | 8 |
+| 23.03a.02 | – Besondere Ausprägung mit Flachwasserzonen oder Wasserpflanzen | 13 |
+| 23.04 | Anthropogen sehr stark veränderte Fließgewässer |  |
+| 23.04a.01 | – Typische Ausprägung | 5 |
+| 23.04a.02 | – Besondere Ausprägung mit Flachwasserzonen oder Wasserpflanzen | 9 |
+| 23.05 | Künstliche lineare Gewässerstrukturen |  |
+| 23.05.01a | Graben mit periodischer oder dauerhafter Wasserführung (fließendes oder stehendes Gewässer) |  |
+| 23.05.01a.01 | – Naturnahe Ausbildung/ohne oder mit extensiver Unterhaltung | 13 |
+| 23.05.01a.02 | – Naturferne Ausbildung/intensive Unterhaltung | 8 |
+| 23.05.02 | Technische Rinne, Halbschale | 3 |
+| 23.05.03 | Verrohrung | 1 |
+| 23.05.04a | Kanäle |  |
+| 23.05.04a.01 | – Naturnahe Ausprägung | 10 |
+| 23.05.04a.02 | – Naturferne Ausprägung | 4 |
+| 23.05.05a | Technische Uferbefestigungen und -vorschüttungen, Regelungsbauwerke | 3 |
+| 23.05.06a | Technische-biologische Ufersicherungen | 8 |
+| 23.05.07a | Spundwand | 1 |
+| 23.05.08a | Sonstige lineare Gewässerstrukturen, z. B. Fischpässe und Umgehungsgerinne |  |
+| 23.05.08a.01 | – Naturnahe Ausbildung | 11 |
+| 23.05.08a.02 | – Naturferne Ausbildung | 4 |
+| 23.06 | Mündungen in Binnengewässer | 17 |
+| 23.07 | Sonderformen im Fließgewässerverlauf |  |
+| 23.07.01 | Wasserfall | 21 |
+| 23.07.02 | Altarm | 21 |
+| 23.07.03 | Seeabfluss (natürlich oder naturnah) | 17 |
+| 23.07.04 | Staustrecke | 6 |
+| 23.07.05 | Salzbach | 22 |
+| 23.08 | Zeitweilig trockenfallende Lebensräume unterhalb des Mittelwasserbereichs an fließenden Gewässern (einschließlich Süßwasserwatt) |  |
+| 23.08a.01 | – Natürliche oder naturnahe Ausprägung | 20 |
+| 23.08a.02 | – Bedingt naturnahe Ausprägung | 14 |
+| 23.09 | Natürliche und naturnahe temporäre Fließgewässer | 20 |
+| 24. | STEHENDE GEWÄSSER |  |
+| 24.01 | Dystrophe stehende Gewässer/Moorgewässer (natürliche oder naturnahe) |  |
+| 24.01a | Natürliche dystrophe Gewässer | 20 |
+| 24.01b | Naturnahe dystrophe Gewässer, inkl. sich selbst überlassene Abbaugewässer (Teilabschnitte können getrennt betrachtet werden) | 16 |
+| 24.02 | Oligotrophe stehende Gewässer (natürliche oder naturnahe) |  |
+| 24.02a | Natürliche oligotrophe Gewässer | 22 |
+| 24.02b | Naturnahe oligotrophe Gewässer, inkl. sich selbst überlassene Abbaugewässer (Teilabschnitte können getrennt betrachtet werden) | 17 |
+| 24.03 | Mesotrophe stehende Gewässer (natürliche oder naturnahe) |  |
+| 24.03a | Natürliche mesotrophe Altwasser | 20 |
+| 24.03b | Sonstige natürliche mesotrophe Gewässer | 19 |
+| 24.03c | Naturnahe mesotrophe Gewässer, inkl. sich selbst überlassene Abbaugewässer (Teilabschnitte können getrennt betrachtet werden) | 17 |
+| 24.04 | Eutrophe stehende Gewässer (natürliche oder naturnahe) |  |
+| 24.04a | Natürliches eutrophes Altwasser und eutrophe Tümpel | 19 |
+| 24.04b | Sonstige natürliche eutrophe Gewässer | 16 |
+| 24.04c | Naturnahe eutrophe Gewässer, inkl. sich selbst überlassene Abbaugewässer (Teilabschnitte können getrennt betrachtet werden) | 15 |
+| 24.05 | Poly-hypertrophe stehende Gewässer | 7 |
+| 24.06 | Salzhaltige Binnengewässer (natürliche oder naturnahe) |  |
+| 24.06.01 | Salzhaltiges, perennierendes, stehendes Gewässer (Binnenlandsalzstellen) | 21 |
+| 24.06.02 | Gipshaltiges, perennierendes, stehendes Gewässer | 20 |
+| 24.06.03 | Salztümpel des Binnenlandes | 21 |
+| 24.07 | Weitere stehende Gewässer |  |
+| 24.07.01 | Naturferner, wassergefüllter Torfstich (aktuell im Abbau) | 4 |
+| 24.07.02 | Fischzuchtgewässer (intensive Nutzung) | 6 |
+| 24.07.02a | Naturnahe Fischzuchtgewässer (extensive Nutzung) | 11 |
+| 24.07.05 | Zier- und Löschteich | 5 |
+| 24.07.06 | Klär- bzw. Schönungsteich | 4 |
+| 24.07.07 | Industrielles Absetzbecken, Spülfeld und Flüssigdeponie | 3 |
+| 24.07.08 | Offene Wasserrückhaltebecken | 5 |
+| 24.07.10 | Speicherseen mit hohen Wasserstandsschwankungen | 6 |
+| 24.07.11 | Wasseraufbereitungsanlage (offener Sickerteich) | 5 |
+| 24.07.12 | Abbaugewässer (Teilabschnitte können getrennt betrachtet werden) |  |
+| 24.07.12a | Abbaugewässer, im Abbau befindlich | 4 |
+| 24.07.12b | Abbaugewässer nach Beendigung des Abbaus mit extremem Chemismus (z. B. mit sehr niedrigem pH-Wert) | 3 |
+| 24.07.12c | Junge Abbaugewässer nach Beendigung des Abbaus mit Flachwasserzonen oder Tümpeln mit naturnaher Entwicklung, vgl. 24.01b, 24.02b, 24.03c, 24.04c | 10 |
+| 24.07.13a | Sonstige stehende Gewässer (naturfern) | 5 |
+| 24.08 | Zeitweilig trockenfallende Lebensräume unterhalb des Mittelwasserbereichs an stehenden Gewässern |  |
+| 24.08a.01 | – Natürliche oder naturnahe Ausprägung | 18 |
+| 24.08a.02 | – Bedingt naturnahe Ausprägung | 13 |
+| 24.09a | Natürliche und naturnahe temporäre stehende Gewässer (ohne Salztümpel) | 19 |
+| 31. | HÖHLEN (einschl. Stollen, Brunnenschächte, Bunkerruinen etc.) |  |
+| 31.01a | Natürliche Höhlen, Höhlengewässer und Balmen (Halbhöhlen) sowie Eingangsbereiche von Höhlen | 20 |
+| 31.02 | Stollen, Schächte und Bunkerruinen |  |
+| 31.02.01 | Sich selbst überlassene Stollen, Schächte und Bunkerruinen | 12 |
+| 31.02.02 | In Betrieb befindliche Stollen bzw. Schächte (inkl. Besucherbergwerke) | 6 |
+| 32. | FELSEN, BLOCK- UND SCHUTTHALDEN, GERÖLLFELDER, OFFENE BEREICHE MIT SANDIGEM ODER BINDIGEM SUBSTRAT |  |
+| 32.01 | Natürliche und naturnah entwickelte Felsen |  |
+| 32.01a | Natürliche Felsen | 20 |
+| 32.01b | Naturnah entwickelte Felsen in alten, stillgelegten Steinbrüchen | 16 |
+| 32.01c | Naturnah entwickelte Felsen an Verkehrsanlagen | 12 |
+| 32.02 | Solitärer Felsblock, Findling | 16 |
+| 32.03a | Natürliche und naturnah entwickelte Block- und Schutthalden |  |
+| 32.03a.01 | Natürliche Block- und Schutthalden | 20 |
+| 32.03a.02 | Naturnah entwickelte Block- und Schutthalden (insbes. in alten, stillgelegten Abbaugebieten) | 15 |
+| 32.06 | Wände aus Sand und Lockergestein | 18 |
+| 32.07 | Lehm- und Lösswände | 18 |
+| 32.08 | Vegetationslose bzw. -arme Kies- und Schotterfläche | 18 |
+| 32.09 | Vegetationslose bzw. -arme Sandfläche | 18 |
+| 32.10 | Vegetationslose bzw. -arme Fläche mit bindigem Substrat | 18 |
+| 32.11 | Abbaubereiche und Abraumhalden sowie sonstige Bauflächen |  |
+| 32.11.01a | Block- und Schutthalden sowie Halden aus sandig-kiesigem oder bindigem Substrat (Teilabschnitte können getrennt betrachtet werden) |  |
+| 32.11.01a.01 | Junge Halden nach Beendigung der Aufschüttung mit naturnaher Entwicklung, vgl. 32.03a.02 | 10 |
+| 32.11.01a.02 | Junge Halden unmittelbar nach Beendigung des Abbaus oder neue, in Aufschüttung befindliche Halden | 3 |
+| 32.11.04 | Felswände oder felsige Abbausohlen in Steinbrüchen (Teilabschnitte können getrennt betrachtet werden) |  |
+| 32.11.04a | Junge Felswände oder junge felsige Abbausohlen in Steinbrüchen nach Beendigung des Abbaus mit naturnaher Entwicklung, vgl. 32.01b | 12 |
+| 32.11.04b | Felswände und felsige Abbausohlen unmittelbar nach Beendigung des Abbaus oder neue, im Abbau befindliche Felswände und felsige Abbausohlen | 4 |
+| 32.11.06a | Ebenerdige Abbauflächen aus Blöcken, Schutt, Sand, Kies oder bindigem Substrat im Abbau (Teilabschnitte können getrennt betrachtet werden) |  |
+| 32.11.06a.01 | Junge ebenerdige Abbauflächen nach Beendigung des Abbaus mit naturnaher Entwicklung, vgl. 32.08 bis 32.10 | 10 |
+| 32.11.06a.02 | Ebenerdige Abbauflächen unmittelbar nach Beendigung des Abbaus oder neue, im Abbau befindliche ebenerdige Abbauflächen | 3 |
+| 32.11.08a | Steilwände aus Sand und Lockergestein in Abbaubereichen (Teilabschnitte können getrennt betrachtet werden) |  |
+| 32.11.08a.01 | Junge Steilwände aus Sand und Lockergestein nach Beendigung des Abbaus bei vorgesehener naturnaher Entwicklung, vgl. 32.06 | 12 |
+| 32.11.08a.02 | Steilwände aus Sand und Lockergestein unmittelbar nach Beendigung des Abbaus oder neue, im Abbau befindliche Steilwände aus Lockergestein | 4 |
+| 32.11.09a | Bauflächen und Baustelleneinrichtungsflächen | 3 |
+| 33. | ÄCKER UND ACKERBRACHE |  |
+| 33.01 | Flachgründige, skelettreiche Kalkäcker und Kalkackerbrache |  |
+| 33.01.02 | – Acker mit artenreicher Segetalvegetaion (Kalkboden) | 17 |
+| 33.01.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Kalkboden) | 6 |
+| 33.01.04 | – Ackerbrache (Kalkboden) | 11 |
+| 33.02 | Äcker und Ackerbrache auf flachgründigem, skelettreichem Silikatverwitterungsboden |  |
+| 33.02.02 | – Acker mit artenreicher Segetalvegetaion (Silikatverwitterungsboden) | 16 |
+| 33.02.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Silikatverwitterungsboden) | 6 |
+| 33.02.04 | – Ackerbrache (Silikatverwitterungsboden) | 11 |
+| 33.03 | Äcker und Ackerbrache auf Sandboden |  |
+| 33.03.02 | – Acker mit artenreicher Segetalvegetaion (Sandboden) | 16 |
+| 33.03.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Sandboden) | 6 |
+| 33.03.04 | – Ackerbrache (Sandboden) | 11 |
+| 33.04a | Äcker und Ackerbrache auf Lehm- oder Tonboden |  |
+| 33.04a.02 | – Acker mit artenreicher Segetalvegetaion (Lehm- oder Tonboden) | 16 |
+| 33.04a.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Lehm- oder Tonboden) | 6 |
+| 33.04a.04 | – Ackerbrache (Lehm- oder Tonboden) | 8 |
+| 33.04b | Äcker und Ackerbrache auf Lössboden |  |
+| 33.04b.02 | – Acker mit artenreicher Segetalvegetaion (Lössboden) | 17 |
+| 33.04b.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Lössboden) | 7 |
+| 33.04b.04 | – Ackerbrache (Lössboden) | 9 |
+| 33.05 | Äcker und Ackerbrache auf Torf- oder Anmoorboden |  |
+| 33.05.02 | – Acker mit artenreicher Segetalvegetation (Torf- oder Anmoorboden) | 8 |
+| 33.05.03 | – Acker mit stark verarmter oder fehlender Segetalvegetation (Torf- oder Anmoorboden) | 5 |
+| 33.05.04 | – Ackerbrache (Torf- oder Anmoorboden) | 8 |
+| 34. | TROCKENRASEN SOWIE GRÜNLAND TROCKENER BIS FRISCHER STANDORTE |  |
+| 34.01 | Trockenrasen auf karbonatischem oder silikatischem Untergrund | 21 |
+| 34.02 | Halbtrockenrasen auf karbonatischem oder sonstigem basenreichen Untergrund inkl. Wacholderheiden |  |
+| 34.02a | Halbtrockenrasen, beweidet oder gemäht | 21 |
+| 34.02b | Halbtrockenrasen, brachgefallen bzw. ungenutzt | 17 |
+| 34.03 | Steppenrasen (subkontinental, auf tiefgründigem Boden) |  |
+| 34.03.01a | Steppenrasen, beweidet oder gemäht | 22 |
+| 34.03.03 | Steppenrasen, brachgefallen bzw. ungenutzt | 19 |
+| 34.04 | Sandtrockenrasen und Silbergrasfluren |  |
+| 34.04.01a | Annuelle Sandtrockenrasen und Silbergrasfluren | 20 |
+| 34.04.03 | Ausdauernde Sandtrockenrasen mit weitgehend geschlossener Narbe |  |
+| 34.04.03.01a | – Beweidet oder gemäht | 21 |
+| 34.04.03.03 | – Ungenutzt | 16 |
+| 34.05 | Schwermetallrasen |  |
+| 34.05.01 | Natürlicher und halbnatürlicher Schwermetallrasen | 21 |
+| 34.05.02 | Schwermetallrasen junger Abraumhalden des Bergbaus | 15 |
+| 34.06 | Borstgrasrasen |  |
+| 34.06.01a | Borstgrasrasen trockener bis frischer Standorte, beweidet oder gemäht | 21 |
+| 34.06.01b | Borstgrasrasen trockener bis frischer Standorte, brachgefallen | 18 |
+| 34.06.02a | Borstgrasrasen feuchter Standorte, beweidet oder gemäht | 22 |
+| 34.06.02b | Borstgrasrasen feuchter Standorte, brachgefallen | 19 |
+| 34.07a | Artenreiches Grünland frischer Standorte |  |
+| 34.07a.01 | Artenreiche, frische Mähwiese | 20 |
+| 34.07a.02 | Artenreiche, frische (Mäh-)Weide | 18 |
+| 34.07a.03 | Artenreiche, frische Grünlandbrache | 16 |
+| 34.07b | Mäßig artenreiches Grünland frischer Standorte |  |
+| 34.07b.01 | Mäßig artenreiche, frische Mähwiese | 15 |
+| 34.07b.02 | Mäßig artenreiche, frische (Mäh-)Weide | 13 |
+| 34.07b.03 | Mäßig artenreiche, frische Grünlandbrache | 11 |
+| 34.08 | Artenarmes Grünland frischer Standorte |  |
+| 34.08a.01 | Intensiv genutztes, frisches Dauergrünland | 8 |
+| 34.08a.02 | Extensiv genutztes, frisches Dauergrünland | 11 |
+| 34.08.02 | Frisches Ansaatgrünland | 7 |
+| 34.08.03 | Artenarme, frische Grünlandbrache | 9 |
+| 34.09 | Tritt- und Parkrasen (vgl. Siedlungsbiotope 51 bis 53) | 8 |
+| 35. | WALDFREIE NIEDERMOORE UND SÜMPFE, GRÜNLAND NASSER BIS FEUCHTER STANDORTE (ohne Röhrichte und Großseggenriede) |  |
+| 35.01 | waldfreie, oligo- bis mesotrophe kalkarme oder kalkreiche Niedermoore und Sümpfe |  |
+| 35.01a | – Weitgehend intakt | 24 |
+| 35.01b | – Degeneriert (teilentwässert) | 16 |
+| 35.02 | Grünland nasser bis (wechsel-)feuchter Standorte |  |
+| 35.02.01 | Pfeifengraswiesen (auf mineralischen und organischen Böden) |  |
+| 35.02.01a | – Bewirtschaftet | 23 |
+| 35.02.01.03 | – Brachgefallen | 20 |
+| 35.02.02 | Brenndolden-Auenwiesen |  |
+| 35.02.02a | – Bewirtschaftet | 23 |
+| 35.02.02.03 | – Brachgefallen | 21 |
+| 35.02.03a | Sonstiges extensives Feucht- und Nassgrünland |  |
+| 35.02.03a.01 | – Bewirtschaftet | 20 |
+| 35.02.03a.02 | – Brachgefallen | 16 |
+| 35.02.05 | Flutrasen |  |
+| 35.02.05.01 | – Extensiv bewirtschaftet | 18 |
+| 35.02.05.01a | – Brachgefallen | 16 |
+| 35.02.05.02 | – Intensiv bewirtschaftet | 12 |
+| 35.02.06 | Artenarmes, intensiv genutztes Feuchtgrünland |  |
+| 35.02.06.01 | Feuchtes, intensiv genutztes Dauergrünland | 10 |
+| 35.02.06.02 | Feuchtes Ansaatgrünland | 10 |
+| 35.02.06.03 | Brachgefallenes, artenarmes Feuchtgrünland | 12 |
+| 35.03 | Salzgrünland des Binnenlandes | 22 |
+| 36. | HOCH-, ZWISCHEN- UND ÜBERGANGSMOORE |  |
+| 36.01 | Hochmoore (weitgehend intakt) | 24 |
+| 36.02 | Übergangsmoore und Zwischenmoore (weitgehend intakt) | 23 |
+| 36.03 | Moordegenerationsstadien |  |
+| 36.03a | – Geschädigt, noch regenerierbar | 17 |
+| 36.03b | – Geschädigt, nicht regenerierbar | 12 |
+| 36.04 | Torfabbaubereiche |  |
+| 36.04.01 | Handtorfstich im Abbau | 9 |
+| 36.04.02 | Abtorfungsflächen im Fräsverfahren | 3 |
+| 36.04.03 | Bunkerde-Halde | 6 |
+| 36.04.04 | Torfhalden | 5 |
+| 37. | GROßSEGGENRIEDE |  |
+| 37.01 | Nährstoffarmes Großseggenried | 20 |
+| 37.02 | Nährstoffreiches Großseggenried | 16 |
+| 38. | RÖHRICHTE (ohne Brackwasserröhrichte) |  |
+| 38.01 | Teichsimsenröhricht | 19 |
+| 38.02 | Schilfröhrichte |  |
+| 38.02.01 | Schilf-Wasserröhricht | 19 |
+| 38.02.02 | Schilf-Landröhricht | 15 |
+| 38.03 | Rohrkolbenröhricht | 16 |
+| 38.04 | Schneidenröhricht | 20 |
+| 38.05 | Wasserschwadenröhricht | 13 |
+| 38.06 | Rohrglanzgrasröhricht | 13 |
+| 38.07 | Sonstiges Röhricht | 16 |
+| 39. | WALD- UND UFERSÄUME, STAUDENFLUREN |  |
+| 39.01 | Wald- und Gehölzsäume |  |
+| 39.01.01 | Wald- und Gehölzsäume oligo- bis eutropher, trockener bis nasser Standorte | 16 |
+| 39.01.02 | Wald- und Gehölzsäume hypertropher, trockener bis nasser Standorte | 10 |
+| 39.02 | Kahlschläge und Fluren der Lichtungen (mit überwiegend krautiger Vegetation) | 10 |
+| 39.03 | Krautige und grasige Säume und Fluren der offenen Landschaft (ohne Ufersäume und Grünlandbrachen) |  |
+| 39.03.01a | – Trocken-warmer Standorte mit wertgebenden Merkmalen z. B. struktur- oder artenreich | 17 |
+| 39.03.01b | – Frischer bis nasser Standorte mit wertgebenden Merkmalen z. B. struktur- oder artenreich | 16 |
+| 39.03.02 | Sonstige krautige und grasige Säume und Fluren der offenen Landschaft | 8 |
+| 39.04 | Krautige Ufersäume oder -fluren an Gewässern |  |
+| 39.04a.01 | – Naturnahe Ausprägung | 17 |
+| 39.04a.02 | – Naturferne Ausprägung | 8 |
+| 39.05 | Neophyten-Staudenfluren | 7 |
+| 39.06 | Ruderalstandorte |  |
+| 39.06.01 | Trocken-warme Ruderalstandorte auf Sand-, Kies- und Schotterböden | 16 |
+| 39.06.02 | Trocken-warme Ruderalstandorte auf bindigem Boden | 14 |
+| 39.06.03 | Frische bis nasse Ruderalstandorte | 12 |
+| 39.07 | Artenarme Dominanzbestände von Poly-Kormonbildnern (z. B. von Adlerfarn oder Landreitgras) | 10 |
+| 40. | ZWERGSTRAUCHHEIDEN |  |
+| 40.01 | Felsbandheide | 19 |
+| 40.02 | Moor- oder Sumpfheiden |  |
+| 40.02.01 | – Weitgehend intakt | 22 |
+| 40.02.02a | – Degeneriert | 16 |
+| 40.03 | Heiden auf sandigen oder Silikat-Böden (Calluna-Heiden) |  |
+| 40.03.01 | – Weitgehend intakt | 19 |
+| 40.03.02a | – Degeneriert | 13 |
+| 40.04 | Lehmheide | 20 |
+| 40.05 | Bergheiden („Hochheiden“) | 18 |
+| 41. | FELDGEHÖLZE, GEBÜSCHE, HECKEN UND GEHÖLZKULTUREN |  |
+| 41.01 | Gebüsche mit überwiegend autochthonen Arten |  |
+| 41.01.01 | Gebüsch nasser bis feuchter mineralischer Standorte außerhalb von Auen | 16 |
+| 41.01.02 | (Weiden-)Gebüsch in Auen | 16 |
+| 41.01.03 | Gebüsche nasser bis feuchter organischer Standorte |  |
+| 41.01.03.01 | Moor-Gebüsch (z. B. mit Weiden, Gagel) | 16 |
+| 41.01.03.02 | Zwergbirken-Gebüsch | 18 |
+| 41.01.04 | Gebüsche frischer Standorte |  |
+| 41.01.04.01 | Wacholder- und Besenginster-Gebüsch | 16 |
+| 41.01.04.02 | Sonstiges Gebüsch frischer Standorte | 13 |
+| 41.01.05 | Gebüsch trocken-warmer Standorte |  |
+| 41.01.05.01 | Buxus-Gebüsch | 20 |
+| 41.01.05.02 | Wacholder-Gebüsch | 19 |
+| 41.01.05.03 | Trockenes Zwerg- und Weichselkirschen-Gebüsch | 18 |
+| 41.01.05.04a | Sonstiges Gebüsch trocken-warmer Standorte (inkl. Besenginster-Gebüsch) | 16 |
+| 41.01.06 | Gebüsch stickstoffreicher, ruderaler Standorte und stark verbuschte Grünlandbrache (Verbuschung > 50 %) | 12 |
+| 41.02 | Feldgehölze mit überwiegend autochthonen Arten |  |
+| 41.02.01 | Feldgehölz nasser bis feuchter Standorte |  |
+| 41.02.01J | – Junge Ausprägung | 13 |
+| 41.02.01M | – Mittlere Ausprägung | 15 |
+| 41.02.01A | – Alte Ausprägung | 18 |
+| 41.02.02 | Feldgehölz frischer Standorte |  |
+| 41.02.02J | – Junge Ausprägung | 13 |
+| 41.02.02M | – Mittlere Ausprägung | 14 |
+| 41.02.02A | – Alte Ausprägung | 17 |
+| 41.02.03 | Feldgehölz trocken-warmer Standorte |  |
+| 41.02.03J | – Junge Ausprägung | 14 |
+| 41.02.03M | – Mittlere Ausprägung | 15 |
+| 41.02.03A | – Alte Ausprägung | 18 |
+| 41.03 | Hecken mit überwiegend autochthonen Arten |  |
+| 41.03.01 | Wallhecke, Knick |  |
+| 41.03.01J | – Junge Ausprägung (ohne Überhälter) | 12 |
+| 41.03.01M | – Mit Überhältern mittlerer Ausprägung | 16 |
+| 41.03.01A | – Mit Überhältern alter Ausprägung | 19 |
+| 41.03.02 | Hecke auf Lesesteinriegel |  |
+| 41.03.02J | – Junge Ausprägung (ohne Überhälter) | 12 |
+| 41.03.02M | – Mit Überhältern mittlerer Ausprägung | 16 |
+| 41.03.02A | – Mit Überhältern alter Ausprägung | 19 |
+| 41.03.03 | Sonstige Hecken (insbesondere auf ebenerdigen Rainen oder Böschungen) |  |
+| 41.03.03J | – Junge Ausprägung (ohne Überhälter) sowie Schnitthecken | 12 |
+| 41.03.03M | – Mit Überhältern mittlerer Ausprägung | 16 |
+| 41.03.03A | – Mit Überhältern alter Ausprägung | 19 |
+| 41.04 | Gehölzanpflanzungen und Hecken aus überwiegend nicht autochthonen Arten |  |
+| 41.04J | – Junge Ausprägung/– Ohne Überhälter sowie Schnitthecken | 8 |
+| 41.04M | – Mittlere Ausprägung/– Mit Überhältern mittlerer Ausprägung | 11 |
+| 41.04A | – Alte Ausprägung/– Mit Überhältern alter Ausprägung | 14 |
+| 41.05 | Einzelbäume, Baumreihen und Baumgruppen |  |
+| 41.05a | Einzelbäume, Baumreihen und Baumgruppen aus überwiegend autochtonen Arten |  |
+| 41.05aJ | – Junge Ausprägung | 11 |
+| 41.05aM | – Mittlere Ausprägung | 15 |
+| 41.05aA | – Alte Ausprägung | 18 |
+| 41.05b | Einzelbäume, Baumreihen und Baumgruppen aus überwiegend nicht autochthonen Arten (mit Ausnahme von Kopfbäumen, Alleen, Obst- und Nussbäumen) |  |
+| 41.05bJ | – Junge Ausprägung/– Ohne Überhälter sowie Schnitthecken | 8 |
+| 41.05bM | – Mittlere Ausprägung/– Mit Überhältern mittlerer Ausprägung | 11 |
+| 41.05bA | – Alte Ausprägung/– Mit Überhältern alter Ausprägung | 14 |
+| 41.05.02 | Kopfbaum/Kopfbaumreihe |  |
+| 41.05.02J | – Junge Ausprägung | 12 |
+| 41.05.02M | – Mittlere Ausprägung | 15 |
+| 41.05.02A | – Alte Ausprägung | 18 |
+| 41.05.04 | Allee |  |
+| 41.05.04J | – Junge Ausprägung | 11 |
+| 41.05.04M | – Mittlere Ausprägung | 16 |
+| 41.05.04A | – Alte Ausprägung | 19 |
+| 41.05.05 | Obstbaumallee, -reihe oder einzelner Obst- bzw. Nussbaum |  |
+| 41.05.05J | – Junge Ausprägung | 11 |
+| 41.05.05M | – Mittlere Ausprägung | 19 |
+| 41.05.05A | – Alte Ausprägung | 21 |
+| 41.06 | Streuobstbestand [Komplex] |  |
+| 41.06.01 | Streuobstbestand auf Grünland |  |
+| 41.06.01.J | – Mit jungem Baumbestand | 12 |
+| 41.06.01.MA | – Mit mittlerem bis altem Baumbestand | 19 |
+| 41.06.02 | Streuobstbestand auf Acker |  |
+| 41.06.02J | – Mit jungem Baumbestand | 12 |
+| 41.06.02MA | – Mit mittlerem bis altem Baumbestand | 18 |
+| 41.07 | Gehölzplantagen und Hopfenkulturen | 6 |
+| 41.08 | Rebkulturen und Rebbrachen |  |
+| 41.08.01 | Rebkulturen in Steillage | 17 |
+| 41.08.02 | Rebkulturen in ebener bis schwach geneigter Lage | 9 |
+| 41.08.03 | Rebbrachen in Steillage | 14 |
+| 41.08.04 | Rebbrachen in ebener bis schwach geneigter Lage | 10 |
+| 42. | WALDMÄNTEL UND VORWÄLDER, SPEZIELLE WALDNUTZUNGSFORMEN |  |
+| 42.01 | Waldmäntel | 17 |
+| 42.02 | Rubus-Gestrüppe und -Vormäntel | 12 |
+| 42.03 | Vorwälder |  |
+| 42.03.01 | Vorwald nasser bis feuchter Standorte | 14 |
+| 42.03.02 | Vorwald frischer Standorte | 13 |
+| 42.03.03 | Vorwald trocken-warmer Standorte | 13 |
+| 42.04 | Hudewald [Komplex] |  |
+| 42.04.01 | – Hudewald mit traditioneller Weidenutzung | 22 |
+| 42.04.02 | – Hudewald, aufgelassen | 20 |
+| 42.05 | Niederwald [Komplex] |  |
+| 42.05.01 | – Mit traditioneller Nutzung | 19 |
+| 42.05.02 | – Aufgelassen bzw. durchwachsend | 18 |
+| 42.06a | Kurzumtriebsplantagen mit heimischen oder nicht heimischen Baumarten | 6 |
+| 42.07 | Mittelwald [Komplex] |  |
+| 42.07.01 | – Mit traditioneller Nutzung | 21 |
+| 42.07.02 | – Aufgelassen bzw. durchwachsend | 17 |
+| 43. | LAUB(MISCH)WÄLDER UND -FORSTE (Laubbaumanteil > 50 %) |  |
+| 43.01 | Birken-Moorwälder |  |
+| 43.01.01 | Birken-Moorwälder mit intaktem Wasserhaushalt |  |
+| 43.01.01J | – Junge Ausprägung | 14 |
+| 43.01.01M | – Mittlere Ausprägung | 20 |
+| 43.01.01A | – Alte Ausprägung | 24 |
+| 43.01.02 | Degradierter Birken-Moorwald |  |
+| 43.01.02J | – Junge Ausprägung | 11 |
+| 43.01.02M | – Mittlere Ausprägung | 14 |
+| 43.01.02A | – Alte Ausprägung | 17 |
+| 43.02 | Bruchwälder |  |
+| 43.02.01.01 | Birken- und Birken-Erlenbruchwälder nährstoffärmerer Standorte mit intaktem Wasserhaushalt |  |
+| 43.02.01.01J | – Junge Ausprägung | 14 |
+| 43.02.01.01M | – Mittlere Ausprägung | 20 |
+| 43.02.01.01A | – Alte Ausprägung | 24 |
+| 43.02.01.02 | Degradierter Birken- und Birken-Erlenbruchwälder nährstoffärmerer Standorte |  |
+| 43.02.01.02J | – Junge Ausprägung | 11 |
+| 43.02.01.02M | – Mittlere Ausprägung | 15 |
+| 43.02.01.02A | – Alte Ausprägung | 18 |
+| 43.02.02.01 | Erlenbruchwälder nährstoffreicherer Standorte mit intaktem Wasserhaushalt |  |
+| 43.02.02.01J | – Junge Ausprägung | 14 |
+| 43.02.02.01M | – Mittlere Ausprägung | 20 |
+| 43.02.02.01A | – Alte Ausprägung | 23 |
+| 43.02.02.02 | Degradierter Erlenbruchwald |  |
+| 43.02.02.02J | – Junge Ausprägung | 11 |
+| 43.02.02.02M | – Mittlere Ausprägung | 14 |
+| 43.02.02.02A | – Alte Ausprägung | 17 |
+| 43.03 | Sumpfwälder (auf mineralogenen Böden) |  |
+| 43.03.01 | Intakter Sumpfwald |  |
+| 43.03.01J | – Junge Ausprägung | 15 |
+| 43.03.01M | – Mittlere Ausprägung | 18 |
+| 43.03.01A | – Alte Ausprägung | 21 |
+| 43.03.02 | Degradierter Sumpfwald |  |
+| 43.03.02J | – Junge Ausprägung | 11 |
+| 43.03.02M | – Mittlere Ausprägung | 13 |
+| 43.03.02A | – Alte Ausprägung | 15 |
+| 43.04 | Auenwälder |  |
+| 43.04.01 | Fließgewässerbegleitende Erlen- und Eschenwälder |  |
+| 43.04.01J | – Junge Ausprägung | 14 |
+| 43.04.01M | – Mittlere Ausprägung | 17 |
+| 43.04.01A | – Alte Ausprägung | 20 |
+| 43.04.02.01 | Weichholzauenwälder mit natürlicher oder naturnaher Überflutungsdynamik |  |
+| 43.04.02.01J | – Junge Ausprägung | 14 |
+| 43.04.02.01M | – Mittlere Ausprägung | 20 |
+| 43.04.02.01A | – Alte Ausprägung | 23 |
+| 43.04.02.02 | Weichholzauenwälder ohne oder mit gestörter Überflutungsdynamik |  |
+| 43.04.02.02J | – Junge Ausprägung | 11 |
+| 43.04.02.02M | – Mittlere Ausprägung | 14 |
+| 43.04.02.02A | – Alte Ausprägung | 17 |
+| 43.04.03.01 | Hartholzauenwälder mit natürlicher oder naturnaher Überflutungsdynamik |  |
+| 43.04.03.01J | – Junge Ausprägung | 14 |
+| 43.04.03.01M | – Mittlere Ausprägung | 20 |
+| 43.04.03.01A | – Alte Ausprägung | 22 |
+| 43.04.03.02 | Hartholzauenwälder ohne oder mit gestörter Überflutungsdynamik |  |
+| 43.04.03.02J | – Junge Ausprägung | 11 |
+| 43.04.03.02M | – Mittlere Ausprägung | 15 |
+| 43.04.03.02A | – Alte Ausprägung | 18 |
+| 43.05 | Tideauenwälder |  |
+| 43.05.01 | Weichholz-Tideauenwälder |  |
+| 43.05.01J | – Junge Ausprägung | 14 |
+| 43.05.01M | – Mittlere Ausprägung | 21 |
+| 43.05.01A | – Alte Ausprägung | 24 |
+| 43.05.02 | Hartholz-Tideauenwälder |  |
+| 43.05.02J | – Junge Ausprägung | 14 |
+| 43.05.02M | – Mittlere Ausprägung | 19 |
+| 43.05.02A | – Alte Ausprägung | 22 |
+| 43.06 | Schlucht-, Blockhalden- und Hangschuttwälder |  |
+| 43.06J | – Junge Ausprägung | 15 |
+| 43.06M | – Mittlere Ausprägung | 17 |
+| 43.06A | – Alte Ausprägung | 20 |
+| 43.07 | Laub- und Mischwälder feuchter bis frischer Standorte |  |
+| 43.07.01 | Eschen- und Eschen-Bergahornwald feuchter Standorte |  |
+| 43.07.01J | – Junge Ausprägung | 15 |
+| 43.07.01M | – Mittlere Ausprägung | 18 |
+| 43.07.01A | – Alte Ausprägung | 21 |
+| 43.07.02 | Eichen-Hainbuchenwald staunasser bis frischer Standorte |  |
+| 43.07.02J | – Junge Ausprägung | 15 |
+| 43.07.02M | – Mittlere Ausprägung | 20 |
+| 43.07.02A | – Alte Ausprägung | 23 |
+| 43.07.03 | Eichenwald feuchter bis frischer Standorte |  |
+| 43.07.03J | – Junge Ausprägung | 15 |
+| 43.07.03M | – Mittlere Ausprägung | 20 |
+| 43.07.03A | – Alte Ausprägung | 23 |
+| 43.07.04 | Buchen(misch)wälder frischer, basenarmer Standorte |  |
+| 43.07.04J | – Junge Ausprägung | 14 |
+| 43.07.04M | – Mittlere Ausprägung | 17 |
+| 43.07.04A | – Alte Ausprägung | 20 |
+| 43.07.05 | Buchen(misch)wälder frischer, basenreicher Standorte |  |
+| 43.07.05J | – Junge Ausprägung | 14 |
+| 43.07.05M | – Mittlere Ausprägung | 16 |
+| 43.07.05A | – Alte Ausprägung | 18 |
+| 43.07.06 | Montane Buchen-Tannen-/Fichtenwälder (Buchenanteil > 50 %) |  |
+| 43.07.06J | – Junge Ausprägung | 15 |
+| 43.07.06M | – Mittlere Ausprägung | 18 |
+| 43.07.06A | – Alte Ausprägung | 21 |
+| 43.08 | Laub(misch)wälder trockener bzw. trocken-warmer Standorte |  |
+| 43.08.01 | Trockene Eichen-Hainbuchenwälder |  |
+| 43.08.01J | – Junge Ausprägung | 15 |
+| 43.08.01M | – Mittlere Ausprägung | 20 |
+| 43.08.01A | – Alte Ausprägung | 23 |
+| 43.08.02 | Seggen-Buchenwald (Orchideen-Buchenwald) |  |
+| 43.08.02J | – Junge Ausprägung | 15 |
+| 43.08.02M | – Mittlere Ausprägung | 18 |
+| 43.08.02A | – Alte Ausprägung | 21 |
+| 43.08.03 | Blaugras-Buchenwald |  |
+| 43.08.03J | – Junge Ausprägung | 15 |
+| 43.08.03M | – Mittlere Ausprägung | 20 |
+| 43.08.03A | – Alte Ausprägung | 23 |
+| 43.08.04 | Buchenbuschwald (auf Ostseedünen) |  |
+| 43.08.04J | – Junge Ausprägung | 15 |
+| 43.08.04M | – Mittlere Ausprägung | 21 |
+| 43.08.04A | – Alte Ausprägung | 24 |
+| 43.08.05 | Eichen-Trockenwälder |  |
+| 43.08.05J | – Junge Ausprägung | 15 |
+| 43.08.05M | – Mittlere Ausprägung | 18 |
+| 43.08.05A | – Alte Ausprägung | 21 |
+| 43.09 | Laub(misch)holzforste einheimischer Baumarten |  |
+| 43.09J | – Junge Ausprägung | 11 |
+| 43.09M | – Mittlere Ausprägung | 13 |
+| 43.09A | – Alte Ausprägung | 16 |
+| 43.10 | Laub(misch)holzforste eingeführter Baumarten |  |
+| 43.10J | – Junge Ausprägung | 9 |
+| 43.10M | – Mittlere Ausprägung | 12 |
+| 43.10A | – Alte Ausprägung | 14 |
+| 44. | NADEL(MISCH)WÄLDER UND -FORSTE |  |
+| 44.01 | Moorwälder (Nadelwälder) |  |
+| 44.01.01 | Fichten-Moorwälder |  |
+| 44.01.01J | – Junge Ausprägung | 14 |
+| 44.01.01M | – Mittlere Ausprägung | 20 |
+| 44.01.01A | – Alte Ausprägung | 23 |
+| 44.01.02 | Waldkiefern-Moorwälder |  |
+| 44.01.02J | – Junge Ausprägung | 14 |
+| 44.01.02M | – Mittlere Ausprägung | 20 |
+| 44.01.02A | – Alte Ausprägung | 23 |
+| 44.01.03 | Spirken-Moorwälder |  |
+| 44.01.03J | – Junge Ausprägung | 14 |
+| 44.01.03M | – Mittlere Ausprägung | 18 |
+| 44.01.03A | – Alte Ausprägung | 21 |
+| 44.01.04 | Latschen-Moorwälder |  |
+| 44.01.04J | – Junge Ausprägung | 14 |
+| 44.01.04M | – Mittlere Ausprägung | 18 |
+| 44.01.04A | – Alte Ausprägung | 21 |
+| 44.02 | Natürliche bzw. naturnahe, trockene bis wechselfeuchte Kiefernwälder |  |
+| 44.02.01 | Trockene Fels-Kiefernwälder |  |
+| 44.02.01J | – Junge Ausprägung | 14 |
+| 44.02.01M | – Mittlere Ausprägung | 17 |
+| 44.02.01A | – Alte Ausprägung | 21 |
+| 44.02.02 | Kalk-Kiefernwald auf Schotterflächen und Schwemmkegeln |  |
+| 44.02.02J | – Junge Ausprägung | 14 |
+| 44.02.02M | – Mittlere Ausprägung | 17 |
+| 44.02.02A | – Alte Ausprägung | 21 |
+| 44.02.03 | Trockene Sandkiefernwälder |  |
+| 44.02.03J | – Junge Ausprägung | 14 |
+| 44.02.03M | – Mittlere Ausprägung | 19 |
+| 44.02.03A | – Alte Ausprägung | 22 |
+| 44.02.04 | Sonstiger (wechsel)feuchter Kiefern- bzw. Birken-/Kiefernwald (z. B. auf Mergel) |  |
+| 44.02.04J | – Junge Ausprägung | 14 |
+| 44.02.04M | – Mittlere Ausprägung | 17 |
+| 44.02.04A | – Alte Ausprägung | 20 |
+| 44.03 | Fichten-/Tannen(misch)wälder und Fichten(misch)wälder |  |
+| 44.03.01 | Montaner Fichten-Blockschuttwald |  |
+| 44.03.01J | – Junge Ausprägung | 15 |
+| 44.03.01M | – Mittlere Ausprägung | 18 |
+| 44.03.01A | – Alte Ausprägung | 21 |
+| 44.03.02 | Montane bis hochmontane Fichtenwälder |  |
+| 44.03.02J | – Junge Ausprägung | 15 |
+| 44.03.02J | – Mittlere Ausprägung | 18 |
+| 44.03.02A | – Alte Ausprägung | 21 |
+| 44.03.03 | Montane Tannen-Fichtenwälder |  |
+| 44.03.03J | – Junge Ausprägung | 15 |
+| 44.03.03M | – Mittlere Ausprägung | 18 |
+| 44.03.03A | – Alte Ausprägung | 21 |
+| 44.03.04 | Montane Tannen-/Fichten-Buchenwälder (Nadelbaumanteil > 50 %) |  |
+| 44.03.04J | – Junge Ausprägung | 15 |
+| 44.03.04M | – Mittlere Ausprägung | 18 |
+| 44.03.04A | – Alte Ausprägung | 21 |
+| 44.03.05 | Montane Tannenwälder |  |
+| 44.03.05J | – Junge Ausprägung | 15 |
+| 44.03.05M | – Mittlere Ausprägung | 18 |
+| 44.03.05A | – Alte Ausprägung | 21 |
+| 44.03.06 | Autochthone Fichten-Tannenwälder der planaren und collinen Stufe |  |
+| 44.03.06J | – Junge Ausprägung | 15 |
+| 44.03.06M | – Mittlere Ausprägung | 19 |
+| 44.03.06A | – Alte Ausprägung | 22 |
+| 44.04 | Nadel(misch)forste einheimischer Baumarten |  |
+| 44.04J | – Junge Ausprägung | 9 |
+| 44.04M | – Mittlere Ausprägung | 11 |
+| 44.04A | – Alte Ausprägung | 14 |
+| 44.05 | Nadel(misch)forste eingeführter Baumarten |  |
+| 44.05J | – Junge Ausprägung | 6 |
+| 44.05M | – Mittlere Ausprägung | 10 |
+| 44.05A | – Alte Ausprägung | 12 |
+|  | BIOTOPTYPEN DES BESIEDELTEN BEREICHS UND VERKEHRSANLAGEN |  |
+| 51. | FREIFLÄCHEN DES BESIEDELTEN BEREICHS |  |
+| 51.01 | Kleine vegetationsfreie Freiflächen | 5 |
+| 51.02 | Kleine unbefestigte Freiflächen mit Spontanvegetation | 11 |
+| 51.04a | Brachflächen z. B. ehemalige Baukomplexe, Industrie- und Verkehrsanlagen |  |
+| 51.04a.01 | – Mit wesentlichen Anteilen struktur-/artenreicher Ausprägung | 12 |
+| 51.04a.02 | – Ohne wesentliche Anteile struktur-/artenreicher Ausprägung | 7 |
+| 51.06a | Parkanlagen |  |
+| 51.06a.01 | Historische Garten- und Parkanlage | 19 |
+| 51.06a.02.01 | Extensiv gepflegte Parkanlage mit altem Baumbestand | 16 |
+| 51.06a.02.02 | Extensiv gepflegte Parkanlage ohne alten Baumbestand | 13 |
+| 51.06a.03 | Intensiv gepflegte Parkanlage mit altem Baumbestand | 13 |
+| 51.06a.04 | Intensiv gepflegte Parkanlage ohne alten Baumbestand | 10 |
+| 51.06a.05 | Parkwald | 14 |
+| 51.06a.06 | Botanischer Garten (differenzierte Objektbewertung) | 13 |
+| 51.07a | Sonstige Grünanlage |  |
+| 51.07a.01 | Sonstige Grünanlage mit altem Baumbestand | 13 |
+| 51.07a.02 | Sonstige Grünanlage ohne alten Baumbestand | 9 |
+| 51.08a | Kleingartenanlagen, Grabeland, Gärten und private Grünflächen |  |
+| 51.08a.01 | Kleingartenanlagen, Grabeland, Gärten und private Grünflächen, strukturreich | 11 |
+| 51.08a.02 | Kleingartenanlagen, Grabeland, Gärten und private Grünflächen, strukturarm | 7 |
+| 51.09a | Friedhöfe |  |
+| 51.09a.01 | Friedhof mit altem Baumbestand | 14 |
+| 51.09a.02 | Friedhof ohne alten Baumbestand | 9 |
+| 51.10a | Zoo/Tierpark/Tiergehege (differenzierte Objektbewertung) | 11 |
+| 51.11a | Sport-/Spiel-/Erholungsanlage mit geringem Versiegelungsgrad |  |
+| 51.11a.01 | Sportrasenplatz | 7 |
+| 51.11a.02 | Freibad | 7 |
+| 51.11a.03 | Golfplatz | 9 |
+| 51.11a.04 | Campingplatz | 7 |
+| 51.11a.05 | Sonstige Sport-, Spiel- und Freizeitanlage | 7 |
+| 52. | VERKEHRSANLAGEN UND PLÄTZE |  |
+| 52.01 | Straßen und Verkehrswege (einschließlich der Land- und Forstwirtschaft) |  |
+| 52.01.01a | Versiegelter oder sonstiger gepflasterter Verkehrs- und Betriebsweg (z. B. Straße, Start-, Landebahn) | 0 |
+| 52.01.03 | Teilbefestigter Verkehrsweg (z. B. Rasengitter, Spurplatten) | 2 |
+| 52.01.04a | Unbefestigte Straße/Feld- und Forstweg bzw. Verkehrsweg mit wassergebundener Decke | 3 |
+| 52.01.07a | Verkehrsweg mit Natursteinpflaster | 6 |
+| 52.01.08a | Funktionsgrün an Verkehrswegen |  |
+| 52.01.08a.01 | Bankette, Mittelstreifen | 3 |
+| 52.01.08a.02 | Funktionsgrün mit artenarmer Krautschicht oder mit Gehölzbestand junger Ausprägung | 7 |
+| 52.01.08n.03 | Funktionsgrün mit artenreicher Krautschicht oder mit Gehölzbestand mittlerer bis alter Ausprägung | 11 |
+| 52.02 | Rad- und Fußwege bzw. Pfade |  |
+| 52.02.01a | Versiegelter oder sonstiger gepflasterter Weg | 0 |
+| 52.02.03 | Teilbefestigter Weg (z. B. Rasengitter, Spurplatten) | 3 |
+| 52.02.04a | Geschotterter Weg oder Weg mit wassergebundener Decke | 4 |
+| 52.02.06 | Unbefestigter Weg | 10 |
+| 52.02.07 | Hohlweg [Komplex] | 18 |
+| 52.02.08a | Weg mit Natursteinpflaster | 7 |
+| 52.03 | Plätze, befestigte Freiflächen |  |
+| 52.03.01 | Versiegelter Platz oder sonstiger gepflasterter Platz | 0 |
+| 52.03.02 | Teilbefestigter Platz (z. B. Rasengitter) | 3 |
+| 52.03.03a | Platz mit geschottertem Belag oder wassergebundener Decke (z. B. Aschensportplatz) | 4 |
+| 52.03.05a | Platz mit Natursteinpflaster | 7 |
+| 52.04 | Übrige Verkehrsanlagen in Betrieb |  |
+| 52.04.01 | Gleiskörper | 1 |
+| 52.04.02 | Hafenanlage an Land, Kai | 1 |
+| 52.04.04a | Hafenbecken und Marinas | 6 |
+| 52.04.05a | Wasserbauliche Anlagen z. B. Schleusen, Wehre, Leitwerke | 2 |
+| 52.04.06a | Sonstige Verkehrsanlagen | 0 |
+| 53 | BAUWERKE MIT ZUGEORDNETER TYPISCHER FREIRAUMSTRUKTUR |  |
+| 53.01 | Gebäude |  |
+| 53.01.01a | Historischer Gebäudekomplex, z. B. Kirche, Kloster, Burg, Schloss | 13 |
+| 53.01.03 | Einzel- und Reihenhausbebauung inkl. typischen Freiräumen |  |
+| 53.01.03a | – Altes Villengebiet mit altem Baumbestand | 13 |
+| 53.01.03b | – Lockeres Einzelhausgebiet | 5 |
+| 53.01.03c | – Verdichtetes Einzel- und Reihenhausgebiet | 4 |
+| 53.01.05 | Hochhaus- und Großformbebauung inkl. typischen Freiräumen |  |
+| 53.01.05a | – Wohnnutzung in Hochhaus- und Großformbauten | 4 |
+| 53.01.05b | – Öffentliche oder gewerbliche Hochhaus- und Großformbauten | 4 |
+| 53.01.07a | Sonstige Einzelgebäude z. B. Scheunen, Stallungen, Speichergebäude |  |
+| 53.01.07a.01 | – Alt bzw. traditionelle Bauweise (genutzt) oder verfallen (ungenutzt) | 11 |
+| 53.01.07a.02 | – Moderne Bauweise | 2 |
+| 53.01.14a | Industrie- und Gewerbefläche inkl. typischen Freiräumen | 2 |
+| 53.01.15a | Kerngebiet inkl. typischen Freiräumen |  |
+| 53.01.15a.01 | – Historische Altstadt | 12 |
+| 53.01.15a.02 | – Moderne Innenstadt | 3 |
+| 53.01.16a | Block- und Zeilenbebauung inkl. typischen Freiräumen |  |
+| 53.01.16a.01 | – Historische Blockbebauung | 9 |
+| 53.01.16a.02 | – Sonstige Blockbebauung | 4 |
+| 53.01.16a.03 | – Zeilenbebauung | 5 |
+| 53.01.17a | Dorfgebiet |  |
+| 53.01.17a.01 | – Historisches Dorfgebiet z. B. Dorfkern, Dorfanger, Dorfplatz | 13 |
+| 53.01.17a.02 | – Sonstiges Dorfgebiet inkl. Neubaugebiete | 4 |
+| 53.01.18a | Einzelgebäude im Außenbereich |  |
+| 53.01.18a.01 | – Historische Einzelgebäude/-gehöfte | 10 |
+| 53.01.18a.02 | – Sonstige Einzelgebäude/-gehöfte | 2 |
+| 53.01.19a | Tierproduktionsanlage und Gewächshäuser | 0 |
+| 53.01.20a | Ver- und Entsorgungsanlage, z. B. Kläranlage, Wasserwerk, Staudamm | 2 |
+| 53.02 | Mauern und Steinriegel |  |
+| 53.02.01 | Ziegelsteinmauern |  |
+| 53.02.01.01 | – Alt bzw. traditionelle Bauweise | 10 |
+| 53.02.01.02 | – Moderne Bauweise | 4 |
+| 53.02.02 | Betonmauer | 0 |
+| 53.02.03a | Unverfugte Natursteinmauer bzw. Trockenmauer | 17 |
+| 53.02.04a | Verfugte Natursteinmauer (auch von Ruinen) | 9 |
+| 53.02.05a | Steinriegel | 17 |
+| 53.02.06a | Gabionen | 2 |
+| 54. | DEPONIEN UND RIESELFELDER |  |
+| 54.01 | Feststoffdeponien (z. B. Hausmüll, Bauschuttdeponie) |  |
+| 54.01a | – In Betrieb | 0 |
+| 54.01b | – Begrünte Bereiche | 2 |
+| 54.02 | Deponien flüssiger Stoffe (z. B. Schlammdeponie) | 0 |
+| 54.03 | Rieselfelder [Komplex] | 8 |
+| 54.04 | Kanalisation | 0 |
+|  | BIOTOPTYPEN MIT SCHWERPUNKT IN DEN ALPEN |  |
+| 60. | GEWÄSSER DER SUBALPINEN BIS ALPINEN STUFE |  |
+| 60.01 | Quellen der subalpinen bis alpinen Stufe |  |
+| 60.01.01 | Sicker- und Sumpfquelle der subalpinen bis alpinen Stufe (Helokrene) | 18 |
+| 60.01.02 | Grundquelle der subalpinen bis alpinen Stufe (Limnokrene) | 17 |
+| 60.01.03 | Sturzquelle der subalpinen bis alpinen Stufe (Rheokrene) | 19 |
+| 60.02 | Fließgewässer der subalpinen bis alpinen Stufe |  |
+| 60.02.01 | Gletscherbach | 22 |
+| 60.02.02 | Fließgewässeroberlauf (Rhitral) der subalpinen bis alpinen Stufe | 20 |
+| 60.03 | Stillgewässer der subalpinen bis alpinen Stufe |  |
+| 60.03.01 | See der subalpinen bis alpinen Stufe | 17 |
+| 60.03.02 | Weiher der subalpinen bis alpinen Stufe | 17 |
+| 60.03.03 | Tümpel der subalpinen bis alpinen Stufe | 17 |
+| 61. | FIRN, PERMANENTE SCHNEEFELDER UND GLETSCHER |  |
+| 61.01 | Firn und permanentes Schneefeld | 16 |
+| 61.02 | Gletscher | 21 |
+| 62. | FELSEN DER SUBALPINEN BIS NIVALEN STUFE |  |
+| 62.01 | Felswände der subalpinen bis nivalen Stufe | 14 |
+| 62.02 | Felsblöcke der subalpinen bis nivalen Stufe | 13 |
+| 63. | STEINSCHUTTHALDEN UND SCHOTTERFLÄCHEN DER SUBALPINEN BIS ALPINEN STUFE |  |
+| 63.01 | Schotterfläche an Gewässern der subalpinen bis alpinen Stufe | 16 |
+| 63.02 | Kalkschutthalde der subalpinen bis alpinen Stufe | 12 |
+| 63.03 | Mergelschutthalde der subalpinen bis alpinen Stufe | 12 |
+| 63.04 | Silikatschutthalde der subalpinen bis alpinen Stufe | 12 |
+| 64. | SCHNEEBÖDEN, SCHNEETÄLCHEN |  |
+| 64.01 | Kalkschneeboden | 17 |
+| 64.02 | Schwemmboden der subalpinen bis alpinen Stufe | 19 |
+| 64.03 | Silikatschneeboden | 18 |
+| 65. | MOORE DER SUBALPINEN BIS ALPINEN STUFE |  |
+| 65.01 | Hoch- und Übergangsmoor der subalpinen bis alpinen Stufe | 20 |
+| 65.02 | Flachmoor oder Sumpf der subalpinen bis alpinen Stufe | 20 |
+| 66. | GEBIRGSRASEN (SUBALPINE BIS ALPINE STUFE) |  |
+| 66.01 | Nacktriedrasen | 19 |
+| 66.02 | Polsterseggenrasen | 17 |
+| 66.03 | Borstgrasrasen der subalpinen bis alpinen Stufe | 18 |
+| 66.04 | Blaugrashalde bzw. -rasen | 15 |
+| 66.05 | Rostseggenrasen | 15 |
+| 66.06 | Alpenfettweide | 14 |
+| 66.07 | Goldhaferwiese der Kalkalpen | 21 |
+| 66.08 | Subalpiner Trittrasen | 13 |
+| 66.09 | Krummseggenrasen | 19 |
+| 67. | STAUDEN- UND LÄGERFLUREN DER HOCHMONTANEN BIS ALPINEN STUFE |  |
+| 67.01 | Hochstauden- und Hochgrasflur der hochmontanen bis alpinen Stufe | 16 |
+| 67.02 | Lägerfluren der subalpinen bis alpinen Stufe | 9 |
+| 68. | ZWERGSTRAUCHHEIDEN DER SUBALPINEN BIS ALPINEN STUFE |  |
+| 68.01 | Alpine „Windheide“ (z. B. mit Gamsheide) | 19 |
+| 68.02 | Krähenbeer-Rauschbeerheide und Zwergwacholdergebüsche | 21 |
+| 69. | GEBÜSCHE DER HOCHMONTANEN BIS SUBALPINEN STUFE |  |
+| 69.01 | Auenweidengebüsche der hochmontanen bis subalpinen Stufe | 20 |
+| 69.02 | Grünerlengebüsche | 15 |
+| 69.03 | Schluchtweidengebüsch | 16 |
+| 69.04 | Latschengebüsch | 15 |
+| 69.05 | Alpenrosengebüsch | 17 |
+| 69.06 | Fichten-Ebereschengebüsch | 14 |
+| 69.07 | Knieweidengebüsch | 16 |
+| 70. | SUBALPINE WÄLDER |  |
+| 70.01 | Subalpiner (hochmontaner) Bergahorn-Buchenwald |  |
+| 70.01J | – Junge Ausprägung | 16 |
+| 70.01M | – Mittlere Ausprägung | 19 |
+| 70.01A | – Alte Ausprägung | 22 |
+| 70.02 | Subalpiner Fichtenwald |  |
+| 70.02J | – Junge Ausprägung | 15 |
+| 70.02M | – Mittlere Ausprägung | 18 |
+| 70.02A | – Alte Ausprägung | 21 |
+| 70.03 | Subalpiner Lärchen-Arvenwald |  |
+| 70.03J | – Junge Ausprägung | 15 |
+| 70.03M | – Mittlere Ausprägung | 18 |
+| 70.03A | – Alte Ausprägung | 21 |
+| 70.04 | Subalpiner Lärchenwald |  |
+| 70.04J | – Junge Ausprägung | 15 |
+| 70.04M | – Mittlere Ausprägung | 18 |
+| 70.04A | – Alte Ausprägung | 21 |
