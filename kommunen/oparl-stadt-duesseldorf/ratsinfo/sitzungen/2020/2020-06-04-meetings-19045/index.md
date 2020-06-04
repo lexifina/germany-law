@@ -1,0 +1,63 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-04T17:00:00+02:00
+- Ende: 2020-06-04T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19045
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19045
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380394.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380394.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380394.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung von Niederschriften über die öffentlichen Sitzungen des Kulturausschusses vom 28.03.2019, 05.09.2019, 13.06.2019, 28.06.2019, 05.09.2019, 14.11.2019 und 23.01.2020 - einstimmig beschlossen
+- TOP 4: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: FFT-Umzug – Zeitplan und Haushaltsmittel - schriftlich beantwortet
+- TOP 5: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Golzheimer Künstler*innensiedlung - schriftlich beantwortet
+- TOP 6: Antrag der CDU-Ratsfraktion: Reduzierung der Erbpachtzinsen für Kultureinrichtungen - mehrheitlich abgelehnt
+- TOP 7: Antrag der CDU-Ratsfraktion: Konzept für die Nachnutzung der Räume der Zentralbibliothek am Bertha-von-Suttner-Platz - mehrheitlich abgelehnt
+- TOP 8: Antrag der CDU-Ratsfraktion: Interaktives Zeitzeugen-Projekt zum Holocaust nach Düsseldorf holen - einstimmig beschlossen
+- TOP 9: Antrag der CDU-Ratsfraktion: Für eine kulturelle Nachnutzung des Hofgärtnerhauses - mehrheitlich abgelehnt
+- TOP 10: Antrag der CDU-Ratsfraktion: „Die Große 2020“ – Forderung nach einer Online-Präsentation mit Verkaufsmöglichkeit der Kunstwerke in diesem Jahr und auch in Zukunft parallel zum bisherigen Veranstaltungsmodell - mehrheitlich abgelehnt
+- TOP 11: Antrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Künstler*innen und Galerist*innen stützen – Ankaufetats nutzen - abweichend beschlossen
+- TOP 12: Antrag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN, und FDP: Einführung einer Solidaritäts-ArtCard zur Mobilisierung von zusätzlichen Mitteln zur Unterstützung von in Not geratenen Einrichtungen und Akteuren der Düsseldorfer Kulturszene - mehrheitlich beschlossen
+- TOP 13: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Kultursommer - abweichend beschlossen
+- TOP 14: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Sicherung Ateliers für (ehemalige) Mieter*innen der Flurstraße - passieren lassen
+- TOP 15: Antrag der CDU-Ratsfraktion: „Onleihe“-App der Düsseldorfer Stadtbüchereien - mehrheitlich abgelehnt
+- TOP 15.1: Aktueller Sachstand Annexbauten Malkastenpark -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 16: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen - Empfehlung einstimmig beschlossen
+- TOP 17: Erkrather Straße 30, tanzhaus nrw e.V.* - Empfehlung einstimmig beschlossen
+- TOP 18: Deutsches Foto-Institut – Identifikation eines Standortes* - passieren lassen
+- TOP 19: Maßnahmen zur Sicherung der kulturellen Infrastruktur - einstimmig beschlossen
+- TOP -: Maßnahmen zur Sicherung der kulturellen Infrastruktur
+- TOP -: Ergänzungsantrag der Ratsfraktionen Bündnis 90/Die Grünen und SPD zu KUA/070/2020 Maßnahmen zur Sicherung der kulturellen Infrastruktur
+- TOP -: Ergänzungsantrag der Ratsfraktionen Bündnis 90/Die Grünen und SPD zu KUA/070/2020 Maßnahmen zur Sicherung der kulturellen Infrastruktur - einstimmig beschlossen
+- TOP 20: Bereitstellung überplanmäßiger Mittel zur Einhaltung der Coronaschutzverordnung im Aquazoo Löbbecke Museum
+- TOP -: Bereitstellung überplanmäßiger Mittel zur Einhaltung der Coronaschutzverordnung im Aquazoo Löbbecke Museum - einstimmig beschlossen
+- TOP 21: Erlass der Gebühren für einen Teil des Musikschulunterrichts der städtischen Clara-Schumann-Musikschule im Zuge von COVID-19 bis zur Beendigung der Einschränkungen"
+- TOP -: Erlass der Gebühren für einen Teil des Musikschulunterrichts der städtischen Clara-Schumann-Musikschule im Zuge von COVID-19 bis zur Beendigung der Einschränkungen" - einstimmig beschlossen
+- TOP 22: Nutzung der Tonhalle zu ermäßigten Konditionen - einstimmig beschlossen
+- TOP 23: Kurze Vorstellung der nun besetzten Off-Szene-Stelle und ihres Tätigkeitsbereichs - zur Kenntnis genommen
+- TOP 24: Blaugrüner Ring - Bestätigung des Wettbewerbsergebnisses - Grundsatzbeschluss zum weiteren Vorgehen - vertagt
+- TOP 25: Bereitstellung überplanmäßiger Mittel für die Neue Schauspiel GmbH - Empfehlung einstimmig beschlossen
+- TOP -: Bereitstellung überplanmässiger Mittel für die Neue Schauspiel GmbH
+- TOP 26: Änderung des Gesellschaftervertrages der Deutsche Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH im Zusammenhang mit der Fortsetzung der Opernehe - einstimmig beschlossen
+- TOP 27: Kulturentwicklungsplanung für die Landeshauptstadt Düsseldorf: Bericht zum Umsetzungsstand der priorisierten Maßnahmen - vertagt
+- TOP 28: Stadtmuseum – Aufhebung eines Sperrvermerkes - einstimmig beschlossen
+- TOP 29: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshauptstadt Düsseldorf 2020 * - einstimmig beschlossen
+- TOP 30: Beirat Tanz und Theater (Sitzung am 27.05.2020)* - einstimmig beschlossen
+- TOP 31: Digitale 3D-Rekonstruktion des 39er Denkmals von Jupp Rübsam - zurückgezogen
+- TOP 32: Ergebnis zum Wettbewerb "Das 39er Denkmal auf dem Reeser Platz" - zur Kenntnis genommen
+- TOP 33: Lantz´scher Skulpturenpark - einstimmig beschlossen
+- TOP 34: Kunst am Bau am Franz-Jürgens-Berufskolleg - einstimmig beschlossen
+- TOP 35: Zuschuss Festjahr 2021: 1700 Jahre Jüdisches Leben in Deutschland - einstimmig beschlossen
+- TOP 36: Zuschuss zu dem Forschungsprojekt „Firmengrün in Düsseldorf und in der Hauptstadtregion der Bonner Republik nach 1945" - zurückgezogen
+- TOP 37: Druckkostenzuschuss zur Neuauflage der Fotoedition „Julius Söhn - Straßenfotografie in Düsseldorf (1890 - 1934)“ - einstimmig beschlossen
+- TOP 38: Druckkostenzuschuss „Schutzhaft an der Ulmenstraße. Das Gefängnis Düsseldorf-Derendorf im Nationalsozialismus“ - einstimmig beschlossen
+- TOP 39: Beschlüsse des Kulturausschusses: Beschlusskontrolle 2. Hj. 2019 bis April 2020 - zur Kenntnis genommen
