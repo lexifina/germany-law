@@ -1,0 +1,84 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-04T16:05:00+02:00
+- Ende: 2020-06-04T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21711
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21711
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 04.06.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775768.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 04.06.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775768.pdf
+- Wortprotokoll: Tagesordnung, Stand 04.06.2020, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775768.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Photovoltaisches Potential der Dachflächen des Messegeländes - Sache ist erledigt
+- TOP 1.1.1: Photovoltaisches Potential der Dachflächen des Messegeländes - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Anfrage der FDP-Fraktion betreffend Entsorgung und Recycling von Batterien - Sache ist erledigt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Gemeinsamer Antrag der CDU-Fraktion, der Fraktion Bündnis 90 / Die Grünen, der FDP-Fraktion und der Ratsgruppe GUT betreffend Regionale Erzeugung und Verteilung landwirtschaftlich erzeugter Nahrungsmittel - ungeändert beschlossen
+- TOP 2.1.1: Stellungnahme zu AN/0404/2020 - Kenntnis genommen
+- TOP 2.2: Antrag der SPD-Fraktion betreffend Anwohnerinnen und Anwohner in Mülheim vor Dieselabgasen und Lärm schützen – Landstromanlagen am Rheinufer einrichten! - geändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion zu TOP 2.2, AN/0295/2020 - Landstromanlagen am Rheinufer - ungeändert beschlossen
+- TOP 2.3: Antrag der Fraktion Die Linke. und von RM Gerlach betreffend "Schaffung eines Kölner Klimarates" - Sache ist erledigt
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen SPD, Die Linke. und von RM Gerlach in Form eines Ersetzungsantrags - geändert beschlossen
+- TOP 2.4: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90 / Die Grünen betreffend Prüfantrag: Gartenordnung - geändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion zu AN/0657/2020 - Gartenordnung - geändert beschlossen
+- TOP -: Änderungsantrag der Gruppe GUT zu Prüfantrag: Gartenordnung - endgültig abgelehnt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Klimaneutrales Köln - Kenntnis genommen
+- TOP 3.2: Veränderte Prioritäten im Klimaschutz - Kenntnis genommen
+- TOP 3.3: Umwelt- und Klimaschutzaktivitäten des Bundesverwaltungsamtes - Kenntnis genommen
+- TOP 3.4: Stadtradeln 2020 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kölnberg - ungeändert beschlossen
+- TOP 4.1.2: Fortschreibung des Landschaftsplans Köln (12. Änderung) - mit Änderungen empfohlen
+- TOP 4.1.2.1: Gemeinsamer Änderungsantrag von CDU-Fraktion und Fraktion Bündnis 90 / Die Grünen betreffend Fortschreibung des Landschaftsplans Köln (12. Änderung) TOP 4.1.2 - ungeändert beschlossen
+- TOP 4.1.3: Wasserversorgung Friedhof Nord - ungeändert empfohlen
+- TOP 4.1.4: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.1.4.1: Ersetzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.1.5: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 4.1.6: Annahme einer Schenkung Sanierungskonzept Rheingarten - zurückgestellt
+- TOP 4.1.7: Ernährungsstrategie für Köln und Umgebung - mit Änderungen empfohlen
+- TOP 4.1.7.1: Änderungsantrag der FDP-Fraktion zu Top 4.1.7 - Ernährungsstrategie für Köln und Umgebung - ungeändert beschlossen
+- TOP 4.1.8: Energieberatung für Privathaushalte durch die Verbraucherzentrale - Fortführung nach 2020 - ungeändert empfohlen
+- TOP 4.1.9: 209. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Sülz, Arbeitstitel: "Erweiterung RheinEnergieSportpark" in Köln-Sülz - ohne Votum in nachfolgende Gremien
+- TOP 4.1.10: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan 63419/02, - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Konzept "Essbare Stadt" - geändert beschlossen
+- TOP 4.2.2: ISEK Porz-Mitte - Rheinboulevard Porz (Bedarfsfeststellungsbeschluss) - geändert beschlossen
+- TOP 4.2.3: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 72 des Friedhofs Melaten - ungeändert beschlossen
+- TOP 4.2.4: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 020 des Friedhofs Longerich - ungeändert beschlossen
+- TOP 4.2.5: Fortführung und Ausweitung "Hallo Nachbar, Danke schön" - ungeändert beschlossen
+- TOP 4.2.6: Ersatzbeschaffung von neun Kolonnenfahrzeugen für die Grünunterhaltung - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 7.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 7.3: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 03.03.2020 - Kenntnis genommen
+- TOP 7.4: Energiebericht 2019: Energieverbrauchs- und Kostenstatistik 2018/Sachstand Energiemanagementkonzept 2019 - Kenntnis genommen
+- TOP 7.5: Kooperation Köln und rechtsrheinische Nachbarn (K&RN): Stadt Köln übernimmt Konsortialführung für zwei Jahre - Kenntnis genommen
+- TOP 7.6: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regio-nalplan veröffentlicht - zurückgestellt
+- TOP 7.7: Ökologische Revitalisierung Westerwaldstraße - Kenntnis genommen
+- TOP 7.8: PFC-Grundwasserverunreinigungen - Kenntnis genommen
+- TOP 7.9: Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 7.10: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
+- TOP 7.11: PFC Grundwasserverunreinigungen - Kenntnis genommen
+- TOP 7.12: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Gründung einer gGmbH „Kompetenzzentrum Digitale Wasserwirtschaft gemeinnützige GmbH“ durch das Land Nordrhein-Westfalen, Ministerium für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz mit sieben - Kenntnis genommen
+- TOP 7.13: Ausweitung des Bestattungsangebotes Baumgräber in 2020 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Einflüsse des Flughafens Köln/ Bonn auf die Umwelt - Kenntnis genommen
+- TOP 8.2: Förderwettbewerb Modellregion Wasserstoffmobilität 0257/2020 - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Verkehrssicherungspflicht zwischen Florastr. und Niehler Kirchweg - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
