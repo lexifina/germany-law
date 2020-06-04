@@ -1,0 +1,54 @@
+# 12. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-04T16:00:00+02:00
+- Ende: 2020-06-04T21:20:00+02:00
+- Ort: MESSE Dresden, Halle 1 Messering 6, 01067 Dresden
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8854
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8854
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00475907.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte (2 Runden)
+- TOP 2.1: Aufhebung der Haushaltssperre
+- TOP 2.2: Finanzierung des Handlungsprogramms "Demokratie leben"
+- TOP 2.3: Sicherung der städtischen Friedhöfe
+- TOP 2.4: Neues Rathaus - Sanierung
+- TOP 2.5: Schutzmaßnahmen für Risikogruppen gegen Coronavirus-Infektionen
+- TOP 2.6: Staffelsteinstraße
+- TOP 2.7: Insolvenzen
+- TOP 2.8: Klimaschutz-Prüfung von Stadtratsvorlagen
+- TOP 2.9: Loschwitzer Brücke (Blaues Wunder)
+- TOP 2.10: Umsetzungsstand der Fachkräftestrategie für Dresden
+- TOP 2.11: Sachstand zum Ausbau der Königsbrücker Straße
+- TOP 2.12: Zukunft Weiße Flotte
+- TOP 2.13: Verfügungsmittel Statbezirksbeiräte und Ortschaftsräte
+- TOP 2.14: Gymnasialstandort Altenberger Straße
+- TOP 2.15: Unterstützung für Kommunen
+- TOP 2.16: Stadtratsbeschluss vom 23.04.2020
+- TOP 3: Umbesetzung im Jugendhilfeausschuss - Einigung
+- TOP 4: Wahl der/des Beigeordneten für Bildung und Jugend - gewählt
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Konzept zur hochwasserangepassten Gestaltung des Abflussbereiches der Elbe im Altelbarm zwischen Zschieren und Tolkewitz sowie Umgang mit Kleingärten in diesem Bereich - Zustimmung mit Ergänzung
+- TOP 7: Fortschreibung Kleingartenentwicklungskonzept - Zustimmung mit Änderung
+- TOP 8: Direktvergabe von Leistungen an die Stadtreinigung Dresden GmbH - Zustimmung
+- TOP 9: Vertagungen aus der Sitzung vom 26.03.2020
+- TOP 9.1: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 9.2: Verzicht auf die Aufstellung eines Gesamtabschlusses der Landeshauptstadt Dresden - Vertagung
+- TOP 9.3: Bäume für Dresden - - Vertagung durch Einreicher
+- TOP 9.4: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse – Parken am Blauen Wunder - Vertagung durch Einreicher
+- TOP 9.5: Evaluation der Tätigkeit von Trägern der freien Kinder- und Jugendhilfe in Dresden - Ablehnung
+- TOP 9.6: Vorplatzgestaltung des Kulturpalastes - Zustimmung mit Änderung
+- TOP 9.7: Verwaltungszentrum Ferdinandplatz – Moratorium Wettbewerblicher Dialog - Vertagung durch Einreicher
+- TOP 9.8: Umsetzung der Istanbul-Konvention in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 9.9: Sozialen Wohnungsbau mit ökologisch und städtebaulich innovativem Quartier voranbringen - Aufstellungsbeschluss für Globus-Markt am Leipziger Bahnhof aufheben - Vertagung durch Einreicher
+- TOP 10: Rahmenrichtlinie der Landeshauptstadt Dresden (RRL LHD) als Grundlage für die Erarbeitung von Fachförderrichtlinien und damit verbundenen Zuwendungen an Dritte - Zustimmung mit Änderung
+- TOP 11: Ersatzneubau einer Zweifeld-Sporthalle am Gymnasium Plauen, Kantstraße 2 in 01187 Dresden - Zustimmung
+- TOP 12: Veränderungssperre für Bebauungsplan Nr. 3037, Dresden-Altstadt II Nr. 31, Marschnerstraße/Canalettostraße - Zustimmung
+- TOP 13: Förderung von Trägern der freien Jugendhilfe – Schulsozialarbeit Sportgymnasium Dresden - Zustimmung mit Änderung
+- TOP 14: Förderung von Trägern der freien Jugendhilfe-Schulsozialarbeit Landesgymnasium für Musik - Zustimmung mit Änderung
