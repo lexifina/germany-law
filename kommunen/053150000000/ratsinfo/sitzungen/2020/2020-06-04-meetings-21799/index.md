@@ -1,0 +1,119 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-04T16:00:00+02:00
+- Ende: 2020-06-04T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21799
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21799
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Gestaltung Zürich Areal Campus 1 und 2 I IG Neustadt Nord Villenviertel, auf Vorschlag CDU
+- TOP 1.2: Außengastronomie in Corona-Zeiten, auf Antrag SPD
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: 274. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.2: Planungsbeschluss für eine dauerhafte Fuß- und Radwegerampe an der linksrheinischen nördlichen Seite der Hohenzollernbrücke am Rheinufer - geändert beschlossen
+- TOP 3.2.1: ÄA zur Vorlage 0942/2020 Dauerhafte Rampe Hohenzollernbrücke, Grüne - ungeändert beschlossen
+- TOP 3.2.2: Änderungsantrag - Planungsbeschluss für eine dauerhafte Fuß- und Radwegerampe an der linksrheinischen nördlichen Seite der Hohenzollernbrücke am Rheinufer, FDP - endgültig abgelehnt
+- TOP 3.2.3: Änderungsantrag -Hohenzollernbrücke - Rampe - CDU - ungeändert beschlossen
+- TOP 3.3: Aufhebung des Einleitungsbeschlusses vom 15.09.2016 (Session-Nr. 1567/2016) zu einem Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) - Einleitungsbeschluss - Arbeitstitel: "Nördlich Colonius" in Köln - Neustadt/Nord - zurückgestellt
+- TOP 3.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellungsbeschluss für die konzeptionellen Maßnahmen "Via Culturalis" im Rahmen des Bundesförderprogramms "Nationale Projekte des Städtebaus" im Zeitraum 2020 - 2023 - ungeändert beschlossen
+- TOP 3.6: Stellplatzsatzung für Köln - geändert beschlossen
+- TOP 3.6.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - ungeändert beschlossen
+- TOP 3.7: Bedarfsfeststellungsbeschluss zur Abwicklung des Touristenbusverkehrs in der Adventszeit - geändert beschlossen
+- TOP 3.7.1: Änderungsantrag zu TOP 3.7, Grüne - ungeändert beschlossen
+- TOP 3.8: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2020 - ungeändert beschlossen
+- TOP 3.9: Annahme einer Schenkung Sanierungskonzept Rheingarten - zurückgestellt
+- TOP 3.10: Konzept für die SeniorenNetzwerke Köln - zurückgestellt
+- TOP 3.11: Planungsbeschluss für die Umgestaltung des Eifelwalls von der Luxemburger Straße bis zur Gabelsbergerstraße sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 3.12: Neubau der Feuer- und Rettungswache 1 (Innenstadt), Agrippastraße 18 - ungeändert beschlossen
+- TOP 3.13: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - ungeändert beschlossen
+- TOP 3.14: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 3.15: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 3.16: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert beschlossen
+- TOP 3.17: Höhenkonzept für die linksrheinische Kölner Innenstadt; hier: Bauvorhaben Hohenzollernring 62 - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe gemäß § 24 GO - Spielplatz Von-Sandt-Platz in Deutz - geändert beschlossen
+- TOP 4.3: Öffentliche Toilette auf dem Rathenauplatz - geändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Verkehrsversuch Deutzer Freiheit (Az.: 02-1600-245/19) - geändert beschlossen
+- TOP 4.4.1: Änderungsantrag zur Vorlage 1212/2020: Bürgereingabe "Verkehrsversuch Deutzer Freiheit", Grüne - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Poller auf der Plankgasse (Az.: 02-1600-49/20) - zurückgestellt
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: 24 Stunden Parken am Auenweg Deutz (Az.: 02-1600-61/20) - Alternative beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Countdown Ampel für Zufußgehende - Kreuzung Ubierring/Alteburger Straße - endgültig zurückgezogen
+- TOP 5.1.1.1: Änderungsantrag zu AN/1281/2019 Countdown Ampel für Zufußgehende - endgültig zurückgezogen
+- TOP 5.1.2: Neuorganisation der Verkehrsführung auf der Schmalbeinstraße - geändert beschlossen
+- TOP 5.1.2.1: Neufassung - Neuorganisation der Verkehrsführung auf der Schmalbeinstraße, SPD - ungeändert beschlossen
+- TOP 5.1.3: Kurzzeitparken in der Apostelnstraße (Altstadt/Nord) - geändert beschlossen
+- TOP 5.1.4: Haltebucht für Krankentransporte und Taxen vor dem Ärztehaus Ebertplatz 2 - geändert beschlossen
+- TOP 5.1.5: Aufstellung einer Wanderbaumallee und des Gogomobils im öffentlichen Verkehrsraum - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Neuregelung der Arbeitszeiten der Verkehrsüberwachung - ungeändert beschlossen
+- TOP 5.2.2: Verbessertes Erscheinungsbild für die Haltestelle Hansaring (Neustadt/Nord) - ungeändert beschlossen
+- TOP 5.2.3: Gefährliche Einmündung Eintrachtstraße/Cordulastraße in der Innenstadt-Nord entschärfen, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.4: Verabschiedung einer Stellplatzsatzung durch den Rat gem. § 89 Abs. 1 Nr. 4 BauO NRW - endgültig zurückgezogen
+- TOP 5.2.5: Kiss & Go Zone vor Grundschulen, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.6: Aufwertung der Mittelallee in der Sudermannstraße (Neustadt/Nord) - ungeändert beschlossen
+- TOP 5.2.7: Parken auf dem Platz Apostelnkloster - ungeändert beschlossen
+- TOP 5.2.8: Keine Ruine in der City: Parkhausgrundstück Auf dem Hunnenrücken/Enggasse/Tunisstraße muss entwickelt werden (Altstadt/Nord), Antrag SPD - zurückgestellt
+- TOP 5.2.9: Radspur auf der Komödienstraße, - zurückgestellt
+- TOP 5.2.10: Baumschutz bei Baumaßnahmen - ungeändert beschlossen
+- TOP 5.2.11: Erweiterung Fahrradspur Agrippinaufer - zurückgestellt
+- TOP 5.2.12: Pandemiebedingungen in der Innenstadt, Gem. Antrag Grüne, Deine Freunde, GUT - geändert beschlossen
+- TOP 5.2.12.1: Änderungsantrag - Pandemiebedingungen in der Innenstadt (Session-Nr: AN/0608/2020), Die Linke - geändert beschlossen
+- TOP 5.2.13: Ampel Überweg Rheinuferstraße Römerpark Richtung Rheinufer/Kap am Südkai, Antrag Grüne - zurückgestellt
+- TOP 5.2.14: Pandemiebedingungen erfüllen – Spielstraßen ermöglichen, Gem. Antrag Grüne, Deine Freunde, GUT - ungeändert beschlossen
+- TOP 5.2.15: Ausbau der haltestelle Reichenspergerplatz, gem. Antrag SPD und CDU - ungeändert beschlossen
+- TOP 5.2.16: Stadtverschönerungsmittel 2020 - ungeändert beschlossen
+- TOP 5.2.17: Dringlichkeitsantrag: Behelfsbrücke während der Sanierung der Deutzer Drehbrücke, Grüne - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.6: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 6.1.7: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 6.1.8: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 6.1.9: Leerstand Geschäftsflächen in der Innenstadt - zurückgestellt
+- TOP 6.1.10: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf Alleestreifen und Fahrbahn - zurückgestellt
+- TOP 6.1.11: Nutzung Gebäude Oberfinanzdirektion - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sachstand Verkehrsberuhigung Eborunenstraße - zurückgestellt
+- TOP 6.2.2: Zweckentfremdung in der Krise, Anfrage Die Linke
+- TOP 6.2.2.1: Zweckentfremdung in der Krise
+- TOP 6.2.3: Taubenfütterungsverbot, Anfrage SPD
+- TOP 6.2.3.1: Beantwortung: Anfrage gem. § 4 der Geschäftsordnung des Rates und der Bezirksvertretung: Taubenfütterungsverbot (AN/0624/2020)
+- TOP 6.2.4: Kellerfläche in Stadtmauer Gereonswall (Altstadt/Nord) - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Platzfläche vor St. Heribert
+- TOP 7.2: Behindertenparkplatz Metzer Straße
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 9.2: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 9.3: Welche Ideen hat die Verwaltung, um die Situation am Chlodwigplatz zu verbessern ? - Kenntnis genommen
+- TOP 9.4: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 9.5: Verbesserung der Parksituation am Caritas-Altenzentrum in Deutz - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.6: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 9.7: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 9.8: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 9.9: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 9.10: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 9.11: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 9.12: Verkehrsführungskonzept Altstadt - Kenntnis genommen
+- TOP 9.13: Umgestaltung lrh. Uferpromenade von Deutzer Brücke bis Malakoffturm - Kenntnis genommen
+- TOP 9.14: Kenntnisnahme einer Dauerleihgabe: Bronzemodell von Kastell Divita für den sogenannten archäologischen Balkon in Köln Deutz - Kenntnis genommen
+- TOP 9.15: Dienstzeiten der Verkehrsüberwachung - Kenntnis genommen
+- TOP 9.16: Zeitraum der Offenlage des Bebauungsplan-Entwurfes Nr. 65450/05 nach § 3 Absatz 2 BauGB Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - Kenntnis genommen
+- TOP 9.17: Einrichtung einer quartiersbezogenen Bewegungs-Station im Rahmen des ExWoSt-Modellvorhabens im Trude-Herr-Park in der Altstadt-Süd - Kenntnis genommen
