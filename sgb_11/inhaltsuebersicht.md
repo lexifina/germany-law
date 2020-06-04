@@ -369,8 +369,9 @@
 | Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie |
 | § 147 | Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18 |
 | § 148 | Beratungsbesuche nach § 37 |
-| § 149 | Einrichtungen zur Inanspruchnahme von Kurzzeitpflege |
+| § 149 | Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung |
 | § 150 | Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige |
+| § 150a | Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie |
 | § 151 | Qualitätsprüfungen nach § 114 |
 | § 152 | Verordnungsermächtigung |
 Anlage 1 (zu § 15) Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul

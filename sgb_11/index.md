@@ -377,8 +377,9 @@ zum Schutz der Pflegebedürftigen
 
 - [§ 147 Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18](0147.md)
 - [§ 148 Beratungsbesuche nach § 37](0148.md)
-- [§ 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege](0149.md)
+- [§ 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung](0149.md)
 - [§ 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige](0150.md)
+- [§ 150a Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie](0150a.md)
 - [§ 151 Qualitätsprüfungen nach § 114](0151.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 - [Anlage 1 (zu § 15)Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul](anlage-1.md)

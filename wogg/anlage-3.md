@@ -8,7 +8,7 @@ Rechenschritte und Rundungen
   |  | 7Haushalts-mitglieder | 8Haushalts-mitglieder | 9Haushalts-mitglieder | 10Haushalts-mitglieder | 11Haushalts-mitglieder | 12Haushalts-mitglieder |
   | M | 111 | 123 | 135 | 146 | 180 | 286 |
   | Y | 702 | 787 | 872 | 957 | 1 248 | 1 443 |
-2. Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte für „a“, „b“, „c“ (Anlage 1) und für „M“ und „Y“ in die Formel nach § 19 Absatz 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:
+2. Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte für „a“, „b“, „c“ (Anlage 2) und für „M“ und „Y“ in die Formel nach § 19 Absatz 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:
   Berechnung der Dezimalzahlen
   z1 = a + b · M + c ∙ Y,
   z2 = z1 ∙ Y,

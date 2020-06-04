@@ -198,7 +198,7 @@ Leistungserbringern
 
 - [§ 69 Anwendungsbereich](0069.md)
 - [§ 70 Qualität, Humanität und Wirtschaftlichkeit](0070.md)
-- [§ 71 Beitragssatzstabilität](0071.md)
+- [§ 71 Beitragssatzstabilität, besondere Aufsichtsmittel](0071.md)
 
 ### Zweiter Abschnitt Beziehungen zu Ärzten,
 Zahnärzten und Psychotherapeuten
@@ -369,6 +369,7 @@ von Hilfsmitteln
 
 - [§ 126 Versorgung durch Vertragspartner](0126.md)
 - [§ 127 Verträge](0127.md)
+- [§ 127 Verträge](0127-2.md)
 - [§ 128 Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten](0128.md)
 
 ### Siebter Abschnitt Beziehungen zu Apotheken und
