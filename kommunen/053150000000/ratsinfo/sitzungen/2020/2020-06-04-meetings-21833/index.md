@@ -1,0 +1,71 @@
+# 45. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-04T17:00:00+02:00
+- Ende: 2020-06-04T18:25:00+02:00
+- Ort: in der Scheune des Altenberger Hofs, Mauenheimer Str. 92, 50733 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21833
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21833
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage zu den Planungen für Fahrradabstellplätze vor dem Buchladen Neusser Str. 197 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Mobilitätseinschränkung Gellertstraße (Az.: 02-1600-173/19) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Unterkunft für Geflüchtete Neusser Landstraße 2a - Kenntnis genommen
+- TOP 7.1.2: Projekt "CELSIUS" - zu AN/0090/2020, Anfrage von Bündnis 90/Die Grünen - Kenntnis genommen
+- TOP 7.1.3: Gemeinsamer Antrag SPD und CDU: Schutz des Kahnweihers im Blücherpark - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Behausungsboxen für Obdachlose unterhalb der Hochbahn am Parkgürtel - Kenntnis genommen
+- TOP 7.2.2: Etzelstraße Anlieger - Kenntnis genommen
+- TOP 7.2.3: Leerstand eines Wohnhauses Niehler Str. 301 - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: „Machbarkeitsstudie Stadtbahn-West-Ost-Trasse“ - endgültig zurückgezogen
+- TOP 8.1.2: Schnelle Reaktion der Verwaltung auf Hinweise - zurückgestellt
+- TOP 8.1.3: Öffnung von Schulhöfen an Grundschulen in den Sommerferien - geändert beschlossen
+- TOP 8.1.4: Förderung der Außengastronomie im Stadtteil Longerich - ungeändert beschlossen
+- TOP 8.1.5: Schutz von Vorgärten durch Bebauungsplanfestsetzungen - zurückgestellt
+- TOP 8.1.6: Baumschutz bei Baumaßnahmen - zurückgestellt
+- TOP 8.1.7: Erschließung KITA Longericher Hauptstraße 73-75 - ungeändert beschlossen
+- TOP 8.1.8: Renaturierung Grundstück Merheimer Platz 16, Köln-Nippes
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.1.2: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - zurückgestellt
+- TOP 9.1.3: Baubeschluss für die Generalinstandsetzung der Merheimer Straße im Abschnitt zwischen Friedrich-Karl-Straße und Roßbachstr. und Umbau der Knotenpunkte Merheimer Straße/Friedrich-Karl-Straße und Merheimer Straße/Theklastraße zu Kreisverkehren sowie - geändert beschlossen
+- TOP 9.1.4: Wasserversorgung Friedhof Nord - ungeändert beschlossen
+- TOP 9.1.5: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - ungeändert beschlossen
+- TOP 9.1.6: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Zügigkeitserweiterung des Leonardo-da-Vinci-Gymnasiums, Blücherstraße 15-17, 50733 Köln-Nippes zum Schuljahr 2021/22 - ungeändert empfohlen
+- TOP 9.2.2: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 020 des Friedhofs Longerich - ungeändert empfohlen
+- TOP 9.2.3: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 9.2.4: Erweiterter Planungsbeschluss für den Abriss und Ersatzneubau der Fuß- und Radwegbrücke Escher Str. - ungeändert empfohlen
+- TOP 9.2.5: Konzept für die SeniorenNetzwerke Köln - mit Änderungen empfohlen
+- TOP 9.2.6: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - ungeändert empfohlen
+- TOP 9.2.7: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - ungeändert empfohlen
+- TOP 9.2.8: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - ungeändert empfohlen
+- TOP 9.2.9: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.2: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 10.2.3: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 10.2.4: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 10.2.6: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 10.2.7: Generalsanierung Mülheimer Brücke - Kenntnis genommen
