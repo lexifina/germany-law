@@ -1,0 +1,52 @@
+# 41. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-06-04T18:00:00+02:00
+- Ende: 2020-06-04T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5867
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5867
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 4: Überweisungen aus der BVV - (offen)
+- TOP 4.1: Umfeldverträglicher Weiterbau des 17. Abschnitts der Autobahn A 100 - vertagt
+- TOP 4.2: Lösung für den Radweg auf dem Hegemeisterweg in Rahnsdorf endlich herbeiführen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.3: Neubau einer Brücke für den allgemeinen Straßenverkehr von der Ewaldstraße in Altglienicke zur Paradiesstraße in Bohnsdorf zwecks Anschlusses des Ortsteils Altglienicke an die B 96a - im Ausschuss abgelehnt
+- TOP 4.4: Fußgängerüberweg Altglienicke Kirche - vertagt
+- TOP 4.5: Kennzeichnung und Teil-Ausbau einer Radanlage am Teltowkanal - vertagt
+- TOP 4.6: Sichere Querung des Fürstenwalder Damms - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: S-Bahnhöfe an der BER-Strecke sicherer machen - im Ausschuss abgelehnt
+- TOP 4.8: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 4.9: Beleuchtung auf dem Kaisersteg zwischen Ober- und Niederschöneweide normgerecht instand setzen - vertagt
+- TOP 4.10: Mehr Standorte für die Altglassammlung - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: Dialog-Displays vorrangig vor Schulen und Kindertagesstätten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.12: Grünen Pfeil am Bahnhof Schöneweide erhalten - vertagt
+- TOP 4.13: Einrichtung eines Fußgängerüberweges in der Buntzelstraße / Ecke Zur Gartenstadt - vertagt
+- TOP 4.14: Radwegauffahrten und Radwegenden auch außerhalb von Kreuzungen und Einmündungen sicher gestalten - vertagt
+- TOP 4.15: Prüfung der Errichtung einer Fahrradhochstraße auf der Johannisthaler Chaussee - vertagt
+- TOP 4.16: Eine Sitzbank in der Dörpfeldstraße von Gebühren für die Nutzung des öffentlichen Straßenlands befreien - vertagt
+- TOP 4.17: Lichtsignalanlage im Kreuzungsbereich Paradiesstraße / Buntzelstraße - vertagt
+- TOP 4.18: Sicheres Gehwegparken in der Bölschestraße - vertagt
+- TOP 4.19: Bessere Sicht für Fußgängerinnen und Fußgänger durch Fahrradabstellanlagen - vertagt
+- TOP 4.20: Fußverkehr in Schöneweide fördern - vertagt
+- TOP 4.21: Unfallgefahren am Bohnsdorfer Kreisel minimieren - vertagt
+- TOP 4.22: Rudower Straße fahrradfreundlich gestalten - vertagt
+- TOP 4.23: Tempo 30 für die Bölschestraße - vertagt
+- TOP 4.24: Beleuchtung der Einmündung Rabindranath-Tagore-Straße in das Adlergestell - vertagt
+- TOP 4.25: Überschwemmung der Lindenstraße in Bohnsdorf bei Starkregen verhindern - vertagt
+- TOP 4.26: Dammweg begrünen - vertagt
+- TOP 4.27: Vermehrte Kontrollen des Ordnungsamtes in Niederschöneweide - vertagt
+- TOP 4.28: Schöner Fahrradparken - vertagt
+- TOP 4.29: Bürgerhaus Altglienicke sichtbar machen - vertagt
+- TOP 4.30: Neubau einer Brücke über die Dahme - vertagt
+- TOP 4.31: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 4.32: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 4.33: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5: Verschiedenes - erledigt
