@@ -1,0 +1,113 @@
+# 51. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-04T17:00:00+02:00
+- Ende: 2020-06-04T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21546
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21546
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775377.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775377.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00775377.pdf
+
+## Tagesordnung
+
+- TOP -: 0 Aktuelle Stunde Verzögerung beim Bau der Leverkusener Brücke - geändert beschlossen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Streichung der Bushaltestelle Ursula-Kuhr-Weg (Az.:174/19) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Alte Römer Straße - Kenntnis genommen
+- TOP 7.1.2: Förderung der Elektromobilität in Köln - Kenntnis genommen
+- TOP 7.1.3: Zufahrt Tankstelle Volkhovenerweg - Kenntnis genommen
+- TOP 7.1.4: Elterntaxis an der Soldiner Straße Grundschule - Kenntnis genommen
+- TOP 7.1.5: Fußweg in Heimersdorf - Kenntnis genommen
+- TOP 7.1.6: Sturm und Trockenheitsschäden im Stadtgrün - Kenntnis genommen
+- TOP 7.1.7: Freizeitbad Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Geplante GAG-Baumaßnahme in Merkenich "In den Kämpen / Derichsweg" - Kenntnis genommen
+- TOP 7.1.9: Baugrundstück Staffelsbergstr. - Kenntnis genommen
+- TOP 7.1.10: KVB-Fahrplan Karneval 2020 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Versiegelung von Vorgärten Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Rheinauenbeweidung Worringen Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.3: Baumbestand im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Hundebesitzer in Köln Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Coronazahlen im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion, SPD-Fraktion, Fraktion Bündnis´90 / Die Grünen und Die Linke - Kenntnis genommen
+- TOP 7.2.6: Deckenschäden am Abgang der Stadtbahnhaltestelle in Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.7: Entfernung von intaktem städtischem Grün im Stadtbezirk Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Pilotprojekt On-Demand Angebot Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Umgestaltung der Abbiegespur auf der Merianstraße am Aqualand Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Blumenberg -Langenbergstraße 30a Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung von Stichwegen der Gaußstraße in Köln-Pesch - ungeändert beschlossen
+- TOP 9.1.2: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung der Schulentwicklungsplanung Köln 2020 - geändert beschlossen
+- TOP 9.2.2: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Abbruch und Ersatzneubau der Brücke Escher See in Köln-Esch - ungeändert beschlossen
+- TOP 9.2.3: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - Kenntnis genommen
+- TOP 9.2.4: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 9.2.5: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - geändert beschlossen
+- TOP 9.2.6: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - geändert beschlossen
+- TOP 9.2.7: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Brombeergasse" in Köln-Worringen - zurückgestellt
+- TOP 9.2.8: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - geändert beschlossen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 10.2.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.3: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.4: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 im Bezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.5: Mobile Geschwindigkeitsmessung Orrer Straße - Kenntnis genommen
+- TOP 10.2.6: Unfallhäufungsstellen und tödliche Verkehrsunfälle im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.7: Flächenbericht 2019 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2019 - Kenntnis genommen
+- TOP 10.2.8: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 10.2.9: Neuer Kita-Standort in der Berrischstraße 132-136 weiterhin nicht nutzbar - Kenntnis genommen
+- TOP 10.2.10: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2019 hier: Bezirksvertretung Chorweiler - zurückgestellt
+- TOP 10.2.11: Ladeinfrastruktur zur Umstellung des KVB-Busverkehrs auf Elektroantriebe - Kenntnis genommen
+- TOP 10.2.12: Grüne Infrastruktur Handlungskonzept Trockenheitsphasen - Kenntnis genommen
+- TOP 10.2.13: Beginn der diesjährigen Beweidung in der Worringer Rheinaue - Kenntnis genommen
+- TOP 10.2.14: Sachstand zu den von der Kölner Verkehrs-Betriebe AG (KVB) übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.15: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 62547/02 Arbeitstitel: Damiansweg in Köln-Volkhoven/ Weiler - Kenntnis genommen
+- TOP 10.2.16: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.17: Errichtung eines Kleinspielfeldes an der Oxforder Passage in Chorweiler-Mitte - Kenntnis genommen
+- TOP 10.2.18: Baubeschluss für die Generalsanierung der Deichkronenwege in Köln-Merkenich - Kenntnis genommen
+- TOP 10.2.19: Parkplätze auf Gelände von ehemaliger Geflüchtetenunterkunft in der Langenbergstraße - Kenntnis genommen
+- TOP 10.2.20: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 10.2.21: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.22: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 10.2.23: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 10.2.24: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.25: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 10.2.26: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 10.2.27: Künstlerische Gestaltung der Chorweiler Skulptur "Tomate"/"Ketchupoleum" - ein Schülerprojekt des Chorweiler Künstlers Bernhard Prinz - als serieller Prozess - Kenntnis genommen
+- TOP 10.2.28: Nationale Projekte des Städtebaus „Lebenswertes Chorweiler- ein Zentrum im Wandel“ Beibehaltung des Taxistandes auf dem Turkuplatz - Kenntnis genommen
+- TOP 10.2.29: Wettbewerbliches Dialogverfahren zur Entwicklung des neuen Stadtteils Kreuzfeld Zwischenmitteilung der Verwaltung zum aktuellen Sachstand - Kenntnis genommen
+- TOP 10.2.30: Neubau Grundschule und Turnhalle Fühlinger Weg 7 in 50765 Köln Volkhoven/Weiler - Kenntnis genommen
+- TOP 10.2.31: Ausweitung des Bestattungsangebotes Baumgräber in 2020 - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
