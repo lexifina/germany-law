@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.3
+- Datum: 2020-06-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.06.2019
+05.06.2020
 bis
-04.06.2020
+31.07.2020
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -319,7 +319,12 @@ Halbjahresinformation
 
 B.02.02
 
-Jahreszeugnis
+Jahreszeugnis (außer Berufsfachschule für Pflegeberufe)
+
+
+B.02.02a
+
+Jahreszeugnis Berufsfachschule für Pflegeberufe
 
 
 B.02.03
@@ -489,7 +494,12 @@ Abgangszeugnis
 
 E.01.06
 
-Zeugnis über die Zuerkennung der allgemeinen Hochschulreife
+Zeugnis über die Zuerkennung der allgemeinen Hochschulreife (außer Duale Berufsausbildung mit Abitur)
+
+
+E.01.06a
+
+Zeugnis der allgemeinen Hochschulreife Duale Berufsausbildung mit Abitur
 
 
 E.01.07
@@ -680,9 +690,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Juni 2019
+Fassung gültig ab:  5. Juni 2020
 
-Fassung gültig bis:  4. Juni 2020
+Fassung gültig bis: 31. Juli 2020
 
 Drucken/Speichern
 
@@ -709,7 +719,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.3
+https://www.revosax.sachsen.de/vorschrift/17513.4
 Stand vom
 18.11.2026
 
