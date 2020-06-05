@@ -1,17 +1,17 @@
 # Allgemeine Verwaltungsgebührensatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2017-07-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/verwaltungsgebührensatzung_27_07_2017.pdf
+- Datum: 2020-06-05 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/verwaltungsgebührensatzung_05_06_2020.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Allgemeine Verwaltungsgebührensatzung der Stadt Köln vom 27. Dezember 1971
-in der Fassung der 13. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
-vom 27. Juli 2017
-ABl. StK 1972, S. 3 ff; 2005, S. 738 ff, 2011, S. 121, 2017, S. 299
+in der Fassung der 14. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
+vom 05. Juni 2020
+ABl. StK 1972, S. 3 ff; 2005, S. 738 ff, 2011, S. 121, 2017, S. 299, 2020, S. 647 -
 Der Rat der Stadt Köln hat in seiner Sitzung vom 17. Dezember 1971 aufgrund der §§ 4 und 5 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (GV NW 1969 S. 712) sowie der §§ 4 und 87 Absatz 5 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 11. August 1969 (GV NW 1969 S. 656) diese Satzung beschlossen:
 §1 Gegenstand und Höhe der Verwaltungsgebühren
 (1) Verwaltungsgebühren werden für die in dem anliegenden Gebührentarif aufgeführten besonderen Leistungen in der dort vorgesehenen Höhe nach Maßgabe dieser Satzung und des Kommunalabgabengesetzes erhoben. Der Gebührentarif ist Bestandteil der Satzung.
@@ -174,7 +174,7 @@ Abgabe von Lageplandaten Grundgebühr bei digitaler Ausgabe je Sicad-Element aus
 Gebühr
 61,00 € 0,30 € 0,21 € 0,15 €
 0,15 € 0,11 € 0,08 €
-89,11 € 61,69 €
+169,94 € 117,65 €
 
 32.1 32.2
 32.2.1 32.2.1.1 32.2.2 32.2.2.1 32.3 32.3.1 32.3.2 32.3.3 32.3.4
