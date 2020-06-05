@@ -1,0 +1,60 @@
+# Rat (46. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2020-06-05T16:00:00+02:00
+- Ende: 2020-06-05T22:15:00+02:00
+- Ort: Kreishaus Herford, Amtshausstraße 3, 32052 Herford, Ebene 3, Sitzungsräume 300 - 302
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQwPGVhhyi8QD44ghO32e5Y
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3910
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRDohP45JFBRxtf6DCurMN0vNaWvGEJq_godbAvHGcO/Einladung_Rat_05.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXVyDHzlIpnvod1B6ar_PgVYGpk6Z_2sluUQqPtbpy-y/Oeffentliche_Niederschrift_Rat_05.06.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 08.05.2020
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Feststellung des Jahresabschlusses 2019 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2019: a) Billigung des Konzernabschlusses b) Ergebnisverwendung
+- TOP zu A.5b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2019: a) Billigung des Konzernabschlusses b) Ergebnisverwendung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5c: Bericht aus dem Beteiligungscontrolling: a) Jahresprognose 2020 der Beteiligungsunternehmen zum 31.03.2020 b) Auswirkungen der Coronakrise im HVV Konzern
+- TOP A.5d: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2019 b) Ergebnisverwendung c) Vorabausschüttung 2020 d) Bericht des Aufsichtsrates e) Entlastung des Aufsichtsrates f) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5e: Pro Herford GmbH a) Feststellung des Jahresabschlusses 2019 b) Ergebnisverwendung c) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5f: Gründung der Trianel Energieprojekte GmbH & Co. KG und der Trianel Energieprojekte Verwaltungs GmbH als Komplementär-GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5g: Klärschlammverwertung OWL GmbH: Entsendung eines Aufsichtsratsmitglieds - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: Westfalen Weser Gruppe: Beteiligung der Energieservice Westfalen Weser GmbH an der Wärmeservice Paderborn GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: Antrag nach § 24 GO NRW von NABU und BUND vom 02.02.2020 - eine Regelung zum Abbrennen von Brauchtumsfeuern betreffend -
+- TOP A.7: 1. Situationsbericht zur Haushaltswirtschaft 2020
+- TOP A.8: Nationale Projekte des Städtebaus- Genehmigung einer überplanmäßigen Auszahlung für das Gebäude A des Bildungscampus - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.9: Erlass von Gebühren aus Sondernutzung und Konzession aufgrund der weltweiten Verbreitung des Corona-Virus SARS-CoV-2 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Antrag der FDP-Fraktion: Verzicht von Sondernutzungsgebühren in der Außengastronomie vom 01.03.2020 - 31.10.2020
+- TOP zu A.9: Antrag der CDU-Fraktion: Gastronomie
+- TOP A.10: Antrag der Fraktion B90/DIE GRÜNEN: Funktionsstellenplan hier: Beanstandung nach § 54 Abs. 2 GO NRW - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Regiopoles Radverkehrskonzept - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Durchführung von verkaufsoffenen Sonntagen am 11.10., 06.12. und 27.12.2020 - Bei 7 Enthaltungen und 3 Nein-Stimmen wurde mit 29 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.13: Strategie und Planung: Projekt „kinderstark – NRW schafft Chancen“ Förderantrag von Landesmitteln - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Strategie und Planung: Durchführung des Projektes „Gelingendes Aufwachsen - Netzwerke für Kinder“ - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15: Neue Medien / Digitalisierung; hier: Medienentwicklungsplanung 2020-2024 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Zukünftige Nutzung des Gebäudes der ehemaligen Hauptschule Meierfeld; hier: Teilstandortbildung Ravensberger Gymnasium - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Kindertagesbetreuung: Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) vom 17.06.2019
+- TOP zu A.17: Kindertagesbetreuung: a) Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) vom 17.06.2019 b) Hälftige Aussetzung der Beitragserhebung für die Monate Juni und Juli 2020 für die Betreuung von Kindern in der Kindertagesbetreuung einschließlich der Kindertagespflege im Zuge von COVID-19 Offener Ganztag: c) Hälftige Aussetzung der Beitragserhebung für den Monat Juni 2020 für die Betreuung von Kindern im Rahmen des Offenen Ganztages an Schulen der Primarstufe im Zuge von COVID-19
+- TOP zu A.17: Kindertagesbetreuung: a) Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) vom 17.06.2019 b) Hälftige Aussetzung der Beitragserhebung für die Monate Juni und Juli 2020 für die Betreuung von Kindern in der Kindertagesbetreuung einschließlich der Kindertagespflege im Zuge von COVID-19 sowie Ausgleich des halben Elternbeitrags für März 2020 durch Wegfall des übrigen halben Beitrags im Juni 2020 Offener Ganztag: c) Aussetzung der Beitragserhebung für den Monat Juni 2020 für die Betreuung von Kindern im Rahmen des Offenen Ganztages an Schulen der Primarstufe im Zuge von COVID-19 sowie Rückerstattung des halben Elternbeitrags für den Monat März 2020 - Einstimmig und ohne Enthaltung wurde der folgende Beschluss aus der Verwaltungsvorlage gefasst: 
+- TOP A.24: Antrag der FDP-Fraktion: Halbierung der Kita und OGS Gebühren für das Beitragsjahr 20/21
+- TOP A.25: Antrag der SPD-Fraktion: Halbierung der Beiträge in der Kindertagesbetreuung und für den Bereich der offenen Ganztagsschule (OGS)
+- TOP zu A.17: Antrag der CDU Fraktion: Wegfall Beitragserhebung Offener Ganztag Juni 2020
+- TOP A.27: Erweiterter TOP zur Tagesordnung: "Unterstützende Maßnahmen gegen die CORONA-bedingten negativen Auswirkungen (Herforder Hilfspaket)
+- TOP A.27a: Antrag der CDU-Fraktion zu TOP A.9 (Beschlussziffern 1,2 und 4)
+- TOP A.27b: Antrag der Fraktion B90/DIE GRÜNEN zu TOP A.9
+- TOP A.27c: Antrag von Ratsherrn Thomas Helmerking zu Unterstützungsleistungen an Vereine
+- TOP A.18: Antrag auf Änderung der Werbesatzung der Hansestadt Herford der Alt- und Neustadt vom 22.11.2019 hier: Beschluss - Bei 6 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.19: Satzung über die förmliche Festlegung des Sanierungsgebietes "Ulmenstraße" hier: Beschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Bebauungsplan 11.38 "Nahversorgungszentrum Salzufler Straße" hier: Anordnung einer Veränderungssperre - Bei einer Nein-Stimme und ohne Enthaltungen wurde mit 38 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.21: Bebauungsplan Nr. 12.29 "Berger Heide", Änderung 1.18 Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Bebauungsplan Nr. 6.81 "Lebensmittelmarkt Ahmser Straße" hier: Anordnung einer Veränderungssperre - Bei 2 Enthaltungen und 3 Nein-Stimmen wurde mit 34 Ja-Stimmen mehrheitlich folgender Beschluss gefasst:
+- TOP A.26: Mitteilungen
