@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz Vollzitat: Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwir
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.5
+- Datum: 2020-06-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+05.06.2020
 bis
-04.06.2020
+31.12.2021
 
 Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz
 
@@ -87,13 +87,18 @@ die Beschaffung von Ausstattung,
 4.
 
 
-Maßnahmen der Nachwuchsarbeit der privaten Hilfsorganisationen im Katastrophenschutz, insbesondere Honorarkosten, Reisekosten, Sachkosten wie zum Beispiel Miete, Bewirtschaftungskosten und sonstige Kosten, Geräte und
+Maßnahmen der Nachwuchsarbeit der privaten Hilfsorganisationen im Katastrophenschutz, insbesondere Honorarkosten, Reisekosten, Sachkosten wie zum Beispiel Miete, Bewirtschaftungskosten und sonstige Kosten, Geräte,
 
 
 5.
 
 
-der Erwerb einer Fahrerlaubnis der Klasse C beziehungsweise CE für ehrenamtliche Helfer im Katastrophenschutz.
+der Erwerb einer Fahrerlaubnis der Klasse C beziehungsweise CE für ehrenamtliche Helfer im Katastrophenschutz und
+
+
+6.
+
+Errichtung und Einrichtung von Gebäuden zur Unterbringung von Katastrophenschutzeinheiten der privaten Hilfsorganisationen einschließlich Erwerb, Um- und Anbau von Gebäuden für diesen Zweck.
 
 
 Für den Einsatzzug nach § 1 Absatz 4 der 
@@ -129,7 +134,12 @@ für Zuwendungen nach Ziffer II Nr. 4 die privaten Hilfsorganisationen, die Trä
 
 4.
 
-für Zuwendungen nach Ziffer II Nummer 5 die Träger der Katastrophenschutz-Einsatzzüge und der Medizinischen Task Force (Logistik-/Transportzug).
+für Zuwendungen nach Ziffer II Nummer 5 die Träger der Katastrophenschutz-Einsatzzüge und der Medizinischen Task Force (Logistik-/Transportzug),
+
+
+5.
+
+für Zuwendungen nach Ziffer II Nummer 6 die Landkreise, Kreisfreien Städte und Rettungszweckverbände.
 
 
 IV.
@@ -185,6 +195,12 @@ Abschluss von mindestens einem Patenschaftsvertrag mit einer Katastrophenschutze
 Zuwendungen nach Ziffer II Nummer 5 zum Erwerb der Fahrerlaubnis der Klasse C beziehungsweise CE setzen voraus, dass der auszubildende ehrenamtliche Helfer im Katastrophenschutz bereits über eine Fahrerlaubnis der Klasse B verfügt, der Zuwendungsempfänger über mindestens ein Einsatzfahrzeug mit einem zulässigen Gesamtgewicht ab 7,5 Tonnen verfügt oder ein solches demnächst beschafft oder erhält und der Erwerb des Führerscheins zur Sicherstellung der notwendigen Anzahl von Helfern mit der erforderlichen Fahrberechtigung erforderlich ist. Scheidet ein durch diese Zuwendung geförderter ehrenamtlicher Helfer vor dem Ablauf von fünf Jahren nach dem Erwerb der Fahrerlaubnis als Helfer im Katastrophenschutz aus und tritt nicht in eine andere Katastrophenschutzeinheit im Freistaat Sachsen ein, so erhält der Zuwendungsempfänger
 
 für die nächsten beiden Haushaltsjahre keine Zuwendungen nach dieser Ziffer. Dies gilt nicht, wenn der Dienst als Helfer im Katastrophenschutz aus gesundheitlichen oder anderen vom Katastrophenschutzhelfer nicht zu vertretenden Gründen vorzeitig beendet wird.
+
+
+5.
+
+
+Zuwendungen nach Ziffer II Nummer 6 müssen wirtschaftlich und sparsam sein und der Verbesserung der Aufstellung, angemessenen Ausbildung, Ausstattung und Unterbringung und Einsatzfähigkeit der Kräfte und Mittel für die Katastrophenbekämpfung dienen. Zuwendungen für den Um- und Anbau von Gebäuden dürfen grundsätzlich nur maximal bis zur Höhe eines zuwendungsfähigen Neubaus gewährt werden. Die Sicherung der Gesamtfinanzierung investiver Vorhaben einschließlich der Folgekosten ist durch eine positive gemeindewirtschaftliche Stellungnahme der Rechtsaufsichtsbehörde gemäß der VwV Kommunale Haushaltswirtschaft vom 31. Juli 2019 (SächsABl. S. 1179), enthalten in der Verwaltungsvorschrift vom 27. November 2019 (SächsABl. SDr. S. S 339), in der jeweils geltenden Fassung, nachzuweisen, soweit die mit den Fördermitteln mitfanzierte Maßnahme nicht im Haushaltsplan des Fördermittelempfängers veranschlagt ist. Bei Baumaßnahmen muss der Zuwendungsempfänger grundsätzlich Eigentümer des Grundstücks sein. Ausnahmsweise genügt der Nachweis einer Rechtsposition, die eine der Förderung angemessene Nutzungsdauer, und die Erreichung des Förderzweckes sicherstellt.
 
 
 V.
@@ -295,6 +311,11 @@ Zuwendungen nach Ziffer II Nummer 5 werden im Wege der Projektförderung als Fes
 Helfer im Katastrophenschutz.
 
 
+7.
+
+Für die Errichtung, Sanierung, Rekonstruktion sowie für Aus- und Umbaumaßnahmen von Gebäuden zur Unterbringung von Katastrophenschutzeinheiten, die durch im Katastrophenschutz mitwirkende private Hilfsorganisationen genutzt werden, wird der Festbetrag von der Bewilligungsbehörde nach Maßgabe der GUV-Information „Sicherheit im Stützpunkt einer Hilfeleistungsorganisation“ (GUV-I 8680) festgesetzt. Für die Ermittlung des Festbetrags wird pro Quadratmeter anerkannter Nutzfläche ein Betrag von 1 273 Euro zugrunde gelegt. Mit diesem Festbetrag sind auch die Flächen für Außenanlagen im Sinne von Nummer 1 der GUV-I 8680 abgegolten. Die Nutzfläche soll sich an der nach der Sächsischen Katastrophenschutzverordnung in den Einheiten vorzuhaltenden Sollausstattung an Fahrzeugen und Helfern orientieren.
+
+
 VI.
 
 Sonstige Zuwendungsbestimmungen
@@ -369,6 +390,11 @@ Anträge auf Zuwendung nach Ziffer II Nummer 5 sind gemäß dem Muster Anlage 6 
 begonnen werden soll über die zuständige untere BRK-Behörde bei der Bewilligungsbehörde einzureichen.
 
 
+f)
+
+Anträge auf Zuwendungen nach Ziffer II Nummer 6 sind der Bewilligungsbehörde bis zum 31. März vor Beginn des Haushaltsjahres unter Beifügung einer Stellungnahme des Trägers der Katastrophenschutzeinheit vorzulegen. Die Bewilligungsbehörde stellt eine priorisierte Vorhabensliste auf und legt diese dem Staatsministerium des Innern vor.
+
+
 2.
 
 
@@ -387,7 +413,7 @@ Anforderungs- und Auszahlungsverfahren
 a)
 
 
-Die Auszahlung der Zuwendungen nach Ziffer II Nr. 1, 2 und 4 erfolgt in einem Betrag. Die Mittel stehen zur Verwendung im Haushaltsjahr der Gewährung der Zuwendung ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der
+Die Auszahlung der Zuwendungen nach Ziffer II Nummer 1, 2, 4 und 5 erfolgt in einem Betrag. Die Mittel stehen zur Verwendung im Haushaltsjahr der Gewährung der Zuwendung ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der
 
 Verwaltungsvorschrift zu § 44 SäHO nach der Auszahlung zur Verfügung.
 
@@ -425,22 +451,7 @@ VIII.
 Übergangsbestimmung
 
 
-1.
-
-Für das Jahr 2019 werden die erhöhten Zuwendungen für das gesamte Kalenderjahr 2019 nach Ziffer II Nummer 1 und 2 ohne erneute Antragstellung
-
-ausgezahlt.
-
-
-2.
-
-Für Maßnahmen, die im Jahr 2019 zeitlich nach dem 31. Mai 2019 durchgeführt werden, sind bei Zuwendungen nach Ziffer II Nummer 3 und 4 die erhöhten Förderbeträge und Fördersätze anzusetzen.
-
-
-3.
-
-Für das Jahr 2019 sind Zuwendungen zum Erwerb einer Fahrerlaubnis abweichend von Ziffer VII Nummer 1 Buchstabe e bis zum 1. August 2019 zu beantragen.
-
+Abweichend von Ziffer VII Nummer 1 Buchstabe f sind Anträge auf Zuwendungen nach Ziffer II Nummer 6 der Bewilligungsbehörde für das Haushaltsjahr 2020 möglichst bis zum 5. Juli 2020 und für das Haushaltsjahr 2021 möglichst bis zum 30. Juni 2020 vorzulegen.
 
 IX.
 
@@ -502,9 +513,9 @@ Fsn-Nr.: 5536-V11.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab:  5. Juni 2020
 
-Fassung gültig bis:  4. Juni 2020
+Fassung gültig bis: 31. Dezember 2021
 
 Drucken/Speichern
 
@@ -531,7 +542,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12058.5
+https://www.revosax.sachsen.de/vorschrift/12058.6
 Stand vom
 18.11.2026
 
