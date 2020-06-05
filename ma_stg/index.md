@@ -1,4 +1,4 @@
-# Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzausgleich unter den Ländern sowie für die Gewährung von Bundesergänzungszuweisungen
+# Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen
 
 - [Eingangsformel](eingangsformel.md)
 

@@ -369,7 +369,6 @@ von Hilfsmitteln
 
 - [§ 126 Versorgung durch Vertragspartner](0126.md)
 - [§ 127 Verträge](0127.md)
-- [§ 127 Verträge](0127-2.md)
 - [§ 128 Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten](0128.md)
 
 ### Siebter Abschnitt Beziehungen zu Apotheken und
