@@ -1,0 +1,62 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-05T15:00:00+02:00
+- Ende: 2020-06-05T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18933
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18933
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket (Stand: 28.05.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380259.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket (Stand: 28.05.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380259.pdf
+- Wortprotokoll: Digitales Sitzungspaket (Stand: 28.05.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380259.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Aktueller Lagebericht "Jugendhilfe in Zeiten von Corona" - zur Kenntnis genommen
+- TOP 4: Anträge
+- TOP 4.1: Antrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP - hier: Mögliche Nutzung freiwerdender Räume an der Willi-Becker-Allee 10 durch das zeTT - einstimmig beschlossen
+- TOP 4.2: Antrag der CDU-Ratsfraktion: Gleiche berufliche Anreize für alle Düsseldorfer Kinder- und Jugendeinrichtungen – Einkommensstrukturen harmonisieren und verbessern - einstimmig beschlossen
+- TOP 4.3: Antrag der CDU-Ratsfraktion: Gleiche berufliche Anreize für alle Düsseldorfer Kinder- und Jugendeinrichtungen – städtische Ausbildungszulage auch allen Trägern zahlen - einstimmig beschlossen
+- TOP 4.4: Antrag der CDU-Ratsfraktion: Gleiche berufliche Anreize für alle Düsseldorfer Kinder- und Jugendeinrichtungen – Schaffung neuer Aus- und Fortbildungsstandards - einstimmig beschlossen
+- TOP 4.5: Antrag der CDU-Ratsfraktion: Gleiche berufliche Anreize für alle Düsseldorfer Kinder- und Jugendeinrichtungen – gemeinsame Kampagne gegen Fachkräfte-Mangel - einstimmig beschlossen
+- TOP 4.6: Antrag der CDU-Ratsfraktion: Schulverweigerung vorbeugend verhindern - abweichend beschlossen
+- TOP 5: Präventionsketten Düsseldorf
+- TOP 5.1: Präventionsketten Düsseldorf: Landesprogramm „Wertevermittlung, Demokratiebildung und Prävention sexualisierter Gewalt in der und durch die Jugendhilfe“ (Übersicht über die Förderphasen 2018-2021) - zur Kenntnis genommen
+- TOP 6: Tageseinrichtungen für Kinder
+- TOP 6.1: Zertifizierung weiterer Kindertageseinrichtungen in Düsseldorf zu Familienzentren im Rahmen des Landesprogrammes „Familienzentrum NRW" - einstimmig beschlossen
+- TOP 6.2: Änderungen in der Kindertagespflege ab 01.08.2020 - zur Kenntnis genommen
+- TOP 6.3: Mittelverwendung aus dem Produkt 3636501 Konto 53180000 Kindertageseinrichtungen - Aufhebung des Sperrvermerks zur Fortführung des Modellprojektes „MEDITA – Medienerziehung in Kitas“ - einstimmig beschlossen
+- TOP 6.4: Vereinbarung zur Sicherung der Angebote an Plätzen für Kinder in geförderten Tageseinrichtungen nach dem Kinderbildungsgesetz sowie Vereinbarung zur Unterstützung der Qualität in Kindertageseinrichtungen fr. Träger mit bisheriger Sonderförderung - einstimmig beschlossen
+- TOP 7: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 7.1: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Heerdter Landstraße 30 - einstimmig beschlossen
+- TOP 7.2: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Krahnenburgstraße 19 - einstimmig beschlossen
+- TOP 7.3: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ulenbergstraße 102 - einstimmig beschlossen
+- TOP 7.4: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Moorenstraße 5 - einstimmig beschlossen
+- TOP 7.5: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Paulistr. 4 - einstimmig beschlossen
+- TOP 7.6: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Dreherstraße 202, Träger: Katholische Kirchengemeinde St. Margareta - einstimmig beschlossen
+- TOP 7.7: Investitionszuschüsse an freie Träger von Tagespflegeeinrichtungen für Kinder - hier: GTP Roßstraße 120 - einstimmig beschlossen
+- TOP 7.8: Investitionszuschüsse an freie Träger von Tagespflegeeinrichtungen für Kinder - hier: GTP Ulenbergstraße 1 - einstimmig beschlossen
+- TOP 8: Jugendförderung
+- TOP 8.1: Ergebnisbericht zur offenen Online-Befragung von Jugendlichen und jungen Erwachsenen 2019 - zur Kenntnis genommen
+- TOP 8.2: Controllingbericht Jugendförderung 2019 - zur Kenntnis genommen
+- TOP 8.3: Investitionskostenzuschüsse an freie Träger der Jugendhilfe - einstimmig beschlossen
+- TOP 8.4: Trägerwechsel Kinder- und Jugendfreizeiteinrichtung Sternwartstraße - einstimmig beschlossen
+- TOP 8.5: Schulsozialarbeit in Düsseldorf - zur Kenntnis genommen
+- TOP 9: Soziale Dienste
+- TOP 9.1: Jugendhilfe im Strafverfahren - Jahresbericht 2019 - zur Kenntnis genommen
+- TOP 10: Familienförderung
+- TOP 10.1: Digitalisierung in den Erziehungsberatungsstellen - zur Kenntnis genommen
+- TOP 10.2: Jugendhilfeplanung Familienbildung - Angebote zur Förderung von Erziehung in der Familie - einstimmig beschlossen
+- TOP 11: Anerkennungen als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 11.1: Unbefristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Bildungs- und Freizeitakademie e.V. - einstimmig beschlossen
+- TOP 11.2: Befristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Kila-Bilk e.V. - einstimmig beschlossen
+- TOP 11.3: Befristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Naturkindergarten Üllehüt e.V. - einstimmig beschlossen
+- TOP 11.4: Unbefristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Bärenclub gGmbH - einstimmig beschlossen
+- TOP 12: Fachübergreifende Vorlagen
+- TOP 12.1: Verwaltungskäfte im Jugendamt - zur Kenntnis genommen
+- TOP 12.2: Beschlusskontrolle I/2020 - zur Kenntnis genommen
