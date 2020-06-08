@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-08T17:00:00+02:00
+- Ende: 2020-06-08T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21769
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21769
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: EDELGARD schützt - Aktueller Sachstand und Evaluationsbericht - Kenntnis genommen
+- TOP 1.2: Tätigkeitsbericht 2019 des Amtes für Gleichstellung von Frauen und Männern - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 02.12.2019 betreffend "Messenger-Dienst als städtisches Kommunikationsmittel" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 27.01.2020 betreffend "Umsetzungsstand des Projektes "Optimierung der städtischen Fördermittelvergabe" (4200/2019) - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 04.05.2020 betreffend "Falschparken auf Gehwegen" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage aus der Sitzung des AVR vom 04.05.2020 betreffend "Städtepartnerschaftskonzept" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung des Personal- und Verwaltungsmanagements zu der Thematik Marketingsmaßnahmen / Personalgewinnung - Kenntnis genommen
+- TOP 4.2: Brüsseler Platz - Gerichtlicher Vergleich vor dem OVG NRW am 20. November 2019 - Kenntnis genommen
+- TOP 4.3: Kinderfreundliche Kommune Köln - Kenntnis genommen
+- TOP 4.4: Mitgliedschaft der Stadt Köln bei Transparency International - Kenntnis genommen
+- TOP 4.5: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 4.6: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen 2019 - Kenntnis genommen
+- TOP 4.7: Evaluationsbericht zum vereinfachten Ersatzbeschaffungsverfahren von Rettungsdienstfahrzeugen durch die Festlegung von Nutzungsdauern - Kenntnis genommen
+- TOP 4.8: Mitteilung des Personal- und Verwaltungsmanagements zum Kaufhof-Bewerbertag in 2019 - Kenntnis genommen
+- TOP 4.9: Kompensationszahlung der Stadt Köln für 2019 - Kenntnis genommen
+- TOP 4.10: Transparenzbericht 2019 zur Verwaltungsreform #wirfürdiestadt - Kenntnis genommen
+- TOP 4.11: Mitteilung zum Änderungsbeschluss vom 23.04.2018 (AN/0629/2018) - zurückgestellt
+- TOP 4.12: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 4.13: Inklusionstaxen in Köln - Kenntnis genommen
+- TOP 4.14: Pilotprojekt barrierefreie Indoor-Navigation bei 33 - Kenntnis genommen
+- TOP 4.15: Veränderte Prioritäten im Klimaschutz - Kenntnis genommen
+- TOP 4.16: Einsatz von Bodycams bei der KVB - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Einsatzkonzepte Karneval Streetwork und Ordnungsdienst" - zurückgestellt
+- TOP 6.2: Anfrage der CDU-Fraktion betreffend "Untersuchung der Auswirkungen von Sauberkeit auf die Sicherheitssituation im öffentlichen Raum" - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0754/2020 - Untersuchung der Auswirkungen von Sauberkeit auf die Sicherheitssituation im öffentlichen Raum - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Aktuelles zur Corona-Pandemie
+- TOP 7.2: Wahllokal im Stadtteil Porz-Gremberghoven
+- TOP 7.3: Webseite Coronahilfen
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der FDP-Fraktion betreffend "Maßnahmen zur digitalen und kontaktlosen Datenerfassung" - Sache ist erledigt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2020 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke betreffend TOP 10.1 "Stellplatzsatzung für Köln" (3217/2019) - zurückgestellt
+- TOP 10.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend TOP 10.2 "Herstellung von Barrierefreiheit auf Kölner Gehwegen" (2763/2019) - zurückgestellt
+- TOP 10.3: Erweiterung des Wallraf-Richartz-Museums (WRM) und Fondation Corboud und Randbebauung - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Umsetzung des Förderprogramms "DigitalPakt NRW" zur Digitalisierung der Kölner Schulen - außerplanmäßige Auszahlungen im Teilfinanzplan 0301 Schulträgeraufgaben in den Haushaltsjahren 2020 und 2021 - ungeändert beschlossen
+- TOP 10.5: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Besondere Regelung zur "Straßenmusik im Domumfeld" - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
