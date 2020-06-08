@@ -1,0 +1,115 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-08T16:00:00+02:00
+- Ende: 2020-06-08T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21955
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21955
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776113.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776113.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776113.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gymnasium Zusestraße
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Bewegungsraum Sport - ungeändert beschlossen
+- TOP 8.1.2: Sicherung des Fußgängerverkehres und der Barrierefreiheit auf den Fußwegen in der Wichterichstraße in Köln Sülz - zurückgestellt
+- TOP 8.1.3: Öffnung Einbahn Klosterstraße von Clarenbachstraße bis Aachener Straße - ungeändert beschlossen
+- TOP 8.1.4: Sanierung Eupener Straße - endgültig zurückgezogen
+- TOP 8.1.4.1: Ersetzungsantrag zu 8.1.4 - ungeändert beschlossen
+- TOP 8.1.5: Verlängerung Bus Hohenlind zu Dezember 2020 - endgültig zurückgezogen
+- TOP 8.1.5.1: Ersetzungsantrag zu 8.1.5 - ungeändert beschlossen
+- TOP 8.1.6: Spielplatz Frechener Platz - ungeändert beschlossen
+- TOP 8.1.7: Optimierung der Verkehrsinfrastruktur und Erhöhung der Verkehssicherheit in - endgültig zurückgezogen
+- TOP 8.1.8: Unzureichende Beleuchtungssituation an einem Teilbereich der Belvederestraße in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.9: Genehmigung eines offenen Bücherschrankes in Köln Weiden, Emil-Schreiterer-Platz - ungeändert beschlossen
+- TOP 8.1.10: Spielplatz Gleueler Straße/ Ecke Mommsenstraße - ungeändert beschlossen
+- TOP 8.1.11: Bezirksorientierte Mittel 06/2020 - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.1.2: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - geändert beschlossen
+- TOP 9.1.2.1: Ergänzungsantrag zu 9.1.2 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: 209. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Sülz, Arbeitstitel: "Erweiterung RheinEnergieSportpark" in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan 63419/02, - ungeändert beschlossen
+- TOP 9.2.3: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 9.2.4: Konzept für die SeniorenNetzwerke Köln - zurückgestellt
+- TOP 9.2.5: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - geändert beschlossen
+- TOP 9.2.5.1: Ergänzungsantrag zu 9.2.5 - ungeändert beschlossen
+- TOP 9.2.6: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - ungeändert beschlossen
+- TOP 9.2.7: Freigabe einer Auszahlungsermächtigung für die Umgestaltung des Universitätsboulevards zwischen Bachemer Straße und Meister-Ekkehart-Straße, hier: Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ungeändert beschlossen
+- TOP 9.2.8: Stellplatzsatzung für Köln - geändert beschlossen
+- TOP 9.2.8.1: Ergänzungsantrag zu 9.2.8 - ungeändert beschlossen
+- TOP 9.2.8.2: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - geändert beschlossen
+- TOP 9.2.9: Generalsanierung Fort Deckstein - geändert beschlossen
+- TOP 9.2.10: Erstellung eines Neubaus für eine Grundschule mit einer Einfeldsporthalle in der Statthalterhofallee, 50858 Köln-Junkersdorf - geändert beschlossen
+- TOP 9.2.10.1: Ergänzungsantrag zu 9.2.10 - ungeändert beschlossen
+- TOP 9.2.11: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 11.3.2: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 11.3.3: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 11.3.4: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 11.3.5: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 11.3.6: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.3.7: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 11.3.8: Vogelsanger Weg 43 - Errichtung eines Gemeindezentrums - Kenntnis genommen
+- TOP 11.3.9: Waldlabor Köln: Untersuchung des Wachstums der Klimawaldbäume - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen aus vorangegangenen Sitzungen
+- TOP 12.1: Maßnahmen gegen illegale Sprayaktionen und Farbschmierereien - zurückgestellt
+- TOP 12.2: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.3: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.4: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.5: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.6: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.7: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.8: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.9: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich - zurückgestellt
+- TOP 12.10: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.11: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.12: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.13: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.14: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.15: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.16: Begegnungsräume in Widdersdorf - zurückgestellt
+- TOP 12.17: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.18: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 12.19: Ergänzung der Arbeitsplatzbeschreibung der Schulhausmeister im Bezirk 3 als Baustein eines kommunalen Energie- und Umweltmanagements - zurückgestellt
+- TOP 12.20: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
+- TOP 12.21: Einsatz von E-Bussen auf der Aachener Straße an den Messstellen - Sache ist erledigt
+- TOP 12.22: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 12.23: Bauvorhaben Bürokomplex Eupener Straße/Stolberger Straße - zurückgestellt
+- TOP 12.24: Baumfällungen - zurückgestellt
+- TOP 12.25: Anwohnerschutzkonzept - zurückgestellt
+- TOP 12.26: Beleuchtung Kreisverkehr Lise-Meitner-Ring / Adrian-Meller-Straße - zurückgestellt
+- TOP 12.27: Sachstand Bahnsteigverlängerungen Linie 1 - zurückgestellt
+- TOP 12.28: Betlehem-Platz in Köln-Widdersdorf - zurückgestellt
+- TOP 12.29: Radverkehr-Konzept Köln Widdersdorf - zurückgestellt
+- TOP 12.30: Mommsenstraße - zurückgestellt
+- TOP 12.31: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.32: Verlegung der Großmarktes von Raderberg nach Marsdorf - zurückgestellt
+- TOP 12.33: Aufstellung der Werbe- und Informationstafeln im Rheinenergiesportpark - zurückgestellt
