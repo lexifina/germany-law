@@ -1,0 +1,70 @@
+# Beteiligungsausschuss (50. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-06-08T17:00:00+02:00
+- Ende: 2020-06-08T18:26:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Sitzungsraum 510
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcTdxytta9yxqkliIzP78Zk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5939
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVwNo0gT7ir21UEPL3kFug55WS63dSj80jGOwBUAMGU_/Bekanntmachung_Beteiligungsausschuss_08.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgr9plhS1oAM7PmlxpumkH7WN9xSjmmQvDw5jCWpdlt/Oeffentliche_Niederschrift_Beteiligungsausschuss_08.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: ÖPNV in Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 47. Sitzung des Beteiligungsausschuss am 03.02.2020
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Jahresabschluss 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 7.: Wirtschaftsplan 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8.: Jahresabschluss 2019 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Städtisches Klinikum Solingen gemeinnützige GmbH - Aktuelle Lage
+- TOP 1.2: Städtisches Klinikum Solingen gemeinnützige GmbH - Geschäftsführung
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 46. Sitzung des Beteiligungsausschuss am 16.12.2019
+- TOP 4.: Protokoll über die 47. Sitzung des Beteiligungsausschuss am 03.02.2020
+- TOP 5.: Auswirkungen der Corona-Krise Berichte von der Beteiligungsgesellschaft Stadt Solingen mbH, Stadtwerke Solingen GmbH, Musikschule Solingen, Wirtschaftsförderung Solingen GmbH & Co. KG und den Berg. Symphonikern - mündlicher Bericht -
+- TOP 6.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 7.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 8.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 9.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 10.: Städtische Musikschule Solingen GmbH - Erteilung einer Prokura
+- TOP 11.: Wirtschaftsplan 2020 / 2021 der Städtischen Musikschule Solingen GmbH
+- TOP 12.: Städtische Musikschule Solingen GmbH - Einzahlung in die Kapitalrücklage
+- TOP 13.: Städtische Musikschule Solingen GmbH - Bestellung des Abschlussprüfers für das Geschäftsjahr 2019 / 2020
+- TOP 14.: Bergische Symphoniker GmbH - Jahresabschluss 2018/2019
+- TOP 15.: Bergische Symphoniker GmbH - Wirtschaftsplan 2020/2021
+- TOP 16.: Städtisches Klinikum gemeinnützige GmbH (SKS) - Entwicklung Masterplan SKS 2025 - Feststellung des Verfahrens und Begleitung durch den Aufsichtsrat
+- TOP 17.: Jahresabschluss 2019 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 18.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2020
+- TOP 19.: Jahresabschluss 2019 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 20.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Vermietung Teilfläche Eugen-Maurer-Haus
+- TOP 21.: Stadtentwicklungsgesellschaft Solingen [SEG] – Einbringung des städtischen Grundstücks „Schwanenstraße 94“ zum Bau einer städtischen KiTa sowie weiterer Wohnungen in die Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 22.: Wirtschaftsplan 2020 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 23.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Wechsel im Beirat
+- TOP 24.: Jahresabschluss 2019 der Neue Effizienz GmbH
+- TOP 25.: Neue Effizienz GmbH - Bestellung des Abschlussprüfers für das Jahr 2020
+- TOP 26.: Neue Effizienz GmbH - Verfügung über Geschäftsanteile
+- TOP 27.: Stadtwerke Solingen GmbH - Erwerb von Geschäftsanteilen an der Trianel Wind und Solar GmbH & Co. KG (TWS)
+- TOP 28.: Jahresabschluss 2018/19 der itec solingen gmbh (itec)
+- TOP 29.: Jahresabschluss 2018/19 der EDL Solingen GmbH (EDL)
+- TOP 30.: EDL Solingen GmbH (EDL) - Bestellung eines Abschlussprüfers für den Jahresabschluss 2019/20
+- TOP 31.: Jahresabschluss 2019 der Entsorgung Solingen GmbH
+- TOP 32.: Jahresabschluss 2019 der Elba Omnibusreisen GmbH
+- TOP 33.: Jahresabschluss 2019 der Wasserwerk Baumberg GmbH
+- TOP 34.: Jahresabschluss 2019 der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 35.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Städtischen Musikschule Solingen GmbH
+- TOP 36.: Verschiedenes
+- TOP 36.1: Mitteilungen der Verwaltung
+- TOP 36.2: Anfragen an die Verwaltung
