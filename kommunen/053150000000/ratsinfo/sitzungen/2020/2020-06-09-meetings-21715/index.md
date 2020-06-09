@@ -1,0 +1,66 @@
+# 44. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-09T15:30:00+02:00
+- Ende: 2020-06-09T20:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21715
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21715
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Schrift. Antrag der Fraktionen der CDU und Bündnis 90 / Die Grünen; hier: Veranstaltungen in Köln - ungeändert beschlossen
+- TOP 3.2: Schrift. Antrag der SPD-Fraktion; hier: Folgen der COVID19-Pandemie für die Kölner Kulturszene - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen der CDU und Bündnis 90 / Die Grünen zu Top 3.2.: Antrag SPD „Folgen der COVID19-Pandemie für die Kölner Kulturszene" - geändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Literatur - ungeändert beschlossen
+- TOP 4.2: Förderung von Interessenvertretungen der freien Szene in Form von institutionellen Förderungen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 4.3: Entwicklung und Renovierung Volkhovener Weg 209 - 211 als Atelierstandort - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen - endgültig abgelehnt
+- TOP 4.4: Bedarfsfeststellung zum Wechsel auf ein zukunftsfähiges Bibliotheksmanagementverfahren bei der Stadtbibliothek - ungeändert beschlossen
+- TOP 4.5: Betrieb der Websites der Museen und des Museumsportals, hier: Bedarfsfeststellung und Vorbereitung der Vergabeverfahren - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 4.6: Erneuerung einer Raumlufttechnischen Anlage im Museum Ludwig und Philharmonie - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen 2020, hier: 2. Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung von 6 Papierarbeiten des Künstlers Wade Guyton für das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Externe Studie "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - Kenntnis genommen
+- TOP 8.1.1: Vorstellung des Gutachtens "Sicherung der Clubkultur in Köln Ehrenfeld durch Bauleitplanung" durch das Stadtplanungsamt - Kenntnis genommen
+- TOP 8.1.2: Vorstellung des Clubkatasters Köln - zurückgestellt
+- TOP 8.2: Beantwortung der Anfrage der SPD-Fraktion im Hauptausschuss; betr.: "Unterstützung für die Kultur und Wirtschaft im Angesicht der COVID-19-Pandemie" (AN/0452/2020) - Kenntnis genommen
+- TOP 8.3: Der Jahresbericht 2019 des NS-Dokumentationszentrums der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Kenntnisnahme einer Dauerleihgabe: Bronzemodell von Kastell Divita für den sogenannten archäologischen Balkon in Köln Deutz - Kenntnis genommen
+- TOP 8.5: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverbandes Rheinland für 2020, hier: museale Projekte - Kenntnis genommen
+- TOP 8.6: Anfrage der Fraktion Bündnis90/Die Grünen im Hauptausschuss; hier: Unterstützung von Solokünstlerinnen und -künstlern - Kenntnis genommen
+- TOP 8.7: Erster Evaluationsbericht zum KEP - zurückgestellt
+- TOP 8.8: Ergebnis Runder Tisch „Kulturbaustein Helios“: Abschlussdokumentation und Nutzungs- und Entwicklungskonzept der Initiative der Kulturschaffenden Helios - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.9: Beteiligung der Stadt Köln am Förderaufruf des Landes "kinderstark - NRW schafft Chancen" - Kenntnis genommen
+- TOP 8.10: Stand der Anträge und Bewilligungen "Notfallfonds zur Struktursicherung freier Kulturinstitutionen in Corona-bedingten Krisensituationen" - zurückgestellt
+- TOP 8.11: Wiedereröffnung der Museen, hier: Aktuelle Besucherzahlen nach der Corona-Krise - zurückgestellt
+- TOP 8.12: Umsetzung Notfallfonds zur Struktursicherung bei durch die Corona-Pandemie betroffenen Livemusikspielstätten - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 18. Mai 2020 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 18. Mai 2020 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 15.05.2020 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Beantwortung der Anfrage AN/0366/2020 der CDU-Fraktion/Fraktion Bündnis/Die Grünen im Kulturausschuss der Stadt Köln vom 10.3.2020: Sachstand Simultanhalle - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Auswirkungen von COVID19 auf die Spielzeit 2020/21 - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Mündliche Anfrage Professor Bögner; hier: Jubiläum x-mal Mensch Stuhl
+- TOP 12.4: Mündliche Anfrage Frau von Bülow; hier: Sachstand Recherchestipendien
+- TOP 12.5: Tagesordnungspunkt (betrifft Privatpersonen)
