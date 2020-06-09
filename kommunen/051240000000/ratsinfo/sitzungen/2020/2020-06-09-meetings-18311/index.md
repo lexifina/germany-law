@@ -1,0 +1,60 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-09T18:00:00+02:00
+- Ende: 2020-06-09T20:00:00+02:00
+- Ort: Station Natur und Umwelt, Jägerhofstr. 229,  42349 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18311
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18311
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt Stand: 04.06.2020 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00256548.pdf
+
+## Tagesordnung
+
+- TOP 1: Controllingliste der Beschlüsse und Aufträge der Bezirksvertretung - Entgegennahme ohne Beschluss
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Niederschrift 05.02.2020 - Einsprüche - ungeändert beschlossen
+- TOP 4: Einbahnstraßenregelung Kreuzkirche/ Änderung zu VO/1130/18 Fahrradstraße Neue Friedrichstraße - Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 5: Bürgerantrag Gehwegparken Bankstraße nach §24 GO - geändert beschlossen
+- TOP 6: Antrag gem §24 GO NRW: Durchgehende Markierung des Radweges Wall - ungeändert beschlossen
+- TOP 7: Erweiterung der Tempo 30- Strecke in der Gaußstraße - ungeändert beschlossen
+- TOP 8: Radverkehrskonzept Achse 6 / Planungsstand Abschnitt H – Radfahrstreifen Friedrich-Engels-Allee (B7) - ungeändert beschlossen
+- TOP 9: Verkehrssichernde Maßnahmen in der Lilienthalstraße - ungeändert beschlossen
+- TOP 10: Außengastronomie Parkstreifen Friedrich-Ebert-Straße 85 und Luisenstraße (-viertel) - ungeändert beschlossen
+- TOP 10.1: Antrag des Gastronomiebetriebes Schimmerlos Friedrich-Ebert-Straße 85 - ungeändert beschlossen
+- TOP 10.2: Anfrage eines Gastronomiebetriebes im Bereich des Luisenviertels - ungeändert beschlossen
+- TOP 11: Antrag auf Nutzung des städtischen bewirtschafteten Parkplatzes an der Aue ggü. Hausnummer 14/16 für eine Außengastronomie - abgelehnt
+- TOP 12: Anlage eines Radweges im Bereich Karlsplatz - ungeändert beschlossen
+- TOP 13: Sanierung der Unterseite der Bembergbrücke - ungeändert beschlossen
+- TOP 14: Grundhafte Instandsetzung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 15: Stellplatzsatzung der Stadt Wuppertal; Ergänzungen nach erster Beratung - vertagen
+- TOP 16: Stellplatzsatzung der Stadt Wuppertal - vertagen
+- TOP 17: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung); Ergänzungsvorlage nach erster Beratung - vertagen
+- TOP 18: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - vertagen
+- TOP 19: Änderung der städtischen Parkgebührenordnung durch Erhöhung der Gebühren für das Tagesticket - ungeändert beschlossen
+- TOP 20: Konzept "Innenentwicklungskonzept Wuppertal" - ungeändert beschlossen
+- TOP 21: Aktualisierung des Einzelhandels- und Zentrenkonzeptes Wuppertal - ungeändert beschlossen
+- TOP 22: Stadtentwässerung- Maßnahmenkatalog 2021/ Katalogentwurf 2022 - ungeändert beschlossen
+- TOP 23: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2021) - ungeändert beschlossen
+- TOP 24: Bebauungsplan 1119 - Ohligsmühle- Aufhebung des Aufstellungsbeschlusses - ungeändert beschlossen
+- TOP 25: Döppersberg Platz Ost - Gestaltungsvorschläge - Durchführung einer Bürgerbeteiligung - abgelehnt
+- TOP 26: Gestaltung Primark Platz Ost - abgelehnt
+- TOP 27: Aktualisierung der Vorhabenliste für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 28: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 29: Satzung für die Benennung von Straßen, Wegen und Plätzen und Benennungen im Rahmen der Erinnerungskultur - ungeändert beschlossen
+- TOP 30: Freigabe der Friedrichstraße für den Radverkehr in Gegenrichtung - ungeändert beschlossen
+- TOP 31: Radwegeführung parallel zur B7 - ungeändert beschlossen
+- TOP 32: Elektromobilitätskonzeptes für die Stadt Wuppertal, Lieferverkehr mit Elektrofahrzeugen in den beiden Innenstadtbereichen, Umsetzung prioritärer Maßnahmen als Pilotversuch - ungeändert beschlossen
+- TOP 33: Zwischenbericht Fördervorhaben "Kurze Wege für den Klimaschutz" - Entgegennahme ohne Beschluss
+- TOP 34: Statusbericht Schottervorgärten - Entgegennahme ohne Beschluss
+- TOP 35: Neugewichtung Sozialdatenatlas - Entgegennahme ohne Beschluss
+- TOP 36: Lärmaktionsplan der Runde III für die Stadt Wuppertal - Öffentliche Auslegung des Entwurfes - Entgegennahme ohne Beschluss
+- TOP 37: Verwendung der Mittel nach dem Gemeindefinanzierungsgesetz (GFG) - ungeändert beschlossen
+- TOP 38: Freie Mittel aus dem Budget 2020
+- TOP 38.1: Antrag des Carl-Fuhlrott-Gymnasiums auf einen Zuschuss für das " Labor der kleinen Forscher" - ungeändert beschlossen
+- TOP 38.2: Antrag der "Alte Feuerwache gGmbH auf finanzielle Unterstützung zur Anschaffung einer neuen Kücheneinrichtung - ungeändert beschlossen
+- TOP 38.3: Antrag des Forums Mirke auf einen Zuschuss zur Öffentlichkeitsarbeit im Mirker Quartier - ungeändert beschlossen
+- TOP 38.4: Bereitstellung freier Mittel für die Station Natur und Umwelt - ungeändert beschlossen
+- TOP 39: Berichte und Mitteilungen
