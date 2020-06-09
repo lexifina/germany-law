@@ -1,0 +1,28 @@
+# Raserei und illegale Autorennen: „Akustik-Blitzer“ gegen Lärmbelästigung
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Drucksache/Vorlage: 1213/XX
+- Art: Mitteilung zur Kenntnisnahme
+- Datum: 2020-06-09
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7052
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/papers.asp?id=7052
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=331280
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5651 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5652 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5653 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Entscheidung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5425 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Beratung: Beratung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6068 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Beratung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6145 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Beratung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6227 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Beratung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6245 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Entscheidung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5431 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Beratung: Erledigung  https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=33
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5910 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6051 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6075 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6073 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6192 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6141 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6266 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- underDirectionOf: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=3
