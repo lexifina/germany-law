@@ -1,0 +1,72 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-09T14:10:00+02:00
+- Ende: 2020-06-09T16:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21770
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21770
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Coming out Day e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Mittelverteilung an das Familienhaus Chorweiler – Sozialdienst Katholischer Frauen e.V. in den Haushaltsjahren 2020 ff aus dem Teilplan 0606 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2020/21 - ungeändert beschlossen
+- TOP 2.3.2: § 55 Abs. 2, Satz 2 KiBiz neue Fassung - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Annahme einer zweckgebundenen Spende und Neugestaltung des Spielplatzes Keupstraße in Köln-Mülheim - ungeändert beschlossen
+- TOP 3.2: Errichtung einer Trendsportanlage in Köln / Porz - Finkenberg im Rahmen des Entwicklungsprogramms "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Ernährungsstrategie für Köln und Umgebung - ungeändert beschlossen
+- TOP 4.2: Annahme zweckgebundener Spenden von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e.V." an die Kinder- und Jugendpädagogische Einrichtung der Stadt Köln - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Familienfreundliches Köln – Kita von 3 – 6 Jahren endlich beitragsfrei - endgültig abgelehnt
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP -: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.1.2: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - Kenntnis genommen
+- TOP -: Bedarfsplan zur Kindertagesbetreuung in Kitas und Tagespflege - Kenntnis genommen
+- TOP 6.1.3: Einsatzkonzepte Karneval Streetwork und Ordnungsdienst - Kenntnis genommen
+- TOP -: Einsatzkonzept Karneval Streetwork und Ordnungsdienst - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Erhalt der Jugendeinrichtung „Take Five“ sichern - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Ergänzung zur Mitteilung „Jugendbefragung und dann…, Erste Bilanzierung“ (Session 0178/2020) - Kenntnis genommen
+- TOP 8.2.2: Beteiligung der Stadt Köln am Förderaufruf des Landes "kinderstark - NRW schafft Chancen" - Kenntnis genommen
+- TOP 8.2.3: Teilneubau des Ingenieurwissenschaftlichen Zentrums (IWZ) der TH Köln am Standort Deutz - Umzug der Kita Gießener Str. 30 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Bearbeitung von Beschwerden über die Arbeit des Allgemeinen Sozialen Dienstes (ASD), des Pflegekinderdienst (PKD) sowie des Gefährdungsmeldungs-Sofort-Dienstes (GSD) und im Bereich Beistandschaft (BE) - Kenntnis genommen
+- TOP 8.3.2: Umstellung der Fördersystematik von Ehe-, Lebensberatungs-, Familienberatungsstellen sowie sonstigen Fachberatungsstellen ab 2021 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Wie leben queere Jugendliche in Köln? - Kenntnis genommen
+- TOP 8.5.2: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 8.5.3: Ausstiegs-Szenarien aus den Corona-Beschränkungen entwickeln – schrittweise Betreuung ausweiten - Kenntnis genommen
+- TOP 8.5.4: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.5.5: Sachstandsbericht für das Jahr 2019 zu den EHAP-Projekten ALVENI links und rechts vom Rhein - Kenntnis genommen
+- TOP 8.5.6: 28. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.7: Städtische Kindertageseinrichtungen im Bundesprogramm „Sprach-Kitas: Weil Sprache der Schlüssel zur Welt ist“ - Kenntnis genommen
+- TOP 8.5.8: Ausbau der Schulsozialarbeit 2020 - Kenntnis genommen
+- TOP 8.5.9: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2020/2021 - Kenntnis genommen
+- TOP 8.5.10: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - Kenntnis genommen
+- TOP 8.5.11: Auswirkungen der Corona-Krise auf die Angebote des Amtes für Kinder, Jugend und Familie – Maßnahmen, aktueller Sachstand - Kenntnis genommen
