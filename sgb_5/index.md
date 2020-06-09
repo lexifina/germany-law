@@ -99,7 +99,6 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 29 Kieferorthopädische Behandlung](0029.md)
 - [§ 30](0030.md)
 - [§ 30a](0030a.md)
-- [§ 31 Arznei- und Verbandmittel, Verordnungsermächtigung](0031.md)
 - [§ 31a Medikationsplan](0031a.md)
 - [§ 31b Referenzdatenbank für Fertigarzneimittel](0031b.md)
 - [§ 31c Beleihung mit der Aufgabe der Referenzdatenbank für Fertigarzneimittel;Rechts- und Fachaufsicht über die Beliehene](0031c.md)
@@ -423,7 +422,6 @@ Leistungserbringung
 - [§ 137e Erprobung von Untersuchungs- und Behandlungsmethoden](0137e.md)
 - [§ 137f Strukturierte Behandlungsprogramme bei chronischen Krankheiten](0137f.md)
 - [§ 137g Zulassung strukturierter Behandlungsprogramme](0137g.md)
-- [§ 137h Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse](0137h.md)
 - [§ 137i Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern; Verordnungsermächtigung](0137i.md)
 - [§ 137j Pflegepersonalquotienten, Verordnungsermächtigung](0137j.md)
 - [§ 138 Neue Heilmittel](0138.md)
@@ -440,7 +438,6 @@ Leistungserbringung
 
 ### Elfter Abschnitt Sonstige Beziehungen zu den Leistungserbringern
 
-- [§ 140a Besondere Versorgung](0140a.md)
 - [(XXXX) §§ 140b bis 140d (weggefallen)](xxxx-140b-bis-140d.md)
 
 ### Zwölfter Abschnitt Beziehungen zu Leistungserbringern europäischer Staaten
