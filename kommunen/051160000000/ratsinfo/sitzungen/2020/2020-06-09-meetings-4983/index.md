@@ -1,0 +1,59 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-06-09T17:00:00+02:00
+- Ende: 2020-06-09T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4983
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4983
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00180843.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00180843.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00180843.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 41. Sitzung des Hauptausschusses vom 22.04.2020 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Verleihung des goldenen Schöffensiegels - Einstimmiger Beschluss
+- TOP 3: Genhemigung der Bestellung eines Vorstandsmitgliedes der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 4: Heimat-Preis der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: Bericht zum Strategischen Controlling - Kenntnisnahme
+- TOP 6: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (1. Nachweisung) - Kenntnisnahme
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (6. Nachweisung) - Kenntnisnahme
+- TOP 8: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH - Kenntnisnahme
+- TOP 9: Beteiligung der Standort Niederrhein GmbH - Ohne Abstimmung
+- TOP 10: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City an der Stadtentfalter GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 11: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW Re GmbH an der NEW WindparkLinnich GmbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 12: Anpassung des Gesellschaftsvertrages der GEM an die aktuelle Situation - Einstimmiger Beschluss
+- TOP 13: Touristeninformation - Kenntnisnahme
+- TOP 14: Beteiligung an der Partnerschaft Deutschland Gmbh - Einstimmiger Beschluss
+- TOP 15: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" - Einstimmiger Beschluss
+- TOP 16: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Steuern, allgemeine Zuweisungen und Umlagen" - Einstimmiger Beschluss
+- TOP 17: Finanzbericht - Kenntnisnahme
+- TOP 18: Bereitstellung überplanmäßiger Haushaltsmittel für den Gebührenhaushalt Rettungsdienst - Einstimmiger Beschluss
+- TOP 19: Erhöhung der Regelzügigkeit an der Geschwister-Scholl-Realschule - Einstimmiger Beschluss
+- TOP 20: Fortführung der Familienkarte Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 21: Weiterführung des Projektes Jugendbildungscafè in Rheydt - Einstimmiger Beschluss
+- TOP 22: Verlängerung der Leistungsvereinbarungen über das Angebot Mahlzeitendienst - Einstimmiger Beschluss
+- TOP 23: Wiederwahl einer Schiedsfrau für den Schiedsamtsbezirk Mönchengladbach-West/2 (Wickrath) - Einstimmiger Beschluss
+- TOP 24: Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 25: Prävention vor Intervention – Entsäulung der Jugendhilfe - Mit Stimmenmehrheit beschlossen
+- TOP 26: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 Alten- und Pflegegesetz NRW (APG NRW) - Einstimmiger Beschluss
+- TOP 27: Satzung der Stadt Mönchengladbach über die Erhebung von Elternbeiträgen für die Inanspruchnahme von Kindertageseinrichtungen, Spielgruppen und Kindertagespflege (Elternbeitragssatzung) - Einstimmiger Beschluss
+- TOP 28: Kinderstark - NRW schafft Chancen - Einstimmiger Beschluss
+- TOP 29: Förderung von flexibler Betreuung in Kindertageseinrichtungen nach dem Gesetz zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Förderung von plusKita Einrichtungen nach dem Gesetz zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) - Einstimmiger Beschluss
+- TOP 31: Vergnügungsstättenkonzept der Stadt Mönchengladbach 2013: 1. Änderung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 32: Beschluss des Rahmenplanes Hochschulquartier mg+ - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 33: Neuorganisation der Feuerwachen: Ausführungsbeschluss über den Neubau einer Rettungswache (FRW III) für den Rettungsdienst und die Freiwillige Feuerwehr (Einheit Rheydt) am Standort Rheydt. - Einstimmiger Beschluss
+- TOP 34: Rathaus der Zukunft mg+ - Eröffnungsbilanz u. Jahresabschluss 2019 der eigenbetriebsähnlichen Einrichtung - Mit Stimmenmehrheit beschlossen
+- TOP 35: Mobile Endgeräte - Vom Antragsteller zurückgezogen
+- TOP 36: Queere Sichtbarkeit auch in der Coronakrise gerade in Mönchengladbach - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 36.1: Vorlage 5221/IX: Regenbogenbeflaggung ab sofort jährlich und unaufgefordert für die Dauer von einer Woche im Vorfeld und am Tag des Christopher-Street-Days (CSD) an den Rathäusern und den Bezirksverwaltungsstellen - Mit Stimmengleichheit abgelehnt
+- TOP 37: Fraktionsantrag zur Vorlage-Nr. 5098/IX, hier: Reduzierung Hohenzollernstraße für Radweg - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Soforthilfe-Programm zur digitalen Teilhabe von Schülerinnen und Schülern - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Einzelhandel und Gastronomie in Corona-Zeiten stärken - Geheime Abstimmung
+- TOP 40: Kommunale Handlungsoptionen für Beziehende von Transferleistungen zur Bekämpfung der Folgen der - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Anfragen und Mitteilungen
