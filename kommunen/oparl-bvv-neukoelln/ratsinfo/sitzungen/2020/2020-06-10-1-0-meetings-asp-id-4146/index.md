@@ -1,0 +1,76 @@
+# Fortsetzung der 47. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-06-10T17:10:00+02:00
+- Ende: 2020-06-10T22:40:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4146
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4146
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 1.1: Lässt der Bezirk Geld im Park liegen? - schriftlich beantwortet
+- TOP 1.2: Strategie gegen Vereinsamung - beantwortet
+- TOP 1.3: Neukölln macht´s vor! Ein barrierefreier Spielplatz für Alle - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.4: Grüne Dächer für BVG- Wartehäuschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.5: Neukölln wächst zu - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.6: Vorbereitende Untersuchung Milieuschutzgebiet Gropiusstadt beauftragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.7: Fußgänger*innenfreundliche Querung Werbellinstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8: Familien-Service-Büro für Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.9: Schaffung eines Bundesleistungsgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.10: Stelle eines / einer Beauftragten für Senioren einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.11: Bürgerämter entlasten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.12: Pflichtaufgaben der Bürgerämter durch Bezirke sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.13: Beteiligung am europaweiten autofreien Tag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.14: Selbstbestimmte dritte Option zum Geschlechtseintrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.15: Kita Riesestraße 1-2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.16: Hänselstraße zwischen Sonnenallee und Gretelstraße zum verkehrsberuhigten Bereich umwidmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.17: Bauende informieren – Umweltsituation verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.18: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.19: Flächen für produzierendes Gewerbe sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.20: Reinigung der Grünflächen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.21: Aktuelle Situation zur Bekämpfung der Corona-Pandemie - schriftlich beantwortet
+- TOP 1.22: Neukölln legt Corona lahm? - beantwortet
+- TOP 1.23: Soziale Auswirkungen in Zeiten von Corona - beantwortet
+- TOP 1.24: Schulöffnung während Corona - beantwortet
+- TOP 1.25: Beratung von Mieter*innen bei coronabedingtem Einnahmenausfall - beantwortet
+- TOP 1.26: Seniorenspielplatz - in der BVV abgelehnt
+- TOP 1.27: Handeln gegen das Bienensterben – Grünflächen als Wildblumenwiese - in der BVV abgelehnt
+- TOP 1.28: Inklusion auf Spielplätzen! - in der BVV abgelehnt
+- TOP 1.29: App exclamo als Pilotprojekt an Neuköllner Schule einführen - vertagt
+- TOP 1.30: Mehr Wohnungen im „Geschützten Marktsegment“ für Neukölln schaffen - vertagt
+- TOP 1.31: Einbahnstraße Prierosser - vertagt
+- TOP 1.32: Ampelanlage Neudecker Weg Ecke August-Fröhlich Straße - vertagt
+- TOP 1.33: Instandsetzung Notwasserbrunnen - vertagt
+- TOP 1.34: Erinnerung an Buckower Felder in Straßennamen bewahren - vertagt
+- TOP 1.35: Ordnungsamtmitarbeiter und Objektschutzmitarbeiter – Nur noch zu zweit auf Streife - vertagt
+- TOP 1.36: Ballungsraumzulage - vertagt
+- TOP 1.37: Zwischenbericht der BAO Fokus des LKA Berlin veröffentlichen - vertagt
+- TOP 1.38: Temporärer Radweg auf der südlichen Seite der Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Temporäre Radwege auf der Hermannstraße - vertagt
+- TOP 1.40: Temporäre Schließung von Nebenstraßen - vertagt
+- TOP 1.41: Hinweisschild für die Donaustraße 89 - vertagt
+- TOP 1.42: Corona-Infos für Mieter*innen auf die Bezirksamtswebsite stellen - vertagt
+- TOP 1.43: Sachleistungen statt Taschengeld - vertagt
+- TOP 1.44: Arbeit des Allgemeinen Ordnungsdienstes (OAD) in Corona-Zeiten - vertagt
+- TOP 1.45: Finanzielle Auswirkungen der Corona-Pandemie auf den Bezirk - vertagt
+- TOP 1.46: Periculum in mora! - Demokratie durch Links gefährdet - vertagt
+- TOP 1.47: Stellenwert und Ausstattung der Seniorenvertretung Neukölln - vertagt
+- TOP 1.48: Quarantänebrecher in Neukölln - vertagt
+- TOP 1.49: Wie können Selbstständige in Neukölln die Coronazeit überleben? - vertagt
+- TOP 1.50: Defekter Notwasserbrunnen Geygerstraße - vertagt
+- TOP 1.51: Umbenennung Haltestelle Jugendheim - vertagt
+- TOP 1.52: Flächen- und ressourcensparendes Bauen - vertagt
+- TOP 1.53: Trinkwasserspender für die Grundschule am Fliederbusch - vertagt
+- TOP 1.54: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.55: Fairen Einkauf für die Verwaltungen erleichtern - vertagt
+- TOP 1.56: Keine Zuwendungskürzungen für To Spiti und Al Muntada - vertagt
+- TOP 1.57: Ausweitung der Öffnungszeiten des Drogenkonsumraumes - vertagt
+- TOP 1.58: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - vertagt
+- TOP 1.59: Inklusion als Ziele der Jugendarbeit - vertagt
+- TOP 1.60: Bebauungsplan 8-36 („Siedlung Neue Heimstatt – Grauwackeweg / Muschelkalkweg“) - vertagt
+- TOP 1.61: Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 190 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b - vertagt
