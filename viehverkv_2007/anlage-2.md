@@ -1,6 +1,7 @@
 # Anlage 2 (zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2)Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
-(Fundstelle: BGBl. I 2010, 221)
+(Fundstelle: BGBl. I 2010, 221;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 1. Der Viehhandelsunternehmer sowie der Sammelstellenbetreiber haben dafür Sorge zu tragen, dass eine Ausbreitung von Tierseuchen verhindert wird.
 2. Der Viehhandelsunternehmer hat darüber hinaus dafür Sorge zu tragen, dass das Personal regelmäßig im Umgang mit den Tieren geschult wird.
 3. Rinder, Schweine, Schafe, Ziegen, Pferde oder Geflügel dürfen nur gehandelt, transportiert oder auf andere Weise verbracht werden, wenn die Tiere keine Anzeichen aufweisen, die auf eine übertragbare Krankheit hinweisen, es sei denn, die Tiere werden mit Genehmigung der zuständigen Behörde unmittelbar zur Tötung und unschädlichen Beseitigung verbracht.
