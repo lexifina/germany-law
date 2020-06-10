@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-10T16:04:00+02:00
+- Ende: 2020-06-10T17:22:00+02:00
+- Ort: Haus der Integration, Seminarräume 1- 3, Fr.-Engels-Allee 28, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13141
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13141
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00256724.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00258084.pdf
+
+## Tagesordnung
+
+- TOP 1: Baumaßnahmen auf der A 46
+- TOP 2: Bericht über den Sachstand zur Umsetzung der Ergebnisse der Organisationsuntersuchung im Team 104.11 „Verkehrslenkung und Ausnahmegenehmigungen„ - Entgegennahme ohne Beschluss
+- TOP 3: Parkzeitenänderung Langerfelder Straße in dem Bereich zwischen Marbodstr. und Langerfelder Markt - beidseitig - ungeändert beschlossen
+- TOP 4: Verlegung der Haltestelle Polizeipräsidium mit barrierefreien Ausbau - ungeändert beschlossen
+- TOP 5: Sperrung des Walls für den Allgemeinverkehr - ungeändert beschlossen
+- TOP 6: Bürgerantrag zur Öffentlichkeitsarbeit der Wuppertaler Unfallkommission - ungeändert beschlossen
+- TOP 7: Antrag gemäß § 24 GO NRW - P+R- sowie B+R-Anlagen nicht bewirtschaften - ungeändert beschlossen
+- TOP 8: Antrag gem. § 24 GO NRW - Das Ordnungsamt kontrolliert sämtliche öffentlich gewidmeten und zugänglichen Verkehrsflächen - ungeändert beschlossen
+- TOP 9: Einrichtung einer Querungshilfe und Tempo-30-Strecke auf der Gräfrather Straße auf Höhe der neu eingerichteten Kita - ungeändert beschlossen
+- TOP 10: Verbesserung der Querung Linderhauser Straße / Dr.-Werner-Jackstädt-Weg - ungeändert beschlossen
+- TOP 11: Geschwindigkeitsbegrenzung für die Solinger Straße zwischen Kohlfurth und Wahlert von 70 km/h sowie Markierungenauf dem Gehweg - geändert beschlossen
+- TOP 12: Krad-Parkplätze vor dem Haus Heckinghauser Str. 103-105 - ungeändert beschlossen
+- TOP 13: Elektromobilitätskonzept für die Stadt Wuppertal, Lieferverkehr mit Elektrofahrzeugen in den beiden Innenstadtbereichen, Umsetzung prioritärer Maßnahmen als Pilotversuch - ungeändert beschlossen
+- TOP 14: Freigabe der Friedrichstraße für den Radverkehr in Gegenrichtung - ungeändert beschlossen
+- TOP 15: Anlage eines Radweges im Bereich Karlsplatz - ungeändert beschlossen
+- TOP 16: Heubruch/Pannewiese - Erweiterung der Tempo-30-Zone und Freigabe für den Radverkehr - ungeändert beschlossen
+- TOP 17: Verbesserung der Radverkehrsanbindung zum neuen Haltepunkt Hahnenfurth / Düssel - ungeändert beschlossen
+- TOP 18: Uellendahler Straße - Straßeninstandsetzung und Anlegung einer Radverkehrsanlage bergauf - geändert beschlossen
+- TOP 19: Berghauser Straße - Optimierung der Radverkehrsführung - ungeändert beschlossen
+- TOP 20: Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Unterdörnen und Wasserstraße - ungeändert beschlossen
+- TOP 21: Radverkehrskonzept Achse 6 / Umsetzung Abschnitt A - Schutzstreifen Vohwinkeler Straße - ungeändert beschlossen
+- TOP 22: Radverkehrskonzept Achse 6 / Planungsstand Abschnitt H – Radfahrstreifen Friedrich-Engels-Allee (B7) - ungeändert beschlossen
+- TOP 23: Radverkehrskonzept Achse 6 / Umsetzung Abschnitt L – Radfahrstreifen Berliner Straße (B7) zwischen Rauentaler Bergstraße und Berliner Platz/Schwarzbach in Fahrtrichtung Westen - ungeändert beschlossen
+- TOP 24: Radverkehrskonzept Achse 6 / Planungsstand Abschnitt M und N – Radfahrstreifen Jesinghauser Str./Dahler Str./Höfen (B7) - ungeändert beschlossen
+- TOP 25: Radwegeführung parallel zur B7 - ungeändert beschlossen
+- TOP 26: Sanierung der Unterseite der Bembergbrücke - ungeändert beschlossen
+- TOP 27: Grundhafte Instandsetzung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 28: Verabschiedung einer Deklaration zur Verkehrssicherheit - ungeändert beschlossen
+- TOP 29: Änderung des Kommunalabgabengesetzes - ungeändert beschlossen
+- TOP 30: Stellplatzsatzung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 31: Stellplatzsatzung der Stadt Wuppertal; Ergänzungen nach erster Beratung - ungeändert beschlossen
+- TOP 32: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - Entgegennahme ohne Beschluss
+- TOP 33: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung); Ergänzungsvorlage nach erster Beratung - ungeändert beschlossen
+- TOP 34: Umsetzung der Haushaltsbeschlüsse Straßeninstandsetzung/ nicht-motorisierter IV - Entgegennahme ohne Beschluss
+- TOP 35: 7. Bericht des Inklusionsbüros - Entgegennahme ohne Beschluss
+- TOP 36: Lärmaktionsplan der Runde III für die Stadt Wuppertal - Öffentliche Auslegung des Entwurfes - Entgegennahme ohne Beschluss
+- TOP 37: Baustellensituation
