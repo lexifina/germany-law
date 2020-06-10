@@ -1,0 +1,85 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-10T17:00:00+02:00
+- Ende: 2020-06-10T19:10:00+02:00
+- Ort: Aula der Montessori Grundschule, Emil-Barth-Straße 45, 40595 Düsseldorf-Garath - Achtung geänderter Sitzungsort -
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18937
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18937
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket BV 10 Ö 10.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380325.pdf
+- Ergebnisprotokoll: Sitzungspaket BV 10 Ö 10.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380325.pdf
+- Wortprotokoll: Sitzungspaket BV 10 Ö 10.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00380325.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Josef-Maria-Olbrich-Straße - Einrichtung von Senkrechtparkständen - einstimmig beschlossen
+- TOP 4.2: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2020 - einstimmig beschlossen
+- TOP 4.3: Trödelmärkte in Garath Zentrum Ost im 2. Halbjahr 2020 - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10 , Zuschuss an den Hellerhofer Bürgerverein e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - zurückgestellt
+- TOP 4.6: Bezirklicher Bauunterhalt 2020 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2020 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der BV 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - zur Kenntnis genommen
+- TOP 4.9: Vier Raumbilder für das Raumwerk D - zur Kenntnis genommen
+- TOP 4.10: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - zur Kenntnis genommen
+- TOP 4.11: Bezirklicher Bauunterhalt 2020 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Haushalt 2020 hier Liste B – Sonstige Gebäude - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Auswirkungen der Umweltspuren - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Kontrollgänge Spontanvegetation - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Wildschäden - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.5: Darstellung der Schülerzahlen in verschiedenen Schulformen im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Übertragung der zum Jahresende 2019 nicht verausgabten Verfügungsmittel in das Jahr 2020 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Farbige Gestaltung der Verteilerkästen für Strom, Telefon und Internet in Hellerhof - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Umbenennung Straßennamen - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 7.5: Müllbehälter Rodelberg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Grundstücke für Senioren- und Pflegeheime - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.7: Schaffung von zusätzlichen Parkmöglichkeiten als Park&Ride Platz, an der GoslarerStraße/ Frankfurter Straße in Düsseldorf Hellerhof - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Einladung eines Vertreters der Stadtwerke - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Verwendung von Verfügungsmitteln und der Mittel aus Garath 2.0 in der Corona Krise - Antrag der Herren Hartmann (BÜ90/DIE GRÜNEN) und Butzke (FDP) - - zurückgezogen
+- TOP 7.14: Maskenausgabe durch Bezirksverwaltungsstelle oder Bürgerbüro - Antrag der Herren Hartmann (BÜ90/DIE GRÜNEN) und RIes (FWG) - - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: „Anreicherung des Straßenbegleitgrüns in Hellerhof“ - Informationsvorlage zum Beschluss BV10/008/2020 vom 29.01.2020 - - zur Kenntnis genommen
+- TOP 8.2: Insektenhotels - Informationsvorlage zum Beschluss BV10/009/2020 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.3: Information über die Möglichkeit von Baumpatenschaften - Informationsvorlage zum Beschluss BV10/036/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.4: Ausstattung der Haltestellen im Bezirk 10 mit Dynamischen Fahrgastanzeigen - Informationsvorlage zum Beschluss BV10/027/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.5: Radwegführung auf der Koblenzer Straße zwischen Josef-Maria-Olbrlch-Straße und Peter-Behrens-Straße - Informationsvorlage zum Beschluss BV10/024/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.6: Ersatzpflanzungen mit früchtetragenden Bäumen - Informationsvorlage zum Beschluss BV10/027/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.7: Begrünung von Bauvorhaben - Informationsvorlage zum Beschluss BV10/023/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.8: Vortrag zur künftigen Verkehrsanbindung des Stadtbezirks an die Düssel-dorfer Innenstadt - Informationsvorlage zum Beschluss BV10/086/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.9: Park and Ride Parkplätze - Informationsvorlage zum Beschluss BV10/024/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.10: Bikesharing-Angebote für den Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/026/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.11: Fahrradständer in Hellerhof - Informationsvorlage zum Beschluss BV10/022/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.12: Bepflanzung zur Verhinderung von Wildparken im Grünstreifenbereich Ricarda-Huch-Straße / Kreuzung Emil-Barth-Straße - Informationsvorlage zum Beschluss BV10/021/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.13: Erreichbarkeit des Sportparks Niederheid im ÖPNV nach der Schließung des Hallenbades Benrath - Informationsvorlage zum Beschluss BV10/006/2020 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.14: Bushaltestellen und Betriebszeiten der SB 57 - Informationsvorlage zum Beschluss BV10/104/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.15: Umsetzung des regionalen Schnellbuskonzeptes - Informationsvorlage zu den Anregungen der BV 10 zur Vorlage OVA/032/2019 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17: Kinderparlament Garath: Übersicht der Angebote kultureller Bildung für Kinder im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/015/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.18: Kinderparlament Garath: Übersicht über die Angebote kultureller Bildung für Kinder im Stadtbezirk 10 - Zweite Informationsvorlage zum Beschluss BV10/015/2020 vom 26.02.2020 - - zur Kenntnis genommen
+- TOP 8.19: Bezirksportanlage Koblenzer Straße – Sachstand zur Baumaßnahme - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
