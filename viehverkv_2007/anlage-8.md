@@ -1,6 +1,5 @@
 # Anlage 8 (zu § 32 Absatz 1)Bestandsregister für Rinderhaltungen
 
-(Fundstelle: BGBl. I 2010, 229)
 Seite: …
 | Name: |  |
 | Anschrift: |  |

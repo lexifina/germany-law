@@ -1,6 +1,5 @@
 # Anlage 6 (zu § 28 und § 32 Absatz 1 Satz 1 Nummer 1)Rasseschlüssel
 
-(Fundstelle: BGBl. I 2020, 755 - 757)
 | Holstein-Schwarzbunt | 01 |
 | Holstein-Rotbunt | 02 |
 | Jersey | 03 |

@@ -1,6 +1,5 @@
 # Anlage 12 (zu § 42 Absatz 1)Bestandsregister für Schweinehaltungen
 
-(Fundstelle: BGBl. I 2010, 235)
 Seite: …
 | Name: |  | Gesamtzahl am Stichtag nach § 26 Absatz 3: |  |
 | Anschrift: |  | davon Zuchtsauen: |  |

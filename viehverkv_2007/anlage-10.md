@@ -1,7 +1,6 @@
 # Anlage 10 (zu § 36 Absatz 1)Begleitpapier
 
-(Fundstelle: BGBl. I 2010, 232)
-| für Schafe □⁪ | für Ziegen □⁪ |
+| für Schafe □ | für Ziegen □ |
 | Angaben zum abgebenden Betrieb |
 | Name: |  |
 | Anschrift: |  |

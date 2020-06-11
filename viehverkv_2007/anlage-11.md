@@ -1,11 +1,10 @@
 # Anlage 11 (zu § 37 Absatz 1)Bestandsregister
 
-(Fundstelle: BGBl. I 2010, 232)
-Seite: ...
-| für Schafe □⁪ |  | für Ziegen □⁪ |
+Seite: …
+| für Schafe □ |  | für Ziegen □ |
 A. Angaben zum Betrieb
 | Name: |  | Nutzungsart: |  |
-| Anschrift: |  | Zucht⁪□⁪ | Milch□⁪ | Mast□⁪ | Gesamtanzahl am 1. Januar … |
+| Anschrift: |  | Zucht□ | Milch□ | Mast□ | Gesamtanzahl am 1. Januar … |
 | Registriernummer nach § 15 oder § 26 Absatz 2: |  |  | Schafe: | Ziegen: |
 B. Angaben zum Verbringen von Schafen und Ziegen
 | Lfd. Nr. | Datum des Zugangs oder des Abgangs | Zugang | Abgang | Kennzeichen des Tieres oder der Tiere | Anzahl | Bemerkungen |

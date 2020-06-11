@@ -1,6 +1,5 @@
 # Anlage 5 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
 
-(Fundstelle: BGBl. I 2010, 225 - 226)
 Der auf dem Vorderteil einer Ohrmarke anzubringende und der auf dem Rinderpass einzutragende Strichcode ist wie nachfolgend beschrieben aufzubauen:
 1. Art des Strichcodes
   Es kommt der Strichcode Typ 2/5 überlappt mit Prüfziffernberechnung zur Anwendung.

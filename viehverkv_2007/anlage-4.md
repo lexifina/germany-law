@@ -1,6 +1,5 @@
 # Anlage 4 (zu § 27 Absatz 3 und 4)Ohrmarken zur Rinderkennzeichnung
 
-(Fundstelle: BGBl. I 2010, 223 - 224)
 1. Ohrmarke (Vorderseite/Lochteil)
 |  | Logo der ausgebenden Behörde oder beauftragten Stelle |
 | Ländercode „DE“ (Deutschland) und 10-stellige Nummer, (zweizeilig): – 2 Ziffern (Bundesland) – 8 Ziffern (individuell) |
