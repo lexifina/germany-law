@@ -41,7 +41,7 @@
 - [§ 19](0019.md)
 - [§ 20](0020.md)
 - [§ 20a](0020a.md)
-- [§ 21 (weggefallen)](0021.md)
+- [§ 21 Inkrafttreten der Approbationsordnung für Zahnärzte und Zahnärztinnen und Außerkrafttreten der Approbationsordnung für Zahnärzte, Übergangsregelung](0021.md)
 - [§ 22](0022.md)
 - [§ 23](0023.md)
 - [§ 24](0024.md)

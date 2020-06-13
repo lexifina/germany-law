@@ -96,7 +96,7 @@
 - [§ 56 Geschäftsordnung](0056.md)
 - [§ 57 Aufgaben der Geschäftsstelle](0057.md)
 - [§ 58 Sitzungen der Fachkommission](0058.md)
-- [§ 59 Reisen und Abfindungen](0059.md)
+- [§ 59 Reisen und Aufwandsentschädigung](0059.md)
 - [§ 60 Aufgaben des Bundesinstituts für Berufsbildung](0060.md)
 
 ### Abschnitt 4 Übergangs- und Schlussvorschriften

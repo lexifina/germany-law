@@ -45,7 +45,8 @@
 - [§ 22 Behandlung in Vorsorge- und Rehabilitationseinrichtungen](0022.md)
 - [§ 23 Verordnungsermächtigung](0023.md)
 - [§ 24 Überprüfung der Auswirkungen](0024.md)
-- [(XXXX) §§ 25 u. 26 (weggefallen)](xxxx-25-u-26.md)
+- [§ 25 Ausnahmen von Prüfungen bei Krankenhausbehandlungen, Verordnungsermächtigung](0025.md)
+- [§ 26 Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus](0026.md)
 
 ## 5. Abschnitt Sonstige Vorschriften
 
