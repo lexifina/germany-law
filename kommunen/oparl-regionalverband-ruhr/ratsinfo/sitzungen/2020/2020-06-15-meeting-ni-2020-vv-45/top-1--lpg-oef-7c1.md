@@ -1,0 +1,6 @@
+# TOP 1: Angelegenheiten nach Landesplanungsgesetz
+
+- Sitzung: 27. Sitzung der Verbandsversammlung (2020-06-15)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2020-VV-45%7CAn-lpg-oef%7C1
