@@ -1,0 +1,102 @@
+# 27. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-06-15T10:00:00+02:00
+- Ende: 2020-06-15T13:10:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-45
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-45
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-VV-45
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VV-45
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VV-45
+
+## Tagesordnung
+
+- TOP -: Tagesordnung
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen / Strukturausschuss vom 10.03.2020
+- TOP 1.1: Förderprogramm Kommunaler Straßenbau 2020 hier: Unterrichtung und Beschlussfassung
+- TOP 1.2: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2020
+- TOP 1.2.1: Ergänzung zur Beschlussvorlage 13/1641 Vorschlag für das Städtebauförderprogramm 2020
+- TOP 1.3: Städtebauförderung hier: Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2020“
+- TOP 1.3.1: Ergänzung zur Beschlussvorlage 13/1642 Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2020
+- TOP 1.4: Änderungen beim Verfahren der Erarbeitung von Vorlagen zu Maßnahmen und Förderprojekten für die Metropole Ruhr
+- TOP -: Vorlagen des Regionalverbandes Ruhr / Planungsausschuss vom 04.03.2020
+- TOP -: Dringlichkeitsentscheidungen aus dem VA am 16.03.2020
+- TOP 1.5: Aufhebung des Piktogramms „Kraftwerke und einschlägige Nebenbetriebe“ in einem Bereich für gewerbliche und industrielle Nutzungen (Ehemaliges Kraftwerk Knepper)
+- TOP 1.6: Aufhebung der Zweckbindung und des Piktogramms für „Kraftwerke und einschlägige Nebenbetriebe“ eines Bereichs für gewerbliche und industrielle Nutzungen (ehemaliges Kraftwerk Knepper)
+- TOP 1.7: 13. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, Änderung der textlichen Festlegung 16.2 zum Bereich für flächenintensive Großvorhaben (newPark) - Aufstellungbeschluss
+- TOP 1.8: Änderungsverfahren 35 E (Pferdebahnstraße / Berthold-Beitz-Boulevard - ESSEN 51) des Regionalen Flächennutzungsplans (RFNP) Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP -: Weitere Vorlagen aus dem Planungsausschuss am 04.03.2020
+- TOP 1.9: Erarbeitungsbeschluss zur 15. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, in der Stadt Marl: Erweiterung eines Allgemeinen Siedlungsbereichs im Rahmen eines Flächentauschs
+- TOP 1.9.1: Erarbeitungsbeschluss zur 15. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, in der Stadt Marl Neufassung des Erarbeitungsbeschlusses – Minimierung des Änderungsbereiches dauf die Fläche des Jahnstadions und der Waldschule
+- TOP 1.10: Zeitplan für die Umsetzung der Aufträge der Beratung in den Gremien
+- TOP -: Vorlagen aus dem Planungsausschuss am 20.05.2020
+- TOP 1.11: 12. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe Hier: Aufstellungsbeschluss
+- TOP 1.12: 14. Änderung Regionalplan für den Regierungsbezirk Arnsberg Teilabschnitt Oberbereiche Bochum und Hagen Erweiterung des Allgemeinen Siedlungsbereichs (ASB) im Gebiet der Hansestadt Breckerfeld - Aufstellungsbeschluss
+- TOP 1.13: Sachlicher Teilplan Regionale Kooperationsstandorte zum Regionalplan Ruhr hier: Erarbeitungsbeschluss
+- TOP 1.13.1: Sachlicher Teilplan Regionale Kooperationsstandorte zum Regionalplan Ruhr Begleitung der Erarbeitung des Aufstellungsbeschlusses durch die Kommission zum Regionalplan Ruhr
+- TOP 1.14: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.0: Umbesetzung von Gremien
+- TOP -: Wahlen
+- TOP 2.1: Wahl einer/eines Beigeordneten für den Bereich III
+- TOP 2.2: Ersatzwahl eines beratenden Mitglieds der Verbandsversammlung
+- TOP -: Resolution
+- TOP 2.3: Antrag der Fraktion Die Linke auf Aufnahme eines Tagesordnungspunktes Resolution zu Altschulden und Coronalasten der Verbandskommunen
+- TOP -: Vorlagen aus dem Verbandsausschuss vom 16.03.2020
+- TOP 2.4: Bestellung der Prüfer im Referat Rechnungsprüfung
+- TOP 2.5: Übersicht über die Fraktionsanfragen aus dem Jahr 2019
+- TOP -: Vorlagen aus dem Verbandsausschuss vom 29.05.2020
+- TOP 2.6: Steuerlicher Querverbund
+- TOP 2.6.1: Steuerlicher Querverbund
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss vom 03.03.2020
+- TOP 2.7: Ermächtigungsübertragungen gem. § 22 KomHVO NRW
+- TOP 2.8: Dringlichkeitsentscheidung - Entwurf des Jahresabschlusses 2018 des Regionalverbandes Ruhr
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss am 19.05.2020
+- TOP 2.9: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2019
+- TOP 2.10: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Mehrkosten in Verbindung mit den Projekten „Staumauersanierung“, „Glör 365“ und „Andere Maßnahmen“
+- TOP 2.11: Angelegenheiten der IGA 2027 gGmbH - Erweiterung des Gesellschafterkreises der Durchführungsgesellschaft 'Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 gGmbH'
+- TOP 2.12: Angelegenheiten der Kultur Ruhr GmbH Prüfung des Vorschlages der Künstlerischen Leitung zur alternativen Durchführung der Ruhrtriennale
+- TOP 2.13: Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften - Sachstandsbericht
+- TOP 2.14: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – Verschmelzung der BFUB GmbH auf die AGR
+- TOP 2.15: Überplanmäßige MIttelbereitstellung für das Projekt Ruhrtalradweg in Bochum-Stiepel
+- TOP -: Vorlagen aus dem Planungsausschuss am 04.03.2020
+- TOP 2.16: Fortführung Luftbildkooperation Geonetzwerk.metropoleRuhr
+- TOP -: Vorlagen aus dem Planungsausschuss am 20.05.2020
+- TOP 2.17: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr
+- TOP 2.17.1: Antrag der Fraktionen CDU, SPD, B90/Die Grünen Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr (Drucksache 13/1724) Aufnahme der Bahnverbindung von Recklinghausen über Bochum nach Witten
+- TOP 2.18: Statusbericht zum Freizeit- und Tourismuskonzept für die Metropole Ruhr
+- TOP 2.19: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr Hier: Sachstandsbericht
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün am 28.02.2020
+- TOP 2.20: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2018 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss vom 05.03.2020
+- TOP 2.21: Angelegenheiten der Kultur Ruhr GmbH - Verlängerung der Nebenabrede zum Gesellschaftsvertrag der Kultur Ruhr GmbH für den Zeitraum 2021-2023
+- TOP -: Fraktionsanträge
+- TOP 2.22: Antrag der Fraktion Die Linke Positionen der Metropole Ruhr zur EU-Strukturförderung 2021-2027
+- TOP 2.23: Antrag der Fraktion Die Linke Stand des Auftrages zur Erarbeitung eines einheitlichen Sozialtarifs für die Freizeitgesellschaft Metropole Ruhr mbH und die Revierparks
+- TOP -: Fraktionsanfragen und Antworten
+- TOP 2.24: Antwort auf die Anfrage der Piratenfraktion RS1 - kilometergenauer Sachstand
+- TOP 2.25: Antwort der Verwaltung auf Anfrage der Fraktion B90/Die Grünen Sachstand regionales Radwegenetz
+- TOP 2.26: Antwort auf die Anfrage der CDU-Fraktion Weiterentwicklung Regionales Radwegenetz: Radhauptverbindung Neukirchen-Vluyn – Kamp-Lintfort
+- TOP 2.27: Antwort der Bezirksregierung Münster auf die Anfrage der CDU-Fraktion Nicht abgerufene Fördermittel der letzten Jahre in der Metropole Ruhr
+- TOP 2.27.1: Mündliche Anfrage der CDU-Fraktion Nicht abgerufene Fördermittel der letzten Jahre in der Metropole Ruhr
+- TOP 2.28: Anfrage der SPD-Fraktion Hilfe für Schaustellerinnen und Schausteller in der Metropole Ruhr durch den Regionalverband Ruhr (RVR) und seine Tochtergesellschaften
+- TOP 2.28.1: Antwort der Verwaltung auf die Anfrage der SPD-Fraktion Hilfe für Schaustellerinnen und Schausteller in der Metropole Ruhr durch den Regionalverband Ruhr (RVR) und seine Tochtergesellschaften
+- TOP 2.29: Anfrage der CDU-Fraktion Verunreinigung des Tenderingssees durch Sedimente der Kiesbaggerei
+- TOP 2.29.1: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Verunreinigung des Tenderingssees durch Sedimente der Kiesbaggerei
+- TOP 2.30: Gründe für die Verzögerungen bei der Neuauflage des Förderfonds Interkultur 2020
+- TOP 2.30.1: Antwort auf die Fraktionsanfrage Gründe für die Verzögerungen bei der Neuauflage des Förderfonds Interkultur 2020
+- TOP 2.31: Olympische Sommerspiele 2021 in Tokio – Fachdelegation RVR
+- TOP 2.32: Anfragen und Mitteilungen
+- TOP 2.32.1: Austritt von verunreinigtem Wasser im Bereich der Bergehaldenerweiterung Brinkfortsheide Erkenntnisse der Bezirksregierung Arnsberg
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
