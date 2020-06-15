@@ -1,0 +1,89 @@
+# 45.Sitzung der Bezirksvertretung Mülheim INFEKTIONSSCHUTZ: Bitte melden Sie sich unbedingt vorab bei der Schriftführung an !
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-15T17:00:00+02:00
+- Ende: 2020-06-15T19:38:00+02:00
+- Ort: E-Werk, Schanzenstr. 37, 51063 Köln INFEKTIONSSCHUTZ: Bitte melden Sie sich unbedingt vorab bei der Schriftführung an !
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21905
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21905
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung - Stand 15.06.2020 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776760.pdf
+- Ergebnisprotokoll: Tagesordnung - Stand 15.06.2020 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776760.pdf
+- Wortprotokoll: Tagesordnung - Stand 15.06.2020 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00776760.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: 57 Maßnahmen für Mülheim (Az.: 02-1600-187/19) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Straßenbeleuchtung Maria-Himmelfahrt-Str. 2 in Köln-Holweide (Az.: 29/20 B) - geändert beschlossen
+- TOP 2.3: Bürgereingabe nach § 24 GO: Lärmbelästigung Böcking Park - Aktenzeichen 223/19 S - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Odenthaler Straße in Köln-Dünnwald (Az.: 02-1600-215/19) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer zweckgebundenen Spende und Neugestaltung des Spielplatzes Keupstraße in Köln-Mülheim - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Situation am Zeisbuschweg - Kenntnis genommen
+- TOP 7.1.2: Holweider Autobahnbrücke - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Planungsstand Vereinsheim DJK Viktoria Buchheim, Wuppertaler Straße - Kenntnis genommen
+- TOP 7.2.2: Situationslage Ratten im öffentlichen Raum - Kenntnis genommen
+- TOP 7.2.2.1: Situationslage Ratten im öffentlichen Raume - Kenntnis genommen
+- TOP 7.2.3: Fortschreibung der Schulentwicklungsplanung Köln 2020; hier: Grundschulsituation in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2.4: Leerung der öffentlichen Mülleimer im Stadtteil Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.5: Sachstand Sanierung Berliner Straße in Dünnwald - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einrichtung einer stationären Geschwindigkeitsüberwachung im Bereich GieratherStraße zwischen Penningsfelder Weg und Stadtgrenze Bergisch Gladbach und Durchfahrverbot Anliegerverkehr und Linienbusverkehr frei) für LKW ab 3,5 t in beiden Richtungen - geändert beschlossen
+- TOP 8.1.2: Erneuerung der Fahrbahndecke in der gesamten Siedlung Egonstr. in Köln-Stammheim - geändert beschlossen
+- TOP 8.1.3: Mobile Handwasch-Station Wohnheim Mündelstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - ungeändert beschlossen
+- TOP 9.1.2: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - geändert beschlossen
+- TOP 9.1.3: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 9.1.4: Neubau der Sekundarstufe II und Umbaumaßnahmen im Bestand am Standort der Gesamtschule Dellbrücker Mauspfad 198-200, 51069 Köln – Bau- und Vergabebeschluss - ungeändert beschlossen
+- TOP 9.1.5: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Buchheim und Buchforst und Mülheim-Nord, Keupstraße“ - geändert beschlossen
+- TOP 9.1.6: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - ungeändert beschlossen
+- TOP 9.1.7: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vergabe neu vorliegender Anträge - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - geändert beschlossen
+- TOP 9.2.1.1: Änderungsantrag zum zurückgestellten Beschluss unter 9.2.7 vom 4.5.2020 über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.2: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP 9.2.2.1: Änderungsantrag der Fraktion Die Linke im Rat der Stadt Köln zu "Stellplatzsatzung für Köln" - endgültig abgelehnt
+- TOP 9.2.3: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 9.2.4: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert beschlossen
+- TOP 9.2.5: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Dellbrück Arbeitstitel: Wasserwerkstraße n Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.2.6: Einsatz des Instruments der Sozialen Erhaltungssatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Nichtzustimmung des Bezirksbürgermeisters Dringlichkeitsvorlage BV 9: Beschluss über die Aufstellung eines Bebauungsplanes im beschleunigten Verfahren nördlich Keupstr. in Köln-Mülheim - Kenntnis genommen
+- TOP 10.1.2: Nichtzustimmung des Bezirksbürgermeisters Dringlichkeitsvorlage BV 9: Satzung über das besondere Vorkaufsrecht für das Gebiet "Keupstraße / Schanzenstraße" in Köln-Mülheim nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - Kenntnis genommen
+- TOP 10.1.3: Kleine Anfrage 3564 des Abgeordneten Martin Börschel der Fraktion der SPD imk Landtag „Welche Maßnahmen ergreift die Landesregierung zur Sicherung - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.5: Ersatzloser Rückbau der mobilen WC Anlage im Mülheimer Stadtgarten - Kenntnis genommen
+- TOP 10.2.6: Frühzeitige Öffentlichkeitsbeteiligungen und Offenlagen zu Bauleitplanverfahren in Zeiten von Ausgangs- und Kontaktbeschränkungen durch die COVID-19-Pandemie - Kenntnis genommen
+- TOP 10.2.7: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.8: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 10.2.9: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.10: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 10.2.11: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 10.2.12: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 10.2.13: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
+- TOP 10.2.14: Veedel Stars Vol. II - Graffiti Jugendevent - Kenntnis genommen
+- TOP 10.2.15: Wohnbebauung mit einerTiefgarage und einer Kindertagesstätte - Kenntnis genommen
+- TOP 10.2.16: SmartCity-Partnerschaft Stadt Köln, Deutsche Bahn AG und Nahverkehr Rheinland GmbH: Temporäre - Kenntnis genommen
+- TOP 10.2.17: Wohnungs- und Gebäudeleerstand im Stadtbezirk -öffentlicher Teil- - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
+- TOP 15.1: Mitteilungen der Verwaltung
