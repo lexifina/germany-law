@@ -1,0 +1,59 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (51. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-06-15T17:47:00+02:00
+- Ende: 2020-06-15T21:32:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa0ANxOY6p4sFYIkhu2JOdY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5889
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWpY4Ri0PhAgDjZKcX4hV5UcQmCV6o3czF75TWhmIBCc/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_15.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRZ_BSd33miuq9kmyEztK_RVSHl1XnhCGfT5hlhfy3UN/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_15.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Straßenbaumaßnahme Höhscheider Weg
+- TOP 1.2: Gestaltungsmöglichkeiten bei der Ausschreibung von Bauvorhaben
+- TOP 1.3: Sachstand Kreisverkehr Bonner Straße
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 46. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.05.2020 - gemeinsame Sitzung mit der Bezirksvertretung Burg/Höhscheid
+- TOP 4.: Protokoll über die 47. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.05.2020 - gemeinsame Sitzung mit der Bezirksvertretung Mitte
+- TOP 5.: Protokoll über die 48. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.05.2020 - gemeinsame Sitzung mit der Bezirksvertretung Gräfrath
+- TOP 6.: Protokoll über die 49. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.05.2020
+- TOP 7.: Prüfergebnis der Kreisverkehre am Dickenbusch
+- TOP 8.: ÖPNV-Verkehrsmodell, Ergebnis 3. Beiratssitzung
+- TOP 9.: Gegen weitere Kürzungen bei den Bussen – für Fahrplan-Verbesserungen
+- TOP 10.: Vorstellung Wohnbaulandkataster der Stadt Solingen - mündlicher Bericht -
+- TOP 11.: 
+- TOP 12.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 12.1: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 12.2: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020 Beratungsergebnisse aus den Bezirksvertretungen
+- TOP 13.: Beschlusskontrolle ASUKM 2019
+- TOP 14.: Bürgerbeteiligungsrechte bei Planungen nicht einschränken Antrag der Fraktion Bündnis 90/Die Grünen – offene Liste vom 05.05.2020
+- TOP 15.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Antrag der Fraktion Bündnis 90/Die Grünen- offene Liste vom 05.05.2020
+- TOP 15.1: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Änderungsantrag der Fraktion Bündnis 90/Die Grünen- offene Liste vom 08.06.2020
+- TOP 15.2: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Antrag der Fraktion Bündnis 90/Die Grünen- offene Liste vom 05.05.2020 Hier: Beschlussempfehlung des Ausschusses für Schule und Weiterbildung aus der Sitzung am 09.06.2020
+- TOP 16.: Temporäre Umwidmung von Straßenflächen zur Fahrradspuren Hier: Eingabe nach § 24 GO NRW
+- TOP 17.: Chancen für die City nutzen Antrag der FDP-Fraktion vom 02.06.2020
+- TOP 18.: Grundstück Solingen-Gräfrath, Melanchthonstraße 17, Bebauungsplan G 342 - Initiativen zum Erhalt des Baumbestandes/Sachstandsbericht und weitere Vorgehensweise Antrag Bezirksbürgermeister Udo Vogtländer vom 03.06.2020
+- TOP 18.1: Grundstück Solingen-Gräfrath, Melanchthonstraße 17, Bebauungsplan G 342 - Initiativen zum Erhalt des Baumbestandes/Sachstandsbericht und weitere Vorgehensweise Antrag CDU, SPD, Bündnis 90/Die Grünen – offene Liste, BfS vom 10.06.2020
+- TOP 19.: Verschiedenes
+- TOP 19.1: Mitteilungen der Verwaltung
+- TOP 19.1.1: Fällung eines Naturdenkmales Nr. 58.7, Gasstraße 9
+- TOP 19.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Naturdenkmalwürdigkeit von Bäumen auf Privatgrundstück
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 49. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.05.2020
+- TOP 4.: Stadtentwicklungsgesellschaft Solingen [SEG] – Einbringung des städtischen Grundstücks „Schwanenstraße 94“ zum Bau einer städtischen KiTa sowie weiterer Wohnungen in die Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 4.1: Stadtentwicklungsgesellschaft Solingen [SEG] – Einbringung des städtischen Grundstücks „Schwanenstraße 94“ zum Bau einer städtischen KiTa sowie weiterer Wohnungen in die Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 5.: Grundstück Solingen-Gräfrath, Melanchthonstraße 17, Bebauungsplan G 342 - Initiativen zum Erhalt des Baumbestandes/Sachstandsbericht und weitere Vorgehensweise Antrag Bezirksbürgermeister Udo Vogtländer vom 03.06.2020
+- TOP 5.1: Grundstück Solingen-Gräfrath, Melanchthonstraße 17, Bebauungsplan G 342 - Initiativen zum Erhalt des Baumbestandes/Sachstandsbericht und weitere Vorgehensweise Antrag CDU, SPD, Bündnis 90/Die Grünen – offene Liste, BfS vom 10.06.2020
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
