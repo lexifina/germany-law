@@ -1,0 +1,89 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-15T14:05:00+02:00
+- Ende: 2020-06-15T15:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21772
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21772
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 28. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.04.2020 - Kenntnis genommen
+- TOP 2.4: Veränderte Prioritäten im Klimaschutz - Kenntnis genommen
+- TOP 2.5: Auswirkungen der Steuerschätzung aus Mai 2020 auf den Haushalt der Stadt Köln - Kenntnis genommen
+- TOP 2.6: Umsetzung Notfallfonds zur Struktursicherung bei durch die Corona-Pandemie betroffenen Livemusikspielstätten - Kenntnis genommen
+- TOP 2.7: Grundsätze kommunaler Unternehmensführung - Fortentwicklung des PCGK - Kenntnis genommen
+- TOP 2.8: Bedeutung des Konjunktur- und Krisenbewältigungspakets des Bundes für den städtischen Haushalt - erste Einschätzungen - zurückgestellt
+- TOP 2.9: Anlagerichtlinie für Geld- und Kapitalanlagen der Stadt Köln - Kenntnis genommen
+- TOP 2.10: Sachstandsbericht über die Umsetzung der Maßnahmen aus den politischen Veränderungsnachweisen, den Haushaltsbegleitbeschlüssen, der Verwendung der Kulturförderabgabe - zurückgestellt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Corona-Pandemie: Wirtschaftliche Auswirkungen auf die Veranstaltungs- und Event-branche in Köln - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mehrkosten für die Generalsanierung des Tunnels Grenzstraße/Kalk - Kenntnis genommen
+- TOP 6.2.2: Zweiter Kostenfortschreibungsbeschluss für die Generalinstandsetzung des Berufskollegs Perlengraben 101 - Kenntnis genommen
+- TOP 6.2.3: Neubau Grundschule und Turnhalle Fühlinger Weg 7 in 50765 Köln Volkhoven/Weiler - Kenntnis genommen
+- TOP 6.2.4: Mehrkosten Merianstr. - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Abbruch und Ersatzneubau der Brücke Escher See in Köln-Esch - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - zurückgestellt
+- TOP 7.3: Wasserversorgung Friedhof Nord - ungeändert beschlossen
+- TOP 7.4: Baubeschluss für die Generalinstandsetzung der Merheimer Straße im Abschnitt zwischen Friedrich-Karl-Straße und Roßbachstr. und Umbau der Knotenpunkte Merheimer Straße/Friedrich-Karl-Straße und Merheimer Straße/Theklastraße zu Kreisverkehren sowie - geändert beschlossen
+- TOP 7.5: ISEK Porz-Mitte - Rheinboulevard Porz (Bedarfsfeststellungsbeschluss) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.6: Freigabe einer Auszahlungsermächtigung für die Umgestaltung des Universitätsboulevards zwischen Bachemer Straße und Meister-Ekkehart-Straße, hier: Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ungeändert beschlossen
+- TOP 7.7: Ersatzbeschaffung von neun Kolonnenfahrzeugen für die Grünunterhaltung - ungeändert beschlossen
+- TOP 7.8: Freigabe von investiven Auszahlungsermächtigungen für die Ersatz- und Neubeschaffungen von Fahrzeugen und Geräten aus dem Maschinen- und Gerätekonzept des Sportamtes für die Jahre 2018 - 2020 - unter Vorbehalt beschlossen
+- TOP 7.9: Erneuerung einer Raumlufttechnischen Anlage im Museum Ludwig und Philharmonie - geändert beschlossen
+- TOP 7.10: Errichtung einer Trendsportanlage in Köln / Porz - Finkenberg im Rahmen des Entwicklungsprogramms "Starke Veedel - Starkes Köln" - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9.1: Umsetzung des Förderprogramms "DigitalPakt NRW" zur Digitalisierung der Kölner Schulen - außerplanmäßige Auszahlungen im Teilfinanzplan 0301 Schulträgeraufgaben in den Haushaltsjahren 2020 und 2021 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortentwicklung des Public Corporate Governance Kodex (PCGK)
+- TOP 10.2: Ernährungsstrategie für Köln und Umgebung - geändert beschlossen
+- TOP 10.3: Zügigkeitserweiterung des Leonardo-da-Vinci-Gymnasiums, Blücherstraße 15-17, 50733 Köln-Nippes zum Schuljahr 2021/22 - ungeändert beschlossen
+- TOP 10.4: Stellplatzsatzung für Köln - zurückgestellt
+- TOP 10.4.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 10.5: Neubau der Feuer- und Rettungswache 1 (Innenstadt), Agrippastraße 18 - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Fortführung und Ausweitung "Hallo Nachbar, Danke schön" - ungeändert beschlossen
+- TOP 10.7: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Literatur - ungeändert beschlossen
+- TOP 10.8: Fortschreibung der Schulentwicklungsplanung Köln 2020 - geändert beschlossen
+- TOP 10.9: Erweiterter Planungsbeschluss für den Abriss und Ersatzneubau der Fuß- und Radwegbrücke Escher Str. - ungeändert beschlossen
+- TOP 10.10: Wirtschaftsplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 10.11: Baubeschluss zur Heizungserneuerung an der Katharina-Henoth-Gesamtschule in Köln-Kalk, Teilstandort Nürnberger Straße 10, 51103 Köln-Höhenberg (Projektnummer 18-21191-032) - ungeändert beschlossen
+- TOP 10.12: Generalsanierung Fort Deckstein - geändert beschlossen
+- TOP 10.13: Bedarfsfeststellungsbeschluss zur Erweiterung des Verkehrsmanagementsystems und Einrichtung von 80 Dauerzählstellen zur Erfassung von Verkehrsmengen sowie Beschluss zur Bereitstellung einer außerplanmäßigen Auszahlungsermächtigung - ungeändert beschlossen
+- TOP 10.14: Verteilung der Mittel zur Förderung von neuen Interkulturellen Zentren und die Verwendung des übergreifenden Budgets für Interkulturelle Zentren Köln für das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 10.15: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2018 - ungeändert beschlossen
+- TOP 10.16: Erweiterung des Wallraf-Richartz-Museums (WRM) und Fondation Corboud und Randbebauung - Baubeschluss - ungeändert beschlossen
+- TOP 10.17: Ausbau der Systematischen Öffentlichkeitsbeteiligung - ohne Votum in nachfolgende Gremien
+- TOP 10.18: Fortschreibung Förderkonzept „Lastenräder für Köln“ - Förderaufruf 2020/2021 - ungeändert beschlossen
+- TOP 10.19: Nachtragssatzung zur Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020 und 2021 zur isolierten Anhebung der Liquiditätskreditobergrenze - ungeändert beschlossen
+- TOP 10.20: Umsetzung des Housing-First-Ansatzes als Ergänzung der Wohnungslosenhilfe - geändert beschlossen
+- TOP 10.21: Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 10.22: Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz - ungeändert beschlossen
+- TOP 10.23: Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot - ungeändert beschlossen
+- TOP 10.24: Erstellung eines Neubaus für die katholische Grundschule Kapitelstr. mit einer Einfachturnhalle in der Thessaloniki-Allee, Köln-Kalk - ohne Votum in nachfolgende Gremien
+- TOP 10.25: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2020/21 - ungeändert beschlossen
+- TOP 10.26: Energieberatung für Privathaushalte durch die Verbraucherzentrale - Fortführung nach 2020 - ungeändert beschlossen
+- TOP 10.27: Neubau der Sekundarstufe II und Umbaumaßnahmen im Bestand am Standort der Gesamtschule Dellbrücker Mauspfad 198-200, 51069 Köln – Bau- und Vergabebeschluss - ungeändert beschlossen
+- TOP 10.28: Erstellung eines Neubaus für eine Grundschule mit einer Einfeldsporthalle in der Statthalterhofallee, 50858 Köln-Junkersdorf - ohne Votum in nachfolgende Gremien
+- TOP 10.29: Jahresabschluss 2018 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - zurückgestellt
+- TOP 10.30: Wirtschaftsplan 2020 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - zurückgestellt
+- TOP 10.31: Annahme zweckgebundener Spenden von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e.V." an die Kinder- und Jugendpädagogische Einrichtung der Stadt Köln - ungeändert beschlossen
+- TOP 10.32: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 10.33: Umsetzung Einzelhandels- und Zentrenkonzept - ohne Votum in nachfolgende Gremien
+- TOP 10.34: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
