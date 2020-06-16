@@ -1,0 +1,85 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-16T17:03:00+02:00
+- Ende: 2020-06-16T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21900
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21900
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: A - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohnerfrage - Zentrum für therapeutisches Reiten - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Beseitigung von Brandschutzmängel im Bürgerzentrum Engelshof, Oberstr. 96, 51149 Köln - ungeändert beschlossen
+- TOP 6.2: Umgestaltung des Spielplatzes "Platz der Kulturen" in Köln Finkenberg - ungeändert beschlossen
+- TOP 6.3: Verkehrsführung Danziger Straße in Porz-Urbach - ungeändert beschlossen
+- TOP 6.4: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - ungeändert beschlossen
+- TOP 6.5: Umsetzung des Integrierten Stadtentwicklungskonzepts Köln im Programmgebiet „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 6.6: Genehmigung einer Dringlichkeitsentscheidung " ISEK Porz-Mitte - Rheinboulevard Porz (Bedarfsfeststellungsbeschluss)" - ungeändert beschlossen
+- TOP 6.7: Genehmigung einer Dringlichkeitsentscheidung "Fahrplanwechsel 2020 - Taktverdichtungen an Samstagen im Stadtbahn- und Busnetz" - ungeändert beschlossen
+- TOP 6.8: Genehmigung einer Dringlichkeitsentscheidung "Aufbau eines On-Demand-Angebots im Rahmen eines Pilotprojekts als Ergänzung zum bestehenden ÖPNV-Angebot" - ungeändert beschlossen
+- TOP 6.9: Genehmigung einer Dringlichkeitsentscheidung "Fahrplanwechsel 2020 - Angebotsausweitungen im Stadtbahn- und Busnetz" - ungeändert beschlossen
+- TOP 6.10: Errichtung einer Trendsportanlage in Köln / Porz - Finkenberg im Rahmen des Entwicklungsprogramms "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Dringlichkeitsantrag der Bezirksvertretung Porz vom 13.06.2019 (AN/0851/2019) betr. Wohnungsbauprogramm Südlich Friedensstraße Bebauungsplan Nr. 76380/03 (Session 1106/2019: Mitteilung zur Offenlage) - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "südliche Friedenstraße" - Sache ist erledigt
+- TOP -: Änderungsantrag Wohnungsbauprogramm Südlich Friedensstraße - Sache ist erledigt
+- TOP 7.2: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - zurückgestellt
+- TOP 7.3: Stellplatzsatzung für Köln - ungeändert empfohlen
+- TOP -: Änderungsantrag der Ratsfraktion Die Linken "Stellplatzsatzung für Köln" - Kenntnis genommen
+- TOP 7.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 76380/03; Arbeitstitel: "Südlich Friedensstraße – Westteil" in Köln-Porz-Elsdorf - Sache ist erledigt
+- TOP 7.5: Konzept für die SeniorenNetzwerke Köln - mit Änderungen empfohlen
+- TOP 7.6: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert empfohlen
+- TOP 7.7: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 008 des Friedhofs Porz-Leidenhausen - ungeändert empfohlen
+- TOP 7.8: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - Sache ist erledigt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der CDU-Fraktion "Konzept für geänderte Verkehrsführung auf der Hauptstraße zwischen Kirche und Houdainer Straße in Zündorf" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Antrag der SPD-Fraktion "Bessere Ersatzangebote während Trennung der Linie 7 zwischen Poll und Ensen schaffen" - geändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion "Sanierung der Treppe am Wehrturm in Porz-Zündorf" - geändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Transparenz und Information zur Diskussion um die Erweiterung der Rodenkirchener Brücke" - geändert beschlossen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Antrag der CDU-Fraktion "Erhöhung des Reinigungsintervalls an der Groov in Porz-Zündorf" - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Entfernung von Absperrpfosten in Porz-Mitte" - endgültig zurückgezogen
+- TOP 8.10: Antrag der SPD-Fraktion "Sicherheit auf dem Leinpfad" - geändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion "Schaffung einer Lösch- und Nutzwasserversorgung entlang der Alten Kölner Straße" - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung zum Antrag der SPD-Fraktion - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.12: Antrag der SPD-Fraktion "Sachstandsbericht zum Beschluss AN/1450/2008 des Stadtentwicklungsausschusses vom 30.07.2008 zur Entwicklung von Gremberghoven und zum Beschluss AN/2066/2011 sowie Beschluss AN/0348/2012 - ungeändert beschlossen
+- TOP 8.13: Antrag der SPD-Fraktion "Fußgängerschutz Bonner Straße/ Bergerstraße in Porz-Eil" - ungeändert beschlossen
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "KVB-Busbetriebshof Ost"
+- TOP -: KVB-Betriebshof Ost - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mögliche Pläne zum Abriss oder Umgestaltung der Rodenkirchener Brücke - Kenntnis genommen
+- TOP 10.2.2: Information über die Berichtigungen des Flächennutzungsplans auf Grundlage von rechtskräftigen Bebauungsplänen in Anwendung des beschleunigten Verfahrens nach § 13a oder § 13b Baugesetzbuch; hier: Pläne mit Bekanntmachung bis zum 31.08.2019 - Kenntnis genommen
+- TOP 10.2.3: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 10.2.4: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.5: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 10.2.6: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2020 - Kenntnis genommen
+- TOP 10.2.8: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 10.2.9: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
+- TOP 10.2.10: PFC Grundwasserverunreinigungen - Kenntnis genommen
+- TOP 10.2.11: Ausweitung des Bestattungsangebotes Baumgräber in 2020 - Kenntnis genommen
+- TOP 10.2.12: Dringlichkeitsantrag CDU, Grüne, FDP - Wettbüro in der Bahnhofstraße 39 in Porz-Mitte - Kenntnis genommen
+- TOP 10.2.13: Verlängerung der Stadtbahnlinie 7; Stellungnahme zum Antrag mit der Session-Nummer AN/0552/2020 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
