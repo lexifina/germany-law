@@ -1,0 +1,52 @@
+# 24. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-16T17:30:00+02:00
+- Ende: 2020-06-16T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22239
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22239
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00778385.pdf
+- Ergebnisprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00778385.pdf
+- Wortprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00778385.pdf
+
+## Tagesordnung
+
+- TOP 1: Schwerpunktthema/Vorträge
+- TOP 2: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 2.1: Wohnungsangebote der Sozial-Betriebe-Köln gGmbH für Seniorinnen und Senioren - Kenntnis genommen
+- TOP 2.2: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 10.12.2019 zu 4258/2019 - Kenntnis genommen
+- TOP 3: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 3.1: Verwendung des Budgets der StadtAG LST
+- TOP 3.1.1: Polittalk zur LGBTIQ* relevanten Themen zur Kommunalwahl 2020 - ungeändert beschlossen
+- TOP 3.1.2: Klausurtagung der Mitglieder der StadtAG LST - ungeändert beschlossen
+- TOP 3.2: Menschenrechtsverletzungen gegen trans- und intergeschlechtliche Menschen in Ungarn - geändert beschlossen
+- TOP 4: Trans*
+- TOP 4.1: Schwimmzeiten für trans- und intergeschlechtliche Menschen - Kenntnis genommen
+- TOP 5: LSBTI Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 6.1: Dyke* March Cologne 2020 - Kenntnis genommen
+- TOP 7: Diversity
+- TOP 8: Sachstandsberichte und Mitteilungen
+- TOP 8.1: Jugendbefragung und dann… - Erste Bilanzierung - Kenntnis genommen
+- TOP 8.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 8.3: Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 8.4: Stadtmagazin KölnerLeben: Wegweiser "Gut informiert älter werden" / Start des Podcast für Senioren - Kenntnis genommen
+- TOP 8.5: LGBT-freie Zonen Polen - Kenntnis genommen
+- TOP 8.6: Städtepartnerschaftlicher LSBTI-Austausch 2020 - Kenntnis genommen
+- TOP 8.7: Kampagne zur Erhöhung der Anzeigenbereitschaft - Kenntnis genommen
+- TOP 8.8: Ergänzung zur Mitteilung „Jugendbefragung und dann…, Erste Bilanzierung“ (Session 0178/2020) - Kenntnis genommen
+- TOP 8.9: 25 Jahre „Schule ohne Rassismus – Schule mit Courage“ - Kenntnis genommen
+- TOP 9: Berichte aus Ausschüssen
+- TOP 10: Neue Anfragen
+- TOP 11: Öffentlichkeitsarbeit
+- TOP 12: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 12.1: Vorschlag: "InTraHealth" - Weiterbildungsprojekt zu InterTransGesundheit - Kenntnis genommen
+- TOP 12.2: Vorschlag: Beratungsangebote zu Substanzkonsum in Zusammenhang mit Sexualität - Kenntnis genommen
+- TOP 13: Verschiedenes
+- TOP 13.1: 1700 Jahre jüdisches Leben in Deutschland - Kenntnis genommen
+- TOP 13.2: COVID 19 in Peru - Kenntnis genommen
+- TOP 13.3: Rainbow Refugees Cologne Support Group e.V. - Kenntnis genommen
