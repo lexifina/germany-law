@@ -1,0 +1,115 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-16T16:01:00+02:00
+- Ende: 2020-06-16T18:32:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12859
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12859
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00256734.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00259264.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2018/2019 - geändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2019 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2018 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2018 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2019 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.8.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.9.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2019 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2019 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2019 der Neue Effizienz GmbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2019 der Stadtsparkasse Wuppertal - Entgegennahme ohne Beschluss
+- TOP 1.15.1: Entlastung des Verwaltungsrates der Stadtsparkasse Wuppertal für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2019 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.16.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss und Konzernabschluss 2019 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.17.1: Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.18: Jahresabschluss 2019 WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.18.1: Entlastung des Aufsichtsrates der WSW mobil GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.19: Jahresabschluss 2019 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.19.1: Entlastung des Aufsichtsrates der WSW Energie & Wasser AG für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.20: Jahresabschluss 2019 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 1.21: Jahresabschluss 2019 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.21.1: Entlastung der Mitglieder des Aufsichtsrats der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.22: Jahresabschluss 2019 der Gesellschaft 2020 GmbH - ungeändert beschlossen
+- TOP 1.23: Jahresabschluss 2019 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 1.24: Jahresabschluss 2019 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.25: Jahresabschluss 2019 der Windpark Kahlenberg II GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.26: Jahresabschluss 2018 der Windpark Kahlenberg III GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.27: Jahresabschluss 2019 der PD - Berater der öffentlichen Hand GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2020 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 2.3: 5-Jahresplan der Wuppertaler Bühnen und Sinfonieorchester GmbH - Entgegennahme ohne Beschluss
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Monitoring Wuppertal Marketing GmbH (WMG) 04/2020 - Entgegennahme ohne Beschluss
+- TOP 3.2: Monitoring APH 03/2020 und 04/2020 - Entgegennahme ohne Beschluss
+- TOP 3.3: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 31.03.2020 - Entgegennahme ohne Beschluss
+- TOP 3.4: Monitoring des Eigenbetriebs Straßenreinigung Wuppertal (ESW) zum 30.04.2020 - Entgegennahme ohne Beschluss
+- TOP 3.5: Monitoring Wuppertaler Bühnen und Sinfonieorchester GmbH zum 30.04.2020 - Entgegennahme ohne Beschluss
+- TOP 3.6: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 31.03.2020 - Entgegennahme ohne Beschluss
+- TOP 3.7: Einführung eines Tax Compliance Management Systems - Entgegennahme ohne Beschluss
+- TOP 3.8: Public Corporate Governance Kodex (PCGK) und Beteiligungsrichtlinie der Stadt Wuppertal - ungeändert beschlossen
+- TOP 3.9: Neustrukturierung des Eigenbetriebs Straßenreinigung Wuppertal ESW - ungeändert beschlossen
+- TOP 3.10: Neubauvorhaben Klingelholl - ungeändert beschlossen
+- TOP 3.11: Tilgung eines Verlustvortrages bei den Alten- und Altenpflegeheimen der Stadt Wuppertal (APH) - ungeändert beschlossen
+- TOP 3.12: Neue Effizienz GmbH - Verfügung von Geschäftsanteilen - ungeändert beschlossen
+- TOP 3.13: Bestellung eines Abschlussprüfers für die Lokalfunk Wuppertal GmbH und die Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 3.14: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2019/2020 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.15: Erste Satzung zur Änderung der Satzung für die Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Mögliche Errichtung einer Multifunktionshalle - Entgegennahme ohne Beschluss
+- TOP 5.2: Smart Tec Campus Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.3: Verkauf eines städtischen Grundstückes - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 6.2: Anpassung des städtischen Eigenanteils für die Sanierung von Schloss Burg - ungeändert beschlossen
+- TOP 6.3: Grundhafte Instandsetzung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 6.4: Modernisierung des Sportplatzes Grundstr. in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 6.5: Übernahme des Komplexes Dietrich-Bonhoeffer-Weg 1 und Errichtung eines Ausweichquartiers für Schulen - ungeändert beschlossen
+- TOP 6.6: Umsetzung des 14-Punkte-Paketes für mehr Klimaschutz in Wuppertal - vertagt auf Rat
+- TOP 6.7: Solidarisch Handeln- Freie Kulturszene unterstützen - Finanzielle Hilfen jetzt! - vertagt auf Rat
+- TOP 6.8: Stadtarchiv - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: 2. Bericht über den Sachstand der Umsetzung von Haushaltsbeschlüssen - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Schulden und Kassenkredite zum 31.03.2020 - Entgegennahme ohne Beschluss
+- TOP 8.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8.4: Finanzielle Auswirkungen der Corona-Pandemie - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2019 - ungeändert beschlossen
+- TOP 9.2: Zusätzlicher Investitionsbedarf in zentrale IT-Infrastruktur und IT-Hardware - ungeändert beschlossen
+- TOP 9.3: Überplanmäßige Mittelbereitstellung zur Neubeschaffung von zwei Hubsteigern - ungeändert beschlossen
+- TOP 9.4: Umsetzung der Honorarhöhung für die freien Mitarbeiter*innen der Bergischen Musikschule - ungeändert beschlossen
+- TOP 9.5: Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Satzung zur Erhebung einer Infrastrukturförderabgabe - vertagt auf Rat
+- TOP 9.6: Erlass der Sondernutzungsgebühren für die Außengastronomie - vertagt auf Rat
+- TOP 9.7: Erlass der Elternbeitragserhebungen zu 50% für die Monate Juni und Juli 2020 - vertagt auf Rat
+- TOP 9.8: Antrag der SPD-Fraktion: Vollständiger Verzicht auf die Erhebung der Elternbeiträge für Kindertageseinrichtungen (KiTas), Kindertagespflegestellen und den Offenen Ganztag für die Monate Juni und Juli 2020 - geändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2021) - ungeändert beschlossen
+- TOP 12.2: Stadtentwässerung- Maßnahmenkatalog 2021/ Katalogentwurf 2022 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
