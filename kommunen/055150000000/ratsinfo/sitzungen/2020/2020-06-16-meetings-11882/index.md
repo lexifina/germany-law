@@ -1,0 +1,58 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-06-16T17:09:00+02:00
+- Ende: 2020-06-16T22:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11882
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11882
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00465274.pdf
+
+## Tagesordnung
+
+- TOP 1: Verhaltensregeln in Corona-Zeiten
+- TOP 2: Verpflichtung und Einführung neuer Mitglieder
+- TOP 3: Festsetzung der Tagesordnung
+- TOP 3.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Einbringen von Eingaben
+- TOP 6: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 6.1: Umsetzung des Konzepts zum zukünftigen Umgang mit Kriegerdenkmälern im öffentlichen Raum der Promenade in der Stadt Münster - einstimmig beschlossen
+- TOP 6.2: Wiederaufstellung des Brunnens „Sketch for a Fountain“ von Nicole Eisenman an der Kreuzschanze - einstimmig beschlossen
+- TOP 6.3: Fortschreibung des Baulandprogramms 2020 - 2030 - ohne Beschlussfassung geschoben
+- TOP 6.4: Integriertes Stadtteilentwicklungskonzept Münster-Coerde - einstimmig beschlossen
+- TOP 6.5: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Albachten der Freiwilligen Feuerwehr Münster - ohne Beschlussfassung geschoben
+- TOP 6.6: Neubau Feuer- und Rettungswache 3 der Berufsfeuerwehr in Münster Hiltrup - ohne Beschlussfassung geschoben
+- TOP 6.7: Grundsatzbeschlüsse zur weiteren Digitalisierung der Schulen und Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen - ohne Beschlussfassung geschoben
+- TOP 6.8: Erweiterung der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster - ohne Beschlussfassung geschoben
+- TOP 6.9: Erweiterung des Schulzentrums Wolbeck - ohne Beschlussfassung geschoben
+- TOP 6.10: Erweiterung des Wilhelm-Hittorf-Gymnasiums, Prinz-Eugen-Straße 27, 48151 Münster - einstimmig beschlossen
+- TOP 6.11: Erweiterung der Realschule im Kreuzviertel, Finkenstraße 76, 48147 Münster - ohne Beschlussfassung geschoben
+- TOP 6.12: Erweiterung der Grundschule Wolbeck-Nord, Grenkuhlenweg 21, 48167 Münster - einstimmig geändert beschlossen
+- TOP 6.13: Mauritzschule Münster, bauliche Erweiterung zur 3-Zügigkeit - einstimmig beschlossen
+- TOP 6.14: Clemensschule Hiltrup/Paul-Gerhardt-Schule Hiltrup - einstimmig beschlossen
+- TOP 6.15: Umbau und Erweiterung des ehemaligen Postgebäudes am Sankt Josefs-Kirchplatz zu einer Zwei-Gruppen-Kindertagesstätte - einstimmig beschlossen
+- TOP 6.16: Kreuzschule Münster, bauliche Erweiterung zur Dreizügigkeit - einstimmig beschlossen
+- TOP 6.17: Überarbeitung der Gebäudeleitlinien: Nachhaltigkeit und Klimaneutralität 2030 für - vertagt
+- TOP 6.18: Erich-Klausener-Schule, Herrichtung der Außenanlagen im Rahmen der baulichen Erweiterung zur 4-Zügigkeit - einstimmig beschlossen
+- TOP 6.19: Neugestaltung Bremer Platz, Hinweise aus dem Werkstattverfahren, Quartiersmanagement und Voraussetzungen für die weitere Planung - ohne Beschlussfassung geschoben
+- TOP 6.20: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - ohne Beschlussfassung geschoben
+- TOP 6.21: Waldschule Kinderhaus - einstimmig beschlossen
+- TOP 6.22: Kita Oxford - einstimmig beschlossen
+- TOP 6.23: Münsterstraße in Höhe Lerschmehr – geplante Anforderungslichtsignalanlage - einstimmig beschlossen
+- TOP 6.24: Teilnahme der Stadt Münster an dem Klima-Bündnis Wettbewerb "STADTRADELN" - mehrheitlich beschlossen
+- TOP 6.25: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 6.26: Errichtung von 2 Fertigbauklassen für das Schulzentrum Wolbeck - mehrheitlich beschlossen
+- TOP 6.27: Gelmer, Industriegebiet Hessenweg, B-Plan Nr. 287 – Neubau der Kanalisation in der nördl. Stichstraße - einstimmig beschlossen
+- TOP 6.28: Kanalsanierung Grevener Straße - Steinfurter Straße bis York-Ring - einstimmig beschlossen
+- TOP 6.29: Kanalsanierung Piusallee - Niedersachsenring bis Hoher Heckenweg - einstimmig beschlossen
+- TOP 6.30: Hammer Straße / Friedrich-Ebert-Straße - einstimmig beschlossen
+- TOP 6.31: Genehmigung einer Dringlichkeitsentscheidung - mehrheitlich beschlossen
+- TOP 6.32: Antrag der AfD-Ratsgruppe lfd. Nr. A-R/0004/2020 „Alleen in Münster pflanzen“ - einstimmig beschlossen
+- TOP 6.33: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden - mehrheitlich geändert beschlossen
+- TOP 6.34: Lärmaktionsplan der 3. Runde für die Stadt Münster - Öffentliche Auslegung des Entwurfes - zur Kenntnis genommen
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Verschiedenes
