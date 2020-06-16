@@ -1,0 +1,68 @@
+# 49. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-16T17:10:00+02:00
+- Ende: 2020-06-16T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22727
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22727
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Köln baut mit Holz - zur Anfrage AN/0297/2020 der Fraktion Bündnis 90/Die Grünen und AN/0977/2019 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Rampe für Hohenzollernbrücke mit geplanter Bebauung des Breslauer Platzes kompatibel? - Sache ist erledigt
+- TOP -: Rampe für Hohenzollernbrücke mit geplanter Bebauung des Breslauer Platzes kompatibel? - Kenntnis genommen
+- TOP 2.2: Öffentlich geförderter Wohnungsbau in Köln 2019
+- TOP 3: Anträge
+- TOP 3.1: Entwicklung Hallen Kalk - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Bedarfsfeststellungsbeschluss für die konzeptionellen Maßnahmen "Via Culturalis" im Rahmen des Bundesförderprogramms "Nationale Projekte des Städtebaus" im Zeitraum 2020 - 2023 - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - geändert beschlossen
+- TOP -: Ersetzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - endgültig abgelehnt
+- TOP -: Gemeinsamer Änderungsantrag CDU und Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 6.2: ISEK Porz-Mitte - Rheinboulevard Porz (Bedarfsfeststellungsbeschluss) - geändert beschlossen
+- TOP 6.3: Höhenkonzept für die linksrheinische Kölner Innenstadt; hier: Bauvorhaben Hohenzollernring 62 - zurückgestellt
+- TOP 6.4: Umsetzung Einzelhandels- und Zentrenkonzept - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 4. Fortschreibung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler,Arbeitstitel: Teilraum Nordwest, Wohnbauflächen in Köln-Esch/ Auweiler; hier: Feststellungsbeschluss - zurückgestellt
+- TOP 7.2: 209. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Sülz, Arbeitstitel: "Erweiterung RheinEnergieSportpark" in Köln-Sülz - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Absatz 1 Baugesetzbuch (BauGB) während der COVID-19-Pandemie - ungeändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept vorhabenbezogener Bebauungsplan Nummer 70365/02 – Erweiterung STRÖER Campus in Köln-Sürth – - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag CDU und Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Brombeergasse" in Köln-Worringen - zurückgestellt
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 76380/03; Arbeitstitel: "Südlich Friedensstraße – Westteil" in Köln-Porz-Elsdorf - ohne Votum in nachfolgende Gremien
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan 63419/02, - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Dellbrück Arbeitstitel: Wasserwerkstraße n Köln-Dellbrück - ungeändert beschlossen
+- TOP 15.2: Einsatz des Instruments der Sozialen Erhaltungssatzung - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Dringlichkeitsantrag der Bezirksvertretung Porz vom 13.06.2019 (AN/0851/2019) betr. Wohnungsbauprogramm Südlich Friedensstraße Bebauungsplan Nr. 76380/03 (Session 1106/2019: Mitteilung zur Offenlage) - zurückgestellt
+- TOP -: Änderungsantrag Wohnungsbauprogramm Südlich Friedensstraße - Sache ist erledigt
+- TOP 17: Mitteilungen
+- TOP 17.1: Zeitraum der Offenlage des Bebauungsplan-Entwurfes Nr. 65450/05 nach § 3 Absatz 2 BauGB Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - Kenntnis genommen
+- TOP 17.2: Kölner Statistische Nachrichten 5/2020 - Kenntnis genommen
+- TOP 17.3: Pegel 3/2020 - Kenntnis genommen
+- TOP 17.4: Ergebnis Runder Tisch „Kulturbaustein Helios“: Abschlussdokumentation und Nutzungs- und Entwicklungskonzept der Initiative der Kulturschaffenden Helios - Kenntnis genommen
+- TOP 17.5: Hallen Kalk Nr. 75, 76 und 77 in Köln-Kalk - Anfrage der Fraktion Bündnis 90/Die Grünen AN/0646/2020 zur Sitzung der Bezirksvertretung Kalk am 28.05.2020 - Kenntnis genommen
+- TOP 17.6: Sicherung der Club-Kultur in Köln-Ehrenfeld
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
