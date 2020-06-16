@@ -1,7 +1,7 @@
 # Art 3 Zuständige Behörden
 
 (1)
-Zuständige Behörde im Sinne des § 1.02 Satz 2 der Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen und Schifffahrt. Zu diesem Zweck wird sie ermächtigt, durch Rechtsverordnung zur Anpassung an die technische Entwicklung der Binnenschifffahrt oder zu Versuchszwecken eine von der Schiffspersonalverordnung-Rhein abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen.
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der Zentralkommission für die Rheinschifffahrt nach § 1.02 der Schiffspersonalverordnung-Rhein durch Rechtsverordnung in dringenden Fällen oder zu Versuchszwecken eine von der Schiffspersonalverordnung-Rhein abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen.
 (2)
 Zuständige Behörden im Sinne des § 1.03 der Schiffspersonalverordnung-Rhein sind die Generaldirektion Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten Wasserstraßen- und Schifffahrtsämter.
 (3)
