@@ -1,0 +1,56 @@
+# Schulausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-06-16T17:00:00+02:00
+- Ende: 2020-06-16T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/28
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5154
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5154
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket -  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131180.pdf
+- Ergebnisprotokoll: Sitzungspaket -  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131180.pdf
+- Wortprotokoll: Sitzungspaket -  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131180.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohnerfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Anpassung der Mensazuschüsse ab dem Schuljahr 2020/2021 - einstimmig zugestimmt
+- TOP 5: Kooperationsvereinbarung Kolping-Bildungswerk Schuljahr 2020/2021 - einstimmig zugestimmt
+- TOP 6: Anpassung der OGS-Budgets zum 01.08.2020 - einstimmig zugestimmt
+- TOP 7: Änderung der Gebührenordnung und Satzung der Musikschule - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 8: Einführung einer "Schul-Cloud" für die städtischen Neusser Schulen - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 9: Antrag der FDP-Fraktion betr. Aufbau der IT-Infrastruktur zur Virtualisierung des Schulunterrichts in Zeiten der Pandemie und danach - mehrheitlich abgelehnt
+- TOP 10: Antrag der Koalitionsfraktrionen CDU- und Bündnis 90//Die GRÜNEN - einstimmig zugestimmt
+- TOP 11: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Digitalisierung in Neusser Schulen vorantreiben - abgesetzt
+- TOP 12: Antrag der SPD-Fraktion betr. Lehren aus der Corona-Krise für die Schullandschaft ziehen – Einrichtung eines „Runden Tisches“ - mehrheitlich zugestimmt
+- TOP 13: Antrag der Fraktion Die Linke betr. Nachhaltige Verbesserung der Schulreinigung - mehrheitlich abgelehnt
+- TOP 13.1: Antrag auf Anleitung für digitale Programme in Grund- und weiterführenden Schulen - einstimmig zugestimmt
+- TOP 13.2: Antrag der FDP-Fraktion betr. Konsequenzen für Schule und Verwaltung aus der Corona-Pandemie - abgesetzt
+- TOP 13.3: Antrag der CDU- und Bündnis 90/Die GRÜNEN-Koalitionsfraktionen: Corona-Soforthilfe: Schulen für das neue Schuljahr fit machen - abgesetzt
+- TOP 13.4: Antrag der CDU- und BÜNDNIS 90/Die GRÜNEN-Koalitionsfraktionen: Konsequenzen aus Corona ziehen: Neusser Schulen schnell und umfassend digitalisieren - mehrheitlich zugestimmt
+- TOP -: Anfragen
+- TOP 14: Anfrage der Frau Stadtverordneten Wellens betr. Statusbericht Gebäudereinigung - zur Kenntnis genommen
+- TOP 14.1: Vermeidung möglicherweise infektiöser Aerosole in der Klassenraumluft - zur Kenntnis genommen
+- TOP 14.2: Versorgung der Schulen mit schnellem Internet - zur Kenntnis genommen
+- TOP 14.3: Umsetzung des Digitalpaktes - zur Kenntnis genommen
+- TOP 14.4: Machbarkeitsstudie (Comenius-Gesamtschule) - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 15: Bericht der Verwaltung zur Sitiation der Schulen und Corona (mündlich)
+- TOP 16: Bericht zum Online-Unterricht der Musikschule (mündlich) - zur Kenntnis genommen
+- TOP 17: Schulwegsicherung - Verkehrsübungsplätze auf Schulhöfen - zur Kenntnis genommen
+- TOP 18: Behandlung der Themen aus der ausgefallenen Sitzung des Schulausschusses am 17.03.2020 - zur Kenntnis genommen
+- TOP 19: Handreichung zum Schulbau - zur Kenntnis genommen
+- TOP 20: Entwicklungsbericht OGS - zur Kenntnis genommen
+- TOP 21: Jährliche Grundreinigung der Neusser Schulen - zur Kenntnis genommen
+- TOP 22: Sicherung von Unterlagen aufgelöster Schulen der Stadt Neuss - zur Kenntnis genommen
+- TOP 23: Einwohnerfragestunde
