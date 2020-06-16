@@ -1,0 +1,8 @@
+# TOP -: Ersetzungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen zu Top 5.1. Antrag der SPD Fraktion betr: „Kölner Stadtteile auch digital stärken - Digitale Veedel mit vielfältigen Angeboten und Services entwickeln"
+
+- Sitzung: Sondersitzung des Wirtschaftsausschusses (2020-06-16)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/304025
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/144047
