@@ -1,0 +1,103 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5778733
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5778733
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 8: Kultur und Integration
+- TOP 9: Umwelt und Verkehr
+- TOP 10: Budget und Finanzen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 13: Protokoll und Umlauf
+- TOP 4.1.: Kündigung Büchergalerie und geplanter Abriss des Anwesens Ligsalzstraße 25
+- TOP 4.2.: Initiative Silvesterfeuerwerk nein danke
+- TOP 4.3.: Nutzung der Bürgersteige und Halteverbotszonen im Bereich der Kreuzung Ligsalzstr. / Gollierstr. als Parkplatz
+- TOP 4.4.: Errichtung von richtigen Fahrradständern anstatt von Fahrradanlehnbügeln
+- TOP 4.5.: Wegfall von Parkplätzen in der Barthstraße durch die Einrichtung eines baulichen Radweges
+- TOP 4.6.: Verkehrsberuhigung Schwanthalerstraße
+- TOP 4.7.: Projektvorschlag zur Requalifizierung eines Areals unter der Donnersbergerbrücke
+- TOP 4.8.: Verbesserung der Verkehrssicherheit am Radweg Ben-Chorin-Straße / Bavariapark
+- TOP 4.9.: Errichtung von Fahrradständern vor der KITA St. Rupert
+- TOP 4.10.: Konzept für Kulturveranstaltungen unter Corona-Bedingungen
+- TOP 4.11.: Radwegsituation im Bereich des Gollierplatzes
+- TOP 4.12.: Unterstützung der Stadtteilflohmärkte
+- TOP 6.2.1.: Bauvorhaben Grasserstraße 5-7
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Öffentlicher Spielplatz an der Schrenkstraße / Westendstraße; notwendiger Abbau von nicht mehr sicheren Spielgeräten
+- TOP 6.3.4.: Befristete Rücknahme des Entscheidungsrechts bei Genehmigung oder Erweiterungsgenehmigung von Freischankflächen bis zum 30.09.2020
+- TOP 6.3.5.: Errichtung von Wohnungen in Stelzenhäusern über dem Parkplatz der Firmen Lidl und DM auf Höhe der Westendstraße 100 - Fristverlängerung BA-Antrag Nr. 14-20 / B07559
+- TOP 6.3.6.: Bayerische Hausbau; Planungen für das Anwesen Schwanthalerstraße 113 - 115
+- TOP 6.3.7.: Genehmigung Freischankfläche Kazmairstraße 47
+- TOP 6.3.8.: Genehmigung Freischankfläche auf dem Parkstreifen Parkstraße 30
+- TOP 6.3.9.: Genehmigung Freischankfläche auf dem Parkstreifen Kazmairstraße 30
+- TOP 6.3.10.: Genehmigung Freischankfläche Schrenkstr. 13
+- TOP 6.3.11.: Genehmigung Freischankfläche Ligsalzstr. 38
+- TOP 6.3.12.: Genehmigung Freischankfläche Ligsalzstr. 30
+- TOP 6.3.13.: Genehmigung Freischankfläche Theresienhöhe 15
+- TOP 6.3.14.: Genehmigung Freischankfläche Bergmannstraße 28
+- TOP 6.3.15.: Genehmigung Freischankfläche Bergmannstraße 33
+- TOP 6.3.16.: Genehmigung Freischankfläche Gollierstraße 20
+- TOP 6.3.17.: Genehmigung Freischankfläche Schwanthalerstraße 123
+- TOP 6.3.18.: Genehmigung Freischankfläche Schwanthalerstraße 135
+- TOP 6.3.19.: Genehmigung eines Obststandes am Franziska-Bilek-Weg 1
+- TOP 6.3.20.: Genehmigung Freischankfläche Theresienhöhe 3
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Sommer in der Stadt - Unterstützung der Münchner Schausteller*innen in der Corona-Krise
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Protokoll Unterausschuss Kultur und Integration vom 08.06.2020
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Fäustlestraße 3
+- TOP 9.2.2.: Baumfällung Ridlerstraße 55
+- TOP 9.2.3.: Ridlerstraße 55 - 57; Errichtung absolutes Haltverbot
+- TOP 9.2.4.: Sitzbänke im öffentlichen Raum
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Errichtung einer begrünten Mittelinsel mit Baum vor dem Anwesen Anglerstraße 12
+- TOP 9.3.2.: Versammlung "Kulturlieferdienst" am 05.06.2020 in der Gollierstraße
+- TOP 9.3.3.: Protokoll Unterausschuss Umwelt und Verkehr vom 26.05.2020
+- TOP 9.3.4.: Flyer Parkraummanagement Ridlerstraße und Theresienhöhe
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Verein memoves e.V. Entlastung für Eltern und Bewegungsangebot für Kinder von Juni bis September 2020 14.250,00€; Az. 0262.0-8-0228
+- TOP 10.1.2.: (E) Stadtbezirksbudget Queerfeministisches Netzwerk München Veranstaltungsreihe „Qeerthing 2020“ vom 01.07.-20.12.2020 2.683,33€; Az. 0262.0-8-0230
+- TOP 10.1.3.: (E) Stadtbezirksbudget westendstudios Gedenkfeier „Theodoros Boulgarides“ vom 15.06.-15.08.2020 4.900,00€; Az. 0262.0-8-0229
+- TOP 10.1.4.: Stadtbezirksbudget Initiative „Bienen- und Insektenwelt“ - Antrag auf Erhöhung des Zuschussbetrages um € 189,50 auf € 1434,50
+- TOP 10.1.5.: Stadtbezirksbudget Antrag Verein PA / Spielen in der Stadt - Änderung des ursprünglichen Antrags und Reduzierung des Zuschussbetrags auf € 1.623,00
+- TOP 10.1.6.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-8-0227
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Stadtbezirksbudget; Antrag "Generationsgerechtes Wohnen" - Verlängerung Bewilligungszeitraum
+- TOP 10.3.2.: Stadtbezirksbudget; Erhöhung des Anteils für eigene Veranstaltungen
+- TOP 11.1.: Verbesserung der Verkehrssicherheit für Fußgänger*innen und besonders Kinder in der Geroltstraße
+- TOP 11.2.: Optische Abgrenzung von Fahrrad- und Gehwegbereich Trappentreustraße vor Pfarrheim St. Ruppert
+- TOP 11.3.: Parkverbotskennzeichnung auf der Fahrbahn an den abgesenkten Bordsteinkanten Ecke Kazmairstraße/Kiliansplatz
+- TOP 11.4.: Rote Fahrradwegmarkierung an der Kreuzung Trappentreustr./Tulbeckstr. sowie Trappentreustr./Westendstr. östlich
+- TOP 11.5.: Verbesserung der Gefahrensituationen für Fußgänger*innen und Radfahrer*innen im Kreuzungsbereich des „Stöpsels“ (Kreuzung Gollierplatz/Trappentreustr.)
+- TOP 11.6.: Kulturgeschichtspfad Schwanthalerhöhe: QR Code und Verlinkung ins Internet
+- TOP 11.7.: Die Untere Denkmalschutzbehörde wird aufgefordert, die Anwesen Ligsalzstraße 25 und 27 auf die denkmalschutzrechtliche Würdigung hin zu untersuchen
+- TOP 11.8.: Prüfung der Teilnahme des Stadtbezirkes Schwanthalerhöhe am Pilotprojekt "Lastenrad-Mietsystem" des Freistaates Bayern
+- TOP 11.9.: Zeitgleiche Einführung von Anwohnerparken und Parkraumbewirtschaftung auf der Theresienhöhe, Ganghoferstraße und den Straßen der Messestadt (Hans-Fischer-Straße, August-Kühn-Straße, Carlamaria-Heim-Straße, Kurt-Spengler-Straße, Wugg-Retzer-Straße)
+- TOP 12.1.: BA-Sitzungen im Live-Stream
