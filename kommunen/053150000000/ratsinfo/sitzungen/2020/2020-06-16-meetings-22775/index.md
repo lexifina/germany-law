@@ -1,0 +1,54 @@
+# Sondersitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-06-16T14:10:00+02:00
+- Ende: 2020-06-16T16:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22775
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22775
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00774304.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00774304.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00774304.pdf
+
+## Tagesordnung
+
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sachstand Verlagerung des Großmarkts und Errichtung eines Frischezentrums" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sachstand Verlagerung des Großmarktes und Errichtung eines Frischezentrums" (AN/0029/2020) - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Eugen Litvinov aus der Sitzung des Wirtschaftsausschusses vom 08.05.2020 betreffend TOP 11.1: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 (Mitteilung 11 - zurückgestellt
+- TOP 3.3: Beantwortung von mündlichen Anfragen aus der 43. Sitzung des Wirtschaftsausschusses vom 08.05.2020, TOP 8.1 - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Antrag der SPD-Fraktion betr.: "Kölner Stadtteile auch digital stärken - Digitale Veedel mit vielfältigen Angeboten und Services entwickeln" - endgültig abgelehnt
+- TOP -: Änderungsantrag der FDP-Fraktion zu TOP 5.1 betr.: " Kölner Stadtteile auch digital stärken" - endgültig abgelehnt
+- TOP -: Ersetzungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen zu Top 5.1. Antrag der SPD Fraktion betr: „Kölner Stadtteile auch digital stärken - Digitale Veedel mit vielfältigen Angeboten und Services entwickeln" - geändert beschlossen
+- TOP 5.2: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Corona-Pandemie: Fortführung des Notfallfonds Struktursicherung Livemusikstätten" - ungeändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungs-/Zusatzantrag der SPD-Fraktion betr.: "Ersetzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III–Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt" - ohne Votum in nachfolgende Gremien
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 15: Mitteilungen
+- TOP 15.1: Online-Angebote für neuzugewanderte Kinder, Jugendliche und junge Erwachsene bis 27 Jahre - Kenntnis genommen
+- TOP 15.2: Umsetzung Notfallfonds zur Struktursicherung bei durch die Corona-Pandemie betroffenen Livemusikspielstätten - Kenntnis genommen
+- TOP 15.3: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Corona-Pandemie: Wirtschaftliche Auswirkungen auf die Veranstaltungs- und Eventbranche in Köln" (AN/0564/2020) - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion betr.: "Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen" - zurückgestellt
+- TOP 16.2: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Möhl-Areal in Köln-Dellbrück - mit Änderungen empfohlen
+- TOP 16.3: Ernährungsstrategie für Köln und Umgebung - mit Änderungen empfohlen
+- TOP 16.4: Umsetzung Einzelhandels- und Zentrenkonzept - ungeändert empfohlen
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
