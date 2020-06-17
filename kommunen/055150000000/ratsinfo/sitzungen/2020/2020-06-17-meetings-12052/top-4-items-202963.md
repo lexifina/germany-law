@@ -1,0 +1,8 @@
+# TOP 4: Wiederaufstellung des Brunnens „Sketch for a Fountain“ von Nicole Eisenman an der Kreuzschanze
+
+- Sitzung: Sitzung (2020-06-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/202963
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/72740
