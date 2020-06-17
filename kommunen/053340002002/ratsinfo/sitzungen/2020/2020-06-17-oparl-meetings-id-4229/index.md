@@ -1,0 +1,62 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-06-17T17:00:00+02:00
+- Ende: 2020-06-17T18:33:00+02:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4229
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4229
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 06.05.2020 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Einrichtung der Bewohnerparkzone "Kullen" (Kullen) - ungeändert beschlossen
+- TOP 5: Schulentwicklungsplan für den Bereich der Primarstufe 2019-2024 - geändert beschlossen
+- TOP 6: Änderung der Richtlinien der Stadt Aachen über die Gewährung einer laufenden Geldleistung an Kindertagespflegepersonen - ungeändert beschlossen
+- TOP 7: Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Förder- und Betreuungsangeboten in der Primarstufe der Schulen der Stadt Aachen (Offene Ganztagsschulen), hier: 7. Änderungssatzung - ungeändert beschlossen
+- TOP 8: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz), hier: 6. Änderungssatzung - geändert beschlossen
+- TOP 9: Satzung der Stadt Aachen über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz), hier: 4. Änderungssatzung - geändert beschlossen
+- TOP 10: Finanzierung Montessori Zentrum Eilendorf, Schulbau - ungeändert beschlossen
+- TOP 11: Erlass der hälftigen Beitragserhebung für die Betreuung von Kindern in den Kindertagesstätten und der Kindertagespflege im Zuge von COVID-19 für die Monate Juni und Juli 2020 - ungeändert beschlossen
+- TOP 12: Einrichtung von fünf halben Stellen für Erzieher*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 13: Stelleneinrichtungen und -aufhebung sowie Verlängerung von kw-Vermerken an vorhandenen Stellen im Bereich der städtischen Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 14: II. (vereinfachte) Änderung Bebauungsplan Nr. 915 -Seffenter Weg/ Melaten-hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 15: 1. Nachtragssatzung zur Haushaltssatzung 2020 - ungeändert beschlossen
+- TOP 16: Sondernutzungen für Gastronomiehier: temporäre Ergänzung der Sondernutzungssatzung, befristet bis zum 31.12.2020 bezügl. Außengastronomie gemäß § 8 SondernutzungssatzungTagesordnungsantrag für den PlanungsausschussSchreiben der DEHOGA - geändert beschlossen
+- TOP 17: Modellprojekte Smart Cities - Stadtentwicklung und DigitalisierungHier: Teilnahme am Förderaufruf - ungeändert beschlossen
+- TOP 18: Ergänzung der Geschäftsordnung - Einführung schriftlicher Einzelfragenhier: Ratsantrag Nr. 619/17 der Ratsgruppe "Allianz für Aachen" vom 28.04.2020 - ungeändert beschlossen
+- TOP 19: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 19.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen im Haushaltsjahr 2020 – Erweiterung Großinventar in Mensen der Gymnasien - ungeändert beschlossen
+- TOP 19.2: Bereitstellung üpl. Mittel für den Neubau KGS Bildchen - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Ratsanträge - geändert beschlossen
+- TOP 22: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 22.1: Umbesetzungsantrag der Fraktion DIE LINKE vom 09.06.2020 - ungeändert beschlossen
+- TOP 22.2: Umbesetzungsantrag der PIRATEN-Fraktion vom 16.06.2020 - ungeändert beschlossen
+- TOP 22.3: Umbesetzungsantrag der SPD-Fraktion vom 16.06.2020 - ungeändert beschlossen
+- TOP 22.4: Umbesetzungsantrag der SPD-Fraktion vom 17.06.2020 - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 24: Resolution zur Schaffung eines Bund-Länder-Rettungsschirms für die Kommunenhier: Gemeinsamer Tagesordnungsantrag der Fraktionen von CDU, SPD, GRÜNE, DIE LINKE, FDP und PIRATEN vom 03.06.2020
+- TOP 25: Bericht über die Prüfung des Jahresabschlusses 2018: - ungeändert beschlossen
+- TOP 26: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagenhier: Ergänzende Vorlage zur Vorlage vom 27.02.2020 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
