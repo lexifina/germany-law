@@ -1,0 +1,52 @@
+# 8. Sitzung des Kreistages Märkisch-Oderland
+
+- Körperschaft: Landkreis Märkisch-Oderland
+- Beginn: 2020-06-17T16:00:00+02:00
+- Ende: 2020-06-17T20:10:00+02:00
+- Ort: Erich-Weinert-Straße 13, 15306 Seelow
+- Status: 
+- Gremium: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://ratsinfo-online.net/landkreis-mol-bi/to010.asp?SILFDNR=1415
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=1415
+- Quelle: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=105&id=76155
+- Ergebnisprotokoll: Niederschrift https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=110&id=77178
+
+## Tagesordnung
+
+- TOP 1: Zur Geschäftsordnung
+- TOP 1.1: Begrüßung und Eröffnung
+- TOP 1.2: Prüfung der Ordnungsmäßigkeit der Ladung
+- TOP 1.3: Entscheidung über Einwendungen gegen die Niederschrift (Öffentlicher Teil) der 7. Sitzung (außerordentliche Sitzung) vom 25.03.2020
+- TOP 1.4: Feststellung der Tagesordnung
+- TOP 1.5: Feststellung von Ausschließungsgründen gem. § 22 BbgKVerf
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anfragen der Kreistagsabgeordneten
+- TOP 4: Information des Landrates zur aktuellen Situation im Landkreis
+- TOP 5: Petitionen
+- TOP 6: Benennung des Kreisseniorenbeirates des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - geändert beschlossen
+- TOP 7: ÖPNV-Investitionsliste 2020/2 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 8: Gründung der Interessengemeinschaft Ostbahn (IGOB) in der Rechtsform eines eingetragenen Vereins und Beitritt des Landkreises als ordentliches Mitglied <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 9: Beitritt zum Kommunalen Nachbarschaftsforum Berlin und Brandenburg e.V. (KNF) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 10: Beratung und Beschlussfassung zur Änderung des Stellenplanes 2020 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 11: Beratung und Beschlussfassung zur Bewilligung von erheblichen überplanmäßigen Aufwendungen im Personalbereich für das Haushaltsjahr 2019 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 12: Beratung und Beschlussfassung zur Entscheidung über den Verwaltungsstandort Bad Freienwalde <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 13: Beratung und Beschlussfassung zur Richtlinie zur Gewährung von Zuwendungen aus dem Haushalt des Landkreises Märkisch-Oderland an außerhalb der Kreisverwaltung stehende Institutionen/Träger/Personen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 14: Beschlussfassung über die Genehmigung der Eilentscheidung vom 30.03.2020 zur Zuschlagserteilung für den Auftrag der Ingenieurleistungen der Technischen Ausrüstung für das LOS 2 - (Elektro) für den Neubau Schule mit sonderpädagogischem Schwerpunkt "geistige Entwicklung", Gruscheweg, 15366 Neuenhagen bei Berlin <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 15: Beschlussfassung über die Genehmigung der Eilentscheidung vom 30.03.2020 zur Auftragsvergabe der Ingenieurleistungen der Technischen Ausrüstung für das Los 01 - (Heizung/Sanitär/Lüftung) für den Neubau Schule mit sonderpädagogischem Schwerpunkt "geistige Entwicklung", Gruscheweg, 15366 Neuenhagen bei Berlin <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 16: Beschlussfassung über die Genehmigung der Eilentscheidung vom 30.03.2020 zur Zuschlagserteilung für den Auftrag der Ingenieurleistungen der Tragwerksplanung für den Neubau Schule mit sonderpädagogischem Schwerpunkt "geistige Entwicklung", Gruscheweg, 15366 Neuenhagen bei Berlin <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 17: Beschlussfassung über die Genehmigung der Eilentscheidung vom 03.04.2020 gemäß § 58 BbgKVerf zum Abschluss eines Pachtvertrages zwischen der CEMEX Zement GmbH Rüdersdorf und dem Landkreis Märkisch-Oderland über das an der B1/B5 gelegene Grundstück Horst-Wilhelm-Otto Weg in 15562 Rüdersdorf -Abfallumschlagstation- (AUST) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 18: Beratung und Beschlussfassung zur Vergabe der Leistung „Transport von Restabfällen und Sperrmüll für den Entsorgungsbetrieb Märkisch-Oderland ab 01.01.2021" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 19: Beratung und Beschlussfassung zur Auftragsvergabe von Bauleistungen - Los 22 - Außenanlagen für den Ergänzungsbau Friedrich-Anton-von-Heinitz-Gymnasium Rüdersdorf, Brückenstraße 80A, 15562 Rüdersdorf bei Berlin <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 20: Beratung und Beschlussfassung zur Auftragsvergabe für die Deckenerneuerung K6412, Abs. 10, km 0,081 bis km 4,066 von Zollbrücke bis Ortseingang Altwustrow <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 21: Abberufung und Berufung eines Fraktionsmitgliedes als Mitglied des Aufsichtsrates der Kreismusikschule Märkisch-Oderland gGmbH <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span>
+- TOP 22: Abberufung und Berufung eines Fraktionsmitgliedes als stellvertretendes Mitglied des Aufsichtsrates der Rettungsdienst Märkisch-Oderland GmbH <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span>
+- TOP 23: Bestellung eines übrigen weiteren Mitgliedes des Verwaltungsrates der Kreissparkasse Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span>
+- TOP 24: Beratung und Beschlussfassung zur Satzung für das Jugendamt Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 25: Beratung und Beschlussfassung der „Satzung zur Erhebung und zur Höhe von Kostenbeiträgen für die Betreuung von Kindern des Landkreises Märkisch-Oderland in Kindertagespflege“ (Kostenbeitragssatzung für die Kindertagespflege) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 26: Information zu unerheblichen über- und außerplanmäßigen Aufwendungen und Auszahlungen 2019 des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 27: Förderung der Denkmalpflege im Landkreis Märkisch-Oderland 2019 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 28: Informationen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
