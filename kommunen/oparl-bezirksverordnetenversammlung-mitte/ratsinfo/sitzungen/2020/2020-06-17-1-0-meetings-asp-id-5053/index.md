@@ -1,0 +1,52 @@
+# 43. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-06-17T17:40:00+02:00
+- Ende: 2020-06-17T20:13:00+02:00
+- Ort: UNVG , https://global.gotomeeting.com/join/487267477
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5053
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5053
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=473421
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=475259
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - (offen)
+- TOP 1.2: Protokoll der 42. Sitzung am 27.05.2020 - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Viertelstunde - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Runder Tisch Engelbecken - vertagt
+- TOP 4.2: Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten - vertagt
+- TOP 4.3: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - vertagt
+- TOP 4.4: über den Beschluss über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 Baugesetzbuch (BauGB) zum Bebau-ungsplanverfahren I-57-1 (Monbijou-Theater). - vertagt
+- TOP 4.5: Stadtklima verbessern, Grünflächen entsiegeln - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Größere Baumscheiben für Straßenbäume - mit Änderungen im Ausschuss beschlossen
+- TOP 4.7: Spreeuferweg im Nikolaiviertel - gegenstandslos
+- TOP 4.8: Verkehrsberuhigung in Wohnkiezen – „Superblocks“ (Superilles) auch für Mitte - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Altglassammelcontainer – Standorte bekanntgeben - gegenstandslos
+- TOP 4.10: Mehr Rücksicht auf Fußgänger an Bushaltestellen - im Ausschuss abgelehnt
+- TOP 4.11: Anordnung Tempo 30 für die Veteranenstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Querung Fennstraße endlich sicher machen - vertagt
+- TOP 4.13: Verkehrssicherheit im Brüsseler Kiez erhöhen - vertagt
+- TOP 4.14: Grünfläche im Monbijoupark erweitern und kulturelle Nutzungen zwischen Hochbunkeranlage und südlichen Flächen bis zur Spree ermöglichen - vertagt
+- TOP 4.15: Mühlendammbrücke retten - vertagt
+- TOP 4.16: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung" - vertagt
+- TOP 4.17: Mühlendammbrücke - vertagt
+- TOP 4.18: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren - vertagt
+- TOP 4.19: U-Bahnhof Französische Straße - vertagt
+- TOP 4.20: Tempo 30 für die Köpenicker Str. - vertagt
+- TOP 4.21: Verkehrssicherheit Kreuzung Wilhelm-Kuhr-Str./ Nordbahnstr. - vertagt
+- TOP 4.22: StVO-Power für Mitte - Fahrradzonen anstatt Tempo 30 Zonen - vertagt
+- TOP 4.23: Saubere Parkanlagen - vertagt
+- TOP 4.24: StVO-Power für Mitte - Grünpfeil für Radfahrende nutzen! - vertagt
+- TOP 4.25: Baumentwicklungsplan - vertagt
+- TOP 5: Verschiedenes - erledigt
+- TOP 6: Terminplanung - vertagt
