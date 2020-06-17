@@ -1,0 +1,8 @@
+# TOP 6: Umbau des ehemaligen Hill-Speichers (Am Mittelhafen 42) als Gemeinbedarfseinrichtung zu einem sozio-kulturellen Zentrum
+
+- Sitzung: Sitzung (2020-06-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/202958
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/71278
