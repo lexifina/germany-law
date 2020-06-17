@@ -1,0 +1,171 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2020-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779739
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779739
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: Unterausschuss Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: Unterausschuss Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.3: Unterausschuss Verkehrsinfrastruktur, Verkehrsplanung und Mobiltät
+- TOP 6.4: Unterausschuss Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt/ Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 29.04.20:
+- TOP 10.2: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.20
+- TOP 10.3: Beschluss des Bauausschusses vom 03.03.20
+- TOP 10.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.20
+- TOP 10.5: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.02.20
+- TOP 10.6: Beschluss der Vollversammlung vom 18.03.20
+- TOP 10.7: Beschluss der Vollversammlung vom 13.05.20
+- TOP 10.8: Beschluss des Verwaltungs- und Personalausschusses im Feriensenat vom 08.04.20
+- TOP 10.9: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.05.20
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Zustand des Harthauser Wegs (vertagt aus 04/20)
+- TOP 2.1.2.: Wohnhaus Bergsonstraße (vertagt aus 04/20)
+- TOP 2.1.3.: Anfrage zu Kirchengemeindegründung in Freiham
+- TOP 2.1.4.: Ausbau Negrellistraße
+- TOP 2.1.5.: Situation Lochhausenerstraße / Mälzereistraße
+- TOP 2.1.6.: Langwieder Hauptstraße - Durchgangsverkehr, Schwervekehr, Tempolimit
+- TOP 2.1.7.: Aubing-Ost-Straße / Hellensteinstraße: Maßnahmen zur Verkehrsberuhigung und Sicherheit der Anwohner während der Corona-Zeit und zur langfristigen Umsetzung, Verbreiterung des Fußgängerweges, Begrünung des Straßenrands und öffentlichen Raums
+- TOP 2.1.8.: Parkplatznutzung am Friedhof
+- TOP 2.1.9.: Regelmäßige Missachtung des LKW-Durchfahrtsverbotes Lochhausener Straße
+- TOP 2.1.10.: Toiletten Grünstreifen und Spielplätze
+- TOP 2.1.11.: Wertstoffcontainer Lochhausen
+- TOP 2.1.12.: Haltverbot Streitbergstraße
+- TOP 2.1.13.: Erhalt der noch vorhandenen Bäume in der Federseestraße und dem Baugebiet Henschelstraße
+- TOP 2.1.14.: Ziegeleistr. in den Tempo-30 Bereich aufnehmen
+- TOP 2.1.15.: N - Wertstoffinsel in der Hornberger Straße
+- TOP 2.1.16.: N - Gefährdungssituation Aubing-Ost-Straße / Hellensteinstraße - Vorfahrtsregelung und Halteverbote im Zusammenhang mit Einführung der Buslinie 157
+- TOP 2.1.17.: N - Übergang Gilchinger Straße / Wildenrother Straße
+- TOP 2.1.18.: N - Dringender Reparaturbedarf / Neugestaltung des Spielplatzes an der Altostraße / Lohwiese
+- TOP 2.1.19.: N - Aubing-Ost-Straße - Tempo 30
+- TOP 2.1.20.: N - Vermüllung Bergsonstraße
+- TOP 2.1.21.: N - Straßenverlauf der Bienenheimstraße ändern und Schild "30 Zone" entfernen
+- TOP 2.1.22.: N - Gewerbe Dreilingsweg 51
+- TOP 2.1.23.: N - Verhingerung einer "Durchforstung" Aubinger Lohe und Moosschwaige, Umwandlung von Nutzwald in Schutzwald (Verhinderung einer geplanten Baumfällaktion Aubinger Lohe / östlicher Teil)
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Limesstr. 36 - Kleiberweg 21 - Sulzemooser Str. 28 - Osterangerstr. 42 - Kronwinkler Str. 50 - Ravensburger Ring 4
+- TOP 3.1.2.: Genehmigung der Baumfällung: Mariabrunner Str. 53, Schr. Referat für Stadtplanung und Bauordnung vom 30.04.20
+- TOP 3.1.3.: Ablehnung der Baumfällung: Langwieder Hauptstr. 5, Schr. Referat für Stadtplanung und Bauordnung vom 30.04.20
+- TOP 4.1.: S-Bahn-Tangential-Verbindung (Fr. Binsteiner, Fr. Mosch, Hr. Liedl)
+- TOP 4.2.: Nutzung von Schulgebäuden im 22. Stadtbezirk für das Schuljahr 2020/2021 (Fr. Mosch, Fr. Binsteiner, Hr. Liedl)
+- TOP 4.3.: Verbesserung des Zugangs zu Geografischen Informationssystemen für Mitglieder der Bezirksausschüsse (Dagmar Mosch, Wolfgang Bösing, Karin Binsteiner)
+- TOP 4.4.: Wertstoffinsel Papinstraße - südlicher Bereich Nähe Neuaubing Bf. (Wolfgang Bösing)
+- TOP 4.5.: Ermöglichen von Videokonferenzen des BA mit Mitarbeitern der Verwaltung (Dagmar Mosch, Wolfgang Bösing)
+- TOP 4.6.: Übergangsmöglichkeit für den Penny-Markt an der Wiesentfelser Str. 68 während der Bauphase sicherstellen (Interfratkioneller Antrag)
+- TOP 4.7.: Ruhebänke am Böhmerweiher aufstellen (Thomas Hampel)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: (E) Stadtbezirksbudget: Hidalgo Community e.V., Street Art Song am 12.09.2020 bzw. 08.05.2021, 1.000,00 Euro, Az.: 0262.0-22-0142 N - Ergänzung Schr. Direktorium vom 17.06.20
+- TOP 5.2.: Entscheidung gemäßt Volmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung: PBB Altenburgstraße - Haltestelle Altenburgstraße
+- TOP 6.1.1.1.: N - Sommer in der Stadt - Zuschuss aus BA-Budget, Anhörung Kulturreferat vom 15.06.20
+- TOP 6.1.2.1.: Ausnahmegenehmigung: Veranstaltung in städtischen Grünanlagen (Skateparks) - u.a. Gleisdreieck, Wiesentfelser Straße und Freiham, Schr. KVR vom 18.05.20
+- TOP 6.1.2.2.: Stadtbezirksbudget; Erhöhung des Anteils für eigene Veranstaltung, Schr. Direktorium vom 29.05.20
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: AKIM Abschlussbericht zu Konfliktmanagement Wiesentfelser Straße - Stellungnahme BA, Schr. Sozialreferat vom 05.05.20
+- TOP 6.2.1.2.: N - Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen... Otto-Meitinger-Straße 5, Genehmigung des Nutzerbedarfsprogrammes, Anhörung Referat für Bildung und Sport vom 08.06.20
+- TOP 6.2.1.3.: N - Sommer in der Stadt - Konzeptvorstellung / Einbindung des BA 22 in die Platzfindung, Anhörung Referat für Arbeit und Wirtschaft vom 09.06.20 und N Schr. Behindertenbeirat vom 12.06.20
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Spielplatz auf der Grünfläche zwischen Hornberger Str. / S-Bahn Station Leienfelsstraße neben dem Neubaugebiet an der Aubing-Ost- / Ilse-Fehling-Str., Schr. Baureferat vom 25.03.20
+- TOP 6.2.2.2.: Verbesserungen für das Ehrenamt und Vereine ermöglichen, Schr. Direktorium vom 14.05.20
+- TOP 6.2.2.3.: Nachbarschaftstreff für das Quartier um die Gilchinger Straße, Schr. Sozialreferat vom 14.05.20
+- TOP 6.2.2.4.: Verlängerungsmöglichkeit Gemeinschaftsunterkunft Centa-Hafenbrädl-Straße, Schr. Sozialreferat vom 08.05.20 und Bürger vom 11.05.20
+- TOP 6.2.2.5.: N - Kommunalwahl 2020 - Verlegung Wahllokal nach Freiham, Schr. KVR vom 03.06.20
+- TOP 6.2.2.6.: N - Vollzug der Grünanlagensatzung: Filmaufnahmen - Ausnahmegenehmigung - Grünanlage an der S-Bahnstation Leienfelsstraße am 17.06.20, Schr. KVR vom 09.06.20 - Grünfläche Skatepark Gleisdreieck am 17.06.20, Schr. KVR vom 09.06.20
+- TOP 6.2.2.7.: N - Orientierungs- und Anlaufstelle für neu zugezogene Familien in Freiham (Raumproblematik), Schr. Kommunalreferat vom 27.05.20
+- TOP 6.2.2.8.: N - Absage von Veranstaltungen: - Stadtteilfest Gilchinger Straße am 27.06.20, Schr. KVR vom 05.06.20 - Internationales Sommerfest Radolfzeller Straße / Altenburgstraße am 04.07.-05.07.20, Schr. KVR vom 08.06.20
+- TOP 6.2.2.9.: N - Veranstaltung in einer städtischen Grünanlage: Gottesdienst am Sponeckplatz am 26.07.20 - Ausnahmegenehmigung, Schr. KVR vom 09.06.20
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Straßenunterhaltsmaßnahmen: - Holunderweg zwischen Müllerstadel und Am Lochholz, Anhörung Baureferat vom 22.04.20 - Berglwiesenstraße - Weg Berglwiesenstraße / Im Stocket bis Weiher BAB, Anhörung Baureferat vom 22.04.20 - Am Lochfeld, Anhörung Baureferat vom 22.04.20
+- TOP 6.3.1.2.: Fahrbahnsanierung: - Heckenhofer Straße zwischen Giechstraße und Dietrichsteinstraße, Anhörung Baureferat vom 04.05.20 - Hornberger Straße von Einmündung Aubing-Ost-Straße bis HausNr. 10, Anhörung Baureferat vom 05.05.20
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung: Jakob-Baumann-Straße, Franz-Delonge-Straße, Georg-Maurer-Straße, Ludwig-Schmid-Straße - Einrichtung von absoluten Haltverboten, Anhörung KVR vom 20.05.20
+- TOP 6.3.1.4.: Verkehrsrechtliche Anordnung: Aubing-Ost-Straße / Sponeckstraße - Errichtung von absoluten Haltverboten, Anhörung KVR vom 20.05.20
+- TOP 6.3.1.5.: Verkehrsrechtliche Anordnung: Kainacher Straße - Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 20.05.20
+- TOP 6.3.1.6.: Verkehrsrechtliche Anordnung: Aubinger Allee zwischen Ellis-Kaut-Str. und Helmut-Schmidt-Allee; Ellis-Kaut-Str., Gehweg "Radfahrer frei", Anhörung KVR vom 29.05.20
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrssicherheit in der Aubing-Ost-Straße, Schr. KVR vom 08.05.20
+- TOP 6.3.2.2.: Sanierung der Fahrbahn in der Müllerstadlstraße, Schr. Baureferat vom 08.04.20
+- TOP 6.3.2.3.: Klärung der Situation um den 3- bzw. 4-gleisigen Ausbau der S4, Schr. Referat für Stadtplanung und Bauordnung vom 27.04.20
+- TOP 6.3.2.4.: Kanalsanierungsmaßnahmen Aubing-Lochausen-Langwied, Pasing-Obermenzing, Schr. Münchner Stadtentwässerung vom 04.05.20
+- TOP 6.3.2.5.: Sanierung Wiesentfelser Str. im Bereich zwischen Ellis-Kaut-Str. und Bodenseestr., Schr. Baureferat vom 28.04.20
+- TOP 6.3.2.6.: Hinweisschilder zu Mobilitätsstationen der MVG, Schr. Referat für Arbeit und Wirtschaft vom 22.04.20
+- TOP 6.3.2.7.: Einschränkung des LKW-Verkehrs (Verkehrszeichen 253), Schr. KVR vom 19.03.20 (vertagt aus 05/20)
+- TOP 6.3.2.8.: Fuß- und Radwegverbindung Lochhausen/Gröbenzell, Schr. Referat für Stadtplanung und Bauordnung vom 15.04.20
+- TOP 6.3.2.9.: Verkehrsrechtliche Anordnungen: - Bergsonstraße / Kronwinkler Straße - Überholverbot, Schr. KVR vom 20.05.20 - Brunhamstraße, südlich Papinstraße - Anbringung einer Haltlinie mit dem Zusatz "bei Rot hier halten", Schr. KVR vom 20.05.20 - Lisbergstraße / Trimburgstraße - Einrichtung eines absoluten Haltverbotes, Schr. KVR vom 20.05.20 - Streitbergstr., Anordnung von absoluten Haltverboten, Schr. KVR vom 25.05.20
+- TOP 6.3.2.10.: Tempo 30 in der Brunhamstraße, Schr. KVR vom 14.05.20
+- TOP 6.3.2.11.: Parkplatz Ubostr. 7-9 flexibler nutzen, Schr. Kommunalreferat vom 26.05.20
+- TOP 6.3.2.12.: Verkehrsberuhigung im Bereich des Monica-Beibtreu-Weges wird nicht beachtet, Schr. KVR vom 28.05.20
+- TOP 6.3.2.13.: Tempo 30 in der Aubing-Ost-Straße, Schr. KVR vom 28.05.20
+- TOP 6.3.2.14.: Verschiebung des Baubeginns der Vorarbeiten für die EÜ Erneuerung der Paosostr., Schr. DB Netz AG vom 29.05.20
+- TOP 6.3.2.15.: Schutz des 22. Stadtbezirkes vor Schleichverkehr, Planungsstand Pförtnerampel BAB A 99 Germering Nord, Schr. KVR vom 25.05.20
+- TOP 6.3.2.16.: Absolutes Haltverbot in der Lisbergstraße, Schr. KVR vom 22.05.20
+- TOP 6.3.2.17.: Wege am Friedhof Aubing, Schr. Städt. Friedhöfe München vom 25.05.20
+- TOP 6.3.2.18.: N - Beidseitige höhengleiche Bahnübergänge - gegenwärtiger Stand, Schr. BA 21 vom 05.06.20
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Vollz. d. abfall- und immissionsschutzrechtlichen Bestimmungen; Veolia Umweltservice GmbH & Co. KG, Antrag auf Genehmigung für den Betrieb einer Anlage für Lagerung, Umschlag und Behandlung von Abfällen und Standort Rupert-Bodner-Str. 19, Anhörung Ref. f. Gesundheit u. Umwelt vom 27.05.20
+- TOP 6.4.1.2.: N - Freihamer Allee 21-23: Umbau und Instandsetzung Gut Freiham (Baudenkmal mit Wirtschaft / Nebengebäude mit Wohnungen), Tektur, Anhörung Referat für Stadtplanung und Bauordnung vom 10.06.20
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 20.04.-26.04.20, 27.04.-03.05.20, 04.05.-10.05.20, 11.05.-17.05.20, 18.05.-24.05.20, N - 25.05.-31.05.20
+- TOP 6.4.2.2.: Verschmutzung der Parkanlage und Wohngebiete durch die Baustelle Freiham, Schr. Baureferat vom 04.05.20
+- TOP 6.4.2.3.: Bebauungsplan mit Grünordnung Nr. 2084: Henschelstraße - Beratungsgremium, Schr. Referat für Stadtplanung und Bauordnung vom 21.04.20
+- TOP 6.4.2.4.: Erfassung und Aktualisierung naturschutzrelevanter Flächen im Rahmen des Projekts "Flächenkulisse Biodiversität" - Beginn der stadtweiten Kartierungsarbeiten, Schr. Referat für Stadtplanung und Bauordnung vom 24.04.20
+- TOP 6.4.2.5.: Mitteilung über ein Grundstücksgeschäft: Verkauf der Flurstücke Teilfläche 3508/8, Teilfläche 3508/9 und Teilfläche 3508/10 Bodenseestraße südlich, Schr. Kommunalreferat vom 14.04.20
+- TOP 6.4.2.6.: Baumaßnahmen der Stadtwerke München - Stichtag: 27.04.-11.05.20
+- TOP 6.4.2.7.: Schutz des Stadtklimas, Schr. Referat für Stadtplanung und Bauordnung vom 18.05.20
+- TOP 6.4.2.8.: Vorkaufsrecht nach dem BayNatSchG: - Bachfeld, Schr. Kommunalreferat vom 29.10.19 - Nähe Faulwiesenweg, Schr. Kommunalreferat vom 29.10.19
+- TOP 6.4.2.9.: Bessere Versorgung mit Glasfaser, Mobilfunk und Errichtung von kostenfreien WLan Hotspots, Schr. Referat für Arbeit und Wirtschaft vom 15.04.20
+- TOP 6.4.2.10.: "Müllkippe" in Neuaubing, Umkehrschleife des Busses 57 und Vermüllung im Freihamer Weg, Schr. Baureferat vom 21.04.20
+- TOP 6.4.2.11.: Kein Parkplatz und keine Bebauung der Wiese in der Friedrichshafener Straße; Entfernung der Verkaufscontainer auf der Wiese Friedrichshafener Straße; Keine Verschleuderung öffentlicher Gelder, Schr. Planungsreferat vom 12.05.20
+- TOP 6.4.2.12.: Neue Sitzgelegenheiten an öffentlichen Plätzen, Schr. Baureferat vom 06.05.20
+- TOP 6.4.2.13.: Mobilfunkanlage Grunschule Gotzmannstraße, Schr. Ref. f. Gesundheit u. Umwelt vom 29.04.20
+- TOP 6.4.2.14.: SWM Baumaßnahme Strom-Projekt Osterangerstraße, Flyer
+- TOP 6.4.2.15.: Baustelleneinrichtung an der Federseestraße auf Flst. 651/2 und 651/84, Ausnahmegenehmigung, Schr. KVR vom 27.05.20
+- TOP 6.4.2.16.: Taxistand Altenburgstraße, Schr. Bürger vom 30.05.20 und N - Schr. Taxi-München e.G. vom 09.06.20
+- TOP 6.4.2.17.: Baustelleneinrichtung an der der Federseestraße auf Flst. 653, Ausnahmegenehmigung, Schr. KVR vom 25.05.20
+- TOP 6.4.2.18.: N - Bohrungen für U-Bahn?, Schr. Baureferat vom 29.05.20, N - Bürgerschreiben vom 09.06.20 und 10.06.20
+- TOP 6.4.2.19.: N - Streuobstwiese Moosschwaige, Schr. Referat für Stadtplanung und Bauordnung vom 03.06.20
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutz-Gesetzes und der Geräte- und Maschinenlärmschutzverordnung: Ausnahmegenehmigung zur Durchführung von Mäharbeiten des Straßenbegleitgrüns, Schr. Referat für Gesundheit und Umwelt vom 04.05.20
+- TOP 9.1.: N - BA-Informationsschreiben Nr. 01/2020: städtische Homepage, Schr. Direktorium vom 02.06.20
+- TOP 10.1.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)auf Grund der Coronapandemie; Bildung von Sonderausschüssen durch die Bezirksausschüsse
+- TOP 10.1.2.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 10.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 10.2.3.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.1.: (U) LOS_DAMA! (Landscape and Open Space Development in Alpine Metropolitan Areas) - Ergebnisse, Andockförderung und weitere Möglichkeiten für Folgeprojekte
+- TOP 10.5.1.: (U) Siedlungsschwerpunkt Freiham 2. Realisierungsabschnitt Freiham Nord A) Bekanntgabe des Ergebnissees des städtebaulichen und landschatsplanerischen Wettbewerbes für den 2. Realisierungsabschnitt und der Vergabeentscheidung zur Rahmenplanung 2. Realisierungsabschnitt B) Bebauungsplan mit Grünordnung NR. Hörweg (südlich), Aubinger Allee (westlich), Annemarie-Renger-Straße (nördlich), Zukünftiger Landschaftspark Freiham Aufstellungsbeschluss Nr. 2083 (östlich) (Teiländerung des Bebauungsplans mit Grünordnung Nr. 2092) - Aufstellungbeschluss- C) Weiteres Vorgehen Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.6.1.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 10.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7.2.: N - (U) Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; hier: Aufsichtsräte Hinweis: Alte SV-Nr. 14-20 / V 18200
+- TOP 10.8.1.: (U) Meldeplattform Radverkehr Internetportal zur Bearbeitung von Anregungen und Beschwerden zum Radverkehr
+- TOP 10.9.1.: (U) Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Hinweis: Alte SV-Nr. 14-20 / V 17336
+- TOP 10.9.2.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 10.9.3.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP 11.1.: Absage des BA-Dialogs mit Referat für Bildung und Sport am 02.07.20, Schr. Referat für Bildung und Sport am 11.05.20
+- TOP 11.2.: Silvesterfeuerwerk? Nein Danke! - eine Idee zum weiteren Vorgehen
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses am Mittwoch, den 15.07.2020 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Planen/Bauen/Umwelt: Montag, 08.06.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Stadtbezirksbudget/Kultur/Sport: Dienstag, 09.06.20 um 18.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur/Verkehrsplanung/Mobilität: Dienstag, 09.06.20 um 20 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales/Bildung/Familie/Senioren/Kinder/Jugend: Mittwoch, 10.06.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
