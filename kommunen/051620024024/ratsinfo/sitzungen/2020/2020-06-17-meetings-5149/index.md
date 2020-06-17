@@ -1,0 +1,71 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-06-17T17:00:00+02:00
+- Ende: 2020-06-17T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/12
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5149
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5149
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131917.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131917.pdf
+- Wortprotokoll: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131917.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohnerfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Der Niedergermanische Limes auf dem Weg zum UNESCO-Welterbe - Vorentwurf des Erhaltungs- und Vermittlungskonzeptes -Sachstandsberichte - einstimmig zugestimmt
+- TOP 5: Maßnahmen der Klimaanpassung und des Klimaschutzes in der Bauleitplanung, insbesondere Bebauungsplan Nr. 495 – Furth-Süd, Further Straße/Josefstraße - einstimmig zugestimmt
+- TOP 6: Bebauungsplan Nr. 484 - Augustinusviertel, Ehemaliges St.-Alexius-Krankenhaus- Beschluss über die Abwägung der Stellungnahmen - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 7: Ausbau des Straßensystems, der Quartiersplätze und grünen Allee im Bebauungsplan Nr. 484 - Augustinusviertel, Ehemaliges St.-Alexius-Krankenhaus - Planungsbeschluss - einstimmig zugestimmt
+- TOP 8: Verlängerung der Veränderungssperre Nr. 38 für den Geltungsbereich des Bebauungsplans Nr. 120/19 - Weckhoven, Otto-Wels-Straße - - einstimmig zugestimmt
+- TOP 9: Umbauplanung Jülicher Landstraße - einstimmig zugestimmt
+- TOP 10: Botanischer Garten 3. BA, Innenbereich - einstimmig zugestimmt
+- TOP 11: BP 504 - Allerheiligen, Stüttger Feld - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 12: Verbesserung im Radwegenetz am Konrad-Adenauer-Ring und barrierefreier Ausbau der Haltestelle Polizeibehörde (Fahrtrichtung Nord) - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 13: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr. Besseren Verkehrsfluss auf der Josefstraße möglich machen
+- TOP 14: Antrag der SPD-Fraktion betr. Nächtliche Rasereien und Geschwindigkeitsüberschreitungen in der Innenstadt
+- TOP 15: Antrag der Fraktion UWG/Freie Wähler Neuss - GO Neuss betr. Aufstellen der Geschwindigkeitsanzeigen an der Burgunderschule, wie auch vor anderen Grundschulen - einstimmig zugestimmt
+- TOP 16: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Verkehrslenkung in Reuschenberg verbessern
+- TOP 17: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Fahrradstraße/n einrichten - einstimmig zugestimmt
+- TOP 18: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Fahrradabstellanlagen einrichten - einstimmig zugestimmt
+- TOP 19: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Begegnungsflächen (Shared Space-Flächen) einrichten - einstimmig zugestimmt
+- TOP 20: Interfraktioneller Antrag betr. Verhinderung nachträglicher Fällungen von in Bebauungsplänen geschützter Bäume - verwiesen
+- TOP 21: Antrag der SPD-Fraktion betr. Sachstandsbericht Wegeverbindung Stauffenbergstraße/Rheydter Straße
+- TOP 22: Antrag der SPD-Fraktion betr. Sachstandsbericht Parkplatzbegrenzung Körnerstraße (Hausnummer 19-45 und 24-46)
+- TOP 23: Antrag der SPD-Fraktion betr. Geschwindigkeitsüberschreitungen in der Tückingstraße
+- TOP 24: Antrag der SPD-Fraktion betr. Mehr Grün für Fußgänger und Radfahrer an der Bergheimer Strasse in Reuschenberg
+- TOP 25: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Plätze für Radfahrende öffnen - einstimmig zugestimmt
+- TOP 26: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Aktualisierung des Verkehrsentwicklungsplans aus 2003
+- TOP 27: Antrag der Fraktionen CDU u. B90/Die Grünen betr. Sachstandsbericht „An der Münze“
+- TOP 28: Antrag der Fraktion UWG/Freie Wähler Neuss - GO Neuss betr. Aufstellen eines Hinweisschildes in Weckhoven Palmstrauch/Grevenbroicher Straße "Ladenzentrum/Wochenmarkt" - mehrheitlich abgelehnt
+- TOP 29: Antrag der SPD-Fraktion betr. Bessere ÖPNV-Anbindung des Stadtteils Hoisten
+- TOP 30: Antrag der SPD-Fraktion betr. Bessere ÖPNV-Anbindung von Grefrath und Dirkes - einstimmig zugestimmt
+- TOP 31: Antrag der SPD-Fraktion betr. Bahnübergang im Bereich des Eselspfades – Sachstandsbericht zum Umbau - einstimmig zugestimmt
+- TOP 32: Antrag der SPD-Fraktion betr. Ausweitung des Bewohnerparkens auf die Randgebiete zur Innenstadt - einstimmig zugestimmt
+- TOP 33: Antrag der SPD-Fraktion betr. Bessere Pflege der Radwege in Neuss - verwiesen
+- TOP 34: Antrag der SPD-Fraktion betr. Unerlaubtes Parken auf den Grünflächen Gielenstraße und Katharina-Braeckeler-Straße
+- TOP 35: Antrag der SPD-Fraktion betr. Volmerswerther Straße – Maßnahmen zur Geschwindigkeitseinhaltung
+- TOP 36: Antrag der SPD-Fraktion betr. Verbesserungen für die Straßenbahn-Haltestellen an Rheinpark-Center und Langemarckstraße
+- TOP 36.1: Antrag der Fraktionen CDU und B90/Die Grünen betr. Berichterstattung zu „Tiny Houses" in der Stadt Neuss
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 37: Wohnungsmarktbericht des Sozialamtes der Stadt Neuss 2018 (Datenbasis) - zur Kenntnis genommen
+- TOP 38: Sachstand zum Neubau des Haltepunktes "Neuss Johanna-Etienne-Krankenhaus" - zur Kenntnis genommen
+- TOP 39: Stellungnahmen der Verwaltung zu noch offenen Anträgen - zur Kenntnis genommen
+- TOP 40: Rückblick auf die Arbeit des Ausschusses für Planung und Stadtentwicklung und des Dezernates Planung, Bau und Verkehr in der Wahlperiode 2014 - 2020 - zur Kenntnis genommen
+- TOP 41: Projekte der Bauleitplanung mit geplanten Beschlussfassungen in der laufenden Ratsperiode (Rat August) - zur Kenntnis genommen
+- TOP 42: Bebauungsplan Nr. 494 - Norf, Grupellostraße - Planungsstand - zur Kenntnis genommen
+- TOP 43: Gielenstraße, Neubau des Lebensmittelmarktes kombiniert mit Wohnen, Bericht über eine Informationsveranstaltung - zur Kenntnis genommen
+- TOP 44: BP 333 -An der Erftmündung- Befreiung von einer Festsetzung, hier Baugrenzenüberschreitung - zur Kenntnis genommen
+- TOP 45: Einwohnerfragestunde
