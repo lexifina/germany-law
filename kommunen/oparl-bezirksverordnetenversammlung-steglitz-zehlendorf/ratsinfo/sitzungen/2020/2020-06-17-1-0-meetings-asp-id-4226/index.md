@@ -1,0 +1,83 @@
+# 39. Öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-06-17T17:00:00+02:00
+- Ende: 2020-06-17T23:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4226
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4226
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 3.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Sondermittel der BVV für den Städtepartnerschaftsverein Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Sondermittel für die DLRG LV Berlin e.V. Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Masterplan Schuldigitalisierung und Einrichtung eines zentralen Service- und Koordinationsbüros - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Schulwegsicherung Erich-Kästner-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.8: Tempo 30 vor der Erich-Kästner-Grundschule - in der BVV abgelehnt
+- TOP 3.9: Vorrang für Öffis auf dem Teltower Damm II - in der BVV abgelehnt
+- TOP 3.10: Autofreie Bushaltestelle - in der BVV abgelehnt
+- TOP 3.11: Halteverbot Chausseestraße Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.12: Maßnahmen Königstraße Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.13: Beschilderung Einbahnstraße Am Großen Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.14: Behindertengerechter Übergang Königstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.15: Maßnahmen Bushaltestelle und Fußgängerüberweg Kreuzung Königstraße / Chausseestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.16: Gedenk- und Lernort in Lichterfelde-Süd kennen und erleben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.17: Busbeschleunigung in der Schildhornstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.18: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 4.1: Verkehrssicherheit für Fußgänger*innen und Radfahrer*innen an der Kreuzung Goerzallee/Wismarer Straße/Appenzeller Straße erhöhen - überwiesen
+- TOP 4.2: Bildungsverbund in Lichterfelde-Süd/der Thermometersiedlung etablieren - überwiesen
+- TOP 4.3: Kein Bedarf am Einsatz der Bundeswehr im Gesundheitsamt Steglitz-Zehlendorf! - überwiesen
+- TOP 4.4: Temporäre Spielstraßen in Steglitz-Zehlendorf - überwiesen
+- TOP 4.5: Havelchaussee autofrei! - überwiesen
+- TOP 4.6: Kein generelles Verbot des Singens und Musizierens in Kirchen - Corona-Auflagen nur, wenn erforderlich! - überwiesen
+- TOP 4.7: Mobipoint Lankwitz, Dessauerstraße - überwiesen
+- TOP 4.8: LZA Treitschkestraße/Lepsiusstraße - überwiesen
+- TOP 4.9: Wiedervereinigungsdenkmal II - überwiesen
+- TOP 4.10: Verkehrsmaßnahmen Von-Luck-Straße - überwiesen
+- TOP 4.11: Kreiselumbau: Fahrradparkhaus integrieren - überwiesen
+- TOP 4.12: Bezirkspolitik und Gesundheit in Einklang bringen - überwiesen
+- TOP 4.13: Erneuerung des Kunstrasens im Stadion vom BFC Preußen Malteserstraße in Lankwitz - überwiesen
+- TOP 4.14: Lupsteiner Weg – Parkplatzsituation entlasten - überwiesen
+- TOP 4.15: Waldsiedlung Onkel-Toms-Hütte: Einbahnstraßen für Radfahrende in Gegenrichtung öffnen - überwiesen
+- TOP 4.16: Veranstaltungskultur unter freiem Himmel fördern - überwiesen
+- TOP 4.17: Bevölkerung über Möglichkeiten zur Stärkung des Immunsystems aufklären - überwiesen
+- TOP 4.18: Keine weiteren Gefahren durch Wildschweine im Bezirk - überwiesen
+- TOP 5: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 5.1: Saubere Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Koordination der Mobilitätshilfedienste in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 5.3: Historischen Gedenk- und Lernort in Lichterfelde-Süd entsprechend Einwohnerantrag realisieren - in der BVV abgelehnt
+- TOP 5.4: Nägel mit Köpfen machen: Machbarkeitsstudie für die Einpassungsplanung einer Gemeinschaftsschule am Osteweg 53 jetzt in Auftrag geben - in der BVV abgelehnt
+- TOP 5.5: Sicherung des Lern- und Gedenkortes Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 6: Antrag - erledigt
+- TOP 6.1: Gießen von Straßenbäumen stärker bewerben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Kleine Anfragen - erledigt
+- TOP 7.1: Verzicht auf Kita-Schließzeiten im Sommer 2020 - beantwortet
+- TOP 7.2: Bezirksübergreifende U-Bahnkampagne zur Ankurbelung des Tourismus - beantwortet
+- TOP 7.3: Freilandlabor - beantwortet
+- TOP 7.4: Hat das Landesantidiskriminierungsgesetz (LADG) Auswirkungen auf das Verwaltungshandeln des Bezirks? - beantwortet
+- TOP 7.5: Situation der in der Verantwortung des Bezirks untergebrachten Geflüchteten - beantwortet
+- TOP 8: Dringlichkeiten - erledigt
+- TOP 8.1: Dringende Große Anfrage - erledigt
+- TOP 8.1.1: Kitas in Coronazeiten - beantwortet
+- TOP 9: Große Anfrage - erledigt
+- TOP 9.1: Bürgeramt funktionsfähig jetzt! - beantwortet
+- TOP 10: Kleine Anfrage - erledigt
+- TOP 10.1: Bürgerdienste in Coronazeiten - beantwortet
+- TOP 11: Große Anfrage - erledigt
+- TOP 11.1: Asbest im Rathaus Zehlendorf macht das Bezirksamt ratlos? - schriftlich beantwortet
+- TOP 12: Kleine Anfrage - erledigt
+- TOP 12.1: Wie weiter mit den Bauteilen B und E des Rathauses Zehlendorf? - schriftlich beantwortet
+- TOP 13: Große Anfrage - erledigt
+- TOP 13.1: BürgerInnenfreundliches Wohnungsamt Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 14: Antrag - erledigt
+- TOP 14.1: Öffentliche Auslegung des Bebauungsplans 6-30 (Lichterfelde-Süd) nicht nur während der Sommerferien - überwiesen
