@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-06-17T15:00:00+02:00
+- Ende: 2020-06-17T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4988
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4988
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00181898.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00181898.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00181898.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung des goldenen Schöffensiegels - Einstimmiger Beschluss
+- TOP 2: Genhemigung der Bestellung eines Vorstandsmitgliedes der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 3: Heimat-Preis der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 4: Gewährung von Sitzungsgeldern für Online-Fraktionssitzungen; hier: Genehmigung der Dringlichkeitsentscheidung vom 11.05.2020 - Einstimmiger Beschluss
+- TOP 5: Errichtung eines Erinnerungsortes für die Opfer rechtsextremistischer und rassistischer Gewalt - Mit Stimmenmehrheit beschlossen
+- TOP 6: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (1. Nachweisung) - Kenntnisnahme
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (6. Nachweisung) - Kenntnisnahme
+- TOP 8: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" - Einstimmiger Beschluss
+- TOP 9: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Steuern, allgemeine Zuweisungen und Umlagen" - Einstimmiger Beschluss
+- TOP 10: Bereitstellung überplanmäßiger Haushaltsmittel für den Gebührenhaushalt Rettungsdienst - Einstimmiger Beschluss
+- TOP 11: Bereitstellung außerplanmäßiger Haushaltsmittel 2019 zur Begleichung der Rückforderung der Landesmittel für Betreuungsplätze - Einstimmiger Beschluss
+- TOP 12: Bereitstellung über- bzw. außerplanmäßiger Haushaltsmittel 2019 zur Begleichung des Öffentlichkeitsanteils Straßen und Gebühren Friedhöfe an die mags - Mit Stimmenmehrheit beschlossen
+- TOP 13: Bereitstellung außerplanmäßiger Haushaltsmittel 2019 für die Altlastensanierung im Stadtgebiet MG - Einstimmiger Beschluss
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung hier: Bereitstellung außerplanmäßiger Haushaltsmittel für die Zuwendungsmaßnahme Mittlerer Ring VI a - Einstimmiger Beschluss
+- TOP 15: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH - Kenntnisnahme
+- TOP 16: Beteiligung der Standort Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City an der Stadtentfalter GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 18: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW Re GmbH an der NEW WindparkLinnich GmbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 19: Anpassung des Gesellschaftsvertrages der GEM an die aktuelle Situation - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Beteiligung an der Partnerschaft Deutschland Gmbh - Einstimmiger Beschluss
+- TOP 21: Finanzbericht - Kenntnisnahme
+- TOP 21.1: TOP 21, Vorlage 5237/IX, Finanzbericht – Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie - Mehrheitlich abgelehnt
+- TOP 22: Mündlicher Sachstandsbericht zu Smart Metering und zur Discovergy GmbH - Kenntnisnahme
+- TOP 23: Zweckverbandssatzung Studieninstitut Niederrhein (S.I.N.N.) - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 23.1: Übertragung der Entscheidung über das Vorliegen eines wichtigen Grundes bei der Ablehnung einer ehrenamtlichen Tätigkeit als Wahlhelferin/Wahlhelfer - Einstimmiger Beschluss
+- TOP 24: Erhöhung der Regelzügigkeit an der Geschwister-Scholl-Realschule - Einstimmiger Beschluss
+- TOP 25: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 26: Fortführung der Familienkarte Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 27: Weiterführung des Projektes Jugendbildungscafè in Rheydt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Verlängerung der Leistungsvereinbarungen über das Angebot Mahlzeitendienst - Einstimmiger Beschluss
+- TOP 29: Wiederwahl einer Schiedsfrau für den Schiedsamtsbezirk Mönchengladbach-West/2 (Wickrath) - Einstimmiger Beschluss
+- TOP 30: Kommunale Schulsozialarbeit - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 31: Prävention vor Intervention – Entsäulung der Jugendhilfe - Mit Stimmenmehrheit beschlossen
+- TOP 32: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 Alten- und Pflegegesetz NRW (APG NRW) - Einstimmiger Beschluss
+- TOP 33: Satzung der Stadt Mönchengladbach über die Erhebung von Elternbeiträgen für die Inanspruchnahme von Kindertageseinrichtungen, Spielgruppen und Kindertagespflege (Elternbeitragssatzung) - Einstimmiger Beschluss
+- TOP 34: Kinderstark - NRW schafft Chancen - Einstimmiger Beschluss
+- TOP 35: Förderung von flexibler Betreuung in Kindertageseinrichtungen nach dem Gesetz zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 36: Förderung von plusKita Einrichtungen nach dem Gesetz zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) - Einstimmiger Beschluss
+- TOP 37: Genehmigung einer Dringlichkeitsentscheidung hier: Aussetzung der Zahlung von Elternbeiträgen für die Betreuung von Kindern in der Kindertageseinrichtung, Tagespflege und offenen Ganztag. Aussetzujng der Zahlung eines Entgeltes für die Mittagsverpfl - Einstimmiger Beschluss
+- TOP 38: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 39: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 40: Vergnügungsstättenkonzept der Stadt Mönchengladbach 2013: 1. Änderung - Mit Stimmenmehrheit beschlossen
+- TOP 41: Beschluss des Rahmenplanes Hochschulquartier mg+ - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 42: Neuorganisation der Feuerwachen: Ausführungsbeschluss über den Neubau einer Rettungswache (FRW III) für den Rettungsdienst und die Freiwillige Feuerwehr (Einheit Rheydt) am Standort Rheydt. - Einstimmiger Beschluss
+- TOP 43: Rathaus der Zukunft mg+ - Eröffnungsbilanz u. Jahresabschluss 2019 der eigenbetriebsähnlichen Einrichtung - Mit Stimmenmehrheit beschlossen
+- TOP 44: Stellungnahme der Stadt Mönchengladbach zum WSP 1.0 - Genehmigung der Dringlichkeitsentscheidung des HA vom 22.04.2020 - Mit Stimmenmehrheit beschlossen
+- TOP 45: Queere Sichtbarkeit auch in der Coronakrise gerade in Mönchengladbach - Ohne Abstimmung
+- TOP 45.1: Zu 5221/IX "Queere Sichtbarkeit auch in der Coronakrise gerade in Mönchengladbach - Mehrheitlich abgelehnt
+- TOP 45.2: Queere Sichtbarkeit auch in der Coronakrise gerade in Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 45.3: Vorlage 5221/IX: Regenbogenbeflaggung ab sofort jährlich und unaufgefordert für die Dauer von einer Woche im Vorfeld und am Tag des Christopher-Street-Days (CSD) an den Rathäusern und den Bezirksverwaltungsstellen - Mehrheitlich abgelehnt
+- TOP 46: Fraktionsantrag zur Vorlage-Nr. 5098/IX, hier: Reduzierung Hohenzollernstraße für Radweg - Mehrheitlich abgelehnt
+- TOP 47: Soforthilfe-Programm zur digitalen Teilhabe von Schülerinnen und Schülern - Mehrheitlich abgelehnt
+- TOP 48: Einzelhandel und Gastronomie in Corona-Zeiten stärken - Vom Antragsteller zurückgezogen
+- TOP 48.1: zu Vorlage 5254/IX Einzelhandel und Gastronomie in Corona-Zeiten stärken - Einstimmiger Beschluss
+- TOP 48.2: Zu 5254/IX "Einzelhandel und Gastromomie in Corona – Zeiten stärken - Vom Antragsteller zurückgezogen
+- TOP 49: Kommunale Handlungsoptionen für Beziehende von Transferleistungen zur Bekämpfung der Folgen der Corona-Pandemie - Mehrheitlich abgelehnt
+- TOP 50: Satzung der Stadt Mönchengladbach zum Schutz und Erhalt von Wohnraum (Wohnraumschutzsatzung) - Mehrheitlich abgelehnt
+- TOP 51: Familienfreundlichkeit im E-Ticket-Verkauf der Bäder herstellen - Ohne Abstimmung
+- TOP 51.1: Änderungsantrag: Familienfreundlichkeit im E-Ticket-Verkauf der Bäder herstellen; hier: Antrag der FDP-Ratsfraktion vom 17.06.2020 - Siehe Niederschrift
+- TOP 52: Werberechtsvertrag und Konzept für Außenwerbung - Vom Antragsteller zurückgezogen
+- TOP 53: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 54: Ablehnung einer Kapazitätserweiterung am Flughafen Düsseldorf - Siehe Niederschrift
+- TOP 55: Anfragen und Mitteilungen
