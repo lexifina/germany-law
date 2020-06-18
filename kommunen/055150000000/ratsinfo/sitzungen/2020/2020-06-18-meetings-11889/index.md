@@ -1,0 +1,53 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-06-18T17:15:00+02:00
+- Ende: 2020-06-18T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11889
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11889
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00469850.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Ergebnisse der Internationalen Ideenwerkstatt Münster Zukunft der Wissenschaftsstadt und nächste Schritte
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Anträge/Anfragen und Eingaben
+- TOP 5.1: Bekanntgabe
+- TOP 5.1.1: Beschluss der KIB vom 04.06.2020 "Barrierefreie Toilette an der Fernbushaltestelle"
+- TOP 5.1.2: Beschluss der KIB vom 04.06.2020 "Bushaltestelle am Bürgerbad Handorf"
+- TOP 5.2: Stellungnahmen
+- TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 6.1: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden - einstimmig geändert beschlossen
+- TOP 6.2: Umsetzung des Konzepts zum zukünftigen Umgang mit Kriegerdenkmälern im öffentlichen Raum der Promenade in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 6.3: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2018 - zur Kenntnis genommen
+- TOP 6.4: Neugestaltung Bremer Platz, Hinweise aus dem Werkstattverfahren, Quartiersmanagement und Voraussetzungen für die weitere Planung - einstimmig geändert beschlossen
+- TOP 6.5: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur 26. Änderung des Regionalplans Münsterland - einstimmig beschlossen
+- TOP 6.6: Fortschreibung des Baulandprogramms 2020 - 2030 - mehrheitlich beschlossen
+- TOP 6.7: Entwicklung eines Modellquartiers für neues urbanes Wohnen, Arbeiten und Technologie westlich der Steinfurter Straße - von der Tagesordnung abgesetzt
+- TOP 6.8: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - von der Tagesordnung abgesetzt
+- TOP 6.9: Entwicklung neuer urbaner Stadtquartiere südlich des Dortmund-Ems-Kanals, beiderseits des Albersloher Weges - von der Tagesordnung abgesetzt
+- TOP 6.10: Umbau des ehemaligen Hill-Speichers (Am Mittelhafen 42) als Gemeinbedarfseinrichtung zu einem sozio-kulturellen Zentrum - ohne Beschlussfassung geschoben
+- TOP 6.11: Integriertes Stadtteilentwicklungskonzept Münster-Coerde - einstimmig beschlossen
+- TOP 6.12: Stadtteilentwicklungskonzept Nienberge / Häger - zur Kenntnis genommen
+- TOP 6.13: Sachstand Quartiersentwicklungen York und Oxford
+- TOP 7: Stadtplanung
+- TOP 7.1: Bebauungsplan Nr. 614 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.2: 98. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 606 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 7.3: 100. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 608 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 7.4: Bebauungsplan Nr. 595 I - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 7.5: Bebauungsplan Nr. 602 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 7.6: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck - Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) - einstimmig beschlossen
+- TOP 8: Verkehr
+- TOP 8.1: Sachstand Umsetzung Radverkehrsmaßnahmen
+- TOP 8.2: Teilnahme der Stadt Münster an dem Klima-Bündnis Wettbewerb "STADTRADELN" - einstimmig beschlossen
+- TOP 8.3: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - von der Tagesordnung abgesetzt
+- TOP 8.4: Umgestaltung der Bremer Straße zwischen Hamburger Straße und Schillerstraße im Zuge der Projektentwicklung „Hansator" - von der Tagesordnung abgesetzt
+- TOP 8.5: Münsterstraße in Höhe Lerschmehr – geplante Anforderungslichtsignalanlage - einstimmig beschlossen
+- TOP 9: Verschiedenes
