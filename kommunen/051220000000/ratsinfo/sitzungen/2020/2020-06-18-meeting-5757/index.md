@@ -1,0 +1,52 @@
+# Bezirksvertretung Mitte (44. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-06-18T16:00:00+02:00
+- Ende: 2020-06-18T19:27:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZd7vmrJtxHcz5tDg9uLofXE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5757
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVCkFlLSqsOD4itMCgJ30rC7LK__0e2_DY4XNVBedMo9/Bekanntmachung_Bezirksvertretung_Mitte_18.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUHJaJNSExUFfizRv9kFd3sx42jXWaPzaAUhYABOLtla/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_18.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Papiermühler Bach (früher: Städtgesmühler Bach)
+- TOP 2.: Befangenheitserklärungen
+- TOP 3.: Protokoll über die 41. Sitzung der Bezirksvertretung Mitte am 30.01.2020
+- TOP 4.: Protokoll über die 43. Sitzung der Bezirksvertretung Mitte am 20.05.2020
+- TOP 5.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 5.1: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 5.2: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020 Nähere Informationen für den Stadtbezirk Mitte
+- TOP 6.: Ausbau des Spielplatzes Agnesstraße und Neubau eines Multifunktionsspielfeldes an der Grundschule Klauberg
+- TOP 7.: Aufwertung Stadtteilplatz Zietenstraße
+- TOP 8.: Umbaumaßnahmen am Müllheizkraftwerk und geplante Verkehrsanbindung Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 25.02.2020
+- TOP 9.: Bürgerinformationsveranstaltung am Müllheizkraftwerk am 25.01.2020
+- TOP 10.: Prüfergebnis der Kreisverkehre am Dickenbusch
+- TOP 11.: Umwandlung von Taxiplätzen in Bewohnerparkplätze im Bereich B
+- TOP 12.: Einrichtung von Tempo-30-Zonen / - Strecken in Gebieten von Hofschaften, Wohngebieten und deren Anbindungen und in Straßen ohne Gehweganlagen Antrag der BfS-Fraktion vom 30.01.2020
+- TOP 13.: Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klimawandels Antrag der Bezirksfraktion von Bündnis 90/Die Grünen vom 27.03.2020
+- TOP 13.1: Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klimawandels Stellungnahme der Verwaltung zum Antrag der Fraktion Bündnis 90/Die Grünen, offene Liste vom 27.03.2020 für alle Bezirksvertretungen
+- TOP 14.: Finanzielle Situation Probenhaus Monkeys
+- TOP 15.: Vorhabenliste 2020 Information Gesamtliste
+- TOP 15.1: Vorhabenliste 2020 Information Gesamtliste
+- TOP 16.: Freie Budgetmittel 2020
+- TOP 17.: Sachstand Taubenhaus - mündlicher Bericht -
+- TOP 18.: Sachstand Coppelpark - mündlicher Bericht -
+- TOP 19.: Verschiedenes
+- TOP 19.1: Mitteilungen der Verwaltung
+- TOP 19.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Mitte
+- TOP 19.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung der Bezirksvertretung Mitte am 30.01.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.1.1: Mietvertrag Spielplatzreservefläche Emslandstraße
+- TOP 4.2: Anfragen an die Verwaltung
