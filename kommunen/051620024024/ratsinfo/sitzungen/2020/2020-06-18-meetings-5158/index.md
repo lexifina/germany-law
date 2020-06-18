@@ -1,0 +1,74 @@
+# Bezirksausschuss Rosellen
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-06-18T17:00:00+02:00
+- Ende: 2020-06-18T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/19
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5158
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5158
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131490.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131490.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131490.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 1.1: Einführung und Verpflichtung von sachkundigen Bürger*innen
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Einwohnerfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: BP 504 - Allerheiligen, Stüttger Feld - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 5: Antrag der SPD-Mitglieder betr. Beschlusscontrolling - zur Kenntnis genommen
+- TOP 6: Antrag der SPD-Mitglieder betr.: Mobilfunkversorgung in Allerheiligen - zur Kenntnis genommen
+- TOP 7: Antrag der SPD-Mitglieder betr.:Ertüchtigung des Spielplatzes Martin-Buber-Straße - zur Kenntnis genommen
+- TOP 8: Antrag der SPD-Mitglieder betr.: Verlegung der Schulbuslinien - einstimmig zugestimmt
+- TOP 9: Antrag der SPD-Mitglieder betr.: Anschlüsse der 841 an die S 11 im S-Bahnhof Allerheiligen - verwiesen
+- TOP 10: Antrag der SPD-Mitglieder betr.: Sachstandsbericht Bebauungsplan Nr. 412 - Kuckhof - - einstimmig zugestimmt
+- TOP 11: Antrag der SPD-Mitglieder betr.: Sachstandsbericht Bürgerzentrum Allerheiligen - einstimmig zugestimmt
+- TOP 12: Antrag der CDU-Mitglieder betr.: Ampelsteuerung K20 / K30 - einstimmig zugestimmt
+- TOP 13: Antrag der CDU-Mitglieder betr.: Abstimmung der Linie 874 auf den S-Bahn Fahrplan in Norf - zur Kenntnis genommen
+- TOP 14: Antrag der CDU-Mitglieder betr. Bushaltestellen-Wartehäuschen Bustrasse Allerheiligen - zur Kenntnis genommen
+- TOP 15: Antrag der SPD-Mitglieder betr.: Zufahrt zum Kinder- und Jugendhaus der Lebenshilfe auf der Willi-Hall-Straße - zur Kenntnis genommen
+- TOP 16: Antrag der SPD-Mitglieder betr.: Verkehrssituation Ueckerather Straße / Einmündung zur Kita Am Mühlenbusch - zur Kenntnis genommen
+- TOP 17: Antrag der SPD-Mitglieder betr.: Umkleidemöglichkeiten für Frauen und Mädchen auf der Bezirkssportanlage Rosellen - einstimmig zugestimmt
+- TOP 18: Antrag der SPD-Mitglieder betr.: Barrierefreier Zugang zum Sportlerheim der Bezirkssportanlage Rosellen - einstimmig zugestimmt
+- TOP 19: Antrag der SPD-Mitglieder betr.: Einmündung Neuenbaumer Straße / Altebrücker Straße in Allerheiligen - abgesetzt
+- TOP 20: Antrag der CDU-Mitglieder betr.: Aufstellung eines Schildes "Keine Wendemöglichkeit für LKW" am Pannebäckerweg - zur Kenntnis genommen
+- TOP 21: Antrag der SPD-Mitglieder betr.: Neuer Eingang am Friedhof in Rosellen - zur Kenntnis genommen
+- TOP 22: Antrag der SPD-Mitglieder betr. Photovoltaik auf den Parkplätzen am S-Bahnhof Allerheiligen - zur Kenntnis genommen
+- TOP 23: Antrag der SPD-Mitglieder betr. Ladeschränke für E-Bikes am S-Bahnhof in Allerheiligen - einstimmig zugestimmt
+- TOP 24: Antrag der SPD-Mitglieder betr. Gefährlicher Weg entlang der S-Bahn in Allerheiligen - einstimmig zugestimmt
+- TOP 25: Antrag der CDU-Mitglieder betr. Einmündung Radweg Neuenberger Str./Ueckerather Straße - einstimmig zugestimmt
+- TOP 26: Antrag der CDU-Mitglieder betr. Fahrbahnerneuerung Stichweg Waldstraße - zur Kenntnis genommen
+- TOP 27: Antrag der CDU-Mitglieder betr. Barrierefreie Toilette auf dem Friedhof Rosellen - einstimmig zugestimmt
+- TOP 28: Antrag der CDU-Mitglieder betr. Sachstand Breitbandausbau in Rosellerheide-Neuenbaum und - einstimmig zugestimmt
+- TOP 29: Antrag der CDU-Mitglieder betr. Sachstand Schützenampelmännchen - einstimmig zugestimmt
+- TOP 30: Antrag der SPD-Mitglieder betr. Wiederaufnahme des Betriebs der Außenstelle St.Peter Schule Rosellen der Musikschule Neuss - einstimmig zugestimmt
+- TOP 31: Antrag der SPD-Mitglieder betr. Fahrbahnverengung in Rosellerheide- Neuenbaum auf der Neukirchener Straße - mehrheitlich abgelehnt
+- TOP 32: Antrag der CDU-Mitglieder betr. Wartehäuschen Am alten Bach - zur Kenntnis genommen
+- TOP 33: Antrag der CDU-Mitglieder betr. Fußweg von der Grundschule Allerheiligen zur Sporthalle - zur Kenntnis genommen
+- TOP 34: Antrag der CDU-Mitglieder betr. Grünpflege Durchgang Rankestraße zum Illinghauser Hof - zur Kenntnis genommen
+- TOP 35: Antrag der CDU-Mitglieder betr. Klettergerüst am Spielplatz Rankestraße - zur Kenntnis genommen
+- TOP 36: Antrag der CDU-Mitglieder betr. Reinigung von Verteilerkästen - einstimmig zugestimmt
+- TOP 37: Antrag der SPD-Mitglieder betr. DB-Rheinlandbus Linie 878 - einstimmig zugestimmt
+- TOP 38: Antrag der SPD-Mitglieder betr. Wirtschafts- und Fahrradwegerneuerung - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Anfrage des Herrn Stadtverordneten Hildebrandt betr. Schnellbus SB 53 - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 44: Schnellbuslinie Neusser Süden - Linineführung über Südpark - Betreibsgelände SWN - Moselstr. - zur Kenntnis genommen
+- TOP 45: Sachstand "Electric City Neuss" im Quartier Allerheiligen - zur Kenntnis genommen
+- TOP 46: Sachstandsbericht SB 53 - zur Kenntnis genommen
+- TOP 47: Bericht über die Beschlussfassung des Rates der Stadt Neuss - zur Kenntnis genommen
+- TOP 48: Ergebnisse zu Wünschen und Anregungen des Bezirksausschusses - zur Kenntnis genommen
+- TOP 49: Einwohnerfragestunde
