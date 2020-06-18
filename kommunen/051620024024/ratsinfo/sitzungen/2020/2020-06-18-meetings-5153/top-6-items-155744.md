@@ -1,0 +1,8 @@
+# TOP 6: Der Niedergermanische Limes auf dem Weg zum UNESCO-Welterbe - Vorentwurf des Erhaltungs- und Vermittlungskonzeptes -Sachstandsberichte
+
+- Sitzung: Kulturausschuss (2020-06-18)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/155744
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/27649
