@@ -1,0 +1,51 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-06-18T17:00:00+02:00
+- Ende: 2020-06-18T20:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/26
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5153
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5153
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131492.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131492.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131492.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 2.1: Bestellung eines stellvertretenden Schriftführers für die Kulturausschusssitzung am 18.06.2020 - einstimmig zugestimmt
+- TOP 3: Behandlung der Themen aus der ausgefallenen Kulturausschusssitzung am 18.03.2020 - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: Neuss Pass - einstimmig zugestimmt
+- TOP 6: Der Niedergermanische Limes auf dem Weg zum UNESCO-Welterbe - Vorentwurf des Erhaltungs- und Vermittlungskonzeptes -Sachstandsberichte - einstimmig zugestimmt
+- TOP 7: Änderung der Benutzungsordnung der Stadtbibliothek - einstimmig zugestimmt
+- TOP 8: Änderung der Gebührenordnung der Stadtbibliothek - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 9: Nachträgliche Genehmigung der Dringlichkeitsentscheidung Nr. 278 - Preisbildung bei Sonderveranstaltungen im Shakespeare-Festival - einstimmig zugestimmt
+- TOP 10: Straßenbenennungen im Bereich des Bebauungsplans 465 - Uedesheim - Im Kreuzfeld - einstimmig zugestimmt
+- TOP 11: Alternative Kulturnacht 2020 - einstimmig zugestimmt
+- TOP 12: VHS Bildungsprogramm politische Bildung 1. Semester 2021 und 2. Semester 2020 sowie Änderung 1. Semester 2020 - einstimmig zugestimmt
+- TOP 13: Nachträgliche Genehmigung der Dringlichkeitsentscheidung Nr. 330 - Genehmigung politischer Vorträge bei vhs.wissen live - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 14: Antrag der Stadtratsfraktion UWG/Freie Wähler Neuss - GO Neuss betr. Mehr öffentliche Bücherschränke in Neuss - mehrheitlich zugestimmt
+- TOP 15: Antrag der SPD-Stadtratsfraktion Neuss - Prüfung von Straßenbenennungen in Neuss - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 17: Auswirkungen der Corona-Krise auf das städtische Kulturangebot
+- TOP 18: Programmvorstellung des Rheinischen Landestheaters für die Spielzeit 2020/2021
+- TOP 19: Förderung des Vereins Raum der Kulturen Neuss e. V.:
+- TOP 20: Förderung der öffentlich zugänglichen Büchereien
+- TOP 21: Zuschuss St. Martin 2020
+- TOP 22: Bildungsprogramm allgemeiner Teil 2. Semester 2020
+- TOP 23: Veranstaltungskonzept der Stadtbibliothek
+- TOP 24: Aktueller Sachstand zur Erweiterung der Öffnungszeiten der Stadtbibliothek
+- TOP 25: Kultur-Jahresbericht 2019
+- TOP 26: Beschlusskontrolle
+- TOP 27: Einwohnerfragestunde
