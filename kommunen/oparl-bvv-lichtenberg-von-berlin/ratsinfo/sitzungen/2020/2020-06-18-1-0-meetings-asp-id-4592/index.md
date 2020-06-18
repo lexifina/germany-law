@@ -1,0 +1,97 @@
+# 42. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2020-06-18T17:00:00+02:00
+- Ende: 2020-06-18T22:05:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4592
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4592
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=291759
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Alternativen für die Zeit der Sanierung der Kultschule - in der BVV zurückgezogen
+- TOP 5.2: Verbreitungswege des Coronavirus an Schulen ermitteln – Entscheidung über vollständige Schulöffnung oder Schichtbetrieb ermöglichen - in der BVV zurückgezogen
+- TOP 5.3: Bücher lesen! - in der BVV zurückgezogen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Einwohnerantrag "Saubere Schulen in Lichtenberg" - überwiesen
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Biotope durch Baustelleneinrichtung der Deutschen Bahn AG in Gefahr - beantwortet
+- TOP 8.2: Fairtrade-Town und Aktion Noteingang - beantwortet
+- TOP 8.3: Bekämpfung von Eichenprozessionsspinnern - beantwortet
+- TOP 8.4: DS/0272/VIII - Entwicklung Grüner Campus Malchow - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Wahlvorschlag Berufungen der Mitglieder für den Ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Entlastung der Martin-Niemöller- und der Matibi-Schule - überwiesen
+- TOP 9.3: Bebauungsplan 11-52 – öffentliche Auslegung; Arbeitstitel: JFE „Betonoase“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: 125 Jahre Karlshorst - 125 neue Bäume für Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Maßnahmen für den Katastrophenschutz - Personalausstattung - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Keine Streichung von Pädagogischen Unterrichtshilfen (PU) an der Paul-und-Charlotte-Kniese-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Galeria Karstadt Kaufhof Warenhäuser in Hohenschönhausen und Lichtenberg erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Umweltpreis Lichtenberg - überwiesen
+- TOP 9.9: Entwicklung im Ostseeviertel konkret machen - überwiesen
+- TOP 9.10: Medienpädagog*innen an Berliner Schulen - überwiesen
+- TOP 9.11: W-Lan-Bänke für mehr digitale Mobilität aller - überwiesen
+- TOP 9.12: Intakte Spazierwege an der Paul-Junius-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.13: Lange Nacht der Politik weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.14: Empfang des Bezirksamtes außerhalb des Rathauses - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.15: Förderung ehrenamtlichen Engagements von Schüler*innen in Lichtenberg - überwiesen
+- TOP 9.16: Schutz vor Vandalismusschäden in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.17: Gehwegvorstreckungen in der Giselastraße, Höhe Leopoldstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.18: Schöneicher Straße für den Radverkehr ertüchtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.19: Intakte Verkehrswege – Straßen grundlegend sanieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.20: Sanierung der Gehwege in der Nöldnerstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.21: Umbau der Kreuzung Nöldnerstraße, Schlichtallee, Lückstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.22: Ausweichfläche für Marktstände in der Karlshorster Festwoche schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Rummelsburger Straße erhellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Öffentlichkeitsbeteiligungen bei Bebauungsplanverfahren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - (offen)
+- TOP 11: Wahlen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Bewältigung der Corona Pandemie im Bezirk Lichtenberg - schriftlich beantwortet
+- TOP 12.2: Pandemiestatus Lichtenberg - schriftlich beantwortet
+- TOP 13: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 13.1: Fortführung des Aktionsplanes zur Umsetzung der UN-Behindertenrechtskonvention - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Lichtenberger Unternehmen des Jahres - nur mit Guter Arbeit - überwiesen
+- TOP 13.3: Aussetzung der Auszeichnung "Lichtenberger Unternehmen des Jahres 2020" - überwiesen
+- TOP 13.4: Datenschutzkonforme Open-Source-Lösung für den Online-Unterricht - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Bau eines Kindergartens im Ortsteil Alt-Hohenschönhausen - in der BVV abgelehnt
+- TOP 13.6: Wohnungsbau priorisiert umsetzen - Grüne Innenhöfe im Ostseeviertel schützen! - überwiesen
+- TOP 13.7: Jugendherbergen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Prioritäten der Fraktionen - erledigt
+- TOP 14.1: Die Fläche Wallenstein Str./Tannhäuser Str. als öffentliche Grünfläche sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Freifläche Wallensteinstraße/Ecke Tannhäuser Straße als Grünfläche sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Ausbildungsplätze sichern und schaffen - Ausbildungsgipfel in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Ausbildungsplätze fördern - der Krise entgegenwirken - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Weniger "braune Hundereste" - in der BVV abgelehnt
+- TOP 14.6: Hundekot - Was lange währt wird noch lange nicht gut - beantwortet
+- TOP 15: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 15.1: Dringend notwendige Kapazitätserweiterung für Frauenhausplätze schaffen, jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Anträge zur Beschlussfassung - (offen)
+- TOP 16.1: Bundeswehrhilfe annehmen! - mit Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Beschlussfassung - erledigt
+- TOP 17.1: Verordnung über die Veränderungssperre 11-104/32 für die Grundstücke Genslerstraße 14-15 (FS 543 und 542) im Bezirk Lichtenberg, Ortsteil Alt-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 18: Vertagte Drucksachen - (offen)
+- TOP 18.1: Der Biermeile ein neues Zuhause geben - vertagt
+- TOP 18.2: Mehr Müllbehälter = Weniger Müll in der Landschaft - vertagt
+- TOP 18.3: Bezirksamt Lichtenberg = Hundefreundlicher Arbeitgeber - vertagt
+- TOP 18.4: Jugend-Engagementpreis einrichten - vertagt
+- TOP 18.5: Ein Kinderbauernhof für Lichtenberg - vertagt
+- TOP 18.6: Zusätzlicher Radschnellweg für Lichtenberg - vertagt
+- TOP 18.7: "Free WiFi Berlin" auch für Menschen in Unterkünften und Wohngruppen für Geflüchtete und Obdachlose - vertagt
+- TOP 18.8: Pop-up-Radwege auch in Lichtenberg - vertagt
+- TOP 18.9: Gründung eines Expert*innenbeirats zur Verbesserung der städtebaulichen Qualität von Bauvorhaben - vertagt
+- TOP 18.10: Größere und mit einer Tiersicherung versehende Abfallbehälter am Obersee - vertagt
+- TOP 18.11: Erwerb des Titels „Fairtrade Town Lichtenberg“ im Rahmen der internationalen Kampagne Fairtrade Towns und Umsetzung des Handlungsleitfadens - vertagt
+- TOP 18.12: Engagementstrategie zur Weiterentwicklung des bürgerschaftlichen Engagements im Bezirk Lichtenberg - vertagt
+- TOP 19: Schließung der Sitzung - erledigt
