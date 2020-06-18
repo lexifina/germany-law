@@ -1,0 +1,88 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-06-18T15:09:00+02:00
+- Ende: 2020-06-18T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2511
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2511
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00104669.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00104669.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00104669.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Bürgeranträge liegen nicht vor.
+- TOP 3: Dringlichkeitsentscheidungen liegen nicht vor.
+- TOP 4: Berichterstattung
+- TOP 4.1: Finanzen
+- TOP 4.1.1: Entwicklung des Haushalts 2020 - Kenntnisnahme
+- TOP 4.1.2: Sachstandsbericht Sanierungsplan zum 31.12.2019 - Kenntnisnahme
+- TOP 4.2: Feuerschutz
+- TOP 4.3: Soziales
+- TOP 5: Sicherung Einzelhandel - mehrheitlich beschlossen
+- TOP 5.1: Notfallplan zur Unterstützung der örtlichen Gastronomie- und Hotelbetriebe (Antrag Nr. 66/2020)
+- TOP 6: Entscheidung über Beratungspunkte aus der Sitzung des JHA vom 16.06.2020
+- TOP 6.1: Gründung einer gemeinnützigen GmbH für die Kinder- und Jugendförderung - mehrheitlich beschlossen
+- TOP 6.2: Organisationsuntersuchung FD 51.2 - einstimmig
+- TOP 7: Beratungspunkte aus dem Planungsausschuss
+- TOP 7.1: Studie LEP Fläche Kraftwerk Neurath - einstimmig
+- TOP 7.2: G 203 erneute Aufstellung und Auslegung - mehrheitlich beschlossen
+- TOP 7.3: 12. Änd G 158 Aufstellung - mehrheitlich beschlossen
+- TOP 7.4: 12. Änd G 158 Erlass Veränderungssperre - mehrheitlich beschlossen
+- TOP 7.5: 360° Panoramabilder - einstimmig
+- TOP 8: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 8.1: Aufbringung einer schraffierten Sperrfläche (Antrag Nr. 04/2020) - Kenntnisnahme
+- TOP 8.2: Social-Media-Aktivitäten der Stadtverwaltung Grevenbroich (Anfrage Nr. 06/2020) - Kenntnisnahme
+- TOP 9: Schriftliche Anträge von Fraktionen und Ausschussmitgliedern
+- TOP 9.1: Anträge der CDU-Fraktion
+- TOP 9.1.1: Nachpflanzung Finlay-Park (Antrag Nr. 89/2020) - einstimmig
+- TOP 9.1.2: Änderung der Geschäftsordnung (Antrag Nr. 90/2020) - einstimmig
+- TOP 9.2: Anträge der SPD-Fraktion
+- TOP 9.2.1: Schubertstraße sanieren (Antrag Nr. 82/2020) - einstimmig
+- TOP 9.2.2: Ausbau Grundschule Wevelinghoven (Antrag Nr. 84/2020) - einstimmig
+- TOP 9.2.3: Kinder und Familien stärken - Ferienfreizeit unterstützen (Antrag Nr. 91/2020) - einstimmig
+- TOP 9.2.4: Kinder und Jugendbeteiligung stärken (Antrag Nr. 92/2020) - einstimmig
+- TOP 9.3: Anträge der UWG-Fraktion
+- TOP 9.3.1: Fahrkartenautomat am Bahnhaltepunkt Frimmersdorf (Antrag Nr. 85/2020) - einstimmig
+- TOP 9.4: Anträge der FDP-Fraktion
+- TOP 9.4.1: Grevenbroicher Kulturkirmes 2021 konzipieren (Antrag NR. 80/2020) - einstimmig
+- TOP 9.4.2: Chancen in der Krise nutzen (Antrag Nr. 52/2020) - einstimmig
+- TOP 9.5: Anträge der Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 9.5.1: Geldmittelfreigabe für Überplanung Platz Schubertstraße aufheben (Antrag Nr. 68/2020) - einstimmig
+- TOP 9.5.2: Preiswerten Wohnraum schaffen (Antrag Nr. 81/2020) - einstimmig
+- TOP 9.5.3: Alternative Nutzungskonzepte für die Grevenbroicher Innenstadt entwickeln (Antrag Nr. 83/2020) - einstimmig
+- TOP 9.6: Anträge der Fraktion Mein Grevenbroich
+- TOP 9.6.1: Neugestaltung des Weges entlang der Waldwiese in der Südstadt (Antrag Nr. 86/2020) - einstimmig
+- TOP 9.7: Anträge der Fraktion DIE LINKE liegen nicht vor.
+- TOP 10: Schriftliche Anfragen von Fraktionen und Ausschussmitgliedern
+- TOP 10.1: Anfragen der CDU-Fraktion liegen nicht vor.
+- TOP 10.2: Anfragen der SPD-Fraktion
+- TOP 10.2.1: Fallzahlen häuslicher Gewalt (Anfrage Nr. 93/2020)
+- TOP 10.3: Anfragen der UWG-Fraktion liegen nicht vor.
+- TOP 10.4: Anfragen der FDP-Fraktion
+- TOP 10.4.1: Evaluation der Versteigerungen von nicht abgeholten Fundsachen (Anfrage Nr. 88/2020)
+- TOP 10.5: Anfragen der Fraktion Bündnis 90/DIE GRÜNEN liegen nicht vor.
+- TOP 10.6: Anfragen der Fraktion Mein Grevenbroich
+- TOP 10.6.1: Anfrage zu Top 6.2.1 der HFDA-Sitzung vom 14.05.2020 (Anfrage Nr. 87/2020)
+- TOP 10.7: Anfragen der Fraktion DIE LINKE liegen nicht vor.
+- TOP 11: Mündliche Anträge/Anfragen
+- TOP 11.1: Sitzungskalender (Anfrage Nr. 106/2020)
+- TOP 11.2: Neubau Feuerwache (Anfrage Nr. 107/2020)
+- TOP 11.3: Neubaugebiet "An Mevissen" in Wevelinghoven (Anfrage Nr. 108/2020)
+- TOP 11.4: Schwarze Brücke in Kapellen und andere Brücken (Anfrage Nr. 109/2020)
+- TOP 11.5: Ladesäulen für E-Autos (Anfrage Nr. 110/2020)
+- TOP 11.6: Kreisverkehr Edeka-Markt Neukirchen (Anfrage Nr. 111/2020)
+- TOP 11.7: Einrichtung eines Zebrastreifens (Anfrage Nr. 112/2020)
+- TOP 11.8: Schrebergärten Feilenhauerstraße (Anfrage Nr. 113/2020)
+- TOP 11.9: Fahrradfreundliche Kommune (Anfrage Nr. 269/2019)
+- TOP 11.10: Reinigung Rathaus-Innenhof (Anfrage Nr. 114/2020)
+- TOP 11.11: Ortsdurchfahrt L 142 (Anfrage Nr. 115/2020)
+- TOP 11.12: Kindergarten Langwaden (Anfrage Nr. 116/2020)
+- TOP 11.13: Sondersitzung Sportausschuss (Antrag Nr. 117/2020)
+- TOP 12: Mitteilungen des Bürgermeisters
+- TOP 12.1: Mündliche Info BM
