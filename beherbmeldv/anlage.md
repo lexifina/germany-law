@@ -1,0 +1,16 @@
+# Anlage (zu § 2 Absatz 5)Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner
+
+|  | Bezeichner | Erläuterung |
+| 1. | DatumAnkunft | Datum der Ankunft der beherbergten Person (JJJJMMTT) |
+| 2. | DatumAbreise | Datum der voraussichtlichen Abreise (JJJJMMTT) |
+| 3. | Familienname | vollständiger derzeitiger Familienname mit Namensbestandteilen, jeweils durch Leerzeichen getrennt |
+| 4. | Vornamen | sämtliche Vornamen, jeweils durch Leerzeichen getrennt |
+| 5. | Geburtsdatum | Geburtsdatum (JJJJMMTT) |
+| 6. | Staatsangehoerigkeiten | sämtliche Staatsangehörigkeiten |
+| 7. | Anschrift | bestehend aus a)Staat, in dem sich der Wohnort befindetb)Postleitzahl des Wohnortsc)Wohnortbezeichnungd)sofern vorhanden, Zusätze zum Wohnorte)Straßenbezeichnungf)Hausnummerziffern sowie gegebenenfalls zusätzlich Buchstaben oder Zusatzzifferng)sofern vorhanden, Ergänzungen zur Anschrift |
+| 8. | AnzahlAngehoerige | Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes |
+| 9. | AnzahlMitreisende | Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes |
+| 10. | StaatsangehoerigkeitMitreisende | sämtliche Staatsangehörigkeiten der Mitreisenden der Reisegesellschaften |
+| 11. | SeriennummerPass | Seriennummer des anerkannten und gültigen Passes oder Passersatzpapiers ausländischer Personen oder Angaben zu Abweichungen oder Nichtvorlage |
+| 12. | Zahlungszuordnungsnummer | bestehend aus der zweckgebunden Zuordnungsnummer des elektronischen Zahlungsvorganges (Token) und aus dem Namen des Zahlungsdienstleisters der Beherbergungsstätte, der den Token generiert |
+| 13. | Beherbergungsstaette | bestehend aus Namen und Anschrift der Beherbergungsstätte oder Einrichtung, die die Daten speichert |
