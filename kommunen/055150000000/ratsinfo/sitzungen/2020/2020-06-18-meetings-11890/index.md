@@ -1,0 +1,71 @@
+# 55. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-06-18T17:01:00+02:00
+- Ende: 2020-06-18T19:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11890
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11890
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00464296.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - entfällt
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Straßenlaternen innerhalb Roxel auf "LED-Technik" umstellen - zur Kenntnis genommen
+- TOP 4.2: Spielplatz im Landschaftspark Kinderbach - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Bebauungsplan Nr. 602 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 5.2: Stadtteilentwicklungskonzept Nienberge / Häger - zur Kenntnis genommen
+- TOP 5.3: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden - einstimmig geändert beschlossen
+- TOP 5.4: Sportstättenentwicklulng und Sportförderung, - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.2: Wahl einer stellvertretenden Schiedsperson für den Bezirk 4 Münster-Albachten/Mecklenbeck - mehrheitlich geändert beschlossen
+- TOP 6.3: Wahl einer stellvertretenden Schiedsperson für den Bezirk 7 Münster-Nienberge - einstimmig beschlossen
+- TOP 6.4: Sanierung von Spielplätzen im Stadtbezirk Münster-West im Haushaltsjahr 2020 - Planungs- und Baubeschluss - einstimmig geändert beschlossen
+- TOP 6.5: Sitzgelegenheit am Fußweg entlang Christoph-Bernhard-Graben Antrag lfd. Nr. A-W/0025/2020 - einstimmig geändert beschlossen
+- TOP 6.5.1: Sitzgelegenheit am Fußweg entlang Christoph-Bernhard-Graben - beantwortet
+- TOP 7: Anhörungen
+- TOP 7.1: Fortschreibung des Baulandprogramms 2020 - 2030 - einstimmig geändert beschlossen
+- TOP 7.2: Entwicklung eines Modellquartiers für neues urbanes Wohnen, Arbeiten und Technologie westlich der Steinfurter Straße - einstimmig beschlossen
+- TOP 7.3: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - von der Tagesordnung abgesetzt
+- TOP 7.4: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck - Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) - einstimmig beschlossen
+- TOP 7.5: Gievenbecker Reihe (B-Plan 410) - Erneuerung einer Schmutzwasserleitung zur Vorflut der - einstimmig beschlossen
+- TOP 7.6: Grundsatzbeschlüsse zur weiteren Digitalisierung der Schulen und Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen - einstimmig beschlossen
+- TOP 7.7: Erweiterung der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster - einstimmig beschlossen
+- TOP 7.7.1: Verlagerung des Schulstandortes in Nienberge - beantwortet
+- TOP 7.8: Kommunale Sportförderung - einstimmig geändert beschlossen
+- TOP 7.9: SC Hansa Münster e. V., Brandschutzmaßnahmen und Sanierungen im Clubhaus - einstimmig beschlossen
+- TOP 7.10: Kita Oxford - einstimmig beschlossen
+- TOP 7.11: Offenlegung Naturdenkmalverordnung - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Verbesserte Sicherheit an der Ausfahrt der Offerkämpe zur Straße Oberort - zur Kenntnis genommen
+- TOP 8.2: Anpassung der Verkehrsinfrastruktur - eingebracht
+- TOP 8.3: Tempo 30 für den Rüschhausweg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.4: Kapazitäten von Müllsammelbehältern in Gievenbeck erweitern - eingebracht
+- TOP 8.5: Aufstellung von Sitzbänken im Grünzug Kinderbachtal - eingebracht
+- TOP 8.6: Anpassung der Verkehrsinfrastruktur - eingebracht
+- TOP 8.7: Errichtung eines Dirtparks in Nienberge - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.8: Versenkbaren Poller zwischen den Straßen Rottkamp und Wierling erneuern - eingebracht
+- TOP 8.9: Geschwindigkeitsreduzierende Maßnahmen auf der Brockmannstraße - eingebracht
+- TOP 8.10: Verlängerung des Fußweges hinter dem Rölverdurchlass in Nienberge - eingebracht
+- TOP 8.11: Lückenschluss Radweg Tilbecker Straße/L843 im Bereich des Bahnüberganges - eingebracht
+- TOP 8.12: Geh- und Radweg vom Twenteweg zum Rüschhausweg - eingebracht
+- TOP 8.13: Verkehrssicherheit Roxel: Roxel Nord / Havixbecker Straße - eingebracht
+- TOP 8.14: Aufstellung von mobilen Dialogdisplays auf der Sentruper Straße - eingebracht
+- TOP 8.15: Beidseitige Beschilderung der Sentruper Straße als Tempo 30 Zone - eingebracht
+- TOP 8.16: Beschilderung Durchfahrverbot für LKW optimieren - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Ausleuchtung Radweg entlang Roxeler Straße - zur Kenntnis genommen
+- TOP 9.2: Schrankensicherung des BÜ / Kreuzungsbereiches der Baumbergebahn (Coesfeld-Münster) mit der Weseler Straße - zur Kenntnis genommen
+- TOP 9.3: Zustimmung von Baumfällungen im Bezirk West - zur Kenntnis genommen
+- TOP 9.4: Einrichtung einer neuen Buslinie zwischen Senden und Coesfelder Kreuz - zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
