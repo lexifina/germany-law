@@ -1,0 +1,128 @@
+# Rat (41. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-06-18T17:00:00+02:00
+- Ende: 2020-06-18T18:20:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZXxQmvjCsoKrbHaAeqcWMGc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5903
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTTi45Y7N8pn7Kk-HNmx5OFJUbvWNmYeZzt9T_8JfuUV/Bekanntmachung_Rat_18.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZROUAGHRmbpue9t6RjLvfeRoofW3h2EcgaS39FOf1Slf/Oeffentliche_Niederschrift_Rat_18.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Schienenpersonennahverkehr in und im Umland der Klingenstadt Solingen
+- TOP 1.2: Finanzielle Auswirkungen der Flüchtlingsthematik
+- TOP 1.3: Internetbasierte Kfz-Zulassung
+- TOP 1.4: Tourismusförderung in Solingen
+- TOP 1.5: Umgang mit Schottervorgärten
+- TOP 1.6: Einrichtung eines geplanten 5G-Testfeldes in der Innenstadt und des Smart-City-Modellstadt Projektes
+- TOP 1.7: Bahnhaltepunkt Solingen Meigen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Rates am 13.02.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Benennung des Wahlausschusses für die Wahl zum 12.Jugendstadtrat der Stadt Solingen
+- TOP 6.1: Benennung des Wahlausschusses für die Wahl zum 12.Jugendstadtrat der Stadt Solingen
+- TOP 7.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 GO NRW - Novellierung KiBiz Anpassung Elternbeitragssatzung – Vorlage 6638 - Erhöhung der Zügigkeit eines Bildungsganges am Mildred-Scheel-Berufskolleg Solingen – Vorlage 6782 - Überplanmäßige Aufwendungen gemäß § 83 GO NRW im Teilplan 31.01 (Sozialhilfe nach SGB XII) für das Jahr 2019 – Vorlage 6740 - Bau der Ersatzsportanlage Höher Heide 2 – Vorlage 6654 - Zustimmung zu einem/ einer aus der Sportpauschale gedeckten konsumtiven Mehraufwand/ Mehrauszahlung gemäß §83 GO NRW hier: Sanierung von vier Kunstrasenplätzen – Vorlage 6750 - Jahresabschluss 2018 des Zweckverbandes Bergische Volkshochschule (BVHS) – Vorlage 6489 - Fahrbahndeckenprogramm 2020 – Vorlage 6669 - Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 679 sowie Satzungsbeschluss zum Bebauungsplan H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 3) – Stadtbezirk Mitte – Vorlage 6689 - Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplans D 280 für den Bereich nördlich der Straße Erbenhäuschen im Bereich nördlich der Einmündung des Magnolienweges – Stadtbezirk Mitte – Vorlage 6692 - Bauleitplanung Rembrandtstraße/ Locher Straße - Vorlage 6724
+- TOP 8.: Genehmigung einer Dringlichkeitsentscheidung vom 01.04.2020 und 01.05.2020 gemäß § 60 Absatz 1 Satz 2 GO NRW zur Satzung der Stadt Solingen über die Erhebung von Elternbeiträgen im April und Mai 2020
+- TOP 9.: Genehmigung einer Dringlichkeitsentscheidung vom 01.06.2020 gemäß § 60 Absatz 1 Satz 2 GO NRW zur Satzung der Stadt Solingen über die Erhebung von Elternbeiträgen im Juni und Juli 2020
+- TOP 10.: Bestätigung von Dringlichkeitsentscheidungen i.R.d. Covid 19-Pandemie; hier: Bereitstellung über-/außerplanmäßiger Mittel gem. § 83 GO NRW
+- TOP 11.: Serielles, transnationales Welterbevorhaben "Großbrücken des 19. Jahrhunderts" - Teilnahme am Interessenbekundungsverfahren des Landes NRW sowie Benennung von Gründungsmitgliedern des zu gründenden Fördervereins "Welterbe Müngstener Brücke e. V."
+- TOP 12.: Integriertes Stadtteilentwicklungskonzept „Zukunft Wald 2030“ – Beschluss des Konzeptes und Festsetzung des Stadtumbaugebietes gemäß § 171 b Absatz 1 BauGB
+- TOP 13.: Auslagerung der Grundschule Uhlandstraße
+- TOP 13.1: Auslagerung der Grundschule Uhlandstraße
+- TOP 14.: Förderung von Familienzentren im Kindergartenjahr 2020/2021
+- TOP 15.: Satzung / Entgelterhöhung Kindertagespflege
+- TOP 16.: Wahlordnung für die Wahl des Zuwanderer- und Integrationsrates der Stadt Solingen hier: IV. Änderungssatzung
+- TOP 17.: Internetbasierte Kfz-Zulassung Antrag der FDP-Ratsfraktion vom 03.06.2020
+- TOP 18.: Sachstand Umsetzung der Leitlinien Bürgerbeteiligung Partizipationsbericht 2019
+- TOP 19.: Bürgerbeteiligung in Solingen Antrag der BfS-Ratsfraktion vom 21.11.2019
+- TOP 20.: Bürgerbeteiligungsrechte bei Planungen nicht einschränken Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 04.06.2020
+- TOP 21.: Klimawandel als globale Bedrohung
+- TOP 21.1: Klimawandel als globale Bedrohung Antrag der CDU-Ratsfraktion vom 16.06.2020
+- TOP 22.: Einrichtung eines Klimabarometers für die Stadt Solingen gemeinsamer Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste und der SPD vom 11.03.2020
+- TOP 23.: Resolution für Demokratie, Toleranz und Weltoffenheit gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen - offene Liste, BfS und FDP vom 12.03.2020
+- TOP 24.: 10 + 1 Bäume für die Opfer der NSU
+- TOP 25.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Antrag der Ratsfraktion Bündnis 90/ Die Grünen – offene Liste vom 04.06.2020
+- TOP 25.1: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise Änderungsantrag der Ratsfraktion Bündnis 90/ Die Grünen – offene Liste vom 08.06.2020
+- TOP 26.: Resolution für einen Rettungsschirm für den ÖPNV Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste, FDP und SPD vom 04.06.2020
+- TOP 26.1: Resolution für einen Rettungsschirm für den ÖPNV Änderungantrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste, FDP und SPD vom 18.06.2020
+- TOP 27.: Nachhaltiges Bauen bei Schulneubauten und -sanierungen Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste und der SPD vom 04.06.2020
+- TOP 28.: Appell an Landtag und Landesregierung zur weiteren Förderung von Arbeitsloseninitiativen gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen - offene Liste, BfS und FDP vom 12.03.2020
+- TOP 29.: Gegen weitere Kürzungen bei den Bussen – für Fahrplan-Verbesserungen
+- TOP 30.: Behindertengerechter Ausbau der Haltestellen Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste und der SPD vom 04.06.2020
+- TOP 31.: Resolution Kommunaler Rettungsschirm Corona
+- TOP 31.1: Resolution Kommunaler Rettungsschirm Corona
+- TOP 32.: Bereitstellung ausreichender Testkapazitäten für Senioreneinrichtungen durch Land und Bund Antrag der Ratsfraktionen Bündnis 90/ Die Grünen - offene Liste, SPD und FDP vom 04.06.2020
+- TOP 33.: Beschleunigung von Investitionen zur Sicherung von Arbeit und Beschäftigung Antrag der CDU-Ratsfraktion vom 02.06.2020
+- TOP 34.: Zustimmung zu Mehrauszahlungen gemäß § 83 GO NRW; hier: Zahlung der Landschaftsumlage
+- TOP 35.: Anpassung des Höchstbetrags der Kredite zur Liquiditätssicherung
+- TOP 36.: 
+- TOP 37.: Genehmigungsplanung zur Errichtung eines Wertstoffhofes am MHKW Sandstraße 16a
+- TOP 38.: Konzeption zur Beschaffung, Betrieb und Unterhaltung von Dienstfahrrädern
+- TOP 39.: TBS-Standortkonzept 2030, Überprüfung der Wirtschaftlichkeit und Vergabeart
+- TOP 40.: Entwurf des Jahresabschlusses 2019 der Stadt Solingen
+- TOP 41.: Jahresabschluss 2019 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 42.: Jahresabschluss 2019 des Eigenbetriebs Wasserversorgung Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 43.: Jahresabschluss 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 44.: Jahresabschluss 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 45.: Wirtschaftsplan 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 46.: Bauleitplanung Börsenstraße Information über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Vorentwurf des Bebauungsplanes H 667 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes H 667 für das Gebiet östlich der Börsenstraße und südwestlich des Klingenpfades (Beschluss 2) - Stadtbezirk Burg/ Höhscheid –
+- TOP 47.: Bauleitplanung Am Neumarkt/ Kölner Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB zum Vorentwurf des Bebauungsplanes S 700 sowie zum Vorentwurf der Flächennutzungsplanberichtigung Nr. B29/ 04 für das Gebiet zwischen den Straßen Am Neumarkt, Peter-Knecht-Straße, Kölner Straße und Max-Leven-Gasse (Hauptverwaltung Sparkasse) - Stadtbezirk Mitte –
+- TOP 48.: Bauleitplanung Lützowstraße/ Untere Holzstraße Information über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Vorentwurf des Bebauungsplanes G 629 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes G 629 für das Gebiet östlich der Lützowstraße und nördlich der Unteren Holzstraße. (Beschluss 2) – Stadtbezirk Gräfrath –
+- TOP 48.1: Bauleitplanung Lützowstraße/ Untere Holzstraße Information über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Vorentwurf des Bebauungsplanes G 629 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs.2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes G 629 für das Gebiet östlich der Lützowstraße und nördlich der Unteren Holzstraße (Beschluss 2) – Stadtbezirk Gräfrath – Antrag der SPD Fraktion und der SPD-Bezirksfraktion vom 19.05.2020
+- TOP 49.: Bauleitplanung Melanchthonstraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes G 742 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet nordöstlich der Melanchthonstraße im Südwesten, beidseits der Melanchthonstraße im Nordwesten, südwestllich der Katharinenstraße im Nordosten und beidseits der Katharinenstraße im Osten bzw. Südosten (Beschluss 1) – Stadtbezirk Gräfrath –
+- TOP 50.: Verschiedenes
+- TOP 50.1: Mitteilungen der Verwaltung
+- TOP 50.1.1: Haushaltsverfügung für das Jahr 2020
+- TOP 50.1.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen vom 01.01.-15.05.2020
+- TOP 50.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Rates am 13.02.2020
+- TOP 4.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Wechsel im Beirat
+- TOP 5.: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 2 Satz 2 Gemeindeordnung NRW
+- TOP 6.: Städtische Musikschule Solingen GmbH - Erteilung einer Prokura
+- TOP 7.: Städtische Musikschule Solingen GmbH - Bestellung des Abschlussprüfers für das Geschäftsjahr 2019 / 2020
+- TOP 8.: Neue Effizienz GmbH - Bestellung des Abschlussprüfers für das Jahr 2020
+- TOP 9.: EDL Solingen GmbH (EDL) - Bestellung eines Abschlussprüfers für den Jahresabschluss 2019/20
+- TOP 10.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2020
+- TOP 11.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 GO NRW - Jahresabschluss 2018 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH – Vorlage 6627 - Städtische Musikschule Solingen GmbH – Widerruf einer Prokura – Vorlage 6691 - Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) - Bestellung/Abberufung einer/ eines kaufmännischen Geschäfts-führerin/ Geschäftsführers – Vorlage 6696 - Städtisches Klinikum gemeinnützige GmbH (SKS) - Verlängerung der Bestellung als Verwaltungsleiter und Mitglied der Betriebsleitung – Vorlage 6697 - Wirtschaftsplan 2020 Städtisches Klinikum Solingen gemeinnützige GmbH – Vorlage 6223 - Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) - Bestellung eines Prokuristen – Vorlage 6718 - Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkäufe – Vorlage 6719
+- TOP 12.: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 2 Satz 2 Gemeindeordnung NRW
+- TOP 13.: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 2 Satz 2 Gemeindeordnung NRW
+- TOP 14.: Bestätigung von Dringlichkeitsentscheidungen i.R.d. Covid 19-Pandemie; hier: Vergabeentscheidung v. 31.03.2020 (FFP2- und OP-Masken)
+- TOP 15.: Stadtentwicklungsgesellschaft Solingen [SEG] – Einbringung des städtischen Grundstücks „Schwanenstraße 94“ zum Bau einer städtischen KiTa sowie weiterer Wohnungen in die Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 15.1: Stadtentwicklungsgesellschaft Solingen [SEG] – Einbringung des städtischen Grundstücks „Schwanenstraße 94“ zum Bau einer städtischen KiTa sowie weiterer Wohnungen in die Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 16.: Anmietung von Räumlichkeiten im Gebäude Grünstraße 2 in Solingen zur Unterbringung von Verwaltungseinheiten der Stadt Solingen
+- TOP 17.: Verkauf einer städtischen Liegenschaft - Bereich: Herzogstraße -
+- TOP 18.: Verkauf einer städtischen Liegenschaft - Bereich: Zweibrücker Straße -
+- TOP 19.: Jahresabschluss 2019 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 20.: Städtisches Klinikum gemeinnützige GmbH (SKS) - Entwicklung Masterplan SKS 2025 - Feststellung des Verfahrens und Begleitung durch den Aufsichtsrat
+- TOP 21.: Wirtschaftsplan 2020 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 22.: Wirtschaftsplan 2020 / 2021 der Städtischen Musikschule Solingen GmbH
+- TOP 23.: Städtische Musikschule Solingen GmbH - Einzahlung in die Kapitalrücklage
+- TOP 24.: Bergische Symphoniker GmbH - Jahresabschluss 2018/2019
+- TOP 25.: Bergische Symphoniker GmbH - Wirtschaftsplan 2020/2021
+- TOP 26.: Jahresabschluss 2019 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 27.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Vermietung Teilfläche Eugen-Maurer-Haus
+- TOP 28.: Jahresabschluss 2019 der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 29.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Städtischen Musikschule Solingen GmbH
+- TOP 30.: Jahresabschluss 2019 der Entsorgung Solingen GmbH
+- TOP 31.: Jahresabschluss 2018/19 der itec solingen gmbh (itec)
+- TOP 32.: Jahresabschluss 2018/19 der EDL Solingen GmbH (EDL)
+- TOP 33.: Jahresabschluss 2019 der Elba Omnibusreisen GmbH
+- TOP 34.: Jahresabschluss 2019 der Wasserwerk Baumberg GmbH
+- TOP 35.: Jahresabschluss 2019 der Neue Effizienz GmbH
+- TOP 36.: Neue Effizienz GmbH - Verfügung über Geschäftsanteile
+- TOP 37.: Stadtwerke Solingen GmbH - Erwerb von Geschäftsanteilen an der Trianel Wind und Solar GmbH & Co. KG (TWS)
+- TOP 38.: Verschiedenes
+- TOP 38.1: Mitteilungen der Verwaltung
+- TOP 38.2: Anfragen an die Verwaltung
