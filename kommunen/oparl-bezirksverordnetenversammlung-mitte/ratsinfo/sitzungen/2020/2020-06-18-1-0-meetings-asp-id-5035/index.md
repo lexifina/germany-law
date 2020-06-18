@@ -1,0 +1,130 @@
+# 39. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM) - Gäste bitte vorher anmelden
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-06-18T17:30:00+02:00
+- Ende: 2020-06-18T21:06:00+02:00
+- Ort: Alt-Moabit 10 , 10557 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5035
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5035
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=473400
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Transvaalstr. 15 - schriftlich beantwortet
+- TOP 2.2: Geplanter Ausbasu der Flächen vom ZK/U in der Siemensstraße 27, Moabit - schriftlich beantwortet
+- TOP 2.3: Stand der Prüfung der Gebäudekomplexe Koloniestraße 13 und Osloer Straße 93 - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Konzepte zu Vermeidung von Corona-Infektionen - im Ausschuss abgelehnt
+- TOP 6.2: Wie steht es um den Mieterschutz in Mitte? - beantwortet
+- TOP 6.3: Haushaltsdurchführung Bezirkshaushalt 2020/21 - beantwortet
+- TOP 6.4: Ankündigungsweltmeister von Dassel - schriftlich beantwortet
+- TOP 6.5: Corona bedingte Mehrkosten - schriftlich beantwortet
+- TOP 6.6: Aktueller Stand der Planungen zur S21 – Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma - schriftlich beantwortet
+- TOP 6.7: Bundeswehrsoldat*innen im Gesundheitsamt Mitte - schriftlich beantwortet
+- TOP 6.8: Kitaausbau in Mitte – ausgebremst durch Kapazitätsmängel im Straßen? und Grünflächenamt (SGA)? - schriftlich beantwortet
+- TOP 6.9: Wie ernst nehmen die Bürger aus Mitte die Maskenpflicht? - schriftlich beantwortet
+- TOP 6.10: Übernahme von Pleitekneipen durch Clans - schriftlich beantwortet
+- TOP 6.11: Sachstand neue Grundschule im Wedding - schriftlich beantwortet
+- TOP 6.12: Umbau der Neuen Gertraudenbrücke - schriftlich beantwortet
+- TOP 6.13: Sicherheit für Fußgänger*innen und Radfahrer*innen auf der Kieler Straße! - schriftlich beantwortet
+- TOP 6.14: Was wird mit den Bußgeldern wegen Verstoßes gegen Corona?Auflagen? - schriftlich beantwortet
+- TOP 6.15: Wie geht’s mit dem ehemaligen Park Café in den Rehbergen weiter? - schriftlich beantwortet
+- TOP 6.16: 1000km – Dienstfahrradsharing ein Erfolg? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 10: Dringlichkeitsanträge - (offen)
+- TOP 10.1: ZK/U unterstützen – Voraussetzungen für Umsetzung der Umbaumaßnahmen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Waldenserstr.9, Koloniestr. 13/ Osloer Str. 93 und Siemensstr.13-14 - Vorkaufsrecht anwenden - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beschluss der BVV ignoriert und 100.000 € für nichts? - überwiesen
+- TOP 10.4: Vorkaufsrecht für Häuser, die durch die Deutsche Wohnen gekauft werden - ohne Änderungen in der BVV beschlossen
+- TOP 11: Entschließungen - (offen)
+- TOP 11.1: Habersaathstraße 40-48 - Günstigen Wohnraum erhalten – Rekommunalisierung prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Gerade in CORONA-Zeiten solidarisch sein: Menschen eine Zukunft geben - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Auch in Mitte Corona bekämpfen, Wohlstand sichern und Zukunftsfähigkeit stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Denkmalschutz für den Wohn? und Gewerbehof in der Koloniestr. 10 - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgersteig Kieler Str. - überwiesen
+- TOP 12.5: Breitbandverfügbarkeit gewährleisten - überwiesen
+- TOP 12.6: Radverkehr in der Kleingartenkolonie Plötzensee - Konflikte zwischen Fußgehenden und Radfahrenden entschärfen - überwiesen
+- TOP 12.7: Neue Grundschule - nachhaltige Planungen implementieren - überwiesen
+- TOP 12.8: Grundlagen für eine Bebauung des Molkenmarkts - überwiesen
+- TOP 12.9: Kunst und Kultur sind kein Kürprogramm - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Elberfelder Str. – Wildwest auf dem Bürgersteig - überwiesen
+- TOP 12.11: Aufstellmöglichkeiten für Getränkeautomaten - überwiesen
+- TOP 12.12: Zielvereinbarungen mit den Wohnungslosentagesstätten abschließen - überwiesen
+- TOP 12.13: Unterstützung für soziale und gesellschaftliche Arbeit im Bezirk zu Zeiten von Corona - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Mehr Hilfen für Soloselbständige - vertagt
+- TOP 12.15: Walter Lübcke in Namensliste für neue Straßennamen aufnehmen - überwiesen
+- TOP 12.16: Rettung der Flora und Fauna des Plötzensees - überwiesen
+- TOP 12.17: Sozialer Ungleichheit in der Bürger*innenbeteiligung begegnen - überwiesen
+- TOP 12.18: Unterstützung des Café Seidenfaden - vertagt
+- TOP 12.19: Zusätzliche Plätze für Opfer häuslicher Gewalt verstetigen - vertagt
+- TOP 12.20: Schuldner- und Insolvenzberatung für Kleinstbetriebe - vertagt
+- TOP 12.21: Sicheren Sport im Park ermöglichen - überwiesen
+- TOP 12.22: Eine Straße oder einen Platz für Nelson Mandela - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Sport auch in den Sommerferien ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 13.1: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - mit Änderungen in der BVV beschlossen
+- TOP 13.2: BVV bei der Sportentwicklungsplanung einbeziehen - vertagt
+- TOP 13.3: Trinkwasser in allen Schulen in Mitte ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 13.4: Runder Tisch Mobilität - vertagt
+- TOP 13.5: Plantagenstraße zur Spielstraße - mit Änderungen in der BVV beschlossen
+- TOP 13.6: Stadtklima verbessern, Grünflächen entsiegeln - vertagt
+- TOP 13.7: Größere Baumscheiben für Straßenbäume - vertagt
+- TOP 13.8: Spreeuferweg im Nikolaiviertel - vertagt
+- TOP 13.9: Verkehrsberuhigung in Wohnkiezen – „Superblocks“ (Superilles) auch für Mitte - vertagt
+- TOP 13.10: Altglassammelcontainer – Standorte bekanntgeben - vertagt
+- TOP 13.11: Mehr Rücksicht auf Fußgänger an Bushaltestellen - vertagt
+- TOP 13.12: Anordnung Tempo 30 für die Veteranenstraße - vertagt
+- TOP 13.13: Eine neue Chance für ein Monbijoutheater! - vertagt
+- TOP 13.14: Hauptstadtzulage - ohne Änderungen in der BVV beschlossen
+- TOP 13.15: Mehr Schulplätze in Mitte schaffen - Gottfried-Röhl-Grundschule unverzüglich baulich erweitern - mit Änderungen in der BVV beschlossen
+- TOP 13.16: Pflicht zum Tragen einer Mund-Nasen-Maske (Community-Maske) - mit Änderungen in der BVV beschlossen
+- TOP 13.17: Keine Bußgelder im Meldewesen - mit Änderungen in der BVV beschlossen
+- TOP 13.18: Gedenken zum 8. Mai jährlich veranstalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.19: Bezirkliche COVID19-Lageberichte - vertagt
+- TOP 13.20: Auch in Corona-Zeiten sozial Prioritäten setzen und finanzieren - mit Änderungen in der BVV beschlossen
+- TOP 13.21: Digitalisierung der Verwaltung - mit Änderungen in der BVV beschlossen
+- TOP 13.22: Haushaltslage 2020 - mit Änderungen im Ausschuss beschlossen
+- TOP 13.23: Duale Ausbildung: Die öffentliche Hand muss über Bedarf ausbilden! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Busse vor AO-Hostel Köpenicker Str./Adalbertstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Mitte für alle Einkommensschichten offenhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Berliner Sportgeschichte hautnah – Eine Flutlichtanlage im Poststadion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Arbeitslosigkeit und Hartz IV vermeiden – Zahl der Schulabbrecher*innen in Mitte endlich nachhaltig senken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Reinigungsdienste für bezirkliche Schulgebäude - vertagt
+- TOP 14.6: Erhalt der Einbahnstraßenregelung in Schwartzkopf-, Pflug- und Wöhlertstraße! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte - vertagt
+- TOP 14.8: Bäume vor Trockenheit schützen – Sommerdienst einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Sportanlage Lüderitzstraße benennen - vertagt
+- TOP 14.10: Gutachten zur Qualität privater Spielplätze erstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Sicherheit im bezirklichen Straßennetz – Herstellen der Sichtbeziehungen an Kreuzungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Mehr Schulplätze an der Gottfried-Röhl – Schulgrundstück größer machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Haus der Gesundheit - vertagt
+- TOP 14.14: Bekanntheit der Härtefallfonds gegen soziale Härten erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Langfristige Arbeit der Begegnungsstätte in der Spandauer Str. 2 sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Basketballkörbe für die kleinen Basketballprofis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Handlungsempfehlungen der „Prüfgruppe Korruptionsprävention“ konsequent umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.18: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte – BVV-Beschluss DS 1791/V vom 21.11.2019 umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.19: 75 Jahre Befreiung vom Faschismus angemessen in Berlin-Mitte gedenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Leitlinien Bürgerbeteiligung - Vorhabenliste - vertagt
+- TOP 14.21: Bestellung einer Kreiswahlleiterin und ihrer Stellvertretung für die Vorbereitung und Durchführung der Wahlen zum 20. Deutschen Bundestag im Herbst 2021. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Bestellung einer Kreiswahlleiterin und ihrer Stellvertretung für die Vorbereitung und Durchführung der Wahlen zum Abgeordnetenhaus und zu den Bezirksverordnetenversammlungen im Herbst 2021. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Interessenbekundung für das Landesprogramm Soziale Infrastrukturmaßnahmen in sozial benachteiligten Quartieren ab 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Entwicklung und Verwendung von Stiftungsmitteln der „Wolfgang-Lammers-Stiftung“ im Haushaltsjahr 2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Beschluss über die Aufstellung des Bebauungsplanes 1-112 (Uferhallen) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: „Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirk Mitte, Bericht für den Berichtszeitraum 2018“ - mit Abschlussbericht zur Kenntnis genommen
