@@ -1,0 +1,1 @@
+# Verordnung zur Verlängerung der vorübergehenden Befreiung von Inhabern ablaufender Schengen-Visa und zur vorübergehenden Befreiung zur Durchreise zum Zweck der Ausreise aus dem Schengen-Raum vom Erfordernis eines Aufenthaltstitels auf Grund der COVID-19-Pandemie
