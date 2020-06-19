@@ -1,0 +1,54 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-19T16:03:00+02:00
+- Ende: 2020-06-19T18:20:00+02:00
+- Ort: Schloß-Gymnasium Benrath, Hospitalstraße 45, Aula Bitte beachten Sie den geänderten Sitzungsort!
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18781
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18781
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö 19062020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381797.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö 19062020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381797.pdf
+- Wortprotokoll: Sitzungspaket Ö 19062020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381797.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 15.05.2020 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 8: Vier Raumbilder für das Raumwerk D - Empfehlung einstimmig beschlossen
+- TOP 9: Stadtbaumkonzept Maßnahmen 2020/2021 - einstimmig beschlossen
+- TOP 10: Ausführungs- und Finanzierungsbeschluss für die Maßnahme Umbau des Knotenpunktes Forst- /Kleinstraße - Empfehlung einstimmig beschlossen
+- TOP 11: Park+Ride Further Straße / Am Schönenkamp - zur Kenntnis genommen
+- TOP 12: Benrather Märkte im Jahre 2020 - abweichend beschlossen
+- TOP 13: Bezirklicher Bauunterhalt 2020, (Liste A, Schulen) - einstimmig beschlossen
+- TOP 14: Bezirklicher Bauunterhalt 2020, (Liste B, städtische Gebäude) - einstimmig beschlossen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 15: Milieuschutzsatzungen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP -: Aktuelle Anfragen
+- TOP 16: Maßnahmen zur Bekämpfung des Riesenbärenklaus im Himmelgeister Rheinbogen - vertagt
+- TOP 17: Maßnahmen zur Wiederherstellung der Biodiversität im Himmelgeister Rheinbogen - zur Kenntnis genommen
+- TOP 18: Schützenfest 2021 in Benrath - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 19: Radfahrstreifen Benrather Schloßallee - mehrheitlich beschlossen
+- TOP 20: Problemzone Wersten-Südost - einstimmig beschlossen
+- TOP 21: Ehemaliger Radweg Benrather Schlossufer / Am Alten Rhein - mehrheitlich beschlossen
+- TOP 22: WC-Anlage Busbahnhof Benrath - einstimmig beschlossen
+- TOP 23: Graffitientfernung an der Toilettenanlage im Elbroichpark - einstimmig beschlossen
+- TOP 24: Legales Grafitti-Sprayen im Elbroichpark - einstimmig beschlossen
+- TOP 25: Einrichtung einer beidseitigen Haltverbotszone am Kölner Weg in Himmelgeist - einstimmig beschlossen
+- TOP 26: Ausweisung von Haltverbotszonen auf der Nikolausstraße in Himmelgeist - einstimmig beschlossen
+- TOP 27: Radargeschwindigkeitskontrollstationen Ickerswarder Straße - abweichend beschlossen
+- TOP 28: Zugang Bowling-Zentrum Benrath und Spektakulum - abweichend beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung 9
+- TOP 29: Verfügungsmittel: Düsseldorfer Künstler - Bemalung der Unterführung Bonner-/Münchner Straße - einstimmig beschlossen
+- TOP 30: Verfügungsmittel: St. Sebastianus Reiterkorps Düsseldorf-Wersten e. V. - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 31: Boule-Anlage Albrecht-Dürer-Berufskolleg - zur Kenntnis genommen
+- TOP 32: Geschwindigkeitsbeschränkung auf der Kölner Landstraße - zur Kenntnis genommen
