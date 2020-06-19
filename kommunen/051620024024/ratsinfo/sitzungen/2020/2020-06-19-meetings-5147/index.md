@@ -1,0 +1,83 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-06-19T16:00:00+02:00
+- Ende: 2020-06-19T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5147
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5147
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131851.pdf
+- Ergebnisprotokoll: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131851.pdf
+- Wortprotokoll: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00131851.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 6: Jugendhilfeplanung Kindertagesbetreuung hier: Bedarfsplan Kindertagesbetreuung 2020/2021ff - einstimmig zugestimmt
+- TOP 7: Kindertageseinrichtungen: Kibiz und Trägeranteile - einstimmig zugestimmt
+- TOP 8: Konzeption "Soziale Hausgemeinschaft Neuss" - einstimmig zugestimmt
+- TOP 9: Förderung alternativer Wohnformen - einstimmig zugestimmt
+- TOP 10: Neueinrichtung und Fortführung von Gremien des Rates und der Ausschüsse - mehrheitlich zugestimmt
+- TOP 11: Zuständigkeitsordnung - einstimmig zugestimmt
+- TOP 12: Wahlordnung für den Integrationsausschuss der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 13: Verabschiediung des Integrationskonzeptes der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 14: Verkaufsoffene Sonntage 2020 - mehrheitlich zugestimmt
+- TOP 15: Feststellung des Jahresabschlusses 2019 der Liegenschaften u. Vermessung Neuss Beschluss über eine Erstattung aus dem Gewinnvortrag für Grunderwerbskosten im Zusammenhang mit Infrasturkturmaßnahmen der Stadt Neuss und über die Entlastung der Betrieb - mehrheitlich zugestimmt
+- TOP 16: Bebauungsplan 465 - Am Kreuzfeld: Verkehrliche Erschließung - einstimmig zugestimmt
+- TOP 17: Anpassung der Mensazuschüsse ab dem Schuljahr 2020/2021 - einstimmig zugestimmt
+- TOP 18: Kooperationsvereinbarung Kolping-Bildungswerk Schuljahr 2020/2021 - einstimmig zugestimmt
+- TOP 19: Anpassung der OGS-Budgets zum 01.08.2020 - einstimmig zugestimmt
+- TOP 20: Änderung der Gebührenordnung und Satzung der Musikschule - einstimmig zugestimmt
+- TOP 21: Maßnahmen der Klimaanpassung und des Klimaschutzes in der Bauleitplanung, insbesondere Bebauungsplan Nr. 495 – Furth-Süd, Further Straße/Josefstraße - mehrheitlich zugestimmt
+- TOP 22: Bebauungsplan Nr. 484 - Augustinusviertel, Ehemaliges St.-Alexius-Krankenhaus- Beschluss über die Abwägung der Stellungnahmen - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 23: Ausbau des Straßensystems, der Quartiersplätze und grünen Allee im Bebauungsplan Nr. 484 - Augustinusviertel, Ehemaliges St.-Alexius-Krankenhaus - Planungsbeschluss - einstimmig zugestimmt
+- TOP 24: Verlängerung der Veränderungssperre Nr. 38 für den Geltungsbereich des Bebauungsplans Nr. 120/19 - Weckhoven, Otto-Wels-Straße - - einstimmig zugestimmt
+- TOP 25: Umbauplanung Jülicher Landstraße - mehrheitlich zugestimmt
+- TOP 26: Botanischer Garten 3. BA, Innenbereich - einstimmig zugestimmt
+- TOP 27: Verbesserung im Radwegenetz am Konrad-Adenauer-Ring und barrierefreier Ausbau der Haltestelle Polizeibehörde (Fahrtrichtung Nord) - einstimmig zugestimmt
+- TOP 28: Neuss Pass - Satzungsänderungen, Anpassung Eintrittspreise - mehrheitlich zugestimmt
+- TOP 29: Der Niedergermanische Limes auf dem Weg zum UNESCO-Welterbe - Vorentwurf des Erhaltungs- und Vermittlungskonzeptes -Sachstandsberichte - einstimmig zugestimmt
+- TOP 30: Änderung der Benutzungsordnung der Stadtbibliothek - einstimmig zugestimmt
+- TOP 31: Änderung der Gebührenordnung der Stadtbibliothek - einstimmig zugestimmt
+- TOP 32: BP 504 - Allerheiligen, Stüttger Feld - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 33: 14. Satzung zur Änderung der Hauptsatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP 34: Elternbeiträge Kita, Kindertagespflege und OGS - einstimmig zugestimmt
+- TOP 35: Ausbau der öffentlichen Ladeinfrastruktur für Elektromobilität im Neusser Stadtgebiet - mehrheitlich zugestimmt
+- TOP 36: Integriertes Klimaschutzkonzept 2035 - verwiesen
+- TOP 36.1: Mögliche Verlängerung des Standortstärkungsfonds bis zum 30.09.2020 - einstimmig zugestimmt
+- TOP 37: Antrag der FDP-Fraktion betr.: Konzept und Strategieentwicklung zur langfristigen Reduzierung der Personalkosten im Zeitrahmen 2020-2030 - einstimmig zugestimmt
+- TOP 38: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Rennbahngelände zum Familienpark weiter entwickeln. Bürgerinitiative nutzen, um Rennbahngelände zu sichern - verwiesen
+- TOP 39: Antrag der FDP-Fraktion betr. Hundesteuerbefreiung für Hundebesitzer - mehrheitlich abgelehnt
+- TOP 40: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Elternbeiträge für Juni und Juli vollständig übernehmen
+- TOP 41: Antrag der SPD-Fraktion betr. Eltern von Kosten der Kinderbetreuung entlasten - NRW darf Neuss nicht im Regen stehen lassen
+- TOP 42: Antrag der Fraktion UWG/Freie Wähler Neuss - Go-Neuss betr. Verlängerung des Hubertusweges zum Nixhütter Weg/Aurinstr. (K 17) in Neuss-Reuschenberg - mehrheitlich abgelehnt
+- TOP 43: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Berichterstattung zum erneut ausgelegten Planfeststellungverfahren zwecks Erweiterung des Flughafens Düsseldorf
+- TOP 44: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr. Einfacher, schneller, preiswerter: - mehrheitlich zugestimmt
+- TOP 45: Resolution der SPD-Fraktion betr. Gestärkt aus der Krise - Neuss braucht die Unterstützung von Land und Kreis! - mehrheitlich abgelehnt
+- TOP 46: Antrag der Fraktion Die LINKE betr. Ehemaliges Gewerbegebiet Derikum - Sicherung der städtischen Planung - verwiesen
+- TOP 47: Antrag der Fraktion Die LINKE betr. Neue "Mieterschutzverordnung" - Schutzmaßnahmen für Neuss erhalten! - mehrheitlich zugestimmt
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: Sachstand mittelfristiges Haushaltsausgleichskonzept - zur Kenntnis genommen
+- TOP 53: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 54: Bericht von Herrn s.B. Fischer über seine Tätigkeit als Beauftragter für Menschen mit Behinderungen zum Ebd - zur Kenntnis genommen
+- TOP 55: Antrag der Flughafen Düsseldorf GmbH auf Erteilung eines Planfeststellungsbeschlusses sowie auf Änderung der Betriebsregelung - nochmalige Beteiligung - zur Kenntnis genommen
+- TOP 56: Weiterentwicklung Rennbahnpark - Informationen aus der Neuss Marketing GmbH & Co. KG
+- TOP 57: Bewirtschaftung des Stellenplans 2020 - zur Kenntnis genommen
+- TOP 58: Sachstand Ausbildungszentrum Firma Schmolz + Bickenbach - zur Kenntnis genommen
+- TOP 59: Sachstandsbericht zum Ausbau der Kindertagesbetreuung - zur Kenntnis genommen
+- TOP 60: Öffnung von städtischen Sporthallen, Schwimmbädern und Sportanlagen in den Sommerferien - zur Kenntnis genommen
+- TOP -: Einwohnerfragestunde
