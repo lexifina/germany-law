@@ -1,0 +1,8 @@
+# TOP 4.5: Kein offener Vollzug für Sicherungsverwahrte in Reinickendorf
+
+- Sitzung: 37. öffentliche Sitzung des Ausschusses für Bürgerdienste, Ordnungs- und Verwaltungsangelegenheiten (2020-06-19)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=46439
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=46439
