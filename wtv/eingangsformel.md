@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), der durch Artikel 435 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Verteidigung nach Anhörung des Ausschusses für Produktsicherheit:
