@@ -1,0 +1,157 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-06-22T16:00:00+02:00
+- Ende: 2020-06-22T21:15:00+02:00
+- Ort: Stadthalle, Großer Saal, Am Johannisberg
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12766
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12766
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 12.06.20 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00257134.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00258485.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bericht über den Sachstand der Umsetzung von Ratsaufträgen - Entgegennahme ohne Beschluss
+- TOP 2: Fragestunde
+- TOP 2.1: Erreichung Klimaziele - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der SPD-Fraktion "Erreichung Klimazeiel" VO/0164/20 - Entgegennahme ohne Beschluss
+- TOP 2.2: Entwicklung und Kosten Planungsverfahren Forensik - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort der Verwaltung auf die Anfrage der Fraktionen von SPD und FDP vom 19.05.2020 - Entwicklung und Kosten Planungsverfahren Forensik - Entgegennahme ohne Beschluss
+- TOP 2.3: Sandsteinfassade am neuen Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Natursteinfassade am Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.3.2: Sandsteinfassade am neuen Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.4: Gutachten Natursandsteinmauer Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Gutachten Natursandsteinmauer Döppersberg - Beantwortung der Großen Anfrage durch die Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.5: Kurzarbeitergeld in der Stadtverwaltung, städtischen Eigenbetrieben und Beteiligungsgesellschaften - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die gr. Anfrage der Fraktion Freie Wähler vom 02.06.20 - Kurzarbeitergeld in der Stadtverwaltung, städtischen Eigenbetrieben und Beteiligungsgesellschaften - Entgegennahme ohne Beschluss
+- TOP 2.6: Verfeuerung von Biomasse im Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - Verfeuerung von Biomasse im Kohlekraftwerk Wilhlmshaven - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur durchgehenden Markierung des Radweges am Wall
+- TOP 3.2: Bürgerantrag zur Verbesserung der Verkehrssicherheit im Bereich der Rudolfstraße
+- TOP 3.3: Bürgerantrag zur Freigabe der Fußgängerzone Barmen für den Lieferverkehr mit Fahrrädern
+- TOP 3.4: Bürgerantrag zum Thema "Neue Einbahnstraßen"
+- TOP 3.5: Bürgerantrag zum Thema "Berücksichtigung des zukünftigen gesetzlich geregelten Seitenabstands zwischen Radfahrern und anderen Verkehrsteilnehmern"
+- TOP 3.6: Bürgerantrag zum Thema "Freigabe Radverkehr Oberer Döppersberg"
+- TOP 3.7: Bürgerantrag zum Thema "Freier Rechtsabbieger Rudolfstraße / Schwesterstraße"
+- TOP 3.8: Bürgerantrag zum Erlass einer internen Regelung zur Anordnung von Grünpfeilschildern an Ampeln (Verkehrszeichen 720 der Straßenverkehrsordnung)
+- TOP 3.9: Bürgerantrag zur Einrichtung einer LKW Lieferzone an der Friedrich-Ebert-Straße
+- TOP 3.10: Bürgeranträge zu den Verkehrssituationen Leimbacher Straße/Steinweg und Nützenberger Straße sowie zur Berichterstattung aus der Unfallkommission
+- TOP 3.11: Bürgerantrag zur Errichtung einer Hängebrücke - Beauftragung der notwendigen Planungen
+- TOP 3.12: Bürgerantrag zur Parküberwachung auf Geh- und Radwegen
+- TOP 3.13: Bürgerantrag zum Thema "SUV-Verbot für das Stadtgebiet Wuppertal"
+- TOP 3.14: Bürgerantrag - Petition gegen den Bau einer Gesamtschule an der Badischen Straße
+- TOP 3.15: Bürgerantrag zum Bau einer Hängebahn zwischen Hauptbahnhof und Bergischer Universität
+- TOP 3.16: Bürgerantrag zur Förderung, Stärkung und Ausweitung des Fairen Handels
+- TOP 3.17: Bürgerantrag zum Thema "Baustellenabsicherungen nach Empfehlungender Arbeitsgemeinschaft fußgänger- und fahrradfreundlicher Städte, Gemeinden und Kreise in NRW"
+- TOP 3.18: Bürgerantrag zur durchgehenden Ampelschaltung für die Fußgängerampeln am Neumarkt
+- TOP 3.19: Bürgerantrag zum Thema "Fußgängerampeln in Höhe des Museums für Frühindustrialisierung durch Porträts von Friedrich Engels ersetzen"
+- TOP 4: Anträge
+- TOP 4.1: Döppersberg Platz Ost - Bürgeranträge (nur Hauptausschuss)
+- TOP 4.1.1: Gestaltung Primark Platz Ost - ungeändert beschlossen
+- TOP 4.1.2: Döppersberg Platz Ost - Gestaltungsvorschläge - Durchführung einer Bürgerbeteiligung - abgelehnt
+- TOP 4.2: Einrichtung von Schnellladeplätzen in Wuppertal - ungeändert beschlossen
+- TOP 4.2.1: Änderungsantrag zu VO/0132/20, Einrichtung von Schnellladeplätzen in Wuppertal - abgelehnt
+- TOP 4.3: Taubenhaus am Hauptbahnhof - ungeändert beschlossen
+- TOP 4.4: Solidarisch Handeln- Freie Kulturszene unterstützen - Finanzielle Hilfen jetzt! - ungeändert beschlossen
+- TOP 4.5: Freie Kulturszene konkret unterstützen - abgelehnt
+- TOP 4.6: Auswirkungen der Pandemie reduzieren - geändert beschlossen
+- TOP 4.7: Laptops und Tablets für benachteiligte Kinder - geändert beschlossen
+- TOP 4.8: Resolution für eine wirksame Lösung des Altschuldenproblems - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Prüfauftrag – Sonntagsöffnung der Stadtbibliothek - geändert beschlossen
+- TOP 5.2: Unterstützung für das Arbeitslosenzentrum - ungeändert beschlossen
+- TOP 5.2.1: Verwendung zusätzlicher Haushaltsmittel für die Suchtberatung, Schuldnerberatung, Prävention in der Wohnungslosenhilfe sowie für die Arbeitsgemeinschaft der freien Wohlfahrtspflege (AGFW) - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung für die Benennung von Straßen, Wegen und Plätzen und Benennungen im Rahmen der Erinnerungskultur - geändert beschlossen
+- TOP 6.2: Stellplatzsatzung der Stadt Wuppertal - vertagen
+- TOP 6.2.1: Stellplatzsatzung der Stadt Wuppertal; Ergänzungen nach erster Beratung - vertagen
+- TOP 6.3: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - vertagen
+- TOP 6.3.1: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung); Ergänzungsvorlage nach erster Beratung - vertagen
+- TOP 6.4: Änderung der städtischen Parkgebührenordnung durch Erhöhung der Gebühren für das Tagesticket - ungeändert beschlossen
+- TOP 6.5: Änderung der Satzung zur Erhebung von Elternbeiträgen für die Betreuung von Kindern in Kindertageseinrichtungen und in der Kindertagespflege der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.5.1: Antrag der SPD-Ratsfraktion: Anpassung der Elternbeitragstabelle für Angebote der Kindertages- und Kinderpflegeeinrichtungen zügig umsetzen - in der Sache erledigt
+- TOP 6.6: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der Offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.7: Erlass der Elternbeitragserhebungen zu 50% für die Monate Juni und Juli 2020 - ungeändert beschlossen
+- TOP 6.7.1: Vollständiger Verzicht auf die Erhebung der Elternbeiträge für Kindertageseinrichtungen (KiTas), Kindertagespflegestellen und den Offenen Ganztag für die Monate Juni und Juli 2020 - abgelehnt
+- TOP 6.8: Erste Satzung zur Änderung der Satzung für die Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 6.9: Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturförderabgabe - geändert beschlossen
+- TOP 6.9.1: Erlass der Sondernutzungsgebühren für die Außengastronomie - ungeändert beschlossen
+- TOP 6.9.2: Parkplätze und andere öffentliche Freiflächen für Außengastronomie nutzen - geändert beschlossen
+- TOP 6.10: Erste Änderung der Wahlordnung für die Wahl der direkt in das Integrationsgremium der Stadt Wuppertal zu wählenden Mitglieder vom 17.12.2019 - ungeändert beschlossen
+- TOP 6.10.1: Begleitende Öffentlichkeitsarbeit für die Wahl zum Integrationsausschuss 2020 - ungeändert beschlossen
+- TOP 6.11: Änderung des Kommunalabgabengesetzes - ungeändert beschlossen
+- TOP 6.12: Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 6.13: Änderung der Ehrenordnung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.14: 5. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Anpassung des städtischen Eigenanteils für die Sanierung von Schloss Burg - ungeändert beschlossen
+- TOP 7.2: Grundhafte Instandsetzung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 7.3: Zusätzlicher Investitionsbedarf in zentrale IT-Infrastruktur und IT-Hardware - ungeändert beschlossen
+- TOP 7.4: Bericht zur über- und außerplanmäßigen Bereitstellung von Mitteln vom 01.10.2019 bis 30.04.2020 - Entgegennahme ohne Beschluss
+- TOP 7.5: Überplanmäßige Mittelbereitstellung zur Neubeschaffung von zwei Hubsteigern - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2019 - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2019 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2019 der Stadtsparkasse Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.4: Entlastung des Verwaltungsrates der Stadtsparkasse Wuppertal für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss 2019 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.8: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 8.9: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 8.10: Neue Effizienz GmbH - Verfügung von Geschäftsanteilen - ungeändert beschlossen
+- TOP 8.11: Neustrukturierung des Eigenbetriebs Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.12: Public Corporate Governance Kodex und Beteiligungsrichtlinie der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.12.1: Public Corporate Governance Kodex (PCGK) und Beteiligungsrichtlinie der Stadt Wuppertal - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 8.13: Tilgung eines Verlustvortrages bei den Alten- und Altenpflegeheimen der Stadt Wuppertal (APH) - ungeändert beschlossen
+- TOP 8.14: Benennung eines Prüfers für den Jahresabschluss 2019 ESW - ungeändert beschlossen
+- TOP 8.15: Bestellung des Wirtschaftsprüfers für das Geschäftsjahr 2020 der GWG, GWG-SPE und des Konzerns GWG - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1230 - Maßregelvollzugsklinik Kleine Höhe - Satzungsbeschluss - - abgelehnt
+- TOP 9.2: 103. Flächennutzungsplanänderung - Maßregelvollzugsklinik Kleine Höhe - Feststellungsbeschluss - - in der Sache erledigt
+- TOP 9.3: Begleitbeschluss zum Satzungsbeschluss (VO/0125/20) und Feststellungsbeschluss (VO/0130/20) in Sachen Maßregelvollzugsklinik Kleine Höhe - in der Sache erledigt
+- TOP 9.4: Bebauungsplan 1250 - Nächstebrecker Straße / Bramdelle - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 199 - Lohsiepen - - ungeändert beschlossen
+- TOP 9.6: Vorhabenbezogener Bebauungsplan 1136 V - Dreigrenzen - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - vertagen
+- TOP 9.8: Bebauungsplan 1269 - Buchenstraße / Nelkenstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortschreibung des Handlungsprogramms Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Wirtschaftsstandort Wuppertal mit Weitblick weiterentwickeln - ungeändert beschlossen
+- TOP 11.1.2: Gewerbeflächenpotentiale - geändert beschlossen
+- TOP 11.1.3: Gewerbeflächenpotentiale - Entgegennahme ohne Beschluss
+- TOP 11.1.3.1: Antwort auf die gemeinsame große Anfrage der Fraktion der SPD und FDP - Gewerbeflächenpotentiale - Entgegennahme ohne Beschluss
+- TOP 11.2: Benennung Engels-Quartier - ungeändert beschlossen
+- TOP 11.3: Konzept "Neue Wohnbauflächen für Wuppertal" - geändert beschlossen
+- TOP 11.4: Verabschiedung einer Deklaration zur Verkehrssicherheit - ungeändert beschlossen
+- TOP 11.5: Bündnis für Wohnen - geändert beschlossen
+- TOP 11.5.1: Ergänzungsantrag zu den Änderungen VO/0099/20/1.Neuf "Bündnis für Wohnen" - ungeändert beschlossen
+- TOP 11.6: Handlungskonzept - Stärkung des Sozialen Wohnungsbaus - ungeändert beschlossen
+- TOP 11.7: Aktualisierung des Einzelhandels- und Zentrenkonzeptes Wuppertal - ungeändert beschlossen
+- TOP 11.8: Aktualisierung der Vorhabenliste für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.9: Grundsatzbeschluss zur Durchführung eines Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 11.10: Stadtentwässerung- Maßnahmenkatalog 2021 / Katalogentwurf 2022 - ungeändert beschlossen
+- TOP 11.11: Verzicht auf den Standort Obere Lichtenplatzer Straße für ein Altenpflegeheim - Verbleib am Standort Vogelsangstraße - ungeändert beschlossen
+- TOP 11.11.1: Sozialen Wohnungsbau stärken – Standort Obere Lichtenplatzer Straße - ungeändert beschlossen
+- TOP 11.11.2: Prüfauftrag zur Fläche des ehemaligen Altenheims an der Oberen Lichtenplatzer Straße - ungeändert beschlossen
+- TOP 11.11.3: Änderungsantrag zu VO/0289/20 - Prüfauftrag zur Fläche des ehemaligen Altenheims an der Oberen-Lichtenplatzer-Straße - abgelehnt
+- TOP 11.12: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2021) - ungeändert beschlossen
+- TOP 11.13: Gewährung von Zuschüssen für den Besuch von Spielgruppen und anderen Gruppen - ungeändert beschlossen
+- TOP 11.14: Umsetzung der Honorarhöhung für die freien Mitarbeiterinnen und Mitarbeiter der Bergischen Musikschule - ungeändert beschlossen
+- TOP 11.15: Modernisierung des Sportplatzes Grundstr. in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 11.16: Verlagerung des Stadtarchives - ungeändert beschlossen
+- TOP 11.17: Erweiterung der städtischen Tageseinrichtung Bayreuther Straße und Errichtung eines Ersatzbaues - ungeändert beschlossen
+- TOP 11.18: Ausbau der offenen Ganztagsschule Gemeinschaftsgrundschule Schützenstraße um weitere 25 Plätze zum Schuljahr 2020/2021 - ungeändert beschlossen
+- TOP 11.19: Übernahme des Komplexes Dietrich-Bonhoeffer-Weg und Errichtung eines Ausweichquartiers für Schulen - ungeändert beschlossen
+- TOP 11.20: Klimaschutzkonzept mit integriertem Handlungsfeld Klimafolgenanpassung - ungeändert beschlossen
+- TOP 11.20.1: Umsetzung des 14-Punkte-Paketes für mehr Klimaschutz in Wuppertal - ungeändert beschlossen
+- TOP 11.21: Nachfolgenutzung des Historischen Empfangsgebäudes am Hauptbahnhof - Entgegennahme ohne Beschluss
+- TOP 11.22: Erarbeitung einer Nachhaltigkeitsstrategie - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Veränderungen im Beirat der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
