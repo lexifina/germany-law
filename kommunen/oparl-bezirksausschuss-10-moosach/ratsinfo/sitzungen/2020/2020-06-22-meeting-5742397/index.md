@@ -1,0 +1,84 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-06-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5742397
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5742397
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Freigabe der Protokolle der Sitzungen vom 29.04.2020 (Ferienausschuss) und 11.05.2020 (Teil A - Konstituierende Sitzung und Teil B - Arbeitssitzung)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Ortstermin am 20.02.2020: Grünanlage Borstei - vorgesehene Maßnahmen des Baureferates
+- TOP 3.2.2.: Ortstermin am 20.02.2020: MVG Radstationen in Moosach - vorgesehene Örtlichkeiten
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Anfrage: Baugenehmigungsverfahren Anwesen Naumburger Str. 36
+- TOP 2.2.: Widmung der Donaustaufer Straße als "Fahrradstraße" - Gefahr für Kinder
+- TOP 2.3.: Geschwindigkeitsbegrenzung für alle PKWs und Fahrverbot für LKWs in der Lauinger -/ Donauwörther Straße
+- TOP 2.4.: Nächtliche Ruhestörungen Ecke Ohlauer und Wilhelmshavener Straße
+- TOP 3.3.1.: Bauvorhaben: 1. Triebstr. 36-40 (Vorbescheid) 2. Donaustaufer Str. 30 (Vorbescheid) 3. Donaustaufer Str. 31 (Vorbescheid) 4. Ehrenbreitsteiner Str. 32 (Vorbescheid)
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Triebstr. 36-40 -> siehe Bauvorhaben TOP 3.3.1.1 2. Donaustaufer Str. 30 -> siehe Bauvorhaben TOP 3.3.1.2 3. Meggendorferstr. 37 4. Georg-Brauchle-Ring 29 5. Rothschwaigestr. 16
+- TOP 4.1.1.: Corona-Krise: "Sommer in der Stadt" am St.-Martins-Platz - auch Moosach hilft den Schaustellern und Marktkaufleuten
+- TOP 4.1.2.: Rund um die St.-Martinskirche - Nutzungskonflikte lösen
+- TOP 4.1.3.: ordnungsgemäße Einfriedung des unbebautes Grundstück zwischen Bingener Str. 4 und Feldmochinger Str. 38 und Rechtmäßigkeit der erfolgten Baumfällungen
+- TOP 4.1.4.: Übertragung von BA-Sitzungen während und auch jenseits der Corona-Krise per Livestream
+- TOP 4.1.5.: Fahrgeschäfte und Buden für Moosach
+- TOP 4.1.6.: Aufwertung der Straßenbahntrasse vom "Moosacher Stachus" bis zum "Moosacher Bahnhof"
+- TOP 5.1.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München West, GSA Moosach Aktion MVV/MVG – Fahrtkosten für Moosacher Bürger*innen in einer Notlage 966,00€, AZ: 0262.0-10-0225
+- TOP 5.2.: (E) Stadtbezirksbudget AG Buhlstraße e.V., Nachbarschaftstreff Untermenzinger Straße Moosacher Straßenklavier 2020 vom 27.06. - 12.07.2020 1.330,00 € / Az. 0262.0-10-0226
+- TOP 5.3.: (E) Stadtbezirksbudget Initiative "Dokumentation" Erstellung einer Dokumentation des Corona-Lockdowns vom 13.05.-31.08.2020 2.007,68 € / Az. 0262.0-10-0227
+- TOP 5.4.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-10-0233
+- TOP 5.5.: (E) Stadtbezirksbudget Kinder- und Jugendtreff Mooskito Sommerferienprogramm vom 27.07.2020 - 05.09.2020 6.000,00 Euro, Az.: 0262.0-10-0224
+- TOP 5.6.: (E) Stadtbezirksbudget Initiative "Krippenwagen" Anschaffung eines Krippenwagens 2.163,00 Euro, Az.: 0262.0-10-0228
+- TOP 5.7.: Stadtbezirksbudget - Nachträgliche Erhöhung des Zuschussbetrages: PA/ Spielen in der Stadt e.V. "Artmobil vom 07.-09.08.2020 und Zirkus Pumpernudl vom 05.-07.09.2020" (→ TOP 5.4 , Sitzung am 29.04.2020)
+- TOP 5.8.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmungserweiterung einer Teilstrecke der Warschauer Straße, einer Teilstrecke der Amslerstraße und einer Teilstrecke der Schiestlstraße
+- TOP 6.1.: "Sommer in der Stadt" - Unterstützung der Münchner Schausteller*innen in der Corona-Krise (Konzept hier: Platzvorschläge im 10. Stadtbezirk
+- TOP 6.2.: Neubau der öffentlichen Grünfläche an der Untermenzinger Straße; Verteilung der Nutzungen
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund: St.-Martinsplatz, Pelkovenstr. 128 und Memminger Platz „Straßenklavierkonzerte vom 27.06. bis 12.07.20“
+- TOP 7.1.: Verkehrskonzept Breslauer Straße [BA-Antrag Nr. 08-14/B04142; in der Sache bereits erledigt]
+- TOP 7.2.: Instandsetzung des Jugendtreffs "Mooskito", Leipziger Str. 2 [BA-Antrag Nr. 14-20/B06828; Machbarkeitsstudie liegt vor, Fördergelder sind zu erwarten]
+- TOP 7.3.: Stadtsanierung in München / Untersuchungsgebiet Moosach; Einbeziehung des Gebietes der Olympia-Pressestadt im Rahmen des Projektes "Soziale Stadt" und Prüfung möglicher Lärmschutzmaßnahmen in diesem Bereich (BA-Antrag Nr. 14-20/B06939; Erweiterung des Sanierungsumgriffes kann nicht in Aussicht gestellt werden]
+- TOP 7.4.: Bedarfs-Ampel Feldmochinger Straße/ Höhe Hardenbergstraße und Quedlinburger Straße auch am Wochenende aktivieren [BA-Antrag Nr. 14-20/B07726; Umsetzung erfolgt in Kürze]
+- TOP 7.5.: Mehr Bürgernähe wagen: Glückwünsche und Gratulationen ermöglichen! [Schreiben BA10 vom 20.01.20; wegen Datenschutz rechtlich nicht möglich personenbezogene Daten von Bürgern an den BA weiterzugeben.]
+- TOP 7.6.: Verkehrssituation und - fluss in der Gärtnerstraße [Schreiben BA10 vom 20.11.2019; trotz unterdurchschnittlicher Beanstandungsquoten in der Gärtnerstraße gemäß stadtweitem Messprogramm wird die KVÜ Geschwindigkeitskontrollen intensivieren.]
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Allacher -/ Brieger Straße: Maßnahme der Unfallkommission (vorgeschriebene Fahrtrichtung rechts und Wendeverbot) 2. Georg-Brauchle-Ring/ Sapporobogen: Maßnahme der Unfallkommission (vorgeschriebene Fahrtrichtung rechts und Vorfahrt gewähren) 3. Kreuzungsbereich Am Kapuzinerhölzl/ Schragenhofstraße/ Skagerrakstraße: Markierung einer Radwegfurt 4. Andernacher Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes - nicht-öffentlich - 5. Nanga-Parbat-Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes - nicht-öffentlich -
+- TOP 8.2.: Bolzplätze und öffentliche Sportflächen in München erhalten und ausbauen VII - Schaffung von Angeboten für Senior*innen (Abdruck Antwortschreiben Baureferat an Stadtrat-Fraktion Die Grünen - Rosa Liste)
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) auf Grund der Coronapandemie; Bildung von Sonderausschüssen durch die Bezirksausschüsse
+- TOP 8.5.: (U) Neubau der öffentlichen Grünflächen zwischen Memminger Platz und Margarete-Steiff-Straße und an der Untermenzinger Straße im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2081 im 10. Stadtbezirk Moosach Bedarfs- und Konzeptgenehmigung
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand - Bekanntgabe -
+- TOP 8.8.: (U) Toiletten im öffentlichen Raum
+- TOP 8.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen - Jenaer Straße 3 - Dieselstraße 12 Hinweis: Alte SV-Nr. 14-20 / V 18272
+- TOP 8.11.: (U) Schulbauoffensive 2013-2030 - Stellplatzkonzept für den Schulbau
+- TOP 8.12.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 8.13.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2020
+- TOP 8.14.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP 8.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16.: (U) Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Hinweis: Alte SV-Nr. 14-20 / V 17336
+- TOP 8.17.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 8.18.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 8.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.21.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 8.22.: (U) Meldeplattform Radverkehr Internetportal zur Bearbeitung von Anregungen und Beschwerden zum Radverkehr
+- TOP 8.23.: (U) Umsetzung des Radbegehren komplett vorstellen Antrag Nr. 14-20 / A 06575 von Herrn BM Manuel Pretzl vom 21.01.2020, eingegangen am 21.01.2020
+- TOP 4.: Anträge
