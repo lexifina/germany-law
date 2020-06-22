@@ -1,0 +1,121 @@
+# Rat (56. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-06-22T18:02:00+02:00
+- Ende: 2020-06-22T22:30:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcYxDC9ykwlK0PV5bpWjqD0
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7263
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeD39VPzm2ZLBtYdxmm-ddPGZpL4D_oGNMfh0GGjeb_Q/Bekanntmachung_Rat_22.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3W6vmiUdb2OGMEW-t1vOiIXkeYMfJYkpSbU8U5rFgf/Oeffentliche_Niederschrift_Rat_22.06.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Heider-Bergsee-Campus I
+- TOP 1.2: Bebauungsplan 5.10 "Östlich Lindenstraße, westlich an der Schallenburg" I
+- TOP 1.3: Bebauungsplan 5.10 "Östlich Lindenstraße, westlich an der Schallenburg" II
+- TOP 1.4: Sportförderrichtlinien
+- TOP 1.5: Heider-Bergsee-Campus II
+- TOP 1.6: Bürgerinitiative "Rettet das Klima jetzt"
+- TOP 1.7: Heider-Bergsee-Campus III
+- TOP 1.8: OGS Barbaraschule
+- TOP 2.: Niederschrift vom 27.04.2020 und 25.05.2020
+- TOP 3.: Anregungen nach § 24 GO NRW
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.1: Situation in Badorf Bezug: Antrag des Hr. Szymanski vom 01.06.2020; Vorl.-Nr. 233/2020 - (kein Text vorhanden)
+- TOP 3.2: Anregung nach § 24 GO NRW; hier: Feuerwerke der Phantasialand GmbH, Bezug: Antrag vom 16.01.2020 (die Zustimmung zur Veröffentlichung der Personendaten liegt nicht vor)
+- TOP 3.2.1: Bürgerantrag nach § 24 GO NRW vom 16.01.2020 Hier: Feuerwerke der Phantasialand GmbH - (kein Text vorhanden)
+- TOP 3.3: Anregung nach § 24 GO NRW; hier: Clemens-August-Straße, Aufstellung von Müllbehältern im öffentlichen Raum Bezug: Antrag vom 20.05.2020
+- TOP 3.3.1: Anregung nach § 24 GO NRW; hier: Clemens-August-Straße, Aufstellung von Müllbehältern im öffentlichen Raum, Bezug: Antrag vom 20.05.2020, Vorlage Nr. 234/2020
+- TOP 4.: Corona
+- TOP 4.1: Erlass der Beiträge für die Betreuung von Kindern in Kindertagesstätten und der Kindertagespflege für den Monat Juli 2020 und Erlass des Essensgeldes für die Mittagsverpflegung in den städtischen Kindertagesstätten für den Monat Juli 2020 - (kein Text vorhanden)
+- TOP 4.2: Erlass der Beiträge für die Betreuung von Kindern in der offenen Ganztagsschule Bezug: Vorlage 161/2020 - (kein Text vorhanden)
+- TOP 4.3: Übernahme der Elternbeiträge für die Monate Mai bis Juli 2020 bei außerunterrichtlichen Ganztags- und Betreuungsangeboten im Primarbereich und der Sekundarstufe I und überplanmäßige Mittelbereitstellung Bezug: Vorlage 135/2020 - (kein Text vorhanden)
+- TOP 4.4: Homeschooling Hier: Ausleihe digitaler Endgeräte an Schülerinnen und Schüler im Bedarfsfall Bez: Sofortausstattungsprogramm des Bundes, Vorlage Nr. 193/2020, Rat 25.05.2020
+- TOP 4.5: Finanzielle Auswirkungen im Rahmen der Corona-Pandemie -Aktualisierte Einschätzung und gesetzliche Unterstützung- Bezug: Rat 27.04., TOP 3.5 und mündl. Bericht im Rat 26.05., TOP 3.6
+- TOP 5.: Evaluierung Parkraumkonzept
+- TOP 5.1: Evaluierung Parkraumkonzept Bezug: Antrag der Fraktionen CDU und Grüne zur Vorlage 83/2020; zunächst mündlich gestellt im Rat 25.05.2020 - (kein Text vorhanden)
+- TOP 6.: Gewährung städtischer Zuschüsse an Sportvereine gemäß Sportförderrichtlinien Hier: Änderung der Sportförderrichtlinien Bezug: Workshop am 05.03.2020 - (kein Text vorhanden)
+- TOP 7.: Gute Schule 2020 Mittelverwendung und Maßnahmenplanung 2020 Bezug: Rat 10.07.2017, Vorlage 181/2017, Rat 16.12.2019, Vorlage 479/2019, Rat 27.04.2020, Vorlage 132/2020 - (kein Text vorhanden)
+- TOP 7.1: Gute Schule 2020 hier: Sperrvermerk für Mittel aus "Gute Schule" für den Punkt "Anschaffung weiterer mobiler Endgeräte" im Wert von 100.000€ Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 19.06.2020 zu TOP 7 (Vorlage 237/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 8.: Fortschreibung der Schulentwicklungsplanung Köln 2020 Hier: Zusammenfassung der Kernaussagen sowie Auswirkungen auf die Stadt Brühl
+- TOP 9.: Sanitäranlagen an Schulen Hier: Sachstandsbericht
+- TOP 9.1: Sanitäranlagen an Schulen Bezug: Antrag der SPD-Fraktion vom 15.06.2020 zu TOP 9 (236/2020) der Sitzung des Rates am 22.06.2020
+- TOP 9.2: Sanitäranlagen an Schulen Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 18.06.2020 zu TOP 9 (Vorlag 236/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 10.: Spielraumplanung hier: befristete Nutzung ausgewählter Kinderspielplätze für Jugendliche bis zum vollendeten 18. Lebensjahr Bezug: Sitzung des JHA am 04.06.2020 - (kein Text vorhanden)
+- TOP 10.1: Streetworker hier: Schaffung einer weiteren Vollzeitstelle Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 19.06.2020 zu TOP 10 (Vorlage 239/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 11.: Teilnahme der Stadt Brühl am Programm "Kinderfreundliche Kommunen" - (kein Text vorhanden)
+- TOP 12.: Kultur- und Festivalprogramm 2020 und 1. Halbjahr 2021
+- TOP 12.1: Kultur- und Festivalprogramm 2. Halbjahr 2020, Int. FigurenTheaterTage und 1. Halbjahr 2021 Bezug: Vorlage 249/2020 - (kein Text vorhanden)
+- TOP 13.: Weihnachtsbeleuchtung Brühler Innenstadt hier: Gewährung eines einmalig höheren Zuschusses im "Corona-Jahr" 2020 - (kein Text vorhanden)
+- TOP 14.: Errichtung einer neuen Feuerwache Bezug: Vorlage 413/2015, 365/2016 und 318/2019
+- TOP 15.: Änderung der Wahlordnung für die Wahl des Integrationsrates (WahlO IntRat) - (kein Text vorhanden)
+- TOP 16.: Bebauungspläne
+- TOP 16.1: Bebauungsplan 01.18 „Innenstadt Brühl - zwischen Linie 18 (Pingsdorfer Straße) bis Heinrich-Esser-Straße zwischen Mühlenstraße im Westen und Fischmarkt, Franziskanerhof, Burgstraße, Gartenstraße im Osten“ - (kein Text vorhanden)
+- TOP 16.2: Bebauungsplan 09.08 "Am Siegesbach 10-22, Maria-Montessori-Schule" - Auslegungsbeschluss - - (kein Text vorhanden)
+- TOP 17.: Stellenplan 2020 hier: Fortschreibung Stellenplan Bedienstete im Sozial- und Erziehungsdienst - (kein Text vorhanden)
+- TOP 18.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahr 2019 hier: Schreiben der KSK vom 25.05.2020
+- TOP 19.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 19.1: Überplanmäßige Mittelbereitstellung hier: Ausbildungskosten Nofallsanitäter (NotSan) - (kein Text vorhanden)
+- TOP 19.2: Gewährung städtischer Zuschüsse an Sportvereine gemäß Sportförderrichtlinien Hier: Antrag TC Fredenbruch - (kein Text vorhanden)
+- TOP 19.3: Anhebung der OGS-Trägerzuschüsse und überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 19.4: Außerplanmäßige Mittelbereitstellung zur Durchführung des Digitalpaktes Bezug: Vorlage 369/2019 und Vorlage 133/2020 - (kein Text vorhanden)
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Fördermittel für Modellprojekt "Smart City" hier: Bewerbung der Stadt Brühl Bezug: Vorlage Nr. 144/220, Rat 27.4.2020, Dringlichkeitsentscheidung Bürgermeister Freytag und Fraktionsvorsitzender Köllejan (CDU) vom 14.5.2020 - (kein Text vorhanden)
+- TOP 21.: Fördermittel für Modellprojekt "Smart City"; hier: Bewerbung der Stadt Brühl Bezug: Rat 27.4.2020, Vorlage Nr. 144/2020, Dringlichkeitsentscheidung Bürgermeister Freytag und Fraktionsvorsitzender Köllejan (CDU) vom 14.5.2020, Vorlage Nr. 198/2020 - (kein Text vorhanden)
+- TOP 22.: Entwurf des Jahresabschlusses 2019 - (kein Text vorhanden)
+- TOP 23.: Jahresabschluss der Gebausie - (kein Text vorhanden)
+- TOP 24.: Anträge
+- TOP 24.1: Mehrgenerationenzentrum West mit Schwerpunkt "Bewegung und Sport" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 06.04.2020
+- TOP 24.1.1: Mehrgenerationenzentrum West mit Schwerpunkt "Bewegung und Sport" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 17.06.2020 zu TOP 23.1 (Vorlage 124/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 24.1.1.1: Kindertagesbetreuung und Mehrgenerationentreff Bezug: Gemeinsamer Antrag der Fraktionen CDU und Bündnis90/Die Grünen vom 06.04.2020 hier: Sitzung des Rates vom 27.04.2020
+- TOP 24.2: Maßnahmen zur Verkehrsberuhigung am "Berliner Ring" Bezug: Antrag der SPD-Fraktion vom 27.05.2020 - (kein Text vorhanden)
+- TOP 24.2.1: Verkehrsberuhigung Berliner Ring Bezug: Antrag SPD-Fraktion vom 27.05.2020 (Vorlage 215/2020)
+- TOP 24.3: Umgestaltung des Bebauungsplan 5.10 „Östlich Lindenstraße, westlich an der Schallenburg“ hier: Errichtung einer 3-gruppigen Kindertagesstätte und Seniorenwohnungen Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 03.06.2020 - (kein Text vorhanden)
+- TOP 24.3.1: Bebauungsplan 05.10 "Östlich Lindenstraße, westlich An der Schallenburg" Bezug: Antrag der Fraktionen CDU und Grüne vom 03.06.2020
+- TOP 24.4: Prüfauftrag für die Errichtung einer Boule-Anlage auf der Freizeitwiese Brühl-Süd Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 03.06.2020
+- TOP 24.4.1: Prüfauftrag für die Errichtung einer Boule-Anlage Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 18.06.2020 zu TOP 23.4 (Vorlage 222/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 24.4.2: Errichtung einer Boule-Anlage Bezug: Antrag der Fraktionen CDU und Grüne vom 03.06.2020
+- TOP 25.: Umbesetzung in Ausschüssen
+- TOP 25.1: Umbesetzung im Schulausschuss hier: Vertretung der evangelischen Kirche - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
+- TOP 27.1: Galeria Karstadt Kaufhof I
+- TOP 27.2: St. Martins Umzüge
+- TOP 27.3: Asphaltdecke Otto-Wels-Straße
+- TOP 27.4: Fahrradweg Otto-Wels-Straße
+- TOP 27.5: Galeria Karstadt Kaufhof II
+- TOP 27.6: Gartenfläche "Alte Bonnstraße
+- TOP 27.7: Ehemaliges Schwesternwohnheim
+- TOP 27.8: Beschilderung
+- TOP B): Nichtöffentliche Sitzung
+- TOP 28.: Vergaben
+- TOP 28.1: "Alter Friedhof" in Brühl-Mitte: Mauer- und Fugensanierung - (kein Text vorhanden)
+- TOP 28.2: Max-Ernst-Gymnasium Metallbau - und Verglasungs-Arbeiten zur Sanierung der Fensteranlagen - (kein Text vorhanden)
+- TOP 28.3: Neu- und Umbau Rathaus B Innen-/Außenputzarbeiten (Bestandsgebäude) - (kein Text vorhanden)
+- TOP 28.4: Max-Erstn-Gymnasium: Dachdeckerarbeiten (Dachsanierung Teilfläche Aula) - (kein Text vorhanden)
+- TOP 28.5: Neubau EKR - Umbau RWE-Gebäude zum Schulgebäude - Sonnenschutzanlage - (kein Text vorhanden)
+- TOP 29.: Vergabe eines Grundstücks im Wege der Erbpacht - (kein Text vorhanden)
+- TOP 30.: Belastung eines Erbbaurechts - (kein Text vorhanden)
+- TOP 31.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 31.1: Barbara-Schule: Erweiterungsneubau Hier: Planungsleistungen TGA/ELT - (kein Text vorhanden)
+- TOP 31.2: Einführung der Offenen Ganztagsschule an der KGS Brühl-Pingsdorf, hier: Trägervergabe Bezug: Dringlichkeitsentscheidung Bürgermeister Freytag und Fraktionsvorsitzender Köllejan (CDU) vom 16.6.2020 - (kein Text vorhanden)
+- TOP 32.: Niederschlagungen
+- TOP 32.1: Niederschlagung Gewerbesteuer - (kein Text vorhanden)
+- TOP 32.2: Niederschlagung Gewerbesteuer - (kein Text vorhanden)
+- TOP 32.3: Niederschlagung Gewerbesteuer - (kein Text vorhanden)
+- TOP 33.: Bericht über die 153. Sitzung des Aufsichtsrates der REVG mbH am 27.04.2020
+- TOP 34.: Mitteilungen
+- TOP 34.1: Galeria Karstadt Kaufhof
+- TOP 34.2: Lageberichte an die Fraktionen
+- TOP 34.3: Kommende Sitzungen des Rates und seinen Ausschüssen
+- TOP 35.: Anfragen
+- TOP 36.: Wochenmarkt
+- TOP 37.: Geschwindigkeitsmessungen
+- TOP 38.: Temperaturmessung bei Rathauseintritt
+- TOP 39.: Großeinsatz der Polizei in Brühl
