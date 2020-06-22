@@ -1,0 +1,55 @@
+# Rat der Stadt Rheda-Wiedenbrück (37. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2020-06-22T17:00:00+02:00
+- Ende: 2020-06-22T20:29:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZc2oWu9FGfQfe7pbZVHwAf4
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2091
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWidxqL7DbaaUJ2lnTGTwwwjLoSY-fPSgi0BvVxTnEcK/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_22.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR-6VZDkpJwNQT2a1jYkya8WiL-IBVzfzuoM1RX9RFnM/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_22.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 1.1: Ergänzung der Niederschrift der Sitzung des Rates vom 18.05.2020
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen Sachstandsbericht und Folgen zu den Corona-Infektionen bei der Firma Tönnies sowie aktuelle Informationen und das weitere Vorgehen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag der CDU-Fraktion zur Wohnraumversorgungsstrategie Entwicklung zur Wohnraumversorgung in Rheda-Wiedenbrück
+- TOP 5: Antrag der CDU-Fraktion zur Unterstützung des lokalen Einzelhandels und der Gastronomie
+- TOP 6: - Genehmigung der Dinglichkeitsentscheidung Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege für Juni und Juli 2020 - Antrag der CDU-Fraktion vom 28.05.2020
+- TOP 7: Elternbeiträge in Kindertageseinrichtungen, Kindertagespflege im August 2020 in der Offenen Ganztagsgrundschule im Juni, Juli und August 2020
+- TOP 8: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.04.2020 zum Beitritt "Sichere Häfen"
+- TOP 9: Antrag der FDP-Fraktion vom 29.04.2020 - 10-Punkte-Plan zum Neustart nach Corona Entscheidungsvorlage der Verwaltung
+- TOP 10: Antrag der FDP-Fraktion Rheda-Wiedenbrück hebt ab! Benennung eines Flugzeuges und eines ICE/IC nach der Stadt Rheda-Wiedenbrück
+- TOP 11: Streaming der ordentlichen und öffentlichen Sitzungen des Rates und der Ausschüsse der Stadt Rheda-Wiedenbrück
+- TOP 12: Erlass einer Ablöse- und Stellplatzsatzung für die Stadt Rheda-Wiedenbrück
+- TOP 12.1: Umbesetzung in Ausschüssen
+- TOP 13: Heimat-Preis NRW 2020
+- TOP 14: Jahresabschluss zum 31.12.2018; Feststellung und Entlastung des Bürgermeisters
+- TOP 15: Verfahren zur Haushaltsplanung 2021
+- TOP 16: Namensgebung der Gesamtschule Rheda-Wiedenbrück
+- TOP 17: Sachstandsbericht Flora-Park
+- TOP 18: Gestaltungsbeirat – 2. Änderung der Geschäftsordnung
+- TOP 19: Bebauungsplan Nr. 403 "Hauptstraße/Mühlenstraße" Ergänzendes Verfahren nach § 214 Abs. 4 Baugesetzbuch a) Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Bela
+- TOP 20: 77. Änderung des FNP „Varenseller Straße / Kernekampstraße“; Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit und der Behörden und sonst
+- TOP 21: Bebauungsplan Nr. 415 „Franz-Geshe-Straße“ – Satzungsbeschluss Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Ö
+- TOP 22: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge
+- TOP 23: Bericht zur Beschlusskontrolle
+- TOP 24: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 25: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 26: Erklärung von Ausschließungsgründen
+- TOP 27: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Vertragsangelegenheit
+- TOP 30: Vertragsangelegenheit
+- TOP 31: Leistungsgewährung
+- TOP 32: Aktueller Stand der städtischen Geldanlagen
+- TOP 33: Bericht zur Beschlusskontrolle
+- TOP 34: Dringende Anfragen und Anregungen
