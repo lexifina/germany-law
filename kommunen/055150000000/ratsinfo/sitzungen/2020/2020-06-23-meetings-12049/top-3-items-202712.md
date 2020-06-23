@@ -1,0 +1,8 @@
+# TOP 3: Grundsatzbeschlüsse zur weiteren Digitalisierung der Schulen und Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen
+
+- Sitzung: Sitzung (2020-06-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/202712
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/72097
