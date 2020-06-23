@@ -1,0 +1,7 @@
+# TOP F.1.: Stadtbezirksbudget: Erhöhung des Anteils für eigene Veranstaltungen
+
+- Sitzung: BA 03 - Vollgremium (2020-06-23)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/874383
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/874383
