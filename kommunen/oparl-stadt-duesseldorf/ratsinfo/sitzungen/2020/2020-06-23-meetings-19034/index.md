@@ -1,0 +1,53 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-23T17:00:00+02:00
+- Ende: 2020-06-23T20:33:00+02:00
+- Ort: Geänderter Sitzungsort! Hotel Mutterhaus, Geschwister-Aufricht-Str.1, 40489 Düsseldorf - Caroline Fliedner Saal
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19034
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19034
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381844.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381844.pdf
+- Wortprotokoll: Sitzungsunterlagen oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381844.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Wahl einer Schiedsperson - Empfehlung abweichend beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2020 - einstimmig beschlossen
+- TOP 7: Vorlage wurde zurückgezogen, siehe Nachtrag vom 17. Juni 2020 - Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - - zurückgezogen
+- TOP 8: Vier Raumbilder für das Raumwerk D - Empfehlung mehrheitlich abgelehnt
+- TOP 9: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 10: Sanierung Lohauser Deich -Information - - zur Kenntnis genommen
+- TOP 10.1: Ergänzungsantrag zu BAU/005/2020 - Erhalt der Bäume auf dem Lohauser Deich und Trennung von Rad- und Fußweg - mehrheitlich beschlossen
+- TOP 11: Haushaltsmittel 2020 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 12: Parkplätze Lintorfer Waldstraße - beantwortet
+- TOP 13: Bauplanungsrechtliche Situation zur Erweiterung der Fliedner Fachhochschule, Kaiserswerth
+- TOP 14: Parken auf der Plektrudisstraße Kaiserswerth - beantwortet
+- TOP 15: Planungsrecht für eine Pumptrack-Anlage in Wittlaer - beantwortet
+- TOP -: Neue Anfragen
+- TOP 16: Verkauf von Häusern der Städtischen Wohnungsgesellschaft Düsseldorf - beantwortet
+- TOP 17: Umsetzungsstrategie für Projekte im Düsseldorfer Norden, hier Wiese "Am Fettpott" in Angermund - beantwortet
+- TOP 18: Zustand des Schwarzbachs im Bereich zwischen der Einbrunger Mühle und der Brücke an den ehemaligen Meisterhäusern - beantwortet
+- TOP 19: Zustand des Radwegs der Duisburger Landstraße zwischen Einbrungen und dem Apfelparadies Wittlaer - beantwortet
+- TOP 20: Vermehrte Geschwindigkeitskontrolle auf dem Nagelsweg - beantwortet
+- TOP 21: Hupkonzert der Deutschen Bahn bei der Ortsdurchfahrt Angermund?
+- TOP 22: Veranstaltungsort der Sitzung der Bezirksvertretung 5 am 23. Juni 2020 - beantwortet
+- TOP -: Anträge
+- TOP 23: Nutzung des Spazierweges entlang des Schwarzbachs in Wittlaer ermöglichen - einstimmig beschlossen
+- TOP 24: Endlich seriöse (Verkehrs-)Planung im Düsseldorfer Norden – Bericht zum Verkehrskonzept, teilräumlichem Gutachten und Maßnahmenpaketen - abweichend beschlossen
+- TOP 25: Musikalische Bildung im Stadtbezirk 5 sichern – (Schul-) Räume für den Unterricht zugänglich machen - mehrheitlich beschlossen
+- TOP 26: Betrieb der Musikschule in Kaiserswerth sichern – Problem der Toilettennutzung in Coronazeiten lösen - mehrheitlich beschlossen
+- TOP 27: Veranstaltungen auf dem Messeparkplatz P1 – immissionsschutzrechtliche Vorgaben einhalten & Nachtruhe wahren - mehrheitlich beschlossen
+- TOP -: Infomationsvorlagen
+- TOP 28: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 29: Verschiedenes
+- TOP 30: Dringlichkeitsantrag - Sicherheit im Ortskern Kaiserswerth - mehrheitlich beschlossen
