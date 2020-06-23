@@ -1,0 +1,69 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-23T17:00:00+02:00
+- Ende: 2020-06-23T16:29:00+02:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18995
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18995
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket 23.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381847.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket 23.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381847.pdf
+- Wortprotokoll: öffentliches Sitzungspaket 23.06.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00381847.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Aufpflasterungen an den Einmündungen der Grafenberger Allee mit den Straßen Gehrtsstraße, Grimmstraße und Irmgardstraße - einstimmig beschlossen
+- TOP 4.6: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 4.7: Weihnachtsmarkt auf dem Gerricusplatz im Jahre 2020 - einstimmig beschlossen
+- TOP 4.8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Ausbau Grütersaaper Weg und weiteres Vorgehen - interfraktioneller Antrag - - abweichend beschlossen
+- TOP 5.2: Verkehrskontrollen Höherhofstraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.3: Änderung der Verkehrsführung Torfbruch-/Dreherstraße - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 5.4: Fahrradstraße - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 5.5: Kath. Kindergarten Maria vom Frieden Dreherstraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.6: Markt Quadenhofstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.7: Neue Flächen für Kunst und Kultur – Camelot-Lösung anstreben - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.8: „Lehrpfad Artenvielfalt“ einrichten - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.9: Situation für Radfahrer Diepenstraße/Dreherstraße verbessern - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.10: Unterführung Staufenplatz herrichten - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.11: Befestigung der Wege am Pillebach - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.12: Wildblühwiesen für Grafenberg - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.13: Zebrastreifen am Roten Platz Heyestraße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.14: Abfallbehälter Grünstreifen an der Alten Insel - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.15: Heimatsommer im Stadtbezirk 7 - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.16: Umwidmung der Quadenhofstraße in eine Fahrradstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.17: Freigabe des Steinweges vom Alten Markt in Richtung Gerricusplatz für Radfahrende - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.18: Temporäre Spielstraßen - Antrag der Fraktin Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.19: Sportstätten im Stadtbezirk 7 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Erhaltungssatzung Gerresheim-Süd - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Spontaner Beschluss zur Denkmalwürdigkeit für alte Trinkwassertanks - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Infrastruktur Knittkuhl/ Hubbelrath - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Möglichkeit Gerresheim S-Bahnhof als Regionalhalt - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Verkehrskonzept Cirque du Soleil - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beleuchtung Bereich Dreherstraße / Einfahrt Wiebachweg - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.2: Baumpatenschaften - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.3: Hinweisschild Fußgängertunnel Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.4: Erneuerung Geländer entlang des Fuß- und Radweges Gallberg - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.5: Stele Ehrenfriedhof Blanckertzstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.6: Beleuchtung Fußweg unterhalb Bushaltestelle Gallberg - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - zur Kenntnis genommen
+- TOP 8.7: Fußweg Zamenhofweg - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
