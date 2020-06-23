@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-06-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5849689
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5849689
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.2.: Verwendung des Umlaufordners in Corona-Zeiten
+- TOP F.4.: Teilnahme von BA-Mitgliedern zu Preisgerichten, Beratergesprächen etc.
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 22.05.2020, Silvesterfeuerwerk? Nein Danke!
+- TOP 5.2.2.: Bürgeranliegen vom 23.05.2020, Tempo 30 Zone in der Steinheilstraße
+- TOP 5.2.3.: Bürgeranliegen vom 24.05.2020, Halteverbotsschilder Blutenburgstraße 42, 44
+- TOP 5.2.4.: Bürgeranliegen vom 26.05.2020, Ampel Adalbert-/Ludwigstraße
+- TOP 5.2.5.: Bürgeranliegen vom 22.05.2020, Arcisstraße zwischen Theresienstraße und Georgen- straße als Fahrradstraße ausweisen
+- TOP 5.2.6.: Bürgeranliegen vom 03.06.2020, Lärmbelästigung durch Lieferservice in der Schelling- straße gegenüber Hausnummer 88
+- TOP 5.2.7.: Bürgeranliegen vom 05.06.2020, Freischankflächen auf Parkstreifen
+- TOP 5.3.1.: Informationen 2. S-Bahn-Stammstrecke, Baustelle Hauptbahnhof
+- TOP 6.1.: Rückbau der Schrankenanlage in der Grünfläche Königinstraße
+- TOP 6.2.: Erhaltungssatzung ausweiten! Aufnahme der Türken-, Amalien-, Adalbert- und Kurfürstenstraße in das Erhaltungssatzungsgebiet
+- TOP 6.3.: Markierung Radwege in der Görres- und Augustenstraße
+- TOP 6.4.: Antwortschreiben des Referates für Stadtplanung und Bauordnung auf ein Bürgeranlie- gen für mehr Platz für einen sicheren Rad- und Fußverkehr (s. TOP A 5.2.9/05 2020)
+- TOP 6.5.: Verkehrszeichen "Rechts abbiegen für Radfahrer frei" auf der Schleißheimer Straße Kreuzung Theresienstraße
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag Grüne vom 06.06.2020 Wie ist der Stand der Planungen den „Neureutherplatz“ (Grünfläche zwischen Barer Straße, Neureutherstraße und Nordendstrae) endlich für die Bürger*innen anzulegen umzugestalten?
+- TOP 1.2.: Antrag Grüne vom 08.06.2020 Blaue Infrastruktur (Schwammstadt) für die Maxvorstadt
+- TOP 2.1.1.: LBK Listen der Bauvorhaben: 21., 22., 23. KW
+- TOP 2.1.2.: WEB Listen der LBK: 21., 22. KW
+- TOP 2.1.3.: Karolinenplatz 4 Hochschule für Musik und Theater München, Nutzungsänderung Gebäude A u. E sowie Sicherungs- und Anpassungsarbeiten Gebäude B
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 05.06.2020 Parken in der zweiten Reihe in der Maxvorstadt besser ahnden
+- TOP 1.2.: entfällt, s. TOP E 1.2
+- TOP 1.3.: Antrag SPD vom 02.06.2020 Radfahrstreifen auf der Arnulfstraße
+- TOP 1.4.: Antrag SPD vom 02.06.2020 Radfahrer auch von rechts in der Blutenburgstraße
+- TOP 1.5.: Antrag Grüne vom 08.06.2020 Umwandlung von Straßen in verkehrsberuhigte Zonen für die Zeit der Corona Pandemie
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Austausch Lichtsignalanlage Arnulfstraße/Hackerbrücke
+- TOP 2.2.1.: Schellingstraße 115, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.4.1.: Jugendgeschichtswerkstatt „sommer.dok“ am 14. und 15.07.2020, Königsplatz
+- TOP 2.4.2.: Streetlife Festival 12./13.09.2020
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Einrichtung von allgemeinen Behindertenparkplätzen vor der Augenklinik Nymphenburger Straße 43 b) Kardinal-Döpfner-Straße 8, Umwandlung von Kfz-Stellplätzen zu Fahrradabstellplätzen c) Straßenbaumaßnahme Winzerer-/Görresstraße bis Juli 2020 Änderung/Ergänzung der verkehrsrechtlichen Anordnung vom 20.09.2019 d) SWM Projekt Gleisserneuerung Dachauer Straße mit Einrichtung Trambahnhaltestelle Straße
+- TOP 3.2.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Tengstraße 6 b) Augustenstraße 21 links c) Heßstraße 37 d) Hiltenspergerstraße 15 e) Georgenstraße 105 f) Neureutherstraße 21 g) Isabellastraße 4 h) Dachauer Straße 25 i) Lenbachplatz 1 j) Seidlstraße 2 a k) Lenbachplatz 2 a l) Georgenstraße 37 m) Barer Straße 68 n) Neureutherstraße 8 o) Ludwigstraße 24 p)Amalienstraße 87 q) Kurfürstenstraße 11 r) Adalbertstraße 32
+- TOP 3.3.: Baumaßnahmen der Stadtwerke a) Erdgasprojekt Arcisstraße b) Stromprojekt Oskar-von-Miller-Ring c) Brienner Straße, Strom d) Dachauer Straße/Gabelsbergerstraße, Stromprojekt
+- TOP 3.4.: Ausnahmezulassung gem. § 7 Abs. 2 32. BImschV, Mülleinsammlung Partie 14-017
+- TOP 3.5.: Schreiben eines Bürgers vom 27.05.2020 an Herrn Oberbürgermeister Dieter Reiter wegen „unerträglicher Zustände am Josephsplatz“
+- TOP 3.6.: Arbeiten im Straßenraum Denisstraße/Marsstraße, Fernwärme/-kälte
+- TOP 3.7.: Erinnerungszeichen für Elisabeth Heims und Alexander Dunkelsbühler am 24.07.2020, Katharina-von-Bora-Straße 10, Veranstaltung auf öffentlichem Verkehrsgrund Eilentscheidung der Vorsitzenden vom 25.06.2020, Zustimmung
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD Den „Sommer in der Stadt“ sozial und wirtschaftlich unterstützen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein Schwindschule e.V. Lernförderung und Hausaufgabenbetreuung vom 14.09.2020 - 29.07.2021 6.660,00 Euro, Az.: 0262.0-3-0292
+- TOP 2.2.: Medizinkonzept für die München Klinik Schwabing, Medizinkonzept
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 07.08.2020 Förderung von kleinen Konzerten im Viertel
+- TOP 1.2.: Antrag Freie Wähler Unterstützung von Kleinkünstlern und Kleingastronomen während Corona
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget MIR e.V. Veranstaltung „Wer war Lenin?“ am 06.09.2020 1.000,00 €, AZ: 0262.0-03-0300
+- TOP 2.2.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur A.PPLAUS Kinder- und Jugendkultur-Area vom 10. - 13.09.2020 3.188,00€; Az. 0262.0-3-0304
+- TOP 2.3.: (E) Stadtbezirksbudget Hidalgo Community e.V. Street Art Song am 12.09.2020 bzw. 08.05.2021 1.000,00 Euro, Az.: 0262.0-3-0305
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Kunst im öffentlichen Raum: Realisation de Kunstprojekts „Excerpts from the Ingot Museum“ von Dan Peterman und Realisation eines Kunstprojekts im öffentlichen Raum des Kunstpavillon e.V. Sitzungsvorlage Nr. 20-26 / V 00220
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Stadtbezirksbudget: Erhöhung des Anteils für eigene Veranstaltungen
+- TOP F.3.: Antrag CSU: Beisitzer der CSU im Vorstand des BA 3
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
