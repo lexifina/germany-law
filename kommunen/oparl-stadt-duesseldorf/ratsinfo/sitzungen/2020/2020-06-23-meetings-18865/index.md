@@ -1,0 +1,58 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-23T16:00:00+02:00
+- Ende: 2020-06-23T17:55:00+02:00
+- Ort: Geänderter Sitzungsort! Werner-von-Siemens-Realschule, Rethelstraße 13, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18865
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18865
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket BV2 23.06.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382044.pdf
+- Ergebnisprotokoll: Sitzungspaket BV2 23.06.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382044.pdf
+- Wortprotokoll: Sitzungspaket BV2 23.06.2020 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382044.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/04/2020 vom 26.05.2020 - mehrheitlich beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Stadtbaumkonzept für Düsseldorf - 2. Pflanzsaison - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2020 - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 9: Zuwendungsantrag für die (Wieder)-Eröffnung der Kleiderkammer Flurstraße - Antrag der Fraktionen von Bündnis90/Die Grünen und SPD - einstimmig beschlossen
+- TOP 10: Bezirksbezogene Haushaltsmittel - Flingern Lichtspiele 2020 - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 11: Protected Bike-Lane zwischen Beethoven- und Neanderstraße - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Vorstellung der städtischen Strategie in Bezug zur Schaffung von Wohn- und Betreuungsinfrastruktur für betreungsbedürftige Menschen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 15: Fußwegeverbindung zwischen Eduard-Schloemann-Straße und Sohnstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 16: Bordsteinanhebung vor der Cranachstraße 2 verhindern - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 17: 2. Bauabschnitt Schillerplatz - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 18: Pragmatische Parkplatzgestaltung auf der Cranachstraße nahe des Kreuzungsbereiches zur Grafenberger Allee - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 19: Telefonzelle Rethelstraße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP -: Anfragen
+- TOP 20: Berechnung von Fahrradstellplätzen im Rahmen der Verkehrswende - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 21: Zustand der S-Bahnhöfe im Stadtbezirk 2 - Anfrage der CDU-Fraktion
+- TOP 22: Schutz der Fußgehenden auf Verkehrsinseln - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 23: Spielzeugcontainer Spielplatz Engerstrasse - Anfrage der SPD-Fraktion - beantwortet
+- TOP 24: Gänsemanagement im Zoopark - Anfrage der SPD-Fraktion
+- TOP 25: Schaden durch den Schwerlastverkehr - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Feuerwehreinsätze auf dem verwaisten Gelände der Telekom an der Sohnstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 29: Allwetterbad - Situation nach der Eröffnung - beantwortet
+- TOP 30: Kreuzung Dorotheen-/Birken-/Flurstraße - Anfrage der CDU-Fraktion
+- TOP 31: Auslastung von Quartiersgaragen im Stadtbezirk 2 - Anfrage der SPD-Fraktion
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 34: Geschwindigkeitsanzeigetafel auf der Gerresheimer Straße in Höhe Wetterstraße - Beschluss der Bezirksvertretung 2, Vorlage - zur Kenntnis genommen
+- TOP 35: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 36: Leerstand Achenbachstraße 78 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 37: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2, Förderung Dritter, Haushalt 2020 - einstimmig beschlossen
