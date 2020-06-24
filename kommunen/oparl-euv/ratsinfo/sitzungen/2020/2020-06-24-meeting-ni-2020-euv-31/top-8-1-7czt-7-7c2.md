@@ -1,0 +1,6 @@
+# TOP 8: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Verwaltungsrates EUV (2020-06-24)
+- Körperschaft: EUV
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2020-EUV-31%7Czt_7%7C2
