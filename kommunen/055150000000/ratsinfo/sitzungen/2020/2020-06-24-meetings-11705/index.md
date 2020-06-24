@@ -1,0 +1,99 @@
+# 49. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-06-24T17:24:00+02:00
+- Ende: 2020-06-24T01:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11705
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11705
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00465532.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Antrag Nr. A-R/0038/2018 der Fraktion Bündnis 90/Die Grünen/GAL und der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 3: Jahresabschlüsse von Gesellschaften
+- TOP 3.1: Jahresabschluss 2019 der GML Gewerbepark Münster-Loddenheide (GML) - einstimmig beschlossen
+- TOP 3.2: Jahresabschluss 2019 der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 3.3: KonvOY GmbH: Jahresabschluss 2019, Feststellung des Jahresergebnisses, Beschluss über die Verwendung des Jahresergebnisses und über die Entlastung der Geschäftsführung und des Aufsichtsrates - einstimmig beschlossen
+- TOP 3.4: Jahresabschluss 2019 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 4: Bestellung des Abschlussprüfers für das Geschäftsjahr 2020 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 5: Teilnahme der Stadt Münster an dem Klima-Bündnis Wettbewerb "STADTRADELN" - mehrheitlich beschlossen
+- TOP 6: Münsterstraße in Höhe Lerschmehr – geplante Anforderungslichtsignalanlage - einstimmig beschlossen
+- TOP 7: Kita Oxford - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Neufassung der Rechnungsprüfungsordnung der Stadt Münster - einstimmig beschlossen
+- TOP 9: Vorlagen zu den finanziellen Folgen der Corona-Pandemie
+- TOP 9.1: Haushalt der Stadt Münster: Corona-bedingte Entwicklungen 2020 und Eckdaten zum Entwurf - zur Kenntnis genommen
+- TOP 9.2: Unterstützung der Gastronomie und des Schaustellergewerbes - ohne Beschlussfassung geschoben
+- TOP 9.3: Änderung der Vergnügungssteuersatzung mit Wirkung zum 01.04.2020 - einstimmig beschlossen
+- TOP 9.4: Festsetzung der Elternbeiträge für die Betreuung in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen aufgrund der Corona-Krise - ohne Beschlussfassung geschoben
+- TOP 9.5: Kulturförderung in Corona-Zeiten - ohne Beschlussfassung geschoben
+- TOP 10: Digitale Stadt Münster - Digitalisierungsstrategie der Stadt Münster, aktueller Sachstand - zur Kenntnis genommen
+- TOP 11: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2019 - ohne Beschlussfassung geschoben
+- TOP 12: „Gemeinsam gegen Gewalt“ - Anträge an den Rat Nr. A-R/0074/2019 der AfD-Ratsgruppe und A-R/0079/2019 der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen/GAL - ohne Beschlussfassung geschoben
+- TOP 13: Anmietung von Räumlichkeiten im Gebäude Dahlweg 100, 48153 Münster - einstimmig beschlossen
+- TOP 14: Änderung der Wahlordnung für die Wahl der Mitglieder des Integrationsrates - einstimmig beschlossen
+- TOP 15: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Albachten der Freiwilligen Feuerwehr Münster - ohne Beschlussfassung geschoben
+- TOP 16: Ratsantrag der SPD-Fraktion Nr.: A-R/0068/2017 "Ehrenamtliches Engagement in Münster stärken - leichteren Zugang zum Messe und Congress Centrum Halle Münsterland ermöglichen" - einstimmig beschlossen
+- TOP 17: Betrauungsakt der Stadt Münster für die KonvOY GmbH - einstimmig beschlossen
+- TOP 18: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur 26. Änderung des Regionalplans Münsterland - einstimmig beschlossen
+- TOP 19: Umbau des ehemaligen Hill-Speichers (Am Mittelhafen 42) als Gemeinbedarfseinrichtung zu einem sozio-kulturellen Zentrum - ohne Beschlussfassung geschoben
+- TOP 20: Fortschreibung des Baulandprogramms 2020 - 2030 - ohne Beschlussfassung geschoben
+- TOP 21: Entwicklung eines Modellquartiers für neues urbanes Wohnen, Arbeiten und Technologie westlich der Steinfurter Straße - von der Tagesordnung abgesetzt
+- TOP 22: Integriertes Stadtteilentwicklungskonzept Münster-Coerde - ohne Beschlussfassung geschoben
+- TOP 22.1: Integriertes Stadtteilentwicklungskonzept Münster-Coerde
+- TOP 23: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - von der Tagesordnung abgesetzt
+- TOP 24: Entwicklung neuer urbaner Stadtquartiere südlich des Dortmund-Ems-Kanals, beiderseits des Albersloher Weges - von der Tagesordnung abgesetzt
+- TOP 25: Landeswettbewerb "Mobil.NRW - Modellvorhaben innovativer ÖPNV im ländlicher Raum" - einstimmig beschlossen
+- TOP 26: Resolution des Deutschen Städtetages für Demokratie, Toleranz und Weltoffenheit - einstimmig beschlossen
+- TOP 26.1: Resolution des Deutschen Städtetages für Demokratie, Toleranz und Weltoffenheit
+- TOP 27: Entscheidungen über Schulerweiterungen
+- TOP 27.1: Erweiterung des Wilhelm-Hittorf-Gymnasiums, Prinz-Eugen-Straße 27, 48151 Münster - einstimmig beschlossen
+- TOP 27.2: Erweiterung der Realschule im Kreuzviertel, Finkenstraße 76, 48147 Münster - einstimmig beschlossen
+- TOP 27.3: Erweiterung der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster - einstimmig beschlossen
+- TOP 27.4: Erweiterung der Grundschule Wolbeck-Nord, Grenkuhlenweg 21, 48167 Münster - einstimmig beschlossen
+- TOP 27.4.1: Erweiterung der Grundschule Wolbeck-Nord, Grenkuhlenweg 21, 48167 Münster
+- TOP 27.5: Erweiterung des Schulzentrums Wolbeck - einstimmig beschlossen
+- TOP 28: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden - ohne Beschlussfassung geschoben
+- TOP 28.1: Statusbericht zum Schulbauprogramm auf der Grundlage der bisherigen Beschlüsse zu Handlungsbedarfen zur Erweiterung von Schulgebäuden
+- TOP 29: Errichtung Bildungsgang: Ausbildungsvorbereitung Fachbereich Gestaltung am Adolph-Kolping-Berufskolleg zum Schuljahr 2020/2021 - einstimmig beschlossen
+- TOP 30: Grundsatzbeschlüsse zur weiteren Digitalisierung der Schulen und Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen - ohne Beschlussfassung geschoben
+- TOP 31: Trägervergaben für Kindertageseinrichtungen
+- TOP 31.1: Trägervergabe für die Kindertageseinrichtung Alte Post am Sankt-Josefs-Kirchplatz im Stadtteil Schützenhof, Bezirk Mitte - ohne Beschlussfassung geschoben
+- TOP 31.2: Trägervergabe für die Kindertageseinrichtung Dahlweg / Roddestraße im Stadtteil Schützenhof, Bezirk Mitte - ohne Beschlussfassung geschoben
+- TOP 31.3: Trägervergabe für die Kindertageseinrichtung an der Robert-Bosch-Straße im Stadtteil Berg Fidel, Bezirk Hiltrup - ohne Beschlussfassung geschoben
+- TOP 31.4: Trägervergabe für die Kindertageseinrichtung auf dem Gelände der ehemaligen York Kaserne im Stadtteil Gremmendorf, Bezirk Südost - ohne Beschlussfassung geschoben
+- TOP 31.5: Trägervergabe für die Kindertageseinrichtung am Ermlandweg im Stadtteil Kinderhaus, Bezirk Nord - ohne Beschlussfassung geschoben
+- TOP 31.6: Übergabe der Trägerschaft für die Kindertageseinrichtung Holtmannshof im Stadtteil Coerde, Bezirk Nord - ohne Beschlussfassung geschoben
+- TOP 32: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2018 - zur Kenntnis genommen
+- TOP 33: Fahrdienst für Menschen mit Behinderung in Münster - ohne Beschlussfassung geschoben
+- TOP 34: Entwicklung Fachbereich Bildende Kunst - einstimmig beschlossen
+- TOP 35: Wiederaufstellung des Brunnens „Sketch for a Fountain“ von Nicole Eisenman an der Kreuzschanze - ohne Beschlussfassung geschoben
+- TOP 36: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2018/2019 - einstimmig beschlossen
+- TOP 37: Umsetzung des Konzepts zum zukünftigen Umgang mit Kriegerdenkmälern im öffentlichen Raum der Promenade in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 38: Waldschule Kinderhaus - einstimmig beschlossen
+- TOP 38.1: Waldschule Kinderhaus
+- TOP 39: Mauritzschule Münster, bauliche Erweiterung zur 3-Zügigkeit - ohne Beschlussfassung geschoben
+- TOP 40: Clemensschule Hiltrup/Paul-Gerhardt-Schule Hiltrup - ohne Beschlussfassung geschoben
+- TOP 41: Überarbeitung der Gebäudeleitlinien: Nachhaltigkeit und Klimaneutralität 2030 für - von der Tagesordnung abgesetzt
+- TOP 42: Umbau und Erweiterung des ehemaligen Postgebäudes am Sankt Josefs-Kirchplatz zu einer Zwei-Gruppen-Kindertagesstätte - ohne Beschlussfassung geschoben
+- TOP 43: Kreuzschule Münster, bauliche Erweiterung zur Dreizügigkeit - ohne Beschlussfassung geschoben
+- TOP 44: Neubau Feuer- und Rettungswache 3 der Berufsfeuerwehr in Münster Hiltrup - von der Tagesordnung abgesetzt
+- TOP 45: Erich-Klausener-Schule, Herrichtung der Außenanlagen im Rahmen der baulichen Erweiterung zur 4-Zügigkeit - ohne Beschlussfassung geschoben
+- TOP 46: Neugestaltung Bremer Platz, Hinweise aus dem Werkstattverfahren, Quartiersmanagement und Voraussetzungen für die weitere Planung - ohne Beschlussfassung geschoben
+- TOP 47: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - von der Tagesordnung abgesetzt
+- TOP 48: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2019 - einstimmig beschlossen
+- TOP 49: Bauleitplanung
+- TOP 49.1: Stadtbezirk Mitte
+- TOP 49.1.1: Bebauungsplan Nr. 614 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 49.2: Stadtbezirk West
+- TOP 49.2.1: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck - Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) - einstimmig beschlossen
+- TOP 49.3: Stadtbezirk Südost
+- TOP 49.3.1: 98. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 606 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 49.3.2: 100. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 608 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 50: Verschiedenes
