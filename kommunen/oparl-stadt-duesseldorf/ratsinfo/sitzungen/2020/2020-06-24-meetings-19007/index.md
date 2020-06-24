@@ -1,0 +1,64 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-24T17:00:00+02:00
+- Ende: 2020-06-24T18:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19007
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19007
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2020-06-24 Ö-Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382116.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2020-06-24 Ö-Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382116.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2020-06-24 Ö-Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382116.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Starkregenprävention und hydraulische Besonderheiten im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath - Empfehlung abweichend beschlossen
+- TOP 5: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - einstimmig abgelehnt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspiel in Mörsenbroich - vertagt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 19: Interfraktioneller Antrag: Ausbau Grütersaaper Weg und weiteres Vorgehen - mehrheitlich beschlossen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 27: Zuschussvergabe 2020 Antrag der Karnevalsgesellschaft Gemeinsam Jeck e.V. - Unterstützung bei der Finanzierung der Vereinskleidung - einstimmig beschlossen
+- TOP 28: Stadtbaumkonzept Maßnahmen 2020/2021 - einstimmig beschlossen
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung - Bereitstellung von Mitteln für eine mobile Mikrofonanlage - einstimmig beschlossen
+- TOP 30: An der Piwipp - Rückbau Verkehrsinsel, Baumfällungen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 31: Instandsetzung der Fassade der Grundschule Rather Kreuzweg - Vorlage BV6/016/2019 - zur Kenntnis genommen
+- TOP 32: Verkehrsänderung: Schulwegsicherung in Unterrath - Vorlage BV6/020/2019 - zur Kenntnis genommen
+- TOP 33: Suche nach Finanzierungs-/Förderprogrammen für die Anbindung der Grünanlage Sankt-Franziskus-Straße sowie des Sozialraumes 623 an den Aaper Wald - Vorlage BV6/081/2019 - zur Kenntnis genommen
+- TOP 34: Ampel auf der Westfalenstraße - Vorlage BV6/017/2019 - zur Kenntnis genommen
+- TOP 35: Reduzierung der Geschwindigkeit der Busse bei der Einfahrt in die Haltestelle Unterrath S, FR Freiligrathplatz - Vorlage BV6/011/2020 - zur Kenntnis genommen
+- TOP 36: Neugestaltung der Öffentlichen Grünflächen am Standort A44, in Höhe Zeisigweg bis Kartäuserpark in Modulbausteinen für den Stadtbezirk 6 - Vorlage BV6/015/2019
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Betreuungs- und Beratungsangebot auf dem Gelände der Ferdinand-Schüßler-Tagesschule - Vorlage 176/216/2018 - zur Kenntnis genommen
+- TOP 40: Zwischennutzung Grundstück an der Theodorstraße als Parkplatz - Vorlage BV6/018/2020 - zur Kenntnis genommen
+- TOP 41: Zuschussvergabe 2020 Antrag des Bürger- und Schützenvereins Rath "Beschaffung und Aufstellung eines Containers" - vertagt
