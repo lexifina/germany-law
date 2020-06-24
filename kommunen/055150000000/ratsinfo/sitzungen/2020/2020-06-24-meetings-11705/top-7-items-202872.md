@@ -1,0 +1,8 @@
+# TOP 7: Kita Oxford
+
+- Sitzung: 49. Sitzung (2020-06-24)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/202872
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/72533
