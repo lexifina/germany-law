@@ -1,0 +1,56 @@
+# Rat (70. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-06-24T18:00:00+02:00
+- Ende: 2020-06-24T23:03:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaV39Yk0igSuogzGS81HHxY
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4457
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYBE5kR7t1tTGl7tt-QX5jbCqNRVXRwNhx5DXu20QOHx/Bekanntmachung_Rat_24.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVGeqoHdNu-7zBKFFC3yamQAsBE7O8K-KqfyX75RTHDJ/Oeffentliche_Niederschrift_Rat_24.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 13.05.2020
+- TOP 4.: Stand der Ausgrabungsarbeiten auf dem ehemaligen Hertieareal - Ohne Abstimmung
+- TOP 5.: Grundsatzbeschluss zur Planung eines historischen Rathauses an der Bahnhofstraße - Ohne Abstimmung
+- TOP 5.1: Grundsatzbeschluss zur Planung eines historischen Rathauses an der Bahnhofstraße Antrag der Fraktion Pro! Bürgerschaft/Piraten vom 24.05.2020 „Aufstellung einer Gesamtkostenbilanz“ Kündigung des Mietvertrages mit dem Heimatverein Gronau betreffend das Driland-Museum und sonstige vom Heimatverein genutzte Räumlichkeiten - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Grundsatzbeschluss zur Planung eines historischen Rathauses an der Bahnhofstraße - Ohne Abstimmung
+- TOP 6.: Planung eines historischen Rathauses an der Bahnhofstraße Hier: Durchführung eines Verhandlungsverfahrens für die Vergabe der Planungsleistungen - 34 Jastimmen, 5 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Planungsbeschluss zur Sanierung, Umbau und Erweiterung der Alten Synagoge zu einem Gedenk- und Lernort - Einstimmig, 0 Enthaltungen
+- TOP 8.: Sachstandbericht der Verwaltung i.S. Corona-Pandemie (Stand 17.06.2020) - Ohne Abstimmung
+- TOP 8.1: Sachstandbericht der Verwaltung i.S. Corona-Pandemie – Ergänzung - Ohne Abstimmung
+- TOP 9.: Antrag GAL: Corona-Auswirkungen - Wertschätzung und praktische Hilfen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Verzicht auf die Erhebung von Elternbeiträgen für die Kindertagesbetreuung im Zuge der Coronavirus-Pandemie - Einstimmig, 0 Enthaltungen
+- TOP 11.: Verzicht auf die Erhebung von Elternbeiträgen für die offenen Ganztagsschulen sowie außerunterrichtliche Betreuungsangebote der Primarstufe im Zuge der Coronavirus-Pandemie - Einstimmig, 0 Enthaltungen
+- TOP 12.: Anpassung der Beitragssatzung für die OGS / ÜMI an Gronauer Grundschulen - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bereitstellung von Finanzmitteln für die Einrichtung von vier zusätzlichen Stellen im geringfügigen Beschäftigungsverhältnis für die Fa. Chance gGmbH - Einstimmig, 1 Enthaltungen
+- TOP 14.: Verlängerung einer befristeten Stelle im Bereich UmA - Einstimmig, 0 Enthaltungen
+- TOP 15.: jährliche Spende an Schulen und Kindergärten - Einstimmig, 0 Enthaltungen
+- TOP 16.: Abstimmungsvereinbarung nach § 22 des Verpackungsgesetzes für das Vertragsgebiet Kreis Borken - Einstimmig, 2 Enthaltungen
+- TOP 17.: Vorprüfung der Gültigkeit der Wahl des Beirates für Seniorinnen und Senioren der Stadt Gronau (Westf.) am 07.05.2020 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Entwurf des Jahresabschlusses 2019 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Budgetbericht für das I. Quartal 2020 - Ohne Abstimmung
+- TOP 20.: Abbildung von Zielen und Kennzahlen zur Zielerreichung - Ohne Abstimmung
+- TOP 20.1: Abbildung von Zielen und Kennzahlen zur Zielerreichung - Einstimmig, 0 Enthaltungen
+- TOP 21.: Besetzung von Ausschüssen und sonstigen Gremien; Aufhebung eines Bestellungsbeschlusses gem. § 58 Abs. 1 S. 7 GO NRW und Besetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Ausschreibung einer städtischen Grundstücksfläche im Bereich Zollstraße/Mühlenmathe (Vorlage 287/2020)
+- TOP 22.1: Terminplanung für das 3. und 4. Quartal 2020 sowie für das Jahr 2021 - Ohne Abstimmung
+- TOP 23.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 24.1: Spielflächen der Kita Janosch
+- TOP 25.: Anfragen
+- TOP 25.1: E-Mail-Verteiler (Anfrage von RM Wagner)
+- TOP 25.2: Strafanzeigen gegen Stadtwerke (Anfrage von RM Gabbe)
+- TOP 25.3: Spielplatz Spechtholtshook (Anfrage von RM Greitenevert)
+- TOP 25.4: Daten des Landesvermessungsamtes i.S. Kavernenfeld (Anfrage von RM Krefter)
+- TOP 25.5: Parkplatz "Berliner Platz" (Anfrage von RM Savci)
+- TOP 25.6: Broschüre über Gronau (Anfrage von RM Buchholz)
+- TOP 25.7: Benennung von Straßen und Plätzen (Anfrage von RM Buchholz)
+- TOP 25.8: Schweringstraße (Anfrage von RM Drees)
