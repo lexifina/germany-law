@@ -1,0 +1,53 @@
+# Rat (44. Sitzung)
+
+- Körperschaft: Gemeinde Steinhagen
+- Beginn: 2020-06-24T17:30:00+02:00
+- Ende: 2020-06-24T18:30:00+02:00
+- Ort: Schulzentrum Steinhagen, Laukshof 10, 33803 Steinhagen, Aula
+- Status: 
+- Gremium: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcAaqfGzksajXwSedi_ejjM
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/3342
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRDh-VG3_aAJhSX5dwgHKz55rfQ1BmnjPTm14MzvQX9f/Einladung_Rat_24.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxjdJkqo3DnPxEjpzBEFe2dfrK9EtNUCMKBiAZJdUIR/Oeffentliche_Niederschrift_Rat_24.06.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner nach § 18 der Geschäftsordnung
+- TOP 2.: Bericht des Bürgermeisters gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 3.: Umbesetzung von Ausschüssen - Abstimmungsergebnis:Einstimmig(ohne Mitwirkung des Bürgermeisters)
+- TOP 4.: Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Gemeindeordnung NRW in Verbindung mit § 8 der Hauptsatzung der Gemeinde Steinhagen Schaffung weiterer Plätze in Tageseinrichtungen für Kinder, Errichtung einer 12. Tageseinrichtung für Kinder - Trägerauswahl - - Abstimmungsergebnis:Einstimmig
+- TOP 5.: Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Gemeindeordnung NRW in Verbindung mit § 8 der Hauptsatzung der Gemeinde Steinhagen Auswirkungen der Schließung der Grundschulen Amshausen, Brockhagen, Laukshof und Steinhagen aufgrund der Weisungen des Ministeriums für Arbeit, Gesundheit und Soziales vom 13.03.2020 hier: Verzicht auf die Erhebung der Beiträge für die Offene Ganztagsschule einschl. des Essensgeldes für den Monat April 2020 - Abstimmungsergebnis:Einstimmig
+- TOP 6.: Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Gemeindeordnung NRW in Verbindung mit § 8 der Hauptsatzung der Gemeinde Steinhagen Beschluss zur landesplanerischen Anfrage nach § 34 Landesplanungsgesetz (LPlG) für die Fläche „Westlich Bahnhofstraße“ zwischen den Grundstücken Bahnhofstraße 87 und 99 - Abstimmungsergebnis:Einstimmig
+- TOP 7.: Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Gemeindeordnung NRW in Verbindung mit § 8 der Hauptsatzung der Gemeinde Steinhagen Erhöhung der Klärschlammmenge bei der Klärschlammkooperation OWL - Abstimmungsergebnis:Einstimmig
+- TOP 8.: Erlass der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen in der Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmig
+- TOP 9.: Integriertes Radverkehrskonzept für die Regiopolregion Bielefeld - Abstimmungsergebnis:Einstimmig
+- TOP 10.: Benutzungs- und Gebührensatzung für Unterkünfte für Flüchtlinge der Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmigbei 4 Stimmenthaltungen
+- TOP 11.: Erneute Beteiligung an der Ausschreibung des Förderprogramms des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen für "Dritte Orte" als Häuser für Kultur und Begegnung im ländlichen Raum - Abstimmungsergebnis:Einstimmig
+- TOP 12.: Auswirkungen der Schließung der Grundschulen Amshausen, Brockhagen, Laukshof und Steinhagen aufgrund der Weisungen des Ministeriums für Arbeit, Gesundheit und Soziales als Folge der Coronavirus-Pandemie hier: Verzicht auf die Erhebung von Beiträgen für die Offene Ganztagsschule einschl. des Essensgeldes für die Monate Juni und Juli 2020 - Abstimmungsergebnis:Einstimmig
+- TOP 13.: Erlass einer Stellplatzsatzung für die Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmig
+- TOP 14.: 3. Änderung des Bebauungsplanes Nr. 25 – OT Steinhagen - („Gewerbegebiet Düfelsiek“) hier: Beschlussfassung über die Abwägung der im Rahmen der frühzeitigen Öffentlichkeits- und Behördenbeteiligung nach § 3 (1) und § 4 (1) i.V.m. § 2 (2) BauGB eingegangen Anregungen und Stellungnahmen sowie zur Durchführung der öffentlichen Auslegung - Abstimmungsergebnis:19 Ja-Stimmen  2 Nein-Stimmen10 StimmenthaltungenDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 15.: 26. Änderung des Flächennutzungsplanes der Gemeinde Steinhagen im Bereich des Gewerbegebietes Düfelsiek hier: Beschlussfassung über die Abwägung der im Rahmen der frühzeitigen Öffentlichkeits- und Behördenbeteiligung nach § 3 (1) und § 4 (1) i.V.m. § 2 (2) BauGB eingegangen Anregungen und Stellungnahmen sowie zur Durchführung der öffentlichen Auslegung - Abstimmungsergebnis:19 Ja-Stimmen  2 Nein-Stimmen10 StimmenthaltungenDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 16.: Aufstellung des Bebauungsplanes Nr. 34 - OT Steinhagen („Westlich Bahnhofstraße“) hier: Vorstellung des Plankonzepts und empfehlende Beschlussfassung über die frühzeitige Öffentlichkeits- und Behördenbeteiligung nach § 3 (1) BauGB und § 4 (1) BauGB - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 17.: 28. Änderung des Flächennutzungsplanes der Gemeinde Steinhagen für den Bereich „Westlich Bahnhofstraße“ hier: Vorstellung des Plankonzepts und empfehlende Beschlussfassung über die frühzeitige Öffentlichkeits- und Behördenbeteiligung nach § 3 (1) BauGB und § 4 (1) BauGB - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 18.: Aufstellung des Bebauungsplanes Nr. 33 - Ortsteil Steinhagen - („Hilterweg 100“) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 19.: 1. Änderung des Bebauungsplanes Nr. 10 - Ortsteil Brockhagen - („Betriebsbereich Hörmann KG Antriebstechnik“) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 20.: 2. Änderung des Bebauungsplanes Nr. 11 - Ortsteil Brockhagen - („Erweiterung des Gewerbegebietes Brockhagen-Ost“ / Michaelisstraße) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 21.: 6. Änderung des Bebauungsplanes Nr. 14.1 - Ortsteil Steinhagen - („Ortskern Steinhagen – Überplanung in den Teilbereichen Straße Am Markt und nördlicher Kirchring“) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 22.: 5. Änderung des Bebauungsplanes Nr. 6 - Ortsteil Amshausen - („Bereich Swinemünder Straße“) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 23.: 2. Änderung des Bebauungsplanes Nr. 10.1 - Ortsteil Steinhagen - („Bereich Pfirsichstraße“) - Gesamtabwägung und Satzungsbeschluss - Abstimmungsergebnis:zu a) und b)EinstimmigDen Ratsmitgliedern lagen alle abstimmungsrelevanten Unterlagen vor.
+- TOP 24.: Beschlussfassung über den Jahresabschluss für das Wirtschaftsjahr 2019 des Abwasserbetriebs der Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmig 
+- TOP 25.: Zuleitung des Entwurfs des Jahresabschlusses der Gemeinde Steinhagen zum 31.12.2019 - Abstimmungsergebnis:Einstimmig
+- TOP 26.: Anfragen und Mitteilungen
+- TOP B.: Nichtöffentliche Sitzung
+- TOP 27.: Bericht des Bürgermeisters gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 28.: Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Gemeindeordnung NRW in Verbindung mit § 8 der Hauptsatzung der Gemeinde Steinhagen - Grundstücksangelegenheit - Abstimmungsergebnis:Einstimmig
+- TOP 29.: Grundstücksangelegenheit - Abstimmungsergebnis:Einstimmig
+- TOP 30.: Grundstücksangelegenheit - Abstimmungsergebnis:Einstimmig
+- TOP 31.: Grundstücksangelegenheit - Abstimmungsergebnis:Einstimmig
+- TOP 32.: Grundstücksangelegenheit
+- TOP 33.: Grundstücksangelegenheit
+- TOP 34.: Grundstücksangelegenheit
+- TOP 35.: Anfragen und Mitteilungen
