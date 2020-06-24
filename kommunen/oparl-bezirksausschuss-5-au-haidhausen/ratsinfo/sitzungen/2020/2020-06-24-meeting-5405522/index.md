@@ -1,0 +1,163 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-06-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405522
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405522
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP II.3.: "Sommer in der Stadt" - Beteiligung von Kulturschaffenden oder kulturellen Organisationen vor Ort
+- TOP II.4.: Bücherschrank-Eröffnung: Begleitendes Kulturprogramm
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 1.1.: Bildung eines Ferienausschusses mit 11 Mitgliedern (Grüne 5 Sitze, SPD 2, CSU 2, FDP/FW 1, DIE LINKE 1) a) Benennung der Mitglieder und ihrer Stellvertreter b) Wahl der / des Vorsitzenden c) ggf. Benennung der / des stellvertretenden Vorsitzenden Vertagung aus der konstituierenden Sitzung
+- TOP 2.1.: Folgende Tagesordnungspunkte werden ergänzend mit aufgenommen: - TOP A 4.1 Freischankflächen - Parkplätze für Anwohner - TOP A 6.1.4 Budgetantrag democraticArts - zu TOP 4.1 UA Soziales: Schreiben Polizeiinspektion 21 - zu TOP 4.2 UA Soziales: Anhörung Entfernung der Parkbänke - TOP 2.7 UA Mobilität: Kurzfristige Maßnahmen für Fußgänger*innen in Zeiten Corona
+- TOP 4.2.1.: Freischankflächen - Parkplätze für Anwohner
+- TOP 5.1.: Baumgräben: Konzept für Patenschaften erarbeiten und umsetzen
+- TOP 5.2.: Poller am Pariser Platz vor Stadtsparkasse installieren
+- TOP 5.3.: Ausstellungsmöglichkeit in der "Lothringer 13 Halle" für Künstlerinnen und Künstler aus dem Stadtgebiet Au-Haidhausen
+- TOP 5.4.: Gebsattelbrücke als "Nachbarschaftsstraße": Platz zum Spielen und Verweilen - siehe auch UA Mobilität -
+- TOP 5.5.: Bushaltestelle Ostbahnhof (Post) barrierefrei ausbauen - siehe auch UA Mobilität -
+- TOP 5.6.: MVG-Leihrad-Stationen am Rosenheimer Platz, Orleansplatz und Ostbahnhof
+- TOP 5.7.: Bahnparallele Wegeverbindung Welfenstraße
+- TOP 5.8.: Ausgleich fordern als Gegenleistung für mehr Baurecht und hochwertigere Wohnungen aufgrund größerer genehmigter Fläche in höheren Geschossen
+- TOP 5.9.: Inwiefern ist bei nachträglich zusätzlich erteiltem Baurecht der Bezirksausschuss umgangen worden ?
+- TOP 5.10.: Inwiefern ist es zulässig, ausschließlich eigenen Mitarbeitern die im "München-Modell Miete" geschuldeten Wohnungen zukommen zu lassen ? (Anfrage)
+- TOP 5.11.: Keine "Blue Lane" im Rahmen der Internationalen Automobilausstellung - siehe auch UA Mobilität -
+- TOP 5.12.: Instandsetzung des Spielplatzes Kirchenstraße Ecke Seeriederstraße
+- TOP 5.13.: Übernahme der Kosten für die Neuanschaffung eines Gartenspielgerätes für den Caritas Kindergarten Orleansstr. 11b durch die Stadt als Sachaufwandsträger ? - siehe auch UA Soziales -
+- TOP 5.14.: Ausweisung einer Tempo 30 Zone vor dem Caritas Kindergarten Orleansstr. 11b - siehe auch UA Mobilität -
+- TOP 5.15.: Photovoltaikanlage für das Bauprojekt Lilienstr. 15
+- TOP 5.16.: Umrüstung und Leerung der Mülleimer am Orleansplatz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-5-0288 - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Münchner Heldentheater Theaterstück "Hamletrakete" vom 26.-28.11.2020 und 03.-05.12.2020 11.700,00 € / Az. 0262.0-5-0289 - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Förderverein Weilerschule e.V. Bewegungsförderung in der Schule vom 01.09.2020 - 31.07.2020 8.225,12 € / Az. 0262.0-5-0290 - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget democraticArts Prolog zum Staatsbankett ‚Unruly Ghosts‘ vom 24.06. - 31.12.2020 7.000,00 € / Az. 0262.0-5-0239
+- TOP 8.1.1.: Errichtung von Fahrradparkplätzen in der Zeppelinstraße Höhe Hausnummer 67 / 65
+- TOP 8.1.2.: Probleme mit Müllabfuhr durch Falschparker am Preysingplatz
+- TOP 8.1.3.: Verkehrssicherheit rund um die Ernst-Reuter-Grundschule
+- TOP 8.1.4.: Roteinfärbung des Radwegs an der Rosenheimer Straße stadtauswärts
+- TOP 8.1.5.: Probleme mit Falschparkern auf Behindertenparkplätzen
+- TOP 8.3.1.: (U) Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; hier: Aufsichtsräte Hinweis: Alte SV-Nr. 14-20 / V 18200
+- TOP 8.3.2.: Stadtbezirksbudget; Erhöhung des Anteils für eigene Veranstaltungen
+- TOP 8.4.1.: Infoblatt 06/20
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €
+- TOP II.2.: (E) Stadtbezirksbudget Münchner Heldentheater Theaterstück "Hamletrakete" vom 26.-28.11.2020 und 03.-05.12.2020 11.700,00 €
+- TOP II.6.: Anfrage für ein Konzert am 12.07.2020 um 19 Uhr am Mariahilfplatz - siehe auch UA Wirtschaft -
+- TOP II.7.: Vermüllung durch Graffiti im Viertel - siehe auch UA Soziales -
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Förderverein Weilerschule e.V. Bewegungsförderung in der Schule vom 01.09.2020 - 31.07.2020 8.225,12 € Vorstellung des Projekts im UA durch den Antragsteller
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Tatsächliche und rechtliche Prüfung der Voraussetzungen und Möglichkeiten für eine Förderung der an der Regerstraße geplanten Begegnungsstätte „JoMa - Begegnung in der Au“ Empfehlung Nr. 14-20 / E 02484 .................... Einrichtung einer Begegnungsstätte in der Au BA-Antrags-Nr. 14-20 / B 07009 .................. 5. Stadtbezirk – Au-Haidhausen Hinweis: Alte SV-Nr. 14-20 / V 16164
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beschwerde wegen nächtliche Ruhestörung an der Isar zwischen Reichenbachbrücke und Wittelsbacherbrücke Mehrere Bürgeranliegen => dazu: Schreiben Polizeiinspektion
+- TOP 4.2.: Ruhestörung und Feinstaubbelastung am Kolumbusplatz - Verweisung aus der Sitzung vom 27.05.2020 - => dazu: Anhörung Baureferat: Entfernung der Sitzbänke
+- TOP 4.3.: Beschwerden Skateplatz Postwiese 3 Bürgeranliegen => dazu: Schreiben AKIM Vertagung aus der Sitzung vom 27.05.2020
+- TOP 4.4.: Erneuerung Spielplatz an der Reichenbachbrücke Vertagung aus der Sitzung vom 22.01.2020 Ortstermin soll vereinbart werden
+- TOP 4.5.: Vermüllung durch Graffiti im Viertel - siehe auch UA Kultur -
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Antrag für die Aufstellung einer Sitzgelegenheit, Einsteinstr. 111
+- TOP 2.2.: Anfrage für ein Konzert am 12.07.2020 um 19 Uhr am Mariahilfplatz - siehe auch UA Kultur -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Coronabedingte Genehmigungen von Freischankflächen -Belfortstraße 14, Gaststätte "El Perro", Parkbucht -Breisacherstraße 6, Gaststätte "Farmer & Lou" -Breisacherstraße 30, Gaststätte "L&#039;Angelo della Pizza", Parkbucht -Einsteinstraße 143, Gaststätte "Allegro", Gehweg -Johannisplatz 11, Gaststätte "z&#039;wein", Gehweg -Johannisplatz 11, Gaststätte "z&#039;wein", Parkbucht -Kelerstraße 32, Gaststätte "Fork and Jigger", Parkbucht -Kellerstraße 45, Gaststätte "Kalami", Gehweg -Kellerstraße 45, Gaststätte "Kalami", Parkbucht -Kirchenstraße 5, Gaststätte "Le Faubourg", Parkbucht -Kirchenstraße 5, Gaststätte "Le Faubourg", Gehweg -Kirchenstraße 27, Gaststätte "Taverna Paros", Gehweg -Kirchenstraße 27, Gaststätte "Taverna Paros", Parkbucht -Kirchenstraße 44, Gaststätte "Il Padrino", Parkbucht -Lothringer Straße 11, Gaststätte "Vivo", Parkbucht -Lucile-Grahn-Straße 25, Gaststätte "Pequeno", Parkbucht -Metzstraße 7, Gaststätte "metz7", Parkbucht -Metzstraße 8, Gaststätte "Noel Cafe", Parkbucht
+- TOP 3.2.: Coronabedingte Genehmigungen für Freischankflächen: -Orleansplatz 5a, Gaststätte "San Francisco Coffe Company", Gehweg -Pariser Straße 15, Gaststätte "servabo", Parkbucht -Pariser Straße 17, Gaststätte "Gino Parigi", Parkbucht -Pariser Straße 17, Gaststätte "Gino Parigi", Gehweg -Pariser Straße 19, Gaststätte "Dilo", Parkbucht -Pariser Straße 38, Gaststätte "Polka", Parkbucht -Pariser Straße 46, Gaststätte "El Espanol", Parkbucht -Preysingstraße 69, Gaststätte "Preysinggarten", Gehweg -Sedanstraße 9, Gaststätte "Negroni Bar", Gehweg -Sedanstraße 18, Gaststätte "fortuna cafebar", Gehweg -Sedanstraße 18, Gaststätte "fortuna cafebar", Parkbucht -Sedanstraße 20, Gaststätte "Passaparola, Parkbucht -Steinstraße 9, Gaststätte "coffe box", Gehweg -Steinstraße 42, Gaststätte "Vinaiolo", Gehweg -Steinstraße 63, Gaststätte "Zum roten Knopf", Gehweg -Stubenvollstraße 2, Gaststätte "Jams Restauran + Bar", Gehweg -Weißenburger Platz 5, Gaststätte "Spoon up", Gehweg -Weißenburger Platz 6, Gaststätte "Sapori del Salento", Gehweg -Weißenburger Platz 8, Gaststätte "Piazzetta", Gehweg -Weißenburger Straße 3, Gaststätte "Dal Cavaliere", Gehweg -Wiener Platz 2, Gaststätte "Livingroom Concept Store", Gehweg -Wiener Platz 4, Gaststätte "Weinhäusl", Gehweg
+- TOP 3.3.: Coronabedingte Genehmigungen für Freischankflächen: -Wolfgangstraße 19, Gaststätte "Ashoka", Gehweg -Wörthstraße 7, Gaststätte "Holy Burger", Gehweg -Wörthstraße 11, Gaststätte "Würzbar", Gehweg -Wörthstraße 16, Gaststätte "L&#039;angolino", Gehweg -Wörthstraße 34, Gaststätte "Haidhauser Augustiner", Parkbucht -Wörthstraße 34, Gaststätte "Haidhauser Augustiner", Gehweg -Wörthstraße 39, Gaststätte "Il Cigno", Parkbucht -Wörthstraße 39, Gaststätte "Il Cigno", Gehweg -Wörthstraße 43, Gaststätte "Elasya", Gehweg
+- TOP 3.4.: Freischankflächengenehmigungen-/anträge - Bäckerei Neulinger, Wörthstr. 17 - Gaststätte "Wunderbar", Kirchenstr. 28 - Cafe Konditorei Alexa von Harder, Ismaninger Str. 50 - Bäckerei Aumüller, Weißenburger Str. 37
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Jugendstr. 3: Nutzungsänderung EG und Umbau sowie Anbau einer Terrasse im 1. OG und eines Balkons im 2. OG
+- TOP 2.2.: Edlingerplatz 2-2a: Anbau von Balkonen an ein Mehrfamilienhaus und Neuerrichtung eines Mülltonnenhauses
+- TOP 2.3.: Wörthstr. 39: Konstruktive Sicherung von bestehenden Kappendecken im Kellergeschoss eines Wohn- und Geschäftshauses
+- TOP 2.4.: Wörthstr. 47 / Rückgebäude: Neubau eines Vierfamilienhauses mit 3 Stellplätzen, Tektur
+- TOP 2.5.: Versailler Str. 18: Nutzungsänderung eines Postamtes zu Arztpraxis im EG
+- TOP 2.6.: Einsteinstr. 107 / Rückgebäude: Abbruch des Rückgebäudes und ortsgleicher Neubau eines Wohngebäudes, Tektur
+- TOP 2.7.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Änderung (Erneuerung) zweier Eisenbahnüberführungen über die Balanstraße, Bahn-km 9,054 der Strecke 5510 München-Rosenheim und Bahn-km 0,719 der Strecke 5616 München-Ost – München Giesing in der Landeshauptstadt München Frist zur Stellungnahme bis zum 26.06.2020 - siehe auch UA Mobilität -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Grütznerstr. 8, Sachstand zum Balkon Antwort zum Schreiben des BA 5 vom 30.04.2020
+- TOP 3.2.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Hochstr. 53 b) Metzstr. 37 c) Lilienstr. 56
+- TOP 3.3.: Anforderung von Bauvorhaben, Rückantwort der LBK vom 19.05.2020
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 3.6.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 3.7.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Gebsattelbrücke als "Nachbarschaftsstraße": Platz zum Spielen und Verweilen, Antrag SPD
+- TOP 1.2.: Bushaltestelle Ostbahnhof (Post) barrierefrei ausbauen, Antrag SPD
+- TOP 1.3.: Keine "Blue Lane" im Rahmen der Internationalen Automobilausstellung, Antrag DIE LINKE
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: (E) Die Schulwegsicherheit am Gebsattelberg erhöhen mit einem Radweg bergab
+- TOP 2.: Anhörungen
+- TOP 2.1.: Geschwindigkeitsreduzierung in der Pilgersheimer Straße auf 30 km/h
+- TOP 2.2.: Geschwindigkeitsreduzierung in der Humboldtstraße auf 40 km/h - Verkehrsversuch mit 2-stufigem Aufbau, weitere Anordnung nach einem Jahr nach Umsetzung
+- TOP 2.3.: Dauerhaftes Linksabbiegeverbot in die Humboldtstraße
+- TOP 2.4.: Beschlussentwurf 2. Stammstrecke München Planfeststellungabschnitt 3 München - Ost Isar bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof Anträge und Empfehlungen
+- TOP 2.5.: Anwohnerdialog zur 2. Stammstrecke: Suche nach Multiplikatoren aus dem 5. Stadtbezirk Nachmeldung zum Beschluss des BA vom 27.05.2020
+- TOP 2.6.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Änderung (Erneuerung) zweier Eisenbahnüberführungen über die Balanstraße, Bahn-km 9,054 der Strecke 5510 München-Rosenheim und Bahn-km 0,719 der Strecke 5616 München-Ost – München Giesing in der Landeshauptstadt München Frist zur Stellungnahme bis zum 26.06.2020 - siehe auch UA Planung -
+- TOP 2.7.: Kurzfristige Maßnahmen für Fußgänger*innen in Zeiten von Corona Beschlussvorlage zur Vollversammlung des Stadtrats am 17.06.2020 -Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Planfeststellungsbeschluss Umbau Trambahnhaltestelle Deutsches Museum
+- TOP 3.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 StVO: a) Einrichtung bzw. Erweiterung von allgemeinen Behindertenparkplätzen in der Falkenstr. 18 b) Schornstr. 3 auf gegenüber: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze c) Parklizenzbereich Regerplatz: Änderung der Regelungen zum Parken am Tassiloplatz und am Zita-Zehner-Platz
+- TOP 3.3.: (U) Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Hinweis: Alte SV-Nr. 14-20 / V 17336
+- TOP 3.4.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 3.5.: Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Sitzungsvorlage Nr. 14-20 / V 17470 - siehe auch UA Planung -
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Umwandlung der Steinstraße in eine Fahrradstraße (4 Bürgeranliegen)
+- TOP 4.2.: Spiegel in der Auerfeldstraße gegenüber Hofeinfahrt
+- TOP 4.3.: Prüfung eines absoluten Halteverbots im Kurvenbereich der Spicherenstraße an der Ecke zur Elsässer Straße
+- TOP 4.4.: Antrag zu einer vorläufigen Regelung der Radwegesicherheit Kreuzung Pilgersheimer Straße / Humboldtstraße; Antrag auf dringliche Regelung der Verkehrsberuhigung an den genannten Straßen sowie Einrichtung einer Spiel- und Fußgängerzone Edlinger Platz mit Kolumbusplatz
+- TOP 4.5.: Verbesserung MVG Rad
+- TOP 4.6.: Antrag auf Rückbau des Radwegs in der Balanstraße zwischen Rosenheimer Straße und Auerfeldstraße - Verweisung aus der Sitzung vom 27.05.2020 -
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Straßenbeleuchtung optimieren (Antrag CSU-Fraktion) Verweisung aus der Sitzung vom 27.05.2020 in den UA Klima Und Umwelt -
+- TOP 2.: Anhörungen
+- TOP 2.1.: Pütrichstr. 7: Fällung von 6 Thujen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erfassung und Aktualisierung naturschutzrelevanter Flächen im Rahmen des Projekts "Flächenkulisse Biodiversität" - Beginn der stadtweiten Kartierungsarbeiten
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Glascontainer Spicherenstraße / Elsässer Straße
+- TOP 4.2.: Glascontainer Versailler Straße / Umgestaltung des Platzes vor St. Gabriel
+- TOP 4.3.: Antrag / Anregung zu einer begleitenden Baumpflanzung in der Sedanstraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 13.07.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 13.07.2020, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 14.07.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 15.07.2020, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 15.07.2020, 19.30 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 16.07.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 22.07.2020, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 07.07.2020, 19.30 Uhr, Friedenstraße 40
+- TOP II.5.: Förderprogramm für Künstler und Kulturschaffende im Bereich Au-Haidhausen aus Anlass der Corona-Krise
+- TOP 1.1.: Benennung der/des stellvertretenden Vorsitzenden
