@@ -72,7 +72,7 @@ Es sind mindestens folgende Messungen im Abwasser vorzunehmen:
   b) vierteljährliche Messung von Blei, Cadmium, Nickel, Quecksilber und Vanadium.
   Für Raffinerien zur Schmierölproduktion gilt Satz 1 mit der Maßgabe, dass nur der Phenolindex zu messen ist.
 (2)
-Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 und Teil D Absatz 3 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1. Bei Überschreitung der vorgesehenen Mindestanzahl an Messungen sind alle Werte für die Mittelwertbildung heranzuziehen.
+Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 und Teil D Absatz 3 errechnen sich aus den Ergebnissen der Messungen nach Absatz 1.
 (3)
 Es ist einen Jahresbericht nach Anlage 2 Nummer 3 zu erstellen.
 (4)

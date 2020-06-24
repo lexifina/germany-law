@@ -59,7 +59,7 @@ Unbeschadet der Anforderungen nach Absatz 1 darf im Abwasser für AOX ein Jahres
 E Anforderungen an das Abwasser für den Ort des Anfalls
 An das Abwasser werden für den Ort des Anfalls keine zusätzlichen Anforderungen gestellt.
 F Anforderungen für vorhandene Einleitungen
-Für vorhandene Einleitungen werden keine abweichenden Anforderungen gestellt.
+Für vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. August 2001 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmäßig begonnen worden ist, gilt abweichend von Teil C Absatz 1 für den CSB ein Wert von 40 kg/t.
 G Abfallrechtliche Anforderungen
 Abfallrechtliche Anforderungen werden nicht gestellt.
 H Betreiberpflichten
@@ -75,7 +75,7 @@ Es sind mindestens folgende Messungen im Abwasser vorzunehmen:
   b) bei der Herstellung von totalchlorfrei gebleichtem Zellstoff einmal alle zwei Monate Messung des AOX, sofern AOX durch die Zugabe von Chemikalien oder Rohstoffen entsteht;
   c) jährliche Messung von Blei, Cadmium, Kupfer, Nickel, Quecksilber und Zink.
 (2)
-Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 sowie der Jahresmittelwert für den Parameter AOX bezogen auf den erzeugten Zellstoff aus dem Sulfatzellstoffprozess nach Teil D Absatz 3 Satz 1 ergeben sich aus den nach der täglichen Produktion gewichteten Mittelwerten der produktionsspezifischen Frachtwerte, die aus den Ergebnissen der Messungen nach Absatz 1 ermittelt werden. Der Jahresmittelwert für den AOX bezogen auf die Herstellung von Sulfitzellstoff nach Teil D Absatz 3 Satz 1 errechnet sich aus den Ergebnissen der Messungen nach Absatz 1. Bei Überschreitung der vorgesehenen Mindestanzahl an Messungen sind alle Werte für die Mittelwertbildung heranzuziehen.
+Die Jahresmittelwerte für die Parameter nach Teil C Absatz 3 sowie der Jahresmittelwert für den Parameter AOX bezogen auf den erzeugten Zellstoff aus dem Sulfatzellstoffprozess nach Teil D Absatz 3 Satz 1 ergeben sich aus den nach der täglichen Produktion gewichteten Mittelwerten der produktionsspezifischen Frachtwerte, die aus den Ergebnissen der Messungen nach Absatz 1 ermittelt werden. Der Jahresmittelwert für den AOX bezogen auf die Herstellung von Sulfitzellstoff nach Teil D Absatz 3 Satz 1 errechnet sich aus den Ergebnissen der Messungen nach Absatz 1.
 (3)
 Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen. Mindestens alle drei Jahre ist in diesem Bericht auch nachzuweisen, dass
 1. erneut überprüft wurde, ob ein Verzicht auf den Einsatz der unter Teil B Absatz 1 Nummer 15 genannten Stoffe möglich ist,

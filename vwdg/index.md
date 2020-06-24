@@ -6,7 +6,7 @@
 - [§ 3 Inhalt der Datei](0003.md)
 - [§ 4 Übermittelnde Stellen](0004.md)
 - [§ 5 Verantwortung für die Übermittlung und die Datenrichtigkeit](0005.md)
-- [§ 6 Datenübermittlung an das Auswärtige Amt und die deutschen Auslandsvertretungen](0006.md)
+- [§ 6 Datenübermittlung an das Auswärtige Amt, das Bundesamt für Auswärtige Angelegenheiten und die deutschen Auslandsvertretungen](0006.md)
 - [§ 7 Weitere Behörden, an die Warndaten übermittelt werden](0007.md)
 - [§ 8 Voraussetzungen für die Datenübermittlung](0008.md)
 - [§ 9 Übermittlung und Veränderung von Daten durch Direkteingabe; Datenabruf im automatisierten Verfahren](0009.md)

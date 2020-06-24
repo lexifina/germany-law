@@ -97,7 +97,7 @@ Folgende Messungen im Abwasser sind vorzunehmen:
   a) Sulfid, leicht freisetzbar und
   b) Chrom, gesamt.
 (3)
-Der Monatsmittelwert nach Teil C Absatz 6 errechnet sich aus mindestens vier Messergebnissen, die nach Absatz 2 Nummer 1 Buchstabe d ermittelt wurden. Bei mehr als vier Messungen sind alle Werte für die Mittelwertbildung heranzuziehen.
+Der Monatsmittelwert nach Teil C Absatz 6 errechnet sich aus mindestens vier Messergebnissen, die nach Absatz 2 Nummer 1 Buchstabe d ermittelt wurden.
 (4)
 Es ist ein Jahresbericht nach Anlage 2 Nummer 3 zu erstellen. In dem Jahresbericht sind die monatlichen Abwassermengen aus Einzelprozessen, für die Anforderungen nach den Teilen C und D dieses Anhangs bestehen, anzugeben.
 (5)

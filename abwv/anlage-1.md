@@ -81,7 +81,7 @@
 | 327 | Hexachlorcyclohexan als Summe aller Isomere | DIN 38407-2 (F2) (Ausgabe Februar 1993) nach Maßgabe der Nummer 504, DIN EN ISO 6468 (F1) (Ausgabe Februar 1997) nach Maßgabe der Nummer 504, DIN 38407-37 (F37) (Ausgabe November 2013) nach Maßgabe der Nummer 504 |
 | 328 | Hexachlorbutadien (HCBD) in der Originalprobe | DIN EN ISO 10301 (F4) (Ausgabe August 1997), DIN 38407-2 (F2) (Ausgabe Februar 1993), DIN 38407-43 (F43) (Ausgabe Oktober 2014), DIN 38407-37 (F37) (Ausgabe November 2013), DIN EN ISO 15680 (F19) (Ausgabe April 2004) |
 | 329 | Aldrin, Dieldrin, Endrin, Isodrin (Drine) in der Originalprobe | DIN 38407-2 (F2) (Ausgabe Februar 1993) nach Maßgabe der Nummer 504, DIN EN ISO 6468 (F1) (Ausgabe Februar 1997) nach Maßgabe der Nummer 504, DIN 38407-37 (F37) (Ausgabe November 2013) nach Maßgabe der Nummer 504 |
-| 330 | Ausblasbare organisch gebundene Halogene (POX) in der Originalprobe, angegeben als Chlorid | DEV H 25 (Vorschlag) (22. Lieferung 1989) mit folgender Maßgabe: abweichend von Abschnitt 9.1 dieser Vorschrift ist die Probe bei Zimmertemperatur 10 Minuten auszublasen |
+| 330 | Nicht besetzt |  |
 | 331 | 1,2-Dichlorethan in der Originalprobe | DIN EN ISO 10301 (F4) (Ausgabe August 1997), DIN 38407-43 (F43) (Ausgabe Oktober 2014), DIN EN ISO 15680 (F19) (Ausgabe April 2004) |
 | 332 | Trichlorbenzol als Summe aller Isomere in der Originalprobe | DIN 38407-2 (F2) (Ausgabe Februar 1993) nach Maßgabe der Nummer 504, DIN 38407-43 (F43) (Ausgabe Oktober 2014), |
 |  |  | DIN EN ISO 6468 (F1) (Ausgabe Februar 1997) nach Maßgabe der Nummer 504, DIN 38407-37 (F37) (Ausgabe November 2013) nach Maßgabe der Nummer 504, DIN EN ISO 15680 (F19) (Ausgabe April 2004) |

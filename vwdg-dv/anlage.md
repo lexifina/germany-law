@@ -3,11 +3,11 @@
 | A | B | C | D |
 | 1 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen(§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
 | § 3 Abs. 3 |  |  |  |  |  |
-| Bezeichnung der Stelle, die die Daten übermittelt hat, das Geschäftszeichen der Stelle und das Datum der Datenübermittlung | (3) | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| Bezeichnung der Stelle, die die Daten übermittelt hat, das Geschäftszeichen der Stelle und das Datum der Datenübermittlung | (3) | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | A | B | C | D |
 | 2 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen(§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
 | § 3 Abs. 1 Satz 1 Nr. 1 |  |  |  |
-| Grundpersonalien |  | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| Grundpersonalien |  | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | a) | Vornamen | (3) |
 | b) | Familienname | (3) |
 | c) | abweichende Namensschreibweisen |  |
@@ -30,7 +30,7 @@
 | A | B | C | D |
 | 3 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen(§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
 | § 3 Abs. 1 Satz 1 Nr. 2 |  |  |  |  |  |
-| Organisation |  | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| Organisation |  | – alle übermittelnden Stellen | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | a) | Bezeichnung der Organisation | (3) |
 | b) | Anschrift der Organisation |  |
 |  | aa) | Straße, Hausnummer | (3) |
@@ -47,10 +47,10 @@
 | A | B | C | D |
 | 4 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 3 Abs. 1 Satz 1 Nr. 3 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG; § 5 Abs. 2 VWDG i. V. m. § 2 Abs. 2 Satz 2 VWDG-DV) |
 | § 3 Abs. 1 Satz 1 Nr. 3 |  |  |  |  |  |
-| – Visa-Warndateinummer des Bundesverwaltungsamtes | (3) | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden – Staatsanwaltschaften |
+| – Visa-Warndateinummer des Bundesverwaltungsamtes | (3) | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden – Staatsanwaltschaften |
 | A | B | C | D |
 | 5 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
-| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 1 und § 3 Abs. 4 |  | – Staatsanwaltschaften | – Auswärtiges Amt, nicht zu aaa) und bbb) – deutsche Auslandsvertretungen, nicht zu aaa) und bbb)– mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden, nicht zu aaa) und bbb), und nur wenn keine Daten zu bbb) gespeichert sind – Ausländerbehörden, nicht zu aaa) und bbb) |
+| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 1 und § 3 Abs. 4 |  | – Staatsanwaltschaften | – Auswärtiges Amt, nicht zu aaa) und bbb) – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten, nicht zu aaa) und bbb)– mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden, nicht zu aaa) und bbb), und nur wenn keine Daten zu bbb) gespeichert sind – Ausländerbehörden, nicht zu aaa) und bbb) |
 | Verurteilung wegen Straftaten |  |
 | a) | Verurteilung nach dem Aufenthaltsgesetz |  |
 |  | aa) | Verurteilung nach § 95 Abs. 1 Nr. 2 AufenthG | (1) |
@@ -103,7 +103,7 @@
 |  |  | bbb) | Freiheitsstrafe bis zu drei Monaten/Geldstrafe bis zu 90 Tagessätzen/Jugendstrafe | (1) |
 | A | B | C | D |
 | 6 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
-| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 2 |  | – Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – Ausländerbehörden | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – Ausländerbehörden |
+| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 2 |  | – Auslandsvertretungen oder das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – Ausländerbehörden | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – Ausländerbehörden |
 | Ge- oder verfälschte Dokumente/falsche Angaben |  |
 | a) | Als Visumantragsteller ge- oder verfälschte Dokumente im Visumverfahren vorgelegt, beschafft oder hergestellt | (1) |
 | b) | Als Visumantragsteller authentische Dokumente durch falsche Angaben erschlichen | (1) |
@@ -111,7 +111,7 @@
 | d) | Als Visumantragsteller durch Verschweigen erheblicher Tatsachen Visum erschlichen | (1) |
 | A | B | C | D |
 | 7 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
-| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 3 |  | – deutsche Auslandsvertretungen zu a) und c) – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden zu a) und c) – Ausländerbehörden zu a) bis c) | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden– Ausländerbehörden |
+| § 3 Abs. 1 Satz 1 Nr. 4 i. V. m. § 2 Abs. 1 Satz 1 Nr. 3 |  | – deutsche Auslandsvertretungen oder das Bundesamt für Auswärtige Angelegenheiten zu a) und c) – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden zu a) und c) – Ausländerbehörden zu a) bis c) | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden– Ausländerbehörden |
 | Einlader, Verpflichtungsgeber und sonstige Referenzpersonen; Organisation |  |
 | a) | Einlader |  |
 |  | aa) | Als Einlader falsche Angaben gemacht | (1) |
@@ -125,7 +125,7 @@
 |  | bb) | Als sonstige Referenzperson für eine Organisation falsche Angaben gemacht | (1) |
 | A | B | C | D |
 | 8 | Bezeichnung der Daten (§ 3 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 4 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG) |
-| § 3 Abs. 1 Satz 1 Nr. 4 und Abs. 2 i. V. m. § 2 Abs. 2 und § 2 Abs. 1 Satz 1 Nr. 3 |  | – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden, soweit sie als Visumbehörden tätig werden – Ausländerbehörden | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| § 3 Abs. 1 Satz 1 Nr. 4 und Abs. 2 i. V. m. § 2 Abs. 2 und § 2 Abs. 1 Satz 1 Nr. 3 |  | – deutsche Auslandsvertretungen oder das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden, soweit sie als Visumbehörden tätig werden – Ausländerbehörden | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | Speicherung mit Einwilligung |  |
 | a) | Einwilligung zur Speicherung erteilt am | (2) |
 | b) | Einwilligung liegt vor bei | (2) |
@@ -152,9 +152,9 @@
 |  | dd) | Erklärung für Organisation widerrufen/zusätzliche Angaben | (2) |
 | A | B | C | D |
 | 9 | Bezeichnung der Daten (§ 14 Abs. 1 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 14 Abs. 1 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG i. V. m. § 14 Abs. 1 VWDG) |
-| § 14 Abs. 1 Satz 2 |  | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| § 14 Abs. 1 Satz 2 |  | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | – Sperre bei Nichtlöschung | (2) |
 | A | B | C | D |
 | 10 | Bezeichnung der Daten (§ 14 Abs. 2 VWDG) | Zeitpunkt der Übermittlung | Übermittlung durch folgende Stellen (§ 14 Abs. 2 VWDG) | Übermittlung an folgende Stellen (§§ 6 und 7 VWDG i. V. m. § 14 Abs. 2 VWDG i. V. m. § 12 Abs. 3 Satz 3 VWDG-DV) |
-| § 14 Abs. 2 Satz 2 |  | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
+| § 14 Abs. 2 Satz 2 |  | – Zuspeicherung durch das Bundesverwaltungsamt | – Auswärtiges Amt – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – Ausländerbehörden |
 | – Sperrvermerk bei Bestreiten der Richtigkeit | (2) |

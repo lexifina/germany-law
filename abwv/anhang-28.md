@@ -105,7 +105,7 @@ Betreiber von Anlagen zur Herstellung von Papier, Karton oder Pappe mit einer Pr
   a) bei der Herstellung von nassfesten Papieren und Dekorpapieren einmal alle zwei Monate Messung von AOX; weist der Betreiber nach, dass im Prozess kein AOX erzeugt und auch keine AOX-haltigen Additive oder Rohstoffe verwendet werden, kann nach Maßgabe behördlicher Festlegung auf die Messung des AOX verzichtet werden;
   b) jährliche Messung von Blei, Cadmium, Kupfer, Nickel, Quecksilber und Zink.
 (2)
-Die Jahresmittelwerte für die Parameter nach Teil C Absatz 8 sowie nach Teil D Absatz 4 ergeben sich aus den nach der täglichen Produktion gewichteten Mittelwerten der produktionsspezifischen Frachtwerte, die aus den Ergebnissen der Messungen nach Absatz 1 ermittelt werden. Bei Überschreitung der vorgesehenen Mindestanzahl an Messungen sind alle Werte für die Mittelwertbildung heranzuziehen.
+Die Jahresmittelwerte für die Parameter nach Teil C Absatz 8 sowie nach Teil D Absatz 4 ergeben sich aus den nach der täglichen Produktion gewichteten Mittelwerten der produktionsspezifischen Frachtwerte, die aus den Ergebnissen der Messungen nach Absatz 1 ermittelt werden.
 (3)
 Betreiber von Anlagen zur Herstellung von Papier, Karton oder Pappe mit einer Produktionskapazität von 20 Tonnen oder mehr je Tag haben einen Jahresbericht nach Anlage 2 Nummer 3 zu erstellen. Mindestens alle drei Jahre ist in dem Bericht auch nachzuweisen, dass
 1. erneut überprüft wurde, ob ein Verzicht auf den Einsatz der unter Teil B Absatz 1 Nummer 2 bis 4 genannten Stoffe möglich ist,

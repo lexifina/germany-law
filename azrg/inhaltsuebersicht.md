@@ -45,7 +45,7 @@
 |  | § 18g | Datenübermittlung an die Träger der Deutschen Rentenversicherung |
 |  | § 19 | Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden |
 |  | § 20 | Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst |
-|  | § 21 | Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren |
+|  | § 21 | Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren |
 |  | § 21a | Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens |
 |  | § 22 | Abruf im automatisierten Verfahren |
 |  | § 23 | Statistische Aufbereitung der Daten |
