@@ -16,7 +16,7 @@
 - [§ 6 Personalreserve](0006.md)
 - [§ 7 Organisation und Ausstattung](0007.md)
 - [§ 8 Inspektion](0008.md)
-- [§ 9 Kurier- und Fernmeldeverbindungen](0009.md)
+- [§ 9 Kurierdienst und Auslands-IT](0009.md)
 - [§ 10 Politisches Archiv](0010.md)
 
 ## Abschnitt 3 Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
