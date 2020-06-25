@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2020:B.250620.VB88.19.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "V"
+aktenzeichen: "V B 88/19"
+decided: "2020-06-25"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202050206/"
+corpus_doc_id: "BFH_NV_2020-06-25_V_B_88_19_STRE202050206"
+cites_law: ["germany/bund/acts/fgo/0135.md"]
+---
+
+# Bundesfinanzhof, V B 88/19 vom 2020-06-25: Direktanspruch in der Umsatzsteuer
+
+## Leitsatz
+
+NV: Ein sich aus dem Unionsrecht entsprechend dem EuGH-Urteil Reemtsma Cigarettenfabriken (EU:C:2007:167, HFR 2007, 515) ergebender Direktanspruch setzt voraus, dass der Rechnungsaussteller eine Leistung an den Rechnungsempfänger erbracht hat (BFH-Urteil vom 22.08.2019 - V R 50/16, BFHE 266, 395). Gegenteiliges ist der EuGH-Rechtsprechung zum Vorsteuerabzug bei Anzahlungen nicht zu entnehmen.
+
+## Entscheidung
+
+NV: Ein sich aus dem Unionsrecht entsprechend dem EuGH-Urteil Reemtsma Cigarettenfabriken (EU:C:2007:167, HFR 2007, 515) ergebender Direktanspruch setzt voraus, dass der Rechnungsaussteller eine Leistung an den Rechnungsempfänger erbracht hat (BFH-Urteil vom 22.08.2019 - V R 50/16, BFHE 266, 395). Gegenteiliges ist der EuGH-Rechtsprechung zum Vorsteuerabzug bei Anzahlungen nicht zu entnehmen. Die Beschwerde der Klägerin wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts München vom 24.07.2019 - 3 K 1004/17 wird als unbegründet zurückgewiesen.Die Kosten des Beschwerdeverfahrens hat die Klägerin zu tragen. Die Beschwerde der Klägerin und Beschwerdeführerin (Klägerin) ist unbegründet. Die Revision ist nicht wegen grundsätzlicher Bedeutung der Rechtssache nach § 115 Abs. 2 Nr. 1 der Finanzgerichtsordnung (FGO) zuzulassen.1. Die Klägerin hatte mit ihrer Beschwerde zunächst geltend gemacht, dass es von grundsätzlicher Bedeutung sei, ob die Grundsätze des Urteils des Gerichtshofs der Europäischen Union (EuGH) Reemtsma Cigarettenfabriken vom 15.03.2007 - C-35/05 (EU:C:2007:167, Höchstrichterliche Finanzrechtsprechung ‑‑HFR‑‑ 2007, 515) auch dann gelten, wenn eine Lieferung tatsächlich nicht stattgefunden habe oder wenn der Rechnungsaussteller den in der Rechnung ausgewiesenen Umsatzsteuerbetrag in seiner Umsatzsteuervoranmeldung/-erklärung zwar anmeldet, zugleich aber auch vermeintlich unzutreffende Vorsteuerbeträge für den Einkauf derselben Gegenstände angemeldet habe, so dass sich Ausgangssteuer und Vorsteuer insoweit saldierten.Sie macht nach der Veröffentlichung des Urteils des Bundesfinanzhofs vom 22.08.2019 - V R 50/16 (BFHE 266, 395), mit dem der Senat entschieden hat, dass ein sich aus dem Unionsrecht entsprechend dem EuGH-Urteil Reemtsma Cigarettenfabriken (EU:C:2007:167, HFR 2007, 515) ergebender Direktanspruch voraussetzt, dass der Rechnungsaussteller eine Leistung an den Rechnungsempfänger erbracht hat, für die er Umsatzsteuer in der Rechnung zu Unrecht ausgewiesen hat, geltend, dass die vom Senat in diesem Urteil geäußerte Rechtsansicht im Hinblick auf die im Schrifttum geäußerte Kritik (von Streit/Streit, Zeitschrift für das gesamte Mehrwertsteuerrecht 2020, 174 ff.) zu überprüfen sei.2. Mit seinem Urteil in BFHE 266, 395 hat der Senat die von der Klägerin aufgeworfenen Fragen geklärt. Der Senat hält an diesem Urteil fest. Dies gilt entgegen der Auffassung der Klägerin und des von ihr zitierten Schrifttums auch unter Berücksichtigung des EuGH-Urteils Kollroß und Wirtl vom 31.05.2018 - C-660/16 und C-661/16 (EU:C:2018:372, HFR 2018, 588). Denn dieses EuGH-Urteil bezieht sich auf den Vorsteuerabzug aus einer Anzahlungsrechnung, bei der es denknotwendig an einer bereits erbrachten Leistung fehlt. Für den Fall des Vorsteuerabzugs aus einer angeblich erbrachten Leistung folgt hieraus in Bezug auf den sog. Direktanspruch entsprechend dem EuGH-Urteil Reemtsma Cigarettenfabriken (EU:C:2007:167, HFR 2007, 515) nichts Gegenteiliges. Damit bestehen keine Zweifel an der zutreffenden Beantwortung der beiden von der Klägerin aufgeworfenen Fragen.3. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
