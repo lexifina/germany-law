@@ -1,0 +1,72 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2020-06-25T17:00:00+02:00
+- Ende: 2020-06-25T21:45:00+02:00
+- Ort: Stadthalle, Europaplatz 10, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-118
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-118
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-RAT-118
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-118
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-118
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Informationen zur Corona-Krise
+- TOP 3: Nebentätigkeiten des Hauptverwaltungsbeamten im Jahr 2019; Vorlage gem. § 18 Abs. 2 Korruptionsbekämpfungsgesetz
+- TOP 4: Sachstand zum InnovationCity roll out „Links und Rechts der Emscher“ Hier: Förderantrag, Mittelbereitstellung und Erweiterung der Gebietskulisse
+- TOP 5: Sachstandsbericht Haushaltssanierungsplan 2020 - Stand 31.03.2020 (Berichterstattung gegenüber der Bezirksregierung Münster)
+- TOP 5.1: Sachstandsbericht Haushaltssanierungsplan 2020 - Stand 31.03.2020 (Berichterstattung gegenüber der Bezirksregierung Münster)
+- TOP 6: Gründung einer städtischen Wirtschaftsförderungs- und Stadtteilmanagementgesellschaft mit beschränkter Haftung (CAS - Wirtschaftsförderungs- und Stadtteilmanagement GmbH)
+- TOP 7: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2019 (§ 116a GO NRW)
+- TOP 8: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW (Mittelbereitstellung für die KInvFöG II - Maßnahme "Fridtjof-Nansen-Realschule, Altbau - Sanierung Fassade, Fenster, Türen")
+- TOP 9: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum 30.05.2020
+- TOP 9.1: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum 30.05.2020
+- TOP 10: Interkommunale Zusammenarbeit Schwarzarbeit (IKZ Schwarzarbeit); hier: a) Verlängerung der öffentlich-rechtlichen Vereinbarung bis zum 31.01.2024 b) Aufnahme weiterer Tatbestände nach dem Schwarzarbeitsgesetz und der Handwerksordnung ab dem 01.02.2021
+- TOP 11: Fortschreibung der Schulentwicklungsplanung
+- TOP 12: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel
+- TOP 13: Satzung über Auslagenersatz und Aufwandsentschädigung sowie Verdienstausfallentschädigung für ehrenamtliche Angehörige der Freiwilligen Feuerwehr der Stadt Castrop-Rauxel
+- TOP 14: Genehmigung einer dringlichen Entscheidung gem. § 60 Abs. 1 Satz 2 GO NRW hier: Aussetzung der Elternbeiträge und Verpflegungsentgelte im Juni 2020
+- TOP 15: Hälftige Aussetzung der Elternbeiträge und Verpflegungsentgelte im Juli 2020
+- TOP 16: Antrag DIE LINKE. vom 20.01.20 zur aufsuchenden Beratung und Begleitung von BürgerInnen in sozialen Angelegenheiten
+- TOP 17: Antrag FDP-Fraktion vom 07.05.2020 Prüfauftrag "Raus aus der Krise - rein ins Lernen"
+- TOP 18: Antrag CDU Fraktion vom 25.05.2020 Bedarfsermittlung und Mittelabruf DigitalPakt Schule
+- TOP 19: Antrag FWI vom 27.05.2020 auf individuelle Förderung von Kindern in der OGS
+- TOP 20: Änderungssatzung zur Elternbeitragssatzung der Stadt Castrop-Rauxel vom 27.02.2020
+- TOP 21: Antrag Bündnis 90/Die Grüne vom 03.06.2020_Abfallvermeidung durch Mehrwegwindeln
+- TOP 22: 3. Fortschreibung 2020 des Regionales Einzelhandelskonzept für das östliche Ruhrgebiet und angrenzende Bereiche (REHK)
+- TOP 23: Bericht zur umwelt- und klimaorientierten Stadtentwicklung
+- TOP 24: Internationale Gartenausstellung Metropole Ruhr 2027 hier: "Unsere Gärten" in der Stadt Castrop-Rauxel
+- TOP 25: Bebauungsplan Nr. 227 „Gewerbepark Erin/ Herner Straße“ hier: 1) Aufnahme eines ergänzenden Verfahrens zur Behebung von Fehlern des Bebauungsplanes gem. § 214 Abs. 4 BauGB 2) Beschluss zur öffentlichen Auslegung des Bebauungsplans nach § 3 Abs. 2 BauGB im Rahmen des ergänzenden Verfahrens.
+- TOP 26: Bebauungsplan Nr. 227 „Gewerbepark Erin/ Herner Straße“ hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB
+- TOP 27: Satzung über die Aufhebung des Bebauungsplanes Nr. 113 Teil 1 Planbereich „Gewerbegebiet Habinghorst“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 28: Bebauungsplan Nr. 241 Planbereich „Gewerbegebiet Habinghorst“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 29: Bebauungsplan Nr. 245H "Am Emscherufer" hier: a) Aufstellungsbeschluss b) Offenlagebeschluss
+- TOP 30: Bebauungsplan Nr. 256 „Emscherland / Wasserkreuz“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 31: Antrag der CDU-Fraktion: Antrag Handlungskonzept Problemhäuser und Schrottimmobilien
+- TOP 32: Satzung Bürgerbudget
+- TOP 33: Wiederwahl der Schiedspersonen der Stadt Castrop-Rauxel für die Bezirke II, III und IV
+- TOP 34: Wahlordnung für die Wahl des Integrationsrates der Stadt Castrop-Rauxel; hier: Anpassung der Fristen an das Gesetz zur Durchführung der Kommunalwahlen 2020
+- TOP 35: Fortführung der Energieberatungsstelle der Verbraucherzentrale ab 01. Januar 2021
+- TOP 36: Antrag Bündnis 90/Die Grünen vom 12.05.2020_Marktverlegung
+- TOP 37: Antrag FWI Fraktion vom 26.05.2020_Einstellung aller öffentlicher Protokolle ins Bürger- und Ratsinformationssystem der Stadt Castrop-Rauxel
+- TOP 38: Antrag Fraktion DIE LINKE vom 04.06.2020_Sozialer Wohnungsbau
+- TOP 39: Antrag UBP Fraktion vom 11.03.2020 _Einführung der Ehrenamtskarte NRW in Castrop-Rauxel
+- TOP 40: Antrag der UBP vom 14.04.2020_Bürgerratssitzung
+- TOP 41: Antrag UBP Fraktion vom 20.04.2020_Resolution_Demokratie
+- TOP 42: Antrag UBP Fraktion vom 08.05.2020_Gastronomie jetzt stärken! Keine Gebühren für Außenflächen in 2020
+- TOP 43: Antrag UBP Fraktion vom 08.05.2020_Verzicht auf Parkgebühren bis zum 24.12.2020
+- TOP 44: Antrag UBP Fraktion vom 20.04.2020_Antrag Rats-TV
+- TOP 45: Antrag der CDU-Fraktion "Arbeitskreis Kanada- und Nilgänse im Stadtgarten"
+- TOP 46: Resolution SPD, FWI, Bündnis90/Grüne, FDP_Unterstützung kommunaler Solidarpakt
+- TOP 46.1: Antrag CDU vom 22.06.2020_Resolution des RVR
+- TOP 47: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU, Die Linke, FDP, FWI und SPD vom 10.06.2020_Einführung einer Kastrations- und Kennzeichnungspflicht von Freigängerkatzen im Stadtgebiet von Castrop-Rauxel
+- TOP 48: Bereitstellung zusätzlicher Haushaltsmittel in Höhe von 150.000 € bei der Kontierung Sachkonto 5272000 (Weitere Verwaltungs- und Betriebsaufwendungen), Kostenträger 120102 (Gesundheitsschutz), Kostenstelle 50320 (Bereich 32)
+- TOP 49: Anfragen der Ratsmitglieder
+- TOP 50: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
