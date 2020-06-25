@@ -1,0 +1,52 @@
+# Rat (39. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-06-25T18:00:00+02:00
+- Ende: 2020-06-25T19:02:00+02:00
+- Ort: Heinz-Gerlach-Halle, Im Goldenen Tal 6, 53902 Bad Münstereifel, Heinz-Gerlach-Halle
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR5hpmtfTpwxs547OGcns1o
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20194
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSzwdDHyzU6apPwsQAtEhclxPnAvmmZAmldp4gLz7b3d/Bekanntmachung_Rat_25.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWp8Dpvbxc7twotR93oNqzrq-K1FxK4nCg8QWSRnYSsf/Oeffentliche_Niederschrift_Rat_25.06.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 28.04.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Verkauf eines Grundstücks in der Gemarkung Münstereifel, Willy-Brandt-Straße - Einstimmiger Beschluss:
+- TOP 4.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 5.: Verbesserung der ÖPNV Anbindung in Eschweiler hier: Antrag der CDU-Fraktion vom 12.02.2020 - Einstimmiger Beschluss:
+- TOP 6.: Nutzung von öffentlichen Flächen hier: FDP-Antrag vom 12.05.2020 - Beschluss mit 22 Ja- und 5 Nein-Stimmen, sowie 2 Enthaltungen:
+- TOP 7.: Umbesetzung des Bau- und Feuerwehrausschusses hier: Antrag der UWV-Fraktion vom 12.06.2020 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 8.: Neubesetzung des Ausschusses für Bildung, Kultur, Sport, Soziales, Städtepartnerschaften und Tourismus hier: Nachfolge für das ausscheidende beratende Mitglied der Evangelischen Kirchengemeinde - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 9.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.4 Verfügungsfonds hier: Beschluss der Richtlinie und des Antragsformulars -    
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.4 Verfügungsfonds hier: Beschluss der Richtlinie und des Antragsformulars - Einstimmiger Beschluss:
+- TOP 10.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A.6 Masterplan Werther Quartier/Stadteingang Nord hier: Vorstellung des Masterplans -     
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A.6 Masterplan Werther Quartier/Stadteingang Nord hier: Beschluss des Masterplans - Einstimmiger Beschluss:
+- TOP 11.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Maßnahme Nr. A9 Mobilitätskonzept inklusive Parkraumstrategie hier: Vorstellung der Ziele und des Maßnahmenpaketes durch Isaplan -      
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Maßnahme Nr. A9 Mobilitätskonzept inklusive Parkraumstrategie hier: finales Mobilitätskonzept - Einstimmiger Beschluss:
+- TOP 12.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.10 Konzept zur Reduzierung von Barrieren im öffentlichen Raum; hier: Vorstellung des Ergebnisberichts -     
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.10 Konzept zur Reduzierung von Barrieren im öffentlichen Raum; hier: Beschluss des Konzepts - Einstimmiger Beschluss:
+- TOP 13.: Feststellung Jahresabschluss zum 31.12.2018 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 14.: Tax Compliance - Beschluss mit 22 Ja- und 7 Nein-Stimmen:
+- TOP 15.: Jahresabschluss 2019 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses 2019 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:Bei Nr. 3 wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 96 Abs. 1 GO NRW nicht mit.
+- TOP 16.: Anfragen und Mitteilungen
+- TOP 16.1: Ausweitung des papierlosen Sitzungsdienstes
+- TOP 16.2: Haushalt 2020 hier: Bericht zum 30.05.2020 im Rahmen des Finanzcontrollings und weiterer Informationen
+- TOP 16.3: Atommüllendlager in der deutsch-belgisch-luxemburgischen Grenzregion hier: gemeinsame Erklärung von Oberbürgermeistern, Bürgermeistern/innen, und Landräten aus den Niederlanden, Belgien, Luxemburg und Deutschland
+- TOP 16.4: Terminverschiebung Wahlausschuss
+- TOP 16.5: Gestaltung Kreisel Nöthen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Verkauf eines Grundstücks in der Gemarkung Münstereifel, Willy-Brandt-Straße -   
+- TOP -: Verkauf eines Grundstücks in der Gemarkung Münstereifel, Willy-Brandt-Straße -    
+- TOP 2.: Städtisches Grundstück in Arloff; hier: Aufhebung der Veräußerungsbeschlüsse -     
+- TOP -: Städtisches Grundstück in Arloff; hier: Aufhebung der Veräußerungsbeschlüsse -    
+- TOP -: Städtisches Grundstück in Arloff; hier: Aufhebung der Veräußerungsbeschlüsse -      
+- TOP 3.: Anmietung von Gewerberäumen -     
+- TOP 4.: Wasserlieferungsvertrag mit der Gemeinde Nettersheim für die Versorgung des Versorgungsbereiches Weißenstein (Bergrath, Witscheiderhof und Weißenstein); hier: Verlängerung des Vertrages - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Beschädigung von Wirtschaftswegen durch Dritte hier: Anfrage des Stadtverordneten Anton Schmitz, SPD-Fraktion
