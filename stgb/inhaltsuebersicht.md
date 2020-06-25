@@ -286,6 +286,7 @@
 |  | § 90 | Verunglimpfung des Bundespräsidenten |
 |  | § 90a | Verunglimpfung des Staates und seiner Symbole |
 |  | § 90b | Verfassungsfeindliche Verunglimpfung von Verfassungsorganen |
+|  | § 90c | Verunglimpfung von Symbolen der Europäischen Union |
 |  | § 91 | Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat |
 |  | § 91a | Anwendungsbereich |
 |  |  |

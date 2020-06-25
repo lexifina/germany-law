@@ -277,6 +277,7 @@ Organisationen](0086.md)
 - [§ 90 Verunglimpfung des Bundespräsidenten](0090.md)
 - [§ 90a Verunglimpfung des Staates und seiner Symbole](0090a.md)
 - [§ 90b Verfassungsfeindliche Verunglimpfung von Verfassungsorganen](0090b.md)
+- [§ 90c Verunglimpfung von Symbolen der Europäischen Union](0090c.md)
 - [§ 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat](0091.md)
 - [§ 91a Anwendungsbereich](0091a.md)
 
@@ -308,8 +309,7 @@ Staaten
 
 - [§ 102 Angriff gegen Organe und Vertreter ausländischer Staaten](0102.md)
 - [§ 103 (weggefallen)](0103.md)
-- [§ 104 Verletzung von Flaggen und Hoheitszeichen ausländischer
-Staaten](0104.md)
+- [§ 104 Verletzung von Flaggen und Hoheitszeichen ausländischer Staaten](0104.md)
 - [§ 104a Voraussetzungen der Strafverfolgung](0104a.md)
 
 ### Vierter Abschnitt Straftaten gegen Verfassungsorgane
