@@ -1,0 +1,74 @@
+# Gemeinderat (56. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2020-06-25T18:00:00+02:00
+- Ende: 2020-06-25T22:00:00+02:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR72K8sN71kg896yW1qaPOA
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1789
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZebOb1qi6WK_lAoa3ZbKJMuZvP8wZ8aFhJhZQSZR6Kfd/Bekanntmachung_Gemeinderat_25.06.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVE5d8PRPrX809CpySWwPWgDQWcIrQQWLzqaS4_kHSnb/Oeffentliche_Niederschrift_Gemeinderat_25.06.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 3.1: Sachstandsbericht zum "Digitalpakt Schulen" - einstimmig, 0 Enthaltungen
+- TOP 3.2: Anregung der Schulpflegschaft der GGS Aldenhoven auf Umzug der GGS in die Gebäude der ehemaligen Haupt- und Realschule - einstimmig, 0 Enthaltungen
+- TOP 4.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 4.1: Gemeinsamer Antrag der SPD-Fraktion und CDU-Fraktion hier: Resolution "Kommunale Handlungsfähigkeit erhalten und Kommunen unter den Rettungsschirm nehmen" - einstimmig, 0 Enthaltungen
+- TOP 4.2: Aussetzen der Beitragserhebung für die Betreuung von Kindern in der offenen Ganztagsschule (OGS Aldenhoven) im Zuge von COVID-19 für den Monat April 2020 - einstimmig, 0 Enthaltungen
+- TOP 4.3: Aussetzen der Beitragserhebung für die Betreuung von Kindern in der offenen Ganztagsschule (OGS Aldenhoven) im Zuge von COVID-19 für den Monat Mai 2020 - einstimmig, 0 Enthaltungen
+- TOP 4.4: Sanierung der Wohnungen im Mehrfamilienhaus Heidgasse 75 - einstimmig, 0 Enthaltungen
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Ermächtigungsübertragungen des Jahres 2019 nach 2020 gemäß § 22 KomHVO - zur Kenntnis genommen
+- TOP 5.2: Jahresabschluss für das Haushaltsjahr 2019 - einstimmig, 0 Enthaltungen
+- TOP 5.3: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses für das Jahr 2019 - einstimmig, 0 Enthaltungen
+- TOP 5.4: Verwendung der Mittel aus dem Kommunalinvestitionsförderungsgesetz (KInvFG): zur Sanierung der Großsporthalle (Auswahl einer Variante zur Fassadensanierung) bzw. alternative Sanierungsmaßnahmen an Bildungs- und Infrastruktureinrichtungen bzw. Förderprogramm „Gute Schule“ - einstimmig, 1 Enthaltung
+- TOP 5.5: Überplanmäßige Ausgaben für die bislang angefallenen Planungsleistungen für die Fassadensanierung Großsporthalle GAL - einstimmig, 1 Enthaltung
+- TOP 5.6: Niederschlagsabwasserbehandlungsanlage OT Schleiden - Übertragung der Planungs- und Baumaßnahmen auf Straßen.NRW - einstimmig, 0 Enthaltungen
+- TOP 6.: Integriertes Handlungskonzept der Gemeinde Aldenhoven - zur Kenntnis genommen
+- TOP 7.: Bauleitplanung
+- TOP 7.1: Beschluss zur Aufhebung des Aufstellungsbeschlusses zur 47. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven und zur Aufstellung des Bebauungsplans 79 D - Am Schleidener Wege - - 16 Ja-Stimmen, 5-Nein-Stimmen, 0 Enthaltungen
+- TOP 7.2: Überarbeitung / Neuaufstellung des Landschaftsplans 2 - Rur- und Indeaue - zur Kenntnis genommen
+- TOP 7.3: Bebauungsplan 85 S - Business Park Alsdorf Aldenhoven - nördliche Erweiterung a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB b.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB - einstimmig, 0 Enthaltungen
+- TOP 7.4: 50. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 1. Anregung zur Änderung des Regionalplans 2. Aufstellungsbeschluss gem. §2 Abs. 1 BauGB 3. Beschluss über die Durchführung der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4. Abs. 1 BauGB - einstimmig, 0 Enthaltungen
+- TOP 8.: Anträge von Fraktionen
+- TOP 8.1: Antrag der CDU-Fraktion; hier: Antrag zur Akquise von niedergelassenen Ärzten in Siersdorf - ohne Abstimmung
+- TOP 8.2: Antrag der CDU-Fraktion; hier: Rettungsschirm für Vereine - einstimmig, 0 Enthaltungen
+- TOP 8.3: Antrag der CDU-Fraktion hier: Prüfung möglicher räumlicher Unterbringung der Vereine in Siersdorf - einstimmig, 0 Enthaltungen
+- TOP 8.4: Antrag der CDU-Fraktion hier: "Investitionen in der Gemeinde Aldenhoven beschleunigen, um Arbeit und Beschäftigung zu sichern!" - einstimmig, 0 Enthaltungen
+- TOP 8.5: Antrag der FWG-Fraktion hier: Absicherung des Zebrastreifens in der Alten Turmstraße - einstimmig, 0 Enthaltungen
+- TOP 9.: Antrag des Aldenhovener Ortsvereins "Bündnis 90 Die Grünen" hier: Installation eines Treppenlifts im Rathaus - einstimmig, 1 Enthaltung
+- TOP 10.: Antrag der Kreisbauernschaft Düren hier: Resolution „Wertvolle landwirtschaftliche Flächen erhalten und wiederherstellen“ - zur Kenntnis genommen
+- TOP 11.: Sachstandsberichte der Verwaltung
+- TOP 11.1: Ausführung des Haushalts
+- TOP 12.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Besetzung der Stelle des/r Fachbereichsleiters/in „I – Innere Verwaltung / Schulen / Soziales“ hier: Aufhebung des 2. Teilbeschlusses unter TOP B.2.1.aus der Sitzung vom 29.01.2020 - einstimmig, 0 Enthaltungen
+- TOP 2.2: Erwerb eines Minibaggers (1,8to Kettenbagger) für den Einsatz durch den Baubetriebshof - einstimmig, 0 Enthaltungen
+- TOP 3.: Auftragsvergaben
+- TOP 3.1: Beauftragung eines Planungsbüros mit der Durchführung eines EU-weiten Vergabeverfahrens für Planungsleistungen, zur energetischen Fassadensanierung an der Großsporthalle. - ohne Abstimmung
+- TOP 3.2: Beauftragung eines Planungsbüros mit der Durchführung der Planungsleistungen im Verfahren der 49. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 3.3: Beauftragung eines Planungsbüros mit der Durchführung der Planungsleistungen im Verfahren der 49. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 3.4: Beschaffung einer Software für die Erfassung von Daten aus der Straßenzustandserfassung, den Baumkontrollen und zur Pflege des digitalen Kanalbestands der Gemeinde Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Gestattungsvertrag über die Inanspruchnahme von Grundstücken in Zusammenhang mit dem Windpark "Jülich-Bourheim" - 13 Ja-Stimmen, 7-Nein-Stimmen, 1 Enthaltung
+- TOP 4.2: Verkauf einer landwirtschaftlichen Fläche in Niedermerz - 8 Ja-Stimmen, 13-Nein-Stimmen, 0 Enthaltungen
+- TOP 4.3: Temporär begrenzte Verpachtung einer gemeindeeigenen Fläche - 20 Ja-Stimmen, 1-Nein-Stimmen, 0 Enthaltungen
+- TOP 4.4: Antrag der Davids GmbH - Sondernutzungsvertrag über gemeindeeigene Wirtschaftswege - einstimmig, 2 Enthaltungen
+- TOP 5.: Gremienangelegenheiten
+- TOP 5.1: Berichte aus den Gremien
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Mitteilung des Bürgermeisters gemäß § 17 Korruptionsbekämpfungsgesetz - zur Kenntnis genommen
+- TOP 7.: Erlass von Gewerbesteuerforderungen - einstimmig, 0 Enthaltungen
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
