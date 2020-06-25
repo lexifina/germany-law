@@ -1,0 +1,7 @@
+# TOP 4.4: Antrag der Davids GmbH - Sondernutzungsvertrag über gemeindeeigene Wirtschaftswege
+
+- Sitzung: Gemeinderat (56. Sitzung) (2020-06-25)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/19710
+- Ergebnis: einstimmig, 2 Enthaltungen
