@@ -1,0 +1,20 @@
+# 30. (öffentliche) Sitzung des Integrationsausschusses
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-06-25T18:00:00+02:00
+- Ende: 2020-06-25T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=98
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5829
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5829
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnung und Festlegung der Protokollführung [planmäßig: Hr. Pietras, alternativ: Fr. Trasnea] - (offen)
+- TOP 2: Protokollkontrolle (13. Sitzung [Hr. Henkel], 16. Sitzung [Fr. Vogt], 24. Sitzung [Fr. Kant], 25. Sitzung [Fr. Wahlen], 26. Sitzung [Fr. Vogt], 27. Sitzung [Fr. Giering] 28. Sitzung [Hr. Knack]) - erledigt
+- TOP 3: Bericht des Bezirksamtes - (offen)
+- TOP 4: Bericht Register Treptow-Köpenick - (offen)
+- TOP 5: Überweisungen aus der BVV vom 18.06.2020 - (offen)
+- TOP 6: Sonstiges - (offen)
