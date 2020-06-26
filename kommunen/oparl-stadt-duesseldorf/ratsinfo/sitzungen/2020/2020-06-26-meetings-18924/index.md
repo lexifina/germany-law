@@ -1,0 +1,90 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-06-26T14:00:00+02:00
+- Ende: 2020-06-26T16:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18924
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18924
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382115.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382115.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00382115.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung vom 15.05.2020 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung vom 28.05.2020 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Handlungsräume ZUKUNFT QUARTIER.DÜSSELDORF - Weiteres Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 6.2: Vier Raumbilder für das Raumwerk D - Empfehlung einstimmig beschlossen
+- TOP 6.3: Blaugrüner Ring - Bestätigung des Wettbewerbsergebnisses - Grundsatzbeschluss zum weiteren Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 6.4: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath - Empfehlung einstimmig beschlossen
+- TOP 6.8: Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses für die Sanierung von Fassaden an acht Schulen - Empfehlung einstimmig beschlossen
+- TOP 6.9: An der Piwipp - Rückbau Verkehrsinsel, Baumfällungen - vertagt
+- TOP 6.10: Geplante Maßnahmen aus dem Stadtbaumkonzept im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 6.11: Weihnachtsmarkt auf dem Frankenplatz in Düsseldorf Derendorf im Jahre 2020 - mehrheitlich beschlossen
+- TOP 6.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 6.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 6.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - zurückgezogen
+- TOP 6.15: Barrierefreier Haltestellenumbau Venloer Straße - einstimmig beschlossen
+- TOP 6.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.22: Uerdinger Straße (B7) - Verkehrsversuch ÖPNV-Spur im Bereich Bussteig 5 - mehrheitlich beschlossen
+- TOP 6.22.1: Änderungsantrag der CDU-Fraktion zur Vorlage OVA/083/2020 - Verlängerung des Verkehrsversuchs Uerdinger Straße - ÖPNV-Spur im Bereich Bussteig 5 - um 6 Monate - mehrheitlich abgelehnt
+- TOP 6.23: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 6.24: Konzerte im Ehrenhof anlässlich des Heimatsommers - zur Kenntnis genommen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Energetische Gebäudesanierung an städtischen Gebäuden im Stadtbezirk - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Entfernung der Zusatztafel «Anlieger frei » in der Füsilierstraße - Anfrage der Fraktion Bündnis90/ DIe Grünen
+- TOP 8.2: Sicherheit am Kö-Bogen - Fußgängerquerung Haltestelle Schadowstraße - Anfrage der SPD-Fraktion
+- TOP 8.3: Leere Baumscheiben auf der Geistenstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Opernhaus Düsseldorf - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9.2: Umleitung des Radverkehrs bei Veranstaltungen am Rathausufer und Mannesmannufer - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 9.3: Briefkasten in der Umgebung des Carlsplatzes - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 9.4: Vermeidung von weiterer Verschmutzung der Grünanlage Hans-Böckler-Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9.5: Sonnenschutz im Hof der Jugendfreizeiteinrichtung Ulmen Club - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9.6: Neuplanung des Hilarius-Gilges-Platzes - interfraktioneller Antrag - einstimmig beschlossen
+- TOP 9.7: Linksabbieger südliche Marc-Chagall-Straße in FR nördliche Toulouser Allee - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 9.8: Konsequente Fortführung der Fußgängerzone Robert-Lehr-Ufer und deren Schutz vor unbefugtem Autoverkehr - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 9.9: Verlegung des Radweges Eulerstraße stadteinwärts vom Bürgersteig auf die Straße - Antrag Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 9.10: Schottergarten Ulmenstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9.11: Laufstrecke Rheinpark - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9.12: Leere Baumscheiben auf der Heinrich-Ehrhardt-Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9.13: Fahrradständer für die Metzer Straße - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 9.14: Gestaltung Schulhof Maxschule - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 9.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 10.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 10.2: Standort für eine Baumpflanzung in der Verkehrsinsel Rheinbabenstraße, Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/067/2020 - zur Kenntnis genommen
+- TOP 10.3: Bäume für die Münsterstraße, Beschluss der Bezirksvertretung 1 vom 15.05.2020; BV1/115/2020 - zur Kenntnis genommen
+- TOP 10.4: Beschluss der Bezirksvertretung 1, Baumsanierungsmaßnahmen Spichernstraße; Vorlage Nr. BV1/122/2020 - zur Kenntnis genommen
+- TOP 10.5: Abfallbehälter auf dem Frankenplatz dem Bedarf anpassen, Beschluss der Bezirksvertretung 1 vom 15.05.2020; BV1/114/2020 - zur Kenntnis genommen
+- TOP 10.6: Nutzungskonzept für das Hofgärtnerhaus nach Auszug des Theatermuseums; Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/084/2020 - zur Kenntnis genommen
+- TOP 10.7: Verkehrssicherheit für Kinder auf der Marc-Chagall-Straße erhöhen, Beschluss der Bezirksvertretung 1 vom 22.11.2019; BV1/083/2019 - zur Kenntnis genommen
+- TOP 10.8: Sportfläche auf dem Schulhof des Görres-Gymnasiums, Beschluss der Bezirksvertretung 1 vom 22.11.2019; BV1/068/2019 - zur Kenntnis genommen
+- TOP 11: Verfügungsmittel der Bezirksvertretung 1
+- TOP 11.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderkreis der Mahn- und Gedenkstätte Düsseldorf e.V. - einstimmig beschlossen
+- TOP 11.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Verein "Der Golzheimer Friedhof soll leben" e.V. und dem Verein "Initiative Tabu Suizid" e.V. - einstimmig beschlossen
+- TOP 11.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Aurore e.V. - einstimmig beschlossen
+- TOP 11.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Eine Welt Forum e.V. - einstimmig beschlossen
+- TOP 11.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an ehemalige Studenten der Kunstakademie, Prof. Klasse A.R. Penck - vertagt
+- TOP 11.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Blockblocks Cleanup gGmbH - einstimmig beschlossen
+- TOP 12: Verschiedenes - zur Kenntnis genommen
