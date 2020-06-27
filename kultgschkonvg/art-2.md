@@ -1,11 +1,11 @@
 # Art 2
 
 (1)
-Die Länder führen dieses Gesetz im Auftrag des Bundes aus, soweit nicht in den Absätzen 2 bis 6 etwas anderes bestimmt ist. Der Bundesminister des Innern übt in seinem Aufgabenbereich die Befugnisse aus, die der Bundesregierung nach Artikel 85 Abs. 4 des Grundgesetzes zustehen. Er kann diese Befugnisse sowie seine Weisungsbefugnisse nach Artikel 85 Abs. 3 des Grundgesetzes ganz oder teilweise auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen. Allgemeine Verwaltungsvorschriften erläßt der Bundesminister des Innern mit Zustimmung des Bundesrates.
+Die Länder führen dieses Gesetz im Auftrag des Bundes aus, soweit nicht in den Absätzen 2 bis 6 etwas anderes bestimmt ist. Der Bundesminister des Innern, für Bau und Heimat übt in seinem Aufgabenbereich die Befugnisse aus, die der Bundesregierung nach Artikel 85 Abs. 4 des Grundgesetzes zustehen. Er kann diese Befugnisse sowie seine Weisungsbefugnisse nach Artikel 85 Abs. 3 des Grundgesetzes ganz oder teilweise auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen. Allgemeine Verwaltungsvorschriften erläßt der Bundesminister des Innern, für Bau und Heimat mit Zustimmung des Bundesrates.
 (2)
 Der Bundesminister des Auswärtigen ist zuständig in allen Fällen, in denen nach der Konvention und ihren Ausführungsbestimmungen die Vertragspartei Bundesrepublik Deutschland mit auswärtigen Stellen in Verbindung tritt, sowie für die Benennungen und Ernennungen nach Kapitel I der Ausführungsbestimmungen.
 (3)
-Der Bundesminister des Innern ist zuständig für
+Der Bundesminister des Innern, für Bau und Heimat ist zuständig für
 a) die Ausgabe von Ausweisen und Armbinden nach Artikel 21 der Ausführungsbestimmungen für das in Artikel 17 Abs. 2 Buchstabe b der Konvention genannte Personal,
 b) die Transporte nach Kapitel III der Konvention und Kapitel III der Ausführungsbestimmungen; hierbei ist das Einvernehmen des Bundesministers der Verteidigung erforderlich.
 (4)
