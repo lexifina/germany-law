@@ -1,0 +1,6 @@
+# TOP 10: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Hochspeyer (2020-06-29)
+- Körperschaft: Ortsgemeinde Hochspeyer
+- Öffentlich: nein
+- OParl: https://enkenbach-alsenborn.gremien.info/oparl/agendaItem/ni_2020-OGRatHsp-17%7CIWAnoe%7C2
