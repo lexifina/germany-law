@@ -38,8 +38,7 @@
 |  | Zuwendungsbestätigung | § 50 |
 | Zu § 13 des Gesetzes |  |
 |  | Pauschale Ermittlung der Gewinne aus Holznutzungen | § 51 |
-| Zu § 13a des Gesetzes |  |
-|  | (weggefallen) | § 52 |
+|  | Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln | § 52 |
 | Zu § 17 des Gesetzes |  |
 |  | Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften | § 53 |
 |  | Übersendung von Urkunden durch die Notare | § 54 |

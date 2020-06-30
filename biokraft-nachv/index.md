@@ -107,7 +107,7 @@
 - [§ 61 Datenabgleich](0061.md)
 - [§ 62 Auskunftsrecht der zuständigen Behörde](0062.md)
 - [§ 63 Berichtspflicht der zuständigen Behörde](0063.md)
-- [§ 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit](0064.md)
+- [§ 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit](0064.md)
 - [§ 65 Datenübermittlung](0065.md)
 - [§ 66 Zuständigkeit](0066.md)
 - [§ 67 Verfahren vor der zuständigen Behörde](0067.md)

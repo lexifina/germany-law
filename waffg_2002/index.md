@@ -98,8 +98,7 @@ und Nachweispflichten
 - [§ 44a Behördliche Aufbewahrungspflichten](0044a.md)
 - [§ 45 Rücknahme und Widerruf](0045.md)
 - [§ 46 Weitere Maßnahmen](0046.md)
-- [§ 47 Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur
-Angleichung an Gemeinschaftsrecht](0047.md)
+- [§ 47 Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht](0047.md)
 - [§ 48 Sachliche Zuständigkeit](0048.md)
 - [§ 49 Örtliche Zuständigkeit](0049.md)
 - [§ 50 (weggefallen)](0050.md)

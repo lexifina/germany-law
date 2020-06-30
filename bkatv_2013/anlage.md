@@ -126,9 +126,9 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 38.2 |  | – mit Gefährdung |  | 25 € |
 | 38.3 |  | – mit Sachbeschädigung |  | 30 € |
 | 39 | Abgebogen, ohne Fahrzeug durchfahren zu lassen | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 49 Absatz 1 Nummer 9 | 40 € |
-| 39.1 |  | – mit Gefährdung | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 € |
+| 39.1 |  | – mit Gefährdung | § 9 Absatz 3 Satz 1, 2, Absatz 4 Satz 1 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 €Fahrverbot 1 Monat |
 | (40) | (aufgehoben) |  |  |
-| 41 | Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen und diese dadurch gefährdet | § 9 Absatz 3 Satz 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 € |
+| 41 | Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen und diese dadurch gefährdet | § 9 Absatz 3 Satz 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 140 €Fahrverbot 1 Monat |
 | 42 | Beim Linksabbiegen nicht voreinander abgebogen | § 9 Absatz 4 Satz 2 § 49 Absatz 1 Nummer 9 | 10 € |
 | 42.1 |  | – mit Gefährdung | § 9 Absatz 4 Satz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 9 | 70 € |
 | (43) | (aufgehoben) |  |  |
@@ -145,7 +145,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 50.1 |  | – mit Behinderung | § 11 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 11 | 240 €Fahrverbot 1 Monat |
 | 50.2 |  | – mit Gefährdung |  | 280 €Fahrverbot 1 Monat |
 | 50.3 |  | – mit Sachbeschädigung |  | 320 €Fahrverbot 1 Monat |
-| 50a | Unberechtigt mit einem Fahrzeug auf einer Autobahn oder Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei- oder Hilfsfahrzeugen benutzt | § 11 Absatz 2 § 49 Absatz 1 Nummer 11 | 240 €Fahrverbot 1 Monat |
+| 50a | Unberechtigt mit einem Fahrzeug auf einer Autobahn oder Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei-oder Hilfsfahrzeugen benutzt | § 11 Absatz 2 § 49 Absatz 1 Nummer 11 | 240 €Fahrverbot 1 Monat |
 | 50a.1 |  | – mit Behinderung | § 11 Absatz 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 11 | 280 €Fahrverbot 1 Monat |
 | 50a.2 |  | – mit Gefährdung |  | 300 €Fahrverbot 1 Monat |
 | 50a.3 |  | – mit Sachbeschädigung |  | 320 €Fahrverbot 1 Monat |

@@ -26,7 +26,9 @@ Zeitpunkt der Auszahlung beziehungsweise Zurverfügungstellung in Fällen,
 in denen der Versicherungsnehmer nicht verstorben ist:
 2. Versicherungsschein-Nr. .........................
 3. a) Bei Kapitalversicherung
-Auszuzahlender Versicherungsbetrag
+Auszuzahlender Versicherungsbetrag vor Abzug von
+einzubehaltender Kapitalertragsteuer, Solidaritätszuschlag,
+Kirchensteuer
 (einschließlich Dividenden und dergleichen
 abzüglich noch geschuldeter Prämien, vor
 der Fälligkeit der Versicherungssumme

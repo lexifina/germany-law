@@ -1,0 +1,17 @@
+# Anlage 1 (zu § 50 Absatz 3 Satz 3)
+
+I. Der Bericht des Statistischen Bundesamtes über die Entwicklung des Wahlkostenindexes gemäß § 50 Absatz 3 Satz 3 umfasst:
+  1. die Darstellung der prozentualen Entwicklung des Wahlkostenindexes bezogen auf das Vorjahr und
+  2. die Fortrechnung der Beträge nach § 50 Absatz 3 Satz 2 anhand der jährlichen prozentualen Entwicklung des Wahlkostenindexes mit jeweils auf vier Dezimalstellen gerundeten Beträgen; die Beträge sind aufzurunden, wenn der zu rundenden Stelle eine der Ziffern 5 bis 9 folgt, ansonsten sind sie abzurunden.
+II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen Bundesamtes:
+  | 1. | aus dem Index der tariflichen Monatsverdienste in der Gesamtwirtschaft ohne Sonderzahlungen |  |
+  |  | die Indexreihe Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ O) mit einem Anteil von | 75 Prozent, |
+  | 2. | aus dem Index der Erzeugerpreise gewerblicher Produkte |  |
+  |  | a) | die Indexreihe Schreibwaren und Bürobedarf aus Papier, Karton oder Pappe (GP 1723) mit einem Anteil von | 2 Prozent, |
+  |  | b) | die Indexreihe Werbedrucke und Werbeschriften, Verkaufskataloge und dergleichen (GP 181212) mit einem Anteil von | 5 Prozent, |
+  |  | c) | die Indexreihe Datenverarbeitungsgeräte und periphere Geräte (GP 262) mit einem Anteil von | 7 Prozent, |
+  |  | d) | die Indexreihe Büromöbel, Ladenmöbel aus Holz (GP 3101) mit einem Anteil von | 4 Prozent, |
+  | 3. | aus den Verbraucherpreisindizes für Deutschland |  |
+  |  | a) | die Indexreihe Wohnungsmiete, einschließlich Mietwert von Eigentümerwohnung (SEA-VPI-Nr. 041) mit einem Anteil von | 4 Prozent |
+  |  |  | und |  |
+  |  | b) | die Indexreihe Strom, Gas und andere Brennstoffe (SEA-VPI-Nr. 045) mit einem Anteil von | 3 Prozent. |

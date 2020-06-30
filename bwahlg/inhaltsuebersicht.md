@@ -75,3 +75,5 @@
 | § 53 | Übergangsregelung |
 | § 54 | Fristen, Termine und Form |
 | § 55 | (Inkrafttreten) |
+| Anlage 1 |  | (zu § 50 Absatz 3 Satz 3) |
+| Anlage 2 |  | (zu § 2 Absatz 2) |
