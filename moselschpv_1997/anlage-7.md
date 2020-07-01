@@ -132,14 +132,13 @@ D.1 Empfohlene Durchfahrtsöffnung:
     in der Richtung vom festen Licht zum Gleichtaktlicht zu fahren.
     ... nicht darstellbares Tafelzeichen
 E. Hinweiszeichen
-E.1 Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).
-    (§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a Nr. 3)
-    ... nicht darstellbare Tafeln
-  E.2 Kreuzung einer Hochspannungsleitung.
-    ... nicht darstellbares Tafelzeichen
-  E.3 (ohne Inhalt)
-  E.4 Nicht frei fahrende Fähre.
-    ... nicht darstellbares Tafelzeichen
+| E.1 | Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).(§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a Nr. 3)... nicht darstellbare Tafeln(Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 105) |  |
+| E.2 | Kreuzung einer Hochspannungsleitung.... nicht darstellbares Tafelzeichen |  |
+| E.3 | Wehr |  |
+| E.4a | Nicht frei fahrende Fähre.... nicht darstellbares Tafelzeichen |  |
+| E.4b | Frei fahrende Fähre |  |
+
+  
   E.5 Erlaubnis zum Stilliegen auf der Seite der Wasserstraße, auf der das Zeichen steht.
     (§ 7.05 Nr. 1)
     ... nicht darstellbares Tafelzeichen

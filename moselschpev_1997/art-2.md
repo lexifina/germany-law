@@ -3,7 +3,7 @@
 (1)
 Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schiffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 (2)
-Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung der Anlage eine von der Anlage abweichende Regelung bis zur Dauer von drei Jahren zu treffen.
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der Moselkommission nach § 1.22a der Anlage durch Rechtsverordnung in dringenden Fällen oder zu Versuchszwecken eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen.
 (3)
 Zuständige Behörde für die Zulassung von Baumustern der Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 (4)

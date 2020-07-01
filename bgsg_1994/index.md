@@ -107,10 +107,8 @@ Ansammlungen](0026.md)
 - [§ 63 Vollzugsdienst, Hilfspolizeibeamte](0063.md)
 - [§ 64 Amtshandlungen von Polizeivollzugsbeamten der Länder sowie von Vollzugsbeamten anderer Bundesbehörden oder anderer Staaten im Zuständigkeitsbereich der Bundespolizei](0064.md)
 - [§ 65 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich eines Landes oder Tätigkeiten in anderen Staaten](0065.md)
-- [§ 66 Amtshandlungen von Beamten der Zollverwaltung im
-Zuständigkeitsbereich der Bundespolizei](0066.md)
-- [§ 67 Amtshandlungen von Beamten der Bundespolizei
-im Zuständigkeitsbereich der Zollverwaltung](0067.md)
+- [§ 66 Amtshandlungen von Beamten der Zollverwaltung im Zuständigkeitsbereich der Bundespolizei](0066.md)
+- [§ 67 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung](0067.md)
 - [§ 68 Wahrnehmung von Aufgaben durch die Zollverwaltung](0068.md)
 
 ## Abschnitt 5 Schlußbestimmungen

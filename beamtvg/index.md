@@ -14,6 +14,7 @@
 - [§ 4 Entstehen und Berechnung des Ruhegehalts](0004.md)
 - [§ 5 Ruhegehaltfähige Dienstbezüge](0005.md)
 - [§ 6 Regelmäßige ruhegehaltfähige Dienstzeit](0006.md)
+- [§ 6a Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung](0006a.md)
 - [§ 7 Erhöhung der ruhegehaltfähigen Dienstzeit](0007.md)
 - [§ 8 Berufsmäßiger Wehrdienst und vergleichbare Zeiten](0008.md)
 - [§ 9 Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten](0009.md)
@@ -94,7 +95,7 @@
 - [§ 53a Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld](0053a.md)
 - [§ 54 Zusammentreffen mehrerer Versorgungsbezüge](0054.md)
 - [§ 55 Zusammentreffen von Versorgungsbezügen mit Renten](0055.md)
-- [§ 56 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung](0056.md)
+- [§ 56 Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung](0056.md)
 - [§ 57 Kürzung der Versorgungsbezüge nach der Ehescheidung](0057.md)
 - [§ 58 Abwendung der Kürzung der Versorgungsbezüge](0058.md)
 - [§ 59 Erlöschen der Versorgungsbezüge wegen Verurteilung](0059.md)
@@ -130,6 +131,7 @@
 - [§ 69j Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes](0069j.md)
 - [§ 69k Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften](0069k.md)
 - [§ 69l Übergangsregelung zu § 55](0069l.md)
+- [§ 69m Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0069m.md)
 
 ## Abschnitt 11 Anpassung der Versorgungsbezüge
 

@@ -16,17 +16,17 @@
 - [§ 5 Deutsche Bundesbank](0005.md)
 - [§ 5a Oberste Bundesbehörden](0005a.md)
 - [§ 5b Geschäftsbereiche der obersten Bundesbehörden](0005b.md)
-- [§ 6 Bundesministerium des Innern](0006.md)
-- [§ 6a Geschäftsbereich des Bundesministeriums des Innern](0006a.md)
+- [§ 6 Bundesministerium des Innern, für Bau und Heimat](0006.md)
+- [§ 6a Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat](0006a.md)
 - [§ 7 Geschäftsbereich des Bundesministeriums für Arbeit und Soziales](0007.md)
 - [§ 8 Geschäftsbereich des Bundesministeriums für Gesundheit](0008.md)
 - [§ 9 Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft](0009.md)
 
 ### Zweiter Abschnitt Feststellung des nichtöffentlichen Bereichs
 
-- [§ 9a Bundesministerium des Innern](0009a.md)
+- [§ 9a Bundesministerium des Innern, für Bau und Heimat](0009a.md)
 - [§ 10 Bundesministerium für Wirtschaft und Energie](0010.md)
-- [§ 10a Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit](0010a.md)
+- [§ 10a Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit](0010a.md)
 - [§ 11 Bundesministerium für Verkehr und digitale Infrastruktur](0011.md)
 
 ### Dritter Abschnitt Zuständigkeits- und Schlussvorschriften

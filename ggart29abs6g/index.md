@@ -17,8 +17,7 @@ Volksbefragung nach Artikel 29 Abs. 6 des Grundgesetzes
 - [§ 11 Abstimmungsergebnis](0011.md)
 - [§ 12 Ungültige Stimmen](0012.md)
 - [§ 13 Entscheidung des Abstimmungsvorstandes](0013.md)
-- [§ 14 Feststellung des Abstimmungsergebnisses und des Ergebnisses
-des Volksentscheides](0014.md)
+- [§ 14 Feststellung des Abstimmungsergebnisses und des Ergebnisses des Volksentscheides](0014.md)
 - [§ 15 Nachabstimmung](0015.md)
 - [§ 16 Wiederholung der Abstimmung](0016.md)
 - [§ 17 Veröffentlichung des Abstimmungsergebnisses](0017.md)
@@ -55,6 +54,5 @@ Beschwerde](0030.md)
 ## Vierter Abschnitt Schlußbestimmungen
 
 - [§ 40 Ermächtigung zum Erlaß von Rechtsverordnungen](0040.md)
-- [§ 41 Kosten des Volksentscheides, des Eintragungsverfahrens und
-der Volksbefragung](0041.md)
+- [§ 41 Kosten des Volksentscheides, des Eintragungsverfahrens und der Volksbefragung](0041.md)
 - [§ 42 Inkrafttreten](0042.md)

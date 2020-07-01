@@ -12,6 +12,7 @@
 | § 4 | Entstehen und Berechnung des Ruhegehalts |
 | § 5 | Ruhegehaltfähige Dienstbezüge |
 | § 6 | Regelmäßige ruhegehaltfähige Dienstzeit |
+| § 6a | Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung |
 | § 7 | Erhöhung der ruhegehaltfähigen Dienstzeit |
 | § 8 | Berufsmäßiger Wehrdienst und vergleichbare Zeiten |
 | § 9 | Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten |
@@ -92,7 +93,7 @@
 | § 53a | Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld |
 | § 54 | Zusammentreffen mehrerer Versorgungsbezüge |
 | § 55 | Zusammentreffen von Versorgungsbezügen mit Renten |
-| § 56 | Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung |
+| § 56 | Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung |
 | § 57 | Kürzung der Versorgungsbezüge nach der Ehescheidung |
 | § 58 | Abwendung der Kürzung der Versorgungsbezüge |
 | § 59 | Erlöschen der Versorgungsbezüge wegen Verurteilung |
@@ -128,6 +129,7 @@
 | § 69j | Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes |
 | § 69k | Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften |
 | § 69l | Übergangsregelung zu § 55 |
+| § 69m | Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes |
 |  |  |
 | Abschnitt 11 |
 | Anpassung der Versorgungsbezüge |

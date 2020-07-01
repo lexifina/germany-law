@@ -13,7 +13,7 @@
 | § 11 | Zusammentreffen von Altersgeld und Witwenaltersgeld mit Erwerbseinkommen |
 | § 12 | Zusammentreffen von Altersgeld mit Mindestruhegehalt |
 | § 13 | Zusammentreffen von Altersgeld und Hinterbliebenenaltersgeld mit Renten |
-| § 14 | Zusammentreffen von Altersgeld, Witwenaltersgeld und Waisenaltersgeld mit Versorgung aus zwischenstaatlicher oder überstaatlicher Verwendung |
+| § 14 | Zusammentreffen von Altersgeld, Witwenaltersgeld und Waisenaltersgeld mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung |
 | § 15 | Kürzung des Altersgelds nach Ehescheidung |
 | § 16 | Verteilung der Altersgeldlasten |
-| § 17 | Evaluation |
+| § 17 | Übergangsregelungen aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes |

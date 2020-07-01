@@ -41,8 +41,7 @@ Beschränkung der Haftung
 
 - [§ 21 Aufgaben des Umweltgutachterausschusses](0021.md)
 - [§ 22 Mitglieder des Umweltgutachterausschusses](0022.md)
-- [§ 23 Geschäftsordnung, Vorsitz und Beschlussfassung des
-Umweltgutachterausschusses](0023.md)
+- [§ 23 Geschäftsordnung, Vorsitz und Beschlussfassung des Umweltgutachterausschusses](0023.md)
 - [§ 24 Widerspruchsbehörde](0024.md)
 - [§ 25 Widerspruchsverfahren](0025.md)
 - [§ 26 Geschäftsstelle](0026.md)

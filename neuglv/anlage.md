@@ -3,7 +3,7 @@
 | (Vorderseite) |  |
 |  |  |  |
 | An den |  |  |
-| Bundesminister des Innern |  |  |
+| Bundesminister des Innern, für Bau und Heimat |  |  |
 | Postfach 17 02 90 |  |  |
 | 5300 Bonn 1 | Lfd. Nr.: .................. |  |
 | Antrag auf Zulassung eines Volksbegehrens |

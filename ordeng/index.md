@@ -21,8 +21,7 @@ verliehene Orden und Ehrenzeichen
 
 - [§ 8 Verleihungsurkunde, Besitzzeugnis](0008.md)
 - [§ 9 Ersatzurkunde](0009.md)
-- [§ 10 Sonderbestimmungen für vor dem 8. Mai 1945 verliehene
-Auszeichnungen](0010.md)
+- [§ 10 Sonderbestimmungen für vor dem 8. Mai 1945 verliehene Auszeichnungen](0010.md)
 
 ## Vierter Abschnitt Ehrensold
 

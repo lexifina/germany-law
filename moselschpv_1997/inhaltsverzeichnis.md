@@ -25,7 +25,8 @@
 | § 1.19 | Besondere Anweisungen |
 | § 1.20 | Überwachung |
 | § 1.21 | Sondertransporte; Amphibienfahrzeuge; Militärfahrzeuge |
-| § 1.22 | Anordnungen vorübergehender Art |
+| § 1.22 | Anordnungen vorübergehender Art der zuständigen Behörde |
+| § 1.22a | Anordnungen vorübergehender Art der Moselkommission |
 | § 1.23 | Erlaubnis besonderer Veranstaltungen |
 | § 1.24 | Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze |
 | § 1.25 | Laden, Löschen und Leichtern |

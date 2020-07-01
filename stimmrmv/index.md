@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Form der Mitteilung](0002.md)
-- [§ 3 Übermittlung einer schriftlichen Mitteilung](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Elektronische Übermittlung einer Mitteilung an die Bundesanstalt](0004.md)
 - [§ 5 Nutzung der MVP](0005.md)
 - [§ 6 Elektronische Übermittlung einer Mitteilung an den Emittenten](0006.md)

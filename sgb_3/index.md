@@ -66,6 +66,7 @@ Versicherungspflichtige
 - [§ 29 Beratungsangebot](0029.md)
 - [§ 30 Berufsberatung](0030.md)
 - [§ 31 Grundsätze der Berufsberatung](0031.md)
+- [§ 31a Informationen an junge Menschen ohne Anschlussperspektive; erforderliche Datenerhebung und Datenübermittlung](0031a.md)
 - [§ 32 Eignungsfeststellung](0032.md)
 - [§ 33 Berufsorientierung](0033.md)
 - [§ 34 Arbeitsmarktberatung](0034.md)
@@ -381,7 +382,7 @@ Versicherungspflichtige
 Berichterstattung
 
 - [§ 280 Aufgaben](0280.md)
-- [§ 281 Arbeitsmarktstatistiken](0281.md)
+- [§ 281 Arbeitsmarktstatistiken, Verordnungsermächtigung](0281.md)
 - [§ 282 Arbeitsmarkt- und Berufsforschung](0282.md)
 - [§ 282a Übermittlung von Daten](0282a.md)
 - [§ 282b Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur](0282b.md)
@@ -713,3 +714,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern](0448.md)
 - [§ 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung](0449.md)
 - [§ 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0450.md)
+- [§ 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0451.md)

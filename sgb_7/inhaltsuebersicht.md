@@ -45,7 +45,7 @@
 |  | Leistungen nach Eintritt eines Versicherungsfalls |
 |  |
 |  |  | Erster Abschnitt |
-|  |  |  | Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen, Pflege, Geldleistungen |
+|  |  |  | Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Sozialen Teilhabe und ergänzende Leistungen, Pflege, Geldleistungen |
 |  |  |  |  |  | Erster Unterabschnitt |
 |  |  |  |  |  |  | Anspruch und Leistungsarten |
 | § 26 | Grundsatz |
@@ -64,8 +64,8 @@
 | § 35 | Leistungen zur Teilhabe am Arbeitsleben |
 | §§ 36 bis 38 | (weggefallen) |
 |  |  |  |  |  | Vierter Unterabschnitt |
-|  |  |  |  |  |  | Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen |
-| § 39 | Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen |
+|  |  |  |  |  |  | Leistungen zur Sozialen Teilhabe und ergänzende Leistungen |
+| § 39 | Leistungen zur Sozialen Teilhabe und ergänzende Leistungen |
 | § 40 | Kraftfahrzeughilfe |
 | § 41 | Wohnungshilfe |
 | § 42 | Haushaltshilfe und Kinderbetreuungskosten |

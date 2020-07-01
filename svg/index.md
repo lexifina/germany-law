@@ -63,6 +63,7 @@
 - [§ 18 Zweijahresfrist](0018.md)
 - [§ 19 (weggefallen)](0019.md)
 - [§ 20 Regelmäßige ruhegehaltfähige Dienstzeit](0020.md)
+- [§ 20a Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung](0020a.md)
 - [§ 21 Erhöhung der ruhegehaltfähigen Dienstzeit](0021.md)
 - [§ 22 Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst](0022.md)
 - [§ 23 Ausbildungszeiten](0023.md)
@@ -128,7 +129,7 @@
 - [§ 54 Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld](0054.md)
 - [§ 55 Zusammentreffen mehrerer Versorgungsbezüge aus dem öffentlichen Dienst](0055.md)
 - [§ 55a Zusammentreffen von Versorgungsbezügen und Renten](0055a.md)
-- [§ 55b Zusammentreffen von Versorgungsbezügen und Versorgung aus zwischenstaatlichen oder überstaatlichen Verwendungen](0055b.md)
+- [§ 55b Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung](0055b.md)
 - [§ 55c Kürzung der Versorgungsbezüge nach der Ehescheidung](0055c.md)
 - [§ 55d Abwendung der Kürzung der Versorgungsbezüge](0055d.md)
 - [§ 55e Anwendung des Bundesversorgungsteilungsgesetzes](0055e.md)
@@ -244,6 +245,7 @@
 - [§ 105 Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften](0105.md)
 - [§ 106 Übergangsregelungen aus Anlass des GKV-Versichertenentlastungsgesetzes sowie des Bundeswehr-Einsatzbereitschaftsstärkungsgesetzes](0106.md)
 - [§ 106a Sonderregelung für Einkommen aus Beschäftigungen zur Bewältigung der Auswirkungen der COVID-19-Pandemie](0106a.md)
+- [§ 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0107.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 
 (BGBl. II 1990, 889, 1146)

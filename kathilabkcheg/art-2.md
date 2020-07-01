@@ -2,7 +2,7 @@
 
 (1)
 Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Schweiz entstehen, trägt
-1. der Bund, soweit der Bundesminister des Innern Hilfe zugesagt hat,
+1. der Bund, soweit der Bundesminister des Innern, für Bau und Heimat Hilfe zugesagt hat,
 2. das jeweilige Land, soweit der Innenminister des Landes oder ein von ihm ermächtigter Regierungspräsident Hilfe zugesagt hat; landesrechtliche Bestimmungen über die Kostentragung innerhalb des Landes bleiben unberührt.
 (2)
 Absatz 1 gilt für Artikel 3 Abs. 2 des Abkommens entsprechend.

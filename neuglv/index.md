@@ -77,8 +77,7 @@ Briefabstimmungsergebnisses](0039.md)
 den Kreisen und kreisfreien Städten](0040.md)
 - [§ 41 Ermittlung und Feststellung des Abstimmungsergebnisses
 im Land](0041.md)
-- [§ 42 Abschließende Ermittlung und Feststellung des
-Abstimmungsergebnisses](0042.md)
+- [§ 42 Abschließende Ermittlung und Feststellung des Abstimmungsergebnisses](0042.md)
 - [§ 43 Niederschriften der Abstimmungsausschüsse](0043.md)
 - [§ 44 Bekanntgabe der endgültigen Abstimmungsergebnisse](0044.md)
 - [§ 45 Überprüfung der Abstimmung durch die Landesabstimmungsleiter

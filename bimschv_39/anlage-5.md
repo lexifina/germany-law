@@ -39,7 +39,7 @@ B. Mindestzahl der Probenahmestellen für ortsfeste Messungen, um zu beurteilen,
   | Sachsen-Anhalt | 2 |
   | Schleswig-Holstein | 1 |
   | Thüringen | 1. |
-  Die Länder teilen dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit die konkreten Standorte der betriebenen Probenahmestellen mit.
+  Die Länder teilen dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die konkreten Standorte der betriebenen Probenahmestellen mit.
 C. Mindestzahl der Probenahmestellen für ortsfeste Messungen, um zu beurteilen, ob die kritischen Werte zum Schutz der Vegetation in anderen Gebieten als Ballungsräumen eingehalten werden
   | Falls der maximale Wert die obere Beurteilungsschwelle überschreitet | Falls der maximale Wert zwischen der oberen und der unteren Beurteilungsschwelle liegt |
   | 1 Station je 20 000 km2 | 1 Station je 40 000 km2 |

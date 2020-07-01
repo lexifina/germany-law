@@ -40,13 +40,12 @@ Steuerpflichten
 - [§ 22 Gutachten](0022.md)
 - [§ 23 Sonstige Einzeltätigkeiten](0023.md)
 - [§ 24 Steuererklärungen](0024.md)
-- [§ 25 Ermittlung des Überschusses der Betriebseinnahmen über
-die Betriebsausgaben](0025.md)
+- [§ 25 Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben](0025.md)
 - [§ 26 Ermittlung des Gewinns aus Land- und Forstwirtschaft nach
 Durchschnittsätzen](0026.md)
 - [§ 27 Ermittlung des Überschusses der Einnahmen über die Werbungskosten](0027.md)
 - [§ 28 Prüfung von Steuerbescheiden](0028.md)
-- [§ 29 Teilnahme an Prüfungen](0029.md)
+- [§ 29 Teilnahme an Prüfungen und Nachschauen](0029.md)
 - [§ 30 Selbstanzeige](0030.md)
 - [§ 31 Besprechungen](0031.md)
 
@@ -61,8 +60,7 @@ Aufzeichnungspflichten
 - [§ 36 Steuerliches Revisionswesen](0036.md)
 - [§ 37 Vermögensstatus, Finanzstatus für steuerliche Zwecke](0037.md)
 - [§ 38 Erteilung von Bescheinigungen](0038.md)
-- [§ 39 Buchführungs- und Abschlußarbeiten für
-land- und forstwirtschaftliche Betriebe](0039.md)
+- [§ 39 Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe](0039.md)
 
 ## Sechster Abschnitt Gebühren für die Vertretung
 im außergerichtlichen Rechtsbehelfsverfahren und im
@@ -91,4 +89,4 @@ Verfahren
 - [Anlage 2 Tabelle B(Abschlusstabelle)](anlage-2.md)
 - [Anlage 3 Tabelle C(Buchführungstabelle)](anlage-3.md)
 - [Anlage 4 Tabelle D](anlage-4.md)
-- [Anlage 5 Tabelle E(Rechtsbehelfstabelle)](anlage-5.md)
+- [Anlage 5 (weggefallen)](anlage-5.md)

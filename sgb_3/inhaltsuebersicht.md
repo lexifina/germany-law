@@ -64,6 +64,7 @@
 | § 29 | Beratungsangebot |
 | § 30 | Berufsberatung |
 | § 31 | Grundsätze der Berufsberatung |
+| § 31a | Informationen an junge Menschen ohne Anschlussperspektive; erforderliche Datenerhebung und Datenübermittlung |
 | § 32 | Eignungsfeststellung |
 | § 33 | Berufsorientierung |
 | § 34 | Arbeitsmarktberatung |
@@ -375,7 +376,7 @@
 | Erster Abschnitt |
 | Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung |
 | § 280 | Aufgaben |
-| § 281 | Arbeitsmarktstatistiken |
+| § 281 | Arbeitsmarktstatistiken, Verordnungsermächtigung |
 | § 282 | Arbeitsmarkt- und Berufsforschung |
 | § 282a | Übermittlung von Daten |
 | § 282b | Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur |
@@ -694,3 +695,4 @@
 | § 448 | Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern |
 | § 449 | Gesetz zur Modernisierung und Stärkung der beruflichen Bildung |
 | § 450 | Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung |
+| § 451 | Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |

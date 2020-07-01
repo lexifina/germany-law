@@ -99,6 +99,6 @@ Kapitel II
   h) Anlage 4 Nr. 1, 2 und 3 in Verbindung mit § 3 (Grenzwert für Färbung, Trübung, Geruchsschwellenwert) tritt am 1. Oktober 1995 in Kraft.
   i) Anlage 4 Nr. 14 und 18 (Grenzwert für Eisen und Mangan) tritt am 1. Oktober 1995 in Kraft.
 Kapitel III
-  Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+  Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
 Verordnung über Schwefelgehalt von leichtem Heizöl und Dieselkraftstoff vom 15. Januar 1975 (BGBl. I S. 264), zuletzt geändert durch Verordnung vom 14. Dezember 1987 (BGBl. I S. 2671), mit folgender Maßgabe:
 Eine Ausnahme kann für Betreiber von Anlagen, die ihren Standort zum Zeitpunkt des Inkrafttretens des Einigungsvertrages in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatten, auch insoweit erteilt werden, als die Einhaltung des zulässigen Gehalts an Schwefelverbindungen für den Antragsteller eine unzumutbare Härte bedeuten würde. Sie darf nur für einen Schwefelgehalt bis zu höchstens 0,50 v.H. des Gewichts erteilt werden und ist längstens bis zum 31. Dezember 1994 zu befristen. Die Bewilligung ist im Hinblick auf eine rasche Verwirklichung des Verordnungsziels mit Auflagen zu versehen.

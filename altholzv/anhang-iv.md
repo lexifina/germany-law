@@ -127,7 +127,7 @@ Für die Qualitätssicherung der Analysenergebnisse sollen die Wiederfindungsrat
       Die Ergebnisse sind in Milligramm je Kilogramm Trockenmasse anzugeben.
     1.4.5 Bestimmung von polychlorierten Biphenylen (PCB)
       Die lufttrockene, gemahlene Altholzprobe wird nach Zugabe eines internen Standards mit n-Hexan im Soxhlet oder durch ein vergleichbares Extraktionsverfahren extrahiert. Im Extrakt enthaltene PCB-Kongenere werden durch geeignete Reinigungsschritte, insbesondere eine Kombination einer Benzolsulfonsäure-Trennsäule mit einer Silicagel-Säule, von störenden Begleitstoffen weitgehend befreit. Die Bestimmung der PCB-Kongenere (Ballschmiter Nr. 28, 52, 101, 138, 153, 180) erfolgt durch Kapillargaschromatographie mit Elektroneneinfangdetektor (ECD) in Anwendung von DIN 38414, Teil 20 (Ausgabe Januar 1996). Der Gesamtgehalt an PCB ergibt sich aus der Summe des für jedes der PCB-Kongenere ermittelten Massenanteils, bezogen auf die Trockenmasse der Altholzprobe, multipliziert mit dem Faktor fünf und auf 0,1 mg/kg gerundet.
-      Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann für die Bestimmung von polychlorierten Biphenylen andere wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.
+      Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann für die Bestimmung von polychlorierten Biphenylen andere wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.
     1.5 Andere Methoden
       Die zuständige Behörde soll andere Methoden zulassen, wenn deren Gleichwertigkeit nachgewiesen wird.
     2 Angabe und Berechnung der Ergebnisse

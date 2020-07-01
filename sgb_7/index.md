@@ -48,9 +48,7 @@ Dienst](0024.md)
 ## Drittes Kapitel Leistungen nach Eintritt eines Versicherungsfalls
 
 
-### Erster Abschnitt Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen
-zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen,
-Pflege, Geldleistungen
+### Erster Abschnitt Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Sozialen Teilhabe und ergänzende Leistungen, Pflege, Geldleistungen
 
 
 #### Erster Unterabschnitt Anspruch und Leistungsarten
@@ -73,10 +71,9 @@ Pflege, Geldleistungen
 - [§ 35 Leistungen zur Teilhabe am Arbeitsleben](0035.md)
 - [(XXXX) §§ 36 bis 38 (weggefallen)](xxxx-36-bis-38.md)
 
-#### Vierter Unterabschnitt Leistungen zur Teilhabe am Leben in der Gemeinschaft und
-ergänzende Leistungen
+#### Vierter Unterabschnitt Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
 
-- [§ 39 Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen](0039.md)
+- [§ 39 Leistungen zur Sozialen Teilhabe und ergänzende Leistungen](0039.md)
 - [§ 40 Kraftfahrzeughilfe](0040.md)
 - [§ 41 Wohnungshilfe](0041.md)
 - [§ 42 Haushaltshilfe und Kinderbetreuungskosten](0042.md)
@@ -404,8 +401,7 @@ von Renten](0190.md)
 ### Zweiter Abschnitt Beziehungen der Unfallversicherungsträger zu Dritten
 
 - [§ 191 Unterstützungspflicht der Unternehmer](0191.md)
-- [§ 192 Mitteilungs- und Auskunftspflichten von Unternehmern
-und Bauherren](0192.md)
+- [§ 192 Mitteilungs- und Auskunftspflichten von Unternehmern und Bauherren](0192.md)
 - [§ 193 Pflicht zur Anzeige eines Versicherungsfalls durch die Unternehmer](0193.md)
 - [§ 194 Meldepflicht der Eigentümer von Seeschiffen](0194.md)
 - [§ 195 Unterstützungs- und Mitteilungspflichten von Kammern und der für die Erteilung einer Gewerbe- oder Bauerlaubnis zuständigen Behörden](0195.md)
