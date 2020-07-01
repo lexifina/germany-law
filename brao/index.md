@@ -240,7 +240,7 @@
 - [§ 121 Einleitung des anwaltsgerichtlichen Verfahrens](0121.md)
 - [§ 122 Gerichtliche Entscheidung über die Einleitung des Verfahrens](0122.md)
 - [§ 123 Antrag des Rechtsanwalts auf Einleitung des anwaltsgerichtlichen Verfahrens](0123.md)
-- [(XXXX) §§ 124 - 129 (weggefallen)](xxxx-124-129.md)
+- [(XXXX) §§ 124 bis 129 (weggefallen)](xxxx-124-bis-129.md)
 - [§ 130 Inhalt der Anschuldigungsschrift](0130.md)
 - [§ 131 Entscheidung über die Eröffnung des Hauptverfahrens vor dem Anwaltsgericht](0131.md)
 - [§ 132 Rechtskraftwirkung eines ablehnenden Beschlusses](0132.md)
