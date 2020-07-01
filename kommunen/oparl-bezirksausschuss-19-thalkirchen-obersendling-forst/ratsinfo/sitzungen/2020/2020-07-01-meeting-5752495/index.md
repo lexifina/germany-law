@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-07-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 2.3.: Umbenennung des Unterausschusses Baumschutz und Umwelt
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 26.05.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.4.: -NACHTRAG- Umbenennung des Unterausschusses Verkehr
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München-Solln e.V. Aufstellung von Plakatwänden am 25.06.2020 8.278,92 €, AZ: 0262.0-19-0332
+- TOP 3.3.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-19-0331
+- TOP 3.4.: Sommer in der Stadt - Finanzierung von Kulturveranstaltungen
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Werbeanlagen Boschetsrieder Straße
+- TOP 4.4.: (A) Wertstoffcontainerstandort: Becker-Gundahl-Straße
+- TOP 4.5.: (Antrag) Der Oasenbrunnen - eine unendliche Geschichte
+- TOP 4.6.: - NACHTRAG - (Antrag) Versetzung Wertstoffcontainer Springerstraße
+- TOP 4.7.: - NACHTRAG -(Antrag) Ökologische Aufwertung des Rasenmittelstreifens Boschetsrieder Straße
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Wendemöglichkeit für PKW in der Aidenbachstraße
+- TOP 5.2.: (Antrag) Entfernung Kopfsteinpflaster Zielstattstraße 2a
+- TOP 5.3.: (Antrag) Schulwegsicherheit Fußgängerüberweg Zielstattstraße
+- TOP 5.4.: (A) Planfeststellungsverfahren Trambahn-Westtangente
+- TOP 5.5.: (Antrag) Fußwegsicherung im Bereich Wolfratshauser Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: PKW-Parken Hofmannstraße
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Sonderparkplatz Geigenbergerstraße
+- TOP 5.8.: (U) Genehmigte Freischankflächen
+- TOP 5.9.: (Antrag) Anordnung Wochenmarkt Fellererplatz
+- TOP 5.10.: (E) Barrierefreier Ausbau Bushaltestelle Wilhelm-Busch-Straße
+- TOP 5.11.: (Antrag) Fahrradübergang Sankt-Wendel-Straße zur Siemensallee
+- TOP 5.12.: (Anfrage) Alternativer Zugang für Schüler zur Förderschule Allescher Straße
+- TOP 5.13.: - NACHTRAG - (Antrag) Sicherungsmaßnahmen Christel-Küpper-Platz
+- TOP 5.14.: - NACHTRAG - (A) Kurzfristige Maßnahmen für Fußgänger in Corona-Zeiten
+- TOP 5.15.: - NACHTRAG - (Antrag) Schulwegsicherung für die Grundschule an der Forstenrieder Allee
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: Bebauungsplanverfahren 2139 Machtlfinger Straße - frühzeitige Öffentlichkeitsbeteiligung
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Bestellung städtischer Leistung: Spielhäuschen für Kleinkinder am Spielplatz Sollner Hügel
+- TOP 7.1.2: Bürgerbüro Forstenrieder Allee
+- TOP 7.2.: (Antrag) Provisorisches Container-Schulgebäude Grundschule Baierbrunner Straße
+- TOP 7.3.: Standortverlegung Präventionsautomat Aidenbachstraße
+- TOP 7.4.: (A) Sportentwicklungsplanung für München - Planungsgebiet Südwest
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
