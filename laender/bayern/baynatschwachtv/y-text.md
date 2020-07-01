@@ -1,0 +1,1 @@
+Auf Grund des Art. 43 Abs. 5 des Bayerischen Naturschutzgesetzes (BayNatSchG) erläßt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen im Einvernehmen mit den Bayerischen Staatsministerien des Innern, der Finanzen und der Justiz folgende Verordnung:
