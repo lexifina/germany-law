@@ -1,0 +1,83 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-07-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774088
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774088
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 10.: Sonstiges
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: Einführen von Zufahrtskontrollen zum Olympiadorf bei Großveranstaltungen im Olympiapark
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Bushaltestelle Röblingweg (Richtung Feldmoching): Aufstellung eines Wartehäuschens mit Beleuchtung und einem großen Abfallbehälter
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt; Einrichtung: Riva Nord Klima-Campus 2020 vom 10.-12.07.2020 3.075,00€; Az. 0262.0-11-0387
+- TOP 6.1.2.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH FamilyOpenAir vom 30.05.-30.08.2020 3.133,43€; Az. 0262.0-11-0383
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Wunderbuch 2.0“ für Grundschulkinder „Wunderbuch 2.0 live oder kontaktlos“ vom 01.10.2020-01.06.2021 900,00 €, Az: 0262.0-11-0392
+- TOP 6.1.4.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-11-0391
+- TOP 6.1.5.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl vom 04.-13.09.2020 und Artmobil vom 11.-13.09.2020 3.633,00 €; Az. 0262.0-11-0389
+- TOP 6.1.6.: SB-Budget: Finanzielle Unterstützung für lokale Kleinkünstlerinnen und -künstler (Wanderbühne) im Rahmen des Projekts „Sommer in der Stadt“
+- TOP 6.2.1.: Erhöhen der Betreuungsschlüssel an städt. Kitas und Kindergärten BV-Empfehlung Nr. 14-20 / E 02160 der Bürgervers. des 11. SB vom 19.07.2018 Sitzungsvorlage Nr. 14-20 / V00343
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Veranstaltungsort-Regelung im Plenumsjahr 2021 in der nördlichen Hälfte des 11. Stadtbezirkes (Am Hart / Harthof / Nordhaide)
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.2.1.: Lebendige Straßen: Platz zum Spielen, Flanieren und Verweilen durch temporäre Nachbarschaftsstraßen im Stadtbezirk 11
+- TOP 7.2.2.: Inhalte von Meldelisten vollständig auf die Tagesordnung setzen
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Moosacher Straße - Maßnahmen zur Konfliktvermeidung zwischen Fuß- und Radweg veranlassen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Kontaktdaten des BA 11: Bitte um Richtigkeitskontrolle und Abklärung der Alfresco-Einstellung sowie Weitergabe an Dritte bei den BA-Mitgliedern mit Leitungsfunktionen
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Oberhofer Platz 8 - 10 a) Bauvorhaben: Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks – Vorbescheid b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Anhalter Str. 6 Bauvorhaben: Neubau eines Wohnheimes mit 27 Betten (Integrative Wohngruppe) und Tiefgarage
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Sommer in der Stadt - Unterstützung der Münchner Schausteller*innen in der Corona-Zeit
+- TOP 8.3.2.: Finanzielle Unterstützung für lokale Kleinkünstlerinnen und -künstler (Wanderbühne) im Rahmen des Projekts „Sommer in der Stadt“
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Lichtsignalanlagen (LSA) und verkehrsrechtliche Anordnungen nach § 45 StVO a) Hufeland-/Knorrstraße - Austausch von LSA b) Knorr-/Max-Diamand-Straße - Austausch von LSA c) Christoph-Schmid-Straße - Anfahrtszone für das Haus für Kinder d) Bertholdstraße - Öffnung für den gegenläufigen Radverkehr (Einbahnstraße)
+- TOP 8.4.2.: Erinnerungsverfahren: Schleißheimer Straße - Radwegsanierung
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2.: Unveränderte Fortführung eines Gaststättenbetriebes: "Pizza e Birra" - Riesenfeldstraße 14
+- TOP 9.1.3.: BA-Sitzungen im Live-Stream
+- TOP 9.1.4.: Stadtbezirksbudget: Erhöhung des Anteils für eigene Veranstaltungen
+- TOP 9.1.5.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte
+- TOP 9.1.6.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP 9.1.7.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung - Freiligrathstraße / Torquato-Tasso-Straße vom 17.04. bis 30.07.2020
+- TOP 9.2.2.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 9.2.3.: Meldelisten Bauvorhaben vom 06.04.2020 - 07.06.2020
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Am Oberwiesenfeld (Westseite) - Anfahrtszone für das H2-Hotel b) Am Oberwiesenfeld 35 - Anfahrtszone für den Kindergarten c) Schopenhauerstraße - Anordnung eines absoluten Haltverbots
+- TOP 9.4.2.: Neuherbergstraße - Rücksetzung Haltlinie Abbiegespur
+- TOP 9.4.3.: Arbeiten im Straßenraum: Kämpferstraße - Neubau einer Fernwärmeleitung
+- TOP 9.4.4.: (U) Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Hinweis: Alte SV-Nr. 14-20 / V 17336
+- TOP 9.4.5.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 9.5.1.: (U) Regionale und städtische Grünzüge als Landschaftsschutzgebiete bzw. geschützte Landschaftsbestandteile ausweisen Antrag Nr. 14-20 / A 02941 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.03.2017, eingegangen am 09.03.2017
+- TOP 9.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
