@@ -14,9 +14,9 @@ Individuell zurechenbare öffentliche Leistungen nach dem AEG
 | 1.7 | Protokollpflichtige Prüfung bestimmter Bauteile oder Bauarbeiten und Ausstellen einer entsprechenden Bescheinigung bei verantwortlich veranlasstem oder begründetem Verdacht oder auf Antrag | § 5a Abs. 2 AEG | nach Zeitaufwand |
 | 1.8 | Genehmigung eines Eisenbahnverkehrsunternehmens, Halters oder eines Eisenbahninfrastrukturunternehmens | § 6 AEG | 5 000 Euro |
 | 1.9 | Änderung einer Genehmigung eines Eisenbahnverkehrsunternehmens, Halters oder eines Eisenbahninfrastrukturunternehmens | § 6 AEG | 2 500 Euro |
-| 1.10 | Erteilung oder Verlängerung einer Sicherheitsbescheinigung | § 7a Abs. 2 und 7 AEG | nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro |
-| 1.11 | Erteilen einer nationalen Bescheinigung | § 7a Abs. 4 AEG | nach Zeitaufwand |
-| 1.12 | Erteilung oder Verlängerung einer Sicherheitsgenehmigung | § 7c Abs. 2 und 4 AEG | nach Zeitaufwand, mindestens 600 und höchstens 100 000 Euro |
+| 1.10 | (weggefallen) |  |  |
+| 1.11 | (weggefallen) |  |  |
+| 1.12 | (weggefallen) |  |  |
 | 1.13 | (weggefallen) |  |  |
 | 1.14 | Entscheidung über die Erlaubnis zur Aufnahme des Betriebs | § 7f AEG | nach Zeitaufwand |
 | 1.15 | Entscheidung über die Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen | § 11 AEG | 3 000 Euro |
@@ -25,8 +25,7 @@ Individuell zurechenbare öffentliche Leistungen nach dem AEG
 | 1.18 | Anerkennung und Überwachung einer bestimmten Stelle | § 5 Abs. 1d Satz 1 Nr. 1 Buchstabe b AEG | nach Zeitaufwand |
 | 1.19 | Anerkennung und Überwachung einer Bewertungsstelle | § 5 Abs. 1d Satz 1 Nr. 2 AEG | nach Zeitaufwand |
 | 1.20 | Anerkennung und Überwachung eines Prüfsachverständigen | § 4b Abs. 1 Satz 2und 3 AEG | nach Zeitaufwand |
-| 1.21 | Erteilung einer Instandhaltungsstellenbescheinigung | § 7g Abs. 1 und 2 AEG | nach Zeitaufwand, mindestens 1 200 und höchstens 140 000 Euro |
-| 1.22 | Erteilung einer Bescheinigung über Instandhaltungsfunktionen | § 7g Abs. 3 AEG | nach Zeitaufwand, mindestens 1 000 und höchstens 100 000 Euro |
+| 1.21 | Anerkennung und Überwachung einer Zertifizierungsstelle | § 5 Abs. 1d Satz 1 Nr. 3 AEG | nach Zeitaufwand |
 Abschnitt 2
 Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V. m. VwVfG
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
@@ -69,68 +68,42 @@ Individuell zurechenbare öffentliche Leistungen nach der EIBV
 | 5.1 | Zustimmung zur Erhebung von Entgelten bei mangelnder Fahrwegkapazität | § 18 Abs. 4 EIBV | nach Zeitaufwand |
 | 5.2 | Ausnahmegenehmigung nach § 14 Abs. 4 AEG | § 22 Abs. 1 Nr. 1 EIBV | nach Zeitaufwand |
 Abschnitt 6
-Individuell zurechenbare öffentliche Leistungen nach der TEIV
+Individuell zurechenbare öffentliche Leistungen nach der ESiV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
-| 6.1 | Zulassung von Ausnahmen zur Anwendung bestimmter TSI im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 5 Abs. 1 TEIV | nach Zeitaufwand |
-| 6.2 | Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im Ingenieurbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 3 TEIV | nach Tafel 2 des Anhangs |
-| 6.3 | Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im Oberbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 3 TEIV | nach Tafel 3 des Anhangs |
-| 6.4 | Genehmigung der Inbetriebnahme eines strukturellen Teilsystems im Hochbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 3 TEIV | nach Tafel 4 des Anhangs |
-| 6.5 | Genehmigung der Inbetriebnahme im Anwendungsbereich des transeuropäischen Eisenbahnsystems, soweit nicht von den Nummern 6.2 bis 6.4 erfasst | § 6 Abs. 3 TEIV | nach Zeitaufwand |
-| 6.6 | Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im Ingenieurbau, für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 4 TEIV | nach Tafel 2 des Anhangs |
-| 6.7 | Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im Oberbau, für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 4 TEIV | nach Tafel 3 des Anhangs |
-| 6.8 | Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems im Hochbau, für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 4 TEIV | nach Tafel 4 des Anhangs |
-| 6.9 | Genehmigung für die Inbetriebnahme eines strukturellen Teilsystems, für das keine TSI vorliegt, im Anwendungsbereich des transeuropäischen Eisenbahnsystems, soweit nicht von den Nummern 6.6 bis 6.8 erfasst | § 6 Abs. 4 TEIV | nach Zeitaufwand |
-| 6.10 | Genehmigung für Probefahrten im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 6 Abs. 7 TEIV | nach Zeitaufwand |
-| 6.11 | Serienzulassung | § 7 Abs. 2 TEIV | nach Zeitaufwand |
-| 6.12 | Zulassung für eine Fahrzeugvariante | § 7a Abs. 1 Satz 2 und 3 TEIV | nach Zeitaufwand |
-| 6.13 | Serienzulassung für eine Fahrzeugvariante | § 7a Abs. 2 Satz 2 TEIV | nach Zeitaufwand |
-| 6.14 | Allgemeine Genehmigung von Fahrzeugtypen | § 7b Abs. 1, 2 und 3 TEIV | nach Zeitaufwand |
-| 6.15 | Genehmigung für weitere Fahrzeuge eines zugelassenen Fahrzeugtyps | § 7b Abs. 4 TEIV | nach Zeitaufwand |
-| 6.16 | Vereinfachte Genehmigung für die Inbetriebnahme für ausländische Fahrzeuge im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 8 Abs. 1 TEIV | nach Zeitaufwand |
-| 6.17 | Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder erneuerten strukturellen Teilsystems im Ingenieurbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 9 Abs. 1 TEIV | nach Tafel 2 des Anhangs |
-| 6.18 | Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder erneuerten strukturellen Teilsystems im Oberbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 9 Abs. 1 TEIV | nach Tafel 3 des Anhangs |
-| 6.19 | Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder erneuerten strukturellen Teilsystems im Hochbau im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 9 Abs. 1 TEIV | nach Tafel 4 des Anhangs |
-| 6.20 | Genehmigung für die Inbetriebnahme eines umfangreich umgerüsteten oder erneuerten strukturellen Teilsystems im Anwendungsbereich des transeuropäischen Eisenbahnsystems oder Versagung des Genehmigungserfordernisses für die Inbetriebnahme eines umgerüsteten oder erneuerten strukturellen Teilsystems im Anwendungsbereich des transeuropäischen Eisenbahnsystems, soweit nicht von den Nummern 6.15 bis 6.17 erfasst | § 9 Abs. 1 TEIV | nach Zeitaufwand |
-| 6.21 | Überwachung der Konformität und Gebrauchstauglichkeit von Interoperabilitätskomponenten im Anwendungsbereich des transeuropäischen Eisenbahnsystems auf Grund eines Verdachts, einer Beschwerde oder zum Zwecke einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | § 5a Abs. 2 AEG i. V. m. § 11 TEIV | nach Zeitaufwand |
-| 6.22 | Einstellung eines Fahrzeuges in das Fahrzeugeinstellungsregister | § 20 Abs. 2 TEIV | 50 Euro |
-| 6.23 | Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 20 Abs. 2 TEIV | 35 Euro je Fahrzeug |
-| 6.24 | Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 20 Abs. 2 TEIV | 30 Euro je Fahrzeug |
-| 6.25 | Einstellung von über 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 20 Abs. 2 TEIV | 25 Euro je Fahrzeug |
-| 6.26 | Elektronische Übernahme der Daten von Fahrzeugen aus den Fahrzeugregistern von Eisenbahnen in das Fahrzeugeinstellungsregister (NVR), soweit für die Fahrzeuge nicht im Rahmen einer Inbetriebnahmegenehmigung bereits Fahrzeugnummern vom NVR erteilt worden sind | § 20 Abs. 3 TEIV | 8 Euro je Fahrzeug |
-| 6.27 | Änderung und Ergänzung von Daten im NVR außerhalb eines standardisierten Antragsverfahrens | § 20 Abs. 4 TEIV | nach Zeitaufwand |
-| 6.28 | Änderung und Ergänzung von Daten im NVR mittels standardisiertem Antragsverfahren für gleichartige Fahrzeuge in beliebiger Anzahl | § 20 Abs. 4 TEIV | 10 Euro je Fahrzeug, höchstens 5 000 Euro je Antrag |
+| 6.1 | Bearbeitung von Vorbereitungsanträgen | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 3 Abs. 2 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand,mindestens 600 undhöchstens 75 000 Euro |
+| 6.2 | Erteilung oder Erneuerung einer Sicherheitsbescheinigung | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 8 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand,mindestens 600 undhöchstens 75 000 Euro |
+| 6.3 | Erteilung oder Erneuerung einer Sicherheitsgenehmigung | § 14 und § 16 Abs. 3 ESiV | nach Zeitaufwand,mindestens 600 undhöchstens 100 000 Euro |
 Abschnitt 7
 Individuell zurechenbare öffentliche Leistungen nach der EIGV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
-| 7.1 | Zulassung von Ausnahmen zur Anwendung bestimmter TSI | § 5 Abs. 1 EIGV | nach Zeitaufwand |
-| 7.2 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Ingenieurbau | § 9 Abs. 1 oder § 10 EIGV | nach Tafel 2 des Anhangs |
-| 7.3 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Oberbau | § 9 Abs. 1 oder § 10 EIGV | nach Tafel 3 des Anhangs |
-| 7.4 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Hochbau | § 9 Abs. 1 oder § 10 EIGV | nach Tafel 4 des Anhangs |
-| 7.5 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen | § 9 Abs. 1 oder § 10 EIGV | nach Zeitaufwand |
-| 7.6 | Genehmigung der Inbetriebnahme eines strukturellen Teilsystems, soweit nicht von den Nummern 7.2 bis 7.5 erfasst | § 9 Abs. 1 oder § 10 EIGV | nach Zeitaufwand |
-| 7.7 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Ingenieurbau | § 14 Abs. 2 EIGV | nach Tafel 2 des Anhangs |
-| 7.8 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Oberbau | § 14 Abs. 2 EIGV | nach Tafel 3 des Anhangs |
-| 7.9 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Hochbau | § 14 Abs. 2 EIGV | nach Tafel 4 des Anhangs |
-| 7.10 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen | § 14 Abs. 2 EIGV | nach Zeitaufwand |
-| 7.11 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV umgerüsteten oder erneuerten strukturellen Teilsystems oder Versagung des Genehmigungserfordernisses für die Inbetriebnahme eines umgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems, soweit nicht von den Nummern 7.7 bis 7.10 erfasst | § 14 Abs. 2 EIGV | nach Zeitaufwand |
-| 7.12 | Genehmigung für Probefahrten | § 16 Abs. 5 EIGV | nach Zeitaufwand |
-| 7.13 | Genehmigung einer Fahrzeugserie | § 18 Abs. 2 EIGV | nach Zeitaufwand |
-| 7.14 | Genehmigung einer Fahrzeugvariante | § 19 Abs. 2 EIGV | nach Zeitaufwand |
-| 7.15 | Genehmigung einer Fahrzeugserie für eine Fahrzeugvariante | § 19 Abs. 3 EIGV | nach Zeitaufwand |
-| 7.16 | Genehmigung eines Fahrzeugtyps | § 20 Abs. 2 oder 3 EIGV | nach Zeitaufwand |
-| 7.17 | Genehmigung weiterer Fahrzeuge eines zugelassenen Fahrzeugtyps | § 20 Abs. 4 EIGV | nach Zeitaufwand |
-| 7.18 | Genehmigung einer örtlich und zeitlich beschränkten Inbetriebnahme von Fahrzeugen mit ausländischer Zulassung | § 21 Abs. 5 EIGV | nach Zeitaufwand |
-| 7.19 | Zulassung von Bauprodukten und Bauarten | § 26 Abs. 3 EIGV | nach Zeitaufwand |
-| 7.20 | Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen | § 27 Abs. 3 EIGV | nach Zeitaufwand |
-| 7.21 | Überwachung der Konformität und Gebrauchstauglichkeit von Interoperabilitätskomponenten auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | §§ 28 und 25 EIGV | nach Zeitaufwand |
-| 7.22 | Überwachung von Bauprodukten und Bauarten sowie sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | § 28 EIGV | nach Zeitaufwand |
-| 7.23 | Einstellung eines Fahrzeugs in das Fahrzeugeinstellungsregister | § 38 Abs. 2 EIGV | 50 Euro |
-| 7.24 | Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 EIGV | 35 Euro je Fahrzeug |
-| 7.25 | Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 EIGV | 30 Euro je Fahrzeug |
-| 7.26 | Einstellung von über 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 EIGV | 25 Euro je Fahrzeug |
-| 7.27 | Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister außerhalb eines standardisierten Antragsverfahrens | § 38 Abs. 3 oder 4 EIGV | nach Zeitaufwand |
-| 7.28 | Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister mittels standardisierten Antragsverfahrens für gleichartige Fahrzeuge in beliebiger Anzahl | § 38 Abs. 3 oder 4 EIGV | 10 Euro je Fahrzeug; höchstens 5 000 Euro je Antrag |
-| 7.29 | Einstellung von Fahrzeugen in das Fahrzeugeinstellungsregister, die nach anderen eisenbahnrechtlichen Vorschriften ohne bisherige Registrierungspflicht in Betrieb genommen worden sind | § 42 Abs. 6 EIGV | 8 Euro je Fahrzeug |
+| 7.1 | Zulassung von Ausnahmen zur Anwendung bestimmter TSI | § 5 i. V. m. § 5a Abs. 7 EIGV | nach Zeitaufwand |
+| 7.2 | Bearbeitung von Vorbereitungsanträgen | § 11 Abs. 1 EIGV i. V. m. Art. 22 Abs. 1 der Durchführungsverordnung (EU) 2018/545 | nach Zeitaufwand |
+| 7.3 | Genehmigung für das Inverkehrbringen von Fahrzeugen oder Erteilung einer Fahrzeugtypgenehmigung | § 11 Abs. 1 oder § 12 Abs. 1 EIGV i. V. m. Art. 46 Abs. 2 der Durchführungsverordnung (EU) 2018/545 | nach Zeitaufwand |
+| 7.4 | Überwachung von Fahrzeugen auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | § 13 Abs. 1 oder Abs. 4 EIGV i. V. m. Art. 53 der Durchführungsverordnung (EU) 2018/545 | nach Zeitaufwand |
+| 7.5 | Genehmigung von Probefahrten | § 15 Abs. 6 EIGV | nach Zeitaufwand |
+| 7.6 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Ingenieurbau | § 16 Abs. 1 oder § 17 EIGV | nach Tafel 2 des Anhangs |
+| 7.7 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Oberbau | § 16 Abs. 1 oder § 17 EIGV | nach Tafel 3 des Anhangs |
+| 7.8 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Hochbau | § 16 Abs. 1 oder § 17 EIGV | nach Tafel 4 des Anhangs |
+| 7.9 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen | § 16 Abs. 1 oder § 17 EIGV | nach Zeitaufwand |
+| 7.10 | Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems, soweit nicht von den Nummern 7.6 bis 7.9 erfasst | § 16 Abs. 1 oder § 17 EIGV | nach Zeitaufwand |
+| 7.11 | Erteilung einer Zustimmung im Einzelfall | § 18 Abs. 5 Satz 4 EIGV | nach Zeitaufwand |
+| 7.12 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Ingenieurbau | § 20 EIGV | nach Tafel 2 des Anhangs |
+| 7.13 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Oberbau | § 20 EIGV | nach Tafel 3 des Anhangs |
+| 7.14 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Hochbau | § 20 EIGV | nach Tafel 4 des Anhangs |
+| 7.15 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen | § 20 EIGV | nach Zeitaufwand |
+| 7.16 | Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten strukturellen Teilsystems oder Versagung der Genehmigung der Inbetriebnahme eines aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems, soweit nicht von den Nummern 7.12 bis 7.15 erfasst | § 20 EIGV | nach Zeitaufwand |
+| 7.17 | Zulassung von Bauprodukten und Bauarten | § 26 Abs. 3 EIGV | nach Zeitaufwand |
+| 7.18 | Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen | § 27 Abs. 3 EIGV | nach Zeitaufwand |
+| 7.19 | Überwachung der Konformität und Gebrauchstauglichkeit von Interoperabilitätskomponenten auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | §§ 28 und 25 oder § 28 EIGV | nach Zeitaufwand |
+| 7.20 | Überwachung von Bauprodukten und Bauarten sowie sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | § 28 EIGV | nach Zeitaufwand |
+| 7.21 | Einstellung eines Fahrzeugs in das Fahrzeugeinstellungsregister | § 38 Abs. 2 oder § 38a Abs. 2 EIGV | 50 Euro |
+| 7.22 | Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 oder § 38a Abs. 2 EIGV | 35 Euro je Fahrzeug |
+| 7.23 | Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 oder § 38a Abs. 2 EIGV | 30 Euro je Fahrzeug |
+| 7.24 | Einstellung von über 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister | § 38 Abs. 2 oder § 38a Abs. 2 EIGV | 25 Euro je Fahrzeug |
+| 7.25 | Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister außerhalb eines standardisierten Antragsverfahrens | § 38 Abs. 3 oder 4 EIGV | nach Zeitaufwand |
+| 7.26 | Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister mittels eines standardisierten Antragsverfahrens für gleichartige Fahrzeuge in beliebiger Anzahl | § 38 Abs. 3 oder 4 oder § 38a Abs. 2 EIGV | 10 Euro je Fahrzeug; höchstens 5 000 Euro je Antrag |
+| 7.27 | Einstellung eines Fahrzeugs in das Europäische Register genehmigter Fahrzeugtypen | § 40 Abs. 1 oder 5 EIGV | nach Zeitaufwand |
+| 7.28 | Einstellung von Fahrzeugen in das Fahrzeugeinstellungsregister, die nach anderen eisenbahnrechtlichen Vorschriften ohne bisherige Registrierungspflicht in Betrieb genommen worden sind | § 42 Abs. 1 EIGV | 8 Euro je Fahrzeug |
 Abschnitt 8
 Individuell zurechenbare öffentliche Leistung nach dem ArbSchG
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
@@ -179,6 +152,10 @@ Gebühren für individuell zurechenbare öffentliche Leistungen der benannten St
 | 2 | EG-Prüfung eines Teilsystems und Ausstellen einer entsprechenden Bescheinigung im Anwendungsbereich des transeuropäischen Eisenbahnsystems | § 15 Abs. 1 Satz 1 Nr. 2 oder Satz 2 oder 3 TEIV | nach Zeitaufwand |
 | 3 | Bewertung der Konformität und Gebrauchstauglichkeit einer Interoperabilitätskomponente und Ausstellen einer entsprechenden Bescheinigung | § 33 Abs. 1 Satz 1 Nr. 1 EIGV | nach Zeitaufwand |
 | 4 | EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer entsprechenden Bescheinigung | § 33 Abs. 1 Satz 1 Nr. 2 oder Abs. 2 Satz 1 oder 2 EIGV | nach Zeitaufwand |
+Teil IV
+Gebühren für individuell zurechenbare öffentliche Leistungen der bestimmten Stelle
+| Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
+| 1 | EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer entsprechenden Bescheinigung | § 34 Abs. 1 Satz 1 EIGV | nach Zeitaufwand |
 Anhang zum Gebührenverzeichnis
 Anwendung der Gebührentafeln
 1. Die Gebührenbemessung für die Nummern 2.1 bis 2.4 und 2.6 bis 2.10 richtet sich nach den Baukosten und den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen.

@@ -1,3 +1,3 @@
-# Gesetz zur Nichtanrechnung des Kinderbonus
+# Gesetz zur Nichtanrechnung und Nichtberücksichtigung des Kinderbonus
 
 - [(XXXX)](xxxx.md)

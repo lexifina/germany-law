@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 6 Absatz 4)Übrige Eisenbahninfrastruktur
+# Anlage 2 (zu § 6 Absatz 2)Übrige Eisenbahninfrastruktur
 
 1. Ingenieurbau-, Oberbau- und Hochbau-Anlagen
 1.1 Ingenieurbau

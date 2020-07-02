@@ -1,4 +1,4 @@
-# Anlage 6 (zu § 22 Absatz 2 und § 23)Unterlagen zum Antrag auf Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur
+# Anlage 6 (zu § 18 Absatz 1 und § 21)Unterlagen zum Antrag auf Inbetriebnahmegenehmigung
 
 1. Allgemeiner Teil
 1.1 Beschreibung der in Betrieb zu nehmenden Anlagen
@@ -15,11 +15,10 @@
 1.4 Inbetriebnahmeverantwortlicher oder anderer geeigneter Mitarbeiter*
   Benennung des Inbetriebnahmeverantwortlichen oder eines anderen geeigneten Mitarbeiters unter Angabe des Datums der Ernennung durch das jeweilige Eisenbahnunternehmen sowie der Fachbereiche und der Zuordnung der Inbetriebnahmeverantwortlichen oder anderen geeigneten Mitarbeiter zu den konkreten Anlagen.
 2. Unterlagen zu den strukturellen Teilsystemen**
-2.1 Unterlagen gemäß Anlage 3,
-2.2 Konformitätserklärungen der Interoperabilitätskomponenten in Kopie,
-2.3 Liste der Ausnahmegenehmigungen nach § 5 oder Artikel 7 der Richtlinie 2008/57/EG und den Technischen Spezifikationen für die Interoperabilität,
-2.4 Liste der Ausnahmen von den Technischen Spezifikationen für die Interoperabilität nach § 5 im Fall von Umrüstungen oder Erneuerungen und
-2.5 Erklärungen und Unterlagen zur Anwendung der Durchführungsverordnung (EU) Nr. 402/2013.
+2.1 Konformitätserklärungen der Interoperabilitätskomponenten in Kopie,
+2.2 Liste der Ausnahmegenehmigungen nach § 5 oder Artikel 7 der Richtlinie (EU) 2016/797 und den Technischen Spezifikationen für die Interoperabilität,
+2.3 Liste der Ausnahmen von den Technischen Spezifikationen für die Interoperabilität nach § 5 im Fall von Aufrüstungen oder Erneuerungen und
+2.4 Erklärungen und Unterlagen zur Anwendung der Durchführungsverordnung (EU) Nr. 402/2013.
 3. Anlagenbezogener Teil
   Anlagenbezogen sind folgende Angaben zu machen:
 3.1 Anzuwendendes Regelwerk*

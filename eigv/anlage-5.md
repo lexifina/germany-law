@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 14 Absatz 1)Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
+# Anlage 5 (zu § 9 Absatz 4)Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
 
 1. Allgemeines
   Zu den Instandhaltungsarbeiten zählt neben den in den einzelnen Teilsystemen genannten Maßnahmen der 1:1-Austausch von Bauprodukten und Bauarten in den Teilsystemen Infrastruktur, Energie und in der übrigen Eisenbahninfrastruktur. Satz 1 gilt auch für das Teilsystem streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie Telekommunikationsanlagen der entsprechenden übrigen Eisenbahninfrastruktur, wenn:

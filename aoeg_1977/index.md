@@ -192,6 +192,9 @@ Mineralgewinnungsrechte
 ### Art 97
 
 
+### Art 97
+
+
 ### Art 97a Überleitungsregelungen aus Anlaß
 der Herstellung der Einheit Deutschlands
 

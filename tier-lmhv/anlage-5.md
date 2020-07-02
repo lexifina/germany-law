@@ -35,7 +35,7 @@ Bei der Herstellung und Behandlung von Hackfleisch und Fleischzubereitungen sind
 2.1.1 in zugelassenen Schlachthöfen gewonnen oder behandelt worden ist,
 2.1.2 in zugelassenen Zerlegungsbetrieben, zugelassenen Wildbearbeitungsbetrieben oder Betrieben des Einzelhandels bearbeitet oder behandelt worden ist,
 2.1.3 von einem Jäger im Rahmen der Regelung des Artikels 1 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 852/2004 oder des Artikels 1 Absatz 3 Buchstabe e der Verordnung (EG) Nr. 853/2004 als Haarwild in der Decke oder Federwild im Federkleid oder im Rahmen der Regelung des Artikels 1 Absatz 3 Buchstabe e der Verordnung (EG) Nr. 853/2004 zerlegt angenommen worden ist oder
-2.1.4 vor dem 31. Dezember 2013 von einem Erzeuger in den in Artikel 2 der Verordnung (EG) Nr. 1162/2009 der Kommission vom 30. November 2009 zur Festlegung von Übergangsregelungen für die Durchführung der Verordnungen (EG) Nr. 852/2004, (EG) Nr. 853/2004, (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates (ABl. L 314 vom 1.12.2009, S. 10) in der jeweils geltenden Fassung bestimmten Fällen angenommen worden ist.
+2.1.4 von einem Erzeuger in den in Artikel 2 der Verordnung (EU) 2017/185 der Kommission vom 2. Februar 2017 zur Festlegung von Übergangsmaßnahmen für die Anwendung gewisser Bestimmungen der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates (ABl. L 29 vom 3.2.2017, S. 21) in der jeweils geltenden Fassung bestimmten Fällen angenommen worden ist.
 2.2 Bei der Herstellung von Hackfleisch sind über die Anforderungen nach Nummer 2.1 hinaus folgende Anforderungen einzuhalten:
 2.2.1 Hackfleisch darf unbeschadet der Nummer 2.2.2 nur aus Skelettmuskulatur mit anhaftendem Fett hergestellt werden.
 2.2.2 Zur Herstellung von Hackfleisch dürfen nicht verwendet werden
@@ -67,7 +67,7 @@ Bei der Herstellung von Fleischerzeugnissen sind folgende Anforderungen einzuhal
 1.1 in zugelassenen Schlachthöfen gewonnen oder behandelt worden ist,
 1.2 in zugelassenen Zerlegungsbetrieben, zugelassenen Wildbearbeitungsbetrieben oder Betrieben des Einzelhandels bearbeitet oder behandelt worden ist,
 1.3 von einem Jäger im Rahmen der Regelung des Artikels 1 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 852/2004 oder des Artikels 1 Absatz 3 Buchstabe e der Verordnung (EG) Nr. 853/2004 als Haarwild in der Decke oder Federwild im Federkleid oder im Rahmen der Regelung des Artikels 1 Absatz 3 Buchstabe e der Verordnung (EG) Nr. 853/2004 zerlegt angenommen worden ist oder
-1.4 vor dem 31. Dezember 2013 von einem Erzeuger in den in Artikel 2 der Verordnung (EG) Nr. 1162/2009 bestimmten Fällen angenommen worden ist.
+1.4 von einem Erzeuger in den in Artikel 2 der Verordnung (EU) 2017/185 in der jeweils geltenden Fassung bestimmten Fällen angenommen worden ist.
 2. Fleischerzeugnisse dürfen nicht aus oder unter Verwendung folgender Eingeweide, Nebenprodukte der Schlachtung oder Gewebe hergestellt werden:
 2.1 Geschlechtsorgane, ausgenommen Hoden,
 2.2 Harnorgane, ausgenommen Nieren und Blase,
