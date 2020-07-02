@@ -1,0 +1,55 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (34. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2020-07-02T19:04:00+02:00
+- Ende: 2020-07-02T22:25:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZZCczrE2eAxJhXfNl3uULuo
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1097
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeJhqvsuOMcGlIdlmBu8AXqytpnr9J7DulLSuwIpkklq/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_02.07.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSLP1Mm86KgRRNgNZqkt8VmibVav8p884JVqgVv7sKHr/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_02.07.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: KITA Wernswig; hier: Entscheidung über den künftigen Standort - (kein Text vorhanden)
+- TOP 2.: Bund-Länder-Programm „Lebendige Zentren in kleinen Städten und Gemeinden in Hessen“ a) Antragstellung auf Aufnahme in das Förderprogramm ab dem Programmjahr 2020 für die „Südliche Innenstadt“ b) Beschlussfassung zur Erarbeitung eines integrierten städtebaulichen Entwicklungskonzeptes (ISEK) bei der Aufnahme in das Förderprogramm innerhalb eines Jahres nach der Aufnahme in das Förderprogramm c) Beschluss über den Aufbau einer Steuerungsstruktur (Fördergebietsmanagement) bei Aufnahme in das Förderprogramm d) Beschlussfassung über den Aufbau einer Lokalen Partnerschaft innerhalb eines Jahres nach der Aufnahme in das Förderprogramm - (kein Text vorhanden)
+- TOP 3.: Bundesförderprogramm Heimat 2.0 hier: Beratung und Beschlussfassung über die Antragstellung
+- TOP 3.1: Bundesprogramm „Heimat 2.0“ hier: Beratung und Beschlussfassung über die Antragstellung - (kein Text vorhanden)
+- TOP 4.: Beratung und Beschlussfassung über die Ausübung des gesetzlichen Vorkaufsrechtes gem. §§ 24 ff Baugesetzbuch für die Liegenschaft „Westheimer Straße 25“ - (kein Text vorhanden)
+- TOP 5.: Aufstellung einer Änderung Nr. 20 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) zur Ausweisung eines Wohnmobilstellplatzes im Bereich des Erlebrunnenweges; hier: Erneuter Aufstellungsbeschluss unter Einbeziehung des Freibadgeländes - (kein Text vorhanden)
+- TOP 6.: Aufstellung einer Änderung Nr. 1 zum Bebauungsplan Nr. 42 der Kreisstadt Homberg (Efze) zur Ausweisung eines Wohnmobilstellplatzes im Bereich des Erlebrunnenweges; hier: Erneuter Aufstellungsbeschluss unter Einbeziehung des Freibadgeländes - (kein Text vorhanden)
+- TOP 7.: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 8.: Entschädigung für ehrenamtliche Tätigkeit in der Kreisstadt Homberg (Efze) hier: Sitzungs- und Vertretungsgeld während der Corona-Pandemie - (kein Text vorhanden)
+- TOP 9.: Sachstandsberichte und sonstige Informationen
+- TOP 9.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 9.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 9.1.2: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 9.1.3: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 9.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 9.1.5: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 9.1.6: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 9.1.7: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 9.1.8: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 9.1.9: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 9.1.10: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 9.1.11: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 9.1.12: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 9.1.13: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 9.1.14: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 9.1.15: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 9.1.16: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 9.1.17: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22.05.2019 betr. Efzewiesen - Naherholungsgebiet aufwerten
+- TOP 9.1.18: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22. Mai 2019 betr. Keine Wildtiere im Zirkus - tierfreundliche Gemeinde Homberg
+- TOP 9.1.19: Antrag der BL Homberg vom 30.10.2019 betr. Bürgerfragestunde
+- TOP 9.1.20: Antrag der BL Homberg vom 30.10.2019 betr. Unterrichtung über alle wichtigen Verwaltungsangelegenheiten"
+- TOP 9.1.21: Antrag der SPD-Fraktion vom 30.11.2019 betr. Blühflächen in Homberg (Efze)
+- TOP 10.: Anträge
+- TOP 10.1: Antrag der FDP-Fraktion vom 13.05.2020 (eing. 15.05.2020) betr. Aussetzung der Erhebung von Sondernutzungsgebühren für Gastronomie und Handel im Außenbereich - (kein Text vorhanden)
+- TOP 10.1.1: Antrag der FDP-Fraktion vom 13.05.2020 (eing. 15.05.2020) betr. Aussetzung der Erhebung von Sondernutzungsgebühren für Gastronomie und Handel im Außenbereich hier: Zusammenstellung
+- TOP 10.2: Antrag der FWG-Fraktion vom 17.06.2020 betr. Aufhebung der Einbahnstraßenregelung im Bereich der unteren Ludwig-Mohr-Straße - (kein Text vorhanden)
+- TOP 11.: Anregungen
+- TOP 12.: Einführung und Verpflichtung gemäß § 46 HGO des durch Direktwahl gewählten Bürgermeisters Dr. Nico Ritz
