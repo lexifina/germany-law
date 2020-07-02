@@ -1,0 +1,28 @@
+# Jahresabschluss des Rechnungsjahres 2018
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: MIGVE-5/2020
+- Art: Mitteilung Gemeindevertretung
+- Datum: 2020-07-02
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbMruDdtc87V3x93nVz0df0
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/3201
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Mitteilung Gemeindevertretung (Jahresabschluss des Rechnungsjahres 2018) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLfaDP3neTU1aVWpRHTQpLv4B7QBA7XhzpULkMFTzMf/Mitteilung_Gemeindevertretung_MIGVE-5-2020.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 - Ergebnisrechnung.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeIPrvUF65fp4IwOMgrOqdsOarOibwK2qr48TrJOQ36q/2018_-_Ergebnisrechnung.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 - Teilergebnisrechnungen 1.02.01_1.12.01.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawqLsz6qlxjtmJwMMPGHdra1n8xoMk0vKcohCTjmfDA/2018_-_Teilergebnisrechnungen_1.02.01_1.12.01.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 - Teilergebnisrechnungen 2.01.01_2.15.01.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZffmgZ5nbp4KtK0hKlO0-I7kdONBNoNPIEOZDiEpF5sC/2018_-_Teilergebnisrechnungen_2.01.01_2.15.01.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 - Teilergebnisrechnungen 3.01.01_3.16.03.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYqXaUQaiki785OEhG4cgiXc__BZ-rmQVyLtF0vgISiZ/2018_-_Teilergebnisrechnungen_3.01.01_3.16.03.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (Bilanz 2018.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe-gKft3xkHLOywwCOEWTIvhyfXeKkTp94I10K6rqTOr/Bilanz_2018.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (Finanzrechnung 2018.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsw6AzbS-m5UdF9Pb20xRQYa0INNwd_b69vPibANZy3/Finanzrechnung_2018.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (Teilfinanzrechnungen 2018.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZULa9A8n4pNbIHdBHnIfWoMcxnI3f3R48C_yUUy_-zug/Teilfinanzrechnungen_2018.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (21. Anhang Jahresabschluss 2018_Entwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZL6BC5AquGAIF2PwboIGWGhRvsWfMCAtyfJzO3DbLh8/21._Anhang_Jahresabschluss_2018_Entwurf.pdf
+- Anlage: Mitteilung Gemeindevertretung (Anlagenspiegel 2018) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYs-UNti-aBNksPstUwnzilv0aGp4Nkr_hiKu6xEoOo8/Anlagenspiegel_2018.pdf
+- Anlage: Mitteilung Gemeindevertretung (Rückstellungsübersicht 31.12.2018.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZXS5XeetMTJmWpAovYlbo6ISnma3-067TEEoP_HBZvu/Rueckstellungsuebersicht_31.12.2018.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 Verbindlichkeitenübersicht Aarbergen.xlsx) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYnKyDusojNFKXxkyEaII4ftcAQFOLU3IcS83FGKemw-/2018_Verbindlichkeitenuebersicht_Aarbergen.xlsx.pdf
+- Anlage: Mitteilung Gemeindevertretung (Forderungsübersicht 2018.xls) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdn9D4dsWy92QnUw-W_znc6lua3INnxdiGPoNX74lf1_/Forderungsuebersicht_2018.xls.pdf
+- Anlage: Mitteilung Gemeindevertretung (SoPo-Spiegel2018) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUBH9jEqs-F_B3jxdm5WiCytR6TXuOnKEIjDAlYEr3zr/SoPo-Spiegel2018.pdf
+- Anlage: Mitteilung Gemeindevertretung (2018 - Gremienmitglieder) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTQfgTCqeHi27q82IzHv0HBINmpKgH8peVz6O96b3h19/2018_-_Gremienmitglieder.pdf
+- Anlage: Mitteilung Gemeindevertretung (HH-Ermächtigungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQjBAGYXBvh1037yWelwzAlZufAnVDdhSKXlGaK52Zuz/HH-Ermaechtigungen.pdf
+- Anlage: Mitteilung Gemeindevertretung (Rechenschaftsbericht Jahresabschluss 2018) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUmgKgeug-TYQUfJVT1UpN4XXchp8DHovRAcGR3ltNLY/Rechenschaftsbericht_Jahresabschluss_2018.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1311 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
