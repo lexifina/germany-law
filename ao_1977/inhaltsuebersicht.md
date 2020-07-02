@@ -648,6 +648,7 @@
 | § 373 | Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel |
 | § 374 | Steuerhehlerei |
 | § 375 | Nebenfolgen |
+| § 375a | Verhältnis zur strafrechtlichen Einziehung |
 | § 376 | Verfolgungsverjährung |
 |  |  |
 | Zweiter Abschnitt |

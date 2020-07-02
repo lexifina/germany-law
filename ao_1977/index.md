@@ -714,6 +714,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel](0373.md)
 - [§ 374 Steuerhehlerei](0374.md)
 - [§ 375 Nebenfolgen](0375.md)
+- [§ 375a Verhältnis zur strafrechtlichen Einziehung](0375a.md)
 - [§ 376 Verfolgungsverjährung](0376.md)
 
 ### Zweiter Abschnitt Bußgeldvorschriften
