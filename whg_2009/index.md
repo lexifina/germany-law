@@ -54,6 +54,7 @@
 - [§ 36 Anlagen in, an, über und unter oberirdischen Gewässern](0036.md)
 - [§ 37 Wasserabfluss](0037.md)
 - [§ 38 Gewässerrandstreifen](0038.md)
+- [§ 38a Landwirtschaftlich genutzte Flächen mit Hangneigung an Gewässern](0038a.md)
 - [§ 39 Gewässerunterhaltung](0039.md)
 - [§ 40 Träger der Unterhaltungslast](0040.md)
 - [§ 41 Besondere Pflichten bei der Gewässerunterhaltung](0041.md)
