@@ -72,7 +72,6 @@
 - [§ 10b Steuerbegünstigte Zwecke](0010b.md)
 - [§ 10c Sonderausgaben-Pauschbetrag](0010c.md)
 - [§ 10d Verlustabzug](0010d.md)
-- [§ 10d Verlustabzug](0010d-2.md)
 - [§ 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus](0010e.md)
 - [§ 10f Steuerbegünstigung für zu eigenen Wohnzwecken genutzte Baudenkmale und Gebäude in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen](0010f.md)
 - [§ 10g Steuerbegünstigung für schutzwürdige Kulturgüter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden](0010g.md)

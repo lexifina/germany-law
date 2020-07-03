@@ -1,6 +1,4 @@
-# Verordnung über die modifizierte Anwendung von Vorschriften des
-Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst
-des Bundes im Geschäftsbereich des Bundesministeriums des Innern
+# Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Geltungsbereich](0001.md)
