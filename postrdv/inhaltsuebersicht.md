@@ -34,6 +34,7 @@
 | § 24 | Überwachung der Zahlungsvoraussetzungen bei Inlandszahlungen |
 | § 25 | Überwachung der Zahlungsvoraussetzungen bei Auslandszahlungen |
 | § 26 | Aufgaben im Rahmen der Statistik |
+| § 26a |  | Aktualisierung des Rentenbestandes zur Umsetzung von Rechtsänderungen |
 | § 27 | Sonstige Aufgaben |
 | Fünftes Kapitel |
 |  | Vorschüsse zur Auszahlung von Geldleistungen und Abrechnung |

@@ -199,7 +199,7 @@
 - [§ 82 Rücklage](0082.md)
 - [§ 83 Anlegung der Rücklage](0083.md)
 - [§ 84 Beleihung von Grundstücken](0084.md)
-- [§ 85 Genehmigungsbedürftige Vermögensanlagen](0085.md)
+- [§ 85 Genehmigungs- und anzeigepflichtige Vermögensanlagen](0085.md)
 - [§ 86 Ausnahmegenehmigung](0086.md)
 
 ### Fünfter Titel Aufsicht
@@ -223,6 +223,9 @@
 ### Erster Titel Übermittlung von Daten zur und innerhalb der Sozialversicherung
 
 - [§ 95 Gemeinsame Grundsätze Technik](0095.md)
+- [§ 95a Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern](0095a.md)
+- [§ 95b Systemprüfung](0095b.md)
+- [§ 95c Datenaustausch zwischen den Sozialversicherungsträgern](0095c.md)
 
 ### Zweiter Titel Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger
 
@@ -273,6 +276,8 @@
 - [§ 119 (weggefallen)](0119.md)
 - [§ 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
+- [§ 123 Übergangsregelung zur Struktur der Einrichtungen](0123.md)
+- [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
 (BGBl. II 1990, 889, 1046)

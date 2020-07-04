@@ -174,7 +174,7 @@ Anpassung
 ### Zweiter Abschnitt Datenschutz
 
 - [§ 59 Mitgliedsnummer](0059.md)
-- [§ 60 (weggefallen)](0060.md)
+- [§ 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse](0060.md)
 - [§ 61 Versicherungskonto](0061.md)
 - [§ 61a Überprüfung von Beitragszuschüssen](0061a.md)
 - [§ 62 Dateisysteme der landwirtschaftlichen Sozialversicherung](0062.md)

@@ -185,7 +185,7 @@
 | Datenschutz |
 |  |
 | § 59 | Mitgliedsnummer |
-| § 60 | (weggefallen) |
+| § 60 | Datenverarbeitung bei der landwirtschaftlichen Alterskasse |
 | § 61 | Versicherungskonto |
 | § 61a | Überprüfung von Beitragszuschüssen |
 | § 62 | Dateisysteme der landwirtschaftlichen Sozialversicherung |

@@ -540,6 +540,10 @@ Entwicklung im Gesundheitswesen
 #### Zweiter Titel Satzung, Organe
 
 - [§ 194 Satzung der Krankenkassen](0194.md)
+- [§ 194a Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen](0194a.md)
+- [§ 194b Durchführung der Stimmabgabe per Online-Wahl](0194b.md)
+- [§ 194c Verordnungsermächtigung](0194c.md)
+- [§ 194d Evaluierung](0194d.md)
 - [§ 195 Genehmigung der Satzung](0195.md)
 - [§ 196 Einsichtnahme in die Satzung](0196.md)
 - [§ 197 Verwaltungsrat](0197.md)
@@ -837,3 +841,4 @@ der Herstellung der Einheit Deutschlands
 - [§ 329 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0329.md)
 - [§ 329 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0329-2.md)
 - [§ 330 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0330.md)
+- [§ 331 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0331.md)

@@ -99,5 +99,5 @@ Datentransparenz
 - [§ 62](0062.md)
 - [§ 63 Überleitungsvorschrift](0063.md)
 - [§ 64 Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Krankenversicherung](0064.md)
-- [§ 65 Finanzierung in den Jahren 2014 und 2015](0065.md)
+- [§ 65 Übergangsregelung](0065.md)
 - [§ 66 Bestandsbereinigung bei der freiwilligen Versicherung](0066.md)

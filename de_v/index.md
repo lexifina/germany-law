@@ -43,7 +43,7 @@ durch Datenübertragung
 
 ### Zweiter Unterabschnitt Systemprüfung
 
-- [§ 18 Grundsatz](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 - [§ 19 Antrag](0019.md)
 - [§ 20 Systemprüfung](0020.md)
 - [§ 21 Zulassungsbescheid](0021.md)
@@ -69,7 +69,7 @@ durch Datenübertragung
 ## Sechster Abschnitt Übernahme und Weiterleitung
 der Meldungen durch die Sozialversicherungsträger
 
-- [§ 32 Weiterleitung von Daten](0032.md)
+- [§ 32 (weggefallen)](0032.md)
 - [§ 33 Übernahme und Prüfung der Daten durch die Einzugsstellen](0033.md)
 - [§ 34 (weggefallen)](0034.md)
 - [§ 35](0035.md)

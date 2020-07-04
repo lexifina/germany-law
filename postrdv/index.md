@@ -49,6 +49,7 @@ Rentenversicherung](0023.md)
 - [§ 24 Überwachung der Zahlungsvoraussetzungen bei Inlandszahlungen](0024.md)
 - [§ 25 Überwachung der Zahlungsvoraussetzungen bei Auslandszahlungen](0025.md)
 - [§ 26 Aufgaben im Rahmen der Statistik](0026.md)
+- [§ 26a Aktualisierung des Rentenbestandes zur Umsetzung von Rechtsänderungen](0026a.md)
 - [§ 27 Sonstige Aufgaben](0027.md)
 
 ## Fünftes Kapitel Vorschüsse zur Auszahlung von
