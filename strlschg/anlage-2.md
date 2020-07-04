@@ -16,7 +16,7 @@ Teil A: Erforderliche Unterlagen für den Antrag auf Genehmigungen nach § 12 Ab
 7. im Zusammenhang mit
   a) der Anwendung am Menschen: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 14 Absatz 1 erfüllt sind,
   b) der Anwendung am Tier in der Tierheilkunde: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 15 erfüllt sind,
-  c) dem Betrieb von Anlagen zur Erzeugung ionisierender Strahlung in der Medizin im Sinne der Verordnung (EU) 2017/745: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist.
+  c) dem Betrieb von Anlagen zur Erzeugung ionisierender Strahlung in der Medizin im Sinne des Medizinproduktegesetzes: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist.
 Teil B: Erforderliche Unterlagen für den Antrag auf Genehmigungen nach § 12 Absatz 1 Nummer 3 und § 40
 1. Pläne, Zeichnungen und Beschreibungen, die zur Prüfung der Genehmigungsvoraussetzungen erforderlich sind,
 2. Angaben, die es ermöglichen zu prüfen, ob
@@ -29,7 +29,7 @@ Teil B: Erforderliche Unterlagen für den Antrag auf Genehmigungen nach § 12 Ab
 6. im Zusammenhang mit
   a) der Anwendung am Menschen: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 14 Absatz 1 erfüllt sind,
   b) der Anwendung am Tier in der Tierheilkunde: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 15 erfüllt sind,
-  c) der Verwendung von radioaktiven Stoffen in Bestrahlungsvorrichtungen in der Medizin im Sinne der Verordnung (EU) 2017/745: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist,
+  c) der Verwendung von radioaktiven Stoffen in Bestrahlungsvorrichtungen in der Medizin im Sinne des Medizinproduktegesetzes: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist,
   d) der Früherkennung von Krankheiten: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 14 Absatz 3 Nummer 2 erfüllt sind.
 Teil C: Erforderliche Unterlagen für den Antrag auf Genehmigungen nach § 12 Absatz 1 Nummer 4
 1. Pläne, Zeichnungen und Beschreibungen, die zur Prüfung der Genehmigungsvoraussetzungen erforderlich sind,
