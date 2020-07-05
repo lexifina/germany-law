@@ -64,8 +64,7 @@ parlamentarischer Untersuchungsausschüsse](0022.md)
 Strafverfolgung und Gefahrenabwehr](0023.md)
 - [§ 24 Verwendung der dem Staatssicherheitsdienst
 überlassenen Akten von Gerichten und Staatsanwaltschaften](0024.md)
-- [§ 25 Verwendung von Unterlagen für Zwecke der
-Nachrichtendienste](0025.md)
+- [§ 25 Verwendung von Unterlagen für Zwecke der Nachrichtendienste](0025.md)
 - [§ 26 Verwendung von Dienstanweisungen, Organisationsplänen und weiteren Unterlagen](0026.md)
 - [§ 27 Mitteilungen ohne Ersuchen an öffentliche Stellen](0027.md)
 - [§ 28 (weggefallen)](0028.md)

@@ -1,11 +1,11 @@
 # Anhang 4 Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
 
 1. Fachkunde und Akkreditierung
-  Die Probenahme ist von Personen durchzuführen, die über die für die Durchführung der Probenahme erforderliche Fachkunde verfügen. Die Fachkunde kann durch qualifizierte Ausbildung (Studium etc.) oder langjährige praktische Erfahrung jeweils in Verbindung mit einer erfolgreichen Teilnahme an einem Probenehmerlehrgang nach PN 98 nachgewiesen werden. Für die Entnahme von Proben bei der Anlieferung von Abfällen auf Deponien ist entgegen Satz 1 Sachkunde beim Probenehmer ausreichend. Die Sachkunde kann durch eine erfolgreiche Teilnahme an einem Probenehmerlehrgang nach PN 98 nachgewiesen werden. Für die Probenahme ist zusätzlich zum Fachkunde- oder Sachkundenachweis stets eine abfallartenspezifische Einweisung des Probenehmers durch das akkreditierte Labor erforderlich. Die Unterzeichnung des Probenahmeprotokolls darf nur durch Fachkundige erfolgen. Die Probenuntersuchungen sind von unabhängigen, nach DIN EN ISO/IEC 17025, Ausgabe August 2005, 2. Berichtigung Mai 2007, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien; akkreditierten Untersuchungsstellen durchzuführen.
+  Die Probenahme ist von Personen durchzuführen, die über die für die Durchführung der Probenahme erforderliche Fachkunde verfügen. Die Fachkunde ist durch eine qualifizierte technische Ausbildung, insbesondere ein abgeschlossenes Studium an einer (Fach-) Hochschule oder Universität, oder durch eine langjährige praktische Erfahrung jeweils in Verbindung mit einer erfolgreichen Teilnahme an einem Probenahmelehrgang nach PN 98 nachzuweisen. Die Fachkunde ist durch eine regelmäßige, mindestens alle fünf Jahre stattfindende Schulung oder Weiterbildung aufrecht zu erhalten. Für die Entnahme von Proben bei der Anlieferung von Abfällen auf Deponien ist entgegen Satz 1 Sachkunde beim Probenehmer ausreichend. Die Sachkunde kann durch eine erfolgreiche Teilnahme an einem Probenehmerlehrgang nach PN 98 nachgewiesen werden. Für die Probenahme ist zusätzlich zum Fachkunde- oder Sachkundenachweis stets eine abfallartenspezifische Einweisung des Probenehmers durch das akkreditierte Labor erforderlich. Die Unterzeichnung des Probenahmeprotokolls darf nur durch Fachkundige erfolgen. Die Probenuntersuchungen sind von unabhängigen, nach DIN EN ISO/IEC 17025, Ausgabe März 2018, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien; akkreditierten Untersuchungsstellen durchzuführen. Die Akkreditierung einer Untersuchungsstelle muss alle in diesem Anhang aufgeführten und gleichwertigen Verfahren beinhalten, die von dieser Untersuchungsstelle angewandt werden.
 2. Probenahme
-  Die Probenahme für die Durchführung der Untersuchungen hat nach der LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Dezember 2001, ISBN: 978-3-503-07037-4, zu erfolgen. Die Probenahme ist zu protokollieren. Die Probenahmeprotokolle sind fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+  Die Probenahme für die Durchführung der Untersuchungen hat nach der LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Mai 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html, zu erfolgen. Ergänzend kann die DIN 19698 Untersuchung von Feststoffen – Probenahme von festen und stichfesten Materialien – Teile 1 (2014-05), 2 (2016-12), 5 (2018-06), 6 (2019-01) herangezogen werden. Die Probenahme ist zu protokollieren. Die Probenahmeprotokolle sind fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 3. Bestimmung der Gesamtgehalte im Feststoff sowie des eluierbaren Anteils
-  Die Bestimmung der in Anhang 3 aufgeführten Zuordnungswerte ist nach folgenden Verfahren durchzuführen. Gleichwertige Verfahren nach dem Stand der Technik sind mit Zustimmung der zuständigen Behörde zulässig. Soweit weitere, nachfolgend nicht genannte Parameter zu untersuchen sind, legt die zuständige Behörde das Untersuchungsverfahren fest. Dabei muss die Bestimmungsgrenze eines gewählten Analysenverfahrens um mindestens einen Faktor von drei kleiner sein als der Wert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 32645, Ausgabe November 2008, Chemische Analytik – Nachweis-, Erfassungs- und Bestimmungsgrenze unter Wiederholbedingungen –, Begriffe, Verfahren, Auswertung.
+  Die Bestimmung der in Anhang 3 aufgeführten Zuordnungswerte ist nach folgenden Verfahren durchzuführen. Gleichwertige Verfahren nach dem Stand der Technik sind mit Zustimmung der zuständigen Behörde am Sitz der Untersuchungsstelle zulässig. Dabei kann als Entscheidungshilfe die Methodensammlung Feststoffuntersuchung der LAGA herangezogen werden, abrufbar unter https://www.laga-online.de/Publikationen-50-Informationen.html, wobei insbesondere die grün gekennzeichneten Verfahren heranzuziehen sind. Soweit weitere, nachfolgend nicht genannte Parameter zu untersuchen sind, legt die zuständige Behörde das Untersuchungsverfahren fest. Dabei muss die Bestimmungsgrenze eines gewählten Analysenverfahrens um mindestens einen Faktor von drei kleiner sein als der Wert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 32645, Ausgabe November 2008, Chemische Analytik – Nachweis-, Erfassungs- und Bestimmungsgrenze unter Wiederholbedingungen –, Begriffe, Verfahren, Auswertung.
 3.1 Bestimmung der Gesamtgehalte im Feststoff
 3.1.1 Probenvorbereitung
   Die Probe von festen Abfällen ist gemäß DIN 19747, Ausgabe Juli 2009 (Untersuchung von Feststoffen – Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen) durch Vierteln, Brechen und Mahlen so aufzubereiten, dass aus einer Ausgangsprobe von 5 bis 50 kg eine homogene Probe von 1 000 g gewonnen wird. Die Probe von pastösen und schlammigen Abfällen ist durch Kollern so aufzubereiten, dass aus einer Ausgangsprobe von 5 bis 50 kg eine homogene Probe von 1 000 g gewonnen wird. Die Trockenmasse der Probe ist gemäß Nummer 3.2.24 zu bestimmen. Die Probenvorbereitung ist zu protokollieren.
@@ -17,21 +17,19 @@
   DIN EN 15169, Ausgabe Mai 2007
   Charakterisierung von Abfall – Bestimmung des Glühverlustes in Abfall, Schlamm und Sedimenten
 3.1.3.2 TOC (Total organic carbon – gesamter organischer Kohlenstoff)
-  DIN EN 13137, Ausgabe Dezember 2001
-  Charakterisierung von Abfall – Bestimmung des gesamten organischen Kohlenstoffs (TOC) in Abfall, Schlämmen und Sedimenten
+  DIN EN 15936, Ausgabe November 2012
+  Schlamm, behandelter Bioabfall, Boden und Abfall – Bestimmung des gesamten organischen Kohlenstoffs (TOC) mittels trockener Verbrennung
 3.1.4 BTEX (Benzol, Toluol, Ethylbenzol, o-, m-, p-Xylol, Styrol, Cumol)
-  DIN 38407-9, Ausgabe Mai 1991
-  Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Gemeinsam erfassbare Stoffgruppen (Gruppe F); Bestimmung von Benzol und einigen Derivaten mittels Gaschromatographie (F9)
-  Alternativ:
-  Handbuch Altlasten, Bd. 7: Analysenverfahren; Teil 4 – Bestimmung von BTEX/LHKW in Feststoffen aus dem Altlastenbereich, Ausgabe 2000, Hessische Landesanstalt für Umwelt und Geologie
+  DIN EN ISO 22155, Ausgabe Juli 2016
+  Bodenbeschaffenheit – Gaschromatographische Bestimmung flüchtiger aromatischer Kohlenwasserstoffe, Halogenkohlenwasserstoffe und ausgewählter Ether – Statistisches Dampfraum-Verfahren
 3.1.5 PCB (Polychlorierte Biphenyle – Summe der 7 PCB-Kongenere, PCB-28, -52, -101, -118, -138, -153, -180)
-  DIN EN 15308, Ausgabe Mai 2008
-  Charakterisierung von Abfällen – Bestimmung ausgewählter polychlorierter Biphenyle (PCB) in festem Abfall, unter Anwendung der Kapillar-Gaschromatographie mit Elektroneneinfang-Detektion oder Massenspektrometrischer Detektion
+  DIN EN 15308, Ausgabe Dezember 2016
+  Charakterisierung von Abfällen – Bestimmung ausgewählter polychlorierter Biphenyle (PCB) in festem Abfall mittels Gaschromatopraphie mit Elektroneneinfang-Detektion oder massenspektrometrischer Detektion
 3.1.6 Mineralölkohlenwasserstoffe (C 10 bis C 40)
   DIN EN 14039, Ausgabe Januar 2005
   Charakterisierung von Abfällen – Bestimmung des Gehalts an Kohlenwasserstoffen von C 10 bis C 40 mittels Gaschromatographie
   in Verbindung mit
-  LAGA-Mitteilung 35, Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysenstrategie (LAGA-Richtlinie KW/04), Stand: 15. Dezember 2009, ISBN: 978-3-503-08396-1
+  LAGA-Mitteilung 35, Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysenstrategie (LAGA-Richtlinie KW/04), Stand: September 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
 3.1.7 PAK (Polycyclische aromatische Kohlenwasserstoffe)
   DIN ISO 18287, Ausgabe Mai 2006
   Bodenbeschaffenheit – Bestimmung der polycyclischen aromatischen Kohlenwasserstoffe (PAK) – Gaschromatographisches Verfahren mit Nachweis durch Massenspektrometrie (GC-MS)
@@ -42,14 +40,14 @@
   DIN EN 15170, Ausgabe Mai 2009
   Charakterisierung von Schlämmen – Bestimmung des Brenn- und Heizwertes
 3.1.10 Cadmium, Chrom, Kupfer, Nickel, Blei, Zink
-  DIN ISO 11047, Ausgabe Mai 2003
-  Bodenbeschaffenheit – Bestimmung von Cadmium, Chrom, Cobalt, Kupfer, Blei, Mangan, Nickel und Zink im Königswasserextrakt – Flammen- und elektrothermisches atomabsorptionsspektrometrisches Verfahren
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
+  Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von ausgewählten Elementen einschließlich Uran-Isotope
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
   Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma (ICP-AES)
   Alternativ:
   DIN EN ISO 11885, Ausgabe September 2009
-  Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
+  Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektroskopie (ICP-OES)
 3.1.11 Quecksilber
   DIN EN ISO 12846, Ausgabe August 2012
   Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomabsorptionsspektrometrie (AAS) mit und ohne Anreicherung
@@ -57,29 +55,29 @@
   DIN EN ISO 17852, Ausgabe April 2008
   Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomfluoreszenzspektrometrie
 3.1.12 Extrahierbare lipophile Stoffe
-  LAGA-Richtlinie KW/04 – Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysestrategie, Kurzbezeichnung: KW/04, Stand: 15. Dezember 2009
+  LAGA-Richtlinie KW/04 – Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysestrategie, Kurzbezeichnung: KW/04, Stand: September 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
 3.2 Bestimmung der Gehalte im Eluat
 3.2.1 Eluatherstellung
 3.2.1.1 Eluatherstellung mit Flüssigkeits-/Feststoffverhältnis 10/1
   DIN EN 12457-4, Ausgabe Januar 2003
   Charakterisierung von Abfällen – Auslaugung; Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)
 3.2.1.2 Eluatherstellung mit jeweils konstantem pH-Wert 4 und 11/Säureneutralisationskapazität
-  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der von der Länderarbeitsgemeinschaft Abfall herausgegebenen Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich (LAGA-Richtlinie EW 98), Stand 2002, ISBN: 978-3-503-07038-1
+  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der von der Länderarbeitsgemeinschaft Abfall herausgegebenen Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich (LAGA-Richtlinie EW 98), Stand September 2017, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
 3.2.2 Perkolationsprüfung im Aufwärtsstrom
   DIN 19528, Ausgabe Januar 2009
   Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von organischen und anorganischen Stoffen
   Alternativ:
-  DIN CEN/TS 14405, Ausgabe September 2004
-  Charakterisierung von Abfällen – Auslaugverhalten – Perkolationsprüfung im Aufwärtsstrom (unter festgelegten Bedingungen)
+  DIN EN 14405, Ausgabe Mai 2017
+  Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens – Perkolationsprüfung im Aufwärtsstrom (unter festgelegten Bedingungen)
 3.2.3 pH-Wert
-  DIN 38404-5, Ausgabe Juli 2009
-  Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Physikalische und physikalisch-chemische Kenngrößen (Gruppe C) - Teil 5: Bestimmung des pH-Wertes (C 5)
+  DIN EN ISO 10523, Ausgabe April 2012
+  Wasserbeschaffenheit – Bestimmung des pH-Werts (ISO 10523:2008)
 3.2.4 DOC (Gelöster organischer Kohlenstoff)
 3.2.4.1 DOC
-  DIN EN 1484, Ausgabe August 1997
+  DIN EN 1484, Ausgabe April 2019
   Wasseranalytik – Anleitungen zur Bestimmung des gesamten organischen Kohlenstoffs (TOC) und des gelösten organischen Kohlenstoffs (DOC)
 3.2.4.2 DOC bei einem pH-Wert zwischen 7,5 und 8
-  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten (LAGA-Richtlinie EW 98), Stand 2002, ISBN: 978-3-503-07038-1
+  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten (LAGA-Richtlinie EW 98), Stand September 2017, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
 3.2.5 Phenole
   DIN 38409-16, Ausgabe Juni 1984
   Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Summarische Wirkungs- und Stoffkenngrößen (Gruppe H); Bestimmung des Phenol-Index (H 16)
@@ -87,25 +85,16 @@
   DIN EN ISO 14402, Ausgabe Dezember 1999
   Wasserbeschaffenheit – Bestimmung des Phenolindex mit der Fließanalytik (FIA und CFA)
 3.2.6 Arsen
-  DIN EN ISO 11969, Ausgabe November 1996
-  Bestimmung von Arsen – Atomabsorptionsspektrometrie (Hydridverfahren)
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
+  Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
-  Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma (ICP-AES)
+  Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten mittels Atomemissionsspektroskopie mit induktiv gekoppelten Plasma (ICP-AES)
   Alternativ:
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
-  Alternativ:
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
-  Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.7 Blei
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
@@ -114,10 +103,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
 3.2.8 Cadmium
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
@@ -126,10 +112,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
 3.2.9 Kupfer
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
@@ -138,10 +121,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
 3.2.10 Nickel
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
@@ -156,10 +136,7 @@
   DIN EN ISO 17852, Ausgabe April 2008
   Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels Atomfluoreszenzspektrometrie
 3.2.12 Zink
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
   Alternativ:
   DIN ISO 22036, Ausgabe Juni 2009
@@ -171,17 +148,11 @@
   DIN EN ISO 10304-1, Ausgabe Juli 2009
   Wasserbeschaffenheit – Bestimmung von gelösten Anionen mittels Flüssigkeits-Ionenchromatographie – Teil 1: Bestimmung von Bromid, Chlorid, Fluorid, Nitrat, Nitrit, Phosphat und Sulfat
   Alternativ:
-  DIN 38405-1, Ausgabe Dezember 1985
-  Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Anionen (Gruppe D) – Bestimmung der Chlorid-Ionen (D 1)
-  Alternativ:
   DIN EN ISO 15682, Ausgabe Januar 2002
   Wasserbeschaffenheit – Bestimmung von Chlorid mittels Fließanalyse (CFA und FIA) und photometrischer oder potentiometrischer Detektion
 3.2.14 Sulfat
   DIN EN ISO 10304-1, Ausgabe Juli 2009
   Wasserbeschaffenheit – Bestimmung von gelösten Anionen mittels Flüssigkeits-Ionenchromatographie – Teil 1: Bestimmung von Bromid, Chlorid, Fluorid, Nitrat, Nitrit, Phosphat und Sulfat
-  Alternativ:
-  DIN 38405-5, Ausgabe Januar 1985
-  Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Anionen (Gruppe D) – Bestimmung der Sulfat-Ionen (D 5)
 3.2.15 Cyanide, leicht freisetzbar
   DIN 38405-13, Ausgabe April 2011
   Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung – Anionen (Gruppe D) – Teil 13: Bestimmung von Cyaniden (D 13)
@@ -189,6 +160,9 @@
   Alternativ:
   DIN EN ISO 14403-1, Ausgabe Oktober 2012
   Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 1: Verfahren mittels Fließinjektionsanalyse (FIA)
+  Alternativ:
+  DIN EN ISO 14403-2, Ausgabe Oktober 2012
+  Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid mittels Fließanalytik (FIA und CFA) – Teil 2: Verfahren mittels kontinuierlicher Durchflussanalyse (CFA).
 3.2.16 Fluorid
   DIN 38405-4, Ausgabe Juli 1985
   Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Anionen (Gruppe D); Bestimmung von Fluorid (D 4)
@@ -202,7 +176,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
   Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.18 Chrom, gesamt
   DIN ISO 22036, Ausgabe Juni 2009
@@ -211,10 +185,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
   Alternativ:
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.19 Molybdän
   DIN ISO 22036, Ausgabe Juni 2009
@@ -223,7 +194,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
   Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.20 Antimon
   DIN ISO 22036, Ausgabe Juni 2009
@@ -247,7 +218,7 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
   Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.22 Gesamtgehalt an gelösten Feststoffen
   DIN EN 15216, Ausgabe Januar 2008 - Charakterisierung von Abfällen - Bestimmung des Gesamtgehaltes an gelösten Feststoffen (TDS) in Wasser und Eluaten
@@ -265,7 +236,7 @@
   Charakterisierung von Abfällen – Berechnung der Trockenmasse durch Bestimmung des Trockenrückstandes oder des Wassergehaltes
 3.3 Biologische Abbaubarkeit des Trockenrückstandes der Originalsubstanz
 3.3.1 Atmungsaktivität, bestimmt über 4 Tage im Laborversuch (AT4):
-  Dieses Prüfverfahren ist nur anwendbar bei Abfällen, die einen pH-Wert im Bereich von pH 6,8 bis pH 8,2 aufweisen. Bei Abfällen mit davon abweichenden pH-Werten ist die biologische Abbaubarkeit des Trockenrückstandes der Originalsubstanz nach Nummer 3.3.2 zu bestimmen.
+  Dieses Prüfverfahren ist nur anwendbar bei Abfällen, die einen pH-Wert, bestimmt im 1 : 10-Eluat des Abfalls gemäß Anhang 4 Nummer 3.2.1.1, im Bereich von pH 6,8 bis pH 8,2 aufweisen. Bei Abfällen mit davon abweichenden pH-Werten ist die biologische Abbaubarkeit des Trockenrückstandes der Originalsubstanz nach Nummer 3.3.2 zu bestimmen.
 3.3.1.1 Testgerät:
   Die Bestimmung des AT4 erfolgt mit einem Sapromat, Respiromat oder einem gleichwertigen Gerät. Alle Abweichungen von der nachfolgend aufgeführten Methode sind zu dokumentieren.
 3.3.1.2 Temperatur:
@@ -373,7 +344,7 @@
   Das Ergebnis wird mit zwei signifikanten Stellen in Nl/kg Trockenmasse angegeben. Es sind der Mittelwert und die Standardabweichung der Dreifachbestimmung anzugeben. Weicht ein einzelner Wert der Dreifachbestimmung mehr als 20 Prozent vom Mittelwert ab, so ist der Wert als Ausreißer zu eliminieren. Die Berechnung des neuen Mittelwertes erfolgt aus den zwei verbleibenden Werten.
   Das Ergebnis für die Referenzansätze ist anzugeben.
 4. Bewertung der Messergebnisse
-  Bei Überprüfungen und Kontrolluntersuchungen nach § 8 Absatz 3 und 5 gelten die Zulässigkeits- und Zuordnungskriterien nach Anhang 3 dieser Verordnung noch als eingehalten, wenn
+  Für die Bewertung der Analysenberichte, die im Rahmen der grundlegenden Charakterisierung nach § 8 Absatz 1 Nummer 8 vorzulegen sind, sind die Regelungen unter II.11 der Methodensammlung Feststoffuntersuchung der LAGA (abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html) zur Beurteilung der Stoffverteilung in Haufwerken heranzuziehen. Dabei sind die ermittelten Messwerte ohne Berücksichtigung der Messunsicherheit zugrunde zu legen. Bei Überprüfungen und Kontrolluntersuchungen nach § 8 Absatz 3 und 5 gelten die Zulässigkeits- und Zuordnungskriterien nach Anhang 3 dieser Verordnung noch als eingehalten, wenn
   1. die Abweichung des Messwertes des untersuchten Parameters vom Zuordnungswert, der für die Deponie in der behördlichen Entscheidung nach § 21 oder im Einzelfall nach Anhang 3 Nummer 2 dieser Verordnung festgelegt wurde, den entsprechenden Wert der maximal zulässigen Abweichung der nachstehenden Tabelle nicht überschreitet und
   2. der Median aller Messwerte der letzten 24 Monate den entsprechenden Zuordnungswert eingehalten hat, der für die Deponie in der behördlichen Entscheidung nach § 21 oder im Einzelfall nach Anhang 3 Nummer 2 dieser Verordnung festgelegt wurde.
   | Parameter nach Anhang 3 Nummer 2 | maximal zulässige Abweichung |
@@ -385,7 +356,7 @@
   | Eluatkriterien | jeweils 100 Prozent |
   | weitere Parameter:EluatkriterienFeststoffgesamtgehalte | jeweils 100 Prozent |
   | AT4 und GB21 | jeweils 50 Prozent |
-  Abweichend von Satz 1 gelten bei Überprüfungen und Kontrolluntersuchungen für mechanisch-biologisch behandelte Abfälle die Zuordnungskriterien für folgende Parameter als noch eingehalten, wenn ein Parameter den nachfolgend aufgeführten jeweiligen Zuordnungswert zwar überschreitet, aber dieser Zuordnungswert vom Perzentilwert P80 aller Messwerte nicht überschritten wurde und der Median aller Messwerte der letzten 24 Monate den entsprechenden Zuordnungswert eingehalten hat, der für die Deponie in der behördlichen Entscheidung nach § 21 dieser Verordnung festgelegt wurde:
+  Abweichend von Satz 3 gelten bei Überprüfungen und Kontrolluntersuchungen für mechanisch-biologisch behandelte Abfälle die Zuordnungskriterien für folgende Parameter als noch eingehalten, wenn ein Parameter den nachfolgend aufgeführten jeweiligen Zuordnungswert zwar überschreitet, aber dieser Zuordnungswert vom Perzentilwert P80 aller Messwerte nicht überschritten wurde und der Median aller Messwerte der letzten 24 Monate den entsprechenden Zuordnungswert eingehalten hat, der für die Deponie in der behördlichen Entscheidung nach § 21 dieser Verordnung festgelegt wurde:
   | 1. TOC: | = 21 Masseprozent |
   | 2. DOC: | = 600 mg/l |
   | 3. AT4 : | = 10 mg/g |
@@ -394,7 +365,10 @@
 5. Bekanntmachungen sachverständiger Stellen
   Die in diesem Anhang genannten Bekanntmachungen sachverständiger Stellen sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt. Es sind erschienen:
   1. ISO-Normen, EN-Normen und DIN-Normen im Beuth Verlag GmbH, Berlin.
-  2. LAGA-Mitteilung 32, LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Dezember 2001, Erich Schmidt Verlag, Berlin, ISBN: 978-3-503-07037-4.
-  3. LAGA-Mitteilung 33, LAGA EW 98 – Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten – Kapitel 5 Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert (Kurzbezeichnung EW 98 p), Stand 2002, Erich Schmidt Verlag, Berlin, ISBN: 978-3-503-07038-1.
-  4. LAGA-Mitteilung 35, Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysenstrategie (Kurzbezeichnung KW/04), Stand: Dezember 2009, Erich Schmidt Verlag, Berlin, ISBN: 978-3-503-08396-1.
-  5. Handbuch Altlasten, Bd. 7: Analysenverfahren; Teil 4 – Bestimmung von BTEX/LHKW in Feststoffen aus dem Altlastenbereich, Ausgabe 2000, Herausgeber: Hessische Landesanstalt für Umwelt und Geologie.
+  2. LAGA-Mitteilung 32, LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Mai 2019, abrufbar unter
+    https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
+  3. LAGA-Mitteilung 33, LAGA EW 98 – Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten – Kapitel 5 Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert (Kurzbezeichnung EW 98 p), Stand September 2017, abrufbar unter
+    https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
+  4. LAGA-Mitteilung 35, Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysenstrategie (Kurzbezeichnung KW/04), Stand: Stand September 2019 abrufbar unter
+    https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
+  5. (weggefallen)

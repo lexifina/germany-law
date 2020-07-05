@@ -1,4 +1,4 @@
-# Anhang 3 Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 36, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
+# Anhang 3 Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 37, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
 
 1. Verwendung von Abfällen zur Herstellung von Deponieersatzbaustoff sowie für den unmittelbaren Einsatz als Deponieersatzbaustoff bei Deponien der Klasse 0, I, II oder III
   Bei der Verwendung von Abfällen zur Herstellung von Deponieersatzbaustoff sowie für die unmittelbare Verwendung als Deponieersatzbaustoff für die in Tabelle 1 Nummer 2.2, 2.3 und 3 beschriebenen Einsatzbereiche sind die Zuordnungskriterien nach Nummer 2, für die Einsatzbereiche nach Tabelle 1 Nummer 1.1, 2.1, 4.1 und 4.4.1 die Zuordnungswerte nach Tabelle 2 und für die Einsatzbereiche nach Tabelle 1 Nummer 2.1 und 4.1 zusätzlich die Zuordnungskriterien nach Nummer 2 Satz 11 einzuhalten. Die Zahlen 4 bis 9, die in den Spalten 3 bis 6 zu den Einsatzbereichen der Nummern 1 bis 4 der Tabelle 1 stehen, stehen für die jeweiligen Zuordnungswerte, die in den Spalten 4 bis 9 der Tabelle 2 aufgenommen sind.
@@ -11,7 +11,7 @@
   | 2.1 | Mineralische Abdichtungskomponente |  | 5 | 5 | 5 |
   | 2.2 | Schutzlage/Schutzschicht |  | 6 | 7 | 8 |
   | 2.3 | Mineralische Entwässerungsschicht | 5 | 6 | 7 | 8 |
-  | 3 | Deponietechnisch notwendige Baumaßnahmen im Deponiekörper (z. B. Trenndämme, Fahrstraßen, Gaskollektoren), Profilierung des Deponiekörpers sowie Ausgleichsschicht und Gasdränschicht des Oberflächen- abdichtungssystems bei Deponien oder Deponieabschnitten, die |  |  |  |  |
+  | 3 | Deponietechnisch notwendige Baumaßnahmen im Deponiekörper (z. B. Trenndämme, Fahrstraßen, Gaskollektoren), Profilierung des Deponiekörpers sowie Trag- und Ausgleichsschicht und Gasdränschicht des Oberflächen- abdichtungssystems bei Deponien oder Deponieabschnitten, die |  |  |  |  |
   | 3.1 | alle Anforderungen an die geologische Barriere und das Basisabdichtungssystem nach Anhang 1 einhalten | 5 | 6 | 7 | 8 |
   | 3.2 | mindestens alle Anforderungen an die geologische Barriere oder an das Basisabdichtungssystem nach Anhang 1 einhalten | 5 | 5 | 6 | 7 |
   | 3.3 | weder die Anforderungen an die geologische Barriere noch die Anforderungen an das Basisabdichtungssystem nach Anhang 1 vollständig einhalten |  | 52) | 52) | 52) |
@@ -48,8 +48,8 @@
   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
   | Nr. | Parameter | Maß- einheit | Geo-logische Barriere | DK 0 | DK I | DK II | DK III | Rekulti- vierungs- schicht |
   | 1 | organischerAnteil des Trockenrückstandes der Original-substanz |  |  |  |  |  |  |  |
-  | 1.01 | bestimmt alsGlühverlust | Masse% | ≤ 3 | ≤ 3 | ≤ 3 | ≤ 53)4)5) | ≤ 104)5) |  |
-  | 1.02 | bestimmt als TOC | Masse% | ≤ 1 | ≤ 1 | ≤ 13)4)5) | ≤ 33)4)5) | ≤ 64)5) |  |
+  | 1.01 | bestimmt alsGlühverlust | Masse% TM | ≤ 3 | ≤ 3 | ≤ 3 | ≤ 53)4)5) | ≤ 104)5) |  |
+  | 1.02 | bestimmt als TOC | Masse% TM | ≤ 1 | ≤ 1 | ≤ 13)4)5) | ≤ 33)4)5) | ≤ 64)5) |  |
   | 2 | Feststoffkriterien |  |  |  |  |  |  |  |
   | 2.01 | Summe BTEX (Benzol,Toluol, Ethylbenzol,o-, m-, p-Xylol, Styrol, Cumol) | mg/kg TM | ≤1 | ≤ 6 |  |  |  |  |
   | 2.02 | PCB (Summe der 7 PCB-Kongenere, PCB-28, -52, -101, -118, -138, -153, -180) | mg/kg TM | ≤ 0,02 | ≤ 1 |  |  |  | ≤ 0,1 |
@@ -57,7 +57,7 @@
   | 2.04 | Summe PAK nach EPA | mg/kg TM | ≤ 1 | ≤ 30 |  |  |  | ≤ 5 |
   | 2.05 | Benzo(a)pyren | mg/kg TM |  |  |  |  |  | ≤ 0,6 |
   | 2.06 | Säureneutralisations-kapazität | mmol/kg |  |  | muss bei gefährlichen Abfällen ermittelt werden | muss bei gefährlichenAbfällen ermittelt werden7) | muss ermittelt werden |  |
-  | 2.07 | extrahierbare lipophile Stoffe in der Originalsubstanz | Masse% |  | ≤ 0,1 | ≤ 0,45) | ≤ 0,85) | ≤ 45) |  |
+  | 2.07 | extrahierbare lipophile Stoffe in der Originalsubstanz | Masse% TM |  | ≤ 0,1 | ≤ 0,45) | ≤ 0,85) | ≤ 45) |  |
   | 2.08 | Blei | mg/kg TM |  |  |  |  |  | ≤ 140 |
   | 2.09 | Cadmium | mg/kg TM |  |  |  |  |  | ≤ 1,0 |
   | 2.10 | Chrom | mg/kg TM |  |  |  |  |  | ≤ 120 |

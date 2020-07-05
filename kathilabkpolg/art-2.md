@@ -2,7 +2,7 @@
 
 (1)
 Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Republik Polen entstehen, trägt
-1. der Bund, soweit das Bundesministerium des Innern Hilfe zugesagt hat,
+1. der Bund, soweit das Bundesministerium des Innern, für Bau und Heimat Hilfe zugesagt hat,
 2. das jeweilige Land, soweit das Innenministerium des Landes Hilfe zugesagt hat; landesrechtliche Bestimmungen über die Kostentragung innerhalb des Landes bleiben unberührt.
 (2)
 Absatz 1 gilt für Artikel 3 Abs. 2 des Abkommens entsprechend.
