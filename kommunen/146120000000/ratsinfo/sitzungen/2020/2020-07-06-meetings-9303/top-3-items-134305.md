@@ -1,0 +1,6 @@
+# TOP 3: Aktuelle Informationen Fußweg Steinbach
+
+- Sitzung: 11. Sitzung des Ortschaftsrates Gompitz (2020-07-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/134305
