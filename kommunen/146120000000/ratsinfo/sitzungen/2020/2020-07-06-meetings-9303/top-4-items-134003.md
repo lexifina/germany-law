@@ -1,0 +1,8 @@
+# TOP 4: Bibliotheksentwicklungsplan 2020 - 2025
+
+- Sitzung: 11. Sitzung des Ortschaftsrates Gompitz (2020-07-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/134003
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/40919
