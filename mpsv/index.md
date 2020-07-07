@@ -38,9 +38,7 @@ Informationsaustausch
 
 - [§ 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige 
 Bundesbehörde](0019.md)
-- [§ 20 Informationsaustausch zwischen der zuständigen Bundesoberbehörde und den zuständigen Landesbehörden](0020.md)
 - [§ 21 Europäischer und internationaler Informationsaustausch](0021.md)
-- [§ 22 Unterrichtung sonstiger Behörden, Organisationen und Stellen](0022.md)
 - [§ 23 Wissenschaftliche Aufarbeitung der durchgeführten Risikobewertungen](0023.md)
 - [§ 24 Veröffentlichung von Informationen über das Internet](0024.md)
 - [Anlage (weggefallen)](anlage.md)
