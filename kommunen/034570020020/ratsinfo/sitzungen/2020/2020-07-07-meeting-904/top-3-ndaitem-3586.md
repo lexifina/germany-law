@@ -1,0 +1,6 @@
+# TOP 3.: Anfragen der Einwohnerinnen und Einwohner zu den Punkten der Tagesordnung
+
+- Sitzung: Schulausschuss (6. Sitzung) (2020-07-07)
+- Körperschaft: Gemeinde Uplengen
+- Öffentlich: ja
+- OParl: https://uplengen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3586
