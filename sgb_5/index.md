@@ -839,5 +839,6 @@ der Herstellung der Einheit Deutschlands
 - [§ 327 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0327.md)
 - [§ 328 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0328.md)
 - [§ 329 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0329.md)
+- [§ 329 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0329-2.md)
 - [§ 330 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0330.md)
 - [§ 331 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0331.md)

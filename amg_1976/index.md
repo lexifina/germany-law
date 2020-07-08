@@ -6,6 +6,7 @@
 
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Arzneimittelbegriff](0002.md)
+- [§ 2 Arzneimittelbegriff](0002-2.md)
 - [§ 3 Stoffbegriff](0003.md)
 - [§ 4 Sonstige Begriffsbestimmungen](0004.md)
 - [§ 4a Ausnahmen vom Anwendungsbereich](0004a.md)
