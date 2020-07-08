@@ -59,9 +59,6 @@ und Eigentumswohnungen](0015.md)
 ## - Zu § 13 des Gesetzes
 
 - [§ 51 Pauschale Ermittlung der Gewinne aus Holznutzungen](0051.md)
-
-## - (weggefallen)
-
 - [§ 52 Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln](0052.md)
 
 ## - Zu § 17 des Gesetzes
