@@ -6,7 +6,6 @@
 
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
-- [§ 2 Begriffsbestimmungen](0002-2.md)
 - [§ 3 Weitere Begriffsbestimmungen](0003.md)
 - [§ 4 Vorschriften zum Geltungsbereich](0004.md)
 

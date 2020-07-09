@@ -18,7 +18,7 @@ Formblatt
 |  |  |  |  |  |
 |  |  |  |  |  |
 | Anschrift des Schornsteinfegerbetriebes | Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden. |
-| Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 8 EU/EWR-Handwerk-Verordnung erstattet wurde: | Datum Unterschrift des Schornsteinfegers |
+| Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde: | Datum Unterschrift des ausführenden Schornsteinfegers |
 |  | Bestätigung der Ausführung dieser Schornsteinfegerarbeiten |
 | Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben): | Datum Unterschrift des Eigentümers/Verwalters |
 Gasförmige Brennstoffe
@@ -36,6 +36,7 @@ Gasförmige Brennstoffe
 | Wärmeaustauscher: Hersteller, Typ, Herstell-Nr., Errichtung | Leistungsbereich/Leistung bei der Messung | Nennleistung |
 | Brenner: Hersteller, Typ, Herstell-Nr., Errichtung | Brennerart | Leistungsbereich/Leistung bei der Messung | Brennstoff |
 | Feuerstättenart |  | Art der Anlage |
+| Herstellerbescheinigung nach § 6 1. BImSchV () ja () nein |
 | Überprüfungsergebnis gemäß KÜO (✓ = in Ordnung, X = mangelhaft, – = nicht zutreffend): |
 | Verbrennungsluft/Lüftung |  | Abgasabzug: |  | Abgasleitung |  |  |
 | Feuerstätte: |  | – an der Strömungssicherung |  | O2-Gehalt im Abgas |  | % |
@@ -72,6 +73,7 @@ Flüssige Brennstoffe
 | Überprüfungsergebnis gemäß KÜO (✓ = in Ordnung, X = mangelhaft, – = nicht zutreffend): |
 | Verbrennungsluft/Lüftung |  | Brenner/Heizgasweg |  | Verbindungsstück |  |  |
 | Feuerstätte: |  | Abgasabzug: |  | Abgasleitung |  |  |
+|  |  |  |  | O2-Gehalt im Abgas % |  |  |
 | – Befestigung/Abstände |  | – in Brennerhöhe |  | unverdünnter CO-Gehalt |  | ppm |
 | – äußerer Zustand |  | – an anderer Stelle |  | O2-Differenz im Ringspalt |  | % |
 | [ ] Folgende Mängel wurden festgestellt: | Lufttemperatur im Ringspalt |  | °C |
@@ -92,7 +94,7 @@ Heizkessel für feste Brennstoffe
 |  |  |  |  |  |
 |  | Anschrift des Schornsteinfegerbetriebes |  | Datum der Arbeitsausführung: |  |
 |  |  |  |
-|  | [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV[ ] Messung und Überprüfung nach § 14 Absatz 2 1. BImSchV[ ] Messung und Überprüfung nach § 15 Absatz 1 bzw. § 25 Absatz 4 1. BImSchV[ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV[ ] Beratung nach § 4 Absatz 8 bzw. § 25 Absatz 5 1. BImSchV |  |
+|  | [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV[ ] Messung und Überprüfung nach § 14 Absatz 2 1. BImSchV[ ] Messung und Überprüfung nach § 15 Absatz 1 bzw. § 25 Absatz 4 1. BImSchV[ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV[ ] Beratung nach § 4 Absatz 8 1. BImSchV |  |
 |  |  |  |
 |  | Ausfertigung für |  |
 |  |  |  |  |  |
@@ -124,7 +126,7 @@ Einzelraumfeuerungsanlagen für feste Brennstoffe
 |  |  |  |  |  |
 |  | Anschrift des Schornsteinfegerbetriebes |  | Datum der Arbeitsausführung: |  |
 |  |  |  |
-|  | [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV[ ] Überprüfung nach § 14 Absatz 2 1. BImSchV[ ] Überprüfung nach § 15 Absatz 2 1. BImSchV[ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV[ ] Beratung nach § 4 Absatz 8 bzw. § 26 Absatz 7 1. BImSchV |  |
+|  | [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV[ ] Überprüfung nach § 14 Absatz 2 1. BImSchV[ ] Überprüfung nach § 15 Absatz 2 1. BImSchV[ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV[ ] Beratung nach § 4 Absatz 8 1. BImSchV |  |
 |  |  |  |
 |  | Ausfertigung für |  |
 |  |  |  |  |  |
@@ -136,7 +138,7 @@ Einzelraumfeuerungsanlagen für feste Brennstoffe
 | Feuerstättenbauart nach Anlage 4 | Beschickungsart | Art der Anlage |
 | Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.) |
 |  Positive Prüfbescheinigung liegt vor (§ 4 Absatz 3 oder Absatz 5 Nummer 2) |
-|  Offener Kamin oder historische Feuerstätte, zugelassen nur für gelegentlichen Betrieb (§ 4 Absatz 4) |
+|  Offener Kamin, zugelassen nur für gelegentlichen Betrieb (§ 4 Absatz 4), oder historische Feuerstätte (§ 26 Absatz 3 Nummer 5) |
 |  Einrichtung zur Reduzierung der Staubemissionen vorhanden (§ 4 Absatz 5) |
 |  Messung durch eine Schornsteinfegerin oder einen Schornsteinfeger positiv (§ 4 Absatz 5 Nummer 1) |
 | Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1): | [ ] ja [ ] nein |

@@ -27,7 +27,12 @@
 
 - [§ 10 Meldung und Zulassung zum Zweiten und Dritten Abschnitt der Ärztlichen Prüfung](0010.md)
 
-## Abschnitt 6 Übergangsregelung und Inkrafttreten
+## Abschnitt 6 Eignungs- und Kenntnisprüfung
 
-- [§ 11 Übergangsregelung](0011.md)
-- [§ 12 Inkrafttreten](0012.md)
+- [§ 11 Eignungsprüfung](0011.md)
+- [§ 12 Kenntnisprüfung](0012.md)
+
+## Abschnitt 7 Übergangsregelung und Inkrafttreten
+
+- [§ 13 Übergangsregelung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)
