@@ -89,4 +89,3 @@ Verfahren
 - [Anlage 2 Tabelle B(Abschlusstabelle)](anlage-2.md)
 - [Anlage 3 Tabelle C(Buchführungstabelle)](anlage-3.md)
 - [Anlage 4 Tabelle D](anlage-4.md)
-- [Anlage 5 (weggefallen)](anlage-5.md)
