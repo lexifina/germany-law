@@ -1,0 +1,57 @@
+# 51. Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-07-13T16:40:00+02:00
+- Ende: 2020-07-13T18:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/3
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21508
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21508
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Stand 13.07.2020, 13.43 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00780722.pdf
+- Ergebnisprotokoll: Tagesordnung Stand 13.07.2020, 13.43 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00780722.pdf
+- Wortprotokoll: Tagesordnung Stand 13.07.2020, 13.43 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00780722.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der SPD-Fraktion betreffend "Erwerb einer Binnenschifffahrtsgruppe durch die HGK droht zu scheitern – was hat die Oberbürgermeisterin unternommen?" - Sache ist erledigt
+- TOP 2: Mitteilungen
+- TOP 2.1: Mitteilungen der Oberbürgermeisterin
+- TOP 2.1.1: Anfrage der Fraktion Bündnis90/Die Grünen zur Unterstützung von Solokünstlerinnen und -künstlern - Kenntnis genommen
+- TOP 2.1.2: Information zum Städtebauförderprogramm NRW für das Jahr 2021 - Kenntnis genommen
+- TOP 2.1.3: Straßenkarneval 2020 - Ansammlung größerer Gruppen im Bereich Hohenstaufenring/Jahnstraße (Zülpicher Platz) - Kenntnis genommen
+- TOP 2.1.4: 2. Fortschreibung städtischer Maßnahmen zur Bewältigung der wirtschaftlichen und sozialen Folgen der Corona-Krise - Kenntnis genommen
+- TOP 2.1.5: Schenkungen im Zusammenhang mit Corona - Kenntnis genommen
+- TOP 2.1.6: Stellungnahme zum Änderungsantrag der Fraktionen CDU, FDP und Bündnis 90/Die Grünen AN/0548/2020 - Kenntnis genommen
+- TOP 2.2: Mitteilungen zu gleichstellungsrelevanten Themen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend "Erwerb von landeseigenen Grundstücken im Otto- und Langen-Quartier durch die Stadt Köln" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 13.07.2020 - zurückgestellt
+- TOP 3.2: Anfrage der FDP-Fraktion betreffend "ÖPNV-Roadmap beschleunigen" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 09.07.2020 - Kenntnis genommen
+- TOP 3.3: Anfrage der FDP-Fraktion betreffend "Elektronische Corona-Registrierung in der Gastronomie und Rückstände im Bürgerservice der Stadtverwaltung" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 13.07.2020 - zurückgestellt
+- TOP 3.4: Anfrage der SPD-Fraktion betreffend "Corona-Pandemie: Auswirkungen auf die Unterbringungssituation der Geflüchteten" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.07.2020 - Kenntnis genommen
+- TOP 3.5: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Nächtliche Abschiebungen aus Köln nach Albanien nach Grenzöffnung" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.07.2020 - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.1.1: Gewährung Zuschuss Kölner Renn-Verein - ungeändert beschlossen
+- TOP 5.1.2: Stärkung der Demokratie durch aktive Bewerbung der Wahlen in Köln - ungeändert beschlossen
+- TOP -: Mitteilung zur Dringlichkeitsentscheidung und Genehmigung ‚Stärkung der Demokratie durch aktive Bewerbung der Wahlen in Köln‘ (Vorl.Nr. 1602/2020) - Kenntnis genommen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 5.1.3: Annahme einer Schenkung von 35 Pflanzkübeln der Kölner Grün Stiftung - ungeändert beschlossen
+- TOP 5.1.4: Coronabedingte Auswirkungen auf die Unterbringungssituation der Geflüchteten - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 5.1.5: Erstattung von Elternbeiträgen für Juni und Juli 2020 - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 5.1.6: Mediengründerzentrum NRW MGZ GmbH, hier Veräußerung von Anteilen - ungeändert beschlossen
+- TOP 5.2: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 Satz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Sonstige Allgemeine Vorlagen
+- TOP 6.1: Bedarfsfeststellungsbeschluss zur Abwicklung des Touristenbusverkehrs in der Adventszeit - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 7: Mündliche Anfragen
