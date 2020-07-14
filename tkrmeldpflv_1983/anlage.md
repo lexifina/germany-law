@@ -27,6 +27,7 @@
 | 20. | Rauschbrand | – | – | – |  |  | – | – | – | – | – | – | – | – | – | – | – |  |
 | 21. | Säugerpocken(Orthopoxinfektion) |  |  |  | – |  | – |  |  | – | – | – | – | – | – | – |  |  |
 | 22. | Salmonellose/Salmonella spp. |  | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 22a. | SARS-CoV-2- Infektion bei Haustieren |  |  |  |  |  |  |  |  |  |  |  |  |  | – | – |  |  |
 | 23. | Schmallenberg-Virus | – |  | – |  |  | – | – | – | – | – | – | – | – | – | – |  |  |
 | 24. | Toxoplasmose |  |  |  |  |  | – |  |  | – | – | – | – | – | – | – |  |  |
 | 25. | Transmissible Virale Gastroenteritis des Schweines (TGE) | – | – |  | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
