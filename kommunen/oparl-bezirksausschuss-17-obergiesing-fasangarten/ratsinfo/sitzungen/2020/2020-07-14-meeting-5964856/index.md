@@ -1,0 +1,179 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2020-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5964856
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5964856
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll/e der Sitzung vom 16.06.2020
+- TOP 2.1.2.1.: Offener Brief zur Lage in der Gastronomie, Schreiben der Gewerbetreibenden vom 02.05.2020
+- TOP 2.1.2.2.: Verkehrssituation Traunsteiner Straße; Bürgeranliegen vom 16.06.2020
+- TOP 2.1.2.3.: Verkehrsberuhigung Traunsteiner Straße, Verhindern des Gehwegfahrens; Bürgeranliegen vom 16.06.2020
+- TOP 2.1.2.4.: Methadon-Ausgabestelle Obergiesing; Bürgeranliegen
+- TOP 2.1.2.5.: Änderung der Verordnung der Landeshauptstadt München über das Stadion an der Grünwalder Straße; Teilnahme von Vertreter*innen der Anwohner bei einer Befragung zu den Planungen; Bürgeranliegen vom 27.06.2020
+- TOP 2.1.2.6.: Radweg und rote Markierungen entlang der Tegernseer Landstraße; Bürgeranliegen vom 09.07.2020 (FF UA Verkehr)
+- TOP 3.9.2.1.: St.-Martin-Str. 31, Ersatzneubau Krematorium Ostfriedhof mit Anbindung an die best. Trauerhalle
+- TOP 3.9.2.2.: Grenzstr. 7; Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage
+- TOP 4.1.: Corona-Soforthilfe aus dem BA-Budget für Künstler*innen; Antrag des BA 8 Schwanthalerhöhe mit der Bitte um Unterstützung
+- TOP 4.2.: Einbeziehung des stadtklimatischen Gutachtens des Deutschen Wetterdienstes in das mikroklimatische Gutachten zum Schutz des Hachinger Tals; Antrag Fraktion Die Grünen
+- TOP 4.3.: Bestellung von Ferienpässen und Familienpässen für Einrichtungen mit Kindern und Jugendlichen im Stadtbezirk Obergiesing-Fasangarten; Antrag CSU-Fraktion
+- TOP 4.4.: Fahrradabstellständer in der Deisenhofenerstraße/Heimgartenstraße komplettieren; Antrag SPD-Fraktion
+- TOP 5.1.1.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-17-0240 (FF UA KVIS)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Lebenshilfe München e.V. Kunstprojekt "Permanus" vom 01.10.2020 - 30.09.2021 19.064,90 € / Az. 0262.0-17-0242 (FF UA FSA)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.2020 – 30.09.2020 2.500,00 € / Az. 0262.0-17-0243
+- TOP 5.1.4.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag der REGSAM e.V. vom 29.11.2019 Neuauflage der Informationsbroschüre "Familie in Giesing" Antrag auf Erhöhung der ursprünglichen Zuschusses um 741,16 Euro - Anhörung durch das Direktorium -
+- TOP 5.1.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater aus Giesing für Giesing von August bis September 2020 8.860,00 € / Az. 0262.0-17-0245
+- TOP 5.1.6.: (E) Stadtbezirksbudget Wir in Giesing e.V. Kultursommer am Grünspitz von Juli bis Oktober 2020 15.209,60 € / Az. 0262.0-17-0246
+- TOP 5.1.7.: (E) Stadtbezirksbudget SpVgg 1906 Haidhausen e.V. Erneuerung Trainingsequipment 5.130,00 € / Az. 0262.0-17-0244
+- TOP 5.2.1.: Stadtteil-Wanderbühne "Sommer in der Stadt" Übernahme der Gagen durch den BA - Antrag auf Bestellung städtischer Leistungen -
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verzicht auf den Eigenanteil in Höhe bei Budget-Anträgen in Höhe von 25% durch den BA - Antwortschreiben des Direktoriums -
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Kesselbergstr. 12, TEKTUR zu 1.2-2020-1239-33 - DG-Ausbaus (8 WE) und Errichtung einer zusätzlichen Wohneinheit im Bereich des ehem. Trockenspeichers sowie Erweiterung der Balkonanlage (Straßenseite) bis ins DG Fristverlängerung bis einschließlich 17.07.2020
+- TOP 6.1.3.2.: Schwandorfer Str. 10, Neubau eines Mehrfamilienhauses mit Garagen Fristverlängerung bis einschließlich 17.07.2020 beantragt
+- TOP 6.1.3.3.: St.-Martin-Str. 31, Ersatzneubau Krematorium Ostfriedhof mit Anbindung an die best. Trauerhalle
+- TOP 6.1.3.4.: St.-Quirin-Platz; Temporärer Showroom für die mögliche Geometrie einer Wohnung
+- TOP 6.1.3.5.: Grenzstr. 7; Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 25.05.2020 bis 28.06.2020
+- TOP 6.1.4.2.: Zweckentfremdungen: - Fasangartenstr. 142
+- TOP 6.1.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.6.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 6.1.4.7.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/30 Münchberger Straße (östlich), Kronacher Straße (südlich), BAB München - Salzburg (westlich), Fasangartenstraße (nördlich) A) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss B) Empfehlung Flächennutzungsplan Münchberger Straße - Regionaler Grünzug 10 Empfehlung Nr. 14-20 / E 01586 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing - Fasangarten am 20.07.2017 Stadtbezirk 17 Obergiesing – Fasangarten
+- TOP 6.1.4.8.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 6.1.4.9.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: NEU für 2021: Beteiligung von Kindern an der Stadtbezirksentwicklung - Gemeinsamer Einsatz des Kita-Stadtteil-Koffers und des Kinder-Aktions-Koffers Zwei Methodensets, zwei Zielgruppen, ein Ziel: unser Stadtteil soll kinderfreundlicher werden! - Kita-Stadtteil-Koffer zur Beteiligung von Kindern im Kindergartenalter - Kinder-Aktions-Koffer zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Bauliche Sicherung von Fußgänger- und Fahrradflächen entlang der St.-Bonifatius-Straße Empfehlung Nr. 14-20 / E 02079 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 28.06.2018
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Kurzfristige Maßnahmen für Fußgänger*innen in Zeiten von Corona - Anhörung durch das Kreisverwaltungsreferat (Frist: 10.07.2020) Stellungnahme vorab nach § 13 Abs. 2 BA-Satzung
+- TOP 6.3.3.2.: Deisenhofener Str. 40; Einrichtung einer Ladezone (eingeschränktes Halteverbot), Edeka - Anhörung durch das Kreisverwaltungsreferat -
+- TOP 6.3.3.3.: Parkplätze zu Abstellflächen für Radl und E-Scooter - Antwortschreiben des Kreisverwaltungsreferates mit mgl. Stellungnahme durch BA bis 17.07.2020 -
+- TOP 6.3.3.4.: Tegernseer Landstraße; Fahrbahnbegrenzungslinie zwischen Wirthstraße und Tegernseer Platz - Anhörung durch das Kreisverwaltungsreferat -
+- TOP 6.3.3.5.: Leistungsprogramm der MVG für die Fahrplanperiode 2021 Sitzungsvorlage Nr. 20-26/V 00551 - Anhörung durch das Referat für Arbeit und Wirtschaft -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 6.3.4.2.: (U) Einhaltung der Abstandsregelungen für den Radverkehr während der Corona-Pandemie Antrag Nr. 14-20 / A 07007 der SPD Fraktion vom 09.04.2020 Pop-up-Bike Lanes für München in der Corona-Zeit? Platz für Fahrräder, Fußgänger*innen und spielende Kinder nutzen Antrag Nr. 20-26 / A 00012 Fraktion Die Grünen - Rosa Liste vom 07.05.2020
+- TOP 6.3.4.3.: Radwege aus Obergiesing in die Innenstadt verbessern!
+- TOP 6.3.4.4.: BA-Ansprechpartnerschaft für die MVG
+- TOP 6.3.4.5.: Perlacher Str. 60; Anfahrtszone für Kita Luna mittels eingeschränktem Halteverbot
+- TOP 6.3.4.6.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen"; Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 6.3.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.8.: (U) Erhalt des General-Kalb-Wegs weiterhin als Fußgänger- und Fahrradweg Empfehlung Nr. 14-20 / E 02741 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 04.07.2019 Hinweis: Alte SV-Nr. 14-20 / V 16930
+- TOP 6.3.4.9.: Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand - Bekanntgabe Sitzungsvorlage Nr. 14-20/V 16865 - Antwortschreiben des Baureferates -
+- TOP 6.3.4.10.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 6.3.4.11.: Weißenseestraße; unechte Einbahnregelung ab westlich Untersbergstraße aus stadtgestalterischen Gründen
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) Entscheidungsbefugnis über Maßnahmen der Luftreinhaltung Runder Tisch von Experten, Entscheidern der Landeshauptstadt München und Mitgliedern des Be­zirksausschusses 17 zur Identifikation von Maß­nahmen zur kurzfristigen Verbesserung der Luftsi­tuation in Giesing Empfehlung Nr. 14-20 / E 02766 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 6.4.4.2.: Mehr Bäume für den Stadtbezirk Obergiesing-Fasangarten; Antrag auf Bestellung städtischer Leistungen
+- TOP 6.4.4.3.: Wertstoffcontainerstandort: Ersatzstandort für den bereits abgezogenen Wertstoffcontainerstandort an der Balanstraße beim Bahnübergang Variante 1: Görzer Straße/Balanstraße Variante 2: Balanstraße gegenüber Frankenwaldstraße - Schriftverkehr zwischen Kommunalreferat und BA 16 zur Kenntnisnahme -
+- TOP 6.4.4.4.: Die Münchner Wertstoffinseln - Broschüre des AWM -
+- TOP 6.4.4.5.: Der Hauptweg zur WC-Anlage im Weißenseepark soll ausreichend beleuchtet werden!
+- TOP 6.4.4.6.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 6.4.4.7.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 6.4.4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Giesinger Bahnhofsplatz "Sommer in der Stadt" - kulturelle Wanderbühne am 09.08.2020, von 16.00 Uhr bis 22.00 Uhr
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Sommer in der Stadt; Aufstellung einer Bude - Rückfrage durch das Referat für Arbeit und Wirtschaft -
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Genehmigung Freischankfläche durch das Kreisverwaltungsreferat: hier: Gaststätte "Edelweiß", Edelweißstr. 10
+- TOP 6.6.4.2.: Genehmigung Freischankfläche durch das Kreisverwaltungsreferat hier: Gaststätte "Attentat Griechischer Salat", Zugspitzstr. 10
+- TOP 6.6.4.3.: Genehmigung Freischankfläche durch das Kreisverwaltungsreferat hier: Einzelhandel mit erl. freier Gaststätte "I-Boss", Tegernseer Landstraße 18
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: (U) Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; hier: Aufsichtsräte Hinweis: Alte SV-Nr. 14-20 / V 18200
+- TOP 7.3.2.: BA-Sitzungen im Live-Stream - Information der Bezirksausschüsse durch das Direktorium -
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
