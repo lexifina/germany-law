@@ -1,0 +1,99 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779068
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779068
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 8: Kultur und Integration
+- TOP 9: Umwelt und Verkehr
+- TOP 10: Budget und Finanzen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 13: Protokoll und Umlauf
+- TOP 3.1.: AKIM - Allparteiliches Konfliktmanagement in München stellt sich vor
+- TOP 6.2.1.: Bauvorhaben Barthstraße 24-26 / Westendstraße 160-162
+- TOP 6.2.2.: Bauvorhaben Bergmannstraße 8
+- TOP 6.2.3.: Bauvorhaben Theresienhöhe 5
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Meldeliste Bauvorhaben Stadtwerke München
+- TOP 6.3.3.: Genehmigung Freischankfläche Gaststätte Bergmannstraße 66
+- TOP 6.3.4.: Genehmigung Freischankfläche Gaststätte Heimeranplatz 1
+- TOP 6.3.5.: Genehmigung Freischankfläche Gaststätte Gollierstraße 39
+- TOP 6.3.6.: Genehmigung Freischankfläche Gaststätte Ligsalzstraße 23
+- TOP 6.3.7.: Genehmigung Freischankfläche Gaststätte Schwanthalerstraße 131
+- TOP 6.3.8.: Genehmigung Freischankfläche Gaststätte Parkstraße 2
+- TOP 6.3.9.: Genehmigung Freischankfläche Gaststätte Kazmairstraße 37
+- TOP 6.3.10.: Genehmigung Freischankfläche Gaststätte Landsberger Straße 94
+- TOP 6.3.11.: Genehmigung Freischankfläche Gaststätte Parkstraße 12
+- TOP 6.3.12.: Genehmigung Freischankfläche Gaststätte Schwanthalerstraße 160
+- TOP 6.3.13.: Genehmigung Freischankfläche Gaststätte Gollierstraße 83
+- TOP 6.3.14.: Abfallwirtschaftsbetrieb München - Informationsbroschüre "Wertstoffinseln in München"
+- TOP 6.3.15.: Umwandlung von KFZ-Stellplätzen zu Stellplätzen für (Lasten)-Fahrräder; Zwischennachricht PLAN zu BA-Antrag 14-20 B 07228
+- TOP 6.3.16.: Errichtung einer Öffentlichen WC-Anlage im Stadtbezirk; BV-Empfehlung 14-20 E02587
+- TOP 6.3.17.: Genehmigung Freischankfläche Gaststätte Westendstraße 117
+- TOP 6.3.18.: Genehmigung Freischankfläche Gaststätte Tulbeckstraße 9
+- TOP 6.3.19.: Genehmigung Freischankfläche Gaststätte Kazmairstraße 31
+- TOP 6.3.20.: Genehmigung Freischankfläche Gaststätte Heimeranstraße 61
+- TOP 6.3.21.: Genehmigung Freischankfläche Gaststätte Parkstraße 25
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Ausschreibung KinderAktionsKoffer für den Einsatz im Stadtbezirk 2021
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: TOPO-Boxen - Auswertung der BA-Anhörung und weiteres Vorgehen
+- TOP 9.2.2.: Baumfällung Theresienhöhe
+- TOP 9.2.3.: Saisonale Stadträume 2020 - Kriterien, Anmeldung, Umsetzung
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sinnvolle Radwegverbindung Westend - Innenstadt; Ausstattung der Schwanthalerstr. mit beidseitigem Radweg; BV-Empfehlung 2474 vom 04.04.2019 - Fristverlängerung
+- TOP 9.3.2.: Veranstaltungsanzeigen "Kulturlieferdienst"
+- TOP 9.3.3.: Erfahrungsbericht Oktoberfest 2019
+- TOP 9.3.4.: Online-Umfrage des Abfallwirtschaftsbetriebs München
+- TOP 9.3.5.: Temporäre Radwegstreifen Landsberger Straße; Antwortschreiben KVR zu BA-Antrag 20-26 B 00019
+- TOP 9.3.6.: Radwegbeschilderung im Oda-Schäfer-Weg - Ergänzung der Schilder in östlicher Richtung; Antwortschreiben KVR
+- TOP 9.3.7.: Veranstaltungsanzeige "Bluepeers"
+- TOP 9.3.8.: Veranstaltungsanzeige "Flohmärkte Georg-Freundorfer-Platz"
+- TOP 9.3.9.: Teilnahme des Stadtbezirkes Schwanthalerhöhe am Pilotprojekt "Lastenrad- Mietsystem" des Freistaates Bayern; Antwortschreiben KVR zu BA-Antrag 20-26 B 00090
+- TOP 9.3.10.: Filmaufnahmen Quartiersplatz Theresienhöhe
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget KÖSK Kreisjugendring München-Stadt Kulturprogramm für Kunst im Quadrat vom 01.-16.08.2020 8.552,00€; Az. 0262.0-8-0233
+- TOP 10.1.2.: (E) Stadtbezirksbudget Hidalgo Community e.V. Kunstlied-Festival "Street Art Song" am 12.09.2020 (Ersatztermin: 08.05.2021) 1.000,00 €, AZ: 0262.0-8-0227
+- TOP 10.1.3.: (E) Stadtbezirksbudget democraticArts (Künstlerkollektiv) Die Demokratie in der Kunst – Die Kunst der Demokratie – in Krisenzeiten (Unruly Ghosts) vom 01.07.-31.12.2020 7.000,00 €, AZ: 0262.0-12-0389
+- TOP 10.1.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.-30.09.2020 2.500 €, AZ: 0262.0-8-0232
+- TOP 10.1.5.: (E) Stadtbezirksbudget Initiative "Visuelle Kommunikation" Realisierung (Gestaltung, Produktion und druck) BA-RadlVorrang-Karte-to-go 997,50 €, AZ: 0262.0-8-0236
+- TOP 10.1.6.: (E) Stadtbezirksbudget Anna Paroli GbR IRRLICHTER vom 30.07. - September 2020 7.478,00 €, AZ: 0262.0-8-0235
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Budget Kulturkeller Schwanthalerhöhe - Verlängerung des Bewilligungszeitraumes
+- TOP 10.3.2.: Budgetbescheid "PA/Spielen in der Stadt - Zirkus Pumpernudel"
+- TOP 10.3.3.: Budgetbescheid "Me Moves e.V."
+- TOP 10.3.4.: Bugdetbescheid "Queerthing 2020"
+- TOP 10.3.5.: Bugdetbescheid "Westendstudios"
+- TOP 10.3.6.: Änderungs-Budgetbescheid "Initiative Bienen- und Insektenwelt"
+- TOP 10.3.7.: Budgetbescheid "Münchner Flüchtlingsrat"
+- TOP 11.1.: Parkverbotskennzeichnung auf der Fahrbahn an den abgesenkten Bordsteinkanten Ecke Kazmairstraße/Kiliansplatz
+- TOP 11.2.: Rote Fahrradwegmarkierung an der Kreuzung Trappentreustr./Tulbeckstr. sowie Trappentreustr./Westendstr. östlich
+- TOP 11.3.: Verbesserung der Gefahrensituationen für Fußgänger*innen und Radfahrer*innen im Kreuzungsbereich des „Stöpsels“ (Kreuzung Gollierplatz/Trappentreustr.)
+- TOP 11.4.: Einrichtung einer Radwegführung im Bereich der Großbaustelle Heimeranplatz/Ridlerstraße
+- TOP 12.1.: Infoschreiben: BA-Mitgliedschaft in Verbindung mit Beschäftigung bei der Landeshauptstadt München
