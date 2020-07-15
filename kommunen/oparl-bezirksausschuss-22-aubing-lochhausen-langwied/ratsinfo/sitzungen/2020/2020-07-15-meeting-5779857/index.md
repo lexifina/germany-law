@@ -1,0 +1,148 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2020-07-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779857
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779857
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.20
+- TOP 9.2: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.05.20
+- TOP 9.3: Beschluss Vollversammlung vom 13.05.20
+- TOP 9.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.20
+- TOP 9.5: Beschluss der Vollversammlung vom 17.06.20
+- TOP 9.6: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.20
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Hunde trotz Verbot auf Sponeckplatz
+- TOP 2.1.2.: Dreilingsweg
+- TOP 2.1.3.: Höhe Bodenseestr. 244 / Edeka
+- TOP 2.1.4.: Anträge zur Aubing-Ost-Straße
+- TOP 2.1.5.: Aubing-Ost-Straße / Hellensteinstraße: Maßnahmen zur Verkehrsberuhigung und Sicherheit der Anwohner während der Corona-Zeit und zur langfristigen Umsetzung, Verbreiterung des Fußgängerweges, Begrünung des Straßenrands und öffentlichen Raums (vertagt aus 06/20)
+- TOP 2.1.6.: Parkplatzsituation in Neuaubing im Bereich Kunreuth-/Riesenburg-/Pretzfelderstraße
+- TOP 2.1.7.: Müll im Stadtviertel
+- TOP 2.1.8.: Altaubing - parkende Autos verhindern Sicht für Fußgänger und Radfahrer
+- TOP 2.1.9.: Fahrradweg von Neuaubing nach Pasing
+- TOP 2.1.10.: Quartiersplatz Colmdorfstraße
+- TOP 2.1.11.: Durchforstung Aubinger Lohe
+- TOP 2.1.12.: (N) Bushaltestellen
+- TOP 2.1.13.: (N) Riesenbärenklau im Neuaubinger Biotop und sehr schräg stehende Kiefern
+- TOP 2.1.14.: (N) Stellungnahme zur Antwort des Baureferates auf den Antrag "U-Bahn nach Freiham" vom 05.05.20
+- TOP 2.1.15.: (N) Internetproblem im Münchner Westen
+- TOP 3.1.1.: Baumfällungen zu Bauvorhaben: - Gotzmannstr., Fl.Nr. 156/7
+- TOP 3.1.3.: Genehmigung der Baumfällung, Alto. 36, Bescheid Planungsreferat vom 25.06.20
+- TOP 4.1.: Förderung von Intelligenten Parkplatzmanagementsystemen für Mietwohungsgebäude (Tobias Müller)
+- TOP 4.2.: Neuer Online-Service: Meldung verwahrloster Spielplätze von Mietwohngsgebäuden (Tobias Müller)
+- TOP 4.3.: PKW-Parken für Wiesentfelser Str. (ab Ladenzentrum bis Limesstr.), Streitbergstr. (Straßenabschnitt Hs.-Nr. 83-98) und den Parkplatz an der Kreuzung Aufseßer Platz/Aufseßer Str. (Tobias Müller)
+- TOP 4.4.: Schrägparken in der Wiesentfelser Str. zwischen Limesstr. und Neideckstr. (Tobias Müller)
+- TOP 4.5.: Dienstleistungen im Pasinger Rathaus erhalten (Sebastian Kriesel, Manfred Spannagl)
+- TOP 4.6.: Mehr Sicherheit in der Mundesgasse (Christa Zeilermeier, Silvia Weber, Christina Stelzer)
+- TOP 4.7.: Mehr Sauberkeit rund um die Wertstoffcontainer (Interfraktioneller Antrag)
+- TOP 4.8.: Keine Genehmigungen von Musterschießen mit Feuerwerken (Dagmar Mosch, Dr. Alice Beining, Karin Binsteiner)
+- TOP 4.9.: Ein Gewinn für den Münchner Westen: Den Grünzug L endlich herstellen (Interfraktioneller Antrag)
+- TOP 4.10.: Absenken der Bordsteinkanten an der Verkehrsinsel Bergsonstraße / Mariabrunner Straße (FW/ÖDP)
+- TOP 4.11.: Installation eines Sicherheitsgeländers am Gehsteig an der Kreuzung Germeringer Weg / Freihamer Weg (FW/ÖDP)
+- TOP 4.12.: Beratungsgruppe Freiham - Bürgerbeteiligung (FW/ÖDP)
+- TOP 4.13.: Buslinie 267 verstärken (FW/ÖDP)
+- TOP 4.14.: Klimatische Auswirkungen Freiham auf die Landeshauptstadt München darlegen (FW/ÖDP)
+- TOP 4.15.: Zweites Hinweisschild auf Haltelinie an der Brunhamstraße (FW/ÖDP)
+- TOP 4.16.: Tischtennisplatte in Grünanlage Amelbrechtweg (Dr. Alice Beining)
+- TOP 4.17.: Aubing-Ost-Straße / Hellensteinstraße (gemeinsamer Antrag UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität)
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06. - 30.09.2020 2.500,00 Euro; Az.: 0262.0-22-0143
+- TOP 5.3.: (N) Stadtbezirksbudget Verein zur Förderung des religiösen und kulturellen Lebens in Aubing Anschaffung von 20 Festzeltgarnituren 1.694,60, Az.: 0262.0-22-0146
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: (N) - Entscheigung gem. Vollmacht des Oberbürgermeisters vom 09.04.18 über die Projektplanung Mariabrunner Straße zw. Schönbrunner Straße und Sulzemooser Straße, Beschluss des BA
+- TOP 6.1.1.1.: Veranstaltung in städt. Grünanlagen; hier: Fit im Park des FreizeitSports 01.05.-30.09.20, Aubinger Ostpark, Anhörung KVR vom 22.06.20 (Eilentscheidung durch BA-Vorsitzenden)
+- TOP 6.1.1.2.: Veranstaltung im Freien in einer städt. Grünanlage, Gottesdienst im Freien am 19.07.20, Wiese am Sponeckplatz, Anhörung KVR vom 24.06.20
+- TOP 6.1.1.3.: (N) Veranstaltung im Freien auf einer städt. Grünanlage, Wiesentfelser Str., Spielaktion Münchner Spielkistl vom 13.07.-17.07.20, Anhörung KVR vom 03.07.20
+- TOP 6.1.1.4.: N - Veranstaltung im Freien auf einer städtischen Grünanlage: Familienpicknick / Verbraucherzentrale Bayern e.V. und Infostände sozialer Träger am 22.07.20 von 15 - 19 Uhr in der Grünanlage zwischen Radolfzeller Straße / Altenburgstraße, Anhörung KVR vom 07.07.20
+- TOP 6.1.1.5.: (N) Veranstaltung im Freien auf einer städt. Grünanlage, Wiesentfelser Str. 57, Bewegungszeit für Eltern und Kinder vom 30.07.20-03.09.20 von 10.00-12.00 Uhr, Anhörung KVR vom 06.07.20
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Aushänge zur Vergewaltigung in Lochhausen werden entfernt, Schr. Baureferat vom 15.06.20
+- TOP 6.2.2.2.: Orientierungs- und Anlaufstelle für neu zugezogene Familien in Freiham (Raumproblematik), Schr. Sozialreferat vom 16.06.20 und Kommunalreferat vom 27.05.20
+- TOP 6.2.2.3.: Ausschreibung Kita-Stadtteil-Koffer und Kinder-Aktions-Koffer für Einsatz im Stadtbezirk 2021, Schr. Sozialreferat vom 23.06.20
+- TOP 6.2.2.4.: (N) Kindertagesstätte an der Freienfelsstr. 3, Schr. Ref. f. Bildung u. Sport am 29.06.20
+- TOP 6.2.2.5.: (N) Kindertagesstätte in der Teckstr. 19, Schr. Ref. f. Bildung u. Sport vom 29.06.20
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Erinnerungsverfahren, hier: - Toni-Berger-Str. 1-15, Befestigung der Seitenstreifen, Anhörung Baureferat vom 10.06.20 und (N) Anhörung KVR vom 14.07.20 - Hoheneckstr. zwischen Hohenstein-/ Altenburgstr. und Altenburg-/ Gailenreuther Str., Fahrbahnsanierung, Anhörung Baureferat vom 22.06.20
+- TOP 6.3.1.2.: Kurzfristige Maßnahmen für Fußgänger/innen in Zeiten von Corona, Anhörung KVR vom 25.06.20
+- TOP 6.3.1.3.: (N) Bebauungsplan Nr. 2107 Osterangerstraße, Verkehrsberuhigter Bereich, Anhörung Baureferat vom 06.07.20
+- TOP 6.3.1.4.: N - Leistungsprogramm der MVG für die Fahrplanperiode 2021, Anhörung Referat für Arbeit und Wirtschaft vom 07.07.20
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrssicherheit in der Aubing-Ost-Straße, Schr. KVR vom 08.05.20 (vertagt aus 06/20)
+- TOP 6.3.2.2.: Fahrbahnsanierung Heckenhofer Straße zwischen Giechstraße und Dietrichsteinstraße, Schr. Baureferat vom 22.06.20
+- TOP 6.3.2.3.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen", Auswertung der Befragung der BA&#039;s und weiteres Vorgehen, Schr. KVR vom 18.06.20
+- TOP 6.3.2.4.: Verkehrsrechtliche Anordnung, hier: - Ehrenbürgstraße, Einrichtung eines personenbezogenen Behindertenparkplatzes, Schr. KVR vom 24.06.20 - Michael-Öchsner-Straße, Einrichtung eines verkehrsberuhigten Bereiches und Beschilderung des Verbindungsweges zum Gleisdreieck, Schr. KVR vom 17.06.20 (N) - Giechstr. 59, Aufhebung eines personenbezogenen Behindertenparkplatzes, Schr. KVR vom 16.06.20
+- TOP 6.3.2.5.: Bezuschussung Geschwindigkeitstafel, Aufstellung eines Dialogdisplays in der Hellensteinstraße, Schr. KVR vom 16.06.20
+- TOP 6.3.2.6.: Buslinie 157 durch Aubing-Ost und dem Westkreuz, Auswirkungen der Halteverbote überprüfen, Schr. KVR vom 07.07.20
+- TOP 6.3.2.7.: Parkplätze für Kleingärtner, Schr. Baureferat vom 24.06.20
+- TOP 6.3.2.8.: N - Durchgangsverkehr durch die Straße Am Langwieder Bach, Schr. KVR vom 02.07.20 und Bürgerschreiben vom 07.07.20
+- TOP 6.3.2.9.: N - Verlängerung der U-Bahn-Linie 5 West von Pasing nach Freiham, Schr. Baureferat vom 26.06.20
+- TOP 6.3.2.10.: N - Parksituation in der Papinstraße / Hedwig-Kämpfer-Straße / Centa-Häfenbrädl-Straße, Schr. KVR vom 01.07.20
+- TOP 6.3.2.11.: N - Beleuchtung an der Goteboldstraße, Schr. Baureferat vom 25.06.20
+- TOP 6.3.2.12.: N - Änderung der Parkbeschränkung in der Hellensteinstraße, Schr. KVR vom 02.07.20
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Vollz. d. abfall- und immissionsschutzrechtlichen Bestimmungen; Veolia Umweltservice GmbH & Co. KG, Antrag auf Genehmigung für den Betrieb einer Anlage für Lagerung, Umschlag und Behandlung von Abfällen und Standort Rupert-Bodner-Str. 19, Anhörung Ref. f. Gesundheit u. Umwelt vom 27.05.20 (vertagt aus 06/20)
+- TOP 6.4.1.2.: Lindacher Str. 1-3, Neubau 3er Mehrfamilienhäuser mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 16.06.20
+- TOP 6.4.1.3.: Giggenbacherstr. 20, Neubau einer Wohnanlage im Gemeindesaal - Vorbescheid, Anhörung Planungsreferat vom 16.06.20
+- TOP 6.4.1.4.: Lindacher Str. 8, Neubau eines Doppel- und eines Einfamilienhauses mit Carport, Anhörung Planungsreferat vom 23.06.20
+- TOP 6.4.1.5.: N - Ubostr. 35 - Dacherneuerung mit Anhebung und Gaubeneinbau, Anhörung Referat für Stadtplanung und Bauordnung vom 07.07.20
+- TOP 6.4.1.6.: N - Limesstr. 33 - Erweiterung einer Apotheke mit Neubau einer Garage (Vorbescheid), Anhörung Referat für Stadtplanung und Bauordnung vom 07.07.20
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Frische Luft für die Umgebung, Schr. KVR vom 16.06.20
+- TOP 6.4.2.2.: Bauvorhaben im 22. Stadtbezirk: v. 01.06.-07.06.20, v. 06.06.-14.06.20, 15.06.-21.06.20, v. 22.06.-28.06.20, (N) v. 29.06.-05.07.20
+- TOP 6.4.2.3.: Verschmutzung im Umfeld der ehemaligen Firma Uttlinger, Schr. KVR vom 08.06.20
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke München: v. 08.06.-22.06.20, (N) - 22.06.-06.07.20
+- TOP 6.4.2.5.: Infobroschüre zur Verpackungsentsorgung, Schr. AWM vom 24.06.20
+- TOP 6.4.2.6.: N - Stand Städtebaulicher Wettbewerb, Schr. Planungsreferat vom 02.07.20
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: (N) Hans-Stützle-Str. 23, Dauereinrichtung Freischankfläche, Bescheid, Schr. KVR vom 30.06.20
+- TOP 9.1.1.: (U) Stadtsanierung in München Sanierungsgebiet "Aubing - Neuaubing - Westkreuz" Teilmaßnahme "Ortskern Aubing" Kommunales Denkmalkonzept (KDK) Aubing dem Stadtrat vorstellen Antrag Nr. 14-20 / A 05391 von der FraktionDIE GRÜNEN/RL vom 20.05.2019
+- TOP 9.1.2.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 9.2.1.: (U) Fortschreibung des Berichtes zur Entwicklung des Kfz-Bestandes in München Hinweis: Alte SV-Nr. 14-20 / V 17336
+- TOP 9.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3.: (U) Bürgerkonvent zu den Themen Wohnen und Verkehr in München Empfehlung Nr. 14-20/ E 02467 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 21.02.2019 Einrichtung einer "Koordinierungsstelle für Bürgerbeteiligung" mit adäquaten personellen und finanziellen Mitteln, die eine Bürgerbeteiligung auf Augenhöhe mit Verwaltung, Investoren und Entwicklern gewährleistet! Empfehlung Nr. 14-20 / E 02720 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim 11.07.2019
+- TOP 9.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.1.: (U) "Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog" Bekanntgabe der Ergebnisse des ersten Projektbausteins - Bekanntgabe -
+- TOP 9.4.2.: (U) Einhaltung der Abstandsregelungen für den Radverkehr während der Corona-Pandemie Antrag Nr. 14-20 / A 07007 der SPD Fraktion vom 09.04.2020 Pop-up-Bike Lanes für München in der Corona-Zeit? Platz für Fahrräder, Fußgänger*innen und spielende Kinder nutzen Antrag Nr. 20-26 / A 00012 Fraktion Die Grünen - Rosa Liste vom 07.05.2020
+- TOP 9.4.3.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2019 - Bekanntgabe -
+- TOP 9.5.1.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 9.5.2.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 9.6.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 9.6.2.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 9.6.3.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 9.6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.5.: (U) Freiham Nord 1. Bauabschnitt im 1. Realisierungsabschnitt Vergabe der Grundstücksfläche WA 6 im Modellprojekt „8 Euro Höchstmiete“ - Berichterstattung und weiteres Vorgehen –
+- TOP 10.1.: Antrag des BA 8, Corona-Soforthilfe aus dem BA-Budget für Künstlerinnen und Künstler
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.2.: Baumfällungen auf Anforderung: - Lidelstr. 3 - Tettnanger Str. 3 - Sigererstr. 3 - Altostr. 49 - Noderstr. 1
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am Mittwoch, den 05.08.20 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Planen/Bauen/Umwelt: Montag, 06.07.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur/Verkehrsplanung/Mobilität: Dienstag, 07.07.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales/Bildung/Familie/Senioren/Kinder/Jugend: Mittwoch, 08.07.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Stadtbezirksbudget/Kultur/Sport: Donnerstag, 09.07.20 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
