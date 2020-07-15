@@ -1,6 +1,7 @@
 # Anhang 1 Chemikalienlisten*)
 
-Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
+(Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Registriernummer nach |
 | Chemical Abstracts Service |
 | (CAS-Nummer) |
@@ -38,13 +39,25 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
 |  | DF: Methylphosphonsäuredifluorid | (676-99-3) |
 | 10. | O-Alkyl(H oder <- C(tief)10 einschließlich Cycloalkyl)-O-2-Dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethyl-alkyl(Me, Et, n-Pr oder i-Pr)-phosphonite und entsprechende alkylierte und protonierte Salze, z.B. |  |
 |  | QL: O-Ethyl-O-2-diisopropylaminoethyl-methylphosphonit | (57856-11-8) |
-| *) | Jeder Hinweis auf Gruppen dialkyllierter Chemikalien, denen - in Klammern - eine Aufzählung von Alkylgruppen folgt, bedeutet, daß alle Verbindungen, die sich durch sämtliche möglichen Kombinationen der in Klammern genannten Alkylgruppen ergeben, als in die entsprechende Liste eingetragen gelten, sofern sie nicht ausdrücklich ausgenommen sind. |
 |  |
 | Registriernummer nach |
 | Chemical Abstracts Service |
 | (CAS-Nummer) |
 | 11. | Chlor-Sarin: O-Isopropylmethylphosphonochlorid | (1445-76-7) |
 | 12. | Chlor-Soman: O-Pinakolylmethylphosphonochlorid | (7040-57-5) |
+| 13. | P-Alkyl (H oder ≤ C10 einschließlich Cycloalkyl)-N-(1-(dialkyl(≤ C10 einschließlich Cycloalkyl)amino))alkyliden(H oder ≤ C10 einschließlich Cycloalkyl)phosphonamidofluoride sowie entsprechende alkylierte und protonierte Salze, z.B. |  |
+|  | P-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphonamidofluorid | (2387495-99-8) |
+|  | P-Methyl-N-(1-(diethylamino)ethyliden)phosphonamidofluorid | (2387496-12-8) |
+| 14. | O-Alkyl (H oder ≤ C10 einschließlich Cycloalkyl)-N-(1-(dialkyl(≤ C10 einschließlich Cycloalkyl)amino))alkyliden(H oder ≤ C10 einschließlich Cycloalkyl)phosphoramidofluoride sowie entsprechende alkylierte und protonierte Salze, z.B. |  |
+|  | O-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphoramidofluorid | (2387496-00-4) |
+|  | O-Methyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid | (2387496-04-8) |
+|  | O-Ethyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid | (2387496-06-0) |
+| 15. | P-Methyl-N-(bis(diethylamino)methyliden)phosphonamidofluorid | (2387496-14-0) |
+| 16. | Carbamate (quaternäre und bisquaternäre Dimethylcarbamoyloxypyridine)Quaternäre Dimethylcarbamoyloxypyridine:1-[N,N-Dialkyl(≤ C10)-N-(x-(hydroxy, cyano, acetoxy)alkyl(≤ C10)) ammonio]- 10-[N-(3-dimethylcarbamoyloxy-α-picolinyl)-N,N-dialkyl(≤ C10) ammonio]- n-decan-dibromide (x = 1-8) z.B. |  |
+|  | 1-[N,N-Dimethyl-N-(2-hydroxy)ethylammonio]- 10-[N-(3-dimethylcarbamoyloxy-α-picolinyl)-N,N-dimethylammonio]- n-decan-dibromid | (77104-62-2) |
+|  | Bisquaternäre Dimethylcarbamoyloxypyridine:1,x-Bis[N-(3-dimethylcarbamoyloxy-α-picolinyl)-N,N-dialkyl(≤ C10) ammonio]- n-alkan-(2,(x-1)-dion)-dibromide (x = 2-12) z.B. |  |
+|  | 1,10-Bis[N-(3-dimethylcarbamoyloxy-α-picolinyl)-N-ethyl-N-methylammonio]- n-decan-2,9-dion-dibromid | (77104-00-8) |
+|  |
 | Liste 2 |
 | A. | Toxische Chemikalien: |
 | 1. | Amiton: 0,0-Diethyl-S-(2-(diethylamino)-ethyl)-phosphorthiolat und entsprechende alkylierte und protonierte Salze | (78-53-5) |
@@ -90,3 +103,5 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
 | 15. | Ethyldiethanolamin | (139-87-7) |
 | 16. | Methyldiethanolamin | (105-59-9) |
 | 17. | Triethanolamin | (102-71-6) |
+| *) | Jeder Hinweis auf Gruppen dialkyllierter Chemikalien, denen - in Klammern - eine Aufzählung von Alkylgruppen folgt, bedeutet, daß alle Verbindungen, die sich durch sämtliche möglichen Kombinationen der in Klammern genannten Alkylgruppen ergeben, als in die entsprechende Liste eingetragen gelten, sofern sie nicht ausdrücklich ausgenommen sind. |
+| **) | Die in den Nummern 13, 14, 15 und 16 aufgeführten Chemikalien wurden durch zwei Entscheidungen der 24. Konferenz der Vertragsstaaten der Organisation für das Verbot von Chemiewaffen vom 27. November 2019 (C-24/DEC.4 und C-24/DEC.5) unter gleicher Nummerierung in den Anhang 1, Teil B, Liste 1, Abschnitt A des Chemiewaffenübereinkommens aufgenommen. |
