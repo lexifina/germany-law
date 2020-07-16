@@ -1,0 +1,83 @@
+# 14. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-07-16T16:00:00+02:00
+- Ende: 2020-07-16T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8856
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8856
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00485058.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte (2 Runden)
+- TOP 3.1: Konzessionen im Zusammenhang mit den Weihnachtsmärkten - erledigt
+- TOP 3.2: Schrottfahrräder an Bahnhöfen - erledigt
+- TOP 3.3: Ausschreibung der Stelle der/des Beigeordneten für Stadtentwicklung, Bau, Verkehr und Liegenschaften - erledigt
+- TOP 3.4: Anfrage Petition Pegida - erledigt
+- TOP 3.5: Rettung der Sächsischen Dampfschifffahrt - erledigt
+- TOP 3.6: Bargeldlose Zahlung in der Landeshauptstadt Dresden - erledigt
+- TOP 3.7: Wohnungsmieten-Entwicklung in Dresden - erledigt
+- TOP 3.8: Verkehrszählungen nach erster Corona-Welle - erledigt
+- TOP 3.9: Aktueller Stand der Konzeptausschreibung für das Grundstück der ehemaligen Staatsoperette in Leuben - erledigt
+- TOP 3.10: Sanierung der 76. Oberschule und Nutzung der Turnhalle - erledigt
+- TOP 3.11: Beschluss des Stadtrates zum Lockwitztal - erledigt
+- TOP 3.12: Fahrradkuriere und Lastenfahrräder für Transportdienste der Stadtverwaltung - erledigt
+- TOP 3.13: Operettengrundstück Leuben - erledigt
+- TOP 3.14: Gemeindlicher Vollzugsdienst / Besondere Einsatzgruppe - erledigt
+- TOP 3.15: Gemeinschaftsgarten in Prohlis - erledigt
+- TOP 3.16: Vorbereitungen auf eine mögliche “zweite Welle” - erledigt
+- TOP 4: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden – Wahlkreis 11 – Mandat Christlich Demokratische Union Deutschlands (CDU) - Zustimmung
+- TOP 5: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Klotzsche der Landeshauptstadt Dresden - Mandat der Partei BÜNDNIS 90/DIE GRÜNEN - Zustimmung
+- TOP 6: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Mandat der Partei BÜNDNIS 90/DIE GRÜNEN - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Vertagungen Stadtratssitzung 25.06.2020
+- TOP 8.1: Mietenfonds für die freie Kultur- und Kunstveranstalterszene aufgrund der Corona-Pandemie - Zustimmung mit Ergänzung
+- TOP 8.2: Digitalisierung in Stadtbezirksbeiräten und Ortschaftsräten - Ablehnung
+- TOP 8.3: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 8.4: Verzicht auf die Aufstellung eines Gesamtabschlusses der Landeshauptstadt Dresden - Zustimmung
+- TOP 8.5: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse – Parken am Blauen Wunder - Ablehnung
+- TOP 8.6: Verwaltungszentrum Ferdinandplatz – Moratorium Wettbewerblicher Dialog - Vertagung durch Einreicher
+- TOP 8.7: Sanierung der Quohrener Straße jetzt planen - Zustimmung mit Änderung
+- TOP 8.8: Wettbewerbsergebnis "Königsufer/Neustädter Markt" - Ersetzung
+- TOP 9: Ausschreibung der Stelle der/des Beigeordneten für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Zustimmung
+- TOP 10: Überplanmäßige Bereitstellung von Mitteln des Finanzhaushaltes der LHD zur Deckung von investiven Mehrbedarfen des EB Kindertageseinrichtungen Dresden im Jahr 2020, Änderung des Investplans 2020 als Bestandteil des Wirtschaftsplanes 2020 des EB Kita - Zustimmung
+- TOP 11: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2020/2021 - Zustimmung
+- TOP 12: Verordnung der Landeshauptstadt Dresden zur Aufhebung der Sperrstunde für öffentliche Veranstaltungsstätten in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 13: Fortführung von Projekten und Strategien aus der Bewerbung "Kulturhauptstadt Europas 2025" - Zustimmung mit Änderung
+- TOP 14: Fortführung der Kooperationsvereinbarung zwischen dem Freistaat Sachsen, dem Land Hessen, der Stadt Frankfurt am Main sowie der Landeshauptstadt Dresden und der Dresden Frankfurt Dance Company (Rechtsträger: Dresden Frankfurt Dance Company GmbH) bis - Zustimmung mit Ergänzung
+- TOP 15: Elternbeiträge im Dresdner Kreuzchor - Zustimmung
+- TOP 16: Bebauungsplan Nr. 392, Dresden-Neustadt Nr. 40, Albertstadt Ost - Stauffenbergallee/Marienallee - Zustimmung
+- TOP 17: Bebauungsplan Nr. 3027 A, Dresden-Altstadt I Nr. 52, Ferdinandplatz/Verwaltungszentrum - Zustimmung
+- TOP 18: Baumaßnahme Ersatzneubau Veterinär- und Lebensmittelüberwachungsamt am Standort Oskar-Röder-Straße 8 - Zustimmung
+- TOP 19: Künftige Verwendung der kommunalen Liegenschaft Sternplatz 1 - Zustimmung mit Ergänzung
+- TOP 20: Fortschreibung des Straßenbaumkonzeptes der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 21: Abschluss der vorbereitenden Untersuchungen zum Gebietshochwasserschutz Leipziger Vorstadt - Zustimmung mit Ergänzung
+- TOP 22: Mitgliedschaft der Landeshauptstadt Dresden im Bundesverband GebäudeGrün e. V. (BuGG) - Zustimmung
+- TOP 23: Einführung der 5G-Technologie in Dresden – Bürger umfassend beteiligen und entscheiden lassen - Vertagung durch Einreicher
+- TOP 24: Bäume für Dresden - - Vertagung nach 22 Uhr
+- TOP 25: Verbesserung der Verkehrssicherheit durch Beräumung von Verkehrshindernissen (E-Scootern) - Vertagung nach 22 Uhr
+- TOP 26: Elektrokleinstfahrzeuge in Dresden - Vertagung nach 22 Uhr
+- TOP 27: Wald erfahren – Waldpädagogisches Zentrum in der Dresdner Heide etablieren - Vertagung nach 22 Uhr
+- TOP 28: Beflaggung der Dresdner Rathäuser zum Christopher Street Day und zum Internationalen Tag gegen Homo-, Inter- und Transphobie - Zustimmung
+- TOP 29: Weiterentwicklung der Förderung des bürgerlichen Engagements - Vertagung nach 22 Uhr
+- TOP 30: Ein Netz für alle - Bildungsgerechtigkeit in Dresden fördern - Vertagung nach 22 Uhr
+- TOP 31: Temporäre Außerkraftsetzung der Regelung zur jährlichen Anpassung der Entschädigungshöhe in der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger - Vertagung nach 22 Uhr
+- TOP 32: Corona-bedingte Anpassung der Pauschalentschädigungen für Stadträte - Vertagung nach 22 Uhr
+- TOP 33: Stärkung des Wirtschaftsstandortes Dresden - Vertagung nach 22 Uhr
+- TOP 34: Erlass einer Nachtragshaushaltssatzung gem. § 77 SächsGemO - zurückgezogen
+- TOP 35: Haushaltssatzung der Landeshauptstadt Dresden für die Jahre 2021 und 2022 - Vertagung nach 22 Uhr
+- TOP 36: Zwei weitere stadtweite verkaufsoffene Sonntage für 2020 - Zustimmung
+- TOP 37: Anpassung der Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalem Anlass - Zustimmung
+- TOP 38: Dresdner Veranstaltungswirtschaft unterstützen und Festkultur stärken - Zustimmung
+- TOP 39: Sozialen Wohnungsbau mit ökologisch und städtebaulich innovativem Quartier voranbringen - Aufstellungsbeschluss für Globus-Markt am Leipziger Bahnhof aufheben - Vertagung durch Einreicher
+- TOP 40: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung durch Einreicher
+- TOP 41: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung durch Einreicher
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Einrichtung von eingezäunten Hundeparks/-spielplätzen in der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 48: Sonderbudget "Kultur trotzt Corona" - zur Kenntnis genommen
