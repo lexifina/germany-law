@@ -1,0 +1,6 @@
+# TOP 4: Pandemiesituation im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(BE: Herr DM S. Hampel, Amtsarzt)</span>
+
+- Sitzung: 7. Sitzung des Ausschusses für Gesundheit, Soziales und Integration (2020-07-16)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=17593
