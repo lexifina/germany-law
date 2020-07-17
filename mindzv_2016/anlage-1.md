@@ -1,4 +1,4 @@
-# Anlage (zu § 15 Absatz 1)
+# Anlage 1 (zu § 15 Absatz 1)
 
 Angaben zur Beteiligung der Versicherten an den Erträgen im Geschäftsjahr …
 Erträge:

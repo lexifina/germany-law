@@ -18,4 +18,5 @@
 - [§ 15 Veröffentlichungspflicht](0015.md)
 - [§ 16 Übergangsvorschrift](0016.md)
 - [§ 17 Inkrafttreten](0017.md)
-- [Anlage (zu § 15 Absatz 1)](anlage.md)
+- [Anlage 1 (zu § 15 Absatz 1)](anlage-1.md)
+- [Anlage 2 (zu § 15 Absatz 3)](anlage-2.md)
