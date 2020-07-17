@@ -26,7 +26,6 @@
 - [§ 20 Kosten der Bundesstatistik](0020.md)
 - [§ 21 Verbot der Reidentifizierung](0021.md)
 - [§ 22 Strafvorschrift](0022.md)
-- [§ 22a Gleichstellung von Mitarbeitern und Mitarbeiterinnen des Statistischen Amtes der Europäischen Union](0022a.md)
 - [§ 23 Bußgeldvorschrift](0023.md)
 - [§ 24 Verwaltungsbehörde im Sinne des Gesetzes über Ordnungswidrigkeiten (OWiG)](0024.md)
 - [§ 25 Aufschiebende Wirkung von Widerspruch und Anfechtungsklage bei Landes- und Kommunalstatistiken](0025.md)
