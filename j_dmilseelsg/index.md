@@ -1,0 +1,1 @@
+# Gesetz zu dem Vertrag vom 20. Dezember 2019 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des Öffentlichen Rechts – zur Regelung der jüdischen Militärseelsorge

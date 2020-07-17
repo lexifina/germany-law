@@ -1,0 +1,1 @@
+# Gesetz zur Übernahme von Gewährleistungen im Rahmen eines Europäischen Instruments zur vorübergehenden Unterstützung bei der Minderung von Arbeitslosigkeitsrisiken in einer Notlage im Anschluss an den COVID-19-Ausbruch
