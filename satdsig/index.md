@@ -1,6 +1,7 @@
 # Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Teil 1 Anwendungsbereich
 
@@ -16,7 +17,7 @@
 - [§ 7 Auskunftspflicht](0007.md)
 - [§ 8 Betretens- und Prüfungsrechte](0008.md)
 - [§ 9 Maßnahmen der zuständigen Behörde](0009.md)
-- [§ 10 Erwerb von Unternehmen und Unternehmensbeteiligungen; Betriebsübernahme](0010.md)
+- [§ 10 Betriebsübernahme](0010.md)
 
 ## Teil 3 Verbreiten von Daten
 

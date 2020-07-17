@@ -58,10 +58,11 @@ Gebühren
 | 1210 | Durchführung eines Ordnungsgeldverfahrens nach § 335 HGB .......... | 100,00 € |
 | 1211 | Festsetzung eines zweiten und jedes weiteren Ordnungsgelds jeweils .......... | 100,00 € |
 | Abschnitt 2 Schlichtung nach § 57a LuftVG |
-| 1220 | Verfahrensgebühr .......... Die Gebühr entsteht nicht, wenn dem Fluggast die Gebühr 1222 auferlegt oder das Schlichtungsbegehren dem Luftfahrtunternehmen nicht zugeleitet wird. | 290,00 € |
-| 1221 | Das Luftfahrtunternehmen erkennt die Forderung des Fluggastes innerhalb von vier Wochen ab Zuleitung des Schlichtungsbegehrens an und die Durchführung des Schlichtungsverfahrens wird entbehrlich: |  |
-|  | Die Gebühr 1220 ermäßigt sich auf .......... | 75,00 € |
-| 1222 | Auferlegung einer Gebühr nach § 57a Abs. 3 LuftVG .......... | 30,00 € |
+| 1220 | Verfahrensgebühr .......... Die Gebühr entsteht nicht, wenn dem Fluggast die Gebühr 1224 auferlegt oder das Schlichtungsbegehren dem Luftfahrtunternehmen nicht zugeleitet wird. | 330,00 € |
+| 1221 | Beendigung des gesamten Verfahrens infolge Anerkennung der Forderung des Fluggastes durch das Luftfahrtunternehmen innerhalb von vier Wochen ab Zuleitung des Schlichtungsbegehrens: Die Gebühr 1220 ermäßigt sich auf | 75,00 € |
+| 1222 | Beendigung des gesamten Verfahrens vor Absendung des Schlichtungsvorschlags an die Beteiligten in anderen als den in Nummer 1221 genannten Fällen: Die Gebühr 1220 ermäßigt sich auf | 150,00 € |
+| 1223 | Anspruchsteller sind in einem Verfahren mehrere Fluggäste: Die Verfahrensgebühr erhöht sich für jeden weiteren Fluggast um.......... | 30,00 € |
+| 1224 | Auferlegung einer Gebühr nach § 57a Absatz 3 LuftVG.......... | 30,00 € |
 | Hauptabschnitt 3 Justizverwaltungsangelegenheiten mit Auslandsbezug |
 | Abschnitt 1 Beglaubigungen und Bescheinigungen |
 | 1310 | Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr .......... | 25,00 € |

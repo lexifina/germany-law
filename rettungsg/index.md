@@ -7,6 +7,6 @@
 - [§ 4 Entschädigung](0004.md)
 - [§ 5 Rechtsschutz](0005.md)
 - [§ 6 Befristung und Reprivatisierung](0006.md)
-- [§ 7 Rechte des Gremiums nach § 10a des Finanzmarktstabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses](0007.md)
+- [§ 7 Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses](0007.md)
 - [§ 8 Verordnungsermächtigung](0008.md)
 - [§ 9 Verkündung von Rechtsverordnungen](0009.md)

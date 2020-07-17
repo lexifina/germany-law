@@ -1,4 +1,4 @@
-# Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds "Finanzmarktstabilisierungsfonds - FMS"
+# Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Begriffsbestimmungen](0001.md)

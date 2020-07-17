@@ -18,6 +18,7 @@
 
 - [§ 7 Berechtigungen](0007.md)
 - [§ 8 Versteigerung von Berechtigungen](0008.md)
+- [§ 8 Versteigerung von Berechtigungen](0008-2.md)
 - [§ 9 Zuteilung von kostenlosen Berechtigungen an Anlagenbetreiber](0009.md)
 - [§ 10 (weggefallen)](0010.md)
 - [§ 11 Zuteilung von kostenlosen Berechtigungen an Luftfahrzeugbetreiber](0011.md)

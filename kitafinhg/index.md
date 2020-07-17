@@ -37,3 +37,13 @@
 - [§ 23 Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht](0023.md)
 - [§ 24 Rückforderung von Bundesmitteln; Zinsen](0024.md)
 - [§ 25 Grundvereinbarung](0025.md)
+
+## Kapitel 5 Investitionsprogramm „Kinderbetreuungsfinanzierung“ 2020 – 2021
+
+- [§ 26 Zweck der Finanzhilfen](0026.md)
+- [§ 27 Höhe und Aufteilung der Programmkosten](0027.md)
+- [§ 28 Gemeinschaftsfinanzierung](0028.md)
+- [§ 29 Verfahren und Durchführung](0029.md)
+- [§ 30 Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht](0030.md)
+- [§ 31 Rückforderung von Bundesmitteln; Zinsen](0031.md)
+- [§ 32 Grundvereinbarung](0032.md)

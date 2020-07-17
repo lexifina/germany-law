@@ -1,4 +1,4 @@
-# Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes
+# Verordnung zur Durchführung des Stabilisierungsfondsgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Verwaltung des Finanzmarktstabilisierungsfonds](0001.md)

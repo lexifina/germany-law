@@ -97,6 +97,7 @@
 | - | p-Fluorphenylpiperazin (p-FPP) | 1-(4-Fluorphenyl)piperazin |
 | - | 4-Fluortropacocain | 3-(4-Fluorbenzoyloxy)tropan |
 | - | 5-Fluor-UR-144 (XLR-11) | [1-(5-Fluorpentyl)-1H-indol-3-yl] (2,2,3,3-tetramethylcyclopropyl) methanon |
+|  | 5F-MDMB-PICA(5F-MDMB-2201) | Methyl{2-[1-(5-fluorpentyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
 | - | 5F-MN-18(AM-2201 Indazolcarboxamid-Analogon) | 1-(5-Fluorpentyl)-N-1-(naphthalin-1-yl)-1H-indazol-3-carboxamid |
 | - | 5F-PB-22 (5F-QUPIC) | Chinolin-8-yl[1-(5-fluorpentyl)indol-3-carboxylat] |
 | - | 5F-SDB-006 | N-Benzyl-1-(5-fluorpentyl)-1H-indol-3-carboxamid |

@@ -663,7 +663,7 @@ zum Erlass von Verwaltungsvorschriften
 ### Zweiter Abschnitt Ergänzungen für übergangsweise mögliche Leistungen
 und zeitweilige Aufgaben
 
-- [§ 417 (weggefallen)](0417.md)
+- [§ 417 Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“](0417.md)
 - [§ 418 Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer](0418.md)
 - [§ 419 (weggefallen)](0419.md)
 - [§ 420 Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt](0420.md)

@@ -30,7 +30,7 @@
 | Chlordiazepoxid | - | 7-Chlor-2-methylamino-5-phenyl-3H-1,4-benzodiazepin-4-oxid |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 25 mg Chlordiazepoxid enthalten - |
 | Clobazam | - | 7-Chlor-1-methyl-5-phenyl-1,3-dihydro-2H-1,5-benzodiazepin-2,4(5H)-dion |
-| -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 30 mg Clobazam enthalten - |
+| -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,2 Prozent als Suspension, jedoch nicht mehr als 300 mg je Packungseinheit, oder je abgeteilte Form bis zu 30 mg Clobazam enthalten - |
 | Clonazepam | - | 5-(2-Chlorphenyl)-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,25 vom Hundert als Tropflösung, jedoch nicht mehr als 250 mg je Packungseinheit oder je abgeteilte Form bis zu 2 mg Clonazepam enthalten - |
 | Clorazepat | - | (RS)-7-Chlor-2-oxo-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin-3-carbonsäure |

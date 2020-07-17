@@ -45,7 +45,8 @@ Haftungsausschlusses](0008a.md)
 - [§ 16 Sonstige Gesetze](0016.md)
 - [§ 17 Schadensverursachung durch mehrere Kraftfahrzeuge](0017.md)
 - [§ 18 Ersatzpflicht des Fahrzeugführers](0018.md)
-- [§ 19](0019.md)
+- [§ 19 Haftung des Halters bei Unfällen mit Anhängern und Gespannen](0019.md)
+- [§ 19a Ersatzpflicht des Führers von Anhängern und Gespannen](0019a.md)
 - [§ 20 Örtliche Zuständigkeit](0020.md)
 
 ## III. Straf- und Bußgeldvorschriften

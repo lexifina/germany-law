@@ -646,7 +646,7 @@
 |  |  |
 | Zweiter Abschnitt |
 | Ergänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben |
-| § 417 | (weggefallen) |
+| § 417 | Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“ |
 | § 418 | Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer |
 | § 419 | (weggefallen) |
 | § 420 | Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt |
