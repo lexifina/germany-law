@@ -18,6 +18,7 @@
 - [§ 10 Bezüge](0010.md)
 - [§ 11 Verbriefung von Verpflichtungen](0011.md)
 - [§ 12 Liquiditätshilfen, Fälligkeit von Zuschüssen und Leistungen des Bundes an die Rentenversicherung](0012.md)
+- [§ 12a Zuschüsse an Gesundheitsfonds und Ausgleichsfonds](0012a.md)
 - [§ 13 Rückzahlung, Titelverwechslung](0013.md)
 
 ## Abschnitt 3 Bewirtschaftung der Planstellen und Stellen
@@ -37,3 +38,4 @@
 - [§ 23 Inkrafttreten](0023.md)
 - [Anlage Gesamtplan des Bundeshaushaltsplans 2020](anlage.md)
 - [(XXXX) Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2020](xxxx.md)
+- [(XXXX) Zweiter Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2020](xxxx-2.md)
