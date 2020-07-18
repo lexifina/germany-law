@@ -61,4 +61,5 @@
 | Abschnitt 5 |
 |  | Schlussvorschriften |
 | § 40 | Amtszeit der bestehenden Werkstatträte |
+| § 40a | Sonderregelungen aus Anlass der COVID-19-Pandemie |
 | § 41 | Inkrafttreten |

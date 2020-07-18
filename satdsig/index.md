@@ -1,7 +1,6 @@
 # Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Teil 1 Anwendungsbereich
 

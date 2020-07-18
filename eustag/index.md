@@ -1,1 +1,17 @@
 # Gesetz zur Ausführung der EU-Verordnung zur Errichtung der Europäischen Staatsanwaltschaft
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Verfahrensvorschriften](0002.md)
+- [§ 3 Anwendbarkeit von Vorschriften der Strafprozessordnung über das Ermittlungsverfahren](0003.md)
+- [§ 4 Anwendbarkeit datenschutzrechtlicher Bestimmungen](0004.md)
+- [§ 5 Anwendbarkeit des Gerichtsverfassungsgesetzes](0005.md)
+- [§ 6 Anwendbarkeit des Gesetzes über die internationale Rechtshilfe in Strafsachen](0006.md)
+- [§ 7 Anwendbarkeit der Abgabenordnung](0007.md)
+- [§ 8 Anwendbarkeit des Gesetzes über die Entschädigung für Strafverfolgungsmaßnahmen](0008.md)
+- [§ 9 Anwendbarkeit des Rechtspflegergesetzes](0009.md)
+- [§ 10 Strafvollstreckung](0010.md)
+- [§ 11 Anwendbarkeit des Gesetzes über Ordnungswidrigkeiten](0011.md)
+- [§ 12 Mitteilungspflichten des Delegierten Europäischen Staatsanwalts](0012.md)
+- [§ 13 Amtshilfe](0013.md)
+- [§ 14 Gleichstellung mit Amtsträgern](0014.md)
+- [§ 15 Einschränkung von Grundrechten](0015.md)
