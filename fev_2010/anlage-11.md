@@ -21,7 +21,7 @@
 | Serbien | alle | nein | nein |
 | Singapur | alle | nein | nein |
 | Südafrika | alle | nein | nein |
-| Fahrerlaubnisse, die im tatsächlichen Herrschafts- bereich der Behörden in Taiwan erteilt wurden | B/BE | nein | nein |
+| Fahrerlaubnisse, die im tatsächlichen Herrschaftsbereich der Behörden in Taiwan erteilt wurden | B/BE | nein | nein |
 | Fahrerlaubnisse aus den Australischen Territorien: |  |  |  |
 | – Australian Capital Territory | C, R | nein | nein |
 | – New South Wales | C, R | nein | nein |
