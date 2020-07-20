@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5742442
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5742442
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.2.: Sanierung der Tramschleife am Bunzlauer Platz im Oktober 2020
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Grundsatzbeschluss TOP 7/ Sitzung 11.05.2020
+- TOP 2.1.: Möglicher Fußgängerüberweg in der Donauwörther Straße
+- TOP 2.2.: Sporthallennutzung in den Sommerferien im Schulzentrum Gerastraße oder im Berufsschulzentrum Riesstraße durch den Olympischen Sportclub München (OSC) e.V., Abteilung Badminton
+- TOP 2.3.: Gehsteigparken und Fahrrad-Abstellanlage Scharnhorststraße und Abbachstraße
+- TOP 3.2.1.: Ortstermin am 25.06.2020: Straßenzustand der Franz-Fihl-Straße; Gehsteigparken in der Gaggenaystraße und Umgebung
+- TOP 3.3.1.: Bauvorhaben: 1. Eininger Straße 2. Nanga-Parbat-Str. 34 3. Schulbauoffensive Dachauer Straße
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Eininger Straße -> siehe Bauvorhaben TOP 3.3.1.1 2. Donaustaufer Straße 3. Pirschstr. 8 4. Schulbauoffensive Allacher Straße
+- TOP 4.1.1.: Sanierung des Spielplatzes am Kapuzinerhölzl
+- TOP 4.1.2.: Wertvollen Baumbestand in den Siedlungen westlich der Dachauer Straße (Gubestraße, Karlingerstraße) bewahren
+- TOP 4.1.3.: Schaffung neuer Sitzgelegenheiten vor dem Stadtteilladen Moosach
+- TOP 4.1.4.: Schaltung Lichtzeichenanlage Tram Haltestelle Borstei und Fußgängerampel Baldurstraße/ Ecke Dachauer Straße synchronisieren
+- TOP 4.1.5.: Aufstellung von zusätzlichen Fahrradbügeln vor der „Meile Moosach“
+- TOP 5.1.: (E) Stadtbezirksbudget Initiative "Krippenwagen" Anschaffung eines Krippenwagens 2.163,00 Euro, Az.: 0262.0-10-0228
+- TOP 5.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.2020 – 30.09.2020 2.500,00 € / Az. 0262.0-10-0229
+- TOP 5.3.: (E) Stadtbezirksbudget Initiative "Das hier ist für dich" Hörspiel "Das hier ist für dich" am 22.07.2020 941,00 € / Az. 0262.0-10-0230
+- TOP 5.4.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. KulturSommerMoosach vom 26.06.-10.08.2020 14.300,00 € / Az. 0262.0-10-0231
+- TOP 5.5.: Stadtbezirksbudget: Verlängerung des Bewilligungszeitraumes: Förderverein der Mittelschule München Moosach "Unterstützung des freiwilligen Praktikums in der 9. Jahrgangsstufe" (-> TOP 5.1, Sitzung am 16.03.2020)
+- TOP 5.6.: (E) Errichtung einer Ampel bzw. eines Zebrastreifens Ecke Bingener - / Andernacher Straße, 80993 München
+- TOP 6.1.: Planfeststellungsverfahren: Änderung (Erneuerung) der Eisenbahnüberführung über die Dachauer Straße [mit Auszug Planunterlagen; vollständige Unterlagen einsehbar unter www.regierung.oberbayern.bayern.de]
+- TOP 6.2.: verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Abensbergstraße, Ostseite, nördl. Haylerstraße; absolutes Haltverbot 2. Franz-Fihl-Straße; absolutes Haltverbot
+- TOP 6.3.: Baumfällungen (Baumschutz): 1. Lechelstr. 8
+- TOP 6.4.: Bedarfs- und Konzeptgenehmigung: Einrichtung und Ausschreibung eines Nachbarschaftstreffs im Sanierungsuntersuchungsgebiet Moosach
+- TOP 6.5.: Veranstaltung in städt. Grünanlagen: Wiese a.d. Nanga-Parbat-Straße und Welzenbachstraße; Aktion „Spielwiese“ vom 27.08., 03.09., 10.09.2020
+- TOP 6.6.: Wertstoffcontainerstandort (neu): Naumburger Straße (ggü. Hs. 13a)
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Vorlage von Freiflächengestaltungsplänen [BA-Antrag Nr. 14-20/B05713; grds. werden dem BA die ihm zustehenden Unterlagen zugesandt und bei Bedarf auch bei den Antragstellern nachgefordert. Eine digitale Übermittlung wird die Zukunft sein.]
+- TOP 7.3.: Infektionsrisiko bei Fußgängerampeln beseitigen [Schreiben BA10 vom 15.05.20; Umstellung auf berührungsarme Anforderungssysteme aufgrund höherer Betriebssicherheit stadtweit angestrebt. Kein signifikant höheres Risiko im Vergleich zu Ddrucktastern]
+- TOP 7.4.: Ordentliche Einfriedung des unbebauten Grundstücks zwischen Bingener Str. 4 und Feldmochinger Str. 38 und Rechtmäßigkeit erfolgter Baumfällungen (→ Antwortschreiben auf Antrag der SPD-Fraktion, Sitzung 22.06.20, TOP 4.1.3)
+- TOP 7.5.: Nutzbarkeit des Festplatzes St.-Martins-Platz in Moosach für die Boule-Gruppe des Moosacher Kulturvereins DIE LINIE 1 verbessern und Aufstellung von Sitzbänken (→ Antwortschreiben auf Bürgeranliegen, Sitzung 10.02.20, TOP 2.1 )
+- TOP 7.6.: Wiederherstellung von Baumgräben
+- TOP 8.1.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten - "TOPO-Boxen"
+- TOP 8.2.: verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Georg-Brauchle-Ring/ Sapporobogen Süd: Maßnahme der Unfallkommission; Fahrbahnmarkierungen 2. Allacher Straße/ Briegerstraße: Maßnahme der Unfallkommission;Absperrschranke im Bereich der Sperrflächen- markierung 3. Riesstraße, östlich Einmündung Dieselstraße: Aufstellung Gefahrenzeichen "Kinder" und "Schulweg" 4. Pickelstraße: Öffnung Einbahnstraße für gegenläufigen Radverkehr
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Triebstr. 35 2. Feldmochinger Str. 8
+- TOP 8.4.: Genehmigung des Nutzerbedarfsprogrammes: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen Untermenzinger Straße (Meiller Gärten)
+- TOP 8.5.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 8.6.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 8.7.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 8.8.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 8.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 8.11.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 8.12.: Mobilfunk: - nicht-öffentlich - 1. Erweiterungsvorhaben am bestehenden Mobilfunkstandort, 5G; Pelkovenstraße 2. Erweiterungsvorhaben am bestehenden Mobilfunkstandort, GSM, LTE; Georg-Brauchle-Ring 3. Erweiterungsvorhaben am bestehenden Mobilfunkstandort, 5G; Triebstraße 4. Suchkreismeldung; Georg-Brauchle-Ring 5. Suchkreismeldung; Moosach II
+- TOP 8.13.: WEB - alle Anträge vom 01.04.2020 bis 15.06.2020 - nicht-öffentlich -
+- TOP 4.: Anträge
