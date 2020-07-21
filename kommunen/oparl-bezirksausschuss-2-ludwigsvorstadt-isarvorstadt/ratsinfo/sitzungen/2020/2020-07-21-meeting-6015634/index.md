@@ -1,0 +1,149 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-07-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6015634
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6015634
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 1.1.: Genehmigung von Sportangeboten auf Grünflächen, Antrag der Fraktion Die Grünen / Rosa Liste
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 1.1.: Maßnahmenbündel gegen die Zustände am Gärtnerplatz, Antrag der Fraktionen FDP und CSU
+- TOP 1.2.: Beschilderung der temporären öffentlichen Toiletten am Gärtnerplatz, Antrag der FDP-Fraktion
+- TOP 1.3.: Allparteiliches Konfliktmanagement in München (AKIM) personell aufstocken, Interfraktioneller Antrag
+- TOP 1.4.: Thalkirchner Straße I - Radweg, Antrag der Fraktion Die Grünen / Rosa Liste
+- TOP 1.5.: Thalkirchner Straße I - Anwohnerparkplätze erweitern, Antrag der Fraktion Die Grünen / Rosa Liste
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 1.1.: Müllcontainer Theresienwiese, Antrag der Fraktion Die Grünen / Rosa Liste
+- TOP 1.2.: Pfandringe an Müllcontainern / Mülleimern anbringen, Antrag der Fraktion Die Grünen / Rosa Liste
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Wahl einer Kassiererin / eines Kassiers
+- TOP 1.2.: Benennung eines/r Baumschutzbeauftragten
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Harry Klein Gaststätten Betriebs GmbH Mary Klein turns the tables - Livestream Festival vom 03.06. - 27.06.2020 2.000,00 Euro, Az.: 0262.0-2-0346
+- TOP 2.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06. - 30.09.2020 2.500,00 Euro, Az.: 0262.0-2-0348
+- TOP 2.3.: (E) Stadtbezirksbudget Freunde des KulturRaum München e.V. HauseRaus 2020 Festival - Ausstellung und Lesefest vom 03.08. - 07.09.2020 4.635,00 Euro, Az.: 0262.0-2-0349
+- TOP 2.4.: (E) Stadtbezirksbudget KUSCH - Verein zur Förderung von Kulturschaffenden Kunst- und Kulturaktion für Kinder und Jugendliche auf der Theresienwiese vom 01.08. - 15.09.2020 3.550,00 Euro, Az.: 0262.0-2-0
+- TOP 2.5.: (E) Stadtbezirksbudget Perspektive VBI e.V. Mietkosten für die Betreuung von Kindern für den Betreuungsraum und den Vereinsraum 2.700,00 Euro, Az.: 0262.0-2-0352
+- TOP 2.6.: Budgetantrag für BA-eigene Veranstaltung Kinder- und Jugend-Einwohnerversammlung 2020 in Höhe von 1.000,00 €
+- TOP 2.7.: (E) Stadtbezirksbudget Perspektive VBI e.V. Nachbetreuungsplatz vom 23.10.2020 - 30.07.2021 1.650,00 Euro, Az.: 0262.0-2-0352
+- TOP 3.1.: Einsatz des Kita-Stadtteil-Koffers und des Kinder-Aktions-Koffers im Jahr 2021
+- TOP 5.1.: Gestaltungsvorschlag "TAG the STREET" für die Ehrengutstraße
+- TOP 5.2.: Sportangebot auf öffentlichen Grünflächen; Bürgeranliegen aufgenommen aus der Sitzung am 30.06.2020
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: Antrag auf Aufstellen einer Sitzgelegenheit vor dem Gewerbebetrieb in der Schillerstraße 6
+- TOP 2.3.2.: (E) Gepflastertes Straßenstück in der Kapuzinerstraße zu einem Bürgersteig umwandeln Empfehlung Nr. 14-20 / E 03029 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.3.3.: (E) Farbliche Kennzeichnung und Ausweitung der Parkflächen für Handwerker
+- TOP 2.3.4.: (E) Ausweitung der Sperrzeit einer Bar in der Tumblingerstraße 16
+- TOP 3: Anhörungen
+- TOP 3.2.1.: Einrichtung von Abstellflächen für E-Tretroller und anderen Fahrzeugarten sowie Ausweisung von Carsharing-Stellplätzen
+- TOP 3.3.1.: Austausch der Ampelanlage an der Herzog-Heinrich-Straße Ecke Mozartstraße
+- TOP 3.3.2.: Kfz-Stellplatzumwandlung in der Bayerstraße zugunsten der Herstellung von bauzeitlichen Fahrradstellplätzen
+- TOP 3.3.3.: Antrag auf Aufstellen einer Sitzgelegenheit vor dem Gewerbebetrieb in der Schillerstraße 6
+- TOP 3.3.4.: Austausch der Ampelanlage an der Müllerstraße Ecke Pestalozzistraße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Parkplatzsituation sowie Raum für Fußgänger in Zeiten von Corona; Bürgeranliegen
+- TOP 5.2.: Partymeile Baaderstraße; Bürgeranliegen
+- TOP 5.3.: Mehr Platz für Radler und Fußgänger in der Schillerstraße; Bürgeranliegen
+- TOP 5.4.: Gefährliche Stellen für Radfahrer im Stadtbezirk; Bürgeranliegen
+- TOP 5.5.: Modalfilter für Stieler- und Güllstraße; Bürgeranliegen
+- TOP 5.6.: Feier- und Verkehrssituation an der Isar - konkrete Anträge zur Verbesserung der Situation; Bürgeranliegen
+- TOP 5.7.: Einrichtung von Grillflächen auf der Theresienwiese; Bürgeranliegen
+- TOP 5.8.: Beschwerden über die beiden mobilen Toiletten am Gärtnerplatz; Bürgeranliegen
+- TOP 5.9.: Unzumutbare Zustände am Gärtnerplatz; Bürgeranliegen
+- TOP 5.10.: Durchführung des Projektes „100 Meter Zukunft“ in der Schwanthalerstraße
+- TOP 5.11.: Betreibung einer Kulturbühne im Stadtbezirk; Bürgeranliegen aufgenommen aus der Sitzung am 30.06.2020
+- TOP 5.12.: Installation von drei Bänken an der Dreimühlenstraße Ecke Isartalstraße; Bürgeranliegen aufgenommen aus der Sitzung am 30.06.2020
+- TOP 5.13.: Ruhestörung in der Thalkirchner Straße, Bereich zwischen Sendlinger Tor und Altem Südfriedhof; Bürgeranliegen aufgenommen aus der Bürgersprechstunde am 30.06.2020
+- TOP 5.14.: Neues Haltverbot in der Baaderstraße 13; Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Goethestraße 42 Neubau zweier Bürogebäude (Goethestraße 42 / Pettenkoferstraße 18)
+- TOP 3.1.2.: Hermann-Lingg-Straße 4, Tektur Aufstockung und Umbau eines Vordergebäudes mit Nutzungsänderung im EG (Büro zu Wohnen) sowie Abbruch und Neubau eines rückwärtigen Wohngebäudes mit Tiefgarage
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben: Änderung (Erneuerung) der Eisenbahnüberführung über die Lindwurmstraße, Bahn-km 5,012 der Strecke 5510 München - Rosenheim in der Landeshauptstadt München
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Begrünung Fraunhoferstraße Empfehlung Nr. 14-20 / E 03015 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 2.2.: (E) Mehr Bäume in der Thalkirchner Straße Empfehlung Nr. 14-20 / E 03019 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Vollzug der Baumschutzverordnung für die im Rahmen des Bauvorhabens Goethestraße 42 / Pettenkoferstraße 18 gemeldeten Baumfällungen (Neubau zweier Bürogebäude) s. TOP C 3.1.1
+- TOP 3.1.2.: Vollzug der Baumschutzverordnung für die im Rahmen des Vorbescheides Schmellerstraße 16 beantragten Baumfällungen (Neubau eines Rückgebäudes)
+- TOP 3.1.3.: Fällungsantrag Herzog-Heinrich-Straße 30
+- TOP 3.1.4.: Fällungsantrag, Isartalstraße 44
+- TOP 3.1.5.: Fällungsantrag, Reisingerstraße 9
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Gestank im Schlachthofviertel; Bürgeranliegen
+- TOP 5.2.: Beschwerde über Lärmbelästigung am Schlachthof; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Fortbestand des Historischen Bergwerks im Deutschen Museum, Schreiben des Bayerischen Landesamtes für Denkmalpflege
+- TOP A 4.4.: Zustimmung per Eilentscheidung zur temporären Kunstaktion „Ruth‘s Bankerl“ im Sommer 2020
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Klärung von Fragen bezüglich der Evaluierung der verkehrlichen Situation in der Fraunhoferstraße
+- TOP B 4.8.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP B 4.9.: Fragen zum Betrieb des Schlachthofes
+- TOP B 4.10.: Erlaubnisbescheid für (dauerhafte) Erweiterung der Freischankfläche für die Gaststätte in der Palmstraße 4
+- TOP B 4.11.: Temporäre Sperrung von Straßen zum coronatauglichen Aufenthalt für Anwohner*innen – mehr Bewegungsraum für Kinder und Familien
+- TOP B 4.12.: Stellungnahme des Referates für Arbeit und Wirtschaft auf die Erfahrungsberichte zum Oktoberfest 2019 der BAs 2, 6 und 8
+- TOP B 4.13.: Eilentscheidung zur Sitzungsvorlage Nr. 20-26 / V 00635 „Kreative Nutzung der Theresienwiese“
+- TOP B 4.14.: (U) Evaluierung und Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteilungsverfahrens - Entwurf zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereitstellung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln; Sitzungsvorlage Nr. 20-26 / V 00436
+- TOP C 4.3.: Anwohnerbeteiligung bei privaten Baumaßnahmen im südlichen Bahnhofsviertel; Antwort des Kreisverwaltungsreferates (KVR)
+- TOP C 4.4.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP C 4.5.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP C 4.6.: (U) Wohnbebauung auf dem Viehhofgelände Empfehlung Nr. 14-20 / E 03016 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt- Isarvorstadt am 07.11.2019 Hinweis: Alte SV-Nr. 14-20 / V 17856
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Thalkirchner Straße 82: Fällung eines Gefahrenbaumes - Notmaßnahme
+- TOP D 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.3.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP D 4.4.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP E 4: Bereich BA-Angelegenheiten
