@@ -1,0 +1,160 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5821466
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5821466
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Verkehr Hansastraße Ecke Fuggerstraße
+- TOP 6.2.: Verbesserung der Sicherheit im Bereich Albert-Roßhaupter/Fernpaßstraße
+- TOP 6.3.: neuer Radweg Gilmstraße
+- TOP 6.4.: DB-Fußgängerunterführung Steinerstraße/Zielstraße
+- TOP 6.5.: Schäden an den Grünstreifen Albert-Roßhaupter-Straße
+- TOP 6.6.: Unterstützung für Polizei
+- TOP 10.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.-30.09.2020 2.500 €, AZ: 0262.0-7-0297
+- TOP 10.2.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Projekt Save Me Anteilige Personalkosten für eine Teilzeitstelle im Projekt Save Me 4.429,00 € / Az. 0262.0-7-0298
+- TOP 10.3.: (E) Stadtbezirksbudget Monacorona – Kulturinitiative Konzertdienst vom 01.08.-15.09.2020 5.740,00 €, AZ: 0262.0-7-0299
+- TOP 10.4.: (E) Stadtbezirksbudget JOINT ADVENTURES SOLID GROUND - CHALLENGING SPACE - A dance academy camp vom 22. - 26.07.2020 5.000,00 €, AZ: 0262.0-7-0300
+- TOP 10.5.: (E) Stadtbezirksbudget Erdlinge e.V. Bau einer Hochebene im Zeitraum von September bis November 2020 7.806,40€; Az. 0262.0-7-0303
+- TOP 11.1.: Antrag SPD Verkehrsberuhigung Sachsenkamstraße
+- TOP 11.2.: Antrag SPD Sichthalteverbot Sachsenkamstraße
+- TOP 11.3.: Antrag Unterführung CSU
+- TOP 11.4.: Antrag Die Linke Verlegung Wochenmarkt LKP
+- TOP 11.5.: Antrag SPD Westendstraße Parken für PKW
+- TOP 11.6.: Schutz des Fuß-und Radweges in der Hansastraße zwischen Hausnummer 130 und Nestroystraße
+- TOP 11.7.: Antrag SPD Wertstoffcontainer
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1.: Bauvorhaben Bielitzer Str.
+- TOP 17.1.: Westpark, Tanzkurs Bavarian-Line-Dance, Kulturreferat
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.1.: vertagt Bebauungsplan Zielstattstraße
+- TOP 29.: Sozialreferat
+- TOP 29.1.: Nennung neues Mitglieds Mieterbeirat
+- TOP 30.1.: Leistungsprogramm 2021 für den Stadtrat
+- TOP 31.: Baureferat
+- TOP 31.1.: Fristverlängerung Radweg Gilmstraße
+- TOP 31.2.: Zweirichtungsradweg Gilmstr.
+- TOP 31.3.: vertagt Schutzwand Max-Seidl-Weg
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.1.: Kulturbürgerhaus für Sendling-Westpark
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.1.: A Schreiben KVR zu TOPO-Boxen
+- TOP 35.2.: B -Stellungnahme BA 7 zu TOPO-Boxen
+- TOP 35.3.: Fristverlängerung Tempo 50 im Luise-Kiesselbach- und Heckenstaller-Tunnel
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.1.: Baugenehmigung Hansastr.
+- TOP 37.2.: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.1.: vertagt Planfeststellungsbeschluss MR Südwest
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.1.: Luise Kiesselbach Platz Belastungen
+- TOP 41.2.: Luise_Kiesselbach_Platz_Verkehrszahlen
+- TOP 41.3.: Parken Novalisstraße
+- TOP 42.: Sozialreferat
+- TOP 42.1.: Zwischennachricht 6 Jahre Mietenstopp
+- TOP 43.1.: Baumaßnahmen SWM
+- TOP 43.2.: Hansastraße
+- TOP 45.: Baureferat
+- TOP 45.1.: Baumentfernung Konrad-Peutinger
+- TOP 45.2.: (U) Luise-Kiesselbach-Platz - Bekanntgabe der Lärmuntersuchung - im 7. Stadtbezirk Sendling - Westpark 1. Darstellung der Ergebnisse der Lärmuntersuchungen 2. Weiteres Vorgehen - Bekanntgabe -
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.1.: Bescheid Spielen in der Stadt
+- TOP 47.2.: Bescheid Hidalgo Community e.V.
+- TOP 47.3.: Bürgerbeteiligung in München
+- TOP 48.: Kommunalreferat
+- TOP 48.1.: Mitteilung Grundstücksgeschäft
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.1.: Verkehrsrechtliche Anordnung Hansastr
+- TOP 49.2.: Krüner Str. Halteverbot vor Zebrastreifen
+- TOP 49.3.: Ausnahmegenemigung Fit im Park
+- TOP 49.4.: FSF-Ausnahmegenehmigung_Johann-Clanze-Str.
+- TOP 49.5.: 10. Expolauf findet nicht statt
+- TOP 49.6.: VRA Radweg Albert-Roßhaupter-Str.
+- TOP 49.7.: VRA Werdenfelsstr.
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.1.: Bescheid Iffeldorferstr.
+- TOP 55.2.: Bescheid Sonnenlängstr.
+- TOP 55.3.: BescheidTrautweinstr.
+- TOP 55.4.: Genehmigung Baumfällung Siebenbürgener Str.
+- TOP 55.5.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 55.6.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 55.7.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 55.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.9.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 55.10.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 55.11.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 55.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.13.: (U) Einhaltung der Abstandsregelungen für den Radverkehr während der Corona-Pandemie Antrag Nr. 14-20 / A 07007 der SPD Fraktion vom 09.04.2020 Pop-up-Bike Lanes für München in der Corona-Zeit? Platz für Fahrräder, Fußgänger*innen und spielende Kinder nutzen Antrag Nr. 20-26 / A 00012 Fraktion Die Grünen - Rosa Liste vom 07.05.2020
+- TOP 56.: Sozialreferat
+- TOP 56.1.: Erhaltungssatzung Johann-Houis-Str.
+- TOP 56.2.: Erhaltungssatzung Martin-Behaim-Str.
+- TOP 56.3.: Antwort Aufstellung Zwangsräumung
+- TOP 56.4.: Zweckentfremdung Badgsteiner
+- TOP 56.5.: Zweckentfremdung Siebenbürgener Str.
+- TOP 56.6.: (U) Unterstützung des Volksbegehrens "6 Jahre Mietenstopp" Empfehlung Nr. 14-20 / E 03059 ............................... Unterstützung des Volksbegehrens "#6 Jahre Mietenstopp" Empfehlung Nr. 14-20 / E 03161 ...................................... Unterstützung des Volksbegehrens "#6 Jahre Mietenstopp" durch den Bezirksausschuss und den Stadtrat Empfehlung Nr. 14-20 / E 03013 ........................................ Hinweis: Alte SV-Nr. 14-20 / V 18270
+- TOP 57.1.: Weichenerneuerung U-Bahn
+- TOP 59.1.: Telefonica-Netzelement
+- TOP 59.2.: Abgeschlossenheitsbescheinigungen
+- TOP 59.3.: Suchkreisanzeige Telefonica
+- TOP 59.4.: Erstinformation bei Erweiterung
+- TOP 59.5.: Vorkaufsrecht Leutacher Str.
