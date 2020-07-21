@@ -1,0 +1,88 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2020-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774555
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774555
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Kinder- und Jugendbeauftragte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Mobile Spielaktion &#039;Hakuna Matata&#039; vom 27.07.-07.08.2020 2.047,50 € Az.0262.0-24-0322
+- TOP 2.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06. - 30.09.2020 2.500,00 € / Az. 0262.0-24-0325
+- TOP 2.3.: (E) Stadtbezirksbudget RomAnity – Projekt zur Förderung der Partizipation unter und mit Sinti und Roma 75 Jahre nach dem Ende des 2. Weltkrieges – Gedenken an Münchner Sinti und Roma vom 02.-16.08.2020 950,00 € / Az. 0262.0-24-0326
+- TOP 2.4.: Wanderbühne des Kulturreferats im Stadtbezirk 24 im Rahmen des Programms „Sommer in der Stadt“; Bestellung einer städtischen Leistung
+- TOP 3.1.: Einrichtung weiterer Haltverbotszonen in der Weitlstraße im Abschnitt zwischen Eduard-Spranger-Straße/Riemerschmidstraße und Ratoldstraße
+- TOP 3.2.: Ausgleichszahlung für nicht erfolgte Ersatzpflanzungen nach § 7 Abs. 4 BaumschutzV
+- TOP 3.3.: Einrichtung eines neuen Kinderspielplatzes am Feldmochinger See
+- TOP 3.4.: Durchführung unbedingt notwendiger Sanierungsarbeiten in der Stadtteilkultur 2411
+- TOP 3.5.: Substanziell unveränderte Fortführung des bestehenden Flächennutzungs­planes für den 900 ha großen Bereich Stadtentwicklung für Feldmoching – Ludwigsfeld
+- TOP 3.6.: Verkehrssituation Leisewitzstraße
+- TOP 3.7.: Eilantrag zur sofortigen Verbesserung der Verkehrssituation für die Bebauungsgebiete Hochmuttinger Straße und Rahein-, Ratholdstraße
+- TOP 3.8.: Eilantrag zur Errichtung einer Traglufthalle im Bereich der Mehrzweckhalle für den Schulsport im 24. Stadtbezirk
+- TOP 5.1.1.: Dachauer Str. 570 (inkl. Freifl.)
+- TOP 5.1.2.: Detmoldstr. 28
+- TOP 5.1.3.: Mitteisstr. 29
+- TOP 5.1.4.: Petrarcastr. 1
+- TOP 5.2.1.: Detmoldstr. 28
+- TOP 5.2.2.: Stanigplatz 10 - 11
+- TOP 5.2.3.: Waldmeisterstr. 80
+- TOP 5.3.1.: Rockparty mit Live Musik am 15.08.2020, Hier: Trink- und Imbisskiosk "Andys Seehäusl", Karlsfelder Str. 81, 80995 München
+- TOP 5.4.1.: Machbarkeitsstudie für einen Interkommunalen Radweg
+- TOP 5.4.2.: Konzept- und Machbarkeitsstudie für eine landschaftsplanerisch eingebundene Fuß- und Radwegverbindung von der Siedlung Ludwigsfeld nach Karlsfeld über den Würmkanal
+- TOP 5.4.3.: Planfeststellung nach §§ 17, 17a FStrG i.V.m. Art. 72 ff. BayVwVfG A 92 München - Deggendorf 6-streifiger Ausbau AD München - Feldmoching bis AK Neufahrn 2.Tektur vom 27.03.2020
+- TOP 5.4.4.: Stadtentwicklung für Feldmoching – Ludwigsfeld (bisher Kooperatives Stadtentwicklungsmodell für Feldmoching – Ludwigsfeld); vorbereitende Untersuchungen gemäß § 165 Abs. 4 des Baugesetzbuches (BauGB),...
+- TOP 5.4.5.: Ittlingerstraße; Baumfällungen..., BV-Empfehlungen Nrn. 14-20 / E 02554 und E 02555 vom 02.04.2019
+- TOP 5.4.6.: Baumfällungen (BaumSchVO); Reigersbachstr. 26
+- TOP 5.4.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: Neue Tempo-30-Zone Kaiserhölzlstraße - Ferchenbachstraße
+- TOP 5.4.8.: Verkehrsrechtliche Anordnung nach § 45 StVO: Schittgablerstraße Parken nur für Pkw und Haltverbote
+- TOP 5.4.9.: Toiletten im öffentlichen Raum – Standortabstimmung
+- TOP 5.4.10.: Neue Sitzgelegenheiten an öffentlichen Plätzen, Stbez. 24 - Standorte
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Lösung der Parkplatzsituation im Stadtbezirksteil Hasenbergl Hier: Einrichtung einer Kurzparkzone in der Blodigstraße (Ziff. 2 des Antrages)
+- TOP 2.: Verhinderung der Schleichwegsituation in der Herbergstraße zwischen Feldmochinger- und Lerchenstraße, die als Wohnstraße klassifizert ist
+- TOP 3.: Spielplatz für die Schwarzhölzlsiedlung
+- TOP 4.: Gesperrte Toilettenanlage am Bahnhof Feldmoching, kostenlose Nutzung von öffentlichen Toiletten an den Bahnhöfen in München
+- TOP 5.: Wiederherstellung Dülfer Anger
+- TOP 6.: Anzeige über das Abrennen eines Feuerwerks durch einen gewerblichen Pyrotechniker auf Privatgrund: Heinrich-Braun-Weg 7
+- TOP 7.: Kurzfristige Maßnahmen für Fußgänger*innen unter Corona; Vorschlag von bis zu drei Projekten und Priorisierung
+- TOP 8.: Veranstaltung im Freien in einer städtischen Grünanlage; Kinderzirkus Nordini vom 27.07. - 01.08.2020, Weitlstraße
+- TOP 9.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen"; Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 10.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot mit Zeitzusatz, Ittlingerstr., nördl. ggü. Hs.Nr. 35 b) Radverkehr mit Zusatz, Ostseite der Kuppelfeldstr., südl. Regattaweg c) Absolute Haltverbote im Kurvenbereich Goerdelerstr./Meineckestr. und Meineckestr. Reinachstr. d) Absolutes Haltverbot mit Zeitzusatz, Waldrebenstr. Nordseite zw. Hs.Nr. 3 und ggü. Zufahrt Hs.Nr. 10
+- TOP 11.: Verkehrsrechtliche Anordnung nach § 45 StVO; Auf den Schrederwiesen, Aufhebung der Radverkehrszulassung auf dem Gehweg - Zwischennachricht
+- TOP 12.: Verkehrsrechtliche Anordnung nach § 45 StVO: Verlegung des Fußgängerüberweges in der Kristallstraße - Zwischennachricht
+- TOP 13.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 14.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 15.: (U) Einhaltung der Abstandsregelungen für den Radverkehr während der Corona-Pandemie Antrag Nr. 14-20 / A 07007 der SPD Fraktion vom 09.04.2020 Pop-up-Bike Lanes für München in der Corona-Zeit? Platz für Fahrräder, Fußgänger*innen und spielende Kinder nutzen Antrag Nr. 20-26 / A 00012 Fraktion Die Grünen - Rosa Liste vom 07.05.2020
+- TOP 16.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 17.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 18.: (U) Städtebauliche Entwicklungsmaßnahme gemäß §§ 165 ff. des Baugesetzbuches (BauGB) für Feldmoching – Ludwigsfeld (bisher Kooperatives Stadtentwicklungsmodell für Feldmoching – Ludwigsfeld) - Vergabebeschluss - Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 19.: (U) Stadtentwicklung für Feldmoching – Ludwigsfeld (bisher Kooperatives Stadtentwicklungsmodell für Feldmoching – Ludwigsfeld); vorbereitende Untersuchungen gemäß § 165 Abs. 4 des Baugesetzbuches (BauGB) a) Einleitung von vorbereitenden Untersuchungen für eine Städtebauliche Entwicklungsmaßnahme gemäß §§ 165 ff. BauGB -– Einleitungsbeschluss – b) Weiterführung und ggf. Erweiterung der Untersuchungen zur Erstellung einer Machbarkeitsstudie gemäß Grundsatzbeschluss vom 27.06.2018 c) Fortgeltung der Vorkaufssatzung für Feldmoching-Ludwigsfeld und Anpassung der Begründung d) Städtebauliche Entwicklungsmaßnahme im Münchner Norden Antrag Nr. 20-26 / A 00202 von der Fraktion Die Grünen - Rosa Liste und SPD / Volt – Fraktion vom 02.07.2020 Stadtbezirk 24 Feldmoching - Hasenbergl
+- TOP 20.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 21.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.: Ausschreibung Kita-Stadtteil-Koffer und Kinder-Aktions-Koffer 2020/2021
+- TOP 3.: Anträge
