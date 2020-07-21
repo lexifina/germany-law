@@ -122,7 +122,7 @@
 
 - [§ 55 Anwendungsbereich der sektorübergreifenden Prüfung](0055.md)
 - [§ 56 Stimmrechtsanteile](0056.md)
-- [§ 57 Unterlagen über den Erwerb](0057.md)
+- [§ 57 (weggefallen)](0057.md)
 - [§ 58 Unbedenklichkeitsbescheinigung](0058.md)
 - [§ 59 Untersagung oder Anordnungen](0059.md)
 

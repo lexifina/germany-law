@@ -1,0 +1,6 @@
+# Artikel 4
+
+(1)
+Aufgabe der Militärrabbiner und Militärrabbinerinnen ist die Lehre der Halacha (jüdisches Recht), die Entscheidung religiöser Fragen, die Sicherstellung der Einhaltung der Mizwot (jüdische Gebote) und die Seelsorge im In- und Ausland sowie im Rahmen einer Begleitung in Auslandseinsätzen und Übungen.
+(2)
+In Erfüllung dieses Dienstes sind sie von staatlichen Weisungen unabhängig.

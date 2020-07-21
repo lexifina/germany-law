@@ -1,0 +1,3 @@
+# Präambel
+
+In dem Bestreben, die freie religiöse Betätigung für jüdische Soldaten und Soldatinnen zu gewährleisten und die Ausübung der Seelsorge in der Bundeswehr um den jüdischen Anteil zu erweitern, in Gedenken an die früheren Feldrabbiner in den deutschen Streitkräften und in dem stolzen Bewusstsein, dass jüdische Soldaten und Soldatinnen nach der Schoa heute als Staatsbürger und Staatsbürgerinnen in Uniform Dienst in der Bundeswehr leisten sowie in der Gewissheit, dass das Judentum ein Teil der demokratischen Gesellschaft der Bundesrepublik Deutschland ist, schließt die Bundesrepublik Deutschland mit dem Zentralrat der Juden in Deutschland folgenden Vertrag:

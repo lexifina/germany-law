@@ -21,6 +21,7 @@
 - [§ 12 Erlass von Rechtsverordnungen](0012.md)
 - [§ 13 Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen](0013.md)
 - [§ 14 Verwaltungsakte](0014.md)
+- [§ 14a Fristen für Beschränkungen und Handlungspflichten beim Erwerb inländischer Unternehmen](0014a.md)
 - [§ 15 Rechtsunwirksamkeit](0015.md)
 - [§ 16 Urteil und Zwangsvollstreckung](0016.md)
 
@@ -38,3 +39,6 @@
 - [§ 26 Übermittlung personenbezogener Daten aus Strafverfahren](0026.md)
 - [§ 27 Überwachung des Fracht-, Post- und Reiseverkehrs](0027.md)
 - [§ 28 Kosten](0028.md)
+- [§ 29 Verkündung von Rechtsverordnungen](0029.md)
+- [§ 30 Übergangsbestimmungen](0030.md)
+- [§ 31 Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze](0031.md)
