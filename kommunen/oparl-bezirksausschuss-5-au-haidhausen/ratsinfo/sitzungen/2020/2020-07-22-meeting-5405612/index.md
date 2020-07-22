@@ -1,0 +1,173 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-07-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.1: Allgemeine Unterrichtungen
+- TOP 6.2: Infoblatt
+- TOP I.1.: Drohende Baumfällungen Preysingschule ? Ergebnis
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 6.: Unterrichtungen
+- TOP 3.15.: Ergebnis Ortstermin Preysingplatz vom 08.07.2020
+- TOP 0.: Vorstellung im UA
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.2.: Sondersitzung zur Sanierung Gasteig am 28.09.2020 um 18 Uhr in der Philharmonie - Abstimmung
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 2.1.: Die Tagesordnung wird folgendermaßen ergänzt: - A-Teil: TOP 5.2 b) Antrag Standorte der Wertstoffinseln sauber halten - B-Teil: TOP I Bericht Drohende Baumfällungen Preysingschule - UA Kultur zu TOP 2: 2 Dringlichkeitsanträge Hygienekonzept BA-Standl - UA Soziales: TOP 4.3 Partyzone auf dem Genoveva-Schauer-Platz - UA Wirtschaft: TOP 2.3 Anhörung Spielaktion Postwiese - UA Wirtschaft: TOP 2.4 Anhörung Sommer in der Stadt Weißenburger Platz - UA Wirtschaft: TOP 2.5 Fahrradsicherheitscheck Bordeauxplatz - UA Planung: TOP 2.2-2.16 Bauvorhaben - UA Mobilität: TOP 2.6 Anhörung Behindertenparkplatz Gravelottestr. 9 - UA Mobilität: zu TOP 4.4 Drei weitere Bürgeranliegen - C-Teil: TOP 4.2 Sondersitzung Gasteig
+- TOP 5.1.: Die Bevölkerung der Unteren und Oberen Au vor der nächsten Gentrifizierungswelle schützen - Mietpreisniveau stabilisieren - städtebauliche Eigenart wahren
+- TOP 5.2.: a) Wertstoffinsel-Konzept München b) Standorte der Wertstoffinseln sauber halten
+- TOP 5.3.: Häufigere Leerung der Wertstoffcontainer Johannisplatz 11 / Lothringer Str. 19
+- TOP 5.4.: Verbesserung des Zugangs zur Rampe an der Reichenbachbrücke
+- TOP 5.5.: Einrichtung von Radweg-Barrieren
+- TOP 5.6.: Zwischenbericht zur Planung der Radschnellwege (Anfrage)
+- TOP 5.7.: Eignung des Corneliusstreichwehrs für eine Surfwelle
+- TOP 5.8.: Städtisches Telefonbuch in einer aktualisierten Ausgabe den Bezirksausschuss-Mitgliedern zur Verfügung stellen
+- TOP 5.9.: Zugang zu Geo-Info für Bezirksausschuss-Mitglieder
+- TOP 5.10.: Offene Frage Nr. 5 zum Vorgang Nr. 14-20 / B 05025 vom Juni 2018 endlich beantworten !
+- TOP 5.11.: Fahrradzone im nördlichen Haidhausen
+- TOP 5.12.: Verkehrsführung am Rosenheimer Platz während der DB-Baustelle
+- TOP 5.13.: Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (sogenannte "Milieuschutzsatzung")
+- TOP 5.14.: Mehr Platz am Genoveva-Schauer-Platz
+- TOP 5.15.: Workshopergebnisse Orleansplatz/Ostbahnhof aktualisieren und überarbeiten
+- TOP 6.1.1.: Bürgerbeteiligung in München
+- TOP 6.2.1.: Infoblatt 07/2020
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Kulturtage Au-Haidhausen" Kulturtage Au-Haidhausen vom 25.07.2020 - 11.10.2020 24.990,00 € / Az. 0262.0-5-0300
+- TOP II.2.: (E) Stadtbezirksbudget Initiative "BA 05 Standl" Kultursommer Au-Haidhausen vom 25.07. - 11.10.2020 5.000,00 € / Az. 0262.0-5-0
+- TOP II.3.: (E) Stadtbezirksbudget democraticArts Prolog zum Staatsbankett ‚Unruly Ghosts‘ vom 24.06. - 31.12.2020 7.000,00 € / Az. 0262.0-5-0239
+- TOP II.4.: (E) Stadtbezirksbudget Initiative "Is Susan lonely?" Tanzperformance "Is Susan lonely?" vom 18.-26.11.2020 3.000,00 € / Az. 0262.0-5-0298
+- TOP II.5.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06. - 30.09.2020 2.500,00 € / Az. 0262.0-5-0294
+- TOP II.6.: (E) Stadtbezirksbudget Impulsion e.V. Netzwerk für inklusive Kunst und Kultur Käptn Wheelchair in Haidhausen. Ein Projekt für Kinder und Erwachsene vom 15.08. - 15.09.2020 5.600,00 € / Az. 0262.0-5-0299
+- TOP II.7.: Sommer im Westend: Künstler*innen aus der Schwanthalerhöh in der Coronakrise unterstützen
+- TOP II.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.1.: (E) Stadtbezirksbudget Elternbeirat Grundschule Mariahilfplatz Förderung von zwei Tanzprojekten vom 01.10.2020 - 31.07.2021 1.830,00 € / Az. 0262.0-5-0291
+- TOP 1.2.: (E) Stadtbezirksbudget Verein zur Förderung von Eigenarbeit e.V. Wir bringen das HEi gut durch die Corona-Krise! vom 01.07. - 31.12.2020 9.529,00 € / Az. 0262.0-5-0296
+- TOP 1.3.: (E) Stadtbezirksbudget MobilSpiel e.V. Münchner Spielkistl in Aktion vom 10.-14.08.2020 5.250,00 € / Az. 0262.0-5-0297
+- TOP 2.1.: Erhalt der Kindervilla in der Kellerstraße während der Umbaumaßnahmen Gasteig Empfehlung Nr. 3190 der Bürgerversammlung vom 30.01.2020
+- TOP 2.2.: Ausschreibung Kita-Stadtteil-Koffer und Kinder-Aktions-Koffer für Einsatz im Stadtbezirk 2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Protokoll Ortstermin 24.06.2020 Spielplatz Reichenbachbrücke
+- TOP 3.2.: Sportplatz im Hypo-Park dringend ertüchtigen Ergebnis Ortstermin vom 29.06.2020
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kleinkindschaukel für den Spielplatz auf der Postwiese (Ziffer 2 des Antrags) Vertagung aus der Sitzung vom 17.03.2020 / 29.04.2020
+- TOP 4.2.: Probleme mit Anwohner Parkausweis
+- TOP 4.3.: Partyzone auf dem Genoveva-Schauer-Platz
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kulturlust e.V. Radl-Aktion für alle am 19.07.2020 3.440,00 € / Az. 0262.0-5-0292
+- TOP 2.: Anhörungen
+- TOP 2.1.: Fahrradverlosung Bordeauxplatz am 19.07.2020 - Anhörungsfrist 15.07.2020 -
+- TOP 2.2.: Sommer in der Stadt - Aktionsfläche auf dem Orleansplatz Anhörungsfrist: 15.07.2020
+- TOP 2.3.: Spielaktion MobilSpiel Spielkistl vom 10.-14.08.2020 in der Postwiese
+- TOP 2.4.: Sommer in der Stadt: Weißenburger Straße Anhörungsfrist 17.07.2020
+- TOP 2.5.: Fahrradsicherheitscheck Bordeauxplatz am 12.08. und 13.08.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bestellung einer städtischen Leistung: Befüllung und Entleerung der Enzis am Mariahilfplatz 2020
+- TOP 3.2.: Coronabedingte Freischankflächengenehmigungen im 5. Stadtbezirk
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Erhalt der für Freischankflächen genutzten Parkflächen auch über Corona hinaus
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Benennung der/des stellvertretenden Vorsitzenden Vertagung aus der Sitzung vom 24.06.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Breisacher Str. 25: Dachausbau eines Mehrfamilienhauses und Errichtung eines hofseitigen Anbaus mit einem Personenaufzug (VGB) sowie Errichtung eines Stadthauses (RGB) hierzu: Vollzug der Baumschutzverordnung
+- TOP 2.2.: Lothringer Str. 1: Dachgeschossausbau, Vorbau eines hofseitigen Aufzugs, Nutzungsänderung EG: Fitness-Studio zu Ladeneinheit hierzu: Vollzug der Baumschutzverordnung
+- TOP 2.3.: Weißenburger Str. 42: Errichten einer Dachterrasse (Zwischengebäude)
+- TOP 2.4.: Gravelottestr. 6-8: Umbau und Aufstockung eines Pflegeheims, Aufstockung des Zwischengebäudes zur Errichtung eines Wohnheims für Pflegekräfte sowie Nutzungsveränderungen im UG des Zwischengebäudes, Tektur
+- TOP 2.5.: Steinsdorfstr. 5: Neubau eines Rückgebäudes mit Tiefgarage
+- TOP 2.6.: Einsteinstr. 107 / Vordergebäude: Balkonanbau
+- TOP 2.7.: Einsteinstr. 34 / Vordergebäude: Nutzungsänderung: Ladengeschäft zu Frühstücksraum und Rezeption für Hotelgäste (EG) und Büro zu Wohnung (1. OG), Verbreiterung Bestandsgaube und Neubau Dachflächenfenster mit Errichtung Austrittspodeste (DG)
+- TOP 2.8.: Preysingstr. 83-103: Neubau einer unterirdischen Übergabestation für Niederspannungsschaltanlagen
+- TOP 2.9.: Eduard-Schmid-Str. 36: Errichtung einer öffentlichen, freistehenden WC-Anlage
+- TOP 2.10.: Oefelestr. 4: Entfall der Traufbalkone und des erdgeschossigen Rückgebäudes, Überdachung des Lichthofes (EG), Tektur => hierzu: Vollzug der Baumschutzverordnung
+- TOP 2.11.: Eduard-Schmid-Str. 27: Dachgeschossausbau im Vorder- und Rückgebäude, Einbau von Dachterrassen, Gauben und Dachfenster sowie Anbau zweier Notleiteranlagen, Einbau eines Personenaufzugs im Vordergebäude, Errichten von Balkonen und Terrassen, Fassadenänderung, Nutzungsänderung einer Arztpraxis zu einer Wohnung
+- TOP 2.12.: Wörthstr. 18: Umbau einer Wohnung 1. OG links, Einbau eines Stahlträgers zur Wandabfangung
+- TOP 2.13.: Orleansstr. 31: Ausbau der nicht genutzten Durchfahrt im EG zu einer Wohneinheit, Tektur
+- TOP 2.14.: Trogerstr. 20: Nutzungsänderung im 1. und 2. OG: Wohnungen zu Büros
+- TOP 2.15.: Trogerstr. 22: Nutzungsänderung im 1. OG: Wohnungen zu Büros
+- TOP 2.16.: Trogerstr. 24: Nutzungsänderung im 1. und 4. OG: Wohnungen zu Büros
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Überprüfung der Denkmaleigenschaft des historischen „Schutzengelhauses“ auf dem Gelände des Kirchlichen Zentrums
+- TOP 3.2.: Seit 2,5 Jahren ungenutztes Fassadengerüst Entenbachstr. 6 Antwortschreiben Untere Denkmalschutzbehörde zu einem Bürgeranliegen
+- TOP 3.3.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 3.4.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 3.5.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stickoxydbelastung Humbolt-/Pilgersheimer Straße Tempo 30 in der Humboldtstraße
+- TOP 1.2.: (E) + (U) Keine Verlängerung des Pachtvertrages am Parkplatz des Mariahilfplatzes Empfehlung Nr. 14-20 / E 02472 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 21.02.2019 Kostenlose Nutzung des Parkplatzes am Mariahilfplatz für Anwohner Empfehlung Nr. 14-20 / E 03182 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 30.01.2020
+- TOP 1.3.: (E) Schaffung eines Platzes anstelle einer Verkehrsinsel Entenbachstraße / Ecke Schlotthauerstraße Empfehlung Nr. 14-20 / E 01650 der Bürgerversammlung des Stadtbezirks 5 Au-Haidhausen am 29.06.2017
+- TOP 2.: Anhörungen
+- TOP 2.1.: Änderungen einzelner Parkregelungen im Parklizenzbereich "Klinikviertel" - Langerstraße / Bewohnerparken - Ismaninger Straße / eingeschränktes Haltverbot am Klinikeingang
+- TOP 2.2.: Radweg entlang der Welfenhöfe an der Bahnstrecke entlang realisieren !
+- TOP 2.3.: Vollständige Veröffentlichung der Verkehrsgutachten für den Münchner Osten
+- TOP 2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes Zumpestr. 8
+- TOP 2.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gravelottestr. 9
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schulwegsicherheit am Gebsattelberg erhöhen durch Elektrifizierung der Buslinie 62 Antwort Referat für Arbeit und Wirtschaft zum Schreiben BA 5 vom 28.05.2020
+- TOP 3.2.: Rosenheimer Platz stadteinwärts: Radfahrstreifen Antwort KVR zum Schreiben BA 5 vom 03.06.2020
+- TOP 3.3.: Weißenburger Straße: Einkaufsstraße fußgängerfreundlich umgestalten Zwischenmitteilung
+- TOP 3.4.: Verkehrliche Probleme für Fußgänger im Bereich Falkenstraße
+- TOP 3.5.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben
+- TOP 3.6.: Weitere Zeitkartenautomaten im Ostbahnhof
+- TOP 3.7.: Ausschilderung Ostbahnhof I: Busbahnhof
+- TOP 3.8.: Pflaster am Genoveva-Schauer-Platz bearbeiten
+- TOP 3.9.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen"; Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 3.10.: Eduard-Schmid-Str. 8 und 9; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 3.11.: Pilgersheimer Straße, dauerhaftes Linksabbiegeverbot
+- TOP 3.12.: Umsetzung der Geschwindigkeitsreduzierung in der Humboldtstraße und Pilgersheimer Straße Antwort KVR zum Schreiben BA 5 vom 30.06.2020
+- TOP 3.13.: Trogerstraße; Parksituation, verkehrsrechtliche Anordnungen Antwort KVR zum Schreiben BA 5 vom 17.12.2019
+- TOP 3.14.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrrad Mobilität / Sicherheit Haidhausen
+- TOP 4.2.: Seitenparken auf dem Hochstraßengehsteig beenden
+- TOP 4.3.: Park- und Verkehrssituation in der Ismaninger Straße zwischen Langer- und Prinzregentenstraße
+- TOP 4.4.: Weitere Verschlechterung der Parkplatzsituation am Orleansplatz 5, 5a, 6, 6a Mehrere Bürgeranliegen
+- TOP 4.5.: Die Eduard-Schmid-Straße soll von der Corneliusbrücke bis zur Humboldtstraße zur Fahrradstraße werden (Ziffer 1 des Antrags)
+- TOP 4.6.: Alternative Parkmöglichkeiten für Anwohner der Au während der Belegung von Freischankflächen auf Parkflächen
+- TOP VII.: Klima und Umwelt
+- TOP 0.1.: Projektvorstellung MOBI durch Green City e.V.
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Weißenburger Str. 6: Fällung von 1 Kastanie
+- TOP 2.2.: Balanstr. 19: Fällung von 1 Haselnuss
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nachhaltige Abfallwirtschaft in München: Einladung zur online-Umfrage
+- TOP 3.2.: Infobroschüre zur Verpackungsentsorgung
+- TOP 3.3.: Grünflächen am Johannisplatz und in der Wöhrtstraße wieder herrichten und zwischen den Bänken am Johannisplatz Neubepflanzungen Zwischenmitteilung
+- TOP 3.4.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Versetzung der Wertstoffcontainer von der Versailler Straße in die Ernst-Reuter-Straße Schreiben Baureferat
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verbesserungsvorschlag Müllsituation am Tassiloplatz
+- TOP 4.2.: Überfüllte Glascontainer Johannisplatz
+- TOP 4.3.: Glascontainer Kolumbusplatz / Müllverschmutzung
+- TOP 4.4.: Müllproblem an der Isar - Alkoholverkaufsverbot im Bereich Reichenbach- und Wittelsbacherbrücke ab 21 Uhr - Glasflaschenverbot für den als Landschaftsschutzgebiet ausgewiesenen städtischen Isarraum zwischen Flaucher und Corneliusbrücke
+- TOP 4.5.: Maßnahmen gegen Müll und Lärm an der Isar (Ziffern 2-7)
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 07.09.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 07.09.2020, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 08.09.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 09.09.2020, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 09.09.2020, 19.30 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 10.09.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 16.09.2020, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 01.09.2020, 19.30 Uhr, Friedenstraße 40
+- TOP 4.1.: Sitzungstermine des BA 5 in 2021 (Plenum, UA, Vorstand und Bürgerversammlungen)
+- TOP 2.5.: Sharing Mobility
