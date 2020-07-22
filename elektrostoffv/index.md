@@ -3,7 +3,6 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
-- [§ 2 Begriffsbestimmungen](0002-2.md)
 - [§ 3 Voraussetzungen für das Inverkehrbringen](0003.md)
 - [§ 4 Allgemeine Pflichten des Herstellers](0004.md)
 - [§ 5 Besondere Kennzeichnungs- und Informationspflichten des Herstellers](0005.md)

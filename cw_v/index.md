@@ -17,5 +17,5 @@
 - [§ 13 Straftaten](0013.md)
 - [§ 14](0014.md)
 - [§ 15 Inkrafttreten](0015.md)
-- [Anhang 1 Chemikalienlisten*)](anhang-1.md)
+- [Anhang 1 Chemikalienlisten*)**)](anhang-1.md)
 - [Anhang 2 Explosivstoffe gemäß § 4 Abs. 2](anhang-2.md)

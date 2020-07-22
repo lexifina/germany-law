@@ -1,4 +1,4 @@
-# Anhang 1 Chemikalienlisten*)
+# Anhang 1 Chemikalienlisten*)**)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
