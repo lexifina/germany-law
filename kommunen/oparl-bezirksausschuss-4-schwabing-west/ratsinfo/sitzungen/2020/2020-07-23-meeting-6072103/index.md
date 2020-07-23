@@ -1,0 +1,140 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2020-07-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6072103
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6072103
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.2: Unveränderte Fortführung von Gaststätten
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP 3.4.1.: Ausnahmegenehmigungen zur Erweiterung von Freischankflächen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales, Bildung und Kultur
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Geburten im Klinikum Schwabing
+- TOP 2.1.: Ausschreibung Kita-Stadtteil-Koffer und Kinder-Aktions-Koffer für Einsatz im Stadtbezirk 2021
+- TOP 2.2.: (E) Stadtbezirksbudget BIKU e.V. Applaus Sommer 2020 von 27.07 - 07.09.2020 3.508,00 € / Az. 0262.0-4-0308
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative „Seelenspiegel Krippe“ Buchveröffentlichung „Seelenspiegel Krippe“, Druckkostenzuschuss 1.000,00 € / Az. 0262.0-4-0309
+- TOP 2.4.: (E) Stadtbezirksbudget Pathos München e.V. Fortsetzung der Renovierungsmaßnahmen des PATHOS Theater und Anschaffungen Technik vom 20.07.2020 - 30.09.2020 4000,00 € / Az. 0262.0-4-0306
+- TOP 2.5.: (E) Stadtbezirksbudget THE AGENCY GbR Gastspiel „THE AGENCY“ vom 25.-30.09.2020 1.551,00€; Az. 0262.0-4-0310
+- TOP 2.6.: (E) Stadtbezirksbudget MobilSpiel e.V. Münchner Spielkistl in Aktion vom 03.-07.08.2020 5.250,00€; Az. 0262.0-4-0312
+- TOP 2.7.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.-30.09.2020 2.500 €, AZ: 0262.0-4-0307
+- TOP 2.8.: (E) Stadtbezirksbudget Initiative „NichtAllein“ SoloIstNichtAllein – Showings der Arbeitsergebnisse vom 25.-26.07.2020 1.000,00 €, AZ: 0262.0-4-0311
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zukünftige Organisationsstruktur des Stadtarchivs (Antwort des Direktoriums auf BA-Anfrage vom 24.06.2020)
+- TOP 3.2.1.: Imkerei in der Hermann-Frieb-Realschule: Dank und Einladung
+- TOP 3.2.2.: Bewilligungsbescheid an Kunstkonzentrat e.V. (Import Export Open)
+- TOP 3.2.3.: Ablehnungbescheid an die Initiative „Peace Damage“
+- TOP 3.2.4.: Änderungsbescheid an Spielen in der Stadt e.V. (Zirkus Pumpernudl)
+- TOP 3.2.5.: Bewilligungsbescheid an Jugendzentrum LIFE (Spielgeräte)
+- TOP 3.2.6.: Bewilligungsbescheid an Jugendzentrum LIFE (AktivFerien Ackermannbogen)
+- TOP 3.2.7.: Bewilligungsbescheid an die Moreth Company (Aufführung „Sarajevo“)
+- TOP 3.2.8.: Bewilligungsbescheid an die Münchner Stadtmedien GmbH (FamilyOpenAir)
+- TOP 3.2.9.: Bewilligungsbescheid an Hidalgo Community e.V. (Kunstlied-Festival)
+- TOP 3.3.1.: Fotoaufnahmen für „Ernstings family“ am 11.07.2020 im Petuelpark
+- TOP 3.3.2.: Drehgenehmigung für die Fernsehproduktion „Karlsbad“ am Kölner Platz
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: LILALU: Absage des Spielprogramms „Umsonst und Draußen“ im Jahr 2020
+- TOP C: Bauen, Wohnen und Wirtschaft
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Baumaßnahmen am Wohnhaus Bauerstr. 9
+- TOP 1.2.: Bürgerin: „Hohenzollernkarree“
+- TOP 1.3.: Antrag Die Linke: Innenhof-Bebauung im Hohenzollernkarree ablehnen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.4.: Viktor-Scheffel-Str. 13-15: Nutzungsänderung eines gewerblich genutzten Wohnraums zu einer Büroeinheit
+- TOP 2.5.: Vorbescheid Generalsanierung Bad Georgenschwaige und Umbau zum Freibad mit biologischer Wasseraufbereitung (vertagt aus 06/2020 wg. Ortstermin) a) Baumaßnahmen b) in Zusammenhang damit beantragte Baumfällungen
+- TOP 2.6.: Belgradstr. 31: Nutzungsänderung einer Shisha-Bar (EG links + 1. OG.): Schaffung einer 3-Zimmer-Wohnuing im 1. OG, Verkleinerung der ehemaligen Bar über 2 Geschossse und Verbleib einer Büroeinheit im EG
+- TOP 2.7.: Benennung von zwei in Mieterfragen engagierten Personen für den Mieterbeirat
+- TOP 2.8.: Vorbescheid Ansprengerstr. 25: Neubau von Wohngebäuden, einer Kita und einer Tiefgarage sowie Aufstockung von Bestandsgebäuden inkl. Baumfällungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Legionellenproblematik in den Gebäuden Lerchenauer Str. 38, 38a und 40 (Antwort des Referats für Gesundheit und Umwelt auf BA-Schreiben vom 29.04.2020)
+- TOP 3.1.2.: Gaststätte Schleißheimer Str. 142a: Bürgerbeschwerde über nächtliche Lärmbelästigung (Antwort der Bezirksinspektion Nord auf BA-Schreiben vom 24.06.2020)
+- TOP 3.1.3.: Neubau des Studentenwohnheims Schwere-Reiter-Str. 35 (Antwort der Lokalbaukommission auf BA-Schreiben vom 29.04.2020 und erneute Nachfrage eines Anwohners)
+- TOP 3.2.1.: Schank- und Speisewirtschaft „Birdie Bar“, Infanteriestr. 11 a
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 3.3.2.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Nachbesserungsbedarf bei neuen Fahrradständern vor „Basic“ in der Schleißheimer Straße
+- TOP 1.2.: Bürgerin: Angespannte Parksituation in Schwabing West
+- TOP 1.3.: Bürgerin: Verkehrssituation Elisabethstraße
+- TOP 1.4.: Bürger: Entlastung und Aufwertung der Parzivalstraße
+- TOP 1.5.: Bürger: Beschilderung Fahrradstraße – Tempo 30 in der Winzererstraße
+- TOP 1.6.: Bürgerin: Schadhafter Rad- und Fußweg Borschtallee/Voeldernstraße (Luitpoldpark)
+- TOP 1.7.: Bürger: Radwegverbindungen Kreativquartier-Ackermannbogen-Clemensstraße und Ackermannbogen-Saarstraße
+- TOP 1.8.: Bürgerin: Radfahren auf dem Gehweg
+- TOP 1.9.: Bürger: Überhöhte Geschwindigkeiten in der Barbarastraße
+- TOP 1.10.: Bürgerin: Radweg Kurfürstenstraße zumindest temporär auf die Fahrbahn verlegen (Bürgerschreiben und Anliegen der Läden und Gaststätten)
+- TOP 1.11.: Antrag Grüne: Ausbau der gelben Rampen für Menschen mit Behinderung an U-Bahnhöfen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.12.: (E) Verbesserung der Querungsmöglichkeiten für Fußgänger an der Kreuzung Rümann-/Isoldenstraße
+- TOP 2.13.: Haltverbote in der St.-Blasien-Straße
+- TOP 2.14.: (E) Tempo 30 in der kompletten Parzivalstraße
+- TOP 2.15.: Neubau Grundschule und Haus für Kinder in der Infanteriestraße: Einrichtung einer Kurzparkzone und einer Haltebucht für die Belieferung der Küche
+- TOP 2.16.: Kurfürstenplatz: Einrichtung einer Ladezone
+- TOP 2.17.: 2.6 Lissi-Kaeser-Straße: Einrichtung einer Anfahrtszone für Krankenwagen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Maßnahmen gegen das Befahren des Gleisbereichs an der Trambahnhaltestelle Nordbad Linie 27 (Antwort des Referats für Arbeit und Wirtschaft auf BA-Schreiben vom 30.04.2020)
+- TOP 3.1.2.: Dialogdisplays in der Herzogstraße (Antwort des Kreisverwaltungsreferats auf BA-Anfrage vom 25.06.2020)
+- TOP 3.1.3.: Neue Ampel an der Ackermannstraße/Spiridon-Louis-Ring (Antwort KVR auf BA-Schreiben vom 24.06.2020)
+- TOP 3.1.4.: Parksituation Gustav-Landauer-Bogen (Antwort KVR auf BA-Schreiben vom 24.06.2020)
+- TOP 3.2.1.: Teng-/Ecke Agnesstraße: Änderung der Vorfahrt in „rechts-vor-links“
+- TOP 3.3.1.: Ausnahmezulassung für nächtliche Sanierungsarbeiten an den Straßenbahngleisen in der Nordendstraße zwischen Barer Straße und Kurfürstenplatz im Zeitraum vom 06.07. bis 11.09.2020
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten („TOPO-Boxen“): Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 3.5.2.: MVG-Leistungsprogramme 2020 und 2021 - Sachstand
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgerin: Wertstoffinsel Elisabeth-/Tengstraße
+- TOP 1.2.: Bürgerin: Nächtliche Ruhestörung am Elisabethmarkt
+- TOP 1.3.: Bürger: Entsiegelung der Brunnerstraße nördlich des Bamberger Hauses
+- TOP 1.4.: Bürgerin: Nächtliches Feiern im Petuelpark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schleißheimer Str. 167-167a: Fällung eines Ahorn
+- TOP 2.2.1.: Belgradstr. 4 Mode PARITA: Aufstellen eines Kleiderständers
+- TOP 2.2.2.: Hohenzollernstr. 37 „Vom Fass“: Aufstellen einer neuen Verkaufseinrichtung
+- TOP 2.2.3.: Neue Sitzgelegenheiten an öffentlichen Plätzen: Standortvorschläge des Baureferats
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.2.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 3.3.3.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 3.3.4.: (U) Einhaltung des Pariser Klimaabkommens: Begrenzung der Stadterwärmung auf unter zwei Grad Empfehlung Nr. 14-20 / E 02849 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing-West am 10.10.2019
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.2.: Ausnahmegenehmigung für städtisches Sportangebot „Fit im Park“ vom 26.06. bis 30.09.2020 u.a. im Luitpoldpark
+- TOP 3.4.3.: Anbringung von erklärenden Zusatzschildern für Straßennamen in der Arcis-, Teng- und Zentnerstraße
+- TOP 3.4.4.: Infobroschüre des Abfallwirtschaftsbetriebs München (AWM) zum Thema „Wertstoffentsorgung – Wertstoffinseln in München“
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Checkliste „Bürgerbeteiligung in München“
+- TOP F.2.: Grundsätzliches zur Abrechnung der Aufwandsentschädigung
+- TOP G: Verschiedenes
+- TOP H: Termine
