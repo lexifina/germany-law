@@ -72,7 +72,7 @@
 
 ## Abschnitt 13 Finanzierung und Vergütung
 
-- [§ 33 Finanzierung durch Entgelte](0033.md)
+- [§ 33 Finanzierung durch Gebühren; Verordnungsermächtigung](0033.md)
 - [§ 34 Vergütung der verantwortlichen Gesundheitseinrichtungen](0034.md)
 - [§ 35 Vergütungsausschluss](0035.md)
 - [§ 36 Nachweispflicht](0036.md)

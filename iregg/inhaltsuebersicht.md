@@ -60,7 +60,7 @@ Anonymisierung
 | § 32 | Anonymisierung |
 Abschnitt 13
 Finanzierung und Vergütung
-| § 33 | Finanzierung durch Entgelte |
+| § 33 | Finanzierung durch Gebühren; Verordnungsermächtigung |
 | § 34 | Vergütung der verantwortlichen Gesundheitseinrichtungen |
 | § 35 | Vergütungsausschluss |
 | § 36 | Nachweispflicht |

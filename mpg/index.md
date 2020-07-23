@@ -25,7 +25,6 @@ Behandlungseinheiten sowie für das Sterilisieren
 von Medizinprodukten](0010.md)
 - [§ 11 Sondervorschriften für das Inverkehrbringen und die Inbetriebnahme](0011.md)
 - [§ 12 Sonderanfertigungen, Medizinprodukte aus Eigenherstellung, Medizinprodukte zur klinischen Prüfung oder für Leistungsbewertungszwecke, Ausstellen](0012.md)
-- [§ 13 Klassifizierung von Medizinprodukten, Abgrenzung zu anderen Produkten](0013.md)
 - [§ 14 Tätigkeiten im Zusammenhang mit Medizinprodukten](0014.md)
 
 ## Dritter Abschnitt Benannte Stellen und Bescheinigungen
@@ -34,7 +33,6 @@ von Medizinprodukten](0010.md)
 - [§ 15a Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten](0015a.md)
 - [§ 16 Erlöschen, Rücknahme, Widerruf und Ruhen der Benennung](0016.md)
 - [§ 17 Geltungsdauer von Bescheinigungen der Benannten Stellen](0017.md)
-- [§ 18 Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen, Unterrichtungspflichten](0018.md)
 
 ## Vierter Abschnitt Klinische Bewertung, Leistungsbewertung,
 klinische Prüfung, Leistungsbewertungsprüfung
@@ -43,7 +41,6 @@ klinische Prüfung, Leistungsbewertungsprüfung
 - [§ 20 Allgemeine Voraussetzungen zur klinischen Prüfung](0020.md)
 - [§ 21 Besondere Voraussetzungen zur klinischen Prüfung](0021.md)
 - [§ 22 Verfahren bei der Ethik-Kommission](0022.md)
-- [§ 22a Genehmigungsverfahren bei der Bundesoberbehörde](0022a.md)
 - [§ 22b Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung](0022b.md)
 - [§ 22c Änderungen nach Genehmigung von klinischen Prüfungen](0022c.md)
 - [§ 23 Durchführung der klinischen Prüfung](0023.md)
@@ -54,20 +51,15 @@ klinische Prüfung, Leistungsbewertungsprüfung
 ## Fünfter Abschnitt Überwachung und Schutz
 vor Risiken
 
-- [§ 25 Allgemeine Anzeigepflicht](0025.md)
 - [§ 26 Durchführung der Überwachung](0026.md)
 - [§ 27 Verfahren bei unrechtmäßiger und unzulässiger Anbringung der CE-Kennzeichnung](0027.md)
 - [§ 28 Verfahren zum Schutze vor Risiken](0028.md)
-- [§ 29 Medizinprodukte-Beobachtungs- und -Meldesystem](0029.md)
-- [§ 30 Sicherheitsbeauftragter für Medizinprodukte](0030.md)
 - [§ 31 Medizinprodukteberater](0031.md)
 
 ## Sechster Abschnitt Zuständige Behörden, Rechtsverordnungen,
 sonstige Bestimmungen
 
-- [§ 32 Aufgaben und Zuständigkeiten der Bundesoberbehörden im Medizinproduktebereich](0032.md)
 - [§ 32a Besondere Zuständigkeiten](0032a.md)
-- [§ 33 Datenbankgestütztes Informationssystem, Europäische Datenbank](0033.md)
 - [§ 34 Ausfuhr](0034.md)
 - [§ 35 Gebühren und Auslagen](0035.md)
 - [§ 36 Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission](0036.md)
