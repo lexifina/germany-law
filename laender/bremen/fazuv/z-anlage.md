@@ -8,7 +8,7 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
 1 | Bremerhaven | Alle Finanzämter im Lande Bremen | 1.1 | Straf- und Bußgeldverfahren sowie Wahrnehmung der Aufgaben der Steuerfahndung wegen Steuerstraftaten und Steuerordnungswidrigkeiten sowie Straftaten und Ordnungswidrigkeiten, auf die nach den in der Eingangsformel der Verordnung zitierten ermächtigenden Vorschriften die Bestimmungen des achten Teils der Abgabenordnung Anwendung finden
  |  |  | 1.2 | Wahrnehmung der Aufgaben der Zentralstelle zur Bekämpfung des Umsatzsteuerbetrugs (ZEUS)
  |  |  | 1.3 | Tätigkeiten nach § 88b Absatz 1 und 2 der Abgabenordnung
- |  |  | 1.4 | Wahrnehmung der Aufgaben der Servicestelle Steueraufsicht (ServiSta) im norddeutschen Verbund
+ |  |  | 1.4 | Wahrnehmung der Aufgaben der Servicestelle Steueraufsicht (ServiSta)
  |  |  | 1.5 | Verwaltung der
  |  |  | 1.5.1 | Erbschaft- und Schenkungsteuer
  |  |  | 1.5.2 | Grunderwerbsteuer
@@ -25,7 +25,7 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
 3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
  |  |  | 3.3 | Ausstellung der Bescheinigungen für
- |  |  | 3.3.1 | die Durchführung des Lohnsteuerabzugs nach § 39c Absatz 3 und 4 des Einkommensteuergesetzes
+ |  |  | 3.3.1 | die Bildung und die Änderung der Lohnsteuerabzugsmerkmale nach § 39 Absatz 2 Satz 2 des Einkommensteuergesetzes für Arbeitnehmer, die nach § 1 Absatz 2 des Einkommensteuergesetzes unbeschränkt einkommensteuerpflichtig sind, nach § 1 Absatz 3 des Einkommensteuergesetzes als unbeschränkt einkommensteuerpflichtig zu behandeln sind oder nach § 1 Absatz 4 des Einkommensteuergesetzes beschränkt einkommensteuerpflichtig sind
  |  |  | 3.3.2 | die Freistellung des Arbeitslohns vom Lohnsteuerabzug nach einem Doppelbesteuerungsabkommen und dem Auslandstätigkeitserlass
  |  |  | 3.4 | Genehmigung von Anträgen nach § 40 des Einkommensteuergesetzes und § 4 Absatz 3 der Lohnsteuerdurchführungsverordnung
  |  |  | 3.5 | Anrufungsauskünfte nach § 42e des Einkommensteuergesetzes und sonstige Lohnsteuerangelegenheiten der Arbeitgeber
