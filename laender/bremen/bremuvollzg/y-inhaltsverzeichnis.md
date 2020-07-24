@@ -24,7 +24,7 @@ Abschnitt 3 Unterbringung und Versorgung der Untersuchungsgefangenen
 § 19 | Annehmlichkeiten
 § 20 | Gesundheitsfürsorge
 § 21 | Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
-§ 22 | Medizinische Leistungen, Kostenbeteiligung
+§ 22 | Medizinische Leistungen, Kostenbeteiligung und Dokumentationspflicht
 § 23 | Verlegung, Überstellung und Ausführung zur medizinischen Behandlung
 Abschnitt 4 Arbeit, Bildung, Freizeit
 § 24 | Arbeit und Bildung
@@ -51,14 +51,15 @@ Abschnitt 7 Sicherheit und Ordnung
 § 42 | Grundsatz
 § 43 | Verhaltensvorschriften
 § 44 | Absuchung, Durchsuchung
-§ 45 | Erkennungsdienstliche Maßnahmen, Lichtbildausweise
-§ 46 | Videoüberwachung
+§ 45 | (weggefallen)
+§ 46 | (weggefallen)
 § 47 | Maßnahmen zur Feststellung von Suchtmittelkonsum
 § 48 | Festnahmerecht
 § 49 | Besondere Sicherungsmaßnahmen
 § 50 | Einzelhaft
 § 51 | Fesselung
-§ 52 | Anordnung besonderer Sicherungsmaßnahmen, Verfahren
+§ 52 | Anordnung besonderer Sicherungsmaßnahmen
+§ 52a | Verfahren
 § 53 | Ärztliche Überwachung
 Abschnitt 8 Unmittelbarer Zwang
 § 54 | Begriffsbestimmungen
@@ -100,17 +101,8 @@ Abschnitt 13 Aufsicht, Beirat
 § 85 | Aufsichtsbehörde
 § 86 | Vollstreckungsplan
 § 87 | Beirat
-Abschnitt 14 Datenschutz
-§ 88 | Erhebung personenbezogener Daten
-§ 89 | Verarbeitung und Nutzung
-§ 90 | Zentrale Datei, Einrichtung automatisierter Übermittlungsverfahren
-§ 91 | Zweckbindung
-§ 92 | Schutz besonderer Daten
-§ 93 | Schutz der Daten in Akten und Dateien
-§ 94 | Berichtigung, Löschung und Sperrung
-§ 95 | Auskunft an die Betroffenen, Akteneinsicht
-§ 96 | Auskunft und Akteneinsicht für wissenschaftliche Zwecke
-§ 97 | Anwendung des Bremischen Datenschutzgesetzes
+Abschnitt 14 (weggefallen)
+§§ 88 - 97 | (weggefallen)
 Abschnitt 15 Schlussbestimmungen
 § 98 | Einschränkung von Grundrechten
 § 99 | Inkrafttreten
