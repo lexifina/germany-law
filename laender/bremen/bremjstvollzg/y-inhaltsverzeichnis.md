@@ -74,14 +74,15 @@ Abschnitt 9 Sicherheit und Ordnung
 § 63 | Verhaltensvorschriften
 § 64 | Absuchung, Durchsuchung
 § 65 | Sichere Unterbringung
-§ 66 | Erkennungsdienstliche Maßnahmen
-§ 67 | Lichtbildausweise
+§ 66 | (weggefallen)
+§ 67 | (weggefallen)
 § 68 | Maßnahmen zur Feststellung von Suchtmittelkonsum
 § 69 | Festnahmerecht
 § 70 | Besondere Sicherungsmaßnahmen
 § 71 | Einzelhaft
 § 72 | Fesselung
-§ 73 | Anordnung besonderer Sicherungsmaßnahmen, Verfahren
+§ 73 | Anordnung besonderer Sicherungsmaßnahmen
+§ 73a | Verfahren
 § 74 | Ärztliche Überwachung
 § 75 | Ersatz von Aufwendungen
 Abschnitt 10 Unmittelbarer Zwang
@@ -99,16 +100,8 @@ Abschnitt 11 Erzieherische Maßnahmen, Disziplinarmaßnahmen
 § 86 | Verfahren
 Abschnitt 12 Beschwerde
 § 87 | Beschwerderecht
-Abschnitt 13 Datenschutz
-§ 88 | Erhebung personenbezogener Daten
-§ 89 | Verarbeitung
-§ 90 | Zentrale Datei, Einrichtung automatisierter Übermittlungs- und Abrufverfahren
-§ 91 | Zweckbindung
-§ 92 | Schutz besonderer Daten
-§ 93 | Schutz der Daten in Akten und Dateien
-§ 94 | Berichtigung, Löschung und Sperrung
-§ 95 | Auskunft an die Betroffenen, Akteneinsicht
-§ 96 | Anwendung des Bremischen Datenschutzgesetzes
+Abschnitt 13 (weggefallen)
+§§ 88 - 96 | (weggefallen)
 Abschnitt 14 Kriminologische Forschung
 § 97 | Evaluation, kriminologische Forschung
 Abschnitt 15 Aufbau der Jugendstrafvollzugsanstalt
