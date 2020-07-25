@@ -5,7 +5,7 @@
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-- [§ 1 Geltungsbereich](0001.md)
+- [§ 1 Abschlüsse](0001.md)
 - [§ 2 Zugangsvoraussetzungen](0002.md)
 - [§ 3 Bestandteile, Zeitpunkt und Organisation der Prüfung](0003.md)
 - [§ 4 Prüfungsausschuss](0004.md)
@@ -48,9 +48,4 @@
 - [§ 26 Prüfungsprotokolle](0026.md)
 - [§ 27 Rechtsbehelfe](0027.md)
 - [§ 28 Prüfungsakte](0028.md)
-
-## Abschnitt 7 Schlussvorschriften
-
-- [§ 29 Übergangsregelung](0029.md)
-- [§ 30 Inkrafttreten, Außerkrafttreten](0030.md)
 - [Schlussformel](schlussformel.md)
