@@ -10,5 +10,5 @@
 - [§ 7 Mitteilungspflicht bei Nichteinhaltung der Pflegepersonaluntergrenzen](0007.md)
 - [§ 8 Ausnahmetatbestände und Übergangsregelungen](0008.md)
 - [§ 9 Personalverlagerungen](0009.md)
-- [§ 10 Vorübergehende Aussetzung der Anwendung](0010.md)
+- [§ 10 Vorübergehende Aussetzung](0010.md)
 - [Anlage (zu § 3 Absatz 1)Indikatoren-DRGs](anlage.md)
