@@ -1,4 +1,4 @@
-# Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln, Düngemitteln und sonstigen Mitteln in oder auf Lebensmitteln
+# Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln
 
 - [§ 1 Höchstmengen für Lebensmittel](0001.md)
 - [§ 1a (weggefallen)](0001a.md)
