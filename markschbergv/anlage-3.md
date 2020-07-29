@@ -11,7 +11,7 @@ Gliederung des Risswerks
   | Sohlenriss/Zwischen- sohlenriss | Teil 2 Nummer 4 | a) | Standwasserbereiche | Teil 2 Nummer 17 Buchstabe a |
   | Gewinnungsriss | Teil 2 Nummer 5 | b) | Brandherde, Brandfelder | Teil 2 Nummer 17 Buchstabe b |
   | Schnittriss | Teil 2 Nummer 6 | c) | Dämme zum Abschluss von Grubenbauen | Teil 2 Nummer 17 Buchstabe c |
-  | Höhenfestpunktriss mit Höhenverzeichnis | Teil 2 Nummer 9 | d) | Durchörterungen der Lagerstätte, wennnicht im Sohlen- oder Gewinnungsriss dargestellt | Teil 2 Nummer 17 Buchstabe d |
+  | Höhenfestpunktriss mit Höhenverzeichnis | Teil 2 Nummer 9 | d) | Durchörterungen der Lagerstätte, wenn nicht im Sohlen- oder Gewinnungsriss dargestellt | Teil 2 Nummer 17 Buchstabe d |
   |  |  | e) | Austritt- oder Ausbruchstellen von Gasen, Laugen oder Schlämmen | Teil 2 Nummer 17 Buchstabe e |
   |  |  | f) | Gebirgsschlagstellen | Teil 2 Nummer 17 Buchstabe f |
   |  |  | g) | Hohlraumvermessungen und -volumen | Teil 2 Nummer 17 Buchstabe g |
@@ -25,7 +25,7 @@ Gliederung des Risswerks
   | Bestandteil | Inhalt | Bestandteil | Inhalt |
   | Titelblatt | Teil 2 Nummer 2 | Tageriss | Teil 2 Nummer 3 |
   | Gewinnungsriss | Teil 2 Nummer 7 | Bohrlochbild | Teil 2 Nummer 14 |
-  |  |  | Wiedernutzbarmachungs-riss | Teil 2 Nummer 15 |
+  |  |  | Wiedernutzbarmachungs- riss | Teil 2 Nummer 15 |
   | Zusätzlich |
   | bei Gewinnungsbetrieben mit weiträumiger Grundwasserabsenkung: |  | bei Braunkohlen- gewinnungsbetrieben: |  |
   | Grundwasserriss | Teil 2 Nummer 8 | Geologischer Riss | Teil 2 Nummer 16 |
