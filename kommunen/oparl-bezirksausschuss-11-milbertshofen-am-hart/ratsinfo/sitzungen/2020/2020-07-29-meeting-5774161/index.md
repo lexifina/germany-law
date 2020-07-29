@@ -1,0 +1,105 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-07-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774161
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774161
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei und aus dem Stadtrat
+- TOP 3.: Ferienausschuss - Wahl des/der Vorsitzenden
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.1.1.: Benennung von Stellvertretungen für Beauftragte und Unteraussschussvorsitzende sowie Wahl des Vorsitzes des Ferienausschusses
+- TOP 4.1.2.: Information zur Abrechnung der Aufwandsentschädigung der BA-Mitglieder
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: Erhöhung des Sicherheitsgefühls durch Optimierungen der Beleuchtung des öffentlichen Raumes (Aktionsplan-Maßnahme 7.3, Europäische Charta zur Gleichstellung von Frauen und Männern)
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: (U) Errichtung eines Stadtteilmuseums in Milbertshofen BA-Antrags-Nr. 14-20 / B 04646 des Bezirksausschusses des Stadtbezirkes 11 – Milbertshofen-Am Hart vom 14.03.2018
+- TOP 4.3.2.: Dienststellenverständigung: Weyprechtstraße 72, Haus für Kinder: voraussichtliche Betriebsaufnahme im Monat 09/2020
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Zwillingstraße (Nordseite) - Einrichtung einer Ladezone - Antwortschreiben auf die Ergänzung des BA 11
+- TOP 4.4.2.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen" - Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 4.4.3.: Einführen von Zufahrtskontrollen zum Olympiadorf bei Großveranstaltungen im Olympiapark
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Silvesterfeuerwerk? Nein Danke! - Einsatz des BA
+- TOP 6.1.1.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Zirkusprojekt Verein Stadtteilarbeit von 27.07. - 31.07.2020 3.300,00 € / Az. 0262.0-11-0394
+- TOP 6.1.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.-30.09.2020 2.500 €, AZ: 0262.0-11-0393
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Tanztheater“ Nils Holgersson am 16.07.2020 1.020,00€; Az. 0262.0-11-0395
+- TOP 6.1.4.: (E) Stadtbezirksbudget Pahr/ Lindner-Köhler GbR Lesebühne „Abgebrüht“ vom 14.01.2020 bis 15.12.2020 1.740 €, Reduzierung der Eigenmittel - Sitzungsvorlage Nr. 14-20 / V 17095
+- TOP 6.1.5.: (E) Stadtbezirksbudget Fabi – paritätische Familienbildungsstätte München e.V., Zweigstelle Milbertshofen 20-jähriges Jubiläum im Juli 2020 679,33 €; Az. 0262.0-11-0378
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kulturverein Olympiadorf e.V. Klassik-Konzert im März 2021 920,00€; Az. 0262.0-11-0377
+- TOP 6.1.7.: (E) Stadtbezirksbudget Uigurische Mütter in Deutschland e.V. Fest zum „Tag der Muttersprache“ am 01.03.2020 4.125,00€; Az. 0262.0-11-0379
+- TOP 6.1.8.: (E) Stadtbezirksbudget Elternbeirat städt. Integrationshort H.-v.-Bingen-Anger 4b Ferienfahrt auf den Bauernhof im Jahr 2021 2.257,50€; Az. 0262.0-11-0381
+- TOP 6.1.9.: (E) Stadtbezirksbudget Initiative „Tanzperformance“ Tanzperformance „one day“ vom 15.11.-03.12.2020 2.000,00€, AZ: 0262.0-11-0384
+- TOP 6.1.10.: (E) Stadtbezirksbudget kick it international e.V. kick it Familientag am 01.11.2020 2.760,00€; Az. 0262.0-11-0386
+- TOP 6.1.11.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl und Artmobil 2021 2.887,00€; Az. 0262.0-11-0388
+- TOP 6.1.12.: (E) Stadtbezirksbudget Generationenzentrum e.V. Familien-Mutmach-Tag am 21.05.2020 - Online-Format 2.061,91€; Az. 0262.0-11-0390
+- TOP 6.1.13.: (E) Bestellung einer städtischen Leistung Bespielung der Wanderbühne des Kulturreferats auf dem Curt-Mezger-Platz am 08.08.2020, 2.500 € - BA-Beschluss
+- TOP 6.2.1.: (E) Einrichtung eines Shuttleservice zur Olympiahalle BV-Empfehlung Nr. 14-20 / E 02815 der Bürgervers. des 11. SB vom 18.07.2019 Sitzungsvorlage Nr. 14-20 / V00258
+- TOP 6.2.2.: (E) Entscheidung über eine Sondernutzungserlaubnis: Nordhaideplatz (MIRA), Maronistand - Genehmigung eines Verkaufsstandes
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Rückgabe des BA-Budget-Übertrags aus dem Jahre 2019 an die Landeshauptstadt München
+- TOP 7.1.2.: Aufnahme des Tagesordnungspunktes "Bericht des/der Beauftragten gegen Rechtsextremismus" in die Tagesordnung der monatlichen BA-Sitzungen
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.2.1.: Auswirkungen auf den Stadtbezirk 11 - Mitspracherecht bei den Planungen des Eggartengebiets
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Aktion Einheitsbuddeln - Baumpflanzung im Stadtbezirk 11 am Tag der deutschen Einheit
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Umstellung der BA 11-Homepage auf das aktuelle System der Landeshauptstadt München
+- TOP 8.1.2.: Plenumssitzungstermine des BA 11 für das Kalenderjahr 2021
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Oberhofer Platz 8 - 10 a) Bauvorhaben: Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks – Vorbescheid
+- TOP 8.2.2.: Anhalter Str. 6 a) Bauvorhaben: Neubau eines Wohnheimes mit 27 Betten (Integrative Wohngruppe) und Tiefgarage
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Kinder-Aktions-Koffer - Ausschreibung für das Kalenderjahr 2021
+- TOP 8.3.2.: Veranstaltung "Sommerlauf" im Olympiapark am 05. - 06.08.2020
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Schopenhauerstraße (westlich Schleißheimer Straße) - Absolutes Haltverbot
+- TOP 8.4.2.: Milbertshofener Straße (Höhe Bushaltestelle Abtstraße) - Maßnahmen zur Verkehrsflusssteuerung
+- TOP 8.4.3.: Auswirkungen auf den Stadtbezirk 11 - Antrag auf Errichtung eines Radweges im 24. Stadtbezirk (SB) BV-Empfehlung Nr. 14-20 / E 02554 der Bürgervers. des 24. SB vom 02.04.2019 Sitzungsvorlage Nr. 14-20 / V00411 - Beschlussentwurf
+- TOP 8.4.4.: Graslilienanger - Errichtung und Schaffung von Fahrradstellplätzen
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Oberhofer Platz 8 - 10 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Anhalter Str. 6 b) Antrag auf Beseitigung von geschütztem Baumbestand Hinweis:
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung eines Gaststättenbetriebes: "Pizza Manufaktur" - Wenzelstraße 2
+- TOP 9.1.2.: Verbindliches Handbuch für die Bürgerbeteiligung in München … - Sitzungsvorlage Nr. 14-20 / V 17173
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: (U) Baulandmobilisierungsgesetz – Verbändeanhörung -
+- TOP 9.2.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2019 – 31.12.2019
+- TOP 9.2.3.: Meldelisten Bauvorhaben vom 08.06.2020 - 12.07.2020
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: Vollzug des Infektionsschutzgesetzes: Olympiapark - Veranstaltung "Kino am Olympiasee 2020" im Zeitraum vom 28.05.2020 bis 12.09.2020
+- TOP 9.3.2.: Olympiapark - Absage des kostenfreien Spielprogramms "Umsonst und Draußen" im Jahr 2020
+- TOP 9.3.3.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Veranstaltung "Kinder- und Familienprogramm ICF" auf der Grünfläche oberhalb des Petueltunnels am 04.07., 08.08., 05.09. und 10.10.2020
+- TOP 9.3.4.: Sondernutzung: Temporäre Kunstaktion „Ruth`s Bankerl“ im Sandbienenweg am 03.08.2020
+- TOP 9.3.5.: Eilentscheidungen durch den BA-Vorsitzenden wegen kurzer Fristsetzungen: a) Hanselmann-/Schopenhauerstraße - Mobiles Theater für Kinder am 24.07.2020 b) Curt-Mezger-Platz - Sommer in der Stadt, kult. Wanderbühne am 08.08.2020 c) Olympiapark - Mini München findet Stadt, Ferienprogramm vom 27.07. bis 14.08.2020 d) Hugo-Wolf-Straße 18 - Andacht zum Ende des KiGa-Jarhes am 24.07.2020 e) Hanselmann-/Schopenhauerstraße - Spielen in der Stadt vom 29.07. bis 31.07.2020 f) Schneeheideanger - Familienaktion am 03.09.2020
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 9.4.2.: (U) Einhaltung der Abstandsregelungen für den Radverkehr während der Corona-Pandemie Antrag Nr. 14-20 / A 07007 der SPD Fraktion vom 09.04.2020 Pop-up-Bike Lanes für München in der Corona-Zeit? Platz für Fahrräder, Fußgänger*innen und spielende Kinder nutzen Antrag Nr. 20-26 / A 00012 Fraktion Die Grünen - Rosa Liste vom 07.05.2020
+- TOP 9.4.3.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.5.2.: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 9.5.3.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 9.5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
