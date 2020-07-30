@@ -9,6 +9,8 @@
 ## Abschnitt 2 Allgemeine Arbeitsbedingungen
 
 - [§ 2 Allgemeine Arbeitsbedingungen](0002.md)
+- [§ 2a Gegenstand der Entlohnung](0002a.md)
+- [§ 2b Anrechenbarkeit von Entsendezulagen](0002b.md)
 
 ## Abschnitt 3 Tarifvertragliche Arbeitsbedingungen
 
@@ -33,10 +35,16 @@
 
 - [§ 13a Gleichstellung](0013a.md)
 
+## Abschnitt 4b Zusätzliche Arbeitsbedingungen für länger als zwölf Monate im Inland Beschäftigte von Arbeitgebern mit Sitz im Ausland
+
+- [§ 13b Zusätzliche Arbeitsbedingungen](0013b.md)
+- [§ 13c Berechnung der Beschäftigungsdauer im Inland](0013c.md)
+
 ## Abschnitt 5 Zivilrechtliche Durchsetzung
 
 - [§ 14 Haftung des Auftraggebers](0014.md)
 - [§ 15 Gerichtsstand](0015.md)
+- [§ 15a Unterrichtungspflichten des Entleihers bei grenzüberschreitender Arbeitnehmerüberlassung](0015a.md)
 
 ## Abschnitt 6 Kontrolle und Durchsetzung durch staatliche Behörden
 
@@ -49,7 +57,15 @@
 - [§ 22 (weggefallen)](0022.md)
 - [§ 23 Bußgeldvorschriften](0023.md)
 
+## Abschnitt 6a Arbeits- und Sozialrechtliche Beratung
+
+- [§ 23a Leistungsanspruch](0023a.md)
+- [§ 23b Verordnungsermächtigung](0023b.md)
+
 ## Abschnitt 7 Schlussvorschriften
 
-- [§ 24 Evaluation](0024.md)
-- [§ 25 Übergangsregelung](0025.md)
+- [§ 24 Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind](0024.md)
+- [§ 25 Übergangsbestimmungen für Langzeitentsendung](0025.md)
+- [§ 26 Übergangsbestimmungen für das Baugewerbe](0026.md)
+- [§ 27 Sondervorschrift für den Straßenverkehrssektor](0027.md)
+- [§ 28 Übergangsregelung für die Pflegebranche](0028.md)

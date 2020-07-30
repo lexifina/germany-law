@@ -119,6 +119,7 @@
 | Mitgliedschaft | § 58 |
 | Organe, Kammerversammlungen | § 59 |
 | Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle | § 59a |
+| Ehrenamtliche Tätigkeit | § 59b |
 | Satzung, Wirtschaftsplan | § 60 |
 | Beiträge und Gebühren | § 61 |
 |  |

@@ -130,6 +130,7 @@ Amtsverhältnis](0044a.md)
 - [§ 58 Mitgliedschaft](0058.md)
 - [§ 59 Organe, Kammerversammlungen](0059.md)
 - [§ 59a Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle](0059a.md)
+- [§ 59b Ehrenamtliche Tätigkeit](0059b.md)
 - [§ 60 Satzung, Wirtschaftsplan](0060.md)
 - [§ 61 Beiträge und Gebühren](0061.md)
 
