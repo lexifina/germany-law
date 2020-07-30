@@ -5,6 +5,7 @@ Teil 1 Allgemeine Bestimmungen
 Teil 2 Volksantrag
 Abschnitt 1 Vertrauensperson, Unterstützungsunterschriften und deren Bestätigung durch die Gemeinde
 § 3 Vertrauensperson
+§ 3a Besondere Anforderungen bei berufsreglementierenden Regelungen
 § 4 Unterschriftenbogen
 § 5 Unterstützungsunterschriften
 § 6 Bestätigung durch die Gemeinde
