@@ -1,0 +1,654 @@
+---
+ecli: "ECLI:DE:BGH:2020:300720VIZR5.20.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-06"
+aktenzeichen: "VI ZR 5/20"
+decided: "2020-07-30"
+typ: "U"
+bemerkung: "Leitsatzentscheidung\nsiehe auch: Pressemitteilung Nr. 71/20  vom 3.6.2020,\n     Pressemitteilung Nr. 101/20  vom 30.7.2020"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=63&nr=109083&anz=3286&pos=1891&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-06_LE_2020-07-30_VI_ZR_5_20_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0031.md", "germany/bund/acts/bgb/0138.md", "germany/bund/acts/bgb/0823.md", "germany/bund/acts/bgb/0826.md", "germany/bund/acts/stgb/0263.md", "germany/bund/acts/stgb/0266.md", "germany/bund/acts/wphg/0015.md"]
+---
+
+# Bundesgerichtshof, VI ZR 5/20 vom 2020-07-30
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                   IM NAMEN DES VOLKES
+
+                                  URTEIL
+VI ZR 5/20                                                    Verkündet am:
+                                                              30. Juli 2020
+                                                              Olovcic
+                                                              Justizangestellte
+                                                              als Urkundsbeamtin
+                                                              der Geschäftsstelle
+                             in dem Rechtsstreit
+
+Nachschlagewerk:        ja
+
+BGHZ:                 nein
+
+BGHR:                   ja
+
+BGB § 826 Ga; § 823 Be; StGB § 263
+
+
+a) Zur "Stoffgleichheit" im Zusammenhang mit der Absicht, einem Dritten bei einem
+  Gebrauchtwagenverkauf einen rechtswidrigen Vermögensvorteil zu verschaffen (§
+  263 Abs. 1 StGB).
+
+b) Für die Bewertung eines schädigenden Verhaltens als sittenwidrig im Sinne von §
+  826 BGB ist in einer Gesamtschau dessen Gesamtcharakter zu ermitteln und das
+  gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten
+  Geschädigten zugrunde zu legen. Dies wird insbesondere dann bedeutsam, wenn
+  die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens
+  zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach
+  außen erkennbar geändert hat.
+
+BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 - OLG Koblenz
+                                              LG Trier
+
+
+
+ECLI:DE:BGH:2020:300720UVIZR5.20.0
+
+                                            - 2 -
+
+
+
+
+    Der VI. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 28. Juli 2020 durch den Vorsitzenden Richter Seiters, den Richter
+    Offenloch, die Richterinnen Dr. Roloff und Müller und den Richter Dr. Allgayer
+
+    für Recht erkannt:
+
+
+          Die Revision gegen das Urteil des 12. Zivilsenats des Oberlandesgerichts Koblenz vom 2. Dezember 2019 wird auf Kosten des Klägers zurückgewiesen.
+
+                                     Von Rechts wegen
+
+
+
+
+                                     Tatbestand:
+
+1         Der Kläger erwarb im August 2016 von der Autohaus S. GmbH einen
+    gebrauchten VW Touran Match mit einem Kilometerstand von rund 80.000 km
+    zu einem Kaufpreis von 13.600 €. Das Fahrzeug ist mit einem 2,0-Liter Dieselmotor des Typs EA189, Schadstoffnorm Euro 5 ausgestattet. Die Beklagte ist
+    Herstellerin des Wagens.
+
+2         Die im Zusammenhang mit dem Motor verwendete Software erkennt, ob
+    das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus
+    (NEFZ) unterzogen wird und schaltet in diesem Fall vom regulären Abgasrückführungsmodus 0 in einen Stickoxid-optimierten Abgasrückführungsmodus 1.
+    Es   ergeben    sich   dadurch    auf    dem    Prüfstand   geringere   Stickoxid-
+
+                                         - 3 -
+
+
+
+    Emissionswerte als im normalen Fahrbetrieb. Die Grenzwerte der Euro 5-Norm
+    wurden nur im Modus 1 eingehalten.
+
+3           Vor Abschluss des Kaufvertrages, am 22. September 2015, gab die Beklagte eine Ad-hoc-Mitteilung nach § 15 WpHG sowie eine gleichlautende Presseerklärung heraus, die auszugsweise wie folgt lauten:
+
+4           "Volkswagen treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran … Auffällig sind
+    Fahrzeuge mit Motoren vom Typ EA189 mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde
+    eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb
+    festgestellt. Volkswagen arbeitet mit Hochdruck daran, diese Abweichungen mit
+    technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in
+    Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt."
+
+5           Das Kraftfahrt-Bundesamt (KBA) wertete die Steuerung als unzulässige
+    Abschalteinrichtung und gab im Oktober 2015 der Beklagten durch nachträgliche Nebenbestimmungen zur Typgenehmigung auf, die Vorschriftsmäßigkeit
+    der bereits im Verkehr befindlichen Fahrzeuge zu gewährleisten. Die Beklagte
+    entwickelte in der Folge unter anderem bei Fahrzeugen mit Motoren des Typs
+    EA189 mit 2,0-Liter-Hubraum ein Software-Update. Das KBA gab die Nachrüstung für den hier betroffenen Fahrzeugtyp frei. Auch für das Fahrzeug des Klägers wurde nach dem Erwerb ein Software-Update aufgespielt.
+
+6           Mit seiner Klage verlangt der Kläger Schadensersatz in Höhe des für das
+    Fahrzeug gezahlten Kaufpreises nebst Zinsen Zug um Zug gegen Herausgabe
+    und Übereignung des Fahrzeugs, ferner Ersatz von Aufwendungen und vorge-
+
+                                    - 4 -
+
+
+
+richtlicher Rechtsanwaltskosten sowie die Feststellung, dass sich die Beklagte
+in Annahmeverzug befindet.
+
+                                         - 5 -
+
+
+
+7         Das Landgericht hat die Klage abgewiesen. Die Berufung des Klägers
+    hat das Oberlandesgericht zurückgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt der Kläger sein Klageziel weiter.
+
+
+
+
+                              Entscheidungsgründe:
+
+                                        I.
+
+8         Das Berufungsgericht hat seine Entscheidung (12 U 804/19, veröffentlicht in BeckRS 2019, 36722) darauf gestützt, dass dem Kläger kein Schadensersatzanspruch gegen die Beklagte zustehe. Ein Anspruch aus § 823 Abs. 2
+    BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV scheitere daran, dass die genannten Vorschriften der EG-FGV ebenso wie Art. 5 Abs. 2 VO 715/2007/EG nicht
+    dem Vermögensschutz eines Kraftfahrzeugerwerbers dienten. Für einen Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB fehle es bereits an einer Täuschungshandlung, weil der Kläger eine solche nicht substantiiert dargelegt habe. Zwar habe er bestritten, Kenntnis von der Abgasproblematik gehabt
+    zu haben. Der Erwiderung der Beklagten, dass es angesichts der breiten Medienberichterstattung nach der Ad-hoc-Mitteilung vom 22. September 2015 unmöglich gewesen sei, an dieser Berichterstattung vorbeizukommen, so dass
+    davon auszugehen sei, dass der Kläger sich in Kenntnis der Software für den
+    Erwerb des Fahrzeugs entschieden habe, sei der Kläger nicht mehr substantiiert entgegengetreten. Selbst wenn der Kläger aber einem Irrtum über die Verwendung der Umschaltlogik bei dem betroffenen Fahrzeug unterlegen sein sollte, fehle es jedenfalls an einer vorsätzlichen Täuschungshandlung der Beklagten, die kausal für den vom Kläger behaupteten Schaden habe sein können.
+    Schließlich ergebe sich ein Anspruch auch nicht aus § 826 BGB. Es fehle bereits an der besonderen Verwerflichkeit des Handelns der Beklagten zum maß-
+
+                                         - 6 -
+
+
+
+     geblichen Zeitpunkt des mit Abschluss des Kaufvertrags erfolgten Schadenseintritts. Zwar habe die Beklagte, als sie das Fahrzeug in den Verkehr gebracht
+     habe, in sittenwidriger Weise den Neuwagenkäufer geschädigt, durch fortwährendes Verschweigen der gesetzeswidrigen Softwareprogrammierung an ihrem
+     sittenwidrigen Verhalten festgehalten und anschließend auch nachteilig auf die
+     Vermögenslage               ahnungsloser               Zweit-             und
+     Dritterwerber des sachmangelbehafteten Fahrzeugs eingewirkt. Nachdem die
+     Beklagte aber mit Herausgabe der Ad-hoc-Mitteilung objektiv den Fehler bei der
+     Abgasführung eingeräumt sowie dessen Beseitigung in Abstimmung mit dem
+     KBA angekündigt und weitere Maßnahmen ergriffen habe, könne ihr jedenfalls
+     in Bezug auf potenzielle Gebrauchtwagenkäufer ab Herbst 2015 kein verwerfliches Verhalten (mehr) angelastet werden. Die Gründe, die ihr Verhalten bis
+     Herbst 2015 sittenwidrig erscheinen ließen, seien damit weggefallen. Darüber
+     hinaus fehle es an der Kausalität des Verhaltens der Organe der Beklagten für
+     den vom Kläger geltend gemachten Schaden. Der Kläger habe nicht substantiiert dargelegt, weshalb ihm, trotz der Aufklärungsmaßnahmen der Beklagten
+     und des über Monate andauernden Echos hierauf, verborgen geblieben sein
+     wolle, dass das Fahrzeug mit der unzulässigen Umschaltlogik ausgestattet gewesen sei.
+
+
+
+
+                                           II.
+
+9          Die Revision des Klägers ist unbegründet, da ihm keine - hier allein in
+     Betracht kommenden - deliktsrechtlichen Ansprüche gegen die Beklagte zustehen.
+
+10         1. Die Auffassung des Berufungsgerichts, der Kläger könne den geltend
+     gemachten Schadensersatzanspruch auf Erstattung des Kaufpreises (und wei-
+
+                                              - 7 -
+
+
+
+     terer für den Erwerb des Fahrzeugs getätigter Aufwendungen) nicht aus § 823
+     Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG
+     herleiten, ist frei von Rechtsfehlern.
+
+11          a) Der Kläger stützt seinen Schadensersatzanspruch darauf, dass er von
+     der Beklagten zur Eingehung einer ungewollten Verbindlichkeit veranlasst worden sei. Wie der Senat in seinem Urteil vom 25. Mai 2020 (VI ZR 252/19, ZIP
+     2020, 1179 Rn. 76) ausgeführt hat, liegt das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich
+     des § 6 Abs. 1, § 27 Abs. 1 EG-FGV. Es sind auch im vorliegenden Verfahren
+     keine Anhaltspunkte dafür ersichtlich, dass der Gesetz- und Verordnungsgeber
+     mit den genannten Vorschriften (auch) einen Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der
+     einzelnen Käufer bezweckte und an die (auch fahrlässige) Erteilung einer inhaltlich unrichtigen Übereinstimmungsbescheinigung einen gegen den Hersteller
+     gerichteten Anspruch auf (Rück-)Abwicklung eines mit einem Dritten geschlossenen Kaufvertrags hätte knüpfen wollen. Anderes ergibt sich nicht aus dem
+     von der Revision angeführten Gesichtspunkt, dass die Übereinstimmungsbescheinigung gemäß Erwägungsgrund 0 des Anhangs IX der Richtlinie
+     2007/46/EG in der Fassung der VO 385/2009/EG eine Erklärung des Fahrzeugherstellers darstellt, in der dem Fahrzeugkäufer versichert wird, dass das
+     von ihm erworbene Fahrzeug zum Zeitpunkt seiner Herstellung mit den in der
+     Europäischen Union geltenden Rechtsvorschriften übereinstimmt (vgl. Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 75). Auch wenn
+     der   genannte    Erwägungsgrund,        ebenso   wie   Erwägungsgrund    3   VO
+     385/2009/EG, wonach die Angaben auf der Übereinstimmungsbescheinigung
+     für die beteiligten Verbraucher verständlich sein sollen, in persönlicher Hinsicht
+     auch den Fahrzeugkäufer im Blick hat, erfasst sie in sachlicher Hinsicht das hier
+     geltend gemachte Interesse nicht. Eine Einbeziehung dieses Interesses ergibt
+
+                                          - 8 -
+
+
+
+     sich schließlich entgegen der Ansicht der Revision nicht daraus, dass die in Art.
+     46 RL 2007/46/EG vorgesehenen Sanktionen auch gewährleisten sollen, dass
+     der Käufer eines Fahrzeugs im Besitz einer Übereinstimmungsbescheinigung
+     ist, die es ihm erlaubt, das Fahrzeug gemäß Anhang IX dieser Richtlinie in jedem Mitgliedstaat zuzulassen, ohne zusätzliche technische Unterlagen vorlegen zu müssen (EuGH, Urteil vom 4. Oktober 2018 - C-668/16, BeckRS 2018,
+     23568 Tz. 87).
+
+12         b) Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit
+     veranlasst zu werden, liegt offensichtlich auch nicht im Aufgabenbereich des
+     Art. 5 VO 715/2007/EG.
+
+13         aa) Gemäß Art. 5 Abs. 1 VO 715/2007/EG hat der Hersteller das Fahrzeug so auszurüsten, dass die Bauteile, die das Emissionsverhalten voraussichtlich beeinflussen, so konstruiert, gefertigt und montiert sind, dass das
+     Fahrzeug unter normalen Betriebsbedingungen der Verordnung und ihren
+     Durchführungsmaßnahmen entspricht. Gemäß Art. 5 Abs. 2 Satz 1 VO
+     715/2007/EG                                  ist                             die
+     Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, unzulässig; Satz 2 regelt Ausnahmefälle. Die Verordnung 715/2007/EG dient, wie sich aus ihren Erwägungsgründen ergibt, der
+     Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer
+     Vorschriften zur Begrenzung der Emissionen von Kraftfahrzeugen (Erwägungsgründe 1, 27) sowie dem Umweltschutz, insbesondere der Verbesserung der
+     Luftqualität (Erwägungsgründe 1, 4 bis 7). Erwähnt sind ferner die Senkung der
+     Gesundheitskosten und der Gewinn zusätzlicher Lebensjahre (Erwägungsgrund
+     7). Auch hier fehlt es an jeglichen Anhaltspunkten dafür, dass die Verordnung,
+     insbesondere ihr Art. 5, dem Schutz des wirtschaftlichen Selbstbestimmungsrechts des einzelnen Fahrzeugerwerbers dienen könnte.
+
+                                         - 9 -
+
+
+
+14         bb) Anderes ergibt sich entgegen der Ansicht der Revision nicht aus dem
+     Gebot einer möglichst wirksamen Anwendung des Gemeinschaftsrechts (effet
+     utile) und den hierzu angeführten Urteilen des EuGH vom 17. September 2002
+     - C-253/00 (DVBl 2002, 1620) und vom 25. Juli 2008 - C-237/07 (NVwZ 2008,
+     984). Danach kann die volle Wirksamkeit der Regelung von gemeinschaftsrechtlichen Qualitätsnormen, die unter anderem dem lauteren Handel und der
+     Markttransparenz dienen, voraussetzen, dass deren Beachtung im Wege eines
+     Zivilprozesses durchgesetzt werden kann, den ein Wirtschaftsteilnehmer gegen
+     einen Konkurrenten anstrengt (EuGH, Urteil vom 17. September 2002 - C-253/00, DVBl 2002, 1620 Tz. 30 ff.). Weiter kann es mit dem zwingenden Charakter einer Richtlinie, die den Schutz der öffentlichen Gesundheit bezweckt,
+     unvereinbar sein, grundsätzlich auszuschließen, dass eine mit der Richtlinie
+     auferlegte Verpflichtung von einer betroffenen Person geltend gemacht werden
+     kann. Deshalb müssen Personen, die unmittelbar von der Gefahr einer Überschreitung von Grenzwerten betroffen sind, bei den zuständigen Behörden, ggf.
+     unter Anrufung des zuständigen Gerichts, die in der Richtlinie für diesen Fall
+     zwingend vorgesehene Erstellung eines Aktionsplans erwirken können (EuGH,
+     Urteil vom 25. Juli 2008 - C-237/07, NVwZ 2008, 984 Tz. 35 ff.). In beiden Fällen ging es um die Durchsetzung der Beachtung von gemeinschaftsrechtlichen
+     Bestimmungen, die mit dem Wettbewerbsschutz bzw. dem Gesundheitsschutz
+     zumindest auch die Interessen der jeweiligen Kläger (Konkurrent; von Grenzwertüberschreitungen unmittelbar Betroffener) im Blick hatten. Nach der Rechtsprechung des EuGH können einem Einzelnen wegen der Verletzung von Gemeinschaftsrecht auch Schadensersatzansprüche gegen eine andere Privatperson zustehen. Voraussetzung ist aber (ähnlich wie für Entschädigungsansprüche gegen den Staat, vgl. nur EuGH, Urteil vom 24. März 2009 - C-445/06,
+     NVwZ 2009, 771 Tz. 20), dass das verletzte Gemeinschaftsrecht dem Einzelnen Rechte verleiht (vgl. EuGH, Urteil vom 20. September 2001 - C-453/99,
+
+                                         - 10 -
+
+
+
+     GRUR 2002, 367 Tz. 23, 25 zu Art. 85, 86 EG-Vertrag). Aus dem Grundsatz
+     des effet utile ergibt sich dagegen nicht das Gebot, dem Einzelnen Schadensersatzansprüche gegen eine Privatperson für die Verletzung objektiven Gemeinschaftsrechts zu gewähren und damit individuelle Interessen durchzusetzen, die die jeweilige gemeinschaftsrechtliche Bestimmung nicht schützt. Es ist
+     daher weder notwendig noch gerechtfertigt, im Anwendungsbereich des § 823
+     Abs. 2 BGB bei der Verletzung von Unionsrecht contra legem auf den individualschützenden Charakter der verletzten Norm zu verzichten und unabhängig
+     davon Schadensersatz zu gewähren (entgegen Wagner in MünchKommBGB,
+     7. Aufl., § 823 Rn. 481).
+
+15         cc) Nach diesen Grundsätzen kann der Kläger aus einer Verletzung des
+     Art. 5 VO 715/2007/EG eine Haftung der Beklagten auf Schadensersatz in
+     Form der Rückabwicklung eines ungewollt abgeschlossenen Kaufvertrages
+     auch unter Berücksichtigung des effet utile nicht herleiten. Er würde damit sein
+     wirtschaftliches Selbstbestimmungsrecht durchsetzen, das durch die Verordnung nicht geschützt ist.
+
+16         c) Ein Vorabentscheidungsersuchen an den EuGH (Art. 267 Abs. 3
+     AEUV) wegen der Auslegung der genannten Vorschriften ist entgegen der Ansicht der Revision nicht veranlasst. Ein Vorabentscheidungsersuchen ist erforderlich, wenn sich eine entscheidungserhebliche und der einheitlichen Auslegung bedürfende Frage des Unionsrechts stellt. Das ist hier nicht der Fall. Die
+     Rechtslage ist sowohl im Hinblick auf § 6 Abs. 1, § 27 Abs. 1 EG-FGV (vgl. Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 77) als auch im
+     Hinblick auf Art. 5 VO 715/2007/EG wie dargestellt von vornherein eindeutig
+     ("acte claire", vgl. EuGH, Urteil vom 6. Oktober 1982 - Rs 283/81, NJW 1983,
+     1257, 1258; BVerfG, NVwZ 2015, 52 Rn. 35). Anderes ergibt sich nicht aus
+     dem Umstand, dass die Landgerichte Stuttgart (BeckRS 2020, 3558), Gera (7
+
+                                          - 11 -
+
+
+
+     O 1188/18, juris) und Erfurt (8 O 1045/18, juris) Vorabentscheidungsersuchen
+     an den EuGH zur Auslegung der genannten Vorschriften gerichtet haben (vgl.
+     EuGH, Urteil vom 9. September 2015 - C-72/14, C-197/14, juris Tz. 56-63).
+
+17         2. Dem Kläger steht auch kein Anspruch aus § 823 Abs. 2 BGB i.V.m.
+     § 263 Abs. 1 StGB, § 31 BGB zu.
+
+18         Ein Schadensersatzanspruch aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1
+     StGB setzt haftungsbegründend voraus, dass sämtliche objektiven und subjektiven Merkmale des Betrugstatbestands im Sinne von § 263 Abs. 1 StGB (als
+     Schutzgesetz im Sinne von § 823 Abs. 2 BGB) erfüllt sind. Es kann dahinstehen, ob und gegebenenfalls durch welches Verhalten im Zusammenhang mit
+     der Verwendung der unzulässigen Abschalteinrichtung (vgl. dazu Senatsurteil
+     vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 17) in strafrechtlich relevanter Weise getäuscht worden ist und ob die Täuschung, wie die Revision
+     meint, fortgewirkt und auch noch im August 2016 beim Kläger einen strafrechtlich relevanten Irrtum erregt hat (vgl. allgemein zu Täuschung und Irrtum im Zusammenhang mit dem sogenannten Dieselskandal: Brand, wistra 2019, 169,
+     171 ff.; Brand/Hotz, NZG 2017, 976, 977 f.; Eggert in Reinking/Eggert, Der Autokauf, 14. Aufl., Rn. 1895 b f.; Hefendehl in MünchKommStGB, 3. Aufl., § 263
+     Rn. 124, 252; Isfen, JA 2016, 1, 2 f.). Denn jedenfalls fehlt es an der Bereicherungsabsicht und der in diesem Zusammenhang erforderlichen Stoffgleichheit
+     des erstrebten rechtswidrigen Vermögensvorteils mit einem etwaigen Vermögensschaden.
+
+19         a) Der subjektive Tatbestand des § 263 Abs. 1 StGB setzt die Absicht voraus, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen. Dabei müssen der vom Täter erstrebte Vermögensvorteil und der verursachte Vermögensschaden einander "spiegelbildlich" entsprechen (BGH, Be-
+
+                                         - 12 -
+
+
+
+     schluss vom 7. Dezember 2010 - 3 StR 434/10, juris Rn. 10), das eine muss
+     also "gleichsam die Kehrseite des anderen" sein (Stoffgleichheit; BGH, Urteile
+     vom
+     6. Mai 1954 - 5 StR 74/54, BGHSt 6, 115, 116, juris Rn. 11; vom 4. Dezember
+     2002 - 2 StR 332/02, wistra 2003, 180, juris Rn. 6). Dazu müssen erstrebter
+     Vermögensvorteil und eingetretener Vermögensnachteil durch dieselbe Vermögensverfügung vermittelt sein (BGH, Urteile vom 6. Mai 1954 - 5 StR 74/54,
+     BGHSt 6, 115, 116, juris Rn. 12; vom 29. Mai 1987 - 3 StR 242/86, BGHSt 34,
+     379, 391, juris Rn. 49). Der Vorteil muss dem Täter oder dem Dritten direkt aus
+     dem geschädigten Vermögen zufließen (BGH, Urteil vom 4. Dezember 2002
+     - 2 StR 332/02, wistra 2003, 180, juris Rn. 6). Für die Absicht, einem Dritten
+     einen rechtswidrigen Vermögensvorteil zu verschaffen, genügt es, dass es dem
+     Täter auf den Vermögensvorteil als sichere und erwünschte Folge seines Handelns ankommt, mag auch der Vorteil von ihm nur als Mittel zu einem anderweitigen Zweck erstrebt werden (BGH, Beschluss vom 23. Februar 1961 - 4 StR
+     7/61, BGHSt 16, 1, 6, juris Rn. 15; Beschluss vom 9. Juni 2009 - 5 StR 394/08,
+     NStZ 2009, 506 Rn. 21), etwa weil es sich bei ihm um ein notwendiges Zwischenziel     zur   Erreichung   eines   Endziels   handelt   (Dannecker     in
+     Graf/Jäger/Wittig, Wirtschafts- und Steuerstrafrecht, 2. Aufl., § 263 StGB Rn.
+     118, 121; Brand/Hotz, NZG 2017, 976, 979).
+
+20         b) Um eine tragfähige Aussage zur Stoffgleichheit zwischen dem vom
+     Opfer erlittenen Vermögensschaden und dem vom Täter erstrebten rechtswidrigen Vermögensvorteil zu treffen, bedarf es der Feststellung des Vermögensschadens (vgl. BGH, Beschluss vom 8. Juni 2011 - 3 StR 115/11, DAR 2013,
+     159 Rn. 7).
+
+21         aa) Ein Vermögensschaden im Sinne von § 263 Abs. 1 StGB tritt ein,
+     wenn die Vermögensverfügung des Getäuschten bei wirtschaftlicher Betrach-
+
+                                         - 13 -
+
+
+
+     tungsweise unmittelbar zu einer nicht durch Zuwachs ausgeglichenen Minderung des Gesamtwerts seines Vermögens führt (Prinzip der Gesamtsaldierung;
+     st. Rspr., vgl. nur BGH, Urteil vom 8. Oktober 2014 - 1 StR 359/13, BGHSt 60, 1
+     Rn. 31 mwN). Die Bewertung des Vermögensschadens im Sinne von § 263
+     Abs. 1 StGB erfolgt nach objektiven wirtschaftlichen Gesichtspunkten. § 263
+     StGB schützt weder das bloße Affektionsinteresse noch die wirtschaftliche Dispositionsfreiheit noch die Wahrheit im Geschäftsverkehr, sondern allein das
+     Vermögen (BGH, Urteile vom 8. Oktober 2014 - 1 StR 359/13, BGHSt 60, 1 Rn.
+     32; vom 16. Juni 2016 - 1 StR 20/16, NJW 2016, 3543 Rn. 35; Dannecker in
+     Graf/Jäger/Wittig, Wirtschafts- und Steuerstrafrecht, 2. Aufl., § 263 StGB Rn.
+     88, 101). Entgegen der Ansicht der Revision liegt daher allein im Abschluss eines Vertrages, den der Betroffene ohne die Täuschung nicht geschlossen hätte,
+     noch kein Vermögensschaden im Sinne von § 263 Abs. 1 StGB (Dannecker in
+     Graf/Jäger/Wittig, Wirtschafts- und Steuerstrafrecht, 2. Aufl., § 263 StGB Rn.
+     101 mwN; zu den engen Voraussetzungen des Vermögensschadens unter dem
+     Gesichtspunkt des persönlichen Schadenseinschlags vgl. z.B. BGH, Beschluss
+     vom 2. Juli 2014 - 5 StR 182/14, NStZ 2014, 517 Rn. 12; Urteil vom 12. Juni
+     2018 - 3 StR 171/17, NStZ-RR 2018, 283). Im Hinblick auf das Bestimmtheitsgebot und Analogieverbot (vgl. BVerfGE 126, 170, 226 ff. zu § 266 StGB; BVerfGE 130, 1, 47 zu § 263 StGB) sind die Anforderungen an die Feststellung eines Vermögensschadens im Sinne von § 263 Abs. 1 StGB andere als an die
+     Feststellung eines Schadens im Sinne von § 826 BGB (vgl. zu letzterem Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 44 ff.).
+
+22         bb) Bei einem - wie hier - durch behauptetes betrügerisches Verhalten
+     bewirkten Vertragsabschluss ergibt ein Vergleich der Vermögenslage vor und
+     nach dem Vertragsabschluss, ob ein Vermögensschaden eingetreten ist. Dabei
+     sind die beiderseitigen Vertragsverpflichtungen zu vergleichen (Eingehungsschaden). Dieser zunächst durch die rein rechnerische Gegenüberstellung der
+
+                                         - 14 -
+
+
+
+     wirtschaftlichen Werte der gegenseitigen vertraglichen Ansprüche bestimmte
+     Schaden materialisiert sich mit der Erbringung der versprochenen Leistung des
+     Geschädigten (Erfüllungsschaden) und bemisst sich nach der Differenz zwischen dem wirtschaftlichen Wert der Leistung und demjenigen der Gegenleistung, soweit eine solche vom Täter erbracht wird (BGH, Urteile vom 8. Oktober
+     2014 - 1 StR 359/13, BGHSt 60, 1 Rn. 31; vom 16. Juni 2016 - 1 StR 20/16,
+     NJW 2016, 3543 Rn. 34; Beschluss vom 7. Dezember 2010 - 3 StR 434/10,
+     juris Rn. 10; vgl. auch Senatsurteil vom 19. Juli 2011 - VI ZR 367/09, NJW-RR
+     2011, 1661 Rn. 16). Ergibt sich danach ein Wertgefälle zum Nachteil des durch
+     die Täuschung Betroffenen, weil er etwa gegen Bezahlung des vollen Kaufpreises eine minderwertige Ware erhält, so liegt ein Vermögensschaden vor (BGH,
+     Urteil vom 8. Oktober 2014 - 1 StR 359/13, BGHSt 60, 1 Rn. 33 mwN).
+
+23         cc) Nach diesen Grundsätzen hat der Kläger vorliegend dann einen
+     Vermögensschaden erlitten, wenn das von ihm erworbene Fahrzeug im Hinblick
+     auf die Verwendung einer unzulässigen Abschalteinrichtung und etwaige damit
+     verbundene Risiken den vereinbarten und gezahlten Kaufpreis nicht wert war.
+     Die Vermögenseinbuße ist dann auf die Differenz zwischen dem gezahlten
+     Kaufpreis und dem Wert des vom Kläger erworbenen Fahrzeugs zu beziffern
+     (vgl. hierzu Brand, wistra 2019, 169, 174; Brand/Hotz, NZG 2017, 976, 978 f.;
+     Hefendehl in MünchKommStGB, 3. Aufl., § 263 Rn. 593 f.; Isfen, JA 2016, 1, 4;
+     Riehm, DAR 2016, 12, 13).
+
+24         c) Es besteht keine Stoffgleichheit dieser etwaigen Vermögenseinbuße
+     des Klägers mit den denkbaren Vermögensvorteilen, die ein verfassungsmäßiger Vertreter der Beklagten (§ 31 BGB) für sich oder einen Dritten erstrebt haben könnte (im Ergebnis ebenso OLG Bamberg, BeckRS 2019, 21335 Rn. 25
+     f.; OLG Koblenz, Urteil vom 6. Februar 2020 - 6 U 1219/19, juris Rn. 39;
+
+                                         - 15 -
+
+
+
+     BeckRS 2020, 7196 Rn. 32; OLG Stuttgart, Urteil vom 7. August 2019 - 9 U
+     9/19, juris Rn. 31 f.).
+
+25          aa) Eine Absicht der verfassungsmäßigen Vertreter der Beklagten, sich
+     bzw. die Beklagte an dem Gebrauchtwagenverkauf unmittelbar zu bereichern,
+     ist aus Rechtsgründen schon deshalb ausgeschlossen, weil sie bzw. die Beklagte aus dem Kaufvertrag zwischen dem Kläger und der Autohaus S. GmbH
+     über den streitgegenständlichen Gebrauchtwagen keinen unmittelbaren Vorteil
+     ziehen konnten (vgl. Brand/Hotz, NZG 2017, 976, 979). Ein etwaiger dem Kläger entstandener Schaden kann stoffgleich allenfalls mit dem Vorteil sein, der
+     der Autohaus S. GmbH aus dem Fahrzeugverkauf zugeflossen ist.
+
+26          bb) Aber auch eine Absicht der verfassungsmäßigen Vertreter der Beklagten, der Autohaus S. GmbH einen mit dem Schaden des Klägers stoffgleichen Vermögensvorteil zu verschaffen, kann - weitere Feststellungen sind nicht
+     zu erwarten - ausgeschlossen werden. Insbesondere kann die Bereicherung
+     der Autohaus S. GmbH um den Anteil des Kaufpreises, der über den Wert des
+     Fahrzeugs hinausging, nicht als notwendiges und beabsichtigtes Zwischenziel
+     zur Erreichung der eigenen Ziele der verfassungsmäßigen Vertreter der Beklagten angesehen werden. Wie der Senat in seinem Urteil vom 25. Mai 2020 - VI
+     ZR 252/19 (ZIP 2020, 1179 Rn. 22, 25) zu einer Haftung der Beklagten aus §
+     826 BGB ausgeführt hat, bestand - wovon das Berufungsgericht auch im vorliegenden Fall ausgegangen ist - das Ziel der verfassungsmäßigen Vertreter der
+     Beklagten im Zusammenhang mit dem Inverkehrbringen von Fahrzeugen mit
+     unzulässiger Abschalteinrichtung darin, diese Fahrzeuge kostengünstiger als ihr
+     sonst möglich zu produzieren, möglichst viele von ihnen abzusetzen und damit
+     ihren Gewinn zu erhöhen. Dieses Ziel ließ sich mit dem Verkauf der Neuwagen
+     erreichen. Die Erreichung des Ziels setzte dagegen nicht notwendig voraus,
+     dass bei etwaigen späteren Zweit- oder Drittverkäufen derselben Fahrzeuge als
+
+                                         - 16 -
+
+
+
+     Gebrauchtwagen zugunsten des jeweiligen Gebrauchtwagenverkäufers ein etwaiger über dem Wert des jeweiligen Fahrzeugs liegender Kaufpreis erneut
+     realisiert würde. Dem steht nicht entgegen, dass die Beklagte das Unwerturteil,
+     sittenwidrig im Sinne von § 826 BGB gehandelt zu haben, vor Aufdeckung des
+     sogenannten                                                              Dieselskandals auch im Hinblick auf unwissende Gebrauchtwagenkäufer traf (Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 16, 25) und sie von
+     einem Wiederverkauf der Fahrzeuge auf dem Gebrauchtwagenmarkt ausgehen
+     musste. Auch mag sie ein allgemeines Interesse an einem Gebrauchtwagenhandel mit von ihr hergestellten Fahrzeugen zu „guten“ Preisen gehabt haben.
+     Mit diesem Interesse geht aber nicht - insbesondere nicht im Sinne eines notwendigen Zwischenziels - die Absicht einher, mit jedem erneuten Verkauf desselben Fahrzeugs den jeweiligen Gebrauchtwagenverkäufer um einen etwaigen
+     den eigentlichen Wert des Fahrzeugs übersteigenden Anteil am Kaufpreis zu
+     bereichern. Erst recht kann den verfassungsmäßigen Vertretern der Beklagten
+     eine solche Absicht nicht schon im Zeitpunkt des Inverkehrbringens des Fahrzeugs und einer damit möglicherweise einhergehenden betrügerischen Tathandlung unterstellt werden.
+
+27         3. Dem Kläger steht auch kein Schadensersatzanspruch aus § 826 BGB
+     zu. Das Berufungsgericht hat das Verhalten der Beklagten auf der Grundlage
+     der von ihm rechtsfehlerfrei getroffenen Feststellungen mit Recht nicht als sittenwidrig im Sinne des § 826 BGB angesehen.
+
+28         a) Die Qualifizierung eines Verhaltens als sittenwidrig ist eine Rechtsfrage, die der uneingeschränkten Kontrolle durch das Revisionsgericht unterliegt
+     (st. Rspr., vgl. nur Senatsurteile vom 28. Juni 2016 - VI ZR 536/15, WM 2016,
+     1975 Rn. 15 mwN; vom 7. Mai 2019 - VI ZR 512/17, NJW 2019, 2164 Rn. 8).
+
+                                          - 17 -
+
+
+
+29         Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der
+     durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln
+     ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt
+     und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den
+     eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen
+     Folgen ergeben kann (st. Rspr., vgl. nur Senatsurteile vom 28. Juni 2016 - VI
+     ZR 536/15, WM 2016, 1975 Rn. 16 mwN; vom 7. Mai 2019 - VI ZR 512/17,
+     NJW 2019, 2164 Rn. 8 mwN). Schon zur Feststellung der Sittenwidrigkeit kann
+     es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die
+     Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (Senatsurteil vom 28. Juni 2016 - VI ZR 536/15, WM 2016, 1975 Rn. 16 mwN).
+     Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass
+     den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch
+     in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (Senatsurteile vom 7. Mai 2019 - VI ZR 512/17, NJW 2019, 2164
+     Rn. 8; vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 15).
+
+30         Da für die Bewertung eines schädigenden Verhaltens als (nicht) sittenwidrig in einer Gesamtschau (vgl. Senatsurteil vom 25. Mai 2020 - VI ZR
+     252/19, ZIP 2020, 1179 Rn. 16) dessen Gesamtcharakter zu ermitteln ist, ist ihr
+     das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim
+     konkreten Geschädigten zugrunde zu legen. Dies wird insbesondere dann bedeutsam, wenn die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens zeitlich auseinanderfallen und der Schädiger sein Verhalten
+     zwischenzeitlich nach außen erkennbar geändert hat. Zu kurz greift es daher, in
+     solchen Fällen entweder nur auf den Zeitpunkt der "Tathandlung" bzw. der "Tat"
+
+                                         - 18 -
+
+
+
+     (so etwa OLG Karlsruhe, Urteil vom 9. Januar 2020 - 17 U 133/19, juris Rn. 51;
+     OLG Oldenburg, Urteil vom 12. März 2020 - 14 U 105/19, juris Rn. 35; OLG
+     Stuttgart, Urteile vom 7. August 2019 - 9 U 9/19, juris Rn. 41; vom 19. Dezember 2019 - 7 U 85/19, BeckRS 2019, 40971 Rn. 31; teilweise unter Berufung auf
+     Wagner in MünchKommBGB, 7. Aufl., § 826 Rn. 9; Staudinger/Oechsler, BGB,
+     Neubearb. 2018, § 826 Rn. 59) oder, wie es hier das Berufungsgericht getan
+     hat, nur auf den des Schadenseintritts (so unter anderem auch OLG Celle, ZIP
+     2019, 2012 Rn. 20; OLG Köln, Urteil vom 6. Juni 2019 - 24 U 5/19, juris Rn. 44,
+     46; teilweise unter Berufung auf das Senatsurteil vom 4. Juni 2013 - VI ZR
+     288/12, NJW-RR 2013, 1448 Rn. 13) abzustellen.
+
+31          Eine solche Sichtweise lässt sich insbesondere nicht aus der Rechtsprechung des Bundesgerichtshofs herleiten. Danach verbietet es sich lediglich, im
+     Rahmen des § 826 BGB ein Verhalten aus der ex post-Perspektive zu bewerten, es also - unter Zugrundelegung heutiger Anschauungen und Verhältnisse -
+     rückwirkend als sittenwidrig einzustufen (Senatsurteil vom 4. Juni 2013 - VI ZR
+     288/12, NJW-RR 2013, 1448 Rn. 13; ebenso schon RGZ 155, 257, 282). Geht
+     es um die Beurteilung der Sittenwidrigkeit eines Rechtsgeschäfts gemäß § 138
+     Abs. 1 BGB, so sind nach ständiger Rechtsprechung des Bundesgerichtshofs
+     die Verhältnisse im Zeitpunkt seiner Vornahme bzw. des Vertragsschlusses
+     maßgeblich, während es auf die spätere Entwicklung für die Gültigkeit des
+     Rechtsgeschäfts nicht ankommt (BGH, Urteile vom 9. November 1978 - VII ZR
+     54/77, BGHZ 72, 308, 314; vom 28. Februar 1989 - IX ZR 130/88, BGHZ 107,
+     92, 96 f.; vom 29. Juni 2007 - V ZR 1/06, NJW 2007, 2841 Rn. 13; vom 12. April
+     2016
+     - XI ZR 305/14, BGHZ 210, 30 Rn. 46). Dabei ist zu berücksichtigen, dass ein
+     vertragliches Schuldverhältnis in aller Regel bereits mit dem Vertragsschluss,
+     so er denn wirksam ist, begründet wird. Im Falle der vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB wird das gesetzliche Schuldverhältnis erst
+
+                                          - 19 -
+
+
+
+     mit Eintritt des Schadens beim konkreten Geschädigten (der unter bestimmten
+     Voraussetzungen ebenfalls in einem Vertragsabschluss liegen kann, vgl. Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 44 ff.) begründet, weil der haftungsbegründende Tatbestand des § 826 BGB die Zufügung
+     eines Schadens zwingend voraussetzt. Deshalb kann im Rahmen des § 826
+     BGB ein Verhalten, das sich gegenüber zunächst betroffenen (anderen) Geschädigten als sittenwidrig darstellte, aufgrund einer Verhaltensänderung des
+     Schädigers vor Eintritt des Schadens bei dem konkreten Geschädigten diesem
+     gegenüber nicht mehr als sittenwidrig zu werten sein. Eine solche Verhaltensänderung kann somit bereits der Bewertung seines Gesamtverhaltens als sittenwidrig - gerade in Bezug auf den geltend gemachten, erst später eingetretenen Schaden und gerade im Verhältnis zu dem erst später Geschädigten - entgegenstehen und ist nicht erst im Rahmen der Kausalität abhängig von den
+     Vorstellungen des jeweiligen Geschädigten zu berücksichtigen (entgegen Petzold, NJW 2020, 1326, 1327, 1329).
+
+32         b) Bei der demnach gebotenen Gesamtbetrachtung ist auf der Grundlage
+     der vom Berufungsgericht getroffenen und von der Revision nicht angegriffenen
+     Feststellungen das Verhalten der Beklagten gegenüber dem Kläger, wie vom
+     Berufungsgericht zutreffend gesehen, nicht als sittenwidrig zu beurteilen.
+
+33         aa) Der Senat hat im Urteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020,
+     1179 Rn. 16 ff. auf der Grundlage der im dortigen Verfahren getroffenen Feststellungen ausgeführt, dass und warum das Verhalten der Beklagten im Zusammenhang mit dem Inverkehrbringen der mit der Manipulationssoftware versehenen Motoren auch gegenüber Gebrauchtwagenkäufern als mittelbar Geschädigten, die das Fahrzeug vor der Verhaltensänderung der Beklagten im
+     Herbst 2015 erwarben, objektiv sittenwidrig war. Dabei hat der Senat darauf
+     abgestellt, dass die Beklagte aufgrund einer für ihren Konzern getroffenen
+
+                                          - 20 -
+
+
+
+     grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und Gewinninteresse durch bewusste und gewollte Täuschung
+     des KBA systematisch, langjährig und in großem Umfang Fahrzeuge mit Motoren mit unzulässiger Abschalteinrichtung in den Verkehr gebracht habe, womit
+     eine erhöhte Belastung der Umwelt sowie die Gefahr einhergegangen seien,
+     dass bei einer Aufdeckung des Sachverhalts eine Betriebsbeschränkung oder
+     -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte (Rn. 16).
+     Die Beklagte habe sich sowohl im Hinblick auf die für den einzelnen Käufer
+     möglicherweise eintretenden Folgen und Schäden als auch im Hinblick auf die
+     insoweit geltenden Rechtsvorschriften, insbesondere zum Schutz der Gesundheit der Bevölkerung und der Umwelt, gleichgültig gezeigt (Rn. 23). Arglose
+     Käufer der bemakelten Fahrzeuge hätten auf die Einhaltung der gesetzlichen
+     Vorgaben vertrauen und sich darauf auch verlassen dürfen (Rn. 24). Sie hätten
+     die Einhaltung der entsprechenden Vorgaben arglos als selbstverständlich vorausgesetzt. Die Arglosigkeit und das Vertrauen der Fahrzeugkäufer - auch der
+     Gebrauchtwagenkäufer - habe sich die Beklagte gezielt zunutze gemacht, was
+     einer bewussten arglisten Täuschung derjenigen, die ein solches Fahrzeug erwerben, gleichstehe. Die Beklagte treffe das Unwerturteil, sittenwidrig gehandelt
+     zu haben, gerade auch im Hinblick auf die Schädigung aller unwissenden Käufer der bemakelten Fahrzeuge. Diese Schädigung stelle die zwangsläufige Folge des Inverkehrbringens der betroffenen Fahrzeuge dar und liege unmittelbar
+     in der Zielrichtung des sittenwidrigen Verhaltens (Rn. 25).
+
+34         bb) Vorliegend kann zugunsten des Klägers unterstellt werden, dass sich
+     auch im hiesigen Verfahren dieselben Feststellungen zur Gesinnung und zum
+     Verhalten der Beklagten gegenüber Käufern, die ihr Fahrzeug vor dem 22. September 2015 erwarben, treffen ließen. Selbst dann wurden aber durch die vom
+     Berufungsgericht festgestellte Verhaltensänderung der Beklagten wesentliche
+     Elemente, die das Unwerturteil ihres bisherigen Verhaltens gegenüber bisheri-
+
+                                         - 21 -
+
+
+
+     gen Käufern begründeten, derart relativiert, dass der Vorwurf der Sittenwidrigkeit bezogen auf ihr Gesamtverhalten gerade gegenüber dem Kläger und gerade im Hinblick auf den Schaden, der bei ihm durch den Abschluss eines ungewollten Kaufvertrags im August 2016 entstanden sein könnte, nicht mehr gerechtfertigt ist.
+
+35           (1) Nach den von der Revision nicht angegriffenen Feststellungen des
+     Berufungsgerichts kam es vor Abschluss des Kaufvertrags im August 2016 zu
+     folgenden Ereignissen: Die Beklagte gab am 22. September 2015 eine Ad-hoc-Mitteilung und eine gleichlautende Pressemitteilung heraus, in der sie "Unregelmäßigkeiten" in Bezug auf die verwendete Software bei Dieselmotoren vom
+     Typ EA189 einräumte, die in weltweit mehr als elf Millionen Fahrzeugen verbaut
+     seien. Sie sprach in der Mitteilung von einer "auffälligen Abweichung" zwischen
+     Prüfstandswerten und realem Fahrbetrieb sowie davon, an der Beseitigung dieser Abweichungen mit technischen Maßnahmen zu arbeiten und hierzu im Kontakt mit den zuständigen Behörden und dem KBA zu stehen. Sie arbeitete mit
+     dem KBA, das ihr die Entfernung der Software und Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit auferlegte, zusammen. Sie schaltete auf ihrer
+     Website einen Link zu einer Suchmaschine frei, mit deren Hilfe durch Eingabe
+     der Fahrzeugidentifizierungsnummer (FIN) festgestellt werden konnte, ob ein
+     konkretes Fahrzeug mit der beanstandeten Motorsteuerungssoftware ausgestattet war. Sie informierte ihre Servicepartner und Vertragshändler über die
+     Verwendung der Umschaltlogik. Sie stellte ein Software-Update bereit, um den
+     rechtswidrigen Zustand zu beseitigen. Vor und nach August 2016 wurden die
+     Halter der betroffenen Fahrzeuge aufgefordert, diese zum Aufspielen des Software-Updates in die Werkstätten zu bringen.
+
+36          Über die Verwendung der Abschalteinrichtung ist ab September 2015 in
+     Presse, Funk und Fernsehen umfangreich und wiederholt berichtet und in der
+
+                                          - 22 -
+
+
+
+     breiten Öffentlichkeit diskutiert worden. Sie war unter Bezeichnungen wie "Diesel-Gate", "Dieselskandal", "VW-Abgasskandal" monatelang ein die Nachrichten beherrschendes Thema. Auch über die Einrichtung des Links zur Suchmaschine auf der Website der Beklagten, die Maßnahmen des KBA und die Bereitstellung des Software-Updates wurde in den Medien breit berichtet.
+
+37         (2) Ausgehend von diesen Feststellungen war bereits die Mitteilung der
+     Beklagten vom 22. September 2015 objektiv geeignet, das Vertrauen potenzieller Käufer von Gebrauchtwagen mit VW-Dieselmotoren in eine vorschriftsgemäße Abgastechnik zu zerstören, diesbezügliche Arglosigkeit also zu beseitigen. Aufgrund der Verlautbarung und ihrer als sicher vorherzusehenden medialen Verbreitung war typischerweise nicht mehr damit zu rechnen, dass Käufer
+     von gebrauchten VW-Fahrzeugen mit Dieselmotoren die Erfüllung der hier
+     maßgeblichen gesetzlichen Vorgaben noch als selbstverständlich voraussetzen
+     würden. Für die Ausnutzung einer diesbezüglichen Arglosigkeit war damit kein
+     Raum mehr; hierauf konnte das geänderte Verhalten der Beklagten nicht mehr
+     gerichtet sein. Aus der Mitteilung vom 22. September 2015 ging weiter hervor,
+     dass "die zuständigen Behörden" und das KBA bereits involviert waren. Die
+     anschließende Berichterstattung über die Anordnungen des KBA gegenüber
+     der Beklagten ließ erwarten, dass ein Misslingen der behördlicherseits geforderten Herstellung eines vorschriftsmäßigen Zustandes - auch für die Fahrzeughalter - nicht folgenlos bleiben würde. Die Beklagte hat ihre strategische unternehmerische Entscheidung, im eigenen Kosten- und Gewinninteresse das KBA
+     und letztlich die Fahrzeugkäufer zu täuschen, ersetzt durch die Strategie, an die
+     Öffentlichkeit zu treten, Unregelmäßigkeiten einzuräumen und in Zusammenarbeit mit dem KBA Maßnahmen zur Beseitigung des gesetzwidrigen Zustandes
+     zu erarbeiten, um die Gefahr einer Betriebsbeschränkung oder -untersagung (s.
+     hierzu Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 20 f.)
+     zu bannen. Tatsächlich ist ihr dies durch die Entwicklung und Bereitstellung ei-
+
+                                         - 23 -
+
+
+
+     nes Software-Updates für den hier betroffenen Fahrzeugtyp und andere Typen
+     gelungen, mag das Software-Update in dem streitgegenständlichen Fahrzeug
+     auch erst nach dem Erwerb durch den Kläger aufgespielt worden sein. Indem
+     die Beklagte ihre Vertragshändler über die Verwendung der Abschalteinrichtung
+     informiert hat, hat sie sie zudem in die Lage versetzt, etwaige Kaufinteressenten über die Abgasproblematik der betroffenen Fahrzeuge aufzuklären. Ferner
+     räumte die Beklagte jedem, der Kenntnis von der Fahrzeugidentifizierungsnummer des jeweiligen Fahrzeugs hatte, die Möglichkeit ein, sich selbst im Internet Klarheit zu verschaffen, ob das Fahrzeug der Nachrüstung bedurfte. Ihre
+     bislang gleichgültige Gesinnung im Hinblick auf etwaige Folgen und Schäden
+     für Käufer ihrer Fahrzeuge hat sie damit aufgegeben. Ihr nunmehriges Bemühen um die Einhaltung der gesetzlichen Vorgaben zeugt zudem von der Aufgabe ihrer gleichgültigen und rücksichtslosen Gesinnung im Hinblick auf die die
+     Umwelt und Gesundheit der Bevölkerung schützenden Rechtsvorschriften.
+
+38         Der Senat verkennt nicht, dass sich die Beklagte im Herbst 2015 in einer
+     Lage befand, in der die Abgasmanipulation aufgedeckt und sie zu einer Reaktion gezwungen war. Auch ist ihr die umfassende mediale Berichterstattung, mit
+     der die Problematik der breiten Öffentlichkeit zugänglich gemacht und dort über
+     Monate und Jahre in Erinnerung gehalten wurde, nicht als eigene Aufklärungsarbeit zuzurechnen. Die mediale Verbreitung ist aber bei der Beurteilung, welche Anstrengungen von der Beklagten zu unternehmen waren, um ihr Verhalten
+     im Rahmen der notwendigen Gesamtbetrachtung als nicht sittenwidrig erscheinen zu lassen, zu berücksichtigen (so zutreffend OLG Stuttgart, NZV 2020, 196
+     Rn. 44). Bei der gebotenen Gesamtbetrachtung kann das Verhalten der Beklagten bis zum Abschluss des streitgegenständlichen Kaufvertrages im August
+     2016 einer Täuschung nicht mehr gleichgesetzt werden. Wesentliche Umstände, aufgrund derer ihr Verhalten gegenüber früheren Käufern als verwerflich zu
+     werten war, sind bereits im Herbst 2015 entfallen. Dass die Beklagte die Ab-
+
+                                     - 24 -
+
+
+
+schalteinrichtung nicht selbst als illegal gebrandmarkt hat, sondern im Gegenteil
+dieser (zutreffenden) Bewertung in der Folgezeit entgegengetreten ist, dass sie
+eine bewusste Manipulation geleugnet hat und dass sie möglicherweise weitere
+Schritte zur umfassenden Aufklärung hätte unternehmen können, reicht für die
+Begründung des gravierenden Vorwurfs der sittenwidrigen Schädigung gegenüber dem Kläger nicht aus. Insbesondere war ein aus moralischer Sicht tadelloses Verhalten der Beklagten oder eine Aufklärung, die tatsächlich jeden potenziellen Käufer erreicht und einen Fahrzeugerwerb in Unkenntnis der Abschalteinrichtung sicher verhindert, zum Ausschluss objektiver Sittenwidrigkeit nicht
+erforderlich. Käufern, die sich, wie der Kläger, erst für einen Kauf entschieden
+haben, nachdem diese ihr Verhalten, wie beschrieben, geändert hatte, wurde -
+unabhängig von ihren Kenntnissen vom "Dieselskandal" im Allgemeinen und
+ihren Vorstellungen von der Betroffenheit des Fahrzeugs im Besonderen - nicht
+sittenwidrig ein Schaden zugefügt (im Ergebnis - wenn auch teilweise unter Zurechnungsgesichtspunkten - ebenso z.B.: OLG Bamberg, BeckRS 2020, 8090
+Rn. 16; OLG Celle, ZIP 2019, 2012 Rn. 20 ff.; OLG Frankfurt, NJW-RR 2020,
+83 Rn. 33 ff.; OLG Karlsruhe, Urteil vom 9. Januar 2020 - 17 U 133/19, juris
+Rn. 55 ff.; OLG Koblenz, Urteil vom 6. Februar 2010 - 6 U 1219/19, juris
+Rn. 28 ff.; OLG Köln, Urteile vom 27. März 2020 - 1 U 88/19, juris Rn. 39 ff.;
+vom 6. Juni 2019 - 24 U 5/19, juris Rn. 44 ff.; OLG München, Urteile vom 5.
+Februar 2020 - 3 U 6342/19, juris Rn. 23; vom 27. Januar 2020 - 21 U 1896/19,
+juris Rn. 25 f.; OLG Stuttgart, NZV 2020, 196 Rn. 34 ff., 44 ff. mit zust. Anmerkung Lempp; Urteile vom 23. Januar 2020 - 13 U 244/18, juris Rn. 73 ff.; vom 7.
+August 2019 - 9 U 9/19, juris Rn. 42 ff.; Thüringer OLG, Urteil vom 10. Februar
+2020 - 3 U 544/19, juris Rn. 30 ff.; a.A.: OLG Hamm, NJW-RR 2019, 1428 Rn.
+65 f.; OLG Koblenz, Urteil vom 13. März 2020 - 8 U 1351/19, juris Rn. 54 ff.;
+OLG Oldenburg, Urteil vom 12. März 2020 - 14 U 105/19, juris Rn. 34 ff.;
+Schleswig-Holsteinisches OLG, NJW-RR 2020, 483 Rn. 38 f.; OLG Stuttgart,
+
+                                  - 25 -
+
+
+
+Urteile vom 19. Dezember 2019 - 7 U 85/19, BeckRS 2019, 40971 Rn. 30 ff.;
+vom 2. April 2020 - 2 U 249/19, juris Rn. 20 ff.; differenzierend Heese NJW
+2019, 257, 262 f.).
+
+                                       - 26 -
+
+
+
+39         c) Nach alledem kommt es nicht darauf an, ob das (ursprüngliche) Verhalten der Beklagten kausal für den Abschluss des Kaufvertrages durch den
+     Kläger war und ob die diesbezüglichen Ausführungen des Berufungsgerichts
+     frei von Rechtsfehlern sind.
+
+     Seiters                           Offenloch                         Roloff
+
+
+                      Müller                                Allgayer
+
+
+
+
+     Vorinstanzen:
+     LG Trier, Entscheidung vom 03.05.2019 - 5 O 686/18 -
+     OLG Koblenz, Entscheidung vom 02.12.2019 - 12 U 804/19 -
