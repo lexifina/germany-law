@@ -1,6 +1,6 @@
-# Verordnung des Sächsischen Staatsministeriums für Kultus über die Genehmigung und Anerkennung von Schulen in freier Trägerschaft (SächsFrTrSchulVO)
+# Verordnung des Sächsischen Staatsministeriums für Kultus über die Genehmigung und Anerkennung von Schulen in freier Trägerschaft (Sächsische Freie-Träger-Schulverordnung – SächsFrTrSchulVO)
 Vom 12. Januar 2017
-Rechtsbereinigt mit Stand vom 1. August 2018
+Rechtsbereinigt mit Stand vom 1. August 2020
 Auf Grund des § 20 Nummer 1, 2, 5, 6 und 17 des Sächsischen Gesetzes über Schulen in freier Trägerschaft vom 8. Juli 2015 (SächsGVBl. S. 434) verordnet das Staatsministerium für Kultus:
 Inhaltsübersicht
 § 1 Geltungsbereich
