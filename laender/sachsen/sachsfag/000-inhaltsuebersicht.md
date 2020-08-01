@@ -36,6 +36,7 @@ Abschnitt 7 Zuweisungen zum Ausgleich besonderer Bedarfe
 § 22 Zuweisungen zum Ausgleich besonderer Bedarfe
 § 22a Bedarfszuweisungen
 § 22b Zuweisungen für die Schaffung digitaler Infrastruktur und zur Digitalisierung
+§ 22c Zuweisungen zur Überwindung der Belastungen durch die COVID-19-Pandemie
 Abschnitt 8 Kommunales Vorsorgevermögen
 § 23 Kommunales Vorsorgevermögen
 § 23a Kommunaler Strukturfonds
