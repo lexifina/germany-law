@@ -25,9 +25,11 @@
 | 2.4.2.2 | Einholung von Informationen über den Kunden |
 | 2.4.2.3 | Pflicht zur Empfehlung geeigneter Finanzanlagen |
 | 2.4.2.4 | Offenlegung von Zuwendungen |
-| 2.4.2.5 | Produktinformationsblatt |
-| 2.4.2.6 | Informationen über Risiken, Kosten, Nebenkosten und Interessenkonflikte |
-| 2.4.2.7 | Erstellung eines Beratungsprotokolls |
+| 2.4.2.5 | Kurzinformationsblatt |
+| 2.4.2.6 | Informationen über Risiken, Kosten, Nebenkosten |
+| 2.4.2.7 | Anfertigung einer Geeignetheitserklärung |
+| 2.4.2.8 | Vermeidung, Regelung und Offenlegung von Interessenkonflikten, Vergütung |
+| 2.4.2.9 | Aufzeichnung telefonischer Vermittlungs- und Beratungsgespräche und sonstiger elektronischer Kommunikation |
 | 2.4.3 | Kreditwesengesetz |
 | 2.4.4 | Geldwäschegesetz |
 | 2.4.5 | Finanzmarktrichtlinie |

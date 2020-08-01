@@ -7,8 +7,8 @@
 - [§ 2 Anforderungen an förderfähige Maßnahmen beruflicher Aufstiegsfortbildungen](0002.md)
 - [§ 2a Anforderungen an Träger der Maßnahmen](0002a.md)
 - [§ 3 Ausschluss der Förderung](0003.md)
-- [§ 4 Fernunterricht](0004.md)
-- [§ 4a Mediengestützter Unterricht](0004a.md)
+- [§ 4 Fernunterrichtslehrgänge](0004.md)
+- [§ 4a Mediengestützte Lehrgänge](0004a.md)
 - [§ 5 Fortbildung im In- und Ausland](0005.md)
 - [§ 6 Förderfähige Fortbildung, Fortbildungsplan](0006.md)
 - [§ 7 Kündigung, Abbruch, Unterbrechung und Wiederholung](0007.md)
@@ -44,7 +44,6 @@
 
 - [§ 19 Antrag](0019.md)
 - [§ 19a Örtliche Zuständigkeit](0019a.md)
-- [§ 19b Vorschuss; elektronisches Antragsverfahren](0019b.md)
 - [§ 20 Mitteilungspflicht](0020.md)
 - [§ 21 Auskunftspflichten](0021.md)
 - [§ 22 Ersatzpflicht des Ehegatten oder Lebenspartners](0022.md)

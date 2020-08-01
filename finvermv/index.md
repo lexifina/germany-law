@@ -14,7 +14,7 @@
 
 - [§ 6 Angaben zur Speicherung im Vermittlerregister](0006.md)
 - [§ 7 Eintragung](0007.md)
-- [§ 8 Eingeschränkter Zugang](0008.md)
+- [§ 8 Zugang](0008.md)
 
 ## Abschnitt 3 Anforderungen an die Berufshaftpflichtversicherung
 
@@ -24,15 +24,17 @@
 ## Abschnitt 4 Informations-, Beratungs- und Dokumentationspflichten
 
 - [§ 11 Allgemeine Verhaltenspflicht](0011.md)
+- [§ 11a Vermeidung, Regelung und Offenlegung von Interessenkonflikten, Vergütung](0011a.md)
 - [§ 12 Statusbezogene Informationspflichten](0012.md)
 - [§ 12a Information des Anlegers über Vergütungen und Zuwendungen](0012a.md)
-- [§ 13 Information des Anlegers über Risiken, Kosten, Nebenkosten und Interessenkonflikte](0013.md)
+- [§ 13 Information des Anlegers über Risiken, Kosten und Nebenkosten](0013.md)
 - [§ 14 Redliche, eindeutige und nicht irreführende Informationen und Werbung](0014.md)
 - [§ 15 Bereitstellung des Informationsblatts](0015.md)
 - [§ 16 Einholung von Informationen über den Anleger; Pflicht zur Empfehlung geeigneter Finanzanlagen](0016.md)
 - [§ 17 Offenlegung von Zuwendungen durch Gewerbetreibende nach § 34f der Gewerbeordnung](0017.md)
 - [§ 17a Offenlegung und Auskehr von Zuwendungen durch Gewerbetreibende nach § 34h der Gewerbeordnung](0017a.md)
-- [§ 18 Anfertigung eines Beratungsprotokolls](0018.md)
+- [§ 18 Anfertigung einer Geeignetheitserklärung](0018.md)
+- [§ 18a Aufzeichnung telefonischer Vermittlungs- und Beratungsgespräche und sonstiger elektronischer Kommunikation](0018a.md)
 - [§ 19 Beschäftigte](0019.md)
 
 ## Abschnitt 5 Sonstige Pflichten

@@ -1917,3 +1917,7 @@ Land: Thüringen
 | Unstrut-Hainich-Kreis | I |
 | Wartburgkreis | I |
 | Weimarer Land | I |
+|  |  |
+| Gemeinsame Mietenstufe |  |
+|  | Mietenstufe |
+| Inseln ohne Festlandanschluss (§ 12 Absatz 4a Satz 1 und 2 des Wohngeldgesetzes) | V |
