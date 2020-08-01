@@ -1,5 +1,5 @@
 # § 16a Ganztagsangebote
-(1) Allgemeinbildende Schulen sollen Ganztagsangebote einrichten und dabei mit außerschulischen Einrichtungen zusammenarbeiten. Grundschulen müssen sich bei diesen Angeboten mit den Horten abstimmen.
+(1) Allgemeinbildende Schulen sollen Ganztagsangebote einrichten und dabei mit außerschulischen Einrichtungen zusammenarbeiten. Schulen mit Primarstufe müssen sich bei diesen Angeboten mit den Horten abstimmen.
 (2) Der Freistaat Sachsen unterstützt die Ganztagsangebote öffentlicher und freier Träger allgemeinbildender Schulen mit finanziellen Mitteln nach den Maßgaben des Haushaltsplanes. Zur Stärkung der Eigenverantwortung an Schulen sollen sie die im Haushaltsplan des Freistaates Sachsen für die Förderung von Ganztagsangeboten für Schüler vorgesehenen Mittel als pauschalisierte zweckgebundene Zuweisungen erhalten. § 3b Absatz 1 findet entsprechende Anwendung.
 (3) Die oberste Schulaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen zu erlassen, insbesondere über
 1. die inhaltlichen Mindestanforderungen an die pädagogisch-fachliche Ausgestaltung von Ganztagsangeboten,
