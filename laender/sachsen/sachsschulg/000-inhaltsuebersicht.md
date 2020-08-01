@@ -12,8 +12,9 @@
 § 4b Schulstandorte im ländlichen Raum
 § 4c Sonderpädagogischer Förderbedarf
 § 5 Grundschule
-§ 6 Oberschule
+§ 6 Oberschule einschließlich Oberschule+
 § 7 Gymnasium
+§ 7a Gemeinschaftsschule
 § 8 Berufsschule
 § 9 Berufsfachschule
 § 10 Fachschule
