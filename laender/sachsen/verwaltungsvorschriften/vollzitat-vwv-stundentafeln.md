@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.2
+- Datum: 2020-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2019
+01.08.2020
 bis
-31.07.2020
+31.07.2021
 
 VwV Stundentafeln
 
@@ -80,9 +80,7 @@ Für Grundschulen, an denen nach der Klassenstufe 2 eine LRS-Klasse gebildet wir
 
 Grundschule mit dem Angebot des Faches Jüdische Religion
 
-An der Annenschule – Grundschule, Chemnitz, der 4. Grundschule Dresden „Am Rosengarten“ und der Lessingschule – Grundschule der Stadt Leipzig, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus zur Durchführung des Religionsunterrichts und des Ethikunterrichts im Freistaat Sachsen vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 11. Dezember 2017
-
-(SächsABl. SDr. S. S 409) entsprechend.
+An den von der Schulaufsichtsbehörde festgelegten Grundschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der VwV Religion und Ethik vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 385) entsprechend.
 
 
 IV.
@@ -189,6 +187,11 @@ Palucca Hochschule für Tanz Dresden, Oberschule
 An der Palucca Hochschule für Tanz Dresden, Oberschule, gilt die als Anlage 3d beigefügte Stundentafel.
 
 
+5.
+
+An den von der Schulaufsichtsbehörde festgelegten Oberschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 3e beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
+
+
 VI.
 Stundentafeln Gymnasien
 
@@ -217,6 +220,13 @@ Sorbisches Gymnasium
 In der Sekundarstufe I des Sorbischen Gymnasiums gilt die als Anlage 4c beigefügte Stundentafel.
 
 
+4.
+
+An den von der Schulaufsichtsbehörde festgelegten Gymnasien, die das Fach Jüdische Religion anbieten, gilt in der Sekundarstufe I die als Anlage 4d
+
+beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
+
+
 VII.
 Stundentafel Abendoberschule
 
@@ -243,7 +253,7 @@ IX.
 Deutsch als Zweitsprache
 
 
-Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15   Wochenstunden, für die Oberschulen 25   Wochenstunden und für Kollegs 32   Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der begleitende Unterricht im Fach Deutsch als Zweitsprache (3. Etappe) umfasst in den in Ziffer I genannten Schulen mindestens 2   Wochenstunden und höchstens 4   Wochenstunden je gebildeter Gruppe.
+Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15  Wochenstunden, für die Oberschulen 25  Wochenstunden und für Kollegs 32  Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der begleitende Unterricht im Fach Deutsch als Zweitsprache (3. Etappe) umfasst in den in Ziffer I genannten Schulen mindestens 2  Wochenstunden und höchstens 4  Wochenstunden je gebildeter Gruppe.
 
 
 X.
@@ -254,9 +264,9 @@ Abweichungen von den Stundentafeln in Eigenverantwortung  der allgemeinbildenden
 
 An Grundschulen, Oberschulen und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe
 
-die  Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
+die   Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
 
-Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten  Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in
+Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten   Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in
 
 den Fremdsprachen am Gymnasium darf nicht verringert werden.
 
@@ -398,6 +408,9 @@ Stundentafel für die Oberschule mit vertiefter sportlicher Ausbildung
 Anlage 3d
 Stundentafel für die Palucca Hochschule für Tanz Dresden, Oberschule
 
+Anlage 3e
+Stundentafel für die Oberschule mit dem Angebot des Faches Jüdische Religion
+
 Anlage 4a
 Stundentafel für das Gymnasium Sekundarstufe I
 
@@ -407,6 +420,9 @@ Stundentafel für Klassen mit vertiefter Ausbildung Sekundarstufe I
 Anlage 4c Stundentafel für das Sorbische Gymnasium
 
 Sekundarstufe I
+
+Anlage 4d
+Stundentafel für das Gymnasium mit dem Angebot des Faches Jüdische Religion Sekundarstufe I
 
 Anlage 5
 Stundentafel für die Abendoberschule
@@ -432,9 +448,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2019
+Fassung gültig ab:  1. August 2020
 
-Fassung gültig bis: 31. Juli 2020
+Fassung gültig bis: 31. Juli 2021
 
 Drucken/Speichern
 
@@ -461,7 +477,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.2
+https://www.revosax.sachsen.de/vorschrift/17744.3
 Stand vom
 18.11.2026
 
