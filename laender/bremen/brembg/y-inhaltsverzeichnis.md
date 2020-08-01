@@ -66,10 +66,11 @@ Unterabschnitt 1 Allgemeines
 § 53 | Ausschluss und Befreiung von Amtshandlungen
 § 54 | Wohnungswahl, Dienstwohnung, dienstlicher Wohnsitz
 § 55 | Aufenthalt in erreichbarer Nähe
-§ 56 | Dienstkleidungsvorschriften
+§ 56 | Dienstbekleidung, äußeres Erscheinungsbild
 § 57 | Amtsbezeichnung
 § 58 | Dienstjubiläen
 § 59 | Dienstliche Beurteilung, Dienstzeugnis
+§ 59a | Rückforderung zu viel gezahlter Geldleistungen
 Unterabschnitt 2 Arbeitszeit und Urlaub
 § 60 | Regelmäßige Arbeitszeit, Bereitschaftsdienst, Mehrarbeit
 § 61 | Teilzeitbeschäftigung (§ 43 des Beamtenstatusgesetzes)

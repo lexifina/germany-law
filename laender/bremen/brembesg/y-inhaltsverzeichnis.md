@@ -29,7 +29,7 @@ Unterabschnitt 1 Allgemeine Grundsätze
 Unterabschnitt 2 Vorschriften für Beamtinnen und Beamte
 § 23 | Einstiegsämter
 § 24 | Beförderungsämter
-§ 25 | Bemessung des Grundgehalts in der Besoldungsordnung A
+§ 25 | Bemessung des Grundgehalts der Besoldungsordnungen A und B
 § 26 | Nicht zu berücksichtigende Dienstzeiten
 Unterabschnitt 3 Vorschriften für Professorinnen und Professoren, hauptberufliche Leiterinnen und Leiter sowie Mitglieder von Leitungsgremien an Hochschulen
 § 27 | Grundgehaltssätze der Besoldungsordnungen W und C
@@ -67,6 +67,7 @@ Abschnitt 4 Zulagen, Vergütungen
 § 55 | Gerichtsvollziehervergütung
 § 56 | Andere Zulagen, Vergütungen und Zuwendungen
 § 57 | Zuschläge zur Sicherung der Funktions- und Wettbewerbsfähigkeit
+§ 57a | Zuschlag in Fällen des Hinausschiebens des Eintritts in den Ruhestand
 Abschnitt 5 Auslandsbesoldung
 § 58 | Auslandsbesoldung
 Abschnitt 6 Anwärterbezüge
@@ -95,3 +96,4 @@ Abschnitt 9 Übergangsvorschriften
 § 78 | Übergangsvorschrift aus Anlass der Neuregelung von Ausgleichszulagen
 § 79 | (weggefallen)
 § 80 | Übergangsvorschrift aus Anlass der Neuregelung der Besoldung bei begrenzter Dienstfähigkeit
+§ 81 | Übergangsvorschrift aus Anlass der Neuregelung der Bemessung des Grundgehalts in den Besoldungsordnungen A und R

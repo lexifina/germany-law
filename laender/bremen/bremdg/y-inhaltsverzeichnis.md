@@ -34,6 +34,7 @@ Kapitel 2 Durchführung
 § 27 | Beschlagnahmen und Durchsuchungen
 § 28 | Protokoll
 § 29 | Innerdienstliche Informationen
+§ 29a | Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG
 § 30 | Abschließende Anhörung
 § 31 | Abgabe des Disziplinarverfahrens
 Kapitel 3 Abschlussentscheidung
@@ -94,8 +95,8 @@ Kapitel 5 Wiederaufnahme des gerichtlichen Disziplinarverfahrens
 § 74 | Mündliche Verhandlung, Entscheidung des Gerichts
 § 75 | Rechtswirkungen, Entschädigungen
 Kapitel 6 Kostenentscheidung im gerichtlichen Disziplinarverfahren
-§ 76 | Kostentragungspflicht
-§ 77 | Erstattungsfähige Kosten
+§ 76 | Kostentragung und erstattungsfähige Kosten
+§ 77 | Gerichtskosten
 Teil 5 Unterhaltsbeitrag, Unterhaltsleistung und Begnadigung
 § 78 | Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
 § 79 | Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten

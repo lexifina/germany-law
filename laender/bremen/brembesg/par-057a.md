@@ -1,0 +1,2 @@
+# § 57a Zuschlag in Fällen des Hinausschiebens des Eintritts in den Ruhestand
+Beamtinnen und Beamten sowie Richterinnen und Richtern, deren Eintritt in den Ruhestand nach § 35 Absatz 4 des Bremischen Beamtengesetzes oder § 3 Absatz 4 des Bremischen Richtergesetzes hinausgeschoben ist, wird für die Dauer des Hinausschiebens ein nichtruhegehaltfähiger Zuschlag in Höhe von monatlich 8 vom Hundert des jeweils zustehenden Grundgehaltsbetrages gewährt. Amts- und Stellenzulagen sind nicht zu berücksichtigen. § 9 Absatz 1 gilt entsprechend.
