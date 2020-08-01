@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.4
+- Datum: 2020-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.06.2019
+01.08.2020
 bis
-31.07.2020
+31.07.2021
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -69,12 +69,12 @@ Der Unterricht an der Berufsschule in der dualen Berufsausbildung kann auch in z
 2.
 
 
-Lehrpläne, Arbeitsmaterialien, Stoff- und Kompetenzverteilungspläne
+Lehrpläne, Arbeitsmaterialien, Stoffverteilungs- und Kompetenzentwicklungspläne
 
 
 a)
 
-Die Lehrpläne in den studienqualifizierenden Bildungsgängen sind von der Schule in Stoffverteilungspläne umzusetzen, welche die inhaltliche und zeitliche Gliederung für den Unterricht ausweisen. Die Lehrpläne und Arbeitsmaterialien der berufsqualifizierenden Bildungsgänge sind durch die Kompetenzverteilungspläne zu untersetzen (siehe „Handreichung des Landesamtes für Schule und Bildung, Standort Radebeul, zur Umsetzung lernfeldstrukturierter Lehrpläne“).
+Die Lehrpläne in den studienqualifizierenden Bildungsgängen sind von der Schule in Stoffverteilungspläne umzusetzen, welche die inhaltliche und zeitliche Gliederung für den Unterricht ausweisen. Die Lehrpläne und Arbeitsmaterialien der berufsqualifizierenden Bildungsgänge sind durch die Kompetenzentwicklungspläne zu untersetzen (siehe „Handreichung des Landesamtes für Schule und Bildung, Standort Radebeul, zur Umsetzung lernfeldstrukturierter Lehrpläne“).
 
 
 b)
@@ -120,12 +120,12 @@ Stundentafeln der Berufsschule
 
 A.1
 
-Berufsvorbereitungsjahr
+Berufsvorbereitungsjahr (einjährig)
 
 
 A.2
 
-Gestrecktes Berufsvorbereitungsjahr
+Gestrecktes Berufsvorbereitungsjahr (zweijährig)
 
 
 A.3
@@ -140,12 +140,12 @@ Berufsvorbereitende Bildungsmaßnahme/Einstiegsqualifizierung der Bundesagentur 
 
 A.5
 
-Berufsgrundbildungsjahr, Berufsbereich 1
+Berufsgrundbildungsjahr, Berufsbereich Wirtschaft und Verwaltung
 
 
 A.6
 
-Berufsgrundbildungsjahr, Berufsbereiche 2 bis 14
+Berufsgrundbildungsjahr, Berufsbereiche außer Wirtschaft und Verwaltung
 
 
 A.7
@@ -165,7 +165,7 @@ Berufsgrundbildungsjahr, Berufsbereich Elektrotechnik
 
 A.10
 
-Berufsgrundbildungsjahr, Berufsbereich Bautechnik (4 Berufsgruppen)
+Berufsgrundbildungsjahr, Berufsbereich Bautechnik
 
 
 A.11
@@ -200,52 +200,38 @@ Berufsgrundbildungsjahr, Berufsbereich Ernährung, Gästebetreuung und hauswirts
 
 A.17
 
-Berufsausbildung in den Berufen des Berufsbereiches 1
+Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung
 
+
+A.17a
+
+Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
 
 A.18
 
-Berufsausbildung in den Berufen der Berufsbereiche 2 bis 14
+Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung
 
+
+A.18a
+
+Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
 
 A.19
 
-Berufsausbildung in den Berufen des Berufsbereiches 1 (Organisationsform Blockunterricht)
-
+Organisationsform Blockunterricht Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung, Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
 
 A.20
 
-Berufsausbildung in den Berufen der Berufsbereiche 2 bis 13 (Organisationsform Blockunterricht)
-
+Organisationsform Blockunterricht Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung, Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
 
 A.21
 
-Berufsausbildung in den Berufen des Berufsbereiches 1 (Organisationsform 2-2-1-Modell)
+Organisationsform 2-2-1-Modell Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung
 
 
 A.22
 
-Berufsausbildung in den Berufen der Berufsbereiche 2 bis 13 (Organisationsform 2-2-1-Modell)
-
-
-A.23
-
-Berufsausbildung im Beruf Maurer mit gleichzeitigem Erwerb der Fachhochschulreife (Schulversuch DOBA)
-
-
-A.24
-
-Berufsausbildung im Beruf Beton- und Stahlbetonbauer mit gleichzeitigem Erwerb der Fachhochschulreife (Schulversuch DOBA)
-
-
-A.25
-
-Berufsausbildung im Beruf Zimmerer mit gleichzeitigem Erwerb der Fachhochschulreife (Schulversuch DOBA)
-
-
-A.26
-
-Berufsausbildung im Beruf Straßenbauer mit gleichzeitigem Erwerb der Fachhochschulreife (Schulversuch DOBA)
+Organisationsform 2-2-1-Modell Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung
 
 
 B)
@@ -264,6 +250,11 @@ B.2
 Berufsfachschule für Sozialwesen
 
 
+B.2a
+
+Berufsfachschule für Sozialwesen (gültig für Schuljahr 2020/2021, Klassenstufe 2)
+
+
 B.3
 
 Berufsfachschule für Pflegehilfe
@@ -271,100 +262,95 @@ Berufsfachschule für Pflegehilfe
 
 B.4
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Altenpflege
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenten
 
 
 B.5
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Ergotherapie
 
 
 B.6
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Ergotherapie
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
 
 
 B.7
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
 
 
 B.8
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Gesundheits- und Krankenpflege/Gesundheits- und Kinderkrankenpflege
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Laboratoriumsassistent
 
 
 B.9
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Radiologieassistent
 
 
 B.10
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Laboratoriumsassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Assistent für Funktionsdiagnostik
 
 
 B.11
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Radiologieassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Veterinärmedizinisch-technischer Assistent
 
 
 B.12
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Assistent für Funktionsdiagnostik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäter
 
 
 B.13
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Veterinärmedizinisch-technischer Assistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
 
 
 B.14
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäter
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau/Pflegefachmann
 
 
 B.15
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
 
 
 B.16
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseur und medizinischer Bademeister
 
 
 B.17
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseur und medizinischer Bademeister
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenten
 
 
 B.18
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologen
 
 
 B.19
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologen
+Berufsfachschule für Musikinstrumentenbauer, Beruf Geigenbauer
 
 
 B.20
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Geigenbauer
+Berufsfachschule für Musikinstrumentenbauer, Beruf Handzuginstrumentenmacher
 
 
 B.21
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Handzuginstrumentenmacher
-
-
-B.22
-
 Berufsfachschule für Musikinstrumentenbauer, Beruf Zupfinstrumentenmacher
 
 
-B.23
+B.22
 
 Berufsfachschule für Uhrmacher
 
@@ -387,13 +373,22 @@ C.2
 Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
 
 
+C.2a
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+
+
 C.3
 
 Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
 
 C.3a
 
-Fachbereich Sozialwesen, Fachrichtung Sozialäpdagogik, verkürzte Ausbildung
+Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
+
+C.3b
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
 
 C.4
 
@@ -783,6 +778,59 @@ F.27
 Fachbereich Wirtschaft, Fachrichtung Wohnungswirtschaft
 
 
+G)
+
+
+Auslaufende Stundentafeln (Schulart Berufsfachschule)
+
+
+G.1
+
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Altenpflege
+
+
+G.2
+
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Gesundheits- und Krankenpflege/Gesundheits- und Kinderkrankenpflege
+
+
+H)
+
+Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
+
+H.1
+
+Berufsfachschule für medizinische Dokumentation
+
+H.2
+
+Berufsfachschule für Sozialwesen
+
+H.3
+
+Berufsfachschule für Pflegehilfe
+
+H.4
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
+
+H.5
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+
+H.6
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
+
+H.7
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
+
+H.8
+
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+
+
 III.
 
 
@@ -811,6 +859,10 @@ Teil E – Berufliches Gymnasium
 
 Teil F – Auslaufende Stundentafeln (Schulart Fachschule)
 
+Teil G – Auslaufende Stundentafeln (Schulart Berufsfachschule)
+
+Teil H – Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -821,9 +873,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Juni 2019
+Fassung gültig ab:  1. August 2020
 
-Fassung gültig bis: 31. Juli 2020
+Fassung gültig bis: 31. Juli 2021
 
 Drucken/Speichern
 
@@ -850,7 +902,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.4
+https://www.revosax.sachsen.de/vorschrift/17348.5
 Stand vom
 18.11.2026
 
