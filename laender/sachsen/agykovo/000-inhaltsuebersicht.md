@@ -4,7 +4,7 @@ Abschnitt 1 Allgemeines
 § 2 Aufbau und Besuchsdauer
 § 3 Aufnahmevoraussetzungen und Aufnahmeentscheidung
 § 4 Anmeldung
-§ 5 Aufnahmeprüfung für die Einführungsphase des Kollegs
+§ 5 (weggefallen)
 § 6 Überspringen von Vorkurs und Einführungsphase
 § 7 Feststellungsprüfung in der Fremdsprache
 § 7a Feststellungsprüfung in der Herkunftssprache und Anerkennung der Herkunftssprache
