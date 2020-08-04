@@ -85,7 +85,7 @@
 |  |  |
 | Zehntes Kapitel | Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz |  |
 | Erster Abschnitt | Informationsgrundlagen |  |
-| Erster Titel | Grundsätze der Datenverwendung ...... | §§ 284 bis 287 |
+| Erster Titel | Grundsätze der Datenverwendung ...... | §§ 284 bis 287a |
 | Zweiter Titel | Informationsgrundlagen der Krankenkassen ....................... | §§ 288 bis 293a |
 | Zweiter Abschnitt | Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz |  |
 | Erster Titel | Übermittlung von Leistungsdaten ....... | §§ 294 bis 303 |
