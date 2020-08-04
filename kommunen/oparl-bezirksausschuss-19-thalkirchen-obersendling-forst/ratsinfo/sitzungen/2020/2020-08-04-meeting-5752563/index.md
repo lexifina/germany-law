@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-08-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752563
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752563
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 01.07.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Terminplanung BA-Sitzungstermine 2021
+- TOP 2.4.: Schaukastenbetreuung
+- TOP 2.5.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV Forstenried e.V. Anschaffung AirTrack 1.490,00€; 0262.0-19-0334
+- TOP 3.3.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. Bewegungsförderung in der Schule vom 01.09.2020 – 31.07.2021 5.722,84€; Az. 0262.0-19-0335
+- TOP 3.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 05.06.-30.09.2020 2.500 €, AZ: 0262.0-19-0333
+- TOP 3.5.: (E) Stadtbezirksbudget Kinderhaus Kühlschruppe e.V. Kinderhaus: Gartengrundlage im August 2020 1.003,55 €, AZ: 0262.0-19-0336
+- TOP 3.6.: - Nachtrag - (E) Bestellung städtischer Leistung: Wanderbühne Sommer in der Stadt
+- TOP 3.7.: - Nachtrag - (Antrag) Bestellung städtischer Leistung: Spielgerät(e) Spielplatz Allescherstraße
+- TOP 3.8.: - Nachtrag - (Antrag) Finanzierung von Kinderstadtteilplänen - Fürstenried-Forstenried
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Versetzung Wertstoffcontainer Springerstraße
+- TOP 4.4.: (A) Feuerwerksanzeige: Gegenüber Gasthof Hinterbrühl am 01.08.2020
+- TOP 4.5.: (Antrag) Situierung der Wertstoffcontainer an den beiden Eingängen der Grundschule Berner Straße
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Fußwegsicherung im Bereich Wolfratshauser Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Tempo-10 Rietschelstraße
+- TOP 5.4.: (Antrag) Rotmarkierung Fahrradspur Einmündung Georg-Strebl-Str./Wolfratshauser Str.
+- TOP 5.5.: (Antrag) Behindertengerechten Zugang zum Ärztezentrum Züricher Straße 92 ermöglichen
+- TOP 5.6.: (A) Umgestaltung Wochenmarkt Fellererplatz
+- TOP 5.7.: (Antrag) Verkehrssituation Einmündung Carola-Neher-Straße in die Siemensallee
+- TOP 5.8.: (Antrag) Parksituation in der Steinerstraße verbessern
+- TOP 5.9.: - Nachtrag - (A) Kurzfristige Maßnahmen für Fußgänger in Corona-Zeiten
+- TOP 5.10.: - Nachtrag - (Antrag) Sperrung Durchfahrt Constanze-Hallgarten-Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: Bebauungsplanverfahren 2139 Machtlfinger Straße - frühzeitige Öffentlichkeitsbeteiligung
+- TOP 6.4.: (A) Beschlussentwurf: Verhinderung weiteren Zuzugs BV-Empfehlung 14-20 / E 01973; Sitzungsvorlage Nr. 20-26 / V 00518
+- TOP 6.5.: (Antrag) Bebauungsplanverfahren 2139 Machtlfinger Straße - Höhenprofil
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Finanzierung Spielplatz Allescherstraße
+- TOP 7.3.: - Nachtrag - (Antrag) Situation an der Grundschule Baierbrunner Straße verbessern
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 06.12. bis 24.12.2020
+- TOP 8.3.: (A) Textvorschläge Straßennamenerläuterungsschilder im 19. Stadtbezirk
+- TOP 8.4.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 28.09. bis 11.10.2020
+- TOP 8.5.: (U) Gaststättenfortführung: Liesl-Karlstadt-Straße 22
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
