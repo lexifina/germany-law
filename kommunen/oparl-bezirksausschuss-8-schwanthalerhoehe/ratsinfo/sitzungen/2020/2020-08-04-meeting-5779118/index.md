@@ -1,0 +1,88 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-08-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779118
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779118
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 8: Kultur und Integration
+- TOP 9: Umwelt und Verkehr
+- TOP 10: Budget und Finanzen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 13: Protokoll und Umlauf
+- TOP 4.1.: Wildparken und Vermüllung des MK3-Geländes an der Hans-Fischer-Straße
+- TOP 6.2.1.: Bauvorhaben Westendstraße 25
+- TOP 6.2.2.: Bauvorhaben Westendstraße 113
+- TOP 6.2.3.: Bauvorhaben Parkstraße 6
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.4.: Europäische Charta zur Gleichstellung von Frauen und Männern; Erhöhung des Sicherheitsgefühls durch Optimierung der Beleuchtung des öff. Raumes
+- TOP 6.3.5.: Projekt Philipp-Loewenfeld-Straße; Südrampe Arnulfsteg
+- TOP 6.3.6.: Freischankfläche Schwanthalerstr. 131
+- TOP 6.3.7.: Freischankfläche Trappentreustraße 23
+- TOP 6.3.8.: Freischankfläche Bergmannstr. 28
+- TOP 6.3.9.: Freischankfläche Kazmairstr. 31
+- TOP 6.3.10.: Freischankfläche Kazmairstr. 29
+- TOP 6.3.11.: Freischankfläche Westendstraße 90
+- TOP 6.3.12.: Bewertung der Münchner Spielplätze durch Eltern und Kinder
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: BA-Dialog-Termin mit dem Referat für Bildung und Sport am 29.09.2020
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Spielaktion am 20. - 22.10.2020 am Georg-Freundorfer-Platz
+- TOP 7.3.2.: Vollzug der Zweckentfremdungs- und Erhaltungssatzungen; Jahresstatistik 2019
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Bewerbung Mosaik-Jugendpreis - Mit Vielfalt gegen Rassismus
+- TOP 8.2.2.: Gedenkveranstaltung zum Jahrestag des 9. November 1938; „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2020“
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Einrichtung einer Fußgängerzone Am Bavariapark
+- TOP 9.2.2.: Kulturveranstaltung "Irrlichter" am 02. und 09.08.2020 Am Bavariapark
+- TOP 9.2.3.: Baumfällung Kazmairstr. 38b
+- TOP 9.2.4.: Baumfällung Gollierstraße 46a
+- TOP 9.2.5.: Kulturveranstaltung Musik am Gollierplatz am 15.08., 22.08., 29.08., 05.09., 12.09. und 19.09.2020
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Errichtung von Fahrradständern vor dem Kinderhaus St. Rupert, Kazmairstr. 66
+- TOP 9.3.2.: MVG-Leistungsprogramm 2020 und 2021 - Sachstand
+- TOP 9.3.3.: Konzept Fahrrad-Übungsplatz Theresienwiese
+- TOP 9.3.4.: Optische Abgrenzung von Fahrrad- und Gehwegbereich Trappentreustraße vor dem Pfarrheim St. Ruppert
+- TOP 9.3.5.: Zeitgleiche Einführung von Anwohnerparken und Parkraumbewirtschaftung auf der Theresienhöhe, Ganghoferstr. und den Straßen der Messestadt (Hans-Fischer-Str., August-Kühn-Str., Carlamaria-Heim-Str., Kurt-Spengler-Str., Wugg-Retzer-Str.)
+- TOP 9.3.6.: Nachbarschaftsstraßen - Summerstreets im Stadtbezirk 8
+- TOP 9.3.7.: Erneuerung des Piktogramms Fahrradstraße in der Schrenkstraße
+- TOP 9.3.8.: Verparkung der Gehwegbereiche an der Kreuzung Ligsalz- / Gollierstraße; Errichtung einer Ladezone oder andere Lösungsvorschläge
+- TOP 9.3.9.: Sommerstraßen - Prüfung der Einrichtung der Astallerstraße zwischen Guldeinstraße und Westendstraße als verkehrsberuhigter Bereich
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget democraticArts (Künstlerkollektiv) Die Demokratie in der Kunst – Die Kunst der Demokratie – in Krisenzeiten (Unruly Ghosts) vom 01.07.-31.12.2020 7.000,00 €, AZ: 0262.0-12-0389
+- TOP 10.1.2.: (E) Stadtbezirksbudget KulturRaum München e.V. Schauspiel vor Ort vom 10.09.2020 – 11.03.2021 3.768,00€; Az. 0262.0-8-0238
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative „Hinterhof“ Hinterhof-Kurzfilmprogramme vom 23.07. bis 11.08.2020 1.662,00 € Az.0262.0-8-0239
+- TOP 10.1.4.: (E) Stadtbezirksbudget IG Feuerwache – Initiativgruppe e.V. Erneuerung der Hochbeete vom 21.09.-31.10.2020 3.406,01€; Az. 0262.0-8-0241
+- TOP 10.1.5.: Kunst- und Kulturtage „Westend hat ein Gesicht“; Verzicht auf die Einhaltung der 6-Wochen-Frist sowie auf die Bereitstellung des Eigenmittelanteils
+- TOP 10.1.6.: (E) Stadtbezirksbudget Freunde der Parkstraße e.V. Parkstraßenfest am 05./12.09.2020 999,00 € / Az. 0262.0-8-0240
+- TOP 10.1.7.: (E) Stadtbezirksbudget Architektur- und Urbanistik-Kollektiv P.O.N.R. Urban Chair Machine vom 01.08.-30.10.2020 5.000,00€; Az. 0262.0-8-0242
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt; Kürzung des Stadtbezirksbudgets in 2020
+- TOP 12.1.: Grundsätzliches zur Abrechnung der Aufwandsentschädigung
+- TOP 12.2.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 12.3.: Abrechnung von virtuellen Sitzungen und Besprechungen
