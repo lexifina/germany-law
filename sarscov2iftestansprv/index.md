@@ -12,4 +12,5 @@
 - [§ 8 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds](0008.md)
 - [§ 9 Vergütung](0009.md)
 - [§ 10 Transparenz](0010.md)
+- [§ 10a Testung bei Einreise in die Bundesrepublik Deutschland](0010a.md)
 - [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
