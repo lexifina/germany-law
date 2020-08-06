@@ -1,0 +1,6 @@
+# TOP 3.: Verschiedenes
+
+- Sitzung: Ortsbeirat Dickershausen* (15. Sitzung) (2020-08-06)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/4664
