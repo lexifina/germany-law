@@ -6,6 +6,7 @@
 
 - [§ 1 Abfallwirtschaftliche Ziele](0001.md)
 - [§ 2 Anwendungsbereich](0002.md)
+- [§ 3 Begriffsbestimmungen](0003.md)
 
 ## Abschnitt 2 Pflichten beim Inverkehrbringen von Elektro- und Elektronikgeräten
 
