@@ -1,0 +1,54 @@
+# Ausschuss für Bauen und Umwelt (33. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-08-13T18:00:00+02:00
+- Ende: 2020-08-13T19:03:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-241
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXia9WOrfjeDyQ4aHaXuNfk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7266
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSCogFWnis61q43Q25idNHJaEXFI7WWz4dLa-raeoiac/Bekanntmachung_Ausschuss_fuer_Bauen_und_Umwelt_13.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaYg7OjHKH1kboo5aMes_4zGyt6DiyrrEvozScA2KSAf/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen_und_Umwelt_13.08.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 13.02.2020
+- TOP 2.: Anträge auf Baumfällungen Bezug: Baumfällanträge und Umweltkommission am 02.07.2020 - (kein Text vorhanden)
+- TOP 3.: Mitteilungen
+- TOP 3.1: Müllproblematik auf der Clemens-August-Straße
+- TOP 3.2: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 3.2.1: Erschließung Alte Bonnstraße / Otto-Wels-Straße
+- TOP 3.2.2: Erschließung Bonnstraße
+- TOP 3.2.3: Erschließung Gallbergsiedlung / Ferdinand-Krausen-Weg
+- TOP 3.2.4: Erschließung Pehler Feldchen
+- TOP 3.2.5: Erschließung „An Hornsgarten“
+- TOP 3.2.6: Erschließung Rosenhof / Sophie-Scholl-Straße
+- TOP 3.2.7: Am Krausen Baum: Straßen- und Kanalbau
+- TOP 3.2.8: Straßen- und Wegekonzept
+- TOP 3.2.9: Bundesbahnhof: Rampe
+- TOP 3.2.10: Theodor-Körner-Straße: Kanalbau 2. Bauabschnitt
+- TOP 3.2.11: Euskirchener Straße: Regenwasserrückhaltung und -behandlung
+- TOP 3.2.12: Kölnstraße Pestalozzischule: Haltebucht
+- TOP 3.2.13: Römerstraße / Kaiserstraße: Kanalbau
+- TOP 3.2.14: Bespielbare Stadt
+- TOP 3.2.15: Am Kreuz / Hauptstraße: Gehweg
+- TOP 3.2.16: Wilhelm-Kamm-Straße: Deckenbaumaßnahme
+- TOP 3.2.17: Winterburg: Deckenbaumaßnahme
+- TOP 3.2.18: Lindenhof: Deckenbaumaßnahme
+- TOP 3.2.19: Rosenhof: Deckenbaumaßnahme
+- TOP 3.2.20: Kläranlage: 4. Reinigungsstufe, 1. Bauabschnitt
+- TOP 4.: Anfragen
+- TOP 4.1: Gewässerumgehung Schwadorf / Wassermanagement Schallenburg Bezug: Anfrage der Grünen-Fraktion vom 11.03.2020
+- TOP 4.2: Gülleausbringung südlich Schwadorf
+- TOP 4.3: Qualität der gelben Säcke
+- TOP 4.4: Thüringer Platz / Weg Stiftstraße-Schöffenstraße: Müllsituation
+- TOP 4.5: Phantasialand: Erweiterung
+- TOP 4.6: Bleibtreusee: Abfälle
+- TOP 4.7: Versiegelungen im Stadtgebiet
+- TOP B): Nichtöffentliche Sitzung
+- TOP 5.: Gründung der KKP Klärschlammkooperation Pool GmbH und Gesellschaftervereinbarung der KKP Klärschlammkooperation Pool GmbH - (kein Text vorhanden)
+- TOP 6.: Mitteilungen
+- TOP 7.: Anfragen
