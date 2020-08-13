@@ -1,0 +1,63 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-13T17:05:00+02:00
+- Ende: 2020-08-13T19:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11908
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11908
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00467637.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.2: - Beibehaltung des Beschlusses unter vollständiger Einbeziehung von 4 Meter Fahrwegbreite - zur Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen
+- TOP 4: Vorberatung
+- TOP 4.1: Ergänzung zum Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Münster-Hiltrup - einstimmig beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Verwendung der vorhandenen Haushaltsreste (frei verfügbare Mittel der Bezirksvertretung) - einstimmig beschlossen
+- TOP 5.2: Zuschuss für den "Emmerbachtreff" Hiltrup-Ost - einstimmig beschlossen
+- TOP 5.3: Neugestaltung der öffentlichen Grünanlage "Begegnungsraum Berg Fidel" / Spielplatz "Pictoriusstraße" - Planungsbeschluss - einstimmig beschlossen
+- TOP 5.4: Primus Schule, Berg Fidel, Hogenbergstraße 160, 48153 Münster, - einstimmig beschlossen
+- TOP 5.5: Park-and-Ride am Hiltruper Bahnhof ausbauen - mehrheitlich beschlossen
+- TOP 5.6: Ergänzung zum Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die bezirklichen Baumaßnahmen im Stadtbezirk Münster-Hiltrup - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Offenlegung Naturdenkmalverordnung - einstimmig beschlossen
+- TOP 6.2: Neubau Feuer- und Rettungswache 3 der Berufsfeuerwehr in Münster Hiltrup - von der Tagesordnung abgesetzt
+- TOP 6.3: Erweiterung des Schulzentrums Hiltrup, Westfalenstraße 199, 48165 Münster - einstimmig beschlossen
+- TOP 6.4: Kindertagesbetreuungsbericht 2020 - einstimmig beschlossen
+- TOP 6.5: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge - einstimmig beschlossen
+- TOP 6.6: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Burgwall in Münster-Hiltrup - einstimmig beschlossen
+- TOP 6.7: Veloroute Münster-Ascheberg: Routenführung - einstimmig beschlossen
+- TOP 6.8: Grundsatzbeschluss zur Errichtung der Dreifachsporthalle Davertschule Amelsbüren - einstimmig beschlossen
+- TOP 7: Anfrage
+- TOP 7.1: Potential der Windenergie im Stadtbezirk Hiltrup - zur Kenntnis genommen
+- TOP 8: Anregungen
+- TOP 8.1: Förderung von Elektromobilität im Stadtbezirk - - zur Kenntnis genommen
+- TOP 8.2: Carsharing für Amelsbüren jetzt etablieren - eingebracht
+- TOP 9: Anträge
+- TOP 9.1: Altengerechtes Wohnen unterstützen, in künftigen Baugebieten Amelsbürens einen Standort ausweisen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.2: Fahrrad - "Bügel" für die Marktallee - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Anträge der Bezirksvertretung zeitnah und transparent bearbeiten - zur Kenntnis genommen
+- TOP 9.4: Radweg Thierstraße realisieren - zur Kenntnis genommen
+- TOP 9.5: Altengerechtes Wohnen in Amelsbüren stärken - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.6: Lärm- und Müllsituation am östlichen Kanalufer zw. Prinzbrücke und dem Ende der Bebauung an der Straße Zum Hiltruper See - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.7: Ortseingangsschilder zur Identitätsbildung nutzen - zur Kenntnis genommen
+- TOP 9.8: Verkehrssicherheit auf der Straße "Am Dornbusch" kurzfristig erhöhen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.9: Freibad - daraus könnte man mehr machen - eingebracht
+- TOP 9.10: Störung des Ortsbildes endlich angehen - eingebracht
+- TOP 9.11: Luft für die Radstation am Hiltruper Bahnhof - eingebracht
+- TOP 9.12: Verwendung der Haushaltsreste 2019 nach Besprechung im Ältestenrat am 16.07.2020 - einstimmig beschlossen
+- TOP 9.13: Förderung Alte Post Berg Fidel: Lernhilfe für Schüler*innen aller Schularten - einstimmig beschlossen
+- TOP 9.14: Erneuerung von Müllbehältern (größeres Modell) in Grünanlagen - einstimmig beschlossen
+- TOP 9.15: Gestaltung und Pflege von Kreisverkehren in Hiltrup - einstimmig beschlossen
+- TOP 9.16: Parksituation auf der Max-Winkelmann-Straße in Folge der Roteinfärbung der Fahrradstraße - eingebracht
+- TOP 9.17: Fahrradstraße Max-Winkelmann-Straße Pläne kurzfristig überarbeiten - eingebracht
+- TOP 9.18: Fahrradstraße Max-Winkelmann-Straße: Mehr Platz für den Radverkehr - eingebracht
+- TOP 10: Verschiedenes
