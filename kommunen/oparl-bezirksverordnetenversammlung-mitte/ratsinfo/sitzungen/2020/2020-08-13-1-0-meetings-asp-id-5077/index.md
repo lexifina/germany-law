@@ -1,0 +1,59 @@
+# gemeinsamen 44. (außerordentlichen) öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen sowie der 44. (außerordentlichen) öffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-08-13T17:30:00+02:00
+- Ende: 2020-08-13T20:30:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5077
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5077
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=475766
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=481583
+
+## Tagesordnung
+
+- TOP 1: Gemeinsame Diskussion zum Thema "Monbijoupoark" - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen - erledigt
+- TOP 2.2: des Vorsitzenden des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne - erledigt
+- TOP 2.3: des Bezirksamtes - erledigt
+- TOP 3: Genehmigungen - (offen)
+- TOP 3.1: Tagesordnung der gemeinsamen Sondersitzung - erledigt
+- TOP 4: Aussprache der Fraktionen (15 min. - erledigt
+- TOP 5: Beratung von Drucksachen (45 min.) - (offen)
+- TOP 5.1: über den Beschluss über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 Baugesetzbuch (BauGB) zum Bebau-ungsplanverfahren I-57-1 (Monbijou-Theater). - im Ausschuss abgelehnt
+- TOP 5.2: Grünfläche im Monbijoupark erweitern und kulturelle Nutzungen zwischen Hochbunkeranlage und südlichen Flächen bis zur Spree ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Der Ausschuss für Umwelt, Natur, Verkehr und Grünflächen tagt allein weiter - erledigt
+- TOP 6: Genehmigungen - (offen)
+- TOP 6.1: Tagesordnung - erledigt
+- TOP 6.2: Protokoll der 42. Sitzung am 27.05.2020 - vertagt
+- TOP 7: Mitteilungen - (offen)
+- TOP 7.1: des Vorsitzenden - erledigt
+- TOP 7.2: des Bezirksamtes - erledigt
+- TOP 7.3: der Seniorenvertretung - erledigt
+- TOP 8: Beratung von Drucksachen - (offen)
+- TOP 8.1: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - mit Änderungen im Ausschuss beschlossen
+- TOP 8.2: Querung Fennstraße endlich sicher machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.3: Verkehrssicherheit im Brüsseler Kiez erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.4: Mühlendammbrücke retten - im Ausschuss abgelehnt
+- TOP 8.5: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung" - vertagt
+- TOP 8.6: Mühlendammbrücke - vertagt
+- TOP 8.7: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren - vertagt
+- TOP 8.8: U-Bahnhof Französische Straße - vertagt
+- TOP 8.9: Verkehrskonzepte für ALLE Verkehrsteilnehmer erstellen – Umstieg auf E-Mobilität fördern! - vertagt
+- TOP 8.10: Tempo 30 für die Köpenicker Str. - vertagt
+- TOP 8.11: „Bremer Straße 2030: Strategische Ansätze zur Entwicklung des Nahraums Bremer Straße als sozial-ökologisch-pädagogisches Stadtgefüge“ - vertagt
+- TOP 8.12: Verkehrssicherheit Kreuzung Wilhelm-Kuhr-Str./ Nordbahnstr. - vertagt
+- TOP 8.13: StVO-Power für Mitte - Fahrradzonen anstatt Tempo 30 Zonen - vertagt
+- TOP 8.14: Saubere Parkanlagen - vertagt
+- TOP 8.15: StVO-Power für Mitte - Grünpfeil für Radfahrende nutzen! - vertagt
+- TOP 8.16: Baumentwicklungsplan - vertagt
+- TOP 8.17: Bürgersteig Kieler Str. - vertagt
+- TOP 8.18: Radverkehr in der Kleingartenkolonie Plötzensee - Konflikte zwischen Fußgehenden und Radfahrenden entschärfen - vertagt
+- TOP 8.19: Elberfelder Str. – Wildwest auf dem Bürgersteig - vertagt
+- TOP 8.20: Rettung der Flora und Fauna des Plötzensees - vertagt
+- TOP 8.21: Sicheren Sport im Park ermöglichen - vertagt
+- TOP 9: Verschiedenes - erledigt
+- TOP 10: Terminplanung - vertagt
