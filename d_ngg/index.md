@@ -1,4 +1,4 @@
-# Düngegesetz *)
+# Düngegesetz
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Zweck](0001.md)

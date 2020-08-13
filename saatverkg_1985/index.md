@@ -1,4 +1,4 @@
-# Saatgutverkehrsgesetz *)
+# Saatgutverkehrsgesetz
 
 
 ## Abschnitt 1 Saatgutordnung
