@@ -8,5 +8,5 @@
 - [§ 5 Anforderungen an Aus- und Fortbildungseinrichtungen](0005.md)
 - [§ 6 Gleichwertige im Ausland erworbene Qualifikation](0006.md)
 - [§ 7 Übergangsbestimmungen](0007.md)
-- [§ 8 Inkrafttreten](0008.md)
+- [§ 8 Hemmung von Fristen](0008.md)
 - [Anlage Inhalte des Ausbildungslehrgangs](anlage.md)
