@@ -47,3 +47,4 @@ Zu den Schienenwegen gehören auch die für den Betrieb von Schienenwegen notwen
 | 39 | ABS Nürnberg – Passau |
 | 40 | ABS Lübeck – Schwerin/Büchen – Lüneburg |
 | 41 | Großknoten (Frankfurt, Hamburg, Köln, Mannheim, München) und Knoten (Hannover) |
+| 42 | ABS Leipzig – Chemnitz |

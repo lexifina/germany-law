@@ -730,7 +730,7 @@ ihrer Verbände
 - [§ 281 Medizinischer Dienst Bund, Rechtsform, Finanzen, Aufsicht](0281.md)
 - [§ 282 Medizinischer Dienst Bund, Verwaltungsrat und Vorstand](0282.md)
 - [§ 283 Aufgaben des Medizinischen Dienstes Bund](0283.md)
-- [§ 283a Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See](0283a.md)
+- [§ 283a Aufgaben des Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See](0283a.md)
 
 ## Zehntes Kapitel Versicherungs- und Leistungsdaten,
 Datenschutz, Datentransparenz

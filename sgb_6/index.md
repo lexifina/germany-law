@@ -704,7 +704,7 @@ Knappschaft-Bahn-See](0273.md)
 ##### Zweiter Titel Datenverarbeitung und Datenschutz
 
 - [§ 274 Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971](0274.md)
-- [§ 274a](0274a.md)
+- [§ 274a Verarbeitung von Sozialdaten im Zusammenhang mit dem Anpassungsgeld nach § 57 des Kohleverstromungsbeendigungsgesetzes](0274a.md)
 - [§ 274b](0274b.md)
 
 ##### Dritter Titel Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger
@@ -784,7 +784,7 @@ Beitrittsgebiet](0279a.md)
 - [§ 290 Erstattung durch den Träger der
 Versorgungslast](0290.md)
 - [§ 290a Erstattung durch den Träger der Versorgungslast im Beitrittsgebiet](0290a.md)
-- [§ 291 (weggefallen)](0291.md)
+- [§ 291 Erstattungen für Anrechnungszeiten für den Bezug von Anpassungsgeld](0291.md)
 - [§ 291a Erstattung von Invalidenrenten und Aufwendungen für
 Pflichtbeitragszeiten bei Erwerbsunfähigkeit](0291a.md)
 - [§ 291b Erstattung nicht beitragsgedeckter Leistungen](0291b.md)

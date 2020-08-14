@@ -3,6 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gegenstand des Gesetzes](0001.md)
 - [§ 2 Verkehrsinfrastrukturprojekte](0002.md)
+- [§ 2a Verkehrswegeinfrastrukturprojekte zur Strukturstärkung](0002a.md)
 - [§ 3 Träger des Vorhabens; zuständige Behörde](0003.md)
 - [§ 4 Vorbereitendes Verfahren](0004.md)
 - [§ 5 Frühe Öffentlichkeitsbeteiligung](0005.md)
