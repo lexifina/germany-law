@@ -1115,6 +1115,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 240
 
 
+#### Art 240
+
+
 #### Art 241 (weggefallen)
 
 
