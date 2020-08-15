@@ -152,7 +152,7 @@ verwendet werden können](0059c.md)
 - [§ 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen](0063g.md)
 - [§ 63h Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind](0063h.md)
 - [§ 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe](0063i.md)
-- [§ 63j (zukünftig in Kraft)](0063j.md)
+- [§ 63j Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien](0063j.md)
 - [§ 63k Ausnahmen](0063k.md)
 
 ## Elfter Abschnitt Überwachung

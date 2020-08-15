@@ -146,7 +146,7 @@
 | § 63g | Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen |
 | § 63h | Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind |
 | § 63i | Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe |
-| § 63j | (zukünftig in Kraft) |
+| § 63j | Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien |
 | § 63k | Ausnahmen |
 |  |
 | Elfter Abschnitt |
