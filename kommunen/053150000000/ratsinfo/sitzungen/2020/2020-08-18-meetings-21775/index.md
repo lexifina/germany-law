@@ -1,0 +1,70 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-18T16:00:00+02:00
+- Ende: 2020-08-18T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21775
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21775
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: Sprach- und Integrationsmittler*innenpool für die Stadt Köln - Jahresbericht 2019 - Kenntnis genommen
+- TOP 1.2: Tätigkeitsbericht Projekt Integrationslotsinnen und Integrationslotsen 2019 - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Eugen Litvinov aus der Sitzung des Wirtschaftsausschusses vom 08.05.2020 betreffend TOP 11.1: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 (Mitteilung 11 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage zur Erstellung des Wählerverzeichnisses für die Integrationsratswahlen 2020 - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage zum Netzwerk gegen häusliche Gewalt – Statistik 2018 - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Nachfrage zur Beantwortung einer Anfrage zur 'Anmelde- und Auskunftspflicht für Ausländervereine und ausländische Vereine‘
+- TOP 4.2: Anfragen zum 27. Bericht zur Situation Geflüchteter
+- TOP 4.3: Anfrage zum Umsetzungsstand des Eckpunktepapiers
+- TOP 4.4: Anfrage zur Mitteilung 25 Jahre „Schule ohne Rassismus – Schule mit Courage“
+- TOP -: Beantwortung einer Anfrage zu Schule ohne Rassismus – Schule mit Courage - Kenntnis genommen
+- TOP 4.5: Wann wird Köln eine Stadt für Menschenrechte?
+- TOP 5: Mitteilungen
+- TOP 5.1: Beschlüsse des Integrationsrates zu den Integrationsratswahlen 2020 - Kenntnis genommen
+- TOP 5.2: Beschluss des Integrationsrates "Coronabedingte Auswirkungen auf die Unterbringungssituation der Geflüchteten" - Kenntnis genommen
+- TOP 5.3: Wie leben queere Jugendliche in Köln? - Kenntnis genommen
+- TOP 5.4: 28. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.5: 29. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.6: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - Kenntnis genommen
+- TOP 5.7: Unterbringung Geflüchtete: Basisversorgung Internetanbindung - Kenntnis genommen
+- TOP 5.8: Beteiligung der Stadt Köln am Förderaufruf des Landes "kinderstark - NRW schafft Chancen" - Kenntnis genommen
+- TOP 5.9: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 5.10: Dokumentation der Konferenz Interkulturelles Köln - Kenntnis genommen
+- TOP 5.11: Interkulturelle Zentren Köln – Ehrenamtspreisträger 2020 „Miteinander-Preis für Demokratie und Vielfalt“ - Kenntnis genommen
+- TOP 5.12: ZMI-Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2019 und Bericht über das Kölner Sprachfest 2020 - Kenntnis genommen
+- TOP 5.13: Bericht Antirassismus-Training 2019 - Kenntnis genommen
+- TOP 5.14: 1. Monitoring - Bericht Übergang Schule – Beruf für die Stadt Köln, Jahresbericht 2019 - Kenntnis genommen
+- TOP 5.15: QueerTV ist gestartet - Kenntnis genommen
+- TOP 5.16: Umsetzung des neuen Bundesteilhabegesetzes BTHG in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 5.17: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Aloys-Boecker-Straße 4, 51147 Köln-Lind - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 5.18: Netzwerk gegen häusliche Gewalt – Statistik 2019
+- TOP 5.19: Neuwahl des Jugendhilfeausschusses nach der Kommunalwahl am 13.09.2020 - Kenntnis genommen
+- TOP 5.20: Tätigkeitsberichte der nichtstädtischen Antidiskriminierungsbüros für das Jahr 2019 - Kenntnis genommen
+- TOP 5.21: Besetztes Haus an der Bonner Straße: Stadt bietet Bewohnerinnen und Bewohnern ein alternatives Gebäude an - Kenntnis genommen
+- TOP 5.22: Inklusionsbericht 2019 - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Prüfung der Realisierung eines Hauses der Kulturen / House of Resources in Köln - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 8.2: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu ‚Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln‘ - geändert beschlossen
+- TOP -: TOP 8.2: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu 8.2 – Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - geändert beschlossen
+- TOP 8.3: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 8.4: Konzept für Gewaltschutz in Unterbringungseinrichtungen für Geflüchtete der Stadt Köln (Gewaltschutzkonzept) - ungeändert beschlossen
+- TOP 8.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. o. Nr. 2, 51143 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 8.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg o. Nr., 50737 Köln-Longerich - Baubeschluss - ungeändert beschlossen
+- TOP 8.7: Förderung rassismuskritischer Projekte / 2.Schritt - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
