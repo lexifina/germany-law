@@ -151,7 +151,7 @@ Allgemeine Bestimmungen
   b) Teil 6, wenn sie nicht mehr als zwölf Fahrgäste befördern, und
   c) jeweils Teil 7.
 1.3 Dieser Teil gilt nicht für
-  a) Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen,
+  a) Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen,
   b) Sportboote im Sinne der See-Sportbootverordnung,
   c) Fahrgastschiffe, für die die Richtlinie 2009/45/EG gilt.
 2. Begriffsbestimmungen

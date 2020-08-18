@@ -1,6 +1,6 @@
 # Anlage 3 (zu § 13 Abs. 4a)Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
 
-Fundstelle des Originaltextes: BGBl. I 2001, 2281 - 2284;
+Fundstelle: BGBl. I 2001, 2281 - 2284;
 bzgl. der einzelnen Änderungen vgl. Fußnote
 A. Arten der Befähigungsnachweise, Erwerb, Gültigkeitsdauer, Umtausch
   1. Arten der Befähigungsnachweise
