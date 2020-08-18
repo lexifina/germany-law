@@ -1,0 +1,108 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-08-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5849839
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5849839
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 07.07.2020, Sicherheit auf der Arnulfstraße Höhe Augustiner-Biergarten
+- TOP 5.2.2.: Bürgeranliegen vom 10.07.2020, Parken am Nano-Institut Königinstraße
+- TOP 5.2.3.: Bürgeranliegen vom 16.07.2020, Fahrradabstellplätze in der Enhuberstraße
+- TOP 5.2.4.: Bürgeranliegen vom 17.07.2020, Übertriebene Parkverbote Winzerer- / Ecke Görresstraße
+- TOP 5.2.5.: Bürgeranliegen vom 25.07.2020, Corona-Freischankfläche in der Neureutherstraße
+- TOP 5.2.6.: Bürgeranliegen vom 28.07.2020, Ausfahrt aus der Tiefgarage in der Sandstraße
+- TOP 5.2.7.: Bürgeranliegen vom 02.08.2020, Verkehrssituation Sandstraße
+- TOP 5.2.8.: Bürgeranliegen vom 29.07.2020, Beschwerde: Künftige Nutzung der Gastronomie Max Emanuel Brauerei
+- TOP 6.1.: Beschädigungen am Franziskusbrunnen auf dem Josephsplatz, Antwort des Baureferats auf Nachfrage des BA (s.TOP A 5.2.6 / 05 2020)
+- TOP 6.2.: Arcisstraße zwischen Theresien- und Georgenstraße als Fahrradstraße ausweisen, Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen (s. TOP A 5.2.5/ 06 2020)
+- TOP 6.3.: Für eine anwendbare, liberale und unbürokratische Regulierung der Erweiterung von Freischankflächen
+- TOP 6.4.: Lärmbelästigung durch Lieferservice Antwort der Bezirksinspektion auf ein Bürgeranliegen (s. TOP A 5.2.6/06 2020)
+- TOP 6.5.: Schild "Radfahrer auch von rechts" in der Blutenburgstraße versetzen
+- TOP 6.6.: Stand der Planungen zur Umgestaltung des Neureuther-Platzes (Grünfläche zwischen Barer Straße, Neureuther- und Nordendstraße)
+- TOP 6.7.: Umwandlung von Wohnungen in Ferienwohnungen in der Augustenstraße Antwort des Amtes für Wohnen und Migration auf weitergeleitetes Bürgeranliegen (s. TOP A 5.2.4/06 2020)
+- TOP 6.8.: Wettbüros und Table Dance Barsim Bereich des Bezirksausschusses 3 Maxvorstadt
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag SPD vom 02.08.2020 Erneute Nachfrage zum Stand bzgl. der Zwischennutzung des Anwesens in der Dachauer Straße 90/Gesundheitshaus
+- TOP 1.2.: Antrag SPD vom 03.08.2020 Neuordnung Referat für Gesundheit, Wegfall Aufgabengebiet Umwelt
+- TOP 1.3.: Antrag SPD vom 02.08.2020 Zweckentfremdungen in der Maxvorstadt
+- TOP 2.1.1.: Baulisten der LBK: 28., 29., 30. KW
+- TOP 2.1.2.: WEB Listen der LBK: 27., 28., 29., 30., 31. KW
+- TOP 3.1.1.: Linprunstraße 11-19, Neubau einer Wohnanlage mit Tiefgarage und Auffüllung eines Tiefhofs
+- TOP 3.2.1.: Kaulbachstraße 47, zwei Spitzahorne
+- TOP 3.2.2.: Heßstraße 104, zwei Robinien
+- TOP 5.1.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 5.2.: Sozialreferat, Bekanntgabe Vollzug der Zweckentfremdungssatzung – Vollzug der Erhaltungssatzung: Bekanntgabe der Jahresstatistik 2019, Sitzungsvorlage Nr. 20-20 / 00374
+- TOP 5.3.: Aktuelle Situation an den Wertstoffinseln, Schreiben des Abfallwirtschaftsbetriebes München (AWM)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Mobilität und öffentlicher Raum vom 04.08.2020 Zwei Kfz-Stellplätze vor dem Haupteingang der TUM in Fahrradstellplätze umwandeln
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Alternativstandort für Flex-Parken an der LMU
+- TOP 2.2.1.: Bestellung einer städtischen Leistung: Aufstellung von ein oder zwei Bänken auf dem Grünstreifen Erzgießerei-/Ecke Linprunstraße, vertagt aus 07 2020
+- TOP 2.2.2.: Barer Straße 54 a: Antrag auf Aufstellung einer Sitzgelegenheit
+- TOP 2.2.3.: Ludwigstr. 21: mobiler Fahrradständer
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Kurfürstenstr. 2, b) Steinheilstr. 20, c) Steinheilstr. 10, d) Amalienstr. 53, e) Amalienstr. 37, f) Amalienstr. 46, g) Augustenstr. 96, h) Amalienstr. 53, i) Amalienstr. 51, j) Amalienstr. 97, k) Amalienstr. 38, l) Türkenstr. 61, m) Türkenstr. 29, n) Lenbachplatz 2a, o) und p) Dachauer Str. 7, q) Theresienstr. 134, r) Theresienstr. 114, s) Wittelsbacherplatz 1, t) Wittelsbacherplatz 2, u) Theresienstr. 128, v) Türkenstr. 83, w) Brienner Str. 49, x) Theresienstr. 46, y) Adalbertstr. 15, z) Amalienstr. 39 rechts, aa) Kurfürstenstr. 8, bb) Amalienstr. 44, cc) Schellingstr. 27, dd) Amalienstr. 69, ee) Amalienstr. 71, ff) Türkenstraße 67, gg) Amalienstr. 39/links
+- TOP 3.2.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Gleiserneuerung Dachauer Straße, Bauphase 2.3 b) Popup-Bike Lanes in der Elisen-, Gabelsberger- und Theresienstraße c) Änderung der Vorfahrtsregelung an der Kreuzung Winzerer-/Görresstraße d) Altstadtringtunnel: Von-der-Tann-/Ludwigstraße Verkehrsphase 230.1.1, 230.1.2 e) Altstadtringtunner: Oskar-von-Miller-Ring/Gabelsbergerstraße f) Tengstraße zwischen Ziebland- und Georgenstraße: Ändrung der Vorfahrt in „rechts vor links“ g) Schelling-/Winzererstraße: Änderung der Vorfahrt in „rechts vor links“ h) Vollsperrung Altstadtringtunnel vom 06.08. bis 09.09.2020 i) Denisstraße und Einmündungsbereich Marsstraße: Fernwärme/Fernkälte j) Blutenburgstr. 32, Fernwärme-Hausanschluss k) Gabelsbergerstraße 65-67: Umwandlung von Kfz- in Fahrradstellplätze
+- TOP 3.3.: Leistungsprogramme der MVG 2020 und 2021 - Sachstand
+- TOP 3.4.: Genehmigungsbescheide für Veranstaltungen a) Jugendgeschichtswerkstatt am 14. und 15.07.2020 auf dem Königsplatz
+- TOP 3.5.: Europäische Charta zur Gleichstellung von Frauen und Männern: Aktionsplan Maßnahme 7.3: Erhöhung des Sicherheitsgefühls durch Optimierungen der Beleuchtung des öffentlichen Raumes (Terminplan des Baureferats)
+- TOP 3.6.: Eilentscheidungen der BA-Vorsitzenden a) „Sommer in der Stadt“: Aktionsfläche Königsplatz, Zustimmung b) „Sommer in der Stadt“ auf dem Wittelsbacherplatz, Zustimmung c) Spielaktion „Kicklusion“ vom 21. bis 25.09.2020 im Maßmannpark, Zustimmung
+- TOP 3.7.: Genehmigungsbescheide für Veranstaltungen a) „Sommer in der Stadt“ Aktionsflächen auf dem Königsplatz
+- TOP 3.8.: Antwort des Kreisverwaltungsreferates auf ein Bürgeranliegen Antrag Arcisstraße, Bezug auf die Sitzungsvorlage Nr. 14-20 / V 18242
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Bereits bewilligter Zuschuss aus dem Stadtbezirksbudget an MobilSpiel e.V. für die Maßnahme „Kicklusion“: Antrag auf Verlängerung des Bewilligungszeitraums bis 30.09.2020
+- TOP 2.2.: (E) Stadtbezirksbudget KulturRaum München e.V. Gutscheine für den Sommer in der Stadt von Juli - September 2020 1.000,00 Euro, Az.: 0262.0-3-0313
+- TOP 2.3.: (E) Stadtbezirksbudget Pfarrei St. Benno Festwoche vom 09. - 18.10.2020 2.500,00 Euro, Az.: 0262.0-3-0314
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Bereits bewilligter Zuschuss aus dem Stadtbezirksbudget an die Initiativgruppe e.V. für das Projekt „Deutschcafé“ (s. TOP D 2.5 03/2020): Antrag wird zurückgezogen
+- TOP 4.2.: Auswirkungen der Corona-Epidemie: Kürzung des Stadtbezirksbudgets in 2020
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Referat für Arbeit und Wirtschaft, Beschlussvorlage Internationale Münchner Filmwochen GmbH: Vision 2022/Festivalzentrum Sitzungsvorlage Nr. 20-20 / V 00882
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Grundsatzliches zur Abrechnung der Aufwandsentschädigung
+- TOP 1.2.: Regelung für Beauftragte anpassen und abgleichen; Umbenennung der/s Beauftragten für Menschen mit Behinderung Anhörung zu Anträgen der Bezirksausschüsse 9 bzw. 20 auf Änderung der BA-Satzung
+- TOP 1.3.: Abrechnung von virtuellen Sitzungen und Besprechungen
+- TOP 1.4.: Auswirkungen der Corona-Epidemie: Kürzung des Stadtbezirksbudgets in 2020
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
