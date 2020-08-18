@@ -1,0 +1,55 @@
+# 65. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-18T17:00:00+02:00
+- Ende: 2020-08-18T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11918
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11918
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00467822.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Fahrradstraße Hittorfstraße - zur Kenntnis genommen
+- TOP 4.2: Denkmalförderung Land Nordrhein-Westfalen, Bund und Deutsche Stiftung Denkmalschutz 2020 - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Vergabe von Zuschüssen zu privaten denkmalpflegerischen Maßnahmen - einstimmig beschlossen
+- TOP 5.2: Hermannstraße – Alte St. Josefschule - einstimmig beschlossen
+- TOP 5.3: Sanierung des Spielplatzes Stadtpark Wienburg im Stadtbezirk Münster-Mitte im Haushaltsjahr 2020 - Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Bergstraße - Buddenstraße bis Tibusstraße - einstimmig beschlossen
+- TOP 6.2: Veränderungssperre Nr. 112, Erste Verlängerung - einstimmig beschlossen
+- TOP 6.3: Bebauungsplan Nr. 541, Teilbereich A - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 6.4: Innenstadt stärken - Neue Städtebauförderprogramme nutzen - einstimmig beschlossen
+- TOP 6.5: Smart City: „Leezenflow: Aus Münster für Münster“ Grüne Welle für den Radverkehr - einstimmig beschlossen
+- TOP 6.6: Veloroute Münster-Everswinkel: Routenführung - mehrheitlich beschlossen
+- TOP 6.7: Veloroute Münster-Altenberge: Routenführung - einstimmig beschlossen
+- TOP 6.8: Veloroute Münster-Senden über Albachten: Routenführung - mehrheitlich geändert beschlossen
+- TOP 6.9: Veloroute Münster-Ascheberg: Routenführung - einstimmig beschlossen
+- TOP 6.10: Veloroute 11 Münster-Telgte, Teilabschnitt Bohlweg - einstimmig beschlossen
+- TOP 6.11: Erweiterung der Hermannschule, Dahlweg 66, 48153 Münster - einstimmig beschlossen
+- TOP 6.12: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge - einstimmig beschlossen
+- TOP 6.12.1: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge
+- TOP 6.13: Kindertagesbetreuungsbericht 2020 - einstimmig beschlossen
+- TOP 6.14: Segelclub Hansa Münster e. V., Werkstattsanierung - einstimmig beschlossen
+- TOP 6.15: Errichtungsbeschluss zur Schaffung bzw. Erweiterung von Arbeits- und Büroräumen am Theater Münster - einstimmig beschlossen
+- TOP 6.16: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - mehrheitlich beschlossen
+- TOP 6.17: Sanierung der Entwässerung und des Schulhofs (Freianlagen) am Ratsgymnasium - Planungs- und Baubeschluss - - einstimmig beschlossen
+- TOP 6.18: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster" - von der Tagesordnung abgesetzt
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Parkplatz- und Verkehrssituation am Alten Steinweg prüfen und optimieren - zur Kenntnis genommen
+- TOP 8.2: Parksuchverkehr und Rückstau in der Pferdegasse und in der Königsstraße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.3: Weiterentwicklung des historischen Stadtkerns insbesondere im Bereich Domplatz/Pferdegasse - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.4: Genehmigung der Außengastronomie am Verspoel 6 - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
