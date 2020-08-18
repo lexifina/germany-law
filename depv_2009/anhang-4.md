@@ -203,13 +203,10 @@
   DIN EN ISO 11885, Ausgabe September 2009
   Wasserbeschaffenheit – Bestimmung von ausgewählten Elementen durch induktiv gekoppelte Plasma-Atom-Emissionsspektrometrie (ICP-OES)
   Alternativ:
-  DIN EN ISO 15586, Ausgabe Februar 2004
-  Wasserbeschaffenheit – Bestimmung von Spurenelementen mittels Atomabsorptionsspektrometrie mit dem Graphitrohr-Verfahren
-  Alternativ:
   DIN 38405-32, Ausgabe Mai 2000
   Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Anionen (Gruppe D) – Bestimmung von Antimon mittels Atomabsorptionsspektrometrie (D 32)
   Alternativ:
-  DIN EN ISO 17294-2, Ausgabe Februar 2005
+  DIN EN ISO 17294-2, Ausgabe Januar 2017
   Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 3.2.21 Selen
   DIN ISO 22036, Ausgabe Juni 2009
