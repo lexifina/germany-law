@@ -1,0 +1,62 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-18T17:08:00+02:00
+- Ende: 2020-08-18T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11915
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11915
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00468420.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 2.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Sachstandsbericht zur Bekämpfung des Eichenprozessionsspinners (EPS)
+- TOP 3.2: Informationen zur Kampagne "Münster schenkt aus"
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 5.1: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - mehrheitlich beschlossen
+- TOP 5.2: Errichtungsbeschluss zur Schaffung bzw. Erweiterung von Arbeits- und Büroräumen am Theater Münster - einstimmig beschlossen
+- TOP 5.3: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Burgwall in Münster-Hiltrup - einstimmig beschlossen
+- TOP 5.4: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung westlich der Hobbeltstraße im Wohnbereich Handorf im Bezirk Ost - von der Tagesordnung abgesetzt
+- TOP 5.5: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung südlich Langebusch im Quartier Moldrickx in Kinderhaus - einstimmig beschlossen
+- TOP 5.6: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster. - einstimmig geändert beschlossen
+- TOP 5.7: Neubau eines Feuerwehrgerätehauses für den Löschzug Sprakel der Freiwilligen Feuerwehr, - einstimmig beschlossen
+- TOP 5.8: Erweiterung der Hermannschule, Dahlweg 66, 48153 Münster - einstimmig geändert beschlossen
+- TOP 5.9: Erweiterung der Peter-Wust-Schule, Dingbängerweg 80, 48163 Münster - einstimmig geändert beschlossen
+- TOP 5.10: Neubau der Melanchthonschule, Königsberger Straße 91, 48157 Münster - einstimmig geändert beschlossen
+- TOP 5.11: Neubau der Matthias-Claudius-Schule Handorf, Drostestraße 7, 48157 Münster - einstimmig geändert beschlossen
+- TOP 5.12: Erweiterung des Schulzentrums Hiltrup, Westfalenstraße 199, 48165 Münster - einstimmig geändert beschlossen
+- TOP 5.13: Bauliche Erweiterung der Margaretenschule zur 3-Zügigkeit - einstimmig geändert beschlossen
+- TOP 5.14: Überarbeitung der Gebäudeleitlinien: Nachhaltigkeit und Klimaneutralität 2030 für - ohne Beschlussfassung geschoben
+- TOP 5.15: Fortführung des Tiefbau Infrastruktur Management Münster – TIMM - einstimmig beschlossen
+- TOP 5.16: Änderung der Richtlinien zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - einstimmig beschlossen
+- TOP 5.17: Offenlegung Naturdenkmalverordnung - einstimmig beschlossen
+- TOP 5.18: Verbreiterung des gemeinsamen Geh-Radweges Loddenheide inkl. Planung der Eulerstraße im Abschnitt 3 der Kanalpromenade: - einstimmig beschlossen
+- TOP 5.19: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK) Kanalpromenade - mehrheitlich geändert beschlossen
+- TOP 5.20: Smart City: „Leezenflow: Aus Münster für Münster“ Grüne Welle für den Radverkehr - einstimmig beschlossen
+- TOP 5.21: Verlängerung und Umgestaltung der Fahrradstraße Schillerstraße zwischen den Straßen Bremer Platz und Hansaring - von der Tagesordnung abgesetzt
+- TOP 5.22: Veloroute Münster-Ascheberg: Routenführung - einstimmig beschlossen
+- TOP 5.23: Temporäre Einrichtung von Radfahrstreifen auf der Grevener Straße (K1) in beiden Fahrtrichtungen - von der Tagesordnung abgesetzt
+- TOP 5.24: Grundsatzbeschluss zur Errichtung der Dreifachsporthalle Davertschule Amelsbüren - mehrheitlich geändert beschlossen
+- TOP 5.25: Messe und Congress Centrum Halle Münsterland: Erneuerung der Alarmierungsanlage in den Messehallen - einstimmig beschlossen
+- TOP 5.26: Gesamtschule Münster Mitte: Gebäude Überwasserschule - einstimmig beschlossen
+- TOP 5.27: Gievenbecker Reihe (B-Plan 410) - Erneuerung einer Schmutzwasserleitung zur Vorflut der - einstimmig beschlossen
+- TOP 5.28: Pleistermühlenweg - B 51 Bau eines Schmutzwasserpumpwerks mit Druckrohrleitung - einstimmig beschlossen
+- TOP 5.29: Bergstraße - Buddenstraße bis Tibusstraße - einstimmig beschlossen
+- TOP 5.30: Durchführung einer Niederschlag-Abfluss-Messkampagne zur Gewinnung von Planungsgrunddaten für die Erneuerung des Hauptpumpwerkes und Regenüberlaufbeckens an der Gartenstraße - einstimmig beschlossen
+- TOP 5.31: Bebauungsplan Nr. 559 Sprakel – Nördlich Landwehr / westlich Schlehenweg und Weißdornweg - einstimmig beschlossen
+- TOP 5.32: Veloroute 11 Münster-Telgte, Teilabschnitt Bohlweg - einstimmig beschlossen
+- TOP 5.33: Ergänzung zum Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Münster-Hiltrup - einstimmig beschlossen
+- TOP 5.34: Sanierung der Entwässerung und des Schulhofs (Freianlagen) am Ratsgymnasium - Planungs- und Baubeschluss - - einstimmig beschlossen
+- TOP 5.35: Querung des Dingbängerweges in Höhe des THC Münster e. V. - einstimmig beschlossen
+- TOP 5.36: Unfallhäufungsstelle Dingbängerweg / Sentruper Straße - neue Lichtsignalanlage Baubeschluss der Unfallkommission - zur Kenntnis genommen
+- TOP 5.37: Bericht zum Umsetzungstand von Maßnahmen und Projekten für die angestrebte Klimaneutralität der Stadt Münster 2030 - zur Kenntnis genommen
+- TOP 6: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 7: Verschiedenes
