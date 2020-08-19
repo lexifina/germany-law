@@ -1,0 +1,68 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-08-19T17:00:00+02:00
+- Ende: 2020-08-19T22:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4235
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4235
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 3.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Nachwahl von zwei Mitgliedern in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Nachwahl von einem Mitglied in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Familienfreundlicher Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Takterhöhung S7 in Randzeiten - in der BVV abgelehnt
+- TOP 4: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 4.1: „Paulinenplatz“ wieder offiziell Paulinenplatz benennen - überwiesen
+- TOP 4.2: Ausgleich für die Wohnungen im Sockelgeschoss des Kreisels - überwiesen
+- TOP 4.3: Bewässerungssäcke nutzen - überwiesen
+- TOP 4.4: Transparenz bei Ausgaben und Umsetzungen durch EFRE-Mittel, inklusive des entsprechenden Senatszuschusses, für den Kranold-Kiez - überwiesen
+- TOP 4.5: Transparenz schaffen: Pflichten zur Ankündigung / Veröffentlichung des Bezirksamtes nicht ausschließlich über Twitter wahrnehmen - überwiesen
+- TOP 4.6: Die Wiederaufnahme der regulären BVV-Arbeit gewährleisten! - überwiesen
+- TOP 4.7: Erhalt des Erhaltungsgebietes Lichterfelde-Ost - überwiesen
+- TOP 4.8: Durchgehendes Tempo 30 in der Gélieustraße und Schützenstraße bis Birkbuschstraße - überwiesen
+- TOP 4.9: Sichere Querung für Fußgänger*innen am Lichterfelder Ring - überwiesen
+- TOP 4.10: Versorgung wohnungsloser Menschen in Steglitz-Zehlendorf zur Chef*innensache machen! - überwiesen
+- TOP 4.11: Wasserspender für Schulen - überwiesen
+- TOP 4.12: Teltower Damm: Tempo 30 erkennbar machen - überwiesen
+- TOP 4.13: Rederecht für Vertreter*innen der Senior*innenvertretung in allen öffentlich tagenden Ausschüssen der BVV Steglitz-Zehlendorf - überwiesen
+- TOP 4.14: Covid-19 Testungen kostenlos - überwiesen
+- TOP 4.15: Kulturelle Nutzung des alten „Kraftwerks Steglitz“ in der Birkbuschstraße 40-42 unterstützen - überwiesen
+- TOP 4.16: Defekte Sitzbank wiederherstellen - überwiesen
+- TOP 4.17: Umleitung Buslinie 284 - überwiesen
+- TOP 4.18: Giesensdorfer Straße - überwiesen
+- TOP 4.19: Nahrungsgrundlage für Hummeln und Bienen im Innenbereich des Stadions Lichterfelde - überwiesen
+- TOP 4.20: Radweg in der Gärtnerstraße - überwiesen
+- TOP 4.21: Temperaturvorgaben in öffentlichen Schulen in Corona Zeiten - überwiesen
+- TOP 5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.1: Geflüchtete Menschen besser begleiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 7: Kleine Anfragen - erledigt
+- TOP 7.1: Coronaregeln in Kitas? - beantwortet
+- TOP 7.2: Warum wird es dem Pächter des ehemaligen Kulturkiosks so schwer gemacht? - beantwortet
+- TOP 7.3: Covid-19 - beantwortet
+- TOP 7.4: Kindesentzug bei Verstoß gegen Corona-Regeln im häuslichen Umfeld - beantwortet
+- TOP 7.5: Wie stellt das Bezirksamt Coronatests in den nächsten Wochen sicher? - beantwortet
+- TOP 7.6: Schöpft das Bezirksamt wirklich alle Mittel aus, um den Ferdinandmarkt zu erhalten? - beantwortet
+- TOP 7.7: Ausbau Osdorfer Straße - beantwortet
+- TOP 7.8: Verkehrskonzept Kranoldkiez: Knotenpunkt Brauerstraße, Kreuzung Königsberger Straße, Oberhofer Weg und Kranoldplatz - beantwortet
+- TOP 7.9: Provisorien Hildburghauser Straße/Lorenzstraße/Mariannenstraße - schriftlich beantwortet
+- TOP 7.10: Ball- und Spielplatz Külzer Straße 3 - schriftlich beantwortet
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Kontrollen des Ordnungsamtes - beantwortet
+- TOP 8.2: Akut: Flora und Fauna an Schlachtensee und Krumme Lanke in Gefahr? - beantwortet
+- TOP 8.3: Hat das Bezirksamt beim „Kranoldmarkt" schon aufgegeben? - beantwortet
+- TOP 9: Antrag - erledigt
+- TOP 9.1: Ausweitung der Marktflächen am Kranoldplatz sofort - überwiesen
+- TOP 10: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 10.1: BürgerInnenfreundliches Wohnungsamt Steglitz-Zehlendorf? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Asbest im Rathaus Zehlendorf macht das Bezirksamt ratlos? - zur Kenntnis genommen (Beratungsfolge beendet)
