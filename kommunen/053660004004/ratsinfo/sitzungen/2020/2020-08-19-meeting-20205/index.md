@@ -1,0 +1,58 @@
+# Stadtentwicklungsausschuss (35. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-08-19T18:00:00+02:00
+- Ende: 2020-08-19T21:03:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZastjZYt0BZEdmrZg6feie0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20205
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYSDAjiawliMeUpJyOP3SXIwp-iS5SiKNk5IbZJioPqz/Bekanntmachung_Stadtentwicklungsausschuss_19.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdOiNpP2myoZGRRl9alZ5YM1YbcU_PKkcGlC2y56B_5f/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_19.08.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 18.06.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.1: Einwendungen gegen die Niederschrift der Sitzung vom 18.06.2020 hier: Antrag der SPD Fraktion vom 17.07.2020 - Beschluss
+- TOP 3.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A.5 Gestaltungsleitlinie hier: Vorstellung erster Arbeitsschritte - Einstimmiger Beschluss
+- TOP 4.: Integriertes Stadtentwicklungs - und Handlungskonzept (ISEK) - A.12 Neuordnung/Umgestaltung Stadtpark hier: Entwurfsplanung des dritten Bauabschnitts A12.3 „Wasserbecken“ - Mehrheitlicher Beschluss bei 1 Gegenstimme und 5 Enthaltungen
+- TOP 5.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Programmantrag 2021 - Mehrheitlicher Beschluss bei 1 Gegenstimme
+- TOP 6.: Optimierung der Linien 741 und 828 hier: SPD Anträge vom 27.04.2020 und 18.06.2020 - Einstimmiger Beschluss
+- TOP 7.: Verkehrsberuhigung Arandstraße hier: Antrag der FDP-Fraktion vom 01.07.2019 -  
+- TOP -: Verkehrsberuhigung Arandstraße hier: Antrag der FDP-Fraktion vom 01.07.2019 - Einstimmiger Beschluss
+- TOP 8.: Verkehrssituation Blankenheimer Weg (Streckenabschnitt Ortsteil Bad Münstereifel) - Einstimmiger Beschluss
+- TOP 9.: Verkehrsberuhigung Nöthen, Brunnenstraße; hier: Antrag der UWV-Fraktion vom 22.06.2020 – Einrichtung von zwei Baumscheiben - Einstimmiger Beschluss
+- TOP 10.: Verkehrsberuhigung Rönnstraße hier: UWV-Antrag vom 23.09.2019 - Einstimmiger Beschluss
+- TOP 11.: Straßenumbenennung in Bad Münstereifel-Eichen, Auf`m Pesch; hier: Antrag nach § 24 GO NRW vom 30.07.2020 - Einstimmiger Beschluss
+- TOP 12.: Photovoltaik auf Freiflächen hier: Antrag der UWV-Fraktion vom 12.06.2020 - Mehrheitlicher Beschluss bei 1 Gegenstimme
+- TOP 13.: Bebauungsplan Nr. 94 "Industriegebiet Iversheim-Nord" hier: Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB - Mehrheitlicher Beschluss bei 1 Gegenstimme
+- TOP 14.: Bebauungsplan Nr. 5a "Gewerbegebiet - Bad Münstereifel-Kernstadt", 6. Änderung im beschleunigten Verfahren gem. § 13 a BauGB „Bebauungspläne der Innenentwicklung“ hier. Abwägungsbeschlüsse sowie Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 15.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Schönau, Bereich Friesenbenden (Ergänzungssatzung) gem. § 34 Abs. 4 Satz 1 Nr. 3 BauGB hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.: Entwicklung des Schleidpark-Areals hier: Antrag der Fraktion „Bündnis 90 / Die Grünen“ vom 12.08.2020 - Der Stadtentwicklungsausschuss empfiehlt dem Rat bei 1 Ja-Stimme und 14 Nein-Stimmen den folgenden Antrag abzulehnen.
+- TOP 22.: Anfragen und Mitteilungen
+- TOP 22.1: Denkmalförderprogramm 2020 des Landes NRW: Förderung kleinerer denkmalpflegerischer Maßnahmen Privater mit Pauschalzuweisungen hier: Mitteilung über die erteilten Zuwendungen
+- TOP 22.2: Anfragen und Mitteilungen: Zugang St. Angela-Gymnasium; hier: Antrag der UWV-Fraktion vom 12.06.2020
+- TOP 22.3: Weiterentwicklung des TaxiBusPlus-Systems zu einem flexiblen On-Demand-Verkehr
+- TOP 22.4: Baustellenabsicherung/Fußgängerampel an der L11 – Bereich Hardtburgstraße/Bonner Straße, Kirspenich hier: Anfrage der SPD Fraktion in der Sitzung des Stadtentwicklungsausschusses vom 18.06.2020 sowie Schreiben vom 17.07.2020
+- TOP 22.5: Neubau Kölner Str. hier: UWV-Antrag vom 05.08.2020
+- TOP 22.6: Barrierefreier Ausbau der Bahnstationen Arloff und Iversheim
+- TOP 22.7: Fahrradabstellanlagen an den Bahnhaltepunkten
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Radweg Arloff - Kalkar - Einstimmiger Empfehlungsbeschluss
+- TOP 2.: Entwicklung des Schleidpark-Areals - Einstimmiger Beschluss
+- TOP -: Entwicklung des Schleidpark-Areals hier: Weitere Eingaben -  
+- TOP 3.: Grunderwerb in Bad Münstereifel, Kölner Straße - Empfehlungsbeschluss bei 4 Gegenstimmen und 2 Enthaltungen
+- TOP 4.: Verkauf von Baugrundstücken in Bad Münstereifel-Honerath - Einstimmiger Beschluss
+- TOP 5.: Verkauf eines städtischen Grundstücks in Bad Münstereifel -  
+- TOP -: Verkauf eines städtischen Grundstücks in Bad Münstereifel - Empfehlungsbeschluss bei 1 Enthaltung
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Veräußerung einer städtischen Fläche in Bad Münstereifel, Blankenheimer Weg
