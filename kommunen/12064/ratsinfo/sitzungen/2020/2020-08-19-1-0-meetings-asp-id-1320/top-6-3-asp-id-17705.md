@@ -1,0 +1,7 @@
+# TOP 6.3: Beschlussfassung über die Entlastung der Mitglieder des Verwaltungsrates der Kreissparkasse Märkisch-Oderland für das Geschäftsjahr 2019 in Listenform <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+
+- Sitzung: 8. Sitzung des Kreisausschusses (2020-08-19)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=17705
+- Beratung: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/consultations.asp?typ=i&id=17705
