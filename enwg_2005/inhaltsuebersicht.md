@@ -188,6 +188,7 @@
 | Allgemeine Vorschriften |
 | § 54 | Allgemeine Zuständigkeit |
 | § 54a | Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung |
+| § 54b | Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung |
 | § 55 | Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde |
 | § 56 | Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts |
 | § 57 | Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission |
@@ -314,3 +315,4 @@
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
 | Anlage (zu § 13g) | Berechnung der Vergütung |
+| Anlage 2 (zu § 13g) | Vergütung Sicherheitsbereitschaft |
