@@ -1,0 +1,100 @@
+# 47. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-20T15:30:00+02:00
+- Ende: 2020-08-20T16:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21776
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21776
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Überblick über Maßnahmen der Verwaltung im Rahmen der Corona-Pandemie für besonders vulnerable Gruppen und Einrichtungen - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Entwicklung eines Gesamtkonzeptes für Opfer von häuslicher und sexualisierter Gewalt in Köln - ungeändert beschlossen
+- TOP 2.1.1: Änderungsantrag der FDP Fraktion zu TOP 2.1 - Entwicklung eines Gesamtkonzeptes für Opfer von häuslicher und sexualisierter Gewalt - endgültig abgelehnt
+- TOP 2.1.2: Änderungsantrag der SPD Fraktion zu TOP 2.1 – Entwicklung eines Gesamtkonzeptes für Opfer von häuslicher und sexualisierter Gewalt - endgültig abgelehnt
+- TOP 2.2: Dringlichkeitsantrag der Fraktionen SPD und Die Linke: Kölner Erwerbslosenunterstützungsstruktur vor dem Kollaps bewahren – Arbeitslosenzentren weiterfinanzieren - Sache ist erledigt
+- TOP 2.2.1: Gem. Änderungsantrag der CDU und Bündnis 90/Die Grünen zum Dringlichkeitsantrag SPD/Linke: Kölner Erwerbslosenunterstützungsstruktur vor dem Kollaps bewahren- Arbeitslosenzentren weiterfinanzieren - ungeändert beschlossen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Förderung von Selbsthilfegruppen im Sozialbereich 2020 - geändert beschlossen
+- TOP 3.2: Förderung von Frauenvereinen im Sozialbereich 2020 und 2021 - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.1.1: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - zurückgestellt
+- TOP 4.3: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - geändert beschlossen
+- TOP 4.4: Beschluss über die Beschaffung von Investitionsgütern für die Beschäftigungsträger des Stadtverschönerungsprogramms - ungeändert beschlossen
+- TOP 4.5: Konzept für Gewaltschutz in Unterbringungseinrichtungen für Geflüchtete der Stadt Köln (Gewaltschutzkonzept) - ungeändert beschlossen
+- TOP 4.6: Generalsanierung des Quäker Nachbarschaftsheims, Kreutzerstr. 5-9, 50672 Köln hier: Planungsbeschluss - ungeändert beschlossen
+- TOP 4.7: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg o. Nr., 50737 Köln-Longerich - Baubeschluss - ungeändert beschlossen
+- TOP 4.8: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. o. Nr. 2, 51143 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 4.9: Bürgerzentrum Alte Feuerwache - Ertüchtigung Innenhof, Einrichtung Stadtteil-/Holzwerkstatt, Optimierung Entwässerungs-/Kanalanlage - ungeändert beschlossen
+- TOP 4.10: Initiierung eines 3. Frauenhauses in Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.11: Niedrigschwellige Eingliederungshilfe - Aufgabenübertragung von 50, Amt für Soziales, Arbeit und Senioren zu 53, Gesundheitsamt - ungeändert beschlossen
+- TOP 4.12: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Aloys-Boecker-Straße 4, 51147 Köln-Lind - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 4.13: Förderung rassismuskritischer Projekte / 2.Schritt - ungeändert beschlossen
+- TOP 4.14: Städtische Förderung Nachbarschaftstreff KalkNord, Remscheider Str. 32, 51103 Köln-Kalk - ungeändert beschlossen
+- TOP 4.15: Sanierung der Fassade des Bürgerhaus Stollwerck - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Förderung des Vereins Kartäuserwall 18 Selbsthilfeprojekt e.V. - ohne Votum in nachfolgende Gremien
+- TOP 6: Behindertenbeauftragter
+- TOP 6.1: Bericht des Behindertenbeauftragten 03/2020 - Kenntnis genommen
+- TOP 7: Stadtarbeitsgemeinschaft Behindertenpolitik
+- TOP 7.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 8: Stadtarbeitsgemeinschaft Seniorenpolitik
+- TOP 9: Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 9.1: LGBT-freie Zonen Polen - Kenntnis genommen
+- TOP 9.2: Schwimmzeiten für trans- und intergeschlechtliche Menschen - Kenntnis genommen
+- TOP 9.3: QueerTV ist gestartet - Kenntnis genommen
+- TOP 10: Aktuelle Situation von Flüchtlingen und Zugewanderten in Köln
+- TOP 10.1: 29. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - Kenntnis genommen
+- TOP 10.3: Sprach- und Integrationsmittler*innenpool für die Stadt Köln - Jahresbericht 2019 - Kenntnis genommen
+- TOP 10.4: Bericht Antirassismus-Training 2019 - Kenntnis genommen
+- TOP 10.5: Tätigkeitsbericht Projekt Integrationslotsinnen und Integrationslotsen 2019 - Kenntnis genommen
+- TOP 11: JobCenter Köln
+- TOP 11.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 12: Wohnen
+- TOP 12.1: Aktuelle Situation im Bereich der Wohngeldstelle im Amt für Wohnungswesen - Kenntnis genommen
+- TOP 12.2: Kölner Statistische Nachrichten 5/2020 - Kenntnis genommen
+- TOP 12.3: Zukunft der Sozialhäuser Geisbergstraße 47-53, 50969 Köln - Kenntnis genommen
+- TOP 12.4: Aktueller Sachstand zu Leerständen im "Wohnpark Bayenthal" (Alteburger Straße) - Kenntnis genommen
+- TOP 13: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 13.1: Auswirkungen der Grundrente auf die Stadt Köln - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0882/2020 Auswirkungen der Grundrente auf die Stadt Köln - Kenntnis genommen
+- TOP 13.2: Anfrage der SPD Fraktion: Unerträglicher Antragsstau bei Wohngeld und Schwerbehindertenausweisen - Kenntnis genommen
+- TOP 13.2.1: Beantwortung der Anfrage Bearbeitung von Wohngeld- und Schwerbehindertenanträge - Kenntnis genommen
+- TOP 14: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 14.1: Wohngeldanträge in Köln - Kenntnis genommen
+- TOP 14.2: Wohnungslosigkeit zielgruppenorientiert und bedarfsgerecht entgegenwirken - zurückgestellt
+- TOP 14.3: Anwendung Versorgungsmedizinverordnung - Kenntnis genommen
+- TOP 14.4: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Benedikt Lieffertz (FDP) aus der Sitzung des Ausschuss für Soziales und Senioren vom 28.05.2020 - Kenntnis genommen
+- TOP 14.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Mündliche Anfragen
+- TOP 15.1: Mündliche Anfrage von SPD-Fraktion zum Thema Bürgerzentrum
+- TOP 16: Mitteilungen
+- TOP 16.1: Begehung der Landeserstaufnahmeeinrichtung in Köln-Bayenthal - Kenntnis genommen
+- TOP 16.2: Ausblick auf einen SPZ-spezifischen Psychiatriebericht mit Gesamtkonzept zur strukturellen, inhaltlichen und finanziellen Weiterentwicklung der Sozialpsychiatrischen Zentren Kölns - Kenntnis genommen
+- TOP 16.3: Pegel 3/2020 - Kenntnis genommen
+- TOP 16.4: Statistische Raumgliederung - Kenntnis genommen
+- TOP 16.5: Beteiligung der Stadt Köln am Förderaufruf des Landes "kinderstark - NRW schafft Chancen" - Kenntnis genommen
+- TOP 16.6: Dokumentation zur Anpassung der Angebote/Programme der offenen Seniorenarbeit an die Corona-Pandemie - Kenntnis genommen
+- TOP 16.7: Jahresbericht 2019 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 16.8: Verbraucherberatung im Quartier: Jahresbericht 2019 - Kenntnis genommen
+- TOP 16.9: Verbraucherberatungsstelle Köln: Jahresbericht 2019 - Kenntnis genommen
+- TOP 16.10: Dokumentation der Konferenz Interkulturelles Köln - Kenntnis genommen
+- TOP 16.11: Interkulturelle Zentren Köln – Ehrenamtspreisträger 2020 „Miteinander-Preis für Demokratie und Vielfalt“ - Kenntnis genommen
+- TOP 16.12: ZMI-Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2019 und Bericht über das Kölner Sprachfest 2020 - Kenntnis genommen
+- TOP 16.13: Zukünftige Struktur der Arbeitslosenzentren und Erwerbslosenberatungsstellen in Köln - Kenntnis genommen
+- TOP 16.14: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 16.15: Betrieb eines Drogenkonsumraums im Gesundheitsamt - Kenntnis genommen
+- TOP 16.16: Tätigkeitsberichte der nichtstädtischen Antidiskriminierungsbüros für das Jahr 2019 - Kenntnis genommen
+- TOP 16.17: Besetztes Haus an der Bonner Straße: Stadt bietet Bewohnerinnen und Bewohnern ein alternatives Gebäude an - Kenntnis genommen
+- TOP 16.18: Inklusionsbericht 2019 - zurückgestellt
+- TOP 16.19: Förderungen des Amtes für Soziales, Arbeit und Senioren - Kenntnis genommen
+- TOP 16.20: Netzwerk gegen häusliche Gewalt – Statistik 2019 - Kenntnis genommen
