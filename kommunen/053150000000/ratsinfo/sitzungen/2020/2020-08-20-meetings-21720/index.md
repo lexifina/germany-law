@@ -1,0 +1,57 @@
+# 44. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-20T17:10:00+02:00
+- Ende: 2020-08-20T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21720
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21720
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00781489.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00781489.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00781489.pdf
+
+## Tagesordnung
+
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung von mündlichen Anfragen aus der 43. Sitzung des Wirtschaftsausschusses vom 08.05.2020, TOP 8.1 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Eugen Litvinov aus der Sitzung des Wirtschaftsausschusses vom 08.05.2020 betreffend TOP 11.1: Arbeitsmarkt Köln - Rückblick 2019, bisherige Entwicklung und Ausblick 2020 (Mitteilung 11 - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage zum Umsetzungsstand des ZMI-Eckpunktepapiers aus einer früheren Sitzung - Kenntnis genommen
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der SPD-Fraktion betr.: "Wieder eine Hiobsbotschaft für den Wirtschaftsstandort Köln - Warum ist von der Oberbürgermeisterin nichts zu hören zur Situation beim Kölner Traditionsunternehmen Deutz AG?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betr.: "Wieder eine Hiobsbotschaft für den Wirtschaftsstandort Köln - Warum ist von der Oberbürgermeisterin nichts zu hören zur Situation beim Kölner Traditionsunternehmen Deutz AG?" (AN0989/2020) - Kenntnis genommen
+- TOP 4.2: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Corona-Pandemie: Sachstand Fortführung des Notfallfonds Struktursicherung Livemusikstätten und Förderung durch Landes- und Bundesprogramme"
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Vorbereitende Untersuchung für das „Kreativhaus“ - ungeändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Verarbeitendes Gewerbe in Köln - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: Aufgaben und Projekte des Teams Einzelhandel der KölnBusiness 2020 - Kenntnis genommen
+- TOP 14.2: "Tourismus in Köln" - Aktueller mündlicher Bericht des Geschäftsführers der KölnTourismus GmbH - Kenntnis genommen
+- TOP 15: Mitteilungen
+- TOP 15.1: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - Kenntnis genommen
+- TOP 15.2: 1. Monitoring - Bericht Übergang Schule – Beruf für die Stadt Köln, Jahresbericht 2019 - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion betr.: "Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen" - zurückgestellt
+- TOP 16.2: Beschluss über die Beschaffung von Investitionsgütern für die Beschäftigungsträger des Stadtverschönerungsprogramms - ungeändert beschlossen
+- TOP 16.3: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ohne Votum in nachfolgende Gremien
+- TOP 16.4: Bedarfsfeststellungsvorlage: - ohne Votum in nachfolgende Gremien
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.4: Tagesordnungspunkt (betrifft Privatpersonen)
