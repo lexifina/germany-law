@@ -1,0 +1,90 @@
+# 56. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-20T17:04:00+02:00
+- Ende: 2020-08-20T20:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11906
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11906
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00468648.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Sanierung Paul-Gerhardt-Straße - zur Kenntnis genommen
+- TOP 4.2: Anfrage zur künftigen Nutzung / Zwischennutzung des Schulzentrums Roxel - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Information der politischen Gremien zu Bauleitplanverfahren im Falle einer notwendigen erneuten öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 5.2: Unfallhäufungsstelle Dingbängerweg / Sentruper Straße - neue Lichtsignalanlage Baubeschluss der Unfallkommission - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Vergabe eines Zuschusses zu einer privaten denkmalpflegerischen Maßnahme - einstimmig beschlossen
+- TOP 6.2: Sanierung von Spielplätzen im Stadtbezirk Münster-West im Haushaltsjahr 2020 -Spielplätze Lindenbreie und Wierling - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster. - einstimmig beschlossen
+- TOP 7.2: LeosGate - mehrheitlich beschlossen
+- TOP 7.3: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - mehrheitlich geändert beschlossen
+- TOP 7.4: 4. Änderung des Bebauungsplans Nr. 144 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.5: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 147 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.6: Bebauungsplan Nr. 617 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.7: Konzept zur Neugestaltung des zentralen Bereichs der Sentruper Höhe (Waldeyerstraße) - einstimmig geändert beschlossen
+- TOP 7.7.1: Neugestaltung des zentralen Bereichs der Sentruper Höhe - beantwortet
+- TOP 7.8: Querung des Dingbängerweges in Höhe des THC Münster e. V. - einstimmig beschlossen
+- TOP 7.9: Weseler Straße – Verbesserung der Radverkehrsführung zwischen Heroldstraße und Untietheide - einstimmig beschlossen
+- TOP 7.10: Veloroute Münster-Altenberge: Routenführung - einstimmig geändert beschlossen
+- TOP 7.11: Veloroute Münster-Senden über Albachten: Routenführung - einstimmig geändert beschlossen
+- TOP 7.12: Erweiterung der Peter-Wust-Schule, Dingbängerweg 80, 48163 Münster - einstimmig geändert beschlossen
+- TOP 7.13: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge
+- TOP 7.13.1: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge - einstimmig beschlossen
+- TOP 7.14: Kindertagesbetreuungsbericht 2020 - einstimmig beschlossen
+- TOP 7.15: Kofinanzierung zu den Bundesmitteln des Aktionsprogrammes Mehrgenerationenhäuser für den Träger MuM- Mehrgenerationenhaus und Mütterzentrum e. V. - einstimmig beschlossen
+- TOP 7.16: Segelclub Hansa Münster e. V., Werkstattsanierung - einstimmig beschlossen
+- TOP 7.17: MuM-Mehrgenerationenhaus und Mütterzentrum e. V.: Finanzielle Absicherung der Arbeit in den Monaten Januar bis April 2021 - einstimmig beschlossen
+- TOP 7.18: Gievenbeck in den Fokus nehmen - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Lärmschutz Mecklenbeck - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.2: Vielfalt statt Steine - eingebracht
+- TOP 8.3: Grünstreifen an Straßen und Wiesen in Parks weniger mähen - Entwicklung von Blühstreifen und blühende Wiesen - eingebracht
+- TOP 8.4: Standort der Erstaufnahmeeinrichtung - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.5: Geschwindigkeitsbeschränkung auf der Osthofstraße ausdehnen - eingebracht
+- TOP 8.6: Geschwindigkeitsreduzierung Rüschhausweg - eingebracht
+- TOP 8.7: Ampelschaltung am Coesfelder Kreuz fahrradfreundlicher gestalten - eingebracht
+- TOP 8.8: Gastronomie in Gievenbeck und anderen Stadtteilen - eingebracht
+- TOP 8.9: Pflegeinfrastruktur im Westen - eingebracht
+- TOP 8.10: Müllsammelbehälter an der Wiese am Horstmarer Landweg - eingebracht
+- TOP 8.11: Bereitstellung von ausreichendem und preisgünstigem Wohnraum in Albachten Ost - eingebracht
+- TOP 8.12: Fußgänger-/Radverkehr auf der Dülmener Straße L551 zwischen Albachten Kreisverkehr und Senden Bösensell schützen - eingebracht
+- TOP 8.13: Errichtung eines Fuß-/Radweges auf der Lindenallee (K30) zwischen Freie Flur und Alvingheide (K31) in Albachten - eingebracht
+- TOP 8.14: Entwicklung Pienersallee/Bahnhaltepunkt - eingebracht
+- TOP 8.15: Fahrrad- und Fußgängerbrücke Nottulner Landweg - A1 - Alte Landstraße - eingebracht
+- TOP 8.16: Erweiterung Gewerbegebiet + Verlagerung Recyclinghof - eingebracht
+- TOP 8.17: Nordumgehung bauen - Ortskern entlasten - eingebracht
+- TOP 8.18: Entwicklung alter Standort Feuerwehrgerätehaus - Thieplatz - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Steigerung der Leistungsfähigkeit der Kreuzung L 551, K 60, L 529 in Albachten - zur Kenntnis genommen
+- TOP 9.2: Ergänzung an der Lichtsignalanlage Kreuzung Osthofstraße - Am Kämpken - Steinkuhle - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Änderung der Ampelphasen der Fußgängerampel Osthofstraße - Schulwegsicherung - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.4: Fuß- und Radweg Am Rohrbusch in Roxel - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.5: Verkehrskonzept für Albachten - zur Kenntnis genommen
+- TOP 9.6: Anträge der Bezirksvertretung zeitnah und transparent bearbeiten - zur Kenntnis genommen
+- TOP 9.7: Masterplan Gievenbeck 2040 entwickeln - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.8: E-Mobilität in Albachten - zur Kenntnis genommen
+- TOP 9.9: Mobiles Dialogdisplay auf der Straße Oberort - stadteinwärts vor dem Ortseingang - - zur Kenntnis genommen
+- TOP 9.10: Schaffung von Lademöglichkeiten für E-Autos in Mecklenbeck - zur Kenntnis genommen
+- TOP 9.11: Zukunft der Erstaufnahmeeinrichtung - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.12: Aufstellung eines Verkehrs- und Mobilitätskonzepts für Gievenbeck - vertagt
+- TOP 9.13: Eine Pumptrack-Anlage für Albachten - zur Kenntnis genommen
+- TOP 9.14: Installierung von Durchfahrtsperren/Felssteinen zwischen den Straßen Am Haselhof/Kleine Breikamp - zur Kenntnis genommen
+- TOP 9.15: Verlängerung des Fußweges hinter dem Rölverdurchlass in Nienberge - zur Kenntnis genommen
+- TOP 9.16: Geh- und Radweg vom Twenteweg zum Rüschhausweg - zur Kenntnis genommen
+- TOP 9.17: Aufstellung von mobilen Dialogdisplays auf der Sentruper Straße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.18: Schleichwege an den Rastanlagen Münsterland-Ost und -West schließen - vertagt, mit Prüfauftrag
+- TOP 9.19: Zusätzliche Fahrrad-Bügel an den Bushaltestellen Technologiepark B und Abzweig Wilkinghege stadteinwärts - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
