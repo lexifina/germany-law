@@ -234,3 +234,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Vierundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
 
 - [Art 83](art-83.md)
+
+## Fünfundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
+
+- [Art 84](art-84.md)

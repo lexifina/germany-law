@@ -492,7 +492,7 @@ internationalen Rechnungslegungsstandards
 - [§ 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung](0326.md)
 - [§ 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung](0327.md)
 - [§ 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften](0327a.md)
-- [§ 328 Form und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung](0328.md)
+- [§ 328 Form, Format und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung](0328.md)
 - [§ 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers](0329.md)
 
 #### Fünfter Unterabschnitt Verordnungsermächtigung für Formblätter und andere Vorschriften

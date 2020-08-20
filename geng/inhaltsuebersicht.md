@@ -222,3 +222,4 @@
 | § 169 | Übergangsvorschrift zum Abschlussprüfungsreformgesetz |
 | § 170 | Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz |
 | § 171 | Übergangsvorschrift zur Einführung der vereinfachten Prüfung |
+| § 172 | Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte |

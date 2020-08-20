@@ -474,6 +474,7 @@ besonderen Fällen
 Mitteilungspflichten
 
 - [§ 196 Auskunfts- und Mitteilungspflichten](0196.md)
+- [§ 196a (weggefallen)](0196a.md)
 
 ##### Dritter Titel Wirksamkeit der
 Beitragszahlung

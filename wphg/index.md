@@ -201,3 +201,4 @@
 - [§ 137 Übergangsvorschrift für Verstöße gegen die §§ 38 und 39 in der bis zum Ablauf des 1. Juli 2016 geltenden Fassung dieses Gesetzes](0137.md)
 - [§ 138 Übergangsvorschrift zur Richtlinie 2014/65/EU über Märkte für Finanzinstrumente](0138.md)
 - [§ 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0139.md)
+- [§ 140 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0140.md)
