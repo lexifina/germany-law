@@ -1,0 +1,111 @@
+# 52. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-20T17:00:00+02:00
+- Ende: 2020-08-20T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21547
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21547
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00785408.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00785408.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00785408.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Wiederherstellung Fußweg in Seeberg-Süd - Kenntnis genommen
+- TOP 7.1.2: Pilotprojekt On-Demand Angebot - Kenntnis genommen
+- TOP 7.1.3: Hundebesitzer in Köln - Kenntnis genommen
+- TOP 7.1.4: Rheinauenbeweidung Worringen - Kenntnis genommen
+- TOP 7.1.5: Nutzung von Schulhöfen - Kenntnis genommen
+- TOP 7.1.6: Medienecken und Laptops in Schulen - Kenntnis genommen
+- TOP 7.1.7: Taubenhaus Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Coronazahlen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.9: Freizeitbad Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Taktile Elemente auf den Chorweiler Plätzen Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Schutzwall zur Neusser Landstraße in Köln-Seeberg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.3: Postbank in Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.4: Zebrastreifen am Liverpooler Platz Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: KVB-Leihräder im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Fehlende Kitaplätze in Merkenich Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: TOP 7.2.3 i.d.S. am 19.09.2019 Deckenbeschädigungen an der Stadtbahnhaltestelle Heimersdorf
+- TOP 7.3.2: TOP 7.2.3 i.d.S. am 23.01.2020 Entfernte Sperrpoller im Stadtbezirk Chorweiler
+- TOP 7.3.3: TOP 7.2.3 i.d.S. am 04.06.2020 Baumbestand im Stadtbezirk Chorweiler
+- TOP 7.3.4: TOP 7.2.6 i.d.S. am 04.06.2020 Deckenschäden am Abgang der Stadtbahnhaltstelle in Heimersdorf
+- TOP 7.3.5: TOP 7.2.7 i.d.S. am 04.06.2020 Entfernung von intaktem städtischen Grün im Stadtbezirk
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Antrag zur Verkehrsberuhigung der Schulstraße in Pesch im Haltestellenbereich "Heinering" - zurückgestellt
+- TOP 8.1.2: Bahnhof Worringen - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Dringlichkeitsantrag - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Rampe Liverpoolerplatz 5 Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen und Die Linke - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 8.3.2: Hall of Fame Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.3: Durchgehende Asphaltierung der Deichkronenwege von Merkenich bis Worringen Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.4: Stadtbezirksperspektiven Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.5: Antrag interfraktionelles Gespräch zum Thema fehlende Hundefreilaufwiesen im Stadtbezirk Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung der Straße Rudolf-Schmidt-Weg in Köln-Worringen - zurückgestellt
+- TOP 9.1.2: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - ungeändert beschlossen
+- TOP 9.1.3: Umsetzung des Integrierten Handlungskonzeptes Lindweiler hier: Änderung der Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfond Lindweiler - ungeändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.5: Widmung von Teilstücken der Gutnickstraße in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 9.1.6: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.1.7: Baubeschluss für die Generalinstandsetzung der Alte Straße zwischen St. Tönnis-Straße und Hackenbroicher Straße und des Geh- und Radweges vom Krebelspfad bis zur Alte Straße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - zurückgestellt
+- TOP 9.2.2: 4. Fortschreibung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler,Arbeitstitel: Teilraum Nordwest, Wohnbauflächen in Köln-Esch/ Auweiler; hier: Feststellungsbeschluss - endgültig abgelehnt
+- TOP 9.2.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Brombeergasse" in Köln-Worringen - geändert beschlossen
+- TOP 9.2.4: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - Alternative beschlossen
+- TOP 9.2.5: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Aqualand" Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.2.7: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ungeändert beschlossen
+- TOP 9.2.8: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 59570/06 Arbeitstitel: Further Straße / Gilleshof in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Resümee - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2019 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Mehrkosten Merianstr. - Kenntnis genommen
+- TOP 10.2.3: Gewässerunterhaltungsplan 2020/2021 - Kenntnis genommen
+- TOP 10.2.4: Projektskizze: "Floristische Aufwertung städtischer Streuobstwiesen durch Mahdgutübertragung zur Förderung der lokalen Insektenfauna" - Kenntnis genommen
+- TOP 10.2.5: Achtzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.6: Neuer Kita-Standort in der Berrischstraße 132-136 weiterhin nicht nutzbar - Kenntnis genommen
+- TOP 10.2.7: Verbraucherberatung im Quartier: Jahresbericht 2019 - Kenntnis genommen
+- TOP 10.2.8: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von Septmeber 2014 bis Juni 2020 - Kenntnis genommen
+- TOP 10.2.9: Bewegungs-Station in der Grünanlage zwischen Chorweiler Nord und Blumenberg - Kenntnis genommen
+- TOP 10.2.10: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.11: Generalinstandsetzung der Industriestraße im Bereich zwischen dem Parkplatz 7 (Fühlinger See) und Oranjehofstraße, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Zif - Kenntnis genommen
+- TOP 10.2.12: Frühzeitige Öffentlichkeitsbeteiligung nach § 3 Absatz 1 Baugesetzbuch (BauGB) zum Bebauungsplanverfahren Arbeitstitel „Südlich Bapitststraße“ in Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.13: Sachstand zu den von der KVB übernommenen P+R-Anlagen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.14: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 10.2.15: Ausweitung des Bestattungsangebotes Baumgräber in 2020 - Kenntnis genommen
+- TOP 10.2.16: Nationale Projekte des Städtebaus "Lebenswertes Chorweiler - ein Zentrum im Wandel" Beibehaltung des Taxistandes auf dem Turkuplatz - Kenntnis genommen
+- TOP 10.2.17: Frühzeitige Öffentlichkeitsbeteiligung nach § 3 Absatz 1 Baugesetzbuch (BauGB) zum Bebauungsplanverfahren „Volkhovener Straße“ in Köln-Esch/Auweiler - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Barrierefreier Zugang Liverpooler Platz 5 am Marktplatz - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
