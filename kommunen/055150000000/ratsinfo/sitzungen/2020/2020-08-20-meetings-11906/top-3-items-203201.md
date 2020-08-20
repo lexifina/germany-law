@@ -1,0 +1,7 @@
+# TOP 3: Anliegen des Jugendrates
+
+- Sitzung: 56. Sitzung (2020-08-20)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/203201
+- Ergebnis: entfällt
