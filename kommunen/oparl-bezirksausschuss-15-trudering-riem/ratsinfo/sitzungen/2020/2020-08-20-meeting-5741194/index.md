@@ -1,0 +1,107 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2020-08-20T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5741194
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5741194
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 2.4: UA Planung
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.6: UA Umwelt
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V. Modernisierung der Vereinsküche für öffentliche Veranstaltungen 7.191,35 € / Az. 0262.0-15-0353
+- TOP 2.1.2.: (E) Stadtbezirksbudget Miteinander Trudering e.V. Anschaffung eines gebrauchten Kopiergerätes 1.435,00 € / Az. 0262.0-15-0355
+- TOP 2.1.3.: (E) Stadtbezirksbudget Verein zur Erhaltung des Wohnzimmer3null Anschaffung eines Windschotts/Lounge für den Außenbereich 5.375,00 € / Az. 0262.0-15-0354
+- TOP 2.1.4.: (E) Stadtbezirksbudget Förderverein der Grundschule am Lehrer-Götz-Weg e.V. Workshop "Wir bauen und programmieren mit Lego Wedo 2.0" vom 15.09.2020 - 31.07.2021 1.682,00 € / Az. 0262.0-15-0356
+- TOP 2.1.5.: Wanderbühne des Kulturreferates im Stadtbezirk 15 – Trudering-Riem
+- TOP 2.1.6.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grundschule Zeitungsentnahmegerät, Ilmstraße Ecke Leonhardiweg
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) Grüne Welle auf der Wasserburger Landstraße
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 7.1.2.: Anhörung zur Änderung in der BA-GeschO: Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Askaripfad 4 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.2.: Feldbergstraße - Neubau eines Dreispänners (3 WE) und eines Einfamilienhauses einschl. Doppelparklift (2 Stpl.), Doppelcarport (2 Stpl.) und Garage - hier: Haus 1
+- TOP 7.4.3.: Feldbergstraße - Neubau eines Dreispänners (3 WE) und eines Einfamilienhauses einschl. Doppelparklift (2 Stpl.), Doppelcarport (2 Stpl.) und Garage - hier: Haus 2
+- TOP 7.4.4.: Feldbergstraße - Neubau eines Dreispänners (3 WE) und eines Einfamilienhauses einschl. Doppelparklift (2 Stpl.), Doppelcarport (2 Stpl.) und Garage - hier: Haus 3
+- TOP 7.4.5.: Feldbergstraße - Neubau eines Dreispänners (3 WE) und eines Einfamilienhauses einschl. Doppelparklift (2 Stpl.), Doppelcarport (2 Stpl.) und Garage - hier: Haus 4
+- TOP 7.4.6.: Ottendichler Straße - Errichtung einer Brücke der Messe München GmbH über die Ottendichler Str. zur Multifunktionsfläche Feldkirchen
+- TOP 7.4.7.: Waldschulstraße 53 - Neubau von 6 Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID
+- TOP 7.4.8.: Kathreinweg 6 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.9.: Dachsteinstr. 5 - Errichtung von 4 Mehrfamilienwohnhäusern mit Tiefgarage
+- TOP 7.4.10.: Monikastr. 3 - Neubau eines Wohngebäudes mit Tiefgarage und einer Einzelgarage
+- TOP 7.4.11.: Matterhornstr. 15 - Abbruch Wohnhaus und Neubau eines Sechsfamilienhauses mit Carlifter (2 Stpl.) und Duplexparker (4 Stpl.)
+- TOP 7.4.12.: Truderinger Str. 240 - Neubau 2er Wohngebäude mit Tiefgarage
+- TOP 7.4.13.: Truderinger Str. 304 - Umbau dreier Garagen zu einer Wohnung, Neuerrichtung von Balkonen
+- TOP 7.4.14.: Hippelstr. 37 - Neubau einer Doppelhaushälfte mit Einzelgarage
+- TOP 7.4.15.: Schäßburger Str. 35 - Neubau von 4 gereihten Stadthäusern (4 WE) mit 4 Carports - hier: Haus 1 (geänderte Lage des Gebäudes und Parken)
+- TOP 7.4.16.: Schäßburger Str. 35 - Neubau von 4 gereihten Stadthäusern (4 WE) mit 4 Carports - hier: Haus 2 (geänderte Lage des Gebäudes und Parken)
+- TOP 7.4.17.: Schäßburger Str. 35- Neubau von 4 gereihten Stadthäusern (4 WE) mit 4 Carports - hier: Haus 3 (geänderte Lage des Gebäudes und Parken)
+- TOP 7.4.18.: Schäßburger Str. 35 - Neubau von 4 gereihten Stadthäusern (4 WE) mit 4 Carports - hier: Haus 4 (geänderte Lage des Gebäudes und Parken)
+- TOP 7.4.19.: Kreuzerweg 51 - Neubau eines Mehrfamilienhauses mit Ladeneinheit
+- TOP 7.4.20.: Lachenmeyrstr. 24 - Ersatzbau eines Mehrfamilienhauses mit 2 Doppelparker-Garagen - VORBESCHEID
+- TOP 7.4.21.: Mattseestr. - Errichtung eines Mehrfamilienhauses - VORBESCHEID
+- TOP 7.4.22.: Zehntfeldstr. 208 - Neubau eines Einfamilien- und eines Mehrfamilienhauses (5 WE) mit 2 Duplexparkern und einer Garage
+- TOP 7.4.23.: Graf-zu-Castell-Str. - Neubau des Bildungszentrums für Elektro- und Informationstechnik mit Verwaltung mit Tiefgarage - TEKTUR zu 1.1-2017-27256-32 (Graf-zu-Castell-Str. / Hans-Schwind-Str. / Joseph-Wild-Str. 21)
+- TOP 7.4.24.: Wachtelweg 36 - Neubau dreier Mehrfamilienhäuser und eines Einfamilienhauses (19 WE) mit Tiefgarage (Wachtelweg 36 / Jagdhornstr.)
+- TOP 7.4.25.: Kathreinweg 30 - Neubau eines Achtfamilienhauses mit Tiefgarage (10 Stpl.)
+- TOP 7.4.26.: Schneefinkenweg 1a - Neubau zweier Mehrfamilienhäuser in Holz-/Hybridbauweise (10 WE) mit Tiefgarage (12 Stpl.) - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Veranstaltung: Wanderbühne "Sommer in der Stadt" am 13.09.2020 im Riemer Park am Kofbau (Werner-Eckert-Str. 1)
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8.1.1.: Spieljochstr. 40 Frau-von-Uta-Str. 26 Böcklerweg 25 Ottilienstr. 61b Bartholomäer Str. 4 Hoferichterweg 28 Ottilienstr. 64 Wiesbachhornstr. 7
+- TOP 8.2.1.: Agathenstraße 28 Agathenstr. 11 Feldbergstraße Haus 1 Feldbergstraße Haus 2 Feldbergstraße Haus 3 Feldbergstraße Haus 4 Kilihofstraße 38 Ottendichler Straße Waldschulstraße 53 Zehntfeldstr. 142 Kathreinweg 6 Möwestr. 33 Heltauer Str. 108 Taku-Fort-Str. 12 Kreuzerweg 51 Dachsteinstr. 5 Monikastr. 3 Mädelegabelstr. 77 Hans-Pfann-Str. 116 Am Messesee 2 Matterhornstr. 15 Tangastr. 2 Hippelstr. 37 Truderinger Str. 304 Riemer Str. 349 Vogesenstr.18 Kiebitzweg 3 Solalindenstr. 65b Salzmesserstr. 61 Teuchertstr. 52 Bürgermeister-Keller-Str. 1 Lachenmeyrstr. 24 Mattseestr. Zehntfeldstr. 208 Sansibarstr. 41 Sulzer-Belchen-Weg 18 Kießlingerstraße 40 Neusönnerstr. 12a Kathreinweg 30 Schneefinkenweg 1a
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.5: UA Schule, Soziales und Kultur
