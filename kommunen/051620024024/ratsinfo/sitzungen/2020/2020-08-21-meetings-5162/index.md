@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-08-21T16:00:00+02:00
+- Ende: 2020-08-21T19:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5162
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5162
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00133899.pdf
+- Ergebnisprotokoll: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00133899.pdf
+- Wortprotokoll: Integriertes Klimaschutzkonzept http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00133899.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Bericht zur Bewältigung der Corona-Krise
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 5: Integriertes Klimaschutzkonzept 2035 - mehrheitlich zugestimmt
+- TOP 6: Feststellung des Jahresabschlusses 2019 der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2019 - einstimmig zugestimmt
+- TOP 7: Einrichtung einer Jury zur Auswahl des Heimatpreises 2020 - einstimmig zugestimmt
+- TOP 8: Wiederwahl einer Schiedsperson und einer stellvertretenden Schiedsperson - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 9: Genehmigung der Dringlichkeitsentscheidung Nr. 356 - Änderung der Satzung Kindertagespflege - einstimmig zugestimmt
+- TOP 10: Coronabedingte befristete Sonderregelung der Entgeltordnung und des Standardhonorars der VHS Neuss zum I. Semester 2021 - einstimmig zugestimmt
+- TOP 11: Genehmigung der Dringlichkeitsentscheidung Nr. 357 betr.: Nachbesetzung Wahllausschuss "Die Linke" - einstimmig zugestimmt
+- TOP 12: Förderung der Jüdischen Gemeinde - einstimmig zugestimmt
+- TOP 13: Neufassung der Rechnungsprüfungsordnung - einstimmig zugestimmt
+- TOP 14: Bebauungsplan Nr. 456 - Rheintorstraße / Düsseldorfer Straße - Beschluss über die Abwägung der Stellungnahmen - einstimmig zugestimmt
+- TOP 15: Beschlussfassung des Rates über die Erstattung nicht eingezogener Elternbeiträge im Rahmen der Föderprogramme "Betreuungspauschale" an den Grundschulen sowie "Geld oder Stelle" an den weiterführenden Schulen in Neuss - einstimmig zugestimmt
+- TOP 16: Turngemeinde Neuss: Sportzentrum Schorlemerstraße; Bewerbung um Fördermittel aus dem Landesprogramm "Investitionspakt zur Förderung von Sportstätten 2020 und 2021" Hier: Erklärung zur Maßnahmenumsetzung "Erweiterung/Neubau" - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 17: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr.: Überplanung des Hüsenplatzes in Grimlinghausen mit Beteiligung der Anwohnerinnen und Anwohner neu aufgreifen - einstimmig zugestimmt
+- TOP 18: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr.: Bewerbung der Stadt Neuss als Modellstadt - Medikamenten- bzw. Medizinproduktion nach Europa / Deutschland zurück verlagern - einstimmig zugestimmt
+- TOP 19: Antrag der SPD-Fraktion betr.: Einrichtung/Etablierung eines Wochenmarktes auf dem Kirmesplatz in Rosellen - einstimmig zugestimmt
+- TOP 20: Antrag der SPD-Fraktion betr.: Modernisierung des Hüsenplatzes in Grimlinghausen
+- TOP 21: Antrag der SPD-Fraktion betr.: Verbesserungen für die Bahnschranke am Bahnhof in Holzheim - einstimmig zugestimmt
+- TOP 22: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Einsatz von Schulhunden an Neusser Grundschulen - mehrheitlich abgelehnt
+- TOP 23: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Einsatz von Therapiehunden in Neusser Seniorenheimen - mehrheitlich abgelehnt
+- TOP 24: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Rettung der Kyburg - einstimmig zugestimmt
+- TOP 25: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Pflege und Ersatz der Baumbestände im Naturschutzgebiet zwischen Neuss Vogelsang und Bolssiedlung
+- TOP 26: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Vermehrte Kontrolle und Reinigung des Rosengartens/Parkplatz Dorint Hotel/Stadthalle - einstimmig zugestimmt
+- TOP 27: Antrag der Fraktion UWG/Freie Wähler - GO-Neuss betr.: Partys/Müll am Rheinufer in Uedesheim
+- TOP 28: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr.: Schrotträder schneller entsorgen
+- TOP 29: Antrag der Fraktionen von CDU und Bündnis 90/DIE GRÜNEN betr.: Verkehrsberuhigung in Grimlinghausen - einstimmig zugestimmt
+- TOP 30: Antrag der SPD-Fraktion betr.: Pflege der Grünflächen / Sauberkeit in der Stadt Neuss - einstimmig zugestimmt
+- TOP 31: Antrag der Fraktion Die LINKE betr.: Müllgebühren senken und Müllvermeidung finanziell belohnen durch die Zulassung kleinerer und damit günstigerer Abfallbehälter - verwiesen
+- TOP -: Anfragen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 36: Veräußerung der RWE-Aktien - zur Kenntnis genommen
+- TOP 37: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer im III. Quartal 2019 bis II. Quartal 202020 genehmigt hat - zur Kenntnis genommen
+- TOP 38: Übertragung der Bogenschießwiese und der Tennisanlage Stadtwald einschließlich Parkplatz an die Internationale Schule am Rhein (ISR) - zur Kenntnis genommen
+- TOP 39: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP -: Einwohnerfragestunde
