@@ -1,0 +1,93 @@
+# Rat (57. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-08-24T18:01:00+02:00
+- Ende: 2020-08-24T21:18:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZco0TDVb1QG18D43jI-cvII
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7269
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVeR7uVLi-RGw7c5hSXWeal08bILCdgojnTEAWzc2s29/Bekanntmachung_Rat_24.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVIvRnrg-DMU_Qg2axE7fsKfGPMCtRWG9NhdOyT__iLl/Oeffentliche_Niederschrift_Rat_24.08.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Dependance Lupinenweg
+- TOP 1.2: Beantwortung von Fragen aus der Einwohnerfragestunde
+- TOP 1.3: Maskenpflicht während der Ratssitzung
+- TOP 1.4: Hygiene auf Spielplätzen
+- TOP 1.5: Kontrollen durch den Ordnungsdienst
+- TOP 1.6: Plakatierungsvorschriften
+- TOP 1.7: Aktuelle Situation auf dem Balthasar-Neumann-Platz
+- TOP 1.8: Weitere Nutzung Lupinenweg
+- TOP 2.: Persönliche Erklärung von Ratsmitglied Dr. Heermann
+- TOP 3.: Niederschrift vom 22.06.2020
+- TOP 4.: Anregungen nach § 24 GO NRW
+- TOP 4.1: Anregung nach § 24 GO NRW; hier: Benennung einer Straße im Bebauungsplan 06.17 mit dem Straßennamen "Am Heimbachsgut" Bezug: Antrag der DG Badorf-Eckdorf vom 27.01.2020
+- TOP 4.1.1: Straßenbenennung in Eckdorf Bezug: Bürgerantrag nach § 24 GO NRW der DG Badorf-Eckdorf vom 27.01.2020 - (kein Text vorhanden)
+- TOP 4.2: Anregung nach § 24 GO NRW hier: Benennung einer Straße in einem der Schwadorfer Neubaugebiete "An Hornsgarten" oder "östlich Lindenstr./ An der Schallenburg" nach dem Heimatforscher Josef Burfeid; Bezug: Antrag der DG Schwadorf vom 04.03.2020 (Eingangsdatum)
+- TOP 4.2.1: Straßenbenennung in Schwadorf Bezug: Antrag der Dorfgemeinschaft Schwadorf nach § 24 GO NRW vom 04.03.2020; Vorl.-Nr. 105/2020 - (kein Text vorhanden)
+- TOP 5.: Eintrag in das Goldene Buch der Stadt Brühl durch Irene Westphal - (kein Text vorhanden)
+- TOP 6.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Brühl vom 24. August 2020 - (kein Text vorhanden)
+- TOP 7.: Allgemeinverfügung „Alkoholkonsumverbot auf der Bleiche und auf dem Heinrich-Fetten-Platz in Brühl“ - (kein Text vorhanden)
+- TOP 7.1: Ergänzungsantrag zu TOP 6: Allgemeinverfügung „Alkoholkonsumverbot auf der Bleiche und dem Heinrich-Fetten-Platz in Brühl“
+- TOP 8.: Änderung der Wahlordnung für die Wahl des Integrationsrates (WahlO IntRat) - (kein Text vorhanden)
+- TOP 9.: Größenabhängige Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2019 gem. § 116a GO NRW - (kein Text vorhanden)
+- TOP 10.: 1. Zwischenbericht zur Haushaltslage 2020 zum 30.06.2020 mit Prognose zum 31.12.2020
+- TOP 11.: "Gute Schule 2020" Mittelverwendung und Maßnahmenplanung 2020 Bezug: Rat 10.07.2017, Vorlage 181/2017, Rat 16.12.2019, Vorlage 479/2019, Rat 27.04.2020, Vorlage 132/2020, Rat 22.06.2020, Vorlage 237/2020 - (kein Text vorhanden)
+- TOP 12.: Annahme projektgebundener Spenden für Einrichtungen der Kinder- und Jugendhilfe - (kein Text vorhanden)
+- TOP 13.: Kindertagesbetreuung in Einrichtungen hier: Finanzierung der Erweiterung der evangelischen Kindertagesstätte Rodderweg und anteilige Übernahme des Trägeranteils an den Betriebskosten; Bezug: Antrag auf Erhöhung des Zuschussbetrages - (kein Text vorhanden)
+- TOP 14.: Kultur- und Festivalprogramm 2. Halbjahr 2020, Ist-Stand und finanzielle Auswirkungen durch Corona-bedingte Absagen/Verlegungen Bezug: Vorlage 249/2020 und 252/2020 - (kein Text vorhanden)
+- TOP 15.: Aktivitäten der städtischen Wirtschaftsförderung rund um das Thema "Digitalisierung" und die Stärkung der Brühler Innenstadt
+- TOP 16.: Über-/ außerplanmäßige Mittelbereitstellungen
+- TOP 16.1: Überplanmäßige Mittelbereitstellungen hier: Neubeschaffung Tanklöschfahrzeug Waldbrand (TLF 3000) und nochmalige Mittelbereitstellung für die Ersatzbeschaffung des Gerätewagen Logistik (Korrektur) - (kein Text vorhanden)
+- TOP 16.2: NRW-Landesprogramm „Kinderbetreuung in besonderen Fällen“ hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 16.3: Sofortausstattungsprogramm für Lehrkräfte - (kein Text vorhanden)
+- TOP 16.4: Sofortausstattungsprogramm für bedürftige Schülerinnen und Schüler - (kein Text vorhanden)
+- TOP 16.5: Gestaltung von Schulhofflächen hier: KGS Barbara – Herstellung eines grünen Klassenzimmers im oberen Schulhofbereich GGS Astrid-Lindgren – Ersatzbeschaffung eines Kletterhäuschens GGS Badorf – Ersatzbeschaffung einer Kletterwand im oberen Schulhofbereich - (kein Text vorhanden)
+- TOP 17.: Streetwork - (kein Text vorhanden)
+- TOP 18.: Festlegung Zügigkeit Max-Ernst-Gymnasium - (kein Text vorhanden)
+- TOP 19.: Bebauungsplan 09.07 "WaldKita am Seeweg" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 20.: Gesellschafterversammlung Stadtwerke
+- TOP 20.1: Gesellschafterversammlung Stadtwerke Jahresabschluss 2019 - (kein Text vorhanden)
+- TOP 20.2: Gesellschafterversammlung Stadtwerke Beteiligung an der „Walter hilft GmbH“ - (kein Text vorhanden)
+- TOP 21.: Teilneubau Erich-Kästner-Realschule: Freigabe Leistungsphase 3 –Entwurfsplanung- Bezug: Rat 29.10.2018, Vorlage-Nr. 324/2018 - (kein Text vorhanden)
+- TOP 22.: Gewährung einer Entschädigung für Online-Fraktionssitzungen während der Corona-Pandemie - (kein Text vorhanden)
+- TOP 23.: Kommunalverfassungsstreitverfahren
+- TOP 23.1: Kommunalverfassungsstreitverfahren
+- TOP 24.: Anträge
+- TOP 24.1: Erstellung eines Konzepts zur Auflösung der Obdachlosenunterkunft am Lupinenweg und zur notwendigen Entwicklung eines Leitbildes "Soziale Stadt Brühl" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 16.06.2020 - (kein Text vorhanden)
+- TOP 24.1.1: Antrag der CDU/Bündnis 90 Die Grünen vom 16.06.2020, Auflösung des Lupinenweges
+- TOP 24.1.2: Änderungsantrag „Erstellung eines Konzepts zur Auflösung des Lupinenwegs und zur notwendigen Entwicklung eines Leitbildes „Soziale Stadt Brühl“
+- TOP 24.2: Zusätzliche Spielgeräte für Kleinkinder auf dem Spielplatz Weiherhofstraße in Schwadorf Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 03.08.2020 - (kein Text vorhanden)
+- TOP 24.3: Einstellung der Ausführungsplanung Janshof Bezug: Antrag der FDP-Fraktion vom 05.08.2020 - (kein Text vorhanden)
+- TOP 24.4: Solaranlagenpflicht bei Neubauten Bezug: Antrag der Fraktion Linke&Piraten vom 06.08.2020 - (kein Text vorhanden)
+- TOP 24.5: Änderung der Wahlordnung für die Wahl des Integrationsrates (WahlO IntRAT) Bezug: Antrag der Fraktion Linke&Piraten vom 12.08.2020
+- TOP 25.: Umbesetzung in Ausschüssen
+- TOP 26.: Mitteilungen
+- TOP 26.1: Finanzielle Auswirkungen im Rahmen der Corona-Pandemie - Aktualisierte Einschätzung - Bezug: Rat 22.06.20, TOP 4.5 bzw. Vorlage 253/2020
+- TOP 26.2: Schreiben der WEPAG Brühl e.V.
+- TOP 26.3: Hilfe für die Mitarbeitenden der Galeria Kaufhof Filiale Brühl
+- TOP 27.: Anfragen
+- TOP 27.1: Absperrung Konrad-Adenauer Straße
+- TOP 27.2: ÖPNV Verbindung zwischen Kierberg und Vochem
+- TOP 27.3: Verkehrssituation
+- TOP 27.4: Situation auf der Auguste-Viktoria-Straße
+- TOP 27.5: Bolzplatz EKR
+- TOP 27.6: Tischtennisplatte Bolzplatz EKR
+- TOP 27.7: Breitbandversorgung
+- TOP 27.8: Beleuchtung "Am Hornsgarten"
+- TOP 27.9: Bespielbare und besitzbare Stadt
+- TOP B): Nichtöffentliche Sitzung
+- TOP 28.: Gründung der KKP Klärschlammkooperation Pool GmbH und Gesellschaftervereinbarung der KKP Klärschlammkooperation Pool GmbH - (kein Text vorhanden)
+- TOP 29.: Gesellschafterversammlung Stadtwerke Beteiligung an der „Walter hilft GmbH“
+- TOP 30.: Mitteilungen
+- TOP 31.: Anfragen
+- TOP 31.1: Haus Kaiserstr. 38
+- TOP 31.2: Dank an die Verwaltung
+- TOP 31.3: Rondorfer Straße
+- TOP 31.4: Hilfe für die Mitarbeitenden der Galeria Kaufhof Filiale Brühl
