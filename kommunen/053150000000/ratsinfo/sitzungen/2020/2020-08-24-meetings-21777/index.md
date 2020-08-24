@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-24T15:00:00+02:00
+- Ende: 2020-08-24T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21777
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21777
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin - ungeändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Grundstück Kyllburger Straße/ Erweiterung GGS Berrenrather Straße 352/Manderscheider Platz - Kenntnis genommen
+- TOP 3.1.2: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 10.12.2019 zu 4258/2019 - Kenntnis genommen
+- TOP 3.1.3: Errichtung einer Grundschule auf dem Max-Becker-Areal in Ehrenfeld - Kenntnis genommen
+- TOP 3.1.4: Beantwortung einer Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen, AN/0649/2020 - Kenntnis genommen
+- TOP 3.1.5: Beantwortung mündlicher Anfragen in der Sitzung des Ausschusses Schule und Weiterbildung am 25.05.2020 - Kenntnis genommen
+- TOP 3.1.6: Beantwortung einer Anfrage zu Schule ohne Rassismus – Schule mit Courage - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Belüftung der Klassenräume in Gebäuden mit Passivhausstandard - Kenntnis genommen
+- TOP 3.2.2: Sexueller Missbrauch in Kitas und Schulen - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Baubeschluss zur Heizungserneuerung an der Katharina-Henoth-Gesamtschule in Köln-Kalk, Teilstandort Nürnberger Straße 10, 51103 Köln-Höhenberg (Projektnummer 18-21191-032) - ungeändert beschlossen
+- TOP 4.2: TU-/GU-Schulbaumaßnahmen: Neubau von zwei Interimsschulgebäuden an den Standorten Kreutzerstraße 11 und Venloer Wall 13b, 50672 Köln-Neustadt/Nord durch Totalunternehmer - Planungs- und Baubeschluss - ungeändert beschlossen
+- TOP 4.3: Planungsaufnahme zur Errichtung eines Neubaus für eine dreizügige Grundschule mit einer 1-fach Turnhalle am Standort Antwerpener Straße 19-29, 50672 Köln-Innenstadt-Nord - ungeändert beschlossen
+- TOP 4.4: Namensgebung für die Gesamtschule Ferdinandstraße 43, 51065 Köln (Mülheim) - ungeändert beschlossen
+- TOP 4.5: Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstr. 71 - 73, 50823 Köln-Neuehrenfeld - Baubeschluss - ungeändert beschlossen
+- TOP 4.6: Einrichtungs- und Mittelfreigabebeschluss für die Neubauten und Sanierungsbauten des Georg-Büchner-Gymnasiums, Ostlandstraße 39, 50858 Köln - ungeändert beschlossen
+- TOP 4.7: Fachraumerneuerung für die Mikrobiologielaborräume im Berufskolleg Kartäuserwall (BK 16), Kartäuserwall 30, 50676 Köln. - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Neubau Grundschule und Turnhalle Fühlinger Weg 7 in 50765 Köln Volkhoven/Weiler - Kenntnis genommen
+- TOP 5.2: 28. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.3: Anmeldeverfahren zum Schuljahr 2020/2021 - Kenntnis genommen
+- TOP 5.4: Strukturierter Zugang für neuzugewanderte, berufsschulpflichtige Jugendliche ins Bildungssystem - Kenntnis genommen
+- TOP 5.5: Ergänzung zur Mitteilung „Jugendbefragung und dann…, Erste Bilanzierung“ (Session 0178/2020) - Kenntnis genommen
+- TOP 5.6: Beteiligung der Stadt Köln am Förderaufruf des Landes "kinderstark - NRW schafft Chancen" - Kenntnis genommen
+- TOP 5.7: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total oder Generalunternehmer - Kenntnis genommen
+- TOP 5.8: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 5.9: 1. Monitoring - Bericht Übergang Schule – Beruf für die Stadt Köln, Jahresbericht 2019 - Kenntnis genommen
+- TOP 5.10: Sachstandsdarstellung zu mündlichen Nachfragen zur KGS Kupfergasse 31 aus der Sitzung des Ausschusses für Schule und Weiterbildung am 27.04.2020 - Kenntnis genommen
+- TOP 5.11: ZMI-Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2019 und Bericht über das Kölner Sprachfest 2020 - Kenntnis genommen
+- TOP 5.12: Neubau der Sekundarstufe II und Umbaumaßnahmen im Bestand am Standort der Gesamtschule Dellbrücker Mauspfad 198-200, 51069 Köln – Bau- und Vergabebeschluss - Kenntnis genommen
+- TOP 5.13: 29. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.14: Erste Gebäude in der Bildungslandschaft Altstadt-Nord fertiggestellt - Kenntnis genommen
+- TOP 5.15: Digitales Lernen in Kölner Schulen - Ausstattung der Schulen - Kenntnis genommen
+- TOP 5.16: Kooperationen zwischen Offenen Ganztagsschulen und Sportvereinen - Kenntnis genommen
+- TOP 5.17: Inklusionsbericht 2019 - Kenntnis genommen
+- TOP 5.18: Aktuelle Sachstände im Rahmen der Covid-19-Pandemie - Kenntnis genommen
+- TOP 5.19: Sachstandsbericht zum 30.06.2020 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 5.20: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion zu baulichen und perspektivischen Situation der KGS Horststraße
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
