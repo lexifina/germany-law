@@ -17,7 +17,7 @@
 
 - [§ 6 Mitteilungspflichten des Arbeitgebers](0006.md)
 - [§ 7 Besondere Mitteilungspflichten der zuständigen Stelle](0007.md)
-- [§ 8](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Besondere Mitteilungspflicht der Familienkasse](0009.md)
 - [§ 10 Besondere Mitteilungspflichten des Anbieters](0010.md)
 - [§ 11 Anbieterwechsel](0011.md)

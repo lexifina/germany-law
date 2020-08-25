@@ -44,6 +44,7 @@
 
 - [§ 19 Antrag](0019.md)
 - [§ 19a Örtliche Zuständigkeit](0019a.md)
+- [§ 19b (weggefallen)](0019b.md)
 - [§ 20 Mitteilungspflicht](0020.md)
 - [§ 21 Auskunftspflichten](0021.md)
 - [§ 22 Ersatzpflicht des Ehegatten oder Lebenspartners](0022.md)
