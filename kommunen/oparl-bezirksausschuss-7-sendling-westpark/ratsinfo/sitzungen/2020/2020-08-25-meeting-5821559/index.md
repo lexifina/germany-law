@@ -1,0 +1,191 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-08-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5821559
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5821559
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Radfahren im Westpark
+- TOP 6.2.: Verkehrsaufkommen Hinterbärenbad
+- TOP 6.3.: Beschwerde über Parkbank Holsteiner Str.
+- TOP 6.4.: Parkende Autos,LKW Siegenburgerstraße
+- TOP 6.5.: Boulderwand Heckenstallerpark
+- TOP 6.6.: Großtagespflege
+- TOP 6.7.: Zwei Verkehrsanfragen
+- TOP 6.8.: Parkdruck am Specklinplatz
+- TOP 6.9.: Neubauten Hansastraße
+- TOP 6.10.: Insektenfreundliche Flächen Specklinplatz
+- TOP 6.11.: Sommerstraße Hinterbärenbadstraße 01
+- TOP 6.12.: Sommerstraße Hinterbärenbadstraße 02
+- TOP 6.13.: Sommerstraße Hinterbärenbadstraße 03
+- TOP 6.14.: Kneip-Anlage Westpark
+- TOP 6.15.: Sommerstraße Bürgerschreiben Briefkasten
+- TOP 10.1.: (E) Stadtbezirksbudget SPOKITA e.V. Anschaffung von Spielgeräten für den Außenbereich vom 22.-28.08.2020 4.315,99 € / Az. 0262.0-7-0304
+- TOP 10.2.: (E) Stadtbezirksbudget Alten- und Service-Zentrum (ASZ) Westpark Erwerb und Montage von Sonnensegeln zur Durchführung von Angeboten im Freien ab November 2020 2.535,33 € Az.0262.0-7-0305
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative „Im Viertel“ Konzert im Viertel im August/ September 2020 1.200,00 € / Az. 0262.0-7-0302
+- TOP 10.4.: (E) Stadtbezirksbudget PFIFFIKUS Lern- & Hausaufgabenhilfe e.V. Mietzahlung vom 09.09.2020-27.07.2021 1.750,00 € / Az. 0262.0-7-0307
+- TOP 10.5.: (E) Stadtbezirksbudget Initiative „Saisonstart“ Musikalischer Saisonstart am 12.09.2020 250,00 € / Az. 0262.0-7-0306
+- TOP 10.6.: (E) Stadtbezirksbudget Initiative „Oktoberfest“ Oktoberfest am 08.10.2020 850,00 € / Az. 0262.0-7-0308
+- TOP 10.7.: (E) Stadtbezirksbudget WEG Heiterwangerstr. 38 - 58 Fahrradschranke und Hinweisschild ab 01.08.2020 2.048,80 € / Az. 0262.0-7-0301
+- TOP 10.8.: (E) Stadtbezirksbudget stattpark OLGA e.V. Kindertheater "Serafin und seine Kindermaschine" am 04.10.2020 2.145,00 €, AZ: 0262.0-7-0310
+- TOP 10.9.: (E) Stadtbezirksbudget Reizwerk Theaterproduktion Theaterstück "Absacker" vom 27.-29.08.2020 4.970,00 € / Az. 0262.0-7-0309
+- TOP 10.10.: (E) Stadtbezirksbudget Initiative Hinterbärenbadstraße Aktivitäten im öffentlichen Raum - Hinterbärenbadstraße vom 21.08. - 07.09.2020 600,00 € / Az. 0262.0-7-0311
+- TOP 10.11.: Änderung Video Lehrgänge Binario
+- TOP 11.1.: Antrag SPD Novalisstraße
+- TOP 11.2.: Halteverbot Drachenseestraße
+- TOP 11.3.: Mietfreie Nutzung Hausaufgabenbetreuung
+- TOP 11.4.: Drachenseestraße Input KVR
+- TOP 12.1.: Edelsbergstr 4 - Schriftverkehr LBK
+- TOP 13.1.: Bericht des Vorsitzenden
+- TOP 13.2.: Protokoll Wochenmarkt LKP 29-07-20
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1.: Bauvorhaben Mittenwalder Str.
+- TOP 15.2.: Bauvorhaben Schneefernerstr
+- TOP 16.1.: Sommer in der Stadt ab 02.09.20
+- TOP 16.2.: Konzertreihe Sommer in der Stadt
+- TOP 17.1.: Theatron Outdoor-Gottesdienst
+- TOP 17.2.: Westpark Seebühne, Vereinsfest Folklore
+- TOP 17.3.: Seebühne, Chorproben des GO Sing Choir
+- TOP 17.4.: Westpark, Rodelhügel, Akkustikkonzert
+- TOP 17.5.: Westpark Outdoor-Gottesdienste
+- TOP 18.: Baureferat
+- TOP 18.1.: Erinnerungsverfahren Schongauerstr
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: BA Satzungsänderungen
+- TOP 20.2.: Änderung Geschäftsordnung Antrag BA 21
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Verkehrsrechtliche Anordnung Passauerstr.
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 26.1.: Errichtung eines Hauses für Kinder am Bauernbräu- / Distlhofweg
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.1.: Fristverlängerung Fahrradweg Heckenstallertunnel
+- TOP 31.2.: Wildblumen Krüner Platz
+- TOP 31.3.: Unfallhäufungsstelle Garmischer Straße u. Hinterbärenbadstraße
+- TOP 31.4.: Antrag „Bienenhügel“ am Luise-Kieselbach-Platz / Max-Seidl-Weg
+- TOP 31.5.: Am Verbindungsweg zwischen der Kürnbergstraße und der Albert-Roßhaupter-Straße, Bushaltestelle Drachenseestraße, soll auf Höhe des Spielplatzes eine zusätzliche Beleuchtung installiert werden.
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.1.: Themen Bürgerversammlung
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.1.: Heckenstallerstr. Einbahnstraßenregelung
+- TOP 35.2.: Lärmschutz durch Radarmessungen auf der A95 stadtauswärts
+- TOP 35.3.: Nachbarschaftsstraßen
+- TOP 35.4.: Terminverlängerung
+- TOP 36.: Kulturreferat
+- TOP 36.1.: KulturGeschichtsPfad und QR-Codes
+- TOP 37.: Lokalbaukommission
+- TOP 37.1.: vertagt Baugenehmigung Hansastr.
+- TOP 37.2.: Bauvorhaben
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.1.: vertagt vertagt Planfeststellungsbeschluss MR Südwest
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.1.: Zwischennachricht AudiDome
+- TOP 41.2.: vertagt Luise Kiesselbach Platz Verkehrszahle
+- TOP 41.3.: Gesamtstädtische Stellungnahme Planfeststellung Tram Westtangente
+- TOP 41.4.: Luise-Kiesselbach-Platz Verkehrsbelastungen
+- TOP 42.: Sozialreferat
+- TOP 42.1.: Flyer Mosaik-Jugendpreis 2021
+- TOP 43.1.: vertagt Hansastraße (Stadtrat)
+- TOP 43.2.: vertagt Lärmbeschwerden IWIS Maßnahmenplan
+- TOP 43.3.: Unterstützung BA 17,Wertstoffcontainer.
+- TOP 43.4.: Infos Mieterbeirat
+- TOP 43.5.: AWM: Fristverlängerung zum Antrag wg. Verpackungen
+- TOP 43.6.: Feiern im Westpark
+- TOP 45.: Baureferat
+- TOP 45.1.: Bewertung der Münchner Spielplätze
+- TOP 45.2.: Aktionsplan Beleuchtung öffent. Raum
+- TOP 45.3.: (U) Luise-Kiesselbach-Platz - Bekanntgabe der Lärmuntersuchung - im 7. Stadtbezirk Sendling - Westpark 1. Darstellung der Ergebnisse der Lärmuntersuchungen 2. Weiteres Vorgehen - Bekanntgabe -
+- TOP 45.4.: Baumentfernungen im öffentlicher Raum
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.1.: Bescheid_Münchner Flüchtlingsrat e.V
+- TOP 47.2.: Bescheid_Isarlust e.V
+- TOP 47.3.: Bescheid_Joint Adventures
+- TOP 47.4.: Bescheid Monacorona
+- TOP 47.5.: Bescheid Erdlinge e.V
+- TOP 47.6.: Abrechnung virtueller Besprechungen
+- TOP 47.7.: Kürzung Stadtbezirksbudget
+- TOP 47.8.: Antwortschreiben Lebendiges Sendling-Westpark
+- TOP 47.9.: städtisches Telefonbuch für alle BAs
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.1.: VRA Hinterbärenbadstr_Heiterwanger
+- TOP 49.2.: KrünerStr._Z315
+- TOP 49.3.: Veranstalltung Wir sind
+- TOP 49.4.: Verkehrs rechtliche Anordnung Passauerstr SichtHV
+- TOP 49.5.: Westpark, Theatron, Christlicher Outdoor-Gottesdienst
+- TOP 49.6.: Seebühne, musikalisches Weinfest, im September 2020
+- TOP 49.7.: Westpark, kleine Zirkuswiese, Circus Galliano, vom 24.08.-06.09.2020
+- TOP 49.8.: Westpark, Seebühne Chorprobe des Go Sing Choir
+- TOP 49.9.: Verlängerung Kino,Mond und Sterne
+- TOP 49.10.: Ausnahmegenehmigung Grünanlage Adunipark Spielplatz
+- TOP 49.11.: Gaststätte: unveränderte Fortführung Restaurant“River“
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.1.: Artenvielfallt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.1.: Genehmigung Leutacher Str.
+- TOP 55.2.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 55.3.: Baumfällungsantrag Konrad-Celtis-Straße
+- TOP 56.: Sozialreferat
+- TOP 56.1.: Zweckentfremdung Echelsbachstr
+- TOP 56.2.: Erhaltungssatzung Euckenstr.
+- TOP 56.3.: Erhaltungssatzung Euckenstr.
+- TOP 56.4.: Erhaltungssatzung Martin-Behaim-Str.
+- TOP 56.5.: Erhaltungssatzung Euckenstr.
+- TOP 57.1.: Trinkwasserprojekt-Projekt Tutzinger Straße
+- TOP 57.2.: Aktuelle Situation an Wertstoffinseln
+- TOP 59.1.: Erstinformation Erweiterung
+- TOP 59.2.: Erstinformation Erweiterung
+- TOP 59.3.: Erstinformation Erweiterung
+- TOP 59.4.: Abgeschlossenheitsbescheinigungen
+- TOP 59.5.: Kommunales Schreiben Erstaufbau 11b
+- TOP 59.6.: Beteiligung Mobilfunkausbau Am Waldfriedhof
