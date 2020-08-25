@@ -1,0 +1,83 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-25T14:05:00+02:00
+- Ende: 2020-08-25T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21778
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21778
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: Verein für Junge afrikanische und andere Diaspora (VJAAD) e.V. - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Annahme einer zweckgebundenen Spende und Neugestaltung des Spiel- und Bolzplatzes Im Bischofsacker in Köln-Buchforst - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Flexible Öffnungszeiten in Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 4.3: Generalsanierung des Quäker Nachbarschaftsheims, Kreutzerstr. 5-9, 50672 Köln hier: Planungsbeschluss - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Jugendverbände in der Krise stärken - Frist zur Verwendung der Haushaltsmittel verlängern - Kenntnis genommen
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kinderstadtpläne für ganz Köln und alle Kinder – auch zur Verbesserung der Schulwegsicherheit einsetzen! - geändert beschlossen
+- TOP 5.2.2: Pilotprojekt zur Einrichtung jugendgerechter Freiräume und pädagogisch angeleiteter Events zur Freizeitgestaltung in Zeiten von Corona - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Erhalt der Jugendeinrichtung „Take Five“ sichern - Kenntnis genommen
+- TOP -: Erhalt der Einrichtung "Take Five" sichern - Kenntnis genommen
+- TOP 6.1.2: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP -: Bedarfssituation und Ausbaumaßnahmen im Offenen Ganztag an Kölner Grundschulen - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage ds Nippes Museum - zurückgestellt
+- TOP 6.2.2: Nachfrage zum (Inklusions-) Monitoring - Kenntnis genommen
+- TOP 6.2.3: Sexueller Missbrauch in Kitas und Schulen - zurückgestellt
+- TOP 6.2.4: Loverboys - zurückgestellt
+- TOP 6.2.5: Kitaplätze für Merkenich – Betreuung sicherstellen! - zurückgestellt
+- TOP 6.2.6: Neue Wohnsiedlungen in der Spielplatzplanung berücksichtigen - zurückgestellt
+- TOP 6.2.7: Coronatests für Mitarbeitende in Jugendeinrichtungen - Kenntnis genommen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Neuwahl des Jugendhilfeausschusses nach der Kommunalwahl am 13.09.2020 - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Tägerwechsel der Kindertageseinrichtung Dillendöppcher e.V., Bachstelzenweg 55, 50829 Köln - Kenntnis genommen
+- TOP 8.2.2: Jugendzentren Köln gGmbH, Jugendzentrum "Alte Schule Widdersdorf", hier: - Kenntnis genommen
+- TOP 8.2.3: Umsetzung des neuen Bundesteilhabegesetzes BTHG in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahresbericht 2019 – Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.3.2: Netzwerk gegen häusliche Gewalt – Statistik 2019 - Kenntnis genommen
+- TOP 8.3.3: Sicher Aufwachsen in Köln / Einheitliche Qualitätsstandards zum Kinderschutz in allen Einrichtungen der Kinder- und Jugendhilfe in Köln - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: 3.4. Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 Session-Nr.: 3737/2019 - Kenntnis genommen
+- TOP 8.4.2: Weltkindertag 2020 "Kinderrechte schaffen Zukunft" - Kenntnis genommen
+- TOP 8.4.3: Teilnahme an digitaler "gamescom" 2020 - Kenntnis genommen
+- TOP 8.4.4: AK Digitale Jugendarbeit - Kenntnis genommen
+- TOP 8.4.5: Ferien während der Corona-Pandemie - Kenntnis genommen
+- TOP 8.4.6: Sachstandsbericht Wasserspielplatz Innerer Grüngürtel in Köln-Neustadt/Nord - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Pegel 3/2020 - Kenntnis genommen
+- TOP 8.5.2: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 8.5.3: 29. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.4: Dezernat IV Berichtswesen - Teilbericht Jugendhilfeausschuss 2019 - Kenntnis genommen
+- TOP 8.5.5: 1. Monitoring - Bericht Übergang Schule – Beruf für die Stadt Köln, Jahresbericht 2019 - Kenntnis genommen
+- TOP 8.5.6: "Tag der Jugend im Rathaus" 2019/2020 - Kenntnis genommen
+- TOP 8.5.7: Inklusionsbericht 2019 - Kenntnis genommen
+- TOP 8.5.8: Kooperationen zwischen Offenen Ganztagsschulen und Sportvereinen - Kenntnis genommen
+- TOP 8.5.9: Neugestaltung des Spielplatzes Osloer Straße/Athener Ring in Köln-Chorweiler - Kenntnis genommen
+- TOP 8.5.10: ZMI-Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2019 und Bericht über das Kölner Sprachfest 2020 - Kenntnis genommen
