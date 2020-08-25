@@ -1,0 +1,55 @@
+# Ausschuss für Verkehr und Mobilität (31. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-08-25T18:00:00+02:00
+- Ende: 2020-08-25T20:55:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYR7CVFnDCdTFqNuE9ynqCU
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7270
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXVTBtBzfWt8aTSKtWRBxn4eL7u5-wR-LbQiTFDFPPMi/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_25.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ13ACRGVeJ7Duq0uY15ci0SYsFV62T_UyjiRgmVSD08/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_25.08.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 28.01.2020
+- TOP 2.: Radmasterplan - Vorstellung von Schwerpunktprojekt
+- TOP 3.: Errichtung von zwei Schnellbuslinien ab 12/2020 - (kein Text vorhanden)
+- TOP 4.: Widmung der Straße „Am Ringofen“ - (kein Text vorhanden)
+- TOP 5.: Anträge
+- TOP 6.: Mitteilungen
+- TOP 6.1: Mitteilungen über laufende Beschlüsse
+- TOP 6.2: Tischvorlage
+- TOP 6.3: Berliner Ring
+- TOP 6.4: Termine für Bürgerveranstaltungen
+- TOP 7.: Anfragen
+- TOP 7.1: Umsetzung des Parkraumkonzeptes Bezug: mündl. Antrag der Fraktionen von CDU und Grünen vom 25.05.2020 zur Vorlage 83/2020
+- TOP 7.2: Anwohnerbeschwerden
+- TOP 7.3: LKW in Brühl Ost
+- TOP 7.4: Parkplätze Kindergarten
+- TOP 7.5: Geschwindigkeit Liblarer Straße
+- TOP 7.6: Bürgersteig Fredenbruch
+- TOP 7.7: Fußweg von Vochemer Straße auf Fredenbruch
+- TOP 7.8: Kreuzung Vochemer/Servatius-und Berrenrather Straße
+- TOP 7.9: Markierungen Auguste-Viktoria-Straße
+- TOP 7.10: Parkplatz RWE
+- TOP 7.11: Geschwindigkeitsmessung Bonnstr./Lennéstraße
+- TOP 7.12: Nächtliche Rennen auf der Bonnstraße
+- TOP 7.13: Statistik Geschwindigkeitsmessungen
+- TOP 7.14: Liste der umbaubaren Bushaltestellen
+- TOP 7.15: LKW Beschilderung Schildgesstraße
+- TOP 7.16: Kreuzungsausbau Am Kreuz/Hauptstraße
+- TOP 7.17: Parkplatz Sportplatz Vochem
+- TOP 7.18: Reinigung Kierberger Straße
+- TOP 7.19: Schülerparkplatz Kierberg
+- TOP 7.20: Zugewachsenes VZ An der alten Zuckerfabrik/Lida-Gustava-Heymann-Straße
+- TOP 7.21: Bestuhlung der Gastronomie Kölnstraße/Uhlstraße
+- TOP 7.22: Aufstellfläche Linksabbieger Römerstraße
+- TOP 7.23: Garagenzufahrt Am Mühlenberg
+- TOP B): Nichtöffentliche Sitzung
+- TOP 8.: Bericht über die 154. Sitzung des Aufsichtsrates der REVG mbH am 25.06.2020
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen
