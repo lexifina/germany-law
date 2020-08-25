@@ -1,0 +1,7 @@
+# TOP E 4.2.: Europäische Charta zur Gleichstellung von Frauen und Männern, Beschluss vom 24.07.2019; Sitzungsvorlage Nr.: 14-20 / V 14161, Aktionsplan – Maßnahme 7.3: Erhöhung des Sicherheitsgefühls durch Optimierung der Beleuchtung des öffentlichen Raumes
+
+- Sitzung: BA 02 - Vollgremium (2020-08-25)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/879814
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/879814
