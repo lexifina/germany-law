@@ -1,0 +1,52 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-08-25T14:00:00+02:00
+- Ende: 2020-08-25T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5394
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5394
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183655.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183655.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00183655.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 37. Sitzung des Planungs- und Bauausschusses vom 19.02.2020- öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Planungs- und Bauausschuss
+- TOP 2.1: Europaplatz - Mobil Hub der Zukunft mg+ - Kenntnisnahme
+- TOP 2.1.1: Fraktionsantrag zur Vorlage 5374/IX: Europaplatz - Mobil Hub der Zukunft mg+ - Mit Stimmenmehrheit abgelehnt
+- TOP 2.2: Sachstandsbericht Entwicklung Nordpark - Kenntnisnahme
+- TOP 2.3: Jahresbericht zur Abwasserbeseitigung 2019 der NEW AG - Kenntnisnahme
+- TOP 2.4: Stabsstelle Strukturwandel im Dezernat Planen, Bauen, Mobilität, Umwelt - Organisation und Arbeitsprogramm - Kenntnisnahme
+- TOP 2.5: Kriterien zur Verplanung von Fördermitteln des Landes NRW für den Neubau von Mietwohnungen - künftiger Ablauf - Einstimmiger Beschluss
+- TOP 2.6: Aufstellung eines Bebauungsplanes mit Festsetzungen im Sinne des § 30 Baugesetzbuch (BauGB), Stadtbezirk Süd - Rheydt, Gebiet zwischen südlicher Marktstraße, Harmoniestraße, Marktstraße, Markt, Limitenstraße und Stresemannstraße - Mit Stimmenmehrheit beschlossen
+- TOP 2.6.1: Konzept zur Stärkung/Belebung der Rheydter Innenstadt/Bezugnahme BV 5372/IX - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.7: Aufstellung eines Bebauungsplanes mit Festsetzungen im Sinne des § 30 BauGB - Stadtbezirk Süd, Schrievers, Gebiet zwischen der Bachstraße, dem Botzkuhlenweg, dem städtischen Friedhof Rheydt und der Parkanlage an der Straße Morr - Mit Stimmenmehrheit beschlossen
+- TOP 2.8: Sachstandsbericht zur Entwicklung eines Wohnquartiers an der Preyerstraße - Kenntnisnahme
+- TOP 2.9: Bebauungskonzept MG-Croonsquartier (Stadtbezirk Nord - Gladbach, Gebiet zwischen Croonsallee, Yorckstraße, Kleiststraße und Steinmetzstraße) - Kenntnisnahme
+- TOP 2.10: 238. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach („Maurus-Ahn-Straße“) - Stadtbezirk Ost, Lürrip, Gebiet zwischen der Maurus-Ahn-Straße, Lürriper Straße und Korschenbroicher Straße - Mit Stimmenmehrheit beschlossen
+- TOP 2.11: Bebauungsplan Nr. 798/O („Maurus-Ahn-Straße“), Stadtbezirk Ost, Lürrip, Gebiet zwischen der Maurus-Ahn-Straße, Lürriper Straße und Korschenbroicher Straße - Mit Stimmenmehrheit beschlossen
+- TOP 2.12: 232. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach, „Seestadt mg+“, Stadtbezirk Ost - Lürrip, Gebiet südlich der Bahnlinie zwischen Breitenbachstraße, Kranzstraße und Lürriper Straße - Mit Stimmenmehrheit beschlossen
+- TOP 2.13: Bebauungsplan Nr. 793/O, „Seestadt mg+“, Stadtbezirk Ost, Lürrip, Gebiet südlich der Bahnlinie zwischen Breitenbachstraße, Kranzstraße und Lürriper Straße - Mit Stimmenmehrheit beschlossen
+- TOP 2.14: 228. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach („Bonnenbroicher Straße“) - Stadtbezirk Süd, Gebiet östlich der Dohler Straße zwischen der Eichenstraße und der Frankenstraße - Mit Stimmenmehrheit beschlossen
+- TOP 2.15: Bebauungsplan Nr. 786/S („Bonnenbroicher Straße“), Stadtbezirk Süd - Bonnenbroich-Geneicken, Gebiet östlich der Dohler Straße zwischen der Eichenstraße und der Frankenstraße - Mit Stimmenmehrheit beschlossen
+- TOP 2.16: Aufstellung eines Bebauungsplanes mit Festsetzung im Sinne des § 30 Baugesetzbuch (BauGB) - Stadtbezirk Süd, Odenkirchen West - "Südlicher Stapper Weg" - Einstimmiger Beschluss
+- TOP 2.17: Entwicklung eines Wohnquartiers und eines Vollsortimenters an der Hansastraße - Kenntnisnahme
+- TOP 2.18: Soziale Stadt Gladbach und Westend - Umgestaltung Hans-Jonas-Park - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.18.1: Fraktionsantrag zur Vorlage 5346/IX: Soziale Stadt Gladbach und Westend - Umgestaltung Hans-Jonas-Park - Mit Stimmenmehrheit abgelehnt
+- TOP 2.19: Soziale Stadt Gladbach und Westend - Umgestaltung Platz der Republik - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.20: Soziale Stadt Gladbach und Westend - Umsetzung Westend-Promenade - Einstimmiger Beschluss
+- TOP 2.21: Stadtumbaugebiet Rheindahlen-Mitte - Beschluss der Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss
+- TOP 2.22: Umgestaltung des Knotenpunktes Grevenbroicher Straße - Dohler Straße - Stiegerfeldstraße - In den nächsten Ratszug geschoben
+- TOP 2.23: Kreisverkehr Luisenstraße/ Speicker Straße - In den nächsten Ratszug geschoben
+- TOP 2.24: Endausbau Konradstraße - Kenntnisnahme
+- TOP 2.25: Einleitung eines Teileinziehungsverfahrens für einen Teilbereich der Abteistraße - Einstimmiger Beschluss
+- TOP 2.26: Beschilderung im Rahmen des Mindestabstand - Mit Stimmenmehrheit abgelehnt
+- TOP 2.27: Ökologisches Bewässerungskonzept für Mönchengladbach - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 2.28: Umwandlung der unteren Bismarckstraße – Reduzierung von Verkehrschaos durch Ausschluss des - Mit Stimmenmehrheit abgelehnt
+- TOP 2.29: Berichte über die Durchführung von Beschlüssen
+- TOP 2.30: Anfragen und Mitteilungen
