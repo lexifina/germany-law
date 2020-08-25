@@ -1,0 +1,79 @@
+# 45. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-25T15:37:00+02:00
+- Ende: 2020-08-25T20:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21721
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21721
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Bericht zum Kulturmarketing - Aktueller Stand
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Dringlichkeitsantrag von CDU und Bündnis 90 / Die Grünen; hier: Quartier am Hafen - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des Entlastungsbauwerks für das Baudenkmal Ulrepforte - ungeändert beschlossen
+- TOP 4.2: Neubau eines Brunnens am Neumarkt - Planungsbeschluss - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90 / Die Grünen zu TOP 4.2 Neubau eines Brunnens am Neumarkt - Planungsbeschluss - zurückgestellt
+- TOP 4.3: Clubkataster Köln - ungeändert beschlossen
+- TOP 4.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - zurückgestellt
+- TOP 4.5: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, hier: 1. Vorhaben 2020 - Barrierefreier Zugang Comedia Theater durch Anbau eines Aufzuges - geändert beschlossen
+- TOP 4.6: Zuschuss ZAMUS für technische Herrichtung von Räumen - ungeändert beschlossen
+- TOP 4.7: Rheinboulevard Deutz - Freilegung und Integration archäologische Funde - ungeändert beschlossen
+- TOP 4.8: Vergabe der Konzeptionsförderung in der Sparte Tanz, Haushaltsjahre 2021-2024 - zurückgestellt
+- TOP 4.9: Strukturförderung Kulturwerk des Bundesverbandes Bildender Künstlerinnen und Künstler (BBK Köln e.V.) für die Jahre 2021 - 2023 - ungeändert beschlossen
+- TOP 4.10: Zuschussgewährung für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.11: Beleuchtungsanlage und Blend-/Verschattungsschutz im Museum für Angewandte Kunst - ungeändert beschlossen
+- TOP 4.12: Konzept zur Vergabe der Stipendien ohne Altersbegrenzung (Künstler*innenförderung Bildende Kunst) ab 2020 - zurückgestellt
+- TOP 4.13: Schaffung von stadtplanerischen Voraussetzungen für einen Ankauf der Flurstücke 2045/39, 513 und 540 Flur 72 Gemarkung 054963 Ehrenfeld für die Entwicklung eines Kulturbausteins Helios - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Annahme einer Schenkung von Gemälden und Artefakten indigener Künsterinnen und Künstlern Australiens (Sammlung Klaus Kaufhold) für das Rautenstrauch-Joest-Museum - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Ergebnis Runder Tisch „Kulturbaustein Helios“: Abschlussdokumentation und Nutzungs- und Entwicklungskonzept der Initiative der Kulturschaffenden Helios - Kenntnis genommen
+- TOP 8.2: Erster Evaluationsbericht zum KEP - Kenntnis genommen
+- TOP 8.3: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 8.4: Aktualisierter Stand: Anträge und Bewilligungen "Notfallfonds zur Struktursicherung freier Kulturinstitutionen in Corona-bedingten Krisensituationen" - Kenntnis genommen
+- TOP -: Aktualisierung August 2020 - "Notfallfonds zur Struktursicherung freier Kulturinstitutionen in Corona-bedingten Krisensituationen" - Kenntnis genommen
+- TOP 8.5: Aktualisierter Stand: Wiedereröffnung der Museen, hier: Aktuelle Besucherzahlen nach der Corona-Krise - Kenntnis genommen
+- TOP -: Wiedereröffnung der Museen, hier: aktuelle Besucherzahlen Mai - Juli 2020 - Kenntnis genommen
+- TOP 8.6: Aktualisierter Stand: Umsetzung Notfallfonds zur Struktursicherung bei durch die Corona-Pandemie betroffenen Livemusikspielstätten - Kenntnis genommen
+- TOP 8.7: Vorstellung des Clubkatasters Köln - Kenntnis genommen
+- TOP 8.8: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Corona-Pandemie: Wirtschaftliche Auswirkungen auf die Veranstaltungs- und Eventbranche in Köln" (AN/0564/2020) - Kenntnis genommen
+- TOP 8.9: Ergebnis der städtischen Ausschreibung – Neue Leitung Veranstaltungs- und Ausstellungshalle im Kunsthaus Rhenania - Kenntnis genommen
+- TOP 8.10: Stellungnahme zum Dringlichkeitsantrag CDU, Bündnis 90/Die Grünen, FDP und GUT betr. "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" AN/0828/2020 - Kenntnis genommen
+- TOP 8.11: Gemeinsame Baumaßnahme in der Philharmonie und im Museum Ludwig - Kenntnis genommen
+- TOP 8.12: Präsentation und mögliche Rückführung des Vishnu-Kopfes aus dem Rautenstrauch-Joest-Museum - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 21. Juli 2020 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 03.08.2020 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 11. August 2020 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der schriftl. Anfrage AN/0184/2020 der Fraktion Bündnis 90/Die Grünen; hier: "Ökologische Zukunftsfähigkeit von Kunst - und Kulturproduktionen, -stätten in Köln" - Kenntnis genommen
+- TOP 10.2: Beantwortung der schriftl. Anfrage AN/0753/2020 der SPD-Fraktion; hier: Auswirkungen von COVID 19 auf die Spielzeit 2020/21 - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftl. Anfrage des Dr. Alexander Kierdorf, für die Denkmalpflege; hier: Tag des Offenen Denkmals 2020
+- TOP -: Beantwortung einer schriftlichen Anfrage der Denkmalpflege, Dr. Kierdorf; hier: Tag des offenen Denkmals 2020 - Kenntnis genommen
+- TOP 11.2: Schriftl. Anfrage des Dr. Alexander Kierdorf, für die Denkmalpflege; hier: Löschung von Objekten aus der Kölner Denkmalliste
+- TOP -: Beantwortung einer schriftlichen Anfrage der Denkmalpflege, Dr.Kierdorf; hier: Löschung von Objekten aus der Kölner Denkmalliste – AN/0831/2020 - Kenntnis genommen
+- TOP 11.3: Schriftl. Anfrage der FDP-Fraktion; hier: Interimslösung im Haus Sauer
+- TOP -: Beantwortung der schriftl. Anfrage AN/0954/2020 der FDP- Fraktion; hier: Interimslösung im Haus Sauer - Kenntnis genommen
+- TOP 11.4: Schrift. Anfrage der CDU-Fraktion; hier: Corona-Pandemie - Sachstand Fortführung des Notfallfonds Struktursicherung Livemusikstätten und Förderung durch Landes- und Bundesprogramme - Kenntnis genommen
+- TOP 11.5: Schriftl. Anfrage der FDP; hier: Sanierung des Römisch-Germanischen Museums - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündl. Anfrage Professor Schäfer: Situation der freien Mitarbeiter der Museumspädagogik
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4: Mündl. Anfrage Frau van Duiven; Absage Brückenmusik im Hohlkörper der Deutzer Brücke
