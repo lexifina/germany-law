@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-08-25T17:00:00+02:00
+- Ende: 2020-08-25T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19035
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19035
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen - oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384801.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen - oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384801.pdf
+- Wortprotokoll: Sitzungsunterlagen - oe http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384801.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 26. Mai 2020 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 23. Juni 2020 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Benennung der Planstraße (02142) in Deiker Höfe - einstimmig abgelehnt
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2020 (Liste B), Pflanz- und Pflegemaßnahmen Rathaus Kaiserswerth - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 9: Bauplanungsrechtliche Situation zur Erweiterung der Fliedner Fachhochschule, Kaiserswerth - beantwortet
+- TOP 10: Hupkonzert der Deutschen Bahn bei der Ortsdurchfahrt Angermund? - beantwortet
+- TOP -: Neue Anfragen
+- TOP 11: Denkmal und Skulpturengarten Hofanlage Alte Landstraße 223
+- TOP 12: Verkehrssituation auf dem Weg nach den Hingbenden - beantwortet
+- TOP 13: Angerausbau zwischen Mühle Wolff und Brücke Kellnerei - beantwortet
+- TOP 14: Verfügbarkeit von Löschwasser im Stadtbezirk 5 - beantwortet
+- TOP 15: Sachstand neue Anlagen zur PFT-Sanierung im Norden - beantwortet
+- TOP 16: Zustand der Holzsitzbänke auf den Fußgänger- und Fahrradwegen am Rhein, Bereich von Wittlaer bis nach Stockum/Rheinuferweg bis Rotterdamer Straße - beantwortet
+- TOP 17: Müllentsorgung rund um den östlichen Angermunder Baggersee - beantwortet
+- TOP 18: Fortsetzung des Anger-Ausbaus, Abschnitt II in Düsseldorf-Angermund in Fließrichtung oberhalb der "Mühle Wolff" - beantwortet
+- TOP 19: Verbesserung der Situation rund um den östlichen Angermunder Baggersee - beantwortet
+- TOP 20: Anträge
+- TOP 21: Grundstück Feuerwache Kaiserswerth für preisgünstigen Wohnraum nutzen - einstimmig beschlossen
+- TOP 22: Die Situation an den Angermunder Baggerseen wird immer unerträglicher. Jetzt handeln! - mehrheitlich beschlossen
+- TOP 23: Maßnahmen zur nachhaltigen Verkehrssicherheit im Teilbereich des Heinrich-Walbröhl-Weg - einstimmig beschlossen
+- TOP 24: Ersatzbeschaffung für ein Spielgerät im Lantz'schen Park - einstimmig beschlossen
+- TOP 25: Attraktivere Spielplätze für Wittlaer - einstimmig beschlossen
+- TOP 26: Zuschuss für Vereine zur Bewältigung der Folgen der Corona-Pandemie - abweichend beschlossen
+- TOP -: Informationsvorlage
+- TOP 27: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2020 - zur Kenntnis genommen
+- TOP 28: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 29: Verschiedenes
+- TOP 30: Pilotprojekt zur temporären und klimaangepassten Platzgestaltung am Beispiel des Kaiserswerther Markts - Mündlicher Bericht - zur Kenntnis genommen
