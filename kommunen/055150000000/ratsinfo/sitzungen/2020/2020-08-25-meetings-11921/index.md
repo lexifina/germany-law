@@ -1,0 +1,71 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-25T19:00:00+02:00
+- Ende: 2020-08-25T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11921
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11921
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00469374.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge/Anfragen und Eingaben
+- TOP 4.1: Stellungnahmen
+- TOP 4.1.1: Prüfauftrag v. 18.06.2020 "Markweg als Fahrradstraße"
+- TOP 4.1.2: Beschluss der KIB v. 04.06.2020 "Barrierefreie Toilettenanlage an der Fernbushaltestelle"
+- TOP 4.2: Bekanntgabe
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Denkmalförderung Land Nordrhein-Westfalen, Bund und Deutsche Stiftung Denkmalschutz 2020 - zur Kenntnis genommen
+- TOP 5.2: Stadtteilentwicklungskonzept Angelmodde - einstimmig beschlossen
+- TOP 5.3: Innenstadt stärken - Neue Städtebauförderprogramme nutzen - einstimmig beschlossen
+- TOP 5.4: Förderung von Stadterneuerungsprojekten - Sachstand 2020 und Anträge 2021 - einstimmig beschlossen
+- TOP 5.5: Auftragsvergabe Geschäftsstelle des Netzwerkes Innenstadt NRW - einstimmig beschlossen
+- TOP 6: Stadtplanung
+- TOP 6.1: Veränderungssperre Nr. 112, Erste Verlängerung - einstimmig beschlossen
+- TOP 6.2: Bebauungsplan Nr. 541, Teilbereich A - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.3: Entwicklung neuer urbaner Stadtquartiere südlich des Dortmund-Ems-Kanals, beiderseits des Albersloher Weges - mehrheitlich geändert beschlossen
+- TOP 6.4: Entwicklung neuer urbaner Stadtquartiere - 110. Änderung FNP - Bebauungsplan Nr. 618 - mehrheitlich beschlossen
+- TOP 6.5: Entwicklung neuer urbaner Stadtquartiere - 110. Änderung FNP - Bebauungsplan Nr. 618 - mehrheitlich beschlossen
+- TOP 6.6: Entwicklung eines Modellquartiers für neues urbanes Wohnen, Arbeiten und Technologie westlich der Steinfurter Straße - mehrheitlich geändert beschlossen
+- TOP 6.7: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - mehrheitlich geändert beschlossen
+- TOP 6.8: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 147 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.9: 4. Änderung des Bebauungsplans Nr. 144 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.10: Bebauungsplan Nr. 590 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.11: Bebauungsplan Nr. 562 - Entwurf zur Offenlegung - zur Kenntnis genommen
+- TOP 6.12: Konzept zur Neugestaltung des zentralen Bereichs der Sentruper Höhe (Waldeyerstraße) - einstimmig geändert beschlossen
+- TOP 6.13: Konzept zur Gestaltung des Böckmannplatzes in Sprakel - einstimmig beschlossen
+- TOP 6.14: 43. Änderung des FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 604 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.15: 43. Änderung des FNP - Bebauungsplan Nr. 604 - Entwürfe zur Offenlegung - zur Kenntnis genommen
+- TOP 6.16: 1. FNP 2. B-Plan - zur Kenntnis genommen
+- TOP 6.17: Bebauungsplan Nr. 617 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.18: LeosGate - einstimmig beschlossen
+- TOP 6.19: Information der politischen Gremien zu Bauleitplanverfahren im Falle einer notwendigen erneuten öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 7: Verkehr
+- TOP 7.1: Hiltrup On Demand / LOOP - aktueller Sachstand
+- TOP 7.2: Bestandsaufnahme und Handlungskonzept "Mobilität im Alter stärken - selbstverständlich selbständig" - einstimmig geändert beschlossen
+- TOP 7.3: Umgestaltung der Bremer Straße zwischen Hamburger Straße und Schillerstraße im Zuge der Projektentwicklung „Hansator" - mehrheitlich beschlossen
+- TOP 7.4: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - mehrheitlich beschlossen
+- TOP 7.5: Smart City: „Leezenflow: Aus Münster für Münster“ Grüne Welle für den Radverkehr - einstimmig beschlossen
+- TOP 7.6: Veloroute Münster-Altenberge: Routenführung - einstimmig beschlossen
+- TOP 7.7: Veloroute Münster-Senden über Albachten: Routenführung - einstimmig beschlossen
+- TOP 7.8: Veloroute Münster-Ascheberg: Routenführung - einstimmig beschlossen
+- TOP 7.9: Veloroute Münster-Everswinkel: Routenführung - einstimmig beschlossen
+- TOP 7.10: Verbreiterung des gemeinsamen Geh-Radweges Loddenheide inkl. Planung der Eulerstraße im Abschnitt 3 der Kanalpromenade: - einstimmig beschlossen
+- TOP 7.11: Weseler Straße – Verbesserung der Radverkehrsführung zwischen Heroldstraße und Untietheide - einstimmig beschlossen
+- TOP 7.12: Fahrplanmaßnahmen im Stadtbusnetz zum Herbst 2020 - Taktverdichtungen - einstimmig beschlossen
+- TOP 7.13: Unfallhäufungsstelle Dingbängerweg / Sentruper Straße - neue Lichtsignalanlage Baubeschluss der Unfallkommission - zur Kenntnis genommen
+- TOP 7.14: Querung des Dingbängerweges in Höhe des THC Münster e. V. - einstimmig beschlossen
+- TOP 7.15: Sicherstellung der verkehrssicheren Erschließungsfunktion (Grundausbau) der maßnahmebedingten Anschlussbereiche des neuen York-Quartiers an den Albersloher Weg - einstimmig beschlossen
+- TOP 7.16: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster" - von der Tagesordnung abgesetzt
+- TOP 8: Bauvorhaben
+- TOP 8.1: Umbau und Nutzungsänderung ehemaliges Hauptzollamt zu einer Kindertagesstätte (Sonnenstr. 85-89)
+- TOP 8.2: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster. - einstimmig beschlossen
+- TOP 9: Verschiedenes
