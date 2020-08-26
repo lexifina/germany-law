@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreisausschusses
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2020-08-26T15:00:00+02:00
+- Ende: 2020-08-26T18:10:00+02:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/2
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2824
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2824
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreisausschuss 26.08.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00062223.pdf
+- Ergebnisprotokoll: Einladung Kreisausschuss 26.08.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00062223.pdf
+- Wortprotokoll: Einladung Kreisausschuss 26.08.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00062223.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Bestätigung von Beschlüssen der Ausschüsse
+- TOP 2.1: Sozial- und Gesundheitsausschuss am 15.06.2020 - einstimmig beschlossen
+- TOP 2.2: Schulausschuss am 18.06.2020 - einstimmig beschlossen
+- TOP 2.2.1: Dringlichkeitsbeschluss - einstimmig beschlossen
+- TOP 2.3: Jugendhilfeausschuss vom 23.06.2020 - einstimmig beschlossen
+- TOP 2.4: Kulturausschuss am 25.06.2020 - einstimmig beschlossen
+- TOP 3: Kenntnisnahme von Niederschriften
+- TOP 4: Strukturwandel, Braunkohlenplanung und Energiewirtschaft - zur Kenntnis genommen
+- TOP 5: Regionalarbeit - zur Kenntnis genommen
+- TOP 6: Wirtschafts- und Beschäftigungsförderung (Stand: August 2020) - zur Kenntnis genommen
+- TOP 7: Entwicklung der Kosten der Unterkunft und der Bedarfsgemeinschaften - zur Kenntnis genommen
+- TOP 8: Bericht zur Flüchtlingssituation - zur Kenntnis genommen
+- TOP 9: COVID-19: Aktuelle Situation im Rhein-Kreis Neuss
+- TOP 10: Anträge
+- TOP 10.1: Antrag der Kreistagsfraktion UWG/ Freie Wählergemeinschaft RKN/Die Aktive vom 16.08.2020 zum Thema " Konzept der Landesregierung für freiwilligen Corona-Test in Schulen und Kindergärten" - mehrheitlich abgelehnt
+- TOP 10.2: Antrag der Kreistagsfraktion UWG/ Freie Wählergemeinschaft RKN/Die Aktive vom 16.08.2020 zum Thema „Wohnungsbau" - mehrheitlich abgelehnt
+- TOP 10.3: Antrag der Kreistagsfraktion UWG/ Freie Wählergemeinschaft RKN/Die Aktive vom 16.08.2020 zum Thema „Planfeststellungsverfahren zum Konverterstandort Osterath/ Artenschutzrechtliches Gutachten" - mehrheitlich abgelehnt
+- TOP 11: Mitteilungen
+- TOP 11.1: Antwort der Landesregierung zur Personalsituation im Gesundheitsamtes des Rhein-Kreises Neuss
+- TOP 11.2: Machbarkeitsstudie zum Ausbau eines S-Bahn-Netzes Rheinisches Revier, Schreiben der Nahverkehr Rheinland GmbH
+- TOP 11.3: Baustellenfahrplan des RE 6 (RRX)
+- TOP 11.4: Förderaufruf für das Sonderprogramm Erhaltungsinvestitionen kommunale Verkehrsinfrastruktur Straßen und Radwege
+- TOP 12: Anfragen
+- TOP 12.1: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 21.07.2020 zum Thema "Kosten der Anschlussstelle Delrath"
+- TOP 12.1.1: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 25.08.2020 zum Thema "Anschlussstelle Delrath"
+- TOP 12.2: Anfrage der SPD-Kreistagsfraktion vom 01.08.2020 zum Thema "Unterstützung von Eltern in der Corona-Krise"
+- TOP 12.3: Anfrage der Kreistagsfraktionen CDU und FDP vom 14.08.2020 zum Thema "Digitalisierungspotenziale Straßenverkehrsamt"
+- TOP 12.4: Anfrage der SPD-Kreistagsfraktion vom 17.08.2020 zum Thema "Kreiswohnungsgesellschaft"
+- TOP 12.5: Anfrage der SPD-Kreistagsfraktion vom 17.08.2020 zum Thema "Regio-Bahn S28"
+- TOP 12.6: Anfrage der SPD-Kreistagsfraktion vom 18.08.2020 zum Thema "Strukturwandel im Rheinischen Revier und im Rhein-Kreis Neuss"
+- TOP 12.7: Anfrage der SPD-Kreistagsfraktion vom 18.08.2020 zum Thema " Sachstand Revier S-Bahn"
+- TOP 12.8: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 19.08.2020 zum Thema "Gehölzschnitt während der Brutzeit"
+- TOP 12.9: Anfrage der SPD Kreistagsfraktion vom 24.08.2020 zum Thema: " SOS-Melder für Rettungskräfte"
