@@ -1,0 +1,57 @@
+# Rat (71. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-08-26T18:00:00+02:00
+- Ende: 2020-08-26T21:17:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRJ3kEx22qftMH3_nn5aCXc
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4468
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQlhu8fVDRLrKL8kLGCr_u7RVIah8mIr13Z67X0WRVbw/Bekanntmachung_Rat_26.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQsCv9KIeAhYGbh6FvDl_h9HV3UXHr-1caivLzVya5Ap/Oeffentliche_Niederschrift_Rat_26.08.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Alter katholischer Friedhof (Einwohnerfrage von Manfred Haupt)
+- TOP 2.2: 30er-Zone im Bereich Schillerstraße (Einwohnerfrage von Martha Bösing)
+- TOP 3.: Niederschrift vom 24.06.2020
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion „DIE LINKE“ vom 03.07.2020; Sozialwohnungen und bezahlbarer Wohnraum in Gronau - 14 Jastimmen, 22 Neinstimmen, 0 Enthaltungen
+- TOP 4.2: Antrag der SPD-Fraktion vom 07.08.2020; Nachbarschaftsprojekt „de Poal“ – Wohnen an der grünen Grenze - 35 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 4.3: Antrag der UWG-Fraktion vom 16.08.2020; Citycard Gronau und Epe – 100% lokal - Einstimmig, 0 Enthaltungen
+- TOP 4.4: Antrag der UWG-Fraktion vom 16.08.2020; Gigabitcity Gronau goes 3D - Einstimmig, 0 Enthaltungen
+- TOP 5.: Tablet Einsatz und IT Support Unterstützung an den Schulen - Einstimmig, 0 Enthaltungen
+- TOP 6.: 104. Änderung des Flächennutzungsplans für den Bereich "Sportgebiet Bülten", Stadtteil Epe Bebauungsplan Nr. 242 "Sportgebiet Bülten", Stadtteil Epe Aufstellungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 7.: 10+1 Bäume für die Opfer des NSU - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2019 Schlussbesprechung und Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Kapitalerhöhung zugunsten der Kulturbüro Gronau GmbH - Einstimmig, 2 Enthaltungen
+- TOP 10.: Kapitalerhöhung zugunsten der rock'n'popmuseum GmbH - Einstimmig, 1 Enthaltungen
+- TOP 11.: Sachstandsbericht der Verwaltung zur Corona-Pandemie (Stand 19.08.2020)
+- TOP 12.: Neubau einer Sporthalle durch die Diakonische Stiftung Wittekindshof - Einstimmig, 0 Enthaltungen
+- TOP 13.: Antragstellung zur Aufnahme von Sporthallen in das Förderprogramm "Investitionspakt zur Förderung von Sportstätten des Landes NRW 2020 und 2021" - Einstimmig, 0 Enthaltungen
+- TOP 14.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2019 - Einstimmig, 1 Enthaltungen
+- TOP 15.: Budgetbericht für das II. Quartal 2020
+- TOP 16.: Änderung der Dienstanweisung für die Finanzbuchhaltung
+- TOP 17.: Neufassung der Rechnungsprüfungsordnung - Einstimmig, 0 Enthaltungen
+- TOP 18.: Entsendung von VertreterInnen örtlicher Schulen in den Schulausschuss - Einstimmig, 0 Enthaltungen
+- TOP 19.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 20.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Schriftliche Anfrage von vier Ratsmitgliedern zur Chance
+- TOP 21.2: Kommunal- und Integrationsratswahlen
+- TOP 21.3: VgV-Verfahren für Architektenleistung für neuen Grundschulstandort
+- TOP 22.: Anfragen
+- TOP 22.1: Illegale Müllablagerungen (Anfrage von RM Strestik und RM Doetkotte)
+- TOP 22.2: Riekenmaateweg (Anfrage von RM Doetkotte und RM Krefter)
+- TOP 22.3: Hygienemaßnahmen in Wahllokalen (Anfrage von RM Hübler und 3. Stellv. BM Tegetmeyer)
+- TOP 22.4: Fördermittel für das Sportgebiet "Bülten" (Anfrage von 1. Stellv. BM Post)
+- TOP 22.5: Monitoring im Kavernenfeld (Anfrage von RM Krefter)
+- TOP 22.6: Chance (Anfrage von RM Schwartze)
+- TOP 22.7: Ausgrabungen Hertie-Areal (Anfrage von RM Dr. Breuer)
+- TOP 22.8: Wahlergebnisse (Anfrage von RM Buchholz)
+- TOP 22.9: Verpflegung in Ratssitzungen (Anfrage von RM Buchholz)
