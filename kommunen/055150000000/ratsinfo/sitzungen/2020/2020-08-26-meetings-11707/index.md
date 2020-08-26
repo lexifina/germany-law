@@ -1,0 +1,121 @@
+# 50. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-08-26T17:08:00+02:00
+- Ende: 2020-08-26T23:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11707
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11707
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00469499.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Bestellung des Abschlussprüfers für den Jahresabschluss 2020 der KonvOY GmbH - einstimmig beschlossen
+- TOP 3: Beschwerde nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 4: Jahresabschlüsse von Gesellschaften
+- TOP 4.1: Jahresabschluss 2019 der Theaterhaus Pumpenhaus gGmbH - mehrheitlich beschlossen
+- TOP 4.2: Jahresabschluss 2019 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 4.3: Jahresabschluss 2019 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2019 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 4.5: Jahresabschluss 2019 und Vorabgewinnausschüttung 2020 der Wohn+Stadtbau GmbH (W+S) - mehrheitlich beschlossen
+- TOP 5: Erwerb eines Geschäftsanteils der Kraftwerksschule e.V. (KWS) durch die Stadtwerke Münster GmbH nach Rechtsformwechsel in eine eingetragene Genossenschaft - einstimmig beschlossen
+- TOP 6: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2020) - mehrheitlich beschlossen
+- TOP 7: Anträge an den Rat: A-R/0031/2020 - Umgang mit Post EEG-Anlagen bei den Stadtwerken Münster, A-R/0033/2020 - Baldmöglichster Ausstieg aus dem Bezug von Fracking-Gas - mehrheitlich beschlossen
+- TOP 8: Förderung von Stadterneuerungsprojekten - Sachstand 2020 und Anträge 2021 - einstimmig beschlossen
+- TOP 9: Verbreiterung des gemeinsamen Geh-Radweges Loddenheide inkl. Planung der Eulerstraße im Abschnitt 3 der Kanalpromenade: - einstimmig beschlossen
+- TOP 10: Querung des Dingbängerweges in Höhe des THC Münster e. V. - einstimmig beschlossen
+- TOP 11: Smart City: „Leezenflow: Aus Münster für Münster“ Grüne Welle für den Radverkehr - einstimmig beschlossen
+- TOP 12: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster" - von der Tagesordnung abgesetzt
+- TOP 13: Einrichtung einer Kommission zur Förderung der Umsetzung der Kinderrechte in der Stadt Münster - einstimmig beschlossen
+- TOP 14: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0010/2020: Münster tritt dem Globalen Netzwerk der WHO für altersfreundliche Städte und Gemeinden bei - mehrheitlich geändert beschlossen
+- TOP 15: Errichtung von zwei PV-Anlagen auf den Hallendächern der MBA am Entsorgungszentrum Münster - einstimmig beschlossen
+- TOP 15.1: Errichtung von zwei PV-Anlagen auf den Hallendächern der MBA am Entsorgungszentrum Münster
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 16: Überörtliche Prüfung 2019 durch die Gemeindeprüfungsanstalt NRW (gpaNRW) - Stellungnahme zu den Feststellungen und Empfehlungen - einstimmig beschlossen
+- TOP 17: Bedarfsbeschluss: Zum Raumprogramm des neu zu errichtenden und multifunktionalen Stadtteilhauses am Hamannplatz in Coerde - einstimmig beschlossen
+- TOP 18: Errichtungsbeschluss zur Anmietung einer Lagerhalle am Lütkenbecker Weg 10 für die anteilige Nutzung durch die Feuerwehr. - einstimmig beschlossen
+- TOP 19: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster. - einstimmig beschlossen
+- TOP 20: Moderne Verwaltung, moderne Arbeitsformen - einstimmig beschlossen
+- TOP 21: Überplanmäßige Mittelbereitstellung zur Durchführung einer möglichen Stichwahl zur Wahl der Oberbürgermeisterin/ des Oberbürgermeisters am 27.09.2020 - einstimmig beschlossen
+- TOP 22: Berichtspflicht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 23: Jahresabschluss 2019 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 24: Über- und außerplanmäßige Aufwendungen und auszahlungen im 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 25: Entwicklung eines Modellquartiers für neues urbanes Wohnen, Arbeiten und Technologie westlich der Steinfurter Straße - ohne Beschlussfassung geschoben
+- TOP 26: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2019 - ohne Beschlussfassung geschoben
+- TOP 27: Erhalt des touristischen Angebots der Stadtführungen - einstimmig beschlossen
+- TOP 28: Entwicklung eines neuen urbanen Stadtquartiers für Wissenschaft und Wohnen westlich der Busso-Peus-Straße (Zukunft der Wissenschaftsstadt Münster) - ohne Beschlussfassung geschoben
+- TOP 29: Entwicklung neuer urbaner Stadtquartiere südlich des Dortmund-Ems-Kanals, beiderseits des Albersloher Weges - ohne Beschlussfassung geschoben
+- TOP 30: Auftragsvergabe Geschäftsstelle des Netzwerkes Innenstadt NRW - einstimmig beschlossen
+- TOP 31: Innenstadt stärken - Neue Städtebauförderprogramme nutzen - einstimmig beschlossen
+- TOP 32: Fortführung des Tiefbau Infrastruktur Management Münster – TIMM - einstimmig beschlossen
+- TOP 33: Fahrplanmaßnahmen im Stadtbusnetz zum Herbst 2020 - einstimmig beschlossen
+- TOP 34: Erweiterung der Hermannschule, Dahlweg 66, 48153 Münster - einstimmig beschlossen
+- TOP 34.1: Erweiterung der Hermannschule, Dahlweg 66, 48153 Münster
+- TOP 35: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge - einstimmig beschlossen
+- TOP 35.1: Zeitlich begrenzte Reduzierung der Aufnahmekapazität der Realschule im Kreuzviertel von vier auf drei Züge
+- TOP 36: Digitalpakt II: Umsetzung der Förderrichtlinien für die Anschaffung von digitalen Endgeräten für Schülerinnen und Schüler zum Ausgleich sozialer Ungleichgewichte sowie für Lehrkräfte - einstimmig beschlossen
+- TOP 37: Erweiterung der Peter-Wust-Schule, Dingbängerweg 80, 48163 Münster - einstimmig beschlossen
+- TOP 37.1: Erweiterung der Peter-Wust-Schule, Dingbängerweg 80, 48163 Münster
+- TOP 38: Neubau der Melanchthonschule, Königsberger Straße 91, 48157 Münster - einstimmig beschlossen
+- TOP 38.1: Neubau der Melanchthonschule, Königsberger Straße 91, 48157 Münster
+- TOP 39: Neubau der Matthias-Claudius-Schule Handorf, Drostestraße 7, 48157 Münster - einstimmig beschlossen
+- TOP 39.1: Neubau der Matthias-Claudius-Schule Handorf, Drostestraße 7, 48157 Münster
+- TOP 40: Erweiterung des Schulzentrums Hiltrup, Westfalenstraße 199, 48165 Münster - einstimmig beschlossen
+- TOP 40.1: Erweiterung des Schulzentrums Hiltrup, Westfalenstraße 199, 48165 Münster
+- TOP 41: Übergabe der Trägerschaft der Berufsfachschule für pharmazeutisch-technische Assistenten (PTA-Schule) - einstimmig beschlossen
+- TOP 42: Bauliche Erweiterung der Margaretenschule zur 3-Zügigkeit - einstimmig beschlossen
+- TOP 42.1: Bauliche Erweiterung der Margaretenschule zur 3-Zügigkeit
+- TOP 43: Kindertagesbetreuungsbericht 2020 - ohne Beschlussfassung geschoben
+- TOP 44: Überleitung der Offenen Ganztagsschulen in die Trägerschaft der freien Jugendhilfe - ohne Beschlussfassung geschoben
+- TOP 45: Zuschüsse zur Flexibilisierung der Betreuungszeiten nach § 48 Kinderbildungsgesetz ab dem 01.08.2020 - einstimmig beschlossen
+- TOP 46: Landeszuschuss für Kinder in Kindertagespflege und Landesförderung der Fachberatung gem. novelliertem Kinderbildungsgesetz NRW (KiBiz) ab dem Kitajahr 2020/2021 - einstimmig beschlossen
+- TOP 47: Freiwillige Zuschüsse zu den Betriebskosten - Anpassung der Trägeranteilsystematik im Rahmen der Novellierung des Kinderbildungsgesetzes (KiBiz) NRW ab dem Kindergartenjahr 2020/2021 - einstimmig beschlossen
+- TOP 48: Kofinanzierung zu den Bundesmitteln des Aktionsprogrammes Mehrgenerationenhäuser für den Träger MuM- Mehrgenerationenhaus und Mütterzentrum e. V. - einstimmig beschlossen
+- TOP 49: Errichtungsbeschlüsse von Kindertageseinrichtungen
+- TOP 49.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung südlich Langebusch im Quartier Moldrickx in Kinderhaus - ohne Beschlussfassung geschoben
+- TOP 49.2: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Burgwall in Münster-Hiltrup - ohne Beschlussfassung geschoben
+- TOP 50: Änderung der Satzung für die Wahl des Jugendrates der Stadt Münster (Wahlordnung Jugendrat) - einstimmig beschlossen
+- TOP 51: Erhöhung des städtischen Zuschusses an den Verein Indro e.V. aufgrund der räumlichen Erweiterung am Bremer Platz 16 - ohne Beschlussfassung geschoben
+- TOP 52: Grundsatzbeschluss zur Errichtung der Dreifachsporthalle Davertschule Amelsbüren - ohne Beschlussfassung geschoben
+- TOP 52.1: Grundsatzbeschluss zur Errichtung der Dreifachsporthalle Davertschule Amelsbüren
+- TOP 53: Kommunale Sportförderung - einstimmig beschlossen
+- TOP 53.1: Kommunale Sportförderung
+- TOP 54: Sportförderrichtlinie der Stadt Münster, hier: Neufassung der Richtlinie mit Gültigkeit zum 01.01.2021 - einstimmig beschlossen
+- TOP 54.1: Sportförderrichtlinie der Stadt Münster, hier: Neufassung der Richtlinie mit Gültigkeit zum 01.01.2021
+- TOP 55: Bedarf zur Unterbringung von Sportgeräten - einstimmig beschlossen
+- TOP 56: Die Arbeit der im Corona-Krisenstab vertretenen Ämter zur Gefahrenabwehr und Infektionsbekämpfung im Rahmen der Corona-Pandemie in Münster - zur Kenntnis genommen
+- TOP 57: Errichtungsbeschluss zur Schaffung bzw. Erweiterung von Arbeits- und Büroräumen am Theater Münster - ohne Beschlussfassung geschoben
+- TOP 58: Ehrenamt würdigen – Weiterführung der Ehrenamtskarte - einstimmig beschlossen
+- TOP 59: Feststellung der Jahresabschlüsse 2019 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 60: Bestandsaufnahme und Handlungskonzept "Mobilität im Alter stärken - selbstverständlich selbständig" - ohne Beschlussfassung geschoben
+- TOP 60.1: Bestandsaufnahme und Handlungskonzept "Mobilität im Alter stärken - selbstverständlich selbständig"
+- TOP 61: Kommunaler Pflegebedarfsplan für Münster 2020 - 2023 - ohne Beschlussfassung geschoben
+- TOP 62: MuM-Mehrgenerationenhaus und Mütterzentrum e. V.: Finanzielle Absicherung der Arbeit in den Monaten Januar bis April 2021 - einstimmig beschlossen
+- TOP 63: Anmietung von Lagerfläche am Lütkenbecker Weg 10 zur anteiligen Nutzung durch das Sozialamt - einstimmig beschlossen
+- TOP 64: Neubau eines Feuerwehrhauses für den Löschzug Sprakel der Freiwilligen Feuerwehr, - einstimmig beschlossen
+- TOP 65: Überarbeitung der Gebäudeleitlinien: Nachhaltigkeit und Klimaneutralität 2030 für - ohne Beschlussfassung geschoben
+- TOP 66: Offenlegung Naturdenkmalverordnung - einstimmig beschlossen
+- TOP 67: Evaluation zur Einführung der Geschwindigkeitsreduzierung Tempo 30 auf ausgewählten Hauptverkehrsstraßen im Innenstadtbereich - ohne Beschlussfassung geschoben
+- TOP 68: Bericht zum Umsetzungstand von Maßnahmen und Projekten für die angestrebte Klimaneutralität der Stadt Münster 2030 - ohne Beschlussfassung geschoben
+- TOP 69: Änderung der Richtlinien zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - ohne Beschlussfassung geschoben
+- TOP 70: Bauleitplanung
+- TOP 70.1: Stadtbezirk Mitte
+- TOP 70.1.1: Bebauungsplan Nr. 541, Teilbereich A - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 70.1.2: Veränderungssperre Nr. 112, Erste Verlängerung - einstimmig beschlossen
+- TOP 70.2: Stadtbezirk West
+- TOP 70.2.1: 4. Änderung des Bebauungsplans Nr. 144 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 70.2.2: Bebauungsplan Nr. 617 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 70.2.3: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 147 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 70.2.4: LeosGate - einstimmig beschlossen
+- TOP 70.3: Stadtbezirk Nord
+- TOP 70.3.1: Bebauungsplan Nr. 590 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 70.4: Stadtbezirk Südost
+- TOP 70.4.1: 43. Änderung des FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 604 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 70.4.2: Entwicklung neuer urbaner Stadtquartiere - 110. Änderung FNP - Bebauungsplan Nr. 618 - ohne Beschlussfassung geschoben
+- TOP 70.4.2.1: Entwicklung neuer urbaner Stadtquartiere - 110. Änderung FNP - Bebauungsplan Nr. 618
+- TOP 71: Verschiedenes
