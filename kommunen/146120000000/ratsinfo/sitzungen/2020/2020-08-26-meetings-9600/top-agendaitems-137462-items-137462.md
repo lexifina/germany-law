@@ -1,0 +1,6 @@
+# TOP -: Wahrung des Geheimwettbewerbs bei Vergabevorlagen
+
+- Sitzung: 15. Sitzung des Ausschusses für Wirtschaftsförderung (Sondersitzung) (2020-08-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/137462
