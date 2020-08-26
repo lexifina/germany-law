@@ -1,0 +1,8 @@
+# TOP 6: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2020)
+
+- Sitzung: 50. Sitzung (2020-08-26)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/204688
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/73494
