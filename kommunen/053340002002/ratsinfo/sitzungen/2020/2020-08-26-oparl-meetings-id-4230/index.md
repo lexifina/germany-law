@@ -1,0 +1,70 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-08-26T17:00:00+02:00
+- Ende: 2020-08-26T20:15:00+02:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4230
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4230
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 17.06.2020 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Änderung Nr. 143 des Flächennutzungsplanes 1980 Bebauungsplan Nr. 977 - Kullenhofstraße / Neuenhofer Weg -hier: Änderungsbeschluss / Satzungsbeschluss - geändert beschlossen
+- TOP 5: Bebauungsplan Nr. 981 - Goffartstraße/Bergische Gasse - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 6: Neuaufstellung des Flächennutzungsplans Aachen*2030 der Stadt Aachen- Abwägung zum Ergebnis der frühzeitigen Beteiligung- Abwägung zum Ergebnis der Offenlagen- Feststellungsbeschluss - geändert beschlossen
+- TOP 7: Altstadtquartier Büchel - Sachstand und weiteres Vorgehen, Bewerbung für das Förderprogramm "Nationale Projekte des Städtebaus" - ungeändert beschlossen
+- TOP 8: Bebauungsplan -Antoniusstraße/Mefferdatisstraße-;hier: Neufassung der städtebaulichen Zielsetzung - ungeändert beschlossen
+- TOP 9: Beschluss über eine Veränderungssperre für das Grundstück Antoniusstraße 30, Gemarkung Aachen, Flur 83, Flurstück 1459, im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 10: 12. Nachtrag zum Taxentarif für die Stadt Aachen - ungeändert beschlossen
+- TOP 11: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Haaren für den Bereich Germanusstraße und Alt-Haarener Straße - ungeändert beschlossen
+- TOP 12: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung Oberflächenentwässerung der Erschließungsanlage Jakobstraße von Kockerellstraße bis Judengasse (Fußgängerstraße) - ungeändert beschlossen
+- TOP 13: Strukturwandel im Rheinischen Revierhier: Stellungnahme der Stadt Aachen zum Wirtschafts- und Strukturprogramm WSP 1.0 - ungeändert beschlossen
+- TOP 14: Finanzierung für die KGS Bildchen - ungeändert beschlossen
+- TOP 15: Ausschreibung eines Grundstücks in Aachen, Eilendorf, Kaiserstraße, als Konzeptvergabe zur Errichtung einer Kita und Wohnungsbau - geändert beschlossen
+- TOP 16: Klimanotstand - Darstellung der Klimarelevanz in Beschlussvorlagen - ungeändert beschlossen
+- TOP 17: Integriertes Klimaschutzkonzept der Stadt Aachen - ungeändert beschlossen
+- TOP 18: Integriertes Klimaschutzkonzept der Stadt Aachen - Projektvorbereitung und Mittelverwendung - geändert beschlossen
+- TOP 19: Öffentlich-rechtliche Vereinbarung zur Betreuung der Waldflächen der Stadt Alsdorf - ungeändert beschlossen
+- TOP 20: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Energieberatung in Aachen für die Jahre 2021 bis 2023 (2025) - ungeändert beschlossen
+- TOP 21: Jahresabschluss für den Eigenbetrieb Kultur für das Jahr 2019 - ungeändert beschlossen
+- TOP 22: Stelleneinrichtung von 3,0 Stellen im Fachbereich Wohnen, Soziales und Integration, Abteilung „Service Wohnen“ (FB 56/400) für die Sachbearbeitung „Wohngeld“ - ungeändert beschlossen
+- TOP 23: Fortführung des Projekts „Demokratie leben!“ der Volkshochschule Aachen - ungeändert beschlossen
+- TOP 24: Beauftragungen der Regionetz/Stawag für Arbeiten an der öffentl. Beleuchtung und an Kanalanschlussleitungenhier: Einbindung des Fachbereiches Rechnungsprüfung und der Fraktionen - ungeändert beschlossen
+- TOP 25: Schenkung an die städtische Kindertageseinrichtung Alfons-Gerson-Straße - ungeändert beschlossen
+- TOP 26: Genehmigung der Dringlichkeitsentscheidung vom 30.06.2020 für den Rat der Stadt Aachen gem. § 60 Abs. 1 GO NRW zur Änderung des Gebührentarifs Krematoriumhier: 14. Änderungssatzung der Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000 - ungeändert beschlossen
+- TOP 27: Genehmigung der Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW - Erlass der Beiträge für die Betreuung von Kindern in der gebundenen und offenen Ganztagsschule sowie außerunterrichtlichen Betreuungsangeboten der Primarstufeund der Sekundarstufe I im Zuge von COVID-19 für die Monate Juni und Juli 2020 - ungeändert beschlossen
+- TOP 28: Genehmigung der Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW, Erlass der Beiträge für die Betreuung von Kindern in Kindertageseinrichtungen und Kindertagespflege im Zuge von COVID-19 für den Monat August 2020 - ungeändert beschlossen
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung für den Rat der Stadt gem. § 60 I GO NRW: Überplanmäßige Mittelbereitstellung zur bedarfsgerechten Ausstattung der angemieteten Gebäude Peterstraße 44, Blondelstraße 9-21 und Sophienstraße 16-20 - ungeändert beschlossen
+- TOP 30: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2019 in das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 31: Soziale Verantwortung der STAWAG – Keine Gebührenabzocke in Notlagen - Ratsantrag der Ratsgruppe „Allianz für Aachen“ Nr. 617/17 vom 29.04.2020 - ungeändert beschlossen
+- TOP 32: Anfragen:
+- TOP 32.1: Ratsanfragen - ungeändert beschlossen
+- TOP 32.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 33: Ratsanträge - ungeändert beschlossen
+- TOP 34: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 34.1: Umbesetzungsantrag der SPD-Fraktion vom 25.08.2020 - ungeändert beschlossen
+- TOP 35: Mitteilungen der Verwaltung
+- TOP 36: Finanzierung des Eigenanteils für das Sofortausstattungsprogramm des Landes NRW - ungeändert beschlossen
+- TOP 37: Coronaerleichterungen bei Pacht- und Erbpachtzahlungen eingetragener Vereine - geändert beschlossen
+- TOP 38: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Laurensberg für den Bereich Rathausstraße / Schurzelter Mühle - ungeändert beschlossen
+- TOP 39: Information über die Nutzung der zusätzlichen Förderprogramme von Bund und Land im Bereich Städtebau - ungeändert beschlossen
+- TOP 40: Rettungsschirm für Kulturschaffende erwirken;Gemeinsamer Ratsantrag Nr. 636/17 der sechs Ratsfraktionen vom 03.08.2020 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
