@@ -1,0 +1,132 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-26T16:00:00+02:00
+- Ende: 2020-08-26T21:35:00+02:00
+- Ort: Rathaus Spanischer Bau
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21800
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21800
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Umgang der innenstädtischen Obdachlosenunterkünfte und Notschlafstellen mit den pandemiebedingten Einschränkungen, Auflagen und Problemen, auf Wunsch Die Linke
+- TOP 1.2: Verkehrssituation Chlodwigplatz, auf Wunsch Grüne
+- TOP 1.3: Baumfällung nach Tiefbauarbeiten auf dem Eierplätzchen
+- TOP 1.4: Appellation zur Unterstützung der Schausteller
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Annahme einer Schenkung Sanierungskonzept Rheingarten - mit Änderungen empfohlen
+- TOP 3.1.1: Ergänzungsantrag zu 1058/2020 Sanierungskonzept Rheingarten, Antrag Grüne - ungeändert beschlossen
+- TOP 3.2: Konzept für die SeniorenNetzwerke Köln - mit Änderungen empfohlen
+- TOP 3.3: Höhenkonzept für die linksrheinische Kölner Innenstadt; hier: Bauvorhaben Hohenzollernring 62 - Alternative beschlossen
+- TOP 3.3.1: Verwaltungsvorlage 1152/2020, Änderungsantrag Grüne - endgültig abgelehnt
+- TOP 3.4: Städtebauliches Planungskonzept Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung de - ungeändert empfohlen
+- TOP 3.5: Beschluss über die Aufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung des Bebauungsplans 66458/07 (664 Na 2/07) - ungeändert empfohlen
+- TOP 3.6: Beschluss über die Teilaufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung der Bebauungspläne 6644 Nd 1/16, 67454/09 und 67454/10 in Köln Altstadt-Nord - ungeändert empfohlen
+- TOP 3.7: StadtGrün naturnah: Ausweisung StadtNaturPark und Anlage artenreicher Wiesen - geändert beschlossen
+- TOP 3.8: Rheinboulevard Deutz - Freilegung und Integration archäologische Funde - ungeändert empfohlen
+- TOP 3.9: Generalsanierung des Quäker Nachbarschaftsheims, Kreutzerstr. 5-9, 50672 Köln hier: Planungsbeschluss - ungeändert empfohlen
+- TOP 3.10: Bürgerzentrum Alte Feuerwache - Ertüchtigung Innenhof, Einrichtung Stadtteil-/Holzwerkstatt, Optimierung Entwässerungs-/Kanalanlage - ungeändert empfohlen
+- TOP 3.11: Förderung des Vereins Kartäuserwall 18 Selbsthilfeprojekt e.V. - ohne Votum in nachfolgende Gremien
+- TOP 3.12: Errichtung eines „Offenen Bücherschrankes“ - ungeändert beschlossen
+- TOP 3.13: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 3.14: Realisierungswettbewerb für die beiden neuen Fuß- und Radwegbrücken über den Rhein auf Höhe des Ubierrings und der Bastei - ungeändert beschlossen
+- TOP 3.15: Erweiterter Planungsbeschluss rechtsrheinische Fuß- und Radwegerampe an der Hohenzollernbrücke zum Auenweg und Planungsbeschluss zur weiterführenden Fahrradtrasse MesseCity - geändert beschlossen
+- TOP 3.16: Dachsanierung Platzwart-und Funktionsgebäude Bezirkssportanlage Reitweg, Köln-Deutz - ungeändert beschlossen
+- TOP 3.17: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 3.18: Planungsaufnahme zur Errichtung eines Neubaus für eine dreizügige Grundschule mit einer 1-fach Turnhalle am Standort Antwerpener Straße 19-29, 50672 Köln-Innenstadt-Nord - ungeändert empfohlen
+- TOP 3.19: Neubau eines Brunnens am Neumarkt - Planungsbeschluss - Alternative beschlossen
+- TOP 3.20: TU-/GU-Schulbaumaßnahmen: Neubau von zwei Interimsschulgebäuden an den Standorten Kreutzerstraße 11 und Venloer Wall 13b, 50672 Köln-Neustadt/Nord durch Totalunternehmer - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 3.21: Baubeschluss für die Generalinstandsetzung des Konrad-Adenauer-Ufers zwischen der Zoobrücke und der Goldgasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - mit Änderungen empfohlen
+- TOP 3.22: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - abgelehnt (in der Vorberatung)
+- TOP 3.23: Genehmigung Dringlichkeitsentscheidung-Annahme einer Schenkung von 35 Pflanzkübeln der Kölner Grün Stiftung - ungeändert beschlossen
+- TOP 3.24: Genehmigung Dringlichkeitsentscheidung - 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 3.25: Brandschutzsanierung und -Nachrüstung an der Stadtbahnhaltestelle Hans-Böckler-Platz - zurückgestellt
+- TOP 3.26: Mülheimer Süden, Netzelement 4 - Östlicher Ringschluss - ungeändert empfohlen
+- TOP 3.27: Baubeschluss zur Sanierung der Domtreppe - ungeändert empfohlen
+- TOP 3.28: Bedarfsfeststellungsvorlage: - ungeändert empfohlen
+- TOP 3.29: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil II - ungeändert beschlossen
+- TOP 3.30: Sanierung der Fassade des Bürgerhaus Stollwerck - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Poller auf der Plankgasse (Az.: 02-1600-49/20) - geändert beschlossen
+- TOP 4.2: Beschwerde nach § 24 der Gemeindeordnung NRW - Spielplätze zur inklusiven Bespielung; hier: Rathenauplatz - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – Erhalt der kleinen Agrippina Oppenheimstr. 4, 50668 Köln – Aktenzeichen 113/20 B - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe nach § 24 GO - "Domtreppe" - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Keine Ruine in der City: Parkhausgrundstück Auf dem Hunnenrücken/Enggasse/Tunisstraße muss entwickelt werden (Altstadt/Nord), Antrag SPD - Sache ist erledigt
+- TOP 5.1.2: Radspur auf der Komödienstraße, - ungeändert beschlossen
+- TOP 5.1.3: Erweiterung Fahrradspur Agrippinaufer - ungeändert beschlossen
+- TOP 5.1.4: Ampel Überweg Rheinuferstraße Römerpark Richtung Rheinufer/Kap am Südkai, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Parkraumoptimierung in der Engelbertstraße - zurückgestellt
+- TOP 5.2.2: Bauliche und verkehrliche Maßnahmen entlang des Ubierrings, gem. Antrag Grüne, SPD, Die Linke, Deine Freunde, GUT - geändert beschlossen
+- TOP 5.2.3: Chlodwigplatz Busfrei, Antrag Grüne - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.2.3.1: Chlodwigplatz, Änderungsantrag Grüne - geändert beschlossen
+- TOP 5.2.4: Digitales Bürgerbeteiligungs-/Bürgeranhörungsverfahren zur Verkehrsführung Eigelstein, Antrag CDU - zurückgestellt
+- TOP 5.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.6: Baumbestand in der Innenstadt - ungeändert beschlossen
+- TOP 5.2.7: Zebrastreifen am Eierplätzchen - zurückgestellt
+- TOP 5.2.8: Poller im Kurvenbereich Darmstädter Straße / Kurfürstenstraße (Neustadt/Süd), Antrag SPD - zurückgestellt
+- TOP 5.2.9: Neugestaltung des Waidmarktes, Antrag CDU - geändert beschlossen
+- TOP 5.2.10: Außengastronomie Winter 2020, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.11: Temporäres Buslinienkonzept an der Behelfsbrücke am Waidmarkt, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.12: Aufwertung des Dechant-Löbbel-Platzes (Altstadt/Nord), Antrag SPD - ungeändert beschlossen
+- TOP 5.2.13: Gastronomien in der Innenstadt stärken - Feierhotspots entschärfen, Antrag SPD - geändert beschlossen
+- TOP 5.2.14: Videobeobachtungsanlagen Ebertplatz Zwischenebene, Antrag CDU - zurückgestellt
+- TOP 5.2.15: Abgase des Holzkohleausstoßes in der Innenstadt, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.16: Kleinkinderspielplatz am Theodor-Heuss-Ring (Neustadt/Nord), Antrag SPD - zurückgestellt
+- TOP 5.2.17: Interimsstandort für Schulen im Agnesviertel (Neustadt/Nord) während der Sanierung, Antrag SPD - geändert beschlossen
+- TOP 5.2.18: Wildes Urinieren am Neusser Platz kurzfristig eindämmen, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.19: Dringlichkeitsantrag - Weihnachtsmärkte in Köln 2020, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.20: Zwei autofreie Tage in der Innenstadt in 2021, gem. Dringlichkeitsantrag Grüne, Linke, Deine Freunde und Gut - ungeändert beschlossen
+- TOP 5.2.21: Einrichtung eines durchgängigen temporären Zweirichtungsradweges vom Malakowturm bis Machabäerstraße Straße, Dringlichkeitsantrag Grüne - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.2.22: Corona-Testzentrum Hauptbahnhof, gem. Dringlichkeitsantrag Grüne und Linke - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.6: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg
+- TOP 6.1.6.1: Grundstück Obermarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - Anfrage der SPD Fraktion (AN/1333/2019)
+- TOP 6.1.7: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 6.1.8: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 6.1.9: Leerstand Geschäftsflächen in der Innenstadt
+- TOP 6.1.9.1: Beantwortung einer Anfrage der SPD-Fraktion in der Bezirksvertretung Innenstadt
+- TOP 6.1.10: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf Alleestreifen und Fahrbahn - zurückgestellt
+- TOP 6.1.11: Nutzung Gebäude Oberfinanzdirektion
+- TOP 6.1.11.1: Anfrage der CDU-Fraktion betreffend "Nutzung Gebäude Oberfinanzdirektion"
+- TOP 6.1.12: Sachstand Verkehrsberuhigung Eborunenstraße - zurückgestellt
+- TOP 6.1.13: Kellerfläche in Stadtmauer Gereonswall (Altstadt/Nord)
+- TOP 6.1.13.1: Nutzung der Kellerfläche in der Stadtmauer Gereonswall - zu AN/0625/2020
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad, Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Planung der Linie 17 - Waidmarkt -, Anfrage CDU - zurückgestellt
+- TOP 6.2.3: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.2.4: Lüftung und Klimatisierung von Klassenräumen, Dimensionierung von Schulhöfen, Anfrage Grüne - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Verbesserung der Parksituation am Caritas-Altenzentrum in Deutz
+- TOP 9.2: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Innenstadt
+- TOP 9.3: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik
+- TOP 9.4: Pandemiebedigungen erfüllen - Spielstraßen erfüllen
+- TOP 9.5: Offenlage des Bebauungsplan-Entwurfes Nr. 65450/05 nach § 3 Absatz 2 BauGB Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord
+- TOP 9.6: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord;Hier: Ergebnis des Hochbauwettbewerbs
+- TOP 9.7: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd
+- TOP 9.8: ExWoSt-Modellvorhaben - aktive Mobilität in städtischen Quartieren
+- TOP 9.9: "Für einen beschleunigten ÖPNV-Ausbau Doppelplanungen beenden und Ost-West-Achse oberirdisch ausbauen!"
+- TOP 9.10: Stickstoffdioxidbelastung durch Hotelschiffe beseitigen: Grüner Landstrom anstelle von Dieselstrom (AN/1198/2018)
+- TOP 9.11: Lichtmasterplan für die Stadt Köln
+- TOP 9.12: Überdachung Haltestelle vor dem Seniorenheim Vincenzhaus, Rheinuferstr.
+- TOP 9.13: Besetztes Haus an der Bonner Straße: Stadt bietet Bewohnerinnen und Bewohnern ein alternatives Gebäude an
+- TOP 9.14: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft
+- TOP 9.15: EU Projekt GrowSmarter
+- TOP 9.16: Ausbau der Haltestelle Reichenspergerplatz; Stellungnahme zum Antrag mit der Session-Nummer AN/0622/2020
