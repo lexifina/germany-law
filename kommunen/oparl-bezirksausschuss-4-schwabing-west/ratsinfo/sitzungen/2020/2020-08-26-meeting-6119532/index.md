@@ -1,0 +1,133 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2020-08-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6119532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6119532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.2: Unveränderte Fortführung von Gaststätten
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales, Bildung und Kultur
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Lesesaal-Bibliothek zum Thema Verschwörungstheorien
+- TOP 2.1.: (E) Stadtbezirksbudget Condrobs e.V. Therap. Ferienfahrt im September 2020 900,00 € / Az. 0262.0-4-0314
+- TOP 2.2.: Bereits bewilligter Zuschuss an den Verein BIKU e.V. für die Maßnahme Applaus Sommer 2020 (Modul Film) in Höhe von 3.508,00 €: Bitte um Mittelverwendung für das Modul Stunt/Parcour/Fußball anstatt für das Modul Film
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Arcisstr. 63: Tragfähige Zwischenlösung zur Unterbringung der Bewohner*innen (Antwort des Sozialreferats auf BA-Schreiben vom 24.06.2020)
+- TOP 3.2.1.: Bereits gewährter Zuschuss für die „Import-Export-Werkstatt für Kinder und Jugendliche“: Änderung des Maßnahmezeitraums
+- TOP 3.2.2.: Bewilligungsbescheid BIKU e.V. (Ferienprogramm Applaus 2020)
+- TOP 3.2.3.: Bewilligungsbescheid Initiative „NichtAllein“
+- TOP 3.2.4.: Bewilligungsbescheid Initiative „Seelenspiegel Krippe“
+- TOP 3.2.5.: Bewilligungsbescheid Isarlust e.V. (Kulturlieferdienst bis 31.12.2020)
+- TOP 3.2.6.: Bewilligungsbescheid MobilSpiel e.V. (Münchner Spielkistl)
+- TOP 3.2.7.: Bewilligungsbescheid Pathos München e.V. (Renovierung und Technik)
+- TOP 3.2.8.: Bewilligungsbescheid The Agency gbR (Theatergastspiel)
+- TOP 3.2.9.: Auswirkungen der Corona-Epidemie auf den städtischen Haushalt: Kürzung des Stadtbezirksbudgets in 2020
+- TOP 3.2.10.: Verwendungsnachweis und Bericht Condrobs e.V. (Therapeutische Ferienfahrt Juni)
+- TOP 3.2.11.: Verwendungsnachweis und Bericht Kindergarten Elterninitiative A.N.E (Gartenausbau)
+- TOP 3.2.12.: Verwendungsnachweis und Bericht Initiative Bankenaustausch
+- TOP 3.2.13.: Verwendungsnachweis und Bericht Förderverein Wilhelmschule (Friedensprojekt)
+- TOP 3.2.14.: Verwendungsnachweis und Bericht Förderverein Hermann-Frieb-Realschule (Mediatorenseminar)
+- TOP 3.2.15.: Verwendungsnachweis und Bericht Improtheaterfestival München (Improvember)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juni 2020
+- TOP C: Bauen, Wohnen und Wirtschaft
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Georgenstr. 36: Aufstockung und Umbau eines Mehrfamilienhauses
+- TOP 2.2.: Elisabethstr. 30: Umbau einer Wohnung in einem denkmalgeschützten Wohn- und Geschäftshaus
+- TOP 2.3.: Hohenzollernstr. 84: Nutzungsänderung REWE to Go-Verkaufsstätte zu Bäckerei mit Stehcafé und Alkoholausschank
+- TOP 2.4.: Entschlossenes Durchgreifen bei „spekulativem“ Leerstand (Anhörung zur Stadtrats-Beschlussvorlage zur Erledigung der Empfehlung Nr. 14-20 / E 02856 aus der Bürgerversammlung 2019)
+- TOP 2.5.: Tektur Arcisstraße: Neubau Wohn- und Geschäftshaus mit Wohnheim, Büro- und Verkaufsräumen, Gastronomie/Versammlungsstätte, Freischankfläche, Kindertagesstätte und Tiefgarage
+- TOP 2.6.: Herzogstraße 50: Dachgeschossum- und ausbau
+- TOP 2.7.: Destouchesstraße 44: Rückbau und Neuerrichtung von 8 Balkonen
+- TOP 2.8.: Tektur Elisabethplatz: Neuerrichtung des Marktes mit 10 Marktständen (10 Ladeneinheiten, 6 Gaststätten), Errichtung einer Marktgarage sowie einer Anwohnergarage
+- TOP 2.9.: Vorbescheid Kathi-Kobus-Str. 22-24: Neubau einer Wohnanlage mit Tiefgarage (Baumfällungen in Zusammenhang mit dem Vorhaben)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2.1.: Schank- und Speisewirtschaft „Levante“, Franz-Joseph-Str. 45
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Vollzug der Zweckentfremdungssatzung – Vollzug der Erhaltungssatzungen: Bekanntgabe der Jahresstatistik 2019 im Sozialausschuss vom 09.07.2020 (Sitzungsvorlage Nr. 20-26/V 00374)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Sperrung der Arcisstraße
+- TOP 1.2.: Bürgerin: Ampelschaltung an den Kreuzungen Schleißheimer/Birnauer und Lerchenauer/Birnauer Straße
+- TOP 1.3.: Bürgerin: Winzererstraße: Fahrradstraße und Radarkontrollen
+- TOP 1.4.: Bürger: Lärmbelästigung durch zahlreiche Einsatzfahrzeuge in der Ackermannstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.5.: Schaffung von Fahrradabstellplätzen in der Agnesstraße
+- TOP 2.6.: Parkraumbewirtschaftung an der Nordseite der Ackermannstraße
+- TOP 2.7.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze • in der Schleißheimer Straße 137, Seite Herzogstraße (vor der REWE-Filiale) • in der Herzogstraße 51 • in der Ainmillerstraße 25
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Verparkte Gehwegnasen am Überweg Belgrad-/Unertlstraße (Antwort des Baureferats Tiefbau auf BA-Schreiben vom 25.06.2020)
+- TOP 3.1.2.: Verkehrssituation am Kurfürstenplatz und in der Nordendstraße - mehr Platz und Sicherheit für Radfahrende und Fußgänger*innen
+- TOP 3.1.3.: Fahrradstraße Clemensstraße: Überholverbot einspuriger Fahrzeuge (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 25.06.2020)
+- TOP 3.2.1.: Aufhebung der Feuerwehranfahrtzone Adelheidstr. 27
+- TOP 3.2.2.: Anfahrtszone für Krankenwagen in der Lissi-Kaeser-Straße 17
+- TOP 3.2.3.: Projekt UmPARKen Hiltenspergerstr. 36
+- TOP 3.3.1.: Fahrbahnsanierung im Kreuzungsbereich Schleißheimer Straße / Petuelring
+- TOP 3.3.2.: Schwere-Reiter-Straße und Elisabethstraße Fernwärme/Fernkälte, hier: Erweiterung des Baufeldes in der Infanteriestraße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2021, Sitzungsvorlage Nr. 14-20 / V 00551
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Baustelleneinrichtung an der Bamberger Straße 11 vom 13.08. bis 30.09.2020
+- TOP 3.5.2.: Stellungnahme der Landeshauptstadt München zum Planfeststellungsverfahren "Liniennutzung Parzivalstraße"
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Silvesterfeuerwerk? Nein Danke! Antrag des BA 20 Hadern
+- TOP 1.2.: Antrag FDP: Aufenthaltsqualität und Anwohnerinformation Elisabethplatz
+- TOP 1.3.: Bürger: Trinkwasserbrunnen für den Luitpoldpark
+- TOP 1.4.: Bürgerin: Lärm- und Lichtbelästigung durch Berufsschule am Elisabethplatz
+- TOP 1.5.: Bürger: Umgestaltung und Begrünung Hörwarthstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Herzogstraße 130-134, Fällungsantrag für einen Ahorn
+- TOP 2.2.1.: Schleißheimer Str. 162 a „Studio F“: Aufstellen einer Sitzbank
+- TOP 2.2.2.: Nordendstraße 38: Aufstellen einer Warenauslage
+- TOP 2.2.3.: Geschichtenfest der Pädagogischen Aktion/Spielkultur e.V. vom 15. bis 18.10.2020 im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zusätzliche Basketballkörbe (BA 9 unterstützt weitergeleitetes Bürgeranliegen)
+- TOP 3.1.2.: Ruhestörungen durch nächtliches Feiern im Petuelpark, Antwort des BA 11
+- TOP 3.1.3.: Häufigere Entleerungen der Depotcontainer in der Elisabethstraße Ecke Tengstraße
+- TOP 3.2.1.: Infanteriestr. 19: Fällung eines Ahorn als Gefahrenbaum
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.2.: Europäische Charta zur Gleichstellung von Frauen und Männern Aktionsplan – Maßnahmen 7.3: Erhöhung des Sicherheitsgefühls durch Optimierungen der Beleuchtung des öffentlichen Raumes (Rahmenterminplan „Nachtspaziergänge“
+- TOP 3.4.3.: Eilentscheidungen der BA-Vorsitzenden: a) Ackermannbogen: Public Picknick am 18.07.2020 (Zustimmung) b) Gebet der Uigurischen Gemeinde zum Opferfest am 31.07.2020 (Zustimmung)
+- TOP 3.4.4.: Aktuelle Situation an den Wertstoffinseln, Schreiben des Abfallwirtschaftsbetriebs München
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Regelung für Beauftragte anpassen und abgleichen; Umbenennung der/s Beauftragten für Menschen mit Behinderung Anhörung zu Anträgen der Bezirksausschüsse 9 bzw. 20 auf Änderung der BA-Satzung
+- TOP F.2.: Anhörung zu einer Änderung der BA-GeschO (Antrag des BA 21) Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP F.3.: Abrechnung von virtuellen Sitzungen und Besprechungen
+- TOP F.4.: Städtisches Telefonbuch an BA-Mitglieder aushändigen
+- TOP F.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.6.: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle
+- TOP G: Verschiedenes
+- TOP H: Termine
+- TOP 3.4.1.: Ausnahmegenehmigungen zur Erweiterung von Freischankflächen
