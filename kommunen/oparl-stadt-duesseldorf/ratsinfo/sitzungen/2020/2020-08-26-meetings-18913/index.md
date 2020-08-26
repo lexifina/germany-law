@@ -1,0 +1,52 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-08-26T15:00:00+02:00
+- Ende: 2020-08-26T16:40:00+02:00
+- Ort: Achtung geänderter Sitzungsort! Cecilien-Gymnasium, Schorlemerstraße 99, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18913
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18913
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384974.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384974.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00384974.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/05/2020 vom 13.05.2020 - einstimmig beschlossen
+- TOP 3: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise sowie zur bedarfsgerechten Versorgung (Ausschreibung) - zweiter Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Beseitigung von 3 Garagen in der Wildenbruchstraße 39e - einstimmig beschlossen
+- TOP 6: Oberkasseler Straße 83 - Beseitigung von einem Toilettenanbau, einem Wohngebäude und 3 Garagen - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Am Krummen Weg 1- Beseitigung eines freistehenden Wohnhauses - einstimmig beschlossen
+- TOP 9: Naturnahe Pflege für die Rheinwiesen, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 10: Sicherheit erhöhen - Doppelstreifen einsetzen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 11: Stadtsauberkeit erhöhen - zunehmendes Vermüllen unserer Stadtteile stoppen!, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 12: Lärmschutz an der B7, Anfrage der SPD-Fraktion
+- TOP 13: Weihnachtsmarkt in Oberkassel - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2020 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2020 - einstimmig beschlossen
+- TOP 16: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 17: Wiederaufstellung der Persil-Uhr am Luegplatz, interfraktioneller Antrag - einstimmig beschlossen
+- TOP 18: Bushaltestelle "Lohweg" von parkenden Fahrzeugen freihalten, Antrag des Ratsherrn Georg Blanchard, DIE LINKE - abweichend beschlossen
+- TOP 19: Einbahnstraße Pestalozzistraße teilweise für Radfahrende freigeben, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 20: Tempo 30 für den Abschnitt des Kaiser-Friedrich-Rings zwischen An der Apfelweide und Lotharstraße, Antrag der Fraktion Bündnis - einstimmig beschlossen
+- TOP 21: Erhöhung der Sicherheit an der Kreuzung Hansaallee / Schiessstraße, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 22: Verkehrsstörungen vermeiden und Verkehrsfluss stärken, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 23: Konzepte für Beteiligung von Bürger*innen und Anlieger*innen zur weiteren Entwicklung des Nikolaus-Knopp-Platzes in Heerdt prüfen, interfraktioneller Antrag - einstimmig beschlossen
+- TOP 24: Tempo 30 auf einem Teilstück der Willstätterstraße, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 25: Baumpflanzungen im Rahmen des "Stadtbaumkonzeptes", Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 26: Eine Skaterrampe für den Freizeitpark Heerdt, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 27: Drei Linden an der alten Dorfschule in Alt-Lörick als Naturdenkmäler ausweisen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 28: Naturnahes Pflegekonzept für Erweiterungen des Feldmühleparks - zur Kenntnis genommen
+- TOP 29: Sanierungsbedarf linksrheinischer Brücken und Tunnel vorstellen - zur Kenntnis genommen
+- TOP 30: Vorstellung Ersatzpflanzungen für Baumfällungen am Simon-Gatzweiler-Platz und an der Drususstraße - zur Kenntnis genommen
+- TOP 31: Kurzes Radwegestück am Barbarossaplatz für Zweiwegeverkehr ermöglichen - zur Kenntnis genommen
+- TOP 32: Parkraumsituation verbessern, Mobilität ermöglichen - Parkregelungen Maas-, Niers-, Saarwerden-, Schwalm- und Lerchenstraße - zur Kenntnis genommen
+- TOP 33: Ersatzpflanzung für eine nicht genehmigte Fällung eines Baumes auf dem neuen Grundstück der Kindertagesstätte Niederkasseler Kirchweg 36 - zur Kenntnis genommen
+- TOP 34: Wiedererrichtung einer Uhr am Nikolaus-Knopp-Platz - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
