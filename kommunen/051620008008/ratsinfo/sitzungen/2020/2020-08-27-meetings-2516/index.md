@@ -1,0 +1,121 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-08-27T18:08:00+02:00
+- Ende: 2020-08-27T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2516
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2516
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00106923.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00106923.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00106923.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 2.1: Genehmigung der Dringlichkeitsentscheidung über die Änderung des § 5 Abs. 5 der Hauptsatzung - einstimmig
+- TOP 2.2: Genehmigung von Dringlichkeitsentscheidungen, hier: Änderung des Stellenplans 2020 - einstimmig
+- TOP 2.3: Aussetzung der Elternbeiträge für April 2020 für den Besuch von Tageseinrichtungen für Kinder, Kinde - einstimmig
+- TOP 2.4: Genehmigung DE Elternbeiträge Mai - einstimmig
+- TOP 2.5: Genehmigung Dringlichkeitsentscheidung Aufstellungsbeschluss 34. FNP Änd. - einstimmig
+- TOP 2.6: Genehmigung Dringlichkeitsentscheidung Wärmeversorgung Neubaugebiete - einstimmig bei
+- TOP 2.7: Genehmigung Dringlichkeitsentscheidung 12. Änd G 158 Aufstellung - mehrheitlich bei
+- TOP 2.8: Genehmigung Dringlichkeitsentscheidung 12. Änd G 158 Erlass Veränderungssperre - mehrheitlich bei
+- TOP 3: Bekanntmachung von über- und außerplanmäßigen Mittelbereitstellungen vom 01.01.2020 - 30.06.2020 (Haushalt 2020) - Kenntnisnahme
+- TOP 4: Finanzzwischenbericht 2020 - Kenntnisnahme
+- TOP 5: Sachstandsbericht Sanierungsplan zu 30.06.2020 - Kenntnisnahme
+- TOP 6: Befreiung von der Aufstellung des Gesamtabschlusses 2019 - einstimmig
+- TOP 7: Sofortausstattungsprogramm Digitalpakt Endgeräte Schüler - einstimmig
+- TOP 8: Sofortausstattungsprogramm Digitalpakt Endgeräte Lehrer - einstimmig
+- TOP 9: Nachtragssatzung 2020 - Kenntnisnahme
+- TOP 10: Einrichtung eines Familienbüros für Eltern (Antrag Nr. 230/18) - einstimmig
+- TOP 11: Gewährung einer Entschädigung für Online-Fraktionssitzungen - einstimmig
+- TOP 12: Sachstand "Organisatorische Voraussetzungen digitale Ratsarbeit" (Antrag Nr. 118/19) - einstimmig
+- TOP 13: Faktische Nicht-Durchführbarkeit der Integrationsratswahlen 2020 - Kenntnisnahme
+- TOP 14: Erlass von Sondernutzungsgebühren für Außengastronomie im Jahre 2020 - einstimmig bei
+- TOP 15: Straßenbeleuchtungsvertrag zwischen der Stadt Grevenbroich und der GWG Grevenbroich GmbH - von der Tagesordnung abgesetzt
+- TOP 16: 360° Panoramabilder - einstimmig
+- TOP 17: Entscheidung über einen Beratungspunkt aus der Sitzung des JHA vom 16.06.2020
+- TOP 17.1: KiBiz-Reform plusKiTa - einstimmig
+- TOP 18: Entscheidung über Beratungspunkte aus der Sitzung des PlanungsA vom 25.08.2020
+- TOP 18.1: 1. Änd. G 183 - einstimmig
+- TOP 18.2: Aufstellung G 222 August-Münker-Straße - einstimmig
+- TOP 18.3: Aufstellung H 4 2. Änd. - einstimmig
+- TOP 18.4: 2. Änd. K 2 Aufstellung - einstimmig
+- TOP 18.5: N 40 1. Änd. Aufstellung - einstimmig
+- TOP 18.6: N 48 - erneute Aufstellung - einstimmig
+- TOP 18.7: 9. Änd. G 158 Einstellung des Verfahrens - einstimmig
+- TOP 18.8: Platzbenennung Gindorf - Alte Verladestraße - einstimmig
+- TOP 19: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 19.1: Sachstandsbericht zur Umsetzung des Antrages "Crowdfunding-Plattform nutzen" Antrag Nr. 301/16 - Kenntnisnahme
+- TOP 19.2: Gratistrinkwasserstation - einstimmig
+- TOP 19.3: Windkrafträder - Kenntnisnahme
+- TOP 19.4: Smart City Grevenbroich entwickeln (Antrag.Nr. 179/19) - Kenntnisnahme
+- TOP 19.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.6: Ausbau Home-Office, Sachstand und Perspektive (Anfrage Nr. 64/2020) - Kenntnisnahme
+- TOP 19.7: Beantwortung der mündlichen Anfrage zur Vorlage 54/2020/1 (Sachstandsbericht Sanierungsplan zum 31.12.2019) - Kenntnisnahme
+- TOP 19.8: Sammelbeantwortungen - Kenntnisnahme
+- TOP 19.9: Sachstand Zille (Antrag Nr. 47/2020) - Kenntnisnahme
+- TOP 20: Schriftliche Anträge von Fraktionen und Ratsmitgliedern
+- TOP 20.1: Anträge der CDU-Fraktion
+- TOP 20.1.1: Radwegenetz erweitern, 100%ige-Förderung nutzen (Antrag Nr. 95/2020) - einstimmig
+- TOP 20.1.2: Baugebiet "Mevissen" in Wevelinghoven - Reduzierung der Wohneinheiten (Antrag Nr. 133/2020) - einstimmig
+- TOP 20.1.3: Studie zu einer zusätzlichen Verkehrsanbindung des südlichen Bereichs von Wevelinghoven an die Kreisstraße K 10 oder die Landstraße L361 (Antrag Nr. 134/2020) - einstimmig
+- TOP 20.1.4: Straßenbenennung (Antrag Nr. 135/2020) - einstimmig
+- TOP 20.2: Anträge der SPD-Fraktion
+- TOP 20.2.1: Kita-Beiträge im August reduzieren (Antrag Nr. 103/2020) - einstimmig
+- TOP 20.2.2: Überörtliche Verkehrsanbindung von Wevelinghoven (Antrag Nr. 136/2020) - einstimmig
+- TOP 20.2.3: Umgestaltung des Denkmalplatzes in Frimmersdorf (Antrag Nr. 137/2020) - einstimmig
+- TOP 20.3: Anträge der UWG-Fraktion
+- TOP 20.3.1: Aktive Stadtplanung statt vorhabenbezogener Bebauungspläne (Antrag Nr. 98/2020) - einstimmig
+- TOP 20.3.2: Straßenschild "Durchfahrt verboten für LKW" (Antrag Nr. 99/2020) - einstimmig
+- TOP 20.3.3: Fußweg (Gasse) von der Burgstraße zur Oberstraße (Antrag Nr. 100/2020)
+- TOP 20.3.4: Einbahnstraßenregelung Unterstraße/Burgstraße in Wevelinghoven (Antrag Nr. 101/2020) - einstimmig
+- TOP 20.3.5: Ladestation Neukirchen (Antrag Nr. 120/2020) - einstimmig
+- TOP 20.4: Anträge der FDP-Fraktion
+- TOP 20.4.1: Separate Spur für Rechtsabbieger am Tribünenweg (Antrag Nr. 96/2020) - einstimmig
+- TOP 20.4.2: Bebauungsplan für die historischen Straßenzüge in Wevelinghoven (Antrag Nr. 97/2020) - einstimmig
+- TOP 20.4.3: Vier zusätzliche verkaufsoffene Sonntage (Antrag Nr. 102/2020)
+- TOP 20.4.3.1: Vier zusätzliche verkaufsoffene Sonntage (Antrag Nr. 102/2020) - Kenntnisnahme
+- TOP 20.4.4: Realschule Bergheimer Straße statt 3. Gesamtschule Wevelinghoven (Antrag Nr. 105/2020) - einstimmig
+- TOP 20.4.5: Veröffentlichung des Verkehrsgutachtens Wevelinghoven (Antrag Nr. 122/2020)
+- TOP 20.4.6: Wahlamt an allen Samstagen bis zur Kommunalwahl öffnen (Antrag Nr. 124/2020) - mehrheitlich abgelehnt
+- TOP 20.4.7: Vorbereitet sein: Ratsarbeit mit der konstituierenden Sitzung des neuen Rates ins Internet stellen (Antrag Nr. 130/2020) - mehrheitlich abgelehnt
+- TOP 20.4.8: Erreichbarkeiten der einzelnen Häuser im Baugebiet "Alte Schule" in Gindorf (Antrag Nr. 131/2020) - einstimmig
+- TOP 20.4.9: Anbindung der Straße Am Böhnerfeld an die Wevelinghovener Straße (K10) prüfen (Antrag Nr. 123/2020) - einstimmig
+- TOP 20.5: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 20.5.1: Klimawandel - 10 Punkte Plan - einstimmig
+- TOP 20.6: Mein Grevenbroich
+- TOP 20.6.1: Leiharbeiterunterkünfte als Herbergsbetriebe einstufen (Antrag Nr. 94/2020) - einstimmig
+- TOP 20.6.2: Gefährliche Einmündung in die Neuenhausener Straße (Antrag Nr. 125/2020) - einstimmig
+- TOP 20.7: Anträge der Fraktion DIE LINKE
+- TOP 20.7.1: Am Flutgraben (Antrag Nr. 128/2020) - einstimmig
+- TOP 20.7.2: An Mevissen (Antrag Nr. 129/2020) - einstimmig
+- TOP 21: Gemeinschaftsanträge
+- TOP 21.1: Bericht und Austausch mit der Wirtschaftsförderung der Stadt Grevenbroich (Antrag Nr. 132/2020)
+- TOP 22: Schriftliche Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 22.1: Anfragen der CDU-Fraktion
+- TOP 22.2: Anfragen der SPD-Fraktion
+- TOP 22.3: Anfragen der UWG-Fraktion
+- TOP 22.3.1: Sachstandsmitteilung Schwimmbad Neukirchen (Anfrage Nr. 119/2020)
+- TOP 22.4: Anfragen der FDP-Fraktion
+- TOP 22.4.1: Auswirkungen der geplanten Umwandlung (Anfrage Nr. 104/202)
+- TOP 22.4.1.1: Auswirkungen der geplanten Umwandlung (Anfrage Nr. 104/202) - Kenntnisnahme
+- TOP 22.5: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 22.6: Mein Grevenbroich
+- TOP 22.6.1: Bolzplatz Waldwiese (Anfrage Nr. 126/2020)
+- TOP 22.6.2: Straßenverlauf "An der Eiche", "Am Wehr", "An der Untermühle" Wevelinghoven (Anfrage Nr. 127/2020)
+- TOP 22.7: Anfragen der Fraktion DIE LINKE
+- TOP 23: Mündliche Anträge und Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 23.1: Lärmbelästigung durch Güterzüge (Anfrage Nr. 138/2020)
+- TOP 23.2: Starkregenereignis (Anfrage Nr. 139/2020)
+- TOP 23.3: Müllentsorgung (Anfrage Nr. 140/2020)
+- TOP 23.4: Fußgängerampelschaltung vor dem Montanushof (Anfrage Nr. 141/2020)
+- TOP 23.5: Verkehrsgutachten (Anfrage Nr. 142/2020)
+- TOP 23.6: Kreisverkehr Frimmersdorf (Anfrage Nr. 143/2020)
+- TOP 24: Mitteilungen des Bürgermeisters
+- TOP 24.1: Beantwortung FDP-Anfrage
