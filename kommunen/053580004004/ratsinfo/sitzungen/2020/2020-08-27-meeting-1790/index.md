@@ -1,0 +1,70 @@
+# Gemeinderat (57. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2020-08-27T18:00:00+02:00
+- Ende: 2020-08-27T21:50:00+02:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbjYOuHm_G5mjIRGcQ6N2DY
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1790
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVRmL8XS3sW8Qc8MX1iXQ_ADYCmosMB4SJg3djRrmB0O/Bekanntmachung_Gemeinderat_27.08.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfzrJaBn7_ld-e98inXNSqHc4ZiFHQa0U7rUHn2fWkX5/Oeffentliche_Niederschrift_Gemeinderat_27.08.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Sachstandsbericht zur Errichtung einer zweigruppigen mobilen Kindertageseinrichtung in der Ortschaft Siersdorf
+- TOP 2.1: Errichtung einer zweigruppigen mobilen Kindertageseinrichtung in der Ortschaft Siersdorf - einstimmig, 0 Enthaltungen
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Aufstellung des Bebauungsplans 73 E - Am Weidberg - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 73 E - Am Weidberg - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB c.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB - einstimmig, 0 Enthaltungen
+- TOP 4.2: Sanierungsmaßnahmen zur Verwendung der Mittel nach dem Kommunalinvestitionsfördergesetz (KInvFÖG) - einstimmig, 0 Enthaltungen
+- TOP 4.3: Förderprogramm Gute Schule 2020 – Maßnahmenkatalog 2020 - einstimmig, 0 Enthaltungen
+- TOP 4.4: Verfahren zur Schaffung von Windkraftkonzentrationszonen mit Ausschlusswirkung gemäß § 35 Abs. 3 Satz 3 BauGB - 16 Ja-Stimmen, 5-Nein-Stimmen, 0 Enthaltungen
+- TOP 5.: Beschluss über die Empfehlungen des Gemeindeentwicklungsausschusses
+- TOP 5.1: Antrag der CDU Fraktion - Prüfung möglicher räumlicher Unterbringung der Vereine in Siersdorf - zur Kenntnis genommen
+- TOP 5.2: Vorstellung der Projektskizze „Mobilität der Zukunft für den ländlichen Raum“ der Future Mobility GmbH - zur Kenntnis genommen.
+- TOP 6.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 6.1: Prüfung und Feststellung des Jahresabschlusses 2019 - einstimmig, 0 Enthaltungen
+- TOP 6.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2019 - einstimmig, 0 Enthaltungen
+- TOP 7.: Wahl eines/r neuen Ortsbürgermeisters/in für die Ortschaft Freialdenhoven - einstimmig, 0 Enthaltungen
+- TOP 8.: Neubesetzung von Ausschüssen und Gremien - einstimmig, 0 Enthaltungen
+- TOP 9.: Finanzen, Haushalt
+- TOP 9.1: Sanierungsmaßnahmen zur Verwendung der Mittel nach dem Kommunalinvestitionsfördergesetz (KInvFÖG) - einstimmig, 0 Enthaltungen
+- TOP 9.2: Regelung über Art, Umfang und Dauer von Ermächtigungsübertragungen gemäß § 22 KomHVO - einstimmig, 0 Enthaltungen
+- TOP 10.: Anträge von Fraktionen
+- TOP 10.1: Antrag der CDU-Fraktion; hier: Antrag zur Prüfung der Errichtung einer Bocciabahn - einstimmig, 0 Enthaltungen
+- TOP 11.: Zuschussgewährung
+- TOP 11.1: Antrag der CDU-Fraktion; hier: Rettungsschirm für Vereine Überprüfung der Umsetzbarkeit durch die Verwaltung - einstimmig, 0 Enthaltungen
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Beschluss über die Empfehlungen des Gemeindeentwicklungsausschusses
+- TOP 2.1: Grunderwerb im Bereich des Campus Aldenhoven - zur Kenntnis genommen.
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1: Auftragsvergabe: Rückbau der Schornsteine am Gebäude Johannesschule - einstimmig, 0 Enthaltungen
+- TOP 3.2: Auftragsvergabe: Erneuerung Bodenbeläge im Hauptgebäude GGS und im Gebäude Naturwissenschaftstrakt ehem. Haupt- und Realschule. - einstimmig, 0 Enthaltungen
+- TOP 3.3: Großsporthalle GAL - Sicherung der Waschbetonfassadenplatten - einstimmig, 0 Enthaltungen
+- TOP 3.4: Auftragsvergabe: Sanierung Außentoiletten in der Gesamtschule (Anbau Großsporthalle) - einstimmig, 0 Enthaltungen
+- TOP 3.5: Beauftragung der Kanalreinigung/-untersuchung für das Jahr 2020 nach den Vorgaben der Selbstüberwachungsverordnung Abwasser (SüwVO Abw) - einstimmig, 0 Enthaltungen
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Besetzung der Stelle des/r Fachbereichsleiters/in „I – Innere Verwaltung/Schulen/Soziales" - 12 Ja-Stimmen, 6-Nein-Stimmen, 2 EnthaltungenDer Bürgermeister stimmt der Stellenbesetzung zu.
+- TOP 5.: Gremienangelegenheiten
+- TOP 5.1: Berichte aus den Gremien
+- TOP 6.: Auftragsvergaben
+- TOP 6.1: Verfahren zur Schaffung von Windkraftkonzentrationszonen mit Ausschlusswirkung gemäß § 35 Abs. 3 Satz 3 BauGB - 16 Ja-Stimmen, 5-Nein-Stimmen, 0 Enthaltungen
+- TOP 6.2: Standortverlagerung des Feuerwehrgerätehauses im Ortsteil Schleiden - einstimmig, 0 Enthaltungen
+- TOP 6.3: Vergabe der Fortschreibung des Brandschutzbedarfsplans gemäß § 3 Absatz 3 BHKG - einstimmig, 0 Enthaltungen
+- TOP 7.: Grundstücksangelegenheiten
+- TOP 7.1: Verkauf einer gemeindeeigenen Fläche - einstimmig, 0 Enthaltungen
+- TOP 7.2: Gewerbeansiedlung auf gemeindeeigener Parzelle - 19 Ja-Stimmen, 2-Nein-Stimmen, 0 Enthaltungen
+- TOP 8.: Vertragsangelegenheiten
+- TOP 8.1: Nutzungsvertrag mit dem Sportverein Sankt Nikolaus Schützenbruderschaft Schleiden - einstimmig, 0 Enthaltungen
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Interkommunale Zusammenarbeit
+- TOP 10.: Verschiedenes
