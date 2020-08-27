@@ -1,0 +1,8 @@
+# TOP -: Umstieg zur klimaneutralen Stadt auch sichtbar machen - Schaffung von Fahrradabstellplätzen auf der Kalker Hauptstraße in Köln-Kalk
+
+- Sitzung: 45. Sitzung der Bezirksvertretung Kalk (2020-08-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/303805
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/143439
