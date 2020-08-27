@@ -1,0 +1,86 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-27T16:05:00+02:00
+- Ende: 2020-08-27T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21730
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21730
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 22.08.2020 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786471.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 22.08.2020 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786471.pdf
+- Wortprotokoll: Tagesordnung, Stand 22.08.2020 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786471.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der FDP-Fraktion AN/0700/2020 betreffend Entsorgung und Recycling von Batterien jetzt im BAA
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion die Linke betreffend Trockenheit trotzen, Gießwasserbrunnen aufstellen - zurückgestellt
+- TOP 2.2: Antrag der Fraktion die Linke betreffend Energieerzeugungsbilanz erstellen - zurückgestellt
+- TOP 2.3: Gemeinsamer Dringlichkeitsantrag von SPD-Fraktion, CDU-Fraktion, Fraktion Bündnis 90 / Die Grünen und FDP-Fraktion betreffend für die Erarbeitung eines Gesamtkonzeptes Gut Leidenhausen - ungeändert beschlossen
+- TOP 2.4: Dringlichkeitsantrag der Fraktion Die Linke betreffend Dachbegründung und Photovoltaik nicht durch Verträge zu Mobilfunkmasten ausbremsen! - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Klimarat und Strategie klimaneutrales Köln Sachstand Juli 2020 - Kenntnis genommen
+- TOP 3.2: EU Projekt GrowSmarter - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Annahme einer Schenkung Sanierungskonzept Rheingarten - mit Änderungen empfohlen
+- TOP 4.1.2: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert empfohlen
+- TOP 4.1.3: Neubau eines Brunnens am Neumarkt - Planungsbeschluss - mit Änderungen empfohlen
+- TOP 4.1.3.1: Änderungsantrag zu TOP 4.2 Neubau eines Brunnens am Neumarkt - Planungsbeschluss - ungeändert empfohlen
+- TOP 4.1.4: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 4.1.5: Freigabe der Stadtverschönerungsmittel 2020 im Stadtbezirk Innenstadt - ungeändert empfohlen
+- TOP 4.1.6: Mittelfreigabe zur Sanierung städtischer Brunnen - ungeändert empfohlen
+- TOP 4.1.7: Pflege von Schmuckbeeten - ungeändert empfohlen
+- TOP 4.1.8: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 - Stadtbezirk Rodenkirchen - ungeändert empfohlen
+- TOP 4.1.9: Wegeverbindung Bilderstöckchen / Klimapark - ungeändert empfohlen
+- TOP 4.1.10: Überplanmäßige Aufwendungen im Teilergebnisplan 1303, Friedhöfe, im Haushaltsjahr 2020 - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 008 des Friedhofs Porz-Leidenhausen - ungeändert beschlossen
+- TOP 4.2.2: Sanierung von Dach und Fassade der Trauerhalle Westfriedhof, Venloer Straße 1132, 50827 Köln – Planungs- und Baubeschluss - ungeändert beschlossen
+- TOP 4.2.3: Rheinboulevard Deutz - Freilegung und Integration archäologische Funde - ungeändert beschlossen
+- TOP 4.2.4: Ersatzbeschaffung eines Schleppers mit Forstausrüstung - ungeändert beschlossen
+- TOP 4.2.5: Innerer Grüngürtel - Parkstadt Süd - Pionierpark - ungeändert beschlossen
+- TOP 4.2.6: Sanierung des Haupthauses in Finkens Garten, Friedrich-Ebert-Straße 49, 50996 Köln - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind - zurückgestellt
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regio-nalplan veröffentlicht - Kenntnis genommen
+- TOP 7.1.1: Erstes Plankonzept des Regionalplans und Agglomerationskonzept als Fachbeitrag zum Regionalplan veröffentlicht - Kenntnis genommen
+- TOP 7.2: Waldlabor Köln: Untersuchung des Wachstums der Klimawaldbäume - Kenntnis genommen
+- TOP 7.3: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 7.4: Landwirtschaftsflächen Verbrauch für Kompensationsmaßnahmen - Kenntnis genommen
+- TOP 7.5: Verbraucherberatungsstelle Köln: Jahresbericht 2019 - Kenntnis genommen
+- TOP 7.6: Verbraucherberatung im Quartier: Jahresbericht 2019 - Kenntnis genommen
+- TOP 7.7: Planfeststellungsverfahren für die Sanierung der Hochwasserschutzeinrichtung Lindemauer in Köln-Sürth - 1. Planänderung - Kenntnis genommen
+- TOP 7.8: Start Förderprogramm Umweltbildung - Kenntnis genommen
+- TOP 7.9: Allgemeinverfügung zur Einschränkung der Wasserentnahme aus oberirdischen Gewässern - Kenntnis genommen
+- TOP 7.10: Lichtmasterplan für die Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.11: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - Kenntnis genommen
+- TOP 7.12: Wiedereröffnung des Kölner Krematoriums am 11.08.2020 - Kenntnis genommen
+- TOP 7.13: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 14.08.2020 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: PFC-Grundwasserverunreinigungen - Kenntnis genommen
+- TOP 8.2: Beantwortung der mündlichen Nachfragen des SB Becker aus der Sitzung des Ausschusses Umwelt und Grün vom 04.06.2020 zu TOP 7.4 - Energiebericht 2019 (0811/2020) - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Photovoltaisches Potential der Dachflächen des Messegeländes - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11: Tagesordnungspunkt (betrifft Privatpersonen)
