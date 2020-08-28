@@ -1,0 +1,69 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-08-28T16:00:00+02:00
+- Ende: 2020-08-28T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19250
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19250
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö 20200828 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385380.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö 20200828 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385380.pdf
+- Wortprotokoll: Sitzungspaket Ö 20200828 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385380.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 19.06.2020 - einstimmig beschlossen
+- TOP 4: Soziale Stadt Rath/Mörsenbroich und Wersten/Holthausen - Abschlussbericht - zur Kenntnis genommen
+- TOP 5: Vorstellung Ergebnisse Fassaden- und Freiraum-Workshop - Nördlich Paulsmühlenstraße - zur Kenntnis genommen
+- TOP 6: Pigageallee - Vorziehen des Seitenraums in Höhe der Straße Im Diepental & Aufhebung der Einbahnstraßenregelung - einstimmig beschlossen
+- TOP 7: "Am Steinebrück - Lückenschluss des Gehweges, zwischen Zufahrt Seniorenresidenz und Baugebiet Am Scheitenwege Süd" - einstimmig beschlossen
+- TOP 8: alte/neue Hildener Straße – Knotenpunktausbau -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 9: Harffstraße- Barrierefreier Ausbau der Bushaltestelle Dillenburger Weg - zur Kenntnis genommen
+- TOP 10: Hasselsstraße, Barrierefreier Ausbau der Haltestelle Forststraße, Fahrtrichtung Nord - zur Kenntnis genommen
+- TOP 11: Trillser Straße/ Fuhlrottweg -Beschilderung von 2 verkehrsberuhigten Bereichen - zur Kenntnis genommen
+- TOP 12: Hospitalstraße / Benrodestraße – Erschließung Wohnbebauung - zur Kenntnis genommen
+- TOP 13: Widmung von Straßen - Sankt-Hubertus-Ring (Gemarkung Itter-Holthausen, Flur 8, Flurstück 298) - zur Kenntnis genommen
+- TOP 14: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - vertagt
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - abweichend beschlossen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 17: Maßnahmen zur Bekämpfung des Riesenbärenklaus im Himmelgeister Rheinbogen - zur Kenntnis genommen
+- TOP 18: Aktuelle Anfragen
+- TOP 19: Bauausführung Projekt Friedhofstraße 9, 9a, 9b, 9c - vertagt
+- TOP 20: MetroBus-Linie M1 - zur Kenntnis genommen
+- TOP 21: Bebauung Angerstraße Ecke Saddelerstraße - zur Kenntnis genommen
+- TOP 22: Müll- und Ordnungsprobleme Benrather und Himmelgeister Rheinufer,Urdenbacher Kämpe - zur Kenntnis genommen
+- TOP 23: Breitbandanschluss Gewerbegebiet Benrath - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 24: Graffiti – künstlerische Gestaltung der Eisenbahnunterführung Henkelstraße - abweichend beschlossen
+- TOP 25: Sanierung und Modernisierung von Kinderspielplätzen in Holthausen - abweichend beschlossen
+- TOP 26: Baumbewässerung - vertagt
+- TOP 27: Bouleplatz Max-Born-Straße - einstimmig beschlossen
+- TOP 28: Turnhalle Garather Straße - einstimmig beschlossen
+- TOP 29: Radverkehrsanlage Benrather Schloßallee - einstimmig beschlossen
+- TOP 30: Einrichtung einer Fußgängerquerung mit Bedarfsampel auf der Ickerswarder Straße - abweichend beschlossen
+- TOP 31: Bonner Straße, Nordost-Seite - einstimmig beschlossen
+- TOP 32: Humperdinckstraße/Hildener Straße - einstimmig beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung 9
+- TOP 33: Verfügungsmittel: Theodor-Litt-Realschule - Coolness-Training der 5. Klassen - einstimmig beschlossen
+- TOP 34: Verfügungsmittel: "Wir in Wersten" - Rock am Bach Live-Stream - einstimmig beschlossen
+- TOP 35: Verfügungsmittel: St.-Sebastianus-Schützenverein e.V. D-Holthausen - Weihnachtskonzert für Senioren - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksvertretungsstelle 9
+- TOP 36: Nutzungskonzept Eisstadiongelände Paulsmühlenstraße - zur Kenntnis genommen
+- TOP 37: Nutzungskonzept ehemaliges Sportgrundstück Benrath 1910 - zur Kenntnis genommen
+- TOP 38: Sachstand "Machbarkeitsstudie Bahnhof Benrath" - zur Kenntnis genommen
+- TOP 39: Zu- und Abfahrt des Park-and-Ride Parkplatzes an der Ickerswarder Straße - zur Kenntnis genommen
+- TOP 40: Am Trippelsberg - Protected Bike Lane - zur Kenntnis genommen
+- TOP 41: Kinderspielplatz im Bereich der Grünfläche südlich Benrather Schloßpark - zur Kenntnis genommen
+- TOP 42: Querungshilfe Dechenweg - zur Kenntnis genommen
+- TOP 43: Straßensanierung/Instandsetzung Musikantenviertel - zur Kenntnis genommen
+- TOP 44: Zufahrtsbeschränkung und Geschwindigkeitsbegrenzung Fürstenberger Platz - zur Kenntnis genommen
+- TOP 45: Fahrradständer an Haltestelle Kappeler Str. - zur Kenntnis genommen
+- TOP 46: Anbringung einer Informationstafel am Bunker Burscheider Straße - zur Kenntnis genommen
+- TOP 47: Setzen von Fahrradständern und Pfosten - Hildener Straße und Kappeler Straße - zur Kenntnis genommen
+- TOP 48: Gestaltung der Unterführung Paulsmühle - zur Kenntnis genommen
