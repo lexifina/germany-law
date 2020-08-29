@@ -40,12 +40,15 @@ Abschnitt 11 Besonderheiten für einzelne Fachrichtungen
 § 28 Übertragung von Ämtern in der Fachrichtung Justiz
 § 29 Wechsel zwischen den Fachrichtungen Justiz und Allgemeine Verwaltung
 § 30 Aufstieg in der Fachrichtung Justiz
+§ 30a Erleichterter Aufstieg in der Fachrichtung Justiz
 § 31 Einstellung in der Fachrichtung Polizei
-§ 32 Beförderungen in der Fachrichtung Polizei
+§ 32 Beförderung in ein Amt der Besoldungsgruppe A 14 in der Fachrichtung Polizei
 § 33 Aufstieg in der Fachrichtung Polizei
+§ 33a Erleichterter Aufstieg in der Fachrichtung Polizei
 § 34 Abschlussprüfungen in der Fachrichtung Polizei vor Inkrafttreten dieser Verordnung
 § 35 Einstellung in der Fachrichtung Feuerwehr
 § 36 Aufstieg in der Fachrichtung Feuerwehr
+§ 36a Erleichterter Aufstieg in der Fachrichtung Feuerwehr
 Abschnitt 12 Landespersonalausschuss
 § 37 Ausnahmebefugnisse des Landespersonalausschusses
 Abschnitt 13 Übergangs- und Schlussvorschriften
