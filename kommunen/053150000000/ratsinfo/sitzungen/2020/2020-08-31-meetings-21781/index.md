@@ -1,0 +1,68 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-31T17:05:00+02:00
+- Ende: 2020-08-31T19:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21781
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21781
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag der FDP-Fraktion auf Durchführung einer Aktuellen Stunde betreffend "Bearbeitungsstau in Kfz-Zulassungsstelle auflösen" - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Zertifizierung der Stadt Köln als familienfreundliches Unternehmen über die berufundfamilie GmbH - Kenntnis genommen
+- TOP 1.2: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Fördertopf "Städtepartnerschaften gestalten" 2020 - Kenntnis genommen
+- TOP 2.2: Fördertopf "Kommunale Entwicklungszusammenarbeit" 2020 - Kenntnis genommen
+- TOP 2.3: EU Projekt GrowSmarter - Kenntnis genommen
+- TOP 2.4: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 08.06.2020 betreffend "Mitgliedschaft bei Transparency International" (0452/2020) - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 08.06.2020 betreffend "Bericht zu Ausreisen und Abschiebungen ausreisepflichtiger Personen 2019" (0434/2020) - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 08.06.2020 betreffend "Drittes Geschlecht auf der Website Terminkalender des Standesamtes" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 08.06.2020 betreffend "Mitteilung des Personal- und Verwaltungsmanagements zu der Thematik Marketingmaßnahmen / Personalgewinnung" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zum Änderungsbeschluss vom 23.04.2018 (AN/0629/2018) - Kenntnis genommen
+- TOP 4.2: Sprach- und Integrationsmittler*innenpool für die Stadt Köln - Jahresbericht 2019 - Kenntnis genommen
+- TOP 4.3: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 4.4: LGBT-freie Zonen Polen - Kenntnis genommen
+- TOP 4.5: Zweiter Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.6: Überörtliche Prüfung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - Kenntnis genommen
+- TOP 4.7: Inklusionsbericht 2019 - Kenntnis genommen
+- TOP 4.8: Netzwerk gegen häusliche Gewalt – Statistik 2019 - Kenntnis genommen
+- TOP 4.9: Sommerbilanz des städtischen Ordnungsdienstes zur Corona-Pandemie - Kenntnis genommen
+- TOP 4.10: Projektsachstand Personalrisikomanagement - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Niedrigschwellige Eingliederungshilfe - Aufgabenübertragung von 50, Amt für Soziales, Arbeit und Senioren zu 53, Gesundheitsamt - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU-Fraktion betreffend "Untersuchung der Auswirkungen von Sauberkeit auf die Sicherheitssituation im öffentlichen Raum" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0754/2020 der CDU-Fraktion betreffend "Untersuchung der Auswirkungen von Sauberkeit auf die Sicherheitssituation im öffentlichen Raum" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Einsatzkonzepte Karneval Streetwork und Ordnungsdienst" - zurückgestellt
+- TOP 6.3: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Ausweitung der Außengastronomie-Genehmigungen in Corona-Zeiten" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Ausweitung der Außengastronomie - Genehmigungen in Corona-Zeiten" (AN/1064/2020) - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Videoüberwachung am Ebertplatz" - zurückgestellt
+- TOP 6.5: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Bürgerdienste – Wartezeiten bei Beantragung von Dokumenten" - Sache ist erledigt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Organisation/Personalausstattung im Büro OB
+- TOP 7.2: Brennende Autos in Nippes
+- TOP 7.3: Städtische Website des Gewerbezentralregisters
+- TOP 7.4: Weihnachtsmärkte
+- TOP 7.5: Öffentliche Berichterstattung zu den Social Media Accounts der Oberbürgermeisterin
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion betreffend "Kölner Ordnungsdienst darf nicht an den Stadtrand verlagert werden – Die Zentrale muss auch zentral liegen/Mittelfristig Standorte in allen Stadtbezirken schaffen" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - geändert beschlossen
+- TOP 10.2: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke betreffend TOP 10.2 "Stellplatzsatzung für Köln" (3217/2019) - zurückgestellt
+- TOP 10.3: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend TOP 10.3 "Herstellung von Barrierefreiheit auf Kölner Gehwegen" (2763/2019) - zurückgestellt
+- TOP 10.4: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Interkommunale Zusammenarbeit auf dem Gebiet der Vergabe von Lieferungen und Leistungen - ungeändert beschlossen
+- TOP 10.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2021 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
