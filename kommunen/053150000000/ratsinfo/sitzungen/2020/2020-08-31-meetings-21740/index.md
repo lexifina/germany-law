@@ -1,0 +1,51 @@
+# 48. Sitzung des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-31T16:00:00+02:00
+- Ende: 2020-08-31T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21740
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21740
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786598.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786598.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786598.pdf
+
+## Tagesordnung
+
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Gemeinsame Anfrage der CDU-Fraktion, der Fraktion Bündnis 90/ Die Grünen und der FDP-Fraktion vom 08.06.2020 betr. „Sachstand Planung von Schulschwimmbädern im Rahmen von Schulbau - Schwimmbadbau in Modulbauweise als möglicher Beschleuniger?“ - zurückgestellt
+- TOP 1.2: Anfrage der SPD-Fraktion vom 18.08.2020 betr. "Belüftung der Klassenräume in Gebäuden mit Passivhausstandard" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Gemeinsamer Dringlichkeitsantrag SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion vom 27.08.2020 für die Erarbeitung eines Gesamtkonzeptes Gut Leidenhausen - ungeändert beschlossen
+- TOP 3: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4: Entscheidungen (Beschlussorgan Betriebsausschuss Gebäudewirtschaft)
+- TOP 4.1: Erstellung eines Neubaus für die Heliosschulen - Grund- und Gesamtschule mit einer Ein- und einer Dreifeldsporthalle als inklusive Universitätsschule an der Vogelsanger Straße (ehem. Helios-Gelände) in Köln-Ehrenfeld – Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 4.2: Erweiterungsbau an der Kaiserin-Theophanu-Schule Kantstraße 3, 51103 Köln-Kalk - Kostenfortschreibungsbeschluss gemäß § 13 Abs. 4 Satz 2 der Betriebssatzung der Gebäudewirtschaft in Verbindung mit § 16 Abs. 5 Satz 1 der Eigenbetriebsverordnung NRW - ungeändert beschlossen
+- TOP 4.3: Dienstanweisung zur Geschäftsverteilung innerhalb der Betriebsleitung - ungeändert beschlossen
+- TOP 4.4: Sanierung des Haupthauses in Finkens Garten, Friedrich-Ebert-Straße 49, 50996 Köln - Weiterplanungsbeschluss - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 5.1: TU-/GU-Schulbaumaßnahmen: Neubau von zwei Interimsschulgebäuden an den Standorten Kreutzerstraße 11 und Venloer Wall 13b, 50672 Köln-Neustadt/Nord durch Totalunternehmer - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 5.2: Planungsaufnahme zur Errichtung eines Neubaus für eine dreizügige Grundschule mit einer 1-fach Turnhalle am Standort Antwerpener Straße 19-29, 50672 Köln-Innenstadt-Nord - ungeändert empfohlen
+- TOP 5.3: Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstr. 71 - 73, 50823 Köln-Neuehrenfeld - Baubeschluss - ungeändert empfohlen
+- TOP 5.4: Fachraumerneuerung für die Mikrobiologielaborräume im Berufskolleg Kartäuserwall (BK 16), Kartäuserwall 30, 50676 Köln. - ungeändert empfohlen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Köln baut mit Holz - zur Anfrage AN/0297/2020 der Fraktion Bündnis 90/Die Grünen und AN/0977/2019 - Kenntnis genommen
+- TOP 7.2: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total oder Generalunternehmer - Kenntnis genommen
+- TOP 7.3: Sanierung von Dach und Fassade der Trauerhalle Westfriedhof, Venloer Straße 1132, 50827 Köln – Planungs- und Baubeschluss - Kenntnis genommen
+- TOP 7.4: Erste Gebäude in der Bildungslandschaft Altstadt-Nord fertiggestellt - Kenntnis genommen
+- TOP 7.5: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 03.08.2020 - Kenntnis genommen
+- TOP 7.6: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 21. Juli 2020 - Kenntnis genommen
+- TOP 7.7: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 11. August 2020 - Kenntnis genommen
+- TOP 7.8: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 22. Juli 2020 - Kenntnis genommen
+- TOP 7.9: Zwischenbericht der Gebäudewirtschaft der Stadt Köln zum 30.06.2020 - Kenntnis genommen
+- TOP 7.10: Sachstandsbericht zum 30.06.2020 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 14.08.2020 - Kenntnis genommen
+- TOP 7.12: Projektverfolgungsbericht für Baumaßnahmen mit einem Volumen von über 20 Mio. Euro - Stand: 30.06.2020 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Mündliche Anfrage von RM Kircher betr. "Kita Baptiststraße in Köln-Roggendorf/Thenhoven"
+- TOP 8.2: Mündliche Anfrage von RM Henk-Hollstein betr. "Schulschwimmbäder"
+- TOP 8.3: Mündliche Anfrage von RM Henk-Hollstein betr. "Carl-Stamitz-Musikschule"
