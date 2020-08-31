@@ -1,0 +1,126 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-31T16:00:00+02:00
+- Ende: 2020-08-31T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21956
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21956
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786767.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786767.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00786767.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Neubaus des Blockheizkraftwerks durch den Baudezernent Gerhards
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Anregung nach Paragraf 24 GO NRW - Trinkwasserbrunnen Stadtwaldweiher / Tierpark - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand Bahnsteigverlängerungen Linie 1
+- TOP 7.1.2: Auswirkungen der Pförtnerampel und Auslastung der Express-Busse auf der Aachener Straße
+- TOP 7.1.3: Kölns erster Fleischautomat in Köln-Sülz am Auerbachplatz
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nachfrage Schutz von Vorgärten vor Versiegelung - zurückgestellt
+- TOP 7.2.2: Nachfrage Kölns erster Fleischautomat in Köln-Sülz am Auerbachplatz - zurückgestellt
+- TOP 7.2.3: Anfrage Sport- und Wasserflächen - zurückgestellt
+- TOP 7.2.4: Nachfrage Sachstand des Fußgängerüberwegs in Widdersdorf - Sache ist erledigt
+- TOP 7.2.5: Nachfrage Sachstand Radweg Kölner Straße - Sache ist erledigt
+- TOP 7.2.6: Nachfrage Sachstand Verkehrssicherheit Brauweiler-Str. - Sache ist erledigt
+- TOP 7.2.7: Nachfrage Erwerb der Weißhaus-Immobilie einschließlich Parkanlage - zurückgestellt
+- TOP 7.2.8: Anfrage Auswirkungen der Pförtnerampel und Auslastung der Express-Busse auf der Aachener Straße - zurückgestellt
+- TOP 7.2.9: Anfrage Expressbusspur - Sache ist erledigt
+- TOP 7.2.10: Anfrage aktueller Sachstand der Verbesserung der Verkehrssicherheit an der Kreuzung Klosterstraße/Clarenbachstraße - Sache ist erledigt
+- TOP 7.2.11: Anfrage Lärmschutz am äußeren Grüngürtel - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Antrag Hissen der Flagge vor dem Lindenthaler Rathaus am Tag der Gewalt gegen Frauen - ungeändert beschlossen
+- TOP 8.1.2: Antrag Verkehrszählung auf dem Vogelsanger Weg in Höhe Amselstraße/Drosselstraße Zebrastreifen, Tempo 30 - ungeändert beschlossen
+- TOP 8.1.3: Antrag Beflaggung zum Kölner CSD mit der Regenbogenfahne an dem Fahnenmast - ungeändert beschlossen
+- TOP 8.1.4: Antrag Radstrecke Pumptrack - ungeändert beschlossen
+- TOP 8.1.5: Antrag Sternwarte - ungeändert beschlossen
+- TOP 8.1.6: Antrag Wanderbaumallee - ungeändert beschlossen
+- TOP 8.1.7: Optimierung der Verkehrssituation in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.8: Antrag Fahrradabstellplätze auf der Münstereifeler Str. - ungeändert beschlossen
+- TOP 8.1.9: Antrag Großmarkt in Köln Marsdorf - ungeändert beschlossen
+- TOP 8.1.10: Antrag Errichtung eines Bürgertreff-Raumes in der Friedenschule - endgültig zurückgezogen
+- TOP 8.1.11: Antrag Beschleunigung Ladesäulenbau - ungeändert beschlossen
+- TOP 8.1.12: Antrag Buskaps an Bushaltestellen in Lövenich - endgültig zurückgezogen
+- TOP 8.1.13: Sicherung des Fußgängerverkehres und der Barrierefreiheit auf den Fußwegen in der Wichterichstraße in Köln Sülz - ungeändert beschlossen
+- TOP 8.1.14: Antrag digitale Öffnung - ungeändert beschlossen
+- TOP 8.1.15: Prüfantrag Verkehrsberuhigung Brauweiler Straße - zurückgestellt
+- TOP 8.1.16: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.17: Dringlichkeitsantrag Tempo 30 Universitätsstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung Hier: Ausübung der Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.2: Umbenennung des Heinz-Mohnen-Platzes - geändert beschlossen
+- TOP 9.1.3: Eingabe zur Kita Körnerstraße 1 in 50858 Köln - Beendigung des Mietvertrags - ungeändert beschlossen
+- TOP 9.1.4: Neuer Beschluss Veranschlagung für die Bezirksorientierten Mittel für die Jahre 2020/2021 gem. § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.5: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Louna Kitas gGmbH" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Radschnellweg Köln-Frechen, Abarbeitung der Prüfaufträge vom 02.12.2019 - geändert beschlossen
+- TOP -: Ergänzungsantrag Radschnellweg - ungeändert beschlossen
+- TOP 9.2.2: Bedarfsfeststellungsbeschluss zur Vergabe der weiteren Generalplanungsleistungen inklusive der örtlichen Bauüberwachung im Zuge des Planfeststellungsverfahrens "Anbindung der Knotenpunkte Aachener Straße und Stolberger Straße an die Militärringstraße - ungeändert beschlossen
+- TOP 9.2.3: Baubeschluss für die Umgestaltung des Knotenpunktes Hauptstraße/Leonhardsgasse/Blaugasse und Generalinstandsetzung der Leonhardsgasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisier - geändert beschlossen
+- TOP -: Änderungsantrag Verwaltungsvorlage Leonhardsgasse - ungeändert beschlossen
+- TOP 9.2.4: Satzungsbeschluss betreffend die vereinfachte Änderung des Bebauungsplanes Nummer 58480/03 - ungeändert beschlossen
+- TOP 9.2.5: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - geändert beschlossen
+- TOP 9.2.6: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Wohnbebauung Alsdorfer Straße in Köln Braunsfeld/-Ehrenfeld - ungeändert beschlossen
+- TOP -: Ergänzung Planungskonzept Wohnbebauung Alsdorfer Straße - ungeändert beschlossen
+- TOP 9.2.7: Konzept für die SeniorenNetzwerke Köln - Alternative beschlossen
+- TOP 9.2.8: Brunnen- und Beregnungsanlage für die Stadion-Vorwiesen im Sportpark Müngersdorf - ungeändert beschlossen
+- TOP 9.2.9: Einrichtungs- und Mittelfreigabebeschluss für die Neubauten und Sanierungsbauten des Georg-Büchner-Gymnasiums, Ostlandstraße 39, 50858 Köln - ungeändert beschlossen
+- TOP 9.2.10: Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Baubeschluss - ungeändert beschlossen
+- TOP 9.2.11: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ungeändert beschlossen
+- TOP 9.2.12: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 58463/03 Arbeitstitel: Am Nachtigallental in Köln-Weiden - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: S-Bahn Takt Abendverkehr
+- TOP 11.2.2: Unzureichende Beleuchtungssituation an einem Teilstück der Belvederestraße in Köln Müngersdorf, Beschluss in der Sitzung am 08.06.2020, TOP 8.1.8
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: "Für einen beschleunigten ÖPNV-Ausbau Doppelplanungen beenden und Ost-West-Achse oberirdisch ausbauen!"
+- TOP 11.3.2: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd
+- TOP 11.3.3: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfs 63451/03;
+- TOP 11.3.4: Lichtmasterplan für die Stadt Köln
+- TOP 11.3.5: Niederschrift des Gestaltungsbeirates vom 19.05.2020
+- TOP 11.3.6: Entwicklungen im Rahmenplangebiet Müngersdorf, Braunsfeld und Ehrenfeld
+- TOP 11.3.7: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik
+- TOP 11.3.8: Jugendzentren Köln gGmbH, Jugendzentrum "Alte Schule Widdersdorf", hier:
+- TOP 11.3.9: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen aus vorangegangenen Sitzungen
+- TOP 12.1: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.2: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.3: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.4: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.5: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.6: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.7: Baumfällungen - zurückgestellt
+- TOP 12.8: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.9: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.10: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.11: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.12: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.13: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.14: Begegnungsräume in Widdersdorf - zurückgestellt
+- TOP 12.15: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 12.16: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
+- TOP 12.17: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 12.18: Anwohnerschutzkonzept - Sache ist erledigt
+- TOP 12.19: Betlehem-Platz in Köln-Widdersdorf - zurückgestellt
+- TOP 12.20: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.21: Verlegung der Großmarktes von Raderberg nach Marsdorf - zurückgestellt
+- TOP 12.22: Maßnahmen gegen illegale Sprayaktionen und Farbschmierereien - zurückgestellt
