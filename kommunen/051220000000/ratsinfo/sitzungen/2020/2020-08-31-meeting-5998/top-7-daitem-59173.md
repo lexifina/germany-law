@@ -1,0 +1,7 @@
+# TOP 7.: Ideenliste 2020 Sachstand und eingereichte Ideen der Bürger*innen
+
+- Sitzung: Beirat für Bürgerbeteiligung (9. Sitzung) (2020-08-31)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/59173
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/32941
