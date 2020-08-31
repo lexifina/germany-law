@@ -17,7 +17,7 @@ Registers
 - [§ 5 Inhalt der Eintragung](0005.md)
 - [§ 6 Gesamtstrafe und Einheitsstrafe](0006.md)
 - [§ 7 Aussetzung zur Bewährung; Vorbehalt der Entscheidung über die Aussetzung](0007.md)
-- [§ 8 Sperre für Fahrerlaubnis](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9](0009.md)
 - [§ 10 Entscheidungen von Verwaltungsbehörden und Gerichten](0010.md)
 - [§ 11 Schuldunfähigkeit](0011.md)
