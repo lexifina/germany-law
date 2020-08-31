@@ -1,0 +1,92 @@
+# 46.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-08-31T17:00:00+02:00
+- Ende: 2020-08-31T18:57:00+02:00
+- Ort: Palladium, Schanzenstr. 36, 51063 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21906
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21906
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage Buchenbestand in Buchforst, Buchheim und Mülheim
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Odenthaler Straße in Köln-Dünnwald (Az.: 02-1600-215/19) - geändert beschlossen
+- TOP 2.2: Anregungen der "Initiative für ein lebenswertes Mülheim" vom 07.08.2019;Hier: Maßnahmen für Mülheim in der Federführung von Dezernat VI - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Hinweise auf gefährliche Verkehrssituationen in Köln-Holweide (Az.: 02-1600-229/18) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer zweckgebundenen Spende und Neugestaltung des Spiel- und Bolzplatzes Im Bischofsacker in Köln-Buchforst - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung für die GGS von-Bodelschwingh-Str. - ungeändert beschlossen
+- TOP 6.3: Annahme einer Schenkung von 10.000,00 € für drei Sitzgruppen am Rheinboulevard Mülheimer Hafen - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anwohnerparken in der Urnenstraße - Kenntnis genommen
+- TOP 7.1.2: Wegführung in Köln-Buchheim am Gelände Parkour (Zwischen „Am Schneckenberg" und „An St. Theresia“) - Kenntnis genommen
+- TOP 7.1.3: Stellflächen für E-Roller - Kenntnis genommen
+- TOP 7.1.4: Beantwortung der Anfrage AN/0784/2020, Fortschreibung der Schulentwicklungsplanung Köln 2020 - Grundschulsituation in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.1.5: Umgestaltung der Berliner Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 7.1.6: Beantwortung der Anfrage der CDU-Fraktion in der Bezirksvertretung 9 - Mülheim; betr. Zukunft des Eckgründstücks Kranzbinderweg/ Kaspar-Düppes-Straße in Holweide - Kenntnis genommen
+- TOP 7.1.7: Beantwortung der Anfrage der CDU-Fraktion in der Bezirksvertretung 9 - Mülheim, betr. Zukunft des Grundstücks „Peugeot“ in Holweide - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tempo 30 Bergisch Gladbacher Str. - Kenntnis genommen
+- TOP 7.2.2: Binnenschifffahrt und Liegeplätze - Kenntnis genommen
+- TOP 7.2.3: Verfahren zum Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 7.2.4: Situation Grundschule KGS Horststraße (Mülheim) - Kenntnis genommen
+- TOP 7.2.5: Verbesserung der Beleuchtung in der von-Quadt-Str. - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Außengastronomie auf ausgewählten Parkplatzflächen - ungeändert beschlossen
+- TOP 8.1.2: Flüsterasphalt und Verkehrsfluss Bergisch Gladbacherstraße - endgültig abgelehnt
+- TOP 8.1.3: Wohnbebauung Buchheim - Sache ist erledigt
+- TOP 8.1.4: Aufstellung des mobilen Geschwindigkeitsmessgeräts im Stadtteil Buchheim - ungeändert beschlossen
+- TOP 8.1.5: Sofortplan gegen die Hitze - ungeändert beschlossen
+- TOP 8.1.6: Wiederherstellung der Verkehrssicherheit Am Flachsrosterweg - ungeändert beschlossen
+- TOP 8.1.7: Keine Parkplätze im Naschgarten des Jugendzentrums Picco in Holweide - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vergabe weiterer Mittel - ungeändert beschlossen
+- TOP 9.1.3: Zeisbuschweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung Hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.5: Baubeschluss für die Sanierung des Rad- und Gehwegs zwischen Von-Lohe-Straße und Böcking-Park einschließlich Montage von Frankfurter Hüten (Verkehrsversuch) - ungeändert beschlossen
+- TOP 9.1.6: Baubeschluss für die Optimierung der Radverkehrsführung auf dem Clevischen Ring, Höhe Böcking-Park - ungeändert beschlossen
+- TOP 9.1.7: Baubeschluss für die Einrichtung einer Busspur mit Freigabe für den Radverkehr auf dem Clevischen Ring zwischen Dünnwalder Straße und Abzweig Keupstraße (Verkehrsversuch) - ungeändert beschlossen
+- TOP 9.1.8: Abriss Umkleidehaus Piccoloministr. - ungeändert beschlossen
+- TOP 9.1.9: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Buchheim und Buchforst und Mülheim-Nord, Keupstraße“ - ungeändert beschlossen
+- TOP 9.1.10: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.11: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vergabe weiterer Mittel nach Ende der verlängerten Antragsfrist - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - geändert beschlossen
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die 1. Änderung des Bebau-ungsplanes Nummer 7053/02 Arbeitstitel: Kurtekottener Straße in Köln Flittard - ungeändert beschlossen
+- TOP 9.2.3: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 72498/02 Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.5: 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.6: Mülheimer Süden, Netzelement 4 - Östlicher Ringschluss - ungeändert beschlossen
+- TOP 9.2.7: Neubau der städtischen Sporthalle Herler Ring ("Blaue Halle") - ungeändert beschlossen
+- TOP 9.2.8: Bedarfsfeststellungs- und Planungsbeschluss zum Ausbau des Knotenpunkts Deutz-Mülheimer-Straße/Auenweg sowie Freigabe von investiven Auszahlungsermächtigungen, hier: Finanzstelle 6601-1201-9-1109, Umgestaltung Deutz-Mülheimer Straße - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Mitteilung der Verwaltung zum Beschluss der Bezirksvertretung Mülheim vom 04.05.2020, TOP 8.1.3 (AN/0303/2020) - Kenntnis genommen
+- TOP 10.2.5: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 10.2.6: Generalsanierung der Pützlachstraße und der Frasengasse in Köln-Flittard - Kenntnis genommen
+- TOP 10.2.7: Unfallhäufungsstellen des Jahres 2019 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.8: Mehr Sicherheit vor der Jugendeinrichtung Treffer in Köln-Buchheim/Parkregelung in der Guilleaumstraße in Buchheim - Kenntnis genommen
+- TOP 10.2.9: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.10: Sachstand Hubschrauberbetriebsstation – Alternativstandort Flughafen Köln/Bonn - Kenntnis genommen
+- TOP 10.2.11: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 10.2.12: EU Projekt GrowSmarter - Kenntnis genommen
+- TOP 10.2.13: Aufstellung eines Parkscheinautomaten auf der Markgrafenstraße in Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.14: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
