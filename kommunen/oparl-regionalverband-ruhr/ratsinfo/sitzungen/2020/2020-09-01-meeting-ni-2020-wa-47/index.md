@@ -1,0 +1,58 @@
+# 27. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-09-01T10:05:00+02:00
+- Ende: 2020-09-01T12:35:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-WA-47
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-WA-47
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-WA-47
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-WA-47
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 19.05.2020
+- TOP 3: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr – Aktueller Bericht zur EU-Strukturförderung 2021-2027
+- TOP 4: IGA Metropole Ruhr 2027 - Sachstandsbericht
+- TOP -: Angelegenheiten des Bereichs Planung
+- TOP 5: Ergebnis zur Kooperativen Werkstatt im Projekt 'Zukunft und Heimat: Revierparks 2020'; Sachstandsbericht
+- TOP 6: Angelegenheiten der Freizeitgesellschaften
+- TOP 6.1: Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften - Sachstandsbericht mit finanziellen Auswirkungen und zu erwartenden Sonderzuschüssen zum 31.12.2020
+- TOP 6.2: Antwort auf die Anfrage der Fraktion Die Linke Stand des Auftrages zur Erarbeitung eines einheitlichen Sozialtarifs für die Freizeitgesellschaft Metropole Ruhr mbH und die Revierparks
+- TOP 6.3: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Gesellschaft zum 01.01.2021
+- TOP 7: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019
+- TOP 7.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Business Metropole Ruhr GmbH
+- TOP 7.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Ruhr Tourismus GmbH
+- TOP 7.3: AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 7.3.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – AGR GmbH
+- TOP 7.3.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – Konzernabschluss
+- TOP 7.3.3: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – RZR II Herten GmbH
+- TOP 7.4: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Kultur Ruhr GmbH
+- TOP 7.5: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 7.6: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Gysenberg Herne GmbH
+- TOP 7.7: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Wischlingen GmbH
+- TOP 7.8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitzentrum Xanten GmbH
+- TOP 7.9: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Maximilianpark Hamm GmbH
+- TOP 7.10: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Seegesellschaft Haltern mbH
+- TOP 7.11: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 7.12: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Umweltzentrum Westfalen GmbH
+- TOP 7.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - TouristikEisenbahn Ruhrgebiet GmbH
+- TOP 8: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün
+- TOP 8.1: Festellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2019 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 8.2: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Kürzung des Betriebskostenzuschusses an RVR Ruhr Grün im Haushaltsjahr 2020
+- TOP 9: Ausbildung beim RVR und in den Beteiligungsgesellschaften
+- TOP 10: Bericht über die Beteiligungen für das Jahr 2018 gemäß GO NRW
+- TOP 11: Anträge
+- TOP 12: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
