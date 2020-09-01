@@ -1,0 +1,109 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-01T17:00:00+02:00
+- Ende: 2020-09-01T20:06:00+02:00
+- Ort: Marie-Curie-Gymnasium, Pädagogisches Zentrum, Gräulinger Straße 15
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18996
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18996
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385520.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385520.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385520.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zurückgestellt
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Eingabe nach § 24 Gemeindeordnung NRW - zurückgezogen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Bauanträge Pirnaer Str. 1 - 7, Neubau von 4 Wohnhäusern und 21 Stellplätzen, und Pirnaer Str. 9-27, Neubau von 10 Wohnhäusern und einer Tiefgarage - einstimmig beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Zuschuss an den Düsseldorfer Sport-Club 1899 e.V - einstimmig beschlossen
+- TOP 5.6: Straßenbenennung Borussia-Düsseldorf-Straße - einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2020) - einstimmig beschlossen
+- TOP 5.8: Sitzungstermine der Bezirksvertretung 7 im Jahr 2021 - zur Kenntnis genommen
+- TOP 5.9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Zurverfügungstellung von CO2-Meldern für Grundschulen - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 6.2: Ladestationen für E-Autos im Stadtbezirk 7 - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.3: Pumptrack-Anlage für den Bezirk 7 - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 6.4: Projekt mit Jugendlichen: Errichtung einer temporären Pumptrack-Anlage - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.5: Reitwege im Stadtbezirk - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.6: Abfallcontainer Grafenberger Allee vor REWE -Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 6.7: Ostparkweiher - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 6.8: Verkehrssicherheit Josef-Neuberger Str. / Torfbruchstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.9: DRK-Kindergarten Sonnengarten, Heinrich-Könn-Str. 36a - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Fußgängerampel Heyestraße / Hatzfeldstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.12: Barrierearme Pflasterung in der Fußgängerzone - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 6.13: Fahrradfreundliche Gleise für die Heyestraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 6.14: Planungsstand ehemaliges Seniorenzentrum Am Gallberg, Blanckertzstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 6.15: Urban Gardening ausbauen und fördern - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 6.16: Verkehrssicherheit Glashüttenstraße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 6.17: Wanderweg Sauerweg – Plungscheuer – Rotthäuser Bachtal - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.18: Wanderweg Sauerhof - Erkrather Landstraße, Hubbelrath - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.19: Großfeuerwerk am Glasmacherviertel am 4.7.2020 - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 6.20: Elektrostation auf dem Alter Markt - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.21: Spielplatz an der Dreherstraße - Antrag der CDU-Fraktion - - einstimmig abgelehnt
+- TOP 6.22: Kleidercontainer Apostelplatz - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 6.23: Gaslaternen Dornaper Straße und Regenbergastraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.24: Fahrräder an der Gutenbergstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.25: Nachbesserung Umgestaltung Spielplatz Hülsmeyerstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.26: Sammelstelle Gartenabfälle Grafenberg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.27: Parkflächen Hardtstraße - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 6.28: Schaffung von geeigneten Parkplätzen für Lastenräder - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.29: Gestaltung Märkische Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.30: Sachstandsbericht Breitbandausbau in Ludenberg/Hubbelrath - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 6.31: Hundeauslaufplatz Brombeerhügel Neubaugebiet Hallesche Straße - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 6.32: Verkehrsberuhigung Torfbruchstraße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 6.33: Waldfriedhof Gerresheim, Quadenhofstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.34: Bauvorhaben SANA-Kliniken Gräulinger Str./ Im Heidewinkel Kita, Wohnen, Tagespflege, Pflegeschule, Betreutes Wohnen - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.35: Umwandlung der Tennenfläche in Kunstrasen - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 6.36: Entfernung der Fahrradsymbole auf der Benderstraße - Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 6.37: Fahrradstreifen Benderstraße - Änderungsantrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.38: CO2- Melder für Schulen im Stadtbezirk 7 - Ergänzungsantrag der CDU-Fraktion - - zurückgezogen
+- TOP 6.39: Verkehrssicherheit Glashüttenstraße - Ergänzungsantrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.40: Parkflächen Hardtstraße - Änderungsantrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.41: Bauvorhaben SANA-Kliniken Gräulinger Str./ Im Heidewinkel Kita, Wohnen, Tagespflege, Pflegeschule, Betreutes Wohnen - Änderungsantrag der CDU-Frakton - - zurückgezogen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Infrastruktur Knittkuhl/ Hubbelrath - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Stillstand beim Projekt der SWD in der Heyestraße 51-53? - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Blühpflanzen als Uferbepflanzung - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 8.6: Flüsterasphalt Torfbruchstraße - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Quadenhofstraße = Fahrradstraße? - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8.11: Hinterhofbebauung Ludenberger Straße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 8.12: Renovierung Stadtbücherei Gerresheim - Anfrage der Fratkion Bündnis 90/Die Grünen - - vertagt
+- TOP 8.13: K.O. für den Sport im Stadtbezirk 7? - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 9.2: Nutzungskonzept "Leerstehende Landenflächen" - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 9.3: Spielplatz "Alter Friedhof" an der Dreherstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.4: Wohnmobile auf dem Schützenplatz - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.5: Grüner Pfeil für Fahrradfahrer - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.6: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 9.7: Sportstätten im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 9.8: Zufahrt zur Fußgängerzone Neusser Tor - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 9.9: CO-Pipeline Dormagen-Uerdingen - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.10: Temporäre Spielstraßen - Informationsvorlage - - zur Kenntnis genommen
+- TOP 9.11: Freigabe des Steinweges vom Alter Markt in Richtung Gerricusplatz für Radfahrende - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 9.12: Öffnung von Einbahnstraßen für den Radverkehr in beide Fahrtrichtungen - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.13: Kein Aufenthalt auf Fußgänger-Mittelinseln - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.14: Fahrradweg Markierung Haltestelle Hardenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.09.2018 - - zur Kenntnis genommen
+- TOP 9.15: Beleuchtung Gehrtsstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.16: Abschraffur Gerricusstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
