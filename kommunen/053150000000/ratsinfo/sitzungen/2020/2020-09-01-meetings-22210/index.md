@@ -1,0 +1,52 @@
+# 25. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-01T17:00:00+02:00
+- Ende: 2020-09-01T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22210
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22210
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00784615.pdf
+- Ergebnisprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00784615.pdf
+- Wortprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00784615.pdf
+
+## Tagesordnung
+
+- TOP 1: Schwerpunktthema/Vorträge
+- TOP 2: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 2.1: Anfrage Sitzungskonzept - Kenntnis genommen
+- TOP 2.2: Anfrage Neue Zielgruppen in der LSBT*Q Jugendarbeit - Kenntnis genommen
+- TOP 2.2.1: Anfrage bezüglich neuer Zielgruppen in der LSBT*Q Jugendarbeit - Kenntnis genommen
+- TOP 2.3: Anfrage Ampelpärchen am Heumarkt - Kenntnis genommen
+- TOP 2.3.1: Ampelpärchen Heumarkt - Kenntnis genommen
+- TOP 2.4: Anfrage Installation Regenbogen-Zebrastreifen - Kenntnis genommen
+- TOP 2.4.1: Regenbogen-Zebrastreifen - Kenntnis genommen
+- TOP 2.5: Anfrage zu Maßnahmen des Ordnungs- und Gesundheitsamtes in der queeren Szene - Kenntnis genommen
+- TOP 2.5.1: Beantwortung der schriftlichen Anfrage zu diversen Maßnahmen des Ordnungs- und Gesundheitsamtes der Stadt Köln in der queren Szene - Kenntnis genommen
+- TOP 2.6: Anfrage Unisex-Toiletten in Schulen und anderen städtischen Gebäuden - Kenntnis genommen
+- TOP 3: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 3.1: Verwendung des Budgets der StadtAG LST
+- TOP 3.1.1: Antrag zur Öffentlichkeitsarbeit - ungeändert beschlossen
+- TOP 4: Trans*
+- TOP 4.1: Studie InTraHealth - Kenntnis genommen
+- TOP 4.2: Schwimmzeiten für trans- und intergeschlechtliche Menschen - Kenntnis genommen
+- TOP 5: LSBTI Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 6.1: Benennung von Straßen und Plätzen in Köln - Kenntnis genommen
+- TOP 6.2: Fotoausstellung des "Rainbow Cities Network" 2020: Thema "Lesbian Visibility" - Kenntnis genommen
+- TOP 7: Diversity
+- TOP 8: Sachstandsberichte und Mitteilungen
+- TOP 8.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 8.2: QueerTV ist gestartet - Kenntnis genommen
+- TOP 8.3: Neuwahl des Jugendhilfeausschusses nach der Kommunalwahl am 13.09.2020 - Kenntnis genommen
+- TOP 8.4: Inklusionsbericht 2019 - Kenntnis genommen
+- TOP 8.5: Polittalk zu LGBTIQ* relevanten Themen zur Kommunalwahl 2020 - Kenntnis genommen
+- TOP 8.6: LSBTI Aktionsplan: „Selbstverständlich unterschiedlich - Aktionsplan der Stadt Köln zur Akzeptanz sexueller und geschlechtlicher Vielfalt" - Kenntnis genommen
+- TOP 8.7: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 8.8: Städtepartnerschaftlicher LSBTI-Austausch 2020 - Kenntnis genommen
+- TOP 9: Berichte aus Ausschüssen
+- TOP 10: Mündliche Anfragen
+- TOP 11: Verschiedenes
