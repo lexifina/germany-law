@@ -1,0 +1,121 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-01T17:00:00+02:00
+- Ende: 2020-09-01T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21901
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21901
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 - Antrag der CDU-Fraktion "Aktuelle Stunde - Hubschrauberlandeplatz am Flughafen Köln-Bonn" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: I - Zentrum für Therapeutisches Reiten
+- TOP -: II - Sachvortrag der Berufsfeuerwehr Köln - Einsatztaktik der Feuerwehr bei Wald- und Flächenbränden
+- TOP -: I - Sachstand Porz Mitte
+- TOP -: II - Sachstand Schulbau in Porz
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Genehmigung einer Dringlichkeitsentscheidung - Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 76380/03; Arbeitstitel: "Südlich Friedensstraße – Westteil" in Köln-Porz-Elsdorf - ungeändert beschlossen
+- TOP 6.2: Genehmigung einer Dringlichkeitsentscheidung - 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 6.3: Widmung der Straße Rolshover Kirchweg, von Allerseelenstraße bis Am Grauen Stein - zurückgestellt
+- TOP 6.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung Hier: Ausübung des Anhörungsrechtes gemäße § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 6.5: Widmung des Parkplatzes an der Breslauer Straße in Köln-Urbach - ungeändert beschlossen
+- TOP 6.6: Neuanlage Spielplatz Rathausstraße in Köln-Porz-Mitte - zurückgestellt
+- TOP 6.7: Projektanträge im Rahmen des Verfügungsfonds für das Soziale Stadt-Gebiet „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - zurückgestellt
+- TOP -: Änderungsantrag der CDU-Fraktion "Busbetriebshof der KVB" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Busbetriebshof Köln Porz" - zurückgestellt
+- TOP 7.2: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - ungeändert beschlossen
+- TOP 7.3: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Linder Höhe" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Linder Höhe" - zurückgestellt
+- TOP 7.4: Beschluss über Erweiterung des Geltungsbereiches, Stellungnahmen sowie Satzungsbeschluss betref-fend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74407/02 - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Hohenstaufenstraße/Steinstraße" - endgültig zurückgezogen
+- TOP 7.5: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. o. Nr. 2, 51143 Köln - Baubeschluss - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Neubau eines Wohngebäudes Houdainer Straße" - zurückgestellt
+- TOP 7.7: Bedarfsfeststellungsbeschluss zur Vergabe der Planungsleistungen für die Maßnahme „Umgestaltung der Hauptstraße (Porz) von Steinstraße bis Mühlenstraße“ aus dem Integrierten Stadtentwicklungskonzept für das Programmgebiet „Soziale Stadt Porz“ sowie B - ungeändert beschlossen
+- TOP 7.8: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Bergerstraße in Köln-Porz - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Verlängerung der Stadtbahnlinie 7 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Ergänzung des Stadtbahnvertrages zur Übertragung der Federführung der Verlängerung der Linie 7" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Verlängerung der Linie 7" - endgültig zurückgezogen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Schaffung einer Lösch- und Nutzwasserversorgung entlang der Alten Kölner Straße" - endgültig zurückgezogen
+- TOP -: Stellungnahme der Berufsfeuerwehr Köln zu AN/0734/2020 - Kenntnis genommen
+- TOP 8.2: Antrag der CDU-Fraktion "Sachstandsbericht zur Kreuzung Grengeler Mauspfad/Hirschgraben in Porz-Eil - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion "Einrichtung eines Wanderparkplatzes am Mauspfad" - geändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der CDU-Fraktion "Verkehrssituation Nachtigallenstraße/Sportplatzstraße verbessern in Köln-Porz-Wahnheide" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Magazinstraße, Sportplatzstraße, Rolandstraße und Nachtigallenstarße" - ungeändert beschlossen
+- TOP 8.5: Antrag der CDU-Fraktion "Treppenabgang zum S-Bahnhof Steinstraße in Porz-Finkenberg" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Beschilderung am Bahnübergang Kölner Str. / Andre-Citroen-Str. zur Einfahrt in das Gewerbegebiet Armand-Peugeot-Straße" - geändert beschlossen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Antrag der SPD-Fraktion "Dezernent Dr. Rau zu Schließung des Zentrums für Therapeutisches Reiten in Westhoven" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Therapeutisches Reiten" - geändert beschlossen
+- TOP -: Zentrum für therapheutisches Reiten in Köln-Westhoven (AN/1046/2020) - Kenntnis genommen
+- TOP 8.9: Antrag der CDU-Fraktion "restlicher Ausbau der Straße Bieselweg in Köln-Porz-Wahnheide" - ungeändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Verkehrsberuhigung In der Gracht" - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion "Sachstand zum Hallenbad in Köln-Porz-Wahn" - Sache ist erledigt
+- TOP -: Stellungnahme der KölnBäder GmbH zum Antrag TOP 8.11 - Kenntnis genommen
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Antrag der CDU-Fraktion "Einrichten von Fußgängerüberwege mit Zebrastreifen in Köln-Porz-Wahnheide und Wahn" - ungeändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Verkehrssicherheit Poller Damm" - ungeändert beschlossen
+- TOP 8.15: Antrag der SPD-Fraktion "Sanierung der Gehwege auf dem Städtischen Friedhof in Libur" - Sache ist erledigt
+- TOP 8.16: Antrag der SPD-Fraktion "Geschwindigkeitskontrollen in Wahnheide" - ungeändert beschlossen
+- TOP -: Geschwindigkeitskontrollen in Wahnheide - Kenntnis genommen
+- TOP 8.17: Antrag der SPD-Fraktion "Geschwindigkeitsreduzierung und Querungshilfe zwischen Wahn und Elsdorf" - ungeändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion "Geschwindigkeitsreduzierung und Querungshilfe" - ungeändert beschlossen
+- TOP 8.18: Antrag der SPD-Fraktion "Prüfung von alternierendem Parken in der Straße Auf dem Stallberg" - zurückgestellt
+- TOP 8.19: Antrag der SPD-Fraktion "Rechtsabbiegespur von Liburer Straße in Pastor-Hutmacher-Straße einrichten" - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag CDU-Fraktion "Rechtsabbiegespur von Liburer Straße in Pastor-Hutmacher-Straße einrichten" - geändert beschlossen
+- TOP 8.20: Antrag der SPD-Fraktion "Sachstandsbericht Sportanlage Humboldtstraße/Brucknerstraße" - Sache ist erledigt
+- TOP -: Stellungnahme des Sportamts zu "Sachstandsbericht Sportanlagen Humboldstraße/Brucknerstraße" - Kenntnis genommen
+- TOP 8.21: Dringlichkeitsantrag der SPD-Fraktion "Weitere Teilnahme der Gebäudewirtschaft an den Sitzungen der Bezirksvertretung Porz" - Sache ist erledigt
+- TOP 8.22: Dringlichkeitsantrag SPD-Fraktion "Überprüfung der Senkkästen im Stadtbezirk Porz" - ungeändert beschlossen
+- TOP 8.23: Dringlichkeitsantrag der SPD-Fraktion "Bezirksvertretung Porz an der Entscheidung über ein Hochhaus an der Stadtbezirksgrenze beteiligen" - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Einrichtung eines Behindertenparkplatzes in der Karlstraße - Kenntnis genommen
+- TOP 9.1.2: Trampelpfad am Käulchensweg - Kenntnis genommen
+- TOP 9.1.3: Verkehrsberuhigung in der Meirowskystraße und Carlebachstraße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90 /Die Grünen "Maskenpflicht im ÖPNV" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der Fraktion Bündnis 90 / Die Grünen in der Bezirksvertretung Porz - Kenntnis genommen
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Verkehrsanbindung Gut Leidenhausen" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Zukünftige Nutzung der Fläche des bisherigen Standortes des Kugelglasbehälters in Porz-Eil" - Sache ist erledigt
+- TOP -: Zukünftige Nutzung der Fläche des bisherigen Standortes des Kugelgasbehälters in Porz-Eil - Kenntnis genommen
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Wöchentliche Märkte auf dem Autokino in Porz-Eil" - zurückgestellt
+- TOP 9.2.5: Anfrage der CDU-Fraktion "Erschließungsregelung - Evakuierungskonzept Schulzentrum Zündorf in Porz-Zündorf" - zurückgestellt
+- TOP 9.2.6: Anfrage der Fraktion Bündnis 90/Die Grünen "Bebauungsplan - An der Mühle in Köln-Porz-Langel" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Bündnis 90 / Die Grünen in der Bezirksvertretung 7 - Porz betr. Fortschritt des Bauprojektes An der Mühle in Köln-Porz-Langel AN/1630/2019 - Kenntnis genommen
+- TOP 9.2.7: Anfrage der SPD-Fraktion "Ausbau des Rolshover Kirchwegs bis zum Verkehrsübungsplatz Poll" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: An der Groove - Kenntnis genommen
+- TOP 10.2.2: Projektskizze: "Floristische Aufwertung städtischer Streuobstwiesen durch Mahdgutübertragung zur Förderung der lokalen Insektenfauna" - Kenntnis genommen
+- TOP 10.2.3: Jahresbericht 2019 der Naturschutzwacht, Bezirk 7 Porz-Süd - Kenntnis genommen
+- TOP 10.2.4: Mitteilung der Verwaltung zu beschlossenem Antrag AN/0078/2020 "Veedelsmanagement" - Kenntnis genommen
+- TOP 10.2.5: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 10.2.6: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung am 10.09.2019; Sachstandsbericht Pflege- und Entwicklungsplan für den Geschützten Landschaftsbestandteil LB 7.24 "Senkelsgraben in Lind" - Kenntnis genommen
+- TOP 10.2.7: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.8: Offenlage nach §3 Abs. 2 BauGB zum Bebauungsplan-Entwurf 75391/04 Arbeitstitel: Kaiserstraße 95-99 in Köln-Porz - Kenntnis genommen
+- TOP 10.2.9: Offenlage nach §3 Abs. 2 BauGB zum Bebauungsplan-Entwurf 75389/03 Arbeitstitel: Kaiserstraße in 95-99 in Köln-Porz - Kenntnis genommen
+- TOP 10.2.10: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Aloys-Boecker-Straße 4, 51147 Köln-Lind - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 10.2.11: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.12: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 10.2.13: Sachstandsbericht Sperrung des Linder Mauspfads für den LKW-Schwerlastverkehr über 7,5 Tonnen - Kenntnis genommen
+- TOP 10.2.14: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 10.2.15: Niederschrift zum 12. Runden Tisch Radverkehr vom 29.06.2020 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
