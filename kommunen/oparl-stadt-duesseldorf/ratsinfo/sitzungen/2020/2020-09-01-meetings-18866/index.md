@@ -1,0 +1,78 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-01T16:00:00+02:00
+- Ende: 2020-09-01T18:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18866
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18866
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385665.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385665.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00385665.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/05/2020 vom 23.06.2020 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Starkregenprävention und hydraulische Besonderheiten im Bereich des Stadtbezirks 2 - mündlicher Bericht - zurückgezogen
+- TOP 5: Graf-Recke-Straße 139 - Errichtung eines Pavillons zur Nutzung als Kiosk - einstimmig beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 157 (Entwurf) - Westlich Ronsdorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 7: Bebauungsplan - Entwurf Nr. 02/016 - Westlich Ronsdorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 8: Regenbogenfarbige Aufmerksamkeitsfelder Höherweg - vertagt
+- TOP 9: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - einstimmig abgelehnt
+- TOP -: Anträge
+- TOP 10: Bezirksbezogene Haushaltsmittel - Unterstützung der Kulturveranstaltung in der Versöhnungskirche am 11.11.2020 - Antrag der Fraktionen von Bündnis90/Die Grünen und SPD - mehrheitlich beschlossen
+- TOP 11: Bezirksbezogene Haushaltsmittel für den Stadtteilladen der Diakonie - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 12: Bezirksbezogene Haushaltsmittel für die Brehmschule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 13: Bezirksbezogene Haushaltsmittel – Zuwendungsantrag HISKO e.V. - einstimmig beschlossen
+- TOP 14: Bezirksbezogene Haushaltsmittel HISKO - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel für "Leben und Lernen e.V." - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 16: Zuschuss für Adventsveranstaltungen des Familienselbsthilfezentrums Treff am Zoo aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktionen von Bündnis 90/Die Grünen und SPD - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Haushaltsmittel für die Publikation "Dorotheenheim" von Christel Blömeke - Antrag der Fraktionen von Bündnis90/Die Grünen und SPD - einstimmig beschlossen
+- TOP 18: Ampelphasen Herder- zur Lindemann- und als Verlängerung Richtung Graf-Recke-Straße - einstimmig beschlossen
+- TOP 19: Absenkung des Bordsteins an der Fahrradausfahrt des Allwetterbads - einstimmig beschlossen
+- TOP 20: Zufahrt zum Fahrradparkplatz am Allwetterbad Flingern - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 21: Brehmschule Schulwegsicherung - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 22: Vollzeitbetrieb für die Linie 708 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 23: Sperrung des Höherweges beenden - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 24: Ratinger Weststrecke mit Haltepunkt Hohenzollernallee - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 25: Zufahrt Recyclinghof Flingern während des Neubaus der Müllverbrennung - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 26: Baumpflanzung auf der Platanenstraße - einstimmig beschlossen
+- TOP 27: Baumpflanzungen Grafental - einstimmig beschlossen
+- TOP 28: Abfallbehälter Hermannplatz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 29: Beleuchtung Bolzplatz Hermannplatz - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 30: Verkehrssituation Cranachbrücke - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 31: Abstellmöglichkeiten für Lastenräder - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 32: Sitzgelegenheit Stadt-Natur Park Flingern - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 33: Berechnung von Fahrradstellplätzen im Rahmen der Verkehrswende - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 34: Zustand der S-Bahnhöfe im Stadtbezirk 2 - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 35: Schutz der Fußgehenden auf Verkehrsinseln - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 36: Gänsemanagement im Zoopark - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 37: Auslastung von Quartiersgaragen im Stadtbezirk 2 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 38: Kreuzung Dorotheen-/Birken-/Flurstraße - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Parkplätze für Lastenräder am Allwetterbad - Anfrage der Fraktion Bündnis90/Die Grünen - schriftlich beantwortet
+- TOP 42: Abbiegemöglichkeit/Linksabbieger von der Kettwiger Straße in den Höherweg Richtung Automeile - Anfrage der CDU-Fraktion
+- TOP 43: Änderung der Praxis bei der Parkraumüberwachung im Stadtbezirk 2 - Anfrage der CDU-Fraktion
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Neue Fußgängerquerung Bruchstraße (bei REWE)
+- TOP -: Informationsvorlagen
+- TOP 47: Zugänge Zoopark - Faunastraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/035/2020 - zur Kenntnis genommen
+- TOP 48: Haltestelle Uhlandstraße der Linie 708 - Beschluss der Bezirksvertretung 2, Vorlage BV2/043/2019 - zur Kenntnis genommen
+- TOP 49: Bank Weseler-/Ecke Mülheimer Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/051/2020 - zur Kenntnis genommen
+- TOP 50: Bordsteinanhebung vor der Cranachstraße 2 verhindern - Beschluss der Bezirksvertretung 2, Vorlage BV2/091/2020 - zur Kenntnis genommen
+- TOP 51: Protected Bike-Lane zwischen Beethoven- und Neanderstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2 - zur Kenntnis genommen
+- TOP 52: Zweckentfremdung von Wohnraum - Anwendung der Wohnraumschutzsatzung - Sachstandsbericht - Beschluss der Bezirksvertretung 2, Vorlage BV2/049/2020 - zur Kenntnis genommen
+- TOP 53: Telefonzelle Rethelstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/100/2020 - zur Kenntnis genommen
+- TOP 54: Pragmatische Parkplatzgestaltung auf der Cranachstraße nahe des Kreuzungsbereiches zur Grafenberger Allee - Beschluss der Bezirksvertretung 2, Vorlage BV2/093/2020 - zur Kenntnis genommen
+- TOP 55: Parken auf der Grafenberger Allee - Beschluss der Bezirksvertretung 2, Vorlage BV2/011/2020 - zur Kenntnis genommen
+- TOP 56: Erläuterung der Verkehrssicherung von Baustellen insbesondere im Baustellenbereich Grafenberger Allee 114/116 - Beschluss Der Bezirksvertretung 2, Vorlöage BV2/022/2020 - zur Kenntnis genommen
+- TOP 57: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
