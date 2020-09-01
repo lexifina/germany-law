@@ -38,18 +38,20 @@
 | § 21 | Gewerbsmäßige Waffenherstellung, Waffenhandel |
 | § 21a | Stellvertretungserlaubnis |
 | § 22 | Fachkunde |
-| § 23 | Waffenbücher |
+| § 23 | (weggefallen) |
 | § 24 | Kennzeichnungspflicht, Markenanzeigepflicht |
-| § 25 | Ermächtigungen und Anordnungen |
+| § 25 | Verordnungsermächtigungen |
+| § 25a | Anordnungen zur Kennzeichnung |
 | § 26 | Nichtgewerbsmäßige Waffenherstellung |
 | § 27 | Schießstätten, Schießen durch Minderjährige auf Schießstätten |
+| § 27a | Sicherheitstechnische Prüfung von Schießstätten; Verordnungsermächtigung |
 | § 28 | Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmer und ihr Bewachungspersonal |
 | § 28a | Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung |
 | Unterabschnitt 5 |
 | Verbringen und Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes |
-| § 29 | Verbringen von Waffen oder Munition in den Geltungsbereich des Gesetzes |
-| § 30 | Verbringen von Waffen oder Munition durch den Geltungsbereich des Gesetzes |
-| § 31 | Verbringen von Waffen oder Munition aus dem Geltungsbereich des Gesetzes in andere Mitgliedstaaten |
+| § 29 | Verbringen von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes |
+| § 30 | Allgemeine Erlaubnis zum Verbringen von Waffen oder Munition aus dem Geltungsbereich dieses Gesetzes in andere Mitgliedstaaten |
+| § 31 | (weggefallen) |
 | § 32 | Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes, Europäischer Feuerwaffenpass |
 | § 33 | Anmelde- und Nachweispflichten, Befugnisse der Überwachungsbehörden beim Verbringen oder der Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes |
 | Unterabschnitt 6 |
@@ -57,12 +59,23 @@
 | § 34 | Überlassen von Waffen oder Munition, Prüfung der Erwerbsberechtigung, Anzeigepflicht |
 | § 35 | Werbung, Hinweispflichten, Handelsverbote |
 | § 36 | Aufbewahrung von Waffen oder Munition |
-| § 37 | Anzeigepflichten |
+| § 37 | Anzeigepflichten der gewerblichen Waffenhersteller und Waffenhändler |
+| § 37a | Anzeigepflichten der Inhaber einer Waffenbesitzkarte oder einer gleichgestellten anderen Erlaubnis zum Erwerb und Besitz und der Inhaber einer nichtgewerbsmäßigen Waffenherstellungserlaubnis |
+| § 37b | Anzeige der Vernichtung, der Unbrauchbarmachung und des Abhandenkommens |
+| § 37c | Anzeigepflichten bei Inbesitznahme |
+| § 37d | Anzeige von unbrauchbar gemachten Schusswaffen |
+| § 37e | Ausnahmen von der Anzeigepflicht |
+| § 37f | Inhalt der Anzeigen |
+| § 37g | Eintragungen in die Waffenbesitzkarte |
+| § 37h | Ausstellung einer Anzeigebescheinigung |
+| § 37i | Mitteilungspflicht bei Umzug ins Ausland und bei Umzug im Ausland |
 | § 38 | Ausweispflichten |
 | § 39 | Auskunfts- und Vorzeigepflicht, Nachschau |
+| § 39a | Verordnungsermächtigung für die Ersatzdokumentation |
 | Unterabschnitt 6a |
-| Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen |
-| § 39a | Verordnungsermächtigung |
+| Besondere Regelungen zum Umgang mit Salutwaffen und unbrauchbar gemachten Schusswaffen, zur Unbrauchbarmachung von Schusswaffen und zur Aufbewahrung von Salutwaffen |
+| § 39b | Erwerb, Besitz und Aufbewahrung von Salutwaffen |
+| § 39c | Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung |
 | Unterabschnitt 7 |
 | Verbote |
 | § 40 | Verbotene Waffen |
@@ -72,7 +85,6 @@
 | Abschnitt 3 |
 | Sonstige waffenrechtliche Vorschriften |
 | § 43 | Erhebung und Übermittlung personenbezogener Daten |
-| § 43a | Nationales Waffenregister |
 | § 44 | Übermittlung an und von Meldebehörden |
 | § 44a | Behördliche Aufbewahrungspflichten |
 | § 45 | Rücknahme und Widerruf |
@@ -95,8 +107,9 @@
 | § 57 | Kriegswaffen |
 | Abschnitt 6 |
 | Übergangsvorschriften, Verwaltungsvorschriften |
-| § 58 | Altbesitz |
+| § 58 | Altbesitz; Übergangsvorschriften |
 | § 59 | Verwaltungsvorschriften |
-| § 60 | Übergangsvorschrift |
+| § 60 | Übergangsvorschrift zur Kostenverordnung |
+| § 60a | Übergangsvorschrift zu den Waffenbüchern |
 | Anlage 1 (zu § 1 Abs. 4) Begriffsbestimmungen |
 | Anlage 2 (zu § 2 Abs. 2 bis 4) Waffenliste |

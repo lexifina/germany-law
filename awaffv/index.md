@@ -26,7 +26,7 @@ Schusswaffen; Fachbeirat
 - [§ 9 Zulässige Schießübungen auf Schießstätten](0009.md)
 - [§ 10 Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugend](0010.md)
 - [§ 11 Aufsicht](0011.md)
-- [§ 12 Überprüfung der Schießstätten](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 
 ## Abschnitt 5 Aufbewahrung von Waffen und Munition
 

@@ -19,7 +19,7 @@
 | § 9 | Zulässige Schießübungen auf Schießstätten |
 | § 10 | Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugendliche |
 | § 11 | Aufsicht |
-| § 12 | Überprüfung der Schießstätten |
+| § 12 | (weggefallen) |
 | Abschnitt 5 |
 |  | Aufbewahrung von Waffen und Munition |
 | § 13 | Aufbewahrung von Waffen oder Munition |

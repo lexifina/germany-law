@@ -18,26 +18,45 @@ die in Anhang IV Nummer 18 der Richtlinie 2006/42/EG des Europäischen Parlament
 a) sie nicht die Anforderungen des § 7 des Beschussgesetzes erfüllen und zum Nachweis das Kennzeichen der in § 20 Absatz 3 Satz 1 des Beschussgesetzes bezeichneten Stelle oder ein anerkanntes Prüfzeichen eines Staates, mit dem die gegenseitige Anerkennung der Prüfzeichen vereinbart ist, tragen oder
 b) bei ihnen nicht die Einhaltung der Anforderungen nach Anhang I Nummer 2.2.2.1 der Richtlinie 2006/42/EG durch Bescheinigung einer zuständigen Stelle eines Mitgliedstaates oder des Übereinkommens über den Europäischen Wirtschaftsraum nachgewiesen ist,
 1.2.3
-bei denen bestimmungsgemäß feste Körper gezielt verschossen werden, deren Antriebsenergie durch Muskelkraft eingebracht und durch eine Sperrvorrichtung gespeichert werden kann (z. B. Armbrüste). Dies gilt nicht für feste Körper, die mit elastischen Geschossspitzen (z. B. Saugnapf aus Gummi) versehen sind, bei denen eine maximale Bewegungsenergie der Geschossspitzen je Flächeneinheit von 0,16 J/cm² nicht überschritten wird;
+bei denen bestimmungsgemäß feste Körper gezielt verschossen werden, deren Antriebsenergie durch Muskelkraft oder eine andere Energiequelle eingebracht und durch eine Sperrvorrichtung gespeichert oder gehalten werden kann (zum Beispiel Armbrüste, Pfeilabschussgeräte). Dies gilt nicht für feste Körper, die mit elastischen Geschossspitzen (zum Beispiel Saugnapf aus Gummi) versehen sind, bei denen eine maximale Bewegungsenergie der Geschossspitzen je Flächeneinheit von 0,16 J/cm² nicht überschritten wird;
 1.3
 Wesentliche Teile von Schusswaffen, Schalldämpfer
-Wesentliche Teile von Schusswaffen und Schalldämpfer stehen, soweit in diesem Gesetz nichts anderes bestimmt ist, den Schusswaffen gleich, für die sie bestimmt sind. Dies gilt auch dann, wenn sie mit anderen Gegenständen verbunden sind und die Gebrauchsfähigkeit als Waffenteil nicht beeinträchtigt ist oder mit allgemein gebräuchlichen Werkzeugen wiederhergestellt werden kann. Teile von Kriegswaffen im Sinne des Gesetzes über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), zuletzt geändert durch Artikel 24 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), die nicht vom Gesetz über die Kontrolle von Kriegswaffen erfasst und nachstehend als wesentliche Teile aufgeführt sind, sowie Schalldämpfer zu derartigen Waffen werden von diesem Gesetz erfasst;
-Wesentliche Teile sind
+Wesentliche Teile von Schusswaffen und Schalldämpfer stehen, soweit in diesem Gesetz nichts anderes bestimmt ist, den Schusswaffen gleich, für die sie bestimmt sind. Dies gilt auch dann, wenn sie mit anderen Gegenständen verbunden sind und die Gebrauchsfähigkeit als Waffenteil nicht beeinträchtigt ist oder mit allgemein gebräuchlichen Werkzeugen wiederhergestellt werden kann. Teile von Kriegswaffen im Sinne des Gesetzes über die Kontrolle von Kriegswaffen, die nicht vom Gesetz über die Kontrolle von Kriegswaffen erfasst und nachstehend als wesentliche Teile aufgeführt sind sowie Schalldämpfer zu derartigen Waffen werden von diesem Gesetz erfasst;
 1.3.1
-der Lauf oder Gaslauf, der Verschluss sowie das Patronen- oder Kartuschenlager, wenn diese nicht bereits Bestandteil des Laufes sind; der Lauf ist ein aus einem ausreichend festen Werkstoff bestehender rohrförmiger Gegenstand, der Geschossen, die hindurchgetrieben werden, ein gewisses Maß an Führung gibt, wobei dies in der Regel als gegeben anzusehen ist, wenn die Länge des Laufteils, der die Führung des Geschosses bestimmt, mindestens das Zweifache des Kalibers beträgt; der Gaslauf ist ein Lauf, der ausschließlich der Ableitung der Verbrennungsgase dient; der Verschluss ist das unmittelbar das Patronen- oder Kartuschenlager oder den Lauf abschließende Teil;
+Wesentliche Teile sind
+1.3.1.1
+der Lauf oder Gaslauf; der Lauf ist ein aus einem ausreichend festen Werkstoff bestehender rohrförmiger Gegenstand, der Geschossen, die hindurchgetrieben werden, ein gewisses Maß an Führung gibt, wobei dies in der Regel als gegeben anzusehen ist, wenn die Länge des Laufteils, der die Führung des Geschosses bestimmt, mindestens das Zweifache des Kalibers beträgt; der Gaslauf ist ein Lauf, der ausschließlich der Ableitung der Verbrennungsgase dient;
+1.3.1.2
+der Verschluss; der Verschluss ist die Baugruppe einer Schusswaffe, welche das Patronen- oder Kartuschenlager nach hinten abschließt; bei teilbaren Verschlüssen sind Verschlusskopf und Verschlussträger jeweils wesentliche Teile; der Verschlusskopf ist das unmittelbar das Patronen- oder Kartuschenlager oder den Lauf abschließende Teil; der Verschlussträger ist das Bauteil, welches das Verriegeln und Entriegeln des Verschlusskopfs steuert;
+1.3.1.3
+das Patronen- oder Kartuschenlager, wenn dieses nicht bereits Bestandteil des Laufes ist; das Patronen- oder Kartuschenlager ist ein Hohlkörper aus einem hinreichend festen Material, dessen Abmaße für die Aufnahme von Patronenmunition, Kartuschenmunition oder Ladungen mit oder ohne Geschoss eingerichtet sind und in dem die Munition oder Ladung gezündet wird;
+1.3.1.4
+bei Schusswaffen, bei denen zum Antrieb ein entzündbares flüssiges oder gasförmiges Gemisch verwendet wird, die Verbrennungskammer und die Einrichtung zur Erzeugung des Gemisches;
+1.3.1.5
+bei Schusswaffen mit anderem Antrieb die Antriebsvorrichtung, sofern diese fest mit der Schusswaffe verbunden ist;
+1.3.1.6
+das Gehäuse; das Gehäuse ist das Bauteil, welches den Lauf, die Abzugsmechanik und den Verschluss aufnimmt; setzt sich das Gehäuse aus einem Gehäuseober- und einem Gehäuseunterteil zusammen, sind beide Teile wesentliche Teile; das Gehäuseoberteil nimmt den Lauf und den Verschluss auf; das Gehäuseunterteil nimmt die Abzugsmechanik auf; bei Kurzwaffen wird das Gehäuseunterteil als Griffstück bezeichnet;
+1.3.1.7
+vorgearbeitete wesentliche Teile von Schusswaffen sowie Teile und Reststücke von Läufen und Laufrohlingen, wenn sie mit allgemein gebräuchlichen Werkzeugen fertiggestellt werden können.
 1.3.2
-bei Schusswaffen, bei denen zum Antrieb ein entzündbares flüssiges oder gasförmiges Gemisch verwendet wird, auch die Verbrennungskammer und die Einrichtung zur Erzeugung des Gemisches;
+Führendes wesentliches Teil ist das Gehäuse; wenn dieses aus Gehäuseober- und Gehäuseunterteil zusammengesetzt ist, das Gehäuseunterteil (Griffstück bei Kurzwaffen); wenn kein Gehäuse vorhanden ist, ist der Verschluss führendes wesentliches Teil; wenn kein Verschluss vorhanden ist, ist der Lauf führendes wesentliches Teil.
 1.3.3
-bei Schusswaffen mit anderem Antrieb auch die Antriebsvorrichtung, sofern sie fest mit der Schusswaffe verbunden ist;
-1.3.4
-bei Kurzwaffen auch das Griffstück oder sonstige Waffenteile, soweit sie für die Aufnahme des Auslösemechanismus bestimmt sind.
-Als wesentliche Teile gelten auch vorgearbeitete wesentliche Teile von Schusswaffen sowie Teile/Reststücke von Läufen und Laufrohlingen, wenn sie mit allgemein gebräuchlichen Werkzeugen fertiggestellt werden können. Schalldämpfer sind Vorrichtungen, die der wesentlichen Dämpfung des Mündungsknalls dienen und für Schusswaffen bestimmt sind;
+Schalldämpfer sind Vorrichtungen, die der wesentlichen Dämpfung des Mündungsknalls dienen und für Schusswaffen bestimmt sind.
 1.4
 Unbrauchbar gemachte Schusswaffen (Dekorationswaffen)
-Schusswaffen sind unbrauchbar, wenn sie gemäß ihrem Waffentyp und in jedem wesentlichen Bestandteil den Maßgaben des Anhangs I Tabelle I bis III der Durchführungsverordnung (EU) 2015/2403 der Kommission vom 15. Dezember 2015 zur Festlegung gemeinsamer Leitlinien über Deaktivierungsstandards und -techniken, die gewährleisten, dass Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden (ABl. L 333 vom 19.12.2015, S. 62), entsprechen.
+Schusswaffen sind unbrauchbar gemacht, wenn die zuständige Behörde eines Mitgliedstaates der Europäischen Union für diese Schusswaffen eine Bescheinigung nach Artikel 3 Absatz 4 der Durchführungsverordnung (EU) 2015/2403 der Kommission vom 15. Dezember 2015 zur Festlegung gemeinsamer Leitlinien über Deaktivierungsstandards und -techniken, die gewährleisten, dass Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden (ABl. L 333 vom 19.12.2015, S. 62), die zuletzt durch die Durchführungsverordnung (EU) 2018/337 (ABl. L 65 vom 8.3.2018, S. 1) geändert worden ist, ausgestellt hat und die zuständige Behörde die Schusswaffen gemäß Artikel 5 der Durchführungsverordnung (EU) 2015/2403 gekennzeichnet hat.
 1.5
 Salutwaffen
-Salutwaffen sind veränderte Langwaffen, die u. a. für Theateraufführungen, Foto-, Film- oder Fernsehaufnahmen bestimmt sind, wenn sie die nachstehenden Anforderungen erfüllen:
+Salutwaffen sind
+1.5.1
+veränderte Langwaffen, die unter anderem für Theateraufführungen, Foto-, Film- oder Fernsehaufnahmen bestimmt sind, wenn sie die nachstehenden Anforderungen erfüllen:
+a) das Patronenlager muss dauerhaft so verändert sein, dass keine Patronen- oder pyrotechnische Munition geladen werden kann,
+b) der Lauf muss in dem dem Patronenlager zugekehrten Drittel mindestens sechs kalibergroße, offene Bohrungen oder andere gleichwertige Laufveränderungen aufweisen und vor diesen in Richtung der Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft verschlossen sein,
+c) der Lauf muss mit dem Gehäuse fest verbunden sein, sofern es sich um Waffen handelt, bei denen der Lauf ohne Anwendung von Werkzeugen ausgetauscht werden kann,
+d) die Änderungen müssen so vorgenommen sein, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen- oder pyrotechnische Munition verschossen werden können, und
+e) der Verschluss muss ein Kennzeichen nach Abbildung 11 der Anlage II zur Beschussverordnung tragen;
+1.5.2
+Schusswaffen, die vor dem 1. April 1976 entsprechend den Anforderungen des § 3 der Ersten Verordnung zum Waffengesetz vom 19. Dezember 1972 (BGBl. I S. 2522) verändert worden sind;
 - das Patronenlager muss dauerhaft so verändert sein, dass keine Patronen- oder pyrotechnische Munition geladen werden kann,
 - der Lauf muss in dem dem Patronenlager zugekehrten Drittel mindestens sechs kalibergroße, offene Bohrungen oder andere gleichwertige Laufveränderungen aufweisen und vor diesen in Richtung der Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft verschlossen sein,
 - der Lauf muss mit dem Gehäuse fest verbunden sein, sofern es sich um Waffen handelt, bei denen der Lauf ohne Anwendung von Werkzeugen ausgetauscht werden kann,
@@ -60,7 +79,7 @@ Feuerwaffen; dies sind Schusswaffen nach Nummer 1.1, bei denen ein Geschoss mitt
 2.2
 Automatische Schusswaffen; dies sind Schusswaffen, die nach Abgabe eines Schusses selbsttätig erneut schussbereit werden und bei denen aus demselben Lauf durch einmalige Betätigung des Abzuges oder einer anderen Schussauslösevorrichtung mehrere Schüsse abgegeben werden können (Vollautomaten) oder durch einmalige Betätigung des Abzuges oder einer anderen Schussauslösevorrichtung jeweils nur ein Schuss abgegeben werden kann (Halbautomaten). Als automatische Schusswaffen gelten auch Schusswaffen, die mit allgemein gebräuchlichen Werkzeugen in automatische Schusswaffen geändert werden können. Als Vollautomaten gelten auch in Halbautomaten geänderte Vollautomaten, die mit den in Satz 2 genannten Hilfsmitteln wieder in Vollautomaten zurückgeändert werden können. Double-Action-Revolver sind keine halbautomatischen Schusswaffen. Beim Double-Action-Revolver wird bei Betätigung des Abzuges durch den Schützen die Trommel weitergedreht, so dass das nächste Lager mit einer neuen Patrone vor den Lauf und den Schlagbolzen zu liegen kommt, und gleichzeitig die Feder gespannt. Beim weiteren Durchziehen des Abzuges schnellt der Hahn nach vorn und löst den Schuss aus.
 2.3
-Repetierwaffen; dies sind Schusswaffen, bei denen nach Abgabe eines Schusses über einen von Hand zu betätigenden Mechanismus Munition aus einem Magazin in das Patronenlager nachgeladen wird.
+Repetierwaffen; dies sind Schusswaffen, bei denen das Zuführen der Patrone aus einem Magazin, das Abfeuern und das Entfernen der Patrone oder Patronenhülse mit Hilfe eines nur von Hand zu betätigenden Mechanismus erfolgt.
 2.4
 Einzelladerwaffen; dies sind Schusswaffen ohne Magazin mit einem oder mehreren Läufen, die vor jedem Schuss aus demselben Lauf von Hand geladen werden.
 2.5
@@ -84,9 +103,9 @@ Einsteckläufe sind Läufe ohne eigenen Verschluss, die in die Läufe von Waffen
 3.4
 Wechseltrommeln sind Trommeln für ein bestimmtes Revolvermodell, die ohne Nacharbeit gewechselt werden können.
 3.5
-Wechselsysteme sind Wechselläufe einschließlich des für sie bestimmten Verschlusses.
+Wechselsysteme sind Austauschläufe einschließlich des für sie bestimmten Verschlusses sowie der für sie bestimmten Gehäuseteile, sofern diese Gehäuseteile technisch erforderlich sind und Austauschlauf, Verschluss und Gehäuseteile in ihrer Gesamtheit keine bestimmungsgemäß verwendbare Waffe ergeben.
 3.6
-Einstecksysteme sind Einsteckläufe einschließlich des für sie bestimmten Verschlusses.
+Einstecksysteme sind Einsteckläufe einschließlich des für sie bestimmten Verschlusses sowie der für sie bestimmten Gehäuseteile, sofern diese Gehäuseteile technisch erforderlich sind und Einstecklauf, Verschluss und Gehäuseteile in ihrer Gesamtheit keine bestimmungsgemäß verwendbare Waffe ergeben.
 3.7
 Einsätze sind Teile, die den Innenmaßen des Patronenlagers der Schusswaffe angepasst und zum Verschießen von Munition kleinerer Abmessungen bestimmt sind.
 4.
@@ -97,6 +116,14 @@ Zielscheinwerfer sind für Schusswaffen bestimmte Vorrichtungen, die das Ziel be
 Laser oder Zielpunktprojektoren sind für Schusswaffen bestimmte Vorrichtungen, die das Ziel markieren. Ein Ziel wird markiert, wenn auf diesem für den Schützen erkennbar ein Zielpunkt projiziert wird.
 4.3
 Nachtsichtgeräte oder Nachtzielgeräte sind für Schusswaffen bestimmte Vorrichtungen, die eine elektronische Verstärkung oder einen Bildwandler und eine Montageeinrichtung für Schusswaffen besitzen. Zu Nachtzielgeräten zählen auch Nachtsichtvorsätze und Nachtsichtaufsätze für Zielhilfsmittel (Zielfernrohre).
+4.4
+Magazine sind für die Verwendung in Schusswaffen bestimmte Munitionsbehältnisse, die der Aufbewahrung und Zuführung von Patronen im Rahmen des Ladevorgangs dienen.
+4.4.1
+Eingebaut sind Magazine, die während ihrer Befüllung bestimmungsgemäß mit der Schusswaffe verbunden bleiben.
+4.4.2
+Wechselmagazine sind Magazine, die während ihrer Befüllung bestimmungsgemäß von der Schusswaffe getrennt werden.
+4.4.3
+Magazingehäuse sind diejenigen Bestandteile von Wechselmagazinen, die dazu bestimmt sind, die Patronen aufzunehmen.
 5.
 Reizstoffe sind Stoffe, die bei ihrer bestimmungsgemäßen Anwendung auf den Menschen eine belästigende Wirkung durch Haut- und Schleimhautreizung, insbesondere durch einen Augenreiz ausüben und resorptiv nicht giftig wirken.
 6.
@@ -191,9 +218,19 @@ nimmt eine Waffe oder Munition mit, wer diese Waffe oder Munition vorübergehend
 schießt, wer mit einer Schusswaffe Geschosse durch einen Lauf verschießt, Kartuschenmunition abschießt, mit Patronen- oder Kartuschenmunition Reiz- oder andere Wirkstoffe verschießt oder pyrotechnische Munition verschießt,
 8.
 8.1
-werden Waffen oder Munition hergestellt, wenn aus Rohteilen oder Materialien ein Endprodukt oder wesentliche Teile eines Endproduktes erzeugt werden; als Herstellen von Munition gilt auch das Wiederladen von Hülsen,
+werden Waffen oder Munition hergestellt, wenn aus Rohteilen oder Materialien ein Endprodukt oder wesentliche Teile eines Endproduktes erzeugt werden oder bei einer Waffe das führende wesentliche Teil durch ein Teil, das noch nicht in einer Waffe verbaut war, ersetzt wird; eine Schusswaffe ist hergestellt, wenn sie weißfertig im Sinne von § 2 Absatz 5 des Beschussgesetzes ist oder der Austausch des führenden wesentlichen Teils abgeschlossen ist; als Herstellen von Munition gilt auch das Wiederladen von Hülsen,
+8.1a
+ist eine Waffe fertiggestellt, sobald sie mit dem amtlichen Beschusszeichen nach § 6 des Beschussgesetzes versehen wurde oder, sofern die Waffe nicht der amtlichen Beschussprüfung unterliegt, sobald sie zum Inverkehrbringen bereitgehalten wird,
 8.2
-wird eine Schusswaffe insbesondere bearbeitet oder instand gesetzt, wenn sie verkürzt, in der Schussfolge verändert oder so geändert wird, dass andere Munition oder Geschosse anderer Kaliber aus ihr verschossen werden können, oder wenn wesentliche Teile, zu deren Einpassung eine Nacharbeit erforderlich ist, ausgetauscht werden; eine Schusswaffe wird weder bearbeitet noch instand gesetzt, wenn lediglich geringfügige Änderungen, insbesondere am Schaft oder an der Zieleinrichtung, vorgenommen werden,
+wird eine Schusswaffe bearbeitet, wenn
+8.2.1
+sie verkürzt, in der Schussfolge verändert oder so geändert wird, dass andere Munition oder Geschosse anderer Kaliber aus ihr verschossen werden können (Umbau),
+8.2.2
+wesentliche Teile, zu deren Einpassung eine Nacharbeit erforderlich ist, ausgetauscht werden, sofern nicht Nummer 8.1 zutrifft,
+8.2.3
+Arbeiten an der Schusswaffe durchgeführt werden, die eine Beschusspflicht gemäß § 3 Absatz 2 des Beschussgesetzes auslösen, wenn nicht die Nummern 8.1, 8.2.1 oder 8.2.2 zutreffen (Instandsetzung); eine Schusswaffe wird nicht bearbeitet, wenn lediglich geringfügige Änderungen, insbesondere am Schaft oder an der Zieleinrichtung, vorgenommen werden,
+8.3
+wird eine Schusswaffe unbrauchbar gemacht, wenn an ihr die Maßnahmen des Anhangs I Tabelle II bis III der Durchführungsverordnung (EU) 2015/2403 durchgeführt werden,
 9.
 treibt Waffenhandel, wer gewerbsmäßig oder selbstständig im Rahmen einer wirtschaftlichen Unternehmung Schusswaffen oder Munition ankauft, feilhält, Bestellungen entgegennimmt oder aufsucht, anderen überlässt oder den Erwerb, den Vertrieb oder das Überlassen vermittelt,
 10.
@@ -207,7 +244,7 @@ ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag gebracht w
 14.
 sind Mitgliedstaaten die Mitgliedstaaten der Europäischen Union und gelten als Mitgliedstaaten auch die Vertragsstaaten des Schengener Übereinkommens.
 Abschnitt 3:
-Einteilung der Schusswaffen oder Munition in die Kategorien A bis D nach der Waffenrichtlinie
+Einteilung der Schusswaffen oder Munition in die Kategorien A bis C nach der Richtlinie 91/477/EWG des Rates vom 18. Juni 1991 über die Kontrolle des Erwerbs und des Besitzes von Waffen (ABl. L 256 vom 13.9.1991, S. 51), die zuletzt durch die Richtlinie (EU) 2017/853 des Europäischen Parlaments und des Rates vom 17. Mai 2017 (ABl. L 137 vom 24.5.2017, S. 22) geändert worden ist
 1. Kategorie A
 1.1
 Kriegsschusswaffen der Nummern 29 und 30 der Kriegswaffenliste (Anlage zu § 1 Abs. 1 des Gesetzes über die Kontrolle von Kriegswaffen),
@@ -216,33 +253,52 @@ vollautomatische Schusswaffen,
 1.3
 als anderer Gegenstand getarnte Schusswaffen,
 1.4
-Pistolen- und Revolvermunition mit Expansivgeschossen sowie Geschosse für diese Munition mit Ausnahme solcher für Jagd- und Sportwaffen von Personen, die zur Benutzung dieser Waffen befugt sind.
+Pistolen- und Revolvermunition mit Expansivgeschossen sowie Geschosse für diese Munition mit Ausnahme solcher für Jagd- und Sportwaffen von Personen, die zur Benutzung dieser Waffen befugt sind,
 1.5
-panzerbrechende Munition, Munition mit Spreng- und Brandsätzen und Munition mit Leuchtspursätzen sowie Geschosse für diese Munition, soweit die Munition oder die Geschosse nicht von dem Gesetz über die Kontrolle von Kriegswaffen erfasst sind.
+panzerbrechende Munition, Munition mit Spreng- und Brandsätzen und Munition mit Leuchtspursätzen sowie Geschosse für diese Munition, soweit die Munition oder die Geschosse nicht von dem Gesetz über die Kontrolle von Kriegswaffen erfasst sind,
+1.6
+automatische Feuerwaffen, die zu halbautomatischen Feuerwaffen umgebaut wurden, unbeschadet des Artikels 7 Absatz 4a der Richtlinie 91/477/EWG des Rates vom 18. Juni 1991 über die Kontrolle des Erwerbs und des Besitzes von Waffen (ABl. L 256 vom 13.9.1991, S. 51), die zuletzt durch die Richtlinie (EU) 2017/853 des Europäischen Parlaments und des Rates vom 17. Mai 2017 (ABl. L 137 vom 24.5.2017, S. 22) geändert worden ist,
+1.7
+jede der folgenden halbautomatischen Zentralfeuerwaffen:
+1.7.1
+Kurz-Feuerwaffen, mit denen ohne Nachladen mehr als 21 Schüsse abgegeben werden können, sofern eine Ladevorrichtung mit einer Kapazität von mehr als 20 Patronen in diese Feuerwaffe eingebaut ist oder eine abnehmbare Ladevorrichtung mit einer Kapazität von mehr als 20 Patronen eingesetzt wird,
+1.7.2
+Lang-Feuerwaffen, mit denen ohne Nachladen mehr als elf Schüsse abgegeben werden können, sofern eine Ladevorrichtung mit einer Kapazität von mehr als zehn Patronen in diese Feuerwaffe eingebaut ist oder eine abnehmbare Ladevorrichtung mit einer Kapazität von mehr als zehn Patronen eingesetzt wird,
+1.8
+halbautomatische Lang-Feuerwaffen, die ursprünglich als Schulterwaffen vorgesehen sind und die ohne Funktionseinbuße mithilfe eines Klapp- oder Teleskopschafts oder eines ohne Verwendung eines Werkzeugs abnehmbaren Schafts auf eine Länge unter 60 cm gekürzt werden können,
+1.9
+sämtliche Feuerwaffen dieser Kategorie, die für das Abfeuern von Platzpatronen, Reizstoffen, sonstigen aktiven Substanzen oder pyrotechnischer Munition oder in Salutwaffen oder akustische Waffen umgebaut wurden.
 2. Kategorie B
 2.1
-halbautomatische Kurz-Schusswaffen und kurze Repetier-Schusswaffen,
+kurze Repetierfeuerwaffen,
 2.2
-kurze Einzellader-Schusswaffen für Munition mit Zentralfeuerzündung,
+kurze Einzellader-Feuerwaffen für Munition mit Zentralfeuerzündung,
 2.3
-kurze Einzellader-Schusswaffen für Munition mit Randfeuerzündung mit einer Gesamtlänge von weniger als 28 cm,
+kurze Einzellader-Feuerwaffen für Munition mit Randfeuerzündung mit einer Gesamtlänge von weniger als 28 cm,
 2.4
-halbautomatische Lang-Schusswaffen, deren Magazin und Patronenlager mehr als drei Patronen aufnehmen kann,
+halbautomatische Lang-Feuerwaffen, deren Ladevorrichtung und Patronenlager zusammen bei Randfeuerwaffen mehr als drei Patronen und bei Zentralfeuerwaffen mehr als drei aber weniger als zwölf Patronen aufnehmen können,
 2.5
-halbautomatische Lang-Schusswaffen, deren Magazin und Patronenlager nicht mehr als drei Patronen aufnehmen kann und deren Magazin auswechselbar ist oder bei denen nicht sichergestellt ist, dass sie mit allgemein gebräuchlichen Werkzeugen nicht zu Waffen, deren Magazin und Patronenlager mehr als drei Patronen aufnehmen kann, umgebaut werden können,
+halbautomatische Kurz-Feuerwaffen, die nicht unter Nummer 1.7.1 aufgeführt sind,
 2.6
-lange Repetier-Schusswaffen und halbautomatische Schusswaffen jeweils mit glattem Lauf, deren Lauf nicht länger als 60 cm ist,
+halbautomatische Lang-Feuerwaffen, die unter Nummer 1.7.2 aufgeführt sind, deren Ladevorrichtung und Patronenlager zusammen nicht mehr als drei Patronen aufnehmen können, deren Ladevorrichtung auswechselbar ist oder bei denen nicht sichergestellt ist, dass sie mit allgemein gebräuchlichen Werkzeugen nicht zu Waffen, deren Ladevorrichtung und Patronenlager zusammen mehr als drei Patronen aufnehmen können, umgebaut werden können,
 2.7
-zivile halbautomatische Schusswaffen, die wie vollautomatische Kriegswaffen aussehen.
+lange Repetier- und halbautomatische Lang-Feuerwaffen, jeweils mit glattem Lauf, deren Lauf nicht länger als 60 cm ist,
+2.8
+sämtliche Feuerwaffen dieser Kategorie, die für das Abfeuern von Platzpatronen, Reizstoffen, sonstigen aktiven Substanzen oder pyrotechnischer Munition oder in Salutwaffen oder akustische Waffen umgebaut wurden,
+2.9
+halbautomatische Feuerwaffen für den zivilen Gebrauch, die wie vollautomatische Waffen aussehen und die nicht unter den Nummern 1.6, 1.7 oder 1.8 aufgeführt sind.
 3. Kategorie C
 3.1
-andere lange Repetier-Schusswaffen als die unter Nummer 2.6 genannten,
+andere lange Repetier-Feuerwaffen als die, die unter Nummer 2.7 aufgeführt sind,
 3.2
-lange Einzellader-Schusswaffen mit gezogenem Lauf/gezogenen Läufen,
+lange Einzellader-Feuerwaffen mit gezogenem Lauf/gezogenen Läufen,
 3.3
-andere halbautomatische Lang-Schusswaffen als die unter den Nummern 2.4 bis 2.7 genannten,
+andere halbautomatische Lang-Feuerwaffen als die, die unter Nummer 1 oder Nummer 2 aufgeführt sind,
 3.4
-kurze Einzellader-Schusswaffen für Munition mit Randfeuerzündung, ab einer Gesamtlänge von 28 cm.
-4. Kategorie D
-4.1
-lange Einzellader-Schusswaffen mit glattem Lauf/glatten Läufen.
+kurze Einzellader-Feuerwaffen für Munition mit Randfeuerzündung, ab einer Gesamtlänge von 28 cm,
+3.5
+sämtliche Feuerwaffen dieser Kategorie, die für das Abfeuern von Platzpatronen, Reizstoffen, sonstigen aktiven Substanzen oder pyrotechnischer Munition oder in Salutwaffen oder akustische Waffen umgebaut wurden,
+3.6
+Feuerwaffen der Kategorien A oder B oder dieser Kategorie, die gemäß der Durchführungsverordnung (EU) 2015/2403 deaktiviert worden sind,
+3.7
+lange Einzellader-Feuerwaffen mit glattem Lauf oder glatten Läufen, die am oder nach dem 14. September 2018 in Verkehr gebracht wurden.

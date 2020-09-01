@@ -286,8 +286,7 @@ Teilnahme von Ärzten und Zahnärzten an der Versorgung
 - [§ 95 Teilnahme an der vertragsärztlichen Versorgung](0095.md)
 - [§ 95a Voraussetzung für die Eintragung in das Arztregister für Vertragsärzte](0095a.md)
 - [§ 95b Kollektiver Verzicht auf die Zulassung](0095b.md)
-- [§ 95c Voraussetzung für die Eintragung von Psychotherapeuten in das
-Arztregister](0095c.md)
+- [§ 95c Voraussetzung für die Eintragung von Psychotherapeuten in das Arztregister](0095c.md)
 - [§ 95d Pflicht zur fachlichen Fortbildung](0095d.md)
 - [§ 96 Zulassungsausschüsse](0096.md)
 - [§ 97 Berufungsausschüsse](0097.md)
@@ -826,7 +825,7 @@ der Herstellung der Einheit Deutschlands
 - [§ 314 Beitragszuschüsse für Beschäftigte](0314.md)
 - [§ 315 Standardtarif für Personen ohne Versicherungsschutz](0315.md)
 - [§ 316 Übergangsregelung zur enteralen Ernährung](0316.md)
-- [§ 317 Psychotherapeuten](0317.md)
+- [§ 317 (weggefallen)](0317.md)
 - [§ 318 Übergangsregelung für die knappschaftliche Krankenversicherung](0318.md)
 - [§ 319 Übergangsregelung zum Krankengeldwahltarif](0319.md)
 - [§ 320 Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften](0320.md)
