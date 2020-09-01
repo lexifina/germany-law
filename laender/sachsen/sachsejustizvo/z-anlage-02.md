@@ -5,4 +5,7 @@ Nummer | Gericht
 1. | Landgericht Dresden
 2. | Amtsgericht Dresden
 3. | Sozialgericht Chemnitz
+4. | Arbeitsgericht Leipzig
+5. | Sächsisches Landesarbeitsgericht
+6. | Arbeitsgericht Chemnitz
 ## Anlage 3 (aufgehoben)
