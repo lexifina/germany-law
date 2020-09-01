@@ -1,0 +1,78 @@
+# 59. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-01T17:10:00+02:00
+- Ende: 2020-09-01T20:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21747
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21747
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00787673.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00787673.pdf
+- Wortprotokoll: Tagesordnung (Stand 11 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00787673.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Aktuelle Stunde zur "Raser- und Poserszene in Köln" - Sache ist erledigt
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Geändertem Mobilitätsverhalten gerecht werden - Sache ist erledigt
+- TOP 1.2: Haltestellen Gürtel Niehler Straße sowie Boltensternstraße (Linie 13) - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag zur Vorlage 2758/2019, Erweiterter Planungsbeschluss zur Tunisstraße - endgültig abgelehnt
+- TOP 3.1.2: Änderungsantrag zu TOP 3.1 - Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße - ungeändert beschlossen
+- TOP 3.2: Baubeschluss für die Umgestaltung des Knotenpunktes Hauptstraße/Leonhardsgasse/Blaugasse und Generalinstandsetzung der Leonhardsgasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisier - ungeändert beschlossen
+- TOP 3.3: 1. Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräte für das Amt für Straßen und Verkehrsentwicklung - ungeändert beschlossen
+- TOP 3.4: Bedarfsfeststellungsbeschluss zur Vergabe der weiteren Generalplanungsleistungen inklusive der örtlichen Bauüberwachung im Zuge des Planfeststellungsverfahrens "Anbindung der Knotenpunkte Aachener Straße und Stolberger Straße an die Militärringstraße - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellungsbeschluss für die Zustandserfassung und -bewertung der Straßen, Wege und Plätze im Kölner Stadtgebiet sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-1102, Aufbau einer Datenban - ungeändert beschlossen
+- TOP 3.6: Baubeschluss für die Generalinstandsetzung des Konrad-Adenauer-Ufers zwischen der Zoobrücke und der Goldgasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 3.7: Radschnellweg Köln-Frechen, Abarbeitung der Prüfaufträge vom 02.12.2019 - geändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 4.2: Erweiterter Planungsbeschluss rechtsrheinische Fuß- und Radwegerampe an der Hohenzollernbrücke zum Auenweg und Planungsbeschluss zur weiterführenden Fahrradtrasse MesseCity - mit Änderungen empfohlen
+- TOP 4.3: Realisierungswettbewerb für die beiden neuen Fuß- und Radwegbrücken über den Rhein auf Höhe des Ubierrings und der Bastei - ungeändert empfohlen
+- TOP 4.4: Brandschutzsanierung und -Nachrüstung an der Stadtbahnhaltestelle Hans-Böckler-Platz - ungeändert empfohlen
+- TOP 4.5: Baubeschluss zur Sanierung der Domtreppe - ungeändert empfohlen
+- TOP 4.6: Mülheimer Süden, Netzelement 4 - Östlicher Ringschluss - ungeändert empfohlen
+- TOP 4.7: Brandschutznachrüstung - Einbau von trockenen Löschwasserleitungen - ungeändert empfohlen
+- TOP 4.8: Bedarfsfeststellungsbeschluss zur Vergabe der Planungsleistungen für die Maßnahme „Umgestaltung der Hauptstraße (Porz) von Steinstraße bis Mühlenstraße“ aus dem Integrierten Stadtentwicklungskonzept für das Programmgebiet „Soziale Stadt Porz“ sowie B - ungeändert empfohlen
+- TOP 4.9: Aufbau eines stadtweiten Netzes von Mobilstationen - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Bergerstraße - ungeändert empfohlen
+- TOP 4.11: Verlängerung der Stadtbahnlinie 7 - ohne Votum in nachfolgende Gremien
+- TOP 4.12: Neubau eines Brunnens am Neumarkt - Planungsbeschluss - mit Änderungen empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Verwendung der Mittel aus der LKW-Maut - Sache ist erledigt
+- TOP 5.2.1.1: Verwendung der Mittel aus der LKW-Maut - Kenntnis genommen
+- TOP 5.2.2: Anfrage des Seniorenvertreters Meurers - zurückgestellt
+- TOP 5.2.3: Weitere Bauabschnitte der Nord-Süd-Stadtbahn - Sache ist erledigt
+- TOP 5.2.3.1: Beantwortung der Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Tödlicher Verkehrsunfall vom 14. Mai 2020 am Hohenzollernring/Friesenplatz (Neustadt-Nord) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: Ost-West-Achse - Kenntnis genommen
+- TOP 6.3: Sachstand der Planungen Ost-West-Achse - zurückgestellt
+- TOP 6.4: ÖPNV Roadmap - aktueller Sachstand - Kenntnis genommen
+- TOP 6.5: Verkehrsmaßnahmen während der Corona-Pandemie - Kenntnis genommen
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalinstandsetzung der Industriestraße im Bereich zwischen dem Parkplatz 7 (Fühlinger See) und Oranjehofstraße, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Zif - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 7.2.2: Prüfbericht zum Thema Radverkehrswesen und Radverkehrsförderung - Kenntnis genommen
+- TOP 7.2.3: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 7.2.4: "Für einen beschleunigten ÖPNV-Ausbau Doppelplanungen beenden und Ost-West-Achse oberirdisch ausbauen!" - Kenntnis genommen
+- TOP 7.2.5: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd - Kenntnis genommen
+- TOP 7.2.6: EU Projekt GrowSmarter - Kenntnis genommen
+- TOP 7.2.7: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - Kenntnis genommen
+- TOP 7.2.8: Regenbogen-Zebrastreifen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.9: Ampelpärchen Heumarkt - Kenntnis genommen
+- TOP 7.2.10: Schnellbusverbindung des Rhein-Erft-Kreises - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Baustelle auf der Bonner Straße - Sache ist erledigt
+- TOP 8.2: S-Bahnhof Dellbrück - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Gremium für die Radverkehrskonzepte - zur weiteren Bearbeitung in die Verwaltung überwiesen
