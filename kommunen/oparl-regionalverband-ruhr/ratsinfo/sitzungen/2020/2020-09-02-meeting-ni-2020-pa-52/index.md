@@ -1,0 +1,52 @@
+# 27. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-09-02T10:00:00+02:00
+- Ende: 2020-09-02T11:45:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-PA-52
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-PA-52
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-PA-52
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-PA-52
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 26. Sitzung des Planungsausschusses (20.05.2020)
+- TOP 1.3: Bestellung des Schriftführers für den Planungsausschuss
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Aufstellungsbeschluss zur 10. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe (GEP E-L), auf dem Gebiet der Stadt Haltern am See - Erweiterung eines Bereichs für die Sicherung und den Abbau oberflächennaher Bodenschätze (BSAB)
+- TOP 2.2: Aufstellungsbeschluss zur 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop – Umwandlung eines Allgemeinen Freiraum- und Agrarbereichs mit den Freiraumfunktionen Schutz der Landschaft und landschaftsorientierte Erholung (BSLE) und Regionaler Grünzug in einen Bereich für gewerbliche und industrielle Nutzung (GIB) für zweckgebundene Nutzungen sowie Ergänzung einer textlichen Festlegung zum GIB für zweckgebundene Nutzungen
+- TOP 2.3: Abgrabungsmonitoring von Nordrhein-Westfalen – Lockergesteine Hier: Monitoringbericht für das Planungsgebiet Regionalverband Ruhr zum 01.01.2020
+- TOP 2.4: Anträge
+- TOP 2.5: Anfragen und Mitteilungen
+- TOP 2.5.1: 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop „Im Dicken Dören“ (Drucksache 13/1814)
+- TOP 2.5.2: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop „Im Dicken Dören“ (Drucksache 13/1814)
+- TOP 2.5.3: Anfrage zum Sachstand Landeswassergesetz NRW
+- TOP 2.5.4: Ansiedlungsmöglichkeiten auf regionalen Kooperationsstandorten
+- TOP 2.5.5: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Ansiedlungsmöglichkeiten auf regionalen Kooperationsstandorten
+- TOP 2.5.6: Bericht über laufende Verfahren: RVR als Regionalplanungsbehörde
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Anträge
+- TOP 3.2: Anfragen und Mitteilungen
+- TOP 3.2.1: Anfrage zum Zeitplan des Regionalplans Ruhr
+- TOP 3.2.2: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen zum Zeitplan des Regionalplans Ruhr
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Fortführung der Luftbildkooperation - regelmäßige, verbandsweite Bereitsstellung der Luftbildprodukte als umlagefinanzierte Aufgabe des RVR
+- TOP 4.2: Regionales Wohnungsmarktkonzept Hier: Antragstellung ZUKUR II
+- TOP 4.3: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr
+- TOP 4.4: Regionales Radwegenetz, Sachstand Umsetzungskonzept
+- TOP 4.5: Forschungsprojekt „ZUKUR – Zukunft Stadt-Region-Ruhr“ im Rahmen der BMBF-Leitinitiative Zukunftsstadt Hier: Sachstandsbericht
+- TOP 4.6: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 4.7: Fördervorhaben „Stärkung der vernetzten Freizeitmobilität in der Metropole Ruhr“
+- TOP 4.8: Anträge
+- TOP 4.9: Anfragen und Mitteilungen
+- TOP 4.9.1: Anfrage für einen Halbjahresbericht zum metropolradruhr
+- TOP 4.9.2: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Anfrage für einen Halbjahresbericht zum metropolradruhr
+- TOP 4.9.3: Mitteilung der Verwaltung: Sachstand Mobilitätskonzept für die IGA 2027
+- TOP 4.9.4: Mitteilung der Verwaltung: Innovationsband - Integrierte Stadtentwicklung am RS1; Hier: Summerschool
+- TOP 4.9.5: Bericht über laufende Verfahren: RVR als Träger öffentlicher Belange
