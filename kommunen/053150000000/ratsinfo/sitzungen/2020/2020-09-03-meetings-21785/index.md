@@ -1,0 +1,101 @@
+# 50. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-03T15:09:00+02:00
+- Ende: 2020-09-03T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21785
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21785
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Anfrage von RM Götz zu Pressemeldungen über Bauverzögerungen beim Projekt Porz-Mitte - Kenntnis genommen
+- TOP 1.2: Parkplatzerrichtung St. Heribert in Köln-Deutz - Kenntnis genommen
+- TOP 1.3: Mündliche Nachfrage zur Beantwortung der Anfrage 0957/2020 der SPD Fraktion - Kenntnis genommen
+- TOP 1.4: Beantwortung mündlicher Nachfragen zur Wohnraumschutzsatzung und Registrierungspflicht - Kenntnis genommen
+- TOP 1.5: Öffentlich geförderter Wohnungsbau in Köln 2019 - Kenntnis genommen
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der Fraktion Bündnis 90/Die Grünen vom 19.08.2020 betr. "Abweichungen vom Höhenkonzept für die linksrheinische Kölner Innenstadt" - Sache ist erledigt
+- TOP 2.2: Gemeinsame Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 24.08.2020 betr. "Anzahl der Bauanträge und -genehmigungen im ersten Halbjahr 2020" - Sache ist erledigt
+- TOP -: Anzahl der Bauanträge und -genehmigungen im ersten Halbjahr 2020 - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: hier: Entwicklung im Bereich nördlich und südlich Colonius - geändert beschlossen
+- TOP -: Änderungsantrag zum Dringlichkeitsantag AN/1183/2020, „Entwicklung im Bereich nördlich und südlich Colonius“ - geändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Betreff: Bedarfsfeststellungsbeschluss für eine unterstützende Dienstleistung für das Gesamtprojekt Parkstadt Süd - ungeändert beschlossen
+- TOP 4.2.2: Parkstadt Süd: Bedarfsfeststellungsbeschluss für das Teilprojekt Sportpark Süd (Jean-Löring-Sportpark) - ungeändert beschlossen
+- TOP 4.2.3: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.2.4: Ebertplatz: Fortführung der Zwischennutzung und Ausarbeitung eines Zwischennutzungskonzeptes für den Zeitraum nach Juni 2021 Arbeitstitel: Fortführung der Zwischennutzung Ebertplatz - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Clubkataster Köln - ungeändert beschlossen
+- TOP 5.2: Änderung eines Planfeststellungsbeschlusses zur Herstellung eines Gewässers durch Auskiesung - Kiesgrube Brühl der Heidelberger Sand & Kies GmbH - ungeändert beschlossen
+- TOP 5.3: Schaffung von stadtplanerischen Voraussetzungen für einen Ankauf der Flurstücke 2045/39, 513 und 540 Flur 72 Gemarkung 054963 Ehrenfeld für die Entwicklung eines Kulturbausteins Helios - geändert beschlossen
+- TOP -: Top 4.3: Schaffung von stadtplanerischen Voraussetzungen für einen Ankauf der Flurstücke 2045/39 , 513 und 540 Flur 72 Gemarkung 054963 Ehrenfeld für die Entwicklung eines Kulturbausteins Helios - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Höhenkonzept für die linksrheinische Kölner Innenstadt; hier: Bauvorhaben Hohenzollernring 62 - zurückgestellt
+- TOP -: Änderungsantrag zu - Höhenkonzept für die linksrheinische Kölner Innenstadt - zurückgestellt
+- TOP 6.2: Realisierungswettbewerb für die beiden neuen Fuß- und Radwegbrücken über den Rhein auf Höhe des Ubierrings und der Bastei - ungeändert beschlossen
+- TOP 6.3: Erweiterter Planungsbeschluss rechtsrheinische Fuß- und Radwegerampe an der Hohenzollernbrücke zum Auenweg und Planungsbeschluss zur weiterführenden Fahrradtrasse MesseCity - geändert beschlossen
+- TOP 6.4: Neubau eines Brunnens am Neumarkt - Planungsbeschluss - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.2 Neubau eines Brunnens am Neumarkt - Planungsbeschluss - ungeändert beschlossen
+- TOP 6.5: Einführung eines Gottfried Böhm Stipendiums - ungeändert beschlossen
+- TOP 6.6: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag zu Top 6.6 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 6.7: Innerer Grüngürtel - Parkstadt Süd - Pionierpark - ungeändert beschlossen
+- TOP 6.8: Bedarfsfeststellungsvorlage: - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 4. Fortschreibung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler,Arbeitstitel: Teilraum Nordwest, Wohnbauflächen in Köln-Esch/ Auweiler; hier: Feststellungsbeschluss - zurückgestellt
+- TOP 7.2: 233. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 4, in Köln-Ehrenfeld Arbeitstitel: Ehrenfeldgürtel hier: Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorg - ungeändert beschlossen
+- TOP 7.3: 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Wohnbebauung Alsdorfer Straße in Köln Braunsfeld/-Ehrenfeld - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung de - ungeändert beschlossen
+- TOP 9.3: Städtebauliches Planungskonzept Rondorf Nord-West in Köln-Rondorf Anhörung der Bezirksvertretung Rodenkirchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungspl - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Brombeergasse" in Köln-Worringen - zurückgestellt
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Teilbebauungsplanes und zur Durchführung der frühzeitigen Öffent-lichkeitsbeteiligung Arbeitstitel: Parkstadt Süd – Sportpark Süd in Köln-Zollstock - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind - zurückgestellt
+- TOP 10.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Aqualand" Köln-Chorweiler - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Kiesgrubenweg in Köln-Hahnwald, 1. Änderung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzungsbeschluss betreffend die vereinfachte Änderung des Bebauungsplanes Nummer 58480/03 - ungeändert beschlossen
+- TOP 12.2: Beschluss über Erweiterung des Geltungsbereiches, Stellungnahmen sowie Satzungsbeschluss betref-fend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 74407/02 - ungeändert beschlossen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die 1. Änderung des Bebau-ungsplanes Nummer 7053/02 Arbeitstitel: Kurtekottener Straße in Köln Flittard - ohne Votum in nachfolgende Gremien
+- TOP 12.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 72498/02 Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 12.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 59570/06 Arbeitstitel: Further Straße / Gilleshof in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 12.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 58463/03 Arbeitstitel: Am Nachtigallental in Köln-Weiden - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Beschluss über die Aufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung des Bebauungsplans 66458/07 (664 Na 2/07) - ungeändert beschlossen
+- TOP 14.2: Beschluss über die Teilaufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung der Bebauungspläne 6644 Nd 1/16, 67454/09 und 67454/10 in Köln Altstadt-Nord - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Rodenkirchen Arbeitstitel: Auenviertel in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 17.2: Bericht des Behindertenbeauftragten 03/2020: - Kenntnis genommen
+- TOP 17.3: Offenlage des Bebauungsplan-Entwurfes Nr. 65450/05 nach § 3 Absatz 2 BauGB Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - Kenntnis genommen
+- TOP 17.4: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord;Hier: Ergebnis des Hochbauwettbewerbs - Kenntnis genommen
+- TOP 17.5: Offenlage nach §3 Abs. 2 BauGB zum Bebauungsplan-Entwurf 75391/04 Arbeitstitel: Kaiserstraße 95-99 in Köln-Porz - Kenntnis genommen
+- TOP 17.6: Offenlage nach §3 Abs. 2 BauGB zum Bebauungsplan-Entwurf 75389/03 Arbeitstitel: Kaiserstraße in 95-99 in Köln-Porz - Kenntnis genommen
+- TOP 17.7: Planfeststellung ICE Neubaustrecke Köln-Rhein/Main - 5. Planänderungsbeschluss für den Planfeststellungsabschnitt 12 - Kenntnis genommen
+- TOP 17.8: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd - Kenntnis genommen
+- TOP 17.9: "Für einen beschleunigten ÖPNV-Ausbau Doppelplanungen beenden und Ost-West-Achse oberirdisch ausbauen!" - Kenntnis genommen
+- TOP 17.10: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 17.11: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfs 63451/03; - Kenntnis genommen
+- TOP 17.12: Stadtstrategie "Kölner Perspektiven 2030+" - Kenntnis genommen
+- TOP 17.13: EU Projekt GrowSmarter - Kenntnis genommen
+- TOP 17.14: Aktueller Sachstand zu Leerständen im "Wohnpark Bayenthal" (Alteburger Straße) - Kenntnis genommen
+- TOP 17.15: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
