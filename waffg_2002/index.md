@@ -89,10 +89,10 @@ und Nachweispflichten
 - [§ 37i Mitteilungspflicht bei Umzug ins Ausland und bei Umzug im Ausland](0037i.md)
 - [§ 38 Ausweispflichten](0038.md)
 - [§ 39 Auskunfts- und Vorzeigepflicht, Nachschau](0039.md)
+- [§ 39a Verordnungsermächtigung für die Ersatzdokumentation](0039a.md)
 
 ### Unterabschnitt 6a Besondere Regelungen zum Umgang mit Salutwaffen und unbrauchbar gemachten Schusswaffen, zur Unbrauchbarmachung von Schusswaffen und zur Aufbewahrung von Salutwaffen
 
-- [§ 39a Verordnungsermächtigung für die Ersatzdokumentation](0039a.md)
 - [§ 39b Erwerb, Besitz und Aufbewahrung von Salutwaffen](0039b.md)
 - [§ 39c Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung](0039c.md)
 

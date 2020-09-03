@@ -57,11 +57,6 @@ d) die Änderungen müssen so vorgenommen sein, dass sie nicht mit allgemein geb
 e) der Verschluss muss ein Kennzeichen nach Abbildung 11 der Anlage II zur Beschussverordnung tragen;
 1.5.2
 Schusswaffen, die vor dem 1. April 1976 entsprechend den Anforderungen des § 3 der Ersten Verordnung zum Waffengesetz vom 19. Dezember 1972 (BGBl. I S. 2522) verändert worden sind;
-- das Patronenlager muss dauerhaft so verändert sein, dass keine Patronen- oder pyrotechnische Munition geladen werden kann,
-- der Lauf muss in dem dem Patronenlager zugekehrten Drittel mindestens sechs kalibergroße, offene Bohrungen oder andere gleichwertige Laufveränderungen aufweisen und vor diesen in Richtung der Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft verschlossen sein,
-- der Lauf muss mit dem Gehäuse fest verbunden sein, sofern es sich um Waffen handelt, bei denen der Lauf ohne Anwendung von Werkzeugen ausgetauscht werden kann,
-- die Änderungen müssen so vorgenommen sein, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen- oder pyrotechnische Munition verschossen werden können, und
-- der Verschluss muss ein Kennzeichen nach Abbildung 11 der Anlage II zur Beschussverordnung tragen;
 1.6
 Anscheinswaffen
 Anscheinswaffen sind
