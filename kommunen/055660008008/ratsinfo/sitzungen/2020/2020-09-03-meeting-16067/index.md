@@ -1,0 +1,56 @@
+# Haupt-, Finanz- und Steuerungsausschuss (109. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2020-09-03T18:01:00+02:00
+- Ende: 2020-09-03T20:20:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcq_vvOZCl8tK-mChPNwhnc
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16067
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc3APBJfuvO1Ulhe1zUd1jWmxL9mwnEIeCeUBWN9K3sT/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_03.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZciIfW9E0t0qtOxjT1vstZziUTAdY34fLWMynFj2YBfM/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_03.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 15.06.2020
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Finanzangelegenheiten
+- TOP 3.1: Beteiligungsbericht 2018 - Zur Kenntnis genommen
+- TOP 3.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2019 - Einstimmig
+- TOP 3.3: Jahresabschluss 2019 - bestätigter Entwurf - Zur Kenntnis genommen
+- TOP 3.4: Finanzbericht - aktuelle Prognosen zum Haushalt 2020 - Zur Kenntnis genommen
+- TOP 3.5: Verlängerung der Ausübung der Übergangsfrist nach § 27 Abs. 22 a UStG - Einstimmig
+- TOP 3.6: Bericht zum Fördermanagement - Zur Kenntnis genommen
+- TOP 3.7: Überplanmäßige Aufwendungen im Rahmen der Förderprogramme "Digitale Sofortausstattung an Schulen für Schüler*innen in NRW" und "Dienstliche Endgeräte für Lehrkräfte an Schulen in NRW" - Einstimmig
+- TOP 4.: Beantragung von Fördermitteln für die "Erweiterung der Schießsportanlage EMS-HALLE und Sanierung des Umkleidetraktes" im Rahmen des "Investitionspakts zur Förderug von Sportstätten 2020 und 2021" - Einstimmig
+- TOP 5.: Beantragung von Fördermitteln für die "Finnenbahn" im Rahmen des "Investitionspakts zur Förderung von Sportstätten 2020 und 2021" - Einstimmig
+- TOP 6.: Förderprogramm "Dritte Orte - Häuser für Kultur und Begegnung im ländlichen Raum": Unterstützung der Konzeption Dritte Orte des Sozio-kulturellen Zentrum e.V. (Stroetmanns Fabrik) - Einstimmig
+- TOP 7.: Stadtwerke Emsdetten GmbH
+- TOP 7.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2019 und Gewinnverwendung - Einstimmig
+- TOP 7.2: Übernahme einer Bürgschaft zugunsten der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 8.: Emsdetten Gutschein: Unterstützung durch die Stadt Emsdetten - Einstimmig
+- TOP 9.: Einrichtung von zwei verkaufsoffenen Sonntagen im Gebiet der Stadt Emsdetten - 14 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 10.: Bildung eines Beirats für Integration und Migration in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 11.: Empfehlung zur Bildung eines Beirats für Menschen mit Behinderung in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 12.: Empfehlung zur Bildung eines Beirats für Seniorinnen und Senioren (Seniorenbeirat) in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 13.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Zur Kenntnis genommen
+- TOP 14.: Durchführung von Ausgleichsmaßnahmen - Einstimmig
+- TOP 15.: Änderung der Satzung über die Benutzung städtischer Unterkünfte hier: Antrag der Fraktion DIE GRÜNEN vom 17.11.2019 - Ohne Abstimmung
+- TOP 16.: Gemeinsamer Antrag der Fraktionen DIE LINKE und die DIE GRÜNEN: Emsdetten soll "Sicherer Hafen" für Menschen in Not sein! - Einstimmig
+- TOP 17.: Entwurfsplanung Neubau Baubetriebshof - Einstimmig
+- TOP 18.: Gesamtkonzeption Kläranlage Emsdetten-Austum - Zur Kenntnis genommen
+- TOP 19.: Widmung Sternbusch - Einstimmig
+- TOP 20.: Widmung Vennweg (Teilstück Westumer Landstraße bis Lange Water) - Einstimmig
+- TOP 21.: Bebauungsplan
+- TOP 21.1: Bebauungsplan Nr. 36 "Eisengraben", 6. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 21.2: Bebauungsplan Nr. 30 A "Blumenstraße / Eisenbahn", 5. Änderung - Satzungsbeschluss- - Einstimmig
+- TOP 22.: Kulturangelegenheiten
+- TOP 22.1: Neufassung der Richtlinien zur Verleihung des Kulturpreises der Stadt Emsdetten - Einstimmig
+- TOP 23.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 23.1: Erstattung von geleisteten Elternbeiträgen für die Betreuung von Kindern in Einrichtungen und in Kindertagespflege (Elternbeitragssatzung) für die Monate Juni und Juli 2020 in der Stadt Emsdetten - Einstimmig
+- TOP 23.2: Trägerschaft für die 22. Kindertageseinrichtung in Emsdetten - Einstimmig
+- TOP 23.3: Beteiligung der Stadt Emsdetten an dem Förderprojekt ¿kinderstark - NRW schafft Chancen¿ zum Auf- und Ausbau kommunaler Präventionsketten sowie Einrichtung eines kommunalen Familienbüros im Stadtzentrum von Emsdetten - Einstimmig
+- TOP 24.: Verschiedenes
