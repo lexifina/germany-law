@@ -27,24 +27,18 @@ Die folgenden Regelungen definieren vertragliche Bestimmungen für den Vertrag d
 Die folgenden definierten Qualitätsparameter werden entsprechend dieser Anlage (Anlage 5 zum EETS-Zulassungsvertrag) berechnet und überwacht. In dieser Anlage und im EETS-Zulassungsvertrag § 27 „Vertragsstrafen“ und § 28 „Laufzeit und Beendigung des Vertrags“ werden konkret die Auswirkungen hinsichtlich der Erfüllung und Überschreitung bzw. Nicht-Erfüllung der Qualitätsparameter beschrieben und bestimmt.
 Folgende Qualitätsparameter werden zur Überwachung der Erfüllung des Leistungssolls herangezogen.
 3.1 Erfassungsquote (EQ)
-Die Erfassungsquote dient der Bestimmung der Qualität der korrekten Erkennung befahrener Abschnitte des mautpflichtigen Straßennetzes.
-Die Erfassungsquote EQ wird unter Anwendung folgender Formel bestimmt:
-EQ = 0,7 ⋅ FM + 0,3 ⋅ FS
+Die Erfassungsquote EQ berechnet sich wie folgt:
+EQ = 0,9 x FM + 0,1 x FS
 mit
 FM (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen Kontrolleinrichtungen
 FS (Fremdauslesung stationär): DSRC-Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen
 Für die Ermittlung der Teilquoten FM und FS gilt:
-|  |
-|  |
-MFMiKᵒʳʳᵉᵏᵗ: Anzahl der in der Stichprobe mit mobilen Kontrolleinheiten erfassten korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem (Gutfälle Fremdauslesung mobil) des Abschnitts i.
-MFMiFᵃˡˢᶜʰ: Anzahl der in der Stichprobe mit mobilen Kontrolleinheiten erfassten nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem (Schlechtfälle Fremdauslesung mobil) des Abschnitts i.
-MFSiKᵒʳʳᵉᵏᵗ: Anzahl der in der Stichprobe mit ortsgebundenen (stationären) Kontrolleinheiten erfassten korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem (Gutfälle Fremdauslesung stationär) des Abschnitts i.
-MFSiFᵃˡˢᶜʰ: Anzahl der in der Stichprobe mit ortsgebundenen (stationären) Kontrolleinheiten erfassten nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem (Schlechtfälle Fremdauslesung stationär) des Abschnitts i.
-GFi: Abschnittsgewichtungsfaktor des Abschnitts i.
-i:1..n eindeutige fortlaufende Nummerierung über alle Abschnitte in der Stichprobe.
-Summiert wird dabei jeweils ausschließlich über Abschnitte i, für die auch tatsächlich Messfälle vorliegen, d. h.
-– Für FM: MFMiKᵒʳʳᵉᵏᵗ + MFMiFᵃˡˢᶜʰ> 0.
-– Für FS: MFSiKᵒʳʳᵉᵏᵗ + MFSiFᵃˡˢᶜʰ> 0).
+FM = MFMkorrekt / MFMgesamt x 100 %
+FS = MFSkorrekt / MFSgesamt x 100 %
+MFMkorrekt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
+MFMgesamt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten korrekt und nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
+MFSkorrekt: Anzahl der in der Stichprobe mit stationären Kontrollen erfassten korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
+MFSgesamt: Anzahl der in der Stichprobe mit stationären Kontrollen erfassten korrekt und nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
 3.1.1 Messdatenerhebung
 Die Datenerhebung erfolgt durch DSRC-Auslesung der in den kontrollierten Fahrzeugen eingebauten EETS-Fahrzeuggeräte. Die Stichprobe besteht aus allen mit einem Fahrzeuggerät ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht des Weiteren nur aus jenen Fahrzeugen, in denen das Fahrzeuggerät Erhebungsbereitschaft anzeigt.
 Die Ermittlung der Erfassungsquote erfolgt auf der Basis von Daten, die im Rahmen von stichprobenartigen Messungen unter repräsentativen Bedingungen – im Sinne des nachfolgenden Absatzes – im gesamten mautpflichtigen Streckennetz erhoben werden. Die Durchführung der Stichprobenerhebung und ihre Auswertung werden nachvollziehbar dokumentiert.
