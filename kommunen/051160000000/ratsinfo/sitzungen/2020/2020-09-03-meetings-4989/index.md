@@ -1,0 +1,53 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-09-03T15:00:00+02:00
+- Ende: 2020-09-03T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4989
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4989
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00184468.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00184468.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00184468.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 41. Sitzung des Rates vom 11.12.2019 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Niederschrift über die 42. Sitzung des Rates vom 10.02.2020 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 3: Niederschrift über die 43. Sitzung des Rates vom 11.03.2020 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 4: HSP-Umsetzungsbericht 15.04.2020 - Kenntnisnahme
+- TOP 5: Gewährung von Sitzungsgeldern für Online-Fraktionssitzungen - Einstimmiger Beschluss
+- TOP 6: Jahresrechnung 2019 - Einstimmiger Beschluss
+- TOP 7: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Betreuung Kinder in Tageseinrichtungen" - Einstimmiger Beschluss
+- TOP 8: Finanzbericht - Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie - Kenntnisnahme
+- TOP 8.1: Zu 5361/IX: 5361/IX Finanzbericht – Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie; hier: Unterstützung der Petition des Aktionsbündnisses „Für die Würde unserer Städte“ - Einstimmiger Beschluss
+- TOP 9: Anpassung des Gesellschaftsvertrages der NEW mobil & aktiv Mönchengladbach GmbH (m&aMG) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (2.Nachweisung) - Kenntnisnahme
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (7. Nachweisung) - Kenntnisnahme
+- TOP 12: DA nach § 32 KomHVO NRW und 26. Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 13: Aussetzung der Zahlung der Elternbeiträge für die Betreuung von Kindern im offenen Ganztag und außerunterrichtliche Betreuungsangebote an Schulen der Primarstufe für die Monate Juni und Juli 2020 hier: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 14: Verlängerung der Sockelbetragsfinanzierung der Verbände der freien Wohlfahrtspflege (HSP-Maßnahme 2012-0108) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15: Anregung zum Beitritt der Stadt Mönchengladbach zum ICAN-Städteappell - Mit Stimmenmehrheit abgelehnt
+- TOP 16: Jahresbericht zur Abwasserbeseitigung 2019 der NEW AG - Kenntnisnahme
+- TOP 17: Jahresabschluss 2019 des Gebäudemanagement Mönchengladbach (GMMG) und Verwendung des Jahresüberschusses - Einstimmiger Beschluss
+- TOP 18: Stadtumbaugebiet Rheindahlen-Mitte - Beschluss der Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss
+- TOP 19: 232. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach, „Seestadt mg+“, Stadtbezirk Ost - Lürrip, Gebiet südlich der Bahnlinie zwischen Breitenbachstraße, Kranzstraße und Lürriper Straße - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 793/O, „Seestadt mg+“, Stadtbezirk Ost, Lürrip, Gebiet südlich der Bahnlinie zwischen Breitenbachstraße, Kranzstraße und Lürriper Straße - Mit Stimmenmehrheit beschlossen
+- TOP 21: 228. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach („Bonnenbroicher Straße“) - Stadtbezirk Süd, Gebiet östlich der Dohler Straße zwischen der Eichenstraße und der Frankenstraße - Mit Stimmenmehrheit beschlossen
+- TOP 22: Bebauungsplan Nr. 786/S („Bonnenbroicher Straße“), Stadtbezirk Süd - Bonnenbroich-Geneicken, Gebiet östlich der Dohler Straße zwischen der Eichenstraße und der Frankenstraße - Mit Stimmenmehrheit beschlossen
+- TOP 23: Errichtung eines eingeschossigen Gebäudes in modularer Bauweise zur Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGATA) an dem Grundschulstandort Zingsheimer Straße - Einstimmiger Beschluss
+- TOP 24: Grundhafte Erneuerung der Abhang-Decken und Beleuchtungsanlagen im Schulzentrum Rheindahlen und dem Mathematisch-Naturwissenschaftlichen-Gymnasium - Einstimmiger Beschluss
+- TOP 25: Verbandsausschusses des Wasser- und Bodenverbandes Mittlere Niers - Einstimmiger Beschluss
+- TOP 26: Ökologisches Bewässerungskonzept für Mönchengladbach - In den nächsten Ratszug geschoben
+- TOP 27: Beschilderung im Rahmen des Mindestabstand - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Fraktionsantrag zur Vorlage 5374/IX: Europaplatz - Mobil Hub der Zukunft mg+ - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Machbarkeit und Finanzierung von öffentlichen Trinkbrunnen / Fraktionsantrag DIE LINKE vom 13.08.2020 - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Umwandlung der unteren Bismarckstraße – Reduzierung von Verkehrschaos durch Ausschluss des - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Auswirkungen der Corona-Pandemie auf die Arbeit der Verwaltung - Siehe Niederschrift
+- TOP 32: Clubkultur retten! - Vom Antragsteller zurückgezogen
+- TOP 33: Empfehlung der Bildung eines Ausschusses für Sicherheit und Ordnung in der Wahlperiode - Siehe Niederschrift
+- TOP 33.1: Zu 5452/IX: TOP 33 Empfehlung der Bildung eines Ausschusses für Sicherheit und Ordnung in der Wahlperiode 2020 – 2025 / Antrag der CDU-Fraktion; hier: Verbesserung des Sicherheitsempfindens der Bevölkerung durch neue Konzepte und Strukturen - Siehe Niederschrift
+- TOP 34: Anfragen und Mitteilungen
