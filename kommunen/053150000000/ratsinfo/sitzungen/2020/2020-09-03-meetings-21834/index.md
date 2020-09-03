@@ -1,0 +1,95 @@
+# 46. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-03T16:30:00+02:00
+- Ende: 2020-09-03T17:50:00+02:00
+- Ort: im Restaurant des Kölner Zoos
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21834
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21834
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Götterbäume Gocher Straße - Bürgereingabe nach § 24 GO - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Peter-Ustinov-Schule - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage der Grünen zum Sachstand Sanierung Toiletten im Blücherpark (AN/0092/2020) - Kenntnis genommen
+- TOP 7.1.2: Baumfällungen an der Wendeschleife der Linien 12 und 147 - Kenntnis genommen
+- TOP 7.1.3: Blumen- und Langgraswiesen - Kenntnis genommen
+- TOP 7.1.4: Bepflanzung der Wände am Tunnel Boltensternstraße/An der Schanz- Anfrage der FDP (AN/1144/2019) - Kenntnis genommen
+- TOP 7.1.5: Schulhof Kretzerstraße im Nordpark - Kenntnis genommen
+- TOP 7.1.6: Quartiersparkhaus Nippeser Tälchen - Kenntnis genommen
+- TOP 7.1.7: Warteschlangen auf Bürgersteigen vor kleinen Geschäften - Kenntnis genommen
+- TOP 7.1.8: Einwurfmöglichkeiten von Alttextilien - Kenntnis genommen
+- TOP 7.1.9: Mülleimer Situation im Bereich "Neusser Straße, Mollwitzstraße und Scheibenstraße" in Köln Weidenpesch (AN1493/2019) - Kenntnis genommen
+- TOP 7.1.10: Kita Longericher Hauptstraße - Kenntnis genommen
+- TOP 7.1.11: Leerstand eines Wohnhauses Niehler Str. 301 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Kombinierter Rad- und Fußgängerverkehr auf dem Niehler Damm - Kenntnis genommen
+- TOP 7.2.2: LKW-Parkplätze auf der Bremerhavener Straße in Niehl - Kenntnis genommen
+- TOP 7.2.3: Herabstufung von Deponien in geringere Gefahrenklasse - Kenntnis genommen
+- TOP -: "Herabstufung von Deponien in geringere Gefahrenklasse" - Kenntnis genommen
+- TOP 7.2.4: Nördlicher Zugang zur Sportanlage Weidenpesch - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Schnelle Reaktion der Verwaltung auf Hinweise - endgültig zurückgezogen
+- TOP 8.1.2: Schutz von Vorgärten durch Bebauungsplanfestsetzungen - endgültig zurückgezogen
+- TOP 8.1.3: Baumschutz bei Baumaßnahmen - Sache ist erledigt
+- TOP 8.1.4: Einsichtnahme der BV 5 in ein Gutachten zu einer Altlastenuntersuchung - endgültig zurückgezogen
+- TOP -: Einsichtnahme der BV5 in ein Gutachten zu einer Altlastenuntersuchung -Antrag zur SPD-Fraktion- - Kenntnis genommen
+- TOP 8.1.5: Autofreier Sonntag auf der Neusser Straße - endgültig abgelehnt
+- TOP 8.1.6: Kunst im Tunnel - ungeändert beschlossen
+- TOP 8.1.7: Verbesserung der Sicherheit des Radverkehrs - ungeändert beschlossen
+- TOP 8.1.8: Fahrradzone Clouth Quartier - geändert beschlossen
+- TOP 8.1.9: Situation Ebernburgweg/Altleiningenweg - geändert beschlossen
+- TOP 8.1.10: Verkehrsberuhigung an Samstagen rund um den Wilhelmplatz - geändert beschlossen
+- TOP 8.1.11: Lösung des Abfallproblems in Weidenpesch - geändert beschlossen
+- TOP 8.1.12: Benennung eines Plätzchens in Köln Mauenheim in "Hans-Knipp-Platz" - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Benennung eines Plätzchens in Köln Mauenheim in "Hans-Knipp-Platz" - Sache ist erledigt
+- TOP 8.2.2: Baumschutz bei Baumaßnahmen - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - zurückgestellt
+- TOP 9.1.2: Gewährung von bezirksorientierten Mitteln für das Projekt "Lieder unseres Lebens" - ungeändert beschlossen
+- TOP 9.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausügung - ungeändert beschlossen
+- TOP 9.1.4: Umgestaltung der Longericher Hauptstraße im Bereich der geplanten Kindertagesstätte Longericher Hauptstraße 73-75 - geändert beschlossen
+- TOP 9.1.5: Einrichtung einer Fahrradstraße in der Etzelstraße und Müngersdorfer Straße - zurückgestellt
+- TOP 9.1.6: Verkehrsberuhigung Nesselrodestraße - ungeändert beschlossen
+- TOP 9.1.7: Planung und Kostenermittlung für das Gesamtkonzept der Bezirkssportanlage Scheibenstraße, Köln-Weidenpesch - ungeändert beschlossen
+- TOP 9.1.8: Wegeverbindung Bilderstöckchen/Klimapark - ungeändert beschlossen
+- TOP 9.1.9: Altlastensanierung der mit Schwermetallen und PAK verunreinigten Parzellen 127, 129, 139 und 141 der KGV Flora e.V., Krüthstraße 50733 Köln - ungeändert beschlossen
+- TOP 9.1.10: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.11: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 9.2.2: Stellplatzsatzung für Köln - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln"
+- TOP 9.2.3: Förderprogramm: Gemeinwesenarbeit für die Stadt Köln - mit Änderungen empfohlen
+- TOP 9.2.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg o. Nr., 50737 Köln-Longerich - Baubeschluss - mit Änderungen empfohlen
+- TOP 9.2.5: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ohne Votum in nachfolgende Gremien
+- TOP 9.2.6: Brandschutznachrüstung - Einbau von trockenen Löschwasserleitungen - mit Änderungen empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Öffnung von Schulhöfen an Grundschulen in den Sommerferien - Kenntnis genommen
+- TOP 10.2.2: Nippeser Wochenmarkt - Abschaffung der Vergabe von Plastiktüten, Antrag der CDU AN/0865/2019 - Kenntnis genommen
+- TOP 10.2.3: Bauvorhaben Simonskaul Gemeinsamer Antrag von SPD und CDU - Kenntnis genommen
+- TOP 10.2.4: Erweiterung der Anliegen-Kategorien des Online-Portals „Sag´s uns" - Kenntnis genommen
+- TOP 10.2.5: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 10.2.6: Renaturierung Grundstück Merheimer Platz 16, Köln- Nippes - Kenntnis genommen
+- TOP 10.2.7: Bürgereingabe nach § 24 GO - Umbenennung des Schillplatzes in Köln-Nippes in Marie-Luise-Nikuta-Platz - AZ43/20 S - Kenntnis genommen
+- TOP 10.2.8: Voranfrage zur Klärung des Planungsrechts zur Nachverdichtung (Bebauungsgenehmigung) zur Aufstockung der Gebäude Floriansgasse 33-37, Neubau auf den Grundstücken Floriansgasse 31und 37a zu Wohnzwecken, einer Tiefgarage und einem Kinderspielplatz. - Kenntnis genommen
+- TOP 10.2.9: Bushaltestellen für Bienen, Antrag der CDU-Fraktion in der Bezirksvertretung 5 (Nippes) - Kenntnis genommen
+- TOP 10.2.10: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.11: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 10.2.12: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
