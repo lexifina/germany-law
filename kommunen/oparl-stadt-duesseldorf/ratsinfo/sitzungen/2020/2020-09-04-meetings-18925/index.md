@@ -1,0 +1,81 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-04T14:00:00+02:00
+- Ende: 2020-09-04T16:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18925
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18925
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386022.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386022.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386022.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung vom 15.05.2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: An der Piwipp - Rückbau Verkehrsinsel, Baumfällungen - vertagt
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Genehmigung eines Dringlichkeitsbeschlusses - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2020 - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Öffentliche Grünanlage Rheinbabenstraße - einstimmig beschlossen
+- TOP 4.8: Weihnachtsmarkt auf der Nordstraße vom 19.11.2020 bis 23.12.2020 - einstimmig beschlossen
+- TOP 4.9: Radverkehrsführung am Knotenpunkt Pempelforter Straße / Kölner Straße und Am Wehrhahn - vertagt
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 4.11: Einrichtung eines eigenen Bahnkörpers auf der Kaiserstraße - vertagt
+- TOP 4.12: Temporärer Pop-Up Radweg am Rheinufer/Cecilienallee/Rotterdamer Straße - Ergebnisse und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Entfernung der Zusatztafel «Anlieger frei » in der Füsilierstraße - Anfrage der Fraktion Bündnis90/ DIe Grünen - zur Kenntnis genommen
+- TOP 5.2: Sicherheit am Kö-Bogen - Fußgängerquerung Haltestelle Schadowstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Regelanordnung für Fahrradständer an Baumscheiben - Anfrage der SPD-Fraktion
+- TOP 6.2: Rotlichtverstöße auf der Kölner Straße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Gebäude Poststr. 18 - Anfrage der FDP-Fraktion
+- TOP 6.4: Mensa des Görres-Gymnasiums - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Verbleib von zwei Skulpturen in der Mühlengasse - Antrag der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Straßenbäume in der Lützowstraße sowie in der Schwerinstraße im Abschnitt zwischen Bank- und Rolandstraße -Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 7.2: Vorstellung der geplanten Radwegverbindungen aller drei Hofgartenbereiche - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.3: Erhalt des Kinderspielplatzes Rheinpark/Robert-Lehr-Ufer - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.4: Ladezone am Dreieck - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.5: Grünstreifen Golzheimer Straße Umwandlung in einen Blühstreifen/ Wildblumenwiese - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Nutzung der Parkplätze am Carlsplatz für Markthändler - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 7.7: Längerfristige Nutzung von Parkplätzen für die Gastronomie im Stadtbezirk 1 - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Verkehrssicherheit Bürgersteig Kaiserswerther Str. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.10: Abfallbehälter Am Wehrhahn - Antrag Sabine Schmidt, Vertreterin der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.11: Sachstandsbericht Worringer Platz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.12: Verkehrsinsel An der Piwipp - Vorlage der Verwaltung BV1/162/2020 - überfraktioneller Antrag - zurückgezogen
+- TOP 7.13: Taxenstände auf der Derendorfer Allee - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.14: Baumpflanzungen in Pempelforter Parks - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Aufstellflächen für Zulieferfirmen im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 15.05.2020; BV1/126/2020 - zur Kenntnis genommen
+- TOP 8.2: Leere Baumscheiben auf der Heinrich- Erhardt-Straße, Beschluss der BV 1 vom 26.06.2020; BV1/ 183/2020 - zur Kenntnis genommen
+- TOP 8.3: Sonnenschutz für den Spielplatz Klosterstraße; Beschluss der BV 1 vom 28.02.2020; Vorlage-Nr. BV1/085/2020 - zur Kenntnis genommen
+- TOP 8.4: Baumfällungen aus Versicherungsgründen - zur Kenntnis genommen
+- TOP 8.5: Tempo 30 auf der Eulerstraße, Beschluss der Bezirksvertretung 1 vom 28.06.2019; Vorlage Nr. 171/141/2020 - zur Kenntnis genommen
+- TOP 8.6: Eingabe nach § 24 Gemeindeordnung NRW - Spichernstraße; Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/160/2020 - zur Kenntnis genommen
+- TOP 8.7: Sonnenschutz im Hof der Jugendfreizeiteinrichtung Ulmenclub - Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/126/2020 - zur Kenntnis genommen
+- TOP 8.8: Verlegung des Radweges Eulerstraße stadteinwärts vom Bürgersteig auf die Straße; Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/176/2020 - zur Kenntnis genommen
+- TOP 8.9: Neuplanung des Hilarius-Gilges-Platzes – interfraktioneller Antrag - zur Kenntnis genommen
+- TOP 8.10: Vorstellung der Arbeit des Hochhausbeirats; Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/191/2020 - zur Kenntnis genommen
+- TOP 8.11: Markierung der Radstreifen und Fußgängerüberwege erneuern bzw. fortführen/erweitern, Beschluss der Bezirksvertretung1; BV1/112/2020 - zur Kenntnis genommen
+- TOP 8.12: Kenntlichmachung der Einbahnstraße Schwerinstraße; Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/078/2020 - zur Kenntnis genommen
+- TOP 8.13: Schottergarten Ulmenstraße; Beschluss der BV 1 vom 26.06.2020; BV1/181/2020 - zur Kenntnis genommen
+- TOP 8.14: Aufstellung einer Bank im Berty Albrecht Park - zur Kenntnis genommen
+- TOP 8.15: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 9: Zuschussanträge
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an ehemalige Studenten der Kunstakademie, Prof. Klasse A.R. Penck - mehrheitlich beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GGS Lennéschule - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an ROOOOOM e.V. - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den St. Sebastian-Schützenverein Düsseldorf 1316 e.V. - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der BV 1 - Zuschuss an Düsseldorf darstellen und vermitteln e.V. - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Drogenhilfe e.V. - einstimmig beschlossen
