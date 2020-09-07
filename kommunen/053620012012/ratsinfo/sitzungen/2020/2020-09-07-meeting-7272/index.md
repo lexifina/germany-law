@@ -1,0 +1,58 @@
+# Hauptausschuss (83. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-09-07T18:00:00+02:00
+- Ende: 2020-09-07T19:30:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbKhw_IU5XvKIRmPTdd8O9c
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7272
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVmyiixxrpiKNbuyJ3bIBqaH2nfDO-NP6xUCngKCvzJW/Bekanntmachung_Hauptausschuss_07.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZah17PpfRpoxF2FnHG6h1b4WNQPLSxO9Y475UnEErmmA/Oeffentliche_Niederschrift_Hauptausschuss_07.09.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 03.02.2020
+- TOP 2.: Anregung nach § 24 GO NRW; hier: Gedenktafel an der Synagoge und Stolpersteine vor dem Haus Markt 11-13, Bezug: Antrag der Brühler Initiative für Völkerverständigung (BIfV) vom 12.08.2020
+- TOP 2.1: Anregung nach § 24 GO NRW hier: Gedenktafel an der Synagoge und Stolpersteine vor dem Haus Markt 11-13 Bezug: Antrag der Brühler Initiative für Völkerverständigung (BIfV) vom 12.08.2020
+- TOP 3.: Job-Ticket-Ausgabe im Jahr 2021 - (kein Text vorhanden)
+- TOP 4.: Außerunterrichtliche Ferienangebote in den Sommerferien 2020
+- TOP 5.: FerienIntensivTraining – FIT in Deutsch
+- TOP 6.: Nachhilfeangebot für Schülerinnen und Schüler mit Migrationshintergrund in Abschlussklassen (Deutsch, Mathe, Englisch)
+- TOP 7.: Außerplanmäßige Mittelbereitstellung hier: notwendige Umzugsarbeiten der Erich Kästner-Realschule - (kein Text vorhanden)
+- TOP 8.: Benennung einer Straße im Baugebiet „Im Geildorfer Feld Bplan 06.12 1. Änderung“ - (kein Text vorhanden)
+- TOP 9.: Bewirtung bei Inhouse-Fortbildungsveranstaltungen
+- TOP 10.: Schließung der Kaufhof-Filiale Brühl - (kein Text vorhanden)
+- TOP 11.: Entwicklung des Stellenplans im Zeitraum 2013/2014 - 2019 Bezug: Hauptausschuss 03.12.2018, TOP 4, Vorlage 329/2018 Antrag der Fraktionen CDU und Grüne vom 24.11.2018 Anfrage der FDP-Fraktion vom 21.11.2018
+- TOP 12.: Mitteilungen
+- TOP 12.1: Erlass des Ministeriums für Heimat, Kommunales, Bau und Gleichstellung NRW
+- TOP 13.: Anfragen
+- TOP 13.1: Aktuelle Flüchtlingssituation
+- TOP 13.2: Außengastronomie
+- TOP 13.3: Martinsumzüge
+- TOP 13.4: Radstation am Bundesbahnhof
+- TOP 13.5: Umsetzung Radmasterplan
+- TOP 13.6: Parksituation Bonnstraße/Otto-Wels-Straße
+- TOP 13.7: Haltestelle Linie 18 Brühl-Süd
+- TOP 13.8: Unterführung Haltestelle Brühl-Süd
+- TOP 13.9: Barrierfreier Ausbau der Haltestelle Brühl-Süd
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Agenda-Preis der Stadt Brühl 2019 hier: Bewerbungen und Vorgehensweise Preisvergabe Bezug: AfBU vom 07.02.2019, Vorlage-Nr. 13/2019 - (kein Text vorhanden)
+- TOP 15.: Niederschlagungen/Stundungen
+- TOP 15.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.3: Stundung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.4: Stundung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.5: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.6: Stundungen im Bereich der Vergnügungssteuer in Zusammenhang mit der Coronavirus-Pandemie - (kein Text vorhanden)
+- TOP 15.7: Niederschlagung Gewerbesteuer - (kein Text vorhanden)
+- TOP 16.: Entwicklung des Stellenplans im Zeitraum 2013/2014 - 2019 hier: Anlage Stellenplan Bezug: Vorlage Nr. 330/2020
+- TOP 17.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 18.: Bestellung zur Fachbereichsleitung - (kein Text vorhanden)
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen
+- TOP 20.1: Wunschbaumaktion 2020
+- TOP 20.2: Heinrich-Fetten-Platz
