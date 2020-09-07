@@ -1,0 +1,92 @@
+# 49. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-09-07T17:00:00+02:00
+- Ende: 2020-09-07T19:55:00+02:00
+- Ort: Bürgerzentrum Ehrenfeld, Venloer Straße 429, 50825 Köln, INFEKTIONSSCHUTZ: Aufgrund der Mindestabstände stehen weniger Plätze für die Gremienmitglieder und Öffentlichkeit zur Verfügung. Bitte melden sie sich unbedingt vorab bei der Schriftführung an!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21584
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21584
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Herkulesstraße (Az.: 02-1600-07/2020) - zurückgestellt
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Ehrenfeld (Az.: 02-1600-261/19) - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag der SPD-Fraktion zu TOP 3.2 - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Vorrang für Fuß- und Radverkehr? – Sachstand zum Zentralen Verkehrsrechner und zum Ampelprogramm im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Bauvorhaben Liebigstraße - Kenntnis genommen
+- TOP 6.2.1: Beanwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen, betr. Bauvorhaben Liebigstraße - Kenntnis genommen
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Rheinische Musikschule, Regionalschule Ehrenfeld - Kenntnis genommen
+- TOP 6.3.1: Beantwortung einer Anfrage der SPD-Fraktion vom 08.06.2020, - AN/0788/2020, Rheinische Musikschule - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Versorgung Ehrenfelder Bäume in der Trockenheitsphase - Kenntnis genommen
+- TOP 6.4.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Versorgung Ehrenfelder Bäume in der Trockenheitsphase hier: Beantwortung der Fragen aus der Sitzung vom 15.06.2020 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke, betr.: Unterbringung von Geflüchteten im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Die Linke.: Unterbringung von Geflüchteten im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Sach- und Planungsstand der Wohnbauvorhaben im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP -: die Beantwortung erfolgt unter TOP 20.3 im nichtöffentlichen Teil
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Spielplätze im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Prüfergebnisse Philippstraße/REWE-Anlieferung - Kenntnis genommen
+- TOP 7.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrsberuhigung Vogelsanger Straße (Helmholtzstraße bis Äußere Kanalstraße) - zurückgestellt
+- TOP 7.6: Anfrage der SPD-Fraktion, betr.: Sicherer Fußgänger- und Radüberweg zwischen Takufeld und Rochuspark - Kenntnis genommen
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Anfrage der SPD-Fraktion, betr.: Fahrradpiktogramme Venloer Str. - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger*innen, betr.: Unverzüglicher Ankauf des Baufeldes MI 1 ehemaligen Güterbahnhof Ehrenfeld - ungeändert beschlossen
+- TOP 8.2: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger*innen: Gedenkorte am Friedhof Bocklemünd um eine zeitgemäße Kommentierung erweitern - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Bereitstellungflächen für kommerzielle Leihfahrzeuge - geändert beschlossen
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Zebrastreifen auf der Subbelrather Straße - zurückgestellt
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Entscheidungen der Bezirksvertretung - ungeändert beschlossen
+- TOP 8.6: Straßenschilder im Neuehrenfelder Nordschleswig-Viertel mit erklärenden Tafeln versehen - geändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Nutzungskonzept für das ehemalige Schulgebäude Geißelstraße 3 - 5 - geändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Wasser für unsere Kölner Bäume - ungeändert beschlossen
+- TOP 8.9: Antrag der CDU-Fraktion, betr.: Parken bei Straßenbaumaßnahmen - ungeändert beschlossen
+- TOP 8.10: Urbane Urwälder für Ehrenfeld - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion, betr.: Grundschulbedarf Ehrenfeld - ungeändert beschlossen
+- TOP 8.11.1: Errichtung einer Grundschule auf dem Max-Becker-Areal in Ehrenfeld - Kenntnis genommen
+- TOP 8.12: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Vorstellung von Städtebaulichen Verträgen - ungeändert beschlossen
+- TOP 8.13: Antrag der Fraktion Die Linke, betr.: Lebendiges Bickendorf erhalten – Verdrängung frühzeitig identifizieren und verhindern! - ungeändert beschlossen
+- TOP 8.14: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Grünpfeile für Radfahrer*innen - ungeändert beschlossen
+- TOP 8.15: Antrag der Fraktion Bündnis 90/Die Grünen, betr. Nachhaltige Wohnungsunternehmen - ungeändert beschlossen
+- TOP 8.16: Dringlichkeitsantrag der CDU-Fraktion, betr.: Cölner Motorenfabrik Johannes Bruncken, Bickendorf - ungeändert beschlossen
+- TOP 8.17: Dringlichkeitsantrag der SPD-Fraktion, der Fraktion B'90 Die Grünen, der Fraktion Die Linke, Hr. Schuster und Fr. Pöttgen, betr.: Die Bartholomäus-Schink-Straße wird zur Streetfood Street - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: 2. Maßnahmenpaket für Schulbauprojekte Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer
+- TOP 9.2: Planungsbeschluss für die Prälat-Ludwig-Wolker Bezirkssportanlage in Köln-Ehrenfeld - geändert beschlossen
+- TOP 9.2.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 9.2, betr: „Prälat-Ludwig-Wolker Bezirkssportanlage“ - ungeändert beschlossen
+- TOP 9.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung Hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.4: 5. Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Wohnbebauung Alsdorfer Straße in Köln Braunsfeld/-Ehrenfeld - geändert beschlossen
+- TOP 10.2: Stellplatzsatzung für Köln - zurückgestellt
+- TOP 10.2.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 10.2.2: Änderungsantrag der SPD-Fraktion zu TOP 10.2: Stellplatzsatzung - zurückgestellt
+- TOP 10.3: 233. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 4, in Köln-Ehrenfeld Arbeitstitel: Ehrenfeldgürtel hier: Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorg - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.5: Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstr. 71 - 73, 50823 Köln-Neuehrenfeld - Baubeschluss - ungeändert beschlossen
+- TOP 10.6: Zweite Ordnungsbehördliche Verordnung für das Jahr 2020 über das Offenhalten von Verkaufsstellen - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Schaffung von stadtplanerischen Voraussetzungen für einen Ankauf der Flurstücke 2045/39, 513 und 540 Flur 72 Gemarkung 054963 Ehrenfeld für die Entwicklung eines Kulturbausteins Helios - geändert beschlossen
+- TOP 10.7.1: Top 4.3: Schaffung von stadtplanerischen Voraussetzungen für einen Ankauf der Flurstücke 2045/39 , 513 und 540 Flur 72 Gemarkung 054963 Ehrenfeld für die Entwicklung eines Kulturbausteins Helios - Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Projektskizze: "Floristische Aufwertung städtischer Streuobstwiesen durch Mahdgutübertragung zur Förderung der lokalen Insektenfauna" - Kenntnis genommen
+- TOP 12.2: Antrag der Fraktion DIE LINKE: Menschen vor Verdrängung schützen! Beschlüsse zu Sozialen Erhaltungssatzungen umsetzen! AN/0373/2020 - Kenntnis genommen
+- TOP 12.3: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 12.4: Beschluss aus der Sitzung der Bezirksvertretung Ehrenfeld vom 15.06.2020, TOP 8.2 - Kenntnis genommen
+- TOP 12.5: Wohnungsbauvorhaben Methweg 4 a - Kenntnis genommen
+- TOP 12.6: Lichtmasterplan für die Stadt Köln - Kenntnis genommen
+- TOP 12.7: Information über Strukturerhaltende Maßnahme zur Sicherung der Bürgerzentren/-häuser in freier Trägerschaft - Kenntnis genommen
+- TOP 12.8: Mitteilung zum Beschluss der Bezirksvertretung Ehrenfeld vom 15.06.2020, TOP 8.3 AN/0717/2020 - Kenntnis genommen
+- TOP 12.9: - die Vorlage wird unter TOP 10.7 behandelt
+- TOP 12.10: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
