@@ -1,0 +1,205 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2020-09-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 3.: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Maria-Eich-Str. 79: 2 Fichten
+- TOP 3.1.2.: Herzog-Johann-Str. 19: 2 Fichten
+- TOP 3.1.3.: Egenhoferstr. 8: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.4.: Institutstr. 19 25: 2 Birken, 2 Ahorn
+- TOP 3.1.5.: Bassermannstr. 20: 1 Ahorn
+- TOP 3.1.6.: Pippinger Str. 95: 1 Vogelkirsche, 1 Weißdorn
+- TOP 3.1.7.: Pagodenburgstr. 2: 1 Laubbaum
+- TOP 3.1.8.: Böcksteinerstr. 86: Baumbestandsplan
+- TOP 3.1.9.: Pläntschweg 8: Baumbestandsplan
+- TOP 3.1.10.: Hofbauernstr. 15: Baumbestandsplan
+- TOP 3.1.11.: Rißheimerstr. 17: Baumbestandsplan
+- TOP 3.1.12.: Nußhäherstr. 5: 1 Spitzahorn
+- TOP 3.1.13.: Otto-Engl-Platz 3: Baumbestandsplan
+- TOP 3.1.14.: Schikanederstr. 1: Baumbestandsplan
+- TOP 3.1.15.: Prangerlstr. 9: 2 Thujen, 1 Tanne, 1 Eberesche
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 4.1.: Protokoll des Ortstermins vom 12.03.20 (Radweg Gleichmannstraße) (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beiräte
+- TOP 10.: Entscheidungen
+- TOP 11.: Anhörungen
+- TOP 12.: Anträge und Anfragen
+- TOP 13.: Unterrichtungen
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 15.: Post an den BA
+- TOP 15.1: von der Stadtverwaltung
+- TOP 1.: Direktorium
+- TOP 2.: Baureferat
+- TOP 3.: Kreisverwaltungsreferat
+- TOP 4.: Referat für Stadtplanung und Bauordnung
+- TOP 5.: Abfallwirtschaftsbetrieb München
+- TOP 6.: Stadtwerke München GmbH, MVG
+- TOP 6.2.: Erster SWM Nachhaltigkeitsbericht
+- TOP 7.: Referat für Gesundheit und Umwelt
+- TOP 8.: IT-Referat
+- TOP 9.: Referat für Bildung und Sport
+- TOP 10.: Sozialreferat
+- TOP 11.: Referat für Arbeit und Wirtschaft
+- TOP 12.: Kommunalreferat
+- TOP 15.2: Sonstige
+- TOP 16.: Verschiedenes
+- TOP 16.2.: Terminplanung 2021
+- TOP 2.2.1.: DB-Ausbesserungswerk auf dem ehem. "Strasser-Gelände" (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.2.: Wertstoffcontainerstandort Maria-Eich-Straße / Paosostraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.3.: Bebauungsplan Dreillingsweg - Mooswiesenstraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.4.: Rodenstockplatz (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.5.: Pasinger Bahnhof; Entwicklung Fußgängerweg Pasinger Hofgärten bis Pasing Arcaden zum Radlschnellweg (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.6.: Umwandlung einer Rasenfläche an der Alten Allee in eine Blumenwiese
+- TOP 2.2.7.: Kreuzung Landsberger Straße / Georg-Habel-Straße
+- TOP 2.2.8.: Verkehrslärm durch Neubaugebiet Paul-Gerhardt-Allee
+- TOP 2.2.9.: Bauvorhaben Freseniusstr. 105
+- TOP 2.2.10.: Das ehemalige Nymphenbad
+- TOP 2.2.11.: Wertstoffcontainerstandort Wilhelm-Hey-Straße
+- TOP 2.2.12.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget; ökologische Aufwertung des Ackers zwischen Blutenburg und Durchblick
+- TOP 2.2.13.: Parklizenzausweisung Österreicherviertel zwischen Willibaldstraße, Agnes-Bernauer-Straße, Landsberger Straße und Am Knie
+- TOP 2.2.14.: Kreuzung Verdistraße / Pippinger Straße; Gefahrensituation für Radfahrer stadtauswärts
+- TOP 2.2.15.: Wertstoffcontainerstandort Sanderplatz
+- TOP 2.2.16.: Blumentröge in der Passionistenstraße
+- TOP 2.2.17.: Bauvorhaben Thuillestr. 6
+- TOP 2.2.18.: Kritik am Bismarck-Denkmal
+- TOP 2.2.19.: Unterführung Heerstraße zwischen Bauseweinallee und Freseniusstraße
+- TOP 2.2.20.: Anbringen eines Verkehrsspiegels an der Einmündung Karl-Mangold-Straße / Offenbachstraße
+- TOP 5.1.1.: Anwesen in der Bauseweinallee
+- TOP 5.1.2.: Anwesen in der Planegger Straße
+- TOP 5.1.3.: Anwesen Im Wismat
+- TOP 10.1.: (E) Stadtbezirksbudget Evang.-Luth. Carolinenkirche Neugestaltung der Außenanlage ab 27.03.2020 15.108,00 Euro, Az.: 0262.0-21-0238 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 10.2.: (E) Stadtbezirksbudget Initiative "Digitales Live-Rollenspiel" Digitales Live-Rollenspiel vom 31.10. - 06.11.2020 2.830,00 Euro, Az.: 0262.0-21-0258 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 10.3.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-21-0260
+- TOP 10.4.: (E) Stadtbezirksbudget Initiative „Denkmalgeschützt" Erstellung von Kurzvideos zu denkmalgeschützten Objekten in Pasing Obermenzing vom 20.08.-12.09.2020 400,00 €, AZ: 0262.0-21-0262
+- TOP 10.5.: (E) Stadtbezirksbudget Momentbühne e.V. Lesung mit Tanz – Nellie Bly vom 03.-08.11.2020 10.050,00 € / Az. 0262.0-21-0261
+- TOP 10.6.: (E) Stadtbezirksbudget Elternbeirat des Max-Planck-Gymnasiums München Bandabend des MPG als Open Air Veranstaltung am 25.09.2020 871,97 € / Az. 0262.0-21-0259
+- TOP 11.1.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 11.2.: Zuwendung aus dem Stadtbezirksbudget; Antrag der Initiative „Künstlerische Gestaltung“ auf Zuschuss für künstlerische Gestaltung des Unterstandes in der Grünanlage Josef-Felder-Straße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 11.3.: Egenhoferstr. 8: Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage / Tektur
+- TOP 11.4.: Willibaldstr. 20-54, zwischen Agnes-Bernauer-Straße und Mitterfeldstraße; Erinnerungsverfahren
+- TOP 11.5.: Weinbergerstr. 29 (Max-Planck-Gymnasium), Nachtrag in die Denkmalliste
+- TOP 11.6.: Gottesdienst in einer Grünanlage, Bodenstedtstr. 27 am 04.10.20
+- TOP 11.7.: Böcksteinerstr. 86: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid
+- TOP 11.8.: Planegger Str. 36-56: Sanierung der Tiefgarage
+- TOP 11.9.: Pläntschweg 8: Neubau eines Einfamilienhauses mit Doppelgarage / Tektur, hier: Satteldach statt flachgeneigtes Walmdach (Terrassengeschoss)
+- TOP 11.10.: Hofbauernstr. 15: Neubau einer MF-Wohnanlage (10 WE) mit Tiefgarage (10 Stpl.) / Vorbescheid
+- TOP 11.11.: Rißheimerstr. 17: Neubau eines Einfamilienhauses mit Garage / Vorbescheid
+- TOP 11.12.: Otto-Engl-Platz 3: Neubau 2er Stadthäuser und eines Stadthauses (2 WE) mit 2 Garagen und 1 Duplexgarage
+- TOP 11.13.: Schikanederstr. 1: Neubau eines Stadthauses (3 WE) und einer Doppel-Duplexgarage / Vorbescheid
+- TOP 11.14.: Meyerbeerstr. 113: Neubau eines Clubhauses mit Jugendraum im OG und rollstuhlgerechtem Zugang im EG / Tektur
+- TOP 11.15.: Landsberger Str. 448: Umbau und DG-Ausbau; Tektur, hier: Sanierung, Umbau und DG-Ausbau eines denkmalgeschützten Wohnhauses (2 Ladeneinheiten, 12 WE) (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 11.16.: Paul-Gerhardt-Allee 39, Aufhebung der Schulbushaltestellen, Einrichtung einer Kita-Anfahrtszone; verkehrsrechtliche Anordnung
+- TOP 11.17.: Daudetstraße auf Höhe Dr.-Blaich-Straße, Einrichtung eines Haltverbots; verkehrsrechtliche Anordnung
+- TOP 11.18.: Pfettenstraße zwischen Verdi- und Packenreiterstraße, Einrichtung eines Haltverbots; verkehrsrechtliche Anordnung
+- TOP 11.19.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten, Planegger Straße zwischen Kraillinger Weg und Anwesen Planegger Str. 111; verkehrsrechtliche Anordnung
+- TOP 11.20.: Raucheneggerstraße, Einrichtung eines Haltverbots; verkehrsrechtliche Anordnung
+- TOP 11.21.: Planegger Str. 60, Einrichtung einer Kita-Anfahrtszone; verkehrsrechtliche Anordnung
+- TOP 11.22.: Auswahlverfahren REGSAM-Schwerpunktgebiet ab 2021
+- TOP 11.23.: Fouquéstr. 17-23: Neuaufbau des Daches und Ausbau zu 4 Wohneinheiten, Umbau des Treppenhauses
+- TOP 12.1.: Grüne, Antrag: Pflanzung von Bäumen in der Gräfstraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 12.2.: CSU, Antrag: S-Bahnhalt Berduxstraße – Planungen sofort beginnen und finanziell unterstützen (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 12.3.: CSU, Antrag: S-Bahnhalt Berduxstraße – Machbarkeitsstudie dem BA offenlegen (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 12.4.: Bündnis 90 / Die Grünen, SPD, Antrag: Der Stadtbezirk 21 steht für eine offene, freie, demokratische und friedliche Gesellschaft: Bismarck-Figur braucht kritische Betrachtung
+- TOP 12.5.: Bündnis 90 / Die Grünen, SPD, Antrag: Der Stadtbezirk 21 steht für eine offene, freie, demokratische und friedliche Gesellschaft: "Kriegerdenkmäler" zu Lernorten machen
+- TOP 12.6.: Bündnis 90 / Die Grünen, Antrag: Umstellung auf einen natur- und artenverträglichen Schnitt von Hecken und Stauden
+- TOP 12.7.: CSU, Antrag: Information zur Auswirkung der beschlossenen Sparmaßnahmen – Keine Maßnahmen zu Lasten der Sicherheit der Bevölkerung im Münchner Westen
+- TOP 12.8.: CSU, Antrag: Keine Verbreiterung der Bodenseestraße – aktueller Sachstand
+- TOP 12.9.: CSU, Antrag: Passionistenstraße als verkehrsberuhigte Straße dauerhaft beibehalten
+- TOP 12.10.: CSU, Anfrage: Anbindung des U-Bahnhofs Pasinger Bahnhof an die Pasing Arcaden – aktueller Sachstand
+- TOP 12.11.: SPD, Antrag: Photovoltaik-Anlage für die Lärmschutzwand beim Wohngebiet Paul-Gerhardt-Allee
+- TOP 12.12.: Freie Wähler / ÖDP, Antrag: Neue Hybridfahrzeuge für die Buslinien 162 und 180
+- TOP 12.13.: Freie Wähler / ÖDP, Anfrage: Überprüfung des Coronagefährdungspotenzials der Arbeiterwohnheime im Stadtbezirk Pasing-Obermenzing
+- TOP 14.1.: Ausschuss für Stadtplanung und Bauordnung vom 08.07.20: (U) EU-Projekt Förderantrag „JUSTNatur:activation of nature-based solutions for a just low carbon transition“
+- TOP 14.2.: Vollversammlung vom 22.07.20: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 14.3.: Verwaltungs- und Personalausschuss als Feriensenat am 05.08.20: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2021 München fährt Tram V – Fünf-Minuten-Takt für die Tram Antrag Nr. 14-20 / A 5867 von der Fraktion DIE GRÜNEN/RL vom 06.09.2019 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Mobiles München – ehrlich dran arbeiten Antrag Nr. 14-20 / A 05514 von Herrn Stadtrat Röver vom 18.06.2019 MVV fährt im München-Takt Antrag Nr. 14-20 / A 06725 von Frau Stadträtin Wiepcke, Herrn Stadtrat Schall, Herrn Stadtrat Quaas vom 11.02.2020 Buslinie 135 bis zum Gasteig-Interimsquartier in Sendling verlängern Antrag Nr. 14-20 / A 06814 von Frau Stadträtin Olhausen vom 20.02.2020 Verlängerung der Fahrtzeiten der Linie 199 bis Mitternacht Antrag Nr. 14-20 / B 05631 des Bezirksausschusses des Stadtbezirkes 15 – Trudering-Riem vom 13.12.2018
+- TOP 1.1.: BA-Informationsschreiben Nr. 04/20: Behandlung von an die BA-Mitglieder gerichteter Post durch die BA-Geschäftsstellen
+- TOP 1.2.: BA-Informationsschreiben Nr. 05/20: Durchführung eigener Veranstaltungen
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Erläuterungen zum Budgetstand
+- TOP 1.5.: Stadtbezirksbudget; Verwendungsnachweise - Pasinger Faschingstreiben 23.02.20; Antragsteller ARGE Pasinger Vereine - Kinderbudget; Antragsteller: Kultur+Spielraum e.V. - Anschaffung Sportartikel; Antragsteller: TSG Pasing - Lichtinstallation am Pasinger Rathaus 06.12.-22.12.19; Antragsteller: Kunst & Kultur Pasing e.V. - Fortbildungs- und Übungstag; Antragsteller: BRK
+- TOP 2.1.: Planungskonzept zur Umgestaltung des Umfelds der Kirche Maria Schutz / Schererplatz (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.2.: Stadtratsantrag: Bewertung der Münchner Spielplätze durch Eltern und Kinder (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.3.: Baumpflanzungen Alte Allee (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.4.: Anpflanzung eines Baumes am Gehweg auf der Freifläche gegenüber der Bushaltestelle Beer-Walbrunn-Straße / Frauendorferstraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.5.: Stadtpark Pasing; Informationsveranstaltung am 07.11.20 zu den geplanten aktuellen Gehölzpflegemaßnahmen im Winter 2020/21 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 2.6.: Grünfläche Silberdistelstraße zur Blumenauer Straße / Perlschneiderstraße; Tischtennisplatte, Bänke, Belag
+- TOP 2.7.: Kremser Wiese
+- TOP 2.8.: Verbleib der Skulptur "Luchs" vor der Realschule Grandlstraße
+- TOP 2.9.: Krähensichere Mülleimer bei der Grünanlage am Carlshäusl
+- TOP 2.10.: Neugestaltung Rüttenauer Platz
+- TOP 2.11.: Ebenböckstraße - Pfosten
+- TOP 2.12.: Josef-Retzer-Straße zwischen Gräfstraße und Weinbergerstraße; Sanierung der Fahrbahn vom 14.09. - 30.09.20
+- TOP 3.1.: Gleichmannstraße - Radfahren entgegen der Einbahnstraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 3.2.: Aktueller Planungsstand zum Neubau von Feuerwachen im Münchner Westen (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 3.3.: Bessere Beschilderung der Ampelanlage Bodenseestraße / Lortzingstraße (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 3.4.: Radschulweg an der Georg-Habel-Straße vervollständigen (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 3.5.: Erhalt des Versicherungsamts in Pasing - Suche alternativer Standorte
+- TOP 3.6.: Temporäre Nachbarschaftsstraßen im BA 21
+- TOP 3.7.: Kunstaktion "Abhörspiel / tam tam" vom 01.10. - 11.10.20, Pasinger Marienplatz
+- TOP 3.8.: Proaktives Engagement der Verwaltung zur Aquise von Schulweghelfern
+- TOP 3.9.: Parkverbote in den Straßen Am Nymphenbad udn Bärmannstraße
+- TOP 3.10.: Silberdistelstraße
+- TOP 3.11.: Arbeiten im Straßenraum, Feichthofstr. 1-49; Erneuerung des gesamten Asphaltoberbaus vom 21.09. - 23.10.20
+- TOP 3.12.: Kranaufstellung Hofbauernstr. 1-1a vom 18.09. - 06.11.20; verkehrsaufsichtliche Erlaubnis
+- TOP 3.13.: Sommerstraßen: Passionistenstraße
+- TOP 3.14.: Arbeiten im Straßenraum, Planegger Str. 27-37; Straßenbauarbeiten vom 07.09. - 20.09.20
+- TOP 4.1.: Alle Bau-, Baumbestands- und Freiflächengestaltungspläne ab sofort in Alfresco verfügbar machen, um die Handlungsfähigkeit auch in Corona-Zeiten zu gewährleisten (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 4.2.: Planfeststellungsbeschluss "Verlängerung U5 West; Abschnitt PA78 - U-Bahnhof Willibaldstraße bis U-Bahnhof Am Knie" (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 4.3.: Gelände Lortzingstraße / Haberlandstraße
+- TOP 4.4.: Vollzug der Baumschutzverordnung - Forststr. 1 - Paganinistr. 31 - Schurichstr. 23 - Wöhlerstr. 61 - Zehentstadelweg 7
+- TOP 4.5.: Ausweitung von Carsharing-Angeboten
+- TOP 4.6.: Im Wismat 8, Neubau eines Mehrfamilienhauses (4 WE) mit Tiefgarage (Mittelgarage) und Schwimmbecken
+- TOP 4.7.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"; Bürgerbeteiligung in den Stadtvierteln
+- TOP 4.8.: Schulung der Baumschutzbeauftragten
+- TOP 5.1.: Aktuelle Situation an den Wertstoffinseln (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 5.2.: Wertstoffinsel Lucia-Popp-Bogen (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 5.3.: Erarbeitung von konkreten Problemlösungen zum Thema Wertstoffinseln bei einem stadtweiten Workshop (Antrag Nr. 14-20 / B 07651 des BA 21 vom 03.03.20); Zwischenmitteilung
+- TOP 5.4.: Transparenz über die Verhandlungen des Kommunalreferates / Abfallwirtschaftsbetrieb München (AWM) mit dem Dualen System über die Fortführung der Wertstoffentsorgung ab 2021
+- TOP 5.5.: Stand Genehmigungsverfahren für neue Wertstoffinsel, Avenariusstraße / Am Stadtpark
+- TOP 5.6.: Stand Genehmigungsverfahren für neue Wertstoffinsel, Wilhelm-Hey-Straße
+- TOP 5.7.: Unterrichtung über beantragte Wertstoffinseln, u.a. Hillernstraße / Steinerweg, Am Stadtpark / Wiesengrund und Maria-Eich-Straße / Paosostraße
+- TOP 6.1.: MVG-Rad im 21. Stadtbezirk (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 7.1.: Lärmschutzwand für die Anwohner der Aubinger Straße / Am Krautgarten (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 7.2.: Broschüren zum Thema "Biodiversitätsstrategie"
+- TOP 7.3.: Taubenabwehrmaßnahmen an der Eisenbahnbrücke am S-Bahnhof Obermenzing über die Verdistraße
+- TOP 8.1.: Ermöglichen von Onlinekonferenzen der Bezirksausschüsse mit Mitarbeiter*innen der Verwaltung
+- TOP 9.1.: Warum erfolgte die Reduzierung der Öffnungszeiten für den öffentlichen Eislauf im Eissportzentrum München West? (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 9.2.: Neubauvorhaben Kindergarten Aubingerstraße / Am Krautgarten 8
+- TOP 9.3.: Einladung "Bildung für nachhaltige Entwicklung - eine Konzeption für München", Abschluss der digitalen BNE-Tage am 16.09.20
+- TOP 9.4.: BA-Dialog; Videokonferenz des RBS mit den BAs – Terminänderung, jetzt am 22.10.20
+- TOP 10.1.: Protokoll der Sitzung des Mieterbeirates vom 13.07.2020 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 11.1.: Verlegung der Bushaltestelle Linie 130 Veldener Straße stadteinwärts überprüfen
+- TOP 11.2.: Überdachung Bushaltestellen Pasinger Bahnhof Südseite
+- TOP 11.3.: Verlegung und Begrünung des Zaunes an den Bahngleisen westlich des Schloßparkes
+- TOP 12.1.: Anbringung von Erläuterungsschildern, Teil 1; Hermine-von-Parish-Straße
+- TOP 12.2.: Den Perlschneiderhof retten - die Ziele des ISEK endlich durchsetzen
+- TOP 15.2.1.: Spielen in der Stadt: Mobile Kunst-Spiel-Aktionen im Stadtbezirk 2020 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 15.2.2.: Eisenbahnüberführung Paosostraße, Verschiebung des Inbetriebnahmetermins von 2021 auf 2024 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 15.2.3.: Antrag BA 17 Obergiesing-Fasangarten vom 16.07.2020: Beauftragung mehrerer Unternehmen mit der Leerung von Wertstoffcontainern in München (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 15.2.4.: PI 45: Kremser Wiese (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 15.2.5.: TAMTAM Festival Pasinger Marienplatz vom 01.10. - 11.10.20 (Vertagung aus der BA-Sitzung am 18.08.20)
+- TOP 15.2.6.: Regionalmanagement München Südwest: Einladung zum 2. Workshop "Vision 2035+" am 23.09.20
+- TOP 15.2.7.: ADFC-München: Ansprechpartner für den BA 21
+- TOP 16.1.: Nächste BA-Sitzungen: - 06.10.20, 19.00 Uhr, Turnhalle Anne-Frank-Realschule, Bäckerstr. 58 (Zugang nur über Salbauerstraße) - 03.11.20, 19.00 Uhr, Turnhalle Anne-Frank-Realschule, Bäckerstr. 58 (Zugang nur über Salbauerstraße)
