@@ -1,0 +1,61 @@
+# Rat (129. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2020-09-08T18:01:00+02:00
+- Ende: 2020-09-08T19:17:00+02:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZV9vj-Ln_78BGHehwfsZsyo
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16068
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZac35g0yaGQKCuZfkCIUpsiUvsGACOjsRO2NLs4cQ4qz/Bekanntmachung_Rat_08.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRMr83OYMWfvcmQs_Y3LsPEWnRioY67lqynOBJrbQdIE/Oeffentliche_Niederschrift_Rat_08.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 22.06.2020
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Schulangelegenheiten
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Thomas Kock über die Aussetzung der Elternbeitragspflicht für die Schulkinderbetreuung in der Offenen Ganztagsschule sowie in den anderen außerunterrichtlichen Angeboten für die Monate Juni und Juli 2020. - Einstimmig
+- TOP 5.: Resolution gegen das EU-MERCOSUR Freihandelsabkommen (Klima-Bündnis) - Einstimmig
+- TOP 6.: Finanzangelegenheiten
+- TOP 6.1: Beteiligungsbericht 2018 - Zur Kenntnis genommen
+- TOP 6.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2019 - Einstimmig
+- TOP 6.3: Jahresabschluss 2019 - bestätigter Entwurf - Zur Kenntnis genommen
+- TOP 6.4: Verlängerung der Ausübung der Übergangsfrist nach § 27 Abs. 22 a UStG - Einstimmig
+- TOP 6.5: Überplanmäßige Aufwendungen im Rahmen der Förderprogramme "Digitale Sofortausstattung an Schulen für Schüler*innen in NRW" und "Dienstliche Endgeräte für Lehrkräfte an Schulen in NRW" - Einstimmig
+- TOP 6.6: Beantragung von Fördermitteln für die "Erweiterung der Schießsportanlage EMS-HALLE und Sanierung des Umkleidetraktes" im Rahmen des "Investitionspakts zur Förderug von Sportstätten 2020 und 2021" - Einstimmig
+- TOP 6.7: Beantragung von Fördermitteln für die "Finnenbahn" im Rahmen des "Investitionspakts zur Förderung von Sportstätten 2020 und 2021" - Einstimmig
+- TOP 7.: Förderprogramm "Dritte Orte - Häuser für Kultur und Begegnung im ländlichen Raum": Unterstützung der Konzeption Dritte Orte des Sozio-kulturellen Zentrum e.V. (Stroetmanns Fabrik) - Einstimmig
+- TOP 8.: Stadtwerke Emsdetten GmbH
+- TOP 8.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2019 und Gewinnverwendung - Einstimmig
+- TOP 8.2: Übernahme einer Bürgschaft zugunsten der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 9.: Satzungsrecht
+- TOP 9.1: Änderung der Rechnungsprüfungsordnung - Einstimmig
+- TOP 10.: Emsdetten Gutschein: Unterstützung durch die Stadt Emsdetten - Einstimmig
+- TOP 11.: Einrichtung von zwei verkaufsoffenen Sonntagen im Gebiet der Stadt Emsdetten - 44 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 12.: Bildung eines Beirats für Integration und Migration in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 13.: Empfehlung zur Bildung eines Beirats für Menschen mit Behinderung in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 14.: Empfehlung zur Bildung eines Beirats für Seniorinnen und Senioren (Seniorenbeirat) in der Ratsperiode 2020 bis 2025 - Einstimmig
+- TOP 15.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Zur Kenntnis genommen
+- TOP 16.: Durchführung von Ausgleichsmaßnahmen - Einstimmig
+- TOP 17.: Änderung der Satzung über die Benutzung städtischer Unterkünfte hier: Antrag der Fraktion DIE GRÜNEN vom 17.11.2019 - Abgesetzt
+- TOP 18.: Gemeinsamer Antrag der Fraktionen DIE LINKE und die DIE GRÜNEN: Emsdetten soll "Sicherer Hafen" für Menschen in Not sein! - Einstimmig
+- TOP 19.: Entwurfsplanung Neubau Baubetriebshof - 44 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 20.: Gesamtkonzeption Kläranlage Emsdetten-Austum - Zur Kenntnis genommen
+- TOP 21.: Widmung Sternbusch - Einstimmig
+- TOP 22.: Widmung Vennweg (Teilstück Westumer Landstraße bis Lange Water) - Einstimmig
+- TOP 23.: Bebauungspläne
+- TOP 23.1: Bebauungsplan Nr. 36 "Eisengraben", 6. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 23.2: Bebauungsplan Nr. 30 A "Blumenstraße / Eisenbahn", 5. Änderung - Satzungsbeschluss- - Einstimmig
+- TOP 24.: Kulturangelegenheiten
+- TOP 24.1: Neufassung der Richtlinien zur Verleihung des Kulturpreises der Stadt Emsdetten - Einstimmig
+- TOP 25.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 25.1: Erstattung von geleisteten Elternbeiträgen für die Betreuung von Kindern in Einrichtungen und in Kindertagespflege (Elternbeitragssatzung) für die Monate Juni und Juli 2020 in der Stadt Emsdetten - Einstimmig
+- TOP 25.2: Trägerschaft für die 22. Kindertageseinrichtung in Emsdetten - Einstimmig
+- TOP 25.3: Beteiligung der Stadt Emsdetten an dem Förderprojekt ¿kinderstark - NRW schafft Chancen¿ zum Auf- und Ausbau kommunaler Präventionsketten sowie Einrichtung eines kommunalen Familienbüros im Stadtzentrum von Emsdetten - Einstimmig
+- TOP 26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.: Verschiedenes
