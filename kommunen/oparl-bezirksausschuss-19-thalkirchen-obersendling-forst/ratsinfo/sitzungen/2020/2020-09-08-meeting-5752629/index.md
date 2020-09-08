@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-09-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752629
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752629
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 04.08.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Änderung BA-Geschäftsordnung: Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung (Antrag BA 21 - Pasing-Obermenzing)
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget amanda – Projekt für Mädchen* und junge Frauen* Ausbau der Bibliothek ab 01.09.2020 654,48 € / Az. 0262.0-19-0337
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelischer Verein München-Solln e.V. Weiterführung der Hausaufgabenhilfe vom 17.09.2020 - 29.07.2021 8.770,00 € / Az. 0262.0-19-0339
+- TOP 3.4.: (Antrag) Bestellung städtischer Leistung: Baumpflanzung im 19. Stadtbezirk
+- TOP 3.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-19-0340
+- TOP 3.6.: - Nachtrag - (E) Stadtbezirksbudget Theater Galliano Kindertheater „Galliano“ vom 28.09.-11.10.2020 990,00€; Az. 0262.0-19-0343
+- TOP 3.7.: - Nachtrag - (E) Stadtbezirksbudget Ev.-Luth. Passionskirche München Obersendling Thalkirchen Kunstreihe „PassionArte“ vom 25.09.-30.10.2020 930,00€; Az. 0262.0-19-0341
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Wertstoffcontainer Forstenrieder Allee
+- TOP 4.4.: (Antrag) Silvesterfeuerwerk
+- TOP 4.5.: (Antrag) 5G-Ausbau
+- TOP 4.6.: - Nachtrag - Neubau von Mobilfunksendeanlagen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verbesserung der Fußgängersituation im Bereich der Zielstattstraße
+- TOP 5.2.: (Antrag) Sicherheit Radwegkreuzung am Kreuzhof
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Sollner Straße
+- TOP 5.4.: (Antrag) „Entschilderung“ der Liesl-Karlstadt-Straße
+- TOP 5.5.: (A) Beschlussentwurf: Autobahn Südring; Sitzungsvorlage Nr. 20-26 / V 00515
+- TOP 5.6.: (Antrag) Parksituation in der Steinerstraße verbessern
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Beschlussentwurf: Verlagerung des Hauptstandortes der Erziehungsberatungsstelle des Caritasverbandes Königswieser Straße im 19. Stadtbezirk in das Junge Quartier Obersendling; Sitzungsvorlage Nr. 20-26 / V 01245
+- TOP 7.3.: - Nachtrag - (Antrag) Ersatzstandort während der Sanierung des Kath. Kindergarten St. Karl Borromäus
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Wildwassersprint und Classicrennen am 19.09.2020
+- TOP 8.3.: (U) Gaststättenfortführung: Zentralländstraße 30
