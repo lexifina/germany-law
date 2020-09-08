@@ -1,0 +1,59 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-09-08T18:00:00+02:00
+- Ende: 2020-09-08T18:50:00+02:00
+- Ort: Heinz-Gerlach-Halle, Im Goldenen Tal 6, 53902 Bad Münstereifel, Heinz-Gerlach-Halle
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZHPthPZKTRRxHjFSCHFNNM
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20202
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQdjlS-ybTscduKJ1TC5pT-lCb-jhRfVZ9Ri1cUdZ8qG/Bekanntmachung_Rat_08.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcRrMUV7EzHEuIYNzf-piufPEaIZtZOdGAdFyFaayVur/Oeffentliche_Niederschrift_Rat_08.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 25.06.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Antrag gem. § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW) hier: Randstreifen für die Artenvielfalt zurückgewinnen Schreiben des NABU vom 10.06.2020 -         
+- TOP -: Antrag gem. § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW) hier: Randstreifen für die Artenvielfalt zurückgewinnen Schreiben des NABU vom 10.06.2020 - Beschluss mit 24 Ja- und 2 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 5.: Nationale Projekte des Städtebaus 2021 hier: Förderantrag zur Umsetzung von ISEK-Folgemaßnahmen aus A.9 Mobilitätskonzept und A.10 Konzept zur Reduzierung von Barrieren im öffentlichen Raum - Einstimmiger Beschluss:
+- TOP 6.: Entwicklung des Schleidpark-Areals hier: Antrag der Fraktion „Bündnis 90 / Die Grünen“ vom 12.08.2020 -      
+- TOP -: Entwicklung des Schleidpark-Areals hier: Antrag der Fraktion „Bündnis 90 / Die Grünen“ vom 12.08.2020 - Beschluss mit 25 Ja-Stimmen und 1 Nein-Stimme sowie 1 Enthaltung:
+- TOP 7.: Antrag der Fraktion Bündnis 90 / Die Grünen vom 14.08.2020 hier: Stand des Klimaschutzes in Bad Münstereifel - Beschluss mit 25 Ja- und 2 Nein-Stimmen:
+- TOP 8.: Antrag der Fraktion Bündnis 90 Die Grünen vom 14.08.2020 hier: Schutzstatus und Naturschutzmaßnahmen für das Schleidtal - Einstimmiger Beschluss mit 1 Enthaltung: 
+- TOP 9.: Allgemeine Kommunalwahlen 2020: Wiedereinführung der Stichwahlen und Mehrkosten wegen Infektionsschutz; hier: Genehmigung einer überplanmäßigen Ausgabe bei X2121100 529113 - Einstimmiger Beschluss:
+- TOP 10.: Förderprogramm „Feuerwehrhäuser in Dörfern 2021“; hier: Um-/Erweiterungsbau Feuerwehrgerätehaus Hohn -    
+- TOP -: Förderprogramm „Feuerwehrhäuser in Dörfern 2021“; hier: Um-/Erweiterungsbau Feuerwehrgerätehaus Hohn - Einstimmiger Beschluss: 
+- TOP 11.: Vereinsmitgliedschaft im Eifelverein - Beschluss mit 21 Ja- und 5 Nein-Stimmen:
+- TOP 12.: Mitgliedschaft im Kulturhaus Theater 1 - Beschluss mit 22 Ja- und 5 Nein-Stimmen:
+- TOP 13.: Schaffung von EDV-Infrastruktur an den Schulen hier: Sachstand zur Umsetzung Digitalpakt und weitere Verfahrensweise - Einstimmiger Beschluss:
+- TOP 14.: DigitalPakt Schule – „Sofortausstattungsprogramm“ hier: Genehmigung außerplanmäßiger Ausgaben - Einstimmiger Beschluss:
+- TOP -: DigitalPakt Schule – „Sofortausstattungsprogramm“ hier: Auftragsvergabe Leistungsverzeichnis - Einstimmiger Beschluss:
+- TOP 15.: Aktualisierung des Kindertagesstättenkonsens - Einstimmiger Beschluss:
+- TOP 16.: Sportanlage Bad Münstereifel hier: Beteiligung am Investitionspakt zur Förderung von Sportstätten 2020 und 2021 - Einstimmiger Beschluss:
+- TOP -: Sportanlage Bad Münstereifel hier: Beteiligung am Investitionspakt zur Förderung von Sportstätten 2020 und 2021 -   
+- TOP 17.: Bebauungsplan Nr. 5a "Gewerbegebiet - Bad Münstereifel-Kernstadt", 6. Änderung im beschleunigten Verfahren gem. § 13 a BauGB „Bebauungspläne der Innenentwicklung“ hier. Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (=Anlage 1 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 18.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Programmantrag 2021 - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 19.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Schönau, Bereich Friesenbenden (Ergänzungssatzung) gem. § 34 Abs. 4 Satz 1 Nr. 3 BauGB hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (=Anlage 2 der Originalniederschrift) werden alle einstimmig gefasst.
+- TOP 20.: Entlastung für das Wirtschaftsjahr 2018 hier: Entlastung des Betriebsausschusses "Forstbetrieb" durch den Rat - Einstimmiger Beschluss mit 2 Enthaltungen und ohne Mitwirkung der Mitglieder des Betriebsausschusses „Forstbetrieb“:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Dienstanweisung für die Finanzbuchhaltung
+- TOP 21.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i. V. m. § 17 Abs. 2 der Hauptsatzung der Stadt Bad Münstereifel für das 1. Halbjahr 2020
+- TOP 21.3: Haushalt 2020 hier: Bericht zum 31.08.2020 im Rahmen des Finanzcontrollings
+- TOP 21.4: Skulpturenkunst an der "Großen Bleiche"
+- TOP 21.5: Info-Veranstaltung am Wahlabend
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: DigitalPakt Schule – „Sofortausstattungsprogramm“ hier: Auftragsvergabe Bieterliste - Einstimmiger Beschluss:
+- TOP 2.: Verkauf eines städtischen Grundstücks in Bad Münstereifel -     
+- TOP -: Verkauf eines städtischen Grundstücks in Bad Münstereifel -     
+- TOP -: Verkauf eines städtischen Grundstücks in Bad Münstereifel, Willi-Brandt-Straße - Einstimmiger Beschluss:
+- TOP 3.: Grunderwerb in Bad Münstereifel, Kölner Straße -     
+- TOP -: Grunderwerb in Bad Münstereifel, Kölner Straße - Einstimmiger Beschluss:
+- TOP 4.: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Stand der vertraglichen Aktualisierung -    
+- TOP -: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Stand der vertraglichen Aktualisierung - Einstimmiger Beschluss:
+- TOP 5.: Kanalisierung Bebauungsplan Nr. 24 „Houverath-Mühlenberg“„ hier: Auftragsvergabe 3. Bauabschnitt - Einstimmiger Beschluss:
+- TOP 6.: Anfragen und Mitteilungen
