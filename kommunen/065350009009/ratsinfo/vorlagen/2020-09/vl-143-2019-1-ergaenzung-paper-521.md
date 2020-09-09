@@ -1,0 +1,30 @@
+# Antrag der CDU-Fraktion zum Verkauf des Grundstücks der ehemaligen Grundschule Friedrichstraße
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-143/2019 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-09-09
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbnaICS8tNDSt8gSgd_WoBo
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/521
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der CDU-Fraktion zum Verkauf des Grundstücks der ehemaligen Grundschule Friedrichstraße) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTdpoLs1XIBouvvp_2rYLDOhwOnlKllhVMBfAOv6T6x6/Beschlussvorlage_VL-143-2019_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.143a mit Beschluss) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLo2AsfKr-47iFVfH19cn3i4cw8QvHHiksZ8tMgQMnK/Dr-Nr.143a_mit_Beschluss.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.143a-Anlage1) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU1HDrLOX-ssi7wq1KDIw_0fbPSCyLij03LmKj5_wZTD/Dr-Nr.143a-Anlage1.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.143a-Anlage2) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRGlmTg_ydogXx3DK3r7bFF73l7HndVMBrUyr9tLO81/Dr-Nr.143a-Anlage2.pdf
+- Anlage: Beschlussvorlage (Protokoll 12.06.2019 gemeinsame Sitzung HFA und BuUA) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBvqauiA9CPjyWTMFgFY5ZFquG0w1TF5mp6gIZLKnDA/Protokoll_12.06.2019_gemeinsame_Sitzung_HFA_und_BuUA.pdf
+- Anlage: Beschlussvorlage (Protokoll 04.11.2019 gemeinsame Sitzung HFA und BuUA, TOP 4) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUPfSPrOqeIncwmLdBudffPeiQZVh4wgwdmQYeIqsqwD/Protokoll_04.11.2019_gemeinsame_Sitzung_HFA_und_BuUA-_TOP_4.pdf
+- Anlage: Beschlussvorlage (Text Interessenbekundung Friedrichstraße HFA und BuU 04.11.2019, TOP 4) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfD1-Slkjd4glm2YvIxxSFy0--Ci0mWEcBsgXD9t0JMM/Text_Interessenbekundung_Friedrichstrasse_HFA_und_BuU_04.11.2019-_TOP_4.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.143-Anlage 1) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVwDcM367B1YIhhv4bLpP1NJvbCSaalL1zRk9Fw7kHrZ/Dr-Nr.143-Anlage_1.pdf
+- Anlage: Beschlussvorlage (Lenkungsgruppe Friedrichstraße Informationen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRBYdqUwdI16bmrVMejtWYMkwqgI5l8Axp6dPcm2EaGt/Lenkungsgruppe_Friedrichstrasse_Informationen.pdf
+- Anlage: Beschlussvorlage (Bewertungsmatrix Konzept Interessenten) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOYDzFthdSRD8w4JQwjIlVREc4_rsIQs6ftxBaMFS3j/Bewertungsmatrix_Konzept_Interessenten.pdf
+- Anlage: Beschlussvorlage (PPP Ifolki GmbH Leben Arbeiten Wohlfühlen in Homberg) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsha1romGwaJmnk3Nu0Zpf1VLbbuxOJkSegSnUUQVr-/PPP_Ifolki_GmbH_Leben_Arbeiten_Wohlfuehlen_in_Homberg.pdf
+- Anlage: Beschlussvorlage (Vertraulich Ifolki GmbH) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTghDo_09pqedk9pBYnkxT4UyJXcKX8VzfPmwQ7WEKEp/Vertraulich_Ifolki_GmbH.pdf
+- Anlage: Beschlussvorlage (PPP Azimo GmbH Seniorenwohnen Homberg (Ohm)_ASP Architekten) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUTPnrsXGY7wbk-0XezrHtPLBmDS4eVhl-9-6_Y0S3Gd/PPP_Azimo_GmbH_Seniorenwohnen_Homberg_-Ohm-_ASP_Architekten.pdf
+- Anlage: Beschlussvorlage (Vertraulich Azimo Nutzungskonzept) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXl0slkZCx7U15Iq2RTjndI0xDU7YEJKVbw9SPjK7MBS/Vertraulich_Azimo_Nutzungskonzept.pdf
+- Anlage: Beschlussvorlage (Vertraulich Azimo Eigenerklärung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQq-aTMbafQ8kipnJstJv6J9c_-E3F73hsdRb7yE08xE/Vertraulich_Azimo_Eigenerklaerung.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/624 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/688 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/694 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/726 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-31
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/731 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-1
