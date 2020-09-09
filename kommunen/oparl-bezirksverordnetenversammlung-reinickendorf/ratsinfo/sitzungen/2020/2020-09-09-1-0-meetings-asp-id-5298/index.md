@@ -1,0 +1,123 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-09-09T17:00:00+02:00
+- Ende: 2020-09-09T21:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5298
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5298
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Modalfilter im Waldseeviertel - beantwortet
+- TOP 2.2: Baugenehmigungen Flurstück 603 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 44. Sitzung der BVV am 09.09.2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Schulneubau in Reinickendorf-Ost - beantwortet
+- TOP 4.2: Investitionspakt zur Förderung von Sportstätten - beantwortet
+- TOP 4.3: Straftaten auf dem Hannah-Höch Campus - beantwortet
+- TOP 4.4: Autofreier Tag in Reinickendorf - beantwortet
+- TOP 4.5: Schulraumbelüftung - beantwortet
+- TOP 4.6: Beteiligung der Seniorenvertretung - beantwortet
+- TOP 4.7: Ersatzplanzungen auf dem KaBoN-Gelände - beantwortet
+- TOP 4.8: Bauvorhaben Tetra-Pak-Gelände - beantwortet
+- TOP 4.9: Umsetzung von Grillflächen - beantwortet
+- TOP 4.10: Vergabebericht für Reinickendorf - beantwortet
+- TOP 4.11: Bezirkliche Anbindung der Heidekrautbahn - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Temporären Pop-up-Radweg auf einem Teilstück des Oraniendamms einrichten! (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.2: Temporären Pop-up-Radweg auf einem Teilstück des Hermsdorfer Damms einrichten! (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.3: Temporäre Radfahrstreifen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.4: Querung Bernauer Str. (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Coronabedingte Gefahren für den Bezirkshaushalt in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 5.6: (Sommer)schule in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 5.7: Wohnungsbau in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 5.8: "Klimaschutz in Reinickendorf - aktives Handeln des Bezirks" (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.9: Radverkehrsanlagen Heiligenseestraße (Beschlussempfehlung) - vertagt
+- TOP 5.10: Züge verlängern, Mitnahme von Fahrrädern verbessern. (Beschlussempfehlung) - vertagt
+- TOP 5.11: Kein offener Vollzug für Sicherungsverwahrte in Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 5.12: Effizienter Umgang mit illegalen Müllablagen (Beschlussempfehlung) - vertagt
+- TOP 5.13: Erstellung eines Tourismuskonzepts für den Bezirk Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 5.14: Stärkere Vermarktung des Tourismuspotentials in Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Wildunfälle vermeiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Zusätzliche Fahrradständer in Reinickendorf-Ost - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Parken für LKW auf der Hermsdorfer Straße einschränken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Verkehrsinfarkt verhindern 2 - Gemeinsame Initiativen entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Busknoten am U-Bahnhof Alt-Tegel barrierefrei umbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Verkehrssicherheit auf Rad- und Fußwegen herstellen - überwiesen
+- TOP 7.7: Tierschutzrechtliche Verstöße auf der Terraristikbörse unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Sitzmöbel Piazza Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Wochenmärkte mit regionalen Anbietern in Reinickendorf - überwiesen
+- TOP 7.10: Bauliche Fahrplanänderungen bei der S-Bahn wieder sehbehindertengerechter auf den Bahnhöfen aushängen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Entschärfung der Gefahrenstelle Holzhauser Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Reinickendorf unter Waffen? - vertagt
+- TOP 8.2: Vergabe des Pachtvertrages an die Strandbad Tegel gGmbH - vertagt
+- TOP 8.3: Sicherheit tut not! Schutzmaßnahmen seit März 2020 gegen die Pandemie überprüfen - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Einrichtung einer Informationsplattform über geplante Baumfällungen in Reinickendorf - in der BVV abgelehnt
+- TOP 10.2: Strandbad Tegel - Finanzspritze vom Land Berlin - erledigt
+- TOP 10.3: Beflaggung vor Schulen - in der BVV abgelehnt
+- TOP 10.4: Pfützenbildung am Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Solardächer auf Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Straßenbaumpflegegeld auf 85 € erhöhen - erledigt
+- TOP 10.7: Nachpflanzung von Straßenbäumen am Sportplatz Borsigwalde in der Tietzstraße - erledigt
+- TOP 10.8: Stellplätze für Lastenfahrräder in Reinickendorf vorsehen - vertagt
+- TOP 10.9: Zukunft denken, Ladeinfrastruktur schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Atrium der Ringelnatz-Grundschule nach Baumaßnahme wiederherstellen - erledigt
+- TOP 10.11: Dienstlastenfahrrad für Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Schulgarten der Ringelnatz-Grundschule - erledigt
+- TOP 10.13: Sondermittelantrag an die BVV für das Jahr 2020 - TU Berlin, FB Arbeit/Technik/Partizipation - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Outlaw gGmbH, Kita Alt Wittenau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Sondermittelantrag an die BVV für das Jahr 2020 - Soziales Unikat Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Kostenfreie Unterlagen zur Ausübung der Kontrollfunktion durch die BVV - erledigt
+- TOP 10.17: Keine Einsparungen in den knappen Bezirkshaushalten, unnötige Verschuldung zulasten kommender Generationen vermeiden - in der BVV abgelehnt
+- TOP 10.18: Pandemieresilientes Flanieren in Alt-Tegel an Wochenenden im Sommer - in der BVV abgelehnt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Aufstellung größerer Abfallbehälter in Frohnau am Ludolfinger Platz - überwiesen
+- TOP 12.2: Sondergenehmigungen für Heizpilze in Reinickendorf - vertagt
+- TOP 12.3: Beratungsangebote für Frauen - überwiesen
+- TOP 12.4: Verkehrszählgeräte - überwiesen
+- TOP 12.5: Barrierefreie Brücke zwischen dem Steinbergpark und der Kleingartenkolonie Steinberg - überwiesen
+- TOP 12.6: Verbesserung des BVV-Livestreams - überwiesen
+- TOP 12.7: Kolonie Neuland 1 - Kein Wildparken mehr! - überwiesen
+- TOP 12.8: Kiezfond 2021 und folgende - überwiesen
+- TOP 12.9: Mobilitätshubs in Reinickendorf 2 - überwiesen
+- TOP 12.10: Bänke am Tegeler See - überwiesen
+- TOP 12.11: "Reinickendorfer Solarkonferenz" - überwiesen
+- TOP 12.12: Kurt-Schumacher-Denkmal pflegen - überwiesen
+- TOP 12.13: Anwohnerparkzone am Flughafensee einrichten - überwiesen
+- TOP 12.14: Schüler*innen für Fake-News sensibilisieren - überwiesen
+- TOP 12.15: Verkehrssicherheit erhöhen! - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Rufbus auch in Reinickendorf - überwiesen
+- TOP 13.2: Strandbad Tegel barrierefrei und behindertengerecht gestalten - überwiesen
+- TOP 13.3: Fahrradverbindung Reinickendorf - Charlottenburg - überwiesen
+- TOP 13.4: Reiswerderstrand I - überwiesen
+- TOP 13.5: Mehr Verkehrssicherheit an der Kreuzung Lindauer Allee/Roedernallee - überwiesen
+- TOP 13.6: Kostenfreies Patienten-WLAN im Humboldt-Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Mobilitätshubs in Reinickendorf - überwiesen
+- TOP 13.8: Reiswerderstrand II - überwiesen
+- TOP 13.9: Verbesserung der Rampen am Ausgang - Nordtunnel - S-Bahnhof Hermsdorf - Bahnhofplatz - überwiesen
+- TOP 13.10: Mehr Busspuren für Reinickendorf! - Weitere Busspuren im Zusammenhang mit der Ausweitung des 10-Minuten-Grundnetzes nach Nahverkehrsplan prüfen - überwiesen
+- TOP 13.11: Ordnungsamt stärken - überwiesen
+- TOP 13.12: Ladestationen für Elektroautos im Märkischen Viertel - überwiesen
+- TOP 13.13: Band der Geschichte auf dem Gelände der UTR - überwiesen
+- TOP 13.14: Optimierung der Stangen am Ausgang - Südtunnel - S-Bahn Hermsdorf - Glienicker Straße - überwiesen
+- TOP 13.15: Informationen über Hygienevorgaben des Landes Berlin - überwiesen
+- TOP 13.16: Parkläufer an der Greenwichpromenade - überwiesen
+- TOP 13.17: Konzept gegen Vandalismus, Ruhestörung und kriminelle Aktivitäten im Bereich der Greenwichpromenade - überwiesen
