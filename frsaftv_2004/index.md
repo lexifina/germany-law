@@ -1,4 +1,4 @@
-# Verordnung über Fruchtsaft, einige ähnliche Erzeugnisse, Fruchtnektar und koffeinhaltige Erfrischungsgetränke
+# Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Saüglinge und Kleinkinder
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -21,7 +21,6 @@
 
 - [§ 7 Begriffsbestimmungen](0007.md)
 - [§ 8 Besondere Anforderungen an Herstellung und Inverkehrbringen](0008.md)
-- [Schlussformel](schlussformel.md)
 - [§ 9 Kennzeichnung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder](0009.md)
 
 ## Abschnitt 5 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
@@ -30,6 +29,7 @@
 - [§ 11 Straftaten und Ordnungswidrigkeiten](0011.md)
 - [§ 12 Übergangsregelung für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder](0012.md)
 - [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)](anlage-1.md)
 - [Anlage 2 (zu § 2 Abs. 1)](anlage-2.md)
 - [Anlage 3 (zu § 2 Absatz 2)](anlage-3.md)
