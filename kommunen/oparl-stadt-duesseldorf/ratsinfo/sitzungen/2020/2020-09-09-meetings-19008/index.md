@@ -1,0 +1,86 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-09T17:00:00+02:00
+- Ende: 2020-09-09T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19008
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19008
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386261.pdf
+- Ergebnisprotokoll: Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386261.pdf
+- Wortprotokoll: Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386261.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP -: Genehmigung der Niederschriften
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 18. Februar 2020 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 20. Mai 2020 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 24. Juni 2020 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Bebauungsplan-Entwurf Nr. 06/004 (eh. Nr. 5781/038) - Nördlich Westfalenstraße (Nordteil) - Stellungnahmen, Satzung - Empfehlung einstimmig beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 195 (Entwurf) - Nördlich und südlich Theodorstraße - Empfehlung mehrheitlich abgelehnt
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen aus vorherigen Sitzungen (wurden bereits übersandt)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspiel in Mörsenbroich - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Neue Anfragen
+- TOP 17: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen" - vertagt
+- TOP 18: Interfraktionelle Anfrage: Anfrage zur Flüchtlingsunterkunft Lichtenbroicher Weg 92 - vertagt
+- TOP 19: Anfrage der CDU-Fraktion: Baumaßnahmen auf der Eitelstraße/Auf der Reide - vertagt
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Anfrage der SPD-Fraktion: Umzugstermin der Jugendfreizeitstätte "Blue Rock" - vertagt
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 24: Interfraktioneller Antrag: Digitale Teilhabe von Schülerinnen und Schülern - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Neugestaltung der Öffentlichen Grünflächen am Standort A 44 - einstimmig beschlossen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Antrag der SPD-Fraktion: Bau eines barrierefreien Zugangs vom Wohngebiet Mintarder Weg zur Hamborner Straße und bessere Beleuchtung der Treppe - abweichend beschlossen
+- TOP 29: Antrag der SPD-Fraktion: Einrichtung einer Querungshilfe auf dem Volkardeyer Weg in Höhe Sermer Weg / Krahnenburgstraße - abweichend beschlossen
+- TOP 30: Antrag der SPD-Fraktion: Hol- und Bringzone Breisacher Straße - abweichend beschlossen
+- TOP 31: Antrag der SPD-Fraktion: Pollersetzung (herausnehmbar) An der Golzheimer Heide zwischen Rheinlandstraße und Krönerweg - zurückgezogen
+- TOP 32: Antrag der CDU-Fraktion: Piktogramme (30 km/h) Auf der Reide - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 33: Bauunterhaltungsmittel Teil A Schulen - Umgestaltung von Grundstücken und baulichen Anlagen - abweichend beschlossen
+- TOP 34: Bauunterhaltungsmittel 2020 - Aufstellung eines Weihnachtsbaumes inkl. Beleuchtung auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 35: Bauunterhaltungsmittel 2020 Teil B "sonstige Gebäude" - Kinderspielplatz An der Golzheimer Heide - einstimmig beschlossen
+- TOP 36: Bauunterhaltungsmittel 2020 Teil B "sonstige Gebäude" - Thewissenweg - einstimmig beschlossen
+- TOP 37: Bauunterhaltungsmittel 2020 Teil B "sonstige Gebäude" - Wochenmarkt Lichtenbroich - einstimmig beschlossen
+- TOP 38: Förderung Dritter 2020 - Bürger-Schützenverein 1925 e.V. Düsseldorf-Rath - einstimmig beschlossen
+- TOP 39: Bauunterhaltungsmittel 2020 Teil B "sonstige Gebäude" - Dirtpark - einstimmig beschlossen
+- TOP 40: Zuschussvergabe 2020 Antrag des Bürger- und Schützenvereins Rath "Beschaffung und Aufstellung eines Containers" - einstimmig beschlossen
+- TOP 41: Zuschussvergabe 2020 - Weihnachtsbäume Unterrath - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 42: Soziale Stadt Rath/Mörsenbroich und Wersten/Holthausen - Abschlussbericht - zur Kenntnis genommen
+- TOP 43: "Digitalisierung Bildung" an den Schulen im Stadtbezirk 6 - Vorlage BV6/085/2019 - zur Kenntnis genommen
+- TOP 44: Haltverbot durch Schraffierung Rheinlandstraße Einmündung Kalkumer - Vorlage BV6/016/2020 - zur Kenntnis genommen
+- TOP 45: Platz für Jugendliche in Unterrath schaffen - Vorlage JURAT/002/2019 - zur Kenntnis genommen
+- TOP 46: Installation von großen ÖPNV Anzeigetafeln an den Haltestellen Unterrath S und Flughafen Fernbahnhof - Vorlage BV6/090/2019 - zur Kenntnis genommen
+- TOP 47: Baumfällungen aus Verkehrssicherungsgründen im Sommer 2020 - zur Kenntnis genommen
+- TOP 48: Fußgängerüberweg Eckenerstraße zur Kehler Straße hin - Vorlage 176/205/2018 - zur Kenntnis genommen
+- TOP 49: Gestaltung von Rasenflächen durch Bürgerinnen und Bürger - Vorlage 176/134/2019 - zur Kenntnis genommen
+- TOP 50: keine Bereitstellung von Haushaltsmitteln für den Umzug des Jungen Schauspiel - Vorlage BV6/040/2019 - zur Kenntnis genommen
+- TOP 51: Beschädigte und verschmutzte Beleuchtung im Park über der A44 zwischen Beginn Sperlingsweg über Kalkumer Straße bis zum Kartäuserpark - zur Kenntnis genommen
+- TOP 52: Realisierung der Baupläne Schaffrath an der Theodorstraße - Vorlage BV6/091/2019 - zur Kenntnis genommen
+- TOP 53: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 57: Zwischennutzung des Grundstücks an der Theodorstraße als Parkplatz - Vorlage BV6/096/2019 - zur Kenntnis genommen
+- TOP 58: Zuschussvergabe 2020 - Weihnachtsbaum Mörsenbroich - einstimmig beschlossen
+- TOP 59: "Haus der Kulturen" am Standort des Jungen Schauspielhauses in Mörsenbroich - Vorlage BV6/039/2019 - zur Kenntnis genommen
+- TOP 60: Zuschussvergabe 2020 Antrag der Gemeinschaftsgrundschule Max-Halbe-Straße - St. Martin Advents- und Weihnachtsfeier - einstimmig beschlossen
+- TOP 61: Zuschussvergabe 2020 Antrag Pinocchio e.V. - Renovierung Tonstudio - einstimmig beschlossen
+- TOP 62: Zuschussvergabe 2020 Antrag des Fest- und Fördervereins "Leetebrok" e.V. - einstimmig beschlossen
+- TOP 63: Zuschussvergabe 2020 Antrag Bürgerverein Rath - St.-Martins-Frühstück in den Kindergärten und Grundschulen - einstimmig beschlossen
+- TOP 64: Parkplatznutzung auf dem Vogelsanger Weg - Vorlage BV6/098/2020 - zur Kenntnis genommen
+- TOP 65: Zuschussvergabe 2020 Antrag der Gemeinschaftsgrundschule Max-Halbe-Straße - Anschaffung Pausenspielzeug - einstimmig beschlossen
