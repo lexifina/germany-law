@@ -1,0 +1,22 @@
+# Anfragen
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-214/2020 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-09-09
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZZV9Wv2V3Z-o2nRi8bfzcg
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/542
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Anfragen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZqaQnQCqKe8PwVFMUoiig94SVDdfKpHMpD-S7fi4Ucg/Beschlussvorlage_VL-214-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antwort Beförsterung und Holzvermarktung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeWGAOmJeomCZgZXyXhfrl1rZ2CTHGHz5cPNSI1Ndjh_/Antwort_Befoersterung_und_Holzvermarktung.pdf
+- Anlage: Beschlussvorlage (Antwort- Bericht aus der Arbeit des Magistrats) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWfIi6uOMNrEBL_f0F5Uq4lyi4nGLxEmS-jMGNCJ6XEI/Antwort-_Bericht_aus_der_Arbeit_des_Magistrats.pdf
+- Anlage: Beschlussvorlage (Antwort Bestandsanalyse ambulante medizinische Versorgungssituation) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTQdeYyHbrkaNEPDs9_5gwhlaVpEPcbS4kUsubrYJne3/Antwort_Bestandsanalyse_ambulante_medizinische_Versorgungssituation.pdf
+- Anlage: Beschlussvorlage (Antwort Förderrichtlinie zur Neuauflage und Erhaltung von Streuobstwiesen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcxtOvJkMhiezGohBjgyyFubyalbZ-l-OZ4SwvWV28cX/Antwort_Foerderrichtlinie_zur_Neuauflage_und_Erhaltung_von_Streuobstwiesen.pdf
+- Anlage: Beschlussvorlage (Antwort Klärschlammentsorgung nach der Klärschlammverordnung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWvDqKv924xz6qw972wFCWEiVkvewDU1IMsUJEOxHJcB/Antwort_Klaerschlammentsorgung_nach_der_Klaerschlammverordnung.pdf
+- Anlage: Beschlussvorlage (Antwort Kommunales MVZ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdr80CAq4a-YHgUZcXCDR50FLLS8Ib3gXpAB5gzsvA7B/Antwort_Kommunales_MVZ.pdf
+- Anlage: Beschlussvorlage (Antwort künftige Rettungswache) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeAXWGtPMPuet6bj2TvEcqw2IlBXP5aQgQpo9JGzqdQC/Antwort_kuenftige_Rettungswache.pdf
+- Anlage: Beschlussvorlage (Antwort Machbarkeit betreffend der Ohmtalbahn) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpCwvEkRhSApsNaCSEqMWcIhSrKKPGBLRl3qVqZ1GMF/Antwort_Machbarkeit_betreffend_der_Ohmtalbahn.pdf
+- Anlage: Beschlussvorlage (Antwort Sondierungsauftrag städtebaulicher Denkmalschutz) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRgtNI_9W1LxYSsPqGxsq01EHZYCHfiSAXq6RWM0u3BX/Antwort_Sondierungsauftrag_staedtebaulicher_Denkmalschutz.pdf
+- Anlage: Beschlussvorlage (Antwort Baulücken- und Leerstandskataster) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ08rQug9VpiTLL5AaJPR-HYczWK22W1PvkNcnAatAQh/Antwort_Bauluecken-_und_Leerstandskataster.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/709 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/731 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
