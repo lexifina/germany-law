@@ -1,0 +1,8 @@
+# TOP 6: Bibliotheksentwicklungsplan 2020 - 2025
+
+- Sitzung: 13. Sitzung des Ortschaftsrates Schönborn (2020-09-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/133337
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/40923
