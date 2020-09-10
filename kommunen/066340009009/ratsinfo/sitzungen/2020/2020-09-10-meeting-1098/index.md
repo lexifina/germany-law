@@ -1,0 +1,74 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (35. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2020-09-10T19:06:00+02:00
+- Ende: 2020-09-10T22:15:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZTJ1_NZDQtRVULJfYAT8vbM
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1098
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSXLOOPHUBT9HDWJk_u5kBI55WoueGRzPJT8dHCIf2n0/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_10.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbGnpQX6wCSj7VkZ3NihkudKvHasvM1UUqMc0lQqRAg_/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_10.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Bodenbevorratungsverfahren Industriegebiet Homberg Süd – ehemalige Kasernen- hier: Sachstandsbericht des Hessischen Landgesellschaft
+- TOP 2.: Umbau des ehemaligen Amtsgerichtes zum Ärztehaus hier: a) Sachstandsbericht zum Kostenstand I. und II. Bauabschnitt und zum Projektstand b) Sachstandsbericht zum III. Bauabschnitt c) Sachstandsbericht zur aktuellen Vermietungssituation
+- TOP 3.: Antrag auf Aufnahme in das Hessische Dorfentwicklungsprogramm 2020 als gesamtkommunaler Förderschwerpunkt a) Information über die Aufnahme der Stadt Homberg als gesamtkommunaler Förderschwerpunkt 2020 bis 2027 b) Bildung einer Steuerungsgruppe für die Erstellung und Umsetzung des Integrierten Kommunalen Entwicklungskonzepts (IKEK) c) Veranschlagung von Haushaltsmitteln zur Finanzierung der Aufwendungen für das IKEK im Haushaltjahr 2021 d) Einrichtung einer „Projektstelle Dorfentwicklung“ im Stellenplan 2021 - (kein Text vorhanden)
+- TOP 4.: Aufstellung einer Einbeziehungssatzung nach § 34 Abs. 4 Baugesetzbuch (BauGB) für den Stadtteil Roppershain im Bereich Jahnstraße und Dorfkrug hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 5.: Aufstellung einer Änderung Nr. 21 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) für den Stadtteil Roppershain zur Ausweisung von Gemischten Bauflächen im Bereich der Lembacher Straße im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 6.: Aufstellung einer Änderung Nr. 1 zum Bebauungsplan Nr. 3 der Kreisstadt Homberg (Efze) für den Stadtteil Roppershain zur Ausweisung eines Dorfgebietes im Bereich der Lembacher Straße im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 7.: Aufstellung einer Änderung Nr. 22 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) für den Stadtteil Wernswig zur Ausweisung einer Wohnbaufläche (W) im Bereich „Die Rodenäcker“ im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 8.: Aufstellung einer Änderung Nr. 2 zum Bebauungsplan Nr. 5 der Kreisstadt Homberg (Efze) für den Stadtteil Wernswig zur Ausweisung eines Allgemeines Wohngebietes (WA) im Bereich „Die Rodenäcker“ im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 9.: Teilaufhebung für den Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf hier: Abwägung über die während der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 (2) BauGB sowie der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 10.: Verkauf eines Grundstückes im Bereich der Dörnbergkaserne; hier: Genehmigung des Kaufvertrages - (kein Text vorhanden)
+- TOP 11.: Straßenbau Hersfelder Straße hier: Endgültige Ausbauvariante für den Förderantrag - (kein Text vorhanden)
+- TOP 12.: Netzverstärkung Borken Mecklar durch Tennet TSO GmbH
+- TOP 13.: Umwidmung von Mitteln für die Beschaffung von zwei Bürocontainern für die Feuerwehr Roppershain - (kein Text vorhanden)
+- TOP 14.: Neukonzeption Stützpunktfeuerwehr und Feuerwehrhaus Holzhausen hier: Beratung und Beschlussfassung zum weiteren Vorgehen
+- TOP 14.1: Neukonzeption Stützpunktfeuerwehr und Feuerwehrhaus Holzhausen hier: Beratung und Beschlussfassung zum weiteren Vorgehen - (kein Text vorhanden)
+- TOP 15.: Angebot über den Kauf des ehemaligen Klinikareals an der Melsunger Straße – Ausgangslage und nächste Schritte - (kein Text vorhanden)
+- TOP 16.: Antrag der SPD-Fraktion vom 25. Nov. 2018 (eing. 18. Dez. 2018) betr. Wahlwerbesatzung
+- TOP 16.1: Antrag der SPD-Fraktion vom 25. Nov. 2018 (eing. 18. Dez. 2018) betr. Wahlwerbesatzung - (kein Text vorhanden)
+- TOP 17.: Entwidmung alter Friedhof Dickershausen - (kein Text vorhanden)
+- TOP 18.: Erlass der Benutzungsgebühren für die Kindertagesstätten für den Monat Juni 2020 - (kein Text vorhanden)
+- TOP 19.: Sachstandsberichte und sonstige Informationen
+- TOP 19.1: Investitionsdarlehen 2019 (3.820.000 €)
+- TOP 19.2: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 19.2.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 19.2.2: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 19.2.3: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 19.2.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 19.2.5: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 19.2.6: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 19.2.7: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 19.2.8: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 19.2.9: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 19.2.10: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 19.2.11: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 19.2.12: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 19.2.13: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 19.2.14: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 19.2.15: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 19.2.16: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 19.2.17: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22.05.2019 betr. Efzewiesen - Naherholungsgebiet aufwerten
+- TOP 19.2.18: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22. Mai 2019 betr. Keine Wildtiere im Zirkus - tierfreundliche Gemeinde Homberg
+- TOP 19.2.19: Antrag der SPD-Fraktion vom 30.11.2019 betr. Blühflächen in Homberg (Efze)
+- TOP 19.2.20: Antrag der FWG-Fraktion vom 17.06.2020 betr. Aufhebung der Einbahnstraßenregelung im Bereich der unteren Ludwig-Mohr-Straße
+- TOP 20.: Anträge
+- TOP 20.1: Antrag der SPD-Fraktion vom 23.07.2020 betr. Feuerwehrstandorte Homberg und Holzhausen
+- TOP 20.2: Antrag der SPD-Fraktion vom 23.07.2020 betr. Homberger Krankenhaus
+- TOP 20.3: Antrag der FWG-Fraktion vom 14.08.2020 betr. Homberg Arena für die Zukunft bewahren - (kein Text vorhanden)
+- TOP 20.4: Antrag der FDP-Fraktion vom 15.08.2020 betr. Veränderte Einnahmen aufgrund der Corona-Krise - (kein Text vorhanden)
+- TOP 20.5: Antrag der BL Homberg vom 26.08.2020 betr. Verbesserung der Verkehrssicherheit an diversen Fußgängerkreuzungspunkten in Homberg - (kein Text vorhanden)
+- TOP 20.6: Antrag der CDU-Fraktion vom 27.08.2020 betr. Beschilderung Radwege - (kein Text vorhanden)
+- TOP 20.7: Antrag der FWG-Fraktion vom 26.08.2020 betr. Krankenhausgelände - Bezahlbaren Wohnraum schaffen
+- TOP 20.8: Antrag der FDP-Fraktion vom 15.08.2020 betr. Barrierefreiheit für Rollstuhlfahrer und Rollator Benutzer in Homberg - (kein Text vorhanden)
+- TOP 21.: Anfragen
+- TOP 21.1: Anfrage der SPD-Fraktion vom 01.07.2020 betr. Baumbestand (Stadtwald)
+- TOP 21.2: Anfrage der CDU-Fraktion vom 27.08.2020 betr. Bürgerbüro der Kreisstadt Homberg (Efze)
+- TOP 22.: Anregungen
+- TOP 23.: Einführung und Verpflichtung eines neuen ehrenamtlichen Mitglieds des Magistrats gem. § 46 Abs. 1 HGO und § 47 HBG - (kein Text vorhanden)
