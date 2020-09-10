@@ -1,0 +1,53 @@
+# 45. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-09-10T18:00:00+02:00
+- Ende: 2020-09-10T20:35:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5958
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5958
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - (offen)
+- TOP 4: Überweisungen aus der BVV - (offen)
+- TOP 4.1: Recht auf Home Office im Bezirksamt - vertagt
+- TOP 4.2: Schulwegsicherheit an der Müggelheimer Grundschule erhöhen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.3: Waldweg zwischen S-Bahnhof Hirschgarten und dem Waldburgweg fahrradfreundlich ertüchtigen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Gleislinse nicht zur Müllhalde verkommen lassen - im Ausschuss abgelehnt
+- TOP 4.5: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 4.6: Eine Sitzbank in der Dörpfeldstraße von Gebühren für die Nutzung des öffentlichen Straßenlands befreien - vertagt
+- TOP 4.7: Unfallgefahren am Bohnsdorfer Kreisel minimieren - vertagt
+- TOP 4.8: Tempo 30 für die Bölschestraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Überschwemmung der Lindenstraße in Bohnsdorf bei Starkregen verhindern - mit Änderungen im Ausschuss beschlossen
+- TOP 4.10: Schaffung von Parkplätzen in der Semmelweisstraße durch die Anordnung von Querparken - im Ausschuss abgelehnt
+- TOP 4.11: Trotz Bauphase Zwei-Richtungs-Verkehr am Bahnhof Schöneweide ermöglichen - vertagt
+- TOP 4.12: Radverkehrsanlage auf der Godbersenstraße in Schmöckwitz errichten - vertagt
+- TOP 4.13: Kampf den "Kampfradlern" - im Ausschuss abgelehnt
+- TOP 4.14: Spielstraße bei der Kleingartenanlage Lakegrund - erledigt
+- TOP 4.15: Linksabbiegen in die Bahnhofstraße wieder aus zwei Spuren ermöglichen - vertagt
+- TOP 4.16: Radfahrfreundliches Pflaster statt Asphalt für die Straße Am Goldmannpark - vertagt
+- TOP 4.17: Mehr Parkplätze in Alt-Treptow durch Querparken in der Bouchéstraße prüfen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.18: Pilotprojekt: Separate Ampelphasen für Rad- und Fußverkehr am Köllnischen Platz - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Ladezonen in der Seelenbinderstraße einrichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.20: Mehr Sicherheit für Radfahrer in der Regattastraße - vertagt
+- TOP 4.21: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - vertagt
+- TOP 4.22: Bölschestraße sicher queren - vertagt
+- TOP 4.23: Einbahnstraße Josef-Nawrocki-Straße für den Fahrradverkehr in Gegenrichtung öffnen - vertagt
+- TOP 4.24: Radweg auf der Wilhelm-Spindler-Brücke durchgängig farbig markieren - vertagt
+- TOP 4.25: Parken für Anwohner von Friedrichshagen an den gewohnten Stellen - vertagt
+- TOP 4.26: Für Leben im toten Winkel – Trixi-Spiegel gegen Abbiegeunfälle - vertagt
+- TOP 4.27: Sicherheit der Fußgänger bei der Fahrbahnquerung zu jeder Zeit gewährleisten - vertagt
+- TOP 4.28: Schöner Fahrradparken - vertagt
+- TOP 4.29: Bürgerhaus Altglienicke sichtbar machen - vertagt
+- TOP 4.30: Neubau einer Brücke über die Dahme - vertagt
+- TOP 4.31: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 4.32: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 4.33: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 4.34: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - vertagt
+- TOP 5: Verschiedenes - (offen)
