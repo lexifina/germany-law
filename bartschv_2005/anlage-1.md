@@ -288,7 +288,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Hypoxystis pluviaria | Blassgelber Besenginsterspanner | + | + |
 | Idaea contiguaria | Fetthennen-Felsflur-Kleinspanner | + | + |
 | Iphiclides podalirius | Segelfalter | + |  |
-| Jordanita chloros | Kupferglanz-Grünwidderchen | + |  |
+| Jordanita chloros | Kupferglanz-Grünwidderchen | + | + |
 | Jordanita spp. | Grünwidderchen | + |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |
 | Lamellocossus terebra | Zitterpappel-Holzbohrer | + | + |

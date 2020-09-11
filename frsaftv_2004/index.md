@@ -1,4 +1,4 @@
-# Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Saüglinge und Kleinkinder
+# Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder
 
 - [Eingangsformel](eingangsformel.md)
 
