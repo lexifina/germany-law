@@ -1,0 +1,1 @@
+# Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen und Fortbildungsprüfungsregelungen durch den Senator für Finanzen als zuständige Stelle im Bereich des öffentlichen Dienstes nach § 73 Absatz 2 des Berufsbildungsgesetzes und im Bereich der Haus
