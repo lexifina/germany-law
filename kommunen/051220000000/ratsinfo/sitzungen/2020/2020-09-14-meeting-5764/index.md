@@ -1,0 +1,57 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (46. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-14T17:00:00+02:00
+- Ende: 2020-09-14T18:50:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYa1I5ayZ7UwDANvIdnmwaE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5764
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeJQRvQYKQCCZnsXvFPK0W5UvVbomXAuLqR5w60s_SRx/Bekanntmachung_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_14.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa-pC_C1GyQzh1dsYUKqG3-GUaaw6hD9jIqFMeEBlpd3/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_14.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Verkehrsberuhigung Laibacher Straße
+- TOP 1.2: Parkraumsituation am alten Schlachthof in Ohligs
+- TOP 1.3: E-Bikeladestation am Standort Bonner Straße
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 25.05.2020
+- TOP 4.: Protokoll über die 45. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 25.05.2020
+- TOP 5.: Genehmigung der Beschlüsse der als Videokonferenz geführten letzten Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 25.05.2020 - Einrichtung eines Schülerspezialverkehrs an der Grundschule Uhlandstraße - Antrag zur Fällung eines Baumes am Mildred-Scheel-Berufskolleg - Wiederwahl einer Schiedsperson - Arbeitsprogramm Bauleitplanung - Verstärkte Nachpflanzungen von zu fällenden Straßenbäumen aufgrund des Klimawandels - Freie Budgetmittel
+- TOP 6.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 7.: Ergänzungen zum Fahrbahndeckenprogramm Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 25.08.2020
+- TOP 8.: Toilettenanlage Engelsberger Hof Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 25.08.2020
+- TOP 9.: Parkplatzsituation Josefstal/Höher Heide - mündlicher Bericht -
+- TOP 10.: Parkplatzsituation Heiligenstock/Rennpatt - mündlicher Bericht -
+- TOP 11.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise
+- TOP 12.: Freie Budgetmittel
+- TOP 12.1: Freie Budgetmittel
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen der Verwaltung
+- TOP 13.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Ohligs/Aufderhöhe/Merscheid
+- TOP 13.1.2: Neubau einer Zuwegung zur Grünanlage Stiehlsteich am Caspersbroicher Weg
+- TOP 13.1.3: Sachstand Kreisverkehr Bonner Straße
+- TOP 13.2: Anfragen an die Verwaltung
+- TOP 13.2.1: Verkehrsspiegel an der Gesundheitsstraße
+- TOP 13.2.2: Verkehrssituation Keusenhof
+- TOP 13.2.3: Verkehrssituation Steingarten/Höhscheider Weg
+- TOP 13.2.4: Pikotgramme auf der Keldersstraße
+- TOP 13.2.5: Verkehrssituation Buchenstraße/Merscheider Straße
+- TOP 13.2.6: Verschmutzung auf dem Spielplatz Planetenweg
+- TOP 13.2.7: Volkstrauertag 2020
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 25.05.2020
+- TOP 4.: Protokoll über die 45. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 25.05.2020
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.1.1: Verkauf einer städtischen Liegenschaft - Bereich: Herzogstraße -
+- TOP 5.1.2: Bauleitplanung ehemaliges Freibad Höher Heide hier: Information über eine Normenkontrollklage zum vorhabenbezogenen Bebauungsplan (zugleich Vorhaben- und Erschließungsplan) H 671
+- TOP 5.2: Anfragen an die Verwaltung
