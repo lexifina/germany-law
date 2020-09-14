@@ -1,0 +1,84 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5742488
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5742488
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Gehwegsicherung auf Höhe Anwesen Pelkovenstr. 35
+- TOP 2.2.: Schaffung eines barrierefreien Übergangs am Fuß- und Radweg an der Baustelle Dachauer Str. 433
+- TOP 2.3.: Aufwertung des Spielplatzes am Claudiusplatz und Nutzungseinschränkungen der Wiese im Park
+- TOP 2.4.: Gefahr für Fußgänger auf dem gemeinsamen Geh- und Radweg Höhe Dachauer Str. 275
+- TOP 2.5.: Unhaltbare Zustände auf dem Wohnwagenstandplatz für Durchreisende Am Neubruch 33 (Anträge 1 und 2)
+- TOP 2.6.: Information zu einem möglichen Bauvorhaben Lauinger - / Saarlouiser Straße
+- TOP 2.7.: Durchführung eines Workshops zum Bauvorhaben Moosanger / Teplitzer Weg
+- TOP 2.8.: Beschilderung "Tempo 30" und Einhaltung dieser Geschwindigkeitsbegrenzung in der Feldmochinger Straße
+- TOP 2.9.: Fahrradraserei in der Grünanlage zwischen PSV, in den Kirschen und Kapuzinerhölzl
+- TOP 2.10.: BA17: "Beautragung mehrerer Unternehmen mit der Leerung von Wertstoffcontainern in München" mit der Bitte um Unterstützung
+- TOP 2.11.: Mehr Sicherheit auf den Wegen in der Kleingartenanlage (NW12?)
+- TOP 3.3.1.: Bauvorhaben: 1. Hanauer Str. 91- 91a 2. Hartmannshofer Straße 3. Dachauer Str. 184 - 188 4. Feldmochinger Str. 7 5. Ernst-Platz-Str. 2 6. Waldhornstraße 7. Perlgrasweg 8. Eggmühler Str. 6 9. Waldhornstr. 70
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Hanauer Str. 91 - 91a -> siehe Bauvorhaben TOP 3.3.1.1 2. Feldmochinger Str. 7 -> siehe Bauvorhaben TOP 3.3.1.4 3. Ernst-Platz-Str. 2 -> siehe Bauvorhaben TOP 3.3.1.5
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Ohlauer Str. 20 2. Prochintalstr. 26
+- TOP 4.1.1.: Testweise Einführung von Wertstofftonnen für Kunststoffe in Moosach
+- TOP 4.1.2.: Konsequenzen aus dem Abbau der Wertstoffinsel Ecke Bingener Straße/ Triebstraße
+- TOP 4.1.3.: Anfrage: Auswirkung der Kürzung von Investitionsmitteln für die Feuerwehr Moosach
+- TOP 4.1.4.: Sicherheit für Radfahrer an der Kreuzung Wintrichring / Dachauer Straße
+- TOP 4.1.5.: Internetversorgung in Moosach durch M-net
+- TOP 4.1.6.: Anfrage: Zeitpunkt Betriebsaufnahme und Festlegung Schulsprengel der Grundschule an der Emmy-Noether-Straße
+- TOP 4.1.7.: Radwegverbindung durch den Westfriedhof
+- TOP 4.2.1.: Mittelbereitstellung aus dem BA-Budget zur Durchführung eigener Veranstaltungen; hier: Veranstaltung "Friedensgebet am 12.11.2020"
+- TOP 5.1.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. Moosacher Musiknacht am 12.09.2020 9.500,00 € / Az. 0262.0-10-0232
+- TOP 5.2.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-10-0234
+- TOP 5.3.: (E) Stadtbezirksbudget Eigenheimerverein München - Moosach e.V. Festschrift zum 65-jährigen Vereinsjubiläum im Oktober 2020 508,60 € / Az. 0262.0-10-0233
+- TOP 5.4.: Wanderbühne des Kulturreferates im Stadtbezirk 10 im Rahmen des Programms "Sommer in der Stadt"; Bestellung einer städtischen Leistung
+- TOP 5.5.: Stadtbezirksbudget: Nachträgliche Erhöhung des Zuschussbetrages: Regsam e.V. "22. Moosacher Stadtteilkulturtage vom 26.06. bis 05.07.2020" (-> TOP 5.2, Sitzung am 29.04.2020)
+- TOP 5.6.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Aufstellung einer neuen Verkaufseinrichtung (TZ) auf öffentlichem Grund
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Neuantrag Christbaumverkauf am Moosacher St. Martinsplatz
+- TOP 6.1.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 6.2.: Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP 6.3.: Bedarfs- und Konzeptgenehmigung: Einrichtung und Ausschreibung eines Nachbarschaftstreffs in der Wohnanlage "Karlinger-/Gubestraße.... (Entwurf Sitzungsvorlage neu , -> siehe TOP 6.4 Sitzung 20.07.20)
+- TOP 6.4.: Antrag auf Genehmigung ge. § 4 imV.m. § 10 BImSchG der bestehenden Panzerteststrecke von Fa. Krauss-Maffei
+- TOP 6.5.: Vorbereitende Untersuchungen zum "Integrierten Stadtteilentwicklungskonzept Moosach (ISEK Moosach); Beschlussentwurf der Münchner Gesellschaft für Stadterneuerung mbH (MSG)
+- TOP 6.6.: Aufstellungs- und Eckdatenbeschluss: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Bingener Straße.....(Botanikum) (Entwurf Sitzungsvorlage)
+- TOP 6.7.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Andernacher Straße (Nordseite); Errichtung absolutes Haltverbot 2. Fodermayrstraße (Wendehammer); Errichtung absolutes Haltverbot 3. Meggendorferstraße; Einrichtung eeiens personenbezogenen Behindertenparkplatzes - nicht-öffentlich -
+- TOP 7.1.: Stadtsanierung in München / Untersuchungsgebiet Moosach; Städtebauförderung "Soziale Stadt": Umgestaltung der Straßenkreuzung Hugo-Troendle-Straße/ Karlingerstraße/ Nanga-Parbat-Straße [BA-Antrag Nr. 14-20/B07534; Überprüfung bestehender Verkehrsanlagen ist im Gesamtkonzept enthalten.]
+- TOP 7.2.: Berücksichtigung der Vorschläge des BA 10 für einen künftigen Standort eines Bürgerbüros in Moosach [BA-Antrag Nr. 14-20/B07727; Anmietung Immobilie am Moosacher Bahnhof geplant].
+- TOP 7.3.: In Zeiten aktueller Ausgangsbeschränkungen sollen Grünanlagen und öffentliche Flächen häufiger gesäubert werden [BA-Antrag Nr. 14-20/B07733; Erhöhung der Reinigungsintervalle von Grünflächen und Wertstoffinseln ist erfolgt bzw. geplant].
+- TOP 7.4.: Schaltung Lichtzeichenanlage Tram Haltestelle Borstei und Fußgängerampel Baldurstraße/ Ecke Dachauer Straße synchronisieren [Schreiben BA10 vom 24.07.20; Anpassung Signalsteuerung in Bearbeitung].
+- TOP 7.5.: Betriebseinschränkungen und Schäden an der Brunnentechnik am Brunnen Moosacher Stachus [Schreiben vom 06.08.20; Sensibilisierung der Bürger*innen für einen sachgemäßen Umgang mit dem Brunnen notwendig].
+- TOP 7.6.: Sporthallennutzung in den Sommerferien durch den OSC München [Schreiben BA10 vom 21.07.20; Schulzentrum, Nutzung Dreifachhalle wurde dem OSC während der Sommerferien ermöglicht.]
+- TOP 7.7.: Nächtliche Ruhestörungen Ecke Ohlauer-/ Wilhemshavener Straße [Bericht PI über Ergebnis von Streifen im II. Quartal 2020]
+- TOP 7.8.: Nutzungskonflikt - St. Martinskirche [Bericht PI über Ergebnis von Streifen im II. Quartal 2020].
+- TOP 8.1.: Aktuelle Situation an den Wertstoffinseln stadtweit
+- TOP 8.2.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG): Erneuerung Eisenbahnüberführung über Dachauer Straße (Abdruck Schreiben PLANR an RegObb vom 11.08.2020)
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Riesengebirgstraße; Errichtung absolutes Haltverbot 2. Haylerstraße (Nordseite östl. Dachauer Str); Errichtung Kurzparkplätze 3. Dachauer Straße/ Wintrichring; Maßnahme der Unfallkommission 4. Franz-Fihl-Straße (Nordwestseite); Errichtung absolutes Haltverbot 5. Allacher -/Ecke Brieger Straße; Aufhebung Taxistandplatz
+- TOP 8.4.: Veranstaltungen auf öffentlichem Verkehrsgrund: 1. "Moosacher Strassenklavier" vom 12. - 27.09.2020 2. "Moosacher Musiknach(t)mittag" am 12.09.2020 3. "Grünanlage Franz-Mader-Str.11; 6-Stunden-Lauf" am 12.09.2020 (→ jeweils Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.5.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen - Jenaer Straße 3 - Dieselstraße 12 Hinweis: Alte SV-Nr. 14-20 / V 18272
+- TOP 8.6.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2019
+- TOP 8.7.: (U) Kurzfristige Maßnahmen für Fußgänger*innen unter Corona 1. Anlass 2. Stand und Weiterentwicklung des Ansatzes Saisonaler Stadträume 3. Verkehrsrechtliche Möglichkeiten für temporäre Maßnahmen 4. Verkehrliche Grundsätze und Kriterien bei der Auswahl 5. Umsetzbarkeit im Sommer 2020 6. Verfahren zur kurzfristigen Umsetzung 7. Konkrete Umsetzung saisonaler Stadträume 8. Infektionsschutz 9. Behandlung der Stadtrats- und BA-Anträge
+- TOP 8.8.: (U) Unterstützung des Volksbegehrens "6 Jahre Mietenstopp" Empfehlung Nr. 14-20 / E 03059 ............................... Unterstützung des Volksbegehrens "#6 Jahre Mietenstopp" Empfehlung Nr. 14-20 / E 03161 ...................................... Unterstützung des Volksbegehrens "#6 Jahre Mietenstopp" durch den Bezirksausschuss und den Stadtrat Empfehlung Nr. 14-20 / E 03013 ........................................ Hinweis: Alte SV-Nr. 14-20 / V 18270
+- TOP 8.9.: (U) Circular Munich – Kreislaufwirtschaft für ein nachhaltiges München Müll vermeiden - Wertstoffe nutzen II Mehr Repair-Cafés in allen Stadtquartieren Antrag Nr. 14-20 / A 06972 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Müll vermeiden - Wertstoffe nutzen VII "Zero-Waste-Pilot-Wochen" in der Städtischen Verwaltung München Antrag Nr. 14-20 / A 06978 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Recycling / Abfallvermeidung I - richtig Recyclen Antrag Nr. 14-20 / A 06600 von der SPD-Fraktion vom 24.01.2020
+- TOP 8.10.: Mobilfunk: - nicht-öffentlich - 1. Suchkreismeldung: Bereich Abensbergstraße 2. Suchkreismeldung: Bereich Chemnitzer Platz 3. Suchkreismeldung: Bereich Zettlerstraße 4. Neubau einer Moblisendeanlage: Puchheimer Straße 5. Erweiterung bestehende Sendeanlage: Bauberger Straße 6. Erweiterung bestehende Sendeanlage: Treitschkestraße
+- TOP 8.11.: Zweckentfremdung von Wohnraum durch Abbruch: Ernst-Platz-Straße - nicht-öffentlich -
+- TOP 8.12.: WEB - alle Anträge vom 01.08.2020 bis 15.08.2020 - nicht-öffentlich -
+- TOP 4.: Anträge
