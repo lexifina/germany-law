@@ -1,0 +1,94 @@
+# 25. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-09-14T10:00:00+02:00
+- Ende: 2020-09-14T10:40:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-50
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VA-50
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-50
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-VA-50
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 29.05.2020
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 1.1: Aufstellungsbeschluss zur 10. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe (GEP E-L), auf dem Gebiet der Stadt Haltern am See - Erweiterung eines Bereichs für die Sicherung und den Abbau oberflächennaher Bodenschätze (BSAB)
+- TOP 1.2: Aufstellungsbeschluss zur 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop – Umwandlung eines Allgemeinen Freiraum- und Agrarbereichs mit den Freiraumfunktionen Schutz der Landschaft und landschaftsorientierte Erholung (BSLE) und Regionaler Grünzug in einen Bereich für gewerbliche und industrielle Nutzung (GIB) für zweckgebundene Nutzungen sowie Ergänzung einer textlichen Festlegung zum GIB für zweckgebundene Nutzungen
+- TOP 1.3: Veranlassung der Bekanntmachung in fünf Regionalplanänderungsverfahren
+- TOP 1.4: Resolution: Krankenhausplanung im Ruhrgebiet
+- TOP 1.5: Anfragen und Mitteilungen
+- TOP 1.5.1: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen zum Sachstand Landeswassergesetz NRW
+- TOP 1.5.2: Verfahrenserleichterungen des PlanSiG
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Bericht des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW über die Prüfung des Jahresabschlusses 2018, Feststellung des Jahresabschlusses 2018 und Entlastung der Regionaldirektorin, Karola Geiß-Netthöfel, für den Zeitraum 01.01.2018 bis 31.12.2018
+- TOP 2.2: Beschluss über die Behandlung des Jahresüberschusses 2018
+- TOP 2.3: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2020 und 2021 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen
+- TOP 2.4: Bekanntgabe der in der Zeit vom 01.01.2020 – 31.07.2020 für das Haushalts-jahr 2020 genehmigten Haushaltsüberschreitung
+- TOP 2.5: Ermächtigungsübertragungen 2019/2020 gem. § 22 KomHVO NRW - Korrektur der Position I12100-051 – Ankauf Waldflächen von der RAG
+- TOP 2.6: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung (2022-2024)
+- TOP 2.7: Überplanmäßige Mittelbereitstellung für die Baumaßnahme „Brücke Bert-hold-Beitz-Boulevard in Essen“ (I-9140101)
+- TOP 2.8: Überplanmäßige Mittelbereitstellung für die Baumaßnahmen am Dienstge-bäude Kronprinzenstr. 35
+- TOP 2.9: Fortschreibung des Gleichstellungsplans 2020 – 2025 zur Gleichstellung von Frauen und Männern beim RVR 2016 – 2019 inkl. Abschlussbericht zur Umsetzung des Gleichstellungsplans 2016 – 2019
+- TOP 2.10: Sitzungsgeld für Online-Fraktionssitzungen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Gesellschaft zum 01.01.2021
+- TOP 2.11.1: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Gesellschaft zum 01.01.2021 hier: Änderungsantrag zur Drucksache 13/1445-1
+- TOP 2.11.2: Änderungsantrag zur Beschlussvorlage Drucksache Nr. 13/1445 Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Zusammenarbeit mit der Stadt Herne
+- TOP 2.12: Bericht über die Beteiligungen für das Jahr 2018 gemäß GO NRW
+- TOP 2.13: Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften - Sachstandsbericht mit finanziellen Auswirkungen und zu erwartenden Sonderzuschüssen zum 31.12.2020
+- TOP 2.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – AGR GmbH
+- TOP 2.15: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – RZR II Herten GmbH
+- TOP 2.16: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Maximilianpark Hamm GmbH
+- TOP 2.17: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Umweltzentrum Westfalen GmbH
+- TOP 2.18: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Kultur Ruhr GmbH
+- TOP 2.19: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Wischlingen GmbH
+- TOP 2.20: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Business Metropole Ruhr GmbH
+- TOP 2.21: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Ruhr Tourismus GmbH
+- TOP 2.22: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 2.23: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 2.24: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitzentrum Xanten GmbH
+- TOP 2.25: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Seegesellschaft Haltern mbH
+- TOP 2.26: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Gysenberg Herne GmbH
+- TOP 2.27: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - TouristikEisenbahn Ruhrgebiet GmbH
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.28: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr
+- TOP 2.29: Regionales Wohnungsmarktkonzept Hier: Antragstellung ZUKUR II
+- TOP 2.29.1: Regionales Wohnungsmarktkonzept Hier: Antragstellung ZUKUR II
+- TOP 2.30: Fortführung der Luftbildkooperation - regelmäßige, verbandsweite Bereitsstellung der Luftbildprodukte als umlagefinanzierte Aufgabe des RVR
+- TOP 2.31: Anfrage zum Zeitplan des Regionalplans Ruhr
+- TOP 2.32: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen zum Zeitplan des Regionalplans Ruhr
+- TOP 2.32.1: Zeitplan des Regionalplans Ruhr
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.33: Festellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2019 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.34: Änderung des Stellenplans 2020/2021
+- TOP 2.35: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Kürzung des Betriebskostenzuschusses an RVR Ruhr Grün im Haushaltsjahr 2020
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.36: Förderanträge Regionale Sportförderung und Förderfonds Interkultur Ruhr
+- TOP -: Anfragen und Mitteilungen
+- TOP 2.37: Wehrbrücke am Hengsteysee – Ruhrtalradweg
+- TOP 2.37.1: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Wehrbrücke am Hengsteysee – Ruhrtalradweg
+- TOP 2.38: Verweil- und Gastronomieangebote auf der Halde Hoheward in Herten
+- TOP 2.38.1: Antwort auf die Anfrage der CDU-Fraktion Verweil- und Gastronomieangebote auf der Halde Hoheward in Herten
+- TOP 2.39: RVR-Delegation zu den Olympischen Spielen 2020
+- TOP 2.39.1: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion RVR-Delegation zu den Olympischen Spielen 2020
+- TOP 2.40: Auswirkungen der Corona-Krise auf die Freizeitgesellschaften des RVR
+- TOP 2.41: Situation des Vereins „Freunde des Bahnbetriebswerks Bismarck e.V.“ – Perspektiven für das Gelände
+- TOP 2.41.1: Antwort der Verwaltung auf die Anfrage der Fraktion Die Linke Situation des Vereins „Freunde des Bahnbetriebswerks Bismarck e.V.“ – Perspektiven für das Gelände
+- TOP 2.41.2: Sachstand zum Bahnbetriebswerk Gelsenkirchen-Bismarck
+- TOP 2.41.3: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Sachstand zum Bahnbetriebswerk Gelsenkirchen-Bismarck
+- TOP 2.42: Möglichkeiten einer Rückführung von industriell genutzten Flächen in das Verbandsverzeichnis Grünflächen
+- TOP 2.43: Vergütung nebenamtliche Geschäftsführertätigkeiten
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
