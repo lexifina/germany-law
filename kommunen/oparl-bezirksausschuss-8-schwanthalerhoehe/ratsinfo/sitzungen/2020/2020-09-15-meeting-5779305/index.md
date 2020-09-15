@@ -1,0 +1,105 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779305
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779305
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 8: Kultur und Integration
+- TOP 9: Umwelt und Verkehr
+- TOP 10: Budget und Finanzen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 13: Protokoll und Umlauf
+- TOP 4.1.: Übernachtungsgäste Unterführung Hans-Fischer-Straße
+- TOP 4.2.: Angespannte Parksituation durch Freischankflächen auf Parkstreifen
+- TOP 4.3.: Ausgabe von Parklizenzen in besonderen Lebenssituationen
+- TOP 4.4.: Sommerstraße in der Astallerstraße
+- TOP 4.5.: Carsharing-Parkflächen im Westend
+- TOP 4.6.: Zebrastreifens über die Ganghoferstraße auf Höhe der Anglerstraße
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 1
+- TOP 6.3.1.: Genehmigung Freischankfläche Anglerstraße 32
+- TOP 6.3.2.: Genehmigung Freischankfläche Gehweg und Parkstreifen Westendstraße 136
+- TOP 6.3.3.: Genehmigung Freischankfläche Westendstr. 144
+- TOP 6.3.4.: Genehmigung Freischankfläche Heimeranstraße 49
+- TOP 6.3.5.: Genehmigung Freischankfläche Kazmairstr. 37
+- TOP 6.3.6.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.7.: Mieterbeirat - Protokoll der Sitzung vom 13.07.2020
+- TOP 6.3.8.: Genehmigung Freischankfläche Gollierstraße 30
+- TOP 6.3.9.: Vermietung Ganghoferstraße; Aufstellung von zwei Seecontainern
+- TOP 6.3.10.: Genehmigung Freischankfläche Trappentreustraße 33
+- TOP 6.3.11.: Meldelisten Bauvorhaben
+- TOP 6.3.12.: Infomarkt zur Sanierung des Anwesens Schwanthalerstraße 113 am 22.09.2020
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Auswahl REGSAM-Schwerpunktgebiete ab 2021
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Informationsschreiben Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2019
+- TOP 7.3.2.: Gesamtliste Unterkünfte
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Straßenfest Parkstraße - Vorabzustimmung
+- TOP 9.2.2.: Kulturveranstaltungen Gollierplatz
+- TOP 9.2.3.: Abstellflächen für E-Roller
+- TOP 9.2.4.: Straßentheater PLAN B* - foolpool GbR; Georg-Freundofer-Platz am 05.09.2020
+- TOP 9.2.5.: Fortbewegende Theaterperformance "Wir waren nie weg" zum 40. Jahrestag des Oktoberfestattentats; 23.09.2020 und 27.09.2020
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Prüfung weiterer Einschränkungsmöglichkeiten für private Silvesterfeuerwerke - Antwortschreiben
+- TOP 9.3.2.: Leerungsfrequenz Wertstoffcontainerstandorte
+- TOP 9.3.3.: Leerung der Wertstoffcontainer durch mehrere Unternehmen - Antrag BA17
+- TOP 9.3.4.: Verbesserung der Gefahrensituation für Fußgänger*innen und Radfahrer*innen im Kreuzungsbereich des "Stöpsels" (Kreuzung Gollierplatz / Trappentreustr.)
+- TOP 9.3.5.: Verparkung der Gehwegbereiche an der Kreuzung Ligsalz- / Gollierstraße; Errichtung einer Ladezone oder andere Lösungsvorschläge
+- TOP 9.3.6.: Parkverbotskennzeichnung auf der Fahrbahn an den abgesenkten Bordsteinkanten Ecke Kazmairstr. / Kiliansplatz
+- TOP 9.3.7.: Beschilderung Hundewiese Bavariapark
+- TOP 9.3.8.: Fällung eines Gefahrenbaums im Bavariapark
+- TOP 9.3.9.: Wasserstelle für Wildtiere im Bavariapark
+- TOP 9.3.10.: Verbesserung der Verkehrssituation am Radweg Ben-Chorin-Straße / Bavariapark
+- TOP 9.3.11.: Versammlung Kidical Mass am 20.09.2020
+- TOP 9.3.12.: Versammlung 40 Jahre Oktoberfestattentat - Rechten Terror stoppen! am 26.09.2020
+- TOP 9.3.13.: Versammlung "Schulstart Obacht30" am 08.09.2020
+- TOP 9.3.14.: Feuerwerksanzeige in der Ligsalzstraße am 18.09.2020
+- TOP 9.3.15.: Versammlung Klimaschutz Parkstraße 18 am 18.09.2020
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget CHOSSYs WunderKammerMusik Konzert am 06.09.2020 623,88 € / Az. 0262.0-8-0244
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative "Evaluationsprojekt" Evaluationsprojekt Sommerstraßen 2020 vom 29.08. - 31.10.2020 500,00 € / Az. 0262.0-8-0290
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative "Evaluation Sommerstraße" Evaluation der Sommerstraße "Astallerstraße" vom 29.08. - 31.10.2020 496,00 € / Az. 0262.0-8-0245
+- TOP 10.1.4.: Anwohnerbefragung Sommerstraßen
+- TOP 10.1.5.: (E) Stadtbezirksbudget Initiative "Garten-Konzerte" Garten-Konzerte am 04.09.2020 570,00 € / Az. 0262.0-8-0243
+- TOP 10.1.6.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-8-0246
+- TOP 10.1.7.: (E) Stadtbezirksbudget Evangelisches Migrationszentrum / Griechisches Haus Essensausgabe für Bedürftige im Westend jeden Samstag vom 01.10. bis 24.12.2020 3.000,00 € / Az. 0262.0-8-0247
+- TOP 10.1.8.: (E) Stadtbezirksbudget Evangelisches Migrationszentrum / Griechisches Haus Musik am Gollierplatz jeden Samstag vom 22.08. bis 19.09.2020 4.300,00 € / Az. 0262.0-8-0248
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Übersicht Stadtbezirksbudget 2020
+- TOP 11.1.: Bodenseitige Markierung des Fahrradwegs entlang der Ganghoferstraße, sowie Aufstellung eines Warnschilds „Fußgänger“ an der Bushaltestelle Heimeranstraße / Ganghoferstraße
+- TOP 11.2.: Rote Markierung der Fahrradwege im Kreuzungsbereich Heimeranstraße / Ganghoferstraße
+- TOP 12.1.: Das Münchner Forum stellt sich vor - Standpunkte
+- TOP 12.2.: Änderung der BA-Geschäftsordnung; Teilnahme der Bezirksinspektion an den BA-Sitzungen
+- TOP 12.3.: Städtisches Telefonbuch an BA-Mitglieder aushändigen (Antrag BA15)
+- TOP 12.4.: Behandlung von an die BA-Mitglieder gerichteter Post durch die BA-Geschäftsstelle
+- TOP 12.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 12.7.: Durchführung eigener Veranstaltungen durch die Bezirksausschüsse
+- TOP 12.8.: Termine der BA-Sitzungen 2021
+- TOP 12.9.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 12.10.: Informationsschreiben: Fall der persönlichen Beteiligung nach Art. 49GO
