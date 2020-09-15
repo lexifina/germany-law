@@ -1,0 +1,6 @@
+# TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Finanzausschusses (2020-09-15)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=97908
