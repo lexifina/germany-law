@@ -1,0 +1,6 @@
+# TOP 3.: Protokoll über die 46. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 02.06.2020
+
+- Sitzung: Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (47. Sitzung) (2020-09-15)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/58956
