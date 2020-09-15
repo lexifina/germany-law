@@ -1,0 +1,70 @@
+# Bezirksvertretung Gräfrath (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-15T17:00:00+02:00
+- Ende: 2020-09-15T19:30:00+02:00
+- Ort: Zentrum für verfolgte Künste, Wuppertaler Straße 160, 42653 Solingen, Meistermannsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf8Mt1WihTZdH8hqLv2UJLI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5770
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXqQYmt5QMm2B4G9HEqYyrG_SZIPqtyQ1HEZTuFH5Bh/Bekanntmachung_Bezirksvertretung_Graefrath_15.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZPv2B5LBm-j5hog3OQOLgBzlgpxYR4ATko_vsdG9zDT/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_15.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Dauerzählstellen und Infoveranstaltung für Fahrradfahrer
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 40. Sitzung der Bezirksvertretung Gräfrath am 20.05.2020
+- TOP 4.: Protokoll über die 41. Sitzung der Bezirksvertretung Gräfrath am 26.05.2020
+- TOP 5.: Einrichtung einer Parkzone für Anwohner im Bereich der Oberen Dammstraße - mündlicher Bericht -
+- TOP 6.: Genehmigung der Beschlüsse der als Videokonferenz geführten letzten Sitzungen der Bezirksvertretung Gräfrath - Bauleitplanung Lützowstraße/Untere Holzstraße - Freie Budgetmittel - Arbeitsprogramm Bauleitplanung - Erweiterungsbau der Grundschule Gerberstraße - Abfallbehälter im Stadtbezirk Gräfrath - Verkehrssituation Tersteegenstraße/Wuppertaler Straße - Bauvorhaben Focher Straße - Gewässerschutz Heider Bach - Radverkehr Melachthonstraße
+- TOP 7.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 36 Absatz 5 GO NRW - Fahrbahndeckenprogramm 2020
+- TOP 8.: Bauleitplanung Scheidter Feld Beschluss über die 1. Verlängerung der Veränderungssperre (Nr. 169/ 607) gem. § 17 Abs. 1 BauGB für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Obere Dammstraße und östlich der Straße Scheidter Feld
+- TOP 9.: Bauleitplanung Scheidter Feld Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zum Vorentwurf des Bebauungsplanes S 607 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes S 607 für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Obere Dammstraße und östlich der Straße Scheidter Feld (Beschluss 2) – Stadtbezirk Gräfrath –
+- TOP 10.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Aufhebung des Bebauungsplanes S 338 – Teil B sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Aufhebung des Bebauungsplanes S 338 – Teil B für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Kuller Straße, Schlachthofstraße, Obere Dammstraße, Albrechtstraße, Kronprinzenstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 11.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Teilaufhebung des Bebauungsplanes S 117 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Teilaufhebung des Bebauungsplanes S 117 für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Wernerstraße, Sudetenstraße, Kuller Straße, Schlachthofstraße, Kronprinzenstraße, Obere Dammstraße, Albrechtstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 12.: Bauleitplanung Lützowstraße/ Untere Holzstraße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes G 629 sowie Satzungsbeschluss zum Bebauungsplan G 629 für das Gebiet östlich der Lützowstraße und nördlich der Unteren Holzstraße (Beschluss 3) – Stadtbezirk Gräfrath –
+- TOP 13.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 14.: Ergebnis der Grün- und Wegekommission zur Veloroute
+- TOP 14.1: Veloroute Antrag der Bezirksfraktionen der SPD und von Bündnis 90/Die Grünen vom 07.09.2020
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.: Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klimawandels Antrag der Bezirksfraktion von Bündnis 90/Die Grünen vom 27.03.2020
+- TOP 16.1: Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klimawandels Stellungnahme der Verwaltung zum Antrag der Fraktion Bündnis 90/Die Grünen, offene Liste vom 27.03.2020 für alle Bezirksvertretungen
+- TOP 17.: Städt. Obstwiesen in Gräfrath Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 06.05.2020
+- TOP 18.: Freie Budgetmittel
+- TOP 19.: Verschiedenes
+- TOP 19.1: Mitteilungen der Verwaltung
+- TOP 19.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Gräfrath
+- TOP 19.1.2: Information über ein verwaltungsgerichtliches Verfahren zur Erweiterung des Lebensmitteldiscounters an der Scheidter Straße Hier: Ergebnis der Verhandlung vor dem Verwaltungsgericht Düsseldorf
+- TOP 19.1.3: Sanierung des denkmalgeschützten Tropenhauses im Botanischen Garten durch die Stiftung Botanischer Garten e. V.
+- TOP 19.1.4: Integriertes Stadtteilentwicklungskonzept "Zukunft Wald 2030" - Beschluss des Konzeptes und Festsetzung des Stadtumbaugebietes gemäß § 171 b Absatz 1 BauGB
+- TOP 19.1.5: Ipad-Rückgabe
+- TOP 19.2: Anfragen an die Verwaltung
+- TOP 19.2.1: Standort Windrad
+- TOP 19.2.2: Verkehrssituation Gerberstraße/Ecke Hutenstraße
+- TOP 19.2.3: Sanierung der Walder Straße
+- TOP 19.3: Berichte aus den Gremien
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Baumfällungen in der Straße Obenflachsberg/Ecke Wuppertaler Straße
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung der Bezirksvertretung Gräfrath am 26.05.2020
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 36 Absatz 5 GO NRW - Besetzung der Stelle der Schulleitung an der Grundschule Gerberstraße
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
+- TOP 5.3: Berichte aus den Gremien
