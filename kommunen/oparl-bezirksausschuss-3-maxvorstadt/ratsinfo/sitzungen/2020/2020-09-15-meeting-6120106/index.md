@@ -1,0 +1,115 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6120106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6120106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.2.: Vorstellung AKIM
+- TOP 5.3.3.: Vorstellung des Planungsstands IAA
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Bericht Plenumssitzung Kunstareal
+- TOP A: Allgemeines
+- TOP 5.2.1.: Radaufstellstreifen vor der Ampel an der Kreuzung Infanterie-/Loth-/Görrsstraße
+- TOP 5.2.2.: Josephsplatz und AKIM, Bürgeranliegen vom 13.08.2020 inkl. Stellungahme von AKIM
+- TOP 5.2.3.: Fahrradstreifen Brienner Straße und Ampelschaltung Stiglmaierplatz, Bürgeranliegen vom 15.08.2020
+- TOP 5.2.4.: Lärmbelästigung durch Gastronomie, Bürgeranliegen vom 15.08.2020
+- TOP 5.2.5.: Errichtung eines Zebrastreifens vor Brienner Straße 37, Bürgeranliegen vom 26.08.2020
+- TOP 5.2.6.: Glasscherben im Skatepark Maßmannbergl, Bürgeranliegen vom 20.08.2020
+- TOP 5.2.7.: Sachstand über Medizinkonzept Schwabinger Krankenhaus erbeten, Anliegen des Seniorenbeirats vom 30.08.2020
+- TOP 5.3.1.: Aktuelle Entwicklungen auf dem Areal des ehemaliges Postverteilzentrums an der Arnulfstraße
+- TOP 6.1.: Geschlossene WC-Anlage am Josephsplatz, Antwort des Kreisverwaltungsreferates auf ein Bürgeranliegen (s. TOP A 5.2.10 / 07 2020)
+- TOP 6.2.: Zusätzliche Kunststoffcontainer an der Arcisstraße, Antwort der Entsorgungsfirma Wittmann (s. TOP A 5.2.7/07 2020)
+- TOP 6.3.: Verkehrszeichen „Vorfahrt gewähren“ an der Kreuzung Augusten-/Zieblandstraße erhöht anbringen und als Piktogramm auf der Fahrbahn abbilden
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag Grüne vom 28.08.2020 Grüne Infrastruktur (Fassadenbegrünung) für die Maxvorstadt baldmöglichst umsetzen
+- TOP 2.1.1.: Baulisten der LBK: 31. KW, 32., 33., 34., 35. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 32., 33., 34. KW
+- TOP 2.1.3.: Schellingstraße 93 / RGB – Tektur, Abbruch eines Rückgebäudes mit Büro und Garagen sowie Neubau eines Rückgebäudes mit Büroflächen
+- TOP 3.2.1.: Theresienstraße 36, eine Winterlinde und ein Bergahorn, weitere Baumveränderungen
+- TOP 3.2.2.: Augustenstraße 56, ein Götterbaum und eine Blutpflaume
+- TOP 3.2.3.: Sophienstraße 3, eine Akazie
+- TOP 3.2.4.: Mailingerstraße 15, eine Robinie
+- TOP 3.2.5.: Dachauer Straße 96, eine Vogelkirsche, drei Hainbuchen und zwei Eschen-Ahorne
+- TOP 3.2.6.: Schellingstraße 126, eine mehrstämmige Eberesche
+- TOP 5.1.: Entfernung eines Gefahrenbaumes auf dem Gelände der Alten Pinakothek Barer Straße 27
+- TOP 5.2.: Beantragte Fällung zweier Robinien in der Heßstraße 104: Kopie des Ablehnungsbescheids
+- TOP 5.3.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“ - Bürgerbeteiligung in den Stadtvierteln
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 29.08.2020 Sommer am Königsplatz 2021
+- TOP 1.2.: Antrag CSU vom 31.08.2020 Winter in der Stadt – Voraussetzungen in der Maxvorstadt schaffen
+- TOP 1.3.: Antrag SPD vom 31.08.2020 Umsetzung einer auf Kinder hinweisenden Bodenmarkierung vor der Türkenschule
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Blutenburgstraße - Ausweisung zur Fahrradstraße mit Vorfahrtsberechtigung
+- TOP 2.1.2.: Radlroute Mailingerstraße – Lothstraße: Lückenschluss in der Nymphenburger Straße dazu Ortstermin am 09.09.2020 um 15 Uhr an der Kreuzung Mailinger-/Nymphenburger Straße
+- TOP 2.2.1.: Öffentliche Bänke in der Dachauer-/Karl-/Augustenstraße
+- TOP 2.2.2.: (E) Verbot von privaten Silvesterfeuerwerken in ganz München
+- TOP 2.2.3.: (E) Verbot privater Silvesterfeuerwerke, Veranstaltung eines professionellen Großfeuerwerkes
+- TOP 2.2.4.: Umgestaltung der öffentlichen Verkehrsfläche im Vorfeld des Hotels Königshof, Karlsplatz 25
+- TOP 2.2.5.: (E) Verbot von Straßenfesten in der Maxvorstadt und angrenzenden Straßen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Türkenstr. 53 b) Türkenstr. 55 c) Karlstr. 10 d) Türkenstr. 60 e) Amalienstr. 34 f) Türkenstr. 51, g) Theresienstr. 146, h) Augustenstr. 113, i) Theresienstr. 130
+- TOP 3.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2021, Sitzungsvorlage Nr. 14-20 / V 00551
+- TOP 3.3.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Barer Straße 29 und Adalbertstraße 82; pilothafte Einrichtung von E-Ladesäulen im öffentlichen Raum durch den Betreiber QWELLO GmbH b) Zirkus-Krone-Straße Westseite; Befristete Anordnung der Haltverbotszone mit Zusatz „Großtiertransporter frei“ (Parklizenzgebiet) c) Arbeiten im Straßenraum im Kreuzungsbereich der Karl- / Seidlstraße (Fernwärme) d) Wredestraße Ostseite; Befristete Anordnung der Haltverbotszone mit Zusatz „Großtiertransporter frei“ (Parklizenzgebiet) e) Öffnung der einbahngeregelten Nebenfahrbahn Marsplatz zwischen Deroy- und Wredestraße für den gegenläufigen Radverkehr f) Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Heßstraße 98
+- TOP 3.4.: Fahrradabstellplätze in der Enhuberstraße, Antwort der Hausverwaltung (s. TOP A 5.2.3/08 2020)
+- TOP 3.5.: U3 und U6: Fahrplanänderungen wegen Wiedereinbau der automatischen Zugbeeinflussung
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 31.08.2020 Umsetzung einer mobilen Jugendsprechstunde
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat Grundschule Blutenburgstraße 3 Leben und Lernen in der Maxvorstadt vom 01.09.2020 – 31.07.2021 4.600,00€, AZ: 0262.0-3-0311
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juni 2020
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-3-0316
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "U-Bahn-Galerie" Renovierung der U-Bahn-Galerie des BA 3 im September 2020 762,12 Euro , Az.: 0262.0-3-0315
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Temporäre Kunstaktion „fly-but-stay“ vor der Freischankfläche des „Heart“, Lenbachplatz 2a
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.2.: Sitzungstermine 2021
+- TOP F.3.: Anhörung zu einer Änderung der BA-GeschO (Antrag des BA 21) Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP F.4.: Städtisches Telefonbuch an BA-Mitglieder aushändigen
+- TOP F.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.6.: Behandlung von an die BA-Mitglieder gerichteter Post durch die BA-Geschäftsstelle
+- TOP F.7.: Durchführung eigener Veranstaltungen der Bezirksausschüsse
+- TOP F.8.: Antrag CSU vom 31.08.2020 Wahl eines weiteren Beisitzers im Vorstand des BA 3
+- TOP F.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
