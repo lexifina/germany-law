@@ -1,0 +1,7 @@
+# TOP 6: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung SI-AWTL/05/2019 vom 26.11.2019 - die Unterlagen werden nachgereicht -
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2020-09-15)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/285159
+- Ergebnis: mehrheitlich beschlossen
