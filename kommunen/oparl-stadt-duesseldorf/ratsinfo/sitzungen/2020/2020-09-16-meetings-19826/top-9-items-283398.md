@@ -1,0 +1,8 @@
+# TOP 9: Busanbindung Unterbacher See, Beschluss der Bezirksvertretung 8 vom 07.05.2020 (BV8/113/2020)
+
+- Sitzung: Ordnungs- und Verkehrsausschuss (2020-09-16)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/283398
+- Ergebnis: zurückgezogen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/106533
