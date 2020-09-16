@@ -1,0 +1,57 @@
+# Zentraler Betriebsausschuss (26. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-16T16:34:00+02:00
+- Ende: 2020-09-16T17:41:00+02:00
+- Ort: Technische Betriebe Solingen, Dültgenstaler Straße 61, 42719 Solingen, Haus H, Aufenthaltsraum UG
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTVvG1RD3TdKJGIzPokWo2o
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5883
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZjc7lDFmyutyyLvd0eQvBvGT_8i-c1zdGJ3vxqW9zxx/Bekanntmachung_Zentraler_Betriebsausschuss_16.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd1oLUkVCaGYOaOYaXlZ80WipnV3MhJORcAMfkYOMvEG/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_16.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Gestaltungsmöglichkeiten bei der Ausschreibung von Bauvorhaben
+- TOP 1.2: Rasen- und Blumenwässerung im Sommer
+- TOP 1.3: Anschlusszwang an das städtische Kanalnetz
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 25. Sitzung des zentralen Betriebsausschusses am 03.06.2020
+- TOP 4.: Wärme- und Energiekonzepte MHKW Antrag von Bündnis 90/Die Grünen-offene Liste vom 28.08.2020
+- TOP 5.: Quartalsbericht 2. Quartal 2020 der Technischen Betriebe Solingen
+- TOP 6.: Quartalsbericht 2. Quartal 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 7.: Quartalsbericht 2. Quartal 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8.: Jahresabschluss 2019 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 9.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2020 und 2021 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 10.: Kompensationsmaßnahmen zur Finanzierung der Personalmehraufwendungen in der Eigenreinigung –Zwischenbericht-
+- TOP 11.: Abbiegeassistenzsystem für LKW
+- TOP 12.: Zustimmung der Umwandlung KRAFTWERKSSCHULE E.V. in eine Genossenschaft und Beteiligung an der Genossenschaft
+- TOP 13.: TBS-Standortkonzept 2030, Vorbereitung des Ausschreibungsverfahrens für die Module 1 und 2 für den MHKW-Standort
+- TOP 14.: Neubau der Rauchgasreinigungsanlage 1 einschließlich der erforderlichen Rauchgaskanäle am Standort Müllheizkraftwerk
+- TOP 15.: Gläserne Werkstatt Solingen
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen des Betriebes
+- TOP 16.1.1: Abfallbilanz 2019 für die Stadt Solingen
+- TOP 16.1.2: Jahresbericht 2019 der Umweltberatung der Verbraucherzentrale Solingen
+- TOP 16.2: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 25. Sitzung des zentralen Betriebsausschusses am 03.06.2020
+- TOP 4.: Quartalsbericht 2. Quartal 2020 der Entsorgung Solingen GmbH
+- TOP 5.: Quartalsbericht 2. Quartal 2020 der Solinger Bädergesellschaft mbH
+- TOP 6.: Jahresabschluss 2019 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 7.: Ermächtigung zur Übernahme des SBG-Verlustes 2019
+- TOP 8.: Wirtschaftsplan 2021/2022 Stadtentwicklungsgesellschaft Solingen mbH & Co. KG
+- TOP 9.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 10.: Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH (SEG) – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen des Betriebes
+- TOP 11.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum 01.05.2020 - 15.08.2020
+- TOP 11.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 11.1.3: Sachstand zu Abstimmungsverhandlungen mit den Systembetreibern
+- TOP 11.2: Anfragen an den Betrieb
