@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-16T17:00:00+02:00
+- Ende: 2020-09-16T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19826
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19826
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 16.09.20 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386916.pdf
+- Ergebnisprotokoll: OVA 16.09.20 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386916.pdf
+- Wortprotokoll: OVA 16.09.20 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00386916.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 05.05.2020 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 26.02.2020 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.05.2020 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Produktionsmängel bei den neuen Hochflurbahnen - wie geht es weiter? - Anfrage der CDU-Ratsfraktion- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Verbesserung des Baustellenmanagements und der Information für den Radverkehr - einstimmig beschlossen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Mitteilung der Verwaltung zum Antrag des Jugendrates „Verbesserung des Baustellenmanagements und der Information für den Radverkehr“ (JURAT/017/2020) - zur Kenntnis genommen
+- TOP 7.2: Bericht des Dezernates 07 zur Corona-Lage - zur Kenntnis genommen
+- TOP 7.3: Antwort auf die Nachfragen der CDU-Ratsfraktion zur Antwort auf die Anfrage OVA/078/2020 „Aufhebung des Gehwegparkens“ aus der Sitzung vom 08.06.2020 - zur Kenntnis genommen
+- TOP 7.4: Antwort auf die Nachfragen der CDU-Ratsfraktion zur Antwort auf die Anfrage OVA/073/2020 „Gefahren im Straßenverkehr minimieren“ aus der Sitzung vom 08.06.2020 - zur Kenntnis genommen
+- TOP 7.5: Antwort auf die Nachfragen der CDU-Ratsfraktion zur Antwort auf die Anfrage OVA/075/2020 „Sachstand Stadt-/Straßenbahnanbindung Universität/Wersten“aus der Sitzung vom 08.06.2020 - zur Kenntnis genommen
+- TOP 7.6: Antwort auf die Nachfragen der Ratsfraktion Bündnis90/Die Grünen zur Antwort auf die Anfrage OVA/075/2020 „Sachstand Stadt-/Straßenbahnanbindung Universität/Wersten“ aus der Sitzung vom 08.06.2020 - zur Kenntnis genommen
+- TOP 8: Controlling-Bericht des Amtes für Verkehrsmanagement, 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 9: Busanbindung Unterbacher See, Beschluss der Bezirksvertretung 8 vom 07.05.2020 (BV8/113/2020) - zurückgezogen
+- TOP 9.1: Busanbindung Unterbacher See, Beschluss der Bezirksvertretung 8 vom 07.05.2020 (BV8/113/2020) - einstimmig beschlossen
+- TOP 10: Ausführungs- und Finanzierungsbeschluss Fahrradparkturm Bahnhof D-Bilk; Friedrichstraße / Arcadenvorplatz - Empfehlung einstimmig beschlossen
+- TOP 11: Barrierefreier Haltestellenumbau Venloer Straße - einstimmig beschlossen
+- TOP 12: Sachstandsbericht zum Antrag der Ratsfraktion von Bündnis 90/Die Grünen, Mehr Platz für Kinder: temporäre Spielstraßen jetzt, Vorlagennummer RAT/219/2020 - zur Kenntnis genommen
+- TOP 13: Sachstandsbericht zum Änderungsantrag der CDU-Ratsfraktion zum Antrag der Ratsfraktion Bündnis 90/Die Grünen, Mehr Platz für Kinder: temporäre Spielstraßen jetzt (dauerhafte verkehrsberuhigte Bereiche), RAT/254/2020 - zur Kenntnis genommen
+- TOP 14: alte/neue Hildener Straße – Knotenpunktausbau -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 15: Südring - Ausbau einer Veloroute zwischen Batterieweg und Völklinger Straße - Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 16: Am Steinberg - Barrierefreier Ausbau der Haltestellen „Am Steinberg“ und „Merowingerstraße“ und Umbau der Gleisharfe - einstimmig beschlossen
+- TOP 17: Bericht zur Werdener-/Mindener Straße als Teilbereich der Unfallhäufungsstelle (UHS) Oberbilker Markt im Zusammenhang mit dem tödlichen Unfall eines Radfahrers am 27.07.2020 - zur Kenntnis genommen
+- TOP 18: Temporärer Pop-Up Radweg am Rheinufer/Cecilienallee/Rotterdamer Straße - Ergebnisse und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 19: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - zurückgezogen
+- TOP 20: Wahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 21: Umweltspuren Merowingerstraße und Prinz-Georg-Straße - mehrheitlich beschlossen
