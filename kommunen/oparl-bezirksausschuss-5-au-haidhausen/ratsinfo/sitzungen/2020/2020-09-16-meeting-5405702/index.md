@@ -1,0 +1,182 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405702
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405702
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.1: Allgemeine Unterrichtungen
+- TOP 6.2: Infoblatt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 6.: Unterrichtungen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Sondersitzung zur Generalsanierung des Gasteig am Montag, 28.09.2020 um 18 Uhr in der Philharmonie, Rosenheimer Str. 5
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 5.1.: Kronepark instand setzen ! Beseitigung der Verschmutzungen an Mauern und Sitzbänken, sowie Erneuerung von Schildern, um Aufenthaltsqualität zu verbessern
+- TOP 5.2.: Anfrage zu aktuellem Stand: Maßnahmen zur Pflege, Erhaltung und Restaurierung des Kroneparks - Einbeziehung des Bezirksausschusses
+- TOP 5.3.: Verbesserung der Verkehrssicherheit für Radfahrer:innen an der Kreuzung Balanstraße/Auerfeldstraße-Orleansstraße
+- TOP 5.4.: Machbarkeitsstudie: Bus- und Trambetriebshof mit Werkswohnungen überbauen
+- TOP 5.5.: Verkehrsberuhigung für die Balanstraße
+- TOP 5.6.: Baumpflanzung in der Wörthstraße
+- TOP 5.7.: Radlständer für das ASZ Haidhausen
+- TOP 5.8.: Ausgestaltung der IAA-Blue Lanes
+- TOP 5.9.: Technischer Fortschritt bei der Sanierung von Radwegen ?
+- TOP 6.1.1.: Städtisches Telefonbuch in einer aktualisierten Ausgabe den Bezirksausschuss-Mitgliedern zur Verfügung stellen
+- TOP 6.1.2.: Zugang zu Geo-Info für Bezirksausschuss-Mitglieder
+- TOP 6.2.1.: Infoblatt 09/20
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Init. Theaterproduktion Freie Theaterproduktion im HochX Theater vom 03.-13.09.2020 9.100,00 € / Az. 0262.0-5-0302
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „Naming Fiction“ Naming Fiction vom 09.11.2020 – 08.02.2021 2.500,00 €, AZ: 0262.0-5-0305
+- TOP II.3.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-5-0304
+- TOP II.4.: Temporäre Kunstaktion "Ruth&#039;s Bankerl" am 29.07.2020 in der Quellenstraße und am 26.08.2020 am Johannisplatz
+- TOP II.5.: Problematik Budgetanträge - Aufführungsort Theater Hoch X Verweisung aus der Sitzung vom 22.07.2020, TOP 3
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Projektvorstellung Mädchen an den Ball durch A.PPLAUS Xtra (Junge Akademie, Bildungs- und Kulturprogramme)
+- TOP 1.1.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Gärtnerische Umgestaltung 6.750,00 € / Az. 0262.0-5-0303
+- TOP 1.2.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München und Freising e.V. Anschaffung eines Gartenspielgerätes 14.472,98 € / Az. 0262.0-5-0268 Vertagung aus der Sitzung vom 22.01.2020
+- TOP 1.3.: zu TOP 2: Übernahme der Kosten für die Neuanschaffung eines Gartenspielgerätes für den Caritas Kindergarten Orleansstr. 11b durch die Stadt als Sachaufwandsträger ?
+- TOP 1.4.: (E) Stadtbezirksbudget Kita Kinderreich Anschaffung einer Schaukel 3.147,03 € / Az. 0262.0-5-0277 Vertagung aus der Sitzung vom 19.02.2020
+- TOP 1.5.: zu TOP 4: Kita Kinderreich Ohlmüllerstr. 40, Bezuschussung Schaukel Antwort RBS zum BA-Schreiben vom 26.02.2020
+- TOP 2.1.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erneuerung und Erweiterung öffentlicher Grünflächen und Spielplätze in der Au
+- TOP 3.2.: Corona: Leistungen der Alten- und Service-Zentren
+- TOP 3.3.: Bazeillesschule: Schutz der Mauer
+- TOP 3.4.: Protokoll Runder Tisch von AKIM zum Kolumbusplatz vom 23.07.2020 / Protokoll Ortstermin vom 27.08.2020
+- TOP 3.5.: Abschluss der Konfliktvermittlung von AKIM an der Grünfläche Eduard-Schmid-Straße
+- TOP 3.6.: Sportplatz im Hypo-Park dringend ertüchtigen "Protokoll" Ortstermin vom 29.06.2020
+- TOP 3.7.: Europäische Charta zur Gleichstellung von Frauen und Männern Aktionsplan: Erhöhung des Sicherheitsgefühls durch Optimierungen der Beleuchtung des öffentlichen Raumes
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Erweiterung des Kinderspielplatzes an der Reichenbachbrücke
+- TOP 4.2.: Antrag für eine neue Sitzbank vor dem ASZ Haidhausen (Ziffer 2 des Antrags)
+- TOP 4.3.: Antrag für neue Sitzbänke bei den Schulen in der Kirchenstraße bzw. am Spielplatzrand Johannisplatz gegenüber
+- TOP 4.4.: Kleinkindschaukel für den Spielplatz auf der Postwiese (Ziffer 2 des Antrags) Vertagung aus der Sitzung vom 22.07.2020
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Innere-Wiener-Str. 46
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anhörung zur Änderung in der BA-GeschO: Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP 2.2.: Aktion "und raus bist du" im Rahmen der Kulturtage Au-Haidhausen am 27.09.2020 am Bordeauxplatz
+- TOP 2.3.: Verlängerung Sommer in der Stadt Weißenburger Platz vom 07.09-04.10.2020 - Vorabstellungnahme durch den Vorsitzenden erfolgt -
+- TOP 2.4.: Verlängerung Sommer in der Stadt Orleansplatz vom 07.09-04.10.2020 - Vorabstellungnahme durch den Vorsitzenden erfolgt -
+- TOP 2.5.: "Natur Denk Mal – Eine Text Sound Kunst Performance" am 20.09.2020 am Grünstreifen gegenüber Gasteig
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nachprüfungs- und Widerrufsrecht für Freischankflächen
+- TOP 3.2.: Coronabedingte Freischankflächengenehmigungen im 5. Stadtbezirk Antwort Bezirksinspektion zum BA-Schreiben vom 28.07.2020
+- TOP 3.3.: Coronabedingte Freischankflächengenehmigungen im 5. Stadtbezirk
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Ruhestörung durch das Restaurant Dilan, Ecke Regerstraße/Schornstraße Antwort Bezirksinspektion liegt vor
+- TOP V.: UA Planung
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung der Pläne zur Sanierung des Marktes Wiener Platz durch das Baureferat = dazu: Eilantrag "Sichtachsen bei der Planung von Stand Nr. 10
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Max-Planck-Str. 1: Besucherzugang West, barrierefreie Erschließung und Errichtung Aufzug Arkaden - Tektur hier: Vollzug der Baumschutzverordnung
+- TOP 2.2.: Max-Planck-Str. 1: Generalsanierung der Kellergeschosse einschl. der haustechnischen Anlagen im Altbau und Neubau eines unterirdischen Sprinklertanks/Archiv sowie Einbau des Südaufzugs von U2 bis O3 hier: Vollzug der Baumschutzverordnung
+- TOP 2.3.: Kellerstr. 4 - 8a: Generalsanierung Gasteig - Vorbescheid (Kellerstr. 4 - 8a / Rosenheimer Str. 3 + 5)
+- TOP 2.4.: Ohlmüllerstr. 44: Umbau und Erweiterung einer Kindertagesstätte sowie Errichtung einer Lärmschutzwand
+- TOP 2.5.: Breisacher Str. 5: Neubau eines Rückgebäudes (5 WE) und einer Gewerbeeinheit, Errichtung eines Personenaufzugs sowie Anbau eines Müllraums unter dem Gelände an das Vordergebäude
+- TOP 2.6.: Ohlmüllerstr.: Umbau eines Handwerksbetriebs sowie Nutzungsänderung des Ausstellungsraums in einen Veranstaltungsraum
+- TOP 2.7.: Untere Feldstr. 4: Neubau eines Einfamilienhauses mit Garage, Abbruch des Bestandsgebäudes
+- TOP 2.8.: Lothringer Str. 1: Abbruch und Neuerrichtung des Dachstuhl + DG-Ausbau, Aufstockung und Errichtung eines hofseitigen Außenaufzugs, Nutzungsänderung EG: Fitnessstudio zu Büro mit Verkaufsraum - Tektur
+- TOP 2.9.: Rosenheimer Str. 111: Dachgeschoss- und Speicherausbau, Anbau eines Außenaufzugs an ein Mehrfamilienhaus, Tektur
+- TOP 2.10.: Max-Weber.Platz 11: Anbau eines Personenaufzugs
+- TOP 2.11.: Rosenheimer Str. 5: Errichtung temporäres Kunstobjekt am Gasteig: „The Munich Vigil“, befristet bis 31.03.2022
+- TOP 2.12.: Kirchenstr. 89 a: Errichtung von 2 Wohnungen und Vergrößerung einer Wohnung im DG mit Errichtung von Gauben und Terrassen, Aufteilung der Stellplätze nach jetzt bestehenden Gewerbeeinheiten
+- TOP 2.13.: Kellerstr. 19: Errichtung eines Balkons (2. OG) im Innenhof eines Mehrfamilienhauses
+- TOP 2.14.: Sedanstr. 14: Sanierung und Instandsetzung des Rückgebäudes
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Inwiefern ist es zulässig, ausschließlich eigenen Mitarbeitern die im "München-Modell Miete" geschuldeten Wohnungen zukommen zu lassen ?
+- TOP 3.2.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben
+- TOP 3.3.: Beteiligungsrecht von Bezirksausschüssen bei Dienstbarkeitsentschädigungen, Grütznerstr. 8 Antwort Direktorium zum Schreiben des BA vom 28.05.2020
+- TOP 3.4.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) St.-Wolfgangs-Platz 9 b) Kirchenstr. 88 c) Einsteinstr. 127
+- TOP 3.5.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 3.6.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2019
+- TOP 3.7.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Änderung (Erneuerung) zweier Eisenbahnüberführungen über die Balanstraße, Bahn-km 9,054 der Strecke 5510 München-Rosenheim und Bahn-km 0,719 der Strecke 5616 München-Ost – München Giesing in der Landeshauptstadt München Stellungnahme der LHSt München
+- TOP 3.8.: Generalinstandsetzung der Inneren- und Äußeren Ludwigsbrücken sowie der Fuß-und Radwegunterführungen West und Ost Anlagengenehmigung nach Art. 20 Bayerisches Wassergesetz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Durchgang von der Falkenstraße zur Entenbachstraße
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Aufzüge der S-Bahn Stationen Rosenheimer Platz / Ostbahnhof Empfehlung Nr. 14-20 / E 03187 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 30.01.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Errichtung von Fahrradständern in der Balanstr. 28 vor dem "Alten- und Servicezentrum Au"
+- TOP 2.2.: Temporäre Einrichtung von Radverkehrsanlagen - Rückmeldungen der Bezirksausschüsse Fristverlängerung bis 18.09.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Planungen für den Radweg am Gebsattelberg offenlegen !
+- TOP 3.2.: Die Stadtverwaltung legt die Streichungen von Parkplätzen im Stadtbezirk 5 offen !
+- TOP 3.3.: Corona: Berührungsfreie Nutzung der Ampel Innere-Wiener-Straße / Stubenvollstraße
+- TOP 3.4.: Poller am Pariser Platz vor Stadtsparkasse installieren
+- TOP 3.5.: Ausweisung einer Tempo 30 Zone vor dem Caritas Kindergarten Orleansstr. 11b
+- TOP 3.6.: Orleansplatz: Sanierung / Verbesserung der Gehwege (Verhinderung Gehwegparken)
+- TOP 3.7.: Fahrradstraße in der Maria-Theresia-Straße
+- TOP 3.8.: 1. Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Pilgersheimer- und Humboldtstraße 2. Schaffung einer 30er-Zone ab Wittelsbacherbrücke bis Falkenstraße
+- TOP 3.9.: Alternative Parkmöglichkeiten für Anwohner der Au während der Belegung von Freischankflächen auf Parkflächen
+- TOP 3.10.: Verkehrssituation am Rosenheimer Berg (stadteinwärts) entschärfen !
+- TOP 3.11.: Verkehrsrechtliche Anordnungen: a) Kolumbusstr. 1 und 5, Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze b) Lucile-Grahn-Straße: Parklizenzgebiet Grillparzerstraße, Einrichtung eines Lieferbereiches c) Ludwigsbrücke: Regelung des Verkehrs während der Bauarbeiten d) Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Haidhauser Str. 6 e) Rosenheimer Straße zwischen Lilienstraße und Am Lilienberg (stadtauswärts): Markierung eines Radfahrstreifens in Fahrtrichtung stadtauswärts auf der Fahrbahn als Provisorium (Verkehrsversuch - Gelbmarkierung) f) Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße; Markierung beidseitiger Radfahrstreifen auf der Fahrbahn als Provisorium (Verkehrsversuch - Gelbmarkierung)
+- TOP 3.12.: Leistungsprogramm der MVG 2020-2021 - Sachstand
+- TOP 3.13.: Ergebnisprotokoll Runder Tisch Preysingstraße vom 14.07.2020
+- TOP 3.14.: Fahrradständer beim Haus für Kinder in der Kolumbusstr. 40
+- TOP 3.15.: Behinderungen durch Falschparker in Au-Haidhausen (Ziffer 3 des Antrags) Antwort KVR zum Schreiben BA 5 vom 03.06.2020
+- TOP 3.16.: Ausweichverkehr bei der Umplanung der Ludwigsbrücke
+- TOP 3.17.: Sharing Mobility im 5. Statdbezirk Antwort Planungsreferat zu Fragen aus dem UA
+- TOP 3.18.: Kurzfristige Maßnahmen für Fußgänger*nnen in Zeiten von Corona Antwort KVR zum BA-Schreiben vom 16.06.2020
+- TOP 3.19.: Fußgängerübergang Auerfledstraße östlich Sieboldstraße Antwort Baureferat zum BA-Schreiben vom 03.06.2020
+- TOP 3.20.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Änderung (Erneuerung) zweier Eisenbahnüberführungen über die Balanstraße, Bahn-km 9,054 der Strecke 5510 München-Rosenheim und Bahn-km 0,719 der Strecke 5616 München-Ost – München Giesing in der Landeshauptstadt München Stellungnahme der LHSt München
+- TOP 3.21.: Generalinstandsetzung der Inneren- und Äußeren Ludwigsbrücken sowie der Fuß-und Radwegunterführungen West und Ost Anlagengenehmigung nach Art. 20 Bayerisches Wassergesetz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Besondere Sicherheitserfordernisse in der Falkenstraße: Antrag auf streckenbezogene Temporeduzierung
+- TOP 4.2.: Parken in der südlichen Au - Antrag auf Verschärfung der Kriterien für die Ausstellung von Anwohnerparkausweisen
+- TOP 4.3.: Verkehrssicherheit Ernst-Reuter-Grundschule
+- TOP 4.4.: Verstärkte Überwachung der Haltverbote in der Spicherenstraße
+- TOP 4.5.: Parksituation Franzosenviertel / Pariser Platz
+- TOP 4.6.: Nachbarschaftsstraßen an der Gebsattelbrücke
+- TOP 4.7.: Antrag für E-Ladestation im Bereich Metz-/Lothringerstraße
+- TOP 4.8.: Antrag auf Fahrradparkplätze vor dem ASZ Haidhausen (Ziffer 1 des Antrags) siehe auch Antrag bei TOP A 5.7
+- TOP 4.9.: Änderungen im Parkraummanagement aufgrund der zusätzlichen Freischankflächen Antwortschreiben KVR liegt vor
+- TOP VII.: Klima und Umwelt
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Informationen zur Spartenlage wegen möglicher Baumpflanzungen durch die Stadtverwaltung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schlotthauerstr. 21: Fällung von 1 Weide Vorabstellungnahme durch den Vorsitzenden aus Fristgründen erfolgt dazu: Fällgenehmigung vom 25.08.2020
+- TOP 2.2.: Grillparzerstr. 28: Fällung einer Eberesche
+- TOP 2.3.: Nockherstr. 2: Fällung einer Gemeinen Esche
+- TOP 2.4.: Nockherstr. 1: Fällung von 2 Eschen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kegelhofmühlbach: Nachpflanzung eines Ersatzbaums
+- TOP 3.2.: Aktuelle Situation an den Wertstoffinseln
+- TOP 3.3.: Glascontainer Spicherenstraße / Elsässer Straße
+- TOP 3.4.: Beauftragung mehrerer Unternehmen mit der Leerung von Wertstoffcontainern in München Antrag BA 17 Obergiesing mit der Bitte um Unterstützung aller BAs
+- TOP 3.5.: Standorte der Wertstoffinseln sauber halten
+- TOP 3.6.: Schandfleck Container in der Einstein-/Flurstraße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verlegung bzw. Entfernung der Wertstoffcontainer am St.-Wolfgangs-Platz
+- TOP 4.2.: Einsteinstr. 149: Verbesserung der Wohnqualität
+- TOP 4.3.: Müll- und Alkoholproblem an der Isar
+- TOP 4.4.: Isar-Parties
+- TOP 4.5.: Isarkloake ... herzlichen Dank
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 12.10.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 12.10.2020, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 13.10.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 14.10.2020, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 14.10.2020, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 15.10.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 21.10.2020, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 06.10.2020, 19.30 Uhr, Friedenstraße 40
+- TOP 2.1.: Nachträge: - BIV 2.3 Verlängerung Sommer in der Stadt Weißenburger Platz vom 07.09-04.10.2020 - BIV 2.4 Verlängerung Sommer in der Stadt Orleansplatz vom 07.09-04.10.2020 - BIV 2.5 "Natur Denk Mal – Eine Text Sound Kunst Performance" am 20.09.2020 am Grünstreifen gegenüber Gasteig - zu BV 0.1 Eilantrag "Sichtachsen bei der Planung von Stand Nr. 10 - BV 2.11-14 Bauvorhaben
