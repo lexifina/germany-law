@@ -1,0 +1,114 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Besucher bitten wir um vorherige Anmeldung per E-Mail im BVV-Büro! (siehe Teilnehmer_innen-Anlage zur Einladung)
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-09-16T17:00:00+02:00
+- Ende: 2020-09-16T21:30:00+02:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6087
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6087
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=359117
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - im Ausschuss abgelehnt
+- TOP 3.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - im Ausschuss abgelehnt
+- TOP 5: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 6: Unerledigte Drucksachen - im Ausschuss abgelehnt
+- TOP 6.1: Verkehrswende in Tempelhof-Schöneberg mit Ladestellen unterstützen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Busspur auf dem Lichtenrader Damm verlängern - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Auswirkungen des Landesantidiskriminierungsgesetzes auf die Arbeit des Bezirksamtes Tempelhof-Schöneberg - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Wie weiter gegen Raserei und illegale Autorennen? - beantwortet
+- TOP 8.2: Arbeitsfähigkeit des Bezirksamts – ist die Corona -Delle überwunden? - vertagt
+- TOP 8.3: Gesundheitsamt im Coronamodus - vertagt
+- TOP 8.4: Schulausbau im Bezirk - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 9.1: Festsetzung des Bebauungsplans 7-87 für die Grundstücke Steinstraße 37-44, Bahnhofstraße 30-32 sowie eine nördlich angrenzende Teilfläche des Parkplatzes Steinstraße und südlich angrenzenden Teilflächen entlang der Bahnhofstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 9.2: Neuwahl eines stellvertretenden Mitglieds des Beirates in Sozialhilfeangelegenheiten gemäß § 34 des Gesetzes über die Zuständigkeiten in der allgemeinen Berliner Verwaltung (AZG) - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahl der Sozialkommissions- / Sonder-kommissions-Mitglieder - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - im Ausschuss abgelehnt
+- TOP 10.1: Regelmäßige Informationen aus dem Beirat des Jobcenters - vertagt
+- TOP 10.2: Aktivitäten zu Pop-up-Radwegen einstellen - vertagt
+- TOP 10.3: Schwarzmarkthandel rund um den Crellemarkt beenden - überwiesen
+- TOP 10.4: Amtshilfe für den Radwegeausbau im Bezirk - überwiesen
+- TOP 10.5: Weiteren Schaden vom Bezirk abwenden – Gerichtsurteil zur Räumung unverzüglich umsetzen - vertagt
+- TOP 10.6: Sichere Radverbindungen: Lückenschluss am Lichtenrader Damm - vertagt
+- TOP 10.7: Wettkampf- und Trainingsbetrieb für Kinder und Jugendliche muss weiterlaufen – endlich ausreichend Umkleidekabinen schaffen - vertagt
+- TOP 10.8: Außengelände des Gemeinschaftshauses aufwerten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Rechtswidrig angeordnete Corona-Radwege in Tempelhof-Schöneberg sofort zurückbauen - vertagt
+- TOP 10.10: EUREF-Campus: Verbindliche Verpflichtungen für Vorhabensträger in das Änderungsverfahren (B-Plan 7-29) aufnehmen - überwiesen
+- TOP 10.11: Fußgängerverkehr Martin-Luther-Straße Ecke Fuggerstraße - im Ausschuss abgelehnt
+- TOP 10.12: Telekom-Laufgitter auf der Hauptstraße entfernen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Mit Aufstellen von Luftreinigern Ansteckungsrisiken durch Aerosole in Schulen vermindern - überwiesen
+- TOP 10.14: Radverkehr auf dem Prellerweg in beide Fahrtrichtungen sicherer gestalten - überwiesen
+- TOP 10.15: Gleichwertiger Weiterbetrieb des Wenckebach-Klinikums! - vertagt
+- TOP 10.16: Keine Umgehung des Vorkaufsrechts durch Share Deals - überwiesen
+- TOP 10.17: Weiteren Schaden vom Bezirk abwenden – Gerichtsurteil zur Räumung unverzüglich umsetzen - zurückgezogen
+- TOP 10.18: Fußverkehr fördern statt Absperrgitter aufbauen - vertagt
+- TOP 10.19: Bestattungsmöglichkeiten für „Sternenkinder“ auf den kommunalen Friedhöfen schaffen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.20: Fregestraße in Friedenau verkehrlich beruhigen - überwiesen
+- TOP 10.21: Islamistischer Anschlag im Bezirk – das Bezirksamt muss endlich handeln! - vertagt
+- TOP 10.22: Computer für den Kita-Eigenbetrieb Südwest - überwiesen
+- TOP 10.23: Bäume für die Potse - überwiesen
+- TOP 10.24: Grüne Dächer für Tempelhof-Schöneberg - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.25: Sitzungssäle pandemiefähig machen – Veranstaltungstechnik anschaffen - vertagt
+- TOP 10.26: Wahl von stellvertretenden Bürgerdeputierten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.27: Gefährliche Engstelle auf der Manteuffelstraße entschärfen - überwiesen
+- TOP 10.28: Gefährdung von querenden Fußgänger*innen am S-Bahnhof Schöneberg minimieren - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.29: Durchgangsweg Dörfelweg/Eisnerstraße erhalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.30: Gehweg und Bushaltestelle in der Britzer Straße wieder herstellen - vertagt
+- TOP 10.31: Mehr Unterstützung für das Archiv und die Sammlung der Museen Tempelhof-Schöneberg II - mit Änderungen in der BVV beschlossen
+- TOP 10.32: Mehr Unterstützung für das Archiv und die Sammlung der Museen Tempelhof-Schöneberg I - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.33: Wahl eines Bürgerdeputierten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.34: Fördermittel nutzen, Kabinentrakt Halker Zeile durch einen Neubau ersetzen! - vertagt
+- TOP 10.35: Solidarität mit den Menschen und Familien aus dem abgebrannten Camp Moria auf Lesbos - vertagt
+- TOP 11: übrige Große Anfragen - im Ausschuss abgelehnt
+- TOP 11.1: Wie bürgerfreundlich sind unsere bürgernahen Dienstleistungen? - vertagt
+- TOP 12: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 12.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2017 - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Überprüfung der Löhne bei „Aufstockern“ auf Mindestlohn durch das Jobcenter - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Mobiles Arbeiten dauerhaft im Bezirk ermöglichen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Gefährlichen Gehweg entschärfen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Gehwegflächen im Rudolph-Wilde-Park sanieren - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Abflussrinnen Rudolph-Wilde-Park - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Sicherstellen der Erreichbarkeit des Sozialamtes und des Jobcenters - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Schulen nicht alleine lassen - bezirkliche Task-Force-Corona einrichten - vertagt
+- TOP 12.9: Applaus ist gut – Geld ist besser: Leistungsprämie an Mitarbeitende zahlen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Auf die Ausweisung als Umleitungsstrecke und die Asphaltierung der Blohmstraße reagieren - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Planungssicherheit für soziale Leistungsempfänger_innen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Wiederherstellung der Grünfläche Albrechtstraße 53-56 - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Enttabuisierung von Depressionen und Selbstverstümmelung in Schulen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Eine bessere technische Ausstattung an Schulen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Spinde für Schüler an allen Schulen in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Tablets für die Schüler*innen an den Schulen in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Ausreichend Fördergelder für die JuKS Tempelhof-Schöneberg (Jugend-Kunst-Schule) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Tabletklassen am Ulrich-von-Hutten-Gymnasium - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 17 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Kinderlärm ist Zukunftsmusik – von Schallschutzmaßnahmen in Bädern absehen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Sanierung des Fußballplatzes Groß-Ziethener Straße Ecke Lichtenrader Graben - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Sportparcours an der Heilandsweide - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Seniorenfreizeitstätten mit freiem WLAN ausstatten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.24: Ausreichend Wickelmöglichkeiten in den öffentlichen Bürodienstgebäuden mit Publikumsverkehr – zur Förderung der Gleichberechtigung Wickelplätze auch in Herrentoiletten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Ausweitung der deutsch-französischen Freundschaft – Bürgerfonds nutzen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Open Air Saison für Kunst, Theater und Musik ermöglichen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Abgestimmte Texte für drei Gedenktafeln - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 13.1: Regionalbahnhalt am Bahnhof Buckower Chaussee - vertagt
+- TOP 13.2: Keine Kompromisse bei den bezirklichen Sportflächen - überwiesen
+- TOP 13.3: S-Bahnhof Kamenzer Damm endlich bestellen - vertagt
+- TOP 13.4: Gegen rechte Gewalt: Wanderausstellung „Immer wieder?“ im Bezirk zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Das Angebot des „Mobilen Bürgeramtes/Bürgeramtskoffer“ für Tempelhof- Schöneberg ausbauen - überwiesen
+- TOP 13.6: Marienhöhe wieder zugänglich machen und besser vor Vandalismus sichern - überwiesen
+- TOP 13.7: Christmas Avenue im Bezirk erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Geringfügige Vergrößerung des Geltungsbereichs und Änderung des Geltungsbereichstitels des im Verfahren befindlichen Bebauungsplan XI-231 aba für die Verbreiterung des Tempelhofer Weges zwischen Wilhelm-Kabus-Straße und der künftigen Straße in Verlängerung der Ausfahrt A 103 Sachsendamm mit Ausnahme im Bereich der Grundstücke Tempelhofer Weg 13-24, Tempelhofer Weg 25-26 und Gotenstraße 34 einschließlich einer Teilfläche des Grundstücks Gotenstraße 50-51 und Tempelhofer Weg 27 im Bezirk Tempelhof - überwiesen
+- TOP 13.9: Organisatorische Neuordnung im FB Stadtplanung - neuen Aufgabenschwerpunkt, Strategisches Flächen- und Projektmanagement in der Fachbereichsstruktur widerspiegeln - überwiesen
+- TOP 13.10: Bezirksregionenprofile (BZRP) Teil II konzeptioneller Teil, Strategien und Maßnahmen) für die Bezirksregionen Schöneberg Nord und Schöneberg Süd - überwiesen
+- TOP 13.11: Reduzierung des Geltungsbereiches des im Verfahren befindlichen Bebauungsplans 7 29 "EUREF-Campus" für die Grundstücke Torgauer Straße 12-15, Tempelhofer Weg 64 und Teilflächen der Torgauer Straße, des Tempelhofer Weges und der Grundstücke Torgauer Straße 16-21, Tempelhofer Weg 5-9, 63, 65-68 und Sachsendamm 87-88 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg sowie Änderung des Bebauungsplanentwurfs. - überwiesen
+- TOP 14: Termin der nächsten Sitzung - im Ausschuss abgelehnt
