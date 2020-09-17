@@ -1,0 +1,6 @@
+# TOP 1.: Aktuelle Informationen aus dem Gemeinderat
+
+- Sitzung: Interkultureller Beirat (2. Sitzung) (2020-09-17)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/42486
