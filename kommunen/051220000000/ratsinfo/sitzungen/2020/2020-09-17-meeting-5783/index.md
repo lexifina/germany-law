@@ -1,0 +1,51 @@
+# Bezirksvertretung Burg/Höhscheid (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-17T16:15:00+02:00
+- Ende: 2020-09-17T18:52:00+02:00
+- Ort: Gründer- und Technologiezentrum, Grünewalder Straße 29-31, 42657 Solingen, Pliestersaal I
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-80
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZTBihqQ8oucOhCbdp632Qc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5783
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Burg/Höhscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ2O-_ym0yFQd9QP02zLYoaLDRbFalU5V8P6MIm5Hdqw/Bekanntmachung_Bezirksvertretung_Burg-Hoehscheid_17.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Burg/Höhscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVhWhSjboGEYJzOz16VWIeaQK058D82o5WPNbaD5NE3h/Oeffentliche_Niederschrift_Bezirksvertretung_Burg-Hoehscheid_17.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Verkauf der Jugendherberge Burg
+- TOP 1.2: Spielplatz Dorper Hof
+- TOP 1.3: Umgestaltung der Wupperinsel Burg
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 40. Sitzung der Bezirksvertretung Burg/Höhscheid am 20.05.2020
+- TOP 4.: Protokoll über die 41. Sitzung der Bezirksvertretung Burg/Höhscheid am 04.06.2020
+- TOP 5.: Genehmigung der Beschlüsse der als Videokonferenz geführten letzten Sitzungen der Bezirksvertretung Burg/Höhscheid - Bauleitplanung Börsenstraße - Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klima- wandels - Antrag zur Fällung eines Baumes an der Kanalstraße - Arbeitsprogramm Bauleitplanung - Freie Budgetmittel 2020
+- TOP 6.: Anregungen und Beschwerden nach § 24 GO NRW zur Straßenbeleuchtung und Verkehrssituation in Unterburg
+- TOP 7.: Nahverkehrskonzept Solingen Burg Antrag der CDU-Bezirksfraktion vom 07.07.2020
+- TOP 8.: Ausgliederungsbegehren der Bürgerinnen und Bürger der Ortslage Höhrath nach Wermelskirchen Antrag der CDU-Bezirksfraktion vom 06.08.2020
+- TOP 9.: Bau einer neuen, befahrbaren Brücke als Ersatz der Behelfsbrücke am Ende des Mühlendamms zur Eschbachstraße hin Antrag der CDU-Bezirksfraktion vom 06.08.2020
+- TOP 10.: Prüfung verschiedener Verkehrssituationen in Solingen-Unterburg, insbesondere auf der Eschbachstraße zwischen der Wupperbrücke und dem Engpass Anträge der CDU-Bezirksfraktion vom 19.08.2020
+- TOP 11.: Verkehrsberuhigung der Straße Spielbruch Antrag der CDU-Bezirksfraktion vom 23.08.2020
+- TOP 12.: Verkehrsberuhigung Spielbruch Antrag der SPD-Bezirksfraktion vom 24.08.2020
+- TOP 13.: Sicherstellung des denkmalgeschützten Ortsbildcharakters in Unterburg Antrag der FDP vom 01.09.2020
+- TOP 14.: Fortführung des Konzeptes Tempo-30-Zonen hier: Ergänzungsvorlage zur Vorlagen-Nr. 5713/2019
+- TOP 15.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise
+- TOP 16.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 17.: Antrag zur Fällung von Bäumen zur Sanierung des Regenüberlaufs Platzhofstraße
+- TOP 18.: Freie Budgetmittel 2020
+- TOP 18.1: Freie Budgetmittel 2020
+- TOP 19.: Verschiedenes
+- TOP 19.1: Mitteilungen der Verwaltung
+- TOP 19.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Burg/Höhscheid
+- TOP 19.1.2: Umsetzung von Maßnahmen am Balkhauser Weg
+- TOP 19.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung der Bezirksvertretung Burg/Höhscheid am 04.06.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
