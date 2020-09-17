@@ -253,15 +253,13 @@ Gewinnverwendung
 - [§ 159](0159.md)
 - [§ 160 Vorschriften zum Anhang](0160.md)
 - [§ 161 Erklärung zum Corporate Governance Kodex](0161.md)
-
-#### Zweiter Abschnitt Prüfung des
-Jahresabschlusses
-
-
-##### Erster Unterabschnitt Prüfung durch
-Abschlußprüfer
-
 - [§ 162 Vergütungsbericht](0162.md)
+
+#### Zweiter Abschnitt Prüfung des Jahresabschlusses
+
+
+##### Erster Unterabschnitt Prüfung durch Abschlußprüfer
+
 - [(XXXX) §§ 163 bis 169](xxxx-163-bis-169.md)
 
 ##### Zweiter Unterabschnitt Prüfung durch

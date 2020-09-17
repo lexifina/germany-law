@@ -10,7 +10,7 @@
 |  | 2. | Abschnitt | Aufsichtsrat | §§ 95 - 116 |
 |  | 3. | Abschnitt | Benutzung des Einflusses auf die Gesellschaft | § 117 |
 |  | 4. | Abschnitt | Hauptversammlung | §§ 118 - 149 |
-|  |  | 1. | Unterabschnitt | Rechte der Hauptversammlung | §§ 118 - 120 |
+|  |  | 1. | Unterabschnitt | Rechte der Hauptversammlung | §§ 118 - 120a |
 |  |  | 2. | Unterabschnitt | Einberufung der Hauptversammlung | §§ 121 - 128 |
 |  |  | 3. | Unterabschnitt | Verhandlungsniederschrift. Auskunftsrecht | §§ 129 – 132 |
 |  |  | 4. | Unterabschnitt | Stimmrecht | §§ 133 - 137 |
@@ -18,9 +18,9 @@
 |  |  | 6. | Unterabschnitt | Vorzugsaktien ohne Stimmrecht | §§ 139 - 141 |
 |  |  | 7. | Unterabschnitt | Sonderprüfung. Geltendmachung von Ersatzansprüchen | §§ 142 - 149 |
 |  | Fünfter Teil | Rechnungslegung. Gewinnverwendung | §§ 150 - 178 |
-|  | 1. | Abschnitt | Jahresabschluß und Lagebericht | §§ 150 - 161 |
-|  | 2. | Abschnitt | Prüfung des Jahresabschlusses | §§ 162 - 171 |
-|  |  | 1. | Unterabschnitt | (weggefallen) | §§ 162 - 169 |
+|  | 1. | Abschnitt | Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht | §§ 150 - 162 |
+|  | 2. | Abschnitt | Prüfung des Jahresabschlusses | §§ 163 - 171 |
+|  |  | 1. | Unterabschnitt | (weggefallen) | §§ 163 - 169 |
 |  |  | 2. | Unterabschnitt | Prüfung durch den Aufsichtsrat | §§ 170 - 171 |
 |  | 3. | Abschnitt | Feststellung des Jahresabschlusses. Gewinnverwendung | §§ 172 - 176 |
 |  |  | 1. | Unterabschnitt | Feststellung des Jahresabschlusses | §§ 172 - 173 |
