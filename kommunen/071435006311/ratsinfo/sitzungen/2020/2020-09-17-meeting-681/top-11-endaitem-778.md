@@ -1,0 +1,7 @@
+# TOP 11.: Bebauungsplan Bömighausen „Am Berghof“ -Abwägungs- und Satzungsbeschluss
+
+- Sitzung: Gemeindevertretung (27. Sitzung) (2020-09-17)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/778
+- Ergebnis: (kein Text vorhanden)
