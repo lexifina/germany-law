@@ -1,8 +1,8 @@
 # Richtlinie Feuerwehrförderung Vollzitat: Richtlinie Feuerwehrförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.6
+- Datum: 2020-09-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+18.09.2020
 bis
-17.09.2020
+29.06.2023
 
 Richtlinie Feuerwehrförderung
 
@@ -55,7 +55,7 @@ Rechtsgrundlagen, Zuwendungszweck
 
 Der Freistaat Sachsen gewährt auf der Grundlage des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, nach Maßgabe der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019
 
-(SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der
+(SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der
 
 jeweils geltenden Fassung, und dieser Richtlinie Zuwendungen zu den notwendigen Beschaffungen und Baumaßnahmen zur Erfüllung der den Zuwendungsempfängern auf dem Gebiet des abwehrenden Brandschutzes und der technischen Hilfe obliegenden Aufgaben sowie zur Förderung der Jugendfeuerwehren.
 
@@ -395,16 +395,16 @@ Die Bewilligungsbehörde kann im Einzelfall zweckmäßig erscheinende Abweichung
 6.
 
 
-Die Zuwendungen an die Jugendfeuerwehr sind von den Gemeinden mit Antrag (Anlage 3) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen der Jugendfeuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend (Jugendfeuerwehr-Statistik). Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Unterstützung der Jugendfeuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten für die Jugendfeuerwehr ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung soll der Gemeindewehrleiter einbezogen werden. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 6 finden keine Anwendung.
+Die Zuwendungen an die Jugendfeuerwehr sind von den Gemeinden mit Antrag (Anlage 3) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen der Jugendfeuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend (Jugendfeuerwehr-Statistik). Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Unterstützung der Jugendfeuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten für die Jugendfeuerwehr ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung soll der Gemeindewehrleiter einbezogen werden. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung.
 
 
 7.
 
-Die Zuwendungen zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr sind von den Gemeinden mit Antrag (Anlage 4) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen in der aktiven Abteilung der Freiwilligen Feuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend. Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung ist der Gemeindewehrleiter einzubeziehen. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 6 finden keine Anwendung. 
+Die Zuwendungen zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr sind von den Gemeinden mit Antrag (Anlage 4) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen in der aktiven Abteilung der Freiwilligen Feuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend. Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung ist der Gemeindewehrleiter einzubeziehen. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung. 
 
 8.
 
-Die Zuwendungen zum Erwerb des Führerscheins der Klasse C beziehungsweise CE sind von den Gemeinden mit Antrag (Anlage 5) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Die Landkreise teilen den sich ergebenden Gesamtbedarf an Führerscheinen über die Landesdirektion dem Staatsministerium des Innern mit. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 6 finden keine Anwendung. 
+Die Zuwendungen zum Erwerb des Führerscheins der Klasse C beziehungsweise CE sind von den Gemeinden mit Antrag (Anlage 5) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Die Landkreise teilen den sich ergebenden Gesamtbedarf an Führerscheinen über die Landesdirektion dem Staatsministerium des Innern mit. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung. 
 
 
 VII.
@@ -441,7 +441,7 @@ Nimmt ein Landkreis oder eine Kreisfreie Stadt die pauschaliert zugewiesenen Fö
 5.
 
 
-Die Antragsunterlagen nach Ziffer VI Nummer 7 (Anlage 3), Nummer 8 (Anlage 4) und Nummer 9 (Anlage 5) gelten als Verwendungsnachweis. Ein besonderer Auszahlungsantrag entfällt.
+Die Antragsunterlagen nach Ziffer VI Nummer 6 (Anlage 3), Nummer 7 (Anlage 4) und Nummer 8 (Anlage 5) gelten als Verwendungsnachweis. Ein besonderer Auszahlungsantrag entfällt.
 
 
 VIII.
@@ -627,7 +627,8 @@ Anlage 2
 Höhe der Zuwendungen bei Festbetragsfinanzierung
 
 Anlage 3
-(zu Ziffer VI Nummer 6)
+
+Antrag auf Gewährung einer Zuwendung zur Förderung der Jugendfeuerwehren
 
 Anlage 4
 
@@ -637,7 +638,7 @@ Antrag auf Gewährung einer Zuwendung zur Förderung der Angehörigkeit in der a
 Anlage 5
 
 
-Anlage 5 Antrag auf Gewährung einer Zuwendung zum Führerscheinerwerb
+Antrag auf Gewährung einer Zuwendung zum Erwerb eines Führerscheins der Klasse C beziehungsweise CE
 
 Verweis auf Bundesgesetze
 
@@ -649,9 +650,9 @@ Fsn-Nr.: 551-V12.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab: 18. September 2020
 
-Fassung gültig bis: 17. September 2020
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -678,7 +679,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12427.6
+https://www.revosax.sachsen.de/vorschrift/12427.7
 Stand vom
 18.11.2026
 
