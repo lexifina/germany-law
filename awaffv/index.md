@@ -41,13 +41,13 @@ Schusswaffen; Fachbeirat
 - [§ 15 Umfang der Fachkunde](0015.md)
 - [§ 16 Prüfung](0016.md)
 
-### Unterabschnitt 2 Waffenherstellungs- und
-Waffenhandelsbücher
+### Unterabschnitt 2 Ersatzdokumentation
 
-- [§ 17 Grundsätze der Buchführungspflicht](0017.md)
-- [§ 18 Führung der Waffenbücher in gebundener Form](0018.md)
-- [§ 19 Führung der Waffenbücher in Karteiform](0019.md)
-- [§ 20 Führung der Waffenbücher in elektronischer Form](0020.md)
+- [§ 17 Grundsätze für das Führen der Ersatzdokumentation](0017.md)
+- [§ 17a Vorlage und Aufbewahrung der Ersatzdokumentation](0017a.md)
+- [§ 18 Führung der Ersatzdokumentation in gebundener Form](0018.md)
+- [§ 19 Führung der Ersatzdokumentation in Karteiform](0019.md)
+- [§ 20 Führung der Ersatzdokumentation in elektronischer Form](0020.md)
 
 ### Unterabschnitt 3 Kennzeichnung von Waffen
 
@@ -61,6 +61,12 @@ Schusswaffen
 - [§ 24 Verzeichnisse](0024.md)
 - [§ 25 Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von
 Aufsichtspersonen oder Ausbildern](0025.md)
+
+## Abschnitt 7a Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen
+
+- [§ 25a Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen](0025a.md)
+- [§ 25b Vernichtung unbrauchbar gemachter Schusswaffen](0025b.md)
+- [§ 25c Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen](0025c.md)
 
 ## Abschnitt 8 Vorschriften mit Bezug zur Europäischen
 Union und zu Drittstaaten

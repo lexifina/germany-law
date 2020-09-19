@@ -105,15 +105,15 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
   |  | 32 | 850 | 4 | 22 | 9 | 40 |
   |  | 36 | 850 | 3,5 | 17 | 8 | 30 |
   |  | 9 mm | 850 | 3,5 | 17 | 8 | 30 |
-  | b) | .31 | 1.200 | 2,5 | 6 | 6 | 10 |
-  |  | .36 | 1.200 | 3,5 | 8 | 7 | 12 |
-  |  | .41 | 1.200 | 5 | 12 | 8 | 16 |
-  |  | .44 | 1.400 | 6 | 15 | 9,5 | 19 |
-  |  | .45 | 1.400 | 6 | 16 | 10 | 19 |
-  |  | .50 | 1.400 | 8 | 20 | 13 | 24 |
-  |  | .54 | 1.400 | 9 | 28 | 14,5 | 28 |
-  |  | .58 | 1.400 | 10 | 31 | 16,5 | 31 |
-  |  | .69 | 1.400 | 12 | 40 | 20 | 45 |
+  | b) | .31 | 1 200 | 2,5 | 6 | 6 | 10 |
+  |  | .36 | 1 200 | 3,5 | 8 | 7 | 12 |
+  |  | .41 | 1 200 | 5 | 12 | 8 | 16 |
+  |  | .44 | 1 400 | 6 | 15 | 9,5 | 19 |
+  |  | .45 | 1 400 | 6 | 16 | 10 | 19 |
+  |  | .50 | 1 400 | 8 | 20 | 13 | 24 |
+  |  | .54 | 1 400 | 9 | 28 | 14,5 | 28 |
+  |  | .58 | 1 400 | 10 | 31 | 16,5 | 31 |
+  |  | .69 | 1 400 | 12 | 40 | 20 | 45 |
   Buchstabe a = Waffen mit glatten Läufen
   Buchstabe b = Waffen mit gezogenen Läufen
 2.1.4 Der Beschuss ist wie folgt durchzuführen:
@@ -143,8 +143,8 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
   | 30 | 34,9 | 45,0 | 280,0 | 45,0 | 370,0 |
   | 35 | 39,9 | 50,0 | 380,0 | 50,0 | 500,0 |
   | 40 | 44,9 | 60,0 | 500,0 | 60,0 | 660,0 |
-  | 45 | 49,9 | 80,0 | 750,0 | 80,0 | 1.000,0 |
-  | 50 | 60,0 | 100,0 | 1.200,0 | 100,0 | 1.600,0 |
+  | 45 | 49,9 | 80,0 | 750,0 | 80,0 | 1 000,0 |
+  | 50 | 60,0 | 100,0 | 1 200,0 | 100,0 | 1 600,0 |
 2.2 Böller für Schwarzpulver
 2.2.1 Als Beschusspulver ist ein Schwarzpulver nach Nummer 2.1.1 zu verwenden.
 2.2.2 Böller werden wie Schwarzpulverwaffen mit glatten Läufen beschossen. Die Haltbarkeit von Böllern, die zum Abschießen von Ladungen bestimmt sind, ist unter Zugrundelegung der in den Nummern 2.2.3 bis 2.2.7 vorgeschriebenen Ladedaten mit Beschussladungen zu prüfen. Böller sind mit einem Schuss je Rohr zu beschießen. Weist der Böller nach dem Beschuss Fehler auf oder ergeben sich Zweifel hinsichtlich der Haltbarkeit, so kann das Beschussamt einen zusätzlichen Schuss abgeben. Das Beschussamt hat auf dem Böller eine fortlaufende Gerätenummer und sein Prüfzeichen anzubringen.
@@ -182,8 +182,8 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
   | 50,0 | 150,0 | 30,0 | 150,0 | 750,0 |
   | 60,0 | 200,0 | 30,0 | 200,0 | 850,0 |
   | 70,0 | 260,0 | 35,0 | 260,0 | 950,0 |
-  | 80,0 | 330,0 | 35,0 | 330,0 | 1.100,0 |
-  | 90,0 | 400,0 | 40,0 | 400,0 | 1.200,0 |
+  | 80,0 | 330,0 | 35,0 | 330,0 | 1 100,0 |
+  | 90,0 | 400,0 | 40,0 | 400,0 | 1 200,0 |
 2.2.5 Vorderlader – Böller – Kanonen
   | Rohrinnen- durchmesser | Gebrauchsladung – zulässige Höchstwerte – | Beschussladung |
   | in mm | in g | in g |
@@ -209,10 +209,10 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
   | 50 | 59,9 | 125,0 | 30,0 | 125,0 | 500,0 |
   | 60 | 69,9 | 180,0 | 34,0 | 180,0 | 710,0 |
   | 70 | 79,9 | 240,0 | 38,0 | 240,0 | 960,0 |
-  | 80 | 89,9 | 320,0 | 45,0 | 320,0 | 1.250,0 |
-  | 90 | 99,9 | 410,0 | 45,0 | 410,0 | 1.600,0 |
-  | 100 | 119,9 | 500,0 | 50,0 | 500,0 | 1.950,0 |
-  | 120 | 150,0 | 600,0 | 50,0 | 600,0 | 2.500,0 |
+  | 80 | 89,9 | 320,0 | 45,0 | 320,0 | 1 250,0 |
+  | 90 | 99,9 | 410,0 | 45,0 | 410,0 | 1 600,0 |
+  | 100 | 119,9 | 500,0 | 50,0 | 500,0 | 1 950,0 |
+  | 120 | 150,0 | 600,0 | 50,0 | 600,0 | 2 500,0 |
 2.2.6 Salutkanonen mit Kartuschen
   | Kartuschen Außendurchmesser | Gebrauchsladung – zulässige Höchstwerte – | Beschussladung |
   | in mm | in g | in g |
@@ -271,17 +271,18 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 4 Technische Anforderungen an Schreckschuss-, Reizstoff- und Signalwaffen nach § 8 des Gesetzes
 4.1 Schreckschuss-, Reizstoff- und Signalwaffen mit einem Durchmesser (P1) des Kartuschenlagers kleiner als 6 mm, aus denen nur Kartuschen mit einer Länge (L6) kleiner als 7 mm verschossen werden können, müssen haltbar, maßhaltig und funktionssicher sein.
 4.2 An die Bauart der Schusswaffe sind folgende technische Anforderungen nach § 8 Abs. 2 Nr. 4 und 5 des Gesetzes zu stellen:
-4.2.1 Über die gesamte Länge des dem Lauf entsprechenden Rohres, abgesehen von einer dem Innendurchmesser des Rohres entsprechenden Länge an der Mündung, müssen Sperren eingebaut sein, die mit allgemein gebräuchlichen Werkzeugen nicht zu entfernen sind.
-4.2.2 In Kartuschenlager darf Patronenmunition nach den Maßtafeln weder zu laden noch abzufeuern sein. In Magazinen von Pistolen und in Trommelbohrungen von Revolvern darf keine handelsübliche Patronenmunition nach den Maßtafeln zu laden sein, die im Kartuschenlager gezündet werden kann. Entsprechend dürfen die Magazinschächte nur für Kartuschenmunition eingerichtete Magazine aufnehmen können.
+4.2.1 Über die gesamte Länge des dem Lauf entsprechenden Rohres, abgesehen von einer dem Innendurchmesser des Rohres entsprechenden Länge an der Mündung, müssen Sperren eingebaut sein, die mit allgemein gebräuchlichen Werkzeugen nicht zu entfernen sind. Die Sperren müssen eine Härte von mindestens 610 HV30 aufweisen.
+4.2.2 In Kartuschenlagern darf Patronenmunition nach den Maßtafeln nicht abzufeuern sein. In Magazinen von Pistolen und in Trommelbohrungen von Revolvern darf keine handelsübliche Patronenmunition nach den Maßtafeln zu laden sein, die im Kartuschenlager gezündet werden kann. Entsprechend dürfen die Magazinschächte nur für Kartuschenmunition eingerichtete Magazine aufnehmen können.
 4.2.3 Kartuschenlager und Rohr müssen mindestens 30° gegeneinander geneigt oder so gegeneinander versetzt sein, dass der Schlagbolzen zentrisch zum Rohr eingesetzte handelsübliche Munition mit einem größeren Durchmesser (∅H2) als 5 mm nicht zünden kann.
 4.2.4 Bei Waffen nach Nummer 4.1 mit geneigtem Kartuschenlager kann auf den Einbau von Sperren verzichtet werden, sofern zu verschießende feste Körper keine höhere Energie als 7,5 J erreichen.
 4.2.5 Bei Revolvern müssen die Ausströmungsöffnungen der Trommel gegenüber den Kartuschenlagern verengt und versetzt sein.
 4.2.6 Bei Waffen mit versetzten Kartuschenlagern muss die Befestigung des Rohres bei dem Versuch, dieses zu entfernen, um einen zentrischen Lauf einschließlich Patronenlager einzusetzen, aufbrechen.
 4.2.7 Bei Geräten und Zusatzteilen, die der Signalgebung mittels pyrotechnischer Munition dienen, darf das Geschoss über keine größere Länge als das 1,75fache seines Durchmessers oder das 1,2fache seiner Länge geführt werden. Der für den Antrieb erforderliche mittlere Mündungsgasdruck, gemessen direkt vor der Antriebseite der pyrotechnischen Munition, darf den kritischen Gasdruckwert von 50 bar nicht überschreiten. Ein aufgeschraubter Zusatzlauf (Schießbecher) für pyrotechnische Munition muss in Verbindung mit einer Waffe gewährleisten, dass pyrotechnische Munition ohne Eigenantrieb eine Anfangsgeschwindigkeit von mindestens 20 m/s erhält und die Zuordnung zur Waffe auf Grund entsprechender Kennzeichnung eindeutig ist.
-4.3 Bei Schusswaffen, die aus mehreren Teilen bestehen und auseinander genommen werden können, muss sichergestellt sein, dass mit den einzelnen Teilen nicht geschossen werden kann.
+4.2.8 Bei Schreckschusswaffen, die ausschließlich zum Abfeuern von Kartuschenmunition zur akustischen Signalgebung dienen, müssen die unter Nummer 4.2.1 genannten Sperren das dem Lauf entsprechende Rohr vollständig blockieren, mit Ausnahme eines oder mehrerer Austrittsöffnungen für den Gasdruck. Die Waffe muss so beschaffen sein, dass der Gasdruck nicht an der Vorderseite der Waffe entweichen kann. Abweichend von Nummer 4.2.1 müssen die Sperren eine Härte von mindestens 700 HV30 aufweisen.
+4.3 Bei Schusswaffen, die aus mehreren Teilen bestehen und auseinander genommen werden können, muss sichergestellt sein, dass mit den einzelnen Teilen nicht geschossen werden kann. Die wesentlichen Teile müssen konstruktiv durch ihr Material und ihre Formgebung so beschaffen sein, dass sie nicht bestimmungsgemäß als wesentliche Bestandteile von Schusswaffen gemäß § 1 Absatz 2 Nummer 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.1 des Waffengesetzes verwendet werden können.
 4.4 Ein Versagungsgrund nach § 8 Abs. 2 Nr. 4 des Gesetzes ist nicht gegeben, wenn bei der Umarbeitung der Schusswaffe
 4.4.1 mit gebräuchlichen Werkzeugen nur die Wirkung erreicht werden kann, dass zu verschießende feste Körper keine höhere Energie als 7,5 J erreichen,
-4.4.2 die Waffe oder wesentliche Teile der Waffe auseinander fallen.
+4.4.2 die Waffe oder wesentliche Teile der Waffe auseinander fallen oder zerstört werden.
 5 Technische Anforderungen an pyrotechnische Munition nach § 10 des Gesetzes
 5.1 Die pyrotechnische Munition einschließlich der mit ihr verbundenen Antriebsvorrichtung muss folgenden Anforderungen entsprechen:
 5.1.1 Pyrotechnische Munition muss so beschaffen sein, dass sie bei bestimmungsgemäßer Verwendung handhabungssicher ist; ihre Sätze dürfen weder herausfallen noch sich ablösen.
@@ -311,11 +312,10 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 5.4 Gasdruckanforderungen an pyrotechnische Munition
 5.4.1 Der Gasdruck muss bei pyrotechnischer Patronenmunition so bemessen sein, dass Fehlreaktionen im pyrotechnischen System des Geschosses ausgeschlossen sind.
 5.4.2 Der von der Patronenmunition entwickelte Gasdruck darf den zulässigen Maximaldruck nicht überschreiten.
-6 Technische Anforderungen an umgebaute und unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach § 9 Abs. 1 Nr. 1 und 2 des Gesetzes
+6 Technische Anforderungen an umgebaute Schusswaffen nach § 9 Absatz 1 des Gesetzes
 6.1 Definition
-6.1.1 Schusswaffen im Sinne von § 9 Abs. 1 Nr. 1 des Gesetzes in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
-6.1.2 Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände im Sinne von § 9 Abs. 1 Nr. 2 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 des Waffengesetzes sind erlaubnispflichtige Waffen, die auf Dauer so abgeändert sind, dass sich weder Munition noch Treibladungen laden oder verschießen lassen.
-6.2 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer 6.1.1
+Schusswaffen im Sinne von § 9 Absatz 1 des Gesetzes in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
+6.2 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer 6.1
 6.2.1 Schusswaffen sind so abzuändern oder auszuführen, dass
   – das Patronenlager dauerhaft so verändert ist, damit sich außer Kartuschenmunition nach der Tabelle 5 der Maßtafeln keine sonstige Patronen-, pyrotechnische Munition oder Treibladungen laden und abfeuern lassen,
   – der Lauf in dem dem Patronenlager zugekehrten Drittel mindestens sechs kalibergroße, nach vorn gerichtete unverdeckte Bohrungen oder andere gleichwertige Laufveränderungen aufweist und vor diesen in Richtung Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft durch Verschweißen im Abstand des halben Kaliberdurchmessers vor der Mündung verschlossen ist, damit sich keine Geschosse vorladen lassen,
@@ -325,22 +325,5 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 6.2.4 Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II Abbildung 11 mit der erteilten Kennziffer auf jeder Waffe aufzubringen.
 6.2.5 Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend den Nummern 6.2.1 und 6.2.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II Abbildung 11 aufzubringen.
 6.2.6 Außerdem sind umgebaute Schusswaffen einer Beschussprüfung nach § 3 des Gesetzes zu unterziehen, mit Ausnahme der Schusswaffen nach § 4 Abs. 1 Nr. 2.
-6.3 Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach Nummer 6.1.2
-6.3.1 Schusswaffen sind unbrauchbar, wenn
-  – das Patronenlager dauerhaft so verändert ist, dass weder Munition noch Treibladungen geladen werden können,
-  – der Verschluss dauerhaft funktionsunfähig gemacht worden ist,
-  – in Griffstücken oder anderen wesentlichen Waffenteilen für Handfeuer-Kurzwaffen der Auslösemechanismus dauerhaft funktionsunfähig gemacht worden ist,
-  – bei Kurzwaffen der Lauf auf seiner ganzen Länge, bei Pistolen im Patronenlager beginnend,
-    – bis zur Laufmündung einen durchgehenden Schlitz von mindestens 4 mm Breite oder
-    – im Abstand von jeweils 30 mm, mindestens jedoch drei kalibergroße Bohrungen oder
-    – andere gleichwertige Laufveränderungen
-    aufweist
-  – bei Langwaffen der Lauf unmittelbar in dem dem Patronenlager zugekehrten Drittel
-    – mindestens sechs kalibergroße Bohrungen oder
-    – andere gleichwertige Laufveränderungen
-    aufweist und vor diesen in Richtung der Laufmündung mit einem kalibergroßen gehärteten Stahlstift verschweißt und dauerhaft verschlossen ist.
-6.3.2 Schusswaffen oder deren wesentliche Teile sind dann dauerhaft unbrauchbar gemacht, wenn ihre Schussfähigkeit oder Funktion mit allgemein gebräuchlichen Werkzeugen nicht wieder hergestellt werden können.
-6.3.3 Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie Zeichnungen, aus denen die Art und Weise der Unbrauchbarmachung mit Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster ist bei der zulassenden Stelle zu hinterlegen.
-6.3.4 Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II Abbildung 11 mit der erteilten Kennziffer auf jeder Waffen aufzubringen.
-6.3.5 Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend den Nummern 6.3.1 und 6.3.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II Abbildung 11 aufzubringen.
-6.3.6 Die Festlegungen der Nummern 6.3.1 bis 6.3.5 sind sinngemäß auch auf aus Schusswaffen hergestellte Gegenstände anzuwenden.
+7. Technische Anforderungen an die Unbrauchbarmachung von Schusswaffen
+  Die technischen Anforderungen an die Unbrauchbarmachung von Schusswaffen richten sich nach Anhang I der Durchführungsverordnung (EU) 2015/2403.

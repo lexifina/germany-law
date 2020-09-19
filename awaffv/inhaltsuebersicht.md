@@ -31,11 +31,12 @@
 | § 15 | Umfang der Fachkunde |
 | § 16 | Prüfung |
 |  | Unterabschnitt 2 |
-|  |  | Waffenherstellungs- und Waffenhandelsbücher |
-| § 17 | Grundsätze der Buchführungspflicht |
-| § 18 | Führung der Waffenbücher in gebundener Form |
-| § 19 | Führung der Waffenbücher in Karteiform |
-| § 20 | Führung der Waffenbücher in elektronischer Form |
+|  |  | Ersatzdokumentation |
+| § 17 | Grundsätze für das Führen der Ersatzdokumentation |
+| § 17a | Vorlage und Aufbewahrung der Ersatzdokumentation |
+| § 18 | Führung der Ersatzdokumentation in gebundener Form |
+| § 19 | Führung der Ersatzdokumentation in Karteiform |
+| § 20 | Führung der Ersatzdokumentation in elektronischer Form |
 |  | Unterabschnitt 3 |
 |  |  | Kennzeichnung von Waffen |
 | § 21 | Kennzeichnung von Schusswaffen |
@@ -45,6 +46,11 @@
 | § 23 | Zulassung zum Lehrgang |
 | § 24 | Verzeichnisse |
 | § 25 | Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern |
+| Abschnitt 7a |
+|  | Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen |
+| § 25a | Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen |
+| § 25b | Vernichtung unbrauchbar gemachter Schusswaffen |
+| § 25c | Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen |
 | Abschnitt 8 |
 |  | Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten |
 |  | Unterabschnitt 1 |

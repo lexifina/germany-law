@@ -17,8 +17,8 @@
 | § 10 | Bescheinigung über das Beschussverfahren |
 |  |
 | Abschnitt 3 |
-| Bauartzulassung und Zulassung für besondere Schusswaffen und besondere Munition |
-| § 11 | Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate |
+| Bauartzulassung und Zulassung für besondere Schusswaffen und besondere Munition; Einzelzulassung von unbrauchbar gemachten Schusswaffen |
+| § 11 | Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate; Einzelzulassung von unbrauchbar gemachten Schusswaffen |
 | § 12 | Modellbezeichnung bei Bauartzulassungen |
 | § 13 | Inverkehrbringen von Schussapparaten aus Staaten, mit denen die gegenseitige Anerkennung der Prüfzeichen vereinbart ist |
 | § 14 | Beschaffenheit pyrotechnischer Munition |
@@ -32,6 +32,12 @@
 | § 19 | Zuständigkeit und Zulassungsbescheid |
 | § 20 | Zulassungszeichen |
 | § 21 | Bekanntmachungen |
+|  |
+| Abschnitt 4a |
+| Verfahren bei der Prüfung von unbrauchbar gemachten Schusswaffen |
+| § 21a | Prüfverfahren und Kennzeichnung der geprüften Schusswaffen |
+| § 21b | Maßnahmen zur Verhinderung des Zerlegens |
+| § 21c | Bescheinigung über die Unbrauchbarmachung |
 |  |
 | Abschnitt 5 |
 | Periodische Fabrikationskontrolle, Einzelfallprüfung, Wiederholungsprüfung |
