@@ -1,0 +1,68 @@
+# Beteiligungsausschuss (52. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-21T17:00:00+02:00
+- Ende: 2020-09-21T18:10:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZX-Lt9JIX1mHGHUj2p26QVE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5940
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdCqJXj4jv9l25V6PHerXpPykIWgON7BBFnCc78rpcAM/Bekanntmachung_Beteiligungsausschuss_21.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRP9rjplfjKbRbBsgltSn9ydXjVesi8SbP9TWYgxUv_g/Oeffentliche_Niederschrift_Beteiligungsausschuss_21.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 50. Sitzung des Beteiligungsausschuss am 08.06.2020
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Kunstmuseum Solingen Betriebsgesellschaft mbH: Auswertung der museumspädagogischen Führungen aus dem Jahr 2019
+- TOP 6.: Gläserne Werkstatt Solingen
+- TOP 7.: Jahresabschluss 2019 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 8.: Zustimmung der Umwandlung KRAFTWERKSSCHULE E.V. in eine Genossenschaft und Beteiligung an der Genossenschaft
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 50. Sitzung des Beteiligungsausschuss am 08.06.2020
+- TOP 4.: Protokoll über die 51. Sitzung des Beteiligungsausschuss am 08.06.2020
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Wirtschaftsplan 2020 der Neue Effizienz GmbH - Präsentation mit mündlichem Bericht -
+- TOP 8.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Feststellung des Wirtschaftsplanes 2020 unter besonderer Berücksichtigung einer Zahlung durch die Stadt Solingen
+- TOP 9.: Jahresabschluss 2019 des Zentrum für verfolgte Künste GmbH
+- TOP 10.: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 2 Satz 2 Gemeindeordnung NRW
+- TOP 11.: Bergische Symphoniker GmbH – Grundabnahmen in der Corona-Pandemie
+- TOP 12.: Städtisches Klinikum Solingen gemeinnützige GmbH - Leistungsportfolio mit Klinikaufteilung Zentrum für Innere Medizin (ZIM)
+- TOP 13.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 14.: Altenzentren der Stadt Solingen gemeinnützige GmbH – Belastung eines Grundstücks
+- TOP 15.: Jahresabschluss 2019 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 16.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Omega-Quartier)
+- TOP 17.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Fürkeltrath I))
+- TOP 18.: Jahresabschluss 2019 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 19.: Jahresabschluss 2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 20.: Wirtschaftsplan 2021/2022 Stadtentwicklungsgesellschaft Solingen mbH & Co. KG
+- TOP 21.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 22.: Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH (SEG) – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 23.: Jahresabschluss 2019 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 24.: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2020/2021
+- TOP 25.: Stadtwerke Solingen GmbH - Bestellung eines Jahresabschlussprüfers für den Jah- resabschluss 2019/20
+- TOP 26.: Stadtwerke Solingen GmbH – Kauf- und Abtretungsvertrag über den Kommanditanteil der BürgerEnergieSolingen eG (BESG) an der EfS GmbH & Co. KG sowie aller Geschäftsanteile der BürgerEnergieSolingen eG an der EfS Verwaltungs-GmbH
+- TOP 27.: Wirtschaftsplan 2020/21 der SWS Netze Solingen GmbH
+- TOP 28.: SWS Netze Solingen GmbH - Bestellung eines Jahresabschlussprüfers für den Jahresabschluss 2019/20
+- TOP 29.: Wirtschaftsplan 2020/21 der itec solingen gmbh
+- TOP 30.: itec solingen gmbH - Wahl des Jahresabschlussprüfers für den Jahresabschluss 2019/2020
+- TOP 31.: Wirtschaftsplan 2020 / 2021 EDL Solingen GmbH (EDL)
+- TOP 32.: Konzernabschluss 2019 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 33.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Bergische Symphoniker GmbH
+- TOP 34.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 35.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 36.: Jahresabschluss 2019 der RW Beteiligungs GmbH i.L.
+- TOP 37.: Verschiedenes
+- TOP 37.1: Mitteilungen der Verwaltung
+- TOP 37.2: Anfragen an die Verwaltung
