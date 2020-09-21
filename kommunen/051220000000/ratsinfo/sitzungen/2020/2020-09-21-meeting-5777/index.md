@@ -1,0 +1,55 @@
+# Bezirksvertretung Wald (43. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-21T17:00:00+02:00
+- Ende: 2020-09-21T20:45:00+02:00
+- Ort: Walder Stadtsaal, Friedrich-Ebert-Straße 87, 42719 Solingen, Stadtsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-96
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf9akBVNOpRm3uG1txh6p0w
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5777
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Wald) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWacKKtNi3nw4jH7uJV4fVhDbVls_8ZDSasDOMkKBnIM/Bekanntmachung_Bezirksvertretung_Wald_21.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Wald) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTDl3FF6DC9vbqrc4pF7OFWj_ayxRkqjXV2KmmngNA4H/Oeffentliche_Niederschrift_Bezirksvertretung_Wald_21.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Standort AOK Geschäftsstelle
+- TOP 1.2: Anfrage der Fraktion der CDU zu den Themen Integriertes Stadtteilentwicklungskonzept (ISEK) Wald und Sportstättenförderung
+- TOP 1.3: Offener Ganztag SG Wald
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung der Bezirksvertretung Wald am 15.06.2020
+- TOP 4.: Protokoll über die 42. Sitzung der Bezirksvertretung Wald am 15.06.2020
+- TOP 5.: Freie Budgetmittel 2020
+- TOP 6.: Eingabe nach § 24 GO NRW Öffnung der Röntgenstraße für den Radverkehr entgegen der Fahrtrichtung
+- TOP 7.: Genehmigung der Beschlüsse der als Videokonferenz geführten Sitzung der Bezirksvertretung Wald am 15.06.2020 - Integriertes Stadtteilentwicklungskonzept „Zukunft Wald 2030“ - Freie Budgetmittel 2020 - Einrichtung von Tempo-30-Zonen/-Strecken in Gebieten von Hofschaften, Wohnge- bieten und deren Anbindungen und in Straßen ohne Gehweganlagen - Eingabe Förderverein Jahnkampfbahn vom 17.01.2020 - Verstärkte Nachpflanzungen von zu fällenden Stadtbäumen aufgrund des Klima- wandels - Antrag zur Fällung von Bäumen an der Brücke Fallerslebenweg
+- TOP 8.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 36 Absatz 5 GO NRW - Fahrbahndeckenprogramm 2020
+- TOP 9.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 36 Absatz 5 GO NRW - Bauleitplanung Rembrandtstraße/Locher Straße
+- TOP 10.: Bauleitplanung Rembrandtstraße/Locher Straße Antrag der CDU-Bezirksfraktion vom 17.03.2020
+- TOP 11.: Bauleitplanung Rembrandtstraße/Locher Straße Antrag der SPD-Bezirksfraktion vom 18.03.2020
+- TOP 12.: Bauleitplanung Rembrandtstraße / Locher Straße (W568) Antrag der CDU-Bezirksfraktion vom 09.08.2020
+- TOP 13.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 14.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020 Nähere Informationen für den Stadtbezirk Wald
+- TOP 15.: Zugang Trasse an der Holbeinstraße Antrag der CDU-Bezirksfraktion vom 28.02.2020
+- TOP 16.: Verbesserung Zugang Jahnkampfbahn Antrag der CDU-Bezirksfraktion vom 09.08.2020
+- TOP 16.1: Verbesserung Zugang Jahnkampfbahn
+- TOP 17.: Ungewisse Zukunft des Walder Wochenmarktes Antrag der SPD-Bezirksfraktion vom 28.02.2020
+- TOP 18.: Offener Ganztag Antrag der CDU-Bezirksfraktion vom 03.09.2020
+- TOP 19.: Stolperfallen im Walder Stadtpark beheben Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 07.09.2020
+- TOP 20.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 21.: Städtebauförderprogramm „Investitionspakt zur Förderung von Sportstätten“ 2020 und 2021 – Teilnahme der Stadt Solingen
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen der Verwaltung
+- TOP 22.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Wald
+- TOP 22.1.2: Neuausrichtung der Offenen Kinder- und Jugendarbeit im Stadtbezirk Wald-Mitte
+- TOP 22.1.3: Eingabe nach § 24 GO NRW Öffnung der Röntgenstraße für den Radverkehr entgegen der Fahrtrichtung
+- TOP 22.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung der Bezirksvertretung Wald am 15.06.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
