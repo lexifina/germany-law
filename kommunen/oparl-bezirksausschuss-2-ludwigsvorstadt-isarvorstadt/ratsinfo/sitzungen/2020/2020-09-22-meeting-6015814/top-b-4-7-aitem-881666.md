@@ -1,0 +1,7 @@
+# TOP B 4.7.: Lärmpegelmessung Bereich Thalkirchner Straße, Information des Referates für Gesundheit und Umwelt
+
+- Sitzung: BA 02 - Vollgremium (2020-09-22)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/881666
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/881666
