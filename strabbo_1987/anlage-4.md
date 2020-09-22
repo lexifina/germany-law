@@ -69,7 +69,7 @@
   | G 1 a | Eine dreieckige, auf der Spitze stehende gelbe Tafel mit weißem Rand und schwarzer Kennziffer | Ankündigung der Geschwindigkeitsbeschränkung | Geschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach unten |
   |  |  |  |  |
   |  | Bei beschränktem Raum kann eine Dreieckspitze nach oben zeigen |  |  |
-  | G 1 b | Eine weißleuchtende Kennziffer |  |  |
+  | G 1 b | Eine gelbleuchtende Kennziffer |  |  |
   |  |  |  |  |
   | G 2 a | Eine rechteckige gelbe Tafel mit weißem Rand und schwarzer Kennziffer | Beginn der Geschwindigkeitsbeschränkung |  |
   |  |  |  |  |
