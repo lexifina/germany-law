@@ -1,0 +1,52 @@
+# Ausschuss für Planen, Bauen und Denkmalschutz (58. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-09-22T18:01:00+02:00
+- Ende: 2020-09-22T20:37:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdViaXZRKefXLGjFm0dBY2w
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4610
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Planen, Bauen und Denkmalschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQSvAtNT8OgKuuopgoFIwI9hVOplJUgye1XbTRyOmzhT/Oeffentliche_Niederschrift_Ausschuss_fuer_Planen-_Bauen_und_Denkmalschutz_22.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 1.1: Antrag zur Geschäftsordnung
+- TOP 2.: Niederschrift vom 17.06.2020
+- TOP 3.: Niederschrift vom 12.08.2020
+- TOP 4.: Neubau der Feuer- und Rettungswache - Sachstandsbericht
+- TOP 5.: Neubau eines Teilstandortes der Euregio-Gesamtschule an der Gasstrasse - Sachstandsbericht
+- TOP 6.: Sanierung des denkmalgeschützten Rathauses Konrad-Adenauer-Strasse 1, Sachstand Gesamtkomplex Rathaus und Antrag der Fraktion Pro Bürgerschaft/Piraten - 5 Jastimmen, 6 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Neubau einer Grundschule im Stadtwesten - Schulentwicklungsplanung der Stadt Gronau: Erstellung eines neuen baulichen Entwicklungskonzeptes - Einstimmig, 1 Enthaltungen
+- TOP 8.: Projekt Dritter Ort Gedenk- und Lernort Alte Synagoge Epe - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neubau des historischen Rathauses an der Bahnhofstraße Beteiligung der Stadt Gronau am Projektaufruf 2021 im Rahmen des Bundesprogramms Nationale Projekte des Städtebaus - Einstimmig, 0 Enthaltungen
+- TOP 10.: Teilnahme am Landesprogramm Bau.Land.Partner: Standorte aktivieren! Abschluss einer Konsensvereinbarung zwischen dem Land NRW und der Stadt Gronau - 11 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Antrag auf Aufstellung eines Bebauungsplans im Bereich der Enscheder Straße
+- TOP 12.: Bebauungsplan Nr. 44 "Grüner Weg", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 1 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 60-I "Schwartenkamp", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Beteiligung der Öffentlichkeit gem.§ 3 Abs. 2 BauGB 2. Beteiligung der Behörden gem. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 183 "Westlich der Brookstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Billigung der Plankonzeption 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 187 "Östlich der Eichenhofstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - Einstimmig, 1 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 195 Nordöstlich der Schwarzenbergstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13b BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - 11 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Aufstellung des Bebauungsplans Nr. 197 „Nördlich der Musikantensiedlung“, Stadtteil Gronau. Parallel Aufstellung der 104. Änderung des Flächennutzungsplans Bereich „An der Musikantensiedlung“, Stadtteil Gronau. - 11 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 251 "Wolbertskamp Fortsetzung", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13b BauGB) 1. Billigung der Plankonzeption 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 1 Enthaltungen
+- TOP 19.: 102. Änderung des Flächennutzungsplans für den Bereich "Markenfort", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - 11 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 20.: Auswirkungen der Neufassung des Geschossbegriffs in der Landesbauordnung auf die Praxis
+- TOP 21.: Neufassung/Fortschreibung des Einzelhandelskonzepts für die Stadt Gronau - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Stellenausschreibung Klimaschutzmanager
+- TOP 22.2: Nachbarschaftsstreit Kolpingstraße
+- TOP 22.3: Arbeitskreis Wohnbauentwicklung
+- TOP 22.4: VgV Verfahren historisches Rathaus
+- TOP 23.: Anfragen
+- TOP 23.1: Fahrradbeauftragter Stadt Gronau
+- TOP 23.2: Pachtvertrag Reitverein Bülten
+- TOP 23.3: Klimaschutzmanager
+- TOP 23.4: Schulhof Gesamtschule Gronau
+- TOP 23.5: Lampen Dinkelufer
+- TOP 23.6: Baumfällungen Gleisdreieck
+- TOP 23.7: Schilder Neustraße (Radfahrer)
+- TOP 23.8: Baumfällungen Bereich Eper Str.
