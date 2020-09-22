@@ -1,0 +1,53 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-22T15:00:00+02:00
+- Ende: 2020-09-22T17:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19039
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19039
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket Ö (Stand: 14.09.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00387434.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket Ö (Stand: 14.09.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00387434.pdf
+- Wortprotokoll: Digitales Sitzungspaket Ö (Stand: 14.09.2020) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00387434.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Bestellung einer Schriftführung und Vertretung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 21 (14) Geschäftsordnung des Rates TOP 5 - Prof. Dr. med. Timm (Universitätsklinikum Düsseldorf) - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschriften der Sitzungen vom 26.06.2019, 03.09.2019, 12.11.2019, 03.12.2019, 21.01.2020, 10.03.2020 und 05.06.2020 - einstimmig beschlossen
+- TOP 5: Aktueller Lagebericht "Jugendhilfe in Zeiten von Corona" - hier: Düsselferien unter Corona-Bedingungen und Regelbetrieb in Düsseldorf - zur Kenntnis genommen
+- TOP 6: Präventionsketten Düsseldorf
+- TOP 6.1: Präventionsketten Düsseldorf: "kinderstark - NRW schafft Chancen": Aufruf des MKFFI NRW zur Einreichung von Anträgen auf Projektförderung zu Aufbau und Stärkung kommunaler Präventionsketten - zur Kenntnis genommen
+- TOP 6.2: Präventionsketten Düsseldorf: Psychische Gesundheit bei Kindern, Jugendlichen und jungen Erwachsenen stärken - zur Kenntnis genommen
+- TOP 7: Tageseinrichtungen für Kinder
+- TOP 7.1: Umsetzung des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz - KiBiz) – hier: §48 Zuschuss zur Flexibilisierung der Betreuungszeiten - einstimmig beschlossen
+- TOP 7.2: Umsetzung des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz - KiBiz) - hier: § 47 Landesförderung und Fachberatung - einstimmig beschlossen
+- TOP 7.3: Änderungen in der Kindertagespflege ab 01.08.2020 - hier: Geldleistungen, Qualifikationsanforderungen, Übergangsfrist für Anstellungsträger - einstimmig beschlossen
+- TOP 8: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 8.1: Verfahren im Umgang mit Vorlagen über Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder – 2. Ergänzung - zur Kenntnis genommen
+- TOP 8.2: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Heerstraße 19 - mehrheitlich beschlossen
+- TOP 8.3: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Wittenbruchplatz 10 - mehrheitlich beschlossen
+- TOP 8.4: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Am Neuenhof 3a (Erweiterungsmaßnahme) - mehrheitlich beschlossen
+- TOP 8.5: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Am Neuenhof 3a (Erhaltungs- und Sanierungsmaßnahme) - mehrheitlich beschlossen
+- TOP 8.6: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Sankt-Hippolyt-Weg - abweichend beschlossen
+- TOP 8.7: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Niederkasseler Kirchweg 36 - mehrheitlich beschlossen
+- TOP 8.8: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Diezelweg 30c - mehrheitlich beschlossen
+- TOP 8.9: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Orangeriestraße 1 - mehrheitlich beschlossen
+- TOP 8.10: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Dreherstraße 212 - mehrheitlich beschlossen
+- TOP 8.11: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Hildegard-Knef-Straße 39 - mehrheitlich beschlossen
+- TOP 8.12: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Königsberger Straße 197 - mehrheitlich beschlossen
+- TOP 8.13: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Kaldenberger Straße 6 - mehrheitlich beschlossen
+- TOP 8.14: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Gladbacher Straße 11 - mehrheitlich beschlossen
+- TOP 9: Soziale Dienste
+- TOP 9.1: Controllingbericht Hilfen zur Erziehung (Stand: 31.05.2020) - zur Kenntnis genommen
+- TOP 10: Qualitätsentwicklung nach § 79 a SGB VIII
+- TOP 10.1: Qualitätsentwicklung nach § 79a SGB VIII für das Handlungsfeld: Kooperation von Familienzentren mit Familienbildungseinrichtungen - zur Kenntnis genommen
+- TOP 10.2: Qualitätsentwicklung nach § 79a SGB VIII für das Handlungsfeld: Schulsozialarbeit in Düsseldorf - einstimmig beschlossen
+- TOP 11: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 11.1: Befristete Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Zwergenreich Betriebs-gGmbH - vertagt
+- TOP 12: Fachübergreifende Vorlagen
+- TOP 12.1: Jahresbericht des Jugendamtes 2019 - zur Kenntnis genommen
