@@ -1,0 +1,7 @@
+# TOP D 4.2.: Sport- und Kulturbedarfe in der wachsenden Stadt, Sitzungsvorlagen Nr. 20-26 / V 00758
+
+- Sitzung: BA 02 - Vollgremium (2020-09-22)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/881677
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/881677
