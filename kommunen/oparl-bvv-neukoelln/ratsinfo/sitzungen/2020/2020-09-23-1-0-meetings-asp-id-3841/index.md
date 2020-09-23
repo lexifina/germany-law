@@ -1,0 +1,202 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-09-23T17:00:00+02:00
+- Ende: 2020-09-23T22:35:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3841
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3841
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Offizielle Infotafel Kiezaustausch in der Nachbarschaft - zurückgezogen
+- TOP 1.2: Asbest und Corona - schriftlich beantwortet
+- TOP 1.3: Pop-Up-Radweg Hermannstraße - beantwortet
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Neubauprojekt "Rix" und Neuköllner Modell - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 3.2: Einspruch gegen die Ordnungsmaßnahme gemäß § 56 GO Neukölln - in der BVV abgelehnt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Kein Platz für Brandstifter – Geisel zur Räson rufen! - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Wahl zum Abgeordnetenhaus von Berlin 2021, Neueinteilung der Wahlkreise - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeaussschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Gropiusstadt“ im Bezirk Neukölln von Berlin - überwiesen
+- TOP 6.3: Abberufung von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Computerspende für die Jugendarbeit in Neukölln? - beantwortet
+- TOP 8.2: Orientierungslos in der Haushaltssituation? - beantwortet
+- TOP 8.3: Wohnungsnutzung Weisestraße über dem bisherigen Syndikat - beantwortet
+- TOP 8.4: Bänke und Tische vorm Späti - beantwortet
+- TOP 8.5: Mehr Drogentote im Bezirk? - beantwortet
+- TOP 8.6: Wartezeiten bei Pflegeantragsbearbeitung - beantwortet
+- TOP 8.7: Carl-Legien-Schulgarten: BVV-Beschlüsse von Schulstadträtin ignoriert? - schriftlich beantwortet
+- TOP 8.8: Internetzugang in Geflüchtetenunterkünften in Neukölln - schriftlich beantwortet
+- TOP 8.9: Busspur in der Hermannstraße - schriftlich beantwortet
+- TOP 8.10: Berlin Pass - schriftlich beantwortet
+- TOP 8.11: BVG-Bushaltebuchten in Rudow - schriftlich beantwortet
+- TOP 8.12: Abrissarbeiten auf dem Gelände des ehemaligen BLUB - schriftlich beantwortet
+- TOP 8.13: Abstellplätze für E-Scooter - schriftlich beantwortet
+- TOP 8.14: Baustelle Karl-Marx-Straße - schriftlich beantwortet
+- TOP 8.15: Wie temporär ist ein temporärer Fahrradweg? - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Verlässliche Verwaltung für die Anwohner der Krugpfuhlsiedlung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Seniorenfreizeitstätte Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Türkischen Konsulatsunterricht schnellstmöglich beenden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.4: Umbenennung Haltestelle Jugendheim - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.5: Defekter Notwasserbrunnen Geygerstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.6: Verkehrsspiegel Köpenicker Str. / Kanalstr. / August-Fröhlich-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.7: Laubbeseitigung in Grünanlagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.8: Rekommunalisierung der Schulreinigung in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.9: Flächen- und ressourcensparendes Bauen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.10: Stärkung der Position des/der Integrations-/Migrationsbeauftragten in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.11: Unterstützung von Gastronomie in Corona-Zeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.12: Syndikat-Räumung verhindern! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.13: Tempo 30 in der Hermannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Änderung der Geschäftsordnung I - Fraktionssitzungen und Ausschusssitzungen im Pandemiefall - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Ältestenratssitzungen während der BVV - überwiesen
+- TOP 9.16: Zwischenbericht der BAO Fokus des LKA Berlin veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Ampelanlage Neudecker Weg Ecke August-Fröhlich Straße - in der BVV abgelehnt
+- TOP 9.18: Instandsetzung Notwasserbrunnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Erinnerung an Buckower Felder in Straßennamen bewahren - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Ordnungsamtmitarbeiter und Objektschutzmitarbeiter – Nur noch zu zweit auf Streife - in der BVV abgelehnt
+- TOP 9.21: Ballungsraumzulage - mit Änderungen in der BVV beschlossen
+- TOP 9.22: Hinweisschild für die Donaustraße 89 - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Corona-Infos für Mieter*innen auf die Bezirksamtswebsite stellen - in der BVV abgelehnt
+- TOP 9.24: Sachleistungen statt Taschengeld - in der BVV abgelehnt
+- TOP 9.25: DraußenStadt auch in Neukölln - mit Änderungen in der BVV beschlossen
+- TOP 9.26: Leitfaden Umgang historische Bausubstanz Krugpfuhlsiedlung erstellen - in der BVV abgelehnt
+- TOP 9.27: Personalverstärkung für das Neuköllner Grünflächenamt - in der BVV abgelehnt
+- TOP 9.28: Hinweisschilder an den Eingängen zur Hasenheide erneuern - in der BVV abgelehnt
+- TOP 9.29: Glas-Recycling für alle ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.30: Wissenschaftliche Überprüfung potenzieller Eidechsenhabitate in Neukölln - in der BVV abgelehnt
+- TOP 9.31: Lastenfahrrädern auf den Recyclinghöfen den Vorzug gewähren - mit Änderungen in der BVV beschlossen
+- TOP 9.32: Abschaffung des Fahrverbotes für Dieselfahrzeuge und Lastwagen bis einschließlich Abgasnorm 5 - in der BVV abgelehnt
+- TOP 9.33: Beteiligungsverfahren - in der BVV abgelehnt
+- TOP 9.34: Aus COVID19 lernen - Schule und Kultur widerstandsfähiger gegen Pandemiefälle machen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.35: Schulöffnung in Corona-Zeiten - ohne Änderungen in der BVV beschlossen
+- TOP 9.36: Kein Kind bleibt zurück! - ohne Änderungen in der BVV beschlossen
+- TOP 9.37: Öffnung der Schulhöfe während der Pandemie - in der BVV abgelehnt
+- TOP 9.38: Regelmäßige Informationen zur Corona-Pandemie durch den Bezirk Neukölln - in der BVV abgelehnt
+- TOP 9.39: Masken- und Desinfektionspflicht im Bezirksamt - in der BVV abgelehnt
+- TOP 9.40: Wohnungs- und Sozialamt personell stärken - in der BVV abgelehnt
+- TOP 9.41: Ermittlungsgruppe Rechtsextremismus - in der BVV abgelehnt
+- TOP 9.42: Jahresbericht linksextreme Aktivitäten in Neukölln - in der BVV abgelehnt
+- TOP 9.43: Bündnis Neukölln - in der BVV abgelehnt
+- TOP 9.44: Baustelleninformationsschilder - in der BVV abgelehnt
+- TOP 9.45: Kurzes Ende der Nansenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.46: Radschnellverbindung „Y-Trasse“ für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz - ohne Änderungen in der BVV beschlossen
+- TOP 9.47: Haltestellenumbenennung - in der BVV abgelehnt
+- TOP 9.48: Coronavirus-Hysterie im Bezirk ausrotten! - in der BVV abgelehnt
+- TOP 9.49: Klinikum Neukölln mit Covid-19 Tests ausstatten - in der BVV abgelehnt
+- TOP 9.50: Prinzessinnengärten - Vorbild für Friedhofs-Nachnutzung - vertagt
+- TOP 9.51: Saalestraße / Ecke Zeitzer Straße - in der BVV abgelehnt
+- TOP 9.52: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.53: Barrierefreie Dokumente - ohne Änderungen in der BVV beschlossen
+- TOP 9.54: Neutralitätsklausel bei Zuwendungsbescheiden - vertagt
+- TOP 9.55: Unterstützung für die Guttempler - ohne Änderungen in der BVV beschlossen
+- TOP 9.56: Bezirke nach der Corona-Pandemie nicht „kaputtsparen“! - in der BVV abgelehnt
+- TOP 9.57: Berlins Versorgung mit Arzneimitteln sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.58: Verbindliches Solarausbauziel für Neukölln festlegen - vertagt
+- TOP 9.59: Fahrradfreundlicher Arbeitgeber - vertagt
+- TOP 9.60: Energiesparende LED-Röhren in den BVV-Saal - vertagt
+- TOP 9.61: Automatische E-Mailbestätigung im BVV-Büro einrichten - vertagt
+- TOP 9.62: Flagge zeigen für eine atomwaffenfreie Welt am 8. Juli: Neukölln wird Teil des „Mayors for Peace“-Netzwerks - vertagt
+- TOP 9.63: Sicherer Schulweg über die Blaschkoallee - vertagt
+- TOP 9.64: Straßenschäden Waßmannsdorfer Chaussee - vertagt
+- TOP 9.65: Buschkrugallee am Teltowkanal sicher überqueren - vertagt
+- TOP 9.66: Kreuzung Hermann-/Flughafenstraße für Radverkehr sicherer machen - vertagt
+- TOP 9.67: Sperrung Boddinplatz (Umfahrung) - vertagt
+- TOP 9.68: Bezirksverordnetenversammlung - vertagt
+- TOP 9.69: Coronaausbruch Harzer Str. - vertagt
+- TOP 9.70: Finanzielle Auswirkungen der Corona-Pandemie auf den Bezirk - vertagt
+- TOP 9.71: Periculum in mora! - Demokratie durch Links gefährdet - vertagt
+- TOP 9.72: Stellenwert und Ausstattung der Seniorenvertretung Neukölln - vertagt
+- TOP 9.73: Quarantänebrecher in Neukölln - vertagt
+- TOP 9.74: Neuköllner Verwaltung – interkulturell offen und divers? - vertagt
+- TOP 9.75: Wie weiter mit dem Karstadt am Hermannplatz nach Corona? - vertagt
+- TOP 9.76: Beauftragte für Allerlei, aber Aufgaben des Bezirksamtes werden vernachlässigt - vertagt
+- TOP 9.77: Problemimmobilien im Richard- und Körnerkiez - vertagt
+- TOP 9.78: Neutralitätsgebot bei VHS-Kursen - vertagt
+- TOP 9.79: Aktueller Stand der Schulbauoffensive in Neukölln - schriftlich beantwortet
+- TOP 9.80: Trinkwasserspender für die Grundschule am Fliederbusch - vertagt
+- TOP 9.81: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.82: Mülleimer am Ausgang U-Bahnhof Britz-Süd zur Parkanlage - vertagt
+- TOP 9.83: Konzept für einen verträglichen Tourismus - vertagt
+- TOP 9.84: Grünfläche Kielingerstraße - vertagt
+- TOP 9.85: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - vertagt
+- TOP 9.86: Sicherheit im Tierpark Neukölln - vertagt
+- TOP 9.87: Bäume in Neukölln nachpflanzen - vertagt
+- TOP 9.88: Fairen Einkauf für die Verwaltungen erleichtern - vertagt
+- TOP 9.89: Bushaltestelle Kielingerstraße nicht schön wie wir? - vertagt
+- TOP 9.90: Brände vermeiden - Hausmeister- u. soziale Dienste sicherstellen - vertagt
+- TOP 9.91: Gedenkstein auf dem Garnisonsfriedhof - vertagt
+- TOP 9.92: Neuköllner Kinder- und Jugendparlament - vertagt
+- TOP 9.93: Langzeiterwerbslose nicht vorzeitig in Rente schicken - vertagt
+- TOP 9.94: Keine Zuwendungskürzungen für To Spiti und Al Muntada - vertagt
+- TOP 9.95: Ausweitung der Öffnungszeiten des Drogenkonsumraumes - vertagt
+- TOP 9.96: Werbeflächen für Sozial- und Kultureinrichtungen in Neukölln - vertagt
+- TOP 9.97: Beleuchtung für Blueberry Inn-Umgebung nicht vergessen - vertagt
+- TOP 9.98: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - vertagt
+- TOP 9.99: Informationen über Organspende in Bürgerämtern - vertagt
+- TOP 9.100: Stadtteilbibliotheken sollen einen Namen erhalten - vertagt
+- TOP 9.101: Inklusion als Ziele der Jugendarbeit - vertagt
+- TOP 9.102: Menschen in Alt-Britz nicht alt aussehen lassen - vertagt
+- TOP 9.103: Bebauungsplan 8-36 („Siedlung Neue Heimstatt – Grauwackeweg / Muschelkalkweg“) - vertagt
+- TOP 9.104: Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 190 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b - vertagt
+- TOP 9.105: 75 Jahre Befreiung vom Faschismus angemessen in Neukölln gedenken - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Alternativen für Laubbläser - vertagt
+- TOP 10.2: Inklusion auf Spielplätzen! - vertagt
+- TOP 10.3: Handeln gegen das Bienensterben und Insektensterben – Grünflächen mit Insektenhotels ausstatten - vertagt
+- TOP 10.4: Potenzialanalyse für mehr Grün in Nordneukölln - vertagt
+- TOP 10.5: MUF-Neubau stoppen - vertagt
+- TOP 10.6: Berlinovo Zweckentfremdung? - vertagt
+- TOP 10.7: Übertragung von Mitteln für Pilotprojekte zum lokalen Grundwassermanagement ins Haushaltsjahr 2021 - vertagt
+- TOP 10.8: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - vertagt
+- TOP 10.9: BVV live und archiviert im Internet - vertagt
+- TOP 10.10: Sondernutzung öffentlicher Flächen an touristischen Hotspots - vertagt
+- TOP 10.11: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - vertagt
+- TOP 10.12: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - vertagt
+- TOP 10.13: Köpenicker Straße und Prierosser Straße entlasten - vertagt
+- TOP 10.14: Einbahnstraße Prierosser - vertagt
+- TOP 10.15: Parkraumkonzept für Rudow - vertagt
+- TOP 10.16: Eichenquast Tempo 30 - vertagt
+- TOP 10.17: Bordsteinabsenkung und sichere Querung in der Britzkestraße - vertagt
+- TOP 10.18: Fußgänger-Querungshilfen an Sonnenallee - vertagt
+- TOP 10.19: Fahrverbote in der Silbersteinstraße aufheben - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Digitalisierung der Jugendarbeit in Neukölln - vertagt
+- TOP 11.2: Umweltgerechtigkeit – Monitoring und Umsetzung in Neukölln - vertagt
+- TOP 11.3: Berufsausbildung in Corona-Zeit - schriftlich beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Kinder- und Jugendarbeit sowie Schule in Buckow ausbauen - überwiesen
+- TOP 13.2: Verkehrschaos im Richardkiez auflösen - überwiesen
+- TOP 13.3: Ausbildungskapazitäten im Bezirk ausweiten - überwiesen
+- TOP 13.4: Gute Arbeit in Neukölln - überwiesen
+- TOP 13.5: Änderung der Geschäftsordnung (Entschließung) - überwiesen
+- TOP 13.6: Mehr Platz für Kinder in der Delbrückstraße - überwiesen
+- TOP 13.7: Änderung der Geschäftsordnung (Vorlagen der/des Vorsteherin/Vorstehers) - überwiesen
+- TOP 13.8: Änderung der Geschäftsordnung (Vorlagen des Bezirksamtes) - überwiesen
+- TOP 13.9: Internet für Jung und Alt - überwiesen
+- TOP 13.10: Kritisches Votum zur Niemetzstraße durch den Bezirk - überwiesen
+- TOP 13.11: Stau abbauen! - überwiesen
+- TOP 13.12: Grünflächen und Wasserversickerung in der Warthestraße - überwiesen
+- TOP 13.13: Radschnellverbindung „Y-Trasse“ für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (Rudower Krokusstraße als Fahrradstraße ausweisen) - überwiesen
+- TOP 13.14: Kopftuchverbot für Schülerinnen bis einschließlich Klasse 6 - überwiesen
+- TOP 13.15: Bezirkliche Wochen für Rückkehrer - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Halteverbote anpassen - vertagt
+- TOP 14.2: Alkoholwerbung hat nichts vor Kitas und Schulen verloren - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
