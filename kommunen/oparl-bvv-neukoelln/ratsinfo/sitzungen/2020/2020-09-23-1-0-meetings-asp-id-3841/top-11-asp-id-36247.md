@@ -1,0 +1,7 @@
+# TOP 11: Große Anfragen
+
+- Sitzung: 50. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2020-09-23)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=36247
+- Ergebnis: (offen)
