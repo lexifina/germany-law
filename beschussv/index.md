@@ -38,15 +38,15 @@ Reizstoffsprühgeräten](0016.md)
 - [§ 19 Zuständigkeit und Zulassungsbescheid](0019.md)
 - [§ 20 Zulassungszeichen](0020.md)
 - [§ 21 Bekanntmachungen](0021.md)
+
+## Abschnitt 4a Verfahren bei der Prüfung von unbrauchbar gemachten Schusswaffen
+
 - [§ 21a Prüfverfahren und Kennzeichnung der geprüften Schusswaffen](0021a.md)
 - [§ 21b Maßnahmen zur Verhinderung des Zerlegens](0021b.md)
 - [§ 21c Bescheinigung über die Unbrauchbarmachung](0021c.md)
 
 ## Abschnitt 5 Periodische Fabrikationskontrolle,
 Einzelfallprüfung, Wiederholungsprüfung
-
-
-## Abschnitt 4a Verfahren bei der Prüfung von unbrauchbar gemachten Schusswaffen
 
 - [§ 22 Periodische Fabrikationskontrollen für Schussapparate und Einsteckläufe](0022.md)
 - [§ 23 Überprüfung im Einzelfall](0023.md)
