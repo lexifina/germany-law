@@ -1,0 +1,89 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-09-24T17:00:00+02:00
+- Ende: 2020-09-24T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18982
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18982
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 24.09.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00388361.pdf
+- Ergebnisprotokoll: NachtragsTO vom 24.09.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00388361.pdf
+- Wortprotokoll: NachtragsTO vom 24.09.2020 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00388361.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Starkregenprävention und hydraulische Besonderheiten im Stadtbezirk 8 -Bericht der Verwaltung-
+- TOP 5: Bauvorhaben An der Schützenwiese 40, Aufstellen einer Micromix-Anlage (Betontankstelle) - einstimmig abgelehnt
+- TOP 6: Straßenbenennungen in Unterbach, Karl-Knödl-Straße und Zum Zault - einstimmig beschlossen
+- TOP 7: Straßenbenennung in Eller, Auguste-Leven-Weg - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2020 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Grundstück Bruchgrabenweg 39 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 12: Jugendclub Chemnitzer Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: On Demand Busverkehr Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Grundstück Vennhauser Allee 188 (Anfrage CDU-Fraktion) - beantwortet
+- TOP 15: Geschwindigkeitskontrollen Dillenburger Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Situation Gehwege Ludwigstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Verkehrssituation Wormser Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Durchgang S-Bahnhof Eller Süd (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 19: Fahrradboxen an S-Bahnhöfen im Stadtbezirk 8 (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 20: Teilüberplanung Freiheitplatz (Antrag CDU-Fraktion) - mehrheitlich beschlossen
+- TOP 21: Radweg Reisholzer Straße (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 22: Bänke auf dem Breidenplatz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Aufsuchende Sozialarbeit auf dem Gertrudisplatz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Bänke an der Düssel im Bereich Ludwigstraße/Haustertshofweg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Hundeauslaufplätze (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Papierkorb Am Kleinforst / 100-m-Brücke (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Einzäunung Hundeauslaufplatz Südliche Düssel (Antrag SPD-Fraktion) - vertagt
+- TOP 28: Einrichtung eines runden Tisches Freiheitsplatz in Vennhausen (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 29: Sanierung Fußweg Waldenburger Weg 6-8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Laternen Oderstraße / Kreuzburger Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 31: Papierkörbe Kreuzburger Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Zebrastreifen Bürgerpark Am Stufstock (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Beleuchtung Durchgang Weichselstraße / Am Hackenbruch (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 34: Parken An der Schützenwiese (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 35: Containerstandort Reichenbacher Weg / Eller Kamp (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 36: Baumbeleuchtung auf dem Freiheitplatz, Stadtteilzentrum Lierenfeld und Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 37: verkehrsberuhigter Bereich am Kinderspielplatz Dillenburger Weg / Grüner Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 38: S-Bahnhof Düsseldorf Eller-Süd (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 39: Verbindungsweg Denkmal Unterbach/Friedhof Unterbach - zur Kenntnis genommen
+- TOP 40: Kirchpark Posener Straße / Schlesische Straße - Papierkörbe - zur Kenntnis genommen
+- TOP 41: Brücke über die Bahnlinie Düsseldorf-Solingen Am Kleinforst - zur Kenntnis genommen
+- TOP 42: Aufstellen eines Müllbehälters - Robertstraße 2 - zur Kenntnis genommen
+- TOP 43: Verbesserung der Beleuchtungssituation und des Straßenzustandes auf dem Gatherweg, Am Stufstock und Unterbacher Straße - zur Kenntnis genommen
+- TOP 44: Tempo 30 auf der Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 45: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 46: Landschaftsplan und Entwicklungsbereiche im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Bürgerhaus Eller / Bürgersaal Eller - zur Kenntnis genommen
+- TOP 48: Informationen zur COVID19-App im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Glashüttenstraße / Vennhauser Allee - Ausbesserung Fahrbahndecke auf der Rechtsabbiegespur - zur Kenntnis genommen
+- TOP 50: Abstandsregelungen, Maskenpflicht und weitere Maßnahmen zum Schutz vor einer COVID19-Erkrankung - zur Kenntnis genommen
+- TOP 51: Grünschnitt an Geh- und Fahrradwegen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Ortsumgehung Flingern mit Rad- und Gehwegen - zur Kenntnis genommen
+- TOP 53: Jugendarbeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: U-Bahn Tunnel unter dem Eller Zentrum - zur Kenntnis genommen
+- TOP 55: Verkehrswende und SPNV-Halte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Einrichtung von Zebrastreifen auf dem Bingener Weg und Am Schabernack - zur Kenntnis genommen
+- TOP 57: Barrierefreies Eller: Stadtraum neu gestalten, Planungen vorlegen, Bürgerbeteiligung beginnen - zur Kenntnis genommen
+- TOP 58: Halteverbote Gather Weg / Wilhelm-Heinrich-Weg - zur Kenntnis genommen
+- TOP 59: Park & Ride-Platz an der A46/A59 mit Schienenanbindung - zur Kenntnis genommen
+- TOP 60: Querung Höherweg auf Höhe des KGV Solidarität - zur Kenntnis genommen
+- TOP 61: Toilettenanlage im Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 62: Einrichtung einer Schnell- / Metrobuslinie aus Richtung Erkrath, Hilden und Solingen - zur Kenntnis genommen
+- TOP 63: Sandträgerweg – Übergang an der Südlichen Düssel - zur Kenntnis genommen
+- TOP 64: Installation eines Trinkwasserbrunnens am Unterbacher See-Südstrand - zur Kenntnis genommen
+- TOP 65: Gedenkort Höher Weg - zur Kenntnis genommen
+- TOP 66: Friedhofkapelle Unterbach - zur Kenntnis genommen
+- TOP 67: Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 68: Baumfällungen im Schlosspark Eller - zur Kenntnis genommen
+- TOP 69: Lärmschutz Güterzugstrecke Rath-Eller - zur Kenntnis genommen
+- TOP 70: Anpassung der Markierung im Bereich Kuthsweg in Fahrtrichtung Reisholzer Straße - zur Kenntnis genommen
+- TOP 71: Anwendung von Pflanzenschutzmitteln am nördlichen Rand von Unterbach - zur Kenntnis genommen
+- TOP 72: Kultur Bahnhof Eller - zur Kenntnis genommen
