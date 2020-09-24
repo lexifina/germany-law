@@ -1,0 +1,56 @@
+# Bezirksvertretung Mitte (45. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-24T16:00:00+02:00
+- Ende: 2020-09-24T18:15:00+02:00
+- Ort: Zentrum Frieden, Wupperstraße 120, 42651 Solingen, Gemeinschaftsraum
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZY2PL_X9dHJeCDW9Mn5E53U
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5758
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRjw_bi82nQ9o6unTPlhcyOL_LcLu3lKeb2ejlkgrba_/Bekanntmachung_Bezirksvertretung_Mitte_24.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRP4s3_jfkYZiq2toQRDLccKWN9BTj6Nskjy-AOLddLn/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_24.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Finanzielle Situation Probenhaus Monkeys
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen
+- TOP 3.: Protokoll über die 44. Sitzung der Bezirksvertretung Mitte am 18.06.2020
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 36 Absatz 5 GO NRW - Fahrbahndeckenprogramm 2020 - Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 679 sowie Satzungsbeschluss zum Bebauungsplan H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 3)
+- TOP 5.: Genehmigung des Beschlusses in der als Videokonferenz geführten Sitzung der Bezirksvertretung Mitte am 20.05.2020 - Bauleitplanung Am Neumarkt/ Kölner Straße
+- TOP 6.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Teilaufhebung des Bebauungsplanes S 117 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Teilaufhebung des Bebauungsplanes S 117 für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Wernerstraße, Sudetenstraße, Kuller Straße, Schlachthofstraße, Kronprinzenstraße, Obere Dammstraße, Albrechtstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 7.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Aufhebung des Bebauungsplanes S 338 – Teil B sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Aufhebung des Bebauungsplanes S 338 – Teil B für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Kuller Straße, Schlachthofstraße, Obere Dammstraße, Albrechtstraße, Kronprinzenstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 8.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 8.1: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020 Nähere Informationen für den Stadtbezirk Mitte
+- TOP 9.: Finanzielle Situation des Probenhauses Monkeys - mündlicher Bericht -
+- TOP 10.: Investitionspakt Soziale Integration im Quartier NRW 2018 hier: Neubau eines integrativen Spielplatzes in der Grünanlage Dickenbusch
+- TOP 11.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 12.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise
+- TOP 13.: Freie Budgetmittel
+- TOP 14.: Verschiedenes
+- TOP 14.1: Mitteilungen der Verwaltung
+- TOP 14.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Mitte
+- TOP 14.1.2: Prüfauftrag Kreisverkehr Werwolf
+- TOP 14.1.3: Gläserne Werkstatt Solingen
+- TOP 14.1.4: Kündigung des Patenschaftsvertrages des Vereins "Lebenswertes Solingen e. V." für den Coppelpark
+- TOP 14.2: Anfragen an die Verwaltung
+- TOP 14.2.1: Verkehrssituation Am Kannenhof/Carl-von-Ossietzky-Straße
+- TOP 14.2.2: Parkuhren am Peter-Hahn-Weg
+- TOP 14.2.3: Gastronomie auf der Bergstraße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 44. Sitzung der Bezirksvertretung Mitte am 18.06.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
