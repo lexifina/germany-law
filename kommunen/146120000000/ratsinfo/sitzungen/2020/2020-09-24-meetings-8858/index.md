@@ -1,0 +1,84 @@
+# 16. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-09-24T16:00:00+02:00
+- Ende: 2020-09-24T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8858
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8858
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00498946.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters - Einbringung des Haushaltsentwurfes 2021/2022
+- TOP 1.1: Haushaltssatzung 2021/2022 und Wirtschaftspläne der Eigenbetriebe 2021/2022 - erledigt
+- TOP 2: Aktuelle Stunde - Einführung der 5G-Technologie in Dresden - Bürger umfassend beteiligen und entscheiden lassen - erledigt
+- TOP 3: Einführung der 5G-Technologie in Dresden – Bürger umfassend beteiligen und entscheiden lassen - Ersetzung
+- TOP 4: Fragestunde der Mitglieder des Stadtrates (1 Runde)
+- TOP 4.1: Umgang mit Verstößen gegen Auflagen bei der Veranstaltung im Zusammenhang mit Pegida am 14.09.2020 - erledigt
+- TOP 4.2: Umsetzung des Stadtratsbeschlusses zur Verbesserung der Verkehrssituation Wernerstraße - erledigt
+- TOP 4.3: Denkmal für die Opfer des Bomenangriffs am 13./14. Februar 1945 auf dem Altmarkt - erledigt
+- TOP 4.4: Anfrage zur Vergabenummer 2015-1042-00065 Handelspartnerrahmenvertrag für den Erwerb von Microsoft-Lizenzen nach den Vertragskonditionen des Microsoft Select Plus – Rahmenvertrages für die Landeshauptstadt Dresden - erledigt
+- TOP 4.5: Flurstücksnummer 997/11, Gemarkung Altstadt I - erledigt
+- TOP 4.6: Kommunales Sommerschulprogramm 2020 - erledigt
+- TOP 4.7: 5G Sendeanlagen an städtischer Infrastruktur - erledigt
+- TOP 4.8: Bericht des Oberbürgermeisters - erledigt
+- TOP 5: Wahl der/des Beigeordneten für Stadtentwicklung, Bau, Verkehr und Liegenschaften - gewählt
+- TOP 6: Bestimmung eines stellvertretenden Verbandsrates für den Regionalen Planungsverband "Oberes Elbtal/Osterzgebirge" gemäß § 10 Abs. 1 und 2 SächsLPlG - Einigung
+- TOP 7: Umbesetzung von Stellvertretern im Jugendhilfeausschuss - Einigung
+- TOP 8: Umbesetzung im Umlegungsausschuss - Vertagung durch Einreicher
+- TOP 9: Einigungsverfahren Gremienbesetzung
+- TOP 9.1: Aussschuss Allgemeine Verwaltung, Ordnung, Sicherheit (Eigenbetrieb IT-Dienstleistungen)
+- TOP 9.2: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtung)
+- TOP 9.3: Ausschuss für Finanzen
+- TOP 9.4: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden)
+- TOP 9.5: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium)
+- TOP 9.6: Ausschuss für Petitionen und Bürgerbeteiligung
+- TOP 9.7: Ausschuss für Soziales und Wohnen
+- TOP 9.8: Ausschuss für Sport (Eigenbetrieb Sportstätten)
+- TOP 9.9: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften
+- TOP 9.10: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung)
+- TOP 9.11: Ausschuss für Wirtschaftsförderung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Jahresabschluss 2019 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 12: Jahresabschluss 2019 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 13: Jahresabschluss 2019 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 14: Jahresabschluss 2019 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 15: Errichtung eines zentralen Bauauslagerungsstandortes (ZBauAS), Schilfweg 3 in 01237 Dresden - punktweise Zustimmung mit Änderung
+- TOP 16: Aufnahme von zwei Kindertageseinrichtungen in der Marta-Fraenkel-Straße 6 und 8 in 01097 Dresden in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2020/2021 und Betreibung durch den Träger Malwina e. V. - Zustimmung
+- TOP 17: Fortführung der Förderung von Angeboten der Schulsozialarbeit in 2020 im Rahmen des „Stressszenarios“ - Zustimmung mit Ergänzung
+- TOP 18: Veränderungssperre für Bebauungsplan Nr. 3046, Dresden-Hellerau Nr. 15, Rähnitz-Nord - Zustimmung
+- TOP 19: Änderung der „Dresdner Richtlinie zur sozialen Mietwohnraumförderung“ vom 7. September 2017 - Zustimmung
+- TOP 20: Veränderungssperre für Bebauungsplan Nr. 3062, Dresden-Klotzsche Nr. 18, Flughafenstraße - Zustimmung
+- TOP 21: Befristete, Corona-Pandemie-bedingte Mietpreisreduzierung im Konzertsaal im Kulturpalast Dresden ab Oktober 2020 - Zustimmung
+- TOP 22: Änderungsverordnung zur Verordnung der Landeshauptstadt Dresden vom 12. Dezember 2019 über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2020 - Zustimmung
+- TOP 23: Übernahme von Annextätigkeiten durch die WiD Wohnen in Dresden GmbH & Co. KG - Zustimmung mit Änderung
+- TOP 24: Vertagungen letzte Stadtratssitzung am 03.09.2020
+- TOP 24.1: Bäume für Dresden - - Vertagung nach 22 Uhr
+- TOP 24.2: Verbesserung der Verkehrssicherheit durch Beräumung von Verkehrshindernissen (E-Scootern) - Vertagung nach 22 Uhr
+- TOP 24.3: Elektrokleinstfahrzeuge in Dresden - Vertagung nach 22 Uhr
+- TOP 24.4: Wald erfahren – Waldpädagogisches Zentrum in der Dresdner Heide etablieren - Zustimmung mit Ergänzung
+- TOP 24.5: Weiterentwicklung der Förderung des bürgerlichen Engagements - Vertagung nach 22 Uhr
+- TOP 24.6: Ein Netz für alle - Bildungsgerechtigkeit in Dresden fördern - Vertagung nach 22 Uhr
+- TOP 24.7: Temporäre Außerkraftsetzung der Regelung zur jährlichen Anpassung der Entschädigungshöhe in der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger - Vertagung nach 22 Uhr
+- TOP 24.8: Corona-bedingte Anpassung der Pauschalentschädigungen für Stadträte - Vertagung nach 22 Uhr
+- TOP 24.9: Stärkung des Wirtschaftsstandortes Dresden - Vertagung nach 22 Uhr
+- TOP 24.10: Haushaltssatzung der Landeshauptstadt Dresden für die Jahre 2021 und 2022 - zurückgezogen
+- TOP 24.11: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung
+- TOP 24.12: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung
+- TOP 24.13: Einrichtung von eingezäunten Hundeparks/-spielplätzen in der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 24.14: Zulassung von Feuerwerken in Dresden - Vertagung nach 22 Uhr
+- TOP 25: Bestätigung von Mehrkosten im Rahmen der investiven Sportförderung für das Fördervorhaben: Neubau Trainingszentrum für die SG Dynamo Dresden e. V. im Ostragehege Dresden - Vertagung
+- TOP 26: Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2020 und 2021 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 27: Sanierung, Umbau und Nutzungserweiterung der Margon Arena, Bodenbacher Straße 154 in 01277 Dresden sowie Errichtung eines Parkhauses - punktweise Zustimmung mit Änderung
+- TOP 28: Erneuerung des Korrosionsschutzes und Instandsetzung von Stahlbauteilen der Loschwitz Blasewitzer Brücke - Vertagung nach 22 Uhr
+- TOP 29: Neuregelung der Rechtsverhältnisse für das Krematorium Dresden-Tolkewitz des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 30: Würdevolles Gedenken - lebendiges Erbe. - Vertagung nach 22 Uhr
+- TOP 31: Betriebskosten bei Wohnungen für besondere Bedarfsgruppen - Vertagung
+- TOP 32: Überprüfung der Rechtsform der Dresdner Volkshochschule e.V. - Vertagung nach 22 Uhr
+- TOP 33: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung
+- TOP 35: Evaluation Schulnetzplan - zur Kenntnis genommen
+- TOP 36: Haushaltsvollzug 2020 - Finanzzwischenbericht/Zwischenberichte der Eigenbetriebe 2020 sowie Information über den vorläufigen Jahresabschluss 2019 - zur Kenntnis genommen
