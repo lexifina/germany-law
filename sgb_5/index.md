@@ -505,7 +505,14 @@ Entwicklung im Gesundheitswesen
 - [§ 169 Haftung im Insolvenzfall](0169.md)
 - [§ 170 Deckungskapital für Altersversorgungsverpflichtungen, Verordnungsermächtigung](0170.md)
 - [§ 171 (weggefallen)](0171.md)
+- [§ 171a (weggefallen)](0171a.md)
+- [§ 171b (weggefallen)](0171b.md)
+- [§ 171c (weggefallen)](0171c.md)
+- [§ 171d (weggefallen)](0171d.md)
+- [§ 171e (weggefallen)](0171e.md)
+- [§ 171f (weggefallen)](0171f.md)
 - [§ 172 (weggefallen)](0172.md)
+- [§ 172a (weggefallen)](0172a.md)
 
 ### Zweiter Abschnitt Wahlrechte der Mitglieder
 

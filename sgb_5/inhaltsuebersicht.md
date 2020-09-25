@@ -56,7 +56,7 @@
 | Dritter Titel | Vereinigung, Schließung und Insolvenz von Krankenkassen | §§ 155 bis 164 |
 | Vierter Titel | Folgen der Auflösung, der Schließung und der Insolvenz | § 165 bis 170 |
 |  |  |  |
-|  | (weggefallen) | §§ 171 und 172 |
+|  | (weggefallen) | §§ 171 bis 172a |
 | Zweiter Abschnitt | Wahlrechte der Mitglieder ........... | §§ 173 bis 175 |
 | Erster Titel | (weggefallen) |  |
 | Zweiter Titel | (weggefallen) ....... | §§ 176 bis 185 |
