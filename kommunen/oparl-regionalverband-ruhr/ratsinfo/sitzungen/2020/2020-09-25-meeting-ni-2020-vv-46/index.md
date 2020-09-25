@@ -1,0 +1,76 @@
+# 28. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2020-09-25T10:00:00+02:00
+- Ende: 2020-09-25T11:30:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-46
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-46
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-VV-46
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-VV-46
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-VV-46
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 15.06.2020
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 1.1: Aufstellungsbeschluss zur 10. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe (GEP E-L), auf dem Gebiet der Stadt Haltern am See - Erweiterung eines Bereichs für die Sicherung und den Abbau oberflächennaher Bodenschätze (BSAB)
+- TOP 1.2: Aufstellungsbeschluss zur 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop – Umwandlung eines Allgemeinen Freiraum- und Agrarbereichs mit den Freiraumfunktionen Schutz der Landschaft und landschaftsorientierte Erholung (BSLE) und Regionaler Grünzug in einen Bereich für gewerbliche und industrielle Nutzung (GIB) für zweckgebundene Nutzungen sowie Ergänzung einer textlichen Festlegung zum GIB für zweckgebundene Nutzungen
+- TOP 1.3: Veranlassung der Bekanntmachung in fünf Regionalplanänderungsverfahren
+- TOP 1.4: Anfrage zum Zeitplan des Regionalplans Ruhr
+- TOP 1.4.1: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen zum Zeitplan des Regionalplans Ruhr
+- TOP 1.4.2: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Zeitplan des Regionalplans Ruhr
+- TOP 1.5: Anfragen und Mitteilungen
+- TOP 1.5.1: Verfahrenserleichterungen des PlanSiG
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Bestellung von Vertretern in die Organe der Beteiligungsgesellschaften hier: Aufsichtsrat der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH (AGR)
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.2: Bericht des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW über die Prüfung des Jahresabschlusses 2018, Feststellung des Jahresabschlusses 2018 und Entlastung der Regionaldirektorin, Karola Geiß-Netthöfel, für den Zeitraum 01.01.2018 bis 31.12.2018
+- TOP 2.3: Beschluss über die Behandlung des Jahresüberschusses 2018
+- TOP 2.4: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2020 und 2021 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen
+- TOP 2.5: Bekanntgabe der in der Zeit vom 01.01.2020 – 31.07.2020 für das Haushalts-jahr 2020 genehmigten Haushaltsüberschreitung
+- TOP 2.6: Ermächtigungsübertragungen 2019/2020 gem. § 22 KomHVO NRW - Korrektur der Position I12100-051 – Ankauf Waldflächen von der RAG
+- TOP 2.7: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung (2022-2024)
+- TOP 2.8: Fortschreibung des Gleichstellungsplans 2020 – 2025 zur Gleichstellung von Frauen und Männern beim RVR 2016 – 2019 inkl. Abschlussbericht zur Umsetzung des Gleichstellungsplans 2016 – 2019
+- TOP 2.9: Sitzungsgeld für Online-Fraktionssitzungen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.10: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Gesellschaft zum 01.01.2021
+- TOP 2.10.1: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Gesellschaft zum 01.01.2021 hier: Änderungsantrag zur Drucksache 13/1445-1
+- TOP 2.10.2: Änderungsantrag zur Beschlussvorlage Drucksache Nr. 13/1445 Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Neustrukturierung der Zusammenarbeit mit der Stadt Herne
+- TOP 2.11: Bericht über die Beteiligungen für das Jahr 2018 gemäß GO NRW
+- TOP 2.12: Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften - Sachstandsbericht mit finanziellen Auswirkungen und zu erwartenden Sonderzuschüssen zum 31.12.2020
+- TOP 2.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – AGR GmbH
+- TOP 2.13.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – AGR GmbH
+- TOP 2.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH – RZR II Herten GmbH
+- TOP 2.15: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Maximilianpark Hamm GmbH
+- TOP 2.16: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Umweltzentrum Westfalen GmbH
+- TOP 2.17: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Kultur Ruhr GmbH
+- TOP 2.18: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Wischlingen GmbH
+- TOP 2.19: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Business Metropole Ruhr GmbH
+- TOP 2.20: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Ruhr Tourismus GmbH
+- TOP 2.21: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 2.22: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 2.23: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Freizeitzentrum Xanten GmbH
+- TOP 2.24: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Seegesellschaft Haltern mbH
+- TOP 2.25: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Revierpark Gysenberg Herne GmbH
+- TOP 2.26: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - TouristikEisenbahn Ruhrgebiet GmbH
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.27: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr
+- TOP 2.28: Regionales Wohnungsmarktkonzept Hier: Antragstellung ZUKUR II
+- TOP 2.28.1: Regionales Wohnungsmarktkonzept Hier: Antragstellung ZUKUR II
+- TOP 2.29: Fortführung der Luftbildkooperation - regelmäßige, verbandsweite Bereitsstellung der Luftbildprodukte als umlagefinanzierte Aufgabe des RVR
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.30: Festellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2019 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.31: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Kürzung des Betriebskostenzuschusses an RVR Ruhr Grün im Haushaltsjahr 2020
+- TOP -: Vorlage aus dem Kultur- und Sportausschuss
+- TOP 2.32: Förderanträge Regionale Sportförderung und Förderfonds Interkultur Ruhr
+- TOP -: Antrag auf Aufnahme eines Tagesordnungspunktes
+- TOP 2.33: Einführung eines Sozialtarifs in den Freizeitgesellschaften
+- TOP 2.34: Anfragen und Mitteilungen
+- TOP 2.34.1: Möglichkeiten einer Rückführung von industriell genutzten Flächen in das Verbandsverzeichnis Grünflächen
+- TOP 2.34.2: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Vergütung nebenamtliche Geschäftsführertätigkeiten
