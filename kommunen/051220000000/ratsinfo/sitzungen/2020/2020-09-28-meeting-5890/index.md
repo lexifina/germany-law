@@ -1,0 +1,67 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (54. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-28T18:03:00+02:00
+- Ende: 2020-09-28T20:18:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeW3zRI-pxlCntuXHtmshos
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5890
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaTs32LIQFazN8Ut5PFmQtXgnGXuaPnsT_aOupObz1gW/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_28.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQBqKnYrY9qv0Kt_dalDtd3MV3WEqzFOXcyHl_DsKlDE/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_28.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Geschwindigkeitsüberwachung Katternberger Straße
+- TOP 1.2: Radfahrerunfall an der Burger Höhe
+- TOP 1.3: Anerkennung für VRR-Abonnenten
+- TOP 1.4: Innovatives Mobilitätskonzept für das Gebiet Stöcken 17“
+- TOP 1.5: Anfrage der Fraktion Bündnis 90 Die Grünen zu Mikroplastik in Fließgewässern
+- TOP 1.6: Beantwortung zum "Sofortprogramm Innenstadt 2020" -Anfrage der FDP Fraktion zum ASUKM am 28.09.2020
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 50. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 15.06.2020 - gemeinsame Sitzung mit der Bezirksvertretung Wald
+- TOP 4.: Protokoll über die 51. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 15.06.2020
+- TOP 5.: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 5.1: Fahrbahndecken- und Gehwegprogramm 2021
+- TOP 6.: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020
+- TOP 6.1: Arbeitsprogramm für die Bauleitplanung Aktualisierung und Fortschreibung 2020 Informationen zu den Verfahrensständen
+- TOP 7.: Mehr Sicherheit im Radverkehr angesichts des erweiterten Schulbetriebs in der Corona-Krise
+- TOP 8.: Bauleitplanung Scheidter Feld Beschluss über die 1. Verlängerung der Veränderungssperre (Nr. 169/ 607) gem. § 17 Abs. 1 BauGB für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Obere Dammstraße und östlich der Straße Scheidter Feld
+- TOP 9.: Bauleitplanung Scheidter Feld Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zum Vorentwurf des Bebauungsplanes S 607 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes S 607 für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Obere Dammstraße und östlich der Straße Scheidter Feld (Beschluss 2) – Stadtbezirk Gräfrath –
+- TOP 10.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Aufhebung des Bebauungsplanes S 338 – Teil B sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Aufhebung des Bebauungsplanes S 338 – Teil B für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Kuller Straße, Schlachthofstraße, Obere Dammstraße, Albrechtstraße, Kronprinzenstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 11.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zur Teilaufhebung des Bebauungsplanes S 117 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zur Teilaufhebung des Bebauungsplanes S 117 für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Wernerstraße, Sudetenstraße, Kuller Straße, Schlachthofstraße, Kronprinzenstraße, Obere Dammstraße, Albrechtstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 2) – Stadtbezirke Mitte und Gräfrath –
+- TOP 12.: Bauleitplanung Lützowstraße/ Untere Holzstraße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes G 629 sowie Satzungsbeschluss zum Bebauungsplan G 629 für das Gebiet östlich der Lützowstraße und nördlich der Unteren Holzstraße (Beschluss 3) – Stadtbezirk Gräfrath –
+- TOP 13.: Sachstandsbericht zum „Runden Tisch Wald“
+- TOP 14.: Schottergärten Antrag aus dem Beirat Untere Naturschutzbehörde
+- TOP 15.: Konzept zur Waldbewirtschaftung in den Wasserschutzzonen der Sengbachtalsperre. - mündlicher Bericht -
+- TOP 15.1: Konzept zur Waldbewirtschaftung in den Wasserschutzzonen der Sengbachtalsperre. Gemeinsamer Antrag der Ratsfraktionen CDU und SPD vom 28.09.2020
+- TOP 16.: European Energy Award ® - Energiepolitisches Arbeitsprogramm 2020-2025
+- TOP 17.: Nachhaltiges Mobilitätskonzept für den Bereich um den Neumarkt
+- TOP 18.: Kostenloses zwischenlagern von Einkäufen Antrag der Ratsfraktion BfS vom 20.08.2020
+- TOP 19.: Gläserne Werkstatt Solingen
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Sachstand Kreisverkehr Bonner Straße
+- TOP 20.1.2: Sanierung des denkmalgeschützten Tropenhauses im Botanischen Garten durch die Stiftung Botanischer Garten e. V.
+- TOP 20.1.3: Information über ein verwaltungsgerichtliches Verfahren zur Erweiterung des Lebensmitteldiscounters an der Scheidter Straße Hier: Ergebnis der Verhandlung vor dem Verwaltungsgericht Düsseldorf
+- TOP 20.1.4: Solingen bleibt „Fairtrade-Town“, Stadt des Fairen Handels Sachstand zu ausgewählten Umsetzungsaktivitäten
+- TOP 20.1.5: Siedlungsflächenmonitoring der Bezirksregierung Düsseldorf Potenzialflächen der Stadt Solingen
+- TOP 21.: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 51. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 15.06.2020
+- TOP 4.: Wirtschaftsplan 2021/2022 Stadtentwicklungsgesellschaft Solingen mbH & Co. KG
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 6.: Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH (SEG) – Bestellung Wirtschaftsprüfer zum Jahresabschluss 2020
+- TOP 7.: Vergabe von Planungsleistungen im Rahmen der Umgestaltung des Vorplatzes am östlichen Bahnhofausgang im Rahmen eines VgV-Verfahrens
+- TOP 8.: Vergabe von Planungsleistungen im Rahmen der Umgestaltung der Düsseldorfer Straße und des Ohligser Marktes im Rahmen eines VgV-Verfahrens
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.1.1: Bauleitplanung ehemaliges Freibad Höher Heide hier: Information über eine Normenkontrollklage zum vorhabenbezogenen Bebauungsplan (zugleich Vorhaben- und Erschließungsplan) H 671
+- TOP 9.1.2: Straßenbeleuchtung Unterburg: aktueller Sachstand
+- TOP 9.2: Anfragen an die Verwaltung
