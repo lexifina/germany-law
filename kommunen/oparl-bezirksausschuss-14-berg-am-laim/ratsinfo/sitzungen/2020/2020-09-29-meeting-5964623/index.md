@@ -1,0 +1,144 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2020-09-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5964623
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5964623
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Bürgerfragen
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Ausbau der sozialen Infrastruktur in Berg am Laim: Ausreichende Seniorenbetreuung, Neubau eines Alten- und Servicezentrums (ASZ), Kinderbetreuung und Grundschulplätze im Viertel realisieren
+- TOP 1.2.1.: Protokoll/e der Sitzung vom 30.06.2020 Protokoll/e der Sitzung vom 21.07.2020 Protokoll/e der Sitzung vom 25.08.2020
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbesetzung folgender Unterausschüsse: 1. UA Budget / Organisation mit stellvertretendem Vorsitz 2. UA Planung, Bauvorhaben und Baumschutz, Umweltschutz 3. UA Städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 Beschluss des Bezirksausschusses des Stadtbezirkes 14 vom 29.09.2020 Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3.1.: Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Friedenstraße 2, Neubau Bürogebäude Neue Arbeitswelten Friedenstr. 2 (vertagt aus 08/20)
+- TOP 3.1.2.: Levelingstraße 16, Neubau eines Bürohauses mit Tiefgarage
+- TOP 3.1.3.: Kinkstraße 3, Neubau von Mietwohnungen mit Tiefgarage
+- TOP 3.1.4.: Testweise Einführung von Wertstofftonnen in Berg am Laim; Antrag FDP
+- TOP 3.1.5.: Wann werden die Boulebahn und der Fitnesspark im Michaelianger realisiert? Antrag CSU-Fraktion
+- TOP 3.1.6.: Bessere Aufenthaltsqualität am Grünen Markt; Antrag CSU-Fraktion
+- TOP 3.1.7.: Bürgerhaus Krautgarten Berg am Laim; Bürgeranliegen
+- TOP 3.1.8.: Begrünung des Gebäudes Hermann-Weinhauser-Straße 90; Antrag Fraktion Die Grünen
+- TOP 3.1.9.: Fußgängerunterführung unter Innsbrucker Ring im Bereich zwischen Haus Nr. 70 und Schule (HsNr 75) bzw. (verlängerter) Grünanlage Piusplatz und angrenzende Stützwände der Rampe hier: Schmierschriften an Unterführungs- und Rampenwänden, Klären des weiteren Vorgehens
+- TOP 3.1.10.: Bienenautomaten für Berg am Laim und München, Antrag SPD-Fraktion
+- TOP 3.1.11.: Toilette für alle im Kulturbürgerhaus; Antrag MdBA 14
+- TOP 3.1.12.: Barrierefreie Müllentsorgung mit Unterflurcontainern, Antrag MdBA 14
+- TOP 3.2.: Städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Die Krise als Chance für den Ausbau der sozialen Infrastruktur in Berg am Laim nutzen: München kauft das "Bogner"-Grundstück; Antrag SPD-Fraktion
+- TOP 3.2.2.: Neubau des Alten- und Servicezentrums (ASZ), Berg am Laim; Antrag Fraktion Die Grünen
+- TOP 3.2.3.: Deckung des Bedarfs an Seniorenbetreuung und -angeboten im Stadtbezirk Berg am Laim; Antrag CSU-Fraktion
+- TOP 3.2.4.: Projektname: Werksviertel - Piusstraße und U-1738 (Erika-Köth-Str.) und U-1741 Nord (August-Everding-Straße) Anhörung gemäß § 9 der Satzung für die Bezirksauschüsse
+- TOP 3.2.5.: Bitte um Aufstellen eines Halteverbotschildes an der Einfahrt zum Pausenhof Mittelschule am Inzeller Weg; Bürgeranliegen
+- TOP 3.2.6.: Werksviertel U 1740 (Helmut-Dietl-Straße) und U 1737 (Gisela-Stein-Straße) Kein Durchgangsverkehr für Automobile im Werksviertel, Antrag der Fraktion Die Grünen zur Anhörung (vertagt aus 07/20)
+- TOP 3.2.7.: Antrag an das Baureferat Tiefbau Fahrbahnverengung Hansjakobstraße zur Geschwindigkeitsreduzierung; Antrag Fraktion Die Grünen
+- TOP 3.2.8.: Parksituation rund um Schüleinplatz; Bürgeranliegen
+- TOP 3.2.9.: Park Kreilerstr. - Ecke Virgilstr. (Ruhestörungen); Bürgeranliegen
+- TOP 3.2.10.: Antrag auf Prüfung einer Änderung der bestehenden Verkehrsregelung in der Streitfeldstraße (Tempo 30 Zone, "unechte" Fahrradstraße); Bürgeranliegen
+- TOP 3.2.11.: Temporäre Einrichtung von Radverkehrsanlagen – Rückmeldungen der Bezirksausschüsse Bitte um Rückmeldung bis zum 04.09.2020, Fristverlängerung bis einschließlich 11.09.2020 beantragt Es wird sich bemüht die Stellungnahme des BAs noch in die reguläre, für die Sitzung des Stadtrats am 21.10.2020 vorgesehene, Sitzungsvorlage aufzunehmen.
+- TOP 3.2.12.: Antrag auf Schließung der Haflinger Straße; Bürgeranliegen
+- TOP 3.2.13.: Parksituation Grafinger Str./ Piusplatz; Bürgeranliegen
+- TOP 3.2.14.: Pilotversuch mit Lärmdisplays: Bestellung städtischer Leistungen; Antrag CSU-Fraktion
+- TOP 3.2.15.: Druckampel Höhe Permoserplatz: Schaltung endlich optimieren; Antrag CSU-Fraktion
+- TOP 3.2.16.: Antrag Barrierefreie Verbindung von der Schweppermannstraße zur Ampfingstraße; Antrag Fraktion Die Grünen
+- TOP 3.2.17.: Antrag: 10 Minuten Takt und Verbindungen Sonn- und Feiertags auf der Buslinie 187; Antrag Fraktion Die Grünen
+- TOP 3.2.18.: Oberirdische Beschriftung der U-Bahn-Stationen; Antrag MdBA 14
+- TOP 3.2.19.: Hansjakobstraße - Ausweisung zur Fahrradstraße - Anhörung des BA 14 durch das Kreisverwaltungsreferat -
+- TOP 3.3.: Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Wiederherstellung der Schulsportanlage an der Josephsburgstraße; Antrag CSU-Fraktion
+- TOP 3.3.2.: Waschbecken im Verwaltungstrakt und in den Klassenräumen; Antrag FDP und CSU-Fraktion
+- TOP 3.4.: Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: REGSAM - Fragebogen an die Bezirksausschüsse zur Auswahl der REGSAM-Schwerpunkte ab Januar 2021
+- TOP 3.5.1.: (E) Stadtbezirksbudget IG Klettern München & Südbayern e.V. Inklusives Klettertraining von Oktober 2020 bis Juli 2021 8.448,00 € / Az. 0262.0-14-0272 (vertagt aus 08/20)
+- TOP 3.5.2.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-14-0274
+- TOP 3.6.1.: Friedenstraße 2, Neubau Bürogebäude Neue Arbeitswelten Friedenstr. 2 (vertagt aus 08/20)
+- TOP 3.6.2.: Hochriesstr. 7, Anbau eines Wintergartens mit Dachterrasse an eine Doppelhaushälfte sowie Errichtung eines Abstellraumes - TEKTUR
+- TOP 3.6.3.: Levelingstraße 16, Neubau eines Bürohauses mit Tiefgarage
+- TOP 3.6.4.: Kinkstraße 3, Neubau von Mietwohnungen mit Tiefgarage
+- TOP 3.6.5.: Baumkirchner Str. 38
+- TOP 3.6.6.: Neumarkter Str. 86
+- TOP 4.1.: Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 29.06.2020 bis 13.09.2020
+- TOP 4.1.2.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2019
+- TOP 4.1.3.: Abdruck der Änderungsgenehmigung nach § 16 BImSchG - RF Europe GmbH
+- TOP 4.1.4.: Luftqualität und Biodiversität im Stadtbezirk fördern und erhalten I: Städtische Flächen kurzfristig entsiegeln
+- TOP 4.1.5.: (U) Artenschutz Mehr Artenschutz bei den städtischen Gesellschaften GWG, GEWOFAG, SWM und München Klinik Antrag Nr. 14-20 / A 06662 von der Fraktion DIE GRÜNEN/RL vom 04.02.2020, eingegangen am 04.02.2020 Artenvielfalt auch in München VIII Ein Jahr Volksbegehren Rettet die Bienen! – Artenvielfalt auf Flächen der städtischen (Wohnungsbau-) Gesellschaften sicherstellen Antrag Nr. 14-20 / A 06721 von der ÖDP vom 11.02.2020, eingegangen am 11.02.2020
+- TOP 4.1.6.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 4.1.7.: Erweiterung des Online-Meldeformulars der Öffentlichkeitskampagne "Rein. Und sauber."
+- TOP 4.1.8.: Unterrichtung über beantragte Wertstoffinseln hier: Piusplatz (östliches Ende)
+- TOP 4.1.9.: Wertstoffinsel Echardinger Straße - Sichtbehinderung durch Container auf den Fuß- und Radweg (Ziffer 1)
+- TOP 4.1.10.: Aktuelle Situation an den Wertstoffinseln - Antwortschreiben des AWM -
+- TOP 4.1.11.: Tägliche Reinigung der Innsbrucker Ring Unterführung am Joseph-Hörwick-Weg
+- TOP 4.1.12.: Europäische Charta zur Gleichstellung von Frauen und Männern Beschluss vom 24.07.2020 (Sitzungsvorlage Nr. 14-20/V 14161) - Aktionsplan - Maßnahme 7.3.: Erhöhung des Sicherheitsgefühls durch Optimierungen der Beleuchtung des öffentlichen Raumes (Art. 21 Abs. III - Sicherheit)
+- TOP 4.1.13.: Freilegung Hachinger Bach zwischen Kampenwandstraße und Hüllgraben - Sachstandsbericht -
+- TOP 4.1.14.: Bewertung der Münchner Spielplätze durch Eltern und Kinder Antrag Nr. 14-20/A 05815 der Fraktion DIE GRÜNEN/RL vom 14.08.2019 - Antwortschreiben zum Stadtratsantrag -
+- TOP 4.2.: Städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Realisierungswettbewerb Heinrich-Wieland-Straße in München - Auslobungsbroschüre -
+- TOP 4.2.2.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" Bürgerbeteiligung in den Stadtvierteln
+- TOP 4.2.3.: Verhinderung weiteren Zuzugs, Empfehlung Nr. 14-20/E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Solln am 15.05.2018 Sitzungsvorlage Nr. 20-26/V00518 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.09.2020
+- TOP 4.2.4.: (U) Bebauungsplan mit Grünordnung Nr. 2127 Truderinger Straße (südlich), westlich der Roßsteinstraße, östlich des Schwanhildenwegs a) Billigungsbeschluss b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses vom 13.12.2017 (Sitzungsvorlagen Nr. 14-20 / V 10281) für den Bebauungsplan mit Grünordnung Nr. 2127 Stadtbezirk 14 Berg am Laim
+- TOP 4.2.5.: Bebauungsplan mit Grünordnung Nr. 2127, Truderinger Straße - Antwortschreiben -
+- TOP 4.2.6.: (U) 2. Stammstrecke Planfeststellungsabschnitt 3 München-Ost Isar bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof Anträge und Empfehlungen
+- TOP 4.2.7.: LKW-Durchfahrtsverbot für die Echardinger Straße
+- TOP 4.2.8.: Achentalstraße; Absolutes Halteverbot gegen Gehwegparken
+- TOP 4.2.9.: Oedkarspitzstraße; Widerruf des eingeschränkten Halteverbotes mit Zeitzusatz (Z. 286 StVO) Absolutes Halteverbot gegen Gehwegparken ((Z. 283 StVO)
+- TOP 4.2.10.: Truderinger Straße (nördlich Hermann-Weinhauser-Straße - südlich Bahnunterführung) Gefahrenzeichen (Z. 101) mit Zusatzschild
+- TOP 4.2.11.: Bau eines Gehweges zur Kindertagesstätte in der Hachinger-Bach-Str. 11; Bürgeranliegen
+- TOP 4.2.12.: Haltestelle Schlüsselbergstraße der Tram Linie 31
+- TOP 4.2.13.: Einrichtung eines Zebrastreifens vor dem Gebäude der Jobcenter in der Friedenstraße und Einrichtung einer Bedarfsampel in der Friedenstraße/Ausgang Ostbahnhof Werksviertel
+- TOP 4.2.14.: Parkverbot für Großfahrzeuge und Wohnmobile in der Hansjakobstraße
+- TOP 4.2.15.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2021 München fährt Tram V – Fünf-Minuten-Takt für die Tram Antrag Nr. 14-20 / A 5867 von der Fraktion DIE GRÜNEN/RL vom 06.09.2019 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Mobiles München – ehrlich dran arbeiten Antrag Nr. 14-20 / A 05514 von Herrn Stadtrat Röver vom 18.06.2019 MVV fährt im München-Takt Antrag Nr. 14-20 / A 06725 von Frau Stadträtin Wiepcke, Herrn Stadtrat Schall, Herrn Stadtrat Quaas vom 11.02.2020 Buslinie 135 bis zum Gasteig-Interimsquartier in Sendling verlängern Antrag Nr. 14-20 / A 06814 von Frau Stadträtin Olhausen vom 20.02.2020 Verlängerung der Fahrtzeiten der Linie 199 bis Mitternacht Antrag Nr. 14-20 / B 05631 des Bezirksausschusses des Stadtbezirkes 15 – Trudering-Riem vom 13.12.2018
+- TOP 4.2.16.: Baustellen Riedgaustraße/Neumarkter Straße/Streitfeldstraße - Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranfrage -
+- TOP 4.2.17.: Baustelle und temporäre Halteverbote in der Wildenwarter Straße - Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranfrage -
+- TOP 4.2.18.: Situation in der Altöttinger- und Ulrichsbergstraße - Verparken durch LkW und Wohnmobile - Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranfrage -
+- TOP 4.2.19.: Schank- und Speisewirtschaft "Fefee", Berg-am-Laim-Straße 61 Antrag auf unveränderte Fortführung
+- TOP 4.2.20.: Schank- und Speisewirtschaft "Zum Bräumeister", Antrag auf unveränderte Fortführung
+- TOP 4.3.: Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Vollständiger Breitbandausbau an allen Berg am Laimer Schulen bis zum Schuljahresbeginn 2021/2022
+- TOP 4.3.2.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 4.3.3.: Fluchttor Grundschule an der Josephsburgstraße - Antwortschreiben -
+- TOP 4.3.4.: Sport- und Kulturbedarfe in der wachsenden Stadt Sitzungvorlage Nr. 20-26/V 00758 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.09.2020
+- TOP 4.4.: Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juni 2020
+- TOP 4.4.2.: Jahresbericht 2019 Stadtjugendamt - Angebote der Jugendhilfe
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verschiedene Nachweise für die Verwendung von BA-Budget
+- TOP 4.5.2.: Abrechnung von virtuellen Sitzungen und Besprechungen
+- TOP 4.5.3.: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt hier: Kürzung des Stadtbezirksbudgets in 2020
+- TOP 4.5.4.: Behandlung von an die BA-Mitglieder gerichteter Post durch die BA-Geschäftsstelle - Informationsschreiben des Direktoriums -
+- TOP 4.5.5.: Übersichtslisten zum Stadtbezirksbudget; 01/2020
+- TOP 4.5.6.: Städtisches Telefonbuch an BA-Mitglieder aushändigen
+- TOP 4.5.7.: Durchführen eigener Veranstaltungen BA-Informationsschreiben Nr. 05/2020
+- TOP 4.5.8.: Fall der persönlichen Beteiligung nach Ar. 49 GO Informationsschreiben Nr. 07/2020
+- TOP 4.5.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Baumentfernungen und Pflegegehölzmaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken durch das Baureferat - Gartenbau hier: Michaeligymnasium, Hachinger-Bach-Straße 25
+- TOP 4.6.2.: Fällgenehmigung Baumkirchner Str. 26
+- TOP 5.1.1: Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Soziales, Integration, Senioren, Familie
