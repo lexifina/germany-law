@@ -1,0 +1,53 @@
+# Haupt- und Personalausschuss (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-09-29T17:00:00+02:00
+- Ende: 2020-09-29T17:38:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdQlQyd8ljFDGHCXrJ-tLUI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5899
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf30PZUrQi2RcdxY58mBAWF9FnL37wjN7N7tR8FuToVf/Bekanntmachung_Haupt-_und_Personalausschuss_29.09.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZPC8egqf2xABvfTGKTIAA6-oaAdbwGutrB_pqlGQNlO/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_29.09.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Situation Kirschbaumer Hof
+- TOP 1.2: Datenerfassung, -nutzung und –vernichtung von Rückverfolgungslisten
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Haupt- und Personalausschusses am 16.06.2020
+- TOP 4.: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2020
+- TOP 5.: Stellenplannachtrag 2020
+- TOP 6.: Brandschutzbedarfsplan der Stadt Solingen
+- TOP 7.: Rettungsdienstbedarfsplan der Stadt Solingen
+- TOP 8.: Neufassung der Satzung über die Erhebung von Kostenersatz bei Einsätzen Feuerwehr der Klingenstadt Solingen
+- TOP 9.: Neufassung der Entgeltordnung für freiwillige Leistungen und die Gestellung von Brandsicherheitswachen durch die Feuerwehr der Klingenstadt Solingen
+- TOP 10.: IX. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Solingen bleibt „Fairtrade-Town“, Stadt des Fairen Handels Sachstand zu ausgewählten Umsetzungsaktivitäten
+- TOP 11.1.2: Sachstandsbericht Breitbandausbau der „weißen Flecken“ zum 14.09.2020
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Haupt- und Personalausschusses am 16.06.2020
+- TOP 4.: Bestellung Gleichstellungsbeauftragte
+- TOP 5.: Bestellung Stadtdienstleitung Stadtdienst Schulen
+- TOP 6.: Bestellung Stadtdienstleitung Deutsches Klingenmuseum
+- TOP 7.: Vergabe eines Auftrages zur Lieferung von sechs Löschgruppenfahrzeugen (Typ LF 10) inkl. feuerwehrtechnischer Beladung für die Freiwillige Feuerwehr Solingen
+- TOP 8.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Omega-Quartier)
+- TOP 9.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Fürkeltrath I))
+- TOP 10.: Jahresabschluss 2019 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 11.: Jahresabschluss 2019 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 12.: Jahresabschluss 2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 13.: Beirat Solinger Kunst-Stiftung – Jahresabschluss 2018 – Jahresabschluss 2019 – Wirtschaftsplan 2020 – Wirtschaftsplan 2021
+- TOP 14.: Fördermaßnahmen der Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.1.1: Vergabe von Aufträgen zur Lieferung von Digitalsprechfunkgeräten und Zubehör für die Feuerwehr der Stadt Solingen
+- TOP 15.2: Anfragen an die Verwaltung
