@@ -1,5 +1,4 @@
-# Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der
-Meeresverschmutzung vom Lande aus
+# Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung vom Lande aus
 
 - [Eingangsformel](eingangsformel.md)
 - [Art 1](art-1.md)
