@@ -1,5 +1,4 @@
-# Vierunddreißigste Verordnung zur Durchführung des 
-Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung)
+# Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung)
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
