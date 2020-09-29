@@ -1,0 +1,188 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-09-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5821652
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5821652
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Wiederherstellung der Radwegverbindung entlang des Heckenstallerparks
+- TOP 6.2.: Antrag Maßnahmen zur Lärm- und Geschwindigkeitsreduzierung in der Krüner Straße
+- TOP 6.3.: Reduzierung der Geschwindigkeit
+- TOP 6.4.: Verkehr Pählstraße
+- TOP 6.5.: Müllcontainer Pfrontnerplatz
+- TOP 6.6.: Aufstellen eines zusätzlichen Plastik-Recycling-Containers an der Hinterbärenbadstr.
+- TOP 6.7.: Durchgangsverkehr Ötztalerstraße_Hinterbärenbadstraße
+- TOP 6.8.: Idee zum weiteren Vorgehen
+- TOP 6.9.: Spätsommerabend in der Hinterbärenbadstraße
+- TOP 6.10.: Murnauer Straße Tempo 30
+- TOP 6.11.: Spielplatz Pfrontener Platz
+- TOP 6.12.: Schildbürgerstreich am Pfrontner Platz
+- TOP 6.13.: fehlende zeitliche Benutzungsordnung nach Spielplatzumbau vom Zirlerplatz seit März 2020
+- TOP 6.14.: Bürgerschreiben aus Briefkasten der Sommerstraße Hinterbärenbad
+- TOP 6.15.: 5G Sendemasten
+- TOP 6.16.: Ettalstraße Kreuzungsbereich
+- TOP 6.17.: Unerlaubte Sondernutzung im Westpark
+- TOP 6.18.: Vermüllung Weilheimer Str Ecke Scharnitzstraße
+- TOP 6.19.: Lärm- und Geruchsbelästigung Bus-Parkplatz Hansastraße
+- TOP 7.1.: Vorstellung AKIM
+- TOP 8.1.: (E) Einrichtung eines Spielplatzes auf der Grünfläche am Luise-Kiesselbach-Platz Empfehlung Nr. 14-20 / E 03056 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 19.11.2019
+- TOP 8.2.: (U) Kulturbürgerhaus für Sendling-Westpark Empfehlung Nr. 14-20 / E 03064 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 19.11.2019
+- TOP 9.1.: Hinterbärenbadstr._Zillertalstraße
+- TOP 10.1.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-7-0312
+- TOP 10.2.: (E) Stadtbezirksbudget Alten- und Service-Zentrum (ASZ) Westpark Erwerb und Montage von Sonnensegeln zur Durchführung von Angeboten im Freien ab November 2020 2.535,33 € Az.0262.0-7-0305
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative "Wanderzirkus" Münchens kleinster Wanderzirkus 536,66 € / Az. 0262.0-7-0313
+- TOP 10.4.: (E) Stadtbezirksbudget Feierwerk e.V. Kinderkulturfestival „Dschungel 2020“ vom 31.10. - 08.11.2020 2.500,00 € / Az. 0262.0-7-0315
+- TOP 10.5.: (E) Stadtbezirksbudget Feierwerk e.V. Klimaanlage und Geschirrspülmaschine 13.460,04 € / Az. 0262.0-7-0314
+- TOP 10.6.: Erhöhung Zuwendungsbetrag Monacorona
+- TOP 10.7.: Umwidmung Init Oktoberfest
+- TOP 11.1.: Testweise Einführung von Wertstofftonnen in Sendling Westpark
+- TOP 11.2.: LKP Grünfläche
+- TOP 11.3.: Antrag Kulturbügerhaus
+- TOP 11.4.: Antrag Bäume Hinterbärenbadstraße
+- TOP 11.5.: Anfrage WLAN Ausstattung des Erasmus-Grasser-Gymnasium
+- TOP 11.6.: Antrag Schulbushaltestelle Hinterbärenbadstr.
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Johann-Houis-Str. - Mosebach
+- TOP 15.1.: Bauvorhaben Gottfried-Böhm-Ring
+- TOP 15.2.: Bauvorhaben Albert-Roßhaupter-Str.
+- TOP 15.3.: Bauvorhaben Hansastr.
+- TOP 15.4.: Bauvorhaben Raidingerstr.
+- TOP 16.1.: Zirkus Roberto, Luise-Kiesselbach-Platz, vom 14.09. - 27.09.20
+- TOP 17.1.: Anhörung Westpark, Theatron, Gottesdienst am 20.09.2020
+- TOP 17.2.: Theatron Open Air Konzert
+- TOP 17.3.: kleine Zirkuswiese, Marionettentheater Maatz
+- TOP 17.4.: Westpark, Stadtradeln Picknick, MTB Parcour
+- TOP 17.5.: Westpark, Seebühne, Klavierkonzert
+- TOP 17.6.: Verlängerung Fit im Park des FreizeitSport
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Verkaufeinrichtung Albert-Roßhaupter-Str.
+- TOP 22.2.: Erhaltungssatzung
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.1.: Autobahn Südring
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.1.: Grünfläche Radweg Zielstattstr./Distlhofweg
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.1.: Bürgerversammlungen 2020
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.1.: Westendstraße PKW Parken
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.1.: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.1.: „Sommer in der Stadt“ auf dem Luise-Kiesselbach-Platz
+- TOP 38.2.: Glasfaserausbau Sendling-Westpark
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.1.: RBS zu Mittagsbetreuung GS Fernpaßstraße
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.1.: Messergebnisse MR Südwest
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.1.: Sommerstraßen - Kontakt AKIM - Textbaustein Beschwerdemanagement
+- TOP 41.2.: Nutzungsänderung zur Großtagespflege
+- TOP 41.3.: Parkraummanagement Sendling-Westpark
+- TOP 42.: Sozialreferat
+- TOP 43.1.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken
+- TOP 45.: Baureferat
+- TOP 45.1.: Leistungsbilanz Gartenbau
+- TOP 45.2.: Entfernung Gefahrenbaum Bodenehrstraße,Fernpaßstraße
+- TOP 45.3.: Entfernung Gefahrenbaum Weilheimerstraße,Scharnitzstraße
+- TOP 45.4.: Bestellung städtischer Leistung Gans am Wasser
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47.2.: Öffnen Post
+- TOP 47.3.: Schreiben BAs Veranstaltungen
+- TOP 47.4.: Änderungsbescheid Binario
+- TOP 47.5.: Schreiben BAs Befangenheit
+- TOP 47.6.: Bescheid Initiative Hinterbärenbadstr.
+- TOP 47.7.: Bescheid_Init Im Viertel
+- TOP 47.8.: Bescheid_Init ImSaisonstart
+- TOP 47.9.: Bescheid_Init Oktoberfest
+- TOP 47.10.: Bescheid_PFIFFIKUS e.V
+- TOP 47.11.: Bescheid_Reizwerk Theaterproduktion
+- TOP 47.12.: Bescheid_SPOKITA e.V.
+- TOP 47.13.: Bescheid_stattpark OLGA e.V.
+- TOP 47.14.: Bescheid WEG Heiterwangerstr.
+- TOP 47.15.: Übersichtslisten Stadtbezirksbudget
+- TOP 47.16.: Sitzungen BA 7 Jahrestabelle 2021
+- TOP 47.17.: Grundsatzbeschlüsse der BAs
+- TOP 48.: Kommunalreferat
+- TOP 48.1.: Zugang BAs zu GeoPortal München
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.1.: Änderungsbescheid Restaurant River Waldfriedhofstr.
+- TOP 49.2.: Bescheid Freischankfläche
+- TOP 49.3.: Bescheid, Monocorona im Rahmen von Sommer in der Stadt
+- TOP 49.4.: Bescheid Seebühne Klavierkonzert
+- TOP 49.5.: Fahrradstraße Werdenfelsstraße
+- TOP 49.6.: unveränderte Fortführung Armins Treff
+- TOP 49.7.: Grünanlage Krüner Platz Filmaufnahmen
+- TOP 49.8.: Filmaufnahmen Westpark
+- TOP 49.9.: Bescheid Westpark, Theatron Gottesdienst
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2021 München fährt Tram V – Fünf-Minuten-Takt für die Tram Antrag Nr. 14-20 / A 5867 von der Fraktion DIE GRÜNEN/RL vom 06.09.2019 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Mobiles München – ehrlich dran arbeiten Antrag Nr. 14-20 / A 05514 von Herrn Stadtrat Röver vom 18.06.2019 MVV fährt im München-Takt Antrag Nr. 14-20 / A 06725 von Frau Stadträtin Wiepcke, Herrn Stadtrat Schall, Herrn Stadtrat Quaas vom 11.02.2020 Buslinie 135 bis zum Gasteig-Interimsquartier in Sendling verlängern Antrag Nr. 14-20 / A 06814 von Frau Stadträtin Olhausen vom 20.02.2020 Verlängerung der Fahrtzeiten der Linie 199 bis Mitternacht Antrag Nr. 14-20 / B 05631 des Bezirksausschusses des Stadtbezirkes 15 – Trudering-Riem vom 13.12.2018
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.1.: Zwischennachricht Elektrofahrdienst Waldfriedhof
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.1.: Ablehnung Fällung Waldfriedhofstraße
+- TOP 55.2.: Vorbescheid Hundertpfundweg
+- TOP 55.3.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 55.4.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 55.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.6.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 56.: Sozialreferat
+- TOP 56.1.: Übersicht Unterkünfte Wohnungslose/Flüchtlinge
+- TOP 56.2.: Abbruchgenehmigung - Andreas-Vöst-Str
+- TOP 57.1.: beantragte Wertstoffinseln
+- TOP 57.2.: Baumaßmahmen SWM
+- TOP 57.3.: Betriebskonzepte während der U-Bahn-Schienenschleifarbeiten im Herbst 2020
+- TOP 59.1.: Abgeschlossenheitsbescheinigungen
+- TOP 59.2.: Waldfriedhofstraße Suchkreisanzeige
+- TOP 59.3.: Neubau Mobilfunkstandort
+- TOP 59.4.: Neubau Mobilfunkstandort
+- TOP 59.5.: Vorkaufsrecht
