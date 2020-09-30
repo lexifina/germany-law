@@ -1,0 +1,113 @@
+# 35. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2020-09-30T17:30:00+02:00
+- Ende: 2020-09-30T21:50:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6595
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6595
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=217237
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.5.1: Belastung des Gesundheitsamtes Pankow - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Erhöhung der Transparenz des Verwaltungshandelns durch Kostenausweis gegenüber der BVV - in der BVV abgelehnt
+- TOP 1.9: Unterstützung für Kommission Kunst im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Kein Wohnen hinter Planen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Reinigung Pankower Grünanlagen durch die BSR – eine saubere Sache - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Parken auf Rad- und Gehweg am Rathaus-Center (Breite Straße) wirksam unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Otto-Ostrowski-Straße für den Durchgangsverkehr schließen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Zugänge zu den Straßenbahnhaltestellen an der Danziger Straße/Greifswalder Straße verkehrssicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Fahrradständer und Hinweisschilder am Park am Weißen See - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Straßenbahnschienen fahrradsicher gestalten - in der BVV abgelehnt
+- TOP 1.17: Bahnübergang am km 1,7 (CVJM) auf der Stammstrecke der „Heidekrautbahn" ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Durchgangsverkehre in der Siedlung vor Schönholz (Stegesiedlung) reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Aufenthaltsqualität an den Karpfenteichen verbessern - in der BVV abgelehnt
+- TOP 1.20: Planungen für das »Maxim« fortsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Die Behandlung der Großen Anfrage, Drucksache VIII-1271 erfolgt nichtöffentlich im Komplex 3 - (offen)
+- TOP 1.22: Berufung einer/s Beauftragten für „Gute Arbeit“ - überwiesen
+- TOP 1.23: Weiteres Verfahren zum Bebauungsplan 3-18 „Wilhelmsruher Tor“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Auswirkungen des Landesantidiskriminierungsgesetzes auf das Bezirksamt - beantwortet
+- TOP 1.25: „Free Open Air“- Projekt in Pankow umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Mehr Platz für den Radverkehr - überwiesen
+- TOP 1.27: Kommunales Vorkaufrecht wirksam ausgestalten – prioritäre Durchführung der Prüfverfahren organisatorisch sicherstellen - überwiesen
+- TOP 1.28: Bebauungsplan 3-83 – Verlagerung des Verkehrs ins Blumenviertel frühzeitig verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Möglichkeiten nutzen! Bezirkliche Wohnraumberatung schaffen! - überwiesen
+- TOP 1.30: Klimafreundliche und effiziente Neubauten für unseren Bezirk - in der BVV abgelehnt
+- TOP 1.31: Einrichtung einer Arbeitsgruppe für Baugenehmigungen und Bauvorbescheide - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Frühwarnsystem für stadtentwicklungspolitisch bedeutsame Vorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Handlungsempfehlungen zum Umgang mit Bauvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Weitere energetische Quartierskonzepte für Pankow - überwiesen
+- TOP 1.35: Fachtag zum Thema Rassismus - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Abläufe im Stadtentwicklungsamt transparent und nachhaltig organisieren - zurückgezogen
+- TOP 1.37: Bürger*innen über Sonderregelungen des Berlin-Passes informieren! - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Fest am Welttag der Muttersprachen - überwiesen
+- TOP 1.39: Einführung einer neutralen Ausweishülle für den Schwerbehindertenausweis - überwiesen
+- TOP 1.40: Lokale Hotellerie und Gastronomie stärken – Temporäres Aussetzen der City Tax - in der BVV abgelehnt
+- TOP 1.41: Moria evakuieren! Menschen in Not helfen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.42: Klimafreundlicher Schlosspark-Kiez – verbindliche Bauleitplanung für Pankow! - mit Änderungen in der BVV beschlossen
+- TOP 1.43: Arbeit der Bürgerämter verbessen – Bürgerfreundlichere Öffnungszeiten - überwiesen
+- TOP 1.44: „Pankower Baumgipfel“ organisieren - überwiesen
+- TOP 1.45: Keine Stellplätze für Wohnmobile im Stadtquartier Alter Schlachthof - überwiesen
+- TOP 1.46: Bezirk Pankow unterstützt „Aktion Noteingang“ - vertagt
+- TOP 1.47: Kommunales Vorkaufsrecht auch bei Share Deals prüfen! - überwiesen
+- TOP 1.48: Auswirkungen der Pandemie auf den bezirklichen Haushalt - überwiesen
+- TOP 1.49: Dauerhafte Bewässerung des Lennè-Meyer-Ehrenmals sicherstellen - überwiesen
+- TOP 1.50: Ratsinformationssystem Allris anpassen – OpenData ermöglichen - überwiesen
+- TOP 1.51: Bildung des Klimarates - überwiesen
+- TOP 1.52: Pankower Gastronomie durch den Corona-Winter helfen: Sondergenehmigung für Heizpilze - vertagt
+- TOP 1.53: Informationsreihe über die Klimapolitik im Kontext weiterer beeinflussender Faktoren des Klimawandels - vertagt
+- TOP 1.54: Die Klimaschutzvorhaben in Pankow mit offenen Bürgerdiskussionsforen ausgestalten, eigene formulierte Ziel-und Rahmenbedingungen einhalten - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: 10-Minuten-Takt der S2 bis Bernau - vertagt
+- TOP 2.2: Weitere Fahrradabstellanlangen am S-Bahnhof Karow errichten - vertagt
+- TOP 2.3: Städtebauförderprogramm „Zukunft Stadtgrün“ - vertagt
+- TOP 2.4: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - vertagt
+- TOP 2.5: Fensterposse am Kollwitzplatz beenden - vertagt
+- TOP 2.6: Schulwege sicherer machen - Dialogdisplays installieren - vertagt
+- TOP 2.7: Jahresbericht zur Anwendung des Vorkaufsrechts - vertagt
+- TOP 2.8: „Klothilde“ muss bleiben! - vertagt
+- TOP 2.9: fLotte(s) Pankow – nachhaltig mobil mit Lastenrädern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Sanierung der Wackenbergstraße als Zufahrt für das Gewerbegebiet Niederschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Gestaltung des Gewerbegebietes Pankow-Nord - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Klarstellung zum sogenannten „Wohnbaukonzept“ und zur Erholungsanlage Blankenburg - vertagt
+- TOP 2.13: Angebot der Kinderbetreuung an Volkshochschulen stärken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Gewerbe trifft Ämter – Ämterübergreifende Runde und Handreichung initiieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Mit sicherem Schwung über die Kreuzung – Anlehnbügel/Festhaltebügel für Radfahrende in Pankow einrichten - vertagt
+- TOP 2.16: Entwicklung von Formaten der Kinder- und Jugendbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Beteiligung des Bezirks an den Planungen für das Cantianstadion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Stedingerweg für den Durchgangsverkehr schließen - vertagt
+- TOP 2.19: Fahrradwege an kritischen Stellen klarer kennzeichnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: VIII-0982 Vorlage zur Kenntnisnahme/ ZB Wiederherstellung des Katastrophenschutzes bei der Notwasserversorgung in Pankow - vertagt
+- TOP 2.20.1: Wiederherstellung des Katastrophenschutzes bei der Notwasserversorgung in Pankow - vertagt
+- TOP 2.21: Einrichtung von Aufgeweiteten Radaufstellstreifen (ARAS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Entlassungsmanagement der Krankenhäuser optimieren - vertagt
+- TOP 2.23: Legales Graffiti auf dem Fröbelplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Gegen Lichtverschmutzung – Beleuchtungskonzept für Pankow - vertagt
+- TOP 2.25: Neue Fahrradbügel in Pankow auf Basis von Bürger*innenbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Open data leicht gemacht: vorhandene Verwaltungssoftware ausreizen - vertagt
+- TOP 2.27: Negative Auswirkungen der Baumaßnahmen in der Anton-Saefkow-Siedlung reduzieren! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Gleichbehandlungscheck des ADS anwenden - vertagt
+- TOP 2.29: Mobilitätsgesetz umsetzen – Sicheren Radverkehr auf der Berliner Allee ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Bushaltestelle Park-Klinik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Kostenlose Notfalldose - vertagt
+- TOP 2.32: Suchtberatungen unterstützen – den Folgen der Covid-19 Pandemie begegnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Verdichtung in Pankow sozial- und klimaverträglich gestalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Informationsveranstaltung zum Bauvorhaben Alt-Buch 44-46 - vertagt
+- TOP 2.35: Bebauungsplan 3-41 für die Grundstücke Idunastraße 11, Romain-Rolland-Straße 141 und Neukirchstraße 62 – 66 im Bezirk Pankow, Ortsteil Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Trilaterale Zielvereinbarung 2020 zwischen den Trägern des Jobcenters Berlin Pankow und der Geschäftsführung des Jobcenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Projekt Kommunale Entwicklungspolitik und Anbahnung einer Entwicklungspartnerschaft mit einer Kommune des Globalen Südens (Bezirk KaTembe von Maputo, Mosambik) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Verteilung der Erträge der Sammelstiftung Kreuzberg 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Unterrichtung des Bezirksamts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Projekt Prater und Pratergarten - beantwortet
