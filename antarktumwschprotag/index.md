@@ -1,5 +1,4 @@
-# Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum
-Antarktis-Vertrag
+# Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag
 
 - [§ 1 Ziel des Gesetzes](0001.md)
 - [§ 2 Begriffsbestimmungen, Gebote und Verbote](0002.md)
