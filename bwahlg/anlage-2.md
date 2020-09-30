@@ -1693,4 +1693,4 @@
 |  |  | (Übrige Gemeinden s. Wkr. 298) |
 |  |  | vom Regionalverband Saarbrücken |
 |  |  |  | die Gemeinden Friedrichsthal, Quierschied, Sulzbach/Saar |
-|  |  | (Übrige Gemeinden s. Wkr. 296, 298) |
+|  |  | (Übrige Gemeinden s. Wkr. 296, 298). |
