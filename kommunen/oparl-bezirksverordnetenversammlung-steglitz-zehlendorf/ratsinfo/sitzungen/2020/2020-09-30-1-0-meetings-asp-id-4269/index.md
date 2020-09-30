@@ -1,0 +1,54 @@
+# 20. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-09-30T17:00:00+02:00
+- Ende: 2020-09-30T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4269
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4269
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 02.09.2020 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Verkehrssicherheit/Überholverbot in der Lorenzstraße/Mariannenstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.2: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.3: Keffenbrinkweg in Ordnung bringen! - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.4: Drakestraße für Radfahrer*innen sicher machen! - vertagt
+- TOP 4.5: Bezirkliches Radnebenroutennetz in der Goerzallee absichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.6: Erneut und eindringlich: Busbeschleunigung Schloßstraße/Gutsmuthsstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Verkehrssituation Kreuzung Teltower Damm/Beeskowdamm/Kleinmachnower Weg - vertagt
+- TOP 4.8: Mehr Parkplätze am Bundesarchiv - erledigt
+- TOP 4.9: Fußgänger*innen-Querung Hildburghauser Straße – jetzt! - mit Änderungen im Ausschuss beschlossen
+- TOP 4.10: Freier Weg für Fußgänger, Rollstuhlfahrer*Innen, Kinderwagen-Fahrer*Innen, Kinderräder etc. auf den Bezirksstraßen in Wohngebieten - vertagt
+- TOP 4.11: Temporäre Radwege für den Breitenbachplatz - vertagt
+- TOP 4.12: Sichereres Radeln in der Goerzallee - vertagt
+- TOP 4.13: Verkehrsberuhigung Straße Platz des 4. Juli - vertagt
+- TOP 4.14: Verkehrssicherheit für Fußgänger*innen und Radfahrer*innen an der Kreuzung Goerzallee/Wismarer Straße/Appenzeller Straße erhöhen - vertagt
+- TOP 4.15: Temporäre Spielstraßen in Steglitz-Zehlendorf - vertagt
+- TOP 4.16: Havelchaussee autofrei! - vertagt
+- TOP 4.17: LZA Treitschkestraße/Lepsiusstraße - vertagt
+- TOP 4.18: Verkehrsmaßnahmen Von-Luck-Straße - vertagt
+- TOP 4.19: Lupsteiner Weg – Parkplatzsituation entlasten - vertagt
+- TOP 4.20: Waldsiedlung Onkel-Toms-Hütte: Einbahnstraßen für Radfahrende in Gegenrichtung öffnen - vertagt
+- TOP 4.21: Durchgehendes Tempo 30 in der Gélieustraße und Schützenstraße bis Birkbuschstraße - vertagt
+- TOP 4.22: Sichere Querung für Fußgänger*innen am Lichterfelder Ring - vertagt
+- TOP 4.23: Teltower Damm: Tempo 30 erkennbar machen - vertagt
+- TOP 4.24: Defekte Sitzbank wiederherstellen - vertagt
+- TOP 4.25: Giesensdorfer Straße - vertagt
+- TOP 4.26: Radweg in der Gärtnerstraße - vertagt
+- TOP 4.27: Ladezonen in der Schloßstraße deutlich kennzeichnen und Nutzungszeiten anpassen - vertagt
+- TOP 4.28: Parkleitsystem in der Schloßstraße - vertagt
+- TOP 4.29: Tempo 30 auf dem Hüttenweg erweitern! - vertagt
+- TOP 4.30: Verkehrssicherheit und Aufenthaltsqualität statt Parkplätze in der Schloßstraße - vertagt
+- TOP 4.31: Zebrastreifen in der Wismarer Straße – Sicherheit am Teltowkanalweg für Fußgänger*innen und Radfahrer*innen erhöhen - vertagt
+- TOP 4.32: Verkehrsregelung im Hüttenweg - vertagt
+- TOP 4.33: Dialogdisplay in der Carstennstraße - vertagt
+- TOP 4.34: Poller-Radweg auf dem Dahlemer Weg anpassen - vertagt
+- TOP 4.35: Querungshilfe zur S1 - vertagt
+- TOP 5: Verschiedenes - erledigt
