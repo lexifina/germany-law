@@ -1,0 +1,96 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-09-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774240
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774240
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: Grundschule in der Nadistraße 3: Gewährleistung einer qualitativen Hortbetreuung mit längeren Öffnungszeiten
+- TOP 4.3.2.: KunstÜbungsRaum „KÜR“ Milbertshofen Freigabebeschluss ... Alter St.-Georgs-Platz 4: Räumlichkeiten für Künstlerinnen und Künstler zur Verfügung stellen BA-Antrags-Nr. 14-20 / B 07168 des BA 11 vom 27.11.2019 - Beschlussentwurf
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Beschilderung des getrennten Fuß- und Radwegs von der Lerchenauer Straße bis zur Fahrradstraße / Unterführung Landshuter Allee
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Wertstoffinseln a) Beauftragung mehrerer Unternehmen mit der Leerung von Wertstoffcontainern in München b) Aktuelle Situation an den Wertstoffinseln
+- TOP 4.5.2.: Nordhaide: Zusätzliches Aufstellen von Abfallbehältern
+- TOP 6.1.1.: (E) Stadtbezirksbudget Regenbogen Wohnen gGmbH Küchensanierung 3.010,94€; Az. 0262.0-11-0396
+- TOP 6.1.2.: (E) Stadtbezirksbudget Pahr/ Lindner-Köhler GbR Lesebühne „Abgebrüht“ vom 14.01.2020 bis 15.12.2020 1.740 €, Reduzierung der Eigenmittel - Sitzungsvorlage Nr. 14-20 / V 17095
+- TOP 6.1.3.: (E) Stadtbezirksbudget Uigurische Mütter in Deutschland e.V. Fest zum „Tag der Muttersprache“ am 01.03.2020 4.125,00€; Az. 0262.0-11-0379
+- TOP 6.1.4.: (E) Stadtbezirksbudget Real München e.V. Punktlandung vom 01.08. - 31.10.2020 6.300,00 €, AZ: 0262.0-11-0397
+- TOP 6.1.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-11-0400
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kulturverein Olympiadorf e.V. 10. Münchner Bergfilmtage vom 18.- 20.09.2020 1.745,00 €, AZ: 0262.0-11-0399
+- TOP 6.1.7.: (E) Stadtbezirksbudget KJR München-Stadt; Einrichtung Kinder- und Jugendraum RIVA NORD NaturImpulsPfad Panzerwiese vom 30.10.2020 bis 30.09.2021 5.200,00 € / Az. 0262.0-11-0401
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Schaukastenaufwertung am U-Bahnhof Olympiazentrum und Aushang mit QR-Code
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Abstandsfläche in der Nordhaide ertüchtigen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Anhörung zu Änderungen in der BA-Satzung: - Regelungen für Beauftragte anpassen und abgleichen - Umbenennung der/s Beauftragten für Menschen mit Behinderungen in Beauftragte/r für Inklusion
+- TOP 8.1.2.: Überprüfung von § 9 Abs. 4 BA-Geschäftsordnung
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Oberhofer Platz 8 - 10 a) Bauvorhaben: Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks – Vorbescheid
+- TOP 8.2.2.: Knorrstraße 171 a) Bauvorhaben: Erweiterung des Gymnasiums München Nord
+- TOP 8.2.3.: Schleißheimer Straße 420 Antrag auf Teilgenehmigung gem. § 8 (i.V.m. § 4 BimSchG) für die Herstellung der Baugrube zur Neuerrichtung eines Akustik-Windkanals sowie einem Gebäude für Werkstätten-, Prüf- und Messeinrichtungen der Fa. BMW AG
+- TOP 8.2.4.: Hufelandstr. 4 a) Bauvorhaben: Neubau eines Büro- und Gewerbegebäudes mit TG - Vorbescheid
+- TOP 8.2.5.: Bauleitplanverfahren: Bebauungsplan Nr. 55c „Lustheim Mitte“ (3. Änderung) - Gemeinde Oberschleißheim - städtebauliche Gestaltung
+- TOP 8.2.6.: Nietzschestraße 13 a) Bauvorhaben: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.2.7.: Ehemalige Bayernkaserne - Vergabe von Grundstücken
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Kita-Stadtteil-Koffer und Kinder-Aktions-Koffer 2021: Kostenübernahme für die Abschlussveranstaltung
+- TOP 8.3.2.: Veranstaltung „Nacht der Sterne“ im Olympiapark am 16.10.2020
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Mischparkregelung am Spiridon-Louis-Ring
+- TOP 8.4.2.: Korbinianstraße zwischen Milbertshofener Straße und Wallensteinstraße - Gehwegparker sorgen für eine Gefährdung des Radfahrverkehrs
+- TOP 8.4.3.: Einrichtung eines Shuttleservice zur Olympiahalle … - Sitzungsvorlage Nr. 20-26 / V02815 - aktualisierter Beschlussentwurf
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Oberhofer Platz 8 - 10 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Knorrstraße 171 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.3.: Schleißheimer Straße 420 Antrag auf Teilgenehmigung gem. § 8 (i.V.m. § 4 BimSchG) für die Herstellung der Baugrube zur Neuerrichtung eines Akustik-Windkanals sowie einem Gebäude für Werkstätten-, Prüf- und Messeinrichtungen der Fa. BMW AG
+- TOP 8.5.4.: Hufelandstraße 4 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.5.: Bauleitplanverfahren: Bebauungsplan Nr. 55c „Lustheim Mitte“ (3. Änderung) - Gemeinde Oberschleißheim - Naturschutz
+- TOP 8.5.6.: Nietzschestraße 13 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.7.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken - Bitte um Unterstützung
+- TOP 8.5.8.: Sperlingweg 30 - Baumfällung
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Hennessy" - Konstanzer Str. 36 b) "Elmas" - Riesenfeldstr. 81 c) "Mia" - Keferloherstr. 96
+- TOP 9.1.2.: BA-Information: a) Durchführung eigener Veranstaltungen b) Fall der persönlichen Beteiligung nach Art. 49 Gemeindeordnung
+- TOP 9.1.3.: Internetzugang zum städtischen geografischen Auskunftssystem GeoPortal München für alle Mitglieder der Bezirksausschüsse
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum - Abbruchanzeige: a) Naagerstraße 13 b) Gundelkoferstr. 3
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: (U) Errichtung eines Stadtteilmuseums in Milbertshofen BA-Antrags-Nr. 14-20 / B 04646 des Bezirksausschusses des Stadtbezirkes 11 – Milbertshofen-Am Hart vom 14.03.2018
+- TOP 9.3.2.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 9.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Weyprecht-/Parlerstraße - Beschilderung der neuen Lichtsignalanlage b) Schopenhauer-/Hanselmannstraße - absolutes Haltverbot c) Prager Straße - absolutes Haltverbot
+- TOP 9.4.2.: Partielle U-Bahnsteigerhöhungen für mobilitätseingeschränkte Fahrgäste
+- TOP 9.4.3.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: (U) Circular Munich – Kreislaufwirtschaft für ein nachhaltiges München Müll vermeiden - Wertstoffe nutzen II Mehr Repair-Cafés in allen Stadtquartieren Antrag Nr. 14-20 / A 06972 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Müll vermeiden - Wertstoffe nutzen VII "Zero-Waste-Pilot-Wochen" in der Städtischen Verwaltung München Antrag Nr. 14-20 / A 06978 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Recycling / Abfallvermeidung I - richtig Recyclen Antrag Nr. 14-20 / A 06600 von der SPD-Fraktion vom 24.01.2020
+- TOP 9.5.2.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
