@@ -1,0 +1,81 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-10-01T17:02:00+02:00
+- Ende: 2020-10-01T19:48:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbUcDLFjmIXRQZWZtuueYvc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5904
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ7--8939OC_Gpcmxc_vzHYNbNhEcGaFaNZwkOBldNvF/Bekanntmachung_Rat_01.10.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenQsfoMNUTJ6yb_EOl2cnohYmvlRNXEDQ8N5EceA2Bm/Oeffentliche_Niederschrift_Rat_01.10.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Machbarkeitsstudie Querschluss L 288 – BAB Dreieck Langenfeld
+- TOP 1.2: Sicherung des Meistermann Fensters im ehemaligen Finanzamt
+- TOP 1.3: Reinigungsdienst des Dienstleistungsbetriebs Gebäude der Stadt Solingen (DBSG)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Rates am 18.06.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Abberufung des Leiters des Revisionsdienstes
+- TOP 7.: Bestellung der Leitung des Revisionsdienstes
+- TOP 8.: Erneute Bestellung eines Prüfers beim Revisionsdienst
+- TOP 9.: Erneute Bestellung eines Prüfers beim Revisionsdienst
+- TOP 10.: Stellenplannachtrag 2020
+- TOP 11.: Gute Schule 2020
+- TOP 12.: Städtebauförderprogramm „Investitionspakt zur Förderung von Sportstätten“ 2020 und 2021 – Teilnahme der Stadt Solingen
+- TOP 13.: Bekenntnis der Stadt Solingen zum Mehrgenerationenhaus
+- TOP 14.: Fortschreibung der verbindlichen Bedarfsplanung
+- TOP 15.: Baum-App für Solingen Antrag der Ratsfraktion Bündnis 90/ Die Grünen – offene Liste vom 21.08.2020
+- TOP 16.: Wärme- und Energiekonzepte MHKW Antrag von Bündnis 90/Die Grünen-offene Liste vom 28.08.2020
+- TOP 17.: Rettungsdienstbedarfsplan der Stadt Solingen
+- TOP 18.: Brandschutzbedarfsplan der Stadt Solingen
+- TOP 19.: Neufassung der Satzung über die Erhebung von Kostenersatz bei Einsätzen Feuerwehr der Klingenstadt Solingen
+- TOP 20.: Neufassung der Entgeltordnung für freiwillige Leistungen und die Gestellung von Brandsicherheitswachen durch die Feuerwehr der Klingenstadt Solingen
+- TOP 21.: IX. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 22.: Zustimmung der Umwandlung KRAFTWERKSSCHULE E.V. in eine Genossenschaft und Beteiligung an der Genossenschaft
+- TOP 23.: Vergabe von Leistungen des ÖPNV in Solingen gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen - offene Liste und der FDP vom 15.09.2020
+- TOP 24.: Stellungnahme zum Prüfungsbericht der gpaNRW über die überörtliche Prüfung Gesamtabschluss und Beteiligungen 2017
+- TOP 25.: Stellungnahme zum Prüfungsbericht der gpaNRW über die überörtliche Prüfung der Haushalts- und Wirtschaftsführung der kreisfreien Städte in Nordrhein-Westfalen 2019
+- TOP 26.: Bericht über die Prüfung des Gesamtabschlusses der Stadt Solingen zum 31.12.2018
+- TOP 27.: Dringlichkeitsentscheidung auf Grundlage des § 60 GO NRW; hier: Beschaffung mobiler Endgeräte für bedürftige Schülerinnen und Schüler
+- TOP 28.: Überplanmäßige Aufwendungen und Auszahlungen gemäß § 83 GO NRW im Bereich der Digitalisierung an Schulen
+- TOP 29.: Überplanmäßige Ausgabe gemäß § 83 GO NRW Im Produkt 1.31.01.050 (Hilfe zur Pflege)
+- TOP 30.: Überplanmäßige Aufwendungen gemäß § 83 GO NRW im Teilplan 41.01 (Gesundheitsschutz und Gesundheitspflege) für das Jahr 2020
+- TOP 31.: Überplanmäßige Ausgaben im Kommunalen Jobcenter
+- TOP 32.: Corona-bedingte Mehraufwendungen bei der Reinigung
+- TOP 33.: Wirtschaftsplan 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 33.1: Wirtschaftsplan 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 34.: Jahresabschluss 2019 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 35.: Jahresabschluss 2019 der Technischen Betriebe Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 36.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2019 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Entlastung der Organe der Sparkasse
+- TOP 37.: Bauleitplanung Scheidter Feld Beschluss über die 1. Verlängerung der Veränderungssperre (Nr. 169/ 607) gem. § 17 Abs. 1 BauGB für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Obere Dammstraße und östlich der Straße Scheidter Feld
+- TOP 38.: Bauleitplanung Lützowstraße/ Untere Holzstraße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes G 629 sowie Satzungsbeschluss zum Bebauungsplan G 629 für das Gebiet östlich der Lützowstraße und nördlich der Unteren Holzstraße (Beschluss 3) – Stadtbezirk Gräfrath –
+- TOP 39.: Bauleitplanung Börsenstraße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 667 sowie Satzungsbeschluss zum Bebauungsplan H 667 für das Gebiet östlich der Börsenstraße und südwestlich des Klingenpfades (Beschluss 3) - Stadtbezirk Burg/ Höhscheid –
+- TOP 39.1: Bauleitplanung Börsenstraße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 667 sowie Satzungsbeschluss zum Bebauungsplan H 667 für das Gebiet östlich der Börsenstraße und südwestlich des Klingenpfades (Beschluss 3) - Stadtbezirk Burg/ Höhscheid –
+- TOP 40.: Bauleitplanung An der Jugendherberge Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes B 380 – Teil D gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet der ehemaligen Jugendherberge Oberburg westlich der Straße An der Jugendherberge und östlich der Waldstraße. (Beschluss 1) – Stadtbezirk Burg/ Höhscheid –
+- TOP 41.: Verschiedenes
+- TOP 41.1: Mitteilungen der Verwaltung
+- TOP 41.1.1: Solingen bleibt „Fairtrade-Town“, Stadt des Fairen Handels Sachstand zu ausgewählten Umsetzungsaktivitäten
+- TOP 41.1.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen vom 16.05.2020 - 31.08.2020
+- TOP 41.1.3: Verkaufsoffene Sonntage
+- TOP 41.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Strategie Städt. Klinikum Solingen gGmbH
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Rates am 18.06.2020
+- TOP 4.: Genehmigung einer Dringlichkeitsentscheidung nach § 60 Absatz 1 GO NRW zur posthumen Verleihung des Ehrenrings der Klingenstadt Solingen an Herrn Oberbürgermeister a. D. Ulrich Uibel
+- TOP 5.: Vergabe von Planungsleistungen im Rahmen der Umgestaltung des Vorplatzes am östlichen Bahnhofausgang im Rahmen eines VgV-Verfahrens
+- TOP 6.: Vergabe von Planungsleistungen im Rahmen der Umgestaltung der Düsseldorfer Straße und des Ohligser Marktes im Rahmen eines VgV-Verfahrens
+- TOP 7.: Stadtwerke Solingen GmbH – Kauf- und Abtretungsvertrag über den Kommanditanteil der BürgerEnergieSolingen eG (BESG) an der EfS GmbH & Co. KG sowie aller Geschäftsanteile der BürgerEnergieSolingen eG an der EfS Verwaltungs-GmbH
+- TOP 8.: Ermächtigung zur Übernahme des SBG-Verlustes 2019
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
