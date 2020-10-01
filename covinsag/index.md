@@ -3,4 +3,3 @@
 - [§ 1 Aussetzung der Insolvenzantragspflicht](0001.md)
 - [§ 2 Folgen der Aussetzung](0002.md)
 - [§ 3 Eröffnungsgrund bei Gläubigerinsolvenzanträgen](0003.md)
-- [§ 4 Verordnungsermächtigung](0004.md)
