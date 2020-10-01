@@ -1,0 +1,197 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2020-10-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6043532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6043532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokoll der Sitzung am 10.09.2020
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 3: Anträge
+- TOP 3.7: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.6.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Radverkehr
+- TOP 51.11: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.5.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.5.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.5.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.6.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.5.1.: Montag, 19.10.2020, 19.00 Uhr, Pfarrsaal der Kath. Pfarrgemeinde Christus Erlöser (St. Stephan), Lüdersstr. 12, 81737 München
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.1: Mobilität
+- TOP 2.2: Kultur und Stadtbezirksbudget
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget 1. Münchner Football Club München 1979 e.V. Munich Cowboys Anschaffung von Trainingsgeräten 4.816,20 € / Az. 0262.0-16-0363
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget BRK KV München, Bereitschaft Perlach Anschaffung einer neuen Vereinsfahne 10.880,35 € / Az. 0262.0-16-0364
+- TOP 2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 2.7: Sonstige
+- TOP 3.1: Mobilität
+- TOP 3.1.1.: Zustände der Straßen und Gehwege in Ramersdorf, vor allem die Zieglerstr. und Adam-Berg-Str. Bürgeranliegen vom 31.08.2020
+- TOP 3.1.2.: Sichere und komfortable Radverbindungen in Ramersdorf Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 07.09.2020
+- TOP 3.1.3.: Mängel bei dem Fußgänger- und Radfahrerüberweg Kirchseeoner Str. über den Innsbrucker Ring zur Hechtseestr. Bürgeranliegen vom 15.05.2020 (In einen Ortstermin vertagt)
+- TOP 3.1.4.: Fehlender Fahrradweg bei der Fahrbahnrenovierung der Kirchseeoner Str. im April 2020 Bürgeranliegen vom 15.05.2020 (In einen Ortstermin vertagt)
+- TOP 3.1.5.: Einrichtung einer Ampel an der Kreuzung Karl-Marx-Ring/Ständler Str. für die Richtung nach Westen Bürgeranliegen vom 17.09.2020
+- TOP 3.2: Kultur und Stadtbezirksbudget
+- TOP 3.3: Umwelt, Gesundheit und Grünplanung
+- TOP 3.3.1.: Präsentation der SWM zum Ortstermin zur Geothermie in Riem und dem Status der Geothermie am Michaelibad hierzu: Planungen zur Geothermie in Perlach/Neuperlach Antrag der Grünen-Fraktion im BA 16 vom 23.01.2020 aus dem Ferienausschuss am 29.04.2020 (vertagt in der Sitzung am 10.09.2020)
+- TOP 3.3.2.: Biotop- und Trinkwasserschutz Truderinger Wald, neue Entwicklungen und Maßnahmen zum Schutz der Kiesgrube am Friedrich-Panzer Weg (Ziffer 4) Antrag / Anfrage der Fraktionsgemeinschaft SPD/Die Linke im BA 16 vom 19.08.2020 (Ziffer 4 des Antrags vertagt in der Sitzung am 10.09.2020)
+- TOP 3.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 3.4.1.: Ausreichend Platz für Nachmittagsbetreuung an der Grundschule Führichstraße vorbehalten Antrag der Fraktionsgemeinschaft SPD/Die Linke im BA 16 vom 09.09.2020
+- TOP 3.4.2.: Jugendarbeit im „Mohrhof“ wieder möglich machen Antrag der Fraktionsgemeinschaft SPD/Die Linke im BA 16 vom 17.09.2020
+- TOP 3.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 3.5.1.: Bitte um Unterstützung zum Erhalt der Einfamilien- und Reihenhäuser in der Führichstr. / Maria-Lehner-Str. / Weiskopfstr. und dem Erhalt eines homogenen Gevierts Bürgeranliegen vom 09.09.2020
+- TOP 3.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 3.6.1.: Testweise Einführung von Wertstofftonnen in Ramersdorf-Perlach Antrag der FDP im BA 16 vom 27.08.2020 (vertagt in der Sitzung am 10.09.2020)
+- TOP 4.1: Mobilität
+- TOP 4.1.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Aufhebung der Radwegbenutzungspflicht in der Therese-Giehse-Allee Frist zur Stellungnahme bis zum 19.10.2020
+- TOP 4.2: Kultur und Stadtbezirksbudget
+- TOP 4.3: Umwelt, Gesundheit und Grünplanung
+- TOP 4.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 4.4.1.: "Ausweichquartier für die Kindervilla am Gasteig" Antrag Nr. 14-20 / A 06440 "Rettet die Kindervilla am Gasteig!" Antrag Nr. 14-20 / A 06442 "Erhalt der Kindervilla in der Kellerstraße während der Umbaumaßnahmen Gasteig" Empfehlung Nr. 14-20 / E 03190 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 30.01.2020 Beschluss des Bildungsausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 27.10.2020 (SB) Sitzungsvorlage Nr. 20-26 / V 00670 Frist zur Stellungnahme bis zum 07.10.2020
+- TOP 4.4.2.: REGSAM-Schwerpunktgebiete ab 2021 REGSAM-Schwerpunktthema Inklusion ab 2021 Bitte um Rücksendung des Fragebogens bis zum 31.10.2020, falls eine Bewerbung um ein REGSAM-Schwerpunktgebiet gewünscht wird.
+- TOP 4.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 4.5.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.5.1.1.: Gerhart-Hauptmann-Ring 52 – 1900/23-Perlach – Anbau und Aufstockung Wohn- und Geschäftshaus-Anlage Sudermann-Zentrum, Neubau einer Tiefgarage (Gerhart-Hauptmann-Ring 52-62 / Sudermannallee 8-12, 18-22) - TEKTUR zu 1.1-2018-8900-31 (hier: Aufzugsverlängerung in der Sudermannallee 18-22) Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.2.: Zieglerstr. 39 – 1240/2-Perlach – Neubau von Wohnungen (19 WE) sowie zweier Einfamilienhäuser mit Tiefgarage Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.3.: Rotkäppchenstr. 91 – 2158/1-Perlach – Neubau von vier Doppelhäusern mit Tiefgarage - VORBESCHEID (Rotkäppchenstr. 91 b + 93) Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.4.: Berger-Kreuz-Str. 50 – 1290/10-Perlach – Neubau eines Mehrfamilienhauses mit Tiefgarage (alternativ: Neubau eines Doppelhauses mit Garagen), Abbruch Bestandswohnhaus mit Garage - VORBESCHEID Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.5.: Ottobrunner Str. 90 – 1023/0-Perlach – Neubau einer Wohnanlage mit integrierter Kita und Tiefgarage - VORBESCHEID Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.6.: Chiemgaustr. 189 – 16264/0-Sektion VIII – Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - VORBESCHEID Frist zur Stellungnahme bis zum 09.10.2020
+- TOP 4.5.1.7.: Ottobrunner Str. – 16298/28-Sektion VIII – Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID Frist zur Stellungnahme bis zum 23.10.2020
+- TOP 4.5.1.8.: Ayinger Str. 6 – 18396/29-Sektion IX – Errichtung Ersatzneubau - VORBESCHEID (Ayinger Str. 6 - 18 / Zornedinger Str. 1 - 7) Frist zur Stellungnahme bis zum 10.11.2020
+- TOP 4.5.1.9.: Fasangartenstr. 11 – 688/2-Perlach – Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage Frist zur Stellungnahme bis zum 10.11.2020
+- TOP 4.5.1.10.: Carl-Wery-Str. 41 – 408/0-Perlach – Neubau der Beruflichen Schulen für Farbe und Gestaltung mit Zweifach-Sporthalle, Dienstwohnung und Tiefgarage Frist zur Stellungnahme bis zum 10.11.2020
+- TOP 4.5.1.11.: St.-Martin-Str. 76 – 15667/0-Sektion VIII –Abbruch eines Büro- und Verwaltungsgebäudes mit Kantine sowie Neubau einer Wohnanlage mit Tiefgarage II - VORBESCHEID Frist zur Stellungnahme bis zum 10.10.2020
+- TOP 4.5.1.12.: Carl-Wery-Str. – 415/0-Perlach – Neubau eines Gewerbe- und Bürogebäudes mit Tiefgarage - VORBESCHEID (Carl-Wery- / Arnold-Sommerfeld-Str.) Frist zur Stellungnahme bis zum 31.07.2020; Fristverlängerung bis einschließlich 02.10.2020 (vertagt aus der Sitzung am 10.09.2020)
+- TOP 4.5.1.13.: Fritz-Schäffer-Straße 9 – 1800/14-Perlach – Revitalisierung eines bestehenden Bürogebäudes mit teilweiser Aufstockung und partieller Nutzungsänderung von Büro in Fitness, Gastronomie, Hotel, Beherbergungsstätte, Boarding und Kita, Schaffung zentraler Gebäudeerschließung und flexibler Büro-Nutzungseinheiten, Schaffung neuer außenliegender Fluchttreppenhäuser und Aufzüge Frist zur Stellungnahme bis zum 03.08.2020; Fristverlängerung bis einschließlich 02.10.2020 (vertagt aus der Sitzung am 10.09.2020)
+- TOP 4.5.2: Weitere Anhörungen
+- TOP 4.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 4.6.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.1.1.: Veranstaltung in einer städtischen Grünanlage Hier: Ostpark, Skiroller-Rennen am 11.10.2020 Frist zur Stellungnahme bis zum 02.10.2020
+- TOP 4.6.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.4: Weitere Anhörungen
+- TOP 4.7: Sonstige
+- TOP 5.2.1: Mobilität
+- TOP 5.2.2: Kultur und Stadtbezirksbudget
+- TOP 5.2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 5.2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 5.2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 5.2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität
+- TOP 6.1.1.: Verkehrsprobleme Friedrich-Creuzer-Straße Antwort des Kreisverwaltungsreferats, dass am 27.05.2020 ein eingeschränktes Haltverbot vor den Containern aufgestellt wurde
+- TOP 6.1.2.: Taxi-Standplatz Plettstraße den Gegebenheiten anpassen
+- TOP 6.1.3.: Parksituation Berger-Kreuz-Str. und Hofangerstr.
+- TOP 6.1.4.: Parksituation Ballaufstr. / Uppenbornstr. zwischen Ring und Berger-Kreuz-Str.
+- TOP 6.1.5.: Verbesserung der Kontrollen zur Einhaltung der Geschwindigkeitsbeschränkung auf 30 km/h in der Hofangerstraße und Staudinger Straße und Aufstellen von Dialog-Displays in der Hofangerstraße
+- TOP 6.1.6.: Kurzparkzone Sebastian-Bauer-Str. auf Höhe der evangelischen Kirche Vorschlag des KVR zur Einladung zu einem Ortstermin mit der Polizei durch die BAG
+- TOP 6.1.7.: Sicherheit für Fußgänger und Radfahrer in der Görzer Straße durch geeignete Maßnahmen schaffen (Ziffern 1-4 des Antrags) Empfehlung Nr. 14-20 / E 02666 der Bürgerversammlung des 16. Stadtbezirks Ramersdorf-Perlach am 27.06.2019 Sitzungsvorlage Nr. 14-20 / V 16380 Antwort des Referats für Stadtplanung und Bauordnung zur Bitte um die Prüfung eines Klappschilds (elektronisches Wechselverkehrszeichen) mit temporärem Pfeil geradeaus von 7-9 Uhr an der Ständlerstr. vor der Görzer Str.
+- TOP 6.1.8.: Anfrage zu Verzögerungen des P+R-Parkhausbaus in Neuperlach Süd
+- TOP 6.1.9.: Unzulängliche Barrierefreiheit am Karl-Preis-Platz und an weiteren U-Bahn-Stationen
+- TOP 6.2: Kultur und Stadtbezirksbudget
+- TOP 6.2.1.: Schulprojekt Neugestaltung Unterführung Ständler Straße (Addilostr./Dellauerweg)
+- TOP 6.3: Umwelt, Gesundheit und Grünplanung
+- TOP 6.3.1.: Erfassung und Aktualisierung naturschutzrelevanter Flächen im Rahmen des Projektes "Flächenkulisse Biodiversität" - Beginn der stadtweiten Kartierungsarbeiten Antwort des Referats für Stadtplanung und Bauordnung mit einem Plan für den 16. Stadtbezirk
+- TOP 6.3.2.: Einbeziehung des stadtklimatischen Gutachtens des Deutschen Wetterdienstes in das mikroklimatische Gutachten zum Schutz des Hachinger Tals
+- TOP 6.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 6.4.1.: Aufstellen eines öffentlichen Bücherschranks am Kustermannpark Antwort der Bürgerin zum Schreiben des BA
+- TOP 6.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 6.5.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.5.1.1.: Pfanzeltpl. 4 – 70/0-Perlach – Revitalisierung und Umbau eines ehem. Bauernhofs mit Neubau einer Tiefgarage
+- TOP 6.5.1.2.: Hofangerstr. 5 – 1333/2-Perlach – Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 6.5.1.3.: Hofangerstr. 28 – 1320/88-Perlach – Erweiterung eines Mehrfamilienhauses um eine Wohneinheit
+- TOP 6.5.2.1.: Die Zeit drängt: Pläne für das Siemens-Parkhaus Arnold-Sommerfeld-Straße?
+- TOP 6.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6.6.1.: Lärmbelästigungen und Verletzungen der Grünanlagenlagensatzung der LH München in der Grünanlage ‚Wilramstraße‘ an der Ecke Schlesierstraße, Hohenaschauerstraße und Herrenchiemseestraße
+- TOP 6.6.2.: Mit Kunst und mehrsprachigen Hinweisen gegen Verschmutzung und Lärmbelästigungen an den Wertstoffinseln
+- TOP 6.6.3.: Kundenfreundlichen Service an Stadtsparkassen in Ramersdorf-Perlach nicht zurückfahren II. Wiederaufnahme der vollen Geschäftszeiten an den Filialen Antworten der Stadtsparkasse
+- TOP 6.6.4.: Fläche für einen standalone Sparkassenautomat in der Allee zwischen dem S- und U-Bahnhof Neuperlach Süd und der Maximilian-Kolbe-Allee Antwort der Stadtsparkasse
+- TOP 6.6.5.: Kundenfreundlichen Service an Stadtsparkassen in Ramersdorf-Perlach nicht zurückfahren I. Aufrechterhaltung der Bargeldauszahlungen am Schalter Antwort der Stadtsparkasse
+- TOP 6.7: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität
+- TOP 7.1.1.: Projektname: Programm Barrierefreie Bushaltestellen - Ottobrunner Straße, Haltestelle Diakon-Kerolt-Weg Projektnummer: 5610 Information zum Beginn der Bauarbeiten
+- TOP 7.1.2.: Radwegsanierung: Karl-Marx-Ring Information zum Beginn der Bauarbeiten
+- TOP 7.1.3.: Radwegsanierung in der Ottobrunner Straße zwischen der Schmidbauerstraße und dem Diakon-Kerolt-Weg Information zum Beginn der Bauarbeiten
+- TOP 7.1.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Maßnahmen der Unfallkommission; Heinrich-Wieland-Straße / Ständlerstraße
+- TOP 7.1.5.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 7.1.6.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2021 München fährt Tram V – Fünf-Minuten-Takt für die Tram Antrag Nr. 14-20 / A 5867 von der Fraktion DIE GRÜNEN/RL vom 06.09.2019 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Mobiles München – ehrlich dran arbeiten Antrag Nr. 14-20 / A 05514 von Herrn Stadtrat Röver vom 18.06.2019 MVV fährt im München-Takt Antrag Nr. 14-20 / A 06725 von Frau Stadträtin Wiepcke, Herrn Stadtrat Schall, Herrn Stadtrat Quaas vom 11.02.2020 Buslinie 135 bis zum Gasteig-Interimsquartier in Sendling verlängern Antrag Nr. 14-20 / A 06814 von Frau Stadträtin Olhausen vom 20.02.2020 Verlängerung der Fahrtzeiten der Linie 199 bis Mitternacht Antrag Nr. 14-20 / B 05631 des Bezirksausschusses des Stadtbezirkes 15 – Trudering-Riem vom 13.12.2018
+- TOP 7.2: Kultur und Stadtbezirksbudget
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.2.3.1.: Übersichtslisten zum Stadtbezirksbudget; 1/2020
+- TOP 7.3: Umwelt, Gesundheit und Grünplanung
+- TOP 7.3.1.: Leistungsbilanzen des Baureferates
+- TOP 7.3.2.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken Schreiben des BA 17 Obergiesing - Fasangarten
+- TOP 7.3.3.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 7.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 7.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.2.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 7.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 7.5.2.1.: Wackenroderstr. 1/Vulpiusstr. 92; Fällungsantrag vom 05.06.2020; Bescheid vom 14.09.2020
+- TOP 7.5.2.2.: Hötzlring 27; Fällungsantrag vom 26.07.2020; Bescheid vom 15.09.2020
+- TOP 7.5.3.1.: Balanstr., Mitteilung vom 26.08.2020
+- TOP 7.5.3.2.: Dornröschenstr., Mitteilung vom 16.09.2020
+- TOP 7.5.3.3.: Auflegerstr., Mitteilung vom 15.09.2020
+- TOP 7.5.4: Weitere Unterrichtungen
+- TOP 7.5.4.1.: Internetzugang zum städtischen geografischen Auskunftssystem GeoPortal München für alle Mitglieder der Bezirksausschüsse
+- TOP 7.5.4.2.: Information des Baureferats an einen Bürger zu einer weiteren Nachfrage zum Bauvorhaben Strehleranger 2, insbesondere zum Baulärm
+- TOP 7.5.4.3.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 7.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 7.6.1.1.: "Wohnzimmer3null", Schank- und Speisewirtschaft, Heinrich-Böll-Str. 75
+- TOP 7.6.2: Weitere Unterrichtungen
+- TOP 7.6.2.1.: Information der AWM, dass vier Standorte für Wertstoffinseln nicht realisiert werden können: 1. Friedrich-Panzer-Weg Nähe Schönwerthstraße 2. Adam-Berg-Straße ggü. 137 - Ersatzstandort für die Zieglerstraße 3. Hofer Straße (bei Lidl) 4. Ersatzstandort Balanstraße bei Bahnübergang – Variante 1 Görzer Straße / Balanstraße
+- TOP 7.6.2.2.: Informationsschreiben zu „Grundsatzbeschlüssen“ der Münchner Bezirksausschüsse zur Zusammenarbeit mit Mandatsträger*innen der Alternative für Deutschland (AfD)
+- TOP 7.6.2.3.: Informationsschreiben Nr. 07/2020: Fall der persönlichen Beteiligung nach Art. 49 GO
+- TOP 7.6.2.4.: Information der AWM, dass für den Standort Balanstraße / Frankenwaldstraße eine Sondernutzungsgenehmigung erteilt wurde.
+- TOP 7.6.2.5.: Silvesterfeuerwerk? Nein Danke! – Information zum derzeitigen Stand Schreiben der Bürgerinitiative vom 02.09.2020 an alle Bezirksausschüsse
+- TOP 7.7: Sonstige
+- TOP 8.1.1: Mobilität
+- TOP 8.1.1.1.: Dienstag, 20.10.2020, 19.00 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
+- TOP 8.1.2: Kultur und Stadtbezirksbudget
+- TOP 8.1.2.1.: Donnerstag, 22.10.2020, 19:30 Uhr, Gemeindesaal der Evangelisch-Reformierten Gemeinde an der Kurt-Eisner-Straße 50
+- TOP 8.1.3: Umwelt, Gesundheit und Grünplanung
+- TOP 8.1.3.1.: Montag, 12.10.2020, 19.00 Uhr, Forschungsbrauerei, Unterhachinger Str. 78, 81737 München
+- TOP 8.1.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 8.1.4.1.: Dienstag, 20.10.2020, 19:00 Uhr, im Bräustüberl der Forschungsbrauerei Perlach, Unterhachinger Str. 78, 81737 München
+- TOP 8.1.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 8.1.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 8.1.6.1.: Mittwoch, 21.10.2020, 19:30 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
