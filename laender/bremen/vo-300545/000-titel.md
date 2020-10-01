@@ -1,1 +1,1 @@
-# Verordnung über die Ermittlungspersonen der Staatsanwaltschaft vom 5. Dezember 1995
+# Verordnung über die Ermittlungspersonen der Staatsanwaltschaft vom 8. September 2020
