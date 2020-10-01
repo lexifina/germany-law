@@ -1,0 +1,1 @@
+# Verordnung zur weiteren Verlängerung der zulässigen Befristungsdauer nach § 117 Absatz 1 Satz 4, § 118 Absatz 1 Satz 3 und § 118a Absatz 1 Satz 3 des Bremischen Beamtengesetzes aus Anlass der COVID-19-Pandemie (Befristungsdauer-Verlängerungs-Verordnung) v
