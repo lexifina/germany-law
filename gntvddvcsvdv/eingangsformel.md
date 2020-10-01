@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes – Absatz 1 Nummer 2 geändert durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) – in Verbindung mit den §§ 10, 10a Absatz 8 sowie Anlage 2 Nummer 22 und Anlage 3 der Bundeslaufbahnverordnung, von denen § 10 zuletzt durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert und Anlage 2 Nummer 22 durch Artikel 1 Nummer 9 der Verordnung vom 15. September 2020 (BGBl. I S. 1990) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:

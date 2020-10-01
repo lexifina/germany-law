@@ -1,0 +1,8 @@
+# Anlage 3 (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+
+1. Praktikum in der Klinik oder Poliklinik für Zahn-, Mund- und Kieferkrankheiten I und II
+2. Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung I und II
+3. Praktikum der kieferorthopädischen Diagnostik und Therapie I und II
+4. Operationskurs I und II
+5. Integrierte Behandlungskurse I bis IV
+6. Radiologisches Praktikum mit besonderer Berücksichtigung des Strahlenschutzes, das inhaltlich mindestens dem Kurs nach Anlage 3.1 der Richtlinie Fachkunde und Kenntnisse im Strahlenschutz bei dem Betrieb von Röntgeneinrichtungen in der Medizin oder Zahnmedizin vom 22. Dezember 2005 (GMBl 2006 S. 415), die zuletzt durch das Rundschreiben des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit vom 27. Juni 2012 – RS II 4 – 11603/01 (GMBl 2012 S. 724) geändert worden ist, entspricht. Das Radiologische Praktikum umfasst insgesamt mindestens 28 Stunden.

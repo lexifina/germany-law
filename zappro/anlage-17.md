@@ -1,0 +1,23 @@
+# Anlage 17 (zu § 56, § 134 Absatz 1 Satz 7)Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
+
+|  |  |
+| .............................(Ausstellende Stelle) |  |
+| Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung |
+| Der/Die Studierende der Zahnmedizin................................. |
+| geboren am ................................. in ............................. |
+| hat den Zweiten Abschnitt der Zahnärztlichen Prüfung am ................................ |
+| in ............................ mit der Note „......................“ |
+| (.........................) | bestanden. |
+| (Zahlenwert) |  |
+| Er/Sie hat bei der Bewertung der Prüfungsleistungen folgende Noten erreicht: |
+| Fach Zahnärztliche Prothetik | Note „...............“ |
+| Fach Kieferorthopädie | Note „...............“ |
+| Fach Oralchirurgie und Mund-, Kiefer- und Gesichtschirurgie | Note „...............“ |
+| Fach Endodontologie (Fächergruppe Zahnerhaltung) | Note „...............“ |
+| Fach Kinderzahnheilkunde (Fächergruppe Zahnerhaltung) | Note „...............“ |
+| Fach Parodontologie (Fächergruppe Zahnerhaltung) | Note „...............“ |
+| Fach Zahnhartsubstanzlehre, Prävention und Restauration (Fächergruppe Zahnerhaltung) | Note „...............“ |
+| Ort, Datum ..................,..................... |  |
+| Siegel |  |
+|  |  |
+| ...............................(Unterschrift) |  |
