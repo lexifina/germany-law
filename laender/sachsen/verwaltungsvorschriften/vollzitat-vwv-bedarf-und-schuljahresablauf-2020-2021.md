@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2020/2021
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-05-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.1
+- Datum: 2020-10-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.05.2020
+02.10.2020
 bis
-01.10.2020
+03.12.2020
 
 VwV Bedarf und Schuljahresablauf 2020/2021
 
@@ -204,7 +204,7 @@ Lehrerwochenstunden Gymnasien mit vertiefter Ausbildung
 
 | aa)
 
-| bei sportliche Vertiefung
+| bei sportlicher Vertiefung
 
 | 1,0 Lehrerwochenstunden,
 
@@ -1121,23 +1121,37 @@ Realschulabschluss
 
 | Deutsch und Sorbisch
 
-| 2. Juni 2021
+|  2. Juni 2021
 
 | 30. Juni 2021
 
 
 | Mathematik
 
-| 4. Juni 2021
+|  4. Juni 2021
 
-| 2. Juli 2021
+|  2. Juli 2021
 
 
-| Physik/Chemie/Biologie
+| Biologie
 
-| 8. Juni 2021
+|  8. Juni 2021
 
-| 6. Juli 2021
+|  6. Juli 2021
+
+
+| Chemie
+
+|  9. Juni 2021
+
+|  7. Juli 2021
+
+
+| Physik
+
+|  9. Juni 2021
+
+|  7. Juli 2021
 
 
 c)
@@ -1267,11 +1281,13 @@ Bis zum 28. September 2020 werden die gewählten Prüfungsfächer (Jahrgangsstuf
 
 2.
 
-Bis zum 22. Januar 2021 sollen Anträge auf Nachteilsausgleich gemäß § 52 Absatz 2 Satz 1 Nummer 8 der Schulordnung Gymnasien Abiturprüfung vom 27. Juni 2012 (SächsGVBl. S. 348), die zuletzt durch Artikel 1 der Verordnung vom 7. Mai 2018 (SächsGVBl. S. 240) geändert worden ist, in der jeweils geltenden Fassung, gestellt werden.
+Bis zum 12. Oktober 2020 sollen Anträge auf Nachteilsausgleich gemäß § 55a Absatz 2 Satz 2 Schulordnung Gymnasien Abiturprüfung vom 27. Juni 2012 (SächsGVBl. S. 348), die zuletzt durch Artikel 1 der Verordnung vom 10. Juni 2020 (SächsGVBl. S. 288) geändert worden ist, in der jeweils geltenden Fassung, gestellt werden.
+
 
 3.
 
-Das Landesamt für Schule und Bildung beruft die Vorsitzenden der Prüfungsausschüsse bis zum 7. Dezember 2020 und benennt den Prüfungsausschuss für den Erwerb des französischen Baccalauréat gemäß § 67 Absatz 6 der Schulordnung Gymnasien Abiturprüfung in Verbindung mit Nummer 1 der Anlage 5 zur Schulordnung Gymnasien Abiturprüfung bis zum 21. April 2021.
+Das Landesamt für Schule und Bildung beruft die Vorsitzenden der Prüfungsausschüsse bis zum 9. Oktober 2020 und benennt den Prüfungsausschuss für den Erwerb des französischen Baccalauréat gemäß § 67 Absatz 6 der Schulordnung Gymnasien Abiturprüfung in Verbindung mit Nummer 1 der Anlage 5 zur Schulordnung Gymnasien Abiturprüfung bis zum 21. April 2021.
+
 
 4.
 
@@ -1622,6 +1638,11 @@ Arbeit
 3.
 
 Der Bericht über die Analyseergebnisse der besonderen Leistungsfeststellung erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 16. Juli 2021.
+
+
+4.
+
+Für Anträge auf Nachteilsausgleich gemäß § 27 Absatz 4 Satz 3 der Schulordnung Gymnasien Abiturprüfung gilt Teil C Ziffer IV Nummer 2 entsprechend.
 
 
 VI.
@@ -2217,7 +2238,8 @@ Fachoberschule
 Prüfung
 
 
-| fachrichtungs­zogenes Fach
+| fachrichtungs-
+bezogenes Fach
 
 | 4. Juni 2021
 
@@ -2644,7 +2666,7 @@ Fachoberschule
 
 | Gliederung
 
-| Terminn für
+| Termin für
 
 | Tag
 
@@ -2801,9 +2823,9 @@ Fsn-Nr.: 710-V20.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Mai 2020
+Fassung gültig ab:  2. Oktober 2020
 
-Fassung gültig bis:  1. Oktober 2020
+Fassung gültig bis:  3. Dezember 2020
 
 Drucken/Speichern
 
@@ -2830,7 +2852,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18674.1
+https://www.revosax.sachsen.de/vorschrift/18674.2
 Stand vom
 18.11.2026
 
