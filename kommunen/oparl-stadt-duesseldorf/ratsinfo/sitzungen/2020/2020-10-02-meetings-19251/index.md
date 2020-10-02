@@ -1,0 +1,60 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-10-02T16:04:00+02:00
+- Ende: 2020-10-02T17:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19251
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19251
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 18.09.2020 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28.08.2020 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Silcherstraße - Eingabe nach § 24 GO NRW - einstimmig beschlossen
+- TOP 5: Sitzungstermine der Bezirksvertretung 9 im Jahr 2021 - einstimmig beschlossen
+- TOP 6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B + C - beschlossen
+- TOP -: Anfragen aus früheren Sitzungen
+- TOP 8: Bauausführung Projekt Friedhofstraße 9, 9a, 9b, 9c - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP -: Aktuelle Anfragen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Friedhof Itter, Vorlage AÖE/026/2020 - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP -: Anträge
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Mittelstreifen Hildener Straße - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 13: Parken Urdenbacher Dorfstraße 35 - 39 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 14: Silcherstraße - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Markierung von festen Abstellfächen für E-Scooter auf dem Kamper Acker - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 17: Geschwindigkeitskontrollen in der Straße "Am Falder" - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 18: Werbung für den Wochenmarkt am Kamper Acker - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP -: Verfügungsmittel der Bezirksvertretung 9
+- TOP 19: Verfügungsmittel: Chorverband Düsseldorf e.V. - Konzerte und Auftritte der Chöre im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 20: Verfügungsmittel: Jumpers gGmbh Düsseldorf - Mobile Fahrradwerkstatt - einstimmig beschlossen
+- TOP 21: Verfügungsmittel: St. Sebastianus Schützenverein Düsseldorf Wersten 1925 e.V. - Aufstellen eines Gerüstes für die Dachsanierung des Vereinsheims - einstimmig beschlossen
+- TOP 22: Verfügungsmittel: GGS Henri-Dunant - Anschaffung von Spielgeräten für den Pausenhof - einstimmig beschlossen
+- TOP 23: Verfügungsmittel: Kleingartenverein der Kriegsbeschädigten Wersten e. V. - Feier zum 100 jährigen Bestehen des Vereins - einstimmig beschlossen
+- TOP 24: Verfügungsmittel: Allgemeiner Bürgerverein Urdenbach e.V. - Pflasterung am Gruppenbaum - einstimmig beschlossen
+- TOP 25: Verfügungsmittel: Allgemeiner Bürgerverein Urdenbach e.V. - Aufstellung und Beleuchtung eines Weihnachtsbaumes auf dem Josef-Kürten-Platz - einstimmig beschlossen
+- TOP 26: Verfügungsmittel: Gemeinschaftsgrundschule Selma-Lagerlöf- Erstellung einer Schulhomepage - einstimmig beschlossen
+- TOP 27: Verfügungsmittel: Düsseldorfer Zentrum für russisch-deutsche Kultur e.V. - Projekt " 25 Jahre Integration in Düsseldorf-Süd" - einstimmig beschlossen
+- TOP 28: Verfügungsmittel: Martinsfreunde Hassels - Martinszug Hassels 2020 - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 29: Mobilitätsstationen im Stadtbezirk 9 Beschluss der Bezirksvertretung 9 vom 08.03.2019, 179/52/2019 - zur Kenntnis genommen
+- TOP 30: Blumenwiese statt Grünstreifen Beschluss der Bezirksvertretung 9 vom 28.06.2019, 179/127/2019 - zur Kenntnis genommen
+- TOP 31: WC-Anlage Busbahnhof Benrath - Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/112/2020 - zur Kenntnis genommen
+- TOP 32: Paulsmühlenstraße - Markierung der Personenunterführung - Beschluss der Bezirksvertretung 9 vom 13.09.2019, BV9/30/2019 - zur Kenntnis genommen
+- TOP 33: Wimpfener Straße/ Hospitalstraße-Verbindungsweg - Rad- und Fußverkehrsführung - Beschluss der Bezirksvertretung 9 vom 08.03.2019, 179/64/2019 - zur Kenntnis genommen
+- TOP 34: Radfahrstreifen Benrather Schloßallee - Beschluss der Bezirksvertretung 9 vom 15.05.2020, BV9/084/2020 - zur Kenntnis genommen
+- TOP 35: Radverkehrsanlage Benrather Schloßallee Beschluss der Bezirksvertretung 9 vom 28.08.2020, BV9/151/2020 - zur Kenntnis genommen
+- TOP 36: Problemzone Wersten-Südost Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/105/2020 - zur Kenntnis genommen
+- TOP 37: Radargeschwindigkeitskontrollstationen Ickerswarder Straße Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/119/2020 - zur Kenntnis genommen
+- TOP 38: Bücherschrank Benrath Beschluss der Bezirksvertretung vom 24.01.2020, BV9/025/2020 - zur Kenntnis genommen
+- TOP 39: Ergänzende Rodungsarbeiten im Zuge von Kanalsanierungsarbeiten innerhalb der Itterstraße - zur Kenntnis genommen
