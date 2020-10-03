@@ -1,1 +1,1 @@
-# Bremisches Gesetz zur Erleichterung von Investitionen vom 28. Februar 2012
+# Bremisches Gesetz zur Erleichterung von Investitionen (InvErlG) vom 22. September 2020
