@@ -1,0 +1,106 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2020-10-05T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5786573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5786573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.3.1.: Budget-Bescheide
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Wildblumenwiese auf dem Neuhofener Berg
+- TOP 2.2.: Lärmbelästigung Wackersport
+- TOP 2.3.: Begrünung der Fassade Gasteig-Interim / Klärung Verkehrsplanung Gasteig-Interim
+- TOP 2.4.: Sicherheit der Überquerung Herzog-Ernst-Platz
+- TOP 2.5.: Parkraummanagement Sendling-Thalkirchen Beschwerde Abdruck an den Bezirksausschuss
+- TOP 2.6.: Bauarbeiten Fallstraße 22
+- TOP 2.7.: Initiativantrag "Lebensqualität Neuhofen"
+- TOP 2.8.: Parklizenzgebiet Thalkirchen
+- TOP 2.9.: Drei Anliegen zum Margareten Platz / Neuhauser Weg
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Grundsätzliche Forderung von Ersatzpflanzung bei Baumfällungen Antrag aus dem BA 17 Obergiesing-Fasangarten
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Gaißacherstraße 17
+- TOP 4.2.2.: Bauvorhaben Lindenschmitstraße 37
+- TOP 4.2.3.: Bauvorhaben Plinganserstraße 28
+- TOP 4.2.4.: Bauvorhaben Wackersberger Straße 59-61
+- TOP 4.2.5.: Baumfällung Implerstraße 69
+- TOP 4.2.6.: Bauvorhaben Berlepschstraße 8
+- TOP 4.2.7.: Bauvorhaben Lindenschmitstraße 21
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Beleuchtung im Südbad Antwort an Bürger
+- TOP 4.3.3.: Genehmigung nach der Erhaltungssatzung Kidlerstraße 21
+- TOP 4.3.4.: Glas- Abfallcontainer an der Valleystraße Antwort an Bürger
+- TOP 4.3.5.: Beschwerde zum Schlachthof München
+- TOP 4.3.6.: Leistungsbilanz des Baureferats für die Bürgerversammlung
+- TOP 4.3.7.: Bauvorhaben Margaretenplatz 11 - 12 Bescheid
+- TOP 4.3.8.: Bürgeranfrage zum Bauvorhaben an der Danklstraße 33 Antwort an den Bürger
+- TOP 4.3.9.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.3.10.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 4.3.11.: Wettbewerbsverzerrende Förderung des Deutschen Alpenvereins durch die Landeshaupstadt München Abdruck des Anwaltsschreibens an den Oberbürgermeister und an das Direktorium
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Wertstoffsammlung verbessern, Recyclingquoten erhöhen, Wertstofftonne einführen [ÖDP&FDP]
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Fristverlängerung für den BA-Antrag Ertüchtigung der Südseite des Mittleren Rings für gegenläufigen Radverkehr zwischen Tunnelausfahrt Brudermühlstraße und Passauerstraße BA-Antrag Nr. 20-26 / B 00102
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung Aberlestraße 29, 35-37, 42, 46 Lindenschmittstraße 18 Seite Aberlestraße
+- TOP 5.3.2.: Fahrradabstellanlagen Lagerhausstraße - Lindenschmitstraße - Karwendelstraße
+- TOP 5.3.3.: Sendlinger Stadtstreicher in der Grünanlage Neuhofener Park (westl. Alois-Johannes-Lippl-Weg, südl. Wiese) am 20.09.2020 (Ersatztermin: 19.09.2020)
+- TOP 5.3.4.: Betriebskonzept der U-Bahn währen der Schienenschleifarbeiten
+- TOP 5.3.5.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradzonen + Fahrradstr. in Sendling bringen mehr Sicherheit [ÖDP]
+- TOP 5.4.2.: Fahrzeug-Schieberinne für Treppe von Oberländerstraße zu Plinganserstraße [ÖDP]
+- TOP 5.4.3.: Fahrradservicestationen an Fahrradhauptrouten aufstellen [ÖDP]
+- TOP 5.4.4.: Grün Pfeil für Radler [ÖDP]
+- TOP 5.4.5.: Neugestaltung des Herzog-Ernst-Platzes [SPD]
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Artists in a box" Musikalischer Abschluss für "Artists in a box" vom 09.10. bis 10.10.2020 900,00 € / Az. 0262.0-6-0294
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: REGSAM Schwerpunktgebiete für 2021
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Neues Spielgerät für den Spielplatz Neuhofen Süd [UA Bildung und Soziales]
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Grill*Döner*Burek
+- TOP 8.3.2.: Genehmigung einer Freischankfläche Am Harras 15
+- TOP 8.3.3.: Genehmigung einer Freischankfläche Plinganserstraße 102
+- TOP 8.3.4.: Unveränderte Fortführung Ehem. Buco&#039;s Grill
+- TOP 8.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Fall der persönlichen Beteiligung nach Art. 49 GO
+- TOP 9.3.2.: "Grundsatzbeschlüsse" der Münchner Bezirksausschüsse zur Zusammenarbeit mit Mandatsträger*innen der Alternative für Deutschland (AfD)
+- TOP 9.3.3.: Durchführung eigener Veranstaltungen
+- TOP 9.3.4.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
