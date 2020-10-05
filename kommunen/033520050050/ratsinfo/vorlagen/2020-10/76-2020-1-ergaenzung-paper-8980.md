@@ -1,0 +1,24 @@
+# Kita Sellstedt, Anbau der Mitarbeiterräume
+
+- Körperschaft: Gemeinde Schiffdorf
+- Drucksache/Vorlage: 76/2020 - 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-10-05
+- Ratsinformationssystem: https://schiffdorf.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXw6pbMhvSeT06GmrtC_A7o
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8980
+- Quelle: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Kita Sellstedt, Anbau der Mitarbeiterräume) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ76qSB-T6h8wYHbDffliUizKwzRKYK6ofsp4JCgACFZ/Beschlussvorlage_76-2020_-_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Variante 2 zweigeschossig) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFR8qsts_gmDY4D-Oz1YZQTHo03zHDB5KX0uKpj4q1z/Variante_2_zweigeschossig.pdf
+- Anlage: Beschlussvorlage (Variante 2 Kosten) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQAHeaG4CgANX4xs1N_yTKIt5I6V7u2DaSx8--ZqnrrU/Variante_2_Kosten.pdf
+- Anlage: Beschlussvorlage (Variante 3 eingeschossig) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQexbPzyRdszIZnY4qM0yTsmBwDxl7BWFBnRyaLSm2Cf/Variante_3_eingeschossig.pdf
+- Anlage: Beschlussvorlage (Fotos Ostgiebel Gruppenraum I) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQpCF2qaWDOWypD5ARrD0W7qr8jBrRPBF3twUbcbsfna/Fotos_Ostgiebel_Gruppenraum_I.pdf
+- Anlage: Beschlussvorlage (Variante 3 Kosten) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZJT-AO2SSSPpwqscW_Uzy8s7B_pG46tKzJYPr3Jpba-/Variante_3_Kosten.pdf
+- Anlage: Beschlussvorlage (Auszug Bestandspläne) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTUv2NPAl2Pc-1kbUGBSSbCJFvfc6aq8TCBSoqE8TldV/Auszug_Bestandsplaene.pdf
+- Anlage: Beschlussvorlage (Fotos Bestandsgebäude) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfca3qbiL51jekB9CD913GQaCM9nO1qO3j8hnU03_2rC/Fotos_Bestandsgebaeude.pdf
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5246 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-42
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5247 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5182 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-42
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5254 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5256 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-42
+- Beratung:   https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-39
