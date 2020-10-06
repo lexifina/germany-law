@@ -1,0 +1,88 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752694
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752694
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Kaltenmoserstr. 3 (VB)
+- TOP 6.2.2: Festingstr. o. Nr. (VB)
+- TOP 6.2.3: Boschetsrieder Str. 6 / RGB
+- TOP 6.2.5: Badstr. 16 (VB)
+- TOP 6.2.7: Hofbrunnstr. 113
+- TOP 6.2.8: Höglwörther Str. 383
+- TOP 6.2.9: Goyastr. 7
+- TOP 6.2.10: Reismühlenstr. 47
+- TOP 6.2.11: Zielstattstr. 72 (VB)
+- TOP 6.2.12: Reismühlenstr. 4 (VB)
+- TOP 6.2.13: Reismühlenstr. 8 (VB)
+- TOP 6.2.14: Fürstenackerstr. 33
+- TOP 6.2.15: Plattlinger Str. 4
+- TOP 6.2.16: Geisenbrunner Str. 55 (VB)
+- TOP 6.2.17: Weltistr. 2a (VB)
+- TOP 6.2.18: Mühlthaler Str. 69a
+- TOP 6.2.20: Vinzenz-Schüpfer-Str. 10
+- TOP 6.2.21: Am Isarkanal 36
+- TOP 6.2.22: Buchendorfer Str. 23
+- TOP 6.2.23: Melchiorstr. 73 (VB)
+- TOP 6.2.24: Traubinger Str. 20 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 08.09.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.1.1: Bestellung städtischer Leistung: Spielgerät(e) Spielplatz Allescherstraße
+- TOP 3.2.: (Antrag) Bestellung städtischer Leistungen: Spielhäuschen für Kleinkinder am Spielplatz Sollner Hügel
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Rhythmik-Trommeln vom 21.09.2020 – 20.09.2021 945,00 €, AZ: 0262.0-19-0338
+- TOP 3.4.: (E) Stadtbezirksbudget Kath. Öffentliche Bücherei St. Johann Baptist Solln Anschaffung von Büchern aller Art zur Aktualisierung des Bestandes vom 10.10. - 30.11.2020 750,00 € / Az. 0262.0-19-0342
+- TOP 3.5.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V. Christbaum für Thalkirchen vom 28.11.2020 – 06.01.2021 2.790,00 € / Az. 0262.0-19-0345
+- TOP 3.6.: (E) Stadtbezirksbudget Caritas München Süd Stadtteilspaziergänge von November – Dezember 2020 1.785,00 € / Az. 0262.0-19-0344
+- TOP 3.7.: (E) Stadtbezirksbudget Andreas Gospel Singers Anschaffung von Podesten ab 01.12.2020 1.161,90 € / Az. 0262.0-19-0346
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Situierung der Wertstoffcontainer an den beiden Eingängen der Grundschule Berner Straße
+- TOP 4.1.2: Ökologische Aufwertung des Rasenmittelstreifens an der Boschetsrieder Straße
+- TOP 4.1.3: Versetzung der Wertstoff- und Kleidercontainer an der Forstenrieder Allee 120 (bei EDEKA)
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) 5G-Ausbau
+- TOP 4.4.: Neubau von Mobilfunksendeanlagen
+- TOP 4.5.: Ersatzpflanzungen bei Baumfällungen
+- TOP 4.6.: (Antrag) Verlegung Wertstoffcontainerstandort Kistlerhofstraße
+- TOP 4.7.: (Antrag) Wertstoffinsel Knotestraße
+- TOP 4.8.: Versetzung der Wertstoffcontainer Berner Straße
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Radwegsituation auf der Westseite der Forstenrieder Allee zwischen Züricher Str. und Fritz-Baer-Str.
+- TOP 5.3.: (Antrag) Forstenrieder Allee (südl. Abschnitt), Teilstück des Gehweges instandsetzen
+- TOP 5.4.: Aktuelle Situation: Parkraummanagement Thalkirchen
+- TOP 5.5.: (Antrag) Fahrradständer für die Grundschule an der Berner Straße
+- TOP 5.6.: (Antrag) Tempo 30 in der südlichen Tölzer Straße
+- TOP 5.7.: (Antrag) Errichten eines Zauns auf dem Mittelstreifen der Drygalski-Allee beim Thomas-Mann-Gymnasium
+- TOP 5.8.: (Antrag) Verkehrssituation beim Leeren der Container an der Forstenrieder Allee 120
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Bebauungsplan mit Grünordnung Nr. 2139 - Höhenprofil des Projektes
+- TOP 6.2.: (A) Bauvorhaben
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Regelung der Mund- und Nasenschutz-Bedeckung an Grundschulen
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Erklärende Zusatzschilder für Straßennamen im 19. Stadtbezirk
+- TOP 6.2.4: Stäblistr. 13 (VB)
+- TOP 6.2.6: Fertigstr. 7
+- TOP 6.2.19: Zielstattstr. 21 (T)
