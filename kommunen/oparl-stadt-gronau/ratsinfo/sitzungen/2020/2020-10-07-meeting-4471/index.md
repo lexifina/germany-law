@@ -1,0 +1,62 @@
+# Rat (72. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-10-07T18:02:00+02:00
+- Ende: 2020-10-07T21:36:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXWoAEFGHzy81QgR412T2Yc
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4471
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOMmlYg1F21FALVFyXYYvQCpmNHxLKqUjst2DGDoxh5/Bekanntmachung_Rat_07.10.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcQQwrSlTpscnycssXOc6HsWsvJ2uTp2-hcHFebf6h7M/Oeffentliche_Niederschrift_Rat_07.10.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Bestellung eines Schriftführers - Einstimmig, 0 Enthaltungen
+- TOP 3.: Niederschrift vom 26.08.2020
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion pro:Bürgerschaft/Piraten vom 27.07.2020; „Das vierte Rathaus sollte ein Home-Office sein!“ - 36 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 4.1.1: Antrag der Fraktion pro:Bürgerschaft/Piraten vom 27.07.2020; „Das vierte Rathaus sollte ein Home-Office sein!“
+- TOP 4.2: Antrag der UWG-Fraktion vom 20.09.2020; Sofortmaßnahmen gegen Vermüllung der Containerstandorte - Einstimmig, 0 Enthaltungen
+- TOP 4.2.1: Antrag der UWG-Fraktion vom 20.09.2020; Sofortmaßnahmen gegen Vermüllung der Containerstandorte
+- TOP 4.3: Antrag der CDU-Fraktion und RM Ulrich Doetkotte (FDP) vom 25.09.2020; Aufhebung Sperrvermerk zur Mittelfreigabe € 65.000,00 für unabhängige Setzungsmessung für den Bereich des Kavernenfeldes - Einstimmig, 2 Enthaltungen
+- TOP 4.3.1: Antrag der CDU-Fraktion und RM Ulrich Doetkotte (FDP) vom 25.09.2020; Aufhebung Sperrvermerk zur Mittelfreigabe € 65.000,00 für unabhängige Setzungsmessung für den Bereich des Kavernenfeldes
+- TOP 4.4: Antrag der Fraktion pro:Bürgerschaft / Piraten vom 27.09.2020; Stärkung der Partizipation - 35 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 5.: Neubau des historischen Rathauses an der Bahnhofstraße Beteiligung der Stadt Gronau am Projektaufruf 2021 im Rahmen des Bundesprogramms Nationale Projekte des Städtebaus - Einstimmig, 0 Enthaltungen
+- TOP 6.: Planung eines historischen Rathauses an der Bahnhofstraße hier: Durchführung eines Verhandlungsverfahrens für die Vergabe der Planungsleistungen - Einstimmig, 1 Enthaltungen
+- TOP 7.: Sanierung des denkmalgeschützten Rathauses Konrad-Adenauer-Strasse 1, Sachstand Gesamtkomplex Rathaus und Antrag der Fraktion Pro Bürgerschaft/Piraten - Einstimmig, 0 Enthaltungen
+- TOP 8.: Neufassung/Fortschreibung des Einzelhandelskonzepts für die Stadt Gronau
+- TOP 9.: Antrag zum Förderprogramm "Dritte Orte" des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein Westfalen des Vereins Grenzenlos Gronau GRENZENLOS - Ein dritter Ort für Gronau und die Region - 10 Jastimmen, 23 Neinstimmen, 3 Enthaltungen
+- TOP 10.: Projekt Dritter Ort Gedenk- und Lernort Alte Synagoge Epe - Einstimmig, 0 Enthaltungen
+- TOP 11.: Teilnahme am Landesprogramm Bau.Land.Partner: Standorte aktivieren! Abschluss einer Konsensvereinbarung zwischen dem Land NRW und der Stadt Gronau - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Digitalisierung Sitzungsunterlagen (Ratsarbeit, Gremien, Aufsichtsräte)
+- TOP 13.: Sachstand Corona
+- TOP 14.: Ergebnis der Abfrage zusätzlicher, coronabedingter Unterstützungsbedarfe - Einstimmig, 1 Enthaltungen
+- TOP 14.1: Ergebnis der Abfrage zusätzlicher, coronabedingter Unterstützungsbedarfe / Ergänzung: Coronabedingte Unterstützungsbedarfe im Ehrenamt - Einstimmig, 0 Enthaltungen
+- TOP 15.: Flüchtlingsbetreuung 2021 - Projektverlängerung - 37 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 16.: 4. Ergänzung – Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Entwurf des Gesamtabschlusses 2018 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Kenntnisnahme zur Verlängerung der Optionsfrist nach § 2b Umsatzsteuergesetz (UStG) i. V. m. § 27 Abs. 22 S. 3 UStG
+- TOP 19.: 102. Änderung des Flächennutzungsplans für den Bereich "Markenfort", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 44 "Grüner Weg", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bebauungsplan Nr. 187 "Östlich der Eichenhofstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - 26 Jastimmen, 5 Neinstimmen, 7 Enthaltungen
+- TOP 22.: Aufstellung des Bebauungsplans Nr. 197 „Nördlich der Musikantensiedlung“, Stadtteil Gronau. Parallel Aufstellung der 104. Änderung des Flächennutzungsplans Bereich „An der Musikantensiedlung“, Stadtteil Gronau. - 37 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 23.: Bebauungsplan Nr. 195 Nordöstlich der Schwarzenbergstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13b BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - 36 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 24.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Besuch Verkehrsminister Wüst am 12.10.2020
+- TOP 25.2: Ehrenamtspreis der Sparkasse Westmünsterland
+- TOP 25.3: Schreiben der Gewerkschaft Verdi
+- TOP 25.4: Hecke Spielplatz "Spechtholtshook"
+- TOP 25.5: Rückgabe von Unterlagen der ausscheidenden RM
+- TOP 26.: Anfragen
+- TOP 26.1: Flüchtlingssituation in Gronau (schriftl. Anfrage von RM Wagner)
+- TOP 26.2: Bekanntmachung der Widerspruchsmöglichkeit von Datenübermittlung (Anfrage von RM Strestik)
+- TOP 26.3: Öffnungszeiten im Rathausservice Epe (Anfrage RM Doetkotte)
+- TOP 26.4: Sachstand zu einer Anfrage "Riekenmaateweg" (Anfrage RM Meyer-Kernebeck)
+- TOP 26.5: Bezahlsystem Eintritt Bäder (Anfrage RM Buchholz)
+- TOP 26.6: Versorgung der Schulen (Anfrage RM Buchholz)
