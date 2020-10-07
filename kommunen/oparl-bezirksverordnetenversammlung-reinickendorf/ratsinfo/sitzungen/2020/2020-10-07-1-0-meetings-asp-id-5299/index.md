@@ -1,0 +1,177 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2020-10-07T17:00:00+02:00
+- Ende: 2020-10-07T20:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5299
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5299
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Ladesäule für E-Autos in Heiligensee - beantwortet
+- TOP 2.2: Modalfilter Waldseeviertel - beantwortet
+- TOP 2.3: Löschung personenbezogener Daten - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 45. Sitzung der BVV am 07.10.2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Ergebnisse der Bodenuntersuchungen - beantwortet
+- TOP 4.2: Überlegung des Senats zum nächtlichen Alkoholverbot - beantwortet
+- TOP 4.3: Bahngelände Frohnau - beantwortet
+- TOP 4.4: Durchsetzung der AHA-Regeln in Reinickendorf - beantwortet
+- TOP 4.5: Pandemie-bedingte Insolvenzen in Reinickendorf - beantwortet
+- TOP 4.6: Ansammlung von Menschen in Reinickendorf - beantwortet
+- TOP 4.7: Gewährleistung der Benutzbarkeit der Toiletten im Rathaus Reinickendorf - beantwortet
+- TOP 4.8: Vorlesetage - beantwortet
+- TOP 4.9: Doppelstockparker in Frohnau - beantwortet
+- TOP 4.10: Unterstützung Geflüchteter bei Kitasuche - beantwortet
+- TOP 4.11: Kita Froschkönig - schriftlich beantwortet
+- TOP 4.12: Umsetzung des Master Hygiene Plan an Reinickendorfer Schulen - schriftlich beantwortet
+- TOP 4.13: Ausbau des Alten Bernauer Heerweges - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Radverkehrsanlagen Heiligenseestraße (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.2: Züge verlängern, Mitnahme von Fahrrädern verbessern. (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Kein offener Vollzug für Sicherungsverwahrte in Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 5.4: Effizienter Umgang mit illegalen Müllablagen (Beschlussempfehlung) - vertagt
+- TOP 5.5: Erstellung eines Tourismuskonzepts für den Bezirk Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 5.6: Stärkere Vermarktung des Tourismuspotentials in Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 5.7: Reinickendorf unter Waffen? (Große Anfrage) - vertagt
+- TOP 5.8: Vergabe des Pachtvertrages an die Strandbad Tegel gGmbH (Große Anfrage) - vertagt
+- TOP 5.9: Sicherheit tut not! Schutzmaßnahmen seit März 2020 gegen die Pandemie überprüfen (Große Anfrage) - vertagt
+- TOP 5.10: Stellplätze für Lastenfahrräder in Reinickendorf vorsehen (Beschlussempfehlung) - vertagt
+- TOP 5.11: Sondergenehmigungen für Heizpilze in Reinickendorf (Ersuchen) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Instandsetzung Radweg am Borsigdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Sanierung Waldweg Saatwinkel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Außenstellen der Polizei in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Verbesserung der Beleuchtung im Schloßviertel in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Mobiltelefone für den Sozialdienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Polizeiwache in Tegel (Abschnitt 11) sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Neubau einer Polizeidienststelle für Tegel (Abschnitt 11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Reinickendorfer Mieter und Betriebe schützen! Mietendeckel-Gesetz stoppen! - Wohnungsbau wirksam fördern! - vertagt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schulreinigung in Reinickendorf - vertagt
+- TOP 8.2: Familienidylle in Reinickendorf? - vertagt
+- TOP 8.3: Zukunftspakt Verwaltung umsetzen! - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über eine Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 19 Abs. 3 Satz 2 GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Geschwindigkeitskontrollen in der Holzhauser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Amerikanische Faulbrut in Reinickendorf bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Baumlücke schließen - erledigt
+- TOP 10.5: Parkfläche zur Ausstellung von Skulpturen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Trampelpfade in ordentliche Wege umgestalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.7: Einrichtung temporärer Spielstraßen - in der BVV abgelehnt
+- TOP 10.8: Barrierefreiheit in der Berliner Straße/ Almutstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Strandbad Tegel - Waldparkplatz instandsetzen, mehr Parkplätze schaffen - vertagt
+- TOP 10.10: Sichere Überquerung am Senftenberger Ring zwischen dem Märkischen Zentrum (Nordausgang) und der Skateranlage - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Verkehrssicherungspflicht Öschelbonner Weg nachkommen! - erledigt
+- TOP 10.12: Zusätzliche Fahrradständer Lindauer Allee - erledigt
+- TOP 10.13: Schulprojekte zum Erhalt des Waldbestandes anregen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: S-Bahnbahnhofdächer für Photovoltaikanlagen und Bienenlandschaften nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Vorlage zur Beschlussfassung für die Bezirksverordnetenversammlung betreffend des Zentren- und Einzelhandelskonzepts für den Bezirk Reinickendorf von Berlin vom Oktober 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Alle Straßen in der Cité Guynemer öffentlich-rechtlich widmen - vertagt
+- TOP 10.17: Reduzierung von CO2-Emissionen - in der BVV abgelehnt
+- TOP 10.18: Verwaltungsinterner Klima-Wettbewerb - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Bewohnbarkeit der City Guynemer gewährleisten - in der BVV abgelehnt
+- TOP 10.20: Trinkwasserbeeinträchtigung in Reinickendorf - in der BVV abgelehnt
+- TOP 10.21: Beidseitig befahrbaren Radweg an der Heiligenseestraße anlegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Mediation für Cite Guynemer - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Konzept zu einer umweltfreundlichen Entwicklung der öffentlichen Sportstätten des Bezirks - in der BVV abgelehnt
+- TOP 10.24: Transparenter Mobilitätsrat - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Hubschrauberstaffel zeitnah zum BER umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Kreuzung Alt-Wittenau / Techowpromenade - in der BVV abgelehnt
+- TOP 10.27: Halteverbot im Waidmannsluster Damm durchsetzen - erledigt
+- TOP 10.28: Haltelinie an Autobahnauffahrt Holzhauser Straße/Firma MF Oils vorverlegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Bushaltestelle an der Jugendherberge Ernst-Reuter umbenennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: BerlKönig auch in Frohnau und Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Angebot der Buslinie 327 ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Sichere Querung Veitstr./Treskowstr. - in der BVV abgelehnt
+- TOP 10.33: Das Parken in der Antonienstraße einheitlich und sicher gestalten - in der BVV abgelehnt
+- TOP 10.34: Schumacher-Quartier - Durchführung von Architekturwettbewerben nach RPW 2013 für Gebäude blockweise - ohne Änderungen in der BVV beschlossen
+- TOP 10.35: Verkehrserhebung Roedernstraße / Odiloweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.36: Barrierefreier Kartendienst - in der BVV abgelehnt
+- TOP 10.37: Gesundheitsämter stärken! - erledigt
+- TOP 10.38: Perspektiven für den öffentlichen Gesundheitsdienst - erledigt
+- TOP 10.39: Einrichtung eines bezirklichen Klimaschutzrates - vertagt
+- TOP 10.40: Bessere Wegeverbindungen in Lübars - in der BVV abgelehnt
+- TOP 10.41: Fußgängerbedarfsampel - erledigt
+- TOP 10.42: Buslinie 122 zu Spitzenzeiten verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.43: Kaufhausstandort Tegel - erledigt
+- TOP 10.44: Verkehrliche Entlastung des Dorfes Lübars - vertagt
+- TOP 10.45: Ausstellung über Frauen in den Fanszenen im europäischen Fußball - ohne Änderungen in der BVV beschlossen
+- TOP 10.46: Familienbüro - ohne Änderungen in der BVV beschlossen
+- TOP 10.47: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Saubere Schulen in Berlin" - vertagt
+- TOP 10.48: Sondermittelantrag an die BVV für das Jahr 2020 - Frohnauer SC 1946 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.49: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - 1. FC Lübars e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.50: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Dannheim, Günter - ohne Änderungen in der BVV beschlossen
+- TOP 10.51: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Elterninitiative Spielgelände Heinzegraben e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.52: Sondermittelantrag an die BVV für das Jahr 2020 - Boule-Freunde-Reinickendorf e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.53: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - TSV Berlin-Wittenau 1896 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.54: Sondermittelantrag an die BVV für das Jahr 2020 - VfB Hermsdorf e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.55: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Berliner Help Stiftung - ohne Änderungen in der BVV beschlossen
+- TOP 10.56: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Ruder-Club Tegel 1886 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.57: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Zukunftsbau GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 10.58: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Seniorenclub Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.59: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Elisabethstift Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.60: Sondermittelantrag an die BVV für das Jahr 2020 - Verein zur Förderung der Ausbildung an der Emil-Fischer-Schule e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.61: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - KUBUS gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 10.62: Sondermittelantrag an die BVV für das Jahr 2020 - Bezirkssportbund Reinickendorf e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.63: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Kein Abseits e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.64: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Beteiligungsfüchse gemeinnützige GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 10.65: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Kita am Südfeld gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 10.66: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - TU Ber-lin, FB Arbeit/Technik - ohne Änderungen in der BVV beschlossen
+- TOP 10.67: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - SC Borsigwalde 1910 e.V. Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.68: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Agrarbörse Deutschland Ost e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.69: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - AWO Refugium Marie-Schlei-Haus - ohne Änderungen in der BVV beschlossen
+- TOP 10.70: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Förderverein Freiwillige Feuerwehr Frohnau e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.71: Sondermittelantrag an die BVV für das Jahr 2020 - Kirschendieb & Perlensucher Kulturprojekte - ohne Änderungen in der BVV beschlossen
+- TOP 10.72: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - NaturFreunde Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.73: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Ländlicher Reiterverein Tegel e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.74: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Der Steg gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 10.75: Sondermittelantrag an die BVV für das Jahr 2020 - Gruppenhaus und Jugendzeltplatz Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.76: Bewilligung von Sondermitteln der BVV für das Jahr 2020- VfB Hermsdorf e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.77: Bewilligung von Sondermitteln der BVV für das Jahr 2020 - Hermsdorfer Sport Club - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von ordentlichen Bürgerdeputierten - gewählt
+- TOP 11.2: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.3: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.4: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.5: Solidarität mit den Beschäftigten von OTIS - Produktionsstandort in Reinickendorf sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Wahl eines Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Bezirkseigene Gebäude auf Ökostrom umstellen - überwiesen
+- TOP 12.2: Übernahme der Unterhaltung der zukünftigen Hochwasserschutzanlage im Bereich ehemaliger Mäckeritzgraben durch den Bezirk - überwiesen
+- TOP 12.3: Sanierung der Holzbrücke über den Küstergraben - überwiesen
+- TOP 12.4: Kinder- und Jugendtheater in Reinickendorf - überwiesen
+- TOP 12.5: Parkregelung in der Antonienstraße durchsetzen - überwiesen
+- TOP 12.6: Kein wilder Müll in der Lengeder Straße - überwiesen
+- TOP 12.7: Konfetti & Co. - überwiesen
+- TOP 12.8: Schlussstrich ziehen - Parkstreifen in der Antonienstraße erneuern - überwiesen
+- TOP 12.9: Chaotische Zustände rund um die Sonntagsmärkte in der Markstraße! Infektionsschutz - was ist das? - überwiesen
+- TOP 12.10: Hauptstadtzulage - überwiesen
+- TOP 12.11: Unterstützung für das Strandbad Tegel II - Projektarbeit im Strandbad Tegel - überwiesen
+- TOP 12.12: Bericht des Jugendbeauftragten - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Mobi-Hubs und Ringbuslinie im Ortskern Tegel - überwiesen
+- TOP 13.2: Verschönerter Zugang zum S-Bahnhof Wittenau - überwiesen
+- TOP 13.3: Kein verpflichtend angeordneter autofreier Sonntag zur Kompensation von Heizstrahlern in der Gastronomie - überwiesen
+- TOP 13.4: Busspur Gotthardstraße - überwiesen
+- TOP 13.5: Entlastung während BAB- und U-Bahnbaus - überwiesen
+- TOP 13.6: Barrierefreie S-Bahnunterführung - überwiesen
+- TOP 13.7: Hochwasserschutz in den Mäckeritzwiesen - überwiesen
+- TOP 13.8: Keine Reichskriegsflaggen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Gelände an dem Bahndamm zwischen dem S-Bahnhof Eichborndamm bis zur Bahnunterführung von der Ecke Soltauer Str. / Innungsstraße in einen sauberen Zustand versetzen - überwiesen
+- TOP 13.10: Unterstützung für das Strandbad Tegel I - Freie Fahrt für die BVG - überwiesen
+- TOP 13.11: Solarfähre - überwiesen
+- TOP 13.12: Müllentsorgung durch Berlin Reycling in Baustellenbereichen - überwiesen
+- TOP 13.13: Solarfähre zwischen Tegel und Spandau einsetzen - überwiesen
+- TOP 13.14: Verkehrskontrollen in der Seebadstraße verstärken - überwiesen
+- TOP 13.15: Unterstützung für Gastronomie und Einzelhandel - ohne Änderungen in der BVV beschlossen
