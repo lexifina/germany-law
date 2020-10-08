@@ -1,0 +1,94 @@
+# 45. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2020-10-08T17:00:00+02:00
+- Ende: 2020-10-08T21:40:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4661
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4661
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=298300
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Chance für mehr Ärzte in Lichtenberg tatkräftig nutzen! - vertagt
+- TOP 4.2: Durchgang zwischen Ilsestraße und Aristotelessteig wieder öffnen - vertagt
+- TOP 4.3: Abschließende Stellungnahme zum "Runder Tisch Rheinpfalzallee" entfernen - vertagt
+- TOP 4.4: Weihnachtsmarkt mit Hygienekonzept im Dezember 2020 im Bezirk Lichtenberg - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Lichtenberger Unternehmen des Jahres - nur mit Guter Arbeit - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Persönliche Beratungen beim Jobcenter Berlin-Lichtenberg - beantwortet
+- TOP 8.2: Gehweg Treskowallee - beantwortet
+- TOP 8.3: Bodenankauf durch BBF auch in Lichtenberg? - beantwortet
+- TOP 8.4: Ferien-Schwimmkurse - beantwortet
+- TOP 8.5: Fahrradabstellanlagen für Lastenfahrräder - beantwortet
+- TOP 8.6: Sportplatz in Karlshorst - beantwortet
+- TOP 8.7: Steht die Zukunft der B.L.O. Ateliers auf dem Spiel? - beantwortet
+- TOP 8.8: Mund-Nasen-Bedeckungen an Lichtenberger Schulen - schriftlich beantwortet
+- TOP 8.9: Offene Frage aus der Beantwortung der Großen Anfrage DS/1748/VIII - Projekt "Platzmanagement am Bahnhof Lichtenberg" - schriftlich beantwortet
+- TOP 8.10: Kleine Anfrage 0454/VIII - Spielplatz im Lindenhof - zurückgezogen
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Wahl eines stellv. Bürgerdeputierten für den Ausschuss Haushalt und Personal - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Europatag am 9. Mai an den Schulen begehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Weiterer Umgang mit den Ergebnissen des landschaftsplanerischen Wettbewerbs "Gutspark Falkenberg" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Regenbogenfamilienzentrum für Lichtenberg erhalten - überwiesen
+- TOP 9.5: Ein neuer Stadtplatz für das Gebiet Frankfurter Allee Süd - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Brücke über die Landsberger Allee - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Fahrradabstellanlage am Bahnhof Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Konzeption für den Lichtenberger Teil des Regionalparks Barnimer Feldmark - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Wohnortnahe Beschulung und Wahlfreiheit durch Gemeinschaftsschulstandorte ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Medienpädagog*innen an Berliner Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Vorschläge zum Bürgerhaushalt - Beschlussempfehlungen des Begleitgremiums IV. Quartal 2019/ I. Halbjahr 2020 - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Geflüchtete über Arbeitsrechte aufklären - Ausbeutung verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Politische Bildungsarbeit zu den U18-Wahlen stärken und sichern - überwiesen
+- TOP 9.14: Resolution - Solidarität mit Verteidigern der Demokratie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Schwimmen in Kitas finanzieren - überwiesen
+- TOP 9.16: Auskömmliche Finanzierung der Schulbudgets sicherstellen - überwiesen
+- TOP 9.17: Schulwege sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Gedenktafel für das Mordopfer Kurt Schneider - Todesopfer rechter Gewalt in Lichtenberg - überwiesen
+- TOP 9.19: Gedenktafel für den am Bahnhof Karlshorst bei Bauarbeiten tödlich Verunglückten - überwiesen
+- TOP 9.20: Instandsetzung der Rheinpfalzallee - überwiesen
+- TOP 9.21: Sitzgelegenheiten rund um das Linden-Center - überwiesen
+- TOP 9.22: Sicherer Radverkehr auf der Lückstraße - überwiesen
+- TOP 9.23: Neugestaltung des Zugangs zum Anton-Saefkow-Platz aus Richtung Landsberger Allee - überwiesen
+- TOP 9.24: Ballot-Bins für mehr Sauberkeit im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Gutachtermittel für die Sicherung von Kleingartenanlagen erhöhen - überwiesen
+- TOP 9.26: Bau einer Bordsteinabsenkung vor der Katholischen Schule St. Mauritius - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Umweltmaßnahmen öffentlich ausschildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Ausbildungsplätze sichern und schaffen - Ausbildungsgipfel in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Bebauungsplan XVII-5a-1 - Änderung Aufstellungsbeschluss; Arbeitstitel: Hauptstraße 3A - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.30: Programmplanung Nachhaltige Erneuerung (ehem. Stadtumbau Ost) - Vornotierung Programmjahr 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.31: Bebauungsplan 11-107 - Behördenbeteiligung; Arbeitstitel: "Nördlich Schleizer Straße" - im Ausschuss abgelehnt
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - erledigt
+- TOP 12: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 12.1: Betriebsräte stärken - Mehr Demokratie in Lichtenberger Unternehmen wagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Grafenauer Weg für Kinder sicher machen! - überwiesen
+- TOP 12.3: Benennung des Bahnhofsvorplatzes (Bahnhof Lichtenberg) in Eugeniu-Botnari-Platz - mit Änderungen in der BVV beschlossen
+- TOP 13: Prioritäten der Fraktionen - (offen)
+- TOP 13.1: Schulgipfel für die Schulplanungsregion 1 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Schulgipfel für die Schulplanungsregion 4 - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Schulgipfel für die Schulplanungsregion 5 - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Schulgipfel für die Schulplanungsregion 2 - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Computerausstattung in den kommunalen Seniorenbegegnungsstätten verbessern - überwiesen
+- TOP 13.6: Konferenz für die Entwicklung der Großsiedlungen - überwiesen
+- TOP 14: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14.1: Bezirkshaushaltsrechnung 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Nachweisung der im Haushaltsjahr 2018 für den Bezirk Lichtenberg in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Den Lichtenberger Frauenpreis höher dotieren! - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge zur Beschlussfassung - (offen)
+- TOP 15.1: Bustransfer der Kinder aus dem Prinzenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Bolzplatz im Carlsgarten - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Das Bezirksamt hört Menschen mit Rassismus- und Diskriminierungserfahrungen zu - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Städtebaulicher Rahmenplan Großsiedlung Neu-Hohenschönhausen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Schließung der Sitzung - erledigt
