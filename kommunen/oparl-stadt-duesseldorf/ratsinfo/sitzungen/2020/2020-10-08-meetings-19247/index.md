@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-10-08T14:00:00+02:00
+- Ende: 2020-10-08T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19247
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19247
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00389070.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00389070.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00389070.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung des Ehrenringes des Rates
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 17. und 18.06.2020 - einstimmig beschlossen
+- TOP 4: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage des Ratsherrn Maniera: Aufnahme von Flüchtlingen aus Moria - schriftlich beantwortet
+- TOP 6.2: Anfrage der Ratsfrau Krüger: Baumfällungen am Düsseldorfer Flughafen - Vorlage APS/047/2020 - schriftlich beantwortet
+- TOP 6.3: Anfrage des Ratsherrn Maniera: 16.000 fehlende Briefwahlstimmzettel bei der Kommunalwahl - schriftlich beantwortet
+- TOP 6.4: Anfrage der Ratsfraktion Die Linke: Wohnortsnahen Schulbesuch ermöglichen - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion Die Linke: Aktueller Stand "Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus" - schriftlich beantwortet
+- TOP 6.6: Anfrage der Ratsfrau Opelt: Messerstecherei, Gewalt und Randale: Kippt die Altstadt? - schriftlich beantwortet
+- TOP 6.7: Anfrage der Ratsfrau Opelt: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt und Kosten der Stadt für die Corona-Testzentren - schriftlich beantwortet
+- TOP 6.8: Anfrage der Ratsfrau Kraft-Dlangamandla: Parteiensponsoring - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Jahresabschluss 2019 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 10: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31.12.2019 - einstimmig beschlossen
+- TOP 11: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2020 - zur Kenntnis genommen
+- TOP 12: Bereitstellung von überplanmäßigen Haushaltsmitteln für die Vorhaltung von persönlicher Schutzausrüstung (PSA) für städtische Beschäftigte - einstimmig beschlossen
+- TOP 13: Düsseldorfer Schauspielhaus, Dach- und Fassadensanierung, Änderungsbeschluss - einstimmig beschlossen
+- TOP 14: Schloss Jägerhof - Goethemuseum, Jacobistraße 2 Dringliche Sanierungsmaßnahmen und Fassadensanierung - einstimmig beschlossen
+- TOP 15: Jahresbericht der Geschäftsstelle der Kunstkommission 2019/2020 - zur Kenntnis genommen
+- TOP 16: Änderung der Satzung zum Schutz und Erhalt von Wohnraum - mehrheitlich beschlossen
+- TOP 17: Wahl einer Schiedsperson - einstimmig beschlossen
+- TOP 18: Ausführungs- und Finanzierungsbeschluss Fahrradparkturm Bahnhof D-Bilk; Friedrichstraße / Arcadenvorplatz - vertagt
+- TOP 19: Südring - Ausbau einer Veloroute zwischen Batterieweg und Völklinger Straße - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 20: Integration der Abteilung Wasserbau 67/7 in den Stadtentwässerungsbetrieb (SEBD) der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 21: Herrichten der Räumlichkeiten am Standort Tersteegenstraße 62 / Felix-Klein-Straße 3 für ein Regelgymnasium - einstimmig beschlossen
+- TOP 22: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" -Vorschlag zur Bestellung von Mitgliedern- - einstimmig beschlossen
+- TOP 23: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW: Zusammenlegung der Weiterbildungskollegs - einstimmig beschlossen
+- TOP 24: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW: Aussetzung der Elternbeiträge im Rahmen des Offenen Ganztages an Schulen in den Monaten Juni und Juli 2020 - einstimmig beschlossen
+- TOP 25: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW: Teilweise Aufhebung der gemäß Ratsbeschluss vom 06.02.2020 erlassenen "Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen in der LH Düsseldorf" - einstimmig beschlossen
+- TOP 26: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 4 GO NRW: Umsetzung dringend notwendiger und sicherheitsrelevanter Sofortmaßnahmen an Kulturgebäuden - einstimmig beschlossen
+- TOP 27: Satzung zur Aufhebung der Satzung zur Gleichstellung von Menschen mit Behinderungen - einstimmig beschlossen
+- TOP 28: Flächennutzungsplanänderung Nr. 195 (Entwurf) - Nördlich und Südlich Theodorstraße - mehrheitlich beschlossen
+- TOP 29: Bebauungsplan-Entwurf Nr. 06/004 (eh. Nr. 5781/038) - Nördlich Westfalenstraße (Nordteil) - Stellungnahmen, Satzung - mehrheitlich beschlossen
+- TOP 30: Raumwerk D weiterdenken - Gemeinsam Düsseldorfs Zukunft gestalten - Förderantrag - einstimmig beschlossen
+- TOP 31: Förderantrag Projekt "Kunst-, Kultur- und Bürgerraum Ulmer Höh'" - einstimmig beschlossen
+- TOP 32: Antrag der Bezirksvertretung 7: Umwandlung der Tennenflächen in Kunstrasen - verwiesen
+- TOP 33: Anträge
+- TOP 33.1: Antrag der Ratsfraktion Die Linke: 1.000 Geflüchtete aus dem niedergebrannten Lager Moria aufnehmen - abweichend beschlossen
+- TOP 33.1.1: mündlicher Änderungsantrag der Ratsfraktion BÜNDNIS90/DIE GRÜNEN zur Vorlage RAT/280/2020:Antrag der Ratsfraktion Die Linke: 1.000 Geflüchtete aus dem niedergebrannten Lager Moria aufnehmen - mehrheitlich beschlossen
+- TOP 33.2: Antrag der Ratsfraktion Die Linke: Moratorium: Baustopp für die U-81 - mehrheitlich abgelehnt
+- TOP 33.3: Antrag der Ratsfraktion Die Linke: Anerkennung der Leistung der Beschäftigten im Öffentlichen Dienst - mehrheitlich abgelehnt
+- TOP 33.3.1: Änderungantrag der SPD-Ratsfraktion zur Vorlage RAT/286/2020: Antrag der Ratsfraktion Die Linke: Anerkennung der Leistung der Beschäftigten im Öffentlichen Dienst - mehrheitlich abgelehnt
+- TOP 33.4: Antrag der Ratsfraktion Die Linke: Digitale Teilhabe auch für Kinder im Leistungsbezug ermöglichen - zurückgezogen
+- TOP 33.5: Antrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Unterstützung von LGBT+ in Warschau – Intensivierung der Städtepartnerschaft - mehrheitlich beschlossen
+- TOP 34: Sanierung Kinderspielplatz Südpark „Vor dem Deich“, dritter Bauabschnitt - Beantragung von Fördermitteln im Rahmen des „Investitionspakt zur Förderung von Sportstätten“ - - einstimmig beschlossen
+- TOP 35: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
