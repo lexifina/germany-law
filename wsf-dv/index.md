@@ -1,0 +1,17 @@
+# Verordnung zur Gewährung und Durchführung von Maßnahmen aus dem Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Verwaltung des Wirtschaftsstabilisierungsfonds](0001.md)
+- [§ 2 Garantieübernahme](0002.md)
+- [§ 3 Bedingungen für die Garantieübernahme](0003.md)
+- [§ 4 Angemessene Gegenleistung und Obergrenze für Garantien](0004.md)
+- [§ 5 Rekapitalisierungsinstrumente](0005.md)
+- [§ 6 Bedingungen für hybride Finanzinstrumente](0006.md)
+- [§ 7 Bedingungen für Beteiligungen mit Vollstimmrecht](0007.md)
+- [§ 8 Auflagen und Bedingungen für Unternehmen, die Stabilisierungsmaßnahmen in Anspruch nehmen](0008.md)
+- [§ 9 Auflagen und Bedingungen bei Stabilisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes](0009.md)
+- [§ 10 Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach § 21 des Stabilisierungsfondsgesetzes](0010.md)
+- [§ 11 Auflagen zur Verhinderung von Wettbewerbsverzerrungen durch Rekapitalisierungsmaßnahmen](0011.md)
+- [§ 12 Vertraglich abzusichernde Rechte des Wirtschaftsstabilisierungsfonds](0012.md)
+- [§ 13 Beendigung der Stabilisierungsmaßnahme](0013.md)
+- [§ 14 Inkrafttreten](0014.md)
