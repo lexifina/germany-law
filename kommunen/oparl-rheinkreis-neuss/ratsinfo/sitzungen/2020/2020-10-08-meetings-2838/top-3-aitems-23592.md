@@ -1,0 +1,7 @@
+# TOP 3: Umbau des Knotenpunkets B 59 / K 19 / Schaan in Jüchen
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Nahverkehrs- und Straßenbauausschusses (2020-10-08)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/23592
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/9394
