@@ -1,0 +1,1 @@
+# Verordnung über die Einstufungsprüfung zum Erwerb der fachgebundenen Hochschulreife an der Hochschule für Öffentliche Verwaltung (HfÖV-Einstufungsprüfungsverordnung - HfÖV-EinstufPrüfVO) vom 5. Oktober 2020
