@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Arnsberg 2020 Nr. 41 vom 10.10.2020
+
+- Herausgeber: Bezirksregierung Arnsberg
+- Ausgabe: 2020-10-10 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 41
+- Quelle: https://www.bra.nrw.de/system/files/media/document/file/abl_20_41.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 11 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
