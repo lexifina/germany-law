@@ -1,0 +1,7 @@
+# TOP 6.: Verfügungsmittel des Ortschaftsrates hier: Verwendung des Budgets aus 2020 - Beratung und ggf. Beschluss –
+
+- Sitzung: 8. Sitzung des Ortschaftsrates Hochdorf (2020-10-12)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2020-OR_HD-100%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 6. https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-OR_HD-100%7Czt_2%7C1
