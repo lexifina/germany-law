@@ -126,7 +126,7 @@ Erlaubnis](0047.md)
 
 ## 14. Abschnitt Sondervorschriften
 
-- [§ 70 (weggefallen)](0070.md)
+- [(XXXX) §§ 70 bis 72 (weggefallen)](xxxx-70-bis-72.md)
 
 ## 14. Abschnitt Straf- und Bußgeldvorschriften
 
