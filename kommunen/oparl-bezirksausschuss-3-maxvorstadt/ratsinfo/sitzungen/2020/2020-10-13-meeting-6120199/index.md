@@ -1,0 +1,107 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6120199
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6120199
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Zustand der Wertstoffcontainer Adalbert-/Arcis- und Adalbert-/Tengstraße, Bürgeranliegen vom 06.09.2020
+- TOP 5.2.2.: Lärmbelästigung und exzessive Bestuhlung durch Bar in der Luisenstraße, Bürgeranliegen vom 13.09.2020
+- TOP 5.2.3.: Problematischer Fußgängerumgang an Baustelle Neureutherstraße 16 Bürgeranliegen vom 10.09.2020
+- TOP 5.2.4.: E-Roller auf Fußgängerwegen und in Einfahrten, Bürgeranliegen vom 15.09.2020
+- TOP 5.2.5.: Obdachlosigkeit in der Maxvorstadt, Bürgeranliegen vom 17.09.2020
+- TOP 5.2.6.: Dachauer Straße zwischen Hauptbahnhof und Stiglmaierplatz zur Fußgängerzone umgestalten, Bürgeranliegen vom 17.09.2020
+- TOP 5.2.7.: Vorschläge für Baumpflanzungen in der Maxvorstadt, Bürgeranliegen vom 19.09.2020
+- TOP 5.2.8.: Beschwerde über Biergarten Nordendstraße 2, Bürgeranliegen vom 29.09.2020
+- TOP 6.1.: Glasscherben auf dem gesamten Josephsplatz und Wochenendreinigung, Antwort des Baureferats auf zwei Bürgeranliegen (s. TOP A 5.2.13 und A 5.2.15/07 2020)
+- TOP 6.2.: Parken in der zweiten Reihe in der Maxvorstadt besser ahnden
+- TOP 6.3.: Erneute Nachfrage zum Stand der Zwischennutzung des Anwesens in der Dachauer Straße 90/Gesundheitshaus
+- TOP 6.4.: Mischparkbereiche in Anwohnerparkbereiche unbürokratisch umwandeln
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag Grüne vom 28.09.2020 Runder Tisch mit Google
+- TOP 1.2.: Antrag SPD vom 29.09.2020 Vorkaufsrecht für Airbnb-Wohnungen ausüben
+- TOP 2.1.1.: Baulisten der LBK: 37., 38., 39. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 36., 37. KW
+- TOP 2.1.3.: Schleißheimer Straße 50 / RGB – Tektur, Errichtung eines Rückgebäudes (Büronutzung) unter Erhalt der bestehenden Umfassungs- und Brandwände eines ehemaligen Werkstattgebäudes – hier: Nutzungsänderung dreier Büro- zu drei Wohneinheiten unter Beibehaltung der Gebäudekontur, teilweise Änderungen der Fassade und von Innenwänden, Verkleinerung des Kellers
+- TOP 2.1.4.: Linprunstraße 11-19 – Tektur, Neubau einer Wohnanlage (28 WE) mit Tiefgarage und Auffüllung eines Tiefhofs
+- TOP 2.1.5.: Arnulfstraße 62, Umbau des ehemaligen Paketzustellamts („Arnulfpost“) in einen Bürokomplex und ein Entwicklungszentrum eines Technologieunternehmens
+- TOP 2.1.6.: Türkenstraße 23, Neubau eines Wohnhauses (5 WE)
+- TOP 5.1.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 5.2.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen, Schreiben des BA 17 Obergiesing-Fasangarten
+- TOP 5.5.: Fällungsgenehmigung für einen Götterbaum in der Augustenstraße 56
+- TOP 5.6.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Grüne vom 28.09.2020 Augustenstraße: Auskunft zum Planungsstand und Umgestaltung zum verkehrsberuhigten Geschäftsbereich
+- TOP 1.2.: Antrag Grüne vom 28.09.2020 Umsetzung des provisorischen Radstreifens in der Ludwigstraße südlich des Siegestors
+- TOP 1.3.: Antrag Grüne vom 28.09.2020 Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze vor der Enhuberstraße 5-7
+- TOP 1.4.: Antrag CSU vom 29.09.2020 Pop-Up-Radwege in der Maxvorstadt sofort zurückbauen
+- TOP 1.5.: Antrag SPD vom 22.09.2020 Radparkplätze in der Kreittmayrstraße
+- TOP 1.6.: Antrag SPD vom 22.09.2020 Gehweg Lothstraße schützen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: „Autofreie Altstadt“: Parkraumkonzept Innenstadt, Anhörung zur Beschlussvorlage
+- TOP 2.1.2.: Austausch von Lichtsignalanlagen: Georgen-/Nordendstraße
+- TOP 2.1.3.: Radlroute Mailingerstraße – Lothstraße: Lückenschluss in der Nymphenburger Straße dazu verschobener Ortstermin am 12.10.2020 um 15 Uhr an der Kreuzung Mailinger-/Nymphenburger Straße
+- TOP 2.2.1.: Ludwigstraße 21: Genehmigung eines mobilen Fahrradständers, Bitte um erneute Behandlung zur Vermeidung einer OB-Entscheidung (vgl. TOP B 2.2.3/08 2020)
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Arnulfstr. 10, b) Türkenstr. 74, c) Veterinärstr. 10, d) Schönfeldstr. 22, e) Schellingstr. 9
+- TOP 3.2.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 3.3.: (E) Umwandlung der Arcis- und Karlstraße in eine Fahrradstraße
+- TOP 3.4.: Genehmigung von Freischankflächen – Verfahrensweise ab 01.10.2020 bis 31.03.2021
+- TOP 3.5.: Verkehrsrechtliche Anordnung: Sperre des Altstadtringtunnels in der Nacht vom 15. auf 16.10.2020
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Auswahlverfahren REGSAM-Schwerpunktgebiete ab 2021
+- TOP 2.2.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Inklusion in Bewegung vom 17. - 21.10.2020 4.350,00 Euro, Az.: 0262.0-3-0321
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Jury-Entscheidung zum Einsatz des Kita-Stadtteil- und des Kinder-Aktions-Koffers 2021
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kunstraum Schwabinggrad Einzelausstellung „She brings the pain“ vom 29.10. - 29.11.2020 1.000,00 € / Az. 0262.0-3-0317
+- TOP 2.2.: (E) Stadtbezirksbudget Ludwig-Maximilians-Universität München Münchner Propyläen 360*: Virtuelle Panoramatour vom 15.11.2020 - 15.02.2021 5.475,04 Euro, Az.: 0262.0-3-0318
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Persönliche Beteiligung nach Art. 49 GO, Informationsschreiben des Direktoriums
+- TOP 1.2.: Übersichtsliste zum Stadtbezirksbudget, 1. Halbjahr 2020
+- TOP 1.3.: „Grundsatzbeschlüsse“ der Münchner Bezirksausschüsse zur Zusammenarbeit mit Mandatsträger*innen der Alternative für Deutschland (AfD)
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
