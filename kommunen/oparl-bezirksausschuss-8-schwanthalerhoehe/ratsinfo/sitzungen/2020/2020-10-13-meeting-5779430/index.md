@@ -1,0 +1,73 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2020-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5779430
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5779430
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 8: Kultur und Integration
+- TOP 9: Umwelt und Verkehr
+- TOP 10: Budget und Finanzen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 13: Protokoll und Umlauf
+- TOP 4.1.: Weiterführung der erweiterten Freischankflächen auch im Jahr 2021
+- TOP 4.2.: Ausgabe von Parklizenzen in besonderen Lebenslagen
+- TOP 4.3.: Verkehrssituation Schießstätt- Ecke Schwanthalerstraße
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 1
+- TOP 6.2.2.: Bauvorhaben Schwanthalerstraße 119
+- TOP 6.2.3.: Bauvorhaben Lisalzstraße 25
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.3.: Weiterführung der Genehmigung von Freischankflächen unmittelbar durch das KVR bis 31.03.2021
+- TOP 6.3.4.: Angespannte Parksituation durch Freischankflächen auf Parkstreifen; kein Rückbau der Freischankfläche während der Urlaubszeit einer Gaststätte
+- TOP 6.3.5.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Lebensplätze für ehemals wohnungslose Frauen in der Westendstraße 35 / Tulbeckstraße 4f
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Kinder-Aktions-Koffer 2021 in Moosach
+- TOP 7.3.2.: Umzug der Kinderkrippe Schwanthalerstraße 128 in die Hans-Thonauer-Str. 3f zur Behebung eines Abwasserschadens
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Neubau einer Gleisquerung über die Straßenbahnstrecke in der Landsberger Straße in Höhe der Philipp-Loewenfeld-/Bergmannstraße
+- TOP 9.2.2.: Neue Radverkehrsroute Sendlinger-Tor-Platz zum Harras
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: (E) Errichtung eines Zebrastreifens an der Ecke Grasserstr. / Hackersbrücke
+- TOP 9.3.2.: Verbesserung der Verkehrssicherheit für Fußgänger*innen und besonders Kinder in der Geroltstraße - Verschmälerung der nördlichen Straßeneinfahrt in der Geroltstr. an der Kazmairstr. durch Gehwegvorstreckungen - Umwandlung der nördlichen Geroltstr. zwischen Kazmair- und Tulbeckstr. in eine Einbahnstraße in südliche Fahrtrichtung
+- TOP 9.3.3.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällen in den Stadtbezirken
+- TOP 9.3.4.: Evaluation Sommerstraßen 2020
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative "Evaluationsprojekt" Evaluationsprojekt Sommerstraßen 2020 vom 29.08. - 31.10.2020 500,00 € / Az. 0262.0-8-0290
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative "Evaluation Sommerstraße" Evaluation der Sommerstraße "Astallerstraße" vom 29.08. - 31.10.2020 496,00 € / Az. 0262.0-8-0245
+- TOP 10.1.3.: Anwohnerbefragung Sommerstraßen
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11.1.: Maßnahmen zur Verbesserung der Situation für Radfahrer*innen und Fußgänger*innen an der Kreuzung Theresienhöhe – Hans-Fischer-Straße
+- TOP 11.2.: Veränderung der Schaltzeiten der Bettelampel an der Kreuzung Theresienhöhe – Hans-Fischer-Straße
+- TOP 11.3.: Verbreiterung des Radwegs Trappentreustraße, östlicher Teil zwischen Westendstraße und Landsbergerstraße
+- TOP 11.4.: Ausstattung ausgewählter Ampeln mit dem „Grünpfeil ausschließlich für Radfahrer“
+- TOP 11.5.: Gaststätte Schwanthalerstraße 154; Begrenzung des Alkoholverkaufs auf 21:00 Uhr / Kleinbrauerei Broy, Parkstraße 6; Überprüfung der gewerberechtlichen Genehmigung sowie Unterbinden des Hinterhofbiergartens
+- TOP 11.6.: Stadtweite Evaluation von Sommerstraßen / temporären Umnutzungen von Straßen
+- TOP 11.7.: Verbesserung der Fahrradsicherheit auf der Hackerbrücke
+- TOP 12.1.: "Grundsatzbeschlüsse" der Münchner Bezirksausschüsse zur Zusammenarbeit mit Mandatsträger*innen der Alternative für Deutschland (AfD)
