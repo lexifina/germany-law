@@ -8,7 +8,7 @@ vorgelegt wird; die Zulassung kann mit Auflagen zum Zwecke der Verhütung und Be
 1. Zusammenkünfte und Menschenansammlungen außerhalb der eigenen Wohnung nebst dem befriedeten Besitztum abweichend von § 2 Absatz 1 nur mit höchstens fünf Personen erlaubt sind; ausgenommen sind Zusammenkünfte zwischen Angehörigen von zwei Hausständen und von Personen nach § 1 Absatz 2 Nummer 1 und 2,
 2. Veranstaltungen abweichend von § 2 Absatz 2 und 3
 a) nur mit höchstens 100 teilnehmenden Personen,
-b) als private Feierlichkeiten in öffentlichen oder angemieteten Räumen nur mit höchstens 25 teilnehmenden Personen
+b) als private Feierlichkeiten nur mit höchstens 25 teilnehmenden Personen
 erlaubt sind,
 3. Veranstaltungen nach Nummer 2 Buchstabe a und b mit Alkoholausschank nur mit höchstens 10 teilnehmenden Personen erlaubt sind,
 4. die Öffnung von gastronomischen Betrieben nur in der Zeit von 6.00 Uhr bis 23.00 Uhr erlaubt ist,
