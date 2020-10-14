@@ -1,0 +1,64 @@
+# 47. Sitzung in der VIII. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2020-10-14T19:00:00+02:00
+- Ende: 2020-10-14T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4674
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4674
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=298663
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls - erledigt
+- TOP 3: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - Bürgeramt KLR-Maßnahmen - Umzug Tuberkulose-Zentrum - erledigt
+- TOP 5: Überwiesene Drucksachen - (offen)
+- TOP 5.1: Neue Kleingärten in Lichtenberg (federführend) - vertagt
+- TOP 5.2: Einführung des Klimavorbehalts (federführend) - im Ausschuss abgelehnt
+- TOP 5.3: Berufung einer/s Beauftragten für Gute Arbeit und Ausbildung (allein beratend) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Schaffung eines "Haus der Hilfe" in Lichtenberg (federführend) - vertagt
+- TOP 5.5: Sachgrundlose Befristungen in Lichtenberg weiter zurückdrängen (federführend) - im Ausschuss abgelehnt
+- TOP 5.6: Anbringung eines Aufzugs an der Philipp-Reis-Schule (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 5.7: Übernahmemanagement in der Lichtenberger Verwaltung einführen (federführend) - vertagt
+- TOP 5.8: Keine Reduzierung des öffentlichen Grüns in Karlshorst! (federführend) - vertagt
+- TOP 5.9: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege zwischen der Schule am Roederplatz und der Hans-Rosenthal-Grundschule (federführend) - vertagt
+- TOP 5.10: Umweltpreis Lichtenberg (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 5.11: Ein Kinderbauernhof für Lichtenberg (federführend) - vertagt
+- TOP 5.12: Einwohnerantrag "Saubere Schulen in Lichtenberg" (federführend) - vertagt
+- TOP 5.13: Maßnahmenlisten für die Stadtumbaugebiete Fennpfuhl und Neu-Hohenschönhausen (federführend) - vertagt
+- TOP 5.14: Geordnete Finanzen - Schulinvestitionen zuerst! (federführend) - vertagt
+- TOP 5.15: Neubau eines kommunalen Kultur- und Bildungszentrums (KuBiZ) im "Urbanen Zentrum Neu-Hohenschönhausen" (federführend) - vertagt
+- TOP 5.16: Vorlage des Nutzungsleitbilds (Version 02) für das "Urbane Zentrum Neu-Hohenschönhausen" und Vorschlag zum weiteren Vorgehen (federführend) - vertagt
+- TOP 5.17: Kosten- und Finanzierungsübersicht für das Urbane Zentrum Neu-Hohenschönhausen sowie Beauftragung von Begleit- und ersten Umsetzungsprozessen (federführend) - vertagt
+- TOP 5.18: Dem Klimawandel begegnen - den öffentlichen Raum wassersensibel gestalten (federführend) - vertagt
+- TOP 5.19: Dem Klimawandel begegnen: Das bezirkliche Klimaschutzkonzept fortschreiben (federführend) - vertagt
+- TOP 5.20: Der Radverkehrswende Schwung geben - Weitere Stellen für Radverkehrsplaner*innen im Bezirksamt schaffen (federführend) - vertagt
+- TOP 5.21: Sperrmüllaktionstage in Lichtenberg (federführend) - vertagt
+- TOP 5.22: Sitzgelegenheiten auf Baumbegrenzungen in der Weitlingstraße (federführend) - vertagt
+- TOP 5.23: Verkehrsstudie für den Rahmenplan Karlshorst-Ost (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 5.24: Anreize für insektenfreundliche Blühstreifen schaffen (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 5.25: Attraktive Flächen des Linden-Centers für bezirkliche Angebote nutzen (federführend) - vertagt
+- TOP 5.26: Beschäftigten der zu schließenden Kaufhoffilialen eine Zukunft in der öffentlichen Verwaltung geben (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.27: Lichtenberg wird fahrradfreundlicher Arbeitgeber (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.28: Bezirkspolitischen „Wahl-O-Maten“ einrichten (allein beratend) - vertagt
+- TOP 5.29: Barrierefreiheit am Löschteich ermöglichen (federführend) - vertagt
+- TOP 5.30: Lückenschluss beim Gehweg in der Dorfstraße Wartenberg (federführend) - vertagt
+- TOP 5.31: Computerausstattung in den kommunalen Seniorenbegegnungsstätten verbessern - vertagt
+- TOP 5.32: Schwimmen in Kitas finanzieren - vertagt
+- TOP 5.33: Auskömmliche Finanzierung der Schulbudgets sicherstellen - vertagt
+- TOP 5.34: Instandsetzung der Rheinpfalzallee - vertagt
+- TOP 5.35: Sitzgelegenheiten rund um das Linden-Center - vertagt
+- TOP 5.36: Sicherer Radverkehr auf der Lückstraße - vertagt
+- TOP 5.37: Neugestaltung des Zugangs zum Anton-Saefkow-Platz aus Richtung Landsberger Allee - vertagt
+- TOP 5.38: Gutachtermittel für die Sicherung von Kleingartenanlagen erhöhen - vertagt
+- TOP 5.39: Politische Bildungsarbeit zu den U18-Wahlen stärken und sichern - vertagt
+- TOP 5.40: Regenbogenfamilienzentrum für Lichtenberg erhalten - vertagt
+- TOP 6: Sondermittelanträge - (offen)
+- TOP 6.1: Sondermittel für den Förderkreis Museum Lichtenberg im Stadthaus e. V. - mit Änderungen im Ausschuss beschlossen
+- TOP 6.2: Sondermittel für Kinder-Computerkurs "Der kleine Programmierer" - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Sonstiges - erledigt
