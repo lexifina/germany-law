@@ -1,0 +1,79 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-10-14T17:00:00+02:00
+- Ende: 2020-10-14T21:25:00+02:00
+- Ort: Kirchstraße 6, 14163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4262
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4262
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 3.1: Sondermittel der BVV für den 1. SC Zehlendorf Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Bebauungsplan 6-24 (Fischerhüttenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.3: Benennung eines Platzes in Dahlem nach von Wassermann - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Anlaufstelle für Obdachlose im Herzen von Steglitz unterstützen - in der BVV abgelehnt
+- TOP 3.5: Einrichtung einer Psychiatrischen Tagesklinik - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Treitschkestraße – BVV-Beschluss 589/V umsetzen! - in der BVV abgelehnt
+- TOP 3.7: Erneut und eindringlich: Busbeschleunigung Schloßstraße/Gutsmuthsstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.8: Abriss des „Mäusebunkers“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.9: Denkmalschutz für den Kiosk vis-à-vis U-Bahnhof Dahlem-Dorf - in der BVV abgelehnt
+- TOP 3.10: Bezirkliche Task Force (Plattform) Corona einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.11: Mäusebunkerareal am CBF der Charité neu bewerten - in der BVV abgelehnt
+- TOP 3.12: Erinnerungstafel am Haus „Villa Folke Bernadotte“ am Jungfernstieg 19 - in der BVV abgelehnt
+- TOP 3.13: Wiedervereinigungsdenkmal II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.14: Transparenz bei Ausgaben und Umsetzungen durch EFRE-Mittel, inklusive des entsprechenden Senatszuschusses, für den Kranold-Kiez - in der BVV abgelehnt
+- TOP 3.15: Erhalt des Erhaltungsgebietes Lichterfelde-Ost - in der BVV abgelehnt
+- TOP 3.16: Versorgung wohnungsloser Menschen in Steglitz-Zehlendorf zur Chef*innensache machen! - in der BVV abgelehnt
+- TOP 3.17: Öffnungszeiten des Wochenmarktes vor dem Rathaus Lankwitz ausweiten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.18: Die Bewegungstherapeutin Elsa Gindler im Bezirk ehren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.19: Rathaus Zehlendorf: Toilette für Menschen mit Behinderung ausschildern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.20: Denkmal Kiosk Dahlem-Dorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.21: Großflächigen Einzelhandel in der Ferdinandstraße 31-35 vermeiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.22: Außengastronomie auch im Herbst und Winter ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 4.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2019 - überwiesen
+- TOP 4.2: Berliner Straße 1-3 für Bezirksamt und soziale Zwecke sichern! - überwiesen
+- TOP 4.3: Anträge zügig abstimmen - überwiesen
+- TOP 4.4: Citytree endlich aufstellen - überwiesen
+- TOP 4.5: Neuer Bücherbus für Steglitz-Zehlendorf - überwiesen
+- TOP 4.6: Bezirkliche Gedenkkultur sichtbar machen! - überwiesen
+- TOP 4.7: Resolution - überwiesen
+- TOP 4.8: Das Strandbad Wannsee muss auch außerhalb der Schulferien mit dem Bus erreichbar sein - überwiesen
+- TOP 4.9: Bürgerinnen und Bürger sowie Gewerbetreibende frühzeitig bei der Planung des Neubaus des Rathauses Zehlendorf einbeziehen - überwiesen
+- TOP 4.10: Sicherung der Lichterfelder Weidelandschaft voranbringen - überwiesen
+- TOP 4.11: Trümmerberg in der Johann-Baptist-Gradl-Anlage instand setzen - überwiesen
+- TOP 4.12: Dialog-Display im Hüttenweg - überwiesen
+- TOP 4.13: LZA am Verkehrsknotenpunkt Argentinische Allee/ Waltraudstraße/Am Waldfriedhof - überwiesen
+- TOP 4.14: Keine Endlagerstätte im Bezirk - überwiesen
+- TOP 4.15: Digitales Radwegeverzeichnis - überwiesen
+- TOP 4.16: Fahrradstellplätze S-Bahnhof Nikolassee - überwiesen
+- TOP 4.17: Umbenennung in „Ausschuss für Gleichstellung und Inklusion" - überwiesen
+- TOP 4.18: Waldsiedlung Onkel-Toms-Hütte: Einbahnstraßen für Radfahrende in Gegenrichtung öffnen - überwiesen
+- TOP 4.19: Ertüchtigung des „Trimm-Dich-Pfades“ Berlin-Grunewald - überwiesen
+- TOP 4.20: Ehrende Erinnerung für Prof. Dr. August von Wassermann am Corrensplatz - überwiesen
+- TOP 5: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 5.1: Stadtteilbibliothek für die Sozialräumliche Öffnung in Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 5.2: Verkehrssicherheit in der Lorenzstraße/Mariannenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Klimagutachten für das Bauvorhaben Lichterfelde-Süd, B-Plan 6-30 - in der BVV abgelehnt
+- TOP 5.4: Digitale BVV - in der BVV abgelehnt
+- TOP 5.5: Live-Stream der BVV-Sitzung - in der BVV abgelehnt
+- TOP 5.6: Kältehilfe zentral und öffentlich! - in der BVV abgelehnt
+- TOP 5.7: Fußgänger*innen-Querung Hildburghauser Straße – jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Mobipoint Lankwitz, Dessauerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Rederecht für Vertreter*innen der Senior*innenvertretung in allen öffentlich tagenden Ausschüssen der BVV Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 6: Kleine Anfragen - erledigt
+- TOP 6.1: Überhöhte Geschwindigkeiten in der Giesensdorfer Straße endlich beenden! - beantwortet
+- TOP 6.2: Krank trotz Symptomfreiheit? - beantwortet
+- TOP 6.3: Schmarjestraße: Villa Mehnert doch zu verkaufen? - beantwortet
+- TOP 6.4: Kältehilfe in Steglitz-Zehlendorf 2020/2021 - beantwortet
+- TOP 6.5: Afrikanische Schweinepest auch in Steglitz-Zehlendorf - beantwortet
+- TOP 6.6: „Broken-Windows-Theorie" Neuland für das Bezirksamt? - beantwortet
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Projektbezogene Förderung privater Träger - beantwortet
