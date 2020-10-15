@@ -1,7 +1,7 @@
 # Anlage 2 (zu § 5 Abs. 3)Probenahme und Untersuchung von Altöl
 
 1 Entnahme und Aufbewahrung der Proben
-    Die Probenahme für die Untersuchung eines Altöls auf die Gehalte an Gesamthalogen und polychlorierten Biphenylen (PCB) wird nach DIN 51 750 Teil 1, Ausgabe August 1983, und Teil 2, Ausgabe März 1984, durchgeführt. Ergänzend zu den Vorschriften der Norm DIN 51 750 wird auf Folgendes hingewiesen:
+    Die Probenahme für die Untersuchung eines Altöls auf die Gehalte an Gesamthalogen und polychlorierten Biphenylen (PCB) wird nach DIN EN ISO 3170, Ausgabe Juni 2004 (und DIN EN ISO 3170 Berichtigung 1, Ausgabe Dezember 2007) und DIN EN ISO 3171, Ausgabe November 2000, durchgeführt. Ergänzend zu den Vorschriften der Norm DIN EN ISO 3170 und DIN EN ISO 3171 wird auf Folgendes hingewiesen:
   1.1 Einsatz von Vakuum-Tankwagen
     Bei Einsatz von Vakuum-Tankwagen kann die Probenahme wie nachfolgend beschrieben (siehe Abbildung) erfolgen.
 Probenahmevorrichtung an Vakuum-Tankwagen(Inhalt: nicht darstellbare Abbildung,
@@ -20,7 +20,7 @@ Probenahmevorrichtung an Vakuum-Tankwagen(Inhalt: nicht darstellbare Abbildung,
   1.7 Probenahmeprotokoll
     Über die Probenahme ist ein Protokoll in Anlehnung an das Muster der Norm 51 750 Teil 1 zu fertigen.
   1.8 Aufbewahrung von Proben
-    Die Aufbewahrung von nach dieser Verordnung entnommenen Proben richtet sich nach § 5 Abs. 1 und 3. Im Falle eines Straf- oder Bußgeldverfahrens sind die für die Schiedsprobe (Schiedsverfahren nach DIN 51 848, Ausgabe März 1984) vorgesehenen Probenbehälter bis zum Abschluss des Verfahrens aufzubewahren.
+    Die Aufbewahrung von nach dieser Verordnung entnommenen Proben richtet sich nach § 5 Abs. 1 und 3. Im Falle eines Straf- oder Bußgeldverfahrens sind die für die Schiedsprobe (Schiedsverfahren nach DIN EN ISO 4259-2, Ausgabe Februar 2020) vorgesehenen Probenbehälter bis zum Abschluss des Verfahrens aufzubewahren.
     Die gezogenen Proben sind so zu sichern (z.B. durch Plombieren), dass die Probemenge unverändert bleibt, sowie Ort und Zeit der Entnahme jederzeit nachgewiesen werden können.
   2 Bestimmung des Gehaltes an polychlorierten Biphenylen (PCB)
   2.1 Grundsatz
@@ -54,10 +54,10 @@ Probenahmevorrichtung an Vakuum-Tankwagen(Inhalt: nicht darstellbare Abbildung,
   3.3.1 Vortest mit energiedispersiver Röntgenfluoreszenz-Analyse
     Bestimmung des Chlor- und Bromgehaltes mit energiedispersiver Röntgenfluoreszenz-Analyse nach DIN 51 577 Teil 4, Ausgabe Februar 1994.
   3.3.2 Referenzverfahren
-    3.3.2.1 Verbrennung nach Wickbold und Bestimmung des Halogenidgehaltes in der Aufschlusslösung
-      Aufschluss der Probe in einer Wickbold-Apparatur in Anlehnung an DIN EN ISO 24 260, Ausgabe Mai 1994, oder durch ein anderes, gleichwertiges Verfahren und nachfolgende Bestimmung des Halogenidgehaltes (gemäß Abschnitt 3.1) in der Aufschlusslösung auf Basis einer argentometrischen Titration z. B. nach DIN 51 408 Teil 1, Ausgabe Juni 1983, oder nach DIN 38 405 Teil 1, Ausgabe Dezember 1985, oder mittels Ionenchromatographie nach DIN EN ISO 10 304 Teil 1, Ausgabe April 1995, oder durch ein anderes, gleichwertiges Verfahren.
+    3.3.2.1 Verbrennung und Bestimmung des Halogenidgehaltes in der Aufschlusslösung
+      Aufschluss der Probe in Anlehnung an das Verbrennungsverfahren zur Bestimmung des Halogen- und Schwefelgehalts in Materialien durch Verbrennung in einem geschlossenen, Sauerstoff enthaltenen System nach DIN EN 14 582, Ausgabe Dezember 2016, oder durch ein anderes, gleichwertiges Verfahren und nachfolgende Bestimmung des Halogenidgehaltes (gemäß Abschnitt 3.1) in der Aufschlusslösung auf Basis einer argentometrischen Titration z. B. nach DIN 51 408 Teil 1, Ausgabe Juni 1983, oder nach DIN 38 405 Teil 1, Ausgabe Dezember 1985, oder mittels Ionenchromatographie nach DIN EN ISO 10 304 Teil 1, Ausgabe Juli 2009, oder durch ein anderes, gleichwertiges Verfahren.
   3.3.2.2 Wellenlängendispersive Röntgenfluoreszenz-Analyse
-    Bestimmung des Chlor- und Bromgehaltes mit wellenlängendispersiver Röntgenfluoreszenz-Analyse nach DIN 51 577 Teil 2, Ausgabe Januar 1993, bzw. DIN 51 577 Teil 3, Ausgabe Juni 1990.
+    Bestimmung des Chlor- und Bromgehaltes mit wellenlängendispersiver Röntgenfluoreszenz-Analyse nach DIN ISO 15 597, Ausgabe Januar 2006.
   3.4 Überschreitung des Grenzwertes
     Eine Überschreitung des nach § 3 Abs. 1 zulässigen Gesamthalogengehaltes ist grundsätzlich nachgewiesen, wenn der nach einem Referenzverfahren ermittelte Gehalt um mehr als 5 % über dem Grenzwert liegt. Die Untersuchung nach einem der Referenzverfahren kann entfallen, wenn bei dem Vortest ein Gesamthalogengehalt von 1,4 g/kg nicht überschritten wird.
   4 Qualitätssicherung und -kontrolle

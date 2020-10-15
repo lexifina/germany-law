@@ -20,7 +20,7 @@
 ## Dritter Abschnitt Schlussbestimmungen
 
 - [§ 10 Ordnungswidrigkeiten](0010.md)
-- [§ 11 Ablösung von Vorschriften](0011.md)
+- [§ 11 (weggefallen)](0011.md)
 - [(XXXX) §§ 12 und 13 (weggefallen)](xxxx-12-und-13.md)
 - [§ 14](0014.md)
 - [Anlage 1 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)Zuordnung von Abfallschlüsseln zu einer Sammelkategorie](anlage-1.md)
