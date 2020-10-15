@@ -1,0 +1,71 @@
+# 17. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-10-15T16:00:00+02:00
+- Ende: 2020-10-15T22:00:00+02:00
+- Ort: Landeshauptstadt Dresden, MESSE Dresden, Halle 3 Messering 6, 01067 Dresden
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8859
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8859
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00504397.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema „Gescheiterte Integration – Kriminalität durch Migranten“ - erledigt
+- TOP 3: Aktuelle Stunde: Keinen öffentlichen Raum mehr in Dresden für rassistische, faschistische und andere menschenfeindliche Hetze. - erledigt
+- TOP 4: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokollführern für die Schiedsstellen der Landeshauptstadt Dresden - Einigung
+- TOP 5: Besetzung des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - Zustimmung
+- TOP 6: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Veranstaltungsnetz Altmarkt - Umgestaltung für eine barrierefreie Leitungsführung/Herstellung einer funktionstüchtigen Platzdrainage - Zustimmung mit Änderung
+- TOP 9: Absichtserklärung zur Regelung der Rahmenbedingungen für die Wiedereröffnung des Dresdner Fernsehturms - Letter of Intent (LOI) - Vertagung
+- TOP 10: Widmung zusätzlicher Marktflächen zur Gewährleistung der Dresdner Weihnachtsmärkte 2020 - Zustimmung mit Ergänzung
+- TOP 11: Ausbau des Abwassernetzes im Dresdner Nordraum und damit verbundene Wirtschaftsplanänderung 2020 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Bewerbung der Landeshauptstadt Dresden für das Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ – Projektaufruf 2020 - Zustimmung
+- TOP 13: Evaluierung der Richtlinie der Landeshauptstadt Dresden über die Förderung des Sportes (Sportförderrichtlinie) - Vertagung
+- TOP 14: Vergabenummer: 2020-1042-00039, Betreibung des Übergangswohnheimes Katharinenstraße 9 in 01099 Dresden - Vertagung
+- TOP 15: Veränderungen des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2018 - Zustimmung
+- TOP 16: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2020 bis 2022 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 17: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2021 - Zustimmung
+- TOP 18: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2021 - Zustimmung
+- TOP 19: Bibliotheksentwicklungsplan 2020 - 2025 - Zustimmung mit Änderung
+- TOP 20: Förderung Kabaretttheater "DIE HERKULESKEULE" GmbH - Zustimmung
+- TOP 21: Erneute Behebung eines Formfehlers - Neufassung der Satzung der Landeshauptstadt Dresden über den Zuschuss zur gemeinschaftlichen Mittagessenverpflegung an Schulhorten in den Schulferien - Zustimmung
+- TOP 22: Ausnahme zur Richtlinie "Kooperatives Baulandmodell Dresden" (V2804/18) - Ersetzung
+- TOP 23: Aufhebung der Satzung für das Sanierungsgebiet "Dresden S 3; Dresden-Hechtviertel" - Zustimmung
+- TOP 24: Ausübung des Optionsrechts zur Mietvertragsverlängerung um weitere 3 Jahre bis 30. April 2024 im Verwaltungsstandort Hoyerswerdaer Straße 3 - Zustimmung
+- TOP 25: Jahresabschluss 2019 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 26: Jahresabschluss 2019 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 27: Vertagungen letzte Stadtratssitzung vom 24.09.2020
+- TOP 27.1: Temporäre Außerkraftsetzung der Regelung zur jährlichen Anpassung der Entschädigungshöhe in der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger - Zustimmung mit Änderung
+- TOP 27.2: Corona-bedingte Anpassung der Pauschalentschädigungen für Stadträte - Ablehnung
+- TOP 27.3: Umbesetzung im Umlegungsausschuss - Vertagung durch Einreicher
+- TOP 27.4: Bäume für Dresden - - Ablehnung
+- TOP 27.5: Verbesserung der Verkehrssicherheit durch Beräumung von Verkehrshindernissen (E-Scootern) - erledigt
+- TOP 27.6: Elektrokleinstfahrzeuge in Dresden - Ersetzung
+- TOP 27.7: Weiterentwicklung der Förderung des bürgerlichen Engagements - Ablehnung
+- TOP 27.8: Ein Netz für alle - Bildungsgerechtigkeit in Dresden fördern - Ablehnung
+- TOP 27.9: Stärkung des Wirtschaftsstandortes Dresden - Zustimmung mit Änderung
+- TOP 27.10: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung durch Einreicher
+- TOP 27.11: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung durch Einreicher
+- TOP 27.12: Einrichtung von eingezäunten Hundeparks/-spielplätzen in der Landeshauptstadt Dresden - Ablehnung
+- TOP 27.13: Zulassung von Feuerwerken in Dresden - Ablehnung
+- TOP 27.14: Erneuerung des Korrosionsschutzes und Instandsetzung von Stahlbauteilen der Loschwitz Blasewitzer Brücke - Zustimmung mit Änderung
+- TOP 27.15: Würdevolles Gedenken - lebendiges Erbe. - Zustimmung mit Änderung
+- TOP 27.16: Betriebskosten bei Wohnungen für besondere Bedarfsgruppen - Ablehnung
+- TOP 27.17: Überprüfung der Rechtsform der Dresdner Volkshochschule e.V. - Zustimmung mit Änderung
+- TOP 27.18: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung
+- TOP 28: Budgetneutrale Veränderungen im Finanzhaushalt 2020 bis 2021 des Straßen- und Tiefbauamtes - Zustimmung
+- TOP 29: Vorplanung Bischofsplatz zwischen Johann-Meyer-Straße und Schönbrunnstraße - Zustimmung mit Änderung
+- TOP 30: Jahresabschluss 2019 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 31: Umsetzung des Stadtratsbeschlusses A0351/17 zur Errichtung von 21 neuen Grillplätzen im Stadtgebiet - Zustimmung mit Ergänzung
+- TOP 32: Sofortprogramm zur Entschärfung der gefährlichsten Stellen für Radfahrende - Vertagung
+- TOP 33: Verkehrssichere Radwege im Bereich der Reicker Straße schaffen - Vertagung
+- TOP 34: Verkehrssicherheit für Radfahrende auf dem Westabschnitt der Nöthnitzer Straße – alternative Radvorrangroute durch die Bienertstraße - Vertagung
+- TOP 35: Verkehrsentlastung während der Baumaßnahmen auf der Bautzner Straße und an der Loschwitzer Brücke - Vertagung
+- TOP 36: Erhalt des August Theaters in Pieschen - Zustimmung mit Änderung
+- TOP 39: Bericht über die Prüfung zur Einführung eines 365-Euro-ÖPNV-Jahrestickets in Dresden - zur Kenntnis genommen
+- TOP 40: Strategie zur Erhöhung des ÖPNV-Anteils in der Landeshauptstadt Dresden mit Prioritätenliste - zur Kenntnis genommen
