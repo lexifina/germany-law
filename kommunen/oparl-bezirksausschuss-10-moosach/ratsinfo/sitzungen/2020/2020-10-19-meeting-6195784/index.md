@@ -1,0 +1,74 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6195784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6195784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Verabschiedung des Dienststellenleiters der Polizei-Inspektion PI 44
+- TOP 2.1.: Sicher zur Schule, sicher nach Hause - Gefahrenstelle an der Dachauer Straße
+- TOP 2.2.: Anbringung eines neuen Brunnens auf dem Westfriedhof (Ecke Nordost, ggü. Parzelle 192a)
+- TOP 2.3.: BA17: "Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken" mit der Bitte um Unterstützung
+- TOP 2.4.: Änderung der Verkehrssituation in der Welzenbachstraße
+- TOP 3.2.1.: Beschilderung "Tempo 30" und Einhaltung dieser Geschwindigkeitsbegrenzung in der Feldmochinger Straße (-> vertagt aus Sitzung 14.09.2020, TOP 2.8)
+- TOP 3.3.1.: Bauvorhaben: 1. Breslauer Str. 9
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Breslauer Str. 9 -> siehe Bauvorhaben TOP 3.3.1.1 2. Dachauer Str. 407 3. Ernst-Platz-Straße
+- TOP 3.4.1.: Asphaltierung der Wege im Park an der Vilniusstraße (Protokoll des Ortstermins am 17.09.20 für den BA10 zur Stellungnahme und weiterer Schriftverkehr)
+- TOP 4.1.1.: Erneuerung der Fahrradwegmarkierungen auf der Baldurstraße
+- TOP 4.1.2.: Radwegesanierungen nur noch nach neuem Standard ausführen
+- TOP 4.1.3.: Oberirdische Beschriftung der U-Bahn-Stationen
+- TOP 4.1.4.: Barrierefreie Müllentsorgung mit Unterflurcontainern
+- TOP 4.1.5.: Aufstellung von Trinkbrunnen im 10. Stadtbezirk Moosach
+- TOP 4.1.6.: Praxisgerechte Änderung der Technik des Brunnens am Moosacher Stachus
+- TOP 4.1.7.: Erneuerung des Fahrbahnbelages an der Bushaltestelle "Olympiaeinkaufszentrum" (Pelkovenstraße/ Ecke Hanauer Straße)
+- TOP 4.1.8.: Parken nur für PKW bis 3.5 t im Bereich der KITA Quedlinburger Str. 11
+- TOP 4.1.9.: Anfrage: Sachstand Verlegung Linienweg MetroBus 51 aus der Netzerstraße in die Baubergerstraße
+- TOP 4.1.10.: Errichtung eines absoluten Halteverbotes in der Franz-Mader-Straße
+- TOP 4.1.11.: Optische Aufwertung der Brücke zwischen Kleingartenanlage NW 12 und Amphionpark
+- TOP 4.1.12.: Tischtennisplatten für die Nachbarschaft in der Lauinger Straße
+- TOP 4.2.1.: Kinder- und Jugendbeauftrage: Verkehrsrechtliche Änderung vor der Grundschule Amphionpark
+- TOP 5.1.: (E) Stadtbezirksbudget Biku e.V. Herbstferienprogramm vom 30.10. - 08.11.2020 4.000,00 € / Az. 0262.0-10-0236
+- TOP 5.2.: (E) Stadtbezirksbudget 1. Münchner Footballclub 1979 e.V. Munich Cowboys Anschaffung einer Kamera für Videostreaming 1.402,97 € / Az. 0262.0-10-0237
+- TOP 5.3.: (E) Stadtbezirksbudget Moosacher Faschingsclub - München e.V. Faschingssaison 2020/2021 vom 01.10.2020 - 16.02.2020 12.500,00 € / Az. 0262.0-10-0235
+- TOP 6.1.: Planung neuen Standort für Wertstoffcontainer: Triebstraße ggü. Ehrenbreitsteiner Straße
+- TOP 6.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Pfeilschifterstraße; Öffnung für den gegenläufigen Radverkehr
+- TOP 6.3.: Veranstaltung in städtischen Grünanlagen im Amphionpark: Straßentheater PLAN B am 31.10.2020
+- TOP 6.4.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs: Drittes Maßnahmenbündel - Finanzierung, Projektgenehmigung, Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen, Änderung des MIP 2020-2024 Entwurf: Sitzungsvorlage Nr. 20-26 / V 01007 (-> 10. Stadtbezirk: Knoten Hanauer Straße / Triebstraße: Verschiebung Mitteilteiler)
+- TOP 6.5.: Neue "Mega Light" Werbeanlage für Wechselwerbung in der Dachauer Straße
+- TOP 6.6.: Sondernutzung auf öffentlichem Verkehrsgrund am Brunnen "Ultramarin"; "Interreligiöses Friedensgebet" am 12.11.2020
+- TOP 7.1.: Sanierung des Spielplatzes am Kapuzinerhölzl [BA-Antrag Nr. 20-26/B00420; Befürwortung und Vormerkung der Massnahme.]
+- TOP 7.2.: Aufstellung von zusätzlichen Fahrradbügeln vor der „Meile Moosach“ [BA-Antrag Nr. 20-26/B00421; Vorschläge weiterer Standorte -> BA soll Rückmeldung bzgl. Einverständnis geben!.]
+- TOP 7.3.: Verbesserung der Sauberkeit im Tramgleis der Linie 20 [Schreiben BA10 vom 22.06.20; regelmässige Intervalle zu kostenintensiv; Verträge mit Baureferat zur Pflege von ÖPNV-Begleitgrün; Reparatur Holzzaun wird erfolgen.]
+- TOP 8.1.: Alleiniges Entscheidungsrecht durch OB - Verlängerung bis 31.03.2020: Genehmigung oder Erweiterungsgenehmigung von Freischankflächen einschließlich Rücknahmen oder Widerruf
+- TOP 8.2.: Altersbedingter Austausch von Lichtsignalanlagen: 1. Georg-Brauchle-Ring / Hanauer Straße 2. Gneisenaustraße / Hanauer Straße 3. Bauberger- / Großbeerenstraße 4. Haldenberger- / Waldhornstraße
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes: Franz-Marc-Str. 9
+- TOP 8.4.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2021 München fährt Tram V – Fünf-Minuten-Takt für die Tram Antrag Nr. 14-20 / A 5867 von der Fraktion DIE GRÜNEN/RL vom 06.09.2019 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Mobiles München – ehrlich dran arbeiten Antrag Nr. 14-20 / A 05514 von Herrn Stadtrat Röver vom 18.06.2019 MVV fährt im München-Takt Antrag Nr. 14-20 / A 06725 von Frau Stadträtin Wiepcke, Herrn Stadtrat Schall, Herrn Stadtrat Quaas vom 11.02.2020 Buslinie 135 bis zum Gasteig-Interimsquartier in Sendling verlängern Antrag Nr. 14-20 / A 06814 von Frau Stadträtin Olhausen vom 20.02.2020 Verlängerung der Fahrtzeiten der Linie 199 bis Mitternacht Antrag Nr. 14-20 / B 05631 des Bezirksausschusses des Stadtbezirkes 15 – Trudering-Riem vom 13.12.2018
+- TOP 8.5.: (U) Einrichtung und Ausschreibung eines Nachbarschaftstreffs Wohnanlage "Karlinger-/Gubestraße" der GWG Städtische Wohnungsgesellschaft mbH in Moosach Bedarfs- und Konzeptgenehmigung 10. Stadtbezirk - Moosach
+- TOP 8.6.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 8.7.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 8.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 8.10.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 8.11.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 8.12.: WEB - alle Anträge vom 16.09.2020 bis 30.09.2020 - nicht-öffentlich -
+- TOP 4.: Anträge
