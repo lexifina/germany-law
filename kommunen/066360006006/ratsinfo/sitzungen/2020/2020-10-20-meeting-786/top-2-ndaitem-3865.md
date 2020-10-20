@@ -1,0 +1,7 @@
+# TOP 2.: Erwerb des Grundstücks Gemarkung Küchen, Flur 9, Flurstück 384
+
+- Sitzung: Bau- und Umweltausschuss (31. Sitzung) (2020-10-20)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/3865
+- Ergebnis: 0 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en)
