@@ -1,0 +1,117 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-10-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6015901
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6015901
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.4.: Holzplatz Umgestaltung: Konzept zur Bürgerbeteiligung
+- TOP 5.5.: Nicht-Einhaltung ausgewiesener Freischankflächen von Gastronomiebetrieben in der Thalkirchner Straße, Bürgeranliegen aufgenommen in der Sitzung am 22.09.2020
+- TOP 3.1: Bauvorhaben
+- TOP 1.1.: Sofortiger Ersatz für den Taubenschlag am Hauptbahnhof, Antrag der Fraktion Die Grünen / Rosa Liste (wird nachgereicht)
+- TOP 1.2.: Unterrichtung über Ersatzpflanzungen, Antrag der Baumschutzbeauftragten (wird nachgereicht)
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 5.1.: Entwicklungsbericht der Müllsituation an der Isar und mögliche Maßnahmen zur Verbesserung der Situation
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Kreiskultur e.V. Teepee-Projekt ab 01.10.2020 5.000,00 Euro, Az.: 0262.0-2-0365
+- TOP 2.2.: Stadtbezirksbudget Antrag des Vereins SUB e.V.: Umwidmung einer Summe in Höhe von 300,00 € für die Ausstellung „Fenster zum Klo“; ursprünglicher Budgetantrag bewilligt in der Sitzung am 26.05.2020
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Schaffung von Behindertenparkplätzen im Umfeld der Fraunhoferstraße, Antrag der Fraktion Die Grünen / Rosa Liste vom 09.09.2020
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.2.1.: Gefahrzeichen „Radverkehr“ auf der Südostseite der Isartalstraße auf Höhe Hausnummer 44
+- TOP 3.2.2.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs - Drittes Maßnahmenbündel; Sitzungsvorlage Nr. 20-26 / V 01007
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorschlag zur Einrichtung einer Tempo-30-Zone im Glockenbachviertel; Bürgeranliegen
+- TOP 5.2.: Einrichtung von Radabstellplätzen in der Platenstraße 4, Antrag des ADFC München e.V.
+- TOP 5.3.: Ausweisung der Achse Bavariastraße - Aberlestraße – (Demleitnerstraße) als Fahrradstraße, Bürgeranliegen
+- TOP 5.6.: Parken im Dreimühlenviertel, Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Baumpflanzungen in der Tumblinger- und Zenettistraße; Bürgeranliegen
+- TOP 5.3.: Fortführung des Palmengartens auf der Theresienwiese; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Anliegen an den BA 2: Gastschulantrag, Anwort auf Bürgeranliegen TOP 20.08 A 5.1
+- TOP A 4.4.: Verlängerung der Kunstaktion "BAVARIA" in der Erhardtstraße nahe der Corneliusbrücke bis zum 31.12.2021
+- TOP A 4.5.: Allparteiliches Konfliktmanagement in München (AKIM) personell aufstocken
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Theaterperformance „Wir waren nie weg“ zum 40. Jahrestag des Oktoberfestattentats, Eilentscheidung
+- TOP B 4.8.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP B 4.9.: Anhörung zum Projekt Karlsplatz 25, Antwort des Baureferats Tiefbau auf BA-Stellungnahme vom 25.08.2020, TOP 20.08 B 3.3.4
+- TOP B 4.10.: Alkoholverkauf an der Aral-Tankstelle Kapuzinerstraße/Baldeplatz, Antwort der BI auf weitergeleitetes Bürgeranliegen, TOP 20.08 B 5.8
+- TOP B 4.11.: Beschilderung der temporären öffentlichen Toiletten am Gärtnerplatz
+- TOP B 4.12.: Aufstellung von Dialogdisplays in der Isartalstraße, Antwort auf weitergeleitetes Bürgeranliegen, TOP 20.08 B 5.2
+- TOP B 4.13.: Fahrradabstellplätze für Besucher des Deutschen Theaters
+- TOP B 4.14.: Versetzung der Verkehrsschilder Thalkirchner-/Einfahrt Müllerstraße
+- TOP B 4.15.: Gefährliche Stellen für Fahrradfahrer im Stadtbezirk, Antwort des KVR auf Bürgeranliegen (vgl. 20.07 B 5.4)
+- TOP B 4.16.: Gefahr für Fußgänger und Radfahrer in der Unterführung (Untergang) am Reichenbach-Kiosk
+- TOP B 4.17.: Schutzstreifen für den gegenläufigen Radverkehr in der Klenzestraße zwischen Gärtnerplatz und Fraunhoferstraße; Antwort auf Bürgeranliegen
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Baugenehmigung zum Bauvorhaben Fraunhoferstraße 27, Neubau Wohn- und Geschäftshaus (Rückgebäude) sowie Aufstockung Dachgeschoss (Vordergebäude) und Teilumbau Tiefgarage
+- TOP C 4.3.: Fernwärmeplanung in der Kobellstraße, Anfrage eines Bürgers an die Stadtratsfraktionen Die Grünen - Rosa Liste und SPD
+- TOP C 4.4.: Genehmigungsbescheid für das Bauvorhaben Tumblingerstraße 48 VGB
+- TOP C 4.5.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Kapuzinerstraße 26: Genehmigung zur Fällung einer Linde
+- TOP D 4.2.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken, Schreiben des BA 17 Obergiesing-Fasangarten
+- TOP D 4.3.: Der Grünstreifen in der Frauenlobstraße wird bienen- und anwohnerfreundlich bepflanzt und es werden Bänke aufgestellt.
+- TOP D 4.4.: Genehmigungsbescheid für die beantragten Baumfällungen an der Lessingstraße 9
+- TOP D 4.5.: Bürgeranliegen: Schattenplätze an der Isar, Antwort des Baureferates
+- TOP D 4.6.: Genehmigung von Sportangeboten auf Grünflächen
+- TOP D 4.7.: Mülleimer am Westermühlbach
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Entscheidungsrecht der Bezirksausschüsse bei der Genehmigung von Freischankflächen - weiterhin entzogen bis 31.03.2021
