@@ -468,7 +468,7 @@ Ordnungswidrigkeiten](0211.md)
 
 - [§ 222 Neuorganisation der gewerblichen Berufsgenossenschaften](0222.md)
 - [§ 223 Neuorganisation der landesunmittelbaren Unfallversicherungsträger der öffentlichen Hand](0223.md)
-- [§ 224 Unternehmernummer](0224.md)
+- [§ 224 Umstellung der Mitgliedsnummer auf die Unternehmernummer](0224.md)
 - [§ 225 (weggefallen)](0225.md)
 - [Anlage 1 (zu § 114)Gewerbliche Berufsgenossenschaften](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)

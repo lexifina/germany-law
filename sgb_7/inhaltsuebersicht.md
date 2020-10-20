@@ -416,7 +416,7 @@
 |  | Übergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung |
 | § 222 | Neuorganisation der gewerblichen Berufsgenossenschaften |
 | § 223 | Neuorganisation der landesunmittelbaren Unfallversicherungsträger der öffentlichen Hand |
-| § 224 | Unternehmernummer |
+| § 224 | Umstellung der Mitgliedsnummer auf die Unternehmernummer |
 | § 225 | (weggefallen) |
 | Anlage 1 | Gewerbliche Berufsgenossenschaften |
 | Anlage 2 | (weggefallen) |
