@@ -1,0 +1,195 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2020-10-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5746633
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5746633
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2: UA Mobilität
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Pechdellerstraße 11: Neubau eines Wohngebäudes (3 WE) mit Tiefgarage (6 Stpl.)
+- TOP 3.5.4.1.5.: Mailänder Str. 3: Neubau eines Mehrfamilienhauses (4 WE) mit Garagen und Carport
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Wechsel in der Zuständigkeit der Betreuung für den Bezirkausauschuss 18 ab dem 28.09.2020; Informationsschreiben
+- TOP 1.3.2.: Protokoll der Sitzung vom 15.09.2020
+- TOP 2.2.1.1.: Vorstellung der Abteilung "AKIM - Allparteiliches Konfliktmanagement"
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget BRK-KV ASZ Harlaching 2. Harlachinger Freiwilligenmarkt ab 12.10.2020 3.887,68 € / Az. 0262.0-18-0219
+- TOP 3.1.2.2.: Stadtbezirksbudget Kairosis gUG - Theaterprojekt SoLonely! Antrag auf ergänzenden Zuschuss i.H.v. 2800 Euro
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Die Färberei, Kreisjugendring München - Stadt Isart / Kunst im Quadrat am 24./25.10.2020 (alternativ: 31.10./01.11.2020) 3.850,00 € / Az. 0262.0-18-0220
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Antrag zur Förderung für die Einrichtung einer kreativen Stau-Schallwand am Halt 58
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2.1: Bericht
+- TOP 3.2.2.1.: (E) Klare Regelungen für Radfahrerinnen und Radfahrer in den Isarauen Empfehlung Nr. 14-20 / E 02994 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 07.11.2019
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Eignung der Mondstraße zur Sommerstraße; Meinung von Anwohnern (Schreiben vom 15.09.2020)
+- TOP 3.2.3.2.: Situation Parkraumbewirtschaftung Schönstraße (Süd); Bürgeranliegen vom 21.07.2020 (vertagt am 15.09.2020)
+- TOP 3.2.3.3.: Aufstellen von Schildern zur Parkdauerbegrenzung vor dem Ladegeschäft "Der Brotladen" Authariastr. 10 und Naupliastr.; Antrag der CSU-Fraktion (Hinweis: Authariastr. 10 wurde in der Sitzung am 15.09.2020 bereits zugestimmt und weitergeleitet) - Antrag der CSU-Fraktion
+- TOP 3.2.3.4.: Verkehrsführung Seyboth-/Naupliastraße nach diversen neuen Bauten (vertagt am 15.09.2020) - Ortstermin -
+- TOP 3.2.3.5.: Gefahrenstelle Radverkehr Fußgängerverkehr Drumberg-Lohstraße-Schrafnagelberg; Bürgeranliegen vom 13.08.2020 (vertagt am 15.09.2020) - Ortstermin -
+- TOP 3.2.3.6.: Probleme für Fußgänger an der Josef-Vötter-Straße und am Waldhaupteingang Ecke Perlacher Forst / Säbenerplatz; Bürgeranliegen vom 27.08.2020 (Hinweis: Punkt 1 - 5 wurde in der Sitzung am 15.09.2020 bereits zugestimmt und weitergeleitet, Punkt 6 Ortstermin)
+- TOP 3.2.3.7.: Antrag zur Ausweitung des Parklizenzgebietes Wettersteinplatz; Bürgeranliegen vom 24.09.2020
+- TOP 3.2.3.8.: Aufhebung des absoluten Halteverbots in der Bad-Wiessee-Str.; Bürgeranliegen
+- TOP 3.2.3.9.: Parkraummanagement "Wettersteinplatz"
+- TOP 3.2.3.10.: Maßnahmen zur Weiterentwicklung der Wendeschleife Tram Großhesseloher Brücke - Antrag des UA Mobilität
+- TOP 3.2.3.11.: Beseitigung Stolperkante am Zugang zu den Isarauen an der Wilhelm-Kuhnert-Straße - Antrag der Grünen-Fraktion
+- TOP 3.2.3.12.: Gehwegabsenkungen & Halteverbot zur Sicherung der Zufahrt / des Zugangs von der Reichenhaller Straße in den Reichardtweg - Antrag der Grünen-Fraktion
+- TOP 3.2.3.13.: Optimierung der Ampelphasen an 2 Kreuzungen an der Pilgersheimer Straße für mobilitätseingeschränkte Personen - Antrag der Grünen-Fraktion
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Harthauser Straße; Änderung der Vorfahrtsregelung, alternativ Aufbringen von Bremsschwellen (BA-Antrags-Nr. 20-26 / B 00460 des Bezirksausschusses); Schreiben des KVR vom 11.09.2020
+- TOP 3.2.4.2.: Kita-Anfahrtszone an der Armanspergerstraße 3
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Verkehrssicherheit - Harthauser Straße südlich ab Kreuzung Menterschwaigstraße endlich mit befestigten Gehbahnen ausbauen; Antwortschreiben vom 09.09.2020
+- TOP 3.2.5.2.: Um für Kinder, Senioren, mobilitätseingeschränkte Menschen und Radfahrer eine Verbindung zwischen Untergiesing und Harlaching zu ermöglichen und gleichzeitig das einzigartige Ökosystem des Landschaftsschutzgebiets nicht zu beschädigen, wird erneut um einen Aufzugturm mit Brücke an der Hangkante gebeten; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus der Sitzung vom 18.02.2020)
+- TOP 3.2.5.3.: Ausbau der P+R-Anlage Mangfallplatz im Zuge der Einführung des Parkraummanagementes im 18. Stadtbezirk - Schreiben der P+R München -
+- TOP 3.2.5.4.: Schrägparken in der Schyrenstraße
+- TOP 3.2.5.5.: Antrag zur Unterstützung eines Sichtschutzes am "Halt 58" am Kolumbusplatz; Antrag der BI "Mehr Platz zum Leben"
+- TOP 3.2.5.6.: Linienführung der Buslinie 139 / Umsteigezeit U1 / Störung der Rolltreppe / Überdachte Abstellmöglichkeit für Fahrradfahrer am Aufgang Mangfallplatz Süd
+- TOP 3.2.5.7.: Gefährliche Verkehrssituation vor der Grundschule am Agilolfingerplatz 1 und auf den Zugangsstraßen zur Grundschule
+- TOP 3.2.5.8.: Reinhaltung der Fahrbahn der Rotbuchenstraße in Harlaching
+- TOP 3.2.5.9.: Ablehnung des Antrags Mehr kostenlose Schulbusse im Stadtbezirk 18
+- TOP 3.2.5.10.: Claude-Lorrain-Straße – Fahrradstraße von der Humboldtstraße bis zum Hans-Mielich-Platz & bauliche Veränderungen der Abzweigung in die Sachsenstraße
+- TOP 3.2.5.11.: Parkraummanagement: Parklizenzen für Firmen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Austausch Lichtsignalanlagen Giesinger Berg / Ichostraße; Mitteilung des KVR
+- TOP 3.2.6.2.: Gabriel-Max-Straße 21-23, Absolutes Halteverbot mit Zeitzusatz für die Müllabfuhr auf Höhe gegenüber Anwesen Nr. 21 und 23; (Verkehrsrechtliche Anordnung nach § 45 StVO); Mitteilung vom KVR
+- TOP 3.2.6.3.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 3.2.6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.5.: Schönstr. 12 - 14: Errichtung einer Feuerwehrzufahrt; Unterrichtung
+- TOP 3.2.6.6.: Austausch Lichtsignalanlage 59 Claude Lorrain-/Humboldtstr.
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Schach am Hans-Mielich-Platz und Müll; Bürgeranliegen vom 11.09.2020
+- TOP 3.3.3.2.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken - Antrag des BA 17 Obergiesing-Fasangarten
+- TOP 3.3.3.3.: "Birkenleiten - Park- und Müllproblematik in Untergiesing" (BA-Antrag 20-26 / B 00158) Rückmeldung des Bürgers zum Antwortschreiben
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Baumfällungen (Anhörungen): Schönchenstr. 20 Söllereckstr. 14 Weyarner Str. 38 Meraner Str. 6 Lindenstr. 33 Säbener Str. 55 - 57 Hochkalterstr. 2 - 14 Rabenkopfstr. 13 Gabriel-Max-Str. 1 Kurzstr. 7 Söltlstr. 6 Am Blumengarten 11 Tegernseer Landstr. 300 Tauernstr. 11 Prößlstr. 14
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Der BA 18 möge folgende Anfrage an den Abfallwirtschaftsbetrieb München stellen: Die Stellplätze für Container für Altglas, Plastik etc. werden immer weniger im Viertel - der Umwelt tut das nicht gut
+- TOP 3.3.5.2.: Neues Bewässerungssystem für Straßenbäume im 18. Stadtbezirk einsetzen, besonders bei hitzebelasteten Standorten
+- TOP 3.3.5.3.: Hundespielplatz mit spannenden Herausforderungen nur für Hunde auf einer ungenutzten Grünfläche
+- TOP 3.3.5.4.: Planung weiterer barrierefreier öffentlicher Toiletten auch im Bezirk 18: Bedarf eindeutig gegeben am Candidberg Spielplatznähe hinter Stadion, Isarauen und Rosengarten
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Fällungsgenehmigung St.-Magnus-Str. 1; Entfernung von abgestorbenem Baumbestand (genehmigungsfrei)
+- TOP 3.3.6.2.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 3.3.6.3.: Fällunggenehmigung Defreggerstraße 3
+- TOP 3.3.6.4.: Fällunggenehmigung Lindenstr. 2
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1.: Vorstellung eines Vorentwurfs für den Neubau einer Parkouranlage in der Lohstraße durch das Baureferat Gartenbau in der UA-Sitzung am 13.10.20 um 19 Uhr (BA-Antrags-Nr. 14-20 / B 0396)
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Außenfläche zur langfristig sicheren Nutzung durch die Grundschule Harlaching - Antrag der Grünen-Fraktion
+- TOP 3.4.3.2.: Mietfreie Nutzung von Schulräumlichkeiten für ehrenamtliche Hausaufgabenbetreuungen - Antrag der SPD-Fraktion
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Auswahlverfahren REGSAM-Schwerpunktgebiete ab 2021
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Flächen für Jugendliche mitberücksichtigen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Berichtigung der Anlage „E2 - 124. Spielraumkommission“ - Vertretung der Referate und Dienststellen - Vertretungen der Träger der Kinder- und Jugendarbeit zur Beschlussvorlage: Neubildung des Stadtrats - Bildung, Fortbestand und Besetzung von Stadtratsgremien; Vertretung der Landeshauptstadt München in - Stiftungen und Schenkungen - Beteiligungsunternehmen und Organisationen - Vereinen und Verbänden - Kommissionen und sonstigen Gremien Sitzungsvorlage Nr. 20 - 26 / V 00452 Beschluss der Vollversammlung des Stadtrats vom 17.06.2020
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2.1.: Projektplangenehmigung BPlan 2088 - ehemaliges Osramgelände, Hellabrunner Straße und Salierstraße Vorstellung durch die Investoren
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.2.: Photovoltaikanlage auf dem Dach des Neubaus Klinik-Campus in Harlaching; Antrag der SPD-Fraktion
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Holzkirchner Str. / Geiselgasteiger Str.: Errichtung einer beklebten und beleuchteten Großflächentafel, 1-seitig (Werbeanlage)
+- TOP 3.5.4.2.1.: Rabenkopfstr. 7
+- TOP 3.5.4.2.2.: Agilolfingerpl. 8
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Bedenken bzgl. Bauvorhaben Geiselgasteigstr. 9
+- TOP 3.5.5.2.: Neubau Klinikum Harlaching
+- TOP 3.5.5.3.: Einigungsversuch Bauvorhaben Schmorellplatz 8
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse - Waldeckstr. 7; Unterrichtung des Sozialreferates vom 04.09.2020 - Waldeckstr. 56; Unterrichtung des Sozialreferates vom 10.09.2020 - Hans-Mielich-Platz 3; Unterrichtung des Sozialreferates vom 23.09.2020
+- TOP 3.5.6.2.: Bauvorhaben Schmorellplatz 9, Verlängerung der Geltungsdauer des Vorbescheides; Schreiben des Planungsreferates vom 11.09.2020
+- TOP 3.5.6.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse - Anwesen Säbener Str. 199; Unterrichtung des Sozialreferates vom 14.09.2020
+- TOP 3.5.6.4.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung: - Anwesen Heigelstr. 8; Bescheid vom 18.09.2020 - Anwesen Wilhelm-Kuhnert-Str. 2 - 4; Bescheid vom 18.09.2020 - Anwesen Autharistr. 46; Bescheid vom 18.09.2020 - Anwesen Hochleite 17 -19; Bescheid vom 30.09.2020 - Anwesen Alois-Wolmuth-Str. 9; Bescheid vom 30.09.2020 - Anwesen Autharistr. 7; Bescheid vom 02.10.2020
+- TOP 3.5.6.5.: Informationsschreiben „Entscheidungsrecht der Bezirksausschüsse bei der Genehmigung von Freischankflächen“
+- TOP 3.5.6.6.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 3.5.6.7.: (E) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018 14-20 / 01973 (BV-EMP) Verhinderung weiteren Zuzugs
+- TOP 3.5.6.8.: Geiselgasteigstr. 9: Neubau eines Mehrfamilienhauses (4 WE) mit 2 Duplex-Garage - Vorbescheid; Rückmeldung des Referats für Stadtplanung und Bauordnung (Baugenehmigung)
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.1.1.: Straßentheater Vollmarpark und Rosengarten Bericht des Vorsitzenden über Eilentscheidung
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: (E) Errichtung eines Basketballfeldes mit zwei Körben am Spielplatz Athener Platz Empfehlung Nr. 14-20 / E 01850 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 16.11.2017
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Bücherschrank am Mangfallplatz; Rückmeldung der SWM und des Bürgers (mit Fotos) (vertagt am 15.09.2020)
+- TOP 3.6.3.2.: Genehmigter Antrag auf einen Basketballkorb in Harlaching - Beschwerde zur Antwort des Baureferats (BA-Antrag 14-20 / B 07400, siehe TOP 3.6.5.29
+- TOP 3.6.3.3.: Einrichtung einer Slacklining – Sportanlage auf der Grünfläche Säbener Platz/ Oberbiberger Straße; Antrag der SPD-Fraktion
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Aufstellen einer kostenlosen öffentlichen Boulderwand z.B. an der Brücke über den Candidplatz
+- TOP 3.6.5.2.: Antrag auf einen Basketballkorb auf der Wiese am Ende der Säbener Straße; Bürgerantrag
+- TOP 3.6.5.3.: Basketballplatz in der Parkanlage am Mangfallplatz / Soyerhofstraße sanieren
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.6.2.: Unveränderte Fortführung Bravi Ragazzi
+- TOP 3.6.7: Sonstiges
+- TOP 4.5.1.: Informationsschreiben zu den Grundsatzbeschlüssen zur Zusammenarbeit mit Mandatsträger*innen der AfD
+- TOP 4.5.2.: Informationsschreiben des Direktoriums an die BAs zum Thema "persönliche Beteiligung"
+- TOP 6.1.1.: UA Soziales: 13.10.2020, 19:00 Uhr, Ort Fezi UA Bau und Planung: 15.10.2020, 18:30 Uhr, Harlachinger Einkehr UA Umwelt und Klimaschutz: 15.10.2020, 19:30 Uhr, Harlachinger Einkehr UA Kultur: 19.10.2020, 19:00 Uhr, Giesinger Garten UA Budget: 12.10.2020, 18:00 Uhr, Halachinger Einkehr UA Mobilität:12.10.2020, 19.00 Uhr, Harlachinger Einkehr
+- TOP 3.3.1.: Vorstellung der öffentlichen Straßenverkehrsflächen im/am Quartier - Vorstellung durch OGM Living Isar
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4.1.2.: Athener Str. 44: Abbruch und Neubau einer Doppelhaushälfte mit Garage
+- TOP 3.5.4.1.3.: Athener Str. 44: ABBRUCH einer Doppelhaushälfte mit Garage
+- TOP 3.5.4.1.4.: Athener Str. 15: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
