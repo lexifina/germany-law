@@ -1,0 +1,7 @@
+# TOP 3.: Beratung und Beschlussfassung über die Vergabe der Erschließung NBG „Hinter der Schulstraße“ im OT Hausen, Ausgaben bei der Investitionsmaßnahme I1576-2017, Erschließung Neubaugebiet Hinter der Schulstraße Az.: 621.41: 060 Hinter der Schulstraße
+
+- Sitzung: Haupt-, Finanz- und Rechnungsprüfungsausschuss (2. Sitzung) (2020-10-21)
+- Körperschaft: Gemeinde Waldbrunn im Westerwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/waldbrunn/webservice/oparl/v1.1/body/1/agendaitem/366
+- Ergebnis: (kein Text vorhanden)
