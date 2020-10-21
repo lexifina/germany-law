@@ -1,0 +1,160 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-10-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405799
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405799
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.1: Allgemeine Unterrichtungen
+- TOP 6.2: Infoblatt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 6.: Unterrichtungen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Initiative Weihnachtsaktion in 2020 ?
+- TOP A: Allgemeines
+- TOP 5.1.: Barrierefreie Gestaltung von Querungsstellen für Menschen mit Behinderung
+- TOP 5.2.: Blühstreifen für Au-Haidhausen
+- TOP 5.3.: Einrichtung eines Radweges vom Haidenauplatz zum Orleansplatz
+- TOP 5.4.: Kirchenstraße - Tempo 30 ab Kreuzung
+- TOP 5.5.: Grünfläche mit Stauden bepflanzen (Kirchenstraße Ecke Elsässer Straße)
+- TOP 5.6.: Haidenauplatz rot markieren
+- TOP 5.7.: Durchfahrt für Fahrräder vom Prinzregentenplatz nach Haidhausen ermöglichen
+- TOP 5.8.: Buslinienumlegung in der Unteren Au jetzt vorbereiten
+- TOP 5.9.: Radabstellanlagen am Schwester-Eubulina-Platz installieren
+- TOP 5.10.: Urban-Gardening in der Au
+- TOP 6.2.1.: Infoblatt 10/2020
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Digitalanalog e.V. Digitalanalog 2020 vom 16.-18.10.2020 2.300,00 € / Az. 0262.0-5-0306
+- TOP II.2.: Gestaltung der Mauern an der Postwiese Bürgeranliegen
+- TOP II.3.: Eventuelle Veranstaltungen auf dem Mariahilfplatz - Winterfest in der Au von Mitte Dezember 2020 - Mitte Januar 2021 - Märchenbazar von 26.11.-27.12.2020 dazu: Bürgeranliegen a) Zulassung von Veranstaltungen auf dem Mariahilfplatz b) Veranstaltungen auf dem Mariahilfplatz c) Bitte Einwohnerversammlung vor der Entscheidung über Mariahilfplatz-Nutzung d) Unterstützung der Veranstaltung des Märchenbazars auf dem Mariahilfplatz e) Veranstaltung auf dem Südteil des Mariahilfplatzes f) Ausschließliche Durchführung der Dulten auf dem Mariahilfplatz g) Unterstützung von Veranstaltungen auf dem Mariahilfplatz - siehe auch UA Wirtschaft -
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Bedarf einer Nachbarschaftseinrichtung im Quartier Hackländerstraße Vorstellung des Beamtenwohnungsvereins
+- TOP 1.1.: (E) Stadtbezirksbudget Junge Frauen und Beruf e.V. / Atelier La Silhouette Übernahme von Mietkosten eines zusätzlichen Raumes 5.625,00 € / Az. 0262.0-5-0307
+- TOP 2.1.: Auswahlverfahren REGSAM-Schwerpunktgebiete ab 2021
+- TOP 2.2.: Förderbedarf im Sozialreferat: Johannes und Maria - Begegnung in der Au
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Entscheidung für den 10. Stadtbezirk Moosach als Einsatzort für den Kita-Stadtteil-Koffer und den Kinder-Aktions-Koffer 2021
+- TOP 3.2.: Erneuerung Spielplatz an der Reichenbachbrücke dazu: Ortstermin mit dem Baureferat am 13.10.2020
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Erhalt der Kindervilla in der Kellerstraße während der Umbaumaßnahmen Gasteig Empfehlung Nr. 3190 der Bürgerversammlung am 30.01.2020 Sitzungsvorlage Nr. 20-26 / V 00670
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beantragung von Sirenen für den Stadtbezirk 5
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Bücherschrank am Genoveva-Schauer-Platz Verwendung des Überschusses aus dem bereits bewilligten Budget i.H.v. 259,50 € für Kosten von Reinigungsmitteln (Antrag AKA e.V.)
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Innere-Wiener-Str. 46 Vertagung aus der Sitzung vom 16.09.2020 dazu: Stellungnahme Denkmalschutz
+- TOP 2.: Anhörungen
+- TOP 2.1.: St. Martin Laternenfest am 13.11.2020 in der Claude-Lorrain-Straße (Frühlingsanlagen)
+- TOP 2.2.: Schlusskonzert Kulturtage am 11.10.2020 am Weißenburger Platz Vorabzustimmung durch den Vorsitzenden erfolgt
+- TOP 2.3.: Gaststätte „Hofbräukeller“, Innere Wiener Str. 19: Antrag auf Aufstellung von 2 Marktbuden auf Privatgrund am Wiener Platz sowie Erteilung einer Gestattung zum Glühweinausschank vom 01.11.2020 bis 28.02.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nachprüfungs- und Widerrufsrecht für Freischankflächen Antwort KVR zum BA-Schreiben vom 23.09.2020
+- TOP 3.2.: Entscheidungsrecht der BAs bei der Genehmigung von Freischankflächen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Genehmigung von Sitzgelegenheiten und Hochbeeten am "Breisässer Platz"
+- TOP 4.2.: Eventuelle Veranstaltungen auf dem Mariahilfplatz - Winterfest in der Au von Mitte Dezember 2020 - Mitte Januar 2021 - Märchenbazar von 26.11.-27.12.2020 dazu: Bürgeranliegen a) Zulassung von Veranstaltungen auf dem Mariahilfplatz b) Veranstaltungen auf dem Mariahilfplatz c) Bitte Einwohnerversammlung vor der Entscheidung über Mariahilfplatz-Nutzung d) Unterstützung der Veranstaltung des Märchenbazars auf dem Mariahilfplatz e) Veranstaltung auf dem Südteil des Mariahilfplatzes f) Ausschließliche Durchführung der Dulten auf dem Mariahilfplatz g) Unterstützung von Veranstaltungen auf dem Mariahilfplatz - siehe auch UA Kultur -
+- TOP V.: UA Planung
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung der aktuellen Planungen zum Baugebiet "Orleanshöfe"
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kirchenstiftung St. Gabriel Reparatur der Turmuhr 19.882,40 € / Az. 0262.0-5-0295
+- TOP 1.2.: (E) Pflege der Brückenanlage Gebsattelstraße Empfehlung Nr. 14-20 / E 03188 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 30.01.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rosenheimer Platz 4-6: Sanierung der von Chloridkontaminierung betroffenen Bauteile der Tiefgarage
+- TOP 2.2.: Ohlmüllerstr. 2: Nutzungsänderung EG von Gastronomie zu Büronutzung (Architekturbüro), Tektur
+- TOP 2.3.: Lucile-Grahn-Str. 48: Umbau einer Dachgeschoss-Wohnung sowie Einbau eines Aufzugs und von Dachgauben, Tektur
+- TOP 2.4.: Sedanstr. 8: Errichtung einer Wohneinheit in der Hofdurchfahrt und Nutzungsänderung im EG (Ladeneinheit zu 2 Wohnungen)
+- TOP 2.5.: Balanstr. 49-51: Änderung Brandschutz Haus A, B und F, Nutzung Galerie Haus B über 6. OG
+- TOP 2.6.: Orleansstraße: Errichtung eines Container-Provisoriums für das Bundespolizeirevier am Ostbahnhof (Zwischenunterbringung), befristet auf 3 Jahre
+- TOP 2.7.: Kellerstr. 1: Nutzungsänderung in einem Wohn- und Geschäftsgebäude: Verkleinerung einer Gastroeinheit, Nutzungsänderung: Weinhandel zu Gastroeinheit, Vergrößerung einer Moschee, freie Lagerfläche
+- TOP 2.8.: Welfenstraße: Neubau von Wohn- und Geschäftshäusern (89 WE und 5 Läden)mit 401 Stellplätzen und gemeinsamer Tiefgarage; Nutzungsänderung und Umbau einer Ladeneinheit (Haus 8 EG) zu einer Einrichtung der offenen Kinder- und Jugendarbeit, Tektur
+- TOP 2.9.: Bazeillesstr. 9: Neubau eines Appartementhauses (7 WE), Änderung Freiflächengestalungsplan (Kinderspielplatz), Tektur
+- TOP 2.10.: Mariahilfstr. 6: Wohnungserweiterung durch DG-Ausbau und Errichtung zweier Gauben
+- TOP 2.11.: Wolfgangstr. 23: Ausbau des 2. Dachgeschosses mit Einbau zweier neuer Wohnungen mit hofseitiger Dachterrasse sowie Anbau hofseitiger Balkone im EG, 1.-2. OG und 1.-2. DG
+- TOP 2.12.: Ergebnisprotokoll Ortstermin Gabionenwand Tassilopark am 30.09.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Dachaufbau und innerstädtische Verdichtungen
+- TOP 3.2.: GS am Mariahilfplatz - Bauabschnitt 3 Turnhallenneubau; Nachbarschaftliche Veranstaltungen außerhalb des Schulbetriebes ermöglichen
+- TOP 3.3.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben Antwort Baureferat zum BA-Schreiben vom 28.07.2020 -Vertagung aus der Sitzung vom 16.09.2020 -
+- TOP 3.4.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Regerstr. 26 b) Einsteinstr. 96
+- TOP 3.5.: Ausgleich fordern als Gegenleistung für mehr Baurecht und hochwertigere Wohnungen aufgrund größerer genehmigter Fläche in höheren Geschossen
+- TOP 3.6.: Inwiefern ist bei nachträglich zusätzlich erteiltem Baurecht der Bezirksausschuss umgangen worden ?
+- TOP 3.7.: Leerstand Kirchenstr. 14 Mitteilung des Sachstandes durch das Amt für Wohnen und Migration => dazu: Schaffung von Wohnraum zu sozialverträglichen Bedingungen in der Kirchenstr. 14 Dringlichkeitsantrag DIE LINKE
+- TOP 3.8.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk a) Franziskanerstr. 15
+- TOP 3.9.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 3.10.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Anfrage zum Anwesen Preysingstr. 18
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung von verbindlichen Abstellflächen für E-Scooter / E-Bikes Empfehlung Nr. 14-20/E03181 der Bürgerversammlung vom 30.01.2020
+- TOP 2.2.: Falkenstraße / Mariahilfplatz: Aufstellung eines Gefahrenzeichens Radverkehr
+- TOP 2.3.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel Sitzungsvorlage Nr. 20-26/V 01007 Gesamtkonzept für Busspuren in der Au Empfehlung Nr. 14-20 / E 03183 aus der Bürgerversammlung des 05. Stadtbezirkes - Au-Haidhausen am 30.01.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Prüfung eines absoluten Halteverbots im Kurvenbereich der Spicherenstraße an der Ecke zur Elsässer Straße
+- TOP 3.2.: Pflaster am Genoveva-Schauer-Platz bearbeiten Antwort KVR zum BA-Schreiben vom 28.07.2020
+- TOP 3.3.: Markierung eines Radweges auf dem Gehweg Balanstraße zwischen Rosenheimer Straße und Auerfeldstraße
+- TOP 3.4.: MVG-Leihrad-Stationen am Rosenheimer Platz, Orleansplatz und Ostbahnhof
+- TOP 3.5.: Spiegel in der Auerfeldstraße gegenüber Hofeinfahrt
+- TOP 3.6.: Mangelhafte Verkehrsführung für Radfahrer und Fußgänger in den Frühlingsanlagen
+- TOP 3.7.: Orleansplatz: Sanierung / Verbesserung der Gehwege (Verhinderung Gehwegparken) Zwischenmitteilung Baureferat vom 28.09.2020
+- TOP 3.8.: Bushaltestelle Ostbahnhof (Post) barrierefrei ausbauen
+- TOP 3.9.: Austausch der Lichtsignalanlage Claude-Lorrain-/Humboldtstraße
+- TOP 3.10.: Die Schulwegsicherheit am Gebsattelberg erhöhen mit einer Zone 30 Empfehlung Nr. 3174 der Bürgerversammlung vom 30.01.2020 Entscheidung durch den OB
+- TOP 3.11.: Schulwegsicherheit an der Grundschule Ernst-Reuter-Straße, hier: Tempo 30 in der Grillparzerstraße
+- TOP 3.12.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 3.13.: (U) 2. Stammstrecke Planfeststellungsabschnitt 3 München-Ost Isar bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof Anträge und Empfehlungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verkehrssicherheit Ernst-Reuter-Grundschule (siehe auch TOP 3)
+- TOP 4.2.: Verkehrliche Maßnahmen gegen Lärm und Stickoxydbelastung an der Kreuzung Pilgersheimer-/Humboldtstraße
+- TOP 4.3.: Aufstellen von neuen Fahrradparkplätzen in der Inneren Wiener Straße
+- TOP 4.4.: Verkehrsberuhigung der Schneckenburger-/Nigerstraße
+- TOP 4.5.: Fuß- und Radwegeleitung im Bereich der Großbaustelle ehemaliges Paulanergelände
+- TOP 4.6.: Antrag der Bürgerinitiative "Sichere Preysingstraße"
+- TOP 4.7.: Unfallgefahr am Nockherberg
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Baumpflanzungen auf beiden Seiten der Humboldtstraße (Ziffer 3 des Antrags) Empfehlung Nr. 14-20 / E 03178 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 30.01.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Breisacher Str. 9: Fällung von 1 Birke, 1 Esche und 1 Ahorn
+- TOP 2.2.: Orleansstr. 34: Freigabe der Grabung im Wurzelbereich von Bäumen wegen Bau einer Fernwärmeleitung
+- TOP 2.3.: Nockherstr. 2-4: Fällung von 1 Akazie, 2 Weißpappeln, 2 Eschen, 1 Ahorn und 1 Weide
+- TOP 2.4.: Mariahilfstr. 1: Fällung von 1 Ahorn
+- TOP 2.5.: Schneckenburgerstr. 10: Fällung von 1 Blaufichte
+- TOP 2.6.: Zeppelinstr. 10: Fällung von 1 Spitzahorn
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fällgenehmigungen: a) Nockherstr. 1
+- TOP 3.2.: Anfrage: Aktuelle Informationen zum Orleansplatz Antwort Planungsreferat zum BA-Schreiben vom 10.09.2020
+- TOP 3.3.: Eignung des Corneliusstreichwehrs für eine Surfwelle
+- TOP 3.4.: Häufigere Leerung der Wertstoffcontainer Johannisplatz 11 / Lothringer Str. 19
+- TOP 3.5.: Grundsätzliche Forderung von Ersatzpflanzungen bei Baumfällungen in den Stadtbezirken Schreiben BA 17 Obergiesing-Fasangarten
+- TOP 3.6.: Häufigere Leerung der Mülleimer am Orleansplatz und Bordeauxplatz
+- TOP 3.7.: Baumgräben: Konzept für Patenschaften erarbeiten und umsetzen
+- TOP 3.8.: Wertstoff-Inseln im Stadtbezirk 5 Au-Haidhausen vernünftig bewirtschaften ! Schreiben AWM zum BA-Schreiben vom 10.09.2020
+- TOP 3.9.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 09.11.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 09.11.2020, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 10.11.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 11.11.2020, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 11.11.2020, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 12.11.2020, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.11.2020, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 03.11.2020, 19.30 Uhr, Friedenstraße 40
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, zu TOP 3: Weitere Bürgeranliegen - UA Wirtschaft, TOP 2.3: Aufstellung von Marktbuden am Hofbräukeller - UA Wirtschaft, zu TOP 4.2: Weitere Bürgeranliegen - UA Planung, TOP 2.3-2.11 Bauvorhaben - UA Planung, TOP 2.12 Ergebnisprotokoll Ortstermin Gabionenwand Tassilopark - UA Planung, zu TOP 3.7 Dringlichkeitsantrag DIE LINKE
