@@ -21,7 +21,7 @@
 | Siebter Abschnitt | Zahnersatz .......................... | §§ 55 bis 59 |
 | Achter Abschnitt | Fahrkosten .......................... | § 60 |
 | Neunter Abschnitt | Zuzahlungen, Belastungsgrenze ....... | §§ 61 und 62 |
-| Zehnter Abschnitt | Weiterentwicklung der Versorgung ....... | §§ 63 bis 68b |
+| Zehnter Abschnitt | Weiterentwicklung der Versorgung ....... | §§ 63 bis 68c |
 |  |  |
 | Viertes Kapitel | Beziehungen der Krankenkassen zu den Leistungserbringern |  |
 | Erster Abschnitt | Allgemeine Grundsätze ....... | §§ 69 bis 71 |
@@ -92,6 +92,8 @@
 | Zweiter Titel | Datentransparenz ....... | §§ 303a bis 303f |
 | Dritter Abschnitt | Datenlöschung, Auskunftspflicht ....... | §§ 304 und 305b |
 |  |  |
-| Elftes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 306 und 307b |
-| Zwölftes Kapitel | Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ....... | §§ 308 bis 313 |
-| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 331 |
+| Elftes Kapitel | Telematikinfrastruktur ....... | §§ 306 bis 383 |
+| Zwölftes Kapitel | Interoperabilitätsverzeichnis ....... | §§ 384 bis 393 |
+| Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 394 bis 397 |
+| Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 398 bis 400 |
+| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 401 bis 417 |

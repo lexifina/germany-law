@@ -189,6 +189,7 @@ Europäischen Wirtschaftsraum](0018.md)
 - [§ 68 Finanzierung einer persönlichen elektronischen Gesundheitsakte](0068.md)
 - [§ 68a Förderung der Entwicklung digitaler Innovationen durch Krankenkassen](0068a.md)
 - [§ 68b Förderung von Versorgungsinnovationen](0068b.md)
+- [§ 68c Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen](0068c.md)
 
 ## Viertes Kapitel Beziehungen der Krankenkassen zu den
 Leistungserbringern
@@ -219,6 +220,7 @@ Versorgung](0072.md)
 - [§ 75 Inhalt und Umfang der Sicherstellung](0075.md)
 - [§ 75a Förderung der Weiterbildung](0075a.md)
 - [§ 75b Richtlinie zur IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0075b.md)
+- [§ 75c IT-Sicherheit in Krankenhäusern](0075c.md)
 - [§ 76 Freie Arztwahl](0076.md)
 
 #### Zweiter Titel Kassenärztliche und Kassenzahnärztliche
@@ -249,7 +251,8 @@ Vereinigungen
 - [§ 85b (weggefallen)](0085b.md)
 - [§ 85c (weggefallen)](0085c.md)
 - [§ 85d (weggefallen)](0085d.md)
-- [§ 86 Verwendung von Verordnungen in elektronischer Form](0086.md)
+- [§ 86 Verwendung von Verordnungen und Empfehlungen in elektronischer Form](0086.md)
+- [§ 86a Verwendung von Überweisungen in elektronischer Form](0086a.md)
 - [§ 87 Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte](0087.md)
 - [§ 87a Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten](0087a.md)
 - [§ 87b Vergütung der Ärzte (Honorarverteilung)](0087b.md)
@@ -759,15 +762,15 @@ Krankenkassen
 - [§ 288 Versichertenverzeichnis](0288.md)
 - [§ 289 Nachweispflicht bei Familienversicherung](0289.md)
 - [§ 290 Krankenversichertennummer](0290.md)
-- [§ 291 Elektronische Gesundheitskarte als Versicherungsnachweis](0291.md)
-- [§ 291a Elektronische Gesundheitskarte und Telematikinfrastruktur](0291a.md)
-- [§ 291b Gesellschaft für Telematik](0291b.md)
-- [§ 291c Schlichtungsstelle der Gesellschaft für Telematik](0291c.md)
-- [§ 291d Integration offener Schnittstellen in informationstechnische Systeme, Verordnungsermächtigung](0291d.md)
-- [§ 291e Interoperabilitätsverzeichnis](0291e.md)
-- [§ 291f Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0291f.md)
-- [§ 291g Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung und zur Videosprechstunde](0291g.md)
-- [§ 291h Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0291h.md)
+- [§ 291 Elektronische Gesundheitskarte](0291.md)
+- [§ 291a Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung](0291a.md)
+- [§ 291b Verfahren zur Nutzung der elektronischen Gesundheitskarte als Versicherungsnachweis](0291b.md)
+- [§ 291c Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte](0291c.md)
+- [§ 291d (weggefallen)](0291d.md)
+- [§ 291e (weggefallen)](0291e.md)
+- [§ 291f (weggefallen)](0291f.md)
+- [§ 291g (weggefallen)](0291g.md)
+- [§ 291h (weggefallen)](0291h.md)
 - [§ 292 Angaben über Leistungsvoraussetzungen](0292.md)
 - [§ 293 Kennzeichen für Leistungsträger und Leistungserbringer](0293.md)
 - [§ 293a Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung](0293a.md)
@@ -808,43 +811,204 @@ von Leistungsdaten, Datentransparenz
 - [§ 305a Beratung der Vertragsärzte](0305a.md)
 - [§ 305b Veröffentlichung der Jahresrechnungsergebnisse](0305b.md)
 
-## Elftes Kapitel Straf- und Bußgeldvorschriften
+## Elftes Kapitel Telematikinfrastruktur
 
-- [§ 306 Zusammenarbeit zur Verfolgung und Ahndung von
-Ordnungswidrigkeiten](0306.md)
-- [§ 307 Bußgeldvorschriften](0307.md)
-- [§ 307a Strafvorschriften](0307a.md)
-- [§ 307b Strafvorschriften](0307b.md)
 
-## Zwölftes Kapitel Überleitungsregelungen aus Anlaß
-der Herstellung der Einheit Deutschlands
+### Erster Abschnitt Anforderungen an die Telematikinfrastruktur
 
+- [§ 306 Telematikinfrastruktur](0306.md)
+- [§ 307 Datenschutzrechtliche Verantwortlichkeiten](0307.md)
 - [§ 308](0308.md)
-- [§ 309 Versicherter Personenkreis](0309.md)
-- [§ 310 Leistungen](0310.md)
-- [§ 311 Beziehungen der Krankenkassen zu den Leistungserbringern](0311.md)
+- [§ 308 Vorrang von technischen Schutzmaßnahmen](0308-2.md)
+- [§ 309 Protokollierung](0309.md)
+
+### Zweiter Abschnitt Gesellschaft für Telematik
+
+
+#### Erster Titel Aufgaben, Verfassung und Finanzierung der Gesellschaft für Telematik
+
+- [§ 310 Gesellschaft für Telematik](0310.md)
+- [§ 311 Aufgaben der Gesellschaft für Telematik](0311.md)
 - [(XXXX) §§ 311a und 311b (weggefallen)](xxxx-311a-und-311b.md)
 - [§ 312](0312.md)
+- [§ 312 Aufträge an die Gesellschaft für Telematik](0312-2.md)
 - [§ 313 (weggefallen)](0313.md)
+- [§ 313 Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0313-2.md)
+- [§ 314 Informationspflichten der Gesellschaft für Telematik](0314.md)
+- [§ 315 Verbindlichkeit der Beschlüsse der Gesellschaft für Telematik](0315.md)
+- [§ 316 Finanzierung der Gesellschaft für Telematik; Verordnungsermächtigung](0316.md)
 
-## Dreizehntes Kapitel Weitere Übergangsvorschriften
+#### Zweiter Titel Beirat der Gesellschaft für Telematik
 
-- [§ 314 Beitragszuschüsse für Beschäftigte](0314.md)
-- [§ 315 Standardtarif für Personen ohne Versicherungsschutz](0315.md)
-- [§ 316 Übergangsregelung zur enteralen Ernährung](0316.md)
-- [§ 317 (weggefallen)](0317.md)
-- [§ 318 Übergangsregelung für die knappschaftliche Krankenversicherung](0318.md)
-- [§ 319 Übergangsregelung zum Krankengeldwahltarif](0319.md)
-- [§ 320 Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften](0320.md)
-- [§ 321 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1](0321.md)
-- [§ 322 Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen](0322.md)
-- [§ 323 Bestandsbereinigung bei der freiwilligen Versicherung](0323.md)
-- [§ 324 (weggefallen)](0324.md)
-- [§ 325 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0325.md)
-- [§ 326 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0326.md)
-- [§ 327 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0327.md)
-- [§ 328 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0328.md)
-- [§ 329 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0329.md)
-- [§ 329 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0329-2.md)
-- [§ 330 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0330.md)
+- [§ 317 Beirat der Gesellschaft für Telematik](0317.md)
+- [§ 318 Aufgaben des Beirats](0318.md)
+
+#### Dritter Titel Schlichtungsstelle der Gesellschaft für Telematik
+
+- [§ 319 Schlichtungsstelle der Gesellschaft für Telematik](0319.md)
+- [§ 320 Zusammensetzung der Schlichtungsstelle; Finanzierung](0320.md)
+- [§ 321 Beschlussfassung der Schlichtungsstelle](0321.md)
+- [§ 322 Rechtsaufsicht des Bundesministeriums für Gesundheit über die Schlichtungsstelle](0322.md)
+
+### Dritter Abschnitt Betrieb der Telematikinfrastruktur
+
+- [§ 323 Betriebsleistungen](0323.md)
+- [§ 324 Zulassung von Anbietern von Betriebsleistungen](0324.md)
+- [§ 325 Zulassung von Komponenten und Diensten der Telematikinfrastruktur](0325.md)
+- [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326.md)
+- [§ 327 Weitere Anwendungen der Telematikinfrastruktur; Bestätigungsverfahren](0327.md)
+- [§ 328 Gebühren und Auslagen; Verordnungsermächtigung](0328.md)
+
+### Vierter Abschnitt Überwachung von Funktionsfähigkeit und Sicherheit
+
+- [§ 329 Maßnahmen zur Abwehr von Gefahren für die Funktionsfähigkeit und Sicherheit der Telematikinfrastruktur](0329.md)
+- [§ 330 Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur](0330.md)
 - [§ 331 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0331.md)
+- [§ 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur](0331-2.md)
+- [§ 332 Anforderungen an die Wartung von Diensten](0332.md)
+- [§ 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik](0333.md)
+
+### Fünfter Abschnitt Anwendungen der Telematikinfrastruktur
+
+
+#### Erster Titel Allgemeine Vorschriften
+
+- [§ 334 Anwendungen der Telematikinfrastruktur](0334.md)
+- [§ 335 Diskriminierungsverbot](0335.md)
+- [§ 336 Zugriffsrechte der Versicherten](0336.md)
+- [§ 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten](0337.md)
+- [§ 338 Komponenten zur Wahrnehmung der Versichertenrechte](0338.md)
+- [§ 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen](0339.md)
+- [§ 340 Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen](0340.md)
+
+#### Zweiter Titel Elektronische Patientenakte
+
+- [§ 341 Elektronische Patientenakte](0341.md)
+
+##### Erster Untertitel Angebot und Einrichtung der elektronischen Patientenakte
+
+- [§ 342 Angebot und Nutzung der elektronischen Patientenakte](0342.md)
+- [§ 343 Informationspflichten der Krankenkassen](0343.md)
+- [§ 344 Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte](0344.md)
+- [§ 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen](0345.md)
+
+##### Zweiter Untertitel Nutzung der elektronischen Patientenakte durch den Versicherten
+
+- [§ 346 Unterstützung bei der elektronischen Patientenakte](0346.md)
+- [§ 347 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer](0347.md)
+- [§ 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser](0348.md)
+- [§ 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte](0349.md)
+- [§ 350 Anspruch der Versicherten auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
+- [§ 351 Übertragung von Daten aus der elektronischen Gesundheitsakte in die elektronische Patientenakte](0351.md)
+
+##### Dritter Untertitel Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
+
+- [§ 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen](0352.md)
+- [§ 353 Erteilung der Einwilligung](0353.md)
+
+##### Vierter Untertitel Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
+
+- [§ 354 Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte](0354.md)
+- [§ 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans und der elektronischen Notfalldaten](0355.md)
+
+#### Dritter Titel Erklärungen des Versicherten zur Organ- und Gewebespende sowie Hinweise auf deren Vorhandensein und Aufbewahrungsort
+
+- [§ 356 Zugriff auf Erklärungen der Versicherten zur Organ- und Gewebespende sowie auf Hinweise auf deren Vorhandensein und Aufbewahrungsort](0356.md)
+
+#### Vierter Titel Hinweis des Versicherten auf das Vorhandensein und den Aufbewahrungsort von> Vorsorgevollmachten oder Patientenverfügungen
+
+- [§ 357 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen](0357.md)
+
+#### Fünfter Titel Elektronischer Medikationsplan und elektronische Notfalldaten
+
+- [§ 358 Elektronischer Medikationsplan und elektronische Notfalldaten](0358.md)
+- [§ 359 Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten](0359.md)
+
+#### Sechster Titel Übermittlung ärztlicher Verordnungen
+
+- [§ 360 Übermittlung vertragsärztlicher Verordnungen in elektronischer Form](0360.md)
+- [§ 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur](0361.md)
+
+#### Siebter Titel Nutzung der Anwendungen der Telematikinfrastruktur in der privaten Krankenversicherung
+
+- [§ 362 Nutzung von elektronischen Gesundheitskarten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr](0362.md)
+
+#### Achter Titel Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
+
+- [§ 363 Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken](0363.md)
+
+### Sechster Abschnitt Telemedizinische Verfahren
+
+- [§ 364 Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung von Röntgenaufnahmen](0364.md)
+- [§ 365 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung](0365.md)
+- [§ 366 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung](0366.md)
+- [§ 367 Vereinbarung über technische Verfahren zu telemedizinischen Konsilien](0367.md)
+- [§ 368 Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde](0368.md)
+- [§ 369 Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit](0369.md)
+- [§ 370 Entscheidung der Schlichtungsstelle](0370.md)
+
+### Siebter Abschnitt Anforderungen an Schnittstellen in informationstechnischen Systemen
+
+- [§ 371 Integration offener und standardisierter Schnittstellen in informationstechnische Systeme](0371.md)
+- [§ 372 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0372.md)
+- [§ 373 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung](0373.md)
+- [§ 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben](0374.md)
+- [§ 375 Verordnungsermächtigung](0375.md)
+
+### Achter Abschnitt Finanzierung und Kostenerstattung
+
+- [§ 376 Finanzierungsvereinbarung](0376.md)
+- [§ 377 Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten](0377.md)
+- [§ 378 Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten](0378.md)
+- [§ 379 Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten](0379.md)
+- [§ 380 Finanzierung der den Hebammen und Physiotherapeuten entstehenden Ausstattungs- und Betriebskosten](0380.md)
+- [§ 381 Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten](0381.md)
+- [§ 382 Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten](0382.md)
+- [§ 383 Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0383.md)
+
+## Zwölftes Kapitel Interoperabilitätsverzeichnis
+
+- [§ 384 Interoperabilitätsverzeichnis](0384.md)
+- [§ 385 Beratung durch Experten](0385.md)
+- [§ 386 Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik](0386.md)
+- [§ 387 Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen](0387.md)
+- [§ 388 Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz](0388.md)
+- [§ 389 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0389.md)
+- [§ 390 Beteiligung der Fachöffentlichkeit](0390.md)
+- [§ 391 Informationsportal](0391.md)
+- [§ 392 Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis](0392.md)
+- [§ 393 Bericht über das Interoperabilitätsverzeichnis](0393.md)
+
+## Dreizehntes Kapitel Straf- und Bußgeldvorschriften
+
+- [§ 394 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0394.md)
+- [§ 395 Bußgeldvorschriften](0395.md)
+- [§ 396 Strafvorschriften](0396.md)
+- [§ 397 Strafvorschriften](0397.md)
+
+## Vierzehntes Kapitel Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+
+- [§ 398 Versicherter Personenkreis](0398.md)
+- [§ 399 Leistungen](0399.md)
+- [§ 400 Beziehungen der Krankenkassen zu den Leistungserbringern](0400.md)
+
+## Fünfzehntes Kapitel Weitere Übergangsvorschriften
+
+- [§ 401 Beitragszuschüsse für Beschäftigte](0401.md)
+- [§ 402 Standardtarif für Personen ohne Versicherungsschutz](0402.md)
+- [§ 403 Übergangsregelung zur enteralen Ernährung](0403.md)
+- [§ 404 (weggefallen)](0404.md)
+- [§ 405 Übergangsregelung für die knappschaftliche Krankenversicherung](0405.md)
+- [§ 406 Übergangsregelung zum Krankengeldwahltarif](0406.md)
+- [§ 407 Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften](0407.md)
+- [§ 408 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1](0408.md)
+- [§ 409 Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen](0409.md)
+- [§ 410 Bestandsbereinigung bei der freiwilligen Versicherung](0410.md)
+- [§ 411 (weggefallen)](0411.md)
+- [§ 412 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0412.md)
+- [§ 413 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0413.md)
+- [§ 414 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0414.md)
+- [§ 415 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0415.md)
+- [§ 416 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0416.md)
+- [§ 416 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0416-2.md)
+- [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0417.md)
