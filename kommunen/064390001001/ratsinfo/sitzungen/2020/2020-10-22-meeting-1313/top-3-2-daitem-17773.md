@@ -1,0 +1,7 @@
+# TOP 3.2: 6. Satzung zur Änderung der Wasserversorgungssatzung vom 14. 12. 2000
+
+- Sitzung: Gemeindevertretung der Gemeinde Aarbergen (6. Sitzung) (2020-10-22)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/17773
+- Beratung: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/consultation/4099
