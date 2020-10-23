@@ -148,3 +148,4 @@
 | 714 | An Dritte zu zahlende Beträge für den Versand oder den Transport von Sachen oder Tieren im Rahmen der Verwertung an den Ersteher oder an einen von diesem benannten Dritten und für eine von dem Ersteher beantragte Versicherung für den Versand oder den Transport .......... | in voller Höhe |
 | 715 | Kosten für die Verpackung im Fall der Nummer 714 .......... | in voller Höhe – mindestens 3,00 € |
 | 716 | Pauschale für sonstige bare Auslagen je Auftrag | 20% der zu erhebenden Gebühren - mindestens 3,00 €, höchstens 10,00 € |
+| 717 | Umsatzsteuer auf die KostenDies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt. | in voller Höhe |

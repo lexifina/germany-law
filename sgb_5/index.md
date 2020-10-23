@@ -818,8 +818,7 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 306 Telematikinfrastruktur](0306.md)
 - [§ 307 Datenschutzrechtliche Verantwortlichkeiten](0307.md)
-- [§ 308](0308.md)
-- [§ 308 Vorrang von technischen Schutzmaßnahmen](0308-2.md)
+- [§ 308 Vorrang von technischen Schutzmaßnahmen](0308.md)
 - [§ 309 Protokollierung](0309.md)
 
 ### Zweiter Abschnitt Gesellschaft für Telematik
@@ -830,10 +829,8 @@ von Leistungsdaten, Datentransparenz
 - [§ 310 Gesellschaft für Telematik](0310.md)
 - [§ 311 Aufgaben der Gesellschaft für Telematik](0311.md)
 - [(XXXX) §§ 311a und 311b (weggefallen)](xxxx-311a-und-311b.md)
-- [§ 312](0312.md)
-- [§ 312 Aufträge an die Gesellschaft für Telematik](0312-2.md)
-- [§ 313 (weggefallen)](0313.md)
-- [§ 313 Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0313-2.md)
+- [§ 312 Aufträge an die Gesellschaft für Telematik](0312.md)
+- [§ 313 Elektronischer Verzeichnisdienst der Telematikinfrastruktur](0313.md)
 - [§ 314 Informationspflichten der Gesellschaft für Telematik](0314.md)
 - [§ 315 Verbindlichkeit der Beschlüsse der Gesellschaft für Telematik](0315.md)
 - [§ 316 Finanzierung der Gesellschaft für Telematik; Verordnungsermächtigung](0316.md)

@@ -252,3 +252,4 @@ Auslagen
 |  | Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1836c BGB erhoben. |  |
 | 2014 | An den Umgangspfleger sowie an Verfahrenspfleger nach § 9 Abs. 5 FamFG, § 57 ZPO zu zahlende Beträge .......... | in voller Höhe |
 | 2015 | Pauschale für die Inanspruchnahme von Videokonferenzverbindung:je Verfahren für jede angefangene halbe Stunde .......... | 15,00 € |
+| 2016 | Umsatzsteuer auf die KostenDies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt. | in voller Höhe |
