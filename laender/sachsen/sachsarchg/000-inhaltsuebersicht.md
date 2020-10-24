@@ -24,6 +24,7 @@ Abschnitt 3 Architektenkammer Sachsen
 § 20 Schlichtungsausschuss
 § 21 Ehrenausschuss
 § 22 Satzungen
+§ 22a Besondere Anforderungen bei berufsreglementierenden Satzungen
 § 23 Schweigepflicht
 § 24 Datenverarbeitung, Auskunft
 § 25 Finanzwesen der Architektenkammer Sachsen
@@ -45,7 +46,7 @@ Abschnitt 5 Besondere Regelungen für ausländische Abschlüsse
 Abschnitt 6 Europäischer Berufsausweis, gemeinsamer Ausbildungsrahmen, gemeinsame Ausbildungsprüfungen und Europäischer Vorwarnmechanismus
 § 36a Europäischer Berufsausweis
 § 36b Gemeinsamer Ausbildungsrahmen und gemeinsame Ausbildungsprüfungen
-§ 36c Europäischer Vorwarnmechanismus
+§ 36c Europäischer Vorwarnmechanismus, Beschwerdeverfahren im europäischen Dienstleistungsverkehr
 Abschnitt 7 Ordnungswidrigkeiten, Rechtsverordnungen, Übergangs- und Schlussbestimmungen
 § 37 Ordnungswidrigkeiten
 § 38 Verordnungsermächtigungen
