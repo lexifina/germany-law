@@ -16,11 +16,13 @@
 | § 9 | Steuersatz |
 | § 9a | Zuschlag für Personenkraftwagen mit Selbstzündungsmotor |
 | § 10 | Sonderregelung für Kraftfahrzeuganhänger |
+| § 10a | Sonderregelungen für Personenkraftwagen |
+| § 10b | Sonderregelung für besonders emissionsreduzierte Personenkraftwagen |
 | § 11 | Entrichtungszeiträume |
 | § 12 | Steuerfestsetzung |
 | §§ 12a u. 12b | (weggefallen) |
 | § 13 | Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung |
-| § 14 | Abmeldung von Amts wegen |
+| § 14 | Außerbetriebsetzung von Amts wegen |
 | § 15 | Ermächtigungen |
 | § 16 | Aussetzung der Steuer |
 | § 17 | Sonderregelung für bestimmte Behinderte |
