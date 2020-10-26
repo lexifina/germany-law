@@ -1,0 +1,56 @@
+# 42. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt - Besucher_innen bitten wir um vorherige Anmeldung per E-Mail im BVV-Büro! (siehe Teilnehmer_innen-Anlage zur Einladung)
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-10-26T17:00:00+01:00
+- Ende: 2020-10-26T18:30:00+01:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6073
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6073
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=363867
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle - vertagt
+- TOP 3: Zukunft des Lehrbienenstandes im Diedersdorfer Weg - im Ausschuss abgelehnt
+- TOP 4: Bericht aus der Verwaltung - erledigt
+- TOP 5: Kinder- und Jugendparlament - (offen)
+- TOP 5.1: Radweg auf der Kolonnenstraße zwischen der Kolonnen- und der Julius-Leber-Brücke - vertagt
+- TOP 6: Vorlagen des Vorstehers - (offen)
+- TOP 6.1: Gehwegüberfahrten Fußgänger-gerecht gestalten - vertagt
+- TOP 7: Anträge - (offen)
+- TOP 7.1: Verkehrssicherheit für Fußgänger*innen am Knotenpunkt Hauptstraße Ecke Albertstraße bzw. Eisenacher Straße - vertagt
+- TOP 7.2: Hans-Baluschek-Park regelmäßig „frisieren“ – Infektionsschutz sicherstellen - erledigt
+- TOP 7.3: Amphibien schützen - Habitate pflegen und entwickeln - Masterplan erstellen - vertagt
+- TOP 7.4: Kynastteich vom Sperrmüll befreien - erledigt
+- TOP 7.5: Neue Mobilitätsangebote gemeinsam mit dem Parkraummanagement umsetzen - vertagt
+- TOP 7.6: Anpassung an den Klimawandel - Regengärten für Tempelhof-Schöneberg - vertagt
+- TOP 7.7: Runder Tisch zur Situation am Gleisdreieck- und Flaschenhalspark - erledigt
+- TOP 7.8: Bürgerbeteiligung bei temporären Spielstraßen - vertagt
+- TOP 7.9: Bewässerung von Straßenbäumen - vertagt
+- TOP 7.10: Luisenmühle nicht vergessen - vertagt
+- TOP 7.11: Fußgängerverkehr Martin-Luther-Straße Ecke Fuggerstraße - vertagt
+- TOP 7.12: Bäume für die Potse - vertagt
+- TOP 7.13: Radverkehr auf dem Prellerweg in beide Fahrtrichtungen sicherer gestalten - vertagt
+- TOP 7.14: Fregestraße in Friedenau verkehrlich beruhigen - vertagt
+- TOP 7.15: Amtshilfe für den Radwegeausbau im Bezirk - vertagt
+- TOP 7.16: Verbesserung von Straßenbaumstandorten in der Albrechtstraße - vertagt
+- TOP 7.17: Grünstreifen General-Pape-Straße/ Kolonnenstraße aufwerten - vertagt
+- TOP 7.18: Fußgängerübergang zum Aufzug U-Bahn von der Westseite des Platzes sicher machen - vertagt
+- TOP 7.19: Busspur in der Kolonnenstraße - vertagt
+- TOP 7.20: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg - vertagt
+- TOP 7.21: Aufhebung Parkverbot Kolonnenstraße - vertagt
+- TOP 7.22: Grünfläche in der Apostel-Paulus-Straße Ecke Salzburger Straße neu bepflanzen - vertagt
+- TOP 7.23: Sicherer über die Wünsdorfer Straße - vertagt
+- TOP 8: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 8.1: Raserei und illegale Autorennen: „Akustik-Blitzer“ gegen Lärmbelästigung - vertagt
+- TOP 8.2: Parkhäfen am Gustav-Müller-Platz nur für Pkw - vertagt
+- TOP 8.3: Parks reinigen und nutzbar(er) machen - vertagt
+- TOP 8.4: Amtshilfe Bäume bewässern - vertagt
+- TOP 8.5: Marienhöhe wieder zugänglich machen und besser vor Vandalismus sichern - vertagt
+- TOP 9: Verschiedenes - im Ausschuss abgelehnt
+- TOP 9.1: Termine Sondersitzungen 13./ 20. und 27.11.2020 - (offen)
+- TOP 9.2: Nächster regulärer Sitzungstermin 23.11.2020 - (offen)
