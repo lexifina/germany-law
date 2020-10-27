@@ -1,0 +1,6 @@
+# TOP 6.: Schreiben vom CDU-Stadtverband
+
+- Sitzung: Ortsbeirat Holzhausen* (21. Sitzung) (2020-10-27)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/5129
