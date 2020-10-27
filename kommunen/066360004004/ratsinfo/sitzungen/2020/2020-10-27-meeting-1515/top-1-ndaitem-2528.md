@@ -1,0 +1,7 @@
+# TOP 1.: Aufnahme eines Kommunaldarlehens für die Stadt und für den Eigenbetrieb
+
+- Sitzung: Haupt- und Finanzausschuss (7. Sitzung) (2020-10-27)
+- Körperschaft: Stadt Großalmerode
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/agendaitem/2528
+- Ergebnis: 9 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
