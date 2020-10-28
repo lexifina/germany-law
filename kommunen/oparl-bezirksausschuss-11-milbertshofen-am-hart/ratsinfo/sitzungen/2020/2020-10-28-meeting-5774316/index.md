@@ -1,0 +1,81 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-10-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774316
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774316
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Öffentliche Tagesordnung
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: Oberhofer Platz 8-10: Bewilligung des zweiten Vorbescheids zum Bauvorhaben "Neubau von Geschosswohnungsbauten mit TG und Nachverdichtung des Baugrundstücks" - Stellungnahme des Fachreferates
+- TOP 12.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Olympiapark Süd: Sanierung der Wege zur Gewährleistung der Verkehrssicherheit in der Zeitspanne Herbst 2020 bis Herbst 2021 - Informationsschreiben
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Nordhaide: Zusätzliches Aufstellen von Abfallbehältern
+- TOP 4.5.2.: Aktion Einheitsbuddeln - Baumpflanzung im Stadtbezirk 11 am Tag der deutschen Einheit
+- TOP 6.1.1.: (E) Stadtbezirksbudget 1. Münchner Footballclub 1979 e.V. Munich Cowboys Anschaffung von Feldausrüstung ab 01.11.2020 3.971,67 € / Az. 0262.0-11-0403
+- TOP 6.1.2.: (E) Stadtbezirksbudget GEMEINSCHAFT SANT`EGIDIO Gedenken am 19.11.2020 an die erste Deportation der Münchner Juden am 20.11.1941 4.050,00 € / Az. 0262.0-11-0405
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kulturverein Olympiadorf Abendfüllendes Klavierkonzert 405,00 € / Az. 0262.0-11-0404
+- TOP 6.1.4.: (E) Stadtbezirksbudget Real München e.V. Punktlandung vom 01.08. - 31.10.2020 6.300,00 €, AZ: 0262.0-11-0397
+- TOP 6.1.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von September – Dezember 2020 9.260,00 €, AZ: 0262.0-11-0400
+- TOP 6.1.6.: (E) Stadtbezirksbudget PV Moosach Olympiadorf Ökumenischer Frauentag am 14.11.2020 180,00 € / Az. 0262.0-11-0406
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kulturverein Olympiadorf e.V. Konzert am 14.11.2020 325,00 € / Az. 0262.0-11-0407
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Schaukastenaufwertung am U-Bahnhof Olympiazentrum und Aushang mit QR-Code
+- TOP 7.1.2.: Durchführen einer digitalen Online-Bürgerinformationsveranstaltung, solange keine Bürgerversammlungen stattfinden
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Aufstellen von Informationstafeln am Mahnmal von Robert Lippel in der Troppauer Straße / Ecke Knorrstraße
+- TOP 7.3.2.: Einrichtung eines mobilen Bildungsbusses im Stadtbezirk 11 Milbertshofen-Am Hart
+- TOP 7.3.3.: Münchner Norden: Wohnortnaher Erhalt der Palliativstation und der Akutgeriatrie im Klinikum Schwabing
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Besserer Schutz von Bäumen und Grünvolumen im Bereich Am Hart / Harthof
+- TOP 8.1: Plenum
+- TOP 8.1.1.: BA-Homepage - was soll auf die Homepage?
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Hufelandstr. 4 a) Bauvorhaben: Neubau eines Büro- und Gewerbegebäudes mit TG – Vorbescheid
+- TOP 8.2.2.: Ehemalige Bayernkaserne - Vergabe von Grundstücken
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs - Drittes Maßnahmenbündel - Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Änderung des MIP 2020-2024 Sitzungsvorlage Nr. 20-26 / V 01007
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Hufelandstraße 4 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Bernaysstraße 3 - 13b - Antrag auf Baumfällung
+- TOP 8.5.3.: Torquato-Tasso-Str. 38 - Antrag auf Baumfällungen
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Entscheidungsrecht der Bezirksausschüsse bei der Genehmigung von Freischankflächen - Anlage: Sitzungsvorlage Nr. 20-26 / V00925
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: (U) Bebauungsplan mit Grünordnung Nr. 1989 Heidemannstraße (südlich), Maria-Probst-Straße (westlich), Helene-Wessel-Bogen (nördlich), Spitzer-, Kollwitz- und Paracelsusstraße (östlich) - Ehemalige Bayernkaserne - Widmungsfähiger Teilausbau der inneren Erschließungsstraßen (Baustraßen) mit Anschluss des Neubaugebietes im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Kostenobergrenze): 18.800.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP 9.2.2.: (U) Verhinderung weiteren Zuzugs Empfehlung Nr. 14-20 / E 01973 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 9.2.3.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: (U) Errichtung eines Stadtteilmuseums in Milbertshofen BA-Antrags-Nr. 14-20 / B 04646 des Bezirksausschusses des Stadtbezirkes 11 – Milbertshofen-Am Hart vom 14.03.2018
+- TOP 9.3.2.: Freizeitsport in städtischen Grünanlagen und auf Privatgrund im 11. Stadtbezirk vom 03.10.2020 bis 08.11.2020
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnung nach § 45 StVO: Schopenhauerstraße - absolutes Haltverbot
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
