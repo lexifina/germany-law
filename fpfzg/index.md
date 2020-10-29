@@ -3,6 +3,7 @@
 - [§ 1 Ziel des Gesetzes](0001.md)
 - [§ 2 Familienpflegezeit](0002.md)
 - [§ 2a Inanspruchnahme der Familienpflegezeit](0002a.md)
+- [§ 2b Erneute Familienpflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie](0002b.md)
 - [§ 3 Förderung der pflegebedingten Freistellung von der Arbeitsleistung](0003.md)
 - [§ 4 Mitwirkungspflicht des Arbeitgebers](0004.md)
 - [§ 5 Ende der Förderfähigkeit](0005.md)
@@ -16,3 +17,4 @@
 - [§ 13 Aufbringung der Mittel](0013.md)
 - [§ 14 Beirat](0014.md)
 - [§ 15 Übergangsvorschrift](0015.md)
+- [§ 16 Sonderregelungen aus Anlass der COVID-19-Pandemie](0016.md)

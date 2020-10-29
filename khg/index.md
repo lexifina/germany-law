@@ -23,6 +23,8 @@
 - [§ 12a Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019](0012a.md)
 - [§ 13 Entscheidung zu den förderungsfähigen Vorhaben](0013.md)
 - [§ 14 Auswertung der Wirkungen der Förderung](0014.md)
+- [§ 14a Krankenhauszukunftsfonds](0014a.md)
+- [§ 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung](0014b.md)
 - [§ 15 Beteiligung an Schließungskosten](0015.md)
 
 ## 3. Abschnitt Vorschriften über Krankenhauspflegesätze
@@ -47,6 +49,7 @@
 - [§ 24 Überprüfung der Auswirkungen](0024.md)
 - [§ 25 Ausnahmen von Prüfungen bei Krankenhausbehandlungen, Verordnungsermächtigung](0025.md)
 - [§ 26 Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus](0026.md)
+- [§ 26a Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie](0026a.md)
 
 ## 5. Abschnitt Sonstige Vorschriften
 

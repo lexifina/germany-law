@@ -20,10 +20,12 @@
 ### Abschnitt 2 Kreislaufwirtschaft
 
 - [§ 7 Grundpflichten der Kreislaufwirtschaft](0007.md)
+- [§ 7a Chemikalien- und Produktrecht](0007a.md)
 - [§ 8 Rangfolge und Hochwertigkeit der Verwertungsmaßnahmen](0008.md)
-- [§ 9 Getrennthalten von Abfällen zur Verwertung, Vermischungsverbot](0009.md)
+- [§ 9 Getrennte Sammlung und Behandlung von Abfällen zur Verwertung](0009.md)
+- [§ 9a Vermischungsverbot und Behandlung gefährlicher Abfälle](0009a.md)
 - [§ 10 Anforderungen an die Kreislaufwirtschaft](0010.md)
-- [§ 11 Kreislaufwirtschaft für Bioabfälle und Klärschlämme](0011.md)
+- [§ 11 Anforderungen an die Kreislaufwirtschaft für Bioabfälle und Klärschlämme](0011.md)
 - [§ 12 Qualitätssicherung im Bereich der Bioabfälle und Klärschlämme](0012.md)
 - [§ 13 Pflichten der Anlagenbetreiber](0013.md)
 - [§ 14 Förderung des Recyclings und der sonstigen stofflichen Verwertung](0014.md)
@@ -45,9 +47,10 @@
 ## Teil 3 Produktverantwortung
 
 - [§ 23 Produktverantwortung](0023.md)
-- [§ 24 Anforderungen an Verbote, Beschränkungen und Kennzeichnungen](0024.md)
-- [§ 25 Anforderungen an Rücknahme- und Rückgabepflichten](0025.md)
-- [§ 26 Freiwillige Rücknahme](0026.md)
+- [§ 24 Anforderungen an Verbote, Beschränkungen, Kennzeichnungen, Beratung, Information und Obhutspflicht](0024.md)
+- [§ 25 Anforderungen an Rücknahme- und Rückgabepflichten, die Wiederverwendung, die Verwertung und die Beseitigung der nach Gebrauch der Erzeugnisse entstandenen Abfälle, Kostenbeteiligungen für die Reinigung der Umwelt; Obhutspflicht](0025.md)
+- [§ 26 Freiwillige Rücknahme, Wahrnehmung der Produktverantwortung](0026.md)
+- [§ 26a Freistellung von Nachweispflichten bei freiwilliger Rücknahme gefährlicher Abfälle](0026a.md)
 - [§ 27 Besitzerpflichten nach Rücknahme](0027.md)
 
 ## Teil 4 Planungsverantwortung
@@ -125,3 +128,4 @@
 - [Anlage 2 Verwertungsverfahren](anlage-2.md)
 - [Anlage 3 Kriterien zur Bestimmung des Standes der Technik](anlage-3.md)
 - [Anlage 4 Beispiele für Abfallvermeidungsmaßnahmen nach § 33](anlage-4.md)
+- [Anlage 5 (zu § 6 Absatz 3)Beispiele für wirtschaftliche Instrumente und andere Maßnahmen zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie](anlage-5.md)
