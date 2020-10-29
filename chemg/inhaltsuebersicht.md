@@ -43,7 +43,7 @@ Mitteilungspflichten
 | §§ 16 bis 16c | (weggefallen) |
 | § 16d | Mitteilungspflichten bei Gemischen |
 | § 16e | Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen |
-| § 16f | (weggefallen) |
+| § 16f | Informationspflicht der Lieferanten |
 Fünfter Abschnitt
 Ermächtigung zu Verboten
 und Beschränkungen sowie zu

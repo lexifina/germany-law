@@ -48,7 +48,7 @@
 - [§ 16c (weggefallen)](0016c.md)
 - [§ 16d Mitteilungspflichten bei Gemischen](0016d.md)
 - [§ 16e Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen](0016e.md)
-- [§ 16f (weggefallen)](0016f.md)
+- [§ 16f Informationspflicht der Lieferanten](0016f.md)
 
 ## Fünfter Abschnitt Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
 
