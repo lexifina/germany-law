@@ -1,0 +1,53 @@
+# 46. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-10-29T18:00:00+01:00
+- Ende: 2020-10-29T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5994
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5994
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Sonderthemen - (offen)
+- TOP 4.1: Verkehrsproblematik rund um die Altglienicker Höfe - erledigt
+- TOP 4.2: Erreichbarkeit vom "Haus Schöneweide" in der Michael-Brückner-Straße 3 - erledigt
+- TOP 5: Überweisungen aus der BVV - (offen)
+- TOP 5.1: Stellungnahmen - (offen)
+- TOP 5.1.1: Recht auf Home Office im Bezirksamt - mit Änderungen im Ausschuss beschlossen
+- TOP 5.1.2: Treptower Hafenfest wiederbeleben - im Ausschuss abgelehnt
+- TOP 5.1.3: Linienverkehr mit dem Schiff - vertagt
+- TOP 5.1.4: Neugestaltung des Bahnhofsvorplatzes am S-Bahnhof Schöneweide - im Ausschuss abgelehnt
+- TOP 5.1.5: Regengärten für Treptow-Köpenick - vertagt
+- TOP 5.2: Beschlussempfehlungen - (offen)
+- TOP 5.2.1: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 5.2.2: Radverkehrsanlage auf der Godbersenstraße in Schmöckwitz errichten - vertagt
+- TOP 5.2.3: Linksabbiegen in die Bahnhofstraße wieder aus zwei Spuren ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.4: Radfahrfreundliches Pflaster statt Asphalt für die Straße Am Goldmannpark - vertagt
+- TOP 5.2.5: Mehr Sicherheit für Radfahrer in der Regattastraße - im Ausschuss abgelehnt
+- TOP 5.2.6: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - vertagt
+- TOP 5.2.7: Einbahnstraße Josef-Nawrocki-Straße für den Fahrradverkehr in Gegenrichtung öffnen - vertagt
+- TOP 5.2.8: Radweg auf der Wilhelm-Spindler-Brücke durchgängig farbig markieren - vertagt
+- TOP 5.2.9: Parken für Anwohner von Friedrichshagen an den gewohnten Stellen - vertagt
+- TOP 5.2.10: Für Leben im toten Winkel – Trixi-Spiegel gegen Abbiegeunfälle - vertagt
+- TOP 5.2.11: Sicherheit der Fußgänger bei der Fahrbahnquerung zu jeder Zeit gewährleisten - vertagt
+- TOP 5.2.12: Stau Wendenschloßstraße / Müggelheimer Straße - vertagt
+- TOP 5.2.13: Verkehrssicherheit an der Lohmühlenstraße verbessern - vertagt
+- TOP 5.2.14: Ausschilderung des Zugangs zum S-Bahnhof Plänterwald für Ortsunkundige - vertagt
+- TOP 5.2.15: Gehwegmarkierung in der Lindenstraße - vertagt
+- TOP 5.2.16: Tempo 30 in der Schönblicker Straße - vertagt
+- TOP 5.3: Beschlussempfehlungen / Stellungnahme zu Schlussberichten - (offen)
+- TOP 5.3.1: Schöner Fahrradparken - vertagt
+- TOP 5.3.2: Bürgerhaus Altglienicke sichtbar machen - vertagt
+- TOP 5.3.3: Neubau einer Brücke über die Dahme - vertagt
+- TOP 5.3.4: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 5.3.5: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 5.3.6: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5.3.7: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - vertagt
+- TOP 6: Verschiedenes - gegenstandslos
