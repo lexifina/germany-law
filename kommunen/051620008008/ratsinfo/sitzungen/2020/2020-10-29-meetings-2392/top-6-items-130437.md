@@ -1,0 +1,8 @@
+# TOP 6: Einbringung der Entwürfe der Gesamtabschlüsse 2017 und 2018
+
+- Sitzung: Rat der Stadt Grevenbroich (2020-10-29)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/130437
+- Ergebnis: einstimmig
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/19466
