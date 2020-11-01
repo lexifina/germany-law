@@ -26,13 +26,11 @@ Abschnitt 1 Allgemeines
 Abschnitt 2 Allgemeinbildende Schulen
 § 18 | Grundschule
 § 19 | (weggefallen)
-§ 19a | (weggefallen)
 § 20 | Oberschule und Gymnasium
 § 21 | Erwerb der Abschlüsse in den allgemeinbildenden Schulen
 Abschnitt 3 Besondere Organisationsformen
 § 22 | Zentrum für unterstützende Pädagogik
 § 23 | Ganztagsschule
-§ 23a | (weggefallen)
 § 24 | Schule für Erwachsene
 Abschnitt 4 Berufsbildende Schulen
 § 25 | Berufsschule
@@ -54,12 +52,10 @@ Kapitel 1 Rechte der Schülerin und des Schülers
 § 36 | Einschulungsvoraussetzungen, Sprachförderung
 § 37 | Aufbauender Bildungsweg
 § 37a | Übergang von der Grundschule in weiterführende Bildungsgänge
-§ 37b | (weggefallen)
 § 38 | Leistungskontrollen, Zeugnisse
 § 39 | Zeugnisse für Externe
 § 40 | Prüfungen
 § 41 | (weggefallen)
-§ 41a | (weggefallen)
 § 42 | Versetzung, Nichtversetzung
 § 43 | Andere Formen der Anpassung des Bildungswegs an die Lernentwicklung
 § 44 | Verlassen des Bildungsganges
@@ -101,5 +97,5 @@ Teil 7 Übergangs- und Schlussbestimmungen
 § 70a | Förderzentrum
 § 71 | Zweijähriger Bildungsgang Berufseingangsstufe/Berufsfachschule
 § 72 | Werkschulen
-§ 72a | Schuljahre 2018/2019 und 2019/2020
+§ 72a | Sonderregelungen aufgrund der Coronavirus-Pandemie
 § 73 | Inkrafttreten
