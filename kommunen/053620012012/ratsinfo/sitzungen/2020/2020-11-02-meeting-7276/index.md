@@ -1,0 +1,80 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-11-02T18:00:00+01:00
+- Ende: 2020-11-02T19:55:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZepoUAdmHS5YfatcNE6QSF8
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7276
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaTPG7L0luiUZDZrQ-oALS0BT0Gio7rpB29zsvdu2TSj/Bekanntmachung_Rat_02.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSTuZyhBK2sAsCEEoyV5DHRyEHGIyiF_qWaTT8WGMdt3/Oeffentliche_Niederschrift_Rat_02.11.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Bestellung einer Schriftführerin für den Rat - (kein Text vorhanden)
+- TOP 2.: Verpflichtung und Einführung der Ratsmitglieder
+- TOP 3.: Wahl der ehrenamtlichen Stellvertreterinnen und Stellvertreter des Bürgermeisters 1. Festlegung der Anzahl 2. Wahl - (kein Text vorhanden)
+- TOP 4.: Verpflichtung und Einführung der ehrenamtlichen Stellvertreterinnen und Stellvertreter des Bürgermeisters
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Niederschrift vom 24.08.2020
+- TOP 7.: Bildung von Ausschüssen - (kein Text vorhanden)
+- TOP 8.: Größe und Zusammensetzung der Ausschüsse - (kein Text vorhanden)
+- TOP 9.: Zuteilung der Ausschussvorsitze - (kein Text vorhanden)
+- TOP 10.: Besetzung der Ausschüsse und Benennung der Ausschussvorsitzenden - (kein Text vorhanden)
+- TOP 11.: Aufgaben und Befugnisse der Ausschüsse hier: Ordnung für die Zuständigkeiten und Entscheidungsbefugnisse der Ausschüsse des Rates der Stadt Brühl -Zuständigkeitsordnung- - (kein Text vorhanden)
+- TOP 12.: Bestellung der Ratsmitglieder für den Integrationsrat - (kein Text vorhanden)
+- TOP 13.: Zuwendungen an Fraktionen und Ratsmitglieder - (kein Text vorhanden)
+- TOP 14.: Bestellung der drei Mitglieder des Umlegungsausschusses und deren Stellvertreter
+- TOP 15.: 3. Satzung zur Änderung der Satzung der Stadt Brühl für die Anstalt des öffentlichen Rechts 3. Satzung zur Änderung der Satzung der Stadt Brühl für die AöR - (kein Text vorhanden)
+- TOP 16.: Bestellung von Vertretern der Stadt in besonderen Einrichtungen
+- TOP 16.1: AöR "Stadtservicebetrieb Brühl" hier: Neuwahl des Verwaltungsrates - (kein Text vorhanden)
+- TOP 16.2: Stadtwerke Brühl GmbH hier: Vertreter der Stadt in der Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 16.3: Stadtwerke Brühl GmbH Änderung Gesellschaftsvertrag Wahl der Arbeitnehmervertretung Neuwahl des Aufsichtsrats - (kein Text vorhanden)
+- TOP 16.4: Gebausie Gesellschaft für Bauen und Wohnen GmbH der Stadt Brühl hier: Vertretung der Stadt in der Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 16.5: Gesellschaft für Bauen und Wohnen mbH (GEBAUSIE) Änderung des Gesellschaftsvertrages Neuwahl des Aufsichtsrates - (kein Text vorhanden)
+- TOP 16.6: Bestellung von Vertretern in besonderen Einrichtungen hier: Wirtschaftsförderung Rhein-Erft GmbH (WfG) - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 16.7: Bestellung von Vertretungen der Stadt Brühl in besonderen Einrichtungen hier: Zweckverband Volkshochschule Rhein/Erft - Verbandsversammlung - (kein Text vorhanden)
+- TOP 16.8: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen; Stiftung Max Ernst - Stiftungsrat - (kein Text vorhanden)
+- TOP 16.8.1: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Stadtbahngesellschaft Rhein/Sieg - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 16.9: Bestellung von Vertretungen in besonderen Einrichtungen hier: Rhein-Erft-Verkehrsgesellschaft mbH -Aufsichtsrat - (kein Text vorhanden)
+- TOP 16.10: Bestellung von Vertretungen der Stadt in besonderen Einrichtung hier: Radio-Erft-GmbH & Co. KG - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 16.11: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln -Verwaltungsrat- - (kein Text vorhanden)
+- TOP 16.12: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln - Regionalbeirat Ville - (kein Text vorhanden)
+- TOP 16.13: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Zweckverband "Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur" - Verbandsversammlung - (kein Text vorhanden)
+- TOP 17.: Job-Ticket-Ausgabe im Jahr 2021 - (kein Text vorhanden)
+- TOP 18.: Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“, Projektaufruf 2020 Hier: Vorschlag zur Projektanmeldung Turnhalle GGS Regenbogenschule, Standort Kierberg - (kein Text vorhanden)
+- TOP 19.: Benennung einer Straße im Baugebiet „Im Geildorfer Feld Bplan 06.12 1. Änderung“ - (kein Text vorhanden)
+- TOP 20.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 20.1: Stadtbahnlinie 18 Interlokale Verkehre - Aufwandsdeckungsfehlbeträge - Ist-Kosten-Abrechnung 2019 hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 20.2: Schuldigitalisierung hier: Aufwendungen für sonstige Dienstleistungen Überplanmäßige Ausgabe Sachkonto 529100 / Kostenstellen 21040000 - (kein Text vorhanden)
+- TOP 20.3: Überplanmäßige Mittelbereitstellung Reinigungskosten - (kein Text vorhanden)
+- TOP 20.4: Stadtbusbetrieb Hier: ÖPNV-Rettungsschirm für Corona bedingte Verluste Außerplanmäßiger Ausgleich von Einnahmeverlusten für den Zeitraum September bis Dezember 2020 zur Weiterleitung an die Stadtwerke Brühl - (kein Text vorhanden)
+- TOP 21.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 21.1: Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung für die Durchführung der Stichwahl Bürgermeister und Landrat sowie für die Portoaufwendungen, die im Rahmen dieser Stichwahl anfallen. - (kein Text vorhanden)
+- TOP 21.2: Dringlichkeitsentscheidung zur außerplanmäßigen Anschaffungen im Rahmen des Bundesförderprogramms „NEUSTART“ - (kein Text vorhanden)
+- TOP 21.3: Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung für den barrierefreien Umbau von 114 Bushaltestellen, hier 2. BA, Los 5 (22 Bushaltestellen) - (kein Text vorhanden)
+- TOP 21.4: Überplanmäßige Mittelbereitstellung hier: Baumfällungen im Schlosspark-Stadion, sowie Reparaturen der Kunstrasendecke Sportplatz Heide - (kein Text vorhanden)
+- TOP 22.: Anträge
+- TOP 22.1: Einführung von Live-Streaming-Übertragungen der Ratssitzungen Bezug: Antrag der Fraktion Linke&Piraten vom 15.10.2020 - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 23.1: Neue Entschädigungsverordnung
+- TOP 23.2: Durchführung von Ausschusssitzungen
+- TOP 23.3: Sitzungskalender 2021
+- TOP 23.4: Finanzielle Auswirkungen Corona-Pandemie
+- TOP 24.: Anfragen
+- TOP 24.1: Terminierung erste Integrationsratssitzung
+- TOP 24.2: Flyer Corona-Demonstration
+- TOP 24.3: Verkehrssituation Schwadorf
+- TOP B): Nichtöffentliche Sitzung
+- TOP 25.: Bestellung des Leiters der Feuerwehr - (kein Text vorhanden)
+- TOP 26.: Beitritt in einer Genossenschaft - (kein Text vorhanden)
+- TOP 27.: Bericht über die 154. Sitzung des Aufsichtsrates der REVG mbH am 25.06.2020
+- TOP 28.: Mitteilungen
+- TOP 28.1: Verleihung Ehrenring/Verabschiedung Ratsmitglieder
+- TOP 28.2: Durchführung von Ausschusssitzungen
+- TOP 29.: Anfragen
+- TOP 29.1: Alkoholverbote
