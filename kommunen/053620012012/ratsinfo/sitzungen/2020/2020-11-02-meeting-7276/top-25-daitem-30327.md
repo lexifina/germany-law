@@ -1,0 +1,7 @@
+# TOP 25.: Bestellung des Leiters der Feuerwehr
+
+- Sitzung: Rat (1. Sitzung) (2020-11-02)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/30327
+- Ergebnis: (kein Text vorhanden)
