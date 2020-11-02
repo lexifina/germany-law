@@ -1,0 +1,112 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2020-11-02T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5786614
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5786614
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.4.1.: Neues Spielgerät für den Spielplatz Neuhofen Süd [UA Bildung und Soziales]
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Vandalismus in Sendling
+- TOP 2.2.: Fehler - Verkehr - München errichtet neue Sommerstraßen
+- TOP 2.3.: Beantragung Parkausweise in der Schäftlarnstraße
+- TOP 2.4.: Stände Plinganserstraße nördlich Stemmerhof_Unfallgefahr_Infektionsrisiko
+- TOP 2.5.: Verkehrsberuhigung Flößergasse
+- TOP 2.6.: Straßenfest in der Schöttlstraße
+- TOP 2.7.: Fehlende Parkplätze am Margaretenplatz
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumf Schäftlarnstraße
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Unterrichtung Senserstr. 11 + 13
+- TOP 4.3.2.: Zwischennachricht Beplanzung Straßenbauarbeiten Schöttlstr.
+- TOP 4.3.3.: Bescheid Baugenehmigung Implerstraße
+- TOP 4.3.4.: Antwort Zustand Unterführung beim Wacker Skatepark
+- TOP 4.3.5.: Baumentfernung Lindwurmstraße,Margaretenplatz
+- TOP 4.3.6.: Baumentfernung Gefährenbäume
+- TOP 4.3.7.: Stellungname Bauvorhaben Lindwurmstraße
+- TOP 4.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.9.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 4.3.10.: Bauvorhaben Alramstraße 14 (ehem. Rewe-Markt) - Stillstand Baustelle
+- TOP 4.3.11.: Boulebahn auf dem Gotzingerplatz
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Anfrage Wand am Mittleren Ring [Die Grünen]
+- TOP 4.4.2.: Mehr Bäume für Sendling
+- TOP 4.4.3.: Anfrage Pfarrgarten
+- TOP 4.4.4.: Mülltrennung in München – wie soll Müll richtig und umwelt- freundlich getrennt werden?
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Verkauf einer Wohnanlage an der Gaißacher Straße - Vertagung aus Oktober 2020
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Ganghoferstr. 6-10 - Entfernung bzw. Versetzung einer Bank
+- TOP 5.2.2.: Neuantrag gem. Stadtratsbeschluss Sendlinger-Hofladen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Antwortschreiben Streckenbezogene Temporeduzierung in der Schäftlarnstraße
+- TOP 5.3.2.: Lärmbelästigung Oberländerstr.
+- TOP 5.3.3.: Sperrung der Wackersberger Str.
+- TOP 5.3.4.: Ganghoferstr._UnveränderteFortführung
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung Valleystr._Danklstr.
+- TOP 5.3.6.: Bescheid_Sondernutzungserlaubnis-Freischankfläche_Corona
+- TOP 5.3.7.: Antwortschreiben Kiosk Sendlinger Bunker
+- TOP 5.3.8.: Lärmbelästigung in der Nachbarschaft durch die Skateboardanlage
+- TOP 5.3.9.: VRA Hans-Preißinger-Straße_Höhe-Lehrwerkstatt
+- TOP 5.3.10.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlagen Roter-Turm-Platz - Implerstraße [Die Grünen]
+- TOP 5.4.2.: Das Ehrenamt der Schulweghelfer*innen attraktiver gestalten [SPD]
+- TOP 5.4.3.: Fußgängerquerung an der Implerstraße
+- TOP 5.4.4.: Fahrradstellplätze Roter Turm Platz Implerstraße
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget tom is jerry Kollektiv Augen und Mund zu und durch am 23.10.2020 517,00 € / Az. 0262.0-6-0296
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Weihnachtsoratorium von J.S.Bach am 12. und 13.12.2020 2.630,00 € / Az. 0262.0-6-0297
+- TOP 6.1.3.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Sendling Anschaffung eines Raumluft-Entkeimungsgerätes vom 11.-13.11.2020 2.593,00€; Az. 0262.0-6-0298
+- TOP 6.1.4.: Antrag Budget Förderverein Kirchenmusik an St. Margarete
+- TOP 6.1.5.: Antrag Budget verringerung Zuwendungsbetrag Sendling setzt Segel
+- TOP 6.1.6.: (E) Stadtbezirksbudget Initiative „Erkenntnis durch Satire“ Erkenntnis durch Satire im 2. Quartal 2021 1.680,00 € / Az. 0262.0-6-0
+- TOP 6.1.7.: (E) Stadtbezirksbudget Initiative „Radlrundtour“ Kunterbunte Radlrundtour am 11.10.2020 (Ausweichtermin: 18.10.2020) 160,00€; Az. 0262.0-6-0295
+- TOP 6.1.8.: (E) Stadtbezirksbudget SC München Süd e.V. Freizeitshirts für Kinder ab Dezember 2020 1.680,00 € / Az. 0262.0-6-0299
+- TOP 6.1.9.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. Orgelbuch „Die große Margaretenorgel“ vom 01.11. - 12.12.2020 2.100,00 € / Az. 0262.0-6-0300
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Änderungsbescheid Kulturblüten
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Direktoriums-Formulare in „Einfacher Sprache“ [Die Grünen]
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Antwort_Neue Räume für den Kindergarten Apfelbäumchen e.V
+- TOP 7.4.: Anträge
+- TOP 7.4.2.: Anfrage Ausbau der städt. Maria-Probst-Realschule – wie geht es weiter?
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Grünanlagen: Kunst im Quadrat&Isart
+- TOP 8.2.2.: MarktVA öffentl. Grund: Sendlinger Christkindlmarkt Am Harras
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Ausnahmegenehmigung VA Ideenwerkstatt des Kultur & Spielraum e.V. in der Grünanlage Plinganserstr. Sportanlage Wacker
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Änderung Vollmacht des Oberbürgermeisters
+- TOP 9.4.: Anträge
+- TOP 9.4.1.: Antrag Artenschutz und Verbesserung der ökol. Wertigkeit städt. Grünanlagen.
+- TOP 9.5.: Sonstiges
