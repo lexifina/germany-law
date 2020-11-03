@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls vom 06.10.2020
+
+- Sitzung: 42. öffentliche Sitzung des Ausschusses für Stadtplanung und Wirtschaft (2020-11-03)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=90370
+- Ergebnis: erledigt
