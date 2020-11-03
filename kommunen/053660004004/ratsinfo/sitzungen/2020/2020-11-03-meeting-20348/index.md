@@ -1,0 +1,54 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-11-03T18:00:00+01:00
+- Ende: 2020-11-03T19:46:00+01:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdpi-h8PkJe1L5Q2SwY4BCA
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20348
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcGzEmf-HMsZHYcgJJcxV3Dqx1_XHvCE7ulLwNqGPJuG/Bekanntmachung_Rat_03.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJxzUQvlECNIBVhxMzwLWSsdAXESdJIZBzhvFa5HfWb/Oeffentliche_Niederschrift_Rat_03.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Amtseinführung und Verpflichtung der Bürgermeisterin -    
+- TOP 2.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 08.09.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 4.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 5.: Einführung und Verpflichtung der Stadtverordneten und Ausschussmitglieder -     
+- TOP 6.: Wahl von zwei stellvertretenden Bürgermeistern/Bürgermeisterinnen - Einstimmiger Beschluss:
+- TOP 7.: Einführung und Verpflichtung der stellvertretenden Bürgermeister*innen -    
+- TOP 8.: Bildung und Zusammensetzung der Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 Abs. 1 GO NRW nicht mit.
+- TOP 9.: Wahl der Mitglieder und ihrer Stellvertreter*innen für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 GO NRW i. V. m. § 58 GO NRW nicht mit.
+- TOP 10.: Bestimmung der Vorsitzenden und ihrer Stellvertreter*innen für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 GO NRW i. V. m. § 58 Abs. 5 GO NRW nicht mit.
+- TOP 11.: Hauptsatzung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 12.: Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 13.: Geschäftsordnung für den Rat der Stadt Bad Münstereifel und seine Ausschüsse - Einstimmiger Beschluss:
+- TOP 14.: Bestellung des Allgemeinen Vertreters der Bürgermeisterin und weiterer Vertreter*innen - Einstimmiger Beschluss:
+- TOP 15.: Bestimmung von stimmberechtigten Vertretern/Vertreterinnen der Stadt Bad Münstereifel für den Nordrhein-Westfälischen Städte- und Gemeindebund (StGB NRW) - Einstimmiger Beschluss:
+- TOP 16.: Vertretung der Stadt Bad Münstereifel in der Verbandsversammlung der Kommunalen Datenverarbeitungszentrale (KDVZ) Frechen - Einstimmiger Beschluss:
+- TOP 17.: Benennung von Mitgliedern für den Energiebeirat (lokaler Beirat) der Kreisenergieversorgung Schleiden GmbH (Tochtergesellschaft der e-regio GmbH & Co. KG) - Einstimmiger Beschluss:
+- TOP 18.: Benennung der Mitglieder für die Planungskommission - Einstimmiger Beschluss:
+- TOP 19.: Bestellung von Vertretern/Vertreterinnen des Schulträgers für die Schulkonferenz - Einstimmiger Beschluss:
+- TOP 20.: Benennung von stimmberechtigten Delegierten für die Mitgliederversammlung der Deutschen Sektion des Rates der Gemeinden Europas -     
+- TOP 21.: Bestellung von Mitgliedern für die Gesellschafterversammlung der NeT - Einstimmiger Beschluss:
+- TOP 22.: Erweiterungsbau Feuerwehrgerätehaus Nöthen; hier: Genehmigung einer Dringlichkeitsentscheidung zur Leistung von überplanmäßigen Ausgaben; wurde in der Legislaturperiode X unter der RD-Nr.: 1868-X unterschrieben - Einstimmiger Beschluss:
+- TOP 23.: Absage des Weihnachtsmarktes hier: Antrag der SPD-Fraktion vom 27.10.2020 -     
+- TOP 24.: Delegation von Entscheidungen des Rates auf den Haupt- und Finanzausschuss gem. § 60 Abs. 2 GO NRW - Einstimmiger Beschluss:
+- TOP 25.: Verkauf eines städtischen Grundstücks in Bad Münstereifel, Willi-Brandt-Straße Die Vorlage wurde in der X. Legislaturperiode unter der Vorlagen-Nr.: 1801-X/Z-3 im Stadtentwicklungsausschuss am 29.09.2020 vorberaten
+- TOP 26.: Anfragen und Mitteilungen
+- TOP 26.1: Gruppenfoto für das Stadtarchiv
+- TOP 26.2: Bestellung/Vorschlag von Vertretern/Vertreterinnen oder Mitgliedern im Sinne von §§ 63 Abs. 2 und 113 GO (§ 50 Abs. 4 GO NRW) und die Bedeutung von § 12 LGG hier: geschlechtergerechte Gremienbesetzung
+- TOP 26.3: Vertretung der Stadt Bad Münstereifel in der Delegiertenversammlung des Erftverbandes
+- TOP 26.4: Verlängerung der Sonderregelung für die Erhebung der Gewerbesteuer, des Fremdenverkehrsbeitrages und der Vergnügungssteuer für die Dauer der "Corona-Krise"
+- TOP 26.5: Lüftungskonzept der Schulen hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 26.6: Förderprogramme für Lüftungsgeräte hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Rückbau ehemaliges Parkhotel Bad Münstereifel Auftragsvergabe Erstellung Leistungsverzeichnis, Durchführung der fachgutachterlichen Begleitung / Objektüberwachung sowie der ökologischen Baubegleitung - Einstimmiger Beschluss:
+- TOP 2.: Verkauf eines städtischen Grundstücks in Bad Münstereifel, Willi-Brandt-Straße Die Vorlage wurde in der X. Legislaturperiode unter der Vorlagen-Nr.: 1801-X/Z-3 im Stadtentwicklungsausschuss am 29.09.2020 vorberaten - Der Beschluss wurde bereits unter TOP 25 der öffentlichen Sitzung gefasst (17 Ja-, 15 Nein-Stimmen, 1 Enthaltung). Er wird an dieser Stelle nur nachrichtlich aufgeführt.
+- TOP 3.: Sanierung des Kleinspielfeldes auf dem Außengelände des Konvikts hier: Auftragsvergabe der Bauleistungen - Einstimmiger Beschluss:
+- TOP 4.: Anfragen und Mitteilungen
