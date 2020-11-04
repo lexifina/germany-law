@@ -1,0 +1,8 @@
+# TOP 28: Regionale Arbeitsgemeinschaft Stadt Düsseldorf - Kreis Mettmann - Rhein-Kreis Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreistages (2020-11-04)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/23813
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/9501
