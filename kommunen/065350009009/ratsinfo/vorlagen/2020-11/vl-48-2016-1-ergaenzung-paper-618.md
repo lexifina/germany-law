@@ -1,0 +1,21 @@
+# Antrag der CDU-Fraktion betr. Vorhaltung von Baugrundstücken in allen Stadtteilen
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-48/2016 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-11-04
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZc5s9VR98WGaFgDTgWHDN7M
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/618
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der CDU-Fraktion betr. Vorhaltung von Baugrundstücken in allen Stadtteilen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSOxecyA4A4YDtuYg36Wty2zI_0gYj2xeglv8a5ybUug/Beschlussvorlage_VL-48-2016_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.48) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVKIuxbtOX0RLjjIXY7YUt9vK-DVVwRQ2_UUqWWUcscJ/Dr-Nr.48.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.48-Anlage) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRuBN2LcaiKwu5eZe3g2eaYOwg9CNJcsJYTuvv107ZBR/Dr-Nr.48-Anlage.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.48a) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWB5Cuffqn4l-tucClOfYMM8dz-yi2PfZmrDHyBJKpqT/Dr-Nr.48a.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.48a-Anlage1) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUXgL6FRbSBYcJtEVEusK1-eyQ1h8zxkQWPavLjrpij/Dr-Nr.48a-Anlage1.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.48a-Anlage2) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzIL-BgEFSNlZ6o6R97jQjzIXGOyWpNn5PsVWvtuMKW/Dr-Nr.48a-Anlage2.pdf
+- Anlage: Beschlussvorlage (Präsentation 1 BUA-20-10-29 - Offene Drucksachen Bauplätze-Entwurf-Stand 20-10-26.pptx) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdNK37qTsieo6pBL_2twYHf7OjJudWAYZn8AldRi4cXm/Praesentation_1_BUA-20-10-29_-_Offene_Drucksachen_Bauplaetze-Entwurf-Stand_20-10-26.pptx.pdf
+- Anlage: Beschlussvorlage (Präsentation 2 BUA-20-10-29 - Bauland) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUrijNSujIv-BATLuKvekFXkC9dwG6E6bg-Ip48fDR6d/Praesentation_2_BUA-20-10-29_-_Bauland.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung Bauplätze) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeltmV9Ah8SpUnRDHb3Rgg2HVYaHj5dBWiZNa2PHoZmn/Zusammenstellung_Bauplaetze.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/743 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/735 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-21
