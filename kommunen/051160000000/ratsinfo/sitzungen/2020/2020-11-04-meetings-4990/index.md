@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-11-04T13:00:00+01:00
+- Ende: 2020-11-04T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4990
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4990
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00185294.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00185294.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00185294.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführenden für die Sitzungen des Rates der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 2: Amtseinführung und Vereidigung des Oberbürgermeisters
+- TOP 3: Eröffnung der konstituierenden Sitzung des Rates und Begrüßung durch den Oberbürgermeister
+- TOP 4: Einführung und Verpflichtung der Ratsmitglieder
+- TOP 5: Wahl der ehrenamtlichen Stellvertreterinnen / Stellvertreter des Oberbürgermeisters - Geheime Abstimmung
+- TOP 6: Einführung und Verpflichtung der Stellvertreterinnen/Stellvertreter des Oberbürgermeisters
+- TOP 6.1: Bildung und Besetzung von Ausschüssen / 0097/X - Einstimmiger Beschluss
+- TOP 7: Bildung und Besetzung von Ausschüssen - Gewählt nach Hare Niemeyer
+- TOP 7.1: Bildung eines Wahlprüfungsausschusses für die Kommunalwahlen und die Wahl der Mitglieder des Integrationsrates vom 13.09.2020 - Gewählt nach Hare Niemeyer
+- TOP 7.2: TAGESORDNUNGSPUNKT: 7. a) Festlegung der Mitgliederzahl der Ausschüsse - Mehrheitlich abgelehnt
+- TOP 7.3: Einrichtung eines Personal-, Organisations- und Digitalisierungsausschusses - Mehrheitlich abgelehnt
+- TOP 8: Bestellung der Ausschussvorsitzenden - Siehe Niederschrift
+- TOP 9: Wahl der stimmberechtigten Mitglieder für den Jugendhilfeausschuss - Gewählt nach Hare Niemeyer
+- TOP 10: Wahl von 8 Ratsmitgliedern in den Integrationsrat der Stadt Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 11: Benennung von Mitgliedern für die kommunale Beratungskommission in ausländer-rechtlichen Härtefällen (sog. Härtefallkommission) - Siehe Niederschrift
+- TOP 12: Landschaftsversammlung Rheinland - Geheime Abstimmung
+- TOP 13: Bildung und Besetzung des Polizeibeirates - Gewählt nach Hare Niemeyer
+- TOP 14: Wahl von Vertreterinnen/Vertretern in die Verbandsversammlung des Zweckverbandes "euregio rhein-maas-nord" - Einstimmiger Beschluss
+- TOP 15: Wahl von Mitgliedern für den Regionalrat des Regierungsbezirks Düsseldorf - Einstimmiger Beschluss
+- TOP 16: Einbringung des Entwurfs des Haushaltes 2021/2022 - Ohne Abstimmung
+- TOP 17: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 18: Bereitstellung außerplanmäßiger Haushaltsmittel 2020 für die digitale Sofortausstattung der Schülerinnen und Schüler - Einstimmiger Beschluss
+- TOP 19: Bereitstellung außerplanmäßiger Haushaltsmittel 2020 für die digitale Ausstattung von Lehrkräften - Einstimmiger Beschluss
+- TOP 20: Bereitstellung überplanmäßiger Haushaltsmittel 2020 für den Rechnungsausgleich mit der Stadt Jüchen zum RegioPark 3000 für den Zeitraum 01.06.2019 – 31.05.2020 - Einstimmiger Beschluss
+- TOP 21: Vertretung der Stadt Mönchengladbach in Organen von Unternehmen und Einrichtungen mit städtischer Beteiligung - Siehe Niederschrift
+- TOP 22: Neuwahl des Verwaltungsrates der Stadtsparkasse Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 23: Vertretung der Stadt in Gremien von Beteiligungsgesellschaften - Siehe Niederschrift
+- TOP 24: Wahl der Mitglieder für die Veranstaltergemeinschaft "Radio Mönchengladbach e. V." - Nach den Grundsätzen der Verhältniswahl gewählt
+- TOP 25: Benennung von 3 Vertretern und 3 Stellvertretern für die Mitgliederversammlungen des Vereins zur Förderung der Abfallwirtschaft - Region Rhein-Wupper e.V. - - Einstimmiger Beschluss
+- TOP 26: Entwurf des Wirtschaftsplans 2021 der mags AöR - Siehe Niederschrift
+- TOP 27: Wahl von Mitgliedern der Verbandsversammlung der ITK Rheinland - Gewählt nach Hare Niemeyer
+- TOP 28: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Wahl je eines Mitgliedes der im Rat vertretenen Fraktionen zum Beirat BIS-Zentrum für offene Kulturarbeit e.V. - Einstimmiger Beschluss
+- TOP 30: Teilnahme am Förderprogramm „Investitionspakt zur Förderung von Sportstätten 2020 und 2021“- Bau eines Kunstrasen-Mini-Spielfeldes und eines Streetballfeldes am Standort Hehner Straße Hier: Genehmigung einer Dringlichkeitsentscheidung vom 29.09.2020 - Einstimmiger Beschluss
+- TOP 31: Teilnahme am Förderprogramm „Investitionspakt zur Förderung von Sportstätten 2020 und 2021“ - Bau eines Kunstrasen-Kleinspielfeldes mit Flutlichtanlage, einer Beachvolleyballanlage und eines Streetballfeldes auf der BSA Schlossstr./Geneicken - Einstimmiger Beschluss
+- TOP 32: Teilnahme am Förderprogramm „Sanierung Kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ – Campuspark Rheydt 2. Bauabschnitt Hier: Genehmigung einer Dringlichkeitsentscheidung vom 29.09.2020 - Einstimmiger Beschluss
+- TOP 33: Mitglieder der Trägerversammlung - Gewählt nach Hare Niemeyer
+- TOP 34: Wahl von Mitgliedern für den Beirat des Jobcenter Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 35: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 36: Verbandsrat des Niersverbandes - Einstimmiger Beschluss
+- TOP 37: Stellvertretendes Mitglied des Widerspruchausschusses des Niersverbands - Einstimmiger Beschluss
+- TOP 38: Verein Metropolregion Rheinland e.V. - hier: Bestellung von Mitgliedern für die Mitgliederversammlung - Siehe Niederschrift
+- TOP 39: Neuwahl des Beirats - Einstimmiger Beschluss
+- TOP 40: Bestellung Vertreter Netteverband - Einstimmiger Beschluss
+- TOP 41: Wahl Verbandsversammlung "Zweckverband Naturpark Schwalm-Nette" - Gewählt nach Hare Niemeyer
+- TOP 42: Neukonstituierung des Braunkohlenausschusses - Einstimmiger Beschluss
+- TOP 43: Wahl der dem Rat angehörenden Mitglieder des Umlegungsausschusses und deren Vertreter oder Vertreterinnen - Einstimmiger Beschluss
+- TOP 44: Zweckverband LANDFOLGE Garzweiler - Gewählt nach Hare Niemeyer
+- TOP 45: Änderung der Geschäftsordnung des Rats, hier: - In den nächsten Ratszug geschoben
+- TOP 46: Anfragen und Mitteilungen
+- TOP 46.1: Anfrage RF Schmerl (DIE LINKE): Queeres (Jugend)Zentrum
