@@ -1,0 +1,6 @@
+# TOP 6.: Verwendung Verfügungsmittel
+
+- Sitzung: Ortsbeirat Ehringshausen (24. Sitzung / 17. WP) (2020-11-04)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/1390
