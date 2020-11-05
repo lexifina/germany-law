@@ -1,0 +1,56 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2020-11-05T18:33:00+01:00
+- Ende: 2020-11-05T20:00:00+01:00
+- Ort: Schulzentrum (Bildungscampus), Schulstr. 27a, 33818 Leopoldshöhe, Aula-/Mensagebäude im Schulzentrum
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRMU82unL-kva5vT9LGRfMs
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3455
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc5BGLo8Z24XkgwkXyttH9nwHX7oolfRUUsPXY4zMvwV/Bekanntmachung_Rat_05.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWMfKtMLZ9wjFn-dVL83WF8JIWJngMfMo8K6UM1bIkzW/Oeffentliche_Niederschrift_Rat_05.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung eines Schriftführers / einer Schriftführerin und eines Stellvertreters / einer Stellvertreterin
+- TOP 2.: Feststellung des / der Altersvorsitzenden
+- TOP 3.: Vereidigung und Einführung des Bürgermeisters
+- TOP 4.: Verpflichtung und Einführung der Ratsmitglieder
+- TOP 5.: Stellvertreter / Stellvertreterinnen des Bürgermeisters
+- TOP 5.1: Stellvertreter / Stellvertreterinnen des Bürgermeisters hier: Bestimmung der Anzahl - - einstimmig -
+- TOP 5.2: Wahl der Stellvertreter / Stellvertreterinnen
+- TOP 6.: Verpflichtung und Einführung der Stellvertreter / Stellvertreterinnen des Bürgermeisters
+- TOP 7.: Verabschiedung ehemaliger Ratsmitglieder
+- TOP 8.: Bildung eines Wahlprüfungsausschusses - - einstimmig -
+- TOP 9.: Bildung von Ausschüssen
+- TOP 9.1: Festlegung der Ausschüsse und deren Bezeichnung - - einstimmig -
+- TOP 9.2: Festlegung der Ausschussgröße - - einstimmig -
+- TOP 9.3: Bestimmung der Höchstzahl der Sachkundigen Bürgerinnen /Sachkundige Bürger - - einstimmig -
+- TOP 9.4: Wahlen zu den Ausschüssen - - einstimmig -
+- TOP 9.5: Zuteilung und Benennung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - - einstimmig -
+- TOP 10.: Wahl von 3 Vertretern / Vertreterinnen und 3 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Zweckverbandes Volkshochschule Lippe-West
+- TOP 11.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in den Fachausschuss des Zweckverbandes Volkshochschule Lippe-West
+- TOP 12.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Beirat des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 13.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 14.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Verwaltungsrat des Abfallwirtschaftsverbandes Lippe
+- TOP 15.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Abfallwirtschaftsverbandes Lippe
+- TOP 16.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Gesellschafterversammlung der Gesellschaft für Abfallentsorgung Lippe (GAL)
+- TOP 17.: Wahl von 4 Vertretern / Vertreterinnen und 4 Stellvertretern / Stellvertreterinnen in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes
+- TOP 18.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Zweckverbandes Stadtwerke Lippe-Weser
+- TOP 19.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Aufsichtsrat der Stadtwerke Lippe-Weser
+- TOP 20.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Gesellschafterversammlung der Kommunalen Verkehrsgesellschaft Lippe mbH
+- TOP 21.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Nahverkehrsbeirat der Kommunalen Verkehrsgesellschaft Lippe (KVG)
+- TOP 22.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin für die Gesellschafterversammlung der Lippe Tourismus und Marketing GmbH
+- TOP 23.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Beirat des Landestheaters Detmold
+- TOP 24.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in das Netzwerk Lippe
+- TOP 25.: Benennung von Vertreterinnen und Vertretern in den Rat der Kindertageseinrichtungen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 26.: Wahl von Mitgliedern in die Arbeitsgemeinschaft Interkommunale Zusammenarbeit mit der Stadt Oerlinghausen
+- TOP 27.: Wahl von Mitgliedern in den Ältestenrat - - einstimmig -
+- TOP 28.: Anfragen der Ratsmitglieder
+- TOP 29.: Informationen des Bürgermeisters
+- TOP 30.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 31.: Ortsrecht: Objektsatzung über die Erhebung von Gebühren für die Benutzung der Unterkunft und über die Unterbringung von Obdachlosen, Spätaussiedlern und ausländischen Flüchtlingen in der Unterkunft Am Großen Holz 9 und 9a in der Gemeinde Leopoldshöhe in der Fassung vom XX.XX.XXXX und außer Kraftsetzung der bisherigen Satzungen. Hier: Heilung eines Verfahrensfehlers - - einstimmig -
+- TOP 32.: 17.vereinfachte Änderung des Bebauungsplanes Nr. 06/03 „Askamp“ im Bereich der Bachstraße / Wiesenstraße im Ortsteil Leopoldshöhe als Bebauungsplan der Innenentwicklung im beschleunigten Verfahren - Beratung und Beschluss über die eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange gem. § 13a BauGB - Satzungsbeschluss - - einstimmig -
