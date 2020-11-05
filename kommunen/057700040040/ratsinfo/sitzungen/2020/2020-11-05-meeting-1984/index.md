@@ -1,0 +1,55 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2020-11-05T17:00:00+01:00
+- Ende: 2020-11-05T19:38:00+01:00
+- Ort: Gymnasium Rahden, Freiherr-vom-Stein-Straße 5, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcpN0VVEEcBGqUxx6SxjZcM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1984
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR9LdPcFurBnEZWoTGXBQh5b5BwTn8vXNSJRiETbeD8C/Bekanntmachung_Rat_05.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbz2vsp996tcD4ibmiJirzqNOvCKRjEXcVj0zJMEDMiS/Oeffentliche_Niederschrift_Rat_05.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Einführung des Bürgermeisters durch den Altersvorsitzenden - Ohne Abstimmung
+- TOP 5.: Bestellung einer Schriftführerin/eines Schriftführers - Einstimmig, 0 Enthaltungen
+- TOP 6.: Verpflichtung und Einführung der Ratsmitglieder durch den Bürgermeister - Ohne Abstimmung
+- TOP 7.: Wahl der Stellvertretungen des Bürgermeisters - 30 Stimmen dafür, 4 dagegen, 1 Enthaltungen
+- TOP 8.: Verpflichtung und Einführung der Stellvertretungen des Bürgermeisters - Ohne Abstimmung
+- TOP 9.: Wahl der Ortsvorsteher - 24 Stimmen dafür, 0 dagegen, 10 Enthaltungen
+- TOP 10.: Beratung und Beschlussfassung für die zu bildenden Ausschüsse und Festlegung der Mitgliederzahlen - 29 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 10.1: Wahlen zu den Ausschüssen - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 10.2: Bestimmung der Vorsitzenden und der stellvertretenden Vorsitzenden der Ausschüsse - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 11.: Einführung und Verpflichtung der sachkundigen Bürger - Ohne Abstimmung
+- TOP 12.: Wahl des vorsitzenden Mitgliedes des Verwaltungsrates der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Wahl der Mitglieder und stellvertretenden Mitglieder des Verwaltungsrates der Stadtsparkasse Rahden - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 14.: Wahl von 2 stellvertretenden Vorsitzenden des Verwaltungsrates der Stadtsparkasse Rahden - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 15.: Wahl von 2 Mitgliedern für die Verbandsversammlung des Westfälisch-Lippischen Sparkassen- und Giroverbandes - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 16.: Wahl von 3 Mitgliedern des Beirates der Stiftung "Standort: hier" der Stadtsparkasse Rahden und deren Vertreter - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 17.: Wahl von 2 Mitgliedern des Vorstandes und 6 Mitgliedern der Verbandsversammlung des Wasserverbandes "Große Aue" und deren Stellvertretungen - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 18.: Wahl eines Vertreters und Stellvertreters in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe - Einstimmig, 0 Enthaltungen
+- TOP 19.: Wahl eines Vertreters und eines Stellvertreters in den Beirat des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 20.: Wahl von 4 Mitgliedern und Stellvertretungen in die Verbandsversammlung des Zweckverbandes Volkshochschule Lübbecker Land - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 21.: Wahl von 4 Mitgliedern und Stellvertretungen in die Verbandsversammlung des Musikschulverbandes Espelkamp/Rahden/Stemwede - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 22.: Wahl eines Mitglieds und einer Stellvertretung in die Gesellschafterversammlung der Minden-Herforder Verkehrsgesellschaft mbH - Einstimmig, 0 Enthaltungen
+- TOP 23.: Wahl eines Mitglieds und einer Stellvertretung in die Gesellschafterversammlung der Betriebsgesellschaft Radio Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 24.: Wahl von 4 Mitgliedern und Stellvertretungen in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes - Einstimmig, 0 Enthaltungen
+- TOP 25.: Wahl eines Mitglieds und einer Stellvertretung in die Mitgliederversammlung der Interessengemeinschaft Standortförderung Kreis Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 26.: Bestimmung eines Mitglieds und eines Stellvertreters für den Vorstand der Fischereigenossenschaft Rahden u. U.
+- TOP 27.: Änderung der Geschäftsordnung des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Änderung der Zuständigkeitsordnung für die Ausschüsse der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 29.: Änderung der Hauptsatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 30.: 10. Änderung des Bebauungsplanes Nr. 38 "Ortskern Varl" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 31.: 5. Änderung und Erweiterung des Bebauungsplanes Nr. 67 "Gewerbegebiet Rahden-Süd" sowie 84. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB b) Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 84. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 32.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 33.: Grundstücksangelegenheiten
+- TOP 33.1: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden - Süd - Einstimmig, 0 Enthaltungen
+- TOP 34.: Bekanntgaben und Anfragen
