@@ -1,0 +1,7 @@
+# TOP 6: Wahl der ehrenamtlichen Stellvertreterinnen/Stellvertreter des Oberbürgermeisters
+
+- Sitzung: Rat (2020-11-05)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/286166
+- Ergebnis: beschlossen
