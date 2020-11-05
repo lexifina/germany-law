@@ -1,0 +1,104 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-11-05T17:01:00+01:00
+- Ende: 2020-11-06T00:30:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYVv6mTiiDZht8oDBkbUT8Y
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5905
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR7ETA26i79yxpUnawjgD9UZI9BG18JtK6ezbpff1_FT/Bekanntmachung_Rat_05.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZ1qFY7g-AElP7ko-UfP4t2_lnMpmNVWLMhIltF68-6/Oeffentliche_Niederschrift_Rat_05.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Reinigungsdienst des Dienstleistungsbetriebs Gebäude der Stadt Solingen (DBSG) -Zusatzfragen zu Vorlage 7053/2020-
+- TOP 2.: Bestellung der Schriftführung für den Rat der Klingenstadt Solingen
+- TOP 3.: Einführung und Verpflichtung der Ratsmitglieder - mündlicher Bericht -
+- TOP 4.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 5.: Protokoll über die 42. Sitzung des Rates am 01.10.2020
+- TOP 6.: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen bzw. Stellvertreter des Oberbürgermeisters
+- TOP 6.1: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen bzw. Stellvertreter des Oberbürgermeisters gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS vom 04.11.2020
+- TOP 7.: Wahl der ehrenamtlichen Stellvertreterinnen bzw. Stellvertreter des Oberbürgermeisters
+- TOP 8.: Einführung der ehrenamtlichen Stellvertreterinnen/ Stellvertreter des Oberbürgermeisters - mündlicher Bericht -
+- TOP 9.: Bildung und Besetzung des Wahlprüfungsausschusses sowie Benennung des/der Vorsitzenden
+- TOP 10.: Bildung und Besetzung des Hauptausschusses
+- TOP 11.: Bildung der Ausschüsse Festlegung der Ausschüsse Festlegung der Anzahl der Mitglieder Vertretungsregelung
+- TOP 11.1: Bildung der Ausschüsse Festlegung der Ausschüsse Festlegung der Anzahl der Mitglieder Vertretungsregelung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS vom 04.11.2020
+- TOP 12.: Ausschuss-Vorsitze
+- TOP 12.1: Ausschuss-Vorsitze gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS vom 04.11.2020
+- TOP 13.: Besetzung Ausschüsse
+- TOP 14.: Neubildung des Jugendhilfeausschusses für die Wahlperiode 2020-2025
+- TOP 15.: Neubildung des Zuwanderer- und Integrationsrates für die Wahlperiode 2020 bis 2025 hier: Bestellung der stimmberechtigten Ratsmitglieder und ihrer Stellvertreterinnen und Stellvertreter
+- TOP 15.1: Neubildung des Zuwanderer- und Integrationsrates für die Wahlperiode 2020 bis 2025 Bestellung der stimmberechtigten Ratsmitglieder und ihrer Stellvertreterinnen und Stellvertreter Antrag von RM Secgin vom 28.10.2020
+- TOP 16.: Regionalrat des Regierungsbezirks Düsseldorf: Vertretung der Stadt Solingen
+- TOP 17.: Besetzung des Beirates Nachhaltige Kommune Solingen
+- TOP 18.: Stadt-Sparkasse Solingen Wahl des / der Verwaltungsratsvorsitzenden, der ordentlichen und stellvertretenden Mitglieder des Verwaltungsrates sowie der / des 1. und 2. Stellvertreterin / Stellvertreters des Vorsitzenden des Verwaltungsrates
+- TOP 19.: Stadt-Sparkasse Solingen Wahl der Arbeitnehmervertreter im Verwaltungsrat der Stadt-Sparkasse Solingen
+- TOP 20.: Rheinischer Sparkassen- und Giroverband Vertretung in der Verbandsversammlung
+- TOP 21.: Stadt-Sparkasse Solingen Wahl der Mitglieder für die Organe der Alten-Stiftung
+- TOP 22.: Stadtentwicklungsgesellschaft Solingen - Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 23.: Stadtentwicklungsgesellschaft Solingen - Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 24.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Vertretung der Stadt Solingen in der Gesellschafterversammlung, im Aufsichtsrat und im Bergischen Rat
+- TOP 25.: Wirtschaftsförderung Solingen GmbH & Co. KG - Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 26.: Wirtschaftsförderung Solingen Verwaltungs GmbH - Vertretung der Stadt Solingen in der Gesellschafterversammlung
+- TOP 27.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG - Vertretung der Stadt Solingen in der Gesellschafterversammlung
+- TOP 28.: Stadtwerke Solingen GmbH hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 29.: Stadtwerke Aue hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 30.: Entsorgung Solingen GmbH hier: a) Bestellung von Mitgliedern für die Gesellschafterversammlung b) Vertretung der Belegschaft in der Gesellschafterversammlung der Entsorgung Solingen GmbH
+- TOP 31.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung
+- TOP 32.: Städtisches Klinikum Solingen gGmbH hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 33.: Altenzentren der Stadt Solingen gGmbH hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 33.1: Altenzentren der Stadt Solingen gGmbH hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Aufsichtsrat
+- TOP 34.: Städtische Musikschule Solingen GmbH (MSS) hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung
+- TOP 35.: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen GmbH hier: Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 36.: Kunstmuseum Solingen Betriebsgesellschaft mbH (KMS) hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung und im Beirat
+- TOP 37.: Zentrum für verfolgte Künste GmbH (ZfvK) hier: Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 38.: Bergische Volkshochschule Zweckverband der Städte Solingen – Wuppertal (BVHS) hier: Vertretung der Stadt Solingen in der Verbandsversammlung
+- TOP 39.: Solinger Bädergesellschaft mbh (SBG) hier: Vertretung der Stadt Solingen in der Gesellschafterversammlung
+- TOP 40.: Bildung der 15. Landschaftsversammlung Rheinland hier: Wahl in den Vertretungen der Mitgliedskörperschaften
+- TOP 41.: Kommunale Arbeitsgemeinschaft Bergisch Land e.V. (KAG) hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 42.: Teilnahme am KGSt-Forum und an der KGSt-Mitgliederversammlung
+- TOP 43.: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen hier: Benennung von bis zu drei Delegierten
+- TOP 44.: Benennung eines politischen Vertreters für das Städtenetzwerk Eurotowns
+- TOP 45.: Benennung eines Mitgliedes der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 46.: Kuratorium "Die Schärfste Klinge" hier: Benennung der Mitglieder
+- TOP 47.: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 48.: Einsetzung eines ÖPNV-Fahrgastbeirates
+- TOP 49.: Besetzung des örtlichen Beirates für das Kommunale Jobcenter
+- TOP 50.: Technische Akademie Wuppertal e. V. hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 51.: Polizeibeirat für den Kreispolizeibezirk Wuppertal hier: Benennung der Vertretung der Stadt Solingen
+- TOP 52.: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG) hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 53.: GVV-Kommunalversicherung VVaG hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 54.: Kommunaler Schadenausgleich westdeutscher Städte (KSA) hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 55.: Wasserwerk Baumberg GmbH, Solingen hier: Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 56.: Wasserversorgungsverband Rhein-Wupper hier: Vertretung der Stadt Solingen in der Verbandsversammlung
+- TOP 57.: Zweckverband Verkehrsverbund Rhein-Ruhr (VRR) hier: Vertretung der Stadt Solingen in der Verbandsversammlung
+- TOP 58.: Zweckverband Erholungsgebiet Ittertal hier: Vertretung der Stadt Solingen in der Verbandsversammlung und im Verbandsausschuss
+- TOP 59.: Zweckverband Naturpark Bergisches Land hier: Vertretung der Stadt Solingen in der Verbandsversammlung und im Planungsausschuss
+- TOP 60.: Bergisch-Rheinischer Wasserverband hier: Vertretung der Stadt Solingen in der Verbandsversammlung und im Vorstand
+- TOP 61.: Wupperverband hier: Neubenennung der Direktdelegierten für die Verbandsversammlung sowie die Mitglieder des Verbandsrates und der Ausschüsse des Wupperverbandes
+- TOP 62.: Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V. hier: Vertretung der Stadt Solingen in der Mitgliederversammlung und im Vorstand
+- TOP 63.: Gewässerschaukommission hier: Bestellung von Vertreterinnen und Vertretern der Ratsfraktionen in die Gewässerschaukommission
+- TOP 64.: Geschwister-Niehoff-Stiftung hier: Bestellung von Vertreterinnen und Vertretern der Ratsfraktionen in den Beirat
+- TOP 65.: Bürgerstiftung für verfolgte Künste - Else-Lasker-Schüler-Zentrum - Kunstsammlung Gerhard Schneider hier: Vertretung der Stadt Solingen im Stiftungsrat und im Stiftungsvorstand
+- TOP 66.: Überplanmäßige Aufwendungen gem. § 83 GO NRW für das Jahr 2020 (coronabedingte Schüler-Zusatzverkehre)
+- TOP 67.: Änderungssatzung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen (Sondernutzungssatzung)
+- TOP 68.: Verschiedenes
+- TOP 68.1: Mitteilungen der Verwaltung
+- TOP 68.1.1: Beschwerde zur Berichterstattung von BILD und RTL zum Mordfall in Solingen
+- TOP 68.1.2: Bereitschaft der Stadt Solingen Schutzsuchende aus Griechenland aufzunehmen
+- TOP 68.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung des Rates am 01.10.2020
+- TOP 4.: Umsetzung der Regelungen nach § 118 Landesbeamtengesetz NRW
+- TOP 5.: Ausübung eines Vorkaufrechtes durch die Stadt Solingen
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
