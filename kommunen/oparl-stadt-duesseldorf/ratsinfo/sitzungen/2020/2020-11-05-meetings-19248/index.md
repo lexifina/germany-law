@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-05T11:00:00+01:00
+- Ende: 2020-11-05T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19248
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19248
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390677.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390677.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390677.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung von Oberbürgermeister Dr. Keller
+- TOP 2: Bestellung der Schriftführerin des Rates - einstimmig beschlossen
+- TOP 3: Verpflichtung der Ratsmitglieder
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen/Stellvertreter des Oberbürgermeisters - einstimmig beschlossen
+- TOP 6: Wahl der ehrenamtlichen Stellvertreterinnen/Stellvertreter des Oberbürgermeisters - beschlossen
+- TOP 7: Bestellung der Mitglieder des Wahlprüfungsausschusses - beschlossen
+- TOP 8: Bildung der Ausschüsse und Festlegung der Zahl ihrer Mitglieder - beschlossen
+- TOP 8.1: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage RAT/302/2020: Bildung der Ausschüsse und Festlegung der Zahl ihrer Mitglieder - mehrheitlich abgelehnt
+- TOP 9: Wahl der Ausschussmitglieder sowie der Stellvertreterinnen und Stellvertreter - beschlossen
+- TOP 10: Jugendhilfeausschuss - Wahl von Mitgliedern - - beschlossen
+- TOP 11: Integrationsrat -Bestellung von Mitgliedern- - beschlossen
+- TOP 12: Schulausschuss -Wahl der Mitglieder- - beschlossen
+- TOP 13: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze sowie Bestimmung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Umlegungsausschuss -Bestellung von Mitgliedern- - beschlossen
+- TOP 16: Bildung der 15. Landschaftsversammlung Rheinland -Neuwahl der Mitglieder und Ersatzmitglieder- - beschlossen
+- TOP 17: Regionalrat Düsseldorf -Wahl der stimmberechtigten Mitglieder- - beschlossen
+- TOP 18: Neubildung des Beirates bei der Unteren Naturschutzbehörde - beschlossen
+- TOP 19: Aufsichtsrat der AWISTA Gesellschaft für Abfallwirtschaft und Stadtreinigung mbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 20: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 21: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - Bestellung der Vertretungen für die Stadt - - beschlossen
+- TOP 22: Aufsichtsrat der Connected Mobility Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 23: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 24: Aufsichtsrat der D.LIVE GmbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 25: Aufsichtsrat der Düsseldorf Congress GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 26: Aufsichtsrat der Düsseldorf Marketing GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 27: Aufsichtsrat der Düsseldorf Tourismus GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 28: Aufsichtsrat der Flughafen Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 29: Aufsichtsrat der Flughafen Düsseldorf Ground Handling GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 30: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 31: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 32: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 33: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 34: Aufsichtsrat der IPM Immobilien Projekt Management Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 35: Aufsichtsrat der Klärschlammverwertung Buchenhofen GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 36: Aufsichtsrat der Messe Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 37: Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 38: Aufsichtsrat der Regiobahn Fahrbetriebsgesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 39: Aufsichtsrat der Regionale Bahngesellschaft Kaarst - Neuss - Düsseldorf - Erkrath - Mettmann - Wuppertal mbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 40: Aufsichtsrat der Rheinbahn AG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 41: Aufsichtsrat der RheinCargo GmbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 42: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 43: Aufsichtsrat der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 44: Beirat der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 45: Konsortialausschuss der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 46: Aufsichtsrat der SWD Städt. Wohnungsbau-GmbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 47: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft mbH & Co. KG - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 48: Verwaltungsrat der Werkstatt für angepasste Arbeit Gesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 49: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 50: Aufsichtsrat der Kunsthalle Düsseldorf gGmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 51: Aufsichtsrat der Neue Schauspiel – Gesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 52: Aufsichtsrat der Tonhalle Düsseldorf gGmbH - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 53: Kuratorium der Goethe-Museum, Anton und Katharina Kippenberg-Stiftung - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 54: Kuratorium der Stiftung Museum Kunstpalast - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 55: Kuratorium der Stiftung Schloss und Park Benrath - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 56: Wahl von Mitgliedern des zuständigen Ratsausschusses in das Kuratorium der Volkshochschule - beschlossen
+- TOP 57: Kuratorium der ZERO-Foundation - Wahl der städtischen Vertreter*innen - beschlossen
+- TOP 58: Polizeibeirat - Wahl der Mitglieder - - beschlossen
+- TOP 59: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes -Bestellung einer Vertretung für die Stadt- - beschlossen
+- TOP 60: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - Bestellung der Vertretungen für die Stadt - - beschlossen
+- TOP 61: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - Bestellung der Vertretungen für die Stadt - - beschlossen
+- TOP 62: Euregiorat des Zweckverbandes Euregio Rhein-Waal -Bestellung der Vertretungen für die Stadt- - beschlossen
+- TOP 63: Verbandsversammlung des Zweckverbandes euregio rhein-maas-nord -Bestellung der Vertretungen für die Stadt- - beschlossen
+- TOP 64: Einsatz von Gebärdensprachdolmetscherinnen/-dolmetschern während der öffentlichen Teile der Ratssitzungen - einstimmig beschlossen
+- TOP 65: Bereitstellung überplanmäßiger Mittel zur Einhaltung der Coronaschutzverordnung im Amt für Einwohnerwesen - einstimmig beschlossen
+- TOP 66: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Bekämpfung der COVID-19-Pandemie - einstimmig beschlossen
+- TOP 67: Bundesprogramm für die Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur - einstimmig beschlossen
+- TOP 68: Bundesprogramm für die Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur - einstimmig beschlossen
+- TOP 69: Bundesprogramm für die Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur - einstimmig beschlossen
+- TOP 70: Ausführungs- und Finanzierungsbeschluss Fahrradparkturm Bahnhof D-Bilk; Friedrichstraße / Arcadenvorplatz - einstimmig beschlossen
