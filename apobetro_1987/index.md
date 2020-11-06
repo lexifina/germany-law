@@ -25,9 +25,11 @@ Apotheken
 - [§ 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte](0012.md)
 - [§ 13 Behältnisse](0013.md)
 - [§ 14 Kennzeichnung](0014.md)
+- [§ 14 Kennzeichnung](0014-2.md)
 - [§ 15 Vorratshaltung](0015.md)
 - [§ 16 Lagerung](0016.md)
 - [§ 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten](0017.md)
+- [§ 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten](0017-2.md)
 - [§ 18 Einfuhr von Arzneimitteln](0018.md)
 - [§ 19 Erwerb und Abgabe von verschreibungspflichtigen
 Tierarzneimitteln](0019.md)

@@ -123,8 +123,8 @@ Dienstleistungen
 |  | Abgehendes (Retro-) Geschäft | 450 |
 |  | Eingehendes (Rück-) Geschäft | 451 |
 |  | Rückversicherungsprovision | 439 |
-|  | Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft – Korrektur Kennz.450 (fakultativ) | 447 |
-|  | Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft – Korrektur Kennz.451 (fakultativ) | 448 |
+|  | Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft – Korrektur Kennz. 450 (fakultativ) | 447 |
+|  | Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft – Korrektur Kennz. 451 (fakultativ) | 448 |
 |  | Gewinnbeteiligungen bei Rückversicherungen | 449 |
 |  | Verlustbeteiligungen bei Rückversicherungen | 459 |
 |  | Portfolioübertragung zwischen Versicherern | 452 |
@@ -171,20 +171,20 @@ Dienstleistungen
 |  | Schuldenerlass des Bundes | 725 |
 |  | Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden und anderer öffentlicher Stellen | 760 |
 | Sonstige Übertragungen |  |
-|  | Europäische Bankenabgabe | 815 |
+|  | europäische Bankenabgabe | 815 |
 |  | Sonstige Übertragungen | 854 |
 Warenverkehr
 (Hinweis: Zahlungen für deutsche Ein- und Ausfuhren oder das Verbringen
-von Waren sind gemäß § 67 Absatz 2 Nummer 2 AWV von der Meldepflicht befreit)
+von Waren sind gem. § 67 Abs. 2 Nr. 2 AWV von der Meldepflicht befreit)
 | Transithandel |  |
-| Transithandel | 003 |
+|  | Transithandel | 003 |
 | Handel mit elektrischem Strom und Gas |  |
 | Handel mit Gas – Übergabepunkt im Inland | 998 |
 | Handel mit Gas – Übergabepunkt im Ausland | 990 |
 | Handel mit elektrischem Strom – Übergabepunkt im Inland | 994 |
 | Handel mit elektrischem Strom – Übergabepunkt im Ausland | 995 |
 | Handel mit Gold |  |
-| Handel mit Gold | 989 |
+|  | Handel mit Gold | 989 |
 | Sonstiger Warenverkehr |  |
 |  | Lieferungen von Waren und Dienstleistungen an die im Inland stationierten ausländischen Streitkräfte | 770 |
 |  | Einnahmen und Ausgaben im Sonstigen Warenverkehr | 997 |
@@ -204,9 +204,9 @@ I. Vermögensanlagen von Inländern im Ausland
 |  |  | Euro-Anleihen ausländischer privater Emittenten | 702 |
 |  |  | Fremdwährungs-Anleihen ausländischer privater Emittenten | 102 |
 | 2. | Geldmarktpapiere |  |
-|  | Geldmarktpapiere ausländischer Emittenten | 105 |
+|  |  | Geldmarktpapiere ausländischer Emittenten | 105 |
 | 3. | Aktien |  |
-|  | Aktien und sonstige Dividendenpapiere ausländischer Emittenten | 104 |
+|  |  | Aktien und sonstige Dividendenpapiere ausländischer Emittenten | 104 |
 | 4. | Investmentzertifikate |  |
 |  | a) | Geldmarktfondszertifikate |  |
 |  |  | Ausländische Geldmarktfondszertifikate mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung) | 606 |
@@ -215,21 +215,21 @@ I. Vermögensanlagen von Inländern im Ausland
 |  |  | Sonstige ausländische Investmentfonds mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung) | 106 |
 |  |  | Sonstige ausländische thesaurierende Investmentfonds | 129 |
 | Direktinvestitionen im Ausland |  |
-| 1. | Anteile am Kapital und an den Rücklagen ausländischer Unternehmen,Zweigniederlassungen und Betriebsstätten |  |
+| 1. | Anteile am Kapital und an den Rücklagen ausländischer Unternehmen, Zweigniederlassungen und Betriebsstätten |  |
 |  | a) | Anteile an ausländischen Aktiengesellschaften, gehalten von inländischen MFIs |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nichtbörsennotierten Aktiengesellschaften | 107 |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotiertenAktiengesellschaften | 827 |
-|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 108 |
-|  | b) | Anteile an ausländischen Aktiengesellschaften, gehalten von inländischenUnternehmen, Privatpersonen und öffentlichen Haushalten |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nichtbörsennotierten Aktiengesellschaften | 207 |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotiertenAktiengesellschaften | 927 |
-|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 208 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht börsennotierten Aktiengesellschaften | 107 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotierten Aktiengesellschaften | 827 |
+|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 108 |
+|  | b) | Anteile an ausländischen Aktiengesellschaften, gehalten von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten |  |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht börsennotierten Aktiengesellschaften | 207 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotierten Aktiengesellschaften | 927 |
+|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 208 |
 |  | c) | Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländische MFIs |  |
 |  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten | 111 |
-|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 112 |
-|  | d) | Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländischenUnternehmen, Privatpersonen und öffentlichen Haushalten |  |
+|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen | 112 |
+|  | d) | Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten |  |
 |  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten | 211 |
-|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen. | 212 |
+|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen | 212 |
 |  |  | Explorationsaufwendungen im Ausland | 237 |
 | 2. | Direktinvestitionskredite inländischer Direktinvestoren |  |
 |  | Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen und Privatpersonen sowie öffentliche Haushalte (als Kreditgeber) an ausländische Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind, sowie an Zweigniederlassungen und Betriebsstätten | 222 |
@@ -301,22 +301,22 @@ II. Vermögensanlagen von Ausländern im Inland
 |  |  | Inländische thesaurierende Geldmarktfonds | 647 |
 |  | b) | Sonstige Investmentfondszertifikate |  |
 |  |  | Sonstige inländische Investmentfonds mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung) | 146 |
-|  |  | Sonstige inländische thesaurierende Investmentfonds | 157 |
+|  | Sonstige inländische thesaurierende Investmentfonds | 157 |
 | Direktinvestitionen im Inland |  |
 | 1. | Anteile am Kapital und an den Rücklagen von inländischen Unternehmen, Zweigniederlassungen und Betriebsstätten |  |
 |  | a) | Anteile an inländischen MFIs in der Rechtsform der Aktiengesellschaft |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nichtbörsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte MFIs | 147 |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotiertenMFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte MFIs | 847 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte MFIs | 147 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte MFIs | 847 |
 |  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform der Aktiengesellschaft | 148 |
 |  | b) | Anteile an inländischen Unternehmen in der Rechtsform der Aktiengesellschaften |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nichtbörsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte Unternehmen | 247 |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotiertenUnternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte Unternehmen | 947 |
-|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen Unternehmen in der Rechtsform der Aktiengesellschaft | 248 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte Unternehmen | 247 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte Unternehmen | 947 |
+|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen Unternehmen in der Rechtsform der Aktiengesellschaft | 248 |
 |  | c) | Anteile an inländischen MFIs in anderer Rechtsform als der der Aktiengesellschaft |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen MFIs, die nichtAktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen MFIs. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Banken, die inländische MFIs sind | 151 |
-|  |  | Einzahlungen in dieKapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform der Nicht-Aktiengesellschaft | 152 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen MFIs, die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen MFIs. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Banken, die inländische MFIs sind | 151 |
+|  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform der Nicht-Aktiengesellschaft | 152 |
 |  | d) | Anteile an inländischen Unternehmen in anderer Rechtsform als der der Aktiengesellschaft |  |
-|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen Unternehmen,die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen Unternehmen. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Unternehmen und Privatpersonen | 251 |
+|  |  | Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen Unternehmen, die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen Unternehmen. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Unternehmen und Privatpersonen | 251 |
 |  |  | Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen Unternehmen in der Rechtsform der Nicht-Aktiengesellschaft | 252 |
 | 2. | Direktinvestitionskredite inländischer Direktinvestitionsunternehmen, Zweigniederlassungen und Betriebsstätten |  |
 |  | Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditnehmer) bei ausländischen Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind, sowie Kreditaufnahmen von inländischen Zweigniederlassungen und Betriebsstätten bei ihren ausländischen Zentralen | 262 |
@@ -326,12 +326,11 @@ II. Vermögensanlagen von Ausländern im Inland
 |  | Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditgeber) an ausländische Unternehmen, die an ihnen nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben | 228 |
 | Kredite an Inländer sowie Guthaben bei inländischen Banken |  |
 | 1. | Kredite und Bankguthaben mit einer Ursprungslaufzeit bis zu 12 Monaten (kurzfristige Kredite und Einlagen) |  |
-|  | Stille Abtretung und Tilgung von kurzfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nichtbörsenfähigenWertpapieren (Laufzeit bis 12 Monate) durch Inländer, unterschieden nach inländischen Schuldnergruppen: |  |
-|  | Stille Abtretung und Tilgung von kurzfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nichtbörsenfähigenWertpapieren (Laufzeit bis 12 Monate) durch Inländer, unterschieden nach inländischen Schuldnergruppen: |  |
+|  | Stille Abtretung und Tilgung von kurzfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit bis 12 Monate) durch Inländer, unterschieden nach inländischen Schuldnergruppen: |  |
 |  | MFIs | 175 |
 |  | Investmentvermögen (ohne Geldmarktfonds) | 075 |
 |  | Versicherungsgesellschaften und Altersvorsorgeeinrichtungen | 675 |
-|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren Seite 125, Seite 126 und Seite 127) | 275 |
+|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren (nachfolgend: S.) S. 125, S. 126 und S. 127) | 275 |
 |  | Nichtfinanzielle Unternehmen | 975 |
 |  | Privatpersonen und private Organisationen ohne Erwerbszweck | 875 |
 |  | Öffentliche Haushalte | 373 |
@@ -339,28 +338,28 @@ II. Vermögensanlagen von Ausländern im Inland
 |  | Gewährung und Rückzahlung von Krediten (sowie offene Abtretung von Inlandsforderungen) mit einer Laufzeit von mehr als 12 Monaten an inländische |  |
 |  | Investmentvermögen (ohne Geldmarktfonds) | 041 |
 |  | Versicherungsgesellschaften und Altersvorsorgeeinrichtungen | 541 |
-|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren Seite 125, Seite 126 und Seite 127) | 261 |
-|  | Nichtfinanzielle Unternehmen und Privatpersonen | 941 |
+|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126 und S. 127) | 261 |
+|  | Nichtfinanzielle Unternehmen | 941 |
 |  | Privatpersonen und private Organisationen ohne Erwerbszweck | 841 |
 |  | Öffentliche Haushalte | 351 |
-|  | Erstabsatz und offene Abtretung sowie Tilgung oder Rückerwerb von langfristigen Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nichtbörsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer |  |
+|  | Erstabsatz und offene Abtretung sowie Tilgung oder Rückerwerb von langfristigen Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer |  |
 |  | Emissionen von MFIs | 163 |
 |  | Emissionen von Versicherungsgesellschaften und Altersvorsorgeeinrichtungen | 663 |
-|  | Emissionen von sonstigen finanziellen Unternehmen (der ESVG 2010 Teilsektoren Seite 125, Seite 126, und Seite 127) | 263 |
+|  | Emissionen von sonstigen finanziellen Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126 und S. 127) | 263 |
 |  | Emissionen von nichtfinanziellen Unternehmen | 963 |
 |  | Emissionen des Bundes | 366 |
 |  | Emissionen der Länder | 367 |
 |  | Emissionen von Städten und Gemeinden | 368 |
-|  | Stille Abtretung und Tilgung von langfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigenWertpapieren (Laufzeit über 12 Monate) durch Inländer, unterschieden nach folgenden inländischen Schuldnergruppen: |  |
+|  | Stille Abtretung und Tilgung von langfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer, unterschieden nach folgenden inländischen Schuldnergruppen: |  |
 |  | MFIs | 176 |
 |  | Investmentvermögen (ohne Geldmarktfonds) | 076 |
 |  | Versicherungsgesellschaften und Altersvorsorgeeinrichtungen | 776 |
-|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren Seite 125, Seite 126, und Seite 127) | 276 |
+|  | Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126 und S. 127) | 276 |
 |  | Nichtfinanzielle Unternehmen | 976 |
 |  | Privatpersonen und private Organisationen ohne Erwerbszweck | 876 |
 |  | Öffentliche Haushalte | 352 |
 | Grundstücke und Gebäude sowie Rechte an diesen im Inland |  |
-|  | Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im Inland Aufgelegten Immobilienzertifikaten geschlossener Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch |  |
+|  | Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im Inland aufgelegten Immobilienzertifikaten geschlossener Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch |  |
 |  | MFIs (Eigengeschäft) | 172 |
 |  | Unternehmen und Privatpersonen | 272 |
 |  | Öffentliche Haushalte | 372 |
@@ -412,20 +411,20 @@ IV. Kapitalerträge (Einnahmen und Ausgaben)
 |  |  | Zinsen auf Wertpapiere inländischer privater Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als erste inländische Stelle von ausländischen Lagerstellen erhalten | 183 |
 | 2. | Dividenden, Erträge aus Genussscheinen und Investmentzertifikaten |  |
 |  | Erträge aus ausländischen Aktien oder Genussscheinen, die von inländischen MFIs vereinnahmt werden | 185 |
-|  | Erträge aus ausländischen Aktien oder Genussscheinen, die von inländischenUnternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt werden | 985 |
+|  | Erträge aus ausländischen Aktien oder Genussscheinen, die von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt werden | 985 |
 |  | Erträge aus inländischen Aktien oder Genussscheinen, die an Ausländer gezahlt werden bzw. die über ausländische Lagerstellen an Inländer gezahlt werden | 285 |
 |  | Erträge auf ausländische Investmentzertifikate, die von inländischen MFIs vereinnahmt werden | 585 |
-|  | Erträge auf ausländische Investmentzertifikate, die von inländischen Unternehmen,Privatpersonen und öffentlichen Haushalten vereinnahmt werden | 885 |
+|  | Erträge auf ausländische Investmentzertifikate, die von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt werden | 885 |
 |  | Erträge auf inländische Investmentanteile, die an Ausländer gezahlt werden bzw. die Inländer von ausländischen Lagerstellen erhalten | 685 |
 | Erträge aus Direktinvestitionen |  |
 | 1. | Erträge aus Aktien |  |
 |  | Erträge aus Anteilen an Aktiengesellschaften, die von inländischen MFIs vereinnahmt oder gezahlt werden | 188 |
-|  | Erträge aus Anteilen an Aktiengesellschaften, die von inländischen Unternehmen undPrivatpersonen vereinnahmt oder gezahlt werden | 288 |
+|  | Erträge aus Anteilen an Aktiengesellschaften, die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden | 288 |
 | 2. | Erträge aus sonstigen Beteiligungen |  |
 |  | Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-Anteilen), die von inländischen MFIs vereinnahmt oder gezahlt werden | 186 |
 |  | Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z.B. GmbH-Anteilen), die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden | 286 |
 |  | Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen MFIs vereinnahmt oder gezahlt werden | 187 |
-|  | Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen Unternehmen undPrivatpersonen vereinnahmt oder gezahlt werden | 287 |
+|  | Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden | 287 |
 | 3. | Zinsen auf Direktinvestitionskredite |  |
 |  | Kredite von Direktinvestoren an Tochterunternehmen: Zinsen aus Kreditgewährungen inländischer Direktinvestoren an deren ausländische Tochterunternehmen sowie Zinsen aus Kreditaufnahmen inländischer Tochterunternehmen von ihren ausländischen Direktinvestoren | 289 |
 |  | Kredite von Tochterunternehmen an Direktinvestoren: Zinsen aus Kreditgewährungen inländischer Tochterunternehmen an deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen inländischer Direktinvestoren von ihren ausländischen Tochterunternehmen | 689 |

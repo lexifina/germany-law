@@ -245,6 +245,8 @@ Orthosiphonblätter und ihre Zubereitungen,
 auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
 als Fertigarzneimittel, registriert als traditionelles pflanzliches Arzneimittel
 nach den §§ 39a bis 39d des Arzneimittelgesetzes
+Oxalsäuredihydratlösung 4,4 Prozent in Kombination mit Ameisensäure 0,5 Prozent
+– zur Behandlung der Varroatose der Bienen –
 Oxalsäuredihydratlösung bis zu einer Konzentration
 von 5,7 Prozent zur Anwendung bei Bienen
 Pappelsalbe

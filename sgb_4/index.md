@@ -268,7 +268,7 @@
 ## Elfter Abschnitt Übergangsvorschriften
 
 - [§ 114 Einkommen beim Zusammentreffen mit Renten wegen Todes](0114.md)
-- [§ 115 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit](0115.md)
+- [§ 115 (weggefallen)](0115.md)
 - [§ 116 Übergangsregelungen für bestehende Wertguthaben](0116.md)
 - [§ 116a Übergangsregelung zur Beitragshaftung](0116a.md)
 - [§ 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner](0117.md)

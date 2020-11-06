@@ -74,10 +74,12 @@ Alitretinoin
 Alizaprid
 Alkuronium-Salze
 N-Alkylatropinium-Salze
+Allogene mesenchymale Stammzellen
+– zur Anwendung bei Tieren –
 Allopurinol
 Allylestrenol
 Almotriptan
-– ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura bei Erwachsenen zwischen 18 und 65 Jahren, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 12,5 mg je abgeteilter Form und in einer Gesamtmenge von 25 mg je Packung –
+– ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 12,5 mg je abgeteilter Form und in einer Gesamtmenge von 25 mg je Packung –
 Alogliptin
 Alprenolol
 Alprostadil
@@ -147,6 +149,7 @@ Antimonverbindungen
 Antithrombin-III
 Aortenklappe vom Schwein, denaturiert
 Apalcillin
+Apalutamid
 Apiol
 Apixaban
 Apomorphin
@@ -407,7 +410,7 @@ L-Carnitin
 Carprofen
 Carteolol
 Carvedilol
-Carzinophillin
+Carzinophilin (Carzinophilin A)
 Caspofungin
 Catalase
 Cefacetril
@@ -621,6 +624,7 @@ Dabigatran und seine Ester
 Dabrafenib
 Dacarbazin
 Daclatasvir
+Dacomitinib
 Dactinomycin
 Dalbavancin und seine Ester
 Dalfopristin
@@ -1026,6 +1030,7 @@ Fluocortin-Butyl
 Fluocortolon und seine Ester
 Fluorescein
 – zur parenteralen Anwendung –
+– zur Anwendung bei Tieren –
 Fluoride, lösliche,
 - sofern nicht auf Behältnissen und äußeren Umhüllungen eine Tagesdosis angegeben ist, die einem Fluorgehalt bis zu 2 mg entspricht -
 - ausgenommen in Zubereitungen als Gel zur lokalen Anwendung an den Zähnen in Packungsgrößen bis zu 25 g, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene und Kinder ab dem vollendeten 6. Lebensjahr sowie auf eine einmalige Dosis pro Woche, die einem Fluorgehalt bis zu 7 mg entspricht, beschränkt ist -
@@ -1099,6 +1104,7 @@ Gepefrin
 Gestoden
 Gestonoron
 Gewebetransplantate, humane allogene und Produkte aus Gewebezüchtungen
+Gilteritinib
 Gitoformat
 Glafenin
 Glatiramer
@@ -1216,7 +1222,7 @@ Ibuprofen
 – ausgenommen zum äußeren Gebrauch als Pflaster ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Wirkstoffmenge bis zu 200 mg Ibuprofen je abgeteilter Arzneiform –
 – ausgenommen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 400 mg je abgeteilter Form und in einer Tagesdosis bis zu 1 200 mg bei leichten bis mäßig starken Schmerzen und Fieber –
 – ausgenommen in festen Zubereitungen zur rektalen Anwendung als Monopräparate in Einzeldosen bis 10 mg/kg Körpergewicht (bis zu einer maximalen Einzeldosis von 600 mg je abgeteilter Form) und in einer Tagesdosis bis zu 30 mg/kg Körpergewicht (bis zu einer maximalen Tagesdosis von 1 800 mg) bei leichten bis mäßig starken Schmerzen und Fieber –
-– ausgenommen zur oralen Anwendung in flüssigen Zubereitungen ohne Zusatz weiterer arzneilich wirksamer Bestandteile für Erwachsene und Kinder ab 6 Monaten in Einzeldosen bis zu 10 mg/kg Körpergewicht (bis zu einer maximalen Tagesdosis von 1 200 mg) bei leichten bis mäßig starken Schmerzen und Fieber –
+– ausgenommen zur oralen Anwendung in flüssigen Zubereitungen ohne Zusatz weiterer arzneilich wirksamer Bestandteile für Erwachsene und Kinder ab 3 Monaten in Einzeldosen bis zu 10 mg/kg Körpergewicht (bis zu einer maximalen Tagesdosis von 1 200 mg) bei leichten bis mäßig starken Schmerzen und Fieber –
 – ausgenommen zur oralen Anwendung in Dosen bis maximal 400 mg je abgeteilter Form und in einer maximalen Tagesdosis von 1 200 mg, zur rektalen Anwendung in festen Zubereitungen als Monopräparate in Einzeldosen bis 10 mg/kg Körpergewicht bis zur maximalen Einzeldosis von 600 mg je abgeteilter Form und bis zur maximalen Tagesdosis von 30 mg/kg Körpergewicht bzw. 1 800 mg, zur Behandlung der akuten Kopfschmerzphase bei Migräne mit oder ohne Aura –
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Pseudoephedrinhydrochlorid (in maximaler Einzeldosis von 60 mg und in einer maximalen Tagesdosis von 180 mg) mit einer Wirkstoffmenge von insgesamt bis zu 720 mg Pseudoephedrin und 4 800 mg Ibuprofen pro Packung, zur Behandlung der akuten Rhinosinusitis im Zusammenhang mit weiteren Erkältungssymptomen (wie z. B. Fieber und Schmerzen) –
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Coffein (in maximaler Einzeldosis von 100 mg und in einer maximalen Tagesdosis von 300 mg), zur Behandlung von akuten mäßig starken Schmerzen bei Erwachsenen –
@@ -1340,6 +1346,8 @@ Lacidipin
 Lacosamid
 Lactobacillus salivarius
 Lactucavirosa-Zubereitungen
+Lactulose
+– zur Anwendung bei Hunden und Katzen –
 Lamivudin
 Lamotrigin
 Landiolol
@@ -1347,6 +1355,7 @@ Lanreotid
 Lansoprazol
 Lapatinib
 Laronidase
+Larotrectinib und seine Ester
 Lasofoxifen und seine Ester
 Latamoxef
 Latanoprost
@@ -1395,7 +1404,7 @@ Liraglutid
 Lisinopril
 Lisurid
 Lithium
-- zur Behandlung von Geisteskrankheiten und Psychosen -
+– zur Prophylaxe und Behandlung von psychiatrischen Erkrankungen (z. B. bipolaren Störungen, Depressionen) und Cluster-Kopfschmerzen –
 Lixisenatid
 Lobeliae herba und seine Zubereitungen
 - ausgenommen zum Rauchen und Räuchern -
@@ -1410,6 +1419,7 @@ Loperamid
 Loperamidoxid
 Loracarbef
 Lorcainid
+Lorlatinib
 Lornoxicam
 Losartan
 Loteprednol
@@ -1626,13 +1636,15 @@ Naltrexon
 Naproxen
 - ausgenommen in festen Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 250 mg je abgeteilter Form und in einer Tagesdosis bis zu 750 mg und in einer Packungsgröße bis zu 7 500 mg zur Anwendung bei Erwachsenen und Kindern ab 12 Jahren bei leichten bis mäßig starken Schmerzen und Fieber -
 Naratriptan
-– ausgenommen zur Behandlung des Migränekopfschmerzes bei Erwachsenen zwischen 18 und 65 Jahren, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen bis 2,5 mg je abgeteilter Form und in einer Gesamtmenge von 5 mg je Packung –
+– ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen bis 2,5 mg je abgeteilter Form und in einer Gesamtmenge von 5 mg je Packung –
 Natamycin
 - ausgenommen zum äußeren Gebrauch -
 Nateglinid
 Natriumaurothiomalat
 Natrium-Goldchlorid
 Natriumnitrit
+Natriumthiosulfat
+– als Antidot –
 Natriumzirconiumhydrogencyclohexasilicat-Hydrat (3:2:1:1:x)
 Nebivolol
 Nedocromil
@@ -1646,6 +1658,8 @@ Neodym-3-sulfoisonicotinat
 Neomycin
 Neostigmin-Salze
 Nepafenac
+Neratinib
+Netarsudil
 Netilmicin
 Netupitant
 Nevirapin
@@ -1830,6 +1844,7 @@ Peginterferon alfa-2a
 Peginterferon alfa-2b
 Peginterferon beta-1a
 Pegloticase
+Pegvaliase
 Pegvisomant
 Pemetrexed
 Penbutolol
@@ -1880,7 +1895,8 @@ Phensuximid
 Phentolamin
 Phenylbutazon
 Phenylephrin
-- zur Anwendung am Auge, ausgenommen in flüssigen Zubereitungen bis zu 2,5% -
+– zur Anwendung am Auge, ausgenommen in flüssigen Zubereitungen bis zu einer Konzentration von 2,5 Prozent –
+– zur parenteralen Anwendung –
 ((Phenyl)(piperidin-2-yl)methyl)acetat
 Phenylpropanolamin
 - zur Behandlung des ernährungsbedingten Übergewichts -
@@ -2139,6 +2155,7 @@ Romifidin
 Romiplostim
 Ronidazol
 - zur Anwendung bei Tieren -
+Ropeginterferon alfa-2b
 Ropinirol
 Ropivacain
 Rosiglitazon
@@ -2221,6 +2238,7 @@ Somatostatin
 Somatropin
 Sonidegib
 Sorafenib
+Sotagliflozin und seine Ester
 Sotalol
 Spagluminsäure
 - zur Behandlung der saisonalen Rhinitis -
@@ -2272,6 +2290,7 @@ Sulproston
 Sultamicillin
 Sultiam
 Sumatriptan
+– ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 50 mg je abgeteilter Form und in einer Gesamtmenge von 100 mg je Packung –
 Sunitinib
 Suramin-Natrium
 Suxamethonium-Salze
@@ -2284,6 +2303,7 @@ Tadalafil
 Tafamidis und seine Ester
 Tafluprost
 Talastin
+Talazoparib
 Talimogen laherparepvec
 Talinolol
 Tamoxifen
@@ -2499,6 +2519,7 @@ Ulipristal und seine Ester
 – ausgenommen Ulipristalacetat in Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 30 mg Wirkstoff je abgeteilter Arzneiform und in Packungen mit einem maximalen Wirkstoffgehalt von 30 mg zur Notfallkontrazeption –
 Umeclidinium
 Unoproston-Isopropyl
+Upadacitinib
 Urapidil
 Urethan
 Urofollitropin
@@ -2548,6 +2569,7 @@ Viomycin
 Viquidil
 Virginiamycin
 Vismodegib
+Volanesorsen
 Vorapaxar
 Voriconazol
 Vortioxetin
@@ -2616,11 +2638,6 @@ und
 Flunixin
 — zur Anwendung bei Tieren —
 Zubereitung aus
-Flumethrin
-und
-Imidacloprid
-– zur Anwendung bei der Katze –
-Zubereitung aus
 Fluralaner
 und
 Moxidectin
@@ -2630,11 +2647,6 @@ Gimeracil,
 Oteracil und seinen Estern
 und
 Tegafur
-Zubereitung aus
-Imidacloprid
-und
-Permethrin
-- zur Anwendung bei Hunden -
 Zubereitung aus
 Indoxacarb
 und
@@ -2665,11 +2677,6 @@ Zubereitung aus
 Metaflumizon
 und
 Amitraz
-Zubereitung aus
-Methopren
-und
-Fipronil
-- zur Anwendung bei Hunden und Katzen -
 Zubereitung aus
 Milbemycinoxim,
 Lufenuron
