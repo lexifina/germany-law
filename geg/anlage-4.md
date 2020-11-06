@@ -1,0 +1,19 @@
+# Anlage 4 (zu § 22 Absatz 1)Primärenergiefaktoren
+
+| Nummer | Kategorie | Energieträger | Primärenergiefaktoren nicht erneuerbarer Anteil |
+| 1 | Fossile Brennstoffe | Heizöl | 1,1 |
+| 2 | Erdgas | 1,1 |
+| 3 | Flüssiggas | 1,1 |
+| 4 | Steinkohle | 1,1 |
+| 5 | Braunkohle | 1,2 |
+| 6 | Biogene Brennstoffe | Biogas | 1,1 |
+| 7 | Bioöl | 1,1 |
+| 8 | Holz | 0,2 |
+| 9 | Strom | netzbezogen | 1,8 |
+| 10 | gebäudenah erzeugt (aus Photovoltaik oder Windkraft) | 0,0 |
+| 11 | Verdrängungsstrommix für KWK | 2,8 |
+| 12 | Wärme, Kälte | Erdwärme, Geothermie, Solarthermie, Umgebungswärme | 0,0 |
+| 13 | Erdkälte, Umgebungskälte | 0,0 |
+| 14 | Abwärme | 0,0 |
+| 15 | Wärme aus KWK, gebäudeintegriert oder gebäudenah | nach Verfahren B gemäßDIN V 18599-9: 2018-09Abschnitt 5.2.5 oderDIN V 18599-9: 2018-09Abschnitt 5.3.5.1 |
+| 16 | Siedlungsabfälle | 0,0 |
