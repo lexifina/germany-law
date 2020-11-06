@@ -85,7 +85,7 @@ im Deutschen Bundestag
 - [§ 49b Staatliche Mittel für andere Kreiswahlvorschläge](0049b.md)
 - [§ 50 Wahlkosten](0050.md)
 - [§ 51 (weggefallen)](0051.md)
-- [§ 52 Bundeswahlordnung](0052.md)
+- [§ 52 Erlass von Rechtsverordnungen](0052.md)
 - [§ 53 Übergangsregelung](0053.md)
 - [§ 54 Fristen, Termine und Form](0054.md)
 - [§ 55](0055.md)

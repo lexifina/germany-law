@@ -71,7 +71,7 @@
 | § 49b | Staatliche Mittel für andere Kreiswahlvorschläge |
 | § 50 | Wahlkosten |
 | § 51 | (weggefallen) |
-| § 52 | Bundeswahlordnung |
+| § 52 | Erlass von Rechtsverordnungen |
 | § 53 | Übergangsregelung |
 | § 54 | Fristen, Termine und Form |
 | § 55 | (Inkrafttreten) |
