@@ -1,1 +1,1 @@
-# Bremisches Landesmediengesetz (BremLMG) vom 8. Mai 2018
+# Bremisches Landesmediengesetz (BremLMG) in der Fassung der Bekanntmachung vom 12. Januar 2021

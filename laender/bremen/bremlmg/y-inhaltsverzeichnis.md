@@ -73,9 +73,9 @@ Abschnitt 8 Datenschutz
 § 59 | Datenschutzkontrolle
 Abschnitt 9 Bußgeld-, Übergangs- und Schlussvorschriften
 § 60 | Ordnungswidrigkeiten
-§ 61 | Ausführungsbestimmung zu § 35 des Rundfunkstaatsvertrages
-§ 62 | Aufsicht bei Telemedien
+§ 61 | Ausführungsbestimmung zu § 104 des Medienstaatsvertrages
+§ 62 | Datenschutzaufsicht bei Telemedien
 § 63 | Zuständigkeit bei Ordnungswidrigkeiten
 § 64 | Übergangsvorschrift
 § 65 | Überprüfungsklausel
-§ 66 | Inkraftreten, Außerkrafttreten
+§ 66 | Inkrafttreten, Außerkrafttreten
