@@ -1,0 +1,8 @@
+# TOP 5: Beschluss zur Verwendung der restlichen Verfügungsmittel 2020 des Ortschaftsrates Altfranken
+
+- Sitzung: 14. Sitzung des Ortschaftsrates Altfranken (2020-11-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/140839
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/46454
