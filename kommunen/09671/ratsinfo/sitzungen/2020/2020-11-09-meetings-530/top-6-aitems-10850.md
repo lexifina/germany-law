@@ -1,0 +1,8 @@
+# TOP 6: Vorstellung Projekt zur Prävention und Bildungsarbeit im Kreisjugendring (KJR) - Einrichtung einer pädagogischen Stelle (0,5) - Beschluss
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2020-11-09)
+- Körperschaft: Landkreis Aschaffenburg
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/agendaitems/10850
+- Ergebnis: Abstimmungsergebnis:
+- Beratung: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/consultations/1514
