@@ -1,0 +1,65 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-10T16:00:00+01:00
+- Ende: 2020-11-10T19:23:00+01:00
+- Ort: Abweichender Sitzungsort! Goethe-Gymnasium, Aula Lindemannstraße 57
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18868
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18868
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395537.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395537.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395537.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung des Schriftführers - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters - beschlossen
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Genehmigung der Niederschrift SI-BV2/06/2020 vom 01.09.2020 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 7: Rederecht der Mitglieder des Seniorenrates - einstimmig beschlossen
+- TOP 8: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Bebauungplan-Entwurf Nr. 02/010 - Östl. Hanielpark/Sohnstraße - Empfehlung abweichend beschlossen
+- TOP 12: Städtebaulicher Wettbewerb - Metro Campus - Empfehlung abweichend beschlossen
+- TOP 13: Sohnstraße 45 (Telekom) - Beschluss zur Durchführung einer Öffentlichkeitsbeteiligung vor einem Wettbewerbsverfahren - Empfehlung abweichend beschlossen
+- TOP -: Anträge
+- TOP 14: Bezirksbezogene Haushaltsmittel – Ausstellung ANATOL/AKTIONIST des WELTKUNSTZIMMER e.V. - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel für das Kulturbüro Weltkunstzimmer zur Unterstützung der Ausstellung ANATOL/AKTIONIST - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 16: Bezirksbezogene Haushaltsmittel für die Ausstellung Anatol im Weltkunstzimmer - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 17: Zuwendungsantrag des Café Kausal - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel für die Konzertreihe im Café Kausal - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 19: Bezirksbezogene Haushaltsmittel für Konzerte im Café Kausal - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 20: Bezirksbezogene Haushaltsmittel – 60 neue Stühle für KABAWIL e.V. - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 21: Bezirksbezogene Haushaltsmittel für Kabawil e. V. - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 22: Bezirksbezogene Haushaltsmittel für Klappstühle für Kabawil - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 23: Müllbehälter auf dem „Dorfplatz“ der Kiefernstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 29: Berechnung von Fahrradstellplätzen im Rahmen der Verkehrswende - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Abbiegemöglichkeit/Linksabbieger von der Kettwiger Straße in den Höherweg Richtung Automeile - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 32: Änderung der Praxis bei der Parkraumüberwachung im Stadtbezirk 2 - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 33: Neue Fußgängerquerung Bruchstraße (bei REWE) - schriftlich beantwortet
+- TOP 34: Gefahrenstelle Werdener Straße / Fichtenstraße - Anfrage der SPD-Fraktion
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 36: Sitzungstermine 2021 - zur Kenntnis genommen
+- TOP 37: Ab- und Zufahrten der Toulouser Allee im Bereich Grunerstraße - Beschluss der Bezirksvertretung 2, Vorlage 172/ 53/2019 - zur Kenntnis genommen
+- TOP 38: Zufahrt Recyclinghof Flingern während des Neubaus der Müllverbrennung - Beschluss der Bezirksvertretung 2, Vorlage BV2/131/2020 - zur Kenntnis genommen
+- TOP 39: Abstellmöglichkeiten für Lastenräder - Beschluss der Bezirksvertretung 2, Vorlage BV2/144/2020 - zur Kenntnis genommen
+- TOP 40: Ampelphasen Herder- zur Lindemann- und als Verlängerung Richtung Graf-Recke-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/117/2020 - zur Kenntnis genommen
+- TOP 41: Beleuchtung Bolzplatz Hermannplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/141/2020 - zur Kenntnis genommen
+- TOP 42: Baumpflanzung auf der Platanenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/ 138/2020 - zur Kenntnis genommen
+- TOP 43: Zufahrt zum Fahrradparkplatz am Allwetterbad; Absenkung des Bordsteins an der Fahrradausfahrt des Allwetterbads, Beschlüsse der Bezirksvertretung 2, Vorlagen BV2/137/2020 u. BV2/119/2020 - zur Kenntnis genommen
+- TOP 44: Baumpflanzungen Grafental - Beschluss der Bezirksvertretung 2, Vorlage BV2/ 139/2020 - zur Kenntnis genommen
