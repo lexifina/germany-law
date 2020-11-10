@@ -1,0 +1,75 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-10T17:00:00+01:00
+- Ende: 2020-11-10T18:30:00+01:00
+- Ort: Marie-Curie-Gymnasium, Pädagogisches Zentrum, Gräulinger Straße 15
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18997
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18997
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390645.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390645.pdf
+- Wortprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390645.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 2: Wahl Bezirksbürgermeister*in und Stellvertreter*innen
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung 7
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Senioren) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6.3: Verlängerung der Laufzeit des Weihnachtsmarktes auf dem Gerricusplatz - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 6.4: Verwendung von Haushaltsmitteln - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Städtebaulicher Wettbewerb - Metro Campus - abweichend beschlossen
+- TOP 6.7: Zuschuss an den Rochusclub Düsseldorf e.V. - einstimmig beschlossen
+- TOP 6.8: Sportanlage Dreherstr. - Erneuerung des Kunstrasenbelags - - einstimmig beschlossen
+- TOP 6.9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6.10: Beschaffung von Raumlüftungsgeräten - einstimmig beschlossen
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Umstellung von Parkbänken am Wallgraben und Austausch der Abfallbehälter - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 7.3: Geschwindigkeitsanzeige Sichelstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 7.4: Pilotprojekt Sonntagsöffnung Stadtbücherei Gerresheim - Antrag der Franktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 8: Anfragen aus vorherigen Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Quadenhofstraße = Fahrradstraße? - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 8.6: Hinterhofbebauung Ludenberger Straße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 8.7: Renovierung Stadtbücherei Gerresheim - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: On-Demand Busverkehre im Bezirk 7 - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Blühwiesen für Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 10.2: Unterführung Staufenplatz herrichten - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 10.3: Fahrradfahren auf dem Bürgersteig Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 10.4: Sicherung des Grafenberger Waldes - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2017 - - zur Kenntnis genommen
+- TOP 10.5: Abfallbehälter Grünstreifen an der Alten Insel - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 10.6: Fahrräder an der Gutenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.7: Kreuzung Simrockstaße - Vautierstraße - Informationsvolrage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 10.8: Kleidercontainer Apostelplatz - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.9: Info-Bildschirm am Gerresheimer S-Bahnhof - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 10.10: Gaslaternen Dornaper Straße, Regenbergastraße und Heckteichstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.11: Gestaltung Märkisiche Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.12: Pferdetränke - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 10.13: Handlungskonzept zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 10.14: Nachbesserung Umgestaltung Spielplatz Hülsmeyerstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.15: Hundeauslaufplatz Brombeerhügel Neubaugebiet Hallesche Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.16: Wanderweg Sauerhof - Erkrather Landstraße, Hubbelrath - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.17: Parkfläche Hardtstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.18: Waldfriedhof Gerresheim, Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.19: Befestigung der Wege am Pillebach - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 10.20: Neue Flächen für Kunst und Kultur - Camelot-Lösung anstreben - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 10.21: Sachstandsbericht Breitbandausbau in Ludenberg/Hubbelrath - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 10.22: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Informationsvorlage zum Beschluss der BV 7 vom 26.11.2019 - - zur Kenntnis genommen
+- TOP 10.23: Planungsstand ehemaliges Seniorenzentrum Am Gallberg, Blanckertzstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
