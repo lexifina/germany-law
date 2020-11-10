@@ -1,0 +1,53 @@
+# 1. Sitzung des Ausschusses für soziale Angelegenheiten
+
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Beginn: 2020-11-10T09:00:00+01:00
+- Ende: 2020-11-10T11:27:00+01:00
+- Ort: Sitzungssaal des Landratsamtes in Erlangen, im Erdgeschoss, Raum-Nr. 0.29, Nägelsbachstr. 1, 91052 Erlangen
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/organizations/gr/8
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/537
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/537
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Wortprotokoll: Niederschrift ASA 10.11.2020 (MI, BI, GI) mit Anlagen https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/downloadfiles/a/00031295.pdf
+
+## Tagesordnung
+
+- TOP 1: Fortschreibung Seniorenpolitisches Gesamtkonzept Teilbericht 1: Bestands- und Bedarfsermittlung Pflege und pflegerische Versorgung - zur Kenntnis genommen
+- TOP 2: Tätigkeitsbericht des Jobcenters - zur Kenntnis genommen
+- TOP 3: Neufassung der Satzung für den Seniorenbeirat des Landkreises Erlangen-Höchstadt und Umbesetzung - Mehrfachbeschluss
+- TOP 4: Information des staatlichen Landratsamtes über die Unterbringung von Asylbewerberinnen und Asylbewerbern im Landkreis - zur Kenntnis genommen
+- TOP 5: Anträge auf Kreiszuschüsse;
+- TOP 5.1: Netzwerk Hospiz- und Palliativversorgung Erlangen und Erlangen-Höchstadt (NetHPV) - einstimmig beschlossen
+- TOP 5.2: Koordinierungsstelle von Dolmetscherleistungen im Rahmen des Förderprogrammes "Asyl-, Migrations- und Integrationsfonds (AMIF)" durch die bfz gGbmH, Außenstelle Erlangen - vertagt
+- TOP 5.3: Anträge auf Kreiszuschüsse; Kontaktstelle für Arbeitslose - einstimmig beschlossen
+- TOP 5.4: Anträge auf Kreiszuschüsse; Frauennotruf Erlangen - einstimmig beschlossen
+- TOP 5.5: Anträge auf Kreiszuschüsse; Verein zum Schutz misshandelter Frauen e. V. für die Interventionsstelle Erlangen - einstimmig beschlossen
+- TOP 5.6: Anträge auf Kreiszuschüsse; Offene Tür Erlangen e. V. - einstimmig beschlossen
+- TOP 5.7: Anträge auf Kreiszuschüsse; Frauenzentrum Erlangen e. V. - einstimmig beschlossen
+- TOP 5.8: Anträge auf Kreiszuschüsse; Bayerisches Rotes Kreuz - Kreisverband Erlangen-Höchstadt für die Altenhilfe und die Verbandstätigkeit - einstimmig beschlossen
+- TOP 5.9: Arbeiterwohlfahrt - KV Erlangen-Höchstadt e. V. für die
+- TOP 5.9.1: Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 5.9.2: Förderung der Altenhilfe und der allgemeinen Verbandstätigkeit - einstimmig beschlossen
+- TOP 5.10: Anträge auf Kreiszuschüsse; Soziale Betriebe der Laufer Mühle gGmbH für den LebensMittelPunkt Höchstadt - einstimmig beschlossen
+- TOP 5.11: Anträge auf Kreiszuschüsse; Diakonieverein Eckental e. V. für die Eckentaler Tafel - Mehrfachbeschluss
+- TOP 6: Anträge auf Kreiszuschüsse;
+- TOP 6.1: Anträge auf Kreiszuschüsse; Paritätischer Wohlfahrtsverband - Bezirksverband Mittelfranken für die Förderung der Altenhilfe und der allgemeinen Verbandstätigkeit - vertagt
+- TOP 6.2: Anträge auf Kreiszuschüsse; Diakonie AKTIV gGmbH für die Familienpflege - vertagt
+- TOP 6.3: Diakonisches Werk Erlangen e. V. für die
+- TOP 6.3.1: Dorfhelferinnen im Landkreis - vertagt
+- TOP 6.3.2: Durchführung der Flüchtlings- und Integrationsberatung - vertagt
+- TOP 6.3.3: Bahnhofsmission Erlangen - vertagt
+- TOP 6.3.4: Erlanger Tafel - vertagt
+- TOP 6.3.5: Förderung der Altenhilfe - vertagt
+- TOP 6.3.6: Förderung der allgemeinen Verbandstätigkeit - vertagt
+- TOP 6.4: Diakonisches Werk Bamberg-Forchheim e. V. für die Flüchtlings- und Integrationsberatung - vertagt
+- TOP 6.5: Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt e. V. für die
+- TOP 6.5.1: Förderung der Altenhilfe - vertagt
+- TOP 6.5.2: Förderung der allgemeinen Verbandstätigkeit - vertagt
+- TOP 6.5.3: Durchführung der Flüchtlings- und Integrationsberatung - vertagt
+- TOP 7: Anträge auf Kreiszuschüsse;
+- TOP 7.1: Anträge auf Kreiszuschüsse; Selbsthilfekontaktstellen Kiss Mittelfranken e. V. - vertagt
+- TOP 7.2: Antrag auf Kreiszuschüsse; Zentrum für Alleinerziehende Grünes S.O.f.A e. V. - vertagt
+- TOP 8: Antrag der SPD-Kreistagsfraktion vom 16.09.2020 auf Errichtung eines Pflegestützpunktes im Landkreis Erlangen-Höchstadt - einstimmig beschlossen
+- TOP 9: Vorberatung des Kreishaushalts 2021 - einstimmig beschlossen
