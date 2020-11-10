@@ -1,0 +1,381 @@
+---
+ecli: "ECLI:DE:BGH:2020:101120IIZR89.19.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-02"
+aktenzeichen: "II ZR 89/19"
+decided: "2020-11-10"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=94&nr=112895&anz=3286&pos=2828&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-02_NA_2020-11-10_II_ZR_89_19_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0362.md", "germany/bund/acts/hgb/0129.md", "germany/bund/acts/hgb/0161.md", "germany/bund/acts/hgb/0166.md", "germany/bund/acts/hgb/0171.md", "germany/bund/acts/hgb/0172.md", "germany/bund/acts/inso/0004.md", "germany/bund/acts/inso/0029.md", "germany/bund/acts/inso/0030.md", "germany/bund/acts/inso/0039.md", "germany/bund/acts/inso/0041.md", "germany/bund/acts/inso/0060.md", "germany/bund/acts/inso/0170.md", "germany/bund/acts/inso/0174.md", "germany/bund/acts/inso/0178.md", "germany/bund/acts/inso/0190.md", "germany/bund/acts/zpo/0253.md", "germany/bund/acts/zpo/0299.md", "germany/bund/acts/zpo/0322.md", "germany/bund/acts/zpo/0559.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md", "germany/bund/acts/zpo/0767.md"]
+---
+
+# Bundesgerichtshof, II ZR 89/19 vom 2020-11-10
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                IM NAMEN DES VOLKES
+
+                            URTEIL
+II ZR 89/19                                    Verkündet am:
+                                               10. November 2020
+                                               Ginter
+                                               Justizangestellte
+                                               als Urkundsbeamtin
+                                               der Geschäftsstelle
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2020:101120UIIZR89.19.0
+
+                                          -2-
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter
+    Prof. Dr. Drescher, die Richter Wöstmann, Born, Dr. Bernau und V. Sander im
+    schriftlichen Verfahren, in dem Schriftsätze bis zum 13. Oktober 2020 eingereicht
+    werden konnten,
+
+
+    für Recht erkannt:
+
+
+             Auf die Revision der Beklagten wird das Urteil des
+             14. Zivilsenats des Oberlandesgerichts München vom
+             28. März 2019 aufgehoben.
+
+             Die Sache wird zur neuen Verhandlung und Entscheidung,
+             auch über die Kosten des Revisionsverfahrens, an das
+             Berufungsgericht zurückverwiesen.
+
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+
+
+1         Der Kläger ist Insolvenzverwalter einer Schiffsfondsgesellschaft in der
+    Rechtsform einer Kommanditgesellschaft (im Folgenden: Schuldnerin), über
+    deren Vermögen mit Beschluss vom 21. Februar 2013 das Insolvenzverfahren
+    eröffnet wurde. Die Beklagte, die mit einer Einlage von 100.000 € als Kommanditistin an der Schuldnerin beteiligt ist, erhielt in den Jahren 2004 bis 2008 gewinnunabhängige Ausschüttungen in Höhe von insgesamt 49.000 €. Im Rahmen
+    eines Sanierungsprogramms zahlte die Beklagte im Jahr 2010 20.000 € an die
+
+                                          -3-
+
+
+
+    Schuldnerin zurück. Der Kläger verlangt von der Beklagten unter dem Gesichtspunkt der teilweisen Rückgewähr der geleisteten Kommanditeinlage die noch
+    offene Differenz in Höhe von 29.000 €.
+
+2         Das Landgericht hat die Klage abgewiesen. Auf die hiergegen gerichtete
+    Berufung des Klägers hat das Berufungsgericht die Beklagte zur Zahlung von
+    29.000 € nebst Zinsen verurteilt. Mit der vom Senat zugelassenen Revision verfolgt die Beklagte ihren Antrag auf Abweisung der Klage weiter.
+
+
+
+
+                                 Entscheidungsgründe:
+
+3         Die Revision der Beklagten hat Erfolg. Sie führt zur Aufhebung des angefochtenen Urteils und zur Zurückverweisung der Sache an das Berufungsgericht.
+
+4         I. Das Berufungsgericht (OLG München, ZInsO 2019, 1277) hat zur
+    Begründung seiner Entscheidung im Wesentlichen ausgeführt:
+
+5         Der Kläger habe dargelegt, dass Gläubigerforderungen in die Haftsumme
+    der Beklagten übersteigender Höhe zur Insolvenztabelle festgestellt seien. Dafür
+    habe eine vom Kläger selbst geführte Tabelle genügt. Überdies sei zwischenzeitlich eine Kopie der gerichtlichen Insolvenztabelle vorgelegt worden. Festgestellten Gläubigerforderungen in Höhe von zuletzt rund 11.500.000 € stehe eine
+    Masse von rund 4.500.000 € gegenüber. Die für den Ausfall festgestellten Forderungen seien in voller Höhe zu berücksichtigen. Erst die Abrechnung durch
+    den Gläubiger führe zu einer Verminderung der Forderungen. Einwendungen gegen die Forderungen könnten aufgrund von deren widerspruchsloser Feststellung nicht geltend gemacht werden. Selbst wenn man unterstellen würde, dass
+    über die genannten Kontoguthaben hinaus noch ein Schiffserlös in Höhe von ca.
+    6.000.000 € von den für den Ausfall festgestellten Forderungen abzuziehen
+
+                                          -4-
+
+
+
+    wäre, überstiege die verbleibende Forderungshöhe das Masseguthaben noch
+    immer um fast 1.000.000 €.
+
+6          Die Beklagte habe nicht dargelegt, dass ihre Inanspruchnahme nicht mehr
+    erforderlich sei. Es könne offenbleiben, ob Kommanditisten für Masseverbindlichkeiten hafteten. Aus dem unwidersprochenen Vortrag des Klägers, er habe bis
+    zum 3. Mai 2017 von Kommanditisten Zahlungen in Höhe von 5.770.544,75 €
+    erhalten und das Guthaben der Insolvenzmasse betrage aktuell 3.928.910,39 €,
+    ergebe sich zwangsläufig, dass der Kläger rund 1.850.000 € nicht zur Befriedigung der in der Insolvenztabelle enthaltenen Ansprüche der Gläubiger in der Insolvenzmasse zurückbehalten, sondern sie für anderweitige Zwecke des Insolvenzverfahrens, die ja nur in der Erfüllung von Masseverbindlichkeiten bestehen
+    könnten, verwendet habe. Diese anderweitig verwendeten Mittel seien nicht (fiktiv) den zur Gläubigerbefriedigung zur Verfügung stehenden Mitteln hinzuzurechnen. Die Klärung komplexer und umstrittener Fragen, ob und für welche Forderungen ein Kommanditist hafte, würde eine zügige Abwicklung des Insolvenzverfahrens gefährden. Dem Umstand, dass die aktiven Mittel nicht zur Gläubigerbefriedigung ausreichten, gebühre Vorrang vor den Interessen des Kommanditisten. Dies sei dem Kommanditisten wegen der Haftung des Insolvenzverwalters
+    gem. § 60 InsO auch zumutbar.
+
+7          II. Diese Ausführungen halten einer rechtlichen Nachprüfung nicht in jeder
+    Hinsicht stand.
+
+8          1. Das Berufungsgericht hat zu Recht angenommen, dass der Kläger den
+    Klagegrund entsprechend den Anforderungen des § 253 Abs. 2 Nr. 2 ZPO bezeichnet und die Forderungen der Gesellschaftsgläubiger hinreichend substantiiert dargelegt hat.
+
+                                           -5-
+
+
+
+9          Zutreffend ist das Berufungsgericht davon ausgegangen, dass der
+     Klageanspruch durch Bezugnahme auf die vom Kläger vorgelegte Insolvenztabelle hinreichend individualisiert ist (vgl. BGH, Urteil vom 20. Februar 2018
+     - II ZR 272/16, BGHZ 217, 327 Rn. 15, 17). Dass die angemeldeten Forderungen
+     dort nur schlagwortartig (z.B. "Warenlieferung", "Dienstleistung" o.ä.) ohne
+     Bezugnahme auf eine konkrete Berechnung oder einen Leistungszeitraum bezeichnet wurden, steht einer hinreichenden Individualisierung nicht entgegen
+     (BGH, Urteil vom 21. Juli 2020 - II ZR 175/19, ZIP 2020, 1869 Rn. 11 mwN). Für
+     eine Individualisierung des Klageanspruchs im Sinne von § 253 Abs. 2 Nr. 2 ZPO
+     kommt es nicht darauf an, ob der maßgebende Lebenssachverhalt bereits in der
+     Klageschrift vollständig beschrieben oder der Klageanspruch schlüssig und substantiiert dargelegt worden ist. Vielmehr ist es im Allgemeinen ausreichend, wenn
+     der Anspruch als solcher identifizierbar ist, indem er durch seine Kennzeichnung
+     von anderen Ansprüchen so unterschieden und abgegrenzt wird, dass er Grundlage eines der materiellen Rechtskraft fähigen Vollstreckungstitels sein kann
+     (BGH, Urteil vom 16. November 2016 - VIII ZR 297/15, MDR 2017, 295 Rn. 12
+     mwN; Urteil vom 25. Juni 2020 - IX ZR 47/19, ZIP 2020, 1561 Rn. 22; Urteil vom
+     21. Juli 2020 - II ZR 175/19, ZIP 2020, 1869 Rn. 11). Dabei genügt eine konkrete
+     Bezugnahme auf der Klageschrift beigefügte Anlagen (BGH, Urteil vom 17. März
+     2016 - III ZR 200/15, WM 2016, 2136 Rn. 19 mwN; Urteil vom 21. Juli 2020
+     - II ZR 175/19, ZIP 2020, 1869 Rn. 11).
+
+10         Diesen Voraussetzungen entspricht die Darlegung des Klägers zu dem
+     der Klage zugrundeliegenden tatsächlichen Geschehen. Der Kläger hat die gerichtliche Insolvenztabelle vorgelegt, die durch Kennzeichnung der Forderungen
+     mit laufender Nummer, Gläubiger und Betrag auf die Forderungsanmeldungen
+     nach § 174 Abs. 1 und Abs. 2 InsO im Insolvenzverfahren Bezug nimmt. Damit
+     sind die einzelnen Forderungsbeträge zugeordnet und der Klagegegenstand
+
+                                           -6-
+
+
+
+     auch im Hinblick auf die materielle Rechtskraft (§ 322 Abs. 1 ZPO) eines späteren Urteils in dieser Sache ausreichend individualisiert (vgl. BGH, Urteil vom
+     21. Juli 2020 - II ZR 175/19, ZIP 2020, 1869 Rn. 12 mwN).
+
+11         2. Im Ergebnis nicht zu beanstanden ist die Feststellung des Berufungsgerichts, dass Forderungen von Gesellschaftsgläubigern mindestens in Höhe der
+     Klageforderung bestanden haben. Das Berufungsgericht hat weder die Anforderungen an die Darlegungslast des Klägers verkannt noch hat es das Bestreiten
+     der Gläubigerforderungen durch die Beklagte zu Unrecht als unbeachtlich angesehen. Soweit das Berufungsgericht den Einwand der teilweisen Erfüllung der
+     Gläubigerforderung durch Auskehr des Erlöses aus dem Verkauf des zweiten
+     Fondsschiffs vor Abrechnung des Gläubigers rechtsfehlerhaft für unerheblich erachtet hat, trägt die Hilfsbegründung des Gerichts, auch bei Berücksichtigung
+     des Erlöses bestünden Gläubigerforderungen in Höhe von ca. 5.500.000 €, die
+     die Klageforderung übersteigen.
+
+12         a) Eine Partei genügt ihrer Darlegungslast, wenn sie Tatsachen vorträgt,
+     die in Verbindung mit einem Rechtssatz geeignet sind, das geltend gemachte
+     Recht als in ihrer Person entstanden erscheinen zu lassen (BGH, Urteil vom
+     25. Juli 2005 - II ZR 199/03, ZIP 2005, 1738, 1740 mwN; Beschluss vom
+     9. Februar 2009 - II ZR 77/08, WM 2009, 1154 Rn. 4). Zur Darlegung der Gläubigerforderungen, für die der Kommanditist gemäß § 171 Abs. 1, § 172 Abs. 4
+     HGB haftet, ist es ausreichend, wenn der Insolvenzverwalter, der während des
+     Insolvenzverfahrens über das Vermögen der Gesellschaft das den Gesellschaftsgläubigern nach § 171 Abs. 1 HGB zustehende Recht ausübt, die Insolvenztabelle vorlegt mit festgestellten Forderungen, die nicht aus der Insolvenzmasse
+     befriedigt werden können (BGH, Beschluss vom 18. Oktober 2011 - II ZR 37/10,
+     juris Rn. 9; Urteil vom 20. Februar 2018 - II ZR 272/16, BGHZ 217, 327 Rn. 15;
+     jeweils mwN; Urteil vom 21. Juli 2020 - II ZR 175/19, ZIP 2020, 1869 Rn. 14).
+
+                                           -7-
+
+
+
+13         Zu Unrecht meint die Revision, die Vorlage der Insolvenztabelle genüge
+     hier zur Darlegung nicht, da der Kommanditist keine Möglichkeit mehr gehabt
+     habe, Informationsrechte geltend zu machen und auf Widersprüche hinzuwirken,
+     weil über das Vermögen der Komplementärin ebenfalls das Insolvenzverfahren
+     eröffnet worden und diese aufgelöst sei. Die Einwirkungsmöglichkeiten des
+     Gesellschafters auf die Komplementärin spielen für die Darlegung der Gläubigerforderungen durch den Kläger keine Rolle (vgl. BGH, Urteil vom 20. Februar 2018
+     - II ZR 272/16, BGHZ 217, 327 Rn. 15, 19 ff.).
+
+14         Die erklärungsbelastete Partei hat - soll ihr Vortrag beachtlich sein - auf
+     die Behauptungen ihres Prozessgegners grundsätzlich "substantiiert", d.h. mit
+     näheren Angaben, zu erwidern. Ein substantiiertes Vorbringen kann grundsätzlich nicht pauschal bestritten werden. Eine nähere Stellungnahme zu den Forderungen, die in der Insolvenztabelle festgestellt wurden, ist der Beklagten auch
+     möglich. Die erforderlichen Informationen kann sie von der Schuldnerin einfordern. Im Insolvenzverfahren richtet sich der Informationsanspruch des Kommanditisten nach § 166 Abs. 1 HGB, der während der laufenden Insolvenz gegen den
+     Insolvenzverwalter der Kommanditgesellschaft geltend zu machen ist. Zusätzlich
+     kann sie um Akteneinsicht nach § 4 InsO i.V.m. § 299 Abs. 2 ZPO ersuchen
+     (BGH, Urteil vom 20. Februar 2018 - II ZR 272/16, BGHZ 217, 327 Rn. 20 mwN;
+     Urteil vom 21. Juli 2020 - II ZR 175/19, ZIP 2020, 1869 Rn. 15).
+
+15         Das Bestreiten der Gläubigerforderungen ist unbeachtlich, wenn dem
+     Kommanditisten Einwendungen aufgrund der Wirkungen der widerspruchslosen
+     Feststellung der Forderungen in der Insolvenztabelle nach § 129 Abs. 1, § 161
+     Abs. 2 HGB abgeschnitten sind. Die Feststellung der Forderung zur Insolvenztabelle hat für den Insolvenzverwalter und die Gläubiger gemäß § 178 Abs. 3 InsO
+
+                                           -8-
+
+
+
+     die Wirkung eines rechtskräftigen Urteils und beschränkt grundsätzlich die Einwendungsmöglichkeiten des Kommanditisten (BGH, Urteil vom 20. Februar 2018
+     - II ZR 272/16, BGHZ 217, 327 Rn. 21 ff.).
+
+16         Eine Verletzung des Rechts des Beklagten auf Gewährung rechtlichen
+     Gehörs im Hinblick auf die Möglichkeit zur Teilnahme am Prüftermin und zur Erhebung eines Widerspruchs ist im vorliegenden Fall nicht ersichtlich und gebietet
+     keine einschränkende Auslegung der § 129 Abs. 1, § 161 Abs. 2 HGB. Das Insolvenzverfahren über das Vermögen der Schuldnerin ist vor dem Insolvenzverfahren über das Vermögen der Komplementär-GmbH eröffnet worden. Die Bestimmung des Termins zur Prüfung der angemeldeten Forderungen nach § 29
+     Abs. 1 Nr. 2 InsO ist damit nicht nur öffentlich bekannt gemacht, sondern der
+     Komplementär-GmbH als Vertreterin der Schuldnerin gemäß § 30 Abs. 2 InsO
+     mit dem Eröffnungsbeschluss zugestellt worden. Dies müssen die Schuldnerin
+     und deren Gesellschafter gegen sich gelten lassen (BGH, Urteil vom 20. Februar
+     2018 - II ZR 272/16, BGHZ 217, 327 Rn. 38). Darauf, wann der Prüfungstermin
+     stattfand, kommt es entgegen der Revision nicht an. Der Kommanditist hat erforderlichenfalls auf einen Widerspruch durch den Insolvenzverwalter hinzuwirken
+     (BGH, Urteil vom 20. Februar 2018 - II ZR 272/16, BGHZ 217, 327 Rn. 34).
+
+17         Diese Grundsätze gelten auch für die persönliche Forderung eines absonderungsberechtigten Gläubigers, die "für den Ausfall" oder "in Höhe des nachzuweisenden Ausfalls" festgestellt wurde (BGH, Urteil vom 21. Juli 2020
+     - II ZR 175/19, ZIP 2020, 1869 Rn. 16). Diese Beschränkung deutet nur auf das
+     nach § 52 Satz 2, § 190 InsO eingeschränkte Recht des absonderungsberechtigten Gläubigers bei der Verteilung hin und berührt nicht die Wirkung der Feststellung nach § 178 Abs. 3 InsO (RGZ 22, 153, 154; 139, 83, 86; BGH, Urteil vom
+     25. Juni 1957 - VIII ZR 251/56, WM 1957, 1225, 1226; Urteil vom 30. Januar
+     1961 - II ZR 98/59, WM 1961, 427, 429; Urteil vom 21. Juli 2020 - II ZR 175/19,
+
+                                            -9-
+
+
+
+     ZIP 2020, 1869 Rn. 16). Erlangt ein Gläubiger aber nach Feststellung seiner Forderung zur Tabelle aus seinem Absonderungsrecht eine teilweise Befriedigung
+     seiner Forderung, so erlischt diese insoweit gemäß § 362 Abs. 1 BGB. Der Berücksichtigung der Erfüllung steht die Rechtskraftwirkung der widerspruchslosen
+     Feststellung der Forderung zur Insolvenztabelle nicht entgegen. Sie schließt die
+     Berücksichtigung nach Rechtskraft eintretender Umstände nicht aus (vgl. § 767
+     Abs. 2 ZPO). Auf diese Wirkung kann sich auch der Kommanditist berufen (§ 129
+     HGB).
+
+18           b) Die Beurteilung des Berufungsgerichts, der Kläger habe zur Tabelle
+     festgestellte Forderungen in Höhe von 11.500.000 € dargetan, ist rechtlich nicht
+     zu beanstanden. Rechtsfehlerhaft hat das Berufungsgericht jedoch festgestellt,
+     die Auszahlung des Erlöses aus dem Verkauf des zweiten Schiffs an den Gläubiger sei erst nach Abrechnung durch diesen von Bedeutung. Insoweit trägt aber
+     die Hilfsbegründung des Berufungsgerichts, auch bei Berücksichtigung des Erlöses bestünden Gläubigerforderungen in Höhe von ca. 5.500.000 €, die die Klageforderung übersteigen.
+
+19           aa) Die vom Kläger vorgelegte Insolvenztabelle weist festgestellte Gläubigerforderungen in Höhe von 11.548.906,17 € aus. Aufgrund der Wirkung der
+     Feststellung der Forderungen zur Tabelle nach § 178 Abs. 3 InsO gegenüber
+     dem Kommanditisten gemäß § 129 Abs. 1, § 161 Abs. 2 HGB ist es entgegen
+     der Ansicht der Revision unerheblich, ob die Fälligkeit aus § 41 InsO oder einer
+     Kündigung der Darlehen folgt. Nachrangige Forderungen hat das Berufungsgericht seiner Entscheidung nicht zugrunde gelegt. Die insoweit erhobenen Einwände gehen daher ins Leere.
+
+20           bb) Zu Unrecht hält das Berufungsgericht den Einwand der Erfüllung der
+     Gläubigerforderung vor einer Abrechnung durch den Gläubiger für unbeachtlich.
+
+                                           - 10 -
+
+
+
+     Ob der Einwand der Erfüllung berechtigt ist, richtet sich allein danach, ob die
+     Befriedigungswirkung durch die Verwertung des Sicherungsguts eingetreten ist.
+     Hierzu hat das Berufungsgericht keine Feststellungen getroffen. Die Darlegungsund Beweislast für die (teilweise) Erfüllung der Gläubigerforderung hat der in Anspruch genommene Gesellschafter; jedoch hat der Insolvenzverwalter die für die
+     Befriedigung der Gläubiger bedeutsamen Verhältnisse der Gesellschaft darzulegen, sofern nur er dazu im Stande ist (vgl. BGH, Urteil vom 21. Juli 2020
+     - II ZR 175/19, ZIP 2020, 1869 Rn. 21 mwN). Welche Umstände der Insolvenzverwalter zur Verwertung des Sicherungsguts auf den Einwand der Erfüllung hin
+     darlegen muss, hängt davon ab, in wessen Händen die Verwertung liegt.
+
+21           cc) Hierauf kommt es nach der Hilfsbegründung des Berufungsgerichts jedoch nicht an. Das Berufungsgericht hat in revisionsrechtlich nicht zu beanstandender Weise darauf abgestellt, dass, selbst wenn man unterstellen würde, es
+     sei noch ein weiterer Schiffserlös von ca. 6.000.000 € in Form eines Abzugs von
+     den für den Ausfall festgestellten Forderungen zu berücksichtigen, die verbleibende Forderungshöhe das Masseguthaben noch immer um fast 1.000.000 €
+     übersteigen würde.
+
+22           3. Rechtsfehlerhaft ist jedoch die Annahme des Berufungsgerichts, für die
+     Inanspruchnahme der Beklagten gemäß § 171 Abs. 2 HGB durch den Insolvenzverwalter sei es unerheblich, ob die Forderungen, für die die Kommanditisten
+     haften, bereits durch Zahlungen anderer Gesellschafter der Höhe nach gedeckt
+     sind.
+
+23           a) Dem Kommanditisten steht gegenüber dem Insolvenzverwalter der Einwand zu, dass das von ihm Geforderte zur Tilgung der Gesellschaftsschulden,
+     für die er haftet, nicht erforderlich ist (RGZ 51, 33, 38; BGH, Urteil vom 16. Mai
+     1958    - II ZR 83/57,   NJW 1958,   1139;     Urteil   vom   11. Dezember   1989
+
+                                           - 11 -
+
+
+
+     - II ZR 78/89, BGHZ 109, 334, 344; Urteil vom 22. März 2011 - II ZR 271/08,
+     BGHZ 189, 45 Rn. 18; Beschluss vom 18. Oktober 2011 - II ZR 37/10, juris
+     Rn. 9; Urteil vom 20. Februar 2018 - II ZR 272/16, BGHZ 217, 327 Rn. 39). Die
+     Darlegungs- und Beweislast hierfür hat der in Anspruch genommene Gesellschafter; jedoch hat der Insolvenzverwalter die für die Befriedigung der Gläubiger
+     bedeutsamen Verhältnisse der Gesellschaft darzulegen, sofern nur er dazu im
+     Stande ist (BGH, Urteil vom 3. Juli 1978 - II ZR 54/77, WM 1978, 898, 899; Urteil
+     vom 9. Februar 1981 - II ZR 38/80, WM 1981, 761; Urteil vom 11. Dezember
+     1989 - II ZR 78/89, BGHZ 109, 334, 344; Urteil vom 20. Februar 2018
+     - II ZR 272/16, BGHZ 217, 327 Rn. 39).
+
+24         Die Höhe der bis zur letzten mündlichen Verhandlung eingegangenen
+     Rückzahlungen der Kommanditisten ist ein für die Gläubigerbefriedigung bedeutsamer Umstand, dessen Darlegung typischerweise nur dem Insolvenzverwalter
+     möglich ist. Der Kommanditist kann gegen seine Inanspruchnahme entsprechend § 422 Abs. 1 Satz 1, § 362 Abs. 1 BGB einwenden, dass durch Zahlungen
+     anderer Kommanditisten der zur Deckung dieser Gesellschaftsschulden nötige
+     Betrag bereits ganz oder teilweise aufgebracht wurde. Die Erforderlichkeit der
+     Inanspruchnahme des Kommanditisten ist nicht alleine davon abhängig, ob diese
+     Gesellschaftsschulden aus der aktuell zur Verfügung stehenden Insolvenzmasse
+     gedeckt werden können (BGH, Urteil vom 21. Juli 2020 - II ZR 175/19, ZIP 2020,
+     1869 Rn. 25 ff. mwN).
+
+25         b) Das Berufungsgericht hat danach den Einwand der Beklagten, die Insolvenzmasse decke nur deswegen nicht die Gläubigerforderungen, hinsichtlich
+     derer eine Haftung der Kommanditisten bestehe, weil der Kläger Verbindlichkeiten beglichen habe, für die eine Haftung der Kommanditisten nicht bestehe, zu
+     Unrecht für unerheblich angesehen.
+
+                                           - 12 -
+
+
+
+26         III. Das Berufungsurteil ist danach aufzuheben (§ 562 Abs. 1 ZPO). Die
+     Sache ist, da sie noch nicht zur Endentscheidung reif ist, an das Berufungsgericht
+     zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO).
+
+27         1. Die Sache ist noch nicht zur Endentscheidung reif. Das Berufungsgericht hat keine Feststellungen dazu getroffen, in welcher Höhe der Kläger von
+     den Gesellschaftern der Schuldnerin nach Eröffnung des Insolvenzverfahrens im
+     Hinblick auf deren Außenhaftung Zahlungen erhalten hat und in welcher Höhe
+     Verbindlichkeiten von der Außenhaftung erfasst sind. Das neue Vorbringen der
+     Beklagten, der Kläger habe bis zum 6. Mai 2019 Zahlungen anderer Kommanditisten in Höhe von 6.829.314,22 € eingezogen, kann im Revisionsverfahren nicht
+     berücksichtigt werden. Es bedarf daher weiterer Feststellungen dazu, ob die Forderungen, für die die Kommanditisten haften, durch die Zahlungen anderer Kommanditisten der Höhe nach gedeckt sind.
+
+28         a) § 559 Abs. 1 Satz 1 ZPO bestimmt, dass lediglich dasjenige Vorbringen
+     der Beurteilung des Revisionsgerichts unterliegt, das aus dem Tatbestand des
+     Berufungsurteils oder dem Sitzungsprotokoll ersichtlich ist. Die Urteilsgrundlage
+     wird durch das Ende der Berufungsverhandlung abgeschlossen. Neue Tatsachen dürfen im Revisionsverfahren grundsätzlich nicht berücksichtigt werden.
+     Nach ständiger Rechtsprechung des Bundesgerichtshofs ist § 559 Abs. 1 Satz 1
+     ZPO jedoch einschränkend dahin auszulegen, dass in bestimmtem Umfang auch
+     Tatsachen, die erst während des Revisionsverfahrens oder nach Schluss der
+     mündlichen Verhandlung in der Tatsacheninstanz eingetreten sind, in die Urteilsfindung einfließen können, soweit sie unstreitig sind oder ihr Vorliegen in der
+     Revisionsinstanz ohnehin von Amts wegen zu beachten ist und schützenswerte
+     Belange der Gegenseite nicht entgegenstehen (BGH, Urteil vom 9. Juli 1998
+     - IX ZR 272/96, BGHZ 139, 214, 221 f.; Urteil vom 23. September 2014
+
+                                           - 13 -
+
+
+
+     - VI ZR 358/13, BGHZ 202, 242 Rn. 21; Urteil vom 2. März 2017 - I ZR 273/14,
+     NJW-RR 2017, 676 Rn. 44; alle mwN).
+
+29         b) Diese Voraussetzungen liegen nicht vor. Die Berücksichtigung des
+     neuen Vorbringens verletzt schützenswerte Belange des Klägers. Die Feststellungen des Berufungsgerichts sind aufgrund des neuen Vortrags unzureichend
+     und der Kläger hat hierdurch Anlass zu weiterem Vortrag.
+
+30         Die Berücksichtigung der neuen Tatsache erfordert Feststellungen dazu,
+     ob und in welcher Höhe vom Erlös der Schiffe Kosten der Feststellung oder Verwertung (§ 170 Abs. 1 Satz 1 InsO) abzuziehen sind. Der Kläger hat darüber hinaus Anlass vorzutragen, ob zwischenzeitlich weitere, auch nachrangige Forderungen angemeldet wurden, für die die Gesellschafter haften. Die Beklagte selbst
+     hat vorgetragen, der Kläger habe die Gläubiger zwischenzeitlich zur Anmeldung
+     nachrangiger Forderungen aufgefordert. Entgegen der Ansicht der Revision haftet der Kommanditist auch für nachrangige Forderungen gemäß § 39 Abs. 1 Nr. 1
+     InsO. Diese sind Insolvenzforderungen und unterliegen wie die Hauptforderung
+     der Haftung der Gesellschafter (vgl. OLG Hamm, ZInsO 2019, 2648, 2652; OLG
+     München, ZInsO 2019, 2319, 2323; OLG Stuttgart, ZIP 2020, 136, 137;
+     MünchKommHGB/K. Schmidt, 4. Aufl., §§ 171, 172 Rn. 111; vgl. Uhlenbruck/
+     Hirte, InsO, 15. Aufl., § 39 Rn. 8, 18; a.A. AG Völklingen, ZInsO 2020, 430, 432).
+
+31         2. Für das weitere Verfahren weist der Senat auf Folgendes hin:
+     Soweit sich die Beklagte nicht darauf berufen kann, dass die Forderungen, für
+     die die Gesellschafter haften, durch Zahlungen anderer Kommanditisten bereits
+     gedeckt sind, wird das Berufungsgericht unter Berücksichtigung der unter II. 2. a)
+     dargestellten Darlegungs- und Beweislastgrundsätze zu prüfen haben, ob die Inanspruchnahme der Beklagten unter Berücksichtigung der sonst zur Verfügung
+     stehenden Insolvenzmasse erforderlich ist. Diese Prüfung ist von einer Prognose
+
+                                    - 14 -
+
+
+
+abhängig, die naturgemäß mit Unsicherheiten belastet ist. Der Kläger ist angesichts dessen berechtigt, den nach den Verhältnissen der Insolvenzmasse für die
+Gläubigerbefriedigung erforderlichen Betrag unter Berücksichtigung solcher
+Unsicherheiten zu schätzen (vgl. BGH, Urteil vom 21. Juli 2020 - II ZR 175/19,
+ZIP 2020, 1869 Rn. 34).
+
+
+
+
+Drescher                           Wöstmann                               Born
+
+                 Bernau                              V. Sander
+
+
+
+
+Vorinstanzen:
+LG Kempten, Entscheidung vom 11.10.2018 - 1 HKO 1039/17 -
+OLG München, Entscheidung vom 28.03.2019 - 14 U 3954/18 -
