@@ -1,0 +1,54 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-11T15:00:00+01:00
+- Ende: 2020-11-11T16:45:00+01:00
+- Ort: Achtung geänderter Sitzungsort! Comenius-Gymnasium, Hansaallee 90, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18914
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18914
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390625.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390625.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390625.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters und der Stellvertreterinnen / Stellvertreter
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung
+- TOP 4: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 5: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/06/2020 vom 26.08.2020 - einstimmig beschlossen
+- TOP 6: Zulassung der Vertreterinnen des Seniorenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 7: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 8: Zustimmung zum Abschluss eines Durchführungsvertrages nach § 12 Baugesetzbuch (BauGB) zum Vorhabenbezogenen Bebauungsplanentwurf Nr. 04/014 - Wickrather Straße - - einstimmig beschlossen
+- TOP 9: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 04/014 - Wickrather Straße - einstimmig beschlossen
+- TOP 10: Flächennutzungsplanänderung Nr. 186 (Entwurf) - Heerdterhof-Garten - einstimmig beschlossen
+- TOP 11: Bebauungsplan-Vorentwurf Nr. 04/015 - Stadtwerkegelände Heerdter Lohweg - - einstimmig beschlossen
+- TOP 12: Bauanträge Hildegrad-Knef-Str. 71-93 und 95-105, Errichtung von 18 Wohngebäuden und einer gemeinsamen Tiefgarage sowie Anschüttung des Geländes - mehrheitlich beschlossen
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Ausführungs- und Finanzierungsbeschluss der Umgestaltung des Kindespielplatzes Hubert-Hermes-Straße - einstimmig beschlossen
+- TOP 16: Lärmschutz an der B7, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 17: Hallenbad Oberkassel - Eröffnung 2021 unter "Corona-Bedingungen", Anfrage der FDP-Fraktion
+- TOP 18: Bürgernah handeln - Individualverkehr in Heerdt ermöglichen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 19: Klima schützen – Bäume erhalten, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 20: Schulische Digitalisierung sichern - Distanzlernen vorbereiten, Anfrage des Bezirksvertreters Sven Holly - zur Kenntnis genommen
+- TOP 21: Baumpflanzungen am Ökotop, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 22: Zunehmende Versiegelung der Vorgärten verhindern, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 23: Plastikfreie Wochenmärkte im linksrheinischen Düsseldorf, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 24: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2020 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2020 - einstimmig beschlossen
+- TOP 25: Verkehrslärmbelastung im Bereich der Rheinkniebrücke/Rheinalleetunnel abhelfen, Antrag der CDU-Fraktion - vertagt
+- TOP 26: Sanierung des Simon-Gatzweiler-Platzes, Antrag der SPD-Fraktion - vertagt
+- TOP 27: Bepflanzung der kleinen Grünfläche Columbusstr./Düsseldorfer Str., Antrag der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 28: Baumpflanzung im Rahmen des "Stadtbaumkonzeptes" - zur Kenntnis genommen
+- TOP 29: Tempo 30 für den Abschnitt des Kaiser-Friedrich-Rings zwischen An der Apfelweide und Lotharstraße - zur Kenntnis genommen
+- TOP 30: Eine Skaterrampe für den Freizeitpark Heerdt - zur Kenntnis genommen
+- TOP 31: Bushaltestelle "Lohweg" von parkenden Fahrzeugen freihalten - zur Kenntnis genommen
+- TOP 32: Drei Linden an der alten Dorfschule in Alt-Lörick als Naturdenkmäler ausweisen - zur Kenntnis genommen
+- TOP 33: Einbahnstraße Pestalozzistraße teilweise für Radfahrende freigeben - zur Kenntnis genommen
+- TOP 34: Verkehrsstörungen vermeiden und Verkehrsfluss stärken - zur Kenntnis genommen
+- TOP 35: Konzepte für Beteiligung von Bürger*innen und Anlieger*innen zur weiteren Entwicklung des Nikolaus-Knopp-Platzes in Heerdt prüfen - zur Kenntnis genommen
+- TOP 36: Erhöhung der Sicherheit an der Kreuzung Hansaallee / Schiessstraße - zur Kenntnis genommen
+- TOP 37: Mitteilungen der Verwaltung - zur Kenntnis genommen
