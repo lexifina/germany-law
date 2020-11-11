@@ -1,0 +1,55 @@
+# 48. Sitzung in der VIII. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2020-11-11T19:00:00+01:00
+- Ende: 2020-11-11T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4694
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4694
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=301594
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls - erledigt
+- TOP 3: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 4: Bürgeramt KLR-Maßnahmen - erledigt
+- TOP 5: Bericht des Bezirksamtes - erledigt
+- TOP 6: Überwiesene Drucksachen - (offen)
+- TOP 6.1: Neue Kleingärten in Lichtenberg (federführend) - vertagt
+- TOP 6.2: Schaffung eines "Haus der Hilfe" in Lichtenberg (federführend) - vertagt
+- TOP 6.3: Übernahmemanagement in der Lichtenberger Verwaltung einführen (federführend) - vertagt
+- TOP 6.4: Keine Reduzierung des öffentlichen Grüns in Karlshorst! (federführend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.5: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege zwischen der Schule am Roederplatz und der Hans-Rosenthal-Grundschule (federführend) - vertagt
+- TOP 6.6: Ein Kinderbauernhof für Lichtenberg (federführend) - vertagt
+- TOP 6.7: Einwohnerantrag "Saubere Schulen in Lichtenberg" (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.8: Maßnahmenlisten für die Stadtumbaugebiete Fennpfuhl und Neu-Hohenschönhausen (federführend) - vertagt
+- TOP 6.9: Geordnete Finanzen - Schulinvestitionen zuerst! (federführend) - vertagt
+- TOP 6.10: Neubau eines kommunalen Kultur- und Bildungszentrums (KuBiZ) im "Urbanen Zentrum Neu-Hohenschönhausen" (federführend) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.11: Vorlage des Nutzungsleitbilds (Version 02) für das "Urbane Zentrum Neu-Hohenschönhausen" und Vorschlag zum weiteren Vorgehen (federführend) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.12: Kosten- und Finanzierungsübersicht für das Urbane Zentrum Neu-Hohenschönhausen sowie Beauftragung von Begleit- und ersten Umsetzungsprozessen (federführend) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.13: Dem Klimawandel begegnen - den öffentlichen Raum wassersensibel gestalten (federführend) - vertagt
+- TOP 6.14: Dem Klimawandel begegnen: Das bezirkliche Klimaschutzkonzept fortschreiben (federführend) - gegenstandslos
+- TOP 6.15: Der Radverkehrswende Schwung geben - Weitere Stellen für Radverkehrsplaner*innen im Bezirksamt schaffen (federführend) - vertagt
+- TOP 6.16: Sperrmüllaktionstage in Lichtenberg (federführend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.17: Sitzgelegenheiten auf Baumbegrenzungen in der Weitlingstraße (federführend) - vertagt
+- TOP 6.18: Attraktive Flächen des Linden-Centers für bezirkliche Angebote nutzen (federführend) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.19: Bezirkspolitischen „Wahl-O-Maten“ einrichten (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.20: Barrierefreiheit am Löschteich ermöglichen (federführend) - vertagt
+- TOP 6.21: Lückenschluss beim Gehweg in der Dorfstraße Wartenberg (federführend) - vertagt
+- TOP 6.22: Computerausstattung in den kommunalen Seniorenbegegnungsstätten verbessern (allein beratend) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.23: Schwimmen in Kitas finanzieren (federführend) - vertagt
+- TOP 6.24: Auskömmliche Finanzierung der Schulbudgets sicherstellen (federführend) - vertagt
+- TOP 6.25: Instandsetzung der Rheinpfalzallee (federführend) - vertagt
+- TOP 6.26: Sitzgelegenheiten rund um das Linden-Center (allein beratend) - vertagt
+- TOP 6.27: Sicherer Radverkehr auf der Lückstraße (federführend) - vertagt
+- TOP 6.28: Neugestaltung des Zugangs zum Anton-Saefkow-Platz aus Richtung Landsberger Allee (federführend) - vertagt
+- TOP 6.29: Gutachtermittel für die Sicherung von Kleingartenanlagen erhöhen (allein beratend) - vertagt
+- TOP 6.30: Politische Bildungsarbeit zu den U18-Wahlen stärken und sichern (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.31: Regenbogenfamilienzentrum für Lichtenberg erhalten (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.32: BVV-Sondermittel für den Förderverein Kita "Hoppetosse" - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Sitzungstermine 2021 - erledigt
+- TOP 8: Sonstiges - erledigt
