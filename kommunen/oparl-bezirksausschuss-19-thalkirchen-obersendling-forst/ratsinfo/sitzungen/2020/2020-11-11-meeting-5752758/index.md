@@ -1,0 +1,83 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-11-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752758
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752758
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2.3.: Ansprechpartner des BA 19 für das Regionalmanagement Südwest
+- TOP 6.2.1: Appenzeller Str. 1
+- TOP 6.2.2: Tischlerstr. 30 (T)
+- TOP 6.2.3: Leo-Graetz-Str. 3
+- TOP 6.2.4: Aufkirchener Str. 2
+- TOP 6.2.5: Allmannshausener Str. 30a
+- TOP 6.2.6: Kistlerhofstr. 102
+- TOP 6.2.7: Nesselwanger Str. 10
+- TOP 6.2.8: Reismühlenstr. 4
+- TOP 6.2.9: Zielstattstr. 6
+- TOP 6.2.10: Schieggstr. 19b (VB)
+- TOP 6.2.11: Rupert-Mayer-Str. 45
+- TOP 6.2.12: Schaidlerstr. 9 (VB)
+- TOP 2.4.1: Beschlussfassung über die Größe des Sonderausschusses
+- TOP 2.4.2: Benennung der Mitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen
+- TOP 2.4.3: Benennung der Ersatzmitglieder des Sonderausschusses durch die Fraktionen / Gruppierungen
+- TOP 2.4.4: Wahl der / des Vorsitzenden des Sonderausschusses durch den Bezirksausschuss
+- TOP 2.4.5: Bestellung der / des stellvertretenden Vorsitzenden des Sonderausschusses durch den Bezirksausschuss
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 06.10.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.4.: Bildung eines Sonderausschusses
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Elternbeirat Gymnasium Fürstenried: MUN-Konferenz in Haarlem; Verlängerung des Bewilligngszeitraums und Übernahme von Stornokosten
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat des Sonderpädagogischen Förderzentrums München Süd Anschaffung von Raumentkeimungsgeräten 8.310,24 € / Az. 0262.0-19-0348
+- TOP 3.4.: (E) Stadtbezirksbudget Condrobs e.V. Anschaffung von zwei Zelten vom 27.11.2020 – Dezember 2020 4.204,80€; Az. 0262.0-19-0349
+- TOP 3.5.: (Antrag) Bestellung städtischer Leistungen: Schachspiel am Schweizer Platz
+- TOP 3.6.: (Antrag) Bestellung städtischer Leistungen: Spielgeräte Spielplatz Allescher Straße
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Keine automatische Verlängerung des Pachtvertrages des Münchner Golfclubs MGC mit der Stadt München
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Radwegsituation auf der Westseite der Forstenrieder Allee zwischen Züricher Str. und Fritz-Baer-Str.
+- TOP 5.3.: Aktuelle Situation: Parkraummanagement Thalkirchen
+- TOP 5.4.: (Anfrage) Tempo 30: Murnauer Str. nördlich Zielstattstr.
+- TOP 5.5.: (Antrag) Parksituation Zitzelsbergerstr.
+- TOP 5.6.: (Anfrage) Verkehrspolitisches Gesamtkonzept, Machbarkeitsstudie „Sollner Dreieck“
+- TOP 5.7.: (Antrag) S-Bahnhof Solln barrierefreier machen
+- TOP 5.8.: (Antrag) Verlängerung Tram-Westtangente zur S7/BOB
+- TOP 5.9.: (Antrag) E-Ladesäulen in Solln
+- TOP 5.10.: (Antrag) Tölzer Str. / Steinerstr.: bauliche Wiederherstellung des Straßenraums
+- TOP 5.11.: (Antrag) Problemstellen für Fußgänger/Radfahrer in Thalkirchen/Obersendling
+- TOP 5.12.: (E) Christbaumverkauf auf der öffentl. Grünanlage Baierbrunner Straße
+- TOP 5.13.: (A) Haltverbot Siemensallee an der Südseite gegenüber St.-Wendel-Straße
+- TOP 5.14.: (A) Einrichtung eines Behindertenparkplatzes: Mauthäuslstr.
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Basketballspielplatz Südseite Obersendling
+- TOP 7.3.: (Antrag) Basketballspielplatz Blieskastelstr.
+- TOP 7.4.: (Anfrage/Antrag) Zustand der Finnischen Sauna im Bad Forstenrieder Park
+- TOP 7.5.: (Antrag) Ausreichend Fahrradständer auf dem Gelände der Grundschule an der Berner Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Siemensallee 61
+- TOP 8.3.: (Antrag) Keine finanziellen Vorteile durch Veranstaltungen der AfD oder AfD nahen Organisationen im Bürgersaal Fürstenried
+- TOP 8.4.: (Antrag) Neue Förderrichtlinie der Bundesregierung für Lüftungsanlage im Bürgersaal Fürstenried nutzen
