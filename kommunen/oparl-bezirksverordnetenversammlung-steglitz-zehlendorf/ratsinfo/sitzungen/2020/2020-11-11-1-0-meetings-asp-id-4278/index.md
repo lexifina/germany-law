@@ -1,0 +1,71 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2020-11-11T17:00:00+01:00
+- Ende: 2020-11-11T20:35:00+01:00
+- Ort: Kirchstraße 6, 14163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4278
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4278
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 3.1: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Nachwahl eines Mitglieds aus dem Kreis der Vertreter von Vereinigungen, die Bedürftige betreuen, in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Sondermittel der BVV für den Verein Seglerhaus am Wannsee 1867 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.8: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.9: Kein Sendemast im Weltkulturerbe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.10: Reflektierende Strahler an Mittelinsel Dahlemer Weg/Curtiusstraße anbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.11: Das Engagement des Gesundheitsamtes Steglitz-Zehlendorf bei der Bewältigung und Eindämmung der Covid-19-Pandemie würdigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.12: Verkehrssituation Kreuzung Teltower Damm/Beeskowdamm/Kleinmachnower Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.13: Verkehrssicherheit für Fußgänger/-innen und Radfahrer/-innen an der Kreuzung Goerzallee/Wismarer Straße/Appenzeller Straße erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.14: Verkehrsmaßnahmen Von-Luck-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.15: Bewässerungssäcke nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.16: Temperaturvorgaben in öffentlichen Schulen in Corona-Zeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.17: Handbuch „Gute Pflege" in weiteren Grünanlagen anwenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.18: Fähre Wannsee-Kladow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.19: Bürgerinnen und Bürger sowie Gewerbetreibende frühzeitig bei der Planung des Neubaus des Rathauses Zehlendorf einbeziehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 4.1: Fortschreibung der Zuweisung 2021 - überwiesen
+- TOP 4.2: Verkehrskonzept und Verkehrsgutachten für den Verkehrsraum Lichterfelde-Ost den Fraktionen zur Verfügung stellen - überwiesen
+- TOP 4.3: Arbeitsfähigkeit aller BVV-Ausschüsse wiederherstellen! - überwiesen
+- TOP 4.4: Gemeindewäldchen Zehlendorf in den Blick nehmen - überwiesen
+- TOP 4.5: Sicherheit für Zufußgehende an der T-Kreuzung Osdorfer Straße/Ostpreußendamm - überwiesen
+- TOP 4.6: Instandsetzung der runden Holzbank um die Kastanie Ecke Curtiusstraße/Baseler Straße - überwiesen
+- TOP 4.7: (Vor)Gärten des Grauens verbieten! - überwiesen
+- TOP 4.8: Ein Livestream der BVV-Sitzungen ist nötig und möglich. Die Verordneten der BVV Steglitz-Zehlendorf setzen auf Transparenz und Bürger*innenfreundlichkeit! - überwiesen
+- TOP 4.9: Querung der Potsdamer Straße erleichtern für X11er Bus durch Markierung mit Haltelinien - überwiesen
+- TOP 4.10: "Ich bin dann mal weg!" 2940 Kilometer von Berlin nach Santiago de Compostela. Ausschilderung des Jakobswegs durch den Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 4.11: Sanierung des Quermatenweges in der Waldsiedlung Krumme Lanke - überwiesen
+- TOP 4.12: Corona- Bekämpfung effektiver gestalten - überwiesen
+- TOP 4.13: Verkehrschaos am Wochenende an Schlachtensee und Krumme Lanke - überwiesen
+- TOP 4.14: Verkehrslärmmessung Steglitz-Zehlendorf - überwiesen
+- TOP 4.15: Gedenktafel für die Jesus-Christus-Kirche - überwiesen
+- TOP 4.16: Gesundheitsschutz durch saubere Luft im Klassenzimmer - überwiesen
+- TOP 4.17: Eine größere Straße oder einen Platz bei nächster Möglichkeit nach Golda Meir benennen - überwiesen
+- TOP 4.18: Statt einer Umbenennung der Pacelliallee soll eine „Allee des Gedenkens" entstehen - überwiesen
+- TOP 4.19: Aufstellen von Desinfektionsspendern in Sitzungsräumen und Eingängen von Dienstorten - überwiesen
+- TOP 4.20: Klassenräume ohne ausreichende Fensterlüftung bei Installation von Lüftungsanlagen bevorzugen - überwiesen
+- TOP 4.21: Bushaltestelle Sundgauer Straße: Wartehaus-Beleuchtung instandsetzen - überwiesen
+- TOP 4.22: WLAN in Senioreneinrichtungen - überwiesen
+- TOP 5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.1: Der Osteweg 53 muss Schulstandort mit Sporthalle werden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Kleine Anfragen - erledigt
+- TOP 6.1: Schutz der Risikogruppen vor Corona? - beantwortet
+- TOP 6.2: Mund-Nasen-Schutz im Rathaus Zehlendorf - beantwortet
+- TOP 6.3: WLAN-Anschlüsse - beantwortet
+- TOP 6.4: Wildschweinschäden im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 6.5: Wie weiter mit der Senior*innen-Umfrage des Bezirksamtes? - schriftlich beantwortet
+- TOP 6.6: Wie ist es um die Umsetzung des Milieuschutzes in Steglitz-Zehlendorf bestellt? - schriftlich beantwortet
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Kontrollverlust des Bezirksamtes bei der Covid-19-Bekämpfung? - beantwortet
+- TOP 7.2: Steglitz-Zentrum: Hat das Bezirksamt noch den Überblick? - beantwortet
