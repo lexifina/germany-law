@@ -1,0 +1,109 @@
+# Fortsetzung der 51. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-11-11T17:11:00+01:00
+- Ende: 2020-11-11T20:30:00+01:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3843
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3843
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mündliche Anfragen - (offen)
+- TOP 1.1: Ausübung des Vorkaufsrechts bei den Hauskäufen durch Heimstaden Bostad - beantwortet
+- TOP 1.2: Waltersdorfer Chaussee stadtauswärts - beantwortet
+- TOP 1.3: Technische Lösungen zur Corona-Prävention in Schulen mittels Lüftung - schriftlich beantwortet
+- TOP 1.4: Erwerbslosigkeit in Corona-Zeiten in Neukölln im Berlinvergleich am höchsten - beantwortet
+- TOP 1.5: Unsere freiheitlichen Werte werden angegriffen und das Bezirksamt schweigt! - beantwortet
+- TOP 1.6: Situation der Obdachlosen in Neukölln - schriftlich beantwortet
+- TOP 1.7: Stein-Labyrinth im Behörden-Labyrinth gefangen - beantwortet
+- TOP 1.8: Klimaschutz in Neukölln - beantwortet
+- TOP 1.9: Verstöße gegen das Bundeskleingartengesetz - schriftlich beantwortet
+- TOP 1.10: Gib Corona eine Chance – Gerümpelmarkt Lahnstraße - beantwortet
+- TOP 1.11: Wann kommt der sichere Überweg Emser/Ilsestraße? - beantwortet
+- TOP 1.12: Zuhause-Kiosk - beantwortet
+- TOP 1.13: Schließung der Lücke im Mauerweg - schriftlich beantwortet
+- TOP 1.14: Parkraummanagement auf dem Weg? - schriftlich beantwortet
+- TOP 1.15: Tagung des MB-nahen Fatwarats am 13. September - schriftlich beantwortet
+- TOP 2: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 2.1: Finanzielle Auswirkungen der Corona-Pandemie auf den Bezirk - beantwortet
+- TOP 2.2: Periculum in mora! - Demokratie durch Links gefährdet - vertagt
+- TOP 2.3: Stellenwert und Ausstattung der Seniorenvertretung Neukölln - beantwortet
+- TOP 2.4: Quarantänebrecher in Neukölln - beantwortet
+- TOP 2.5: Wie weiter mit dem Karstadt am Hermannplatz nach Corona? - beantwortet
+- TOP 2.6: Beauftragte für Allerlei, aber Aufgaben des Bezirksamtes werden vernachlässigt - vertagt
+- TOP 2.7: Neutralitätsklausel bei Zuwendungsbescheiden - vertagt
+- TOP 2.8: Verbindliches Solarausbauziel für Neukölln festlegen - vertagt
+- TOP 2.9: Fahrradfreundlicher Arbeitgeber - vertagt
+- TOP 2.10: Energiesparende LED-Röhren in den BVV-Saal - vertagt
+- TOP 2.11: Automatische E-Mailbestätigung im BVV-Büro einrichten - vertagt
+- TOP 2.12: Flagge zeigen für eine atomwaffenfreie Welt am 8. Juli: Neukölln wird Teil des „Mayors for Peace“-Netzwerks - vertagt
+- TOP 2.13: Sicherer Schulweg über die Blaschkoallee - vertagt
+- TOP 2.14: Straßenschäden Waßmannsdorfer Chaussee - vertagt
+- TOP 2.15: Buschkrugallee am Teltowkanal sicher überqueren - vertagt
+- TOP 2.16: Kreuzung Hermann-/Flughafenstraße für Radverkehr sicherer machen - vertagt
+- TOP 2.17: Sperrung Boddinplatz (Umfahrung) - vertagt
+- TOP 2.18: Bezirksverordnetenversammlung - vertagt
+- TOP 2.19: Problemimmobilien im Richard- und Körnerkiez - vertagt
+- TOP 2.20: Neutralitätsgebot bei VHS-Kursen - vertagt
+- TOP 2.21: Alternativen für Laubbläser - vertagt
+- TOP 2.22: Inklusion auf Spielplätzen! - vertagt
+- TOP 2.23: Handeln gegen das Bienensterben und Insektensterben – Grünflächen mit Insektenhotels ausstatten - vertagt
+- TOP 2.24: Potenzialanalyse für mehr Grün in Nordneukölln - vertagt
+- TOP 2.25: MUF-Neubau stoppen - vertagt
+- TOP 2.26: Berlinovo Zweckentfremdung? - vertagt
+- TOP 2.27: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - vertagt
+- TOP 2.28: BVV live und archiviert im Internet - vertagt
+- TOP 2.29: Sondernutzung öffentlicher Flächen an touristischen Hotspots - vertagt
+- TOP 2.30: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - vertagt
+- TOP 2.31: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - vertagt
+- TOP 2.32: Köpenicker Straße und Prierosser Straße entlasten - vertagt
+- TOP 2.33: Einbahnstraße Prierosser - vertagt
+- TOP 2.34: Parkraumkonzept für Rudow - vertagt
+- TOP 2.35: Eichenquast Tempo 30 - vertagt
+- TOP 2.36: Bordsteinabsenkung und sichere Querung in der Britzkestraße - vertagt
+- TOP 2.37: Fußgänger-Querungshilfen an Sonnenallee - vertagt
+- TOP 2.38: Fahrverbote in der Silbersteinstraße aufheben - vertagt
+- TOP 2.39: Digitalisierung der Jugendarbeit in Neukölln - vertagt
+- TOP 2.40: Umweltgerechtigkeit – Monitoring und Umsetzung in Neukölln - vertagt
+- TOP 2.41: Zero-emissions-Sportfelder und -hallen - vertagt
+- TOP 2.42: Fachkonferenz im Kinder- und Jugendbereich „Pandemie gemeinsam meistern“ - vertagt
+- TOP 2.43: Mehr Parkbänke am Fennpfuhl - vertagt
+- TOP 2.44: Entweder oder! Betreten der Rasenfläche verboten oder nicht? - vertagt
+- TOP 2.45: Neuköllner Ehrengrabstätten in besseren Zustand versetzen - vertagt
+- TOP 2.46: Jakobsweg in Neukölln ausschildern - vertagt
+- TOP 2.47: Partnerschaft mit Boulogne-Billancourt bei Paris vertiefen - vertagt
+- TOP 2.48: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - vertagt
+- TOP 2.49: Earth Hour - vertagt
+- TOP 2.50: Unterstützung des linksextremistischen Kollektivs „K-Fetisch“ sofort beenden - vertagt
+- TOP 2.51: Bewohnerschaft von Problemimmobilien im Richard- und Körnerkiez unterstützen - vertagt
+- TOP 2.52: Planung für die Umgestaltung des Karl-Marx-Platzes anpassen - vertagt
+- TOP 2.53: Rücknahme der Reinigungsklasse Prierosser Straße - vertagt
+- TOP 2.54: Schulwegsicherung Peter-Petersen-Schule - vertagt
+- TOP 2.55: Verlegung Taxistand von der Waltersdorfer Chaussee - vertagt
+- TOP 2.56: Pop-up-Radwege für Neukölln - vertagt
+- TOP 2.57: PopUp-Radweg Blaschkoallee - vertagt
+- TOP 2.58: Fahrradstreifen/ Fußgängerstreifen in der Wildenbruchstaße auf dem Bürgersteig ändern! - vertagt
+- TOP 2.59: Bürgersteig auf der nördlichen Seite der Blaschkoallee sanieren! - vertagt
+- TOP 2.60: Gehwegparken im Grüner Weg zulassen - vertagt
+- TOP 2.61: Mund-Nasen-Schutzpflicht an Neuköllner Schulen abschaffen - vertagt
+- TOP 2.62: Neukölln – Der Platz für Kinderrechte! - vertagt
+- TOP 2.63: Künstlern Auftritte ermöglichen! - vertagt
+- TOP 2.64: Termine in den Bürgerämtern - vertagt
+- TOP 2.65: Ist das Gesundheitsamt Neukölln auf den „Corona-Winter“ vorbereitet? - vertagt
+- TOP 2.66: Autobahnabfahrt Grenzallee - vertagt
+- TOP 2.67: Temporäre Schließung der „Rixdorfer Schnalle“ für den Autoverkehr - vertagt
+- TOP 2.68: Temporäre Radwege Buckower Damm/Rufacher Weg - vertagt
+- TOP 2.69: Gehwegveränderung Straße Alt-Rudow/ Köpenicker Straße - vertagt
+- TOP 2.70: Öko-Logisches Grünflächenmanagement - vertagt
+- TOP 2.71: Familien-Service-Büro für Neukölln - vertagt
+- TOP 2.72: Weitere(r) Spritzen-Automat(en) in Neukölln - vertagt
+- TOP 2.73: "Berlkönig" soll auch im Süden regieren - vertagt
+- TOP 2.74: Temporärer Radweg auf der südlichen Seite der Blaschkoallee - vertagt
+- TOP 2.75: Temporäre Schließung von Nebenstraßen - vertagt
+- TOP 2.76: Bebauungsplan XIV-287a-1 („Krugpfuhlsiedlung – Hanne Nüte“) - vertagt
+- TOP 2.77: Bebauungsplan XIV-287b-1 („Krugpfuhlsiedlung – Rambowstraße“) - vertagt
+- TOP 2.78: Bebauungsplan XIV-287c-1 („Krugpfuhlsiedlung – Parchimer Allee“) - vertagt
