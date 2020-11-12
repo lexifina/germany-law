@@ -795,7 +795,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
   Anmerkung 2: Unternummer 0013b schließt Werkstoffe ein, die besonders konstruiert sind zur Bildung einer explosions-reaktiven Panzerung oder zum Bau militärischer Unterstände (shelters).
   Anmerkung 3: Unternummer 0013c erfasst nicht herkömmliche Stahlhelme, die weder mit Zusatzgeräten ausgerüstet noch für die Ausrüstung mit Zusatzgeräten geändert oder konstruiert sind.
   Anmerkung 4: Unternummern 0013c und 0013d erfassen nicht einzelne Helme, Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu deren eigenem persönlichen Schutz mitgeführt werden.
-  Anmerkung 5: Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
+  Anmerkung 5: Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
   Ergänzende Anmerkung 1:
   Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
   Ergänzende Anmerkung 2:
