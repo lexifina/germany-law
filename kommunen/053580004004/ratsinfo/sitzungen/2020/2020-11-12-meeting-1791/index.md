@@ -1,0 +1,51 @@
+# Gemeinderat (1. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2020-11-12T18:00:00+01:00
+- Ende: 2020-11-12T21:45:00+01:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa2g2Hys5P9mSVT1_NBBYV0
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1791
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZ3A6mn3TpSFjMdUJSQ-bZ_a0dPv_C6RAlgsB0Y2fxa/Bekanntmachung_Gemeinderat_12.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUj7K7La_RSZa97MAfKESL93nI-6ytl3GHExT2phnA4F/Oeffentliche_Niederschrift_Gemeinderat_12.11.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Vereidigung und Einführung des Bürgermeisters durch den Altersvorsitzenden - Ohne Abstimmung
+- TOP 2.: Bestellung eines Schriftführers, sowie einer Stellvertreterin - Einstimmig, 0 Enthaltungen
+- TOP 3.: Verpflichtung und Einführung der Ratsmitglieder - Ohne Abstimmung
+- TOP 4.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 5.: Bildung von Fraktionen - Ohne Abstimmung
+- TOP 6.: Wahl der ehrenamtlichen Stellvertreter/innen des Bürgermeisters - wie oben angegeben
+- TOP 7.: Verpflichtung und Einführung der ehrenamtlichen Stellvertreter/innen des Bürgermeisters - Ohne Abstimmung
+- TOP 8.: Wahl der Ortsbürgermeister/innen - Einstimmig, 0 Enthaltungen
+- TOP 9.: Satzungen, Ortsrecht
+- TOP 9.1: 7. Änderung der Zuständigkeitsordnung hier: Zuständigkeiten des Haupt- / Bauverwaltungs- / Gemeindeentwicklungsausschusses und Kompetenzen des Bürgermeisters - 16 Ja-Stimmen, 9 Nein-Stimmen, 2 Enthaltungen
+- TOP 10.: Neubesetzung von Ausschüssen
+- TOP 10.1: Bildung der Ausschüsse - Einstimmig, 0 Enthaltungen
+- TOP 10.2: Festlegung der zahlenmäßigen Stärke der Ausschüsse - 15 Ja-Stimmen, 11 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.3: Zählverfahren bei der Ausschussbesetzung - Einstimmig, 0 Enthaltungen
+- TOP 10.4: Wahl der Mitglieder der Ausschüsse und deren Stellvertreter - Einstimmig, 0 Enthaltungen
+- TOP 10.5: Verteilung der Ausschussvorsitze - Ohne Abstimmung
+- TOP 11.: Neubesetzung von Gremien
+- TOP 11.1: Benennung der Mitglieder des Partnerschaftskomitees - Einstimmig, 0 Enthaltungen
+- TOP 11.2: Wahl der Mitglieder des Behindertenbeirates - Einstimmig, 0 Enthaltungen
+- TOP 11.3: WOGA GmbH & Co. KG - Einstimmig, 0 Enthaltungen
+- TOP 11.4: WOGA BeteiligungsGmbH - Einstimmig, 0 Enthaltungen
+- TOP 11.5: Schulzweckverband Aldenhoven-Linnich - Einstimmig, 0 Enthaltungen
+- TOP 11.6: Förderschulzweckverband im Kreis Düren - Einstimmig, 0 Enthaltungen
+- TOP 11.7: EWV Energie- und Wasser-Versorgung GmbH - Einstimmig, 0 Enthaltungen
+- TOP 11.8: GREEN Gesellschaft für regionale und erneuerbare Energie mbH - 15 Stimmen für Herrn Claßen, 11 Stimmen für Herrn Ossenkopp, 1 Enthaltung
+- TOP 11.9: Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur (KDVZ) - 9 Stimmen für Herrn Claßen, 17 Stimmen für Herrn Krieger, 1 EnthaltungNach Bekanntgabe des Abstimmungsergebnisses erklärt Herr Krieger, dass er die Wahl nicht annimmt.
+- TOP 11.10: Verbandswasserwerk Aldenhoven GmbH - Einstimmig, 0 Enthaltungen
+- TOP 11.11: AVV-Beirat des Kreises Düren - 26 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 11.12: Städte- und Gemeindebund NRW - Einstimmig, 0 Enthaltungen
+- TOP 11.13: Freizeitzentrum Blausteinsee GmbH - 26 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 11.14: Entwicklungsgesellschaft indeland mbH - Einstimmig, 0 Enthaltungen
+- TOP 11.15: indeland Tourismus e.V. - Einstimmig, 0 Enthaltungen
+- TOP 11.16: Berichterstattung aus den Gremien - Einstimmig, 0 Enthaltungen
+- TOP 12.: Verschiedenes
