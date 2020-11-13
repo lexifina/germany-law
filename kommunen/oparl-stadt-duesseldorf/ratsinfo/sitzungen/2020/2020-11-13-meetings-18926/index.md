@@ -1,0 +1,81 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-13T14:00:00+01:00
+- Ende: 2020-11-13T16:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18926
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18926
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390931.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390931.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00390931.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl der/des Bezirksbürgermeister*in und der Stellvertreter*innen
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung 1
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift über die öffentliche Sitzung vom 04.09.2020 - einstimmig beschlossen
+- TOP 6: Zulassung von Sachverständigen
+- TOP 7: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 8: Zulassung der Vertreter*innen des Seniorenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: An der Piwipp - Rückbau Verkehrsinsel, Baumfällungen - mehrheitlich abgelehnt
+- TOP 9.2: Radverkehrsführung am Knotenpunkt Pempelforter Straße / Kölner Straße und Am Wehrhahn - Empfehlung abweichend beschlossen
+- TOP 9.3: Ausführungs- und Finanzierungsbeschluss Radverkehrsanlagen Joseph-Beuys-Ufer - Empfehlung abweichend beschlossen
+- TOP 9.4: Einrichtung eines eigenen Bahnkörpers auf der Kaiserstraße - Empfehlung einstimmig beschlossen
+- TOP 9.5: Einrichtung einer testweisen Einbahnstraßenregelung auf der Bismarckstraße im Abschnitt zwischen Charlotten- und Oststraße - einstimmig beschlossen
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Planungskonzept zur Neugestaltung des Heinrich-Heine-Platzes und des Vorplatzes Wilhelm-Marx-Haus aus dem 2. Workshopverfahren (Planungsworkshop) und das weitere Vorgehen - Empfehlung abweichend beschlossen
+- TOP 9.8: Gestaltungsmaßnahmen Rochusmarkt - einstimmig beschlossen
+- TOP 9.9: Qualitätss. Verfahren Nr. 01/021 - ehem.Kaufhof Am Wehrhahn - Empfehlung abweichend beschlossen
+- TOP 9.10: Antikmarkte in der Kö-Galerie im Jahre 2021 - einstimmig beschlossen
+- TOP 9.11: Trödelmärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2021 - einstimmig beschlossen
+- TOP 9.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 9.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.15: Machbarkeitsstudie zur Umgestaltung des Umfelds des Deportations-Mahnmals in der Marc-Chagall-Straße - zur Kenntnis genommen
+- TOP 9.16: Altstadt, weiteres Vorgehen zur Oberflächenerneuerung des 2. Bauabschnittes und Sanierungskonzept der vorhandenen Oberflächen - Empfehlung einstimmig beschlossen
+- TOP 10: Anfragen aus vorherigen Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Regelanordnung für Fahrradständer an Baumscheiben - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 11: Anfragen
+- TOP 11.1: Luftreinigungsfilter in Schulen und Kitas des Stadtbezirks 1 - Anfrage der CDU-Fraktion
+- TOP 11.2: Minikreisverkehr Beuth-/Schirmer-/Schinkelstraße - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 11.3: Übersicht von zu pflanzenden Bäumen auf der Roßstraße und im gesamten Stadtbezirk 1 - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 11.4: Aktion Heimat-Sommer/Winter zur Weihnachtszeit - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anträge
+- TOP 12.1: Vorstellung der Verkehrsgesamtkonzeption im Quartier An der Piwipp/Ulmenstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 13: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 13.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 13.2: Weitere Fahrradständer auf der Camphausenstraße, Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/190/2020 - zur Kenntnis genommen
+- TOP 13.3: Laufstrecke Rheinpark, Beschluss der Bezirksvertretung 1 am 26.06.2020; Vorlage Nr. BV1/182/2020 - zur Kenntnis genommen
+- TOP 13.4: Opernhaus Düsseldorf, Beschluss der Bezirksvertretung 1 vom 27.03.2020; Vorlage Nr. BV1/128/2020 - zur Kenntnis genommen
+- TOP 13.5: Verhindern von Behinderungen auf dem Radweg am Mannesmannufer, Beschluss der Bezirksvertretung 1 am 28. Februar 2020; Vorlage Nr. BV1/080/2020 - zur Kenntnis genommen
+- TOP 13.6: Abfallbehälter Am Wehrhahn, Beschluss der Bezirksvertretung 1 vom 04.09.2020; BV1/244/2020 - zur Kenntnis genommen
+- TOP 13.7: Vermeidung von weiterer Verschmutzung der Grünanlage Hans-Böckler-Straße, Beschluss der Bezirksvertretung 1 vom 27.03.2020 - zur Kenntnis genommen
+- TOP 13.8: Erhalt des Kinderspielplatzes Rheinpark/Robert-Lehr-Ufer, Beschluss der Bezirksvertretung 1 vom 04.09.2020; Vorlage Nr. BV1/232/2020 - zur Kenntnis genommen
+- TOP 13.9: Baumscheibe Am Wehrhahn 53, Beschluss der Bezirksvertretung 1 vom 04.09.2020; Vorlage Nr. BV1/242/2020 - zur Kenntnis genommen
+- TOP 13.10: Straßenbäume in der Lützowstraße sowie in der Schwerinstraße im Abschnitt zwischen Bank - und Rolandstraße, Beschluss der Bezirksvertretung 1 vom 04. September 2020; Vorlage Nr.BV1/255/2020 - zur Kenntnis genommen
+- TOP 13.11: Verkehrssicherheit Bürgersteig Kaiserswerther Straße, Beschluss der Bezirksvertretung am 04.09.2020; Vorlage Nr. BV1/243/2020 - zur Kenntnis genommen
+- TOP 13.12: Nutzung der Parkplätze am Carlsplatz für Markthändler, Beschluss der Bezirksvertretung 1 vom 04.09.2020; BV1/237/2020 - zur Kenntnis genommen
+- TOP 13.13: Aufstellung einer Schaukel für Rollstuhlfahrer*innen auf dem Spielplatz im Hofgarten; Beschluss der BV 1 vom 22.02.2019; Nr. 171/ 38/2019 - zur Kenntnis genommen
+- TOP 13.14: Fahrradständer für den Stadtbezirk 1, Beschluss der Bezirksvertretung 1, vom 28.02.2020; Vorlage Nr. - zur Kenntnis genommen
+- TOP 13.15: Grünstreifen Golzheimer Straße Umwandlung in einen Blühstreifen / Wildblumenwiese, Beschluss der Bezirksvertretung 1 vom 04.09.2020; Vorlage Nr. BV1/234/2020 - überfraktioneller Antrag - zur Kenntnis genommen
+- TOP 13.16: Taxenstände auf der Derendorfer Allee, Beschluss der Bezirksvertretung 1 vom 04.09.2020; Vorlage Nr. BV1/249/2020 - zur Kenntnis genommen
+- TOP 13.17: Konsequente Fortführung der Fußgängerzone Robert-Lehr-Ufer und deren Schutz vor unbefugtem Autoverkehr, Beschluss der Bezirksvertretung 1 vom 26.06.2020; Vorlage Nr. BV1/177/2020 - zur Kenntnis genommen
+- TOP 13.18: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2021 - zur Kenntnis genommen
+- TOP 14: Verfügungsmittel der Bezirksvertretung 1
+- TOP 14.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Rheinkirche Düsseldorf - zurückgezogen
+- TOP 14.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Rheinkirche Düsseldorf - zurückgezogen
+- TOP 14.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 14.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Möbelkollektiv TEILMÖBLIERT - einstimmig beschlossen
+- TOP 14.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an digitale düsseldorf gUg - vertagt
+- TOP 14.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an efa-Stadtteiltreff/Mütterzentrum - einstimmig beschlossen
+- TOP 14.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 14.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Paul-Klee-Grundschule - einstimmig beschlossen
