@@ -1,8 +1,8 @@
 # Vollzitat: RL Corona-Härtefälle Kultur
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-06-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.1
+- Datum: 2020-11-14 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-26.06.2020
+14.11.2020
 bis
-13.11.2020
+22.07.2021
 
 RL Corona-Härtefälle Kultur
 
@@ -57,7 +57,7 @@ Ein Anspruch des Antragstellers auf Gewährung einer Zuwendung besteht nicht. Di
 II.
 Gegenstand der Förderung
 
-Die Zuwendung dient der Sicherung der Existenz freier Träger von kulturellen Einrichtungen und damit dem Erhalt bestehender Strukturen im Bereich Kunst und Kultur im Freistaat Sachsen. Sie wird zur Überbrückung finanzieller Engpässe gewährt, die im Verlauf des Jahres 2020 entstehen, soweit diese durch die COVID-19-Pandemie verursacht wurden.
+Die Zuwendung dient der Sicherung der Existenz freier Träger von kulturellen Einrichtungen und damit dem Erhalt bestehender Strukturen im Bereich Kunst und Kultur im Freistaat Sachsen. Sie wird zur Überbrückung finanzieller Engpässe gewährt, die im Verlauf der Jahre 2020 und 2021 entstehen, soweit diese durch die COVID-19-Pandemie verursacht wurden.
 
 III.
 Zuwendungsempfänger
@@ -68,7 +68,7 @@ Zuwendungen können als gemeinnützig anerkannte juristische Personen des Privat
 
 2.
 
-Zuwendungen können daneben auch juristische Personen des Privatrechts ohne anerkannte Gemeinnützigkeit erhalten, die satzungsgemäß als freie Träger im Bereich der Förderung von Kunst und Kultur tätig sind.
+Zuwendungen können daneben auch juristische Personen des Privatrechts ohne anerkannte Gemeinnützigkeit sowie Unternehmen des Privatrechts in Form von Personengesellschaften erhalten, die satzungsgemäß als freie Träger im Bereich der Förderung von Kunst und Kultur tätig sind.
 
 3.
 
@@ -126,13 +126,18 @@ Zoologische und Botanische Gärten, Landschaftsparks.
 
 4.
 
-Von einer Förderung ausgeschlossen sind Volkshochschulen, Kirchgemeinden oder sonstige Religionsgemeinschaften sowie Stadt- und Mehrzweckhallen.
+Zuwendungen können auch Träger von kleinen und mittleren kulturellen Spielstätten in den Bereichen Darstellende Künste und Musik erhalten, die im Haupterwerb Einzelunternehmer oder selbständige Angehörige der Freien Berufe sind, sofern der Betrieb einer kulturellen Spielstätte ihr hauptsächlicher Unternehmenszweck ist, die Spielstätte mindestens 24 kulturelle Veranstaltungen pro Jahr vorweisen kann (Nachweis anhand des Jahresprogramms 2019), die Veranstaltungen allgemein öffentlich zugänglich sind und die Spielstätte maximal 2 000 Besucherplätze (sitzend/stehend) hat.
+
 
 5.
 
-Überwiegend wirtschaftlich tätige Antragsteller, die sich bereits am 31. Dezember 2019 in wirtschaftlichen Schwierigkeiten befunden haben, sind von einer Förderung ausgeschlossen. Es gilt Artikel 2 Absatz 18 der Verordnung (EU) Nr. 651/20141 zur Definition eines Unternehmens in Schwierigkeiten.
+Von einer Förderung ausgeschlossen sind Volkshochschulen, Kirchgemeinden oder sonstige Religionsgemeinschaften sowie Stadt- und Mehrzweckhallen.
 
 6.
+
+Überwiegend wirtschaftlich tätige Antragsteller, die sich bereits am 31. Dezember 2019 in wirtschaftlichen Schwierigkeiten befunden haben, sind von einer Förderung ausgeschlossen. Es gilt Artikel 2 Absatz 18 der Verordnung (EU) Nr. 651/20141 zur Definition eines Unternehmens in Schwierigkeiten.
+
+7.
 
 Der Antragsteller muss seinen Sitz bereits vor dem 15. März 2020 im Freistaat Sachsen gehabt haben und überwiegend im Freistaat Sachsen tätig sein.
 
@@ -142,7 +147,7 @@ Zuwendungsvoraussetzungen
 
 1.
 
-Der vom Antragsteller geltend gemachte Liquiditätsbedarf ist im Jahr 2020 aufgrund der im Zusammenhang mit der COVID-19-Pandemie getroffenen behördlichen Maßnahmen entstanden und resultiert aus unabweisbaren Einnahmeausfällen oder notwendigen zusätzlichen Ausgaben. Im Falle der unabweisbaren Einnahmeausfälle ist die Zuwendung zur Deckung der allgemeinen Betriebsausgaben erforderlich. Empfänger der Leistung haben bei der Antragstellung zu erklären, ob alle zur Verfügung stehenden Möglichkeiten zur Kostensenkung (zum Beispiel Kurzarbeit) ausgeschöpft und sonstige Finanzhilfen und Leistungen gemäß Nummer 4 beantragt wurden. Der Zuwendungsempfänger gibt dafür Erklärungen gemäß Ziffer VI Nummer 2 Satz 3 ab.
+Der vom Antragsteller geltend gemachte Liquiditätsbedarf ist in den Jahren 2020 und 2021 aufgrund der im Zusammenhang mit der COVID-19-Pandemie getroffenen behördlichen Maßnahmen entstanden und resultiert aus unabweisbaren Einnahmeausfällen oder notwendigen zusätzlichen Ausgaben. Im Falle der unabweisbaren Einnahmeausfälle ist die Zuwendung zur Deckung der allgemeinen Betriebsausgaben erforderlich. Empfänger der Leistung haben bei der Antragstellung zu erklären, ob alle zur Verfügung stehenden Möglichkeiten zur Kostensenkung (zum Beispiel Kurzarbeit) ausgeschöpft und sonstige Finanzhilfen und Leistungen gemäß Nummer 4 beantragt wurden. Der Zuwendungsempfänger gibt dafür Erklärungen gemäß Ziffer VI Nummer 2 Satz 3 ab.
 
 2.
 
@@ -162,15 +167,15 @@ Art, Umfang und Höhe der Zuwendungen
 
 1.
 
-Die Zuwendung wird als Projektförderung in Form eines Zuschusses gewährt. Als Finanzierungsart wird dabei eine Festbetragsfinanzierung in Form einer einmaligen Zuwendung festgelegt.
+Die Zuwendung wird als Projektförderung in Form eines Zuschusses gewährt. Als Finanzierungsart wird dabei eine Festbetragsfinanzierung in Form einer Zuwendung festgelegt.
 
 2.
 
-Die Höhe der Zuwendung beträgt in Abhängigkeit vom erklärten Liquiditätsbedarf regelmäßig bis zu 10 000 Euro.
+Die Höhe der Zuwendung beträgt in Abhängigkeit vom erklärten Liquiditätsbedarf regelmäßig bis zu 10 000 Euro jährlich.
 
 3.
 
-Sofern der Träger einen höheren Liquiditätsbedarf nachweist, kann die Zuwendung abweichend von Nummer 2 bis zu 50 000 Euro betragen.
+Sofern der Träger einen höheren Liquiditätsbedarf nachweist, kann die Zuwendung abweichend von Nummer 2 bis zu 50 000 Euro jährlich betragen.
 
 4.
 
@@ -186,11 +191,11 @@ Anträge auf Förderung sind bei der Sächsischen Aufbaubank – Förderbank –
 
 2.
 
-Der Antrag ist unter Verwendung des durch die Bewilligungsstelle zur Verfügung gestellten Antragsverfahrens bis spätestens 20. November 2020 einzureichen (www.sab.sachsen.de). Dem Antrag ist bei Antragstellern gemäß Ziffer III Nummer 1 die Gemeinnützigkeitsbescheinigung beizufügen. Der Antragsteller hat die erforderlichen Eigenerklärungen abzugeben. Darüber hinaus hat der Antragsteller im Fall der Ziffer V Nummer 3 zum Nachweis eines höheren Liquiditätsbedarfes zusätzlich einen qualifizierten Liquiditätsplan gemäß dem von der Bewilligungsstelle elektronisch bereitgestellten Muster vorzulegen.
+Der Antrag ist unter Verwendung des durch die Bewilligungsstelle zur Verfügung gestellten Antragsverfahrens bis spätestens 20. November 2021 einzureichen (www.sab.sachsen.de). Dem Antrag ist bei Antragstellern gemäß Ziffer III Nummer 1 die Gemeinnützigkeitsbescheinigung beizufügen. Der Antragsteller hat die erforderlichen Eigenerklärungen abzugeben. Darüber hinaus hat der Antragsteller im Fall der Ziffer V Nummer 3 zum Nachweis eines höheren Liquiditätsbedarfes zusätzlich einen qualifizierten Liquiditätsplan gemäß dem von der Bewilligungsstelle elektronisch bereitgestellten Muster vorzulegen.
 
 3.
 
-Die Bewilligungsstelle hält 87 Prozent der verfügbaren Mittel für Anträge von Antragstellern gemäß Ziffer III Nummer 1 und 13 Prozent für Anträge von Antragstellern gemäß Ziffer III Nummer 2 vor.
+Die Bewilligungsstelle hält 87 Prozent der verfügbaren Mittel für Anträge von Antragstellern gemäß Ziffer III Nummer 1 und 13 Prozent für Anträge von Antragstellern gemäß Ziffer III Nummer 2 und 4 vor.
 
 4.
 
@@ -224,7 +229,7 @@ Die erforderlichen Informationen gemäß Anhang III der Verordnung der Kommissio
 VII.
 Inkrafttreten und Außerkrafttreten
 
-Die Richtlinie tritt am Tag nach ihrer Unterzeichnung in Kraft und am 31. Dezember 2020 außer Kraft.
+Die Richtlinie tritt am Tag nach ihrer Unterzeichnung in Kraft und am 31. Dezember 2021 außer Kraft.
 
 Dresden, den 25. Juni 2020
 
@@ -242,9 +247,9 @@ Fsn-Nr.: 5571-V20.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 26. Juni 2020
+Fassung gültig ab: 14. November 2020
 
-Fassung gültig bis: 13. November 2020
+Fassung gültig bis: 22. Juli 2021
 
 Drucken/Speichern
 
@@ -269,7 +274,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18746.1
+https://www.revosax.sachsen.de/vorschrift/18746.2
 Stand vom
 18.11.2026
 
