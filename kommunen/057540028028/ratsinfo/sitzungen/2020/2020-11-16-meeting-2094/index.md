@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (2. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2020-11-16T17:00:00+01:00
+- Ende: 2020-11-16T18:18:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTUJZftEvLgFhcs-Z1eRwcY
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2094
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUAvrGicXrJGj1iUNO0oE69cPAF0hK-Sv0Y7G-SI7X3b/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_16.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcZ8ijiaDDtoJ4Gw-PxDkt1et8Z_Ug2KT6A3DSRarI0E/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_16.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Verpflichtung der Ortsvorsteher
+- TOP 4: Personelle Zusammensetzung der Fachausschüsse des Rates der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 5: Bestimmung der Vorsitzenden und stellv. Vorsitzenden der Ausschüsse - Einstimmig
+- TOP 6: 13. Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse
+- TOP 7: Aufwendungen für Fraktionen - Einstimmig
+- TOP 8: Wahl der Mitglieder des Jugendhilfeausschusses - Einstimmig
+- TOP 9: Wahl der Mitglieder des Integrationsrates - Einstimmig
+- TOP 10: FGS-Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück - Besetzung der Gesellschafterversammlung - Besetzung des Aufsichtsrates - Einstimmig
+- TOP 11: AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH a) Besetzung der Gesellschafterversammlung b) Besetzung des Aufsichtsrates - 51 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 12: Besetzung des Aufsichtsrates und der Gesellschafterversammlung für die Netzgesellschaft Rheda-Wiedenbrück GmbH & Co. KG - Einstimmig
+- TOP 13: Besetzung des Aufsichtsrates und der Gesellschafterversammlung für die Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG - Einstimmig
+- TOP 14: Besetzung des Aufsichtsrates und der Gesellschafterversammlung für die Gas-Netzgesellschaft Rheda-Wiedenbrück GmbH & Co. KG - Einstimmig
+- TOP 15: Wahl der Vertreter*innen in die Verbandsversammlung des Sparkassenzweckverbandes des Kreises Gütersloh und der Stadt Rheda-Wiedenbrück und Bindung der gewählten Mitglieder bei der Besetzung weiterer Gremien - Einstimmig
+- TOP 16: Wahl eines Mitgliedes des Kuratoriums der "Stiftung der Kreissparkasse Wiedenbrück" - Einstimmig
+- TOP 17: Wahl der Vertreter*innen für die Verbandsversammlung des Zweckverbandes VHS "Reckenberg-Ems" - Einstimmig
+- TOP 18: INFOKOM Gütersloh – Zweckverband für kommunale Informations- und Kommunikationstechnik a) Wahl der Vertreter und Stellvertreter für die Verbandsversammlung b) Vorschlag für die Wahl der Mitglieder des Verwaltungsausschusses - Einstimmig
+- TOP 19: Entsendung und personelle Besetzung von Stiftungsrat und Kuratorium der Bürgerstiftung Rheda-Wiedenbrück - Einstimmig
+- TOP 20: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung der Wasserversorgung Beckum GmbH - Einstimmig
+- TOP 21: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "Kommunale Beteiligung Lokalfunk im Kreis Gütersloh" - Einstimmig
+- TOP 22: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "pro Wirtschaft GT GmbH" - Einstimmig
+- TOP 23: Wahl der Mitglieder des Wapel-Wasser-Verbandes der Städte Rheda-Wiedenbrück, Rietberg und Verl im Kreis Gütersloh - Einstimmig
+- TOP 24: Bestellung von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 25: Besetzung der Städtepartnerschaftskommission - Einstimmig
+- TOP 26: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 27: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 28: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 29: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 30: Erklärung von Ausschließungsgründen
+- TOP 31: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
