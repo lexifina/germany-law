@@ -1,0 +1,171 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2020-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5746754
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5746754
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.: Sondersitzung / Infoveranstaltung Klinikum Harlaching
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2: UA Mobilität
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.: Ggf. Bildung eines Sonderausschusses 2.1.1 Beschlussfassung über Größe 2.1.2 Benennung der Mitglieder und ihrer Stellvertreter 2.1.3 Wahl der / des Vorsitzenden 2.1.4. ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Untergiesing – Diakonie im Münchner Süden e.V. Anschaffung eines Raumluftreinigungsgerätes 3.538,03 € / Az. 0262.0-18-0222
+- TOP 3.1.2.2.: Stadtbezirksbudget Bürgerinitiative Mehr Platz zum Leben StauSchallWand am Halt 58 von April – Juli 2021 28.842,00€; Az. 0262.0-18-0221
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Offensive für Raumluftgeräte: Nachtragsantrag der Grünen Fraktion vom 12.11.2020
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweis Initiative "Pflücken"
+- TOP 3.1.6.2.: Verwendungsnachweis "Carpe Diem"
+- TOP 3.1.6.3.: Budget-Antrag Kairosis Änderungsbescheid
+- TOP 3.1.6.4.: Budget-Antrag ASZ-Harlaching Bescheid
+- TOP 3.1.6.5.: Budget-Antrag Kreisjugendring Bescheid
+- TOP 3.1.7: Sonstiges
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Antrag auf Einführung einer allgemeinen Parkgebühr; Bürgeranliegen
+- TOP 3.2.3.2.: Regelung der Straßenbeleuchtung in der Benediktenwandstraße; Bürgeranliegen
+- TOP 3.2.3.3.: Antrag auf Sonderparkbereich in der Weyarner Straße 12; Bürgeranliegen
+- TOP 3.2.3.4.: Parkplatzmangel im Südtiroler Viertel, Bürgeranliegen vom 22.10.2020
+- TOP 3.2.3.5.: Radweg und rote Markierungen, Bürgeranliegen vom 24.07.2020
+- TOP 3.2.3.6.: Zufahrtsberechtigung für die Sicherheitszone Städtisches Stadion an der Grünwalder Straße Diverse Bürgerschreiben
+- TOP 3.2.3.7.: Parkplatzsuchverkehr auf der Soyerhofstraße, Bürgeranliegen vom 13. Oktober 2020 20:11
+- TOP 3.2.3.8.: Erweiterung der Kurzparkzone Peter-Auzinger-Straße 3 -Antrag der SPD-Fraktion-
+- TOP 3.2.3.9.: McGraw-Express -Antrag der Fraktion B90/Die Grünen-
+- TOP 3.2.3.10.: Verlängerung der Buslinie 220 Winning – Giesing bis zum Ostbahnhof -Antrag der Fraktion B90/Die Grünen-
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: personenbezogener Sonderparkplatz für Schwerbehinderte Stilfser-Joch-Straße 3
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Antrag zu einer vorläufigen Regelung der Radwegesicherheit an der Pilgersheimer Straße
+- TOP 3.2.5.2.: Umwidmung Brehmstraße in einen verkehrsberuhigten Bereich
+- TOP 3.2.5.3.: Karolingerallee ab der Kreuzung Grünwalderstraße bis zur Kehre: Einrichten einer Tempo30-Zone; Bürgeranliegen vom 05.08.2020
+- TOP 3.2.5.4.: Spiegel für die Autofahrer an der Kreuzung Pilgersheimerstraße/Winterstraße
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Vollmarstraße 8: Einschränkung öffentlicher Verkehrsgrund wegen Bauarbeiten
+- TOP 3.2.6.2.: Josef-Vötter-Straße / Am Perlacher Forst: Antwort der Polizeiinspektion auf Bürgerbeschwerde
+- TOP 3.2.6.3.: Obere Weidenstr. 1: Vollsperre
+- TOP 3.2.6.4.: Isarradweg am Flauchersteg, Zeichen 133 StVO und Markierung Zeichen 295 StVO
+- TOP 3.2.6.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Soyerhofstr. 8
+- TOP 3.2.6.6.: Pilgersheimer Straße – Geschwindigkeitsreduzierung (T30)
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Hoher Weg/Kuntersweg: Beschilderung Landschaftsschutzgebiet - Bürgeranliegen
+- TOP 3.3.3.2.: Unterhalt und Nutzung der Isarauen sowie den damit verbundenen Auswirkungen auf Natur und Umwelt Schriftverkehr zum Ortstermin
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Baumfällungen (Anhörungen): - Vintschgauer Str. 9 - Säbener Str. 199 - Benediktenwandstraße 11a - Wilhelm-Kuhnert-Straße 21 - Tegelbergstraße 8 - Vahrner Straße 5 - Haurthauser Straße 71a - LSG Isarauen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Testweise Einführung von Wertstofftonnen in Untergiesing-Harlaching
+- TOP 3.3.5.2.: Harthauserstraße 82: Extreme Verschmutzungen rund um den Stellplatz für Containertonnen
+- TOP 3.3.5.3.: Die LHM möge einen Appell an die Bürger richten, dass erst ab 00:00 Uhr bis ca. 01:00 Uhr Feuerwerkskörper und Böller benützt werden dürfen
+- TOP 3.3.5.4.: Harlachinger Schlittenberg - Stellungnahme an die Bürgerin
+- TOP 3.3.5.5.: Erhöhung der Reinigungsintervalle an der Bushaltestelle Kolumbusplatz - Halt 58
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Fällungsantrag vom 29.07.2020 auf dem Grundstück Rabenkopfstr. 26 - 26a
+- TOP 3.3.6.2.: Fällungsantrag vom 17.10.2020 auf dem Grundstück Tegelbergstr. 23
+- TOP 3.3.6.3.: Fällungsanträge vom 23.07.2020 auf dem Grundstück Schönstr. 36 - 48a
+- TOP 3.3.6.4.: Antrag auf Baumveränderung bzw. Baumfällung vom 22.09.2020 auf dem Grundstück Prößlstr. 14
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Rotbuchenschule: Verstärkerbusse, Dringlichkeitsantrag UA Soziales vom 12.11.2020
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Modernisierung Stadion Grünwalder Straße, Bürgeranliegen vom 15. Oktober 2020
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Konradinstraße 9: Variante 1: Neubau eines Wohngebäudes - Variante 2: hofseitige Erweiterung eines Wohn- und Geschäftshauses - VORBESCHEID
+- TOP 3.5.5.2.: Jamnitzer Straße 8: Hofseitige Erweiterung eines Wohnhauses - VORBESCHEID (2 Var.)
+- TOP 3.5.5.3.: Jamnitzer Straße 6: Hofseitige Erweiterung eines Wohnhauses - VORBESCHEID
+- TOP 3.5.5.4.: Probleme am Hans-Mielich-Platz
+- TOP 3.5.5.5.: Folgende ortsbild prägende Großbäume sollen in die Liste der Naturdenkmäler aufgenommen werden: 1 Schwarzkiefer- Stadelbergstr. 7 1 Spitzahorn – Geiselgasteigstr. 26 1 Rotbuche - gegenüber der Marienklause-Kapelle
+- TOP 3.5.5.6.: Zu wenig Spielplätze im westlichen Giesing/Harlaching
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Dauer der Bauarbeiten am Wettersteinplatz
+- TOP 3.5.6.2.: (U) Masterplan für den Standort Klinikum Harlaching 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 3.5.6.3.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 3.5.6.4.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 3.5.6.5.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 3.5.6.6.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 3.5.6.7.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 3.5.6.8.: Oberbiberger Str. 17: Baumfällung mit Ersatzpflanzung
+- TOP 3.5.6.9.: Pilgersheimer Str. 67: Modernisierungsmaßnahmen
+- TOP 3.5.6.10.: Waldeckstr. 62: Modernisierungsmaßnahmen
+- TOP 3.5.6.11.: Pilgersheimer Str. 83: Modernisierungsmaßnahmen
+- TOP 3.5.6.12.: Prößlstr. 14: Baumfällung mit Ersatzpflanzung
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Cafe "Gans woanders", Bürgeranliegen vom 18. Oktober 2020
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Verlängerung Fit im Park der LHM ab 02.11.2020 bis 31.03.2021
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Ausnahmegenehmigung der Öffnungszeiten des Hexenhäuschens in der Pilgersheimer Str. 13
+- TOP 3.6.5.2.: Umgestaltung des Hans-Mielich-Platzes, Bürgeranliegen vom 21. Oktober 2020
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Unveränderte Fortführung Roy Bistro Bar Reginfriedstr. 2
+- TOP 3.6.6.2.: Unveränderte Fortführung Gasthaus Siebenbrunn Siebenbrunner Str. 5
+- TOP 3.6.7: Sonstiges
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4.1.1.: - Reichenhallerstraße 49, Nutzungsänderung von Gewerbe in Wohnraum - Candidstraße 2, Neubau einer Wohnanlage mit 187 WE, 1 Gewerbe, Tiefgarage, Kinderkrippe und 4 Ateliers mit Mobilitätskonzept - Naupliastraße 116, Errichten zweier Gauben - Sommerstraße 47, Neubau eines Wohngebäudes (7 WE) mit Tiefgarage - Am Perlacher Forst 196, Neubau eines Wohngebäudes (2 WE) - Grünwalder Straße 114, Neubau einer Dreifachturnhalle mit Verwaltungsgebäude und Parkdeck
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
