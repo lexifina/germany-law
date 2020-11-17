@@ -1,0 +1,7 @@
+# TOP 1.2: Standort Windrad
+
+- Sitzung: Bezirksvertretung Gräfrath (1. Sitzung) (2020-11-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/61025
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/33631
