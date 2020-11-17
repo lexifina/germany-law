@@ -1,0 +1,136 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6120274
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6120274
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Grüne Welle für Radfahrende in der Blutenburg-/Karlstraße, Bürgeranliegen vom 30.09.2020
+- TOP 5.2.2.: Haltverbote wegen Baustelle Schellingstraße 57 Bürgeranliegen vom 02.10.2020
+- TOP 5.2.3.: Durchgangsverkehr in der Zieblandstraße Bürgeranliegen vom 06.10.2020
+- TOP 5.2.4.: Fortbestand der Pop-Up-Radwege in der Theresien- und Gabelsbergerstraße Bürgeranliegen vom 08. und 22.10.2020
+- TOP 5.2.5.: Erhaltungssatzung Josephsplatz, Bürgeranliegen vom 12.10.2020
+- TOP 5.2.6.: Georg-Elser-Platz: Maßnahmen gegen Abstellen von Rollern und Fahrrädern; Institutionen in der Maxvorstadt laut Eigenwerbung in „Schwabing“, Bürgeranliegen vom 11.10.2020
+- TOP 5.2.7.: Zeitlich befristete Lieferzone für Netto-Markt in der Hiltenspergerstraße Bürgeranliegen vom 20.10.2020
+- TOP 5.2.8.: Zustand des Alten Botanischen Gartens, Bürgeranliegen vom 23.10.2020
+- TOP 5.2.9.: Zwei-Richtungs-Radverkehr in der Gabelsbergerstraße Bürgeranliegen vom 23.10.2020
+- TOP 5.2.10.: Verbesserungen für Radverkehr Ecke Karlstraße/Dachauer Straße Bürgeranliegen vom 23.10.2020
+- TOP 5.2.11.: Schrotträder und Missachtung des Halteverbots im Steinickeweg Bürgeranliegen vom 27.10.2020
+- TOP 5.2.12.: „Fahrradstraße“ Tengstraße, Bürgeranliegen vom 22.10.2020
+- TOP 5.2.13.: Umbau Kreuzung Winzerer-/Schellingstraße und Winzerer-/Görresstraße Bürgeranliegen vom 28.10.2020
+- TOP 6.1.: Zweckentfremdungen in der Maxvorstadt
+- TOP 6.2.: Lärmbelästigung durch Gastronomie in der Türken- und Adalbertstraße, Antwort auf weitergeleitetes Bürgeranliegen (TOP A 5.2.4/09 2020)
+- TOP 6.3.: Ampelschaltung Stiglmaierplatz, Antwort auf weitergeleitetes Bürgeranliegen (TOP A 5.2.3/09 2020)
+- TOP 6.4.: Digitale Bereitstellung von Planunterlagen
+- TOP 6.5.: Freischankflächen auf Parkplätzen in der Schellingstraße Antwort auf Bürgeranliegen (TOP A 5.2.10/10 2020)
+- TOP 6.6.: Lärmbelästigung im Arnulfpark Antwort auf weitergeleitetes Bürgeranliegen (TOP A 5.2.1 07/2020)
+- TOP 6.7.: Lärmterror an der Baustelle Nymphenburger Straße 64
+- TOP 6.8.: Sicherheit für Fahrgäste und Radfahrer an der Übergangshaltestelle Brienner Straße verbessern
+- TOP 6.9.: Instandsetzung von Fußwegen, Treppen und Rampen im Kunstareal
+- TOP 6.10.: Grüne Infrastruktur (Dachbegrünung) fßr die Maxvorstadt
+- TOP 6.11.: Aufstellung zusätzlicher Mülleimer auf dem Josephsplatz
+- TOP 6.12.: Verkehrssituation Dachauer Straße/Sandstraße Antwort auf Bürgeranliegen (TOP A 5.2.7/08 2020)
+- TOP 6.13.: Lärmbelästigung und exzessive Bestuhlung durch Bar in der Luisenstraße Antwort auf Bürgeranliegen (TOP A 5.2.2/10 2020)
+- TOP 6.14.: Jeder Baum zählt – Vorschläge für Baumpflanzungen in der Maxvorstadt: Kreittmayrstraße Antwort auf BA-Schreiben (TOP A 5.2.7/10 2020)
+- TOP 6.15.: Fußgängersicherheit Baustelle Neureutherstraße 16 Antwort auf Bürgeranliegen (TOP A 5.2.3/10 2020)
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag Grüne vom 02.11.2020 Reform der Stellplatzsatzung schnell umsetzen
+- TOP 2.1.1.: Baulisten der LBK: 40., 41., 42., 43., 44. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 38., 39., 40., 41., 42. KW
+- TOP 2.1.3.: Barer Straße 77 – TEKTUR, Umbau, Sanierung und Nutzungsänderung VGB sowie Neubau eines Rückgebäudes mit Tiefgarage (hier: Zusammenlegung zweier Wohnungen im 2. OG/RGB zu einer Wohneinheit)
+- TOP 2.1.4.: Arnulfstraße 62, Umbau des ehemaligen Paketzustellamts („Arnulfpost“) in einen Bürokomplex und ein Entwicklungszentrum eines Technologieunternehmens, vertagt aus 10 2020
+- TOP 2.1.5.: Schnorrstraße 6, Neubau eines Wohngebäudes mit Tiefgarage, Abbruch einer Garage
+- TOP 2.1.6.: Schwindstraße 6, Sanierung und Erweiterung eines Mehrfamilienhauses, Aufstockung zur Errichtung von drei Wohneinheiten im 4. Ober- und Dachgeschoss, Einbau eines Personenaufzugs, Versetzen und Ergänzen der östlichen Balkonanlage zum Anbau einer Notleiter, Eibau von Bädern, Einbau einer internen Treppe EG – KG
+- TOP 2.1.7.: Gabelsbergerstraße 22 – TEKTUR, Umbau und Aufstockung eines Wohngebäudes mit Gewerbeeinheit
+- TOP 2.1.8.: Heßstraße 14 – TEKTUR, VGB: Aufstockung und Aufzugsanbau hofseitig, RGB: Neubau eines Studentenwohnheims und Errichtung einer Duplexgarage, hier Umwandlung der Duplex- in eine Doppelgarage und daraus folgende Höherlegung des Geländeniveaus und der Bodenplatte (RGB)
+- TOP 2.1.9.: Theresienstraße 21, Nutzungsänderung einer Büroeinheit zu einer Wohnung (1. OG) sowie einer Büroeinheit zu 2 Wohnungen (2. OG)
+- TOP 3.1.1.: Schnorrstraße 6, Neubau eines Wohngebäudes mit Tiefgarage, Abbruch einer Garage
+- TOP 3.1.2.: Heßstraße 14- TEKTUR
+- TOP 3.2.1.: Akademiestraße 2: Fällung einer Säulenpappel, Veränderungen an drei Buchen
+- TOP 3.2.2.: Adamstraße 4: Fällung eines Baumes
+- TOP 3.2.3.: Ludwigstraße 2: Fällung zweier Robinien
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neubau Hauptbahnhof München, Fahrradparken – Sachstandsbericht und weiteres Vorgehen, Sitzungsvorlage Nr. 20-26 / V 01456
+- TOP 5.2.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 5.3.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 5.4.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 5.5.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 5.6.: Referat für Stadtplanung und Bauordnung, Antwort auf Stadtratsanfrage von DIE LINKE „Wem gehört München? Türkenstr. 52/54: Wohnraum vernichtet für Spekulation“
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 16.10.2020 Maßnahmenpaket zur Beschleunigung der Buslinie 153 im Abschnitt Dachauer Straße – Nymphenburger Straße
+- TOP 1.2.: Antrag SPD vom 02.11.2020 Unverzügliche Instandsetzung des Fußwegs vor Barer Straße 77
+- TOP 1.3.: Antrag SPD, CSU und Grüne vom 23.10.2020 Verkehrsversuch Tempo 30 in der Schellingstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Austausch von Lichtsignalanlagen: Stiglmaierplatz
+- TOP 2.1.2.: Zwei Kfz-Stellplätze vor dem Haupteingang der TUM in Fahrradstellplätze umwandeln
+- TOP 2.1.3.: Einrichtung von gesonderten Abstellflächen für E-Tretroller
+- TOP 2.2.1.: Nachtspaziergang mit dem Baureferat am 26.01. oder 23.02.2021: Auswahl des Termins sowie der Wunschthemen und -orte
+- TOP 2.2.2.: Augustenstraße 82: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.3.: Fahrradstellplätze Ortstermin Alternativstellplätze BA-Antrags Nr. 14-20 / B 05789
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (E) Häufigere Geschwindigkeitsmessungen auf der Ludwigstraße
+- TOP 3.2.: Verkehrsrechtliche Anordnungen: a) Beidseitige Markierung von Radfahrstreifen auf der Brienner Straße zwischen Türkenstraße und Karolinenplatz b) Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Nordendstr. 6 c) Öffnung der Erzgießereistraße zwischen Nymphenburger Straße und Dachauer Straße für den gegenläufigen Radverkehr d) Teilsperrung Königinstraße wegen Fernkältearbeiten e) Oskar-von-Miller-Ring und Altstadtringtunnel
+- TOP 3.3.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Barer Str. 38, b) Schellingstr. 27, c) Schönfeldstr. 24, d) Amalienstr. 59, e) Barer Str. 58, f) Türkenstr. 26
+- TOP 3.4.: Ausnahmezulassung für den nächtlichen Betrieb von Baumaschinen im Rahmen der Trennung einer Wasserleitung ind der Fürstenstr. 6 bis 8 (eine Nacht im Zeitraum 14. bis 23.10.2020)
+- TOP 3.5.: (U) Quartalsbeschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel Umsetzung der Bürgerbegehren „Radentscheid“ und „Altstadt-Radlring“ aussetzen Antrag Nr. 20-26 / A 00112 der AfD vom 06.06.2020
+- TOP 3.6.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 3.7.: Eilentscheidungen der Vorsitzenden: a) Zustimmung zur Verlängerung der Baugenehmigung für den Betrieb der „Minna Thiel“, b) Zustimmung zur Erweiterung einer Freischankfläche in der Augustenstraße 96, c) Zustimmung zur Genehmigung einer Kleinstfreischankfläche in der Adalbertstraße 12
+- TOP 3.8.: Ausnahmezulassung für nächtliche Filmdreharbeiten vom 11. bis 14.11.2020 in der Schellingstraße 57
+- TOP 3.9.: Sperrung des Spielplatzes am Königsplatz ab 30.10.2020 zur Bekämpfung von Ratten
+- TOP 3.10.: Radlroute Mailinger-/Lothstraße vervollständigen: Vormerkung zum Ortstermin am 12.10.2020
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD und CSU vom 03.11.2020 Mehr Ressourcen für Kinder- und Kita-Aktions-Koffer
+- TOP 1.2.: Antrag CSU vom 03.11.2020 Planung eines Bildungsbusses
+- TOP 1.3.: Antrag Grüne vom 01.11.2020 Schulen in der Maxvorstadt im Corona-Winter unterstützen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Auslagerung der heilpädagogischen Tagesstätte und Professor-Otto-Speck-Schule an der Dachauer Str. 98 auf Flächen der neu erbauten Grundschule Infanteriestr. 25
+- TOP 4.2.: (U) "Platz da für Mädchen* und junge Frauen*" - Ergebnisse des Partizipationsprojekts ernst nehmen und Bedürfnissen schnellstmöglich gerecht werden Antrag Nr. 14-20 / A 05644 ......................
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Grüne vom 30.10.2020 Kultur unterstützen in Krisenzeiten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Mobile Produktionen" Theaterprojekt "Wer dich liest, sieht Menschen" vom 14.12.2020 - 27.03.2021 2.500,00 Euro, Az.: 0262.0-3-0319
+- TOP 2.2.: (E) Stadtbezirksbudget Init. „Hoflieferanten“ Projekt „Die Hoflieferanten“ vom 04.11. – Dezember 2020 1.541,50€; Az. 0262.0-3-0320
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Bearbeitungsfrist bei Stadtratsanträgen, BA-Anträgen und BV-Empfehlungen, Informationsschreiben des Oberbürgermeisters an die städtischen Referate
+- TOP 1.2.: Umbesetzung in zwei Unterausschüssen
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
