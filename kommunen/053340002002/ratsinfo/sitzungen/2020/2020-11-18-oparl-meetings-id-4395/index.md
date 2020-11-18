@@ -1,0 +1,83 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-11-18T17:00:00+01:00
+- Ende: 2020-11-18T18:45:00+01:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4395
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4395
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Wahl der Ausschussmitglieder - zur Kenntnis genommen
+- TOP 4: Bildung von Ausschüssen des Rates der Stadt Aachen, hier: Kinder- und Jugendausschuss - geändert beschlossen
+- TOP 5: Besetzung des Schulausschusses - Wahl sachkundiger Einwohner/innen - ungeändert beschlossen
+- TOP 6: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 7: Bestellung der Mitglieder des Aufsichtsrates der regio iT gesellschaft für informationstechnologie mbh (regio iT) - ungeändert beschlossen
+- TOP 8: Bestellung der Mitglieder des Aufsichtsrates der Aachener Gesellschaft für Innovation und Technologietransfer GmbH (AGIT) - ungeändert beschlossen
+- TOP 9: Bestellung der Mitglieder des Aufsichtsrates der gewoge AG - ungeändert beschlossen
+- TOP 10: Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH - ungeändert beschlossen
+- TOP 11: Bestellung der Mitglieder des Aufsichtsrates der EUROGRESS AACHEN Betriebs GmbH - ungeändert beschlossen
+- TOP 12: Bestellung der Mitglieder des Aufsichtsrates der AWA Entsorgung GmbH - ungeändert beschlossen
+- TOP 13: Bestellung von Vertretern und Vertreterinnen der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West (ZEW) - ungeändert beschlossen
+- TOP 14: Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co. KG - ungeändert beschlossen
+- TOP 15: Bestellung der Mitglieder des Aufsichtsrates der GEGRA Gewerbegrundstücksgesellschaft mbH - ungeändert beschlossen
+- TOP 16: Bestellung der Mitglieder des Aufsichtsrates der Flugplatz Aachen-Merzbrück GmbH (FAM) - ungeändert beschlossen
+- TOP 17: Bestellung der Mitglieder des Aufsichtsrates der Aachener Parkhaus GmbH (APAG) - ungeändert beschlossen
+- TOP 18: Bestellung der Mitglieder des Aufsichtsrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH (WAG) - ungeändert beschlossen
+- TOP 19: Bestellung eines Mitgliedes des Aufsichtsrates der RWTH Aachen Campus GmbH - ungeändert beschlossen
+- TOP 20: Bestellung der Mitglieder des Aufsichtsrates der Aachener Verkehrsverbund GmbH (AVV) - ungeändert beschlossen
+- TOP 21: Bestellung der Mitglieder des Aufsichtsrates der Aachener Straßenbahn und Energieversorgungs- Aktiengesellschaft (ASEAG) - ungeändert beschlossen
+- TOP 22: Bestellung von Mitgliedern des Aufsichtsrates der Energieversorgungs- und Verkehrsgesellschaft mbH, Aachen (E.V.A.) - ungeändert beschlossen
+- TOP 23: Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Aachen AG (STAWAG) - ungeändert beschlossen
+- TOP 24: Bestellung von Mitgliedern der Verbandsversammlung des Aachener Verkehrsverbundes (AVV) - ungeändert beschlossen
+- TOP 25: Bestellung der Mitglieder der Verbandsversammlung des Wasserverbandes Eifel-Rur (WVER) - ungeändert beschlossen
+- TOP 25.1: Bestellung der Mitglieder der Verbandsversammlung des Wasserverbandes Eifel-Rur (WVER) - zur Kenntnis genommen
+- TOP 26: Bestellung der Mitglieder des Aufsichtsrates der Aachener Stadion Beteiligungsgesellschaft mbH (ASB) - ungeändert beschlossen
+- TOP 27: Bestellung der Mitglieder des Aufsichtsrates der Städtische Entwicklungsgesellschaft Aachen GmbH & Co. KG (SEGA) - ungeändert beschlossen
+- TOP 28: Studieninstitut für kommunale Verwaltung Aachen - ungeändert beschlossen
+- TOP 29: Trägerverein Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. der Handwerkskammer Aachen - ungeändert beschlossen
+- TOP 30: Benennung von Mitgliedern des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - ungeändert beschlossen
+- TOP 31: Benennung der Mitglieder des Rates im Umlegungsausschuss - ungeändert beschlossen
+- TOP 32: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule - ungeändert beschlossen
+- TOP 33: Benennung eines Vorstandsmitgliedes und dessen Stellvertreter im Naturpark Nordeifel e.V. - ungeändert beschlossen
+- TOP 34: Wahl von Mitgliedern des Regionalrates des Regierungsbezirkes Köln - ungeändert beschlossen
+- TOP 35: Wahl der Vertreter*innen der Stadt Aachen im Kreispolizeibeirat - ungeändert beschlossen
+- TOP 36: Wahl der Vertreterinnen und Vertreter des Rates der Stadt Aachen für die Verbandsversammlung des Zweckverbandes Region Aachen - ungeändert beschlossen
+- TOP 36.1: Wahl der Vertreterinnen und Vertreter des Rates der Stadt Aachen für die Verbandsversammlung des Zweckverbandes Region Aachen - ungeändert beschlossen
+- TOP 37: Wahl der vom Rat der Stadt zu benennenden Ratsmitglieder als Mitglieder des Integrationsrates - ungeändert beschlossen
+- TOP 37.1: Wahl der vom Rat der Stadt zu benennenden Ratsmitglieder als Mitglieder des Integrationsrates - ungeändert beschlossen
+- TOP 38: Benennung von Ratsmitgliedern zur Teilnahme an der 15. Konferenz der Ratsmitglieder beim Städtetag NRW am 16.12.2020 - ungeändert beschlossen
+- TOP 39: Konzession für Spielcasino in kommunale HandHier: Ratsantrag Nr. 632/17 der Fraktion Die Linke - zur Kenntnis genommen
+- TOP 40: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 40.1: Überplanmäßige Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß §83 GO NRW, Bau eines Geräteschuppens für den Forstbereich - ungeändert beschlossen
+- TOP 41: Anfragen:
+- TOP 41.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 41.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 42: Ratsanträge - zur Kenntnis genommen
+- TOP 43: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 43.1: Umbesetzungsantrag der Fraktion DIE LINKE vom 11.11.2020 - ungeändert beschlossen
+- TOP 43.2: Umbesetzungsantrag der FDP-Fraktion vom 13.11.2020 - ungeändert beschlossen
+- TOP 44: Mitteilungen der Verwaltung
+- TOP 45: Bestimmung der stellvertretenden Ausschussvorsitzenden - zur Kenntnis genommen
+- TOP 46: Wahl der städtischen Vertreter*innen in Gesellschaften, Verbänden und sonstigen Organisationen - zur Kenntnis genommen
+- TOP 47: Sondernutzungen für Gastronomiehier: temporäre Ergänzung der Sondernutzungssatzung bezügl. Außengastronomie gemäß § 8 Sondernutzungssatzung - zurückgezogen
+- TOP 48: Ratsantrag Nr. 013/18 der Ratsfrau Epstein, DIE LINKE, vom 10.11.2020: "Aachen wird sicherer Hafen" - zurückgezogen
+- TOP 49: Benennung der Ausschussvorsitzenden und der stellvertretenden Ausschussvorsitzenden - zur Kenntnis genommen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
