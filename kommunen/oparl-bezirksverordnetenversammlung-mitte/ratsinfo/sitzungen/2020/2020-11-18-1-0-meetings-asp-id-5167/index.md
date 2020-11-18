@@ -1,0 +1,54 @@
+# 48. Öffentliche Sitzung des Ausschusses für Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-11-18T17:30:00+01:00
+- Ende: 2020-11-18T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5167
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5167
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=485277
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=495029
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 46. Sitzung am 16.09.2020 (verschickt am 28.10.2020) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.2: der 47. Sitzung am 27.10.2020 - vertagt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des stellv. Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - (offen)
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Vorstellung der Klimaschutzbeauftragten des BA Mitte - erledigt
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Plötzensee - Stellungnahme des Umweltamtes BE: Bezirksamt - erledigt
+- TOP 4: Aktuelle Viertelstunde - vertagt
+- TOP 5: Beratung von Drucksachen - (offen)
+- TOP 5.1: Radverkehr in der Kleingartenkolonie Plötzensee - Konflikte zwischen Fußgehenden und Radfahrenden entschärfen - vertagt
+- TOP 5.2: Rettung der Flora und Fauna des Plötzensees - vertagt
+- TOP 5.3: Uferzone schützen, Nistplätze erhalten - vertagt
+- TOP 5.4: Engelbecken kontrollieren - vertagt
+- TOP 5.5: Buslinie 142 - vertagt
+- TOP 5.6: Gastgewerbe retten – Heizstrahler in Coronakrise erlauben - vertagt
+- TOP 5.7: Friedrichstraße jetzt sichern! - vertagt
+- TOP 5.8: Dem Radverkehr in Mitte neuen Schwung geben – den FahrRat auf stabile Räder stellen - vertagt
+- TOP 5.9: Park am Nordbahnhof autofrei! - vertagt
+- TOP 5.10: Analyse und Evaluierung zur „autofreien Friedrichstraße“ transparent machen. - vertagt
+- TOP 5.11: Hussitenstr. zwischen Gustav-Meyer-Allee und Usedomer Str. entschleunigen - vertagt
+- TOP 5.12: Bundestag zügig sichern. Schutzmaßnahmen zeitnah errichten. - vertagt
+- TOP 5.13: Mehr Kinder-, Jugend- und Familienfreundlichkeit in Tiergarten Süd – Versorgung mit Spiel-, Sport- und Bewegungsflächen verbessern - vertagt
+- TOP 5.14: Friedrichstraße II - Übergänge/Radparkplätze - vertagt
+- TOP 5.15: Reinigung von Spielplätzen an Notwendigkeit anpassen! - vertagt
+- TOP 5.16: Verkehrsüberwachung in Mitte durchführen - vertagt
+- TOP 5.17: Verkehrsberuhigung mit Anliegern - vertagt
+- TOP 5.18: Radfahren auf der Perleberger Straße sicherer machen - vertagt
+- TOP 5.19: Leipziger Park statt lauter Verkehrsschneise! - vertagt
+- TOP 5.20: Lärmemissionen auf der Transvaalstraße anpassen - vertagt
+- TOP 5.21: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - vertagt
+- TOP 6: Verschiedenes - erledigt
+- TOP 7: Terminplanung - Englisches Viertel im Kontex Verkehr und Schillerpark - Vorstellung der Ergebnisse der Stichimmenuntersuchung (Wildbienen, Wespen) im Bereich der Catcherwiese und Bürgerwiese im Volkspark Rehberge (Dez.Sitzung) - Vorstellung Gutachten Engelbecken und dazu Beratung zur DS 1860/V "Runder Tisch Engelbecken" (Jan.- Sitzung) - Beratung über die DS 1943/V "Die Zerstörung der Arroganz - Zukunft der Rehberge mit Bürger*innen gestalten" (vertagt, bis Sportentwicklungsplan vorliegt) - vertagt
