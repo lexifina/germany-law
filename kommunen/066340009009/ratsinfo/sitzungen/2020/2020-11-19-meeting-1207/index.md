@@ -1,0 +1,66 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (37. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2020-11-19T18:03:00+01:00
+- Ende: 2020-11-19T20:15:00+01:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZUynkyp-KzSdgOzaDgT3FY4
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1207
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXIxHFkt8MmhqdTe1KqasOQwDroUD_RG59B_-DEND_Ag/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_19.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV9d88n5B1K0smSm_JIOufKsvqHgOgdld8lEWBHuwVaL/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_19.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung 2021 gemäß § 97 Absatz 3 HGO - (kein Text vorhanden)
+- TOP 2.: Gewerbegebiet Homberg Süd; hier: Genehmigung zum Abschluss eines Kaufvertrages HLG, Kassel ./. Stadt Homberg (Efze) betreffend die Grundstücke des ehemaligen Bundeswehrsportplatzes Dörnbergkaserne - (kein Text vorhanden)
+- TOP 3.: Gewerbegebiet Homberg Süd; hier: Genehmigung zum Abschluss eines Kaufvertrages HLG, Kassel ./. Stadt Homberg (Efze) betreffend die Gebäude A Ia und A X, ehem. Dörnbergkaserne - (kein Text vorhanden)
+- TOP 4.: Gewerbegebiet Homberg Süd; hier: Verkauf der Immobilie U 14 in der ehemaligen Ostpreußenkaserne - (kein Text vorhanden)
+- TOP 5.: Gewerbegebiet Homberg Süd; hier: Veranstaltungsfläche in der ehemaligen Ostpreußenkaserne - (kein Text vorhanden)
+- TOP 6.: Gewerbegebiet Homberg Süd; hier: Anpassung der Verkaufspreise - (kein Text vorhanden)
+- TOP 7.: Verwendung der in der Verfügbarkeit der Stadt stehenden GI-Fläche - (kein Text vorhanden)
+- TOP 8.: Entwicklung des ehemaligen Klinikareals an der Melsunger Straße hier: 2. Zwischenbericht und Beauftragung von Gutachten - (kein Text vorhanden)
+- TOP 9.: Aufstellung eines Bebauungsplanes Nr. 8 der Kreisstadt Homberg (Efze) für den Stadtteil Caßdorf zur Ausweisung eines Allgemeinen Wohngebietes (WA) zwischen Weidenweg, Am Steinacker und Lerchenweg im beschleunigten Verfahren gem. § 13 b BauGB hier: Abwägung über die während der öffentlichen Auslegung gem. § 13 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Satzungsbeschluss
+- TOP 10.: Ärztehaus am Obertor - dritter Bauabschnitt hier: Aufhebung des Sperrvermerks - (kein Text vorhanden)
+- TOP 11.: Erweiterung Kita Caßdorf hier: Grundhafte Sanierung des Altbestandes - (kein Text vorhanden)
+- TOP 12.: Neustrukturierung Feuerwehr Caßdorf hier: Umwidmung für zusätzliche Kosten - (kein Text vorhanden)
+- TOP 13.: Fachwerkrichtlinie der Kreisstadt Homberg (Efze); hier: Novellierung
+- TOP 14.: Aufstellung einer Änderung Nr. 17 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) zur Ausweisung einer Wohnbaufläche im Stellbergsweg hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 15.: Aufstellung einer Änderung Nr. 9 zum Bebauungsplan Nr. 17 der Kreisstadt Homberg (Efze) zur Ausweisung eines Allgemeinen Wohngebietes im Stellbergsweg hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 16.: Naturpark Knüll - (kein Text vorhanden)
+- TOP 17.: Sachstandsberichte und sonstige Informationen
+- TOP 17.1: Standortsuche Feuerwehrhaus Holzhausen
+- TOP 17.2: Städtebauförderprogramm „Wachstum und nachhaltige Erneuerung“ (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht zur Umsetzung der Projekte
+- TOP 17.3: Hessisches Dorfentwicklungsprogramm hier: 2. Zwischenbericht
+- TOP 17.4: Neufassung Feuerwehrsatzung inkl. Gebührensatzung und Gebührenverzeichnis
+- TOP 17.5: Fortschreibung des Bedarfs- und Entwicklungsplans
+- TOP 17.6: Anregung vom 10.09.2020 betr. Gemeinsamer Geh- und Radweg entlang der Rudolf-Harbig-Straße
+- TOP 17.7: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 17.7.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 17.7.2: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 17.7.3: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 17.7.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 17.7.5: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 17.7.6: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 17.7.7: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 17.7.8: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 17.7.9: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 17.7.10: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 17.7.11: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 17.7.12: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 17.7.13: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 17.7.14: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 17.7.15: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22.05.2019 betr. Efzewiesen - Naherholungsgebiet aufwerten
+- TOP 17.7.16: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22. Mai 2019 betr. Keine Wildtiere im Zirkus - tierfreundliche Gemeinde Homberg
+- TOP 17.7.17: Antrag der SPD-Fraktion vom 30.11.2019 betr. Blühflächen in Homberg (Efze)
+- TOP 17.7.18: Antrag der FWG-Fraktion vom 14.08.2020 betr. Homberg Arena für die Zukunft bewahren
+- TOP 17.7.19: Antrag der BL Homberg vom 26.08.2020 betr. Verbesserung der Verkehrssicherheit an diversen Fußgängerkreuzungspunkten in Homberg
+- TOP 17.7.20: Antrag der CDU-Fraktion vom 27.08.2020 betr. Beschilderung Radwege
+- TOP 17.7.21: Antrag der FDP-Fraktion vom 15.08.2020 betr. Barrierefreiheit für Rollstuhlfahrer und Rollator Benutzer in Homberg
+- TOP 18.: Anträge
+- TOP 18.1: Antrag der FDP-Fraktion vom 03.11.2020 betr. mehr Sauberkeit in Homberg
+- TOP 18.2: Antrag der CDU-Fraktion vom 04.11.2020 betr. Nichtzulässigkeit von "Schottergärten"
+- TOP 19.: Anregungen
