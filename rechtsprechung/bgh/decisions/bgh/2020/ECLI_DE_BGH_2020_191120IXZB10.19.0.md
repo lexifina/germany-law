@@ -1,0 +1,197 @@
+---
+ecli: "ECLI:DE:BGH:2020:191120IXZB10.19.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-09"
+aktenzeichen: "IX ZB 10/19"
+decided: "2020-11-19"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=98&nr=112901&anz=3286&pos=2940&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-09_LE_2020-11-19_IX_ZB_10_19_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/inso/0035.md", "germany/bund/acts/inso/0063.md", "germany/bund/acts/inso/0295.md", "germany/bund/acts/inso/0296.md", "germany/bund/acts/insvv/0001.md", "germany/bund/acts/insvv/0014.md"]
+---
+
+# Bundesgerichtshof, IX ZB 10/19 vom 2020-11-19
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                              BESCHLUSS
+IX ZB 10/19
+                                     vom
+
+                            19. November 2020
+
+                    in dem Verbraucherinsolvenzverfahren
+
+
+Nachschlagewerk:       ja
+
+BGHZ:               nein
+
+BGHR:                  ja
+
+
+
+InsO § 63 Abs. 1 Satz 2; InsVV § 1 Abs. 1
+
+
+Eine durch den Schuldner vor Beendigung des Insolvenzverfahrens auf künftige Obliegenheiten der Wohlverhaltensphase geleistete Einmalzahlung geht in die Berechnungsgrundlage für die Vergütung des Insolvenzverwalters ein.
+
+BGH, Beschluss vom 19. November 2020 - IX ZB 10/19 - LG Saarbrücken
+                                                     AG Saarbrücken
+
+
+
+
+ECLI:DE:BGH:2020:191120BIXZB10.19.0
+
+                                         - 2 -
+
+
+
+    Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter
+    Grupp, die Richterin Lohmann, die Richter Dr. Schoppmeyer, Röhl und die
+    Richterin Dr. Selbmann
+
+
+    am 19. November 2020
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde des weiteren Beteiligten wird der Beschluss der 4. Zivilkammer des Landgerichts Saarbrücken vom
+          16. Januar 2019 aufgehoben.
+
+
+          Die Sache wird zur erneuten Entscheidung, auch über die Kosten
+          des Rechtsbeschwerdeverfahrens, an das Beschwerdegericht zurückverwiesen.
+
+
+          Der Gegenstandswert für das Rechtsbeschwerdeverfahren wird auf
+          7.936,59 € festgesetzt.
+
+
+
+
+                                        Gründe:
+
+
+                                           I.
+
+
+1         Der weitere Beteiligte ist Verwalter in dem am 24. Mai 2016 eröffneten
+    Verbraucherinsolvenzverfahren über das Vermögen des Schuldners. Der
+    Schuldner nahm eine selbständige Tätigkeit auf, die der Verwalter aus der Insolvenzmasse freigab. Nach der hierzu zwischen dem Verwalter und dem Schuldner
+    getroffenen Vereinbarung hatte der Schuldner ab November 2016 monatlich
+
+                                        - 3 -
+
+
+
+    410,58 € an die Insolvenzmasse zu zahlen. Der Schuldner zahlte die Raten für
+    November und Dezember 2016 und übergab am 27. Dezember 2016 darüber
+    hinaus 23.800 € in bar, um damit die pfändbaren Beträge für die nächsten fünf
+    Jahre zu begleichen. Er gab an, das Geld von der Verwandtschaft erhalten zu
+    haben. Auf der Basis der sich unter Einbeziehung der Zahlung ergebenden Berechnungsgrundlage von 25.349,57 € beantragte der weitere Beteiligte für seine
+    Tätigkeit als Insolvenzverwalter eine Vergütung von 13.821,24 €.
+
+2         Das Amtsgericht hat die Zahlung des Schuldners nur mit 7.933,33 € - entsprechend monatlichen Raten des Schuldners in Höhe von 396,66 € für den Zeitraum von Januar 2017 bis zur Einreichung der Schlussrechnungsunterlagen im
+    August 2018 - in der Berechnungsgrundlage berücksichtigt und die Vergütung
+    unter Zurückweisung des weitergehenden Antrags auf insgesamt 5.884,65 €
+    festgesetzt. Die dagegen gerichtete sofortige Beschwerde des weiteren Beteiligten hat keinen Erfolg gehabt. Mit der vom Beschwerdegericht zugelassenen
+    Rechtsbeschwerde verfolgt er seinen Vergütungsantrag weiter.
+
+
+
+
+                                          II.
+
+3         Die Rechtsbeschwerde ist statthaft und zulässig. Sie führt zur Aufhebung
+    der angefochtenen Entscheidung und zur Zurückverweisung der Sache an das
+    Beschwerdegericht.
+
+4         1. Das Beschwerdegericht hat ausgeführt: Der strukturelle Unterschied
+    zwischen der Abführungspflicht des selbständig Tätigen nach der Freigabe gemäß § 35 Abs. 2 Satz 2 InsO und seiner Zahlungsobliegenheit in der Wohlverhaltensphase nach § 295 Abs. 2 InsO sei auch vorliegend zu beachten. Obgleich
+    im laufenden Insolvenzverfahren erfolgt, habe die Zahlung des Schuldners auch
+
+                                          - 4 -
+
+
+
+    die während der Wohlverhaltensphase abzuführenden Beträge abgegolten.
+    Rechne man die Zahlung insgesamt der Masse zu, liefe der Schuldner Gefahr,
+    der Obliegenheit aus § 295 Abs. 2 InsO nicht nachgekommen zu sein. Zur Teilungsmasse gehöre unter Berücksichtigung der gesonderten Zahlungen des
+    Schuldners für November und Dezember 2016 daher nur der Teil der Einmalzahlung, der 20 Raten ab dem 1. Januar 2017 in Höhe von jeweils 396,66 € entspreche.
+
+5          2. Das hält rechtlicher Überprüfung nicht stand.
+
+6          a) Grundlage für die Berechnung der Vergütung des Insolvenzverwalters
+    ist gemäß § 63 Abs. 1 Satz 2 InsO, § 1 Abs. 1 InsVV der Wert der Insolvenzmasse bei Beendigung des Verfahrens (BGH, Beschluss vom 10. November
+    2005 - IX ZB 168/04, WM 2006, 141, 142; vom 25. Oktober 2007 - IX ZB 147/06,
+    WM 2008, 86 Rn. 5). Zur Berechnungsgrundlage für die Vergütung zählen alle
+    Vermögenswerte, die zum Zeitpunkt der Beendigung der zu vergütenden Tätigkeit zu dem gesicherten und verwalteten Vermögen gehört haben (BGH, Beschluss vom 10. Januar 2019 - IX ZB 40/18, WM 2019, 220 Rn. 8). Zu berücksichtigen sind sämtliche Massezuflüsse, die auch tatsächlich an die Masse ausbezahlt werden und daher die Masse erhöhen (vgl. BGH, Beschluss vom
+    26. Februar 2015 - IX ZB 9/13, WM 2015, 617 Rn. 8; vom 10. Januar 2019, aaO).
+    Für welche Zwecke die vorhandene Insolvenzmasse einzusetzen ist, ist für die
+    Berechnungsgrundlage regelmäßig unerheblich (BGH, Beschluss vom 10. Januar 2019, aaO).
+
+7          b) Nach diesen Maßstäben geht der vom Schuldner an die Masse abgeführte Betrag von 23.800 € vollständig in die Berechnungsgrundlage ein. Der von
+    den Vorinstanzen für maßgeblich erachtete Gesichtspunkt, dass der im Wege
+
+                                        - 5 -
+
+
+
+    der Einmalzahlung an die Masse geleistete Betrag nicht nur auf die Abführungspflicht des Schuldners im Insolvenzverfahren, sondern anteilig auch auf seine
+    Obliegenheit im künftigen Restschuldbefreiungsverfahren anzurechnen sei, begründet für die Vergütungsfestsetzung keine Aufspaltung des Zuflusses.
+
+8         aa) Zwar sind Zahlungen, die ein selbständig tätiger Schuldner anstelle
+    des abgetretenen Einkommens an den Treuhänder leistet (§ 295 Abs. 2 InsO),
+    ab der Aufhebung des Insolvenzverfahrens allein Teil der Berechnungsgrundlage
+    der Vergütung des Treuhänders der Wohlverhaltensphase (§ 14 InsVV; Münch-Komm-InsO/Stephan, 4. Aufl., § 14 InsVV Rn. 7). In die Berechnung der Vergütung des Insolvenzverwalters können sie keinen Eingang mehr finden. Anders
+    liegt es aber, wenn der Schuldner bereits während des Insolvenzverfahrens Vorauszahlungen zum Zweck der Erfüllung seiner künftigen Obliegenheit nach
+    § 295 Abs. 2 InsO an die Masse erbringt. Dann ist die Zahlung bereits im Insolvenzverfahren vergütungsrelevant. Ausschlaggebend für die Zuordnung von
+    Zahlungen des Schuldners nach § 295 Abs. 2 InsO zur Berechnungsgrundlage
+    des Verwalters im Insolvenzverfahren oder zu der des Treuhänders in der Wohlverhaltensphase ist, ob die Mittel während des Insolvenzverfahrens vom Verwalter vereinnahmt wurden oder nach dessen Aufhebung beim Treuhänder eingegangen sind (MünchKomm-InsO/Stephan, aaO).
+
+9         bb) Im erstgenannten Fall sind die Mittel vom Insolvenzverwalter zu vereinnahmen und zu verwalten. Die Frage, ob die während des eröffneten Verfahrens geleistete Zahlung auf künftige Obliegenheiten der Wohlverhaltensphase
+    nach § 295 Abs. 2 InsO anzurechnen ist, stellt sich nicht im Rahmen der Vergütungsfestsetzung, sondern eines Verfahrens über die Versagung der Restschuldbefreiung (§ 296 InsO). Soweit der Schuldner im Einzelfall bereits während des
+    eröffneten Verfahrens Vorauszahlungen auf künftige Obliegenheiten der Wohlverhaltensphase nach § 295 Abs. 2 InsO leistet, sammelt der Verwalter diese als
+
+                                          - 6 -
+
+
+
+     massezugehöriges Vermögen. Der Zufluss bildet kein Sondervermögen, das
+     dem späteren Restschuldbefreiungsverfahren vorzubehalten wäre. Zahlungen
+     des Schuldners nach § 295 Abs. 2 InsO dienen ebenso wie solche nach § 35
+     Abs. 2 Satz 2 in Verbindung mit § 295 Abs. 2 InsO der Gläubigerbefriedigung.
+     Die zeitnahe Beteiligung der Insolvenzgläubiger an der verwertbaren Masse verlangt vom Verwalter, die vereinnahmten Mittel - abzüglich einer gebotenen Rückstellung für die Verfahrenskosten des Restschuldbefreiungsverfahrens (vgl.
+     BGH, Beschluss vom 20. November 2014 - IX ZB 16/14, WM 2015, 131) - der
+     Verteilung zuzuführen.
+
+10         cc) Für die Berechnungsgrundlage der Verwaltervergütung ist die Zahlung
+     von 23.800 € dabei nicht nur in dem Umfang, in dem sie tatsächlich zur Verteilung
+     unter die Insolvenzgläubiger gelangt, sondern insgesamt anzusetzen, denn für
+     welche Zwecke die vorhandene Insolvenzmasse einzusetzen ist, ist für die Berechnungsgrundlage regelmäßig unerheblich (vgl. § 1 Abs. 2 Nr. 4 Satz 1 InsVV;
+     BGH, Beschluss vom 10. Januar 2019 - IX ZB 40/18, WM 2019, 220 Rn. 8; vgl.
+     ferner Graeber/Graeber, InsVV, 3. Aufl., § 14 Rn. 9a).
+
+                                         - 7 -
+
+
+
+11           3. Die Zurückverweisung gibt dem Beschwerdegericht Gelegenheit zur
+     Prüfung, ob ein Zurückbleiben hinter dem Regelsatz nach § 3 Abs. 2 lit. e InsVV
+     gerechtfertigt ist.
+
+     Grupp                             Lohmann                        Schoppmeyer
+
+
+                           Röhl                         Selbmann
+
+
+
+
+     Vorinstanzen:
+     AG Saarbrücken, Entscheidung vom 05.10.2018 - 105 IK 38/16 -
+     LG Saarbrücken, Entscheidung vom 16.01.2019 - 4 T 35/18 -
