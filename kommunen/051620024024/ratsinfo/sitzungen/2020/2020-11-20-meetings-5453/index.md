@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-11-20T16:00:00+01:00
+- Ende: 2020-11-20T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5453
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5453
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00136994.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00136994.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00136994.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Einführung und Verpflichtung weiterer Ratsmitglieder
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Beschlussfassung des Rates
+- TOP 6: Änderung der Hauptsatzung, der Geschäftsordnung des Rates, der Zuständigkeitsordnung und der Geschäftsordnung des Gleichstellungsbeirates sowie Bildung von Ausschüssen - einstimmig zugestimmt
+- TOP 7: Bestellung der Ausschussmitglieder und stellvertretenden Ausschussmitglieder - einstimmig zugestimmt
+- TOP 8: Besetzung des Wahlprüfungsausschusses - einstimmig zugestimmt
+- TOP 9: Besetzung des Wahlausschusses - einstimmig zugestimmt
+- TOP 9.1: Bestellung von Stadtverordneten in den Umlegungsausschuss - einstimmig zugestimmt
+- TOP 10: Bestellung der in den Integrationsausschuss zu entsendenden Stadtverordneten - einstimmig zugestimmt
+- TOP 11: Konferenz der Ratsmitglieder beim Städtetag NRW am 16.12.2020 - einstimmig zugestimmt
+- TOP 12: Berufung von Vertreterinnen und Vertretern der Schulen zur ständigen Beratung im Schulausschuss - einstimmig zugestimmt
+- TOP 13: Berufung je eines Vertreters der Katholischen und der Evangelischen Kirche als beratendes Mitglied im Schulausschuss - einstimmig zugestimmt
+- TOP 14: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 15: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 16: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften; hier: Aufsichtsrat der Stadtwerke Neuss GmbH - einstimmig zugestimmt
+- TOP 17: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaf-ten hier: Aufsichtsrat der Stadtwerke Neuss Energie und Wasser GmbH - einstimmig zugestimmt
+- TOP 18: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Neusser Bäder und Eisporthalle GmbH - einstimmig zugestimmt
+- TOP 19: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Stadtwerke Neuss Verkehrs- und Service AG - einstimmig zugestimmt
+- TOP 20: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Regionalen Bahngesellschaft mbH (Regiobahn) - einstimmig zugestimmt
+- TOP 21: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Verkehrsgesellschaft Kreis Neuss mbH - einstimmig zugestimmt
+- TOP 22: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr (VRR) und Gesellschafterversammlung der Kooperationsgesellschaft Mittlerer Niederrhein GbR (KMN) - einstimmig zugestimmt
+- TOP 23: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung und Aufsichtsrat der Abfall- und Wertstofflogistik Neuss GmbH - einstimmig zugestimmt
+- TOP 24: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Verwaltungsrat der Infrastruktur Neuss AöR - einstimmig zugestimmt
+- TOP 25: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Kreiswerke Grevenbroich GmbH - einstimmig zugestimmt
+- TOP 26: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Rheinland Klinikum Neuss GmbH - einstimmig zugestimmt
+- TOP 27: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Neusser Bauverein AG - einstimmig zugestimmt
+- TOP 28: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG - einstimmig zugestimmt
+- TOP 29: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der RheinCargo GmbH & Co. KG - einstimmig zugestimmt
+- TOP 30: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - einstimmig zugestimmt
+- TOP 31: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - einstimmig zugestimmt
+- TOP 32: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Beirat der Neusser Marketing GmbH & Co. KG - einstimmig zugestimmt
+- TOP 33: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Gemeinnützige Werkstätten Neuss GmbH - einstimmig zugestimmt
+- TOP 34: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich und der Stadt Kaarst und Verwaltungsrat der Sparkasse Neuss - einstimmig zugestimmt
+- TOP 35: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) - einstimmig zugestimmt
+- TOP 36: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorien der Jubiläumsstiftung, Sparkassenstiftung Neuss, Stiftung Sport - einstimmig zugestimmt
+- TOP 37: Vertretung der Stadt Neuss in Drittgremien hier: Verein "Rheinisches Landestheater - vereinigt mit dem Theater Niederrhein e.V." - einstimmig zugestimmt
+- TOP 38: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorium der Stiftung Insel Hombroich - einstimmig zugestimmt
+- TOP 39: Vertretung der Stadt Neuss in Drittgremien hier: Verein "Kulturförderung Nordrhein-Westfalen e.V:" - einstimmig zugestimmt
+- TOP 40: Genehmigung der Dringlichkeitsentscheidung Nr. 369 vom 29.09.2020 - Weitere Maßnahmen zur Stützung der Gastronomie in der Corona-Pandemie - einstimmig zugestimmt
+- TOP 41: Genehmigung der Dringlichkeitsentscheidung Nr. 376 – Beteiligung am Bundesprogramm zur Sanierung kommunaler Einrichtungen mit dem Projekt „Erweiterung Stadtarchiv“ - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 42: Antrag der AfD-Fraktion betr.: Sachstandsbericht Corona-Pandemie - verwiesen
+- TOP -: Anfragen
+- TOP 42.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 43: Bericht über die Haushaltslage 2020 - zur Kenntnis genommen
+- TOP -: Einwohnerfragestunde
