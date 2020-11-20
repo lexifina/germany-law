@@ -1,6 +1,9 @@
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
+- [Inhaltsübersicht](inhaltsuebersicht-3.md)
+- [Inhaltsübersicht](inhaltsuebersicht-4.md)
 
 ## 1. Abschnitt Allgemeine Vorschriften
 
@@ -49,6 +52,7 @@
 - [§ 26 Teilnahme des behandelnden Arztes](0026.md)
 - [§ 27 Gegenseitige Unterrichtung](0027.md)
 - [§ 28 Schutzmaßnahmen](0028.md)
+- [§ 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19)](0028a.md)
 - [§ 29 Beobachtung](0029.md)
 - [§ 30 Absonderung](0030.md)
 - [§ 31 Berufliches Tätigkeitsverbot](0031.md)

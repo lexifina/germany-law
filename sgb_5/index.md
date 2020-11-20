@@ -1009,4 +1009,4 @@ von Leistungsdaten, Datentransparenz
 - [§ 415 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0415.md)
 - [§ 416 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0416.md)
 - [§ 416 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0416-2.md)
-- [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen](0417.md)
+- [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0417.md)

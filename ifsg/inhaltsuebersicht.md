@@ -47,6 +47,7 @@
 | § 26 | Teilnahme des behandelnden Arztes |
 | § 27 | Gegenseitige Unterrichtung |
 | § 28 | Schutzmaßnahmen |
+| § 28a | Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) |
 | § 29 | Beobachtung |
 | § 30 | Absonderung |
 | § 31 | Berufliches Tätigkeitsverbot |
