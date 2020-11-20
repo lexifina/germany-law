@@ -88,6 +88,6 @@ im Deutschen Bundestag
 - [§ 52 Erlass von Rechtsverordnungen](0052.md)
 - [§ 53 Übergangsregelung](0053.md)
 - [§ 54 Fristen, Termine und Form](0054.md)
-- [§ 55](0055.md)
+- [§ 55 Reformkommission](0055.md)
 - [Anlage 1 (zu § 50 Absatz 3 Satz 3)](anlage-1.md)
 - [Anlage 2 (zu § 2 Absatz 2)](anlage-2.md)

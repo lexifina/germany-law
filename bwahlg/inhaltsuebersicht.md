@@ -74,6 +74,6 @@
 | § 52 | Erlass von Rechtsverordnungen |
 | § 53 | Übergangsregelung |
 | § 54 | Fristen, Termine und Form |
-| § 55 | (Inkrafttreten) |
+| § 55 | Reformkommission |
 | Anlage 1 |  | (zu § 50 Absatz 3 Satz 3) |
 | Anlage 2 |  | (zu § 2 Absatz 2) |
