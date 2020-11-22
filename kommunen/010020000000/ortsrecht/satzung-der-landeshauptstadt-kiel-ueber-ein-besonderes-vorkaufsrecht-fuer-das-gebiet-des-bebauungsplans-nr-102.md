@@ -2,7 +2,7 @@
 
 - Gemeinde: Landeshauptstadt Kiel (ARS 010020000000)
 - Datum: 2020-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=lf&fid=2d64a27fb1b096891bc016ea19313606
+- Quelle: https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=lf&fid=06bde1c0fe3866ef2b699cba2345341f
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
