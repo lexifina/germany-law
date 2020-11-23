@@ -1,0 +1,69 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-11-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6195838
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6195838
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Vorstellung des Projektes "Einsatz der Kinder-Aktions-Koffer und Kita-Statteil-Koffer in Moosach" (Referent*innen des Stadtjugendamtes)
+- TOP 2.1.: Alkoholverbot im öffentlichen Raum der Stadtteile im Münchner Norden
+- TOP 2.2.: Gefährlicher Schulweg zur Grundschule Manzostr. 79 (Schulsprengel)
+- TOP 2.3.: Antrag zur Schulwegsicherheit: LKW-Fahrverbot in der Merseburger Straße
+- TOP 3.2.1.: Ortstermin am 28.10.2020: Verkehrssituation vor der Grundschule "Amphionpark"in der Welzenbachstraße (→ siehe Anträge der Kinder- und Jugendbeauftragten, TOP 4.2.1 und Bürgeranliegen TOP 2.4, Sitzung am 19.10.2020)
+- TOP 3.3.1.: Bauvorhaben: 1. Bunzlauer Str. 1 2. Emmy-Noether-Str. 2 3. Pirschstr. 13 4. Hanauer Str. 89
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Plauener Str. 8 2. Pirschstr. 13
+- TOP 3.4.1.: BA-Dialog Referat für Bildung und Sport mit BA-Vorsitzenden am 22.10.2020 (Videokonferenz); hier: Fragen BA/ Antworten RBS (-> Anmerkung: Mitbeantwortung Anfrage TOP 4.1.6 / 14.09.2020)
+- TOP 4.1.1.: Eine Bezirkssportanlage für Moosach und Allach-Untermenzing
+- TOP 4.1.2.: Maßnahmen zur Verbesserung der Verkehrssicherheit in der Eininger Straße Ecke Holledauer Straße und Donaustaufer Straße
+- TOP 4.1.3.: Anfrage: Möglichkeit einer Konzession für einen öffentlichen Betrieb der Bar im Hotel "Harry&#039;s Home"
+- TOP 4.1.4.: Zweirichtungsradweg in der Dachauer Straße zwischen Pickelstraße und Sapporobogen
+- TOP 4.1.5.: Verwendung von "einfacher" Sprache bei (Budget-)Vorlagen des Direktoriums
+- TOP 5.1.: (E) Stadtbezirksbudget 1. Münchner Footballclub 1979 e.V. Munich Cowboys Anschaffung einer Kamera für Videostreaming 1.402,97 € / Az. 0262.0-10-0237 (-> vertagt aus der Sitzung am 19.10.2020)
+- TOP 5.2.: Stadtbezirksbudget - Verlängerung des Bewilligungszeitraums: Elternbeirat des Kindergartens St. Martin; "Projekt "Dreifuß-Modell" (→ TOP 5.3 , Sitzung am 10.02.2020)
+- TOP 5.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung einer Teilstrecke der Hans-Bunte-Straße
+- TOP 6.1.: Beschlussentwurf: Standortsicherung für ein überregionales jugendkulturelles Zentrum auf dem Neubaugebiet Botanikum
+- TOP 6.2.: Neue Baumstandorte im öffentlichen Raum
+- TOP 6.3.: Beschilderung des Grünanlagenweges im Bereich der Franz-Mader-Straße mit Gebotsschildern (-> ursprüngliches Bürgeranliegen: Fahrradraserei in der Grünanlage zwischen PSV, in den Kirschen und Kapuzinerhölzl; TOP 2.9 / 14.09.2020)
+- TOP 6.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Welzenbachstraße: Einfahrverbot auf Höhe der Einmündung Nanga-Parbat-Straße vor Grundschule 2. Ernst-Platz-Straße, Gaggenaystraße, Gleißmüllerstraße und Thürmerstraße: Einrichtung von Haltverboten 3. Schragenhofstraße; Errichtung von Haltverboten
+- TOP 6.5.: Planänderung bzgl. Führung der Buslinie 51; Verlegung der Haltestelle "Schragenhofstraße" in den Bereich der Unterführung Allacher Straße
+- TOP 6.6.: Beschlussentwurf: Ausbau der Bahnüberführung Dachauer Straße mit Offenhaltung der Durchfahrt für eine Tram; Herausnahme der Dachauer Straße aus dem Vorbehaltsnetz für den städt. Wirtschaftsverkehr (→ BA-Antrag Nr. 14-20/ B 07297 des BA10)
+- TOP 6.7.: Beschlussentwurf und Präsentation: - nicht-öffentlich - Förmliche Festlegung als Sanierungsgebiet Moosach
+- TOP 7.1.: Aufstellung von Trinkbrunnen im 10. Stadtbezirk Moosach [BA-Antrag Nr. 20-26/B00953; Stadtratbefassung und Anmeldung von Ressourcen erfolgt zu ggb. Zeit; derzeit keine Finanzierungsmöglichkeit.]
+- TOP 7.2.: Lösungsfindung für verkehrliche Problematik an der Kreuzung Bauberger-/ Netzerstraße [Schreiben BA10 4.3.1/ 10.02.2020; an der LSA wird Hinweis "bei Rot hier halten" etabliert]
+- TOP 7.3.: Radschutzstreifen in der Baldurstraße [BA-Antrag Nr. 20-26/B00159 des BA9; 10. Stadtbezirk ist von geplanten Maßnahmen (eine vom Fußverkehr getrennte Radverkehrsanlage) ebenfalls betroffen.]
+- TOP 7.4.: Möglicher Fussgänger-Überweg in der Donauwörther Straße [Schreiben BA10 vom 23.07.20; Einrichtung eines Zebrastreifens im Kreuzungsbereich Donauwörther -/Ohlauer Straße entbehrt Notwendigkeit und rechtliche Grundlage]
+- TOP 7.5.: Bundesimmissionsschutzrechtliches Genehmigungsverfahren Krauss-Maffei-Wegmann: Panzerteststrecke; hier: aktuelle Information des Referates für Gesundheit und Umwelt [Online-Konsultation für Teilnahmeberechtigte vorgesehen; Zusicherung reduzierte Betriebszeiten]
+- TOP 7.6.: Brachfläche im Anschluss an die Wohnhäuser Meißener Str. 11 und Franz-Fihl-Str. 10 [Schreiben BA 10 vom 19.10.2019; bauaufsichtliche Verfügung noch nicht vollzogen, bebauungsplankonforme Umsetzung vom Eigentümer bis 10/2020 gefordert.]
+- TOP 7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 8.2.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 8.3.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 8.4.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 8.5.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 8.6.: (U) "Platz da für Mädchen* und junge Frauen*" - Ergebnisse des Partizipationsprojekts ernst nehmen und Bedürfnissen schnellstmöglich gerecht werden Antrag Nr. 14-20 / A 05644 ......................
+- TOP 8.7.: Errichtung eines Hauses für Kinder mit 2 Krippen. und 2 Kindergartengruppen Untermenzinger Straße (Genehmigung des Nutzerbedarfsprogrammes und Projektkosten) - nicht-öffentlich -
+- TOP 8.8.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung bestehende Sendeanlage: Alzeyer Straße 2. Erweiterung bestehende Sendeanlage: Schragenhofstraße
+- TOP 8.9.: Abgeschlossenes Vorkaufsrechtsprüfungsverfahren für Anwesen Abbachstraße - nicht-öffentlich -
+- TOP 8.10.: WEB - alle Anträge vom 01.10.2020 bis 15.10.2020 - nicht-öffentlich -
+- TOP 4.: Anträge
