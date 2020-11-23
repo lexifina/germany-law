@@ -1,0 +1,54 @@
+# 44. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt - Besucher bitten wir um vorherige Anmeldung per E-Mail im BVV-Büro! (siehe Teilnehmer_innen-Anlage zur Einladung)
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-11-23T17:00:00+01:00
+- Ende: 2020-11-23T18:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6141
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6141
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=366209
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle - im Ausschuss abgelehnt
+- TOP 3: Präsentationen - im Ausschuss abgelehnt
+- TOP 3.1: Machbarkeitsstudie Grunewaldstrasse - vertagt
+- TOP 3.2: Anpassung des öffentlichen Raumes an den Klimawandel und Regenwassermanagement - vertagt
+- TOP 4: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 5: Kinder- und Jugendparlament - im Ausschuss abgelehnt
+- TOP 5.1: Radweg auf der Kolonnenstraße zwischen der Kolonnen- und der Julius-Leber-Brücke - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen des Vorstehers - im Ausschuss abgelehnt
+- TOP 6.1: Gehwegüberfahrten Fußgänger-gerecht gestalten - vertagt
+- TOP 7: Anträge - im Ausschuss abgelehnt
+- TOP 7.1: Verkehrssicherheit für Fußgänger*innen am Knotenpunkt Hauptstraße Ecke Albertstraße bzw. Eisenacher Straße - im Ausschuss abgelehnt
+- TOP 7.2: Amphibien schützen - Habitate pflegen und entwickeln - Masterplan erstellen - vertagt
+- TOP 7.3: Neue Mobilitätsangebote gemeinsam mit dem Parkraummanagement umsetzen - im Ausschuss abgelehnt
+- TOP 7.4: Anpassung an den Klimawandel - Regengärten für Tempelhof-Schöneberg - vertagt
+- TOP 7.5: Bürgerbeteiligung bei temporären Spielstraßen - im Ausschuss abgelehnt
+- TOP 7.6: Bewässerung von Straßenbäumen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.7: Luisenmühle nicht vergessen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.8: Fußgängerverkehr Martin-Luther-Straße Ecke Fuggerstraße - im Ausschuss abgelehnt
+- TOP 7.9: Bäume für die Potse - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.10: Radverkehr auf dem Prellerweg in beide Fahrtrichtungen sicherer gestalten - vertagt
+- TOP 7.11: Fregestraße in Friedenau verkehrlich beruhigen - im Ausschuss abgelehnt
+- TOP 7.12: Amtshilfe für den Radwegeausbau im Bezirk - zurückgezogen
+- TOP 7.13: Verbesserung von Straßenbaumstandorten in der Albrechtstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.14: Grünstreifen General-Pape-Straße/ Kolonnenstraße aufwerten - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.15: Fußgängerübergang zum Aufzug U-Bahn von der Westseite des Platzes sicher machen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.16: Busspur in der Kolonnenstraße - im Ausschuss abgelehnt
+- TOP 7.17: Aufhebung Parkverbot Kolonnenstraße - im Ausschuss abgelehnt
+- TOP 7.18: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg - vertagt
+- TOP 7.19: Grünfläche in der Apostel-Paulus-Straße Ecke Salzburger Straße neu bepflanzen - vertagt
+- TOP 7.20: Sicherer über die Wünsdorfer Straße - vertagt
+- TOP 8: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 8.1: Raserei und illegale Autorennen: „Akustik-Blitzer“ gegen Lärmbelästigung - vertagt
+- TOP 8.2: Parkhäfen am Gustav-Müller-Platz nur für Pkw - vertagt
+- TOP 8.3: Parks reinigen und nutzbar(er) machen - vertagt
+- TOP 8.4: Amtshilfe Bäume bewässern - vertagt
+- TOP 8.5: Marienhöhe wieder zugänglich machen und besser vor Vandalismus sichern - vertagt
+- TOP 9: Verschiedenes - im Ausschuss abgelehnt
+- TOP 9.1: Nächster regulärer Sitzungstermin 25.01.2021 - im Ausschuss abgelehnt
