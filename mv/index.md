@@ -1,5 +1,4 @@
-# Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden
-und öffentlich-rechtliche Rundfunkanstalten
+# Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -26,7 +25,7 @@ Flurbereinigungsgesetz](0005.md)
 - [§ 11 Pflicht zur Unterrichtung](0011.md)
 - [§ 12 Inhalt der Unterrichtung](0012.md)
 
-## 4. Teil Schlußvorschriften
+## 4. Teil Besondere Vorschriften zu Mitteilungen über Billigkeitsleistungen anlässlich der Corona-Krise
 
-- [§ 13 Inkrafttreten](0013.md)
+- [§ 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise](0013.md)
 - [Schlußformel](schlussformel.md)

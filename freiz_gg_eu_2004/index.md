@@ -1,8 +1,9 @@
 # Gesetz über die allgemeine Freizügigkeit von Unionsbürgern
 
-- [§ 1 Anwendungsbereich](0001.md)
+- [§ 1 Anwendungsbereich; Begriffsbestimmungen](0001.md)
 - [§ 2 Recht auf Einreise und Aufenthalt](0002.md)
 - [§ 3 Familienangehörige](0003.md)
+- [§ 3a Aufenthalt nahestehender Personen](0003a.md)
 - [§ 4 Nicht erwerbstätige Freizügigkeitsberechtigte](0004.md)
 - [§ 4a Daueraufenthaltsrecht](0004a.md)
 - [§ 5 Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht](0005.md)
@@ -12,9 +13,11 @@
 - [§ 8 Ausweispflicht](0008.md)
 - [§ 9 Strafvorschriften](0009.md)
 - [§ 10 Bußgeldvorschriften](0010.md)
-- [§ 11 Anwendung des Aufenthaltsgesetzes](0011.md)
+- [§ 11 Anwendung des allgemeinen Aufenthaltsrechts; Ausnahmen von der Anwendung dieses Gesetzes](0011.md)
 - [§ 11a Verordnungsermächtigung](0011a.md)
 - [§ 12 Staatsangehörige der EWR-Staaten](0012.md)
+- [§ 12a Unionsrechtliches Aufenthaltsrecht](0012a.md)
 - [§ 13 Staatsangehörige der Beitrittsstaaten](0013.md)
 - [§ 14 Bestimmungen zum Verwaltungsverfahren](0014.md)
 - [§ 15 Übergangsregelung](0015.md)
+- [§ 16 Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen](0016.md)
