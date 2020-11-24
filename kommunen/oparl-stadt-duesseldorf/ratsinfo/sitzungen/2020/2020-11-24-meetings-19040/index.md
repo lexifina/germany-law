@@ -1,0 +1,65 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-24T17:00:00+01:00
+- Ende: 2020-11-24T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19040
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19040
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392988.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392988.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392988.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung und Vertretung - einstimmig beschlossen
+- TOP 2: Verpflichtung der Ausschussmitglieder ohne Rats-/ Bezirksvertretungsmandat
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Wahl der Ausschussvorsitzenden und der stellvertretenden Ausschussvorsitzenden - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 6: Schriftlicher Sachstandsbericht zum Thema Corona
+- TOP 7: Anträge
+- TOP 7.1: Antrag der FDP-Ratsfraktion auf Prüfung von Kooperationen zur Anschaffung/Umrüstung von Raumlüftungsanlagen in Kitas - abweichend beschlossen
+- TOP 8: Terminplan für die Sitzungen des Jugendhilfeausschusses im Jahr 2021 - einstimmig beschlossen
+- TOP 9: Präventionsketten Düsseldorf
+- TOP 9.1: Düsseldorfer Präventionsketten: Maßnahmen zur Minderung der Folgen von Kinderarmut (Armutsfonds) – Übertragung von Finanzmitteln für bereits begonnene Projekte - zur Kenntnis genommen
+- TOP 10: Tageseinrichtungen für Kinder
+- TOP 10.1: Kinderbetreuung U3 als Instrument der Arbeitspolitik - hier: Finanzierung "Servicestelle Beruf und Familie" - einstimmig beschlossen
+- TOP 10.2: Kinderbetreuung U3 als Instrument der Arbeitspolitik - hier: Verlängerung der Projektfinanzierung - einstimmig beschlossen
+- TOP 10.3: Fortbildung in der Kindertagespflege - zur Kenntnis genommen
+- TOP 10.4: Wahl des Jugendamtselternbeirates 2020 - zur Kenntnis genommen
+- TOP 10.5: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
+- TOP 10.6: Verpflegungsentgelte in der Kindertagespflege - einstimmig beschlossen
+- TOP 11: Jugendförderung
+- TOP 11.1: Videoclips des Jugendamtes zum Thema Kinderrechte
+- TOP 11.2: Sachstandsbericht SleepIn / Notschlafstelle in Düsseldorf - zur Kenntnis genommen
+- TOP 12: Familienförderung
+- TOP 12.1: „Audit Familiengerechte Kommune" - Workshop-Dokumentation im Erhaltungszertifikat - zur Kenntnis genommen
+- TOP 13: Anerkennungen als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 13.1: Befristete Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Zwergenreich Betriebs-gGmbH - mehrheitlich beschlossen
+- TOP 13.2: Befristete Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Kindertagesstätte Krabbelkäfer gGmbH - mehrheitlich beschlossen
+- TOP 14: Fachübergreifende Vorlagen
+- TOP 14.1: Jahresbericht des Jugendamtes 2019 - zur Kenntnis genommen
+- TOP 15: Präventionsketten Düsseldorf
+- TOP 15.1: "kinderstark – NRW schafft Chancen“: Aufruf des Ministeriums für Kinder, Familie, Flüchtlinge und Integration des Landes Nordrhein-Westfalen (MKFFI) zur Einreichung von Anträgen zu Aufbau und Stärkung kommunaler Präventionsketten im Jahr 2021 - zur Kenntnis genommen
+- TOP 15.2: Verwendung der Inklusionspauschale des Landes Nordrhein-Westfalen für die Jahre 2021 bis 2023 - einstimmig beschlossen
+- TOP 16: Tageseinrichtungen für Kinder
+- TOP 16.1: Vereinbarung zur Sicherung der Angebote an Plätzen für Kinder in geförderten kath. Kitas nach dem KiBiz (Sonderförderung Kita – Eigenanteile) sowie Vereinbarung über die Sonderförderung von Düsseldorfer Kitas freier Träger nach dem SGB VIII - einstimmig beschlossen
+- TOP 17: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 17.1: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Kölner Landstraße 68 - 70 - einstimmig beschlossen
+- TOP 17.2: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Vinzenzplatz 1a - einstimmig beschlossen
+- TOP 17.3: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Hügelstraße 65 - einstimmig beschlossen
+- TOP 17.4: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Florensstraße 28 - einstimmig beschlossen
+- TOP 17.5: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Edmund-Bertrams-Straße 7 - einstimmig beschlossen
+- TOP 17.6: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Aachener Straße 165 - mehrheitlich beschlossen
+- TOP 17.7: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Am Mönchgraben 47 - einstimmig beschlossen
+- TOP 17.8: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Pastoratsweg 25 - einstimmig beschlossen
+- TOP 17.9: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Hinter den Höfen 9 - einstimmig beschlossen
+- TOP 17.10: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Daimlerstraße 12 - einstimmig beschlossen
+- TOP 17.11: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Wildenbruchstraße 39c - einstimmig beschlossen
+- TOP 17.12: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Potsdamer Straße 43 - einstimmig beschlossen
+- TOP 17.13: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Cordobastraße 2 - einstimmig beschlossen
+- TOP 17.14: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Werstener Friedhofsstr. 51 - einstimmig beschlossen
