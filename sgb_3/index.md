@@ -672,6 +672,7 @@ und zeitweilige Aufgaben
 - [§ 421b Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland](0421b.md)
 - [§ 421c Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit](0421c.md)
 - [§ 421d Vorübergehende Sonderregelung zum Arbeitslosengeld](0421d.md)
+- [§ 421e Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0421e.md)
 
 ### Dritter Abschnitt Grundsätze bei Rechtsänderungen
 

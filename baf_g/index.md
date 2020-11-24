@@ -109,5 +109,6 @@
 - [§ 65 Weitergeltende Vorschriften](0065.md)
 - [§ 66 (weggefallen)](0066.md)
 - [§ 66a Übergangs- und Anwendungsvorschrift](0066a.md)
+- [§ 66b Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft](0066b.md)
 - [§ 67 (weggefallen)](0067.md)
 - [§ 68 Inkrafttreten](0068.md)
