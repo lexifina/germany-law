@@ -1,0 +1,180 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-11-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5821935
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5821935
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Spielplatz Elmauer Park
+- TOP 6.2.: Verkehrsthemen
+- TOP 6.3.: Anliegen Passauerstr. - gefährliche Ausfahrten
+- TOP 6.4.: Mülleimer Rattenberger Str. Ecke Heiterwanger Str..
+- TOP 6.5.: Ampel Albert-Roßhaupter-Str
+- TOP 6.6.: Einkaufsmöglichkeit Waldfriedhofstraße
+- TOP 6.7.: Feuerwehrzufahrt Wohnanlage
+- TOP 6.8.: Sachen differenzierter Abfall, Container in der Klingerstraße
+- TOP 6.9.: Reinigung und neue Mülleimer bei Grünfläche Hansastraße und Fuggerstraße
+- TOP 6.10.: Sicherheit für die Kinder
+- TOP 6.11.: Vorschlag MVG
+- TOP 6.12.: Dauerparken Högelwörtherstr.
+- TOP 6.13.: Parken Gottfried-Böhm-Ring
+- TOP 6.14.: Westpark - Sauberkeit und Pflege
+- TOP 6.15.: Wunsch nach Standortverlegung Müllcontainer
+- TOP 6.16.: Wertstoffcontainer Inninger Straße
+- TOP 6.17.: Antrag Juifenstraße
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Beschluss Sonderausschuss
+- TOP 10.1.: (E) Stadtbezirksbudget Gans Kreativ GmbH - Ganswoanders Winterzauber Gans am Wasser 2020 vom 04. - 27.12.2020 6.250,00 € / Az. 0262.0-7-0319
+- TOP 10.2.: (E) Stadtbezirksbudget Feierwerk e.V. Klimaanlage und Geschirrspülmaschine 14.277,84 € / Az. 0262.0-7-0314
+- TOP 10.3.: (E) Stadtbezirksbudget Gans Kreativ GmbH DOK.aroundthecklock im Gans am Wasser vom 21.12.2020 – 31.05.2021 1.968,75 € / Az. 0262.0-7-0320
+- TOP 10.4.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Gilmstraße Nachrichtenversand und Serverkapazität für Distanzunterricht vom 09.11.2020 – 08.11.2021 2.960,72 € / Az. 0262.0-7-0321
+- TOP 11.1.: Verbindungsweg zwischen der Westpark-Brücke über den Mittleren Ring und der Pressburger- / Reulandstraße
+- TOP 11.2.: Nutzung Busparkplatz Hansastraße
+- TOP 11.3.: Antrag Juifenstraße
+- TOP 11.4.: Digitale Bürgerversammlungen
+- TOP 11.5.: Interims-Jugendtreff Sendling-Westpark
+- TOP 11.6.: Verkehrsführung Albert-Roßhaupter-Str. Richtung Norden
+- TOP 11.7.: Verkehrssituation Tübinger Str Wertstoffhof
+- TOP 11.8.: Ampel Rechtsabbieger Albert-Roßhaupter-Str. in die Garmischer Str.
+- TOP 11.9.: Antrag Beleuchtung-Bolzplatz-Westpark
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1.: Baumfällung Dauthendeystr
+- TOP 15.2.: Baumfällungen Westendstr.
+- TOP 16.1.: Ausnahmegenehmigung Abhaltung ETV als Präsenzveranstaltung-WEG Faberstr.
+- TOP 17.1.: Verlängerung Fit im Park
+- TOP 17.2.: Winterzauber Gans am Wasser
+- TOP 17.3.: Westpark, Theatron, Gottesdienst - Adventssingen am 20.12.2020.
+- TOP 18.: Baureferat
+- TOP 18.1.: (E) Schutzwand am Fahrradweg vor dem Heckenstallertunnel Empfehlung Nr. 14-20 / E 03058 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 19.11.2019
+- TOP 18.2.: Schutzwand am Fahrradweg Heckenstallertunnel
+- TOP 18.3.: Neue Baumstandorte im öffentlichen Raum
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Christbaumverkauf
+- TOP 22.2.: Anhörung zur verkehrsrechtlichen Anordnung in der Passauerstraße
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.1.: Ausbau der südlichen Fußgängerquerung S-Bahnhof Mittersendling
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.1.: Gehwegsanierung Bahngleise IGA-Haltestelle
+- TOP 31.2.: Denkmal Luise Kiesselbach und Kunst am Bau
+- TOP 31.3.: Bolzplätze - Reinigung und Abstellmöglichkeit
+- TOP 31.4.: Fußwegeverbindung Garmischer Straße zur Siegenburger Straße
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 32.1.: Toiletten am U-Bahnhof Westendstraße
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.1.: Vorkaufsrecht Marbachstr.
+- TOP 34.2.: Lärm- und Geruchsbelästigung Bus-Parkplatz Hansastraße.
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.1.: Dialogdisplays
+- TOP 35.2.: Zweites Vorfahrtsschild Heckenstaller - Höglwörther St
+- TOP 35.3.: Radweg Hansastr./ Konrad-Peutinger-Straße
+- TOP 35.4.: Einrichtung eines Behindertenparkplatzes in der Waldfriedhofstraße
+- TOP 36.: Kulturreferat
+- TOP 36.1.: Interimslösungen Kulturhaus
+- TOP 37.: Lokalbaukommission
+- TOP 37.1.: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.1.: Errichtung eines Haus für Kinder
+- TOP 39.2.: Fragen und Antwort Sendling-Westpark
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.1.: Ausarbeitung eines Verkehrs- und Parkkonzepts für die Besucherinnen des Audi Dome_ Antrag SPD Volleyball im Audi Dome
+- TOP 41.2.: Ausdehnung Parkraummanagement nach Westen
+- TOP 41.3.: Sachstand Busspuren Autobahn
+- TOP 41.4.: Parklet_Albert_Rosshaupter_Strasse
+- TOP 42.: Sozialreferat
+- TOP 42.1.: Einrichtung eines Mädchentreffs in Sendling-Westpark
+- TOP 45.: Baureferat
+- TOP 45.1.: Baumentfernung Am Westpark
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 46.1.: Bearbeitungsfristen
+- TOP 47.: Direktorium
+- TOP 47.1.: Bescheid Zentrum für Tanz und Tanztheater
+- TOP 47.2.: Verwendungsnachweis Konzert im Viertel
+- TOP 47.3.: Verwendungsnachweis Trafohäuschen
+- TOP 47.4.: Verwendungsnachweis Jahresabschlusskonzert
+- TOP 47.5.: Verwendungsnachweis MTV Muenchen
+- TOP 47.6.: Verwendungsnachweis Uns gehört die Stadt
+- TOP 47.7.: Verwendungsnachweis Musikalischer Saisonstart
+- TOP 47.8.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.1.: Sitzungsvorlage Errichtung Haus für Kinder
+- TOP 53.2.: Information zu den Schulbauprogrammen aufgrund der Haushaltslage
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.1.: Filmdreh JGA
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 55.2.: (U) Autobahn Südring Autobahnring um München schließen – Planungen zum Südring wieder aufnehmen Antrag Nr. 14-20 / A 05163 von der CSU-Fraktion vom 29.03.2019, eingegangen am 29.03.2019 Autobahnring um München schließen - Planungen zum Südring wieder aufnehmen BA-Antrags-Nr. 14-20 / B 06068 des Bezirksausschusses des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied vom 10.04.2019 Fertigstellung der Autobahn am Südring Empfehlung Nr. 14-20 / E 02329 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 15.11.2018 usw.
+- TOP 55.3.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 55.4.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 55.5.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 55.6.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 55.7.: (U) Bebauungsplan Nr. 2017c Banlinie München-Lenggries (östlich), Zielstattstraße (nordwestlich) - Satzungsbeschluss - Stadtbezirk 07 – Sendling-Westpark
+- TOP 56.: Sozialreferat
+- TOP 56.1.: Abbruch von Bestandswohnraum und Schaffung von Neuwohnraum
+- TOP 56.2.: (U) "Platz da für Mädchen* und junge Frauen*" - Ergebnisse des Partizipationsprojekts ernst nehmen und Bedürfnissen schnellstmöglich gerecht werden Antrag Nr. 14-20 / A 05644 ......................
+- TOP 57.1.: Baumaßnahmen SWM
+- TOP 57.2.: MIP-Entwurf 2020-2024
+- TOP 59.1.: Erstinformation zur Erweiterung einer ortsfesten Funkanlage
+- TOP 59.2.: Abgeschlossenheitsbescheinigungen
+- TOP 59.3.: Beschlussvorlage Vorkaufsrecht
