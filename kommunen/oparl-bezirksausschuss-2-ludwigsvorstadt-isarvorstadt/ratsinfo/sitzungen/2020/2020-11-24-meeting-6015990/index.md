@@ -1,0 +1,170 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-11-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6015990
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6015990
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Erstellung einer Pyramide zur Ausstellung von Spraydosen vom 09. - 15.11.2020 2.543,08 Euro, Az.: 0262.0-2-0366
+- TOP 2.2.: (E) Stadtbezirksbudget Bellevue di Monaco eG Beleuchtung für den integrativen Bolzplatz vom 01.12. - 31.12.2020 6.420,83€; Az. 0262.0-2-0367
+- TOP 2.3.: (E) Stadtbezirksbudget Condrobs e.V. Einheitliche Kleidung für Streetworker*innen/Peers 2.850,00 Euro, Az.: 0262.0-2-0368
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative „Leuchtendes Herz“ Lichtspiel „Leuchtendes Herz“ am 19.12.2020 1.250,00 € / Az. 0262.0-2-0370
+- TOP 2.5.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Hip Hop Open Mic Session vom 02.02. - 07.12.2021 1.477,50 € / Az. 0262.0-2-0372
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Zenettiplatz: Fortsetzen der Umwidmung bis zur dauerhaften Umgestaltung
+- TOP 1.2.: Neuer Parkraum für Fahrräder im Klinikviertel; interfraktioneller Antrag der Fraktionen Die Grünen / Rosa Liste, SPD, die LINKE vom 06.11.2020
+- TOP 1.3.: Entwicklung und Status quo Parkraumaufteilung/Parkraummanagement; Antrag der Fraktion Die Grünen / Rosa Liste vom 25.10.2020
+- TOP 1.4.: Rückbau der freilaufenden Rechtsabbieger am Kapuzinerplatz; Antrag der Fraktion Die Grünen / Rosa Liste vom 09.11.2020
+- TOP 1.5.: Rückbau des freilaufenden Rechtsabbiegers am Bavariaring 4-9; Antrag der Fraktion Die Grünen / Rosa Liste vom 09.11.2020
+- TOP 2: Entscheidungen
+- TOP 2.2.1.: Warenauslage in der Reichenbachstraße 28
+- TOP 2.2.2.: Warenauslage in der Paul-Heyse-Straße 23
+- TOP 2.2.3.: Warenauslage in der Hermann-Lingg-Straße 2
+- TOP 2.3.1.: Umgestaltung Tumblingerstraße zur Vorfeldgestaltung Volkstheater; Projektnr. 101047
+- TOP 3: Anhörungen
+- TOP 3.2.1.: „Gefahrstellen rund um den Gärtnerplatz“ Bitte um Zustimmung zur beabsichtigten Anordnung des Gefahrzeichens „Kinder“ mit dem Zusatzzeichen „Schulweg“ an der Kohlstraße / Ecke Baaderplatz
+- TOP 3.2.2.: Austausch von Lichtsignalanlagen: Goetheplatz
+- TOP 3.2.3.: Austausch von Lichtsignalanlagen: Fraunhofer-/Klenzestraße
+- TOP 3.2.4.: Aufhebung der Radwegbenutzungspflicht in der Zweibrückenstraße, Anhörung zur verkehrsrechtlichen Anordnung
+- TOP 3.2.5.: Errichtung eines absoluten Haltverbotes und Änderung der bestehenden Parkregelung in der Hans-Sachs-Straße
+- TOP 3.3.1.: Aufstellung einer Sitzgelegenheit, Klenzestraße 22
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Verkehr und Lieferzonen in der Reichenbachstraße; Bürgeranliegen
+- TOP 5.2.: Notwendigkeit gesperrter Parkflächen für Bauarbeiten und Umzüge; Bürgeranliegen
+- TOP 5.3.: Fahrradparkplatz in der Auenstraße; Bürgeranliegen
+- TOP 5.4.: Einrichtung von Fahrradparken Höhe Kapuzinerstraße 37; Bürgeranliegen
+- TOP 5.5.: Parkplatzsituation im Glockenbachviertel; Bürgeranliegen
+- TOP 5.6.: Errichtung von Fahrradstangen an der Ickstattstraße 3; Bürgeranliegen
+- TOP 5.7.: Absteller für alternative Mobilitätsformen; Bürgeranliegen
+- TOP 5.8.: Einrichtung eines Fahrradstreifens auf der südlichen Seite der Reichenbachbrücke; Bürgeranliegen
+- TOP 5.9.: Installation eines Fahrradständers am Eingang des Glockenbachspielplatzes für normale und mindestens vier Lastenräder; Bürgeranliegen
+- TOP 5.10.: Bepollerung der Ecke am Glockenbach/ Holzstraße; Bürgeranliegen
+- TOP 5.11.: Park- und Verkehrssituation Hans-Sachs-Straße / Westermühlstraße; Bürgeranliegen
+- TOP 5.12.: Verbesserungen für Fahrradfahrer*innen in der Stielerstraße; Bürgeranliegen
+- TOP 5.13.: Parken in zweiter Reihe aufgrund der Schanigärten; Bürgeranliegen
+- TOP 5.14.: Beschwerde über Restaurant in der Klenzestraße 47; Bürgeranliegen
+- TOP 5.15.: Parken im Glockenbachviertel vs. Schanigärten; Bürgeranliegen
+- TOP 5.16.: Ausweitung von Tempo 30 in der Wittelsbacherstraße; Bürgeranliegen
+- TOP 5.17.: Änderung der Vorfahrtsregelung Baader- Ecke Ickstattstraße; Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Lindwurmstraße 31 DG-Aufstockung und Anbau eines Aufzugs
+- TOP 3.1.2.: Landwehrstraße 25 Nutzungsänderung einer Gaststätte zu einem Wettbüro mit Wettannahme und -automaten
+- TOP 3.1.3.: Bayerstraße 25 Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.4.: Kapuzinerplatz 2 Errichtung eines Rückgebäudes
+- TOP 3.1.5.: Schubertstraße 8, Tektur Sanierung eines denkmalgeschützten Gebäudes mit DG-Neubau, Anbau eines Erkers, zweier Aufzüge und von Balkonen, Neubau eines an den Bestand anschließenden Tiefkellers mit Parksystem und Pkw-Lift sowie Erstellung eines Nebengebäudes im Hof
+- TOP 3.1.6.: Paul-Heyse-Straße 7 Reorganisation des ehemaligen Postbank-Karrees – Teilabriss, Sanierung und Neubau auf der Basis der bestehenden Gebäudestruktur zur Integration eines öffentlichen Hofes (überwiegend Büronutzung, im EG zusätzlich Gastronomie und Einzelhandel)
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 1.1.: Alternativstandorte für Nachpflanzungen, Antrag der Baumschutzbeauftragten vom 26.10.2020
+- TOP 1.2.: Natur-Eislauffläche auf der Theresienwiese; Antrag der Fraktion Die Grünen / Rosa Liste vom 09.11.2020
+- TOP 1.3.: Erstellung von zwei weiteren Tischtennisplatten auf der Grünfläche zwischen dem alten und dem neuen Teil des Alten Südlichen Friedhofes; Antrag der Fraktion Die Grünen / Rosa Liste vom 05.11.2020
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Begrünung und Verkehrsberuhigung in der Baaderstraße Empfehlung Nr. 14-20 / E 03037 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2019
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Baumfällungsantrag Müllerstraße 27
+- TOP 3.1.2.: Vollzug der Baumschutzverordnung Bayerstraße 25
+- TOP 3.1.3.: Vollzug der Baumschutzverordnung Kapuzinerplatz 2 / RGB
+- TOP 3.1.4.: Vollzug der Baumschutzverordnung Paul-Heyse-Straße 7
+- TOP 3.1.5.: Baumfällungsantrag Pettenkoferstraße 35
+- TOP 3.1.6.: Baumfällungsantrag, Thalkirchner Straße 110-108
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Neue Baumstandorte im öffentlichen Raum – Abfrage aller BAs mit der Bitte um Vorschläge
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Abfallbehälter am St.-Pauls-Platz; Bürgeranliegen
+- TOP 5.2.: Bepflanzung Grünstreifen Cornelius- Ecke Blumenstraße; Bürgeranliegen
+- TOP 5.3.: Projekt Bepflanzung Grünstreifen in der Frauenlobstraße; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 1.1.: Online Banking für das BA Girokonto; interfraktioneller Antrag vom 26.10.2020
+- TOP 1.2.: Finanzmittel für Bezirksausschuss-Fraktionen; Antrag der Fraktion Bündnis 90/Die Grünen - Rosa Liste vom 28.10.2020
+- TOP 1.3.: Formulare in "Einfacher Sprache"
+- TOP 1.4.: Die Stadt München stellt den Mitgliedern der BAs für die Sitzungen der Unterausschüsse und des Plenums FFP2 Masken zur Verfügung; Antrag der SPD-Fraktion vom 06.11.2020
+- TOP 1.5.: Einrichtung eines Sonderausschusses • Beschlussfassung über Größe • Benennung der Mitglieder und ihrer Stellvertreter • Wahl der/des Vorsitzenden • ggf. Benennung der/des stellvertretenden Vorsitzenden
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Dialog des Referates für Bildung und Sport mit den Bezirksausschüssen am 22.10.2020
+- TOP A 4.4.: (U) "Platz da für Mädchen* und junge Frauen*" - Ergebnisse des Partizipationsprojekts ernst nehmen und Bedürfnissen schnellstmöglich gerecht werden Antrag Nr. 14-20 / A 05644 ......................
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Wie geht es weiter in der Fraunhoferstraße; Antwort des Referates für Stadtplanung und Bauordnung auf Bürgeranliegen (vgl. TOP 20.08 B 5.4)
+- TOP B 4.8.: Neuaufteilung des Straßenraumes in der Tumblingerstraße südlich des Kapuzinerplatzes
+- TOP B 4.9.: Markierung der Tempo-30-Zone um den Gärtnerplatz; Antwort des KVR auf Bürgeranliegen (vgl. TOP 20.09 B 5.10)
+- TOP B 4.10.: Verfügung eines Hupverbots bei Versammlungen, Stellungnahme des KVR
+- TOP B 4.11.: Extreme Lärmbelästigung bei der Kundgebung am 12.09.2020 auf der Theresienwiese; Antwort des KVR auf Bürgeranliegen
+- TOP B 4.12.: Nutzung der Theresienwiese für einen Wochen- oder Bauernmarkt; Antwort der Markthallen München auf Bürgeranliegen
+- TOP B 4.13.: Situation im und um den Nußbaumpark; Antwort des KVR auf Bürgeranliegen
+- TOP B 4.14.: Eilentscheidung zur Anhörung: Gaststätte "Pancakes am Isartor", Baaderstr. 12 - Antrag auf eine reguläre Freischankfläche
+- TOP B 4.15.: Anwohnerparken auf dem Viehhofgelände; Antwort des KVRs
+- TOP B 4.16.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP B 4.17.: Markierung eines Zebrastreifens vor der Einmündung der Thalkirchner Straße in die Müllerstraße
+- TOP B 4.18.: Kreative Nutzung der Theresienwiese - Urbanian Run
+- TOP B 4.19.: Tempo 30 in der Häberlstraße; Antwort auf Bürgeranliegen (vgl. TOP 20.09 B 5.13)
+- TOP B 4.20.: Eilentscheidung zur kulturellen Winterstrandveranstaltung an der Corneliusbrücke (Bastion) vom 28.11.2020 - 09.01.2021
+- TOP B 4.21.: Anordnung einer Geschwindigkeitsbegrenzung auf 30 km/h in der Fraunhoferstraße
+- TOP B 4.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.23.: Anlieferungsmöglichkeit in der Fraunhoferstraße
+- TOP B 4.24.: Thalkirchner Straße II - Anwohnerparkplätze erweitern
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Neubau Hauptbahnhof München, Fahrradparken – Sachstandsbericht und weiteres Vorgehen; Sitzungsvorlage Nr. 20-26 / V 01456
+- TOP C 4.3.: Genehmigung für das Bauvorhaben Schillerstraße 24: Erweiterung eines Hotels durch Umbau und Nutzungsänderung von Tanzschule, Büro, Verkauf und Lager sowie Aufstockung des Seiten- und Rückgebäudes von 46 Zimmern mit 78 Betten
+- TOP C 4.4.: Genehmigung für das Bauvorhaben Kapuzinerstraße 18: Neubau von Wohngebäuden mit Tiefgarage und eines Supermarkts mit Tiefgarage
+- TOP C 4.5.: Schwanthalerstraße 88, Neubau eines Studentenwohnheims (50 Zimmer, 52 Betten / VGB + RGB) mit Tiefgarage; Stellungnahme der Verwaltung
+- TOP C 4.6.: Baugenehmigung Goethestraße 30
+- TOP C 4.7.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP C 4.8.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP C 4.9.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Genehmigung des Fällungsantrages Isartalstraße 44a
+- TOP D 4.2.: (U) Unterstützung der Artenvielfalt in München durch Erhalt und Ausweitung des Bestandes von Hecken, Büschen und Wandbegrünungen Empfehlung Nr. 14-20 / E 02572 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP D 4.3.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP D 4.4.: Auflistung von Grünflächen / Einstufungen
+- TOP D 4.5.: Müllcontainer Theresienwiese
+- TOP E 4: Bereich BA-Angelegenheiten
