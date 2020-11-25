@@ -1,0 +1,125 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2020-11-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6119883
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6119883
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.2: Unveränderte Fortführung von Gaststätten
+- TOP 2.11.: Verkehrssituation Barbarastraße: Ergebnisse des Ortstermins am 08.10.2020
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP F.2.: Umbesetzung der Unterausschüsse
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Antwort der Polizeiinspektion 43 auf BA-Anfrage aus der Oktobersitzung
+- TOP 6.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024
+- TOP B: Soziales, Bildung und Kultur
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Pöbelnde Jugendliche am Ackermannbogen
+- TOP 2.1.: Bereits beschlossener Zuschuss für die Initiative „Wunderbuch 2.0“ für Grundschulkinder: Interaktive digitale „Klassenzimmer-Version“ statt Live-Theater
+- TOP 2.2.: (E) Stadtbezirksbudget ClubIn Internationaler Treff (Träger: Verein für Internationale Jugendarbeit) Anschaffung eines Billardtisches ab Dezember 2020 223,95 € / Az. 0262.0-4-0320
+- TOP 2.3.: (E) Stadtbezirksbudget Kunstzentrat e.V. Import Export Werkstatt vom 10.12.2020 - 28.11.2021 8.000,00 Euro, Az.: 0262.0-4-0321
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2.1.: Verwendungsnachweis und Sachbericht Tanzplattform Deutschland 2020
+- TOP 3.2.2.: Verwendungsnachweis und Sachbericht Condrobs-Ferienfahrt im September
+- TOP 3.2.3.: Genehmigungsbescheid Tanztendenz München e.V.
+- TOP 3.2.4.: Änderungsbescheid THE AGENCY
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) "Platz da für Mädchen* und junge Frauen*" - Ergebnisse des Partizipationsprojekts ernst nehmen und Bedürfnissen schnellstmöglich gerecht werden Antrag Nr. 14-20 / A 05644 ......................
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Auslagerung der heilpädagogischen Tagesstätte und Professor-Otto-Speck-Schule an der Dachauer Str. 98 in die neu erbaute Grundschule Infanteriestr. 25
+- TOP C: Bauen, Wohnen und Wirtschaft
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Burgunderstr. 4: Modularer Neubau einer Wohnanlage (15 WE) mit Tiefgarage a) Bauvorhaben b) in Zusammenhang damit beantragte Baumfällungen
+- TOP 2.2.: Vorbescheid Theo-Prosel-Weg 1: Aufstockung Bestandsbebauung
+- TOP 2.3.: Hohenzollernstr. 29 RGB: Aufstockung eines Mehrfamilienhauses sowie Anbau von Balkonen und eines Aufzugs
+- TOP 2.4.: Infanteriestr. 11A: Umbau Dachgeschoss Ost zu Büros (Haus E)
+- TOP 2.5.: Römerstr. 16 a: Nutzungsänderung Backshop zu Café mit Gastronomie mit Freischankfläche
+- TOP 2.6.: Tektur Giselherstr. 1 – 7: Abbruch und Neuerrichtung dreier Dachstühle mit Ausbau zu 12 WE sowie Errichtung von 8 Außenaufzügen und Anbau dreier Balkonanlagen hier: Fällung Baum Nr. 11
+- TOP 2.7.: Schleißheimer Str. 115: Aufstockung des Vordergebäudes sowie DG-Ausbau im Vorder- und Rückgebäude, Ausbau einer Lagerfläche (UG) im RGB mit Teilabgrabung als Wohnfläche, Anbau von Balkonen mit Vergrößerung der anschließenden Fenster als Balkontüren, Neugestaltung des Innenhofs mit Fahrradstellplätzen, Mülleinhausung und Kleinkind-Spielfläche
+- TOP 2.8.: Tektur Hiltenspergerstr. 27: Umbau zweier Dachwohnungen mit Errichtung von Gauben sowie Ausbau des Dachspitzes mit Dachterrasse und Anbau von Balkonen – hier: Änderung der Dachform Mittelteil sowie Ausbau Dachspitz mit neuer Innentreppe
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Mieterbeiratswahl 2021 – Nachbesetzung für den BA 4 (Schreiben des Amtes für Wohnen und Migration)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Herzogstr. 84: Abdruck der Baugenehmigung zum Neubau eines Studentenwohnheims (RGB) sowie Errichtung eines Durchgangs im VGB mit Verkleinerung der Gewerbeeinheit
+- TOP 3.4.2.: Kathi-Kobus-Str. 22-24: Abdruck des Vorbescheids zum Neubau einer Wohnanlage mit Tiefgarage
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: a) Mehr Sauberkeit an der Endhaltestelle Ackermannbogen b) Einsatz von Elektrobussen auf der Buslinie 59 ab 21 Uhr
+- TOP 1.2.: Bürgerin: „Fahrradstraße“ Tengstraße
+- TOP 1.3.: Antrag CSU: Ein E-Bike Ladenetz für Schwabing West (vertagt aus 10/2020)
+- TOP 1.4.: Bürger: Erneuerung der Zebrastreifen am Kurfürstenplatz; Kurfürstenstraße zur Fahrradstraße umwidmen
+- TOP 1.5.: Bürger: Für Fußgänger unübersichtliche Kreuzung Georgen-/Zentnerstraße
+- TOP 1.6.: Antrag Grüne: Petuelring: Sicherheit, Barrierefreiheit und Querungsmöglichkeiten stärken
+- TOP 1.7.: Antrag Grüne: Kurfürstenstraße zur Fahrradstraße machen
+- TOP 1.8.: Antrag Grüne: Fahrradstraße Borschtallee sicherer und funktionaler gestalten
+- TOP 1.9.: Antrag Grüne: Fußweg parallel zur Bamberger Straße für Fahrradfahrer freigeben
+- TOP 1.10.: Antrag Grüne: Evaluierung von E-Bike-Ladestationen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.12.: Aufhebung der allgemeinen Behindertenparkplätze vor dem ehemaligen Karstadt am Nordbad, Schleißheimer Str. 93
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Haltelinien für Radfahrer in der Franz-Joseph-Straße (Antwort des Baureferats auf BA-Schreiben vom 01.10.2020)
+- TOP 3.1.2.: Angespannte Parksituation Schwabing West (Antwort des Kreisverwaltungsreferats auf weitergeleitetes Bürgeranliegen)
+- TOP 3.1.3.: Abstellen von E-Rollern und E-Scootern (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 29.10.2020)
+- TOP 3.1.4.: Poller im Einfahrtsbereich der Häuser Hornstr. 3-11 (Dankschreiben des Bürgers)
+- TOP 3.2.1.: Tempo 30 im Bereich der Grundschule Infanteriestr. 25
+- TOP 3.2.2.: Errichtung einer Ladezone am Kurfürstenplatz 1
+- TOP 3.2.3.: Infanteriestr. 25: Einrichtung einer Anfahrtszone für die Grundschule
+- TOP 3.3.1.: Fernwärmearbeiten Schwere-Reiter-Straße, Phasen 4.1 und 4.2
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgerin: Weniger Mähen am Rodelhügel Ackermannbogen
+- TOP 1.2.: Antrag Grüne: Grünen Poller im Luitpoldpark aus Gefahrengründen versetzen
+- TOP 1.3.: Antrag CSU: Zum 110. Geburtstag – Luitpoldpark und Luitpoldhügel barrierefrei
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.4.: Hohenzollernstr. 62 „Die Schreiboase“: Aufstellen eines Postkartenständers
+- TOP 2.1.1.: Neue Baumstandorte im öffentlichen Raum
+- TOP 2.2.1.: Belgradstr. 2 „Origine Kiosque“: Aufstellen einer Sitzbank
+- TOP 2.2.2.: Elisabethstr. 49 „das Inventar“: Aufstellen a) einer neuen Verkaufseinrichtung und b) von Sitzgelegenheiten
+- TOP 2.2.3.: Hohenzollernstr. 62 „Die Schreiboase“: Aufstellen eines Postkartenständers
+- TOP 2.2.4.: „Münchner Dirndl GmbH“: Aufstellen je eines mobilen Fahrradständers vor dem Laden in der Agnesstr. 6 und dem Showroom in der Tengstr. 20
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2.1.: Karl-Theodor-Str. 80: Genehmigung zur Fällung einer Fichte
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Genehmigungsbescheide für Freischankflächen a) „New Saigon“, Hohenzollernplatz 8
+- TOP 3.4.2.: Artenvielfalt auch in München: Ein Jahr Volksbegehren rettet die Bienen!, Antwort des Baureferats auf mehrere Stadtratsanträge
+- TOP 3.4.3.: Ausnahmezulassung für nächtliche Dreharbeiten vom 12. bis 14.11.2020 in der Lothstr. 21
+- TOP 3.4.4.: Entwicklung des Treffpunktes Elisabethmarkt (Bericht von AKIM)
+- TOP 3.4.5.: (E) Kein mehrtägiges Straßenfest in der Georgenstraße mehr
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.3.: Auswirkungen der Corona-Epidemie auf den Sitzungsbetrieb hier: Einrichtung von Sonderausschüssen, virtuelle Tagungsmöglichkeiten für Unterausschüsse, Maskenpflicht und Kontaktnachweise
+- TOP F.4.: Bildung eines Sonderausschusses – Wechsel zwischen Sonderausschuss und Vollgremium durch Vorstandsbeschluss – virtuelle themenbezogene Besprechung (ergänzendes Schreiben zu F 3.1)
+- TOP F.5.: Bildung eines Sonderausschusses 1. Beschluss über die Bildung eines Sonderausschusses 2. Beschluss über die Anzahl der Mitglieder des Sonderausschusses 3. Benennung der Mitglieder und Regelung der Stellvertretung durch die Fraktionen 4. Wahl der /des Vorsitzenden des Sonderausschusses 5. Benennung der / des stellvertretenden Vorsitzenden des Sonderausschusses (optional)
+- TOP G: Verschiedenes
+- TOP H: Termine
