@@ -1,0 +1,56 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-25T17:12:00+01:00
+- Ende: 2020-11-25T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18902
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18902
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393338.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393338.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393338.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Genehmigung von Niederschriften
+- TOP 5.1: Genehmigung der Niederschrift vom 23.09.2020 - zurückgestellt
+- TOP 6: Anfragen / Anträge
+- TOP -: Mitteilung der Verwaltung
+- TOP 7: mündlicher Bericht der Verwaltung - zur Kenntnis genommen
+- TOP -: Qualitätssichernde Verfahren
+- TOP 8: Qualitätssicherndes Verfahren Nr. 01/021 - ehem. Kaufhof Am Wehrhahn - abweichend beschlossen
+- TOP 9: Städtebaulicher Wettbewerb - Metro Campus - einstimmig beschlossen
+- TOP 10: Sohnstraße 45 (Telekom) - Beschluss zur Durchführung einer Öffentlichkeitsbeteiligung vor einem Wettbewerbsverfahren - abweichend beschlossen
+- TOP 11: Planungskonzept zur Neugestaltung des Heinrich-Heine-Platzes und des Vorplatzes Wilhelm-Marx-Haus aus dem 2. Workshopverfahren (Planungsworkshop) und das weitere Vorgehen - passieren lassen
+- TOP 11.1: Ergänzungsantrag der Ratsfraktionen BÜNDNIS 90/DIE GRÜNEN und CDU zur Vorlage OVA/103/2020 - passieren lassen
+- TOP -: Bauleitplanung
+- TOP 12: Flächennutzungsplanänderung Nr. 186 (Entwurf) - Heerdterhof-Garten - einstimmig beschlossen
+- TOP 13: Flächennutzungsplan Nr. 196 - Ehemals Fashion House - einstimmig beschlossen
+- TOP 14: Flächennutzungsplanänderung Nr. 188 (Entwurf - Theodorstraße: Verlagerung Bau- und Gartenfachmarkt - einstimmig beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 06/007 - Theodorstraße/Am Hülserhof - einstimmig beschlossen
+- TOP 16: Bebauungsplan-Vorentwurf Nr. 04/015 - Stadtwerkegelände Heerdter Lohweg - - einstimmig beschlossen
+- TOP 17: Bebauungsplan-Entwurf Nr. 02/010 - Östl. Hanielpark/Sohnstraße - abweichend beschlossen
+- TOP 18: Bebauungsplan Nr. 5674/26 - Nördlich Harffstraße - einstimmig beschlossen
+- TOP 19: Bebauungsplan-Entwurf Nr. 03/032 - Östlich Völklinger Straße - einstimmig beschlossen
+- TOP 20: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 04/014 - Wickrather Straße - einstimmig beschlossen
+- TOP 21: Zustimmung zum Abschluss eines Durchführungsvertrages nach § 12 Baugesetzbuch (BauGB) zum Vorhabenbezogenen Bebauungsplanentwurf Nr. 04/014 - Wickrather Straße - einstimmig beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 23: Investorenauswahlverfahren Carl-Friedrich-Gördeler-Straße/Carl-von-Ossietzky-Straße - abweichend beschlossen
+- TOP 24: Investorenauswahlverfahren Bertastraße – günstiger Wohnraum für Menschen mit systemrelevanten Berufen - mehrheitlich beschlossen
+- TOP 24.1: Änderungsantrag der SPD/Volt-Ratsfraktion zur Vorlage APS/109/2020/1 - mehrheitlich abgelehnt
+- TOP 25: Investorenauswahlverfahren Radeberger Straße - Solarsiedlung - vertagt
+- TOP -: Sonstiges
+- TOP 26: Sitzungstermine des Ausschusses für Planung und Stadtentwicklung im Jahre 2021 - zur Kenntnis genommen
+- TOP 27: Jahresbericht Hochhausbeirat - zur Kenntnis genommen
+- TOP 28: Mitgliedschaft im Förderverein Bundesstiftung Baukultur e.V. - einstimmig beschlossen
+- TOP 29: Lärmaktionsplan III für Düsseldorf - einstimmig beschlossen
+- TOP 30: 4. Änderung des Landschaftsplanes der Landeshauptstadt Düsseldorf - Satzungsbeschluss - - einstimmig beschlossen
