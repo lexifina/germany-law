@@ -2,4 +2,5 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Lufttüchtigkeitsforderungen (Bauvorschriften)](0001.md)
+- [§ 1a Übergangsregelung](0001a.md)
 - [§ 2 Inkrafttreten, Außerkrafttreten](0002.md)
