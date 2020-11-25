@@ -1,0 +1,75 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-11-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Ggf. Bildung eines Sonderausschusses
+- TOP 3.: Berichte von der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 2.1.: Möglichkeit der Einrichtung eines Sonderausschusses nach § 22 b i.V.m. § 22 Abs. 2-4 BA-Satzung - Information
+- TOP 2.2.: Erfordernis der Beschlussfassung im Vollgremium, Wahl des Vorsitzenden, Bestellung der Stellvertretung und Beschluss über die Zusammensetzung zur Bildung eines Sonderausschusses
+- TOP 2.3.: Mögliche Sitzverteilung in den Unterausschüssen - Beispielsberechnungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: „Sommer in der Stadt“ - Dankschreiben an den BA 11
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule am Hildegard von Bingen Anger Nikolausbesuch am 04.12.2020 637,50 € / Az. 0262.0-11-0408
+- TOP 6.1.2.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Finanzierung DiNo-Kids vom 01.01. - 31.12.2021 9.600,00 € / Az. 0262.0-11-0410
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Wunderbuch 2.0“ für Grundschulkinder Theater „Wunderbuch 2.0“ für Grundschulkinder vom 01.04.2020 – 18.12.2020 1.800,00€; Az. 0262.0-11-0373
+- TOP 6.1.4.: (E) Stadtbezirksbudget PV Moosach Olympiadorf Ökumenischer Frauentag am 14.11.2020 180,00 € / Az. 0262.0-11-0406
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Bericht des/der Beauftragten gegen Rechtsextremismus
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Bereitstellen von Ausstellungsflächen zum 50-jährigen Jubiläum der Olympischen Spiele am Busbahnhof Olympiazentrum im Sommer 2022
+- TOP 7.3.2.: Ehemaliger Busbahnhof Olympiazentrum - Nutzung als Street Food Bereich
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Fahrradmobilität: Aufstellen einer öffentlich zugänglichen Fahrradpumpstation im Bereich Radweg im Grünstreifen Rathenaustraße - Petuelring
+- TOP 7.4.2.: Kreuzung Neuherbergstraße / Schleißheimer Straße - Rechtsabbiegen ermöglichen auf der Mittelspur in nördlicher Richtung
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Mieterbeiratswahl 2021 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Taunusstraße 34 - 36 a) Bauvorhaben: Neubau eines Bürogebäudes - Vorbescheid
+- TOP 8.2.2.: Hufelandstr. 4 a) Bauvorhaben: Neubau eines Büro- und Gewerbegebäudes mit TG - Vorbescheid
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Taunusstraße 34 - 36 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Hufelandstr. 4 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.3.: Baumfällungen: a) Frankfurter Ring 15-17 b) Zwillingstraße 4
+- TOP 8.5.4.: Aufforderung der konkreten Benennung von neuen Baumstandorten im öffentlichen Raum des Stadtbezirkes 11 Milbertshofen-Am Hart
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 9.2.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 9.3: Bau und Stadtgestaltung
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Dostlerstraße - Aufhebung eines Taxistandplatzes b) Korbinianstraße - absolutes Haltverbot c) Moosacher Straße - zusätzliche Kennzeichnung „Feuerwehrzufahrt“
+- TOP 9.4.2.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 9.4.3.: (U) Planungen für den Anschluss der A 99 an die Schleißheimer Straße einstellen (Antrag 6)
+- TOP 9.4.4.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
