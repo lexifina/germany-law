@@ -1,0 +1,8 @@
+# TOP 5.1: Bewertung der COVID-19-Maßnahmen im Bezirk Treptow-Köpenick
+
+- Sitzung: 38. (öffentliche) Sitzung des Ausschusses für Arbeit, Soziales, Gesundheit, Gleichstellung und gesellschaftliche Vielfalt (2020-11-25)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=55939
+- Ergebnis: im Ausschuss abgelehnt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=55939
