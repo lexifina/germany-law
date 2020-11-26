@@ -1,0 +1,8 @@
+# TOP 4: Verpflichtung der sachkundigen Bürgerinnen und Bürgern
+
+- Sitzung: Umwelt- und Verkehrsausschuss (1. Sitzung) (2020-11-26)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13537
+- Ergebnis: 9 Ja, 0 Nein, 0 Enthaltung(en)
+- Beratung: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/8846
