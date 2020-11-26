@@ -1,0 +1,91 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-11-26T15:41:00+01:00
+- Ende: 2020-11-26T16:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2542
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2542
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00108774.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00108774.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00108774.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - einstimmig
+- TOP 2: Bestellung Schriftführer - einstimmig
+- TOP 3: Vereidigung des Bürgermeisters und Einführung in das Amt
+- TOP 4: Einführung und Verpflichtung der Ratsmitglieder durch den Bürgermeister
+- TOP 5: Wahl der stellvertretenden Bürgermeister/innen - mehrheitlich bei
+- TOP 6: Verpflichtung stellv. BM
+- TOP 7: Bildung von Ausschüssen - einstimmig
+- TOP 7.1: Bildung von Ausschüssen
+- TOP 8: Besetzung der Ausschüsse
+- TOP 8.1: Pflichtausschüsse
+- TOP 8.1.1: Pflichtausschüsse nach den Vorschriften der Gemeindeordnung NRW - einstimmig bei
+- TOP 8.1.1.1: Pflichtausschüsse nach den Vorschriften der Gemeindeordnung NRW
+- TOP 8.1.2: Pflichtausschüsse nach den Vorschriften der Gemeindeordnung NRW - einstimmig bei
+- TOP 8.1.2.1: Pflichtausschüsse nach den Vorschriften der Gemeindeordnung NRW
+- TOP 8.1.3: Pflichtausschüsse - einstimmig bei
+- TOP 8.1.3.1: Pflichtausschüsse
+- TOP 8.1.4: Pflichtausschüsse - einstimmig bei
+- TOP 8.1.4.1: Pflichtausschüsse
+- TOP 8.1.5: Vorschlagsliste für die Wahl der Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2020 bis 2025 - einstimmig bei
+- TOP 8.1.5.1: Vorschlagsliste für die Wahl der Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2020 bis 2025
+- TOP 8.1.6: Pflichtausschüsse nach sondergesetzlichen Regelungen - einstimmig bei
+- TOP 8.1.6.1: Pflichtausschüsse nach sondergesetzlichen Regelungen
+- TOP 8.1.7: Pflichtausschüsse nach sondergesetzlichen Regelungen - einstimmig bei
+- TOP 8.1.7.1: Pflichtausschüsse nach sondergesetzlichen Regelungen
+- TOP 8.2: Freiwillige Ausschüsse
+- TOP 8.2.1: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.1.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.2: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.2.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.3: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.3.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.4: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.4.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.5: Besetzung der freiwilligen Ausschüss - einstimmig bei
+- TOP 8.2.5.1: Besetzung der freiwilligen Ausschüss
+- TOP 8.2.6: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.6.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.7: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.7.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.8: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.8.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.9: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 8.2.9.1: Besetzung der freiwilligen Ausschüsse
+- TOP 8.2.10: Besetzung der freiwilligen Ausschüsse - einstimmig bei
+- TOP 9: Grundsätzliche Stellvertreterregelung - einstimmig bei
+- TOP 10: Verteilung der Ausschussvorsitze und der stellv. Ausschussvorsitze sowie Benennung - einstimmig bei
+- TOP 10.1: Verteilung der Ausschussvorsitze und der stellv. Ausschussvorsitze sowie Benennung
+- TOP 11: Vertretungen der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter
+- TOP 11.1: Stadtbetriebe Grevenbroich AöR (SBG) - mehrheitlich bei
+- TOP 11.1.1: Stadtbetriebe Grevenbroich AöR (SBG)
+- TOP 11.2: SEG - mehrheitlich bei
+- TOP 11.2.1: SEG
+- TOP 11.3: GWD - mehrheitlich bei
+- TOP 11.3.1: GWD
+- TOP 11.4: GWG - mehrheitlich bei
+- TOP 11.4.1: GWG
+- TOP 11.5: Erftsiedlungsgenossenschaft Gindorf eG - mehrheitlich bei
+- TOP 11.5.1: Erftsiedlungsgenossenschaft Gindorf eG
+- TOP 11.6: Segelflugplatzgesellschaft - mehrheitlich bei
+- TOP 11.6.1: Segelflugplatzgesellschaft
+- TOP 11.7: Verbandsversammlung IT-Kooperation Rheinland - mehrheitlich bei
+- TOP 11.7.1: Verbandsversammlung IT-Kooperation Rheinland
+- TOP 11.8: Verkehrsgesellschaft Rhein-Kreis Neuss mbH - mehrheitlich bei
+- TOP 11.8.1: Verkehrsgesellschaft Rhein-Kreis Neuss mbH
+- TOP 11.9: NEW Umwelt GmbH - mehrheitlich bei
+- TOP 11.9.1: NEW Umwelt GmbH
+- TOP 11.10: Partnerschaftsverein (Beirat) - mehrheitlich bei
+- TOP 11.10.1: Partnerschaftsverein (Beirat)
+- TOP 11.11: Städte- und Gemeindebund - mehrheitlich bei
+- TOP 11.11.1: Städte- und Gemeindebund
+- TOP 12: Bestellung von Beauftragten nach § 27a GO NRW für die Interessen von Senioren und von Menschen mit Behinderung - Kenntnisnahme
+- TOP 13: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Grevenbroich
+- TOP 14: Fraktionszuwendungen - einstimmig
+- TOP 15: Mitteilungen des Bürgermeisters
