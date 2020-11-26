@@ -1,0 +1,56 @@
+# Bau- und Umweltausschuss (1. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2020-11-26T17:00:00+01:00
+- Ende: 2020-11-26T20:05:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-5
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZafn3xrGqKxTYTLsX1c1ZOk
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4033
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeP_arBGMZxHIn1si5vCAzrDv1HSLu9MV4fbf50jYHJL/Einladung_Bau-_und_Umweltausschuss_26.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzgAToemcENrRaSxlI6KIyUNhzyGLoWp9E1-slJ7C3V/Oeffentliche_Niederschrift_Bau-_und_Umweltausschuss_26.11.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Verpflichtung von Mitgliedern, die nicht Ratsmitglieder sind
+- TOP A.2: Feststellung der Stimmberechtigung der Mitglieder sowie Feststellung der Beschlussfähigkeit
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Bau- und Umweltausschusses vom 26.05.2020
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Bestellung der Schriftführung für die Sitzungen des Bau- und Umweltausschusses - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: Fragestunde für Ausschussmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.8: Bebauungsplan Nr. 7.68 "Stedefreunder Straße/Im Obernholz" hier: erneuter Entwurfsbeschluss - Abstimmung zu Antrag 3:Mehrheitlich und ohne Enthaltung wurde folgender Beschluss gefasst: Abstimmung zu Antrag 1:Mehrheitlich und ohne Enthaltung wurde folgender Beschluss gefasst: Abstimmung zu Antrag 2:Mehrheitlich und ohne Enthaltung wurde folgender B
+- TOP Zu Top A.8: Antrag der Fraktion Freie Wähler "Liste 2004" Herforder Bürger Bündnis
+- TOP A.9: Gebührenhaushalt Straßenreinigung 10.Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10: Gebührenhaushalt Abfallentsorgung Gebührenbedarfsberechnung für das Jahr 2021 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Bebauungsplan Nr. 12.38 "Vlothoer Straße-Nord/ Hammersmith Kaserne, Teil 2" hier: Anordnung der Veränderungssperre Nr. 49 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Bebauungsplan Nr. 12.38 "Vlothoer Straße-Nord/ Hammersmith Kaserne, Teil 2" Hier Erneuter Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: Neuerrichtung einer begrünten Fuß- und Radwegeverbindung entlang der Vlothoer Straße (südlich der Hammersmith- Kaserne) hier: Vorstellung des Vorentwurfs - Mehrheitlich bei vier Enthaltungen wurde folgender Beschluss gefasst: 
+- TOP Zu Top A.13: Antrag der Fraktion Die Linke auf Änderung des Beschlussvorschlages
+- TOP A.14: Konversion Hammersmith Kaserne Hier: Vorstellung der Überarbeitung des städtebaulichen und freiraumplanerischen Entwurfs - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15: Bebauungsplan Nr. 8.81 "Nahversorgungszentrum Westring" hier: erneuter Entwurfsbeschluss - Mehrheitlich bei zwei Enthaltungen wurde folgender Beschluss gefasst: 
+- TOP A.17: Bebauungsplan Nr. 4.45 "Münsterkirchplatz" Änderung Nr. 1.17 hier: Satzungsbeschluss - Mehrheitlich bei einer Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Baumschutzangelegenheiten: hier: Fällung von 3 Silber-Ahorn entlang der alten Sporthalle am Königin-Mathilde-Gymnasium - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.19: Bebauungsplan Nr. 6.80 "Hellerweg - ehem. Betonwerk" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Maßnahmen des Straßenbauprogramms ab 2021, hier: Straßenendausbau - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Maßnahmen des Straßenbauprogramms ab 2021, hier: Sanierung von Fahrbahnen und Grunderneuerung von Gehwegen, Sanierung und / oder Grunderneuerung der Straßenbeleuchtung , Sanierung und / oder Grunderneuerung der Schmutz-, Regen- oder Mischwasserkanäle - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Umrüstung der Straßenbeleuchtung auf energieeffiziente und insektenverträgliche Lampen, Einberufung des Arbeitskreises zur Abstimmung der weiteren Vorgehensweise
+- TOP A.23: Bebauungsplan Nr. 12.30 Langenbergstraße - Änderung Nr. 5.18 hier: Entwurfsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Flächennutzungsplanänderung Nr. 3. 20 „Erweiterung Gewerbegebiet Diebrock" hier: Einleitungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Bebauungsplan Nr. 7.69 „Am Hainkamp/Tilkerbrink“ hier: Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Flächennutzungsplanänderung Nr. 2.20 "Nahversorgungszentrum Salzufler Straße" hier: Vorentwurf und frühzeitige Beteiligung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Erarbeitung eines neuen ISEK Innenstadt II - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.28: Neuaufstellung des Regionalplans OWL hier: Informationen zum Verfahren - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Sachstandsbericht zur Umsetzung des HH.-Begleitbeschlusses 2018 –Fortschreibung Sachstandsbericht für das HH-Jahr 2020 hier: Blühstreifen und Alleen in den Außenbereichen von Herford
+- TOP A.30: Bebauungsplan Nr. 12.32 "Luttenberg", Änderung Nr. 1.20 hier: Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.31: Bebauungsplan Nr. 8.33b "Wellbrok", Teil 1 Änderung Nr. 2.20 hier: Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.32: Bebauungsplan Nr. 8.79 "Auf der Strotheide" hier: Aufstellungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.33: Umsetzung des Klimaschutzkonzeptes, Sachstandsbericht
+- TOP A.34: Anträge zu Solarenergienutzung und Dach-/Fassadenbegrünung in Gewerbe- und Industriegebieten
+- TOP A.34a: Antrag B90/DIE GRÜNEN: Solarenergienutzung und Dach-/Fassadenbegrünung in Gewerbe- und Industriegebieten - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.34b: Antrag der SPD-Fraktion zu „Solarenergienutzung und Dach-/Fassadengbegrünung in Gewerbe- und Industriegebieten“ - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.35: Mitteilungen
