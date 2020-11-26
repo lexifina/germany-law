@@ -1,0 +1,59 @@
+# 47. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2020-11-26T18:00:00+01:00
+- Ende: 2020-11-26T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6104
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6104
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Sonderthemen - (offen)
+- TOP 4.1: Verkehrsproblematik in Adlershof - erledigt
+- TOP 5: Überweisungen aus der BVV - (offen)
+- TOP 5.1: Stellungnahmen - im Ausschuss abgelehnt
+- TOP 5.1.1: Linienverkehr mit dem Schiff - vertagt
+- TOP 5.1.2: Regengärten für Treptow-Köpenick - mit Änderungen im Ausschuss beschlossen
+- TOP 5.1.3: Wartesituation für Besucher des Amtsgerichts Köpenick am Mandrellaplatz verbessern - im Ausschuss abgelehnt
+- TOP 5.1.4: Mehr Fahrradabstellanlagen am S-Bahnhof Rahnsdorf errichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.1.5: Umweltzone ausweiten - vertagt
+- TOP 5.1.6: Anbindung Tesla an die Innenstadt – Verkehrsentlastung der südlichen Wohngebiete - vertagt
+- TOP 5.2: Empfehlungen - (offen)
+- TOP 5.2.1: Durchfahrtverbot für Lkw in Oberschöneweide - vertagt
+- TOP 5.2.2: Radfahrfreundliches Pflaster statt Asphalt für die Straße Am Goldmannpark - vertagt
+- TOP 5.2.3: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - vertagt
+- TOP 5.2.4: Bölschestraße sicher queren - vertagt
+- TOP 5.2.5: Einbahnstraße Josef-Nawrocki-Straße für den Fahrradverkehr in Gegenrichtung öffnen - vertagt
+- TOP 5.2.6: Radweg auf der Wilhelm-Spindler-Brücke durchgängig farbig markieren - vertagt
+- TOP 5.2.7: Parken für Anwohner von Friedrichshagen an den gewohnten Stellen - vertagt
+- TOP 5.2.8: Für Leben im toten Winkel – Trixi-Spiegel gegen Abbiegeunfälle - vertagt
+- TOP 5.2.9: Sicherheit der Fußgänger bei der Fahrbahnquerung zu jeder Zeit gewährleisten - vertagt
+- TOP 5.2.10: Stau Wendenschloßstraße / Müggelheimer Straße - vertagt
+- TOP 5.2.11: Verkehrssicherheit an der Lohmühlenstraße verbessern - vertagt
+- TOP 5.2.12: Ausschilderung des Zugangs zum S-Bahnhof Plänterwald für Ortsunkundige - vertagt
+- TOP 5.2.13: Gehwegmarkierung in der Lindenstraße - vertagt
+- TOP 5.2.14: Tempo 30 in der Schönblicker Straße - vertagt
+- TOP 5.2.15: Tempo 30 bedeutet mehr Sicherheit in der Baumschulenstraße - vertagt
+- TOP 5.2.16: Behindertengerechter Umbau der Kreuzung Buntzelstraße / Waltersdorfer Straße / Schulzendorfer Straße - vertagt
+- TOP 5.2.17: Kurzzeitparkplätze vor dem Friedhof in Bohnsdorf - vertagt
+- TOP 5.2.18: Radweg in der Waltersdorfer Straße in Bohnsdorf - vertagt
+- TOP 5.2.19: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - vertagt
+- TOP 5.2.20: Schulwegsicherheit Grundschule am Berg - vertagt
+- TOP 5.2.21: Tempo 30 in der Baumschulenstraße - vertagt
+- TOP 5.2.22: Heidelberger Straße vom Durchgangsverkehr befreien - vertagt
+- TOP 5.3: Empfehlungen zu Schlussberichten - (offen)
+- TOP 5.3.1: Schöner Fahrradparken - vertagt
+- TOP 5.3.2: Neubau einer Brücke über die Dahme - vertagt
+- TOP 5.3.3: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 5.3.4: Bürgerhaus Altglienicke sichtbar machen - vertagt
+- TOP 5.3.5: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5.3.6: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 5.3.7: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - vertagt
+- TOP 6: Verschiedenes - erledigt
