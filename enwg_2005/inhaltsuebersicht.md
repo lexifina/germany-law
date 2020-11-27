@@ -58,6 +58,7 @@
 | § 12e | Bundesbedarfsplan |
 | § 12f | Herausgabe von Daten |
 | § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
+| § 12h | Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen |
 | § 13 | Systemverantwortung der Betreiber von Übertragungsnetzen |
 | § 13a | Anpassungen von Einspeisungen und ihre Vergütung |
 | § 13b | Stilllegungen von Anlagen |

@@ -2,7 +2,7 @@
 
 | Abschnitt 1: | Grundlagen der Anstalt |  |
 | Unterabschnitt 1: | Allgemeine Vorschriften | §§ 1 - 3 |
-| Unterabschnitt 2: | Gestaltung der Sendungen | §§ 4 - 7 |
+| Unterabschnitt 2: | Gestaltung der Sendungen | §§ 4 - 7a |
 | Unterabschnitt 3: | Erfüllung der Aufgaben | §§ 8 - 15 |
 | Unterabschnitt 4: | Rechte Dritter | §§ 16 - 21 |
 | Unterabschnitt 5: | Verantwortung für Sendungen | §§ 22 - 23 |

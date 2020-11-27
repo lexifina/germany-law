@@ -21,6 +21,7 @@
 - [§ 6 Unzulässige Angebote, Jugendschutz](0006.md)
 - [§ 6a Entwicklungsbeeinträchtigende Angebote](0006a.md)
 - [§ 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter](0007.md)
+- [§ 7a Barrierefreiheit](0007a.md)
 
 ### Unterabschnitt 3 Erfüllung der Aufgaben
 
