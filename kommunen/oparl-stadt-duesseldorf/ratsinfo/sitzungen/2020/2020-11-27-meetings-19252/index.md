@@ -1,0 +1,74 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-27T16:30:00+01:00
+- Ende: 2020-11-27T19:15:00+01:00
+- Ort: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19252
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19252
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö+Nachtrag 20201127 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393382.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö+Nachtrag 20201127 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393382.pdf
+- Wortprotokoll: Sitzungspaket Ö+Nachtrag 20201127 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393382.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Bestellung einer Schriftführerin für die Bezirksvertretung 9 - einstimmig beschlossen
+- TOP 3: Festlegung der Anzahl der ehrenamtlichen Stellvertretenden Bezirksbürgermeister*innen - einstimmig beschlossen
+- TOP 4: Wahl Bezirksbürgermeister*in und Stellvertretenden Bürgermeister*innen
+- TOP 5: Verpflichtung der Mitglieder der Bezirksvertretung 9
+- TOP 6: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 7: Genehmigung der Niederschrift über die Sitzung vom 02.10.2020 - einstimmig beschlossen
+- TOP 8: Zulassung von Sachverständigen
+- TOP 9: Zulassung einer Vertretung des Jugendrates - einstimmig beschlossen
+- TOP 10: Zulassung einer Vertretung des Seniorenrates - einstimmig beschlossen
+- TOP 11: Zulassung einer Vertretung des Behindertenrates - einstimmig beschlossen
+- TOP 12: Verwaltungsvorlagen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Cäcilienstraße / Forststraße - Einrichtung von Radwegeanlagen -Bedarfsbeschluss- - Empfehlung mehrheitlich beschlossen
+- TOP 12.4: Maßnahmen zur Lärmreduzierung und Erhöhung der Verkehrssicherheit auf der Bonner Straße - Empfehlung mehrheitlich beschlossen
+- TOP 12.5: Itterstraße – Neubau einer Querungshilfe in Höhe Huvestraße - einstimmig beschlossen
+- TOP 12.6: Knoten Further Straße und Potsdamer Straße – Verbesserung der Sichtbeziehungen - zur Kenntnis genommen
+- TOP 12.7: Widmung von Straßen - Saddelerstraße ( Gemarkung Urdenbach, Flur 14, Flurstücke 238 und 350) - zur Kenntnis genommen
+- TOP 12.8: Änderung zum Maßnahmenpaket G9 (SOM VII) - Empfehlung einstimmig beschlossen
+- TOP 12.9: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
+- TOP 12.10: Zuschuss an den Verein Lauftreff Düsseldorf-Süd e.V. - einstimmig beschlossen
+- TOP 12.11: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2021 - einstimmig beschlossen
+- TOP 12.12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - Empfehlung einstimmig beschlossen
+- TOP 12.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - beschlossen
+- TOP 12.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B + C - einstimmig beschlossen
+- TOP 13: Anfragen aus früheren Sitzungen
+- TOP 13.1: Friedhof Itter, Vorlage AÖE/026/2020 - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 14: Aktuelle Anfragen
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3: Umfang und Kosten für Umbenennungen von Straßen und Plätzen im Bezirk 9 in den Jahren 2019 und 2020 - zur Kenntnis genommen
+- TOP 15: Anträge
+- TOP 15.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.2: Planungsauftrag Benrather Markt Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 15.3: Milieuschutzsatzung – soziale Erhaltungssatzung Urdenbach Antrag der SPD-Fraktion - vertagt
+- TOP 15.4: Straßenumbenennungen Urdenbach Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 15.5: Fußgänger- und Fahrradüberweg Angerstraße/Haus-Endt-Straße und Umwidmung der Angerstraße als Fahrradstraße - abweichend beschlossen
+- TOP 15.6: Gehweg Benrather Schloßallee Antrag der Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 15.7: Runder Tisch Hassels-Nord Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 16: Verfügungsmittel der Bezirksvertretung 9
+- TOP 16.1: Verfügungsmittel: Benrather Kulturkreis - Ausstellung "Benrather Rundgang 3" - einstimmig beschlossen
+- TOP 16.2: Verfügungsmittel: St.-Sebastianus-Schützenverein D.Holthausen 1925 e.V. - "Blaues Band" Krokusse für den Holthausener Schützenplatz - einstimmig beschlossen
+- TOP 16.3: Verfügungsmittel: Heimatverein Holthausen-Itter-Himmelgeist e. V.: Weihnachtsbaum für den Kamper Acker 2020 - einstimmig beschlossen
+- TOP 16.4: Verfügungsmittel: St.-Sebastianus-Schützenbruderschaft v. 1641 D.-Himmelgeist e.V. - Weihnachtsbaum 2020 - einstimmig beschlossen
+- TOP 16.5: Verfügungsmittel: Literaturbüro NRW e. V. - Bücherschrank in Benrath - einstimmig beschlossen
+- TOP 17: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 17.1: Legales Graffiti-Sprayen im Elbroichpark Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/117/2020 - zur Kenntnis genommen
+- TOP 17.2: Bonner Straße, Nord-Ost-Seite Beschluss der Bezirksvertretung 9 vom 28.08.2020, BV9/161/2020 - zur Kenntnis genommen
+- TOP 17.3: Errichtung einer Fußgängerquerung mit Bedarfsampel auf der Ickerswarder Straße Beschluss der Bezirksvertretung 9 vom 28.08.2020, BV9/155/2020 - zur Kenntnis genommen
+- TOP 17.4: Ehemaliger Radweg Benrather Schlossufer/Am Alten Rhein Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/111/2020 - zur Kenntnis genommen
+- TOP 17.5: Trillser Straße und Fuhlrottweg - Beschilderung von zwei verkehrsberuhigten Bereichen - zur Kenntnis genommen
+- TOP 17.6: Parken Urdenbacher Dorfstraße 35 - 39 Beschluss der Bezirksvertretung 9 vom 02.10.2020, BV9/184/2020 - zur Kenntnis genommen
+- TOP 17.7: Geschwindigkeitskontrollen in der Straße " Am Falder" Beschluss der Bezirksvertretung 9 vom 02.10.2020, BV9/191/2020 - zur Kenntnis genommen
+- TOP 17.8: Flugzeugmotor Beschluss der Bezirksvertretung 9 vom 24.01.2020, BV9/019/2020 - zur Kenntnis genommen
+- TOP 17.9: Problemzone Wersten Südost Beschluss der Bezirksvertretung 9 vom 19.06.2020, BV9/105/2020 - zur Kenntnis genommen
+- TOP 18: Haushaltsberatung - zur Kenntnis genommen
