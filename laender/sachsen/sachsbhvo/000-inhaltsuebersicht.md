@@ -16,15 +16,15 @@ Unterabschnitt 2 Ambulante zahnärztliche Leistungen
 § 10 Zahnärztliche Leistungen
 § 11 Implantologische Leistungen
 § 12 Kieferorthopädische Leistungen
-§ 13 Funktionsanalytische und funktionstherapeutische Leistungen
+§ 13 (weggefallen)
 § 14 Auslagen, Material- und Laborkosten, Heil- und Kostenpläne
 § 15 Zahnärztliche Leistungen für Beamte auf Widerruf
 Unterabschnitt 3 Ambulante psychotherapeutische Leistungen
 § 16 Psychotherapeutische Leistungen
-§ 16a Psychotherapeutische Akutbehandlung
-§ 16b Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren und Verhaltenstherapie
+§ 16a Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
 § 17 Psychoanalytisch begründete Verfahren
 § 18 Verhaltenstherapie
+§ 18a Systemische Therapie
 § 19 Psychosomatische Grundversorgung
 Unterabschnitt 4 Stationäre Leistungen
 § 20 Krankenhausleistungen
@@ -54,7 +54,7 @@ Abschnitt 3 Aufwendungen bei medizinischer Rehabilitation und Kuren
 § 38 Voraussetzungen für medizinische Rehabilitationsmaßnahmen
 § 39 Kuren
 Abschnitt 4 Aufwendungen zur Gesundheitsvorsorge und Früherkennung von Krankheiten
-§ 40 Schutzimpfungen
+§ 40 Schutzimpfungen und andere Vorsorgemaßnahmen
 § 41 Früherkennungsuntersuchungen
 § 42 Kinderuntersuchungen
 § 43 Verhütung von Zahnerkrankungen
