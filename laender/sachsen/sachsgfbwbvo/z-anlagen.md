@@ -8,8 +8,8 @@ Anlage 6
 Anlage 7
 Anlage 8
 Anlage 9
-Anlage 10
-Anlage 11
+Anlage 10 (aufgehoben)
+Anlage 11 (aufgehoben)
 Anlage 12
 Anlage 13
 Anlage 14
@@ -25,3 +25,6 @@ Anlage 23
 Anlage 24
 Anlage 25
 Anlage 26
+Anlage 27
+Anlage 28
+Anlage 29

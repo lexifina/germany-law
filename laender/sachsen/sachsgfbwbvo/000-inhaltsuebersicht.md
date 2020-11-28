@@ -99,18 +99,32 @@ Unterabschnitt 10 Hygienebeauftragte in Pflegeeinrichtungen
 § 76 Aufnahmevoraussetzungen
 § 77 Prüfung
 § 78 Weiterbildungsbezeichnung
-Abschnitt 4 Weiterbildungen in den Berufen in der Physiotherapie
-Unterabschnitt 1 Psychosoziale Medizin
+Unterabschnitt 11 Neurologie mit Schwerpunkt Schlaganfall
 § 79 Dauer, Gliederung und Inhalt der Weiterbildung
 § 80 Aufnahmevoraussetzungen
 § 81 Prüfung
 § 82 Weiterbildungsbezeichnung
-Unterabschnitt 2 Medizinische Wellness
+Unterabschnitt 12 Notfallpflege
 § 83 Dauer, Gliederung und Inhalt der Weiterbildung
 § 84 Aufnahmevoraussetzungen
 § 85 Prüfung
 § 86 Weiterbildungsbezeichnung
+Unterabschnitt 13 Sozialmedizinischer Assistent
+§ 87 Dauer, Gliederung und Inhalt der Weiterbildung
+§ 88 Aufnahmevoraussetzungen
+§ 89 Prüfung
+§ 90 Weiterbildungsbezeichnung
+Abschnitt 4 Weiterbildungen in den Berufen in der Physiotherapie
+Unterabschnitt 1 Psychosoziale Medizin
+§ 91 Dauer, Gliederung und Inhalt der Weiterbildung
+§ 92 Aufnahmevoraussetzungen
+§ 93 Prüfung
+§ 94 Weiterbildungsbezeichnung
+Unterabschnitt 2 Medizinische Wellness
+§ 95 Dauer, Gliederung und Inhalt der Weiterbildung
+§ 96 Aufnahmevoraussetzungen
+§ 97 Prüfung
+§ 98 Weiterbildungsbezeichnung
 Teil 3 Schlussbestimmung
-§ 87 Modellvorhaben
-§ 88 Übergangsvorschriften
-§ 89 Inkrafttreten
+§ 99 Modellvorhaben
+§ 100 Inkrafttreten
