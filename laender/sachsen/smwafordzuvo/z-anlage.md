@@ -11,9 +11,13 @@ Förderung des Deutschen Zentrums für Luft- und Raumfahrt e. V. (DLR) im Wege d
 a)
 Förderung der wirtschaftsnahen Infrastruktur im Rahmen der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ im Sinne von Artikel 91a des Grundgesetzes für die Bundesrepublik Deutschland nach Maßgabe des GRW-Gesetzes vom 6. Oktober 1969 (BGBl. I S. 1861), das zuletzt durch Artikel 269 des Gesetzes vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung, und des jeweils geltenden Rahmenplans „Verbesserung der regionalen Wirtschaftsstruktur“,
 b)
-Förderung des Ausbaus von Hochgeschwindigkeitsnetzen und der Einrichtung von drahtlosen öffentlichen Internetzugriffspunkten (Hot Spots der Telekommunikation) und
+Förderung des Ausbaus von Hochgeschwindigkeitsnetzen und der Einrichtung von drahtlosen öffentlichen Internetzugriffspunkten (Hot Spots der Telekommunikation),
 c)
-Institutionelle Förderung der Verbraucherzentrale Sachsen e. V.
+Institutionelle Förderung der Verbraucherzentrale Sachsen e. V.,
+d)
+Förderung der Unterbringungskosten von Arbeitgebern für Arbeitnehmer mit Wohnort in der Tschechischen Republik und der Republik Polen im Zusammenhang mit der COVID-19-Pandemie und
+e)
+Förderung von Ausbildungsverhältnissen im Zusammenhang mit der COVID-19-Pandemie.
 3. Das Landesamt für Straßenbau und Verkehr ist für die Durchführung folgender Förderprogramme und Fördermaßnahmen zuständig:
 a)
 Förderung von Maßnahmen zur Verbesserung des schienen- und straßengebundenen öffentlichen Personennahverkehrs,
