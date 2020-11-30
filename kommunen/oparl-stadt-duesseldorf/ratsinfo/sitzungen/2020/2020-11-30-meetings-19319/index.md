@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-11-30T15:00:00+01:00
+- Ende: 2020-11-30T15:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19319
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19319
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393665.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393665.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393665.pdf
+
+## Tagesordnung
+
+- TOP -: Der Rat hat gemäß § 60 Absatz 2 der Gemeindeordnung NRW sämtliche auf der Tagesordnung stehende Vorlagen - mit Ausnahme der Vorlage zu TOP 24 - zur abschließenden Beschlussfassung auf den Haupt- und Finanzausschuss delegiert.
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Bestellung der Schriftführerin des Haupt-und Finanzausschusses - einstimmig beschlossen
+- TOP 3: Wahl einer/eines stellvertretenden Vorsitzenden für den Haupt- und Finanzausschuss - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 28.09.2020 - einstimmig beschlossen
+- TOP 5: Controllingbericht der Stadtkämmerin zur Haushaltslage nach dem 30.09.2020 - zur Kenntnis genommen
+- TOP 6: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2021 - einstimmig beschlossen
+- TOP 7: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2021 - einstimmig beschlossen
+- TOP 8: Gebührenkalkulation Straßenreinigung für 2021 - einstimmig beschlossen
+- TOP 9: 35. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation Abfall für 2021 - mehrheitlich beschlossen
+- TOP 11: 31. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 12: 4. Änderung des Landschaftsplanes der Landeshauptstadt Düsseldorf - Satzungsbeschluss - - mehrheitlich beschlossen
+- TOP 13: Zustimmung zum Abschluss eines Durchführungsvertrages nach § 12 Baugesetzbuch (BauGB) zum Vorhabenbezogenen Bebauungsplanentwurf Nr. 04/014 - Wickrather Straße - - mehrheitlich beschlossen
+- TOP 14: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 04/014 - Wickrather Straße - mehrheitlich beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 03/032 - Östlich Völklinger Straße - einstimmig beschlossen
+- TOP 16: Mitgliedschaft im Förderverein Bundesstiftung Baukultur e.V. - einstimmig beschlossen
+- TOP 17: Förderprogramm für die Anschaffung von Lastenrädern - zur Kenntnis genommen
+- TOP 18: Deutsche Oper am Rhein - Unvermeidbare Teilmaßnahmen Tontechnik - mehrheitlich beschlossen
+- TOP 19: Ehrenhof 1, Tonhalle – Sanierung dringender Maßnahmen im Elektrobereich sowie Sanierung Verwaltungstrakt und zugehörige Erneuerung von Wasser- und Abwassernetzen - mehrheitlich beschlossen
+- TOP 20: Teilweiser Erlass der Gebühren der städtischen Clara-Schumann-Musikschule - einstimmig beschlossen
+- TOP 21: Anmietung von Räumlichkeiten für den Unterricht der städtischen Clara-Schumann-Musikschule (CSM) - einstimmig beschlossen
+- TOP 22: Attraktivierung des Nebenzentrums Garath Burgviertel (Südwest) - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 23: Erneuerung der Beleuchtungsanlage des Rheinufertunnels -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 24: Planungskonzept zur Neugestaltung des Heinrich-Heine-Platzes und des Vorplatzes Wilhelm-Marx-Haus aus dem 2. Workshopverfahren (Planungsworkshop) und das weitere Vorgehen - passieren lassen
+- TOP 25: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme „B7 – AS Heerdter Lohweg“ - mehrheitlich beschlossen
+- TOP 26: Ausführungs- und Finanzierungsbeschluss für das Projekt Neubau Jugendverkehrsschule, Rather Broich 137 - mehrheitlich beschlossen
+- TOP 27: Sportanlage Sankt-Franziskusstr. 139 - Bau eines Kunstrasenspielfeldes - vertagt
+- TOP 28: Sportanlagen Fleher Str. 224b + 220d - Qualifizierung der Gesamtanlage - Ausbau der Sportfreianlagen - einstimmig beschlossen
+- TOP 29: Beschlussvorlage zur Herbeiführung eines Erweiterungsbaus an der Hansaallee 90, Comenius Gymnasium - einstimmig beschlossen
+- TOP 30: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Franz-Jürgens-Berufskolleg Rückbau H-Gebäude, Redinghovenstraße 20“ - einstimmig beschlossen
+- TOP 31: Änderung zum Maßnahmenpaket G9 (SOM VII) - einstimmig beschlossen
+- TOP 32: Jahresabschluss zum 31.12.2019 und Lagebericht für das Wirtschaftsjahr 2019 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - einstimmig beschlossen
+- TOP 33: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2021 - Beschluss - - einstimmig beschlossen
+- TOP 34: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2020 bis 2024 - Beschluss - - einstimmig beschlossen
+- TOP 35: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2021 - 31.12.2021 - Beschluss - - einstimmig beschlossen
+- TOP 36: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellung- - einstimmig beschlossen
+- TOP 37: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - einstimmig beschlossen
+- TOP 38: Änderung des Schulnamens der "Städt. Realschule Florastrasse" in "Städt. Flora-Realschule" - mehrheitlich beschlossen
+- TOP 39: Verlängerung des Verwendungszeitraums für Zuschussmittel des städtischen Kulturetats - mehrheitlich beschlossen
+- TOP 40: Dringliche Entscheidung gem. § 60 GO NRW: 61. Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
