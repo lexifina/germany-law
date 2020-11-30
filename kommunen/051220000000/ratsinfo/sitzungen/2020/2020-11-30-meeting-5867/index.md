@@ -1,0 +1,62 @@
+# Zuwanderer- und Integrationsrat (1. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-11-30T17:00:00+01:00
+- Ende: 2020-11-30T19:57:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-285
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRINGhx17sVQ3r-41lX5aM0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5867
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc2JZ049xNFLdByXZhhhE0f1pYVV7vSNV4XbgCfpUhPN/Bekanntmachung_Zuwanderer-_und_Integrationsrat_30.11.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSDDIVOQXX1TKmFm4Gmm_ekU8qgYu3MSyAl-IbvYhVDj/Oeffentliche_Niederschrift_Zuwanderer-_und_Integrationsrat_30.11.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Integration in Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Bestellung der Schriftführung für den Zuwanderer- und Integrationsrat
+- TOP 4.: Wahl des/der Vorsitzenden und stellvertretenden Vorsitzenden des Zuwanderer- und Integrationsrates
+- TOP 5.: Einführung und Verpflichtung der Mitglieder des Zuwanderer- und Integrationsrates - mündlicher Bericht -
+- TOP 6.: Protokoll über die 37. Sitzung des Zuwanderer- und Integrationsrates am 14.09.2020
+- TOP 7.: Förderanträge
+- TOP 8.: Informationen des Ausländer- und Integrationsbüros - mündlicher Bericht -
+- TOP 9.: Wahlen des Zuwanderer- und Integrationsrates 2020 - mündlicher Bericht -
+- TOP 10.: Benennung eines beratenden Mitgliedes für den Jugendhilfeausschuss
+- TOP 11.: Benennung von jeweils einem beratenden Mitglied für die fünf Bezirksvertretungen der Stadt Solingen
+- TOP 12.: Benennung eines beratenden Mitgliedes für den Seniorenbeirat
+- TOP 13.: Benennung von Vertreterinnen und Vertretern für den Landes- integrationsrat NRW
+- TOP 14.: Benennung der Mitglieder für die Arbeitsgruppe „Förderanträge“
+- TOP 15.: Benennung von Sachverständigen für den Zuwanderer- und Integrationsrat
+- TOP 16.: Benennung eines Mitgliedes für den Beirat „Bündnis für Toleranz und Zivilcourage“
+- TOP 17.: Benennung eines stimmberechtigten Mitgliedes für den ÖPNV- Fahrgastbeirat
+- TOP 18.: "Umsetzung des Kommunalen Integrationsmanagements (KIM) in Solingen" Antrag der SPD-Fraktion vom 13.11.2020
+- TOP 18.1: Umsetzung des Kommunalen Integrationsmanagements (KIM) in Solingen Gemeinsamer Antrag der Ratsfraktionen SPD, CDU, Bündnis 90/Die Grünen, FDP, DIE LINKE.Die PARTEI vom 27.11.2020
+- TOP 19.: Modellprojekt "Guter Lebensabend NRW", aktueller Stand, Beantragung und Umsetzung Antrag der SPD-Fraktion vom 13.11.2020
+- TOP 19.1: Modellprojekt "Guter Lebensabend NRW", aktueller Stand, Beantragung und Umsetzung Gemeinsamer Antrag der Ratsfraktionen SPD, CDU, Bündnis 90/Die Grünen, FDP, DIE LINKE.Die PARTEI vom 27.11.2020
+- TOP 20.: Ausrichtung von Integrationsangeboten in der Zeit der Pandemie Antrag der SPD-Fraktion vom 13.11.2020
+- TOP 20.1: Ausrichtung von Integrationsangeboten in der Zeit der Pandemie Antrag der SPD-Fraktion vom 13.11.2020
+- TOP 21.: Berichte aus den Gremien
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen der Verwaltung
+- TOP 22.1.1: Sachstand Kommunale Integrationszentren
+- TOP 22.1.2: KOMM AN NRW 2020
+- TOP 22.1.3: Landesförderprogramm: Integrationschancen für Kinder und Familien (IfKuF) Programm zum Ausbau der Konzepte „Griffbereit“, „Rucksack KiTa“ und „Rucksack Schule“
+- TOP 22.1.4: Lesezauber im Seniorenheim - ein Projekt der Interkulturellen Leseförderung
+- TOP 22.1.5: Sachstand zu den Projekten im Bereich Übergang Schule/Beruf
+- TOP 22.1.6: NRWeltoffen – Lokales Handlungskonzept gegen Rechtsextremismus und Rassismus: Sachstand 2020 und Ausblick 2021
+- TOP 22.1.7: Kommunales Integrationsmanagement
+- TOP 22.1.8: Interessenbekundung für das landesgeförderte Modellprojekt „Guter Lebensabend NRW – Kultursensible Altenhilfe und Altenpflege für Seniorinnen und Senioren mit Einwanderungsgeschichte“
+- TOP 22.1.9: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 22.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 37. Sitzung des Zuwanderer- und Integrationsrates am 14.09.2020
+- TOP 4.: Aussprache
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
