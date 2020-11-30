@@ -1,0 +1,7 @@
+# TOP 4: Vergabe von Förderbeträgen zur Unterstützung örtlicher gemeinnütziger Vereine in einer Gesamthöhe von 5.000,- Euro aus den Verfügungsmitteln des Ortschaftsrates hier: Empfehlung des Kulturausschusses - Beschluss -
+
+- Sitzung: 10. Sitzung des Ortschaftsrates Hochdorf (2020-11-30)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2020-OR_HD-117%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 4 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2020-OR_HD-117%7Czt_2%7C1
