@@ -1,0 +1,52 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-12-01T16:01:00+01:00
+- Ende: 2020-12-01T17:05:00+01:00
+- Ort: Rathaus, Ratssaal, 2. OG, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19271
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19271
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (24.11.2020) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00262607.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00263822.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Geschäftsführerin und einer stellvertretenden Geschäftsführerin - ungeändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2019 der Stadtsparkasse Wuppertal - Ergebnisverwendung - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss 2019 der BinnenWind GmbH - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 4.1: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 4.2: Zukünftige Entwicklung des Tanztheaters Wuppertal Pina Bausch - ungeändert beschlossen
+- TOP 4.3: Bestellung eines Abschlussprüfers für die Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Förderprogramm Problemimmobilien - ungeändert beschlossen
+- TOP 7: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 7.1: Berichtswesen - ungeändert beschlossen
+- TOP 7.2: Abdichtung Westkotter Viadukt – Genehmigung von überplanmäßigen Mitteln zur Schlussabrechnung - ungeändert beschlossen
+- TOP 7.3: Umsetzung des Kinderbildungsgesetzes (KiBiz) ab 01. August 2020: Kriterien zur Bewilligung von Landesmitteln zur Flexibilisierung der Betreuungszeiten gemäß § 48 KiBiz - ungeändert beschlossen
+- TOP 7.4: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 7.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2021 - ungeändert beschlossen
+- TOP 7.6: Gebührensatzung zur Abfallwirtschaft 2021 - ungeändert beschlossen
+- TOP 7.7: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.8: Fünfzehnte Satzung zur Änderung der Gebührensatzung für den Friedhof der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 9: Berichtsvorlagen
+- TOP 9.1: Finco-Bericht zum 31.10.2020 - Entgegennahme ohne Beschluss
+- TOP 9.2: Entwicklung des Haushaltsplanes im Zeitraum 2021 bis 2024 - Prognose aufgrund der neuen Orientierungsdaten des Landes - Entgegennahme ohne Beschluss
+- TOP 10: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 12: Berichtsvorlagen
+- TOP 13: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13.1: 14. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.2: 8. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
