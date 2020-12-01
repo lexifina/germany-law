@@ -1,0 +1,55 @@
+# Anlage 2 (§ 4 Absatz 2 Nummer 3) Berufserfahrung
+
+1. Für die bautechnische Prüfung der Nachweise von Ingenieurbau-, Oberbau- und Hochbau-Anlagen
+| Übersicht über die Voraussetzungen für die Anerkennung als Prüfsachverständiger für die Fach- und Teilgebiete |
+| Besondere Anerkennungsvoraussetzungen | Ingenieurbau | Oberbau | Hochbau (vorbeu- gender baulicher Brand- schutz) |
+| Erstmalige Anerkennung: N Erweiterung der Anerkennung: E | Teilgebiet Brückenbau einschließ- lich des konstruk- tiven Inge- nieurbaus | Teilgebiet Brückenbau einschließ- lich des konstruk- tiven Inge- nieurbaus Tätigkeits- bereich: Schweiß- technik | Teilgebiet Geotechnik und Tunnelbau | Teilgebiet Geotechnik und Tunnelbau Tätigkeits- bereich: Felsbau |
+| Praktische Berufserfahrung mehr als | 10 Jahre | 10 Jahre | 10 Jahre | 10 Jahre | 10 Jahre | 5 Jahre |
+| Berufserfahrung bei der Anfertigung von Standsicherheitsnachweisen von statisch und konstruktiv schwierigen Bauvorhaben | N, E |  | N, E | N, E |  |  |
+| Berufserfahrung bei der bautechnischen Prüfung als Mitarbeiter einer Bauaufsichtsbehörde, eines Prüfamtes oder eines anerkannten Prüfers für bautechnische Nachweise im Eisenbahnbau | N, E | N, E | N, E | N, E |  |  |
+| Berufserfahrung bei der Bauleitung oder der Überwachung statisch und konstruktiv schwieriger Bauvorhaben | N, E | N, E | N, E | N, E |  |  |
+| Anerkennung als Prüfingenieur eines Bundeslandes für das Teilgebiet, für das die Anerkennung als Prüfsachverständiger beantragt wird (fakultativ) | N, E |  |  |  |  |  |
+| Anerkennung als Schweißfachingenieur |  | N, E |  |  |  |  |
+| Anerkennung als Prüfsachverständiger für das Teilgebiet Felsbau oder Nachweis über eine Qualifikation als Geologe |  |  |  | N, E |  |  |
+| Berufserfahrung in der Planung, Prüfung und Ausführung von Oberbauanlagen |  |  |  |  | N |  |
+| Berufserfahrung in der brandschutztechnischen Planung, Prüfung und Ausführung von Gebäuden im Bereich: |  |  |  |  |  | N |
+| – | des abwehrenden Brandschutzes, |
+| – | des Brandverhaltens von Bauprodukten und |
+| – | des anlagentechnischen Brandschutzes |
+| sowie Kenntnis des einschlägigen Regelwerks und der Nachweisverfahren in diesen Bereichen |
+| 2. | Für die Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen |
+| 2.1 | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet: |
+| 2.1.1 | dreijährige Tätigkeit als Planer oder Planprüfer innerhalb des Fachgebietes und |
+| 2.1.2 | Bearbeitung von mindestens zehn Projekten innerhalb des Fachgebietes, deren Mangelfreiheit im Hinblick auf sicherheitsrelevante Fehler von einem anerkannten Prüfsachverständigen für die Planprüfung bestätigt wird. |
+|  | In Abstimmung mit der zuständigen Behörde kann in besonderen Fällen eine abweichende Anzahl von Projekten nach Nummer 2.1.2 festgelegt werden. |
+| 2.2 | Bei Erweiterung der Anerkennung im selben Teilgebiet: |
+|  | Besuch geeigneter Lehrveranstaltungen. |
+| 2.3 | Bei Erweiterung der Anerkennung für ein weiteres Teilgebiet im selben Fachgebiet: |
+| 2.3.1 | zweijährige Tätigkeit als Planer oder Planprüfer im betreffenden Fachgebiet, |
+| 2.3.2 | Besuch geeigneter Lehrveranstaltungen des neuen Teilgebietes und |
+| 2.3.3 | erfolgreiche Planprüfung einer geeigneten Baumaßnahme im neuen Teilgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Planprüfung. |
+| 3. | Für die Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen |
+| 3.1 | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet: |
+| 3.1.1 | zweijährige Tätigkeit als Planer oder Anerkennung als Prüfsachverständiger für die Planprüfung für das Fachgebiet oder Mitarbeit als „Helfer bei der Abnahme der Anlagen“ an zehn geeigneten Projekten und |
+| 3.1.2 | erfolgreiche Abnahmeprüfung im Fachgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Abnahmeprüfung einer großen und einer kleinen Baumaßnahme. |
+|  | In Abstimmung mit der zuständigen Behörde kann in besonderen Fällen eine abweichende Anzahl von Projekten nach Nummer 3.1.1 festgelegt werden. |
+| 3.2 | Bei Erweiterung der Anerkennung im selben Teilgebiet: |
+|  | Besuch geeigneter Lehrveranstaltungen. |
+| 3.3 | Bei Erweiterung der Anerkennung für ein weiteres Teilgebiet im selben Fachgebiet: |
+| 3.3.1 | zweijährige Tätigkeit als Abnahmeprüfer im betreffenden Fachgebiet, |
+| 3.3.2 | Besuch geeigneter Lehrveranstaltungen des neuen Teilgebietes und |
+| 3.3.3 | erfolgreiche Abnahmeprüfung einer geeigneten Baumaßnahme im neuen Teilgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Abnahmeprüfung. |
+| 4. | Für die Zulassungsprüfung |
+| 4.1 | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet: |
+| 4.1.1 | dreijährige Tätigkeit betreffend die Erstellung von Nachweisen zur Einhaltung von normativ vorgegebenen Anforderungen oder die Begutachtung solcher Nachweise und |
+| 4.1.2 | erfolgreiche Zulassungsprüfung in mindestens zwei geeigneten Projekten unter Aufsicht eines anerkannten Prüfsachverständigen für die Zulassungsprüfung. |
+| 4.2 | Bei Erweiterung der Anerkennung für ein weiteres Teilgebiet im selben Fachgebiet: |
+| 4.2.1 | zweijährige Tätigkeit als Zulassungsprüfer im betreffenden Fachgebiet und |
+| 4.2.2 | erfolgreiche Zulassungsprüfung in mindestens zwei geeigneten Projekten im neuen Teilgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Zulassungsprüfung. |
+| 5. | Für die Prüfung bei festgestellten Abweichungen von nationalen technischen Vorschriften oder behördlichen Entscheidungen |
+| 5.1 | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet: |
+| 5.1.1 | dreijährige Tätigkeit nach den §§ 9 bis 12 als Prüfsachverständiger in dem Fachgebiet, für das er künftig die Prüfungen bei festgestellten Abweichungen durchführen möchte, und |
+| 5.1.2 | erfolgreiche Prüfung nach § 13 in mindestens fünf geeigneten Projekten unter Aufsicht eines anerkannten Prüfsachverständigen für die Prüfung nach § 13. |
+| 5.2 | Bei Erweiterung der Anerkennung für ein weiteres Teilgebiet im selben Fachgebiet: |
+| 5.2.1 | zweijährige Tätigkeit als Prüfer, der Tätigkeiten nach § 2 Absatz 2 Nummer 5 oder 6 im betreffenden Fachgebiet durchführt, und |
+| 5.2.2 | erfolgreiche Prüfung nach § 13 in mindestens zwei geeigneten Projekten im neuen Teilgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Prüfung nach § 13. |

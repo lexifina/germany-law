@@ -1,0 +1,56 @@
+# Anlage 4 (zu § 26 Absatz 2 Nummer 1, § 28 Absatz 1 und Absatz 2,§ 30 Absatz 3 sowie § 40 Absatz 2)Verfahren zur Prüfung der Füllmenge nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung durch die zuständigen Behörden
+
+0. Vorbemerkungen:
+  Die zuständigen Behörden der Länder prüfen mit einem geeigneten statistischen Stichprobenverfahren nach den anerkannten Regeln der Technik, wobei das Stichprobenverfahren in seiner Wirksamkeit mit der in der Richtlinie 76/211/EWG in Anhang I Nummer 5 beschriebenen Bezugsmethode vergleichbar ist.
+1. Umfang der Prüfung
+  Die Prüfung besteht aus
+  a) der Feststellung der Losgröße,
+  b) der Entnahme der zugehörigen Zufallsstichprobe,
+  c) den zusätzlichen Feststellungen der Nummer 5, soweit erforderlich,
+  d) der Feststellung des Mittelwertes,
+  e) der Feststellung der Einhaltung der Verkehrsfähigkeitsgrenze.
+2. Feststellung der Losgröße
+  Werden Fertigpackungen oder andere Verkaufseinheiten unmittelbar nach Abschluss des Herstellungsvorgangs geprüft, so entspricht der Umfang des Loses der maximalen Stundenleistung der Abfüllanlage, und zwar ohne Begrenzung des Losumfangs. In den übrigen Fällen ist die Stückzahl des Loses auf 10 000 Fertigpackungen begrenzt.
+  Kann bei Prüfung am Lager die Zugehörigkeit einer Lieferung zu einem Los nicht festgelegt werden, so wird die Losgröße durch die Anzahl gleich beschaffener Fertigpackungen des Lagerbestandes begrenzt.
+3. Umfang der Stichproben
+  Bei der stichprobenweisen Prüfung von Fertigpackungen oder anderen Verkaufseinheiten muss es sich um eine Zufallsstichprobe handeln. Bei einer Losgröße von weniger als 26 Fertigpackungen kann eine zerstörende oder nicht zerstörende Prüfung auf Einhaltung der Werte der Verkehrsfähigkeit bei einzelnen oder bei allen Fertigpackungen vorgenommen werden.
+  Für den Stichprobenumfang gilt folgende Tabelle:
+  | N | n | a |
+  | 26 | bis | 50 | 3 | 1,0 |
+  | 51 | bis | 150 | 5 | 0,35 |
+  | 151 | bis | 500 | 8 | 0,2 |
+  | 501 | bis | 3 200 | 13 | 0,15 |
+  | 3 201 | bis | 10 000 | 20 | 0,1 |
+  | 10 001 | und mehr | 30 | 0,085 |
+  In der Tabelle bedeuten:
+  | N | Losgröße |
+  | n | Stichprobenumfang |
+  | a | Faktor zur Berechnung des Sicherheitszuschlages |
+4. Bestimmung der Füllmengen
+  a) Es sind in der Regel zu bestimmen:
+    aa) Längen durch Längenmessung,
+    bb) Längen von Garnen durch Wägung in Verbindung mit einer Bestimmung der Feinheit,
+    cc) Flächen durch Längenmessung,
+    dd) Stückzahl durch Zählung.
+  b) Abweichend von Nummer 4 Buchstabe a Unterbuchstabe aa, cc und dd können bestimmt werden:
+    aa) Längen durch Wägungen in Verbindung mit der Bestimmung der mittleren längenbezogenen Masse nach Nummer 5 Buchstabe b, wenn folgende Bedingungen gleichzeitig erfüllt sind:
+      aaa) Die Wägewerte der nach Nummer 5 Buchstabe b ermittelten Einzellängen dürfen vom gebildeten Mittelwert um nicht mehr als ± 1 v. H. abweichen.
+      bbb) Bei der Prüfung der Fertigpackungen muss der Wägewert, der 2 v. H. der gekennzeichneten Länge entspricht, mindestens das 10fache des Teilungswertes der verwendeten Waage betragen.
+    bb) Stückzahlen durch Wägung in Verbindung mit der Bestimmung der mittleren stückzahlbezogenen Masse nach Nummer 5 Buchstabe c, wenn folgende Bedingungen gleichzeitig erfüllt sind:
+      aaa) Die Wägewerte der 10 Mittelwerte x̄i die nach Nummer 5 Buchstabe c bestimmt sind, dürfen von dem Gesamtmittelwert x̄ um nicht mehr als ± 1 v. H. abweichen.
+      bbb) Bei der Prüfung der Fertigpackungen muss der Wägewert, der der zulässigen Minusabweichung entspricht, mindestens das 10fache des Teilungswertes der verwendeten Waage betragen.
+        Für die Feststellungen nach Nummer 4 Buchstabe b sind in der Regel Netto-Wägungen vorzunehmen.
+5. Zusätzliche Feststellungen
+  a) Messunsicherheit
+    Die Messunsicherheit des Prüfverfahrens ist zu berücksichtigen.
+  b) Bestimmungen der mittleren längenbezogenen Masse
+    Die mittlere längenbezogene Masse des Erzeugnisses ist aus dem Gewicht von mindestens 5 Einzellängen von je mindestens 1 Meter Länge zu bestimmen. Ist die mittlere längenbezogene Masse größer als [Bild: bgbl1_2020_j2504-1_0040.jpg], brauchen die Einzellängen nicht größer als 0,2 Meter zu sein.
+  c) Bestimmung der mittleren stückzahlbezogenen Masse
+    Die mittlere stückzahlbezogene Masse ist aus 10 Gruppen zu mindestens je 10 Einzelstücken zu bestimmen. Die Gesamtzahl der Einzelstücke muss dabei mindestens 10 v. H. der Nennstückzahl der Fertigpackungen betragen.
+  d) Bestimmung der Länge von Textilerzeugnissen
+    Die Länge von Textilerzeugnissen ist nach den allgemein anerkannten Regeln der Technik zu bestimmen. Die mittlere feuchtigkeitsbedingte Längenänderung von Textilerzeugnissen und die mittlere Feinheit von Garnen sind an 3 Proben aus der Stichprobe nach Nummer 3 zu bestimmen.
+6. Feststellung des Mittelwertes
+  Die Vorschriften über die mittlere Füllmenge dieser Verordnung sind erfüllt, wenn der festgestellte Mittelwert x̄ der Füllmengen xi aus der Stichprobe, vermehrt um den Betrag „a * R“, größer oder gleich der Nennfüllmenge ist.
+  Der Faktor a ergibt sich aus der Tabelle unter Nummer 3; R ist die Spannweite der Füllmengen xi der Stichprobe.
+7. Prüfung von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung
+  Die Nummern 1 bis 6 dieser Anlage sind auf die Prüfung von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung entsprechend anzuwenden.
