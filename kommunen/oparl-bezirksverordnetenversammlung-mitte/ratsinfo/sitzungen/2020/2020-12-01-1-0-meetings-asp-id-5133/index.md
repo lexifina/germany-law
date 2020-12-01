@@ -1,0 +1,121 @@
+# öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin - MIT LIVESTREAM
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-12-01T17:30:00+01:00
+- Ende: 2020-12-01T21:00:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5133
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5133
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=487085
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - (offen)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Entwicklung zu Covid-19 - schriftlich beantwortet
+- TOP 2.2: Verkäufe von Wohnungen innerhalb von Millieuschutzgebieten - schriftlich beantwortet
+- TOP 2.3: Bearbeitungszeiten für Leistungen nach WoGG,SGB XII und SGB II - schriftlich beantwortet
+- TOP 2.4: JobCenter Berlin-Mitte - schriftlich beantwortet
+- TOP 2.5: Erika-Hess-Eisstadion - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - (offen)
+- TOP 7: Anfragen (die mündlich beantwortet werden) - (offen)
+- TOP 7.1: Radweg in die Ordnungswidrigkeit? - beantwortet
+- TOP 7.2: Sanierung der Jugendverkehrsschule Moabit im Stand By Modus - beantwortet
+- TOP 7.3: Beratung zum Zugang zu den Mitteln der Förderprogramme für Soloselbständige insbesondere Kulturschaffende - beantwortet
+- TOP 7.4: Dramatische Situation am Leopoldplatz - beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 9: Anfragen (die im Nachgang schriflich beantwortet werden) - (offen)
+- TOP 9.1: Nach welchen Kriterien setzt das BA Prioritäten für den Bau von Radwegen und Straßen? - schriftlich beantwortet
+- TOP 9.2: Wohnungsbaupotentiale - schriftlich beantwortet
+- TOP 9.3: Unterstützung Café am Engelbecken? - schriftlich beantwortet
+- TOP 9.4: Vorgetäuschte Bürgerbeteiligung im Fall Mohrenstraße - schriftlich beantwortet
+- TOP 9.5: Mühlendammbrücke – Bürgerbeteiligung ohne Bürger? - schriftlich beantwortet
+- TOP 9.6: Beratungsladen „MachBar“ - Status Quo? - schriftlich beantwortet
+- TOP 9.7: Sanierung des "Haus der Jugend" am Nauener Platz - schriftlich beantwortet
+- TOP 9.8: Das neue Rathaus Mitte auch als Zentrum der Kommunikation? - schriftlich beantwortet
+- TOP 9.9: Chanukka am Brandenburger Tor unter Coronabedingungen - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Verbesserungen auf dem Unionplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Eissport in Mitte unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Ernst-Reuter-Schule gemäß der geplanten 8-Zügigkeit mit Fachräumen ausstatten! - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Mittelpunktbibliothek für Moabit! Die BVV unterstützt die Pläne des Bezirksamts für eine neue Bibliothek in der Turmstraße 22. - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Schulen unterstützen, Wechselunterricht ermöglichen! - überwiesen
+- TOP 14: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 14.1: coronabedingt Brachen und Freiflächen für Clubs - bauliche Ertüchtigung und Clubs als Bestandteil der Kulturarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Fixpunkt als zentralen Akteur und Anlaufstelle für suchtkranke und obdachlose Menschen am Standort Leo erhalten! - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Corona Schnelltests in Pflegeeinrichtungen - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Einbeziehung von Trägern öffentlicher Belange ins „Einzelhandels- und Zentrenkonzept“ - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Weihnachtsmärkte im Jahr 2020 ermöglichen - erledigt
+- TOP 15.2: Planungsidee für die Winterzeit der Einzelhandelsgeschäfte - mit Änderungen in der BVV beschlossen
+- TOP 15.3: Mieterberatung - Kein Anschluss unter dieser Nummer? - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Genehmigungspraxis in Zeiten der Pandemie - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Unterkünfte für Wohnungslose kurzfristig erhöhen - mit Änderungen in der BVV beschlossen
+- TOP 15.6: Prioritäten anpassen: Ordnungsamt effizient zur Corona-Pandemie Eindämmung einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Friedensstatue bewahren – Gedenken an Opfer sexualisierter Gewalt ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 15.8: Helfen ohne Uniformzwang - in der BVV abgelehnt
+- TOP 15.9: Mobile Luftfilter für Mittes Schulen - überwiesen
+- TOP 15.10: Leerstand zu Wohnraum: Pandemiewohnungen in der Habersaathstr.40 - 48 einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Soziale Härten vermeiden – Hilfe und Unterstützung jederzeit sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.12: Sicherheit bei der gemeinsamen Nutzung der Schillingstraße durch Fußgänger und Radfahrer erhöhen - in der BVV zurückgezogen
+- TOP 15.13: Bezirks-Website: Suche nach Drucksachen erleichtern - überwiesen
+- TOP 15.14: Queerbeauftragte*r für Mitte - überwiesen
+- TOP 15.15: Interessenbekundungsverfahren zum Parkcafé niedrigschwellig und transparent gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 15.16: Umbenennung der einzelnen Plätze am Poststadion - überwiesen
+- TOP 15.17: E-Mobilität fördern: mehr Ladestationen auf öffentlichem Straßenland - überwiesen
+- TOP 15.18: Straßen- bzw Platzname für die Opfer des rassistischen Terroranschlages vom 19.02.2020 in Hanau - überwiesen
+- TOP 15.19: Gottesdienste schützen - Anschlägen vorbeugen - in der BVV abgelehnt
+- TOP 15.20: Starke Supermärkte tragen neuen Wohnraum - in der BVV zurückgezogen
+- TOP 15.21: Wohnungs- und obdachlose Frauen* während der Coronapandemie nicht allein lassen: Forderungen des Frauenbeirats Mitte und der Überparteilichen Fraueninitiative ÜPFI umsetzen - vertagt
+- TOP 15.22: Angemessene Beratungsangebote für Selbständige sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.23: Reale Verbesserungen im Nikolaiviertel – (k)eine unendliche Geschichte? - vertagt
+- TOP 15.24: Gewerbetreibende in der Invalidenstraße einbeziehen! - überwiesen
+- TOP 15.25: Kostenlose covid-19-Schutzmasken für alle Schülerinnen und Schüler - vertagt
+- TOP 15.26: Corona-Quarantäne-Regeln präziser kommunizieren, Impfung gründlich vorbereiten - vertagt
+- TOP 15.27: Integrationspreis der BVV Mitte bekannter machen und größere Sichtbarkeit für Integrationspreisträger*innen herstellen - mit Änderungen in der BVV beschlossen
+- TOP 15.28: Pfad der Religionen - überwiesen
+- TOP 15.29: Friedrichstraße III – Flaniermeile für ALLE Menschen! - vertagt
+- TOP 15.30: Gefahrenstelle am Abenteuerspielplatz an der Panke entschärfen - überwiesen
+- TOP 15.31: Bürger*innenbeteiligung auch Arbeitnehmer*innen - vertagt
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Information und Veröffentlichung von Gutachten (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.3: Stadtentwicklung als Chance zum Erinnerungserhalt: Erinnerung an Passierscheinstelle ins Heute und Morgen mitnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Sportanlage Lüderitzstraße benennen - vertagt
+- TOP 17.5: Den Zentralen Festplatz auch als Schulstandort entwickeln - vertagt
+- TOP 17.6: Mehr Trinkwasserbrunnen in Mitte realisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Der Bezirk-Mitte erkennt den Klimanotstand an - vertagt
+- TOP 17.8: Haus der Gesundheit - vertagt
+- TOP 17.9: Verkehr in Wohnquartieren reduzieren: Diagonalsperren auch für Mitte! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.10: Pilotprojekt entwickeln, um mehr Mädchen und junge Frauen für den Sport zu begeistern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.11: Barrierefreiheit in Mitte herstellen – auch an Bushaltestellen - vertagt
+- TOP 17.12: Teilnahme am Wettbewerb "Vorbildliche öffentliche Straßenbegrünung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Parkplätze für E-Scooter schaffen, Nutzungskonflikte reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Fahrplan für die Gewinnung von Schul- und Kitastandorten vorlegen - vertagt
+- TOP 17.15: Pilotprojekt: Schaffung eines Referenzobjektes „Klimaneutrale öffentliche Liegenschaften im Bezirk Mitte“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.16: Den Einsatz eines anonymisierten Bewerbungsverfahrens prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Benennung von zwei Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Verkehrssicherheit Kreuzung Wilhelm-Kuhr-Str./ Nordbahnstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.19: Digitalisierung der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Bürgersteig Kieler Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.21: Sozialer Ungleichheit in der Bürger*innenbeteiligung begegnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.22: Unterstützung des Café Seidenfaden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.23: Das Parkcafé in den Rehbergen für die Bevölkerung erhalten und nutzbar machen! - vertagt
+- TOP 17.24: Pissoir neben dem Café Leo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.25: Wir haben Platz, auch im Bezirk Mitte - Aufnahme geflüchteter Menschen aus Moria muss sofort erfolgen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.26: Fortschreibung des Schulentwicklungsplans für den Bezirk Mitte für die Schuljahre 2018/19 bis 2030/31 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.27: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB zum Entwurf des vorhabenbezogenen Bebauungsplans II-83-1VE „Schill-/Kurfürstenstraße“ und die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
