@@ -1,0 +1,78 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2020-12-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5752822
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5752822
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Seeshaupter Str. 4 (VB)
+- TOP 6.2.2: Geisenbrunner Str. 67a
+- TOP 6.2.3: Josef-Schwarz-Weg 5a
+- TOP 6.2.4: Kaltenmoserstr. 3
+- TOP 6.2.5: Peretshofener Str. 7 (VB)
+- TOP 6.2.6: Fürstenackerstr. 3 (VB)
+- TOP 6.2.7: Kaltenmoserstr. 9 (T)
+- TOP 6.2.8: Kistlerhofstr. 168
+- TOP 6.2.9: Leuthener Str. 7b
+- TOP 6.2.10: Oberbrunner Str. 27 (VB)
+- TOP 6.2.11: Sollner Str. 17 alias Flnr. 477/7
+- TOP 6.2.12: Wolfratshauser Str. 54
+- TOP 6.2.13: Schaidlerstr. 9 (VB)
+- TOP 6.2.14: Kistlerhofstr. 102
+- TOP 6.2.15: Sollner Str. 65
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 11.11.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (Antrag) Bestellung städtischer Leistungen: Baumpflanzung(en) im 19. Stadtbezirk
+- TOP 3.3.: (U) Entwurf Mehrjahresinvestitionsprogramm 2020-2024
+- TOP 3.4.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00€; Az. 0262.0-19-0350
+- TOP 3.5.: (E) Stadtbezirksbudget Hilfe von Mensch zu Mensch e.V. Projekt „Generations connected – Zusammen trotz Distanz“ vom 15.12.2020 – 15.12.2021 2.086,97 € / Az. 0262.0-19-0353
+- TOP 3.6.: (Antrag) Bestellung städtischer Leistungen: Schaukeln am Spielplatz Rohrauerstraße
+- TOP 3.7.: (E) Stadtbezirksbudget Deutscher Touring-Kajak-Club München e.V. Kajakausrüstung vom 30.12.2020 – 30.04.2021 3.049,11 € / Az. 0262.0-19-0354
+- TOP 3.8.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Solln von 1873 Beschaffung von Übungsmaterial ab 28.10.2020 2.945,54 € / Az. 0262.0-19-0351
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Keine automatische Verlängerung des Pachtvertrages des Münchner Golfclubs MGC mit der Stadt München
+- TOP 4.4.: (A) Neue Baumstandorte im öffentlichen Raum
+- TOP 4.5.: (Antrag) Vermüllung Wertstoffcontainer
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verlängerung Trambahn-Westtangente
+- TOP 5.1.2: Tempo 30 zur Lärmreduzierung in der Murnauer Straße nördlich der Zielstattstraße
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: PKW-Parkzone Graubündener Str. (Ostseite)
+- TOP 5.3.: Aktuelle Situation: Parkraummanagement Thalkirchen
+- TOP 5.4.: (Antrag) Parkscheibenregelung vor der städtischen Bibliothek Berner Str.
+- TOP 5.5.: (A) Ausbau der südlichen Fußgängerunterquerung S-Bahnhof Mittersendling
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Hofmannstraße
+- TOP 5.7.: (Antrag) Überdachungen für Fahrradstellplätze an den MVV-Schwerpunkten Forstenrieder Allee und Schweizer Platz
+- TOP 5.8.: (Antrag) Tempolimit auf der A95
+- TOP 5.9.: (Antrag) Ampelschaltung Graubündener Str. / Neurieder Str.
+- TOP 5.10.: (A) Verkehrsrechtliche Anordnung: PKW-Parkzone Forst-Kasten-Allee
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (Anfrage) Rahmenplanung Obersendling
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Basketballspielplatz Blieskastelstr.
+- TOP 7.3.: (Antrag) Zweites Beachvolleyballfeld im Südpark
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Keine finanziellen Vorteile durch Veranstaltungen der AfD oder AfD nahen Organisationen im Bürgersaal Fürstenried
