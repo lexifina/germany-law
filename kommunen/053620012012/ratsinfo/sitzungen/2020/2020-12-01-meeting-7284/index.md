@@ -1,0 +1,55 @@
+# Ausschuss für Verkehr und Mobilität (1. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-12-01T18:00:00+01:00
+- Ende: 2020-12-01T19:50:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeLJDiyMRgR7uZdi4uwVy1g
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7284
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZai4XKrgt0W2kDY3JDNUrOhHlVyiC29NXshyaDKcwyUk/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_01.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZathkxudBw_I2tjHYRAZgJ0DhzIGIiK9seUcusPtx7fB/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_01.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 25.08.2020
+- TOP 2.: Einführung eines E-Scooter-Verleihsystems in Brühl durch die SPIN Mobility GmbH - Ohne Abstimmung
+- TOP 3.: Stellplatzsatzung der Stadt Brühl – Präsentation des Entwurfes in erster Lesung - Ohne Abstimmung
+- TOP 4.: Tempo 30 - Bonnstraße zwischen Dreichtenweg und Stadtbahnlinie 18 - (kein Text vorhanden)
+- TOP 5.: Tempo 30 - Zum Sommersberg / Hauptstraße / Stiftsstraße - (kein Text vorhanden)
+- TOP 6.: Umgestaltung „Berliner Ring“ und „Schulstraße / Talstraße“ - Geplante Vorgehensweise - - Ohne Abstimmung
+- TOP 7.: Mitteilungen
+- TOP 7.1: Mitteilungen über laufende Beschlüsse - Ohne Abstimmung
+- TOP 7.2: Mobilitätsmanager
+- TOP 8.: Anfragen
+- TOP 8.1: Radverkehr in der dunklen Jahreszeit
+- TOP 8.2: Geschwindigkeitsmessungen Bonnstraße
+- TOP 8.3: Fehlender Hinweis auf der Bonnstraße
+- TOP 8.4: Unfälle Alte Bonnstraße
+- TOP 8.5: Tempo 30 an der St. Franziskus Schule
+- TOP 8.6: Zustand Pingsdorfer Straße
+- TOP 8.7: Parkhaus ehem. Kaufhof
+- TOP 8.8: Eisenbahnbrücke Kierberg
+- TOP 8.9: Schulweg Köln-/Garten-/Schützenstraße
+- TOP 8.10: Verkehrsgeschwindigkeitskontrollen
+- TOP 8.11: Radmasterplan
+- TOP 8.12: Nutzung der Stadtbusse
+- TOP 8.13: Tempo 30 im Neubaugebiet Brühl-Süd
+- TOP 8.14: Messergebnisse
+- TOP 8.15: BeSPIELbare und BeSITZbare Stadt
+- TOP 8.16: Geschwindigkeitsmessungen
+- TOP 8.17: Fehlendes Schild auf der Geildorfer Straße
+- TOP 8.18: Radweg Geildorfer Straße
+- TOP 8.19: Baugebiet Schwadorf
+- TOP 8.20: LKW-Durchfahrtsverbot Schildgesstraße
+- TOP 8.21: Seniorenwohnheim Wetterstein
+- TOP 8.22: Carsharing Cambio
+- TOP 8.23: Garagenzufahrt Am Mühlenberg
+- TOP 8.24: Fahrradabstellmöglichkeiten auf der Kaiserstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Mitteilungen
+- TOP 9.1: Schnellbuslinien
+- TOP 10.: Anfragen
