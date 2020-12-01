@@ -836,8 +836,7 @@ erbrachter Leistung](0281.md)
 - [§ 551 Begrenzung und Anlage von Mietsicherheiten](0551.md)
 - [§ 552 Abwendung des Wegnahmerechts des Mieters](0552.md)
 - [§ 553 Gestattung der Gebrauchsüberlassung an Dritte](0553.md)
-- [§ 554 (weggefallen)](0554.md)
-- [§ 554a Barrierefreiheit](0554a.md)
+- [§ 554 Barrierereduzierung, E-Mobilität und Einbruchsschutz](0554.md)
 - [§ 555 Unwirksamkeit einer Vertragsstrafe](0555.md)
 
 ##### Kapitel 1a Erhaltungs- und Modernisierungsmaßnahmen

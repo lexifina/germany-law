@@ -7,7 +7,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, zur Umsetz
 (3)
 Zuständige Behörde für die Zulassung von Baumustern der Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 (4)
-Zuständige Behörde im Sinne des § 1.10 Nr. 4 der Anlage, deren § 1.12 Nr. 3 und 4, § 1.13 Nr. 2 und 3, §§ 1.14, 1.15 Nr. 2, § 1.17 Nr. 1, § 1.18 Nr. 4, §§ 1.19 und 1.20 und § 15.03 Nummer 3 Halbsatz 1 sind neben der Generaldirektion Wasserstraßen und Schifffahrt auch deren nachgeordnete Stellen und nach Maßgabe der nach § 1 Abs. 1 Nr. 2 Halbsatz 2 des Binnenschiffahrtsaufgabengesetzes geschlossenen Vereinbarungen mit den Ländern die Polizeikräfte der Länder.
+Zuständige Behörde im Sinne des § 1.10 Satz 2 der Anlage, deren § 1.12 Nr. 3 und 4, § 1.13 Nr. 2 und 3, §§ 1.14, 1.15 Nr. 2, § 1.17 Nr. 1, § 1.18 Nr. 4, §§ 1.19 und 1.20 und § 15.03 Nummer 3 Halbsatz 1 sind neben der Generaldirektion Wasserstraßen und Schifffahrt auch deren nachgeordnete Stellen und nach Maßgabe der nach § 1 Abs. 1 Nr. 2 Halbsatz 2 des Binnenschiffahrtsaufgabengesetzes geschlossenen Vereinbarungen mit den Ländern die Polizeikräfte der Länder.
 (5)
 Zuständige Behörde im Sinne des § 1.07 Nummer 6 der Anlage, deren § 15.05 Nr. 1, für die Anbringung der Einsenkungsmarken nach deren § 2.04 Nr. 1 und der Tiefgangsanzeiger nach deren § 2.04 Nr. 2 ist die Generaldirektion Wasserstraßen und Schifffahrt.
 (6)

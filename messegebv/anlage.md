@@ -660,79 +660,91 @@ Inhaltsverzeichnis
 | 15.2.1.1 | Überwachung der Verwendung von Messgeräten und Messwerten gemäß § 54 Absatz 1 und 3 des Mess- und Eichgesetzes i. V. m. § 55 Absatz 1 Satz 2 Nummer 1 und 2 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 15.2.1.2 | Erlass von Maßnahmen der Verwendungsüberwachung gemäß § 55 Absatz 1 Nummer 3 bis 6 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 15.3.1.1 | Überwachung von Arbeiten an geeichten Messgeräten nach § 37 Absatz 2 Nummer 4 Buchstabe a und b des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
-|  | Schlüsselzahlengruppe 16:Marktüberwachung in Bezug auf Fertigpackungen, andere Verkaufseinheiten und Maßbehältnisse |  |
-|  | Hinweis: |  |
-| H 16.1-1 | Die Gebühren gelten für Stichprobenprüfungen (die bis zu einer bestimmten Losgröße als Vollprüfungen durchzuführen sind) von Fertigpackungen und anderen Verkaufseinheiten gemäß § 42 des Mess- und Eichgesetzes. |  |
-|  | 1. Stichprobenprüfungen bei Fertigpackungen und anderen Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und Eichgesetzes |  |
-|  | a) Prüfung bei Fertigpackungen gleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß § 34 Absatz 1 Satz 1 bis 3 und § 22 i. V. m. Anlage 4a der Fertigpackungsverordnung bzw. gemäß § 34 Absatz 1 Satz 1 bis 3 und § 22a i. V. m. Anlage 4a der Fertigpackungsverordnung Prüfung bei offenen Packungen gleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß den §§ 31a und 34 Absatz 1 Satz 1 bis 3 i. V. m. Anlage 4a der Fertigpackungsverordnung |  |
-|  | Prüfung bei unverpackten Backwaren gleichen Nenngewichts gemäß § 34 Absatz 1 Satz 1 bis 3 und § 32 Absatz 1 bis 3 der Fertigpackungsverordnung i. V. m. Anlage 4a Nummer 10 der Fertigpackungsverordnung und bei Verkaufseinheiten ohne Umhüllung gleichen Nenngewichts gemäß § 34 Absatz 1 Satz 1 bis 3 und § 33 Absatz 1 bis 3 i. V. m. Anlage 4a Nummer 10 der Fertigpackungsverordnung |  |
-|  | bei vernachlässigbarer Tarastreuung und bei einem Umfang der Stichprobe (Gebühr je Los) |  |
-| 16.1.1.1 | bis zu 50 Packungen oder Verkaufseinheiten | 276,60 |
-| 16.1.1.2 | von 51 bis zu 80 Packungen oder Verkaufseinheiten | 332,00 |
-| 16.1.1.3 | über 80 Packungen oder Verkaufseinheiten | 362,90 |
-|  | bei Berücksichtigung jedes Taraeinzelwertes und bei einem verminderten Umfang der Stichprobe (Gebühr je Los) von |  |
-| 16.1.2.1 | bis zu acht Packungen oder Verkaufseinheiten | 214,30 |
-| 16.1.2.2 | von neun bis zu 13 Packungen oder Verkaufseinheiten | 242,70 |
-| 16.1.2.3 | von 14 bis zu 20 Packungen oder Verkaufseinheiten | 365,10 |
-|  | bei Berücksichtigung jedes Taraeinzelwertes und bei einem Umfang der Stichprobe (Gebühr je Los) |  |
-| 16.1.3.1 | bis zu 50 Packungen oder Verkaufseinheiten | 523,90 |
-| 16.1.3.2 | von 51 bis zu 80 Packungen oder Verkaufseinheiten | 607,80 |
-| 16.1.3.3 | über 80 Packungen oder Verkaufseinheiten | 693,80 |
-|  | Abtropfgewichtsprüfungen bei einem Umfang der Stichprobe (Gebühr je Los) |  |
-| 16.1.4.1 | bis zu acht Packungen | 278,00 |
-| 16.1.4.2 | von neun bis zu 13 Packungen | 327,60 |
-| 16.1.4.3 | von 14 bis zu 20 Packungen | 356,30 |
-|  | mittels Deglasieren, bei einem Stichprobenumfang |  |
-| 16.1.5.1 | bis zu acht Packungen | 319,90 |
-| 16.1.5.2 | von neun bis zu 13 Packungen | 419,10 |
-| 16.1.5.3 | von 14 bis zu 20 Packungen | 617,70 |
-|  | b) Prüfung bei Fertigpackungen ungleicher Nennfüllmenge (außer Sonderfälle) gemäß § 34 Absatz 1 Satz 4 und § 22 der Fertigpackungsverordnung Prüfung bei offenen Packungen ungleicher Nennfüllmenge (außer Sonderfälle) gemäß den §§ 31a und 34 Absatz 1 Satz 4 der Fertigpackungsverordnung |  |
+|  | Schlüsselzahlengruppe 16: Marktüberwachung in Bezug auf Fertigpackungen, andere Verkaufseinheiten und Maßbehältnisse |  |
+| H 16-1 | Hinweis: |  |
+|  | Erfolgt bei Obst und Gemüse oder Backwaren ohne Vorverpackungen gemäß den §§ 17 und 18 der Fertigpackungsverordnung die letzte abgeschlossene Marktüberwachung ohne Beanstandung, dann sind im gleichen Kalenderjahr weitere beanstandungsfreie Marktüberwachungen bei diesen Lebensmitteln ohne Vorverpackungen vom selben Herstellungsort und beim selben Verantwortlichen gebührenfrei. |  |
+|  | 1. Stichprobenprüfungen und Vollprüfungen anderer Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und Eichgesetzes, hier bei Backwaren ohne Vorverpackung gemäß § 40 Absatz 1 und 2 sowie § 18 jeweils i. V. m. Anlage 3 der Fertigpackungsverordnung |  |
+|  | Die Höhe der Gebühren der Schlüsselzahlengruppe 16.0… bestimmt sich bei Stichprobenprüfungen und Vollprüfungen unabhängig von der Anzahl der Lose oder Vollprüfungen ausschließlich nach der Gesamtanzahl der geprüften Backwaren |  |
+| 16.0.1.1 | von zehn bis zu 25 Backwaren ohne Vorverpackung | 99,60 |
+| 16.0.1.2 | von 26 bis zu 50 Backwaren ohne Vorverpackung | 115,60 |
+| 16.0.1.3 | von 51 bis zu 100 Backwaren ohne Vorverpackung | 148,10 |
+| 16.0.1.4 | von 101 bis zu 150 Backwaren ohne Vorverpackung | 178,20 |
+| 16.0.1.5 | von 151 bis zu 250 Backwaren ohne Vorverpackung | 208,40 |
+| 16.0.1.6 | über 250 Backwaren ohne Vorverpackung | 250,50 |
+|  | 2. Stichprobenprüfungen bei Fertigpackungen und anderen Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und Eichgesetzes |  |
+|  | a)Prüfung bei Fertigpackungen gleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß § 40 Absatz 1 und 2 sowie insbesondere § 9 jeweils i. V. m. Anlage 3 der Fertigpackungsverordnung bzw. gemäß § 40 Absatz 1 und 2 sowie insbesondere § 10 jeweils i. V. m. Anlage 3 der FertigpackungsverordnungPrüfung bei offenen Packungen gleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß § 40 Absatz 1 und 2 sowie § 29 jeweils i. V. m. den Anlagen 3 und 5 der FertigpackungsverordnungPrüfung bei Verkaufseinheiten ohne Umhüllung gleichen Nenngewichts gemäß § 40 Absatz 1 und 2 sowie § 30 i. V. m. Anlage 3 der Fertigpackungsverordnung |  |
+|  | nicht-zerstörende Prüfung bei einer normalen Einfach-Stichprobenprüfung gemäß Anlage 3 Nummer 3 Buchstabe a und bei einem Umfang der Stichprobe (Gebühr je Los) |  |
+| 16.1.1.1 | bis zu 50 Fertigpackungen oder anderen Verkaufseinheiten | 208,80 |
+| 16.1.1.2 | von 51 bis zu 80 Fertigpackungen oder anderen Verkaufseinheiten | 241,60 |
+| 16.1.1.3 | von 81 bis 125 Fertigpackungen oder anderen Verkaufseinheiten | 268,00 |
+| 16.1.1.4 | über 125 Fertigpackungen oder anderen Verkaufseinheiten | 287,80 |
+|  | zerstörende Prüfung bei Einfach-Stichprobenprüfung mit vermindertem Stichprobenumfang bei Berücksichtigung jedes Taraeinzelwertes gemäß Anlage 3 Nummer 3 Buchstabe c oder Nummer 3 Buchstabe e (Gebühr je Los) von |  |
+| 16.1.2.1 | bis zu acht Fertigpackungen oder anderen Verkaufseinheiten | 235,30 |
+| 16.1.2.2 | von neun bis zu 13 Fertigpackungen oder anderen Verkaufseinheiten | 266,50 |
+| 16.1.2.3 | von 14 bis zu 20 Fertigpackungen oder anderen Verkaufseinheiten | 398,80 |
+| 16.1.2.4 | über 20 Fertigpackungen oder anderen Verkaufseinheiten | 445,80 |
+|  | nicht-zerstörende Prüfung bei einer normalen Einfach-Stichprobenprüfung bei Berücksichtigung jedes Taraeinzelwertes gemäß Anlage 3 Nummer 3 Buchstabe a und bei einem Umfang der Stichprobe (Gebühr je Los) |  |
+| 16.1.3.1 | bis zu 50 Fertigpackungen oder anderen Verkaufseinheiten | 307,60 |
+| 16.1.3.2 | von 51 bis zu 80 Fertigpackungen oder anderen Verkaufseinheiten | 349,30 |
+| 16.1.3.3 | von 80 bis zu 125 Fertigpackungen oder anderen Verkaufseinheiten | 427,20 |
+| 16.1.3.4 | über 125 Fertigpackungen oder anderen Verkaufseinheiten | 487,60 |
+|  | zerstörende Prüfung bei Abtropfgewichtskennzeichnung gemäß Anlage 3 Nummer 3 Buchstabe d i. V. m. Anlage 3 Nummer 7 Buchstabe d bei einem Umfang der Stichprobe (Gebühr je Los) |  |
+| 16.1.4.1 | bis zu acht Fertigpackungen | 305,30 |
+| 16.1.4.2 | von neun bis zu 13 Fertigpackungen | 359,80 |
+| 16.1.4.3 | von 14 bis zu 20 Fertigpackungen | 391,30 |
+| 16.1.4.4 | über 20 Fertigpackungen | 436,00 |
+|  | zerstörende Prüfung gemäß Anlage 3 Nummer 3 Buchstabe c mittels Deglasieren, bei einem Umfang der Stichprobe (Gebühr je Los) |  |
+| 16.1.5.1 | bis zu acht Fertigpackungen | 351,30 |
+| 16.1.5.2 | von neun bis zu 13 Fertigpackungen | 460,20 |
+| 16.1.5.3 | von 14 bis zu 20 Fertigpackungen | 678,30 |
+| 16.1.5.4 | über 20 Fertigpackungen | 896,10 |
+|  | b)Prüfung bei Fertigpackungen ungleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß § 40 Absatz 1 und 2, den §§ 9, 10, 31 und 32 sowie der Anlage 3 der FertigpackungsverordnungPrüfung bei offenen Packungen ungleicher Nennfüllmenge (ausgenommen Sonderfälle) gemäß § 14 Absatz 2 und 3, den §§ 17 und 29 sowie der Anlage 3 Nummer 3 Buchstabe b und Nummer 5 sowie den §§ 9 und 10 der Fertigpackungsverordnung |  |
 | 16.2.1.1 | Prüfung bei ungleicher Nennfüllmenge | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
-|  | c) Vollprüfungen bei Fertigpackungen gleicher Nennfüllmenge gemäß § 34 Absatz 1 Satz 1 bis 3 und den §§ 22 bis 24 der Fertigpackungsverordnung, Vollprüfungen bei offenen Packungen gleicher Nennfüllmenge gemäß den §§ 31a und 34 Absatz 1 Satz 1 bis 3 i. V. m. den §§ 22 bis 24 der Fertigpackungsverordnung, Vollprüfungen bei unverpackten Backwaren gleichen Nenngewichts gemäß § 34 Absatz 1 Satz 1 bis 3 und § 32 Absatz 1 bis 3 der Fertigpackungsverordnung sowieVollprüfungen bei Verkaufseinheiten gleichen Nenngewichts, gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung gemäß § 34 Absatz 1 Satz 1 bis 3 und § 33 der Fertigpackungsverordnung |  |
-|  | Vollprüfung (bis maximal 99 Packungen oder Verkaufseinheiten, Gebühr je Vollprüfung) |  |
-| 16.3.1.1 | bis zu 25 Packungen oder Verkaufseinheiten | 94,10 |
-| 16.3.1.2 | von 26 bis zu 50 Packungen oder Verkaufseinheiten | 102,50 |
-| 16.3.1.3 | über 50 Packungen oder Verkaufseinheiten | 134,80 |
-|  | d) Prüfungen von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung gemäß § 34 Absatz 1 Satz 1 bis 3 und § 33 Absatz 1 bis 3 i. V. m. Anlage 4b Nummer 9 der Fertigpackungsverordnung |  |
-| 16.4.1.1 | sofern die Länge bis zu 1 m beträgt oder die Fläche durch einfache Multiplikation von Längen messbar ist (je Los) | 124,40 |
+|  | c)Vollprüfungen bei Fertigpackungen gleicher Nennfüllmenge gemäß § 40 i. V. m. Anlage 3 Nummer 3 Buchstabe b und den §§ 9 und 10 der FertigpackungsverordnungVollprüfungen bei offenen Packungen gleicher Nennfüllmenge gemäß den §§ 40 und 29 i. V. m. Anlage 3 Nummer 3 Buchstabe b und den §§ 9 und 10 der FertigpackungsverordnungVollprüfungen von Verkaufseinheiten ohne Umhüllung gleichen Nenngewichts gemäß § 40 Absatz 1 und 2 und § 30 i. V. m. Anlage 3 Nummer 3 Buchstabe b der Fertigpackungsverordnung |  |
+|  | Vollprüfung (bis maximal 99 Fertigpackungen oder andere Verkaufseinheiten, Gebühr je Vollprüfung) |  |
+| 16.3.1.1 | von zehn bis zu 25 Fertigpackungen oder anderen Verkaufseinheiten | 103,40 |
+| 16.3.1.2 | von 26 bis zu 50 Fertigpackungen oder anderen Verkaufseinheiten | 112,60 |
+| 16.3.1.3 | über 50 Fertigpackungen oder anderen Verkaufseinheiten | 148,10 |
+|  | d)Prüfungen von Verkaufseinheiten ohne Umhüllung gleicher Nennlänge oder gleicher Nennfläche gemäß § 40 Absatz 1 und 2 sowie § 30 Absatz 1 bis 4 i. V. m. Anlage 4 der Fertigpackungsverordnung |  |
+| 16.4.1.1 | sofern die Länge bis zu 1 m beträgt oder die Fläche durch einfache Multiplikation von Längen messbar ist (je Los) | 136,60 |
 |  | sofern die Länge über 1 m beträgt oder die Fläche ausgemessen werden muss (je Los) |  |
-| 16.4.2.1 | bis zu acht Verkaufseinheiten | 155,30 |
-| 16.4.2.2 | von neun bis zu 13 Verkaufseinheiten | 210,20 |
-| 16.4.2.3 | von 14 bis zu 20 Verkaufseinheiten | 276,80 |
-|  | 2. Sonderfälle |  |
-|  | a) Marktüberwachung bei Maßbehältnissen |  |
-|  | aa) Stichprobenprüfungen bezüglich der Nennfüllmenge bei Maßbehältnissen gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 34 Absatz 1 und § 22 der Fertigpackungsverordnung |  |
-|  | Vorprüfung der Nennfüllmenge abgefüllter Maßbehältnisse mittels Messschablonen in Hersteller- und Einfuhrbetrieben, je Los, bei einem Stichprobenumfang von |  |
-| 16.5.1.1 | bis zu 50 abgefüllten Maßbehältnissen | 154,70 |
-| 16.5.1.2 | von 51 bis zu 80 abgefüllten Maßbehältnissen | 183,70 |
-| 16.5.1.3 | über 80 abgefüllten Maßbehältnissen | 212,70 |
-|  | Hinweis: |  |
-| H 16.5-1 | Falls aufgrund des Ergebnisses der Vorprüfung eine Prüfung nach den Schlüsselzahlen 16.1.1.1 bis 16.1.3.3 durchzuführen ist, sind beide Prüfungen zu berechnen. |  |
-|  | bb) Überprüfung der Maßbehältnisse gemäß § 34 Absatz 2 und § 3 i. V. m. Anlage 5 der Fertigpackungsverordnung |  |
-| 16.5.2.1 | in Hersteller- und Einfuhrbetrieben, je Los | 424,70 |
-|  | b) Stichprobenprüfung von Fertigpackungen, deren Inhalt nach Stückzahl gekennzeichnet ist, durch Zählung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 34 Absatz 1 Satz 1 und 2 und § 24 der Fertigpackungsverordnung Stichprobenprüfung von offenen Packungen, deren Inhalt nach Stückzahl gekennzeichnet ist, durch Zählung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. den §§ 31a, 34 Absatz 1 Satz 1 und 2 und § 24 der Fertigpackungsverordnung Stichprobenprüfung von Fertigpackungen, deren Inhalt nach Länge oder Fläche gekennzeichnet ist, durch Längen- oder Flächenmessung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 34 Absatz 1 und § 23 der Fertigpackungsverordnung oder § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 34 Absatz 1, §§ 23 und 25 Absatz 2 der Fertigpackungsverordnung Stichprobenprüfung bei offenen Packungen (gleicher oder ungleicher Nennfüllmenge), deren Inhalt nach Länge oder Fläche gekennzeichnet ist, durch Längen- oder Flächenmessung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. den §§ 31a, 34 Absatz 1 Satz 1 und 2 und § 23 der Fertigpackungsverordnung oder § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. den §§ 31a, 34 Absatz 1 Satz 4 und § 23 der Fertigpackungsverordnung |  |
-| 16.6.1.1 | sofern die Stückzahl bis zu 20 oder die Länge bis zu 1 m beträgt oder die Fläche durch einfache Multiplikation von Längen messbar ist (je Los) | 124,40 |
+| 16.4.2.1 | bis zu acht anderen Verkaufseinheiten | 170,60 |
+| 16.4.2.2 | von neun bis zu 13 anderen Verkaufseinheiten | 230,80 |
+| 16.4.2.3 | von 14 bis zu 20 anderen Verkaufseinheiten | 304,00 |
+| 16.4.2.4 | über 20 anderen Verkaufseinheiten | 408,40 |
+|  | 3. Sonderfälle |  |
+|  | a)Überprüfung der Maßbehältnisse gemäß § 40 Absatz 3, den §§ 35 und 37 sowie insbesondere § 36 i. V. m. Anlage 6 der Fertigpackungsverordnung |  |
+| 16.5.2.1 | in Hersteller- und Einfuhrbetrieben, je Los | 466,40 |
+|  | b)Stichprobenprüfung von Fertigpackungen, deren Inhalt nach Stückzahl gekennzeichnet ist, durch Zählung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 40 Absatz 1 und 2 sowie den §§ 24 und 26 i. V. m. Anlage 4 der FertigpackungsverordnungStichprobenprüfung von offenen Packungen, deren Inhalt nach Stückzahl gekennzeichnet ist, durch Zählung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 40 Absatz 1 und 2 sowie den §§ 26 und 29 i. V. m. Anlage 4 der Fertigpackungsverordnung Stichprobenprüfung von Fertigpackungen, deren Inhalt nach Länge oder Fläche gekennzeichnet ist, durch Längen- oder Flächenmessung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 40 Absatz 1 und 2 sowie § 28 der Fertigpackungsverordnung oder § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 40 Absatz 1 sowie den §§ 28 und 32 Absatz 2 i. V. m. Anlage 4 der Fertigpackungsverordnung Stichprobenprüfung bei offenen Packungen (gleicher oder ungleicher Nennfüllmenge), deren Inhalt nach Länge oder Fläche gekennzeichnet ist, durch Längen- oder Flächenmessung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. § 40 Absatz 1 und 2 sowie § 28 i. V. m. Anlage 4 und § 29 der Fertigpackungsverordnung oder § 50 Absatz 1 des Mess- und Eichgesetzes i. V. m. den §§ 28, 29 und 31 der Fertigpackungsverordnung |  |
+| 16.6.1.1 | sofern die Stückzahl bis zu 20 oder die Länge bis zu 1 m beträgt oder die Fläche durch einfache Multiplikation von Längen messbar ist (je Los) | 136,60 |
 |  | sofern die Stückzahl über 20 oder die Länge über 1 m beträgt oder die Fläche ausgemessen werden muss (je Los) |  |
-| 16.6.2.1 | bis zu acht Packungen oder Verkaufseinheiten | 155,30 |
-| 16.6.2.2 | von neun bis zu 13 Packungen oder Verkaufseinheiten | 210,20 |
-| 16.6.2.3 | von 14 bis zu 20 Packungen oder Verkaufseinheiten | 276,80 |
-|  | 3. Weitere Prüfungen im Rahmen der Stichprobenprüfungen gemäß § 50 Absatz 1 des Mess- und Eichgesetzes |  |
-|  | a) Bestimmung der Dichte des Füllgutes bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 34 Absatz 1 Satz 1 bis 3 i. V. m. Anlage 4a Nummer 5 Buchstabe c der Fertigpackungsverordnung |  |
-| 16.7.1.1 | beim Hersteller | 100,40 |
+| 16.6.2.1 | bis zu acht Fertigpackungen oder anderen Verkaufseinheiten | 170,60 |
+| 16.6.2.2 | von neun bis zu 13 Fertigpackungen oder anderen Verkaufseinheiten | 230,80 |
+| 16.6.2.3 | von 14 bis zu 20 Fertigpackungen oder anderen Verkaufseinheiten | 304,00 |
+| 16.6.2.4 | über 20 Fertigpackungen oder anderen Verkaufseinheiten | 408,40 |
+|  | c)Prüfung von Fertigpackungen mit Düngemitteln, EG-Düngemitteln, Bodenhilfsstoffen oder sonstigen Stoffen gemäß Anlage 3 Nummer 3 Buchstabe f der Fertigpackungsverordnung |  |
+| 16.6.3.1 | Prüfung von 20 Stück | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+|  | 4. Prüfung auf Verkehrsfähigkeit bei Losgrößen unter zehn Fertigpackungen oder anderen Verkaufseinheiten gemäß § 9 Absatz 4 und § 38 der Fertigpackungsverordnung |  |
+| 16.6.4.1 | Prüfung auf Verkehrsfähigkeit bei Losgrößen < 10 Fertigpackungen oder anderen Verkaufseinheiten | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+|  | 5. Weitere Prüfungen |  |
+|  | a)Bestimmung der Dichte des Füllgutes bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 40 Absatz 1 und 2 i. V. m. Anlage 3 Nummer 4 Buchstabe c der Fertigpackungsverordnung |  |
+| 16.7.1.1 | beim Hersteller | 110,30 |
 | 16.7.1.2 | in den Räumlichkeiten der zuständigen Stelle | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… |
-|  | b) Bestimmung des Trocknungsverlustes bei Textilerzeugnissen bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 34 Absatz 1 Satz 1 bis 3 i. V. m. Anlage 4a Nummer 6.3 der Fertigpackungsverordnung oder von anderen Verkaufseinheiten gemäß § 33 i. V. m. Anlage 4a Nummer 10 der Fertigpackungsverordnung |  |
-| 16.7.2.1 | Bestimmung des mittleren Trocknungsverlustes | 130,90 |
-|  | c) Bestimmung des mittleren Stück-, Längen-, Flächengewichtes, Trocknungsverlustes bei Textilerzeugnissen, der mittleren Feinheit von Garnen sowie der mittleren feuchtigkeitsbedingten Längenänderung von Garnen bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 34 Absatz 1 Satz 1 bis 3 i. V. m. Anlage 4b Nummer 6.1, 6.2, 6.3 und 7 der Fertigpackungsverordnung oder von anderen Verkaufseinheiten gemäß § 33 i. V. m. Anlage 4b Nummer 9 der Fertigpackungsverordnung |  |
+|  | b)Bestimmung des Trocknungsverlustes bei Textilerzeugnissen bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 40 Absatz 1 und 2 i. V. m. Anlage 3 Nummer 5 Buchstabe c der Fertigpackungsverordnung oder von Verkaufseinheiten ohne Umhüllung gemäß § 30 i. V. m. Anlage 3 der Fertigpackungsverordnung |  |
+| 16.7.2.1 | Bestimmung des mittleren Trocknungsverlustes | 143,80 |
+|  | c)Bestimmung des mittleren Stück-, Längen-,Flächengewichtes, der mittleren Feinheit von Garnen sowie der mittleren feuchtigkeitsbedingten Längenänderung von Garnen bei Stichprobenprüfungen von Fertigpackungen gleicher Nennfüllmenge gemäß § 40 Absatz 1 und 2 i. V. m. Anlage 4 Nummer 5 Buchstabe b, c und d und Nummer 6 der Fertigpackungsverordnung oder von anderen Verkaufseinheiten gemäß § 30 i. V. m. Anlage 4 Nummer 7 der Fertigpackungsverordnung |  |
 |  | Bestimmung (je Stichprobe) |  |
-| 16.7.3.1 | des mittleren Stückgewichtes | 55,20 |
-| 16.7.3.2 | des mittleren Längengewichtes | 65,50 |
-| 16.7.3.3 | des mittleren Flächengewichtes | 49,10 |
-| 16.7.3.4 | der mittleren Feinheit von Garnen | 130,90 |
-| 16.7.3.5 | der mittleren feuchtigkeitsbedingten Längenänderung von Garnen | 130,90 |
-|  | d) Kontrolle betrieblicher Aufzeichnungen bei Fertigpackungen mit Gewichts- oder Volumenkennzeichnung gemäß § 27 Absatz 4 der Fertigpackungsverordnung im Rahmen der Stichprobenprüfung bei Fertigpackungen mit Gewichts- oder Volumenkennzeichnung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes Kontrolle betrieblicher Aufzeichnungen bei offenen Packungen gemäß den §§ 31a und 27 Absatz 4 der Fertigpackungsverordnung im Rahmen der Stichprobenprüfung bei anderen Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und EichgesetzesKontrolle betrieblicher Aufzeichnungen bei Backwaren ohne Vorverpackung gemäß § 32 Absatz 5 Satz 2 und § 27 Absatz 4 der Fertigpackungsverordnung im Rahmen der Stichprobenprüfung bei anderen Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und EichgesetzesKontrolle betrieblicher Aufzeichnungen bei Verkaufseinheiten ohne Umhüllung gemäß § 33 Absatz 6 Satz 2 und § 27 Absatz 4 der Fertigpackungsverordnung im Rahmen der Stichprobenprüfung bei anderen Verkaufseinheiten gemäß § 50 Absatz 1 des Mess- und Eichgesetzes |  |
-| 16.7.4.1 | Dauer der Kontrolle > 15 Minuten | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1…oder 19.1.2… |
-|  | 4. Maßnahmen gemäß § 50 Absatz 2 des Mess- und Eichgesetzes |  |
-| 16.8.1.1 | Vornahme einer Maßnahme gemäß § 50 Absatz 2 des Mess- und Eichgesetzes aufgrund der Prüfung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1…oder 19.1.2… |
+| 16.7.3.1 | des mittleren Stückgewichtes | 60,70 |
+| 16.7.3.2 | des mittleren Längengewichtes | 72,00 |
+| 16.7.3.3 | des mittleren Flächengewichtes | 54,00 |
+| 16.7.3.4 | der mittleren Feinheit von Garnen | 143,80 |
+| 16.7.3.5 | der mittleren feuchtigkeitsbedingten Längenänderung von Garnen | 143,80 |
+|  | d)Kontrolle betrieblicher Aufzeichnungen bei Fertigpackungen mit Gewichts- oder Volumenkennzeichnung nach § 41 Absatz 4 und bei Fertigpackungen gleicher Nennfüllmenge mit Kennzeichnung nach Stückzahl, Länge oder Fläche gemäß § 41 Absatz 2 der FertigpackungsverordnungKontrolle betrieblicher Aufzeichnungen bei offenen Packungen gemäß § 14 Absatz 2, den §§ 17, 29 und 41 Absatz 4 der FertigpackungsverordnungKontrolle betrieblicher Aufzeichnungen bei Obst und Gemüse ohne Vorverpackung gemäß § 17 Absatz 4 sowie bei Backwaren ohne Vorverpackung gemäß § 18 Absatz 5 jeweils i. V. m. § 41 Absatz 4 der FertigpackungsverordnungKontrolle betrieblicher Aufzeichnungen bei Verkaufseinheiten ohne Umhüllung gemäß § 30 Absatz 5 und § 41 Absatz 4 der Fertigpackungsverordnung |  |
+| 16.7.4.1 | Dauer der Kontrolle > 15 Minuten | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+|  | 6. Maßnahmen gemäß § 50 Absatz 2 des Mess- und Eichgesetzes |  |
+| 16.8.1.1 | Vornahme einer Maßnahme gemäß § 50 Absatz 2 des Mess- und Eichgesetzes aufgrund der Prüfung gemäß § 50 Absatz 1 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+|  | 7. Nach Beanstandungen gemäß § 4 Absatz 2 Nummer 1 bis 3, § 11 Absatz 2, § 17 Absatz 1, 2 und 5, § 18 Absatz 1 bis 3 und 6, § 29 Absatz 2 Nummer 1 bis 3, § 30 Absatz 1 Nummer 1 und 2, § 31 Absatz 1 Nummer 1 bis 3, § 34 Nummer 1 bis 3, § 35 und § 38 Absatz 1 i. V. m. § 40 der Fertigpackungsverordnung |  |
+| 16.8.2.1 | Prüfung der Anforderungen an Fertigpackungen, anderen Verkaufseinheiten und Maßbehältnissen nach Beanstandungen ohne erneute Prüfung der Füllmenge | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 |  | Schlüsselzahlengruppe 17: Anerkennung von Prüfstellen, öffentliche Bestellung der Leitung von Prüfstellen |  |
 |  | Hinweise: |  |
 | H 17-1 | Die Gebühren der Schlüsselzahlen 17.1.1.1 bis 17.1.1.5 gelten als Gebühr für jeweils eine Messgeräteart. |  |

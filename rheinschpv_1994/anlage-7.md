@@ -52,7 +52,7 @@ C. Zeichen für Einschränkungen
 | C.2 | Die lichte Höhe über dem Wasserspiegel ist begrenzt. |  |
 | C.3 | Die Breite der Durchfahrtsöffnung oder der Fahrrinne ist begrenzt. |  |
 | C.4 | Es bestehen Schiffahrtsbeschränkungen; sie sind auf einer zusätzlichen Tafel unter dem Schiffahrtszeichen angegeben. |  |
-| C.5 | Die Wasserstraße ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom Tafelzeichen entfernt halten sollen. |  |
+| C.5 | Die Fahrrinne ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom Tafelzeichen entfernt halten sollen. |  |
 D. Empfehlende Zeichen
 | D.1 | Empfohlene Durchfahrtsöffnung |  |
 |  | a)für Verkehr in beiden Richtungen;(§ 6.25 Nr. 2 Buchstabe a) |  |

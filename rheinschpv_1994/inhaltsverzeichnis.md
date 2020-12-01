@@ -14,8 +14,9 @@
 | § 1.07 | Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste |
 | § 1.08 | Bau, Ausrüstung und Besatzung der Fahrzeuge |
 | § 1.09 | Besetzung des Ruders |
-| § 1.10 | Mitführen von Urkunden und sonstigen Unterlagen |
-| § 1.11 | Mitführen der Rheinschiffahrtspolizeiverordnung |
+| § 1.10 | Mitführen von Urkunden und sonstigen Unterlagen an Bord |
+| § 1.10a | Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord |
+| § 1.11 | Mitführen der Rheinschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord |
 | § 1.12 | Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen; Schiffahrtshindernisse |
 | § 1.13 | Schutz der Schiffahrtszeichen |
 | § 1.14 | Beschädigung von Anlagen |
@@ -293,3 +294,4 @@
 | Anlage 10: | Muster für das Ölkontrollbuch |
 | Anlage 11: | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
 | Anlage 12: | Verzeichnis der Fahrzeug- und Verbandsarten |
+| Anlage 13: | Verzeichnis der mitzuführenden Urkunden und sonstigen Unterlagen nach § 1.10 RheinSchPV |

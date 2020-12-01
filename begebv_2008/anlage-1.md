@@ -24,7 +24,7 @@ Individuell zurechenbare öffentliche Leistungen nach dem AEG
 | 1.17 | Anerkennung und Überwachung einer benannten Stelle | § 5 Abs. 1d Satz 1 Nr. 1 Buchstabe a AEG | nach Zeitaufwand |
 | 1.18 | Anerkennung und Überwachung einer bestimmten Stelle | § 5 Abs. 1d Satz 1 Nr. 1 Buchstabe b AEG | nach Zeitaufwand |
 | 1.19 | Anerkennung und Überwachung einer Bewertungsstelle | § 5 Abs. 1d Satz 1 Nr. 2 AEG | nach Zeitaufwand |
-| 1.20 | Anerkennung und Überwachung eines Prüfsachverständigen | § 4b Abs. 1 Satz 2und 3 AEG | nach Zeitaufwand |
+| 1.20 | (weggefallen) |  |  |
 | 1.21 | Anerkennung und Überwachung einer Zertifizierungsstelle | § 5 Abs. 1d Satz 1 Nr. 3 AEG | nach Zeitaufwand |
 Abschnitt 2
 Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V. m. VwVfG
@@ -70,9 +70,9 @@ Individuell zurechenbare öffentliche Leistungen nach der EIBV
 Abschnitt 6
 Individuell zurechenbare öffentliche Leistungen nach der ESiV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
-| 6.1 | Bearbeitung von Vorbereitungsanträgen | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 3 Abs. 2 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand,mindestens 600 undhöchstens 75 000 Euro |
-| 6.2 | Erteilung oder Erneuerung einer Sicherheitsbescheinigung | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 8 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand,mindestens 600 undhöchstens 75 000 Euro |
-| 6.3 | Erteilung oder Erneuerung einer Sicherheitsgenehmigung | § 14 und § 16 Abs. 3 ESiV | nach Zeitaufwand,mindestens 600 undhöchstens 100 000 Euro |
+| 6.1 | Bearbeitung von Vorbereitungsanträgen | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 3 Abs. 2 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro |
+| 6.2 | Erteilung oder Erneuerung einer Sicherheitsbescheinigung | § 4 und § 5 Abs. 1 ESiV i. V. m. Art. 8 der Durchführungsverordnung (EU) 2018/763 | nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro |
+| 6.3 | Erteilung oder Erneuerung einer Sicherheitsgenehmigung | § 14 und § 16 Abs. 3 ESiV | nach Zeitaufwand, mindestens 600 und höchstens 100 000 Euro |
 Abschnitt 7
 Individuell zurechenbare öffentliche Leistungen nach der EIGV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
@@ -133,6 +133,21 @@ Abschnitt 11
 Sonstige individuell zurechenbare öffentliche Leistungen
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
 | 11.1 | Ändern, Erweitern und Verlängern der Gültigkeit des Verwaltungsaktes |  | nach Zeitaufwand, bis zur Hälfte der Gebühr für den Verwaltungsakt |
+Abschnitt 12
+Individuell zurechenbare öffentliche Leistungen nach der EPSV
+| Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
+| 12.1 | Anerkennung mit mündlichem Prüfungsverfahren und Überwachung eines Prüfsachverständigen | §§ 4 und 24 EPSV | 5 800 Euro zuzüglich Auslagen für externe Prüfer |
+| 12.2 | Anerkennung ohne mündliches Prüfungsverfahren und Überwachung eines Prüfsachverständigen | §§ 4 und 24 EPSV | 3 400 Euro |
+| 12.3 | Verlängerung einer Anerkennung und Überwachung eines Prüfsachverständigen | § 4 i. V. m. § 5 Abs. 5 und § 24 EPSV | 2 800 Euro |
+| 12.4 | Erweiterung einer Anerkennung eines Prüfsachverständigen mit mündlichem Prüfungsverfahren | § 4 i. V. m. § 5 Abs. 7 EPSV | 3 000 Euro zuzüglich Auslagen für externe Prüfer |
+| 12.5 | Erweiterung einer Anerkennung eines Prüfsachverständigen ohne mündliches Prüfungsverfahren | § 4 i. V. m. § 5 Abs. 7 EPSV | 1 800 Euro |
+Abschnitt 13
+Individuell zurechenbare öffentliche Leistungen nach der EPSPV
+| Nr. |  | Gegenstand | Rechtsgrundlage |  | Gebühr |
+| 13.1 | Durchführung der Wiederholungsprüfung | § 16 EPSPV |  |  |
+| a) | Wiederholungsprüfung mit drei oder mehr Prüfungsfächern | a) | 3 000 Euro zuzüglich Auslagen für externe Prüfer |
+| b) | Wiederholungsprüfung mit zwei Prüfungsfächern | b) | 2 100 Euro zuzüglich Auslagen für externe Prüfer |
+| c) | Wiederholungsprüfung mit einem Prüfungsfach | c) | 1 200 Euro zuzüglich Auslagen für externe Prüfer |
 Teil II
 Gebühren für individuell zurechenbare öffentliche Leistungen der Regulierungsbehörde
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
