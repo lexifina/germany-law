@@ -1,0 +1,73 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-12-01T17:00:00+01:00
+- Ende: 2020-12-01T19:17:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18998
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18998
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392966.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392966.pdf
+- Wortprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392966.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Ludenberger Straße - Barrierefreier Ausbau der Haltestelle Pöhlenweg - Empfehlung einstimmig beschlossen
+- TOP 4.2: Haushaltsentwurf 2021 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2021 für den Stadtbezirk 7 - einstimmig beschlossen
+- TOP 4.2.1: Haushalt 2021: Bedarfsampel für die Glashüttenstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 4.2.2: Haushalt 2021: Bedarfsampel Torfbruchstraße – Josef-Neuberger-Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 4.2.3: Haushalt 2021: Machbarkeitsstudie für eine Tunnellösung zur Entlastung der Ludenberger Straße, Bergische Landstraße - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 4.2.4: Haushalt 2021: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbel- und Karlsbader Straße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 4.3: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
+- TOP 4.4: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - mehrheitlich beschlossen
+- TOP 4.5: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.6: Zuschuss an Borussia Düsseldorf e.V. - Empfehlung mehrheitlich beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: „Runder Tisch Elterntaxis“ - Antrag der Fraktionen von SPD und FDP- - abweichend beschlossen
+- TOP 5.7: "Essbare Stadt“ für die Neugestaltung Gutenbergspielplatz - Antrag der FDP-Fraktion -. - einstimmig beschlossen
+- TOP 5.8: Hundeauslaufplatz an den Gerresheimer Höhen/Quadenhofstraße - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.9: Überbrückungshilfe Quartiersmanager Grafenberg und Düsseltal - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.10: Parkbuchten Hardtstraße instand setzen - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Hinterhofbebauung Ludenberger Straße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Knotenpunkt Nach den Mauresköthen - Zamenhofweg - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7.2: „Wildes Parken“ im Biotopbereich des Gebietes „Am Quellenbusch“ - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7.3: Erwerb des Kasernengeländes „Bergische Kaserne“ durch die Stadt Düsseldorf - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.4: Landesfördermittel für die Heyestraße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Behindertengerechte Spielplätze im Bezirk 7 - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Barrierearme Pflasterung in der Fußgängerzone - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.2: Urban Gardening ausbauen und fördern - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.3: Reitwege im Stadtbezirk - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.4: Ostparkweiher - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.5: Ausbau Grütersaaper Weg und weiteres Vorgehen - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.6: Aufwertung der südlichen Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.7: Schaffung von geeigneten Parkflächen für Lastenräder - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.8: Lehrpfad Artenvielfalt - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.9: Entfernung der Fahrradsymbole auf der Benderstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.10: Wanderweg Sauerweg - Plungscheuer - Rotthäuser Bachtal - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.11: Markt Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.12: Reduktion der Motorradlärmbelastung an Wochenenden und Feiertagen auf der Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.13: Projekt mit Jugendlichen: Errichtung einer temporären Pumptrack-Anlage - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.14: Umwandlung der Tennenflächen in Kunstrasen - Informationsvorlage zum Beschluss der der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
