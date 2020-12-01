@@ -80,8 +80,7 @@
 ### Unterabschnitt 2 Besondere Wertvorschriften
 
 - [§ 48 Bürgerliche Rechtsstreitigkeiten](0048.md)
-- [§ 49 (weggefallen)](0049.md)
-- [§ 49a Wohnungseigentumssachen](0049a.md)
+- [§ 49 Beschlussklagen nach dem Wohnungseigentumsgesetz](0049.md)
 - [§ 50 Bestimmte Beschwerdeverfahren](0050.md)
 - [§ 51 Gewerblicher Rechtsschutz](0051.md)
 - [§ 51a Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz](0051a.md)

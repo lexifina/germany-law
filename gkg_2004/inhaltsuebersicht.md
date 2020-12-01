@@ -70,8 +70,7 @@
 |  | Unterabschnitt 2 |
 |  | Besondere Wertvorschriften |
 | § 48 | Bürgerliche Rechtsstreitigkeiten |
-| § 49 | (weggefallen) |
-| § 49a | Wohnungseigentumssachen |
+| § 49 | Beschlussklagen nach dem Wohnungseigentumsgesetz |
 | § 50 | Bestimmte Beschwerdeverfahren |
 | § 51 | Gewerblicher Rechtsschutz |
 | § 51a | Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz |
