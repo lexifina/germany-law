@@ -1,0 +1,421 @@
+# Anlage (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
+
+Zugrunde liegt die Zuordnung, die das Bundesinstitut für Bau-, Stadt- und Raumforschung im Rahmen seiner Aufgabenwahrnehmung nach § 22 Raumordnungsgesetz zum Stand 31. Dezember 2017 vorgenommen hat.
+| Name des Stadt- und Landkreises | Städtischer/Ländlicher Raum |
+| Baden-Württemberg |
+| Alb-Donau-Kreis | Ländlicher Raum |
+| Baden-Baden, Stadt | Städtischer Raum |
+| Biberach | Ländlicher Raum |
+| Böblingen | Städtischer Raum |
+| Bodenseekreis | Städtischer Raum |
+| Breisgau-Hochschwarzwald | Städtischer Raum |
+| Calw | Städtischer Raum |
+| Emmendingen | Städtischer Raum |
+| Enzkreis | Städtischer Raum |
+| Esslingen | Städtischer Raum |
+| Freiburg im Breisgau, Stadt | Städtischer Raum |
+| Freudenstadt | Ländlicher Raum |
+| Göppingen | Städtischer Raum |
+| Heidelberg, Stadt | Städtischer Raum |
+| Heidenheim | Städtischer Raum |
+| Heilbronn, Stadt | Städtischer Raum |
+| Heilbronn, Landkreis | Städtischer Raum |
+| Hohenlohekreis | Ländlicher Raum |
+| Karlsruhe | Städtischer Raum |
+| Karlsruhe, Stadt | Städtischer Raum |
+| Konstanz | Städtischer Raum |
+| Lörrach | Städtischer Raum |
+| Ludwigsburg | Städtischer Raum |
+| Main-Tauber-Kreis | Ländlicher Raum |
+| Mannheim, Stadt | Städtischer Raum |
+| Neckar-Odenwald-Kreis | Ländlicher Raum |
+| Ortenaukreis | Städtischer Raum |
+| Ostalbkreis | Städtischer Raum |
+| Pforzheim, Stadt | Städtischer Raum |
+| Rastatt | Städtischer Raum |
+| Ravensburg | Städtischer Raum |
+| Rems-Murr-Kreis | Städtischer Raum |
+| Reutlingen | Städtischer Raum |
+| Rhein-Neckar-Kreis | Städtischer Raum |
+| Rottweil | Städtischer Raum |
+| Schwäbisch Hall | Ländlicher Raum |
+| Schwarzwald-Baar-Kreis | Städtischer Raum |
+| Sigmaringen | Ländlicher Raum |
+| Stuttgart, Stadt | Städtischer Raum |
+| Tübingen | Städtischer Raum |
+| Tuttlingen | Städtischer Raum |
+| Ulm, Stadt | Städtischer Raum |
+| Waldshut | Ländlicher Raum |
+| Zollernalbkreis | Städtischer Raum |
+| Bayern |
+| Aichach-Friedberg | Ländlicher Raum |
+| Altötting | Städtischer Raum |
+| Amberg, Stadt | Ländlicher Raum |
+| Amberg-Sulzbach | Ländlicher Raum |
+| Ansbach, Stadt | Ländlicher Raum |
+| Ansbach, Landkreis | Ländlicher Raum |
+| Aschaffenburg, Stadt | Städtischer Raum |
+| Aschaffenburg, Landkreis | Städtischer Raum |
+| Augsburg, Stadt | Städtischer Raum |
+| Augsburg, Landkreis | Städtischer Raum |
+| Bad Kissingen | Ländlicher Raum |
+| Bad Tölz-Wolfratshausen | Ländlicher Raum |
+| Bamberg, Stadt | Ländlicher Raum |
+| Bamberg, Landkreis | Ländlicher Raum |
+| Bayreuth, Stadt | Ländlicher Raum |
+| Bayreuth, Landkreis | Ländlicher Raum |
+| Berchtesgadener Land | Ländlicher Raum |
+| Cham | Ländlicher Raum |
+| Coburg, Stadt | Ländlicher Raum |
+| Coburg, Landkreis | Ländlicher Raum |
+| Dachau | Städtischer Raum |
+| Deggendorf | Ländlicher Raum |
+| Dillingen a. d. Donau | Ländlicher Raum |
+| Dingolfing-Landau | Ländlicher Raum |
+| Donau-Ries | Ländlicher Raum |
+| Ebersberg | Städtischer Raum |
+| Eichstätt | Ländlicher Raum |
+| Erding | Ländlicher Raum |
+| Erlangen, Stadt | Städtischer Raum |
+| Erlangen-Höchstadt | Städtischer Raum |
+| Forchheim | Ländlicher Raum |
+| Freising | Städtischer Raum |
+| Freyung-Grafenau | Ländlicher Raum |
+| Fürstenfeldbruck | Städtischer Raum |
+| Fürth, Stadt | Städtischer Raum |
+| Fürth, Landkreis | Städtischer Raum |
+| Garmisch-Partenkirchen | Ländlicher Raum |
+| Günzburg | Ländlicher Raum |
+| Haßberge | Ländlicher Raum |
+| Hof, Stadt | Ländlicher Raum |
+| Hof, Landkreis | Ländlicher Raum |
+| Ingolstadt, Stadt | Städtischer Raum |
+| Kaufbeuren, Stadt | Ländlicher Raum |
+| Kelheim | Ländlicher Raum |
+| Kempten (Allgäu), Stadt | Ländlicher Raum |
+| Kitzingen | Ländlicher Raum |
+| Kronach | Ländlicher Raum |
+| Kulmbach | Ländlicher Raum |
+| Landsberg am Lech | Ländlicher Raum |
+| Landshut, Stadt | Ländlicher Raum |
+| Landshut, Landkreis | Ländlicher Raum |
+| Lichtenfels | Ländlicher Raum |
+| Lindau (Bodensee) | Städtischer Raum |
+| Main-Spessart | Ländlicher Raum |
+| Memmingen, Stadt | Ländlicher Raum |
+| Miesbach | Ländlicher Raum |
+| Miltenberg | Städtischer Raum |
+| Mühldorf a. Inn | Ländlicher Raum |
+| München, Stadt | Städtischer Raum |
+| München, Landkreis | Städtischer Raum |
+| Neuburg-Schrobenhausen | Ländlicher Raum |
+| Neumarkt i. d. OPf. | Ländlicher Raum |
+| Neustadt a. d. Aisch-Bad Windsheim | Ländlicher Raum |
+| Neustadt a. d. Waldnaab | Ländlicher Raum |
+| Neu-Ulm | Städtischer Raum |
+| Nürnberg, Stadt | Städtischer Raum |
+| Nürnberger Land | Städtischer Raum |
+| Oberallgäu | Ländlicher Raum |
+| Ostallgäu | Ländlicher Raum |
+| Passau, Stadt | Ländlicher Raum |
+| Passau, Landkreis | Ländlicher Raum |
+| Pfaffenhofen a. d. Ilm | Ländlicher Raum |
+| Regen | Ländlicher Raum |
+| Regensburg, Stadt | Städtischer Raum |
+| Regensburg, Landkreis | Ländlicher Raum |
+| Rhön-Grabfeld | Ländlicher Raum |
+| Rosenheim, Stadt | Städtischer Raum |
+| Rosenheim, Landkreis | Städtischer Raum |
+| Roth | Ländlicher Raum |
+| Rottal-Inn | Ländlicher Raum |
+| Schwabach, Stadt | Ländlicher Raum |
+| Schwandorf | Ländlicher Raum |
+| Schweinfurt, Stadt | Ländlicher Raum |
+| Schweinfurt, Landkreis | Ländlicher Raum |
+| Straubing, Stadt | Ländlicher Raum |
+| Starnberg, Landkreis | Städtischer Raum |
+| Straubing-Bogen | Ländlicher Raum |
+| Tirschenreuth | Ländlicher Raum |
+| Traunstein | Ländlicher Raum |
+| Unterallgäu | Ländlicher Raum |
+| Weiden i. d. OPf., Stadt | Ländlicher Raum |
+| Weilheim-Schongau | Ländlicher Raum |
+| Weißenburg-Gunzenhausen | Ländlicher Raum |
+| Wunsiedel i. Fichtelgebirge | Ländlicher Raum |
+| Würzburg, Stadt | Städtischer Raum |
+| Würzburg, Landkreis | Städtischer Raum |
+| Berlin |
+| Berlin, Stadt | Städtischer Raum |
+| Brandenburg |
+| Barnim | Ländlicher Raum |
+| Brandenburg an der Havel, Stadt | Ländlicher Raum |
+| Cottbus, Stadt | Ländlicher Raum |
+| Dahme-Spreewald | Ländlicher Raum |
+| Elbe-Elster | Ländlicher Raum |
+| Frankfurt (Oder), Stadt | Ländlicher Raum |
+| Havelland | Ländlicher Raum |
+| Märkisch-Oderland | Ländlicher Raum |
+| Oberhavel | Ländlicher Raum |
+| Oberspreewald-Lausitz | Ländlicher Raum |
+| Oder-Spree | Ländlicher Raum |
+| Ostprignitz-Ruppin | Ländlicher Raum |
+| Potsdam, Stadt | Städtischer Raum |
+| Potsdam-Mittelmark | Ländlicher Raum |
+| Prignitz | Ländlicher Raum |
+| Spree-Neiße | Ländlicher Raum |
+| Teltow-Fläming | Ländlicher Raum |
+| Uckermark | Ländlicher Raum |
+| Bremen |
+| Bremen, Stadt | Städtischer Raum |
+| Bremerhaven, Stadt | Städtischer Raum |
+| Hamburg |
+| Hamburg, Stadt | Städtischer Raum |
+| Hessen |
+| Bergstraße | Städtischer Raum |
+| Darmstadt, Stadt | Städtischer Raum |
+| Darmstadt-Dieburg | Städtischer Raum |
+| Frankfurt am Main, Stadt | Städtischer Raum |
+| Fulda | Ländlicher Raum |
+| Gießen | Städtischer Raum |
+| Groß-Gerau | Städtischer Raum |
+| Hersfeld-Rotenburg | Ländlicher Raum |
+| Hochtaunuskreis | Städtischer Raum |
+| Kassel, Stadt | Städtischer Raum |
+| Kassel, Landkreis | Städtischer Raum |
+| Lahn-Dill-Kreis | Städtischer Raum |
+| Limburg-Weilburg | Städtischer Raum |
+| Main-Kinzig-Kreis | Städtischer Raum |
+| Main-Taunus-Kreis | Städtischer Raum |
+| Marburg-Biedenkopf | Ländlicher Raum |
+| Odenwaldkreis | Städtischer Raum |
+| Offenbach am Main, Stadt | Städtischer Raum |
+| Offenbach, Landkreis | Städtischer Raum |
+| Rheingau-Taunus-Kreis | Städtischer Raum |
+| Schwalm-Eder-Kreis | Ländlicher Raum |
+| Vogelsbergkreis | Ländlicher Raum |
+| Waldeck-Frankenberg | Ländlicher Raum |
+| Werra-Meißner-Kreis | Ländlicher Raum |
+| Wetteraukreis | Städtischer Raum |
+| Wiesbaden, Stadt | Städtischer Raum |
+| Mecklenburg-Vorpommern |
+| Landkreis Rostock | Ländlicher Raum |
+| Ludwigslust-Parchim | Ländlicher Raum |
+| Mecklenburgische Seenplatte | Ländlicher Raum |
+| Nordwestmecklenburg | Ländlicher Raum |
+| Rostock, Stadt | Städtischer Raum |
+| Schwerin, Stadt | Ländlicher Raum |
+| Vorpommern-Greifswald | Ländlicher Raum |
+| Vorpommern-Rügen | Ländlicher Raum |
+| Niedersachsen |
+| Ammerland | Städtischer Raum |
+| Aurich | Ländlicher Raum |
+| Braunschweig, Stadt | Städtischer Raum |
+| Celle | Ländlicher Raum |
+| Cloppenburg | Ländlicher Raum |
+| Cuxhaven | Ländlicher Raum |
+| Delmenhorst, Stadt | Ländlicher Raum |
+| Diepholz | Ländlicher Raum |
+| Emden, Stadt | Ländlicher Raum |
+| Emsland | Ländlicher Raum |
+| Friesland | Städtischer Raum |
+| Gifhorn | Ländlicher Raum |
+| Goslar | Ländlicher Raum |
+| Göttingen | Städtischer Raum |
+| Grafschaft Bentheim | Ländlicher Raum |
+| Hameln-Pyrmont | Ländlicher Raum |
+| Harburg | Städtischer Raum |
+| Heidekreis | Ländlicher Raum |
+| Helmstedt | Ländlicher Raum |
+| Hildesheim | Städtischer Raum |
+| Holzminden | Ländlicher Raum |
+| Leer | Ländlicher Raum |
+| Lüchow-Dannenberg | Ländlicher Raum |
+| Lüneburg | Ländlicher Raum |
+| Nienburg (Weser) | Ländlicher Raum |
+| Northeim | Ländlicher Raum |
+| Oldenburg (Oldenburg), Stadt | Städtischer Raum |
+| Oldenburg, Landkreis | Ländlicher Raum |
+| Osnabrück, Landkreis | Ländlicher Raum |
+| Osnabrück, Stadt | Städtischer Raum |
+| Osterholz | Städtischer Raum |
+| Peine | Städtischer Raum |
+| Region Hannover | Städtischer Raum |
+| Rotenburg (Wümme) | Ländlicher Raum |
+| Salzgitter, Stadt | Städtischer Raum |
+| Schaumburg | Städtischer Raum |
+| Stade | Ländlicher Raum |
+| Uelzen | Ländlicher Raum |
+| Vechta | Ländlicher Raum |
+| Verden | Ländlicher Raum |
+| Wesermarsch | Ländlicher Raum |
+| Wilhelmshaven, Stadt | Städtischer Raum |
+| Wittmund | Ländlicher Raum |
+| Wolfenbüttel | Ländlicher Raum |
+| Wolfsburg, Stadt | Städtischer Raum |
+| Nordrhein-Westfalen |
+| Bielefeld, Stadt | Städtischer Raum |
+| Bochum, Stadt | Städtischer Raum |
+| Bonn, Stadt | Städtischer Raum |
+| Borken | Städtischer Raum |
+| Bottrop, Stadt | Städtischer Raum |
+| Coesfeld | Städtischer Raum |
+| Dortmund, Stadt | Städtischer Raum |
+| Duisburg, Stadt | Städtischer Raum |
+| Düren | Städtischer Raum |
+| Düsseldorf, Stadt | Städtischer Raum |
+| Ennepe-Ruhr-Kreis | Städtischer Raum |
+| Essen, Stadt | Städtischer Raum |
+| Euskirchen | Städtischer Raum |
+| Gelsenkirchen, Stadt | Städtischer Raum |
+| Gütersloh | Städtischer Raum |
+| Hagen, Stadt | Städtischer Raum |
+| Hamm, Stadt | Städtischer Raum |
+| Heinsberg | Städtischer Raum |
+| Herford | Städtischer Raum |
+| Herne, Stadt | Städtischer Raum |
+| Hochsauerlandkreis | Ländlicher Raum |
+| Höxter | Ländlicher Raum |
+| Kleve | Städtischer Raum |
+| Köln, Stadt | Städtischer Raum |
+| Krefeld, Stadt | Städtischer Raum |
+| Leverkusen, Stadt | Städtischer Raum |
+| Lippe | Städtischer Raum |
+| Märkischer Kreis | Städtischer Raum |
+| Mettmann | Städtischer Raum |
+| Minden-Lübbecke | Städtischer Raum |
+| Mönchengladbach, Stadt | Städtischer Raum |
+| Mülheim an der Ruhr, Stadt | Städtischer Raum |
+| Münster, Stadt | Städtischer Raum |
+| Oberbergischer Kreis | Städtischer Raum |
+| Oberhausen, Stadt | Städtischer Raum |
+| Olpe | Städtischer Raum |
+| Paderborn | Städtischer Raum |
+| Recklinghausen | Städtischer Raum |
+| Remscheid, Stadt | Städtischer Raum |
+| Rhein-Erft-Kreis | Städtischer Raum |
+| Rheinisch-Bergischer Kreis | Städtischer Raum |
+| Rhein-Kreis Neuss | Städtischer Raum |
+| Rhein-Sieg-Kreis | Städtischer Raum |
+| Siegen-Wittgenstein | Städtischer Raum |
+| Soest | Städtischer Raum |
+| Solingen, Stadt | Städtischer Raum |
+| Städteregion Aachen | Städtischer Raum |
+| Steinfurt | Städtischer Raum |
+| Unna | Städtischer Raum |
+| Viersen | Städtischer Raum |
+| Warendorf | Städtischer Raum |
+| Wesel | Städtischer Raum |
+| Wuppertal, Stadt | Städtischer Raum |
+| Rheinland-Pfalz |
+| Ahrweiler | Ländlicher Raum |
+| Altenkirchen (Westerwald) | Städtischer Raum |
+| Alzey-Worms | Städtischer Raum |
+| Bad Dürkheim | Städtischer Raum |
+| Bad Kreuznach | Ländlicher Raum |
+| Bernkastel-Wittlich | Ländlicher Raum |
+| Birkenfeld | Ländlicher Raum |
+| Cochem-Zell | Ländlicher Raum |
+| Donnersbergkreis | Ländlicher Raum |
+| Eifelkreis Bitburg-Prüm | Ländlicher Raum |
+| Frankenthal (Pfalz), Stadt | Städtischer Raum |
+| Germersheim | Städtischer Raum |
+| Kaiserslautern, Stadt | Städtischer Raum |
+| Kaiserslautern, Landkreis | Städtischer Raum |
+| Koblenz, Stadt | Städtischer Raum |
+| Kusel | Ländlicher Raum |
+| Landau in der Pfalz, Stadt | Städtischer Raum |
+| Ludwigshafen am Rhein, Stadt | Städtischer Raum |
+| Mainz, Stadt | Städtischer Raum |
+| Mainz-Bingen | Städtischer Raum |
+| Mayen-Koblenz | Städtischer Raum |
+| Neustadt an der Weinstraße, Stadt | Städtischer Raum |
+| Neuwied | Städtischer Raum |
+| Pirmasens, Stadt | Ländlicher Raum |
+| Rhein-Hunsrück-Kreis | Ländlicher Raum |
+| Rhein-Lahn-Kreis | Städtischer Raum |
+| Rhein-Pfalz-Kreis | Städtischer Raum |
+| Speyer, Stadt | Städtischer Raum |
+| Südliche Weinstraße | Städtischer Raum |
+| Südwestpfalz | Ländlicher Raum |
+| Trier, Stadt | Städtischer Raum |
+| Trier-Saarburg | Ländlicher Raum |
+| Vulkaneifel | Ländlicher Raum |
+| Westerwaldkreis | Städtischer Raum |
+| Worms, Stadt | Städtischer Raum |
+| Zweibrücken, Stadt | Ländlicher Raum |
+| Saarland |
+| Merzig-Wadern | Städtischer Raum |
+| Neunkirchen | Städtischer Raum |
+| Regionalverband Saarbrücken | Städtischer Raum |
+| Saarlouis | Städtischer Raum |
+| Saarpfalz-Kreis | Städtischer Raum |
+| St. Wendel | Städtischer Raum |
+| Sachsen |
+| Bautzen | Ländlicher Raum |
+| Chemnitz, Stadt | Städtischer Raum |
+| Dresden, Stadt | Städtischer Raum |
+| Erzgebirgskreis | Städtischer Raum |
+| Görlitz | Ländlicher Raum |
+| Leipzig, Stadt | Städtischer Raum |
+| Leipzig, Landkreis | Ländlicher Raum |
+| Meißen | Ländlicher Raum |
+| Mittelsachsen | Ländlicher Raum |
+| Nordsachsen | Ländlicher Raum |
+| Sächsische Schweiz-Osterzgebirge | Ländlicher Raum |
+| Vogtlandkreis | Ländlicher Raum |
+| Zwickau | Städtischer Raum |
+| Sachsen-Anhalt |
+| Altmarkkreis Salzwedel | Ländlicher Raum |
+| Anhalt-Bitterfeld | Ländlicher Raum |
+| Börde | Ländlicher Raum |
+| Burgenlandkreis | Ländlicher Raum |
+| Dessau-Roßlau, Stadt | Ländlicher Raum |
+| Halle (Saale), Stadt | Städtischer Raum |
+| Harz | Ländlicher Raum |
+| Jerichower Land | Ländlicher Raum |
+| Magdeburg, Stadt | Städtischer Raum |
+| Mansfeld-Südharz | Ländlicher Raum |
+| Saalekreis | Ländlicher Raum |
+| Salzlandkreis | Ländlicher Raum |
+| Stendal | Ländlicher Raum |
+| Wittenberg | Ländlicher Raum |
+| Schleswig-Holstein |
+| Dithmarschen | Ländlicher Raum |
+| Flensburg, Stadt | Ländlicher Raum |
+| Herzogtum Lauenburg | Ländlicher Raum |
+| Kiel, Stadt | Städtischer Raum |
+| Lübeck, Stadt | Städtischer Raum |
+| Neumünster, Stadt | Ländlicher Raum |
+| Nordfriesland | Ländlicher Raum |
+| Ostholstein | Ländlicher Raum |
+| Pinneberg | Städtischer Raum |
+| Plön | Ländlicher Raum |
+| Rendsburg-Eckernförde | Ländlicher Raum |
+| Schleswig-Flensburg | Ländlicher Raum |
+| Segeberg | Ländlicher Raum |
+| Steinburg | Ländlicher Raum |
+| Stormarn | Städtischer Raum |
+| Thüringen |
+| Altenburger Land | Ländlicher Raum |
+| Eichsfeld | Ländlicher Raum |
+| Eisenach, Stadt | Ländlicher Raum |
+| Erfurt, Stadt | Städtischer Raum |
+| Gera, Stadt | Städtischer Raum |
+| Gotha | Ländlicher Raum |
+| Greiz | Städtischer Raum |
+| Hildburghausen | Ländlicher Raum |
+| Ilm-Kreis | Ländlicher Raum |
+| Jena, Stadt | Städtischer Raum |
+| Kyffhäuserkreis | Ländlicher Raum |
+| Nordhausen | Ländlicher Raum |
+| Saale-Holzland-Kreis | Ländlicher Raum |
+| Saale-Orla-Kreis | Ländlicher Raum |
+| Saalfeld-Rudolstadt | Ländlicher Raum |
+| Schmalkalden-Meiningen | Ländlicher Raum |
+| Sömmerda | Ländlicher Raum |
+| Sonneberg | Ländlicher Raum |
+| Suhl, Stadt | Ländlicher Raum |
+| Unstrut-Hainich-Kreis | Ländlicher Raum |
+| Wartburgkreis | Ländlicher Raum |
+| Weimar, Stadt | Städtischer Raum |
+| Weimarer Land | Städtischer Raum |
