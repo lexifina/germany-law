@@ -58,6 +58,7 @@
 | § 38 | Rechte aus dem eingetragenen Design und Schutzumfang |
 | § 39 | Vermutung der Rechtsgültigkeit |
 | § 40 | Beschränkungen der Rechte aus dem eingetragenen Design |
+| § 40a | Reparaturklausel |
 | § 41 | Vorbenutzungsrecht |
 | Abschnitt 8 |
 |  | Rechtsverletzungen |

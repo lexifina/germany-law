@@ -24,10 +24,12 @@
 
 ## Kapitel 3 Verfahrensvorschriften
 
-- [§ 12 Anspruchsdurchsetzung, Veröffentlichungsbefugnis, Streitwertminderung](0012.md)
-- [§ 13 Sachliche Zuständigkeit](0013.md)
-- [§ 14 Örtliche Zuständigkeit](0014.md)
+- [§ 12 Einstweiliger Rechtsschutz; Veröffentlichungsbefugnis; Streitwertminderung](0012.md)
+- [§ 13 Abmahnung; Unterlassungsverpflichtung; Haftung](0013.md)
+- [§ 13a Vertragsstrafe](0013a.md)
+- [§ 14 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung](0014.md)
 - [§ 15 Einigungsstellen](0015.md)
+- [§ 15a Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs](0015a.md)
 
 ## Kapitel 4 Straf- und Bußgeldvorschriften
 

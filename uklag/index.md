@@ -12,8 +12,12 @@ bei Allgemeinen Geschäftsbedingungen](0001.md)
 - [§ 2b Missbräuchliche Geltendmachung von Ansprüchen](0002b.md)
 - [§ 3 Anspruchsberechtigte Stellen](0003.md)
 - [§ 3a Anspruchsberechtigte Verbände nach § 2a](0003a.md)
-- [§ 4 Qualifizierte Einrichtungen](0004.md)
-- [§ 4a Unterlassungsanspruch bei innergemeinschaftlichen Verstößen](0004a.md)
+- [§ 4 Liste der qualifizierten Einrichtungen](0004.md)
+- [§ 4a Überprüfung der Eintragung](0004a.md)
+- [§ 4b Berichtspflichten und Mitteilungspflichten](0004b.md)
+- [§ 4c Aufhebung der Eintragung](0004c.md)
+- [§ 4d Verordnungsermächtigung](0004d.md)
+- [§ 4e Unterlassungsanspruch bei innergemeinschaftlichen Verstößen](0004e.md)
 
 ## Abschnitt 2 Verfahrensvorschriften
 
@@ -51,7 +55,10 @@ nach § 2
 
 - [§ 15 Ausnahme für das Arbeitsrecht](0015.md)
 
-## Abschnitt 6 Überleitungsvorschriften
+## Abschnitt 6 Bußgeldvorschriften
 
-- [§ 16 Überleitungsvorschrift zum Gesetz zur Umsetzung der Richtlinie über alternative Streitbeilegung in Verbraucherangelegenheiten und zur Durchführung der Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten](0016.md)
-- [§ 17 Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts](0017.md)
+- [§ 16 Bußgeldvorschriften](0016.md)
+
+## Abschnitt 7 Überleitungsvorschriften
+
+- [§ 17 Überleitungsvorschriften zu dem Gesetz zur Stärkung des fairen Wettbewerbs](0017.md)

@@ -26,10 +26,11 @@
 | § 13 | Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung |
 | § 14 | Elektronisches Melde- und Informationssystem; Verordnungsermächtigung |
 | § 15 | Anpassung der Meldepflicht an die epidemische Lage |
+| § 15a | Durchführung der infektionshygienischen und hygienischen Überwachung |
+|  |  |
 |  |
 | 4. Abschnitt - Verhütung übertragbarer Krankheiten |
 |  |
-| § 15a | Durchführung der infektionshygienischen und hygienischen Überwachung |
 | § 16 | Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten |
 | § 17 | Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung |
 | § 18 | Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen |

@@ -8,7 +8,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Kennzeichnung der Nennfüllmenge](0003.md)
 
-## Abschnitt 2 Fertigpackungen gleicher Nennfüllmenge mit Kenn- zeichnung nach Gewicht oder Volumen
+## Abschnitt 2 Fertigpackungen gleicher Nennfüllmenge mit Kennzeichnung nach Gewicht oder Volumen
 
 - [§ 4 Allgemeine Vorschriften bei Kennzeichnung nach Gewicht oder Volumen](0004.md)
 - [§ 5 Abtropfgewicht](0005.md)

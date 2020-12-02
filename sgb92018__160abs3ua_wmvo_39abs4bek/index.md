@@ -1,1 +1,4 @@
 # Bekanntmachung über die Anpassung der Ausgleichsabgabe (§ 160 Absatz 3 des Neunten Buches Sozialgesetzbuch [SGB IX]), der Eigenbeteiligung für die unentgeltliche Beförderung (§ 228 Absatz 2 Satz 2 SGB IX), der übernahmefähigen Kinderbetreuungskosten (§ 74 Absatz 3 Satz 3 SGB IX) und der Finanzierung der Werkstatträte Deutschland (§ 39 Absatz 4 Satz 1 der Werkstättenmitwirkungsverordnung)
+
+- [(XXXX)](xxxx.md)
+- [Schlussformel](schlussformel.md)

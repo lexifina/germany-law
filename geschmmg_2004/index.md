@@ -66,6 +66,7 @@
 - [§ 38 Rechte aus dem eingetragenen Design und Schutzumfang](0038.md)
 - [§ 39 Vermutung der Rechtsgültigkeit](0039.md)
 - [§ 40 Beschränkungen der Rechte aus dem eingetragenen Design](0040.md)
+- [§ 40a Reparaturklausel](0040a.md)
 - [§ 41 Vorbenutzungsrecht](0041.md)
 
 ## Abschnitt 8 Rechtsverletzungen
