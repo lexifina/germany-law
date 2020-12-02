@@ -1,0 +1,93 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-12-02T17:00:00+01:00
+- Ende: 2020-12-02T19:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19009
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19009
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digSitzungspaket_BV6_02-12-2020_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392934.pdf
+- Ergebnisprotokoll: digSitzungspaket_BV6_02-12-2020_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392934.pdf
+- Wortprotokoll: digSitzungspaket_BV6_02-12-2020_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00392934.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers / einer Schriftführerin - einstimmig beschlossen
+- TOP 2: Festlegung der Zahl der Stellvertreter / Stellvertreterinnen des Bezirksbürgermeisters / der Bezirksbürgermeisterin
+- TOP 3: Wahl des Bezirksbürgermeisters / der Bezirksbürgermeisterin und der Stellvertreter
+- TOP 4: Verpflichtung des Bezirksbürgermeisters / der Bezirksbürgermeisterin
+- TOP 5: Verpflichtung der stellvertretenden Bezirksbürgermeister / Bezirksbürgermeisterinnen sowie der übrigen Mitglieder der Bezirksvertretung 6
+- TOP 6: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 7: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 8: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 9: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 9. September 2020 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Flächennutzungsplanänderung Nr. 188 (Entwurf - Theodorstraße: Verlagerung Bau- und Gartenfachmarkt - Empfehlung einstimmig beschlossen
+- TOP 12: Genehmigung einer Dringlichkeitsentscheidung - Flächennutzungsplanänderung Nr. 188 (Entwurf) - Theodorstraße: Verlagerung Bau- und Gartenfachmarkt - einstimmig beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 06/007 - Theodorstraße/Am Hülserhof - Empfehlung einstimmig beschlossen
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung - Bebauungsplan-Entwurf Nr. 06/007 - Theodorstraße/Am Hülserhof - Stellungnahmen, Änderung, erneute öffentliche Auslegung - einstimmig beschlossen
+- TOP 15: Ausführungs- und Finanzierungsbeschluss für das Projekt Neubau Jugendverkehrsschule, Rather Broich 137 - Empfehlung einstimmig beschlossen
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung - Ausführungs- und Finanzierungsbeschluss für das Projekt Neubau Jugendverkehrsschule, Rather Broich 137 - einstimmig beschlossen
+- TOP 17: B-Plan 06/018 Theodorstraße - zwischen A52 und Wahlerstraße - vertagt
+- TOP -: Anfragen (aus vorherigen Sitzungen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspiel in Mörsenbroich - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Anfrage der CDU-Fraktion: Baumaßnahmen auf der Eitelstraße/Auf der Reide - beantwortet
+- TOP 24: Anfrage der SPD-Fraktion: Umzugstermin der Jugendfreizeitstätte "Blue Rock"
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 27: Interfraktionelle Anfrage: Anfrage zur Flüchtlingsunterkunft Lichtenbroicher Weg 92
+- TOP -: Verwaltungsvorlagen
+- TOP 28: Sportanlage Sankt-Franziskusstr. 139 - Bau eines Kunstrasenspielfeldes - vertagt
+- TOP 29: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt: Bezirkssportanlage Franz-Rennefeld-Weg - Erneuerung des Kunstrasenbelages - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2020 - Antrag der GGS Wrangelstraße - einstimmig beschlossen
+- TOP 31: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss der Bezirksvertretung 6 aus Verfügungsmitteln 2020 - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2020 Teil B "sonstige Gebäude" - Kinderspielplatz An der Golzheimer Heide - einstimmig beschlossen
+- TOP 33: Genehmigung einer Dringlichkeitsentscheidung - Finanzierung aus Bauunterhaltungsmitteln 2020 - Teil B - "sonstige Gebäude" - einstimmig beschlossen
+- TOP 34: Zuschussvergabe 2020 - Jugendfreizeiteinrichtung Blue Rock - einstimmig beschlossen
+- TOP 35: Genehmigung einer Dringlichkeitsentscheidung - Finanzierung der Bezirksvertretung 6 aus Verfügungsmitteln 2020 - einstimmig beschlossen
+- TOP 36: Zuschussvergabe 2020 - Antrag des Helmut-Gollwitzer-Hauses (Diakonie) - einstimmig beschlossen
+- TOP 37: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss der Bezirksvertretung 6 aus Verfügungsmitteln 2020 - einstimmig beschlossen
+- TOP 38: Zuschussvergabe 2020 - Antrag des Theoclub (SWT e.V.) - Mobiliar Jugendclub - einstimmig beschlossen
+- TOP 39: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss der Bezirksvertretung 6 aus Verfügungsmitteln 2020 - einstimmig beschlossen
+- TOP 40: Bereitstellung von Mitteln für den Jahresempfang 2021 - einstimmig beschlossen
+- TOP 41: Bauunterhaltungsmittel 2020 - laufende Maßnahmen - einstimmig beschlossen
+- TOP 42: Bauunterhaltungsmittel 2020 - Teil B "sonst. Gebäude" Restmittel - abweichend beschlossen
+- TOP 43: Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2021 - einstimmig beschlossen
+- TOP 44: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - Empfehlung mehrheitlich beschlossen
+- TOP 45: Beratung der Entwürfe - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 46: Flächennutzungsplanänderung Nr.196 (Entwurf) - Ehemals Fashion House - zur Kenntnis genommen
+- TOP 47: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
+- TOP 48: Baumersatzpflanzungen - Vorlage BV6/101/2020 - zur Kenntnis genommen
+- TOP 49: Kompensation von Baum- und Waldverlusten in Düsseldorf - Ausgleichsflächen - Vorlage BV6/106/2020 - zur Kenntnis genommen
+- TOP 50: Verkehrsspiegel Bottroper Straße - Vorlage BV6/102/2020 - zur Kenntnis genommen
+- TOP 51: Eindeutige Ausweisung des Radweges und Abstellmöglichkeiten für Fahrräder auf der Westfalenstraße - Vorlage BV6/049/2020 - zur Kenntnis genommen
+- TOP 52: Ausbau Grütersaaper Weg und weiteres Vorgehen - Vorlage BV6/104/2020 - zur Kenntnis genommen
+- TOP 53: Hol- und Bringzone Breisacher Straße - Vorlage BV6/143/2020 - zur Kenntnis genommen
+- TOP 54: Sitzungen der Bezirksvertretung 6 im Jahr 2021 - zur Kenntnis genommen
+- TOP 55: Zuschuss 2020 - Antrag der Elsa-Brandström-Schule zum Präventionsprogramm - einstimmig beschlossen
+- TOP 56: Parksituation auf der Straße Am Gatherhof ab Ende Wahlerstraße bis zur Westfalenstraße - Vorlage BV6/099/2020 - zur Kenntnis genommen
+- TOP 57: Ausgleichspflanzungen der Waldflächen Airport City West vor Ort - Vorlage BV6/103/2020 - zur Kenntnis genommen
+- TOP 58: Verfügungsmittel 2020 - Modellprojekt "Gemeinsam gegen Einsamkeit" der Initiative "hallo nachbar!" - einstimmig beschlossen
+- TOP 59: Verkehrswende umsetzen - Verbesserung für Pendler aus Ratingen und Umgebung - Vorlage BV6/013/2020 - zur Kenntnis genommen
+- TOP 60: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Verkehrsgutachten für den Stadtbezirk 6 - abweichend beschlossen
+- TOP 61: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Sicherheit im wachsenden Stadtbezirk 6 - einstimmig beschlossen
+- TOP 62: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Schaffung eines Hauses für Kinder, Jugendliche und Familien in Düsseldorf-Rath (Nähe Sozialraum 623) - abweichend beschlossen
+- TOP 63: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 64: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Beleuchtung in der Grünanlage an der Sankt-Franziskus-Straße - einstimmig beschlossen
+- TOP 65: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Nördlicher Zubringer 3. Fahrspur stadteinwärts - mehrheitlich beschlossen
+- TOP 66: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Anschluss der K3n an die A 44 - mehrheitlich beschlossen
+- TOP 67: Antrag der CDU-Fraktion Haushalt 2021 - Bürgersaal Rath - einstimmig beschlossen
+- TOP 68: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Überplanung der Unterrather Straße/Kalkumer Straße - einstimmig beschlossen
+- TOP 69: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Umrüstung der Beleuchtungsanlagen öffentlicher Einrichtungen im Stadtbezirk 6 auf LED - einstimmig beschlossen
+- TOP 70: Antrag der CDU-Fraktion und der FDP-Fraktion Haushalt 2021 - Sauberkeit im wachsenden Stadtbezirk 6 - einstimmig beschlossen
+- TOP 71: Antrag der Fraktion BÜ90/Die Grünen Haushalt 2021 - Bezirksradwegenetz/Radhauptnetz Knoten im Stadtbezirk 6 - mehrheitlich abgelehnt
+- TOP 72: Antrag der Fraktion BÜ90/Die Grünen Haushalt 2021 - Bereitstellung von Mitteln für die Anlage eines Bolzplatzes in Lichtenbroich - einstimmig beschlossen
