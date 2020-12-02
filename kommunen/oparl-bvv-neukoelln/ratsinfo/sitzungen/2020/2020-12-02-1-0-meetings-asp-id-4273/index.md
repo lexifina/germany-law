@@ -1,0 +1,107 @@
+# Fortsetzung der 52. öffentlichen Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2020-12-02T17:05:00+01:00
+- Ende: 2020-12-02T20:03:00+01:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4273
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4273
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Albert-Einstein-Gymnasium: Baumaßnahme: Aufstellung Container; Abriss MURR;Vorbereiten, Aufstellung HoMEBs - beantwortet
+- TOP 1.2: Verzögerung der Baumaßnahmen am Albert-Einstein-Gymnasium seit >7 Jahren - beantwortet
+- TOP 1.3: Albert-Einstein-Gymnasium: Verzögerung dringend notwendiger Baumaßnahmen - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - (offen)
+- TOP 4: Entschließungen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Neutralitätsklausel bei Zuwendungsbescheiden - in der BVV abgelehnt
+- TOP 9.2: Verbindliches Solarausbauziel für Neukölln festlegen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Fahrradfreundlicher Arbeitgeber - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Energiesparende LED-Röhren in den BVV-Saal - in der BVV abgelehnt
+- TOP 9.5: Automatische E-Mailbestätigung im BVV-Büro einrichten - in der BVV abgelehnt
+- TOP 9.6: Flagge zeigen für eine atomwaffenfreie Welt am 8. Juli: Neukölln wird Teil des „Mayors for Peace“-Netzwerks - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sicherer Schulweg über die Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Straßenschäden Waßmannsdorfer Chaussee - in der BVV abgelehnt
+- TOP 9.9: Buschkrugallee am Teltowkanal sicher überqueren - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Kreuzung Hermann-/Flughafenstraße für Radverkehr sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Sperrung Boddinplatz (Umfahrung) - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 9.13: Problemimmobilien im Richard- und Körnerkiez - beantwortet
+- TOP 9.14: Neutralitätsgebot bei VHS-Kursen - beantwortet
+- TOP 9.15: Alternativen für Laubbläser - in der BVV abgelehnt
+- TOP 9.16: Inklusion auf Spielplätzen! - in der BVV abgelehnt
+- TOP 9.17: Handeln gegen das Bienensterben und Insektensterben – Grünflächen mit Insektenhotels ausstatten - in der BVV abgelehnt
+- TOP 9.18: Potenzialanalyse für mehr Grün in Nordneukölln - vertagt
+- TOP 9.19: MUF-Neubau stoppen - vertagt
+- TOP 9.20: Berlinovo Zweckentfremdung? - vertagt
+- TOP 9.21: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - vertagt
+- TOP 9.22: BVV live und archiviert im Internet - vertagt
+- TOP 9.23: Sondernutzung öffentlicher Flächen an touristischen Hotspots - vertagt
+- TOP 9.24: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - vertagt
+- TOP 9.25: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - vertagt
+- TOP 9.26: Köpenicker Straße und Prierosser Straße entlasten - vertagt
+- TOP 9.27: Einbahnstraße Prierosser - vertagt
+- TOP 9.28: Parkraumkonzept für Rudow - vertagt
+- TOP 9.29: Eichenquast Tempo 30 - vertagt
+- TOP 9.30: Bordsteinabsenkung und sichere Querung in der Britzkestraße - vertagt
+- TOP 9.31: Fußgänger-Querungshilfen an Sonnenallee - vertagt
+- TOP 9.32: Fahrverbote in der Silbersteinstraße aufheben - vertagt
+- TOP 9.33: Digitalisierung der Jugendarbeit in Neukölln - vertagt
+- TOP 9.34: Umweltgerechtigkeit – Monitoring und Umsetzung in Neukölln - vertagt
+- TOP 9.35: Zero-emissions-Sportfelder und -hallen - vertagt
+- TOP 9.36: Fachkonferenz im Kinder- und Jugendbereich „Pandemie gemeinsam meistern“ - vertagt
+- TOP 9.37: Mehr Parkbänke am Fennpfuhl - vertagt
+- TOP 9.38: Entweder oder! Betreten der Rasenfläche verboten oder nicht? - vertagt
+- TOP 9.39: Neuköllner Ehrengrabstätten in besseren Zustand versetzen - vertagt
+- TOP 9.40: Jakobsweg in Neukölln ausschildern - vertagt
+- TOP 9.41: Partnerschaft mit Boulogne-Billancourt bei Paris vertiefen - vertagt
+- TOP 9.42: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - vertagt
+- TOP 9.43: Earth Hour - vertagt
+- TOP 9.44: Unterstützung des linksextremistischen Kollektivs „K-Fetisch“ sofort beenden - vertagt
+- TOP 9.45: Bewohnerschaft von Problemimmobilien im Richard- und Körnerkiez unterstützen - vertagt
+- TOP 9.46: Planung für die Umgestaltung des Karl-Marx-Platzes anpassen - vertagt
+- TOP 9.47: Rücknahme der Reinigungsklasse Prierosser Straße - vertagt
+- TOP 9.48: Schulwegsicherung Peter-Petersen-Schule - vertagt
+- TOP 9.49: Verlegung Taxistand von der Waltersdorfer Chaussee - vertagt
+- TOP 9.50: Pop-up-Radwege für Neukölln - vertagt
+- TOP 9.51: PopUp-Radweg Blaschkoallee - vertagt
+- TOP 9.52: Fahrradstreifen/ Fußgängerstreifen in der Wildenbruchstaße auf dem Bürgersteig ändern! - vertagt
+- TOP 9.53: Bürgersteig auf der nördlichen Seite der Blaschkoallee sanieren! - vertagt
+- TOP 9.54: Gehwegparken im Grüner Weg zulassen - vertagt
+- TOP 9.55: Mund-Nasen-Schutzpflicht an Neuköllner Schulen abschaffen - vertagt
+- TOP 9.56: Neukölln – Der Platz für Kinderrechte! - vertagt
+- TOP 9.57: Künstlern Auftritte ermöglichen! - vertagt
+- TOP 9.58: Termine in den Bürgerämtern - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Ausbildungskapazitäten im Bezirk ausweiten - vertagt
+- TOP 10.2: Arbeit der Neuköllner Gleichstellungsbeauftragten absichern - vertagt
+- TOP 10.3: Fassadenreinigung für Kinderprojekt Reuterplatz durchführen - vertagt
+- TOP 10.4: Testvolumen für SARS-CoV-2 massiv ausweiten - vertagt
+- TOP 10.5: Öffentlichen Gesundheitsdienst besser auf epidemische Lagen vorbereiten und auch langfristig nach der Pandemie strukturell stärken - vertagt
+- TOP 10.6: Intensivbetten für Phantompatienten in einer Phantom-Pandemie - vertagt
+- TOP 10.7: Bezirkliche Wochen für Rückkehrer - vertagt
+- TOP 10.8: Microhubs am Karstadt Hermannplatz - vertagt
+- TOP 10.9: Vorkauf im Kauffall Heimstaden wahrnehmen - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Gewaltprävention in Neukölln - vertagt
+- TOP 11.2: Klimaschutzbeauftragten - vertagt
+- TOP 11.3: Pflegekonzepte für Stillgewässer und deren Umgebung - vertagt
+- TOP 11.4: Coronaeindämmungsmaßnahmen und deren Ermächtigungsgrundlage - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Ist das Gesundheitsamt Neukölln auf den „Corona-Winter“ vorbereitet? - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Kostenfreier Eintritt zum "Rixdorfer Weihnachtsmarkt" auf dem Buga-Gelände - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Verpackungsmüll - vertagt
