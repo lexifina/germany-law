@@ -1,0 +1,61 @@
+# Zentraler Betriebsausschuss (1. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-12-02T16:37:00+01:00
+- Ende: 2020-12-02T18:36:00+01:00
+- Ort: Technische Betriebe Solingen, Dültgenstaler Straße 61, 42719 Solingen, Haus H, Aufenthaltsraum UG
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW9XhP4Wh0obP54Ldvobrmc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5884
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaL70lMLIeP0A-YN6GNXdPvnz3ybG8zF1mGcQmMgeKR7/Bekanntmachung_Zentraler_Betriebsausschuss_02.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbxnEFo1QrSnc9mMTJfavLI6izSReGEilahA7X7k7G7h/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_02.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Reinigungsdienst des Dienstleistungsbetriebs Gebäude der Stadt Solingen (DBSG) -Zusatzfragen zu Vorlage 7053/2020-
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Bestellung eines Schriftführers für den Zentralen Betriebsausschuss
+- TOP 4.: Protokoll über die 26. Sitzung des zentralen Betriebsausschusses am 16.09.2020
+- TOP 5.: Informationen zu den Technischen Betrieben Solingen
+- TOP 6.: Quartalsbericht 3. Quartal 2020 der Technischen Betriebe Solingen
+- TOP 7.: Quartalsbericht 3. Quartal 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 8.: Quartalsbericht 3. Quartal 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 9.: II. Änderung der Betriebssatzung für den Dienstleistungsbetrieb Gebäude der Stadt Solingen
+- TOP 10.: Wirtschaftsplan 2021 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 11.: III. Änderung der Betriebssatzung für die Technischen Betriebe Solingen
+- TOP 12.: Gebührenbedarfsberechnung 2021
+- TOP 13.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 14.: IV. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 15.: VI. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 16.: VI. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 17.: II. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 18.: II. Änderungssatzung der Friedhofssatzung
+- TOP 19.: Neufassung Friedhofsgebührensatzung
+- TOP 20.: Wirtschaftsplan 2021 der Technischen Betriebe Solingen
+- TOP 21.: Wirtschaftsplan 2021 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen des Betriebes
+- TOP 22.1.1: Sachstand Bürgerbefragung
+- TOP 22.2: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 26. Sitzung des zentralen Betriebsausschusses am 16.09.2020
+- TOP 4.: Quartalsbericht 3. Quartal 2020 der Entsorgung Solingen GmbH
+- TOP 5.: Quartalsbericht 3. Quartal 2020 der Solinger Bädergesellschaft
+- TOP 6.: Wirtschaftsplan 2021 der Entsorgung Solingen GmbH
+- TOP 7.: Wirtschaftsplan 2021 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 8.: Änderung der Geschäftsordnung für die Geschäftsführung der Entsorgung Solingen GmbH
+- TOP 9.: Änderung der Geschäftsordnung der Gesellschafterversammlung der Entsorgung Solingen GmbH
+- TOP 10.: Benennung eines Vertreters des Geschäftsführers der Entsorgung Solingen GmbH
+- TOP 11.: Platzhofstraße Retentionsraum und Regenüberlauf
+- TOP 12.: Auftragsvergabe Kanalbau Hästener Weg
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen des Betriebes
+- TOP 13.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum 16.08.2020 - 31.10.2020
+- TOP 13.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 13.2: Anfragen an den Betrieb
