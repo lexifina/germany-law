@@ -1,0 +1,69 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-12-02T16:15:00+01:00
+- Ende: 2020-12-02T19:31:00+01:00
+- Ort: Geänderter Sitzungsort! Schützenhaus Flinger Broich 3
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18869
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18869
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393284.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393284.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393284.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/07/2020 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Machbarkeitsstudie Ratinger Weststrecke - mündliche Information - zur Kenntnis genommen
+- TOP 6: Bezirklicher Bauunterhalt Stadtbezirk 2 - Schulbaumaßnahmen - einstimmig beschlossen
+- TOP 7: Anschaffung Raumlüftungsgeräte - abweichend beschlossen
+- TOP 8: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - mehrheitlich beschlossen
+- TOP 9: Widmung von Straßen - mündlicher Bericht - zur Kenntnis genommen
+- TOP 10: Haushaltsplanentwurf 2021 - Bezirksbezogene Haushaltsansätze 2021 - zur Kenntnis genommen
+- TOP 10.1: Hitzeschutz - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2021 - einstimmig beschlossen
+- TOP 10.2: Ortsumgehung Flingern 2. Bauabschnitt - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2021 - mehrheitlich abgelehnt
+- TOP 10.3: Schillerplatz 2. Bauabschnitt - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2021 - einstimmig beschlossen
+- TOP 10.4: Sicherheit und Sauberkeit in der wachsenden Stadt - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2021 - abweichend beschlossen
+- TOP 10.5: Planungsmittel für die Errichtung eines Fahrrad-Parkhauses im Stadtbezirk 2 - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 10.6: Endausbau Flinger Broich - Haushaltsbegleitantrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 11: Bezirksbezogene Haushaltsmittel für Nistkästen auf dem Stangenspielplatz auf der Flurstraße 32 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 12: Zuwendungsantrag der Spielplatzpaten Flurstraße 32 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 13: Zweckbindung und Übertragung von bezirksbezogenen Haushaltsmitteln - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 14: Bezirksbezogene Bauunterhaltungsmittel für das Projekt Vielplatz - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 15: Geschwindigkeitsanzeigetafeln an der Bruchstraße -Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 16: Platz bzw. Mittelinsel Kreisverkehr Humboldtstraße/Ecke Schumannstraße - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 17: Fußgängerampeln an der Achenbachstraße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 18: Installation von Fahrradbügeln an der Ecke Grafenberger Allee/Dorotheenstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 19: Geschwindigkeitsmessung an der südlichen Hoffeldstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 20: Umgesetzte und geplante Maßnahmen zum Ausbau des Radhauptwegenetz im Stadtbezirk - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 21: Wegeverbindung Stadtwerkepark / Behrenstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 22: Entwicklung von Grün- und Freiflächen im Stadtbezirk - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 23: Einrichtung eines Blühstreifens an der Grafenberger Allee - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich abgelehnt
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: öffentliche Ausstellungen in der Bezirksverwaltungsstelle - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 29: Fehlende Fußgängerampel im Kreuzungsbereich Grafenberger Allee/Cranachstraße/Hans–Sachs–Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 30: Bordsteinabsenkung Schwabstraße/Bruchstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 31: Kreuzung Werdener Straße/Fichtenstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 32: Beleuchtung Bolzplatz Hermannplatz - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP -: Anfragen
+- TOP 33: Gefahrenstelle Werdener Straße / Fichtenstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Ladesäuleninfrastruktur für Elektrofahrzeuge - Anfrage der FDP-Fraktion
+- TOP 36: Gleisanlage beginnend südlich der Birkenstraße 1 - Anfrage der FDP-Fraktion
+- TOP 37: Ausbau der Fahrradabstellmöglichkeiten im Zuge der Verkehrswende - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 38: Identifizierung zusätzlicher Potenziale für die Installation von Solaranlagen auf Gebäuden in städtischem Besitz im Stadtbezirk 2 – Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 39: Schäden durch anhaltende Hitze- und Dürreperioden im Stadtbezirk 2 - Anfrage von Philipp Schlee
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlage
+- TOP 42: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
