@@ -1,0 +1,8 @@
+# TOP 7.: Aktuelle Informationen zur Windenergie
+
+- Sitzung: Ausschuss für Bauen, Planen und Umwelt (1. Sitzung) (2020-12-03)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10973
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5378
+- Beschluss (Datei): Infotext (Aktuelle Informationen zur Windenergie) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdX-2hmMPptSEx4HzevreuNxAX71nbLcv8NHQ4t4JI-i/Infotext_2020_-_167_-oeffentlich-_Ausschuss_fuer_Bauen-_Planen_und_Umwelt_03.12.2020.pdf
