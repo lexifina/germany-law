@@ -1,0 +1,84 @@
+# 2. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-03T17:00:00+01:00
+- Ende: 2020-12-03T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21836
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21836
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradparken Neusser Straße in Köln-Nippes (Az.: 02-1600-114/20) - geändert beschlossen
+- TOP -: Bürgereingabe gem. § 24 GO, betr. Fahrradparken Neusser Straße iin Köln-Nippes (Az.: 02-1600-114/20) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Baubeschluss für die Umgestaltung der Jesuitengasse im Bereich zwischen Amboßstraße und Schmiedegasse - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Aktueller Stand des WLAN-Ausbaus an Bahnhöfen - zurückgestellt
+- TOP 7.2.2: Baubeschluss für die Umgestaltung der Jesuitengasse im Bereich zwischen Amboßstraße und Schmiedegasse - Kenntnis genommen
+- TOP 7.2.3: Mit Mülltonnen zugestellte Ladezonen in Nippes - zurückgestellt
+- TOP 7.2.4: Bäume auf der Kempener Straße - zurückgestellt
+- TOP 7.2.5: Bekämpfung der Coronapandemie im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.6: Kreisverkehre im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.7: Tempo 30 in den Stadtteilen Nippes und Mauenheim - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Wanderbaumallee für den Bezirk Nippes - ungeändert beschlossen
+- TOP 8.1.2: Fahrradnadeln - geändert beschlossen
+- TOP 8.1.3: Nördlicher Zugang zur Bezirkssportanlage Weidenpesch - geändert beschlossen
+- TOP 8.1.4: Errichtung eines Kreisverkehrsplatzes an der Kreuzung Scheibenstraße/Sebastianstraße in Köln-Niehl - ungeändert beschlossen
+- TOP 8.1.5: Lokalen Einzelhandel effizient fördern, Fahrradinfrastruktur stärken und Gehwege entlasten - ungeändert beschlossen
+- TOP 8.1.6: Öffnung von Einbahnstraßen für den Radverkehr - ungeändert beschlossen
+- TOP 8.1.7: Eingang zur Grünfläche Schmiedegasse „Maria im Grünen“ erneuern - ungeändert beschlossen
+- TOP 8.1.8: Toilettenanlage für die Rollschuh- und Skateboardbahn in der Bezirkssportanlage - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Erstellung einer Machbarkeitsstudie über die Öffnung der HGK-Trasse von Frechen bis Niehl („Klüttenbahn“) für den Öffentlichen Personen Nahverkehr - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung von Teilstücken der Feldgärtenstraße in Köln-Niehl - ungeändert beschlossen
+- TOP 9.1.2: Einrichtung einer Fahrradstraße in der Etzelstraße und Müngersdorfer Straße - zurückgestellt
+- TOP -: Einrichtung einer Fahrradstraße in der Etzelstraße und Müngersdorfer Straße - zurückgestellt
+- TOP 9.1.3: Aufwertung des Kriegerplatzes in Köln-Longerich - geändert beschlossen
+- TOP -: Aufwertung des Kriegerplatzes - ungeändert beschlossen
+- TOP 9.1.4: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - geändert beschlossen
+- TOP -: Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße - ungeändert beschlossen
+- TOP -: Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße - ungeändert beschlossen
+- TOP -: Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an den Niehler Bürgerverein - ungeändert beschlossen
+- TOP 9.1.6: Förderung der Sachausstattung von Bürgervereinen - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an MARIE e.V. - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die Sozialraumkoordination Bilderstöckchen - zurückgestellt
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an die Nippeser Bürgerwehr - ungeändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an den VCD Regionalverband Köln e.V. - geändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an die Theatergruppe Ost.Brise - geändert beschlossen
+- TOP 9.1.12: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an das Atelier Art Space - geändert beschlossen
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an die Lohserampe e.V. - zurückgestellt
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an das Kulturforum Türkei Deutschland e.V. - ungeändert beschlossen
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an den Verein für Nippes - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sperrung der Zufahrt der sogenannten KVB-Straße in Niehl - Kenntnis genommen
+- TOP 10.2.2: LKW Parkplätze auf der Bremerhavener Straße in Niehl Anfrage AN 1041/2020 der SPD Fraktion - Kenntnis genommen
+- TOP 10.2.3: Behausungsboxen für Obdachlose unterhalb der Hochbahn am Parkgürtel - Kenntnis genommen
+- TOP 10.2.4: Baumfällungen an der Wendeschleife der Linien 12 und 147 - Kenntnis genommen
+- TOP 10.2.5: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 10.2.6: AN/1071/2020 Abfallproblem Weidenpesch - Kenntnis genommen
+- TOP 10.2.7: Fahrradzone Clouth Quartier - Kenntnis genommen
+- TOP 10.2.8: Generalinstandsetzung der Friedrich-Karl-Straße in Abschnitten zwischen Hausnummer 224-236 und 238-270, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushalts - Kenntnis genommen
+- TOP 10.2.9: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.11: Sitzungstermine der Bezirksvertretung Nippes im Jahre 2021 - Kenntnis genommen
