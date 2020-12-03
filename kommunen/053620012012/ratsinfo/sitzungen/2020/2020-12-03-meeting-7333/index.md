@@ -1,0 +1,53 @@
+# Ausschuss für Bauen, Umwelt und Klimaschutz (1. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-12-03T18:00:00+01:00
+- Ende: 2020-12-03T19:17:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-292
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWj4ynaGnaMD-2krFpjKPrk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7333
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbBbAxOdxbcDo1Wo9unw2L4Io-hEyH3Y7DLSxTuuH1_6/Bekanntmachung_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_03.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZjagfSKjS4fDCqSkWNUl-1obvK1a0Hn877eA8PT7AU/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_03.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom AfBU vom 13.08.2020
+- TOP 2.: Umweltkommission 2021 und Folgejahre hier: Benennung des/der Vorsitzenden und der Mitglieder Bezug: AfBU vom 23.09.2014, Vorlage-Nr. 296/2014, TOP 4
+- TOP 3.: Anträge auf Baumfällungen Bezug: Baumfällanträge und Umweltkommission am 05.11.2020 - (kein Text vorhanden)
+- TOP 3.1: Anträge auf Baumfällungen Ergänzungen / Nachmeldungen Bezug: Vorlage Nr. 490/2020 - (kein Text vorhanden)
+- TOP 4.: Kanal- und Straßenbaumaßnahme in den Straßen Theodor-Körner-Straße und der Freiherr-vom-Stein-Straße - (kein Text vorhanden)
+- TOP 5.: Abwassergebührenkalkulation 2021
+- TOP 6.: 11.Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl Bezug: Vorlage 485/2020 - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 7.1.1: Rosenhof / Sophie-Scholl-Straße: Endausbau, Schlammfang
+- TOP 7.1.2: Am Krausen Baum: Straßen- und Kanalbaumaßnahme
+- TOP 7.1.3: Bespielbare und besitzbare Stadt
+- TOP 7.1.4: Deckenbaumaßnahmen im Stadtgebiet
+- TOP 7.1.5: Bundesbahnhof: Rampe
+- TOP 7.1.6: Rathaus B: Pumpwerk am Janshof
+- TOP 7.1.7: Kläranlage: 4. Reinigungsstufe
+- TOP 7.1.8: Alte Bonnstraße / Otto-Wels-Straße: Erschließungsgebiet
+- TOP 7.1.9: Bonnstraße: Erschließungsgebiet
+- TOP 7.1.10: Unter dem Dorf: Erschließungsgebiet
+- TOP 7.1.11: Pehler Feldchen: Erschließungsgebiet
+- TOP 7.1.12: Geildorfer Feld: Erschließungsgebiet
+- TOP 7.1.13: Gallbergsiedlung / Ferdinand-Krausen-Weg: Erschließungsgebiet
+- TOP 7.1.14: Sechtemer Straße: Erschließungsgebiet
+- TOP 7.2: Straßen- und Wegekonzept
+- TOP 8.: Anfragen
+- TOP 8.1: Versiegelungen im Stadtgebiet
+- TOP 8.2: Rückhaltebecken Auf der Pehle: Neuanpflanzungen
+- TOP 8.3: Schwadorfer Feld: Abstände beim Einsatz von Pestiziden
+- TOP 8.4: Gartenbeleuchtungen
+- TOP 8.5: Essbare Stadt
+- TOP 8.6: Römerstraße: Pfützenbildungen
+- TOP 8.7: Kaiserstraße 38, Erscheinungsbild
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen
+- TOP 10.1: Illegales Diesellager
