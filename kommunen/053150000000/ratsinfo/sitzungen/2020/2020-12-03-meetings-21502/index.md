@@ -1,0 +1,55 @@
+# 2. konstituierende Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-03T14:07:00+01:00
+- Ende: 2020-12-03T19:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21502
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21502
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00794827.pdf
+- Ergebnisprotokoll: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00794827.pdf
+- Wortprotokoll: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00794827.pdf
+
+## Tagesordnung
+
+- TOP 1: Aus der 1. konstituierenden Sitzung zurückgestellte Vorlagen
+- TOP 1.1: Festlegung der Anzahl und Bezeichnung der Ausschüsse - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, Die Linke., FDP und Volt - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. und der Gruppen KLIMA FREUNDE und Die PARTEI - endgültig abgelehnt
+- TOP 1.2: Festlegung der Anzahl der stimmberechtigten Ausschussmitglieder - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, Die Linke., FDP und Volt - ungeändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 1.3: Festlegung der Anzahl der sachkundigen Einwohnerinnen und Einwohner in den Ausschüssen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, Die Linke., FDP und Volt - ungeändert beschlossen
+- TOP 1.4: Festlegung der Anzahl der Stellvertreterinnen bzw. Stellvertreter der bzw. des Ausschussvorsitzenden - ungeändert beschlossen
+- TOP 1.5: Zuteilung der Ausschussvorsitze und der stellvertretenden Ausschussvorsitze - ungeändert beschlossen
+- TOP 2: Bildung der Fachausschüsse und des Integrationsrates
+- TOP 2.1: Wahl und Bestellung von Ausschussmitgliedern; hier: I) Stimmberechtigte Mitglieder; II) Beratende Mitglieder gemäß § 58 Absatz. 1 Sätze 7 - 10 GemeindeordnungO NRW - geändert beschlossen
+- TOP 2.2: Namentliche Benennung der Ausschussvorsitzenden und der stellvertretenden Ausschussvorsitzenden - ungeändert beschlossen
+- TOP 2.3: Bildung des Jugendhilfeausschusses
+- TOP 2.3.1: Neubesetzung des Jugendhilfeausschusses (JHA) - stimmberechtigte Mitglieder - ungeändert beschlossen
+- TOP 2.3.2: Besetzung des Jugendhilfeausschusses (JHA) - beratende Pflichtmitglieder - ungeändert beschlossen
+- TOP 2.3.3: Besetzung des Jugendhilfeausschusses (JHA) - weitere beratende Mitglieder - geändert beschlossen
+- TOP -: Änderungsantrag Fraktion Bündnis 90/Die Grünen, SPD, CDU, Die Linke.und FDP - ungeändert beschlossen
+- TOP 2.4: Benennung und Wahl beratender Mitglieder in den Ausschüssen
+- TOP 2.4.1: Wahl der sachkundigen Einwohnerinnen und Einwohner in den Ausschüssen gemäß Ratsbeschluss vom 05.11.2020 - zurückgestellt
+- TOP 2.4.2: Bestellung weiterer sachkundiger Einwohnerinnen und Einwohner - ungeändert beschlossen
+- TOP 2.4.3: Berufung von Mitgliedern mit beratender Stimme in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 2.4.4: Festlegung der Anzahl der Ausschüsse für fraktionslose Ratsmitglieder gemäß § 58 Absatz 1 Satz 11 und 12 GO NRW - geändert beschlossen
+- TOP -: Änderungsantrag der Gruppen Die PARTEI, KLIMA FREUNDE und GUT - ungeändert beschlossen
+- TOP 2.5: Bestellung der Mitglieder des Rates für den Integrationsrat der Stadt Köln für die Wahlperiode 2020 - 2025 - geändert beschlossen
+- TOP 3: Weitere Gremienbesetzungen
+- TOP 3.1: Bildung der 15. Landschaftsversammlung Rheinland; hier: Wahl der von der Stadt Köln zu entsendenden Mitglieder und Ersatzmitglieder sowie Wahl der Reservelisten - geändert beschlossen
+- TOP 3.2: Wahl des Vorsitzenden des Ältestenrates - ungeändert beschlossen
+- TOP 3.3: Wahl der Mitglieder des Ältestenrates - ungeändert beschlossen
+- TOP 3.4: Wahl von drei Delegierten für die Konferenz der Ratsmitglieder des Städtetag Nordrhein-Westfalens - ungeändert beschlossen
+- TOP 4: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 GO NRW
+- TOP 4.1: Fünfte Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen im Kernbereich Innenstadt - ungeändert beschlossen
+- TOP 4.2: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 4.3: Haushaltsneutrale Umschichtung von Transferaufwendungen 2020 - ungeändert beschlossen
+- TOP 5: Vorlagen zur Vermeidung von Dringlichkeitsentscheidungen
+- TOP 6: Weitere Vorgänge
+- TOP 7: ---
