@@ -1,0 +1,54 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2020-12-03T17:30:00+01:00
+- Ende: 2020-12-03T19:25:00+01:00
+- Ort: Gymnastikhalle Wallenhorst, Fröbelstraße 2, 49134 Wallenhorst, Gymnastikhalle
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZevBX65vAzpvcJIcWvK5vQw
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1400
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf7HPuASsuU7_UCuaITjejRwaA45qg1ufGtQtTP7pgB3/Bekanntmachung_Rat_03.12.2020.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXUysU5ux0KZvgJ8OXFw6g4QPSktsA07FUq5wsItV7sX/Oeffentliches_Beschlussprotokoll_Rat_03.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 08.10.2020
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Abschluss Erschließungsarbeiten Gewerbepark "Schwarzer See"
+- TOP 3.2: Deckensanierung Gemeinde Wallenhorst 2020/21
+- TOP 3.3: Ö
+- TOP 3.4: Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h auf der Hollager Straße vor der Erich-Kästner-Schule
+- TOP 3.5: Corona-Situation in Wallenhorst (Stand 03.12.2020)
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Erhöhung der Aufwandsentschädigung für Hauptverwaltungsbeamte und andere Beamte - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 4.2: Antrag der CDU-Fraktion auf Weiterführung der Planung des Radweges zwischen Hollage und Halen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Bildungsangelegenheiten
+- TOP 5.1: Finanzierung der Kinderbetreuung im Landkreis Osnabrück - einstimmig, mit 6 Enthaltung(en) gefasst:
+- TOP 6.: Schulangelegenheiten
+- TOP 6.1: Luftreinigung in Schulen und Kindergärten
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Jugendpflegerische Maßnahmen unter Corona-Bedingungen Verlängerung der angepassten Förderrichtlinien für das Jahr 2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Kulturangelegenheiten
+- TOP 8.1: Antrag Förderung Baumaßnahmen des Vereins Heimathaus Hollager Hof - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Umwelt- und Energieangelegenheiten
+- TOP 9.1: Förderprogramm der Gemeinde Wallenhorst für Klimaschutzmaßnahmen: Änderung der Förderrichtlinie für die Bezuschussung der Errichtung von nicht öffentlicher Ladeinfrastruktur für Elektrofahrzeuge und der Anschaffung von Lastenfahrräder - einstimmig, mit 9 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Vorstellung des Generalentwässerungsplanes der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Überprüfung der Gehwegbeleuchtung nach Antrag der CDU vom 13.02.2020 Vorlage Nr. 5/2020 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Kooperation Klärschlammtrocknung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.4: 4. Änderung des Bebauungsplanes Nr. 114 "Hofstelle Piesberg" hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - mehrheitlich mit 23 Ja-Stimme(n), 2 Gegenstimme(n), 5 Stimmenthaltung(en) gefasst:
+- TOP 10.5: Kriterien für die Vergabe von Grundstücken für ´Mehrfamilienhausbebauung´ zur Realisierung von bezahlbarem (Miet-)Wohnraum im Baugebiet „Südlich des Wasserwerks“ in Wallenhorst-Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kämmereiangelegenheiten
+- TOP 11.1: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2019 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Jahresabschluss für das Haushaltsjahr 2019 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2019 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2019 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.4: Festsetzung der Grund- und Benutzungsgebühr für die Niederschlagswasserkanalisation, Änderung der Abgabensatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.5: Haushaltswirtschaft für das Jahr 2021 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Appell zu Schulschließungen aufgrund der Corona-Pandemie
+- TOP 12.2: Informationstafel für die Hollager Mühle
+- TOP 12.3: Verkehrsbehinderung aufgrund parkender Fahrzeuge am Lechtinger Kirchweg
