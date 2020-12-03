@@ -18,6 +18,8 @@
 
 - [§ 8 Beseitigung und Unterlassung](0008.md)
 - [§ 8a Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150](0008a.md)
+- [§ 8b Liste der qualifizierten Wirtschaftsverbände](0008b.md)
+- [§ 8c Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung](0008c.md)
 - [§ 9 Schadensersatz](0009.md)
 - [§ 10 Gewinnabschöpfung](0010.md)
 - [§ 11 Verjährung](0011.md)
