@@ -1,0 +1,8 @@
+# TOP -: Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße
+
+- Sitzung: 2. Sitzung der Bezirksvertretung Nippes (2020-12-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/311791
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/147660
