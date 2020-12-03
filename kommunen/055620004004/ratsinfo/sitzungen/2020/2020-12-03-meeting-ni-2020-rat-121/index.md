@@ -1,0 +1,56 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2020-12-03T16:44:00+01:00
+- Ende: 2020-12-03T19:18:00+01:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-121
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-121
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-RAT-121
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-121
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-121
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 3: Zwölfte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel
+- TOP 4: Übertragung des öffentlichen Teils der Ratssitzungen im Internet
+- TOP 5: Neunte Änderungssatzung zur Geschäftsordnung für den Rat der Stadt Castrop-Rauxel und seine Ausschüsse
+- TOP 6: Bildung von Ausschüssen
+- TOP 6.1: Antrag UBP vom 23.09.2020_Wiedereinrichtung und teilweise Neuausrichtung des Bürgerausschusses
+- TOP 7: Wahl der Mitglieder der unter TOP I. 6 gebildeten Ausschüsse (ausgenommen Jugendhilfeausschuss)
+- TOP 8: Vertretung der Ausschussmitglieder
+- TOP 9: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze gemäß § 58 Absatz 5 Gemeindeordnung NRW
+- TOP 10: Benennung der Ausschussvorsitzenden und Stellvertreter/innen
+- TOP 11: Wahl der Mitglieder des Jugendhilfeausschusses
+- TOP 12: Kommunalunternehmen der Stadt Castrop-Rauxel "EUV, Stadtbetrieb Castrop-Rauxel" - Anstalt des öffentlichen Rechts - Hier: Änderung der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel "EUV, Stadtbetrieb Castrop-Rauxel" - Anstalt des öffentlichen Rechts in § 4 und Besetzung des Verwaltungsrates für die Sitzungsperiode 2020 bis 2025
+- TOP 13: Bestellung von sechs Ratsmitgliedern sowie deren Vertreter/innen in den am 13.09.2020 gewählten Integrationsrat
+- TOP 14: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen; Wahl der Delegierten
+- TOP 15: Zweckverband Gemeinsame Kommunale Datenzentrale Recklinghausen (GKD RE): Bestellung einer Vertreterin/eines Vertreters und einer Stellvertretung für die Verbandsversammlung
+- TOP 16: Vertretung im Aufsichtsrat der Forum Castrop-Rauxel Betriebsgesellschaft mbH
+- TOP 17: Bestellung einer Vertreterin / eines Vertreters der Stadt Castrop-Rauxel für die Gesellschafterversammlung der Entwicklungsgesellschaft Castrop-Rauxel GmbH
+- TOP 18: Entsendung von sechs Ratsmitgliedern in den Beirat der Entwicklungsgesellschaft Castrop-Rauxel GmbH
+- TOP 19: Vertretung in der Gesellschafterversammlung der Stadtwerke Castrop-Rauxel GmbH für die Wahlperiode 2020 - 2025
+- TOP 20: Vertretung im Aufsichtsrat der Stadtwerke Castrop-Rauxel GmbH für die Wahlperiode 2020 bis 2025
+- TOP 21: Benennung eines Vertreters der Stadt Castrop-Rauxel für die Gesellschafterversammlung der GeWo Gesellschaft für Wohnungs- und Städtebau mbH
+- TOP 22: Entsendung eines Vertreters in den Aufsichtsrat der Straßenbahn Herne-Castrop-Rauxel GmbH (HCR)
+- TOP 23: Benennung von Vertretern der Stadt Castrop-Rauxel a) für den Beirat der Uniper Wärme GmbH b) für das Beratungsgremium der Uniper Wärme GmbH
+- TOP 24: Neuwahlen der Mitglieder der Versammlung des Sparkassenzweckverbandes der Sparkasse Vest Recklinghausen sowie Bestellung eines Vertreters für Herrn Bürgermeister Kravanja für die Verbandsversammlung des Sparkassenzweckverbandes
+- TOP 25: Entsendung eines Vertreters für die Stadt Castrop-Rauxel in die Gesellschafterversammlung der WiN Emscher-Lippe - Gesellschaft zur Strukturverbesserung mit beschränkter Haftung
+- TOP 26: Benennung eines/einer Vertreter*in sowie eines/einer Stellvertreter*in der Stadt Castrop-Rauxel für die Mitgliederversammlung des Westfälischen Landestheaters e.V.
+- TOP 27: Besetzung Beirat "wewole Stiftung e.V." (vormals Werkstatt für Behinderte Herne/Castrop-Rauxel e.V.)
+- TOP 28: Bestellung eines Vertreters der Stadt Castrop-Rauxel für den Vorstand des Vereins "DROB - Drogenhilfe Recklinghausen und Ostvest e.V".
+- TOP 29: Wahl einer Mediatorin / eines Mediators für den Ältestensrat der Stadt Castrop-Rauxel
+- TOP 30: Sachstandsbericht Haushaltssanierungsplan 2020 - Stand 30.09.2020 (Berichterstattung gegenüber der Bezirksregierung Münster)
+- TOP 31: Aktionsprogramm Mehrgenerationenhaus AGORA
+- TOP 32: Antrag CDU Fraktion vom 19.11.2020_Digitale Vorhabenliste
+- TOP 33: Gemeinsamer Antrag der Fraktionen CDU und FWI vom 19.11.2020 Einführung eines neuen Funknetzes - Einbindung des Rates
+- TOP 34: Gemeinsamer Antrag der Fraktionen CDU und FWI vom 19.11.2020 Beteiligung aller Fraktionen an öffentlichen Umsetzungsterminen
+- TOP 42: Anfragen der Ratsmitglieder
+- TOP 43: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
