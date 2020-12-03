@@ -1,0 +1,6 @@
+# TOP 4: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 GO NRW
+
+- Sitzung: 2. konstituierende Sitzung des Rates (2020-12-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/309138
