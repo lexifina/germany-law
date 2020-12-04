@@ -1,0 +1,69 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-12-04T14:00:00+01:00
+- Ende: 2020-12-04T16:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18927
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18927
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393161.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393161.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00393161.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitgliedes der Bezirksvertretung 1
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 4.1: Sachstandsbericht Worringer Platz - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Bebauungsplan-Entwurf Nr.01/014 - Schwannstraße/Hochpunkt - Empfehlung abweichend beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2020 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.8: Jugendhilfeplanung: Entwicklung Kindertagesbetreuung in Düsseldorf - Jahresbericht 2020 - zur Kenntnis genommen
+- TOP 4.9: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - Empfehlung abweichend beschlossen
+- TOP 4.10: Zuschuss an den Düsseldorfer Yachtclub e.V. - mehrheitlich beschlossen
+- TOP 4.11: Übertragung von Restmitteln aus den Budgetkonten 52415100 - 52416000 Liste B) des Jahres 2020 ins Haushaltsjahr 2021 - einstimmig beschlossen
+- TOP 4.12: Übertragung von Verfügungsmitteln des Jahres 2020 ins Haushaltsjahr 2021 - einstimmig beschlossen
+- TOP 4.13: Machbarkeitsstudie zur Umgestaltung des Umfelds des Deportations-Mahnmals in der Marc-Chagall-Straße - vertagt
+- TOP 4.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2020 - einstimmig beschlossen
+- TOP 5: Einbringung des Haushaltsplan 2021 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze - einstimmig beschlossen
+- TOP 5.1: Überplanung der Nordstraße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Übersicht von zu pflanzenden Bäumen auf der Roßstraße und im gesamten Stadtbezirk 1 - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Kunststoffverschmutzung im Hofgarten durch Hochzeitsgäste - Anfrage der CDU-Fraktion
+- TOP 7.2: Baumschilder - Anfrage der CDU-Fraktion
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Konsequente Fortführung der Fußgängerzone Robert-Lehr-Ufer und deren Schutz vor unbefugtem Autoverkehr – Rückfrage zur Antwort der Verwaltung BV1/288/2020 - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.5: Bepflanzung der neuen Baumscheiben auf der Hohenzollernstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 7.6: Parkplätze auf der Eulerstraße - Anfrage der SPD-Fraktion
+- TOP 8: Anträge
+- TOP 8.1: Behandlung von Verwaltungsvorlagen - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Nutzung der Parkplätze direkt am Carlsplatz durch die Markthändler - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Planungen für die Tuchtinsel - Antrag der CDU-Fraktion
+- TOP 8.4: Geschwindigkeitskontrollen auf der Mühlenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.5: Antrag auf Konzeptentwicklung zur Verbesserung von Sauberkeit und Helligkeit im Bereich Hohenzollernstraße Ecke Stephanienstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.6: Vorstellung der geplanten Straßenarbeiten im Bereich Rheinbabenstraße in der nächsten Sitzung der BV 1 am 29.01.2021 - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Ladezone am Dreieck, Beschluss der Bezirksvertretung 1 am 04.09.2020; Vorlage Nr. BV1/233/2020 - zur Kenntnis genommen
+- TOP 9.2: Baumpflanzungen in Pempelforter Parks, Beschluss der Bezirksvertretung 1 vom 04.09.2020; Vorlage Nr. BV1/250/2020 - zur Kenntnis genommen
+- TOP 9.3: Bauleitplanverfahren für den Bereich Ackerstraße; Beschluss der Bezirksvertretung 1 vom 24.01.2020; Nr. BV1/039/2020 - zur Kenntnis genommen
+- TOP 9.4: Linksabbieger südliche Marc-Chagall-Straße in FR nördliche Toulouser Allee; Beschluss der Bezirksvertretung 1 vom 26.06.2020; BV1/172/2020 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an digitale düsseldorf gUg - mehrheitlich beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Projekt Düsseldorfer Malerschule - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Drogenhilfe e.V - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bahnhofsmission - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Jugendfreizeiteinrichtung Ulmenstraße - einstimmig beschlossen
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Gemeinschaft/Altstadt Marketing - zurückgezogen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an vision:teilen e.V. / gutenachbus Düsseldorf - einstimmig beschlossen
+- TOP 10.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Diakonie Düsseldorf - TrebeCafé - einstimmig beschlossen
+- TOP 10.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Medizinische Hilfe für Wohnungslose - zurückgezogen
