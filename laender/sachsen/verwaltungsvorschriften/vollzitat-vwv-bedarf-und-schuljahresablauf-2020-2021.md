@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2020/2021
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-10-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.2
+- Datum: 2020-12-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-02.10.2020
+04.12.2020
 bis
-03.12.2020
+14.01.2021
 
 VwV Bedarf und Schuljahresablauf 2020/2021
 
@@ -857,7 +857,7 @@ Ferienregelung
 
 | Weihnachtsferien
 
-| 23. Dezember 2020
+| 19. Dezember 2020
 
 | bis
 
@@ -1020,7 +1020,7 @@ An Oberschulen gelten im besonderen Bildungsweg Produktives Lernen folgende Trim
 
 a)
 
-In der Klassenstufe 8 endet das erste Trimester am 22. Dezember 2020. Das zweite Trimester beginnt am 4. Januar 2021 und endet am 1. April 2021. Das dritte Trimester beginnt am 12. April 2021.
+In der Klassenstufe 8 endet das erste Trimester am 18. Dezember 2020. Das zweite Trimester beginnt am 4. Januar 2021 und endet am 1. April 2021. Das dritte Trimester beginnt am 12. April 2021.
 
 
 b)
@@ -1038,7 +1038,7 @@ Mitteilungen 3/I in LRS-Klassen und Zeugnisse
 
 1.
 
-Die Halbjahresinformationen und Halbjahreszeugnisse sowie die Zeugnisse des Kurshalbjahres 11/I werden am 5. Februar 2021, die Zeugnisse des Kurshalbjahres 12/I am 22. Dezember 2020 ausgegeben.
+Die Halbjahresinformationen und Halbjahreszeugnisse sowie die Zeugnisse des Kurshalbjahres 11/I werden am 5. Februar 2021, die Zeugnisse des Kurshalbjahres 12/I am 4. Januar 2021 ausgegeben.
 
 2.
 
@@ -1473,7 +1473,7 @@ Bis zum 28. September 2020 berichtet jede Schule dem Landesamt für Schule und B
 
 b)
 
-Bis zum 22. Dezember 2020 (Ersttermin) sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen beim Vorsitzenden des Prüfungsausschusses einzureichen. Für Prüfungsteilnehmer, die aus einem von ihnen nicht zu vertretenden Grund, insbesondere wegen ärztlich attestierter Erkrankung, den Ersttermin nicht einhalten können, ist das Einreichen bis zum 5. Februar 2021 (Nachtermin) möglich.
+Bis zum 4. Januar 2021 (Ersttermin) sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen beim Vorsitzenden des Prüfungsausschusses einzureichen. Für Prüfungsteilnehmer, die aus einem von ihnen nicht zu vertretenden Grund, insbesondere wegen ärztlich attestierter Erkrankung, den Ersttermin nicht einhalten können, ist das Einreichen bis zum 5. Februar 2021 (Nachtermin) möglich.
 
 
 c)
@@ -2157,7 +2157,7 @@ b)
 Berufliches Gymnasium:
 
 
-Der Unterricht des Kurshalbjahres 12/I endet am 5. Februar 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 22. Februar 2021. Der Unterricht des Kurshalbjahres 13/I endet am 22. Dezember 2020. Der Unterricht des Kurshalbjahres 13/II beginnt am 4. Januar 2021.
+Der Unterricht des Kurshalbjahres 12/I endet am 5. Februar 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 22. Februar 2021. Der Unterricht des Kurshalbjahres 13/I endet am 4. Januar 2021. Der Unterricht des Kurshalbjahres 13/II beginnt am 4. Januar 2021.
 
 
 II.
@@ -2823,9 +2823,9 @@ Fsn-Nr.: 710-V20.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  2. Oktober 2020
+Fassung gültig ab:  4. Dezember 2020
 
-Fassung gültig bis:  3. Dezember 2020
+Fassung gültig bis: 14. Januar 2021
 
 Drucken/Speichern
 
@@ -2852,7 +2852,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18674.2
+https://www.revosax.sachsen.de/vorschrift/18674.3
 Stand vom
 18.11.2026
 
