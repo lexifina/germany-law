@@ -1,6 +1,4 @@
-# Anlage D16 Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte (§ 5 Absatz 5 des Freizügigkeitsgesetzes/EU)
+# Anlage D16 Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)
 
-- Vorderseite -
-[Bild: bgbl1_2007_j1970_0580.jpg]
-– Rückseite –
-[Bild: bgbl1_2007_j1970_0590.jpg]
+(Fundstelle: BGBl. I 2011, 1548)
+[Bild: bgbl1_2011_j1530-1_0210.jpg]

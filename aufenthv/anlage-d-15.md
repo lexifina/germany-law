@@ -1,6 +1,6 @@
-# Anlage D15 Aufenthaltskarte (§ 5 Absatz 1 des Freizügigkeitsgesetzes/EU) und Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen
+# Anlage D15 Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)
 
-- Vorderseite -
-[Bild: bgbl1_2007_j1970_0560.jpg]
+– Vorderseite –
+|  |  |  |
 – Rückseite –
-[Bild: bgbl1_2007_j1970_0570.jpg]
+|  |  |  |

@@ -153,7 +153,8 @@
 | Kapitel 7 |
 | Übergangs- und Schlussvorschriften |
 | § 79 | Anwendung auf Freizügigkeitsberechtigte |
-| § 80 | Übergangsregelung für die Verwendung von Mustern |
+| § 80 | Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster |
+| § 80a | Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union |
 | § 81 | Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren |
 | § 82 | Übergangsregelung zur Führung von Ausländerdateien |
 | § 82a | Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union |
