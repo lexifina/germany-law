@@ -1,1 +1,1 @@
-# Bremisches Krankenhausgesetz (BremKrhG) vom 12. April 2011
+# Bremisches Krankenhausgesetz - (BremKrhG) vom 24. November 2020
