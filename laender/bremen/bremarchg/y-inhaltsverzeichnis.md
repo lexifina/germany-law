@@ -60,4 +60,5 @@ Abschnitt 4 | - Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen -
 § 51 | Ordnungswidrigkeiten
 § 52 | Übergangsvorschrift
 § 53 | In-Kraft-Treten, Außer-Kraft-Treten
-Anlage zu § 3 Absatz 1 Nummer 2 | 
+Anlage 1 (zu § 3 Absatz 1 Nummer 2) | 
+Anlage 2 (zu § 18 Absatz 4 Satz 2 | 

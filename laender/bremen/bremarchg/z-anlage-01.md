@@ -1,5 +1,5 @@
-# Anlage - Leitlinien zu Ausbildungsinhalten
-Anlage
+# Anlage 1 - Leitlinien zu Ausbildungsinhalten
+Anlage 1
 (zu § 3 Absatz 1 Nummer 2)
 Leitlinien zu Ausbildungsinhalten1
 Fußnoten

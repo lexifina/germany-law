@@ -44,3 +44,4 @@ Teil 5: | Ordnungswidrigkeiten, Übergangsvorschriften und Schlussbestimmungen
 § 30 | Ordnungswidrigkeiten
 § 31 | Übergangsvorschrift
 § 32 | In-Kraft-Treten, Außer-Kraft-Treten
+Anlage (zu § 20 Absatz 4 Satz 2)
