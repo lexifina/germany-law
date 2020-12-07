@@ -1,0 +1,77 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-12-07T16:00:00+01:00
+- Ende: 2020-12-07T19:00:00+01:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19244
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19244
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00262880.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00263485.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Entscheidung über die Gültigkeit der Wahl des Oberbürgermeisters am 13. September 2020 sowie der Stichwahl am 27. September 2020 - ungeändert beschlossen
+- TOP 1.2: Entscheidung über die Gültigkeit der Wahl des Rates, der Wahlen der Vertretungen der Stadtbezirke sowie der Wahl des Integrationsgremiums am 13. September 2020 - ungeändert beschlossen
+- TOP 1.3: Bericht über den Sachstand der Umsetzung von Ratsaufträgen - Entgegennahme ohne Beschluss
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zustand der Räumlichkeiten in Wuppertaler Schulen
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS90/DIE GRÜNEN "Zustand der Räumlichkeiten in Wuppertaler Schulen"
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Keine Aufnahme in die Tagesordnung. Dringlichkeitsantrag Mehr ÖPNV-Kapazitäten zum Campus Freudenberg - abgesetzt
+- TOP 4.2: Übertragung von Angelegenheiten des Rates auf den Hauptausschuss - ungeändert beschlossen
+- TOP 4.3: Abgesetzt - der Antrag wurde zurückgezogen. Mehr Flexibilität für die Schulen in Pandemiezeiten in NRW - abgesetzt
+- TOP 4.4: Keine Aufnahme in die Tagesordnung. Dringlichkeitsantrag: Übernahme von Coronabedingten Mehrkosten für Tacheles e.V. - abgesetzt
+- TOP 4.5: Dringlichkeitsantrag gemäß §11, Abs. 3 der Geschäftsordnung - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und Anlagen der Stadt Wuppertal (Straßenordnung) - ungeändert beschlossen
+- TOP 6.2: 8. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: 14. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2021 - ungeändert beschlossen
+- TOP 6.5: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Gebührensatzung zur Abfallwirtschaft 2021 - ungeändert beschlossen
+- TOP 6.7: Fünfzehnte Satzung zur Änderung der Gebührensatzung für den Friedhof der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.8: Dritte Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal - Sondernutzungssatzung - vom 20.12.2001 - abgesetzt
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Abdichtung Westkotter Viadukt – Genehmigung von überplanmäßigen Mitteln zur Schlussabrechnung - ungeändert beschlossen
+- TOP 7.2: Zuschuss für den Olympiastützpunkt Rhein-Ruhr für 2020 - ungeändert beschlossen
+- TOP 7.3: Gewährung eines Zuschusses an den SV Neuenhof 1930 e. V. zur Sanierung des Rohrsystems im Freibad Neuenhof - ungeändert beschlossen
+- TOP 7.4: Weiterer Verwaltungskostenzuschuss für den Stadtsportbund Wuppertal e.V. - ungeändert beschlossen
+- TOP 7.5: Auszahlung von Zuschüssen an Wuppertaler Sportvereine 2020 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2019 der Stadtsparkasse Wuppertal - Ergebnisverwendung - ungeändert beschlossen
+- TOP 8.2: Anerkennung der Neue Effizienz GmbH als gemeinnützige Gesellschaft - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Verfahrensbedingte Rückholung von Zuständigkeiten des Ausschusses für Stadtentwicklung und Bauen - geändert beschlossen
+- TOP 9.2: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - zur Entscheidung verwiesen
+- TOP 9.3: Bebauungsplanverfahren 1271 - Linderhauser Straße / Wasserspeicher - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Teilsanierung des Gymnasiums Bayreuther Straße und Errichtung eines Neubaus - ungeändert beschlossen
+- TOP 10.2: Neubau der Grundschule Haselrain mit Erweiterung des Offenen Ganztags - ungeändert beschlossen
+- TOP 10.3: Neubau eines Gebäudes für den Offenen Ganztag der Angelo-Roncalli- Schule, Reichsgrafenstr. 26 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Örtliche Planung 01.10.2020 - 30.09.2023 gem. § 7 Alten- und Pflegegesetz Nordrhein - Westfalen (APG NRW) - ungeändert beschlossen
+- TOP 11.2: Innenentwicklungskonzept Wuppertal - ungeändert beschlossen
+- TOP 11.3: Antrag auf Fördermittel für einen Platz der Begegnung sowie für Wege und Infrastruktur auf dem Friedhof Krummacher Str. - ungeändert beschlossen
+- TOP 11.4: Investitionspakt zur Förderung von Sportstätten - ungeändert beschlossen
+- TOP 11.5: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 11.6: Umsetzung des Kinderbildungsgesetzes (KiBiz) ab 01. August 2020: Kriterien zur Bewilligung von Landesmitteln zur Flexibilisierung der Betreuungszeiten gemäß § 48 KiBiz - ungeändert beschlossen
+- TOP 11.7: Förderung des Mehrgenerationenhauses Ostersbaum - ungeändert beschlossen
+- TOP 11.8: Gemeinsame Umsetzung des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) Innenstadt Elberfeld und der Fernwärmestrategie - vertagen
+- TOP 11.9: Anerkennung von förderlichen Zeiten gem. § 81 Abs. 8 LBeamtVG NRW auf die ruhegehaltfähige Dienstzeit von Herrn Oberbürgermeister Professor Dr. Schneidewind - ungeändert beschlossen
+- TOP 11.10: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal - Lärmkartierung und Lärmaktionsplanung der Runde 3 - vertagen
+- TOP 11.11: Mietspiegel 2020 - Entgegennahme ohne Beschluss
+- TOP 11.12: Vergabe für den geförderten Glasfaserausbau in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung des Aufsichtsrates Tanztheater Pina Bausch GmbH - geändert beschlossen
+- TOP 12.2: Abberufung und Bestellung von Vertretern der Stadt Wuppertal in der KDN-Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.3: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.4: Entsendung von Vertreter/innen für die Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes - geändert beschlossen
+- TOP 12.5: Benennung eines stellvertretenden Mitglieds für den Verbandsrat des Wupperverbandes - ungeändert beschlossen
+- TOP 12.6: Bestellung der beratenden Mitglieder des Jugendhilfeausschusses - ungeändert beschlossen
