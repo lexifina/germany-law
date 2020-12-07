@@ -1,0 +1,127 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2020-12-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5786654
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5786654
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 1.1.: Ggf. Bildung eines Sonderausschusses 1.1.1 Beschlussfassung über Größe 1.1.2 Benennung der Mitglieder und ihrer Stellvertreter 1.1.3 Wahl der / des Vorsitzenden 1.1.4. ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 2.1.: Mehrere Anliegen zur Verkehrsproblematik wg. Wertstoffhof in Sendling, Thalkirchner Straße
+- TOP 2.2.: Mehrere Anliegen zu den Abrissarbeiten des Heizkraftwerks Süd
+- TOP 2.3.: Mehrere Anliegen zum Thema Fassadenbegrünung Gasteig-Interim
+- TOP 2.4.: Mehrere Anliegen zur Wandgestaltung Auffahrt Passauerstr.
+- TOP 2.5.: Wertstofftonnen Valleystrasse
+- TOP 2.6.: Neubau Karwendelstr.
+- TOP 2.7.: Bäume Schanzenbachstraße
+- TOP 2.8.: Bauvorhaben Meindlstraße Ordinariat
+- TOP 2.9.: Mehrere Anliegen zu den Grenzen des Parklizenzgebiets Brudermühlviertel/Thalkirchen
+- TOP 2.10.: 30er Zone Harras
+- TOP 2.11.: 30ger Zone - Dietramszellerstrasse München
+- TOP 2.12.: Beleuchtung Sendlinger Park
+- TOP 2.13.: Obelisk Resi-Huber-Platz
+- TOP 2.14.: Wiederöffnung der Hallenbäder
+- TOP 2.15.: Parksituation Mittersendling
+- TOP 2.16.: Fahrradweg Greinerberg
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Implerstraße
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Bauvorhaben Margaretenplatz 11 - 12 Mitteilung der Lokalbaukommission
+- TOP 4.3.2.: Unterrichtung über Bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 4.3.3.: Bauvorhaben Plinganserstraße 6 Bescheid
+- TOP 4.3.4.: Hochbunker Thalkirchner Straße 158 Kiosk am Sendlinger Bunker
+- TOP 4.3.5.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 4.3.6.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 4.3.7.: Großmarkthalle – Müllprobleme endlich beseitigen!
+- TOP 4.3.8.: München, den 13.05.20Großmarkthalle – Müllprobleme endlich beseitigen – Teil 2
+- TOP 4.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.10.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 4.3.11.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 4.3.12.: Bauarbeiten Fallstr.
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Anfrage Boulespielen am Gotzinger Platz Sendlinger Bürgerversammlungsempfehlung Nr.14-20 / E 01172 vom 18.10.2016 AZ des Baureferates : 026-04-5.3-2018-10738-6D [SPD]
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Neue Baumstandorte im öffentlichen Raum
+- TOP 5.2.2.: Ausbau der südlichen Fußgängerunterquerung S-Bahnhof Mittersendling
+- TOP 5.2.3.: personenbezogener Behindertenparkplatz Meindlstr.
+- TOP 5.2.4.: Verkehrsrechtliche Anordnung Thalkirchner Str.
+- TOP 5.2.5.: Anhörung zur Beschlussvorlage Neue Radverkehrsroute Sendlinger-Tor-Platz zum Harras
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Parkbank Urban- Ecke Schäftslarnstraße Antwort an die Bürgerin
+- TOP 5.3.2.: Zustand Radweg Lindwurmstraße Antwort an den Bürger
+- TOP 5.3.3.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 5.3.4.: (U) Flößergasse und Zechstraße Linienführung Bus 134 Empfehlung Nr. 14-20 / E 01806 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 26.10.2017 Ablehnung der vom Bezirksausschuss des 6. Stadtbezirkes Sendling beim Stadtrat beantragten Buslinienführung 134 durch die Zechstraße/Flößergasse in Sendling Petition vom 26.10.2017 Moderne, grüne und urbane Straßen in Neuhofen - verkehrsberuhigte Umgestaltung der Flössergasse und der Zechstraße BA-Antrags-Nr. 14-20 / B 04539 des Bezirksausschusses des Stadtbezirkes 6 Sendling vom 25.01.2018
+- TOP 5.3.5.: Reduzierung der Höhenbeschränkungen der Unterführungen in der Thalkirchner- und Tumblingerstraße
+- TOP 5.3.6.: Ganghoferstraße - personenbezogener Behindertenparkplatz
+- TOP 5.3.7.: Gaststätte Plan B
+- TOP 5.3.8.: Ganghoferstraße T30-Zone
+- TOP 5.3.9.: Errichtung Gefahrzeichen in der Zufahrt zum Wertstoffhof Thalkirchner Str
+- TOP 5.3.10.: Fernwärme Implerstr. Wackersberger Str
+- TOP 5.3.11.: Unfallkommission VA Brudermühlstraße/Esswurmstraße
+- TOP 5.3.12.: Christbaumverkauf am Harras Eilige Stellungnahme des BA-Vorsitzenden
+- TOP 5.3.13.: City2Share Eilige Stellungnahme des BA-Vorsitzenden
+- TOP 5.3.14.: Verkehrsrechtliche Anordnung Tempo-30-Zone in der Plinganserstraße
+- TOP 5.3.15.: Fehlende Baustelleneinrichtung Antwort des Kreisverwaltungsreferats
+- TOP 5.3.16.: Großmarkt-Parkplatz am Gotzinger Platz - Beschwerdelage und Möglichkeiten
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Die Implerstrolche e.V. Anschaffungen für die Mittagsbetreuung von November 2020 bis Januar 2021 795,00 € / Az. 0262.0-6-0302
+- TOP 6.1.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00€; Az. 0262.0-6-0301
+- TOP 6.1.3.: (E) Stadtbezirksbudget BürgerStiftung München Audio Stadtführung vom 01.02. - 31.07.2021 8.850,00 € / Az. 0262.0-6-0303
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative „Radlrundtour“ Kunterbunte Radlrundtour am 11.10.2020 (Ausweichtermin: 18.10.2020) 160,00€; Az. 0262.0-6-0295
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative „Erkenntnis durch Satire“ Erkenntnis durch Satire im 2. Quartal 2021 1.680,00 € / Az. 0262.0-6-0
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kindertagesstätte KiKu Wildpark Inklusion durch Musik – Gemeinsam erleben wir die Welt vom 04. - 29.01.2021 1.455,43 € / Az. 0262.0-6-0306
+- TOP 6.1.7.: (E) Stadtbezirksbudget Mütterzentrum Sendling e.V. Öffentlicher Bücherschrank am Resi-Huber-Platz von Januar-März 2021 10.293,50 € / Az. 0262.0-6-0305
+- TOP 6.1.8.: (E) Stadtbezirksbudget Kulturzentrum LUISE / Glockenbachwerkstatt e.V. LUISE pflanzt von Mitte Januar bis Ende Februar 2021 798,75€; Az. 0262.0-6-0309
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Bescheid Initiative Artists in a box
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.1.1.: Mieterbeiratswahl 2021 Entsendung von stimmberechtigten Mitgliedern
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Europäische Charta zur Gleichstellung von Frauen und Männern Nachtspaziergang
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Spiel- und Bildungszentrum (SBZ) Sendling – wie lange dauert es noch mit der Renovierung?
+- TOP 7.3.2.: Information zu den Schulbauprogrammen aufgrund der Haushaltslage
+- TOP 7.3.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 7.3.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.3.5.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 7.3.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 7.3.7.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024, Einzelplan 4 / Sozialbereich
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Vereinzelte Umgestaltung für den Spielplatz Diemtramszeller Platz [UA Bildung und Soziales]
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Antwortschreiben Spiel- und Begegnungszentrum
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Bearbeitungsfristen bei Stadtratsanträgen, BA-Anträgen und BV-Empfehlungen Schreiben des Oberbürgermeisters an die Referate
+- TOP 9.3.2.: Entwurf des Mehrjahresinverstitionsprogramms für die Jahre 2020 - 2024
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
