@@ -1,0 +1,71 @@
+# 2. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-07T17:00:00+01:00
+- Ende: 2020-12-07T19:10:00+01:00
+- Ort: Bürgerzentrum Ehrenfeld, Venloer Straße 429, 50825 Köln, INFEKTIONSSCHUTZ: Aufgrund der Mindestabstände stehen weniger Plätze für die Gremienmitglieder und Öffentlichkeit zur Verfügung. Bitte melden sie sich unbedingt vorab bei der Schriftführung an!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21587
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21587
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Herkulesstraße (Az.: 02-1600-07/2020) - zurückgestellt
+- TOP 3.1.1: Änderungsantrag der SPD-Fraktion zu TOP 3.1, betr.: Bürgereingabe Herkulesstraße - zurückgestellt
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: KVB Linie 126 und Haltestelle Bocklemünd - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Spielplätze im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion DIE LINKE: Was tun gegen den Verlust demokratischer Gleichheit? - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Wie ist der Umsetzungsstand zum Beschluss „Wohnraum verfügbar machen“? - Kenntnis genommen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Die Linke, betr.: Wie ist der Umsetzungsstand zum Beschluss "Wohnraum verfügbar machen"? - Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Sachstand zur Internationalen Friedensschule - Kenntnis genommen
+- TOP 7.3.1: Beantwortung der Anfrage AN/1369/2020 nach § 4 Geschäftsordnung des Rates: Sachstand zur Internationalen Friedensschule - Kenntnis genommen
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Entfernung vom Zebrastreifen auf der Nußbaumerstraße - zurückgestellt
+- TOP 7.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Zum Ermöglichen des Abstandhaltens auf der Venloer Straße (Bezug zu TOP 12.3) - zurückgestellt
+- TOP 7.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Situation in Hüttenstraße - zurückgestellt
+- TOP 7.7: Anfrage der SPD-Fraktion, betr.: Sachstand ehemalige Hauptverwaltung Herbol - zurückgestellt
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Anfrage der SPD-Fraktion, betr.: Fortschreibung Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld - Kenntnis genommen
+- TOP 7.9.1: Stellungnahme der Verwaltung zur Anfrage AN/1411/2020 - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Barrierefreier Zugang zu Parks und fußläufigen Verbindungen - zurückgestellt
+- TOP 8.1.1: Barrierefreier Zugang zu Parks und fußläufigen Verbindungen - Kenntnis genommen
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Verkehrsregelung zum Werkstoffcenter Butzweilerhof auf der Butzweiler Str. - ungeändert beschlossen
+- TOP 8.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion und der Fraktion Die Linke, betr.: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 8.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Wahl der Mitglieder des Beirates zur Begleitung der Umsetzung der Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld - geändert beschlossen
+- TOP 9.2: Förderprogramm über die Vergabe bezirksorientierter Mittel 2021 gemäß § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.3: Erneuerung der Personenaufzugsanlage im Bürgerzentrum Ehrenfeld, Venloer Str. 429, 50825 Köln - ungeändert beschlossen
+- TOP 9.4: Zuwendung aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum "Bocklemünd/Mengenich" - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteilgung betreffend die Änderung des Bebauungsplanes Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 10.3: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 10.4: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Fahrradpiktogramme Venloer Straße - Kenntnis genommen
+- TOP 12.2: Verkehrsberuhigung Vogelsanger Straße (Helmholtzstraße bis Äußere Kanalstraße) - Kenntnis genommen
+- TOP 12.3: Pandemie-taugliche Verkehrsinfrastruktur für Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Radverkehrskonzept Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 12.6: Parken für Bewohnende bei Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.7: Die Bartholomäus-Schink-Straße wird zur Streetfood Street - Kenntnis genommen
+- TOP 12.8: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 12.9: Bebauung Innere Kanalstrasse 69- Vorbescheidsverfahren - Kenntnis genommen
+- TOP 12.10: Sachstand Verkehrsuntersuchungen Ehrenfeld - Kenntnis genommen
+- TOP 12.11: Temporäre Einfriedung der Außenflächen des Schulneubaus Heliosschulen - Kenntnis genommen
+- TOP 12.12: Radverkehrskonzept Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
