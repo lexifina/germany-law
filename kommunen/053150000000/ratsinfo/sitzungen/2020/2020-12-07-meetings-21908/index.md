@@ -1,0 +1,89 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-07T17:00:00+01:00
+- Ende: 2020-12-07T19:42:00+01:00
+- Ort: Palladium, Schanzenstr. 36, 51063 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21908
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21908
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tonbandaufzeichnungen in den Sitzungen der Bezirksvertretung Mülheim - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Buslinie 150 - Rüdesheimer Straße - Kenntnis genommen
+- TOP 1.2: Einbahnstraßenregelung der Malteserstraße in Köln - Buchheim - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigter Bereich Voltastraße; Köln Buchforst (Az.: 02-1600-94/20) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Umwidmung der Iddelsfelder Straße in eine Anliegerstraße (Az.: 02-1600-99/20) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Köln-Dellbrück: wichtiger Rad- und Fußweg fehlt (Az.: 02-1600-09/20) - geändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Dellbrücker Hauptstraße (Az.: 02-1600-89/20) - geändert beschlossen
+- TOP 2.5: Sicherheit auf den Wegen in Dellbrück - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung - Elektro-Transporter für den Wildpark Dünnwald - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tempo 30 Bergisch Gladbacher Straße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Rückschnitt von Sträuchern und Gehölzen in Höhe der Ruwergasse 51 und der Eduard-Franzen Straße in Köln-Flittard
+- TOP 7.2.2: Gesperrte Treppe an der Rheinuferseite des Stammheimer Schlossparks - Kenntnis genommen
+- TOP 7.2.2.1: Gesperrte Treppe an der Rheinuferseite des Stammheimer Schlossparks - Kenntnis genommen
+- TOP 7.2.3: Mülleimer im Mülheimer Stadtgarten - Kenntnis genommen
+- TOP 7.2.3.1: Mülleimer im Mülheimer Stadtgarten - Kenntnis genommen
+- TOP 7.2.4: Das Ulrich-Haberland Haus im Stammheimer Schlosspark - Kenntnis genommen
+- TOP 7.2.5: Mütze e.V. Selbsthilfe Teestube, Berliner Str.77 ,51-065 Köln Mülheim - Kenntnis genommen
+- TOP 7.2.6: Große "lnklusiv- Sportanlage" auf dem Feld zwischen B 8 und Stammheimer Fort - Kenntnis genommen
+- TOP 7.2.7: Maßnahmen zur Gewährleistung der zweckmäßigen Nutzung des Dünnwalder Schützenplatzes - Kenntnis genommen
+- TOP 7.2.8: Messung des Verkehrsaufkommens in Mülheim - Kenntnis genommen
+- TOP 7.2.9: Was passiert mit dem kleinen Kalkberg ? - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Rückschnittmaßnahmen der Begrünung entlang der Hochwasserschutzmauer am Stammheimer Ufer zwischen Raumannskaul und dem Gelände des der Wassersportfreunde Neptun e.V. Köln Mülheim - ungeändert beschlossen
+- TOP 8.1.2: Gefährdendes Falschparken an der Straße „Im Weidenbruch“ beenden! - ungeändert beschlossen
+- TOP 8.1.3: Einrichtung eines Trinkbrunnens an der TreffArena im Stadtteil Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.4: Anbringung von Pollern an der Leuchterstr./ Ecke Amselstr. in Dünnwald - ungeändert beschlossen
+- TOP 8.1.5: Busschleuse darf nicht als Abkürzung oder Raserstrecke mißbraucht werden - geändert beschlossen
+- TOP 8.1.6: Geparkte Fahrräder auf der Schleiermacherstraße sollen Fußweg nicht länger blockieren - ungeändert beschlossen
+- TOP 8.1.7: Rasende auf der Schleiermacherstraße ausbremsen - geändert beschlossen
+- TOP 8.1.8: Mooswände - ungeändert beschlossen
+- TOP 8.1.8.1: Mooswände - ungeändert beschlossen
+- TOP 8.1.9: Verbesserung Toilettensituation Wiener Platz -zurückgezogen- - endgültig zurückgezogen
+- TOP 8.1.9.1: Toiletten am Wiener Platz - ungeändert beschlossen
+- TOP 8.1.10: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - ungeändert beschlossen
+- TOP 8.1.10.1: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung eines Platzes im Geltungsbereich des Bebauungsplanes Schanzenstraße Nord in Köln-Mülheim - zurückgestellt
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2020; Vergabe der Restmittel - ungeändert beschlossen
+- TOP 9.1.3: Förderprogramm der Bezirksvertretung Mülheim für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Köln-Mülheim für das Jahr 2021 - ungeändert beschlossen
+- TOP 9.1.4: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.5: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Mülheim (Jahresbericht) - ungeändert beschlossen
+- TOP 9.1.6: Interimsbetrieb Bürgerhaus MüTZe 2021 - 2023 - ungeändert beschlossen
+- TOP 9.1.7: Beschluss über die Planung und Durchführung einer Maßnahme auf dem Schulhof der GGS Honschaftsstraße in Köln-Mülheim im Rahmen des Förderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.3: Planungsaufnahme zur Errichtung einer 4-gruppigen integrativen Kindertageseinrichtung in der Franz-Werfel-Str. 18, 51067 Köln (Holweide) - ungeändert beschlossen
+- TOP 9.2.4: Freigabe- und Baubeschluss der Maßnahme "Umbau, Modernisierung und Erweiterung des Bürgerhauses MüTZe, Köln-Mülheim"; Programm "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen
+- TOP 10.2.3: Baumschutzbügel gegen Falschparker auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 10.2.4: Antrag der CDU-Fraktion vom 20:02:2020, betr. Umsetzung der im Bebauungsplan „Zentrum Buchforst“ festgesetzten Nutzungsausschlüsse - Kenntnis genommen
+- TOP 10.2.5: Wiederherstellung der Verkehrssicherheit Am Flachsrosterweg - Kenntnis genommen
+- TOP 10.2.6: Bürgereingabe gem. § 24 GO, betr.: Haltestelle Flittard Süd - Fahrgastunterstand und Beleuchtung (Az.: 02-1600-247/18) hier: Beschluss der BV 9 am 04.11.2019 - Kenntnis genommen
+- TOP 10.2.7: Odenthaler Straße in Köln-Dünnwald - zurückgestellt
+- TOP 10.2.8: Sicherung eines störungfreien Busverkehrs auf dem Clevischen Ring während der Sanierung der Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.9: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 10.2.10: Baumaßnahme: Deckensanierung Grüner Kuhweg - Kenntnis genommen
+- TOP 10.2.11: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
