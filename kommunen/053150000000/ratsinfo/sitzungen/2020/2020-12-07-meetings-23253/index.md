@@ -1,0 +1,106 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-07T16:00:00+01:00
+- Ende: 2020-12-07T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23253
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23253
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00796274.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00796274.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00796274.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kreisverkehr Vogelsanger Straße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bezirkliches Radverkehrskonzept - zurückgestellt
+- TOP 7.2.2: GGS Braunsfeld - zurückgestellt
+- TOP 7.2.3: Widdersdorfer Straße - zurückgestellt
+- TOP 7.2.4: Kreisverkehr Vogelsanger Weg - Kenntnis genommen
+- TOP 7.2.5: Bewohnerparkgebiet Pauliviertel - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Kitschburger Straße - endgültig zurückgezogen
+- TOP -: Ersatzantrag zu TOP 8.1.1 - ungeändert beschlossen
+- TOP 8.1.2: Fahrradstraße Belvederestraße - endgültig zurückgezogen
+- TOP -: Ersatzantrag zu TOP 8.1.2 - ungeändert beschlossen
+- TOP 8.1.3: Klimabezirksorientierten Mittel - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu 8.1.3 - ungeändert beschlossen
+- TOP 8.1.4: Radweg Neuenhöfer Allee - geändert beschlossen
+- TOP 8.1.5: Aufstellen von Pollern - geändert beschlossen
+- TOP 8.1.6: Zebrastreifen Widdersdorfer Landstraße - ungeändert beschlossen
+- TOP 8.1.7: Schulstandort Zusestraße - endgültig abgelehnt
+- TOP 8.1.8: Verkehrssicherheit GGS Braunsfeld - geändert beschlossen
+- TOP 8.1.9: Zusätzlicher Laubsaugerwagen - zurückgestellt
+- TOP 8.1.10: Kiosk Sülzburgstraße - ungeändert beschlossen
+- TOP 8.1.11: Verlinkung Bürgervereine - ungeändert beschlossen
+- TOP 8.1.12: Straßenbäume Leichtensternstraße - ungeändert beschlossen
+- TOP 8.1.13: Zuweisung bezirksorientierter Mittel - ungeändert beschlossen
+- TOP 8.1.14: Kreisverkehr Berrenrather Straße / Weyertal / Arnulfstraße - ungeändert beschlossen
+- TOP 8.1.15: Besetzung Rahmenplanunsbeirat - geändert beschlossen
+- TOP 8.1.16: Dringlichkeitsantrag Eupener Strasse - ungeändert beschlossen
+- TOP 8.1.17: Dringlichkeitsantrag zur Bekräftigung des Beschlusses Tempo 30 Universitätsstraße vom 31.08.2020 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 9.2.3: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.4: Sportanlage Nordfeld (Walter-Binder-Weg) - Rückbau des östlichen Tennenspielfeldes in eine Rasenfläche - ungeändert beschlossen
+- TOP 9.2.5: Besetzung der Stelle Leitung des Bürgeramtes Lindenthal - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Umgestaltung der Berrenrather Straße - Kreuzung Berrenrather Straße/Weyertal/Arnulfstraße - Kenntnis genommen
+- TOP 11.2.2: Ladeinfrastruktur im öffentlichen Straßenraum - Kenntnis genommen
+- TOP 11.2.3: Antrag der CDU Köln Fraktion in der Bezirksvertretung Köln Lindenthal vom 12.11.2020 "Laubsauger Wagen" - Kenntnis genommen
+- TOP 11.2.4: Tempo 30 Universitätsstraße - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.2: Verlegung der Großmarktes von Raderberg nach Marsdorf - zurückgestellt
+- TOP 12.3: Maßnahmen gegen illegale Sprayaktionen und Farbschmierereien - zurückgestellt
+- TOP 12.4: Anfrage Lärmschutz am äußeren Grüngürtel - zurückgestellt
+- TOP 12.5: Auswirkungen der Pförtnerampel und Auslastung der Express-Busse auf der Aachener Straße - zurückgestellt
+- TOP 12.6: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage - zurückgestellt
+- TOP 12.7: Schutz von Vorgärten vor Versiegelung - zurückgestellt
+- TOP 12.8: Kölns erster Fleischautomat in Köln-Sülz am Auerbachplatz - zurückgestellt
+- TOP 12.9: Anfrage Sport- und Wasserflächen - zurückgestellt
+- TOP 12.10: Antrag auf Sicherung Fußgängerverkehr und Barrierefreiheit Wichterichstraße - zurückgestellt
+- TOP 12.11: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.12: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.13: Begegnungsräume in Widdersdorf - zurückgestellt
+- TOP 12.14: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 12.15: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
+- TOP 12.16: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 12.17: Baumfällungen - zurückgestellt
+- TOP 12.18: Betlehem-Platz in Köln-Widdersdorf - zurückgestellt
+- TOP 12.19: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.20: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.21: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.22: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.23: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.24: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.25: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.26: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.27: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.28: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
