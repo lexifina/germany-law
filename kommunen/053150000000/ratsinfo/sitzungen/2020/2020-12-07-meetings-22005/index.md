@@ -1,0 +1,58 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-07T14:35:00+01:00
+- Ende: 2020-12-07T15:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22005
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/22005
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Finanzielle Entschädigung für die Tätigkeit in Aufsichtsgremien städtischer Beteiligungsgesellschaften - Kenntnis genommen
+- TOP 2.3: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Aloys-Boecker-Straße 4, 51147 Köln-Lind - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung 1676/2020 - Kenntnis genommen
+- TOP 2.4: Sachstand Einführung Tax Compliance Management System - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.10.2020 - Kenntnis genommen
+- TOP 2.6: Sachstand Grundsteuerreform - Kenntnis genommen
+- TOP 2.7: Sicherung, Weiterentwicklung und Neuaufstellung der lit.COLOGNE 2021 - zurückgestellt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mehrkosten Umwandlung Tennenplätze in Kunstrasenplätze - Kenntnis genommen
+- TOP 6.2.2: Generalinstandsetzung der Friedrich-Karl-Straße in Abschnitten zwischen Hausnummer 224-236 und 238-270, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushalts - Kenntnis genommen
+- TOP 6.2.3: Generalsanierung der Schlackstraße, hier: Mitteilung über Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020 - Kenntnis genommen
+- TOP 6.3: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 6.4: Unterrichtung des Rates gem. § 25 der Kommunalhaushaltsverordnung Nordrhein-Westfalen - Kenntnis genommen
+- TOP 6.5: Finanzielle Auswirkungen der Corona-Pandemie im Bereich der Allgemeinen Finanzwirtschaft, Allgemeine Finanzlage der Kommunen und Ausblick auf 2021 ff - Kenntnis genommen
+- TOP 6.6: Haushaltsrechtliche Unterrichtung der Kämmerin/Einsturz Historisches Archiv/Verwendung der Mittel aus dem Vergleichsabschluss - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung des Knotenpunktes Amsterdamer Straße/Xantener Straße sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-5-1118, Umbau Knotenpunkt Amsterdamer Straße/Xantener Straße - geändert beschlossen
+- TOP 7.2: Sportanlage Nordfeld (Walter-Binder-Weg) - Rückbau des östlichen Tennenspielfeldes in eine Rasenfläche - unter Vorbehalt beschlossen
+- TOP 7.3: Freigabe- und Baubeschluss der Maßnahme "Umbau, Modernisierung und Erweiterung des Bürgerhauses MüTZe, Köln-Mülheim"; Programm "Starke Veedel - Starkes Köln" - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 10.2: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2021 - ungeändert beschlossen
+- TOP 10.3: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.4: 8. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.5: 5. Satzung zur Änderung der Abfallgebührensatzung - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Mittelfreigabe in den Haushaltsjahren 2020 und 2021 für die Maßnahme „Zuschuss Heimatlos in Köln e.V.“ - ungeändert beschlossen
+- TOP 10.7: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.8: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - unter Vorbehalt beschlossen
+- TOP 10.9: Planungsaufnahme zur Errichtung einer 4-gruppigen integrativen Kindertageseinrichtung in der Franz-Werfel-Str. 18, 51067 Köln (Holweide) - unter Vorbehalt beschlossen
+- TOP 10.10: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11.1: Bike-and-Ride Konzept der Stadt Köln - ungeändert beschlossen
+- TOP 12: Mündliche Anfragen
