@@ -1,0 +1,108 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2020-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6120360
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6120360
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Mieterbeiratswahl 2021- Beschlussfassung über vorgeschlagene Mitglieder
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.4.: Bericht Info-Veranstaltung Hauptbahnhof Masterplan Mobilität
+- TOP 3.6.: Bericht Informationsveranstaltung AWM zu Wertstoffinseln und Unterflurcontainern
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Unübersichtliche Kreuzung Georgen-/Zentnerstraße für Fußgänger, Bürgeranliegen vom 10.11.2020
+- TOP 5.2.2.: Markierung Radstreifen Dachauer Straße, Bürgeranliegen vom 07.11.2020
+- TOP 5.2.3.: Umgestaltung dreier kleiner Grünflächen, Bürgeranliegen vom 09.11.2020
+- TOP 5.2.4.: Verkehrsberuhigung Sandstraße, Bürgeranliegen vom 22.11.2020
+- TOP 6.1.: Parkraummanagement in der Maxvorstadt überarbeiten - mehr Anwohnerparken ausweisen
+- TOP 6.2.: Grüne Infrastruktur (Fassadenbegrünung und Entsiegelung) für das Heizkraftwerk in der Theresienstraße 36 umsetzen
+- TOP 6.3.: Neuordnung des Referats für Gesundheit und Umwelt - Wegfall des Aufgabengebiets Umwelt: Auswirkungen auf die weitere Planung für das Grundstück Dachauer Straße 90
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Fraktionsübergreifender Antrag Leerstandmelder
+- TOP 1.2.: Fraktionsübergreifender Antrag zur Konkretisierung und weiterführende Fragen zur Zweckentfremdung
+- TOP 2.1.1.: Baulisten der LBK: 45.,46.,47. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 45. und 46. KW
+- TOP 2.1.3.: Steinheilstr. 14 – TEKTUR, Aufstockung und DG-Ausbau zur Errichtung zweier Wohneinheiten, Anbau von Balkonen und eines Außenaufzugs, Neubau eines hofseitigen Anbaus hier: VGB: Einbau einer Galerie, RGB: Errichtung einer Wohneinheit im OG u. DG, Veränderung der Dachkontur, Entfall des Unterflurparksystems
+- TOP 2.1.4.: Schwindstraße 6, Abbruch einer Werkstatt samt Lagerflächen sowie Neubau eines Bürogebäudes
+- TOP 2.1.5.: Augustenstr. 5, Nutzungsänderung Ladenfläche zu Café
+- TOP 2.1.6.: Amalienstr.33, VORBESCHEID, Generalsanierung und Erweiterung eines Gebäudes
+- TOP 2.1.7.: Dachauer Str. 18, Nutzungsänderung einer Ladeneinheit zu einem Wettbüro
+- TOP 2.1.8.: Schraudolphstr. 38, Nutzungsänderung eines Hotels zu Wohnungen, Nachgenehmigung eines erdgeschossigen Anbaus, Umnutzung und Umbau einer Garage und eines Waschhauses in ein Büro, Anbau einer Notleiteranlage, Errichtung einer Dachterrasse mit Zugangssteg und Treppe, Einbau einer DG-Wohnung mit Dachfenster
+- TOP 2.1.9.: Schleißheimer Str. 38, Neubau zweier Mehrfamilienhäuser mit gemeinsamer Tiefgarage (Hinterhofbebauung)
+- TOP 2.1.10.: Schleißheimer Str. 42, Neubau eines Mehrfamilienhauses mit Tiefgarage und Errichtung von Balkonen
+- TOP 2.1.11.: Augustenstr. 73, TEKTUR, Aufstockung zur Errichtung zweier Wohneinheiten und Anbau von Balkonen, Umnutzung und Aufstockung einer Lagerfläche zu einer Wohneinheit, Abbruch eines Lastenaufzugs, Einbau eines Personenaufzugs, Überbauung der TG-Abfahrt zur Errichtung eines Büros etc.
+- TOP 2.1.12.: Amalienstr. 15, Um und Neubau von Seiten- und Rückgebäuden, Einbau einer TG, DG-Ausbau, Gartenvilla mit Nutzungsänderung, EG und Aufzugseinbau
+- TOP 2.1.13.: Aufstellungsbeschluss Bayerischer Rundfunk Bayerischer Rundfunk Bebauungsplan und Grünordnung
+- TOP 5.2.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 5.3.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 5.4.: (U) Bebauungsplan mit Grünordnung Nr. 2126 Königinstraße (östlich),kl Veterinärstraße (nördlich), Englischer Garten (westlich) - Entwicklungscampus Königinstraße - Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität - Satzungsbeschlus - Stadtbezirk 3 Maxvorstadt
+- TOP 5.5.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag CSU vom 23.11.2020 Einzelfallprüfung von Schanigärten – auch bei Tempo 50
+- TOP 1.2.: Antrag SPD vom 23.11.2020 Beteiligung des BA 3 bei Öffentlichkeitsbeteiligung bezüglich der ehemaligen Popup-Radwege. Vorstellung der Planungsvarianten im BA
+- TOP 1.3.: SPD Antrag auf Versetzung der Verteilerkästen vor der Türkenstraße 9
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: Toiletten für den Königsplatz Empfehlung Nr. 14-20 / E 02199 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 18.10.2018
+- TOP 2.2.2.: Fahrradstellplätze Ortstermin Alternativstellplätze BA-Antrags Nr. 14-20 / B 05789, vertagt aus 11 2020
+- TOP 2.2.3.: Vorschläge zu Sommerstraßen 2021
+- TOP 2.2.4.: Adalbertstr. 12, Postkartenständer und Warenpräsentation in Wechselnutzung
+- TOP 2.2.5.: Königinstr. 10 b, Schlangenbrunnen der Tierärztlichen Fakultät der LMU- nachträgliche Aufnahme in die Denkmalliste
+- TOP 2.2.6.: Hiltenspergerstr.11, Errichtung einer Ladezone für den Netto-Markt unter Wegfall von ca. 5 Parkplätzen
+- TOP 2.2.7.: Neue Baumstandorte im öffentlichen Raum
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Ausnahmegenehmigungen zum Aufstellen von Tischen und Stühle auf öffentlichen Verkehrsgrund oder auf Grünflächen vor Gaststätten a) Adalbertstr. 12
+- TOP 3.2.: Verkehrsrechtliche Anordnungen a) Aufhebung Taxistandort Südseite Elisenstraße b) Ausweisung der Tengstraße zur Fahrradstraße
+- TOP 3.3.: Früherer Beginn der Mülleinsammlung im Bereich Briennerstraße, Oskar-von-Miller-Ring und Von-der-Tann Straße
+- TOP 3.5.: Bericht Ergebnispräsentation "vertiefte Machbarkeitsuntersuchungen für sechs Rad- schnellverbindungen in München und Umland“
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag CSU vom 03.11.2020 Planung eines Bildungsbusses, vertagt aus 11 2020
+- TOP 1.2.: Fraktionsübergreifender Antrag des UA Soziales und Bildung auf Entsperrung des Spielplatzes am Königsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Antrag auf Bestellung einer städtischen Leistung: Aufstellung zusätzlicher Tischtennisplatten am Königsplatz und an den Pinakotheken.
+- TOP 2.2.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde St. Markus Anschaffung einer GastroAPE ab 14.12.2020 10.726,91 € / Az. 0262.0-3-0323
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival "Street Art Song" am 11.09.2021 1.000,00 Euro, Az.: 0262.0-3-0322
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Kulturgutscheine des BA 3" Kulturgutscheine für Institutionen in der Maxvorstadt vom 30.11.2020 - 21.01.2021 5.000,00 Euro, Az.: 0262.0-3-0327
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Entwurf des Mehrjahresinvestitionsprogramm 2020-2024 Unterrichtung
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
