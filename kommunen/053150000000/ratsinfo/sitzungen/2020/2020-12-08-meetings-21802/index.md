@@ -1,0 +1,112 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-08T16:00:00+01:00
+- Ende: 2020-12-08T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21802
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21802
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 3.2: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag - Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss 1939/2020, Änderungsantrag Grüne - ungeändert beschlossen
+- TOP 3.2.2: Gemeinsamer Änderungsantrag CDU und SPD - Umgestaltung Ebertplatz - Bedarfsfeststellungsbeschluss - endgültig abgelehnt
+- TOP 3.3: Ebertplatz: Fortführung der Zwischennutzung und Ausarbeitung eines Zwischennutzungskonzeptes für den Zeitraum nach Juni 2021 Arbeitstitel: Fortführung der Zwischennutzung Ebertplatz - ungeändert beschlossen
+- TOP 3.4: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Arbeitstitel: „Campus Kartause (Kartäuserwall 24b)“in Köln-Altstadt/Süd Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschl - ungeändert beschlossen
+- TOP 3.5: Erneuerung der elektrischen Unterverteiler im Bürgerhaus Stollwerck - ungeändert beschlossen
+- TOP 3.6: Bedarfsfeststellungsbeschluss Interimsmaßnahmen Johannisstraße/Tunnelbereich - ungeändert beschlossen
+- TOP 3.7: Notwendige Anpassung der Blockrandbebauung im Rahmen der Erweiterung des Wallraf-Richartz-Museums (WRM) und Fondation Corboud und Randbebauung - Baubeschluss - ungeändert beschlossen
+- TOP 3.8: Errichtung eines „Offenen Bücherschrankes“ - ungeändert beschlossen
+- TOP 3.9: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.10: wurde zu TOP 9.22 verschoben, da Mitteilung - Übergang zum nächsten Tagesordnungspunkt
+- TOP 3.11: Bewegungs Parcours im Hafenpark Deutz - ungeändert beschlossen
+- TOP 3.12: Genehmigung einer Dringlichkeitsentscheidung: Fünfte Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen im Kernbereich Innenstadt - ungeändert beschlossen
+- TOP 3.13: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 3.14: Neue Verkehrsführung im Bereich der Straße Eigelstein - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Abbau von sieben Lichtsignalanlagen im Belgischen Viertel durch den Einsatz alternativer Betriebsformen - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Parksituation Brüsseler Straße (AZ.: 02-1600-260/18) - zurückgestellt
+- TOP 4.2.1: Änderungsantrag - Parksituation Brüsseler Straße - Änderungsantrag Grüne - zurückgestellt
+- TOP 4.3: Bügereingabe nach § 24 GO - Zusatzschilder Rheinauhafen - Az: 125/20 B - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Parkraumoptimierung in der Engelbertstraße - zurückgestellt
+- TOP 5.1.2: Digitales Bürgerbeteiligungs-/Bürgeranhörungsverfahren zur Verkehrsführung Eigelstein, Antrag CDU - endgültig zurückgezogen
+- TOP 5.1.3: Zebrastreifen am Eierplätzchen - zurückgestellt
+- TOP 5.1.4: Poller im Kurvenbereich Darmstädter Straße / Kurfürstenstraße (Neustadt/Süd), Antrag SPD - zurückgestellt
+- TOP 5.1.5: Videobeobachtungsanlagen Ebertplatz Zwischenebene, Antrag CDU - endgültig abgelehnt
+- TOP 5.1.6: Kleinkinderspielplatz am Theodor-Heuss-Ring (Neustadt/Nord), Antrag SPD - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße / Ehrenstraße, gemeinsamer Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.2.1.1: Änderungsantrag - Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße/Ehrenstraße, Änderungsantrag FDP - zurückgestellt
+- TOP 5.2.1.2: Änderungsantrag – Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Str./Ehrenstraße: AN/1336/2020 - zurückgestellt
+- TOP 5.2.2: Hilfe für obdachlose Menschen, Antrag Grüne - geändert beschlossen
+- TOP 5.2.2.1: Änderungsantrag - Hilfe für Obdachlose Menschen- Änderungsantrag FDP - ungeändert beschlossen
+- TOP 5.2.2.2: Änderungsantrag zur Hilfe für Obdachlose, Antrag Die Linke - endgültig abgelehnt
+- TOP 5.2.3: Maskenpflicht - Mehr Klarheit gewünscht, Antrag SPD - ungeändert beschlossen
+- TOP 5.2.4: Zum Sachstand der BV-Beschlüsse, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.5: Sicherer Schulweg mittels Zebrastreifen über "Am Weidenbach", gemeinsamer Antrag Klima Freunde und Grüne - ungeändert beschlossen
+- TOP 5.2.6: Tempo 30 auf dem Gotenring, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.2.8: Gefahrenstelle Rathauszugang entschärfen, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.9: Verkehrsführung im Bereich Friesenstraße / Friesenwall, Antrag Grüne - zurückgestellt
+- TOP 5.2.9.1: Änderungsantrag - Verkehrsführung im Bereich Friesenstraße / Friesenwall - Änderungsantrag FDP - zurückgestellt
+- TOP 5.2.10: Fahrradschutzstreifen Hohenzollernring Einbiegung in die Maastrichter Straße, Antrag SPD - zurückgestellt
+- TOP 5.2.11: Lückenschluss der verkehrsberuhigten Bereich im Bereich Severinswall, An der Bottmühle, Karl-Korn-Straße und Dreikönigenstraße, Zwirnerstraße - sowie Öffnung der Einbahnstraßen Dreikönigenstraße und An der Bottmühle für den Radverkehr, Antrag Grüne - zurückgestellt
+- TOP 5.2.12: Querung des Rudolfplatzes während jeglicher Platznutzung, Antrag SPD - ungeändert beschlossen
+- TOP 5.2.13: Verbesserung der Barrierefreiheit und Radverkehr am südlichen Ubierring, Antrag Grüne - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.6: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim
+- TOP 6.1.7: Umsetzung der Multifunktionszonen vor Veranstaltungsorten
+- TOP 6.1.7.1: Umsetzung der Multifunktionszonen vor Veranstaltungsorten
+- TOP 6.1.8: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf Alleestreifen und Fahrbahn
+- TOP 6.1.8.1: Volksgartenstraße/Rolandstraße: Koordinierung der Arbeiten auf dem Alleestreifen und der Fahrbahn AN/0249/2020
+- TOP 6.1.9: Sachstand Verkehrsberuhigung Eborunenstraße
+- TOP 6.1.9.1: Sachstand Verkehrsberuhigung Eburonenstraße
+- TOP 6.1.10: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad, Anfrage Grüne - zurückgestellt
+- TOP 6.1.11: Planung der Linie 17 - Waidmarkt -, Anfrage CDU
+- TOP 6.1.11.1: Planung der Linie 17 - Waidmarkt
+- TOP 6.1.12: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.1.13: Lüftung und Klimatisierung von Klassenräumen, Dimensionierung von Schulhöfen, Anfrage Grüne - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.2.2: Begrünung insbesondere des Ubierring, Karolingerring und Sachsenring, Anfrage Grüne - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Platzfläche vor St. Heribert
+- TOP 9.2: Parkhaus Hochschule für Musik und Tanz für das Anwohnerparken freigeben - Kenntnis genommen
+- TOP 9.3: Änderung Parkordnung zur Gewährleistung der Barrierefreiheit auf Gehwegen in der Engelbertstraße - Kenntnis genommen
+- TOP 9.4: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 9.5: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - Kenntnis genommen
+- TOP 9.6: Regenbogen-Zebrastreifen - Kenntnis genommen
+- TOP 9.7: Behindertenparkplatz Metzer Straße - Kenntnis genommen
+- TOP 9.8: Ampelpärchen Heumarkt - Kenntnis genommen
+- TOP 9.9: Poller auf der Plankgasse - Kenntnis genommen
+- TOP 9.10: Stellungnahme der Verwaltung zum AN/0870/2020 der BV 1 (Innenstadt) - Kenntnis genommen
+- TOP 9.11: Hunde-WC Parkanlage Quentelstr. Südstadt - Kenntnis genommen
+- TOP 9.12: Reinigung Freizeitanlage Klingelpützpark - Kenntnis genommen
+- TOP 9.13: Corona-Testzentrum Hauptbahnhof AN/1140/2020 - Kenntnis genommen
+- TOP 9.14: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 9.15: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" - Kenntnis genommen
+- TOP 9.16: Verbessertes Erscheinungsbild für die Haltestelle Hansaring (Neustadt/Nord) - Kenntnis genommen
+- TOP 9.17: Stellungnahme zu einem Antrag der SPD-Fraktion der BV Innenstadt vom 26.08.2020, AN/0948/2020 - Kenntnis genommen
+- TOP 9.18: Temporäres Buslinienkonzept an der Behelfsbrücke am Waidmarkt - Kenntnis genommen
+- TOP 9.19: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 9.20: Änderung und erneute Offenlage des Bebauungsplan-Entwurfes Nr. 65450/05 nach § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB; - Kenntnis genommen
+- TOP 9.21: Jahresbericht der Bezirksvertretung Innenstadt 2018 - 2020 - Kenntnis genommen
+- TOP 9.22: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung. - Kenntnis genommen
