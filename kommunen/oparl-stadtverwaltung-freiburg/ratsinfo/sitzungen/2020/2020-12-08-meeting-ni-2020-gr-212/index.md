@@ -1,0 +1,69 @@
+# 14. Sitzung des Gemeinderates
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2020-12-08T16:09:00+01:00
+- Ende: 2020-12-08T20:53:00+01:00
+- Ort: Großer Saal im Bürgerhaus Zähringen, Lameystraße 2, 79108 Freiburg im Breisgau
+- Status: durchgeführt
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2020-GR-212
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2020-GR-212
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung des Ausscheidens von Frau Stadträtin Monika Stein aus dem Gemeinderat
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Einbringung des Doppelhaushaltes 2021/2022 Haushaltsreden Oberbürgermeister Horn und Bürgermeister Breiter
+- TOP 4: Doppelhaushalt 2021/2022 - Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2021 und 2022
+- TOP 4.1: Doppelhaushalt 2021/2022 h i e r : Änderungen von bestehenden Gemeinderatsbeschlüssen
+- TOP 4.2: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die Träger der freien Jugendhilfe
+- TOP 4.3: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die Träger_innen der freien Jugendhilfe im Bereich Migration
+- TOP 4.4: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die Träger_innen der freien Jugendhilfe im Bereich Jugendberufshilfe
+- TOP 4.5: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die freien Träger_innen im Bereich Migration
+- TOP 4.6: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die Verbände der Wohlfahrtspflege
+- TOP 4.7: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse an die Verbände der Wohlfahrtspflege im Aufgabenfeld 21 – Angebote für Frauen und Mädchen/Prävention
+- TOP 4.8: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse im Kulturbereich
+- TOP 4.9: Aufstellung des Doppelhaushaltes 2021/2022 h i e r : Zuschüsse im Bereich Sport
+- TOP 4.10: 4. Freiburger Nachhaltigkeitsbericht Steuerungsgrundlage für kommunale Entscheidungsträger_innen
+- TOP 4.11: Weiterentwicklung der Erziehungs- und Familienberatung in der Stadt Freiburg
+- TOP 4.12: Investitionszuschüsse und Förderungen von Kita-Einrichtungen freier Träger h i e r : Fortschreibung der Richtlinien
+- TOP 4.13: Digitalisierung an Freiburger Schulen h i e r : Einführung einer Schulträgerlösung für die Digitalisierung an den Freiburger Schulen und Fortschreibung des Sachstandes
+- TOP 4.14: Festsetzung der Elternbeiträge in der Schulkindbetreuung an öffentlichen Freiburger Grundschulen
+- TOP 4.15: Klimaschutzkonzept Freiburg h i e r : Mittelverwendung aus dem Klimaschutzfonds für zusätzliche Klimaschutzmaßnahmen im Doppelhaushalt 2021/2022
+- TOP 4.16: Projekte zur Beschäftigungsförderung 2021/2022
+- TOP 4.17: Parken in Freiburg h i e r : a) Ausweitung der Parkraumbewirtschaftung b) Verbesserung der Park-and-Ride-Situation
+- TOP 5: Neubesetzung von gemeinderätlichen Ausschüssen, Gremien und Organen der Gesellschaften mit städtischer Beteiligung
+- TOP 6: Änderungen in der Zusammensetzung gemeinderätlicher Ausschüsse und anderer Gremien
+- TOP 8: Neuabschluss der bestehenden Beherrschungs- und Ergebnisabführungsverträge der Stadtwerke Freiburg GmbH mit ihren Beteiligungsunternehmen Freiburger Verkehrs AG, Stadtwerke Freiburg Bäder GmbH und Flugplatz Freiburg-Breisgau GmbH
+- TOP 9: Gemeinschaftsschule Dietenbach h i e r : Grundsatzbeschluss
+- TOP 10: Stellungnahme der Stadt Freiburg i. Br. zum Entwurf des Managementplans des Natura 2000-Gebiets „Kandelwald, Roßkopf und Zartener Becken"
+- TOP 11: Eigenbetrieb Abfallwirtschaft Freiburg h i e r : - Jahresabschluss 2018 und Bericht des Rechnungsprüfungsamtes über die Prüfung des Jahresabschlusses 2018 - Wirtschaftsplan 2021/2022 - Fortschreibung des Bewirtschaftungsrahmenvertrages mit der ASF GmbH
+- TOP 12: I. Genehmigung von überplanmäßigen Aufwendungen in der Sozialhilfe für das Haushaltsjahr 2019 II. Fallzahlen- und Kostenentwicklung in der Sozialhilfe im Jahr 2020
+- TOP 13: Eigenbetrieb Theater Freiburg h i e r : Jahresabschluss zum 31.08.2019 mit Lagebericht sowie Bericht des Rechnungsprüfungsamtes über die Prüfung des Jahresabschlusses
+- TOP 17: Erbbaurecht an Flst.Nr. 6262/3 h i e r : Verlängerung der Zuschussgewährung für die Großmarkt GmbH
+- TOP 18: Eigenbetrieb Friedhöfe mit Bestattungsdienst h i e r : - Wirtschaftsplan 2021/2022 - Bericht über die aktuelle Entwicklung
+- TOP 19: Eigenbetrieb Stadtentwässerung h i e r : Jahresabschluss und Lagebericht 2019
+- TOP 20: Eigenbetrieb Stadtentwässerung h i e r : Wirtschaftsplan 2021/2022
+- TOP 21: Jahresabschluss 2018 h i e r : 1. Schlussbericht des Rechnungsprüfungsamtes 2. Jahresabschluss 2018 3. Verknüpfung von Nachhaltigkeitszielen mit dem NKHR
+- TOP 26: Entwicklung des Baugebiets Kleineschholz h i e r : 1. Sachstandsbericht 2. Beschluss vorbereitender Untersuchungen für eine Städtebauliche Entwicklungsmaßnahme gemäß § 165 Abs. 4 BauGB 3. Kosten- und Finanzierungsrechnung 4. Einrichtung einer Projektgruppe/Stellenbedarf
+- TOP 27: Stadtteilleitlinien (STELL) Wiehre h i e r : Beschluss erweiterte Projektliste
+- TOP 29: Städtebauliche Sanierungsverfahren h i e r : Anträge und Sachstandsberichte für das Programmjahr 2021
+- TOP 30: Städtebauliche Entwicklungsmaßnahme Gewerbegebiet Haid-Süd h i e r : Wirtschaftsplan 2021/2022
+- TOP 36: Beschlussfassung zum weiteren Verfahren h i e r : interfraktioneller Antrag "Änderung der Hauptsatzung in Angelegenheiten der Freiburger Stadtbau GmbH" - Antrag -
+- TOP 7: Gremiensitzungen mit Videounterstützung h i e r : - Interfraktioneller Antrag nach § 34 Gemeindeordnung von Bündnis 90/DIE GRÜNEN und CDU vom 13.10.2020 - Änderung der Hauptsatzung
+- TOP 14: Fördermaßnahmen und Mehrbedarfe für Kultur in Freiburg h i e r : Finanzierung 2020
+- TOP 15: Förderung Rock und Pop h i e r : Bandübungsräume in der Karlsruher Straße
+- TOP 16: Mietspiegel 2021/2022 h i e r : Ergebnisse der Neuerstellung
+- TOP 32: Rechtliche Zulässigkeit Fuß- und Radentscheid Freiburg h i e r : "Bürgerbegehren für ein fuß- und fahrradfreundliches Freiburg" sowie "Bürgerbegehren für einen fuß- und fahrradfreundlichen Innenstadtring"
+- TOP 32.1: Rechtliche Zulässigkeit Fuß- und Radentscheid Freiburg h i e r : "Bürgerbegehren für ein fuß- und fahrradfreundliches Freiburg" sowie "Bürgerbegehren für einen fuß- und fahrradfreundlichen Innenstadtring"
+- TOP 33: Arbeitsgruppe Mobilität 2030 h i e r : Klimaneutral Mobil in Freiburg und Verbesserungen im Fuß- und Radverkehr
+- TOP 34: Mobile / digitale Parkraumbewirtschaftung (m-parking / Handyparken)
+- TOP 35: Parken im öffentlichen Raum
+- TOP 22: 2. Finanzbericht 2020 und Genehmigung von außer- bzw. überplanmäßigen Aufwendungen/Auszahlungen
+- TOP 23: Neuer Stadtteil Dietenbach h i e r : Beschluss des städtebaulichen Rahmenplans
+- TOP 24: Neuer Stadtteil Dietenbach h i e r : Beschluss der Sonderrechnung für 2021/2022 mit Kosten- und Finanzierungsübersicht
+- TOP 25: Neuer Stadtteil Dietenbach h i e r : Weitere Kooperation zwischen der Gemeinde Bahlingen am Kaiserstuhl und der Stadt Freiburg beim Projekt „Wilde Weiden“ als naturschutzrechtlicher Ausgleich für den neuen Stadtteil Dietenbach
+- TOP 28: Flächennutzungsplan 2040 mit integriertem Landschaftsplan h i e r : Ergebnisse gesamtstädtisches Gewerbeflächenentwicklungskonzept
+- TOP 31: Neues Eisstadion Freiburg h i e r : Untersuchungsergebnisse und weiteres Vorgehen
+- TOP 37: Bekanntgaben und Aktuelles
