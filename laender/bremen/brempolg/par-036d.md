@@ -1,3 +1,0 @@
-# § 36 d Datenübermittlung innerhalb der Polizei
-(1) Die Behörden und Dienststellen der Polizei dürfen untereinander personenbezogene Daten übermitteln, wenn die Übermittlung zur Erfüllung einer Aufgabe der Gefahrenabwehr erforderlich ist. Dies gilt auch für Übermittlungen an die Polizei und sonstige Behörden der Gefahrenabwehr anderer Länder und des Bundes.
-(2) Sollen personenbezogene Daten, die mit besonderen Mitteln oder Methoden erhoben oder nach § 36 b Abs. 7 gespeichert worden sind, zu einem anderen Zweck übermittelt werden, so ist zuvor zu prüfen, ob die Verarbeitung dieser Daten durch den Empfänger nach § 36 b Abs. 6 zulässig ist.

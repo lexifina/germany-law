@@ -10,113 +10,174 @@ Erster Teil: Das Recht der Polizei
 § 6 | Verantwortlichkeit für den Zustand von Sachen
 § 7 | Inanspruchnahme nicht verantwortlicher Personen
 § 8 | Verantwortlichkeit nach anderen Vorschriften
-§ 9 | Einschränkung von Grundrechten
-2. Abschnitt: Befugnisse
-1. Unterabschnitt:Allgemeine und besondere Befugnisse der Polizei
+§ 9 | Legitimations- und Kennzeichnungspflich
+2. Abschnitt: Allgemeine und besondere Befugnisse der Polizei
 § 10 | Allgemeine Befugnisse
-§ 11 | Identitätsfeststellung, Prüfung von Berechtigungsscheinen
-§ 11a | Kontrollstellen
-§ 11b | Erkennungsdienstliche Maßnahmen
-§ 12 | Vorladung
-§ 13 | Befragung und Auskunftspflicht
-§ 14 | Platzverweisung
-§ 14a | Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt
-§ 15 | Gewahrsam
-§ 16 | Richterliche Entscheidung
-§ 17 | Rechte bei Freiheitsentziehungen
-§ 18 | Dauer der Freiheitsentziehung
-§ 19 | Durchsuchung von Personen
-§ 20 | Durchsuchung von Sachen
-§ 21 | Betreten und Durchsuchung von Wohnungen
-§ 22 | Verfahren beim Betreten und bei der Durchsuchung von Wohnungen
-§ 23 | Sicherstellung
-§ 24 | Durchführung der Sicherstellung
-§ 25 | Verwertung, Einziehung, Vernichtung
-§ 26 | Herausgabe sichergestellter Sachen oder des Erlöses
-§ 26a | Sicherstellung privater Grundstücke, Gebäude oder Gebäude- oder Grundstücksteile zur Flüchtlingsunterbringung
-2. Unterabschnitt:Befugnisse zur Informationsverarbeitung
-§ 27 | Grundsätze der Datenerhebung
-§ 28 | Datenerhebung
-§ 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten und im öffentlichen Verkehrsraum
-§ 30 | Datenerhebung mit besonderen Mitteln und Methoden
-§ 31 | Polizeiliche Beobachtung
-§ 32 | Datenerhebung durch Observation
-§ 33 | Datenerhebung durch den verdeckten Einsatz technischer Mittel
-§ 34 | Datenerhebung durch Vertrauenspersonen
-§ 35 | Datenerhebung durch den Einsatz verdeckt ermittelnder Personen
-§ 36 | Parlamentarische Kontrolle
-§ 36a | Speicherung, Veränderung und Nutzung personenbezogener Daten, Zweckbindung
-§ 36b | Speicherung, Veränderung und Nutzung personenbezogener Daten zu anderen Zwecken
-§ 36c | Allgemeine Regeln der Datenübermittlung
-§ 36d | Datenübermittlung innerhalb der Polizei
-§ 36e | Automatisiertes Abrufverfahren
-§ 36f | Datenübermittlung an andere öffentliche Stellen, an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen
-§ 36g | Datenübermittlung an Personen oder Stellen außerhalb des öffentlichen Bereichs, Bekanntgabe an die Öffentlichkeit
-§ 36h | Datenabgleich
-§ 36i | Datenabgleich mit anderen Dateien
-§ 36j | Dateibeschreibung
-§ 36k | Berichtigung, Löschung und Sperrung von Daten
-3. Abschnitt: Vollzugshilfe
-§ 37 | Vollzugshilfe
-§ 38 | Verfahren
-§ 39 | Vollzugshilfe bei Freiheitsentziehungen
-4. Abschnitt: Zwang
-§ 40 | Allgemeines
-§ 41 | Unmittelbarer Zwang
-§ 42 | Handeln auf Anordnung
-§ 43 | Hilfeleistung für Verletzte
-§ 44 | Androhung unmittelbaren Zwangs
-§ 45 | Fesselung von Personen
-§ 46 | Allgemeine Vorschriften für den Schusswaffengebrauch
-§ 47 | Schusswaffengebrauch gegen Personen
-5. Abschnitt: Polizeiverordnungen
-§ 48 | Begriff
-§ 49 | Zuständigkeit
-§ 50 | Vorlagepflicht - Zustimmungserfordernis
-§ 51 | Selbsteintrittsrecht der Fachaufsichtsbehörde
-§ 52 | Inhaltliche Grenzen
-§ 53 | Formerfordernisse
-§ 54 | Bußgeldvorschrift
-§ 55 | Geltungsdauer von Polizeiverordnungen
-6. Abschnitt: Schadensausgleich, Erstattungs- und Ersatzansprüche
-§ 56 | Zum Schadensausgleich verpflichtende Tatbestände
-§ 57 | Schadensausgleich bei Vermögensschäden und bei Freiheitsentziehung
-§ 58 | Schadensausgleich bei Gesundheitsschäden
-§ 59 | Verjährung des Ausgleichsanspruchs
-§ 60 | Ausgleichspflichtiger; Erstattungsansprüche
-§ 61 | Rückgriff gegen den Verantwortlichen
-§ 62 | Rechtsweg
-Zweiter Teil: Organisation der Polizei
+§ 11 | Platzverweisung; Betretens- und Aufenthaltsverbot
+§ 12 | Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt
+§ 13 | Gewahrsam
+§ 14 | Richterliche Entscheidung
+§ 15 | Rechte bei Freiheitsentziehungen
+§ 16 | Dauer der Freiheitsentziehung
+§ 17 | Durchsuchung von Personen
+§ 18 | Durchsuchung von Sachen
+§ 19 | Betreten und Durchsuchung von Wohnungen
+§ 20 | Verfahren beim Betreten und bei der Durchsuchung von Wohnungen
+§ 21 | Sicherstellung
+§ 22 | Durchführung der Sicherstellung
+§ 23 | Verwertung, Einziehung, Vernichtung
+§ 24 | Herausgabe sichergestellter Sachen oder des Erlöses
+3. Abschnitt: Allgemeine Bestimmungen zur Verarbeitung personenbezogener Daten
+1. Unterabschnitt: Datenerhebung
+§ 25 | Grundsätze
+§ 26 | Allgemeine Befugnisse
+§ 27 | Identitätsfeststellung, Prüfung von Berechtigungsscheinen
+§ 28 | Kontrollstellen
+§ 29 | Erkennungsdienstliche Maßnahmen
+§ 30 | Vorladung
+§ 31 | Befragung und Auskunftspflicht
+§ 32 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen sowie an besonders gefährdeten Objekten, Orten und Anlagen
+§ 33 | Datenverarbeitung durch den Einsatz körpernah getragener oder an polizeilich genutzten Fahrzeugen befestigter Aufnahmegeräte
+§ 34 | Datenerhebung innerhalb von polizeilich genutzten Räumen und Fahrzeugen
+2. Unterabschnitt: Besondere Mittel und Methoden der Datenerhebung
+§ 35 | Datenerhebung mit besonderen Mitteln und Methoden
+§ 36 | Schutz des Kernbereichs privater Lebensgestaltung
+§ 37 | Schutz von Berufsgeheimnisträgern
+§ 38 | Parlamentarische Kontrolle; Berichtspflicht
+§ 39 | Polizeiliche Beobachtung
+§ 40 | Datenerhebung durch Observation
+§ 41 | Datenerhebung durch den verdeckten Einsatz technischer Mittel
+§ 42 | Telekommunikationsüberwachung und Eingriff in die Telekommunikation
+§ 43 | Verkehrsdatenerhebung, Nutzungsdatenerhebung und Standortermittlung
+§ 44 | Bestandsdatenerhebung
+§ 45 | Anordnung von Telekommunikationsmaßnahmen
+§ 46 | Datenerhebung durch Vertrauenspersonen
+§ 47 | Datenerhebung durch den Einsatz verdeckt ermittelnder Personen
+§ 48 | Datenabgleich
+§ 49 | Datenabgleich mit anderen Dateien
+3. Unterabschnitt: Weiterverarbeitung
+§ 50 | Datenweiterverarbeitung; Zweckbindung; Zweckänderung
+§ 51 | Weiterverarbeitung zu besonderen Zwecken
+§ 52 | Kennzeichnung
+4. Unterabschnitt: Datenübermittlung
+§ 53 | Allgemeine Voraussetzungen der Datenübermittlung
+§ 54 | Automatisiertes Abrufverfahren; Datenverbund
+§ 55 | Datenübermittlung im Inland und innerhalb der Europäischen Union
+§ 56 | Bereitstellung von Daten an Kontrollgremien
+§ 57 | Übermittlung von Daten durch nicht öffentliche Stellen an den Polizeivollzugsdienst
+5. Unterabschnitt: Berichtigung, Löschung und Einschränkung der Datenverarbeitung
+§ 58 | Berichtigung, Löschung und Einschränkung der Datenverarbeitung
+4. Abschnitt: Besondere Bestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680
+1. Unterabschnitt: Anwendungsbereich, Grundsätze der Datenverarbeitung
+§ 59 | Anwendungsbereich
+§ 60 | Grundsätze der Datenverarbeitung
+§ 61 | Verarbeitung besonderer Kategorien personenbezogener Daten
+§ 62 | Profiling; automatisierte Einzelentscheidung
+§ 63 | Anforderungen an die Sicherheit der Datenverarbeitung
+§ 64 | Meldung von Verletzungen des Schutzes personenbezogener Daten an die Landesbeauftragte oder den Landesbeauftragten für Datenschutz und Informationsfreiheit
+§ 65 | Unterrichtung der betroffenen Person bei Verletzungen des Schutzes personenbezogener Daten
+2. Unterabschnitt: Datenübermittlungen an Drittstaaten und an internationale Organisationen
+§ 66 | Allgemeine Voraussetzungen der Datenübermittlung an Drittstaaten und an internationale Organisationen
+§ 67 | Voraussetzungen der Datenübermittlung bei geeigneten Garantien
+§ 68 | Voraussetzungen der Datenübermittlung ohne geeignete Garantien
+§ 69 | Datenübermittlung an für Gefahrenabwehr, Strafverfolgung oder Strafvollstreckung zuständige Stellen in Drittstaaten
+§ 70 | Datenübermittlung an sonstige Stellen in Drittstaaten
+3. Unterabschnitt: Rechte der betroffenen Person
+§ 71 | Allgemeine Informationspflicht
+§ 72 | Unterrichtung betroffener Personen
+§ 73 | Auskunftsrecht
+§ 74 | Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung
+§ 75 | Verfahren für die Ausübung der Rechte der betroffenen Person
+4. Unterabschnitt: Pflichten der Polizei und Auftragsverarbeiter
+§ 76 | Pflichten der Polizei
+§ 77 | Gemeinsame Verantwortlichkeit
+§ 78 | Auftragsverarbeitung
+§ 79 | Verarbeitung auf Weisung; Datengeheimnis
+§ 80 | Verzeichnis von Verarbeitungstätigkeiten
+§ 81 | Protokollierung
+§ 82 | Durchführung einer Datenschutz-Folgenabschätzung
+5. Unterabschnitt: Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit
+§ 83 | Aufsichtsbehörde
+§ 84 | Aufgaben
+§ 85 | Befugnisse
+§ 86 | Anhörung
+§ 87 | Anrufung
+§ 88 | Rechtsschutz gegen Entscheidungen der oder des Landesbeauftragten oder bei deren oder dessen Untätigkeit
+§ 89 | (weggefallen)
+§ 90 | Tätigkeitsbericht und parlamentarische Ersuchen
+§ 91 | Gegenseitige Amtshilfe
+6. Unterabschnitt: Datenschutzbeauftragte der Polizei
+§ 92 | Benennung
+§ 93 | Stellung
+§ 94 | Aufgaben
+7. Unterabschnitt: Haftung und Sanktionen
+§ 95 | Schadensausgleich bei Datenschutzverletzungen
+§ 96 | Ordnungswidrigkeiten und Strafvorschriften
+5. Abschnitt: Vollzugshilfe
+§ 97 | Vollzugshilfe
+§ 98 | Verfahren
+§ 99 | Vollzugshilfe bei Freiheitsentziehungen
+6. Abschnitt: Zwang
+§ 100 | Allgemeines
+§ 101 | Unmittelbarer Zwang
+§ 102 | Handeln auf Anordnung
+§ 103 | Hilfeleistung für Verletzte
+§ 104 | Androhung unmittelbaren Zwangs
+§ 105 | Fesselung von Personen
+§ 106 | Fixierung von Personen
+§ 107 | Allgemeine Vorschriften für den Schusswaffengebrauch
+§ 108 | Schusswaffengebrauch gegen Personen
+7. Abschnitt: Polizeiverordnungen
+§ 109 | Begriff
+§ 110 | Zuständigkeit
+§ 111 | Vorlagepflicht -Zustimmungserfordernis
+§ 112 | Selbsteintrittsrecht der Fachaufsichtsbehörde
+§ 113 | Inhaltliche Grenzen
+§ 114 | Formerfordernisse
+§ 115 | Bußgeldvorschrift
+§ 116 | Geltungsdauer von Polizeiverordnungen
+8. Abschnitt:Schadensausgleich, Erstattungs- und Ersatzansprüche
+§ 117 | Zum Schadensausgleich verpflichtende Tatbestände
+§ 118 | Schadensausgleich bei Vermögensschäden und bei Freiheitsentziehung
+§ 119 | Schadensausgleich bei Gesundheitsschäden
+§ 120 | Verjährung des Ausgleichsanspruchs
+§ 121 | Ausgleichspflichtiger; Erstattungsansprüche
+§ 122 | Rückgriff gegen den Verantwortlichen
+§ 123 | Rechtsweg
+2. Teil: Organisation der Polizei
 1. Abschnitt: Polizeihoheit und Aufgabenverteilung
-§ 63 | Träger der Polizeihoheit
-§ 64 | Wahrnehmung polizeilicher Aufgaben
+§ 124 | Träger der Polizeihoheit
+§ 125 | Wahrnehmung polizeilicher Aufgaben
 2. Abschnitt: Polizeibehörden
-§ 65 | Allgemeine Polizeibehörden
-§ 66 | Sonderpolizeibehörden
-§ 67 | Gliederung der allgemeinen Polizeibehörden
-§ 68 | Aufsicht über die Polizeibehörden
-§ 69 | Weisungsrecht, Selbsteintritt, Unterrichtungspflicht
+§ 126 | Allgemeine Polizeibehörden
+§ 127 | Sonderpolizeibehörden
+§ 128 | Gliederung der allgemeinen Polizeibehörden
+§ 129 | Kommunaler Ordnungsdienst
+§ 130 | Aufsicht über die Polizeibehörden
 3. Abschnitt: Polizeivollzugsdienst
-§ 70 | Polizeivollzugsdienst des Landes
-§ 71 | Aufgaben der Polizei Bremen
-§ 72 | Aufgaben des Landeskriminalamts
-§ 73 | Vollzugspolizeiliche Aufgaben des Senators für Inneres
-§ 74 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
-§ 75 | Unterstützung und gemeinsamer Einsatz
-§ 76 | Hilfspolizeibeamte
-§ 77 | Aufsicht über den Polizeivollzugsdienst
+§ 131 | Weisungsrecht, Selbsteintritt, Unterrichtungspflicht
+§ 132 | Polizeivollzugsdienst des Landes
+§ 133 | Aufgaben der Polizei Bremen
+§ 134 | Aufgaben des Landeskriminalamts
+§ 135 | Vollzugspolizeiliche Aufgaben des Senators für Inneres
+§ 136 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
+§ 137 | Unterstützung und gemeinsamer Einsatz
+§ 138 | Hilfspolizeibeamtinnen und Hilfspolizeibeamte
+§ 139 | Aufsicht über den Polizeivollzugsdienst
 4. Abschnitt: Zuständigkeiten
-§ 78 | Örtliche Zuständigkeit
-§ 79 | Sachliche Zuständigkeit
-§ 80 | Außerordentliche sachliche Zuständigkeit
-§ 81 | Amtshandlungen von Polizeivollzugsbeamten anderer Länder und des Bundes
-§ 82 | Amtshandlungen von bremischen Polizeivollzugsbeamten außerhalb des Zuständigkeitsbereichs des Landes Bremen
-Dritter Teil: Die Kosten der Polizei
-§ 83 | Kosten
-Vierter Teil: Übergangs- und Schlussbestimmungen
-§ 84 | Überleitung der Zuständigkeiten
-§ 85 | Weitergeltung von Polizeiverordnungen und anderen Rechtsvorschriften
-§ 86 | Anwendung unmittelbaren Zwanges durch Nichtpolizeibehörden
-§ 87 | Änderung von Landesgesetzen
-§ 87a | Übergangsvorschrift
-§ 88 | Inkrafttreten
+§ 140 | Örtliche Zuständigkeit
+§ 141 | Sachliche Zuständigkeit
+§ 142 | Außerordentliche sachliche Zuständigkeit
+§ 143 | Amtshandlungen von Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten anderer Länder und des Bundes
+§ 144 | Amtshandlungen von bremischen Polizeivollzugsbeamtinnen und Polizeivoll-zugsbeamten außerhalb des Zuständigkeitsbereichs des Landes Bremen
+5. Abschnitt: Zuverlässigkeitsüberprüfung
+§ 145 | Zuverlässigkeitsüberprüfungen bei Behörden des Polizeivollzugsdienstes
+Dritter Teil:Die Kosten der Polizei
+§ 146 | Kosten
+Vierter Teil:Übergangs- und Schlussbestimmungen
+§ 147 | Überleitung der Zuständigkeiten
+§ 148 | Weitergeltung von Polizeiverordnungen und anderen Rechtsvorschriften
+§ 149 | Anwendung unmittelbaren Zwanges durch Nichtpolizeibehörden
+§ 150 | Evaluation
+§ 151 | Einschränkung von Grundrechten
+§ 152 | Inkrafttreten; Außerkrafttreten

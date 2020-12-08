@@ -1,4 +1,0 @@
-# § 36 c Allgemeine Regeln der Datenübermittlung
-(1) Personenbezogene Daten dürfen zu einem anderen Zweck als dem, zu dem sie erlangt oder gespeichert worden sind, nur unter den Voraussetzungen des § 36 b Abs. 1 und 4 übermittelt werden. Die Übermittlung zu einem anderen Zweck ist aktenkundig zu machen. Dies gilt nicht für mündliche Auskünfte, wenn zur betroffenen Person keine Unterlagen geführt werden, und nicht für automatisierte Abrufverfahren.
-(2) Bewertungen (§ 36 a Abs. 3 Satz 2), personenbezogene Daten über die in § 28 Abs. 2 Nr. 2 bis 4 genannten Personen sowie nach § 31 Abs. 3 übermittelte personenbezogene Daten über eine Person, die mit einer ausgeschriebenen Person angetroffen worden ist, dürfen nur Polizei- und Strafverfolgungsbehörden übermittelt werden.
-(3) Die Datenübermittlung zwischen der Polizei und dem Verfassungsschutz erfolgt nach dem Gesetz über den Verfassungsschutz im Lande Bremen.
