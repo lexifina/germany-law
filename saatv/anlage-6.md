@@ -36,7 +36,7 @@
 | 2.1.3 | Prunkbohne, Buschbohne, Stangenbohne, Erbse, Dicke Bohne | 5 |
 2.1.4 Die Höchstmenge einer Kleinpackung beträgt für nach Stückzahl abgepacktes Saatgut bei Zuckermais und Puffmais 2 000 Körner, im Übrigen 50 000 Körner oder Knäuel.
 2.2 Kennzeichnung
-2.2.1 "EG-Norm"
+2.2.1 "EU-Norm"
 2.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
 2.2.3 Art und Sortenbezeichnung
 2.2.3a bei Saatgutmischungen von Gemüsesorten einer Gemüseart die Angabe „Saatgutmischung aus Sorten der Art … “ (Bezeichnung der Gemüseart) und die Sortenbezeichnungen
@@ -64,7 +64,7 @@ Bezeichnung
 | 3.1.1.2.2 | Leguminosen (auch mit Getreide) | 2 | über 2 bis 10 | über 10 bis 30 |
 | 3.1.2 | Andere als unter 3.1.1 genannte Verwendungszwecke (§ 26 Absatz 3 Satz 2) | 2 | über 2 bis 10 | über 10 bis 30 |
 |  |
-|  | ----------------1)Bei Mischungen mit mehr als 50 v. H. des Gewichtes an Saatgut von Getreide, Lupinen, Futtererbse, Ackerbohne, Wicken, Sojabohne oder Sonnenblume bis 30 kg. |
+|  | ----------1)Bei Mischungen mit mehr als 50 v. H. des Gewichtes an Saatgut von Getreide, Lupinen, Futtererbse, Ackerbohne, Wicken, Sojabohne oder Sonnenblume bis 30 kg. |
 3.2 Kennzeichnung
     3.2.1 Bezeichnung
     3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer

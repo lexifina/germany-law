@@ -1,27 +1,59 @@
-# Anlage 1 (zu § 4 Abs. 3, § 6 Satz 1)
+# Anlage 1 (zu § 4 Abs. 3, § 6 Satz 1)Anforderungen an den Rebenbestand
 
-Anforderungen an den Rebenbestand
-
-(Fundstelle des Originaltextes: BGBl. I 2006, 1440 - 1441)
 1 Allgemeines
 1.1 Der Bestand ist sortenecht und sortenrein und entspricht erforderlichenfalls dem Klon.
 1.2 Das Vorhandensein von Schadorganismen, die den Wert des Pflanzgutes beeinträchtigen, ist auf das geringstmögliche Maß beschränkt.
 1.3 Die Gründe für die durch Virusbefall oder andere Einwirkungen verursachten Fehlstellen sind von demjenigen, in dessen Betrieb die Prüfung stattfindet, in den Aufzeichnungen über die Rebenbestände vermerkt worden.
-2 Virosen
-2.1 Die nachfolgend genannten Virosen sind bei der amtlichen Prüfung nach Maßgabe der Nummern 2.2 bis 2.6 entsprechend zu berücksichtigen:
-| a) Komplex der Reisigkrankheit: | Grapevine fanleaf virus (GFLV), Arabis mosaic virus (ArMV), |
-| b) Blattrollkrankheit: | Grapevine leafroll-associated virus 1 (GLRaV-1) und Grapevine leafroll-associated virus 3 (GLRaV-3), |
-| c) Fleckkrankheit: | Grapevine fleck virus (GFkV) (nur bei Unterlagsreben). |
-2.2 In den für die Erzeugung von Vorstufenpflanzgut bestimmten Mutterrebenbeständen dürfen durch eine amtliche Prüfung aller Pflanzen in einem international anerkannten Testverfahren die unter Nummer 2.1 genannten Virosen nicht nachweisbar sein. Hinsichtlich der unter Nummer 2.1 Buchstabe a und b genannten Virosen ist diese Prüfung alle 5 Jahre zu wiederholen.
-  Befallene Pflanzen sind zu entfernen.
-2.3 In den für die Erzeugung von Basispflanzgut bestimmten Mutterrebenbeständen dürfen durch eine amtliche Prüfung aller Pflanzen in einem geeigneten Testverfahren die unter Nummer 2.1 Buchstabe a und b genannten Virosen nicht nachweisbar sein. Diese Prüfung beginnt bei 3 Jahre alten Mutterrebenbeständen und ist alle 6 Jahre mindestens einmal zu wiederholen. Werden Mutterrebenbestände einer jährlichen amtlichen Feldbesichtigung aller Pflanzen unterzogen, beginnt die vorgenannte Prüfung bei 6 Jahre alten Mutterrebenbeständen und ist alle 6 Jahre mindestens einmal zu wiederholen.
-  Befallene Pflanzen sind zu entfernen.
-2.4 In den für die Erzeugung von Zertifiziertem Pflanzgut bestimmten Mutterrebenbeständen dürfen durch eine stichprobenweise amtliche Prüfung in einem geeigneten Testverfahren die unter Nummer 2.1 Buchstabe a und b genannten Virosen nicht nachweisbar sein. Diese Prüfung beginnt bei 5 Jahre alten Mutterrebenbeständen und ist alle 10 Jahre mindestens einmal zu wiederholen. Werden Mutterrebenbestände einer jährlichen amtlichen Feldbesichtigung aller Pflanzen unterzogen, beginnt die vorgenannte Prüfung bei 10 Jahre alten Mutterrebenbeständen und ist alle 10 Jahre mindestens einmal zu wiederholen.
-  Befallene Pflanzen sind zu entfernen.
-  Der Anteil der Fehlstellen, die durch die unter Nummer 2.1 Buchstabe a und b genannten Virosen verursacht worden sind, darf nicht mehr als 5 v. H. betragen.
-2.5 Bei den für die Erzeugung von Standardpflanzgut bestimmten Mutterrebenbeständen darf der Anteil der Fehlstellen, die durch die unter Nummer 2.1 Buchstabe a und b genannten Virosen verursacht worden sind, nicht mehr als 10 v. H. betragen.
-  Befallene Pflanzen sind deutlich zu kennzeichnen und dürfen nicht für die Erzeugung von Pflanzgut verwendet werden.
-2.6 In Rebschulen dürfen bei einer Bestandsbesichtigung keine äußeren Anzeichen des Befalls mit den unter Nummer 2.1 Buchstabe a und b genannten Virosen feststellbar sein. Führt die Bestandsbesichtigung zu keinem eindeutigen Ergebnis, muss mit Hilfe eines geeigneten Testverfahrens festgestellt werden, dass diese Virosen nicht nachweisbar sind.
+1.4 Die in dieser Anlage vorgesehenen visuellen Kontrollen, Probenahmen und Untersuchungen werden jeweils in der am besten geeigneten Jahreszeit unter Berücksichtigung von Klima- und Wachstumsbedingungen der Reben sowie der Biologie der relevanten RNQPs durchgeführt.
+2. RNQPs
+2.1 Die nachfolgend genannten RNQPs sind bei der amtlichen Prüfung nach Maßgabe der Nummern 2.2 bis 2.4 entsprechend zu berücksichtigen:
+  a) Insekten: Viteus vitifoliae Fitch
+  b) Bakterien: Xylophilus ampelinus Willems et al.
+  c) Viren, Viroide, virusähnliche Krankheiten und Phytoplasmen:
+    aa) Candidatus Phytoplasma solani Quaglino et al.
+    bb) Arabis mosaic virus
+    cc) Grapevine fanleaf virus
+    dd) Grapevine leafroll associated virus 1
+    ee) Grapevine leafroll associated virus 3
+    ff) Grapevine fleck virus (nur bei Unterlagsreben)
+2.2 Visuelle Kontrollen bei Vorstufenpflanzgut, Basispflanzgut, Zertifiziertem Pflanzgut und Standardpflanzgut
+  Die für die Erzeugung der genannten Pflanzgutkategorien bestimmten Mutterrebenbestände und Rebschulen werden mindestens jährlich einer amtlichen Bestandsbesichtigung aller Pflanzen auf das Vorhandensein der in Nummer 2.1 genannten RNQPs unterzogen.
+2.3 Beprobung und Untersuchung
+2.3.1 Die Ergebnisse der Beprobung und Untersuchung nach den Nummern 2.3.2 bis 2.3.4 müssen vor einer Anerkennung der betreffenden Mutterrebenbestände vorliegen.
+2.3.2 Vorstufenpflanzgut
+  In den für die Erzeugung von Vorstufenpflanzgut bestimmten Mutterrebenbeständen werden alle Reben im Hinblick auf das Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ff genannten Viren beprobt und untersucht. Dabei ist ein Verfahren mit Indikatorpflanzen oder ein gleichwertiges international anerkanntes Testverfahren anzuwenden. Die Beprobung und Untersuchung im Hinblick auf das Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ee genannten Viren sind alle fünf Jahre zu wiederholen.
+2.3.3 Basispflanzgut
+  In den für die Erzeugung von Basispflanzgut bestimmten Mutterrebenbeständen werden alle Reben im Hinblick auf das Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ee genannten Viren beprobt und untersucht. Die Beprobung und Untersuchung beginnen bei sechs Jahre alten Mutterrebenbeständen und sind alle sechs Jahre zu wiederholen.
+2.3.4 Zertifiziertes Pflanzgut
+  In den für die Erzeugung von Zertifiziertem Pflanzgut bestimmten Mutterrebenbeständen wird ein repräsentativer Anteil der Reben im Hinblick auf das Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ee genannten Viren beprobt und untersucht. Die Beprobung und Untersuchung beginnen bei zehn Jahre alten Mutterrebenbeständen und sind alle zehn Jahre zu wiederholen.
+2.4 Anforderungen an die Rebenbestände hinsichtlich der unter Nummer 2.1 genannten RNQPs
+2.4.1 Bestände zur Erzeugung von Vorstufenpflanzgut, Basispflanzgut und Zertifiziertem Pflanzgut
+  a) Candidatus Phytoplasma solani Quaglino et al.
+    aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei sind von Candidatus Phytoplasma solani Quaglino et al., oder
+    bb) während der gesamten abgeschlossenen Vegetationsperiode wurden an Reben der Vermehrungsbestände keine Symptome von Candidatus Phytoplasma solani Quaglino et al. gefunden oder
+    cc) alle Reben, die Symptome von Candidatus Phytoplasma solani Quaglino et al. aufweisen, wurden bei Mutterrebenbeständen für die Erzeugung von Vorstufenpflanzgut und Basispflanzgut entfernt, für die Erzeugung von Zertifiziertem Pflanzgut zumindest von der Vermehrung ausgeschlossen und bei dem zum Inverkehrbringen bestimmten Pflanzgut, das Symptome von Candidatus Phytoplasma solani Quaglino et al. aufweist, wurde die gesamte Pflanzgutpartie einer Warmwasserbehandlung oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen international anerkannten Protokollen unterzogen, um sicherzustellen, dass das Pflanzgut frei ist von Candidatus Phytoplasma solani Quaglino et al.
+  b) Xylophilus ampelinus Willems et al.
+    aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei sind von Xylophilus ampelinus Willems et al., oder
+    bb) während der gesamten abgeschlossenen Vegetationsperiode wurden an Reben der Vermehrungsbestände keine Symptome von Xylophilus ampelinus Willems et al. gefunden oder
+    cc) alle Reben der Mutterrebenbestände für die Erzeugung von Vorstufenpflanzgut, Basispflanzgut und Zertifiziertem Pflanzgut, die Symptome von Xylophilus ampelinus Willems et al. aufweisen, wurden entfernt und es werden geeignete Hygienemaßnahmen durchgeführt und Reben auf der Vermehrungsfläche, die Symptome von Xylophilus ampelinus Willems et al. aufweisen, werden nach dem Rebschnitt mit einem Bakterizid behandelt, um sicherzustellen, dass sie frei von Xylophilus ampelinus Willems et al. sind, und bei dem zum Inverkehrbringen bestimmten Pflanzgut, das Symptome von Xylophilus ampelinus Willems et al. aufweist, wird die gesamte Pflanzgutpartie einer Warmwasserbehandlung oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen international anerkannten Protokollen unterzogen, um sicherzustellen, dass das Pflanzgut frei ist von Xylophilus ampelinus Willems et al.
+  c) Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll associated virus 1, Grapevine leafroll associated virus 3
+    aa) An Reben der Mutterrebenbestände für die Erzeugung von Vorstufenpflanzgut und Basispflanzgut wurden keine Symptome eines Befalls mit den genannten Viren festgestellt und befallene Pflanzen wurden entfernt und vernichtet und bei Mutterrebenbeständen für die Erzeugung von Zertifiziertem Pflanzgut weisen nicht mehr als 5 v. H. der Reben Symptome eines Befalls mit den genannten Viren auf und die befallenen Reben wurden von der Vermehrung ausgeschlossen oder
+    bb) alle Reben der Mutterrebenbestände für die Erzeugung von Vorstufenpflanzgut, sowie das Vorstufenpflanzgut selbst werden in insektensicheren Einrichtungen gehalten, um sicherzustellen, dass sie frei von Grapevine leafroll associated Virus 1 und Grapevine leafroll associated Virus 3 sind.
+  d) Viteus vitifoliae Fitch
+    aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei von Viteus vitifoliae Fitch sind, oder
+    bb) Reben werden auf Unterlagen gepfropft, die widerstandsfähig gegen Viteus vitifoliae Fitch sind, oder
+    cc) alle Reben der Mutterrebenbestände für die Erzeugung von Vorstufenpflanzgut sowie das Vorstufenpflanzgut selbst werden in insektensicheren Einrichtungen gehalten und während der gesamten abgeschlossenen Vegetationsperiode wurde an den Reben kein Befall mit Viteus vitifoliae Fitch festgestellt und wenn zum Inverkehrbringen bestimmtes Pflanzgut Symptome von Viteus vitifoliae Fitch aufweist, wird die gesamte Pflanzgutpartie einer Begasung oder Warmwasserbehandlung oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen international anerkannten Protokollen unterzogen, um sicherzustellen, dass das Pflanzgut frei von Viteus vitifoliae Fitch ist.
+2.4.2 Bestände zur Erzeugung von Standardpflanzgut
+  a) Candidatus Phytoplasma solani Quaglino et al.
+    Die Anforderungen nach Nummer 2.4.1 Buchstabe a gelten entsprechend.
+  b) Xylophilus ampelinus Willems et al.
+    Die Anforderungen nach Nummer 2.4.1 Buchstabe b gelten entsprechend.
+  c) Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll associated virus 1, Grapevine leafroll associated virus 3
+    Bei Mutterbeständen für die Erzeugung von Standardpflanzgut dürfen nicht mehr als 10 v. H. der Reben Symptome eines Befalls mit den genannten Viren aufweisen und die befallenen Reben wurden von der Vermehrung ausgeschlossen.
+  d) Viteus vitifoliae Fitch
+    aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei von Viteus vitifoliae Fitch sind, oder
+    bb) Reben werden auf Unterlagen gepfropft, die widerstandsfähig gegen Viteus vitifoliae Fitch sind, oder
+    cc) wenn zum Inverkehrbringen bestimmtes Pflanzgut Symptome von Viteus vitifoliae Fitch aufweist, wird die gesamte Pflanzgutpartie einer Begasung oder Warmwasserbehandlung oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen international anerkannten Protokollen unterzogen, um sicherzustellen, dass das Pflanzgut frei von Viteus vitifoliae Fitch ist.
 3 Mutterrebenbestände
 3.1 Die Rebenbestände müssen so angelegt sein, dass eine ordnungsgemäße Bewirtschaftung möglich ist.
 3.2 Ausbildung, Reife und Ertrag des Holzes, bei Ertragsreben auch der Trauben, müssen die Ruten als für den Nutzungszweck geeignet erscheinen lassen.

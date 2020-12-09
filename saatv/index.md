@@ -14,6 +14,7 @@
 - [§ 5 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb](0005.md)
 - [§ 6 Anforderungen an den Feldbestand und an die Beschaffenheit
 des Saatgutes](0006.md)
+- [§ 6a Besondere Anforderungen bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs](0006a.md)
 - [§ 7 Feldbestandsprüfung](0007.md)
 - [§ 8 Mängel des Feldbestandes](0008.md)
 - [§ 9 Mitteilung des Ergebnisses der Feldbestandsprüfung](0009.md)
@@ -31,6 +32,7 @@ des Saatgutes](0006.md)
 
 - [§ 19 Gestattung des Inverkehrbringens](0019.md)
 - [§ 20 Anforderungen an die Sortenreinheit und Beschaffenheit, Höchstgewicht einer Partie](0020.md)
+- [§ 20a Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs](0020a.md)
 - [§ 21 Nachkontrolle](0021.md)
 
 ## Abschnitt 4 Handelssaatgut
@@ -55,6 +57,7 @@ Schließung und Verpackung
 
 - [§ 29 Etikett](0029.md)
 - [§ 30 Aufdrucketikett](0030.md)
+- [§ 30a Pflanzenpass](0030a.md)
 - [§ 31 Einleger](0031.md)
 - [§ 32 Angabe einer Saatgutbehandlung](0032.md)
 - [§ 33 Angaben in besonderen Fällen](0033.md)
@@ -86,8 +89,10 @@ und Schließung im Rahmen eines OECD-Systems
 - [Anlage 1 (zu § 4 Abs. 1 Satz 1)Termin für den Antrag auf Anerkennung von Saatgut](anlage-1.md)
 - [Anlage 2 (zu § 6 Satz 1, § 20 Absatz 1)Anforderungen an den Feldbestand](anlage-2.md)
 - [Anlage 3 (zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 2, §§ 23, 26 Abs. 3 Satz 2)Anforderungen an die Beschaffenheit des Saatgutes](anlage-3.md)
+- [Anlage 3a (zu § 6a Absatz 1 und 2)Besondere Anforderungen an den Gesundheitszustand bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs](anlage-3a.md)
+- [Anlage 3b (zu § 20a)Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs](anlage-3b.md)
 - [Anlage 4 (zu § 11 Abs. 2, § 20 Abs. 3, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5)Größe der Partien und Proben](anlage-4.md)
-- [Anlage 5 (zu § 29 Absatz 3 und 7, §§ 31 und 33 Absatz 6 und § 43 Absatz 1a und 2)Angaben auf dem Etikett und dem Einleger](anlage-5.md)
+- [Anlage 5 (zu § 29 Absatz 3 und 7, §§ 30a, 31 und 33 Absatz 6 und § 43 Absatz 1a und 2)Angaben auf dem Etikett und dem Einleger](anlage-5.md)
 - [Anlage 6 (zu §§ 40 und 42 Abs. 1)Kleinpackungen Höchstmengen und Kennzeichnung](anlage-6.md)
 - [Anlage 7 (zu § 45 Abs. 1)](anlage-7.md)
 - [Anlage 8 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3)Etiketten und Einleger](anlage-8.md)

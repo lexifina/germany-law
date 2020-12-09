@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a)Angaben auf dem Etikett
+# Anlage 4 (zu § 24 Absatz 2, § 24a, § 25 Satz 1 und § 32 Absatz 1a)Angaben auf dem Etikett
 
 1 Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut
 1.1 „EU-Norm“
@@ -19,6 +19,8 @@
 2.1 Angaben nach den Nummern 1.2, 1.3a, 1.4, 1.9, 1.11
 2.2 „Bundessortenamt“
 2.3 Genehmigungsnummer des Bundessortenamtes
+2.3a Partienummer
 2.4 Vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung
 2.5 Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d
-2.6 „Nur für Versuchszwecke“
+2.6 „Nur für Tests und Versuche“
+3. Kennzeichnung mit einem nach den in § 24a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben

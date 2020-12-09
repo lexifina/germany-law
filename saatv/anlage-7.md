@@ -2,25 +2,30 @@
 
 Muster 1
 Zertifikat
-ausgestellt auf Grund des OECD-Systems für die sortenmäßige
-Zertifizierung von Getreide- *), Mais- und Sorghum-*), Futter- und Ölpflanzen- *),
-Runkelrüben- und Zuckerrüben- *)Saatgut, das für den internationalen
-Handel bestimmt ist
+ausgestellt auf Grund des OECD-Systems für die sortenmäßige Zertifizierung von
+Gräser- und Leguminosensaatgut*), Saatgut von Kreuzblütlern und anderen
+Öl- und Faserpflanzen*), Getreidesaatgut*),
+Zuckerrüben- und Futterrübensaatgut*), Maissaatgut*),
+Sorghumsaatgut*), das für den internationalen Handel bestimmt ist
 Certificate
-issued under the OECD-Scheme for the Varietal Certification
-of Cereal *), Maize and Sorghum*), Herbage and Oil*), Sugar Beet and
-Fodder Beet *) Seed Moving in International Trade
+Issued under the OECD-Scheme for the Varietal Certification of
+Grass and Legume Seed*), Crucifer Seed and Other Oil or
+Fibre Species*), Cereal Seed*), Sugar Beet and Fodder
+Beet Seed*), Maize Seed*), Sorghum Seed*),
+Moving in International Trade
 Certificat
-delivre conformement au systeme de I'OCDE pour la certification
-varietale des semences de cereales *), de maïs et sorgho*), de plantes
-fourrageres et oleagineuses *), de betteraves sucrieres et de
-betteraves fourrageres *) destinees au commerce international
+délivré conformément au Système de l'OCDE pour la certification variétale
+des semences de plantes herbagères et légumineuses*),
+semences de plantes crucifères et autres espèces oléagineuses
+ou à fibres*), semences de céréales*),
+semences de betteraves sucrières et fourragères, semences de maïs*),
+Semences de sorgho*), destinées au commerce international
 Name der zuständigen Behörde, die das Zertifikat ausstellt
 Name of Designated Authority issuing the certificate .....: ............
 Nom de l'Autorite designee delivrant le certificat
 Referenznummer
-Reference Number .........................................: ............
-Numero de reference
+Lot reference number .....................................: ............
+Numéro de référence du lot
 Art
 Species ..................................................: ............
 Espece
@@ -70,8 +75,8 @@ Name der zuständigen Behörde, die das Zertifikat ausstellt
 Name of Designated Authority issuing the certificate .....: ............
 Nom de l'Autorite designee delivrant le certificat
 Referenznummer
-Reference Number .........................................: ............
-Numero de reference
+Lot reference number .....................................: ............
+Numéro de référence du lot
 Art
 Species ..................................................: ............
 Espece
@@ -115,10 +120,10 @@ Certificat
 délivré conformément au système de l´OCDE pour la certification variétale
 des semences de mélanges de plantes fourragères destinées au commerce international
 | Name der zuständigen Behörde, die das Zertifikat ausstellt Name of Designated Authority issuing the certificate ..................... Nom de l´Autorité désignée délivrant le certificat | : ..................... |
-| Referenznummer der Mischung Lot Reference Number ..................... Numéro de référence | : ..................... |
+| Referenznummer der Mischung Lot Reference Number .....................Numéro de référence du lot | : ..................... |
 | Bestandteile der Mischung Constituents of the lot ..................... Composants du mélange | : ..................... |
 | Art Species Espèce | Sorte Variety Variété | Referenznummer der Partie Seed lot reference number Numéro de référence du lot | Anteil vom Hundert des Gewichts Percentage by weight of mixture Pourcentage en poids du mélange |
-| 1. … 2. … 3. … (…) |  |  |  |  |
+| 1. …2. …3. …(…) |  |  |  |  |
 | Zahl der Packungen und angegebenes Gewicht der Partie Number of containers and declared weight of lot ..................... Nombre d´emballages et poids déclaré du lot | : ..................... |
 | Das Saatgut, das diese Referenznummer trägt, ist gemäß dem OECD-System für Futterpflanzensaatgut und Getreidesaatgut erzeugt und anerkannt. The seed lot bearing this reference number has been produced in accordance with the OECD Herbage Scheme and is approved. Le lot de semences portant ce numéro de référence a été produit et agréé conformément aux dispositions du système de l´OCDE pour les plantes fourragères. |
 | Ort und Staat Place and country Lieu et pays | Datum Date Date | Unterschrift (oder elektronische Signatur) Signature (or an equivalent electronic authorization) Signature (ou signature électronique) |

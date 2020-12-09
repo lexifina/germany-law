@@ -108,10 +108,10 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  |  | Z | 60 | 40 | 12 | 97 | 2,0 | 1,5 | 0,3 |  |  | 0 | 0 | 10 | 200 |  |
 | 3.1.1 | Hornklee |  | B | 75 | 40 | 12 | 95 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 30 |  |
 |  |  |  |  | Z | 75 | 40 | 12 | 95 | 1,8 | 1,0 | 0,3 |  |  | 0 | 0 | 5 | 30 |  |
-| 3.1.2 | Weiße Lupine, |  | B | 80 | 20 | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  | Gelbe Lupine |  | Z-1, Z-2 | 80 | 20 | 15 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
-| 3.1.3 | Blaue Lupine, Schmalblättrige Lupine |  | B | 75 | 20 | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  |  |  |  | Z-1, Z-2 | 75 | 20 | 15 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.2 | Weiße Lupine, |  | B | 80 | 20 | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  | Gelbe Lupine |  | Z-1, Z-2 | 80 | 20 | 16 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.3 | Blaue Lupine, Schmalblättrige Lupine |  | B | 75 | 20 | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  |  |  |  | Z-1, Z-2 | 75 | 20 | 16 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
 | 3.1.4 | Gelbklee |  | B | 80 | 20 | 12 | 97 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 50 |  |
 |  |  |  |  | Z | 80 | 20 | 12 | 97 | 1,5 | 1,0 | 0,3 |  |  | 0 | 0 | 5 | 50 |  |
 | 3.1.5 | Bastardluzerne, Sandluzerne |  | B | 80 | 40 | 12 | 97 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 50 |  |
@@ -121,8 +121,8 @@ Anforderungen an die Beschaffenheit des Saatgutes
 | 3.1.6 | Esparsette |  | B | 75 | 20 | 12 | 95 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2} | 600 | (Früchte) |
 |  |  |  | Z | 75 | 20 | 12 | 95 | 2,5 | 1,0 | 0,3 |  |  | 0 | 0 | 5} | 400 | (Samen) |
 |  |  |  | H | 75 | 20 | 12 | 95 | 3,5 | 2,0 | 0,3 |  |  | 0 | 0 | 5} |  |  |
-| 3.1.7 | Futtererbse |  | B | 80 | - | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  |  |  | Z-1, Z-2 | 80 | - | 15 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.7 | Futtererbse |  | B | 80 | - | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  |  |  | Z-1, Z-2 | 80 | - | 16 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
 | 3.1.8 | Alexandriner Klee |  | B | 80 | 20 | 12 | 97 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 60 |  |
 |  |  |  | Z | 80 | 20 | 12 | 97 | 1,5 | 1,0 | 0,3 |  |  | 0 | 0 | 5 | 60 |  |
 | 3.1.9 | Schwedenklee |  | B | 80 | 20 | 12 | 97 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 20 |  |
@@ -135,18 +135,19 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  | Z | 80 | 40 | 12 | 97 | 1,5 | 1,0 | 0,3 |  |  | 0 | 0 | 5 | 20 |  |
 | 3.1.13 | Persischer Klee |  | B | 80 | 20 | 12 | 97 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 20 |  |
 |  |  |  | Z | 80 | 20 | 12 | 97 | 1,5 | 1,0 | 0,3 |  |  | 0 | 0 | 5 | 20 |  |
-| 3.1.14 | Ackerbohne |  | B | 80 | 5 | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  |  |  | Z-1, Z-2 | 80 | 5 | 15 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
-| 3.1.15 | Pannonische Wicke, |  | B | 85 | 20 | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  | Saatwicke |  | Z-1, Z-2 | 85 | 20 | 15 | 98 | 1,0 | 0,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
-|  |  |  |  | H | 85 | 20 | 15 | 97 | 2,0 | 1,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
-| 3.1.16 | Zottelwicke |  | B | 85 | 20 | 15 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
-|  |  |  |  | Z-1, Z-2 | 85 | 20 | 15 | 98 | 1,0 | 0,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.14 | Ackerbohne |  | B | 80 | 5 | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  |  |  | Z-1, Z-2 | 80 | 5 | 16 | 98 | 0,5 | 0,3 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.15 | Pannonische Wicke, |  | B | 85 | 20 | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  | Saatwicke |  | Z-1, Z-2 | 85 | 20 | 16 | 98 | 1,0 | 0,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+|  |  |  |  | H | 85 | 20 | 16 | 97 | 2,0 | 1,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
+| 3.1.16 | Zottelwicke |  | B | 85 | 20 | 16 | 98 | 0,3 |  |  | 20 | 0 | 0 | 0 | 2 | 1 000 |  |
+|  |  |  |  | Z-1, Z-2 | 85 | 20 | 16 | 98 | 1,0 | 0,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
 |  |
 | 3.2 | Gesundheitszustand |
-| 3.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten befallen sein. |
+| 3.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten befallen sein. Bei Saatgut von Ackerbohnen und Futtererbsen gilt 1 lebender Ackerbohnenkäfer oder Erbsenkäfer nicht als Befall. |
 | 3.2.2 | Das Saatgut darf nicht von lebenden Milben befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
 | 3.2.3 | Von Stengelälchen (Ditylenchus dipasaci), parasitischen Pilzen oder von parasitischen Bakterien darf Saatgut nicht in größerem Ausmaß befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt; bei Ackerbohne und Futtererbse ist ein größeres Ausmaß hinsichtlich des Befalls mit Stengelälchen gegeben, wenn in 300 Körnern mehr als 5 Stengelälchen nachgewiesen werden. |
+| 3.2.4 | Das Saatgut von Medicago sativa L. muss frei sein von Clavibacter michiganensis und von Ditylenchus dipsaci. |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 4 | Sonstige Futterpflanzen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 4.1 | Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -196,8 +197,8 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  |  | Z | 85 | 9 | 98 | 0,3 |  | 0 | 0 | 10 | 5 |  |  | 70 |  |
 | 5.1.5 | Hanf |  | B | 75 | 10 | 98 |  | 30 | 0 | 0 |  |  |  |  | 600 |  |
 |  |  |  |  | Z-1, Z-2 | 75 | 10 | 98 |  | 30 | 0 | 0 |  |  |  |  | 600 |  |
-| 5.1.6 | Sojabohne |  | B | 80 | 15 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
-|  |  | Z-1, Z-2 | 80 | 15 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
+| 5.1.6 | Sojabohne |  | B | 80 | 16 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
+|  |  | Z-1, Z-2 | 80 | 16 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
 | 5.1.7 | Sonnenblume |  | B | 85 | 10 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
 |  |  |  |  | Z | 85 | 10 | 98 |  | 5 | 0 | 0 |  |  |  |  | 1 000 |  |
 | 5.1.8 | Lein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -213,15 +214,14 @@ Anforderungen an die Beschaffenheit des Saatgutes
 | 5.2 | Gesundheitszustand |
 | 5.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
 | 5.2.2 | Von Botrytis-Pilzen dürfen Hanf, Sonnenblume und Lein nur bis zu 5 v. H. der Körner befallen sein. |
-| 5.2.3 | Von Keimlingskrankheiten (Alternaria linicola, Phoma exigua var. linicola, Colletotrichum linicola, Fusarium spp.) darf Lein nur bis zu 5 v. H. der Körner befallen sein; Faserlein darf nur bis zu 1 v. H. der Körner mit Phoma exigua var. linicola befallen sein. |
+| 5.2.3 | Von Keimlingskrankheiten (Alternaria linicola, Boeremia exigua var. linicola, Colletotrichum linicola, Fusarium spp., außer Fusarium oxysporum f. sp. albedinis und Fusarium circinatum) darf Lein nur bis zu 5 v. H. der Körner befallen sein; Faserlein darf nur bis zu 1 v. H. der Körner mit Boeremia exigua var. linicola befallen sein. |
 | 5.2.4 | Das Saatgut darf von Sclerotinia sclerotiorum |
 |  |  | bei Sareptasenf, Schwarzem Senf | nur bis zu | 20 |  |  |  |  |  |  |  |  |  |
 |  |  | bei Raps, Sonnenblume | nur bis zu | 10 |  |  |  |  |  |  |  |  |  |
 |  |  | bei Rübsen, Weißem Senf | nur bis zu | 5 |  |  |  |  |  |  |  |  |  |
 |  | Sklerotien oder Bruchstücken von Sklerotien in einem Probenteil nach Spalte 14 befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
-| 5.2.5 | Das Saatgut von Sojabohne darf befallen sein |
-| 5.2.5.1 | von Diaporthe phaseolorum nur bis zu 15 v. H. der Körner, |
-| 5.2.5.2 | von Pseudomonas syringae pv. glycinea bei einer Untersuchung von 5 Stichproben mit je 1 000 Körnern nur mit höchstens 4 Stichproben. |
+| 5.2.5 | Das Saatgut von Soja darf nur bis zu 15 v. H. der Körner mit dem Phomopsis-Komplex von Diaporthe caulivora und Diaporthe phaseolorum var. sojae befallen sein. |
+| 5.2.6 | Das Saatgut von Sonnenblumen muss frei sein von Plasmopara halstedii. |
 |  |  |  |  |  |  |  |  |  |
 | 6 | Rüben |  |  |  |  |  |  |
 | 6.1 | Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit |  |  |  |
@@ -295,7 +295,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 | 7.1.32 | Dicke Bohne |  | 80 | 15 | 98 | 0,1 |  |
 | 7.1.33 | Zuckermais, Puffmais |  | 85 |  | 98 | 0,1 |  |
 |  |
-| 7.2 | Gesundheitszustand |
+| 7.2 | Gesundheitszustand – Ergänzend zu den besonderen Anforderungen an den Gesundheitszustand hinsichtlich des Befalls mit RNQPs gelten folgende Anforderungen: |
 | 7.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
 | 7.2.2 | Das Saatgut darf nicht von parasitischen Pilzen oder von parasitischen Bakterien in größerem Ausmaß befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
 |  |  |  |  |  |  |  |  |  |

@@ -1,13 +1,13 @@
-# Anlage 2 (zu § 6 Satz 2)
+# Anlage 2 (zu § 6 Satz 2)Anforderungen an die Beschaffenheit des Pflanzgutes
 
-Anforderungen an die Beschaffenheit des Pflanzgutes
-
-Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 1 Allgemeine Anforderungen
 1.1 Das Pflanzgut ist sortenecht und sortenrein und entspricht erforderlichenfalls dem Klon.
 1.2 Der Anteil an ganz oder teilweise verdorrtem, verdorbenem, verdrehtem, verletztem, zerdrücktem, zerbrochenem, durch Hagel oder Frost geschädigtem sowie den Anforderungen an die Sortierung nach Nummer 2 nicht entsprechendem Pflanzgut darf zusammen 4 v. H. nicht überschreiten (technische Mindestreinheit).
 1.3 Die Ruten weisen eine ausreichende Holzreife auf.
-1.4 Das Vorhandensein von Schadorganismen, die den Wert des Pflanzgutes beeinträchtigen, ist auf das geringstmögliche Maß beschränkt. Pflanzgut, dass deutliche Anzeichen oder Symptome von Schadorganismen aufweist, für die es keine wirksame Behandlung gibt, muss beseitigt werden.
+1.4 Anforderungen hinsichtlich des Befalls mit RNQPs (entsprechend Anhang IV Teil C der Durchführungsverordnung (EU) 2019/2072)
+1.4.1 Das Pflanzgut muss frei sein von Xylophilus ampelinus Willems et al., Arabis mosaic virus, Candidatus Phytoplasma solani Quaglino et al., Grapevine fanleaf virus, Grapevine leafroll associated virus 1, Grapevine leafroll associated virus 3.
+1.4.2 Nicht veredeltes Pflanzgut muss frei sein von Viteus vitifoliae Fitch. Veredeltes Pflanzgut muss praktisch frei sein von Viteus vitifoliae Fitch im Sinne des Artikels 2 Absatz 2 Buchstabe a der Durchführungsverordnung (EU) 2019/2072. Vorstufenpflanzgut von Unterlagen muss zusätzlich frei sein von Grapevine fleck virus.
+1.4.3 Das Pflanzgut muss außerdem den Anforderungen in Bezug auf Unionsquarantäneschädlinge und Schutzgebiet-Quarantäneschädlinge genügen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen Durchführungsrechtsakten und in den nach Artikel 30 Absatz 1 der Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 2 Besondere Anforderungen
 2.1 Veredelungsfähige Unterlagsreben, Blindholz und Edelreiser
   A. Durchmesser

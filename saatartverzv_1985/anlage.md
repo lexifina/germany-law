@@ -87,46 +87,7 @@
 | 1.5.1 | Solanum tuberosum L. | Kartoffel |
 | 1.6 | Rebe |  |
 | 1.6.1 | Vitis L. | Rebeaußer für Zierzwecke |
-|  |
-| 2 | Gemüsearten außer für Zierzwecke |
-| 2.1 | Allium cepa L. |  |
-|  | _ Cepa Gruppe | Zwiebel, Echalion |
-|  | _ Aggregatum Gruppe | Schalotte |
-| 2.2 | Allium fistulosum L. | Winterheckenzwiebel |
-| 2.3 | Allium porrum L. | Porree |
-| 2.4 | Allium sativum L. | Knoblauch |
-| 2.5 | Allium schoenoprasum L. | Schnittlauch |
-| 2.6 | Anthriscus cerefolium (L.) Hoffm. | Kerbel |
-| 2.7 | Apium graveolens L. | Sellerie, Knollensellerie |
-| 2.8 | Asparagus officinalis L. | Spargel |
-| 2.9 | Beta vulgaris L. | Rote Rübe, Mangold |
-| 2.10 | Brassica oleracea L. | Grünkohl, Blumenkohl, Brokkoli, Rosenkohl, Wirsing, Weißkohl,Rotkohl, Kohlrabi |
-| 2.11 | Brassica rapa L. | Chinakohl, Herbstrübe, Mairübe, Stoppelrübe |
-| 2.12 | Capsicum annuum L. | Chili, Paprika, Pfefferoni |
-| 2.13 | Cichorium endivia L. | Endivie, Krausblättrige Endivie, Ganzblättrige Endivie |
-| 2.14 | Cichorium intybus L. | Chicorée, Zichorie, Blattzichorie, Gemüsezichorie, Wurzelzichorie,Industriezichorie |
-| 2.15 | Citrullus lanatus (Thunb.) Matsum. et Nakai | Wassermelone |
-| 2.16 | Cucumis melo L. | Melone, Zuckermelone |
-| 2.17 | Cucumis sativus L. | Gurke, Salatgurke, Einlegegurke |
-| 2.18 | Cucurbita maxima Duchesne | Riesenkürbis |
-| 2.19 | Cucurbita pepo L. | Gartenkürbis, Ölkürbis, Zucchini |
-| 2.20 | Cynara cardunculus L. | Artischocke, Cardy, Kardonenartischocke |
-| 2.21 | Daucus carota L. | Karotte, Möhre, Futtermöhre |
-| 2.22 | Foeniculum vulgare Mill. | Fenchel |
-| 2.23 | Lactuca sativa L. | Salat (Kopfsalat, Schnittsalat, Kochsalat) |
-| 2.24 | Petroselinum crispum (Mill.)Nyman ex A. W. Hill | Petersilie |
-| 2.25 | Phaseolus coccineus L. | Prunkbohne, Feuerbohne |
-| 2.26 | Phaseolus vulgaris L. | Gartenbohne, Buschbohne, Stangenbohne |
-| 2.27 | Pisum sativum L. (partim) | Erbse, Markerbse, Schalerbse, Zuckererbse außer Futtererbse |
-| 2.28 | Raphanus sativus L. | Radieschen, Rettich |
-| 2.29 | Rheum rhabarbarum L. | Rhabarber |
-| 2.30 | Scorzonera hispanica L. | Schwarzwurzel |
-| 2.31 | Solanum lycopersicum L. | Tomate |
-| 2.32 | Solanum melongena L. | Aubergine, Eierfrucht |
-| 2.33 | Spinacia oleracea L. | Spinat |
-| 2.34 | Valerianella locusta (L.) Laterr. | Feldsalat, Rapunzel |
-| 2.35 | Vicia faba L. (partim) | Dicke Bohne, Puffbohne |
-| 2.36 | Zea mays L. (partim) | Zuckermais, Puffmais |
+| 2Gemüsearten außer für Zierzwecke (einschließlich aller Hybriden der nachfolgend aufgeführten Arten und Gruppen)Art botanische BezeichnungGruppe nach ICNCP oder Sortedeutsche Bezeichnung2.1Allium cepa L.–Cepa-Gruppe–Aggregatum-Gruppe–Zwiebel, Echalion–Schalotte2.2Allium fistulosum L.alle SortenWinterheckenzwiebel2.3Allium porrum L.alle SortenPorree2.4Allium sativum L.alle SortenKnoblauch2.5Allium schoenoprasum L.alle SortenSchnittlauch2.6Anthriscus cerefolium (L.) Hoffm.alle SortenKerbel2.7Apium graveolens L.–Sellerie-Gruppe–Knollensellerie-Gruppe–Sellerie–Knollensellerie2.8Asparagus officinalis L.alle SortenSpargel2.9Beta vulgaris L.–Rote-Rüben-Gruppe–Blattmangold-Gruppe–Rote Rübe, Rote Bete–Mangold2.10Brassica oleracea L.–Grünkohl-Gruppe–Blumenkohl- oder Karfiol-Gruppe–Capitata-Gruppe–Rosenkohl- oder Kohlsprossen-Gruppe–Kohlrabi-Gruppe–Wirsing- oder Wirsingkohl-Gruppe–Brokkoli-Gruppe–Palmkohl-Gruppe–Tronchuda-Gruppe–Grünkohl–Blumenkohl–Rotkohl, Weißkohl–Rosenkohl–Kohlrabi–Wirsing–Brokkoli–Palmkohl–portugiesischer Kohl2.11Brassica rapa L.–Chinakohl-Gruppe–Herbstrüben-, Mairüben- oder Stoppelrüben-Gruppe–Chinakohl–Herbstrübe, Mairübe, Stoppelrübe2.12Capsicum annuum L.alle SortenChili, Paprika, Pfefferoni2.13Cichorium endivia L.alle SortenEndivie2.14Cichorium intybus L.–Chicorée- oder Zichorie-Gruppe–Blattzichorie-Gruppe–Wurzelzichorie- oder Industriezichorie-Gruppe–Chicorée, Zichorie–Blattzichorie–Wurzelzichorie, Industriezichorie2.15Citrullus lanatus (Thunb.) Matsum. et Nakaialle SortenWassermelone2.16Cucumis melo L.alle SortenMelone, Zuckermelone2.17Cucumis sativus L.–Gurken- oder Salatgurken-Gruppe–Einlegegurken-Gruppe–Gurke, Salatgurke–Einlegegurke2.18Cucurbita maxima Duchesnealle SortenRiesenkürbis2.19Cucurbita pepo L.alle SortenGartenkürbis, einschließlich reifer Gartenkürbis, Patisson oder Zucchini, einschließlich unreifer Patisson2.20Cynara cardunculus L.–Artischocken-Gruppe–Cardy- oder Kardonenartischocken-Gruppe–Artischocke–Cardy, Kardonenartischocke2.21Daucus carota L.alle SortenKarotte, Möhre, Futtermöhre2.22Foeniculum vulgare Mill.Azoricum-GruppeKnollenfenchel2.23Lactuca sativa L.alle SortenSalat2.24Petroselinum crispum (Mill.) Nyman ex A. W. Hill–Blattpetersilien-Gruppe–Wurzelpetersilien-Gruppe–Blattpetersilie–Wurzelpetersilie2.25Phaseolus coccineus L.alle SortenPrunkbohne, Feuerbohne2.26Phaseolus vulgaris L.–Stangenbohnen-Gruppe–Buschbohnen-Gruppe–Stangenbohne–Buschbohne2.27Pisum sativum L.–Schalerbsen-Gruppe–Markerbsen- oder Runzelerbsen-Gruppe–Zuckererbsen-Gruppe–Schalerbse–Markerbse–Zuckererbse2.28Raphanus sativus L.–Radieschen-Gruppe–Rettich-Gruppe–Radieschen–Rettich2.29Rheum rhabarbarum L.alle SortenRhabarber2.30Scorzonera hispanica L.alle SortenSchwarzwurzel2.31Solanum lycopersicum L.alle SortenTomate2.32Solanum melongena L.alle SortenAubergine, Eierfrucht2.33Spinacia oleracea L.alle SortenSpinat2.34Valerianella locusta (L.) Laterr.alle SortenRapunzel, Feldsalat2.35Vicia faba L.alle SortenDicke Bohne, Puffbohne2.36Zea mays L.–Zuckermais-Gruppe–Puffmais-Gruppe–Zuckermais–Puffmais | 2 | Gemüsearten außer für Zierzwecke (einschließlich aller Hybriden der nachfolgend aufgeführten Arten und Gruppen) |  | Art botanische Bezeichnung | Gruppe nach ICNCP oder Sorte | deutsche Bezeichnung | 2.1 | Allium cepa L. | –Cepa-Gruppe–Aggregatum-Gruppe | –Zwiebel, Echalion–Schalotte | 2.2 | Allium fistulosum L. | alle Sorten | Winterheckenzwiebel | 2.3 | Allium porrum L. | alle Sorten | Porree | 2.4 | Allium sativum L. | alle Sorten | Knoblauch | 2.5 | Allium schoenoprasum L. | alle Sorten | Schnittlauch | 2.6 | Anthriscus cerefolium (L.) Hoffm. | alle Sorten | Kerbel | 2.7 | Apium graveolens L. | –Sellerie-Gruppe–Knollensellerie-Gruppe | –Sellerie–Knollensellerie | 2.8 | Asparagus officinalis L. | alle Sorten | Spargel | 2.9 | Beta vulgaris L. | –Rote-Rüben-Gruppe–Blattmangold-Gruppe | –Rote Rübe, Rote Bete–Mangold | 2.10 | Brassica oleracea L. | –Grünkohl-Gruppe–Blumenkohl- oder Karfiol-Gruppe–Capitata-Gruppe–Rosenkohl- oder Kohlsprossen-Gruppe–Kohlrabi-Gruppe–Wirsing- oder Wirsingkohl-Gruppe–Brokkoli-Gruppe–Palmkohl-Gruppe–Tronchuda-Gruppe | –Grünkohl–Blumenkohl–Rotkohl, Weißkohl–Rosenkohl–Kohlrabi–Wirsing–Brokkoli–Palmkohl–portugiesischer Kohl | 2.11 | Brassica rapa L. | –Chinakohl-Gruppe–Herbstrüben-, Mairüben- oder Stoppelrüben-Gruppe | –Chinakohl–Herbstrübe, Mairübe, Stoppelrübe | 2.12 | Capsicum annuum L. | alle Sorten | Chili, Paprika, Pfefferoni | 2.13 | Cichorium endivia L. | alle Sorten | Endivie | 2.14 | Cichorium intybus L. | –Chicorée- oder Zichorie-Gruppe–Blattzichorie-Gruppe–Wurzelzichorie- oder Industriezichorie-Gruppe | –Chicorée, Zichorie–Blattzichorie–Wurzelzichorie, Industriezichorie | 2.15 | Citrullus lanatus (Thunb.) Matsum. et Nakai | alle Sorten | Wassermelone | 2.16 | Cucumis melo L. | alle Sorten | Melone, Zuckermelone | 2.17 | Cucumis sativus L. | –Gurken- oder Salatgurken-Gruppe–Einlegegurken-Gruppe | –Gurke, Salatgurke–Einlegegurke | 2.18 | Cucurbita maxima Duchesne | alle Sorten | Riesenkürbis | 2.19 | Cucurbita pepo L. | alle Sorten | Gartenkürbis, einschließlich reifer Gartenkürbis, Patisson oder Zucchini, einschließlich unreifer Patisson | 2.20 | Cynara cardunculus L. | –Artischocken-Gruppe–Cardy- oder Kardonenartischocken-Gruppe | –Artischocke–Cardy, Kardonenartischocke | 2.21 | Daucus carota L. | alle Sorten | Karotte, Möhre, Futtermöhre | 2.22 | Foeniculum vulgare Mill. | Azoricum-Gruppe | Knollenfenchel | 2.23 | Lactuca sativa L. | alle Sorten | Salat | 2.24 | Petroselinum crispum (Mill.) Nyman ex A. W. Hill | –Blattpetersilien-Gruppe–Wurzelpetersilien-Gruppe | –Blattpetersilie–Wurzelpetersilie | 2.25 | Phaseolus coccineus L. | alle Sorten | Prunkbohne, Feuerbohne | 2.26 | Phaseolus vulgaris L. | –Stangenbohnen-Gruppe–Buschbohnen-Gruppe | –Stangenbohne–Buschbohne | 2.27 | Pisum sativum L. | –Schalerbsen-Gruppe–Markerbsen- oder Runzelerbsen-Gruppe–Zuckererbsen-Gruppe | –Schalerbse–Markerbse–Zuckererbse | 2.28 | Raphanus sativus L. | –Radieschen-Gruppe–Rettich-Gruppe | –Radieschen–Rettich | 2.29 | Rheum rhabarbarum L. | alle Sorten | Rhabarber | 2.30 | Scorzonera hispanica L. | alle Sorten | Schwarzwurzel | 2.31 | Solanum lycopersicum L. | alle Sorten | Tomate | 2.32 | Solanum melongena L. | alle Sorten | Aubergine, Eierfrucht | 2.33 | Spinacia oleracea L. | alle Sorten | Spinat | 2.34 | Valerianella locusta (L.) Laterr. | alle Sorten | Rapunzel, Feldsalat | 2.35 | Vicia faba L. | alle Sorten | Dicke Bohne, Puffbohne | 2.36 | Zea mays L. | –Zuckermais-Gruppe–Puffmais-Gruppe | –Zuckermais–Puffmais |
 |  |
 | 3 | Zierpflanzenarten |
 |  | Zierpflanzen im Sinne des Artikels 1 Abs. 1 der Richtlinie 98/56/EG des Rates vom 20. Juli 1998 über das Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr. L 226 S. 16) |

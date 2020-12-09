@@ -18,17 +18,20 @@
   1.1.4 "Kategorie"
     "Category"
     "Categorie"
-  1.1.5 "Referenznummer"
-    "Reference number"
-    "Numero de reference"
-  1.1.6 "Datum der Probenahme"
+  1.1.5 „Referenznummer“
+    „Lot reference number“
+    „Numéro de référence du lot“
+  1.1.6 „Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
+    „Declared net or gross weight or declared number of seeds“
+    „Poids net ou brut déclaré ou nombre de semences déclaré“
+  1.1.7 "Datum der Probenahme"
     "Date of sampling"
     "Date de l'echantillonnage"
-  1.1.7 Bei Runkelrübe und Zuckerrübe zusätzlich
+  1.1.8 Bei Runkelrübe und Zuckerrübe zusätzlich
     "Saatgutbeschreibung (Monogerm-, Präzisions- oder natürliches Saatgut)"
     "Seed description (Monogerm, precision or natural seed)"
     "Description de la semence (semence monogerme, precision ou naturelle)"
-  1.1.8 Bei Gemüsesaatgut zusätzlich
+  1.1.9 Bei Gemüsesaatgut zusätzlich
     "Landesüblicher Name"
     "Common name"
     "Nom commun"
@@ -68,11 +71,11 @@
     "Packaged from OECD Certified Seed"
     "Emballage rempli a partir de semences certifiees OCDE"
   1.4 Anerkanntes Vorstufensaatgut
-  1.4.1 Angaben nach den Nummern 1.1.1 bis 1.1.3 und 1.1.5 bis 1.1.8
+  1.4.1 Angaben nach den Nummern 1.1.1 bis 1.1.3 und 1.1.5 bis 1.1.9
   1.4.2 "Vorstufensaatgut"
     "Pre-Basic seed"
     "Semences pre-base"
-  1.4.3 Zusätzlich kann die Zahl der höchstens vorgesehenen Generationen bis zum Zertifizierten Saatgut angegeben werden
+  1.4.3 Die Zahl der höchstens vorgesehenen Generationen bis zum Zertifizierten Saatgut erster Generation
   1.5 Mischungen
   1.5.1 „Bezeichnung der Mischung“ (gegebenenfalls)
     „Name of the mixture“ (if any)

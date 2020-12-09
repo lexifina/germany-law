@@ -1,11 +1,7 @@
-# Anlage 4 (zu § 17 Abs. 2, § 19 Abs. 4)
+# Anlage 4 (zu § 17 Absatz 2, § 17a, § 19 Absatz 4)Angaben auf dem Etikett
 
-Angaben auf dem Etikett
-
-Fundstelle des Originaltextes: BGBl. I 1986, 213;
-bzgl. der einzelnen Änderungen vgl. Fußnote
 1 Basispflanzgut, Zertifiziertes Pflanzgut, Standardpflanzgut
-  1.1 "EG-Norm"
+  1.1 "EU-Norm"
   1.2 Erzeugerland
   1.3 Kennzeichen der Anerkennungsstelle
   1.4 Name und Anschrift oder Betriebsnummer des Erzeugers
@@ -25,3 +21,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
   3.1.1 Angaben nach Nummer 1
   3.2 Nur ein Stück
 3.2.1 Angaben nach den Nummern 1.1 bis 1.5 und 1.8.
+4. Kennzeichnung mit einem Pflanzenpass
+  Die Kennzeichnung erfolgt bei Vorstufenpflanzgut, Basispflanzgut, Zertifiziertem Pflanzgut und Standardpflanzgut sowie bei Pflanzgut von Zierreben und Tafeltrauben mit einem nach den in § 17a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben.

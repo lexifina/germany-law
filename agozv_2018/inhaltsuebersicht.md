@@ -11,7 +11,9 @@ Allgemeine Vorschriften
 | § 3 | Registrierung |
 | § 4 | Pflichten der Betriebe |
 | § 5 | Aufgaben des Bundessortenamtes bei Anbaumaterial von Obstarten |
-| § 6 | Anforderungen an Standardmaterial |
+| § 6 | Anforderungen an Standardmaterial von Obstpflanzen |
+| § 6a | Anforderungen an Anbaumaterial von Zierpflanzen |
+| § 6b | Anforderungen an Anbaumaterial von Gemüsepflanzen |
 | § 7 | Anforderungen an Anbaumaterial von Obstarten bestimmter Sorten |
 Unterabschnitt 2
 Anforderungen an
@@ -39,9 +41,5 @@ Schlussbestimmungen
 | § 22 | Übergangsvorschriften |
 | § 23 | Inkrafttreten, Außerkrafttreten |
 | Anlage 1(zu den §§ 1 und 2 Nummer 1) | Pflanzenarten im Anwendungsbereich dieser Verordnung |
-| Anlage 2(zu § 4 Absatz 2 und 4, § 6 Absatz 2 und 5, § 8 Absatz 3 und § 15 Absatz 5) | Spezifische Schadorganismen, die für die Einschränkung des Gebrauchswertes und die Toleranzschwellen relevant sind |
-| Anlage 3 (zu § 6 Absatz 2 und 5) | Besondere Anforderungen an Bestände von Anbaumaterial |
-| Anlage 4 (zu § 4 Absatz 2 und 4, § 6 Absatz 2, § 8 Absatz 3 und § 15 Absatz 5, 6 und 7) | Schadorganismen, von denen Anbaumaterial frei oder praktisch frei sein muss aufgrund visueller Kontrollen oder im Fall von Kandidatenmutterpflanzen aufgrund von Beprobung und Untersuchung |
-| Anlage 5 (zu § 4 Absatz 2) | Anforderungen an visuelle Kontrolle, Beprobung und Untersuchung |
-| Anlage 6 (zu § 8 Absatz 4 und 5und § 15 Absatz 5) | Liste kontrollrelevanter Schadorganismen |
-| Anlage 7 (zu § 10 Absatz 1) | Maximal zulässige Anzahl Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial |
+| Anlage 2(zu § 6a Absatz 2 Nummer 3) | Besondere Anforderungen an Bestände von Anbaumaterial von Zierpflanzen |
+| Anlage 3 (zu § 10 Absatz 1) | Maximal zulässige Anzahl der Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial |

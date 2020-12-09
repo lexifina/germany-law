@@ -42,6 +42,7 @@ und Verschließung
 
 - [§ 23 Verpackung](0023.md)
 - [§ 24 Etikett](0024.md)
+- [§ 24a Pflanzenpass](0024a.md)
 - [§ 25 Einleger](0025.md)
 - [§ 26 Angabe einer chemischen Behandlung](0026.md)
 - [§ 27 Angaben in besonderen Fällen](0027.md)
@@ -65,7 +66,7 @@ für das Inverkehrbringen
 - [Anlage 3 (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3)
 
 Größe der Partien und Proben](anlage-3.md)
-- [Anlage 4 (zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a)Angaben auf dem Etikett](anlage-4.md)
+- [Anlage 4 (zu § 24 Absatz 2, § 24a, § 25 Satz 1 und § 32 Absatz 1a)Angaben auf dem Etikett](anlage-4.md)
 - [Anlage 5 (zu § 33)
 
 Größensortierung](anlage-5.md)

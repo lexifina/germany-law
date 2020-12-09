@@ -1,9 +1,7 @@
-# Anlage 5 (zu § 29 Absatz 3 und 7, §§ 31 und 33 Absatz 6 und § 43 Absatz 1a und 2)Angaben auf dem Etikett und dem Einleger
+# Anlage 5 (zu § 29 Absatz 3 und 7, §§ 30a, 31 und 33 Absatz 6 und § 43 Absatz 1a und 2)Angaben auf dem Etikett und dem Einleger
 
-(Fundstelle: BGBl. I 2006, 387 - 388;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
 1 Basissaatgut, Zertifiziertes Saatgut
-    1.1 "EG-Norm"
+    1.1 "EU-Norm"
     1.2 "Bundesrepublik Deutschland"
     1.3 Kennzeichen der Anerkennungsstelle
     1.3a Amtlich zugeteilte Seriennummer
@@ -16,7 +14,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     1.10 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner oder - bei Runkelrübe, Zuckerrübe und Roter Rübe - der Knäuel
     1.11 Zusätzliche Angaben
     2 Standardsaatgut
-    2.1 "EG-Norm"
+    2.1 "EU-Norm"
     2.2 "Standardsaatgut"
     2.3 Name und Anschrift des Kennzeichnenden oder seine Betriebsnummer
     2.4 Art 1)
@@ -27,7 +25,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     2.9 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner oder - bei Roter Rübe - der Knäuel
     2.10 Zusätzliche Angaben
     3 Handelssaatgut
-    3.1 "EG-Norm"
+    3.1 "EU-Norm"
     3.2 "Bundesrepublik Deutschland"
     3.3 Kennzeichen der Zulassungsstelle
     3.3a Amtlich zugeteilte Seriennummer
@@ -66,10 +64,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     7.2 „Bundessortenamt”⁵)
     7.2a Amtlich zugeteilte Seriennummer
     7.3 Genehmigungsnummer des Bundessortenamtes
+    7.3a Partienummer⁵)
     7.4 vorläufige Bezeichnung der Sorte, ihre Kennnummer und sofern vorhanden in Klammern die vorgeschlagene Sortenbezeichnung
     7.5 Angaben nach § 43 Absatz 1 Satz 2 Nummer 3 Buchstabe d
-    7.6 „Nur für Versuchszwecke”⁵)
-------
+    7.6 „Nur für Tests und Versuche“⁵)
+    8. Kennzeichnung mit einem nach den in § 30a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben
+----------
 1) Botanische Bezeichnung (ohne Autorennamen) und deutsche Bezeichnung.
 2) Bei Saatgut von Gemüsesorten ist der Hinweis nach § 33 Abs. 8 im Anschluss an die Sortenbezeichnung und von dieser durch einen Schrägstrich getrennt anzugeben. Der Hinweis darf nicht auffälliger sein als die Sortenbezeichnung.
 3) Bei Zertifiziertem Saatgut zweiter oder dritter Generation sind der Kategoriebezeichnung „Zertifiziertes Saatgut” die Wörter „zweiter Generation” oder „dritter Generation” anzufügen.

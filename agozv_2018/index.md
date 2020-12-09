@@ -16,7 +16,9 @@
 - [§ 3 Registrierung](0003.md)
 - [§ 4 Pflichten der Betriebe](0004.md)
 - [§ 5 Aufgaben des Bundessortenamtes bei Anbaumaterial von Obstarten](0005.md)
-- [§ 6 Anforderungen an Standardmaterial](0006.md)
+- [§ 6 Anforderungen an Standardmaterial von Obstpflanzen](0006.md)
+- [§ 6a Anforderungen an Anbaumaterial von Zierpflanzen](0006a.md)
+- [§ 6b Anforderungen an Anbaumaterial von Gemüsepflanzen](0006b.md)
 - [§ 7 Anforderungen an Anbaumaterial von Obstarten bestimmter Sorten](0007.md)
 
 ### Unterabschnitt 2 Anforderungen an anerkanntes Anbaumaterial von Obstarten
@@ -48,9 +50,5 @@
 - [§ 23 Inkrafttreten, Außerkrafttreten](0023.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu den §§ 1 und 2 Nummer 1)](anlage-1.md)
-- [Anlage 2 (zu § 4 Absatz 2 und 4, § 6 Absatz 2 und 5, § 8 Absatz 3 und § 15 Absatz 5)Spezifische Schadorganismen, die für die Einschränkung des Gebrauchswertes und die Toleranzschwellen relevant sind](anlage-2.md)
-- [Anlage 3 (zu § 6 Absatz 2 und 5)Besondere Anforderungen an Bestände von Anbaumaterial](anlage-3.md)
-- [Anlage 4 (zu § 4 Absatz 2 und 4, § 6 Absatz 2, § 8 Absatz 3 und § 15 Absatz 5, 6 und 7)Schadorganismen, von denen Anbaumaterial frei oder praktisch frei sein muss aufgrund visueller Kontrollen oder im Fall von Kandidatenmutterpflanzen aufgrund von Beprobung und Untersuchung](anlage-4.md)
-- [Anlage 5 (zu § 4 Absatz 2)Anforderungen an visuelle Kontrolle, Beprobung und Untersuchung](anlage-5.md)
-- [Anlage 6 (zu § 8 Absatz 4 und 5 und § 15 Absatz 5)Liste kontrollrelevanter Schadorganismen](anlage-6.md)
-- [Anlage 7 (zu § 10 Absatz 1)Maximal zulässige Anzahl Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial](anlage-7.md)
+- [Anlage 2 (zu § 6a Absatz 2 Nummer 3)Besondere Anforderungen an Bestände von Anbaumaterial von Zierpflanzen](anlage-2.md)
+- [Anlage 3 (zu § 10 Absatz 1)Maximal zulässige Anzahl Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial](anlage-3.md)
