@@ -1,0 +1,51 @@
+# Verkehrsausschuss (1. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2020-12-09T17:00:00+01:00
+- Ende: 2020-12-09T20:08:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdXtCnayQLwbHpTR5zQlsNw
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4027
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Verkehrsausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcz567EGM3eeRL483Zswlcysn9T9tVgDVhLFiS8JMSgC/Einladung_Verkehrsausschuss_09.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Verkehrsausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa54lpBXSiUCP5Mho8UMeMna6xD06uQ_AD8v46kYhFa1/Oeffentliche_Niederschrift_Verkehrsausschuss_09.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Einführung und Verpflichtung der Ausschussmitglieder, die nicht Mitglieder des Rates sind
+- TOP A.2: Feststellung der Stimmberechtigung der Mitglieder sowie Feststellung der Beschlussfähigkeit
+- TOP A.3: Bestellung der Schriftführung und der stellvertretenden Schriftführung für die Sitzungen des Verkehrsausschusses - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.4: Niederschrift des öffentlichen Teiles der Sitzung des Verkehrsausschusses vom
+- TOP A.5: Entgegennahme von Erklärungen nach § 31 GO NRW
+- TOP A.6: Fragestunde für Ausschussmitglieder und Einwohner/innen
+- TOP A.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.8: Elverdisser Straße (L 778): Verdeutlichung der nicht bestehenden Benutzungspflicht des Hochbordradwegs (Antrag der Ratsfraktion DIE LINKE vom 23.11.2020)
+- TOP A.9: Senderstraße (K 14): Durchfahrtverbot für Lkw auch in Fahrtrichtung Mindener Straße (L 860) (Antrag der Ratsfraktion Bündnis 90 / DIE GRÜNEN Herford) - Mehrheitlich bei 3 Gegenstimmen wird folgender Beschluss gefasst:
+- TOP A.10: Sperrpfosten am Stichweg / Verbindungsweg zwischen „Im Esch“ und „Auf dem Brokamp“ in Eickum: Bürgerantrag vom 14.05.2020 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Antrag der Deutsche Umwelthilfe e. V. auf kurzfristig einzurichtende Fahrradstraßen und Tempo 30 während der Corona-Krise für mehr Sicherheit im Radverkehr - Mehrheitlich bei 4 Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.12: Bürgerantrag des BUND Bund für Umwelt und Naturschutz Deutschland vom 08.10.2020 auf Anordnung einer Geschwindigkeitsbeschränkung von 30 km/h für die Salzufler Straße (L 712) innerorts und auf Verlängerung der Radfahraufstellflächen vor den Ampelkreuzungen
+- TOP A.13: Friedenstalstraße: Markierung der Zahl "30" auf der Fahrbahn in der Tempo-30-Zone (Bürgerantrag nach § 24 GO NRW vom 23.11.2020)
+- TOP A.14: Deaktivierung der Druckfunktion für Fußgänger an allen Druckampeln an Straßenkreuzungen (Bürgerantrag vom 24.11.2020)
+- TOP A.15: Bericht der Radverkehrsbeauftragten - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Umsetzung des Radwegekonzepts - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Interkommunale Radverkehrsverbindung Bünde – Hiddenhausen – Herford (Ratsbeschluss vom 08.05.2020): Sachstand - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Planungsstand des Radschnellweges OWL - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Neuerrichtung einer begrünten Fuß- und Radwegeverbindung entlang der Vlothoer Straße (südlich der Hammersmith- Kaserne) hier: Vorstellung des Vorentwurfs - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Vlothoer Straße zwischen Stadtholzstraße und Stuckenbergstraße: Versuchsweise verkehrsrechtliche Ausweisung als Fahrradstraße (Zeichen 244 StVO) - Mehrheitlich bei 6 Gegenstimmen war damit folgender Beschluss gefasst:
+- TOP A.21: Ausweisung weiterer Tempo-30-Zonen bzw. abschnittsweiser Geschwindigkeitsbeschränkungen auf 30 km/h
+- TOP A.22: Viertelstundentakt in der Herforder Innenstadt - Angebotsverstetigung in der Innenstadt und Entzerrung am Alten Markt - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Ausbau der Straße Am Südwall; grundsätzlicher verkehrlicher Betrieb - Bei 2 Gegenstimmen und einer Enthaltung wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.24: Umgestaltung des Wilhelmsplatzes und Neubau der Schillerbrücke hier: Änderung der Verkehrsregelung hin zu einer Ausweisung teils als "Verkehrsberuhigter Bereich" teils als „Fahrradstraße“. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Kreisverkehr Engerstraße (L 712) / Im Papendiek / Auf der Heide: Normgerechter Umbau mit Zebrastreifen und Beleuchtung in Abänderung der Beschlüsse des VA vom 03.06.2008 und 30.05.2016 zum seinerzeitigen Ausbau durch Straßen.NRW - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.26: Zeppelinstraße: Erfahrungsbericht über die probeweise aufgestellten Betonelemente auf dem Parkstreifen vor der Firma Wellteam Schöneberg Holding GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Geschwindigkeits-Dialogdisplays: Erfahrungsbericht und Erwerb weiterer Geräte - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28: Wendeplatz Westring: Anordnung eines Haltverbots (Antrag des Herforder Bürger Bündnis - Unabhängige Wählergemeinschaft vom 18.11.2020) - Mehrheitlich bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.29: Sperrung des Straßenzugs "Am Freistuhl" / Schnatweg: Prüfung einer praktikablen Sperrpfostenlösung (Antrag der Ratsfraktion DIE LINKE vom 23.11.2020)
+- TOP A.30: Hollinder Weg und Glockenweg: Erweiterung der vorhandenen Tempo-30-Zone (Antrag der SPD-Ratsfraktion Herford)
+- TOP A.31: Verbesserung der Radwegeverbindung entlang der Engerstraße (L 712) zwischen Herringhausen und Innenstadt (Antrag der SPD-Ratsfraktion)
+- TOP A.32: Aufstellung eines Wetterschutzes für die verlegte Bushaltestelle an der Salzufler Straße in Höhe des Schuhmarktes Siemes (Antrag der SPD-Ratsfraktion)
+- TOP A.33: Mitteilungen
+- TOP -: Ende der öffentlichen Sitzung
