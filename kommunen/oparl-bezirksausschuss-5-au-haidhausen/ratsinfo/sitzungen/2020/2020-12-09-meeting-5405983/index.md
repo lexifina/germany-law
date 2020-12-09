@@ -1,0 +1,157 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2020-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5405983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5405983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.1: Allgemeine Unterrichtungen
+- TOP 6.2: Infoblatt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 6.: Unterrichtungen
+- TOP 3.13.: 2. Stammstrecke, Ergebnis der Besprechung mit der DB vom 25.11.2020
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 2.1.: Die Tagesordnung wird folgendermaßen ergänzt: - A-Teil: 5.9: Errichtung einer Tischtennisplatte auf der Postwiese - UA Kultur, TOP 5.: Budget Initiative „+singenverbindet - UA Kultur, TOP 6.: Budget Initiative "Kulturtage Au-Haidhausen", dazu: Dringlichkeitsantrag - UA Soziales, TOP 1.2: Budget Initiative "Weltspieltag" - UA Planung, TOP 2.18 und 2.19 werden abgesetzt - UA Planung, TOP 2.20: Erhaltungssatzung Haidhausen - UA Mobilität, TOP 2.4: Gefahrenzeichen "Fußgänger" Auerfeldstraße - UA Mobilität, zu TOP 3.14: Biotopverbundfläche am Ostbahnhof (Anfrage) - UA Mobilität, TOP 4.7: Anbringen eines Trixispiegels wegen erheblicher Gefahr für Radler an der Reger/Gebsattelstraße - UA Klima, TOP 2.4: Maria-Theresia-Str. 4: Neubau eines Wohnhauses, hier: Baumfällung
+- TOP 5.1.: Bio-Müll in städtischen Wohnanlagen
+- TOP 5.2.: Preysingplatz: Durchgang besser ausschildern
+- TOP 5.3.: Fragen zur Abwendungserklärung
+- TOP 5.4.: City-Logistik: Pakete per Rad ausliefern
+- TOP 5.5.: Radabstellanlagen für Lastenräder in der Weißenburger Str. 41
+- TOP 5.6.: Karte für mietbare Tiefgaragenstellplätze erstellen und online stellen
+- TOP 5.7.: Planungssstand Projekt: Regerbrücke (Anfrage)
+- TOP 5.8.: Planungsstand MS-Zentrum auf dem Gelände des Universitätsklinikums rechts der Isar (Anfrage)
+- TOP 5.9.: Errichtung einer Tischtennisplatte auf der Postwiese
+- TOP 6.1.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020-2024
+- TOP 6.2.1.: Infoblatt Dezember
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Init. "The Hover" Projekt "The Hover" vom 03.-08.11.2020 1.863,50 € / Az. 0262.0-5-0313
+- TOP II.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-5-0312
+- TOP II.3.: Kriterienkatalog für Anträge und Nachhalten der bewilligten Budgets (Vorschlag UA Soziales)
+- TOP II.4.: Graffiti Gestaltung Tassiloplatz Vertagung aus der Sitzung vom 18.11.2020
+- TOP II.5.: (E) Stadtbezirksbudget Initiative "#singenverbindet" #singenverbindet Fensterkonzerte am 13. + 20.12.2020 1.188,00 € / Az. 0262.0-5-0319
+- TOP II.6.: (E) Stadtbezirksbudget Initiative "Kulturtage Au-Haidhausen" Kulturtage Au-Haidhausen 2021 im Juli/August 2021 24.990,00 € / Az. 0262.0-5-0
+- TOP II.7.: => dazu: Kulturtage Au-Haidhausen 2021
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.1.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Internationale Jungengruppe vom 01.01. - 31.12.2021 4.650,00 € / Az. 0262.0-5-0316
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative "Weltspieltag" Weltspieltag am 28.05.2021 und Weltkindertag am 20.09.2021 9.500,00 € / Az. 0262.0-5-0317
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Probeweise Versetzung der Enzis an den Kolumbusplatz
+- TOP 3.2.: Kleinkindschaukel für den Spielplatz auf der Postwiese (Ziffer 2)
+- TOP 3.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 3.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.5.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 3.7.: (U) Förderbedarf im Sozialreferat, Gesellschaftliches Engagement, Bürgerschaftliches Engagement Haushaltsplan 2021 Produkt 40351300 Unternehmensengagement, Spenden, Bürgerschaftliches Engagement 5. Stadtbezirk - Au-Haidhausen
+- TOP 3.8.: (U) Ausweichquartier für die Kindervilla am Gasteig
+- TOP 3.9.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Konfliktsituation in der Postwiese
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Preysingplatz 1, Weihnachtsgottesdienst vom 24.-26.12.2020
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Anfrage bezüglich nachträglicher Erhöhung eines Zuschussantrags Antwort Direktorium zum BA-Schreiben vom 05.11.2020
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Mieterbeiratswahl 2021 Entsendung von stimmberechtigten Mitgliedern Rückäußerung bis spätestens zum 01.02.2021
+- TOP 2.2.: Ohlmüllerstr. 3: Abbruch eines Rückgebäudes und Errichtung eines Neubaus (3 WE), Vorbescheid
+- TOP 2.3.: Ohlmüllerstr. 3: Anbau eines Personenaufzugs und Erneuerung der Balkone im 1.-4. OG
+- TOP 2.4.: Hochstr. 7: Errichtung eines Rückgebäudes, Vorbescheid
+- TOP 2.5.: Enzenspergerstr. 3: Ausbau des 2. Dachgeschosses eines Mehrfamilienhauses
+- TOP 2.6.: Steinstr. 12, Rgb.: Nutzungsänderung, Umbau, energetische Sanierung und Dachaufstockung Rückgebäude, Vorbescheid dazu: Baumfällungen
+- TOP 2.7.: Belfortstr. 14: Dachgeschoss-Ausbau (3 WE) mit Gauben und Loggien, Einbau eines Aufzugs, Tektur
+- TOP 2.8.: Wiener Platz 7: Neubau einer Loggia sowie Umbau einer Gaube und einer Wohnung
+- TOP 2.9.: Gebsattelstr. 30: Zusammenlegung 3er Wohnungen zu 2 Maisonette-Wohnungen in einem denkmalgeschützten Mehrfamilienhaus
+- TOP 2.10.: Mariahilfstr. 2: Bestandsplan mit der Darstellung der tatsächlichen Grundstücksform als Voraussetzung zur Gleichlautbescheinigung für eine Teilung nach dem WEG zum Wohnhaus mit 7 WE (Haupthaus) und dem Wohnhaus mit 1 WE (Hinterhaus)
+- TOP 2.11.: Max-Planck-Str. 1: Generalsanierung der Kellergeschosse einschließlich der haustechnischen Anlagen im Altbau und Neubau eines unterirdischen Sprinklertanks / Archiv sowie Einbau des Südaufzugs von U2 bis O3
+- TOP 2.12.: Ohlmüllerstr. 24: Nutzungsänderung: Einzelhandel zu Gastronomie und Zusammenlegen von Wohneinheit Erdgeschoss und Wohneinheit 1. Obergeschoss sowie Neubau Treppe Erdgeschoss - Obergeschoss und Außentreppe
+- TOP 2.13.: Breisacher Str. 11: Nutzungsänderung: 3 Werkstatt- zu 2 Büroräumen und Küche / Lagerraum zu Werkstatt sowie Neubau von Kellerräumen (Nachgenehmigung)
+- TOP 2.14.: Rosenheimer Str. 112 und 114: Holzkontor - Neubau eines Bürohauses mit Schulungsräumen, eines Hotels und eines Wohngebäudes mit Tiefgarage
+- TOP 2.15.: Prinzregentenstr. 156: Nutzungsänderung und Umbau eines Ladens zu einer Gaststätte
+- TOP 2.16.: Metzstr. 25: Umbau und Unterkellerung eines Nebengebäudes, Tektur
+- TOP 2.17.: Ismaninger Str. 22: Integration eines medizinischen Geräts ("Angio-CT-Hybridsystem") ins Erdgeschoss des Gebäudes 502_West einschließlich Technik im Untergeschoss
+- TOP 2.18.: Ismaninger Str. 22: Neubau Strahlenbunker für die Klinik und Poliklinik rechts der Isar (Strahlentherapie und Radioonkologie), Vorbescheid
+- TOP 2.19.: Falkenstr. 17: Neubau eines Vorder-, Mittel- und Rückgebäudes und Errichtung einer Tiefgarage, Vorbescheid
+- TOP 2.20.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 BauGB "Haidhausen"
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Photovoltaikanlage für das Bauprojekt Lilienstr. 15
+- TOP 3.2.: Öffentliche Flächen vor dem Motel One an der Orleansstraße/Rosenheimer Straße sollen öffentlich bleiben Ergebnis Ortstermin vom 25.11.2020
+- TOP 3.3.: Beschilderung eines Weges im Tassilopark
+- TOP 3.4.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 3.5.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 3.6.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Einrichtung einer Fahrradstraße in der Spicherenstraße Verweisung aus der Sitzung vom 18.11.2020
+- TOP 1.2.: Ausführungsplanung Schutzstreifen Rosenheimer Straße Verweisung aus der Sitzung vom 18.11.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Eggernstraße: Absolutes Haltverbot mit Zeitzusatz vor Hausnummer 5 für AWM
+- TOP 2.2.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnliche Einrichtungen, hier: Ismaninger Straße
+- TOP 2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Orleansstraße 35
+- TOP 2.4.: Aufstellung eines Gefahrenzeichens "Fußgänger" in der Auerfeldstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zwischenbericht zur Planung der Radschnellwege (Anfrage)
+- TOP 3.2.: Orleansplatz: Zwei Rolltreppen Antwort RAW zum BA-Schreiben vom 10.09.2020
+- TOP 3.3.: Verbesserung des Zugangs zur Rampe an der Reichenbachbrücke
+- TOP 3.4.: Zügigen Busverkehr in der Prinzregentenstraße sicherstellen
+- TOP 3.5.: Messung der Lärm- und Feinstaubbelastung am Kolumbusplatz, in der Humboldtstraße und am Giesinger Berg
+- TOP 3.6.: Kirchenstraße - Tempo 30 ab Kreuzung
+- TOP 3.7.: Besondere Sicherheitserfordernisse in der Falkenstraße: Antrag auf streckenbezogene Temporeduzierung
+- TOP 3.8.: Gebsattelbrücke als "Nachbarschaftsstraße": Platz zum Spielen und Verweilen
+- TOP 3.9.: Einrichtung eines Radweges vom Haidenauplatz zum Orleansplatz
+- TOP 3.10.: Radlständer für das ASZ Haidhausen (2 Anträge)
+- TOP 3.11.: Parker vor dem ASZ Haidhausen / Ergänzung der fehlenden Poller Antwort KVR und Baureferat zum BA-Schreiben vom 23.11.2020
+- TOP 3.12.: Einrichtung von verbindlichen Abstellflächen für E-Scooter / E-Bikes BV-Empfehlung Nr. 3181 vom 30.01.2020 Endgültige Entscheidung durch das Direktorium
+- TOP 3.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.15.: zu TOP 3.14: Biotopverbundfläche am Ostbahnhof (Anfrage)
+- TOP 3.16.: Verlängerung der temporären Radverkehrsanlagen Sitzungsvorlage Nr.20-26 / V 01840
+- TOP 3.17.: Verkehrsrechtliche Anordnungen: a) Humboldtstraße, Verkehrsversuch Tempo 40 b) Langerstraße, Parklizenzbereich Kliniviertel, Änderung der Parkregeln c) Ismaningerstraße, Einrichtung eines Bereichs mit Haltverbot am nördlichen Zugang des Klinikums rechts der Isar, Parklizenzbereich Klinikviertel d) Pariser Straße, Errichtung einer Schnell-Ladesäule
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Platzsituation für Radfahrer und Fußgänger und Ampelinstallation vor Tram- und Bushaltestelle (Einsteinstraße/ Mittlerer Ring)
+- TOP 4.2.: Tempo 30 Gebsattelbrücke und Fortführung Tempo 30 Rosenheimer Straße
+- TOP 4.3.: Fußgängersituation Welfenstraße
+- TOP 4.4.: Antrag zur Umwandlung der Holzhofstraße in eine Spielstraße als Bindeglied zwischen Preysingplatz und dem Spielplatz am Gasteig Verweisung aus der Sitzung vom 18.11.2020
+- TOP 4.5.: Blumenwiese und Verkehr entlang dem Radweg Süd
+- TOP 4.6.: Stellplatzsituation Regerstraße
+- TOP 4.7.: Anbringen eines Trixispiegels wegen erheblicher Gefahr für Radler an der Reger/Gebsattelstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Austausch des Mülleimers an der Balanstraße Ecke Rablstraße durch einen fahrradfreundlichen Mülleimer als Pilotprojekt
+- TOP 2.: Anhörungen
+- TOP 2.1.: Neue Baumstandorte im öffentlichen Raum Konkrete Stellenbenennung in öffentlichen Grünanlagen, auf Plätzen und im Straßenbegleitgrün bis 03.05.2021
+- TOP 2.2.: Haidhauser Str. 1: Fällung von 1 Trompetenbaum
+- TOP 2.3.: Ismaninger Str. 22: Fällung von 1 Baum
+- TOP 2.4.: Maria-Theresia-Str. 4: Neubau eines Wohnhauses, hier: Baumfällung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verbesserungsvorschlag Müllsituation am Tassiloplatz
+- TOP 3.2.: Urban-Gardening in der Au
+- TOP 3.3.: Baumpflanzung in der Falkenstraße Antwortschreiben des Baureferates auf BA-Schreiben vom 20.12.2018
+- TOP 3.4.: Fällgenehmigung Rablstr. 29
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Neue Standorte für Glascontainer in der Au
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 18.01.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 18.01.2021, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft,19.01.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 20.01.2021, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 20.01.2021, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 21.01.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 27.01.2021, 19.00 Uhr, Ort steht noch nicht fest BA-Vorstand, Dienstag, 12.01.2021, 19.30 Uhr, Friedenstraße 40
