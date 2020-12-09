@@ -1,0 +1,84 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-12-09T16:44:00+01:00
+- Ende: 2020-12-09T21:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11710
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11710
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00472173.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Gültige Rechtsgrundlage für den Erlass von Allgemeinverfügungen zu Corona
+- TOP 1.2: Maßnahmen seitens der Verwaltung zur Umsetzung des Ratsbeschlusses zur Klimaneutralität
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8.1: Wohnungstauschprämie für Seniorinnen und Senioren - Größere Wohnungen zugunsten kleinerer Wohnungen frei machen - verwiesen
+- TOP 8.2: Öffentlich geförderte Wohnungen in neuen Wohngebieten - Aktive Förderung des Wohnungstausches von Seniorinnen und Senioren - verwiesen
+- TOP 8.3: Pflegebedarfsplanung - "konstante Variante" berechnen - verwiesen
+- TOP 8.4: Bürgerumfragen - Fragenkomplexe aus früheren Bürgerumfragen aufgreifen - verwiesen
+- TOP 8.5: "Führerscheintausch gegen 60plusAbo - kostenlos 6 Monate Bus & Bahn fahren!" - Verlängerung auf 24 Monate - verwiesen
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Entwurf der Haushaltssatzung der Stadt Münster für das Jahr 2021 - einstimmig beschlossen
+- TOP 11: Zuständigkeitsordnung der Stadt Münster, Satzung zur Änderung der Betriebssatzung der AWM - mehrheitlich geändert beschlossen
+- TOP 12: Besetzung von Gremien
+- TOP 12.1: Besetzung der Ausschüsse und sonstigen Gremien des Rates - einstimmig geändert beschlossen
+- TOP 12.2: Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig geändert beschlossen
+- TOP 12.2.1: Besetzung des Ausschusses für Kinder, Jugendliche und Familien
+- TOP 12.3: Besetzung von Gesellschafterversammlungen, Aufsichtsräten, Beiräten und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 12.4: Wahl der Mitglieder der 15. Landschaftsversammlung Westfalen-Lippe
+- TOP 12.5: Besetzung der Gremien des Sparkassenzweckverbandes Münsterland Ost
+- TOP 12.6: Besetzung des Beirates nach dem Landesnaturschutzgesetz bei der Stadt Münster als untere Naturschutzbehörde
+- TOP 12.6.1: Besetzung des Beirates nach dem Landesnaturschutzgesetz bei der Stadt Münster als untere Naturschutzbehörde
+- TOP 12.7: Besetzung des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 13: Entwurf des Jahresabschlusses zum 31.12.2019 der Stadt Münster - einstimmig beschlossen
+- TOP 14: Finanzierung des Impfzentrums in der Stadt Münster - einstimmig beschlossen
+- TOP 15: Konzernabschluss 2019 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 16: Vorabgewinnausschüttung auf den Bilanzgewinn 2020 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 17: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2019 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr und Rückgewährung - einstimmig beschlossen
+- TOP 18: Erhöhung des Stammkapitals der Bädermanagement Münster GmbH durch die alleinige Gesellschafterin Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 19: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2018 - einstimmig beschlossen
+- TOP 20: Jahresabschluss 2019 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 21: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 21.1: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 21.2: Abwassergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 21.3: Gewässergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 21.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2021 - einstimmig beschlossen
+- TOP 21.5: Abfallgebühren 2021 - mehrheitlich beschlossen
+- TOP 21.6: Straßenreinigungsgebühren 2021 - mehrheitlich beschlossen
+- TOP 22: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 23: Anträge an den Rat Nr. A-R/0038/2020 "Maßnahmen zur Stärkung des Tourismus: Bettensteuer abschaffen" und A-R/0044/2020 "Hundesteuer abschaffen der AfD-Ratsgruppe im Rat der Stadt Münster - mehrheitlich beschlossen
+- TOP 24: Unterstützungsmaßnahmen der Gastronomie und des Schaustellergewerbes für den Winter 2020/21 und das Jahr 2021 - mehrheitlich geändert beschlossen
+- TOP 25: Digitalpakt II: Umsetzung des Sofortausstattungsprogramms; Anschaffung von digitalen Endgeräten für Lehrkräfte - einstimmig beschlossen
+- TOP 26: Kommunalinvestitionsförderungsgesetz;Festlegung von Maßnahmen zur Inanspruchnahme der Fördermittel aus dem Kapitel 2 zur Verbesserung der Schulinfrastruktur - einstimmig beschlossen
+- TOP 27: Ausbau des städtischen Stadions an der Hammer Straße: Verfahrensentscheidungen, Ausbauvarianten und vorgezogene Maßnahmen - Vorlage eingebracht
+- TOP 28: Stadion an der Hammer Straße: Zuschuss an den SC Preußen Münster im Jahr 2021 und Finanzierung sicherheitsrelevanter Maßnahmen - einstimmig beschlossen
+- TOP 29: Anpassung des Baukostenzuschusses des Sportvereins Shotokan Karate Dojo Münster e. V. - einstimmig beschlossen
+- TOP 30: Errichtungsbeschluss: Dauerhafter Ersatzbau einer Kindertageseinrichtung am Standort Alte Mauritzschule im Bezirk Mitte - mehrheitlich beschlossen
+- TOP 31: Interimsmaßnahme zum Erhalt der Betreuungsplätze der Kita Regenbogenkinder e.V. - Errichtungsbeschluss für einen Ein-Gruppen-Pavillon am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - mehrheitlich beschlossen
+- TOP 32: Stiftung Bürgerwaisenhaus / Erweiterung des Stiftungszwecks - Satzungsänderung - einstimmig beschlossen
+- TOP 33: Erweiterung der Hermannschule und der Peter-Wust-Schule - Durchführung der Architektenwettbewerbe - einstimmig geändert beschlossen
+- TOP 34: Erweiterung Annette-von-Droste-Hülshoff-Schule Nienberge und Melanchthonschule, Durchführung der Architektenwettbewerbe - einstimmig geändert beschlossen
+- TOP 35: Bauleitplanung
+- TOP 35.1: Stadtbezirk Münster-Mitte
+- TOP 35.1.1: Veränderungssperre Nr. 113 für den Bereich des Bebauungsplans Nr. 575 - einstimmig beschlossen
+- TOP 36: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 36.1: Resolution: „Nahverkehr stärken, Bahnhof Albachten wieder besser anbinden“ - einstimmig beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 37.1: Für mehr Klimaschutz und soziale Gerechtigkeit im Nahverkehr: Das 1-Euro-Ticket für Münster! - verwiesen
+- TOP 37.2: Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen der Stadt Münster, hier: I. Geschäftsordnung des Rates - verwiesen
+- TOP 37.3: Kulturelle Vielfalt in und nach der Corona-Pandemie sichern - verwiesen
+- TOP 37.4: Seelische Gesundheit stärken - Hilfe und Unterstützung für psychisch- und suchtkranke Menschen in Münster – Bericht - verwiesen
+- TOP 38: Anmietung einer Containeranlage und Verlängerung der Anmietung einer Containeranlage zur interimsweisen Nutzung als Mensa an der Mathilde-Anneke-Schule, Andreas-Hofer-Straße 30, 48145 Münster - einstimmig beschlossen
+- TOP 39: Verschiedenes
