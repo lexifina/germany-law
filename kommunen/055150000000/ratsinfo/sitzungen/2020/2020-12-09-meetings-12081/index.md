@@ -1,0 +1,53 @@
+# 1. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2020-12-09T16:09:00+01:00
+- Ende: 2020-12-09T21:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12081
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12081
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00472401.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bestellung eines Schriftführers für die Sitzungen des Hauptausschusses - einstimmig beschlossen
+- TOP 3: Wahl der stellvertretenden Vorsitzenden des Hauptausschusses - einstimmig geändert beschlossen
+- TOP 4: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster" - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Entwurf des Jahresabschlusses zum 31.12.2019 der Stadt Münster - einstimmig beschlossen
+- TOP 6: Finanzierung des Impfzentrums in der Stadt Münster - einstimmig beschlossen
+- TOP 7: Konzernabschluss 2019 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 8: Vorabgewinnausschüttung auf den Bilanzgewinn 2020 der Stadtwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 9: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2019 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr und Rückgewährung - einstimmig beschlossen
+- TOP 10: Erhöhung des Stammkapitals der Bädermanagement Münster GmbH durch die alleinige Gesellschafterin Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 11: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2018 (Entwurf) - einstimmig beschlossen
+- TOP 12: Jahresabschluss 2019 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 13: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 13.1: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 13.2: Abwassergebührensatzung: Änderung der Gebührentarife - ohne Beschlussfassung geschoben
+- TOP 13.3: Gewässergebührensatzung: Änderung der Gebührentarife - ohne Beschlussfassung geschoben
+- TOP 13.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2021 - ohne Beschlussfassung geschoben
+- TOP 13.5: Abfallgebühren 2021 - ohne Beschlussfassung geschoben
+- TOP 13.6: Straßenreinigungsgebühren 2021 - ohne Beschlussfassung geschoben
+- TOP 14: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 15: Anträge an den Rat Nr. A-R/0038/2020 "Maßnahmen zur Stärkung des Tourismus: Bettensteuer abschaffen" und A-R/0044/2020 "Hundesteuer abschaffen der AfD-Ratsgruppe im Rat der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 16: Unterstützungsmaßnahmen der Gastronomie und des Schaustellergewerbes für den Winter 2020/21 und das Jahr 2021 - ohne Beschlussfassung geschoben
+- TOP 17: Digitalpakt II: Umsetzung des Sofortausstattungsprogramms; Anschaffung von digitalen Endgeräten für Lehrkräfte - ohne Beschlussfassung geschoben
+- TOP 18: Kommunalinvestitionsförderungsgesetz;Festlegung von Maßnahmen zur Inanspruchnahme der Fördermittel aus dem Kapitel 2 zur Verbesserung der Schulinfrastruktur - einstimmig beschlossen
+- TOP 19: Stadion an der Hammer Straße: Zuschuss an den SC Preußen Münster im Jahr 2021 und Finanzierung sicherheitsrelevanter Maßnahmen - einstimmig beschlossen
+- TOP 20: Anpassung des Baukostenzuschusses des Sportvereins Shotokan Karate Dojo Münster e. V. - einstimmig beschlossen
+- TOP 21: Errichtungsbeschluss: Dauerhafter Ersatzbau einer Kindertageseinrichtung am Standort Alte Mauritzschule im Bezirk Mitte - einstimmig beschlossen
+- TOP 22: Interimsmaßnahme zum Erhalt der Betreuungsplätze der Kita Regenbogenkinder e.V. - Errichtungsbeschluss für einen Ein-Gruppen-Pavillon am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 23: Stiftung Bürgerwaisenhaus / Erweiterung des Stiftungszwecks - Satzungsänderung - einstimmig beschlossen
+- TOP 24: Erweiterung der Hermannschule und der Peter-Wust-Schule - Durchführung der Architektenwettbewerbe - ohne Beschlussfassung geschoben
+- TOP 25: Erweiterung Annette-von-Droste-Hülshoff-Schule Nienberge und Melanchthonschule, Durchführung der Architektenwettbewerbe - ohne Beschlussfassung geschoben
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Mitte
+- TOP 26.1.1: Veränderungssperre Nr. 113 für den Bereich des Bebauungsplans Nr. 575 - einstimmig beschlossen
+- TOP 27: Anmietung einer Containeranlage und Verlängerung der Anmietung einer Containeranlage zur interimsweisen Nutzung als Mensa an der Mathilde-Anneke-Schule, Andreas-Hofer-Straße 30, 48145 Münster - ohne Beschlussfassung geschoben
+- TOP 28: Verschiedenes
