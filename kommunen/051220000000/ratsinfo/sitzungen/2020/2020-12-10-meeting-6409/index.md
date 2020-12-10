@@ -1,0 +1,64 @@
+# Haupt-, Personal- und Gleichstellungsausschuss (1. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-12-10T17:01:00+01:00
+- Ende: 2020-12-10T17:36:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-330
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYAWm2OSE75Txq5yaV3B-qw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6409
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV3yK4zzgXI3f6UQY1k764zKtD53DiO8oXNn51_JcZuH/Bekanntmachung_Haupt--_Personal-_und_Gleichstellungsausschuss_10.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc9qUiYDjTvr5ckfiFtiXu-ieEv85LQaKfvs07Cr7pEy/Oeffentliche_Niederschrift_Haupt--_Personal-_und_Gleichstellungsausschuss_10.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung des Haupt- und Personalausschusses am 29.09.2020
+- TOP 4.: Grundsatzbeschluss des Rates zur Selbstverpflichtung bei der Durchführung von Sitzungen mit Videokonferenzsystemen
+- TOP 5.: Bestellung von stellvertretenden Mitgliedern des Umlegungsausschusses
+- TOP 6.: Wahl der Mitglieder des Beirates der Unteren Naturschutzbehörde
+- TOP 7.: Schlossbauverein Burg an der Wupper e. V. hier: Vertretung der Stadt Solingen in der Mitgliederversammlung, im Vorstand und im Beirat
+- TOP 8.: Zeitlich befristete Personalstelle für das Projekt „Solinger Schulen und Kindertagesstätten für den Klimaschutz“ (100% Förderung)
+- TOP 9.: Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V. hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 10.: Forschungsgemeinschaft Werkzeuge und Werkstoffe e. V. (FGW) hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 11.: civitec - Zweckverband Kommunale Informationsverarbeitung Vertretung der Stadt Solingen in der Verbandsversammlung
+- TOP 12.: Stadt-Sparkasse Solingen Wahl eines ordentlichen und zweier stellvertretender Mitglieder des Verwaltungsrates
+- TOP 13.: Stadt-Sparkasse Solingen hier:Wahl der Mitglieder für die Organe der Alten-Stiftung
+- TOP 14.: Rheinischer Sparkassen- und Giroverband hier: Vertretung in der Verbandsversammlung
+- TOP 15.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2019 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht Verwendung des Jahresüberschusses der Sparkasse
+- TOP 16.: Masterplanung Berufsfeuerwehr, Festlegung des weiteren Vorgehens auf Grundlage der Kostenschätzung zum 1. Teilprojekt Feuer- und Rettungswache II, Brunnenstraße
+- TOP 17.: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 18.: III. Änderung der Betriebssatzung für die Technischen Betriebe Solingen
+- TOP 19.: II. Änderung der Betriebssatzung für den Dienstleistungsbetrieb Gebäude der Stadt Solingen
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung des Haupt- und Personalausschusses am 29.09.2020
+- TOP 4.: Hinausschieben des Ruhestandseintritts von Herrn Stadtdirektor Hartmut Hoferichter gemäß § 32 Absatz 2 des Landesbeamtengesetztes – LBG -
+- TOP 5.: Beförderung der Leitung des Stadtdienstes Stadtarchiv
+- TOP 6.: Verwaltungsgerichtliches Verfahren Klingenstadt Solingen ./. Stadt Mannheim
+- TOP 7.: Konzessionierungsverfahren Strom der Klingenstadt Solingen ohne die Stadtteile Solingen-Burg und Solingen-Höhrath
+- TOP 8.: Konzessionierungsverfahren Gas für die Klingenstadt Solingen ohne die Stadtteile Solingen-Burg und Solingen-Höhrath
+- TOP 9.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH – Mitglieder des Beirats
+- TOP 10.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH (BSW) - Bestellung des Jahresabschlussprüfers 2020
+- TOP 11.: Jahresabschluss 2019 und Jahresabschlussprüfung der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 12.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Bestellung des Abschlussprüfers 2020
+- TOP 13.: Wirtschaftsplan 2021 der Gründer- und Technologiezentrum Solingen GmbH Co. KG
+- TOP 14.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG) – Bestellung des Jahresabschlussprüfers für das Geschäftsjahr 2020
+- TOP 15.: Wirtschaftsplan 2021 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG)
+- TOP 16.: Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH) – Verpfändung der Pensionszusage
+- TOP 17.: Wirtschaftsförderung Solingen Verwaltungs GmbH – Bestellung einer Prokuristin
+- TOP 18.: Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH) – Bestellung Jahresabschlussprüfer für das Geschäftsjahr 2020
+- TOP 19.: Wirtschaftsplan 2021 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 20.: Neue Effizienz GmbH - Änderung des Gesellschaftsvertrages
+- TOP 21.: Wirtschaftsplan 2021 der Neue Effizienz GmbH
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen der Verwaltung
+- TOP 22.2: Anfragen an die Verwaltung
