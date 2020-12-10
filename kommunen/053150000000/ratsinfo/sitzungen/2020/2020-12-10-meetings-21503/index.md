@@ -1,0 +1,143 @@
+# 3. konstituierende Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-10T14:12:00+01:00
+- Ende: 2020-12-10T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21503
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21503
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aus der 2. konstituierenden Sitzung zurückgestellte Vorlagen
+- TOP 1.1: Wahl der sachkundigen Einwohnerinnen und Einwohner in den Ausschüssen gemäß Ratsbeschluss vom 05.11.2020 - ungeändert beschlossen
+- TOP 2: Wahlen - Besetzung weiterer Gremien
+- TOP 2.1: Zweckverbands/Mitgliederversammlungen - ungeändert beschlossen
+- TOP 2.1.1: Zweckverband Sparkasse KölnBonn hier: Entsendung in die Verbandsversammlung - ungeändert beschlossen
+- TOP 2.1.2: Zweckverband Verkehrsverbund Rhein-Sieg (VRS): Entsendung in die Verbandsversammlung - ungeändert beschlossen
+- TOP 2.1.3: Zweckverband Erholungsgebiet Stöckheimer Hof, Hier: Wahl der Vertreterinnen und Vertreter der Stadt Köln für die Verbandsversammlung - ungeändert beschlossen
+- TOP 2.1.4: Zweckverband "Naturpark Rheinland" - ungeändert beschlossen
+- TOP 2.1.5: Wahl der Mitglieder sowie ihrer Stellvertreter in die Verbandsversammlung des Zweckverbandes "Naturpark Bergisches Land" - ungeändert beschlossen
+- TOP 2.1.6: Sparkasse KölnBonn: Weisung an die durch den Rat der Stadt Köln entsandten Vertreter für Abstimmungen in der Verbandsversammlung des Zweckverbandes Sparkasse KölnBonn - ungeändert beschlossen
+- TOP 2.2: Aufsichtsgremien Stadtwerke Konzern
+- TOP 2.2.1: Stadtwerke Köln GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.2: RheinEnergie AG, hier: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.3: GEW Köln AG, hier: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.4: Kölner Verkehrs-Betriebe AG (KVB): Vorschläge für die Wahl von Aufsichtsratsmitgliedern - ungeändert beschlossen
+- TOP 2.2.5: AWB Abfallwirtschaftsbetriebe Köln GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.6: AVG Abfallentsorgungs- und Verwertungsgesellschaft Köln mbH: - ungeändert beschlossen
+- TOP 2.2.7: Wohnungsgesellschaft der Stadtwerke Köln mbH (WSK) - Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.8: KölnBäder GmbH hier: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.9: Häfen und Güterverkehr Köln AG (HGK AG) : Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3: Aufsichtsgremien weiterer städtischer Unternehmen
+- TOP 2.3.1: Koelnmesse GmbH - Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.2: Kliniken der Stadt Köln gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.3: RehaNova Köln neurologische Rehabilitationsklinik gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.4: Sozial-Betriebe-Köln gGmbH (SBK) - Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.5: Regionalverkehr Köln GmbH (RVK): Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.6: KölnBusiness Wirtschaftsförderungs-GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.7: Flughafen Köln/Bonn GmbH, hier: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.8: Kölner Sportstätten GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.9: KölnMusik Betriebs- und Servicegesellschaft mbH/AchtBrücken GmbH - Entsendung in die Aufsichtsräte - ungeändert beschlossen
+- TOP 2.3.10: Akademie der Künste der Welt/Köln gGmbH hier: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.11: Jugendzentren Köln gGmbH (JugZ) - ungeändert beschlossen
+- TOP 2.3.12: AG Zoologischer Garten Köln - ungeändert beschlossen
+- TOP 2.3.13: GWG Wohnungsgesellschaft mbH Rhein-Erft (GWG) - Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.14: GAG Immobilien AG - Entsendung in den Aufsichtsrat - Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.15: GIZ Gründer- und Innovationszentrum GmbH im TechnologiePark Köln i.L.: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.16: moderne stadt Gesellschaft zur Förderung des Städtebaus und der Gemeindeentwicklung mbH - ungeändert beschlossen
+- TOP 2.3.17: Kölner Gesellschaft für Arbeits- und Berufsförderung mbH (KGAB) - zurückgestellt
+- TOP 2.3.18: KölnTourismus GmbH - ungeändert beschlossen
+- TOP 2.3.19: RheinCargo GmbH & Co. KG: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.20: Koelncongress GmbH - Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4: Bestellung von Arbeitnehmervertreterinnen und -vertreter
+- TOP 2.4.1: KölnBäder GmbH: Bestellung einer Arbeitnehmervertreterin bzw. eines Arbeitnehmervertreters in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.2: RheinEnergie AG - ungeändert beschlossen
+- TOP 2.4.3: Kliniken der Stadt Köln gGmbH: Bestellung von Arbeitnehmervertretern/ Arbeitnehmervertreterinnen in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.4: Kölner Sportstätten GmbH: Bestellung eines Arbeitnehmervertreters in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.5: Kölner Gesellschaft für Arbeits- und Berufsförderung mbH (KGAB): - ungeändert beschlossen
+- TOP 2.4.6: KölnTourismus GmbH: - ungeändert beschlossen
+- TOP 2.4.7: Jugendzentren Köln gGmbH: - ungeändert beschlossen
+- TOP 2.4.8: KölnBusiness Wirtschaftsförderungs-GmbH: Bestellung einer Arbeitnehmervertreterin bzw. eines Arbeitnehmervertreters in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.9: RheinEnergie AG - ungeändert beschlossen
+- TOP 2.4.10: RheinCargo GmbH & Co. KG: Bestellung von Arbeitnehmervertreterinnen bzw. Arbeitnehmervertretern in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.11: SBK Sozial-Betriebe-Köln gemeinnützige GmbH: Bestellung von Arbeitnehmervertreterinnen bzw. Arbeitnehmervertretern in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.5: Stiftungen
+- TOP 2.5.1: Besetzung des Kuratoriums der Gerda und Manfred Ulbrich-Stiftung - ungeändert beschlossen
+- TOP 2.5.2: Bestellung einer Inspektorin/eines Inspektors der Stiftung Johann-Heinrich Claren - ungeändert beschlossen
+- TOP 2.5.3: Vertretung der Stadt Köln im Vorstand der Krankenhausstiftung Worringen - ungeändert beschlossen
+- TOP 2.5.4: Besetzung der Deputation der Guilleaume-Stiftung St. Antoniusheim - ungeändert beschlossen
+- TOP 2.5.5: Kunststiftung im Museum Ludwig Köln - Bestellung des Kuratoriums - ungeändert beschlossen
+- TOP 2.5.6: Besetzung des Kuratoriums der Stiftung Dr. Dormagen-Guffanti - ungeändert beschlossen
+- TOP 2.5.7: Wahl der Mitglieder zum Kuratorium der Krankenhausstiftung Porz am Rhein - ungeändert beschlossen
+- TOP 2.6: Weitere Gremien
+- TOP 2.6.1: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln) - ungeändert beschlossen
+- TOP 2.6.2: Verein Region Köln/ Bonn e.V. hier: Wahl der Mitgliedervertreterinnen und Mitgliedervertreter - ungeändert beschlossen
+- TOP 2.6.3: Metropolregion Rheinland e.V. hier: Wahl der Mitgliedervertreterinnen und Mitgliedervertreter - ungeändert beschlossen
+- TOP 2.6.4: Lenkungskreis Politische Vertretung für das MiQua - zurückgestellt
+- TOP 2.6.5: Bestellung von städtischen Vertretern in den Organen des Vereins Deutsches Sport & Olympia Museum e.V. - ungeändert beschlossen
+- TOP 2.6.6: Benennung von Mitgliedern in den Verwaltungsausschuss der Agentur für Arbeit - ungeändert beschlossen
+- TOP 2.6.7: Benennung von Mitgliedern in den Ausschuss für anzeigepflichtige Entlassungen der Agentur für Arbeit Köln - ungeändert beschlossen
+- TOP 2.6.8: Beirat Bürgerzentrum Alte Feuerwache - ungeändert beschlossen
+- TOP 2.6.9: Beirat Öffentlichkeitsbeteiligung - Verstetigung und Ausbau der Systematischen Öffentlichkeitsbeteiligung - Hier: Wahl der Ratsmitglieder - zurückgestellt
+- TOP 2.6.10: Mitgliederwahl Beirat Sperrbezirk Kölner Süden - zurückgestellt
+- TOP 2.6.11: Neukonstituierung des Beirates der Forensischen Klinik Köln-Porz für die Ratsperiode 2020 bis 2025 - zurückgestellt
+- TOP 2.6.12: Wahl der Kölner Mitglieder des Regionalrates - ungeändert beschlossen
+- TOP 2.6.13: Gebrüder Coblenz Stift e.V. - ungeändert beschlossen
+- TOP 2.6.14: Bestellung von Vertretern der Stadt Köln, die gemäß § 63 Abs. 2 i. V.m. § 113 Abs.4 GO NW Mitgliedsrechte der Stadt Köln in Organen, Beiräten oder Ausschüssen von juristischen Personen oder Personenvereinigungen wahrnehmen - ungeändert beschlossen
+- TOP 2.6.15: Mitwirkung der Politik in der Steuerungsgruppe des Kölner Netzwerks Bürgerengagement - zurückgestellt
+- TOP 2.6.16: Neubenennung der Ratsvertreter/innen für die Kommunale Gesundheitskonferenz Köln nach der Kommunalwahl 2020 - ungeändert beschlossen
+- TOP 2.6.17: Bestellung von Ratsmitgliedern in den Umlegungsausschuss der Stadt Köln - ungeändert beschlossen
+- TOP 2.6.18: Wahl eines Mitglieds der Kommunalen Bank des Braunkohlenausschusses und eines Mitglieds mit beratender Befugnis des Braunkohlenausschusses Beschlussorgan Rat - ungeändert beschlossen
+- TOP 3: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 GO NRW
+- TOP 4: Vorlagen zur Vermeidung von Dringlichkeitsvorlagen
+- TOP 4.1: Beschlussvorlagen
+- TOP 4.1.1: 4. Satzung zur Änderung der Abfallsatzung - geändert beschlossen
+- TOP 4.1.2: 5. Satzung zur Änderung der Abfallgebührensatzung - ungeändert beschlossen
+- TOP 4.1.3: 8. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - ungeändert beschlossen
+- TOP 4.1.4: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2021 - ungeändert beschlossen
+- TOP 4.1.5: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 4.1.6: Annahme einer Geldzuwendung für den Ankauf eines Kunstwerkes von Wade Guyton für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.1.7: Überplanmäßige Aufwendungen in den Teilplänen 0402 bis 0408 - Museen, Hj. 2020 - ungeändert beschlossen
+- TOP 4.1.8: Anpassung der Hauptsatzung an die Entschädigungsverordnung NRW und Durchführung von Online-Fraktionssitzungen während der Corona-Pandemie - ungeändert beschlossen
+- TOP 4.1.9: Allgemeine Bewilligungsbedingungen für die Bereiche Jugend, Schule, Weiterbildung, Senioren, Soziales, Beschäftigungsförderung, Wohnen und Gesundheit - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 4.1.10: Mittelfreigabe in den Haushaltsjahren 2020 und 2021 für die Maßnahme „Zuschuss Heimatlos in Köln e.V.“ - ungeändert beschlossen
+- TOP 4.1.11: Projekte im Rahmen der Städtepartnerschaft Bethlehem/Palästine und der Klimapartnerschaften mit Corinto/Nicaragua und Rio de Janeiro/Brasilien - ungeändert beschlossen
+- TOP 4.1.12: Planungsaufnahme zur Errichtung einer 4-gruppigen integrativen Kindertageseinrichtung in der Franz-Werfel-Str. 18, 51067 Köln (Holweide) - ungeändert beschlossen
+- TOP 4.1.13: Corona-Sondermaßnahmen Kultur 2021 des Kulturamtes – zunächst bis Juni 2021 - zurückgestellt
+- TOP 4.1.14: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2019 - ungeändert beschlossen
+- TOP 4.1.15: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2021 - ungeändert beschlossen
+- TOP 4.1.16: Überplanmäßiger Aufwand im Teilergebnisplan 0412 - Historisches Archiv im Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 4.1.17: Entsendung von sachkundigen Einwohnerinnen und Einwohnern in die Ausschüsse auf Vorschlag der Seniorenvertretung - ungeändert beschlossen
+- TOP 4.1.18: Aufstockung Notfalltopf Corono-Krise - ungeändert beschlossen
+- TOP 4.1.19: Erhöhung der Jugendbeihilfe 2020 - ungeändert beschlossen
+- TOP 4.1.20: Berufung von sachkundigen Einwohnern als ständige Mitglieder mit beratender Stimme in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 4.2: Haushaltsrechtliche Unterrichtungen nach § 25 Abs. 2 KommHVO
+- TOP 4.2.1: Mehrkosten Umwandlung Tennenplätze in Kunstrasenplätze - Kenntnis genommen
+- TOP 4.2.2: Generalinstandsetzung der Friedrich-Karl-Straße in Abschnitten zwischen Hausnummer 224-236 und 238-270, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushalts - Kenntnis genommen
+- TOP 4.2.3: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 4.2.4: Unterrichtung des Rates gem. § 25 der Kommunalhaushaltsverordnung Nordrhein-Westfalen - Kenntnis genommen
+- TOP 4.2.5: Finanzielle Auswirkungen der Corona-Pandemie im Bereich der Allgemeinen Finanzwirtschaft, Allgemeine Finanzlage der Kommunen und Ausblick auf 2021 ff - Kenntnis genommen
+- TOP 4.2.6: Haushaltsrechtliche Unterrichtung der Kämmerin/Einsturz Historisches Archiv/Verwendung der Mittel aus dem Vergleichsabschluss - Kenntnis genommen
+- TOP 4.2.7: Generalsanierung der Schlackstraße, hier: Mitteilung über Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020 - Kenntnis genommen
+- TOP 4.2.8: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 5: Weitere Vorgänge
+- TOP 5.1: Anfrage der Gruppe GUT betreffend "Dürre in Köln 2020" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 10.12.2020 - Kenntnis genommen
+- TOP 5.2: Antrag der Gruppen KLIMA FREUNDE und GUT betreffend "Verbot des Abbrennens pyrotechnischer Erzeugnisse und Knallkörper" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und der Gruppen KLIMA FREUNDE und GUT - ungeändert beschlossen
+- TOP -: Änderungsantrag der Gruppe Die PARTEI - Sache ist erledigt
+- TOP 5.3: Anfrage der Gruppe GUT betreffend "Umsetzung Haushaltsbeschlüsse" - zurückgestellt
+- TOP 5.4: Dringlichkeitsantrag der Gruppe Die PARTEI betreffend "Autonomes Zentrum" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.5: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, Die Linke., FDP und Volt Bildung von Unterausschüssen - zurückgestellt
+- TOP 5.6: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, Die Linke., FDP und Volt "Änderung der Satzungen über die Vergabe von Preisen der Stadt Köln, von Stipendien und anderen Jurys" - ungeändert beschlossen
+- TOP 5.7: Dringlichkeitsantrag der FDP-Fraktion betreffend "Aussetzen der Parkgebühren" - endgültig abgelehnt
+- TOP 5.8: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Gruppen Die PARTEI, KLIMA FREUNDE und GUT Köln - endgültig abgelehnt
+- TOP 5.9: Dringlichkeitsantrag der AfD-Fraktion betreffend "Glühwein Wanderweg erhalten" - endgültig abgelehnt
+- TOP 6: ---
