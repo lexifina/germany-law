@@ -1,0 +1,87 @@
+# Gemeinderat (2. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2020-12-10T18:00:00+01:00
+- Ende: 2020-12-10T22:16:00+01:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcwm6p1OqROOSe80N_jkhpU
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1792
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbQBVuwPgmOykYHzu92IHU8OPTlZhXcMsl4YrB6XVKNj/Bekanntmachung_Gemeinderat_10.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLJ1MfOoxxsH-5wKS2NdRRl9OCzP91EDdtRzjMvefr_/Oeffentliche_Niederschrift_Gemeinderat_10.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1: Förderprogramm Investitionspakt zur Förderung von Sportstätten für 2020 und 2021 - Sportheim Siersdorf - Sanierung von Sanitäranlagen - Einstimmig; 0 Enthaltungen
+- TOP 3.2: Stellungnahme zum Teilplan Nichtenergetische Rohstoffe (Lockergesteine) - Einstimmig; 0 Enthaltungen
+- TOP 4.: Neubesetzung von Ausschüssen
+- TOP 4.1: Wahl der Mitglieder der Ausschüsse und deren Stellvertreter/innen - Einstimmig; 0 Enthaltungen
+- TOP 4.2: Benennung der Ausschussvorsitzenden - ohne Abstimmung
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1: Behindertenbeirat - Einstimmig; 0 Enthaltungen
+- TOP 5.2: Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur (KDVZ) - Abstimmergebnis Mitglied:21-Stimmen Bürgermeister Claßen; 5-Stimmen Ratsherr Heinz-Josef Dickmeis; 1 EnthaltungAbstimmergebnis stellv. Mitglied:Einstimmig; 0 Enthaltungen
+- TOP 5.3: Freizeitzentrum Blausteinsee GmbH - Abstimmergebnis Mitglied:14-Stimmen Bürgermeister Ralf Claßen; 13-Stimmen Ratsherr Willi Dickmeis; 0 EnthaltungenAbstimmergebnis stellv. Mitglied:14-Stimmen Herrn GOVR Michael Ossenkopp; 12-Stimmen Ratsherr Markus Buder; 1 Enthaltung
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Bereitstellung überplanmäßiger Mittel im Haushaltsjahr 2020 für die Durchführung von Gutachterleistungen - Einstimmig; 0 Enthaltungen
+- TOP 6.2: Beiträge zu Verbänden - Wirtschaftsplan 2021 der Entwicklungsgesellschaft Indeland GmbH (EWiG) - Einstimmig; 0 Enthaltungen
+- TOP 6.3: Offene Ganztagsschule an der GGS Aldenhoven hier: Verbesserung der personellen Ausstattung - Einstimmig; 0 Enthaltungen
+- TOP 6.4: HOT Jugendtreff in Siersdorf - Investitionsprogramm Offene Kinder- und Jugendarbeit 2019/2020 im Kreis Düren" - Einstimmig; 0 Enthaltungen
+- TOP 7.: Anträge von Fraktionen
+- TOP 7.1: Antrag der SPD-Fraktion hier: Aussetzen der Hallennutzungsgebühr - Einstimmig; 0 Enthaltungen
+- TOP 7.2: Errichtung einer Boccia-Bahn im Römerpark - Einstimmig; 1 Enthaltung
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: Antrag der SPD-Fraktion auf Änderung der Vergnügungssteuersatzung - Einstimmig; 0 Enthaltungen
+- TOP 8.2: Abfallentsorgungssatzung - Einstimmig; 0 Enthaltungen
+- TOP 8.3: Gebührenkalkulation Abfallbeseitigung 2021 - Einstimmig; 0 Enthaltungen
+- TOP 8.4: Gebührenkalkulation Abwasserbeseitigung 2021 - Einstimmig; 0 Enthaltungen
+- TOP 8.5: Gebührenkalkulation Winterdienst 2021 - Einstimmig; 0 Enthaltungen
+- TOP 8.6: Gebührenkalkulation Friedhofswesen 2021 - Einstimmig; 0 Enthaltungen
+- TOP 9.: Wahl von zwei weiteren allgemeinen Vertretern/innen
+- TOP 10.: Einbeziehung eines Fußgängerweges - Verkauf an die Anlieger - Einstimmig; 0 Enthaltungen
+- TOP 11.: Verkauf einer gemeindlichen Fläche - Einstimmig; 0 Enthaltungen
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Schülerbeförderung in der Gemeinde Aldenhoven hier: Umstellung auf Beförderung durch den ÖPNV - zur Kenntnis genommen
+- TOP 12.2: Sachstandsbericht zum Förderprogramm "Digitalpakt Schulen", zum Sofortausstattungsprogramm "Endgeräte für bedürftige Schulkinder" und zum Förderprogramm "Endgeräte für Lehrkräfte" - zur Kenntnis genommen
+- TOP 12.2.1: Sachstandsbericht zum Förderprogramm "Digitalpakt Schulen", zum Sofortausstattungsprogramm "Endgeräte für bedürftige Schulkinder" und zum Förderprogramm "Endgeräte für Lehrkräfte" - zur Kenntnis genommen
+- TOP 12.3: Future Mobility Park - Interkommunale Gewerbegebiete campus aldenhoven und Aldsdorf Aldenhoven - zur Kenntnis genommen
+- TOP 12.4: Sachstandbericht zu aktuell laufenden Bauleitplanverfahren - zur Kenntnis genommen
+- TOP 12.5: Mobilstationen in der Gemeinde Aldenhoven - Zwischenstand - zur Kenntnis genommen
+- TOP 12.6: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Erwerb von zwei landwirtschaftlichen Parzellen - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 2.2: Digitalpakt "Schulen" - Sofortausstattungsprogramm "Endgeräte für bedürftige Schulkinder" hier: Auftragsvergabe und Bestellung der Endgeräte - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 2.3: Auftragsvergabe: Betoninstandsetzung am Brückenbauwerk M190 (Auf der Komm) - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 2.4: Auftragsvergabe: Sanierung Niederschlagsentwässerungsleitung L 136 - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 2.5: Engelsdorf - Beauftragung der zusätzlichen Straßenentwässerungsmaßnahmen im Zuge der Hochwasserschutzmaßnahmen Engelsdorf - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 2.6: Förderantrag Erhaltungsinvestitionen kommunale Verkehrsinfrastruktur Straßen und Radwege: Auftragsvergabe - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Beteiligung der RURENERGIE GmbH an dem Windpark Gereonsweiler - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 3.2: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Erwerb eines Arbeitsgerätes für den Winterdienst - 21-Ja-Stimmen; 6-Nein-Stimmen; 0 Enthaltungen
+- TOP 4.2: Vergabe von Aufträgen für Gutachterleistungen im Zusammenhang mit der 49. Änderung des Flächennutzungsplans - Business Park Alsdorf - nördliche Erweiterung - und der Aufstellung des Bebauungsplans 85 S - Business Park Alsdorf - nördliche Erweiterung - - Einstimmig; 0 Enthaltungen
+- TOP 4.3: Erneuerung Fahrbahndecke Kapuzinerstraße - Bereitstellung überplanmäßiger Haushaltsmittel - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Veräußerung von gemeindlichen Zwickelflächen - 11-Ja-Stimmen; 16-Nein-Stimmen; 0 Enthaltungen
+- TOP 5.2: Verkauf / Übertragung von gemeindlichen Flächen - Einstimmig; 0 Enthaltungen
+- TOP 5.3: Verkauf einer noch zu vermessenden Teilfläche der Straßenverkehrsfläche "Am Nonnenhof" – Tauschvertrag zwischen Hr. Schlun / Ehel. Göbbels / Gemeinde Aldenhoven - Einstimmig; 0 Enthaltungen
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Vereinbarung zur Benennung eines neuen Datenschutzbeauftragten - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 6.2: Abschluss einer Verwaltungsvereinbarung zwischen der Gemeinde Aldenhoven und der Stadt Alsdorf - Einstimmig; 0 Enthaltungen
+- TOP 6.3: Abschluss einer Nutzungsvereinbarung zwischen der Gemeinde Aldenhoven und dem SC Amicitia Schleiden - Einstimmig; 0 Enthaltungen
+- TOP 7.: Vermietungen, Verpachtungen
+- TOP 7.1: Verpachtung einer gemeindeeigenen Fläche - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 8.: Bebauung des Grundstücks Gemarkung Aldenhoven, Flur 3, Flurstück 540, Uhlandstraße 1-3 - zur Kenntnis genommen
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Wasserschaden Kindergarten Regenbogen - Einschaltung eines Fachanwalts für Bau- und Architektenrecht - zur Kenntnis genommen
+- TOP 9.2: Interkommunale Zusammenarbeit
+- TOP 10.: Verschiedenes
