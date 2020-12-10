@@ -1,0 +1,90 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2020-12-10T18:35:00+01:00
+- Ende: 2020-12-10T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2393
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2393
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00109281.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00109281.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00109281.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 3.1: Bekanntmachung von über- und außerplanmäßigen Mittelbereitstellungen vom 01.07.2020 bis zum 30.09.2020 - Kenntnisnahme
+- TOP 4: Halbjahresbericht über wichtige Gesellschafterbeschlüsse und Vorgänge in beteiligten Unternehmen 2020 1. Halbjahr - Kenntnisnahme
+- TOP 5: Quartalsbericht zum 30. September 2020 nach § 2 Abs. 2 NKF-CIG - Kenntnisnahme
+- TOP 6: Satzung der Stadtbetriebe Grevenbroich AöR 4. Änderungssatzung - einstimmig
+- TOP 7: Straßenbeleuchtungsvertrag zwischen der Stadt Grevenbroich und der GWG Grevenbroich GmbH - einstimmig
+- TOP 8: Beschaffung einer semistationären Anlage zur Geschwindigkeitsüberwachung - einstimmig bei
+- TOP 9: Programm der Volkshochschule für das 1. Halbjahr 2021 - einstimmig
+- TOP 10: Programm der Volkshochschule für das 1. Halbjahr 2021 / Teilbereich Integration - einstimmig
+- TOP 11: Programm der Jugendkunstschule für das 1. Halbjahr 2021 - einstimmig
+- TOP 12: Beitritt zum "Riga-Komitee" - einstimmig
+- TOP 13: Sicherung Einzelhandel - einstimmig
+- TOP 14: Besetzung der Ausschüsse
+- TOP 14.1: Pflichtausschüsse - einstimmig
+- TOP 14.2: Vorschlagsliste für die Wahl der Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2020 bis 2025 - einstimmig
+- TOP 15: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter
+- TOP 15.1: Delegiertenversammlung Erftverband - einstimmig
+- TOP 15.2: Bauverein Grevenbroich eG - einstimmig
+- TOP 15.3: SEG - einstimmig
+- TOP 15.4: GWD - einstimmig
+- TOP 15.5: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter - einstimmig
+- TOP 15.6: Partnerschaftsverein (Beirat) - einstimmig
+- TOP 16: Änderung der Hauptsatzung der Stadt Grevenbroich
+- TOP 16.1: Entscheidung über die Gewährung einer Aufwandsentschädigung oder eines Sitzungsgeldes für die Vorsitzenden der Ratsausschüsse - mehrheitlich bei
+- TOP 16.2: Änderung der Hauptsatzung der Stadt Grevenbroich - mehrheitlich bei
+- TOP 17: Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Grevenbroich
+- TOP 18: Behandlung des Jahresüberschusses 2018 - einstimmig
+- TOP 19: Tätigkeitsbericht der Gleichstellungsbeauftragten - Kenntnisnahme
+- TOP 20: Bestellung von Beauftragten nach § 27a GO NRW für die Interessen von Senioren und von Menschen mit Behinderung - einstimmig
+- TOP 21: Delegation der Befugnisse des Rates der Stadt Grevenbroich auf den Hauptausschuss (§ 60 Abs. 2 GO NRW) - einstimmig
+- TOP 22: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 22.1: Alternative Nutzungskonzepte für die Grevenbroicher Innenstadt entwickeln (Antrag Nr. 83/2020) - Kenntnisnahme
+- TOP 22.2: Beantwortung der Rückfragen Fraktion Mein Grevenbroich: Bekanntgabe der über- und außerplanmäßigen Mittelbereitstellungen vom 08.01.2019 bis 27.02.2020 - Kenntnisnahme
+- TOP 22.3: Beantwortung von Anträgen und Anfragen hier: Sammelbeantwortung - Kenntnisnahme
+- TOP 23: Schriftliche Anträge von Fraktionen und Ratsmitgliedern
+- TOP 23.1: Anträge der SPD-Fraktion
+- TOP 23.1.1: Ausschussumbesetzung und Besetzung von Drittgremien (Antrag Nr. 170/2020) - einstimmig
+- TOP 23.2: Anträge der CDU-Fraktion
+- TOP 23.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 23.3.1: Umbesetzungen (Antrag Nr. 169/2020) - einstimmig
+- TOP 23.4: Anträge der FDP-Fraktion
+- TOP 23.4.1: Eindämmung der Geschwindigkeitsüberschreitungen am Ortseingang Wevelinghoven Zehntstraße (Antrag Nr. 161/2020) - einstimmig
+- TOP 23.4.2: Erkenntnisse zum Absturz eines Rotorarmes des Windrad-Prototypen "Vertical Sky A 32" auf der Frimmersdorfer Höhe (Antrag Nr. 162/2020) - einstimmig
+- TOP 23.4.3: Smart Mobility von der Basis denken - Carsharing beim Neubau von Mehrfamilienhäusern fördern (Antrag Nr. 163/2020) - einstimmig
+- TOP 23.4.4: Evaluation und Weiterentwicklung der Ehrenamtskarte Grevenbroich (Antrag Nr. 164/2020) - einstimmig
+- TOP 23.4.5: Ratsarbeit transparent online erlebbar machen (Antrag Nr. 165/2020) - einstimmig
+- TOP 23.4.6: Klimarelisienz in Grevenbroich durch Dach- und Fassadenbegrünung stärken (Antrag-Nr. 166/2020) - einstimmig
+- TOP 23.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 23.5.1: Prüfauftrag und Ortstermin zur Verkehrssituation Von-Staufenberg-Straße (Antrag Nr. 174/2020) - einstimmig
+- TOP 23.6: Anträge der UWG-Fraktion
+- TOP 23.6.1: Querungshilfe (Fußgängerüberweg) auf der Oststraße in Wevelinghoven (Antrag Nr. 175/2020) - einstimmig
+- TOP 23.7: Anträge Fraktion-Team GV
+- TOP 23.7.1: Antrag auf Ausschussumbesetzung (Antrag Nr. 177/2020) - einstimmig
+- TOP 24: Gemeinschaftsanträge
+- TOP 24.1: Photovoltaikanlage auf städtischen Immobilien ermöglichen (Antrag Nr. 167/2020) - einstimmig
+- TOP 24.2: Aufbau eines lokalen Innenstadtmanagements (Antrag Nr. 171/2020) - einstimmig
+- TOP 24.3: Verkehrsentlastung für Kapellen (Antrag Nr. 172/2020) - einstimmig
+- TOP 24.4: Wohnen in Grevenbroich - bezahlbar und modern (Antrag Nr. 173/2020) - einstimmig
+- TOP 25: Schriftliche Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 25.1: Anfragen der SPD-Fraktion
+- TOP 25.2: Anfragen der CDU-Fraktion
+- TOP 25.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 25.4: Anfragen der FDP-Fraktion
+- TOP 25.4.1: Schallschutzplatten im Stadtgebiet (Anfrage Nr. 160/2020) - Kenntnisnahme
+- TOP 25.5: Mein Grevenbroich
+- TOP 25.6: Anfragen der UWG-Fraktion
+- TOP 25.6.1: Kosten der Sitzungswoche 26. bis 31.Oktober 2020 (Anfrage Nr. 158/2020) - Kenntnisnahme
+- TOP 25.6.2: Beantwortung der Anfrage Nr. 159/2020 der UWG-Fraktion - Kenntnisnahme
+- TOP 25.6.3: Erftbrücke Hemmerdener Weg in Wevelinghoven (Anfrage Nr. 176/2020)
+- TOP 25.7: Anfragen Fraktions-Team GV
+- TOP 26: Mitteilungen des Bürgermeisters
