@@ -1,0 +1,83 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2020-12-10T14:00:00+01:00
+- Ende: 2020-12-10T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19249
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19249
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00394369.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00394369.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00394369.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung von Verdienstplaketten
+- TOP 2: Aktuelle Informationen zur Corona-Pandemie
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 08.10.2020 (SI-RAT/05/2020) - einstimmig beschlossen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 5.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Von der Polizei befreite Hunde - schriftlich beantwortet
+- TOP 5.2: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: gewaltbereite bzw. rechtsradikale Demonstrationsteilnehmer - schriftlich beantwortet
+- TOP 5.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: gewalttätige Ausschreitungen am 05.12.2020 in der Altstadt - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Rennrad-Geschenk an Thomas Geisel - schriftlich beantwortet
+- TOP 6.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Gebärdensprache und Speicherung/Abruf von Ausschusssitzungen - schriftlich beantwortet
+- TOP 6.3: Anfrage der AfD-Ratsfraktion: Anti-Corona-Maßnahmen der Stadt: Chaos bei Maskenpflicht und Bußgeldern? - schriftlich beantwortet
+- TOP 6.4: Anfrage der AfD-Ratsfraktion: Corona in Düsseldorf: Wie schützt und stärkt die Stadt die Wirtschaft und Arbeitsplätze in Düsseldorf und die Düsseldorfer Gastronomie? - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion Die Linke: Hotelunterbringung von Wohnungslosen im Winter 2020/2021 - schriftlich beantwortet
+- TOP 6.6: Anfrage des Ratsherrn Lemmer: Internationale Organisation "Bürgermeister für den Frieden" - schriftlich beantwortet
+- TOP 6.7: Anfrage des Ratsherrn Lemmer: U 81, 1. Bauabschnitt - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Abschlussbericht zum Corona-Härtefallfonds - zur Kenntnis genommen
+- TOP 10: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Fortführung des Corona-Härtefallfonds Düsseldorf bis zum 31. Dezember 2020 - einstimmig beschlossen
+- TOP 11: Bericht nach § 2 des Gesetzes zur Isolierung der aus der COVID-19 Pandemie folgenden Belastungen - zur Kenntnis genommen
+- TOP 12: Verwaltungsrat der Stadtsparkasse Düsseldorf -Wahl des/der Vorsitzenden und der Mitglieder- - beschlossen
+- TOP 13: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes -Wahl von Mitgliedern- - einstimmig beschlossen
+- TOP 14: Aufsichtsrat der Jugendberufshilfe Düsseldorf gemeinnützige Gesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 15: Kommission nach § 32 b Luftverkehrsgesetz - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 16: Beirat der Bädergesellschaft Düsseldorf mbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 17: Verwaltungsrat der Chemisches und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper Anstalt des öffentlichen Rechts (CVUA-RRW) - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 18: Aufsichtsrat der Deutsche Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 19: Aufsichtsrat der Düsseldorfer Innovations- und Technologiezentrum GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 20: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 21: Flughafenbeirat - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 22: Beirat der Sana Kliniken Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 23: Wahl von Delegierten in die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V. - einstimmig beschlossen
+- TOP 24: RheinCargo GmbH & Co. KG: Bestellung von Arbeitnehmervertreter*innen in den Aufsichtsrat - einstimmig beschlossen
+- TOP 25: Mitgliederversammlung der Metropolregion Rheinland e.V. -Bestellung von Vertretungen für die Stadt- - einstimmig beschlossen
+- TOP 26: Jugendhilfeausschuss -Bestellung beratender Mitglieder- - einstimmig beschlossen
+- TOP 27: Bestellung von Ratsmitgliedern mit beratender Stimme in Ausschüsse - einstimmig beschlossen
+- TOP 28: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in Ratsausschüsse - einstimmig beschlossen
+- TOP 29: Bestätigung der stimmberechtigten Mitglieder der Fraktionen für den Behindertenrat - einstimmig beschlossen
+- TOP 30: Bestellung eines Prüfers sowie Abberufung einer Prüferin und eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 31: Einheitliche Besetzung der vom Rat gebildeten Kleinen Kommissionen - mehrheitlich beschlossen
+- TOP 32: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus - zur Kenntnis genommen
+- TOP 34: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 35: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: 61. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 36: Umsetzungsplanung Klimaschutz städtische Töchter Teil 2 (AWISTA, Industrieterrains Düsseldorf-Reisholz, Stadtsparkasse Düsseldorf, Städtische Wohnungsgesellschaft Düsseldorf) - zur Kenntnis genommen
+- TOP 37: Planungskonzept zur Neugestaltung des Heinrich-Heine-Platzes und des Vorplatzes Wilhelm-Marx-Haus aus dem 2. Workshopverfahren (Planungsworkshop) und das weitere Vorgehen - mehrheitlich beschlossen
+- TOP 37.1: Ergänzungsantrag der Ratsfraktionen BÜNDNIS 90/DIE GRÜNEN und CDU zur Vorlage OVA/103/2020 - abweichend beschlossen
+- TOP 37.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage OVA/103/2020 - mehrheitlich abgelehnt
+- TOP 37.3: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage OVA/103/2020: Kein Platz für Benko - Heinrich-Heine-Platz neu diskutieren - mehrheitlich abgelehnt
+- TOP 37.4: Änderungsantrag der SPD/Volt-Ratsfraktion zur Vorlage OVA/103/2020 - einstimmig beschlossen
+- TOP 38: Straßen- und Wegekonzept der Landeshauptstadt Düsseldorf für die Jahre 2021–2025 sowie Instandsetzungen der Verkehrsflächen für das Jahr 2021 - mehrheitlich beschlossen
+- TOP 39: Anträge
+- TOP 39.1: Antrag der Ratsfraktion Die Linke: Gesundheitsrisiken senken, auf Silvesterfeuerwerk verzichten - mehrheitlich abgelehnt
+- TOP 39.1.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zu Vorlage RAT/420/2020 - mehrheitlich beschlossen
+- TOP 39.1.2: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/420/2020 - verwiesen
+- TOP 39.2: Antrag der Ratsfraktion Die Linke: Kostenlose FFP2-Masken für Düsselpassinhaber:innen - mehrheitlich abgelehnt
+- TOP 39.2.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zu Vorlage RAT/421/2020 - mehrheitlich beschlossen
+- TOP 39.3: Antrag der Ratsfraktion Die Linke: Tempo 30 im gesamten Düsseldorfer Stadtgebiet einführen - verwiesen
+- TOP 39.3.1: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/422/2020 - verwiesen
+- TOP 39.4: Antrag der Ratsfraktion Die Linke: Corona-Härtefallfonds bis zum Ende der Pandemie aufrechterhalten - abweichend beschlossen
+- TOP 40: Einrichtung einer Kleinen Kommission Neubau des Technischen Verwaltungsgebäudes (TVG) - einstimmig beschlossen
+- TOP 41: Einrichtung einer Kleinen Kommission Radverkehr - abweichend beschlossen
+- TOP 42: Geschäftsordnung Nachhaltigkeit - Änderung § 4 Mitgliedschaft in der Kleinen Kommission für nachhaltige Entwicklung - einstimmig beschlossen
+- TOP 43: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - Ersatzwahl - - einstimmig beschlossen
+- TOP 44: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - Ersatzwahl - - einstimmig beschlossen
