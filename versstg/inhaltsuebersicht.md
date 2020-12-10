@@ -13,5 +13,6 @@
 | Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung | § 10 |
 | Mitteilungspflicht | § 10a |
 | Anwendungsvorschriften | § 10b |
+| Geschäftstätigkeit von Lloyd´s | § 10c |
 | Ermächtigungen | § 11 |
 | Übergangsvorschrift | § 12 |

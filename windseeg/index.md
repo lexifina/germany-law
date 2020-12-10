@@ -23,6 +23,7 @@
 
 - [§ 9 Ziel der Voruntersuchung von Flächen](0009.md)
 - [§ 10 Gegenstand und Umfang der Voruntersuchung von Flächen](0010.md)
+- [§ 10a Erstattung von notwendigen Kosten für Untersuchungen](0010a.md)
 - [§ 11 Zuständigkeit für die Voruntersuchung von Flächen](0011.md)
 - [§ 12 Verfahren zur Voruntersuchung von Flächen](0012.md)
 - [§ 13 Errichtung und Betrieb von Offshore-Anbindungsleitungen](0013.md)
@@ -45,6 +46,7 @@
 - [§ 21 Sicherheit](0021.md)
 - [§ 22 Höchstwert](0022.md)
 - [§ 23 Zuschlagsverfahren, anzulegender Wert](0023.md)
+- [§ 23a Evaluierung des Losverfahrens](0023a.md)
 - [§ 24 Rechtsfolgen des Zuschlags](0024.md)
 - [§ 25 Erstattung von Sicherheiten an Bieter ohne Zuschlag](0025.md)
 
@@ -72,7 +74,7 @@
 - [§ 42 Ausübung des Eintrittsrechts](0042.md)
 - [§ 43 Rechtsfolgen des Eintritts](0043.md)
 
-## Teil 4 Zulassung, Errichtung und Betrieb von Windenergieanlagen auf See, die an das Netz angeschlossen werden, sowie Anlagen zur Übertragung des Stroms
+## Teil 4 Zulassung, Errichtung und Betrieb von Windenergieanlagen auf See sowie Anlagen zur Übertragung des Stroms
 
 - [§ 44 Geltungsbereich von Teil 4](0044.md)
 
@@ -88,6 +90,7 @@
 - [§ 52 Veränderungssperre](0052.md)
 - [§ 53 Sicherheitszonen](0053.md)
 - [§ 54 Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen](0054.md)
+- [§ 54a Rechtsbehelfe](0054a.md)
 
 ### Abschnitt 2 Errichtung, Betrieb und Beseitigung von Einrichtungen
 
@@ -106,10 +109,15 @@
 - [§ 61 Ausnahme von den Sanktionen bei Nichteinhaltung der Realisierungsfristen](0061.md)
 - [§ 62 Rückgabe von Zuschlägen und Planfeststellungsbeschlüssen](0062.md)
 - [§ 63 Übergang von Zuschlägen und Planfeststellungsbeschlüssen](0063.md)
+- [§ 63a Rechtsfolgen der Änderung oder Neuerteilung von Planfeststellungsbeschlüssen oder Plangenehmigungen](0063a.md)
 - [§ 64 Rechtsfolgen der Unwirksamkeit von Zuschlägen und Planfeststellungsbeschlüssen](0064.md)
 - [§ 65 Erstattung von Sicherheiten bei Realisierung oder Erfüllung von Pönalen](0065.md)
 - [§ 66 Nachnutzung; Verpflichtungserklärung](0066.md)
 - [§ 67 Nutzung von Unterlagen](0067.md)
+
+### Abschnitt 3 Sonstige Energiegewinnung
+
+- [§ 67a Ausschreibung der Bereiche zur sonstigen Energiegewinnung](0067a.md)
 
 ## Teil 5 Besondere Bestimmungen für Pilotwindenergieanlagen auf See
 

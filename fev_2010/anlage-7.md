@@ -209,7 +209,7 @@
   Krafträder ohne Beiwagen
   a) Motorleistung mindestens 20 kW, jedoch nicht mehr als 35 kW,
   b) Verhältnis Leistung/Leermasse von nicht mehr als 0,2 kW/kg,
-  c) mit Verbrennungsmotor Hubraum mindestens 400 cm³, wobei eine Unterschreitung des Mindesthubraums um 5 cm³ zulässig ist und
+  c) mit Verbrennungsmotor Hubraum mindestens 250 cm³,
   d) mit Elektromotor: Verhältnis Leistung/Leermasse mindestens 0,15 kW/kg.
 2.2.3 Für Klasse A1:
   Krafträder der Klasse A1 ohne Beiwagen

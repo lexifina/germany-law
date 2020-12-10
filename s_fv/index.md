@@ -32,4 +32,3 @@
 ### Dritter Abschnitt Zuständigkeits- und Schlussvorschriften
 
 - [§ 12 Zuständigkeit](0012.md)
-- [§ 13 Außerkrafttreten](0013.md)
