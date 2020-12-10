@@ -1,4 +1,4 @@
-# Gesetz zur Durchführung des Zensus im Jahr 2021
+# Gesetz zur Durchführung des Zensus im Jahr 2022
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -71,4 +71,5 @@
 
 - [§ 35 Kosten der Übermittlungen an das Statistische Bundesamt](0035.md)
 - [§ 36 Finanzzuweisung](0036.md)
+- [§ 36a Verordnungsermächtigung](0036a.md)
 - [§ 37 Inkrafttreten](0037.md)

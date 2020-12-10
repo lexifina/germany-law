@@ -1,4 +1,4 @@
-# Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2021
+# Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2022
 
 
 ## Abschnitt 1 Anwendungsbereich, Aufgaben des Statistischen Bundesamtes
@@ -27,4 +27,5 @@
 - [§ 14 Datenübermittlungen](0014.md)
 - [§ 15 Weitere Verwendung von Angaben aus dem Steuerungsregister](0015.md)
 - [§ 16 Löschung](0016.md)
+- [§ 16a Verordnungsermächtigung](0016a.md)
 - [§ 17 Inkrafttreten](0017.md)
