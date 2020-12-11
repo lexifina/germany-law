@@ -1,0 +1,64 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2020-12-11T17:30:00+01:00
+- Ende: 2020-12-11T19:45:00+01:00
+- Ort: BildungsCampus Herford, Mary-Somervill-Boulevard 4, 32049 Herford, KongressCentrum, Auditorium, Mary-Somerville-Boulevard 4 in 32049 Herford
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSginEI00ncofz5PJimqYJw
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4041
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZ60hJHg2Bzqsen3KbrNG50krh-lIxLg2eLxspd6sFu/Einladung_Rat_11.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbJvhThQe4ACgTcY6I1JmAflHQI48FpC-8KjlFPsUjn0/Oeffentliche_Niederschrift_Rat_11.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 06.11.2020
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Beschlussfassung über die Gültigkeit der Wahl des Bürgermeisters, des Rates und des Integrationsrates der Hansestadt Herford am 13. September 2020 nach Maßgabe des § 40 Abs. 1 KWahlG bzw. § 16 der Wahlordnung für die Wahl der direkt in den Integrationsrat zu wählenden Mitglieder der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.4: Änderungen der Gremienbesetzungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.5: Erweiterung Struktur städtischer Ausschüsse um beratende Mitglieder als VertreterInnen der Beiräte und des Integrationsrates - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.6: Änderung des Zuständigkeitskatalogs für die städtischen Fachausschüsse - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.7: Entsendung weiterer beratender Mitglieder in städtische Gremien - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.7a: Teilnahme von Mitgliedern des Integrationsrates an Sitzungen der städtischen Ausschüsse/ Gremien - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.7b: Benennung beratender Mitglieder des Schulausschusses: Nachbesetzung der Vertretungen für die Sekundarstufe I-Schulen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.8: Änderung der Geschäftsordnung des Rates der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.9: Anpassung der Fraktionszuwendungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.10: Besetzung von Beigeordnetenstellen; hier: Stellenausschreibungen - Mit 14 Gegenstimmen und einer Enthaltung wird mehrheitlich folgender Beschluss gefasst: 
+- TOP A.11: Entsendung eines evangelischen sachkundigen Verwaltungsmitarbeiters in das Kuratorium der Ev. Diakoniestiftung Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.12: Antrag der Fraktion DIE LINKE: Bericht über die Ausführung der Beschlüsse der letzten Sitzungen - Mit 26 Gegenstimmen und vier Enthaltungen wird der Antrag abgelehnt.
+- TOP A.13: Steuerung von Drittorganisationen:
+- TOP A.13a: Pro Herford GmbH: a) Betrauung der Pro Herford GmbH mit Dienstleistungen von allgemeinem wirtschaftlichen Interesse (DAWI) b) Änderung des Gesellschaftsvertrags - Mit vier Gegenstimmen und einer Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.13b: Pro Herford GmbH: Wirtschaftsplan 2021 Mittelfristplan 2022-2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.13c: HVV- Konzern: Wirtschaftspläne 2021 und Mittelfristpläne des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.13d: Bericht aus dem Beteiligungscontrolling: a) Jahresprognose 2020 der Beteiligungsunternehmen zum 30.09.2020 b) Corona- Auswirkungen im HVV- Konzern
+- TOP A.13e: Überplanmäßige Aufwendungen / Auszahlungen 2021 für den Betrieb des Bildungscampus - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.13f: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen Lippe GmbH: Wirtschaftsplan 2021 und Mittelfristplan 2022-2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.14: 3. Situationsbericht zur Haushaltswirtschaft 2020
+- TOP A.15: Haushaltsangelegenheiten hier: Überplanmäßige Mittelbereitstellung für die Erneuerung des Spielschiffes einschl. Fallschutz und Holzdeck auf dem Linnenbauerplatz - Mit zwei Gegenstimmen und vier Enthaltungen wird folgender Beschluss gefasst: 
+- TOP zu A.15: Antrag der Fraktion "Bürger für Herford": zu TOP A.15 "Überplanmäßige Mittelbereitstellung für die Erneuerung des Spielschiffes einschl. Fallschutz und Holzdeck auf dem Linnenbauerplatz - Nach eingehender Diskussion zieht die Fraktion „Bürger für Herford“ ihren Antrag zurück.Protokollnotiz:Stellungnahme der Verwaltung ist dem Protokoll als Anlage beigefügt.
+- TOP A.16: überplanmäßige Finanzierung der Containerkosten am Ravensberger Gymnasium durch den städtischen Haushalt im Jahr 2019 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.17: IAB Immobilien- und Abwasser-Betrieb Herford: Feststellung des Jahresabschlusses 2019, Ergebnisverwendung und Entlastung des Betriebsausschusses - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.18: Änderung der Entwässerungsgebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.19: IAB Immobilien- und Abwasser-Betrieb Herford: geänderter Wirtschaftsplan 2020 Wirtschaftsplan 2021 Mittelfristplanung 2022-2025
+- TOP zu A.19: IAB Immobilien- und Abwasser-Betrieb Herford: geänderter Wirtschaftsplan 2020 Wirtschaftsplan 2021 Mittelfristplanung 2022-2025 - Einstimmig wird die Ergänzungsvorlage zur Kenntnis genommen.
+- TOP A.20: Unterstützende Maßnahmen gegen die negativen Auswirkungen der Corona-Pandemie - Umverteilung restlicher Fördermittel zugunsten des Bereichs "Sport" - Mit zwei Gegenstimmen und acht Enthaltungen wird folgender Beschluss mehrheitlich gefasst: 
+- TOP A.21: Neue Medien / Digitalisierung; hier: 1:1-Ausstattung mit mobilen Endgeräten an den weiterführenden Schulen der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.22: Berichterstattung Hundesteuerbefreiung für Tierheimhunde - Einstimmig wird die Vorlage zur Kenntnis genommen. 
+- TOP A.23: Gebührenhaushalt Straßenreinigung 10.Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.24: Gebührenhaushalt Krankentransport und Notfallrettung: Neufassung der Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.25: Gebührenhaushalt Abfallentsorgung Gebührenbedarfsberechnung für das Jahr 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.26: Änderung der Vergabeordnung der Hansestadt Herford - Mit drei Gegenstimmen und neun Enthaltungen wird folgender Beschluss gefasst: 
+- TOP A.27: Sportentwicklungsplanung für die Hansestadt Herford - Einstimmig mit zwei Enthaltungen wird folgender Beschluss gefasst: 
+- TOP A.28: Neubau Sporthalle Stiftberg - Einstimmig mit zwei Enthaltungen wird folgender Beschluss gefasst: 
+- TOP zu A.28: Ergänzungsantrag der Fraktion Bündnis‘90/DIE Grünen: Neubau Sporthalle Stiftberg - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Bebauungsplan Nr. 12.38 "Vlothoer Straße-Nord/ Hammersmith Kaserne, Teil 2" hier: Anordnung der Veränderungssperre Nr. 49 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.30: Bebauungsplan Nr. 4.45 "Münsterkirchplatz" Änderung Nr. 1.17 hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.31: Erarbeitung eines neuen ISEK Innenstadt II - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.32: Regionale 2022 Projekt "Die Werre, ein Fluss der OWL verbindet" hier: Beitritt zu der neu zu gründenden Interkommunale Kooperation Werre - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.33: Termine der Gremiensitzungen für das Jahr 2021 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.34: Bestellung Interimskämmerer; Interimsdezernatszuschnitt - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.35: Dringlichkeitsantrag der Fraktion DIE LINKE: Abbrennen von pyrotechnischen Gegenständen - Der Dringlichkeitsantrag wird daraufhin von der Fraktion DIE LINKE zurückgezogen. 
+- TOP A.36: Mitteilungen
