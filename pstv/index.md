@@ -100,7 +100,6 @@
 ### Abschnitt 3 Mitteilungen
 
 - [§ 56 Mitteilungen an das Standesamt](0056.md)
-- [§ 57 Mitteilungen bei Beurkundung im Geburtenregister](0057.md)
 - [§ 58 Mitteilungen bei Beurkundung im Eheregister](0058.md)
 - [§ 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister](0059.md)
 - [§ 60 Mitteilungen bei Beurkundung im Sterberegister](0060.md)

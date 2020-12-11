@@ -154,5 +154,5 @@
 - [Anlage IV (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. März 2020](anlage-iv.md)
 - [Anlage V (zu § 39 Absatz 1 Satz 1) Gültig ab 1. März 2020](anlage-v.md)
 - [Anlage VI (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. März 2020](anlage-vi.md)
-- [Anlage VIII (zu § 61)Gültig ab 1. März 2020](anlage-viii.md)
+- [Anlage VIII (zu § 61)Gültig ab 1. August 2020](anlage-viii.md)
 - [Anlage IX (zu den Anlagen I und III) Gültig ab 1. März 2020](anlage-ix.md)

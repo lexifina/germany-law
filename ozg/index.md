@@ -8,3 +8,4 @@
 - [§ 6 Kommunikationsstandards](0006.md)
 - [§ 7 Für die Nutzerkonten zuständige Stelle](0007.md)
 - [§ 8 Rechtsgrundlagen der Datenverarbeitung](0008.md)
+- [§ 9 Bekanntgabe des Verwaltungsaktes](0009.md)
