@@ -251,6 +251,7 @@
 - [§ 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 12 Absatz 1 der Verordnung (EG) Nr. 883/2004 und bei Ausnahmevereinbarungen nach Artikel 16 der Verordnung (EG) Nr. 883/2004](0106.md)
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
 - [§ 108 Elektronische Übermittlung von sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
+- [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
 - [(XXXX) §§ 109 und 110 (weggefallen)](xxxx-109-und-110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
@@ -277,6 +278,7 @@
 - [§ 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
 - [§ 123 Übergangsregelung zur Struktur der Einrichtungen](0123.md)
+- [§ 124 Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0124.md)
 - [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
