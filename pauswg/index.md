@@ -26,7 +26,7 @@
 
 - [§ 14 Erhebung und Verwendung personenbezogener Daten](0014.md)
 - [§ 15 Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden](0015.md)
-- [§ 16 Verwendung von Seriennummern, Sperrkennwörtern und Sperrmerkmalen durch zur Identitätsfeststellung berechtigte Behörden](0016.md)
+- [§ 16 (weggefallen)](0016.md)
 - [§ 17 Identitätsüberprüfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identitätsfeststellung berechtigte Behörden](0017.md)
 - [§ 18 Elektronischer Identitätsnachweis](0018.md)
 - [§ 18a Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden](0018a.md)

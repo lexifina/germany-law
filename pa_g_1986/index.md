@@ -9,7 +9,7 @@
 - [§ 4 Paßmuster](0004.md)
 - [§ 5 Gültigkeitsdauer](0005.md)
 - [§ 6 Ausstellung eines Passes](0006.md)
-- [§ 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung](0006a.md)
+- [§ 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung](0006a.md)
 - [§ 7 Paßversagung](0007.md)
 - [§ 8 Paßentziehung](0008.md)
 - [§ 9 Speicherung von paßrechtlichen Maßnahmen](0009.md)
