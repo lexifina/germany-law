@@ -51,7 +51,7 @@ werden
 - [§ 18g Datenübermittlung an die Träger der Deutschen Rentenversicherung](0018g.md)
 - [§ 19 Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden](0019.md)
 - [§ 20 Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst](0020.md)
-- [§ 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren](0021.md)
+- [§ 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren](0021.md)
 - [§ 21a Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens](0021a.md)
 - [§ 22 Abruf im automatisierten Verfahren](0022.md)
 - [§ 23 Statistische Aufbereitung der Daten](0023.md)
