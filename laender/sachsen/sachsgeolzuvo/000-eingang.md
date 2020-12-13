@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Übertragung von Zuständigkeiten nach dem Geologiedatengesetz (Geologiedaten-Zuständigkeitsverordnung – SächsGeolZuVO)
+Vom 20. November 2020
+Auf Grund des § 16 Absatz 1 Satz 2 Nummer 1 und 2 des Sächsischen Verwaltungsorganisationsgesetzes vom 25. November 2003 (SächsGVBl. S. 899) verordnen das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft und das Staatsministerium für Wirtschaft, Arbeit und Verkehr mit Zustimmung der Staatsregierung:
