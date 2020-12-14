@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2020-12-14T17:20:00+01:00
+- Ende: 2020-12-14T20:42:00+01:00
+- Ort: Gymnasium Rodenkirchen Sürther Str. 55 50996 Köln - Aula
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21813
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/21813
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Durchführung einer Aktuellen Stunde: Verzögerter Neubau der Grundschule Gaedestraße in Köln-Marienburg und geplante Sanierung der Europaschule und Köln-Raderthal, Gemeinsamer Antrag der Fraktion Die Grünen und der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: TOP A.1 Stellungnahme der Europaschule vom 10.12.2020
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die Sankt-Nikolaus-Schule - Gemeinschaftsgrundschule Bernkasteler Straße 9, 50969 Köln
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Übergangs-Bezirksrathaus: Getrennte Unterbringung von Politik und Verwaltung - zur Anfrage der Freien Wähler Köln, AN/1062/2020 - Kenntnis genommen
+- TOP 7.1.2: Sachstand Verkehrsversuch Bayenthal/Marienburg - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage gemäß § 4 der Geschäftsordnung des Rates der BV 2 vom 09.12.2019 - Kenntnis genommen
+- TOP 7.1.4: Kölnstraße in Sürth: Sicherheit für zu Fuß Gehende und Radfahrende - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baugebiet Rondorf Nord-West: Entflechtungsstraße, Planungsstand, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Baugebiet Rondorf Nord-West: Entflechtungsstraße, Planungsstand - Kenntnis genommen
+- TOP 7.2.2: Ströer Campus in Sürth: geplante Erweiterung, Verschattungsaspekt, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Wohnbebauung in Köln-Weiß auf dem Grundstück Auf der Ruhr Nr. 105, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Sachstand beim Ausbau der Infrastruktur für Elektromobilität, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Offene Anfragen
+- TOP 7.3.1: Verkehrsregelung am Nibelungenweg in Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.1.1: Verkehrsregelung am Nibelungenweg in Rodenkirchen - Kenntnis genommen
+- TOP 7.3.2: Durchgangsverkehrs und Aufenthaltsqualität auf Straßen in Bayenthal, Anfrage der CDU-Fraktion (AN/0935/2019) aus der Sitzung am 01.07.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.3: Bahnhof Sürth: Vorplatz, Planung und Umsetzung, - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.4: Erhaltenswerte Bäume an Rändern von B-Plan-Gebieten: Offene gemeinsame Anfrage der Fraktion Die Grünen und der FDP-Fraktion (AN/1337/2019) aus der Sitzung vom 11.11.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.5: Emil-Hoffmann-Straße: Bushaltestelle, Sicherheit, Offene Anfrage der Fraktion Die Grünen (AN/0279/2020) aus der Sitzung am 23.03.2020 bzw 11.05.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.6: Top 2 der nicht realisierten ÖPNV-Verbindungen im Stadtbezirk 2, Offene Anfrage der CDU-Fraktion (AN/0427/2020) aus der Sitzung vom 23.03.2020 bzw 11.05.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7: Querung des Heinrich-Lübke-Ufers unter der Rodenkirchener Brücke, Offene Anfrage der CDU-Fraktion (AN/0692/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.8: Erinnerung an Anfrage AN/0970/2016 Wasservögel am Kalscheurer Weiher; Offene Anfrage der CDU-Fraktion (AN/0794/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.9: Öffentliche Erörterung zur Ansiedlung der Fa. Theo Steil GmbH in Godorf, Offene Anfrage der CDU-Fraktion (AN/0792/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrssituation Meschenich: Planung und Stand Umgehungsstraße, Durchfahrtsverbot LKW, Gemeinsamer Antrag der Fraktion Die Grünen und der SPD-Fraktion - Sache ist erledigt
+- TOP 8.1.1.1: Stellungnahme von Straßen NRW - Kenntnis genommen
+- TOP 8.1.1.2: TOP 8.1.1 (Verkehrssituation Meschenich): Gemeinsamer Ersetzungsantrag - geändert beschlossen
+- TOP 8.1.2: Entflechtungsstraße Rondorf Nordwest, Antrag der CDU-Fraktion - endgültig abgelehnt
+- TOP 8.1.3: Darstellung Örtlichkeiten für gefahrträchtige Situationen durch verbotenes behinderndes Parken von PKW, Antrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.4: Schaffung von mehr Fahrradstellplätzen am Sürther Bahnhof, Gemeinsamer Antrag der Fraktion Die Grünen und der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.5: Kirmesplatz Meschenich, Antrag der CDU-Fraktion - Sache ist erledigt
+- TOP 8.1.5.1: Ersetzungsantrag zu Antrag AN/1388/2020 - ungeändert beschlossen
+- TOP 8.1.6: Aufwertung des Kreuzungsbereiches Am Treidelweg / Uferstraße / Weißer Leinpfad in Köln-Weiß, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.7: Versorgungssituation mit Grundschulplätzen und Gewährleistung wohnortnaher Beschulung, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.8: Aufstellung von Sitzbänken in der Sibille-Hartmann-Straße und der Bremsstraße in Köln-Zollstock, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.9: Lüftungsanlagen in Klassenzimmern, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.9.1: Gemeinsame Stellungnahme des Gesundheitsamtes und der Feuerwehr der Stadt Köln - Kenntnis genommen
+- TOP 8.1.10: Einrichtung von mind. drei bis fünf KVB-Leihradstationen in jedem Stadtteil des Bezirkes außerhalb der Flex-Zone, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: EEG-Förderung: weitere Förderung bei Auslaufen zum 31.12.2020, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.2.2: Störfälle bei Shell, Antrag der CDU-Fraktion - - ungeändert beschlossen
+- TOP 8.2.3: Beschilderung der Maskenpflichtzonen im öffentlichen Raum, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Parkstadt Süd, Begleitgremium - ungeändert beschlossen
+- TOP 9.1.2: Mitgliederwahl Beirat Sperrbezirk - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss für die Sanierung der südlichen Nebenanlagen und den Umbau der Bushaltestelle auf dem Raderberggürtel zwischen Brühler Straße und Mertener Straße in Köln Raderthal - geändert beschlossen
+- TOP 9.1.3.1: Änderungsantrag zu Top 9.1.3 - Baubeschluss für die Sanierung der Nebenanlagen … auf dem Raderberggürtel … in Köln Raderthal (3071/2020) - endgültig zurückgezogen
+- TOP 9.1.4: Neugestaltung Spielplatz Alte Kölnstraße in Köln-Meschenich - ungeändert beschlossen
+- TOP 9.1.5: Zollstocker Weg entlang des Kalscheurer Weihers - geändert beschlossen
+- TOP 9.1.6: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 70390/02 Arbeitstitel: Auenviertel in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.2: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sauberkeit im Umfeld des Konrad-Adenauer-Tierheims; Mitteilung zum Beschluss der Bezirksvertretung Rodenkirchen AN/0810/2020 - Kenntnis genommen
+- TOP 10.2.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 10.2.3: Betreff: Offenlage gemäß § 3 Abs. 2 BauGB zur 218. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen, Arbeitstitel: Mertener Straße in Köln-Marienburg - Kenntnis genommen
+- TOP 10.2.4: Erneute Offenlage des Bebauungsplan-Entwurfes Nr. 70390/02 gemäß § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB - Kenntnis genommen
+- TOP 10.2.5: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 10.2.6: Ortsumgehung Köln-Meschenich - Kenntnis genommen
+- TOP 10.2.7: Erneute Offenlage des Bebauungsplan-Entwurfes Nr. 70390/02 gemäß § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB Arbeitstitel: "Auenviertel" in Köln-Rodenkirchen - Kenntnis genommen
+- TOP 10.2.8: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.9: Änderungen zum Fahrplanwechsel 2020 - Kenntnis genommen
