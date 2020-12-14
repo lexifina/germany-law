@@ -1,0 +1,21 @@
+# Bebauungsplan BÄDLEWEG - Aufstellungsbeschluss - Beschleunigtes Verfahren nach § 13a Baugesetzbuch (BauGB) - Planungsziele
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 277/2020 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-12-14
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdVl_Tq4nL49zUmZ_Td7jmg
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3424
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan BÄDLEWEG
+- Aufstellungsbeschluss
+- Beschleunigtes Verfahren nach § 13a Baugesetzbuch (BauGB)
+- Planungsziele) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV8uAUxmfRCqT1XGZyaDA1bD6zUYaD2hZ_WR754gC7Pq/Beschlussvorlage_277-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Planungsziele) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBOF-YLew1sPLgCCBQtoliP_yhoOYww1cU8kW6Fi4j5/-_Planungsziele.pdf
+- Anlage: Beschlussvorlage (- Geltungsbereich) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVV10B6_1mfIjJMrTQ_dIyxDjjPw6BGyComfjY8czfns/-_Geltungsbereich.pdf
+- Anlage: Beschlussvorlage (- Lageplan Bauvorhaben) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQAyLp6oS3Fw-S321GzjNQeflqtpBrWBlLC2O-QcrrSy/-_Lageplan_Bauvorhaben.pdf
+- Anlage: Beschlussvorlage (- Präsentation zum Bauvorhaben vom 7.10.2020) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqmjbjEddH8O1FxUEbhfOWNO3MMtaxJKxZSvCECcX5l/-_Praesentation_zum_Bauvorhaben_vom_7.10.2020.pdf
+- Anlage: Beschlussvorlage (2020-12-02_TA_Anlage 0) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXsfiItNZVWos3ZcdG6Hxs2J92JIRx3B1wjwQ9EsSJw9/2020-12-02_TA_Anlage_0.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2359 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2362 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-31
