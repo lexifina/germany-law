@@ -1,0 +1,59 @@
+# Finanzausschuss (1. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-12-14T17:00:00+01:00
+- Ende: 2020-12-14T18:18:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZagn8R0E1m8bDEJouu_-qIU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5911
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVcxyOpdqbELKPSQmUWQWx4qSOlP1MpGdC6KbBWO4_5s/Bekanntmachung_Finanzausschuss_14.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqVEqEANGPmesl2yio_k1FbIJ9DeQfJaOUpazieTIsm/Oeffentliche_Niederschrift_Finanzausschuss_14.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Bestellung einer Schriftführerin/eines Schriftführers für den Finanzausschuss
+- TOP 4.: Einführung und Verpflichtung von Ausschussmitgliedern - mündlicher Bericht -
+- TOP 5.: Protokoll über die 45. Sitzung des Finanzausschusses am 10.06.2020
+- TOP 6.: Protokoll über die 46. Sitzung des Finanzausschusses am 24.09.2020
+- TOP 7.: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 8.: Masterplanung Berufsfeuerwehr, Festlegung des weiteren Vorgehens auf Grundlage der Kostenschätzung zum 1. Teilprojekt Feuer- und Rettungswache II, Brunnenstraße
+- TOP 9.: Gebührenbedarfsberechnung 2021
+- TOP 10.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 11.: II. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 12.: IV. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 13.: VI. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 14.: II. Änderungssatzung der Friedhofssatzung
+- TOP 14.1: II. Änderungssatzung der Friedhofssatzung
+- TOP 15.: Neufassung Friedhofsgebührensatzung
+- TOP 16.: Wirtschaftsplan 2021 der Technischen Betriebe Solingen
+- TOP 17.: VI. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 18.: Wirtschaftsplan 2021 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 19.: Über- und außerplanmäßige Aufwendungen und Auszahlungen 01.09.2020 - 10.11.2020
+- TOP 20.: Überplanmäßige Aufwendungen und Auszahlungen gemäß § 83 GO NRW im Bereich des zentralen IT-Budgets
+- TOP 21.: Überplanmäßige Aufwendungen gem. § 83 GO NRW im Teilplan 11.10 Personal und Organisation
+- TOP 22.: Zustimmung zu einer investiven außerplanmäßigen Auszahlung gemäß § 83 GO NRW Straßenbauvorhaben „Rechtsabbiegespur Frankfurter Damm in die Viehbachtalstraße L141n“
+- TOP 23.: 3. Quartalsbericht
+- TOP 24.: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 25.: Modellrechnung zum Gemeindefinanzierungsgesetz 2021
+- TOP 26.: Ausgleich pandemiebedingter Belastungen des Jahres 2020 für die städtischen Gesellschaften
+- TOP 27.: Ausgestaltung abgabenbezogener Liquiditätshilfen der Städte und Gemeinden an Unternehmen zur Bewältigung der Auswirkungen des Coronavirus
+- TOP 28.: Verschiedenes
+- TOP 28.1: Mitteilungen der Verwaltung
+- TOP 28.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 46. Sitzung des Finanzausschusses am 24.09.2020
+- TOP 4.: Konzessionierungsverfahren Strom der Klingenstadt Solingen ohne die Stadtteile Solingen-Burg und Solingen-Höhrath
+- TOP 5.: Konzessionierungsverfahren Gas für die Klingenstadt Solingen ohne die Stadtteile Solingen-Burg und Solingen-Höhrath
+- TOP 6.: Verkauf eines städtischen Grundstücks
+- TOP 7.: Ankauf eines Grundstücks
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Anfragen an die Verwaltung
