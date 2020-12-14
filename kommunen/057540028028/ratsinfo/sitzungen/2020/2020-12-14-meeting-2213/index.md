@@ -1,0 +1,53 @@
+# Rat der Stadt Rheda-Wiedenbrück (3. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2020-12-14T17:00:00+01:00
+- Ende: 2020-12-14T19:17:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWQtyljuxHphybCBa1iM_Mg
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2213
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYaKJhlx0PRgu3WogJfk21KOIBNLuNpgHJGqKnRycs8x/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_14.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJuiktmXpCC0jqAmjwlxTaJEoENiSgFaoWbZicP91q1/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_14.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Benennung eines sachverständigen Bürgers nach dem Denkmalschutzgesetz in den Ausschuss für Bauen und Stadtentwicklung - Einstimmig
+- TOP 4.1: Fraktionsgeschäftsführungen - Einstimmig
+- TOP 5: Antrag der FDP-Fraktion; Graffiti-Wand für Rheda-Wiedenbrück - Einstimmig
+- TOP 6: Antrag der FWG-Fraktion vom 16.11.2020 Optimierung des Hygienekonzeptes für Sitzungen des Rates und seiner Ausschüsse - 28 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 7: Antrag der FWG-Fraktion Bauleitverfahren Kolpingstraße
+- TOP 8: Antrag der SPD-Fraktion Fragenkatalog zum Bebauungsplan Kolpingstraße
+- TOP 9: Antrag der FDP-Fraktion vom 26.11.2020 zur Änderung der Geschäftsordnung des Rates - 26 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 10: Bürgerantrag Move Rheda: Wohnraum statt Einkaufszentrum
+- TOP 11: 13. Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse - 28 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 12: 1. Gültigkeit der Wahl zum Bürgermeister der Stadt Rheda-Wiedenbrück am 13.09.2020 2. Gültigkeit der Wahl zur Vertretung der Stadt Rheda-Wiedenbrück am 13.09.2020 3. Gültigkeit der Wahl des Integrationsrates am 13.09.2020 - Einstimmig
+- TOP 13: Gesamtabschluss 2018 – Einbringung des Entwurfes gem. § 116 GO NRW i. V. m. § 95 Abs. 5 GO NRW inkl. der Entwürfe für die Jahre 2012 bis 2017 - Einstimmig
+- TOP 14: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2019, Entlastung der Betriebsleitung sowie des Betriebsausschusses; hier: Bericht der Dr. Heilmaier & Partner GmbH - Einstimmig
+- TOP 15: Finanzcontrolling - Quartalsbericht III/2020 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 16: Wirtschaftsplan 2021 des Betriebes Bauhof - Einstimmig
+- TOP 17: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2021 - 28 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 18: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 19: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2021 - Kenntnisnahme
+- TOP 19.1: Herstellung des Benehmens zum Landesförderprogramm NRW "Moderne Sportstätten 2022" - Einstimmig
+- TOP 20: Bebauungsplan Nr. 400 "Gewerbegebiet Kiefernweg" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit - 18 Ja-Stimme(n), 9 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 21: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 22: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP 23.1: Umbau- und Erweiterungsmaßnahmen an der Parkschule, Bemusterung - Einstimmig
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 26: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 26.1: Erbbaurecht, Zustimmung Verkauf und Belastung - Einstimmig
+- TOP 26.2: Grunderwerb landwirtschaftliche Flächen - Einstimmig
+- TOP 26.3: Grunderwerb landwirtschaftliche Flächen - Einstimmig
+- TOP 27: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 28: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 29: Dringende Anfragen und Anregungen
