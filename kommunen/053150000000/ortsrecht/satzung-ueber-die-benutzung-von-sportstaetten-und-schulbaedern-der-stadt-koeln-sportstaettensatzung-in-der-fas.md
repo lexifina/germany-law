@@ -1,17 +1,17 @@
 # Satzung über die Benutzung von Sportstätten und Schulbädern der Stadt Köln (Sportstättensatzung) in der Fassung der 1. Satzung zur Änderung der Satzung über die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie des Neptunbades (Sportstä
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2018-07-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sportstättensatzung_20_07_2018.pdf
+- Datum: 2020-12-14 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sportstättensatzung_in_der_fassung_der_1._satzung_zur_Änderung_vom_14._dezember_2020.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Benutzung von Sportstätten und Schulbädern der Stadt Köln (Sportstättensatzung)
-in der Fassung der 1. Satzung zur Änderung der Satzung über die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie des Neptunbades (Sportstättensatzung) Vom 20. Juli 2018
-Der Rat der Stadt Köln hat in seiner Sitzung vom 05.07.2018 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV.NW.2023) diese Satzung beschlossen.
-- ABl StK 1998, S. 257, 2018, S. 301 -
+in der Fassung der 1. Satzung zur Änderung der Satzung über die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie des Neptunbades (Sportstättensatzung) vom 14. Dezember 2020
+Der Rat der Stadt Köln hat in seiner Sitzung vom 10.09.2020 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV.NW.2023) diese Satzung beschlossen.
+- ABl StK 1998, S. 257, 2018, S. 301 , 2020, S. 1648 -
 I. Allgemeines
 §1 Zweck
 Die Stadt Köln stellt ihre Sportstätten und Schulbäder für aktiven Sport, Freizeitgestaltung, Erholung und entsprechende Veranstaltungen nach Maßgabe dieser Satzung zur Verfügung.
@@ -132,5 +132,5 @@ Seite 9 von 10
 
 b. Dritten zu selbständiger und eigenverantwortlicher Nutzung überlassen. (2) Soweit bei Inkrafttreten dieser Satzung privatrechtliche Verträge bestehen, bleiben diese unberührt.
 IV. Schlußvorschriften § 19
-Inkrafttreten Diese Satzung tritt rückwirkend zum 31.12.2017 in Kraft.
+Inkrafttreten (1) Diese Satzung tritt rückwirkend zum 31.12.2017 in Kraft. (2) Die Satzung ist anwendbar für die Benutzung von Sportstätten und Schulbädern der Stadt Köln, dessen Gestattung bis zum 30.06.2020 erfolgte.
 Seite 10 von 10
