@@ -1,0 +1,95 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2020-12-14T18:01:00+01:00
+- Ende: 2020-12-14T22:07:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZShFXxJYlqUqy4RmydlIoQw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7290
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUvbUAK-1aXZGszZgJhE6iu-jjWniejWfxPPDqfDB4kd/Bekanntmachung_Rat_14.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMeeUdNs63McOY0C63BCDf8MQUpVgh8hq1TrdRzN8z2/Oeffentliche_Niederschrift_Rat_14.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Rückfragen aus der Sitzung vom 22.06.2020
+- TOP 1.2: Heider Bergsee Campus I
+- TOP 1.3: Heider Bergsee Campus II
+- TOP 1.4: Heider Bergsee Campus III
+- TOP 1.5: Heider Bergsee Campus IV
+- TOP 1.6: Heider Bergsee Campus V
+- TOP 2.: Niederschrift vom 02.11.2020
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Bebauungsplan 08.91 "Bundesakademien" 1. Änderung Bezug: Bürgerantrag gem. § 24 GO NRW zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan 08.91 "Bundesakademien" 1. Änderung vom 24.09.2018 (Vorlage 432/2020)
+- TOP 3.2: Bebauungsplan 08.91 "Bundesakademien", 1. Änderung hier: Bürgerantrag gem. § 24 GO NRW zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan 08.91 "Bundesakademien", 1. Änderung vom 24.09.2018 - (kein Text vorhanden)
+- TOP 3.3: Erweiterungsbedarf der Hochschule des Bundes Bezug: Eine Anfrage und ein Antrag der FDP-Fraktion vom 16.11.2020 - (kein Text vorhanden)
+- TOP 3.3.1: Hochschule des Bundes, Erweiterungsbedarf hier: Antrag der FDP-Fraktion vom 16.11.2020, Vorlagen-Nr. 515/2020
+- TOP 4.: Wahl des Rates der Stadt Brühl am 13.09.2020 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 5.: Wahl des Bürgermeisters am 13.09.2020 und Stichwahl am 27.09.2020 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 6.: Wahl des Integrationsrates am 13.09.2020 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 7.: Bestellung der Stadt in besonderen Einrichtungen hier: Zweckverband "Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur" Bezug: Vorlage 407/2020 - (kein Text vorhanden)
+- TOP 8.: Zuwendungen an Fraktionen - (kein Text vorhanden)
+- TOP 9.: Bebauungspläne
+- TOP 9.1: Bebauungsplan 09.08 "Am Siegesbach 10-22, Maria-Montessori-Schule" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 9.2: Bebauungsplan 04.18 "Südlich Hedwig-Gries-Straße / Sophie-Scholl-Straße“ - Aufstellungsbeschluss - 57. Änderung des Flächennutzungsplanes - Aufstellungsbeschluss - - (kein Text vorhanden)
+- TOP 10.: Benennung einer Straße im Baugebiet „Im Geildorfer Feld Bplan 06.12 1. Änderung“ - (kein Text vorhanden)
+- TOP 11.: Sachstandsbericht „City-Treff“ und Streetwork hier: Schaffung einer weiteren Vollzeitstelle für den „City-Treff“ und die Straßensozialarbeit Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 19.06.2020 zu TOP 10 (Vorlage 239/2020) der Sitzung des Rates am 22.06.2020 - (kein Text vorhanden)
+- TOP 12.: Zwischenbericht über die Testphase der Ausweitung der Altersgruppen auf den Kinderspielplätzen „Von-Wied-Str.“, „Auf der Pehle“ und „Schlaunstraße“ - (kein Text vorhanden)
+- TOP 13.: Abwassergebührenkalkulation 2021
+- TOP 14.: Satzungen
+- TOP 14.1: 11.Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl Bezug: Vorlage 485/2020 - (kein Text vorhanden)
+- TOP 14.2: 2. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Brühl - Straßenreinigungssatzung - - (kein Text vorhanden)
+- TOP 14.3: 1.Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Abfallbeseitigung in der Stadt Brühl - (kein Text vorhanden)
+- TOP 14.4: 1. Änderung der Satzung über die Gebührensatzung für das Friedhofs- und Bestattungswesen in der Stadt Brühl - (kein Text vorhanden)
+- TOP 14.5: Änderung der Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl Änderung der Wahlordnung für die Wahl des Inklusionsbeirates der Stadt Brühl - (kein Text vorhanden)
+- TOP 15.: Erlass von Gebühren
+- TOP 15.1: Erlass von Sondernutzungsgebühren für die Außengastronomie sowie für die Aufstellung von Werbeanlagen vor Geschäftslokalen im Kalenderjahr 2021 - (kein Text vorhanden)
+- TOP 15.2: Erlass der Erhebung von Gebühren für die außerschulische Benutzung städtischer Sportanlagen an Vereine - (kein Text vorhanden)
+- TOP 16.: Finanzielle Auswirkungen im Rahmen der Corona-Pandemie - Aktualisierte Einschätzung - Bezug: Rat 22.06.20 Vorlage 253/2020, Rat 24.08.20 Vorlage 347/2020
+- TOP 17.: 2. Zwischenbericht zur Haushaltslage 2020 zum 30.09.20 mit Prognose zum 31.12.20
+- TOP 18.: Straßen- und Wegekonzept der Stadt Brühl nach § 8 a Absatz 1 Kommunalabgabengesetz (KAG) NRW - (kein Text vorhanden)
+- TOP 19.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier: Wirtschaftsplan 2021 - (kein Text vorhanden)
+- TOP 20.: Gesellschafterversammlung Gebausie hier: Wirtschaftsplan 2021 - (kein Text vorhanden)
+- TOP 21.: Prüfung Jahresabschluss 2019 - (kein Text vorhanden)
+- TOP 22.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 22.1: Stadtbahnlinie 18 Hier: Auflösung Aktive Rechnungsabgrenzung (ARAP) für 2020 - Außerplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 22.2: Überplanmäßige Mittelbereitstellung Hier: Vollzug des Unterhaltsvorschussgesetz - (kein Text vorhanden)
+- TOP 22.3: Außerplanmäßige Auszahlung aufgrund der Darlehensgewährung an Stadtservicebetrieb Brühl AöR - (kein Text vorhanden)
+- TOP 22.4: Mehraufwendungen für die Installation von DATEV-LODAS Gehaltsabrechnungsprogramm hier: Außerplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 22.5: Kindertagesstätte Wingertsberg – Herrichtung einer vorläufigen Einrichtung mit drei Gruppen hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 22.6: Verbandsumlage KDVZ hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 22.7: Hochbaumaßnahmen hier: außerplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 23.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 23.1: Außerplanmäßige Mittelbereitstellung hier: notwendige Umzugsarbeiten der Erich Kästner-Realschule - (kein Text vorhanden)
+- TOP 23.2: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln -Verwaltungsrat Bezug: Vorlage 404/2020 - (kein Text vorhanden)
+- TOP 23.3: Dringlichkeitsentscheidung für den städtischen Zuschuss an Kahramanlar- Die Brühler Helden e.V. zu den Kosten für die Beschaffung von Sportgeräten gemäß Sportförderrichtlinien - (kein Text vorhanden)
+- TOP 23.4: Dringlichkeitsentscheidung für den städtischen Zuschuss an den Freizeit-Club Schwadorf 1973 e.V. zu den Kosten für die Durchführung verschiedener Sanierungsmaßnahmen - (kein Text vorhanden)
+- TOP 24.: Umbesetzung in Ausschüssen
+- TOP 24.1: Umbesetzung im Aufsichtsrat Stadtwerke Brühl GmbH Bezug: Antrag der Grünen-Fraktion vom 28.11.2020 - (kein Text vorhanden)
+- TOP 24.2: Umbesetzung im Schulausschuss hier: Mündlicher Antrag der FDP-Fraktion
+- TOP 25.: Anträge
+- TOP 25.1: Änderung des § 4 der Satzung für das Jugendamt; hier: Teilnahme beratender Mitglieder der Fraktionen im JHA Bezug: Antrag der FDP-Fraktion vom 16.11.2020 - (kein Text vorhanden)
+- TOP 25.2: Änderungsantrag des § 4 der Satzung für das Jugendamt; hier: Teilnahme beratender Mitglieder der Fraktionen im JHA Bezug: Antrag der AfD-Fraktion vom 05.11.2020 (Eingang per Mail am 26.11.2020)
+- TOP 25.3: Gestaffelter Beginn des Schulunterrichts zur Entzerrung des morgendlichen Bus- und Straßenbahnverkehrs Bezug: Antrag der Fraktion Linke&Piraten vom 27.11.2020
+- TOP 25.4: Beendigung Kommunalverfassungsstreitverfahren Bezug: Antrag der SPD-Fraktion vom 27.11.2020 - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
+- TOP 27.1: Fördermittel aus dem NRW Sofortprogramm "Zukunft Innenstadt" Bezug: Anfrage der FDP-Fraktion vom 16.11.2020
+- TOP 27.1.1: Fördermittel aus NRW Sofortprogramm „Zukunft Innenstadt“ Bezug: Anfrage FDP-Fraktion vom 16.11.2020
+- TOP 27.2: Schnellbuslinien
+- TOP 27.3: Sauberkeit Pingsdorfer Straße
+- TOP 27.4: Versorgung der Brühler Schulen mit iPads
+- TOP 27.5: Integrationsrat
+- TOP 27.6: Ausfall verschiedener Sitzungen
+- TOP 27.7: Gottesdienste an Weihnachten
+- TOP 27.8: Wertstoffhof
+- TOP B): Nichtöffentliche Sitzung
+- TOP 28.: Kreditaufnahme zur Weiterleitung an den Stadtservicebetrieb Brühl AÖR - (kein Text vorhanden)
+- TOP 29.: Darlehensgewährung an Stadtservicebetrieb Brühl AöR - (kein Text vorhanden)
+- TOP 30.: Mitteilungen
+- TOP 31.: Anfragen
+- TOP 32.: Bolzplatz Brühl-Heide
