@@ -1,0 +1,170 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2020-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5822025
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5822025
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Absage Kindertheater im BA 7
+- TOP 6.2.: Lärmproblematik durch Mittleren Ring Sendling-Westpark
+- TOP 6.3.: Autovermietung Fahrzeuge
+- TOP 6.4.: Waldfriedhofviertel Nahversorgung
+- TOP 6.5.: Antrag Tauben
+- TOP 6.6.: Müllcontainer in der Schochenbergstraße
+- TOP 6.7.: Nächtlicher Güterzugverkehr
+- TOP 6.8.: Westpark- Corona
+- TOP 6.9.: Krähen in Sendling-Westpark
+- TOP 6.10.: Forderung Einbahnstrasse
+- TOP 6.11.: Wartehaus MVV
+- TOP 6.12.: Müllproblematik in Sendling-Westpark
+- TOP 6.13.: Danke für den Spielplatz Pfrontener Platz
+- TOP 6.14.: Sachbericht Dschungel-Festival 2020
+- TOP 6.15.: Anwohnerparken
+- TOP 6.16.: Verlängerung Erhaltungssatzungsgebiet Sendling-Westpark
+- TOP 6.17.: Parksituation Juifenstraße gefährlich
+- TOP 6.18.: Heiterwanger Str. Ecke Rattenberger Str. Hundebeutel
+- TOP 6.19.: Antrag Fahrradweg Westpark
+- TOP 6.20.: Spielplatz Zirler Platz
+- TOP 6.21.: Anliegen Verkehr
+- TOP 6.22.: Bürgerschreiben zum Tod von Hrn. Kluska
+- TOP 6.23.: Wertstoffinsel Wessobrunner Platz
+- TOP 6.24.: Stattpark Olga
+- TOP 6.25.: Eine Idee zum weiterer Vorgehen und was ist daraus geworden
+- TOP 6.26.: Radlrennparcour Westpark
+- TOP 6.27.: Neue Nutzung Trambahnhäuserl Luise-Kiesselbach-Platz
+- TOP 6.28.: Quartierzentrum Waldfriedhofstraße
+- TOP 6.29.: Verkehrsituation in der Pählstrasse
+- TOP 7.1.: Nachbenennung von UA-Ersatzmitglieder
+- TOP 10.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00€; Az. 0262.0-7-0318
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat Werdenfelsschule Sensibilisierung der Eltern für Verkehrssicherheit von Mitte Februar bis Anfang März 390,00 € / Az. 0262.0-7-0322
+- TOP 11.1.: Vorschlag zur Bestellung städt. Leistungen
+- TOP 11.2.: Vorschlag zur Bestellung städt. Leistungen
+- TOP 11.3.: Geschwindigkeitsreduzierung im nördlichen Teil der Passauerstraße und im südlichen Teil der Hansastraße
+- TOP 11.4.: Roteinfärbung Fahrradweg Waldfriedhof/Höllentalstr
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1.: Bauvorhaben Bauernbräuweg
+- TOP 18.: Baureferat
+- TOP 18.1.: (E) Verbreiterung des Radweges in der Gilmstraße Empfehlung Nr. 14-20 / E 03081 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 19.11.2019 Der Zweirichtungsradweg zwischen Gilm- und Westendstraße wird spätestens nach Abschluss der Bauarbeiten am Schulgelände Ludwigs- / Erasmus- Grasser-Gymnasium auf die nach dem Münchner Radentscheid erforderliche Breite von mindestens 2,50 m verbreitert BA-Antrag Nr. 14-20 / B 07405 des Bezirksausschusses des Stadtbezirkes 7 Sendling-Westpark vom 21.01.2020
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Öffnung der einbahngeregelten Rüdesheimer Straße
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.1.: Vorlage Umsetzung Parkraummanagement
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.1.: Bäume Hinterbärenbadstraße
+- TOP 31.2.: Antwortschreiben Antrag Wochenmarkt
+- TOP 31.3.: Antwortschreiben Straßenbeleuchtung Hansastraße
+- TOP 31.4.: Antwortschreiben Pfandringe an Mülleimern im Westpark
+- TOP 31.5.: Jahresprogramm Straßenunterhalt Süd
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.1.: Neues Gebäude für die Freiwillige Feuerwehr Sendling
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.1.: Gottfried-Böhm-Ring
+- TOP 35.2.: Antrag auf städtische Leistung: Ermittlung von Verkehrsdaten für die östliche Krüner Straße
+- TOP 35.3.: Antwortschreiben Drachenseestr. Wechselseitiges Halteverbot
+- TOP 35.4.: Luise-Kiesselbach-Platz gegenläufiger Radverkehr
+- TOP 35.5.: JohannHouisStr. Tempo10
+- TOP 35.6.: Einmündungsbereich Waldfriedhofstraße/Pählstraße
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.1.: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.1.: Fristverlängerung Ganztagsbildung Grundschule Passauerstr.
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.1.: Lärm-und Geruchsbelästigung Bus- Parkplatz Hansastraße
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.1.: Umgestaltung der Novalisstraße
+- TOP 41.2.: Antwortschreiben Bauleitplanung LKP Straßenbegleitgrün
+- TOP 42.: Sozialreferat
+- TOP 42.1.: Schulsozialarbeit Fernpaßschule
+- TOP 43.1.: Gottfried-Böhm-Ring
+- TOP 43.2.: Stellungnahme Polizei zum Spielplatz Zirler Platz
+- TOP 43.3.: Schreiben griechische Schule
+- TOP 45.: Baureferat
+- TOP 45.1.: Gefahrenbaum Erasmus Grasser Gymnasium
+- TOP 45.2.: Gefahrenbaum Garmischer Str.
+- TOP 45.3.: Gefahrenbaum Rubihornweg
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 48.1.: Mitteilung über ein Grundstücksgeschäft
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.1.: Vorfahrtsregelung Waldfriedhofstraße
+- TOP 49.2.: Verlängerung der Verkehrsrechtlichen Anordnung - Waxensteinstr.
+- TOP 49.3.: Johann-Clanze-Str. Ladezone
+- TOP 49.4.: Antwortschreiben Zebrastreifen Oetztaler/Drachenseestraße
+- TOP 49.5.: Heckenstaller Str.
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.1.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 55.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 55.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 55.4.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 55.5.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 07 - Sendling-Westpark Satzungsbeschluss Erhaltungssatzung "Sendling-Westpark"
+- TOP 55.6.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 55.7.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 55.8.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 55.9.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 56.: Sozialreferat
+- TOP 56.1.: Erhaltungssatzung Martin-Behaim-Str.
+- TOP 56.2.: Mieterbeirat
+- TOP 56.3.: Erhaltungssatzung Rattenberger Str.
+- TOP 56.4.: Zweckentfremdung Mittenwaldstraße
+- TOP 56.5.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 56.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 56.7.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 56.8.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 56.9.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 57.1.: Baumaßnahmen SWM
+- TOP 57.2.: Mehrjahresinvestitutionen Stadtkämmerei
+- TOP 57.3.: Mehrjahresinvestitutionen Stadtkämmerei Sendling-Westpark
