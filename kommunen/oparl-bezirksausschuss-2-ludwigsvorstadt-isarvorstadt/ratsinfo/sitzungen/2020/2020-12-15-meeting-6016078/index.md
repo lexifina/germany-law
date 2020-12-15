@@ -1,0 +1,154 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2020-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6016078
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6016078
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Glockenbachspielplatz – Starkstromverteiler; Antrag der CSU-Fraktion vom 25.11.2020
+- TOP 2.1.: (E) Stadtbezirksbudget Schüler-Frei-Raum e.V. Anschaffung einer Leinwand 157,50 Euro, Az.: 0262.0-2-0371
+- TOP 2.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival "Street Art Song" am 11.09.2021 1.000,00 Euro, Az.: 0262.0-2-0369
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Rückbau der ehemaligen freilaufenden Rechtsabbieger an der Einmündung der Pettenkofer Straße in den Bavariaring; Antrag der CSU-Fraktion vom 25.11.2020
+- TOP 1.2.: Pilotprojekt - Berliner Kissen als Bremsschwelle vor der Stielerschule
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: Umbau der Kreuzung Ruppertstraße / Tumblingerstraße; Projekt-Nr.: 101048
+- TOP 3: Anhörungen
+- TOP 3.2.1.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze in der Reichenbachstraße
+- TOP 3.2.2.: Schaffung von Behindertenparkplätzen im Umfeld der Fraunhoferstraße
+- TOP 3.2.3.: Antrag auf Bestellung einer städtischen Leistung: Errichtung von Fahrradständern auf der Insel zwischen Baader- und Rumfordstraße
+- TOP 3.2.4.: Parkraummanagement in München - Umsetzung Sektor VI, Teil 1; Sitzungsvorlage Nr. 20-26 / V 01509; Behandlung der Empfehlung Nr. 14-20 / E 03034 „Anwohnerparkplätze im Viertel“ und Nr. 14-20 / E 03041 „Mehr Anwohnerparken im Stadtviertel“ der Bürgerversammlung am 07.11.2019
+- TOP 3.2.5.: Tumblingerstraße (Haus für Kinder) Einrichtung eines eingeschränkten Haltverbotes; vertagt aus der Sitzung am 24.11.2020
+- TOP 3.2.6.: Standortbegehung für Carsharing-Stellplätze; vertagt aus der Sitzung am 24.11.2020
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Verkehrskontrollen in der Tempo-30-Zone Thalkirchner Straße / Kapuzinerstraße Richtung Sendlinger Tor; Bürgeranliegen
+- TOP 5.2.: Neues Haltverbot Baaderstraße 13; Bürgeranliegen
+- TOP 5.3.: Verkehr- und Parksituation am Dreieck Thalkirchner-Müller-Pestalozzistraße; Bürgeranliegen
+- TOP 5.4.: Platenstraße dauerhaft als Sackgasse ausweisen; Bürgeranliegen
+- TOP 5.5.: Raser entlang der Auenstraße; Bürgeranliegen
+- TOP 5.6.: Unfälle auf dem Fahrradweg zwischen Wittelsbacher- und Tierparkbrücke; Bürgeranliegen
+- TOP 5.7.: Drei Anträge eines Bürgers • Errichtung von Park und Lademöglichkeiten für elektronische Roller in der Dreimühlenstraße • Errichtung von Zebrastreifen in der Dreimühlenstraße/Isartalstraße • Korrektur der Beschilderung in der Isartalstraße
+- TOP 5.8.: Vorschlag für Umgestaltung Anfang Thalkirchner Straße / Müllerstraße
+- TOP 5.9.: Gefährliche Situation durch Baustelle an der Kapuzinerstraße; Bürgeranliegen
+- TOP 5.10.: Verkehrsführung Stephanstraße; Bürgeranliegen
+- TOP 5.11.: Buslinie an der Auenstraße erweitern; Bürgeranliegen
+- TOP 5.12.: Belegung von Parkfläche durch die Gastronomie; Bürgeranliegen
+- TOP 5.13.: Parkplatzproblematik im Dreimühlenviertel; Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Schillerstraße 49 Nutzungsänderung im EG: Wohn-, Schlaf- und Badezimmer zu einem Wartebereich für Hotelgäste, Abbruch einer Fensterbrüstung mit Einbau einer Terrassentür
+- TOP 3.1.2.: Hans-Sachs-Straße 8 Nutzungsänderung im EG hinsichtlich Gastraumgröße, Entfall der Verkaufsnutzung und Änderung einiger Nebenräume
+- TOP 3.1.3.: Sonnenstraße 20, Tektur Umbau, Sanierung und Teilabbruch VGB eines Gewerbe- und Wohngebäudes mit Nutzungsänderung im 3. - 4. OG von Zahnarztpraxis zu Büroräumen (VGB) sowie Neubau eines Bürogebäudes im Innenhof mit Neuerrichtung der Tiefgarage
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Vollzug der Baumschutzverordnung, Bayerstraße 25; vertagt aus der Sitzung am 24.11.2020
+- TOP 3.2.2.: Vollzug der Baumschutzverordnung, Kapuzinerplatz 2 / RGB; vertagt aus der Sitzung am 24.11.2020
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Beschwerde über Hotelneubau in der Lindwurmstraße 35; Bürgeranliegen
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Baumfällungsantrag Güllstraße 8
+- TOP 3.1.2.: Baumfällungsantrag Hermann-Schmid-Straße 2
+- TOP 3.1.3.: Baumfällungsantrag Thalkirchner Straße 110-108; vertagt aus der Sitzung am 24.11.2020
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Gestaltung der Grünfläche zwischen Rumford- und Klenzestraße; Bürgeranliegen
+- TOP 5.2.: Beleuchtung Dammweg Isar; Bürgeranliegen
+- TOP 5.3.: Vorschläge zum Nußbaumpark; Bürgeranliegen
+- TOP 5.4.: Fünf Verbesserungsvorschläge rund um die Dreimühlenstraße; Bürgeranliegen
+- TOP 5.5.: Toilettenanlage an der Theresienwiese; Bürgeranliegen
+- TOP 5.6.: Schäden durch Bäume vor dem Anwesen Baaderplatz 2; Bürgeranliegen
+- TOP 5.7.: Überfüllte Mülleimer am Alten Südfriedhof; Bürgeranliegen
+- TOP 5.8.: Müll an der Reichenbachbrücke: Bitte um größere und rattensichere Mülleimer; Bürgeranliegen
+- TOP 5.9.: Situation rund um Karl-Heinrich-Ulrichs-Platz und Südfriedhof; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP A 4.4.: Beantwortung der BA-Stellungnahme zu dem Beschluss Nr. 14-20 / V 14256 „Lösungen für‘s Bahnhofsviertel 2: Soziale Einrichtungen rund um den Münchner Hauptbahnhof“
+- TOP A 4.5.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP A 4.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP A 4.7.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP A 4.8.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Mülleimer am Roecklplatz; Antwort auf Bürgeranliegen
+- TOP B 4.8.: Definition Großveranstaltung
+- TOP B 4.9.: Einrichtung von Lieferzonen im Umgriff der Fraunhoferstraße: Müllerstraße in Höhe der Hausnummer 17
+- TOP B 4.10.: Eilentscheidung zur Beschlussvorlage „Modelquartiere in München – Pilotprojekt „City2Share“
+- TOP B 4.11.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP B 4.12.: Nächtliche Arbeiten (Schweiß- und Schleifarbeiten) vom 15/16.11.2020 bis 19/20.11.2020 im Bereich Fraunhofer-/Müllerstraße sowie im Bereich Milch-/Wörthstraße / Jahresgenehmigung 2020 für Anlagen des ÖPNV
+- TOP B 4.13.: Parken im Dreimühlenviertel; Antwort auf Bürgeranliegen (vgl. TOP 20.10 B 5.6)
+- TOP B 4.14.: (U) Neubau Hauptbahnhof München Fahrradparken - Sachstandbericht und weiteres Vorgehen
+- TOP B 4.15.: Hinweisschreiben wegen einer Anwohnerbeschwerde der Bezirksinspektion an den Geschäftsführer der Gaststätte der Klenzestraße 47
+- TOP B 4.16.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP B 4.17.: Beschwerde über die Gaststätte in der Klenzestraße 47; Rückmeldung der Bezirksinspektion
+- TOP B 4.18.: Gesamtstädtische Stellungnahme Anschlussbereich Ludwigsbrücken
+- TOP B 4.19.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP B 4.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.21.: Haushalt 2021 des Mobilitätsreferats; Sitzungsvorlage Nr. 20-26 / V 01836
+- TOP B 4.22.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Entwurf des Mehrjahresinvestitionsprogramms (MIP) für die Jahre 2020 - 2024
+- TOP C 4.3.: Baugenehmigungsbescheid, Reichenbachstraße 13
+- TOP C 4.4.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP C 4.5.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Fortführung des Palmengartens auf der Theresienwiese; Antwort auf Bürgeranliegen
+- TOP D 4.2.: Installation von Trinkbrunnen für den Sommer 2020 auf der Theresienwiese
+- TOP D 4.3.: Mülleimer Thalkirchnerstraße
+- TOP D 4.4.: Kreative Nutzung der Theresienwiese - Streetball Courts
+- TOP D 4.5.: Ausnahmezulassung Betrieb Müllsammelfahrzeuge ab 05:30 Uhr (gültig bis 31.05.2021)
+- TOP D 4.6.: Störungen bei Laubarbeiten auf dem Alten Südlichen Friedhof, Antwort auf Bürgeranliegen
+- TOP D 4.7.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP D 4.8.: Wertstoffinseln und Unterflurcontainer - Präsentation zur Veranstaltung für die Bezirksausschüsse am 25.11.2020
+- TOP D 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Digitale Bereitstellung von Planunterlagen; Information an alle Bezirksausschüsse
