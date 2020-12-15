@@ -1,0 +1,7 @@
+# TOP 17: Dank für die im Jahr 2020 geleistete Arbeit und gute Wünsche für das Jahr 2021
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2020-12-15)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/22593
+- Ergebnis: Kenntnis genommen
