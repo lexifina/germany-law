@@ -1,0 +1,95 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2020-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6068261
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6068261
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Kinder- und Jugendbeauftragte
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Liedertafel Fasanerie München e.V. Anschaffung eines E-Pianos 1.965,00 € / Az. 0262.0-24-0344
+- TOP 2.2.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Finanzierung DiNo-Kids im Jahr 2021 9.600,00 € / Az. 0262.0-24-0345
+- TOP 2.3.: (E) Stadtbezirksbudget Hidalgo gGmbH „Street Art Song“ Auftritte in den Stadtbezirken 2021 1.000,00 €, AZ: 0262.0-24-0343
+- TOP 2.4.: (E) Stadtbezirksbudget Stadtteilkultur2411 e.V. Kunstprojekt „Videoboart“ 4.875,00 € / Az. 0262.0-24-0346
+- TOP 2.5.: (E) Stadtbezirksbudget TSV 54-DJK München e.V. Spiel- und Trainingsausstattung für die Fußball-Junioren 637,50 € / Az. 0262.0-24-0348
+- TOP 3.1.: Inklusion im 24. Stadtbezirk
+- TOP 3.2.: Spekulativer Grunderwerb von Privatpersonen zur Errichtung und Betrieb von Sozialeinrichtungen
+- TOP 3.3.: Status des Projektes "kitafinder+"
+- TOP 3.4.: Ausbau der Grundschule an der Lerchenauer Str. 322 - Unterricht für Kinder aus dem Neubaugebiet Hochmuttinger Straße
+- TOP 3.5.: Planungen für neue Wohn- und Gewerbegebiete im 24. Stadtbezirk den Erkenntnissen aus der Corona-Krise anpassen
+- TOP 3.6.: Reinigung von verschmutzten Schildern auf öffentlichem Straßengrund und in den Naherholungsgebieten im 24. Stadtbezirk
+- TOP 3.7.: 50 Jahre Olympische Spiele - Komplett-Sanierung der Olympia-Regattastrecke
+- TOP 3.8.: Brückenprüfung der Schwabenbächlbrücke
+- TOP 3.9.: Änderung der Wendeplatte in der Leonhard-Bugl-Straße/Gutmannstraße
+- TOP 3.10.: Bahnkreuzung S 1/Feldmochinger Str. in der Fasanerie
+- TOP 3.11.: Anliegerparken im Bereich der Johann-Emmer-Straße
+- TOP 3.12.: Parksituation in der Linkstraße
+- TOP 3.13.: Parkplatzprobleme im Hasenbergl; Sachstand zum BA-Antrag Nr. 14-20 / B 07133, Sofortmaßnahme "Parken nur für PKW"
+- TOP 3.14.: Parksituation in der Herbergstr.
+- TOP 3.15.: Einbringung in die Trambahnplanungen um einen ordentlichen öffentlichen Verkehrsanschluss der gesamten Lerchenauer Straße (vom Olympiazentrum bis Feldmoching) zu erwirken
+- TOP 3.16.: Lärm und Covid19-Verstöße im Bereich Lassallest. 95, 100, 101 (Ladenzentrum)
+- TOP 3.17.: Maßnahmen zur Verkehrsberuhigung in der Ponkratzstr. in Feldmoching
+- TOP 3.18.: Dülferstraße; fehlende Parkplätze, Verkehr
+- TOP 3.19.: Parken Am Gottesackerweg
+- TOP 3.20.: Aufhebung der Benutzungspflicht des gemeinsamen Fuß- und Radweges auf der Ostseite der Feldmochinger Str. für Radfahrer (Abschnitt zw. Gutmannstr. - Einmündung Fußweg Südseite Fasaneriesee)
+- TOP 5.1.1.: Berberitzenstr. 48 a
+- TOP 5.1.2.: Ferchenbachstr. 13
+- TOP 5.1.3.: Lerchenstr. 74
+- TOP 5.1.4.: Robinienstr. 8
+- TOP 5.1.5.: Schätzweg 1 - 3
+- TOP 5.1.6.: Schneeglöckenstr., Fl.Nr. 449/28 (DH + RH)
+- TOP 5.2.1.: Grohmannstr. 61 - 63
+- TOP 5.2.2.: Schneeglöckchenstr., Fl.Nr. 449/28 (DH + RH)
+- TOP 5.2.3.: Lerchenauer Str. 321
+- TOP 5.4.1.: Baumfällungen (BaumSchVO): Leonhard-Bugl-Str. 2
+- TOP 5.4.2.: Baumfällungen (BaumSchVO): Berberitzenstr. 65
+- TOP 5.4.3.: Mieterbeiratswahl 2021; Entsendung von stimmberechtigten Mitgliedern
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Hinweisschilder zur Müllentsorgung an den Mülltonnen am Fasanerie See, Lerchenauer See und Feldmochinger See
+- TOP 2.: Neue behindertengerechte Bushaltestelle Robinienstraße vor der Häuserzeile Robinienstraße 101 – 93; Maßnahmen zur Verbesserung der aktuellen Situation.
+- TOP 3.: Verkehrssicherheit für Fußgänger und Radfahrer an der Querung Gundermannstraße/Fuß- und Radweg zwischen der Waldmeisterstraße und der Weitlstraße
+- TOP 4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Kurven- und Sichthaltverbot, Frank-Fackler-Str. im Einmündungsbereich zur Hans-Böckler-Str. b) Absolute Haltverbote, Wickenstr. (Wendehammer) c) Haltverbote und Verlegung Bücherbushaltestelle, Lassallestr. (Höhe Anwesen 100 bzw. 101) wegen Verkehrsinsel
+- TOP 5.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024
+- TOP 6.: Information zu den Schulbauprogrammen aufgrund der aktuellen Haushaltslage (zu Sitzungsvorlage Nr. 20-26 / V 01948)
+- TOP 7.: (U) Planungen für den Anschluss der A 99 an die Schleißheimer Straße einstellen (Antrag 6)
+- TOP 8.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 9.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 10.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 11.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 12.: (U) In-House-Vergabe (Bauträgerauswahl) Bebauungsplan mit Grünordnung Nr. 2106 Hochmutiger Straße (östlich), Herbergstraße (nördlich), Paul-Preuß-Straße (westlich) von fünf städtischen Teilgrundstücken an die GWG München für Wohnungsbau in Holzbauweise Stadtbezirk 24 - Feldmoching-Hasenbergl
+- TOP 13.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 14.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 15.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 16.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 17.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 18.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 19.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 20.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 21.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024, Einzelplan 4 / Sozialbereich
+- TOP 22.: Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.: Anträge
