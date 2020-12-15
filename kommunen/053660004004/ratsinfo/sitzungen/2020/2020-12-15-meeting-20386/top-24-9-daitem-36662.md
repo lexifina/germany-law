@@ -1,0 +1,7 @@
+# TOP 24.9: Gremientätigkeit der Bürgermeisterin hier: Aufsichtsrat der e-regio GmbH & Co. KG
+
+- Sitzung: Rat (2. Sitzung) (2020-12-15)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/36662
+- Beratung: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/consultation/45000
