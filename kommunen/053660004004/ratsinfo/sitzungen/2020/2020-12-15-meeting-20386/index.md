@@ -1,0 +1,71 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2020-12-15T18:00:00+01:00
+- Ende: 2020-12-15T18:40:00+01:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZJ0iN5Dxj0QxLguV_OPeuQ
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20386
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcj1O32AbGjakO1hIEaqmGFgT4Ct-4L92TML5C9BZwmw/Bekanntmachung_Rat_15.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa5VZsFlijNNVzPM11GlzHmWUz0UYefO75ABqxs8J5T_/Oeffentliche_Niederschrift_Rat_15.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 03.11.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Beratung und Beschlussfassung über die Gültigkeit der der Wahl der Bürgermeisterin und der Stadtverordneten im Rat der Stadt Bad Münstereifel gemäß § 40 Kommunalwahlgesetz NRW - Einstimmiger Beschluss:
+- TOP 5.: Bestellung eines stellvertretenden Betriebsleiters für die eigenbetriebsähnliche Einrichtung "Forstbetrieb der Stadt Bad Münstereifel" hier: Ausscheiden den stellvertretenden Betriebsleiters Ulrich Ley - Einstimmiger Beschluss:
+- TOP 6.: Änderung des Gesellschaftervertrages der Nordeifel Tourismus (NeT) GmbH - Einstimmiger Beschluss:
+- TOP 7.: Abwassergebühren (Kanalbenutzungsgebühren) 2021 hier: 43. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung - Beschluss siehe RD-Nr. 55-XI/Z-1:
+- TOP -: Abwassergebühren (Kanalbenutzungsgebühren) 2021 hier: 43. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung - Einstimmiger Beschluss:
+- TOP 8.: Wassergebühren 2021 - Einstimmiger Beschluss:
+- TOP 9.: Entsorgungsgebühren Grundstücksentwässerungsanlagen 2021 hier: 16. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 10.: 23. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Beschluss siehe RD-Nr. 108-XI/Z-1.
+- TOP -: 23. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 11.: 34. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 12.: Bebauungsplan Nr. 96 „Thomasstraße/Zum Stuckental“ im Ortsteil Bad Münstereifel-Wald im beschleunigten Verfahren gem. § 13a BauGB „Bebauungspläne der Innenentwicklung“ hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) werden alle einstimmig gefasst.Einstimmiger Beschluss:
+- TOP -: Bebauungsplan Nr. 96 „Thomasstraße/Zum Stuckental“ im Ortsteil Bad Münstereifel-Wald im beschleunigten Verfahren gem. § 13a BauGB „Bebauungspläne der Innenentwicklung“ hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Beschluss siehe RD-Nr. 85-XI.
+- TOP 13.: Bebauungsplan Nr. 51 "Auf Schildrig" im Ortsteil Eschweiler im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen mit folgender Ausnahme einstimmig bei 4 Enthaltungen:Stellungnahme der Öffentlichkeit gem. § 3 Abs. 1 BauGB – Nr. 03.2:Abwägungsbeschluss mit 25 Ja-Stimmen, 1 Nein-Stimme und 4 Enthal
+- TOP -: Bebauungsplan Nr. 51 "Auf Schildrig" im Ortsteil Eschweiler im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen mit folgender Ausnahme einstimmig bei 4 Enthaltungen:Stellungnahmen der Öffentlichkeit gem. § 3 Abs. 2 BauGB – Nr. 01.4: Abwägungsbeschluss mit 25 Ja-Stimmen, 1 Nein-Stimme und 4 Enth
+- TOP 14.: Bauliche Maßnahmen an den Feuerwehrgerätehäusern gem. Brandschutzbedarfsplan und Bericht der Unfallkasse NRW - Einstimmiger Beschluss:
+- TOP 15.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte nach § 46 Abs. 3 Schulgesetz (SchulG) NRW - Einstimmiger Beschluss:
+- TOP 16.: Feststellung Jahresabschluss zum 31.12.2018 des Forstbetriebes der Stadt Bad Münstereifel - Beschluss siehe RD -Nr. 49-XI/Z-1.
+- TOP -: Feststellung Jahresabschluss zum 31.12.2018 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 17.: Feststellung Jahresabschluss zum 31.12.2019 des Forstbetriebes der Stadt Bad Münstereifel - Beschluss siehe RD-Nr. 50-XI/Z-1.
+- TOP -: Feststellung Jahresabschluss zum 31.12.2019 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 18.: Entlastung für das Wirtschaftsjahr 2019 hier: Entlastung des Betriebsausschuss "Forstbetrieb" durch den Rat - Einstimmiger Beschluss bei 1 Enthaltung und ohne Mitwirkung der Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“:
+- TOP 19.: Erlass des Wirtschaftsplanes 2021 des Forstbetriebes der Stadt Bad Münstereifel Hier: Einbringung des Entwurfes - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 20.: Erlass der Wirtschaftspläne 2021 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 21.: Gesamtabschluss 2018 hier: Zuleitung des Entwurfs gem. § 116 Abs. 8 GO NRW i.V.m. § 95 Abs. 5 GO NRW - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Haushaltssatzung für das Haushaltsjahr 2021 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 23.: Stellenplan für das Haushaltsjahr 2021 - Einstimmiger Beschluss:
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Errichtung von Windenergieanlagen hier: Eingabe einer Bürgerin vom 23.11.2020
+- TOP 24.2: Regelungen für die Gastronomie im Jahr 2021
+- TOP 24.3: Haushalt 2020 hier: Bericht zum 30.11.2020 im Rahmen des Finanzcontrollings
+- TOP 24.4: Verfügung des Kreises Euskirchen zum Jahresabschluss 2019 der Stadt Bad Münstereifel
+- TOP 24.5: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2021
+- TOP 24.6: Sachstand Förderantrag Sportplatz Bad Münstereifel
+- TOP 24.7: Sachstand der Maßnahmen "Gute Schule 2020"; hier: Anfrage der SPD-Fraktion vom 03.11.2020
+- TOP 24.8: Umsetzung des Onlinezugangsgesetzes (OZG)
+- TOP 24.9: Gremientätigkeit der Bürgermeisterin hier: Aufsichtsrat der e-regio GmbH & Co. KG
+- TOP 24.10: Änderungen zum Fahrplanwechsel ab 13.12.2020
+- TOP 24.11: Barrierefreier Ausbau Bahnhof Bad Münstereifel
+- TOP 24.12: Mögliche Mitgliedschaft in der Dienstleistungsgenossenschaft Eifel
+- TOP 24.13: Kommunalrecht - Auswirkungen des Kommunalrechts auf die Rats- und Ausschussarbeit - -     
+- TOP 24.14: Öffnungszeiten des Rates in der Zeit vom 29.12.20 bis 03.01.21
+- TOP 24.15: Zuweisung nach dem Gewerbesteuerausgleichsgesetz NRW
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Einstimmiger Beschluss:
+- TOP -: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Beschluss siehe RD-Nr. 103-XI.
+- TOP 2.: Ausschreibung steuerrechtlicher Beratungsleistungen im Rahmen der Betriebe gewerblicher Art, der Beteiligungen und des § 2b Umsatzsteuergesetz Hier: Auswertung des Submissionsergebnisses und Erteilung des Mandats - Beschluss mit 1 Gegenstimme:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Anfragen und Mitteilungen: Grundstück Kölner Straße 12; hier: Sachstandsbericht
+- TOP -: Anfragen und Mitteilungen: Grundstück Kölner Straße 12; hier: Sachstandsbericht
+- TOP 3.2: Gewährung einer Billigkeitsleistung des Bundes in Form einer außerordentlichen Wirtschaftshilfe für November 2020 ("Novemberhilfe")
+- TOP 3.3: Haushaltsberatung sowie Verfahren bei Anträgen und Ratsvorlagen hier: Anfrage des Stadtverordneten Karl Michalowski, SPD-Fraktion
