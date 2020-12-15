@@ -1,0 +1,56 @@
+# Bezirksvertretung Gräfrath (2. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2020-12-15T17:00:00+01:00
+- Ende: 2020-12-15T18:30:00+01:00
+- Ort: Deutsches Klingenmuseum, Klosterhof 4, 42653 Solingen, Stiftersaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZS6Sa_4h6oYfb8WIypvu9D0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5772
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbyalLZrUdtx-U96wZ0AC800Um4zrQQZ0gfG32I4zzGZ/Bekanntmachung_Bezirksvertretung_Graefrath_15.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZPh6g9CvUqCL7g88hy-jx7tior2OEv0PnqhU-9gtSFW/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_15.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Lärmschutzwand Roggenkamp
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Verkehrssituation Eißpaßstraße/Oberhaanerstraße Anfrage der Bezirksfraktion Bündnis 90/die Grünen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Vorstellung des neuen Leiters des Deutschen Klingenmuseums
+- TOP 4.: Protokoll über die 1. Sitzung der Bezirksvertretung Gräfrath am 17.11.2020
+- TOP 5.: Entsendung von Trägervertretungen in den Rat der Tageseinrichtung der Städt. Kindertagesstätten
+- TOP 5.1: Entsendung von Trägervertretungen in den Rat der Tageseinrichtung der Städt. Kindertagesstätten
+- TOP 6.: Nachpflanzungen von zu fällenden Gefahrenbäumen im öffentlichen Gebiet Antrag der Bezirksfraktionen Bündnis 90/Die Grünen, SPD und Die Linke vom 27.11.2020
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.1.1: Nachpflanzungen von zu fällenden Gefahrenbäumen im öffentlichen Gebiet
+- TOP 7.2: Anfragen an die Verwaltung
+- TOP 7.2.1: Anderer Stadtort für Schaukasten am Amorweg
+- TOP 7.2.2: Digitalisierung an den Grundschulen im Bezirk
+- TOP 7.2.3: Verkehrsregelung auf dem Abteiweg
+- TOP 7.2.4: Reinigung verstopfter Gullis
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.6: Anwohnerparken Obere Dammstraße
+- TOP 7.2.7: Grundstück am Roggenkamp
+- TOP 7.2.8: Bauleitplanung Lützowstraße
+- TOP 7.3: Berichte aus den Gremien
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung der Bezirksvertretung Gräfrath am 17.11.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
+- TOP 4.3: Berichte aus den Gremien
