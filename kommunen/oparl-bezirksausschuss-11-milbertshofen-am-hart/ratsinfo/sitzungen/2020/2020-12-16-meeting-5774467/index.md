@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2020-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5774467
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5774467
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.1.1.: BA-Sitzungen: Einrichten von Livestreams zum Schutz der Gesundheit sowie zum Ermöglichen der Teilhabe und der Transparenz - Antwortschreiben auf den Antrag des BA 15 Trudering-Riem (zur Kenntnisnahme)
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 12.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-11-0409
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Kreuzung Neuherbergstraße / Schleißheimer Straße - Rechtsabbiegen ermöglichen auf der Mittelspur in nördlicher Richtung
+- TOP 7.4.2.: U-Bahn U2 und U3: Einführen einer 15-Minuten-Taktung zwischen 6.00 und 7.00 Uhr am Wochenende
+- TOP 7.4.3.: Olympiazentrum – Bushaltestelle: Verbesserung der Reinigungsqualität
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.1: Plenum
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Taunusstraße 34 - 36 a) Bauvorhaben: Neubau eines Bürogebäudes - Vorbescheid
+- TOP 8.2.2.: Taunusstraße 21 - 23a a) Neubau eines Büro- und Gewerbegebäudes mit Tiefgarage
+- TOP 8.2.3.: Toni-Merkens-Weg 4 a) Neubau Sportstadion für 12.000 Besucher*innen
+- TOP 8.2.4.: Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 - Entwurf
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Veranstaltung "Weihnachtsgottesdienst" auf der Grünanlage Milbertshofener Str. 72a am 24.12.2020
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Parkraummanagement - Umsetzung Sektor VI Teil 1 Grundlage hierfür ist u.a. die Empfehlung Nr. 14-20/E02173 der Bürgerversammlung des SB 11 am 19.07.2018
+- TOP 8.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Rockefellerstraße – Rückbau eines Fußgängerüberwegs
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Taunusstraße 34 - 36 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Taunusstraße 21 - 23a b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.3.: Toni-Merkens-Weg 4 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.4.: Keferloher Straße 70 - Antrag auf Baumfällung
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 9.2.2.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 9.2.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 9.3.2.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 9.3.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 9.3.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 9.4.2.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 9.4.3.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 9.4.4.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 9.4.5.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: Hugo-Wolf-Straße - Gehwegparken
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
