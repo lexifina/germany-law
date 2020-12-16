@@ -1,0 +1,53 @@
+# 49. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2020-12-16T17:30:00+01:00
+- Ende: 2020-12-16T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5195
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5195
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=489303
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=490098
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - erledigt
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 44. Sitzung am 13.08.2020 (verschickt am 26.11.2020) - erledigt
+- TOP 1.2.2: der 47. Sitzung am 27.10.2020 (verschickt am 9.12.2020) - vertagt
+- TOP 1.2.3: der 48. Sitzung am 18.11.2020 (liegt noch nicht vor) - vertagt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Radverkehr in der Kleingartenkolonie Plötzensee - Konflikte zwischen Fußgehenden und Radfahrenden entschärfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.2: Rettung der Flora und Fauna des Plötzensees - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Uferzone schützen, Nistplätze erhalten - erledigt
+- TOP 3.4: Engelbecken kontrollieren - vertagt
+- TOP 3.5: Buslinie 142 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.6: Gastgewerbe retten – Heizstrahler in Coronakrise erlauben - im Ausschuss abgelehnt
+- TOP 3.7: Friedrichstraße jetzt sichern! - im Ausschuss abgelehnt
+- TOP 3.8: Dem Radverkehr in Mitte neuen Schwung geben – den FahrRat auf stabile Räder stellen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Park am Nordbahnhof autofrei! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.10: Analyse und Evaluierung zur „autofreien Friedrichstraße“ transparent machen. - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.11: Hussitenstr. zwischen Gustav-Meyer-Allee und Usedomer Str. entschleunigen - vertagt
+- TOP 3.12: Bundestag zügig sichern. Schutzmaßnahmen zeitnah errichten. - mit Änderungen im Ausschuss beschlossen
+- TOP 3.13: Mehr Kinder-, Jugend- und Familienfreundlichkeit in Tiergarten Süd – Versorgung mit Spiel-, Sport- und Bewegungsflächen verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.14: Friedrichstraße II - Übergänge/Radparkplätze - vertagt
+- TOP 3.15: Reinigung von Spielplätzen an Notwendigkeit anpassen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.16: Verkehrsüberwachung in Mitte durchführen - vertagt
+- TOP 3.17: Verkehrsberuhigung mit Anliegern - vertagt
+- TOP 3.18: Radfahren auf der Perleberger Straße sicherer machen - vertagt
+- TOP 3.19: Leipziger Park statt lauter Verkehrsschneise! - vertagt
+- TOP 3.20: Lärmemissionen auf der Transvaalstraße anpassen - vertagt
+- TOP 3.21: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - vertagt
+- TOP 3.22: E-Mobilität fördern: mehr Ladestationen auf öffentlichem Straßenland - vertagt
+- TOP 3.23: Gefahrenstelle am Abenteuerspielplatz an der Panke entschärfen - vertagt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Verschiedenes - erledigt
+- TOP 6: Terminplanung - Englisches Viertel im Kontex Verkehr und Schillerpark - Vorstellung Gutachten Engelbecken und dazu Beratung zur DS 1860/V "Runder Tisch Engelbecken" (Jan.- Sitzung) - Beratung über die DS 1943/V "Die Zerstörung der Arroganz - Zukunft der Rehberge mit Bürger*innen gestalten" (vertagt, bis Sportentwicklungsplan vorliegt) - erledigt
