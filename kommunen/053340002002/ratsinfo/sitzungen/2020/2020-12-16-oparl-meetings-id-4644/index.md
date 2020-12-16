@@ -1,0 +1,84 @@
+# öffentliche/nichtöffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2020-12-16T17:00:00+01:00
+- Ende: 2020-12-16T18:35:00+01:00
+- Ort: Eurogress Aachen
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4644
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4644
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 04.11.2020 (öffentlicher Teil) - vertagt
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2020; Produkt 021501, Brandbekämpfung: Instandsetzung eines Löschfahrzeugs - ungeändert beschlossen
+- TOP 5: Einbringung des Haushaltsplanentwurfs 2021 mit Anlagen - ungeändert beschlossen
+- TOP 6: Entwurf Jahresabschluss 2019 der Stadt Aachen - zur Kenntnis genommen
+- TOP 7: 15. Änderungssatzung zur Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000 - ungeändert beschlossen
+- TOP 8: 5. Änderungssatzung zur Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - vertagt
+- TOP 9: 3. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 10: 8. Änderungssatzung zur Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung) vom 10.12.2008 - ungeändert beschlossen
+- TOP 11: 23. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachenhier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 12: 20. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungenhier: Gebührenanpassung - ungeändert beschlossen
+- TOP 13: Erlass von 25% der Beitragserhebung für die Betreuung von Kindern in den Kindertagesstätten im Zuge von COVID-19 für den Monat Januar 2021 - ungeändert beschlossen
+- TOP 14: Gestaffelter Beginn des Unterrichts an Aachener Schulen - Ratsantrag 002/18 vom 05.11.2020 der Fraktion DIE LINKE - vertagt
+- TOP 15: Änderung Nr. 148 des Flächennutzungsplanes 1980 -Vaalser Straße/ Neuenhofer Weg-hier: Änderungsbeschluss - geändert beschlossen
+- TOP 16: III. Änderung des Bebauungsplanes Nr. 888 - Krefelder Straße/ Soerser Weg -hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 17: Bericht der PKF Fasselt Partnerschaft mbB Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft Rechtsanwälte über den Jahresabschluss zum 31.12.2019 und Lagebericht für das Wirtschaftsjahr 2019 der eigenbetriebsähnlichen Einrichtung AachenerStadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für das Jahr 2019 - ungeändert beschlossen
+- TOP 18: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2019 - ungeändert beschlossen
+- TOP 19: Benehmensherstellung für die differenzierte Regionsumlage 2021 - zur Kenntnis genommen
+- TOP 20: Ratsresolution "Aachen wird sicherer Hafen" - vertagt
+- TOP 21: Landesprogramm „Gute Schule 2020“ - Bericht 2. Halbjahr 2020 - vertagt
+- TOP 22: Weiterführung des AWO Fanprojektes - ungeändert beschlossen
+- TOP 23: Bildung Dez. VII – Klima, Stadtbetrieb und Gebäude, Änderung des Dezernatsverteilungsplans und Ausschreibung der Stelle der/des Beigeordneten - ungeändert beschlossen
+- TOP 24: Bildung des Kinder- und Jugendausschusses, hier: Wahl der Vertretungen der freien Jugendhilfe - ungeändert beschlossen
+- TOP 25: Besetzung des Schulausschusses - Aufnahme der Bezirksschülervertretung - ungeändert beschlossen
+- TOP 26: Entsendung von Mitgliedern in diverse Ausschüsse des Rates der Stadt Aachen - ungeändert beschlossen
+- TOP 27: Entsendung von Vertretern in Gremien des Sparkassenzweckverbandes StädteRegion Aachen – Stadt Aachen und der Sparkasse Aachen - ungeändert beschlossen
+- TOP 28: Besetzung des Ausschusses für Soziales, Integration und Demographie; hier: Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 29: Benennung von Mitgliedern des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - ungeändert beschlossen
+- TOP 30: Schenkung an die städtische Kindertageseinrichtung Franz-Wallraff-Straße 2 - zur Kenntnis genommen
+- TOP 31: Anfragen:
+- TOP 31.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 31.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 32: Ratsanträge - zur Kenntnis genommen
+- TOP 33: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 33.1: Umbesetzungsantrag der Fraktion DIE Zukunft vom 25.11.2020 - ungeändert beschlossen
+- TOP 33.2: Umbesetzung Sportausschusshier: Schreiben des Stadtsportbundes Aachen e.V. vom 24.11.2020 - ungeändert beschlossen
+- TOP 33.3: Umbesetzungsantrag der CDU-Fraktion vom 30.11.2020 - ungeändert beschlossen
+- TOP 33.4: Umbesetzungsanträge der GRÜNE-Fraktion vom 25.11.2020 bzw. 27.11.2020 - ungeändert beschlossen
+- TOP 33.5: Umbesetzungsantrag der Fraktion DIE Zukunft vom 07.12.2020 - ungeändert beschlossen
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 35: Friedhofsgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2021 - - ungeändert beschlossen
+- TOP 36: Abfallgebührensatzung der Stadt Aachen - Gebührenbedarfsberechnung 2021 - - ungeändert beschlossen
+- TOP 37: Sondernutzungen für Gastronomiehier: temporäre Ergänzung der Sondernutzungssatzung bezügl. Außengastronomie gemäß § 8 Sondernutzungssatzung - ungeändert beschlossen
+- TOP 38: 1. Nachtrag zur Satzung über die Festlegung besonderer Merkmale der endgültigen Herstellung für die Erschließungsanlage Naumburger Straße - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
