@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2020-12-16T15:00:00+01:00
+- Ende: 2020-12-16T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4991
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4991
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00187785.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00187785.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00187785.pdf
+
+## Tagesordnung
+
+- TOP 1: Beitritt zur Initiative „Seebrücke – Schafft sichere Häfen“; hier: Antrag aus der Mitte des Rates nach § 3 Abs, 2 der Geschäftsordnung - Mit Stimmenmehrheit beschlossen
+- TOP 2: Verleihung Heimat-Preis der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 3: Wirtschaftsplan 2021 der mags AöR - Mit Stimmenmehrheit beschlossen
+- TOP 4: Vierter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfallgebührensatzung -AbfGS-), - Kenntnisnahme
+- TOP 5: Zweiter Nachtrag zur Satzung für die Friedhöfe in der Stadt Mönchengladbach; - Kenntnisnahme
+- TOP 6: Vierter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 7: Änderung des Kommunalverfassungsrechts, auch unter Berücksichtigung der Verweisung des Ausschusses für Anregungen und Beschwerden in seiner Sitzung am 09.12.2020 an den Rat zur Aufnahme eines Rederechtes für Petenten im Sinne des § 24 GO NRW (0252/X) - Einstimmiger Beschluss
+- TOP 7.1: Änderung der Geschäftsordnung des Rats, hier: - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Leistungsvereinbarungen Frauenhäuser - Einstimmiger Beschluss
+- TOP 9: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in NRW 2020 - Kenntnisnahme
+- TOP 10: Kanalgebühren 2021 - Einstimmiger Beschluss
+- TOP 11: Stellungnahme zum Entwurf der IV. Leitentscheidung - Einstimmiger Beschluss
+- TOP 11.1: 0255/X Stellungnahme der Stadt Mönchengladbach zum Entwurf der IV. Leitentscheidung der Landesregierung - Siehe Niederschrift
+- TOP 12: 15. Konferenz der Ratsmitglieder beim Städtetag NRW am 16.12.2020 (Videokonferenz); Genehmigung einer Dringlichkeitsentscheidung des Hauptausschusses vom 09.12.2020 (Vorlage 0311/X) - Einstimmiger Beschluss
+- TOP 13: Benennung der sachkundigen Einwohner*innen und ihrer Stellvertreter*innen für die Ausschüsse des Rates - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 14: Benennung eines Mitgliedes für die kommunale Beratungskommission in ausländerrechtlich Härtefällen (sog. Härtefallkommission) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15: HSP-Umsetzungsbericht 30.09.2020 - Kenntnisnahme
+- TOP 16: Finanzbericht Corona - Kenntnisnahme
+- TOP 17: Verschmelzung der Flughafen Mönchengladbach Grundstücksverwaltungsgesellschaft mbH (GVG) auf die Flughafengesellschaft Mönchengladbach GmbH (FMG) - Einstimmiger Beschluss
+- TOP 18: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2019 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 19: Entlastung der Sparkassenorgane für das Geschäftsjahr 2019 - Einstimmiger Beschluss
+- TOP 20: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (3.Nachweisung) - Kenntnisnahme
+- TOP 21: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich Personalbetreuung für Transferaufwendungen GMMG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 22: Gültigkeit der Kommunalwahlen am 13.09.2020 sowie der Stichwahl zur Wahl des Oberbürgermeisters - Einstimmiger Beschluss
+- TOP 23: Gültigkeit der Wahl der Mitglieder des Integrationsrates der Stadt Mönchengladbach am 13.09.2020 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: 2. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 25: Zweckverband Studieninstitut Niederrhein (S.I.N.N.) - Einstimmiger Beschluss
+- TOP 26: Ersatzwahl eines Mitglieds und eines stellvertretenden Mitglieds für die Zweckverbandsversammlung der ITK Rheinland - Einstimmiger Beschluss
+- TOP 27: Erhöhung der Regelzügigkeit an der Geschwister-Scholl-Realschule - Einstimmiger Beschluss
+- TOP 28: Teilnahme am Förderprogramm „Investitionspakt zur Förderung von Sportstätten 2020 und 2021„ – Sanierung und Modernisierung Gebäude und Außenanlagen Haus des Sports - Einstimmiger Beschluss
+- TOP 29: Kunststiftung im Museum Abteiberg - Bestellung der Kuratoriumsmitglieder - Einstimmiger Beschluss
+- TOP 30: Verlängerung der Leistungsvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchengladbach e.V. über die Erbringung von Fachleistungsstunden im Rahmen der Kooperation mit dem städtischen Familienzentrum Mühlenstraße 47 in Mönchengladbach - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 31: Kinderstark - NRW schafft Chancen - Einstimmiger Beschluss
+- TOP 32: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ gemäß § 13 I der Betriebssatzung für die Wirtschaftsjahre 2021/2022 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 33: Wirtschaftsplan GMMG 2021/2022 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Bewerbung als Austragungsort und Spielstätte zur Fußball-Frauen-WM 2027 - Antrag der CDU-Ratsfraktion - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 35: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 36: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 01.12.2020 - Einstimmiger Beschluss
+- TOP 37: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 02.12.2020 - Einstimmiger Beschluss
+- TOP 38: Besetzung von Gremien; hier: Antrag der CDU-Ratsfraktion vom 04.12.2020 - Einstimmiger Beschluss
+- TOP 39: Umbesetzung von Ausschüssen; hier: Antrag der AfD-Ratsfraktion vom 06.12.2020 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 40: Anfragen und Mitteilungen
+- TOP 40.1: Anfrage von RH Safi (SPD) zu politischen Sitzungen während der Coronazeit
+- TOP 40.2: Mitteilung von Stadtdirektor und techn. Beigeordneten Dr. Bonin zum Polizeipräsidium
+- TOP 40.3: Mitteilung von Stadtkämmerer Heck zum kommunalaufsichtsrechtlichen Verfahren zu share2drive
+- TOP 40.4: Mitteilung von Beigeordnete Schall zu einem Gutachten bezogen auf share2drive
+- TOP 40.5: Mitteilung von Oberbürgermeister Heinrichs zur aktuellen Coronalage
