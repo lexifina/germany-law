@@ -1,0 +1,62 @@
+# **Corona/ Beschlüsse via Dringlichkeit gefasst**- öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2020-12-16T15:00:00+01:00
+- Ende: 2020-12-16T16:25:00+01:00
+- Ort: Die Sitzung ist abgesagt!!!!!
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2814
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/2814
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 16.12.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00064191.pdf
+- Ergebnisprotokoll: Einladung Kreistag 16.12.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00064191.pdf
+- Wortprotokoll: Einladung Kreistag 16.12.2020 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00064191.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Verpflichtung und Einführung von Kreistagsabgeordneten
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Ausschussumbesetzungsantrag der SPD-Kreistagsfraktion vom 09.12.2020
+- TOP 3.2: Ausschussumbesetzungsantrag der CDU-Kreistagsfraktion vom 10.12.2020
+- TOP 3.3: Ausschussumbesetzungsantrag der Kreistagsfraktion Bündnis 90/Die Grünen vom 10.12.2020
+- TOP 3.4: Ausschussumbesetzungsantrag der Kreistagsfraktion UWG/ FW RKN/ Zentrum vom 10.12.2020
+- TOP 3.5: Ausschussumbesetzungsantrag der FDP-Kreistagsfraktion vom 14.12.2020
+- TOP 4: Ausschuss für Soziales und Wohnen - Beratende Mitglieder
+- TOP 5: Prüfung der Wahl zum Kreistag und zum Landrat des Rhein-Kreises NeussPrüfung der Wahl zum Kreistag und zum Landrat des Rhein-Kreises Neuss
+- TOP 6: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2019
+- TOP 7: Über-/ und außerplanmäßige Aufwendungen/Auszahlungen gemäß § 53 KrO NRW in Verbindung mit § 83 GO NRW
+- TOP 8: Einbringung des Entwurfs der Haushaltssatzung des Rhein-Kreises Neuss für das Jahr 2021
+- TOP 9: Einbringung des Entwurfs des Gesamtabschlusses zum 31.12.2018
+- TOP 10: Haushaltsentwicklung 2020 und finanzielle Lage nach § 2 Abs. 2 NKF-COVID-19-Isolierungsgesetz NRW sowie außerplanmäßige Bereitstellung von weiteren Finanzmitteln für Maßnahmen im Zusammenhang mit der Bewältigung der Corona-Krise
+- TOP 11: Verbindliche Bedarfsplanung für den Rhein-Kreis Neuss
+- TOP 12: Satzung über die Erhebung von Elternbeiträgen im Rahmen der offenen Ganztagsschulen
+- TOP 13: Auswirkungen des Struktur- und Klimawandels auf die Bildungslandschaft des Rhein-Kreises Neuss
+- TOP 14: Errichtung eines dualen Bildungsgangs Elektroniker/in für Gebäudesystemintegration am BBZ Neuss-Hammfeld
+- TOP 15: Errichtung einer Fachschule für Technik, Fachrichtung Umweltschutztechnik, am BBZ Dormagen
+- TOP 16: Sanierung und Modernisierung des Berufsbildungszentrums des Rhein-Kreises Neuss in Dormagen
+- TOP 17: Klimaschutz durch Bauen und Sanieren
+- TOP 18: Abfallgebühren 2021
+- TOP 19: Anpassung der Rettungsdienst-Gebührensatzung zum 01.01.2021
+- TOP 20: Gesellschaftsvertrag der „Service- und Koordinierungsgesellschaft für preisgünstigen Wohnraum Rhein-Kreis Neuss mbH"
+- TOP 21: Beitritt des Rhein-Kreises Neuss zum "Wasserstoff Hub Rhein-Kreis Neuss/Rheinland e. V."
+- TOP 22: Anträge
+- TOP 22.1: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Bildungskarte
+- TOP 22.2: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Digitalisierungsstrategie
+- TOP 22.3: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Radwegekonzept Kreisstraßen 2013
+- TOP 22.4: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Fördermittel für ein Klimaschutzkonzept
+- TOP 22.5: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Rhein-Kreis-Neuss-Pass
+- TOP 22.6: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema "RKNApp" bis 2022
+- TOP 22.7: Antrag der SPD- Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Breitband-, Glasfaser- und 5G-Ausbau
+- TOP 22.8: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Wohnungsbedarfsanalyse
+- TOP 22.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.10: Antrag der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Anschlussstelle Delrath
+- TOP 22.11: Antrag der AfD-Kreistagsfraktion vom 06.12.2020 zum Thema "wöchentlicher COVID-19 Bericht"
+- TOP 23: Mitteilungen
+- TOP 23.1: Sitzungskalender 2021
+- TOP 24: Anfragen
+- TOP 24.1: Anfrage der SPD-Kreistagsfraktion und der Fraktion Bündnis 90/ Die Grünen vom 02.12.20 zum Thema Revier S-Bahnen
+- TOP 24.2: Anfrage der SPD-Kreistagsfraktion vom 07.12.2020 zum Thema "Wohn- und Beratungsagentur für preiswertes Wohnen im Rhein-Kreis Neuss – Servicegesellschaft"
+- TOP 24.3: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 11.12.2020 zum Thema "Anschlussstelle Delrath"
+- TOP 25: Einwohnerfragestunde
