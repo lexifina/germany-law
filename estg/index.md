@@ -154,7 +154,7 @@
 - [§ 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen](0032d.md)
 - [§ 33 Außergewöhnliche Belastungen](0033.md)
 - [§ 33a Außergewöhnliche Belastung in besonderen Fällen](0033a.md)
-- [§ 33b Pauschbeträge für behinderte Menschen, Hinterbliebene und Pflegepersonen](0033b.md)
+- [§ 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen](0033b.md)
 - [§ 34 Außerordentliche Einkünfte](0034.md)
 - [§ 34a Begünstigung der nicht entnommenen Gewinne](0034a.md)
 - [§ 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen](0034b.md)

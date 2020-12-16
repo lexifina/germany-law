@@ -16,7 +16,7 @@
 - [§ 7 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage](0007.md)
 - [§ 8 Unterstützende Leistungen](0008.md)
 - [§ 9 Datenübermittlung zwischen den Behörden](0009.md)
-- [§ 10 Aufhebung von Rechtsverordnungen und Maßnahmen](0010.md)
+- [§ 10 Aufhebung von Maßnahmen](0010.md)
 
 ## Abschnitt 3 Maßnahmen zur Vorsorge für eine Versorgungskrise
 
