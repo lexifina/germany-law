@@ -1,0 +1,70 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2020-12-16T17:00:00+01:00
+- Ende: 2020-12-16T19:54:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf2_6toJlIynanYMsYT7kY0
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4482
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFkiChjcYQ0zueYyRKCvvwusMycY2NLitL0HcoZhB1W/Bekanntmachung_Rat_16.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeC8MW3Mk_3lb7IqHXDwL-fdlp9rnCJoOWlkTS3YpMDA/Oeffentliche_Niederschrift_Rat_16.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 07.10.2020
+- TOP 3.: Niederschrift vom 18.11.2020
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion pro:Bürgerschaft vom 30.11.2020; „Statt „Container-Lösungen“: aufstehende (städtische) Gebäude auf dem GERMANIA-Areal in Gronau-Epe nutzbar machen“
+- TOP 4.1.1: Antrag der Fraktion pro:Bürgerschaft vom 30.11.2020; „Statt „Container-Lösungen“: aufstehende (städtische) Gebäude auf dem GERMANIA-Areal in Gronau-Epe nutzbar machen“
+- TOP 4.2: Antrag der FDP-Fraktion vom 30.11.2020; „Kultur und Bildung stärken – Gründung einer (Jugend-)Kunstschule in Gronau“ - 21 Jastimmen, 8 Neinstimmen, 16 Enthaltungen
+- TOP 4.3: Antrag der UWG-Fraktion vom 11.12.2020; Aufstellung eines Bebauungsplanes am Hauskamp in Epe
+- TOP 5.: Errichtung eines Kunstrasenplatzes auf dem Gelände der SG Gronau 09/21 e.V. - Einstimmig, 0 Enthaltungen
+- TOP 6.: Vorstellung der fortgeschriebenen Schulentwicklungsplanung - Einstimmig, 0 Enthaltungen
+- TOP 7.: Kinder- und Jugendförderplan 2020 - 2025 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jugendhilfeplanung - Betreuungsplätze für Kinder in Kindertageseinrichtungen und Kindertagespflege, Teil I - Bedarfsplanung 2020 bis 2024 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Schaffung von 20 provisorischen U3-Plätzen in Trägerschaft der Stadt Gronau sowie die Schaffung von 5,5 neuen Stellen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Zukunft des Drilandmuseums, hier: Qualifizierung des Drilandmuseums zur finanziellen Förderung durch das LWL-Museumsamt für Westfalen - Einstimmig, 0 Enthaltungen
+- TOP 11.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2021 II. Abwassergebührenkalkulation für das Jahr 2021 III. Erlass einer Änderungssatzung zur Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jahresabschluss 2019 der Forstdienstleistungen Gronau GbR - Einstimmig, 2 Enthaltungen
+- TOP 13.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahre 2019 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wirtschaftsplan 2021 der Zentralen Bau- und Umweltdienste - Einstimmig, 0 Enthaltungen
+- TOP 15.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2018 - Bestätigung und Feststellung des Gesamtergebnisses - Behandlung des Gesamtjahresfehlbetrags - Einstimmig, 0 Enthaltungen
+- TOP 16.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2018 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 17.: Jahresabschluss der Stadt Gronau (Westf.) für das Haushaltsjahr 2019 Prüfung durch den Rechnungsprüfungsausschuss Feststellung durch den Rat - Einstimmig, 0 Enthaltungen
+- TOP 18.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2019 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 19.: Erhöhung des Betriebskostenzuschusses für die Chance gGmbH
+- TOP 19.1: Erhöhung des Betriebskostenzuschusses für die Chance gGmbH - 33 Jastimmen, 2 Neinstimmen, 10 Enthaltungen
+- TOP 20.: Erhebung von Straßenbaubeiträgen in Gronau – Auswirkungen der Änderung des Kommunalabgabengesetzes, Beschluss des Straßen- und Wegekonzeptes - Einstimmig, 2 Enthaltungen
+- TOP 21.: Neue Gebührensatzung für das Standesamt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 22.: 26. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 23.: Abfallgebührenbedarfsberechnung 2021 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Digitalisierung Sitzungsunterlagen (weitere Gremienmitglieder) - Einstimmig, 0 Enthaltungen
+- TOP 25.: Budgetentwurf 2021 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Festlegung der Befugnisse der Ausschüsse nach § 58 der Gemeindeordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 27.: 7. Änderungssatzung zur Hauptsatzung der Stadt Gronau
+- TOP 27.1: 7. Änderungssatzung zur Hauptsatzung der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 28.: Bildung und Zusammensetzung von Arbeitskreisen - Einstimmig, 1 Enthaltungen
+- TOP 29.: Benennung von Vertreterinnen/ Vertretern in der Schulkonferenz - Einstimmig, 0 Enthaltungen
+- TOP 30.: Vermüllung der Containerstandorte
+- TOP 31.: 106. Änderung des Flächennutzungsplans Bebauungsplan Nr. 198 "Euregio-Quartier 1a" Aufstellungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 32.: Bebauungsplan Nr. 251 "Wolbertskamp-Fortsetzung", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13b BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Berichtigung des Flächennutzungsplans - Einstimmig, 3 Enthaltungen
+- TOP 33.: Bebauungsplan Nr. 193 "Am Blütenhain", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 34.: Änderung der Gesellschaftsverträge der WGG Wohnbau- und Grundstücksgesellschaft der Stadt Gronau (Westf.) GmbH & Co.KG sowie der WGG Verwaltungsgesellschaft mbH - Einstimmig, 0 Enthaltungen
+- TOP 35.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 1 Enthaltungen
+- TOP 36.: Sachstandsbericht der Verwaltung zur Corona-Pandemie (Stand 09.12.2020)
+- TOP 37.: Terminplanung für das 3. und 4. Quartal 2020 sowie für das Jahr 2021
+- TOP 38.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 39.: Mitteilungen der Verwaltung
+- TOP 39.1: Rathausleerzug
+- TOP 39.2: Digitale Ratsarbeit - iPads
+- TOP 39.3: Bebauungsplan Lennéstraße
+- TOP 39.4: Förderbescheide Innenstadt - Leerstandsmanagement für Gronau und Epe
+- TOP 39.5: Innenstadtneugestaltung (1. Bauabschnitt)
+- TOP 39.6: Ausgleichszahlung für coronabedingte Gewerbesteuermindererträge
+- TOP 40.: Anfragen
+- TOP 40.1: Offene Anfrage (Anfrage von RM Buchholz)
