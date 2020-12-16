@@ -1,0 +1,4 @@
+# § 2a Private Zusammenkünfte
+(1) Private Zusammenkünfte mit Freunden, Verwandten und Bekannten sind abweichend von § 2 Absatz 1 Satz 1 auch in Wohnungen nebst dem befriedeten Besitztum nur mit Personen aus einem weiteren Hausstand und in diesem Fall nur mit höchstens fünf Personen erlaubt, wobei Kinder bis zu einem Alter von 14 Jahren nicht einzurechnen sind.
+(2) In der Zeit vom 24. Dezember 2020 bis 26. Dezember 2020 sind private Zusammenkünfte auch mit höchstens vier über den eigenen Hausstand hinausgehenden Personen aus dem engsten Familienkreis erlaubt, wobei Kinder bis zu einem Alter von 14 Jahren nicht einzurechnen sind. Zum engsten Familienkreis nach Satz 1 zählen die in § 1 Absatz 2 Nummer 1 aufgeführten Personen.
+(3) Absatz 1 und 2 gelten nicht für Zusammenkünfte von Personen nach § 1 Absatz 2 Nummer 2 und 4.
