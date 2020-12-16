@@ -1,0 +1,122 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Tagesordnung auf Beschluss der Sondermittel reduziert - Tagungsort Rathaus Schöneberg
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2020-12-16T17:00:00+01:00
+- Ende: 2020-12-16T17:10:00+01:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6155
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6155
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=369545
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - (offen)
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Mobbing abschaffen - vertagt
+- TOP 4.2: Radweg auf der Kolonnenstraße zwischen der Kolonnen- und der Julius-Leber-Brücke - vertagt
+- TOP 4.3: Errichtung eines Blitzers vor der Nahariya-Grundschule - vertagt
+- TOP 5: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 6: Unerledigte Drucksachen - im Ausschuss abgelehnt
+- TOP 6.1: Vermeiden von Verspätungen durch zweistöckige Busse - vertagt
+- TOP 6.2: Sitzungssäle pandemiefähig machen – Veranstaltungstechnik anschaffen - vertagt
+- TOP 6.3: Wie bürgerfreundlich sind unsere bürgernahen Dienstleistungen? - vertagt
+- TOP 6.4: Priesterweg kurzfristig für den Fahrradverkehr besser nutzbar machen - vertagt
+- TOP 6.5: Fahrpreiserhöhung bei den öffentlichen Verkehrsmitteln zurücknehmen - vertagt
+- TOP 6.6: BVV an der Jury zur Verteilung der Spendengelder für den Schöneberger Norden beteiligen - vertagt
+- TOP 6.7: Kinder nicht abhängen - vertagt
+- TOP 6.8: Fußwege im Baustellenbereich zum S-Bahnhof Lichtenrade vernünftig ausleuchten - vertagt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Friedenauer Höhe: Wann wird der Stillstand beendet? - vertagt
+- TOP 8.2: Infektionsschutz im Kinderschutz - Maßnahmen für RSD-Mitarbeitende - vertagt
+- TOP 8.3: Religiöses Mobbing an Schulen in Tempelhof-Schöneberg - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2019 - vertagt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Endlich das Schulmittagessen bezahlen - vertagt
+- TOP 10.2: Kältehilfeplätze für Obdachlose mit Rollstuhl schaffen – Obdachlose nicht sterben lassen - vertagt
+- TOP 10.3: Tisch und Bänke auf dem Platz des Picknicks wieder herstellen - vertagt
+- TOP 10.4: Warmes Essen für Obdachlose während der Pandemiezeit ermöglichen - vertagt
+- TOP 10.5: Denk mal! Kolonialgeschichte in Friedenau sichtbar machen - vertagt
+- TOP 10.6: Bürgergärten Frobenstraße dauerhaft sichern - vertagt
+- TOP 10.7: Stellenbesetzung einer/eines Beauftragten für Menschen mit Behinderung unverzüglich beschleunigen und abschließen – Geschäftsfähigkeit des Beirates von und für Menschen mit Behinderung nicht gefährden! - vertagt
+- TOP 10.8: Vorbild Pankows folgen – Smileysystem zur Information über Lebensmittelkontrollen unverzüglich einführen - vertagt
+- TOP 10.9: Frauen in Krisen nicht alleine lassen - vertagt
+- TOP 10.10: Park am Innsbrucker Platz wieder herstellen - vertagt
+- TOP 10.11: Radfahrer*innen schützen - gefährlichen Kreuzungsbereich am Prellerweg Ecke Munsterdamm entschärfen! - vertagt
+- TOP 10.12: Anbindung der südlichen Ortsteile unseres Bezirks ans Radschnellwegenetz durch eine Süd-Route - vertagt
+- TOP 10.13: Ein Präsentationsraum für die Lette-Schule - vertagt
+- TOP 10.14: Umbau der Grunewaldstraße zwischen Kleistpark und Bamberger Straße - vertagt
+- TOP 10.15: Der Zukunft nicht mehr hinterherhinken: Installation von Glasfaseranschlüssen an allen Schulen vorantreiben - vertagt
+- TOP 10.16: Schulen Sicherheit für digitalen Unterricht geben - vertagt
+- TOP 10.17: Ein Nachschlag für Dora Duncker - vertagt
+- TOP 10.18: Aufwertung Grünflächen Hohenstaufenstraße 1-2 - vertagt
+- TOP 10.19: Die Gemeinschaftsschule ist eine eigenständige Schulart und keine Integrierte Sekundarschule – endlich eigene Schulkennung für Gemeinschaftsschulen einführen! - vertagt
+- TOP 10.20: Als Fußgänger sicherer über die Straße an der Umleitungsstrecke Goltzstraße/Briesingstraße - vertagt
+- TOP 10.21: Sanierung für den Straßenabschnitt Feurig-/Herbertstraße planen - vertagt
+- TOP 10.22: Mehr Bänke am Tempelhofer Damm - vertagt
+- TOP 10.23: Sportplatz am Tempelhofer Weg in Nelly-Neppach-Sportplatz umbenennen - vertagt
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Tempelhof-Schöneberg wird kinderfreundliche Kommune - vertagt
+- TOP 12.2: Verkehrssicherheit für Fußgänger*innen am Knotenpunkt Hauptstraße Ecke Albertstraße bzw. Eisenacher Straße - vertagt
+- TOP 12.3: Feuerwerkslärm und Feinstaubbelastung - vertagt
+- TOP 12.4: Wenn niemand was tut: Müllablagerung Kolonie General-Pape-Straße Tor 2 - vertagt
+- TOP 12.5: Neue Mobilitätsangebote gemeinsam mit dem Parkraummanagement umsetzen - vertagt
+- TOP 12.6: Gedenkorte retten! - vertagt
+- TOP 12.7: Strategie für Potse und Drugstore im Bezirk entwickeln - vertagt
+- TOP 12.8: Bürgerbeteiligung bei temporären Spielstraßen - vertagt
+- TOP 12.9: Bewässerung von Straßenbäumen - vertagt
+- TOP 12.10: Luisenmühle nicht vergessen - vertagt
+- TOP 12.11: Fußgängerverkehr Martin-Luther-Straße Ecke Fuggerstraße - vertagt
+- TOP 12.12: Computer für den Kita-Eigenbetrieb Südwest - vertagt
+- TOP 12.13: Bäume für die Potse - vertagt
+- TOP 12.14: Fregestraße in Friedenau verkehrlich beruhigen - vertagt
+- TOP 12.15: Keine Umgehung des Vorkaufsrechts durch Share Deals - vertagt
+- TOP 12.16: Festsetzung des Bebauungsplans 7-87 für die Grundstücke Steinstraße 37-44, Bahnhofstraße 30-32 sowie eine nördlich angrenzende Teilfläche des Parkplatzes Steinstraße und südlich angrenzenden Teilflächen entlang der Bahnhofstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - vertagt
+- TOP 12.17: Verbesserung von Straßenbaumstandorten in der Albrechtstraße - vertagt
+- TOP 12.18: Grünfläche zwischen General-Pape-Straße/Kolonnenstraße insekten-freundlich gestalten! - vertagt
+- TOP 12.19: Fußgängerübergang zum Aufzug U-Bahn von der Westseite des Platzes sicher machen - vertagt
+- TOP 12.20: Busspur in der Kolonnenstraße - vertagt
+- TOP 12.21: Aufhebung Parkverbot Kolonnenstraße - vertagt
+- TOP 12.22: Einsätze des Ordnungsamts systematisch erfassen - vertagt
+- TOP 12.23: Schulen winterfest machen - vertagt
+- TOP 12.24: Langfristige Sicherung der bezirklichen Kleingartenanlagen - vertagt
+- TOP 12.25: U-Bahn-Eingänge am Friedrich-Wilhelm-Platz durch historische Motive gestalten - vertagt
+- TOP 12.26: Gedenken für entrechtete Bezirks- und Stadtverordnete 1933 im Bezirk (II) - vertagt
+- TOP 12.27: Sportplatz Wiesbadener Straße für den Sportunterricht und den Pausenhofbetrieb des Rheingau-Gymnasiums gerade in Corona-Zeiten erhalten - vertagt
+- TOP 12.28: Evaluierung für Mengenzählung und Preisbildung für die neuen Produkte der Jugendarbeit im Rahmen des Jugendförder- und Beteiligungsgesetzes - vertagt
+- TOP 12.29: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 20 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.30: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 25 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.31: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 27 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bezirklicher Wirtschaftsbericht - vertagt
+- TOP 13.2: InfoCompass als Informationsstelle für Geflüchtete künftig auch in Tempelhof-Schöneberg! - vertagt
+- TOP 13.3: Einrichtung einer gymnasialen Oberstufe am Standort Friedenauer Gemeinschaftsschule - vertagt
+- TOP 13.4: Bericht über den Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung innderhalb des S-Bahn-Rings - vertagt
+- TOP 13.5: Prämie für innovative Vorschläge - vertagt
+- TOP 13.6: Berlin Tourist Info Center auch auf der Schöneberger Linse - vertagt
+- TOP 13.7: Familienfreundliche Arbeitszeitmodelle auch für Reinigungsdienstleistungen schaffen - vertagt
+- TOP 13.8: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm - vertagt
+- TOP 13.9: Städtepartnerschaft London Borough of Barnet und Bezirk Tempelhof-Schöneberg durch Schulen ausbauen - vertagt
+- TOP 13.10: Ampelanlage am St.-Matthias-Friedhof in der Röblingstraße - vertagt
+- TOP 13.11: Städtepartnerschaftstafeln aktualisieren: Beschlusslage umsetzen! - vertagt
+- TOP 13.12: Grünanlagen im Zeichen der Klimaerwärmung - vertagt
+- TOP 13.13: Gehwegflächen im Rudolph-Wilde-Park sanieren - vertagt
+- TOP 13.14: Kostenloses W-LAN für alle Einrichtungen von Vivantes und der Charité Berlin: Coronabedingte Kontakteinschränkungen abmildern - vertagt
+- TOP 13.15: Ausweitung der deutsch-französischen Freundschaft – Bürgerfonds nutzen - vertagt
+- TOP 13.16: Sportparcours an der Heilandsweide - vertagt
+- TOP 13.17: Lichtenrade dämmt den Lärm der Dresdner Bahn - vertagt
+- TOP 13.18: Bestattungsmöglichkeiten für „Sternenkinder“ auf den kommunalen Friedhöfen schaffen - vertagt
+- TOP 13.19: Verbot von Heizpilzen in der Wintersaison 2020/21 für die Außengastronomie aussetzen - vertagt
+- TOP 13.20: Wasseranschluss am Friedrich-Wilhelm-Platz für ehrenamtliche Grünpflege - vertagt
+- TOP 13.21: Einleitung des Verfahrens zur Aufstellung des vorhabenbezogenen Bebauungsplanes 7-85 VE für Teilflächen der Grundstücke Eisenacher Straße 61 und Ullsteinstraße 91 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - vertagt
+- TOP 13.22: Weiterführung des Präventionsrates Schöneberger Norden ab 2021 - vertagt
+- TOP 13.23: Einrichtung einer bezirklichen Koordinierungsstelle für Alleinerziehende - vertagt
+- TOP 13.24: Etablierung des Spendenfonds für die Vergabe von Spendenmitteln im Schöneberger Norden - vertagt
+- TOP 14: Termin der nächsten Sitzung - erledigt
