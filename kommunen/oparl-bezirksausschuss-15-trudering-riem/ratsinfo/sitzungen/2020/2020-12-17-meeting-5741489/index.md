@@ -1,0 +1,194 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2020-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5741489
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5741489
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 2.4: UA Planung
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.4.1.: Birkhahnweg 2 - Neubau eines Mehrfamilienhauses mit Garagen
+- TOP 7.4.2.: Xaver-Weismor-Str. 56 - Neubau einer Wohnanlage mit 2 Baukörpern (13 WE) und gemeinsamer Tiefgarage (18 Stpl.)
+- TOP 7.4.3.: Bajuwarenstr. 46 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.4.: Wasserburger Landstr. - Neubau einer Wohnanlage (151 WE) mit Tiefgarage (143 Stpl.) und Gewerbeflächen (4 GE) - TEKTUR zu 1.2-2017-27605-32 / hier: Nutzungsänderung der Gewerbeeinheiten 01 + 04
+- TOP 7.4.5.: Wasserburger Landstr. 265 - Errichtung eines Arbeiterwohnheims mit Wohnung des Eigentümers und Tiefgarage
+- TOP 7.4.6.: Westermeierstr. 33 - Neubau einer Doppelhaushälfte
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.3.: BA-Flyer
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.6: UA Umwelt
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Bürgerzentrum Trudering e.V. Anschaffung einer Streaming-Anlage 13.703,08 € / Az. 0262.0-15-0369
+- TOP 2.1.2.: (E) Stadtbezirksbudget Initiative "Decamerone" "Decamerone 2020" vom 02.01. - 31.03.2021 1.826,87 € / Az. 0262.0-15-0370
+- TOP 2.1.3.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-15-0366
+- TOP 2.1.4.: (E) Stadtbezirksbudget BIKU e.V. Mädchen an den Ball! vom 01.03. - 31.12.2021 6.600,00 € / Az. 0262.0-15-0378
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung einer Teilstrecke des Horst-Salzmann-Weges
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Werner-Eckert-Straße: Aufhebung der Verbindungssperre zum Edinburghplatz
+- TOP 3.2.2.: Bajuwarenstraße: Fehlender Fahrradweg nach Straßenrenovierung
+- TOP 3.2.3.: Sanierung von Radwegen: I. Auswechseln des Kopfsteinpflasters II. Nachziehen der roten Markierungen
+- TOP 3.2.4.: Truderinger Straße: Weiterführung des Radweges nach Berg am Laim
+- TOP 3.2.5.: Schatzbogen / Riemer Straße: Änderung der Kreuzung
+- TOP 3.2.6.: Schatzbogen / Halfinger Straße: Umprogrammieren der Ampel
+- TOP 3.2.7.: Am Moosfeld / Thomas-Hauser-Straße / Xaver-Weismor-Straße: Umwandlung in eine Anliegerstraße
+- TOP 3.2.8.: Bahnhof Trudering: Umgestaltung des Taxi-Standplatzes
+- TOP 3.2.9.: Friedenspromenade: Nichtbeachtung der T30-Zone
+- TOP 3.2.10.: Leonhardiweg / Ilmstraße: Verschärfung der Verkehrssituation
+- TOP 3.2.11.: Waldschulstraße: Einrichtung eines Fußgängerüberwegs
+- TOP 3.2.12.: Sigmund-Riefler-Bogen: Aufstellen von E-Ladesäulen
+- TOP 3.2.13.: Ruppanerstraße: Fehlende Parkplätze
+- TOP 3.2.14.: Am Hochstand: Versetzen des Haltverbotsschildes in Richtung Graf-Spree-Platz
+- TOP 3.2.15.: Bürgermeister-Keller-Straße: Verkehrsberuhigung zwischen Salzmesserstraße und Lehrer-Götz-Weg
+- TOP 3.2.16.: Elfriedenstraße: Sicherung des Einfahrtbereiches durch ein Haltverbot
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Mönchbergstraße Ecke Bajuwarenstraße: Dialog zur sinnvollen Grundstücksnutzung
+- TOP 3.3.2.: Bedenken gegen ein überproportionales Wachstum des Stadtbezirks
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Willy-Brandt-Platz: Belebungs- und Nutzungs-Vorschlag als "Flow Wheeler"-Fläche
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Selma-Lagerlöf-Straße: Aufstellung von Abfalleimern am neu bepflanzten Platz
+- TOP 3.6.2.: Waldtrudering: Erhöhte Feinstaubbelastung
+- TOP 3.6.3.: Riemer See: Aufstellen einer Umkleidekabine
+- TOP 3.6.4.: Messestadt Riem: Aufnahme der Straßen und Plätze in das Vollanschlussgebiet der städtischen Straßenreinigung
+- TOP 3.6.5.: Willy-Brandt-Platz: Parkbänke als Anreiz zur Versammlung mir erhöhter Covid19-Infektionsgefahr
+- TOP 3.6.6.: Halfinger Straße / Schatzbogen: Bitte um Heckenschnitt
+- TOP 3.6.7.: Messestadt: Verteilung von Flugblättern durch Wind
+- TOP 3.6.8.: Selma-Lagerlöf-Straße: Verstärkte Bepflanzung und Pflege der öffentlichen Grünflächen
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Gestaltung der Südfassade des Seekiosks
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.6.1.: Gestaltung der Südfassade des Seekiosks
+- TOP 4.6.2.: Vermietung/Verpachtung des Kiosk am Riemer See mit verbesserten Qualitätskriterien neu ausschreiben
+- TOP 4.6.3.: Naturpädagogik an Grundschulen rund um den Riemer Park
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Bau des geplanten Sozialbürgerhauses am Truderinger Bahnhof und weitere Nutzung des Gebäudes
+- TOP 4.7.2.: Sportförderung von Frauen und Mädchen
+- TOP 4.7.3.: Grundschulgrundstück im Bereich des 5. Bauabschnitts / Arrondierung Kirchtrudering
+- TOP 4.7.4.: Endgültige Gestaltung des Elisabeth-Castonier-Platzes - Zentrum Messestadt Ost
+- TOP 4.7.5.: Aufstellung von Müllbehältern rund um den Riemer See
+- TOP 4.7.6.: "Baby it&#039;s cold outside" - Wann kommt die abendliche Anschlusssicherung am Bf. Trudering?
+- TOP 4.7.7.: Lademöglichkeiten für Elektroräder nachrüsten
+- TOP 4.7.8.: Anfrage zum Corona-Impfzentrum in der Messestadt
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: BA-Budget / Bestellung städtischer Leistungen - Folgekosten können nicht von den BAs geschultert werden BA-Antrag Nr. 20-26 / B 00778 vom 24.09.2020
+- TOP 5.1.2.: Einrichten von Livestreams bei den Plenumssitzungen des BA 15 zum Schutz der Gesundheit sowie zum Ermöglichen der Teilhabe und der Transparenz
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: (E) Sanierung von Fuß- und Radwegen im Stadtbezirk 15; Horst-Salzmann-Weg (Ziffer 3) Wasserburger Landstraße zur St.-Augustinus-Straße (Ziffer 4) Am Hochacker zur Fauststraße (Ziffer 5) Empfehlung Nr. 14-20 / E 02861 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 10.10.2019 Sanierung von Fuß- und Radwegen im Stadtbezirk 15: Horst-Salzmann-Weg (Ziffer 3) Wassserburger Landstraße zur Augustinusstraße (Ziffer 4) Am Hochacker zur Fauststraße (Ziffer 5) Zwischenstandsmeldung
+- TOP 5.2.2.: Riem Arcaden: Fehlende Barrierefreiheit durch defekte Türen
+- TOP 5.2.3.: Straßenverlauf und Parkregelung in der Solalindenstraße Ecke Wasserburger Landstraße
+- TOP 5.2.4.: Astrid-Lindgren-Straße: Maßnahmen gegen überfüllte Parkplatzsituation
+- TOP 5.2.5.: Friedenspromenade: Unzureichende Beachtung des Zebrastreifens, Forderung nach zusätzlicher Maßnahme zur Verkehrsberuhigung
+- TOP 5.2.6.: Wasserburger Landstraße: Überprüfung des Lärmaufkommens und Maßnahmen zur Geräuschreduzierung
+- TOP 5.2.7.: Zehntfeldstraße: Erhebliche Geschwindigkeitsüberschreitungen in der T30-Zone
+- TOP 5.2.8.: Von Schondorf lernen: Pilotprojekt „Miteinanderweg“ für Trudering-Riem
+- TOP 5.2.9.: Waldtrudering: Einhaltung der Geschwindigkeitsbegrenzung der T30-Zonen
+- TOP 5.2.10.: Groschenweg Ecke Böcklerstraße: Forderung nach T30 oder Durchfahrverbot für Schwerverkehr
+- TOP 5.2.11.: Batschkastrasse, Oberseestraße, Königseestraße und Friedenspromenade: Maßnahmen gegen Gehwegparker
+- TOP 5.2.12.: Bahn-Unterführung Lehrer-Götz-Weg, Hafelhofweg: Ausbau diverser Fahrradstraßen
+- TOP 5.2.13.: Stichstraßen am Riemer Park: Angespannte Parksituation und unzureichende Verkehrsüberwachung
+- TOP 5.2.14.: Friedenspromenade - Anpassen an den Bedürfnissen der hohen Nutzungsfrequenz durch einen Zweirichtungs - Fuß- und Radweg
+- TOP 5.2.15.: Fahrrad-Wegweisung korrigieren – Konflikte entzerren am Beispiel Bajuwarenstraße
+- TOP 5.2.16.: Umfahrung in Kirchtrudering im Rahmen einer Erschließungstraße zeitnah realisieren
+- TOP 5.2.17.: Tsingtauer Straße: Unterversorgung mit öffentlichen Verkehrsmitteln
+- TOP 5.2.18.: Verkehrsprobleme Friedrich-Creuzer-Straße BA-Antrag Nr. 14-20 / B 07609
+- TOP 5.2.19.: Mit dem Fahrrad zum Friesplatz
+- TOP 5.2.20.: Verbindungsweg zwischen Georg-Kerschensteiner-Straße und Lehrer-Wirth-Straße
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Auskunft über zukünftige Nutzung des Grundstücks an der Olof-Palme-Straße/Ecke Edinburgh-Platz (Flurstück 1408/104)
+- TOP 5.3.2.: Weitere Ausbauplanung der digitalen Infrastruktur (Glasfasernetz)
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Mögliche Nutzung der Riemer Messehallen im Herbst und Winter durch junge MünchnerInnen - Soziale Kontakte ermöglichen und gleichzeitig Sicherheit und Sauberkeit wahren
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Brief an die Riem Arcaden zu den Themen "Müll auf öffentlichen Plätzen" und "Parksituation"
+- TOP 5.6.2.: Teerfläche Tangastr / Waterbergstr: Wunsch zur Bepflanzung
+- TOP 5.6.3.: Mit dem Fahrrad zum Friesplatz BA-Antrag Nr. 20-26 / B 00790
+- TOP 5.6.4.: Gelbe Tonne statt Vermüllung der Wertstoffinseln
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Olof-Palme-Straße: Einrichtung einer PKW-Parkzone
+- TOP 7.2.2.: Friedenspromenade: Aufhebung der Radwegbenutzungspflicht in linke Fahrtrichtung
+- TOP 7.2.3.: Lehrer-Götz-Weg: Bedarf nach einem Schwerbehindertenparkplatz
+- TOP 7.2.4.: Schatzbogen: Einrichtung einer Hotelanfahrtszone
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Graf-zu-Castell-Str. - MK2 Riem - Neubau eines Verwaltungs- und Wohngebäudes mit Kindertageseinrichtung und öffenlichen Nutzungen (Graf-zu-Castell-Str. / Joseph-Wild-Str. / Olof-Palme-Str. / Willy-Brandt-Allee) - VORBESCHEID (3 Var.)
+- TOP 7.3.2.: Petition: Städtebauliche Entwicklung in der Messestadt - Hochhäuser an der Willy-Brandt-Allee
+- TOP 7.4: UA Planung
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Am Birkicht: Installation einer neuen Netztrafostation
+- TOP 8.2.1.: Bajuwarenstr. 46 Bergerwaldstr. 30 Fährtwegl 1-3 Friespl. 14 Jagdhornstr. 6 Kathreinweg 30 Kilihofstr. 9 Kreillerstr. 173 Kreuzerweg 34 Leonhardiweg 19 Rotkehlchenweg 2 Salzmesserstr. 48 Salzmesserstr. 73 Sulzer-Belchen-Weg 11 Talerweg Tsingtauer Str. 37 Tsingtauer Str. 7 Von-Gravenreuth-Str. 15C Waldschulstr. 54-56 Wasserburger Landstr. 265 Xaver-Weismor-Str. 56 Zauberwaldstr. 22
+- TOP 9.1.1.: Mieterbeiratswahl 2021: Entsendung von stimmberechtigten Mitgliedern
+- TOP 9.1.2.: Vorstellung des AWM bei den Bezirksausschüssen WebEx-Veranstaltung am 25.11.2020
+- TOP 9.2.1.: Ortstermin zur Radwegeführung in der Truderinger Straße am 30.11.2020
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020-2024
+- TOP 10.1.3.: Newsletter der Bürgerinitiative "Silvesterböllerei? Nein Danke!" mit Verweis auf den Bezirksausschuss
+- TOP 10.1.4.: Schreiben des Kulturreferenten an die Ermöglicher von "Sommer in der Stadt"
+- TOP 10.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Schrammingerweg b) Straßl ins Holz c) Turner-/Waldschulstraße/Postweg
+- TOP 10.2.2.: U-Bahn Station Messestadt West - überdachte Fahrradabstellanlage Rückmeldung des Baureferats zum Beschluss des BA 15 vom 18.06.2020
+- TOP 10.2.3.: Bushaltestelle Iltisstraße: Fertigstellung der verlängerten Fahrradabstellanlage
+- TOP 10.2.4.: Bitte zur Sachstandsbenachrichtigung zu BA-Antrag Nr. 14-20 / B 06582 (Messestadt: abgestellte Fahrzeuge einer Autovermietung)
+- TOP 10.2.5.: (U) Verkehrsgutachten für die Stadtbezirke 13, 14 und 15 Empfehlung Nr. 14-20 / E 02705 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 11.07.2019
+- TOP 10.2.6.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 10.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.8.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 10.2.9.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 10.2.10.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Brenner-Nordzulauf: Politikbrief November 2020
+- TOP 10.3.2.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 10.3.3.: (U) Bebauungsplan mit Grünordnung Nr. 2119 Fauststraße (südlich), östlich des Schanderlweges (Teiländerung der Bebauungspläne Nr. 1209 und Nr. 600) a) Billigungsbeschluss b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses vom 19.10.2016 für den Bebauungsplan mit Grünordnung Nr. 2119 c) Bürgerversammlungsempfehlungen und Stadtratsantrag - Bebauungsplan Fauststraße 90, Empfehlung Nr. 14-20 / E 01707 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 05.10.2017 - Beteiligung der Öffentlichkeit an der Bauleitplanung Fauststraße 90, Empfehlung Nr. 14-20 / E 01708 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 - Grund- und Trinkwasserschutz – akut während der Bauphase, dauerhaft wegen der baulichen Veränderung der Fauststraße 90, Empfehlung Nr. 14-20 / E 01709 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 - Gutachten Natur- und Landschaftsschutz Fauststraße 90, Empfehlung Nr. 14-20 / E 01710 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 - Qualifizierte Darstellung der aktuellen und künftigen Versiegelung in der Fauststr. 90, Empfehlung Nr. 14-20 / E 02265 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 usw
+- TOP 10.3.4.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/31 Fauststraße (südlich), Schanderlweg (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 15 Trudering - Riem
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Damaschkestraße
+- TOP 10.4.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates der LHM vom 19.10.2020
+- TOP 10.4.3.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 10.4.4.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Information über die Änderungen der Investition der Schulbauprogramme aufgrund der Haushaltslage
+- TOP 10.5.2.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024, Einzelplan 4 / Sozialbereich
+- TOP 10.5.3.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 10.5.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 10.5.5.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 10.6.1.: Biotop- und Trinkwasserschutz Truderinger Wald, neue Entwicklungen und Maßnahmen zum Schutz der Kiesgrube am Friedrich-Panzer Weg (Ziffern 1 bis 3 des Antrags)
+- TOP 10.6.2.: Unterrichtung über Entfernung von Gefahrenbäumen a) Waldschulstraße b) Waldstraße
+- TOP 10.6.3.: Unterrichtung über entfernte Gefahrenbäume: Jahresmeldung 2021
+- TOP 8.1.1.: Bussardweg Dualastr. 4a Rotkehlchenweg 2 Talerweg 9
