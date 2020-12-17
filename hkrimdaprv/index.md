@@ -11,5 +11,5 @@
 - [§ 7 Fachpraktische Ausbildungsphase](0007.md)
 - [§ 8 Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“](0008.md)
 - [§ 9 Laufbahnprüfung](0009.md)
-- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
