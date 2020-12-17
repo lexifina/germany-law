@@ -1,17 +1,17 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2019-12-06 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_06122019.pdf
+- Datum: 2020-12-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_17122020.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 20. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 06. Dezember 2019
+in der Fassung der 22. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 17. Dezember 2020
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 
@@ -65,10 +65,11 @@ Stadtbezirk 9 (Mülheim) Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, H
 
 (3) Die Grenzen der Stadtbezirke ergeben sich aus der in Absatz 1 genannten Karte. Die Karte ist Bestandteil dieser Satzung.
 
-Seite 2 von 23
-
 §2 Siegel, Wappen und Flagge
 (§ 14 GO)
+
+Seite 2 von 23
+
 (1) Die Stadt Köln führt das in der Anlage abgebildete Wappen. (2) Als Siegel führt sie das historische Petrussiegel, das Dienstsiegel und das "Kleine Dienstsiegel". Das „Kleine Dienstsiegel“ wird in den Ausführungen mit einem Durchmesser von 22 mm und von 15 mm geführt. Der Abdruck der Siegel ist der Satzung als Anlage beigefügt. (3) In den beiden Dienstsiegeln ist das Wappen mit der Umschrift "Siegel der Stadt Köln" versehen. Sind für einzelne Dienststellen aufgrund landesrechtlicher Vorschriften bestimmte, auf die Dienststelle hinweisende Zusätze zu verwenden, werden diese im "Kleinen Dienstsiegel" zusätzlich zu der vorgenannten Umschrift geführt. (4) Die Flagge der Stadt Köln ist rot-weiß längs gestreift.
 §3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger
 (§§ 36, 40, 67 GO)
@@ -106,14 +107,13 @@ Seite 4 von 23
 (2) Die Geschäftsordnung regelt auch das Verfahren der Unterrichtung des Rates nach § 113 Abs. 5 GO.
 (3) Die Geschäftsordnung kann durch einfachen Mehrheitsbeschluss des Rates geändert werden.
 §8 Öffentliche Bekanntmachungen (§ 7 Abs. 4, § 48 Abs. 1, § 52 Abs. 3 GO; BekanntmachungsVO)
-(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden im "Amtsblatt der Stadt Köln" vollzogen. Das gilt auch für sonstige durch Rechtsvorschrift vorgeschriebene öffentliche Bekanntmachungen. Sonderregelungen des Bundes-, des Landes- oder darauf beruhenden Kölner Ortsrechts bleiben unberührt.
-(2) Sind öffentliche Bekanntmachungen in der durch Absatz 1 Satz 1 festgelegten Form infolge höherer Gewalt oder sonstiger unabwendbarer Ereignisse nicht möglich, so genügt die Bekanntmachung durch einen Aushang im Erdgeschoss des städtischen Dienstgebäudes Laurenzplatz 1-3 bis zur späteren nachrichtlichen Bekanntmachung im Amtsblatt.
-(3) Bei Zustellungen durch öffentliche Bekanntmachung ist eine Benachrichtigung im Schaukasten des Foyers des städtischen Dienstgebäudes Kundenzentrum Innenstadt, Laurenzplatz 1 – 3, 50667 Köln für die Dauer von zwei Wochen auszuhängen. Gleichzeitig ist die Benachrichtigung auf der Homepage der Stadt Köln (www.stadt-koeln.de) im Internet bereitzustellen.
+(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden durch Bereitstellung des digitalisierten Dokuments unter www.stadt-koeln.de/Bekanntmachungen vollzogen, soweit gesetzlich nicht etwas anderes bestimmt ist. Auf die erfolgte Bereitstellung wird im „Amtsblatt der Stadt Köln“ nachrichtlich hingewiesen. Soweit gesetzlich erforderlich, wird die öffentliche Bekanntmachung zusätzlich im "Amtsblatt der Stadt Köln" vollzogen.
+(2) Zustellungen durch öffentliche Bekanntmachung werden durch Bereitstellung der Benachrichtigung im Internet für die Dauer von zwei Wochen unter www.stadtkoeln.de/oeffentliche-zustellungen vollzogen.
+(3) Sind öffentliche Bekanntmachungen in der durch Absatz 1 und 2 festgelegten Form infolge höherer Gewalt oder sonstiger unabwendbarer Ereignisse nicht möglich, so genügt die Bekanntmachung durch einen Aushang im Erdgeschoss des städtischen Dienstgebäudes Laurenzplatz 4, 50667 Köln, bis zur späteren nachrichtlichen Bekanntmachung unter www.stadt-koeln.de/Bekanntmachungen bzw. www.stadt-koeln.de/oeffentliche-zustellungen. Dies gilt entsprechend auch für den nachrichtlichen Hinweis in Absatz 1 Satz 3.
 §9 Zuständigkeitsordnung (§ 41 Absätze 2 und 3 GO)
-Die auf Fachausschüsse oder die Oberbürgermeisterin/den Oberbürgermeister übertragenen Entscheidungsbefugnisse sowie deren Abgrenzung zu den
 Seite 5 von 23
 
-Zuständigkeiten der Bezirksvertretungen legt der Rat in einer Zuständigkeitsordnung fest.
+Die auf Fachausschüsse oder die Oberbürgermeisterin/den Oberbürgermeister übertragenen Entscheidungsbefugnisse sowie deren Abgrenzung zu den Zuständigkeiten der Bezirksvertretungen legt der Rat in einer Zuständigkeitsordnung fest.
 § 10 Dringlichkeitsentscheidungen (§ 60 Abs. 1 Satz 2, § 60 Abs. 2 Satz 1, § 36 Abs. 5 Satz 2 GO)
 (1) Dringlichkeitsentscheidungen gem. § 60 Abs. 1 Satz 2, § 60 Abs. 2 Satz 1, § 36 Abs. 5 Satz 2 GO müssen schriftlich erfolgen. Die Dringlichkeit ist in dem Entwurf der Dringlichkeitsentscheidung schriftlich zu begründen.
 (2) Hat die Oberbürgermeisterin/der Oberbürgermeister den Entwurf einer Dringlichkeitsentscheidung des Rates oder eines Ausschusses unterzeichnet, so leitet sie/er zugleich mit der Weiterleitung des Entwurfes an das mitunterzeichnende Rats- bzw. Ausschussmitglied Kopien der Vorlage den Ratsfraktionen und den nicht einer Fraktion angehörenden Ratsmitgliedern nachrichtlich zu.
@@ -242,13 +242,12 @@ Daneben können im Einzelfall Vertreterinnen/Vertreter der Arbeiterwohlfahrt, de
 (6) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde, insbesondere wenn sie die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, befassen und Vorschläge und Anregungen machen.
 Der Integrationsrat ist in allen wichtigen Angelegenheiten, die die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, zu informieren und vor der Beschlussfassung durch den Rat zu beteiligen.
 (7) Der Integrationsrat wirkt an den Beratungen über die Haushaltssatzung mit. Er berät über alle Haushaltsansätze, die seine Aufgaben betreffen und kann dazu Vorschläge und Anregungen machen.
-Darüber hinaus weist der Rat dem Integrationsrat Mittel zu, die dieser nach der Maßgabe einer vom Rat zu beschließenden Richtlinie zur Förderung der Integrationsarbeit in Köln selbständig vergeben kann.
-Dabei handelt es sich insbesondere um
-• Zuschüsse für die Arbeit von Vereinen, Zentren und Initiativen, die in der Migrations-, Integrations- und Antidiskriminierungsarbeit tätig sind,
-• Verwendung von EU-, Bundes- oder Landesmitteln zur Förderung der Integration und des friedlichen, gleichberechtigten Zusammenlebens.
+Darüber hinaus weist der Rat dem Integrationsrat Mittel zu, über deren Verteilung der Integrationsrat nach einer vom Rat beschlossenen Richtlinien
+• zur Anerkennung und Förderung der Interkulturellen Zentren und • zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und
+Akzeptanz
+entscheidet.
 Seite 15 von 23
 
-Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln gibt die Verwaltung den entsprechenden Fachausschüssen und dem Finanzausschuss unverzüglich zur Kenntnis. Der Rat entscheidet abschließend.
 (8) Dem Integrationsrat werden zur Erfüllung seiner Aufgaben die notwendigen personellen und sachlichen Mittel bereit gestellt. Gemäß § 27 Absatz 10 GO NRW werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von der Geschäftsstelle verwaltet werden. Die Einzelheiten regelt ein Ratsbeschluss.
 (9) Der Integrationsrat erhält die Möglichkeit einer eigenständigen Öffentlichkeitsarbeit.
 (10) Der Integrationsrat kann dem Rat je ein Mitglied als sachkundige Einwohnerin/sachkundigen Einwohner gemäß § 58 Abs. 4 GO sowie ein Mitglied als stellvertretende sachkundige Einwohnerin/stellvertretenden sachkundigen Einwohner in die Fachausschüsse vorschlagen.
@@ -260,9 +259,9 @@ Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln 
 (3) Die in die Stadtarbeitsgemeinschaft gewählten Seniorenvertreterinnen und Seniorenvertreter und ihre Stellvertretungen bilden die SVK-Stadtkonferenz.
 (4) Die SVK-Stadtkonferenz kann Mitglieder in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Jugend, Schule und Weiterbildung, Bauen, Wohnen, sowie Anregungen und Beschwerden zuständigen Fachausschüsse entsenden. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
 (5) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP).
+§ 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 Seite 16 von 23
 
-§ 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 (1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil.
 (2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse.
 (3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen in die für die Themen Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung, Anregungen und Beschwerden sowie Kinderund Jugendhilfeangelegenheiten zuständigen Ausschüsse entsenden. Für den Verhinderungsfall ist je eine persönliche Vertreterin/ ein persönlicher Vertreter zu bestimmen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
