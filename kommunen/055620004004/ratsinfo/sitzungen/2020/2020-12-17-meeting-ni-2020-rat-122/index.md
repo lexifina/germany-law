@@ -1,0 +1,67 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2020-12-17T17:00:00+01:00
+- Ende: 2020-12-17T19:12:00+01:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-122
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2020-RAT-122
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-RAT-122
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-122
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-RAT-122
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 0321006 03013 211502 ALT_732 (Neuerrichtung eines Quertrakts an der Fridtjof-Nansen-Realschule am Standort Lange Straße 18-20)
+- TOP 3: Änderung der Verwaltungsgebührensatzung der Stadt Castrop-Rauxel
+- TOP 4: Erhöhung der Fraktionszuwendungen
+- TOP 5: Bürger*innenbeteiligung in Vorlagen der Verwaltung
+- TOP 6: Änderung der Satzung des Bürger*innenbudgets
+- TOP 7: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Berufung der Fachmitglieder und der politischen Vertreter
+- TOP 8: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Festsetzung der Aufwandsentschädigngen für die Mitglieder des Beirats für Kunst und Stadtgestaltung
+- TOP 9: Besetzung des Bürgerbudgetbeirates
+- TOP 10: Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 2) hier: Satzungsbeschluss
+- TOP 11: ISEK Merklinde
+- TOP 12: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 13: Neubildung des Genossenschaftsrates der Emschergenossenschaft 2021 bis 2026 hier: Beschluss über einen Wahlvorschlag
+- TOP 14: Neubildung der Genossenschaftsversammlung der Emschergenossenschaft 2021 bis 2026 hier: Bestellung der Delegierten
+- TOP 15: Änderung der Gebührensatzung für die Wochenmärkte in der Stadt Castrop-Rauxel ab dem 01.01.2021
+- TOP 16: Bebauungsplan Nr. 260 „Südliche Frohlinder Straße“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 17: Instandsetzung und Aufwertung der Gedenkstätte Bladenhorst Hier: Förderantrag an das Programm „Heimat-Zeugnis“
+- TOP 18: Änderung der Richtlinien über die Verleihung einer Sportplakette der Stadt Castrop-Rauxel
+- TOP 19: Antrag Bündnis 90/Die Grünen vom 01.12.2020_Antrag zur Verringerung des Baulärms
+- TOP 20: Antrag Bündnis 90_Die Grünen vom 02.12.2020_Erstellung eines Kleingartenentwicklungsplanes 2020 bis 2025
+- TOP 21: Anträge Fraktion DIE LINKE zum Bebauungsplan 245H
+- TOP 21.1: Antrag Fraktion DIE LINKE vom 20.11.2020 Bebauungplan 245H hier: Schützenwerter Boden
+- TOP 21.2: Antrag Fraktion DIE LINKE vom 20.11.2020 Bebauungsplan 245H hier: Lärmschutz bei Bodenarbeiten
+- TOP 21.3: Antrag Fraktion DIE LINKE vom 20.11.2020 Bebauungsplan 245H hier: Klimaschutz
+- TOP 21.4: Antrag Fraktion DIE LINKE vom 20.11.2020 Bebauungsplan 245H hier: Bodengutachten gemäß BundesbodenschutzVerordnung
+- TOP 21.5: Antrag Fraktion DIE LINKE vom 01.12.2020_Sozialer Wohnungsbau
+- TOP 22: Resolution Fraktion DIE LINKE vom 01.12.2020; Resolution zum ICAN-Städteappell, damit die Bundesregierung dem von den Vereinten Nationen verabschiedeten "Abkommen zum Verbot von Atomwaffen" beitritt
+- TOP 23: Antrag UBP Fraktion vom 17.08.2020_Regelung und Steuerung der Plakatierung zu Wahlen
+- TOP 24: Gebührenbedarfsberechnung 2021 -Abfallentsorgung- und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 25: Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 26: Gebührenbedarfsberechnung 2021 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 27: Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel
+- TOP 28: Gebührenbedarfsberechnung 2021 – Gewässerunterhaltung – und erstmaliger Erlass einer Gebührensatzung zur Umlage der Kosten der Gewässerunterhaltung
+- TOP 29: Gebührenbedarfsberechnung 2021 - Straßenreinigung und Erlass einer Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung)
+- TOP 30: Aufstellung der Friedhofs-Gebührensatzung 2021
+- TOP 31: Antrag Bündnis 90/Die Grünen vom 07.12.2020_Nachbenennung von Gremienmitgliedern
+- TOP 32: Antrag Fraktion DIE LINKE vom 07.12.2020_Ausschussumbesetzung AGIL
+- TOP 33: Antrag SPD Fraktion vom 09.12.2020_Ausschussumbesetzung KommWA und JHA
+- TOP 34: Verlängerung der gewährten Liquiditätshilfen für Betriebe und Unternehmen zur Begegnung der wirtschaftlichen Folgen der Corona-Pandemie bis zum 30.06.2021
+- TOP 35: Neuerrichtung einer vierzügigen Gesamtschule am Standort Waldenburger Straße 130 zum Schuljahresbeginn 2021/2022 (Neue Gesamtschule Ickern - NGI) hier: Bereitstellung zusätzlicher Haushaltsmittel in den Haushaltsjahren 2020 und 2021
+- TOP 36: Überplanmäßige Mittelbereitstellung gemäß § 83 GO im Haushaltsjahr 2021 in Höhe von insgesamt 309.500 € bei den Kostenträgern der verschiedenen Schulformen aus der Förderung von dienstlichen Endgeräten für Lehrkräfte an Schulen in Nordrhein-Westfalen
+- TOP 37: Antrag FDP Fraktion vom 15.12.2020_Beschaffung von Luftreinigungsgeräten
+- TOP 38: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.11.2020
+- TOP 39: Resolution CDU Fraktion vom 16.12.2020_Verhaltensgrundsätze während der Corona-Pandemie für den Rat und seine Gremien
+- TOP 40: Anfragen der Ratsmitglieder
+- TOP 41: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
