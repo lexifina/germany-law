@@ -1,0 +1,67 @@
+# Rat (131. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2020-12-17T18:00:00+01:00
+- Ende: 2020-12-17T20:03:00+01:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUneDqyNb8Omz8T2jznq_EE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16071
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWP9CThibQqcEN_yXW1V-r_f3f2oMGGRrMvS1_zo1uDP/Bekanntmachung_Rat_17.12.2020.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYlxCbzRnU1wKGOarjTE2LZATqF_O_9n5vif71DuKfw1/Oeffentliche_Niederschrift_Rat_17.12.2020.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Verpflichtung und Einführung eines Ratsmitgliedes - (kein Text vorhanden)
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift über die letzte Sitzung vom 05.11.2020
+- TOP 4.: Anträge und Anfragen; Eingänge
+- TOP 5.: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Wahl von sachkundigen Einwohner*innen als beratende Ausschussmitglieder - Einstimmig
+- TOP 7.: Wahl von sachkundigen Einwohner*innen als beratende Ausschussmitglieder - Einstimmig
+- TOP 8.: Unterhaltungsverbände Emsdettener Mühlenbach und Nordwalder Aa, Hummertsbach, Greven und Saerbeck: Wahl der Ausschussmitglieder der Gruppe C für die Wahlperiode 2021 - 2025 - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Feststellung des Jahresabschlusses 2019, Entlastung des Bürgermeisters - Einstimmig
+- TOP 9.2: Beantragung von Fördermitteln für das "Kleinspielfeld an der Käthe-Kollwitz-Schule" im Rahmen des "Investitionspakts zur Förderung von Sportstätten 2021" - Einstimmig
+- TOP 9.3: Priorisierung der Förderanträge zum Investitionspakt Sportstätten 2021 - Einstimmig
+- TOP 9.4: Geänderte Verwendungsplanung 2020 zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 9.5: Überplanmäßige Auszahlungen zur Beschaffung von 25 (fünfundzwanzig) mobilen Luftreinigern - Einstimmig
+- TOP 10.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2019 mit Jahresabschluss zum 31.12.2019 - Einstimmig
+- TOP 11.: Vorzeitige Ausschüttung vom Jahresüberschuss 2020 des Abwasserwerkes - Einstimmig
+- TOP 12.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2021 - Einstimmig
+- TOP 13.: Live-Streaming von Rats- und Ausschusssitzungen - 4 Ja-Stimme(n), 37 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Überörtliche Prüfung 2020 der Gemeindeprüfungsanstalt NRW - Stellungnahme zum Prüfbericht - Einstimmig
+- TOP 15.: Fortsetzung der Interkommunalen Zusammenarbeit im Bereich der Rechnungsprüfung - Abschluss einer öffentlich-rechtlichen Vereinbarung - Einstimmig
+- TOP 16.: Satzungsrecht
+- TOP 16.1: Änderung des Anhangs zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 16.2: XIV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 16.3: II. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 20.12.2017 - Einstimmig
+- TOP 16.4: IX. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 16.5: Aussetzung der Gebührenpflicht für bestimmte Sondernutzungen gem. § 9 Abs. 1 der Satzung der Stadt Emsdetten über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) i.V.m. lfd. Nr. 3a, 3b und 5 der Anlage 2 zur Sondernutzungssatzung der Stadt Emsdetten (Übersicht der Gebühren) für das Jahr 2021 - Einstimmig
+- TOP 17.: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten vom 21. Dezember 2016 und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 21. Dezember 2016 auf Grundlage der Gebührenkalkulation für das Jahr 2021. - Einstimmig
+- TOP 18.: Förderprogramm "Klimaresilienz in Kommunen" - Maßnahmen "Begrünung des Rathausplatzes mit mobilen Bäumen" und "Verschattungsanlage Martinum" - Einstimmig
+- TOP 19.: Verkehrsfragen
+- TOP 19.1: Grundsatzbeschluss zur Umsetzung von Fahrradstraßen in Emsdetten - Einstimmig
+- TOP 20.: Städtebaulicher Vertrag ¿Emsdettener Westtorhöfe¿ - Einstimmig
+- TOP 21.: Straßen- und Wegekonzept gemäß § 8a KAG NRW - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 22.: Flächennutzungsplan
+- TOP 22.1: 19. Änderung des Flächennutzungsplanes der Stadt Emsdetten im Bereich des vorhabenbezogenen Bebauungsplanes VEP Nr. 5 "Nahversorgungsstandort Im Hagenkamp" - Feststellungsbeschluss - Einstimmig
+- TOP 23.: Bebauungspläne
+- TOP 23.1: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 15. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 23.2: Bebauungsplan Nr. 8 I "Nordwalder Straße / Mühlenstraße", 6. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 23.3: Bebauungsplan Nr. 92 "Friedrichstraße - Mühlenbach", 2. Änderung und 1. Ergänzung - Satzungsbeschluss - Einstimmig
+- TOP 23.4: Bebauungsplan Nr. 29 A "Habichtshöhe Nord", 5. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 23.5: Bebauungsplan Nr. 17 C VI "Industriegebiet Süd" - Teilplan B - Satzungsbeschluss - Einstimmig
+- TOP 24.: Schulangelegenheiten
+- TOP 24.1: Bildung der Grundschuleingangsklassen für das Schuljahr 2021/2022 - Einstimmig
+- TOP 25.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 25.1: Anpassung der Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Erholung in Emsdetten - Einstimmig
+- TOP 25.2: Einrichtung eines Kinder- und Jugendrates in Emsdetten - Einstimmig
+- TOP 26.: Allgemeine Umweltangelegenheiten
+- TOP 26.1: Umstellung des European Energy Award (EEA) auf den European Climate Award (ECA) - Einstimmig
+- TOP 27.: Etat / Budget
+- TOP 27.1: Entwurf Haushaltssatzung und Haushaltsplan 2021 - Zur Kenntnis genommen
+- TOP 28.: Verschiedenes
