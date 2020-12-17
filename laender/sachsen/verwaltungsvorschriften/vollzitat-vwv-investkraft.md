@@ -1,8 +1,8 @@
 # Vollzitat: VwV Investkraft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-06-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16843.2
+- Datum: 2020-12-17 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16843.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-26.06.2018
+17.12.2020
 bis
-16.12.2020
+14.09.2023
 
 VwV Investkraft
 
@@ -37,30 +37,13 @@ A. Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-
-Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von
-
-§§ 23
-
-und 44 der
-
-Sächsischen Haushaltsordnung
-
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, in der jeweils geltenden Fassung, und den
-
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung              vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 25. März 2015 (SächsABl. S. 515) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2015 (SächsABl. SDr. S. S 374), sowie nach dem Kommunalinvestitionsförderungsgesetz vom 24. Juni 2015 (BGBl. I S. 974, 975) und dem              Sächsischen Investitionskraftstärkungsgesetz
-
-vom 16. Dezember 2015 (SächsGVBl. S. 656), auf Antrag finanzielle Hilfen nach Maßgabe dieser Verwaltungsvorschrift.
+Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), sowie nach dem Kommunalinvestitionsförderungsgesetz vom 24. Juni 2015 (BGBl. I S. 974, 975), das zuletzt durch Artikel 2b des Gesetzes vom 15. April 2020 (BGBl. I S. 811) geändert worden ist und dem Sächsischen Investitionskraftstärkungsgesetz) vom 16. Dezember 2015 (SächsGVBl. S. 656, 657), das zuletzt durch Artikel 4 des Gesetzes vom 15. Juli 2020 (SächsGVBl. S. 425) geändert worden ist, auf Antrag finanzielle Hilfen nach Maßgabe dieser Verwaltungsvorschrift.
 
 
 2.
 
 
-Zuwendungszweck sind Investitions- und Erhaltungsmaßnahmen in kreisangehörigen Gemeinden, Landkreisen und Kreisfreien Städten bis zum Jahr 2020 gemäß § 1 des
-
-Sächsischen Investitionskraftstärkungsgesetzes
-
-.
+Zuwendungszweck sind Investitions- und Erhaltungsmaßnahmen in kreisangehörigen Gemeinden, Landkreisen und Kreisfreien Städten bis zum Jahr 2020 gemäß § 1 des Sächsischen Investitionskraftstärkungsgesetzes.
 
 
 3.
@@ -70,17 +53,17 @@ Zuwendungen, bei denen es sich um staatliche Beihilfen im Sinne des Artikels 107
 
 a)
 
-nach Maßgabe und unter Einhaltung der Voraussetzungen als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1);
+nach Maßgabe und unter Einhaltung der Voraussetzungen als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/972 vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist;
 
 
 b)
 
-nach Maßgabe und unter Einhaltung der Voraussetzungen als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8) oder
+nach Maßgabe und unter Einhaltung der Voraussetzungen als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) 2018/1923 der Kommission vom 7. Dezember 2018 (ABl. L 313 vom 10.12.2018, S. 2) geändert worden ist, oder
 
 
 c)
 
-nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65),
+nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/972 vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist,
 
 
 sowie deren jeweiligen Nachfolgeregelungen gewährt.
@@ -257,11 +240,9 @@ Zuwendungsempfänger sind kommunale Gebietskörperschaften und kommunale Zusamme
 
 Sächsischen Gesetz über kommunale Zusammenarbeit
 
-in der Fassung der Bekanntmachung vom 3. März 2014 (SächsGVBl. S. 196), in der jeweils geltenden Fassung, sowie nicht-kommunale Träger von kommunalen Infrastruktureinrichtungen, wie zum Beispiel freie Träger, Träger klösterlicher Einrichtungen, Körperschaften im Sinne von § 1 des
+in der Fassung der Bekanntmachung vom 15. April 2019 (SächsGVBl. S. 270), in der jeweils geltenden Fassung, sowie nicht-kommunale Träger von kommunalen Infrastruktureinrichtungen, wie zum Beispiel freie Träger, Träger klösterlicher Einrichtungen, Körperschaften im Sinne von § 1 des
 
-Sächsischen Kirchensteuergesetzes
-
-vom 14. Februar 2002 (SächsGVBl. S. 82), das zuletzt durch das Gesetz vom 10. August 2015 (SächsGVBl. S. 468) geändert worden ist, in der jeweils geltenden Fassung, jüdische Gemeinden sowie nichtbundeseigene Nahverkehrsunternehmen und nichtbundeseigene Schieneninfrastrukturunternehmen, sowie kommunale Aufgabenträger und deren Zusammenschlüsse nach § 4 Absatz 1 des
+Sächsischen Kirchensteuergesetzes vom 14. Februar 2002 (SächsGVBl. S. 82), das zuletzt durch das Gesetz vom 28. März 2019 (SächsGVBl. S. 244) geändert worden ist, in der jeweils geltenden Fassung, jüdische Gemeinden sowie nichtbundeseigene Nahverkehrsunternehmen und nichtbundeseigene Schieneninfrastrukturunternehmen, sowie kommunale Aufgabenträger und deren Zusammenschlüsse nach § 4 Absatz 1 des
 
 Gesetzes über den öffentlichen Personennahverkehr im Freistaat Sachsen
 
@@ -306,12 +287,12 @@ Eine Förderung von Maßnahmen im Ortsgebiet von Gemeinden, die in den Jahren 20
 
 Sächsischen Finanzausgleichsgesetzes
 
-in der Fassung der Bekanntmachung vom 21. Januar 2013 (SächsGVBl. S. 95), das zuletzt durch Artikel 4 des Gesetzes vom 16. Dezember 2015 (SächsGVBl. S. 656) geändert worden ist, gezahlt haben, ist ausgeschlossen.
+in der Fassung der Bekanntmachung vom 21. Januar 2013 (SächsGVBl. S. 95), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2020 (SächsGVBl. S. 425) geändert worden ist, gezahlt haben, ist ausgeschlossen.
 
 
 e)
 
-Eine Förderung wird nur gewährt für Maßnahmen, bei denen eine vollständige Abnahme bis zum 31. Dezember 2020 gesichert erscheint.
+Eine Förderung wird nur gewährt für Maßnahmen, bei denen eine vollständige Abnahme bis zum 31. Dezember 2021 gesichert erscheint.
 
 
 f)
@@ -330,7 +311,7 @@ Maßnahmen an Krankenhäusern werden nur gefördert, soweit das betreffende Kran
 
 Sächsischen Krankenhausgesetzes
 
-vom 19. August 1993 (SächsGVBl. S. 675), das zuletzt durch Artikel 2 des Gesetzes vom 7. August 2014 (SächsGVBl. S. 446) geändert worden ist, aufgenommen worden ist.
+vom 19. August 1993 (SächsGVBl. S. 675), das zuletzt durch Artikel 18 des Gesetzes vom 26. April 2018 (SächsGVBl. S. 198) geändert worden ist, aufgenommen worden ist.
 
 
 b)
@@ -340,7 +321,7 @@ Maßnahmen an Schulen werden nur gefördert, soweit die betreffende Schule in ei
 
 Schulgesetzes für den Freistaat Sachsen
 
-in der Fassung der Bekanntmachung vom 16. Juli 2004 (SächsGVBl. S. 298), das zuletzt durch Artikel 2 Absatz 10 des Gesetzes vom 19. Mai 2010 (SächsGVBl. S. 142) geändert worden ist, aufgenommen worden ist. Ferner ist für Maßnahmen auf dem Gebiet des Schulhausbaus mit Gesamtausgaben von mehr als 100 000 Euro eine Bestätigung des Staatsministeriums für Kultus erforderlich. Diese Bestätigung ist im Rahmen der Maßnahmeplankonferenz auszusprechen.
+in der Fassung der Bekanntmachung vom 16. Juli 2004 (SächsGVBl. S. 298), das zuletzt durch Artikel 1 des Gesetzes vom 15. Juli 2020 (SächsGVBl. S. 376) geändert worden ist, aufgenommen worden ist. Ferner ist für Maßnahmen auf dem Gebiet des Schulhausbaus mit Gesamtausgaben von mehr als 100 000 Euro eine Bestätigung des Staatsministeriums für Kultus erforderlich. Diese Bestätigung ist im Rahmen der Maßnahmeplankonferenz auszusprechen.
 
 
 c)
@@ -350,7 +331,7 @@ Maßnahmen an Kindertageseinrichtungen werden nur gefördert, soweit die betreff
 
 Gesetzes über Kindertageseinrichtungen
 
-in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch Artikel 7 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, aufgenommen worden ist.
+in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch Artikel 22 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, aufgenommen worden ist.
 
 
 d)
@@ -451,7 +432,7 @@ Personal- und Sachausgaben des Zuwendungsempfängers,
 
 c)
 
-Umsatzsteuerbeträge, die nach § 15 des Umsatzsteuergesetzes in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 11 und 12 des Gesetzes vom 2. November 2015 (BGBl. I S. 1834) geändert worden ist, in der jeweils geltenden Fassung, als Vorsteuer abziehbar sind,
+Umsatzsteuerbeträge, die nach § 15 des Umsatzsteuergesetzes in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 3 des Gesetzes vom 29. Juni 2020 (BGBl. I S. 1512) geändert worden ist, in der jeweils geltenden Fassung, als Vorsteuer abziehbar sind,
 
 
 d)
@@ -597,7 +578,7 @@ nach Maßgabe der
 
 Förderrichtlinie SchulInfra
 
-vom 29. Juni 2015 (SächsABl. S. 1054), enthalten in der Verwaltungsvorschrift vom 14. Dezember 2015 (SächsABl. SDr. S. S 407),
+vom 29. Juni 2015 (SächsABl. S. 1054), die zuletzt durch Ziffer I der Richtlinie vom 30. September 2020 (SächsABl. S. 1179) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 385),
 
 
 b)
@@ -623,7 +604,7 @@ nach Maßgabe der
 
 Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr für die Förderung von Straßen- und Brückenbauvorhaben kommunaler Baulastträger
 
-vom 9. Dezember 2015 (SächsABl. S. 1777), enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400),
+vom 9. Dezember 2015 (SächsABl. S. 1777), die zuletzt durch die Richtlinie vom 10. Dezember 2019 (SächsABl. S. 1840) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 29. November 2019 (SächsABl. SDr. S. S 398),
 
 
 d)
@@ -636,7 +617,7 @@ nach Maßgabe der
 
 Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln im öffentlichen Personennahverkehr
 
-vom 24. August 2010 (SächsABl. SDr. S. S 135), die zuletzt durch Artikel 14 der Verwaltungsvorschrift vom 2. März 2012 (SächsABl. S. 291) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400),
+vom 24. August 2010 (SächsABl. SDr. S. S 135), die zuletzt durch die Richtlinie vom 18. Dezember 2019 (SächsABl. SDr. 2020 S. S 12) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 29. November 2019 (SächsABl. SDr. S. S 398),
 
 
 e)
@@ -649,7 +630,7 @@ nach Maßgabe der
 
 Förderrichtlinie Siedlungswasserwirtschaft
 
-vom 9. Dezember 2015 (SächsABl. S. 1810),
+vom 9. Dezember 2015 (SächsABl. S. 1810), die zuletzt durch die Richtlinie vom 17. Dezember 2019 (SächsABl. SDr. 2020 S. S 78) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 414),
 
 
 f)
@@ -662,7 +643,7 @@ nach Maßgabe der
 
 Förderrichtlinie Gewässer/Hochwasserschutz
 
-vom 31. Juli 2007 (SächsABl. S. 1302), die durch Ziffer V der Verwaltungsvorschrift vom 3. Juli 2008 (SächsABl. S. 944) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2015 (SächsABl. SDr. S. S 429),
+vom 31. Juli 2007 (SächsABl. S. 1302), die durch Ziffer V der Verwaltungsvorschrift vom 3. Juli 2008 (SächsABl. S. 944) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2017 (SächsABl. SDr. S. S 433),
 
 
 g)
@@ -671,11 +652,7 @@ g)
 Brachflächenrevitalisierung
 
 
-nach Maßgabe der
-
-RL Brachflächenrevitalisierung
-
-vom 12. Mai 2015 (SächsABl. S. 757), enthalten in der Verwaltungsvorschrift vom 1. Dezember 2015 (SächsABl. SDr. S. S 348), und
+nach Maßgabe der RL Brachenberäumung vom 30. Mai 2017 (SächsABl. S. 827), die durch die Richtlinie vom 6. Februar 2020 (SächsABl. S. 182) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 27. November 2019 (SächsABl. SDr. S. S 339), und
 
 
 h)
@@ -688,7 +665,7 @@ nach Maßgabe der
 
 Sportförderrichtlinie
 
-vom 5. Mai 2009 (SächsABl. S. 890), die durch die Richtlinie vom 27. Juni 2015 (SächsABl. S. 1075) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2015 (SächsABl. SDr. S. S 348),
+vom 13. Februar 2019 (SächsABl. S. 367), die durch die Richtlinie vom 19. Dezember 2019 (SächsABl. 2020 S. 39) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 27. November 2019 (SächsABl. SDr. S. S 339),
 
 
 in der jeweils geltenden Fassung, soweit diese Verwaltungsvorschrift keine ergänzenden und abweichenden Regelungen enthält. Sofern eine der aufgeführten Fachförderrichtlinien während der Gültigkeit dieser Verwaltungsvorschrift außer Kraft tritt und keine Rechtsnachfolge erfährt, findet sie im Rahmen dieser Verwaltungsvorschrift weiterhin entsprechende Anwendung. Darüber hinaus sind Abweichungen von der nach Buchstabe a bis h jeweils einschlägigen Förderrichtlinie zulässig.
@@ -702,7 +679,7 @@ Verwaltungsgebäude und Sonderbauten im Sinne von § 2 Absatz 4 der
 
 Sächsischen Bauordnung
 
-vom 28. Mai 2004 (SächsGVBl. S. 200), die zuletzt durch das Gesetz vom 16. Dezember 2015 (SächsGVBl. S. 670; 2016 S. 38) geändert worden ist, sowie Einrichtungen für soziale Zwecke.
+vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch Artikel 2 des Gesetzes vom 11. Dezember 2018 (SächsGVBl. S. 706) geändert worden ist, sowie Einrichtungen für soziale Zwecke.
 
 
 II.
@@ -736,7 +713,7 @@ bestätigt worden sind. Das Nähere zum Maßnahmeplanverfahren regelt Großbuchs
 
 b)
 
-Eine Förderung wird nur gewährt für Maßnahmen, bei denen eine vollständige Abnahme bis zum 31. Dezember 2020 gesichert erscheint. In besonders begründeten Ausnahmefällen ist eine Förderung von Maßnahmen möglich, bei denen eine vollständige Abnahme bis zum 31. Dezember 2022 gesichert erscheint.
+Eine Förderung wird nur gewährt für Maßnahmen, bei denen eine vollständige Abnahme bis zum 31. Dezember 2021 gesichert erscheint. In besonders begründeten Ausnahmefällen ist eine Förderung von Maßnahmen möglich, bei denen eine vollständige Abnahme bis zum 31. Dezember 2023 gesichert erscheint.
 
 
 c)
@@ -888,7 +865,7 @@ Ab 1. März 2016 unterrichtet das Staatsministerium für Umwelt und Landwirtscha
 
 3.
 
-Die Meldungen der Einzelmaßnahmen erfolgen ausschließlich auf den durch das Staatsministerium für Umwelt und Landwirtschaft vorgegebenen Vordrucken. Sie enthalten neben einer Beschreibung der beabsichtigten Investitions- oder Erhaltungsmaßnahme insbesondere Angaben zum Fördergegenstand und zur zeitlichen Umsetzung der Maßnahme.
+Die Meldungen der Einzelmaßnahmen erfolgen ausschließlich auf den durch das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft vorgegebenen Vordrucken. Sie enthalten neben einer Beschreibung der beabsichtigten Investitions- oder Erhaltungsmaßnahme insbesondere Angaben zum Fördergegenstand und zur zeitlichen Umsetzung der Maßnahme.
 
 4.
 
@@ -971,7 +948,7 @@ Ist erkennbar, dass im Zuwendungsverfahren das gemäß § 2 des
 
 Sächsischen Investitionskraftstärkungsgesetzes
 
-auf den Landkreis beziehungsweise die Kreisfreie Stadt entfallende Bewilligungskontingent nicht ausgeschöpft wird, kann der Investitionsplan auf schriftlichen Antrag an das Staatsministerium für Umwelt und Landwirtschaft überprüft werden.
+auf den Landkreis beziehungsweise die Kreisfreie Stadt entfallende Bewilligungskontingent nicht ausgeschöpft wird, kann der Investitionsplan auf schriftlichen Antrag an das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft überprüft werden.
 
 
 12.
@@ -1049,7 +1026,7 @@ Gemäß § 79 der
 
 Sächsischen Gemeindeordnung
 
-in der Fassung der Bekanntmachung vom 3. März 2014 (SächsGVBl. S. 146), die zuletzt durch Artikel 18 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, sind ausnahmsweise außerplanmäßige oder überplanmäßige Ausgaben zulässig. Der Gemeinderat, der Kreistag oder die Verbandsversammlung sind zu beteiligen. Sind die Maßnahmen nicht im Haushaltsplan veranschlagt, so sind für die Antragstellung die kommunale Finanzplanung sowie das Investitionsprogramm nach § 80 der
+in der Fassung der Bekanntmachung vom 9. März 2018 (SächsGVBl. S. 62), die zuletzt durch Artikel 3 des Gesetzes vom 15. Juli 2020 (SächsGVBl. S. 425) geändert worden ist, sind ausnahmsweise außerplanmäßige oder überplanmäßige Ausgaben zulässig. Der Gemeinderat, der Kreistag oder die Verbandsversammlung sind zu beteiligen. Sind die Maßnahmen nicht im Haushaltsplan veranschlagt, so sind für die Antragstellung die kommunale Finanzplanung sowie das Investitionsprogramm nach § 80 der
 
 Sächsischen Gemeindeordnung
 
@@ -1077,59 +1054,12 @@ Die haushaltsmäßige Darstellung der Fördermittel richtet sich nach § 36 Absa
 
 Sächsischen Kommunalhaushaltsverordnung-Doppik
 
-vom 10. Dezember 2013 (SächsGVBl. S. 910).
+vom 10. Dezember 2013 (SächsGVBl. S. 910), die zuletzt durch die Verordnung vom 30. Juli 2019 (SächsGVBl. S. 598) geändert worden ist.
 
 
 6.
 
-
-Für die in jedem zuwendungsrechtlichen Antragsverfahren vorzulegende gemeindewirtschaftliche Stellungnahme nach Großbuchstabe D der
-
-VwV Kommunale Haushaltswirtschaft-Doppik
-
-vom 10. Dezember 2013 (SächsABl. 2014 S. 104), enthalten in der Verwaltungsvorschrift vom 1. Dezember 2015 (SächsABl. SDr. S. S 348), gelten folgende Erleichterungen:
-
-
-a)
-
-Sind die Maßnahmen nicht im Haushaltsplan veranschlagt, werden für die gemeindewirtschaftliche Stellungnahme die fortgeschriebene kommunale Finanzplanung und das Investitionsprogramm herangezogen.
-
-
-b)
-
-Bei Maßnahmen mit Gesamtausgaben in Höhe von bis zu 100 000 Euro ist durch die Rechtsaufsichtsbehörde lediglich zu prüfen und zu bestätigen, ob die Maßnahme mit der dauernden Leistungsfähigkeit der Kommune im Einklang steht.
-
-
-c)
-
-Bei Maßnahmen mit Gesamtausgaben in Höhe von mehr als 100 000 Euro gilt Folgendes:
-
-
-aa)
-
-
-Muster 2 zu § 44 der
-
-Verwaltungsvorschriften zur Sächsischen Haushaltsordnung
-
-ist entbehrlich.
-
-
-bb)
-
-Die Nachweise für die Prüfung anderer Realisierungsvarianten sowie die Wirtschaftlichkeitsberechnungen sind auf das Notwendigste zu beschränken.
-
-
-cc)
-
-Die Rechtsaufsichtsbehörden prüfen, ob die beantragte Maßnahme im Einklang mit der dauernden Leistungsfähigkeit der Kommune steht, und bestätigen dies. Bei Kommunen mit instabiler oder kritischer Haushaltslage ist bei der Beurteilung der dauernden Leistungsfähigkeit in entsprechender Anwendung von Großbuchstabe C Ziffer IV Nummer 1 Buchstabe a und b der VwV Kommunale Haushaltswirtschaft-Doppik zu prüfen, ob es sich um solche Maßnahmen handelt, die für die infrastrukturelle Grundversorgung oder den Ausbau von Hochgeschwindigkeitsbreitbandnetzen erforderlich sind, und die Folgekosten gedeckt werden können.
-
-
-Soweit der Zuwendungsempfänger die gemäß § 5 des
-
-Sächsischen Investitionskraftstärkungsgesetzes
-
-zur Verfügung stehenden Investitionspauschalen zum Ersatz von andernfalls für eine Förderung nach dieser Verwaltungsvorschrift erforderlichen Eigenmitteln verwendet, entfällt im Zuwendungsverfahren die gemeindewirtschaftliche Stellungnahme. In diesen Fällen ist jedoch eine Bestätigung der Rechtsaufsichtsbehörde erforderlich, dass die Folgekosten berücksichtigt worden sind.
+Bei Investitionsvorhaben sollen Wirtschaftlichkeitsbetrachtungen herangezogen werden. Mit Ausnahme von Ersatzneubauten können dabei die Nachweise für die Prüfung anderer Realisierungsvarianten sowie die Wirtschaftlichkeitsberechnungen auf das Notwendigste beschränkt werden.
 
 
 G. Verfahren
@@ -1180,11 +1110,6 @@ Erklärung des Hauptverwaltungsbeamten oder des Vertretungsberechtigten, dass ge
 
 gg)
 
-die gemeindewirtschaftliche Stellungnahme gemäß Großbuchstabe F Ziffer 6 und
-
-
-hh)
-
 für Neubauvorhaben nach Großbuchstabe B die Erklärung des Hauptverwaltungsbeamten oder des Vertretungsberechtigten, dass gemäß Großbuchstabe B Ziffer III Nummer 2 Buchstabe f die Folgekosten beachtet wurden.
 
 
@@ -1213,7 +1138,7 @@ Die Bewilligungsstelle prüft den Verwendungsnachweis. Die im Verfahren beteilig
 
 2.
 
-Ergänzende Erlasse der Fachressorts zur Anwendung dieser Verwaltungsvorschrift ergehen im Einvernehmen mit dem Staatsministerium für Umwelt und Landwirtschaft.
+Ergänzende Erlasse der Fachressorts zur Anwendung dieser Verwaltungsvorschrift ergehen im Einvernehmen mit dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft.
 
 3.
 
@@ -1341,9 +1266,9 @@ Fsn-Nr.: 551-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 26. Juni 2018
+Fassung gültig ab: 17. Dezember 2020
 
-Fassung gültig bis: 16. Dezember 2020
+Fassung gültig bis: 14. September 2023
 
 Drucken/Speichern
 
@@ -1368,7 +1293,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16843.2
+https://www.revosax.sachsen.de/vorschrift/16843.3
 Stand vom
 18.11.2026
 
