@@ -1,0 +1,53 @@
+# 20. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2020-12-17T16:00:00+01:00
+- Ende: 2020-12-17T20:30:00+01:00
+- Ort: Messe Dresden, Halle 3 Messering 6, 01067 Dresden
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8861
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8861
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00517215.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1 Runde)
+- TOP 4: Umbesetzung im Umlegungsausschuss - Vertagung
+- TOP 5: Umbesetzung im Umlegungsausschuss - Zustimmung
+- TOP 6: Nachbesetzung eines/r Vertreters/-in der Landeshauptstadt Dresden in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Einwendungen gegen den Entwurf der Haushaltssatzung 2021/2022 gemäß § 76 SächsGemO - punktweise Zustimmung
+- TOP 9: Haushaltssatzung 2021/2022 und Wirtschaftspläne der Eigenbetriebe 2021/2022 - Zustimmung mit Änderung
+- TOP 10: Neubau Verwaltungszentrum - Grundstücksübertragung, Bürgschaftsübernahme, überplanmäßige Mittelumverteilung, Kapitaleinlagen, Wesentliche Änderung der Kommunale Immobilien Dresden GmbH & Co. KG - Zustimmung
+- TOP 11: Neufassung der Elternbeitragssatzung vom 15. Mai 2014 - Vertagung
+- TOP 12: Neufassung der Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) - Vertagung
+- TOP 13: Gesamtsanierung der 92. Grundschule "An der Aue", Großzschachwitzer Straße 92 in 01259 Dresden - Zustimmung
+- TOP 14: Baubeschluss 46. Oberschule - Ersatzneubau Zweifeld-Schulsporthalle - Zustimmung mit Ergänzung
+- TOP 15: Umsetzung der Maßnahmen im Rahmen des Förderprogrammes „Digitale Schulen in Sachsen“ - Zustimmung mit Ergänzung
+- TOP 16: Verkauf eines Grundstückes in Dresden-Pieschen und Ergebnisse der Einwohnerversammlung vom 16. November 2020 zur Zukunft des Sachsenbades - Vertagung
+- TOP 17: Erhalt des Sachsenbades als Gesundheitsbad / Aufhebung der Konzeptausschreibung aus dem Jahr 2018 - Vertagung
+- TOP 18: Sachsenbad: Beteiligung der Bürgerinnen und Bürger ernst nehmen. Keine Beschlussfassung ohne Empfehlung des Bürgerforums. - Vertagung
+- TOP 19: Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung) - Zustimmung
+- TOP 20: Abstimmungsvereinbarung mit der Reclay Systems GmbH - Duales System Redual zur Erfassung gebrauchter Verkaufsverpackungen und Nebenentgeltvereinbarungen mit allen Dualen Systemen - Zustimmung
+- TOP 21: Stadtumbaugebiet Westlicher Innenstadtrand – Revitalisierung ehemaliges Heizkraftwerk Mitte – Instandsetzung des Gebäudes 30 als Startup-Zentrum - Zustimmung
+- TOP 22: Vertagungen letzte Stadtratssitzung am 26.11.2020
+- TOP 22.1: Kompensationspflicht bei Stellplatzwegfall - Vertagung
+- TOP 23: Ausschreibung von Dienstleistungskonzessionen für Dienstleistungen zum mobilen Bezahlen der Parkgebühren für den Konzessionszeitraum 1. April 2021 bis 31. Dezember 2023 mit zwei einseitigen Verlängerungsoptionen bis 31. Dezember 2025 - Zustimmung
+- TOP 24: Fachkräftesicherungsstrategie für Dresden – transparent, lokal und regional koordiniert - Vertagung
+- TOP 25: Gewährung von Leistungen für Studierende aufgrund der Unterstützung zur Bewältigung der Corona-Pandemie - Zustimmung
+- TOP 26: Vergütung für Studierende mit einem Ausbildungsvertrag mit der Landeshauptstadt Dresden - Vertagung
+- TOP 27: Kulturentwicklungsplan der Landeshauptstadt Dresden 2020 - Zustimmung mit Änderung
+- TOP 28: Museen der Stadt Dresden - Entwicklungsplan 2020 - Zustimmung mit Ergänzung
+- TOP 29: Bildung und Teilhabe im Zuge des Starke-Familien-Gesetzes einfacher gestalten - dauerhafte Rückübertragung des Bildungspaketes für SGB-II-Leistungsberechtigte auf das Jobcenter Dresden - Zustimmung
+- TOP 30: Mehrgenerationenhaus des Trägers riesa efau Kultur Forum Dresden - Zustimmung
+- TOP 31: Gewährung von Parkerleichterungen im Rahmen der Durchführung von Handwerksdiensten mit Kundendienstfahrzeug/Werkstattwagen in der Landeshauptstadt Dresden - Vertagung
+- TOP 32: Verkehrssichere Radwege im Bereich der Reicker Straße schaffen - Vertagung
+- TOP 33: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung
+- TOP 34: Wiedereinführung der Möglichkeit von Bargeldzahlungen in den Bürgerbüros der Landeshauptstadt Dresden - Vertagung
+- TOP 35: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung
+- TOP 36: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung
+- TOP 37: Beteiligungsbericht 2019 der Landeshauptstadt Dresden - zur Kenntnis genommen
