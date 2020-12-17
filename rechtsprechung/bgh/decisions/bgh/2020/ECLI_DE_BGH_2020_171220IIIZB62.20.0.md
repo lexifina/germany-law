@@ -1,0 +1,113 @@
+---
+ecli: "ECLI:DE:BGH:2020:171220IIIZB62.20.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-03"
+aktenzeichen: "III ZB 62/20"
+decided: "2020-12-17"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2020&Sort=1&Seite=108&nr=113868&anz=3286&pos=3240&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-03_NA_2020-12-17_III_ZB_62_20_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/1796.md", "germany/bund/acts/bgb/1899.md", "germany/bund/acts/bgb/1903.md", "germany/bund/acts/bgb/1908i.md", "germany/bund/acts/famfg/0271.md", "germany/bund/acts/famfg/0275.md", "germany/bund/acts/zpo/0114.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, III ZB 62/20 vom 2020-12-17
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                         BESCHLUSS
+III ZB 62/20
+                                vom
+
+                         17. Dezember 2020
+
+                  in dem Prozesskostenhilfeverfahren
+
+
+
+
+ECLI:DE:BGH:2020:171220BIIIZB62.20.0
+
+                                         - 2 -
+
+
+
+    Der III. Zivilsenat des Bundesgerichtshofs hat am 17. Dezember 2020 durch den
+    Vorsitzenden Richter Dr. Herrmann, den Richter Dr. Remmert, die Richterinnen
+    Dr. Arend und Dr. Böttcher sowie den Richter Dr. Kessen
+
+    beschlossen:
+
+          Der Antrag auf Bewilligung von Prozesskostenhilfe für die vom Antragsteller beabsichtigte Rechtsbeschwerde gegen den Beschluss
+          des 9. Zivilsenats des Oberlandesgerichts Karlsruhe vom 22. September 2020 - 9 W 46/20 - wird als unzulässig zurückgewiesen.
+
+
+
+                                        Gründe:
+
+                                           I.
+
+1         Der Antragsteller wendet sich mit der "Rechtsbeschwerde", hilfsweise mit
+    der "Nichtzulassungsbeschwerde zur Rechtsbeschwerde" gegen den vorgenannten Beschluss. Mit diesem hat das Oberlandesgericht unter Verweis auf die
+    fehlende Prozessfähigkeit des Antragstellers dessen sofortige Beschwerde gegen einen Beschluss des Landgerichts, mit dem ihm Prozesskostenhilfe für eine
+    - mit keinem nachvollziehbaren Sachvortrag unterlegte - Amtshaftungsklage versagt worden war, als unzulässig verworfen. Der Senat legt das Anliegen des Antragstellers als Gesuch auf Bewilligung von Prozesskostenhilfe für eine beabsichtigte Rechtsbeschwerde gegen den angefochtenen Beschluss als hier allein in
+    Betracht kommendes Rechtsmittel aus.
+
+
+                                           II.
+
+2   1.    Der Antrag auf Bewilligung von Prozesskostenhilfe ist bereits unzulässig.
+    Der Antragsteller steht - senatsbekannt - gemäß § 1903 BGB unter Betreuung
+    mit Einwilligungsvorbehalt für den Aufgabenkreis "Behördenangelegenheiten
+
+                                         - 3 -
+
+
+
+    und gerichtliche Verfahren", wobei sein Betreuer, der Antragsgegner zu 3, der
+    Prozessführung ausdrücklich nicht zugestimmt hat. Dass sich die beabsichtigte
+    Klage auch gegen diesen richtet, ändert nichts, zumal es dem Betreuten nicht
+    generell verwehrt ist, wirksam einen Rechtsstreit gegen seinen Betreuer selbst
+    zu führen. Für diese (einzelne) Angelegenheit kann nämlich der - insoweit nach
+    § 275 FamFG in Verbindung mit § 271 Nr. 1 FamFG verfahrensfähige - Betroffene zunächst beim zuständigen Betreuungsgericht beantragen, gemäß
+    § 1908i Abs. 1 Satz 1 BGB in Verbindung mit § 1796 BGB analog seinem Betreuer die Betreuung wegen eines erheblichen Interessengegensatzes teilweise
+    zu entziehen und gemäß § 1899 Abs. 4 BGB einen Ergänzungsbetreuer zu bestellen. Wird daraufhin ein Ergänzungsbetreuer bestellt, kann dieser (gegebenenfalls) gemäß § 1903 BGB seine Einwilligung dazu erteilen, dass der Betreute
+    gegen seinen (Haupt-)Betreuer prozessiert.
+
+3   2.     Davon abgesehen, wäre dem Antragsteller Prozesskostenhilfe zu versagen, weil die von ihm beabsichtigte Rechtsverfolgung keine hinreichende Aussicht auf Erfolg hat (§ 114 Abs. 1 Satz 1 ZPO). Denn die - hier als Rechtsmittel
+    allein in Betracht kommende - Rechtsbeschwerde wäre unzulässig. Nach § 574
+    Abs. 1 Satz 1 ZPO ist die Rechtsbeschwerde zum Bundesgerichtshof nur gegeben, wenn dies im Gesetz ausdrücklich bestimmt ist oder das Beschwerdegericht
+    sie in dem angefochtenen Beschluss zugelassen hat. Diese Voraussetzungen
+    liegen hier nicht vor. Mit der Rechtsbeschwerde kann auch nicht geltend gemacht
+    werden, dass das Beschwerdegericht sie hätte zulassen müssen (vgl. nur Senatsbeschlüsse vom 4. April 2012 - III ZA 9/12, juris Rn. 2 und vom 29. Mai 2013
+    - III ZA 26/13, juris).
+
+4   3.     Letzteres ist dem Antragsteller im Übrigen aus unzähligen Verfahren bekannt, in denen er in den vergangenen Jahren den Senat - teilweise gemeinsam
+    mit seiner nicht unter Betreuung stehenden Ehefrau - mit ähnlichen Eingaben
+    beschäftigt hat, die sämtlich auf die Erhebung unzulässiger Rechtsbeschwerden
+
+                                     - 4 -
+
+
+
+beziehungsweise die Bewilligung von Prozesskostenhilfe hierfür gerichtet waren.
+Allein am heutigen Tag hat der Senat drei weitere unzulässige Anträge des Antragstellers auf Bewilligung von Prozesskostenhilfe für unstatthafte Rechtsbeschwerden zurückgewiesen, wobei vier neue Anträge bereits eingegangen sind.
+Der Senat wird in Zukunft vergleichbare - offensichtlich unzulässige und erkennbar rechtsmissbräuchliche - Eingaben des Antragstellers nicht mehr bescheiden.
+Er muss es nicht hinnehmen, durch sinnentleerte Inanspruchnahme seiner Arbeitskapazitäten bei der Erfüllung seiner Aufgaben behindert zu werden (vgl.
+BGH, Beschlüsse vom 26. Januar 2017 - 5 ARs 54/16, juris Rn. 7 und 5 AR (Vs)
+5/17, juris Rn. 6 mit Hinweis auf BVerfG, Beschlüsse vom 29. Juni 2010 - 1 BvR
+2358/08, juris Rn. 6 und vom 23. Februar 2016 - 2 BvR 60/16 und 63/16, juris
+Rn. 3).
+
+Herrmann                             Remmert                             Arend
+
+
+                  Böttcher                                Kessen
+
+
+
+
+Vorinstanzen:
+LG Freiburg, Entscheidung vom 28.05.2020 - 6 O 178/20 -
+OLG Karlsruhe in Freiburg, Entscheidung vom 22.09.2020 - 9 W 46/20 -
