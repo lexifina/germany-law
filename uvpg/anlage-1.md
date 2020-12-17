@@ -369,8 +369,13 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 14.4 | Bau einer neuen vier- oder mehrstreifigen Bundesstraße, wenn diese neue Straße eine durchgehende Länge von 5 km oder mehr aufweist; | X |  |
 | 14.5 | Bau einer vier- oder mehrstreifigen Bundesstraße durch Verlegung und/oder Ausbau einer bestehenden Bundesstraße, wenn dieser geänderte Bundesstraßenabschnitt eine durchgehende Länge von 10 km oder mehr aufweist; | X |  |
 | 14.6 | Bau einer sonstigen Bundesstraße; |  | A |
-| 14.7 | Bau eines Schienenweges von Eisenbahnen mit den dazugehörenden Betriebsanlagen einschließlich Bahnstromfernleitungen; | X |  |
-| 14.8 | Bau einer sonstigen Betriebsanlage von Eisenbahnen, insbesondere einer intermodalen Umschlagsanlage oder eines Terminals für Eisenbahnen, soweit der Bau nicht Teil des Baues eines Schienenweges nach Nummer 14.7 ist; |  | A |
+| 14.7 | Bau eines Schienenwegs von Eisenbahnen mit den dazugehörigen Betriebsanlagen sowie Bahnstromfernleitungen auf dem Gelände der Betriebsanlage oder entlang des Schienenwegs | X |  |
+| 14.8 | Soweit der Bau nicht Teil des Baus eines Schienenwegs nach Nummer 14.7 oder einer Bahnstromfernleitung nach Nummer 19.13 ist |  |  |
+| 14.8.1 | Bau von Gleisanschlüssen mit einer Länge bis 2 000 m |  | S |
+| 14.8.2 | Bau von Zuführungs- und Industriestammgleisen mit einer Länge bis 3 000 m |  | S |
+| 14.8.3 | Bau einer sonstigen Betriebsanlage von Eisenbahnen, insbesondere einer intermodalen Umschlaganlage oder eines Terminals für Eisenbahnen, wenn diese eine Fläche |  |  |
+| 14.8.3.1 | von 5 000 m2 oder mehr in Anspruch nimmt, |  | A |
+| 14.8.3.2 | von 2 000 m2 bis weniger als 5 000 m2 in Anspruch nimmt. |  | S |
 | 14.9 | Bau einer Magnetschwebebahnstrecke mit den dazugehörenden Betriebsanlagen; | X |  |
 | 14.10 | Bau einer anderen Bahnstrecke für den öffentlichen spurgeführten Verkehr mit den dazugehörenden Betriebsanlagen; |  | A |
 | 14.11 | Bau einer Bahnstrecke für Straßenbahnen, Stadtschnellbahnen in Hochlage, Untergrundbahnen oder Hängebahnen im Sinne des Personenbeförderungsgesetzes, jeweils mit den dazugehörenden Betriebsanlagen; |  | A |
@@ -470,3 +475,6 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 19.12.2 | einer Länge von mehr als 40 km und einem Durchmesser von 300 mm bis zu 800 mm, |  | A |
 | 19.12.3 | einer Länge von 5 km bis 40 km und einem Durchmesser von mehr als 300 mm, |  | A |
 | 19.12.4 | einer Länge von weniger als 5 km und einem Durchmesser von mehr als 300 mm. |  | S |
+| 19.13 | Errichtung und Betrieb einer Bahnstromfernleitung mit einer Nennspannung von 110 kV bis weniger als 220 kV, soweit nicht von Nummer 14.7 erfasst, |  |  |
+| 19.13.1 | mit einer Länge von 15 km oder mehr |  | A |
+| 19.13.2 | mit einer Länge von weniger als 15 km |  | S |

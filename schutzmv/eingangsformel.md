@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe c und Nummer 2, Satz 5, 7, 9 bis 12 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung – (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), der durch Artikel 4 Nummer 1 des Gesetzes vom 18. November 2020 (BGBl. I S. 2397) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium der Finanzen und nach Anhörung des Spitzenverbandes Bund der Krankenkassen, der Kassenärztlichen Bundesvereinigung, des Deutschen Apothekerverbandes e. V. und des Verbandes der Privaten Krankenversicherung:

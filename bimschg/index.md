@@ -133,7 +133,8 @@
 - [§ 60 Ausnahmen für Anlagen der Landesverteidigung](0060.md)
 - [§ 61 Berichterstattung an die Europäische Kommission](0061.md)
 - [§ 62 Ordnungswidrigkeiten](0062.md)
-- [(XXXX) §§ 63 bis 65 (weggefallen)](xxxx-63-bis-65.md)
+- [§ 63 Entfall der aufschiebenden Wirkung](0063.md)
+- [(XXXX) §§ 64 bis 65 (weggefallen)](xxxx-64-bis-65.md)
 
 ## Achter Teil Schlussvorschriften
 

@@ -22,6 +22,7 @@
 | § 12 | UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist |
 | § 13 | Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben |
 | § 14 | Entwicklungs- und Erprobungsvorhaben |
+| § 14a | Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen |
 |  |
 | Abschnitt 2 |
 | Verfahrensschritte der Umweltverträglichkeitsprüfung |
@@ -108,6 +109,7 @@
 | § 65 | Planfeststellung; Plangenehmigung |
 | § 66 | Entscheidung; Nebenbestimmungen; Verordnungsermächtigung |
 | § 67 | Verfahren; Verordnungsermächtigung |
+| § 67a | Zulassung des vorzeitigen Baubeginns |
 | § 68 | Überwachung |
 | § 69 | Bußgeldvorschriften |
 |  |

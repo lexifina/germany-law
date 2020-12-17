@@ -3,7 +3,7 @@
 1. Abschnitt
 Gebühren des Bundes
 | Gebühren- Nummer | Gegenstand | Gebühr Euro |
-|  | A. | Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen |  |
+|  | A. | Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen |  |
 |  | 1. | Erlaubnisse und Genehmigungen für Fahrzeuge und Fahrzeugteile sowie Autorisierungen |  |
 | 111 |  | Erteilung |  |
 | 111.1 |  | einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung (Mehrphasen-Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien | 534,00 bis 734,00 |
@@ -23,7 +23,7 @@ Gebühren des Bundes
 | 114 |  | Nachprüfung der Übereinstimmung der Produktion auf Grund einer durch das Kraftfahrt-Bundesamt erteilten Erlaubnis oder Genehmigung, wenn |  |
 | 114.1 |  | ein Verstoß gegen Meldepflichten festgestellt wird | 141,00 |
 | 114.2 |  | eine Abweichung vom Typ oder von den Vorschriften über die Erlaubnis oder Genehmigung festgestellt wird | 361,00 |
-|  | 1a. | Anerkennung von Stellen zur Prüfung von Fahrzeugen und Fahrzeugteilen, Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen, behördliche Bewertung von Maßnahmen zum Qualitäts- und Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der Übereinstimmung der Produktion |  |
+|  | 1a. | Anerkennung von Stellen zur Prüfung von Fahrzeugen und Fahrzeugteilen, Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen, behördliche Bewertung von Maßnahmen zum Qualitäts- und Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein, Fahrerqualifizierungsnachweis und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der Übereinstimmung der Produktion |  |
 | 115 |  | Anerkennung von Stellen zur Prüfung/Inspektion/Begutachtung von Fahrzeugen und Fahrzeugteilen |  |
 | 115.1 |  | Anerkennung (ohne Begehung und Reisezeit) | 5 113,00 bis 23 622,00 |
 | 115.2 |  | Nachtrag zur Anerkennung (ohne Begehung und Reisezeit) | 2 556,00 bis 11 453,00 |
@@ -48,9 +48,9 @@ Gebühren des Bundes
 | 119.2 |  | Konformitätsbericht je weitere Fertigungsstätte | 562,00 |
 | 119.3 |  | Vorprüfung gemäß Recyclingrichtlinie | 1 278,00 bis 8 181,00 |
 | 119.4 |  | Verlängerung der Vorprüfungsbescheinigung | 614,00 bis 2 965,00 |
-| 119.5 |  | Bewertung der an Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken, oder anderen Dokumenten beteiligten Unternehmen | 2 659,00 bis 3 477,00 |
+| 119.5 |  | Bewertung der Unternehmen, die an der Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligt sind | 2 659,00 bis 3 477,00 |
 | 119.6 |  | Bewertung von Überwachungsorganisationen | 5 062,00 bis 6 442,00 |
-| 119.7 |  | Überwachung der an Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken, oder anderen Dokumenten beteiligten Unternehmen | 1 483,00 bis 1 892,00 |
+| 119.7 |  | Überwachung der an Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligten Unternehmen | 1 483,00 bis 2 399,00 |
 | 119.8 |  | Überwachung von Überwachungsorganisationen | 1 892,00 bis 2 914,00 |
 | 119.9 |  | (weggefallen) |  |
 | 120 |  | Zulassung zur Selbstprüfung für Hersteller von Kleinserienfahrzeugen |  |
@@ -72,7 +72,7 @@ Gebühren des Bundes
 | 127 |  | Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens im ZFZR | 0,20 |
 |  | 3. | Mitwirkung bei der Aufbietung von Urkunden |  |
 | 131 |  | Aufbietung einer verlorenen Zulassungsbescheinigung Teil II, einschließlich der Kosten der öffentlichen Bekanntmachung | 5,10 |
-|  | 4. | Auskünfte |  |
+|  | 4. | Auskünfte und Mitteilungen |  |
 | 141 |  | Auskunft über ein Kraftfahrzeug oder einen Anhänger |  |
 | 141.1 |  | – im automatisierten Verfahren | 0,10 |
 | 141.2 |  | – im teilautomatisierten Verfahren (digitalisierte, formatgerechte Anfragen) | 4,00 |
@@ -82,6 +82,7 @@ Gebühren des Bundes
 | 142.2 |  | – im Wiederholungsfall | 1 000,00 bis 4 000,00 |
 | 144 |  | Schriftliche Auskunft über den Verbleib eines Fahrzeugs | 6,10 |
 | 145 |  | Auskunft aus dem Fahreignungsregister an eine Behörde in Fahrerlaubnisangelegenheiten und sonstigen in § 30 Absatz 1 Nummer 3, Absatz 2, 4, 4a und 4b StVG aufgeführten Verwaltungsmaßnahmen, soweit sie durch einen Antragsteller veranlasst werden | 3,30 |
+| 146 |  | Auskünfte aus dem und Mitteilungen an das Berufskraftfahrerqualifikationsregister (BQR), die im Zusammenhang mit der Ausstellung von Fahrerqualifizierungsnachweisen stehen | 5,00 |
 | Gebühren aus den vorstehenden Unterabschnitten 2 und 4 werden teilweise für den Bund von den Behörden im Landesbereich erhoben. |  |
 |  | 5. | Ausnahmegenehmigungen |  |
 | 151 |  | Erteilung einer Ausnahme bei Erteilung oder in Ergänzung einer Allgemeinen Betriebserlaubnis oder EG-Typgenehmigung oder Allgemeinen Bauartgenehmigung | 132,00 |
@@ -250,7 +251,7 @@ Gebühren der Behörden im Landesbereich
 | 243 |  | Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf der Zustimmung zur Betrauung von Kraftfahrzeugsachverständigen mit der Durchführung von Untersuchungen nach Nummer 3.7 und Nummer 4.1.3 der Anlage VIIIb zur StVZO | 33,20 bis 256,00 |
 | 244 |  | Prüfung von Bewerbern für die Durchführung von Hauptuntersuchungen einschließlich Abnahmen nach § 19 Absatz 3 StVZO für Überwachungsorganisationen | 481,00 |
 |  |  | Diese Gebühr schließt die Kosten für die Mitglieder des Prüfungsausschusses ein. Werden ein oder mehrere Teile der Prüfung nicht durchgeführt, ermäßigt sich die Gebühr für die Gesamtprüfung um jeweils 33 1/3 v. H. für jeden ausgefallenen Teil. Die sich dadurch ergebenden Teilbeträge werden auf volle Euro aufgerundet. Die Ermäßigung tritt nicht für die Teile ein, die ohne Verschulden des Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnten. |  |
-|  | 4. | Sonstige Maßnahmen im Bereich des StVG, der StVZO, FZV, FeV |  |
+|  | 4. | Sonstige Maßnahmen im Bereich des StVG, der StVZO, FZV, FeV, BKrFQV |  |
 | 251 |  | Entscheidung über einen Antrag auf Tilgung einer Eintragung im Fahreignungsregister nach § 29 Absatz 3 Nummer 2 StVG | 12,80 bis 102,00 |
 | 252 |  | Anordnung zum Führen eines Fahrtenbuches einschließlich der Prüfung der Eintragung | 21,50 bis 200,00 |
 | 253 |  | Nachprüfung der Mängelbeseitigung an einem Fahrzeug durch die Zulassungsbehörde | 7,20 |
@@ -258,7 +259,7 @@ Gebühren der Behörden im Landesbereich
 |  |  | Die Gebühr ist auch fällig, wenn die Voraussetzungen für die Anordnung erst nach Einleiten der Zwangsmaßnahme beseitigt sowie nachgewiesen worden sind. Die Gebühr umfasst auch die im Zusammenhang mit der Vollstreckung der Anordnung entstehenden Kosten. |  |
 | 255 |  | Entscheidung über eine Ausnahme von einer Vorschrift des Straßenverkehrsgesetzes, der Straßenverkehrs-Zulassungs-Ordnung, der Fahrzeug-Zulassungsverordnung, je Ausnahmetatbestand und je Fahrzeug/Person | 10,20 bis 511,00 |
 |  |  | Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 10,20 Euro je Fahrzeug und je Ausnahmetatbestand nicht unterschritten werden. |  |
-| 256 |  | Abnahme einer Versicherung an Eides statt durch Niederschrift bei der Verwaltungsbehörde (§ 5 StVG) | 30,70 |
+| 256 |  | Abnahme einer Versicherung an Eides statt durch Niederschrift bei der Verwaltungsbehörde (§ 5 StVG, § 9 Absatz 3 BKrFQV) | 30,70 |
 | 257 |  | Bewertung alternativer Lehr- und Lernmethoden und Medien zur Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars nach § 42 Absatz 2 FeV einschließlich der Auslagen für eine externe Begutachtung | 1 000,00 bis 10 000,00 |
 | 258 |  | Anerkennung eines Qualitätssicherungssystems für die verkehrspsychologische Teilmaßnahme des Fahreignungsseminars nach § 4a Absatz 8 StVG | nach dem Zeitaufwandmit 12,80 Euroje angefangene Viertelstunde Bearbeitungszeit |
 | 259 |  | Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4 EmoG in Verbindung mit § 9a Absatz 4 FZV | 11,00 |
@@ -332,11 +333,11 @@ Gebühren der Behörden im Landesbereich
 | 326 |  | Zwangsweise Einziehung des Ausweises über die Anerkennung | 7,70 bis 40,90 |
 |  |  | Die Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist. |  |
 | 329 |  | Entscheidung über eine Ausnahme von den Vorschriften des Kraftfahrsachverständigengesetzes | 25,60 bis 511,00 |
-|  | F | Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG) und Berufskraftfahrer-Qualifikations-Verordnung (BKrFQV) |  |
+|  | F | Berufskraftfahrerqualifikationsgesetz (BKrFQG) und Berufskraftfahrerqualifikationsverordnung (BKrFQV) |  |
 | 343 |  | Eintrag der Schlüsselzahl 95 im Führerschein nach Grundqualifikation oder Weiterbildung nach § 5 Absatz 2 BKrFQV | 28,60 |
 | 344 |  | Entscheidung über Erteilung einer Bescheinigung nach § 5 Absatz 4 Satz 4 BKrFQV einschließlich Ausfertigung oder Widerruf | 28,60 bis 256,00 |
-| 345 |  | Entscheidung über die Erteilung im Falle der Anerkennung nach § 7 BKrFQG, Untersagung der Durchführung des Unterrichts nach § 7a Absatz 1 und 2 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 7a Absatz 3 BKrFQG sowie die Untersagung der Ausübung von Tätigkeiten nach § 7a Absatz 5 BKrFQG | 51,10 bis 511,00 |
-| 346 |  | Überwachung der Ausbildungsstätten nach § 7b Absatz 1 in Verbindung mit § 7 Absatz 1 Satz 1 Nummer 1 und 5 BKrFQG sowie § 7b Absatz 2 in Verbindung mit § 7 Absatz 1 Satz 1 Nummer 3 und 4 BKrFQG | 30,70 bis 511,00 |
+| 345 |  | Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
+| 346 |  | Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG | 30,70 bis 511,00 |
 |  |  | Die Gebühr ist auch zu entrichten, wenn die Überwachung ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Inhabers der Ausbildungsstätte am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. |  |
 |  | G. | Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs |  |
 | 398 |  | Androhung der Anordnung der im 2. Abschnitt genannten Maßnahmen, soweit bei den einzelnen Gebührennummern die Androhung nicht bereits selbst genannt ist | 10,20 |

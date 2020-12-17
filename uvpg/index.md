@@ -24,6 +24,7 @@
 - [§ 12 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist](0012.md)
 - [§ 13 Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben](0013.md)
 - [§ 14 Entwicklungs- und Erprobungsvorhaben](0014.md)
+- [§ 14a Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen](0014a.md)
 
 ### Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung
 
@@ -110,6 +111,7 @@
 - [§ 65 Planfeststellung; Plangenehmigung](0065.md)
 - [§ 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung](0066.md)
 - [§ 67 Verfahren; Verordnungsermächtigung](0067.md)
+- [§ 67a Zulassung des vorzeitigen Baubeginns](0067a.md)
 - [§ 68 Überwachung](0068.md)
 - [§ 69 Bußgeldvorschriften](0069.md)
 

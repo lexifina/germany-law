@@ -128,7 +128,8 @@ Gemeinsame Vorschriften
 | § 60 | Ausnahmen für Anlagen der Landesverteidigung |
 | § 61 | Berichterstattung an die Europäische Kommission |
 | § 62 | Ordnungswidrigkeiten |
-| §§ 63bis 65 | (weggefallen) |
+| § 63 | Entfall der aufschiebenden Wirkung |
+| §§ 64 bis 65 | (weggefallen) |
 Achter Teil
 Schlussvorschriften
 | § 66 | Fortgeltung von Vorschriften |
