@@ -1,0 +1,29 @@
+# Aufstellung des Bebauungsplanes 1.111.0 "Auf dem Stücke Nord" -Vorstellung und Erläuterung des Gutachtens zur Kaltluftproblematik -Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit/der Offenlage gem. § 3 Abs. 1 und 3 Abs. 2 Baugesetzbuch (BauGB) und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 4 Abs. 2 BauGB -Satzungsbeschluss über die Aufstellung des Bebauungsplanes Nr. 1.111.0 "Auf dem Stücke Nord"
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 350/2020 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2020-12-17
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfN5hXAkCN30gfEO_IjGxwg
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8548
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Aufstellung des Bebauungsplanes 1.111.0 "Auf dem Stücke Nord"
+-Vorstellung und Erläuterung des Gutachtens zur Kaltluftproblematik
+-Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit/der Offenlage gem. § 3 Abs. 1 und 3 Abs. 2 Baugesetzbuch (BauGB) und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 4 Abs. 2 BauGB
+-Satzungsbeschluss über die Aufstellung des Bebauungsplanes Nr. 1.111.0 "Auf dem Stücke Nord") https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdtu4Y7PXABQ1lXP1TsbmdPvv7zZ7nrZY47o_7JJcATh/Beschlussvorlage_350-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfysPlZ08tSkboFJu9iylfBTnKBtPQ_PeCzs7QT0J_dd/Anlage_zur_Beschlussvorlage_350-2020.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVDmOLjM_iTgSuubyVySEVgWQxg6d-xqwR-0hU8UX5AV/Anlage_zur_Beschlussvorlage_350-2020.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVO5nru7vSy1a6J81UJwPW-a8vzgCptZafyobBF-uf-y/Anlage_zur_Beschlussvorlage_350-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeuDzi-64UgeotvfPixionrBmjqyHatdkKQOwtfJNO5W/Anlage_zur_Beschlussvorlage_350-2020.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfuvWmlczpufX8Hg_TEGxHxhA5oJQKRlwMjyIOzVsQ3u/Anlage_zur_Beschlussvorlage_350-2020.pdf
+- Anlage: Beschlussvorlage (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfClzCHMJWlD5yRgXDnHYUDyfcCCOGEDBycTDscfM1Kd/1-.pdf
+- Anlage: Beschlussvorlage (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_7SdbJLiT_QNn5NHCxoai9o1JwXdIqXhJ8A9iDCDmt/1-.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrmjpaNKbUUdM2CszbZGSV1kTAY664Yh4pOzimHIXJ8/Anlage_zur_Beschlussvorlage_350-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 350/2020 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcss1T-IYvR1jmxpCa6XR56Pn5UtCZCO3TOh-AAFTPOP/Anlage_zur_Beschlussvorlage_350-2020_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (2020_05_15_18_548_bad_pyrmont_ub) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW6AweLGmbbLE4kV9ytyPHcBtlOxjN38DhFCgSDe7pVd/2020_05_15_18_548_bad_pyrmont_ub.pdf
+- Anlage: Beschlussvorlage (2020_02_19_18_548_bad_pyrmont_ub_karte1.mxd) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfOyNUWia8fig4xgOBj_vdaySlhlWATIu3vvBQjAQAu8/2020_02_19_18_548_bad_pyrmont_ub_karte1.mxd.pdf
+- Anlage: Beschlussvorlage (2019_06_04_18_548_bad_pyrmont_asf) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUxoQVhn6EcKjJNAsBgxo2favwqai-PVlpcDsbYy8Kyu/2019_06_04_18_548_bad_pyrmont_asf.pdf
+- Anlage: Beschlussvorlage (Stellungnahme) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSN4JyYGHWNtipiJEs-tyCero_gnwweGK8XktTFDMgGY/Stellungnahme.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20330 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-8
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19558 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-202
