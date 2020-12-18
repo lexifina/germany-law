@@ -1,0 +1,51 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2020-12-18T16:00:00+01:00
+- Ende: 2020-12-18T17:30:00+01:00
+- Ort: Doppelsporthalle, ,  , der Grundschule Vlotho
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaWeJ7JEyEFVsYPEMRFgxwQ
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4197
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWspG-vj22dpftZAsQQSo6jrOP43rLxWOKiXE5rcucrV/Oeffentliche_Niederschrift_Rat_18.12.2020.pdf
+
+## Tagesordnung
+
+- TOP A: Öffentliche Sitzung
+- TOP 1.: Delegierung gemäß § 60 Abs. 2 GO NRW an den Haupt- und Finanzausschuss - Zur Kenntnis genommen
+- TOP 1.1: Übergabe der Heimat-Preise 2020
+- TOP 2.: Verpflichtung von Ratsmitgliedern
+- TOP 3.: Jahresrückblick 2020 und Ausblick 2021
+- TOP 4.: Niederschrift über die 49. Sitzung vom 10.09.2020 - öffentlicher Teil -
+- TOP 5.: Niederschrift über die 1. Sitzung vom 05.11.2020 - öffentlicher Teil -
+- TOP 6.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 7.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 8.: Fragestunde für Einwohner*innen
+- TOP 9.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 9.1: Antrag auf Verbesserung der Schienen-Personen-Nahverkehrs-Anbindung in Vlotho - Zur Kenntnis genommen
+- TOP 10.: Gültigkeitserklärung der Bürgermeister- und Gemeinderatswahl vom 13. September 2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Resolutionen
+- TOP 11.1: Resolution für den trassennahen Ausbau sowie die Ertüchtigung der bestehenden ICE-Trasse zwischen Bielefeld und Hannover - Einstimmig, 0 Enthaltung(en)
+- TOP 11.2: Resolution zum freiwilligen Verzicht auf Silvesterböllerei (Abbrennen von Feuerwerkskörpern/andere pyrotechnische Gegenstände) - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Bildung, Zusammensetzung und personelle Besetzung der Ausschüsse und Gremien nach den Kommunalwahlen vom 13.09.2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Heimat-Preis für Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Anmeldeverfahren Grundschulen zum Schuljahr 2021/22 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Bereitstellung von mobilen Endgeräten für Ratsmitglieder; Entschädigung bei Nutzung von eigenen Geräten ab 01.01.2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Beitritt / Mitgliedschaft der Stadt Vlotho im Förderverein der NRW-Stiftung - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Jahresabschluss 2019 der Vlothoer Wirtschaftsbetriebe - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Änderung der Betriebssatzung der Vlothoer Wirtschaftsbetriebe (VWB) - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Personal - für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Abwasser - für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Straßenneubau - für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Innenstadtprojekte - für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Gebührenbedarfsberechnung Abfallbeseitigung 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Gebührenbedarfsberechnung Bestattungswesen 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Gebührenbedarfsberechnung Straßenreinigung 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Gebührenbedarfsberechnung für die Übergangsheime und Notunterkünfte für das Jahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Änderung der Beitrags- und Gebührensatzungen der Stadt Vlotho hier: Artikelsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: Erlass einer Rahmenvorgabe gemäß § 22, Abs. 2 Verpackungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 31.: Anfragen nach § 17 der Geschäftsordnung und Mitteilungen
