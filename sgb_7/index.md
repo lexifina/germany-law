@@ -1,7 +1,6 @@
 # Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Erstes Kapitel Aufgaben, versicherter Personenkreis, Versicherungsfall
 
