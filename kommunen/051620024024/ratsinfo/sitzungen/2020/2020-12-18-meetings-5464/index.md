@@ -1,0 +1,75 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2020-12-18T16:00:00+01:00
+- Ende: 2020-12-18T00:00:00+01:00
+- Ort: - Sitzung fällt aus -
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5464
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5464
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Bericht zur Bewältigung der Corona-Krise
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 6: Vorprüfung über die Gültigkeit der Wahl zum Bürgermeister am 13. September 2020 - nicht beraten aufgrund Sitzungsausfall
+- TOP 7: Vorprüfung über die Gültigkeit der Wahl zum Rat der Stadt Neuss am 13. September 2020 - nicht beraten aufgrund Sitzungsausfall
+- TOP 8: Vorprüfung über die Gültigkeit der Wahl zum Integrationsausschuss am 13. September 2020 - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Beschlussfassung des Rates
+- TOP 9: Bezirksausschüsse und deren Besetzung - nicht beraten aufgrund Sitzungsausfall
+- TOP 10: Integriertes Klimaschutzkonzept der Stadt Neuss 2035 - nicht beraten aufgrund Sitzungsausfall
+- TOP 11: Neusser Grünflächen und Parks als Standortfaktoren - Auftrag zur Durchführung einer Machbarkeitsstudie zur Bewerbung für die Landesgartenschau 2026 - einstimmig zugestimmt
+- TOP 12: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2021 - einstimmig zugestimmt
+- TOP 13: Jahresabschluss 2019 - nicht beraten aufgrund Sitzungsausfall
+- TOP 14: Jahresabschluss zum 31.12.2019 sowie Lagebericht für das Wirtschaftsjahr 2019 des Gebäudemanagements der Stadt Neuss (GMN) - nicht beraten aufgrund Sitzungsausfall
+- TOP 15: Wirtschaftsplan 2021 für das Gebäudemanagement der Stadt Neuss (GMN) - einstimmig zugestimmt
+- TOP 16: Ausscheiden der Stadt Neuss aus dem Verband der kommunalen RWE-Aktionäre GmbH (VkA) - nicht beraten aufgrund Sitzungsausfall
+- TOP 17: Neufestsetzung der Gebühren für den Rettungsdienst Stadt Neuss ab 2021 - einstimmig zugestimmt
+- TOP 18: Verlängerung der aktuellen Regelungen zur Parkraumbewirtschaftung im öffentlichen Raum und in den Parkbauten der CityParkhaus GmbH aufgrund der Corona-Lage bis zum 31.12.2021 - mehrheitlich zugestimmt
+- TOP 19: Sanierung der Ringerhalle am Nordparkbad - einstimmig zugestimmt
+- TOP 20: Spielraumplanung: Grundsatzbeschluss inkl. Ausbauplanung Neuanlage "An der Villa Sophia/Vellbrüggener Straße (Norf)" - nicht beraten aufgrund Sitzungsausfall
+- TOP 21: Wahl einer/eines Hansebeauftragten der Stadt Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 22: Zukünftige Wahrung der Belange von Menschen mit Behinderungen in der Stadt Neuss - abgesetzt
+- TOP 23: Nutzungsordnung für den Kinderbauernhof - nicht beraten aufgrund Sitzungsausfall
+- TOP 24: Benutzungsordnung für die Räume des Alten Rathauses Norf - nicht beraten aufgrund Sitzungsausfall
+- TOP 25: Verleihung des Heimat-Preises 2020 - einstimmig zugestimmt
+- TOP 26: Platzhalter ohne Vorlage
+- TOP -: Anträge
+- TOP 27: Antrag der CDU-Fraktion betr.: Anliegen des Stadtelternrates unterstützen - zur Kenntnis genommen
+- TOP 28: Antrag der CDU-Fraktion betr.: Neubau der Fleher Brücke - verwiesen
+- TOP 29: Antrag der CDU-Fraktion betr.: Einsatz von Dialog-Displays verstärken - verwiesen
+- TOP 30: Antrag der CDU-Fraktion betr.: Fahrgemeinschaften fördern - Umwelt und Straßen entlasten - verwiesen
+- TOP 31: Antrag der CDU-Fraktion betr.: Geburtsbäumchen - Klimaschutz greifbar machen - verwiesen
+- TOP 32: Antrag der CDU-Fraktion betr.: Mehr Hitzeschutz auf Spielplätzen - verwiesen
+- TOP 33: Antrag der CDU-Fraktion betr.: Schulwege zur Grundschule Allerheiligen sicherer machen - verwiesen
+- TOP 34: Antrag der CDU-Fraktion betr.: Teilnahme am Sonderförderprogramm "Klimaresilienz in Kommunen" - verwiesen
+- TOP 35: Antrag der CDU-Fraktion betr.: Verkehrssicherheit am Gut Vellbrüggen vor dem Ortseingang Norf verbessern - zur Kenntnis genommen
+- TOP 36: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Bericht zum Stand der Digitalisierung an Neusser Schulen - verwiesen
+- TOP 37: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Einberufung einer Versammlung der Schülersprecher*innen der weiterführenden Neusser Schulen - vertagt
+- TOP 38: Antrag der CDU-Fraktion betr.: Verkehrsberuhigung auf der Pomona - verwiesen
+- TOP 39: Antrag der CDU-Fraktion betr.: Neue Entwicklungschancen für den Wendersplatz - verwiesen
+- TOP 40: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Gänsemanagement in Neuss - vertagt
+- TOP 41: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Schwimmkursangebot erweitern - verwiesen
+- TOP -: Anfragen
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 46: Gänsemanagement Alter Stadtgarten / Neuer Stadtgarten und Rosengarten - nicht beraten aufgrund Sitzungsausfall
+- TOP 47: Feuerwache „Süd“: Planungsschritte und Entwicklung des Kostenrahmens - zur Kenntnis genommen
+- TOP 48: Finanzierung des ÖPNV-Angebots der Rheinbahn AG - zur Kenntnis genommen
+- TOP 49: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 50: Sitzungskalender des Rates und der Ausschüsse 2021 - zur Kenntnis genommen
+- TOP 51: Geschäfts- und Dezernatsverteilungsplan - zur Kenntnis genommen
+- TOP 51.1: Sachstand der Digitalisierung an Neusser Schulen - zur Kenntnis genommen
+- TOP -: Einwohnerfragestunde
