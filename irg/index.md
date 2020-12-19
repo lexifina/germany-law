@@ -308,20 +308,28 @@ Mitgliedstaat der Europäischen Union
 - [§ 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung](0094.md)
 - [§ 95 Sicherungsunterlagen](0095.md)
 - [§ 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen](0096.md)
+
+## Elfter Teil Durchführungsvorschriften zur Verordnung (EU) 2018/1805 des Europäischen Parlaments und des Rates vom 14. November 2018 über die gegenseitige Anerkennung von Sicherstellungs- und Einziehungsentscheidungen
+
+- [§ 96a Grundsatz](0096a.md)
+- [§ 96b Zuständigkeit und Verfahren für eingehende Ersuchen](0096b.md)
+- [§ 96c Vollstreckung](0096c.md)
+- [§ 96d Rechtsbehelf](0096d.md)
+- [§ 96e Ausgehende Ersuchen](0096e.md)
 - [§ 97 (weggefallen)](0097.md)
 
-## Elfter Teil Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten
+## Zwölfter Teil Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten
 
 - [§ 97a Anwendungsbereich](0097a.md)
 - [§ 97b Übermittlung personenbezogener Daten](0097b.md)
 - [§ 97c Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle](0097c.md)
 
-## Zwölfter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen (doppelt)
+## Dreizehnter Teil Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
 
-- [§ 98 Vorrang des Elften Teils](0098.md)
+- [§ 98 Vorrang des Dreizehnten Teils](0098.md)
 - [§ 99 Grundsätzliche Pflicht zur Bewilligung](0099.md)
 
-## Zwölfter Teil Schlussvorschriften
+## Vierzehnter Teil Schlussvorschriften
 
 - [§ 100 Anwendungsvorbehalt; Stichtagsregelung](0100.md)
 - [§ 101 Übergangsvorschrift für Ersuchen, die auf einer Abwesenheitsentscheidung beruhen](0101.md)

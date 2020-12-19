@@ -4,7 +4,7 @@
 - [§ 2 Rechtsanwälte](0002.md)
 - [§ 3 Veröffentlichung](0003.md)
 - [§ 4 Spenden](0004.md)
-- [§ 5 Hinweise auf Mitgliedschaft](0005.md)
+- [§ 5 Missbräuchliche Hinweise auf die Mitgliedschaft](0005.md)
 - [§ 6 Interessenverknüpfung im Ausschuß](0006.md)
 - [§ 7 Rückfrage](0007.md)
 - [§ 8 Verfahren](0008.md)
