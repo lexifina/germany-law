@@ -1,0 +1,77 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2020-12-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5742634
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5742634
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Ausbesserung/ Erneuerung des Straßenbelages in der Hartmannshofer Straße zwischen Lechel- und Lauterbachstraße
+- TOP 2.2.: Fehlende Grundschule mitten in Moosach (in der Nähe der "Meiller Gärten")
+- TOP 2.3.: Notwendigkeit eines Fußgängerübergangs in der Feldmochinger Straße zwischen Batzenhofer- und Gärtnerstraße
+- TOP 2.4.: Nachbesserung Umlaufsperre Dachauer Straße/ Postillonstraße
+- TOP 2.5.: Geschwindigkeitsbegrenzungsmaßnahme in der Donauwörther Straße (-> Stellungnahme PI 43 liegt vor!)
+- TOP 3.2.1.: Bürgeranliegen: Einrichtung eines Durchfahrverbots für LKW‘s in der Merseburger Straße (→ Wiedervorlage aus der Sitzung 25.11.2020/ TOP 2.3)
+- TOP 3.2.2.: Beteiligung des BA 10 an einem vom BA 23 initiierten gemeinsamen Ortstermin Waldhornstraße / Brieger Straße
+- TOP 3.2.3.: Einladung BA23 zu einem gemeinsamen Ortstermin Waldhornstraße/Brieger Straße (siehe TOP 3.2.2/ 21.12.2020 Nachfrage BA10]
+- TOP 3.3.1.: Bauvorhaben: 1. Untermenzinger Str. 1 (Variante A und B) 2. Ernst-Platz-Str. 35a 3. Feldmochinger Str. 16
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Feldmochinger Str. 16 (-> Bauvorhaben siehe Top 3.3.1.3)
+- TOP 3.3.3.: Baumfällungen (Baumschutz): - nur auf Aufruf -
+- TOP 4.1.1.: Anfrage: Überarbeitung und Neuherausgabe der Broschüre "KulturGeschichtspfad für Moosach"
+- TOP 4.1.2.: Anfrage: Wird die Olympia-Pressestadt in die Feierlichkeiten zu "50 jahre Olympische Sommerspiele in München 2022" einbezogen?
+- TOP 4.1.3.: Erweiterung des Revivals der Olympischen Spielstraßen
+- TOP 4.1.4.: Offizielle Benennung "Moosacher Stachus"
+- TOP 4.2.1.: Einrichtung eines Bildungslokals in Moosach
+- TOP 4.2.2.: Einsatz "Demokratiemobil" des KJR im Vorfeld der Bundestagswahl 2021 im 10. Stadtbezirk
+- TOP 5.1.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Anschaffung eines Kühlschranks und eines Induktionskochfeldes 862,50 € / Az. 0262.0-10-0239
+- TOP 5.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-11-0409
+- TOP 6.1.: Beschlussentwurf: Untersuchungsgebiet Moosach, Verhandlungsverfahren ohne Teilnahmewettbewerb... zur Neuordnung des Moosacher St.-Martins-Platzes mit Umfeld, Neubau Kultursaal, Sanierung Hacklhaus und Neubau Auszubildenden-Wohnen
+- TOP 6.2.: Bildung eines neuen Sprengels und Änderung der Sprengel für die Grundschulen Emmy-Noether-Str. 5, Dieselstr. 14 und Gertrud-Bäumer-Str. 19 (Protokoll der Audiokonferenz am 26.11.2020)
+- TOP 6.3.: Beschlussentwurf: Parkraummanagement in München - Umsetzung Sektor VI Teil 1
+- TOP 6.4.: Mieterbeiratswahl 2021: Entsendung von stimmberechtigten Mitgliedern
+- TOP 6.5.: Beschlussentwurf: Ausbau der Bahnüberführung Dachauer Straße mit Offenhaltung der Durchfahrt für eine Tram; Herausnahme der Dachauer Straße aus dem Vorbehaltsnetz für den städt. Wirtschaftsverkehr (→ vertagt aus der Sitzung am 25.11.2020/ TOP 6.6 nach virtueller Infoveranstaltung; BA-Antrag Nr. 14-20/ B 07297 des BA10)
+- TOP 7.1.: Internetversorgung in Moosach durch M-net [BA-Antrag Nr. 20-26/B00953; Erschliessung in Ausbauphasen; Infos auf SWM-Homepage: https://www.swm.de/glasfaser]
+- TOP 7.2.: Zwischennachricht: Aufnahme der Olympia-Pressestadt in den Umgriff für die Bewerbung "Welterbe Olympiapark" [BA-Antrag Nr. 14-20/B07296; die Prüfung durch das Landesamt für Denkmalpflege bzw. durch den Landesdenkmalrat ist noch nicht abgeschlossen]
+- TOP 7.3.: Einrichtung eines absoluten Haltverbots in der Franz-Mader-Straße [Schreiben BA10 vom 21.10.2020; eingeschränktes wurde durch absolutes Haltverbot ersetzt]
+- TOP 7.4.: Verkehrssituation in der Lauinger Straße und Donauwörther Straße - Geschwindigkeitsmessungen der Polizei [Schreiben BA10 vom 24.06.2020; Auswertung TOPO-Boxen]
+- TOP 7.5.: Wartehäuschen an der Bushaltestelle Memminger Platz (Linie 163) und Parkbank an der Bushaltestelle "Pelkovenstraße" [div. Bürgeranliegen; Umsetzung jeweils geplant]
+- TOP 7.6.: Beschilderung des barrierefreien Wegs (Piktogramme) am Eingang OEZ Hanauer Straße [Schreiben BA10 vom 19.07.2019; Beschilderung ist nach Aussage des Projektmanagements nach Umbau OEZ vorgesehen].
+- TOP 8.1.: Information zu den Schulbauprogrammen aufgrund der aktuellen Haushaltslage
+- TOP 8.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Andernacher Straße (12m Nordseite): Errichtung absolutes Haltverbot 2. Bunzlauer Str. 8: Errichtung absolutes Haltverbot 3. Abensbergstraße (Ostseite, nördl. Haylerstr): Errichtung absolutes Haltverbot 4. Schragenhofstraße: Errichtung von Haltverboten 5. Pfeilschifterstraße: Öffnung für gegenläufigen Radverkehr 6. Warschauer Straße u.a.: Widmungserweiterung mit "Radverkehr frei"
+- TOP 8.4.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.5.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024, Einzelplan 4 / Sozialbereich
+- TOP 8.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.7.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.8.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 8.9.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.10.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 8.11.: (U) Sanierungsgebiet Moosach A) Vorbereitende Untersuchungen im Untersuchungsgebiet Moosach B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger C) Förmliche Festlegung als Sanierungsgebiet Moosach D) Sanierungsziele und Projekte für das Sanierungsgebiet E) Projekte zu Beginn der Sanierung F) Organisatorische Erfordernisse zur Programmumsetzung G) Photovoltaikanlagen in Sanierungsgebieten H) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 10 Moosach
+- TOP 8.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 8.14.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 8.15.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 8.16.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 8.17.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 8.18.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 8.19.: Mobilfunk: Erweiterung bestehende Sendeanlage: Bauberger Straße - nicht-öffentlich -
+- TOP 4.: Anträge
