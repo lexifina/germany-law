@@ -1,0 +1,126 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2020-12-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5964798
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5964798
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Bürgerfragen
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.2.1.: Protokoll/e der Sitzung am 24.11.2020
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Hansjakobstraße, Abriss eines Garagenhofes und Neubau von Wohnungen - Vorbescheid - (vertagt aus 11/20)
+- TOP 3.1.2.: Bad-Kissingen-Str. 66 und 68, Neubau eines Reihenmittelhauses
+- TOP 3.1.3.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) Firma RF 360 Europe GmbH - Anzinger Str. 13 - Projekt "ECO 2020" Antrag auf wesentliche Änderung einer genehmigungsbedürftigen Anlage zur Oberflächenbehandlung - Anhörung durch das Referat für Gesundheit und Umwelt -
+- TOP 3.1.4.: Lüften I: Nachrüstung von Luftfiltern in städtischen Gebäuden; Antrag CSU-Fraktion
+- TOP 3.1.5.: Lüften II: Beantragung von Fördergeldern für raumlufttechnische Anlagen; Antrag CSU-Fraktion
+- TOP 3.1.6.: Lüften III: Einsatz von CO2-Sensoren; Antrag CSU-Fraktion
+- TOP 3.1.7.: Lüften IV: Studien über Raumlüftung in öffentlichen Gebäuden veröffentlichen; Antrag CSU-Fraktion
+- TOP 3.1.8.: Lüften V: Lüftungsanlagen in öffentlichen Neubauten einplanen; Antrag CSU-Fraktion
+- TOP 3.1.9.: Lüften VI: KI zur Verbesserung von Lüftungsmöglichkeiten heranziehen; Antrag CSU-Fraktion
+- TOP 3.1.10.: Öffentliche-Open-Air Fitness-Area für Berg am Laim; Antrag Die Linke
+- TOP 3.1.11.: Fitnesspark Michaelianger, Antrag der SPD-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Südlicher Fußgängerübergang an der Ampel Hultschinerstraße / Truderinger Straße zeitnah schaffen; Antrag Fraktion Die Grünen
+- TOP 3.2.2.: Ideenwettbewerb für den Knoten Bad-Schachener-Straße/Hechtseestraße/Heinrich-Wieland-Straße/St.-Michael-Straße/Hofangerstraße; Antrag CSU-Fraktion
+- TOP 3.2.3.: Gehweg für die Straße "Auf dem Wasen"; Bürgeranliegen
+- TOP 3.2.4.: Barrierefreiheit II: Öffentliche Sitzbänke in Online-Karten veröffentlichen; Antrag MdBA
+- TOP 3.2.5.: Josephsburgstraße - Änderung Halteverbot östlich Baumkirchner Straße - Anhörung durch das Kreisverwaltungsreferat -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Anpassung der Vereinbarung zwischen dem Bezirksausschuss und dem Amt für Wohnen und Migration bezüglich des Wohnprojekts für Geflüchtete in der Baumkirchner Str. 17 (Hotel Eisenreich); Antrag Die Linke
+- TOP 3.4.2.: Sozialberatung in Berg am Laim in Zukunft sichern; Antrag der Fraktionen CSU und SPD
+- TOP 3.5.1.: Barrierefreiheit I: BA-Website in leichter Sprache; Antrag MdBA
+- TOP 3.5.2.: Stadtbezirksbudget: Ermöglichung BA-eigener sozialer und ökologischer Projekte; Antrag der Fraktionen CSU und SPD
+- TOP 3.5.3.: Klare Regeln für die Bestellung städtischer Leistungen aus dem Stadtbezirksbudget; Antrag CSU-Fraktion
+- TOP 3.5.4.: (E) Stadtbezirksbudget EI "Bunte Knöpfe e.V." Farbenfroh miteinander vom 11.01. - 17.12.2021 2.920,00 € / Az. 0262.0-14-0279
+- TOP 3.5.5.: (E) Stadtbezirksbudget BIKU e.V. Mädchen an den Ball! vom 01.05. - 31.12.2021 6.020,00 € / Az. 0262.0-14-0280
+- TOP 3.5.6.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-14-0276
+- TOP 3.5.7.: (E) Stadtbezirksbudget AKA e.V. Formularservice vom 01.01. - 31.12.2021 2.282,25 € / Az. 0262.0-14-0278
+- TOP 3.5.8.: (E) Stadtbezirksbudget Förderverein der Sozialstation Berg am Laim / Trudering e.V. Anschaffung von Luftreinigungsgeräten 2.869,18 € / Az. 0262.0-14-0277
+- TOP 3.5.9.: Antrag auf Bestellung städtischer Leistungen: hier: Errichtung von 2 Tischtennisplatten im kleinen Park am Maria-Eck-Platz Bürgeranliegen
+- TOP 3.5.10.: (E) Stadtbezirksbudget Jane Addams Zentrum e.V. Weihnachtsbescherung in den Wohnprojekten für Geflüchtete 7.000,00 € / Az. 0262.0-14-0282
+- TOP 3.5.11.: (E) Stadtbezirksbudget Förderverein der Sozialstation Berg am Laim / Trudering e.V. Gutscheine für Bedürftige 2.000,00 € / Az. 0262.0-14-0281
+- TOP 3.5.12.: Antrag auf Bestellung städtischer Leistungen durch den BA 14 in Höhe von 55.000,00 Euro für die Krautgärten Berg am Laim - Vorlage zum Beschluss des BA 14 durch das Kommunalreferat -
+- TOP 3.6.1.: Hansjakobstraße, Abriss eines Garagenhofes und Neubau von Wohnungen - Vorbescheid -
+- TOP 3.6.2.: Bad-Kissingen-Str. 66 und 68, Neubau eines Reihenmittelhauses
+- TOP 3.6.3.: Vinzenz-von-Paul-Str. 5-11
+- TOP 3.6.4.: Praschlerstr. 29
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 09.11.2020 bis 29.11.2020
+- TOP 4.1.2.: Zweckentfremdungen im 14. Stadtbezirk
+- TOP 4.1.3.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 4.1.4.: Digitale Bereitstellung von Planunterlagen
+- TOP 4.1.5.: Kammerkörplatz genutzt als Schrottplatz - Antwort des Baureferates auf Bürgeranliegen -
+- TOP 4.1.6.: Aufstellung von Trinkbrunnen im Michaelianger
+- TOP 4.1.7.: Ruhestörung und Belästigung durch Jugendliche in der Parkanlage an der Fehwiesenstraße - Antwort AKIM (Allparteiliches Konfliktmanagement) auf Bürgeranliegen -
+- TOP 4.1.8.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 4.1.9.: Barrierefreie Müllentsorgung mit Unterflurcontainern
+- TOP 4.1.10.: Allgemeinverfügung der Landeshauptstadt München über das Verbot des Abbrennens von pyortechnischen Gegenständen der Kategorie F2 mit ausschließlicher Knallwirkung innerhalb des Mittleren Ringes (Umweltzone) auch am 31.12.2020 und 01.01.2021
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 4.2.2.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 4.2.3.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2097 Anzinger Straße 23/29 - Aufhebung des Einleitungs- und Aufstellungsbeschlusses und des Billigungsbeschlusses und Verzicht auf Aufhebung einfacher übergeleiteter Bebauungspläne gemäß § 173 Abs. 3 Bundesbaugesetz (BBauG) - Stadtbezirk 14 Berg am Laim
+- TOP 4.2.4.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 4.2.5.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 4.2.6.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 4.2.7.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 4.2.8.: Berg-am-Laim-Straße - Südseite (gegenüber Haus Nr. 117 - Kaufland) Pkw-Parken
+- TOP 4.2.9.: Baumkirchner Straße - Ostseite am Grünen Markt; Änderung der Kurzzeit-Parkdauer
+- TOP 4.2.10.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Gammelsdorfer Str. 4
+- TOP 4.2.11.: Pilotversuch mit Lärmdisplays: Antrag auf Bestellung städtischer Leistungen
+- TOP 4.2.12.: Aufstellen eines Schildes "Radfahrer überholen verboten" in der St.-Veit-Straße
+- TOP 4.2.13.: Behinderung von Fußgänger*innen durch Baustellenverkehr in der Neumarkter Straße - Antwortschreiben der PI 24 auf Bürgeranliegen -
+- TOP 4.2.14.: Bau eines Gehweges zur Kindertagesstätte in der Hachinger-Bach-Str. 11; Bürgeranliegen
+- TOP 4.2.15.: Unerlaubte Sondernutzung und Abstellen von Fahrzeugen in der Halfinger Straße - Antwortschreiben der PI 25 auf Bürgeranliegen -
+- TOP 4.2.16.: (U) Variantenvergleich Truderinger Kurve und Truderinger Spange a) Bahnprojekt Daglfinger und Truderinger Kurve –Jetzt anwohnerfreundlichen Ausbau sichern Antrag Nr. 20-26 / A 00358 der Stadtratsfraktion der FDP BAYERNPARTEI vom 13.08.2020 b) Antrag auf ein Hearing zum Gesamtkomplex Bahnausbau im Münchner Osten und Norden, Brennerzulauf / Truderinger- Daglfinger Kurve und Spange / 4-gleisiger Ausbau Daglfing – Johanneskirchen / Bahn-Nordring Antrag Nr. 14-20 / A 05462 von der Fraktion Die Grünen / RL, DIE LINKE vom 04.06.2019
+- TOP 4.2.17.: (U) Verkehrsgutachten für die Stadtbezirke 13, 14 und 15 Empfehlung Nr. 14-20 / E 02705 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 11.07.2019
+- TOP 4.2.18.: Baustelle "Die Macherei", fehlende Beschilderung - Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranliegen -
+- TOP 4.2.19.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 4.2.20.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 4.2.21.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 4.2.22.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 4.2.23.: Zehntfeldstraße / Heinrich-Wieland-Straße: Einrichtung einer Ampelanlage
+- TOP 4.2.24.: Marktwägen an der U-Bahnhaltestelle Michaelibad
+- TOP 4.2.25.: Zweitschrift "Sommer in der Stadt" Sitzungsvorlage Nr. 20-26/V 01754
+- TOP 4.2.26.: Einrichten von Livestreams bei den Plenumssitzungen des BA 15 zum Schutz der Gesundheit sowie zum Ermöglichen der Teilhabe und der Transparenz
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.: Information zu den Schulausbauprogrammen aufgrund der aktuellen Haushaltslage
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Ausbau der sozialen Infrastruktur in Berg am Laim: Ausreichende Seniorenbetreuung, Neubau eines Alten- und Servicezentrums (ASZ), Kinderbetreuung und Grundschulplätze im Viertel realisieren
+- TOP 4.4.2.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 4.4.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 4.4.5.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Jahresmeldung des Baureferates - Gartenbau für das Jahr 2021 über bevorstehende Entfernung von Gefahrenbäumen im 14. Stadtbezirk
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.3.1.: Mieterbeiratswahl 2021 - Information durch das Sozialreferat -
