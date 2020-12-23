@@ -37,9 +37,10 @@ II. Öffentlicher Dienst
 31. Schulen
 32. stationäre Betreuungseinrichtungen (z.B. Hilfen für Erziehung)
 33. Die Landesbeauftragte für den Datenschutz und Informationsfreiheit
-34. Performa Nord
-35. den Ziffern 1 bis 29 entsprechende Einrichtungen anderer Bundesländer und Kommunen
-36. Einrichtungen, deren Tätigkeit für die Pflege diplomatischer und konsularischer Beziehungen sowie die Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen notwendig ist
+34. Landesbeauftragte für Frauen/ Bremische Zentralstelle für die Gleichberechtigung der Frau
+35. Performa Nord
+36. den Ziffern 1 bis 29 entsprechende Einrichtungen anderer Bundesländer und Kommunen
+37. Einrichtungen, deren Tätigkeit für die Pflege diplomatischer und konsularischer Beziehungen sowie die Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen notwendig ist
 III. Kritische Infrastruktur
 1. Ver- und Entsorgung (Strom, Wasser, Energie, Abfall): z.B. Hansewasser, Bremer Stadtreinigung, SWB/Wesernetz, Kraftstoffversorgung (HGM Energy)
 2. Transport und Verkehr
