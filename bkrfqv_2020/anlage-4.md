@@ -1,13 +1,14 @@
 # Anlage 4 (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3)Musterbescheinigung über die Teilnahme an einer Weiterbildung
 
 I. Musterbescheinigung über die Teilnahme an einer Weiterbildung
-  | Kopfbogen der Ausbildungsstätte | , |  |  | den |  |  |
-  |  | Ort | Datum |
+  | Kopfbogen der Ausbildungsstätte | ________________________________________________________, den |  | _____________________________________ |
+  |  | Ort |  | Datum |
   Bescheinigung über die Teilnahme an einer Weiterbildung gemäß den §§ 5 und 30 des Berufskraftfahrerqualifikationsgesetzes (BKrFQG) in Verbindung mit den §§ 4 und 11 der Berufskraftfahrerqualifikationsverordnung (BKrFQV)
   Herr/Frau
-  | , |  |  |  | geb. am: in |  |  |  |  |
+  | _____________________________________________________________, |  | geb. am: ________________________ in ____________________________ |
   | Vorname, Name |  |  |
-  |  |
+  |  |  |  |
+  | ___________________________________________________________________________________________________________________________________ |
   | Wohnanschrift |
   | hat an fünf aufeinanderfolgenden Schulungstagen vom _______________ bis _______________ an einer mehrtägigen Weiterbildung (Abschluss der Weiterbildung) mit _____ Unterrichtseinheiten (mindestens 35 Unterrichtseinheiten zu je 60 Minuten)* |
   | hat am _______________ an einer Weiterbildung mit _____ Unterrichtseinheiten (mindestens 7 Unterrichtseinheiten zu je 60 Minuten)* |

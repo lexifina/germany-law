@@ -1167,15 +1167,15 @@ bisherigen Nutzung](0590.md)
 - [§ 651x Haftung für Buchungsfehler](0651x.md)
 - [§ 651y Abweichende Vereinbarungen](0651y.md)
 
-#### Titel 10 Mäklervertrag
+#### Titel 10 Maklervertrag
 
 
 ##### Untertitel 1 Allgemeine Vorschriften
 
 - [§ 652 Entstehung des Lohnanspruchs](0652.md)
-- [§ 653 Mäklerlohn](0653.md)
+- [§ 653 Maklerlohn](0653.md)
 - [§ 654 Verwirkung des Lohnanspruchs](0654.md)
-- [§ 655 Herabsetzung des Mäklerlohns](0655.md)
+- [§ 655 Herabsetzung des Maklerlohns](0655.md)
 
 ##### Untertitel 2 Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
 
@@ -1188,6 +1188,13 @@ bisherigen Nutzung](0590.md)
 ##### Untertitel 3 Ehevermittlung
 
 - [§ 656 Heiratsvermittlung](0656.md)
+
+##### Untertitel 4 Vermittlung von Kaufverträgen über Wohnungen und Einfamilienhäuser
+
+- [§ 656a Textform](0656a.md)
+- [§ 656b Persönlicher Anwendungsbereich der §§ 656c und 656d](0656b.md)
+- [§ 656c Lohnanspruch bei Tätigkeit für beide Parteien](0656c.md)
+- [§ 656d Vereinbarungen über die Maklerkosten](0656d.md)
 
 #### Titel 11 Auslobung
 

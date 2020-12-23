@@ -1,8 +1,8 @@
 # Anlage 3 (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
 
 I. Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
-  | Kopfbogen der Ausbildungsstätte | , |  |  | den |  |  |
-  |  | Ort | Datum |
+  | Kopfbogen der Ausbildungsstätte | ________________________________________________________, den |  | _____________________________________ |
+  |  | Ort |  | Datum |
   Bescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation gemäß § 4 des Berufskraftfahrerqualifikationsgesetzes (BKrFQG) in Verbindung mit
   |  |  |  |  |  |  |  |
   |  | § 2 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* |  | § 2 Absatz 9 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* – Quereinsteiger |  | § 3 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* – Umsteiger |  |
@@ -10,11 +10,12 @@ I. Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigte
   |  | Güterverkehr* |  |
   |  | Personenkraftverkehr* |  |
   Herr/Frau
-  | , |  |  |  | geb. am: in |  |  |  |  |
+  | _____________________________________________________________, |  | geb. am: ________________________ in ____________________________ |
   | Vorname, Name |  |  |
-  |  |
+  |  |  |  |
+  | ___________________________________________________________________________________________________________________________________ |
   | Wohnanschrift |
-  | hat in der Zeit vom |  |  |  | bis |  |  |
+  | hat in der Zeit vom _______________________________________________ |  | bis ____________________________________________________________ |
   | mit einer Dauer von 140 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation teilgenommen. Der/Die o. g. Teilnehmer/in hat an sämtlichen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, die den Fahrerlaubnisklassen C1, C1E, C, CE (bei Grundqualifikation im Güterkraftverkehr)* bzw. D1, D1E, D, DE (bei Grundqualifikation im Personenkraftverkehr)* zugeordnet sind.* |
   | mit einer Dauer von 96 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Quereinsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche nicht Gegenstand der Prüfung gemäß § 4 der Berufszugangsverordnung für den Straßenpersonenverkehr* oder nach § 5 der Berufszugangsverordnung für den Güterkraftverkehr* sind.* |
   | mit einer Dauer von 35 Unterrichtseinheiten inkl. 2,5 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Umsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche die Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.* |
