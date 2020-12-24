@@ -62,12 +62,12 @@
 | B.9.3 | Frequenzzuteilung für den Betrieb eines Mittelwellensenders in digitaler Übertragung | 1 250 |
 | B.9.4 | Frequenzzuteilung für den Betrieb eines Kurzwellensenders in analoger Übertragungstechnik | 1 500 |
 | B.9.5 | Frequenzzuteilung für den Betrieb eines Kurzwellensenders in digitaler Übertragungstechnik | 750 |
-| B.9.6 | Frequenzzuteilung für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) | 50 je angefangene 10 qkm theoretischer Versorgungsfläche*), mindestens jedoch 450 |
-| B.9.7 | Frequenzzuteilung für den Betrieb eines Kanals im Band III in digitaler Übertragungstechnik (DAB-Block) | 30 je angefangene 10 qkm theoretischer Versorgungsfläche*), mindestens jedoch 450 |
-| B.9.8 | Frequenzzuteilung für den Betrieb eines Kanals im L-Band in digitaler Übertragungstechnik (DAB-Block) | 10 je angefangene 10 qkm theoretischer Versorgungsfläche*), mindestens jedoch 450* |
-| B.9.9 | Frequenzzuteilung für den Betrieb eines Kanals im Band III bis V in analoger Übertragungstechnik (Fernseh-Rundfunk) | 250 je angefangene 10 qkm theoretischer Versorgungsfläche*), mindestens jedoch 450 |
-| B.9.10 | Frequenzzuteilung für den Betrieb eines DVB-T-Kanals | 125 je angefangene 10 qkm theoretischer Versorgungsfläche*), mindestens jedoch 450 |
-| B.9.11 | Vergrößerung der theoretischen Versorgungsfläche eines Rundfunksenders | Differenz zwischen bisheriger und neuer theoretischer Versorgungsfläche*), mindestens jedoch Mindestgebühr gemäß lfd. Nr. B.9.6 - B.9.10 |
+| B.9.6 | Frequenzzuteilung für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) | 50 je angefangene 10 qkm theoretischer Versorgungsfläche, mindestens jedoch 450 |
+| B.9.7 | Frequenzzuteilung für den Betrieb eines Kanals im Band III in digitaler Übertragungstechnik (DAB-Block) | 30 je angefangene 10 qkm theoretischer Versorgungsfläche, mindestens jedoch 450 |
+| B.9.8 | Frequenzzuteilung für den Betrieb eines Kanals im L-Band in digitaler Übertragungstechnik (DAB-Block) | 10 je angefangene 10 qkm theoretischer Versorgungsfläche, mindestens jedoch 450 |
+| B.9.9 | Frequenzzuteilung für den Betrieb eines Kanals im Band III bis V in analoger Übertragungstechnik (Fernseh-Rundfunk) | 250 je angefangene 10 qkm theoretischer Versorgungsfläche, mindestens jedoch 450 |
+| B.9.10 | Frequenzzuteilung für den Betrieb eines DVB-T-Kanals | 125 je angefangene 10 qkm theoretischer Versorgungsfläche, mindestens jedoch 450 |
+| B.9.11 | Vergrößerung der theoretischen Versorgungsfläche eines Rundfunksenders | Differenz zwischen bisheriger und neuer theoretischer Versorgungsfläche, mindestens jedoch Mindestgebühr gemäß lfd. Nr. B.9.6 - B.9.10 |
 | B.9.12 | Verringerung der theoretischen Versorgungsfläche eines Rundfunksenders | Mindestgebühr gemäß lfd. Nr. B.9.6 - B.9.10 |
 | B.9.13 | Frequenzzuteilung für kurzzeitige Nutzungen mittels Rundfunktechnik der für den Rundfunkdienst zugewiesenen Frequenzbereiche | 25 % innerhalb der jeweiligen Neuzuteilungsgebühr, mindestens 450; maximal 1 250 |
 | B.9.14 | Frequenzzuteilung zur Nutzung von Frequenzen für Versuchsabstrahlungen zu Test- und Messzwecken | 450 |
@@ -77,29 +77,14 @@
 | B.9.18 | Änderung einer Frequenzzuteilung für den Betrieb eines Rundfunksenders, die auf Grund eines Wechsels des zu übertragenden Rundfunkprogramms im Sinne von § 47 Abs. 3 des Telekommunikationsgesetzes erforderlich wird, unter Beibehaltung des Senderbetreibers und ohne Änderung der auf den Verwendungszweck abgestellten telekommunikationsrechtlichen und technischen Parameter | 60 |
 | B.9.19 | Änderung der Frequenzzuteilung im Sinne von B.9.1 bis B.9.10 nach § 57 Absatz 1 Satz 8 des Telekommunikationsgesetzes auf Grund eines Wechsels des Sendernetzbetreibers ohne Änderung des Senderstandortes, anderer auf den Verwendungszweck der Frequenz abgestellter Parameter und des Programms | 50 bis 150 |
 | B.10 | Drahtloser Netzzugang zum Angebot von Telekommunikationsdiensten |  |
-| B.10.1 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 880 bis 915 MHz und 925 bis 960 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 500 000 · t1 |
-| B.10.2 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 1710 bis 1780,5 MHz und 1805 bis 1875,5 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 250 000 · t1 |
+| B.10.1 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 880 bis 915 MHz und 925 bis 960 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 500 000 · t |
+| B.10.2 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 1710 bis 1780,5 MHz und 1805 bis 1875,5 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 250 000 · t |
 | B.10.3 | Frequenzzuteilung zur lokalen Nutzung für den drahtlosen Netzzugang in dem Frequenzbereich 3700 bis 3800 MHz (einschließlich der Festsetzung funktechnischer Parameter) | 1 000 + B ∙ t ∙ 5 ∙ (6a1 + a2) |
+| B.10.4 | Frequenzzuteilung zur lokalen, breitbandigen Nutzung für den drahtlosen Netzzugang in dem Frequenzbereich 24,25 bis 27,5 GHz (einschließlich der Festsetzung funktechnischer Parameter) | 1 000 + B ∙ t ∙ 0,63 ∙ (6a1 + a2) |
+| B.10.5 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 451 bis 455,74 MHz und 461 bis 465,74 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B ∙ 600 000 ∙ t |
 | C | Gebühren für Maßnahmen auf Grund von Verstößen gegen die §§ 44 bis 47 des Telekommunikationsgesetzes oder die darauf beruhenden Rechtsverordnungen |  |
 | C.1 | Bearbeiten eines Verstoßes gegen Frequenzzuteilungsbedingungen, Auflagen oder die Frequenzzuteilungsverordnung einschließlich Festlegen der Maßnahmen | 25 bis 1 500 |
 | C.2 | Ausführen eines mobilen Messeinsatzes am Ort des Gestörten | 900 |
 | C.3 | Ausführen eines mobilen Messeinsatzes am Ort des Störers | 600 |
 | C.4 | Ausführen eines stationären Messeinsatzes zum Ermitteln von Funksendern, die gegen Frequenzzuteilungsbedingungen, Auflagen oder die Frequenzzuteilungsverordnung verstoßen | 250 bis 1 500 |
 | D | Entscheidungen nach § 142 Abs. 1 Nr. 1 des Telekommunikationsgesetzes, soweit in dieser Anlage kein ausdrücklicher Gebührentatbestand genannt wird; innerhalb des Gebührensrahmens richtet sich die Gebührenfestsetzung nach den Vorgaben in § 142 Abs. 2 Satz 3 und 4 des Telekommunikationsgesetzes | 60 bis 5 000 000 |
------ *) Theoretische Versorgungsfläche:
-  Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung der Frequenzzuteilungsgebühr. Sie basiert für den Rundfunkdienst auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.
-  Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position "Medianwert der Mindestfeldstärke") und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A1.50, Position "Medianwert für die minimale äquivalente Feldstärke") zu entnehmen. In Gleichwellennetzen unterbleibt eine Mehrfachveranschlagung von Theoretischen Versorgungsflächen verschiedener Sender.
-  Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10 Grad C-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
-|  | piR(hoch)2 |
-| A= ------------------ |
-| 36 |
-berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in qkm. Anteile von Flächenelementen, die aus Gebieten der Nord- und Ostsee bzw. ausländischem Hoheitsgebiet bestehen, werden nicht angerechnet.
-  Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.
-  Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-  Für Maßnahmen zur Erhöhung der Empfangsfeldstärke, die in einem Gleichwellennetz zu keiner Vergrößerung der Theoretischen Versorgungsfläche dieses Netzes führen, werden keine Zuteilungsgebühren erhoben.
-| 1 | Die Höhe der Gebühr wird nach der angegebenen Formel bestimmt. |
-|  | Hierbei sind: |
-|  | B | zugeteilte Bandbreite in MHz; |
-|  | EWRegion | Einwohnerzahl der Region bzw. – in Sonderfällen wie zum Beispiel Flughäfen, Firmen – potenzielle Nutzerzahl in der Region, für die die Frequenzzuteilung erfolgt; |
-|  | EWBRD | Einwohnerzahl der Bundesrepublik Deutschland; |
-|  | t | Laufzeit der Zuteilung in Jahren; soweit die Laufzeit der Zuteilung nicht in vollen Jahren bestimmt ist, wird für jeden angefangenen Monat eine Gebühr in Höhe eines Zwölftels einer Jahresgebühr erhoben. |
