@@ -31,4 +31,5 @@
 ## Abschnitt 4 Übergangsregelungen
 
 - [§ 18 Übergangsregelung](0018.md)
+- [§ 19 Sonderzahlung für das Jahr 2020](0019.md)
 - [Anlage (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung](anlage.md)
