@@ -1,0 +1,113 @@
+# Auf Grund des § 5 des Gesetzes zum Schutz und zur Pflege der Denkmäler im Lande Nordrhein-Westfalen (Denkmalschutzgesetz – DSchG)
+
+- Gemeinde: Stadt Aachen (ARS 053340002002)
+- Datum: 2020-12-24 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/bauwesen/satzungstext-veroeffentlichung.pdf?cid=3zm
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Satzung
+für die Erhaltung des Denkmalbereiches Kornelimünster vom 14.12.20201
+Auf Grund des § 5 des Gesetzes zum Schutz und zur Pflege der Denkmäler im Lande Nordrhein-Westfalen (Denkmalschutzgesetz – DSchG) vom 11. März 1980 (GV NRW S. 226, 716), zuletzt geändert durch Gesetz vom 15. November 2016 (GV. NRW. S. 934), in Verbindung mit dem § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch Artikel 4 des Gesetzes vom 14. April 2020 (GV. NRW. S. 218 b), hat der Rat der Stadt Aachen in seiner Sitzung am 16.09.2020 folgende Satzung beschlossen:
+Präambel
+Mit dieser Denkmalbereichssatzung werden der historische Ortskern von Kornelimünster und seine Einbindung in die umgebende Landschaft als Denkmalbereich gemäß § 5 DSchG festgesetzt und unter Schutz gestellt. Die Denkmalbereichssatzung soll gewährleisten, dass die einzigartige Gesamtanlage des historischen Ortskerns bewahrt wird, welche aufgrund seiner Siedlungsgeschichte eingebettet in dem Indetal liegt. Kornelimünster ist zu erhalten als lebendiger Ort, in dem gewohnt und gearbeitet wird. Dabei soll seine Weiterentwicklung und eine Anpassung an moderne Wohn- und Arbeitsverhältnisse unter Berücksichtigung weiterer öffentlicher Belange gesichert sein. Der historische Ortskern von Kornelimünster geht auf die Gründung der Klosteranlage um 814 zurück. Die erhaltenen und von Weltkriegen weitestgehend verschonten baulichen Anlagen sind ein anschauliches Beispiel einer über Jahrhunderte gewachsenen Siedlung um eine Reichsabtei. Kornelimünster ist bereits seit Jahrhunderten aufgrund seines Benediktinerklosters und seiner Reichsabtei als Pilgerziel ein bedeutsamer Ort der Religion und damit ein geistlich, geistig und wirtschaftlich überregionales Zentrum.
+1 Veröffentlicht in den Aachener Tageszeitungen am 24.12.2020
+
+I. Allgemeiner Teil
+§ 1 Gegenstand der Satzung
+(1) Das in § 4 und § 7 näher bezeichnete Gebiet wird als Denkmalbereich gemäß § 5 Abs. 1 DSchG unter Schutz gestellt.
+(2) Die Satzung dient dem Schutz von Struktur, Gestalt und Bausubstanz des Denkmalbereiches vor Beeinträchtigungen. Die Tallage Kornelimünsters begründet den besonderen Schutz der historischen Dachlandschaft und der Silhouette des Ortskerns (siehe Anlage 2 und Anlage 3).
+(3) Ziel dieser Denkmalbereichssatzung ist der Erhalt des historischen Ortskerns von Kornelimünster sowie des den Ortskern umgebenden Gebietes als bedeutsame historische Kulturlandschaft und anschauliches Beispiel einer über Jahrhunderte gewachsenen Siedlung um eine Reichsabtei. Der von Hängen geschützte historische Ortskern einschließlich der Anhöhe mit der ursprünglichen Pfarrkirche St. Stephanus liegt an einer Flussschleife der Inde. St. Stephanus steht auf Grund der exponierten Lage in der Ortsansicht nach Westen über dem Ort.
+Der Denkmalbereich gliedert sich, bedingt durch seine Topographie und Siedlungsgeschichte, in zwei Zonen: den Ortskern und einen äußeren Bereich, der den Ort in die Landschaft einbindet. Der Ortskern umfasst die Abtei mit der umgebenden Siedlung. Die eng stehenden Baukörper mit städtischem Charakter bestehen aus außergewöhnlich qualitätsvollen Gebäuden, deren Baugestalt und Substanz die Geschichte des Tals anschaulich überliefern (siehe Anlage 5). Die Bebauung der die Abtei umgebenden Siedlung ist durch einen hohen Denkmälerbestand und dichte historische Substanz mit zahlreichen architektonischen Details geprägt, wie z. B.:
+ Bruchsteinmauern, Natursteinpflaster und Blausteintreppenanlagen  Ziegel-, Naturstein-, Stuck- und Fachwerkfassaden, zum Teil verschiefert  Dächer mit Schiefer- oder historischer Tonziegeldeckung
+Die umliegenden unbebauten Obstbaumwiesen und terrassierten Gärten (Flächen mit historischer Nutzung und erhaltenen historischen Elementen) fassen als Rahmen den Ortskern ein. Von Aachen kommend war früher die Klauser Straße die historische Zuwegung nach Kornelimünster. Sie führt unterhalb einer landschaftlichen Bruchkante entlang auf das Tor der Abtei zu. Westlich der Klauser Straße befinden sich Wiesen, die historisch als Viehmarkt genutzt wurden und durch einen bewaldeten Hang, den Frankenwald, begrenzt werden.
+a) Begründung der Abgrenzung des historischen Ortskerns: Die Abgrenzung des Schutzbereiches erfolgt überwiegend parzellenscharf. Flurstücke mit einer sehr großen Tiefe, bei welchen ein großer Bereich keine Bedeutung für den Denkmalbereich aufweist, werden durch eindeutig festgelegte Linien geteilt und nur teilweise dem Schutzbereich zugeordnet (z.B. die nord-westliche Bebauung des Steinkaulplatzes). Der Ortskern liegt in einer Talaue beidseitig der Inde und ist von steil ansteigenden Hängen umgeben. Der Übergang der historischen Bebauung zu den umgebenden historischen Freiflächen ist, bedingt durch die Topographie, über Jahrhunderte hinweg nahezu identisch geblieben (siehe Anlage 2). Die Abgrenzung umfasst den historischen Ortskern mit den direkt angrenzenden Hängen mit historischen Freiflächen (terrassierten Gärten und Obstbaumwiesen) an der Nord- und Südseite. Die Abgrenzung des Schutzbereiches ist im nördlichen und süd-westlichen Bereich durch die Anhöhen topographisch begründet. Im Süden wird diese durch die Vennbahnlinie gebildet. Eine Ausnahme bilden
+
+die Flurstücke des ehemaligen Zehnthofes, welche sich jenseits der Vennbahnlinie befinden. Im Norden bildet der entlang einer Höhenlinie verlaufende Schildchenweg die Grenze. Jenseits des Schildchenweges sind nur der ehemalige jüdische Friedhof und die westlich davon befindlichen Grundstücke mit erhaltenswerter Bausubstanz in den Schutzbereich einbezogen. Die nord-westliche als auch die süd-östliche Abgrenzung durchschneidet den Talbereich. Die nordwestliche Abgrenzung umfasst die Bebauung um den Steinkaulplatz, den historischen Teil der Grundschule und die ehemalige Textilfabrik Rohland. Die süd-östliche Abgrenzung umfasst die Bebauung südlich der Inde bis zu der historischen südlichen Wegebeziehung, die fußläufig über historische Trittsteine eine Querung der Inde ermöglicht. Die Abgrenzung verläuft entlang der historischen Wegebeziehung zum Ortskern, quert die Korneliusstraße und führt rechtwinklig den Hang hinauf bis zum Schildchenweg.
+b) Begründung der Einbindung in die umgebende Landschaft (Äußerer Bereich): Die Abgrenzung des Schutzbereiches erfolgt überwiegend parzellenscharf. Flurstücke, mit einer sehr großen Tiefe, bei welchen ein großer Bereich keine Bedeutung für den Denkmalbereich aufweist, werden durch eindeutig festgelegte Linien geteilt und nur teilweise dem Schutzbereich zugeordnet . Die Bereiche, die auf den im Tal liegenden Ortskern optisch einwirken, werden als unmittelbarer Wirkungsraum festgelegt. Die Abgrenzung des Wirkungsraumes verläuft topographisch begründet – in dem von SO nach NW gerichteten Tal - auf den Anhöhen. Sie ist dadurch in Teilen im nördlichen und westlichen Bereich mit der Abgrenzung des Schutzbereiches für den historischen Ortskern identisch. Die Abgrenzung des Umgebungsschutzes quert das Indetal im süd-östlichen Bereich und im nordwestlichen Bereich in einem so großen Abstand zu dem Ortskern, dass alle Bereiche, die vom Ortskern sichtbar sind und auf den Ort einwirken, einbezogen sind. Südlich begrenzen die Parzellengrenzen der Vennbahnlinie bis einschließlich des denkmalgeschützten Viadukts den Bereich. Entlang von Parzellengrenzen geht der Schutzbereich östlich des Viaduktes rechtwinklig von der Vennbahn ab und umfasst die historische Bebauung am Iternberg. Nach Querung der Inde folgt sie dem Verlauf des Mühlenweges wieder auf die Anhöhe hinauf. Entlang von Parzellengrenzen umfasst sie die vom Ortskern noch sichtbare Hofanlage und verläuft entlang von Parzellengrenzen auf der Höhe die Breiniger Straße entlang und quert diese an der Einmündung Schildchenweg. Der Schildchenweg bildet den nördlichen Abschluss des östlichen Umgebungsschutzes. Eine Ausnahme bilden die Flurstücke nördlich des Schildchenweges, auf denen sich eine Hochkreuzanlage befindet. Vor der Kreuzanlage ist ein Standort zur Wahrnehmung des geschützten Blickwinkels auf den Ortskern festgelegt. Im Nordwesten umfasst die Fläche den östlichen Hang des Frankenwaldes, welcher den nordwestlichen Rahmen des Ortskerns bildet, über den Bergrücken bis hinunter zur Inde. Dort führt er rechtwinklig auf die Klauser Straße, quert diese und umfasst das Flurstück welches die markante landschaftliche Bruchkante beinhaltet, umfasst die östliche Bebauung der Klauser Straße und stößt im Verlauf der Klauser Straße wieder auf die Grenze des Schutzgebietes für den historischen Ortskern.
+
+§ 2 Bestandteile der Satzung
+Folgende Anlagen sind Bestandteile der Satzung:
+ Plan des räumlichen Geltungsbereiches der Satzung im Maßstab 1:1000 (Anlage 1)  Übersichtsplan im Maßstab 1.2500 (Anlage 2)  Fotodokumentation der Blickwinkel (Anlage 3)  Liste der betroffenen Grundstücke mit Flurstücks- und Adressangabe (Anlage 4)  Fotografische Übersicht (Anlage 5)  Kartenmaterial zur historischen Entwicklung (Anlage 6)
+Nachrichtlich sind der Satzung folgende Anlagen beigefügt:
+ Liste der Baudenkmäler (Anlage 7)  Gutachten des Landschaftsverbandes vom 21.07.2009 mit Ergänzung vom 30.08.2016
+(Anlage 8)
+§ 3 Begründung der Satzung
+Für die Erhaltung des historischen Ortskerns und dessen Einbindung in die umgebende Landschaft (äußerer Bereich) als Denkmalbereich sprechen insbesondere folgende Gründe (siehe Anlage 8 Gutachten des LVR vom 21.07.2009):
+ Wissenschaftliche Gründe Der Ort ist im Zusammenwirken mit der Abtei von hoher überregionaler historischer und architektonischer Bedeutung. Ihm wird als Objekt und Dokument der Religionsgeschichte, der Architektur- und Kunstgeschichte, der Hausforschung und der Stadtbaugeschichte wissenschaftlicher Aussage-, Betrachtungs- und Forschungswert zugesprochen.
+ Ortsgeschichtliche Gründe Kornelimünster ist in der erhaltenen Substanz ein anschauliches Beispiel einer über Jahrhunderte gewachsenen Siedlung um eine Reichsabtei. Die Wechselwirkung von Stadt- und Wirtschaftsgeschichte seit der Siedlungsentstehung ist bis heute ablesbar.
+ Religionsgeschichtliche und politische Gründe Kornelimünster ist als Benediktinerkloster/ Reichsabtei seit Jahrhunderten Pilgerziel und dadurch ein bedeutender Ort der Religion und sowohl regional als auch überregional ein geistliches und geistiges Zentrum. Die Reichsunmittelbarkeit der Abtei umschloss Freiheiten, Privilegien und eine eigene niedere, zeitweise wohl auch hohe Gerichtsbarkeit. Die Abtei war nicht vom Landesherrn abhängig, ihr oblagen jedoch besondere Pflichten gegenüber dem Kaiser. Als Reichsabtei war Kornelimünster ein politisch bedeutsamer Festpunkt. Somit ist Kornelimünster ein bedeutendes Zeugnis der Geschichte, insbesondere im Hinblick auf das Zusammenspiel von Politik und Religion.
+ Siedlungs- und stadtgeschichtliche Gründe Der Ort liegt am Kreuzungspunkt alter Militär- und Handelsstraßen. Er war daher ein strategisch– logistischer Ort zur Erschließung des Umlandes und ein strategischer Festpunkt zur Beherrschung des Landes. Ort und Abtei sind von siedlungsgeschichtlicher Bedeutung für die Region.
+
+ Architektonisch-baugeschichtliche Gründe Die Abtei zählt als Gesamtanlage und insbesondere durch die Baugeschichte und Ausstattung des Kirchenbaus zu den bedeutendsten Zeugnissen der Kunst- und Architekturgeschichte der Aachener Region und des gesamten Rheinlandes. Darüber hinaus besitzt der Ort durch das Miteinander der zeittypisch ausgeformten Bauten im Zusammenwirken mit den Straßen und Plätzen aus unterschiedlichen Entstehungs- und Erweiterungsphasen einen hohen Zeugniswert für die regionale Baugeschichte.
+ Städtebauliche Gründe Die städtebauliche Bedeutung schlägt sich nieder in dem spezifischen Grundriss, in der Ausbildung der Stadträume, im zweckbestimmten Miteinander der Bauten, in markanten Blickbezügen, in der Anpassung an die Topographie des Indetales und in der Wirkung nach außen, insbesondere der Silhouette, bestimmt durch die Abteikirche mit Abtei und die Dachlandschaft.
+ Kulturlandschaftliche Gründe Die Geschlossenheit der Gesamtanlage in einem topografisch abgrenzbaren Raum ist einzigartig und überzeugt als kulturlandschaftliches Element im Indetal und Münsterländchen. Der Ort ist von hohem geschichtlichem Aussagewert und ein prägendes architektonisches und städtebauliches Element in der Kulturlandschaft.
+II. Historischer Ortskern
+§ 4 Räumlicher Geltungsbereich
+(1) Der räumliche Geltungsbereich umfasst den Ortskern. Er wird südwestlich von der Vennbahntrasse und dem Zehnthof begrenzt. Von der nördlichen Flurstücksecke St. Gangolfsberg 2 über die südöstlichen Gebäudeecke Schleckheimer Straße 1 verläuft er linear mit der nördlichen Gebäudeecke Steinkaulplatz 2 und quert die Straße Napoleonsberg bis zur Inde, welche den inneren Bereich nordwestlich begrenzt. Hinter der Grundschule quert er die Inde rechtwinklig und umfasst das Gelände des ehemaligen Textilwerks Rohland, quert die Klauser und die Dorffer Straße, umfasst den jüdischen Friedhof und verlässt die Straße Schildchen ein Stück weiter östlich wieder zum Tal, wo sie die Korneliusstraße, den Napoleonsberg, die Inde und die Straße Unter den Weiden quert, um danach hinter der Bebauung des Napoleonsberges wieder südlich zur Vennbahntrasse zu stoßen.
+(2) Der vollständige räumliche Geltungsbereich ergibt sich aus dem Plan des räumlichen Geltungsbereiches (Anlage 1) und der Liste der Flurstücke (Anlage 4).
+§ 5 Sachlicher Geltungsbereich
+(1) Im Ortskern sind folgende Merkmale Schutzgegenstand:  Der Ortsgrundriss mit seiner Wegeführung, die Parzellengliederung, der öffentliche Raum mit seinen Platzbildungen, Brücken, Wasserläufen, Kanälen, Furten und der Verlauf der Inde.  Die Gesamtheit der Baudenkmäler und der historischen, das Ortsbild prägenden baulichen Anlagen in Erscheinungsbild, Materialität und Substanz.  Die historisch bedeutsamen Freiflächen des Ortes wie z.B. die terrassierten Gärten, die Friedhöfe, die Bleichwiesen an der Inde, der ehemalige Klostergarten, der Vorbereich der ehemaligen Tuchfabrik Rohland.  Bauliche Details im Außenraum wie z.B. Treppen, Stufen, Mauern, Zäune, Laternen, Wegekreuze, historische Pflasterungen etc.
+
+ Die charakteristischen Blickwinkel innerhalb des Ortes, auf den Ort als Ganzes und die Tallage sowie die Dachlandschaft und die Ortssilhouette.
+(2) Innerhalb des Ortskerns befindet sich eine hohe Dichte an Baudenkmälern im Sinne des § 2 DSchG. Sie gelten zusammen mit der weiteren prägenden historischen Substanz als Maßstab für eine Beurteilung entsprechend § 6 dieser Satzung. Die eingetragenen Baudenkmäler sind als Anlage (Anlage 7) nachrichtlich beigefügt.
+§ 6 Erlaubnispflichtige Maßnahmen
+(1) Die Vorschriften des Denkmalschutzgesetzes, insbesondere folgende Paragraphen, finden Anwendung:
+§ 9 Erlaubnispflichtige Maßnahmen § 27 Wiederherstellung des ursprünglichen Zustandes § 28 Auskunfts- und Betretungsrecht § 30 Enteignung § 31 Übernahme von Denkmälern § 33 Entschädigung
+(2) Die Maßnahmen, welche neben baulichen Änderungen auch Nutzungsänderungen enthalten, die sich in den Außenraum oder an baulichen Anlagen auswirken, sind zum Schutz und Erhalt der besonderen Qualität des historischen Ortskernes erlaubnispflichtig. Die Bebauung der die Abtei umgebenden Siedlung gibt den Maßstab für zukünftige bauliche Entwicklungen und bauliche Veränderungen vor.
+(3) Folgende Änderungen (hierzu gehören auch die Errichtung, Erweiterung, Instandhaltung sowie der Abriss) unterliegen der Erlaubnispflicht nach § 9 DSchG:
+a. Änderungen an baulichen Anlagen b. Änderungen in der engeren Umgebung von baulichen Anlagen c. Änderung der Parzellenstruktur d. Änderungen im erlebbaren Außenraum mit seinen Straßen, Wegen, Plätzen, Freiflächen, Gärten
+und Höfen.
+III. Einbindung in die umgebende Landschaft (Äußerer Bereich)
+§ 7 Räumlicher Geltungsbereich
+(1) Der äußere Bereich umfasst die den Ortskern umgebende Landschaft. Diese Flächen sind wichtig für den Erhalt von Sichtbezügen und die Aufsicht auf den Ort. Im Bereich der Klauser Straße sind die Flächen außerdem teilweise von siedlungsgeschichtlicher Bedeutung.
+(2) Zu den charakteristischen Freiflächen gehören terrassierte Gärten, Obstwiesen und Weideland an den Hängen im Süden, im Osten und in der Talaue im Norden. Waldflächen begrenzen den topographischen Raum des Indetals.
+(3) Der Geltungsbereich ergibt sich aus dem Plan des räumlichen Geltungsbereiches(Anlage 1) und der Liste der Flurstücke (Anlage 4).
+
+§ 8 Sachlicher Geltungsbereich
+(1) Im Geltungsbereich dieser Satzung, welche die Einbindung des historischen Ortes in die umgebende Landschaft sichert, sind folgende Merkmale Schutzgegenstand:  Die besondere Anpassung des Ortskerns an die Topographie des Indetales.  Die Ansicht auf den gebauten Ortskern als Ganzes einschließlich der den Ort rahmenden Hänge und die Silhouette, bestimmt durch die Abteikirche mit Abtei und durch die Dachlandschaft.  Die Freiflächen mit ihrer historischen Nutzung und ihrer Ausformung.  Die charakteristischen Blickwinkel o auf den Ort als Ganzes, o über den Ort hinweg mit dem jeweiligen Hang und der anschließenden Hochfläche im Hintergrund, o auf die Dachlandschaft, o auf die Ortssilhouette.
+(2) Innerhalb des Geltungsbereiches befinden sich Baudenkmäler im Sinne des § 2 DSchG. Die Liste der Baudenkmäler ist nachrichtlich (Anlage 7) beigefügt.
+§ 9 Erlaubnispflichtige Maßnahmen
+(1) Die Vorschriften des Denkmalschutzgesetzes, insbesondere folgende Paragraphen, finden Anwendung: § 9 Erlaubnispflichtige Maßnahmen § 27 Wiederherstellung des ursprünglichen Zustandes § 28 Auskunfts- und Betretungsrecht § 30 Enteignung § 31 Übernahme von Denkmälern § 33 Entschädigung
+(2) Im Geltungsbereich der Satzung, welche die Einbindung des Ortes in die umgebende Landschaft sichert, unterliegen folgende Änderungen zum Schutz der Silhouette und der Einbindung des Ortskerns in die Landschaft der Erlaubnispflicht nach § 9 DSchG: a. Errichtung von baulichen Anlagen, b. Erweiterung und Änderung an bestehenden baulichen Anlagen, die auf das Erscheinungsbild des Ortskerns wirken, c. Veränderung der Freiflächen.
+IV. Schlussbestimmungen
+§ 10 Ordnungswidrigkeiten
+Ordnungswidrig im Sinne des § 41 DSchG handelt, wer Maßnahmen gemäß § 6 und §9 ohne Erlaubnis gemäß § 9 DSchG durchführt.
+
+§ 11 Antragsverfahren
+(1) Die nach § 6 bzw. § 9 erforderliche Erlaubnis ist schriftlich bei der Unteren Denkmalbehörde zu beantragen. Mit dem Antrag sind eine ausführliche Beschreibung des Vorhabens sowie alle weiteren für die Beurteilung des Vorhabens und die Bearbeitung des Antrages erforderlichen Unterlagen einzureichen. Soweit eine Erforderlichkeit gegeben ist, sind im Übrigen die Vorschriften des Ersten Teiles der Verordnung über bautechnische Prüfungen (BauPrüfVO vom 06.12.1995, GV NW S. 218) in der jeweils zum Antragszeitpunkt geltenden Fassung sinngemäß anzuwenden. Es kann gestattet werden, dass einzelne Unterlagen nachgereicht werden.
+(2) Die Regelungen der §§ 69, 70 Landesbauordnung (BauO NW) sowie des § 75 Abs. 1 Satz 2 und 3 Satz 1, Abs. 5 BauO NW gelten sinngemäß.
+(3) Ist eine Veränderung des äußeren Erscheinungsbildes, für die eine Erlaubnis gem. Abs. 1 beantragt wird, nach Umfang und Charakter unbedeutend, (z.B. Veränderungen in der der öffentlichen Verkehrsfläche abgewandten und nicht einsehbaren Seite) oder ist ihre Übereinstimmung mit den Regelungen dieser Satzung ohne nähere Prüfung offenkundig, so entscheidet die Untere Denkmalbehörde in einem vereinfachten Erlaubnisverfahren
+§ 12 Verhältnis zu anderen Vorschriften
+(1) Diese Satzung lässt aufgrund anderer Vorschriften bestehende Verpflichtungen zum Einholen von Genehmigungen, Bewilligungen, Erlaubnissen und Zustimmungen oder zum Erstatten von Anzeigen unberührt. Dies gilt insbesondere für derartige Pflichten nach der Landesbauordnung NW sowie nach dem Denkmalschutzgesetz.
+(2) Die Erlaubnispflicht gemäß § 9 DSchG besteht nach Maßgabe der §§ 6 (3) und 9 (2) der Satzung auch dann, soweit eine Genehmigung für Maßnahmen im Denkmalbereich nach den baurechtlichen Bestimmungen nicht erforderlich ist.
+(3) Ist ein Vorhaben im Geltungsbereich dieser Satzung auch nach der LandesbauordnungNW genehmigungspflichtig, so ist nur ein Antrag erforderlich. In diesem Fall wird dem Antragsteller die Genehmigung nach dieser Satzung und die Genehmigung nach der LandesbauordnungNW in einem Bescheid erteilt.
+(4) Die Satzung gilt unbeschadet bestehender Bebauungspläne und Satzungen. In dem Denkmalbereich sind zur Zeit folgende Satzungen, deren Aussagen nicht im Widerspruch zu den Bestimmungen der Satzung stehen, gültig:  Bebauungsplan 4 Kornelimünster  Stadtbildsatzung  Stellplatzsatzung
+
+§ 13 Inkrafttreten Diese Satzung tritt mit ihrer Bekanntmachung in Kraft.
+
+Diese Satzung wurde von der Bezirksregierung Köln, Obere Denkmalbehörde, gemäß § 5 Abs. 1 DSchG NW mit Verfügung vom 07.10.2020, Az. 35.4.01-02/16, genehmigt.
+
+Die vorstehende Satzung, die der Rat der Stadt in seiner Sitzung am 16.09.2020 beschlossen hat und welche durch die Bezirksregierung Köln mit Verfügung vom 07.10.2020 genehmigt wurde, wird hiermit gem. § 6 Abs. 3 DSchG NW öffentlich bekannt gemacht.
+Die vorstehende Satzung mit ihren Anlagen liegt ab sofort auf Dauer zu jedermanns Einsicht während der Dienststunden im Verwaltungsgebäude am Marschiertor, 3. Etage, Zimmer 355, aus.
+
+Es wird darauf hingewiesen, dass eine Verletzung von Verfahrens- und Formvorschriften des Denkmalschutzgesetzes (DSchG) sowie der Gemeindeordnung für das Land Nordrhein-Westfalen beim Zustandekommen dieser Satzung nach Ablauf eines Jahres seit dieser Bekanntmachung nicht mehr geltend gemacht werden kann, es sei denn,
+
+a) eine vorgeschriebene Genehmigung fehlt,
+
+b) diese Satzung ist nicht ordnungsgemäß öffentlich bekannt gemacht worden,
+
+c)
+
+der Oberbürgermeister hat den Ratsbeschluss vorher beanstandet
+
+oder
+
+d) der Form- oder Verfahrensmangel ist gegenüber der Stadt Aachen vorher gerügt und dabei die
+
+verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt.
+
+Aachen, den 14.12.2020 gez.
+(Sibylle Keupen) Oberbürgermeisterin
