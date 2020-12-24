@@ -1,0 +1,18 @@
+# Anlage 3 (zu § 12 Absatz 1)Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben
+
+Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Dokumente erforderlich:
+1. Wenn die Kontoeröffnung von einer juristischen Person oder Personengesellschaft beantragt wird:
+  a) Eintragungsnachweis der juristischen Person oder Personengesellschaft, sofern der Antragsteller nicht in einem deutschen Handelsregister registriert ist,
+  b) Nachweis, dass der Antragsteller in einem Mitgliedstaat des Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
+  c) Umsatzsteuer-Identifikationsnummer, soweit vorhanden,
+  d) Name, Vorname und Geburtsdatum des wirtschaftlich Berechtigten der juristischen Person oder Personengesellschaft im Sinne von Artikel 3 Nummer 6 der Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S. 73), die zuletzt durch die Richtlinie (EU) 2018/843 (ABl. L 156 vom 19.6.2018, S. 43) geändert worden ist, einschließlich der Art und des Umfangs des wirtschaftlichen Interesses oder der vom wirtschaftlich Berechtigten ausgeübten Kontrolle,
+  e) Liste der Geschäftsführer,
+  f) Kopie des Jahresberichts oder der letzten geprüften Bilanz oder, sofern keine geprüfte Bilanz vorliegt, der Bilanz mit Stempel der Steuerbehörde oder Bestätigung des Wirtschaftsprüfers,
+  g) Dokumente zum Nachweis der Eintragung des Geschäftssitzes des Kontoinhabers, sofern dies aus den gemäß Buchstabe a vorgelegten Dokumenten nicht klar hervorgeht,
+  h) Führungszeugnis der vertretungsberechtigten natürlichen Person, die für den Antragsteller die Kontoeröffnung beantragt, und
+  i) Führungszeugnis des wirtschaftlich Berechtigten oder des Geschäftsführers des Antragstellers.
+2. Wenn die Kontoeröffnung von einer natürlichen Person beantragt wird:
+  a) Nachweis, dass der Antragsteller in einem Mitgliedstaat des Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
+  b) Führungszeugnis der natürlichen Person,
+  c) Personalausweis, ausgestellt von einem Staat, der Mitglied des Europäischen Wirtschaftsraums oder der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ist, oder Reisepass und
+  d) Erklärung der lokalen Behörden, die den ständigen Wohnsitz des Antragstellers bestätigt, sofern der ständige Wohnsitz nicht aus den Angaben gemäß Buchstabe c ersichtlich ist.

@@ -1,0 +1,12 @@
+# Anlage 4 (zu § 12 Absatz 1)Für die Eröffnung eines Compliance-Kontos zu übermittelnde Angaben
+
+Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Dokumente erforderlich:
+1. Wenn die Kontoeröffnung von einer juristischen Person oder Personengesellschaft beantragt wird:
+  a) Eintragungsnachweis der juristischen Person oder Personengesellschaft, sofern der Antragsteller nicht in einem deutschen Handelsregister registriert ist,
+  b) Nachweis, dass der Antragsteller in einem Mitgliedstaat des Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
+  c) Umsatzsteuer-Identifikationsnummer, soweit vorhanden, und
+  d) Name, Vorname, Geburtsdatum, Geburtsort, Geburtsland und Anschrift des wirtschaftlich Berechtigten der juristischen Person oder Personengesellschaft im Sinne von Artikel 3 Nummer 6 der Richtlinie (EU) 2015/849 einschließlich der Art und des Umfangs des wirtschaftlichen Interesses oder der vom wirtschaftlich Berechtigten ausgeübten Kontrolle.
+2. Wenn die Kontoeröffnung von einer natürlichen Person beantragt wird:
+  a) Nachweis, dass der Antragsteller in einem Mitgliedstaat des Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
+  b) Personalausweis, ausgestellt von einem Staat, der Mitglied des Europäischen Wirtschaftsraums oder der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ist, oder Reisepass und
+  c) Erklärung der lokalen Behörden, die den ständigen Wohnsitz des Antragstellers bestätigt, sofern der Hauptwohnsitz nicht aus den Angaben gemäß Buchstabe b ersichtlich ist.

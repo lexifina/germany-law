@@ -1,0 +1,24 @@
+# Anlage 2 (zu § 29)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich:
+1. zum Prüfungsteil „Grundlegende Qualifikationen“
+  a) Benennung dieses Prüfungsteils und zusammengefasste Bewertung in Punkten und als Note sowie
+  b) Benennung der vier Prüfungsbereiche und die jeweilige Bewertung in Punkten,
+2. zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+  a) Benennung dieses Prüfungsteils,
+  b) Benennung der schriftlichen Situationsaufgabe nach § 17 und Bewertung in Punkten und als Note,
+  c) Benennung der schriftlichen Situationsaufgabe nach § 21 und Bewertung in Punkten und als Note,
+  d) Benennung der Projektarbeit nach § 25 und zusammengefasste Bewertung in Punkten und als Note; Angabe des nach § 13 Absatz 2 Satz 1 Nummer 2 bestimmten Wahlpflichtqualifikationsschwerpunktes,
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+4. die Gesamtnote als Dezimalzahl,
+5. die Gesamtnote in Worten,
+6. Befreiungen nach § 26,
+7. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 3 Absatz 2.
