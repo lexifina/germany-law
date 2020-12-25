@@ -8,13 +8,13 @@
 ## Abschnitt 2 Verkehr mit Futtermitteln
 
 
-### Unterabschnitt 1 Verwendungszwecke für Diätfuttermittel
+### Unterabschnitt 1 (weggefallen)
 
-- [§ 2 Verwendungszwecke für Diätfuttermittel](0002.md)
+- [§ 2 (weggefallen)](0002.md)
 
 ### Unterabschnitt 2 Kennzeichnung und Inverkehrbringen
 
-- [§ 3 Inverkehrbringen bestimmter Diätfuttermittel](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Kennzeichnung bestimmter Futtermittel](0004.md)
 - [§ 5 Kennzeichnung von Futtermitteln bei Fernabsatzverträgen](0005.md)
 - [§ 6 Angaben](0006.md)
@@ -94,6 +94,7 @@
 - [§ 46 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2015/175](0046.md)
 - [§ 46a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786](0046a.md)
 - [§ 47 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2016/6](0047.md)
+- [§ 47a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354](0047a.md)
 
 ## Abschnitt 6 Schlussbestimmungen
 
@@ -102,7 +103,7 @@
 - [§ 49a Übergangsregelungen](0049a.md)
 - [§ 50 Weitere Anwendung von Vorschriften](0050.md)
 - [§ 51 Inkrafttreten, Übergangsregelungen](0051.md)
-- [Anlage 1 (zu §§ 2 und 4 Absatz 1 Satz 1)Verzeichnis der für Diätfuttermittel festgesetzten Verwendungszwecke](anlage-1.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 (zu § 6 Absatz 1)Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln](anlage-2.md)
 - [Anlage 3 (zu § 6 Absatz 2)Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren ersetzt](anlage-3.md)
 - [Anlage 4 (zu § 18 Absatz 2)Anforderungen und Pflichten für Betriebe gemäß § 17 Absatz 2](anlage-4.md)
