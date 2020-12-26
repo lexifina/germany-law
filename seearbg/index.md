@@ -111,6 +111,7 @@
 - [§ 69 Außerordentliche Kündigung durch das Besatzungsmitglied wegen dringender Familienangelegenheit](0069.md)
 - [§ 70 Entschädigung bei Arbeitslosigkeit wegen Schiffsverlustes oder Schiffbruchs](0070.md)
 - [§ 71 Beendigung des Heuerverhältnisses bei vermutetem Verlust von Schiff und Besatzung](0071.md)
+- [§ 71a Verlängerung des Heuerverhältnisses während Gefangenschaft](0071a.md)
 - [§ 72 Zurücklassung](0072.md)
 
 ### Unterabschnitt 7 Heimschaffung und Imstichlassen
