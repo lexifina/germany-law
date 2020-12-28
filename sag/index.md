@@ -4,7 +4,7 @@
 
 ## Teil 1 Allgemeine Vorschriften
 
-- [§ 1 Anwendungsbereich; Verhältnis zur SRM-Verordnung](0001.md)
+- [§ 1 Anwendungsbereich; Verhältnis zur SRM-Verordnung; Umsetzung von Beschlüssen des Ausschusses](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Abwicklungsbehörde; Aufsichtsbehörde](0003.md)
 - [§ 4 Vertraulichkeit von Informationen; personenbezogene Daten; Informationsansprüche](0004.md)
@@ -77,12 +77,19 @@
 
 #### Abschnitt 1 Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten
 
-- [§ 49 Institutsspezifischer Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten](0049.md)
-- [§ 50 Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten auf konsolidierter Basis](0050.md)
-- [§ 51 Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten für Tochterunternehmen auf Einzelbasis](0051.md)
-- [§ 52 Absehen vom Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten](0052.md)
-- [§ 53 Einhaltung des Mindestbetrags berücksichtigungsfähiger Verbindlichkeiten durch vertragliche Instrumente](0053.md)
-- [§ 54 Überprüfung des Einhaltens des Mindestbetrags berücksichtigungsfähiger Verbindlichkeiten](0054.md)
+- [§ 49 Anwendung und Berechnung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0049.md)
+- [§ 49a Ausnahme von der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0049a.md)
+- [§ 49b Berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten](0049b.md)
+- [§ 49c Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0049c.md)
+- [§ 49d Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten von global systemrelevanten Instituten und in der Union ansässige bedeutende Tochterunternehmen von global systemrelevanten Nicht-EU-Instituten](0049d.md)
+- [§ 49e Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Abwicklungseinheiten](0049e.md)
+- [§ 49f Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind](0049f.md)
+- [§ 49g Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind](0049g.md)
+- [§ 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0050.md)
+- [§ 51 Berichterstattung und Offenlegung der Anforderung](0051.md)
+- [§ 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde](0052.md)
+- [§ 53 Verstöße gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0053.md)
+- [§ 54 Übergangsregelungen und Regelungen nach Abwicklung](0054.md)
 - [§ 55 Vertragliche Anerkennung des Instruments der Gläubigerbeteiligung und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente in Drittstaaten](0055.md)
 
 #### Abschnitt 2 Genehmigtes Kapital und andere Instrumente harten Kernkapitals
@@ -93,9 +100,10 @@
 
 - [§ 57 Bewertung der Abwicklungsfähigkeit von Instituten](0057.md)
 - [§ 58 Bewertung der Abwicklungsfähigkeit von Gruppen](0058.md)
+- [§ 58a Befugnis zur Untersagung bestimmter Ausschüttungen](0058a.md)
 - [§ 59 Abbau und Beseitigung von Abwicklungshindernissen bei Instituten; Verordnungsermächtigung](0059.md)
 - [§ 60 Abbau und Beseitigung von Abwicklungshindernissen bei Gruppen](0060.md)
-- [§ 60a Vertragliche Anerkennung der vorübergehenden Aussetzung von Beendigungsrechten](0060a.md)
+- [§ 60a Vertragliche Anerkennung von Befugnissen zur vorübergehenden Aussetzung von Beendigungsrechten](0060a.md)
 
 ### Kapitel 4 Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
 
@@ -109,8 +117,9 @@
 - [§ 62 Abwicklungsvoraussetzungen in Bezug auf Institute](0062.md)
 - [§ 63 Bestandsgefährdung; Verordnungsermächtigung](0063.md)
 - [§ 64 Abwicklungsvoraussetzungen in Bezug auf Finanzinstitute und Holdinggesellschaften](0064.md)
-- [§ 65 Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente](0065.md)
-- [§ 66 Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente bei gruppenangehörigen Unternehmen](0066.md)
+- [§ 65 Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten](0065.md)
+- [§ 66 Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten bei gruppenangehörigen Unternehmen](0066.md)
+- [§ 66a Befugnis zur Aussetzung vertraglicher Pflichten bei Bestandsgefährdung](0066a.md)
 - [§ 67 Abwicklungsziele](0067.md)
 - [§ 68 Allgemeine Grundsätze für eine Abwicklung](0068.md)
 - [§ 69 Bewertung; gerichtliche Überprüfung](0069.md)
@@ -127,7 +136,7 @@
 - [§ 80 Bereitstellung von Diensten und Einrichtungen](0080.md)
 - [§ 81 Befugnis in Bezug auf in Drittstaaten belegene Gegenstände](0081.md)
 - [§ 82 Befugnis zur Aussetzung vertraglicher Pflichten](0082.md)
-- [§ 83 Befugnis zur Beschränkung von Sicherungsrechten](0083.md)
+- [§ 83 Befugnis zur zeitweiligen Untersagung der Durchsetzung von Sicherungsrechten](0083.md)
 - [§ 84 Befugnis zur vorübergehenden Aussetzung von Beendigungsrechten](0084.md)
 - [§ 85 Streichung des Gesamtbetrags variabler Vergütungen und zurückbehaltener variabler Vergütungen](0085.md)
 - [§ 86 Kontrollbefugnisse](0086.md)
@@ -141,12 +150,12 @@
 
 - [§ 89 Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente](0089.md)
 - [§ 90 Instrument der Gläubigerbeteiligung](0090.md)
-- [§ 91 Berücksichtigungsfähige Verbindlichkeiten](0091.md)
+- [§ 91 Bail-in-fähige Verbindlichkeiten](0091.md)
 - [§ 92 Ausschluss der Anwendung des Instruments der Gläubigerbeteiligung im Einzelfall](0092.md)
 - [§ 93 Anwendung des Instruments der Gläubigerbeteiligung in Bezug auf Verbindlichkeiten aus Derivaten](0093.md)
 - [§ 94 Ausgleichsbeiträge des Restrukturierungsfonds](0094.md)
 - [§ 95 Zwecke des Instruments der Gläubigerbeteiligung](0095.md)
-- [§ 96 Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und berücksichtigungsfähigen Verbindlichkeiten](0096.md)
+- [§ 96 Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und Verbindlichkeiten](0096.md)
 - [§ 97 Haftungskaskade](0097.md)
 - [§ 98 Umwandlungssatz; Verordnungsermächtigung](0098.md)
 - [§ 99 Weitere Wirkungen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung](0099.md)
@@ -231,11 +240,9 @@
 
 - [§ 149 Anordnung eines Rechtsformwechsels](0149.md)
 
-##### Unterabschnitt 5 Rechtsbehelf und Ausschluss anderer Maßnahmen
+##### Unterabschnitt 5 (weggefallen)
 
-- [§ 150 Rechtsschutz](0150.md)
-- [§ 151 Unterbrechung von gerichtlichen Verfahren in Zivilsachen](0151.md)
-- [§ 152 Haftungsbeschränkung](0152.md)
+- [(XXXX) §§ 150 bis 152 (weggefallen)](xxxx-150-bis-152.md)
 
 ## Teil 5 Sondervorschriften für zentrale Gegenparteien
 
@@ -306,3 +313,9 @@
 - [§ 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen](0176.md)
 - [§ 177 Prüfungen vor Ort nach der SRM-Verordnung](0177.md)
 - [§ 178 Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder](0178.md)
+
+## Teil 9 Rechtsbehelf und Ausschluss anderer Maßnahmen
+
+- [§ 179 Rechtsschutz](0179.md)
+- [§ 180 Unterbrechung von gerichtlichen Verfahren in Zivilsachen](0180.md)
+- [§ 181 Haftungsbeschränkung](0181.md)

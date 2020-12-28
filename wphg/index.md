@@ -100,6 +100,7 @@
 - [§ 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung](0064.md)
 - [§ 65 Selbstauskunft bei der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes](0065.md)
 - [§ 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes](0065a.md)
+- [§ 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden](0065b.md)
 - [§ 66 Ausnahmen für Immobiliar-Verbraucherdarlehensverträge](0066.md)
 - [§ 67 Kunden; Verordnungsermächtigung](0067.md)
 - [§ 68 Geschäfte mit geeigneten Gegenparteien; Verordnungsermächtigung](0068.md)
