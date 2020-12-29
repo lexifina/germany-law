@@ -6,7 +6,7 @@
 |  | 1.Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen |
 |  |
 | § 1 | Begriffsbestimmungen |
-| § 1a | Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
+| § 1a | Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
 | § 1b | (weggefallen) |
 | § 2 | Ausnahmen |
 | § 2a | Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören |
@@ -14,6 +14,8 @@
 | § 2c | Inhaber bedeutender Beteiligungen |
 | § 2d | Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
 | § 2e | Ausnahmen für gemischte Finanzholding-Gesellschaften |
+| § 2f | Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
+| § 2g | Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat |
 | § 3 | Verbotene Geschäfte |
 | § 4 | Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht |
 |  |
@@ -23,18 +25,22 @@
 | § 6 | Aufgaben |
 | § 6a | Besondere Aufgaben |
 | § 6b | Aufsichtliche Überprüfung und Beurteilung |
+| § 6c | Zusätzliche Eigenmittelanforderungen |
+| § 6d | Eigenmittelempfehlung |
 | § 7 | Zusammenarbeit mit der Deutschen Bundesbank |
 | § 7a | Zusammenarbeit mit der Europäischen Kommission |
 | § 7b | Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung |
-| § 7c | Zusammenarbeit mit dem Europäischen Bankenausschuss |
+| § 7c | (weggefallen) |
 | § 7d | Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken |
 | § 8 | Zusammenarbeit mit anderen Stellen |
 | § 8a | Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis |
-| § 8b | (weggefallen) |
+| § 8b | Zuständigkeit für die Aufsicht auf zusammengefasster Basis |
 | § 8c | Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute |
 | § 8d | (weggefallen) |
 | § 8e | Aufsichtskollegien |
 | § 8f | Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen |
+| § 8g | Zusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören |
+| § 8h | Zusammenarbeit mit Abwicklungsbehörden |
 | § 9 | Verschwiegenheitspflicht |
 |  |
 | Zweiter Abschnitt |
@@ -44,16 +50,16 @@
 |  |
 | § 10 | Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung |
 | § 10a | Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung |
-| § 10b | (weggefallen) |
+| § 10b | Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung |
 | § 10c | Kapitalerhaltungspuffer |
 | § 10d | Antizyklischer Kapitalpuffer |
 | § 10e | Kapitalpuffer für systemische Risiken |
 | § 10f | Kapitalpuffer für global systemrelevante Institute |
 | § 10g | Kapitalpuffer für anderweitig systemrelevante Institute |
 | § 10h | Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute |
-| § 10i | Kombinierte Kapitalpuffer-Anforderung |
+| § 10i | Kombinierte Kapitalpufferanforderung |
 | § 11 | Liquidität |
-| § 12 | (weggefallen) |
+| § 12 | Potentiell systemrelevante Institute |
 | § 12a | Begründung von Unternehmensbeziehungen |
 |  |
 |  | 2.Kreditgeschäft |
@@ -107,7 +113,7 @@
 | § 24a | Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums |
 | § 24b | Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen |
 | § 24c | Automatisierter Abruf von Kontoinformationen |
-| § 25 | Finanzinformationen, Informationen zur Risikotragfähigkeit; Verordnungsermächtigung |
+| § 25 | Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung |
 | § 25a | Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung |
 | § 25b | Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung |
 | § 25c | Geschäftsleiter |
@@ -124,7 +130,7 @@
 | § 25k | Verstärkte Sorgfaltspflichten |
 | § 25l | Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften |
 | § 25m | Verbotene Geschäfte |
-| § 25n | Einstufung als bedeutendes Institut |
+| § 25n | (weggefallen) |
 |  |  |
 |  | 5b.Vorlage von Rechnungslegungsunterlagen |
 |  |  |
@@ -272,7 +278,7 @@
 | § 63 | (Aufhebung und Änderung von Rechtsvorschriften) |
 | § 63a | Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet |
 | § 64 | Nachfolgeunternehmen der Deutschen Bundespost |
-| § 64a | (weggefallen) |
+| § 64a | Übergangsvorschrift zum Risikoreduzierungsgesetz |
 | § 64b | (weggefallen) |
 | § 64c | (weggefallen) |
 | § 64d | (weggefallen) |
@@ -290,9 +296,9 @@
 | § 64p | Übergangsvorschrift zum Hochfrequenzhandelsgesetz |
 | § 64q | Übergangsvorschrift zum AIFM-Umsetzungsgesetz |
 | § 64r | Übergangsvorschriften zum CRD IV-Umsetzungsgesetz |
-| § 64s | Übergangsvorschrift zum Gesetz zur Abschirmung von Risiken und zur Planung der Sanierung und Abwicklung von Kreditinstituten |
-| § 64t | Übergangsvorschrift zur Verordnung (EU) Nr. 1060/2009 |
-| § 64u | Übergangsvorschrift zum BRRD-Umsetzungsgesetz |
+| § 64s | (weggefallen) |
+| § 64t | (weggefallen) |
+| § 64u | (weggefallen) |
 | § 64v | Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz |
-| § 64w | Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz |
+| § 64w | (weggefallen) |
 | § 64x | Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz |

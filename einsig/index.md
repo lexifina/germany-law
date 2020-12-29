@@ -53,6 +53,7 @@
 - [§ 23 Verordnungsermächtigung](0023.md)
 - [§ 24 Zuordnung der CRR-Kreditinstitute zu einer gesetzlichen Entschädigungseinrichtung](0024.md)
 - [§ 25 Rechtsfolgen bei Wechsel der gesetzlichen Entschädigungseinrichtung](0025.md)
+- [§ 25a Verordnungsermächtigung zur Aufhebung der Beleihung und zur Rückgängigmachung der Errichtung](0025a.md)
 
 #### Abschnitt 2 Beitragspflicht; Deckung des Mittelbedarfs durch Beiträge und Zahlungen
 
@@ -61,8 +62,9 @@
 - [§ 28 Feststellung des Mittelbedarfs im Entschädigungsfall](0028.md)
 - [§ 29 Deckung des Mittelbedarfs durch Sonderbeiträge](0029.md)
 - [§ 30 Deckung des Mittelbedarfs durch Kredit; Sonderzahlungen](0030.md)
-- [§ 31 Berichtspflicht; Erstattung von Sonderbeiträgen und Sonderzahlungen](0031.md)
+- [§ 31 Berichtspflicht; Erstattung von Sonderbeiträgen und Sonderzahlungen; Rückflüsse aus Insolvenzverfahren](0031.md)
 - [§ 32 Sofortige Vollziehbarkeit; Zwangsvollstreckung](0032.md)
+- [§ 32a Inanspruchnahme einer gesetzlichen Entschädigungseinrichtung im Rahmen einer Abwicklung](0032a.md)
 - [§ 33 Verordnungsermächtigung](0033.md)
 
 #### Abschnitt 3 Prüfung der CRR-Kreditinstitute durch gesetzliche Entschädigungseinrichtungen

@@ -28,3 +28,4 @@
 - [§ 17 Anfechtung, Gesellschafterdarlehen und wirtschaftlich vergleichbare Forderungen, verdeckte Sacheinlage](0017.md)
 - [§ 18 Keine Kündigung bei Übernahme einer Beteiligung](0018.md)
 - [§ 19 Veränderung und Beendigung von Rekapitalisierungsmaßnahmen](0019.md)
+- [§ 20 Erwerb von Risikopositionen](0020.md)
