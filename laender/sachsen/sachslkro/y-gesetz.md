@@ -1,2 +1,2 @@
 # Landkreisordnung für den Freistaat Sachsen (Sächsische Landkreisordnung – SächsLKrO)
-Rechtsbereinigt mit Stand vom 20. Juli 2019
+Rechtsbereinigt mit Stand vom 30. Dezember 2020

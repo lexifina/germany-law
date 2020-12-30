@@ -38,6 +38,7 @@ Erster Abschnitt Kreistag
 § 31 Rechtsstellung der Kreisräte
 § 31a Fraktionen
 § 32 Vorsitz im Kreistag, Einberufung der Sitzungen
+§ 32a Durchführung von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum im Falle einer epidemischen Lage von nationaler Tragweite
 § 33 Öffentlichkeit der Sitzungen
 § 34 Verhandlungsleitung, Geschäftsgang
 § 35 Beschlussfassung
