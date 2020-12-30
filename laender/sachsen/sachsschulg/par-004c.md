@@ -24,10 +24,11 @@ Schüler mit sonderpädagogischem Förderbedarf können nach Maßgabe der Schul-
 (7) Allgemeinbildende und berufsbildende Schulen bilden zur Sicherung und Ausgestaltung der sonderpädagogischen Förderung und des inklusiven Unterrichts nach Absatz 5 Kooperationsverbünde. Jede öffentliche Schule gehört mindestens einem Kooperationsverbund an. Schulen in freier Trägerschaft können sich an einem Kooperationsverbund beteiligen. Die Kooperationsverbünde sollen so gebildet werden, dass sie die Möglichkeit einer inklusiven Unterrichtung in allen Förderschwerpunkten nach Absatz 2 mit zumutbaren Schulwegen vorhalten. Förderschulen können als Förderzentren nach § 13 Absatz 2 Satz 4 auch außerhalb des Gebietes liegen und mit mehreren Kooperationsverbünden zusammenarbeiten. Die Kooperationsverbünde erfüllen ihre Aufgaben, indem sie die Qualität der sonderpädagogischen Förderung und des inklusiven Unterrichts durch Koordination und gegebenenfalls gemeinsame Nutzung ihrer personellen und sächlichen Ressourcen sicherstellen.
 (8) Die Kooperationsverbünde und die in einem Kooperationsverbund jeweils mitwirkenden Schulen werden durch den Träger der Schulnetzplanung im Schulnetzplan ausgewiesen. Soweit der Träger der Schulnetzplanung nicht selbst Schulträger der mitwirkenden Schulen ist, bedarf die Ausweisung dieser Schulen des Einvernehmens des jeweiligen Schulträgers.
 (9) Die oberste Schulaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung insbesondere zu regeln:
-1. die zeitlichen und verfahrensrechtlichen Vorgaben zum Feststellungsverfahren;
-2. das Nähere, um die Schulen bei inklusiver Unterrichtung durch zusätzliches Lehrerarbeitsvermögen zu unterstützen;
-3. das Nähere für die Erteilung von Prüfungszeugnissen und die damit verbundenen Berechtigungen in Fällen von Absatz 5 Satz 2;
-4. hinsichtlich der Kooperationsverbünde
+1. das Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs;
+2. Bestimmungen zur inklusiven Unterrichtung;
+3. das Nähere, um die Schulen bei inklusiver Unterrichtung durch zusätzliches Lehrerarbeitsvermögen zu unterstützen;
+4. das Nähere für die Erteilung von Prüfungszeugnissen und die damit verbundenen Berechtigungen in Fällen von Absatz 5 Satz 2;
+5. hinsichtlich der Kooperationsverbünde
 a)
 das Verfahren zur Bildung der Kooperationsverbünde, einschließlich der Bestimmung von Fristen und Terminen,
 b)
