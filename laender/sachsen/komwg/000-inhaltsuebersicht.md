@@ -89,4 +89,5 @@ Vierter Teil Sonstige Vorschriften
 § 64 Einschränkung von Grundrechten
 § 65 Maßgebende Einwohnerzahl
 § 65a Übergangsbestimmung aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
+§ 65b Ausnahmebestimmung aus Anlass einer epidemischen Lage von nationaler Tragweite
 § 66 (Inkrafttreten)
