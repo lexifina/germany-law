@@ -1,6 +1,7 @@
 # Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
@@ -19,6 +20,7 @@
 - [§ 10 Berechnung](0010.md)
 - [§ 11 Festsetzung der Vergütung](0011.md)
 - [§ 12 Anwendung von Vorschriften für die Prozesskostenhilfe](0012.md)
+- [§ 12 Anwendung von Vorschriften über die Prozesskostenhilfe](0012-2.md)
 - [§ 12a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0012a.md)
 - [§ 12b Elektronische Akte, elektronisches Dokument](0012b.md)
 - [§ 12c Rechtsbehelfsbelehrung](0012c.md)
@@ -26,16 +28,22 @@
 ## Abschnitt 2 Gebührenvorschriften
 
 - [§ 13 Wertgebühren](0013.md)
+- [§ 13 Wertgebühren](0013-2.md)
 - [§ 14 Rahmengebühren](0014.md)
+- [§ 14 Rahmengebühren](0014-2.md)
 - [§ 15 Abgeltungsbereich der Gebühren](0015.md)
 - [§ 15a Anrechnung einer Gebühr](0015a.md)
+- [§ 15a Anrechnung einer Gebühr](0015a-2.md)
 
 ## Abschnitt 3 Angelegenheit
 
 - [§ 16 Dieselbe Angelegenheit](0016.md)
 - [§ 17 Verschiedene Angelegenheiten](0017.md)
+- [§ 17 Verschiedene Angelegenheiten](0017-2.md)
 - [§ 18 Besondere Angelegenheiten](0018.md)
+- [§ 18 Besondere Angelegenheiten](0018-2.md)
 - [§ 19 Rechtszug; Tätigkeiten, die mit dem Verfahren zusammenhängen](0019.md)
+- [§ 19 Rechtszug; Tätigkeiten, die mit dem Verfahren zusammenhängen](0019-2.md)
 - [§ 20 Verweisung, Abgabe](0020.md)
 - [§ 21 Zurückverweisung, Fortführung einer Folgesache als selbständige Familiensache](0021.md)
 
@@ -86,17 +94,22 @@
 - [§ 46 Auslagen und Aufwendungen](0046.md)
 - [§ 47 Vorschuss](0047.md)
 - [§ 48 Umfang des Anspruchs und der Beiordnung](0048.md)
+- [§ 48 Umfang des Anspruchs und der Beiordnung](0048-2.md)
 - [§ 49 Wertgebühren aus der Staatskasse](0049.md)
+- [§ 49 Wertgebühren aus der Staatskasse](0049-2.md)
 - [§ 50 Weitere Vergütung bei Prozesskostenhilfe](0050.md)
 - [§ 51 Festsetzung einer Pauschgebühr](0051.md)
+- [§ 51 Festsetzung einer Pauschgebühr](0051-2.md)
 - [§ 52 Anspruch gegen den Beschuldigten oder den Betroffenen](0052.md)
 - [§ 53 Anspruch gegen den Auftraggeber, Anspruch des zum Beistand bestellten Rechtsanwalts gegen den Verurteilten](0053.md)
 - [§ 53a Vergütungsanspruch bei gemeinschaftlicher Nebenklagevertretung](0053a.md)
 - [§ 54 Verschulden eines beigeordneten oder bestellten Rechtsanwalts](0054.md)
 - [§ 55 Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse](0055.md)
+- [§ 55 Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse](0055-2.md)
 - [§ 56 Erinnerung und Beschwerde](0056.md)
 - [§ 57 Rechtsbehelf in Bußgeldsachen vor der Verwaltungsbehörde](0057.md)
 - [§ 58 Anrechnung von Vorschüssen und Zahlungen](0058.md)
+- [§ 58 Anrechnung von Vorschüssen und Zahlungen](0058-2.md)
 - [§ 59 Übergang von Ansprüchen auf die Staatskasse](0059.md)
 - [§ 59a Beiordnung und Bestellung durch Justizbehörden](0059a.md)
 
@@ -107,4 +120,6 @@
 - [§ 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0061.md)
 - [§ 62 Verfahren nach dem Therapieunterbringungsgesetz](0062.md)
 - [Anlage 1 (zu § 2 Abs. 2)Vergütungsverzeichnis](anlage-1.md)
+- [Anlage 1 (zu § 2 Abs. 2)Vergütungsverzeichnis](anlage-1-2.md)
 - [Anlage 2 (zu § 13 Absatz 1 Satz 3)](anlage-2.md)
+- [Anlage 2 (zu § 13 Absatz 1 Satz 3)](anlage-2-2.md)

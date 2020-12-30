@@ -618,7 +618,7 @@ Arbeitslosengeld II oder Unterhaltsgeld](0203a.md)
 
 - [§ 220 Grundsatz](0220.md)
 - [§ 221 Beteiligung des Bundes an Aufwendungen](0221.md)
-- [§ 221a (weggefallen)](0221a.md)
+- [§ 221a Ergänzender Bundeszuschuss an den Gesundheitsfonds im Jahr 2021](0221a.md)
 - [§ 221b (weggefallen)](0221b.md)
 - [§ 222 (weggefallen)](0222.md)
 - [§ 223 Beitragspflicht, beitragspflichtige Einnahmen,
@@ -711,7 +711,7 @@ Gesundheitsfonds
 - [§ 270a Einkommensausgleich](0270a.md)
 - [§ 271 Gesundheitsfonds](0271.md)
 - [§ 271a Sicherstellung der Einnahmen des Gesundheitsfonds](0271a.md)
-- [§ 272 (weggefallen)](0272.md)
+- [§ 272 Sonderregelungen für den Gesundheitsfonds im Jahr 2021](0272.md)
 - [§ 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich](0273.md)
 
 ### Fünfter Abschnitt Prüfung der Krankenkassen und
