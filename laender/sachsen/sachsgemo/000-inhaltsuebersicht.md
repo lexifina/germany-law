@@ -43,6 +43,7 @@ Erster Abschnitt Gemeinderat
 § 35 Rechtsstellung der Gemeinderäte
 § 35a Fraktionen
 § 36 Vorsitz im Gemeinderat, Einberufung der Sitzungen
+§ 36a Durchführung von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum im Falle einer epidemischen Lage von nationaler Tragweite
 § 37 Öffentlichkeit der Sitzungen
 § 38 Verhandlungsleitung, Geschäftsgang
 § 39 Beschlussfassung
