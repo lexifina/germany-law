@@ -1,0 +1,17 @@
+# Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Allgemeine Anforderungen an den Betrieb](0003.md)
+- [§ 4 (zukünftig in Kraft)](0004.md)
+- [§ 5 Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen](0005.md)
+- [§ 6 Fachkunde zur Anwendung von Hochfrequenzgeräten](0006.md)
+- [§ 7 (zukünftig in Kraft)](0007.md)
+- [§ 8 Stimulation des Zentralen Nervensystems](0008.md)
+- [§ 9 Fachkunde zur Anwendung von Ultraschall](0009.md)
+- [§ 10 Anwendung von Ultraschall an einer schwangeren Person](0010.md)
+- [§ 11 Anwendung von Magnetresonanzverfahren](0011.md)
+- [§ 12 Ordnungswidrigkeiten](0012.md)
+- [Anlage 1 (zu § 2 Absatz 1 Nummer 4 und 5)Werte für Anlagen im Sinne dieser Verordnung](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 2 Satz 3)Dokumentation der Anwendung](anlage-2.md)
+- [Anlage 3 (zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)Fachkunde](anlage-3.md)
