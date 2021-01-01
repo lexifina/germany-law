@@ -36,20 +36,14 @@ Institut für Physiologie
 e)
 Institut für Geschichte der Medizin
 f)
-Institut für Medizinische Mikrobiologie und Hygiene
-g)
 Institut für Immunologie
-h)
-Institut für Virologie
-i)
+g)
 Institut für Medizinische Informatik und Biometrie
-j)
-Institut für Klinische Genetik
-k)
+h)
 Institut für Klinische Pharmakologie
-l)
+i)
 Institut für Pharmakologie und Toxikologie
-m)
+j)
 Institut für Rechtsmedizin
-n)
+k)
 Institut für Sport- und Rehabilitationsmedizin
