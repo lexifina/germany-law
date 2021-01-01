@@ -3,7 +3,7 @@
 (2) Hinsichtlich der Analysen- und Messverfahren gelten die Vorschriften der Abwasserverordnung. Für nachfolgend aufgeführte Parameter gelten folgende Analyse- und Messverfahren:
 1. pH-Wert, Verfahren gem. DIN 38404-C 5,
 2. Temperatur, Verfahren gem. DIN 38404-C 4,
-3. absetzbare Stoffe (einschl. Hydroxide), Verfahren gem. DIN 38409-H 9, bzw. modifiziertes Verfahren gem. Absatz 1 (0,5 h Absetzzeit),
+3. absetzbare Stoffe (einschl. Hydroxide), Verfahren gem. DIN 38409-H 9, bzw. modifiziertes Verfahren gem. Anhang zu Absatz 1 (0,5 h Absetzzeit),
 4. Radionukklide, Nuklidspezifische Messungen gem. Zerfallsart der Nuklide.
 (3) Analysen- und Messverfahren für Parameter, die aufgrund dieses Ortsgesetzes nicht festgelegt sind, werden durch die Anstalt in der Genehmigung nach § 8 Abs. 1 festgelegt.
 (4) In der Mischprobe nach § 2 Nr. 2 der Abwasserverordnung ist bei einer Entnahmedauer von 6 Stunden oder mehr ein um 20 vom Hundert verminderter Grenzwert einzuhalten, wovon die Parameter pH-Wert, Temperatur, abfiltrierbare und absetzbare Stoffe ausgenommen sind.
