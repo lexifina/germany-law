@@ -1,80 +1,18 @@
 # Anlage 7 (zu § 16 Absatz 2, § 17 Absatz 2 und 3)Fahrerlaubnisprüfung
 
 1. Theoretische Prüfung
+  Einzelheiten der theoretischen Prüfung ergeben sich auch aus der Prüfungsrichtlinie für die theoretische Fahrerlaubnisprüfung in der jeweils geltenden Fassung, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemacht wird.
 1.1 Prüfungsstoff
-  Gegenstand der Prüfung sind Kenntnisse in den Sachgebieten des Anhangs II Abschnitt A Nummer 2 bis 4 der Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über den Führerschein (ABl. L 403 vom 30.12.2006, S. 18) in der Fassung der Richtlinie (EU) 2014/85 der Kommission vom 1. Juli 2014 zur Änderung der Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates über den Führerschein (ABl. L 194 vom 2.7.2014, S. 10) und in folgenden Sachgebieten:
-  | Lfd. Nr. | Sachgebiet |
-  | 1 | Gefahrenlehre |
-  | 1.1 | Grundformen des Verkehrsverhaltens Defensive Fahrweise, Behinderung, Gefährdung |
-  | 1.2 | Verhalten gegenüber Fußgängern Kinder, ältere Menschen, behinderte Menschen, Fußgänger allgemein |
-  | 1.3 | Fahrbahn- und Witterungsverhältnisse |
-  | 1.4 | Dunkelheit und schlechte Sicht |
-  | 1.5 | Geschwindigkeit |
-  | 1.6 | Überholen |
-  | 1.7 | Besondere Verkehrssituationen Anfahrender, fließender und anhaltender Verkehr, Auto und Zweirad, Wild, Tunnelfahrten |
-  | 1.8 | Autobahn |
-  | 1.9 | Alkohol, Drogen, Medikamente |
-  | 1.10 | Ermüdung, Ablenkung |
-  | 1.11 | Affektiv-emotionales Verhalten im Straßenverkehr |
-  | 2 | Verhalten im Straßenverkehr |
-  | 2.1 | Grundregeln über das Verhalten im Straßenverkehr |
-  | 2.2 | Straßenbenutzung |
-  | 2.3 | Geschwindigkeit |
-  | 2.4 | Abstand |
-  | 2.5 | Überholen |
-  | 2.6 | Vorbeifahren |
-  | 2.7 | Benutzung von Fahrstreifen durch Kraftfahrzeuge |
-  | 2.8 | Abbiegen, Wenden und Rückwärtsfahren |
-  | 2.9 | Einfahren und Anfahren |
-  | 2.10 | Besondere Verkehrslagen |
-  | 2.11 | Halten und Parken |
-  | 2.12 | Einrichtungen zur Überwachung der Parkzeit |
-  | 2.13 | Sorgfaltspflichten |
-  | 2.14 | Liegenbleiben und Abschleppen von Fahrzeugen |
-  | 2.15 | Warnzeichen |
-  | 2.16 | Beleuchtung |
-  | 2.17 | Autobahnen und Kraftfahrstraßen |
-  | 2.18 | Bahnübergänge |
-  | 2.19 | Öffentliche Verkehrsmittel und Schulbusse |
-  | 2.20 | Personenbeförderung |
-  | 2.21 | Ladung |
-  | 2.22 | Sonstige Pflichten des Fahrzeugführers |
-  | 2.23 | Verhalten an Fußgängerüberwegen und gegenüber Fußgängern |
-  | 2.24 | Übermäßige Straßenbenutzung |
-  | 2.25 | Sonntagsfahrverbot |
-  | 2.26 | Verkehrshindernisse |
-  | 2.27 | Unfall |
-  | 2.28 | Zeichen und Weisungen der Polizeibeamten |
-  | 2.29 | Wechsellichtzeichen und Dauerlichtzeichen |
-  | 2.30 | Blaues Blinklicht und gelbes Blinklicht |
-  | 3 | Vorfahrt, Vorrang |
-  | 4 | Verkehrszeichen |
-  | 4.1 | Gefahrzeichen |
-  | 4.2 | Vorschriftzeichen |
-  | 4.3 | Richtzeichen |
-  | 4.4 | Verkehrseinrichtungen |
-  | 5 | Umweltschutz |
-  | 6 | Vorschriften über den Betrieb der Fahrzeuge |
-  | 6.1 | Untersuchung der Fahrzeuge |
-  | 6.2 | Zulassung zum Straßenverkehr, Fahrzeugpapiere, Fahrerlaubnis |
-  | 6.3 | Anhängerbetrieb |
-  | 6.4 | Lenk- und Ruhezeiten |
-  | 6.5 | Fahrtenschreiber |
-  | 6.6 | Abmessungen und Gewichte |
-  | 6.7 | Lesen einer Straßenkarte und Streckenplanung |
-  | 7 | Technik |
-  | 7.1 | Fahrbetrieb, Fahrphysik, Fahrtechnik |
-  | 7.2 | Mängelerkennung, Lokalisierung von Störungen |
-  | 7.3 | Verbrennungsmaschine, Flüssigkeiten, Kraftstoffsystem, elektrische Anlage, Zündung, Kraftübertragung |
-  | 7.4 | Schmier- und Frostschutzmittel |
-  | 7.5 | Verwendung und Wartung von Reifen |
-  | 7.6 | Bremsanlagen und Geschwindigkeitsregler |
-  | 7.7 | Anhängerkupplungssysteme |
-  | 7.8 | Wartung von Kraftfahrzeugen und rechtzeitige Veranlassung von Reparaturen |
-  | 7.9 | Entgegennahme, Transport und Ablieferung der Güter |
-  | 7.10 | Ausrüstung von Fahrzeugen |
-  | 8 | Eignung und Befähigung von Kraftfahrern |
-  Der Prüfungsstoff bildet die Grundlage für den Fragenkatalog. Der Fragenkatalog wird vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt oder bei Fragen mit bewegten Situationsdarstellungen im Bundesanzeiger bekannt gemacht.
+  Gegenstand der Prüfung sind Kenntnisse in den Sachgebieten des Anhangs II Abschnitt A Nummer 2 bis 4 der Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über den Führerschein (Neufassung) (ABl. L 403 vom 30.12.2006, S. 18; L 169 vom 28.6.2016, S. 18) in der Fassung der Richtlinie (EU) 2018/933 der Kommission vom 29. Juni 2018 zur Berichtigung der deutschen Fassung der Richtlinie 2006/126/EG des Europäischen Parlaments und des Rates über den Führerschein (ABl. L 165 vom 2.7.2018, S. 35) und in den folgenden Sachgebieten:
+  1. Gefahrenlehre
+  2. Verhalten im Straßenverkehr
+  3. Vorfahrt, Vorrang
+  4. Verkehrszeichen
+  5. Umweltschutz
+  6. Vorschriften über den Betrieb der Fahrzeuge
+  7. Technik
+  8. Eignung und Befähigung von Kraftfahrern.
+  Der Prüfungsstoff bildet die Grundlage für den Fragenkatalog. Der Fragenkatalog ist Teil der Prüfungsrichtlinie nach Nummer 1.
 1.2 Form und Umfang der Prüfung, Zusammenstellung der Fragen, Bewertung der Prüfung
 1.2.1 Allgemeines
   Jede Prüfung enthält Fragen aus dem Grundstoff und dem Zusatzstoff des Fragenkatalogs. Der Grundstoff beinhaltet den für alle Klassen geltenden Prüfungsstoff, der Zusatzstoff den Stoff, der sich aus den besonderen Anforderungen der jeweiligen Klasse ergibt. Bei einer Prüfung für mehrere Klassen wird der Grundstoff nur einmal geprüft. Bei der Prüfung zur Erweiterung einer Fahrerlaubnis wird der Grundstoff in reduziertem Umfang erneut mitgeprüft. Nach Abschluss der Prüfung können aus Gründen der Qualitätssicherung und der Weiterentwicklung der theoretischen Fahrerlaubnisprüfung zusätzliche Fragen oder Aufgaben zur Bearbeitung vorgelegt werden. Die Ergebnisse dieser Fragen oder Aufgaben werden bei der Prüfungsbewertung nicht berücksichtigt. Die Teilnahme an dieser Erprobung erfolgt freiwillig und anonym.
@@ -92,7 +30,6 @@
   | C1, CE | 30 | 105 | 10 |
   | D | 40 | 138 | 10 |
   | D1 | 35 | 121 | 10 |
-  Weitere Einzelheiten der theoretischen Prüfung ergeben sich aus der Prüfungsrichtlinie, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt bekannt gemacht wird.
 1.2.3 Bewertung der Prüfung
   Die theoretische Prüfung ist nicht bestanden, wenn die unter Nummer 1.2.2 bei den einzelnen Klassen jeweils aufgeführte Zahl der zulässigen Fehlerpunkte überschritten oder zwei Fragen mit Wertigkeit 5 falsch beantwortet worden sind.
   Eine nicht bestandene theoretische Prüfung ist in vollem Umfang zu wiederholen.
@@ -113,13 +50,14 @@
   l) Hocharabisch.
 1.4 (weggefallen)
 2. Praktische Prüfung
+  Einzelheiten der praktischen Prüfung ergeben sich auch aus der Prüfungsrichtlinie für die praktische Fahrerlaubnisprüfung in der jeweils geltenden Fassung, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemacht wird.
 2.1 Prüfungsstoff
   Die Prüfung setzt sich wie folgt zusammen:
 2.1.1 Fahrtechnische Vorbereitung der Fahrt
 2.1.2 Abfahrtkontrolle (nur bei den Klassen C, C1, D, D1 und T).
   Handfertigkeiten (nur bei den Klassen D und D1).
 2.1.3 Verbinden und Trennen von Fahrzeugen (nur bei den Klassen BE, CE, C1E, DE, D1E und T).
-2.1.4 Grundfahraufgaben
+2.1.4 Grundlage für die Durchführung der Grundfahraufgaben ist der Fahraufgabenkatalog. Der Fahraufgabenkatalog ist Teil der Prüfungsrichtlinie nach Nummer 2.
 2.1.4.1 Bei den Zweiradklassen
 2.1.4.1.1 Bei den Klassen A, A1 und A2
   a) Obligatorisch
@@ -178,23 +116,7 @@
 2.1.4.6 Bei der Klasse T
   Rückwärtsfahren geradeaus.
   Summe der zu fahrenden Grundfahraufgaben: eine.
-2.1.5 Prüfungsfahrt
-  Der Bewerber muss fähig sein, selbständig das Fahrzeug auch in schwierigen Verkehrslagen verkehrsgerecht und sicher zu führen. Seine Fahrweise soll defensiv, rücksichtsvoll, vorausschauend und dem jeweiligen Verkehrsfluss angepasst sein. Daneben soll er auch zeigen, dass er über ausreichende Kenntnisse der für das Führen eines Kraftfahrzeugs maßgebenden gesetzlichen Vorschriften und einer umweltbewussten und energiesparenden Fahrweise verfügt, sie anzuwenden versteht sowie mit den Gefahren des Straßenverkehrs und den zu ihrer Abwehr erforderlichen Verhaltensweisen vertraut ist. Insbesondere ist bei den nachfolgenden Punkten auf richtige Verhaltensweisen, Handhabung bzw. Ausführung zu achten:
-  a) fahrtechnische Vorbereitung,
-  b) Lenkradhaltung,
-  c) Verhalten beim Anfahren,
-  d) Gangwechsel,
-  e) Steigung und Gefällstrecken,
-  f) automatische Kraftübertragung,
-  g) Verkehrsbeobachtung und Beachtung der Verkehrszeichen und -einrichtungen,
-  h) Fahrgeschwindigkeit,
-  i) Abstand halten vom vorausfahrenden Fahrzeug,
-  j) Überholen und Vorbeifahren,
-  k) Verhalten an Kreuzungen, Einmündungen, Kreisverkehren, Bahnübergängen und in Tunneln,
-  l) Abbiegen und Fahrstreifenwechsel,
-  m) Verhalten gegenüber Fußgängern sowie an Straßenbahn- und Bushaltestellen,
-  n) Fahren außerhalb geschlossener Ortschaften und
-  o) fahrtechnischer Abschluss der Fahrt.
+2.1.5 Grundlage für die Durchführung der Prüfungsfahrt ist der Fahraufgabenkatalog. Der Fahraufgabenkatalog ist Teil der Prüfungsrichtlinie nach Nummer 2.
 2.1.6 Fahrtechnischer Abschluss der Fahrt
 2.2 Prüfungsfahrzeuge
   Für die Klassen B, C1, C, D1 und D sind nur linksgelenkte Fahrzeuge zulässig. Nach Beginn der Prüfung sind Änderungen am Prüfungsfahrzeug hinsichtlich Ausstattung und Ladung unzulässig. Ein Fahrzeugwechsel während der Prüfungsfahrt ist nur bei einem unvorhersehbaren Defekt am Prüfungsfahrzeug zulässig.
@@ -205,7 +127,7 @@
   b) Hubraum mindestens 600 cm³, wobei eine Unterschreitung des Mindesthubraums um 5 cm³ zulässig ist,
   c) Leermasse von mindestens 180 kg, wobei eine Unterschreitung um 5 kg zulässig ist,
   d) mit Elektromotor Verhältnis Leistung/Leermasse mindestens 0,25 kW/kg.
-2.2.2 Für Klasse A2:
+2.2.2 2 .2.2 Für Klasse A2:
   Krafträder ohne Beiwagen
   a) Motorleistung mindestens 20 kW, jedoch nicht mehr als 35 kW,
   b) Verhältnis Leistung/Leermasse von nicht mehr als 0,2 kW/kg,
@@ -333,50 +255,47 @@
   Prüfungsfahrzeuge der Klasse B müssen ferner mit einem zusätzlichen Innenspiegel sowie mit zwei rechten Außenspiegeln, gegebenenfalls in integrierter Form, oder einem gleichwertigen Außenspiegel ausgerüstet sein.
   Prüfungsfahrzeuge der Klassen BE, C, C1, D und D1 müssen mit je einem zusätzlichen rechten und linken Außenspiegel ausgestattet sein, soweit die Spiegel für den Fahrer dem Fahrlehrer keine ausreichende Sicht nach hinten ermöglichen.
 2.2.17 Die Kennzeichnung der zu Prüfungsfahrten verwendeten Kraftfahrzeuge als Schulfahrzeuge (§ 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz vom 2. Januar 2018 (BGBl. I S. 2)) muss entfernt sein. Alle vom Fahrzeughersteller lieferbaren Ausstattungen und Systeme sind grundsätzlich unter Berücksichtigung der Anlage 12 der Prüfungsrichtlinie zugelassen. Dies gilt auch für den nachträglichen Einbau gleicher oder ähnlicher Produkte.
-2.2.18 Bei Prüfungen der Klassen A, A1, A2 und AM muss der Bewerber geeignete Motorradschutzkleidung, bestehend aus einem passenden Motorradhelm, Motorradhandschuhen, einer eng anliegenden Motorradjacke, einem Rückenprotektor (falls nicht in Motorradjacke integriert), einer Motorradhose und Motorradstiefeln mit ausreichendem Knöchelschutz tragen.
-  Es dürfen nur Fahrzeuge verwendet werden, für die eine Helmtragepflicht besteht.
+2.2.18 Bei Prüfungen der Klasse A, A1, A2 und AM dürfen nur Fahrzeuge verwendet werden, für die eine Helmtragepflicht besteht.
 2.2.19 Prüfungsfahrzeuge für Bewerber mit körperlicher Behinderung
   Soll aufgrund einer körperlichen Behinderung die Fahrerlaubnis nur für bestimmte Fahrzeugarten oder nur für angepasste Fahrzeuge erteilt werden, so ist die Prüfung unter Berücksichtigung der wesentlichen Anforderungen auf einem solchen Fahrzeug durchzuführen.
 2.2.20 (weggefallen)
 2.3 Prüfungsdauer und Mindestfahrzeit
-  Die Prüfungsdauer und die reine Fahrzeit betragen mindestens
+  Die Prüfungsdauer und die Fahrzeit betragen mindestens
   | bei | Prüfungsdauer insgesamt | davon Fahrzeit |
-  | Klasse A | 60 Minuten | 25 Minuten |
-  |  | 40 Minuten Aufstieg | 25 Minuten |
-  | Klasse A2 | 60 Minuten Direkteinstieg | 25 Minuten |
-  |  | 40 Minuten Aufstieg | 25 Minuten |
-  | Klasse A1 | 45 Minuten | 25 Minuten |
-  | Klasse B | 45 Minuten | 25 Minuten |
-  | Klasse BE | 45 Minuten | 25 Minuten |
-  | Klasse C | 75 Minuten | 45 Minuten |
-  | Klasse CE | 75 Minuten | 45 Minuten |
-  | Klasse C1 | 75 Minuten | 45 Minuten |
-  | Klasse C1E | 75 Minuten | 45 Minuten |
-  | Klasse D | 75 Minuten | 45 Minuten |
-  | Klasse DE | 70 Minuten | 45 Minuten |
-  | Klasse D1 | 75 Minuten | 45 Minuten |
-  | Klasse D1E | 70 Minuten | 45 Minuten |
-  | Klasse AM | 45 Minuten | 25 Minuten |
-  | Klasse T | 60 Minuten | 30 Minuten, |
-  sofern der Bewerber nicht schon vorher gezeigt hat, dass er den Anforderungen der Prüfung nicht gewachsen ist.
-  In folgenden Fällen verkürzt sich die Dauer der praktischen Prüfung um ein Drittel:
-  a) bei Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen ohne Schaltgetriebe (ohne Kupplungspedal oder ohne Kupplungshebel bei Fahrzeugen der Klasse A, A1 oder A2) oder
-  b) bei Erweiterung von der Klasse A1 auf die Klasse A2 sowie von der Klasse A2 zur Klasse A (stufenweiser Zugang bei jeweils zweijährigem Vorbesitz und Erweiterung auf die nächsthöhere Klasse).
+  | Klasse A | 70 Minuten | 30 Minuten |
+  |  | 60 Minuten Aufstieg | 30 Minuten |
+  | Klasse A2 | 70 Minuten Direkteinstieg | 30 Minuten |
+  |  | 60 Minuten Aufstieg | 30 Minuten |
+  | Klasse A1 | 70 Minuten | 30 Minuten |
+  | Klasse B | 55 Minuten | 30 Minuten |
+  | Klasse BE | 55 Minuten | 30 Minuten |
+  | Klasse C | 85 Minuten | 50 Minuten |
+  | Klasse CE | 85 Minuten | 50 Minuten |
+  | Klasse C1 | 85 Minuten | 50 Minuten |
+  | Klasse C1E | 85 Minuten | 50 Minuten |
+  | Klasse D | 85 Minuten | 50 Minuten |
+  | Klasse DE | 80 Minuten | 50 Minuten |
+  | Klasse D1 | 85 Minuten | 50 Minuten |
+  | Klasse D1E | 80 Minuten | 50 Minuten |
+  | Klasse AM | 55 Minuten | 30 Minuten |
+  | Klasse T | 70 Minuten | 35 Minuten, |
+  falls der Bewerber nicht schon vorher gezeigt hat, dass er den Anforderungen der Prüfung nicht gewachsen ist.
+  Bei der Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen ohne Schaltgetriebe (ohne Kupplungspedal bei Fahrzeugen der Klasse B oder ohne Kupplungshebel bei Fahrzeugen der Klasse A, A2 oder A1) verkürzt sich die Dauer der praktischen Prüfung um 10 Minuten.
 2.4 Prüfungsstrecke
-  Etwa die Hälfte der reinen Fahrzeit soll für Prüfungsstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden. Abweichend hiervon sind Prüfungen für die Klasse AM überwiegend innerhalb geschlossener Ortschaften durchzuführen. Die Prüfung für die Klasse T kann auch an Orten durchgeführt werden, die nicht Prüforte im Sinn von § 17 Absatz 4 sind.
+  Etwa die Hälfte der Fahrzeit soll für Prüfungsstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden. Abweichend hiervon sind Prüfungen für die Klasse AM überwiegend innerhalb geschlossener Ortschaften durchzuführen. Die Prüfung für die Klasse T kann auch an Orten durchgeführt werden, die nicht Prüforte im Sinn von § 17 Absatz 4 sind.
 2.5 Bewertung der Prüfung
 2.5.1 Für die Durchführung der praktischen Prüfung sind
   a) die fahrtechnische Vorbereitung der Fahrt (2.1.1), die Grundfahraufgaben (2.1.4) und die Prüfungsfahrt (2.1.5),
   b) die Abfahrtkontrolle und die Handfertigkeiten (2.1.2) und
   c) das Verbinden und Trennen von Fahrzeugen (2.1.3)
   jeweils getrennte Prüfungsteile, die jeweils getrennt voneinander bewertet werden. Bereits bestandene Prüfungsteile sind nicht zu wiederholen.
-2.5.2 Zum Nichtbestehen einer Prüfung führen
-  a) erhebliche Fehler oder
-  b) die Wiederholung oder Häufung von verschiedenen Fehlern, die als Einzelfehler in der Regel noch nicht zum Nichtbestehen führen.
+2.5.2 Zum Nichtbestehen der Prüfung führen:
+  a) Fehler, die zur sofortigen Beendigung der Prüfung führen oder
+  b) die Wiederholung oder Häufung von leichten oder schweren Fehlern, die als Einzelfehler in der Regel noch nicht zum Nichtbestehen führen.
 2.5.3 Verhalten des Fahrlehrers
   Versucht der Fahrlehrer den amtlich anerkannten Sachverständigen oder Prüfer zu täuschen oder macht das Verhalten des Fahrlehrers die Beurteilung des Bewerbers bei der Prüfungsfahrt unmöglich, so ist diese als nicht bestanden zu beenden.
 2.5.4 Vorzeitige Beendigung der Prüfungsfahrt
   Die Prüfungsfahrt soll beendet werden, sobald sich herausstellt, dass der Bewerber den Anforderungen der Prüfung nicht gerecht wird.
-2.6 Nichtbestehen der Prüfung
-  Hat der Bewerber die Prüfung nicht bestanden, so hat ihn der Sachverständige oder Prüfer bei Beendigung der Prüfung unter kurzer Benennung der wesentlichen Fehler hiervon zu unterrichten und ihm ein Prüfprotokoll auszuhändigen.
-2.7 Weitere Einzelheiten der praktischen Prüfung werden in der Prüfungsrichtlinie geregelt, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen Obersten Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt bekannt gemacht wird.
+2.6 Prüfungsergebnis
+  Der Sachverständige oder Prüfer unterrichtet den Bewerber am Ende der Prüfung über das Prüfungsergebnis und stellt ihm eine schriftliche Leistungsrückmeldung mit Empfehlungen zum Fahrkompetenzerwerb zur Verfügung.
+2.7 (weggefallen)

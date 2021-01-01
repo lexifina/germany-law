@@ -10,6 +10,7 @@
 - [§ 4 Staatliche Prüfung, staatliche Ergänzungsprüfung](0004.md)
 - [§ 5 Prüfungsausschuss](0005.md)
 - [§ 6 Zulassung zur Prüfung](0006.md)
+- [§ 6a Nachteilsausgleich](0006a.md)
 - [§ 7 Niederschrift](0007.md)
 - [§ 8 Benotung der staatlichen Prüfung](0008.md)
 - [§ 9 Bestehen und Wiederholung der staatlichen Prüfung](0009.md)

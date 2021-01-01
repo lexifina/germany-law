@@ -35,6 +35,8 @@
 - [§ 18 Verbote zum Schutz vor Täuschung](0018.md)
 - [§ 19 Verbot der Hörfunkwerbung, der Werbung in Druckerzeugnissen und in Diensten der Informationsgesellschaft, Verbot des Sponsorings](0019.md)
 - [§ 20 Verbot der audiovisuellen kommerziellen Kommunikation](0020.md)
+- [§ 20a Verbot der Außenwerbung](0020a.md)
+- [§ 20b Verbot der kostenlosen Abgabe und der Ausspielung](0020b.md)
 - [§ 21 Verbot von Werbung mit qualitativen Zielen](0021.md)
 - [§ 22 Grenzüberschreitender Fernabsatz an Verbraucher; Datenschutz](0022.md)
 - [§ 23 Ermächtigungen](0023.md)

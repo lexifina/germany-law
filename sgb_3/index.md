@@ -208,7 +208,7 @@ Versicherungspflichtige
 - [§ 104 Dauer](0104.md)
 - [§ 105 Höhe](0105.md)
 - [§ 106 Nettoentgeltdifferenz](0106.md)
-- [§ 106a Erstattung der Sozialversicherungsbeiträge bei beruflicher Weiterbildung](0106a.md)
+- [§ 106a Erstattungen bei beruflicher Weiterbildung während Kurzarbeit](0106a.md)
 
 ##### Vierter Titel Anwendung anderer Vorschriften
 

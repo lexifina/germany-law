@@ -248,7 +248,7 @@ Vereinigungen
 - [§ 83 Gesamtverträge](0083.md)
 - [§ 84 Arznei- und Heilmittelvereinbarung](0084.md)
 - [§ 85 Gesamtvergütung](0085.md)
-- [§ 85a (weggefallen)](0085a.md)
+- [§ 85a Sonderregelungen für Vertragszahnärztinnen und Vertragszahnärzte aus Anlass der COVID-19-Pandemie](0085a.md)
 - [§ 85b (weggefallen)](0085b.md)
 - [§ 85c (weggefallen)](0085c.md)
 - [§ 85d (weggefallen)](0085d.md)
@@ -325,10 +325,10 @@ und anderen Einrichtungen
 - [§ 109 Abschluß von Versorgungsverträgen mit Krankenhäusern](0109.md)
 - [§ 110 Kündigung von Versorgungsverträgen mit Krankenhäusern](0110.md)
 - [§ 110a Qualitätsverträge](0110a.md)
-- [§ 111 Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen](0111.md)
+- [§ 111 Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen, Verordnungsermächtigung](0111.md)
 - [§ 111a Versorgungsverträge mit Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen](0111a.md)
 - [§ 111b Landesschiedsstelle für Versorgungs- und Vergütungsvereinbarungen zwischen Krankenkassen und Trägern von Vorsorge- oder Rehabilitationseinrichtungen und Bundesschiedsstelle für Rahmenempfehlungen, Verordnungsermächtigung](0111b.md)
-- [§ 111c Versorgungsverträge mit Rehabilitationseinrichtungen](0111c.md)
+- [§ 111c Versorgungsverträge mit Rehabilitationseinrichtungen, Verordnungsermächtigung](0111c.md)
 - [§ 111d Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung](0111d.md)
 - [§ 112 Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung](0112.md)
 - [§ 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung](0113.md)
@@ -364,7 +364,7 @@ von Heilmitteln
 - [§ 124 Zulassung](0124.md)
 - [§ 125 Verträge](0125.md)
 - [§ 125a Heilmittelversorgung mit erweiterter Versorgungsverantwortung](0125a.md)
-- [§ 125b Bundesweit geltende Preise](0125b.md)
+- [§ 125b Bundesweit geltende Preise, Verordnungsermächtigung](0125b.md)
 
 ### Sechster Abschnitt Beziehungen zu Leistungserbringern
 von Hilfsmitteln
@@ -784,7 +784,7 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 294 Pflichten der Leistungserbringer](0294.md)
 - [§ 294a Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden](0294a.md)
-- [§ 295 Abrechnung ärztlicher Leistungen](0295.md)
+- [§ 295 Übermittlungspflichten und Abrechnung bei ärztlichen Leistungen](0295.md)
 - [§ 295a Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen](0295a.md)
 - [§ 296 Datenübermittlung für Wirtschaftlichkeitsprüfungen](0296.md)
 - [§ 297 Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen](0297.md)

@@ -165,7 +165,6 @@
 - [§ 107b Verteilung der Versorgungslasten](0107b.md)
 - [§ 107c Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem in Artikel 3 des Einigungsvertrages genannten Gebiet](0107c.md)
 - [§ 107d Befristete Ausnahme für Verwendungseinkommen](0107d.md)
-- [§ 107e Sonderregelung für Einkommen aus Beschäftigungen zur Bewältigung der Auswirkungen der COVID-19-Pandemie](0107e.md)
 - [§ 108 Anwendungsbereich in den Ländern](0108.md)
 - [§ 109](0109.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III

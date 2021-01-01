@@ -118,7 +118,7 @@
 | § 61 | Auflösung durch Urteil |
 | § 62 | Auflösung durch eine Verwaltungsbehörde |
 | § 63 | (weggefallen) |
-| § 64 | Haftung für Zahlungen nach Zahlungsunfähigkeit oder Überschuldung |
+| § 64 | (weggefallen) |
 | § 65 | Anmeldung und Eintragung der Auflösung |
 | § 66 | Liquidatoren |
 | § 67 | Anmeldung der Liquidatoren |

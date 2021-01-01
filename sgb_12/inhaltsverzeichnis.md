@@ -191,6 +191,7 @@
 |  | Erster Abschnitt |
 |  | Einkommen |
 | § 82 | Begriff des Einkommens |
+| § 82a | Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen |
 | § 83 | Nach Zweck und Inhalt bestimmte Leistungen |
 | § 84 | Zuwendungen |
 |  |
@@ -316,5 +317,6 @@
 | § 140 | Übergangsregelung zur Verhinderung einer Zahlungslücke |
 | § 141 | Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
 | § 142 | Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
+| § 143 | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten |
 Anlage zu § 28
 Anlage zu § 34

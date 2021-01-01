@@ -82,6 +82,7 @@ der Meldungen durch die Sozialversicherungsträger
 - [§ 39 Anrechnungszeiten, Sperrzeiten](0039.md)
 - [§ 40 Zeiten des Wehr- und Zivildienstes](0040.md)
 - [§ 40a Zeiten einer besonderen Auslandsverwendung](0040a.md)
+- [§ 40b Zeiten des Bezuges von Übergangsgebührnissen](0040b.md)
 
 ## Achter Abschnitt Ordnungswidrigkeiten
 

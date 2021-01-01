@@ -22,6 +22,7 @@
 - [§ 8 Zustellungen](0008.md)
 - [§ 9 Öffentliche Bekanntmachung](0009.md)
 - [§ 10 Anhörung des Schuldners](0010.md)
+- [§ 10a Vorgespräch](0010a.md)
 
 ## Zweiter Teil Eröffnung des Insolvenzverfahrens.
 Erfaßtes Vermögen und Verfahrensbeteiligte
@@ -36,6 +37,7 @@ Erfaßtes Vermögen und Verfahrensbeteiligte
 - [§ 14 Antrag eines Gläubigers](0014.md)
 - [§ 15 Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit](0015.md)
 - [§ 15a Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit](0015a.md)
+- [§ 15b Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung](0015b.md)
 - [§ 16 Eröffnungsgrund](0016.md)
 - [§ 17 Zahlungsunfähigkeit](0017.md)
 - [§ 18 Drohende Zahlungsunfähigkeit](0018.md)
@@ -301,6 +303,7 @@ des Verfahrens
 - [§ 221 Gestaltender Teil](0221.md)
 - [§ 222 Bildung von Gruppen](0222.md)
 - [§ 223 Rechte der Absonderungsberechtigten](0223.md)
+- [§ 223a Gruppeninterne Drittsicherheiten](0223a.md)
 - [§ 224 Rechte der Insolvenzgläubiger](0224.md)
 - [§ 225 Rechte der nachrangigen Insolvenzgläubiger](0225.md)
 - [§ 225a Rechte der Anteilsinhaber](0225a.md)
@@ -321,6 +324,7 @@ des Verfahrens
 - [§ 237 Stimmrecht der Insolvenzgläubiger](0237.md)
 - [§ 238 Stimmrecht der absonderungsberechtigten Gläubiger](0238.md)
 - [§ 238a Stimmrecht der Anteilsinhaber](0238a.md)
+- [§ 238b Stimmrecht der Berechtigten aus gruppeninternen Drittsicherheiten](0238b.md)
 - [§ 239 Stimmliste](0239.md)
 - [§ 240 Änderung des Plans](0240.md)
 - [§ 241 Gesonderter Abstimmungstermin](0241.md)
@@ -328,6 +332,7 @@ des Verfahrens
 - [§ 243 Abstimmung in Gruppen](0243.md)
 - [§ 244 Erforderliche Mehrheiten](0244.md)
 - [§ 245 Obstruktionsverbot](0245.md)
+- [§ 245a Schlechterstellung bei natürlichen Personen](0245a.md)
 - [§ 246 Zustimmung nachrangiger Insolvenzgläubiger](0246.md)
 - [§ 246a Zustimmung der Anteilsinhaber](0246a.md)
 - [§ 247 Zustimmung des Schuldners](0247.md)
@@ -383,11 +388,14 @@ Planerfüllung
 
 ## Achter Teil Eigenverwaltung
 
-- [§ 270 Voraussetzungen](0270.md)
-- [§ 270a Eröffnungsverfahren](0270a.md)
-- [§ 270b Vorbereitung einer Sanierung](0270b.md)
-- [§ 270c Bestellung des Sachwalters](0270c.md)
-- [§ 270d Eigenverwaltung bei gruppenangehörigen Schuldnern](0270d.md)
+- [§ 270 Grundsatz](0270.md)
+- [§ 270a Antrag; Eigenverwaltungsplanung](0270a.md)
+- [§ 270b Anordnung der vorläufigen Eigenverwaltung](0270b.md)
+- [§ 270c Vorläufiges Eigenverwaltungsverfahren](0270c.md)
+- [§ 270d Vorbereitung einer Sanierung; Schutzschirm](0270d.md)
+- [§ 270e Aufhebung der vorläufigen Eigenverwaltung](0270e.md)
+- [§ 270f Anordnung der Eigenverwaltung](0270f.md)
+- [§ 270g Eigenverwaltung bei gruppenangehörigen Schuldnern](0270g.md)
 - [§ 271 Nachträgliche Anordnung](0271.md)
 - [§ 272 Aufhebung der Anordnung](0272.md)
 - [§ 273 Öffentliche Bekanntmachung](0273.md)

@@ -27,7 +27,7 @@
 - [§ 9 Miete](0009.md)
 - [§ 10 Belastung](0010.md)
 - [§ 11 Zu berücksichtigende Miete und Belastung](0011.md)
-- [§ 12 Höchstbeträge für Miete und Belastung](0012.md)
+- [§ 12 Höchstbeträge für Miete und Belastung, Beträge zur Entlastung bei den Heizkosten](0012.md)
 
 ### Kapitel 4 Einkommen
 
@@ -36,6 +36,7 @@
 - [§ 15 Ermittlung des Jahreseinkommens](0015.md)
 - [§ 16 Abzugsbeträge für Steuern und Sozialversicherungsbeiträge](0016.md)
 - [§ 17 Freibeträge](0017.md)
+- [§ 17a Freibetrag für zu berücksichtigende Haushaltsmitglieder mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen](0017a.md)
 - [§ 18 Abzugsbeträge für Unterhaltsleistungen](0018.md)
 
 ### Kapitel 5 Höhe des Wohngeldes
@@ -84,6 +85,7 @@
 - [§ 42 Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches](0042.md)
 - [§ 42a Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes](0042a.md)
 - [§ 42b Übergangsregelung aus Anlass des Gesetzes zur Stärkung des Wohngeldes](0042b.md)
+- [§ 42c Übergangsregelung aus Anlass des Gesetzes zur Entlastung bei den Heizkosten im Wohngeld im Kontext der CO2-Bepreisung](0042c.md)
 - [§ 43 Fortschreibung des Wohngeldes](0043.md)
 - [§ 44 Übergangsregelung bei Fortschreibung des Wohngeldes](0044.md)
 - [Anlage 1 (zu § 12 Absatz 1)](anlage-1.md)

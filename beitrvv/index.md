@@ -25,6 +25,7 @@ Einzugsstelle
 - [§ 7 Grundsätze](0007.md)
 - [§ 8 Entgeltunterlagen](0008.md)
 - [§ 9 Beitragsabrechnung](0009.md)
+- [§ 9a Gemeinsame Grundsätze](0009a.md)
 - [§ 10 Mitwirkung](0010.md)
 - [§ 11 Umfang](0011.md)
 - [§ 12 Prüfung bei Steuerberatern oder bei anderen Stellen](0012.md)

@@ -207,7 +207,7 @@
 - [§ 111n Herausgabe beweglicher Sachen](0111n.md)
 - [§ 111o Verfahren bei der Herausgabe](0111o.md)
 - [§ 111p Notveräußerung](0111p.md)
-- [§ 111q Beschlagnahme von Schriften und Vorrichtungen](0111q.md)
+- [§ 111q Beschlagnahme von Verkörperungen eines Inhalts und Vorrichtungen](0111q.md)
 
 ### Neunter Abschnitt Verhaftung und vorläufige Festnahme
 

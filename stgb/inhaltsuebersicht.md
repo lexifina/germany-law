@@ -216,7 +216,7 @@
 |  | § 74a | Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen |
 |  | § 74b | Sicherungseinziehung |
 |  | § 74c | Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern |
-|  | § 74d | Einziehung von Schriften und Unbrauchbarmachung |
+|  | § 74d | Einziehung von Verkörperungen eines Inhalts und Unbrauchbarmachung |
 |  | § 74e | Sondervorschrift für Organe und Vertreter |
 |  | § 74f | Grundsatz der Verhältnismäßigkeit |
 |  | § 75 | Wirkung der Einziehung |
@@ -478,17 +478,18 @@
 |  | § 182 | Sexueller Mißbrauch von Jugendlichen |
 |  | § 183 | Exhibitionistische Handlungen |
 |  | § 183a | Erregung öffentlichen Ärgernisses |
-|  | § 184 | Verbreitung pornographischer Schriften |
-|  | § 184a | Verbreitung gewalt- oder tierpornographischer Schriften |
-|  | § 184b | Verbreitung, Erwerb und Besitz kinderpornographischer Schriften |
-|  | § 184c | Verbreitung, Erwerb und Besitz jugendpornographischer Schriften |
-|  | § 184d | Zugänglichmachen pornographischer Inhalte mittels Rundfunk oder Telemedien; Abruf kinder- und jugendpornographischer Inhalte mittels Telemedien |
+|  | § 184 | Verbreitung pornographischer Inhalte |
+|  | § 184a | Verbreitung gewalt- oder tierpornographischer Inhalte |
+|  | § 184b | Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte |
+|  | § 184c | Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte |
+|  | § 184d | (weggefallen) |
 |  | § 184e | Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen |
 |  | § 184f | Ausübung der verbotenen Prostitution |
 |  | § 184g | Jugendgefährdende Prostitution |
 |  | § 184h | Begriffsbestimmungen |
 |  | § 184i | Sexuelle Belästigung |
 |  | § 184j | Straftaten aus Gruppen |
+|  | § 184k | Verletzung des Intimbereichs durch Bildaufnahmen |
 |  |  |
 | Vierzehnter Abschnitt |
 |  | Beleidigung |
@@ -511,7 +512,7 @@
 |  | Verletzung des persönlichen Lebens- und Geheimbereichs |
 |  |  |
 |  | § 201 | Verletzung der Vertraulichkeit des Wortes |
-|  | § 201a | Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen |
+|  | § 201a | Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen |
 |  | § 202 | Verletzung des Briefgeheimnisses |
 |  | § 202a | Ausspähen von Daten |
 |  | § 202b | Abfangen von Daten |

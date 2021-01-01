@@ -202,7 +202,7 @@
 | § 104 | Dauer |
 | § 105 | Höhe |
 | § 106 | Nettoentgeltdifferenz |
-| § 106a | Erstattung der Sozialversicherungsbeiträge bei beruflicher Weiterbildung |
+| § 106a | Erstattungen bei beruflicher Weiterbildung während Kurzarbeit |
 |  |  |
 | Vierter Titel |
 | Anwendung anderer Vorschriften |

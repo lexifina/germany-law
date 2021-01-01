@@ -41,6 +41,7 @@
 - [§ 24 Gebühren und Auslagen, Verordnungsermächtigung](0024.md)
 - [§ 25 Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung](0025.md)
 - [§ 26 Europäisches System der Registervernetzung, Verordnungsermächtigung](0026.md)
+- [§ 26a Abruf durch die Zentralstelle für Finanztransaktionsuntersuchungen und die Strafverfolgungsbehörden](0026a.md)
 
 ## Abschnitt 5 Zentralstelle für Finanztransaktionsuntersuchungen
 

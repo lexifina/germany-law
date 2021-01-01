@@ -53,7 +53,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 16b. entgegen § 4.07 Nummer 2 Buchstabe b erster Halbsatz ein Inland AIS Gerät nutzt, das nicht mit maximaler Leistung sendet,
 16c. entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im Sendebetrieb nutzt,
 16d. entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland AIS Gerät nutzt, in dem die eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen,
-16e. entgegen § 4.07 Nummer 3 Satz 1 ein dort genanntes Inland ECDIS Gerät oder ein Kartenanzeigegerät nicht nutzt,
+16e. entgegen § 4.07 Nummer 3 Satz 1 ein dort genanntes Inland ECDIS Gerät nicht nutzt,
 17. entgegen § 5.01 Nr. 2 in Verbindung mit Nr. 1 eine Anordnung nicht befolgt,
 18. entgegen § 6.01 ein Fahrzeug unter Segel führt,
 19. einer Vorschrift über
@@ -124,7 +124,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 29a. ein Fahrzeug führt, das nicht mit den vorgeschriebenen Sprechfunkanlagen nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, ausgerüstet ist,
 29b. ein Fahrzeug führt,
   a) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist
-  b) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
+  b) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist oder
   c) das entgegen § 4.07 Nummer 8 nicht mit einer dort genannten Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
 29c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
 30. einer Vorschrift über
@@ -193,7 +193,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   l) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
   m) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,
   n) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
-  o) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
+  o) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist,
   p) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
   q) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
   r) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,

@@ -608,7 +608,6 @@ Generalstabsarzt
 Admiralstabsarzt
 Besoldungsgruppe B 8
 Direktor
-Direktor des Informationstechnikzentrums Bund
 Erster Direktor
 Präsident
 Präsident und Professor

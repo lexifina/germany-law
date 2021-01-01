@@ -244,7 +244,6 @@
 - [§ 104 Befristete Ausnahme für Verwendungseinkommen aus einer Beschäftigung in der Flüchtlingshilfe](0104.md)
 - [§ 105 Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften](0105.md)
 - [§ 106 Übergangsregelungen aus Anlass des GKV-Versichertenentlastungsgesetzes sowie des Bundeswehr-Einsatzbereitschaftsstärkungsgesetzes](0106.md)
-- [§ 106a Sonderregelung für Einkommen aus Beschäftigungen zur Bewältigung der Auswirkungen der COVID-19-Pandemie](0106a.md)
 - [§ 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0107.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 

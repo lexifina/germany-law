@@ -35,8 +35,7 @@ Folgende Wirkstoffe oder Wirkstoffgruppen sind nur unter den genannten Vorausset
   Diese Wirkstoffe sind nur beihilfefähig, solange sie im Vergleich zu intermediär wirkendem Humaninsulin nicht mit Mehrkosten verbunden sind; die notwendige Dosiseinheit zur Erreichung des therapeutischen Ziels ist zu berücksichtigen. Satz 2 gilt nicht für
   a) eine Behandlung mit Insulin glargin für Personen, bei denen im Rahmen einer intensivierten Insulintherapie auch nach individueller Überprüfung des Therapieziels und individueller Anpassung des Ausmaßes der Blutzuckersenkung in Ausnahmefällen ein hohes Risiko für schwere Hypoglykämien bestehen bleibt, oder
   b) Personen, die gegen intermediär wirkende Humaninsuline allergisch sind.
-9. Klimakteriumstherapeutika sind nur beihilfefähig zur systemischen und topischen hormonellen Substitution; sowohl für den Beginn als auch für die Fortführung einer Behandlung postmenopausaler Symptome ist die niedrigste Dosiseinheit für die kürzestmögliche Therapiedauer anzuwenden.
-10. Prostatamittel sind nur beihilfefähig
+9. Prostatamittel sind nur beihilfefähig
   a) einmalig für eine Dauer von 24 Wochen als Therapieversuch sowie
   b) längerfristig, sofern der Therapieversuch nach Buchstabe a erfolgreich verlaufen ist.
-11. Saftzubereitungen sind für Erwachsene nur beihilfefähig in Ausnahmefällen; die Gründe müssen dabei in der Person liegen.
+10. Saftzubereitungen sind für Erwachsene nur beihilfefähig in Ausnahmefällen; die Gründe müssen dabei in der Person liegen.

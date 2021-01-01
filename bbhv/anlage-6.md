@@ -10,7 +10,7 @@ Schwerwiegende Erkrankungen und Standardtherapeutika zu deren Behandlung sind:
   nur in Notfallsets zur Behandlung bei Bienen-, Wespen-, Hornissengift-Allergien,
   nur zur Behandlung schwerer rezidivierender Urticarien,
   nur bei schwerwiegendem anhaltendem Pruritus,
-  nur zur Behandlung bei schwerwiegender allergischer Rhinitis, bei der eine topische nasale Behandlung mit Glukokortikoiden nicht ausreichend ist.
+  nur zur Behandlung persistierender allergischer Rhinitis mit schwerwiegender Symptomatik, bei der eine topische nasale Behandlung mit Glukokortikoiden nicht ausreichend ist.
 7. Antimykotika nur zur Behandlung von Pilzinfektionen im Mund- und Rachenraum.
 8. Antiseptika und Gleitmittel nur für Personen mit Katheterisierung.
 9. Arzneistofffreie Injektions-/Infusions-, Träger- und Elektrolytlösungen sowie parenterale Osmodiuretika bei Hirnödem (Mannitol, Sorbitol).
@@ -28,16 +28,16 @@ Schwerwiegende Erkrankungen und Standardtherapeutika zu deren Behandlung sind:
 16. Eisen-(II)-Verbindungen nur zur Behandlung von gesicherter Eisenmangelanämie.
 17. Flohsamen und Flohsamenschalen nur zur unterstützenden Quellmittel-Behandlung bei Morbus Crohn, Kurzdarmsyndrom und HIV-assoziierter Diarrhö.
 18. Folsäure und Folinate nur bei Therapie mit Folsäureantagonisten sowie zur Behandlung des kolorektalen Karzinoms.
-19. Gingko-biloba-Blätter-Extrakt (Aceton-Wasser-Auszug, standardisiert 240 mg Tagesdosiseinheit) nur zur Behandlung der Demenz.
-20. Harnstoffhaltige Dermatika mit einem Harnstoffgehalt von mindestens 5 Prozent nur bei gesicherter Diagnose bei Ichthyosen, wenn keine therapeutischen Alternativen für die jeweilige Patientin oder den jeweiligen Patienten indiziert sind.
-21. Iodid nur zur Behandlung von Schilddrüsenerkrankungen.
-22. Iod-Verbindungen nur zur Behandlung von Ulcera und Dekubitalgeschwüren.
-23. Kaliumverbindungen als Monopräparate nur zur Behandlung der Hypokaliämie.
-24. Lactulose und Lactitol nur zur Senkung der enteralen Ammoniakresorption bei Leberversagen im Zusammenhang mit der hepatischen Enzephalopathie.
-25. Lösungen und Emulsionen zur parenteralen Ernährung einschließlich der notwendigen Vitamine und Spurenelemente.
-26. Magnesiumverbindungen, oral, nur bei angeborenen Magnesiumverlusterkrankungen.
-27. Magnesiumverbindungen, parenteral, nur zur Behandlung bei nachgewiesenem Magnesiummangel und zur Behandlung bei erhöhtem Eklampsierisiko.
-28. (frei)
+19. Ginkgo-biloba-Blätter-Extrakt (Aceton-Wasser-Auszug, standardisiert 240 mg Tagesdosiseinheit) nur zur Behandlung der Demenz.
+20. Glukokortikoide, topisch nasal nur zur Behandlung bei persistierender allergischer Rhinitis mit schwerwiegender Symptomatik
+21. Harnstoffhaltige Dermatika mit einem Harnstoffgehalt von mindestens 5 Prozent nur bei gesicherter Diagnose bei Ichthyosen, wenn keine therapeutischen Alternativen für die jeweilige Patientin oder den jeweiligen Patienten indiziert sind.
+22. Iodid nur zur Behandlung von Schilddrüsenerkrankungen.
+23. Iod-Verbindungen nur zur Behandlung von Ulcera und Dekubitalgeschwüren.
+24. Kaliumverbindungen als Monopräparate nur zur Behandlung der Hypokaliämie.
+25. Lactulose und Lactitol nur zur Senkung der enteralen Ammoniakresorption bei Leberversagen im Zusammenhang mit der hepatischen Enzephalopathie.
+26. Lösungen und Emulsionen zur parenteralen Ernährung einschließlich der notwendigen Vitamine und Spurenelemente.
+27. Magnesiumverbindungen, oral, nur bei angeborenen Magnesiumverlusterkrankungen.
+28. Magnesiumverbindungen, parenteral, nur zur Behandlung bei nachgewiesenem Magnesiummangel und zur Behandlung bei erhöhtem Eklampsierisiko.
 29. Metixenhydrochlorid nur zur Behandlung des Parkinson-Syndroms.
 30. Mistel-Präparate, parenteral, auf Mistellektin normiert, nur in der palliativen Therapie von malignen Tumoren zur Verbesserung der Lebensqualität.
 31. Niclosamid nur zur Behandlung von Bandwurmbefall.

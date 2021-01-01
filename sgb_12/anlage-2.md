@@ -3,3 +3,4 @@
 | gültig im Kalenderjahr | Teilbetrag für das im jeweiligen Kalenderjahr beginnende erste Schulhalbjahr | Teilbetrag für das im jeweiligen Kalenderjahr beginnende zweite Schulhalbjahr |
 | 2019 | 100 Euro | – |
 | 2020 | 100 Euro | 50 Euro |
+| 2021 | 103 Euro | 51,50 Euro |

@@ -53,6 +53,7 @@ Einstellung des Verfahrens
 - [§ 30d](0030d.md)
 - [§ 30e](0030e.md)
 - [§ 30f](0030f.md)
+- [§ 30g Vollzug der Vollstreckungssperre bei Stabilisierungsmaßnahmen](0030g.md)
 - [§ 31](0031.md)
 - [§ 32](0032.md)
 - [§ 33](0033.md)

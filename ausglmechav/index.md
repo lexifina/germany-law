@@ -16,7 +16,5 @@
 
 ## Abschnitt 2 Einrichtung und Ausgestaltung eines Netzausbaugebiets
 
-- [§ 10 Geografische Festlegung](0010.md)
-- [§ 11 Obergrenze der installierten Leistung von Windenergieanlagen an Land](0011.md)
-- [§ 12 Verteilung auf Ausschreibungen](0012.md)
+- [(XXXX) §§ 10 bis 12 (weggefallen)](xxxx-10-bis-12.md)
 - [§ 13 Zeitliche Geltung; Außerkrafttreten](0013.md)

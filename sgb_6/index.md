@@ -168,6 +168,7 @@ Zeiten (Gesamtleistungsbewertung)](0071.md)
 - [§ 76d Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters](0076d.md)
 - [§ 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung](0076e.md)
 - [§ 76f Zuschläge an Entgeltpunkten für nachversicherte Soldaten auf Zeit](0076f.md)
+- [§ 76g Zuschlag an Entgeltpunkten für langjährige Versicherung](0076g.md)
 - [§ 77 Zugangsfaktor](0077.md)
 - [§ 78 Zuschlag bei Waisenrenten](0078.md)
 - [§ 78a Zuschlag bei Witwenrenten und Witwerrenten](0078a.md)
@@ -210,8 +211,8 @@ auf mehrere Berechtigte](0091.md)
 - [§ 96 Nachversicherte Versorgungsbezieher](0096.md)
 - [§ 96a Rente wegen verminderter Erwerbsfähigkeit und Hinzuverdienst](0096a.md)
 - [§ 97 Einkommensanrechnung auf Renten wegen Todes](0097.md)
-- [§ 98 Reihenfolge bei der Anwendung von
-Berechnungsvorschriften](0098.md)
+- [§ 97a Einkommensanrechnung beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0097a.md)
+- [§ 98 Reihenfolge bei der Anwendung von Berechnungsvorschriften](0098.md)
 
 #### Fünfter Unterabschnitt Beginn, Änderung
 und Ende von Renten
@@ -259,6 +260,7 @@ des Verfahrens
 - [§ 115 Beginn](0115.md)
 - [§ 116 Besonderheiten bei Leistungen zur Teilhabe](0116.md)
 - [§ 117 Abschluss](0117.md)
+- [§ 117a Besonderheiten beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0117a.md)
 
 #### Zweiter Unterabschnitt Auszahlung und
 Anpassung
@@ -366,6 +368,8 @@ Versicherungsträger
 - [§ 150 Dateisysteme bei der Datenstelle](0150.md)
 - [§ 151 Auskünfte der Deutschen Post AG](0151.md)
 - [§ 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt](0151a.md)
+- [§ 151b Automatisiertes Abrufverfahren beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0151b.md)
+- [§ 151c Auskunftsrechte zur Überprüfung von Einkünften aus Kapitalvermögen beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0151c.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 
 ## Viertes Kapitel Finanzierung
@@ -425,6 +429,7 @@ und Sozialbeirat
 - [§ 175 Beitragszahlung bei Künstlern und Publizisten](0175.md)
 - [§ 176 Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen](0176.md)
 - [§ 176a Beitragszahlung und Abrechnung bei Pflegepersonen](0176a.md)
+- [§ 176b Beitragszahlung und Abrechnung für Bezieher von Übergangsgebührnissen](0176b.md)
 - [§ 177 Beitragszahlung für Kindererziehungszeiten](0177.md)
 - [§ 178 Verordnungsermächtigung](0178.md)
 
@@ -466,6 +471,7 @@ besonderen Fällen
 - [§ 191 Meldepflichten bei sonstigen versicherungspflichtigen Personen](0191.md)
 - [§ 192 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst](0192.md)
 - [§ 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung](0192a.md)
+- [§ 192b Meldepflichten bei Bezug von Übergangsgebührnissen](0192b.md)
 - [§ 193 Meldung von sonstigen rechtserheblichen Zeiten](0193.md)
 - [§ 194 Gesonderte Meldung und Hochrechnung](0194.md)
 - [§ 195 Verordnungsermächtigung](0195.md)
@@ -772,7 +778,7 @@ Beitrittsgebiet](0279a.md)
 - [§ 287 Beitragssatzgarantie bis 2025](0287.md)
 - [§ 287a Sonderzahlungen des Bundes in den Jahren 2022 bis 2025](0287a.md)
 - [§ 287b Ausgaben für Leistungen zur Teilhabe](0287b.md)
-- [§ 287c](0287c.md)
+- [§ 287c Förderung für sonstige Leistungen der Teilhabe](0287c.md)
 - [§ 287d Erstattungen in besonderen Fällen](0287d.md)
 - [§ 287e Veränderung des Bundeszuschusses im Beitrittsgebiet](0287e.md)
 - [§ 287f Getrennte Abrechnung](0287f.md)
@@ -844,6 +850,10 @@ Berufsunfähigkeit oder Erwerbsunfähigkeit](0303a.md)
 - [§ 307b Bestandsrenten aus überführten Renten des Beitrittsgebiets](0307b.md)
 - [§ 307c Durchführung der Neuberechnung von Bestandsrenten nach § 307b](0307c.md)
 - [§ 307d Zuschlag an persönlichen Entgeltpunkten für Kindererziehung](0307d.md)
+- [§ 307e Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn in den Jahren 1992 bis 2020](0307e.md)
+- [§ 307f Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn vor dem 1. Januar 1992](0307f.md)
+- [§ 307g Prüfung des Zuschlags an Entgeltpunkten für langjährige Versicherung](0307g.md)
+- [§ 307h Evaluierung](0307h.md)
 - [§ 308 Umstellungsrenten](0308.md)
 - [§ 309 Neufeststellung auf Antrag](0309.md)
 - [§ 310 Erneute Neufeststellung von Renten](0310.md)

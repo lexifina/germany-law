@@ -20,6 +20,7 @@ eines Insolvenzplans](0006.md)
 - [§ 10 Grundsatz](0010.md)
 - [§ 11 Vergütung des vorläufigen Insolvenzverwalters](0011.md)
 - [§ 12 Vergütung des Sachwalters](0012.md)
+- [§ 12a Vergütung des vorläufigen Sachwalters](0012a.md)
 - [§ 13 Vergütung des Insolvenzverwalters im Verbraucherinsolvenzverfahren](0013.md)
 
 ## Dritter Abschnitt Vergütung des Treuhänders nach

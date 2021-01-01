@@ -200,7 +200,7 @@ Schlußvorschriften
 - [§ 111 Änderung von Vorschriften](0111.md)
 - [§ 112 Übergangsregelungen](0112.md)
 - [§ 113 Berichterstattung](0113.md)
-- [§ 114 Infektionsschutz bei epidemischen Lagen von nationaler Tragweite](0114.md)
+- [§ 114 (weggefallen)](0114.md)
 - [§ 115 (weggefallen)](0115.md)
 - [§ 116 (weggefallen)](0116.md)
 - [§ 117 Verfahren bei Meinungsverschiedenheiten der beteiligten

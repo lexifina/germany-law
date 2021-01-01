@@ -36,9 +36,9 @@
 |  | Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. |  |
 | 230 | Wegnahme oder Entgegennahme einer Person durch den zur Vollstreckung erschienenen Gerichtsvollzieher .......... | 52,00 € |
 |  | Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. Sind mehrere Personen wegzunehmen, werden die Gebühren für jede Person gesondert erhoben. |  |
-| 240 | Entsetzung aus dem Besitz unbeweglicher Sachen oder eingetragener Schiffe oder Schiffsbauwerke und die Einweisung in den Besitz (§ 885 ZPO) .......... | 98,00 € |
+| 240 | Entsetzung aus dem Besitz unbeweglicher Sachen oder eingetragener Schiffe oder Schiffsbauwerke und die Einweisung in den Besitz .......... | 150,00 € |
 |  | Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. |  |
-| 241 | In dem Protokoll sind die frei ersichtlichen beweglichen Sachen zu dokumentieren und der Gerichtsvollzieher bedient sich elektronischer Bildaufzeichnungsmittel (§ 885a Abs. 2 ZPO):Die Gebühr 240 erhöht sich auf .......... | 108,00 € |
+| 241 | Der Gerichtsvollzieher ist nicht mit der Wegschaffung beweglicher Sachen beauftragt:Die Gebühr 240 ermäßigt sich auf ..........Mit der Gebühr sind auch die Dokumentation der frei beweglichen Sachen im Protokoll und die Nutzung elektronischer Bildaufzeichnungsmittel abgegolten. | 100,00 € |
 | 242 | Wegnahme ausländischer Schiffe, die in das Schiffsregister eingetragen werden müssten, wenn sie deutsche Schiffe wären, und ihre Übergabe an den Gläubiger .......... | 130,00 € |
 |  | Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. |  |
 | 243 | Übergabe unbeweglicher Sachen an den Verwalter im Falle der Zwangsversteigerung oder Zwangsverwaltung .......... | 98,00 € |
@@ -119,7 +119,7 @@
 | 702 | Auslagen für öffentliche Bekanntmachungen und Einstellung eines Ausgebots auf einer Versteigerungsplattform zur Versteigerung im Internet ..........Auslagen werden nicht erhoben für die Bekanntmachung oder Einstellung in einem elektronischen Informations- und Kommunikationssystem, wenn das Entgelt nicht für den Einzelfall oder nicht für ein einzelnes Verfahren berechnet wird. | in voller Höhe |
 | 703 | Nach dem JVEG an Zeugen, Sachverständige, Dolmetscher und Übersetzer zu zahlende Beträge .......... | in voller Höhe |
 |  | (1) Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. |  |
-| (2) Auslagen für Gebärdensprachdolmetscher (§ 186 Abs. 1 GVG) und für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht erhoben. |  |
+| (2) Auslagen für Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) und für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht erhoben. |  |
 | 704 | An die zum Öffnen von Türen und Behältnissen sowie an die zur Durchsuchung von Schuldnern zugezogenen Personen zu zahlende Beträge .......... | in voller Höhe |
 | 705 | Kosten für die Umschreibung eines auf den Namen lautenden Wertpapiers oder für die Wiederinkurssetzung eines Inhaberpapiers .......... | in voller Höhe |
 | 706 | Kosten, die von einem Kreditinstitut erhoben werden, weil ein Scheck des Schuldners nicht eingelöst wird .......... | in voller Höhe |

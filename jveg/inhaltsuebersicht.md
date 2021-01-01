@@ -18,9 +18,9 @@
 | Vergütung von Sachverständigen, Dolmetschern und Übersetzern |
 | § 8 | Grundsatz der Vergütung |
 | § 8a | Wegfall oder Beschränkung des Vergütungsanspruchs |
-| § 9 | Honorar für die Leistung der Sachverständigen und Dolmetscher |
+| § 9 | Honorare für Sachverständige und für Dolmetscher |
 | § 10 | Honorar für besondere Leistungen |
-| § 11 | Honorar für Übersetzungen |
+| § 11 | Honorar für Übersetzer |
 | § 12 | Ersatz für besondere Aufwendungen |
 | § 13 | Besondere Vergütung |
 | § 14 | Vereinbarung der Vergütung |
@@ -42,6 +42,6 @@
 | § 24 | Übergangsvorschrift |
 | § 25 | Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes |
 |  |  |  |
-| Anlage 1 | (zu § 9 Abs. 1) |
-| Anlage 2 | (zu § 10 Abs. 1) |
+| Anlage 1 | (zu § 9 Absatz 1 Satz 1) |
+| Anlage 2 | (zu § 10 Absatz 1 Satz 1) |
 | Anlage 3 | (zu § 23 Absatz 1) |

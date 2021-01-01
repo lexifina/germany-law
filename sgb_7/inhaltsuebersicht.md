@@ -143,14 +143,14 @@
 | § 83 | Jahresarbeitsverdienst kraft Satzung |
 | § 84 | Jahresarbeitsverdienst bei Berufskrankheiten |
 | § 85 | Mindest- und Höchstjahresarbeitsverdienst |
-| § 86 | Jahresarbeitsverdienst für Kinder |
+| § 86 | (weggefallen) |
 | § 87 | Jahresarbeitsverdienst nach billigem Ermessen |
 | § 88 | Erhöhung des Jahresarbeitsverdienstes für Hinterbliebene |
 | § 89 | Berücksichtigung von Anpassungen |
 |  |  |  |  |  | Dritter Unterabschnitt |
 |  |  |  |  |  |  | Neufestsetzung |
-| § 90 | Neufestsetzung nach voraussichtlicher Schuloder Berufsausbildung oder Altersstufen |
-| § 91 | Mindest- und Höchstjahresarbeitsverdienst, Jahresarbeitsverdienst nach billigem Ermessen bei Neufestsetzung |
+| § 90 | Neufestsetzung nach Altersstufen |
+| § 91 | Neufestsetzung nach Schul- oder Berufsausbildung |
 |  |  |  |  |  | Vierter Unterabschnitt |
 |  |  |  |  |  |  | Besondere Vorschriften für die bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation versicherten Seeleute und ihre Hinterbliebenen |
 | § 92 | Jahresarbeitsverdienst für Seeleute |
@@ -399,11 +399,11 @@
 | § 217 | Bestandsschutz |
 | § 218 | (weggefallen) |
 | § 218a | Leistungen an Hinterbliebene |
-| § 218b | (weggefallen) |
+| § 218b | Rückwirkende Anerkennung von Berufskrankheiten |
 | § 218c | Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004 |
 | § 218d | Besondere Zuständigkeiten |
 | § 218e | Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung |
-| § 218f | (weggefallen) |
+| § 218f | Evaluation |
 | § 218g | Übergangsregelungen bei epidemischer Lage von nationaler Tragweite |
 | § 219 | (weggefallen) |
 | § 219a | Altersrückstellungen |

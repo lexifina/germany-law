@@ -21,7 +21,7 @@
 - [§ 11a Vermittlerregister](0011a.md)
 - [§ 11b Bewacherregister](0011b.md)
 - [§ 11c Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen](0011c.md)
-- [§ 12 Insolvenzverfahren](0012.md)
+- [§ 12 Insolvenzverfahren und Restrukturierungssachen](0012.md)
 - [§ 13 Erprobungsklausel](0013.md)
 - [§ 13a Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen](0013a.md)
 - [§ 13b Anerkennung ausländischer Unterlagen und Bescheinigungen](0013b.md)

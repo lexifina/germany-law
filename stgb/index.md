@@ -207,7 +207,7 @@ Sicherung
 - [§ 74a Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen](0074a.md)
 - [§ 74b Sicherungseinziehung](0074b.md)
 - [§ 74c Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern](0074c.md)
-- [§ 74d Einziehung von Schriften und Unbrauchbarmachung](0074d.md)
+- [§ 74d Einziehung von Verkörperungen eines Inhalts und Unbrauchbarmachung](0074d.md)
 - [§ 74e Sondervorschrift für Organe und Vertreter](0074e.md)
 - [§ 74f Grundsatz der Verhältnismäßigkeit](0074f.md)
 - [§ 75 Wirkung der Einziehung](0075.md)
@@ -265,8 +265,7 @@ Rechtsstaates
 
 - [§ 84 Fortführung einer für verfassungswidrig erklärten Partei](0084.md)
 - [§ 85 Verstoß gegen ein Vereinigungsverbot](0085.md)
-- [§ 86 Verbreiten von Propagandamitteln verfassungswidriger
-Organisationen](0086.md)
+- [§ 86 Verbreiten von Propagandamitteln verfassungswidriger Organisationen](0086.md)
 - [§ 86a Verwenden von Kennzeichen verfassungswidriger Organisationen](0086a.md)
 - [§ 87 Agententätigkeit zu Sabotagezwecken](0087.md)
 - [§ 88 Verfassungsfeindliche Sabotage](0088.md)
@@ -430,8 +429,7 @@ und Meineid
 ### Elfter Abschnitt Straftaten, welche sich auf
 Religion und Weltanschauung beziehen
 
-- [§ 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften
-und Weltanschauungsvereinigungen](0166.md)
+- [§ 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen](0166.md)
 - [§ 167 Störung der Religionsausübung](0167.md)
 - [§ 167a Störung einer Bestattungsfeier](0167a.md)
 - [§ 168 Störung der Totenruhe](0168.md)
@@ -467,17 +465,18 @@ sexuelle Selbstbestimmung
 - [§ 182 Sexueller Mißbrauch von Jugendlichen](0182.md)
 - [§ 183 Exhibitionistische Handlungen](0183.md)
 - [§ 183a Erregung öffentlichen Ärgernisses](0183a.md)
-- [§ 184 Verbreitung pornographischer Schriften](0184.md)
-- [§ 184a Verbreitung gewalt- oder tierpornographischer Schriften](0184a.md)
-- [§ 184b Verbreitung, Erwerb und Besitz kinderpornographischer Schriften](0184b.md)
-- [§ 184c Verbreitung, Erwerb und Besitz jugendpornographischer Schriften](0184c.md)
-- [§ 184d Zugänglichmachen pornographischer Inhalte mittels Rundfunk oder Telemedien; Abruf kinder- und jugendpornographischer Inhalte mittels Telemedien](0184d.md)
+- [§ 184 Verbreitung pornographischer Inhalte](0184.md)
+- [§ 184a Verbreitung gewalt- oder tierpornographischer Inhalte](0184a.md)
+- [§ 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte](0184b.md)
+- [§ 184c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte](0184c.md)
+- [§ 184d (weggefallen)](0184d.md)
 - [§ 184e Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen](0184e.md)
 - [§ 184f Ausübung der verbotenen Prostitution](0184f.md)
 - [§ 184g Jugendgefährdende Prostitution](0184g.md)
 - [§ 184h Begriffsbestimmungen](0184h.md)
 - [§ 184i Sexuelle Belästigung](0184i.md)
 - [§ 184j Straftaten aus Gruppen](0184j.md)
+- [§ 184k Verletzung des Intimbereichs durch Bildaufnahmen](0184k.md)
 
 ### Vierzehnter Abschnitt Beleidigung
 
@@ -499,7 +498,7 @@ sexuelle Selbstbestimmung
 Lebens- und Geheimbereichs
 
 - [§ 201 Verletzung der Vertraulichkeit des Wortes](0201.md)
-- [§ 201a Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen](0201a.md)
+- [§ 201a Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen](0201a.md)
 - [§ 202 Verletzung des Briefgeheimnisses](0202.md)
 - [§ 202a Ausspähen von Daten](0202a.md)
 - [§ 202b Abfangen von Daten](0202b.md)

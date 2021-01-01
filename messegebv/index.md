@@ -10,4 +10,4 @@
 - [§ 7 Gebührenermäßigung und Gebührenbefreiung](0007.md)
 - [§ 8 Inkrafttreten, Außerkrafttreten](0008.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage (zu § 3)Gebührenverzeichnis vom 8. Mai 2019 bis 31. Dezember 2020](anlage.md)
+- [Anlage (zu § 3)Gebührenverzeichnis ab 1. Januar 2021](anlage.md)

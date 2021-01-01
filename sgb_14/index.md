@@ -5,7 +5,7 @@
 ## Kapitel 1 (zukünftig in Kraft)
 
 - [§ 1 (zukünftig in Kraft)](0001.md)
-- [§ 2 (zukünftig in Kraft)](0002.md)
+- [§ 2 Berechtigte der Sozialen Entschädigung](0002.md)
 - [§ 3 (zukünftig in Kraft)](0003.md)
 
 ## Kapitel 2 (zukünftig in Kraft)
@@ -51,7 +51,13 @@
 
 ### Abschnitt 3 (zukünftig in Kraft)
 
-- [(XXXX) §§ 31 bis 37 (zukünftig in Kraft)](xxxx-31-bis-37.md)
+- [§ 31 Leistungen in einer Traumaambulanz](0031.md)
+- [§ 32 Psychotherapeutische Frühintervention](0032.md)
+- [§ 33 Psychotherapeutische Intervention in anderen Fällen](0033.md)
+- [§ 34 Leistungsvoraussetzungen und Leistungsumfang](0034.md)
+- [§ 35 Weiterer Bedarf nach Betreuung in der Traumaambulanz](0035.md)
+- [§ 36 Fahrkosten](0036.md)
+- [§ 37 Vereinbarungen mit Traumaambulanzen](0037.md)
 - [§ 38 Verordnungsermächtigung](0038.md)
 
 ### Abschnitt 4 (zukünftig in Kraft)
@@ -155,13 +161,15 @@
 
 ### Abschnitt 1 (zukünftig in Kraft)
 
-- [(XXXX) §§ 111 und 112 (zukünftig in Kraft)](xxxx-111-und-112.md)
+- [§ 111 Träger der Sozialen Entschädigung](0111.md)
+- [§ 112 Sachliche Zuständigkeit](0112.md)
 - [§ 113 Örtliche Zuständigkeit](0113.md)
 - [§ 114 (zukünftig in Kraft)](0114.md)
 
 ### Abschnitt 2 (zukünftig in Kraft)
 
-- [(XXXX) §§ 115 und 116 (zukünftig in Kraft)](xxxx-115-und-116.md)
+- [§ 115 Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen](0115.md)
+- [§ 116 Weiteres Verfahren](0116.md)
 - [(XXXX) §§ 117 bis 119 (zukünftig in Kraft)](xxxx-117-bis-119.md)
 
 ### Abschnitt 3 (zukünftig in Kraft)
@@ -182,7 +190,7 @@
 ## Kapitel 22 (zukünftig in Kraft)
 
 - [§ 137 (zukünftig in Kraft)](0137.md)
-- [§ 138 (zukünftig in Kraft)](0138.md)
+- [§ 138 Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten](0138.md)
 - [(XXXX) §§ 139 bis 141 (zukünftig in Kraft)](xxxx-139-bis-141.md)
 
 ## Kapitel 23 (zukünftig in Kraft)

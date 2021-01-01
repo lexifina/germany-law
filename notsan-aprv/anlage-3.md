@@ -21,6 +21,7 @@ Die praktische Ausbildung in geeigneten Krankenhäusern umfasst folgende Funktio
 |  | d) | beim Anlegen zentralvenöser Zugänge und arterieller Messsysteme mitzuwirken, |  |
 |  | e) | einen freien Atemweg bei narkotisierten Patientinnen und Patienten zu schaffen, |  |
 |  | f) | Maßnahmen zum oralen und nasalen Absaugen durchzuführen. |  |
+|  | Kann der Einsatz in der Anästhesie- und OP-Abteilung nicht vollständig im direkten Patientenkontakt in einem Krankenhaus sichergestellt werden, hat die Schule oder das Krankenhaus ein dem Krankenhausumfeld gleichwertiges, simulatorgestütztes Training anzubieten. Das simulatorgestützte Training darf nicht mehr als 70 Stunden umfassen. Die Schule und die jeweilige Einrichtung der praktischen Ausbildung wirken bei der Entwicklung und Durchführung des simulatorgestützten Trainings auf der Grundlage von Kooperationsverträgen zusammen. |  |
 | 4. | Intensivmedizinische Abteilung | 120 |
 |  | Die Schülerinnen und Schüler sind zu befähigen, |  |
 |  | a) | Spritzenpumpen anwenden zu können, |  |
@@ -29,6 +30,7 @@ Die praktische Ausbildung in geeigneten Krankenhäusern umfasst folgende Funktio
 |  | d) | beim Anlegen zentralvenöser Zugänge und arterieller Messsysteme mitzuwirken, |  |
 |  | e) | Maßnahmen zur Anwendung von Beatmungsformen selbständig oder unter Anleitung durchzuführen, |  |
 |  | f) | Maßnahmen zum oralen und nasalen Absaugen selbständig oder unter Anleitung durchzuführen. |  |
+|  | Kann der Einsatz in der intensivmedizinischen Abteilung nicht vollständig im direkten Patientenkontakt in einem Krankenhaus sichergestellt werden, hat die Schule oder das Krankenhaus ein dem Krankenhausumfeld gleichwertiges, simulatorgestütztes Training anzubieten. Das simulatorgestützte Training darf nicht mehr als 30 Stunden umfassen. Die Schule und die jeweilige Einrichtung der praktischen Ausbildung wirken bei der Entwicklung und Durchführung des simulatorgestützten Trainings auf der Grundlage von Kooperationsverträgen zusammen. |  |
 | 5. | Geburtshilfliche, pädiatrische oder kinderchirurgische Fachabteilung/Intensivstation oder Station mit entsprechenden Patientinnen und Patienten | 40 |
 |  | Die Schülerinnen und Schüler sind zu befähigen, |  |
 |  | a) | bei der Versorgung bei fachspezifischen Krankheitsbildern mitzuwirken, |  |

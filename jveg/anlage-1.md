@@ -1,91 +1,109 @@
-# Anlage 1 (zu § 9 Abs. 1)
+# Anlage 1 (zu § 9 Absatz 1 Satz 1)
 
-| Nr. | Sachgebietsbezeichnung | Honorar- gruppe |
-| 1 | Abfallstoffe – soweit nicht Sachgebiet 3 oder 18 – einschließlich Altfahrzeuge und -geräte | 11 |
-| 2 | Akustik, Lärmschutz – soweit nicht Sachgebiet 4 | 4 |
-| 3 | Altlasten und Bodenschutz | 4 |
-| 4 | Bauwesen – soweit nicht Sachgebiet 13 – einschließlich technische Gebäudeausrüstung |  |
-| 4.1 | Planung | 4 |
-| 4.2 | handwerklich-technische Ausführung | 2 |
-| 4.3 | Schadensfeststellung, -ursachenermittlung und -bewertung – soweit nicht Sachgebiet 4.1 oder 4.2 –, Bauvertragswesen, Baubetrieb und Abrechnung von Bauleistungen | 5 |
-| 4.4 | Baustoffe | 6 |
-| 5 | Berufskunde und Tätigkeitsanalyse | 10 |
+Teil 1
+| Nr. | Sachgebietsbezeichnung | Stundensatz (Euro) |
+| 1 | Abfallstoffe einschließlich Altfahrzeuge und -geräte | 115 |
+| 2 | Akustik, Lärmschutz | 95 |
+| 3 | Altlasten und Bodenschutz | 85 |
+| 4 | Bauwesen – soweit nicht Sachgebiet 14 – einschließlich technische Gebäudeausrüstung |  |
+| 4.1 | Planung | 105 |
+| 4.2 | handwerklich-technische Ausführung | 95 |
+| 4.3 | Schadensfeststellung und -ursachenermittlung | 105 |
+| 4.4 | Bauprodukte | 105 |
+| 4.5 | Bauvertragswesen, Baubetrieb und Abrechnung von Bauleistungen | 105 |
+| 4.6 | Geotechnik, Erd- und Grundbau | 100 |
+| 5 | Berufskunde, Tätigkeitsanalyse und Expositionsermittlung | 105 |
 | 6 | Betriebswirtschaft |  |
-| 6.1 | Unternehmensbewertung, Betriebsunterbrechungs- und -verlagerungsschäden | 11 |
-| 6.2 | Kapitalanlagen und private Finanzplanung | 13 |
-| 6.3 | Besteuerung | 3 |
-| 7 | Bewertung von Immobilien | 6 |
-| 8 | Brandursachenermittlung | 4 |
-| 9 | Briefmarken und Münzen | 2 |
-| 10 | Datenverarbeitung, Elektronik und Telekommunikation |  |
-| 10.1 | Datenverarbeitung (Hardware und Software) | 8 |
-| 10.2 | Elektronik – soweit nicht Sachgebiet 38 – (insbesondere Mess-, Steuerungs- und Regelungselektronik) | 9 |
-| 10.3 | Telekommunikation (insbesondere Telefonanlagen, Mobilfunk, Übertragungstechnik) | 8 |
-| 11 | Elektrotechnische Anlagen und Geräte – soweit nicht Sachgebiet 4 oder 10 | 4 |
-| 12 | Fahrzeugbau | 3 |
-| 13 | Garten- und Landschaftsbau einschließlich Sportanlagenbau |  |
-| 13.1 | Planung | 3 |
-| 13.2 | handwerklich-technische Ausführung | 3 |
-| 13.3 | Schadensfeststellung, -ursachenermittlung und -bewertung – soweit nicht Sachgebiet 13.1 oder 13.2 | 4 |
-| 14 | Gesundheitshandwerk | 2 |
-| 15 | Grafisches Gewerbe | 6 |
-| 16 | Hausrat und Inneneinrichtung | 3 |
-| 17 | Honorarabrechnungen von Architekten und Ingenieuren | 9 |
-| 18 | Immissionen | 2 |
-| 19 | Kältetechnik – soweit nicht Sachgebiet 4 | 5 |
-| 20 | Kraftfahrzeugschäden und -bewertung | 8 |
-| 21 | Kunst und Antiquitäten | 3 |
-| 22 | Lebensmittelchemie und -technologie | 6 |
-| 23 | Maschinen und Anlagen – soweit nicht Sachgebiet 4, 10 oder 11 | 6 |
-| 24 | Medizintechnik | 7 |
-| 25 | Mieten und Pachten | 10 |
-| 26 | Möbel – soweit nicht Sachgebiet 21 | 2 |
-| 27 | Musikinstrumente | 2 |
-| 28 | Rundfunk- und Fernsehtechnik | 2 |
-| 29 | Schiffe, Wassersportfahrzeuge | 4 |
-| 30 | Schmuck, Juwelen, Perlen, Gold- und Silberwaren | 2 |
-| 31 | Schrift- und Urkundenuntersuchung | 8 |
-| 32 | Schweißtechnik | 5 |
-| 33 | Spedition, Transport, Lagerwirtschaft | 5 |
-| 34 | Sprengtechnik | 2 |
-| 35 | Textilien, Leder und Pelze | 2 |
-| 36 | Tiere | 2 |
-| 37 | Ursachenermittlung und Rekonstruktion bei Fahrzeugunfällen | 12 |
-| 38 | Verkehrsregelungs- und -überwachungstechnik | 5 |
-| 39 | Vermessungs- und Katasterwesen |  |
-| 39.1 | Vermessungstechnik | 1 |
-| 39.2 | Vermessungs- und Katasterwesen im Übrigen | 9 |
-| 40 | Versicherungsmathematik | 10 |
-| Gegenstand medizinischer und psychologischer Gutachen | Honorar- gruppe |
-| Einfache gutachtliche Beurteilungen, insbesondere | M 1 |
-| - | in Gebührenrechtsfragen, |
-| - | zur Minderung der Erwerbsfähigkeit nach einer Monoverletzung, |
-| - | zur Haft-, Verhandlungs- oder Vernehmungsfähigkeit, |
-| - | zur Verlängerung einer Betreuung. |
-| Beschreibende (Ist-Zustands-)Begutachtung nach standardisiertem Schema ohne Erörterung spezieller Kausalzusammenhänge mit einfacher medizinischer Verlaufsprognose und mit durchschnittlichem Schwierigkeitsgrad, insbesondere Gutachten | M 2 |
-| - | in Verfahren nach dem SGB IX, |
-| - | zur Minderung der Erwerbsfähigkeit und zur Invalidität, |
-| - | zu rechtsmedizinischen und toxikologischen Fragestellungen im Zusammenhang mit der Feststellung einer Beeinträchtigung der Fahrtüchtigkeit durch Alkohol, Drogen, Medikamente oder Krankheiten, |
-| - | zu spurenkundlichen oder rechtsmedizinischen Fragestellungen mit Befunderhebungen (z. B. bei Verletzungen und anderen Unfallfolgen), |
-| - | zu einfachen Fragestellungen zur Schuldfähigkeit ohne besondere Schwierigkeiten der Persönlichkeitsdiagnostik, |
-| - | zur Einrichtung oder Aufhebung einer Betreuung und der Anordnung eines Einwilligungsvorbehalts gemäß § 1903 BGB |
-| - | zu Unterhaltsstreitigkeiten aufgrund einer Erwerbs- oder Arbeitsunfähigkeit, |
-| - | zu neurologisch-psychologischen Fragestellungen in Verfahren nach der FeV. |
-| Gutachten mit hohem Schwierigkeitsgrad (Begutachtungen spezieller Kausalzusammenhänge und/oder differenzialdiagnostischer Probleme und/oder Beurteilung der Prognose und/oder Beurteilung strittiger Kausalitätsfragen), insbesondere Gutachten | M 3 |
-| - | zum Kausalzusammenhang bei problematischen Verletzungsfolgen, |
-| - | zu ärztlichen Behandlungsfehlern, |
-| - | in Verfahren nach dem OEG, |
-| - | in Verfahren nach dem HHG, |
-| - | zur Schuldfähigkeit bei Schwierigkeiten der Persönlichkeitsdiagnostik, |
-| - | in Verfahren zur Anordnung einer Maßregel der Besserung und Sicherung (in Verfahren zur Entziehung der Fahrerlaubnis zu neurologisch/psychologischen Fragestellungen), |
-| - | zur Kriminalprognose, |
-| - | zur Aussagetüchtigkeit, |
-| - | zur Widerstandsfähigkeit, |
-| - | in Verfahren nach den §§ 3, 10, 17 und 105 JGG, |
-| - | in Unterbringungsverfahren, |
-| - | in Verfahren nach § 1905 BGB, |
-| - | in Verfahren nach dem TSG, |
-| - | in Verfahren zur Regelung von Sorge- oder Umgangsrechten, |
-| - | zur Geschäfts-, Testier- oder Prozessfähigkeit, |
-| - | zu Berufskrankheiten und zur Minderung der Erwerbsfähigkeit bei besonderen Schwierigkeiten, |
-| - | zu rechtsmedizinischen, toxikologischen und spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, ärztlichen Behandlungsfehlern oder einer Beurteilung der Schuldfähigkeit. |
+| 6.1 | Unternehmensbewertung, Betriebsunterbrechungs- und -verlagerungsschäden | 135 |
+| 6.2 | Besteuerung | 110 |
+| 6.3 | Rechnungswesen | 105 |
+| 6.4 | Honorarabrechnungen von Steuerberatern | 105 |
+| 7 | Bewertung von Immobilien und Rechten an Immobilien | 115 |
+| 8 | Brandursachenermittlung | 110 |
+| 9 | Briefmarken, Medaillen und Münzen | 95 |
+| 10 | Einbauküchen | 90 |
+| 11 | Elektronik, Elektro- und Informationstechnologie |  |
+| 11.1 | Elektronik (insbesondere Mess-, Steuerungs- und Regelungselektronik) | 120 |
+| 11.2 | Elektrotechnische Anlagen und Geräte | 115 |
+| 11.3 | Kommunikations- und Informationstechnik | 115 |
+| 11.4 | Informatik | 125 |
+| 11.5 | Datenermittlung und -aufbereitung | 125 |
+| 12 | Emissionen und Immissionen | 95 |
+| 13 | Fahrzeugbau | 100 |
+| 14 | Garten- und Landschaftsbau einschließlich Sportanlagenbau | 90 |
+| 15 | Gesundheitshandwerke | 85 |
+| 16 | Grafisches Gewerbe | 115 |
+| 17 | Handschriften- und Dokumentenuntersuchung | 105 |
+| 18 | Hausrat | 110 |
+| 19 | Honorarabrechnungen von Architekten, Ingenieuren und Stadtplanern | 145 |
+| 20 | Kältetechnik | 120 |
+| 21 | Kraftfahrzeuge |  |
+| 21.1 | Kraftfahrzeugschäden und -bewertung | 120 |
+| 21.2 | Kfz-Elektronik | 95 |
+| 22 | Kunst und Antiquitäten | 85 |
+| 23 | Lebensmittelchemie und -technologie | 135 |
+| 24 | Maschinen und Anlagen |  |
+| 24.1 | Photovoltaikanlagen | 110 |
+| 24.2 | Windkraftanlagen | 120 |
+| 24.3 | Solarthermieanlagen | 110 |
+| 24.4 | Maschinen und Anlagen im Übrigen | 130 |
+| 25 | Medizintechnik und Medizinprodukte | 105 |
+| 26 | Mieten und Pachten | 115 |
+| 27 | Möbel und Inneneinrichtung | 90 |
+| 28 | Musikinstrumente | 80 |
+| 29 | Schiffe und Wassersportfahrzeuge | 95 |
+| 30 | Schmuck, Juwelen, Perlen, Gold- und Silberwaren | 85 |
+| 31 | Schweiß- und Fügetechnik | 95 |
+| 32 | Spedition, Transport, Lagerwirtschaft und Ladungssicherung | 90 |
+| 33 | Sprengtechnik | 90 |
+| 34 | Textilien, Leder und Pelze | 70 |
+| 35 | Tiere – Bewertung, Haltung, Tierschutz und Zucht | 85 |
+| 36 | Ursachenermittlung und Rekonstruktion von Unfällen |  |
+| 36.1 | bei Luftfahrzeugen | 100 |
+| 36.2 | bei sonstigen Fahrzeugen | 155 |
+| 36.3 | bei Arbeitsunfällen | 125 |
+| 36.4 | im Freizeit- und Sportbereich | 95 |
+| 37 | Verkehrsregelungs- und Verkehrsüberwachungstechnik | 135 |
+| 38 | Vermessungs- und Katasterwesen |  |
+| 38.1 | Vermessungstechnik | 80 |
+| 38.2 | Vermessungs- und Katasterwesen im Übrigen | 100 |
+| 39 | Waffen und Munition | 85 |
+Teil 2
+| Honorar- gruppe | Gegenstand medizinischer oder psychologischer Gutachten | Stundensatz (Euro) |
+| M 1 | Einfache gutachtliche Beurteilungen ohne Kausalitätsfeststellungen, insbesondere | 80 |
+|  | 1. | in Gebührenrechtsfragen (z. B. Streitigkeiten bei Krankenhausabrechnungen), |  |
+|  | 2. | zur Verlängerung einer Betreuung oder zur Überprüfung eines angeordneten Einwilligungsvorbehalts nach § 1903 des Bürgerlichen Gesetzbuchs, |  |
+|  | 3. | zur Minderung der Erwerbsfähigkeit nach einer Monoverletzung. |  |
+| M 2 | Beschreibende (Ist-Zustands-)Begutachtung nach standardisiertem Schema ohne Erörterung spezieller Kausalzusammenhänge mit einfacher medizinischer Verlaufsprognose und mit durchschnittlichem Schwierigkeitsgrad, insbesondere Gutachten | 90 |
+|  | 1. | in Verfahren nach dem Neunten Buch Sozialgesetzbuch, |  |
+|  | 2. | zur Erwerbsminderung oder Berufsunfähigkeit in Verfahren nach dem Sechsten Buch Sozialgesetzbuch, |  |
+|  | 3. | zu rechtsmedizinischen und toxikologischen Fragestellungen im Zusammenhang mit der Feststellung einer Beeinträchtigung der Fahrtüchtigkeit durch Alkohol, Drogen, Medikamente oder Krankheiten, |  |
+|  | 4. | zu spurenkundlichen oder rechtsmedizinischen Fragestellungen mit Befunderhebungen (z. B. bei Verletzungen und anderen Unfallfolgen), |  |
+|  | 5. | zu einfachen Fragestellungen zur Schuldfähigkeit ohne besondere Schwierigkeiten der Persönlichkeitsdiagnostik, |  |
+|  | 6. | zur Einrichtung oder Aufhebung einer Betreuung oder zur Anordnung oder Aufhebung eines Einwilligungsvorbehalts nach § 1903 des Bürgerlichen Gesetzbuchs, |  |
+|  | 7. | zu Unterhaltsstreitigkeiten aufgrund einer Erwerbsminderung oder Berufsunfähigkeit, |  |
+|  | 8. | zu neurologisch-psychologischen Fragestellungen in Verfahren nach der Fahrerlaubnis-Verordnung, |  |
+|  | 9. | zur Haft-, Verhandlungs- oder Vernehmungsfähigkeit. |  |
+| M 3 | Gutachten mit hohem Schwierigkeitsgrad (Begutachtungen spezieller Kausalzusammenhänge und/oder differenzialdiagnostischer Probleme und/oder Beurteilung der Prognose und/oder Beurteilung strittiger Kausalitätsfragen), insbesondere Gutachten | 120 |
+|  | 1. | zum Kausalzusammenhang bei problematischen Verletzungsfolgen, |  |
+|  | 2. | zu ärztlichen Behandlungsfehlern, |  |
+|  | 3. | in Verfahren nach dem sozialen Entschädigungsrecht, |  |
+|  | 4. | zur Schuldfähigkeit bei Schwierigkeiten der Persönlichkeitsdiagnostik, |  |
+|  | 5. | in Verfahren zur Anordnung einer Maßregel der Besserung und Sicherung (in Verfahren zur Entziehung der Fahrerlaubnis zu neurologisch/psychologischen Fragestellungen), |  |
+|  | 6. | zur Kriminalprognose, |  |
+|  | 7. | zur Glaubhaftigkeit oder Aussagetüchtigkeit, |  |
+|  | 8. | zur Widerstandsfähigkeit, |  |
+|  | 9. | in Verfahren nach den §§ 3, 10, 17 und 105 des Jugendgerichtsgesetzes, |  |
+|  | 10. | in Unterbringungsverfahren, |  |
+|  | 11. | zur Fortdauer der Unterbringung im Maßregelvollzug über zehn Jahre hinaus, |  |
+|  | 12. | zur Anordnung der Sicherungsverwahrung oder zur Prognose von Untergebrachten in der Sicherungsverwahrung, |  |
+|  | 13. | in Verfahren nach den §§ 1904 und 1905 des Bürgerlichen Gesetzbuchs, |  |
+|  | 14. | in Verfahren nach dem Transplantationsgesetz, |  |
+|  | 15. | in Verfahren zur Regelung von Sorge- oder Umgangsrechten, |  |
+|  | 16. | zu Fragestellungen der Hilfe zur Erziehung, |  |
+|  | 17. | zur Geschäfts-, Testier- oder Prozessfähigkeit, |  |
+|  | 18. | in Aufenthalts- oder Asylangelegenheiten, |  |
+|  | 19. | zur persönlichen Eignung nach § 6 des Waffengesetzes, |  |
+|  | 20. | zur Anerkennung von Berufskrankheiten, Arbeitsunfällen, zu den daraus folgenden Gesundheitsschäden und zur Minderung der Erwerbsfähigkeit nach dem Siebten Buch Sozialgesetzbuch, |  |
+|  | 21. | zu rechtsmedizinischen, toxikologischen oder spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer Beurteilung der Schuldfähigkeit, |  |
+|  | 22. | in Verfahren nach dem Transsexuellengesetz. |  |

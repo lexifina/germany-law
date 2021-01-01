@@ -110,12 +110,7 @@
 
 ## Abschnitt 20a Zu § 28 Nummer 4 des Gesetzes
 
-- [§ 42a Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines](0042a.md)
-- [§ 42b Schnittstellen](0042b.md)
-- [§ 42c Anforderungen an die Programme](0042c.md)
-- [§ 42d Prüfung der Programme](0042d.md)
-- [§ 42e Haftung](0042e.md)
-- [§ 42f Authentifizierung, Datenübermittlung im Auftrag](0042f.md)
+- [(XXXX) §§ 42a bis 42f (weggefallen)](xxxx-42a-bis-42f.md)
 
 ## Abschnitt 21 Zu den §§ 29 und 31 des Gesetzes
 

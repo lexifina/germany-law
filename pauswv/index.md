@@ -69,7 +69,13 @@
 - [§ 36 Ausgabe von hoheitlichen Berechtigungszertifikaten](0036.md)
 - [§ 36a Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten](0036a.md)
 
-## Kapitel 10 Schlussvorschriften
+## Kapitel 10 eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
+
+- [§ 36b Entsprechende Anwendung der Vorschriften über den Personalausweis](0036b.md)
+- [§ 36c Nicht auf die eID-Karte entsprechend anwendbare Vorschriften](0036c.md)
+- [§ 36d Muster der eID-Karte](0036d.md)
+
+## Kapitel 11 Schlussvorschriften
 
 - [§ 37 Übergangsregelungen](0037.md)
 - [§ 38 Inkrafttreten](0038.md)
@@ -78,4 +84,5 @@
 - [Anhang 2 Muster des vorläufigen Personalausweises](anhang-2.md)
 - [Anhang 2a Muster des Ersatz-Personalausweises](anhang-2a.md)
 - [Anhang 3](anhang-3.md)
+- [Anhang 3a Muster der eID-Karte](anhang-3a.md)
 - [Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten](anhang-4.md)

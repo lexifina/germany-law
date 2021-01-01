@@ -196,7 +196,7 @@
 | Dritter Abschnitt |
 | Beziehungen zu sonstigen Leistungserbringern |
 | § 77 | Häusliche Pflege durch Einzelpersonen |
-| § 78 | Verträge über Pflegehilfsmittel |
+| § 78 | Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen |
 |  |  |
 | Vierter Abschnitt |
 | Wirtschaftlichkeitsprüfungen |

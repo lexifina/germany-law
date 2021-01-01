@@ -202,7 +202,6 @@ Gesellschafter zu Dritten
 - [§ 129](0129.md)
 - [§ 129a (weggefallen)](0129a.md)
 - [§ 130](0130.md)
-- [§ 130a](0130a.md)
 - [§ 130b (weggefallen)](0130b.md)
 
 #### Vierter Titel Auflösung der Gesellschaft und

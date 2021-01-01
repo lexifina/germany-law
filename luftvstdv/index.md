@@ -17,9 +17,7 @@
 
 ## Abschnitt 4 Zu den §§ 12 und 18 Absatz 3 des Gesetzes
 
-- [§ 4 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines](0004.md)
-- [§ 5 Schnittstellen](0005.md)
-- [§ 6 Authentifizierung, Datenübermittlung im Auftrag](0006.md)
+- [(XXXX) §§ 4 bis 6 (weggefallen)](xxxx-4-bis-6.md)
 
 ## Abschnitt 5 Zu § 156 Absatz 1 der Abgabenordnung
 

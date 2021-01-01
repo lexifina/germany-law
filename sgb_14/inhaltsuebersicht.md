@@ -2,7 +2,9 @@
 
 Kapitel 1
 (zukünftig in Kraft)
-| §§ 1 bis 3 | (zukünftig in Kraft) |
+| § 1 | (zukünftig in Kraft) |
+| § 2 | Berechtigte der Sozialen Entschädigung |
+| § 3 | (zukünftig in Kraft) |
 Kapitel 2
 (zukünftig in Kraft)
 Abschnitt 1
@@ -35,7 +37,13 @@ Abschnitt 2
 | § 30 | (zukünftig in Kraft) |
 Abschnitt 3
 (zukünftig in Kraft)
-| §§ 31 bis 37 | (zukünftig in Kraft) |
+| § 31 | Leistungen in einer Traumaambulanz |
+| § 32 | Psychotherapeutische Frühintervention |
+| § 33 | Psychotherapeutische Intervention in anderen Fällen |
+| § 34 | Leistungsvoraussetzungen und Leistungsumfang |
+| § 35 | Weiterer Bedarf nach Betreuung in der Traumaambulanz |
+| § 36 | Fahrkosten |
+| § 37 | Vereinbarungen mit Traumaambulanzen |
 | § 38 | Verordnungsermächtigung |
 Abschnitt 4
 (zukünftig in Kraft)
@@ -85,7 +93,7 @@ Abschnitt 2
 | §§ 85 bis 88 | (zukünftig in Kraft) |
 Kapitel 10
 (zukünftig in Kraft)
-| §§ 89 bis 90 | (zukünftig in Kraft) |
+| §§ 89 und 90 | (zukünftig in Kraft) |
 | § 91 | Verordnungsermächtigung |
 Kapitel 11
 (zukünftig in Kraft)
@@ -113,12 +121,15 @@ Kapitel 18
 (zukünftig in Kraft)
 Abschnitt 1
 (zukünftig in Kraft)
-| §§ 111 und 112 | (zukünftig in Kraft) |
+| § 111 | Träger der Sozialen Entschädigung |
+| § 112 | Sachliche Zuständigkeit |
 | § 113 | Örtliche Zuständigkeit |
 | § 114 | (zukünftig in Kraft) |
 Abschnitt 2
 (zukünftig in Kraft)
-| §§ 115 bis 119 | (zukünftig in Kraft) |
+| § 115 | Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen |
+| § 116 | Weiteres Verfahren |
+| §§ 117 bis 119 | (zukünftig in Kraft) |
 Abschnitt 3
 (zukünftig in Kraft)
 | §§ 120 bis 122 | (zukünftig in Kraft) |
@@ -133,7 +144,9 @@ Kapitel 21
 | §§ 133 bis 136 | (zukünftig in Kraft) |
 Kapitel 22
 (zukünftig in Kraft)
-| §§ 137 bis 141 | (zukünftig in Kraft) |
+| § 137 | (zukünftig in Kraft) |
+| § 138 | Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten |
+| §§ 139 bis 141 | (zukünftig in Kraft) |
 Kapitel 23
 (zukünftig in Kraft)
 Abschnitt 1

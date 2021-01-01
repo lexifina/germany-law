@@ -199,7 +199,7 @@ Fenster, Oberlichter und Glaswände müssen unter Berücksichtigung der Arbeitsv
 (1)
 In Arbeitsräumen, Sanitär-, Pausen- und Bereitschaftsräumen, Kantinen, Erste-Hilfe-Räumen und Unterkünften muss unter Berücksichtigung des spezifischen Nutzungszwecks, der Arbeitsverfahren, der physischen Belastungen und der Anzahl der Beschäftigten sowie der sonstigen anwesenden Personen während der Nutzungsdauer ausreichend gesundheitlich zuträgliche Atemluft vorhanden sein.
 (2)
-Ist für das Betreiben von Arbeitsstätten eine raumlufttechnische Anlage erforderlich, muss diese jederzeit funktionsfähig sein. Bei raumlufttechnischen Anlagen muss eine Störung durch eine selbsttätige Warneinrichtung angezeigt werden. Es müssen Vorkehrungen getroffen sein, durch die die Beschäftigten im Fall einer Störung gegen Gesundheitsgefahren geschützt sind.
+Ist für das Betreiben von Arbeitsstätten eine raumlufttechnische Anlage erforderlich, muss diese jederzeit funktionsfähig sein und die Anforderungen nach Absatz 1 erfüllen. Bei raumlufttechnischen Anlagen muss eine Störung durch eine selbsttätige Warneinrichtung angezeigt werden. Es müssen Vorkehrungen getroffen sein, durch die die Beschäftigten im Fall einer Störung gegen Gesundheitsgefahren geschützt sind.
 (3)
 Werden raumlufttechnische Anlagen verwendet, ist sicherzustellen, dass die Beschäftigten keinem störenden Luftzug ausgesetzt sind.
 (4)
@@ -244,14 +244,21 @@ Sie sind mit den erforderlichen Mitteln und Einrichtungen zur Ersten Hilfe auszu
 Darüber hinaus sind überall dort, wo es die Arbeitsbedingungen erfordern, Mittel und Einrichtungen zur Ersten Hilfe aufzubewahren. Sie müssen leicht zugänglich und einsatzbereit sein. Die Aufbewahrungsstellen müssen als solche gekennzeichnet und gut erreichbar sein.
 4.4 Unterkünfte
 (1)
-Der Arbeitgeber hat angemessene Unterkünfte für Beschäftigte zur Verfügung zu stellen, gegebenenfalls auch außerhalb der Arbeitsstätte, wenn es aus Gründen der Sicherheit und zum Schutz der Gesundheit erforderlich ist. Die Bereitstellung angemessener Unterkünfte kann insbesondere wegen der Abgelegenheit der Arbeitsstätte, der Art der auszuübenden Tätigkeiten oder der Anzahl der im Betrieb beschäftigten Personen erforderlich sein. Kann der Arbeitgeber erforderliche Unterkünfte nicht zur Verfügung stellen, hat er für eine andere angemessene Unterbringung der Beschäftigten zu sorgen.
+Der Arbeitgeber hat angemessene Unterkünfte für Beschäftigte zur Verfügung zu stellen, gegebenenfalls auch außerhalb des Geländes eines Betriebes oder einer Baustelle, wenn es aus Gründen der Sicherheit, zum Schutz der Gesundheit oder aus Gründen der menschengerechten Gestaltung der Arbeit erforderlich ist. Die Bereitstellung angemessener Unterkünfte kann insbesondere wegen der Abgelegenheit der Arbeitsstätte, der Art der auszuübenden Tätigkeiten oder der Anzahl der im Betrieb beschäftigten Personen erforderlich sein. Sie ist stets erforderlich, wenn den Beschäftigten im Zusammenhang mit der Anwerbung oder Entsendung zur zeitlich befristeten Erbringung einer vertraglich geschuldeten Arbeitsleistung die Bereitstellung oder Vermittlung einer Unterbringung in Gemeinschaftsunterkünften in Aussicht gestellt wird und zu erwarten ist, dass der Beschäftigte die Verpflichtung zur Erbringung seiner Arbeitsleistung anderenfalls nicht eingehen würde. Kann der Arbeitgeber erforderliche Unterkünfte innerhalb des Geländes eines Betriebes oder einer Baustelle nicht zur Verfügung stellen, hat er für eine andere angemessene Unterbringung der Beschäftigten außerhalb des Geländes eines Betriebes oder einer Baustelle zu sorgen. Wird die Unterkunft als Gemeinschaftsunterkunft außerhalb des Geländes eines Betriebes oder einer Baustelle durch den Arbeitgeber oder auf dessen Veranlassung durch Dritte zur Verfügung gestellt, so hat der Arbeitgeber auch in diesem Fall für die Angemessenheit der Unterkunft zu sorgen.
 (2)
-Unterkünfte müssen entsprechend ihrer Belegungszahl ausgestattet sein mit:
-a) Wohn- und Schlafbereich (Betten, Schränken, Tischen, Stühlen),
-b) Essbereich,
-c) Sanitäreinrichtungen.
+Unterkünfte müssen entsprechend ihrer Belegungszahl und der Dauer der Unterbringung ausgestattet sein mit:
+1. Wohn- und Schlafbereich (Betten, Schränken, Tischen, Stühlen),
+2. Essbereich,
+3. Sanitäreinrichtungen.
 (3)
 Wird die Unterkunft von Männern und Frauen gemeinsam genutzt, ist dies bei der Zuteilung der Räume zu berücksichtigen.
+(4)
+Der Arbeitgeber hat die Unterbringung von Beschäftigten in Gemeinschaftsunterkünften innerhalb oder außerhalb des Geländes eines Betriebes oder einer Baustelle nach den Sätzen 2 und 3 zu dokumentieren. In der Dokumentation sind anzugeben:
+1. die Adressen der Gemeinschaftsunterkünfte,
+2. die Unterbringungskapazitäten der Gemeinschaftsunterkünfte,
+3. die Zuordnung der untergebrachten Beschäftigten zu den Gemeinschaftsunterkünften sowie
+4. der zugehörige Zeitraum der Unterbringung der jeweiligen Beschäftigten.
+Die Dokumentation muss ab Beginn der Bereitstellung der Gemeinschaftsunterkünfte am Ort der Leistungserbringung verfügbar sein. Die Dokumentation ist nach Beendigung der Unterbringung vier Wochen aufzubewahren.
 5 Ergänzende Anforderungen und Maßnahmen für besondere Arbeitsstätten und Arbeitsplätze
   5.1 Arbeitsplätze in nicht allseits umschlossenen Arbeitsstätten und Arbeitsplätze im Freien
 Arbeitsplätze in nicht allseits umschlossenen Arbeitsstätten und Arbeitsplätze im Freien sind so einzurichten und zu betreiben, dass sie von den Beschäftigten bei jeder Witterung sicher und ohne Gesundheitsgefährdung erreicht, benutzt und wieder verlassen werden können. Dazu gehört, dass diese Arbeitsplätze gegen Witterungseinflüsse geschützt sind oder den Beschäftigten geeignete persönliche Schutzausrüstungen zur Verfügung gestellt werden.

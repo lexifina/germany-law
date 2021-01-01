@@ -10,6 +10,7 @@
 - [§ 8 Abfallvermeidung](0008.md)
 - [§ 9 Kennzeichnungsnormen und Demontageinformationen](0009.md)
 - [§ 10 Informationspflichten](0010.md)
+- [§ 10a Bevollmächtigung](0010a.md)
 - [§ 11 Ordnungswidrigkeiten](0011.md)
 - [§ 12 Übergangsvorschriften](0012.md)
 - [Anhang Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle](anhang.md)

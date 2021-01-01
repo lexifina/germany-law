@@ -205,7 +205,7 @@ Pflegeeinrichtungen
 Leistungserbringern
 
 - [§ 77 Häusliche Pflege durch Einzelpersonen](0077.md)
-- [§ 78 Verträge über Pflegehilfsmittel](0078.md)
+- [§ 78 Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen](0078.md)
 
 ### Vierter Abschnitt Wirtschaftlichkeitsprüfungen
 
@@ -380,6 +380,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung](0149.md)
 - [§ 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige](0150.md)
 - [§ 150a Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie](0150a.md)
+- [§ 150b Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d](0150b.md)
 - [§ 151 Qualitätsprüfungen nach § 114](0151.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 - [Anlage 1 (zu § 15)Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul](anlage-1.md)

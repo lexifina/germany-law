@@ -16,7 +16,7 @@
 | § 9 | Vorschuss |
 | § 10 | Berechnung |
 | § 11 | Festsetzung der Vergütung |
-| § 12 | Anwendung von Vorschriften für die Prozesskostenhilfe |
+| § 12 | Anwendung von Vorschriften über die Prozesskostenhilfe |
 | § 12a | Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör |
 | § 12b | Elektronische Akte, elektronisches Dokument |
 | § 12c | Rechtsbehelfsbelehrung |
@@ -49,6 +49,7 @@
 | § 27 | Gegenstandswert in der Zwangsverwaltung |
 | § 28 | Gegenstandswert im Insolvenzverfahren |
 | § 29 | Gegenstandswert im Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
+| § 29a | Gegenstandswert in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
 | § 30 | Gegenstandswert in gerichtlichen Verfahren nach dem Asylgesetz |
 | § 31 | Gegenstandswert in gerichtlichen Verfahren nach dem Spruchverfahrensgesetz |
 | § 31a | Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz |

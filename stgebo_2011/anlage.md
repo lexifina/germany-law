@@ -133,14 +133,14 @@ Gebühren der Behörden im Landesbereich
 |  | 1. | Fahrerlaubnis, Führerschein und Fahrberechtigung |  |
 | 201 |  | Prüfung eines Antrags auf Erteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis oder einer Fahrerlaubnis zur Fahrgastbeförderung durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung einer Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 5,10 |
 | 202 |  | Erteilung einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, Erteilung einer Fahrberechtigung, Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, und/oder Ausfertigung des Führerscheins |  |
-| 202.1 |  | Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung | 33,20 |
+| 202.1 |  | Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung | 34,50 |
 |  |  | bei anlassbezogener Eignungsbegutachtung zusätzlich | 10,20 bis 35,80 |
-| 202.2 |  | auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird | 25,60 |
-| 202.3 |  | nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist | 33,20 bis 256,00 |
-| 202.4 |  | als Ersatz | 17,90 bis 35,80 |
-| 202.5 |  | bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV) | 23,00 |
+| 202.2 |  | auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird | 26,90 |
+| 202.3 |  | nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist | 34,50 bis 257,30 |
+| 202.4 |  | als Ersatz | 19,20 bis 37,10 |
+| 202.5 |  | bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV) | 24,30 |
 | 202.6 |  | bei besonders hohem Aufwand der Feststellung des Besitzstandes | 10,20 bis 30,70 |
-| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst | 7,70 |
+| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst | 9,00 |
 | 202.8 |  | Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV | 7,70 |
 | 202.9 |  | Überprüfung einer Begleitperson nach § 48a Absatz 5 Satz 2 FeV | 1,50 bis 10,00 |
 | 202.10 |  | Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 19,20 |
@@ -205,7 +205,7 @@ Gebühren der Behörden im Landesbereich
 | 224.2 |  | internetbasiert | 5,70 |
 | 224.3 |  | Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV gleichzeitig mit der Außerbetriebsetzung außer bei internetbasierter Außerbetriebsetzung | 5,10 |
 | 224.4 |  | Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV zu einem anderen Zeitpunkt als dem der Außerbetriebsetzung | 10,20 |
-| 225 |  | Ausfertigung, Ersatz oder Änderung der nationalen oder internationalen Fahrzeugpapiere oder -bescheinigungen wegen Änderung persönlicher oder technischer Daten oder Unbrauchbarkeit oder Verlust einschließlich Erteilung einer Betriebserlaubnis sowie Fahrzeugidentitätsprüfung in anderen als in den nach Nummern 221 und 227 erfassten Fällen Diese Gebühr erhöht sich bei der Ausstellung einer Zulassungsbescheinigung Teil I um 0,90 Euro. | 10,20 |
+| 225 |  | Ausfertigung, Ersatz oder Änderung der nationalen oder internationalen Fahrzeugpapiere oder -bescheinigungen wegen Änderung persönlicher oder technischer Daten oder Unbrauchbarkeit oder Verlust einschließlich Erteilung einer Betriebserlaubnis sowie Fahrzeugidentitätsprüfung in anderen als in den nach Nummern 221 und 227 erfassten FällenDiese Gebühr erhöht sich bei der Ausstellung einer Zulassungsbescheinigung Teil I um 0,90 Euro. | 10,20 |
 | 225.1 |  | Internetbasierte Änderung der Anschrift des Halters innerhalb desselben Zulassungsbezirks | 11,40 |
 | 226 |  | Auskunft aus dem Fahrzeugregister |  |
 | 226.1 |  | Auskunft aus dem Fahrzeugregister an die Auskunftsstelle nach § 8a des Pflichtversicherungsgesetzes | 3,10 |
@@ -267,8 +267,14 @@ Gebühren der Behörden im Landesbereich
 |  | B. | Straßenverkehrs-Ordnung |  |
 | 261 |  | Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen | 10,20 bis 767,00 |
 | 262 |  | Anordnung zur Teilnahme am Verkehrsunterricht | 25,60 |
-| 263 |  | Entscheidung über eine Erlaubnis nach der StVOBei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand | 10,20 bis 767,00 767,00 bis 2 301,00 |
-| 264 |  | Entscheidung über eine Ausnahme von einer Vorschrift der StVO je Ausnahmetatbestand und je Fahrzeug/Person | 10,20 bis 767,00 |
+| 263 |  | Entscheidung über eine Erlaubnis mit Ausnahme der Erlaubnis nach § 29 Absatz 3 StVO nach der StVOBei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand | 10,20 bis 767,00 767,00 bis 2 301,00 |
+| 263.1 |  | Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- oder Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO |  |
+| 263.1.1 |  | bei Erteilung der Erlaubnis oder der Ausnahme | 40,00 bis 1 300,00 nach Maßgabe des Anhangs |
+| 263.1.2 |  | bei Ablehnung eines Antrages auf Erlaubnis oder Ausnahme aus anderen Gründen als wegen Unzuständigkeit, bei Rücknahme oder bei Widerruf | 75 Prozent der Gebühr nach Nummer 263.1.1 |
+| 263.1.3 |  | bei Änderung einer bestehenden Erlaubnis oder Ausnahme |  |
+| 263.1.3.1 |  | bei gewöhnlichem Aufwand | entsprechend der Nummer 263.1.1 |
+| 263.1.3.2 |  | bei geringem Aufwand nach Zeitaufwand | 10,00 je angefangene Viertelstunde Bearbeitungszeit |
+| 264 |  | Entscheidung über eine Ausnahme von einer Vorschrift der StVO je Ausnahmetatbestand und je Fahrzeug/Person mit Ausnahme der Ausnahmegenehmigung nach § 46 Absatz 1 Nummer 5 StVO | 10,20 bis 767,00 |
 |  |  | Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 10,20 Euro je Fahrzeug/Person und je Ausnahmetatbestand nicht unterschritten werden. |  |
 | 265 |  | Ausstellen eines Parkausweises für Bewohner | 10,20 bis 30,70 pro Jahr |
 |  | C. | Ferienreiseverordnung |  |
@@ -302,7 +308,7 @@ Gebühren der Behörden im Landesbereich
 |  |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG |  |
 |  |  | nach vorangegangener Versagung, Rücknahme oder Widerruf oder nach vorangegangenem Verzicht |  |
 | 303 |  | Änderung |  |
-| 303.1 |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung eines Fahrlehrerscheins oder eines Anwärterscheins | 40.90 |
+| 303.1 |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung eines Fahrlehrerscheins oder eines Anwärterscheins | 40,90 |
 | 303.2 |  | der Fahrschulerlaubnis | 56,20 |
 | 303.3 |  | der Zweigstellenerlaubnis | 40,90 |
 | 303.4 |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte | 51,10 bis 169,00 |
@@ -359,16 +365,16 @@ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugtei
 |  |  | – Einzelprüfung durch den Sachverständigen/Prüfer oder durch vom Bewerber gesondert zu bezahlenden Gebärdendolmetscher | je angefangene Viertel-stunde Gebühr entsprechend Nummer 499 |
 | 402 |  | Praktische Prüfung für eine Fahrerlaubnis oder eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes |  |
 |  |  | In den Fällen, in denen der Termin für den theoretischen und praktischen Teil der Prüfung auf Antrag des Bewerbers auf einen Tag festgesetzt wird, der Bewerber jedoch den theoretischen Teil der Prüfung nicht besteht, wird für beide Prüfungsteile die volle Gebühr erhoben. Können der praktische oder der theoretische Teil ohne Verschulden des amtlich anerkannten Sachverständigen oder Prüfers und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht beendet werden, wird die volle Gebühr für den ausgefallenen Prüfungsteil erhoben. Verkürzt sich die Dauer der praktischen Prüfung nach Anlage 7 Abschnitt 2.3 oder 2.5.1 FeV, ermäßigt sich die Gebühr entsprechend. |  |
-| 402.1 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 | 102,00 |
-| 402.1a |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge der Stufenregelung nach § 15 Absatz 3 und 4 FeV | 68,00 |
-| 402.2 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A1 | 77,10 |
-| 402.3 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE | 77,10 |
-| 402.4 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE | 127,00 |
-| 402.5 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 127,00 |
-| 402.6 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1 | 127,00 |
-| 402.7 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E | 120,00 |
-| 402.8 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse AM | 77,10 |
-| 402.9 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse T | 102,00 |
+| 402.1 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A, A2 oder A1 | 123,16 |
+| 402.1a |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge der Stufenregelung nach § 15 Absatz 3 und 4 FeV | 106,83 |
+| 402.2 |  | (weggefallen) |  |
+| 402.3 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE | 98,26 |
+| 402.4 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE | 148,16 |
+| 402.5 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 148,16 |
+| 402.6 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1 | 148,16 |
+| 402.7 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E | 141,16 |
+| 402.8 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse AM | 98,26 |
+| 402.9 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse T | 123,16 |
 | 403 |  | (weggefallen) |  |
 |  | 2. | Prüfungen von Fahrzeugen und Fahrzeugteilen |  |
 | 410 |  | Grundgebühr für Typprüfungen oder Musterprüfungen nach StVZO/EU/ECE/FzTV Mit den Grundgebühren ist folgender Aufwand abgedeckt: |  |

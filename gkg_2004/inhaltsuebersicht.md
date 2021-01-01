@@ -22,6 +22,7 @@
 | § 12 | Verfahren nach der Zivilprozessordnung |
 | § 12a | Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren |
 | § 13 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
+| § 13a | Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
 | § 14 | Ausnahmen von der Abhängigmachung |
 | § 15 | Zwangsversteigerungs- und Zwangsverwaltungsverfahren |
 | § 16 | Privatklage, Nebenklage |
@@ -39,6 +40,7 @@
 | § 23a | Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
 | § 24 | Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren |
 | § 25 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
+| § 25a | Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
 | § 26 | Zwangsversteigerungs- und Zwangsverwaltungsverfahren |
 | § 27 | Bußgeldsachen |
 | § 28 | Auslagen in weiteren Fällen |

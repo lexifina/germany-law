@@ -22,9 +22,9 @@
 
 - [§ 8 Grundsatz der Vergütung](0008.md)
 - [§ 8a Wegfall oder Beschränkung des Vergütungsanspruchs](0008a.md)
-- [§ 9 Honorar für die Leistung der Sachverständigen und Dolmetscher](0009.md)
+- [§ 9 Honorare für Sachverständige und für Dolmetscher](0009.md)
 - [§ 10 Honorar für besondere Leistungen](0010.md)
-- [§ 11 Honorar für Übersetzungen](0011.md)
+- [§ 11 Honorar für Übersetzer](0011.md)
 - [§ 12 Ersatz für besondere Aufwendungen](0012.md)
 - [§ 13 Besondere Vergütung](0013.md)
 - [§ 14 Vereinbarung der Vergütung](0014.md)
@@ -48,6 +48,6 @@
 
 - [§ 24 Übergangsvorschrift](0024.md)
 - [§ 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0025.md)
-- [Anlage 1 (zu § 9 Abs. 1)](anlage-1.md)
-- [Anlage 2 (zu § 10 Abs. 1)](anlage-2.md)
+- [Anlage 1 (zu § 9 Absatz 1 Satz 1)](anlage-1.md)
+- [Anlage 2 (zu § 10 Absatz 1 Satz 1)](anlage-2.md)
 - [Anlage 3 (zu § 23 Abs. 1)](anlage-3.md)

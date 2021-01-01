@@ -9,6 +9,7 @@
 - [§ 3 Kostenfreie Amtshandlungen](0003.md)
 - [§ 4 Höhe der Kosten](0004.md)
 - [§ 5 Verjährung, Verzinsung](0005.md)
+- [§ 5a Elektronische Akte, elektronisches Dokument, Rechtsbehelfsbelehrung](0005a.md)
 
 ## Abschnitt 2 Fälligkeit und Sicherstellung der Kosten
 

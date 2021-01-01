@@ -54,9 +54,9 @@
 |  | Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten | § 62d |
 |  | (weggefallen) | § 63 |
 | Zu § 33 des Gesetzes |  |
-|  | Nachweis von Krankheitskosten | § 64 |
+|  | Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale | § 64 |
 | Zu § 33b des Gesetzes |  |
-|  | Nachweis der Behinderung | § 65 |
+|  | Nachweis der Behinderung und des Pflegegrads | § 65 |
 |  | (weggefallen) | §§ 66 und 67 |
 | Zu § 34b des Gesetzes |  |
 |  | Nutzungssatz, Betriebsgutachten, Betriebswerk | § 68 |

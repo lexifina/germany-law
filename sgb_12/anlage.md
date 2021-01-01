@@ -11,6 +11,7 @@
 | 1. Januar 2018 | 416 | 374 | 332 | 316 | 296 | 240 |
 | 1. Januar 2019 | 424 | 382 | 339 | 322 | 302 | 245 |
 | 1. Januar 2020 | 432 | 389 | 345 | 328 | 308 | 250 |
+| 1. Januar 2021 | 446 | 401 | 357 | 373 | 309 | 283 |
 Regelbedarfsstufe 1:
 Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.
 Regelbedarfsstufe 2:

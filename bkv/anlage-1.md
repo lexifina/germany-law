@@ -1,6 +1,6 @@
 # Anlage 1
 
-(Fundstelle des Originaltextes: BGBl. I 1997, 2625 - 2626;
+(Fundstelle: BGBl. I 1997, 2625 - 2626;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Nr. | Krankheiten |
 | 1 | Durch chemische Einwirkungen verursachte Krankheiten |
@@ -34,7 +34,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1312 | Erkrankungen der Zähne durch Säuren |
 | 1313 | Hornhautschädigungen des Auges durch Benzochinon |
 | 1314 | Erkrankungen durch para-tertiär-Butylphenol |
-| 1315 | Erkrankungen durch Isocyanate, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 1315 | Erkrankungen durch Isocyanate |
 | 1316 | Erkrankungen der Leber durch Dimethylformamid |
 | 1317 | Polyneuropathie oder Enzephalopathie durch organische Lösungsmittel oder deren Gemische |
 | 1318 | Erkrankungen des Blutes, des blutbildenden und des lymphatischen Systems durch Benzol |
@@ -45,16 +45,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 |  | Ausgenommen sind Hauterkrankungen. Diese gelten als Krankheiten im Sinne dieser Anlage nur insoweit, als sie Erscheinungen einer Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe in den Körper verursacht werden, oder gemäß Nummer 5101 zu entschädigen sind. |
 | 2 | Durch physikalische Einwirkungen verursachte Krankheiten |
 | 21 | Mechanische Einwirkungen |
-| 2101 | Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2101 | Schwere oder wiederholt rückfällige Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze |
 | 2102 | Meniskusschäden nach mehrjährigen andauernden oder häufig wiederkehrenden, die Kniegelenke überdurchschnittlich belastenden Tätigkeiten |
 | 2103 | Erkrankungen durch Erschütterung bei Arbeit mit Druckluftwerkzeugen oder gleichartig wirkenden Werkzeugen oder Maschinen |
-| 2104 | Vibrationsbedingte Durchblutungsstörungen an den Händen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2104 | Vibrationsbedingte Durchblutungsstörungen an den Händen |
 | 2105 | Chronische Erkrankungen der Schleimbeutel durch ständigen Druck |
 | 2106 | Druckschädigung der Nerven |
 | 2107 | Abrißbrüche der Wirbelfortsätze |
-| 2108 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjähriges Heben oder Tragen schwerer Lasten oder durch langjährige Tätigkeiten in extremer Rumpfbeugenhaltung, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
-| 2109 | Bandscheibenbedingte Erkrankungen der Halswirbelsäule durch langjähriges Tragen schwerer Lasten auf der Schulter, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
-| 2110 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjährige, vorwiegend vertikale Einwirkung von Ganzkörperschwingungen im Sitzen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2108 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjähriges Heben oder Tragen schwerer Lasten oder durch langjährige Tätigkeiten in extremer Rumpfbeugenhaltung, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Lendenwirbelsäule) geführt haben |
+| 2109 | Bandscheibenbedingte Erkrankungen der Halswirbelsäule durch langjähriges Tragen schwerer Lasten auf der Schulter, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Halswirbelsäule) geführt haben |
+| 2110 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjährige, vorwiegend vertikale Einwirkung von Ganzkörperschwingungen im Sitzen, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Lendenwirbelsäule) geführt haben |
 | 2111 | Erhöhte Zahnabrasionen durch mehrjährige quarzstaubbelastende Tätigkeit |
 | 2112 | Gonarthrose durch eine Tätigkeit im Knien oder vergleichbare Kniebelastung mit einer kumulativen Einwirkungsdauer während des Arbeitslebens von mindestens 13 000 Stunden und einer Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht |
 | 2113 | Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder durch Hand-Arm-Schwingungen |
@@ -97,10 +97,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 4202 | Erkrankungen der tieferen Atemwege und der Lungen durch Rohbaumwoll-, Rohflachs- oder Rohhanfstaub (Byssinose) |
 | 4203 | Adenokarzinome der Nasenhaupt- und Nasennebenhöhlen durch Stäube von Eichen- oder Buchenholz |
 | 43 | Obstruktive Atemwegserkrankungen |
-| 4301 | Durch allergisierende Stoffe verursachte obstruktive Atemwegserkrankungen (einschließlich Rhinopathie), die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
-| 4302 | Durch chemisch-irritativ oder toxisch wirkende Stoffe verursachte obstruktive Atemwegserkrankungen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 4301 | Durch allergisierende Stoffe verursachte obstruktive Atemwegserkrankungen (einschließlich Rhinopathie) |
+| 4302 | Durch chemisch-irritativ oder toxisch wirkende Stoffe verursachte obstruktive Atemwegserkrankungen |
 | 5 | Hautkrankheiten |
-| 5101 | Schwere oder wiederholt rückfällige Hauterkrankungen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 5101 | Schwere oder wiederholt rückfällige Hauterkrankungen |
 | 5102 | Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß, Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe |
 | 5103 | Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut durch natürliche UV-Strahlung |
 | 6 | Krankheiten sonstiger Ursache |

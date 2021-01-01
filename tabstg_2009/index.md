@@ -44,7 +44,6 @@
 - [§ 26 Verbot der Abgabe unter Kleinverkaufspreis](0026.md)
 - [§ 27 Preisnachlässe und -ermäßigungen](0027.md)
 - [§ 28 Verbot der Abgabe über Kleinverkaufspreis](0028.md)
-- [§ 29 Ausspielung](0029.md)
 
 ## Abschnitt 6 Steuervergünstigungen
 

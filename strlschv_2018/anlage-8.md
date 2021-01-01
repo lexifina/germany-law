@@ -55,7 +55,7 @@ Teil E: Spezifische Freigabe von Bodenflächen
 Teil F: Spezifische Freigabe von Bauschutt
 1. Die Werte der Anlage 4 Tabelle 1 Spalte 6 gelten für Bauschutt, der bei laufenden Betriebsarbeiten anfällt oder nach Abriss von Gebäuden oder Anlagenteilen, sofern die Voraussetzungen einer Freimessung an der stehenden Struktur nach Teil D nicht erfüllt sind. An Bauschutt anhaftender Boden kann als Bauschutt angesehen werden.
 2. Bei einer Freimessung von Bauschutt darf die Mittelungsmasse bis zu einem Megagramm betragen. Die zuständige Behörde kann auf Antrag größere Mittelungsmassen zulassen, wenn nachgewiesen wird, dass das Dosiskriterium der Freigabe auch bei der größeren Mittelungsmasse eingehalten wird.
-3.
+3. Abweichend von der Anwendbarkeit der Freigabewerte der Anlage 4 Tabelle 1 Spalte 6 auf jährliche Bauschuttmassen von mehr als 1 000 Megagramm kann der Freigabewert für Cs-137 für Massen zwischen Null und 10 000 Megagramm pro Kalenderjahr einer Freigabe zugrunde gelegt werden.
 Teil G: Spezifische Freigabe von Metallschrott zum Recycling
 1. Eine Freigabe von Metallschrott zum Recycling setzt voraus, dass der Metallschrott, für den eine Feststellung nach § 42 Absatz 1 getroffen wurde, eingeschmolzen wird.
 2. Die Werte der Anlage 4 Tabelle 1 Spalte 14 gelten nicht für Verbundstoffe aus metallischen und nichtmetallischen Komponenten.

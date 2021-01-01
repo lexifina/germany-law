@@ -123,12 +123,7 @@
 
 ## Abschnitt 23 Zu § 35 Absatz 1 Nummer 4 des Gesetzes
 
-- [§ 54 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines](0054.md)
-- [§ 55 Schnittstellen](0055.md)
-- [§ 56 Anforderungen an die Programme](0056.md)
-- [§ 57 Prüfung der Programme](0057.md)
-- [§ 58 Haftung](0058.md)
-- [§ 59 Authentifizierung, Datenübermittlung im Auftrag](0059.md)
+- [(XXXX) §§ 54 bis 59 (weggefallen)](xxxx-54-bis-59.md)
 
 ## Abschnitt 24 Zu § 381 Absatz 1 der Abgabenordnung
 

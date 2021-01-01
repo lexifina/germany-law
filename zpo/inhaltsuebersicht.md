@@ -31,6 +31,7 @@
 | § 18 | Allgemeiner Gerichtsstand des Fiskus |
 | § 19 | Mehrere Gerichtsbezirke am Behördensitz |
 | § 19a | Allgemeiner Gerichtsstand des Insolvenzverwalters |
+| § 19b | Ausschließlicher Gerichtsstand bei restrukturierungsbezogenen Klagen; Verordnungsermächtigung |
 | § 20 | Besonderer Gerichtsstand des Aufenthaltsorts |
 | § 21 | Besonderer Gerichtsstand der Niederlassung |
 | § 22 | Besonderer Gerichtsstand der Mitgliedschaft |
@@ -842,6 +843,7 @@
 | § 751 | Bedingungen für Vollstreckungsbeginn |
 | § 752 | Sicherheitsleistung bei Teilvollstreckung |
 | § 753 | Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung |
+| § 753a | Vollmachtsnachweis |
 | § 754 | Vollstreckungsauftrag und vollstreckbare Ausfertigung |
 | § 754a | Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden |
 | § 755 | Ermittlung des Aufenthaltsorts des Schuldners |

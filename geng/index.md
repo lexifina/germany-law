@@ -163,7 +163,7 @@ und anteilige Fehlbeträge](0088a.md)
 Nachschusspflicht der Mitglieder
 
 - [§ 98 Eröffnung des Insolvenzverfahrens](0098.md)
-- [§ 99 Zahlungsverbot bei Zahlungsunfähigkeit oder Überschuldung](0099.md)
+- [§ 99 (weggefallen)](0099.md)
 - [§ 100 (weggefallen)](0100.md)
 - [§ 101 Wirkung der Eröffnung des Insolvenzverfahrens](0101.md)
 - [§ 102 Eintragung der Eröffnung des Insolvenzverfahrens](0102.md)

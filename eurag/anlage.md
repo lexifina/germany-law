@@ -7,7 +7,6 @@
 | - in Finnland: | Asianajaja/Advokat |
 | - in Frankreich: | Avocat |
 | - in Griechenland: | Δικηγόρος (Dikigoros) |
-| - in Großbritannien: | Advocate/Barrister/Solicitor |
 | - in Irland: | Barrister/Solicitor |
 | - in Island: | Lögmaur |
 | - in Italien: | Avvocato |

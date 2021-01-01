@@ -188,6 +188,7 @@ besonderer sozialer Schwierigkeiten
 ### Erster Abschnitt Einkommen
 
 - [§ 82 Begriff des Einkommens](0082.md)
+- [§ 82a Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen](0082a.md)
 - [§ 83 Nach Zweck und Inhalt bestimmte Leistungen](0083.md)
 - [§ 84 Zuwendungen](0084.md)
 
@@ -317,5 +318,6 @@ Artikel 116 Abs. 1 des Grundgesetzes](0133.md)
 - [§ 140 Übergangsregelung zur Verhinderung einer Zahlungslücke](0140.md)
 - [§ 141 Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0141.md)
 - [§ 142 Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0142.md)
+- [§ 143 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten](0143.md)
 - [Anlage (zu § 28)Regelbedarfsstufen nach § 28 in Euro](anlage.md)
 - [Anlage (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro](anlage-2.md)

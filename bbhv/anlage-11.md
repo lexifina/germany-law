@@ -44,12 +44,13 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 2.18 Bruchband
 3.1 Clavicula-Bandage
 3.2 Cochlea-Implantate einschließlich Zubehör
-3.3 Communicator (bei dysarthrischen Sprachstörungen)
+3.3 Communicator (bei dysarthrischen Sprechstörungen)
 3.4 Computerspezialausstattung für Behinderte; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
-4.1 Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
-4.2 Delta-Gehrad
-4.3 Drehscheibe, Umsetzhilfen
-4.4 Duschsitz oder -stuhl
+4.1 Defibrillatorweste
+4.2 Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
+4.3 Delta-Gehrad
+4.4 Drehscheibe, Umsetzhilfen
+4.5 Duschsitz oder -stuhl
 5.1 Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse
 5.2 Einmal-Schutzhose bei Querschnittgelähmten
 5.3 Ekzemmanschette
@@ -83,7 +84,7 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 8.5 Helfende Hand, Scherenzange
 8.6 Herz-Atmungs-Überwachungsgerät oder -monitor
 8.7 Hochtontherapiegerät
-8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte], Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen, Otoplastik, In-dem-Ohr-Geräte [IdO-Geräte]), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
+8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte] sowie In-dem-Ohr-Geräte [IdO-Geräte] einschließlich Otoplastik, Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
 9.1 Impulsvibrator
 9.2 Infusionsbesteck oder -gerät und Zubehör
 9.3 Inhalationsgerät, einschließlich Sauerstoff und Zubehör, jedoch keine Luftbefeuchter, -filter, -wäscher
@@ -183,10 +184,10 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 20.2 Therapeutische Bewegungsgeräte (nur mit Spasmenschaltung)
 20.3 Therapiestuhl
 20.4 Tinnitusgerät
-20.5 Toilettenhilfen bei Schwerbehinderten
+20.5 Toilettenhilfen bei Schwerbehinderten oder Personen mit Hüfttotalendoprothese
 20.6 Tracheostomaversorgungsartikel, auch Wasserschutzgerät (Larchel)
 20.7 Tragegurtsitz
-21.1 Übertragungsanlagen, wenn nach differenzierter fachärztlicher pädaudiologischer Diagnostik bei Bestehen einer auditiven Verarbeitungs- und Wahrnehmungsstörung auch eine Einschränkung des Sprachverständnisses im Störschall besteht
+21.1 Übertragungsanlagen – zur Befriedung von allgemeinen Grundbedürfnissen des täglichen Lebens zusätzlich zu einem Hörgerät oder einem Cochlea-Implantat oder wenn bei peripherer Normalhörigkeit auf Grund einer auditiven Verarbeitungs- und Wahrnehmungsstörung eine pathologische Einschränkung des Sprachverstehens im Störschall besteht
 21.2 Übungsschiene
 21.3 Urinale
 21.4 Urostomiebeutel
@@ -199,7 +200,22 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 26.1 Zyklomat-Hormon-Pumpe.
 Abschnitt 2
 Perücken
-Aufwendungen für ärztlich verordnete Perücken sind bis zum Betrag von 512 Euro beihilfefähig, wenn ein krankhafter entstellender Haarausfall (zum Beispiel Alopecia areata), eine erhebliche Verunstaltung (zum Beispiel infolge Schädelverletzung) oder ein totaler oder weitgehender Haarausfall vorliegt. Die Aufwendungen für eine Zweitperücke sind nur beihilfefähig, wenn eine Perücke voraussichtlich länger als ein Jahr getragen werden muss. Die Aufwendungen für die erneute Beschaffung einer Perücke sind nur beihilfefähig, wenn seit der vorangegangenen Beschaffung mindestens vier Jahre vergangen sind, oder wenn sich bei Kindern vor Ablauf dieses Zeitraums die Kopfform geändert hat.
+Aufwendungen für ärztlich verordnete Voll- oder Teilperücken einschließlich Befestigungselementen wie Klebestreifen und Spangen sowie Materialien zur Befestigung sind bis zu einem Betrag von 512 Euro beihilfefähig, wenn, vorübergehend oder langfristig, großflächiger und massiver Haarverlust wegen einer Krankheit oder im Zusammenhang mit einer Krankheit vorliegt, insbesondere bei:
+1. Chemotherapie,
+2. Strahlenbehandlung,
+3. vorübergehender oder dauerhafter Medikamentengabe,
+4. Operationen,
+5. Infekten oder entzündlichen Erkrankungen,
+6. Stoffwechselerkrankungen,
+7. psychischen Erkrankungen mit oder durch Haarverlust,
+8. sonstigen Erkrankungen mit Haarverlust,
+9. Deformation des Kopfes mit entstellender Wirkung,
+10. Unfallfolgen.
+Aufwendungen für eine zweite Voll- oder Teilperücke zum Wechseln sind nur beihilfefähig, wenn eine Voll- oder Teilperücke länger als ein Jahr getragen werden muss. Aufwendungen für die erneute Beschaffung einer Voll- oder Teilperücke sind beihilfefähig, wenn
+1. seit der vorangegangenen Beschaffung einer Voll- oder Teilperücke aus Kunststoff ein Jahr vergangen ist,
+2. seit der vorangegangenen Beschaffung einer Voll- oder Teilperücke aus Echthaar zwei Jahre vergangen sind oder
+3. sich bei Kindern vor Ablauf der vorgenannten Zeiträume die Kopfform geändert hat.
+Bei der Erstverordnung sind auch die Aufwendungen für einen Perückenkopf beihilfefähig.
 Abschnitt 3
 Blindenhilfsmittel und Mobilitätstraining
 1. Aufwendungen für zwei Langstöcke sowie gegebenenfalls elektronische Blindenleitgeräte nach ärztlicher Verordnung sind beihilfefähig.
@@ -214,30 +230,21 @@ Blindenhilfsmittel und Mobilitätstraining
   b) Aufwendungen für ein erforderliches Nachtraining (zum Beispiel bei Wegfall eines noch vorhandenen Sehrestes, Wechsel des Wohnortes) werden entsprechend Buchstabe a anerkannt,
   c) Aufwendungen für ein ergänzendes Training an Blindenleitgeräten können in der Regel bis zu 30 Stunden anerkannt werden, gegebenenfalls einschließlich der Kosten für Unterkunft und Verpflegung sowie der Fahrtkosten der Trainerin oder des Trainers in entsprechendem Umfang. Die Anerkennung weiterer Stunden ist möglich, wenn die Trainerin oder der Trainer oder eine Ärztin oder ein Arzt die Notwendigkeit bescheinigt.
 3. Die entstandenen Aufwendungen für das Mobilitätstraining sind durch die Rechnung einer Blindenorganisation nachzuweisen. Ersatzweise kann auch eine unmittelbare Abrechnung durch die Mobilitätstrainerin oder den Mobilitätstrainer akzeptiert werden, falls sie oder er zur Rechnungsstellung gegenüber den gesetzlichen Krankenkassen berechtigt ist. Bei Umsatzsteuerpflicht (ein Nachweis des Finanzamtes ist vorzulegen) erhöhen sich die beihilfefähigen Aufwendungen um die jeweils gültige Umsatzsteuer.
+4. Aufwendungen für ärztlich verordnete elektronische Systeme zur Informationsverarbeitung und Informationsausgabe für Blinde sind beihilfefähig.
 Abschnitt 4
 Sehhilfen
 Unterabschnitt 1
 Allgemeine Bestimmungen der Beihilfefähigkeit von Sehhilfen
-1. Sehhilfen zur Verbesserung des Visus sind beihilfefähig
-  a) für Personen, die das 18. Lebensjahr noch nicht vollendet haben;
-  b) für Personen, die das 18. Lebensjahr vollendet haben, wenn beide Augen auf Grund der Sehschwäche oder Blindheit eine schwere Sehbeeinträchtigung aufweisen, die mindestens der Stufe 1 der von der Weltgesundheitsorganisation empfohlenen Klassifikationen des Grades der Sehbeeinträchtigung entspricht; eine schwere Sehbeeinträchtigung liegt unter anderem vor, wenn
-    aa) der Visus bei bestmöglicher Korrektur mit einer Brille oder mit Kontaktlinsen auf dem besseren Auge nicht mehr als 0,3 beträgt oder
-    bb) das beidäugige Gesichtsfeld bei zentraler Fixation nicht mehr als 10 Grad ist;
-  c) für Personen, die das 18. Lebensjahr vollendet haben, bei einem Korrekturausgleich für einen Refraktionsfehler bei
-    aa) Myopie von mehr als 6 dpt,
-    bb) Hyperopie von mehr als 6 dpt,
-    cc) Astigmatismus von mehr als 4 dpt.
-  Liegt ein Refraktionsfehler nach Satz 1 Buchstabe c nur bei einem Auge vor, sind die Aufwendungen für das Brillenglas oder die Kontaktlinse auch für das andere Auge beihilfefähig.
-2. Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
-3. Aufwendungen für erneute Beschaffung einer Sehhilfe sind beihilfefähig, wenn bei gleichbleibendem Visus seit dem Kauf der bisherigen Sehhilfe drei, bei weichen Kontaktlinsen zwei Jahre vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
+1. Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
+2. Aufwendungen für erneute Beschaffung einer Sehhilfe sind beihilfefähig, wenn bei gleichbleibendem Visus seit dem Kauf der bisherigen Sehhilfe drei, bei weichen Kontaktlinsen zwei Jahre vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
   a) sich die Refraktion geändert hat,
   b) die bisherige Sehhilfe verloren gegangen oder unbrauchbar geworden ist,
   c) sich die Kopfform geändert hat.
-4. Als Sehhilfen zur Verbesserung des Visus sind beihilfefähig:
+3. Als Sehhilfen zur Verbesserung des Visus sind beihilfefähig:
   a) Brillengläser,
   b) Kontaktlinsen,
   c) vergrößernde Sehhilfen.
-5. Bei Personen, die der Vollzeitschulpflicht unterliegen, sind Aufwendungen für eine Brille beihilfefähig, wenn sie für die Teilnahme am Schulsport erforderlich ist. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach dem Unterabschnitt 2 Nummer 1 und 2; für die Brillenfassung sind Aufwendungen bis zu 52 Euro beihilfefähig.
+4. Bei Personen, die der Vollzeitschulpflicht unterliegen, sind Aufwendungen für eine Brille beihilfefähig, wenn sie für die Teilnahme am Schulsport erforderlich ist. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach dem Unterabschnitt 2 Nummer 1 und 2; für die Brillenfassung sind Aufwendungen bis zu 52 Euro beihilfefähig.
 Unterabschnitt 2
 Brillengläser zur Verbesserung des Visus
 1. Aufwendungen für Brillengläser sind bis zu folgenden Höchstbeträgen beihilfefähig:
@@ -282,7 +289,7 @@ Kontaktlinsen zur Verbesserung des Visus
 2. Aufwendungen für Kurzzeitlinsen sind je Kalenderjahr nur beihilfefähig
   a) für sphärische Kontaktlinsen bis zu 154 Euro,
   b) für torische Kontaktlinsen bis zu 230 Euro.
-3. Wenn Kontaktlinsen aus medizinischen Gründen nicht ununterbrochen getragen werden können, sind bei Vorliegen einer Indikation nach Nummer 1 neben den Kontaktlinsen zusätzlich Aufwendungen für eine Brille nach Unterabschnitt 2 beihilfefähig. Liegt keine Indikation nach Nummer 1 vor, sind nur die vergleichbaren Kosten für Gläser beihilfefähig.
+3. Bei Vorliegen einer Indikation nach Nummer 1 sind zusätzlich Aufwendungen für eine Brille nach Unterabschnitt 2 ungeachtet von Unterabschnitt 1 Nummer 2 beihilfefähig. Liegt keine Indikation nach Nummer 1 vor, sind nur die vergleichbaren Kosten für Gläser beihilfefähig.
 4. Nicht beihilfefähig sind:
   a) Kontaktlinsen als postoperative Versorgung (auch als Verbandlinse oder Verbandschale) nach nicht beihilfefähigen Eingriffen,
   b) Kontaktlinsen in farbigen Ausführungen zur Veränderung oder Verstärkung der körpereigenen Farbe der Iris,
@@ -321,7 +328,10 @@ Therapeutische Sehhilfen
     bb) dystrophischen Netzhauterkrankungen (zum Beispiel Zapfendystrophien, Zapfen-StäbchenDystrophien, Stäbchen-Zapfen-Dystrophien, Retinopathia pigmentosa, Chorioidemie),
     cc) Albinismus.
     Das Ausmaß der Transmissionsminderung und die Lage der Kanten der Filter sind individuell zu erproben, die subjektive Akzeptanz ist zu überprüfen. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
-  e) Horizontale Prismen in Gläsern ≥ 3 Prismendioptrien und Folien mit prismatischer Wirkung ≥ 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien ≥ 1 Prismendioptrie, bei
+  e) Horizontale Prismen in Gläsern
+    ab 3 Prismendioptrien und Folien mit prismatischer Wirkung
+    ab 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien
+    ab 1 Prismendioptrie, bei
     aa) krankhaften Störungen in der sensorischen und motorischen Zusammenarbeit der Augen mit dem Ziel, Binokularsehen zu ermöglichen und die sensorische Zusammenarbeit der Augen zu verbessern,
     bb) Augenmuskelparesen, um Muskelkontrakturen zu beseitigen oder zu verringern.
     Voraussetzung für die Beihilfefähigkeit ist, dass die Verordnung auf Grund einer umfassenden augenärztlichen orthoptisch-pleoptischen Diagnostik ausgestellt ist. Verordnungen, die auf Grund isolierter Ergebnisse einer subjektiven Heterophie-Testmethode ausgestellt sind, werden nicht anerkannt.

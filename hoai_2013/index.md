@@ -7,6 +7,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Honorartafeln und Basishonorarsatz](0002a.md)
 - [§ 3 Leistungen und Leistungsbilder](0003.md)
 - [§ 4 Anrechenbare Kosten](0004.md)
 - [§ 5 Honorarzonen](0005.md)
@@ -19,7 +20,7 @@
 - [§ 12 Instandsetzungen und Instandhaltungen](0012.md)
 - [§ 13 Interpolation](0013.md)
 - [§ 14 Nebenkosten](0014.md)
-- [§ 15 Zahlungen](0015.md)
+- [§ 15 Fälligkeit des Honorars, Abschlagszahlungen](0015.md)
 - [§ 16 Umsatzsteuer](0016.md)
 
 ## Teil 2 Flächenplanung
@@ -100,7 +101,7 @@
 - [§ 57 Übergangsvorschrift](0057.md)
 - [§ 58 Inkrafttreten, Außerkrafttreten](0058.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage 1 (zu § 3 Absatz 1)Beratungsleistungen](anlage-1.md)
+- [Anlage 1 (zu § 3 Absatz 1)Weitere Fachplanungs- und Beratungsleistungen](anlage-1.md)
 - [Anlage 2 (zu § 18 Absatz 2)Grundleistungen im Leistungsbild Flächennutzungsplan](anlage-2.md)
 - [Anlage 3 (zu § 19 Absatz 2)Grundleistungen im Leistungsbild Bebauungsplan](anlage-3.md)
 - [Anlage 4 (zu § 23 Absatz 2)Grundleistungen im Leistungsbild Landschaftsplan](anlage-4.md)

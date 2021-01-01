@@ -66,7 +66,7 @@ Bezeichnung als Inhaber einer Kernanlage](0017.md)
 ## Dritter Abschnitt Verwaltungsbehörden
 
 - [§ 22 Zuständigkeit für grenzüberschreitende Verbringungen und deren Überwachung](0022.md)
-- [§ 23 (weggefallen)](0023.md)
+- [§ 23 Ausstattung der zuständigen Behörden](0023.md)
 - [§ 23a Zuständigkeit des Bundesverwaltungsamtes](0023a.md)
 - [§ 23b (weggefallen)](0023b.md)
 - [§ 23c (weggefallen)](0023c.md)

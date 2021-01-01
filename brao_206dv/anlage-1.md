@@ -44,4 +44,5 @@
 | – in der Ukraine: | Advokat |
 | – in Uruguay: | Abogado |
 | – in Venezuela: | Abogado |
+| – im Vereinigten Königreich: | Advocate, Barrister, Solicitor |
 | – in den Vereinigten Staaten von Amerika: | Attorney at law |

@@ -98,12 +98,7 @@
 
 ## Abschnitt 20 Zu § 23 Absatz 1 Nummer 4 des Gesetzes
 
-- [§ 38 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines](0038.md)
-- [§ 39 Schnittstellen](0039.md)
-- [§ 40 Anforderungen an die Programme](0040.md)
-- [§ 41 Prüfung der Programme](0041.md)
-- [§ 42 Haftung](0042.md)
-- [§ 43 Authentifizierung, Datenübermittlung im Auftrag](0043.md)
+- [(XXXX) §§ 38 bis 43 (weggefallen)](xxxx-38-bis-43.md)
 
 ## Abschnitt 21 Zu § 381 Absatz 1 der Abgabenordnung
 

@@ -166,16 +166,15 @@ Seefahrt
 - [§ 83 Jahresarbeitsverdienst kraft Satzung](0083.md)
 - [§ 84 Jahresarbeitsverdienst bei Berufskrankheiten](0084.md)
 - [§ 85 Mindest- und Höchstjahresarbeitsverdienst](0085.md)
-- [§ 86 Jahresarbeitsverdienst für Kinder](0086.md)
+- [§ 86 (weggefallen)](0086.md)
 - [§ 87 Jahresarbeitsverdienst nach billigem Ermessen](0087.md)
 - [§ 88 Erhöhung des Jahresarbeitsverdienstes für Hinterbliebene](0088.md)
 - [§ 89 Berücksichtigung von Anpassungen](0089.md)
 
 #### Dritter Unterabschnitt Neufestsetzung
 
-- [§ 90 Neufestsetzung nach voraussichtlicher Schul- oder Berufsausbildung oder Altersstufen](0090.md)
-- [§ 91 Mindest- und Höchstjahresarbeitsverdienst, Jahresarbeitsverdienst
-nach billigem Ermessen bei Neufestsetzung](0091.md)
+- [§ 90 Neufestsetzung nach Altersstufen](0090.md)
+- [§ 91 Neufestsetzung nach Schul- oder Berufsausbildung](0091.md)
 
 #### Vierter Unterabschnitt Besondere Vorschriften für die bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation versicherten Seeleute und ihre Hinterbliebenen
 
@@ -451,11 +450,11 @@ Ordnungswidrigkeiten](0211.md)
 - [§ 217 Bestandsschutz](0217.md)
 - [§ 218 (weggefallen)](0218.md)
 - [§ 218a Leistungen an Hinterbliebene](0218a.md)
-- [§ 218b (weggefallen)](0218b.md)
+- [§ 218b Rückwirkende Anerkennung von Berufskrankheiten](0218b.md)
 - [§ 218c Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004](0218c.md)
 - [§ 218d Besondere Zuständigkeiten](0218d.md)
 - [§ 218e Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung](0218e.md)
-- [§ 218f (weggefallen)](0218f.md)
+- [§ 218f Evaluation](0218f.md)
 - [§ 218g Übergangsregelungen bei epidemischer Lage von nationaler Tragweite](0218g.md)
 - [§ 219 (weggefallen)](0219.md)
 - [§ 219a Altersrückstellungen](0219a.md)

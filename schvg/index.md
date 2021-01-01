@@ -25,7 +25,7 @@
 - [§ 16 Auskunftspflicht, Abstimmung, Niederschrift](0016.md)
 - [§ 17 Bekanntmachung von Beschlüssen](0017.md)
 - [§ 18 Abstimmung ohne Versammlung](0018.md)
-- [§ 19 Insolvenzverfahren](0019.md)
+- [§ 19 Insolvenzverfahren und Restrukturierungssachen](0019.md)
 - [§ 20 Anfechtung von Beschlüssen](0020.md)
 - [§ 21 Vollziehung von Beschlüssen](0021.md)
 - [§ 22 Geltung für Mitverpflichtete](0022.md)

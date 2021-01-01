@@ -25,7 +25,7 @@
 - [§ 14 Nachtdienst](0014.md)
 - [§ 15 Mehrarbeit](0015.md)
 - [§ 16 Gleitende Arbeitszeit](0016.md)
-- [§ 17 Erprobung von Langzeitkonten](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Automatisierte Zeiterfassung](0018.md)
 - [§ 19 Führungskräfte](0019.md)
 

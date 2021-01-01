@@ -156,7 +156,7 @@
 | Abschnitt 7 |
 | Insolvenzverfahren; Nachschusspflicht der Mitglieder |
 | § 98 | Eröffnung des Insolvenzverfahrens |
-| § 99 | Zahlungsverbot bei Zahlungsunfähigkeit oder Überschuldung |
+| § 99 | (weggefallen) |
 | § 100 | (weggefallen) |
 | § 101 | Wirkung der Eröffnung des Insolvenzverfahrens |
 | § 102 | Eintragung der Eröffnung des Insolvenzverfahrens |

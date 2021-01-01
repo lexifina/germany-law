@@ -19,7 +19,7 @@
 | § 11a | Vermittlerregister |
 | § 11b | Bewacherregister |
 | § 11c | Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraums bei reglementierten Berufen |
-| § 12 | Insolvenzverfahren |
+| § 12 | Insolvenzverfahren und Restrukturierungssachen |
 | § 13 | Erprobungsklausel |
 | § 13a | Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen |
 | § 13b | Anerkennung ausländischer Unterlagen und Bescheinigungen |

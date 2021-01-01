@@ -114,7 +114,7 @@
 - [§ 61 Auflösung durch Urteil](0061.md)
 - [§ 62 Auflösung durch eine Verwaltungsbehörde](0062.md)
 - [§ 63 (weggefallen)](0063.md)
-- [§ 64 Haftung für Zahlungen nach Zahlungsunfähigkeit oder Überschuldung](0064.md)
+- [§ 64 (weggefallen)](0064.md)
 - [§ 65 Anmeldung und Eintragung der Auflösung](0065.md)
 - [§ 66 Liquidatoren](0066.md)
 - [§ 67 Anmeldung der Liquidatoren](0067.md)

@@ -7,9 +7,9 @@ Die Beihilfefähigkeit setzt voraus, dass das Heilmittel in einem der folgenden 
   c) Krankengymnastin oder Krankengymnast,
 2. Bereich Stimm-, Sprech- und Sprachtherapie
   a) Logopädin oder Logopäde,
-  b) staatlich anerkannte Sprachtherapeutin oder staatlich anerkannter Sprachtherapeut,
+  b) Sprachtherapeutin oder Sprachtherapeut,
   c) staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst-Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,
-  d) medizinische Sprachheilpädagogin oder medizinischer Sprachheilpädagoge,
+  d) Sprachheilpädagogin oder Sprachheilpädagoge,
   e) klinische Linguistin oder klinischer Linguist,
   f) klinische Sprechwissenschaftlerin oder klinischer Sprechwissenschaftler,
   g) bei Kindern für sprachtherapeutische Leistungen bei Sprachentwicklungsstörungen, Stottern oder Poltern auch
@@ -18,7 +18,7 @@ Die Beihilfefähigkeit setzt voraus, dass das Heilmittel in einem der folgenden 
     cc) Diplomvorschulerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomvorschulerzieher für Sprachgeschädigte oder Sprachgestörte,
     dd) Diplomerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomerzieher für Sprachgeschädigte oder Sprachgestörte,
   h) Diplompatholinguistin oder Diplompatholinguist,
-3. Bereich Ergotherapie (Beschäftigungstherapie)
+3. Bereich Ergotherapie (Beschäftigungstherapie einschließlich Bereich Kälte- und Wärmebehandlung)
   a) Ergotherapeutin oder Ergotherapeut,
   b) Beschäftigungs- und Arbeitstherapeutin oder Beschäftigungs- und Arbeitstherapeut,
 4. Bereich Podologie

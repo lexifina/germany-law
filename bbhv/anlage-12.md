@@ -3,7 +3,7 @@
 Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen (§ 6 Absatz 1) sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben (§ 25 Absatz 2) oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
 1.1 Adju-Set/-Sano
 1.2 Angorawäsche
-1.3 Anti-Allergene-Matrazen, Matrazenbezüge und Bettbezüge
+1.3 antiallergene Matratzen, Matratzenbezüge und Bettbezüge
 1.4 Aqua-Therapie-Hose
 1.5 Arbeitsplatte zum Krankenfahrstuhl
 1.6 Augenheizkissen
@@ -110,7 +110,7 @@ Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notw
 22.1 Venenkissen
 23.1 Waage
 23.2 Wandstandgerät
-23.3 WC-Sitz
+23.3 (weggefallen)
 24.1 (frei)
 25.1 (frei)
 26.1 Zahnpflegemittel

@@ -85,11 +85,11 @@ und Eigentumswohnungen](0015.md)
 
 ## - Zu § 33 des Gesetzes
 
-- [§ 64 Nachweis von Krankheitskosten](0064.md)
+- [§ 64 Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale](0064.md)
 
 ## - Zu § 33b des Gesetzes
 
-- [§ 65 Nachweis der Behinderung](0065.md)
+- [§ 65 Nachweis der Behinderung und des Pflegegrads](0065.md)
 - [(XXXX) §§ 66 und 67 (weggefallen)](xxxx-66-und-67.md)
 
 ## - Zu § 34b des Gesetzes

@@ -12,7 +12,7 @@ zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Un
   Die genetische Analyse wird bei den Indexfällen durchgeführt. Dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden. Dagegen werden die Kosten einer sich als prädiktiver Gentest darstellenden genetischen Analyse der Indexperson der gesunden ratsuchenden Person zugerechnet. Ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die genetische Analyse also keinen diagnostischen Charakter hat. Eine solche Situation ist gesondert durch eine schriftliche ärztliche Stellungnahme zu attestieren.
 3. Teilnahme an einem Strukturierten Früherkennungsprogramm
   Aufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal 580 Euro beihilfefähig.
-4. Im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs zusammengeschlossene universitäre Zentren
+4. Kliniken des Deutschen HNPCC-Konsortiums
   a) Berlin
     Charité – Universitätszentrum Berlin, Brustzentrum
   b) Dresden
@@ -20,37 +20,46 @@ zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Un
     Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
   c) Düsseldorf
     Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum
-  d) Frankfurt
+  d) Erlangen
+    Universitätsklinikum Erlangen
+    Familiäres Brust- und Eierstockkrebszentrum
+  e) Frankfurt
     Universitätsklinikum Frankfurt
     Klinik für Frauenheilkunde und Geburtshilfe
-  e) Göttingen
+  f) Freiburg
+    Institut für Humangenetik des Universitätsklinikums Freiburg
+  g) Göttingen
     Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
-  f) Greifswald
+  h) Greifswald
     Institut für Humangenetik der Universitätsmedizin Greifswald
-  g) Hamburg
+  i) Halle
+    Universitätsklinikum Halle, Klinik und Poliklinik für Gynäkologie
+  j) Hamburg
     Brustzentrum Klinik und Poliklinik für Gynäkologie
     Universitätsklinikum Hamburg-Eppendorf
-  h) Hannover
+  k) Hannover
     Institut für Humangenetik, Medizinische Hochschule Hannover
-  i) Heidelberg
+  l) Heidelberg
     Institut für Humangenetik der Universität Heidelberg
-  j) Kiel
+  m) Kiel
     Klinik für Gynäkologie und Geburtshilfe des Universitätsklinikums Schleswig-Holstein
-  k) Köln
+  n) Köln
     Zentrum Familiärer Brust- und Eierstockkrebs
-  l) Leipzig
+  o) Leipzig
     Institut für Humangenetik der Universität Leipzig
     Zentrum für familiären Brust- und Eierstockkrebs
-  m) München
+  p) Mainz
+    Zentrum für familiären Brust- und Eierstockkrebs der Universitätsmedizin Mainz, Institut für Humangenetik und Klinik für Frauengesundheit
+  q) München
     Universitätsfrauenklinik der Ludwig-Maximilians-Universität München-Großhadern
     Universitätsfrauenklinik der Technischen Universität München am Klinikum rechts der Isar
-  n) Münster
+  r) Münster
     Institut für Humangenetik der Universität Münster
-  o) Regensburg
+  s) Regensburg
     Institut für Humangenetik, Universität Regensburg
-  p) Tübingen
+  t) Tübingen
     Universität Tübingen, Institut für Humangenetik
-  q) Ulm
+  u) Ulm
     Frauenklinik und Poliklinik der Universität Ulm
-  r) Würzburg
+  v) Würzburg
     Institut für Humangenetik der Universität Würzburg
