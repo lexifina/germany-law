@@ -2,14 +2,14 @@
 Anlage 5
 Familienzuschlag
 (Monatsbeträge in Euro)
-Gültig ab 01. Januar 2020
+Gültig ab 01. Januar 2021
  | Stufe 1 | Stufe 2
  | (§ 35 Abs. 1 BremBesG) | (§ 35 Abs. 2 BremBesG)
-Besoldungsgruppen A 3 bis A 8 | 136,56 | 259,17
-übrige Besoldungsgruppen | 143,42 | 266,03
+Besoldungsgruppen A 3 bis A 8 | 138,48 | 262,81
+übrige Besoldungsgruppen | 145,44 | 269,77
 Bei mehr als einem Kind erhöht sich der Familienzuschlag |  | 
-für das zweite zu berücksichtigende Kind um | 122,61 | 
-für das dritte und jedes weitere zu berücksichtigende Kind um | 382,03 | 
+für das zweite zu berücksichtigende Kind um | 124,33 | 
+für das dritte und jedes weitere zu berücksichtigende Kind um | 387,38 | 
 Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 |  | 
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind |  | 
 in den Besoldungsgruppen A 3 bis A 5 um je | 5,11 | 

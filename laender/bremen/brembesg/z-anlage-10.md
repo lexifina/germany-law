@@ -3,19 +3,19 @@ Anlage 10
 Besoldungsordnung C
 Grundgehaltssätze
 (Monatsbeträge in Euro)
-Gültig ab 01. Januar 2020
+Gültig ab 01. Januar 2021
 Besol- dungs- gruppe |  |  |  |  |  |  | Erfahrungsstufe |  |  |  |  |  |  | Besol- dungs- gruppe |  | 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  | 
-C 1 | 3.710,19 | 3.833,02 | 3.956,00 | 4.078,96 | 4.202,61 | 4.328,05 | 4.453,47 | 4.578,92 | 4.704,34 | 4.829,79 | 4.955,23 | 5.080,65 | 5.206,12 | 5.331,56 |  | C 1
-C 2 | 3.717,70 | 3.913,69 | 4.109,67 | 4.308,41 | 4.508,31 | 4.708,21 | 4.908,14 | 5.108,04 | 5.307,93 | 5.507,88 | 5.707,75 | 5.907,66 | 6.107,56 | 6.307,49 | 6.507,40 | C 2
-C 3 | 4.072,83 | 4.297,27 | 4.523,63 | 4.750,00 | 4.976,36 | 5.202,70 | 5.429,05 | 5.655,40 | 5.881,77 | 6.108,10 | 6.334,46 | 6.560,84 | 6.787,15 | 7.013,53 | 7.239,86 | C 3
-C 4 | 5.136,55 | 5.364,11 | 5.591,64 | 5.819,18 | 6.046,74 | 6.274,26 | 6.501,85 | 6.729,34 | 6.956,90 | 7.184,44 | 7.411,99 | 7.639,52 | 7.867,06 | 8.094,60 | 8.322,13 | C 4
+C 1 | 3.762,13 | 3.886,68 | 4.011,38 | 4.136,07 | 4.261,45 | 4.388,64 | 4.515,82 | 4.643,02 | 4.770,20 | 4.897,41 | 5.024,60 | 5.151,78 | 5.279,01 | 5.406,20 |  | C 1
+C 2 | 3.769,75 | 3.968,48 | 4.167,21 | 4.368,73 | 4.571,43 | 4.774,12 | 4.976,85 | 5.179,55 | 5.382,24 | 5.584,99 | 5.787,66 | 5.990,37 | 6.193,07 | 6.395,79 | 6.598,50 | C 2
+C 3 | 4.129,85 | 4.357,43 | 4.586,96 | 4.816,50 | 5.046,03 | 5.275,54 | 5.505,06 | 5.734,58 | 5.964,11 | 6.193,61 | 6.423,14 | 6.652,69 | 6.882,17 | 7.111,72 | 7.341,22 | C 3
+C 4 | 5.208,46 | 5.439,21 | 5.669,92 | 5.900,65 | 6.131,39 | 6.362,10 | 6.592,88 | 6.823,55 | 7.054,30 | 7.285,02 | 7.515,76 | 7.746,47 | 7.977,20 | 8.207,92 | 8.438,64 | C 4
 Zulagen C-Besoldung
 (Monatsbeträge in Euro)
 Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil |  |  | 
 Bundesbesoldungsordnung C |  | Nummer 3 |  | Nummer 5 |  |  |  | 
 Vorbemerkungen |  |  | Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe**) |  | wenn ein Amt ausgeübt wird | 205,54 | 
-Nummer 2 b | 96,96 |  |  |  |  | der Besoldungsgruppe R 1 | 230,08 | 
+Nummer 2 b | 98,32 |  |  |  |  | der Besoldungsgruppe R 1 | 230,08 | 
  |  |  |  |  |  | der Besoldungsgruppe R 2 |  | 
  |  |  | für Beamte der Besoldungsgruppe(n) |  | Besoldungsgruppe | Fußnote |  | 
  |  |  |  | C 1 | A 13 | C 2 | 1 | 104,32
