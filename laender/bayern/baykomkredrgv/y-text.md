@@ -1,0 +1,1 @@
+Auf Grund von Art. 72 Abs. 5 der Gemeindeordnung für den Freistaat Bayern, Art. 66 Abs. 5 der Landkreisordnung für den Freistaat Bayern und Art. 64 Abs. 5 der Bezirksordnung für den Freistaat Bayern erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
