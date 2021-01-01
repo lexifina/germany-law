@@ -1,0 +1,17 @@
+# Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Meisterprüfungsberufsbild](0002.md)
+- [§ 3 Ziel und Gliederung der Prüfung in Teil I](0003.md)
+- [§ 4 Meisterprüfungsprojekt](0004.md)
+- [§ 5 Fachgespräch](0005.md)
+- [§ 6 Gewichtung; Bestehen der Prüfung in Teil I](0006.md)
+- [§ 7 Ziel und Gliederung der Prüfung in Teil II](0007.md)
+- [§ 8 Handlungsfeld „Anforderungen von Kunden eines Bürsten- und Pinselmacher-Betriebs analysieren, Lösungen erarbeiten und anbieten“](0008.md)
+- [§ 9 Handlungsfeld „Produkte eines Bürsten- und Pinselmacher-Betriebs herstellen, kontrollieren und übergeben“](0009.md)
+- [§ 10 Handlungsfeld „Einen Bürsten- und Pinselmacher-Betrieb führen und organisieren“](0010.md)
+- [§ 11 Gewichtung; Bestehen der Prüfung in Teil II](0011.md)
+- [§ 12 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0012.md)
+- [§ 13 Übergangsvorschrift](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
