@@ -115,7 +115,7 @@
 | § 23 | Erbringung von Ausgleichsleistungen |
 | § 23a | Genehmigung der Entgelte für den Netzzugang |
 | § 24 | Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung |
-| § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte |
+| § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse |
 | § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen |
 | § 26 | Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Speicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
 | § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen |
@@ -316,4 +316,3 @@
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
 | Anlage (zu § 13g) | Berechnung der Vergütung |
-| Anlage 2 (zu § 13g) | Vergütung Sicherheitsbereitschaft |

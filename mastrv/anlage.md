@@ -94,7 +94,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.1.12 | Präqualifikation Regelleistung |  | P*11 |  | V*2 |  |  |
 | II.1.1.13 | Fernsteuerbarkeit durch Netzbetreiber, Direktvermarkter und Dritte |  | P |  |  | NP | NP nur bei Fernsteuerbarkeit durch den Netzbetreiber |
 | II.1.1.14 | Art der Einspeisung |  | P |  |  |  |  |
-| II.1.1.15 | Technologie der Stromerzeugung |  | R |  |  |  | WI: [I]: P, [II]: P.SO: /.BI: [I]: P.GS: [II]: P. |
+| II.1.1.15 | Technologie der Stromerzeugung |  | R |  |  |  | WI: [I]: P, [II]: P. SO: /. BI: [I]: P. GS: [II]: P. SP: [I]: R |
 | II.1.1.16 | Energieträger | R | R |  |  | NP |  |
 | II.1.1.17 | Hauptbrennstoff | R | R |  |  |  | WI: [I]: /, [II]: /.SO: [I]: /, [II]: /.BI: [I]: /. |
 | II.1.1.18 | Grenzkraftwerk |  |  |  |  |  | WA: [II]: P*11.VE: [II]: P*11.SSP: [II]: P*11*13 |
@@ -104,7 +104,8 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.1.22 | vom Anschlussnetzbetreiber vergebene Identifikationsnummer |  | P |  |  |  |  |
 | II.1.1.23 | MaStR-Nummer des Anlagenbetreibers | A | A |  |  |  |  |
 | II.1.1.24 | Registrierungsdatum | A | A |  |  |  |  |
-| II.1.1.25 | Anlage nach dem EEG 2017 |  | R |  |  |  | VE: [II] |
+| II.1.1.25 | Anlage nach dem EEG |  | R |  |  |  | VE: [II] |
+| II.1.1.26 | Datum des Betreiberwechsels |  |  |  |  |  | R bei Betreiberwechsel |
 | II.1.2 Zusätzliche Daten zu Genehmigungen (nur bei Projekten und Neueinheiten) |
 | II.1.2.1 | Art der Genehmigung | R | P |  |  |  |  |
 | II.1.2.2 | Genehmigungsdatum | R | P |  |  |  |  |
@@ -185,16 +186,15 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.2.1 Allgemeine Daten |
 | II.2.1.1 | EEG-Anlagenschlüssel |  | P |  |  | NP |  |
 | II.2.1.2 | installierte Leistung |  | R |  |  | NP |  |
-| II.2.1.3 | Inbetriebnahmedatum nach EEG 2017 |  | R |  |  | NP |  |
+| II.2.1.3 | Inbetriebnahmedatum nach EEG |  | R |  |  | NP |  |
 | II.2.1.4 | Nummer aus Anlagenregister oder PV-Melderegister |  | P*9 |  |  |  |  |
 | II.2.1.5 | Registrierungsdatum | A | A | A |  |  |  |
-| II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG 2017 |
+| II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG |
 | II.2.2.1 | Zuschlagsnummer |  | P |  |  |  |  |
 | II.2.2.2 | zugeordnete Gebotsmengen |  |  |  |  |  | SO: [II],: P. |
 | II.2.3 Zusätzliche Daten zu Solaranlagen |
-| II.2.3.1 | beabsichtigte Inanspruchnahme von Zahlungen nach § 19 Absatz 1 EEG 2017 |  | R | R |  | NP |  |
-| II.2.3.2 | Datum nach § 23b Absatz 2 Nummer 1 EEG 2017 |  |  |  |  | NP | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
-| II.2.3.3 | Registrierungsdatum Mieterstromzuschlag |  | A |  |  |  | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
+| II.2.3.1 | Datum nach § 23b Absatz 2 Nummer 1 EEG 2017 oder EEG 2021 |  |  |  |  | NP | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
+| II.2.3.2 | Registrierungsdatum Mieterstromzuschlag |  | A |  |  |  | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
 | II.2.4 Zusätzliche Daten zu Biomasse-Anlagen |
 | II.2.4.1 | ausschließliche Verwendung von Biomasse nach Biomasseverordnung |  | P |  |  |  |  |
 | II.2.4.2 Zusätzliche Daten bei Inanspruchnahme Flexibilitätsprämie von Biogasanlagen |
