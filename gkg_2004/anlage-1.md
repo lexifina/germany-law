@@ -655,8 +655,8 @@ dem Gesetz über die internationale Rechtshilfe in Strafsachen
 | Vorbemerkung 3.9.1: Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen. |
 | 3910 | Verfahren über den Einspruch gegen die Entscheidung der Bewilligungsbehörde: Der Einspruch wird verworfen oder zurückgewiesen .......... | 54,00 € |
 |  | Wird auf den Einspruch wegen fehlerhafter oder unterlassener Umwandlung durch die Bewilligungsbehörde die Geldsanktion umgewandelt, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. Dies gilt auch, wenn hinsichtlich der Höhe der zu vollstreckenden Geldsanktion von der Bewilligungsentscheidung zugunsten des Betroffenen abgewichen wird. |  |
-| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG: Der Antrag wird verworfen.......... | 30,00 € |
-| 3912 | Verfahren über die Rechtsbeschwerde: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 75,00 € |
+| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG: Der Antrag wird verworfen.......... | 33,00 € |
+| 3912 | Verfahren über die Rechtsbeschwerde: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 81,00 € |
 |  | (1) Die Anmerkung zu Nummer 3910 gilt entsprechend. (2) Die Gebühr entfällt bei Rücknahme der Rechtsbeschwerde vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 2 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 | 3920 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 33a, 311a Abs. 1 Satz 1, § 356a StPO, auch i. V. m. § 55 Abs. 4, § 92 JGG und § 120 StVollzG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |

@@ -234,7 +234,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 | 3315 | Tätigkeit auch im Verfahren über den Schuldenbereinigungsplan:Die Verfahrensgebühr 3313 beträgt .................. | 1,5 |
 | 3316 | Tätigkeit auch im Verfahren über den Schuldenbereinigungsplan:Die Verfahrensgebühr 3314 beträgt .................. | 1,0 |
 | 3317 | Verfahrensgebühr für das Insolvenzverfahren ........ | 1,0 |
-|  | Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO in einem Verfahren nach dem StaRUG und im Verfahren über Anträge nach Artikel 36 Abs. 9 der Verordnung (EU) 2015/848. |  |
+|  | Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO, in einem Verfahren nach dem StaRUG und im Verfahren über Anträge nach Artikel 36 Abs. 9 der Verordnung (EU) 2015/848. |  |
 | 3318 | Verfahrensgebühr für das Verfahren über einen Insolvenzplan ...................................... | 1,0 |
 | 3319 | Vertretung des Schuldners, der den Plan vorgelegt hat: Die Verfahrensgebühr 3318 beträgt .................. | 3,0 |
 | 3320 | Die Tätigkeit beschränkt sich auf die Anmeldung einer Insolvenzforderung:Die Verfahrensgebühr 3317 beträgt .................. | 0,5 |
