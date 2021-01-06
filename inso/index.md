@@ -427,6 +427,7 @@ Planerfüllung
 - [§ 293 Vergütung des Treuhänders](0293.md)
 - [§ 294 Gleichbehandlung der Gläubiger](0294.md)
 - [§ 295 Obliegenheiten des Schuldners](0295.md)
+- [§ 295a Obliegenheiten des Schuldners bei selbständiger Tätigkeit](0295a.md)
 - [§ 296 Verstoß gegen Obliegenheiten](0296.md)
 - [§ 297 Insolvenzstraftaten](0297.md)
 - [§ 297a Nachträglich bekannt gewordene Versagungsgründe](0297a.md)
