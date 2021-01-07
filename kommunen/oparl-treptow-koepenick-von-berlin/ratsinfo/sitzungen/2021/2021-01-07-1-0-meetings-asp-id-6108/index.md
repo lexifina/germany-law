@@ -1,0 +1,55 @@
+# 49. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-01-07T18:00:00+01:00
+- Ende: 2021-01-07T20:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6108
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6108
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Sonderthemen - (offen)
+- TOP 4.1: Konzeptentwurf zur personellen und inhaltlichen Weiterentwicklung des Ordnungsamtes (siehe Drs. VIII/1071) - erledigt
+- TOP 4.2: Vorstellung des Verkehrskonzepts des Impfzentrums in der Arena Treptow - erledigt
+- TOP 5: Überweisungen aus der BVV - (offen)
+- TOP 5.1: Stellungnahmen - (offen)
+- TOP 5.1.1: Umweltzone ausweiten - vertagt
+- TOP 5.1.2: Verkehrsgutachten Wendenschloß - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.1.3: Verkehrskonferenz für den Südosten Berlins - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2: Beschlussempfehlungen - (offen)
+- TOP 5.2.1: Durchfahrtverbot für Lkw in Oberschöneweide - vertagt
+- TOP 5.2.2: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.3: Für Leben im toten Winkel – Trixi-Spiegel gegen Abbiegeunfälle - vertagt
+- TOP 5.2.4: Sicherheit der Fußgänger bei der Fahrbahnquerung zu jeder Zeit gewährleisten - im Ausschuss abgelehnt
+- TOP 5.2.5: Verkehrssicherheit an der Lohmühlenstraße verbessern - vertagt
+- TOP 5.2.6: Behindertengerechter Umbau der Kreuzung Buntzelstraße / Waltersdorfer Straße / Schulzendorfer Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.7: Kurzzeitparkplätze vor dem Friedhof in Bohnsdorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.8: Radweg in der Waltersdorfer Straße in Bohnsdorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.9: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2.10: Schulwegsicherheit Grundschule am Berg - vertagt
+- TOP 5.2.11: Tempo 30 in der Baumschulenstraße - vertagt
+- TOP 5.2.12: Heidelberger Straße vom Durchgangsverkehr befreien - vertagt
+- TOP 5.2.13: Sicher über den Britzer Verbindungskanal radeln - vertagt
+- TOP 5.2.14: Ausbau des Fahrradwegs in Neu-Venedig - vertagt
+- TOP 5.2.15: Kurzzeitparkplatz Altglienicke - vertagt
+- TOP 5.2.16: Radinfrastrukturanalyse vorlegen - vertagt
+- TOP 5.2.17: Bouchéstraße fußgänger- und fahrradfreundlich gestalten - vertagt
+- TOP 5.2.18: LKW-Durchgangsverkehr raus aus Oberschöneweide - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Stellungnahmen / Empfehlungen zu Schlussberichten - (offen)
+- TOP 5.3.1: Neubau einer Brücke über die Dahme - vertagt
+- TOP 5.3.2: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 5.3.3: Schöner Fahrradparken - vertagt
+- TOP 5.3.4: Bürgerhaus Altglienicke sichtbar machen - vertagt
+- TOP 5.3.5: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5.3.6: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 5.3.7: Veränderung der Verkehrsführung in Adlershof - vertagt
+- TOP 5.3.8: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - vertagt
+- TOP 5.3.9: Sichere Querung des Fürstenwalder Damms - vertagt
+- TOP 6: Sonstiges - erledigt
