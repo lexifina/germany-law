@@ -1,0 +1,30 @@
+# Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2021
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-365/2020 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-01-07
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYk0eP547zFYecyM8qbBFuE
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/719
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTpJE-FkGcQ7R600OdG2GOjOPT2_CIly6AN14TRB77Z4/Beschlussvorlage_VL-365-2020_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Inhaltsverzeichnis Haushalt 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ8lLk5TxjV6sgGihtXIC-nzmvqIAn86p9WKeb1bGAz2/Inhaltsverzeichnis_Haushalt_2021.pdf
+- Anlage: Beschlussvorlage (Haushaltsvorbericht 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb7gwFP_wp4QFH8RWADoXVAFpyh8aPbRf4Lmvx9m_L1z/Haushaltsvorbericht_2021.pdf
+- Anlage: Beschlussvorlage (Finanzstatusbericht) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQpdIpAqXv8TO17mdS6anDTwqB_x5uFPhJtPpTbtd-pC/Finanzstatusbericht.pdf
+- Anlage: Beschlussvorlage (Übersicht über die Budgets) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdWKBS5ORhv8HDpnGhpBP1FtD5wsW9XO5r1GAhuRrwZa/Uebersicht_ueber_die_Budgets.pdf
+- Anlage: Beschlussvorlage (Grundsätze für die Budgetierung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbk3kbVs0EskfZRbgtqJjv5SQQSitaaXddOtBjcKQhKi/Grundsaetze_fuer_die_Budgetierung.pdf
+- Anlage: Beschlussvorlage (Produktbereichsplan 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQf4blF3NV444RHwVlt8t4YtcIn9idYGTi169IGZlmHJ/Produktbereichsplan_2021.pdf
+- Anlage: Beschlussvorlage (Übersicht Verpflichtungsergmächtigungen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe6syertUu_RfvJQONn50QWKHKY16T1GVKWytgsVJuiF/Uebersicht_Verpflichtungsergmaechtigungen.pdf
+- Anlage: Beschlussvorlage (Übersicht Stand der Verbindlichkeiten) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRevcnNBL7LPHb2lEOEqHZumlaiZLXvmA8VTGB85iPT/Uebersicht_Stand_der_Verbindlichkeiten.pdf
+- Anlage: Beschlussvorlage (Übersicht Stand Rücklagen Rückstellungen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWVjgK5uYGGafs8z39a7gIEIU4mY0ke8CIzXinUsme7x/Uebersicht_Stand_Ruecklagen_Rueckstellungen.pdf
+- Anlage: Beschlussvorlage (Übersicht Fraktionsmittel) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfyusntEx5z-Q1I-Ti17IDs-N3YrBLtvk_o8EY5Xsbmx/Uebersicht_Fraktionsmittel.pdf
+- Anlage: Beschlussvorlage (JA 2019) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQla5yAum-AZ0z1hh5TEqVN9S7pBsm1aV6Y4op0TzG3G/JA_2019.pdf
+- Anlage: Beschlussvorlage (Haushalt 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWMGeYXupArUvyUSKlrAluz1oSCYoj7iT4hQGZRbHdf_/Haushalt_2021.pdf
+- Anlage: Beschlussvorlage (Stellenplan 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSVHoCIebKrJ14yBu90toWgP2DGzVxaR6dzxRPpqVXWY/Stellenplan_2021.pdf
+- Anlage: Beschlussvorlage (Haushaltssatzung 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZGCiEUASX326lcEUpTJpfhTFwU2BhN_E4cDaQ1EMA_1/Haushaltssatzung_2021.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/735 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/740 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/747 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/757 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/765 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
