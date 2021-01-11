@@ -1,0 +1,98 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-01-11T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354102
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354102
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Barrierefreier Zugang auf die S-Bahn-Station Mittersendling
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Wertstoffcontainer an der Brudermühlstraße 51
+- TOP 2.4.: Zwei Anliegen an den Bezirksausschuss Verkehrslärm an der Radlkofferstraße Vollzug der Parkverbote im Oktoberfesteinzugsgebiet
+- TOP 2.5.: Obdachlose an der Schulsporthalle an der Gaißacher Straße
+- TOP 2.6.: Fahrradabstellplätze in Sendling
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Fallstraße 34
+- TOP 4.2.2.: Baumfällungen Karwendelstraße 42 - 48
+- TOP 4.2.3.: Baumfällung Lindwurmstraße 126
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Beschwerde Isar Antwort an die Bürgerin
+- TOP 4.3.2.: Bebauung des Sendlinger Pfarrgartens – in wie weit ist die Lokalbaukommission involviert?
+- TOP 4.3.3.: Vermüllung der Großmarkthalle Antwort des Kreisverwaltungsreferats
+- TOP 4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.5.: (U) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2017 - 2019 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - "Wohnen in München" (Prüfung der Miete)
+- TOP 4.3.6.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 4.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.8.: Mülltrennung in München – wie soll Müll richtig und umwelt- freundlich getrennt werden?
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Radabstellplätze in der Lindenschmitstraße
+- TOP 5.2.2.: Werbeanlage an der Brudermühlstraße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Das Ehrenamt der Schulweghelfer*innen attraktiver gestalten
+- TOP 5.3.2.: Erfahrungsbericht Radlramadama
+- TOP 5.3.3.: Grünpfeilschild mit Beschränkung auf den Radverkehr - Information zum Stand der Einführung
+- TOP 5.3.4.: Neuantrag gem. Stadtratsbeschluss "Sendlinger Hofladen" Antwort der Stadtverwaltung
+- TOP 5.3.5.: Stände Plinganserstraße nördllich Stemmerhof - Unfallgefahr - Infektionsrisiko
+- TOP 5.3.6.: Verkehrsrechtliche Anordnung Verlängerung von Halteverbot in der Zechstraße
+- TOP 5.3.7.: (U) "Interkommunales Konzept Raum München Nord" - Projektverlauf, Projektabschluss und Verstetigung
+- TOP 5.3.8.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 5.3.9.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 5.3.10.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 5.3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.12.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 5.3.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: Änderungsantrag für die Veranstaltung "Auf die Straße!"
+- TOP 6.1.2.: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Zirkuslust im Westpark vom 31.05. bis 06.06.2021 3.000,00 € / Az. 0262.0-6-0307
+- TOP 6.1.3.: (E) Stadtbezirksbudget Münchner Forum e.V. Broschürendruck „Wir alle sind München“ im Januar/Februar 2021 849,00 € / Az. 0262.0-6-0308
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Budget-Bescheide
+- TOP 6.3.2.: Abrechnung virtueller Besprechungen
+- TOP 6.3.3.: Unterausschusssitzungen im Januar 2021
+- TOP 6.3.4.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb, hier: Schreiben des bayerischen Gesundheitsministerium vom 10.12.2020 "Neue Anforderungen an Mund-Nasenbedeckung"
+- TOP 6.3.5.: Angebot einer Firma zur kostenlosen Durchführung von Corona-Schnelltests für BA-Mitglieder
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Direktoriums-Formulare in „Einfacher Sprache“
+- TOP 7.3.2.: Verlängerung der Laufzeit der Flüchtlingsunterkunft Meindlstraße 14a
+- TOP 7.3.3.: Appell des Mieterbeirats an die Bezirksausschüsse
+- TOP 7.3.4.: (U) Schließung der dezentralen Flüchtlingsunterkünfte an den Standorten Hofmannstr. 69 sowie Bayernkaserne Haus 17 (Heidemannstraße 50) zum 31.12.2020 Schließung der dezentralen Flüchtlingsunterkünfte an dem Standort Bayernkaserne Haus 18 und Haus 43 (Heidemannstraße 50) zum 30.06.2021 Verlängerung der Laufzeiten der dezentralen Flüchtlingsunterkünfte an den Standorten Bayernkaserne Haus 19 und Meindlstr. 14a über den 31.12.2020 und Hans-Thonauer-Straße 3d über den 31.12.2021 hinaus 06. Stadtbezirk - Sendling 12. Stadtbezirk - Schwabing-Freimann 19. Stadtbezirk - Thalkirchen, Obesendling, Forstenried, Fürstenried, Solln 25. Stadtbezirk - Laim
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Einrichten von Livestreams bei den Plenumssitzungen des BA 15 zum Schutz der Gesundheit sowie zum Ermöglichen der Teilhabe und der Transparenz Abdruck an die Bezirksausschüsse 1 - 25
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
