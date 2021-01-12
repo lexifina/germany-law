@@ -1,0 +1,130 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6412550
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6412550
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5.1.: Abschlussbericht AKIM
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schulwegsicherheit am Knotenpunkt Winzererstraße und Schellingstraße
+- TOP 5.2.2.: Anliegen Müll Schellingstraße
+- TOP 5.2.3.: Verkehrssituation Kaulbachstraße
+- TOP 5.2.4.: Schulwegsicherung Heßstraße/Infanteriestraße
+- TOP 5.2.5.: Markierung Zufahrt Parkplatz Steinickeweg
+- TOP 5.2.6.: Direkte Tramverbindung 12 Hohenzollernplatz – Amalienburgstr. beibehalten!
+- TOP 5.2.7.: Landgericht München Nymphenburgerstraße
+- TOP 5.2.8.: Veränderungen in der Schönfeldstr. 14 Zweckentfremdungssatzung
+- TOP 5.2.9.: Schanigarten Georgenstraße 105 als Abstellfläche
+- TOP 5.3.1.: Angebot einer Firma zur kostenlosen Durchführung von Corona-Schnelltests für BA-Mitglieder
+- TOP 5.3.2.: Strafbarkeit ehrenamtlicher BA-Mitglieder bei Entgegennahme kostenloser Corona- Schnelltests – Rechtliche Einschätzung
+- TOP 6.1.: Radroute Maillingerstraße – Lothstraße vervollständigen
+- TOP 6.2.: Einrichtung einer "Pop-up Tempo 30 Zone" in der Schellingstraße
+- TOP 6.3.: Antrag Grüne vom 04.07.2020 Großveranstaltungen auf dem Königsplatz
+- TOP 6.4.: Anhörungsrecht des Bezirksausschusses und Veranstaltungsrichtlinien für den Königsplatz
+- TOP 6.5.: Sommerstraßen in der Maxvorstadt verwirklichen
+- TOP 6.6.: Umwandlung von Straßen in verkehrsberuhigte Bereiche für die Zeit der Corona-Pandemie
+- TOP 6.7.: Blaue Infrastruktur (Schwammstadt) für die Maxvorstadt
+- TOP 6.8.: Antwort Bezirksinspektion zu Halteverbote wegen Baustelle Schellingstr. 57 Bürgerschreiben vom 02.10.2020
+- TOP 6.9.: Grüne Infrastruktur (Fassadenbegrünung) für die Maxvorstadt baldmöglichst umsetzen
+- TOP 6.10.: Möglichkeit einer Umnutzung der Unterführung am Oskar-von-Miller-Ring zu einer öffentlichen Boulderwand
+- TOP 6.11.: Winter in der Stadt – Voraussetzungen in der Maxvorstadt schaffen
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag SPD vom 14.12.2020 Maxvorstadt „Zero Waste Quarter“ zum Zweiten
+- TOP 1.2.: Antrag Grüne vom 01.01.2021 Grüne Infrastruktur für die Maxvorstadt schaffen: hier Straßenbegleitgrün als Langgraswiese anlegen
+- TOP 1.3.: Antrag Grüne vom 01.01.2021 Grüne Infrastruktur in der Maxvorstadt verbessern und mehr Flächen für die Artenvielfalt schaffen bzw. wieder herstellen: Keine Schottergärten in der Maxvorstadt zulassen!
+- TOP 1.4.: Antrag Grüne vom 01.01.2021 Grüne Infrastruktur in der Maxvorstadt umsetzen! hier: Fassadenbegrünung für das Heizkraftwerk in der Theresienstraße 36
+- TOP 2.1.1.: Baulisten der LBK: 48., 49., 50. und 51. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 47. und 48.KW, 49. und 50. KW
+- TOP 2.1.3.: Aufstellungsbeschluss Bayerischer Rundfunk (vertagt aus 12/2020)
+- TOP 2.1.4.: Linprunstr. 11-19 – TEKTUR, Neubau einer Wohnanlage (28 WE) mit TG und Auffüllung eines Tiefhofs
+- TOP 2.1.5.: Gabelsbergerstr. 28 – VORBESCHEID, Neubau eines Wohn-, Büro- und Geschäftshauses mit TG
+- TOP 2.1.6.: Barer Str. 31 – VORBESCHEID, Aufstockung eines Wohngebäudes
+- TOP 3.2.1.: Arcisstraße 21
+- TOP 3.2.2.: Tengstraße 7
+- TOP 3.2.3.: Heßstraße 45
+- TOP 3.2.4.: Heßstraße 29
+- TOP 3.2.5.: Lothstraße 16
+- TOP 5.1.: Baumflächenentfernung und Gehölzpflegemaßnahmen an Straßen und in Öffentlichen Grünflächen Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen
+- TOP 5.2.: Unterrichtung Baumfällung Ludwigstraße 2
+- TOP 5.3.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: (U) Neubau Hauptbahnhof München Fahrradparken - Sachstandbericht und weiteres Vorgehen
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Grüne vom 22.12.2020 Antrag auf verstärkte Kontrollen von Baustelleneinrichtungen auf Genehmigungszeitraum und Größe
+- TOP 1.2.: Antrag Grüne vom 27.12.2020 Mehr Grün statt Blech im öffentlichen Raum
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Geschwindigkeitsreduzierung in der Sandstraße
+- TOP 2.1.2.: Erinnerungsverfahren Augustenstraße Radwegsanierung
+- TOP 2.1.3.: Erinnerungsverfahren Theresienstraße Radwegsanierung
+- TOP 2.1.4.: Erinnerungsverfahren Gabelsbergerstraße Radwegsanierung
+- TOP 2.1.5.: Erinnerungsverfahren Elisenstraße Radwegsanierung
+- TOP 2.2.1.: Dachauer Str. 96, 1 Litfaßsäule
+- TOP 2.2.2.: Fünf Plätze attraktiv neu gestalten Platz Barer-/Nordendstraße
+- TOP 2.2.3.: Alter Nördlicher Friedhof und Alter Südlicher Friedhof Bestreifung der Friedhöfe Verfahrensvorschlag
+- TOP 2.2.4.: Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze vor dem Haus Enhuberstr. 5-7 BA-Antrag Nr. 20-26/ B 00914 vom 13.10.2020
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 3.3.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 3.4.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 3.5.: Erfahrungsbericht Radlramadama
+- TOP 3.6.: Kreisverwaltungsreferat, Antrag auf unveränderte Fortführung eines Betriebes a) Ottostr. 5
+- TOP 3.7.: (U) Circular Munich – Kreislaufwirtschaft für ein nachhaltiges München Müll vermeiden - Wertstoffe nutzen II Mehr Repair-Cafés in allen Stadtquartieren Antrag Nr. 14-20 / A 06972 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Müll vermeiden - Wertstoffe nutzen VII "Zero-Waste-Pilot-Wochen" in der Städtischen Verwaltung München Antrag Nr. 14-20 / A 06978 von der Fraktion DIE GRÜNEN/RL vom 11.03.2020 Recycling / Abfallvermeidung I - richtig Recyclen Antrag Nr. 14-20 / A 06600 von der SPD-Fraktion vom 24.01.2020
+- TOP 3.8.: (U) Evaluation der temporären Radverkehrsanlagen Pop-up-Bike-Lanes verlängern StR-Antrag 20-26 / A 00550 der Stadtratsfraktion DIE LINKE./ Die PARTEI, Fraktion ÖDP / FW vom 20.10.2020
+- TOP 3.9.: Maẞnahmenpaket 1 Busbeschleunigung / Schellingstraße und Erweiterung von Ladezonen
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Räumlichkeiten für das Münchner Haus der Schüler*innen Beschluss des Bildungsausschusses des Stadtrats vom 02.12.2020, Sitzungsvorlage Nr. 20-26/V02025
+- TOP 4.2.: Kurzbericht MobilSpiel „Kicklusion – Inklusion in Bewegung im Maßmannpark“
+- TOP 4.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.5.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 4.6.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kunstraum Schwabinggrad Ausstellung „Frankfurz“ vom 15.01. - 15.02.2021 2.000,00 € / Az. 0262.0-3-0328
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Beschlussvorlage Gewährung von Zuschüssen durch den Kulturbaufonds Sitzungsvorlage Nr.20-26/V 02011
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
