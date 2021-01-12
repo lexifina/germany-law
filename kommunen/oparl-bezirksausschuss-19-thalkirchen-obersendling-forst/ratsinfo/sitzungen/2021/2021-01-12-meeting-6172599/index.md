@@ -1,0 +1,86 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-01-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172599
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172599
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Seeshaupter Str. 4 (VB)
+- TOP 6.2.2: Peretshofener Str. 7 (VB)
+- TOP 6.2.3: Hatzfelder Weg 19
+- TOP 6.2.4: Karlsbergstr. 14
+- TOP 6.2.5: Tessiner Str. 23
+- TOP 6.2.6: Scherzerstr. 1 (VB)
+- TOP 6.2.7: Feldafinger Str. 4
+- TOP 6.2.8: Sperlstr. 1a (T)
+- TOP 6.2.9: Am Lehwinkel 2
+- TOP 6.2.10: Spielmannsauer Str. 9
+- TOP 6.2.11: Schultheißstr. 14
+- TOP 6.2.12: Wolfratshauser Str. 262
+- TOP 6.2.13: Zielstattstr.10 (T)
+- TOP 6.2.14: Leuthener Str. 14 und 16
+- TOP 6.2.15: Stelznerstr. 7
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 01.12.2020
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Mieterbeiratswahl 2021
+- TOP 2.4.: (Antrag) Virtuelle UA-Sitzungen
+- TOP 2.5.: - NACHTRAG - (Antrag) Virtuelle Tagungen von kommunalen Parlamenten
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Mobilfunk; ausführliche und verständliche Information über die neue 5G-Technik
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Schallschutzmaßnahmen im ASZ Solln zügig umsetzen
+- TOP 4.4.: (A) Energetische Nutzung von zusätzlichen 10 m³/s und Einbau einer 4. Turbine im Isarwerk 1
+- TOP 4.5.: (A) Litfaßsäule Boschetsrieder Str. - Wendeschleife östlich Machtlfinger Str.
+- TOP 4.6.: (A) Litfaßsäule Grünfläche nordwestlich Ecke Boschetsrieder Str. - Höglwörther Str.
+- TOP 4.7.: (A) Litfaßsäule Christel-Küpper-Platz
+- TOP 4.8.: (A) Litfaßsäule Mittelstreifen Aidenbachstraße nördlich Hofbrunnstraße
+- TOP 4.9.: (A) Litfaßsäule Stäblistraße östlich Drygalski-Allee
+- TOP 4.10.: (A) Litfaßsäule Ecke Beuerberger / Wolfratshauser Straße
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Anbringung einer Gehwegnase in der Maria-Einsiedel-Straße Höhe Hausnummer 18/20
+- TOP 5.1.2: Errichtung von zwei E-Ladesäulen im Bereich der Grünbauerstraße / Festingstraße
+- TOP 5.1.3: Rotmarkierung der Fahrradspur in der Einmündung Georg-Strebl-Straße/Wolfratshauser Straße
+- TOP 5.1.4: Errichten eines Zauns auf dem Mittelstreifen der Drygalski-Allee beim Thomas-Mann-Gymnasium
+- TOP 5.2.: Aktuelle Situation: Parkraummanagement Thalkirchen
+- TOP 5.3.: (Antrag) Ampelschaltung Graubündener Str. / Neurieder Str.
+- TOP 5.4.: (Antrag) Vorfahrtsregelung Großhesseloher Str. / Josephinenstr.
+- TOP 5.5.: (Antrag) Grüner Pfeil für Abbieger Siemensallee → Baierbrunner Str.
+- TOP 5.6.: (Antrag) Anwohnerparkgebiet Fürstenried Ost
+- TOP 5.7.: (Antrag) Zusätzliche Bushaltestelle Linie 63 Ecke Aidenbachstr. / Becker-Gundahl-Str.
+- TOP 5.8.: (Antrag) Querungshilfe Kreuzung Weltistr. / Gulbranssonstr.
+- TOP 5.9.: (Antrag) Parkplatzsituation Allgäuer Str. / Sonthofener Str.
+- TOP 5.10.: (Antrag) Gefahrensituation Ecke Kemptener Str. / Allgäuer Str.
+- TOP 5.11.: (Antrag) Gefahren durch Gehwegparker in Solln
+- TOP 5.12.: (Antrag) Lkw-Parkverbots in der Graubündener Straße
+- TOP 5.13.: (A) Aufhebung Radwegbenutzungspflicht Hofmannstraße
+- TOP 5.14.: (A) Aufhebung Radwegbenutzungspflicht Kistlerhofstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Bauleitplanverfahren „Dr.-Gustav-Adolph-Straße“ Gemeinde Pullach
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Erhöhung des Zauns rund um den Basketballplatz Südseite Obersendling
+- TOP 7.2.: (A) Bewerbung zum REGSAM-Schwerpunktthema INKLUSION ab 2021
+- TOP 7.3.: - NACHTRAG - (Antrag) Internet-Anschluss Wohnprojekt BEO Junges Quartier Obersendling
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
