@@ -1,0 +1,60 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-12T15:00:00+01:00
+- Ende: 2021-01-12T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23383
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23383
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführerin / eines Schriftführers - ungeändert beschlossen
+- TOP 2: Tonaufzeichnung der Sitzungen des Integrationsrates - ungeändert beschlossen
+- TOP 3: Wahlen
+- TOP 3.1: Benennung der Stimmzähler/innen gemäß § 11 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln
+- TOP 3.2: Wahl der/des Vorsitzenden des Integrationsrates
+- TOP 3.3: Einführung und Verpflichtung der/des Vorsitzenden des Integrationsrates gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP 3.4: Wahl der fünf stellvertretenden Vorsitzenden des Integrationsrates
+- TOP 3.5: Einführung und Verpflichtung der stellvertretenden Vorsitzenden des Integrationsrates gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP 4: Einführung und Verpflichtung der Mitglieder des Integrationsrates gemäß § 5 Hauptsatzung der Stadt Köln
+- TOP 5: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 6: Gleichstellungsrelevante Themen
+- TOP 7: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 7.1: Beantwortung einer Anfrage zum Polizeieinsatz am Kölner Hauptbahnhof am 9.5.2020 - AN/0655/2020 - zurückgestellt
+- TOP 7.2: Beantwortung von Anfragen zum 27. Bericht zur Situation Geflüchteter / 0417/2020 - zurückgestellt
+- TOP 7.3: Beantwortung der Anfrage AN/0518/2020 Sucht und Migration – Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migranten und Migrantinnen in Kölner Kliniken, LVR-Kliniken - zurückgestellt
+- TOP 8: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 8.1: Auswirkungen der Corona-Pandemie auf die Arbeitsmarktintegration und die Bleiberechte von Geflüchteten
+- TOP 8.2: Nachfrage zur Beantwortung einer mündlichen Anfrage zum 27. Bericht zur Situation Geflüchteter aus einer früheren Sitzung
+- TOP 8.3: Umsetzung des kommunalen Integrationsmanagements
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion, Session Nr. 0024/2021; "Umsetzung des Kommunalen Integrationsmanagements" - zurückgestellt
+- TOP 9: Mitteilungen
+- TOP 9.1: Inklusionsbericht 2019 - zurückgestellt
+- TOP 9.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - zurückgestellt
+- TOP 9.3: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - zurückgestellt
+- TOP 9.4: Preisträgerinnen und Preisträger des "Miteinander Preis Köln für Demokratie und Vielfalt" - zurückgestellt
+- TOP 9.5: 30. Bericht zur Situation Geflüchteter - zurückgestellt
+- TOP 9.6: Mitteilung zum 8. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 9.7: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - zurückgestellt
+- TOP 9.8: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - zurückgestellt
+- TOP 9.9: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 9.10: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 9.11: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - zurückgestellt
+- TOP 9.12: Umbau, Modernisierung und Erweiterung Bürgerhaus MüTZe, Köln-Mülheim; Interimsbetrieb "MüTZe plus" 2021 -2023 - zurückgestellt
+- TOP 10: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 11: Berichte
+- TOP 11.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 11.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 12: Beschlussvorlagen
+- TOP 12.1: Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Baubeschluss - ungeändert beschlossen
+- TOP 12.2: Benennung von sachkundigen Einwohnerinnen/sachkundigen Einwohnern in Ratsausschüssen - ungeändert beschlossen
+- TOP 12.3: Verteilung der Fördermittel 2021 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 12.4: Förderung rassismuskritischer Projekte/1.Schritt - ungeändert beschlossen
+- TOP 12.5: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 12.6: Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2021 - ungeändert beschlossen
+- TOP 13: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 14: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
