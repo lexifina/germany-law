@@ -1,0 +1,60 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-13T18:00:00+01:00
+- Ende: 2021-01-13T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19828
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/19828
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Sitzung 13.01.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395779.pdf
+- Ergebnisprotokoll: Öffentliche Sitzung 13.01.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395779.pdf
+- Wortprotokoll: Öffentliche Sitzung 13.01.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00395779.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 08.06.2020 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 16.09.2020 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktion Die Linke: Tempo 30 im gesamten Düsseldorfer Stadtgebiet einführen - mehrheitlich abgelehnt
+- TOP 5.2: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/422/2020 - mehrheitlich abgelehnt
+- TOP 5.3: Änderungsantrag der SPD/Volt-Ratsfraktion zum Antrag der Ratsfraktion DIE LINKE „Tempo 30 im gesamten Stadtgebiet“ (Vorlage RAT/422/2020) zur Sitzung des Ordnungs-und Verkehrsausschusses der Landeshauptstadt Düsseldorf am 13.01.2021 - mehrheitlich abgelehnt
+- TOP 5.4: Ergänzungsantrag der SPD/Volt-Ratsfraktion zum Antrag der Ratsfraktion DIE LINKE „Tempo 30 im gesamten Stadtgebiet“ (Vorlage RAT/422/2020) zur Sitzung des Ordnungs-und Verkehrsausschusses der Landeshauptstadt Düsseldorf am 13.01.2021 - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Vorstellung des Dezernates für Recht, Ordnung und Wohnen sowie des Ordnungsamtes - zur Kenntnis genommen
+- TOP 8: „Audit Familiengerechte Kommune" - Workshop-Dokumentation im Erhaltungszertifikat - vertagt
+- TOP 9: Bebauungsplan-Entwurf Nr.01/014 - Schwannstraße/Hochpunkt - Empfehlung mehrheitlich beschlossen
+- TOP 10: Fragestellungen zum Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 11: Lärmaktionsplan III für Düsseldorf - passieren lassen
+- TOP 12: I Beendigung Testbetriebs Umweltspuren und Evaluationsbericht sowie Ersatz durch weiterentwickelte, adäquate Alternativmaßnahmen zur Luftreinhaltung, II Ergänzende Maßnahmen zur weiteren Verbesserung der Luftqualität - vertagt
+- TOP 13: Modellvorhaben "Verkehrsinformation und dynamische Umweltsensitive Steuerung (VinDUS)" im Rahmen des Förderprogramms "Digitalisierung Kommunaler Infrastruktur" des BMVI - einstimmig beschlossen
+- TOP 14: Radweg Joseph-Beuys-Ufer – Ergebnis der verkehrlichen Prüfung der ADFC-Skizze - zur Kenntnis genommen
+- TOP 15: Ausführungs- und Finanzierungsbeschluss Radverkehrsanlagen Joseph-Beuys-Ufer - Empfehlung abweichend beschlossen
+- TOP 16: Cäcilienstraße / Forststraße - Einrichtung von Radwegeanlagen -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 17: Bericht zum aktuellen Stand der Fahrradförderung und Ausblick auf geplante Maßnahmen und mögliche Strategien zur Beschleunigung des Ausbaus der Fahrradinfrastruktur - vertagt
+- TOP 18: Ludenberger Straße - Barrierefreier Ausbau der Haltestelle Pöhlenweg - einstimmig beschlossen
+- TOP 19: Knoten Hammer Straße / Zollhof / Wupperstraße - Anlage eines Kreisverkehrs - zurückgezogen
+- TOP 20: Maßnahmen zur Lärmreduzierung und Erhöhung der Verkehrssicherheit auf der Bonner Straße - einstimmig beschlossen
+- TOP 21: Sachstandsbericht über die Einrichtung Bewohnerparkgebiete und die Bedienmöglichkeiten neuer Parkscheinautomaten - vertagt
+- TOP 22: Antrag der Bezirksvertretung 5: Planung und Bau des ersten Abschnittes der U 81 überdenken! - vertagt
+- TOP 23: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2021 - passieren lassen
+- TOP 24: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 25: Haushaltsänderungsanträge
+- TOP 25.1: Einstellung von 4 Radverkehrsplaner:innen für die Stadt Düsseldorf -Haushaltsänderungsantrag der Ratsfraktion Die Linke- - passieren lassen
+- TOP 25.2: Mittel für den Bau von Radwegen erhöhen -Haushaltsänderungsantrag der Ratsfraktion Die Linke. - passieren lassen
+- TOP 25.3: Städtisches Fußverkehrskonzept -Haushaltsänderungsantrag der Ratsfraktion Die Linke- - passieren lassen
+- TOP 25.4: Ausgaben für die Anschaffung und Ausbildung am „Einsatzstock, kurz, ausziehbar“, abgekürzt EKA abschaffen -Haushaltsänderungsantrag der Ratsfraktion Die Linke- - passieren lassen
+- TOP 25.5: Mittel für die Aufstellung von Bänken erhöhen -Haushaltsantrag der Ratsfraktion Die Linke- - passieren lassen
+- TOP 25.6: Keine Haushaltsmittel für den 2. Bauabschnitt Stadtbahn U81 -Haushaltsänderungsantrag der Ratsfraktion Die Linke- - passieren lassen
+- TOP 26: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für das Jahr 2021 - passieren lassen
+- TOP 27: Haushaltsplanentwurf des Ordnungsamtes für das Jahr 2021 - passieren lassen
+- TOP 28: Veranstaltungen Burgplatz – Verlängerung Aussichtsrad „Wheel of Vision“ 2021 - einstimmig beschlossen
+- TOP 29: Sondernutzung öffentlicher Straßen für Zwecke der Außengastronomie, hier: Befreiung von Benutzungsgebühren - Empfehlung einstimmig beschlossen
