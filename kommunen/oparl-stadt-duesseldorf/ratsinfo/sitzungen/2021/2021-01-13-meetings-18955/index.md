@@ -1,0 +1,51 @@
+# Ausschuss für Gesundheit und Soziales
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-13T15:02:00+01:00
+- Ende: 2021-01-13T16:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/9
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18955
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18955
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00396098.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00396098.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00396098.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift SI-AGS/06/2020: Ausschuss für Gesundheit und Soziales am 16.09.2020 - einstimmig beschlossen
+- TOP 3: Schriftliche Sachstandsberichte zum Thema Corona - zur Kenntnis genommen
+- TOP 3.1: Gesundheitsamt - zur Kenntnis genommen
+- TOP 3.2: Amt für Migration und Integration - zur Kenntnis genommen
+- TOP 3.3: Amt für Soziales - zur Kenntnis genommen
+- TOP 3.4: liga wohlfahrt düsseldorf - zur Kenntnis genommen
+- TOP 3.5: Jobcenter Düsseldorf - zur Kenntnis genommen
+- TOP -: Amt für Migration und Integration
+- TOP 4: Beschluss über de Zusammenführung der Humanitären Hilfen für wohnungslose EU-Bürgerinnen und Bürger in Düsseldorf und der Winternothilfe für obdachlose Menschen in ein ganzjähriges Angebot - passieren lassen
+- TOP -: Gesundheitsamt
+- TOP 5: Teil b) der Beschlussvorlage: Einrichtung und Betrieb von dezentralen Hilfezentren für Menschen mit Opioidabhängigkeit - mehrheitlich abgelehnt
+- TOP -: Haushaltsberatungen 2021
+- TOP 6: Etatrede des Herrn Stadtdirektor Hintzsche - zur Kenntnis genommen
+- TOP 7: Entwurf Haushaltsplan 2021, hier: Amt für Soziales - mehrheitlich beschlossen
+- TOP -: Haushaltsantrag der FDP-Ratsfraktion, Eingang am 16.12.2020, hier: Ergänzungsantrag der FDP-Ratsfraktion zu den Haushaltsberatungen 2021 Hier: Evangelische Oster-Kirchengemeinde Düsseldorf Projekt „Nachbarschaft stiften" - passieren lassen
+- TOP -: Haushaltsantrag des Seniorenrates, Eingang am 29.09.2020, hier: Einrichtung einer zentralen Telefonnummer für Seniorinnen und Senioren - Antrag zu den Haushaltsberatungen 2021 - passieren lassen
+- TOP -: Haushaltsantrag der SPD/Volt-Ratsfraktion, hier: Ausbau von bis zu vier „zentren plus“ Dependancen in 2021 - passieren lassen
+- TOP -: Haushaltsantrag der Ratsfraktion die LINKE, hier: Kreis der Düsselpass-Berechtigten krisengerecht erweitern - passieren lassen
+- TOP -: Haushaltsantrag der Ratsfraktion die LINKE, hier: Bezahlbares Sozialticket anbieten - passieren lassen
+- TOP -: Haushaltsantrag der Ratsfraktion die LINKE, hier: Einmalige Anschaffungen bei der Grundsicherung für Arbeitssuchende - passieren lassen
+- TOP -: Änderungsantrag der SPD/Volt-Ratsfraktion zum Ergänzungsantrag der FDP-Ratsfraktion (AGS/079/2020) Evangelische Oster-Kirchengemeinde Düsseldorf Zuschussantrag Nr. 1 für das Projekt "Nachbarschaft stiften" - passieren lassen
+- TOP 8: Entwurf Haushaltsplan 2021, hier: Amt für Migration und Integration - mehrheitlich beschlossen
+- TOP -: Haushaltsantrag der Ratsfraktion die LINKE, hier: Keine Unterstützung bei Abschiebungen - passieren lassen
+- TOP -: INTR/044/2021 Haushaltsantrag der SPD-Fraktion, SPD-Internationalen Liste, der Griechischen Initiative, Die LINKE: Erhöhung der Haushaltsmittel für die vom Integrationsrat anerkannten Migrantenselbstorganisationen - passieren lassen
+- TOP -: INTR/045/2021 Haushaltsantrag der SPD-Fraktion, SPD-Internationalen Liste, der Griechischen Initiative, Die LINKE: Erhöhung der Haushaltsmittel für niedrigschwellige Sprachkurse - passieren lassen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Entwurf Haushaltsplan 2021, hier: Gesundheitsamt - mehrheitlich beschlossen
+- TOP -: Haushaltsantrag der PARTEI-Klima-Fraktion zur Zuwendung an den Flingern mobil e.V. - passieren lassen
+- TOP -: Fachübergreifende Themen
+- TOP 11: Besetzung des örtlichen Beirates der gemeinsamen Einrichtung (Jobcenter) - einstimmig beschlossen
+- TOP 12: Gremienbesetzung nach der Kommunalwahl – hier: Besetzung des Lenkungskreises Kommunale Beschäftigungsförderung - einstimmig beschlossen
+- TOP 13: „Audit Familiengerechte Kommune" - Workshop-Dokumentation im Erhaltungszertifikat - zur Kenntnis genommen
+- TOP 14: Verschiedenes - zur Kenntnis genommen
