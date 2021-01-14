@@ -1,0 +1,84 @@
+# 01. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-14T15:30:00+01:00
+- Ende: 2021-01-14T16:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23384
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23384
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers im Ausschuss Soziales und Senioren - ungeändert beschlossen
+- TOP -: Aufzeichnung der Sitzungen des Ausschuss Soziales und Senioren - ungeändert beschlossen
+- TOP -: Verpflichtung sachkundiger Bürger*innen und Einwohner*innen - Sache ist erledigt
+- TOP -: mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - zurückgestellt
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Aus der Arbeit des Behindertenbeauftragten
+- TOP 2.2.1: Inklusionsbericht 2019 - zurückgestellt
+- TOP 2.2.2: Bericht des Behindertenbeauftragten 1-2021: Informations- und Werbekampagne zur Kölner Behindertenpolitik - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Eine Armutskonferenz für Köln – ein Leben in Teilhabe für alle! - zurückgestellt
+- TOP 3.2: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - Sache ist erledigt
+- TOP 3.3: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten (Ersetzungsantrag zu AN/1090/2019) - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Konzept für die SeniorenNetzwerke Köln - geändert beschlossen
+- TOP 4.2: Änderung der Geschäftsordnung der Stadtarbeitsgemeinschaft Behindertenpolitik - zurückgestellt
+- TOP 4.3: Verteilung der Globalmittel 2021 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4.4: Verteilung der Fördermittel 2021 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4.5: Dringlichkeitsantrag: Zusätzliche Unterbringungsmöglichkeiten für obdachlose Menschen in Köln während der Corona-Pandemie - geändert beschlossen
+- TOP 4.6: Änderungsantrag zum Dringlichkeitsantrag Unterbringungsmöglichkeiten für obdachlose Menschen in Köln während der Corona-Pandemie - endgültig abgelehnt
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Baubeschluss - ungeändert beschlossen
+- TOP 5.3: Neubesetzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - ungeändert beschlossen
+- TOP 5.4: Verlängerung des Mietvertrages der freifinanzierten Objekte Münsterer Str. 23, 31 und 33 in 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 5.5: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 5.6: Neufassung der Wahlordnung für die Wahl der Seniorenvertretung der Stadt Köln - ungeändert beschlossen
+- TOP 5.7: Förderung von Erwerbslosen- und Arbeitslosenberatungsstellen in Köln in 2021 hier: Förderung der "Beratungsstelle Arbeit" und Sicherung der bestehenden Beratungsstruktur für arbeits- und erwerbslose Personen - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Gutachten zur Ermittlung des künftigen Wohnungsbedarfes und der Wohnungsnachfrage in Köln bis 2040 liegt vor: Weitere Vorgehensweise - Kenntnis genommen
+- TOP 7.2: Studie zu lokalen Wohnungsmarkteffekten durch plattformbasierte Kurzzeitvermietung in Köln - Kenntnis genommen
+- TOP 7.3: Schaffung eines Bau-, Qualitäts- und Ausstattungsstandards im konventionellen Wohnungsbau durch das Amt für Wohnungswesen - Kenntnis genommen
+- TOP 7.4: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 7.5: Geschäftsbericht Wohnen in Köln 2019 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Kürzungen bei den Kosten der Unterkunft in Köln - Anfrage an das Jobbcenter Köln - zurückgestellt
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 30. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.2: Mitteilung zum 8. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Winterhilfe und Schlafstätten für wohnungslose Menschen - zurückgestellt
+- TOP -: Beantwortung der Anfrage Winterhilfe und Schlafstätten für Wohnungslose Menschen (AN/1487/2020) - zurückgestellt
+- TOP 11: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1: Wohnungslosigkeit zielgruppenorientiert und bedarfsgerecht entgegenwirken - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage Wohnungslosigkeit zielgruppenorientiert und bedarfsgerecht entgegenwirken - Kenntnis genommen
+- TOP 11.2: Personelle Besetzung Wohngeldstelle - zurückgestellt
+- TOP -: Beantwortung der Anfrage Personelle Besetzung Wohngeldstelle - zurückgestellt
+- TOP 12: Aktuelle Anfragen und Beantwortungen
+- TOP 12.1: Häusliche Gewalt im Corona-Herbst: Maßnahmen zur Umsetzung der Istanbul-Konvention - zurückgestellt
+- TOP 12.2: Armut in Corona-Zeiten: Obdachlosigkeit, drohender Wohnungsverlust, Zwangsräumungen, Beschäftigungsentwicklung, ALG-II-Beantragungen - zurückgestellt
+- TOP 12.3: Anfrage der SPD Fraktion aus der Sitzung des Integrationsrates vom 12.01.2021Umsetzung des kommunalen Integrationsmanagements - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion, Session Nr. 0024/2021 "Umsetzung des Kommunalen Integrationsmanagements" - Kenntnis genommen
+- TOP 12.4: Städtische Hilfe für obdachlose Menschen – akute Winterhilfe und Ausblick - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Städtische Hilfe für obdachlose Menschen – akute Winterhilfe und Ausblick" (zu AN/0005/2021) - Kenntnis genommen
+- TOP 13: Mündliche Anfragen
+- TOP 13.1: Mündliche Anfrage der SPD-Fraktion zum Sachstand des beschlossenen Antrages betreffend "Unterstützung für langzeitarbeitslose Menschen mit Behinderung auf dem Arbeitsmarkt" AN/0194/2020
+- TOP 14: Mitteilungen
+- TOP 14.1: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 14.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 14.3: Einführung der Grundrente zum 01.01.2021 - Kenntnis genommen
+- TOP 14.4: Institutionelle Förderung von KALZ e.V. und Vingster Treff (AN/1491/2020) - Kenntnis genommen
+- TOP 14.5: Sachstand zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 14.6: Umbau, Modernisierung und Erweiterung Bürgerhaus MüTZe, Köln-Mülheim; Interimsbetrieb "MüTZe plus" 2021 -2023 - Kenntnis genommen
+- TOP 14.7: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - Kenntnis genommen
+- TOP 14.8: Zielvereinbarungen 2021 der Kölner Bürgerzentren/Bürgerhäuser - Kenntnis genommen
+- TOP 14.9: Armut in Corona-Zeiten: Obdachlosigkeit, drohender Wohnungsverlust, Zwangsräumungen, Beschäftigungsentwicklung, ALG II-Beantragungen (AN/1503/2020) - zurückgestellt
