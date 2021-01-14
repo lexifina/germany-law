@@ -1,0 +1,7 @@
+# TOP 9: USB-Ladestationen in Sitzungsräumen Mündlicher Bericht Dieser TOP wird zunächst vertagt.
+
+- Sitzung: Ausschuss für Digitalisierung (2021-01-14)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/290042
+- Ergebnis: vertagt
