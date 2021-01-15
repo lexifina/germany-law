@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2020/2021
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-12-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.3
+- Datum: 2021-01-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.12.2020
+15.01.2021
 bis
-14.01.2021
+04.02.2021
 
 VwV Bedarf und Schuljahresablauf 2020/2021
 
@@ -866,16 +866,16 @@ Ferienregelung
 
 | Winterferien
 
-| 8. Februar 2021
+| 30. Januar 2021
 
 | bis
 
-| 20. Februar 2021
+| 6. Februar 2021
 
 
 | Osterferien
 
-| 2. April 2021
+| 27. März 2021
 
 | bis
 
@@ -1011,7 +1011,7 @@ Der Unterricht beginnt am 31. August 2020. Für Schulen des zweiten Bildungswege
 
 4.
 
-Der Unterricht des zweiten Schulhalbjahres und des Kurshalbjahres 11/II beginnt am 22. Februar 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 4. Januar 2021.
+Der Unterricht des zweiten Schulhalbjahres beginnt am 11. Februar 2021. Der Unterricht des Kurshalbjahres 11/II beginnt 8. März 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 18. Januar 2021.
 
 5.
 
@@ -1038,7 +1038,7 @@ Mitteilungen 3/I in LRS-Klassen und Zeugnisse
 
 1.
 
-Die Halbjahresinformationen und Halbjahreszeugnisse sowie die Zeugnisse des Kurshalbjahres 11/I werden am 5. Februar 2021, die Zeugnisse des Kurshalbjahres 12/I am 4. Januar 2021 ausgegeben.
+Für alle allgemeinbildenden Schularten werden die Halbjahresinformationen und Halbjahreszeugnisse mit Datum vom 10. Februar 2021 ausgestellt und zeitnah ausgegeben. Die Ausgabe der Kurshalbjahreszeugnisse 11/I erfolgt am 5. März 2021. Die Kurshalbjahreszeugnisse 12/I werden mit Datum vom 15. Januar 2021 ausgestellt und ab 18. Januar 2021 ausgehändigt.
 
 2.
 
@@ -1725,7 +1725,7 @@ Eltern von Schülern der zukünftigen Klassenstufe 1 sollen am 11. Juni 2021 ein
 Bildungsempfehlung
 
 
-Die Bildungsempfehlung in der Klassenstufe 4 wird den Eltern am 5. Februar 2021 schriftlich bekannt gegeben. Sofern erst am Ende des Schuljahres eine Bildungsempfehlung für das Gymnasium erteilt werden kann, ist diese am 9. Juli 2021 den Eltern schriftlich bekannt zu geben. Grundsätzlich ist bis zur Bekanntgabe der Bildungsempfehlung das Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs abzuschließen. 
+Die Bildungsempfehlung in der Klassenstufe 4 wird den Eltern am 10. Februar 2021 schriftlich bekannt gegeben. Sofern erst am Ende des Schuljahres eine Bildungsempfehlung für das Gymnasium erteilt werden kann, ist diese am 9. Juli 2021 den Eltern schriftlich bekannt zu geben. Grundsätzlich ist bis zur Bekanntgabe der Bildungsempfehlung das Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs abzuschließen. 
 
 3.
 
@@ -2137,7 +2137,7 @@ Im Rahmen der Eigenverantwortung von Schule entscheidet der Schulleiter nach Anh
 
 3.
 
-Der Unterricht beginnt für alle berufsbildenden Schulen am 31. August 2020. Der Unterricht des ersten Schulhalbjahrs endet am 5. Februar 2021, bei Teilzeitausbildungen erst am 6. Februar 2021. Der Unterricht des zweiten Schulhalbjahres beginnt am 22. Februar 2021.
+Der Unterricht beginnt für alle berufsbildenden Schulen am 31. August 2020. Der Unterricht des ersten Schulhalbjahres endet für Voll- und Teilzeitausbildungen am 10. Februar 2021. Der Unterricht des zweiten Schulhalbjahres beginnt am 11. Februar 2021.
 
 4.
 
@@ -2157,7 +2157,7 @@ b)
 Berufliches Gymnasium:
 
 
-Der Unterricht des Kurshalbjahres 12/I endet am 5. Februar 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 22. Februar 2021. Der Unterricht des Kurshalbjahres 13/I endet am 4. Januar 2021. Der Unterricht des Kurshalbjahres 13/II beginnt am 4. Januar 2021.
+Der Unterricht des Kurshalbjahres 12/I endet am 5. März 2021. Der Unterricht des Kurshalbjahres 12/II beginnt am 8. März 2021. Der Unterricht des Kurshalbjahres 13/I endet am 15. Januar 2021. Die Kurshalbjahreszeugnisse 13/I werden mit Datum 15. Januar 2021 ausgestellt und ab 18. Januar 2021 ausgehändigt. Der Unterricht des Kurshalbjahres 13/II beginnt am 18. Januar 2021.
 
 
 II.
@@ -2823,9 +2823,9 @@ Fsn-Nr.: 710-V20.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Dezember 2020
+Fassung gültig ab: 15. Januar 2021
 
-Fassung gültig bis: 14. Januar 2021
+Fassung gültig bis:  4. Februar 2021
 
 Drucken/Speichern
 
@@ -2852,7 +2852,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18674.3
+https://www.revosax.sachsen.de/vorschrift/18674.4
 Stand vom
 18.11.2026
 
