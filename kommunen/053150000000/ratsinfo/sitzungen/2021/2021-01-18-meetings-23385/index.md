@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-18T15:00:00+01:00
+- Ende: 2021-01-18T15:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23385
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23385
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tonaufzeichnungen der Sitzungen des Ausschusses für Schule und Weiterbildung - ungeändert beschlossen
+- TOP -: Bestellung der Schriftführerin - geändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Planungssicherheit für die Schulen gewährleisten – Perspektiven schaffen für das gesamte Schuljahr - endgültig abgelehnt
+- TOP 2.2: Anmeldeverfahren für die weiterführenden Schulen - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Belüftung der Klassenräume in Gebäuden mit Passivhausstandard - zu Anfrage der SPD-Fraktion AN/1024/2020 - Kenntnis genommen
+- TOP 3.1.2: Die CDU-Fraktion und die Fraktion Bündnis 90/Die Grünen stellen in einer Anfrage gem § 4 der GO des Rates (DS Nr. AN/1076/2020 ) mehrere Fragen zum Thema „Sexueller Missbrauch in Kitas und Schulen und Jugendeinrichtungen“ und bitten um Antwort in de - Kenntnis genommen
+- TOP 3.1.3: Schulwegsicherung Rosenmaarschule in Köln-Höhenhaus - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Digitale Ausstattung an Kölner Schulen - Kenntnis genommen
+- TOP 3.2.2: Bildungsgerechtigkeit im Digitalunterricht sicherstellen! - Kenntnis genommen
+- TOP 3.2.3: Digitale Sofortausstattung im Rahmen des Digital Pakt Schule - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Einrichtung der Erweiterungsbauten am Gymnasium Nachtigallenstr. 19 - 21 und der Realschule Albert-Schweitzer-Str. 8 sowie eines gemeinsamen Mensagebäudes, 51147 Köln - Porz-Wahn - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Durchführung einer Elternbefragung zur Schulwahl im Übergang von der Primarstufe in die Sekundarstufe I – Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 4.2.1: Änderungsantrag zu TOP 4.2, 2149/2020, Durchführung einer Elternbefragung zur Schulwahl im Übergang von der Primarstufe in die Sekundarstufe I – Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) de - endgültig zurückgezogen
+- TOP 4.3: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten inklusive Interimsbauten für das Gymnasium Kreuzgasse, Vogelsanger Straße 1 - Erweiterter Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Schulsporthallen - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.5: Beschluss über die kommunale Klassenrichtzahl und die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen für das Schuljahr 2021/22 - ungeändert beschlossen
+- TOP 4.6: Zügigkeitserhöhung für den Bildungsgang "Tiermedizinische Fachangestellte" am Barbara-von-Sell-Berufskolleg (BK5) - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Teilnahme des Berufskollegs an der Lindenstraße (BK 3) am Schulversuch "Fachoberschule für Verwaltung und Rechtspflege Schwerpunkt Polizeivollzugsdienst" - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Gießener Strape / Deutzer Ring in Köln-Humboldt/Gremberg - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: Auszeichnung für die Rheinische Musikschule - Kenntnis genommen
+- TOP 5.2: Anmelde- und Aufnahmeverfahren in die weiterführende Schule der Sekundarstufe I (Sek. I) zum Schuljahr 2021 / 22 - Kenntnis genommen
+- TOP 5.3: Temporäre Einfriedung der Außenflächen des Schulneubaus Heliosschulen - Kenntnis genommen
+- TOP 5.4: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 5.5: Entsiegelung von Schulhöfen - Verwendung der Mittel aus dem politischen Veränderungsnachweis zum Haushaltsplan 2020/2021 - Kenntnis genommen
+- TOP 5.6: Dritter Bericht der Abteilung „Regionale Bildungslandschaft Köln“ im Amt für Schulentwicklung (2018 – 2019) - Kenntnis genommen
+- TOP 5.7: 30. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.8: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 5.9: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 5.10: Rheinische Musikschule Umsetzung des Ratsbeschlusses vom 14.02.2019 - Kenntnis genommen
+- TOP 5.11: Inklusionsmonitoring, Stand Schuljahr 2019/20 - Kenntnis genommen
+- TOP 5.12: Digitale Ausstattung der Kölner Schulen - Aktueller Sachstand - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Mündliche Anfrage der FDP-Fraktion - Tontechnik in der Aula Gymnasium Kreuzgasse
+- TOP 6.2: Mündliche Anfrage der SPD-Fraktion - Umzug der Elsa-Brändström-Realschule an den Standort Alter Militärring 96
+- TOP 6.3: Mündliche Anfrage der SPD-Fraktion - Heinrich-Welsch-Schule in Flittard (Schulträger LVR)
+- TOP 6.4: Mündliche Anfrage der SPD-Fraktion - Laufende Verteilung von Tablets an die Schulen
+- TOP 6.5: Mündliche Anfragen Fraktion Die Linke - Abfassung einer Mitteilung zur Situation im Lockdown
+- TOP 7: Verschiedenes
