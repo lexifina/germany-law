@@ -1,0 +1,141 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-01-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6309955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6309955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.8.: Verbesserung der Sicherheit und Sicht - Garagenausfahrt Isartalstraße
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Mieterbeiratswahl 2021 - Entsendung einer Person
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: Stadtbezirksbudget Änderungsantrag der Initiative „Theaterprojekt - Auf die Straße“ für die gleichnamige Maßnahme, da Teile der ursprünglichen Planung nicht mehr umsetzbar
+- TOP 2.2.: (E) Stadtbezirksbudget BürgerStiftung München Arabische Samstagsschule für Kinder Geflüchteter vom 16.01. - 18.12.2021 6.500,00 Euro, Az.: 0262.0-2-0373
+- TOP 2.3.: (E) Stadtbezirksbudget Kulturzentrum LUISE / Glockenbachwerkstatt e.V. Projekt "LUISE pflanzt" von Mitte Januar - Februar 2021 798,75 Euro, Az.: 0262.0-2-0374
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Ende der Kobellstraße als Sackgasse einrichten: Schließung zur Herzog-Heinrich-Straße für den motorisierten Verkehr; Antrag der Fraktion Die Grünen / Rosa Liste vom 18.12.2020
+- TOP 1.2.: Umgestaltung des Raumes an der Einmündung der Thalkirchnerstraße in die Müllerstraße für mehr Sicherheit und Übersichtlichkeit für Fuß- und Radverkehr; interfraktioneller Antrag des Unterausschusses ÖRM vom 30.11.2020
+- TOP 1.3.: Thalkirchner Straße I - Straßenprofil; Antrag der Fraktion die Grünen / Rosa Liste (Antrag wird nachgereicht)
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: Umbau der Kreuzung Ruppertstraße / Tumblingerstraße; Projekt-Nr.: 101048; vertagt aus der Sitzung am 15.12.2020
+- TOP 2.3.2.: Umbau Kreuzung Kapuzinerplatz; Projekt-Nr.: 101046
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Austausch von Lichtsignalanlagen (a) Erhardtstr./ Ludwigsbrücke (b) Isartorplatz / Zweibrückenstr. (c) Lilien-/ Rosenheimer Str. (d) Ludwigsbrücke
+- TOP 3.3.2.: Erinnerungsverfahren Paul-Heyse-Straße: Sanierung der Betonfahrbahn
+- TOP 3.3.3.: Antrag auf Aufstellung einer Holzbank, Paul-Heyse-Straße 28
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Gefahr durch E-Scooter auf Gehwegen; Bürgeranliegen
+- TOP 5.2.: Parkplatzsituation Isarvorstadt / Ickstattstraße; Bürgeranliegen
+- TOP 5.3.: Parkplatzsituation im Glockenbachviertel; Bürgeranliegen
+- TOP 5.4.: Arndtstraße zur Sackgasse erklären; Bürgeranliegen
+- TOP 5.5.: Verstöße durch Fahrradfahrer; Bürgeranliegen
+- TOP 5.6.: Gefährliche Abzweigung am Bavariaring gegenüber dem Haupteingang zur Wiesn; Bürgeranliegen
+- TOP 5.7.: Umwandlung der Jahnstraße in eine Einbahnstraße bzw. Fahrradstraße; Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Arnulfstraße 15, Vorbescheid Erweiterung / Neubau Bürogebäude
+- TOP 3.1.2.: Bavariaring 18 Errichtung einer Tiefgarage mit acht Duplexstellplätzen (Mittelgarage) und einem versenkbaren PKW-Aufzug
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Antrag auf Genehmigung einer Werbeanlage: Digital-Board an der Außenfassade des Gebäudes Schwanthalerstraße 43
+- TOP 3.2.2.: Vollzug der Baumschutzverordnung Landwehrstraße 81
+- TOP 3.2.3.: Vollzug der Baumschutzverordnung Bavariaring 18
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 1.1.: Thalkirchner Straße II - Baumersatz; Antrag der Fraktion die Grünen / Rosa Liste (Antrag wird nachgereicht)
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Baumfällungsantrag Bayerstraße 34
+- TOP 3.1.2.: Baumschutz an der Baustelle im Innenhof Holzstraße 8
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Weiterer Mülleimer an der Ecke Baum-/Klenzestraße; Bürgeranliegen
+- TOP 5.2.: Hundekotbeutelspender Ecke Schmeller-/Fleischerstraße; Bürgeranliegen
+- TOP 5.3.: Schädlinge am Reichenbachplatz; Bürgeranliegen
+- TOP 5.4.: Situation der Rosskastanien; Bürgeranliegen
+- TOP 5.5.: Baumfällungen in der Reifenstuelstraße - Bitte um Nachpflanzung anderer Baumsorten als Bluterlen; Bürgeranliegen
+- TOP 5.6.: Müllproblematik im Hinterhof des Gebäudes Reifenstuelstraße 6
+- TOP 5.7.: Taubenschlag im Bereich Lindwurmstraße / Hermann-Schmid-Straße; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Alter Südlicher Friedhof - Installation eines Spritzen-Abwurfbehältnisses („Drogenabfalleimer“)
+- TOP A 4.4.: Stellungnahme des BA zur Sitzungsvorlage Nr. 20-26 / V 01817 Erlass einer Verordnung der Landeshauptstadt München über das Verbot des Verzehrs und des Mitführens alkoholischer Getränke auf den öffentlichen Flächen im Bereich des Hauptbahnhofes
+- TOP A 4.5.: Alter Südlicher Friedhof, Bestreifung duch eine Sicherheitsfirma Auswertung der Pilotphase und Verfahrensvorschlag
+- TOP A 4.6.: Neueinrichtung von Schulsozialarbeit/Jugendsozialarbeit an Schulen, an Grundschulen; Sitzungsvorlage Nr. 20-26 / V 00338
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Erhardtstraße: Umwandlung von Mischparken in Anwohnerparken
+- TOP B 4.8.: Radverkehrsführung am Knoten Uhlandstraße / Bavariaring; Antwort auf Bürgeranliegen
+- TOP B 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.10.: Parken vs. Schanigärten; Antwortschreiben der Bezirksinspektion (KVR)
+- TOP B 4.11.: Grünpfeilschild mit Beschränkung auf den Radverkehr - Information zum Stand der Einführung
+- TOP B 4.12.: Erfahrungsbericht Radlramadama
+- TOP B 4.13.: Parken in zweiter Reihe aufgrund der Schanigärten; Antwortschreiben der kommunalen Verkehrsüberwachung
+- TOP B 4.14.: Keine Errichtung eines Zebrastreifens an der Ecke Grasserstraße / Hackerbrücke; Sitzungsvorlage Nr. 14-20 / V 15385
+- TOP B 4.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.16.: Jahnstraße - Einbahnstraßenöffnung; Referatsschreiben
+- TOP B 4.17.: Einfärbung von Zebrastreifen in Regenbogenfarben anlässlich des diesjährigen Christopher Street Days (CSD)
+- TOP B 4.18.: Ausnahmegenehmigungen nach dem Bundes-Immissionsschutzgesetz, Geräte- und Maschinenlärmschutzverordnung
+- TOP B 4.19.: Erwiderung der Stadtwerke München (SWM) Anschlussbereich Ludwigsbrücken
+- TOP B 4.20.: Prüfung einer möglichen Einbahnregelung in der Tumblingerstraße zwischen Kapuzinerplatz und Ruppertstraße zugunsten des Erhaltes eines Radweges in nördliche Richtung
+- TOP B 4.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.22.: Umgestaltung Tumblingerstraße zur Vorfeldgestaltung Volkstheater
+- TOP B 4.23.: Umwandlung von zwei Kfz-Längsparkplätzen in Fahrradabstellplätze auf der Südseite der Rothmundstraße vor Hausnummer 5
+- TOP B 4.24.: Neuer Parkraum für Fahrräder im Glockenbachviertel
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Nachtrag des Verwaltungsgebäudes des Europäischen Patentamts (Bob-van-Benthem-Platz 1) in die Denkmalliste
+- TOP C 4.3.: Projekt Umbau Kreuzung Kapuzinerplatz - digitale Pläne
+- TOP C 4.4.: Planfeststellungsverfahren zu Rückbau und Anpassung des Starnberger Flügelbahnhofs
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Testweise Einführung von Wertstofftonnen im 2. Stadtbezirk
+- TOP D 4.2.: Bevorstehende Entfernung von Gefahrenbäumen, Januar bis Februar 2021
+- TOP D 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.4.: Eilentscheidung - Baumfällungsantrag Thalkirchner Straße 110-108
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Direktoriums-Formulare in „Einfacher Sprache“
+- TOP E 4.2.: Die Stadt München stellt den Mitgliedern der BAs für die Sitzungen der Unterausschüsse und des Plenums FFP2-Masken zur Verfügung
