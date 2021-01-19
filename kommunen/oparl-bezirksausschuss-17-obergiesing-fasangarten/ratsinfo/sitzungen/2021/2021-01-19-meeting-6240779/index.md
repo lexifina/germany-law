@@ -1,0 +1,214 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2021-01-19T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6240779
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6240779
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Kinderbeauftragte/r
+- TOP 3.2: Jugendbeauftragte/r
+- TOP 3.3: Inklusion (Beauftragte/r für Menschen mit Behinderung)
+- TOP 3.4: Gleichstellungsbeauftragte/r
+- TOP 3.5: Beauftragte/r gegen Rechtsextremismus
+- TOP 3.6: Beauftragte/r für Integration
+- TOP 3.7: Internetbeauftragte/r
+- TOP 3.8: Seniorenbeauftragte/r
+- TOP 3.9: Mieterbeirätin / Mieterbeirat
+- TOP 3.10: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Fragen zum Bau - Immer noch kein Dach: St. Bonifatius-Str. 18 - Baustelle Rückgebäude - Bürgeranliegen vom 14.12.2020 - (Federführung UA BPW)
+- TOP 2.1.2.2.: Antrag auf Begrünung der St.-Martin-Str. zwischen Tegernseer Landstr. und Herzogstrandstr. sowie eine Umgestaltung der Kreuzung St.-Martin-Str./Alpenstr./Zugspitzstr. - Schreiben GreenCity e.V. vom 17.11.2020 - (FF UA Umwelt + FF UA Mobilität und Verkehr) (vertagt aus 12/2020)
+- TOP 2.1.2.3.: Zugeparkte Gehweg-Auslässe an der Straße "Am Bergsteig" in Obergiesing Meine Bitte um einfache bauliche Maßnahmen gegen Falschparken - Bürgeranliegen vom 30.11.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.4.: Autos fahren auf Gehweg auch und ab - Weissenseestr. / Poellatstr. Grünfläche mit Bäumen - Bürgeranliegen vom 18.12.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.5.: Zu wenige Wertstoffinseln im Bezirk Fasangarten - Bürgeranliegen vom 21.12.2020 - (FF UA Umwelt)
+- TOP 2.1.2.6.: Gehweg Giesinger Bahnhofstraße - Schließung für Radfahrer*innen zur Sicherheit der Fußgänger*innen; Bürgeranliegen vom 23.12.2020 (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.7.: Tempo 30 vor dem Anton-Fingerle-Bildungszentrum in der Schlierseestraße 47; Bürgeranliegen vom 22.12.2020 (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.8.: Verunreinigung des Parks am Friedhof am Perlacher Forst Antrag zur Erbauung/Aufstellung von Toiletten; Bürgeranliegen vom 18.12.2020 (FF UA Umwelt)
+- TOP 2.1.2.9.: fehlende Freischankflächenmarkierung / dicht nebeneinander speisende Gäste an Tischen trotz Corona-Einschränkungen - Bürgeranliegen vom 08.12.2020 - (FF UA lokale Wirtschaft und Arbeit)
+- TOP 2.1.2.10.: Verkehrssituation in der Stadelheimerstraße (Schwerlastverkehr, Raser, Poser, Verkehrsaufkommen "unerträglich") - Bürgeranliegen vom 08.12.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.11.: Verkehrsbelastung Marklandstraße - LKW-Fahrverbot / Verschmälerungen - Bürgeranliegen vom 04.01.2021 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.12.: Geschwindigkeitsreduzierende Maßnahmen am Katzenbuckel (Franz-Eigl-Weg) - Antrag des Elternbeirates der Grundschule an der Weißenseestraße vom 04.01.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.13.: Einrichtung eines Fahrradstellplatzes am Katzenbuckel - Antrag des Elternbeirates der Grundschule an der Weißenseestraße vom 04.01.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.14.: Antrag auf 200 Ferienpässe und 50 Familienpässe für das Jahr 2021/2022 - Antrag des Elternbeirates der Grundschule an der Weißenseestraße vom 04.01.2020 - (FF UA FSA)
+- TOP 2.1.2.15.: Unterstützung bei der Realisierung dringend benötigter, nachhaltiger Maßnahmen zur Verkehrssicherheit rund um das Gelände der Weißenseegrundschule an Traunsteiner Straße sowie Weißenseestraße - Antrag des Elternbeirates der Grundschule an der Weißenseestraße vom 04.01.2020 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.16.: Sicherer und freier Durchgang für Schulweg der Schulkinder Ichoschule (Ecke Deisenhofener Straße/Tegernseer Landstraße) - Bürgeranliegen vom 31.12.2020 - (FF UA FSA)
+- TOP 3.9.1.: Mieterbeiratswahl 2021 Entsendung von stimmberechtigten Mitgliedern Benennung von 2 Personen (m/w/d) durch den BA - Schreiben des Sozialreferates vom 28.10.2020 -
+- TOP 3.10.1.: Waldmünchener Str. 3
+- TOP 3.10.2.: Holtzendorffstr. 33a
+- TOP 3.10.3.: Untersbergstr. 8
+- TOP 3.10.4.: Kiesmüllerstr. 17 (Genehmigung der UNB)
+- TOP 4.1.: Interfraktioneller Antrag des BA 22: Virtuelle Tagung der Unterausschüsse (alle UA)
+- TOP 5.1.1.: (E) Stadtbezirksbudget Poesieboten e.V. Gedicht des Monats von Dez. 2020 – Dez. 2021 1.960,00 € / Az. 0262.0-17-0265 (FF UA Kultur) Bitte beachten Sie hierzu den TO Punkt 5.1.2. der Sitzung vom 08.12.2020.
+- TOP 5.1.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Kunstlied-Festival „Street Art Song“ am 11.09.2021 1.000,00 € / Az. 0262.0-17-0266 (FF UA Kultur)
+- TOP 5.1.3.: (E) Stadtbezirksbudget QuarterM gGmbH Stadtteilladen Giesing vom 01.01. - 31.12.2021 18.000,00 € / Az. 0262.0-17-0271 (FF UA FSA)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Init. "Decamerone 2020" Decamerone 2020 vom 02.01. - 31.03.2021 3.653,73 € / Az. 0262.0-17-0270 (FF UA Kultur)
+- TOP 5.1.5.: (E) Stadtbezirksbudget Sozialstation Berg am Laim und Trudering gGmbH Anschaffung Laptops 810,00 € / Az. 0262.0-17-0269 (FF UA FSA)
+- TOP 5.1.6.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße Räume in St. Bernhard für die Mittagsbetreuung von Mitte November 2020 bis Juli 2021 930,00 € / Az. 0262.0-17-0268 (FF UA FSA)
+- TOP 5.1.7.: (E) Stadtbezirksbudget Nachbarschaftstreff Giesing (QuarterM gGmbH) Anschaffung Lastenrad 3.200,00 € / Az. 0262.0-17-0272 (FF UA Umwelt)
+- TOP 5.1.8.: (E) Stadtbezirksbudget Nachbarschaftstreff Giesing (QuarterM gGmbH) Computer- und Handysprechstunde vom 01.01. - 31.12.2021 825,00 € / Az. 0262.0-17-0273 (FF UA FSA)
+- TOP 5.1.9.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged With Students e.V. Faces for the Names im BA 17 vom 27.01. - 27.02.2020 2.025,00 € / Az. 0262.0-17-0275 (FF UA Kultur)
+- TOP 5.1.10.: (E) Stadtbezirksbudget 103er - Freizeittreff Obergiesing, KJR München-Stadt Theatertage 2021 vom 22.-26.11.2021 3.300,00 € / Az. 0262.0-17-0277 (FF UA Kultur)
+- TOP 5.1.11.: (E) Stadtbezirksbudget Initiative „Künstler*in“ Aktion „Jeder Mensch ist ein*e Künstler*in“ vom 01.01.2021 – 31.12.2020 1.963,60€; Az. 0262.0-18-0228 (FF UA Kultur)
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Sachbericht zum Projekt "Was glaubst du denn?" des Giesinger Mädchen* Treff gefördert durch das Stadtbezirksbudget des Stadtbezirks 17
+- TOP 5.4.2.: Kurzbericht über die bezuschusste Aktion 2020 des BA 17 durch Spielen in der Stadt e.V.
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Wirtstr. 20 - Anhebung des Dachstuhls zur Erhöhung eines Wohngebäudes um ein Stockwerk einschl. DG-Ausbau - VORBESCHEID
+- TOP 6.1.3.2.: Stadelheimer Str. 39 - Errichtung eines Stadthauses (13 WE) mit 3 Ladeneinheiten und Tiefgarage
+- TOP 6.1.3.3.: Eslarner Str. 36, Umbau und Erweiterung Doppelhaushälfte mit Neubau Garage - VORBESCHEID -
+- TOP 6.1.3.4.: Tegernseer Landstraße 83, Nutzungsänderung einer Wettannahmestelle in ein Wettbüro
+- TOP 6.1.3.5.: Gemeinde Unterhaching; BebPl. Nr. 164A/2019 für das Gewerbegebiet Unterhaching (Zone A); Beteiligung gemäß § 4 Abs. 1 BauGB - Anhörung durch das Referat für Stadtplanung und Bauordnung -
+- TOP 6.1.4.1.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum - Schreiben des Sozialreferates vom 25.11.2020 -
+- TOP 6.1.4.2.: (U) Wege aus der Wohnungsnot (Ziffer 1 und2) Empfehlung Nr. 14-20 / E 02257 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 6.1.4.3.: (U) Handlungsraum 3 „Rund um den Ostbahnhof – Ramersdorf – Giesing“ Grundsatzbeschluss zur Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr
+- TOP 6.1.4.4.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2020 – 30.06.2020
+- TOP 6.1.4.5.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 6.1.4.6.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024
+- TOP 6.1.4.7.: (U) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Anpassung der Aufwandsentschädigung, Änderung der Satzung für die*den Heimatpfleger*in der Landeshauptstadt München (Heimatpfleger*insatzung)
+- TOP 6.1.4.8.: (U) Städtisches Stadion an der Grünwalder Straße; Ergebnis des Vorbescheidverfahrens
+- TOP 6.1.4.9.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 06.11.2020 bis 13.12.2020
+- TOP 6.1.4.10.: (U) Eine städtebauliche Erhaltungssatzung gem. §172 Satz 1 Nr. 1 BauGB für das Gebiet der sog. "Ami-Siedlung" erlassen Empfehlung Nr. 14-20 / E 02756 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 6.1.4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.12.: Barrierefreien Zugang zum Kurt-Mahler-Saal im Kulturzentrum Giesinger-Bahnhof schaffen!
+- TOP 6.1.4.13.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Unterlagen zur Bewerbung für das REGSAM - Schwerpunktthema INKLUSION - Schreiben des Sozialreferates vom 14.12.2020 -
+- TOP 6.2.4.1.: (U) Erweiterung des Nachbarschaftstreffs Giesing um einen zweiten Standort in der Tegernseer Landstraße 113 Stadtteilladen Giesing erhalten, Modellprojekt starten! Antrag Nr. 14-20 / A 06846 ............................ Fortführung des Projekts "Soziale Stadt Giesing" Wiederaufnahme des Antrags des BA 17 vom 22.01.2019 BA-Antrag Nr. 20-26 / B 00093 ...................... Grundsatzbeschluss 17. Stadtbezirk - Obergiesing - Fasangarten
+- TOP 6.2.4.2.: Rückmeldung Ortstermin Baureferat-AKIM-Anwohner*innen Scharfreiterstraße 2 Grünanlage - Schreiben des Sozialreferats vom 27.11.2020 -
+- TOP 6.2.4.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 6.2.4.4.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Minnewitstraße 29 im 17. Stadtbezirk Obergiesing-Fasangarten Leistung eines Baukostenzuschusses
+- TOP 6.2.4.5.: Kündigung der Nutzung der Betriebssportanlage der SWM an der Lauensteinstr. 9 für den Schulsport der Mittelschule an der Cincinnatistraße - Schreiben der SWM vom 17.11.2020 -
+- TOP 6.2.4.6.: Auswahl der REGSAM-Schwerpunktgebiete ab 2021 - Schreiben des Sozialreferates vom 07.12.2020 -
+- TOP 6.2.4.7.: AKIM – Allparteiliches Konfliktmanagement in München: Bericht 2. Halbjahr 2020
+- TOP 6.2.4.8.: Zeitgemäße Wohnform im Alter
+- TOP 6.2.5: Anträge
+- TOP 6.2.5.1.: Direktoriums-Formulare in "Leichter Sprache" - Antrag der Fraktion B90 / Die Grünen vom 04.01.2021 -
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: General-Kalb-Weg zwischen Cincinnatistraße und Lincolnstraße Beschluss des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 19.01.2021
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Wegenetz Obergiesing, Veröffentlichung der Untersuchungsergebnisse im Sanierungs- gebiet "Tegernseer Landstraße /Chiemgaustraße“ Nahmobilität im Bereich der „Sozialen Stadt“ Giesing - Beschlussentwurf des Referates für Stadtplanung und Bauordnung vom 08.12.2020 -
+- TOP 6.3.3.2.: Planfeststellung nach § 18 AEG für das Bauvorhaben: Änderung (Erneuerung) Eisenbahnüberführung Werinherstraße, Bahn-km 1,633 der Strecke 5551 München Ost-Deisenhofen in München - Tektur 1 und 2 -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Autobahn Südring Autobahnring um München schließen – Planungen zum Südring wieder aufnehmen Antrag Nr. 14-20 / A 05163 von der CSU-Fraktion vom 29.03.2019, eingegangen am 29.03.2019 Autobahnring um München schließen - Planungen zum Südring wieder aufnehmen BA-Antrags-Nr. 14-20 / B 06068 des Bezirksausschusses des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied vom 10.04.2019 Fertigstellung der Autobahn am Südring Empfehlung Nr. 14-20 / E 02329 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 15.11.2018 usw.
+- TOP 6.3.4.2.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 6.3.4.3.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 6.3.4.4.: Sharing ist caring - Nutzen statt besitzen
+- TOP 6.3.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.6.: Verkehr McGraw-Graben - BAB 995
+- TOP 6.3.4.7.: Verkehrssituation in der Schlierseestraße - dauerhafte Verkehrsregelungen zur Unterbindung von Raserei schaffen
+- TOP 6.3.4.8.: Grünpfeilschild mit Beschränkungen auf den Radverkehr - Information zum Stand der Einführung - Antwort des KVR auf den StR-Antrag 14-20 / A04926 vom 07.12.2020 -
+- TOP 6.3.4.9.: Erfahrungsbericht Radlramadama - Schreiben der P+R Park & Ride GmbH vom 09.12.2020 -
+- TOP 6.3.4.10.: Verkehrsberuhigung in der Setzbergstraße
+- TOP 6.3.4.11.: Verkehrssituation Tegernseer Landstraße (2.1.1./ 12-2020) - Schreiben des Referates für Stadtplanung und Bauordnung vom 16.12.2020 -
+- TOP 6.3.4.12.: Traunsteiner Str. 4-8 / Weißenseestr. 45 - Antrag KVR auf weitere verkehrsordnende Maßnahmen - Antrag des Referates für Bildung und Sport an das KVR vom 21.12.2020 -
+- TOP 6.3.4.13.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/ Wartungsarbeiten Tram - Schreiben des RGU vom 26.11.2020 -
+- TOP 6.3.4.14.: Sommerstraßen und Parklets im Jahr 2021 - Schreiben des Kreisverwaltungsreferates zur Information -
+- TOP 6.3.4.15.: Zeitplanung Tegernseer Platz und Tegernseer Landstraße Nord - Schreiben des Baureferates vom 23.12.2020 zur Anlage zum Beschluss des BA 17 vom 29.04.2020, Sitzungsvorlage Nr. 14-20/ V 18211 -
+- TOP 6.3.5: Anträge
+- TOP 6.3.5.1.: Verlängerung der Buslinie 220 Taufkirchen-Winning-Unterhaching-Giesing bis zum Ostbahnhof
+- TOP 6.3.5.2.: Die zu Zeiten des Berufsverkehrs eingesetzten Unterstützungsbusse der Linie 54 mögen bis zum Ostbahnhof verlängert werden!; Antrag CSU-Fraktion
+- TOP 6.3.5.3.: Unterstützung des Antrags im BA16: "Krankenhauslinie anstelle einer neuen Tram zwischen Ostbahnhof bzw. Isartor und Neuperlach" - Antrag der Fraktion B90 / Die Grünen vom 04.01.2021 -
+- TOP 6.3.5.4.: Weißenseestraße endlich sicher machen - Lebensqualität erhöhen! - Antrag der Fraktion B90 / Die Grünen vom 05.01.2021 -
+- TOP 6.3.5.5.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! - Antrag der Fraktion B90/Die Grünen vom 04.01.2021 -
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
+- TOP 6.4.4.2.: Wertstoffinseln
+- TOP 6.4.4.3.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen - Schreiben des Baureferates vom 23.11.2020 -
+- TOP 6.4.4.4.: Grün statt Grau - Neue Bepflanzung der Grünstreifen in der Deisenhofener Straße
+- TOP 6.4.4.5.: Wertstoffinsel-Container in der St.Martin-Straße;
+- TOP 6.4.4.6.: Die Stadt München stellt den Mitgliedern der BAs für die Sitzungen der Unterausschüsse und des Plenums FFP2-Masken zur Verfügung
+- TOP 6.4.5: Anträge
+- TOP 6.4.5.1.: Antrag auf Begrünung der St.-Martin-Str. zwischen Tegernseer Landstr. und Herzogstrandstr, sowie eine Umgestaltung der Kreuzung St-Martin-Str. / Alpenstr. / Zugspritzstr. "Grün statt Beton, sauberere Luft und mehr Lebensqualität in der St.-Martin-Straße in München" - Vertagter Punkt 2.1.9. aus Sitzung vom 08.12.2020 -
+- TOP 6.4.5.2.: Mülltrennung in großen Wohnanlagen - Anfrage der SPD-Fraktion vom 06.01.2021 -
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.4.2.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 6.5.4.3.: Weihnachtsgottesdienst für Familien am 24.12.2020 - Ausnahmegenehmigung -
+- TOP 6.5.4.4.: Sammeldrehgenehmigung für "Aktenzeichen XY ... ungelöst" für den Zeitraum vom 01.01.2021 bis 31.12.2021
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.5.6.1.: Anfrage für Zuschuss für Erinnerungskultur / Stadtteilspaziergänge - Bürgeranliegen vom 11.12.2020 -
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Anfrage Wettbüros im Stbz. 17 - Antwortschreiben des KVR vom 02.12.2020 -
+- TOP 6.6.4.2.: Schank- und Speisewirtschaft "Sangam", Werner-Schlierf-Str. 23 Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.5.1.: WLAN für Schulen und öffentliche Plätze im Bezirk - Antrag der Fraktion B90 / Die Grünen vom 04.01.2021 -
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Abrechnung von virtuellen Sitzungen und Besprechungen - Schreiben des Direktoriums vom 16.07.2020 -
+- TOP 7.3.2.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb hier: Unterausschusssitzungen für Januar 2021 - Schreiben des Direktoriums vom 16.12.2020 -
+- TOP 7.3.3.: Strafbarkeit ehrenamtlicher Stadtratsmitglieder bei Entgegennahme kostenloser Corona-Schnelltests - Schreiben des Direktoriums vom 14.12.2020 -
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
