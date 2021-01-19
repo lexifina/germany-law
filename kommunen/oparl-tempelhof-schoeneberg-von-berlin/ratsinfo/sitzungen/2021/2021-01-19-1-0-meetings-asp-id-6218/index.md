@@ -1,0 +1,14 @@
+# nichtöffentliche Sitzung des Ältestenrates
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-01-19T17:00:00+01:00
+- Ende: 2021-01-19T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Ratsinformationssystem: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6218
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6218
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
