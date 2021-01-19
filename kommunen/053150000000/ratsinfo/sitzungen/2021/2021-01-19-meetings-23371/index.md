@@ -1,0 +1,79 @@
+# 1. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-19T16:05:00+01:00
+- Ende: 2021-01-19T16:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23371
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23371
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800234.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800234.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800234.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin für den Verkehrsausschuss - ungeändert beschlossen
+- TOP -: Verpflichtung von Sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP -: Situation des ÖPNV in der Zeit der Corona-Pandemie - Kenntnis genommen
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - im ersten Durchgang verwiesen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - im ersten Durchgang verwiesen
+- TOP 3.2: Severinsbrücke (B55), Prüfingenieurleistungen im Zuge der Nachrechnung der Severinsbrücke gemäß Nachrechnungsrichtlinie - ungeändert beschlossen
+- TOP 3.3: Einführung einer Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen durch den Rhein-Erft-Kreis - ungeändert beschlossen
+- TOP 3.4: Baubeschluss: Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - im ersten Durchgang verwiesen
+- TOP 3.4.1: Baubeschluss Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3.4.2: Ergänzungsantrag zu Top 3.4, Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3.4.3: ÄA zu TOP 3.4 Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3.5: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - mit Änderungen empfohlen
+- TOP 4.2: Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe - im ersten Durchgang verwiesen
+- TOP 4.2.1: Baubeschluss fu¨r den Umbau der Oskar-Ja¨ger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gela¨nde - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.3: Straßen- und Wegekonzept gemäß § 8a Kommunalabgabengesetz für das Land Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 4.4: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.4.1: Änderungsantrag zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “ - ohne Votum in nachfolgende Gremien
+- TOP 4.5: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: Bedarfsfeststellungsbeschluss Interimsmaßnahmen Johannisstraße/Tunnelbereich - ungeändert empfohlen
+- TOP 4.7: Satzung über die abweichende Herstellung der Erschließungsanlage Feldgärtenstraße von Hillesheimstraße bis Merkenicher Straße in Köln-Niehl - ungeändert empfohlen
+- TOP 4.8: Bedarfsfeststellungsbeschluss für die Beschaffung eines Qualitätsmanagement-Tools für die Kölner Lichtsignalanlagen - ungeändert empfohlen
+- TOP 4.9: 10. Änderung des Gesamtverkehrskonzepts der Stadt Köln - im ersten Durchgang verwiesen
+- TOP 4.9.1: 10. Änderung des Gesamtverkehrskonzepts der Stadt - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Beschleunigung der ÖPNV Roadmap - Sache ist erledigt
+- TOP 5.2.2: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen - Sache ist erledigt
+- TOP 5.2.3: E-Scooter und Freefloater-Leihräder im Straßenraum sind Sondernutzung – Was sind die Konsequenzen? - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Busspur Innere Kanalstraße - zurückgestellt
+- TOP 6.2: Sachstand der Planungen Ost-West-Achse - Sache ist erledigt
+- TOP 6.3: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der SVK Bezirk Innenstadt - Sache ist erledigt
+- TOP 6.4: ÖPNV Roadmap - aktueller Sachstand - Sache ist erledigt
+- TOP 6.5: Welches Gremium berät und entscheidet über Lückenschlüsse in Radverkehrskonzepten? - zurückgestellt
+- TOP 6.6: Regenbogen Zebrastreifen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalsanierung der Schlackstraße, hier: Mitteilung über Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020 - Kenntnis genommen
+- TOP 7.1.2: Generalinstandsetzung der Friedrich-Karl-Straße in Abschnitten zwischen Hausnummer 224-236 und 238-270, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushalts - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 7.2.2: Verkehrsunfallentwicklung, Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 in Köln - zurückgestellt
+- TOP 7.2.3: Einrichtung eines Radfahrstreifens auf der Aachener Straße zwischen Brabanter Straße und Moltkestraße im Zuge des Radverkehrskonzeptes Innenstadt - Kenntnis genommen
+- TOP 7.2.4: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" - Kenntnis genommen
+- TOP 7.2.5: Fortsetzung Logistikforum - Kenntnis genommen
+- TOP 7.2.6: Änderungen zum Fahrplanwechsel 2020 - Kenntnis genommen
+- TOP 7.2.7: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - Kenntnis genommen
+- TOP 7.2.8: Ortsumgehung Köln-Meschenich - Kenntnis genommen
+- TOP 7.2.9: Verkehrsführungskonzept Altstadt - zurückgestellt
+- TOP 7.2.10: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - zurückgestellt
+- TOP 7.2.11: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Kommunikationskonzept für die Ost-West-Achse - Sache ist erledigt
+- TOP 8.2: Förderungen für Planungen von Schieneninfrastrukturprojekten - zur weiteren Bearbeitung in die Verwaltung überwiesen
