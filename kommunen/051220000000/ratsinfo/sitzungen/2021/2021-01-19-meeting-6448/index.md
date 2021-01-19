@@ -1,0 +1,53 @@
+# Bezirksvertretung Gräfrath (3. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-01-19T17:00:00+01:00
+- Ende: 2021-01-19T18:12:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZb43vq1M_xBRkwGVtLHGBQ8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6448
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWUQb8iILIZy7Kb9TnWLrOG3cZ5ldk2GCS6HQJEy6P2f/Bekanntmachung_Bezirksvertretung_Graefrath_19.01.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZequM92OFvdtz8xmsSnnZ5WJggEshneoDN_rryVw6XpF/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_19.01.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Änderung im Walder Baumbestand
+- TOP 1.2: Sachstand Neubau Supermarkt auf dem Bahnhofsgelände
+- TOP 1.3: Sachstand Neubau Supermarkt auf dem Bahnhofsgelände
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 2. Sitzung der Bezirksvertretung Gräfrath am 15.12.2020
+- TOP 4.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Teilaufhebung des Bebauungsplanes S 117 sowie Satzungsbeschluss zur Teilaufhebung des Bebauungsplans S 117 für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Wernerstraße, Sudetenstraße, Kuller Straße, Schlachthofstraße, Kronprinzenstraße, Obere Dammstraße, Albrechtstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 3) – Stadtbezirke Mitte und Gräfrath –
+- TOP 5.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Aufhebung des Bebauungsplanes S 338 – Teil B sowie Satzungsbeschluss zur Aufhebung des Bebauungsplans S 338 – Teil B für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Obere Dammstraße, Albrechtstraße, Kronprinzenstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 3) – Stadtbezirke Mitte und Gräfrath –
+- TOP 6.: Bauleitplanung Scheidter Feld Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes S 607 sowie Satzungsbeschluss zum Bebauungsplan S 607 für das Gebiet südlich und östlich der Scheidter Straße, westlich der Schlagbaumer Straße und nördlich der Obere Dammstraße (Beschluss 3) – Stadtbezirk Gräfrath –
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.1.1: Haltestellenumbau im Zuge der Umstellung der Linie 695 auf den Batterie-Oberleitungs-Bus hier: Haltestelle Dycker Straße, Fahrtrichtung Meigen; Umbau zum Buskap
+- TOP 7.2: Anfragen an die Verwaltung
+- TOP 7.3: Bauarbeiten auf der Donaustraße
+- TOP 7.4: Markierung auf der Melanchthonstraße
+- TOP 7.5: Winterdienst auf der Korkenziehertrasse
+- TOP 7.6: Fehlende Absperrungen auf der Korkenziehertrasse
+- TOP 7.7: Verkehrssituation auf der Schulstraße
+- TOP 7.8: Mülleimer auf dem Parkplatz der Fauna
+- TOP 7.9: Wildwechsel am Roggenkamp
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Grundstück am Roggenkamp
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 2. Sitzung der Bezirksvertretung Gräfrath am 15.12.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
+- TOP 4.3: Defekte Heizung in der Kita Lucasstraße
+- TOP 4.4: Grundstück gegenüber der Firma Haribo
