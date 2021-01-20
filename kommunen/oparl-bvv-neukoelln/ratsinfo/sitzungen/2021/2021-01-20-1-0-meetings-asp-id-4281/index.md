@@ -1,0 +1,174 @@
+# 53. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-01-20T17:00:00+01:00
+- Ende: 2021-01-20T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4281
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4281
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Instandhaltung des Hermmanplatzes - schriftlich beantwortet
+- TOP 1.2: Umsetzung des Beschlusses zur Rekommunalisierung der Schulreinigung - beantwortet
+- TOP 2: Mündliche Anfragen - (offen)
+- TOP 2.1: Wohnungsbaupotentiale nutzbar gemacht? - beantwortet
+- TOP 2.2: Honorarmittel aus Bonus-Programm und Berlin-Challenge - beantwortet
+- TOP 2.3: Impfungen in Neuköllner Pflegeeinrichtungen - beantwortet
+- TOP 2.4: Tod von Obdachlosen verhindern - beantwortet
+- TOP 2.5: Schutz der Risikogruppen in Pflege-und Senioreneinrichtungen konsequent umsetzen - beantwortet
+- TOP 2.6: Mehr Informationen über Grundsicherung und Grundrente - beantwortet
+- TOP 2.7: Sicher einkaufen in der Pandemie - schriftlich beantwortet
+- TOP 2.8: Reduzierung der Briefkastenleerungen - schriftlich beantwortet
+- TOP 2.9: Gewalt gegen Kinder und Jugendliche - beantwortet
+- TOP 2.10: Christliche Leitkultur statt Islamisierung - beantwortet
+- TOP 2.11: Auftreten von Virusmutationen - beantwortet
+- TOP 2.12: Wirksame Maßnahmen zum Schutz der Risikogruppen statt sinnlosen Aktivismus - beantwortet
+- TOP 2.13: Homeoffice beim Bezirksamt - beantwortet
+- TOP 3: Vertagte Drucksachen aus vorangegangenen Sitzungen - Mitteilungen - (offen)
+- TOP 3.1: Kostenfreier Eintritt zum "Rixdorfer Weihnachtsmarkt" auf dem Buga-Gelände - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: Mehr Grün für die Hermannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Zukunft für Gabenzäune - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Dauerhafte Schaffung von Videokonferenzräumen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Kritisches Votum zur Niemetzstraße durch den Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Stau abbauen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Maskenpflicht nach Aufkommen der zu Fuß Gehenden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.7: Richtung der Einbahnstraße in der Teterower Straße umdrehen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Vertagte Drucksachen aus vorangegangenen Sitzungen - Vorlagen zur Kenntnisnahme ZB/SB - (offen)
+- TOP 5.1: Verpackungsmüll - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Kostenfreiheit für die Nachfahren der Opfer des Nationalsozialismus bei der Verlegung der Stolpersteine in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Stolpersteine – zerstörte Gedenkorte in Neukölln wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Zwischenbericht der BAO Fokus des LKA Berlin veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Vertagte Drucksachen aus vorangegangenen Sitzungen - Große Anfragen - (offen)
+- TOP 7.1: Digitalisierung der Jugendarbeit in Neukölln - beantwortet
+- TOP 7.2: Umweltgerechtigkeit – Monitoring und Umsetzung in Neukölln - beantwortet
+- TOP 7.3: Termine in den Bürgerämtern - vertagt
+- TOP 7.4: Gewaltprävention in Neukölln - vertagt
+- TOP 7.5: Klimaschutzbeauftragten - vertagt
+- TOP 7.6: Pflegekonzepte für Stillgewässer und deren Umgebung - vertagt
+- TOP 7.7: Coronaeindämmungsmaßnahmen und deren Ermächtigungsgrundlage - gegenstandslos
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Anwendung Mietendeckel in Neukölln - vertagt
+- TOP 8.2: Ergebnisse der Lebensmittelkontrollen, aber keine Veröffentlichung - vertagt
+- TOP 8.3: Unterstellt das Bezirksamt den Buckowern Rassismus? - vertagt
+- TOP 9: Dringlichkeiten - erledigt
+- TOP 10: Geschäftliches - (offen)
+- TOP 10.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 11: Entschließungen - erledigt
+- TOP 12: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2021 - 2025 - überwiesen
+- TOP 13.2: Verlängerung der Veränderungssperre XIV-185db/32 für das Grundstück Rungiusstraße 9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185db - vertagt
+- TOP 14: Vorlagen zur Wahl - (offen)
+- TOP 14.1: Wahl einer Bürgerdeputierten in den Integrationsausschuss - vertagt
+- TOP 14.2: Wahl eines stellvertretenden Bürgerdeputierten in den Grünflächenausschuss - vertagt
+- TOP 15: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 15.1: Potenzialanalyse für mehr Grün in Nordneukölln - vertagt
+- TOP 15.2: MUF-Neubau stoppen - vertagt
+- TOP 15.3: Berlinovo Zweckentfremdung? - vertagt
+- TOP 15.4: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - vertagt
+- TOP 15.5: BVV live und archiviert im Internet - vertagt
+- TOP 15.6: Sondernutzung öffentlicher Flächen an touristischen Hotspots - vertagt
+- TOP 15.7: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - vertagt
+- TOP 15.8: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - vertagt
+- TOP 15.9: Köpenicker Straße und Prierosser Straße entlasten - vertagt
+- TOP 15.10: Einbahnstraße Prierosser - vertagt
+- TOP 15.11: Parkraumkonzept für Rudow - vertagt
+- TOP 15.12: Eichenquast Tempo 30 - vertagt
+- TOP 15.13: Bordsteinabsenkung und sichere Querung in der Britzkestraße - vertagt
+- TOP 15.14: Fußgänger-Querungshilfen an Sonnenallee - vertagt
+- TOP 15.15: Fahrverbote in der Silbersteinstraße aufheben - vertagt
+- TOP 15.16: Zero-emissions-Sportfelder und -hallen - vertagt
+- TOP 15.17: Fachkonferenz im Kinder- und Jugendbereich „Pandemie gemeinsam meistern“ - vertagt
+- TOP 15.18: Mehr Parkbänke am Fennpfuhl - vertagt
+- TOP 15.19: Entweder oder! Betreten der Rasenfläche verboten oder nicht? - vertagt
+- TOP 15.20: Neuköllner Ehrengrabstätten in besseren Zustand versetzen - vertagt
+- TOP 15.21: Jakobsweg in Neukölln ausschildern - vertagt
+- TOP 15.22: Partnerschaft mit Boulogne-Billancourt bei Paris vertiefen - vertagt
+- TOP 15.23: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - vertagt
+- TOP 15.24: Earth Hour - vertagt
+- TOP 15.25: Unterstützung des linksextremistischen Kollektivs „K-Fetisch“ sofort beenden - vertagt
+- TOP 15.26: Bewohnerschaft von Problemimmobilien im Richard- und Körnerkiez unterstützen - vertagt
+- TOP 15.27: Planung für die Umgestaltung des Karl-Marx-Platzes anpassen - vertagt
+- TOP 15.28: Rücknahme der Reinigungsklasse Prierosser Straße - vertagt
+- TOP 15.29: Schulwegsicherung Peter-Petersen-Schule - vertagt
+- TOP 15.30: Verlegung Taxistand von der Waltersdorfer Chaussee - vertagt
+- TOP 15.31: Pop-up-Radwege für Neukölln - vertagt
+- TOP 15.32: PopUp-Radweg Blaschkoallee - vertagt
+- TOP 15.33: Fahrradstreifen/ Fußgängerstreifen in der Wildenbruchstaße auf dem Bürgersteig ändern! - vertagt
+- TOP 15.34: Bürgersteig auf der nördlichen Seite der Blaschkoallee sanieren! - vertagt
+- TOP 15.35: Gehwegparken im Grüner Weg zulassen - vertagt
+- TOP 15.36: Mund-Nasen-Schutzpflicht an Neuköllner Schulen abschaffen - vertagt
+- TOP 15.37: Neukölln – Der Platz für Kinderrechte! - vertagt
+- TOP 15.38: Künstlern Auftritte ermöglichen! - vertagt
+- TOP 15.39: Ausbildungskapazitäten im Bezirk ausweiten - vertagt
+- TOP 15.40: Arbeit der Neuköllner Gleichstellungsbeauftragten absichern - vertagt
+- TOP 15.41: Fassadenreinigung für Kinderprojekt Reuterplatz durchführen - vertagt
+- TOP 15.42: Testvolumen für SARS-CoV-2 massiv ausweiten - vertagt
+- TOP 15.43: Öffentlichen Gesundheitsdienst besser auf epidemische Lagen vorbereiten und auch langfristig nach der Pandemie strukturell stärken - vertagt
+- TOP 15.44: Intensivbetten für Phantompatienten in einer Phantom-Pandemie - vertagt
+- TOP 15.45: Bezirkliche Wochen für Rückkehrer - vertagt
+- TOP 15.46: Microhubs am Karstadt Hermannplatz - vertagt
+- TOP 15.47: Vorkauf im Kauffall Heimstaden wahrnehmen - vertagt
+- TOP 15.48: Fahrrad-Linksabbiegespur auf der Massantebrücke - Radschnellverbindung "Y-Trasse" für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (3) - vertagt
+- TOP 15.49: Radspuren auf der Stubenrauchstraße - Radschnellverbindung "Y-Trasse" für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (4) - vertagt
+- TOP 16: Beschlussempfehlungen - (offen)
+- TOP 16.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2019 - vertagt
+- TOP 16.2: Radschnellverbindung „Y-Trasse“ für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (Rudower Krokusstraße als Fahrradstraße ausweisen) - vertagt
+- TOP 16.3: Absolutes Halteverbot in der Stubenrauchstraße verlegen - vertagt
+- TOP 16.4: Mehr Platz für Kinder in der Delbrückstraße - vertagt
+- TOP 16.5: Verkehrssicherheit am Kinderspielplatz Walkenrieder Straße Ecke Germaniapromenade - vertagt
+- TOP 16.6: Gasbetriebene Heizpilze/Terrassenheizer zulassen - vertagt
+- TOP 16.7: Busspur Waltersdorfer Chaussee I - vertagt
+- TOP 16.8: Einwohner*innenantrag: Pop-up-Radweg auf der Hermannstraße - vertagt
+- TOP 16.9: Micro-Hubs für den kleinräumigen Lieferverkehr („letzte Meile“) - vertagt
+- TOP 16.10: Kreuzung Treptower Straße/Weserstraße für Fußgänger*innen sicherer machen - vertagt
+- TOP 16.11: Querungshilfe Stubenrauchstraße - vertagt
+- TOP 16.12: Kleinfahrzeuge gehören nicht auf den Gehweg - vertagt
+- TOP 16.13: Sicherheit vor Kita Grashüpferchen - vertagt
+- TOP 16.14: Zukunftsfesten Hermannplatz gestalten - vertagt
+- TOP 16.15: Karstadt-Standort Hermannplatz weiterentwickeln - ohne Abriss des Hauptgebäudes - vertagt
+- TOP 16.16: Gerechtigkeit bei der Hauptstadtzulage - vertagt
+- TOP 16.17: Kosten der Umbenennung der Wissmannstr. erstatten - vertagt
+- TOP 16.18: „Lampenladen" dimmen - vertagt
+- TOP 16.19: Informationen über Beiräte zentralisieren - vertagt
+- TOP 16.20: Elsensteg unter Denkmalschutz stellen - vertagt
+- TOP 16.21: Obdachlose im Bezirk nicht vergessen! - vertagt
+- TOP 16.22: Kinder- und Jugendarbeit sowie Schule in Buckow ausbauen - vertagt
+- TOP 16.23: Bereitstellung von Sachmitteln für Inklusionskinder - vertagt
+- TOP 16.24: Internet für Jung und Alt - vertagt
+- TOP 16.25: Gute Arbeit in Neukölln - vertagt
+- TOP 16.26: Urban Gardening am Sasarsteig - vertagt
+- TOP 17: Große Anfragen - schriftlich - (offen)
+- TOP 18: Anträge - (offen)
+- TOP 18.1: Änderung der Geschäftsordnung - "Tagesordnung der BVV" - überwiesen
+- TOP 18.2: Gewerbetreibende auf dem Gelände des Bahnhof Rudow sichern - überwiesen
+- TOP 18.3: Kostenfreies Mittagessen an Grundschulen – Angebot auch ohne Präsenzunterricht aufrechterhalten - überwiesen
+- TOP 18.4: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden - überwiesen
+- TOP 18.5: Änderung des § 19 Absatz 10 der Geschäftsordnung - überwiesen
+- TOP 18.6: Mülleimer in Alt Rudow - überwiesen
+- TOP 18.7: U-Bahnanschluss in den Strategischen Gesamtrahmen Hauptstadtregion - überwiesen
+- TOP 18.8: Sicherer Schulweg für die Karlsgartenschule - überwiesen
+- TOP 18.9: Fahrradfahren auf der Gerlinger Straße - überwiesen
+- TOP 18.10: Neuer Radwegplan für Neukölln - überwiesen
+- TOP 18.11: Neugestaltung des Mittelstreifens der Warthestraße - überwiesen
+- TOP 18.12: Verlängerung der Buslinie 179 - überwiesen
+- TOP 18.13: Partizipation Schwarzer Menschen im Bezirk - überwiesen
+- TOP 18.14: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - überwiesen
+- TOP 18.15: Geschwindigkeitsmessung in der Köpenicker Straße - überwiesen
+- TOP 18.16: Partnerschaft mit Initiative(n) des globalen Südens - überwiesen
+- TOP 18.17: ESTREL-Tower klimagerecht beheizen - überwiesen
+- TOP 18.18: Homeoffice-Strategie - überwiesen
+- TOP 18.19: Gelder für Gewässerunterhaltung zweckbestimmt einsetzen und Artenschutz verbessern - überwiesen
+- TOP 18.20: Berlin hat bewiesen: Auch ohne Feuerwerk rutscht die Stadt gut ins neue Jahr - überwiesen
+- TOP 18.21: Verantwortungslose Corona-Politiksofort beenden - überwiesen
+- TOP 18.22: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen - überwiesen
+- TOP 18.23: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen II - überwiesen
+- TOP 18.24: Lokale Händler untersützen - überwiesen
+- TOP 18.25: Bürgerbeteiligung bei temporären Spielstraßen - überwiesen
