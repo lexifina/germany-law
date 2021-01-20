@@ -1,0 +1,102 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-01-20T17:00:00+01:00
+- Ende: 2021-01-20T20:25:00+01:00
+- Ort: Kirchstraße 6, 14163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4293
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4293
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 2.1: Sicherer Schulweg Giesensdorfer - Einrichtung Tempo 30 - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - im Ausschuss abgelehnt
+- TOP 4.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungsplan X-192 (Zehlendorf) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungsplan X-194 (Zehlendorf) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Änderung Parkordnung Theklastraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Sichereres Radeln in der Goerzallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Waldsiedlung Onkel-Toms-Hütte: Einbahnstraßen für Radfahrende in Gegenrichtung öffnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Veranstaltungskultur unter freiem Himmel fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Durchgehendes Tempo 30 in der Gélieustraße und Schützenstraße bis Birkbuschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Sichere Querung für Fußgänger/innen am Lichterfelder Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Teltower Damm: Tempo 30 erkennbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Defekte Sitzbank wiederherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Giesensdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Radweg in der Gärtnerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Bäderbus zum Strandbad Wannsee soll weiterfahren - in der BVV abgelehnt
+- TOP 4.17: Ladezonen in der Schloßstraße deutlich kennzeichnen und Nutzungszeiten anpassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Dialogdisplay in der Carstennstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Querungshilfe zur S1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Bezirkliche Gedenkkultur noch sichtbarer machen! - in der BVV abgelehnt
+- TOP 4.21: Das Strandbad Wannsee muss auch außerhalb der Schulferien mit dem Bus erreichbar sein - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Dialog-Display im Hüttenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Ehrende Erinnerung für Prof. Dr. August von Wassermann am Corrensplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Corona-Bekämpfung effektiver gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Breitbandanbindung an den Schulen sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Bebauungsplan 6-24 (Fischerhüttenstraße) Entscheidung zur Anwendung des § 33 Abs. 2 Baugesetzbuch (BauGB) für das Bauvorhaben "Schuberts Gärten" im Geltungsbereich des B-Plans 6-24 auf den Grundstücken Fischerhüttenstraße 39/43 und den Flurstücke 1294, 1295, 1297, 92, 1455/16 sowie 1456/16 im Bezirk Steglitz-Zehlendorf, Ortsteil Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Obdachlosenunterkunft für Frauen - in der BVV abgelehnt
+- TOP 4.28: (Vor)Gärten des Grauens verbieten! - in der BVV abgelehnt
+- TOP 4.29: Soziale Lage in Pandemiezeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2019 - überwiesen
+- TOP 5.2: Rosemeyerweg umbenennen! - überwiesen
+- TOP 5.3: Computer für die Arbeit in den Kitas - überwiesen
+- TOP 5.4: Abgrenzung naturbelassener Bereiche von Erholungsnutzung - überwiesen
+- TOP 5.5: Erosionsschutz am Schlachtensee und Krumme Lanke beachten - überwiesen
+- TOP 5.6: Verkehrssicherheit im Bereich Paul-Schneider-Grundschule in der Seydlitzstraße erhöhen! - überwiesen
+- TOP 5.7: Beitritt zum Gesunde Städte-Netzwerk - überwiesen
+- TOP 5.8: Weitere Spielplätze sukzessive behindertengerecht ausbauen und weitere Inklusionsspielgeräte anschaffen - überwiesen
+- TOP 5.9: Solar-Mülleimer - überwiesen
+- TOP 5.10: Platz des 4. Juli – Was jetzt zu tun ist - überwiesen
+- TOP 5.11: Corona-Kummertelefon gegen die Einsamkeit - überwiesen
+- TOP 5.12: Bürgersteige Dahlemer Weg/Mörchinger Straße absenken - überwiesen
+- TOP 5.13: Mehr Sauberkeit in Lichterfelde - überwiesen
+- TOP 5.14: Modellversuch: Fahrerloser Minibus auf der Matterhornstraße - überwiesen
+- TOP 5.15: Fahrradabstellplätze an den Uferstraßen von Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.16: Schülerinnen- und Schülerhaushalt in Steglitz-Zehlendorf unterstützen - überwiesen
+- TOP 5.17: Städtepartnerschaft Poniatowa - überwiesen
+- TOP 5.18: Rechtzeitige Planungen für einen barrierefreien Zugang zum Schlachtensee auf der Höhe des S-Bahnhofes und für eine entsprechende Herrichtung eines Abschnitts des Uferweges - überwiesen
+- TOP 5.19: Vom Brand betroffenen Händlern in der Ladenstraße des U-Bahnhofes Onkel Toms Hütte helfen - überwiesen
+- TOP 5.20: Uferbereiche des Wannsees in die Reinigung durch die BSR einbeziehen - überwiesen
+- TOP 5.21: An den zentralen Zugängen zum Schlachtensee und zur Krummen Lanke Toilettenhäuser aufstellen und Infrastruktur verbessern - überwiesen
+- TOP 5.22: Busspur Teltower Damm unter Erhalt der Parkplätze - überwiesen
+- TOP 5.23: Havelchaussee – erst prüfen, dann entscheiden - überwiesen
+- TOP 5.24: Fortschreibung der Zuweisung 2021 - überwiesen
+- TOP 5.25: Mit Schnelltests Leben retten und Besuchsverboten vorbeugen - überwiesen
+- TOP 5.26: LZA Buhrowstraße/Steglitzer Damm - überwiesen
+- TOP 5.27: Feuerwehrzufahrt für die Grundstücke Ortlerweg 29a-e - überwiesen
+- TOP 5.28: Temporäres Aufstellen des Verkehrsschildes 239 in der Finckensteinallee 3/Goerzallee - überwiesen
+- TOP 5.29: Verkehrssicherungspflicht in der Machnower Straße - überwiesen
+- TOP 5.30: Gehwegverbreiterung Teltower Damm 279 und 281 - überwiesen
+- TOP 5.31: Abbildung der Kosten für Asylbewerber in Steglitz-Zehlendorf - überwiesen
+- TOP 5.32: Pandemiekosten in der KLR - überwiesen
+- TOP 5.33: Verkehrssicherheit in der Breisgauer Straße in Schlachtensee verbessern - überwiesen
+- TOP 5.34: Ortsteil Schlachtensee durch Schilder sichtbar machen - überwiesen
+- TOP 5.35: Projekt „Allris“ – Digitales Arbeiten in der BVV - überwiesen
+- TOP 6: Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 7: Bebauungspläne - (offen)
+- TOP 7.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - (offen)
+- TOP 7.1.1: Vorhabenbezogener Bebauungsplan 6-48 VE REWE-Markt Fischerhüttenstraße/Ecke Argentinische Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Wahl der bezirklichen Seniorenvertretung - in der BVV abgelehnt
+- TOP 8.2: Bildungsverbund in Lichterfelde-Süd/der Thermometersiedlung etablieren - in der BVV abgelehnt
+- TOP 8.3: Ein Klima-Rat für Steglitz-Zehlendorf – denn das Klima geht uns alle an! - in der BVV abgelehnt
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Schutzräume für obdachlose Menschen jetzt sofort! - überwiesen
+- TOP 9.2: BVV Steglitz-Zehlendorf endlich wieder handlungsfähig machen! - überwiesen
+- TOP 10: Kleine Anfragen - beantwortet
+- TOP 10.1: Schulentwicklungsplan - beantwortet
+- TOP 10.2: Umsetzung des Hygienekonzeptes an den Schulen des Bezirkes - beantwortet
+- TOP 10.3: Schadet die Affäre Franziska Giffey dem Bezirk und Berlin als Wissenschaftsstandort? - beantwortet
+- TOP 10.4: Impfungen gegen SARS-CoV-2 im Bezirk - beantwortet
+- TOP 10.5: Steglitz-Zehlendorf fehlt im Hauptausschuss – 50.000 € Strafe fällig? - beantwortet
+- TOP 10.6: Wer warnt die Risikogruppen konkret vor Corona? - beantwortet
