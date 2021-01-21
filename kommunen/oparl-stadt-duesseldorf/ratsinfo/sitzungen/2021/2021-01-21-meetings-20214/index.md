@@ -1,0 +1,51 @@
+# Bezirksvertretung 8 - SITZUNG ENTFÄLLT -
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-21T18:00:00+01:00
+- Ende: 2021-01-21T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20214
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20214
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 21.01.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00396788.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Breidenplatz - Gestaltungskonzept und Bürgerbeteiligung - beschlossen
+- TOP 5: Bezirkssportanlage Wilhelm-Heinrich-Weg 2 - Umbau Tennenspielfeld in eine Multifunktionale Sportfläche - beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - beschlossen
+- TOP -: Anfragen
+- TOP 7: Spielplatz Posener Straße (Anfrage SPD-Fraktion)
+- TOP 8: Barrierefreie Umgestaltung S-Bahnhof Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 9: Querungssituation Königsberger Straße, Höherweg und Sandträger Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 10: Bericht Verkehrsunfallkommission für den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 11: Gewerbegebiet Jägerstraße / Cruthovener Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 12: Silvesterschäden an Wertstoffcontainern im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Containerstationen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP -: Anträge
+- TOP 16: Kreuzung Reisholzer Straße/Kuthsweg/Schlesische Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 17: Sitzungssaal Rathaus Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 18: Zusätzliche Haltestelle "Jägerstraße" auf der Buslinie 723 in Richtung Eller Mitte (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 19: Maßnahmen der Deutschen Bahn AG im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 20: Rathelbeckstraße - Sitzgelegenheiten (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Parkplatz Großer Torfbruch (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 23: Fahrradstraße (Antrag SPD-Fraktion)
+- TOP 24: Radweg Vennhauser Allee (Antrag SPD-Fraktion)
+- TOP 25: Waldklassenzimmer im Forstrevier Süd (Antrag SPD-Fraktion)
+- TOP 26: Sportgeräte auf den Spielplätzen im Stadtbezirk 8 (Antrag SPD-Fraktion)
+- TOP 27: Bienenweide im Bereich Friedrich-Engels-Straße (Antrag SPD-Fraktion)
+- TOP 28: Freiheitplatz (Antrag SPD-Fraktion)
+- TOP -: Informationsvorlagen
+- TOP 29: Erweiterung der Kindertageseinrichtung Fuldaer Str. 33a, Stadtbezirk 8 (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 30: Anregungen zum Toilettenkonzept
+- TOP 31: Straßen- und Wegekonzept 2021 - 2025
+- TOP 32: Gertrudisplatz - aufsuchende Sozialarbeit
+- TOP 33: Baumfällungen im Stadtbezirk 8
