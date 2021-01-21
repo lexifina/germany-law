@@ -1,0 +1,93 @@
+# 3. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-21T16:00:00+01:00
+- Ende: 2021-01-21T16:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23270
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23270
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Baubeschluss: Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - zurückgestellt
+- TOP 3.1.1: Änderungsantrag zu 3.1. Baubeschluss: Radstreifen auf Höhe Aachener Weihers (Stadteinwärts), Änderungsantrag Grüne - zurückgestellt
+- TOP 3.1.2: Baubeschluss Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - zurückgestellt
+- TOP 3.1.3: Ergänzungsantrag zu Top 3.4, Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - zurückgestellt
+- TOP 3.1.4: ÄA zu TOP 3.4 Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - zurückgestellt
+- TOP 3.2: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten inklusive Interimsbauten für das Gymnasium Kreuzgasse, Vogelsanger Straße 1 - Erweiterter Planungsbeschluss - ungeändert beschlossen
+- TOP 3.3: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2021 - ungeändert beschlossen
+- TOP 3.4: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 3.5: Annahme einer Schenkung für das Köln-Kolleg - zurückgestellt
+- TOP 3.6: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - ungeändert beschlossen
+- TOP 3.7: Städtebauliches Planungskonzept Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord; hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes für das nördliche Baufeld - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation Brüsseler Straße (AZ.: 02-1600-260/18) - zurückgestellt
+- TOP 4.1.1: Änderungsantrag - Parksituation Brüsseler Straße - Änderungsantrag Grüne - zurückgestellt
+- TOP 4.2: Bügereingabe nach § 24 GO - Zusatzschilder Rheinauhafen - Az: 125/20 B - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Sicherung des restaurierten Severinsdenkmals an der Kirche St. Johann Baptist (Az.: 02-1600-277/19) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Parkraumoptimierung in der Engelbertstraße - zurückgestellt
+- TOP 5.1.2: Zebrastreifen am Eierplätzchen - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.1.2.1: Änderungsantrag zu 5.1.2 Zebrastreifen am Eierplätzchen/Südstadt, Änderungsantrag Grüne - ungeändert beschlossen
+- TOP 5.1.3: Poller im Kurvenbereich Darmstädter Straße / Kurfürstenstraße (Neustadt/Süd), Antrag SPD - ungeändert beschlossen
+- TOP 5.1.4: Fahrradschutzstreifen Hohenzollernring Einbiegung in die Maastrichter Straße, Antrag SPD - zurückgestellt
+- TOP 5.1.5: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.1.6: Verkehrsführung im Bereich Friesenstraße / Friesenwall, Antrag Grüne - zurückgestellt
+- TOP 5.1.6.1: Änderungsantrag - Verkehrsführung im Bereich Friesenstraße / Friesenwall - Änderungsantrag FDP - zurückgestellt
+- TOP 5.1.7: Lückenschluss der verkehrsberuhigten Bereich im Bereich Severinswall, An der Bottmühle, Karl-Korn-Straße und Dreikönigenstraße, Zwirnerstraße - sowie Öffnung der Einbahnstraßen Dreikönigenstraße und An der Bottmühle für den Radverkehr, Antrag Grüne - zurückgestellt
+- TOP 5.1.8: Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße / Ehrenstraße, gemeinsamer Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.1.8.1: Änderungsantrag – Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Str./Ehrenstraße: AN/1336/2020 - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.1.8.2: Änderungsantrag - Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße/Ehrenstraße, Änderungsantrag FDP - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.1.8.3: Änderungsantrag Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße / Ehrenstraße, Änderungsantrag CDU - endgültig abgelehnt
+- TOP 5.1.8.4: gem. Änderungsantrag - Steigerung der Aufenthaltsqualität und Nahmobilität durch Neuordnung der Verkehre im Bereich Breite Straße / Ehrenstraße-gem. Änderungsantrag Grüne, SPD, Linke, KlimaFreunde, FDP, Die Partei - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Verbesserung Radweg Riehler Straße, gem. Antrag Grüne, Linke, Klimafreunde und FDP - ungeändert beschlossen
+- TOP 5.2.2: Autofreie Altstadt - Umsetzung weiterer kurzfristiger Maßnahmen, Antrag Grüne - zurückgestellt
+- TOP 5.2.3: Reste der Stollwerck-Fabrik erhalten/sanieren, Antrag SPD - zurückgestellt
+- TOP 5.2.4: Verbesserung der Rad- und Fußverkehrsführung an der Bahnunterführung Bachemer Straße/Lindenstraße, gem. Antrag Klimafreunde, SPD, Die Linke und FDP - zurückgestellt
+- TOP 5.2.4.1: Anderungsantrag Radschnellweg Bachemer Straße 0021/2021, Änderungsantrag Die Linke - zurückgestellt
+- TOP 5.2.5: Neue Verkehrsführung / Runder Tisch im Bereich der Severinsstraße, Antrag Grüne - zurückgestellt
+- TOP 5.2.6: Anbringen einer Anzeige der Zeit bis zum Aufbrauchen des verbleibenden CO2-Budgets zur Einhaltung des 1,5-Grad-Zieles, gem. Antrag Klimafreunde und Grüne - zurückgestellt
+- TOP 5.2.7: Vermeidung von Radparken auf Mittelalleen/Grünanlagen, Antrag Grüne - zurückgestellt
+- TOP 5.2.8: Zebrastreifen Spichernstr./Kamekestr., Antrag Grüne - zurückgestellt
+- TOP 5.2.9: Dringlichkeitsantrag - Weiterführen der "Trauorte in einem besonderen Ambiente", gem. Antrag Grüne, CDU, SPD, Linke - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.1.1: Aufwertung der Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße
+- TOP 6.1.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.6: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad, Anfrage Grüne - zurückgestellt
+- TOP 6.1.7: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.1.8: Lüftung und Klimatisierung von Klassenräumen, Dimensionierung von Schulhöfen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.9: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.1.10: Begrünung insbesondere des Ubierring, Karolingerring und Sachsenring - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Anfrage Sachstand Soziale Erhaltungssatzung für das Rathenauviertel (AN/05092019), Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Videobeobachtung im Gerlingquartier, Anfrage Die Linke - zurückgestellt
+- TOP 6.2.3: Barrierefreie Ampeln, Anfrage SPD - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Sanierungsmaßnahmen im Historischen Rathaus - zurückgestellt
+- TOP 9.2: Änderungen zum Fahrplanwechsel 2020 - zurückgestellt
+- TOP 9.3: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 9.4: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 9.5: Umbaumaßnahmen der Straße "Am Kümpchenshof" - zurückgestellt
+- TOP 9.6: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - zurückgestellt
+- TOP 9.7: Gemeinschaftsprojekt „Hecken und Säume“ - zurückgestellt
+- TOP 9.8: Verkehrsberuhigter Geschäftsbereich Severinstraße - zurückgestellt
+- TOP 9.9: Zielvereinbarungen 2021 Bürgerzentrum Alte Feuerwache, Quäker Nachbarschaftsheim, Bürgerhaus Stollwerck, Bürgerzentrum Deutz - zurückgestellt
+- TOP 9.10: Verkehrsführungskonzept Altstadt - zurückgestellt
+- TOP 9.11: Nachfrage zum aktuellen Stand beim Baui in der Südstadt - zurückgestellt
+- TOP 9.12: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - zurückgestellt
