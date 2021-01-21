@@ -1,0 +1,73 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-21T16:10:00+01:00
+- Ende: 2021-01-21T16:43:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23372
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23372
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: aktuelle Tagesordnung, Stand 21.01.2021_10:00 Uhr Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800874.pdf
+- Ergebnisprotokoll: aktuelle Tagesordnung, Stand 21.01.2021_10:00 Uhr Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800874.pdf
+- Wortprotokoll: aktuelle Tagesordnung, Stand 21.01.2021_10:00 Uhr Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00800874.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Bestellung einer Schriftführerin und ihrer Stellvertreterin - ungeändert beschlossen
+- TOP -: C Tonbandaufzeichnungen der Sitzungen des Ausschusses Umwelt und Grün - ungeändert beschlossen
+- TOP -: D Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Sektorale Ziele des Klimarates - zurückgestellt
+- TOP -: Sektorale Ziele des Klimarates - zurückgestellt
+- TOP 1.2: Anfrage der Fraktion Die Linke betreffend Trinkwasserversorgung in Köln 02 - zurückgestellt
+- TOP -: Trinkwasserversorgung in Köln 02 - zurückgestellt
+- TOP 1.3: Anfrage der FDP-Fraktion betreffend Private Hundehaltung in Köln - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betreffend Trockenheit trotzen, Gießwasserbrunnen aufstellen - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Linke betreffend Energieerzeugungsbilanz erstellen - zurückgestellt
+- TOP 2.3: Antrag der FDP-Fraktion betreffend Einrichtung einer Wegbeleuchtung vom westlichen Ende des Rautenstrauchkanals bis Stadtwaldgürtel - zurückgestellt
+- TOP 2.4: Antrag der Gruppe GUT betreffend Bestandsschutz Bäume in Kleingartenanlagen - Sache ist erledigt
+- TOP -: Gemeinsamer Änderungsantrag der Fraktion Die Linke, SPD-Fraktion und FDP-Fraktion betreffend Bestandsschutz Bäume in Kleingartenanlagen TOP 2.4 - endgültig abgelehnt
+- TOP -: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion, der VOLT-Fraktion und der Ratsgruppe GUT betrifft Bestandsschutz Bäume in Kleingartenanlagen - TOP 2.4 - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 4.1.2: Machbarkeitsstudie Wiedervernässung Merheimer Bruch - ungeändert empfohlen
+- TOP 4.1.3: Bewegungs-Parcours im Hafenpark Deutz - ungeändert empfohlen
+- TOP 4.1.4: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - zurückgestellt
+- TOP 4.1.5: Zukünftige Nutzung des Verkehrsübungsplatzes in Köln-Poll - Babywald für Köln - ungeändert beschlossen
+- TOP 4.1.6: Satzung der Sport- und Erholungsanlage Fühlinger See - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: PFC Belastung - Kölner Süden - geändert beschlossen
+- TOP 4.2.2: Beschaffung eines Elektroschmalspurschleppers für den Botanischen Garten - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind - zurückgestellt
+- TOP 5.2: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP -: Gemeinsamer Änderungsantrag der SPD- und FDP-Fraktion zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “ - ohne Votum in nachfolgende Gremien
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Öffentlichkeitsbeteiligung Projekt Glashüttenstraße - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.4: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.5: Stadtklima-/Stadtverschönerungsprogramm 2020 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.6: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.7: Stellungnahme zum Dringlichkeitsantrag der Fraktion Die Linke Dachbegrünung und Photovoltaik nicht durch Verträge zu Mobilfunkmasten ausbremsen! AN/1159/2020 - Kenntnis genommen
+- TOP 7.8: Mündliche Nachfrage zur Beantwortung der Anfrage 0957/2020 der SPD-Fraktion (AN/0390/2020) "Starke Veedel - Starkes Köln" - Haus-, Hof- und Fassadenprogramm - Kenntnis genommen
+- TOP 7.9: Entsiegelung von Schulhöfen - Verwendung der Mittel aus dem politischen Veränderungsnachweis zum Haushaltsplan 2020/2021 - Kenntnis genommen
+- TOP 7.10: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - Kenntnis genommen
+- TOP 7.11: Schenkung Elektrotransporter für den Wildpark Dünnwald - Kenntnis genommen
+- TOP 7.12: Gemeinschaftsprojekt „Hecken und Säume“ - Kenntnis genommen
+- TOP 7.13: Stadtklima-/Stadtverschönerungsprogramm 2020 - Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.14: Stadtklima- und Verschönerungsprogramm 2019 und 2020 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
