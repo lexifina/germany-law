@@ -1,0 +1,159 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2021-01-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6129599
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6129599
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 1.4: Benennung der Baumschutzbeauftragten
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 2.4: UA Planung
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.4.2.: Wasserburger Landstr. 183 - Erweiterung der Öffnungszeiten einer Wettannahme von 6.00 Uhr - 20.00 Uhr zu 6.00 Uhr - 22.00 Uhr
+- TOP 7.4.3.: Von-Eckert-Str. 4-6 - Neubau 2er Mehr-- und 2er Einfamilienhäuser mit Tiefgarage - TEKTUR zu 1.2-2020-17464-32
+- TOP 7.4.4.: Paul-Henri-Spaak-Str. - Erweiterung des Ausstellungsgeländes Nord; befristet vom 01.07.2021 - 01.07.2022 Fußgängerbrücke über die A94 für die BAUMA 2022; befristet vom 21.03. - 22.04.2022 (Paul-Henri-Spaak-Str. / Töginger Str. / Ottendichler Str.)
+- TOP 7.4.5.: Hella-von-Wstarp-Str. 38 - Erweiterung eines Einfamilienhauses, Neubau eines Nebengebäudes - TEKTUR zu 1.2-2019-24146-32
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.6: UA Umwelt
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Messe zur heiligen Corona" Messe zur heiligen Corona vom 15.-22.12.2020 5.430,00 € / Az. 0262.0-15-0372
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Kameruner Straße: Verkehrs- und Parkplatzsituation aufgrund der Nachverdichtung
+- TOP 3.2.2.: Florastraße: Verkehrsverschärfung durch eingeführtes Haltverbot
+- TOP 3.2.3.: Feldbergstraße: Geänderter Algorithmus der Lichtsignalanlage
+- TOP 3.2.4.: Messestadt West: Einsatz von mobilen Straßenschildern
+- TOP 3.2.5.: St. Augustinus-Straße: Einrichten eines beidseitiges Parkverbots bzw. eines Zebrastreifens an der Straßenmündung zum Gustav-Lindner-Weg
+- TOP 3.2.6.: Gottschalkstraße / Truderinger Straße: Einrichtung eines absoluten Haltverbots
+- TOP 3.2.7.: Friedenspromenade / Wasserburger Landstraße: Verstärkter Hinweis auf Radverkehr
+- TOP 3.2.8.: Riemer Straße / Am Mitterfeld: Gefahr für Fußgänger*innen durch zu schnell abbiegende Fahrzeuge
+- TOP 3.2.9.: Sanierung der Parkanlage zwischen Bahnhof Trudering und der Kreillerstraße: Versiegelung von Grünfläche für den Fußweg
+- TOP 3.2.10.: St.-Augustinus-Straße: Anbringung eines T30-Verkehrsschildes
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: Rahmenplanung Wasserburger Landstraße: Durchführung einer Öffentlichkeitsveranstaltung als Präsenzveranstaltung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Forderung nach Ausbau von Basketballplätzen in der Messestadt
+- TOP 3.5.2.: Willy-Brandt-Platz: Belebungs- und Nutzungs-Vorschlag als "Flow Wheeler"-Fläche
+- TOP 3.5.3.: Trudering-Riem: Geeignete Plätze für ein Boulderangebot
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Waldtrudering: Lärmbelästigung durch Glasflaschencontainer, Verlagerung und/oder Neuschaffung von Wertstoffinseln
+- TOP 3.6.2.: Horst-Salzmann-Weg: Errichtung einer Tischtennisplatte im Bereich des Grünstreifens
+- TOP 3.6.3.: Ingeborg-Bachmann-Straße und Magdalena-Schwarz-Straße: Begrünung zweier Pergolen
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Containerzüge und Trudering-Riem – quo vadis?
+- TOP 4.7.2.: Erhöhung der Verkehrssicherheit durch verbesserten Winterdienst auf wichtigen Radwegverbindungen in Trudering
+- TOP 4.7.3.: Demokratiemobil zur Bundestagswahl
+- TOP 4.7.4.: Kunstkiosk - dauerhaftes Kunstangebot im Stadtbezirk
+- TOP 4.7.5.: Mehr Weitsicht für die Messestadt – Aussichtsfernrohr für den Berg im Riemer Park
+- TOP 4.7.6.: Jugend und Polizei: Gemeinsamkeiten entdecken und Vertrauen verstärken
+- TOP 4.7.7.: Pilotversuch im Stadtbezirk mit „Rapid Asphalt“ bei Sanierung und Neubau von Fahrradwegen, etc. und in Kreuzungen
+- TOP 4.7.8.: Skulpturengarten - öffentliche Plätze neu denken
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Wintermarkt in der Messestadt – den Willy-Brandt-Platz endlich nutzen!
+- TOP 5.1.2.: Einrichten von Livestreams bei den Plenumssitzungen des BA 15 zum Schutz der Gesundheit sowie zum Ermöglichen der Teilhabe und der Transparenz
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Hugo-Weiß-Straße: Halteverbotsschilder bei Rollstuhlrampen
+- TOP 5.2.2.: Martin-Empl-Ring / Am Neufeld / Stockerweg: Sicherung der Spielstraßen
+- TOP 5.2.3.: Kirchtruderinger Straße / Teuchertstraße: Verschärfte Sicherheitsmaßnahmen am Zebrastreifen
+- TOP 5.2.4.: Flughafen-Riem-Straße: Widmung des 4. Bauabschnittes und Verkehrsfreigabe
+- TOP 5.2.5.: Am Eulenhorst: Anbringen von Halte- bzw. Parkverbotsschildern
+- TOP 5.2.6.: Mit dem Fahrrad zum Friesplatz
+- TOP 5.2.7.: Wie geht es beim Blanckertzweg weiter?
+- TOP 5.2.8.: Für eine differenzierte Radroutenwegweisung
+- TOP 5.2.9.: Wasserburger Landstraße Ecke Jagdhornstraße: Mangelhafte Fahrbahnmarkierungen
+- TOP 5.2.10.: Maßnahmen zur BAUMA: neue Zufahrtsregelung prüfen - Ziffer 1
+- TOP 5.2.11.: Konsequente Verkehrsüberwachung der Wohngebiete in der Messestadt südlich der Hauptfahrbahn Willy-Brandt-Allee und des Edinburgh Platzes während der IAA (Internationale Automobilausstellung) und aller künftigen Großmessen
+- TOP 5.2.12.: Bajuwarenstraße: Begrenzung der Geschwindigkeit auf T30
+- TOP 5.2.13.: Bajuwarenstraße: Anfrage zur T30-Zone
+- TOP 5.2.14.: Riemer Friedhofsampel wird fußgängerfreundlich
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Wochenmarkt für die Arrondierung Kirchtrudering
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Rahmenplanung Wasserburger Landstraße: Städtebauliche Entwicklung im Teilbereich der sog. „Truderinger Linse“, insbesondere die geplante Höhenentwicklung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Mehr Schattenplätze am Riemer See – Sonnensegel als saisonale Lösung
+- TOP 5.6.2.: Maßnahmen zur Reduktion der Lichtverschmutzung von Straßenlaternen
+- TOP 5.6.3.: Fassadenbegrünung am Schulcampus Messestadt
+- TOP 5.6.4.: Riemer Park: Bitte um bessere Kontrolle der Leinenpflicht für Hunde
+- TOP 5.6.5.: Tangastraße / Waterbergstraße: Aufwertung der Grünfläche durch Sportgeräte
+- TOP 5.6.6.: Am Moosfeld: Lärmbelästigung durch Motocrossfahrer
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen auf Grundlage der Rahmenplanung Wasserburger Landstraße - Wasserburger Landstraße - 15. Stadtbezirk Trudering - Riem
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Bewerbung für das REGSAM-Schwerpunktthema Inklusion
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 9.1.1.: Einladung zur Online-Infoveranstaltung zum Thema Sommerstraßen 2021
+- TOP 9.1.2.: Einladung zur Informationsveranstaltung für Bezirksausschüsse des Sozialreferates
+- TOP 9.1.3.: Ortszentrum Trudering: Ortstermin zur Abstimmung der Zufahrtssituation der FFW und BRK während der Umbauphase
+- TOP 9.1.4.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb hier: Unterausschusssitzungen für Januar 2021
+- TOP 9.1.5.: FFP2 Masken für Bezirksausschussmitglieder BA-Antrag Nr. 20-26 / B 01271 des BA 2 - Ludwigsvorstadt-Isarvorstadt vom 24.11.2020
+- TOP 9.1.6.: Ergebnispräsentation „Vertiefte Machbarkeitsuntersuchungen für sechs Radschnellverbindungen (RSV) in München und Umland“ am 25.11.2020
+- TOP 9.1.7.: Forellenstraße: Umgestaltung der Verkehrssituation vor der Forellenschule BA-Antrag Nr. 20-26 / B 01203 vom 19.11.2020
+- TOP 9.1.8.: Veranstaltung auf öffentlichem Verkehrsgrund: Gottesdienst "Taufe des Herrn" des Pfarrverband Vier Heilige Trudering-Riem am 10.01.2020 auf dem Platz der Menschenrechte Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.9.: Graf-zu-Castell-Str. - MK2 Riem - Neubau eines Verwaltungs- und Wohngebäudes mit Kindertageseinrichtung und öffenlichen Nutzungen (Graf-zu-Castell-Str. / Joseph-Wild-Str. / Olof-Palme-Str. / Willy-Brandt-Allee) Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Erstellung eines parteiübergreifenden Infoflyer der Bezirksschüsse; Information des Migrationsbeirats
+- TOP 10.1.3.: Fristverlängerung zu BA-Antrag Nr. 20-26/ B 00649 vom 16.07.2020 (Erwerb eines Biotop-Grünstreifens)
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) An der Point und An der Seidlbreite
+- TOP 10.2.2.: Grünpfeilschild mit Beschränkung auf den Radverkehr: Information zum Stand der Einführung
+- TOP 10.2.3.: Mehrjahresinvestitionsprogramm 2020-2024 Maßnahmen im Bereich des Kommunalreferates Programmentwurf Sitzungsvorlage Nr. 20-26 / V 01922
+- TOP 10.2.4.: Zukunftsbahnhof Trudering - Realisierung der Machbarkeitsstudie über die Ertüchtigung der Fußgängerverbindung
+- TOP 10.2.5.: U-Bahn Station Messestadt West - überdachte Fahrradabstellanlage Rückmeldung des Baureferats zum Beschluss des BA 15 vom 18.06.2020
+- TOP 10.2.6.: Informationen der Projektgruppe Trudering
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.2.: Lehrer-Götz-Weg: Einrichtung einer vollwertigen Poststelle
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Monikastraße b) Graf-Spee-Platz c) Teuchertstraße d) Heilwigstraße e) Zehntfeldstraße f) Rotfuchsweg g) Riemer Straße
+- TOP 10.4.2.: Protokoll der Sitzung der Kommission für Stadtgestaltung vom 29.09.2020
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2021
+- TOP 10.5.2.: AKIM-Bericht des 2. Halbjahres 2020
+- TOP 10.5.3.: (U) Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2020 – 2024 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 10.6.1.: Erfahrungsbericht nach einem Jahr Radlramadama - Baum und Laterne
+- TOP 10.6.2.: Ausnahmezulassung für a) Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet b) Reinigungsarbeiten an oberirdischen Verkehrsanlagen im Stadtgebiet München/Nord c) Reinigungsarbeiten an oberirdischen Verkehrsanlagen im Stadtgebiet München/Süd d) Arbeiten an Anlagen des ÖPNV/Weichenwartung Tram
+- TOP 10.6.3.: Riemer See - Staudenbeete, Röhricht und Uferbereiche schützen Antwortschreiben zum Antrag Nr. 20-26 / A 00129 vom 15.06.2020
+- TOP 10.6.4.: Ende der Quarantänezone Feldkirchen zum Asiatischen Laubholzborkkäfer Schreiben des Oberbürgermeisters
+- TOP 8.1.1.: Kreillerstr. 173 Tangastr. 2 Teuchertstr. 28a Von-Gravenreuth-Str. 29 Weißpfennigweg 14
+- TOP 8.2.1.: Am Birkicht 3-3b Bergerwaldstr. 23 Häherweg 3 Hererostr. 23 Hererostr. 30 Kästlenstr. 4 Kreuzerweg 19 Paul-Henri-Spaak-Str Schwanenweg 23 Teuchertstr. 28a Von-Eckert-Str. 4-6 Wasserburger Landstr. 183
