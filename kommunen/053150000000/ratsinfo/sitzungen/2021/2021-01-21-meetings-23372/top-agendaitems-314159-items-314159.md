@@ -1,0 +1,8 @@
+# TOP -: Gemeinsamer Änderungsantrag der SPD- und FDP-Fraktion zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “
+
+- Sitzung: Sitzung des Ausschusses Klima, Umwelt und Grün (2021-01-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/314159
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/148693
