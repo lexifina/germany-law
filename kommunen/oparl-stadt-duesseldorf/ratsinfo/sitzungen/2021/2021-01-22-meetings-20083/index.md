@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-22T16:30:00+01:00
+- Ende: 2021-01-22T00:00:00+01:00
+- Ort: Geänderter Sitzungsort und -beginn: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula- -SITZUNG ENTFÄLLT-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20083
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20083
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö 20210122 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397430.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö 20210122 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397430.pdf
+- Wortprotokoll: Sitzungspaket Ö 20210122 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397430.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Platz für Jugendliche in Wersten prüfen - Antrag des Jugendrates
+- TOP 4.5: Baumfällungen Winter 2020/2021 im Bezirk 9
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B
+- TOP 5: Anfragen
+- TOP 5.1: Anfragen aus früheren Sitzungen
+- TOP 5.1.1: Friedhof Itter, Vorlage AÖE/026/2020 - Anfrage der Fraktion Bündnis 90/ Die Grünen
+- TOP 5.2: Aktuelle Anfragen
+- TOP 5.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.2: Baumpflanzungen im Stadtbezirk 9 - Anfrage der SPD-Fraktion
+- TOP 5.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.4: Verkehrskonzept Düsseldorf-Süd - Anfrage der SPD-Fraktion
+- TOP 5.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.6: Sachstand Maßnahmen „Jugend checkt Düsseldorf“ - Anfrage der Fraktion Bündnis 90/ Die Grünen
+- TOP 5.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anträge
+- TOP 6.1: Hochwasserschutzprojekt Himmelgeister Rheinbogen - Antrag der SPD-Fraktion
+- TOP 6.2: Reisholzer Hafen - Antrag der SPD-Fraktion
+- TOP 6.3: Raumwerk D - Antrag der Fraktion Bündnis 90/ Die Grünen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verfügungsmittel der Bezirksvertretung 9
+- TOP 7.1: Repräsentation 2021
+- TOP 7.2: Geranien Rathaus Benrath
+- TOP 7.3: KGS Marienschule - Präventionsprojekt "Mein Körper gehört mir"
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 8.1: Silcherstraße Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/185/2020
+- TOP 8.2: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs - Nachtrag zur Sitzung der BV 9 vom 19.06.2020; BAU/004/2020
+- TOP 8.3: Further Str. / Potsdamer Str. – Verbesserung der Sichtbeziehungen - Nachtrag zur Informationsvorlage der BV9 aus der Sitzung vom 27.11.2020, BV9/214/2020
