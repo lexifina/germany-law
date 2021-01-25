@@ -1,0 +1,178 @@
+# Anlage 5 (zu § 3 Nummer 43c)Südregion
+
+Folgende kreisfreie Städte, Stadtkreise, Kreise und Landkreise bilden die Südregion:
+| Südregion |
+| Baden-Württemberg |
+| Landkreis Alb-Donau-Kreis |
+| Stadtkreis Baden-Baden |
+| Landkreis Biberach |
+| Landkreis Böblingen |
+| Landkreis Bodenseekreis |
+| Landkreis Breisgau-Hochschwarzwald |
+| Landkreis Calw |
+| Landkreis Emmendingen |
+| Landkreis Enzkreis |
+| Landkreis Esslingen |
+| Stadtkreis Freiburg im Breisgau |
+| Landkreis Freudenstadt |
+| Landkreis Göppingen |
+| Stadtkreis Heidelberg |
+| Landkreis Heidenheim |
+| Stadtkreis Heilbronn |
+| Landkreis Heilbronn |
+| Landkreis Hohenlohekreis |
+| Stadtkreis Karlsruhe |
+| Landkreis Karlsruhe |
+| Landkreis Konstanz |
+| Landkreis Lörrach |
+| Landkreis Ludwigsburg |
+| Landkreis Main-Tauber-Kreis |
+| Stadtkreis Mannheim |
+| Landkreis Neckar-Odenwald-Kreis |
+| Landkreis Ortenaukreis |
+| Landkreis Ostalbkreis |
+| Stadtkreis Pforzheim |
+| Landkreis Rastatt |
+| Landkreis Ravensburg |
+| Landkreis Rems-Murr-Kreis |
+| Landkreis Reutlingen |
+| Landkreis Rhein-Neckar-Kreis |
+| Landkreis Rottweil |
+| Landkreis Schwäbisch Hall |
+| Landkreis Schwarzwald-Baar-Kreis |
+| Landkreis Sigmaringen |
+| Stadtkreis Stuttgart |
+| Landkreis Tübingen |
+| Landkreis Tuttlingen |
+| Stadtkreis Ulm |
+| Landkreis Waldshut |
+| Landkreis Zollernalbkreis |
+| Bayern |
+| Landkreis Aichach-Friedberg |
+| Landkreis Altötting |
+| Kreisfreie Stadt Amberg |
+| Landkreis Amberg-Sulzbach |
+| Kreisfreie Stadt Ansbach |
+| Landkreis Ansbach |
+| Kreisfreie Stadt Aschaffenburg |
+| Landkreis Aschaffenburg |
+| Kreisfreie Stadt Augsburg |
+| Landkreis Augsburg |
+| Landkreis Bad Tölz-Wolfratshausen |
+| Kreisfreie Stadt Bamberg |
+| Landkreis Bamberg |
+| Kreisfreie Stadt Bayreuth |
+| Landkreis Bayreuth |
+| Landkreis Berchtesgadener Land |
+| Landkreis Cham |
+| Landkreis Dachau |
+| Landkreis Deggendorf |
+| Landkreis Dillingen an der Donau |
+| Landkreis Dingolfing-Landau |
+| Landkreis Donau-Ries |
+| Landkreis Ebersberg |
+| Landkreis Eichstätt |
+| Landkreis Erding |
+| Kreisfreie Stadt Erlangen |
+| Landkreis Erlangen-Höchstadt |
+| Landkreis Forchheim |
+| Landkreis Freising |
+| Landkreis Freyung-Grafenau |
+| Landkreis Fürstenfeldbruck |
+| Kreisfreie Stadt Fürth |
+| Landkreis Fürth |
+| Landkreis Garmisch-Partenkirchen |
+| Landkreis Günzburg |
+| Landkreis Haßberge |
+| Kreisfreie Stadt Ingolstadt |
+| Kreisfreie Stadt Kaufbeuren |
+| Landkreis Kelheim |
+| Kreisfreie Stadt Kempten (Allgäu) |
+| Landkreis Kitzingen |
+| Landkreis Landsberg am Lech |
+| Kreisfreie Stadt Landshut |
+| Landkreis Landshut |
+| Landkreis Lindau (Bodensee) |
+| Landkreis Main-Spessart |
+| Kreisfreie Stadt Memmingen |
+| Landkreis Miesbach |
+| Landkreis Miltenberg |
+| Landkreis Mühldorf am Inn |
+| Kreisfreie Stadt München |
+| Landkreis München |
+| Landkreis Neuburg-Schrobenhausen |
+| Landkreis Neumarkt in der Oberpfalz |
+| Landkreis Neustadt an der Aisch-Bad Windsheim |
+| Landkreis Neustadt an der Waldnaab |
+| Landkreis Neu-Ulm |
+| Kreisfreie Stadt Nürnberg |
+| Landkreis Nürnberger Land |
+| Landkreis Oberallgäu |
+| Landkreis Ostallgäu |
+| Kreisfreie Stadt Passau |
+| Landkreis Passau |
+| Landkreis Pfaffenhofen an der Ilm |
+| Landkreis Regen |
+| Kreisfreie Stadt Regensburg |
+| Landkreis Regensburg |
+| Kreisfreie Stadt Rosenheim |
+| Landkreis Rosenheim |
+| Landkreis Roth |
+| Landkreis Rottal-Inn |
+| Kreisfreie Stadt Schwabach |
+| Landkreis Schwandorf |
+| Kreisfreie Stadt Schweinfurt |
+| Landkreis Schweinfurt |
+| Landkreis Starnberg |
+| Kreisfreie Stadt Straubing |
+| Landkreis Straubing-Bogen |
+| Landkreis Tirschenreuth |
+| Landkreis Traunstein |
+| Landkreis Unterallgäu |
+| Kreisfreie Stadt Weiden in der Oberpfalz |
+| Landkreis Weilheim-Schongau |
+| Landkreis Weißenburg-Gunzenhausen |
+| Kreisfreie Stadt Würzburg |
+| Landkreis Würzburg |
+| Hessen |
+| Landkreis Bergstraße |
+| Kreisfreie Stadt Darmstadt |
+| Landkreis Darmstadt-Dieburg |
+| Landkreis Groß-Gerau |
+| Landkreis Odenwaldkreis |
+| Landkreis Offenbach |
+| Rheinland-Pfalz |
+| Landkreis Alzey-Worms |
+| Landkreis Bad Dürkheim |
+| Landkreis Bad Kreuznach |
+| Landkreis Bernkastel-Wittlich |
+| Landkreis Birkenfeld |
+| Landkreis Donnersbergkreis |
+| Landkreis Eifelkreis Bitburg-Prüm |
+| Kreisfreie Stadt Frankenthal (Pfalz) |
+| Landkreis Germersheim |
+| Kreisfreie Stadt Kaiserslautern |
+| Landkreis Kaiserslautern |
+| Landkreis Kusel |
+| Kreisfreie Stadt Landau in der Pfalz |
+| Kreisfreie Stadt Ludwigshafen am Rhein |
+| Kreisfreie Stadt Mainz |
+| Landkreis Mainz-Bingen |
+| Kreisfreie Stadt Neustadt an der Weinstraße |
+| Kreisfreie Stadt Pirmasens |
+| Landkreis Rhein-Hunsrück-Kreis |
+| Landkreis Rhein-Pfalz-Kreis |
+| Kreisfreie Stadt Speyer |
+| Landkreis Südliche Weinstraße |
+| Landkreis Südwestpfalz |
+| Kreisfreie Stadt Trier |
+| Landkreis Trier-Saarburg |
+| Kreisfreie Stadt Worms |
+| Kreisfreie Stadt Zweibrücken |
+| Saarland |
+| Landkreis Merzig-Wadern |
+| Landkreis Neunkirchen |
+| Landkreis Regionalverband Saarbrücken |
+| Landkreis Saarlouis |
+| Landkreis Saarpfalz-Kreis |
+| Landkreis St. Wendel |

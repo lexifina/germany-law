@@ -344,13 +344,13 @@
 - [§ 230 Verschwiegenheitspflicht](0230.md)
 - [§ 231 Zwangsmittel](0231.md)
 
-#### Abschnitt 1 Abgrenzung zu anderen Lebensversicherungsunternehmen
-
-
 ## Teil 4 Einrichtungen der betrieblichen Altersversorgung
 
 
 ### Kapitel 1 Pensionskassen
+
+
+#### Abschnitt 1 Abgrenzung zu anderen Lebensversicherungsunternehmen
 
 - [§ 232 Pensionskassen](0232.md)
 - [§ 233 Regulierte Pensionskassen](0233.md)

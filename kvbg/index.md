@@ -65,7 +65,7 @@
 - [§ 47 Überprüfung der vorzeitigen Stilllegung](0047.md)
 - [§ 48 Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II](0048.md)
 - [§ 49 Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags](0049.md)
-- [§ 50 Sicherheitsbereitschaft](0050.md)
+- [§ 50 Zeitlich gestreckte Stilllegung](0050.md)
 
 ## Teil 6 Verbot der Kohleverfeuerung, Neubauverbot
 
@@ -99,3 +99,4 @@
 - [§ 66 Fristen und Termine](0066.md)
 - [Anlage 1 (zu § 12 Absatz 3)Südregion](anlage-1.md)
 - [Anlage 2 (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen](anlage-2.md)
+- [Anlage 3 (zu § 50)Vergütung Zeitlich gestreckte Stilllegung](anlage-3.md)

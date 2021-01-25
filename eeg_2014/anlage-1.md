@@ -1,37 +1,75 @@
 # Anlage 1 (zu § 23a)Höhe der Marktprämie
 
-1. Berechnung der Marktprämie
-1.1 Im Sinne dieser Anlage ist:
-  – „MP“ die Höhe der Marktprämie nach § 23a in Cent pro Kilowattstunde,
-  – „AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde,
-  – „MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde.
-1.2 Die Höhe der Marktprämie nach § 23a („MP“) in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
-  MP = AW – MW
-  Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert „MP“ mit dem Wert null festgesetzt.
-2. Berechnung des Monatsmarktwerts „MW“
-2.1 Monatsmarktwert bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie
-  Als Wert „MW“ in Cent pro Kilowattstunde ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der Wert „MWEPEX“ anzulegen. Dabei ist „MWEPEX“ der tatsächliche Monatsmittelwert der Stundenkontrakte für die Preiszone für Deutschland am Spotmarkt der Strombörse in Cent pro Kilowattstunde.
-2.2 Monatsmarktwert bei Strom aus Windenergie und solarer Strahlungsenergie
-2.2.1 Energieträgerspezifischer Monatsmarktwert
-  Als Wert „MW“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus
-  – Windenergieanlagen an Land der Wert „MWWind an Land“,
-  – Windenergieanlagen auf See der Wert „MWWind auf See“ und
-  – Solaranlagen der Wert „MWSolar“.
-2.2.2 Windenergie an Land
-  „MWWind an Land“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land am Spotmarkt der Strombörse für die Preiszone für Deutschland in Cent pro Kilowattstunde. Dieser Wert wird wie folgt berechnet:
-2.2.2.1 Für jede Stunde eines Kalendermonats wird der durchschnittliche Wert der Stundenkontrakte am Spotmarkt der Strombörse für die Preiszone für Deutschland mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 3.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
-2.2.2.2 Die Ergebnisse für alle Stunden dieses Kalendermonats werden summiert.
-2.2.2.3 Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Nummer 3.1 erzeugten Stroms aus Windenergieanlagen an Land.
-2.2.3 Windenergie auf See
-  „MWWind auf See“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See am Spotmarkt der Strombörse für die Preiszone für Deutschland in Cent pro Kilowattstunde. Für die Berechnung von „MWWind auf See“ sind die Nummern 2.2.2.1 bis 2.2.2.3 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 3.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 3.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist.
-2.2.4 Solare Strahlungsenergie
-  „MWSolar“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen am Spotmarkt der Strombörse für die Preiszone Deutschland/Österreich in Cent pro Kilowattstunde. Für die Berechnung von „MWSolar“ sind die Nummern 2.2.2.1 bis 2.2.2.3 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 3.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 3.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
-3. Veröffentlichung der Berechnung
-3.1 Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen.
-3.2 Die Übertragungsnetzbetreiber müssen ferner für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen:
-  a) den Wert der Stundenkontrakte am Spotmarkt der Strombörse für die Preiszone für Deutschland für jeden Kalendertag in stündlicher Auflösung,
-  b) den Wert „MWEPEX“ nach Maßgabe der Nummer 2.1,
-  c) den Wert „MWWind an Land“ nach Maßgabe der Nummer 2.2.2,
-  d) den Wert „MWWind auf See“ nach Maßgabe der Nummer 2.2.3 und
-  e) den Wert „MWSolar“ nach Maßgabe der Nummer 2.2.4.
-3.3 Soweit die Daten nach Nummer 3.2 nicht bis zum Ablauf des zehnten Werktags des Folgemonats verfügbar sind, sind sie unverzüglich in nicht personenbezogener Form zu veröffentlichen, sobald sie verfügbar sind.
+| 1. | Begriffsbestimmungen |
+|  | Im Sinn dieser Anlage ist |
+|  | – | „MP“ die Höhe der Marktprämie nach § 23a in Cent pro Kilowattstunde, |
+|  | – | „AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde, |
+|  | – | „MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde, |
+|  | – | „JW“ der jeweilige Jahresmarktwert in Cent pro Kilowattstunde. |
+| 2. | Zeitlicher Anwendungsbereich |
+|  | Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet. |
+| 3. | Berechnung der Marktprämie anhand des energieträgerspezifischen Monatsmarktwertes |
+| 3.1 | Berechnungsgrundsätze |
+| 3.1.1 | Die Höhe der Marktprämie wird kalendermonatlich berechnet. Die Berechnung erfolgt rückwirkend anhand der für den jeweiligen Kalendermonat berechneten Werte. |
+| 3.1.2 | Die Höhe der Marktprämie in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wir nach der folgenden Formel berechnet: |
+|  | MP = AW – MW |
+|  | Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert „MP“ mit null festgesetzt. |
+| 3.2 | Berechnung des Monatsmarktwerts „MW“ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie |
+|  | Der Wert „MW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Monatsmittelwert des Spotmarktpreises. |
+| 3.3 | Berechnung es Monatsmarktwerts „MW“ bei Strom aus Windenergie und solarer Strahlungsenergie |
+| 3.3.1 | Energieträgerspezifischer Monatsmarktwert |
+|  | Als Wert „MW“ ist anzulegen bei direkt vermarktetem Strom aus |
+|  | – | Windenergieanlagen an Land der Wert „MWWind an Land“ |
+|  | – | Windenergieanlagen auf See der Wert „MWWind auf See“ und |
+|  | – | Solaranlagen der Wert „MWSolar“ |
+| 3.3.2 | Windenergie an Land |
+|  | „MWWind an Land“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird: |
+|  | – | Für jede Stunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
+|  | – | Die Ergebnisse für alle Stunden des Kalendermonats werden summiert. |
+|  | – | Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land. |
+| 3.3.3 | Windenergie auf See |
+|  | „MWWind auf See“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „MWWind auf See“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist. |
+| 3.3.4 | Solare Strahlungsenergie |
+|  | „MWSolar“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „MWSolar“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist. |
+| 4. | Berechnung der Marktprämie anhand des energieträgerspezifischen Jahresmarktwerts |
+| 4.1 | Berechnungsgrundsätze |
+| 4.1.1 | Die Höhe der Marktprämie wird jährlich berechnet. Die Berechnung erfolgt rückwirkend anhand des für das jeweilige Kalenderjahr tatsächlich berechneten Jahresmarktwerts. |
+| 4.1.2 | Die Höhe der Marktprämie in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet: |
+|  | MP = AW – JW |
+|  | Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert ,MP‘ mit dem Wert null festgesetzt. |
+| 4.2 | Berechnung des Jahresmarktwerts ,JW‘ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie |
+|  | Als Wert „JW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Jahresmittelwert des Spotmarktpreises anzulegen. |
+| 4.3 | Berechnung des Jahresmarktwertes „JW“ bei Strom aus Windenergie und solarer Strahlungsenergie |
+| 4.3.1 | Energieträgerspezifischer Jahresmarktwert |
+|  | Als Wert „JW“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus |
+|  | – | Windenergieanlagen an Land der Wert „JWWind an Land“ |
+|  | – | Windenergieanlagen auf See der Wert „JWWind auf See“ und |
+|  | – | Solaranlagen der Wert „JWSolar“. |
+| 4.3.2 | Windenergie an Land |
+|  | „JWWind an Land“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird: |
+|  | – | Für jede Stunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
+|  | – | Die Ergebnisse für alle Stunden des Kalenderjahres werden summiert. |
+|  | – | Diese Summe wird dividiert durch die Menge des in dem gesamten Kalenderjahr nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land. |
+| 4.3.3 | Windenergie auf See |
+|  | „JWWind auf See“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „JWWind auf See“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist. |
+| 4.3.4 | Solare Strahlungsenergie |
+|  | „JWSolar“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „JWSolar“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist. |
+| 5. | Veröffentlichungen |
+| 5.1 | Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen. |
+| 5.2 | Die Übertragungsnetzbetreiber müssen ferner für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen: |
+|  | a) | den Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung, |
+|  | b) | den Wert „MW“ nach der Maßgabe der Nummer 3.2, |
+|  | c) | den Wert „MWWind an Land“ nach der Maßgabe der Nummer 3.3.2, |
+|  | d) | den Wert „MWWind auf See“ nach der Maßgabe der Nummer 3.3.3 und |
+|  | e) | den Wert „MWSolar“ nach der Maßgabe der Nummer 3.3.4. |
+| 5.3 | Die Übertragungsnetzbetreiber müssen ferner für jedes Kalenderjahr bis zum Ablauf des zehnten Werktages des Folgejahres auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen: |
+|  | a) | den Wert „JW“ nach der Maßgabe der Nummer 4.2, |
+|  | b) | den Wert „JWWind an Land“ nach der Maßgabe der Nummer 4.3.2, |
+|  | c) | den Wert „JWWind auf See“ nach der Maßgabe der Nummer 4.3.3 und |
+|  | d) | den Wert „JWSolar“ nach der Maßgabe der Nummer 4.3.4. |
+| 5.4 | Die Übertragungsnetzbetreiber müssen ferner im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen den von ihnen ermittelten Spotmarktpreis unverzüglich, spätestens zwei Stunden nach der Mitteilung der erforderlichen Informationen durch die Strombörsen nach Nummer 6 Buchstabe b veröffentlichen. |
+| 5.5 | Soweit Daten, die nach Nummer 5.2 oder 5.3 veröffentlicht werden müssen, nicht fristgerecht verfügbar sind, muss die Veröffentlichung unverzüglich nachgeholt werden. “ |
+| 6. | Mitteilungspflichten der Strombörsen |
+|  | Die Strombörsen müssen den Übertragungsnetzbetreibern folgende Informationen mitteilen: |
+|  | a) | bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung und |
+|  | b) | im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Stunden den an ihrer Strombörse ermittelten Preis für die Stromstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen. |

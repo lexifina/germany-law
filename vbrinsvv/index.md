@@ -3,6 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Formulare](0001.md)
 - [§ 2 Zulässige Abweichungen](0002.md)
+- [§ 2a Übergangsregelung](0002a.md)
 - [§ 3 Inkrafttreten](0003.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage](anlage.md)

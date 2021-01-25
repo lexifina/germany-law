@@ -25,7 +25,7 @@ Abschnitt 2
 Ausschreibungen
 für Windenergieanlagen an Land
 | § 16 | Höchstwert für Windenergieanlagen an Land |
-| § 17 | Netzausbaugebiet |
+| § 17 | (weggefallen) |
 | § 18 | Änderungen und Erlöschen von Zuschlägen für Windenergieanlagen an Land |
 | § 19 | Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften |
 | § 20 | Anzulegender Wert für Windenergieanlagen an Land |

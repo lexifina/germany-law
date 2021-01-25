@@ -64,7 +64,7 @@ Beendigung der Braunkohleverstromung
 | § 47 | Überprüfung der vorzeitigen Stilllegung |
 | § 48 | Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II |
 | § 49 | Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags |
-| § 50 | Sicherheitsbereitschaft |
+| § 50 | Zeitlich gestreckte Stilllegung |
 Teil 6
 Verbot der
 Kohleverfeuerung, Neubauverbot
@@ -96,3 +96,4 @@ Sonstige Bestimmungen
 | § 66 | Fristen und Termine |
 | Anlage 1 (zu § 12 Absatz 3) | Südregion |
 | Anlage 2 (zu Teil 5) | Stilllegungszeitpunkte Braunkohleanlagen |
+| Anlage 3 | Vergütung Zeitlich gestreckte Stilllegung |

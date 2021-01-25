@@ -1,6 +1,6 @@
 # Anlage 2 (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen
 
-| Anlagen-betreiber | Blockname | Wahlrecht | BNetzA-Nr. | MWel(netto) | Datum derÜberführungin die Sicherheits-bereitschaft(„Überführungs-zeitpunkt“) | EndgültigesStilllegungsdatum(„Stilllegungs-zeitpunkt“) |
+| Anlagen-betreiber | Blockname | Wahlrecht | BNetzA-Nr. | MWel(netto) | Datum derÜberführungin die Zeitlichgestreckte Stilllegung(„Überführungs-zeitpunkt“) | EndgültigesStilllegungsdatum(„Stilllegungs-zeitpunkt“) |
 | RWE Power | Niederaußem D | – | BNA0705 | 297 | – | 31. Dezember 2020 |
 | RWE Power | Niederaußem C | – | BNA0712 | 295 | – | 31. Dezember 2021 |
 | RWE Power | Neurath B | – | BNA0697 | 294 | – | 31. Dezember 2021 |

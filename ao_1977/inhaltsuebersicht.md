@@ -111,6 +111,7 @@
 | § 56 | Ausschließlichkeit |
 | § 57 | Unmittelbarkeit |
 | § 58 | Steuerlich unschädliche Betätigungen |
+| § 58a | Vertrauensschutz bei Mittelweitergaben |
 | § 59 | Voraussetzung der Steuervergünstigung |
 | § 60 | Anforderungen an die Satzung |
 | § 60a | Feststellung der satzungsmäßigen Voraussetzungen |
@@ -396,6 +397,7 @@
 | Fünfter Abschnitt |
 | Steuerfahndung (Zollfahndung) |
 | § 208 | Steuerfahndung (Zollfahndung) |
+| § 208a | Steuerfahndung des Bundeszentralamts für Steuern |
 |  |  |
 | Sechster Abschnitt |
 | Steueraufsicht in besonderen Fällen |
@@ -648,7 +650,7 @@
 | § 373 | Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel |
 | § 374 | Steuerhehlerei |
 | § 375 | Nebenfolgen |
-| § 375a | Verhältnis zur strafrechtlichen Einziehung |
+| § 375a | (weggefallen) |
 | § 376 | Verfolgungsverjährung |
 |  |  |
 | Zweiter Abschnitt |

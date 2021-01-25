@@ -9,7 +9,7 @@ I. Voraussetzungen der Flexibilitätsprämie
 2. Die Höhe der Flexibilitätsprämie wird kalenderjährlich berechnet. Die Berechnung erfolgt für die jeweils zusätzlich bereitgestellte installierte Leistung nach Maßgabe der Nummer II. Auf die zu erwartenden Zahlungen sind monatliche Abschläge in angemessenem Umfang zu leisten.
 3. Anlagenbetreiber müssen dem Netzbetreiber die erstmalige Inanspruchnahme der Flexibilitätsprämie vorab mitteilen.
 4. Die Flexibilitätsprämie ist für die Dauer von zehn Jahren zu zahlen. Beginn der Frist ist der erste Tag des zweiten auf die Meldung nach Nummer I.3 folgenden Kalendermonats.
-5. Der Anspruch auf die Flexibilitätsprämie entfällt für zusätzlich installierte Leistung, die als Erhöhung der installierten Leistung der Anlage nach dem 31. Juli 2014 an das Register übermittelt wird, ab dem ersten Tag des 24. Kalendermonats, der auf den Kalendermonat folgt, in dem der von der Bundesnetzagentur nach Maßgabe der Rechtsverordnung nach § 93 veröffentlichte aggregierte Zubau der zusätzlich installierten Leistung durch Erhöhungen der installierten Leistung nach dem 31. Juli 2014 erstmals den Wert von 1 000 Megawatt übersteigt.
+5. (weggefallen)
 II. Höhe der Flexibilitätsprämie
 1. Begriffsbestimmungen
   Im Sinne dieser Anlage ist

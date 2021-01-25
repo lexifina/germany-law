@@ -16,6 +16,7 @@
 
 - [§ 18 Marktbeherrschung](0018.md)
 - [§ 19 Verbotenes Verhalten von marktbeherrschenden Unternehmen](0019.md)
+- [§ 19a Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb](0019a.md)
 - [§ 20 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht](0020.md)
 - [§ 21 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens](0021.md)
 
@@ -73,6 +74,7 @@
 - [§ 37 Zusammenschluss](0037.md)
 - [§ 38 Berechnung der Umsatzerlöse, der Marktanteile und des Wertes der Gegenleistung](0038.md)
 - [§ 39 Anmelde- und Anzeigepflicht](0039.md)
+- [§ 39a Aufforderung zur Anmeldung künftiger Zusammenschlüsse](0039a.md)
 - [§ 40 Verfahren der Zusammenschlusskontrolle](0040.md)
 - [§ 41 Vollzugsverbot, Entflechtung](0041.md)
 - [§ 42 Ministererlaubnis](0042.md)
@@ -118,11 +120,17 @@
 - [§ 48 Zuständigkeit](0048.md)
 - [§ 49 Bundeskartellamt und oberste Landesbehörde](0049.md)
 - [§ 50 Vollzug des europäischen Rechts](0050.md)
-- [§ 50a Zusammenarbeit im Netzwerk der europäischen Wettbewerbsbehörden](0050a.md)
-- [§ 50b Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden](0050b.md)
-- [§ 50c Behördenzusammenarbeit](0050c.md)
 
-### Kapitel 2 Bundeskartellamt
+### Kapitel 2 Behördenzusammenarbeit
+
+- [§ 50a Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden](0050a.md)
+- [§ 50b Zustellung im Netzwerk der europäischen Wettbewerbsbehörden](0050b.md)
+- [§ 50c Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden](0050c.md)
+- [§ 50d Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden](0050d.md)
+- [§ 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden](0050e.md)
+- [§ 50f Zusammenarbeit mit anderen Behörden](0050f.md)
+
+### Kapitel 3 Bundeskartellamt
 
 - [§ 51 Sitz, Organisation](0051.md)
 - [§ 52 Veröffentlichung allgemeiner Weisungen](0052.md)
@@ -136,51 +144,74 @@
 
 #### Abschnitt 1 Verfahren vor den Kartellbehörden
 
-- [§ 54 Einleitung des Verfahrens, Beteiligte](0054.md)
+- [§ 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit](0054.md)
 - [§ 55 Vorabentscheidung über Zuständigkeit](0055.md)
-- [§ 56 Anhörung, mündliche Verhandlung](0056.md)
+- [§ 56 Anhörung, Akteneinsicht, mündliche Verhandlung](0056.md)
 - [§ 57 Ermittlungen, Beweiserhebung](0057.md)
 - [§ 58 Beschlagnahme](0058.md)
 - [§ 59 Auskunftsverlangen](0059.md)
+- [§ 59a Prüfung von geschäftlichen Unterlagen](0059a.md)
+- [§ 59b Durchsuchungen](0059b.md)
 - [§ 60 Einstweilige Anordnungen](0060.md)
 - [§ 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung](0061.md)
-- [§ 62 Bekanntmachung von Verfügungen](0062.md)
+- [§ 62 Gebührenpflichtige Handlungen](0062.md)
 
-#### Abschnitt 2 Beschwerde
+#### Abschnitt 2 Gemeinsame Bestimmungen für Rechtsbehelfsverfahren
 
-- [§ 63 Zulässigkeit, Zuständigkeit](0063.md)
-- [§ 64 Aufschiebende Wirkung](0064.md)
-- [§ 65 Anordnung der sofortigen Vollziehung](0065.md)
-- [§ 66 Frist und Form](0066.md)
-- [§ 67 Beteiligte am Beschwerdeverfahren](0067.md)
-- [§ 68 Anwaltszwang](0068.md)
-- [§ 69 Mündliche Verhandlung](0069.md)
-- [§ 70 Untersuchungsgrundsatz](0070.md)
-- [§ 71 Beschwerdeentscheidung](0071.md)
-- [§ 71a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0071a.md)
-- [§ 72 Akteneinsicht](0072.md)
-- [§ 73 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung](0073.md)
+- [§ 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit](0063.md)
+- [§ 64 Anwaltszwang](0064.md)
+- [§ 65 Mündliche Verhandlung](0065.md)
+- [§ 66 Aufschiebende Wirkung](0066.md)
+- [§ 67 Anordnung der sofortigen Vollziehung](0067.md)
+- [§ 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren](0068.md)
+- [§ 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0069.md)
+- [§ 70 Akteneinsicht](0070.md)
+- [§ 71 Kostentragung und -festsetzung](0071.md)
+- [§ 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung](0072.md)
 
-#### Abschnitt 3 Rechtsbeschwerde
+#### Abschnitt 3 Beschwerde
 
-- [§ 74 Zulassung, absolute Rechtsbeschwerdegründe](0074.md)
-- [§ 75 Nichtzulassungsbeschwerde](0075.md)
-- [§ 76 Beschwerdeberechtigte, Form und Frist](0076.md)
+- [§ 73 Zulässigkeit, Zuständigkeit](0073.md)
+- [§ 74 Frist und Form](0074.md)
+- [§ 75 Untersuchungsgrundsatz](0075.md)
+- [§ 76 Beschwerdeentscheidung](0076.md)
 
-#### Abschnitt 4 Gemeinsame Bestimmungen
+#### Abschnitt 4 Rechtsbeschwerde und Nichtzulassungsbeschwerde
 
-- [§ 77 Beteiligtenfähigkeit](0077.md)
-- [§ 78 Kostentragung und -festsetzung](0078.md)
-- [§ 79 Rechtsverordnungen](0079.md)
-- [§ 80 Gebührenpflichtige Handlungen](0080.md)
+- [§ 77 Zulassung, absolute Rechtsbeschwerdegründe](0077.md)
+- [§ 78 Nichtzulassungsbeschwerde](0078.md)
+- [§ 79 Rechtsbeschwerdeberechtigte, Form und Frist](0079.md)
+- [§ 80 Rechtsbeschwerdeentscheidung](0080.md)
 
-### Kapitel 2 Bußgeldverfahren
+### Kapitel 2 Bußgeldsachen
 
-- [§ 81 Bußgeldvorschriften](0081.md)
-- [§ 81a Ausfallhaftung im Übergangszeitraum](0081a.md)
-- [§ 81b Auskunftspflichten](0081b.md)
-- [§ 82 Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung](0082.md)
-- [§ 82a Befugnisse und Zuständigkeiten im gerichtlichen Bußgeldverfahren](0082a.md)
+
+#### Abschnitt 1 Bußgeldvorschriften
+
+- [§ 81 Bußgeldtatbestände](0081.md)
+- [§ 81a Geldbußen gegen Unternehmen](0081a.md)
+- [§ 81b Geldbußen gegen Unternehmensvereinigungen](0081b.md)
+- [§ 81c Höhe der Geldbuße](0081c.md)
+- [§ 81d Zumessung der Geldbuße](0081d.md)
+- [§ 81e Ausfallhaftung im Übergangszeitraum](0081e.md)
+- [§ 81f Verzinsung der Geldbuße](0081f.md)
+- [§ 81g Verjährung der Geldbuße](0081g.md)
+
+#### Abschnitt 2 Kronzeugenprogramm
+
+- [§ 81h Ziel und Anwendungsbereich](0081h.md)
+- [§ 81i Antrag auf Kronzeugenbehandlung](0081i.md)
+- [§ 81j Allgemeine Voraussetzungen für die Kronzeugenbehandlung](0081j.md)
+- [§ 81k Erlass der Geldbuße](0081k.md)
+- [§ 81l Ermäßigung der Geldbuße](0081l.md)
+- [§ 81m Marker](0081m.md)
+- [§ 81n Kurzantrag](0081n.md)
+
+#### Abschnitt 3 Bußgeldverfahren
+
+- [§ 82 Zuständigkeiten in Kartellbußgeldsachen](0082.md)
+- [§ 82a Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung](0082a.md)
+- [§ 82b Besondere Ermittlungsbefugnisse](0082b.md)
 - [§ 83 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren](0083.md)
 - [§ 84 Rechtsbeschwerde zum Bundesgerichtshof](0084.md)
 - [§ 85 Wiederaufnahmeverfahren gegen Bußgeldbescheid](0085.md)

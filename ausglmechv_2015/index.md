@@ -9,8 +9,10 @@
 
 - [§ 2 Vermarktung durch die Übertragungsnetzbetreiber](0002.md)
 - [§ 3 Ermittlung der EEG-Umlage](0003.md)
+- [§ 3a Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen](0003a.md)
 - [§ 4 Beweislast](0004.md)
 - [§ 5 Veröffentlichung der EEG-Umlage](0005.md)
+- [§ 5a Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen](0005a.md)
 - [§ 6 Veröffentlichung der EEG-Vorausschau](0006.md)
 
 ## Abschnitt 3 Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien

@@ -117,6 +117,7 @@ Personenvereinigungen, Vermögensmassen](0020.md)
 - [§ 56 Ausschließlichkeit](0056.md)
 - [§ 57 Unmittelbarkeit](0057.md)
 - [§ 58 Steuerlich unschädliche Betätigungen](0058.md)
+- [§ 58a Vertrauensschutz bei Mittelweitergaben](0058a.md)
 - [§ 59 Voraussetzung der Steuervergünstigung](0059.md)
 - [§ 60 Anforderungen an die Satzung](0060.md)
 - [§ 60a Feststellung der satzungsmäßigen Voraussetzungen](0060a.md)
@@ -439,6 +440,7 @@ Zusage](0207.md)
 ### Fünfter Abschnitt Steuerfahndung (Zollfahndung)
 
 - [§ 208 Steuerfahndung (Zollfahndung)](0208.md)
+- [§ 208a Steuerfahndung des Bundeszentralamts für Steuern](0208a.md)
 
 ### Sechster Abschnitt Steueraufsicht in besonderen
 Fällen
@@ -714,7 +716,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel](0373.md)
 - [§ 374 Steuerhehlerei](0374.md)
 - [§ 375 Nebenfolgen](0375.md)
-- [§ 375a Verhältnis zur strafrechtlichen Einziehung](0375a.md)
+- [§ 375a (weggefallen)](0375a.md)
 - [§ 376 Verfolgungsverjährung](0376.md)
 
 ### Zweiter Abschnitt Bußgeldvorschriften

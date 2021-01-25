@@ -11,7 +11,7 @@
 | § 9 | Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) |
 | § 10 | Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test |
 | § 11 | Vergütung von Sachkosten für PoC-Antigen-Tests |
-| § 12 | Vergütung von weiteren ärztlichen Leistungen |
+| § 12 | Vergütung von weiteren Leistungen |
 | § 13 | Finanzierung von Testzentren |
 | § 14 | Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds |
 | § 15 | Transparenz |

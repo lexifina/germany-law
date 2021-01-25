@@ -14,7 +14,6 @@
 - [§ 8 Preislimitierung in Ausnahmefällen](0008.md)
 - [§ 9 Übergangsregelung](0009.md)
 
-## Abschnitt 2 Einrichtung und Ausgestaltung eines Netzausbaugebiets
+## Abschnitt 2 (weggefallen)
 
-- [(XXXX) §§ 10 bis 12 (weggefallen)](xxxx-10-bis-12.md)
-- [§ 13 Zeitliche Geltung; Außerkrafttreten](0013.md)
+- [(XXXX) §§ 10 bis 13 (weggefallen)](xxxx-10-bis-13.md)

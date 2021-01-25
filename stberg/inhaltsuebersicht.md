@@ -134,7 +134,7 @@ Organisation des Berufs
 | § 76 | Aufgaben der Steuerberaterkammer |
 | § 77 | Vorstand |
 | § 77a | Abteilungen des Vorstandes |
-| § 77b | Ehrenamtliche Tätigkeit des Vorstandes |
+| § 77b | Ehrenamtliche Tätigkeit |
 | § 78 | Satzung |
 | § 79 | Beiträge und Gebühren |
 | § 80 | Pflicht zum Erscheinen vor der Steuerberaterkammer |

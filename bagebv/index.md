@@ -5,4 +5,4 @@
 - [§ 2 Zurücknahme von Anträgen](0002.md)
 - [§ 3 Ablehnung von Anträgen](0003.md)
 - [§ 4 Anwendungsbestimmung](0004.md)
-- [Anlage (zu § 1 Absatz 1 Satz 2)Gebührenverzeichnis](anlage.md)
+- [Anlage (zu § 1 Absatz 2 Satz 2)Gebührenverzeichnis](anlage.md)

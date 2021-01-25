@@ -17,7 +17,7 @@
 - [§ 7a Bonus für innovative erneuerbare Wärme](0007a.md)
 - [§ 7b Bonus für elektrische Wärmeerzeuger](0007b.md)
 - [§ 7c Kohleersatzbonus](0007c.md)
-- [§ 7d Südbonus](0007d.md)
+- [§ 7d (weggefallen)](0007d.md)
 - [§ 7e Mitteilungspflicht im Zusammenhang mit der Inanspruchnahme der Boni](0007e.md)
 - [§ 8 Dauer der Zuschlagzahlung für neue, modernisierte oder nachgerüstete KWK-Anlagen](0008.md)
 - [§ 8a Ausschreibung der Zuschlagzahlung für KWK-Strom](0008a.md)
@@ -62,6 +62,7 @@
 - [§ 27a Begrenzte KWKG-Umlage bei Anlagen zur Verstromung von Kuppelgasen](0027a.md)
 - [§ 27b Begrenzte KWKG-Umlage bei Stromspeichern](0027b.md)
 - [§ 27c Begrenzte KWKG-Umlage bei Schienenbahnen](0027c.md)
+- [§ 27d Herstellung von Grünem Wasserstoff](0027d.md)
 - [§ 28 Belastungsausgleich](0028.md)
 - [§ 29 Begrenzung der Höhe der KWKG-Umlage und der Zuschlagzahlungen](0029.md)
 
@@ -84,4 +85,4 @@
 - [§ 35 Übergangsbestimmungen](0035.md)
 - [§ 36 Übergangsbestimmungen zur Begrenzung der KWKG-Umlage](0036.md)
 - [§ 37 Übergangsbestimmungen zur Berechnung der KWKG-Umlage und zum Belastungsausgleich](0037.md)
-- [Anlage (zu den §§ 7b und 7d)](anlage.md)
+- [Anlage (zu den §§ 7b und 7d)(weggefallen)](anlage.md)

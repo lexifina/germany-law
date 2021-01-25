@@ -15,6 +15,7 @@
 |  |
 | § 18 | Marktbeherrschung |
 | § 19 | Verbotenes Verhalten von marktbeherrschenden Unternehmen |
+| § 19a | Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb |
 | § 20 | Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht |
 | § 21 | Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens |
 |  |
@@ -77,6 +78,7 @@
 | § 37 | Zusammenschluss |
 | § 38 | Berechnung der Umsatzerlöse und der Marktanteile und des Wertes der Gegenleistung |
 | § 39 | Anmelde- und Anzeigepflicht |
+| § 39a | Aufforderung zur Anmeldung künftiger Zusammenschlüsse |
 | § 40 | Verfahren der Zusammenschlusskontrolle |
 | § 41 | Vollzugsverbot, Entflechtung |
 | § 42 | Ministererlaubnis |
@@ -125,11 +127,18 @@
 | § 48 | Zuständigkeit |
 | § 49 | Bundeskartellamt und oberste Landesbehörde |
 | § 50 | Vollzug des europäischen Rechts |
-| § 50a | Zusammenarbeit im Netzwerk der europäischen Wettbewerbsbehörden |
-| § 50b | Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden |
-| § 50c | Behördenzusammenarbeit |
 |  |
 | Kapitel 2 |
+| Behördenzusammenarbeit |
+|  |
+| § 50a | Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden |
+| § 50b | Zustellung im Netzwerk der europäischen Wettbewerbsbehörden |
+| § 50c | Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden |
+| § 50d | Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden |
+| § 50e | Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden |
+| § 50f | Zusammenarbeit mit anderen Behörden |
+|  |
+| Kapitel 3 |
 | Bundeskartellamt |
 |  |
 | § 51 | Sitz, Organisation |
@@ -143,59 +152,83 @@
 | Abschnitt 1 |
 | Verfahren vor den Kartellbehörden |
 |  |
-| § 54 | Einleitung des Verfahrens, Beteiligte |
+| § 54 | Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit |
 | § 55 | Vorabentscheidung über Zuständigkeit |
-| § 56 | Anhörung, mündliche Verhandlung |
+| § 56 | Anhörung, Akteneinsicht, mündliche Verhandlung |
 | § 57 | Ermittlungen, Beweiserhebung |
 | § 58 | Beschlagnahme |
 | § 59 | Auskunftsverlangen |
+| § 59a | Prüfung von geschäftlichen Unterlagen |
+| § 59b | Durchsuchungen |
 | § 60 | Einstweilige Anordnungen |
 | § 61 | Verfahrensabschluss, Begründung der Verfügung, Zustellung |
-| § 62 | Bekanntmachung von Verfügungen |
+| § 62 | Gebührenpflichtige Handlungen |
 |  |
 | Abschnitt 2 |
-| Beschwerde |
+| Gemeinsame Bestimmungen für Rechtsbehelfsverfahren |
 |  |
-| § 63 | Zulässigkeit, Zuständigkeit |
-| § 64 | Aufschiebende Wirkung |
-| § 65 | Anordnung der sofortigen Vollziehung |
-| § 66 | Frist und Form |
-| § 67 | Beteiligte am Beschwerdeverfahren |
-| § 68 | Anwaltszwang |
-| § 69 | Mündliche Verhandlung |
-| § 70 | Untersuchungsgrundsatz |
-| § 71 | Beschwerdeentscheidung |
-| § 71a | Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör |
-| § 72 | Akteneinsicht |
-| § 73 | Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung |
+| § 63 | Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit |
+| § 64 | Anwaltszwang |
+| § 65 | Mündliche Verhandlung |
+| § 66 | Aufschiebende Wirkung |
+| § 67 | Anordnung der sofortigen Vollziehung |
+| § 68 | Einstweilige Anordnungen im Rechtsbehelfsverfahren |
+| § 69 | Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör |
+| § 70 | Akteneinsicht |
+| § 71 | Kostentragung und -festsetzung |
+| § 72 | Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung |
 |  |
 | Abschnitt 3 |
-| Rechtsbeschwerde |
+| Beschwerde |
 |  |
-| § 74 | Zulassung, absolute Rechtsbeschwerdegründe |
-| § 75 | Nichtzulassungsbeschwerde |
-| § 76 | Beschwerdeberechtigte, Form und Frist |
+| § 73 | Zulässigkeit, Zuständigkeit |
+| § 74 | Frist und Form |
+| § 75 | Untersuchungsgrundsatz |
+| § 76 | Beschwerdeentscheidung |
 |  |
 | Abschnitt 4 |
-| Gemeinsame Bestimmungen |
+| Rechtsbeschwerde und Nichtzulassungsbeschwerde |
 |  |
-| § 77 | Beteiligtenfähigkeit |
-| § 78 | Kostentragung und -festsetzung |
-| § 79 | Rechtsverordnungen |
-| § 80 | Gebührenpflichtige Handlungen |
+| § 77 | Zulassung, absolute Rechtsbeschwerdegründe |
+| § 78 | Nichtzulassungsbeschwerde |
+| § 79 | Rechtsbeschwerdeberechtigte, Form und Frist |
+| § 80 | Rechtsbeschwerdeentscheidung |
 |  |
 | Kapitel 2 |
+| Bußgeldsachen |
+| Abschnitt 1 |
+| Bußgeldvorschriften |
+|  |
+| § 81 | Bußgeldtatbestände |
+| § 81a | Geldbußen gegen Unternehmen |
+| § 81b | Geldbußen gegen Unternehmensvereinigungen |
+| § 81c | Höhe der Geldbuße |
+| § 81d | Zumessung der Geldbuße |
+| § 81e | Ausfallhaftung im Übergangszeitraum |
+| § 81f | Verzinsung der Geldbuße |
+| § 81g | Verjährung der Geldbuße |
+|  |
+| Abschnitt 2 |
+| Kronzeugenprogramm |
+|  |
+| § 81h | Ziel und Anwendungsbereich |
+| § 81i | Antrag auf Kronzeugenbehandlung |
+| § 81j | Allgemeine Voraussetzungen für die Kronzeugenbehandlung |
+| § 81k | Erlass der Geldbuße |
+| § 81l | Ermäßigung der Geldbuße |
+| § 81m | Marker |
+| § 81n | Kurzantrag |
+|  |
+| Abschnitt 3 |
 | Bußgeldverfahren |
 |  |
-| § 81 | Bußgeldvorschriften |
-| § 81a | Ausfallhaftung im Übergangszeitraum |
-| § 81b | Auskunftspflichten |
-| § 82 | Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung |
-| § 82a | Befugnisse und Zuständigkeiten im gerichtlichen Bußgeldverfahren |
+| § 82 | Zuständigkeiten in Kartellbußgeldsachen |
+| § 82a | Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung |
+| § 82b | Besondere Ermittlungsbefugnisse |
 | § 83 | Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren |
 | § 84 | Rechtsbeschwerde zum Bundesgerichtshof |
 | § 85 | Wiederaufnahmeverfahren gegen Bußgeldbescheid |
-| § 86 | Gerichtliche Entscheidungen bei der Vollstreckung |
+| § 86 | Gerichtliche Entscheidung bei der Vollstreckung |
 |  |
 | Kapitel 3 |
 | Vollstreckung |

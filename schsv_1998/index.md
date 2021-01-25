@@ -19,7 +19,7 @@
 - [§ 14 Ordnungswidrigkeiten](0014.md)
 - [§ 15 Übergangsregelung](0015.md)
 - [§ 16 Anwendung weiterer Vorschriften, Zuständigkeit](0016.md)
-- [§ 17](0017.md)
+- [§ 17 (Änderungs- und Aufhebungsvorschrift)](0017.md)
 - [Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard](anlage-1.md)
 - [Anlage 1a (zu den §§ 6 und 6a) Schiffsbezogener Sicherheitsstandard in den übrigen Fällen](anlage-1a.md)
 - [Anlage 2 (zu § 9)Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen](anlage-2.md)

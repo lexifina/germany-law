@@ -280,6 +280,7 @@
 | § 146 | Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
 |  |
 |  | Neunzehnter Unterabschnitt |
+|  | Übergangsvorschrift |
 | § 147 | Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
 |  |  |
 |  | Anlage (zu § 6) |

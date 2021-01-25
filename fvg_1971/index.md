@@ -21,9 +21,9 @@
 
 - [§ 7 Bezirk und Sitz](0007.md)
 - [§ 8 (weggefallen)](0008.md)
-- [§ 8a Aufgaben und Gliederung der Oberfinanzdirektionen](0008a.md)
+- [§ 8a Aufgaben und Gliederung](0008a.md)
 - [§ 9 (weggefallen)](0009.md)
-- [§ 9a Leitung der Oberfinanzdirektionen](0009a.md)
+- [§ 9a Leitung](0009a.md)
 - [§ 10 (weggefallen)](0010.md)
 - [§ 10a Landeskassen](0010a.md)
 - [§ 11 (weggefallen)](0011.md)
