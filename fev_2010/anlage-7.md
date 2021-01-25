@@ -127,7 +127,7 @@
   b) Hubraum mindestens 600 cm³, wobei eine Unterschreitung des Mindesthubraums um 5 cm³ zulässig ist,
   c) Leermasse von mindestens 180 kg, wobei eine Unterschreitung um 5 kg zulässig ist,
   d) mit Elektromotor Verhältnis Leistung/Leermasse mindestens 0,25 kW/kg.
-2.2.2 2 .2.2 Für Klasse A2:
+2.2.2 Für Klasse A2:
   Krafträder ohne Beiwagen
   a) Motorleistung mindestens 20 kW, jedoch nicht mehr als 35 kW,
   b) Verhältnis Leistung/Leermasse von nicht mehr als 0,2 kW/kg,
