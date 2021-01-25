@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-25T17:00:00+01:00
+- Ende: 2021-01-25T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23387
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23387
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin und ihrer Stellvertreterin für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 31.08.2020 betreffend "Netzwerk gegen häusliche Gewalt - Statistik 2019" (2450/2020) - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 31.08.2020 betreffend "Überörtliche Prüfung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW (1850/2020)" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalbericht 2019/2020 - zurückgestellt
+- TOP 4.2: Sanierungsmaßnahmen im Historischen Rathaus - Kenntnis genommen
+- TOP 4.3: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 4.4: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - Kenntnis genommen
+- TOP 4.5: Online-Antrag für eine Karte zum elektronischen Identitätsnachweis (eID-Karte) für EU- und EWR-Bürger/innen - Kenntnis genommen
+- TOP 4.6: Samstagstraudienst des Standesamtes - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Einsatzkonzepte Karneval Streetwork und Ordnungsdienst" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der SPD Fraktion betreffend "Einsatzkonzept Karneval Streetwork und Ordnungsdienst" (AN/0364/2020) - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Videoüberwachung am Ebertplatz" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der SPD-Fraktion betreffend "Großbordell Pascha"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Kölner Ordnungsdienst darf nicht an den Stadtrand verlagert werden – Die Zentrale muss auch zentral liegen/Mittelfristig Standorte in allen Stadtbezirken schaffen" - endgültig abgelehnt
+- TOP 8.2: Dringlichkeitsantrag der SPD-Fraktion betreffend "Trauungen in Eventlocations weiter ermöglichen" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2021 - geändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Ebertplatz: Fortführung der Zwischennutzung und Ausarbeitung eines Zwischennutzungskonzeptes für den Zeitraum nach Juni 2021 - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Benutzungsordnung der Kunst- und Museumsbibliothek der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 10.4: Stellplatzsatzung für Köln - zurückgestellt
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 10.5: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Fördermaßnahme zum Anstoß eines Zentrenmanagements für das Zentrum Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Fördermaßnahme zum Anstoß eines Zentrenmanagements für das Zentrum Ehrenfeld, Venloer Straße - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Satzungsänderung - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Fördermaßnahme zum Anstoß eines Zentrenmanagements für das Zentrum Kalk, Kalker Hauptstraße - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
