@@ -48,6 +48,7 @@
 | - | CP 47,497-C6-Homolog(cis-3-[4-(1,1-Dimethylhexyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethylhexyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
 | - | CP 47,497-C8-Homolog(cis-3-[4-(1,1-Dimethyloctyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethyloctyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
 | - | CP 47,497-C9-Homolog(cis-3-[4-(1,1-Dimethylnonyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethylnonyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
+| - | Crotonylfentanyl | (2E)-N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]but-2-enamid |
 | - | CUMYL-PEGACLONE (SGT-151) | 5-Pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-on |
 | - | CUMYL-4CN-BINACA (SGT-78) | 1-(4-Cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazol-3-carboxamid |
 | - | CUMYL-5F-P7AICA (5-Fluor-CUMYL-P7AICA, SGT-263) | 1-(5-Fluorpentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridin-3-carboxamid |
@@ -75,6 +76,7 @@
 | - | Ecgonin | 3ß-Hydroxytropan-2ß-carbonsäure |
 | - | Erythroxylum coca(Pflanzen und Pflanzenteile der zur Art Erythroxylum coca - einschließlich der Varietäten bolivianum, spruceanum und novogranatense - gehörenden Pflanzen) | - |
 | - | Ethcathinon | (RS)-2-(Ethylamino)-1-phenylpropan-1-on |
+| - | N-Ethylhexedron (Ethyl-Hexedron, HexEn, Ethyl-Hex, NEH) | 2-(Ethylamino)-1-phenylhexan-1-on |
 | Ethchlorvynol | - | 1-Chlor-3-ethylpent-1-en-4-in-3-ol |
 | Ethinamat | - | (1-Ethinylcyclohexyl)carbamat |
 | - | 3-O-Ethylmorphin(Ethylmorphin) | 4,5α-Epoxy-3-ethoxy-17-methylmorphin-7-en-6α-ol |
@@ -89,6 +91,7 @@
 | - | FDU-PB-22 | Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat} |
 | Fencamfamin | - | N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin |
 | - | Flephedron (4-Fluormethcathinon, 4-FMC) | 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on |
+| - | Flualprazolam (2-Fluor-Alprazolam, SCHEMBL7327360, Flu-Alp) | 8-Chlor-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepin |
 | - | Flubromazepam | 7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
 | - | 4-Fluorisobutyrfentanyl (4-Fluorisobutyrylfentanyl, 4F-iBF, p-FIBF) | N-(4-Fluorphenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | 4-Fluormethamfetamin (4-FMA) | 1-(4-Fluorphenyl)-N-methylpropan-2-amin |
@@ -97,6 +100,7 @@
 | - | p-Fluorphenylpiperazin (p-FPP) | 1-(4-Fluorphenyl)piperazin |
 | - | 4-Fluortropacocain | 3-(4-Fluorbenzoyloxy)tropan |
 | - | 5-Fluor-UR-144 (XLR-11) | [1-(5-Fluorpentyl)-1H-indol-3-yl] (2,2,3,3-tetramethylcyclopropyl) methanon |
+| - | 4F-MDMB-BINACA (4F-MDMB-BUTINACA, 4F-ADB) | Methyl{2-[1-(4-fluorbutyl)-1H-indazol-3- carboxamido]-3,3-dimethylbutanoat} |
 |  | 5F-MDMB-PICA(5F-MDMB-2201) | Methyl{2-[1-(5-fluorpentyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
 | - | 5F-MN-18(AM-2201 Indazolcarboxamid-Analogon) | 1-(5-Fluorpentyl)-N-1-(naphthalin-1-yl)-1H-indazol-3-carboxamid |
 | - | 5F-PB-22 (5F-QUPIC) | Chinolin-8-yl[1-(5-fluorpentyl)indol-3-carboxylat] |
@@ -171,6 +175,7 @@
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III als Lösung bis zu 0,15 vom Hundert, je Packungseinheit jedoch nicht mehr als 150 mg, oder je abgeteilte Form bis zu 20 mg Pholcodin, berechnet als Base, enthalten - |
 | Propiram | - | N-(1-Piperidinopropan-2-yl)-N-(2-pyridyl)propanamid |
 | Pyrovaleron | - | 2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on |
+| - | α-Pyrrolidinohexanophenon (Alpha-PHP, α-PHP, PV-7) | 1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on |
 | - | α-Pyrrolidinovalerophenon (α-PVP) | 1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on |
 | Racemoramid | - | (RS)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on |
 | Racemorphan | - | (9RS,13RS,14RS)-17-Methylmorphinan-3-ol |
@@ -191,6 +196,7 @@
 | - | U-47700 | 3,4-Dichlor-N-[2-(dimethylamino) cyclohexyl]-N-methylbenzamid |
 | - | U-48800 | 2-(2,4-Dichlorphenyl)-N-[2-(dimethylamino)cyclohexyl]-N-methylacetamid |
 | - | UR-144 | (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanon |
+| - | Valerylfentanyl | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]pentanamid |
 | Vinylbital | - | 5-Ethenyl-5-(pentan-2-yl)pyrimidin-2,4,6(1H,3H,5H)-trion |
 | Zipeprol | - | 1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol |
 - die Ester, Ether und Molekülverbindungen der in dieser Anlage sowie die Ester und Ether der in Anlage III aufgeführten Stoffe, ausgenommen gamma-Hydroxybuttersäure (GHB), wenn sie nicht in einer anderen Anlage verzeichnet sind und das Bestehen solcher Ester, Ether und Molekülverbindungen möglich ist;
