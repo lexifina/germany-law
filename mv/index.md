@@ -8,7 +8,7 @@
 - [§ 2 Allgemeine Zahlungsmitteilungen](0002.md)
 - [§ 3 Honorare der Rundfunkanstalten](0003.md)
 - [§ 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung](0004.md)
-- [§ 4a Ausfuhrerstattungen](0004a.md)
+- [§ 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs](0004a.md)
 - [§ 5 Ausgleichs- und Abfindungszahlungen nach dem
 Flurbereinigungsgesetz](0005.md)
 - [§ 6 Gewerberechtliche Erlaubnisse und Gestattungen](0006.md)
