@@ -110,7 +110,6 @@ Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notw
 22.1 Venenkissen
 23.1 Waage
 23.2 Wandstandgerät
-23.3 (weggefallen)
 24.1 (frei)
 25.1 (frei)
 26.1 Zahnpflegemittel
