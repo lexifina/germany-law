@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-01-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6261837
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6261837
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Verbesserungsbedarf bei 1. Grünanforderung für Fußgänger an der Kreuzung Sapporobogen/ Postillonstraße - Dachauer Straße; 2. Einsehbarkeit von der Lampadiusstraße in die Dachauer Straße; 3. Neugestaltung Sapporobogen-Unterführung zum Olympiapark.
+- TOP 2.2.: Neubau Bahnunterführung an der Dachauer Straße: Alternativvorschläge zum Ausbau des öffentlichen Nahverkehrs
+- TOP 2.3.: Anbringung von Trixi-Spiegeln an der Kreuzung Feldmochinger Straße und Max-Born-Straße
+- TOP 3.2.1.: Gestaltung Baldurstraße mit Radweg [-> Vorschlag BA9 zu einer gemeinsamen Stellungnahme an das KVR; siehe BA-Antrag Nr. 20-26/B 00159 des BA9 vom 16.06.2020]
+- TOP 3.2.2.: Einladung BA23 zu einem gemeinsamem Ortstermin Waldhornstraße/Brieger Straße ( Vertagung aus Sitzung 21.12.2020 /TOP 3.2.2]
+- TOP 3.3.1.: Bauvorhaben: 1. Sickingerstr. 15 2. Triebstr. 18
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Sickingerstr. 15 (-> Bauvorhaben siehe TOP 3.3.1.1)
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Andernacher Str. 40 2. Dresdner Str. 12 3. Fodermaystr. 1 - ggf. weitere auf Aufruf -
+- TOP 4.1.1.: Station "Wertstoffmobil" auch im Zentrum Moosachs
+- TOP 4.1.2.: Einrichtung Zweirichtungsradweg südliche Triebstraße/ Kreuzung Landshuter Allee
+- TOP 4.1.3.: Mobilitätsstationen in Moosacher GWG-Gebäuden mitplanen
+- TOP 4.1.4.: Erweiterung des Geschäftsgebiets des Car-Sharing Angebots in Moosach
+- TOP 4.1.5.: Anfrage: Grund des Wegfalls der Christbaum-Sammelstelle an der Merseburger Straße und Bitte um dauerhafte Etablierung einer Sammelstelle dort oder in unmittelbarer Umgebung
+- TOP 4.1.6.: Schaffung wohnungsnaher Christbaum-Entsorgungsmöglichkeiten auch für Nicht-Autofahrer in Moosach
+- TOP 5.1.: Stadtbezirksbudget - Verlängerung des Bewilligungszeitraums und nachträgliche Erhöhung des Zuschussbetrages: Initiative "Theaterprojekt - Auf die Straße" (→ TOP 5.14 , Sitzung am 29.04.2020)
+- TOP 5.2.: Stadtbezirksbudget - nachträgliche Erhöhung des Zuschussbetrages: PA/ Spielen in der Stadt e.V.: "Aktionen 2021" (-> TOP 5.5, Sitzung am 29.04.2020)
+- TOP 5.3.: Tischtennisplatten für die Nachbarschaft in der Lauinger Straße [BA-Antrag Nr. 20-26/B00961; geeigneter Standort, aber Finanzierung seitens Referat nicht möglich; evtl. BA-Budgetmittel?] -> Bestellung städtischer Leistungen
+- TOP 6.1.: Mieterbeiratswahl 2021: Entsendung von stimmberechtigten Mitgliedern (-> siehe TOP 6.4/ Sitzung 21.12.2020) Hier: Vorschlag eines weiteren Mitgliedes (w.,div.)
+- TOP 6.2.: Beschlussentwurf: Ausbau der Bahnüberführung Dachauer Straße mit Offenhaltung der Durchfahrt für eine Tram; Herausnahme der Dachauer Straße aus dem Vorbehaltsnetz für den städt. Wirtschaftsverkehr (→ vertagt aus der Sitzung am 25.11.2020/ TOP 6.6 und am 21.12.2020/ TOP 6.5; ) hier: angeforderte Stellungnahme des Referates zum Anschreiben BA10 vom 22.12.2020)
+- TOP 7.1.: Erneuerung des Fahrbahnbelages an der Bushaltestelle "Olympiaeinkaufszentrum" (Pelkovenstraße/ Ecke Hanauer Straße) [BA-Antrag Nr. 20-26/B00954; Abfräsung Spurrillen als Sofortmassnahme und weitere Sanierungsmassnahmen geplant]
+- TOP 7.2.: Entfernung der Fahrradmarkierungen auf der Baldurstraße [Schreiben BA10 vom 21.10.2020; Nacharbeiten für Frühjahr 2021 zugesichert]
+- TOP 7.3.: Anbringung eines neuen Brunnens auf dem Westfriedhof [Schreiben BA10 vom 21.10.2020; Einbau eines Sickerschachtes und Umrandung mit Pflastersteinen im Frühjahr 2021]
+- TOP 7.4.: Konzession für einen öffentlichen Betrieb der Bar im Hotel "Harry&#039;s Home, Bunzlauer Platz [Schreiben BA10 vom 25.11.2020; Schaffung baurechtlicher Voraussetzungen durch Hotelleitung notwendig]
+- TOP 7.5.: Neue Sitzgelegenheiten vor dem Stadtteilladen Moosach [Schreiben BA10 vom 24.07.2020; Aufstellung einer Bank erfolgt]
+- TOP 8.1.: Sommerstraßen und Parklets im Jahr 2021
+- TOP 8.2.: Information zum Stand der Grünpfeil-Regelung für den Radverkehr (Zeichen 721 der Straßenverkehrsordnung)
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Welzenbachstraße; Einfahrverbot auf Höhe Einmündung Nanga-Parbat-Straße 2. Margarte-Steiff-Straße; Beschilderung nach Fertigstellung Straßenbaumaßnahme 3. Walter-Flex-Straße; Daueranordnung Öffnung für gegenläufigen Radverkehr
+- TOP 8.4.: Unveränderte Fortführung eines Gaststättenbetriebs: Bauberger Str. 19
+- TOP 8.5.: Gewährung von Zuschüssen durch den Kulturbaufond (SV)
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 8.8.: Abgeschlossenes Vorkaufsrechtprüfungsverfahren: Anwesen Nähe Gärtnerstraße - nicht-öffentlich -
+- TOP 8.9.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung bestehende Mobilfunkstandorte, 5G: Skagerrak- und Baubergerstraße 2. Erweiterung bestehend Mobilfunksendeanlage: Pelkovenstraße
+- TOP 4.: Anträge
