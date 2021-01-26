@@ -1,0 +1,123 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-01-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242458
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242458
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Bürgerfragen
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.2.1.: Protokoll/e der Sitzung vom 22.12.2020
+- TOP 2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: Baumkirchner Straße Süd Beschluss des Bezirksausschusses des Stadtbezirkes 14 vom 26.01.2021
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Halserspitzstraße (Variante 1); Neubau einer Kinderkrippe mit 5 Gruppen - VORBESCHEID -
+- TOP 3.1.2.: Halserspitzstraße (Variante 2); Neubau einer Kinderkrippe mit 5 Gruppen - VORBESCHEID -
+- TOP 3.1.3.: Berg-am-Laim-Str. 91; Nutzungsänderung: Sishabar zu Teilbereich Gaststätte
+- TOP 3.1.4.: Gisela-Stein-Straße; WV-MK7 I - Neubau eines Bürogebäudes mit Tiefgarage im Werksviertel
+- TOP 3.1.5.: Josephsburgstr. 87; Errichtung eines Mehrfamilienhauses (5 WE) mit TG (5 Stpl.)
+- TOP 3.1.6.: Mehr Spiel- und Sportmöglichkeiten an der Grünanlage Xaver-Weismor-Straße; Antrag CSU Fraktion und FDP
+- TOP 3.1.7.: Gelände der ehemalige Landwirtschaftsschule - Integration eines kleinen, öffentlichen Kinderspielplatzes in die aktuellenPlanungen; Bürgeranliegen
+- TOP 3.1.8.: Räumung der Bank in der Altöttinger Straße/Ecke Simbacher Straße; Bürgeranliegen
+- TOP 3.1.9.: Reinigungsturnus an der S-Bahn-Station Berg am Laim erhöhen; Bürgeranliegen
+- TOP 3.1.10.: Installation eines Mülleimers neben der Sitzbank an der Hansjakobstraße/Ecke St.-Veit-Straße; Bürgeranliegen
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Erinnerungsverfahren hier: Haager Str. 16; Wiederherstellung und Anpassung nach Hochbau
+- TOP 3.2.2.: Überdachung der Bushaltestelle in der Truderinger Straße (stadtauswärts) am S-Bahnhof Berg am Laim (Süd); Bürgeranliegen
+- TOP 3.2.3.: Erweiterung Zone 30 auf die Else-Rosenfeld-Straße mit Beschilderung bereits an der Kreillerstraße; Bürgeranliegen
+- TOP 3.2.4.: Beschleunigung der Ampelschaltung für Fußgänger*innen an der Kreuzung Kreiller-/Mutschellestraße; Bürgeranliegen
+- TOP 3.2.5.: Ost-West-Radwegverbindung Ostbahnhof-Trudering; Antrag CSU Fraktion
+- TOP 3.2.6.: Neue Nord-Süd-Verbindung Berg am Laim vorantreiben; Antrag CSU Fraktion
+- TOP 3.2.7.: Sicherheit für Fußgänger*innen: Mehr Zebrastreifen für Berg am Laim; Antrag CSU Fraktion
+- TOP 3.2.8.: Halteverbotsregelung in der Guffertstraße überarbeiten; Antrag UA städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.9.: Fragenkatalog zur Umsetzung des Radentscheids (3. und 4. Maßnahmenbündel) und Bürgerbeteiligung; Antrag CSU Fraktion
+- TOP 3.2.10.: Antrag: Fahrradvorrangnetz für Berg am Laim; Antrag Fraktion Die Grünen
+- TOP 3.2.11.: Erhalt der Trambahn-Stichstrecke zur St.-Veit-Straße auch nach der Streckenverlängerung in Richtung Haar; Antrag Fraktion FW/ÖDP
+- TOP 3.2.12.: Hachinger-Bach-Straße Ost - Neubewertung des einseitigen Halteverbotes zur Behinderung von Geschwindigkeitsübertretungen durch Autos und LKW; Bürgeranliegen
+- TOP 3.2.13.: Digitale Zusammenarbeit auf Stadtbezirksebene stärken!; Antrag FDP
+- TOP 3.2.14.: Kulturzentrum Trudering wird demnächst zum Sendestudio; BA 14 nutzt diese Technik und streamt die Sitzungen live; Antrag Fraktion FW/ÖDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Bewerbung zum REGSAM-Schwerpunktthema INKLUSION 2021
+- TOP 3.4.2.: Antrag: Schwerpunktthema Inklusion; Antrag Fraktion Die Grünen
+- TOP 3.4.3.: Personalsituation in der Unterkunft Berg-am-Laim-Straße Auskunft durch das Sozialreferat an den BA 14; Antrag Die Linke
+- TOP 3.4.4.: Antrag: Vergabe von kostenlosen FFP2 Atemschutzmasken an Einwohner*innen im Stadtbezirk Berg am Laim; Antrag Die Linke
+- TOP 3.5.1.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park vom 01.05. - 30.09.2021 5.575,00 € / Az. 0262.0-14-0283
+- TOP 3.6.1.: Halserspitzstraße (Varianten 1 und 2); Neubau einer Kinderkrippe mit 5 Gruppen - VORBESCHEID -
+- TOP 3.6.2.: Gisela-Stein-Straße; WV-MK7 I - Neubau eines Bürogebäudes mit Tiefgarage im Werksviertel
+- TOP 3.6.3.: Josephsburgstr. 87; Errichtung eines Mehrfamilienhauses (5 WE) mit TG (5 Stpl.)
+- TOP 3.6.4.: Gronsdorfer Str. 6a
+- TOP 3.6.5.: Ruhpoldinger Str. 28
+- TOP 3.6.6.: Michaeliburgstr. 16
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben in der Zeit vom 07.12.2020 bis 10.01.2021
+- TOP 4.1.2.: Cafe&#039; Mahlerhaus Baumkirchner Straße/Ecke Josephsburgstraße in Berg am Laim - Antwortschreiben des Sozialreferates -
+- TOP 4.1.3.: Pop-Up-Blumenwiese auf der Schotterfläche der ehem. Griechischen Schule
+- TOP 4.1.4.: Bienenautomaten für Berg am Laim und München
+- TOP 4.1.5.: Erfahrungsbericht Radlramadama
+- TOP 4.1.6.: Wann werden die Boulebahn und der Fitnesspark im Michaelianger realisiert?
+- TOP 4.1.7.: Schlechte Wegeräumung bei Eis und Schnee auf den Zugangswegen zum Penny Markt am Innsbrucker Ring/Grafinger Straße - Antwortschreiben des Baureferates auf Bürgeranliegen -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.3.: (U) Verkehrsgutachten für die Stadtbezirke 13, 14 und 15 Empfehlung Nr. 14-20 / E 02705 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 11.07.2019
+- TOP 4.2.4.: (U) Vollständige Veröffentlichung der Verkehrsgutachten für den Münchener Osten Empfehlung Nr. 14 - 20 / E 02712 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 11.07.2019
+- TOP 4.2.5.: Grünpfeilschild mit Beschränkung auf den Radverkehr - Information des Kreisverwaltungsreferates zum Stand Einführung -
+- TOP 4.2.6.: Sommerstraße und Parklets im Jahr 2021 - Informationsschreiben des Kreisverwaltungsreferates -
+- TOP 4.2.7.: Schwellenfreie Verbindung von der Schweppermannstraße zur Ampfingstraße
+- TOP 4.2.8.: Buckelpiste an der Schlüsselbergstraße durch Fahrradweg ersetzen
+- TOP 4.2.9.: Planmäßige Fertigstellung des barrierefreien Ausbaus der Station Leuchtenbergring sicherstellen - Zwischennachricht -
+- TOP 4.2.10.: Auskunft über sämtliche Schattenmaßnahmen zur zweiten S-Bahn-Stammstrecke - Zwischennachricht -
+- TOP 4.2.11.: Hachinger-Bach-Straße - Westseite, Absolute Halteverbote als Ausweichstellen
+- TOP 4.2.12.: Ursberger Straße; Widerruf des eingeschränkten Halteverbotes Ostseite Anordnung wechselseitiger Halteverbotsbereiche
+- TOP 4.2.13.: Hinweisschild für Radfahrer*innen in der Echardinger Straße an der Kreuzung Michaelianger
+- TOP 4.2.14.: Schwellenfreie Verbindung zwischen Isareckstraße und Ampfingstraße
+- TOP 4.2.15.: Fahrbahnverengung der Hansjakobstraße zur Geschwindigkeitsreduzierung
+- TOP 4.2.16.: Schwellenfreier und erweiterter Zugang zum Behrpark
+- TOP 4.2.17.: Truderinger Straße verkehrssicher und ordnungsgemäß ausbauen
+- TOP 4.2.18.: Durchgehend sichere Radverbindung entlang der Truderinger Straße vom S-Bahnhof Berg-am-Laim bis zur Bajuwarenstraße in Trudering
+- TOP 4.2.19.: Sicherer Radverkehr in der St.-Veit-Straße
+- TOP 4.2.20.: Druckampel Höhe Permoserplatz: Schaltung endlich optimieren
+- TOP 4.2.21.: Hachinger-Bach-Straße - Ostseite; Guffertstraße; Absolute Haltverbote gegen Gehwegparken
+- TOP 4.2.22.: Cafe Bar Bisto Kreillers, Kreillerstr. 21 Antrag auf unveränderte Fortführung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Information zur Auswahl der REGSAM-Schwerpunktgebiete 2021
+- TOP 4.4.2.: (U) Stadtteilladen baum20 in Berg am Laim Erweiterung des Standortes mit einem Nachbarschaftstreff 14. Stadtbezirk - Berg am Laim
+- TOP 4.4.3.: Neue Wohnungsbörse der Landeshauptstadt München - Flyer des Sozialreferates -
+- TOP 4.4.4.: AKIM (Allparteiliches Konfliktmanagement) - Bericht 2. Halbjahr 2020
+- TOP 4.4.5.: Neueinrichtung von Schulsozialarbeit/Jugendsozialarbeit an Schulen an Grundschulen Sitzungsvorlage Nr. 20-16/V 00338
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Spielen in der Stadt e.V. Kurzbericht über die bezuschussten mobilen Aktionen 2020 im 14. Stadtbezirk
+- TOP 4.5.2.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb hier: Unterausschusssitzungen für Januar 2021
+- TOP 4.5.3.: Auswirkungen der Corona-Pandemie auf den Sitzungsbetrieb hier: Unterausschusssitzungen für Januar 2021
+- TOP 4.5.4.: Angebot einer Firma zur kostenlosen Durchführung von Corona-Schnelltests für Bezirksausschussmitglieder
+- TOP 4.5.5.: Die Stadt München stellt den Mitgliedern der BAs für die Sitzungen der Unterausschüsse und des Plenums FFP2-Masken zur Verfügung
+- TOP 4.5.6.: Virtuelle Tagung der Unterausschüsse der Unterausschüsse - Antrag des BA 22 Aubing-Lochhausen-Langwied mit der Bitte um Unterstützung -
+- TOP 4.5.7.: Pilotversuch mit Lärmdisplays: Antrag auf Bestellung städtischer Leistungen
+- TOP 4.6.: Baumschutz
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
