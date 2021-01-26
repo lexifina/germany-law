@@ -1,0 +1,53 @@
+# 1. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-26T15:30:00+01:00
+- Ende: 2021-01-26T16:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23376
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23376
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung für den Ausschuss für Kunst und Kultur sowie den Betriebsausschuss der Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP -: Aufzeichnung der Sitzungen des Ausschusses für Kunst und Kultur sowie der Betriebsausschüsse Bühnen, Gürzenich-Orchester sowie Wallraf-Richartz-Museum & Fondation Corboud - ungeändert beschlossen
+- TOP -: Verpflichtung von sachkundigen Bürgern und sachkundigen Einwohnern
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Schriftlicher Antrag der FDP und Freie Wähler Köln; hier Ein Radiomuseum ins historische WERAG-Funkhaus, Raderthal - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.1.1: gemeinsamer Änderungsantrag von SPD und FDP zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “ - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Ebertplatz: Fortführung der Zwischennutzung und Ausarbeitung eines Zwischennutzungskonzeptes für den Zeitraum nach Juni 2021 Arbeitstitel: Fortführung der Zwischennutzung Ebertplatz - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Bedarfsfeststellung zur Beschaffung eines zukunftsorientierten, emissionsarmen Bibliotheksbusses als Ersatz für den bisherigen Bibliotheksbus der Stadtbibliothek - ungeändert beschlossen
+- TOP 4.4: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: "Erhöhung des Förderetats für interkulturelle Projekte„ sowie „Etatisierung eines Förderbudgets für freie inklusive Kulturarbeit" - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung von Kunstwerken des Künstlers Claes Oldenburg an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sicherung, Weiterentwicklung und Neuaufstellung der lit.COLOGNE 2021 - Kenntnis genommen
+- TOP 8.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 8.3: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen. Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.4: Stadtbibliothek Köln Bericht 2020/2021 - Kenntnis genommen
+- TOP 8.5: Geschäftsbericht Kulturamt 2019 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 8. Dezember 2020 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der FDP-Fraktion; hier: Sachstand Bauwerk MiQua - Kenntnis genommen
+- TOP 11.1.1: Antwort der Verwaltung zur Anfrage der FDP-Fraktion AN/0109/2021; hier: Sachstand Bauwerk MiQua - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion, hier: Perspektiven für die Fotostadt Köln sicherstellen! - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion; hier: Zukunft für raum13 - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Die Grünen; Workshop Partizipation im Rahmen des Kulturentwicklungsplanes
+- TOP 12.2: Mündliche Anfrage der Fratktion Die Grünen: Stand Raummanagement (KEP)
+- TOP 12.3: Mündliche Anfrage zur stadtentwicklungspolitischen Einbettung der Initiative „Raum13“
+- TOP 12.4: Mündliche Anfrage: Freier Eintritt in die Kölner Museen
