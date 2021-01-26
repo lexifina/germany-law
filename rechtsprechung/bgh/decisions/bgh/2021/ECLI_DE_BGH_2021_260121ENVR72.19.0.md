@@ -1,0 +1,1240 @@
+---
+ecli: "ECLI:DE:BGH:2021:260121ENVR72.19.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Kartellsenat"
+aktenzeichen: "EnVR 72/19"
+decided: "2021-01-26"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=7&nr=117295&anz=3571&pos=226&Blank=1.pdf"
+corpus_doc_id: "BGH_Kartellsenat_NA_2021-01-26_NA_EnVR_72_19_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/aregv/0006.md", "germany/bund/acts/aregv/0007.md", "germany/bund/acts/aregv/0008.md", "germany/bund/acts/aregv/0009.md", "germany/bund/acts/aregv/0012.md", "germany/bund/acts/aregv/0014.md", "germany/bund/acts/enwg_2005/0001.md", "germany/bund/acts/enwg_2005/0021a.md", "germany/bund/acts/enwg_2005/0082.md", "germany/bund/acts/enwg_2005/0090.md", "germany/bund/acts/gasnev/0005.md", "germany/bund/acts/gasnev/0006.md", "germany/bund/acts/gasnev/0006a.md", "germany/bund/acts/gasnev/0007.md", "germany/bund/acts/gkg_2004/0050.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/zpo/0003.md"]
+---
+
+# Bundesgerichtshof, EnVR 72/19 vom 2021-01-26
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                             BESCHLUSS
+EnVR 72/19
+
+                                                         Verkündet am:
+                                                         26. Januar 2021
+                                                         Anderer
+                                                         Justizangestellte
+                                                         als Urkundsbeamtin
+                                                         der Geschäftsstelle
+
+             in der energiewirtschaftsrechtlichen Verwaltungssache
+
+
+
+
+ECLI:DE:BGH:2021:260121BENVR72.19.0
+
+                                      -2-
+
+
+
+Der Kartellsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung vom
+10. November 2020 durch den Vorsitzenden Richter Prof. Dr. Meier-Beck, die
+Richter Prof. Dr. Kirchhoff und Dr. Schoppmeyer sowie die Richterinnen
+Dr. Picker und Dr. Linder
+
+beschlossen:
+
+
+      Auf die Rechtsbeschwerde der Bundesnetzagentur wird der Beschluss des 3. Kartellsenats des Oberlandesgerichts Düsseldorf
+      vom 10. Juli 2019 aufgehoben.
+
+      Die Beschwerde gegen den Beschluss der Bundesnetzagentur vom
+      21. Februar 2018 wird zurückgewiesen.
+
+      Die Betroffene trägt die Kosten der Rechtsmittelverfahren einschließlich der notwendigen Auslagen der Bundesnetzagentur.
+
+      Der Gegenstandswert für das Rechtsbeschwerdeverfahren wird auf
+      250.000 € festgesetzt.
+
+                                          -3-
+
+
+
+                                        Gründe:
+
+1          A.     Mit Beschluss vom 21. Februar 2018 hat die Bundesnetzagentur
+    den generellen sektoralen Produktivitätsfaktor für Betreiber von Gasversorgungsnetzen gemäß § 9 Abs. 3 ARegV für die dritte Regulierungsperiode auf 0,49 %
+    festgelegt.
+
+2          Vor der Entscheidung holte die Bundesnetzagentur zur Ermittlung des generellen sektoralen Produktivitätsfaktors ein Gutachten ein, das die Anwendung
+    zweier unterschiedlicher Methoden empfahl. Auf Grundlage dieses Gutachtens
+    und nach Erhebung von Daten bei den Netzbetreibern aus der Gewinn- und Verlustrechnung, zum Sachanlagevermögen und zum Personalaufwand für die
+    Jahre 2006 bis 2016 ermittelte die Bundesnetzagentur mithilfe eines Törnqvist-Indexes, der die Produktivität von Unternehmen als Verhältnis zwischen Ausbringungsmengen (Output) und den hierfür benötigten Produktionsfaktoren (Input)
+    auf der Grundlage von Daten aus der volkswirtschaftlichen Gesamtrechnung abbildet, einen generellen sektoralen Produktivitätsfaktor von 0,49 %. Auf der
+    Grundlage eines weiteren, als Malmquist-Methode bezeichneten Verfahrens, bei
+    dem die Änderungen statischer Effizienzwerte von Unternehmen für unterschiedliche Perioden verglichen werden, ermittelte die Bundesnetzagentur auf der
+    Grundlage der Daten der für die ersten drei Regulierungsperioden durchgeführten Effizienzvergleiche einen generellen sektoralen Produktivitätsfaktor von
+    0,92 %. Da die Bundesnetzagentur keine der beiden Methoden als überlegen
+    ansah, setzte sie zugunsten der Netzbetreiber den niedrigeren Wert fest.
+
+3          Die Betroffene, die ein Gasversorgungsnetz betreibt, hat - wie zahlreiche
+    weitere Netzbetreiber - die Festlegung mit der Beschwerde angegriffen.
+
+4          Das sachverständig beratene Beschwerdegericht hat den Beschluss der
+    Bundesnetzagentur aufgehoben und die Bundesnetzagentur zur Neubeschei-
+
+                                           -4-
+
+
+
+    dung verpflichtet. Dagegen wendet sich die Bundesnetzagentur mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde, mit der sie die Zurückweisung der Beschwerde der Betroffenen begehrt.
+
+5         B.     Die zulässige Rechtsbeschwerde ist begründet.
+
+6         I.     Das Beschwerdegericht hat angenommen, die angefochtene Festlegung sei rechtswidrig, da die Bundesnetzagentur die Höhe des generellen
+    sektoralen Produktivitätsfaktors rechtsfehlerhaft ermittelt habe.
+
+7         Allerdings sei die von der Bundesnetzagentur zur Ermittlung der gesamtwirtschaftlichen Produktivitätsentwicklung mithilfe des Törnqvist-Index angewandte Residualbetrachtung mit § 9 Abs. 1 und 3 Satz 1 ARegV vereinbar. Die
+    Bundesnetzagentur habe fehlerfrei den gesamtwirtschaftlichen Produktivitätsfortschritt und die Änderung der gesamtwirtschaftlichen Einstandspreise durch den
+    vom Statistischen Bundesamt ermittelten Verbraucherpreisgesamtindex abgebildet. § 9 Abs. 1 ARegV verlange keine getrennte Ermittlung von vier Einzelwerten
+    zum gesamtwirtschaftlichen und netzwirtschaftlichen Produktivitätsfortschritt sowie zur gesamtwirtschaftlichen und netzwirtschaftlichen Einstandspreisentwicklung. Der Verordnungsgeber gehe vielmehr davon aus, dass die Inflationsrate die
+    Differenz zwischen der Inputpreis- und der Produktivitätsentwicklung in der Gesamtwirtschaft ausdrücke.
+
+8         Die Bundesnetzagentur habe den Index der durchschnittlichen Netzentgelte rechtmäßig als Deflator der Umsatzerlöse zur Ermittlung preisbereinigter
+    Ausbringungsmengen ausgewählt. Die Bestimmung des (als Xgen bezeichneten)
+    generellen sektoralen Produktivitätsfaktors sei jedoch rechtswidrig, weil der von
+    der Bundesnetzagentur ermittelte Wert nicht robust gegenüber Veränderungen
+    des betrachteten historischen Zeitraums (Stützintervalls) sei. Die Einschätzung
+    der Bundesnetzagentur, der der Ermittlung des Produktivitätsfaktors bei Anwen-
+
+                                           -5-
+
+
+
+     dung des Törnqvist-Indexes zugrunde liegende Zeitraum von 2006 bis 2016 gewährleiste zuverlässige Ergebnisse, beruhe auf einem Ermittlungs- und Ermessensdefizit. Die Bundesnetzagentur habe fehlerhaft die Ursachen der starken
+     Schwankungen der sich für verschiedene, von ihr in Betracht gezogene kürzere
+     Stützintervalle ergebenden sektoralen Produktivitätsfaktoren nicht untersucht.
+     Für die Einbeziehung des Jahres 2006 in die Betrachtung fehle es an einer hinreichenden Begründung, da die Bundesnetzagentur dieses Jahr wegen einer unzuverlässigen Datenbasis zunächst nicht berücksichtigt habe. Die Bundesnetzagentur habe sich außerdem zu wenig mit den Auswirkungen des Jahres 2006
+     als erstem Jahr der Entgeltregulierung und dem in diesem Jahr durch die Verschiebung von Investitionen durch Netzbetreiber in das Basisjahr aufgetretenen
+     Sondereffekt (Basisjahreffekt) auseinandergesetzt. Sie habe schließlich nicht
+     ausreichend begründet, weshalb sie bei (später erfolgten) der Festlegung des
+     generellen sektoralen Produktivitätsfaktors für den Strombereich die Plausibilisierung abweichend vom Gasbereich vorgenommen habe.
+
+9          Rechtswidrig sei es ferner, dass die Bundesnetzagentur bei der Berechnung der Abschreibungen als Bestandteil der Einstandsfaktoren handelsrechtliche anstatt der in §§ 6, 6a GasNEV vorgegebenen kalkulatorischen Grundsätze
+     angewendet habe. Sie habe grundsätzlich keinen Entscheidungsspielraum, ob
+     sie handelsrechtliche oder kalkulatorische Grundsätze heranziehe, sofern der
+     Verordnungsgeber bei bestimmten Kostenanteilen wie den Abschreibungen mit
+     §§ 6, 6a GasNEV einen kalkulatorischen Ansatz vorgegeben habe; diese Vorgaben seien vielmehr nicht nur im Rahmen der Kostenprüfung, sondern auch bei
+     der Berechnung des generellen sektoralen Produktivitätsfaktors maßgeblich.
+
+10         Ferner sei die Ermittlung des Produktivitätsfaktors anhand des Törnqvist-Indexes deshalb zu beanstanden, weil die Bundesnetzagentur einen jährlich aktualisierten Zins für das Fremdkapital herangezogen habe. Obwohl § 9 ARegV
+     keine ausdrückliche Beschränkung auf kalkulatorische Werte vorsehe, fuße die
+
+                                            -6-
+
+
+
+     Ermittlung des generellen sektoralen Produktivitätsfaktors als Bestandteil der Regulierungsformel auf den einschlägigen Vorgaben der Anreizregulierungsverordnung und der Netzentgeltverordnungen. Daher bestünden zwar keine Bedenken,
+     dass die Bundesnetzagentur für die Entwicklung des Inputfaktors "Zinsen und
+     ähnliche Aufwendungen" die in § 7 Abs. 7 GasNEV aufgeführten Zinsreihen herangezogen habe. Fehlerhaft sei es aber, dass sie einen jährlichen Durchschnitt
+     dieser Zinsreihen anstatt eines auf mehrere Kalenderjahre bezogenen Durchschnitts (rollierenden Mittelwerts) gebildet habe.
+
+11         Bei der Berechnung des Malmquist-Indexes, den die Bundesnetzagentur
+     zur Plausibilisierung des durch den Törnqvist-Index ermittelten Werts herangezogen habe, habe sie es ermessensfehlerhaft unterlassen, entsprechend § 12
+     Abs. 3 und 4a ARegV eine Bestabrechnung vorzunehmen. Das Prinzip der Bestabrechnung sei auf die Festlegung des generellen sektoralen Produktivitätsfaktors anzuwenden, um den berechtigten Interessen der Netzbetreiber an einer
+     rechtssicheren und nachvollziehbaren Berechnung des Faktors zu entsprechen.
+
+12         II.    Diese Bewertung hält den Angriffen der Rechtsbeschwerde der
+     Bundesnetzagentur nicht stand.
+
+13         1.     Nach § 21a Abs. 2 Satz 1 EnWG werden in der Anreizregulierung
+     für eine Regulierungsperiode unter Berücksichtigung von Effizienzvorgaben
+     Obergrenzen für die Höhe der Netzzugangsentgelte oder die Gesamterlöse aus
+     Netzzugangsentgelten vorgegeben. Nach § 21a Abs. 4 Satz 7 EnWG müssen
+     die Vorgaben für die Entwicklung oder Festlegung der Obergrenze den Ausgleich
+     der allgemeinen Geldentwertung unter Berücksichtigung eines generellen sektoralen Produktivitätsfaktors vorsehen. Durch Rechtsverordnung können dazu
+     nach § 21a Abs. 6 Satz 2 Nr. 5 EnWG Regelungen zum Verfahren bei der Be-
+
+                                             -7-
+
+
+
+     rücksichtigung der Inflationsrate unter Einbeziehung der Besonderheiten der Einstandspreisentwicklung und des Produktivitätsfortschritts in der Netzwirtschaft
+     getroffen werden.
+
+14          2.     Auch unter Berücksichtigung der dazu in der Anreizregulierungsverordnung getroffenen Regelungen ist die Festlegung des generellen sektoralen
+     Produktivitätsfaktors inhaltlich nicht vollständig rechtlich determiniert.
+
+15          a)     Der gesetzlichen Vorgabe entsprechend ist der generelle sektorale
+     Produktivitätsfaktor nach der Regulierungsformel in Anlage 1 zu § 7 ARegV ein
+     Korrekturfaktor für den durch das Statistische Bundesamt veröffentlichten Verbraucherpreisgesamtindex. Durch ihn soll gewährleistet werden, dass bei der Bestimmung der Erlösobergrenzen berücksichtigt wird, ob und gegebenenfalls in
+     welchem Maße sich die Produktivität der Netzbetreiber abweichend von der Gesamtwirtschaft entwickelt (vgl. Verordnung der Bundesregierung zum Erlass und
+     zur Änderung von Rechtsvorschriften auf dem Gebiet der Energieregulierung,
+     BR-Drucks. 417/07, S. 48).
+
+16          b)     Nach § 9 Abs. 1 ARegV wird der generelle sektorale Produktivitätsfaktor aus der Abweichung des netzwirtschaftlichen Produktivitätsfortschritts vom
+     gesamtwirtschaftlichen Produktivitätsfortschritt und der gesamtwirtschaftlichen
+     Einstandspreisentwicklung von der netzwirtschaftlichen Einstandspreisentwicklung ermittelt. Der Verordnungsgeber hat den generellen sektoralen Produktivitätsfaktor für Gas- und Stromnetzbetreiber in § 9 Abs. 2 ARegV für die erste Regulierungsperiode auf 1,25 % und für die zweite Regulierungsperiode auf 1,5 %
+     jährlich festgelegt. Seit der dritten Regulierungsperiode ist es nach § 9 Abs. 3
+     Satz 1 ARegV Aufgabe der Bundesnetzagentur, jeweils vor Beginn einer Regulierungsperiode für diese Periode den Produktivitätsfaktor nach Maßgabe von
+     Methoden, die dem Stand der Wissenschaft entsprechen, zu ermitteln. Dabei
+
+                                            -8-
+
+
+
+     muss sie nach § 9 Abs. 3 Satz 2 ARegV Daten von Netzbetreibern aus dem gesamten Bundesgebiet für einen Zeitraum von mindestens vier Jahren einbeziehen. Sie kann ferner, wie sie es für die dritte Regulierungsperiode getan hat,
+     gemäß § 9 Abs. 3 Satz 4 ARegV für die Strom- und Gasversorgungsnetze
+     jeweils einen eigenen Wert bestimmen.
+
+17         c)     Bereits aus dem Verweis auf Methoden, die dem Stand der Wissenschaft entsprechen, der Vorgabe eines bloßen Mindestzeitraums für die einzubeziehenden Daten und der Ermächtigung, aber nicht Verpflichtung, zwischen
+     Strom- und Gasversorgungsnetzen zu differenzieren, ergibt sich, dass der Verordnungsgeber, wie nach § 21a EnWG zulässig, der Bundesnetzagentur grundsätzlich die Entscheidung überlassen hat, mit welchen ökonometrischen Methoden sie die Grundlagen für die Festlegung des generellen sektoralen Produktivitätsfaktors ermittelt (vgl. BR-Drucks. 417/07, S. 48 f.; Entwurf der Fraktionen der
+     CDU/CSU und FDP eines Zweiten Gesetzes zur Neuregelung energiewirtschaftsrechtlicher Vorschriften, BT-Drucks. 17/7632, S. 5).
+
+18         Der Produktivitätsfaktor ist eine regulatorische Größe, die nach ihrem
+     prognostischen Charakter und nach den für die Prognose zur Verfügung stehenden statistischen und sonstigen empirischen Grundlagen nicht gemessen und
+     somit nicht exakt bestimmt, sondern nur abgeschätzt werden kann. Für eine solche Abschätzung kommen typischerweise - und so auch hier - mehrere ökonometrische Methoden in Betracht, die unterschiedliche Datengrundlagen verwenden und die insbesondere in Abhängigkeit von der Verfügbarkeit, Genauigkeit
+     und Verlässlichkeit der vorhandenen oder von der Regulierungsbehörde zu erhebenden Daten zu unterschiedlichen Ergebnissen führen können. Gibt das Gesetz die Methode nicht vor, ist die von der Regulierungsbehörde festzusetzende
+     Größe insoweit im Ausgangspunkt nicht rechtlich determiniert. Der gerichtlichen
+     Kontrolle unterliegen demgemäß in erster Linie die Kriterien, an denen sich die
+
+                                           -9-
+
+
+
+     Regulierungsbehörde bei der Auswahl und der Anwendung einer bestimmten
+     Methode orientiert.
+
+19         Die Verpflichtung des zur Rechtskontrolle der Entscheidung der Regulierungsbehörde berufenen Gerichts zu überprüfen, ob die Regulierungsbehörde
+     bei ihrer Entscheidung von einer zutreffenden Tatsachengrundlage ausgegangen
+     ist, bedeutet deshalb keine Verpflichtung zur vollständigen Nachprüfung der
+     Validität der Datengrundlagen einer gewählten Methode. Die Regulierungsbehörde hat vielmehr gerade deshalb eine Methodenwahl zu treffen, weil es regelmäßig bei der Erfassung ökonomischer Gegebenheiten und Zusammenhänge
+     nicht die eine richtige und in jeder Hinsicht zuverlässige Methode gibt (vgl. zur
+     Ermittlung der Marktrisikoprämie bei der Festlegung des Eigenkapitalzinssatzes:
+     BGH, Beschluss vom 3. März 2020 - EnVR 26/18, ZNER 2020, 234 Rn. 33
+     - Eigenkapitalzinssatz III). Die Validität der Datengrundlagen gehört deshalb zu
+     den Umständen, die die Regulierungsbehörde unter Berücksichtigung des Standes der wissenschaftlichen Erkenntnis zu prüfen und zu bewerten und zu anderen Gesichtspunkten wie der Datenverfügbarkeit, dem erforderlichen Ermittlungsaufwand sowie gegebenenfalls rechtlichen Vorgaben etwa zur Fehlertoleranz in
+     Beziehung zu setzen hat.
+
+20         Die Bundesnetzagentur ist demgemäß weder an ein bestimmtes wissenschaftlich anerkanntes Modell noch an bestimmte Methoden zur Ermittlung und
+     Bemessung der im Rahmen des gewählten Modells heranzuziehenden Parameter gebunden. Sie hat im Rahmen der ihr eingeräumten Befugnisse in eigener
+     Würdigung zu entscheiden, welche Kriterien heranzuziehen und in welcher
+     Weise diese anzuwenden und zu anderen Kriterien ins Verhältnis zu setzen sind,
+     wobei sie sich dabei gegebenenfalls sachverständiger Hilfe bedienen kann (vgl.
+     BGH, Beschluss vom 9. Juli 2019 - EnVR 52/18, RdE 2019, 456 Rn. 37 - Eigenkapitalzinssatz II), was sie vor Erlass der angegriffenen Festlegung auch getan
+     hat. Kommen aus sachverständiger Sicht mehrere Methoden in Betracht, hat die
+
+                                          - 10 -
+
+
+
+     Bundesnetzagentur eine Auswahl zu treffen, die den Vorgaben des § 9 Abs. 1
+     und Abs. 3 ARegV gerecht wird, Abweichungen zwischen der Entwicklung der
+     netzwirtschaftlichen und der gesamtwirtschaftlichen Produktivität und Einstandspreisentwicklung abzuschätzen und bei der Bestimmung der Erlösobergrenze zu
+     berücksichtigen.
+
+21         d)     Sie muss hierzu zunächst ermitteln, welche wissenschaftlich anerkannten Verfahren grundsätzlich in Betracht kommen und deren jeweilige Vorund Nachteile gegeneinander abwägen. Vor der Entscheidung für eine bestimmte Methode muss sie jedoch nicht stets zuerst alle möglicherweise geeigneten, in der Wissenschaft diskutierten Verfahren und Modelle umfassend aufarbeiten und in allen Einzelheiten auf ihre Anwendbarkeit, die konkrete Modellierbarkeit, die Verlässlichkeit und die Robustheit danach zu gewinnender Ergebnisse überprüfen. Ein solches Erfordernis ergibt sich weder aus § 9
+     Abs. 3 ARegV noch aus der verwaltungs- oder verfassungsgerichtlichen Rechtsprechung zu vergleichbaren Rechtsfragen.
+
+22         Angesichts des erheblichen Aufwands, der regelmäßig mit der Entwicklung eines konkreten Modells zur Erfassung eines komplexen, regulatorisch relevanten Sachverhalts, der Erhebung und Aufbereitung der hierfür erforderlichen
+     Daten sowie der Anwendung des Modells und der Überprüfung der hierbei gewonnenen Ergebnisse verbunden ist, ist es regelmäßig nicht möglich, die Entscheidung für einen bestimmten Ansatz erst dann zu treffen, wenn sämtliche
+     theoretisch möglichen Alternativen vollständig "durchgespielt" worden sind. Dies
+     scheidet vielmehr im Allgemeinen auch deswegen aus, weil jede Methode mit
+     eigenen Unsicherheiten belastet ist, die sich auf das Ergebnis auswirken können,
+     ohne dass sich die Auswirkung verlässlich quantifizieren oder auch nur abschätzen ließe.
+
+                                           - 11 -
+
+
+
+ 23         Wählt die Regulierungsbehörde mit schlüssigen Erwägungen einen bestimmten, dem Stand der Wissenschaft entsprechenden Ansatz, hängt es daher
+      von den Umständen des Einzelfalles ab, ob und gegebenenfalls in welchem Umfang sie entweder vor dieser Entscheidung oder bei deren Umsetzung verpflichtet
+      ist, Alternativen zu prüfen oder sich um eine zusätzliche Absicherung des gefundenen Ergebnisses zu bemühen. Insbesondere kommt es darauf an, ob sich bei
+      der Verfolgung des gewählten Ansatzes Anhaltspunkte dafür ergeben, dass und
+      gegebenenfalls in welcher Beziehung und in welchem Umfang die grundsätzlich
+      getroffene Methodenentscheidung oder die Weichenstellung bei einem Einzelpunkt der Untersuchung einer erneuten Überprüfung bedarf, um ein verlässliches
+      und aussagekräftiges Ergebnis zu gewinnen.
+
+24          Der Maßstab hierfür ergibt sich unbeschadet der Verpflichtung der Bundesnetzagentur, Methoden anzuwenden, die dem Stand der Wissenschaft entsprechen, nicht allein aus dem Stand der wissenschaftlichen Erkenntnis. Vielmehr ist zu berücksichtigen, dass die Regulierungsbehörde der Regulierungsentscheidung nicht ausweichen darf. Sie darf dies - jedenfalls grundsätzlich - auch
+      dann nicht tun, wenn sich nach den Maßstäben guter wissenschaftlicher Praxis
+      zu einer bestimmten tatsächlichen Frage verlässliche Erkenntnisse nicht oder nur
+      mit einem zu dem zu erwartenden Erkenntniszuwachs außer Verhältnis stehenden Aufwand erreichen lassen. Vielmehr ist - im Regulierungsrecht nicht anders
+      als bei der Beurteilung von Tatfragen auf anderen Rechtsgebieten - rechtlich zu
+      bestimmen, in welchem Umfang niemals vollständig zu vermeidende tatsächliche
+      Unsicherheiten bei der Prognosegrundlage hinzunehmen sind und wie sie sich
+      auswirken.
+
+25          e)     Bei der Ausfüllung von Beurteilungsspielräumen oder der Ausübung eines ihr eingeräumten (Regulierungs-)Ermessens ist die Bundesnetzagentur, sofern sich nicht im Einzelfall aus dem Gesetz etwas anderes ergibt,
+      nicht verpflichtet, im Zweifel die den Netzbetreibern günstigere Entscheidung zu
+
+                                          - 12 -
+
+
+
+     treffen. Eine uneingeschränkte Messung ihrer Entscheidungen an den Maßstäben, die für Eingriffe in Freiheitsrechte gelten, die zur Abwehr von Gefahren für
+     die öffentliche Sicherheit und Ordnung getroffen werden, würde die Aufgabe verfehlen, die regulatorische Entscheidung so zu treffen, insbesondere die Erlösobergrenze so festzulegen und die in ihre Festlegung einfließenden Werte so zu
+     bemessen, dass die Netznutzungsentgelte auf der Grundlage der Kosten einer
+     effizienten Leistungserbringung unter Einschluss einer angemessenen, wettbewerbsfähigen und risikoangepassten Verzinsung des eingesetzten Kapitals bestimmt werden. Eine zu geringe Erlösobergrenze ist dabei ebenso zu vermeiden
+     wie eine zu hohe (vgl. BGH, Beschluss vom 11. Februar 2020 - EnVR 122/18,
+     RdE 2020, 419 Rn. 21 - Anpassung der Erlösobergrenze). Die Regulierung der
+     Netznutzungsentgelte trägt dem Umstand Rechnung, dass sich den Kosten einer
+     effizienten Leistungserbringung entsprechende Entgelte nicht im Wettbewerb
+     herausbilden können, weil die Netzbetreiber regelmäßig eine Monopolposition
+     innehaben. Sie müssen deshalb die - den Maßstäben des Gesetzes entsprechende - Regulierung ihrer Entgelte insgesamt hinnehmen und nicht nur insoweit, als im Einzelfall festgestellt werden kann, dass ein bestimmtes Entgelt in
+     einer hypothetischen Wettbewerbssituation nicht erzielbar wäre. Hierfür spricht
+     nicht zuletzt der von § 1 Abs. 1 EnWG bestimmte Zweck des Energiewirtschaftsgesetzes. Das Ziel einer möglichst sicheren, preisgünstigen, verbraucherfreundlichen, effizienten und umweltverträglichen leitungsgebundenen Versorgung der
+     Allgemeinheit mit Elektrizität und Gas, die zunehmend auf erneuerbaren Energien beruht, gilt auch für die Regulierung der Netznutzungsentgelte.
+
+26         Hiervon abzuweichen besteht auch dann kein Anlass, wenn - wie bei dem
+     generellen sektoralen Produktivitätsfaktor - eine in die Bestimmung der Erlösobergrenze einfließende Größe in Rede steht, die als Korrekturfaktor einer anderen (volkswirtschaftlichen) Größe einen positiven oder einen negativen Wert an-
+
+                                           - 13 -
+
+
+
+     nehmen und sich dadurch sowohl erlössenkend als auch erlöserhöhend auswirken kann. Eine solche im Einzelfall unterschiedliche Wirkrichtung der Bestimmung der regulatorischen Größe ändert nichts daran, dass die Bestimmung Teil
+     der regulatorischen Aufgabe ist, wettbewerbsanaloge Entgelte zu ermitteln.
+
+27         f)     Die Überprüfung der Ausfüllung eines Entscheidungsspielraums
+     durch die Regulierungsbehörde unterliegt daher grundsätzlich keinen unterschiedlichen Maßstäben in Abhängigkeit davon, ob sie zugunsten oder zulasten
+     der Netzbetreiber von einer anderen, rechtlich ebenfalls möglichen Ausfüllung
+     dieses Spielraums abweicht. Demgemäß sind Auswahlentscheidungen der Bundesnetzagentur, die sie bei der Bestimmung des generellen sektoralen Produktivitätsfaktors, der Wahl einer zu seiner Ermittlung geeigneten Methode und deren
+     Modellierung und Anwendung im Einzelnen zu treffen hat, nur eingeschränkt gerichtlich überprüfbar, nämlich nur - insoweit aber vollständig - darauf hin, ob die
+     materiell-rechtlichen und verfahrensrechtlichen Grenzen eingehalten worden
+     sind, die die Bundesnetzagentur zu beachten hatte.
+
+28         Eine von der Bundesnetzagentur bei der Wahl der Methode oder der Anwendung der gewählten Methode getroffene Auswahlentscheidung kann von
+     Rechts wegen nur dann beanstandet werden, wenn sich feststellen lässt, dass
+     der gewählte methodische Ansatz von vornherein ungeeignet ist, die Funktion zu
+     erfüllen, die ihm nach dem durch die Entscheidung der Regulierungsbehörde
+     auszufüllenden gesetzlichen Rahmen zukommt, oder wenn ein anderes methodisches Vorgehen unter Berücksichtigung aller maßgeblichen Umstände so deutlich überlegen ist, dass die getroffene Auswahlentscheidung nicht mehr als mit
+     den gesetzlichen Vorgaben vereinbar angesehen werden kann (vgl. BGH,
+     ZNER 2020, 234 Rn. 33 - Eigenkapitalzinssatz III mwN). Dieser eingeschränkte
+     Prüfungsmaßstab folgt aus den Grenzen der rechtlichen Determinierung und
+     Determinierbarkeit der Aufklärung und Bewertung komplexer ökonomischer Zu-
+
+                                           - 14 -
+
+
+
+     sammenhänge im Allgemeinen und der regulatorischen Aufgaben im Besonderen und ist deshalb sowohl mit Art. 19 Abs. 4 GG als auch mit dem Anspruch auf
+     Gewährung effektiven Rechtsschutzes vereinbar (vgl. BGH, ZNER 2020, 234
+     Rn. 36 - Eigenkapitalzinssatz III).
+
+29          3.     Nach diesen Maßstäben hält die Beurteilung des Beschwerdegerichts, der von der Bundesnetzagentur anhand eines Törnqvist-Indexes festgesetzte generelle sektorale Produktivitätsfaktor in Höhe von 0,49 % sei nach
+     einem grundsätzlich rechtmäßigen Verfahren bestimmt, im Ergebnis jedoch
+     rechtswidrig, weil das zugrunde liegende Stützintervall (der für die Prognose betrachtete Zeitraum der Jahre 2006 bis 2016) zu wenig robust sei, die Bundesnetzagentur die Ursachen der Schwankungen im Vergleich zu anderen möglichen Stützintervallen nicht untersucht habe und das Jahr 2006 auf der gegebenen Grundlage nicht hätte in die Betrachtung einbezogen werden dürfen, in entscheidenden Punkten der rechtlichen Nachprüfung nicht stand.
+
+30          a)     Rechtsfehlerfrei hat das Beschwerdegericht den methodischen
+     Ausgangspunkt der angefochtenen Festlegung gebilligt.
+
+31          aa)    Die Bundesnetzagentur hat unter Bezugnahme auf den Stand der
+     wirtschaftswissenschaftlichen    Diskussion    den   Malmquist-Index    und    den
+     Törnqvist-Mengenindex als zwei schon in der Begründung der Anreizregulierungsverordnung genannte, methodisch anerkannte und von ihr näher beschriebene Ansätze identifiziert (Festlegung S. 7 bis 11). Sie hat das Ergebnis der Festlegung aus der unteren - von ihr noch als plausibel angesehenen - Bandbreite
+     der Ergebnisse der von ihr angewandten Törnqvist- und Malmquist-Methoden
+     abgeleitet (Festlegung S. 7, 52).
+
+32          bb)    Das Beschwerdegericht hat dies zu Recht im Ausgangspunkt gebilligt. Wie auch der Verordnungsgeber hervorhebt, zählen insbesondere Metho-
+
+                                          - 15 -
+
+
+
+     den, die wie der Törnqvist-Index auf Indexzahlen beruhen, zu den wissenschaftlich anerkannten Methoden zur Ermittlung von Produktivitätsentwicklungen (vgl.
+     BR-Drucks. 417/07, S. 48 f.; BT-Drucks. 17/7632, S. 5; vgl. auch BGH, Beschluss vom 31. Januar 2012 - EnVR 16/10, RdE 2012, 203 Rn. 30 - Gemeindewerke Schutterwald). Das Beschwerdegericht hat dies rechtsfehlerfrei als durch
+     die Ausführungen des von ihm beauftragten Sachverständigen bestätigt gefunden.
+
+33          b)    Das Beschwerdegericht hat ebenfalls rechtsfehlerfrei das Vorgehen
+     der Bundesnetzagentur gebilligt, bei der Ermittlung des generellen sektoralen
+     Produktivitätsfaktors auf die getrennte Ermittlung des gesamtwirtschaftlichen
+     Produktivitätsfortschritts und der gesamtwirtschaftlichen Einstandspreisentwicklung zu verzichten und stattdessen - der Empfehlung des von ihr eingeholten
+     Sachverständigengutachtens folgend - im Wege einer Residualbetrachtung die
+     Entwicklung des Verbraucherpreisgesamtindexes heranzuziehen.
+
+34          aa)   Zur Begründung hat die Bundesnetzagentur insoweit in der Festlegung ausgeführt, dass die Änderungsraten des Verbraucherpreisgesamtindexes
+     die Entwicklung der Outputpreise der Gesamtwirtschaft sachgerecht abbildeten.
+     In einer wettbewerblich organisierten Volkswirtschaft wie der der Bundesrepublik
+     Deutschland drücke die allgemeine Inflationsrate die Differenz zwischen der
+     Wachstumsrate der Inputpreise der Gesamtwirtschaft und der Rate des gesamtwirtschaftlichen Produktivitätsfortschritts aus. Diese Zusammenhänge könnten
+     genutzt werden, um die Änderung der gesamtwirtschaftlichen Inputpreise residual aus der Inflationsrate und dem allgemeinen Produktivitätsfortschritt (gemessen als Änderung der totalen Faktorproduktivität der Gesamtwirtschaft) abzuleiten. Durch Umformung der sich aus § 9 Abs. 1 ARegV ergebenden Berechnungsformel sei es somit möglich, den generellen sektoralen Produktivitätsfaktor
+     auf der Grundlage der netzwirtschaftlichen Faktoren sowie der Veränderungsraten des Verbraucherpreisgesamtindexes zu ermitteln (Festlegung S. 16 f.).
+
+                                             - 16 -
+
+
+
+35         bb)    Rechtsfehlerfrei hat das Beschwerdegericht angenommen, dass
+     Gesetz und Verordnung keine abweichende Ermittlungsmethode vorgeben. Zwar
+     besagt § 9 Abs. 1 ARegV, dass sich der generelle sektorale Produktivitätsfaktor
+     aus der Abweichung des netzwirtschaftlichen Produktivitätsfortschritts vom gesamtwirtschaftlichen Produktivitätsfortschritt und der gesamtwirtschaftlichen Einstandspreisentwicklung von der netzwirtschaftlichen Einstandspreisentwicklung
+     ergibt. Dies bedeutet aber nicht, dass die Bundesnetzagentur zwingend zunächst
+     diese vier Größen zu ermitteln hätte.
+
+36         (1)    Gesetz und Verordnung schreiben, wie ausgeführt (Rn. 17), keine
+     bestimmte Methode vor, die der Ermittlung des generellen sektoralen Produktivitätsfaktors zugrunde zu legen wäre, sondern überlassen der Regulierungsbehörde die Wahl einer sachgerechten Methode. Aus dem Umstand, dass in § 9
+     Abs. 1 ARegV vier Einzelgrößen genannt und eine Gleichstellung des in
+     § 8 ARegV in Bezug genommenen Verbraucherpreisgesamtindexes mit der Differenz zwischen der gesamtwirtschaftlichen Einstandspreisentwicklung und dem
+     gesamtwirtschaftlichen Produktivitätsfortschritt nicht erwähnt wird, ergibt sich
+     keine methodische "Teilvorgabe" für die Anwendung des Törnqvist-Indexes des
+     Inhalts, dass die gesamtwirtschaftlichen Werte als Einzelwerte ermittelt werden
+     und in die Berechnung einfließen müssten.
+
+37         (2)    Dem Wortlaut der Vorschrift lässt sich dies nicht entnehmen. Anders als andere Vorschriften der Anreizregulierungsverordnung enthält er gerade
+     keine Terme oder Berechnungsformeln. Er bestimmt zwar, aus welchen Größen
+     der generelle sektorale Produktivitätsfaktor abgeleitet oder ermittelt wird, nicht
+     aber, wie die Werte, die diese Größen annehmen, ihrerseits ermittelt werden.
+
+38         (3)    Die Begründung zu § 9 ARegV zeigt dementsprechend, dass auch
+     der Verordnungsgeber davon ausgegangen ist, die allgemeine Inflationsrate
+     drücke in funktionsfähigen Wettbewerbsmärkten die Differenz zwischen der
+
+                                           - 17 -
+
+
+
+     Wachstumsrate der Inputpreise und der Rate des generellen Produktivitätswachstums aus (BR-Drucks. 417/07, S. 48).
+
+39         cc)    Das Beschwerdegericht hat dementsprechend zu Recht die Entscheidung der Bundesnetzagentur für eine Residualbetrachtung an den Maßstäben gemessen, die für die Überprüfung der Ausfüllung eines Beurteilungsspielraums gelten. Es hat rechtsfehlerfrei angenommen, dass die Vorgehensweise
+     der Bundesnetzagentur weder dem Stand der Wissenschaft widerspricht, noch
+     aus anderen Gründen, insbesondere wegen einer greifbar überlegenen methodischen Alternative, zu beanstanden ist.
+
+40         (1)    Das Beschwerdegericht hat - gestützt auf die Ausführungen des
+     von ihm beauftragten Sachverständigen - festgestellt, dass die Heranziehung
+     des Verbraucherpreisgesamtindexes dem Stand der Wissenschaft entspricht und
+     hinsichtlich seiner Zuverlässigkeit ein breiter wissenschaftlicher Konsens besteht. Es hat weiter festgestellt, dass die von der Betroffenen favorisierte Differenzmethode, die der gerichtliche Sachverständige als "originell" und wissenschaftlich nicht anerkannt bezeichnet hat, zu einem unsicheren Ergebnis führt,
+     da es an einem anerkannten Einstandspreisindex für die Gesamtwirtschaft fehlt,
+     dessen Ermittlung hochkomplex ist. Zieht man den Verbraucherpreisgesamtindex zur Festlegung des generellen sektoralen Produktivitätsfaktors heran, beschränkt sich die Unsicherheit auf die (weniger komplexe) Ermittlung der netzwirtschaftlichen Größen.
+
+41         (2)    Das Beschwerdegericht hat insoweit weder seine Verpflichtung
+     nach § 82 Abs. 1 EnWG verletzt, den Sachverhalt von Amts wegen zu erforschen, noch verfahrensfehlerhaft Vorbringen der Betroffenen übergangen.
+
+                                          - 18 -
+
+
+
+42         (a)    Der Umstand, dass sich bei Heranziehung des Differenzansatzes
+     ein für die Netzbetreiber günstigerer Wert des generellen sektoralen Produktivitätsfaktors ergeben mag, ist, wie ausgeführt (Rn. 25), rechtlich unerheblich und
+     belegt auch nicht die wissenschaftliche Überlegenheit dieses Ansatzes.
+
+43         (b)    Das Beschwerdegericht hat sich - wie schon die Bundesnetzagentur in der Festlegung - mit dem Einwand auseinandergesetzt, die mit dem Verbraucherpreisgesamtindex abgebildete Beziehung zwischen Einstandspreisentwicklung und Produktivitätsfortschritt beruhe auf der nur theoretischen Annahme,
+     dass die Volkswirtschaft der Bundesrepublik Deutschland vollständig wettbewerblich organisiert sei. Es ist diesem Einwand mit dem zutreffenden Argument
+     begegnet, dass die bestehenden natürlichen Monopole der Netzwirtschaft in der
+     grundsätzlich wettbewerblich organisierten Volkswirtschaft Deutschlands reguliert werden, um damit eine Situation zu erzeugen, als ob Wettbewerb bestünde
+     und daher die Volkswirtschaft insgesamt als wettbewerblich organisiert angesehen werden kann. Es hat im Übrigen unter Bezugnahme auf die Ausführungen
+     des gerichtlichen Sachverständigen festgestellt, dass die Gültigkeit der Äquivalenzbeziehung, nach der die allgemeine Inflationsrate die Differenz zwischen der
+     Wachstumsrate der Inputpreise und der Rate des generellen Produktivitätswachstums ausdrückt (vgl. BT-Drucks. 17/7632, S. 4), nicht davon abhängig ist,
+     dass die Gesamtwirtschaft eine perfekt funktionierende Wettbewerbswirtschaft
+     ist. Vielmehr genügt es, wenn die Wettbewerbsintensität und die allokative
+     Ineffizienz in der Gesamtwirtschaft als über den Betrachtungszeitraum unverändert angenommen werden dürfen. Dass diese Annahme nach dem Stand der
+     wissenschaftlichen Erkenntnis nicht gemacht werden dürfte, ist weder festgestellt
+     noch als vorgetragen aufgezeigt.
+
+44         (c)    Da es sich beim Differenzansatz nach den Feststellungen des Beschwerdegerichts schon nicht um ein wissenschaftlich geläufiges Verfahren zum
+     Ausschluss von Verzerrungen bei der Ermittlung volkswirtschaftlicher Größen
+
+                                           - 19 -
+
+
+
+     wie den vorliegenden handelt, musste ihn die Bundesnetzagentur weder zur
+     Plausibilisierung heranziehen, noch musste sie den wissenschaftlichen Nachweis führen, dass und warum dieser Ansatz dem von ihr gewählten jedenfalls
+     nicht überlegen ist. Die Bundesnetzagentur hat den Stand der Wissenschaft bei
+     der Wahl der Methoden zur Ermittlung des Produktivitätsfaktors zugrunde zu legen; zu seiner Fortentwicklung ist sie nicht verpflichtet (vgl. BVerwG, NVwZ 2007,
+     1054 Rn. 66; BVerwG, NVwZ, 2016, 1247 Rn. 24). Dementsprechend musste
+     auch das Beschwerdegericht nicht aufklären, ob der Differenzansatz im Gegensatz zu der angewandten Berechnungsmethode gewährleiste, dass sich methodische Fehler bei der Ermittlung der gesamtwirtschaftlichen und der netzwirtschaftlichen Komponenten aufheben. Im Übrigen hat das Beschwerdegericht
+     aufgrund der Ausführungen des gerichtlichen Sachverständigen verfahrensfehlerfrei angenommen, dass sich eine kompensatorische Wirkung von Fehlern
+     nicht feststellen lässt, zumal den Größen für die Gesamt- und Netzwirtschaft
+     Daten aus unterschiedlichen Quellen zugrunde liegen und damit eine Vielzahl
+     möglicher Fehlerquellen und eine Reihe von Beurteilungsspielräumen bestehen.
+
+45         c)     Von Rechts wegen nicht zu beanstanden ist es ferner, dass und in
+     welcher Weise die Bundesnetzagentur den Bruttoproduktionswert des Netzbetriebs als Outputfaktor im Rahmen des von ihr verwendeten Törnqvist-Indexes
+     zugrunde gelegt hat.
+
+46         aa)    Die Bundesnetzagentur hat den Bruttoproduktionswert aus der
+     Summe der Umsatzerlöse, der Bestandsveränderungen und der aktivierten
+     Eigenleistungen errechnet. Sie hat die Umsatzerlöse unter Heranziehung eines
+     Netzentgeltindexes als Deflator um den Preis bereinigt, um so die benötigte
+     Mengengröße zu erhalten. Die Betroffene zeigt im Rechtsbeschwerdeverfahren
+     nicht auf, dass dem Beschwerdegericht tatsächliche Anhaltspunkte vorlagen, aus
+     denen sich ergeben hätte, dass andere Faktoren wie zum Beispiel die durchge-
+
+                                          - 20 -
+
+
+
+     leitete Gasmenge, der Gasverbrauch oder das Gasaufkommen dem preisbereinigten Bruttoproduktionswert zur Abbildung der Ausbringungsmengen greifbar
+     überlegen wären.
+
+47         (1)    Die Bundesnetzagentur hat die durchgeleitete Gasmenge auf ihre
+     Eignung als Outputfaktor untersucht und sie in der angefochtenen Festlegung als
+     ungeeignet angesehen (Festlegung S. 20). Das Beschwerdegericht hat dies
+     - rechtsfehlerfrei und insoweit auch von der Betroffenen nicht angegriffen - mit
+     der Begründung nicht beanstandet, dass die durchgeleitete Gasmenge nur einen
+     Bestandteil der Ausbringungsmenge darstelle und die Outputveränderung nicht
+     hinreichend widerspiegele; zudem könnten die erhobenen Werte infolge von
+     Konzessionsübergängen künstlich erhöht sein und deshalb auch die tatsächlich
+     durchgeleitete Gasmenge unzutreffend abbilden.
+
+48         (2)    In der Tatsacheninstanz gehaltener Vortrag, dass und inwiefern das
+     Gasaufkommen oder der Gasverbrauch, also nicht auf das Netz bezogene Faktoren, den Output der Gasnetzbetreiber besser abbilden könnten als der Bruttoproduktionswert, ist gleichfalls nicht aufgezeigt. Anhaltspunkte dafür ergeben
+     sich auch nicht aus dem Gutachten des gerichtlichen Sachverständigen, der zwar
+     eine hohe Volatilität des Indexes der Netzentgelte aufgrund der sehr hohen Volatilität der Netzentgelte der Industriekunden erkannt hat, daraus aber nicht geschlossen hat, dass andere Faktoren, etwa das Gasaufkommen oder der Gasverbrauch, als überlegen anzusehen wären. Die Bundesnetzagentur war nicht
+     verpflichtet, ohne konkrete Anhaltspunkte andere Faktoren auf ihre Überlegenheit gegenüber dem von ihr herangezogenen und nach den Feststellungen des
+     Beschwerdegerichts als Outputfaktor grundsätzlich geeigneten Bruttoproduktionswert zu überprüfen.
+
+                                           - 21 -
+
+
+
+49         bb)    Zu Recht hat es das Beschwerdegericht nicht beanstandet, dass
+     die Bundesnetzagentur die Ein- und Ausspeiseentgelte der Fernleitungsnetzbetreiber bei der Berechnung der Ausbringungsmengen nicht berücksichtigt hat,
+     obwohl diese einen hohen Anteil an den Umsatzerlösen ausmachen.
+
+50         (1)    Hierzu hat das Beschwerdegericht festgestellt, dass sich zum einen
+     diejenigen Netzentgelte der Fernleitungsnetzbetreiber, die für im Inland ausgespeiste Gasmengen anfallen, in den Verteilernetzentgelten niederschlagen,
+     deren Entwicklung der verwendete Index abbildet. Zum anderen ist nach den beiderseits unangegriffenen Feststellungen des Beschwerdegerichts ein Teil der Industriekunden an das Fernleitungsnetz angeschlossen und entrichtet deshalb
+     Netzentgelte unmittelbar an die Fernleitungsnetzbetreiber, sodass auch dieser
+     Teil der Netzentgelte der Fernleitungsnetzbetreiber berücksichtigt wird.
+
+51         Der Umstand, dass die Bundesnetzagentur die für exportierte Gasmengen
+     anfallenden Netzentgelte der Fernleitungsnetzbetreiber (Transitentgelte) unberücksichtigt gelassen hat, rechtfertigt keine abweichende Bewertung. Das Beschwerdegericht hat nicht festgestellt, dass diese Entgelte relevante Auswirkungen auf den von der Bundesnetzagentur verwendeten Index gehabt hätten.
+
+52         (2)    Es bedurfte daher keiner weiteren Nachforschungen der Bundesnetzagentur hierzu. Anlass dazu hätte nur bestanden, wenn konkrete Anhaltspunkte dafür vorgelegen hätten, dass sich Ergebnisverzerrungen durch die Nichtberücksichtigung eines erheblichen Anteils der Fernleitungsnetzentgelte ergeben
+     haben könnten. Solche konkreten Anhaltspunkte hat die Betroffene nicht vorgetragen. Sie ergeben sich auch nicht aus den Ausführungen des gerichtlichen
+     Sachverständigen. Dieser empfiehlt zwar, die Berechnung des Indexes der Netzentgelte aufgrund hoher Volatilität zu überprüfen und sieht die Ein- und Ausspeiseentgelte der Fernleitungsnetzbetreiber als einen Teilaspekt davon an. Er lässt
+     allerdings ausdrücklich offen, ob bei deren Berücksichtigung die Schwankungen
+
+                                           - 22 -
+
+
+
+     des Outputindexes geringer ausfielen. Demnach kann auch nicht davon ausgegangen werden, dass ein unter Berücksichtigung dieser Entgelte gebildeter Index
+     dem von der Bundesnetzagentur verwendeten Index greifbar überlegen wäre.
+
+53         cc)    Nicht zu beanstanden ist, dass die Bundesnetzagentur als Deflator
+     für die Umsatzerlöse die durchschnittlichen Netzentgelte der Haushalts-, Gewerbe- und Industriekunden in den Jahren 2006 bis 2016 verwendet und dabei
+     konstante Verbrauchsanteile von 30, 15 und 55 % anstatt der tatsächlichen jährlichen Anteile zugrunde gelegt hat.
+
+54         (1)    Die Bundesnetzagentur hat in der Festlegung zur Begründung des
+     gewählten konstanten Ansatzes ausgeführt, es komme aus ihrer Sicht lediglich
+     auf die Veränderungsraten und nicht jahresscharf auf die konkret angesetzten
+     durchschnittlichen Netzentgelte an (Festlegung S. 21).
+
+55         (2)    Dies ist ein ausreichend begründeter, sachlich möglicher und plausibler Ansatz, wenn sich die jährlichen Gewichte der Verbrauchergruppen, wie im
+     Streitfall, nicht stark verändern. Darauf hat auch der gerichtliche Sachverständige
+     hingewiesen, nach dessen Ausführungen kleinere Änderungen der Gewichte in
+     der Regel kaum Auswirkungen auf den Wert eines Preisindexes haben.
+
+56         (3)    Die gegenteilige Auffassung kann nicht auf Berechnungen gestützt
+     werden, nach denen eine jahresscharfe Gewichtung der Verbrauchsanteile zu
+     einem um etwa 0,45 Prozentpunkte geringeren Wert des generellen sektoralen
+     Produktivitätsfaktors führt. Ob und in welchem Umfang jahresscharf bestimmte
+     Verbrauchsanteile sich zugunsten oder zulasten der Netzbetreiber auswirken, ist
+     unerheblich und indiziert weder, dass nur eine jahresscharfe Gewichtung der Verbrauchsanteile dem Stand der Wissenschaft entspräche, noch dass ein solcher
+     Ansatz zur Preisbereinigung der Umsatzerlöse deutlich besser geeignet wäre als
+     der verwendete Index. Die Ermittlung des generellen sektoralen Produktivitätsfaktors hat, wie ausgeführt (Rn. 25), im Interesse der Netzbetreiber soweit wie
+
+                                           - 23 -
+
+
+
+     möglich sicherzustellen, dass die generelle Entwicklung ihrer Produktivität bei der
+     Festlegung der Erlösobergrenzen nicht überschätzt wird; sie hat aber gleichermaßen im Interesse der Netznutzer soweit wie möglich sicherzustellen, dass der
+     Produktivitätszuwachs auch nicht unterschätzt wird und die Erlösobergrenzen
+     deshalb zu hoch angesetzt werden. Ein den Netzbetreibern ungünstigerer Wert
+     infolge einer methodischen Auswahlentscheidung ist demgemäß als solcher
+     ebenso ohne Aussagekraft wie es umgekehrt ein den Netzbetreibern günstigeres
+     rechnerisches Ergebnis einer anderen Auswahlentscheidung ist.
+
+57         (4)    Gegen eine Überlegenheit einer jahresscharfen Gewichtung der
+     Verbrauchsanteile spricht im Übrigen, dass die weiteren von der Bundesnetzagentur zur Preisbereinigung eingesetzten Indizes und die vom Statistischen
+     Bundesamt verwendeten, zur Ermittlung der gesamtwirtschaftlichen Parameter
+     eingesetzten Indizes eine solche jahresscharfe Gewichtung ebenfalls nicht vorsehen.
+
+58         d)     Der rechtlichen Nachprüfung hält es hingegen nicht stand, dass das
+     Beschwerdegericht die Ermittlung des generellen sektoralen Produktivitätsfaktors aus den Daten der Jahre 2006 bis 2016 beanstandet hat. Weder fehlt es an
+     einer hinreichenden Begründung in der angefochtenen Festlegung für die Einbeziehung des Jahres 2006 in das gewählte Stützintervall, noch ergeben die Feststellungen des Beschwerdegerichts, dass die Bundesnetzagentur mit der Entscheidung für den längsten, nach der Datenlage zur Verfügung stehenden Betrachtungszeitraum von ihrem insoweit bestehenden Beurteilungsspielraum
+     rechtsfehlerhaft Gebrauch gemacht hat.
+
+59         aa)    Nach § 9 Abs. 3 Satz 2 ARegV hat die Bundesnetzagentur den
+     generellen sektoralen Produktivitätsfaktor unter Einbeziehung der Daten von
+     Netzbetreibern für einen Zeitraum von mindestens vier Jahren zu ermitteln. Die
+
+                                            - 24 -
+
+
+
+     Wahl des konkreten, vier Jahre gegebenenfalls überschreitenden Zeitraums, den
+     sie ihrer Festlegung zugrunde legt, obliegt hiernach der Bundesnetzagentur.
+
+60         bb)     Zur Begründung der getroffenen Wahl hat die Bundesnetzagentur
+     ausgeführt, sie habe bei der Ermittlung des generellen sektoralen Produktivitätsfaktors den längsten möglichen Zeitraum berücksichtigt, um den Einfluss temporärer Effekte zu minimieren. Dieser Zeitraum umfasse die Jahre 2006 bis 2016.
+     Eine Verpflichtung der Netzbetreiber zur Erstellung eines separaten Tätigkeitsberichts habe erst ab dem ersten vollständigen Geschäftsjahr nach Inkrafttreten
+     des Energiewirtschaftsgesetzes bestanden. Ein Jahresabschluss sei damit erstmals für das Jahr 2006 von allen Netzbetreibern zu erstellen gewesen, weshalb
+     erst ab diesem Jahr die für die Berechnung benötigten Daten verfügbar gewesen
+     seien. Bedenken gegen die Aussagekraft und Verlässlichkeit der für das Jahr
+     2006 zur Verfügung stehenden Daten seien unbegründet (Festlegung S. 18).
+
+61         Die Beschlusskammer habe die von den Netzbetreibern erhobenen Daten
+     auf ihre Plausibilität überprüft und die Unternehmen gegebenenfalls zur Ergänzung oder Korrektur aufgefordert. Nach einer zweiten systematischen Überprüfung sei eine individuelle Plausibilitätsprüfung erfolgt (Festlegung S. 14 f.). Insbesondere sei unter Berücksichtigung sämtlicher bis zum 2. Februar 2018 übermittelter Ergänzungen und Korrekturen eine Überprüfung auf Ausreißer, Lücken
+     und unschlüssige Werte in der Jahresreihe 2006 bis 2016 erfolgt. Dabei seien
+     725 von 727 Datensätzen als plausibel und vollständig eingestuft worden, woraus
+     sich sowohl in Bezug auf die Unternehmenszahl als auch auf die Umsatzerlöse
+     eine Marktabdeckung von über 99 % ergeben habe (Festlegung S. 15). Die im
+     Konsultationsverfahren vorgebrachten Einwände, es gebe insbesondere bei den
+     Aufwendungen für vorgelagerte Netze einen verzerrenden Einfluss des Jahres
+     2006 sowie einen nicht erklärbaren Anstieg der totalen Faktorproduktivität zwischen den Jahren 2006 und 2007, griffen nicht durch. Jenem Gesichtspunkt sei
+     durch eine von den Netzbetreibern vorgeschlagene Bereinigung der Positionen
+
+                                           - 25 -
+
+
+
+     "Umsatz" und "Aufwendungen für bezogene Leistungen" um die Position "Aufwendungen für vorgelagerte Netze" Rechnung getragen worden (Festlegung
+     S. 18). Der Anstieg der totalen Faktorproduktivität sei demgegenüber als nicht
+     völlig ungewöhnlich anzusehen: Das inflationsbereinigte Bruttoanlagevermögen
+     reduziere sich 2007 gegenüber 2006 lediglich um rund 2,8 %. Der sinkende Personalaufwand sei im Zusammenhang mit den steigenden Aufwendungen für verbundene Unternehmen zu sehen und könne sich durch Ausgründungen von
+     Netzgesellschaften erklären. Die Gesamtsteigerung des Outputindexes um rund
+     11 % sei im Vergleich zur Schwankungsbreite im gesamten Stützintervall von
+     37 Prozentpunkten (-16 % bis 21 %) nicht auffällig und bilde die tatsächlichen
+     Gegebenheiten ab (Festlegung S. 19 f.).
+
+62         cc)    Damit hat die Bundesnetzagentur die getroffene Entscheidung ausreichend begründet und insbesondere dargelegt, warum sie von einer hinreichenden Datengrundlage für das gewählte Stützintervall ausgeht.
+
+63         (1)    Bei der Ausfüllung ihres Beurteilungsspielraums unterliegt die Bundesnetzagentur besonderen Begründungsanforderungen. Ähnlich wie bei
+     telekommunikationsrechtlichen Entscheidungen (siehe dazu etwa BVerwG,
+     NVwZ 2014, 589 Rn. 34 ff.) ist im Energiewirtschaftsregulierungsrecht die Bewertung der Behörde zur Gewährleistung effektiven Rechtsschutzes auch darauf
+     zu überprüfen, ob sie die Festlegung im Hinblick auf die Kriterien, die in den einschlägigen Rechtsnormen aufgeführt oder in diesen jedenfalls angelegt sind,
+     plausibel und erschöpfend begründet hat. Die gerichtliche Kontrolle eines der Behörde eingeräumten Beurteilungs- oder Ermessensspielraums ist grundsätzlich
+     auf diejenigen Erwägungen zu erstrecken und zu beschränken, die die Behörde
+     zur Begründung ihrer Entscheidung dargelegt hat; denn die notwendige Abwägung und ihre Darstellung im Bescheid sollen zumindest auch die nachgehende
+     gerichtliche Kontrolle ermöglichen, die angesichts des eingeräumten Beurteilungsspielraums sonst nicht hinreichend wirksam wäre (BGH, Beschluss vom
+
+                                             - 26 -
+
+
+
+     22. Juli 2014 - EnVR 59/12, RdE 2014, 495 Rn. 29 - Stromnetz Berlin GmbH;
+     BGH, Beschluss vom 7. Juni 2016 - EnVR 62/14, RdE 2016, 462 Rn. 42
+     - Festlegung volatiler Kosten).
+
+64         (2)    Nach diesen Maßstäben ist die gegebene Begründung nicht zu beanstanden.
+
+65         (a)    Der in § 9 Abs. 3 Satz 2 ARegV vorgegebene Mindestzeitraum von
+     vier Jahren, für den Daten von Netzbetreibern in die Ermittlung des generellen
+     sektoralen Produktivitätsfaktors einzubeziehen sind, soll nach der Vorstellung
+     des Verordnungsgebers dazu dienen, die Belastbarkeit des generellen
+     sektoralen Produktivitätsfaktors zu gewährleisten (BR-Drucks. 417/07, S. 49;
+     BT-Drucks. 17/7632, S. 5). Diesem Verordnungszweck entspricht es, wenn die
+     Bundesnetzagentur sich an dem Ziel orientiert, den längsten möglichen Zeitraum,
+     für den Daten verfügbar sind, als Stützintervall heranzuziehen, um den Einfluss
+     temporärer Effekte zu minimieren. Aus dem Umstand, dass nach § 9 Abs. 3
+     Satz 1 ARegV die Bundesnetzagentur den generellen sektoralen Produktivitätsfaktor vor Beginn der Regulierungsperiode, im Streitfall also vor dem 1. Januar
+     2018, zu ermitteln hat, ergibt sich, dass das Jahr 2016 das letzte Jahr ist, das
+     nach der verfügbaren Datenlage (vollständig) in die Betrachtung einbezogen werden kann.
+
+66         (b)    Keine abweichende Bewertung rechtfertigt die Ansicht des Beschwerdegerichts, die Bundesnetzagentur habe nicht nachvollziehbar dargelegt,
+     weshalb sich die jedenfalls zunächst zweifelhafte Qualität der Daten des Jahres
+     2006 tatsächlich so verbessert habe, dass die Aufnahme dieses Jahres in das
+     Stützintervall angezeigt gewesen sei.
+
+67         Zunächst ist die Bundesnetzagentur zwar verpflichtet anzugeben, warum
+     sie einen ihr zukommenden Beurteilungsspielraum in bestimmter Weise ausgefüllt hat. Sie ist aber grundsätzlich nicht verpflichtet, dabei auch anzugeben,
+
+                                          - 27 -
+
+
+
+     warum sie bei der Vorbereitung ihrer Entscheidung angestellte Überlegungen
+     nicht weiterverfolgt hat oder nicht mehr für erheblich oder nicht mehr für durchgreifend hält. Abgesehen davon hat die Bundesnetzagentur auch angegeben,
+     warum sie die Qualität der Daten insbesondere auch des Jahres 2006 zum Zeitpunkt ihrer Entscheidung für ausreichend erachtete; dies genügt den Begründungsanforderungen.
+
+68         dd)    Das Beschwerdegericht hat nicht festgestellt, dass die Datengrundlage der Entscheidung der Bundesnetzagentur insoweit ganz oder teilweise tatsächlich unzureichend oder unzuverlässig war. Die Betroffene zeigt im Rechtsbeschwerdeverfahren auch nicht auf, dass sie im Beschwerdeverfahren Tatsachenvortrag gehalten hat, der geeignet war, die Begründung der Bundesnetzagentur für die von ihr bejahte Validität der herangezogenen Daten zu erschüttern, etwa durch den wenigstens stichprobenartigen Aufweis, dass Daten in relevantem Umfang fehlen oder grundlegende Fehler oder erhebliche Verzerrungen
+     in der Datengrundlage vorliegen.
+
+69         Soweit die Betroffene rügt, es ließen sich keine Belege dafür finden, dass
+     sich die Datenqualität für das Jahr 2006 tatsächlich verbessert habe, kann dies
+     den Vortrag konkreter tatsächlicher Anhaltspunkte in der Tatsacheninstanz für
+     eine fehlende Eignung der Daten aus dem Jahr 2006, die Anlass zu ihrer weiteren
+     Überprüfung hätte geben können, nicht ersetzen. Ein solcher Vortrag ergibt sich
+     auch nicht aus dem Einwand der Betroffenen, die Einführung der Entgeltregulierung habe einen Strukturbruch dargestellt, weshalb fraglich sei, ob die Netzentgelte für das Jahr 2006 von der Bundesnetzagentur überhaupt zutreffend ermittelt worden seien.
+
+70         ee)    Entgegen der Ansicht des Beschwerdegerichts hat die Bundesnetzagentur durch die Einbeziehung des Jahres 2006 in das Stützintervall nicht den
+     Basisjahreffekt zu wenig beachtet.
+
+                                           - 28 -
+
+
+
+71         (1)    Als Basisjahreffekt wird der Umstand bezeichnet, dass Netzbetreiber Investitionen, bei denen ein entsprechender zeitlicher Spielraum besteht, vorzugsweise in ein Basisjahr verschieben. Diese Praxis trägt zu höheren Erlösobergrenzen und damit höheren Netzentgelten in der auf das Basisjahr folgenden
+     Regulierungsperiode bei. Das Beschwerdegericht hat festgestellt, dass dieser
+     Effekt auch tatsächlich auftrat, also die Gasversorgungsnetzbetreiber in den Basisjahren 2006, 2010 und 2015 stärker und jeweils im Jahr vor und nach dem
+     Basisjahr weniger investiert haben. Da das Jahr 2006, nicht aber das Jahr 2005
+     in die Betrachtung einbezogen wurde, hat das Beschwerdegericht aufgrund des
+     gewählten Stützintervalls eine Überschätzung des Produktivitätsfortschritts und
+     damit einen zu hoch bemessenen generellen sektoralen Produktivitätsfaktor angenommen.
+
+72         (2)    Die Feststellungen des Beschwerdegerichts tragen jedoch seine
+     Annahme nicht, die Bundesnetzagentur habe das Stützintervall fehlerhaft ausgewählt. Die Bundesnetzagentur hat ihren Beurteilungsspielraum bei der Auswahl
+     des Stützintervalls rechtsfehlerfrei ausgeübt.
+
+73         (a)    Die mit § 9 Abs. 3 Satz 2 ARegV in Einklang stehende Entscheidung der Bundesnetzagentur, den Zeitraum von 2006 bis 2016 zu betrachten,
+     wäre nur dann zu beanstanden, wenn der gewählte Zeitraum von vornherein ungeeignet wäre, die Funktion zu erfüllen, die ihm im Rahmen der gewählten Berechnungsmethode zukommt, oder ein anderer Zeitraum unter Berücksichtigung
+     aller maßgeblichen Umstände so deutlich überlegen wäre, dass die Auswahlentscheidung der Bundesnetzagentur als nicht mehr mit den gesetzlichen Vorgaben
+     vereinbar angesehen werden könnte (vgl. oben Rn. 28). Dass dies der Fall wäre,
+     ergeben die Feststellungen des Beschwerdegerichts nicht.
+
+74         (aa)   Die Bundesnetzagentur weist zu Recht darauf hin, dass der Basisjahreffekt eine tatsächliche Entwicklung widerspiegelt und für sich genommen
+
+                                           - 29 -
+
+
+
+     noch nicht die Annahme rechtfertigt, ein Stützintervall, in dem sich dieser Effekt
+     überproportional auswirkt, sei deshalb von vornherein ungeeignet. Weder aus
+     Sinn und Zweck des Systems der Anreizregulierung noch aus den Vorschriften
+     zur Bestimmung des generellen sektoralen Produktivitätsfaktors lässt sich ableiten, dass ein mit der Praxis der Netzbetreiber, durch Verlagerung von Kosten in
+     das Basisjahr eine Steigerung der Erlösobergrenze zu erreichen, verbundener
+     negativer Effekt bei der Berechnung eines anderen für die Erlösobergrenze relevanten Faktors, hier des generellen sektoralen Produktivitätsfaktors, zwingend
+     auszugleichen wäre.
+
+75         (bb)   Vielmehr ist eine mögliche Ergebnisverzerrung nur ein Aspekt, der
+     bei der Auswahl des Stützintervalls von Bedeutung sein und gegebenenfalls ein
+     anderes Stützintervall als greifbar überlegen erscheinen lassen kann. Für eine
+     derartige Überlegenheit eines anderen Stützintervalls hat das Beschwerdegericht
+     jedoch keine Feststellungen getroffen. Die von dem gerichtlichen Sachverständigen für plausibel gehaltene Einbeziehung der Jahre 2017 und 2018 war wegen
+     fehlender Daten ebenso wenig möglich wie eine Einbeziehung des Jahres 2005.
+     Wollte man einen Zeitraum heranziehen, der den Anforderungen des § 9 Abs. 3
+     Satz 2 ARegV entspräche und bei dem jeweils das Jahr vor und nach einem Basisjahr in die Betrachtung einbezogen würde, wäre das Stützintervall 2009 bis
+     2016 heranzuziehen. Für dieses ergäbe sich ein Wert von 2,14 % und damit ein
+     wesentlich größerer Produktivitätsfortschritt als für das von der Bundesnetzagentur zugrunde gelegte Stützintervall. Dieses Stützintervall kann daher dem von der
+     Bundesnetzagentur herangezogenen nicht unter dem Gesichtspunkt der Vermeidung einer Überschätzung des Produktivitätsfortschritts überlegen sein. Ein
+     Rechtsfehler zum Nachteil der Betroffenen liegt daher nicht vor.
+
+76         (b)    Es begründet auch keinen Mangel der angefochtenen Festlegung,
+     dass sich die Bundesnetzagentur darin nicht mit dem Basisjahreffekt auseinan-
+
+                                           - 30 -
+
+
+
+     dergesetzt hat. Dazu hätte nur dann Anlass bestanden, wenn im Konsultationsverfahren entsprechende Einwände erhoben worden wären oder wenn sich dieser Gesichtspunkt der Bundesnetzagentur bei Erlass der Festlegung als erörterungsbedürftig aufgedrängt hätte. Dafür ist nichts festgestellt und nichts erkennbar.
+
+77          e)    Nicht beigetreten werden kann ferner der Annahme des Beschwerdegerichts, die für die betrachteten acht möglichen Stützintervalle ermittelten
+     Werte für den generellen sektoralen Produktivitätsfaktor unterlägen wegen der
+     Spannweite von -2,25 % (2007 bis 2016) bis 2,95 % (2011 bis 2016) so starken
+     Schwankungen, dass der herangezogene Wert von 0,49 % für das Intervall 2006
+     bis 2016 nicht als hinreichend robust angesehen werden könne, die Bundesnetzagentur vielmehr die Ursachen dieser Schwankungen hätte überprüfen müssen,
+     weshalb mangels einer solchen Prüfung ein Ermittlungs- und Ermessensdefizit
+     vorliege.
+
+78          aa)   Nach den Feststellungen des sachverständig beratenen Beschwerdegerichts beruhen die Schwankungen des generellen sektoralen Produktivitätsfaktors in den verschiedenen betrachteten Zeiträumen auf der hohen Volatilität
+     der preisbereinigten Umsatzerlöse, die in die Berechnung eingeflossen sind. Zur
+     Ermittlung dieser Mengengröße hat die Bundesnetzagentur als Deflator den
+     Index der durchschnittlichen Netzentgelte für die drei Verbrauchergruppen Haushalts-, Gewerbe- und Industriekunden herangezogen. Der gerichtliche Sachverständige hat den stark schwankenden Index der Industriekunden-Netzentgelte
+     als Hauptursache der hohen Volatilität des generellen sektoralen Produktivitätsfaktors identifiziert. Er hat die Bandbreite der Schwankungen des Indexes als
+     "beunruhigend" angesehen und deshalb für eine eingehende Erforschung ihrer
+     Ursachen plädiert.
+
+                                           - 31 -
+
+
+
+79         bb)    Dies rechtfertigt nicht die Annahme, die Bundesnetzagentur hätte
+     weitere Ermittlungen zur Überprüfung der Validität der gefundenen Werte zur
+     Entwicklung des Output-Faktors anstellen müssen.
+
+80         (1)    Unter welchen Voraussetzungen und in welchem Umfang die Bundesnetzagentur von ihr methodisch einwandfrei ermittelte ökonometrische Werte
+     einer zusätzlichen Überprüfung auf Plausibilität oder Robustheit unterziehen
+     muss, lässt sich nicht abstrakt bestimmen. Dies hängt vielmehr davon ab, in welchem Maß die Verlässlichkeit oder Sensitivität der erhobenen Daten oder der
+     unter Verarbeitung dieser Daten ermittelten Werte überprüfungsbedürftig erscheinen. Die Notwendigkeit einer solchen Überprüfung wird auch durch die
+     Möglichkeiten bestimmt, mit einem sachlich und zeitlich angemessenen Aufwand
+     den Gründen für bestehende Zweifel an der Validität ermittelter Werte nachzugehen, um diese Zweifel entweder auszuräumen oder, falls dies nicht gelingen
+     sollte, gegebenenfalls auf eine andere Methode auszuweichen, von der ein plausibleres oder robusteres Ergebnis zu erwarten ist.
+
+81         (2)    Diese Maßstäbe gelten auch im Streitfall. Die Bundesnetzagentur
+     ist verpflichtet, für die Regulierungsperiode den generellen sektoralen Produktivitätsfaktor festzulegen. Sie darf sich dieser Aufgabe aus den ausgeführten Gründen (Rn. 24) nicht durch eine Festsetzung des generellen sektoralen Produktivitätsfaktors auf Null entledigen, sofern ihre Ermittlungen nicht ergeben, dass keine
+     Abweichungen des netzwirtschaftlichen Produktivitätsfortschritts vom gesamtwirtschaftlichen Produktivitätsfortschritt und der gesamtwirtschaftlichen Einstandspreisentwicklung von der netzwirtschaftlichen Einstandspreisentwicklung
+     bestehen.
+
+82         (3)    Danach kann die tatrichterliche Einschätzung keinen Bestand
+     haben.
+
+                                           - 32 -
+
+
+
+83         (a)    Die Bundesnetzagentur hat sich, worauf sie in ihrer Rechtsbeschwerde verweist, im Beschwerdeverfahren darauf berufen, dass aus ihrer Sicht
+     die von dem gerichtlichen Sachverständigen als beunruhigend angesehenen
+     Schwankungen des als Deflator verwendeten Indexes der durchschnittlichen
+     Industriekunden-Netzentgelte nicht außergewöhnlich seien, sondern durchaus
+     der tatsächlichen Entwicklung entsprechen könnten. Gegenteilige Feststellungen
+     hat das Beschwerdegericht nicht getroffen; es geht vielmehr ausdrücklich davon
+     aus, dass die Volatilität der Netzentgelte "auf regulatorisch bedingte Gegebenheiten zurückzuführen" sei.
+
+84         (b)    Da das Beschwerdegericht ferner andere denkbare Deflatoren für
+     zumindest nicht überlegen erachtet und die der Bildung des Indexes der durchschnittlichen Netzentgelte zugrunde liegenden Annahmen, dass die Verbrauchsanteile der berücksichtigten Kundengruppen über den gesamten Zeitraum als
+     konstant betrachtet werden können und die Netzentgelte der Fernleitungsnetzbetreiber nicht gesondert berücksichtigt werden müssen, wie ausgeführt
+     (Rn. 49 ff.), rechtsfehlerfrei als rechtmäßig angesehen hat, ist nicht ersichtlich,
+     worauf sich die von ihm für geboten erachtete Überprüfung der festgestellten
+     Schwankungen des verwendeten Deflators erstrecken sollte. Denn der ausgewählte Index der durchschnittlichen Netzentgelte und die dabei getroffenen Annahmen sind nach den Ausführungen des gerichtlichen Sachverständigen die
+     Ursachen der festgestellten Schwankungen.
+
+85         (4)    Es begegnet unter den Umständen des Streitfalls auch keinen Bedenken, dass die Bundesnetzagentur den für das Stützintervall 2006 bis 2016
+     ermittelten generellen sektoralen Produktivitätsfaktor für durch einen Vergleich
+     mit dem Mittelwert von 0,51 %, der sich aus dem Durchschnitt der für insgesamt
+     acht betrachtete mögliche Stützintervalle ermittelten Werte ergibt, hinreichend
+     plausibilisiert erachtet hat. Insbesondere ist entgegen der Ansicht des Beschwerdegerichts kein Mangel der angefochtenen Festlegung darin zu sehen, dass die
+
+                                           - 33 -
+
+
+
+     Regulierungsbehörde damit anders verfahren ist als bei dem nachfolgend mit Beschluss vom 28. November 2018 (BK4-18-056) für die Stromversorgungsnetzbetreiber ermittelten Wert.
+
+86          (a)    Die Bundesnetzagentur hat für Gasversorgungsnetze den generellen sektoralen Produktivitätsfaktor für sieben weitere in Betracht kommende Zeiträume ermittelt, die jeweils zu Beginn gegenüber dem Stützintervall 2006 bis
+     2016 um ein Jahr verkürzt worden sind. Durch den aus den Werten für diese
+     Stützintervalle errechneten Mittelwert von 0,51 % hat sie die Robustheit des sich
+     für den längsten möglichen Betrachtungszeitraum 2006 bis 2016 ergebenden
+     Werts von 0,49 % bestätigt gefunden (Festlegung S. 20). Da alle betrachteten
+     Zeiträume jedenfalls die Jahre 2013 bis 2016 umfassen, haben diese ein stärkeres Gewicht bei der Mittelwertbildung erhalten als die weiter in der Vergangenheit
+     liegenden Jahre.
+
+87          (b)    Dieses Vorgehen hat das Beschwerdegericht als plausibel angesehen. Dies ist ebenso rechtsfehlerfrei wie seine auf die Ausführungen des gerichtlichen Sachverständigen (Gutachten vom 9. Juni 2019, S. 6) gestützte weitere
+     Annahme, die Art der Mittelwertbildung stelle ein methodisch nachvollziehbares,
+     wenn auch wissenschaftlich nicht geläufiges Verfahren dar.
+
+88          Es mag zwar richtig sein, dass die Nähe des Mittelwerts zu dem Wert für
+     das Stützintervall 2006 bis 2016 als solche von eher geringer Aussagekraft ist.
+     Die Bundesnetzagentur durfte hierin gleichwohl eine Bestätigung ihres Vorgehens sehen. Hinzu kommt, dass sich der Mittelwert von 0,51 % auch dann ergibt,
+     wenn die Reihe der möglichen Stützintervalle um das von der Betroffenen für
+     ungeeignet gehaltene Stützintervall 2006 bis 2016 auf sieben verkürzt wird.
+
+89          (c)    Nicht beigetreten werden kann dem Beschwerdegericht in seiner
+     Annahme, es fehle eine Begründung dafür, weshalb die Bundesnetzagentur bei
+     der zeitlich späteren Festlegung für Betreiber von Stromversorgungsnetzen die
+
+                                           - 34 -
+
+
+
+     Robustheit des generellen sektoralen Produktivitätsfaktors anders ermittelt habe
+     als in der angefochtenen Festlegung für Betreiber von Gasversorgungsnetzen.
+
+90          Ob die Festlegung des generellen sektoralen Produktivitätsfaktors für
+     Stromversorgungsnetze rechtmäßig war, ist nicht im Rahmen der Prüfung der
+     hier in Streit stehenden Festlegung zu beurteilen. Die Art und Weise der - späteren - Festlegung für den Strombereich ist auch kein Indiz dafür, dass die Auswahl
+     des Stützintervalls bei der Berechnung des generellen sektoralen Produktivitätsfaktors für Gasversorgungsnetze in zu beanstandender Weise erfolgt wäre.
+
+91          Der Umstand, dass die Bundesnetzagentur bei der Festlegung des generellen sektoralen Produktivitätsfaktors für Stromversorgungsnetze einen Sicherheitsabschlag von einem Drittel auf das ermittelte Ergebnis mit der Begründung
+     vorgenommen hat, unbeabsichtigte Brüche zwischen dem Strom- und dem
+     Gassektor vermeiden zu wollen, hat - entgegen der Ansicht des Beschwerdegerichts - ebenfalls keinen Einfluss auf die Belastbarkeit des Ergebnisses für Gasversorgungsnetze. Denn dies bedeutet nur, dass die Bundesnetzagentur bei der
+     Festlegung des generellen sektoralen Produktivitätsfaktors für Stromversorgungsnetzbetreiber den für Gasversorgungsnetzbetreiber festgelegten Wert für
+     plausibel hielt.
+
+92          f)     Den Angriffen der Rechtsbeschwerde der Bundesnetzagentur hält
+     es auch nicht stand, dass das Beschwerdegericht die Berechnung der Abschreibungen auf Anlagegüter als Bestandteil der netzwirtschaftlichen Einstandspreisentwicklung für fehlerhaft gehalten hat.
+
+93          aa)    Die Annahme des Beschwerdegerichts, die Bundesnetzagentur
+     müsse bei der Berechnung der Abschreibungen auf Anlagegüter von Gesetzes
+     wegen regulatorische statt handelsrechtliche Grundsätze anwenden, trifft nicht
+     zu.
+
+                                            - 35 -
+
+
+
+94          (1)    Die Bundesnetzagentur hat bei der Ermittlung der netzwirtschaftlichen Einstandspreisentwicklung anhand des Törnqvist-Indexes nach handelsrechtlichen Vorgaben lineare Abschreibungen auf Basis historischer Anschaffungs- oder Herstellungskosten zugrunde gelegt. Abweichend von der Ermittlung
+     kalkulatorischer Abschreibungen nach §§ 6, 6a GasNEV hat sie weder zwischen
+     Alt- und Neuanlagen differenziert, noch hat sie die Preisentwicklung der Anlagegüter bei den Anschaffungs- und Herstellungskosten berücksichtigt.
+
+95          (2)    Diese Vorgehensweise widerspricht keiner gesetzlichen Vorgabe.
+     Entgegen der Auffassung des Beschwerdegerichts steht der Bundesnetzagentur
+     auch bei der Methodik der Berechnung der Abschreibungen ein Beurteilungsspielraum zu.
+
+96          (a)    Zwar hat der Verordnungsgeber für die Berechnung der Abschreibungen im Rahmen der Kostenprüfung in §§ 6, 6a GasNEV einen kalkulatorischen Ansatz vorgegeben. Danach sind gemäß § 6 Abs. 2 Satz 2 Nr. 1, Abs. 3
+     in Verbindung mit § 6a GasNEV die Abschreibungen des eigenfinanzierten Anteils der Altanlagen, also der vor dem 1. Januar 2006 aktivierten Anlagegüter,
+     ausgehend von den jeweils nach § 6a GasNEV zu ermittelnden Tagesneuwerten
+     zu berechnen. Die Abschreibungen des fremdfinanzierten Anteils der Altanlagen sowie der Neuanlagen sind hingegen nach § 6 Abs. 2 Satz 2 Nr. 2,
+     Abs. 4 GasNEV ausgehend von historischen Anschaffungs- oder Herstellungskosten zu ermitteln. Ein Inflationsausgleich erfolgt für den eigenfinanzierten Anteil
+     der Neuanlagen im Rahmen der Eigenkapitalverzinsung, nicht aber für den
+     eigenfinanzierten Anteil der Altanlagen. Nach § 7 Abs. 4 GasNEV wird der eigenfinanzierte Anteil der Neuanlagen mit einem Nominalzinssatz verzinst, der in
+     Höhe der Inflationsrate über dem Realzins liegt, während der eigenfinanzierte
+     Anteil der Altanlagen mit dem Realzins zu verzinsen ist (vgl. Schütz/Schütte in
+     Holznagel/Schütz, Anreizregulierungsrecht, 2. Aufl., § 6 GasNEV Rn. 62).
+
+                                             - 36 -
+
+
+
+97         (b)    Entgegen der Annahme des Beschwerdegerichts ist dieser für die
+     Kostenprüfung vorgegebene Ansatz nicht zwingend auch bei der Berechnung
+     des generellen sektoralen Produktivitätsfaktors anzuwenden.
+
+98         (aa)   § 9 ARegV verweist im Gegensatz zu der für die Kostenprüfung geltenden Regelung des § 6 Abs. 1 ARegV nicht auf die Vorschriften der Gasnetzentgeltverordnung. Aus der Rechtsprechung des Senats, die die Ermittlung
+     der kalkulatorischen Abschreibungen als eigenständiges, vom Handelsrecht losgelöstes System sieht (vgl. BGH, Beschluss vom 7. April 2009 - EnVR 6/08,
+     RdE 2010, 25 Rn. 18 - Verteilernetzbetreiber Rhein-Main-Neckar), folgt nicht,
+     dass die Regelungen der §§ 6, 6a GasNEV bei der Ermittlung des generellen
+     sektoralen Produktivitätsfaktors zwingend anzuwenden wären, da die hierzu ergangenen Entscheidungen sich nicht mit der Frage der Ermittlung der Produktivitätsentwicklung befassen.
+
+99         (bb)   Sinn und Zweck des § 9 ARegV gebieten es nicht, Abschreibungen
+     als Bestandteil der netzwirtschaftlichen Einstandspreisentwicklung auf der
+     Grundlage    kalkulatorischer   Vorgaben         der    Gasnetzentgeltverordnung     zu
+     ermitteln. Nach der Vorstellung des Verordnungsgebers handelt es sich beim
+     generellen sektoralen Produktivitätsfaktor um einen Korrekturfaktor der allgemeinen   Geldentwertung    und     nicht   um       eine    individuelle   Effizienzvorgabe
+     (BR-Drucks. 417/07, S. 48; BGH, RdE 2012, 203 Rn. 22 - Gemeindewerke
+     Schutterwald). Aus der Erwägung, der generelle sektorale Produktivitätsfaktor
+     stelle ein regulatorisch geprägtes Element der Anreizregulierung dar, folgt deshalb nicht, dass Abschreibungen auch zur Ermittlung der Abweichungen des
+     netzwirtschaftlichen Produktivitätsfortschritts vom gesamtwirtschaftlichen Produktivitätsfortschritt und der gesamtwirtschaftlichen Einstandspreisentwicklung
+     von der netzwirtschaftlichen Einstandspreisentwicklung nach den Vorgaben der
+     Gasnetzentgeltverordnung zu berechnen sind. Vielmehr lässt es die methoden-
+
+                                           - 37 -
+
+
+
+      offene Vorgabe des § 9 Abs. 1 ARegV zu, die Berechnung der netzwirtschaftlichen Einstandspreisentwicklung der Berechnung der entsprechenden gesamtwirtschaftlichen Parameter anzugleichen, um Verzerrungen beim Vergleich der
+      Einstandspreisentwicklung zu vermeiden und so die Entwicklung der Netzwirtschaft auf der einen und der Gesamtwirtschaft auf der anderen Seite, deren Ermittlung auf entsprechenden handelsrechtlichen Grundsätzen beruht, besser gegenüberstellen zu können. Die methodenoffene Ausgestaltung von § 9 ARegV
+      eröffnet der Bundesnetzagentur daher auch insoweit einen Entscheidungsspielraum, auf welche Weise sie Abschreibungen auf Anlagegüter erfasst.
+
+100         bb)    Ihren Entscheidungsspielraum hat die Bundesnetzagentur in rechtlich nicht zu beanstandender Weise dahin ausgeübt, dass sie ihrer Berechnung
+      handelsrechtliche Abschreibungen zugrunde gelegt hat, also Abschreibungen
+      auf historische Anschaffungswerte, ohne die Entwicklung der Anschaffungspreise bei den Abschreibungen zu berücksichtigen. Sie hat diese Entscheidung
+      damit begründet, dass dies eine konsistente Vorgehensweise sei, da sie auch
+      bei der Eigenkapitalverzinsung im Rahmen der Inputpreisentwicklung handelsrechtliche Grundsätze angewandt habe (Festlegung S. 32). Zwar ergäben sich
+      bei einer kalkulatorischen gegenüber einer handelsrechtlichen Betrachtung für
+      Altanlagen zunächst erhöhte Abschreibungen. Da die Altanlagen, die 70 % der
+      gesamten Anschaffungs- und Herstellungskosten ausmachten, nach Ablauf ihrer
+      Nutzungsdauer in den Jahren 2006 bis 2016 jedoch nach und nach entfielen,
+      entstünde, selbst wenn man mit Preissteigerungen für Neuanlagen rechne, eine
+      fallende Preisentwicklung bei Abschreibungen, zumal die Faktorreihen des
+      § 6a GasNEV nicht auf Neuanlagen anzuwenden seien. Vor diesem Hintergrund
+      betrachtete es die Bundesnetzagentur als sachgerecht, die Abschreibungen als
+      Konstante zu berücksichtigen (Festlegung S. 32 f.).
+
+101         (1)    Die Bundesnetzagentur hat der Ermittlung des Törnqvist-Indexes
+      im Wesentlichen handelsrechtliche Daten zugrunde gelegt (Festlegung S. 12),
+
+                                            - 38 -
+
+
+
+      während sie für den Malmquist-Index Daten aus den Effizienzvergleichen herangezogen hat, die deshalb auch, wo dies vorgegeben ist, von den handelsrechtlichen Daten abweichen (Festlegung S. 37 f.). Daher ist es konsequent und nicht
+      etwa, wie das Beschwerdegericht angenommen hat, widersprüchlich, dass die
+      Bundesnetzagentur im Rahmen des Törnqvist-Indexes auch die Abschreibungen
+      nach handelsrechtlichen Grundsätzen ermittelt hat, da diese ebenfalls der Ermittlung der gesamtwirtschaftlichen Vergleichsgröße zugrunde liegen.
+
+102         (2)    Das Beschwerdegericht hat weder festgestellt noch ist sonst etwas
+      dafür erkennbar, dass diese Vorgehensweise der Bundesnetzagentur von vornherein ungeeignet wäre oder die vom Beschwerdegericht als rechtlich zwingend
+      angesehene Berechnung der Abschreibungen nach den Maßstäben der Gasnetzentgeltverordnung dem handelsrechtlichen Ansatz greifbar überlegen wäre.
+      Als Ausgleich dafür, dass die Bundesnetzagentur Abschreibungen auf Basis historischer Anschaffungs- oder Herstellungskosten ermittelt hat, hat sie bei der Entwicklung der Eigenkapitalverzinsung eine Verzinsung der Restwerte der Anlagegüter mit dem Nominalzinssatz zugrunde gelegt, ohne zwischen Alt- und Neuanlagen zu unterscheiden, wie § 7 Abs. 4 GasNEV dies ansonsten nur für Neuanlagen vorsieht (Festlegung S. 32). Sie hat darin eine "konservative Abbildung der
+      Inputpreisentwicklung" gesehen (Festlegung S. 33), die auch der gerichtliche
+      Sachverständige als in den Auswirkungen "äußerst günstig für die Netzbetreiber"
+      bezeichnet hat (Gutachten vom 23. Juni 2019, S. 12 f.). Das Beschwerdegericht
+      hat zutreffend darauf hingewiesen, dass bei sachgerechter Ausgestaltung der
+      von der Bundesnetzagentur verfolgte Ansatz theoretisch zu vergleichbaren Ergebnissen wie der vom Beschwerdegericht befürwortete Ansatz führen müsste.
+      Dass es sich hier anders verhält, hat das Beschwerdegericht nicht festgestellt.
+
+103         Allein der Umstand, dass einige der zur Berechnung der Tagesneuwerte
+      im kalkulatorischen Ansatz verwendeten Indexreihen nach § 6a GasNEV im Zeit-
+
+                                           - 39 -
+
+
+
+      raum 2006 bis 2016 höhere Steigerungsraten als der Verbraucherpreisgesamtindex aufweisen, lässt die Vorgehensweise der Bundesnetzagentur nicht als ungeeignet erscheinen. Gleiches gilt für die Tatsache, dass die Bundesnetzagentur
+      zur Ermittlung des Inputfaktors im Rahmen des Törnqvist-Indexes das Bruttoanlagevermögen auf Basis der in § 6a GasNEV genannten Indexreihen des Statistischen Bundesamtes preisbereinigt hat (Festlegung S. 27), denn dies präjudiziert nicht die Entscheidung, ob Abschreibungen nach handelsrechtlichen oder
+      nach regulatorischen Grundsätzen ermittelt werden.
+
+104         g)     Zu Unrecht beanstandet das Beschwerdegericht, dass die Bundesnetzagentur bei der Ermittlung der netzwirtschaftlichen Einstandspreisentwicklung im Rahmen der Törnqvist-Methode einen jährlich aktualisierten Zins für das
+      eingesetzte Fremdkapital herangezogen hat.
+
+105         aa)    Die Bundesnetzagentur hat die Entwicklung des Inputfaktors "Zinsen und ähnliche Aufwendungen" anhand des jährlichen Durchschnitts der in § 7
+      Abs. 7 GasNEV aufgeführten Zinsreihen errechnet. Sie hat dabei angenommen,
+      dass im Gegensatz zum Eigenkapital davon auszugehen sei, dass Fremdkapital
+      flexibel sei und daher die genannten jährlichen Kapitalmarktzinsen die tatsächlichen Gegebenheiten am Kapitalmarkt widerspiegelten (Festlegung S. 31 f.).
+
+106         bb)    Das Beschwerdegericht ist demgegenüber der Ansicht, bei der
+      Festlegung des generellen sektoralen Produktivitätsfaktors seien für die Berechnung der Entwicklung der Fremdkapitalzinsen zwingend die Vorgaben des
+      § 5 Abs. 2 Halbsatz 2 GasNEV zu beachten. Die Bundesnetzagentur hätte statt
+      eines jährlichen Durchschnitts der in § 7 Abs. 7 GasNEV aufgeführten Zinsreihen
+      einen auf mehrere Kalenderjahre bezogenen Durchschnitt (rollierenden Mittelwert) bilden müssen.
+
+107         cc)    Dies trifft nicht zu. Die Bundesnetzagentur ist auch bei der Berechnung der Größe "Zinsen und ähnliche Aufwendungen" im Rahmen der Ermittlung
+
+                                            - 40 -
+
+
+
+      der netzwirtschaftlichen Einstandspreisentwicklung nicht an die Gasnetzentgeltverordnung gebunden. Den nach § 9 Abs. 1 ARegV bestehenden Beurteilungsspielraum hat sie auch insoweit nicht überschritten.
+
+108         (1)    Dass die Bundesnetzagentur zur Ermittlung der Fremdkapitalzinsen die in § 7 Abs. 7 GasNEV angeführten Zinsreihen herangezogen hat, bedeutet nicht, dass sie auch weitere Vorgaben der Gasnetzentgeltverordnung zu
+      Fremdkapitalzinsen hätte heranziehen müssen, insbesondere § 5 Abs. 2 Halbsatz 2 GasNEV zu beachten hatte. Die Bundesnetzagentur musste daher, anders als das Beschwerdegericht meint, auch nicht begründen, warum sie für die
+      Bestimmung der Fremdkapitalzinsen im Rahmen der gesamtwirtschaftlichen Einstandspreisentwicklung von den Vorgaben der Gasnetzentgeltverordnung abgewichen ist; sie hat hierfür im Übrigen mit dem Verweis auf die bessere Wiedergabe der tatsächlichen Gegebenheiten auf dem Kapitalmarkt (Festlegung S. 32)
+      eine Begründung gegeben.
+
+109         (2)    Bei der Kostenprüfung bildet der kapitalmarktübliche Fremdkapitalzinssatz im Sinne von § 5 Abs. 2 Halbsatz 2 GasNEV die Obergrenze der anzuerkennenden Fremdkapitalzinsen. Diese sollen höchstens in der Höhe berücksichtigt werden, zu der sich der Netzbetreiber auf dem Kapitalmarkt langfristig
+      Fremdkapital durch Ausgabe einer festverzinslichen Anleihe wie etwa einer Inhaberschuldverschreibung hätte verschaffen können. Dieser Zielsetzung entspricht
+      es, wenn der kapitalmarktübliche Zinssatz über einen rollierenden Mittelwert der
+      Umlaufrenditen festverzinslicher Wertpapiere inländischer Emittenten ermittelt
+      wird (vgl. BGH, Beschluss vom 18. Februar 2014 - EnVR 67/12, juris Rn. 10 f.).
+
+110         (3)    Die Ermittlung der Fremdkapitalzinsen im Rahmen der netzwirtschaftlichen Einstandspreisentwicklung hingegen dient dazu, die Entwicklung der
+      Finanzierungskosten sämtlicher Gasnetzbetreiber während des betrachteten
+
+                                            - 41 -
+
+
+
+      Stützintervalls 2006 bis 2016 abzubilden. Ermittelt werden demnach nicht die absoluten, im Zeitpunkt der Kostenprüfung höchstens ansatzfähigen Fremdkapitalzinsen, sondern die jährlichen Veränderungsraten im Stützintervall. Angesichts
+      dieser Zielrichtung ist die Berechnungsweise der Bundesnetzagentur nicht ungeeignet, weil sie - ohne dass die Bundesnetzagentur dies übersehen hätte (Festlegung S. 31 unten) - unberücksichtigt lässt, dass der einzelne Netzbetreiber
+      üblicherweise nicht in jedem Jahr des Stützintervalls das gesamte für seinen
+      Netzbetrieb benötigte Fremdkapital refinanziert. Dies gilt auch deshalb, weil die
+      Bundesnetzagentur erwogen hat, dass die erfolgte branchenweite und im Gegensatz zur Kostenprüfung nicht punktuelle, sondern verlaufsbezogene Betrachtung der Zinsentwicklung bereits zu einer Glättung von Sondereffekten führt
+      (Festlegung S. 51).
+
+111         (4)    Vor diesem Hintergrund sind keine hinreichenden Anhaltspunkte
+      dafür festgestellt oder als in der Tatsacheninstanz vorgetragen aufgezeigt, dass
+      ein rollierender Mittelwert den tatsächlichen Gegebenheiten bei der Beschaffung
+      von Fremdkapital greifbar besser Rechnung trüge als ein jährlicher Mittelwert.
+      Wie der unter anderem zur Begründung vom Beschwerdegericht angeführte Hinweis auf die Rechtsprechung des Senats zur Erforderlichkeit einer rückblickenden Betrachtungsweise (BGH, Beschluss vom 14. August 2008 - KVR 42/07,
+      ZNER 2008, 222 Rn. 52 - Rheinhessische Energie I) verdeutlicht, ist die Bewertung des Beschwerdegerichts geprägt von der im Rahmen der Kostenprüfung
+      abweichenden Zielsetzung der punktuellen Berechnung der Obergrenze der ansatzfähigen Fremdkapitalkosten. Die Ausführungen des gerichtlichen Sachverständigen rechtfertigen ebenfalls keine andere Bewertung. Dieser hat lediglich
+      ausgeführt, dass aus seiner Sicht ein "rollierendes Fenster" durchaus sinnvoll sei,
+      wenn auch nicht im Umfang von zehn Jahren wie beim Eigenkapitalzinssatz. Diesen Ausführungen lässt sich nichts Hinreichendes dafür entnehmen, dass zur
+      Erfassung der Entwicklung der Finanzierungskosten sämtlicher Gasnetzbetreiber
+
+                                           - 42 -
+
+
+
+      während des betrachteten Stützintervalls ein mehrere Jahre umfassender rollierender Mittelwert einer jährlichen Durchschnittsbildung greifbar überlegen wäre.
+
+112         4.     Der Nachprüfung im Rechtsbeschwerdeverfahren hält es schließlich nicht stand, dass das Beschwerdegericht angenommen hat, die Bundesnetzagentur habe die Ermittlung des generellen sektoralen Produktivitätsfaktors nach
+      der Malmquist-Methode gleichfalls fehlerhaft vorgenommen.
+
+113         a)     Der Malmquist-Index, den der Verordnungsgeber grundsätzlich als
+      weitere für die Berechnung des generellen sektoralen Produktivitätsfaktors in
+      Betracht   kommende      Methode     ansieht   (BR-Drucks.    417/07,    S. 48 f.;
+      BT-Drucks. 17/7632, S. 5), beruht in der Vorgehensweise der Bundesnetzagentur auf dem Ansatz, die Produktivitätsentwicklung aus einem Vergleich der Effizienzwerte der einzelnen Netzbetreiber über die bisherigen Regulierungsperioden
+      zu ermitteln. Er ist somit ein Maß für die dynamische Effizienzentwicklung über
+      eine bestimmte Periode. Diese Methode ist grundsätzlich geeignet, unternehmensindividuelle Aufholeffekte ("Catch-up") von Verschiebungen der Effizienzgrenze, also der Entwicklung der jeweils effizientesten Unternehmen der Branche
+      ("Frontier Shift") zu unterscheiden. Für die Berechnung des generellen sektoralen Produktivitätsfaktors hat die Bundesnetzagentur mit einem in der Festlegung
+      als Malmquist-Methode bezeichneten Ansatz lediglich die Verschiebung der Effizienzgrenze ermittelt (Festlegung S. 11).
+
+114         Hierzu hat sie die Datensätze aus den statischen Effizienzvergleichen
+      (§§ 12 ff. ARegV) der Gasnetzbetreiber der ersten drei Regulierungsperioden
+      verwendet und sich auf die dabei angewendeten Berechnungsmethoden der Dateneinhüllungsanalyse (DEA) und der stochastischen Effizienzgrenzenanalyse
+      (SFA, vgl. § 12 Abs. 1 Satz 1 ARegV in Verbindung mit Anlage 3 Nr. 1 ARegV)
+      gestützt (Festlegung S. 44 f.). Mit diesen Methoden hat die Bundesnetzagentur
+      unter Zugrundelegung der aus den Daten der Effizienzvergleiche stammenden
+
+                                           - 43 -
+
+
+
+      Werte der beeinflussbaren Gesamtkosten (TOTEX) und der standardisierten
+      Kosten (sTOTEX) für jeden Netzbetreiber und jede Regulierungsperiode vier
+      Grundspezifikationen ermittelt. In einem nächsten Schritt wurde aus diesen unternehmensindividuellen Werten für jede Grundspezifikation das arithmetische
+      Mittel über alle betrachteten Unternehmen gebildet und für jede Spezifikation das
+      geometrische Mittel der Werte der ersten und zweiten sowie der zweiten und dritten Regulierungsperiode errechnet. Die periodenübergreifenden Werte der
+      Grundspezifikationen wurden anschließend zusammengeführt und ergaben
+      einen generellen sektoralen Produktivitätsfaktor von 0,92 %. Im Gegensatz zum
+      Effizienzvergleich erfolgte keine Bestabrechnung entsprechend § 12 Abs. 3
+      und 4a ARegV (vgl. hierzu BGH, Beschluss vom 21. Januar 2014 - EnVR 12/12,
+      RdE 2014, 276 Rn. 20 - Stadtwerke Konstanz GmbH). Vielmehr gingen alle
+      Spezifikationen in die Bestimmung der branchenweiten Effizienzgrenzenverschiebung ein, indem der ungewichtete Durchschnitt der vier Grundspezifikationen gebildet wurde. Hierdurch soll nach der Festlegung gewährleistet werden,
+      dass sich die Stärken und Schwächen der jeweiligen Ansätze ausgleichen und
+      insgesamt ein ausgewogenes Ergebnis erzielt wird.
+
+115         b)     Die Annahme des Beschwerdegerichts, die Bundesnetzagentur
+      hätte zur Ermittlung des generellen sektoralen Produktivitätsfaktors anhand
+      des Malmquist-Indexes eine Bestabrechnung entsprechend § 12 Abs. 3
+      und 4a ARegV vornehmen müssen, trifft nicht zu. Die Voraussetzungen für eine
+      entsprechende Anwendung dieser Vorschriften liegen nicht vor.
+
+116         aa)    §§ 12 bis 14 ARegV regeln die Durchführung des Effizienzvergleichs durch die Regulierungsbehörde. Mithilfe des Effizienzvergleichs werden
+      die unternehmensindividuellen Effizienzwerte der Netzbetreiber ermittelt, die die
+      Grundlage für die bei der Festlegung der Erlösobergrenze einzubeziehenden
+      Effizienzvorgaben bilden.
+
+                                           - 44 -
+
+
+
+117         § 9 ARegV sieht die Anwendung des § 12 ARegV bei der Bestimmung des
+      generellen sektoralen Produktivitätsfaktors nicht vor. Den Materialien zu
+      § 9 ARegV (BR-Drucks. 417/07, S. 48 f.; BT-Drucks. 17/7632, S. 4 f.; Zweite Verordnung der Bundesregierung zur Änderung der Anreizregulierungsverordnung,
+      BR-Drucks. 296/16, S. 34) lassen sich keine Anhaltspunkte dafür entnehmen,
+      dass in § 9 Abs. 3 ARegV versehentlich ein Verweis auf die Vorschriften zur Bestabrechnung unterblieben wäre. Dies liegt auch fern, da der Verordnungsgeber
+      die Methode zur Ermittlung des generellen sektoralen Produktivitätsfaktors überhaupt nicht vorgegeben hat.
+
+118         bb)    Entgegen der Auffassung des Beschwerdegerichts fehlt es an einer
+      vergleichbaren Interessenlage, die die entsprechende Anwendung des
+      § 12 Abs. 3 und 4a ARegV bei der Ermittlung des generellen sektoralen Produktivitätsfaktors mithilfe des Malmquist-Indexes erfordern würde.
+
+119         (1)    Eine vergleichbare Interessenlage ergibt sich nicht schon daraus,
+      dass die Bundesnetzagentur bei der Berechnung des Malmquist-Indexes dieselben Methoden wie beim Effizienzvergleich anwendet, auf die Daten der drei bisherigen Effizienzvergleiche zurückgreift und dabei ähnliche datenbezogene und
+      methodische Unsicherheiten bestehen wie beim Effizienzvergleich.
+
+120         (2)    Während es bei der Ermittlung der Effizienzwerte nach § 12 ARegV
+      darum geht, den Abstand eines konkreten Unternehmens von der gegenwärtigen
+      Effizienzgrenze der Netzwirtschaft zu bestimmen, ist im Rahmen des § 9 ARegV
+      zu ermitteln, ob und inwiefern sich die Produktivität der gesamten Branche abweichend von der Gesamtwirtschaft entwickelt (BT-Drucks. 17/7632, S. 4).
+
+121         Die beim Effizienzvergleich vorzunehmende Bestabrechnung nach § 12
+      Abs. 3 und 4a ARegV soll verhindern, dass die Effizienz eines Netzbetreibers
+      wegen der unterschiedlichen Altersstruktur seines Netzes oder einer unterschiedlichen Aktivierungs- oder Abschreibungspraxis zu schlecht bewertet
+
+                                           - 45 -
+
+
+
+      wird und er dadurch unerreichbaren Effizienzvorgaben ausgesetzt ist
+      (vgl. BR-Drucks. 417/07 [Beschluss], S. 7; BerlKommEnR/Breßlein, 4. Aufl.,
+      § 12 ARegV Rn. 28). Die Bestabrechnung dient also dem Schutz des einzelnen
+      Netzbetreibers vor zu strengen Effizienzvorgaben (vgl. BerlKommEnR/Breßlein,
+      4. Aufl., § 12 ARegV Rn. 28). Ein vergleichbares Schutzbedürfnis besteht beim
+      generellen sektoralen Produktivitätsfaktor nicht, da sich aus ihm keine konkreten
+      Effizienzvorgaben für den einzelnen Netzbetreiber ergeben, vielmehr gerade die
+      generelle Produktivitätsentwicklung der Netzbetreiber ermittelt werden soll. Die
+      Funktion des generellen sektoralen Produktivitätsfaktors als Korrekturfaktor bei
+      der Berücksichtigung der Geldwertentwicklung unterscheidet sich demgemäß
+      von derjenigen des unternehmensindividuellen Effizienzvergleichs. Deshalb folgt
+      auch aus dem Gleichbehandlungsgrundsatz des Art. 3 Abs. 1 GG kein Erfordernis, § 12 Abs. 3 und 4a ARegV bei der Ermittlung des generellen sektoralen Produktivitätsfaktors entsprechend anzuwenden.
+
+122         c)     Der Bundesnetzagentur steht auch hinsichtlich der Frage, in welcher Weise die Ergebnisse der Dateneinhüllungsanalysen und der stochastischen Effizienzgrenzenanalysen bei der Ermittlung des generellen sektoralen
+      Produktivitätsfaktors berücksichtigt werden, ein Beurteilungsspielraum zu, den
+      sie unter Beachtung von Erkenntnissen, die dem Stand der Wissenschaft hierzu
+      zu entnehmen sind, entsprechend der Zielsetzung einer möglichst treffsicheren
+      Abschätzung der sektoralen Produktivitätsentwicklung auszufüllen hat. Aus den
+      Feststellungen des Beschwerdegerichts ergibt sich nicht, dass sie diese Aufgabe
+      mit der gewählten Mittelwertbildung fehlerhaft wahrgenommen hätte.
+
+123         aa)    Die Bundesnetzagentur hat sich gegen die Anwendung des
+      § 12 Abs. 3 und 4a ARegV mit der Begründung entschieden, die Bestabrechnung
+      sei für statische Effizienzvergleiche vorgeschrieben. Die Bildung von Durchschnittswerten bei der Ermittlung des Malmquist-Indexes gewährleiste, dass sich
+
+                                            - 46 -
+
+
+
+      Stärken und Schwächen der jeweiligen Ansätze ausglichen und sorge für ein
+      ausgewogenes Ergebnis (Festlegung S. 46).
+
+124         bb)    Dies ist nicht zu beanstanden. Weder ist die von der Bundesnetzagentur vorgenommene Durchschnittsbildung von vornherein ungeeignet, noch
+      ist die vom Beschwerdegericht favorisierte Bestabrechnung ihr greifbar überlegen. Etwas anderes ergibt sich auch nicht aus der auf die Ausführungen des gerichtlichen Sachverständigen gestützten Erwägung des Beschwerdegerichts, die
+      Bandbreite der Werte der Dateneinhüllungsanalyse und der stochastischen
+      Effizienzgrenzenanalyse führe zu einer mangelnden Robustheit des gemittelten
+      Ergebnisses. Denn es ist nichts dafür festgestellt, dass ein solcher Mangel durch
+      eine Auswahl aus den Analyseergebnissen im Sinne einer Bestabrechnung behoben werden könnte. Vielmehr liefe dies darauf hinaus, einer methodischen Unsicherheit einseitig zugunsten der Netzbetreiber Rechnung zu tragen, ohne dass
+      sich annehmen ließe, dass damit die Gefahr einer unzutreffenden Abschätzung
+      des generellen sektoralen Produktivitätsfaktors verringert würde.
+
+125         cc)    Auch im Übrigen rechtfertigt die vom Beschwerdegericht angenommene mangelnde Robustheit des nach Malmquist ermittelten Werts von 0,92 %
+      keine Verwerfung des Ergebnisses. Da das Beschwerdegericht keine Anhaltspunkte dafür festgestellt hat, dass die Bundesnetzagentur die durchgeführten Dateneinhüllungs- und stochastischen Effizienzgrenzenanalysen in einer Weise
+      hätte modifizieren können und müssen, die voraussichtlich zu stärker belastbaren Ergebnissen geführt hätte, und die Bundesnetzagentur zudem zugunsten der
+      Netzbetreiber den generellen sektoralen Produktivitätsfaktor auf den niedrigeren
+      Wert festgesetzt hat, der sich nach der Törnqvist-Methode ergeben hat, wird die
+      Betroffene hierdurch jedenfalls nicht in ihren Rechten verletzt.
+
+126         III.   Die Beschwerdeentscheidung kann hiernach keinen Bestand
+      haben, soweit sie den Einwänden der Betroffenen stattgibt. Sie erweist sich auch
+
+                                            - 47 -
+
+
+
+      nicht aus anderen Gründen als im Ergebnis zutreffend, denn die von der Betroffenen mit ihrer Beschwerde darüber hinaus geltend gemachten, vom Beschwerdegericht nicht behandelten Einwände gegen die angefochtene Festlegung greifen
+      ebenfalls nicht durch.
+
+127         1.     Die Rüge der Betroffenen, die Berücksichtigung von Vergangenheitswerten werde den aktuellen Rahmenbedingungen nicht gerecht, greift nicht
+      durch. Ein methodischer Fehler der Bundesnetzagentur bei der Ermittlung des
+      generellen sektoralen Produktivitätsfaktors wird damit nicht aufgezeigt.
+
+128         a)     Die Betroffene rügt, vergangene regulatorische Eingriffe führten in
+      kommenden Regulierungsperioden zu neuen Rahmenbedingungen. Damit gingen Veränderungen der Produktivitätsentwicklung einher, denen die Bundesnetzagentur durch Übernahme von Werten aus der Vergangenheit nicht gerecht
+      werde.
+
+129         b)     Im Rahmen der Malmquist-Methode wirken sich nach dem rechtsfehlerfrei gewählten methodischen Ansatz der Bundesnetzagentur (Rn. 30 ff.) regulatorische Entscheidungen zwangsläufig auf die mit dem Malmquist-Index berechneten Ergebnisse aus. Regulatorische Zahlen können vom Einfluss einer
+      sich ändernden oder auch fehlerhaften Regulierungspraxis jedoch nicht frei sein.
+      Zwar können die gefundenen Ergebnisse um offenkundige Fehler bereinigt werden, soweit diese feststellbar sind und hierfür ein praktikabler methodischer Ansatz zur Verfügung steht. Einen solchen zeigt die Beschwerde jedoch nicht auf.
+      Im Übrigen hat die Bundesnetzagentur mit der Törnqvist-Methode einen zweiten,
+      auf handelsrechtlichen Grundlagen beruhenden und daher von regulatorischen
+      Einflüssen in geringerem Umfang beeinflussten Ansatz verfolgt und dessen Ergebnis zugunsten der Netzbetreiber zugrunde gelegt.
+
+130         c)     Befürwortete man eine Korrektur der aus Daten aus der Vergangenheit ermittelten Werte um zukünftig zu erwartende Entwicklungen, liefe dies
+
+                                           - 48 -
+
+
+
+      auf einen sachwidrigen Eingriff in den in § 9 Abs. 3 ARegV angelegten und von
+      der Bundesnetzagentur mit der Törnqvist- wie mit der Malmquist-Methode auch
+      angewandten, auf hinreichend aussagekräftige Vergangenheitswerte gegründeten Ansatz als Instrument zur Prognose der zu erwartenden Produktivitätsentwicklung hinaus. Der gerichtliche Sachverständige hat zum Beispiel die Erwartung einer fortgesetzten Verringerung der Zinsen in der dritten Regulierungsperiode als "nicht sehr realistisch" bezeichnet. Er hat aber zutreffend darauf hingewiesen, dass eine Korrektur des retrospektiven Ansatzes um plausibler erscheinende Zukunftsszenarien "hochgradig spekulativ" sei und "viel Raum für Willkür"
+      lasse, und zudem nicht nur in denjenigen Punkten erfolgen dürfe, die den Netzbetreibern günstig seien. Eine greifbare Überlegenheit des von der Betroffenen
+      letztlich befürworteten Ansatzes einer Korrektur des retrospektiven Ansatzes um
+      zu erwartende zukünftige Entwicklungen ergibt sich danach auch dann nicht,
+      wenn zugunsten der Betroffenen angenommen wird, dass sie sich die Ausführungen des gerichtlichen Sachverständigen zu eigen gemacht hat.
+
+131         2.     Nicht zu beanstanden ist ferner, dass die Bundesnetzagentur das
+      mit dem Törnqvist-Index errechnete Ergebnis nicht um Aufholeffekte bereinigt
+      und dadurch der Kritik der Betroffenen Rechnung getragen hat, dass die Annahme effizienter Netzbetreiber, insbesondere zu Beginn der Regulierungsperiode, nicht sachgerecht sei.
+
+132         a)     Die Törnqvist-Methode ermöglicht auf Grund ihrer Datenbasis keine
+      Unterscheidung zwischen individuellen Aufholeffekten und der Verschiebung der
+      sektoralen Effizienzgrenze. Die Bundesnetzagentur hat dies bereits bei der Anwendung dieser Methode berücksichtigt (Festlegung S. 33) und hat ferner den
+      generellen sektoralen Produktivitätsfaktor auch mithilfe der Malmquist-Methode
+      berechnet, die allein die Abbildung der Verschiebung der Effizienzgrenze ermöglicht, indessen, da diese Berechnung einen für die Netzbetreiber schlechteren
+
+                                            - 49 -
+
+
+
+      Wert ergeben hat, zu deren Gunsten den niedrigeren, mithilfe des Törnqvist-Indexes errechneten Wert festgesetzt.
+
+133         b)     Dass eine Korrektur des Ergebnisses des Törnqvist-Indexes um
+      einen Aufholeffekt, der etwa mithilfe des Malmquist-Indexes ermittelt wurde, geboten wäre, zeigt die Betroffene nicht auf. Eine solche Korrektur sah bereits der
+      Gutachter der Bundesnetzagentur als nicht sachgerecht an, da beiden Ansätzen
+      unterschiedliche Daten und Betrachtungszeiträume zugrunde liegen, und sie
+      fände auch in den Ausführungen des gerichtlichen Sachverständigen (Gutachten
+      vom 4. Februar 2019, S. 30) keine Stütze. Sie liefe auf eine ergebnisorientierte
+      Vermischung unterschiedlicher ökonometrischer Methoden hinaus, ohne dass
+      hierfür eine wissenschaftliche Grundlage aufgezeigt oder erkennbar wäre.
+
+134         3.     Die Beschwerderüge der Betroffenen, einige für die Inputpreisermittlung herangezogene Positionen seien zu beanstanden, da die Bundesnetzagentur Daten des Statistischen Bundesamtes verwendet habe, die nicht ausschließlich für den Gasnetzsektor, sondern für die gesamte Wertschöpfungskette
+      Netze, Handel und Erzeugung erhoben worden seien, greift nicht durch. Die Bundesnetzagentur hat zu Recht eingewandt, dass nicht erkennbar ist - und die Betroffene auch nicht dargelegt hat -, warum sich die Preise für gleiche Güter unterscheiden sollten, je nachdem, ob diese Güter für den Netzsektor oder für eine
+      andere Wertschöpfungsstufe angeschafft werden.
+
+135         4.     Auch die weitere Rüge der Betroffenen, die von der Bundesnetzagentur zur Ermittlung des generellen sektoralen Produktivitätsfaktors herangezogenen und die im Rahmen der Kostenprüfung abgefragten Daten stimmten
+      nicht überein, weshalb die Bundesnetzagentur die für den Netzbetrieb wichtigen
+      Aufwendungen für Instandhaltung und Wartung bei der Berechnung des generellen sektoralen Produktivitätsfaktors nicht berücksichtigt habe, greift nicht durch.
+      Da der Törnqvist-Index auf handelsrechtliche Grundsätze zurückgreift, ist ein
+
+                                             - 50 -
+
+
+
+      Gleichlauf zwischen der kalkulatorischen Kostenprüfung und den verwendeten
+      Preisindizes nicht zwingend. Die Bundesnetzagentur hat in ihrer Festlegung die
+      Preisveränderungen der Aufwendungen für Wartung und Instandhaltung durch
+      den Arbeitskostenindex Produzierendes Gewerbe und Dienstleistungsbereich
+      des Statistischen Bundesamts als Bestandteil der "Sonstigen betrieblichen Aufwendungen" und der "Aufwendungen für bezogene Leistungen" abgebildet und
+      diese damit - entgegen der Rüge der Betroffenen - bei der Ermittlung des generellen sektoralen Produktivitätsfaktors berücksichtigt (vgl. Festlegung S. 23 f.).
+
+136          C.     Der Senat kann hiernach abschließend in der Sache entscheiden
+      und die Beschwerde gegen die angefochtene Festlegung zurückweisen.
+
+137          Die Kostenentscheidung beruht auf § 90 Satz 2 EnWG, die Festsetzung
+      des Gegenstandswerts auf § 50 Abs. 1 Satz 1 Nr. 2 GKG und § 3 ZPO.
+
+
+      Meier-Beck                               Kirchhoff                   Schoppmeyer
+
+                             Picker                                  Linder
+
+
+
+      Vorinstanzen:
+      OLG Düsseldorf, Entscheidung vom 10.07.2019 - VI-3 Kart 668/18 [V] -
