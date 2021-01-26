@@ -1,0 +1,6 @@
+# TOP 5.: Etat/Budget Produkte Fachdienst 40 (soweit in der Zuständigkeit des Ausschusses)
+
+- Sitzung: Ausschuss für Schule und Bildung (93. Sitzung) (2021-01-26)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/59881
