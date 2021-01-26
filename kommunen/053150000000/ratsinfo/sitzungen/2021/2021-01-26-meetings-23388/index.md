@@ -1,0 +1,80 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-01-26T14:05:00+01:00
+- Ende: 2021-01-26T14:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Einführung anlässlich der Neukonstituierung
+- TOP -: 0.1 Begrüßung (Sitzungseröffnung durch den bisherigen Vorsitzenden Hr.Dr.Heinen und Übergabe der Sitzungsleitung an die Alterspräsidentin/ den Alterspräsidenten)
+- TOP -: 0.2 Verpflichtung
+- TOP -: 0.3 Benennung der Stimmzählerinnen und Stimmzähler
+- TOP -: 0.4 Wahl der/des Ausschussvorsitzenden inkl. Wahl der persönlichen Stellvertretung des/der Ausschussvorsitzenden
+- TOP -: 0.5 Mitteilung: Tätigkeiten und Entscheidungskompetenzen im Jugendhilfeausschuss - Kenntnis genommen
+- TOP -: 0.6 Beschluss: Bestellung der Schriftführung für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP -: 0.7 Beschluss: Aufzeichnungen der Sitzungen des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP -: 0.8 Beschluss: Umdruck bei Trägeranerkennung - ungeändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII, hier: "Louna Kitas gGmbH" - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kurdish-European Society e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Jugendhilfeplanung in der Kindertagesbetreuung 2021/22 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anerkennung von Kindertagesstätten als plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - ungeändert beschlossen
+- TOP 2.3.2: Anwendung des § 55 Abs. 2, Satz 2 KiBiz neue Fassung - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Loverboys - Kenntnis genommen
+- TOP -: Anfrage der FDP Fraktion aus der Sitzung vom 25.08.2020 zum Thema "Loverboys" (AN/1027/2020) - Kenntnis genommen
+- TOP 6.1.2: Sexueller Missbrauch in Kitas und Schulen - Kenntnis genommen
+- TOP -: Die CDU-Fraktion und die Fraktion Bündnis 90/Die Grünen stellen in einer Anfrage gem § 4 der GO des Rates (DS Nr. AN/1076/2020 ) mehrere Fragen zum Thema „Sexueller Missbrauch in Kitas und Schulen und Jugendeinrichtungen“ und bitten um Antwort in de - Kenntnis genommen
+- TOP 6.1.3: Kitaplätze für Merkenich – Betreuung sicherstellen! - Kenntnis genommen
+- TOP -: Kitaplätze in Merkenich - Kenntnis genommen
+- TOP 6.1.4: Neue Wohnsiedlungen in der Spielplatzplanung berücksichtigen - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Trägervielfalt bei der Kinderbetreuung sichern – kleine Kita-Träger in Köln unterstützen! - zurückgestellt
+- TOP 6.2.2: Sicherheit für die Übermittagsbetreuung (ÜMB) im Sek I–Bereich im Haushaltsjahr 2021 - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Nachfrage zum aktuellen Stand beim Baui in der Südstadt - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Inklusionsmonitoring, Stand Schuljahr 2019/20 - Kenntnis genommen
+- TOP 8.2.2: Auswirkungen des KiBiz 2020 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Standards für barrierefreie Spielplätze - Kenntnis genommen
+- TOP 8.4.2: 3.4.4 Fertiggestellte Baumßanahmen auf öffentlichen Spiel- und Bolzplätzen 2018/2019 Session Nr. 3737/2019 - Kenntnis genommen
+- TOP 8.4.3: Pilotprojekt zur Einrichtung jugendgerechter Freiräume und pädagogisch angeleiteter Events zur Freizeitgestaltung in Zeiten von Corona - Kenntnis genommen
+- TOP 8.4.4: Dirttrack Kalk - Angebot Alternativfläche - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 8.5.2: Anfrage bezüglich neuer Zielgruppen in der LSBT*Q Jugendarbeit 2595/2020 - Kenntnis genommen
+- TOP 8.5.3: 30. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 8.5.4: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 8.5.5: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 8.5.6: Schuleingangsuntersuchung 2021/2022 - zurückgestellt
+- TOP 8.5.7: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 8.5.8: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 8.5.9: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - Kenntnis genommen
+- TOP 8.5.10: Neugestaltung des Spielplatzes „Trendsportarten Mühlenweg“ im Sozialraum „Bickendorf, Westend und Ossendorf“ - Kenntnis genommen
