@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-26T17:00:00+01:00
+- Ende: 2021-01-26T00:00:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula) *** SITZUNG ENTFÄLLT ***
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20417
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20417
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397245.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 12.01.2021 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 01.12.2020
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 4.5: Wiederwahl einer Schiedsperson
+- TOP 4.6: Verwendung von Haushaltsmitteln
+- TOP 5: Anträge
+- TOP 5.1: Abgrenzung Spielfläche Am Gartenkamp - Antrag der FDP-Fraktion -
+- TOP 5.2: Josef-Neuberger-Straße als Einbahnstraße - Antrag der FDP-Fraktion -
+- TOP 5.3: Hinweisschild- Spielende Kinder anbringen am Pilgerweg - Antrag der FDP-Fraktion -
+- TOP 5.4: Wegeausbesserung Spazierweg Friedrich-Wilhelm-Straße Richtung Quadenhofstraße - Antrag der FDP-Fraktion -
+- TOP 5.5: Zusätzlich temporärer Papiercontainer für den Standort Dreherstraße/Schönaustraße - Antrag der FDP-Fraktion -
+- TOP 5.6: Sanierung Ottostraße/Vereinsstraße und Beteiligung der Netzgesellschaft - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP -
+- TOP 5.7: Verbesserung der Fußgängerampel Benderstraße/Auf der Hardt- Antrag der Fraktion Bündnis 90/ Die Grünen -
+- TOP 5.8: Tempo 30 auf der Heyestraße - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 5.9: Maßnahmen zur Verbesserung der Verkehrssicherheit der Kreuzung Quadenhofstraße/Rigastraße.- Prüfantrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 5.10: Grüner Schallschutz am Spielplatz Ratinger Weg - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP -
+- TOP 5.11: Verlängerung des Linksabbiegegefahrstreifens Simrockstraße-Vautierstraße (B 7) - Antrag der CDU-Fraktion -
+- TOP 5.12: Beschilderung Park and Ride-Parkplatz - Antrag der CDU-Fraktion -
+- TOP 5.13: Recyclinghof - Antrag der CDU-Fraktion -
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Erwerb des Kasernengeländes „Bergische Kaserne“ durch die Stadt Düsseldorf - Anfrage der CDU-Fraktion -
+- TOP 6.3: Landesfördermittel für die Heyestraße - Anfrage der CDU-Fraktion -
+- TOP 6.4: Behindertengerechte Spielplätze im Bezirk 7 - Anfrage der FDP-Fraktion -
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Straßenbeleuchtung Pfeifferstraße -Anfrage der Fraktion Bündnis 90/Die Grünen -
+- TOP 7.3: Beginn Umbau Gerresheim S-Bahnhof - Anfrage der FDP-Frakion -
+- TOP 7.4: Straßenbahn über Dreherstraße/Torfbruchstraße zur Anbindung des Neubaugebiets - Anfrage der FDP-Fraktion -
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beschlusskontrolle der Bezirksvertretung 7
+- TOP 8.2: Ladestationen für E-Autos im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 8.3: Sammelstelle Gartenabfälle Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 8.4: "Essbare Stadt" für die Neugestaltung Gutenbergspielplatz - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 8.5: Barrierefreier Ausbau der Rampe Friedrich-Wilhelm-Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 8.6: Verkehrssicherheit Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 8.7: Hundeauslaufplatz an der Gerresheimer Höhen Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 8.8: Winterfällungen 2020/2021
