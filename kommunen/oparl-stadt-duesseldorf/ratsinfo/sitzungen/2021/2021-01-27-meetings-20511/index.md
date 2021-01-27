@@ -1,0 +1,78 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-27T17:00:00+01:00
+- Ende: 2021-01-27T18:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20511
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20511
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-01-27 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397737.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-01-27 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397737.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-01-27 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397737.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds
+- TOP 2: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 am 2. Dezember 2020 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: B-Plan 06/018 Theodorstraße - zwischen A52 und Wahlerstraße
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen alt (wurden bereits versandt)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der SPD-Fraktion: Umzugstermin der Jugendfreizeitstätte "Blue Rock"
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 15: Interfraktionelle Anfrage: Anfrage zur Flüchtlingsunterkunft Lichtenbroicher Weg 92 - zur Kenntnis genommen
+- TOP -: Anfragen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfrage der SPD-Fraktion: Gelände der jetzigen Flüchtlingsunterkunft "In der Nießdonk" - zur Kenntnis genommen
+- TOP 18: Anfrage des Ratsherrn Mielczarek (BÜNDNIS 90/DIE GRÜNEN): Anbindung von Unterrath an die geplante U81
+- TOP 19: Anfrage des Ratsherrn Mielczarek (BÜNDNIS 90/DIE GRÜNEN): Sachstand Verlängerung der Linie 707 zum ISS DOME - Lückenschluss
+- TOP 20: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Verkehrssicherheit Unterrather Straße/Kalkumer Straße
+- TOP 21: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Status der Planungen Ecke Kalkumer Straße/An der Piwipp/Thewissenweg ("Unterrather Tor") - zur Kenntnis genommen
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 23: Antrag der CDU-Fraktion:Verkehrssicherung Straße "In der Nießdonk" - ab Einmündung "Am Stock" (Hausnummer 35) - einstimmig beschlossen
+- TOP 24: Antrag der CDU-Fraktion und der FDP-Fraktion: Nachnutzung des Geländes der Jugendberufshilfe - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion und der FDP-Fraktion: Fortsetzung Kriminalpräventiver Rat - einstimmig beschlossen
+- TOP 26: Antrag der CDU-Fraktion und der FDP-Fraktion: Bürgerbeteiligung fortsetzen - Stadtteilrundgänge - einstimmig beschlossen
+- TOP 27: Antrag der CDU-Fraktion und der FDP-Fraktion: Budget für die Förderung der Kultur im Stadtbezirk und Bildung eines Budgetbeirates - vertagt
+- TOP 28: Antrag der CDU-Fraktion und der FDP-Fraktion: Budget für Ökologische Erneuerung und Bildung eines Budgetbeirates - vertagt
+- TOP 29: Antrag der SPD-Fraktion: Bewohnerparken Lichtenbroich - einstimmig beschlossen
+- TOP 30: Antrag der SPD-Fraktion: Fußgängerzone Matthiaskirchweg Installation Wasserzerstäubungsanlage - einstimmig beschlossen
+- TOP 31: Antrag der SPD-Fraktion: Westfalenstraße Tempolimit - vertagt
+- TOP 32: Antrag SPD-Fraktion: Fußgängerüberweg Westfalenstraße - vertagt
+- TOP 33: Antrag der CDU-Fraktion und der FDP-Fraktion: Vorgehen gegen das Parken von Airport-City-Mitarbeitern in den Wohngebieten in Unterrath - einstimmig beschlossen
+- TOP 34: Antrag der CDU-Fraktion: Schaukel für Kleinkinder (Babyschaukel) Spielplatz Heideweg/Sankt-Franziskus-Straße - einstimmig beschlossen
+- TOP 35: Antrag der CDU-Fraktion: Instandsetzung der Laufbahn und der Sprunggrube der Städtischen katholischen offenen Ganztagsgrundschule Rather Kreuzweg - einstimmig beschlossen
+- TOP 36: Antrag der CDU-Fraktion: Gehwegsanierung Münsterstraße 402 - abweichend beschlossen
+- TOP 37: Antrag der FDP-Fraktion und der CDU-Fraktion: Sanierung und Wiederherstellung des vorhandenen Radweges Heinrichstraße Stadtauswärts (nördliche Seite) - abweichend beschlossen
+- TOP 38: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Vorstellung der Verkehrsgesamtkonzeption im Bereich An der Piwipp/Ulmenstraße und Aussetzung des Rückbaus der Verkehrsinsel - mehrheitlich beschlossen
+- TOP 39: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Maßnahmen zur Sicherstellung des Einhaltens der Geschwindigkeitsbegrenzung auf der Krahnenburgstraße - abweichend beschlossen
+- TOP 40: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Vereinheitlichung und Teilinstandsetzung des Radweges entlang der Kalkumer Straße - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 41: Sportanlage Sankt-Franziskusstr. 139 - Bau eines Kunstrasenspielfeldes - vertagt
+- TOP 42: Wohngebiet Lichtenbroicher Weg- Einrichtung eines Bewohnerparkgebietes - Empfehlung einstimmig beschlossen
+- TOP 43: Erweiterung des Bewohnerparkgebietes Lichtenbroich (LB) - Empfehlung einstimmig beschlossen
+- TOP 44: Benennung (Teil-Umbenennung) des EUREF-Campus (01534) - einstimmig beschlossen
+- TOP 45: Bauunterhaltungsmittel 2021 - Projekt "Jfe Ekkehardstraße" - einstimmig beschlossen
+- TOP 46: Bauunterhaltungsmittel 2021 - Projekt "Kinderspielplatz An der Golzheimer Heide" - einstimmig beschlossen
+- TOP 47: Bauunterhaltungsmittel 2021 - Projekt "Platz für Jugendliche in Unterrath" - einstimmig beschlossen
+- TOP 48: Bauunterhaltungsmittel 2021 - Projekt "Boule-Anlage Lichtenbroich" - einstimmig beschlossen
+- TOP 49: Förderung aus Verfügungsmitteln 2021 - Projekt "Förderstützpunkt Wrangelstraße" - einstimmig beschlossen
+- TOP -: Mittelungen der Verwaltung
+- TOP 50: Trasse für die Ortsumgehung Rath - Vorlage 176/ 102/2019 - zur Kenntnis genommen
+- TOP 51: Park and Ride an der Theodorstraße - Vorlage BV6/100/2020 - zur Kenntnis genommen
+- TOP 52: Mögliche Umwandlung des Flurstück 258 in Lichtenbroich in eine kleine gepflegte Grünanlage - Vorlage BV6/053/2020 - zur Kenntnis genommen
+- TOP 53: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 54: Baumfällungen Winter 2020 Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 55: Genehmigung einer Dringlichkeitsentscheidung - B-Plan 06/018 Theodorstraße - zwischen A52 und Wahlerstraße - Behördenbeteiligung, Stellungnahmen, Änderung, - Empfehlung einstimmig beschlossen
