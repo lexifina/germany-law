@@ -1,0 +1,107 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-01-27T17:00:00+01:00
+- Ende: 2021-01-27T17:38:00+01:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4152
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4152
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Geschäftliches - (offen)
+- TOP 2.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 3: Vorlagen zur Beschlussfassung - (offen)
+- TOP 3.1: Verlängerung der Veränderungssperre XIV-185db/32 für das Grundstück Rungiusstraße 9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185db - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Bebauungsplan 8-83 („Schul- und Sportstandort Koppelweg“) - ohne Änderungen in der BVV beschlossen
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Wahl einer Bürgerdeputierten in den Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten in den Grünflächenausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 5.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Potenzialanalyse für mehr Grün in Nordneukölln - (offen)
+- TOP 5.3: MUF-Neubau stoppen - in der BVV abgelehnt
+- TOP 5.4: Berlinovo Zweckentfremdung? - in der BVV abgelehnt
+- TOP 5.5: Neue Brunnengalerie aus bereitgestellten Mitteln bauen - in der BVV abgelehnt
+- TOP 5.6: BVV live und archiviert im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sondernutzung öffentlicher Flächen an touristischen Hotspots - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - (offen)
+- TOP 5.9: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - (offen)
+- TOP 5.10: Köpenicker Straße und Prierosser Straße entlasten - in der BVV abgelehnt
+- TOP 5.11: Einbahnstraße Prierosser - in der BVV abgelehnt
+- TOP 5.12: Parkraumkonzept für Rudow - (offen)
+- TOP 5.13: Eichenquast Tempo 30 - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Bordsteinabsenkung und sichere Querung in der Britzkestraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Fußgänger-Querungshilfen an Sonnenallee - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Fahrverbote in der Silbersteinstraße aufheben - in der BVV abgelehnt
+- TOP 5.17: Zero-emissions-Sportfelder und -hallen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Fachkonferenz im Kinder- und Jugendbereich „Pandemie gemeinsam meistern“ - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Mehr Parkbänke am Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Entweder oder! Betreten der Rasenfläche verboten oder nicht? - in der BVV abgelehnt
+- TOP 5.21: Neuköllner Ehrengrabstätten in besseren Zustand versetzen - (offen)
+- TOP 5.22: Jakobsweg in Neukölln ausschildern - in der BVV abgelehnt
+- TOP 5.23: Partnerschaft mit Boulogne-Billancourt bei Paris vertiefen - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Earth Hour - (offen)
+- TOP 5.26: Unterstützung des linksextremistischen Kollektivs „K-Fetisch“ sofort beenden - in der BVV abgelehnt
+- TOP 5.27: Bewohnerschaft von Problemimmobilien im Richard- und Körnerkiez unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Planung für die Umgestaltung des Karl-Marx-Platzes anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Rücknahme der Reinigungsklasse Prierosser Straße - in der BVV abgelehnt
+- TOP 5.30: Schulwegsicherung Peter-Petersen-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Verlegung Taxistand von der Waltersdorfer Chaussee - (offen)
+- TOP 5.32: Pop-up-Radwege für Neukölln - (offen)
+- TOP 5.33: PopUp-Radweg Blaschkoallee - (offen)
+- TOP 5.34: Fahrradstreifen/ Fußgängerstreifen in der Wildenbruchstaße auf dem Bürgersteig ändern! - in der BVV abgelehnt
+- TOP 5.35: Bürgersteig auf der nördlichen Seite der Blaschkoallee sanieren! - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Gehwegparken im Grüner Weg zulassen - in der BVV abgelehnt
+- TOP 5.37: Mund-Nasen-Schutzpflicht an Neuköllner Schulen abschaffen - in der BVV abgelehnt
+- TOP 5.38: Neukölln – Der Platz für Kinderrechte! - (offen)
+- TOP 5.39: Künstlern Auftritte ermöglichen! - (offen)
+- TOP 5.40: Termine in den Bürgerämtern - (offen)
+- TOP 5.41: Ausbildungskapazitäten im Bezirk ausweiten - (offen)
+- TOP 5.42: Arbeit der Neuköllner Gleichstellungsbeauftragten absichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.43: Fassadenreinigung für Kinderprojekt Reuterplatz durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 5.44: Testvolumen für SARS-CoV-2 massiv ausweiten - in der BVV abgelehnt
+- TOP 5.45: Öffentlichen Gesundheitsdienst besser auf epidemische Lagen vorbereiten und auch langfristig nach der Pandemie strukturell stärken - ohne Änderungen in der BVV beschlossen
+- TOP 5.46: Intensivbetten für Phantompatienten in einer Phantom-Pandemie - in der BVV abgelehnt
+- TOP 5.47: Bezirkliche Wochen für Rückkehrer - in der BVV abgelehnt
+- TOP 5.48: Microhubs am Karstadt Hermannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 5.49: Vorkauf im Kauffall Heimstaden wahrnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 5.50: Gewaltprävention in Neukölln - (offen)
+- TOP 5.51: Klimaschutzbeauftragten - (offen)
+- TOP 5.52: Pflegekonzepte für Stillgewässer und deren Umgebung - (offen)
+- TOP 5.53: Radschnellverbindung „Y-Trasse“ für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (Rudower Krokusstraße als Fahrradstraße ausweisen) - ohne Änderungen in der BVV beschlossen
+- TOP 5.54: Absolutes Halteverbot in der Stubenrauchstraße verlegen - in der BVV abgelehnt
+- TOP 5.55: Mehr Platz für Kinder in der Delbrückstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.56: Verkehrssicherheit am Kinderspielplatz Walkenrieder Straße Ecke Germaniapromenade - ohne Änderungen in der BVV beschlossen
+- TOP 5.57: Gasbetriebene Heizpilze/Terrassenheizer zulassen - (offen)
+- TOP 5.58: Busspur Waltersdorfer Chaussee I - ohne Änderungen in der BVV beschlossen
+- TOP 5.59: Einwohner*innenantrag: Pop-up-Radweg auf der Hermannstraße - (offen)
+- TOP 5.60: Micro-Hubs für den kleinräumigen Lieferverkehr („letzte Meile“) - ohne Änderungen in der BVV beschlossen
+- TOP 5.61: Kreuzung Treptower Straße/Weserstraße für Fußgänger*innen sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.62: Querungshilfe Stubenrauchstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.63: Kleinfahrzeuge gehören nicht auf den Gehweg - ohne Änderungen in der BVV beschlossen
+- TOP 5.64: Sicherheit vor Kita Grashüpferchen - ohne Änderungen in der BVV beschlossen
+- TOP 5.65: Zukunftsfesten Hermannplatz gestalten - (offen)
+- TOP 5.66: Karstadt-Standort Hermannplatz weiterentwickeln - ohne Abriss des Hauptgebäudes - in der BVV abgelehnt
+- TOP 5.67: Gerechtigkeit bei der Hauptstadtzulage - ohne Änderungen in der BVV beschlossen
+- TOP 5.68: Kosten der Umbenennung der Wissmannstr. erstatten - (offen)
+- TOP 5.69: „Lampenladen" dimmen - ohne Änderungen in der BVV beschlossen
+- TOP 5.70: Informationen über Beiräte zentralisieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.71: Elsensteg unter Denkmalschutz stellen - in der BVV abgelehnt
+- TOP 5.72: Obdachlose im Bezirk nicht vergessen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.73: Kinder- und Jugendarbeit sowie Schule in Buckow ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 5.74: Bereitstellung von Sachmitteln für Inklusionskinder - ohne Änderungen in der BVV beschlossen
+- TOP 5.75: Internet für Jung und Alt - ohne Änderungen in der BVV beschlossen
+- TOP 5.76: Gute Arbeit in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 5.77: Urban Gardening am Sasarsteig - ohne Änderungen in der BVV beschlossen
+- TOP 5.78: Fahrrad-Linksabbiegespur auf der Massantebrücke - Radschnellverbindung "Y-Trasse" für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (3) - ohne Änderungen in der BVV beschlossen
+- TOP 5.79: Radspuren auf der Stubenrauchstraße - Radschnellverbindung "Y-Trasse" für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz (4) - ohne Änderungen in der BVV beschlossen
+- TOP 5.80: Anwendung Mietendeckel in Neukölln - (offen)
+- TOP 5.81: Ergebnisse der Lebensmittelkontrollen, aber keine Veröffentlichung - (offen)
+- TOP 5.82: Unterstellt das Bezirksamt den Buckowern Rassismus? - (offen)
+- TOP 5.83: Kostenfreies Essen an Grundschulen während Pandemie – Auch ohne Präsenzunterricht - ohne Änderungen in der BVV beschlossen
