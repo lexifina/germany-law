@@ -1,0 +1,75 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-01-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6178783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6178783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10: Sonstiges
+- TOP 4.1: Plenum
+- TOP 4.1.1.: Anbringen von QR-Codes bei den Tagesordnungs-Aushängen in den Schaukästen
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Sommerstraßen und Parklets im Jahr 2021 - Informationsschreiben
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Abstandsfläche der Nordhaide ertüchtigen
+- TOP 6.1.1.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl und Artmobil 2021 - Sitzungsvorlage Nr. 14-20 / V 18383 – Erhöhung des Zuschusses um 746 € wegen Kostenerhöhung
+- TOP 6.2.1.: (E) Mehr Bürgerbeteiligung bei Stadtteilentwicklungen bzw. -planungen BV-Empfehlung Nr. 14-20 / E 02813 der Bürgervers. des 11. SB vom 18.07.2019 Sitzungsvorlage Nr. 14-20 / V00553
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Bürgerinformation zur Möglichkeit der Online-Einreichung von Vorschlägen zum Stadtbezirksbudget anbieten
+- TOP 7.1.2.: Vorstellung der Planungen zum Busbahnhof Olympiazentrum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Erleichterung beim Distanzunterricht
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: U-Bahn-Station Am Hart - Erstellen eines Fahrradparkkonzeptes zur Vermeidung des Wildwuchses von Fahrradständern sowie Abstellengpässen
+- TOP 7.4.2.: U-Bahn-Station Olympiazentrum - Reinigungsqualität oberirdisch verbessern
+- TOP 7.4.3.: Korbinianstraße - Stellplatzsituation vor der Post verbessern
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Frankfurter Ring - Rahmenplan für das Gewerbeband
+- TOP 8.1.2.: Bauvorhaben – beleuchtete Litfaßsäule an einer Verkehrsstraße: a) Schleißheimer Straße b) Taunusstraße
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 - Entwurf
+- TOP 8.2.2.: Riesenfeldstraße 44 Neubau zweier Mehrfamilienhäuser mit Tiefgarage - Vorbescheid
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Olympiapark - Straßenbenennung Sitzungsvorlage Nr. 20-26 / V 02473 - Beschlussentwurf
+- TOP 8.3.2.: Bewerbung zum REGSAM-Schwerpunktthema INKLUSION ab 2021
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Keferloherstraße / Christoph-von-Gluck-Platz - Aufhebung der Vorfahrtsregelung
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Antrag auf Baumfällungen: a) Frankfurter Ring 5 b) Hufelandstraße 4 c) Knorrstraße 147 d) Ruchsteigerstraße 9
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Saisonale Stadträume 1. Anlass 2. Saisonale Umnutzung von Stadträumen in der städtischen Gesamtkonzeption 3. Saisonale Umnutzung - Beispiele aus anderen Städten 4. Sommerstraßen 5. Parklets 6. Personal- und Sachmittel 7. Behandlung der Anträge .........
+- TOP 9.1.2.: (U) Projektantrag Nationale Stadtentwicklungspolitik Post-Corona-Stadt: "Parkmeilen - Gemeinsam multicodierbare Freiräume entwickeln"
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.2.: (U) Haushalt 2021 des Mobilitätsreferats • Produkte • Teilergebnis- und Teilfinanzhaushalt • Investitionen
+- TOP 9.4.3.: (U) Bebauungsplan mit Grünordnung Nr. 1989 Heidemannstraße (südlich), Maria-Probst-Straße (westlich), Helene-Wessel-Bogen (nördlich), Spitzer-, Kollwitz- und Paracelsusstraße (östlich) - Ehemalige Bayernkaserne - Widmungsfähiger Teilausbau der inneren Erschließungsstraßen (Baustraßen) mit Anschluss des Neubaugebietes im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Kostenobergrenze): 18.800.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2020 - 2024
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: Olympiapark - Information über Gehölzpflegemaßnahmen ab dem 11.01.2021
