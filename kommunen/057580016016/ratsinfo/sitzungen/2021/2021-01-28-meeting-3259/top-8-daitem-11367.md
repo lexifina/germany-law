@@ -1,0 +1,9 @@
+# TOP 8.: Zuständigkeitsordnung
+
+- Sitzung: Haupt- und Finanzausschuss (1. /2021) (2021-01-28)
+- Körperschaft: Gemeinde Hiddenhausen
+- Öffentlich: ja
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/11367
+- Ergebnis: Beschlussfassung: EinstimmigDer Bürgermeister nimmt an der Beschlussfassung nicht teil. 
+- Beratung: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2732
+- Beschluss (Datei): Beschlusstext (Zuständigkeitsordnung) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWIM7sA4zIvwsATJ9hXey-fVtxpnH-mKU1PhbNY6M_J7/Beschlusstext_VL-4-2021_-oeffentlich-_Haupt-_und_Finanzausschuss_28.01.2021.pdf
