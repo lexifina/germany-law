@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln"
+
+- Sitzung: 1. Sitzung des Stadtentwicklungsausschusses (2021-01-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/312186
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/142624
