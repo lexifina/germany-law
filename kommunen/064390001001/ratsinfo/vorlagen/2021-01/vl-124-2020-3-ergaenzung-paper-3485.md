@@ -1,0 +1,22 @@
+# Bauhof - Alternativer Standort/Gebäude Kistenschreinerei Gelände AS Group
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-124/2020 3. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2021-01-28
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdztcoBn2CdS2_hDsDOgD1k
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/3485
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Bauhof - Alternativer Standort/Gebäude Kistenschreinerei Gelände AS Group) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBncTG-oVjhr-ZoYKHNbuiyoX5D2rdpFP7BQbHgHfZZ/Beschlussvorlage_Ausschuss_HFA_VL-124-2020_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Fläche_Kistenschreinerei_03) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIulQjwfLUJ0XVzZyzezjCirfFgc-j7E6vz8NAZ8fFP/Flaeche_Kistenschreinerei_03.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Fläche_Kistenschreinerei_02) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZczf1nnzhOc_gCAPldtU_CszcIpRYB5T3xa_G602PPij/Flaeche_Kistenschreinerei_02.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Fläche_Kistenschreinerei_01) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQst6geHTn0kcwCks-appj1ylwChYSETfaMUgyf-DDmq/Flaeche_Kistenschreinerei_01.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_105909) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRH5UZGf3aFZgJ3ANlFEWi7u6HhQ8PAMzkoSIxQn0Gwo/IMG_20200903_105909.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_105923) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWBXoBMdEK0jd7rrDKSs2vBrrJoJ_PkF4w0H0xQ4Qc4L/IMG_20200903_105923.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_110027) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRmr4Rt8qC5AqlJGXz7cUBMLvQKIGQ2Sl6QIH_CugHwO/IMG_20200903_110027.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_110052) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ9Cg9SYKuIva4AsZ20qLC5GZHRpyauoDmxbcazLWXHY/IMG_20200903_110052.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_110112) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTMh69BnPj6EEr8FRImPX9f--wVlaxxt8pElp1zKZOs2/IMG_20200903_110112.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (IMG_20200903_110409) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeyKwlqxKAkXeZAXDgm4U40shABlFOeB0dPH741Rl4iz/IMG_20200903_110409.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Luftbild_Fläche_3m_Abstand) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ_W-Pqn8-ABMmzOM2GSPUj56oPDJfudtPmSOqF51JGt/Luftbild_Flaeche_3m_Abstand.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1447 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-5
