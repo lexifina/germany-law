@@ -1,0 +1,54 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2021-01-28T17:00:00+01:00
+- Ende: 2021-01-28T19:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5374
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5374
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00188652.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00188652.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00188652.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer weiteren Vertretung der Schriftführung für die Sitzungen des Ausschusses für Finanzen, Beteiligungen und Wirtschaft - Einstimmiger Beschluss
+- TOP 2: Niederschrift über die 1. Sitzung des Ausschusses für Finanzen, Beteiligungen und Wirtschaft vom 02.12..2020 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 3: Beteiligung der NEW Kommunalholding GmbH über die NEW AG an der NEW Netz GmbH - Einstimmiger Beschluss
+- TOP 4: Einlage von städtischen Grundstücken in die Kreisbau AG - Einstimmiger Beschluss
+- TOP 5: Einlage von städtischen Grundstücken in die GWSG - Einstimmiger Beschluss
+- TOP 6: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH; hier: Verkauf der Beschäftigungs- und Qualifizierungs-GmbH - Einstimmiger Beschluss
+- TOP 7: Beteiligung der NEW AG über NEW NiederrheinWasser GmbH an der WLN Wasserlabor Niederrhein GmbH - Einstimmiger Beschluss
+- TOP 8: Entwurf des Haushaltes 2021/2022; Haushaltssatzung einschließlich HSP - Mit Stimmenmehrheit beschlossen
+- TOP 8.1: Stellenplan 2021/2022 - Mit Stimmenmehrheit beschlossen
+- TOP 8.2: Fortschreibung der Investitionsplanung der Feuerwehr 2021-2025 - Einstimmiger Beschluss
+- TOP 8.3: Kindergartenbedarfsplanung für das Kindergartenjahr 2021/2022 - Einstimmiger Beschluss
+- TOP 8.4: Leistungsvereinbarung mit dem Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle - Einstimmiger Beschluss
+- TOP 8.5: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. - Einstimmiger Beschluss
+- TOP 8.6: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege über die soziale Betreuung von Geflüchteten - Mit Stimmenmehrheit beschlossen
+- TOP 8.7: Haushalt - Maßnahmen zum Schutz des Bürgers I - LKW-Durchfahrverbote - Mit Stimmenmehrheit abgelehnt
+- TOP 8.8: Haushalt - Maßnahmen zum Schutz des Bürgers Teil II Radwege - Mit Stimmenmehrheit abgelehnt
+- TOP 8.9: Haushaltsjahrverkürzung auf ein Jahr - Mit Stimmenmehrheit abgelehnt
+- TOP 8.10: Prüfauftrag - Kostenermittlung für ein Bürgersteig- und Wegeprogramm - Vom Antragsteller zurückgezogen
+- TOP 8.11: Prüfauftrag – Kostenermittlung für den stadtweiten Ausbau von öffentlichen Sanitäreinrichtungen - Vom Antragsteller zurückgezogen
+- TOP 8.12: Kostenermittlung für pandemiegerechte Umbaumaßnahmen - Vom Antragsteller zurückgezogen
+- TOP 8.13: Fortbildungsmaßnahmen Integration - Mit Stimmenmehrheit abgelehnt
+- TOP 8.14: Unterbringung Geflüchteter - Mit Stimmenmehrheit abgelehnt
+- TOP 8.15: Sprachkurse für Geflüchtete mit angeschlossener Kinderbetreuung - Mit Stimmenmehrheit abgelehnt
+- TOP 8.16: Beitrag zum Haushaltsplanentwurf 2021/2022: Investitionen in Bildung - Chancen für alle – Bildung neu denken - Mit Stimmenmehrheit abgelehnt
+- TOP 8.16.1: Antrag zum TOP „Haushaltsplanentwurf 2021/2022“: Investitionen in Bildung - Chancen für alle – Bildung neu denken | Ergänzungsan-trag - Mit Stimmenmehrheit abgelehnt
+- TOP 8.17: Antrag zum TOP „Haushaltsplanentwurf 2021/2022“: - Mit Stimmenmehrheit abgelehnt
+- TOP 8.18: Antrag zum TOP „Haushaltsplanentwurf 2021/2022“: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren | Aufbau einer Handels- und Dienstleistungsplattform für Mönchengladbach | Warenhaus Mön-chengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 8.19: Entwurf Haushalt 2021-2022; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Haushaltssanierungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 8.20: Entwurf des Haushaltes 2021-2022; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Haushaltssanierungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 9: Bereitstellung überplanmäßiger Haushaltsmittel 2020 zum Zweck der Zuführung der Integrationspauschale in eine Verbindlichkeit - Einstimmiger Beschluss
+- TOP 10: Bereitstellung außerplanmäßiger Haushaltsmittel 2020 zur Begleichung des Öffentlichkeitsanteil Straßen und der Gebühren Friedhöfe an die mags - Einstimmiger Beschluss
+- TOP 11: Bereitstellung überplanmäßiger Haushaltsmittel 2020 im Bereich "Wirtschaftliche Jugendhilfe, Kostenerstattung an Gemeinden" - Einstimmiger Beschluss
+- TOP 12: Bereitstellung außerplanmäßiger Haushaltsmittel 2020 für den Rechnungsausgleich mit der Stadt Jüchen zum RegioPark 3000 für den Zeitraum 01.06.2020 – 30.11.2020 - Einstimmiger Beschluss
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (4.Nachweisung) - Kenntnisnahme
+- TOP 14: Jahresbericht 2020 über das Kreditportfolio der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 15: Änderung der Richtlinie über die Zahlung von Geldleistungen an Tagespflegepersonen gemäß § 23 SGB VIII - Einstimmiger Beschluss
+- TOP 16: Anfragen und Mitteilungen
