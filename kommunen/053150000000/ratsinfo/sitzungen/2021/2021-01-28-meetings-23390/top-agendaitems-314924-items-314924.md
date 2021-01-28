@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der FDP-Fraktion
+
+- Sitzung: 1. Sitzung des Stadtentwicklungsausschusses (2021-01-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/314924
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/149010
