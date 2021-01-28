@@ -1,0 +1,58 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-01-28T17:00:00+01:00
+- Ende: 2021-01-28T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5510
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5510
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00139434.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00139434.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00139434.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohnerfragestunde - abgesetzt
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Neuaufstellung des Flächennutzungsplanes für die Stadt Neuss: - mehrheitlich zugestimmt
+- TOP 5: Mobilitätsentwicklungskonzept: Entsendung von Teilnehmern an einen projektbegleitenden Arbeitskreis - mehrheitlich zugestimmt
+- TOP 6: Waldstraße: Verlagerung des Gehweges und der Haltestelle "Waldstraße" - abgesetzt
+- TOP 7: Errichtung einer Schulbushaltestelle in der Fesserstraße in Höhe der Gesamtschule Nordstadt - mehrheitlich zugestimmt
+- TOP 8: Leostraße zwischen Frankenstraße und Weißenberger Weg: Umgestaltung nach Kanalbaumaßnahmen sowie Erschließung des Alexander-Bederov-Zentrum - mehrheitlich zugestimmt
+- TOP 9: Bestätigung des Verkehrsversuchs "Engstelle" Kapellener Straße - vertagt
+- TOP 10: Neuausrichtung und Zusammensetzung des Beirats zum Innenstadtstärkungsprogramm - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 11: Beschluss über die Haushaltsaufstellung des Dezernates 6 für den Bereich Planung, Bauen und Verkehr für das Jahr 2021 - mehrheitlich zugestimmt
+- TOP 12: Bestellung eines Ausschussmitgliedes, das neben dem Ausschussvorsitzenden und dem Schriftführer die Niederschrift über die Sitzung des Ausschusses unterzeichnet sowie eines Stellvertreters/einer Stellvertreterin dieses Ausschussmitgliedes - abgesetzt
+- TOP -: Anträge
+- TOP 13: Antrag der CDU-Fraktion betr.: Neubau der Fleher Brücke - nicht beraten aufgrund Sitzungsausfall
+- TOP 14: Antrag der CDU-Fraktion betr.: Neue Entwicklungschancen für den Wendersplatz - nicht beraten aufgrund Sitzungsausfall
+- TOP 15: Antrag der CDU-Fraktion betr.: Einsatz von Dialog-Displays verstärken - nicht beraten aufgrund Sitzungsausfall
+- TOP 16: Antrag der CDU-Fraktion betr.: Fahrgemeinschaften fördern - Umwelt und Straßen entlasten - nicht beraten aufgrund Sitzungsausfall
+- TOP 17: Antrag der CDU-Fraktion betr.: Schulwege zur Grundschule Allerheiligen sicherer machen - nicht beraten aufgrund Sitzungsausfall
+- TOP 18: Antrag der CDU-Fraktion betr.: Verkehrsberuhigung auf der Pomona - nicht beraten aufgrund Sitzungsausfall
+- TOP 19: Antrag der CDU-Fraktion betr.: Eselspfad und Erftradweg verknüpfen - einen Radweg durch ganz Neuss schaffen - nicht beraten aufgrund Sitzungsausfall
+- TOP 20: Antrag der CDU-Fraktion betr.: Verkehrssicherheit der Kreuzung B9/Blankenwasser erhöhen - nicht beraten aufgrund Sitzungsausfall
+- TOP 21: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Prüfung einer E-Citybuslinie - nicht beraten aufgrund Sitzungsausfall
+- TOP 22: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Wettbewerbsverfahren Wendersplatz - nicht beraten aufgrund Sitzungsausfall
+- TOP 23: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Erste Schritte zur autoreduzierten Innenstadt in Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 24: Antrag der Fraktionen von SPD/Bündnis 90/Die Grünen/UWG/Aktiv für Neuss betr.: - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 25: Mitteilung über Dringlichkeitsentscheidung-Nr. 16: Neusser Grünflächen und Parks als Standortfaktoren - Auftrag zur Durchführung einer Machbarkeitsstudie zur Bewerbung für die Landesgartenschau 2026 - zur Kenntnis genommen
+- TOP 26: Mitteilung über Dringlichkeitsentscheidung-Nr. 9: Verlängerung der aktuellen Regelung zur Parkraumbewirtschaftung im öffentlichen Raum und in den Parkbauten der CityParkhaus GmbH aufgrund der Corona-Lage bis zum 31.12.2021Parken in der Innenstadt - zur Kenntnis genommen
+- TOP 27: Bebauungsplan Nr. 473, Hoisten, Schluchenhausstraße – Sachstand - zur Kenntnis genommen
+- TOP 28: Gestaltungskonzept Ortsmittelpunkte Neusser Süden - zur Kenntnis genommen
+- TOP 29: Kommunikations- und Wettbewerbsverfahren Wendersplatz, Sachstand - zur Kenntnis genommen
+- TOP 30: Gestaltungsbeirat der Stadt Neuss - zur Kenntnis genommen
+- TOP 31: Änderung Regionalplan Düsseldorf - Ehemaliges Pierburg-Gelände - zur Kenntnis genommen
+- TOP 32: Fleher Brücke - Sachstand - zur Kenntnis genommen
+- TOP 33: Einwohnerfragestunde
