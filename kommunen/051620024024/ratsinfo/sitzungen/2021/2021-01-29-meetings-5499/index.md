@@ -1,0 +1,84 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-01-29T16:00:00+01:00
+- Ende: 2021-01-29T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5499
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5499
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00139263.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestellung der Schriftführung für den Hauptausschuss der Stadt Neuss - einstimmig zugestimmt
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 6: Einwohnerfragestunde
+- TOP -: Wahlprüfungsausschuss
+- TOP 7: Gültigkeit der Wahl zum Bürgermeister am 13. September 2020 - einstimmig zugestimmt
+- TOP 8: Gültigkeit der Wahl zum Rat der Stadt Neuss am 13. September 2020 - einstimmig zugestimmt
+- TOP 9: Gültigkeit der Wahl zum Integrationsausschuss am 13. September 2020 - einstimmig zugestimmt
+- TOP -: Hauptausschuss
+- TOP 10: Bildung und Besetzung des Komitees für Partnerschaften und internationale Beziehungen - einstimmig zugestimmt
+- TOP 11: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad - einstimmig zugestimmt
+- TOP 12: Standentgelt Krammärkte - einstimmig zugestimmt
+- TOP 13: Anpassung der Marktentgeltordnung - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 14: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2021 - einstimmig zugestimmt
+- TOP 15: Benennung des Prüfers für den Jahresabschluss der Liegenschaften und Vermessung Neuss (LVN) zum 31.12.2020 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klima
+- TOP 16: Benennung der Mitglieder für die Baumkommission - mehrheitlich zugestimmt
+- TOP 17: Benennung der Mitglieder für die Kommission für das Kleingartenwesen - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 18: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses gemäß § 72 Abs. 5 KJHG i. V. m. § 5 Abs. 3 AG-KJHG sowie § 5 der Satzung des Jugendamtes - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 19: Neuausrichtung und Zusammensetzung des Beirats zum Innenstadtstärkungsprogramm - mehrheitlich zugestimmt
+- TOP 20: Neuaufstellung des Flächennutzungsplanes für die Stadt Neuss: - mehrheitlich zugestimmt
+- TOP 21: Mobilitätsentwicklungskonzept: Entsendung von Teilnehmern an einen projektbegleitenden Arbeitskreis - einstimmig zugestimmt
+- TOP 22: Waldstraße: Verlagerung des Gehweges und der Haltestelle "Waldstraße" - abgesetzt
+- TOP 23: Errichtung einer Schulbushaltestelle in der Fesserstraße in Höhe der Gesamtschule Nordstadt - einstimmig zugestimmt
+- TOP 24: Leostraße zwischen Frankenstraße und Weißenberger Weg: Umgestaltung nach Kanalbaumaßnahmen sowie Erschließung des Alexander-Bederov-Zentrum - einstimmig zugestimmt
+- TOP -: Beschlussfassungen des Rates
+- TOP 25: Bezirksausschüsse und deren Besetzung - mehrheitlich zugestimmt
+- TOP 26: Integriertes Klimaschutzkonzept der Stadt Neuss 2035 - mehrheitlich zugestimmt
+- TOP 27: Jahresabschluss 2019 - einstimmig zugestimmt
+- TOP 28: Jahresabschluss zum 31.12.2019 sowie Lagebericht für das Wirtschaftsjahr 2019 des Gebäudemanagements der Stadt Neuss (GMN) - einstimmig zugestimmt
+- TOP 29: Ausscheiden der Stadt Neuss aus dem Verband der kommunalen RWE-Aktionäre GmbH (VkA) - einstimmig zugestimmt
+- TOP 30: Spielraumplanung: Grundsatzbeschluss inkl. Ausbauplanung Neuanlage "An der Villa Sophia/Vellbrüggener Straße (Norf)" - einstimmig zugestimmt
+- TOP 31: Wahl einer/eines Hansebeauftragten der Stadt Neuss - einstimmig zugestimmt
+- TOP 32: Nutzungsordnung für den Kinderbauernhof - mehrheitlich zugestimmt
+- TOP 33: Benutzungsordnung für die Räume des Alten Rathauses Norf - einstimmig zugestimmt
+- TOP 34: Hauptversammlung Deutscher Städtetag 2021 - einstimmig zugestimmt
+- TOP 35: Wirtschaftsplan 2021 für die die Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 36: Elternbeiträge Kita, Kindertagespflege sowie OGS für Januar 2021 - einstimmig zugestimmt
+- TOP 37: Genehmigung der Dringlichkeitsentscheidung Nr. 8: Neufestsetzung der Gebühren für den Rettungsdienst Stadt Neuss ab 2021 - einstimmig zugestimmt
+- TOP 38: Genehmigung der Dringlichkeitsentscheidung Nr. 9: Verlängerung der aktuellen Regelungen zur Parkraumbewirtschaftung im öffentlichen Raum und in den Parkbauten der CityParkhaus GmbH aufgrund der Corona-Lage bis zum 31.12.2021 - einstimmig zugestimmt
+- TOP 39: Genehmigung der Dringlichkeitsentscheidung Nr. 10: Sanierung der Ringerhalle am Nordparkbad - einstimmig zugestimmt
+- TOP 40: Genehmigung der Dringlichkeitsentscheidung Nr. 11: Verleihung des Heimat-Preises 2020 - einstimmig zugestimmt
+- TOP 41: Genehmigung der Dringlichkeitsentscheidung Nr. 16: Neusser Grünflächen und Parks als Standortfaktoren - Auftrag zur Durchführung einer Machbarkeitsstudie zur Bewerbung für die Landesgartenschau 2026 - mehrheitlich zugestimmt
+- TOP 42: Genehmigung der Dringlichkeitsentscheidung Nr. 17: Aufrechterhaltung der Arbeitsfähigkeit der Organe der städtischen Beteiligungen während der Corona-Pandemie - einstimmig zugestimmt
+- TOP 43: Genehmigung der Dringlichkeitsentscheidung Nr. 18: Vertretung der Stadt Neuss in Drittgremien - einstimmig abgelehnt
+- TOP -: Anträge
+- TOP 44: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Gänsemanagement in Neuss - mehrheitlich abgelehnt
+- TOP 45: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Einberufung einer Versammlung der Schülersprecher*innen der weiterführenden Neusser Schulen - verwiesen
+- TOP 46: Antrag der CDU-Fraktion betr.: Beleuchtung des Parkplatzes an der KiTa Entdeckerland - verwiesen
+- TOP 47: Antrag der CDU-Fraktion betr.: Förderprogramm "Städtische Logistik" des Bundesministeriums für Verkehr und digitale Infrastruktur nutzen - Micro-Hub realisieren - verwiesen
+- TOP 48: Antrag der CDU-Fraktion betr.: Verzicht auf die Erhebung von Elternbeiträgen für Kita, Tagespflege und OGS für Januar 2021 - zur Kenntnis genommen
+- TOP 49: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Offensive für den bezahlbaren Wohnraum - mehrheitlich zugestimmt
+- TOP 50: Antrag der CDU-Fraktion betr.: Nach Edeka-Schließung: Einkaufsmöglichkeit in der Innenstadt muss bleiben
+- TOP 51: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Schuldnerberatung stärken - verwiesen
+- TOP 52: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: "WiFi4EU" - Berichterstattung
+- TOP 53: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Container an der Breslauer Straße
+- TOP -: Anfragen
+- TOP 53.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 54: Gänsemanagement Alter Stadtgarten / Neuer Stadtgarten und Rosengarten - zur Kenntnis genommen
+- TOP 55: Vorstellung des Beauftragten für Diversität und Integration - zur Kenntnis genommen
+- TOP -: Einwohnerfragestunde
