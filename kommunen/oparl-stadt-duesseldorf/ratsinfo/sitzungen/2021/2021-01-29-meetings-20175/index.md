@@ -1,0 +1,63 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-01-29T14:00:00+01:00
+- Ende: 2021-01-29T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20175
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20175
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00397742.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 13.11.2020
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 04.12.2020
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Machbarkeitsstudie zur Umgestaltung des Umfelds des Deportations-Mahnmals in der Marc-Chagall-Straße
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Bauanträge Ulmenstraße 99 a-e, 91 a-c sowie Metzer Straße 54-72 - Neubau von Bürogebäuden mit einer Tiefgarage und Errichtung von 10 Wohnhäusern sowie eines Studentenwohnheims
+- TOP 5.5: Errichtung von sieben Mobilstationen im Rahmen des Förderprojekts „Emissionsfreie Innenstadt Düsseldorf“ bis Mitte 2022
+- TOP 5.6: Fischmärkte auf dem Tonhallenufer im Jahre 2021
+- TOP 5.7: Wohngebiet rund um den Golzheimer Platz - Einrichtung eines Bewohnerparkgebietes
+- TOP 5.8: Wohngebiet südlich des Reeser Platzes- Einrichtung eines Bewohnerparkgebietes
+- TOP 5.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Kunststoffverschmutzung im Hofgarten durch Hochzeitsgäste - Anfrage der CDU-Fraktion
+- TOP 6.2: Baumschilder - Anfrage der CDU-Fraktion
+- TOP 6.3: Konsequente Fortführung der Fußgängerzone Robert-Lehr-Ufer und deren Schutz vor unbefugtem Autoverkehr – Rückfrage zur Antwort der Verwaltung BV1/288/2020 - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 6.4: Parkplätze auf der Eulerstraße - Anfrage der SPD-Fraktion
+- TOP 7: Anfragen
+- TOP 7.1: Radweg Bagelstraße - Anfrage der FDP-Fraktion
+- TOP 7.2: Sachstand S-Bahnhof Werhahn Zugang Grafenberger Allee, Nutzung ehemaliger Imbiss und öffentliche Toiletten - Anfrage Andrea Kraljic, Vertrerin AfD
+- TOP 7.3: Anzahl neuer Wohnungen im Stadtbezirk 1 - Anfrage Peter Klein, Vertreter DIE LINKE
+- TOP 7.4: Lärmbelästigung durch „Raser“ auf der Prinz-Georg-Straße - Anfrage Peter Klein, Vertreter DIE LINKE
+- TOP 7.5: Hölzerne Ententreppe in den neu gestalteten Düsselbett-Stufen zum Weiher im Hofgarten auf Höhe des Kö-Bogens - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.6: Düsseldorfer Fahrradhäuschen - Anfrage der Fraktion Bündnis90/DieGrünen
+- TOP 7.7: Leerstand der Wohnhäuser Bismarckstraße 87 und 89 - Anfrage Jan Christoph Gail, Vertreter der Fraktion Bündnis90/Die Grünen
+- TOP 7.8: Airbnb-Nutzung - Anfrage Andreas Schendel, Vertreter der CDU-Fraktion
+- TOP 7.9: Standort des Zentrum Plus für die Innenstadt - Anfrage Sabine Schmidt, Vertreterin der CDU-Fraktion
+- TOP 7.10: Liegenschaft Akademiestr. 2 - Anfrage Sabine Schmidt, Vertreterin der CDU-Fraktion
+- TOP 7.11: „Doppeltes Geländer“ am Robert-Lehr-Ufer (Nähe Theodor-Heuss-Brücke) - Anfrage der CDU-Fraktion
+- TOP 7.12: Verkehrsregelung Heinrich-Heine-Allee von der Ratinger Straße bis zum Heinrich-Heine-Platz - Anfrage der CDU-Fraktion
+- TOP 8: Anträge
+- TOP 8.1: Parken und Halten auf nördlicher Königsallee/ Corneliusplatz - Antrag der CDU-Fraktion
+- TOP 8.2: Prüfantrag: Erneuerung bzw. Reparatur des Oberflächenbelages auf der Behelfsbrücke über den Kennedydamm - Antrag der CDU-Fraktion
+- TOP 8.3: Erneuerung bzw. Reparatur des Oberflächenbelages an der Kaiserwerther Str. 156-122 Stadteinwärts - Antrag der CDU-Fraktion
+- TOP 8.4: Instandsetzung Bürgersteig Vagedesstraße - Antrag der SPD-Fraktion
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilung der Verwaltung
+- TOP 9.2: Geschwindigkeitskontrolle auf der Mühlenstraße; Beschluss der Bezirksvertretung 1 vom 04.12.2020; Beschluss Nr. BV1/311/2020
+- TOP 9.3: Baumfällungen aus Verkehrssicherungsgründen
+- TOP 9.4: Haushaltsantrag: Überplanung der Nordstraße, Beschluss der Bezirksvertretung 1 vom 04.12.2020; BV1/328/2020
+- TOP 9.5: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2021
+- TOP 9.6: Planungen für die Tuchtinsel, Beschluss der Bezirksvertretung 1 vom 04.12.2020, BV1/310/2020
+- TOP 9.7: Vorstellung der geplanten Straßenarbeiten im Bereich Rheinbabenstraße in der nächsten Sitzung der BV 1 am 29.01.2021, Beschluss der Bezirksvertretung 1 vom 04.12.2020; BV1/324/2020
+- TOP 10: Verfügungsmittel der Bezirksverwaltungsstelle 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss zu "Raumkonzert an der Heinrich-Heine-Passage"
+- TOP 11: Verschiedenes
