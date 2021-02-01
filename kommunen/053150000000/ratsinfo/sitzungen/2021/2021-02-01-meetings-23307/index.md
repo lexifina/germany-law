@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-01T17:00:00+01:00
+- Ende: 2021-02-01T00:00:00+01:00
+- Ort: DIE SITZUNG WURDE ABGESAGT !!!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23307
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23307
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Querungshilfe Buchheimer Ring
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tempo 30 Bergisch Gladbacher Straße - zurückgestellt
+- TOP 7.1.2: Messung des Verkehrsaufkommens in Mülheim - zurückgestellt
+- TOP 7.1.3: Anfrage des Einzelmandatsträgers Hengstenberg (AfD) betreffend Mülheimer Selbsthilfe Teestube e. V. vom 24.11.2020 (AN/1371/2020) - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Beginn der Umgestaltungsmaßnahme Dellbrücker Marktplatz - zurückgestellt
+- TOP 7.2.2: Überflutung des Innenbereichs der Sitzgruppen am Wiener Platz - zurückgestellt
+- TOP 7.2.3: Beschluss über die Aufstellung einer Sozialen Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet Mülheim Süd-West - zurückgestellt
+- TOP 7.2.3.1: Bezug: Anfrage der Fraktion DIE LINKE in der Bezirksvertretung Mülheim - zurückgestellt
+- TOP 7.2.4: Öffentliche Toiletten in den Stadteilen des Bezirks Mülheim - zurückgestellt
+- TOP 7.2.5: Bildungsgerechtigkeit im Stadtbezirk Mülheim stärken! - zurückgestellt
+- TOP 7.2.6: Straßenarbeiten auf dem „Herler Platz“ - zurückgestellt
+- TOP 7.2.7: Schutzkonzept für den Waldstreifen zwischen Zeisbuschweg, Steinbücheler Weg und dem Fußweg an dem Straßenbahnhalt Leuchterstr. - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Tempo 30 Bergisch Gladbacher Straße - zurückgestellt
+- TOP 8.1.2: Tempo 30 in Stammheim - zurückgestellt
+- TOP 8.1.3: öffentliche Beachvolleyball-Felder für Mülheim - zurückgestellt
+- TOP 8.1.4: Rennstrecke am Ortseingang, Dünnwalder Kommunalweg entschärfen - zurückgestellt
+- TOP 8.1.5: Fahrgastunterstand und Beleuchtung der Haltestelle Flittard Süd in die Prioritätenliste aufnehmen - zurückgestellt
+- TOP 8.1.6: Instandsetzung des Fußweges auf dem Damm des Mülheimer Hafens zwischen Jugendzentrum und Katzenbuckel - zurückgestellt
+- TOP 8.1.7: Aufstellen von Sitzbänken und Mülleimern im Bereich des kleinen Platzes / Lohmühlenstraße 18 und 20 in Köln Mülheim - zurückgestellt
+- TOP 8.1.8: Überprüfung und Instandsetzung des beidseitigen Fahrradweges im Bereich des Hauptzollamtes Köln- Dellbrück Bergisch Gladbacher Straße 837 - zurückgestellt
+- TOP 8.1.9: Umstellung der Ampelanlage für Fußgänger*innen und Fahrradfahrer*innen am McDonald Restaurant in Köln – Buchheim / Frankfurter Straße 236 - zurückgestellt
+- TOP 8.1.10: Erhöhung der Verkehrssicherheit Damaschkestraße / Kaspar-Düppes-Straße in Köln-Holweide - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung eines Platzes im Geltungsbereich des Bebauungsplanes Schanzenstraße Nord in Köln-Mülheim - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - zurückgestellt
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf mit der Nummer 74490/07 Arbeitstitel: Wasserwerkstraße in Köln Dellbrück - zurückgestellt
+- TOP 9.2.3: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2019 - zurückgestellt
+- TOP 10.2.5: Odenthaler Straße in Köln-Dünnwald - zurückgestellt
+- TOP 10.2.6: Änderungen zum Fahrplanwechsel 2020 - zurückgestellt
+- TOP 10.2.7: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 10.2.8: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 10.2.9: Gemeinschaftsprojekt „Hecken und Säume“ - zurückgestellt
+- TOP 10.2.10: Mobile Handwasch-Station Wohnheim Mündelstraße - zurückgestellt
+- TOP 10.2.11: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - zurückgestellt
+- TOP 10.2.12: Betreff: Entwicklung des Areals Keup-/Schanzenstraße; Beschluss der BV Mülheim vom 07.12.2020 - zurückgestellt
+- TOP 10.2.13: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - zurückgestellt
+- TOP 10.2.14: Mooswände zur Reduzierung der Luftschadstoffbelastung - zurückgestellt
+- TOP 10.2.15: Ehrenamtspreis "KölnEngagiert 2021" - zurückgestellt
+- TOP 10.3: Bemerkungen zur Niederschrift
