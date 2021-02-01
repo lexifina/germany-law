@@ -1,0 +1,1 @@
+Auf Grund des Art. 4 Abs. 1 Satz 3 der Verwaltungsgemeinschaftsordnung (BayRS 2020-2-1-I), geändert durch § 2 des Gesetzes vom 10. Juni 1994 (GVBl S. 426) erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
