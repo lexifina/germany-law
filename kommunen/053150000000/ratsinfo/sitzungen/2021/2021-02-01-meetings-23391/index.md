@@ -1,0 +1,80 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-01T14:40:00+01:00
+- Ende: 2021-02-01T15:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23391
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23391
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohnerinnen und Einwohner
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Sicherung, Weiterentwicklung und Neuaufstellung der lit.COLOGNE 2021 - Kenntnis genommen
+- TOP 2.3: 30. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.11.2020 - Kenntnis genommen
+- TOP 2.5: Sachstand zum Vergabeverfahren für den Stromliefervertrag - zur mündlichen Anfrage von RM Breite vom 7.12.2020 - Kenntnis genommen
+- TOP 2.6: Entsiegelung von Schulhöfen - Verwendung der Mittel aus dem politischen Veränderungsnachweis zum Haushaltsplan 2020/2021 - Kenntnis genommen
+- TOP 2.7: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 2.8: Projekt "Einführung von Nachhaltigkeitshaushalten" - Kenntnis genommen
+- TOP 2.9: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.12.2020, neue Kosten- und Terminprognose - Kenntnis genommen
+- TOP 2.10: Doppelhaushalt 2020/2021 - Rücknahme Konsolidierungsmaßnahmen in den Bereichen Jugend, Sport und Weiterbildung - Kenntnis genommen
+- TOP 2.11: Projektergebnisse „Wirkungsmessung von Digitalisierungsvorhaben – Ein Projekt der Städte Aachen und Köln“ - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Sachstand Bauwerk MiQua - Kenntnis genommen
+- TOP 4.1.1: Sachstand Bauwerk MiQua - zur Anfrage der FDP-Fraktion AN/0109/2021 - Kenntnis genommen
+- TOP 4.2: Kosten für das ungenutzte Kölner Impfzentrum - zurückgestellt
+- TOP 4.3: Beantwortung der Anfrage der FDP-Fraktion betr.: "Kosten für das ungenutzte Kölner Impfzentrum" (AN/0170/2021) - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neugestaltung des Spielplatzes „Trendsportarten Mühlenweg“ im Sozialraum „Bickendorf, Westend und Ossendorf“ - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Einrichtung der Erweiterungsbauten am Gymnasium Nachtigallenstr. 19 - 21 und der Realschule Albert-Schweitzer-Str. 8 sowie eines gemeinsamen Mensagebäudes, 51147 Köln - Porz-Wahn - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 7.3: Baubeschluss für die Umgestaltung der Jesuitengasse im Bereich zwischen Amboßstraße und Schmiedegasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-5-1086, Umgestaltung Jesuitengasse - zurückgestellt
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Stellplatzsatzung für Köln - zurückgestellt
+- TOP 10.1.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - zurückgestellt
+- TOP 10.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. o. Nr. 2, 51143 Köln - Baubeschluss - zurückgestellt
+- TOP 10.3: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - zurückgestellt
+- TOP 10.4: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 10.5: Bewegungs Parcours im Hafenpark Deutz - ungeändert beschlossen
+- TOP 10.6: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 10.7: Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Baubeschluss - ungeändert beschlossen
+- TOP 10.8: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ungeändert beschlossen
+- TOP 10.8.1: Änderungsantrag zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “ - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Machbarkeitsstudie Wiedervernässung Merheimer Bruch - unter Vorbehalt beschlossen
+- TOP 10.10: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan 2021 - ungeändert beschlossen
+- TOP 10.11: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - zurückgestellt
+- TOP 10.12: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten inklusive Interimsbauten für das Gymnasium Kreuzgasse, Vogelsanger Straße 1 - Erweiterter Planungsbeschluss - unter Vorbehalt beschlossen
+- TOP 10.13: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg - Baubeschluss - zurückgestellt
+- TOP 10.14: Eigenbetriebsähnliche Einrichtung Veranstaltungszentrum Köln - Wechsel des Abschlussprüfers - ungeändert beschlossen
+- TOP 10.15: Bedarfsfeststellungsbeschluss für die Beschaffung eines Qualitätsmanagement-Tools für die Kölner Lichtsignalanlagen - ungeändert beschlossen
+- TOP 10.16: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2019 - ungeändert beschlossen
+- TOP 10.17: Verlängerung des Mietvertrages der freifinanzierten Objekte Münsterer Str. 23, 31 und 33 in 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 10.18: Ersatzbeschaffung von Start- und Steganlagen auf der Sport- und Erholungsanlage Fühlinger See - unter Vorbehalt beschlossen
+- TOP 10.19: Stadtklima-/Stadtverschönerungsprogramm 2020 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.20: Förderung von Erwerbslosen- und Arbeitslosenberatungsstellen in Köln in 2021 hier: Förderung der "Beratungsstelle Arbeit" und Sicherung der bestehenden Beratungsstruktur für arbeits- und erwerbslose Personen - ungeändert beschlossen
+- TOP 10.21: Stadtklima-/Stadtverschönerungsprogramm 2020 - Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.22: Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2021 - ungeändert beschlossen
+- TOP 10.23: Stadtklima- und Verschönerungsprogramm 2019 und 2020 im Stadtbezirk Porz - unter Vorbehalt beschlossen
+- TOP 10.24: Zuschuss Rennverein 2021 - ohne Votum in nachfolgende Gremien
+- TOP 10.25: Bedarfsfeststellung zur Beschaffung eines zukunftsorientierten, emissionsarmen Bibliotheksbusses als Ersatz für den bisherigen Bibliotheksbus der Stadtbibliothek - ungeändert beschlossen
+- TOP 10.26: GAG Immobilien AG: Satzungsänderung GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - zurückgestellt
+- TOP 10.27: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: "Erhöhung des Förderetats für interkulturelle Projekte„ sowie „Etatisierung eines Förderbudgets für freie inklusive Kulturarbeit" - ungeändert beschlossen
+- TOP 10.28: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): - ungeändert beschlossen
+- TOP 10.29: Ermöglichung des Tagesaufenthaltes in den Winterhilfeunterkünften inkl. der Essensversorgung - ohne Votum in nachfolgende Gremien
+- TOP 10.30: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH hier: Hänneschen Rosenmontagsumzug - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
