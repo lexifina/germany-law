@@ -1,0 +1,1 @@
+Auf Grund des Art. 80 Abs. 2 der Bayerischen Bauordnung (BayBO) in der Fassung der Bekanntmachung vom 14. August 2007 (GVBl S. 588, BayRS 2132-1-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
