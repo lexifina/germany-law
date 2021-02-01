@@ -1,0 +1,4 @@
+# Nr. 17 Einarbeitungszeit
+(1) Staatsanwälte, die Richter oder Beamte auf Probe sind, legen während einer Einarbeitungszeit nach näherer Anweisung des Behördenleiters die von ihnen bearbeiteten Sachen dem Behördenleiter, einem Hauptabteilungsleiter oder einem Abteilungsleiter oder einem vom Behördenleiter bestimmten Staatsanwalt zur Kenntnisnahme und Billigung vor. Die Vorlagepflicht soll in der Regel nicht weniger als drei und nicht länger als sechs Monate dauern.
+(2) Von der Verpflichtung zur Vorlage kann ganz oder teilweise abgesehen werden, wenn der Staatsanwalt als Richter tätig gewesen ist oder wenn dies nach seinen Leistungen gerechtfertigt ist.
+(3) Die Vorlagepflicht entfällt, wenn die Sache keinen Aufschub duldet und ein von der Vorlagepflicht befreiter Staatsanwalt nicht erreichbar ist.

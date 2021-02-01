@@ -1,0 +1,4 @@
+# Nr. 20 Örtliche Sitzungsvertreter
+(1) Sind nach Maßgabe des Landesrechts örtliche Sitzungsvertreter bestellt, so kann ihnen die Vertretung der Staatsanwaltschaft in der Hauptverhandlung vor dem Richter beim Amtsgericht als Strafrichter oder als Jugendrichter übertragen werden.
+(2) In Jugendsachen darf die Vertretung der Anklage vor dem Richter beim Amtsgericht als Jugendrichter nur solchen örtlichen Sitzungsvertretern übertragen werden, die erzieherisch befähigt und in der Jugenderziehung erfahren sind (§ 37 JGG); die Übertragung bedarf der Zustimmung des Präsidenten des Oberlandesgerichts und des Generalstaatsanwalts.
+(3) In der Hauptverhandlung bedarf der örtliche Sitzungsvertreter der Zustimmung des Staatsanwalts, wenn er Erklärungen, die auf die Einstellung des Verfahrens abzielen (§ 153 Abs. 2, § 153a Abs. 2, § 154 Abs. 2, § 154b Abs. 4 StPO), abgeben, die Klage zurücknehmen oder auf Rechtsmittel verzichten will.

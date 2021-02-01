@@ -1,0 +1,5 @@
+## II. Abschnitt Aufsicht und Leitung
+# Nr. 4 Aufgaben des Behördenleiters
+(1) Der Behördenleiter übt die Dienstaufsicht über alle Angehörigen seiner Behörde aus. Er wirkt in seinem Geschäftsbereich auf die Beachtung der Gesetze sowie der sonstigen Vorschriften und Anordnungen hin. Er sorgt für die sachgemäße und rasche Erledigung und, soweit erforderlich, für eine einheitliche Behandlung der Geschäfte. Zu diesem Zwecke hält er nach Bedarf auch Dienstbesprechungen ab. Geschäftsprüfungen nimmt in angemessenen Zeitabständen insbesondere der Generalstaatsanwalt vor.
+(2) Der Behördenleiter sorgt dafür, dass er über alle bedeutsamen Angelegenheiten, insbesondere über solche, in denen eine Berichtspflicht besteht, unterrichtet wird und dass in diesen Sachen wichtige Maßnahmen nicht ohne seine Kenntnis getroffen werden.
+(3) Die Justizverwaltungssachen, insbesondere die Dienstaufsichtssachen, bearbeitet der Behördenleiter. Er kann die Angehörigen seiner Behörde zur Mitarbeit heranziehen und Beamten einzelne Geschäfte zur selbständigen Erledigung übertragen.

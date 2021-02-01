@@ -1,0 +1,4 @@
+## III. Abschnitt Geschäftsverteilung
+# Nr. 8 Grundsätze
+(1) Für jedes Geschäftsjahr stellt der Behördenleiter nach Beratung mit den Hauptabteilungsleitern und Abteilungsleitern einen Geschäftsverteilungsplan auf. Die Geschäfte werden grundsätzlich nach allgemeinen Gesichtspunkten verteilt. Dabei sind den Abteilungsleitern auch Geschäfte eines Sachbearbeiters zu übertragen, soweit der Umfang ihrer sonstigen Aufgaben dies nicht ausschließt; Hauptabteilungsleitern können nach dieser Maßgabe Geschäfte eines Sachbearbeiters übertragen werden.
+(2) Sind gegen einen Beschuldigten gleichzeitig mehrere Verfahren anhängig, die nach der Geschäftsverteilung zur Zuständigkeit verschiedener Sachbearbeiter gehören, so sollen die Verfahren möglichst in einer Hand vereinigt werden. Der Behördenleiter sorgt durch geeignete Maßnahmen dafür, dass die beteiligten Sachbearbeiter von weiteren gegen denselben Beschuldigten anhängigen Verfahren Kenntnis erhalten.

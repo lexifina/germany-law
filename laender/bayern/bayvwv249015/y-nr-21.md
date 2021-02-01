@@ -1,0 +1,3 @@
+## V. Abschnitt Rechtsbeschwerdeverfahren
+# Nr. 21 Rechtsbeschwerden der Staatsanwaltschaft
+Rechtsbeschwerden der Staatsanwaltschaft, über die nach Art. 11b AGGVG das Oberlandesgericht Bamberg zu entscheiden hat, werden von den Staatsanwaltschaften in den Bezirken der Oberlandesgerichte München und Nürnberg über die für sie zuständige Generalstaatsanwaltschaft der Generalstaatsanwaltschaft Bamberg vorgelegt. Für die Rücknahme oder Beschränkung einer Rechtsbeschwerde bedarf die Generalstaatsanwaltschaft Bamberg der Zustimmung der Generalstaatsanwaltschaft, über die das Rechtsmittel vorgelegt wurde.

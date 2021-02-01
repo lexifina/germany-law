@@ -1,0 +1,3 @@
+# Nr. 5 Aufgaben des Abteilungsleiters und des Hauptabteilungsleiters
+(1) Der Abteilungsleiter nimmt innerhalb seiner Abteilung die in Nr. 4 Abs. 1 und 2 bezeichneten Aufgaben mit Ausnahme der Geschäftsprüfungen wahr. Er unterrichtet den Behördenleiter über alle wichtigen Vorgänge in seiner Abteilung. Bei Staatsanwaltschaften, bei denen Hauptabteilungen eingerichtet sind, unterrichtet der Abteilungsleiter anstelle des Behördenleiters den Hauptabteilungsleiter.
+(2) Für Hauptabteilungsleiter gilt Abs. 1 entsprechend. Ihm können weitere Aufgaben durch den Behördenleiter übertragen werden. Er unterrichtet den Behördenleiter über alle wichtigen Vorgänge in seiner Hauptabteilung.

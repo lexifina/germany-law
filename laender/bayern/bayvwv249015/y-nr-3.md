@@ -1,0 +1,3 @@
+# Nr. 3 Abteilungen und Hauptabteilungen
+(1) Bei den Staatsanwaltschaften können Abteilungen und aus mehreren Abteilungen bestehende Hauptabteilungen gebildet werden. Die Abteilungen werden, soweit nicht der Behördenleiter eine Abteilung übernimmt, von Abteilungsleitern geleitet, die Hauptabteilungen von Hauptabteilungsleitern.
+(2) Bei den Staatsanwaltschaften bedarf die Bildung von Abteilungen und die Bestellung der Abteilungsleiter und der Hauptabteilungsleiter der Zustimmung des Generalstaatsanwalts. Die Bildung von Hauptabteilungen bedarf der Zustimmung des Bayerischen Staatsministeriums der Justiz und für Verbraucherschutz.
