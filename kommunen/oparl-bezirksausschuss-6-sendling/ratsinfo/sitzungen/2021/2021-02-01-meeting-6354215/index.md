@@ -1,0 +1,92 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-02-01T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354215
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354215
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.3.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 1.5.: Bestellung einer / eines Seniorenbeauftragten (optional)
+- TOP 1.6.: Bestellung einer / eines Beauftragten für Denkmalschutz (optional)
+- TOP 1.7.: Bekanntgabe der Fraktionssprecher der SPD und der FDP & ÖDP
+- TOP 1.8.: Neue Besetzung der Unterausschüsse durch die SPD-Fraktion
+- TOP 1.9.: Neue Besetzung der Unterausschüsse durch die Fraktion FDP & ÖDP
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 1.4.: Wahl der / des Unterausschussvorsitzenden durch den Bezirksausschuss Unterausschuss Planen – Bauen - Wohnen
+- TOP 2.1.: Anfrage über Nutzungspläne für eingezäunten Grundstück am Flaucher
+- TOP 2.2.: Altglascontainer an der Wackersberger Straße
+- TOP 2.3.: Mailverkehr zum Immobilienverkauf an der Esswurmstraße
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Kochelseestraße (ohne Nummer)
+- TOP 4.2.2.: Bauvorhaben Flößergasse 6a
+- TOP 4.2.3.: Baumfällung Hans-Preißinger-Straße 16
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Tauben am U-Bahn-Ausgang Kidlerplatz Antwort an die Bürgerin
+- TOP 4.3.3.: Müll in der Großmarkthalle Antwort an den Bürger
+- TOP 4.3.4.: Bevorstehende Entfernung von Gefahrenbäume
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Parkraummanagement - Umsetzung Sektor VI Teil 1
+- TOP 5.2.2.: Litfaßsäule Albert-Roßhaupter-Straße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Halteverbot in der Brudermühlstraße Antwort an die Bürgerin
+- TOP 5.3.2.: Fehlende Parkplätze am Margaretenplatz Antwort an den Bürger
+- TOP 5.3.3.: Beantragung Parkausweise in der Schäftslarnstraße Antwort an den BA
+- TOP 5.3.4.: Fahrradabstellanlagen Roter-Turm-Platz - Implerstraße
+- TOP 5.3.5.: Verkehrssituation und Fußgänger Antwort an die Bürgerin
+- TOP 5.3.6.: Radentscheid-konformer Umbau der Plinganserstraße zwischen Harras und Dudenstraße sofort angehen
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Ladezone in der Kraelerstraße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlagen Ganghoferstraße – Alramstraße - Oberländerstraße [Fraktion B90 / Die Grünen]
+- TOP 5.4.2.: Fahrradwege im Winter wie Straßen räumen - mehr Verkehrssicherheit schaffen [SPD]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: 2. Rettungsweg an der Maronstraße 9-11
+- TOP 5.5.2.: Ertüchtigung der Südseite des Mittleren Rings für gegenläufigen Radverkehr zwischen Tunnelausfahrt Brudermühlstraße und Passauerstraße BA-Antrag Nummer 20-26 / B 00102 Wiedervorlage
+- TOP 5.5.3.: Fahrradzonen + Fahrradstr. in Sendling bringen mehr Sicherheit BA-Antrags-Nr. 20-26 / B 01125 Fristverlängerung
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Artmobil 2021 1.271,00€; Az. 0262.0-6-0260
+- TOP 6.1.2.: Neues Spielgerät für den Spielplatz Neuhofen Süd Bestellung Städtischer Leistung
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Erkenntnis durch Satire“ Erkenntnis durch Satire im 2. Quartal 2021 1.680,00 € / Az. 0262.0-6-0
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: SC München Süd e.V. Kurzbericht für bewilligten Zuschuss
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Förderung von bürgerschaftlichem Engagement; Bürgerschaftliche Nutzung des Sitzungssaals des Sozialbürgerhauses in der Meindlstraße
+- TOP 7.3.2.: Anfrage Ausbau der städt. Maria-Probst-Realschule – wie geht es weiter?
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
