@@ -1,0 +1,71 @@
+# 3. Sitzung der Bezirksvertretung Ehrenfeld DIE SITZUNG FÄLLT AUS!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-01T00:00:00+01:00
+- Ende: 2021-02-01T00:00:00+01:00
+- Ort: DIE SITZUNG FÄLLT AUS!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23101
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23101
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Herkulesstraße (Az.: 02-1600-07/2020) - zurückgestellt
+- TOP 3.1.1: Änderungsantrag der SPD-Fraktion zu TOP 3.1, betr.: Bürgereingabe Herkulesstraße - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Entfernung vom Zebrastreifen auf der Nußbaumerstraße - zurückgestellt
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Zum Ermöglichen des Abstandhaltens auf der Venloer Straße (Bezug zu TOP 12.3) - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Situation in Hüttenstraße - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion, betr.: Sachstand ehemalige Hauptverwaltung Herbol - zurückgestellt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Nahversorger Butzweilerhof - zurückgestellt
+- TOP 7.5: Anfrage der SPD-Fraktion, betr.: Finanzierungslücken bei unabhängigen Kitas - zurückgestellt
+- TOP 7.5.1: Beantwortung einer Anfrage gemäß § 4 der Geschäftsordnung des Rates; - zurückgestellt
+- TOP 7.6: Anfrage der SPD-Fraktion, betr.: Abbruchtätigkeit auf dem Grundstück Venloer Straße 170 / 172 - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Barrierefreier Zugang zu Parks und fußläufigen Verbindungen - zurückgestellt
+- TOP 8.1.1: Ergänzungsantrag der SPD-Fraktion, betr,: TOP 8.1 Barrierefreier Zugang zu Parks und fußläufigen Verbindungen - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Schulwegsicherung Schule Wasseramselweg - zurückgestellt
+- TOP 8.3: Antrag der Fraktion Bündnis 90/Die Grünen, betr,: Schulwegsicherung an der Heidemannstraße - zurückgestellt
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Beschleunigung Bebauungsplanverfahren Heliosgelände - zurückgestellt
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Generalsanierung Vogelsanger Straße an der Heliosschule vor 2024 - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Benennung eines Bezirksvertreters/ einer Bezirksvertreterin und eines Vertreters/ einer Vertreterin zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020/2025 - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteilgung betreffend die Änderung des Bebauungsplanes Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 10.3: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - zurückgestellt
+- TOP 10.4: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten inklusive Interimsbauten für das Gymnasium Kreuzgasse, Vogelsanger Straße 1 - Erweiterter Planungsbeschluss - zurückgestellt
+- TOP 10.5: Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe - zurückgestellt
+- TOP 10.5.1: Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände - zurückgestellt
+- TOP 10.6: Fördermaßnahme zum Anstoß eines Zentrenmanagements für das Zentrum Ehrenfeld, Venloer Straße - zurückgestellt
+- TOP 10.7: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - zurückgestellt
+- TOP 10.8: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Änderungen zum Fahrplanwechsel 2020 - zurückgestellt
+- TOP 12.2: "Wohnraum verfügbar machen" - zurückgestellt
+- TOP 12.3: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 12.4: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 12.5: Gemeinschaftsprojekt „Hecken und Säume“ - zurückgestellt
+- TOP 12.6: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - zurückgestellt
+- TOP 12.7: Bewilligung der Förderanträge "Aktivierenden Analyse und Projektkonzeption zum Anstoß eines Zentrenmanagements" für die Zentren Porz Mitte, Kalker Hauptstraße und Ehrenfeld, Venloer Straße im Rahmen des "Sofortprogramms zur Stärkung unserer Innenstäd - zurückgestellt
+- TOP 12.8: Zielvereinbarungen 2021 Bürgerzentrum Ehrenfeld, Bürgerschaftshaus Bocklemünd - zurückgestellt
+- TOP 12.9: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - zurückgestellt
+- TOP 12.10: Neugestaltung des Spielplatzes „Trendsportarten Mühlenweg“ im Sozialraum „Bickendorf, Westend und Ossendorf“ - zurückgestellt
+- TOP 12.11: Ehrenamtspreis "KölnEngagiert 2021" - zurückgestellt
+- TOP 12.12: Grüne Infrastruktur - Monitoring StadtNaturParke Ossendorf und Vogelsang - zurückgestellt
+- TOP 12.13: Beantwortung einer Anfrage zu Mitteilung 3217/2020 nach § 4 Geschäftsordnung des Rates: Temporäre Einfriedung der Außenflächen des Schulneubaus Heliosschulen - zurückgestellt
+- TOP 13: mündliche Anfragen
