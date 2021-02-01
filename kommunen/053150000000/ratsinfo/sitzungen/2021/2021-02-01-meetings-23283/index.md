@@ -1,0 +1,79 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-01T16:00:00+01:00
+- Ende: 2021-02-01T16:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23283
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23283
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00802807.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00802807.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00802807.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Radweg Kerpener Str. (Az.: 02-1600-102/19) - geändert beschlossen
+- TOP 5.1.1: Ergänzungsantrag 5.1 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Modulbauten für die Gemeinschaftsgrundschule Braunsfeld Geilenkircher Straße - zur Anfrage der FDP-Fraktion AN/1329/2020 zur Sitzung am 7.12.2020 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Brauweiler Straße - Kenntnis genommen
+- TOP 7.2.2: Kreisverkehre in Lindenthal - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Ernst-Berliner-Platz am Radstadion in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.2: Bewohnerparken Baumeisterviertel - ungeändert beschlossen
+- TOP 8.1.3: Sanierung Kringsweg - ungeändert beschlossen
+- TOP 8.1.4: Marsdorfer Radweg - ungeändert beschlossen
+- TOP 8.1.5: E-Ladestationen Tiefgarage Bürgeramt Lindenthal - ungeändert beschlossen
+- TOP 8.1.6: Beleuchtung Auf der Aspel - endgültig zurückgezogen
+- TOP 8.1.7: Parken Einsatzkräfte Franz-Kremer-Stadion - endgültig zurückgezogen
+- TOP 8.1.7.1: Ersetzungsantrag 8.1.7 - ungeändert beschlossen
+- TOP 8.1.8: Halle "Alte Schule" - endgültig zurückgezogen
+- TOP 8.1.9: Tempo 30 auf Vogelsanger Weg in Weiden - ungeändert beschlossen
+- TOP 8.1.10: Abfallbehälter Sülzgürtel - geändert beschlossen
+- TOP 8.1.11: Einrichtung einer Wegbeleuchtung - endgültig zurückgezogen
+- TOP 8.1.11.1: Ersetzungsantrag - ungeändert beschlossen
+- TOP -: Einrichtung einer Wegbeleuchtung vom westlichen Ende des Rautenstrauchkanals bis Stadtwaldgürtel - Kenntnis genommen
+- TOP 8.1.12: Rückbau freilaufender Rechtsabbieger Alter Militärring/Aachener Straße - geändert beschlossen
+- TOP 8.1.13: Kreisverkehr Ausfahrt EKZ Horbeller Straße, Marsdorf - zurückgestellt
+- TOP 8.1.14: Piktogramme „Auf der Aspel“, Widdersdorf - ungeändert beschlossen
+- TOP 8.1.15: Dringlichkeitsantrag Ampel Aachener Str. - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu 8.1.15 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 9.2.3: Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.3. - ungeändert beschlossen
+- TOP 9.2.3.1: Baubeschluss fu¨r den Umbau der Oskar-Ja¨ger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gela¨nde - Kenntnis genommen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Änderungen zum Fahrplanwechsel 2020 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Optimierung der Verkehrssituation in Widdersdorf - Kenntnis genommen
+- TOP 11.2.2: Einrichtung verkehrsberuhigender Elemente sowie die Durchführung einer Generalsanierung auf der Eupener Straße/Eschweiler Straße/Max-Wallraf-Straße in Braunsfeld - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 11.3.2: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 11.3.3: Baumfällungen für den Neubau der Grundschule Statthalterhofallee in Junkersdorf - Kenntnis genommen
+- TOP 11.3.4: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - Kenntnis genommen
+- TOP 11.3.5: Gemeinschaftsprojekt „Hecken und Säume“ - Kenntnis genommen
+- TOP 11.3.6: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - Kenntnis genommen
+- TOP 11.3.7: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
