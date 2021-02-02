@@ -1,0 +1,22 @@
+# Austauschfassung der Anlage 1 – Pauschale Zuweisung – zum Entwurf der Investitonsplanung für die Haushaltsjahre 2021-2025
+
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Drucksache/Vorlage: DS/1931-01/V
+- Art: Beschluss
+- Datum: 2021-02-02
+- Ratsinformationssystem: https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9867
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/papers.asp?id=9867
+- Quelle: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=340604
+- Beratung: Vorberatung  https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=112
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9859 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung:  https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9890 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=111
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9906 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=110
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9898 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9913 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=116
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9920 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=115
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9928 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=117
+- Beratung: Beratung ff https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=10039 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=114
+- Beratung: Beratung ff https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9960 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=114
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=9850 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- underDirectionOf: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=149
