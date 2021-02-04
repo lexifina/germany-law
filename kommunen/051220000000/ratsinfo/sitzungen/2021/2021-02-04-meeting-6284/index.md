@@ -1,0 +1,70 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-02-04T17:00:00+01:00
+- Ende: 2021-02-04T18:00:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQ2iP8Niebg02IsRUxi4imE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6284
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbYlJh_q1dbxYSNBeSMf9_Xndr5yzM1Tgl-x3DYzvebz/Bekanntmachung_Rat_04.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaJMgs__p3YM4oPmNS6ZguNuQynmSCtdpbhEOXDdI8_D/Oeffentliche_Niederschrift_Rat_04.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Situation Intensivbetten
+- TOP 1.2: Selbstüberprüfung der städtischen Corona-Schutzmaßnahmen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Kommunale Gesundheitskonferenz hier: Benennung der Vertreterinnen und Vertreter der im Rat vertretenen Fraktionen aus dem für das Gesundheitswesen zuständigen Ausschuss
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH (KMS) hier: Vertretung der Stadt Solingen im Beirat
+- TOP 8.: Wasserversorgungsverband Rhein-Wupper hier: Vertretung der Stadt Solingen in der Verbandsversammlung
+- TOP 9.: Besetzung des Beirates Nachhaltige Kommune Solingen gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 10.: Stadtentwicklungsgesellschaft Solingen Benennung der Fraktionsmitglieder in der Gesellschafterversammlung der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 11.: Stadtentwicklungsgesellschaft Solingen Benennung der Fraktionsmitglieder in der Gesellschafterversammlung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 12.: Wirtschaftsförderung Solingen GmbH & Co. KG Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 13.: Wirtschaftsförderung Solingen Verwaltungs GmbH Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 14.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 15.: Stadtwerke Solingen GmbH Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 16.: Entsorgung Solingen GmbH Bestellung von Mitgliedern für die Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 17.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 18.: Städtisches Klinikum Solingen gGmbH Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 19.: Altenzentren der Stadt Solingen gGmbH Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 20.: Städtische Musikschule Solingen GmbH (MSS) Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 21.: Kunstmuseum Solingen Betriebsgesellschaft mbH (KMS) Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 22.: Solinger Bädergesellschaft mbH (SBG) Vertretung der Stadt Solingen in der Gesellschafterversammlung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 23.: Kuratorium "Die Schärfste Klinge" Benennung von Mitgliedern gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 24.: Besetzung des örtlichen Beirates für das Kommunale Jobcenter gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 25.: Gewässerschaukommission Bestellung von Vertreterinnen und Vertretern der Ratsfraktionen in die Gewässerschaukommission gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 26.: Geschwister-Niehoff-Stiftung Bestellung von Vertreterinnen und Vertretern der Ratsfraktionen in den Beirat gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI, FDP und der BfS-Gruppe vom 20.01.2021
+- TOP 27.: Dringlichkeitsentscheidung auf Grundlage des § 60 GO NRW Kostenfreie Bereitstellung der E-Medien
+- TOP 28.: Neufassung der Gebührensatzung für den Rettungsdienst der Klingenstadt Solingen
+- TOP 29.: Gründung Entwicklungspartnerschaft „OpenSmartCityApp“
+- TOP 30.: Mehrausgaben bezüglich Coronamaßnahmen im IT-Budget
+- TOP 31.: Sicherstellung von zusätzlichem Raum- und Personalbedarf während der Corona-Pandemie Antrag der Ratsfraktion DIE LINKE. Die PARTEI vom 21.01.2021
+- TOP 32.: Erhebung von Elternbeiträgen 2021 für die Kindertagesbetreuung und den offenen Ganztag
+- TOP 33.: Verlängerung der Teilauslagerung der Erika-Rothstein-Schule
+- TOP 34.: Verkehrsuntersuchung zum Neubau der Stadt-Sparkasse Solingen -Verkehrliche Auswirkungen des Projektes der Stadt-Sparkasse auf Grundlage des Bebauungs- planes S 700 Am Neumarkt/ Kölner Straße-
+- TOP 35.: A 3 - 8streifiger Ausbau zwischen der Anschlussstelle (AS) Leverkusen/Opladen und dem Autobahnkreuz (AK) Hilden Stellungnahme zur 2. TÖB-Beteiligung im Rahmen der Umweltverträglichkeitsuntersuchung
+- TOP 36.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Teilaufhebung des Bebauungsplanes S 117 sowie Satzungsbeschluss zur Teilaufhebung des Bebauungsplans S 117 für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Wernerstraße, Sudetenstraße, Kuller Straße, Schlachthofstraße, Kronprinzenstraße, Obere Dammstraße, Albrechtstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 3) – Stadtbezirke Mitte und Gräfrath –
+- TOP 37.: Bauleitplanung Schlagbaum Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Aufhebung des Bebauungsplanes S 338 – Teil B sowie Satzungsbeschluss zur Aufhebung des Bebauungsplans S 338 – Teil B für das Gebiet zwischen Scheidter Straße, Schlagbaumer Straße, Obere Dammstraße, Albrechtstraße, Kronprinzenstraße, Freiligrathstraße, Richard-Wagner-Straße, Untenscheidt, Frankfurter Damm, Untere Dammstraße und Frankenstraße (Beschluss 3) – Stadtbezirke Mitte und Gräfrath –
+- TOP 38.: Bauleitplanung Scheidter Feld Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes S 607 sowie Satzungsbeschluss zum Bebauungsplan S 607 für das Gebiet südlich und östlich der Scheidter Straße, westlich der Schlagbaumer Straße und nördlich der Obere Dammstraße (Beschluss 3) – Stadtbezirk Gräfrath –
+- TOP 39.: Bauleitplanung Am Neumarkt/ Kölner Straße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zu den Entwürfen des Bebauungsplanes S 700 und der Flächennutzungsplanberichtigung Nr. B29/04 sowie Satzungsbeschluss zum Bebau¬ungs¬plan S 700, jeweils für das Gebiet zwischen den Straßen Am Neumarkt, Peter-Knecht-Straße, Kölner Straße und Max-Leven-Gasse (Hauptverwaltung der Stadt-Sparkasse) (Beschluss 3) – Stadtbezirk Mitte –
+- TOP 40.: Verschiedenes
+- TOP 40.1: Mitteilungen der Verwaltung
+- TOP 40.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Erneute Vergabe von Ingenieurleistungen (Elektrofachplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.: Erweiterung des Familienbades Vogelsang um ein Bewegungsbecken hier: Vergabe von Architektenleistungen
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
