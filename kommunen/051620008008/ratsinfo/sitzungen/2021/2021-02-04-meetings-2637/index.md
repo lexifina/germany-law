@@ -1,0 +1,104 @@
+# Hauptausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-02-04T18:30:00+01:00
+- Ende: 2021-02-04T20:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/68
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2637
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2637
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00110206.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00110206.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00110206.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Bestellung einer Schriftführerin / eines Schriftführers - einstimmig
+- TOP 3: Wahl der / des stellvertretenden Ausschussvorsitzenden - einstimmig bei
+- TOP 4: Gültigkeit der Wahl des Bürgermeisters der Stadt Grevenbroich vom 13.09.2020 - einstimmig
+- TOP 5: Gültigkeit der Ratswahl vom 13.09.2020 - einstimmig
+- TOP 6: Fraktionszuwendungen - Kenntnisnahme
+- TOP 7: Dringlichkeitsentscheidungen
+- TOP 8: Mittelbereitstellungen
+- TOP 9: Gebührenbedarfsberechnung und 21. Änderung der Abfallgebührensatzung 2021 - mehrheitlich bei
+- TOP 10: Gebührenbedarfsberechnung 2021 für die Erhebung von Straßenreinigungs- und Winterdienstgebühren - mehrheitlich bei
+- TOP 11: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Grevenbroich - von der Tagesordnung abgesetzt
+- TOP 12: Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Grevenbroich - von der Tagesordnung abgesetzt
+- TOP 13: Ausschreibung Schülerspezialverkehr - Kenntnisnahme
+- TOP 14: Straßen-und Wegekonzept der Stadt Grevenbroich 2021-2026 - mehrheitlich bei
+- TOP 15: Beratungspunkte aus dem Ausschuss für Planung und Mobilität
+- TOP 15.1: Benennung von Mitgliedern für den Arbeitskreis Baulandmanagement - einstimmig
+- TOP 15.2: 24. FNP Änd. Genehmigungsbeschluss - einstimmig
+- TOP 15.3: 25. FNP Änd. Auslegung - einstimmig
+- TOP 15.4: 27. FNP Änd. frühz. B.Bet. - einstimmig
+- TOP 15.5: 2. Änd. K 2 Auslegung - einstimmig
+- TOP 15.6: G 203 erneute Auslegung - einstimmig bei
+- TOP 15.7: K 34 - Satzungsbeschluss - einstimmig
+- TOP 15.8: K 36 Satzungsbeschluss - einstimmig
+- TOP 15.9: Straßenbenennung (Antrag Nr. 135/2020) - einstimmig
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: Sammelbeantwortung - Kenntnisnahme
+- TOP 17: Schriftliche Anträge von Fraktionen und Ratsmitgliedern
+- TOP 17.1: Anträge der SPD-Fraktion
+- TOP 17.2: Anträge der CDU-Fraktion
+- TOP 17.2.1: Teilnahme am Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" (Antrag Nr. 31/2021) - einstimmig
+- TOP 17.2.2: Anmietung leerstehender Räumlichkeiten im Grevenbroicher Bahnhof (Antrag Nr. 32/2021) - einstimmig
+- TOP 17.2.3: Entwicklung eines förderfähigen Konzeptes gegen Wohnungslosigkeit (Antrag Nr. 33/2021) - einstimmig
+- TOP 17.2.4: Erwerb des alten Finanzamtes (Erckensstraße) und Unterbringung des Jugendamtes in Grevenbroich (Antrag Nr. 34/2021) - einstimmig
+- TOP 17.2.5: Fittness Locations im Stadtgebiet einrichten (Antrag Nr. 35/2021) - einstimmig
+- TOP 17.2.6: Gebäude der ehemaligen Realschule Bergheimer Straße nach der schulischen Nutzung für Startups zur Verfügung stellen (Antrag Nr. 36/2021) - einstimmig
+- TOP 17.2.7: Geschwindigkeitsbegrenzung Kirchstraße (Antrag Nr. 37/2021) - einstimmig
+- TOP 17.2.8: Halteverbot Neubrück (Antrag Nr. 38/2021) - einstimmig
+- TOP 17.2.9: Kita-Neubau auf dem ehemaligen Bauhof / Erweiterung der Grundschule Stadtmitte /Auslagerung der Offenen Ganztagsbetreuung (Antrag Nr. 39/2021) - einstimmig
+- TOP 17.2.10: Optimierung der geschwindigkeitsreduzierenden Maßmahmen "Am Erftgraben" (Antrag Nr. 40/2021) - einstimmig
+- TOP 17.2.11: Schulwegsicherung Schubert Straße / Ev. Kirche (Antrag Nr. 41/2021) - einstimmig
+- TOP 17.2.12: Synagogenplatz erlebbar machen (Antrag Nr. 42/2021) - einstimmig
+- TOP 17.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 17.4: Anträge der FDP-Fraktion
+- TOP 17.4.1: Impfpaten (Antrag Nr. 10/2021) - einstimmig
+- TOP 17.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 17.5.1: Ausschussumbesetzung (Antrag Nr. 09/2021) - einstimmig
+- TOP 17.6: Anträge der UWG-Fraktion
+- TOP 17.6.1: Radweg/Fußweg auf der Kirchstraße in Gustorf (Antrag Nr. 01/2021) - einstimmig
+- TOP 17.6.2: Parksituation auf der Frimmersdorfer Straße in Neurath (Antrag Nr. 7/2021) - einstimmig
+- TOP 17.6.3: LKW-Verkehr in Neurath (Antrag Nr. 18/2021) - einstimmig
+- TOP 18: Gemeinschaftsanträge / Gemeinschaftsanfragen
+- TOP 18.1: Teilnahme an Landeswettbewerb Cityartists ab dem Jahr 2022 (Antrag Nr. 15/2021) - einstimmig
+- TOP 18.2: Verzicht Rückbau des 1. Bauabschnitts der Bahnstraße (Antrag Nr. 16/2021) - einstimmig
+- TOP 18.3: Mittelverwendung aus dem Landesprogramm zur Stärkung der Innenstädte (Antrag Nr. 17/2021) - einstimmig
+- TOP 18.4: Internetzugang für alle Schülerinnen und Schüler (Anfrage Nr. 11/2021)
+- TOP 18.5: Anteil Verpackungen in der Papierverwertung (Anfrage Nr. 12/2021)
+- TOP 18.6: Änderung des Regionalplans an den Kraftwerken Frimmersdorf und Neurath (Anfrage Nr. 13/2021)
+- TOP 18.7: Zukunft des Windtestfeldes auf der Frimmersdorfer Höhe (Anfrage Nr. 14/2021)
+- TOP 19: Schriftliche Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 19.1: Anfragen der SPD-Fraktion
+- TOP 19.2: Anfragen der CDU-Fraktion
+- TOP 19.2.1: Standort Obdachlosenheim (Anfrage Nr. 19/2021)
+- TOP 19.2.2: Sachstand: Anwohnerbefragung über die Einrichtung einer Anwohnerparkzone (Anfrage Nr. 20/2021)
+- TOP 19.2.3: Mittilverwendung "Programm für den Ausbau der Kapazitäten und der Qualität in der Ganztagsbetreuung (Anfrage Nr. 21/2021)
+- TOP 19.2.4: Anfrage: Mittelverwendung "Sofortprogramm zur Stabilisierung der Innenstädte und Zentren" (Anfrage Nr. 22/2021)
+- TOP 19.2.5: Müll auf dem Gierather Weg (Anfrage Nr. 23/2021)
+- TOP 19.2.6: Sachstand CO2-Ampeln und Luftreinigungsgeräte in Schulen (Anfrage Nr. 24/2021)
+- TOP 19.2.7: Sachstand Erweiterung Grundschule Kapellen und städt. Kindergarten Kapellen (Anfrage Nr. 25/2021)
+- TOP 19.2.8: Sachstand Familienbüro (Anfrage Nr. 26/2021)
+- TOP 19.2.9: Sachstand Kita in der Coens-Galerie (Anfrage Nr. 27/2021)
+- TOP 19.2.10: Sachstand "Konzept für eine klimaresiliente Stadt" (Anfrage Nr 28/2021)
+- TOP 19.2.11: Sachstand Konzept zur ökologischen Strukturierung landwirtschaftlich genutzter Flächen in Grevenbroich (Anfrage Nr. 29/2021)
+- TOP 19.2.12: Sachstand "S-Bahn-Netz Rheinisches Revier" (Anfrage Nr. 30/2021)
+- TOP 19.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 19.4: Anfragen der FDP-Fraktion
+- TOP 19.4.1: Vandalismus an Straßenlaternen in Gustorf (Anfrage Nr. 02/2021)
+- TOP 19.4.2: Pachtvertrag des langjährigen EVITA-Restaurants im Alten Schloss (Anfrage Nr. 03/2021)
+- TOP 19.4.2.1: Pachtvertrag des langjährigen EVITA-Restaurants im Alten Schloss (Anfrage Nr. 03/2021) - Kenntnisnahme
+- TOP 19.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 19.6: Anfragen der UWG-Fraktion
+- TOP 19.6.1: Wege auf dem Windtestfeldgelände "Frimmersdorfer Höhe" (Anfrage Nr. 04/2021)
+- TOP 19.6.2: Sachstand Sportanlage Neuenhausen (Anfrage Nr. 05/2021)
+- TOP 19.6.3: Sachstand Sportanlage Neurath (Anfrage Nr. 06/2021)
+- TOP 19.6.4: Behandlung der alten, noch nicht erledigten Anträge und Anfragen (Anfrage Nr. 08/2021)
+- TOP 20: Resolution: "Sicherheit und Perspektive für das Krankenhaus in Grevenbroich" - einstimmig
+- TOP 21: Mitteilungen des Bürgermeisters
+- TOP 22: Mündliche Anfragen von Ausschussmitgliedern
