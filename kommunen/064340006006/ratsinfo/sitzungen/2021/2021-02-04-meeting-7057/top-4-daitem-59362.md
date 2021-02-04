@@ -1,0 +1,6 @@
+# TOP 4: Verschiedenes
+
+- Sitzung: Haupt-, Finanz- und Petitionsausschuss (35. Sitzung) (2021-02-04)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/59362
