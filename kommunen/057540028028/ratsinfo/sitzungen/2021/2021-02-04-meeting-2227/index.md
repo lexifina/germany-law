@@ -1,0 +1,51 @@
+# Ausschuss für Bauen und Stadtentwicklung (2. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2021-02-04T17:03:00+01:00
+- Ende: 2021-02-04T21:58:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-47
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZZOvq1PNFD4b8Q94N1At1w
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2227
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen und Stadtentwicklung) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQPlW7zD4YvjFVR5b9hBVY6yVDszaYWtx-Jbxb8p9htH/Bekanntmachung_Ausschuss_fuer_Bauen_und_Stadtentwicklung_04.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen und Stadtentwicklung) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVeh4JkRGxI9JyEjERX7YD8hGGmt99BYotCJc4gF-FVz/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen_und_Stadtentwicklung_04.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 2.1: Antrag des Jugendamtselternbeirates der Kindertageseinrichtungen Rheda-Wiedenbrück auf „Einrichtung eines Unterausschusses im Bereich Kindergarten“ - Einstimmig
+- TOP 3: Cobus Campus Vorstellung des Vorhabens - Kenntnisnahme
+- TOP 4: Bebauungsplan Nr. 371 "Hof Oldemeyer"
+- TOP 4.1: Bebauungsplan Nr. 371 "Hof Oldemeyer"
+- TOP 5: 1. Änderung des Bebauungsplans Nr. 282 "Rietberger Straße" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffen
+- TOP 6: Neuaufstellung des Regionalplans OWL - Stellungnahme zum Entwurf - 17 Ja-Stimme(n), 4 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 7: ISEK Rheda Qualifizierungsverfahren – Aufwertung zweier Bahnunterführungen in Rheda; Ergebnisse und weiteres Vorgehen
+- TOP 8: ISEK Rheda | Gestaltungskonzepte - Kenntnisnahme
+- TOP 9: Projekt der Regionale 2022 – Colani Biodesign Factory - Einstimmig
+- TOP 10: Kaiserforst, Vorstellung der Ausbauplanung (Teilabschnitt) im Baugebiet Kaiserforst - Einstimmig
+- TOP 11: Sanierung der Landesstraße L 927 „Am Sandberg“ durch den Landesbetrieb Straßen NRW sowie der städtischen Nebenanlagen; Vorstellung der Ausbauplanung - 14 Ja-Stimme(n), 8 Nein-Stimme(n)
+- TOP 12: Burgweg, Vorstellung der Ausbauplanung - 19 Ja-Stimme(n), 1 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 13: Bushaltestellen; Vorstellung der Maßnahmen - Kenntnisnahme
+- TOP 14: Sternweg; Vorstellung der Ausbauplanung - Einstimmig
+- TOP 15: Hauptstraße (K 1); Vorstellung der Ausbauplanung zw. dem Feldhüser Weg u. dem Nordring - 14 Ja-Stimme(n), 4 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 16: Erstmalige Herstellung der Straße „Heiligenhäuschenweg“ zwischen der Straße „Schmeerplatzweg“ und der Holunderstraße (3. Bauabschnitt); Vorstellung der Maßnahme - Einstimmig
+- TOP 17: Haushaltsplanung 2021 - 19 Ja-Stimme(n), 0 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 18: "Am Bernebrock" Widmung gemäß § 6 des Straßen- und Wegegesetzes NRW - Einstimmig
+- TOP 19: "Boschweg" Widmung gemäß § 6 des Straßen- und Wegegesetzes NRW - Einstimmig
+- TOP 20: Heinrich-Heineke-Straße Widmung gemäß § 6 des Straßen- und Wegegesetzes NRW - Einstimmig
+- TOP 21: "An der Landwehr" Widmung gemäß § 6 des Straßen- und Wegegesetzes NRW - Einstimmig
+- TOP 22: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 25.1: Projekt der Regionale 2022 - Colani Biodesign Factory
+- TOP 26: Städtebaulicher Vertrag flankierend zu einem Bebauungsplanverfahren - 14 Ja-Stimme(n), 4 Nein-Stimme(n), 4 Enthaltung(en)
+- TOP 27: Vertragsangelegenheiten - 14 Ja-Stimme(n), 5 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 28: Beratung und Beschlussfassung über die Empfehlungen des Gestaltungsbeirats der 39. Sitzung vom 26.10.2020 - Einstimmig
+- TOP 29: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 30: Dringende Anfragen und Anregungen
