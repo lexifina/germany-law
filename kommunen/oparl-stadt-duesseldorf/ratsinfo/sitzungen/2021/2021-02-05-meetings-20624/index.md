@@ -1,0 +1,172 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-05T00:00:00+01:00
+- Ende: 2021-02-05T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20624
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20624
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsanträge RAT 04.02.2021 Tischvorlagen Teil 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401254.pdf
+- Ergebnisprotokoll: Haushaltsanträge RAT 04.02.2021 Tischvorlagen Teil 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401254.pdf
+- Wortprotokoll: Haushaltsanträge RAT 04.02.2021 Tischvorlagen Teil 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401254.pdf
+
+## Tagesordnung
+
+- TOP 1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zum Haushaltsplan-Entwurf 2021: Streichung des § 26 der Hauptsatzung der Landeshauptstadt Düsseldorf
+- TOP 2: Änderungsantrag der AfD-Fraktion zum Haushaltsplan-Entwurf 2021: Neuverschuldung 2021 und Änderung der Haushaltssatzung - Düsseldorfer Schuldenfreiheit erhalten – Keine Kredite für Investitionen zum Umbau zur „klimaneutralen Stadt“
+- TOP 3: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Prüfung der Jahresabschlüsse der Landeshauptstadt Düsseldorf und der Holding erfolgen durch Externe
+- TOP 4: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Sitzungen des Rechnungsprüfungsausschusses finden öffentlich statt
+- TOP 5: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Kinder werden auch während der Karriere geboren - Düsseldorf muss kinderfreundlicher werden
+- TOP 6: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Bestandsaufnahme und -analyse aller städtischen Gebäude hinsichtlich ihres barrierefreien Zugangs
+- TOP 7: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Immobilienverkauf aussetzen
+- TOP 8: Haushaltsantrag der SPD/Volt-Ratsfraktion: Reduzierung des Verkaufs städtischer Flächen an private Investoren
+- TOP 9: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: städtisches Inkasso durch externe Inkassomöglichkeiten ergänzen
+- TOP 10: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Kommunale Steuerprüfer:innen einstellen
+- TOP 11: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Stelleneinrichtung für ein kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus
+- TOP 12: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Bürgerbudget jetzt!
+- TOP 13: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Antidiskriminierungsstelle
+- TOP 14: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Bürgerbeteiligungsverfahren zum städtischen Haushalt
+- TOP 15: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Unverzügliche Einleitung aller rechtlichen Mittel und Schritte gegen das Land Nordrhein-Westfalen zur Erlangung der finanziellen Mindestausstattung
+- TOP 16: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Fünf Jahre jeweils 2,5% Einsparungen bei den Geld- bzw. geldwerten Leistungen an die Fraktionen und Gruppen im Stadtrat
+- TOP 17: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Gebührenfreier Personalausweis für Inhaber:innen des Düsselpasses
+- TOP 18: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Ausdehnung der Öffnungszeiten in Bürgerbüros an Abenden bzw. Samstagen
+- TOP 19: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Ertüchtigung des Ordnungs- und Servicedienstes für Einsätze in den Außenbezirken
+- TOP 20: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Ernennung einer/s ehrenamtlichen Tierschutzbeauftragte/n
+- TOP 21: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für Tiernotruf e.V.
+- TOP 22: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Abteilung Veterinärwesen und Lebensmittelüberwachung bei hier nicht heimische Tierarten bzw. nicht verbreiteten Lebensmitteln
+- TOP 23: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Konzept zur Sicherstellung von Ruhe- bzw. Schutzzonen für die in Düsseldorf wildlebenden Tiere
+- TOP 24: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: vollständiger Ausstieg aus Tierversuchen aller Art
+- TOP 25: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Tierheim Düsseldorf jetzt für die Zukunft ertüchtigen
+- TOP 26: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Initiative zur Änderung des Tierschutzgesetzes, damit es Kommunen erlaubt ist, Zirkusbetrieben Auftritte mit Wildtieren zu untersagen
+- TOP 27: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Medienentwicklungsplan: Mehr „Power“ für das digitale Lernen
+- TOP 28: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: „Traumschulhöfe“ im Grünen: Verschönerung der schulischen Pausenflächen
+- TOP 29: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Schulgirokonten besser ausstatten
+- TOP 30: Haushaltsantrag der FDP-Ratsfraktion: Produkt 2526101 Sachkonto 524130000 - Neubau des Opernhauses - Wege aus der Krise III
+- TOP 31: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Mehr Lehrerinnen und Lehrer für die Clara-Schumann-Musikschule
+- TOP 32: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Beibehaltung der Stellenausstattung in der Stadtteilbücherei Hassels
+- TOP 33: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Einrichtung eines Beirats für kulturelle Bildung
+- TOP 34: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Neuschaffung einer Stelle für Tanz und Theater im Kulturamt, Wiederbesetzung der Stelle für Literatur im Kulturamt
+- TOP 35: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für den Heimat- und Bürgerverein Lohausen-Stockum e.V.
+- TOP 36: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: „Kultursommer“ – öffentliche Plätze für Veranstaltungen der freien Szene
+- TOP 37: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Zuschussanträge Kunst und Kultur zum Haushaltsplan 2021
+- TOP 38: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 100.000,- Euro für den Verband der Sinti und Roma in Düsseldorf
+- TOP 39: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 100.000,- Euro für den Bund der Vertriebenen in Düsseldorf
+- TOP 40: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 100%ige Erstattung aller flüchtlingsbezogenen Kosten
+- TOP 41: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Zum Antrag der Liga Wohlfahrt Düsseldorf „Soziale Betreuung in den Flüchtlingsunterkünften ab 2021 – Anpassung des Betreuungsschlüssels“
+- TOP 42: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ausbau des Streetwork
+- TOP 43: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Verlässliches Engagement für Integrationsprojekte
+- TOP 44: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Akut-Aufnahme von gewaltbetroffenen Frauen (und ihren Kindern) / Clearingstelle
+- TOP 45: Haushaltsantrag der SPD/Volt-Ratsfraktion: Errichtung einer Clearingstelle für Opfer häuslicher Gewalt
+- TOP 46: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 2.000.000,- Euro für Pflegebedürftige und Menschen mit Behinderung
+- TOP 47: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Erhöhung der Haushaltsmittel für die vom Integrationsrat anerkannten Migrantenorganisationen
+- TOP 48: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Finanzielle Förderung der koordinierenden Arbeit des Kreises der Düsseldorfer Muslime (KDDM)
+- TOP 49: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Für Bildung und Integration von in Düsseldorf lebenden Migranten 1.000.000,- Euro zusätzlich
+- TOP 50: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Mehr Chancen durch frühe Förderung (1): Beitragsentlastung für Eltern
+- TOP 51: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Mehr Chancen durch frühe Förderung (2): Mittagsverpflegung in der Kinderbetreuung – gesund, biologisch erzeugt, fair gehandelt, regionale und saisonal
+- TOP 52: Haushaltsantrag der SPD/Volt-Ratsfraktion: Erhöhung der Einkommensgrenzen für die beitragsfreie U3 Kindertagesbetreuung auf ein jährliches Bruttoeinkommen der Familien von bis zu 60.000 Euro
+- TOP 53: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Mehr mobile Jugendfreizeit-Angebote: Weitere Sportactionbusse einsetzen
+- TOP 54: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Durchführung tiergestützter Pädagogik für Kindergarten- und Vorschulkinder
+- TOP 55: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Bedarfsgerechter Ausbau der Schulsozialarbeit an Düsseldorfer Schulen
+- TOP 56: Haushaltsantrag der SPD/Volt-Ratsfraktion: Betrifft: Aufstockung der Schulsozialarbeit für Schulen mit besonderen Bedarfen und veränderten Sozialstrukturen
+- TOP 57: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Folgen von Kinderarmut mit passgenauen Angeboten begegnen
+- TOP 58: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Entfristung der Personalstelle für eine Familien-Hebamme bei Pro familia Düsseldorf
+- TOP 59: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Betreiber von Großtagespflegen in Düsseldorf finanziell gleichstellen
+- TOP 60: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Stärkung des Jugendportals youpod
+- TOP 61: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Abenteuerspielplatz für den Stadtbezirk 3
+- TOP 62: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Stärkung der Partizipation – Personalstelle und Budgeterhöhung
+- TOP 63: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“
+- TOP 64: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Kinder werden auch während der Pandemie geboren - Hebammen brauchen kostenfreien Zugang zu Schutzausrüstung
+- TOP 65: Änderungsantrag der AfD-Ratsfraktion zum Haushaltsplan-Entwurf 2021: Unterstützung der Corona Risikogruppen im ambulanten und stationären Pflegebereich mit FFP2 Masken
+- TOP 66: Änderungsantrag der AfD-Ratsfraktion zum Haushaltsplan-Entwurf 2021: Schutz von Corona-Risikogruppen und Senioren
+- TOP 67: Haushaltsantrag der SPD/Volt-Ratsfraktion: Projekt „Model City Düsseldorf“
+- TOP 68: Haushaltsantrag der FDP-Ratsfraktion: Produkt 4242101 Sachkonto 53170000 Zuwendung für laufende Zwecke an private Unternehmungen
+- TOP 69: Haushaltsantarg der FDP-Ratsfraktion: Produkt 4242101 Sachkonto 53170000 Zuwendung für laufende Zwecke an private Unternehmungen - hier: Förderung von Leistungsstützpunkten
+- TOP 70: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Studie „Integration Kreativräume und kulturelle Raumbedarfe in die Stadtplanung – am Tag und in der Nacht“
+- TOP 71: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Chance für einen „Mehrgenerationen-Campus“: Prozess zu „Nördlich Kalkumer Schlossallee“ fortsetzen
+- TOP 72: Haushaltsantrag der FDP-Ratsfraktion: Bau von qualitativ guten und preiswerten Wohnungen - Wege aus der Krise I
+- TOP 73: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Kommunalen Wohnungsbau finanzieren
+- TOP 74: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Wohnungsbauförderung - städtische Förderprogramme stärken
+- TOP 75: Haushaltsantrag der SPD/Volt-Ratsfraktion: Rücknahme der Kürzung um 500.000 EUR der Wohnbauförderung
+- TOP 76: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Wohnraumschutzsatzung weiter stärken
+- TOP 77: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Aufsuchende Beratung bei drohender Wohnungslosigkeit
+- TOP 78: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Rücknahme der vorgenommenen Kürzungen bei der Einrichtung von Unterflur-Containeranlagen
+- TOP 79: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Offensive für den Radverkehr: Radverkehrsetat von 12 € pro Einwohner:in
+- TOP 80: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Beschleunigung der Verkehrswende durch mehr Personal und bessere Pflege der Verkehrsinfrastruktur
+- TOP 81: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:RRX – Überprüfung der vorliegenden Pläne und Gutachten
+- TOP 82: Haushaltsantrag der SPD/Volt-Ratsfraktion: Budget für den Radwegebau erhöhen
+- TOP 83: Haushaltsantrag der SPD/Volt-Ratsfraktion: Einstellung von sechs Planer*innen zur Beschleunigung der Radverkehrsplanung
+- TOP 84: Haushaltsantrag der FDP-Ratsfraktion: PSP-Element 7.90000638 - Verlängerung Rheinuferpromenade, Sachkonto 78520000 – Tiefbaumaßnahmen- Wege aus der Krise II
+- TOP 85: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Umbau Fuß- und Radweg Joseph-Beuys-Ufer
+- TOP 86: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Rheinbahn-Sozialticket für Düsseldorf und den Kreis Mettmann darf für die Nutzer nicht mehr, als der im RBEG vorgesehene Anteil im Regelbedarf sein
+- TOP 87: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Bus und Bahn fahren für 30 € im Monat
+- TOP 88: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 3 bis 5-Minuten-Takt für alle U- und Straßenbahnen an Werktagen in der Zeit von 6.00 bis 10.00 Uhr sowie von 15.00 bis 19.00 Uhr
+- TOP 89: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: #Fahrscheinfrei für Düsselpassinhaber - Düsseldorf geht voran beim ticketfreien ÖPNV
+- TOP 90: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Bäume für Düsseldorf: Neupflanzungen, Bewässerung, Pflege und Ersatzpflanzungen
+- TOP 91: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Artenschutz in Düsseldorf – grundsätzlich und konkret angehen
+- TOP 92: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Zusätzlicher Hitzeschutz durch Beschattung von öffentlichen Spielplätzen
+- TOP 93: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Acht helfende Hände für die Tiere, Tierpflege und Fütterung
+- TOP 94: Haushaltsantrag der SPD/Volt-Ratsfraktion: Erhöhung der Mittel zur Finanzierung des Masterplans Kinderspielplätze
+- TOP 95: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 10.000 zusätzliche Bäume für Düsseldorf
+- TOP 96: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Hundeauslaufplätze in Grünanlagen bzw. Hundefreilaufflächen
+- TOP 97: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Ausbau naturnaher Grünpflege (z.B. Blühstreifen, Wildwiesen und dauerhafte Staudenpflanzen) und teilweiser Umbau bei nicht denkmalgeschützten Parks
+- TOP 98: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Grünordnungspläne II fortsetzen
+- TOP 99: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Streichelzoo - 300.00,- Euro jährlich für die Verbesserung der Lebensumstände der Tiere und für die Aufklärung der Besucher
+- TOP 100: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Wildpark - 300.00,- Euro jährlich für die Verbesserung der Lebensumstände der Tiere und für die Aufklärung der Besucher
+- TOP 101: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: "quak-quak"-Geräusche am Übergang von der Autobahn 44 auf die Flughafenbrücke
+- TOP 102: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Gemeinsam mit der Initiative Lärmschutz Paulsmühle A59 Wege finden, die das Lärmproblem dauerhaft, deutlich und nachhaltig lösen helfen
+- TOP 103: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Bürger rund um den Abstellbahnhof Düsseldorf-Wersten bei der Durchsetzung ihrer Rechte helfen
+- TOP 104: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Keine Zukunft ohne Klimaschutz - Kein Klimaschutz ohne angemessene Finanzierung
+- TOP 105: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Klimaneutral 2035: Düsseldorf wird Klima-Hauptstadt
+- TOP 106: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Leuchtturmprojekt für unser Klima: Umrüstung Flutlicht auf Vereinssportanlagen auf LED
+- TOP 107: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Fortsetzung des Prozesses „Umwelt ins Zentrum“ als Ankerpunkt für Umweltbildung, -beratung und -information
+- TOP 108: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Klimaneutral 2035: Förderprogramm „Klimafreundliches Wohnen und Arbeiten“
+- TOP 109: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Mehr Innovationen beim Klimaschutz: Umweltakademie gründen
+- TOP 110: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN:Förderprogramm für die Anschaffung von Lastenrädern
+- TOP 111: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Klimaneutral 2035: Modernisierung städtischer Gebäude
+- TOP 112: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 500.000,- Euro Budget für Düsseldorfer Bürgerinitiativen, die seit mindestens fünf Jahren in den Bereichen Klima-, Lärm-, Umwelt- oder Verbraucherschutz tätig sind
+- TOP 113: Haushaltsantrag der SPD/Volt-Ratsfraktion: Verdopplung der Mittel für die Umrüstung auf LED Beleuchtung in städtischen Gebäuden
+- TOP 114: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Düsseldorf braucht eine "Solaroffensive"
+- TOP 115: Haushaltsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Düsseldorf braucht eine "Sanierungsoffensive"
+- TOP 116: Haushaltsantrag der SPD/Volt-Ratsfraktion: Zügige und effektive energetische Sanierung oder andere bauliche Maßnahmen von städtischen Gebäuden
+- TOP 117: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Initiative zur umweltfreundlicheren Rheinschifffahrt
+- TOP 118: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Prestige-Zuwendungen abschaffen
+- TOP 119: Haushaltsantrag der FDP-Ratsfraktion: Produkt 5757101 Sachkonto 54312300 Förderung der Wirtschaft, Geschäftsaufwendungen Akquisition und Bestandspflege - Förderung von Digitalisierungsmaßnahmen im Einzelhandel
+- TOP 120: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Haushaltsfinanzierung in der Corona-Krise nachhaltig sichern
+- TOP 121: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Verbesserungen der geltenden Hundesteuersatzung
+- TOP 122: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Verkauf von nicht zwingend für die kommunale Daseinsvorsorge notwenigen Vermögens
+- TOP 123: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Kammern, Verbände, Vereine, Gewerkschaften, freie Initiativen und Beiräte als beratende Mitglieder in Fachgremien und Ausschüssen
+- TOP 124: Änderungsantrag der AfD-Ratsfraktion zum Haushaltsplan-Entwurf 2021: Bedarfsermittlung und Anschaffung von Wolldecken/Ponchos für Schulen, Senioren und Pflegeheime
+- TOP 125: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 2.021,- Euro für die Aktivitäten anläßlich des 100jährigen Bestehens des Lohausener Sport-Vereins 1920 e.V.
+- TOP 126: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 2.021,- Euro für die Aktivitäten anläßlich des 100jährigen Bestehens des Spielmannzuges Angermund
+- TOP 127: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für die Hans-Rönn-Stiftung - Menschen für Tiere
+- TOP 128: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 5.000,- Euro für den FC Tannenhof 1950 e.V.
+- TOP 129: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für den Katzenschutzbund Düsseldorf e.V.
+- TOP 130: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für PAKT e.V.
+- TOP 131: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Duschbus für Obdachlose
+- TOP 132: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Zoopavillon - Geschichte des Zoologischen Gartens, von 1876 bis heute
+- TOP 133: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für die Siedlergemeinschaft Düsseldorf-Nord (seit 1931)
+- TOP 134: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für "Die Eulen e.V."
+- TOP 135: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Arbeitnehmerparkausweise in Bewohnerparkausweiszonen prüfen
+- TOP 136: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für die Tiertafel e.V.
+- TOP 137: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 50.000,- Euro für die Tierhilfe Düsseldorf e.V.
+- TOP 138: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 10.000,- Euro für die Initiative "Rettet die Wildvögel im Hofgarten"
+- TOP 139: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 300.000,- Euro für das Kinder- und Jugendhospiz Düsseldorf
+- TOP 140: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 5.000,- Euro für die Interessengemeinschaft Tannenhof e.V.
+- TOP 141: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 5.000,- Euro für die Bürgerinitiative RRX
+- TOP 142: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 10.000,- Euro für die KG Jrön Wisse Jonges 1950 e.V.
+- TOP 143: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 10.000.000,- Euro Coronahilfe für getroffene Unternehmer
+- TOP 144: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 46 weitere Betreuungsplätze gemäß der Istanbul-Konvention
+- TOP 145: Änderungsantrag der Ratsfraktion Die Linke zum Haushaltsplan-Entwurf 2021: Honorarauszahlung an selbstständige Mitarbeiter:innen der Volkshochschule
+- TOP 146: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Garather Abenteuerspielplatz unverzüglich ertüchtigen
+- TOP 147: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 5.000,- Euro für die Werbe- und Interessengemeinschaft Gerresheim
+- TOP 148: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 5.000,- Euro für Handwerk und Handel Angermund e.V.
+- TOP 149: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Initiative zur Änderung der Gewerbesteuer
+- TOP 150: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Sofortiges Öffnen aller Hallen- und Freibäder
+- TOP 151: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: 200.000,- Euro Anteil am muslimischen Friedhof
+- TOP 152: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Ansprechstelle für Ausstiegswillige
+- TOP 153: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Möglichkeiten für Ankauf, Vor- und Wiederkaufsrecht nutzen
+- TOP 154: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Sicherung und Ausbau von Gewerbeflächen
+- TOP 155: Haushaltsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER: Sofortige Rettung von Theater, Oper, Schauspielhäusern, wie z.B. dem Düsseldorfer Marionetten-Theater
