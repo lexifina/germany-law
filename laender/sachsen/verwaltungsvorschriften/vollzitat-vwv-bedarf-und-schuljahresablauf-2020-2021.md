@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2020/2021
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-01-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.4
+- Datum: 2021-02-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18674.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-15.01.2021
+05.02.2021
 bis
-04.02.2021
+04.03.2021
 
 VwV Bedarf und Schuljahresablauf 2020/2021
 
@@ -119,7 +119,7 @@ bis zu 5 Lehrerwochenstunden je inklusiv unterrichtetem Schüler mit sonderpäda
 
 b)
 
-0,4 Lehrerwochenstunden für jeden Schüler, der im Rahmen der dritten Etappe der Sächsischen Konzeption zur Integration von Migranten enthalten im Lehrplan Deutsch als Zweitsprache für allgemeinbildende Schulen und im Lehrplan Deutsch als Zweitsprache für berufsbildende Schulen mit Grundlagen der Ausbildungsreife und Berufsorientierung in eine Regelklasse oder in einen Kurs integriert ist,
+0,3 Lehrerwochenstunden für jeden Schüler, der im Rahmen der dritten Etappe der Sächsischen Konzeption zur Integration von Migranten enthalten im Lehrplan Deutsch als Zweitsprache für allgemeinbildende Schulen und im Lehrplan Deutsch als Zweitsprache für berufsbildende Schulen mit Grundlagen der Ausbildungsreife und Berufsorientierung in eine Regelklasse oder in einen Kurs integriert ist,
 
 
 c)
@@ -976,19 +976,20 @@ and more“, Leipziger Messe
 | „Tag der offenen Hochschultür in Sachsen“
 
 
-| 29. bis 31. Januar 2021
+| Termininformation siehe:
+www.messe-karrierestart.de
 
 | „KarriereStart 2021 – Die Bildungs-, Job- und Gründermesse in Sachsen“, Messe Dresden
 
 
-| 8. bis 13. März 2021
+| Juni 2021 (Termin wird noch bekanntgegeben)
 
 | „SCHAU REIN! – Woche der offenen Unternehmen Sachsen“
 
 
 | 22. April 2021
 
-| „Girls’ Day 2021“/„Boys‘ Day 2021“
+| „Girls’ Day 2021“/„Boys’ Day 2021“
 
 
 C
@@ -1020,12 +1021,12 @@ An Oberschulen gelten im besonderen Bildungsweg Produktives Lernen folgende Trim
 
 a)
 
-In der Klassenstufe 8 endet das erste Trimester am 18. Dezember 2020. Das zweite Trimester beginnt am 4. Januar 2021 und endet am 1. April 2021. Das dritte Trimester beginnt am 12. April 2021.
+In der Klassenstufe 8 endet das erste Trimester am 15. Januar 2021. Der Trimesterbericht wird mit Datum 15. Januar 2021 ausgestellt und ab 18. Januar 2021 ausgehändigt. Das zweite Trimester beginnt am 18. Januar 2021 und endet am 30. April 2021. Das dritte Trimester beginnt am 3. Mai 2021.
 
 
 b)
 
-In der Klassenstufe 9 endet das erste Trimester am 13. November 2020. Das zweite Trimester beginnt am 16. November 2020 und endet am 5. Februar 2021. Das dritte Trimester beginnt am 22. Februar 2021.
+In der Klassenstufe 9 endet das erste Trimester am 13. November 2020. Das zweite Trimester beginnt am 16. November 2020 und endet am 10. Februar 2021. Das dritte Trimester beginnt am 11. Februar 2021.
 
 6.
 
@@ -1042,15 +1043,15 @@ Für alle allgemeinbildenden Schularten werden die Halbjahresinformationen und H
 
 2.
 
-Die Jahreszeugnisse, Mitteilungen 3/I in LRS-Klassen sowie die Zeugnisse des Kurshalbjahres 11/II werden am 23. Juli 2021, die Zeugnisse des Kurshalbjahres 12/II am 22. Juni 2021 ausgegeben.
+Die Jahreszeugnisse, Mitteilungen 3/I in LRS-Klassen sowie die Zeugnisse des Kurshalbjahres 11/II werden am 23. Juli 2021, die Zeugnisse des Kurshalbjahres 12/II am 9. Juli 2021 ausgegeben.
 
 3.
 
-Die Abschlusszeugnisse für den Hauptschulabschluss, den qualifizierenden Hauptschulabschluss, den Realschulabschluss, den dem Hauptschulabschluss gleichgestellten Abschluss der Schule mit dem Förderschwerpunkt Lernen sowie die Zeugnisse über den erfolgreichen Abschluss im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung sowie die Abgangszeugnisse der Oberschule und der Förderschule sowie die Zeugnisse zur Schulentlassung im Förderschwerpunkt geistige Entwicklung werden im Zeitraum vom 16. Juli bis zum 23. Juli 2021 ausgegeben.
+Die Abschlusszeugnisse für den Hauptschulabschluss, den qualifizierenden Hauptschulabschluss, den Realschulabschluss, den dem Hauptschulabschluss gleichgestellten Abschluss der Schule mit dem Förderschwerpunkt Lernen sowie die Zeugnisse über den erfolgreichen Abschluss im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung sowie die Abgangszeugnisse der Oberschule und der Förderschule sowie die Zeugnisse zur Schulentlassung im Förderschwerpunkt geistige Entwicklung werden im Zeitraum vom 16. Juli bis zum 23. Juli 2021 ausgegeben. Im Einzelfall kann die Schule die Abschlusszeugnisse bis zum 30. Juli 2021 ausgeben.
 
 4.
 
-Die Zeugnisse der allgemeinen Hochschulreife und die Abgangszeugnisse des Gymnasiums, Abendgymnasiums und Kollegs werden an die Prüfungsteilnehmer in der Zeit vom 3. Juli bis zum 23. Juli 2021 und an Schulfremde in der Zeit vom 20. Juli bis zum 23. Juli 2021 ausgegeben. Für Schüler, die zum 1. Juli 2021 ihren freiwilligen Wehrdienst, Bundesfreiwilligendienst oder Jugendfreiwilligendienst antreten, soll die Schule die Zeugnisausgabe bis zum 1. Juli 2021 durchführen.
+Die Zeugnisse der allgemeinen Hochschulreife und die Abgangszeugnisse des Gymnasiums, Abendgymnasiums und Kollegs werden an die Prüfungsteilnehmer und an Schulfremde bis zum 24. Juli 2021 ausgegeben.
 
 
 III.
@@ -1070,7 +1071,7 @@ Die Fachlehrer übergeben dem Klassenlehrer für die Schüler der Klassenstufe 9
 
 b)
 
-Bis zum 28. Mai 2021 erfasst der Prüfungsausschuss die von den Prüfungsteilnehmern gewählten mündlichen Prüfungsfächer sowie das von den Prüfungsteilnehmern an der Realschulabschlussprüfung gewählte naturwissenschaftliche Fach für die schriftliche Prüfung.
+Bis zum 28. Mai 2021 erfasst der Prüfungsausschuss die von den Prüfungsteilnehmern gewählten mündlichen Prüfungsfächer sowie das von den Prüfungsteilnehmern an der Realschulabschlussprüfung gewählte naturwissenschaftliche Fach für die schriftliche Prüfung. Eine Ersterfassung dazu erfolgt durch den Prüfungsausschuss bis zum 26. Februar 2021.
 
 
 c)
@@ -1204,7 +1205,7 @@ Die schriftlichen Prüfungen beginnen um 8:00 Uhr. Abweichungen davon bedürfen 
 
 e)
 
-Die Tage zwischen den schriftlichen Prüfungen sind für die Teilnehmer unterrichtsfrei. 
+Spätestens ab 17. Mai 2021 werden Konsultationen für die schriftlichen Abschlussprüfungen angeboten. Die Tage zwischen den schriftlichen Prüfungen sind für die Teilnehmer unterrichtsfrei. 
 
 
 f)
@@ -1238,7 +1239,7 @@ Die Schule bietet zur unmittelbaren Vorbereitung auf die mündlichen Prüfungen 
 
 b)
 
-Die mündlichen Prüfungen, einschließlich der zusätzlich beantragten, sind im Zeitraum vom 28. Juni bis zum 15. Juli 2021 durchzuführen. Abweichend hiervon ist eine von Schülern der vertieften sportlichen Ausbildung im Fach Sport beantragte mündliche Prüfung im Zeitraum vom 11. Juni bis zum 25. Juni 2021 durchzuführen. In Einzelfällen können mündliche Prüfungen und zusätzlich beantragte mündliche Prüfungen auch noch bis zum 3. September 2021 durchgeführt werden.
+Die mündlichen Prüfungen, einschließlich der zusätzlich beantragten, sind im Zeitraum vom 28. Juni bis zum 15. Juli 2021 durchzuführen. Der Zeitraum für die Durchführung der mündlichen und zusätzlichen Prüfungen kann in Eigenverantwortung der Schule bis zum 23. Juli 2021 verlängert werden. Abweichend von Satz 1 soll eine von Schülern der vertieften sportlichen Ausbildung im Fach Sport beantragte mündliche Prüfung im Zeitraum vom 11. Juni bis zum 25. Juni 2021 durchgeführt werden. In Einzelfällen können mündliche Prüfungen und zusätzlich beantragte mündliche Prüfungen in Abstimmung mit dem Landesamt für Schule und Bildung bis zum 1. Oktober 2021 durchgeführt werden.
 
 
 c)
@@ -1262,7 +1263,7 @@ Schulfremde, die einen Hauptschulabschluss, qualifizierenden Hauptschulabschluss
 Analyseergebnisse
 
 
-Der Bericht über die Analyseergebnisse der Prüfungen erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 16. Juli 2021.
+Der Bericht über die Analyseergebnisse der Prüfungen erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 23. Juli 2021.
 
 6.
 
@@ -1449,17 +1450,17 @@ Mündliche Prüfungen
 
 a)
 
-Die mündlichen Prüfungen (P4 und P5) werden vom 18. Mai bis zum 9. Juni 2021 durchgeführt. Die Bekanntgabe der Ergebnisse der schriftlichen Abiturprüfung und der Ergänzungsprüfung, die Bekanntgabe der Zulassung oder Nichtzulassung zur mündlichen Ergänzungsprüfung sowie die Anordnung zusätzlicher mündlicher Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 1 der Schulordnung Gymnasien Abiturprüfung findet am 22. Juni 2021 statt.
+Die mündlichen Prüfungen (P4 und P5) werden vom 18. Mai bis zum 4. Juni 2021 durchgeführt. Die Bekanntgabe der Ergebnisse der schriftlichen Abiturprüfung und der Ergänzungsprüfung, die Bekanntgabe der Zulassung oder Nichtzulassung zur mündlichen Ergänzungsprüfung sowie die Anordnung zusätzlicher mündlicher Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 1 der Schulordnung Gymnasien Abiturprüfung findet am 22. Juni 2021 statt.
 
 
 b)
 
-Die Anordnung der zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung durch den Prüfungsausschuss erfolgt am 25. Juni 2021. Die zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 der Schulordnung Gymnasien Abiturprüfung sowie die mündliche Ergänzungsprüfung (Latinum oder Graecum oder Hebraicum) werden vom 28. Juni bis zum 2. Juli 2021 durchgeführt.
+Die Anordnung der zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung durch den Prüfungsausschuss erfolgt am 25. Juni 2021. Die zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 der Schulordnung Gymnasien Abiturprüfung sowie die mündliche Ergänzungsprüfung (Latinum oder Graecum oder Hebraicum) werden vom 16. Juli bis zum 22. Juli 2021 durchgeführt.
 
 
 c)
 
-Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualifikation und die Bekanntgabe der Entscheidung über Anträge auf Vorliegen eines außergewöhnlichen Härtefalles gemäß § 63 der Schulordnung Gymnasien Abiturprüfung für die Prüfungsteilnehmer finden am 2. Juli 2021 statt. Für Schüler, die zum 1. Juli 2021 ihren freiwilligen Wehrdienst, Bundesfreiwilligendienst oder Jugendfreiwilligendienst antreten und bei denen keine zusätzlichen mündlichen Prüfungen angeordnet wurden oder diese bereits bis zum 30. Juni 2021 durchgeführt wurden, gilt Satz 1 mit der Maßgabe, dass die Beratungen und Bekanntgaben am 30. Juni 2021 stattfinden.
+Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualifikation und die Bekanntgabe der Entscheidung über Anträge auf Vorliegen eines außergewöhnlichen Härtefalles gemäß § 63 der Schulordnung Gymnasien Abiturprüfung für die Prüfungsteilnehmer finden am 22. Juli 2021 statt.
 
 7.
 
@@ -1473,7 +1474,7 @@ Bis zum 28. September 2020 berichtet jede Schule dem Landesamt für Schule und B
 
 b)
 
-Bis zum 4. Januar 2021 (Ersttermin) sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen beim Vorsitzenden des Prüfungsausschusses einzureichen. Für Prüfungsteilnehmer, die aus einem von ihnen nicht zu vertretenden Grund, insbesondere wegen ärztlich attestierter Erkrankung, den Ersttermin nicht einhalten können, ist das Einreichen bis zum 5. Februar 2021 (Nachtermin) möglich.
+Bis zum 8. Februar 2021 sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen beim Vorsitzenden des Prüfungsausschusses einzureichen.
 
 
 c)
@@ -1495,7 +1496,7 @@ Die Kolloquien zu Besonderen Lernleistungen werden vom 25. Mai bis zum 2. Juni 2
 Analyseergebnisse
 
 
-Der Bericht über die Analyseergebnisse der Abiturprüfung erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 16. Juli 2021.
+Der Bericht über die Analyseergebnisse der Abiturprüfung erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 28. Juli 2021.
 
 9.
 
@@ -1519,131 +1520,16 @@ Zusätzliche mündliche Prüfungen gemäß § 71 Absatz 10 Satz 1 Nummer 2 der S
 
 d)
 
-In den Fächern des mündlichen Teils der Prüfung sind die zusätzlichen mündlichen Prüfungen gemäß § 71 Absatz 10 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung spätestens am zweiten Werktag nach der erstmaligen Prüfung in diesem Fach beim Vorsitzenden des Prüfungsausschusses zu beantragen. Die zusätzlichen mündlichen Prüfungen in den Fächern des mündlichen Teils der Prüfung finden in der Zeit vom 13. Juli bis zum 19. Juli 2021 statt.
+In den Fächern des mündlichen Teils der Prüfung sind die zusätzlichen mündlichen Prüfungen gemäß § 71 Absatz 10 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung spätestens am zweiten Werktag nach der erstmaligen Prüfung in diesem Fach beim Vorsitzenden des Prüfungsausschusses zu beantragen. Die zusätzlichen mündlichen Prüfungen in den Fächern des mündlichen Teils der Prüfung finden in der Zeit vom 16. Juli bis zum 22. Juli 2021 statt.
 
 
 e)
 
-Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualifikation und die Bekanntgabe der Entscheidung über Anträge auf Vorliegen eines außergewöhnlichen Härtefalls gemäß § 63 der Schulordnung Gymnasien Abiturprüfung für die Schulfremden finden am 19. Juli 2021 statt.
+Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualifikation und die Bekanntgabe der Entscheidung über Anträge auf Vorliegen eines außergewöhnlichen Härtefalls gemäß § 63 der Schulordnung Gymnasien Abiturprüfung für die Schulfremden finden am 22. Juli 2021 statt.
 
 
 V.
-Besondere Leistungsfeststellung an Gymnasien
-
-1.
-
-Die Materialien für die Schüler sowie die Bewertungshinweise für die Fachlehrer werden über den Sächsischen Bildungsserver zur Verfügung gestellt
-
-(www.bildung.sachsen.de/blf). Die Veröffentlichung der Aufgabenstellungen erfolgt aufgrund der notwendigen Geheimhaltung passwortgeschützt. Die mit der Vervielfältigung der Materialien Beauftragten sind durch den Schulleiter auf eine entsprechende Verschwiegenheit hinzuweisen.
-
-2.
-
-Termine 
-
-
-a)
-
-Ersttermine
-
-
-Ersttermine
-
-
-| Fach
-
-| Termin der Veröffentlichung im Schulportal
-
-| Termin zum Schreiben der Arbeit
-
-
-| Fach
-
-| Termin der
-Veröffentlichung im
-Schulportal
-
-| Termin zum
-Schreiben der
-Arbeit
-
-
-| Deutsch, Sorbisch
-
-| 24. Februar 2021
-
-| 1. März 2021
-
-
-| Englisch
-
-| 26. Februar 2021
-
-| 3. März 2021
-
-
-| Mathematik
-
-| 2. März 2021
-
-| 5. März 2021
-
-
-b)
-
-Nachtermine
-
-
-Nachtermine
-
-
-| Fach
-
-| Termin der Veröffentlichung im Schulportal
-
-| Termin zum Schreiben der Arbeit
-
-
-| Fach
-
-| Termin der
-Veröffentlichung im
-Schulportal
-
-| Termin zum
-Schreiben der
-Arbeit
-
-
-| Deutsch, Sorbisch
-
-| 10. März 2021
-
-| 15. März 2021
-
-
-| Englisch
-
-| 12. März 2021
-
-| 17. März 2021
-
-
-| Mathematik
-
-| 16. März 2021
-
-| 19. März 2021
-
-
-3.
-
-Der Bericht über die Analyseergebnisse der besonderen Leistungsfeststellung erfolgt durch den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 16. Juli 2021.
-
-
-4.
-
-Für Anträge auf Nachteilsausgleich gemäß § 27 Absatz 4 Satz 3 der Schulordnung Gymnasien Abiturprüfung gilt Teil C Ziffer IV Nummer 2 entsprechend.
-
+(gestrichen)
 
 VI.
 Feststellungsprüfungen und Prüfungen in der Herkunftssprache
@@ -1891,15 +1777,15 @@ Palucca Hochschule für Tanz Dresden – Oberschule
 
 1.
 
-Die Eltern von Schülern der Klassenstufe 4 können bis zum 14. Dezember 2020 den Antrag auf Teilnahme am Aufnahmeverfahren für die Klassenstufe 5 der Orientierungsstufe an der Palucca-Hochschule für Tanz Dresden – Oberschule stellen.
+Die Eltern von Schülern der Klassenstufe 4 können bis zum 26. März 2021 den Antrag auf Teilnahme am Aufnahmeverfahren für die Klassenstufe 5 der Orientierungsstufe an der Palucca-Hochschule für Tanz Dresden – Oberschule stellen.
 
 2.
 
-Das Aufnahmeverfahren findet unter Einbeziehung der Palucca-Hochschule für Tanz Dresden in der Regel bis zum 5. Februar 2021 statt.
+Das Aufnahmeverfahren findet unter Einbeziehung der Palucca-Hochschule für Tanz Dresden in der Regel bis zum 21. Mai 2021 statt.
 
 3.
 
-Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die Palucca-Hochschule für Tanz Dresden – Oberschule bis zum 19. Februar 2021 mitgeteilt. Bei nicht bestandenem Aufnahmeverfahren stellen die Eltern der Schüler der Klassenstufe 4 bis zum 26. Februar 2021 einen Antrag auf Aufnahme an einer anderen Oberschule oder einem Gymnasium.
+Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die Palucca-Hochschule für Tanz Dresden – Oberschule bis zum 31. Mai 2021 mitgeteilt. Eltern der Schüler der Klassenstufe 4 melden vorbehaltlich des Ergebnisses des Aufnahmeverfahrens vorsorglich ihr Kind bis zum 26. Februar 2021 an einer anderen Oberschule oder einem Gymnasium an.
 
 4.
 
@@ -1931,7 +1817,7 @@ Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die prüfenden Gymnasi
 
 d)
 
-Die Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, oder für Schüler der Klassenstufe 4 mit Bildungsempfehlung für die Oberschule, die an der schriftlichen Leistungserhebung und am verpflichtenden Beratungsgespräch teilgenommen haben, finden am 29. März 2021 und am 30. März 2021 statt. Ihre Ergebnisse werden den Eltern unverzüglich mitgeteilt. Für Schüler, die aus wichtigen Gründen an der Teilnahme an den Nachprüfungen des Aufnahmeverfahrens verhindert waren, soll das betreffende Gymnasium das Aufnahmeverfahren bis zum 23. April 2021 durchführen.
+Die Termine für die Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, oder für Schüler der Klassenstufe 4 mit Bildungsempfehlung für die Oberschule, die an der schriftlichen Leistungserhebung und am verpflichtenden Beratungsgespräch teilgenommen haben, legt die Schule individuell fest.
 
 
 e)
@@ -1960,7 +1846,7 @@ Das Ergebnis des Aufnahmeverfahrens wird den Eltern durch die prüfenden Gymnasi
 
 d)
 
-Die Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, finden am 29. März 2021 und am 30. März 2021 statt. Ihre Ergebnisse werden den Eltern unverzüglich mitgeteilt. Eine Ausnahme bilden die besonderen sportlichen Eignungsprüfungen.
+Die Termine der Nachprüfungen für Schüler, die aus wichtigen Gründen an der Prüfungsteilnahme verhindert waren, legt die Schule individuell fest. Ihre Ergebnisse werden den Eltern unverzüglich mitgeteilt. Eine Ausnahme bilden die besonderen sportlichen Eignungsprüfungen.
 
 
 e)
@@ -1982,7 +1868,7 @@ Die Eltern von Schülern der Klassenstufe 6 des Gymnasiums, die an das Landesgym
 
 2.
 
-Die Aufnahmeprüfung findet im Rahmen von zweitägigen Schülerauswahlverfahren statt, die das Landesgymnasium Sankt Afra zu Meißen vom 26. Februar bis zum 27. Februar 2021 und vom 5. März bis zum 6. März 2021 durchführt.
+Die Aufnahmeprüfung findet im Rahmen von zweitägigen Schülerauswahlverfahren statt, die das Landesgymnasium Sankt Afra zu Meißen vom 8. März bis zum 9. März 2021 und vom 11. März bis zum 12. März 2021 durchführt.
 
 3.
 
@@ -2002,122 +1888,7 @@ Die Entscheidung über das Bestehen der Aufnahmeprüfung wird den Teilnehmern an
 
 
 XIII.
-Kompetenztests
-
-1.
-
-Mit Kompetenztests werden Lernergebnisse im Hinblick auf die Bildungsstandards der Kultusministerkonferenz überprüft. Für öffentliche Grundschulen, Oberschulen und Gymnasien sowie für Förderschulen, an denen nach den Lehrplänen der Grund- oder Oberschule unterrichtet wird, ist die Teilnahme an den Kompetenztests in mindestens einem Unterrichtsfach pro Klasse der Klassenstufen 3 und 8 verpflichtend. Die Gesamtlehrerkonferenz entscheidet über das verpflichtend zu testende Fach und die freiwillige Durchführung der Kompetenztests in weiteren Fächern. Schüler, die im Hauptschulbildungsgang der Schule mit dem Förderschwerpunkt Lernen unterrichtet werden, können in der Klassenstufe 9 teilnehmen.
-
-2.
-
-Inklusiv an Grundschulen, Oberschulen und Gymnasien unterrichtete Schüler mit festgestelltem sonderpädagogischen Förderbedarf müssen nur dann an den Kompetenztests teilnehmen, wenn sie lernzielgleich unterrichtet werden. Entscheidungen über erforderliche Modifizierungen des Tests nach dem Umfang und der Ausprägung des sonderpädagogischen Förderbedarfs trifft der Schulleiter. Entsprechend ist bei diagnostizierten Teilleistungsschwächen zu verfahren. 
-
-3.
-
-An Schulen mit dem Förderschwerpunkt Hören kann nach Einzelfallentscheidung des Schulleiters für ausgewählte Schüler die Teilnahme am Kompetenztest im Fach Englisch entfallen. 
-
-4.
-
-Die Testhefte für die Schulen mit dem Förderschwerpunkt Hören und die Schulen mit dem Förderschwerpunkt Sehen werden in Zusammenarbeit mit den Schulen per E-Mail zur Verfügung gestellt.
-
-5.
-
-Die Testdauer kann nach Einzelfallentscheidung des Schulleiters an den Schulen mit dem Förderschwerpunkt Hören, den Schulen mit dem Förderschwerpunkt Sehen, den Schulen mit dem Förderschwerpunkt körperliche und motorische Entwicklung, den Schulen mit dem Förderschwerpunkt Sprache, den Schulen mit dem Förderschwerpunkt emotionale und soziale Entwicklung sowie für Schüler an Regelschulen mit festgestelltem sonderpädagogischen Förderbedarf oder diagnostizierter Teilleistungsschwäche verlängert werden. 
-
-6.
-
-Kompetenztests werden nicht benotet. Die Schulen informieren Schüler und Eltern über die Ergebnisse.
-
-7.
-
-Die Durchführung der Kompetenztests erfolgt nach folgendem Zeitplan:
-
-
-a)
-
-Papier-und-Stift-Variante
-
-
-Papier-und-Stift-Variante
-
-
-| Klassenstufe
-
-| Mathematik
-
-| Deutsch
-
-| Englisch
-
-
-| Klassenstufe
-
-| Mathematik
-
-| Deutsch
-
-| Englisch
-
-
-| 3
-
-| 22. April 2021
-
-| 26. April 2021
-(Teil 1)*,
-27. April 2021
-(Teil 2)* 
-
-| –
-
-
-| 8
-
-| 26. Februar 2021
-
-| 24. Februar 2021
-
-| 25. Februar 2021
-
-
-*
-
-nur gemeinsam wählbar
-
-
-b)
-
-Online-Test
-
-
-Online-Test
-
-
-| Klassenstufe
-
-| Deutsch
-
-| Englisch
-
-
-| Klassenstufe
-
-| Deutsch
-
-| Englisch
-
-
-| 8
-
-| 24. Februar 2021**
-
-| 25. Februar 2021**
-
-
-**
-
-Aus dringenden schulorganisatorischen Gründen kann die Schule die Durchführung des Online-Tests auf einen Zeitraum bis spätestens 9. März 2021 verteilen.
-
+(gestrichen)
 
 D
 Regelungen zum Ablauf und zur Durchführung
@@ -2169,7 +1940,7 @@ Zeugnisse der Fachhochschulreife und Abgangszeugnisse der Fachoberschulen werden
 
 2.
 
-Zeugnisse der Allgemeinen Hochschulreife und Abgangszeugnisse der Beruflichen Gymnasien werden in der Zeit vom 1. Juli bis zum 23. Juli 2021 ausgegeben.
+Zeugnisse der Allgemeinen Hochschulreife und Abgangszeugnisse der Beruflichen Gymnasien werden in der Zeit vom 12. Juli bis zum 24. Juli 2021 ausgegeben.
 
 
 III.
@@ -2448,7 +2219,7 @@ Bautechnik (L)
 
 | zusätzliche Prüfungen
 
-| 17. Juni bis 30. Juni 2021
+| 16. Juli bis 22. Juli 2021
 
 
 Im Prüfungszeitraum vom 28. April bis zum 28. Mai 2021 findet für die Jahrgangsstufe 13 kein Unterricht statt.
@@ -2516,7 +2287,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 11. März 2021
 
@@ -2527,7 +2298,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 11. März 2021
 
@@ -2538,7 +2309,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 18. März 2021
 
@@ -2549,7 +2320,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 5. Juli 2021
 
@@ -2560,7 +2331,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 8. Juli 2021
 
@@ -2571,18 +2342,18 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 8. Juli 2021
 
 
 | Englisch
 
-| Chemie-und chemieverwandte Berufe
+| Chemie- und chemieverwandte Berufe
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 9. Juli 2021
 
@@ -2593,7 +2364,7 @@ Prüfung
 
 | B1
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 9. Juli 2021
 
@@ -2604,7 +2375,7 @@ Prüfung
 
 | B2
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 11. März 2021
 
@@ -2615,7 +2386,7 @@ Prüfung
 
 | B2
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 18. März 2021
 
@@ -2626,7 +2397,7 @@ Prüfung
 
 | B2
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 18. März 2021
 
@@ -2637,7 +2408,7 @@ Prüfung
 
 | B2
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 6. Juli 2021
 
@@ -2648,7 +2419,7 @@ Prüfung
 
 | B2
 
-| 4. Januar 2021
+| 8. Februar 2021
 
 | 9. Juli 2021
 
@@ -2664,48 +2435,15 @@ Fachoberschule
 Fachoberschule
 
 
-| Gliederung
-
 | Termin für
 
 | Tag
 
 
-| a)
-
 | Termin der Aufnahmeprüfung
 in der Fachrichtung Gestaltung: 
 
 | 17. April 2021
-
-
-| b)
-
-| Termine der Vergleichsarbeiten
-in Klassenstufe 11:
-
-| 
-
-
-| 
-
-| Deutsch
-
-| 21. Juni 2021
-
-
-| 
-
-| Englisch
-
-| 23. Juni 2021
-
-
-| 
-
-| Mathematik
-
-| 25. Juni 2021
 
 
 2.
@@ -2728,7 +2466,7 @@ Termine im Zusammenhang mit der Abiturprüfung
 
 | Mitteilung über die Zulassung oder Nichtzulassung zur Abiturprüfung
 
-| 31. März 2021
+| 26. März 2021
 
 
 | Abgabe der korrigierten und bewerteten Prüfungsarbeiten beim Vorsitzenden des Prüfungsausschusses (Haupttermin)
@@ -2764,34 +2502,6 @@ Termine zur Besonderen Lernleistung (BELL)
 | 25. Mai bis 4. Juni 2021
 
 
-c)
-
-Termine der Vergleichsarbeiten in Klassenstufe 11
-
-
-Termine der Vergleichsarbeiten in Klassenstufe 11
-
-
-| Aktion
-
-| Termin
-
-
-| Mathematik
-
-| 19. März 2021
-
-
-| Englisch
-
-| 23. März 2021
-
-
-| Deutsch
-
-| 25. März 2021
-
-
 V.
 Anlage zu D
 
@@ -2823,9 +2533,9 @@ Fsn-Nr.: 710-V20.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 15. Januar 2021
+Fassung gültig ab:  5. Februar 2021
 
-Fassung gültig bis:  4. Februar 2021
+Fassung gültig bis:  4. März 2021
 
 Drucken/Speichern
 
@@ -2852,7 +2562,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18674.4
+https://www.revosax.sachsen.de/vorschrift/18674.5
 Stand vom
 18.11.2026
 
