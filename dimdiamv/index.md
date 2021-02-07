@@ -1,4 +1,4 @@
-# Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Deutschen Instituts für Medizinische Dokumentation und Information
+# Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Art und Inhalt des Informationssystems](0001.md)

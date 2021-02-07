@@ -6,7 +6,7 @@
 - [§ 1 Grundsatz](0001.md)
 - [§ 2 Meldepflichtige](0002.md)
 - [§ 3 Zu meldender Personenkreis](0003.md)
-- [§ 4](0004.md)
+- [§ 4 (weggefallen)](0004.md)
 - [§ 5 Allgemeine Vorschriften](0005.md)
 
 ## Zweiter Abschnitt Allgemeine Vorschriften
@@ -53,7 +53,7 @@ durch Datenübertragung
 ### Dritter Unterabschnitt Durchführung der Datenübertragung
 
 - [§ 23 Annahmestelle, Zeitpunkt](0023.md)
-- [§ 24](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Unterrichtung des Arbeitnehmers](0025.md)
 
 ## Vierter Abschnitt Beitragsnachweisverfahren
@@ -72,7 +72,7 @@ der Meldungen durch die Sozialversicherungsträger
 - [§ 32 (weggefallen)](0032.md)
 - [§ 33 Übernahme und Prüfung der Daten durch die Einzugsstellen](0033.md)
 - [§ 34 (weggefallen)](0034.md)
-- [§ 35](0035.md)
+- [§ 35 (weggefallen)](0035.md)
 - [§ 36 Aufgaben der Datenstelle der Rentenversicherung](0036.md)
 - [§ 37 (weggefallen)](0037.md)
 

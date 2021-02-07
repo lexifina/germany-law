@@ -2,6 +2,7 @@
 
 | 1.AbschnittAllgemeine Bestimmungen |
 | § 1 | Zweck |
+| § 1a | Geltungsbestimmung |
 | § 2 | Begriffsbestimmungen |
 | § 3 | Weinanbaugebiet |
 | § 3a | Elektronische Kommunikation |
@@ -17,7 +18,8 @@
 | § 7b | Festlegung von Prioritätskriterien |
 | § 7c | Zuständigkeit und Verfahren |
 | § 7d | Inanspruchnahme der Genehmigung |
-| § 7e | Vom Genehmigungssystem ausgenommene Flächen |
+| § 7e | Vom Genehmigungssystem ausgenommene Flächen; Verordnungsermächtigung |
+| § 7f | Anpflanzung zu Forschungs- und Versuchszwecken; Verordnungsermächtigung |
 | § 8 | Klassifizierung von Rebsorten |
 | § 8a | Bewirtschaftung des Produktionspotenzials |
 | § 8b | (weggefallen) |
@@ -51,7 +53,7 @@
 | § 22e | Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014 |
 | § 22f | Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe |
 | § 22g | Organisationen zur Verwaltung herkunftsgeschützter Weinnamen |
-| § 23 | Angabe kleinerer geografischer Einheiten |
+| § 23 | Angabe kleinerer und größerer geografischer Einheiten |
 | § 23a | (weggefallen) |
 | § 24 | Bezeichnungen und sonstige Angaben |
 | § 24a | Besondere Bezeichnungen für Qualitätsschaumwein |

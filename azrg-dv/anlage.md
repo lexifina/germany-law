@@ -803,7 +803,7 @@ Allgemeiner Datenbestand
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 |  |  |  |  |
 | Ausweisung und Hinweis auf Begründungstext | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
 | – wie vorstehend Spalte A Buchstabe g, i, j, l bis n und q bis s – |  |  |  |  |
-| – wie vorstehend Spalte A Buchstabe g bis s – |  |  |  | – Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
+| – wie vorstehend Spalte A Buchstabe g bis s – | – Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 | Ausweisung und Hinweis auf Begründungstext – wie vorstehend Spalte A Buchstabe h, k, o, p und s – | (3) | – wie vorstehend – | – wie vorstehend – | zur Durchführung ausländer- oder asylrechtlicher Aufgaben: – nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
 | A | A1*) | B**) | C | D |

@@ -5,11 +5,12 @@
 ## 1. Abschnitt Allgemeine Bestimmungen
 
 - [§ 1 Zweck](0001.md)
+- [§ 1a Geltungsbestimmung](0001a.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Weinanbaugebiet](0003.md)
 - [§ 3a Elektronische Kommunikation](0003a.md)
 - [§ 3b Stützungsprogramm](0003b.md)
-- [§ 3c Sachverständigenausschuss](0003c.md)
+- [§ 3c (weggefallen)](0003c.md)
 
 ## 2. Abschnitt Anbauregeln
 
@@ -22,7 +23,8 @@
 - [§ 7b Festlegung von Prioritätskriterien](0007b.md)
 - [§ 7c Zuständigkeit und Verfahren](0007c.md)
 - [§ 7d Inanspruchnahme von Genehmigungen](0007d.md)
-- [§ 7e Vom Genehmigungssystem ausgenommene Flächen](0007e.md)
+- [§ 7e Vom Genehmigungssystem ausgenommene Flächen; Verordnungsermächtigung](0007e.md)
+- [§ 7f Anpflanzung zu Forschungs- und Versuchszwecken; Verordnungsermächtigung](0007f.md)
 - [§ 8 Klassifizierung von Rebsorten](0008.md)
 - [§ 8a Bewirtschaftung des Produktionspotenzials](0008a.md)
 - [§ 8b (weggefallen)](0008b.md)
@@ -58,7 +60,7 @@
 - [§ 22e Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014](0022e.md)
 - [§ 22f Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe](0022f.md)
 - [§ 22g Organisationen zur Verwaltung herkunftsgeschützter Weinnamen](0022g.md)
-- [§ 23 Angabe kleinerer geografischer Einheiten](0023.md)
+- [§ 23 Angabe kleinerer und größerer geografischer Einheiten](0023.md)
 - [§ 24 Bezeichnungen und sonstige Angaben](0024.md)
 - [§ 24a Besondere Bezeichnungen für Qualitätsschaumwein](0024a.md)
 - [§ 25 Verbote zum Schutz vor Täuschung](0025.md)
