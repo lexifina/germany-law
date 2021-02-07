@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit den §§ 10 und 10a sowie Anlage 2 Nummer 10 und Anlage 3 der Bundeslaufbahnverordnung, von denen § 10 Absatz 1 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert, § 10a durch Artikel 1 Nummer 3 der Verordnung vom 18. Januar 2017 (BGBl. I S. 89) eingefügt und Anlage 2 durch Artikel 1 Nummer 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung:

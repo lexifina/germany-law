@@ -1,0 +1,17 @@
+# Gesetz zur Durchführung der EU-Verordnung über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe
+
+- [§ 1 Zweck des Gesetzes](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Kontaktstellen](0003.md)
+- [§ 4 Datenverarbeitung durch die Kontaktstellen](0004.md)
+- [§ 5 Inspektionsbehörden](0005.md)
+- [§ 6 Befugnisse der Inspektionsbehörden](0006.md)
+- [§ 7 Mitwirkung der Zolldienststellen](0007.md)
+- [§ 8 Mitwirkungs- und Duldungspflichten](0008.md)
+- [§ 9 Identitätsnachweis beim Erwerb von Ausgangsstoffen für Explosivstoffe](0009.md)
+- [§ 10 Genehmigungssystem](0010.md)
+- [§ 11 Schulungs- und Sensibilisierungsmaßnahmen](0011.md)
+- [§ 12 Berichterstattung](0012.md)
+- [§ 13 Strafvorschriften](0013.md)
+- [§ 14 Bußgeldvorschriften](0014.md)
+- [§ 15 Verordnungsermächtigung](0015.md)

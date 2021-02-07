@@ -1,0 +1,16 @@
+# Verordnung zur Durchführung von Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Weitere Begriffsbestimmungen und Wertfestlegung bei einschränkenden Maßnahmen](0003.md)
+- [§ 4 Verfahren zum Erlass einer Allgemeinverfügung](0004.md)
+- [§ 5 Darlehensvergabe unter festgelegten Beschränkungen](0005.md)
+- [§ 6 Obergrenze für die Darlehensvolumen-Immobilienwert-Relation](0006.md)
+- [§ 7 Amortisationsanforderung](0007.md)
+- [§ 8 Ausnahmen](0008.md)
+- [§ 9 Freikontingent](0009.md)
+- [§ 10 Bagatellgrenze](0010.md)
+- [§ 11 Unterer und oberer Schwellenwert](0011.md)
+- [§ 12 Überprüfung festgelegter Beschränkungen](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
