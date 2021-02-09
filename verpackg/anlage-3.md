@@ -1,7 +1,7 @@
-# Anlage 3 (zu § 5 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
+# Anlage 3 (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
 
 1. Anwendungsbereich
-  Der in § 5 Satz 1 festgelegte Schwermetallgrenzwert gilt nicht für Kunststoffkästen und -paletten, die in geschlossenen und kontrollierten Produktkreisläufen zirkulieren und die nachfolgend genannten Anforderungen erfüllen.
+  Der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert gilt nicht für Kunststoffkästen und -paletten, die in geschlossenen und kontrollierten Produktkreisläufen zirkulieren und die nachfolgend genannten Anforderungen erfüllen.
 2. Begriffsbestimmungen
   Für die Zwecke dieser Festlegung sind
   – „bewusste Zugabe“:

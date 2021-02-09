@@ -7,7 +7,7 @@
 - [§ 2 Anwendungsbereich](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Allgemeine Anforderungen an Verpackungen](0004.md)
-- [§ 5 Stoffbeschränkungen](0005.md)
+- [§ 5 Beschränkungen des Inverkehrbringens](0005.md)
 - [§ 6 Kennzeichnung zur Identifizierung des Verpackungsmaterials](0006.md)
 
 ## Abschnitt 2 Inverkehrbringen von systembeteiligungspflichtigen Verpackungen
@@ -58,6 +58,6 @@
 - [§ 35 Übergangsvorschriften](0035.md)
 - [Anlage 1 (zu § 3 Absatz 1)Verpackungskriterien und -beispiele](anlage-1.md)
 - [Anlage 2 (zu § 3 Absatz 7)Schadstoffhaltige Füllgüter im Sinne von § 3 Absatz 7](anlage-2.md)
-- [Anlage 3 (zu § 5 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt](anlage-3.md)
-- [Anlage 4 (zu § 5 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt](anlage-4.md)
+- [Anlage 3 (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt](anlage-3.md)
+- [Anlage 4 (zu § 5 Absatz 1 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt](anlage-4.md)
 - [Anlage 5 (zu § 6)Kennzeichnung von Verpackungen](anlage-5.md)

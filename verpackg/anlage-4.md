@@ -1,12 +1,12 @@
-# Anlage 4 (zu § 5 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
+# Anlage 4 (zu § 5 Absatz 1 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
 
 1. Begriffsbestimmungen
-  Für die Zwecke dieser Festlegung gelten für die Begriffe „bewusste Zugabe“ und „zufällige Präsenz“ die Begriffsbestimmungen in Nummer 2 der Anlage 3 zu § 5 Satz 2 Nummer 2.
+  Für die Zwecke dieser Festlegung gelten für die Begriffe „bewusste Zugabe“ und „zufällige Präsenz“ die Begriffsbestimmungen in Nummer 2 der Anlage 3 zu § 5 Absatz 1 Satz 2 Nummer 2.
 2. Herstellung
   (1)
   Blei, Cadmium, Quecksilber und Chrom VI dürfen bei der Fertigung nicht bewusst als Bestandteil zugegeben werden.
   (2)
-  Der Grenzwert nach § 5 Satz 1 darf nur überschritten werden, wenn dies auf den Einsatz von Sekundärrohstoffen zurückzuführen ist.
+  Der Grenzwert nach § 5 Absatz 1 Satz 1 darf nur überschritten werden, wenn dies auf den Einsatz von Sekundärrohstoffen zurückzuführen ist.
 3. Kontrolle
   (1)
   Überschreitet die durchschnittliche Schwermetallkonzentration aus in zwölf aufeinander folgenden Monaten durchgeführten monatlichen Kontrollen der Produktion jedes einzelnen Glasofens, die repräsentativ für die normale und regelmäßige Produktionstätigkeit sind, den Grenzwert von 200 mg/kg, so hat der Hersteller der Glasverpackungen oder sein bevollmächtigter Vertreter der zuständigen Behörde einen Bericht vorzulegen. Dieser Bericht muss mindestens folgende Angaben enthalten:
