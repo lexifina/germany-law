@@ -1,0 +1,108 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-02-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6310055
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6310055
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Unveränderte Gaststättenfortführungen
+- TOP B 4.3.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: Stadtbezirksbudget Antrag des Vereins PA / Spielen in der Stadt e.V. auf Erhöhung der bereits bewilligten Zuwendung um 352,00 € auf insgesamt 1.623,00 € für die Maßnahme: Artmobil 2021
+- TOP 2.2.: (E) Stadtbezirksbudget Tanztendenz München e.V. Residenzprogramm der Tanztendenz von März - Dezember 2021 7.962,80 Euro, Az.: 0262.0-2-0375
+- TOP 2.3.: (E) Stadtbezirksbudget Campus di Monacco - Internationale Montessorischule gGmbH Notebooks und Internetzugang vom 15.02. - 31.12.2020 4.410,00 Euro, Az.: 0262.0-2-0376
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Weltfrauentag" Weltfrauentag "We Won&#039;t Shut Up" vom 07.03. - 13.03.2021 1.500,00 Euro, Az.: 0262.0-2-0379
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Antrag zur Aufstellung von Tischen und Stühlen auf Parkplätzen: Gaststätte, Schillerstraße 23
+- TOP 3.3.2.: „Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung“ - Sitzungsvorlage Nr. 20-26 / V 01734
+- TOP 3.3.3.: Austausch der Lichtsignalanlage Arnulf-/Seidlstraße
+- TOP 3.3.4.: Austausch der Lichtsignalanlage Bayer-/Paul-Heyse-Straße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Parksituation Klenzestraße 27 - Gefährdung der Kinder bei Abholung um 17 Uhr; Bürgeranliegen
+- TOP 5.2.: Verkehrsberuhigung Abschnitt Müllerstraße ab Ecke Pestalozzi bis Ecke Fraunhoferstraße; Bürgeranliegen
+- TOP 5.3.: Beschwerde/Fragen zur Baustelle Erhardtstraße; Bürgeranliegen
+- TOP 5.4.: Installation einer Geschwindigkeitsmessung in der Fraunhoferstraße; Bürgeranliegen
+- TOP 5.5.: Verkehrsführung Müllerstraße Ecke Papa-Schmid-Straße; Bürgeranliegen
+- TOP 5.6.: Einrichtung eines Fahrradstellplatzes am Holzplatz; Bürgeranliegen
+- TOP 5.7.: Ausweisung des Holzplatzes als Sommerstraße; Bürgeranliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Anhörung des BA im Rahmen des §4 Abs. 2 BauG-Verfahrens - Bebauungsplan Nr. 2002 Starnberger Flügelbahnhof
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Antrag auf Baumfällung bzw. Baumveränderung, Schwanthalerstraße 64 und 68
+- TOP 3.1.2.: Antrag auf Baumfällung, Schwanthalerstraße 85
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.8.: Ausweitung von Tempo 30 in der Wittelsbacherstraße; Antwort des KVR auf Bürgeranliegen
+- TOP B 4.9.: Umsetzung von Infektionsschutzmaßnahmen; Antwort des Gesundheitsreferates auf Bürgeranliegen
+- TOP B 4.10.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP B 4.11.: Baaderstraße / Ickstattstraße Änderung der Vorfahrtsregelung; Antwort auf Bürgeranliegen 20.11 B 5.17
+- TOP B 4.12.: Parken in zweiter Reihe aufgrund der Schanigärten; Antwort der Verwaltung auf Bürgeranliegen 20.11 B 5.13
+- TOP B 4.13.: Verbesserungen für Fahrradfahrer*innen in der Stielerstraße; Antwort der Verwaltung auf Bürgeranliegen 20.11 B 5.12
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.3.: Bauvorhaben Hans-Sachs-Straße 8; Antwort auf Frage zum Bußgeldverfahren
+- TOP C 4.4.: BA-Stellungnahme (als Eilentscheidung) zum Planfeststellungsverfahren zu Rückbau und Anpassung Starberger Flügelbahnhof - Erwiderung (s. TOP 21.01 C 4.4)
+- TOP C 4.5.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP C 4.6.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Informationszentrum Alter Südfriedhof
+- TOP D 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E 4: Bereich BA-Angelegenheiten
