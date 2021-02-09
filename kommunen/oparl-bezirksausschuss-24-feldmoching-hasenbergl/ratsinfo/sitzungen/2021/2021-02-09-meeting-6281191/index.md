@@ -1,0 +1,93 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-02-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6281191
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6281191
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Kinder- und Jugendbeauftragte
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Mitgliederwechsel im Unterausschuss Schule, Sport, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Waldmeisterstr. 38 „Sport-Spielen-Toben - Bewegungspass 2021" 150,00 € / Az. 0262.0-24-0354
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Tennis im Stadtbezirk 24" Freies Tennis-Training im Stadtbezirk 24 800,00 € / Az. 0262.0-24-0350
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative „Seifenworkshop“ Seifenworkshop am 12.03. und 26.03.2021 260,00 € / Az. 0262.0-24-0352
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "DanceOn" DanceOn@Home - Filmprojekt 2.843,25 € / Az. 0262.0-24-0351
+- TOP 2.5.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Secondhand-Laden „Schickeria“ vom 01.01.2021 – 31.12.2021 12.600,00 € / Az. 0262.0-24-0353
+- TOP 2.6.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Konfliktanalyse Goldschmiedplatz vom 11.01. - 30.06.2021 580,00 € / Az. 0262.0-24-0349
+- TOP 2.7.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Spielaktionen "Zirkus Pumpernudl" und "Artmobil" in 202; hier: Erhöhung der gewährten Zuwendung um insg. 2.238,00 €; Az. 0262.0-24-0319
+- TOP 3.1.: Ganztagsbetreuung an der Grundschule Lerchenauer Straße 322
+- TOP 3.2.: Bauliche Gestaltung der Grundschule im Baugebiet Lerchenauer Feld; Realisierung der benötigten Räume für die kooperative Nachmittagsbetreuung
+- TOP 3.3.: Bauliche Gestaltung der Grundschule im Baugebiet Lerchenauer Feld; Realisierung von Rückzugsräumen für Schüler*innen, die eine Schulassistenz benötigen
+- TOP 3.4.: Information des BA 24 über die Situation der Ausgleichsfläche bzgl. eines realisierten Bauvorhabens am Moosacher Bahnhof auf der Fläche westlich der Lassallestr. und östlich der Verlängerung der Lahntalstr.
+- TOP 3.5.: Wiederherstellung des Bahnhofvorplatzes in Feldmoching im Umgriff des Walter-Sedlmayr-Platzes und der Einmündung Paul-Preuß-Straße im Rahmen einer Gesamtplanung für den S-Bahnhofsbereich
+- TOP 3.6.: Erlass einer Erhaltungssatzung nach § 172 BauGB, in der die städtebauliche Eigenart des Hasenbergls auf Grund seiner städtebaulichen Gestalt festgestellt wird
+- TOP 3.7.: Anliegerparken im Bereich der Johann-Emmer-Straße
+- TOP 3.8.: Parksituation in der Linkstraße
+- TOP 3.9.: Dülferstraße; fehlende Parkplätze, Verkehr
+- TOP 3.10.: Aufstellen von Haltverbotsschildern im Bereich des Gehweges am südlichen Ende der Reigersbachstraße/Ecke Trollblumenstraße beidseits
+- TOP 3.11.: Querungsbehinderung in der Thelottstraße
+- TOP 3.12.: Einrichtung von Anlaufstellen für mobile Impfteams im 24. Stadtbezirk
+- TOP 3.13.: Ablehnung Temporäre Seitenstreifenfreigabe (TSF) A99
+- TOP 3.14.: Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl; Benennung von sechs Verkehrsflächen im Baugebiet an der Hochmuttinger Straße; Gutachten des Verbands für Orts- und Flurnamenforschung in Bayern e.V. (zu 9.1 - 18.11.2020)
+- TOP 5.1.1.: Ratoldstr. 52
+- TOP 5.1.2.: Herbergstr. 35
+- TOP 5.1.3.: Berberitzenstr., Fl.Nr. 1029, Gem. Feldmoching
+- TOP 5.1.4.: Reginoltstr. 1
+- TOP 5.1.5.: Dülferstr. 19 - 21e (Rainfarnstr. 74)
+- TOP 5.1.6.: Glasstr. 9
+- TOP 5.1.7.: Knospenstr. 41
+- TOP 5.1.8.: Penkstr. 13
+- TOP 5.1.9.: Schneeglöckchenstr. 51
+- TOP 5.2.1.: Feldmochinger Str. 212a
+- TOP 5.2.2.: Penckstr. 13
+- TOP 5.2.3.: Seuffertstr. 4
+- TOP 5.2.4.: Glyzinienstr. 23
+- TOP 5.2.5.: Ebereschenstr. 15
+- TOP 5.4.1.: Bewerbung zum REGSAM-Schwerpunktthema INKLUSION ab 2021 - Vorschläge des Arbeitskreises Inklusion im BA 24
+- TOP 5.4.2.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung, Sitzungsvorlage Nr. 20-26 / V 01734
+- TOP 5.4.3.: Planfeststellung nach §§ 17, 17a FStrG i. V. m. Art. 72 ff. BayVwVfG für das Vorhaben A 99 - Sanierung Tunnel Allach u. Temporäre Seitenstreifenfreigabe AD München-Allach bis AD München-Feldmoching, beantragt von der Autobahndirektion Südbayern
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Bahnkreuzung S 1/Feldmochinger Str. in der Fasanerie
+- TOP 2.: Sanierungsarbeiten der Wohnungs- und Siedlungsbau Bayerin in der Paulckestraße; Anfrage Informationsveranstaltung, Fragenkatalog
+- TOP 3.: Bauvorhaben Kuckucksblumenstr. 20 - Abdruck Vorbescheid
+- TOP 4.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024; Fragen zur Sitzungsvorlage Nr. 20-26 / V 01214
+- TOP 5.: Vollzug der Wassergesetze; Antrag auf Anlage eines Fischpasses zur durchgängigen Anbindung des Würmkanals an den Schwebelbach; hier: Plangenehmigung
+- TOP 6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Haltverbot für FFW Auf den Schrederwiesen ggü. Einfahrt 21
+- TOP 7.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 8.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 6, 7, 9, 20 und 21
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 12.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 13.: (U) Bebauungsplan mit Grünordnung Nr. 2143 DB-Nordring (nördlich) Lassallestraße (östlich), Wilhelmine-Reichard-Straße (südlich), Bahnlinie zwischen DB-Nordring und Feldmoching (westlich) A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes B) weiteres Vorgehen Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 14.: (U) Konzept- und Machbarkeitsstudie für eine land-schaftsplanerisch eingebundene Fuß- und Rad-wegverbindung von der Siedlung Ludwigsfeld nach Karlsfeld über den Würmkanal - Ergebnisse und Umsetzungsvorschlag -
+- TOP 15.: (U) Olympia-Regattaanlage / dringende Sanierungsmaßnahmen im Bauunterhalt und temporäre Regatta-Infrastruktur für die European Championships 2022 Dachauer-Str. 35, 85764 Oberschließheim, 24. Stadtbezirk Feldmoching-Hasenbergl
+- TOP 16.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 17.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Jungen Menschen gesellschaftliche Teilhabe ermöglichen - Berufsbezogene Jugendhilfe in München weiter ausbauen und fördern! Antrag Nr. 14-20 / A 06178...
+- TOP 18.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.: Anträge
