@@ -1,0 +1,133 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-02-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6433831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6433831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.1.: Wahl eines Sonderausschusses
+- TOP F.2.: Beschluss über die Bildung eines Sonderausschusses
+- TOP F.3.: Beschluss über die Anzahl der Mitglieder des Sonderausschusses
+- TOP F.4.: Benennung der Mitglieder und Regelung der Stellvertretung durch die Fraktionen
+- TOP F.5.: Wahl der /des Vorsitzenden des Sonderausschusses
+- TOP F.6.: Benennung der / des stellvertretenden Vorsitzenden des Sonderausschusses (optional)
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Arnulfsteg – Fehlende Querungsmöglichkeit der Landsberger Straße
+- TOP 5.2.2.: Maßmannpark – Süßigkeitenautomat
+- TOP 5.2.3.: Tengstraße – Parken im Bereich der Baumnasen
+- TOP 5.2.4.: Werbetafel/ Monitor Unfallgefahr
+- TOP 5.2.5.: Bäume entfernt – wann ist mit eine Nachpflanzung zu rechnen?
+- TOP 5.2.6.: Tiere im Circus Krone
+- TOP 5.2.7.: T 30 Arcisstraße/ Umwandlung in Fahrradstellplätze/Fahrradmüll/ Ramadama
+- TOP 5.2.8.: Rummel zwischen den Gräbern – Alter Noerdlicher Friedhof
+- TOP 5.2.9.: Arnulfsteg /Arnulfpark – Wiederherstellung der Fläche für die Baustelleneinrichtung
+- TOP 5.2.10.: Georg-Elser-Platz und weiteres
+- TOP 5.2.11.: Alter Nördlicher Friedhof
+- TOP 5.2.12.: Verkehrssituation Winzererstraße
+- TOP 6.1.: Verkehrsversuch Tempo 30 in der Schellingstraße
+- TOP 6.2.: Antwort Bürgerberatung Schulwegsicherheit an der Kreuzung Winzerer-/Schellingstraße
+- TOP 6.3.: Antrag auf Auskunft über die Sanierung bzw. Abriss und Neubebauung der Förderschule auf dem Grundstück Dachauer Straße 96
+- TOP 6.4.: Antwort Lokalbaukommission vom 25.01.2021 auf Stellungnahme BA 3 vom 18.11.2020 zum Umbau des ehem. Paketzustellamts „Arnulfpost“ in einen Bürokomplex
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag SPD vom 18.01.2021 Erhaltungssatzung St. Vinzenz -Viertel ausweiten
+- TOP 1.2.: Antrag Grüne vom 23.01.2021 Nachpflanzung fehlender Bäume in vorhandenen Baumgräben
+- TOP 2.1.1.: Baulisten der LBK: 52.,53., 1., 2. und 3. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 51. -53. KW und 1. und 2. KW
+- TOP 2.1.3.: Türkenstraße 68 a – Umbau einer Dach-Maisonettewohnung sowie Einbau einer mittigen Dachterasse
+- TOP 2.1.4.: Gabelsbergerstraße 48-50 – VORBESCHEID, Neubau EINES Mehrfamilienhauses mit Seitengebäude
+- TOP 2.1.5.: Enhuberstr. 4 – VORBESCHEID, Neubau eines RG mit TG sowie Anbau und Aufstockung des Bestandsgebäudes
+- TOP 2.1.6.: Augustenstraße 110 – TEKTUR, DG-Ausbau, Anbau eines Personenaufzugs und Erneuerung Dachstuhl, hier: Zusammenlegung des genehmigten DG mit darunterliegender Wohnung.
+- TOP 2.1.7.: Gabelsbergerstr. 28 – VORBESCHEID, Neubau eines Wohn-, Büro- und Geschäftshauses mit TG vertagt aus 01/21
+- TOP 2.1.8.: Nymphenburger Str. 48 – VORBESCHEID, Nutzungsänderung und Erweiterung eines Wohn und Geschäftshauses mit einer Hofbebauung, Erweiterung der Gauben im VG
+- TOP 3.2.1.: Deroystraße 18
+- TOP 5.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen
+- TOP 5.2.: (U) Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung des Anwesens Fürstenstraße 7 (Vordergebäude) für die Einrichtung einer Gemeinschaftsunterkunft für Asylbewerberinnen* 3. Stadtbezirk - Maxvorstadt
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 5.5.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.: (U) Bebauungsplan mit Grünordnung Nr. 2126 Königinstraße (östlich),kl Veterinärstraße (nördlich), Englischer Garten (westlich) - Entwicklungscampus Königinstraße - Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität - Satzungsbeschlus - Stadtbezirk 3 Maxvorstadt
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag CSU vom 20.01.2021 Radschutzstreifen auf der Theresienstraße
+- TOP 1.2.: Antrag SPD vom 22.01.2021 Durchführung eines Workshops zur Gestaltung der Augustenstraße
+- TOP 1.3.: Antrag SPD vom 26.01.2021 Ottostraße – Öffnung der Einbahnregelung für den Radverkehr endlich umsetzen
+- TOP 1.4.: Antrag SPD vom 26.01.2021 Kreuzungen Seidl- Arnulf- und Marsstraße dauerhaft entschärfen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Georgenstr. / Zentnerstr. Schulwegsicherheit BA 4
+- TOP 2.1.2.: Erinnerungsverfahren Geschwister-Scholl-Platz Sanierung historisches Pflaster
+- TOP 2.2.1.: Entscheidung über Sondernutzungserlaubnis Warenauslage und 1 Bank zur Warenpräsentation in Wechselnutzung als Sitzgelegenheit, Adalbertstr. 12
+- TOP 2.2.2.: Alter Nördlicher Friedhof und Alter Südlicher Friedhof – Vertagung aus 01/21 Bestreifung der Friedhöfe Verfahrensvorschlag
+- TOP 2.2.3.: Anhörung Sondernutzungsrichtlinien
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnung Projekt Schwabing-Ost – Fernkältemaßnahme LOS 2 Königin-/ Schönfeldstraße – Bauphase 5a
+- TOP 3.2.: Verkehrsrechtliche Anordnung Schellingstraße 68 Stellplatzumwandlung
+- TOP 3.3.: Verkehrsrechtliche Anordnung Schellingstraße 62 und 65 Stellplatzumwandlung
+- TOP 3.4.: Verkehrsrechtliche Anordnung Georgenstr. 118 Stellplatzumwandlung
+- TOP 3.5.: Verkehrsrechtliche Anordnung Türkenstraße 85 Stellplatzumwandlung
+- TOP 3.6.: Verkehrsrechtliche Anordnung Theresienstraße 100 und 116 Stellplatzumwandlung
+- TOP 3.7.: Verkehrsrechtliche Anordnung Rottmannstr. 21 T 30 vor Kita
+- TOP 3.8.: Austausch von Lichtsignalanlagen an der Arnulf-/Seidlstraße
+- TOP 3.9.: Verkehrsrechtliche Anordnung Heßstraße 37 Stellplatzumwandlung
+- TOP 3.10.: Verkehrsrechtliche Anordnung Adalbert-/Amalienstraße Aufhebung Flexparkzone
+- TOP 3.11.: Betrieb von Müllsammelfahrzeugen ab 6 Uhr früh
+- TOP 3.12.: Verkehrsrechtliche Anordnung Tempo 30 Arcisstraße 35
+- TOP 3.13.: Unterrichtung über Antrag auf unveränderte Fortführung Gaststättenbetrieb, Brienner Str. 50
+- TOP 3.14.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 22.01.2021 Errichtung eines Mehrgenerationen-Bewegungsparks
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Projekt "Save Me: Be a Buddy & Beratung Familiennachzug" vom 05.01. - 31.12.2021 6.275,86 Euro, Az.: 0262.0-3-0326
+- TOP 2.2.: (E) Stadtbezirksbudget Die Maxvorstädter e.V. Hochebene für den Kindergarten 7.017,00 Euro, Az.: 0262.0-3-0324
+- TOP 2.3.: (E) Stadtbezirksbudget TSC Maxvorstadt e.V. Erst- und Grundausstattung mit Tischtennis-Equipment für die Turnhalle Infanteriestraße 5.565,00 Euro, Az.: 0262.0-3-0329
+- TOP 2.4.: (E) Stadtbezirksbudget Hilfe von Mensch zu Mensch e.V. Modernisierung der Kinderkrippe 8.160,13 Euro, Az.: 0262.0-3-0330
+- TOP 2.5.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Schulworkshop "Flucht und Migration" vom 05.01. - 31.12.2021 5.535,38 Euro, Az.: 0262.0-3-0325
+- TOP 2.6.: Antrag auf Erhöhung eines bereits gewährten Zuschusses Antragsteller Verein PA/ Spielen in der Stadt e.V./ Zirkus Pumpernudel ursprünglicher Antrag wurde am 26.05.2020 im BA 3 behandelt
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Kurzbericht pädagogische Aktion/ Spielen in der Stadt e.V. Artmobil im Maßmannpark vom 30.06.-2.7.2020
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Grüne vom 25.01.2021 „No-Covid“ in München
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kunstraum Schwabinggrad Ausstellung „Frankfurz“ vom 15.01. - 15.02.2021 2.000,00 € / Az. 0262.0-3-0328
+- TOP 2.2.: (E) Stadtbezirksbudget Georg-Elser-Initiative Hitlerattentäter Georg Elser "Eine Spurensuche" 3.000,00 Euro, Az.: 0262.0-3-0332
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Forum e.V. Broschürendruck "Wir alle sind München" im Januar/Februar 2021 849,00 Euro, Az.: 0262.0-3-0331
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
