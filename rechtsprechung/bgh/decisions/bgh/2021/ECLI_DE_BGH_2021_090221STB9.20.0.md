@@ -1,0 +1,245 @@
+---
+ecli: "ECLI:DE:BGH:2021:090221STB9.20.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Strafsenat-3"
+aktenzeichen: "StB 9/20"
+decided: "2021-02-09"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=13&nr=115501&anz=3571&pos=410&Blank=1.pdf"
+corpus_doc_id: "BGH_Strafsenat-3_NA_2021-02-09_NA_StB_9_20_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/gvg/0120.md", "germany/bund/acts/stgb/0022.md", "germany/bund/acts/stgb/0023.md", "germany/bund/acts/stgb/0027.md", "germany/bund/acts/stgb/0030.md", "germany/bund/acts/stgb/0052.md", "germany/bund/acts/stgb/0053.md", "germany/bund/acts/stpo/0102.md", "germany/bund/acts/stpo/0103.md", "germany/bund/acts/stpo/0105.md", "germany/bund/acts/stpo/0110.md", "germany/bund/acts/stpo/0169.md", "germany/bund/acts/stpo/0304.md"]
+---
+
+# Bundesgerichtshof, StB 9/20 vom 2021-02-09
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                            BESCHLUSS
+StB 9+10/20
+
+                                    vom
+                               9. Februar 2021
+                         in dem Ermittlungsverfahren
+                                   gegen
+
+
+
+
+wegen Verdachts der Beteiligung an Mord, versuchtem Mord, gefährlicher
+      Körperverletzung u.a.
+
+
+hier:   Beschwerden des Betroffenen H.         R.    gegen die
+        Beschlüsse des Ermittlungsrichters des Bundesgerichtshofs
+        vom 22. Februar und 5. März 2020
+
+
+
+
+ECLI:DE:BGH:2021:090221BSTB9.20.0
+
+                                         -2-
+
+
+
+    Der 3. Strafsenat des Bundesgerichtshofs hat nach Anhörung des Beschwerdeführers und seines rechtsanwaltlichen Vertreters am 9. Februar 2021 gemäß
+    § 304 Abs. 5 StPO beschlossen:
+
+
+          Die Beschwerden des Betroffenen H.              R.        gegen die
+          Beschlüsse des Ermittlungsrichters des Bundesgerichtshofs vom
+          22. Februar 2020 (3 BGs 204/20) und 5. März 2020 (3 BGs 277/20)
+          werden verworfen.
+
+          Der Beschwerdeführer hat die Kosten seiner Rechtsmittel zu tragen.
+
+
+
+
+                                       Gründe:
+
+
+                                           I.
+
+
+1         Der Generalbundesanwalt führt gegen unbekannt ein Ermittlungsverfahren wegen des Verdachts der Beteiligung an Mord, versuchtem Mord und an gefährlicher Körperverletzung gemäß §§ 211, 212, 223, 224 Abs. 1 Nr. 2 Alternative 1, §§ 22, 23, 27, 30, 52, 53 StGB. Auf seinen Antrag hat der Ermittlungsrichter des Bundesgerichtshofs mit Beschluss vom 22. Februar 2020 die Durchsuchung der Räumlichkeiten des Betroffenen H.              R.     sowie dessen
+    Kraftfahrzeuge nach näher umschriebenen Beweismitteln (Spuren im Zusammenhang mit der Tötung der G.               R.   ; Laptops, Personalcomputer,
+    sonstige Kommunikationsmittel, Speichermedien; Gegenstände, die Rück-
+
+                                         -3-
+
+
+
+    schlüsse auf die grundsätzliche Gesinnung des verstorbenen T.       R.     zulassen; Adress- und Notizbücher mit Kontaktadressen des verstorbenen T.
+    R.     sowie sonstige Gegenstände im Zusammenhang mit dem Tatgeschehen) angeordnet. Die Durchsuchung ist noch am selben Tag vollzogen worden.
+    Mit Beschluss vom 5. März 2020 hat der Ermittlungsrichter des Bundesgerichtshofs auf neuerlichen Antrag des Generalbundesanwalts die nochmalige Durchsuchung der Räumlichkeiten des Betroffenen H.               R.      nach dem
+    Schlüssel zu einem sichergestellten Tresor, den Peripheriegeräten des sichergestellten Tower-PCs und bestimmten näher bezeichneten Faserspuren, soweit sie
+    Aufschluss geben können über den Tathergang sowie weitere unbekannte Tatbeteiligte, angeordnet. Die weitere Durchsuchung ist am 6. März 2020 vollzogen
+    worden.
+
+
+2         Unter dem 16. März 2020 hat der Betroffene Beschwerden gegen die
+    Durchsuchungsanordnungen eingelegt, die er mit Schriftsatz vom 29. April 2020
+    näher begründet hat. Entgegen der dortigen Ankündigung sind weitere Beschwerdebegründungen die einzelnen sichergestellten Gegenstände betreffend
+    nicht zu den Akten gelangt. Der Beschwerdeführer begehrt die Feststellung der
+    Rechtswidrigkeit der durchgeführten Durchsuchungen, insbesondere im Hinblick
+    auf drei in seinem alleinigen Eigentum stehende PKW VW Golf.
+
+
+3         Der Ermittlungsrichter des Bundesgerichtshofs hat den Beschwerden mit
+    Vermerken vom 18. März 2020 nicht abgeholfen. Die Auswertung der einbehaltenen Unterlagen sowie die Durchsicht von Speichermedien ist mittlerweile abgeschlossen worden.
+
+
+4         Der Beschwerdeführer hat mit Schreiben vom 20. Januar 2021 umfassend
+    weiter ausgeführt.
+
+                                         -4-
+
+
+
+                                           II.
+
+
+5         Die Rechtsmittel haben keinen Erfolg.
+
+
+6         1. Der Zulässigkeit der eingelegten Beschwerden steht nicht entgegen,
+    dass die Durchsuchung mit Abschluss der Sichtung der sichergestellten Unterlagen (§ 110 Abs. 1 StPO) beendet ist; eine bereits eingelegte Beschwerde ist ab
+    dem Zeitpunkt des Abschlusses der Sichtung als auf die Feststellung der Rechtswidrigkeit der Durchsuchung gerichtet anzusehen (vgl. BGH, Beschluss vom
+    17. Dezember 2014 - StB 10/14, juris Rn. 3 mwN; Meyer-Goßner/Schmitt/Köhler,
+    StPO, 63. Aufl., § 105 Rn. 15).
+
+
+7         2. Die Voraussetzungen für den Erlass der Durchsuchungsanordnungen
+    (§§ 103, 105 StPO) waren gegeben.
+
+
+8         a) Gegen bislang unbekannte Personen lag ein die Durchsuchung nach
+    § 102 StPO rechtfertigender Anfangsverdacht vor, sich mit dem verstorbenen
+    T.    R.      jedenfalls an der Begehung von Tötungs- und Körperverletzungsdelikten beteiligt zu haben.
+
+
+9         aa) Für die Zulässigkeit einer regelmäßig in einem frühen Stadium der
+    Ermittlungen durchzuführenden Durchsuchung genügt der über bloße Vermutungen hinausreichende, auf bestimmte tatsächliche Anhaltspunkte gestützte konkrete Verdacht, dass eine Straftat begangen wurde und der Verdächtige als Täter
+    oder Teilnehmer an dieser Tat in Betracht kommt. Eines hinreichenden oder gar
+    dringenden Tatverdachts bedarf es - unbeschadet der Frage der Verhältnismäßigkeit - nicht (st. Rspr.; vgl. BVerfG, Beschluss vom 7. September 2006
+
+                                            -5-
+
+
+
+     - 2 BvR 1219/05, NJW 2007, 1443; BGH, Beschlüsse vom 18. Dezember 2008
+     - StB 26/08, BGHR StPO § 102 Tatverdacht 2; vom 12. August 2015 - StB 8/15,
+     NStZ 2016, 370).
+
+
+10           bb) Gemessen hieran lagen zum Zeitpunkt des Erlasses der angefochtenen Beschlüsse sachlich zureichende Gründe für die Anordnung der jeweiligen
+     Durchsuchung vor. Es bestand der Anfangsverdacht, dass der verstorbene
+     T.      R.    , der Sohn des Beschwerdeführers, im Zeitraum vom 19. Februar
+     2020, 21:58 Uhr, bis 20. Februar 2020, 03:00 Uhr, mehrere bewaffnete Angriffe
+     auf Besucher der Lokalitäten "            ", "          " und "
+          " sowie Insassen eines Kraftfahrzeugs in Ha.       verübt hatte, um möglichst
+     viele Personen ausländischer Herkunft oder mit Migrationshintergrund zu töten.
+     Hierbei erschoss er neun Personen und verletzte fünf weitere Personen, davon
+     mindestens eine Person schwer. Im Anschluss an die Taten tötete T.
+     R.       zunächst seine Mutter G.          R.        an der gemeinsamen Wohnanschrift der Familie in Ha.   und schließlich sich selbst. Dieser Tathergang war
+     bereits am 22. Februar 2020 durch eine Vielzahl von Ermittlungsergebnissen belegt. Zudem bestand nach kriminalistischer Erfahrung weiterhin der Anfangsverdacht, dass der verstorbene T.       R.          von unbekannten Personen im Zusammenhang mit den vorbezeichneten Straftaten unterstützt wurde.
+
+
+11           Zu den Einzelheiten der den Anfangsverdacht gegen unbekannt begründenden Umstände wird weiterhin auf die detaillierten Ausführungen im Durchsuchungsbeschluss des Ermittlungsrichters des Bundesgerichtshofs vom 5. März
+     2020 verwiesen. Soweit der Betroffene in seinen Zuschriften, zuletzt mit Datum
+     vom 20. Januar 2021, die Auffassung vertritt, die geschilderten Verhaltensweisen
+     seien nicht seinem verstorbenen Sohn zuzuschreiben, findet dies durch das dargestellte Beweisergebnis keine Stütze.
+
+                                          -6-
+
+
+
+12         cc) Die Zuständigkeit des Generalbundesanwalts und damit auch diejenige des Ermittlungsrichters des Bundesgerichtshofs war gegeben (§ 142a
+     Abs. 1 Satz 1, § 120 Abs. 2 Nr. 3 GVG). Gegen die Annahme der besonderen
+     Bedeutung im Sinne des § 120 Abs. 2 Nr. 3 GVG ist mit Blick auf die konkreten
+     Umstände des Tatgeschehens nichts zu erinnern.
+
+
+13         b) Es lagen auch hinreichende Tatsachen dafür vor, dass bei dem Beschwerdeführer bestimmte Beweismittel im Sinne des § 103 Abs. 1 Satz 1 StPO
+     aufgefunden werden können.
+
+
+14         aa) Eine Ermittlungsdurchsuchung, die eine nichtverdächtige Person betrifft, setzt nach § 103 Abs. 1 Satz 1 StPO voraus, dass Tatsachen vorliegen,
+     dass sich das gesuchte Beweismittel in den zu durchsuchenden Räumen befindet. Es müssen konkrete Gründe dafür sprechen, dass der gesuchte Beweisgegenstand in den Räumlichkeiten des Unverdächtigen gefunden werden kann.
+     Dies unterscheidet die Durchsuchung beim Unverdächtigen nach § 103 StPO
+     von einer Durchsuchung bei einer verdächtigen Person nach § 102 StPO, bei der
+     es bereits nach der Lebenserfahrung in gewissem Grade wahrscheinlich ist, dass
+     Beweisgegenstände zu finden sind, die zur Prüfung des Tatverdachts beitragen
+     können, und bei der durch die Verknüpfung des personenbezogenen Tatverdachts mit einem eher abstrakten Auffindeverdacht ein hinreichender Eingriffsanlass besteht (vgl. BVerfG, Beschluss vom 11. Januar 2016 - 2 BvR 1361/13,
+     NJW 2016, 1645 Rn. 13).
+
+
+15         Diese Voraussetzungen waren hier erfüllt. Ausweislich der bisherigen Ermittlungsergebnisse lebten der Beschwerdeführer, seine verstorbene Ehefrau
+     G.      R.     und der gemeinsame Sohn, der ebenfalls verstorbene T.
+
+                                          -7-
+
+
+
+     R.    , in häuslicher Gemeinschaft. Zudem wurden die Leichen der beiden verstorbenen Personen in den in Rede stehenden Räumlichkeiten aufgefunden. Bei
+     dieser Sachlage war zu erwarten, dass die in den Beschlüssen des Ermittlungsrichters des Bundesgerichtshofs vom 22. Februar und 5. März 2020 im Einzelnen
+     genannten Beweismittel in den Räumlichkeiten bzw. den zur gemeinschaftlichen
+     Nutzung zur Verfügung stehenden Kraftfahrzeugen aufgefunden werden konnten. Darauf, in wessen Eigentum die zur Nutzung verfügbaren Kraftfahrzeuge
+     standen, kommt es hingegen nicht an.
+
+
+16         bb) Die Durchsuchung bei einer nichtverdächtigen Person setzt - anders
+     als im Falle des § 102 StPO für die Durchsuchung beim Tatverdächtigen, bei dem
+     eine allgemeine Aussicht genügt, irgendwelche relevanten Beweismittel zu finden - nach § 103 StPO überdies voraus, dass hinreichend individualisierte (bestimmte) Beweismittel für die aufzuklärende Straftat gesucht werden. Diese Gegenstände müssen im Durchsuchungsbeschluss so weit konkretisiert werden,
+     dass weder bei dem Betroffenen noch bei dem die Durchsuchung vollziehenden
+     Beamten Zweifel über die zu suchenden und zu beschlagnahmenden Gegenstände entstehen können (BGH, Beschluss vom 21. November 2001 - StB 20/01,
+     NStZ 2002, 215 Rn. 3). Ausreichend ist dafür allerdings, dass die Beweismittel
+     der Gattung nach näher bestimmt sind; nicht erforderlich ist, dass sie in allen
+     Einzelheiten bezeichnet werden (BGH, Beschlüsse vom 15. Oktober 1999
+     - StB 9/99, NStZ 2000, 154, 155; vom 28. Juni 2018 - StB 14/18, juris Rn. 16;
+     jeweils mwN).
+
+
+17         Diesen Anforderungen werden die angefochtenen Beschlüsse ebenfalls
+     gerecht. Soweit es den Beschluss des Ermittlungsrichters des Bundesgerichtshofs vom 22. Februar 2020 betrifft, wurden sowohl die zu sichernden Spuren als
+
+                                          -8-
+
+
+
+     auch die benannten elektronischen Kommunikationsmittel und sonstigen Unterlagen dahin konkretisiert, dass diese mit der Tötung der G.        R.      oder
+     der Gesinnung des verstorbenen T.        R.      bzw. dessen Kontaktadressen
+     in Zusammenhang stehen mussten. Gleiches gilt im Ergebnis für den Beschluss
+     des Ermittlungsrichters des Bundesgerichtshofs vom 5. März 2020, soweit dort
+     ebenfalls potentielle Spurenträger bezeichnet wurden, die über den Tathergang
+     sowie weitere unbekannte Tatbeteiligte Aufschluss geben konnten.
+
+
+18         Durch diese Einschränkung der möglicherweise aufzufindenden Beweismittel war den durchsuchenden Beamten hinreichend deutlich aufgezeigt, worauf
+     sie ihr Augenmerk zu richten hatten. Im Übrigen unterliegen Papiere und elektronische Speichermedien vor ihrer Beschlagnahme oder sonstigen Sicherstellung
+     nach § 110 Abs. 1 StPO der Durchsicht durch die Staatsanwaltschaft oder von
+     ihr beauftragter Ermittlungspersonen. Dies ermöglicht die Überprüfung, welche
+     Schriftstücke oder Dateien als Beweismittel in Betracht kommen und deshalb
+     sicherzustellen oder nach § 110 Abs. 3 Satz 2 StPO zu sichern sind. Um diese
+     Durchsicht zu gewährleisten, kann auch die Mitnahme einer Gesamtheit von Daten zur Durchsicht zulässig sein (vgl. BVerfG, Beschluss vom 15. August 2014
+     - 2 BvR 969/14, NJW 2014, 3085 Rn. 44 f.; BGH, Beschluss vom 5. August 2003
+     - StB 7/03, NStZ 2003, 670 Rn. 7).
+
+
+19         c) Auch der Grundsatz der Verhältnismäßigkeit war gewahrt. Die Durchsuchungsanordnungen waren geeignet und erforderlich, zur Aufklärung einer
+     möglichen Beteiligung bislang unbekannter Personen an dem Tatgeschehen beizutragen. Die Anordnung der Durchsuchungen stand zudem in einem angemessenen Verhältnis zur Bedeutung und Schwere der aufzuklärenden Straftat.
+
+                                          -9-
+
+
+
+20          3. Soweit der Beschwerdeführer daneben die Feststellung der Rechtswidrigkeit der Art und Weise der Durchführung der Durchsuchungsmaßnahmen erstrebt hat, ist eine - ablehnende - Entscheidung bereits mit dem Nichtabhilfebeschluss des Ermittlungsrichters des Bundesgerichtshofs getroffen worden.
+     Diese gemäß § 98 Abs. 2 Satz 2 und 3, § 162 Abs. 1 Satz 1, § 169 Abs. 1 Satz 2
+     StPO in die dortige Zuständigkeit fallende Entscheidung ist nicht mit der Beschwerde anfechtbar (vgl. BGH, Beschlüsse vom 7. Dezember 1998 - 5 AR (VS)
+     2/98, BGHSt 44, 265, 274 f.; vom 13. Oktober 1999 - StB 7+8/99, NJW 2000, 84,
+     86).
+
+
+     Schäfer                             Paul                                 Berg
