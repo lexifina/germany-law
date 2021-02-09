@@ -47,6 +47,7 @@ Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V. m. VwVfG
 | 2.16 | Planänderung durch neues Plangenehmigungsverfahren | § 74 Abs. 6 VwVfG i. V. m. § 18b Nr. 1 und 2 AEG i. V. m § 76 Abs. 1 VwVfG | 50 % der Gebühr nach Nr. 2.15 |
 | 2.17 | Planänderung in Fällen unwesentlicher Bedeutung | § 18 AEG i. V. m § 76 Abs. 2 VwVfG | 3 600 Euro |
 | 2.18 | Planänderung in Fällen unwesentlicher Bedeutung durch vereinfachtes Planfeststellungsverfahren | § 18 AEG i. V. m § 76 Abs. 3 VwVfG | 6 000 Euro |
+| 2.19 | Feststellung der UVP-Pflicht auf Antrag des Vorhabenträgers, wenn keine fachplanungsrechtliche Entscheidung nachfolgt | § 18 Abs. 1a Satz 5 AEG i.V.m. § 5 Abs. 1 Satz 2 Nr. 1 UVPG | nach Zeitaufwand |
 Abschnitt 3
 Individuell zurechenbare öffentliche Leistungen nach der EBV, EBPV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
