@@ -1,0 +1,54 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Gemeinde Steinhagen
+- Beginn: 2021-02-10T17:30:00+01:00
+- Ende: 2021-02-10T18:40:00+01:00
+- Ort: Schulzentrum Steinhagen, Laukshof 10, 33803 Steinhagen, Aula
+- Status: 
+- Gremium: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT-HmuGSIrnZxDFffwNDPOU
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/3494
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZed-RSW3MSVAfccZ0bOF2h5Okkk1sT3EI1NHovUxxnof/Einladung_Rat_10.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQLjB1oPcHxikAQpkvWbI_9G8r-j4EQGNGKRYByPEqrN/Oeffentliche_Niederschrift_Rat_10.02.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner nach § 18 der Geschäftsordnung
+- TOP 2.: Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 3.: Beschlussfassung über die Anzahl der Mitglieder in den Ausschüssen - Abstimmungsergebnis:Einstimmig(Ohne Mitwirkung der Bürgermeisterin)
+- TOP 4.: Neubesetzung von Ausschüssen - Abstimmungsergebnis:Einstimmig(Ohne Mitwirkung der Bürgermeisterin) 
+- TOP 5.: Entsendung der Delegierten für die Mitgliederversammlung des Städte- und Gemeindebundes Nordrhein-Westfalen (StGB NRW) - Abstimmungsergebnis:Einstimmig
+- TOP 6.: Ermittlung des Raumbedarfs an den Steinhagener Schulen als Basis für die weitere Schulentwicklungsplanung - Antrag der CDU-Ratsfraktion vom 15.01.2021 -
+- TOP 7.: Erarbeitung konzeptioneller Ideen zur Belebung des Ortskerns rund um Kirche und Marktplatz - Antrag der CDU-Ratsfraktion vom 15.01.2021 -
+- TOP 8.: Änderung der Hauptsatzung der Gemeinde Steinhagen - Antrag der CDU-Ratsfraktion vom 15.01.2021 -
+- TOP 9.: Änderung der Geschäftsordnung für den Rat der Gemeinde Steinhagen und die Ausschüsse - Antrag der CDU-Ratsfraktion vom 15.01.2021 -
+- TOP 10.: Gewerbe- und Industriegebiet Detert - Antrag der FDP-Ratsfraktion vom 15.01.2021 -
+- TOP 11.: Übersichtlichkeit von Vorlagen im Bebauungsplanverfahren - Antrag der FDP-Ratsfraktion vom 15.01.2021 -
+- TOP 12.: Die "Geschlossene Ortschaft" bereits ab der Kreuzung L 756 / Bahnhofstraße (Höhe Amberg) ausschildern - Antrag der SPD-Ratsfraktion vom 17.01.2021 -
+- TOP 13.: Generationenübergreifende Wohnprojekte - Antrag der SPD-Ratsfraktion vom 17.01.2021 -
+- TOP 14.: Die Gemeindeverwaltung wird beauftragt, sich bei der VVOWL und der Deutschen Bahn für einen Bahnhaltepunkt in Amshausen, Roggenkamp, einzusetzen - Antrag der SPD-Ratsfraktion vom 18.01.2021 -
+- TOP 15.: Ersatz der provisorischen Holzbrettrampe hinter dem Rathaus durch eine gemauerte Fahrrad-Schieberampe - Antrag der CDU-Ratsfraktion vom 19.01.2021 -
+- TOP 16.: Ausbau Skateranlage - Antrag der SPD-Ratsfraktion vom 20.01.2021 -
+- TOP 17.: Prüfauftrag - Ausbau weiterer Freizeitanlagen - Antrag der SPD-Ratsfraktion vom 20.01.2021 -
+- TOP 18.: Bestandsabfrage Internetverbindung / Arbeitsmöglichkeiten von Schülerinnen und Schülern - Antrag der SPD-Ratsfraktion vom 21.01.2021 -
+- TOP 19.: Prüfauftrag zur Errichtung von Rettungspunkten an den Wald-/Wanderwegen - Antrag der SPD-Ratsfraktion vom 21.01.2021 -
+- TOP 20.: Prüfantrag zur Anbringung von Berliner Kissen - Antrag der Ratsfraktion UWG/Die Partei vom 25.01.2021 -
+- TOP 21.: Überprüfung sämtlicher Posten, welche der AWO angehören - Antrag der Ratsfraktion UWG/Die Partei vom 25.01.2021 -
+- TOP 22.: Die Gemeinde Steinhagen vergibt für die Jahre 2021 und 2022 jährlich einen Heimat-Preis, basierend auf dem Landesförderprogramm "Heimat-Preis" des Ministeriums für Heimat, Kommunales, Bau und Gleichstellung Bereich "ehrenamtliche Hilfe in Corona-Zeiten" - Antrag der FDP-Ratsfraktion vom 29.01.2021 -
+- TOP 23.: Barrierefreie Internetangebote für Steinhagen - Antrag der FDP-Ratsfraktion vom 01.02.2021 -
+- TOP 24.: Fortschreibung des Brandschutzbedarfsplanes für die Gemeinde Steinhagen gemäß der vorgelegten Fassung 2020/21 - Abstimmungsergebnis:Einstimmig
+- TOP 25.: 1. Änderung der Stellplatzsatzung der Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmig
+- TOP 26.: Auswirkungen der Schließung der Grundschulen Amshausen, Brockhagen, Laukshof und Steinhagen aufgrund der Weisungen des Ministeriums für Arbeit, Gesundheit und Soziales für den Zeitraum vom 11.01. – 31.01.2021 hier: Verzicht auf die Erhebung der Beiträge für die Offene Ganztagsschule einschl. des Essensgeldes für den Monat Januar 2021 - Abstimmungsergebnis:Einstimmig
+- TOP 27.: Entscheidung über das Vergabeverfahren der Architektenleistungen für den Neubau der Grundschule Brockhagen - Abstimmungsergebnis:Einstimmig
+- TOP 28.: Beschlussfassung über den Entwurf des Wirtschaftsplanes für das Wirtschaftsjahr 2021 des Abwasserbetriebes der Gemeinde Steinhagen einschl. Stellenübersicht, Investitionsprogramm und mittelfristigem Ergebnis- und Finanzplan - Abstimmungsergebnis:Einstimmig
+- TOP 29.: Beschlussfassung über den Wirtschaftsplan der Gemeindewerke Steinhagen GmbH für das Wirtschaftsjahr 2021 einschließlich Stellenübersicht, Investitionsprogramm und mittelfristige Ergebnis- und Finanzplanung - Abstimmungsergebnis:Einstimmig
+- TOP 30.: Beschlussfassung über die Entwürfe
+- TOP 30.1: der Haushaltssatzung nebst Haushaltsplan für das Haushaltsjahr 2021 - Abstimmungsergebnis:35 Ja-Stimmen  2 Nein-Stimmen  1 Stimmenthaltung
+- TOP 30.2: des Stellenplanes für das Haushaltsjahr 2021 - Abstimmungsergebnis:36 Ja-Stimmen  2 Stimmenthaltungen 
+- TOP 31.: Anfragen und Mitteilungen
+- TOP B.: Nichtöffentliche Sitzung
+- TOP 32.: Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 33.: Innovationspreis für Demografie und Integration für das Jahr 2020 - Abstimmungsergebnis:Einstimmig 
+- TOP 34.: Anfragen und Mitteilungen
