@@ -1,0 +1,78 @@
+# 2. Sitzung des Hauptausschusses (gem. § 60 Abs. 2 der Gemeindeordnung für das Land Nordrhein-Westfalen; epidemische Lage)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-02-10T16:05:00+01:00
+- Ende: 2021-02-10T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12082
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12082
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00475101.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3: Vorgesehen für die Sitzung des Rates
+- TOP 3.1: Wahlprüfungsverfahren - einstimmig beschlossen
+- TOP 3.2: Änderung der Satzung für die Wahl des Jugendrates der Stadt Münster (Wahlordnung Jugendrat) - einstimmig beschlossen
+- TOP 3.3: Besetzung der Einigungsstelle - einstimmig beschlossen
+- TOP 3.4: Wirtschaftsplan 2021 der citeq - von der Tagesordnung abgesetzt
+- TOP 3.5: Digitale Stadt Münster - Bericht zur Gigabitkoordination für die Stadt Münster - einstimmig beschlossen
+- TOP 3.6: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.04.2021 - mehrheitlich beschlossen
+- TOP 3.7: Flughafen Münster/Osnabrück GmbH: Konzept zum Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH (Kapitalerhöhung durch den Gesellschafter Stadtwerke Münster GmbH für das Jahr 2021) - mehrheitlich geändert beschlossen
+- TOP 3.8: Teilnahme am Förderaufruf "Modellprojekte Smart Cities" des BMI - einstimmig beschlossen
+- TOP 3.9: Leerung der städtischen Parkscheinautomaten und Parkuhren - - von der Tagesordnung abgesetzt
+- TOP 3.10: Ausbau des städtischen Stadions an der Hammer Straße: Verfahrensentscheidungen, Ausbauvarianten und vorgezogene Maßnahmen - einstimmig geändert beschlossen
+- TOP 3.10.1: Ausbau des städtischen Stadions an der Hammer Straße: Verfahrensentscheidungen, Ausbauvarianten und vorgezogene Maßnahmen
+- TOP 3.11: Vergabe- und Entgeltordnung - von der Tagesordnung abgesetzt
+- TOP 3.12: Errichtung von zwei neuen Bildungsgängen an der Berufsfachschule im Berufsfeld Ernährungs- und Versorgungsmanagement am Anne-Frank-Berufskolleg zum Schuljahr 2021/2022 - einstimmig beschlossen
+- TOP 3.13: Trägervergabe für die Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf, Bezirk Südost - von der Tagesordnung abgesetzt
+- TOP 3.14: Beitritt der Stadt Münster im Netzwerk der Biostädte, -gemeinden und -landkreise - von der Tagesordnung abgesetzt
+- TOP 3.15: Beirat für Klimaschutz: Berufung neuer Mitglieder - einstimmig beschlossen
+- TOP 3.16: Bauleitplanung
+- TOP 3.16.1: Stadtbezirk Südost
+- TOP 3.16.1.1: 78. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 3.16.1.1.1: 78. Änderung des FNP - Stellungnahmen - Abschließender Beschluss
+- TOP 3.16.1.2: 109. FNP-Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 3.16.2: Stadtbezirk Ost
+- TOP 3.16.2.1: Vorhabenbezogene 15. Änderung des Bebauungsplans HAN 3: Handorf - Ortslage im Bereich südlich Sudmühlenstraße / westlich Handorfer Straße - einstimmig beschlossen
+- TOP 3.16.2.2: Bebauungsplan Nr. 589 - Beschluss zur Aufstellung - mehrheitlich geändert beschlossen
+- TOP 3.17: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 3.17.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 4: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 4.1: Landeswettbewerb „Mobil.NRW – Mobilität in lebenswerten Städten“ - verwiesen
+- TOP 4.2: Kostenlose FFP2-Masken für Münster-Pass-Inhaber*innen - mehrheitlich geändert beschlossen
+- TOP 4.3: Kommunalen Digitalpakt schmieden - Digitale Endgeräte in Schulen jetzt - verwiesen
+- TOP 5: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 5.1: Aus der Pandemie lernen: Digitale Endgeräte für Schülerinnen und Schüler - verwiesen
+- TOP 5.2: Bildung ernst nehmen: Münster als Stadt der Bildung und Wissenschaft weiterhin stärken - Schulentwicklungsplanung vorantreiben - verwiesen
+- TOP 5.3: Münster muss erreichbar sein - Mehr Lebens- und Aufenthaltsqualität in der Innenstadt - verwiesen
+- TOP 5.4: Einführung eines Kulturtickets für Auszubildende - verwiesen
+- TOP 5.5: Was kommt nach der Einkaufsstraße? - verwiesen
+- TOP 5.6: IT-Strukturen und -Prozesse der Stadt Münster evaluieren und verbessern - verwiesen
+- TOP 5.7: Teilnahme an der „StädteChallenge Faktor 2“ als Beitrag zum Klimaschutz - verwiesen
+- TOP 5.8: Planerische, regulatorische oder finanzielle Maßnahmen zur Stärkung des Einzelhandels - verwiesen
+- TOP 5.9: Den Strukturwandel in der Innenstadt smart gestalten - verwiesen
+- TOP 5.10: Fonds zur Stärkung des Einzelhandels - einstimmig geändert beschlossen
+- TOP 5.11: Städtische Vermietungssituation unter Corona - verwiesen
+- TOP 6: Vorgesehen für die Sitzung des Hauptausschusses
+- TOP 6.1: Mobilitätsangebot („Impftaxi") zur Corona-Schutzimpfung - einstimmig beschlossen
+- TOP 6.2: Musik-Campus - Freigabe von bestehenden Haushaltsmitteln - Vergabe von Dienst- oder Lieferleistungen (UVgO/VgV) - mehrheitlich geändert beschlossen
+- TOP 7: Vorgesehen für die Sitzung des Ausschusses für Wohnen, Liegenschaften, Finanzen und Wirtschaft am 09.02.2021
+- TOP 7.1: Jahresabschluss 2019 der Klärschlammverwertung Buchenhofen GmbH (KVB GmbH) - einstimmig beschlossen
+- TOP 8: Vorgesehen für die Sitzung des Ausschusses für Umwelt, Klimaschutz und Bauwesen am 02.02.2021
+- TOP 8.1: Bäume auf Spielplätzen: Baumbestand auf Standfestikeit prüfen; Anpassung der Dringlichkeit im Baumkataster - Antrag der SPD-Fraktion an den Fachausschuss vom 16.06.2020 - einstimmig beschlossen
+- TOP 8.2: Errichtung einer Ein-Gruppen-Kita in Pavillonbauweise am Standort Heerdekolleg, Hoppengarten 34, als Interimsmaßnahme - einstimmig beschlossen
+- TOP 9: Vorgesehen für die Sitzung des Ausschusses für Personal, Digitalisierung, Organisation, Sicherheit und Ordnung am 02.02.2021
+- TOP 9.1: Aufhebung der Kopplung an die Förderung nach §16i SGB II bei 5,0 VZÄ in der Verkehrsüberwachung - mehrheitlich beschlossen
+- TOP 10: Vorgesehen für die Sitzung des Ausschusses für Stadtplanung und Stadtentwicklung am 04.02.2021
+- TOP 10.1: Ökologische Belange in der Bauleitplanung: Begrünung der Vorgärten und der Flachdächer - mehrheitlich beschlossen
+- TOP 11: Berichtsvorlagen Bauleitplanung
+- TOP 11.1: 77. Änderung FNP - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 11.2: 109. FNP-Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 11.3: Bebauungsplan Nr. 611 - Offenlegung
+- TOP 12: Verschiedenes
