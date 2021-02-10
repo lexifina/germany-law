@@ -1,0 +1,274 @@
+---
+ecli: "ECLI:DE:BGH:2021:100221XIIZR27.20.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZR 27/20"
+decided: "2021-02-10"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=15&nr=117292&anz=3571&pos=454&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_NA_2021-02-10_XII_ZR_27_20_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0126.md", "germany/bund/acts/bgb/0535.md", "germany/bund/acts/bgb/0550.md", "germany/bund/acts/bgb/0578.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, XII ZR 27/20 vom 2021-02-10
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                IM NAMEN DES VOLKES
+
+                            URTEIL
+XII ZR 27/20                                   Verkündet am:
+                                               10. Februar 2021
+                                               Küpferle,
+                                               Justizamtsinspektorin
+                                               als Urkundsbeamtin
+                                               der Geschäftsstelle
+
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2021:100221UXIIZR27.20.0
+
+                                          -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 10. Februar 2021 durch den Vorsitzenden Richter Dose, die Richter
+    Prof. Dr. Klinkhammer, Dr. Günter und Dr. Botur und die Richterin Dr. Krüger
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Beklagten wird das Urteil des 2. Zivilsenats des
+          Oberlandesgerichts Koblenz vom 5. März 2020 aufgehoben.
+
+          Die Berufung der Klägerin gegen das Urteil der 3. Zivilkammer des
+          Landgerichts Mainz vom 10. April 2019 in der Fassung des Berichtigungsbeschlusses vom 16. Mai 2019 wird zurückgewiesen.
+
+          Die Klägerin hat die Kosten beider Rechtsmittelverfahren zu tragen.
+
+
+
+
+                                  Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Die Klägerin nimmt die Beklagte aus abgetretenem Recht auf Räumung
+    und Herausgabe einer zum Betrieb eines Geldautomaten vermieteten Gewerbefläche in Anspruch.
+
+2         Die Parteien betreiben als Konkurrenzunternehmen in Deutschland an
+    zahlreichen Standorten Geldautomaten. Am 27. September 2016 schlossen die
+    Beklagte als Mieterin und Herr R. K. als Vermieter einen Vertrag über eine Teilfläche des vom Vermieter seinerseits gemieteten Ladenlokals zum Zweck der
+
+                                          -3-
+
+
+
+    Installation eines Geldautomaten gegen eine monatliche Miete von 400 € zuzüglich Umsatzsteuer. Das Vertragsformular enthält auf der Vorderseite unter anderem Angaben zum Standort des Ladenlokals, zu den Vertragsparteien und zur
+    Höhe der Miete und ist abschließend von beiden Vertragsparteien unterschrieben. Auf der von den Mietvertragsparteien nicht unterzeichneten Rückseite des
+    Vertragsformulars befinden sich die Allgemeinen Vertragsbedingungen der Beklagten, bei denen es unter § 1 Ziffer 1 heißt, dass die Mietfläche „in dem beigefügten Lageplan (Anlage 1) / Fotomontage eindeutig markiert“ ist und diese
+    Mietfläche von dem Mieter für das Aufstellen von Geldautomaten genutzt wird.
+    Nach § 2 Ziffer 1 Satz 1 der Allgemeinen Vertragsbedingungen beginnt das Mietverhältnis mit der Inbetriebnahme des Geldautomaten und endet grundsätzlich
+    mit Ablauf des Monats, in dem das Mietverhältnis fünf Jahre bestand. Nach § 2
+    Ziffer 1 Satz 2 der Allgemeinen Vertragsbedingungen verlängert sich das Mietverhältnis nach Ablauf der Festlaufzeit oder der Verlängerungsperiode jedes Mal
+    um zwölf Monate, wenn es nicht spätestens sechs Monate zuvor gekündigt wird.
+
+3         Später unterzeichneten die Vertragsparteien eine Anlage, die mit „Anlage 1 (60348) zum Mietvertrag zwischen R. K. […] und N. D. GmbH […]. Das
+    eingezeichnete Objekt kennzeichnet die Mietfläche nach § 1.1 des Vertrags“
+    überschrieben ist und eine Fotomontage zeigt, bei der der geplante von außen
+    bedienbare Geldautomat in einer Ansicht der Hausfassade eingefügt ist.
+
+4         Mit Schreiben vom 7. August 2017 erklärte der Vermieter die ordentliche
+    Kündigung des Mietverhältnisses zum 31. März 2018. Mit Vertrag vom 25. März
+    2018 trat der Vermieter, der die Mietfläche an die Klägerin weitervermietet hatte,
+    seinen Anspruch auf Rückgabe der näher bezeichneten Mietfläche an die Klägerin ab und ermächtigte diese, in seinem Namen auch weitere Erklärungen gegenüber der Beklagten abzugeben, um den Räumungsanspruch durchzusetzen.
+
+                                           -4-
+
+
+
+    Weiter heißt es in dem Abtretungsvertrag, dass die Beklagte berechtigt und verpflichtet ist, die Mietfläche direkt an die Klägerin zu übergeben.
+
+5          Das Landgericht hat die Klage abgewiesen. Auf die Berufung der Klägerin
+    hat das Oberlandesgericht unter Abänderung des landgerichtlichen Urteils die
+    Beklagte zur Räumung und Herausgabe der Mietfläche verurteilt. Mit der vom
+    Oberlandesgericht zugelassenen Revision begehrt die Beklagte die Wiederherstellung der landgerichtlichen Entscheidung.
+
+
+
+
+                                  Entscheidungsgründe:
+
+6          Die Revision hat Erfolg. Sie führt zur Aufhebung der angefochtenen Entscheidung und zur Wiederherstellung des erstinstanzlichen Urteils.
+
+                                             I.
+
+7          Das Oberlandesgericht hat seine Entscheidung wie folgt begründet:
+
+8          Die Klägerin könne von der Beklagten Räumung und Herausgabe der vermieteten Teilfläche verlangen, da der Mietvertrag durch die am 7. August 2017
+    vom Vermieter ausgesprochene ordentliche Kündigung zum 31. März 2018 beendet worden sei. Der Beklagten sei durch den Vertrag die Möglichkeit der Nutzung einer Teilfläche im Schaufenster des Ladenlokals eingeräumt worden, weshalb vom Vorliegen eines Mietvertrags auszugehen sei. Deshalb finde das
+    Schriftformerfordernis für Mietverträge mit einer Laufzeit von mehr als einem Jahr
+    nach §§ 578, 550 Satz 1 BGB im vorliegenden Fall Anwendung. Der Vertrag
+    wahre die gesetzliche Schriftform jedoch nicht. Die Unterschriften der Vertragsparteien auf der Vorderseite der Vertragsurkunde deckten die weiteren Vertrags-
+
+                                            -5-
+
+
+
+     bedingungen, die mitvereinbart wurden und auf der Rückseite der Vertragsurkunde abgedruckt sind, nicht. Die gesetzliche Schriftform sei auch nicht nachträglich mit der späteren Unterzeichnung der Anlage 1 durch die Vertragsparteien
+     hergestellt worden, weil diese Anlage nicht in ausreichender Weise deutlich auf
+     den zuvor abgeschlossenen Mietvertrag Bezug nehme. Durch sie werde nur der
+     Mietgegenstand konkretisiert.
+
+
+
+
+                                             II.
+
+9            Diese Ausführungen halten der rechtlichen Nachprüfung nicht stand.
+
+10           1. Zu Recht hat das Berufungsgericht angenommen, dass auf den vorliegenden Vertrag Mietrecht und damit auch die Formvorschrift des § 550 Satz 1
+     BGB iVm § 578 Abs. 2 BGB Anwendung findet.
+
+11           Der Senat hat nach Erlass des angegriffenen Urteils entschieden, dass ein
+     Vertrag, bei dem sich die Verpflichtung des Vermieters - wie hier - darauf beschränkt, dem Automatenaufsteller gegen ein monatliches Entgelt eine Teilfläche
+     der von ihm gemieteten Räumlichkeiten zur Aufstellung des Geldautomaten zur
+     Verfügung zu stellen, rechtlich als Mietvertrag zu qualifizieren ist, weil das Vertragsverhältnis durch die typischen mietvertraglichen Hauptleistungspflichten der
+     Überlassung des Mietobjekts zur vertragsgemäßen Nutzung gegen Zahlung eines Entgelts (§ 535 Abs. 1 und 2 BGB) geprägt wird. Auf einen solchen mit einer
+     Laufzeit von mehr als einem Jahr abgeschlossenen Vertrag findet daher gemäß
+     § 578 Abs. 2 BGB das Schriftformerfordernis des § 550 Satz 1 BGB Anwendung
+     (Senatsurteil vom 4. November 2020 - XII ZR 104/19 - NZM 2020, 1111 Rn. 16
+     mwN).
+
+                                           -6-
+
+
+
+12         2. Entgegen der Auffassung des Berufungsgerichts wahrt der Mietvertrag
+     unter Berücksichtigung der von den Mietvertragsparteien unterzeichneten Anlage 1 jedoch die für die Wirksamkeit der vereinbarten Laufzeit von mehr als einem Jahr erforderliche schriftliche Form (§ 550 BGB iVm § 578 Abs. 2 BGB). Gemäß § 2 Ziffer 1 des Mietvertrags ist das Mietverhältnis daher mit einer Laufzeit
+     von zunächst fünf Jahren ab Beginn des Folgemonats nach der Vertragsunterzeichnung durch die Parteien am 27. September 2016 abgeschlossen, so dass
+     die vom Vermieter im August 2017 erklärte ordentliche Kündigung nicht zu einer
+     vorzeitigen Beendigung des Mietvertrags geführt hat.
+
+13         a) Nach ständiger Rechtsprechung des Senats ist die Schriftform des
+     § 550 BGB nur gewahrt, wenn sich die für den Abschluss des Vertrags
+     notwendige Einigung über alle wesentlichen Vertragsbedingungen - insbesondere den Mietgegenstand, die Miete, die Vertragsdauer und die Parteien des
+     Mietverhältnisses - aus einer von beiden Parteien unterzeichneten Urkunde
+     ergibt. Da auch formbedürftige Vertragsklauseln grundsätzlich der Auslegung zugänglich sind, reicht es aus, wenn der Inhalt der Vertragsbedingungen im Zeitpunkt des Vertragsschlusses bestimmbar ist (vgl. Senatsurteil vom 17. Juni 2015
+     - XII ZR 98/13 - NJW 2015, 2648 Rn. 42 mwN). Werden wesentliche vertragliche
+     Vereinbarungen nicht im Mietvertrag selbst schriftlich niedergelegt, sondern in
+     Anlagen ausgelagert, so dass sich der Gesamtinhalt der mietvertraglichen Vereinbarung erst aus dem Zusammenspiel dieser „verstreuten“ Bedingungen
+     ergibt, müssen die Parteien zur Wahrung der Urkundeneinheit die Zusammengehörigkeit dieser Schriftstücke in geeigneter Weise zweifelsfrei kenntlich machen.
+     Dazu bedarf es keiner körperlichen Verbindung dieser Schriftstücke. Vielmehr
+     genügt für die Einheit der Urkunde die bloße gedankliche Verbindung, die allerdings in einer zweifelsfreien Bezugnahme zum Ausdruck kommen muss (Senatsurteile BGHZ 224, 370 = NJW 2020, 1507 Rn. 19 mwN und BGHZ 176, 301
+     = NJW 2008, 2178 Rn. 20 f. mwN).
+
+                                           -7-
+
+
+
+14         Zur Schriftform gehört zudem, dass die Urkunde gemäß § 126 Abs. 1
+     und 2 BGB von den Vertragsparteien eigenhändig unterzeichnet wird und die beiderseitigen Unterschriften den gesamten Vertragsinhalt decken und den Vertragstext räumlich abschließen, also unterhalb des Textes stehen und damit äußerlich die urkundliche Erklärung vollenden (Senatsurteil vom 4. November 2020
+     - XII ZR 104/19 - NZM 2020, 1111 Rn. 19 mwN).
+
+15         Allerdings ist es für die Einhaltung der Schriftform nicht erforderlich, dass
+     schon die erste Vertragsurkunde selbst alle Schriftformvoraussetzungen erfüllt.
+     Vielmehr genügt es, wenn diese Voraussetzungen durch eine nachfolgende Änderungsvereinbarung gemeinsam mit der in Bezug genommenen ersten Vertragsurkunde erfüllt werden. Dabei kann es nach den Umständen des jeweiligen
+     Falles auch genügen, wenn lediglich eine dem Vertrag beigefügte Anlage von
+     den Parteien unterschrieben wird, vorausgesetzt, dass hinreichend deutlich ist,
+     auf welchen Vertrag sich die Anlage bezieht. Eine körperliche Verbindung der
+     Anlage mit dem in Bezug genommenen Vertrag ist dabei nicht erforderlich. Wie
+     bei einer Nachtragsvereinbarung genügt es zur Einhaltung der Schriftform, dass
+     zwischen der Anlage und dem Mietvertrag eine gedankliche Verbindung besteht,
+     die erkennen lässt, dass die beiden Schriftstücke in ihrer Gesamtheit den Vertrag
+     bilden. Ausreichend ist daher, dass die Anlage die Mietvertragsparteien bezeichnet, hinreichend deutlich auf den ursprünglichen Vertrag Bezug nimmt und ersichtlich ist, dass es im Übrigen bei den Bestimmungen des ursprünglichen Vertrags verbleiben soll (Senatsurteil vom 4. November 2020 - XII ZR 104/19 - NZM
+     2020, 1111 Rn. 20 mwN).
+
+16         b) Auf dieser rechtlichen Grundlage wahrt der Vertrag im vorliegenden Fall
+     die Schriftform nach § 550 Satz 1 BGB iVm § 578 Abs. 2 BGB.
+
+                                           -8-
+
+
+
+17         aa) Zutreffend nimmt das Berufungsgericht allerdings an, dass die eigentliche Vertragsurkunde dem Schriftformerfordernis nicht genügt. Diese ist von den
+     Mietvertragsparteien lediglich auf der Vorderseite unterzeichnet worden. Diese
+     Unterschriften schließen damit nicht den vollständigen Vertragsinhalt ab, der
+     auch die auf der Rückseite des Formulars abgedruckten Allgemeinen Vertragsbedingungen der Beklagten umfasst. Die unterschriebene Vorderseite des Vertrags enthält auch keinen ausreichenden Verweis auf die auf der Rückseite des
+     Formulars abgedruckten Vertragsbedingungen, aus dem sich schließen lassen
+     könnte, die geleisteten Unterschriften deckten auch diese Vertragsbestandteile.
+     Zwar wird auf der Vorderseite des Vertrags unter der Überschrift „Mietzins (§ 3)“
+     die entsprechende Bestimmung der auf der Rückseite abgedruckten Allgemeinen
+     Vertragsbedingungen erwähnt. Dies genügt jedoch nicht, um annehmen zu können, die Unterschriften der Mietvertragsparteien deckten auch die auf der Rückseite des Formulars abgedruckten weiteren Vertragsbedingungen.
+
+18         bb) Rechtsfehlerhaft ist jedoch die Auffassung des Berufungsgerichts, die
+     nach § 550 Satz 1 BGB iVm § 578 Abs. 2 BGB für die Wirksamkeit der vereinbarten Festlaufzeit erforderliche Schriftform des Mietvertrags werde auch nicht
+     durch die später von beiden Vertragspartnern unterzeichnete Anlage 1 gewahrt.
+     Diese Anlage nimmt ausdrücklich Bezug auf den schriftlichen Vertrag, indem in
+     der Überschrift der Anlage 1 der streitgegenständliche Vertrag, die Mietvertragsparteien und der Mietgegenstand benannt werden. Zudem wird in § 1 Ziffer 1
+     Satz 1 der auf der Rückseite des Vertrags abgedruckten Allgemeinen Vertragsbedingungen der Beklagten zur Bestimmung des Mietobjekts auf die Anlage 1
+     verwiesen. Aus dieser Bezugnahme werden die gesamte Vertragsurkunde und
+     die Anlage 1 zu einer gedanklichen Einheit verbunden, aus der sich der Inhalt
+     des Vertrags ergibt. Deshalb ist es für die Erfüllung der Schriftform unschädlich,
+     dass in der Anlage 1 die weiteren Vertragsbedingungen nicht mehr ausdrücklich
+     aufgeführt sind und dort auch kein klarstellender Hinweis auf die Fortgeltung der
+
+                                          -9-
+
+
+
+     in der Vertragsurkunde abgedruckten Allgemeinen Vertragsbedingungen der Beklagten enthalten ist. Bilden somit die Anlage 1 und die gesamte ursprüngliche
+     Vertragsurkunde den Mietvertrag, decken die Unterschriften der beiden Mietvertragsparteien auf der Anlage 1 den gesamten Vertragsinhalt und schließen den
+     Vertragstext räumlich ab, so dass die Schriftform nach § 126 Abs. 1 und Abs. 2
+     Satz 1 BGB gewahrt ist (vgl. auch Senatsurteil vom 4. November 2020
+     - XII ZR 104/19 - NZM 2020, 1111 Rn. 23 mwN).
+
+19         cc) Entgegen der Auffassung der Klägerin ist auch die vermietete Grundstücksfläche in § 1 des Mietvertrags iVm der in Bezug genommenen und dem
+     Mietvertrag beigefügten Anlage 1 hinreichend bestimmbar bezeichnet. Einem Erwerber, dessen Schutz die Schriftform in erster Linie bezweckt, wäre es möglich
+     gewesen, anhand des Mietvertrags - auch bereits vor der Aufstellung des Geldautomaten - festzustellen, welche Teilfläche des Ladenlokals an die Beklagte
+     vermietet worden ist.
+
+20         Zur Einhaltung der Schriftform des § 550 Satz 1 BGB muss der Mietgegenstand im Mietvertrag individuell bestimmt oder zumindest bestimmbar sein.
+     Diese Voraussetzung ist vorliegend erfüllt. Zwar weist die Revisionserwiderung
+     zu Recht darauf hin, dass die Anlage 1 als Fotomontage nur eine Ansicht der
+     Hausfassade enthält, in die der Geldautomat eingefügt ist, und sich der Anlage
+     daher zur Größenausdehnung des Geldautomaten innerhalb des Gebäudes und
+     damit zu den räumlichen Grenzen des vermieteten Raumteils nichts entnehmen
+     lässt. Für die Bestimmbarkeit des Mietgegenstands bedurfte es jedoch im vorliegenden Fall keiner weiteren Angabe zur Größe der Fläche im Innenraum des
+     vom Vermieter betriebenen Ladenlokals. Aus der Fotomontage in Anlage 1 ergibt
+     sich eindeutig, an welcher Stelle und mit welchen Abmessungen der Geldautomat in dem Ladenlokal des Vermieters platziert werden sollte. Zwar ist aus der
+     Fotomontage nicht ersichtlich, welche Stellfläche im Inneren der Räumlichkeiten
+
+                                            - 10 -
+
+
+
+     von dem Automaten in Anspruch genommen wird. Da diese Fläche jedoch eindeutig durch die Größe eines handelsüblichen Geldautomaten begrenzt wird, bedurfte es zur Einhaltung der Schriftform keiner weiteren grafischen Darstellung
+     der Stellfläche. Ein potentieller Erwerber des Mietobjekts kann vielmehr bereits
+     allein aufgrund der Anlage 1 hinreichend genau erkennen, welche Teilfläche des
+     Ladenlokals Gegenstand des Mietvertrags ist (Senatsurteil vom 4. November
+     2020 - XII ZR 104/19 - NZM 2020, 1111 Rn. 25).
+
+
+
+
+                                             III.
+
+21          Das angefochtene Urteil ist mithin aufzuheben. Der Senat kann nach
+     § 563 Abs. 3 ZPO in der Sache abschließend entscheiden. Da die Klage aufgrund des vom Berufungsgericht erschöpfend festgestellten Sachverhalts unbegründet ist, ist das landgerichtliche Urteil wiederherzustellen.
+
+     Dose                               Klinkhammer                           Günter
+
+                     Botur                                      Krüger
+
+     Vorinstanzen:
+     LG Mainz, Entscheidung vom 10.04.2019 - 3 O 27/19 -
+     OLG Koblenz, Entscheidung vom 05.03.2020 - 2 U 701/19 -
