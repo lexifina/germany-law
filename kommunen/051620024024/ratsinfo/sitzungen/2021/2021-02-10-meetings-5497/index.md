@@ -1,0 +1,60 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-02-10T17:00:00+01:00
+- Ende: 2021-02-10T20:17:00+01:00
+- Ort: Informationsveranstaltung per Zoom-Meeting
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/26
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5497
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5497
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00140047.pdf
+
+## Tagesordnung
+
+- TOP -: Sachstand Corona
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Einwohnerfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Bildung von Untergremien des Kulturausschusses - nicht beraten aufgrund Sitzungsausfall
+- TOP 5: Entfristung der Entgeltordnung der VHS Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 6: Servicefreie Öffnungszeiten in der Stadtbibliothek - nicht beraten aufgrund Sitzungsausfall
+- TOP 7: abgesetzt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP 8: Beratung des Haushaltsplanentwurfes 2021 - Kultur - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 9: Straßenbenennung im Bereich Pierburg - alt; B-Plan 487 - nicht beraten aufgrund Sitzungsausfall
+- TOP 10: Straßenbenennung im Planbereich Bauer+Schaurte; B-Plan 495 - nicht beraten aufgrund Sitzungsausfall
+- TOP 11: Bildung der Ankaufkommission "Kunst aus Neuss" - nicht beraten aufgrund Sitzungsausfall
+- TOP 12: Bildung des Beirates zur Sammlung "Kunst aus Neuss" - nicht beraten aufgrund Sitzungsausfall
+- TOP 13: Maßnahmenliste zum Wirtschaftsplan 2021 des Gebäudemanagements der Stadt Neuss (GMN) für den Bereich Kultur
+- TOP 14: VHS Bildungsprogramm politische Bildung Änderung 1. Semester 2021 - nicht beraten aufgrund Sitzungsausfall
+- TOP 15: Genehmigung der Dringlichkeitsentscheidung Nr. 330 „Genehmigung politischer Vorträge bei vhs.wissen live“ der VHS Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 16: Genehmigung der Dringlichkeitsentscheidung Nr. 367 „Be-schluss über die Durchführung politischer Online-Vorträge“ der VHS Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 17: Genehmigung der Dringlichkeitsentscheidung Nr. 372 „Beschluss über die Durchführung politischer Online-Vorträge und Änderungen des laufenden Programmes der politi-schen Bildung“ der VHS Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anträge
+- TOP 17.1: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 17.2: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 17.3: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Förderung des TAS - Abschluss 2019 und 2020, Finanzplanung 2021
+- TOP 19: Kommission für Kunst im öffentlichen Raum
+- TOP 20: Shakespeare Garden
+- TOP 21: Programmplanung Zeughauskonzerte 2021/2022
+- TOP 22: Programmvorschau Internationale Tanzwochen 2021/2022
+- TOP 23: Veranstaltungskonzepte für die Zeughauskonzerte, die Internationalen Tanzwochen und das Shakespeare Festival
+- TOP 24: Schenkungen Leberer und Terhuven
+- TOP 25: VHS Bildungsprogramm allgemeiner Teil 1. Semester 2021
+- TOP 26: Mitteilung über die Vergabe des Programmheftdruckes der VHS Neuss
+- TOP 27: Mitteilung über die Einstellung des VHS Projektes „Perspektive Beruf“
+- TOP 28: Verzicht von Ausweisgebühren in der Stadtbibliothek
+- TOP 28.1: Öffnungszeiten der Stadtbibliothek
+- TOP 29: Magazinanbau Stadtarchiv Neuss: Machbarkeitsstudie
+- TOP 30: Auflösung des „Förderkreises Wierstraet e.V.“ – Zuwendung an die Stadt Neuss vertreten durch das Stadtarchiv Neuss
+- TOP 30.1: Publikation "Geschichte der Schulen in der Stadt Neuss" (Dokumentation des Stadtarchivs Neuss, Bd. 10, 1)
+- TOP 31: Einwohnerfragestunde
