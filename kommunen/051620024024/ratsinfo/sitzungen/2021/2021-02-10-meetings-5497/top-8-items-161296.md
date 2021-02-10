@@ -1,0 +1,8 @@
+# TOP 8: Beratung des Haushaltsplanentwurfes 2021 - Kultur
+
+- Sitzung: Kulturausschuss (2021-02-10)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/161296
+- Ergebnis: nicht beraten aufgrund Sitzungsausfall
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/28263
