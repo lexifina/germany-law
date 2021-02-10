@@ -1,0 +1,53 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-02-10T18:00:00+01:00
+- Ende: 2021-02-10T23:10:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZ9AeB2-BFoEs3TFLfw6ejY
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4634
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZM568vhQ7W-RJ3eYDuCN0vgYK37-i5y8KVR63SBybDe/Bekanntmachung_Rat_10.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV1u834EzEoBHSG70FzAUrZLPF-kSi-oGEl0VpIHxM-F/Oeffentliche_Niederschrift_Rat_10.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 16.12.2020
+- TOP 3.: Delegierung von Entscheidungen des Rates auf den Haupt- und Finanzausschuss während einer epidemischen Lage von landesweiter Tragweite gemäß § 60 Abs. 2 GO NRW - 21 Jastimmen, 22 Neinstimmen, 0 Enthaltungen
+- TOP 4.: Standortauswahlverfahren für ein Atommüll-Endlager - Sachstand - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 30.11.2020; „Statt „Container-Lösungen“: aufstehende (städtische) Gebäude auf dem GERMANIA-Areal in Gronau-Epe nutzbar machen“ - 42 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 5.2: Antrag der WEG-Fraktion vom 11.01.2021; Neubesetzung der Geschäftsführerposition in Chance gGmbH und GfA mbH - 18 Jastimmen, 26 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Antrag der WEG-Fraktion vom 25.01.2021; Vermüllung der Containerstandorte - Einstimmig, 0 Enthaltungen
+- TOP 6.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 11/2020; „Gronau als sicherer Hafen“
+- TOP 6.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 11/2020; „Gronau als sicherer Hafen“ - 21 Jastimmen, 22 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Bebauungsplan Nr. 242 "Sportgebiet Eper Bülten", Stadtteil Epe Neufassung des Aufstellungsbeschlusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Anträge auf Erlass einer Veränderungssperre für den künftigen Planbereich "Sportgebiet Bülten" im Stadtteil Epe - Einstimmig, 0 Enthaltungen
+- TOP 9.: 107. Änderung des Flächennutzungsplans für den Bereich „Hauskamp-Mitte“, Stadtteil Epe Aufstellungsbeschluss Bebauungsplan Nr. 243 „Hauskamp-Süd“, Stadtteil Epe Aufhebung des Aufstellungsbeschlusses vom 08.06.2005 Bebauungsplan Nr. 243 „Hauskamp-Mitte“, Stadteil Epe Aufstellungsbeschluss - Einstimmig, 2 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 243 Hauskamp-Mitte", Stadtteil Epe Erlass einer Veränderungssperre (§ 14 BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 251 "Wolbertskamp-Fortsetzung", Stadtteil Epe Anordnung der Umlegung - Einstimmig, 0 Enthaltungen
+- TOP 12.: Einsatz von Tablets für das Schuljahr 2021/ 2022 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Verzicht auf die Erhebung von Elternbeiträgen für die offenen Ganztagsschulen sowie außerunterrichtliche Betreuungsangebote der Primarstufe im Zuge der Coronavirus-Pandemie - Einstimmig, 0 Enthaltungen
+- TOP 14.: Sofortprogramm zur Stärkung der Innenstädte und Zentren in NRW - 3 Jastimmen, 15 Neinstimmen, 23 Enthaltungen
+- TOP 15.: Neuer Standortflyer
+- TOP 16.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 2 Enthaltungen
+- TOP 17.: Budgetbericht für das IV. Quartal 2020
+- TOP 18.: Sachstandsbericht der Verwaltung zur Corona-Pandemie (Stand: 03.02.2021)
+- TOP 19.: Bereitstellung von investiven Mitteln für die Maßnahme „Neubau des Stichweges Eichenhofstraße“ hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 2 Enthaltungen
+- TOP 19.1: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Verleihung der Stadtplakette
+- TOP 20.2: 30-Jähriges Jubiläum der Städtepartnerschaft mit Mezöberény
+- TOP 20.3: Unterschutzstellung des Kunstwerkes "Star Skid" - Ankündigung eines Bürgerantrages
+- TOP 20.4: Zustellung der Sitzungsunterlagen für den Ausschuss für Sicherheit, Ordnung und Digitales
+- TOP 21.: Anfragen
+- TOP 21.1: Bauvorhaben Eilermarkschule (Anfrage von RM von Borczyskowski)
+- TOP 21.2: Anmeldungen von Hunden in Gronau (Anfrage von RM Reinhoffer)
+- TOP 21.3: Rathausleerzug (Anfrage von RM Bügener)
+- TOP 21.4: Beleuchtung am Spielplatz Haydnstraße (Anfrage von RM Kernebeck)
+- TOP 21.5: Unterstützung von Obdachlosen (Anfrage von RM Buchholz)
+- TOP 21.6: Streumitteleinsatz (Anfrage von RM Buchholz)
