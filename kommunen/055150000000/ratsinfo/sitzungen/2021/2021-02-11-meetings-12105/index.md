@@ -1,0 +1,67 @@
+# 3. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-02-11T17:20:00+01:00
+- Ende: 2021-02-11T22:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12105
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12105
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00475794.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Antrag A-W/0002/2020 - Appelbreistiege radverkehrsfreundlicher gestalten - eingebracht
+- TOP 4.2: Anträge A-W/0029/2020 und A-W/0048/2020 - Geschwindigkeitsreduzierung für den Rüschhausweg - eingebracht
+- TOP 4.3: Bundesfinanzschule - Bau Ausweichparkplätze/Lagerplatz - Maßnahmen für die Froschwanderung - beantwortet
+- TOP 4.4: Sachstand zum Bebauungsplan 601: Gievenbeck - Appelbreistiege / Von-Esmarch-Straße (Studierendenwohnungen/ Kindertagesstätte) - eingebracht
+- TOP 4.5: Sachstand illegale Baumfällungen in Mecklenbeck - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Kenntnisnahme des Entwurfs - Vorhabenbezogene 4. Änderung des Bebauungsplans Nr. 227 - einstimmig geändert beschlossen
+- TOP 5.2: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck – Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Unterhaltung der Grundstücke und baulichen Anlagen 2021 im Stadtbezirk West, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 6.2: Ehemalige Peter-Wust-Schule 2 (Schürbusch 45 in 48163 Münster): Reaktivierung des ehem. Schulgebäudes - einstimmig geändert beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Umbenennung der Apffelstaedtstraße in Waltraut-Seitter-Straße - einstimmig geändert beschlossen
+- TOP 7.1.1: Umbenennung der Apffelstaedtstraße in Henriette-Son-Straße - eingebracht
+- TOP 7.2: Bebauungsplan Nr. 602: Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 7.3: Bebauungsplan Nr. 621 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.4: FNP 64 - Albachten-Ost - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig geändert beschlossen
+- TOP 7.5: Dingbängerweg - Zwei Querungshilfen im Bereich zwischen Weseler Straße und Mecklenbecker Straße - einstimmig geändert beschlossen
+- TOP 7.6: Trägervergabe für die Kindertageseinrichtung am Sonja-Kutner-Weg (Oxford-Quartier) im Stadtteil Gievenbeck, Bezirk West - einstimmig beschlossen
+- TOP 7.7: Landschaftsplan Roxeler Riedel - Rückkehr zu einer verbindlichen Landschaftsplanung - mehrheitlich beschlossen
+- TOP 7.8: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7.9: Multi- und intermodale Mobilität stärken - Neue Mobilstationen für Münster - einstimmig beschlossen
+- TOP 8: Entwurf des Haushaltsplanes 2021
+- TOP 8.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2021 - einstimmig beschlossen
+- TOP 8.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2021 unter Berücksichtigung der Veränderungsblätter - zur Kenntnis genommen
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Einrichtung eines Fußgängerüberweges im Bereich Rüschhausweg/Toppheideweg - eingebracht
+- TOP 9.2: Fuß- und Radverkehr sicherer gestalten: Querungshilfe Arnheimweg am Gievenbach prüfen - eingebracht
+- TOP 9.3: Anregung an den Rat der Stadt Münster: Lebens- und Aufenthaltsqualität in den Aktiven Höfen im Oxford-Quartier erhöhen - eingebracht
+- TOP 9.4: Wanderweg entlang der Aa vom Aasee durch den Westen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.5: Förderung der Elektromobilität - Aufbau von öffentlichen Ladepunkten - eingebracht
+- TOP 9.6: Einrichtung eines zeitlich begrenzten Halteverbots auf der Straße Bernings Kotten - eingebracht
+- TOP 9.7: Maßnahmen zur Minimierung der Unfallgefährdung beim Abbiegen von "Am Braaken" auf die "Altenberger Straße" - eingebracht
+- TOP 9.8: Wandererparkplatz und Überholverbot im Bereich Vorbergshügel (Hägerstraße) - eingebracht
+- TOP 9.9: Verkehrliches Maßnahmenprogramm "Verlegung Heroldstraße / Bahnhaltepunkt Mecklenbeck" - eingebracht
+- TOP 9.10: Ertüchtigung der Schmeddingstraße - eingebracht
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Dialogdisplay Isolde-Kurz-Straße
+- TOP 10.1.1: Aufstellung eines mobilen Dialogdisplays auf der Isolde-Kurz-Straße zwischen den Bushaltestellen - zur Kenntnis genommen
+- TOP 10.1.2: Ortsfeste Aufstellung eines mobilen Dialog-Displays in Nienberge auf der Isolde-Kurz-Straße in Fahrtrichtung Hermann-Hesse-Straße - einstimmig beschlossen
+- TOP 10.2: Lückenschluss Radweg Tilbecker Straße/L843 im Bereich des Bahnüberganges - zur Kenntnis genommen
+- TOP 10.3: Beidseitige Beschilderung der Sentruper Straße als Tempo 30 Zone - zur Kenntnis genommen
+- TOP 10.4: Beschilderung Durchfahrverbot für LKW optimieren - zur Kenntnis genommen
+- TOP 10.5: Lärmschutz Mecklenbeck - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10.6: Grünstreifen an Straßen und Wiesen in Parks weniger mähen - Entwicklung von Blühstreifen und blühende Wiesen - zur Kenntnis genommen
+- TOP 10.7: Barrierefreier Umbau der Bushaltestellen Isolde-Kurz-Straße - zur Kenntnis genommen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
