@@ -1,0 +1,27 @@
+# Bauhof - Alternativer Standort/Gebäude Kistenschreinerei Gelände AS Group
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-124/2020 5. Ergänzung
+- Art: Beschlussvorlage Ausschuss Gemeindeentwicklung
+- Datum: 2021-02-11
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTtSwWQdKG0LWW0tzdwslmA
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/3514
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss Gemeindeentwicklung (Bauhof - Alternativer Standort/Gebäude Kistenschreinerei Gelände AS Group) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWteN04QgH3g8rNIUjITSTnwAU_OVcRAZhXmCSYj7nmS/Beschlussvorlage_Ausschuss_Gemeindeentwicklung_VL-124-2020_5._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Fläche_Kistenschreinerei_03) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf2WO2G7RT2z-wIQi0G8DeSD_iNoiXWVt5EKw5tyYN10/Flaeche_Kistenschreinerei_03.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Fläche_Kistenschreinerei_02) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaq4q7epq6hLimCfvpjfBtbNFgB8-RBBpZ_QwlQptbZE/Flaeche_Kistenschreinerei_02.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Fläche_Kistenschreinerei_01) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYqm1RoAOUoPe8yGDAFbtNfXvyhR2V2WF51G1ugtprni/Flaeche_Kistenschreinerei_01.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_105909) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMroumBww2UJS62e_lLZP-3uqXtgabqrngHWzkEd0rU/IMG_20200903_105909.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_105923) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfQ6hB3JJs286HhRaIA7D5uRZEpeHWddYtdyx19jiLnt/IMG_20200903_105923.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_110027) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR2u0tOm-fmeGPUVa0mIRr71SVTW7oLg2LD44WbVLxAc/IMG_20200903_110027.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_110052) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRZVFJZjd0JV_4G-9ZuF_-btG25uvmZbo_4rkB3SYt2U/IMG_20200903_110052.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_110112) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcACLbCpOsi26csZQmZVojRVT-qScvDTx0rzbYRes-nN/IMG_20200903_110112.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (IMG_20200903_110409) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbaBKhcYyaW46B9q-pIlWNucmpPMB4TIw1jd5h7fae8L/IMG_20200903_110409.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Luftbild_Fläche_3m_Abstand) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXpfGxSCwSPn0UBWrzgJFZd9d5d816Bwi7nu71HdYfVX/Luftbild_Flaeche_3m_Abstand.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (20210205Kistenschreinerei_Beantwortung_HF_20210128_01) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYeZC0pgjNbp0ByXTHvFAQ59dDAxTSvwGcICNErsgIzP/20210205Kistenschreinerei_Beantwortung_HF_20210128_01.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (20210210_Fläche_Gebäudegrenze_komplett_Luftbild_01) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdqADED61k_v7O2IXbc6oTa4p7BxdKnoC0U4DYczvuYO/20210210_Flaeche_Gebaeudegrenze_komplett_Luftbild_01.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (2021_02_09_Versorger_Fahrrechte_Erklärung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbho3UcjZPyog11tYyN4Cll0qB0rJsJ1koYnN4L_u2FV/2021_02_09_Versorger_Fahrrechte_Erklaerung.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Kostenschätzung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa2-f_som_eQycYHiQR5pEt7Iw5wOxhanQB5MJoSgWW7/Kostenschaetzung.pdf
+- Anlage: Beschlussvorlage Ausschuss Gemeindeentwicklung (Langtext Kostenschätzung Position 6-8) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc5YoKj2Q3dJod0yPEd3glHonRD-793CFLxMDZo4njUT/Langtext_Kostenschaetzung_Position_6-8.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1450 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-11
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-5
