@@ -1,0 +1,74 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (39. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2021-02-11T19:05:00+01:00
+- Ende: 2021-02-11T20:40:00+01:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZcO8C5gn4NYyetwv87k9Jok
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1346
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTTRmIEMYDPsVc1-WFAarMOYTj6TUgUh9vl8cvbThWdn/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_11.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWu1nEn00L0RTfHu49yMLIHRXAO-PkEfgw8estpXE8mu/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_11.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Genehmigung der Beschlüsse des Haupt- und Finanzausschusses vom 08.12.2020 - (kein Text vorhanden)
+- TOP 2.: Richtlinie für die Vergabe städtischer Wohnbaugrundstücke - (kein Text vorhanden)
+- TOP 3.: Aufstellung eines Bebauungsplanes Nr. 8 der Kreisstadt Homberg (Efze) für den Stadtteil Caßdorf zur Ausweisung eines Allgemeinen Wohngebietes (WA) zwischen Weidenweg, Am Steinacker und Lerchenweg im beschleunigten Verfahren gem. § 13 b BauGB hier: Abwägung über die während der öffentlichen Auslegung gem. § 13 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 4.: Bebauungsplan Nr. 8 für den Stadtteil Caßdorf a) Festlegung der Verkaufspreise für die Baugrundstücke b) Übertragung der Verkaufsentscheidung für die 6 Baugrundstücke auf den Magistrat - (kein Text vorhanden)
+- TOP 5.: Bebauungsplan Nr. 1 für den Stadtteil Mühlhausen a) Festlegung der Verkaufspreise für die Baugrundstücke b) Übertragung der der Verkaufsentscheidung für die 13 Baugrundstücke auf den Magistrat - (kein Text vorhanden)
+- TOP 6.: Erwerb eines Bauplatzes im Stadtteil Mühlhausen - (kein Text vorhanden)
+- TOP 7.: Erwerb einer landwirtschaftlichen Fläche in der Gemarkung Sondheim - (kein Text vorhanden)
+- TOP 8.: Aufstellung einer Einbeziehungssatzung nach § 34 Abs. 4 Baugesetzbuch (BauGB) für den Stadtteil Roppershain im Bereich Jahnstraße und Dorfkrug hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 9.: Haushaltssatzung 2021 Hier: Unterrichtung über die Haushaltsgenehmigung gemäß § 50 Absatz 3 HGO
+- TOP 10.: Beratung und Beschlussfassung über den vom Rechnungsprüfungsamt des Schwalm-Eder-Kreises geprüften Jahresabschluss 2018 und Entscheidung über die Entlastung des Magistrats nach § 114 Absatz 1 HGO - (kein Text vorhanden)
+- TOP 11.: Erlass der Benutzungsgebühren für die Kindertagesstätten für den Monat Januar 2021 - (kein Text vorhanden)
+- TOP 12.: Einbringung des Entwurfs der 6. Nachtragssatzung zur Wasserversorgungssatzung (WVS) - (kein Text vorhanden)
+- TOP 13.: Ausbau der Hersfelder Straße - (kein Text vorhanden)
+- TOP 14.: Entwicklung des ehemaligen Klinikareals an der Melsunger Straße hier: Beratung und Beschlussfassung über das weitere Vorgehen - (kein Text vorhanden)
+- TOP 15.: Beratung und Beschlussfassung über die Einleitung eines Baulandumlegungsverfahrens gemäß§§ 45 – 79 BauGB für Flächen im Geltungsbereich des Bebauungsplanes Nr. 21-8-3 der Kreisstadt Homberg (Efze) hier: Beauftragung des Magistrats zur Anordnung der Umlegung - (kein Text vorhanden)
+- TOP 16.: Gewerbegebiet Homberg Süd; hier: Verkauf eines Gewerbegrundstücks (ehemals U10) - (kein Text vorhanden)
+- TOP 17.: KITA Wernswig; hier: Annahme Kaufvertragsangebot - (kein Text vorhanden)
+- TOP 18.: Schaffung neuer Bauflächen im Stadtteil Wernswig; hier: Annahme Kaufangebot - (kein Text vorhanden)
+- TOP 19.: Homberg (Efze) als Cittaslow?! hier: Aufnahme in das internationale Cittaslow-Netzwerk
+- TOP 20.: Bund-Länder-Programm „Lebendige Zentren in kleinen Städten und Gemeinden in Hessen“ Hier: Information über die Ablehnung auf Aufnahme in das Förderprogramm
+- TOP 21.: Nationale Stadtentwicklungspolitik – Projektaufruf „Post-Corona-Stadt: Ideen und Konzepte für eine resiliente Stadtentwicklung“ hier: a) Aufnahme als Pilotprojekt b) Förderantrag - (kein Text vorhanden)
+- TOP 22.: Fachwerkrichtlinie der Kreisstadt Homberg (Efze); hier: Novellierung - (kein Text vorhanden)
+- TOP 23.: Erarbeitung eines Radwegeentwicklungskonzepts hier: a) Entwurf eines Radverkehrskonzepts b) Umsetzung der Maßnahmen - (kein Text vorhanden)
+- TOP 24.: Sachstandsberichte und sonstige Informationen
+- TOP 24.1: Errichtung eines Multifunktionshauses für Jugend und Kultur „M15/CO-OP“, Marktplatz 15 Hier: Sachstandsbericht
+- TOP 24.2: Dorfentwicklung ländlicher Raum – Erstellung eines integrierten kommunalen Entwicklungskonzepts (IKEK) für die Gesamtkommune Homberg (Efze) hier: Sachstandsbericht zur Erstellung des IKEK
+- TOP 24.3: Standortsuche Feuerwehrhaus Holzhausen
+- TOP 24.4: Interkommunale Zusammenarbeit im Bereich der Jugendpflege zwischen der Kreisstadt Homberg (Efze) und der Gemeinde Frielendorf hier: Sachstandsbericht
+- TOP 24.5: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 24.5.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 24.5.2: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 24.5.3: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 24.5.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 24.5.5: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 24.5.6: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 24.5.7: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 24.5.8: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 24.5.9: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 24.5.10: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze) hier: Einsatz eines Streetworkers – aktueller Sachstand
+- TOP 24.5.11: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 24.5.12: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 24.5.13: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 24.5.14: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 24.5.15: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22.05.2019 betr. Efzewiesen - Naherholungsgebiet aufwerten
+- TOP 24.5.16: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22. Mai 2019 betr. Keine Wildtiere im Zirkus - tierfreundliche Gemeinde Homberg
+- TOP 24.5.17: Antrag der SPD-Fraktion vom 30.11.2019 betr. Blühflächen in Homberg (Efze)
+- TOP 24.5.18: Antrag der BL Homberg vom 26.08.2020 betr. Verbesserung der Verkehrssicherheit an diversen Fußgängerkreuzungspunkten in Homberg
+- TOP 24.5.19: Antrag der CDU-Fraktion vom 27.08.2020 betr. Beschilderung Radwege
+- TOP 24.5.20: Antrag der FDP-Fraktion vom 15.08.2020 betr. Barrierefreiheit für Rollstuhlfahrer und Rollator Benutzer in Homberg
+- TOP 25.: Anträge
+- TOP 25.1: Antrag der FDP-Fraktion vom 03.11.2020 betr. mehr Sauberkeit in Homberg - (kein Text vorhanden)
+- TOP 25.2: Antrag der CDU-Fraktion vom 04.11.2020 betr. Nichtzulässigkeit von "Schottergärten"
+- TOP 25.3: Antrag der FWG-Fraktion vom 18.01.2021 betr. Entscheidung Bahnstrecke oder Radweg
+- TOP 25.4: Antrag der FDP-Fraktion vom 15.01.2021 betr. Problemimmobilien in der Altstadt - (kein Text vorhanden)
+- TOP 25.5: Antrag der FDP-Fraktion vom 15.01.2021 betr. Verlängerung der Frist für die Aussetzung zur Erhebung von Sondernutzungsgebühren für die Gastronomie und Handel im Außenbereich - (kein Text vorhanden)
+- TOP 25.6: Antrag der FDP-Fraktion vom 15.01.2021 betr. Informationen und Hilfestellung bei der Integration von Migranten - (kein Text vorhanden)
+- TOP 26.: Anregungen
