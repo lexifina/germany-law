@@ -1,0 +1,1 @@
+Auf Grund von Art. 1 Abs. 3 und Art. 3 Abs. 1 Satz 2 und Abs. 2 Satz 3 des Bayerischen Weinabsatzförderungsgesetzes (BayWeinAFöG) vom 24. Juli 2001 (GVBl S. 346, BayRS 2125-2-L) erlässt das Bayerische Staatsministerium für Landwirtschaft und Forsten folgende Verordnung:
