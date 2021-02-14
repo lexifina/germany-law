@@ -20,6 +20,7 @@ Abschnitt 1 Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wah
 § 17 Briefwahl
 § 18 Behandlung der durch Briefwahl abgegebenen Stimmen
 § 19 Anordnung der Briefwahl
+§ 19a Sonderregelungen für die Wahlen aus Anlass der COVID-19-Pandemie
 § 20 Feststellung des Wahlergebnisses
 § 21 Wahlniederschrift
 § 22 Benachrichtigung der gewählten Bewerber
