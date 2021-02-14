@@ -1,0 +1,6 @@
+# § 19a Sonderregelungen für die Wahlen aus Anlass der COVID-19-Pandemie
+(1) Die Absätze 2 bis 5 finden auf die Wahlen nach dem Sächsischen Personalvertretungsgesetz Anwendung, die bis zum 31. Mai 2022 stattfinden.
+(2) Einem Wahlberechtigten sind auf sein Verlangen die Unterlagen für die Stimmabgabe durch Briefwahl unabhängig vom Vorliegen eines Hinderungsgrundes im Sinne des § 17 Absatz 1 Satz 1 auszuhändigen oder zu übersenden.
+(3) Der örtliche Wahlvorstand kann neben den Fällen des § 19 Satz 1 und 2 die Stimmabgabe durch Briefwahl für alle Wahlberechtigten anordnen, wenn die Möglichkeit der Stimmabgabe in der Dienststelle wegen der COVID-19-Pandemie zum Zeitpunkt der Wahl voraussichtlich nicht sichergestellt werden kann. Die Anordnung ist mit Erlass des Wahlausschreibens bekanntzugeben. § 19 Satz 3 gilt entsprechend.
+(4) Erfolgt die Anordnung nach Absatz 3 nach Bekanntgabe des Wahlausschreibens, ist dieses entsprechend zu ergänzen.
+(5) Ist eine Öffentlichkeit der Sitzung nicht vorgeschrieben, kann der Wahlvorstand diese mittels audiovisueller Einrichtungen durchführen, die in der Dienststelle verfügbar sind und von ihr zur dienstlichen Nutzung freigegeben wurden, wenn dem kein Mitglied vor Beginn der Sitzung widerspricht. Abweichend von § 14 Halbsatz 2 ist die Niederschrift von mindestens einem Mitglied des Wahlvorstands zu unterzeichnen.
