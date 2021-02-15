@@ -1,0 +1,2 @@
+# § 2a Private Zusammenkünfte
+Private Zusammenkünfte mit Freunden, Verwandten und Bekannten sind abweichend von § 2 Absatz 1 Satz 1 auch in Wohnungen nebst dem befriedeten Besitztum nur mit Angehörigen eines Hausstandes und einer weiteren Person aus einem anderen Hausstand erlaubt, wobei Kinder bis zu einem Alter von 12 Jahren und Begleitpersonen von Menschen, die diese aufgrund von Alter, Krankheit, Pflegebedürftigkeit oder Behinderung benötigen, nicht einzurechnen sind. Satz 1 gilt nicht für Zusammenkünfte von Kindern nach § 1 Absatz 2 Nummer 4.
