@@ -1,0 +1,56 @@
+# 3. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-02-16T17:03:00+01:00
+- Ende: 2021-02-16T18:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12109
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12109
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00475563.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: mündlicher Bericht Bürgerhaus, ehemaliges Offizierskasino - zur Kenntnis genommen
+- TOP 3.2: 109. FNP-Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 3.3: Bebauungsplan Nr. 611 - Offenlegung - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: 109. FNP-Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 4.2: Trägervergabe für die Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf, Bezirk Südost - einstimmig beschlossen
+- TOP 4.3: Hofkamp / Werse - Umlegung einer Druckrohrleitung (DRL) vom Bauwerk der Hofkampbrücke - einstimmig beschlossen
+- TOP 4.4: 78. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 4.5: 78. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 4.6: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 4.7: Errichtungsbeschluss zur Sanierung der Bestandssporthalle auf der York-Kaserne - einstimmig beschlossen
+- TOP 4.8: Anbindung des York-Quartiers an den Albersloher Weg in Höhe Gremmendorfer Weg (B-Plan Nr. 582) - mehrheitlich beschlossen
+- TOP 4.9: Entwurf der Stellungnahme der Stadt Münster zur Reaktivierung der SPNV WLE-Strecke Sendenhorst-Münster, Strecke 9213 von Bahn-km 14,370 bis Bahn-km 35,531 m im Planfeststellungsverfahren - mehrheitlich beschlossen
+- TOP 4.10: Multi- und intermodale Mobilität stärken - Neue Mobilstationen für Münster - von der Tagesordnung abgesetzt
+- TOP 5: Entscheidungen
+- TOP 5.1: Zuschüsse an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Südost für das 2. Halbjahr 2020 - einstimmig beschlossen
+- TOP 5.2: Errichtung des Spielplatzes Weinbergweg (KSP Petersheide B-Plan Nr. 509) -Planungs- und Baubeschluss- - von der Tagesordnung abgesetzt
+- TOP 5.3: Sanierung von Spielplätzen im Stadtbezirk Münster-Südost im Haushaltsjahr 2021 -Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 6: Etatberatung
+- TOP 6.1: Entscheidung über die Aufteilung der frei verfügbaren Haushaltsmittel der Bezirksvertretung Münster-Südost - mehrheitlich beschlossen
+- TOP 6.2: Anhörung gemäß § 37 Abs. 4 GO NRW zum Entwurf des Haushaltsplans 2021 sowie Ergebnis- und Finanzplans bis 2024 - einstimmig beschlossen
+- TOP 7: fristgerecht eingegangene Anträgen/Anregungen/Anfragen
+- TOP 7.1: Übertragung von Haushaltsmitteln - beantwortet
+- TOP 7.2: Änderung der Straßenreinigung für den Angelmodder Weg - eingebracht
+- TOP 7.3: Namensgebung Kreisverkehr in Wolbeck - eingebracht
+- TOP 7.4: Parkmöglichkeiten am Wolbecker Tiergarten - eingebracht
+- TOP 7.5: Altglascontainer Alter Postweg unterirdisch verlegen - eingebracht
+- TOP 7.6: Beschilderung des Geh- und Radweges entlang des Angelmodder Weges von der Wersebrücke bis Altehof - eingebracht
+- TOP 7.7: Gehweg Angelmodder Weg instandsetzen - eingebracht
+- TOP 7.8: Beschilderung des Radwegenetzes mit Stadtplanausschnitten - eingebracht
+- TOP 7.9: Verkehrsberuhigende Maßnahmen im Bereich des Alten Postweges in Höhe Am Filk/Weberborg - eingebracht
+- TOP 7.10: Schutzstreifen für Radfahrer einrichten / Tempo-30-Zone ausweiten - eingebracht
+- TOP 7.11: Wochenmärkte beschildern - eingebracht
+- TOP 7.12: Adaptive Beleuchtung Am Angelkamp/Berler Kamp einrichten - eingebracht
+- TOP 7.13: Beleuchtung ergänzen Grenkuhlenweg im Bereich Hausnr. 5 / Ausbau bei Fußgängerweg im Bereich Hausnr.5 - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen/Anregungen/Anfragen
+- TOP 9: Abgabe neuer Anträge/Anregungen/Anfragen
+- TOP 10: Verschiedenes
