@@ -1,0 +1,73 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-02-17T17:00:00+01:00
+- Ende: 2021-02-17T21:50:00+01:00
+- Ort: Kirchstraße 6, 14163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4321
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4321
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 3.1: Luftreinigungsgeräte in Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Unterstützung Rumpel-Basar - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Schnelle Ersatz- und Erweiterungsmöglichkeiten schaffen für die Umkleide-/Sanitärgebäude beim Berliner Hockey Club - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Drakestraße – Reduzierung der Lärmbelastung - in der BVV abgelehnt
+- TOP 3.5: Temporäre Radwege für den Breitenbachplatz - in der BVV abgelehnt
+- TOP 3.6: Verkehrsberuhigung Straße Platz des 4. Juli - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Temporäre Spielstraßen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.8: Citytree endlich aufstellen - in der BVV abgelehnt
+- TOP 3.9: Neuer Bücherbus für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.10: Sicherung der Lichterfelder Weidelandschaft voranbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.11: Trümmerberg in der Johann-Baptist-Gradl-Anlage instand setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.12: Keine Endlagerstätte im Bezirk - in der BVV abgelehnt
+- TOP 3.13: Instandsetzung der runden Holzbank um die Kastanie Ecke Curtiusstraße/Baseler Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.14: "Ich bin dann mal weg!" 2940 Kilometer von Berlin nach Santiago de Compostela. Ausschilderung des Jakobswegs durch den Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.15: Sicherer Schulweg Giesensdorfer - Einrichtung Tempo 30 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 4.1: Modellprojekt „Housing first“ - überwiesen
+- TOP 4.2: Kein Ehrengrab für Kurt von Schleicher - überwiesen
+- TOP 4.3: Grünanlagen „klimaresilient" gestalten - überwiesen
+- TOP 4.4: Bordsteinabsenkung deutlich erkennbar machen - überwiesen
+- TOP 4.5: Sofortige Wiedereinsetzung des/r Flüchtlingskoordinators/in in Steglitz-Zehlendorf! - überwiesen
+- TOP 4.6: Parkraumbewirtschaftung auf und um den Kranoldplatz - überwiesen
+- TOP 4.7: Stillgelegte Fahrzeuge im Parkviertel Dahlem (Hüttenwegsiedlung) - überwiesen
+- TOP 4.8: Denkmalschutz und Erhalt der Villa Hepp auf dem Fichtenberg - überwiesen
+- TOP 4.9: Gefährliche Schulwege - temporäre Anordnungen einsetzen - überwiesen
+- TOP 4.10: Weitere Planungen für den Schul- und Sportstandort am Osteweg - überwiesen
+- TOP 4.11: Keine sitzungsfremden Tätigkeiten in Sitzungen - überwiesen
+- TOP 4.12: Bezirkliche Beauftragte, Beiräte und Vertretungen pandemiegerecht ausstatten - überwiesen
+- TOP 4.13: Dahlemer Weg – Schäden auf dem „Nebenweg“ beseitigen - überwiesen
+- TOP 4.14: Forst Grunewald/Havel – Freizeitkonzept entwickeln - überwiesen
+- TOP 4.15: Giesensdorfer Grundschule – Lehrpersonal Homeschooling ermöglichen - überwiesen
+- TOP 4.16: Poller in Am Birkenknick Ecke Teltower Damm sanieren - überwiesen
+- TOP 4.17: Steglitz – Parkraumbewirtschaftung neu ordnen - überwiesen
+- TOP 5: Dringlichkeiten - erledigt
+- TOP 5.1: Änderung der Geschäftsordnung der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Anträge - erledigt
+- TOP 6.1: Feststellung einer außergewöhnlichen Notlage - in der BVV zurückgezogen
+- TOP 6.2: Gedenken für ordnungsbehördlich bestattete Menschen auch in der Pandemie ermöglichen - überwiesen
+- TOP 6.3: Standort Campus Dreilinden als SESB - überwiesen
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Klima-Maßnahmen sofort! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Klimanotlage nicht nur in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 7.3: Umbenennung Hindenburgdamm - in der BVV abgelehnt
+- TOP 7.4: BA und BVV: Breitbandverfügbarkeit gewährleisten - in der BVV abgelehnt
+- TOP 7.5: Berliner Straße 1-3 für Bezirksamt und soziale Zwecke sichern! - in der BVV abgelehnt
+- TOP 8: Kleine Anfragen - erledigt
+- TOP 8.1: Sanierung von Bolzplätzen und Inanspruchnahme von Fördermitteln - beantwortet
+- TOP 8.2: Steht eine Haushaltssperre unmittelbar bevor? - beantwortet
+- TOP 8.3: Poller – Pflege und Reinigung - beantwortet
+- TOP 8.4: 24/7 – Schutz vor Kälte: In Steglitz-Zehlendorf nicht nötig? - beantwortet
+- TOP 8.5: Meldekette Infektionszahlen von Gesundheitsämtern zu RKI - beantwortet
+- TOP 8.6: Wie ist der „Status quo" bei Covid-19 im Bezirk? - beantwortet
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Neubau Rathaus Zehlendorf - schriftlich beantwortet
+- TOP 10: Vorlagen zur Kenntnisnahme - Beantwortung Große Anfrage - erledigt
+- TOP 10.1: Keine Strafe ohne Gesetz - zur Kenntnis genommen (Beratungsfolge beendet)
