@@ -1,0 +1,7 @@
+# TOP 7: Antrag gem. § 24 GO NRW - Parküberwachung auf Geh- und Radwegen
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW (2021-02-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/104684
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/48729
