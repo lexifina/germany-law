@@ -1,0 +1,102 @@
+# 48. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-02-18T17:00:00+01:00
+- Ende: 2021-02-18T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4771
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4771
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=308214
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: BVV-Sondermittel zur Förderung des Projekts Stadtlichter (x) change - überwiesen
+- TOP 4.2: Technische Ausrüstung der Mitarbeiter des Bezirksamts im Homeoffice verbessern - vertagt
+- TOP 4.3: Lindencenter - Entwicklung mit Umgebung in Einklang bringen - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5.1: Urbanes Zentrum Neu-Hohenschönhausen - vertagt
+- TOP 5.2: Abschließende Stellungnahme zum "Runder Tisch Rheinpfalzallee" entfernen - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Wie ernst meint es das Bezirksamt mit der Nachhaltigkeit wirklich (Bezug: DS/1381/VIII)? - schriftlich beantwortet
+- TOP 8.2: Lichtenberger Bezirkstaler - schriftlich beantwortet
+- TOP 8.3: Grundschule an der Hauptstraße 9 - schriftlich beantwortet
+- TOP 8.4: Auftaumittel im Stadtpark - schriftlich beantwortet
+- TOP 8.5: Gebietsabgrenzung "Prerower Platz" - schriftlich beantwortet
+- TOP 8.6: Warum geht es nicht weiter im Hans-Zoschke-Stadion? - schriftlich beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Gabenzäune schnellstmöglich einrichten - überwiesen
+- TOP 9.2: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege zwischen der Schule am Roederplatz und der Hans-Rosenthal-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Geordnete Finanzen - Schulinvestitionen zuerst! - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Dem Klimawandel begegnen - den öffentlichen Raum wassersensibel gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Neugestaltung des Zugangs zum Anton-Saefkow-Platz aus Richtung Landsberger Allee - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Mauritiuskirchcenter als Standort sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Entscheidung für einen Kombibad-Standort an der Landsberger Allee fällen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Benennung einer Privatstraße in Wartenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Zuverlässige und professionelle IT an Schulen in Lichtenberg gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Lichtenberger Schulen an das Glasfasernetz anschließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Sitzgelegenheiten und Grün für den neuen "Marktplatz" in Karlshorst - überwiesen
+- TOP 9.12: Einrichtung eines Titels "Schutz und Pflege von Kunstwerken im öffentlichen Raum" im Haushaltsplan des Bezirkes - überwiesen
+- TOP 9.13: Hundetoilette in der Rosenfelder Straße - überwiesen
+- TOP 9.14: Schulische Essensversorgung außerhalb der Notbetreuung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Endlich wieder ruhige Nächte auch im Seifertweg - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Spreeufer in Lichtenberg und Treptow-Köpenick gezielt entwickeln - überwiesen
+- TOP 9.17: Auf die Wohnsiedlung "Am Gutshof" an der Dorfstraße hinweisen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Gedenken auch an verfolgte und ermordete Sinti und Roma - überwiesen
+- TOP 9.19: Verbindungstrakt zwischen zwei Gebäuden des Grünen Campus Malchow schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.20: Bezirkliches Ferienschwimmen auch in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.21: Verringerung der Unfallgefahren an der Vulkanstraße im Bereich des Gewerbeparks Dong Xuan Center/Topas - überwiesen
+- TOP 9.22: Gutscheine für Lichtenberger Familien - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.23: Grundschulneubau am Blockdammweg sichern und umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.24: Bilanz der Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten in Lichtenberg im Jahr 2020 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.25: Bebauungsplan 11-107 - öffentliche Auslegung und erneute eingeschränkte Beteiligung der Behörden und Träger öffentlicher Belange; Arbeitstitel: Nördlich Schleizer Straße - überwiesen
+- TOP 9.26: Bebauungsplan 11-166 - frühzeitige Beteiligungen; Arbeitstitel: "HOWOGE-Arena Hans Zoschke" - überwiesen
+- TOP 9.27: Unterstützung der Initiative "Kommunen für ein starkes Lieferkettengesetz in Deutschland" - überwiesen
+- TOP 9.28: Vorhabenbezogener Bebauungsplan 11-167 VE - Änderungsbeschluss - überwiesen
+- TOP 9.29: Bebauungsplan XXII-3ba - Einstellung; Arbeitstitel: Westlich Ferdinand-Schultze-Straße zwischen Landsberger Allee und Sollstedter Straße Bebauungsplan XXII-3bb - Einstellung; Arbeitstitel: zwischen Ferdinand-Schultze-Straße und Hofheimer Straße/öffentlicher Parkanlage - überwiesen
+- TOP 9.30: Laufzeit der Beauftragung von Stadtteilkoordinationen in Lichtenberg - überwiesen
+- TOP 9.31: Beantragung von Fördermitteln (FEIN-Pilotprojekte) der Senatsverwaltung für Stadtentwicklung und Wohnen für das Projekt Kiezladen "KiezArt" in Hohenschönhausen Nord für/ab 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Gewerbegebiet Herzbergstraße - schriftlich beantwortet
+- TOP 10.2: Chefsache Kita-Ausbau geht der Saft aus! - schriftlich beantwortet
+- TOP 11: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 11.1: Lichtenberger Unternehmen des Jahres - nur mit Guter Arbeit - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Mehr Sicherheit auf der Blockdammbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Skateparks in Lichtenberg qualifizieren und sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Olympische Skateboard-Wettkampfanlage im Sportforum Hohenschönhausen - in der BVV abgelehnt
+- TOP 11.5: Durchgang zwischen Ilsestraße und Aristotelessteig wieder öffnen - in der BVV abgelehnt
+- TOP 11.6: Staatliche Europaschule in Hohenschönhausen errichten - in der BVV abgelehnt
+- TOP 11.7: Kreuzungen an der Werneuchener Straße von parkenden Autos freihalten - in der BVV abgelehnt
+- TOP 11.8: Rekommunalisierung der Schulreinigung im Nachtragshaushalt einstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: TVO-Planung muss beschleunigt werden - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.10: Schwerpunktsetzung Fußwege und Radverkehrsanlagen bei der Tiefbauunterhaltung im Jahr 2021 - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Safe Place für obdachlose Menschen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Obdachlose mit Hilfe von sozialen Einrichtungen unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Runder Tisch "Obdachlosenarbeit" - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Bebauungsplan 11-176 - Aufstellungsbeschluss; Arbeitstitel: Schulze-Boysen-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Ergänzender Haushalt 2021; Bezug: DS/1358/VIII - überwiesen
+- TOP 12.2: Solidarität mit Wien - Resolution gegen Islamismus und religiösen Terror - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Chance für mehr Ärzte in Lichtenberg tatkräftig nutzen! - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Mittel für Integrationsfonds und BENN-Projekt - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Flächennutzungsplan für die Anlage Falkenhöhe 1932 ändern - überwiesen
+- TOP 14.2: Resolution - Linksextremistische Anschläge in Lichtenberg verurteilen - in der BVV abgelehnt
+- TOP 14.3: DigitalPakt Schule in Lichtenberg konsequent umsetzen und beschleunigen - überwiesen
+- TOP 14.4: Buddhistische Grabstätte in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Zwischennutzung der Fläche neben Möbel Höffner für Kulturprojekte - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Verstöße gegen das Neutralitätsgebot endlich beenden - in der BVV abgelehnt
+- TOP 14.7: Fortsetzung des Programms LernBrücken - überwiesen
+- TOP 14.8: Unterstützung Sportlerheim auf dem Sportplatz Fischerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Spielplatz auf der "Oderbruchkippe" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16: Schließung der Sitzung - erledigt
