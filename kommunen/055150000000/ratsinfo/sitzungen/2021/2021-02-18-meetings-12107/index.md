@@ -1,0 +1,52 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-02-18T17:00:00+01:00
+- Ende: 2021-02-18T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12107
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12107
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00476010.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 2.1: - Verkehrssicherheitsmaßnahmen an der Kita "Lucki Kids", Max-Winkelmann-Straße - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Ausbau des städtischen Stadions an der Hammer Straße: Verfahrensentscheidungen, Ausbauvarianten und vorgezogene Maßnahmen (V/0982/2020)" - zur Kenntnis genommen
+- TOP 3.2: Zielsetzung und Verfahrensverlauf "Integriertes Entwicklungskonzept für den Stadtteil Berg Fidel" - zur Kenntnis genommen
+- TOP 3.3: Sachstandsbericht zum Stadtteilentwicklungskonzept für Hiltrup-Ost - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Sanierung von Spielplätzen im Stadtbezirk Münster-Hiltrup - Festlegung der Reihenfolge 2021 - Grundlage für die Haushaltsplanungen 2021 - einstimmig geändert beschlossen
+- TOP 4.2: Aufteilung der frei verfügbaren Mittel für das Haushaltsjahr 2021 (im Rahmen des Haushaltsplanes) - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Trägervergabe für die Kindertageseinrichtung An der Hiltruper Baumschule im Stadtteil Hiltrup, Bezirk Hiltrup - einstimmig beschlossen
+- TOP 5.2: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 5.3: Fahrplanmaßnahmen der - einstimmig beschlossen
+- TOP 5.4: Machbarkeitsstudie für einen Bahnhaltepunkt im Bereich Münster-Geist/Preußenstadion - einstimmig beschlossen
+- TOP 5.5: Zuschuss Citymanagement Hiltrup für die Jahre 2022 und 2023 - einstimmig beschlossen
+- TOP 5.6: Beratung des Haushaltsplanes 2021 sowie Ergebnis und Finanzplanung - einstimmig geändert beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Transparenz für die neuen BV-Mitglieder - zur Kenntnis genommen
+- TOP 6.2: Skateranlage für Amelsbüren - einstimmig beschlossen
+- TOP 6.3: Verkehrssituation im Stadtteil Amelsbüren verbessern - einstimmig beschlossen
+- TOP 6.4: Fahrradanlehnbügel am Parkplatz Hiltruper See/Hohe Ward, nahe Westfalenstraße - einstimmig beschlossen
+- TOP 6.5: Verschiedene Standorte für E-Ladesäulen in unseren 3 Stadtbezirken prüfen - einstimmig beschlossen
+- TOP 6.6: Errichtung einer öffentlichen Toilette auf dem Marktplatz in Hiltrup und/oder auf dem Eckgrundstück Marktallee - Hülsbrockstraße - einstimmig beschlossen
+- TOP 6.7: Zustand der Wegeverbindungen in Amelsbüren, Berg Fidel und Hiltrup in den Grünzügen und Verbindungen zwiwchen den Ortste4ilen - einstimmig beschlossen
+- TOP 6.8: Das Parken von PKW Anhängern auf dem Park & Ride Parkplatz an der Autobahnauffahrt Münster Hiltrup soll durch ein entsprechendes Verkehrszeichen verboten werden - einstimmig beschlossen
+- TOP 6.9: Öffentliche Beachvolleyball-Plätze am Kanal schaffen ! - mehrheitlich beschlossen
+- TOP 6.10: Ein Bürger*innen-Wald für den Stadtbezirk Hiltrup! - einstimmig beschlossen
+- TOP 6.11: Erneuerung von Bänken und Müllbehältern in Berg Fidel - einstimmig geändert beschlossen
+- TOP 6.12: Beschilderte Wege und Übersichtskarten für die Hohe Ward - einstimmig beschlossen
+- TOP 7: Anregungen
+- TOP 7.1: Geschwindigkeitsbegrenzung auf 70 km/h auf den Straßen Feuerstiege und Hartmannsbrook - einstimmig abgelehnt
+- TOP 7.2: E-Ladestation für E-Autos und Pedelecs/Ebikes auf dem Parkplatz an der Turnhalle des Kant-Gymnasiums - einstimmig beschlossen
+- TOP 7.3: E-Ladestation für Pedelecs/Ebikes auf dem "Dorfplatz" in Amelsbüren (Ecke Ottmarsbocholter Straße/Auf der Woort) - einstimmig beschlossen
+- TOP 7.4: Mehr Sauberkeit für Hiltrup - einstimmig beschlossen
+- TOP 7.5: Altglascontainer im Ortskern von Amelsbüren unsichtbar machen - einstimmig beschlossen
+- TOP 8: Verschiedenes
