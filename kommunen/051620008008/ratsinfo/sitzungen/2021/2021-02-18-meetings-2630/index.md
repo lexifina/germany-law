@@ -1,0 +1,85 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-02-18T18:33:00+01:00
+- Ende: 2021-02-18T21:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2630
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2630
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00111291.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00111291.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00111291.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Rücknahme Delegation auf den HA - einstimmig
+- TOP 3: Auflösung der Fraktion "Fraktions-Team Grevenbroich"
+- TOP 3.1: Auflösung Fraktion - einstimmig bei
+- TOP 3.2: Auflösung Fraktion - einstimmig
+- TOP 3.3: Partnerschaftsverein (Beirat) - einstimmig
+- TOP 4: Einbringung des Haushaltes 2021
+- TOP 5: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Grevenbroich - mehrheitlich bei
+- TOP 6: Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Grevenbroich - mehrheitlich bei
+- TOP 7: 1. Änderungssatzung zur Hauptsatzung - mehrheitlich bei
+- TOP 8: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im vierten Quartal 2020
+- TOP 9: Dringlichkeitsentscheidungen
+- TOP 10: Mittelbereitstellungen
+- TOP 11: Delegiertenversammlung Erftverband - mehrheitlich bei
+- TOP 12: Städte- und Gemeindebund - mehrheitlich bei
+- TOP 13: Segelflugplatzgesellschaft - einstimmig
+- TOP 14: Verzicht Rückbau des 1. Bauabschnitts der Bahnstraße (Antrag Nr. 16/2021) - mehrheitlich bei
+- TOP 15: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 15.1: Sammelbeantwortung
+- TOP 15.2: Vandalismus an Straßenlaternen in Gustorf (Anfrage Nr. 02/2021)
+- TOP 15.3: Sachstand Sportanlage Neuenhausen (Anfrage Nr. 05/2021)
+- TOP 15.4: Sachstand Sportanlage Neurath (Anfrage Nr. 06/2021)
+- TOP 15.5: Impfpaten (Antrag Nr. 10/2021)
+- TOP 15.6: Standort Obdachlosenheim (Anfrage Nr. 19/2021)
+- TOP 15.7: Beantwortung der Anfrage: Mittelverwendung "Sofortprogramm zur Stabilisierung der Innenstädte und Zentren" (Anfrage Nr. 22/2021)
+- TOP 15.8: Müll auf dem Gierather Weg (Anfrage Nr. 23/2021)
+- TOP 15.9: Sachstand CO2-Ampeln und Luftreinigungsgeräte in Schulen (Anfrage Nr. 24/2021)
+- TOP 15.10: Sachstand Erweiterung Grundschule Kapellen und städt. Kindergarten Kapellen (Anfrage Nr. 25/2021)
+- TOP 15.11: Sachstand Familienbüro (Anfrage Nr. 26/2021)
+- TOP 15.12: Sachstand Kita in der Coens-Galerie (Anfrage Nr. 27/2021)
+- TOP 15.13: Verwendung der Abgaben der Landwirte für Feldwege (Antrag Nr. 103/17)
+- TOP 15.14: Bürgerbeteiligung durch Einführung eines Bürgerhaushaltes (Antrag Nr. 13/2016)
+- TOP 15.15: Aussetzen des Vollzuges der Satzung für Straßenbaubeiträge nach § 8 KAG (Antrag Nr. 247/18)
+- TOP 15.16: Mein GV, Anfrage Nr. 174/2014
+- TOP 15.17: FDP, Antrag Nr. 269/2015
+- TOP 15.18: Wohnungen Südstadt
+- TOP 16: Schriftliche Anträge von Fraktionen und Ratsmitgliedern
+- TOP 16.1: Anträge der SPD-Fraktion
+- TOP 16.1.1: LKW-Durchfahrtsverbot für Neurath (Antrag Nr. 55/2021) - einstimmig
+- TOP 16.2: Anträge der CDU-Fraktion
+- TOP 16.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 16.3.1: Reduzierung des Mindestmüllvolumens (Antrag Nr. 51/2021) - einstimmig
+- TOP 16.4: Anträge der FDP-Fraktion
+- TOP 16.4.1: Avatare zur Unterstützung krankheitsbedingt abwesender Kinder an Grevenbroicher Schulen (Antrag Nr. 43/2021) - einstimmig
+- TOP 16.4.2: Spielplatzangebot in Wevelinghoven ausweiten (Antrag Nr. 46/2021) - einstimmig
+- TOP 16.4.3: Entwicklungsperspektiven in Gustorf-Gindorf (Antrag Nr. 47/2021) - einstimmig
+- TOP 16.4.4: "Digital-Art-Walk" Grevenbroich entwickeln (Antrag Nr. 58/2021) - einstimmig
+- TOP 16.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 16.5.1: Zusätzliche Parkflächen für den ISEK-Maßnahmenraum (Antrag Nr. 49/2021) - einstimmig
+- TOP 16.6: Anträge der UWG-Fraktion
+- TOP 17: Gemeinschaftsanträge und -anfragen
+- TOP 17.1: Parkraumkonzept (Antrag Nr. 50/2021) - einstimmig
+- TOP 17.2: Einrichtung eines Fördermittelmanagements (Antrag Nr. 52/2021) - einstimmig
+- TOP 17.3: B-Plan-Änderung K24 Industriestraße (Antrag Nr. 53/2021) - einstimmig
+- TOP 17.4: Lieferverkehr vermeiden, Aufenthaltsqualität steigern, Umwelt schonen (Antrag Nr. 54/2021) - einstimmig
+- TOP 17.5: Anpassung der OGS Satzung (Antrag Nr. 56/2021) - einstimmig
+- TOP 18: Schriftliche Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 18.1: Anfragen der SPD-Fraktion
+- TOP 18.1.1: Gebührenhaushalte (Anfrage Nr. 57/2021)
+- TOP 18.2: Anfragen der CDU-Fraktion
+- TOP 18.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 18.4: Anfragen der FDP-Fraktion
+- TOP 18.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 18.6: Anfragen der UWG-Fraktion
+- TOP 19: Mündlichen Anfragen von Fraktionen und Ratsmitgliedern
+- TOP 19.1: Kita-Beiträge für den Monat Februar 2021 (Antrag Nr. 72/2021)
+- TOP 19.2: Unbearbeitete Anträge/Anfragen aus der letzten Wahlperiode (Anfrage Nr. 104/2021)
+- TOP 20: Mitteilungen des Bürgermeisters
