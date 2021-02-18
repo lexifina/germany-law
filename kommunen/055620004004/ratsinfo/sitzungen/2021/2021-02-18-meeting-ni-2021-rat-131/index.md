@@ -1,0 +1,65 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2021-02-18T17:00:00+01:00
+- Ende: 2021-02-18T20:30:00+01:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-131
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-131
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-RAT-131
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-131
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-131
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Sachstand Corona
+- TOP 3: Ernennung eines stellvertretenden Schriftführers für den Haupt- und Finanzausschuss und den Rat der Stadt Castrop-Rauxel
+- TOP 4: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 5: Dreizehnte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel
+- TOP 6: Genehmigung der Dringlichkeitsentscheidung vom 14.01.2021 zum Antrag auf Fördermittel im Rahmen des Investitionspaktes zur Förderung von Sportstätten im Programmjahr 2021 zur Realisierung eines Spiel-, Sport- und Bewegungsparks für Alle in Castrop-Rauxel am Hallenbad
+- TOP 7: Delegierung von Entscheidungsbefugnissen an den Haupt- und Finanzausschuss
+- TOP 8: Entwurf der Nachtragssatzung 2021 und des Nachtragshaushaltsplans 2021 einschließlich der Anlagen sowie Entwurf der Fortschreibung des Haushaltssanierungsplans 2012 - 2021 für das Jahr 2021
+- TOP 8.1: Änderungen zum Nachtrag für den Stellenplan 2021
+- TOP 9: 41. Hauptversammlung des Deutschen Städtetages; Bennenung von Delegierten
+- TOP 10: Zustimmung zum Erfolgsplan 2021 des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2019
+- TOP 12: Genehmigung einer dringlichen Entscheidung gem. § 60 Abs. 1 S. 2 GO NRW hier: Aussetzung der Elternbeiträge und Verpflegungsentgelte im Januar 2021 (Verrechnung im Februar 2021)
+- TOP 13: Erlass einer neuen Dienstanweisung für die örtliche Rechnungsprüfung der Stadt Castrop-Rauxel
+- TOP 14: Erlass einer neuen Rechnungsprüfungsordnung für die örtliche Rechnungsprüfung der Stadt Castrop-Rauxel
+- TOP 15: Festsetzung der Wochenmärkte in Castrop-Rauxel vom 01.04.2021 - 31.03.2023
+- TOP 16: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2021
+- TOP 17: Welterbe-Projekt „Industrielle Kulturlandschaft Ruhrgebiet“ hier: Gebietsauswahl Castrop-Rauxel
+- TOP 17.1: Ergänzungsantrag SPD Fraktion und Bündnis 90/Die Grünen vom 18.02.2021; Emscherumbau "Welterbe-Projekt" und "Industrielle Kulturlandschaft Ruhrgebiet" hier: Gebietsauswahl Castrop-Rauxel
+- TOP 17.2: Antrag DIE LINKE vom 02.02.2021_Ökologischer Umbau der Emscher / UNESCO-Weltkulturerbe
+- TOP 18: Bebauungsplan Nr. 157 „ChemSite“ hier: Beschluss zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan Nr. 157 „ChemSite“
+- TOP 19: 4. Änderung des Flächennutzungsplanes der Stadt Castrop-Rauxel „Änderung der Konzentrationsflächen für Windkraftanlagen“ hier: a) Entscheidung über die Stellungnahmen (Abwägung) b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Feststellungsbeschluss des Planes und Billigung der Begründung mit Umweltbericht d) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde
+- TOP 20: Bebauungsplan Nr. 261 „Sport-, Spiel- und Bewegungspark am Hallenbad“ hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB
+- TOP 21: Bebauungsplan Nr. 245H Planbereich "Am Emscherufer" - Abwägungsbeschluss
+- TOP 22: Vertretung bei ggf. anstehenden Sitzungen und Versammlungen des "Klimabündnis der europäischen Städte mit indigenen Völkern der Regenwälder/Alianza del Clima e.V.", die sich aus der Mitgliedschaft für die Stadt Castrop-Rauxel ergeben.
+- TOP 23: Kenntnisnahme "Qualifizierter Mietspiegel für Castrop-Rauxel"
+- TOP 24: Antrag Bündnis 90/ Die Grünen vom 02.12.2020 - Erstellung eines Kleingartenentwicklungsplanes 2020-2025
+- TOP 25: Antrag der CDU-Fraktion vom 24.01.2021_Verkehrssicherheit Am Weißdorn
+- TOP 26: Antrag der CDU-Fraktion vom 24.01.2021_Verkehrssicherheit Kastanienweg
+- TOP 27: Antrag der CDU-Fraktion vom 25.01.2021_Prüfauftrag: Zusätzliche Sicherung von Querungshilfen
+- TOP 28: Antrag der CDU-Fraktion: Prüfauftrag "Sanierung Umkleidekabinen TUS Henrichenburg" vom 25.01.2021
+- TOP 29: Bestimmung der Sachkundigen Einwohner/innen im Umweltausschuss für die Wahlperiode 2020-2025
+- TOP 30: Förderung von neuen Solarstrom-Anlagen für bestehende oder neu zu errichtende private Wohngebäude im Stadtgebiet von Castrop-Rauxel.
+- TOP 31: Einbeziehung weiterer beratender Mitglieder in den Jugendhilfeausschuss
+- TOP 32: Kommunalwahlen 2020: Erklärung der Gültigkeit der Wahlergebnisse zur Vertretung der Stadt Castrop-Rauxel (Ratswahl), zur Wahl des Bürgermeisters gemäß § 40 Abs. 1 Buchstabe d) Kommunalwahlgesetz NRW (KWahlG NRW) und der Integrationsratswahl
+- TOP 33: Antrag FWI Fraktion vom 02.02.2021_Solarsitzbänke
+- TOP 34: Antrag Fraktion DIE LINKE vom 02.02.2021_Versiegelung - Entsiegelung
+- TOP 35: Resolution_Kommunen für ein starkes Lieferkettengesetz in Deutschland
+- TOP 36: Gemeinsamer Antrag SPD Fraktion und Bündnis 90 / Die Grünen_Teilnahme an den Wettbewerben Klimaaktive Kommune 2021 und Kooperative Stadt
+- TOP 37: Kuratorium der Sparkassenstiftung Castrop-Rauxel für Kultur, Wissenschaft: Bestellung von zwei Kuratoriumsmitgliedern
+- TOP 38: Berufung der beratenden Mitglieder des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung)
+- TOP 39: Bereitstellung zusätzlicher Haushaltsmittel (Finanzplan) für die Inanspruchnahme der Rückstellung Prozesskosten (AGR ./. Stadt Castrop-Rauxel)
+- TOP 40: Entsendung Mitglieder des Integrationsrates in die Fachausschüsse.
+- TOP 41: Anfragen der Ratsmitglieder
+- TOP 42: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
