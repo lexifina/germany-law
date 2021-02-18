@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-02-18T16:40:00+01:00
+- Ende: 2021-02-18T20:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/244
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19382
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19382
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00266194.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00267290.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführung für den Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP -: Verpflichtung Sachkundiger Bürger
+- TOP 2: Berichterstattung Döppersberg (mündliche Berichte)
+- TOP 2.1: Sachstandsbericht Natursteinfassade
+- TOP 2.2: Sachstandsbericht Wupperpark
+- TOP 2.3: Controllingbericht
+- TOP 3: Gemeinsame Umsetzung des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) Innenstadt Elberfeld und der Fernwärmestrategie - ungeändert beschlossen
+- TOP 4: Neugestaltung der zentralen Fußgängerzone Werth, Wuppertal-Barmen - ungeändert beschlossen
+- TOP 5: Förderprogramm Problemimmobilien - ungeändert beschlossen
+- TOP 6: Ausbau des Wuppertaler Gesamtschulangebots: Standortentscheidung zum Bau der 7. Gesamtschule (Erneuerung der Grundsatzentscheidung) - geändert beschlossen
+- TOP 6.1: Ausbau des Wuppertaler Gesamtschulangebots: Standortuntersuchung (Standortanalyse und Standortvergleich - in der Sache erledigt
+- TOP 7: Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 8: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Sozialer Zusammenhalt (vormals Soziale Stadt) Oberbarmen / Wichlinghausen II - ungeändert beschlossen
+- TOP 8.1: Pumptrack-Anlage an der Nordbahntrasse – Sozialer Zusammenhalt Oberbarmen/Wichlinghausen II - ungeändert beschlossen
+- TOP 9: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Sozialer Zusammenhalt (vormals Soziale Stadt) Heckinghausen - ungeändert beschlossen
+- TOP 9.1: Neubau Pfälzer Steg und Aufwertung – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 9.2: Außenanlage Stadtteilzentrum – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 9.3: Erweiterung der Maßnahme Gustav-Müller-Anlage - Soziale Stadt / Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 10: Bundesförderprojekt Museum Industriekultur Wuppertal - ungeändert beschlossen
+- TOP 11: Bebauungsplan 1259 - Staasstraße - - ungeändert beschlossen
+- TOP 12: Bebauungsplan 1155 - Berliner Str./ Bredde - - ungeändert beschlossen
+- TOP 13: Flächennutzungsplanänderung 114 - Bahnhof Heubruch - - ungeändert beschlossen
+- TOP 14: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - vertagen
+- TOP 15: Bebauungsplan 810 A - Uellendahler Straße/ Zamenhofstraße - 3. Änderung des Bebauungsplanes(mit Flächennutzungsplanberichtigung 118B) - Offenlegungsbeschluss - - ungeändert beschlossen
+- TOP 16: 106. Flächennutzungsplanänderung - Friedenshort - - ungeändert beschlossen
+- TOP 17: Bebauungsplan 1231 - Friedenshort - - ungeändert beschlossen
+- TOP 18: Bebauungsplan 693 - Leibusch/ Thielestraße - - ungeändert beschlossen
+- TOP 19: Erklärung über die Funktionslosigkeit von Festsetzungen des Fluchtlinienplans Nr. 9 - ungeändert beschlossen
+- TOP 20: Bebauungsplan 1247 - Rather Straße / Kohlfurther Straße - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 982 - Schulzentrum Süd/ Schwimmsportleistungszentrum Küllenhahn - ungeändert beschlossen
+- TOP 22: Bebauungsplanes 673 - Viehhofstraße - 3. Änderung des Bebauungsplanes - Aufstellungsbeschluss - - ungeändert beschlossen
+- TOP 23: Bebauungsplan 1272 - Kreisverkehr Schwarzbach/Am Diek - ungeändert beschlossen
+- TOP 24: Durchführungsplan 62A Fluchtlinien für das Gebiet Kleeblatt-Bundesbahngelände-Diestelbeck-Gerstenstraße-Hospitalstraße-Weststraße-Malzstraße-Gambrinusstraße - -Aufstellungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 1119 - Ohligsmühle- Aufhebung des Aufstellungsbeschlusses - ungeändert beschlossen
+- TOP 26: Aktivierung von Baulücken - Pilotprojekt Ronsdorf - Entgegennahme ohne Beschluss
+- TOP 27: Planfeststellungsbeschlüsse für die Elektrifizierung der Regiobahn sowie die Verlängerung des Gleises 915 - Entgegennahme ohne Beschluss
+- TOP 28: Flächen Kindertagesstätten - geändert beschlossen
+- TOP 29: Flächenpotentiale - geändert beschlossen
