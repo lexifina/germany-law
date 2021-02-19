@@ -1,0 +1,87 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-19T16:30:00+01:00
+- Ende: 2021-02-19T18:10:00+01:00
+- Ort: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20084
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20084
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Teil 1von2 TOP 4.1-4.14_Aktualisiert Stand 17.02.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402424.pdf
+- Ergebnisprotokoll: Teil 1von2 TOP 4.1-4.14_Aktualisiert Stand 17.02.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402424.pdf
+- Wortprotokoll: Teil 1von2 TOP 4.1-4.14_Aktualisiert Stand 17.02.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402424.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 27.11.2020 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Projektes Abriss und Neubau Realschule Theodor-Litt-Str. 5 - Empfehlung einstimmig beschlossen
+- TOP 4.7: Platz für Jugendliche in Wersten prüfen - Antrag des Jugendrates - einstimmig beschlossen
+- TOP 4.8: Zuschuss an die Rudergesellschaft Benrath e.V. - einstimmig beschlossen
+- TOP 4.8.1: Zuschuss an die Rudergesellschaft Benrath e.V. - Ergänzungsantrag zum TOP 4.8 in der Sitzung vom 19.02.2021 - einstimmig beschlossen
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 4.10: Baumfällungen Winter 2020/2021 im Bezirk 9 - zur Kenntnis genommen
+- TOP 4.11: Radschnellweg - Vermerk zur frühen Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 4.12: Paul-Thomas-Straße – Erschließung SEGRO - Linksabbieger - zur Kenntnis genommen
+- TOP 4.13: Widmung von Straßen - Cäcilie-Beuken-Straße, Max-Schmeling-Straße, Telleringstraße - zur Kenntnis genommen
+- TOP 4.14: Werstener Friedhofstraße 70, 72; Neubau der Feuer- und Rettungswache 7 und des zentralen Betriebshofes Süd für das Garten-, Friedhofs- und Forstamt - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Friedhof Itter, Vorlage AÖE/026/2020 - Anfrage der Fraktion Bündnis 90/ Die Grünen - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Baumpflanzungen im Stadtbezirk 9 - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Verkehrskonzept Düsseldorf-Süd - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Sachstand Maßnahmen „Jugend checkt Düsseldorf“ - Anfrage der Fraktion Bündnis 90/ Die Grünen - zur Kenntnis genommen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Ehemaliger Radweg am Benrather Schlossufer/Am Alten Rhein - Interfraktionelle Anfrage - vertagt
+- TOP 6.4: Landesstraße 293, Hochwasserumleitung - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Gutshof/Kinderbauernhof Niederheid - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Photovoltaik-, Solarthermieanlagen und energetische Gebäudesanierung - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Hochwasserschutzprojekt Himmelgeister Rheinbogen - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.1.1: Änderungsantrag der Fraktionen von CDU und Bündnis 90/Die Grünen zu TOP 7.1 - Hochwasserschutz Himmelgeister Rheinbogen - einstimmig beschlossen
+- TOP 7.2: Reisholzer Hafen - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.3: Raumwerk D - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Klare Regelungen für Hundebesitzer, Hundeauslaufflächen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel der Bezirkvertretung 9
+- TOP 8.1: Repräsentation 2021 - einstimmig beschlossen
+- TOP 8.2: Geranien Rathaus Benrath - einstimmig beschlossen
+- TOP 8.3: KGS Marienschule - Präventionsprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 8.4: Diakonie Düsseldorf-Ernst-Lange-Haus: Spielcontainer Hassels-Nord - einstimmig beschlossen
+- TOP 8.5: "Wir in Wersten" e.V. - Werstenrallye 2021 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 9.1: Silcherstraße - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/185/2020 - zur Kenntnis genommen
+- TOP 9.2: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorfs - Nachtrag zur Sitzung der BV 9 vom 19.06.2020; BAU/004/2020 - zur Kenntnis genommen
+- TOP 9.3: Further Str. / Potsdamer Str. – Verbesserung der Sichtbeziehungen - Nachtrag zur Informationsvorlage der BV9 aus der Sitzung vom 27.11.2020, BV9/214/2020 - zur Kenntnis genommen
+- TOP 9.4: Geschwindigkeitslimit auf der Verbindungsstraße Urdenbach-Baumberg - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/171/2020 - zur Kenntnis genommen
+- TOP 9.5: Gehweg Benrather Schloßallee - Beschluss der Bezirksvertretung 9 vom 27.11.2020; BV/228/2020 - zur Kenntnis genommen
+- TOP 9.6: Planungsauftrag Benrather Markt - Beschluss der Bezirksvertretung 9 vom 27.11.2020; BV9/223/2020 - zur Kenntnis genommen
+- TOP 9.7: Verkehrskonzept Düsseldorf-Süd - Nachtrag zur Vorstellung in der Sitzung der BV 9 vom 22.11.2019 - zur Kenntnis genommen
+- TOP 9.8: Fußgänger- und Fahrradüberweg Angerstraße/ Haus-Endt-Straße und Umwidmung der Angerstraße als Fahrradstraße - Beschluss der Bezirksvertretung 9 vom 27.11.2020 - zur Kenntnis genommen
+- TOP 9.9: Ehemaliger Radweg Benrather Schlossufer/ Am Alten Rhein - Nachtrag zur Informationsvorlage der BV9 aus der Sitzung vom 27.11.2020; BV9/207/2020 - zur Kenntnis genommen
