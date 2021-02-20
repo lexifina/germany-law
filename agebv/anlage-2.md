@@ -2,11 +2,10 @@
 
 Besondere pauschale Stundensätze
 (Berechnungsschema für behördenspezifische Pauschalsätze)
-| Kostenblock | Besoldungs- bzw. Entgeltgruppe/Zweckbestimmung | Festtitel gemäß Haushaltssystematik des Bundes |
+| Kostenblock | Besoldungs- oder Entgeltgruppe/Zweckbestimmung | Festtitel gemäß Haushaltssystematik des Bundes |
 | 1. Personaleinzelkosten |
 | 1.1 Beamtinnen und Beamte |
-| 1.1.1 steuerpflichtiges Brutto | A 2 |  |
-| A 3 |  |
+| 1.1.1 steuerpflichtes Brutto | A 3 |  |
 | A 4 |  |
 | A 5 |  |
 | A 6 |  |
@@ -23,7 +22,7 @@ Besondere pauschale Stundensätze
 | A 12 |  |
 | A 13 |  |
 | A 13 + Zulage |  |
-| gehobener Dienst A 9 bis A 13 + Zulage |  |
+|  | gehobener Dienst A 9 bis A 13 + Zulage |  |
 | A 13 |  |
 | A 14 |  |
 | A 15 |  |
@@ -35,7 +34,6 @@ Besondere pauschale Stundensätze
 | gehobener Dienst29,3 | gehobener Dienst | 29,3 |  |
 | höherer Dienst36,9 | höherer Dienst | 36,9 |  |
 | Polizeivollzugsbeamtinnen und -beamte |  |
-| einfacher Dienst32,6 | einfacher Dienst | 32,6 |  |
 | mittlerer Dienst32,6 | mittlerer Dienst | 32,6 |  |
 | gehobener Dienst32,6 | gehobener Dienst | 32,6 |  |
 | höherer Dienst32,6 | höherer Dienst | 32,6 |  |
@@ -47,47 +45,49 @@ Besondere pauschale Stundensätze
 | vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 459 .9 |
 | 1.2 Arbeitnehmerinnen und Arbeitnehmer |
 | 1.2.1 steuerpflichtiges Brutto | E 2 |  |
-| E 2 (übertarifliche Bezahlung) |  |
+| E 2 Ü |  |
 | E 3 |  |
 | E 4 |  |
-| einfacher Dienst E 2 bis E 4 |  |
+| Gruppe E 2 bis E 4 |  |
 | E 5 |  |
 | E 6 |  |
 | E 7 |  |
 | E 8 |  |
-| E 9 a |  |
-| mittlerer Dienst E 5 bis E 9 a |  |
-| E 9 b |  |
-| E 10 |  |
+| E 9a |  |
+| Gruppe E 5 bis E 9a |  |
+| E 9b |  |
+| E 9c |  |
+|  | E 10 |  |
 | E 11 |  |
 | E 12 |  |
-| gehobener Dienst E 9 b bis E 12 |  |
+| Gruppe E 9b bis E 12 |  |
 | E 13 |  |
 | E 14 |  |
 | E 15 |  |
-| E 15 (übertarifliche Bezahlung) |  |
-| höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung) |  |
+| E 15 Ü |  |
+| Gruppe E 13 bis E 15 Ü |  |
 | 1.2.2 Personalnebenkosten Bezüge | E 2 |  |
-| E 2 (übertarifliche Bezahlung) |  |
+| E 2 Ü |  |
 | E 3 |  |
 | E 4 |  |
-| einfacher Dienst E 2 bis E 4 |  |
+| Gruppe E 2 bis E 4 |  |
 | E 5 |  |
 | E 6 |  |
 |  | E 7 |  |
 | E 8 |  |
-| E 9 a |  |
-| mittlerer Dienst E 5 bis E 9 a |  |
-| E 9 b |  |
+| E 9a |  |
+| Gruppe E 5 bis E 9a |  |
+| E 9b |  |
+| E 9c |  |
 | E 10 |  |
 | E 11 |  |
 | E 12 |  |
-| gehobener Dienst E 9 b bis E 12 |  |
+| Gruppe E 9b bis E 12 |  |
 | E 13 |  |
 | E 14 |  |
 | E 15 |  |
-| E 15 (übertarifliche Bezahlung) |  |
-| höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung) |  |
+| E 15 Ü |  |
+| Gruppe E 13 bis E 15 Ü |  |
 | 1.2.3 sonstige Personalnebenkosten |
 |  | Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften | Z 443 .1 |
 | Unfallversicherung Bund und Bahn | Z 452 02 |
@@ -98,32 +98,33 @@ Besondere pauschale Stundensätze
 | 2.1 sächliche Verwaltungsausgaben |
 |  | Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung | 511 .1 |
 | Verbrauchsmittel, Haltung von Fahrzeugen und dergleichen | 514 .1 |
-| wenn Hubschrauber als Auslage abgerechnet werden: 72 % dieses Titels |
-| wenn Boote oder Schiffe als Auslage abgerechnet werden: 89 % dieses Titels |
+| wenn Hubschrauber als Auslage abgerechnet werden: 79 % dieses Titels |
+| wenn Boote oder Schiffe als Auslage abgerechnet werden: 91 % dieses Titels |
 | Mieten und Pachten | 518 .1 |
 | Aus- und Fortbildung | 525 .1 |
 |  | Dienstreisen | 527 .1 |
-| wenn Dienstreisen als Auslage abgerechnet werden: Ansatz dieses Titels: 0 Euro |
+| wenn Dienstreisen als Auslage abgerechnet werden: 0 % dieses Titels |
 | Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 526 .2 |
 | wenn Sachverständige als Auslage abgerechnet werden: 60 % dieses Titels |
 | außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 529 .1 |
 | Aufträge und Dienstleistungen im Bereich Informationstechnik – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .1 |
-| behördenspezifische fachbezogene Verwaltungsausgaben (ohne Informationstechnik) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .2 |
-| sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .3 wenn sonstige Dienstleistungsaufträge an Dritte als Auslage abgerechnet werden: Ansatz dieses Titels: 0 Euro |
+| behördenspezifische fachbezogene Verwaltungsausgaben (ohne IT) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .2 |
+| sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .3 |
+| wenn sonstige Dienstleistungsaufträge an Dritte als Auslage abgerechnet werden: 0 % dieses Titels |
 | vermischte Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 539 .9 |
 | Öffentlichkeitsarbeit – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 542 .1 |
-| Veröffentlichungen, Fachinformationen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 543 .1 |
-| Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 544 .1 |
-| Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 545 .1 |
-| nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 547 .1 |
+| Veröffentlichungen und Fachinformationen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 543 .1 |
+|  | Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 544 .1 |
+|  | Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 545 .1 |
+|  | nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 547 .1 |
 | 2.2 Investitionen |
-|  | kleine Neu-, Um- und Erweiterungsbauten (weniger als 2 Mio. Euro pro Baumaßnahme) | 711 .1 |
+|  | Kleine Neu-, Um- und Erweiterungsbauten | 711 .1 |
 |  | Erwerb von Fahrzeugen | 811 .1 |
-| wenn Wasserwerfer als Auslage abgerechnet werden: 87 % dieses Titels |
+| wenn Wasserwerfer als Auslage abgerechnet werden: 96 % dieses Titels |
 | Erlöse aus der Veräußerung von beweglichen Sachen | 132 .1 |
 | Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT) | 812 .1 |
 | Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik | 812 .2 |
-| Baumaßnahmen von mehr als 2 Mio. Euro im Einzelfall – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 712 .1 |
+| Baumaßnahmen von mehr als 6 Mio. Euro im Einzelfall – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 712 .1 |
 | 2.3 Büroräume |
 |  | Bewirtschaftung der Grundstücke, Gebäude und Räume | 517 .1 |
 | Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement | 518 .2 |
@@ -153,15 +154,28 @@ Besondere pauschale Stundensätze
 | 3.2 Rechts- und Fachaufsicht |
 | 4. Personalstruktur |
 | 4.1 Anzahl |
-|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) |  |
-| Arbeitnehmerinnen und Arbeitnehmer |  |
+|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) | Gesamtzahl |
+| einfacher Dienst |
+| mittlerer Dienst |
+| gehobener Dienst |
+| höherer Dienst |
+| Arbeitnehmerinnen und Arbeitnehmer | Gesamtzahl |
+| Gruppe E 2 bis E 4 |
+| Gruppe E 5 bis E 9a |
+| Gruppe E 9b bis E 12 |
+| Gruppe E 13 bis E 15 Ü |
 | 4.2 Vollzeitäquivalente |
-|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) |  |
-| Arbeitnehmerinnen und Arbeitnehmer |  |
-|  | Beamtinnen und Beamte |  |
-| Arbeitnehmerinnen und Arbeitnehmer |  |
+|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) | Gesamtzahl |
+| einfacher Dienst |
+| mittlerer Dienst |
+| gehobener Dienst |
+| höherer Dienst |
+| Arbeitnehmerinnen und Arbeitnehmer | Gesamtzahl |
+| Gruppe E 2 bis E 4 |
+| Gruppe E 5 bis E 9a |
+| Gruppe E 9b bis E 12 |
+| Gruppe E 13 bis E 15 Ü |
 | 5. Arbeitsleistung |
 | Arbeitsstunden |  | pro Monat |
 |  | Beamtinnen und Beamte |  |
 | Arbeitnehmerinnen und Arbeitnehmer |  |
-.
