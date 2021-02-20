@@ -1,6 +1,4 @@
-# Gesetz zur Ausführung des Haager Übereinkommens
-vom 29. Mai 1993 über den Schutz von Kindern und die
-Zusammenarbeit auf dem Gebiet der internationalen Adoption
+# Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

@@ -289,7 +289,7 @@
 | § 128a | Bundesstatistik für das Vierte Kapitel |
 | § 128b | Persönliche Merkmale |
 | § 128c | Art und Höhe der Bedarfe |
-| § 128d | Art und Höhe der angerechneten Einkommen |
+| § 128d | Art und Höhe der angerechneten Einkommen und abgesetzten Beträge |
 | § 128e | Hilfsmerkmale |
 | § 128f | Periodizität, Berichtszeitraum und Berichtszeitpunkte |
 | § 128g | Auskunftspflicht |

@@ -31,7 +31,6 @@
 - [§ 13a Antragsberechtigung](0013a.md)
 - [§ 13b Antragsverfahren und Anhörung](0013b.md)
 - [§ 13c Vorzeitige Aufhebung](0013c.md)
-- [§ 13d Mitteilungen zu Vereinbarungen und Beschlüssen bei schweren Ungleichgewichten auf den Märkten](0013d.md)
 
 ## Abschnitt 4 Vertragsverhandlungen
 
@@ -45,7 +44,7 @@
 ## Abschnitt 5 Sonderbestimmungen für den Erzeugnisbereich Milch und Milcherzeugnisse
 
 - [§ 15 Doppelmitgliedschaft in Erzeugerorganisationen bei Verhandlungen über Rohmilchverträge](0015.md)
-- [§ 15a (weggefallen)](0015a.md)
+- [§ 15a Vereinbarungen und Beschlüsse über die Planung der Erzeugung](0015a.md)
 - [§ 15b Allgemeinverbindlichkeit](0015b.md)
 - [§ 16 Mitteilungen](0016.md)
 

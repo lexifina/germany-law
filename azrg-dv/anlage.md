@@ -40,7 +40,7 @@ Allgemeiner Datenbestand
 | f) | Geburtsort und -bezirk | (7) |
 | g) | Geschlecht | (7) |
 | h) | Staatsangehörigkeiten | (7) |
-|  |  |  |  |
+|  |
 | § 3 Absatz 4 Nummer 4 | (2) | – wie vorstehend – | § 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des AZR-Gesetzes |  |
 | Grundpersonalien | – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen– alle öffentlichen Stellen für die Einstellung von Suchvermerken | – wie vorstehend –– Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
 |  |
@@ -728,7 +728,7 @@ Allgemeiner Datenbestand
 | A | A1*) | B**) | C | D |
 | 11 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-Gesetzes |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-Gesetzes |
 | Niederlassungserlaubnis/unbefristeter Aufenthaltstitel nach |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)– Ausländerbehörden – Aufnahmeeinrichtun- gen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migra- tion und Flüchtlinge – Bundespolizei – andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden der Länder – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – Statistisches Bundes- amt – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – sonstige öffentliche Stellen zu Spalte A Buchstabe a bis uII)– für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-GesetzesBundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen– Jugendämter– Träger der Deutschen Rentenversicherung– Staatsangehörigkeitsbehörden– Zollkriminalamt |
 | a) | § 9 AufenthG (allgemein) erteilt am | (2)* |
 | b) | § 9a AufenthG (Daueraufenthalt-EU) erteilt am | (2)* |
@@ -771,8 +771,8 @@ Allgemeiner Datenbestand
 | e) | Aufenthaltsdokument für Grenzgänger-GB nach § 16 Absatz 3 FreizügigG/EU (britische Staatsangehörige nach Teil Zwei Titel II Kapitel 2 des Austrittsabkommens) erteilt am | (2)* |
 |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Aufenthaltsrechte nach dem FreizügG/EU | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
-| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger nach § 4a Absatz 5 Satz 1 FreizüG/EU erteilt am |  |  |  |  |
+| Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
+| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger nach § 4a Absatz 5 Satz 1 FreizüG/EU erteilt am | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 13 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |

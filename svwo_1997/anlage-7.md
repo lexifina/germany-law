@@ -1,3 +1,3 @@
-# Anlage 7
+# Anlage 7 (zu § 41 Absatz 1)
 
-(weggefallen)
+

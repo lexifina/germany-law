@@ -22,7 +22,7 @@
 |  |  | § 12 | Verfahren zur Feststellung der allgemeinen Vorschlagsberechtigung |
 |  |  | § 13 | Beschwerde im Feststellungsverfahren |
 |  |  | § 14 | Wahlausschreibung |
-|  |  | § 15 | Form und Inhalt der Vorschlagslisten |
+|  |  | § 15 | Vorschlagslisten und Niederschriften |
 |  |  | § 16 | Listenvertreter |
 |  |  | § 17 | Stellung des Listenvertreters |
 |  |  | § 18 | Listenänderung und Listenergänzung |
@@ -101,7 +101,7 @@
 |  |  | § 77 | Wahl des Vorstandes |
 |  |  | § 78 | Wahl des Vorsitzenden des Vorstandes |
 |  |  | Vierter Abschnitt |
-|  |  |  | Bekanntmachung des endgültigen Wahlergebnisses |
+|  |  |  | Bekanntmachung des endgültigen Wahlergebnisses und der Ergänzung von Selbstverwaltungsorganen |
 |  |  | § 79 | Bekanntmachung |
 | Vierter Teil |
 |  | Wahl von Versichertenältesten und Vertrauenspersonen |
@@ -118,6 +118,7 @@
 | Sechster Teil |
 |  | Schlußvorschriften |
 |  |  | § 88 | Öffentliche Bekanntmachungen |
+|  |  | § 88a |  | Datenschutzrechtliche Spezialregelungen |
 |  |  | § 89 | Gebührenfreiheit |
 |  |  | § 90 | Vordrucke |
 |  |  | § 91 | Aufbewahrung der Wahlunterlagen |
@@ -125,23 +126,18 @@
 |  |  | § 93 | Wahlen in besonderen Fällen |
 |  |  | § 94 | Stadtstaaten-Klausel |
 |  |  | § 95 | Inkrafttreten, Außerkrafttreten |
+|  |  | § 96 |  | Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023 |
 | Anlagen |
 |  | Anlage 1 | Vorschlagsliste für die Wahl einer Vertreterversammlung |
 |  | Anlage 2 | Vorschlagsliste für die Wahl eines Verwaltungsrates |
-|  | Anlage 3 | (weggefallen) |
-|  | Anlage 4 | Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung |
-|  | Anlage 5 | Unterstützerliste bei Trägern der Unfallversicherung |
-|  | Anlage 6 | Zustimmungserklärung von Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates |
-|  | Anlage 7 | (weggefallen) |
-|  | Anlage 8 | Erklärung des Listenvertreters über das Wahlrecht |
-|  | Anlage 9 | Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten) |
-|  | Anlage 10 | Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber) |
-|  | Anlage 11 | (weggefallen) |
-|  | Anlage 12 | Stimmzettelumschlag |
-|  | Anlage 13 | Wahlbriefumschlag |
-|  | Anlage 14 | Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung |
-|  | Anlage 15 | (weggefallen) |
-|  | Anlage 16 | (weggefallen) |
-|  | Anlage 17 | (weggefallen) |
-|  | Anlage 18 | Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes |
-|  | Anlage 19 | Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes |
+|  | Anlage 3 | Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung |
+|  | Anlage 4 | Unterstützerliste bei Trägern der Unfallversicherung |
+|  | Anlage 5 | Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates |
+|  | Anlage 6 | Erklärung der Listenvertreterin/des Listenvertreters über das Wahlrecht |
+|  | Anlage 7 | Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten) |
+|  | Anlage 8 | Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber) |
+|  | Anlage 9 | Stimmzettelumschlag |
+|  | Anlage 10 | Wahlbriefumschlag |
+|  | Anlage 11 | Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung |
+|  | Anlage 12 | Vorschlagsliste für die Wahl eines – ehrenamtlichen – Vorstandes |
+|  | Anlage 13 | Zustimmungserklärung von Bewerberinnen und Bewerbern für die Wahl eines – ehrenamtlichen – Vorstandes |

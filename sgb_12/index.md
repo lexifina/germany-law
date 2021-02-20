@@ -289,7 +289,7 @@ der Sozialhilfe
 - [§ 128a Bundesstatistik für das Vierte Kapitel](0128a.md)
 - [§ 128b Persönliche Merkmale](0128b.md)
 - [§ 128c Art und Höhe der Bedarfe](0128c.md)
-- [§ 128d Art und Höhe der angerechneten Einkommen](0128d.md)
+- [§ 128d Art und Höhe der angerechneten Einkommen und abgesetzten Beträge](0128d.md)
 - [§ 128e Hilfsmerkmale](0128e.md)
 - [§ 128f Periodizität, Berichtszeitraum und Berichtszeitpunkte](0128f.md)
 - [§ 128g Auskunftspflicht](0128g.md)
