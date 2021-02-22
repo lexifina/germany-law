@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6261883
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6261883
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.2.: 1. Ladung des Vollgremiums zur Sitzung am 22.02.2021 2. Aufhebung des in der Sitzung am 25.01.2021 gebildeten Sonderausschusses ab der Sitzung am 22.02.2021 3. Bildung eines erneuten Sonderausschusses für die Folgesitzungen am 22.03.2021, 19.04.2021 und 17.05.2021
+- TOP 2.1.: Freihaltung Tiefgaragenausfahrt Dieselstr. 2
+- TOP 2.2.: Personalmangel im städt. Kindergarten Löfftzstr. 6/ Pickelstr. 13
+- TOP 3.1.1.: Vorstellung Rahmenkonzept: Beitrag des BA10 zum diesjährigen Gedenken an das OEZ-Attentat
+- TOP 3.2.1.: Einladung BA23 zu einem gemeinsamen Ortstermin Waldhornstraße/Brieger Straße (-> Vertagung aus Sitzungen 21.12.2020 und 25.01.2021, Ergebnisse der Vorberatungen)
+- TOP 3.3.1.: Bauvorhaben: 1. Allacher Str. 90 - 92 2. Eckehartstr. 2 3. Lechelstr. 3 4. Riesstr. 61 - 67 5. Triebstr. 44
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Donaustaufer Str. 9
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Eininger Str. 12
+- TOP 4.1.1.: Absenkung des Bordsteins an der Feuerwehr-/Krankenwagenzufahrt vor dem Pflegezentrum "Arche Noris", Baubergerstr. 49
+- TOP 4.1.2.: Vesetzung der Wertstoffinsel an der Merseburger Str. 10a
+- TOP 5.1.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. Adventskalender vom 01.-24.12.2020 5.530,00 € / Az. 0262.0-10-0241
+- TOP 5.2.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. 12 Stunden im Schlössl – Streaming Kulturtalk und Musik von Ende Januar bis Ende April 7.000,00 € / Az. 0262.0-10-0240
+- TOP 5.3.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Workshops zu mehr Medienkompetenz am 04./05.02.2021 713,00 Euro, Az.: 0262.0-10-0242
+- TOP 5.4.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches MFM-Projekt im März/April 1.770,00 € / Az. 0262.0-10-0243
+- TOP 5.5.: (E) Stadtbezirksbudget Altenbach + Honsel GbR Erzählen in der Schule - Die Geschichtenstunde vom 15.02. - 30.09.2021 3.000,00 € / Az. 0262.0-10-0244
+- TOP 5.6.: (E) Stadtbezirksbudget BIKU e.V. Mädchen an den Ball! vom 01.03. - 31.12.2021
+- TOP 5.7.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Web Radio 1.848,17 € / Az. 0262.0-10-0247
+- TOP 5.8.: (E) Stadtbezirksbudget AG Buhlstrasse e.V. / Freizeitstätte boomerang Naturerlebnistage 25.-28.05.2021 2.080,00 € / Az. 0262.0-10-0249
+- TOP 6.1.: Beschlussentwurf: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 6.2.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen - Internum -
+- TOP 7.1.: Barrierefreie Müllentsorgung mit Unterflurcontainern [BA-Antrag Nr. 20-26/B00952; Unterflurcontainer in Bestandsbebauung schwierig; AWM prüft barrierefreie Gestaltung von Wertstoffinseln]
+- TOP 7.2.: Ausbesserung/ Erneuerung des Straßenbelages in der Hartmannshofer Straße zwischen Lechel- und Lauterbachstraße [Scheiben BA10 vom 23.12.2020; gewidmete Ortsstraße, Strassenunterhaltsklasse4: Straße wird verkehrssicher erhalten, Vormerkung für künftiges Bauprogramm der nächsten Jahre]
+- TOP 7.3.: Parken nur für PKW bis 3.5 t im Bereich der KITA Quedlinburger Str. 11 [BA-Antrag Nr. 20-26/B00955; Parkverbot für LKW&#039;s nicht begründbar, sichere Querungsmöglichkeiten sind vorhanden]
+- TOP 7.4.: Verwendung von "einfacher" Sprache bei (Budget-)Vorlagen des Direktoriums [BA Antrag Nr. 20-26/B01235; wird im Rahmen der geplanten Evaluation bzw. Online-Lösung 2021 berücksichtigt.]
+- TOP 7.5.: Mehr Sicherheit auf dem Weg zwischen Kleingartenanlage NW12 und NW19 (1. Antwortschreiben BAUR -> 2. Vertagung in UA Verkehr zur Erarbeitung einer Lösung). [Weg ist öffentlicher Grünanlagenweg, Ausschilderung als gemeinsamer Fuß- und Radweg]
+- TOP 7.6.: Radwegverbindung durch den Westfriedhof [BA-Antrag Nr. 20-26/B00828; in einem Pilotprojekt wird das Radfahren auf der Nord-Süd-Achse zugelassen]
+- TOP 7.7.: Erstmalige Herstellung der Donaustaufer Straße [Schreiben BA10 vom 24.06.20; endgültige Herstellung wäre mit für Anwohner kostenpflichtigen Erschließungsbeiträgen verbunden. Abfrage Meinungsbild Anwohner notwendig!]
+- TOP 7.8.: Bahnbrücken Triebstrasse / Geh-und Radwegverbindung Olympiapark Nord; Schließung der Verbindungslücke [Bürgeranliegen an BA11; ein vorgezogener Ausbau - vor Maßnahmen im Rahmen des geplanten Nutzungskonzeptes - ist nicht realisierbar.]
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Dachauer Str. 399; Verlängerung Haltverbotszone Schulbushaltestelle
+- TOP 8.2.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: (U) Beschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel – Änderung und Ergänzung von Maßnahmenvorschlägen
+- TOP 8.5.: (U) Neueinrichtung von Schulsozialarbeit/Jugendsozialarbeit an Schulen an Grundschulen
+- TOP 8.6.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2020 - 2024 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.7.: (U) Sanierungsgebiet Moosach A) Vorbereitende Untersuchungen im Untersuchungsgebiet Moosach B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger C) Förmliche Festlegung als Sanierungsgebiet Moosach D) Sanierungsziele und Projekte für das Sanierungsgebiet E) Projekte zu Beginn der Sanierung F) Organisatorische Erfordernisse zur Programmumsetzung G) Photovoltaikanlagen in Sanierungsgebieten H) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 10 Moosach
+- TOP 8.8.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 8.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 8.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.: Verkehrsrechtliche Anordnung nach § 45 StVO: - nicht-öffentlich - 1. Leipziger Straße; Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.13.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Ernst-Platz-Straße
+- TOP 8.14.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung bestehende Mobilfunkanlage um 5G: Agnes-Pockels-Bogen
+- TOP 4.: Anträge
