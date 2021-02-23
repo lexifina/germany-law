@@ -1,0 +1,83 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-23T17:00:00+01:00
+- Ende: 2021-02-23T00:00:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula) *** SITZUNG ENTFÄLLT ***
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20418
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20418
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich 23.02.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401936.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift vom 01.12.2020
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW
+- TOP 3.2: Städtebaulicher Wettbewerb Nr. 07/013 - Park Ludenberg - Blanckertzstraße
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Wiederwahl einer Schiedsperson - Genehmigung einer Dringlichkeitsentscheidung -
+- TOP 3.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 3.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 3.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 3.9: Verwendung von Haushaltsmitteln
+- TOP 3.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 3.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021
+- TOP 4: Anträge
+- TOP 4.1: Josef-Neuberger-Straße als Einbahnstraße - Antrag der FDP-Fraktion -
+- TOP 4.2: Wegeausbesserung Spazierweg Friedrich-Wilhelm-Straße Richtung Quadenhofstraße - Antrag der FDP-Fraktion -
+- TOP 4.3: Zusätzlich temporärer Papiercontainer für den Standort Dreherstraße/Schönaustraße - Antrag der FDP-Fraktion -
+- TOP 4.4: Sanierung Ottostraße/Vereinsstraße und Beteiligung der Netzgesellschaft - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP -
+- TOP 4.5: Verbesserung der Fußgängerampel Benderstraße/Auf der Hardt- Antrag der Fraktion Bündnis 90/ Die Grünen -
+- TOP 4.6: Tempo 30 auf der Heyestraße - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 4.7: Maßnahmen zur Verbesserung der Verkehrssicherheit der Kreuzung Quadenhofstraße/Rigastraße.- Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 4.8: Verlängerung des Linksabbiegefahrstreifens Simrockstraße-Vautierstraße (B 7) - Antrag der CDU-Fraktion -
+- TOP 4.9: Recyclinghof - Antrag der CDU-Fraktion -
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch
+- TOP 4.13: Unterflurcontaineranlage Grafenberger Allee 368 - Antrag der CDU-Fraktion -
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Benennung des Weges entlang der Limburgstraße/Ostpark nach Karl-Ludwig Resch - Antrag der Fraktionen von CDU, Bündnis 90/Die Grünen, SPD und FDP -
+- TOP 4.16: Kanalbau Heckteichstraße / Lippstadtstraße - Antrag der SPD-Fraktion -
+- TOP 4.17: Umbau Umlaufschranken - Antrag der SPD-Fraktion -
+- TOP 4.18: Pumptrack-Anlage - Antrag der Fraktion Bündnis 90/Die Grünen -
+- TOP 4.19: Lippstadtstraße sanieren - Antrag der FDP-Fraktion -
+- TOP 4.20: Zebrastreifen Graf-Recke-Straße/Gutenbergstraße - Antrag der FDP-Fraktion -
+- TOP 4.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Erwerb des Kasernengeländes „Bergische Kaserne“ durch die Stadt Düsseldorf - Anfrage der CDU-Fraktion -
+- TOP 5.3: Landesfördermittel für die Heyestraße - Anfrage der CDU-Fraktion -
+- TOP 5.4: Behindertengerechte Spielplätze im Bezirk 7 - Anfrage der FDP-Fraktion -
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Straßenbeleuchtung Pfeifferstraße -Anfrage der Fraktion Bündnis 90/Die Grünen -
+- TOP 6.3: Beginn Umbau Gerresheim S-Bahnhof - Anfrage der FDP-Fraktion -
+- TOP 6.4: Straßenbahn über Dreherstraße/Torfbruchstraße zur Anbindung des Neubaugebiets - Anfrage der FDP-Fraktion -
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Digitalisierung an den Schulen im Stadtbezirk 7 - Anfrage der CDU-Fraktion -
+- TOP 6.12: Entwicklung der E-Scooter im Stadtbezirk 7 - Anfrage der CDU-Fraktion -
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Fußweg Zamenhofweg - Anfrage der SPD-Fraktion -
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Beschlusskontrolle der Bezirksvertretung 7
+- TOP 7.2: Ladestationen für E-Autos im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 7.3: Sammelstelle Gartenabfälle Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 7.4: "Essbare Stadt" für die Neugestaltung Gutenbergspielplatz - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 7.5: Barrierefreier Ausbau der Rampe Friedrich-Wilhelm-Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 7.6: Verkehrssicherheit Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 -
+- TOP 7.7: Hundeauslaufplatz an den Gerresheimer Höhen Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 7.8: Winterfällungen 2020/2021
+- TOP 7.9: Parkbuchten Hardtstraße instand setzen - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 -
+- TOP 7.10: Befestigung der Wege am Pillebach - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 -
+- TOP 7.11: Geschwindigkeitsanzeige Sichelstraße - Informationsvorlage zum Beschluss der BV 7 vom 10.11.2020 -
