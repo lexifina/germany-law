@@ -1,0 +1,61 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-23T17:00:00+01:00
+- Ende: 2021-02-23T18:15:00+01:00
+- Ort: Hotel Mutterhaus, Geschwister-Aufricht-Straße 1, 40489 Düsseldorf - Caroline Fliedner Saal
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20504
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20504
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402038.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402038.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402038.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 26. Januar 2021 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - Empfehlung mehrheitlich beschlossen
+- TOP 6: Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78 – Errichtung besonderer Bahnkörper auf der Kaiserswerther Straße zwischen den Haltestellen „Kennedydamm“ u. „Reeser Platz“ u. Verlängerung der Haltestellen „Reeser Platz“ bis „Freiligrathplatz" - Empfehlung abweichend beschlossen
+- TOP 6.1: Ergänzungsantrag zur Verwaltungsvorlage OVA/131/2020 "Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78" - mehrheitlich beschlossen
+- TOP 7: Benennung der Planstraße 02142 - mehrheitlich beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2021 (Liste B), diverse Kita-Einrichtungen - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2021 (Liste B), Pflanz- und Pflegemaßnahmen Rathaus Kaiserswerth - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 10: Einrichtung eines Zebrastreifens auf der Niederrheinstraße zwischen Nordstern und Freiligrathplatz auf Höhe der Bushaltestelle Plüschowstraße. Alternativ Verlegung der Bushaltestelle Richtung Nordstern.
+- TOP 11: Errichtung eines Skate- und Rollerparks und zweier Tischtennisplatten in Kaiserswerth - beantwortet
+- TOP 12: Radschutzstreifen auf der Bahnüberführung Angermunder Straße
+- TOP 13: Unzulässiges Befahren des Bergeswegs und des Rahmer Kirchwegs und Verschmutzung anliegender Felder - beantwortet
+- TOP 14: Die Bezirksvertretung 5 bittet die Verwaltung eine Änderung der Verkehrsführung am Nordstern/Stockumer Höfe, zur Förderung des Verkehrsflusses auf der Niederrheinstraße aus Lohausen hinaus in Richtung Zentrum, zu prüfen.
+- TOP -: Neue Anfragen
+- TOP 15: Verkehrliche Situation rund um den alten Ortskern Angermund - beantwortet
+- TOP 16: In welchem Umfang wird der Düsseldorfer Norden von der Aufstockung des OSD profitieren? - beantwortet
+- TOP 17: Warum werden die AnwohnerInnen der Graf-Engelbert-Straße alleine gelassen?
+- TOP 18: Bekommt Angermund wirklich eine Straßenbahn?
+- TOP 19: Beleuchtung Am Schwarzbach - beantwortet
+- TOP 20: Knotenpunktumbau B 8 - "Am Spielberg"
+- TOP 21: Radweg Kalkumer Schlossallee - Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - beantwortet
+- TOP 22: Sonnen- und Hitzeschutz für Schulhöfe und Spielplätze in der BV5 - Mittelabruf aus dem Sonderprogramm "Klimaresilienz in Kommunen" im Rahmen der Corona-Hilfe - beantwortet
+- TOP 23: Aufbau einer E-Ladeinfrastruktur, besonders in bestehenden Wohngebieten zur Förderung der Elektromobilität im Stadtbezirk 5 - beantwortet
+- TOP 24: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 25: Fahrradwege auf breiten Bürgersteigen - hier beispielhaft auf dem Leuchtenberger Kirchweg
+- TOP -: Anträge
+- TOP 26: Barrierefreie Zuwegung zum Vollsortimenter am Dreiecksparkplatz - mehrheitlich beschlossen
+- TOP 27: Sauberkeit auf der Danziger Straße/B8N - abweichend beschlossen
+- TOP 28: Rückschnitt der Baumkronen und Wildwuchs vor der Kaiserpfalz - einstimmig beschlossen
+- TOP 29: Ein Marienplatz für Kaiserswerth! - einstimmig beschlossen
+- TOP 30: Sachstandsbericht Baumaßnahmen in Kalkum und in Lohausen und den Vorschlägen, wie derartiger "städtebaulicher Wildwuchs" künftig verhindert werden kann - einstimmig beschlossen
+- TOP 31: Verkehrssicherheit auf der Rahmer Straße - abweichend beschlossen
+- TOP 32: Infotafeln für die Kunstwerke an der Danziger Straße im Bereich der Brückenbauwerke - einstimmig beschlossen
+- TOP 33: Bäume für den Stadtbezirk 5 – Bestand erhalten und ausbauen! - einstimmig beschlossen
+- TOP 34: Erhöhung der Verkehrssicherheit auf dem Rheinuferweg zwischen Schwarzbach und „Am Krienengarten“ - abweichend beschlossen
+- TOP 35: Stand des Radwegenetzes im Stadtbezirk 5 - einstimmig beschlossen
+- TOP 36: Klimaschutz im Bezirk 5 - Installation einer Photovoltaikanlage auf der neuen Sporthalle Wittlaer, Grenzweg 12 - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
