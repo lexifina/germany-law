@@ -1,0 +1,107 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-02-23T16:08:00+01:00
+- Ende: 2021-02-23T17:51:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19481
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19481
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (15.02.21) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00266391.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00268529.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2019 KIJU - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2019 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebentrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2019 APH Service GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss und Lagebericht 2018 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2019 der Windpark Kahlenberg III GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2019 der BinnenWind Windpark Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2019 Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 1.9: Jahresabschluss 2019 der Regiobahn GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2021 des Gebäudemanagements der Stadt Wuppertal (GMW) - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2021 KIJU - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2021 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.4: Wirtschaftsplan 2021 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.6: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.7: Wirtschaftsplan 2021 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 2.8: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2021 - geändert beschlossen
+- TOP 2.9: Wirtschaftsplan 2021 der Neue Effizienz GmbH - ungeändert beschlossen
+- TOP 2.10: Wirtschaftsplan 2021 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Neue Struktur der Monitoringberichte - ungeändert beschlossen
+- TOP 3.2: Benennung des Wirtschaftsprüfers für die Jahresabschlüsse 2020 bis 2022 der APH Service GmbH - ungeändert beschlossen
+- TOP 3.3: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH Bestellung eines Wirtschaftsprüfers für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 3.4: Dritte Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR - geändert beschlossen
+- TOP 3.5: Neustart des Verfahrens zur Fortschreibung des Wuppertaler Nahverkehrsplans - ungeändert beschlossen
+- TOP 3.6: Abberufung und Bestellung der Vertreter*innen in der Gesellschafterversammlung der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 3.7: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2021 bis 31.12.2021 - ungeändert beschlossen
+- TOP 3.8: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom - ungeändert beschlossen
+- TOP 3.9: Bericht zur Finanzierung neuer Schnellbuslinien im VRR - Entgegennahme ohne Beschluss
+- TOP 3.10: Digitalisierungsmaßnahmen Historischen Stadthalle - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Organisations- und Personalbericht 2020 - Entgegennahme ohne Beschluss
+- TOP 5.2: Geplante SAP S/4-Umstellung - Entgegennahme ohne Beschluss
+- TOP 5.3: DigitalPakt - Entgegennahme ohne Beschluss
+- TOP 5.4: Auswirkungen der Corona Pandemie auf die Steuereinnahmen - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 6.2: Zentraler Eingangsbereich im Rathaus-Altbau - ungeändert beschlossen
+- TOP 6.3: Bürger-Zentrum Barmen barrierefrei - ungeändert beschlossen
+- TOP 6.4: Umbau des Gebäudes Bergbahn - ungeändert beschlossen
+- TOP 6.5: Abbau von Rückständen nach der Corona-Pandemie im Einwohnermeldeamt - ungeändert beschlossen
+- TOP 6.6: Onlinezugangsgesetz - ungeändert beschlossen
+- TOP 6.7: 5GreenZoo – Wuppertal (Förderwettbewerb 5G.NRW) - ungeändert beschlossen
+- TOP 6.8: Beteiligung am Projektaufruf "Modellprojekte Smart Cities" des Bundesministeriums des Innern, für Bau und Heimat (BMI - ungeändert beschlossen
+- TOP 6.9: Neuvergabe der Strom- und Gaskonzessionen - ungeändert beschlossen
+- TOP 6.10: Erlass der Elternbeitragserhebungen für den Monat Januar 2021 - ungeändert beschlossen
+- TOP 6.11: Abgesetzt: Entgeltordnung des Von der Heydt-Museums - abgesetzt
+- TOP 6.12: Bundesförderprojekt Museum Industriekultur Wuppertal - ungeändert beschlossen
+- TOP 6.13: Anmietung eines Gerätehauses für die Freiwillige Feuerwehr Dornap - ungeändert beschlossen
+- TOP 6.14: Ausbau des Wuppertaler Gesamtschulangebots: Standortuntersuchung (Standortanaylse und Standortvergleich - Entgegennahme ohne Beschluss
+- TOP 6.15: Ausbau des Wuppertaler Gesamtschulangebots: Standortentscheidung zum Bau der 7. Gesamtschule (Erneuerung der Grundsatzentscheidung) - geändert beschlossen
+- TOP 6.16: Ankauf der Grundstücke Bockmühle 12 und 18 als Standort für die 7. Gesamtschule - ungeändert beschlossen
+- TOP 6.17: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Sozialer Zusammenhalt (vormals Soziale Stadt) Oberbarmen / Wichlinghausen II - ungeändert beschlossen
+- TOP 6.18: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes Sozialer Zusammenhalt (vormals Soziale Stadt) Heckinghausen - ungeändert beschlossen
+- TOP 6.19: Neugestaltung der zentralen Fußgängerzone Werth, Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.20: Pumptrack-Anlage an der Nordbahntrasse – Sozialer Zusammenhalt Oberbarmen/Wichlinghausen II - ungeändert beschlossen
+- TOP 6.21: Neubau Pfälzer Steg und Aufwertung – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 6.22: Außenanlage Stadtteilzentrum – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 6.23: Erweiterung der Maßnahme Gustav-Müller-Anlage - Soziale Stadt / Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 6.24: Gemeinsame Umsetzung des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) Innenstadt Elberfeld und der Fernwärmestrategie - ungeändert beschlossen
+- TOP 6.25: Westring - Herstellung einer neuen Fahrbahndecke und Anlegen einer Radverkehrsanlage - geändert beschlossen
+- TOP 6.26: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - ungeändert beschlossen
+- TOP 6.27: Smart Tec Campus Wuppertal - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: 3. Bericht über den Sachstand der Umsetzung von Haushaltsbeschlüssen - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Investition- und Kassenkrediten zum 31.12.2020 - Entgegennahme ohne Beschluss
+- TOP 8.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Feststellung des Jahresabschlusses 2019 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.2: 10. Fortschreibung des Haushaltssanierungsplanes (HSP) 2012 - 2021 für das Jahr 2021 - ungeändert beschlossen
+- TOP 9.3: Mehrkosten bei Investitionsvorhaben des Gebäudemanagements - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Bericht zum Prüfauftrag der SPD-Ratsfraktion: Abwasserentsorgung über den "rollenden Kanal" in weiteren Kläranlagen möglich? - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 12.1.1: Entlastung der Betriebsleitung des WAW für das Jahr 2019 - ungeändert beschlossen
+- TOP 12.2: Wirtschaftsplan 2021 des Eigenbetriebes Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 12.3: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
