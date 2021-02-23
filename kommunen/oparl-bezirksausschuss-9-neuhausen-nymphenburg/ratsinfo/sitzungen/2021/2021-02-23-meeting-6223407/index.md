@@ -1,0 +1,153 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2021-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6223407
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6223407
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.6.1.: Sachstand neues Bürgerbüro
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.6.1.: Mittelschule Alfonsstraße
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Sachstand zum Konzept an der Landshuter Allee
+- TOP 3.2.2.: Busspur auf der Donnersbergerbrücke in Richtung Neuhausen auch für Taxen öffnen
+- TOP 3.2.3.: Winterdienst auf Rad- und Fußwegen verbessern
+- TOP 3.2.4.: Fahrradparkplätze Donnersbergerstraße
+- TOP 3.2.5.: Fahrradparkplätze Schlör-/Schulstraße
+- TOP 3.2.6.: Fahrradparkplätze Hanebergstraße
+- TOP 3.2.7.: Kreuzung Nibelungen-/Winthirstraße
+- TOP 3.2.8.: Fahrradstraße Nibelungenstraße
+- TOP 3.2.9.: Öffnung Einbahnregelung Andreestraße für Radverkehr
+- TOP 3.2.10.: Kreuzung Nymphenburger-/ Romanstraße - Querung Radverkehr
+- TOP 3.2.11.: Schulwegsicherheit Romanstraße
+- TOP 3.2.12.: Verkehrsregelung Königbauerstraße
+- TOP 3.2.13.: Fahrradweg nördlich der Laimer Unterführung
+- TOP 3.2.14.: Sperrung der Fahrradstraße De-la-Paz-Straße für Kfz zwischen Ginhardtstraße und Herthastraße
+- TOP 3.2.15.: Straßenerneuerung Hirschgartenallee Ecke De-la-Paz-Straße
+- TOP 3.2.16.: Parkplatzpoller Donnersbergerstraße
+- TOP 3.2.17.: Zulässige Höchstgeschwindigkeit in der Arnulfstraße
+- TOP 3.2.18.: Zulässige Höchstgeschwindigkeit in der Wotanstraße
+- TOP 3.2.19.: Tempo 30 Regelgeschwindigkeit
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 3.3.2.: Beschlussentwurf: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 3.3.3.: Anhörung verkehrsrechtliche Anordnungen: - Winthirstraße - Guntherstraße
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Durchgangsverkehr Dom-Pedro-Str. / Merianstraße
+- TOP 3.4.2.: Sicherung des Fußgängerüberwegs am Lily-Braun-Weg
+- TOP 3.4.3.: Ampelschaltung Haltestelle Amalienburgstraße
+- TOP 3.4.4.: Mehr Sicherheit auf der Radroute Hbf-Pasing: Änderung Vorfahrtsregelung Birketweg / Reitknechtstraße
+- TOP 3.4.5.: Fahrradfurt am Südlichen Schlossrondell
+- TOP 3.4.6.: Fahrradwegmarkierungen im Bereich Dom-Pedro-Platz
+- TOP 3.4.7.: Erfahrungsbericht Radlramadama
+- TOP 3.4.8.: Parken auf dem Rondell Neuwittelsbach
+- TOP 3.4.9.: Parkraumsituation Gaßnerstr. / Hippmannstr. / Romanstr. / Hirschgartenallee
+- TOP 3.4.10.: Regulärer Betrieb der bisherigen Verstärkerlinie U7
+- TOP 3.4.11.: Sitzmöglichkeiten an Haltestellen der Buslinie 153
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Unterrichtung verkehrsrechtliche Anordnungen: - Romanstraße 81 - Donnersbergerstraße - Rolandstraße 6 - Leonrodstraße - Nymphenburger Straße - Landshuter Allee - Arnulfstraße - Georg-Lindau-Straße - Emma-Ihrer-Straße
+- TOP 3.5.2.: Sperrung der Laimer Unterführung für den Straßenverkehr ab 22. Februar bis Ende März
+- TOP 3.5.3.: Tramverbindung Amalienburgstraße - Blutenburg (Ergänzung Zwischenbericht Nahverkehrsplan)
+- TOP 3.5.4.: Radwegverbreiterung Waisenhausstraße
+- TOP 3.5.5.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Siedlung Neuhausen - energetische Sanierung (Bürgeranliegen)
+- TOP 4.2.2.: Planungsstand Biotopia (Bürgeranliegen)
+- TOP 4.2.3.: Hochhäuser als ethische Pflicht? (Bürgeranliegen)
+- TOP 4.2.4.: Brandschutz in Hochhäusern: Wie ist die Münchner Feuerwehr darauf vorbereitet?
+- TOP 4.2.5.: Grüngestaltung Romanplatz
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Baugenehmigungsanträgen: - Sophie-Stehle-Straße 7 - Sadelerstraße 27-31 - Pegnitzstraße 10 - Esebeckstr. 16-30 - Walhallastr. 50 - Menzinger Str. 13
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Bebauungsplan für das Bruckmanngelände
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Unterrichtung über Baugenehmigungsanträge
+- TOP 4.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.3.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Zentrale Stelle "Kundendialog" für Fragen zu Abfall und Reinigung
+- TOP 5.2.2.: Fassadenbeleuchtung Haus für Kinder Dom-Pedro-Straße
+- TOP 5.2.3.: Arnulfpark - Wiederherstellung Baustelleneinrichtungsfläche
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Hubertusstr. 18 - Joh.-Seb.-Bach-Str. 25 - Tizianstr. 15 - Tizianstr. 19 - Dachauer Str. 122
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Maßnahmen gegen überlaufende Wertstoffcontainer ergreifen
+- TOP 5.4.2.: Luftschadstoffmessung im Neubaugebiet südlich des Grillplatzes im Hirschgarten zur Feststellung potentieller Schadstoffüberschreitungen hervorgerufen durch Holzkohlegrills
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kindertreff Neuhausen e.V. „Anschaffung einer neuen Industriespülmaschine“ 4.058,57€, AZ: 0262.0-9-0479
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Jugendräume im neuen Wohnquartier Südliches Oberwiesenfeld schaffen
+- TOP 6.2.2.: Bürgeranliegen zu Verhaltensregeln im ÖPNV
+- TOP 6.2.3.: Erhalt eines Wochenmarktstandes am Rotkreuzplatz
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Sitzgelegenheiten im öffentlichen Raum
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Jugendrechte in Zeiten der Krise stärken
+- TOP 6.4.2.: Öffentliche Toilette im Grünwaldpark
+- TOP 6.4.3.: "Zu gut für die Tonne" - Verschenken statt Verschwenden von Lebensmitteln
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Spielplatzpaten im BA 9
+- TOP 6.6.2.: Clean Projekt Neuhausen - Probleme mit der Finanzierung
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Initiative "Hier=Jetzt" „Hier=Jetzt Tanzplattform 2021“ 2.500,00€, AZ: 0262.0-9-0481
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative "fear:less" „Tanz- und Schauspielproduktion ‚fear:less!‘“ 2.500,00€, AZ: 0262.0-9-0479
+- TOP 7.1.3.: (E) Stadtbezirksbudget Initiative "Playground" „Playground – Tanzworkshops, Lesungen, Gespräche und künstlerische Interventionen im Kreativquartier in 2021“ 6.000,00€, AZ: 0262.0-9-0480
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Mietpreisminderung Kreativquartier
+- TOP 7.2.2.: "Gabriele" retten
+- TOP 7.2.3.: Broschüre "hier wohnte … Projekt zur Erinnerung an jüdische Nachbarn in Neuhausen" den Schulen im Stadtbezirk zur Verfügung stellen
+- TOP 7.2.4.: Straßenerläuterungsschilder für nach Stiftern benannte Straßen
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: "Belastung" von Personen vor Straßenbenennungen prüfen und entsprechende Informationen dem BA mitteilen
+- TOP 7.4.2.: Vorschläge für Erklärungsschilder zu den nach Musikern benannten Straßen im Stadtbezirk
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: (U) Gedenktafel im Taxispark Empfehlung Nr. 14-20 / E 02441 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 29.11.2018
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Neuhausen-Nymphenburg ermöglichen vom 01.03.-31.12.2021 6.800,00€, AZ: 0262.0-9-0482
+- TOP 8.1.2.: (E) Stadtbezirksbudget Margarethe-Danzi-Schule - Freunde & Förderer e.V. - Digitale Endgeräte für den Online-Unterricht 2133,45 €
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Impfzentrum für den Münchner Westen
+- TOP 8.2.2.: Personalausbau und Förderung von "Schule für Alle" beim Sozialreferat
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Stadtbezirksbudget: Änderung Kostenplan 2020 für Biku e.V.
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Öffentlicher Live-Stream der Sitzungen des BA 9 Vollgremiums
+- TOP 9.2.2.: Digitale Teilnahme an Bürgerversammlungen und Sitzungen kommunaler Gremien
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
