@@ -1,0 +1,6 @@
+# TOP 3: Auswirkungen der Corona-Pandemie auf den Schulbetrieb
+
+- Sitzung: Schulausschuss (2. Sitzung) (2021-02-23)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/21188
