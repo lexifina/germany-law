@@ -1,0 +1,62 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2021-02-23T17:00:00+01:00
+- Ende: 2021-02-23T00:00:00+01:00
+- Ort: Alte Synagoge
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1197
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1197
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00048128.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00048710.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der öffentlichen Niederschrift des Stadtrates vom 10.12.2020, 17.12.2020 und 21.01.2021 - beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Verwaltungshaushalt
+- TOP 3.1: Beratung des Verwaltungshaushaltes 2021 mit Finanzplanung 2020 - 2024
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2: Gruppierung 6750; Zahlungen an die Stadtbetriebe GmbH Anfrage von Stadtrat Paul
+- TOP 3.1.3: 3210 6557 - Inventarisierung Richard-Rother Bestände Anfrage von Stadtrat Paul RIRO
+- TOP 3.1.4: 4351 5311 Obdachlosenunterkünfte; Mieten für Grundstücke an Bau GmbH Anfrage von Stadträtin Schmidt MIETE GEBÄUDE
+- TOP 3.1.5: 7000 5152 Kanaluntersuchungen Anfrage von Stadtrat Pauluhn KANAL
+- TOP 3.1.6: 7902 1789 - Zuschuss Wohnmobilstellplatz aus Wirtschaftsförderung Anfrage von Stadtrat Sanzenbacher WOMO
+- TOP 3.1.7: Anfrage von Stadtrat Rank Verkaufserlöse Hammerstielweg
+- TOP 3.1.8: Gruppierung 71 - Zuweisungen und Zuschüsse für laufende Zwecke Anfrage von Stadtrat Moser,
+- TOP 3.1.9: Anfrage von Stadtrat Moser Gewerbesteuerkompensation
+- TOP 3.1.10: Gruppierungen 542, 6343 - Heizungskosten/Gasverbrauch Anfrage von Stadträtin Büttner
+- TOP 3.1.11: Anfrage von Stadträtin Schmidt Finanzierung von verschobenen Maßnahmen
+- TOP 3.2: Budgetfestlegungen
+- TOP 3.2.1: Budgetfestlegung für das Haushaltsjahr 2020 - beschlossen
+- TOP 3.2.2: Budgetfestlegung 2021 für SG12/IT - beschlossen
+- TOP 3.2.3: Budgetfestlegung für das Haushaltsjahr 2021 Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten-UA 1122 und UA 6815 - beschlossen
+- TOP 3.2.4: Budgetfestlegungen für das Haushaltsjahr 2021: Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 3.2.5: Budgetfestlegung für das Haushaltsjahr 2021; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2131, 2132, 2431 - beschlossen
+- TOP 3.2.6: Budgetfestlegung für das Haushaltsjahr 2021; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 3.2.7: Budgetfestlegung für das Haushaltsjahr 2021; Gesamtbudget "Sportanlagen" - UA 2151, 5601, 5602, 5603, 5651, 5652 u. 5653 - beschlossen
+- TOP 3.2.8: Budgetfestlegung für das Haushaltsjahr 2021; Budget der Alten Synagoge – UA 3420 – - beschlossen
+- TOP 3.2.9: Budget für das Haushaltsjahr 2021 - Budget Stadtarchiv UA 3211 - beschlossen
+- TOP 3.2.10: Budgetfestlegung für das Haushaltsjahr 2021;Budget Musikschule - UA 3331 - - beschlossen
+- TOP 3.2.11: Budgetfestlegung für das Haushaltsjahr 2021; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 3.2.12: Budgetfestlegung für das Haushaltsjahr 2021; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 3.2.13: Budgetfestlegung für das Haushaltsjahr 2021: Budget Stadtbücherei - UA 3521 - beschlossen
+- TOP 3.2.14: Budgetfestlegung 2021; jungStil - beschlossen
+- TOP 3.2.15: Budgetfestlegung für das Haushaltsjahr 2021; Budget Gärtnerei - UA 5821 - - beschlossen
+- TOP 3.2.16: Budgetfestlegung für das Haushaltsjahr 2021: Gesamtbudget "Straßen, Wegen, Plätze" - beschlossen
+- TOP 3.2.17: Budgetfestlegung für das Haushaltsjahr 2021: Gesamtbudget "Abwasserbeseitigung" - beschlossen
+- TOP 3.2.18: Budgetfestlegung für das Haushaltsjahr 2021 - beschlossen
+- TOP 3.2.19: Budgetfestlegung für das Haushaltsjahr 2021; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 3.2.20: Budgetfestlegung für das Haushaltsjahr 2021; Budget Touristinfo - UA 7901 - beschlossen
+- TOP 3.2.21: Budgetfestlegung für das Haushaltsjahr 2021; “Städtischer Waldbesitz” – UA 8551 - beschlossen
+- TOP 3.2.22: Budgetfestlegung für das Haushaltsjahr 2021; sonstige bebaute Grundstücke - UA 8802 - beschlossen
+- TOP 3.2.23: Budgetfestlegung für das Haushaltsjahr 2021;“Sonstiges Allgemeines Grundvermögen” – UA 8891 - beschlossen
+- TOP 3.3: Anträge der Fraktionen zum Verwaltungshaushalt
+- TOP 3.3.1: Anträge der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Verwaltungshaushalt 2021 - Ohne Abstimmung
+- TOP 3.3.1.1: Gutachten zur Analyse von Aufforstungspotentialen städtischer Flächen - beschlossen
+- TOP 3.3.1.2: Erstellung eines Konzeptes zum kommunalen Sturzflut-Risikomanagement - abgelehnt
+- TOP 3.3.1.3: Erstellung einer Klimafunktionskarte - abgelehnt
+- TOP 3.3.2: Antrag der Bayernpartei Kitzingen zum Verwaltungshaushalt 2021 Beschaffung von Samentüten mit dem Stadtlogo - abgelehnt
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2021 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2020 - 2024
