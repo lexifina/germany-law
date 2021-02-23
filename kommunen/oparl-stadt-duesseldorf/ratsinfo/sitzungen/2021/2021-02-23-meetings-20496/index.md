@@ -1,0 +1,71 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-23T16:00:00+01:00
+- Ende: 2021-02-23T17:45:00+01:00
+- Ort: Weltkunstzimmer, Ronsdorfer Straße 77a
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20496
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20496
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402191.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402191.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402191.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/08/2021 vom 02.12.2020 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Bebauungsplan-Entwurf Nr. 02/016 - Westl. Ronsdorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung Flächennutzungsplanänderung Nr. 157 (Entwurf) - Westlich Ronsdorfer Straße - Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 6: Workshopverfahren Nr. 02/018 - Werdener Straße/Erkrather Straße (ehem.B8-Center) - zurückgezogen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 8: Quartiersgarage Cranachstraße - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 9: Beleuchtungs- und Bepflanzungskonzept Brehmplatz - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 10: Ortsumgehung Flingern - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Sitzbänke Edisonplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 14: Fußgängerüberweg Brehmstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel - Flingern Lichtspiele 2021 und 24 hours to take - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 16: Bezirksbezogene Haushaltsmittel für den Videowettbewerk „24h To Take“ und die „Flingern Lichtspiele“ – Antrag der Fraktion Bündnis 90 / Die Grünen - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Haushaltsmittel für den Jugendvideowettbewerb 24h To Take - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel für das Sommer-Open-Air-Kino Flingern-Lichtspiele - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 19: Historisches Wandfresko im Dorotheenheim - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 20: Bezirksbezogene Bauunterhaltungsmittel für die Notrestauration des historischen Wandfreskos im Dorotheenheim – Antrag der Fraktion Bündnis 90 / Die Grünen - mehrheitlich beschlossen
+- TOP 21: Ersatz der entfernten Bänke am Karl-Wagner-Platz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 22: Schaffung zusätzlicher Fahrradabstellmöglichkeiten im Stadtbezirk 2 - Antrag der Fraktion Bündnis 90 / Die Grünen - mehrheitlich beschlossen
+- TOP 23: Geschwindigkeitsmessung auf der Ahnfeldstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Ladesäuleninfrastruktur für Elektrofahrzeuge - Anfrage der FDP-Fraktion
+- TOP 26: Gleisanlage beginnend südlich der Birkenstraße 1 - Anfrage der FDP-Fraktion
+- TOP 27: Schäden durch anhaltende Hitze- und Dürreperioden im Stadtbezirk 2 - Anfrage von Philipp Schlee - beantwortet
+- TOP 28: Prüfung Quartiersgaragen - Anfrage der FDP-Fraktion - beantwortet
+- TOP 29: Leerstand des Wohngebäudes Achenbachstraße 78 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 30: Geplante und zu prüfende Ersatzpflanzungen von Straßenbäumen im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Kleingärten Flinger Broich - Anfrage der FDP-Fraktion
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Bauvorhaben Otto-Petersen-Straße 40,42 - Anfrage der CDU-Fraktion
+- TOP 36: Reinigungsintervalle der AWISTA im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 38: Abfallbehälter Hermannplatz - zur Kenntnis genommen
+- TOP 39: Sitzgelegenheit Stadt-Natur-Park Flingern - Beschluss der Bezirksvertretung 2, Vorlage BV2/146/2020 - zur Kenntnis genommen
+- TOP 40: Lindenplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/085/2020 - zur Kenntnis genommen
+- TOP 41: Müllbehälter auf dem "Dorfplatz" der Kiefernstraße - Beschluss der Bezirksvertretung 2 - Vorlage BV2/168/2020 - zur Kenntnis genommen
+- TOP 42: Bus durch das Märchenland - Beschluss der Bezirksvertretung 2, Vorlage - zur Kenntnis genommen
+- TOP 43: Kreuzung Werdener Straße/Fichtenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/209/2020 - zur Kenntnis genommen
+- TOP 44: Straßenbahn-Haltestelle Engerstraße - Beschluss der Bezirksvertretung 2. Vorlage BV2/196/2020 - zur Kenntnis genommen
+- TOP 45: Geburtshaus Achenbachstraße 56a - Beschluss der Bezirksvertretung 2, Vorlage BV2/176/2020 - zur Kenntnis genommen
+- TOP 46: Parkplätze Grafenberger Allee zwischen Ivo-Beucker-Straße und Sohnstraße, stadteinwärts _ Beschluss der Bezirksvertretung 2, Vorlage BV2/179/2020 - zur Kenntnis genommen
+- TOP 47: Geschwindigkeitsmessung an der südlichen Hoffeldstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/187/2020 - zur Kenntnis genommen
+- TOP 48: Geschwindigkeitsanzeigetafel an der Bruchstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/183/2020 - zur Kenntnis genommen
+- TOP 49: Fehlende Fußgängerampel im Kreuzungsbereich Grafenberger Allee / Cranachstraße / Hans-Sachs-Straße - Beschluss der Bezirksvertretung 2, Vorlage - zur Kenntnis genommen
+- TOP 50: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
