@@ -1,0 +1,21 @@
+# Bedarfsplanung für die Kindertagesbetreuung in der Stadt Aachen für das KiTa-Jahr 2021/2022
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 45/0030/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2021-02-23
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=22726
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=22726
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=411480&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4572 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4578 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4585 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4592 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4598 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4563 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4604 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4611 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Entscheidung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4678 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
