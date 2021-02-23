@@ -1,0 +1,59 @@
+# Bezirksvertretung Gräfrath (4. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-02-23T17:00:00+01:00
+- Ende: 2021-02-23T20:00:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWSN-h0UZ-6MlFZHy0fgX4A
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6436
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZahAnyJhAoo_9RjdagIZ1En0vIkzAMCcnHPFIjWBnzLt/Bekanntmachung_Bezirksvertretung_Graefrath_23.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVge3_IvjtrN6pjU8YDt3oPlR-zcEo6TfU0aEe0zN2Gf/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_23.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sachstand Neubau Supermarkt auf dem Bahnhofsgelände
+- TOP 1.2: Erstellung eines Integrierten Stadtteilentwicklungskonzeptes für den Stadtteil Gräfrath
+- TOP 1.3: Sachstand Bodenaufbereitungsanlage Westring Wuppertal / Einbindung der Stadt Solingen
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 3. Sitzung der Bezirksvertretung Gräfrath am 19.01.2021
+- TOP 4.: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 4.1: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. Gemeinsamer Antrag der Bezirksfraktionen von Bündnis 90/Die Grünen, der SPD und Die Linke vom 05.02.2021
+- TOP 4.2: Sachstand Bodenaufbereitungsanlage am Westring Gemeinsamer Antrag der Bezirksfraktionen Bündnis 90/Die Grünen, der SPD und Die Linke vom 10.02.2021
+- TOP 5.: Waldumbau Antrag der CDU-Bezirksfraktion vom 21.01.2021
+- TOP 6.: Gemeinsame Nutzung der Gräfrather Wälder durch Spaziergängerinnen und Spaziergänger, Radfahrerinnen und Radfahrer und Montainbiker Gemeinsamer Antrag der Bezirksfraktionen Bündnis 90/Die Grünen, SPD und Die Linke vom 05.02.2021
+- TOP 7.: 360 Grad-Stadtrundgang im historischen Ortskern Gräfrath Antrag der SPD-Bezirksfraktion vom 02.02.2021
+- TOP 8.: Fortschreibung des Nahverkehrsplans – Sachstand und Hintergründe
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte von Solingen Gräfrath
+- TOP 9.1.2: Winterdienst und Reinigung auf Radwegen in Solingen
+- TOP 9.1.3: Entnahme eines Naturdenkmals Haus Grünwald, gelegen im festgesetzten Landschaftsschutzgebiet Nr. 2.2.2 Landschaftsplan
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP 9.3: Parkleitsystem CDU-Antrag
+- TOP 9.4: Einwohnerfragestunden
+- TOP 9.5: Berichte aus den Gremien
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Defekte Heizung in der Kita Lucasstrase
+- TOP 3.: Grundstück gegenüber der Firma Haribo
+- TOP 4.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 5.: Protokoll über die 3. Sitzung der Bezirksvertretung Gräfrath am 19.01.2021
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
+- TOP 6.3: Bautätigkeiten auf einem Grundstück an der Wuppertaler Straße
+- TOP 6.4: Berichte aus den Gremien
