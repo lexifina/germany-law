@@ -1,0 +1,59 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-23T15:00:00+01:00
+- Ende: 2021-02-23T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23605
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23605
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Anfrage zum Polizeieinsatz am Kölner Hauptbahnhof am 9.5.2020 - AN/0655/2020 - zurückgestellt
+- TOP 3.2: Anfragen zum 27. Bericht zur Situation Geflüchteter / 0417/2020 - zurückgestellt
+- TOP 3.3: Beantwortung der Anfrage AN/0518/2020 Sucht und Migration – Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migranten und Migrantinnen in Kölner Kliniken, LVR-Kliniken - zurückgestellt
+- TOP 3.4: Beantwortung einer Anfrage der SPD-Fraktion, Session Nr. 0024/2021; "Umsetzung des Kommunalen Integrationsmanagements" - zurückgestellt
+- TOP 3.5: Beantwortung der schriftlichen Anfrage der SPD-Fraktion AN 0008/2021 in der Sitzung des Integrationsrates am12.02.2021 - zurückgestellt
+- TOP 3.6: Nachfrage zur Beantwortung einer mündlichen Anfrage zum 27. Bericht zur Situation Geflüchteter aus einer früheren Sitzung - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP 4.2: Anfrage zur Förderung rassismuskritischer Projekte/1.Schritt – Vorlage Nr. 3597/2020 - zurückgestellt
+- TOP 4.3: Fragebogenaktion des Flüchtlingsrats NRW zur Unterbringung von Geflüchteten in NRW - zurückgestellt
+- TOP 4.4: Lebenssituation von Menschen ohne Papiere in Köln – Modellprojekt „Anonymer Kran-kenschein in Köln“ starten? - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Inklusionsbericht 2019 - zurückgestellt
+- TOP 5.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - zurückgestellt
+- TOP 5.3: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - zurückgestellt
+- TOP 5.4: Preisträgerinnen und Preisträger des "Miteinander Preis Köln für Demokratie und Vielfalt" - zurückgestellt
+- TOP 5.5: 30. Bericht zur Situation Geflüchteter - zurückgestellt
+- TOP 5.6: Mitteilung zum 8. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 5.7: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - zurückgestellt
+- TOP 5.8: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - zurückgestellt
+- TOP 5.9: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 5.10: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 5.11: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - zurückgestellt
+- TOP 5.12: Umbau, Modernisierung und Erweiterung Bürgerhaus MüTZe, Köln-Mülheim; Interimsbetrieb "MüTZe plus" 2021 -2023 - zurückgestellt
+- TOP 5.13: Förderung Rom e. V. für das Haushaltsjahr 2021 ff. - zurückgestellt
+- TOP 5.14: Ehrenamtspreis "KölnEngagiert 2021" - zurückgestellt
+- TOP 5.15: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2020 in der Stadt Köln - zurückgestellt
+- TOP 5.16: Inklusionsmonitoring, Stand Schuljahr 2019/20 - zurückgestellt
+- TOP 5.17: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII, hier: "Kurdish-European Society e.V. - zurückgestellt
+- TOP 5.18: Integrationsratswahlen 2020 - Aktivitäten zur Bewerbung - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zu Rassismus in den Medien - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Anerkennung eines neuen Interkulturellen Zentrums in Köln: "23 Nisan e.V." - zurückgestellt
+- TOP 8.2: Benennung von Delegierten für die Mitgliederversammlungen und die Hauptausschusssitzung des Landesintegrationsrates NRW - zurückgestellt
+- TOP 8.3: Teilnahme der Stadt Köln am Landesprojekt „Guter Lebensabend NRW“ - zurückgestellt
+- TOP 8.4: Wahl der Vorsitzenden bzw. Stellvertretungen der Arbeitskreise des Integrationsrates - zurückgestellt
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
