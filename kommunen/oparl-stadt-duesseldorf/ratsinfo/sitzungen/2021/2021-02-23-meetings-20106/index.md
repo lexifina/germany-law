@@ -1,0 +1,67 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-02-23T17:00:00+01:00
+- Ende: 2021-02-23T19:10:00+01:00
+- Ort: Achtung! Geänderter Tagungsort: Aula der Gesamtschule, Stettiner Straße 98, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20106
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20106
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401999.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401999.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00401999.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 10.11.2021 - einstimmig beschlossen
+- TOP 2.1: Genehmigung der Niederschrift vom 03.12.2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Garath 2.0 - Richtlinien Zentrenfonds - einstimmig beschlossen
+- TOP 4.2: Verfügungsmittel der BV 10 Bestätigung von Dauerbeschlüssen aus der abgelaufenen Legislaturperiode - Beschlussvorlage der Bezirksverwaltungsstelle 10 – - abweichend beschlossen
+- TOP 4.3: Annahme einer Spende des Vereins der Freunde und Förderer der Montessori-Grundschule Emil-Barth-Straße - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der BV 10, Zuschuss an die Katholische Jugendagentur Düsseldorf gGmbH, Einrichtung JFE St.Matthäus - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Übertragung der zum Jahresende 2020 nicht verausgabten Verfügungsmittel in das Jahr 2021 - Beschlussorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Erteilung von Abgeschlossenheitsbescheinigungen nach dem Wohnungseigentums-gesetzes (WEG) für Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: „Grüne Welle“ Frankfurter Straße - Anfrage der SPD-Fraktion - - zurückgestellt
+- TOP 6.4: Planungen Radhauptnetz - Anfrage der SPD-Fraktion - - zurückgestellt
+- TOP 6.5: Entwicklung der baulichen Barrierefreiheit in Gebäuden im Bereich der Einrichtungen für Kultur und Gesundheitsversorgung im Stadtbezirk 10 - Anfrage der BÜ90/Die Grünen-Fraktion - - schriftlich beantwortet
+- TOP 6.6: Umwandlung von Mietwohnungen in Eigentumswohnungen - Anfrage der BÜ90/Die Grünen-Fraktion - - schriftlich beantwortet
+- TOP 6.7: Errichtung Toilettenanlage in Hellerhof - Anfrage der BÜ90/Die Grünen-Fraktion - - schriftlich beantwortet
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Nutzung des Angebotes der Notbetreuung in den Schulen im Stadtbezirk 10 und angrenzen den Schulen des Stadtbezirks 9 - Anfrage der CDU-Fraktion - - zurückgestellt
+- TOP 6.16: Nutzung des Angebotes der Notbetreuung in den Kindertageseinrichtungen und der Kindertagespflege im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Einwohnerfragestunden - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 7.2: Einladung eines Vertreters des Projektes „i-Punkt Arbeit“ vom Jobcenter - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.3: Überprüfung und Instandsetzung des der Stichstraße Kappeler Feld 1-5 und des weiterführenden Rad- und Wanderweges entlang der Osteroder Str./Garather Schlosspark - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Fahrradabstellanlagen im Stadtbezirk 10 - Antrag der BÜ90/Die Grünen-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Schutz vor Coronainfektionen durch Entzerrung der Schulanfangszeiten und ausreichendes Mobilitätsangebot - Antrag der BÜ90/Die Grünen-Fraktion - - zurückgezogen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Blumenbepflanzung am Ortseingang - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.9: Änderung des Bebauungsplanes G267/07 in Garath - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 7.10: Anlage einer Radverkehrsanlage auf dem rechten Fahrstreifen der Koblenzer Str. zwischen Josef-Maria-Olbrich-Str. und Peter-Behrens-Str. - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.11: Negative Energiebilanz bei Gebäuden im Stadtbezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.12: Schließung des Edeka-Marktes in Hellerhof - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 7.13: Verlauf des Radschnellweges - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.14: Essbare Stadt und Urban Gardening im Stadtbezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.15: Aufstellung eines Geldautomaten bzw. Multifunktions-Automaten - Antrag der SPD-Fraktion - - mehrheitlich abgelehnt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Schnelles Internet im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/143/2020 vom 22.09.2020 - - zurückgestellt
+- TOP 8.2: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorf, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise, sowie zur bedarfsgerechten Versorgung - Informationsvorlage zur Beschlussvorlage BAU/004/2020 - zurückgestellt
+- TOP 8.3: Der Klimawandel hat Auswirkungen auf den Düsseldorfer Baumbestand – Hohe Anzahl an Baumfällungen an Straßen und in Anlagen - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zurückgestellt
+- TOP 9: Verschiedenes
