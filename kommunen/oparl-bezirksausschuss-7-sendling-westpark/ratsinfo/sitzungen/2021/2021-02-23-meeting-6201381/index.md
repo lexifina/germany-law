@@ -1,0 +1,175 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2021-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6201381
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6201381
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 32.: Weitere Anhörungen
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Befahrung Sendlinger Feldweg. Martin Behaim-Str. mit dem Fahrrad
+- TOP 6.2.: Geschwindigkeitsreduzierung Passauerstraße
+- TOP 6.3.: Halteverbote in der Drachenseestraße
+- TOP 6.4.: Fragen und Anregungen Parklizenzgebiete nähe Partnachplatz
+- TOP 6.5.: Parklizenz Bereich Novalisstrasse
+- TOP 6.6.: Parklizenz Kürnbergstr.
+- TOP 6.7.: Vorschläge
+- TOP 6.8.: Parklizenzen Sendling-Westpark
+- TOP 6.9.: Parklizenz
+- TOP 6.10.: Parklizenz Novalisstraße
+- TOP 6.11.: Parklizenz Konrad-Celtis-Str.
+- TOP 6.12.: Kinder schützen
+- TOP 6.13.: Kommentar/Anmerkung Parkraummanagement
+- TOP 6.14.: Feedback und Anregungen zu Maßnahmen im Bezirk Sendling-Westpark
+- TOP 6.15.: Parkverbot Anlieferung REWE Konrad-Celtis-Str
+- TOP 6.16.: Winterdienst Radwege
+- TOP 6.17.: Artikel Radfahrer SZ
+- TOP 6.18.: Antrag auf Einrichtigung eines stationären Messgerät Murnauer Str
+- TOP 6.19.: Kreuzung Oetztaler - Drachenseestraße
+- TOP 6.20.: LKW&#039;s Westendstraße
+- TOP 7.1.: Geheimhaltung von Ergebnissen einer nichtöffentlichen Sitzung
+- TOP 10.1.: (E) Stadtbezirksbudget Helferkreis Geflüchtetenunterkünfte Hans-Thonauer- / Elsenheimerstr. Jahresprogramm 2021 vom 25.02.-31.12.2021 2.000,00€; Az.:0262.0-7-0327
+- TOP 10.2.: (E) Stadtbezirksbudget Initiativ Gruppe „Sojus“ Patenschaften: Unterstützung und Zusammenhalt von April-Oktober 2021 6.780,00€; Az.: 0262.0-7-0325
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative „Strassenlieder“ Europäische Strassenlieder am 03./31.07.2021 1.052,00€; Az. 0262.0-7-0328
+- TOP 11.1.: Verbreiterung Radweg
+- TOP 11.2.: Barrierefreie S-Bahn-Stationen
+- TOP 11.3.: Impfbusse
+- TOP 11.4.: Unfallsituation Westend-Ludwigshafener Str.
+- TOP 11.5.: Impfzentrum im Weste
+- TOP 11.6.: Bezirkssportanlage Öffnungszeiten Individualsport
+- TOP 11.7.: Antrag zusätzliche M-WLAN-Standorte.
+- TOP 11.8.: Halteverbot Schochenbergstr
+- TOP 11.9.: Vorkaufsrechte Garmischer und Kössener
+- TOP 13.1.: Bericht des Vorsitzenden 2021-02
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1.: Bauvorhaben Säulingstr.
+- TOP 15.2.: Baumfällung Seebenseestr.
+- TOP 17.1.: Anhörung, Westpark, Theatron, Entity Theatre e.V.
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Verlängerung Sonderausschüsse
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Ammergaustraße.Ausweich-Haltverbot
+- TOP 25.2.: Verkehrsregelungen am Wertstoffhof Tübinger
+- TOP 25.3.: Sommerstraßen 2021 - Infoveranstaltungen-Ergebnisse und weiteres Vorgehen
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 33.: Baureferat
+- TOP 33.1.: Städtische Bestellung einer Sitzgelegenheit und Aufhängevorrichtungen zum Ablegen von Sportutensilien für beide Bolzplätze im Westpark.
+- TOP 33.2.: Beleuchtung Tischtennis- und Bolzplatzanlage östlich des Wasserspielplatzes
+- TOP 33.3.: Bänke Westpark Rosengarten
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Fristverlängerung Interimslösung für Kulturbürgerhaus an der Ludwigshafener Straße
+- TOP 36.2.: Fristverlängerung Aufenthaltsqualität am Luise-Kiesselbach-Platz verbessern
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Überprüfung und Verbesserung des beschilderten Radwegenetzes in München
+- TOP 40.2.: Geschwindigkeitsreduzierung im nördlichen Teil der Passauerstraße und im südlichen Teil der Hansastraße
+- TOP 40.3.: Höglwörther-Aichacher Str.
+- TOP 40.4.: Antwortschreiben Passauerstr. Tempo 30
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Terminverlängerung Kombinierte Abfalleimer
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: WLAN am Erasmus-Grasser-Gymnasium und Ludwigsgymnasium
+- TOP 42.2.: WLAN-Ausstattung der weiterführenden Schulen in Sendling-Westpark
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Lärmproblematik Mittlerer Ring
+- TOP 44.2.: Münchner Radlstadtplan 2020
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.1.: Neue Standorte der Kooperativen Ganztagsbildung
+- TOP 47.2.: Antwort DB zur Vermüllung Martin-Behaim-Str.
+- TOP 49.: Baureferat
+- TOP 49.1.: Aufstockung der Entsiegelungspauschale
+- TOP 49.2.: Entfernung Gefahrenbäume Westpark
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 50.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51.: Direktorium
+- TOP 51.1.: Bescheid Init. Hofkonzert
+- TOP 51.2.: Erstattung der Miete für Räumlichkeiten der BA-Sitzungen
+- TOP 51.3.: Änderungsbesch Spielen in der Stadt e.V
+- TOP 51.4.: Verwendungsnachweis Monacorona
+- TOP 51.5.: Verwendungsnachweis Zirkus Pumpernudl
+- TOP 51.6.: Verwendungsnachweis Theata e.v.
+- TOP 51.7.: Verwendungsnachweis Never Forgot
+- TOP 51.8.: Verwendungsnachweis Fotoaustellung
+- TOP 51.9.: Verwendungsnachweis SPOKITA
+- TOP 51.10.: Verwendungsnachweis Musucal Storytelling
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Verlängerung VE Gilmstr.
+- TOP 53.2.: VRA Passauerstraße – Geschwindigkeitsreduzierung
+- TOP 53.3.: VE Markomannenstr.
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56.2.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Beschlussvorlage Kooperative Ganztagsbildung
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Bescheid Zegginstr.
+- TOP 61.2.: Vorbescheid Farchanter Str.
+- TOP 61.3.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 61.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.6.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Übersicht Unterkünfte Geflüchtete und Wohnungslose
+- TOP 62.2.: Erhaltungssatzung Martin-Behaim-Str.
+- TOP 63.1.: Neujahrsempfang Feuerwehr
+- TOP 63.2.: Baumaßnahmen SWM
+- TOP 63.3.: Flyer Fernkälte-Projekt Zielstattstraße
+- TOP 65.1.: geplante Erweiterungen bestehender ortsfester Funkanlagen
+- TOP 65.2.: Geplante Erweiterung einer bestehenden ortsfesten Funkanlage
+- TOP 65.3.: Abgeschlossenheitsbescheinigungen
+- TOP 65.4.: Vorkaufsrecht Kössener Str.
+- TOP 65.5.: Vorkaufsrecht Garmischer Str.
