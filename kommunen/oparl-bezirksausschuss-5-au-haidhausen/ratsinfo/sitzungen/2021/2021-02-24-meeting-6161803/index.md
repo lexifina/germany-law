@@ -1,0 +1,127 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-02-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6161803
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6161803
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.1: Allgemeine Unterrichtungen
+- TOP 6.2: Infoblatt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 6.: Unterrichtungen
+- TOP 5.1.: Neue Zuständigkeiten durch das Mobilitätsreferat
+- TOP 5.2.: Empfehlung einer Sommerstraße
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Die Tagesordnung wird folgendermaßen ergänzt: - UA Soziales, TOP 1.1: Installation eines Spielgerätes am Spielplatz Reichenbachbrücke - UA Wirtschaft, TOP 1.1: Stadtbezirksbudget Initiative "Auer/Haidhauser Journal" - UA Wirtschaft, TOP 2.3: Erweiterung der Freischankfläche für die Gaststätte "Nuovo Mediterraneo", Ismaninger Str. 27 - UA Wirtschaft, TOP 2.4: Erweiterung der Freischankfläche für die Gaststätte „Piazzetta“, Weißenburger Platz 8 - UA Mobilität, TOP 2.2: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen - UA Klima, TOP 2.5: Leonhardstr. 3: Fällung von 1 Vogelkirsche Von der Tagesordnung abgesetzt wird - UA Klima, TOP 2.4: Wanderbaumallee in der Welfenstraße von Green City im Sommer 2021
+- TOP 5.1.: Baumschutz: Kontrolle von Ersatzpflanzungen
+- TOP 5.2.: Alternative Begrünungskonzepte
+- TOP 5.3.: Blühfläche am Friedensengel: Spaziergänger/innen informieren
+- TOP 5.4.: Hochfrequenztöne im Bereich Innere Wiener Straße / Preysingplatz (Anfrage)
+- TOP 5.5.: Christbaum Entsorgung: Abholfrequenz erhöhen
+- TOP 5.6.: Regerplatz erweitern
+- TOP 5.7.: Abbiegeassistenten für Lkw unverzüglich einführen
+- TOP 5.8.: Verhandlungen zu einer Solaranlage auf dem renovierten Gasteig aufnehmen
+- TOP 5.9.: Gasteigsanierung: BürgerInnen finanzieren Solaranlage
+- TOP 6.2.1.: Infoblatt 02/21
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.1.: Installation eines Spielgerätes am Spielplatz Reichenbachbrücke - Finanzierungszusage erforderlich -
+- TOP 2.1.: Bewerbung zum REGSAM-Schwerpunktthema INKLUSION ab 2021 Vertagung aus der Sitzung vom 27.01.2021
+- TOP 3.: Unterrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Erlass des Oberbürgermeisters für Alkoholverbot auf öffentlichen Plätzen: Aufnahme des Kolumbusplatz in die Liste
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative "Auer/Haidhauser Journal" Herausgabe des Auer/Haidhauser Journals von 01.04.2021 bis 31.03.2022 2.500,00 € / Az. 0262.0-5-0323 Wiedervorlage aus der Sitzung vom 27.01.2021
+- TOP 1.2.: => dazu: Ergänzende Angaben des Antragstellers
+- TOP 2.: Anhörungen
+- TOP 2.1.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 2.2.: Erweiterung der Freischankfläche für die "Ideal Espresso Bar", Weißenburger Str. 8 Anhörungsfrist bis 11.02.2021
+- TOP 2.3.: Erweiterung der Freischankfläche für die Gaststätte "Nuovo Mediterraneo", Ismaninger Str. 27 Anhörungsfrist bis 25.02.2021
+- TOP 2.4.: Erweiterung der Freischankfläche für die Gaststätte „Piazzetta“, Weißenburger Platz 8 Anhörungsfrist bis 25.02.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bestellung einer städtischen Leistung: Stromkosten für die Weihnachtsbeleuchtung am Weißenburger Platz
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Orleansplatz 3: Nutzungsänderung der Betriebsart einer Kaufhaus-Gaststätte
+- TOP 2.2.: Lothringer Str. 19: Sanierung Anwohnertiefgarage Postwiese
+- TOP 2.3.: Langerstr. 2: Betonsanierung Tiefgarage
+- TOP 2.4.: Milchstr. 6: Abbruch und Neubau eines Dachgeschosses mit Erweiterung zweier Wohneinheiten, Anbau von Balkonen im 1.-4. OG sowie Neuerrichtung eines Aufzugs und Errichtung von zwei Notleiteranlagen, Tektur
+- TOP 2.5.: Preysingstr. 103a-105: Neubau und Erweiterung einer Interimsanlage (Grundschule)
+- TOP 2.6.: Kirchenstr. 96: Sanierung, Erweiterung und Aufstockung eines Wohn- und Geschäftsgebäudes => dazu: Baumfällungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fünf Plätze attraktiv neu gestalten - Europaplatz, Bürgerbeteiligung Schreiben Baureferat
+- TOP 3.2.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Bebauungsplan mit Grünordnung Nr. 1956 Haidenauplatz (südlich) Bahnlinie München - Rosenheim (westlich) Ostbahnhof (nördlich), Orleansstraße (östlich) "Orleanshöfe" A) Historie und Grundlagen B) Bekanntgabe des Ergebnisses des kooperativen Verfahrens C) Weiteres Vorgehen / Beteiligung der Öffentlichkeit D) Beteiligung des Bezirksausschusses
+- TOP 3.5.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 05 (Au-Haidhausen) Satzungsbeschluss Satzung „Haidhausen“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Haidhausen“)
+- TOP 3.6.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 3.7.: Inwiefern ist es zulässig, ausschließlich eigenen Mitarbeitern die im "München-Modell Miete" geschuldeten Wohnungen zukommen zu lassen ?
+- TOP 3.8.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Ohlmüllerstr. 3 b) Ohlmüllerstr. 44
+- TOP 3.9.: Anforderung von Bauvorhaben: Rückantwort LBK vom 22.01.2021
+- TOP 3.10.: Planfeststellungsverfahren zur EÜ Balanstraße - Online-Konsultation der Regierung von Oberbayern Stellungnahme Planungsreferat
+- TOP 3.11.: Bauvorhaben Franziskanerstr. 15 Antwort Planungsreferat zum BA-Schreiben vom 28.01.2021
+- TOP 3.12.: Kellerstraße 3 – Was wird gegen den jahrelangen Leerstand unternommen? (Anfrage)
+- TOP 3.13.: Aktueller Sachstand zum Leerstand im Anwesen Johannisplatz 16
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Nutzung der Grünfläche zwischen Preysing- und Metzstraße durch die Nachbarschaft
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Planung Radschnellwege: Bezirksausschüsse frühzeitig beteiligen (Antrag CSU-Fraktion) Verweisung aus der Sitzung vom 27.01.2021
+- TOP 1.2.: Das Mobilitätsreferat wird aufgefordert, bis 2024 für die Stadtteile Au und Haidhausen je ein lokales Mobilitätskonzept mit Nahmobilitätsschwerpunkt zu entwerfen (Antrag Die Grünen) Verweisung aus der Sitzung vom 27.01.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch von Lichtsignalanlagen a) Am Gasteig / Preysingstraße / Stubenvollstraße b) Metzstraße / Rosenheimer Straße
+- TOP 2.2.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fahrradzone im nördlichen Haidhausen (Anfrage) Fristverlängerung bis 31.12.2021
+- TOP 3.2.: Maßnahmen zum Schutz von Fußgängern am Preysingplatz Schreiben PI 21 zum BA-Schreiben vom 21.12.2020
+- TOP 3.3.: Modellquartiere in München - Pilotprojekt "City2Share" Lastenrad-Projekt für City-Logistik, Prüfung von Standorten Antrag Nr. 14-20 / B 06848 des Statdbezirkes 5 Au-Haidhausen vom 18.09.2019 Sitzungsvorlagen Nr. 20-26 / V 02009
+- TOP 3.4.: Eggernstraße: Absolutes Haltverbot mit Zeitzusatz vor Hausnummer 5 für AWM Antwort Mobilitätsreferat zum BA-Schreiben vom 15.12.2020
+- TOP 3.5.: Verkehrsrechtliche Anordnungen a) Wörthstr. 16,17 und 34: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze b) Weißenburger Str. 41 und 44: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze c) Ismaninger Straße zwischen Max-Weber-Platz und Prinzregentenstraße: Erleichterte streckenbezogene Anordnung von Tempo 30 d) Lothringer Str. 30-34: Vollsperre wegen Bau einer Fernwärmeleitung von 22.02.-26.03.2021 e) Sanierung der Ludwigsbrücken (Phase 150 c) von 25.01.-15.04.2021
+- TOP 3.6.: Preysingplatz: Durchgang besser ausschildern
+- TOP 3.7.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 3.8.: Fehlende Straßenmarkierung in der Entenbachstraße (Einfahrten größer berechnen, Längenbegrenzung, Fahrradständer und Baumbepflanzung anbringen)
+- TOP 3.9.: Beschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel – Änderung und Ergänzung von Maßnahmenvorschlägen hier: Hinweis/Ergänzung vom 19.01.2021 Sitzungsvorlage Nr. 20-26 / V 02208
+- TOP 3.10.: Beschilderung Genoveva-Schauer-Platz
+- TOP 3.11.: Weißenburger Straße: Einkaufsstraße fußgängerfreundlich umgestalten Verweisung aus der Sitzung vom 27.01.2021 mit der Bitte um Diskussion in den Fraktionen
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Verschiedenes
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Weißenburger Str. 38 und 46: Fällung von 1 Robinia Pseudoacacia und 1 Kirsche
+- TOP 2.2.: Pariser Str. 30: Fällung von 1 Linde
+- TOP 2.3.: Neue Baumstandorte im öffentlichen Raum Konkrete Stellenbenennung in öffentlichen Grünanlagen, auf Plätzen und im Straßenbegleitgrün bis 03.05.2021 Vertagung aus der Sitzung vom 09.12.2021 mit der Bitte um Benennung von Baumstandorten
+- TOP 2.4.: Wanderbaumallee in der Welfenstraße von Green City im Sommer 2021
+- TOP 2.5.: Leonhardstr. 3: Fällung von 1 Vogelkirsche Anhörungsfrist bis 26.02.2021 – Verlängerung wegen Brutzeit nicht möglich
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bio-Müll in städtischen Wohnanlagen
+- TOP 3.2.: Christbaumentsorgung in Haidhausen Schreiben Abfallwirtschaftsbetrieb
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Wertstoffinsel-Konzept München
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 15.03.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 15.03.2021, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 16.03.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 17.03.2021, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 17.03.2021, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 18.03.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die UA-Sitzungen finden evtl. nur als Videokonferenz statt !
+- TOP 3.1.: Mittwoch, 24.03.2021, 19.00 Uhr, Theatersaal im Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 09.03.2021, 19.30 Uhr, Friedenstraße 40
+- TOP 5.: Verschiedenes
