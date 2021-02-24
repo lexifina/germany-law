@@ -1,0 +1,72 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-02-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6178870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6178870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Bahnbrücken Triebstraße / Geh- und Radwegverbindung Olympiapark Nord
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Init. Wunderbuch Wunderbuch vom 15.10.2021 - 15.10.2022 1.800,00 € / Az. 0262.0-11-0412
+- TOP 6.2.1.: (E) Soziodemografische Untersuchung Stadtbezirk 11 Milbertshofen – Am Hart Empfehlung Nr. 14-20 / E 02819 der Bürgerversammlung des Stadtbezirks 11 vom 18.07.2019 Sitzungsvorlagen Nr. 20-26 / V 02261
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Aufstellen von Sitzgelegenheiten entlang der östlichen Seite des Olympiaparks
+- TOP 7.3.2.: Benennung von Straßen im 11. Stadtbezirk nach Frauen
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Bushaltestelle Olympiazentrum: Fußgängerfreundlichkeit verbessern
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.1.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung - Sitzungsvorlage Nr. 20-26/ V 01734 - Beschlussentwurf
+- TOP 8.1: Plenum
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Frankfurter Ring - Rahmenplan für das Gewerbeband
+- TOP 8.2.2.: Ostermayrstraße 6 - Bauvorhaben: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 8.2.3.: Mortonstr. 17-19 - Neubau zweier Mehrfamilienhäuser
+- TOP 8.2.4.: Taunusstraße 34 - Abbruch Gebäudebestand
+- TOP 8.2.5.: Keferloherstr. 94 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.2.6.: (E) Mehr Bürgerbeteiligung bei Stadtteilentwicklungen bzw. -planungen BV-Empfehlung Nr. 14-20 / E 02813 der Bürgervers. des 11. SB vom 18.07.2019 Sitzungsvorlage Nr. 14-20 / V00553
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Neuherbergstraße (Burak Supermarkt) - Ausdehnung der Kurzparkzone b) Humperdinckstraße (Nordseite) - absolutes Haltverbot c) Bad-Soden-Straße - Parkregelung
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Baumfällungen im BMW Werk
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Unterrichtung über Baugenehmigungsanträge zwischen 04.01. und 07.02.2021
+- TOP 9.2.2.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 9.4.2.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Baustelleneinrichtung am Kolehmainenweg
+- TOP 9.4.3.: Aufhebung der Vorfahrtsregelung Keferloherstraße / Christoph-von-Gluck-Platz westliche Fahrbahn
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
