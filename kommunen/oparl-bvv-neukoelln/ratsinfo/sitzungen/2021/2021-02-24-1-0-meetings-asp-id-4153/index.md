@@ -1,0 +1,137 @@
+# 55. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-02-24T17:00:00+01:00
+- Ende: 2021-02-24T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4153
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4153
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Parkraumbewirtschaftung - beantwortet
+- TOP 1.2: Verkehrssituation Schillerkiez - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Nachbesetzung der Geschäftsführerstelle des Jobcenters Neukölln transparent gestalten! - in der BVV abgelehnt
+- TOP 2.2: Wider die Ungleichbehandlung von Terroropfern und Glorifizierung von Straftätern durch das Bezirksamt - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Bürgerbeteiligung stärken - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als stellvertretendes, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Grünflächenausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.6: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Stadtentwicklung und Wohnen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.7: Vorzeitige Beendigung eines Mandats als Bezirksverordneter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.8: Benennung einer Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - in der BVV abgelehnt
+- TOP 7.2: Wahl von Mitgliedern in den Beirat für das Vivantes Klinikum Neukölln - in der BVV abgelehnt
+- TOP 7.3: Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten - in der BVV abgelehnt
+- TOP 7.4: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Stadtentwicklung und Wohnen - gewählt
+- TOP 7.5: Wahl einer Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Datenschutz im Jugendamt - beantwortet
+- TOP 8.2: Clanimmobilien - beantwortet
+- TOP 8.3: Migrationsbeirat ordnungsgemäß bestätigen - beantwortet
+- TOP 8.4: Kostenfreies Mittagessen sichergestellt? - beantwortet
+- TOP 8.5: Das Infektionsgeschehen nimmt ab, dennoch gibt es weiterhin deutliche Einschränkungen des öffentlichen Lebens. - beantwortet
+- TOP 8.6: Stellenausschreibung - beantwortet
+- TOP 8.7: WC-Anlagen in Neukölln - schriftlich beantwortet
+- TOP 8.8: Kontaktverfolgungssoftware SORMAS - schriftlich beantwortet
+- TOP 8.9: Kahlschlag im Park? - schriftlich beantwortet
+- TOP 8.10: Neue Leitung des Jobcenters Neukölln - schriftlich beantwortet
+- TOP 8.11: Infektionsgeschehen in Neukölln - schriftlich beantwortet
+- TOP 8.12: Absatzförderung unter dem Deckmantel des Gesundheitsschutz - schriftlich beantwortet
+- TOP 8.13: Bauzaun in Alt Rudow - schriftlich beantwortet
+- TOP 8.14: Kulturentwicklungsplan - schriftlich beantwortet
+- TOP 8.15: Ungenügender Winterdienst - schriftlich beantwortet
+- TOP 8.16: Wird Tariftreue und neuer Landesmindestlohn kontrolliert? - schriftlich beantwortet
+- TOP 8.17: Gifteintrag ins Rudower Fließ? - schriftlich beantwortet
+- TOP 8.18: Muss erst ein Lehrer ermordet werden? - schriftlich beantwortet
+- TOP 9: Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2021 - 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Multifunktions-Mensa für die Karlsgarten-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Digitales Einheitliches Gebäudemanagement im Bezirk Neukölln - Moderne Software für Neukölln - gegenstandslos
+- TOP 10: Mitteilungen - (offen)
+- TOP 10.1: Neukölln erklärt den Klimanotstand - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Brunnen auf dem Reuterplatz instandsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.3: Gesundheitsamt Neukölln auf den „Corona-Winter“ vorbereiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.4: Kostenfreies Mittagessen an Grundschulen – Angebot auch ohne Präsenzunterricht aufrechterhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.5: Fahrradfahren auf der Gerlinger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Beleuchtung am U- und S-Bahnhof Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: Versagung von weiteren Umnutzungen von Gewerberäumen im Reuterkiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.3: Morusstraße 14 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.4: Mehr Photovoltaikanlagen für Neuköllner Gebäude in öffentlicher Hand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.5: Lesbarkeit der Anhörungen zum Milieuschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.6: Verwahrlosung bekämpfen – Urban-Gardening fördern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.7: Flagge zeigen für eine atomwaffenfreie Welt am 8. Juli: Neukölln wird Teil des „Mayors for Peace“-Netzwerks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.8: Bebauungsplan XIV-155a („Johannisthaler Chaussee / Wildmeisterdamm“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Neuköllner Ehrengrabstätten in besseren Zustand versetzen - in der BVV abgelehnt
+- TOP 12.2: Earth Hour - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Verlegung Taxistand von der Waltersdorfer Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Pop-up-Radwege für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: PopUp-Radweg Blaschkoallee - (offen)
+- TOP 12.6: Künstlern Auftritte ermöglichen! - (offen)
+- TOP 12.7: Termine in den Bürgerämtern - (offen)
+- TOP 12.8: Ausbildungskapazitäten im Bezirk ausweiten - (offen)
+- TOP 12.9: Gewaltprävention in Neukölln - schriftlich beantwortet
+- TOP 12.10: Klimaschutzbeauftragten - (offen)
+- TOP 12.11: Pflegekonzepte für Stillgewässer und deren Umgebung - (offen)
+- TOP 12.12: Gasbetriebene Heizpilze/Terrassenheizer zulassen - (offen)
+- TOP 12.13: Zukunftsfesten Hermannplatz gestalten - (offen)
+- TOP 12.14: Kosten der Umbenennung der Wissmannstr. erstatten - (offen)
+- TOP 12.15: Anwendung Mietendeckel in Neukölln - (offen)
+- TOP 12.16: Ergebnisse der Lebensmittelkontrollen, aber keine Veröffentlichung - (offen)
+- TOP 12.17: Unterstellt das Bezirksamt den Buckowern Rassismus? - (offen)
+- TOP 13: Beschlussempfehlungen - (offen)
+- TOP 13.1: Änderung der Geschäftsordnung II - Ergänzung der Tagesordnung außerordentlicher Sitzungen - (offen)
+- TOP 13.2: Ältestenratssitzungen während der BVV - (offen)
+- TOP 13.3: Änderung der Geschäftsordnung (Vorlagen der/des Vorsteherin/Vorstehers) - (offen)
+- TOP 13.4: Änderung der Geschäftsordnung (Vorlagen des Bezirksamtes) - (offen)
+- TOP 13.5: Änderung Geschäftsordnung III § 40 Wortmeldungen, Worterteilungen und Rededauer - (offen)
+- TOP 13.6: Umweltprüfung durchführen – Ausgleich sichern - (offen)
+- TOP 13.7: Amphibienschutz in Neukölln - (offen)
+- TOP 13.8: Partnerschaft mit Initiative(n) des globalen Südens - (offen)
+- TOP 13.9: Berlin hat bewiesen: Auch ohne Feuerwerk rutscht die Stadt gut ins neue Jahr - (offen)
+- TOP 13.10: Lokale Händler untersützen - (offen)
+- TOP 13.11: Neuer Radwegplan für Neukölln - (offen)
+- TOP 13.12: Verlängerung der Buslinie 179 - ohne Änderungen in der BVV beschlossen
+- TOP 13.13: Mülleimer in Alt Rudow - (offen)
+- TOP 13.14: Geschwindigkeitsmessung in der Köpenicker Straße - (offen)
+- TOP 13.15: Trasse der Neukölln-Mittenwalder Eisenbahn sichern - (offen)
+- TOP 13.16: Gewerbetreibende auf dem Gelände des Bahnhof Rudow sichern - (offen)
+- TOP 13.17: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden - (offen)
+- TOP 13.18: ESTREL-Tower klimagerecht beheizen - (offen)
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Arbeit der Schulen in der Pandemie wird zusätzlich erschwert - (offen)
+- TOP 14.2: Wie geht es weiter nach der Coronakrise? - (offen)
+- TOP 15: Große Anfragen - schriftlich - (offen)
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Ausgleichsmittel für das Kiehlufer - überwiesen
+- TOP 16.2: Alt-Buckow 37: Illegal erworbenes Clanvermögen für soziale Infrastruktur! - überwiesen
+- TOP 16.3: Saubere Schulen – Rekommunalisierung der Schulreinigung mit Stufenplan unterlegen - überwiesen
+- TOP 16.4: Arbeit der Schulen in der Pandemie nicht zusätzlich erschweren - überwiesen
+- TOP 16.5: Bürger umfassend über das Infektionsgeschehen informieren - überwiesen
+- TOP 16.6: Halteverbot im Gockelweg auf die andere Straßenseite verlegen - überwiesen
+- TOP 16.7: Neukölln fußgänger*innenfreundlich gestalten - überwiesen
+- TOP 16.8: Plätze in Willkommensklassen für später dazukommende Kinder belassen - überwiesen
+- TOP 16.9: kostenloses Mittagessensangebot für Schüler aller Schulen - überwiesen
+- TOP 16.10: Sitzbank am Britzer Damm/Ecke Blaschkoallee - überwiesen
+- TOP 16.11: 1.700 Jahre jüdisches Leben in Deutschland - überwiesen
+- TOP 16.12: Saubere Schulen- Eigenreinigung der Schulen mit Zeitplan unterlegen - überwiesen
+- TOP 16.13: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“ - überwiesen
+- TOP 16.14: Bürgerbeteiligung stärken - überwiesen
+- TOP 16.15: Hasenheide-Hygiene verbessern - überwiesen
+- TOP 16.16: Frequentierung von Pop-Up-Radwegen erfassen - überwiesen
+- TOP 16.17: Personalunterkunft Volkspark Hasenheide - überwiesen
+- TOP 16.18: Befristete Sonderregelungen für die Außengastronomie verlängern - überwiesen
