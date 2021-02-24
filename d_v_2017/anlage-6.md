@@ -1,3 +1,3 @@
-# Anlage 6 (aufgehoben)
+# Anlage 6 (weggefallen)
 
 

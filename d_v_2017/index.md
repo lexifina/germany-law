@@ -22,7 +22,7 @@
 - [Anlage 3 (zu § 3 Absatz 5 Satz 1 Nummer 2)Mindestwerte für die Ausnutzung des Stickstoffs aus organischen oder organisch-mineralischen Düngemitteln im Jahr des Aufbringens, die aus folgenden Ausgangsstoffen bestehen](anlage-3.md)
 - [Anlage 4 (zu § 4 Absatz 1 und 2)Ermittlung des Stickstoffdüngebedarfs](anlage-4.md)
 - [Anlage 5 (zu § 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)Jährlicher betrieblicher Nährstoffeinsatz für Stickstoff (N) und Phosphat (P2O5) für das Düngejahr ………](anlage-5.md)
-- [Anlage 6 (aufgehoben)](anlage-6.md)
+- [Anlage 6 (weggefallen)](anlage-6.md)
 - [Anlage 7 (zu § 3 Absatz 2 und 6 und § 4 Absatz 3)Nährstoffgehalte pflanzlicher Erzeugnisse](anlage-7.md)
 - [Anlage 8 (zu § 11 Satz 2)Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen](anlage-8.md)
 - [Anlage 9 (zu § 12)Dunganfall bei der Haltung landwirtschaftlicher Nutztiere; Umrechnungsschlüssel zur Ermittlung der Großvieheinheiten (GV)](anlage-9.md)
