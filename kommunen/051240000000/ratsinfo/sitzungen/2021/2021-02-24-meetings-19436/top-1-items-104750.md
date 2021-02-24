@@ -1,0 +1,6 @@
+# TOP 1: Feststellung der Tagesordnung und Einführung in weiterführende Überlegungen der zukünftigen Ausschussarbeit
+
+- Sitzung: ABSAGE der Sitzung des Ausschusses für Kultur (2021-02-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/104750
