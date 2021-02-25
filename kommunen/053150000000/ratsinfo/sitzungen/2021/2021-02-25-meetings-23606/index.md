@@ -1,0 +1,58 @@
+# 2. Sitzung des Ausschusses Soziales und Senioren Die Sitzung entfällt!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-25T15:30:00+01:00
+- Ende: 2021-02-25T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23606
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23606
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Benennung einer Schriftführerin für den Ausschuss Soziales und Senioren - zurückgestellt
+- TOP -: Verpflichtung sachkundiger Bürger*innen und Einwohner*innen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - zurückgestellt
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 2.3: Inklusionsbericht 2019 - zurückgestellt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Eine Armutskonferenz für Köln – ein Leben in Teilhabe für alle! - zurückgestellt
+- TOP 3.2: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten (Ersetzungsantrag zu AN/1090/2019) - zurückgestellt
+- TOP 3.3: Leerstehendes Pascha zur Unterbringung von wohnungslosen Menschen nutzen - zurückgestellt
+- TOP 3.4: Antragsstau beim Wohngeld beenden - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 4.2: Anerkennung eines neuen Interkulturellen Zentrums in Köln: "23 Nisan e.V." - zurückgestellt
+- TOP 4.3: Zuschüsse aus dem Konzept "Wir im Quartier - Struktur- und Beschäftigungsförderung im Stadtviertel" hier: Maßnahmebewilligungen 2021 - zurückgestellt
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Förderung von Wohnraum mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2020 und Ausblick auf 2021 - zurückgestellt
+- TOP 8: JobCenter Köln
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1: Anfrage der SPD Häusliche Gewalt im Corona-Herbst: Maßnahmen zur Umsetzung der Istanbul-Konvention - zurückgestellt
+- TOP -: Beantwortung der Anfrage Häusliche Gewalt im Corona-Herbst: Maßnahmen zur Umsetzung der Istanbul-Konvention (zu AN/1504/2020) - zurückgestellt
+- TOP 11.2: Anfrage der Ratsfraktion Volt Winterhilfe und Schlafstätten für wohnungslose Menschen - zurückgestellt
+- TOP -: Beantwortung der Anfrage Winterhilfe und Schlafstätten für Wohnungslose Menschen (AN/1487/2020) - zurückgestellt
+- TOP 11.3: Anfrage der Ratsgruppe GUT Personelle Besetzung Wohngeldstelle - zurückgestellt
+- TOP -: Beantwortung der Anfrage Personelle Besetzung Wohngeldstelle - zurückgestellt
+- TOP 11.4: Anfrage der SPD Armut in Corona-Zeiten: Obdachlosigkeit, drohender Wohnungsverlust, Zwangsräumungen, Beschäftigungsentwicklung, ALG-II-Beantragungen - zurückgestellt
+- TOP -: Beantwortung der Anfrage Armut in Corona-Zeiten: Obdachlosigkeit, drohender Wohnungsverlust, Zwangsräumungen, Beschäftigungsentwicklung, ALG II-Beantragungen (AN/1503/2020) - zurückgestellt
+- TOP 11.5: Anfrage der Fraktion DIE LINKE Kürzungen bei den Kosten der Unterkunft in Köln - zurückgestellt
+- TOP -: Beantwortung der Anfrage Kürzungen bei den Kosten der Unterkunft in Köln (Anfrage der Fraktion DIE LINKE AN/0027/2021) - zurückgestellt
+- TOP 11.6: Beantwortung einer mündlichen Anfrage Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Baubeschluss - zurückgestellt
+- TOP 12: Aktuelle Anfragen und Beantwortungen
+- TOP 13: Mündliche Anfragen
+- TOP 14: Mitteilungen
+- TOP 14.1: Ehrenamtspreis "KölnEngagiert 2021" - zurückgestellt
+- TOP 14.2: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2020 in der Stadt Köln - zurückgestellt
+- TOP 14.3: Standards für barrierefreie Spielplätze - zurückgestellt
+- TOP 14.4: Verteilung von Mitteln zur Förderung anerkannter Interkultureller Zentren in 2021 - zurückgestellt
+- TOP 14.5: Neuer Kölner Mietspiegel (Stand: Februar 2021) - zurückgestellt
