@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2021:B.250221.VIIIB6.20.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "VIII"
+aktenzeichen: "VIII B 6/20"
+decided: "2021-02-25"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202150073/"
+corpus_doc_id: "BFH_NV_2021-02-25_VIII_B_6_20_STRE202150073"
+cites_law: ["germany/bund/acts/fgo/0065.md", "germany/bund/acts/fgo/0068.md", "germany/bund/acts/fgo/0115.md", "germany/bund/acts/fgo/0116.md", "germany/bund/acts/fgo/0127.md", "germany/bund/acts/fgo/0135.md"]
+---
+
+# Bundesfinanzhof, VIII B 6/20 vom 2021-02-25: Anwendung des § 127 FGO im Nichtzulassungsbeschwerdeverfahren
+
+## Leitsatz
+
+NV: Ergeht während des Verfahrens über eine Beschwerde wegen Nichtzulassung der Revision ein Änderungsbescheid, ist die Vorentscheidung nicht entsprechend § 127 FGO aufzuheben und die Sache an das FG zurückzuverweisen, wenn die Nichtzulassungsbeschwerde unzulässig ist.
+
+## Entscheidung
+
+NV: Ergeht während des Verfahrens über eine Beschwerde wegen Nichtzulassung der Revision ein Änderungsbescheid, ist die Vorentscheidung nicht entsprechend § 127 FGO aufzuheben und die Sache an das FG zurückzuverweisen, wenn die Nichtzulassungsbeschwerde unzulässig ist. Die Beschwerde der Klägerin wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts München vom 27.11.2019 - 11 K 1762/19 wird als unzulässig verworfen.Die Kosten des Beschwerdeverfahrens hat die Klägerin zu tragen. Die Beschwerde der Klägerin und Beschwerdeführerin (Klägerin) ist unzulässig.Die Klägerin hat keinen Zulassungsgrund gemäß § 115 Abs. 2 Nrn. 1 bis 3 der Finanzgerichtsordnung (FGO) den Anforderungen des § 116 Abs. 3 Satz 3 FGO genügend dargelegt (s. unter 1.). Eine (teilweise) Aufhebung der Vorentscheidung gemäß § 127 FGO und Zurückverweisung an das Finanzgericht (FG) aufgrund der während des Verfahrens ergangenen Änderungsbescheide für das Streitjahr 2014 ist nicht veranlasst, da diese Bescheide nicht gemäß § 68 FGO Gegenstand des Beschwerdeverfahrens geworden sind (s. unter 2.).1. Zwar kann ein Verfahrensfehler i.S. von § 115 Abs. 2 Nr. 3 FGO dann zu bejahen sein, wenn das FG über eine zulässige Klage nicht zur Sache, sondern durch Prozessurteil entscheidet, weil es die Klage zu Unrecht mit der Begründung als unzulässig abweist, der Gegenstand des Klagebegehrens sei ‑‑trotz der dafür vom Gericht gemäß § 65 Abs. 2 Satz 2 FGO gesetzten Ausschlussfrist‑‑ von der Klägerin nicht hinreichend bezeichnet worden (vgl. z.B. Beschluss des Bundesfinanzhofs ‑‑BFH‑‑ vom 15.01.2015 - I B 45/14, BFH/NV 2015, 696, Rz 3). Im Streitfall sind Gründe, die einen solchen Verfahrensfehler des FG tragen könnten, von der Klägerin indes nicht dargelegt worden. Sie hat die Beschwerde mit Schriftsatz vom 13.01.2020 erhoben und darauf hingewiesen, sie habe die Einkommensteuererklärungen für die Streitjahre 2014 und 2015 zwischenzeitlich beim Beklagten und Beschwerdegegner (Finanzamt) eingereicht. Eine weitere Begründung folgte dem weder innerhalb noch außerhalb der Beschwerdebegründungsfrist. Dem Vorbringen der Klägerin lässt sich damit zwar entnehmen, dass sie den Gegenstand ihres Klagebegehrens nunmehr für hinreichend bestimmt hält, entsprechend der eingereichten Erklärungen veranlagt werden und auch die Abweisung der Klage durch das FG als unzulässig nicht hinnehmen möchte. Die Klägerin trägt aber keine Umstände vor, aus denen ersichtlich ist, dass das FG die Regelung in § 65 Abs. 2 FGO aus ihrer Sicht fehlerhaft angewendet haben könnte.2. Eine (teilweise) Aufhebung der Vorentscheidung gemäß § 127 FGO und Zurückverweisung der Sache an das FG wegen der während des Beschwerdeverfahrens ergangenen Änderungsbescheide für das Streitjahr 2014 vom 02.07.2020 und vom 17.12.2020 kommt nicht in Betracht. Da die Beschwerde unzulässig ist (s. unter 1.), sind diese Bescheide nicht gemäß § 68 FGO zum Gegenstand des Beschwerdeverfahrens geworden (s. BFH-Beschluss vom 30.05.2014 - I B 82/13, juris, Rz 9).3. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
