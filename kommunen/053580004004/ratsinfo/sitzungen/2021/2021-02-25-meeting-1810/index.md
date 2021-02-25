@@ -1,0 +1,66 @@
+# Gemeinderat (3. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-02-25T18:00:00+01:00
+- Ende: 2021-02-25T21:45:00+01:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcmXjVfg_a8qZLRWmPZ89wQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1810
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZda0tRfvQAw4Ix8AKvO1y4pL-9Hdei8dS1_oOB2aEgHD/Bekanntmachung_Gemeinderat_25.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRTXy0YWZhmpAwcgF9tPDHZ7Tq-ZULpfFv2l_c2wSed/Oeffentliche_Niederschrift_Gemeinderat_25.02.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1: Außerplanmäßige Beschaffungen für Ausrüstung der Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Aussetzen der Beitragserhebung für die Betreuung von Kindern in der offenen Ganztagsschule (OGS Aldenhoven) im Zuge von COVID-19 für den Monat Januar 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: 1) Kanaluntersuchung /-Reinigung: Mehrkostenanmeldung und 2) Freigabe der Mittel zur Untersuchung einer Absackung Ecke Gerberstr./Markfestestr. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Starter Paket - Neubau eines Schul- und Sportleistungszentrums in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Anträge von Fraktionen
+- TOP 4.1: Gemeinsamer Antrag der CDU-, SPD- und FWG-Fraktion hier: Grundsatzbeschluss für den Neubau eines Schul- und Sportleistungszentrums in Aldenhoven - 15 Ja-Stimme(n), 6 Nein-Stimme(n), 2 Stimmenthaltung(en)Sitzungsunterbrechung gemäß CoronaSchutzVO von 19:44 Uhr bis 19:50 Uhr.
+- TOP 4.2: Antrag der CDU-Fraktion hier: Erfassung von Bedarf/Interesse an CoWorking-Angeboten in der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Antrag der SPD-Fraktion hier: Errichtung einer verkehrsabhängigen Lichtzeichenanlage - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1: Wahl eines neuen stellvertretenden Mitgliedes für die Gesellschafterversammlungen der WOGA GmbH & Co. KG und der WOGA BeteiligungsGmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Herstellung des Benehmens nach § 55 Abs. 1 KrO NRW zur Festsetzung der Kreisumlage für das Haushaltsjahr 2021 - Zur Kenntnis genommen
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Abfallentsorgungssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Vertragsangelegenheiten, Auftragsvergaben
+- TOP 2.1: Abschluss eines öffentlich-rechtlichen Vertrags zwischen dem AAV, dem Kreis Düren und der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Auftragsvergabe: Erneuerung von drei Außentüren in der Großsporthalle (zweiter baulicher Rettungsweg) - Einstimmig, 0 Enthaltung(en)
+- TOP 2.3: Vereinbarung zur Benennung eines neuen Datenschutzbeauftragten - Vertagt
+- TOP 2.4: Nutzungsvereinbarung zwischen der Gemeinde Aldenhoven und dem Sportverein SV Pattern 09 e.V. (Förderprogramm Moderne Sportstätte 2022) - Einstimmig, 0 Enthaltung(en)
+- TOP 2.5: Anschaffung eines KFZ zur Personenbeförderung im Rahmen von Integrationsmaßnahmen nach dem Gesetz zur Förderung gesellschaftlicher Teilhabe und Integration in NRW gem. § 14c Teilhabe- und Integrationsgesetz. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Vermietungen, Verpachtungen
+- TOP 3.1: Verpachtung einer gemeindeeigenen Fläche - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Beteiligung der RURENERGIE GmbH an dem Windpark Gereonsweiler - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: indeland Tourismus e.V. hier: Zustimmung zum Umlaufbeschluss Nr. 1 der Mitgliederversammlung und des Vorstandes - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Wirtschaftsplan 2021 und Mittelfristplanung der GREEN Gesellschaft für regionale und erneuerbare Energie mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4: Berichte aus den Gremien
+- TOP 5.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 5.1: Erwerb von zwei landwirtschaftlichen Parzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Digitalpakt "Schulen" - Sofortausstattungsprogramm "Endgeräte für bedürftige Schulkinder" hier: Auftragsvergabe und Bestellung der Endgeräte - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Auftragsvergabe: Betoninstandsetzung am Brückenbauwerk M190 (Auf der Komm) - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Auftragsvergabe: Sanierung Niederschlagsentwässerungsleitung L 136 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.5: Förderantrag Erhaltungsinvestitionen kommunale Verkehrsinfrastruktur Straßen und Radwege: Auftragsvergabe - Einstimmig, 0 Enthaltung(en)
+- TOP 5.6: Engelsdorf - Beauftragung der zusätzlichen Straßenentwässerungsmaßnahmen im Zuge der Hochwasserschutzmaßnahmen Engelsdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 5.7: Erneuerung Fahrbahndecke Kapuzinerstraße - Bereitstellung überplanmäßiger Haushaltsmittel - Einstimmig, 0 Enthaltung(en)
+- TOP 5.8: Veräußerung Feuerwehrgerätehaus Schleiden, Landstraße 21 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.9: Stundung von Gewerbesteuer - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Stundung von Gewerbesteuer - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
