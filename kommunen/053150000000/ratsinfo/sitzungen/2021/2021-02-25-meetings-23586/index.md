@@ -1,0 +1,54 @@
+# 1. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-25T17:10:00+01:00
+- Ende: 2021-02-25T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23586
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23586
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00803629.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00803629.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00803629.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin des Wirtschaftsausschusses und ihrer Stellvertretungen - ungeändert beschlossen
+- TOP -: Verpflichtung der sachkundigen Bürgerinnen und Bürger sowie der sachkundigen Einwohnerinnen und Einwohner
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Vorstellung der Studie "Vitale Innenstädte" - Sache ist erledigt
+- TOP 1.2: Bericht zur aktuellen Situation im Einzelhandel
+- TOP 1.3: Bericht zur aktuellen Situation der Tourismusbranche
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der SPD-Fraktion und der Fraktion Die Linke. betr.: "Planungssicherheit für Großmarkthändler und Ihre Beschäftigten oder Vorrang für Klientelpolitik?" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion und der Fraktion Die Linke betreffend "Planungssicherheit für Großmarkthändler und Ihre Beschäftigten oder Vorrang für Klientelpolitik" - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "(Außen-) Gastronomie und Handel" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Gewerbemieten" - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Gemeinsamer Dringlichkeitsantrag betr.: "Einführung eines Kölngutscheins, Verlängerung der Förderrichtlinien für das Zentrenbudget sowie Wegfall der Gebühren für die Warenauslagen des Einzelhandels" - geändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Erziehung und Unterricht in Köln - Kenntnis genommen
+- TOP 11.2: Sachstand zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 11.3: Einpendeln und Auspendeln in Köln - Über Muster beim Berufspendeln 2019 - zurückgestellt
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: KölnBusiness Wirtschaftsförderung für Krisenkommunikation und Standortmarketing ausgezeichnet - Kenntnis genommen
+- TOP 14.2: Marelli - Neuer Antrieb für die Kölner Automobilbranche - Kenntnis genommen
+- TOP 14.3: Bericht zur aktuellen Situation der Wirtschaft
+- TOP 15: Mitteilungen
+- TOP 15.1: Fortsetzung Logistikforum - Kenntnis genommen
+- TOP 15.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 15.3: Gutachten zur Ermittlung des künftigen Wohnungsbedarfes und der Wohnungsnachfrage in Köln bis 2040 liegt vor: Weitere Vorgehensweise - Kenntnis genommen
+- TOP 15.4: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 17: Mündliche Anfragen
