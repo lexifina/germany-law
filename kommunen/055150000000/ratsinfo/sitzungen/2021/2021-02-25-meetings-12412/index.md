@@ -1,0 +1,53 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-02-25T17:05:00+01:00
+- Ende: 2021-02-25T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/523
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12412
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12412
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00478026.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführerin und eines stellvertretenden Schriftführers für die Sitzungen des Ausschusses für Verkehr und Mobilität - einstimmig beschlossen
+- TOP 2: Einführung und Verpflichtung neuer Mitglieder
+- TOP 3: Tagesordnung
+- TOP 3.1: Genehmigung der Tagesordnung
+- TOP 3.2: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird
+- TOP 4: Beratung des Entwurfs des Haushaltsplans 2021, des Finanzplans und des Investitionsprogramms 2021 - 2024
+- TOP 4.1: Haushaltsanträge
+- TOP 4.2: Veränderungslisten - einstimmig beschlossen
+- TOP 4.3: Produktgruppe 12.01 - mehrheitlich beschlossen
+- TOP 5: Streckensperrung Münster Hbf - Hiltrup (Bericht des NWL)
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 7: Anträge / Anfragen / Eingaben
+- TOP 7.1: Bekanntgaben
+- TOP 7.2: Stellungnahmen der Verwaltung
+- TOP 8: Verkehrsplanung
+- TOP 8.1: Lärmaktionsplan der 3. Runde für die Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 8.2: Teilnahme am Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" mit dem Beitrag - ohne Beschlussfassung geschoben
+- TOP 8.3: Verstetigung der Teilnahme der Stadt Münster an dem Klima-Bündnis Wettbewerb "STADTRADELN" - einstimmig beschlossen
+- TOP 8.4: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - zur Kenntnis genommen
+- TOP 8.5: Veloroute Münster-Telgte, Teilabschnitt Bohlweg: verkehrliche Veränderung und Öffentlichkeitsarbeit - zur Kenntnis genommen
+- TOP 8.6: Grundsatzbeschluss zum Fahrradparken: Das "1.000 Fahrradstellplätze-Programm" - einstimmig geändert beschlossen
+- TOP 8.7: Verkehrsversuche 2021
+- TOP 8.8: Attraktivierung der Kanalpromenade zwischen Föhrenweg und der Einmündung Richtung Vahlbusch: Umwidmung der Fahrradstraße in einen gemeinsamen Geh- und Radweg - einstimmig beschlossen
+- TOP 8.9: Fahrplanmaßnahmen der - einstimmig geändert beschlossen
+- TOP 8.10: Multi- und intermodale Mobilität stärken - Neue Mobilstationen für Münster - ohne Beschlussfassung geschoben
+- TOP 8.11: Machbarkeitsstudie für einen Bahnhaltepunkt im Bereich Münster-Geist/Preußenstadion - einstimmig beschlossen
+- TOP 8.12: Masterplan Mobilität 2035+ - Sachstand und Ergebnisse der HH-Befragung
+- TOP 8.13: Entwurf der Stellungnahme der Stadt Münster zur Reaktivierung der SPNV WLE-Strecke Sendenhorst-Münster, Strecke 9213 von Bahn-km 14,370 bis Bahn-km 35,531 m im Planfeststellungsverfahren - einstimmig beschlossen
+- TOP 8.14: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster" - einstimmig geändert beschlossen
+- TOP 8.15: Bewohnerparken Hansaviertel - ohne Beschlussfassung geschoben
+- TOP 8.16: Vergabe einer verkehrlichen Untersuchung zur Betrachtung der Potentiale des Umweltverbundes sowie der Untersuchung des Erfordernisses des (vierstreifigen) Ausbaus der Bundesstraße B51 zwischen dem Anschluss B481 und Telgte - einstimmig geändert beschlossen
+- TOP 8.17: Stadtverträgliche Mobilität: Moderiertes Dialogverfahren zur Neugestaltung des Straßenraums - ohne Beschlussfassung geschoben
+- TOP 8.18: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Dingbängerweg - Zwei Querungshilfen im Bereich zwischen Weseler Straße und Mecklenbecker Straße - mehrheitlich geändert beschlossen
+- TOP 9.2: Neubau eines Geh- und Radweges an der K21 Gimbter Straße - einstimmig beschlossen
+- TOP 9.3: Anbindung des York-Quartiers an den Albersloher Weg in Höhe Gremmendorfer Weg (B-Plan Nr. 582) - von der Tagesordnung abgesetzt
+- TOP 10: Verschiedenes
