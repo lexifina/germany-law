@@ -1,0 +1,91 @@
+# 41. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-02-25T16:30:00+01:00
+- Ende: 2021-02-25T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5674
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5674
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=350276
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Wochenmärkte wieder für Non-Food-Artikel öffnen - vertagt
+- TOP 3: Konsensliste - vertagt
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Personelles / Wahlen - (offen)
+- TOP 5.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 2 - gewählt
+- TOP 5.2: Abberufung eines stellvertretenden beratenden Mitgliedes und Berufung zum beratenden Mitglied des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vertagte Tagesordnungspunkte - (offen)
+- TOP 6.1: • Entwurf des Bebauungsplans 9-64 nebst Begründung • Entwurf der Rechtsverordnung zum Bebauungsplan 9-64 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Schmöckwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Bürgerfragestunde - beantwortet
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Mitteilungen des Vorstehers Nr. VIII-43 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1: Zwischenberichte - (offen)
+- TOP 9.1.1: Parksituation in der Straße "Am Falkenberg" verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.2: Zusätzliche Planstellen für das Dokumentationszentrum NS-Zwangsarbeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Schlussberichte - (offen)
+- TOP 9.2.1: Standort für CABUWAZI in Alt-Treptow dauerhaft sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.2: Weitergabe von Fundrädern an soziale Einrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.3: Ausstellungen im Rathaus Treptow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.4: Sondermittel für das Schlossplatztheater (SM 16-36) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.5: Zeitlich begrenzte Parkerlaubnis in der Lindenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.6: "BerlKönig" als Rufbussystem weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.7: Maßgabebeschluss zur Aufhebung der qualifizierten Haushaltssperre im Titel für Tarifbeschäftigte des Ordnungsamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.8: Bezeichnung der Gedenkstätte zur Köpenicker Blutwoche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.9: Erneuerung des Kulturpolitischen Kalenders - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für die AG Städtepartnerschaft Treptow-Köpenick – Cajamarca (SM 21-04) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Überquerungshilfen für Eichhörnchen im Bezirk ausweiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Mahd im Sommer - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Anbringen einer erklärenden Informationstafel an der uralten Ulme in der Dorfstraße im ehemaligen Fischerdorf Rahnsdorf - in der BVV abgelehnt
+- TOP 12.4: Für Leben im toten Winkel – Trixi-Spiegel gegen Abbiegeunfälle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Regengärten für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bestattungsmöglichkeiten für "Sternenkinder" auf den kommunalen Friedhöfen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Sicher über den Britzer Verbindungskanal radeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Internetzugänge auch in Hortgebäuden bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: E-Bike-Sharing: Dienstfahrräder flexibel zum Pendeln nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Tarifgerechte Bezahlung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Klimagasemissionen in öffentlichen Einrichtungen endlich verringern - vertagt
+- TOP 12.13: Krafttanken auf Parkbänken - vertagt
+- TOP 12.14: Rettungsschwimmer am Strandbad Müggelsee einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Kostentransparenz über das Verwaltungsverfahren bei Sondermitteln der BVV und Kiezkassenmitteln - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Runder Tisch "Häusliche Gewalt" im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-66 ("Marktpassage"), Ortsteil Adlershof hier: Änderungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XV-27b ("Nördliche Wegedornstraße") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XV-37ec ("Gartenstadt Falkenberg – Grottewitzstraße") hier: Einstellung des Bebauungsplanverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Finanzierung temporärer Schulstandorte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Missbilligung des Verhaltens von Bezirksstadtrat Geschanowski gegenüber der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Durchgängige Digitalisierung im Bezirksamt - überwiesen
+- TOP 14.3: Insel "Müggelwerder" für das Gemeinwohl sichern - überwiesen
+- TOP 14.4: Gründerstraße in Bohnsdorf wieder verkehrssicher machen - überwiesen
+- TOP 14.5: Kreuzungen in Alt-Treptow sicherer machen - überwiesen
+- TOP 14.6: Veranstaltungen in kommunalen Kultureinrichtungen durch Luftfiltergeräte sicherer machen - überwiesen
+- TOP 14.7: Standortkonferenz Schöneweide - Zwischenbilanz und Perspektiven - überwiesen
+- TOP 14.8: Allende-Viertel retten – Nachverdichtung stoppen - vertagt
+- TOP 14.9: "Historische Architektur in Treptow-Köpenick: HEUTE" dauerhaft erlebbar machen - überwiesen
+- TOP 14.10: Mittagsgerichte to go durch Schulcaterer für Kinder aus benachteiligten Haushalten - überwiesen
+- TOP 14.11: Raumnutzungskonzept für Schule an der Wuhlheide und Kiezklub KES - überwiesen
+- TOP 14.12: Tarifumstellung für Jugendarbeit umsetzen - überwiesen
+- TOP 14.13: Vollständige Antrags- und Anfragendokumentation in der SPK - überwiesen
+- TOP 14.14: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - überwiesen
+- TOP 14.15: Zusätzlichen Halt der Straßenbahn in der Dörpfeldstraße errichten - überwiesen
+- TOP 14.16: Denkmalschutz für das Eckgebäude Regattastraße 160 / Büxensteinallee 2 in Grünau - überwiesen
+- TOP 14.17: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - überwiesen
+- TOP 14.18: Sondernutzung von Straßenland – Begrenzung der Anzahl an Wahlplakaten - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Tempo 30 in der Dörpfeldstraße ermöglichen - überwiesen
+- TOP 14.20: Informationsstelen, Gedenktafeln und Audiospaziergänge zur Mahnung an die SED-Diktatur - vertagt
+- TOP 14.21: Vorrang für den ÖPNV in Bohnsdorf - überwiesen
+- TOP 14.22: Erklärende Informationstafeln für Naturdenkmäler - ohne Änderungen in der BVV beschlossen
+- TOP 14.23: Keine Zweckentfremdung von Mitteln, die für Kinder und Jugendliche bestimmt sind - überwiesen
+- TOP 15: Große Anfragen - (offen)
