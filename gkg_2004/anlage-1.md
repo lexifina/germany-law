@@ -362,7 +362,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | Abschnitt 4 Besondere Verfahren nach dem Aktiengesetz und dem Umwandlungsgesetz |
 | Unterabschnitt 1 Erster Rechtszug |
 | 1640 | Verfahren nach § 148 Abs. 1 und 2 des Aktiengesetzes .......... | 1,0 |
-| 1641 | Verfahren nach den § 246a des Aktiengesetzes (auch i. V. m. § 20 Abs. 3 Satz 4 SchVG), nach § 319 Abs. 6 des Aktiengesetzes (auch i. V. m. § 327e Abs. 2 des Aktiengesetzes) oder nach § 16 Abs. 3 UmwG .......... | 1,5 |
+| 1641 | Verfahren nach § 246a des Aktiengesetzes (auch i. V. m. § 20 Abs. 3 Satz 4 SchVG), nach § 319 Abs. 6 des Aktiengesetzes (auch i. V. m. § 327e Abs. 2 des Aktiengesetzes) oder nach § 16 Abs. 3 UmwG .......... | 1,5 |
 | 1642 | Beendigung des gesamten Verfahrens ohne Entscheidung: Die Gebühren 1640 und 1641 ermäßigen sich auf .......... | 0,5 |
 |  | (1) Die Gebühr ermäßigt sich auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird. (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | Unterabschnitt 2 Beschwerde |
