@@ -1,0 +1,73 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2021-02-25T18:00:00+01:00
+- Ende: 2021-02-25T00:00:00+01:00
+- Ort: Alte Synagoge
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1198
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1198
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00048711.pdf
+
+## Tagesordnung
+
+- TOP 1: Vermögenshaushalt
+- TOP 1.1: Beratung des Vermögenshaushaltes 2021 mit Finanzplanung 2020 - 2024
+- TOP 1.1.1: Anfrage von Stadträtin Schmidt Verschiebung von Maßnahmen
+- TOP 1.1.2: 0600 9631 - Umstellung auf elektronisches Schließsystem Anfrage von Stadträtin Schmidt
+- TOP 1.1.3: 0600 9459 - Sanierung der Rathausfassade Anfrage von Stadträtin Schwab
+- TOP 1.1.4: 1300 9357 - Brandschutz, Beschaffung von Fahrzeugen Anfrage von Stadträtin Schmidt
+- TOP 1.1.5: 3700 9885 - Zuschuss f. behindertengerechten Zugang zur Kirche Sickershausen Bitte von Stadträtin Schmidt
+- TOP 1.1.6: 3501/3521 9611 - Sanierung Muschelbrunnen Luitpoldbau Anfrage von Stadträtin Schwab
+- TOP 1.1.7: 3400 9349 - Erneuerung der Lauben Anfrage von Stadträtin Dr. Kramer-Grünwald
+- TOP 1.1.8: 4351 9453 - Baumaßnahmen zur Umsetzung Konzept Obdachlosenfürsorge, Planungskosten Anfrage von Stadträtin Schmidt
+- TOP 1.1.9: 4605 9420 - Haus für Jugend und Familie Antrag von Stadtrat Sanzenbacher - abgelehnt
+- TOP 1.1.10: 4644 9880 - Waldkindergarten, Zuschuss auf Beschaffung eines Bauwagens Anfrage von Stadträtin Schmidt
+- TOP 1.1.11: 4701 9881 - Investitionskostenzuschuss an die Aplawia e. V. Anfrage von Stadtrat Markert
+- TOP 1.1.12: 5652 9450 - Generalsanierung Dreifachturnhalle Sickergrund Anfrage von Stadtrat Moser
+- TOP 1.1.13: 6300 9560 - Spurrillenbeseitigung Süd-/Westtangente 6486 9590 - Neubau Brücke Jahnstraße über Eherieder Mühlbach Hinweis von Stadtrat Pauluhn
+- TOP 1.1.14: 5651 9630 - Florian-Geyer-Halle Anfrage von Stadtrat Sanzenbacher
+- TOP 1.1.15: 5830 9501 - Park- und Stellplatzanlage am Deusterareal Anfrage von Stadträtin Schmidt
+- TOP 1.1.16: 6101 9590 - Allg. Gutachten und Planungskosten für Bauleitplanung bzw. vorbereitende Untersuchungen Anfrage von Stadtrat Sanzenbacher
+- TOP 1.1.17: 6151 9882 - Städtebauliche Sanierungsmaßnahmen, Privatmaßnahmen in Sanierungsgebieten Anfrage von Stadtrat Sanzenbacher
+- TOP 1.1.18: 6306 9502/9592 - Umgestaltung Bahnhofsvorplatz 6810 9592 - Errichtung Busbahnhof, Außenanlagen P+R Nord Anfrage von Stadtrat Paul
+- TOP 1.1.19: 6811 9510 - Neugestaltung und Befestigung Parkplatz Bleichwasen Nord Anfrage von Stadträtin Kramer-Grünwald - abgelehnt
+- TOP 1.1.20: 6300 9562 und 7016 9535 - Breslauer Straße, Erneuerung Straße und Kanal Antrag von Stadtrat Heisel - abgelehnt
+- TOP 1.1.21: 6902 9580 Umgestaltung Mainufer/Stadt Graben Bereich Glauberstraße Anfrage von Stadtrat Sanzenbacher - abgelehnt
+- TOP 1.1.22: 6403 9560 - Neugestaltung Sickershäuser Straße im Bereich KIGA St. Vinzenz Anfrage von Stadträtin Schmidt
+- TOP 1.1.23: 7000 9535 - Kanalsanierungen gem. Prioritätenliste Kanalbau Anfrage von Stadtrat Popp
+- TOP 1.1.24: 6404 9560 - Sanierung Hindenburgring Nord mit Stichstraße Anfrage von Stadtrat Moser
+- TOP 1.1.25: 8551 9320 - Waldgrundstück in der Klinge von der BIMA Anfrage von Stadträtin Schwab
+- TOP 1.1.26: 7901 9350 - Besucherleitsystem für die Kitzinger Innenstadt Antrag von Stadtrat Sanzenbacher - beschlossen
+- TOP 1.1.27: 8810 9321 - Erwerb von Grundstücken allgemein und für künftige Baugebiete Anfrage von Stadträtin Schmidt
+- TOP 1.1.28: 8809 9401 - Befunduntersuchung Brunnen Kanzler-Stürtzel-Straße/Mühlbergstraße Anfrage von Stadtrat Sanzenbacher
+- TOP 1.1.29: 8801 9500/9590 - Errichtung Zwischenlagerfläche und überdachter Lagerraum für Böden, Aushubstoffe usw. auf dem Lagerplatz Goldberg Anfrage von Stadtrat Sanzenbacher
+- TOP 1.2: Anträge der Fraktionen zum Vermögenshaushalt
+- TOP 1.2.1: Anträge der SPD Stadtratsfraktion Kitzingen zum Vermögenshaushalt 2021
+- TOP 1.2.1.1: Klimakonzept - abgelehnt
+- TOP 1.2.1.2: Überarbeitung und Neugestaltung der Parkleitplanung - abgelehnt
+- TOP 1.2.1.3: Parkraumplanung - abgelehnt
+- TOP 1.2.1.4: Entwicklung eines städtischen ÖPNV - abgelehnt
+- TOP 1.2.1.5: Ausbau des Radwegenetzes in der Innenstadt und dem Bereich der Schulen - abgelehnt
+- TOP 1.2.1.6: Verbesserung der digitalen Ausstattung der städtischen Schulen
+- TOP 1.2.1.7: Konzepterstellung "SMART-City" - abgelehnt
+- TOP 1.2.1.8: Wohnraumschaffung/Wohnraumförderung - abgelehnt
+- TOP 1.2.1.9: Sanierungshilfen für Gebäude in der Innenstadt - abgelehnt
+- TOP 1.2.1.10: Konzepterstellung "Lokalstolz" - abgelehnt
+- TOP 1.2.1.11: Sanierung "Kreuzschlepper" - beschlossen
+- TOP 1.2.1.12: Einsparungsvorschlag; Umbau und Erweiterung Tourist-Info - abgelehnt
+- TOP 1.2.1.13: Einsparungsvorschlag; Neubau Haus für Jugend und Familie - abgelehnt
+- TOP 1.2.1.14: Einsparungsvorschlag; Neubau Brücke Jahnstraße
+- TOP 1.2.1.15: Einsparungsvorschlag; Kanalsanierung - abgelehnt
+- TOP 1.2.2: Anträge der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Vermögenshaushalt 2021 - Ohne Abstimmung
+- TOP 1.2.2.1: Aufstellen von Trinkwasserspendern als Klimaanpassungsmaßnahme - abgelehnt
+- TOP 1.2.2.2: Anschaffung von geräuscharmen Akku-Laubbläsern - abgelehnt
+- TOP 1.2.2.3: Bereitstellung von weiteren Mitteln für Gehölzpflanzungen und mobiles Grün - zurückgestellt
+- TOP 1.2.2.4: Bereitstellung von Mitteln für die Schaffung von sicheren Abstellmöglichkeiten für E-Bikes und Lastenfahrrädern - beschlossen
+- TOP 1.2.2.5: 6709 9582 - Straßenbeleuchtung, Umstellung auf LED Antrag von Stadträtin Schmidt - abgelehnt
+- TOP 1.2.3: Antrag der Bayernpartei Kitzingen zum Vermögenshaushalt 2021 Bereitstellung von Mitteln für Baumpflanzungen - beschlossen
+- TOP 2: Sonstiges
+- TOP 2.1: Anfrage von Stadtrat Markert Verlegung der Stadtratssitzungen in den Neuen Sitzungssaal
+- TOP 2.2: Dank von 2. Bürgermeister Freitag für die Durchführung der Haushaltsberatungen
