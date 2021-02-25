@@ -1,0 +1,85 @@
+# 4. Sitzung der Bezirksvertretung Nippes -- Die Sitzung fällt aus!!!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-02-25T17:00:00+01:00
+- Ende: 2021-02-25T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23803
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23803
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: LKW-Situation in Weidenpesch
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.:Vollgeparkter und beschädigter benutzungspflichtiger Radweg an der Niehler Straße (Az.: 02-1600-25/20) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Ausweisung Heckhofweg/Escherstraße als Fahrradstraße (Az.: 02-1600-208/20) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Aktueller Stand des WLAN-Ausbaus an Bahnhöfen - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.2: Mit Mülltonnen zugestellte Ladezonen in Nippes - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.3: Bäume auf der Kempener Straße - zurückgestellt
+- TOP 7.1.4: Bekämpfung der Coronapandemie im Stadtbezirk Nippes - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.5: Kreisverkehre im Stadtbezirk Nippes - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.6: Tempo 30 in den Stadtteilen Nippes und Mauenheim - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Jugendeinrichtungen im Stadtbezirk Nippes - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.2.2: Baumaßnahmen Kitas Zonser Straße 1a und Mehrheimer Straße 20 - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.2.3: Kontrollen in Niehl - zurückgestellt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ausweisung des Heckhofweges und eines Abschnitts der Escher Straße als Fahrradstraße sowie Rückbau der Escher Straße in diesem Bereich - zurückgestellt
+- TOP 8.1.2: Verkehrsberuhigung Lokomotivstraße - zurückgestellt
+- TOP 8.1.3: Barrierefreiheit An den Kreutzmorgen und Lippizianer Straße - zurückgestellt
+- TOP 8.1.4: Ausweisausgabeautomat am Bürgeramt Nippes - zurückgestellt
+- TOP 8.1.5: Wohnungsbau Nippes - zurückgestellt
+- TOP 8.1.6: Barierrefreies Nippes - zurückgestellt
+- TOP 8.1.7: Verkehrssicherheit vor der Mathilde-von-Mevissen-Grundschule - zurückgestellt
+- TOP 8.1.8: Verbesserung des Zugangs zur KVB-Haltestelle Kinderkrankenhaus über die Johannes-Müller-Straße - zurückgestellt
+- TOP 8.1.9: Verkehrsführung Ecke Boltensternstraße/Friedrich-Karl-Straße - zurückgestellt
+- TOP 8.1.10: Widmung von öffentlichen Flächen vor dem Haus Merheimer Straße 224 in Nippes - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung - zurückgestellt
+- TOP 8.1.11: Aufstellen von Pollern Auf dem Fuß- und Radweg Longericher Straße zwischen der Einmündung Schiefersburger Weg und Parkgürtel und verstärkte Kontrolle des ruhenden Verkehrs - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an die Lohseramoe e.V. - zurückgestellt
+- TOP 9.1.2: Vergabe bezirksorienteirter Mittel an die Sozialraumkoordination Bilderstöckchen - zurückgestellt
+- TOP 9.1.3: Einrichtung einer Fahrradstraße in der Etzelstraße und Müngersdorfer Straße - zurückgestellt
+- TOP -: Gemeinsamer Änderungsantrag von Grünen, Linken, GUT und Klima Freunden - zurückgestellt
+- TOP 9.1.4: Baubeschluss zur Jesuitengasse - zurückgestellt
+- TOP 9.1.5: Pop-Up-Radstreifen auf der Neusser Straße in Weidenpesch - zurückgestellt
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - zurückgestellt
+- TOP 9.2.2: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 9.2.3: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - zurückgestellt
+- TOP -: Gemeinsamer Änderungsantrag von Grünen, Linken, FDP und Klima Freunden - zurückgestellt
+- TOP 9.2.4: Satzung über die abweichende Herstellung der Erschließungsanlage Feldgärtenstraße von Hillesheimstraße bis Merkenicher Straße in Köln-Niehl - zurückgestellt
+- TOP 9.2.5: 10. Änderung des Gesamtverkehrskonzepts der Stadt Köln - zurückgestellt
+- TOP 9.2.6: DE Zuschuss Renn-Verein 2021 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Generalsanierung der Schlackstraße, hier: Mitteilung über Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020 - zurückgestellt
+- TOP 10.2.2: Zielvereinbarung 2021 Bürgerzentrum Nippes - zurückgestellt
+- TOP 10.2.3: Gemeinschaftsprojekt „Hecken und Säume“ - zurückgestellt
+- TOP 10.2.4: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - zurückgestellt
+- TOP 10.2.5: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - zurückgestellt
+- TOP 10.2.6: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - zurückgestellt
+- TOP 10.2.7: Änderungen zum Fahrplanwechsel 2020 - zurückgestellt
+- TOP 10.2.8: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - zurückgestellt
