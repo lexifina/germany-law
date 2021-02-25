@@ -1,0 +1,54 @@
+# Bau- und Feuerwehrausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-02-25T17:00:00+01:00
+- Ende: 2021-02-25T19:50:00+01:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRBlttnN39qqbkzjxVBJ5-g
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20513
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfwLjfzIwcvTmk5Y6y8svnk2ucANrPITfATHdr9v5-Ph/Bekanntmachung_Bau-_und_Feuerwehrausschuss_25.02.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVrNfWEnoRzS3HEzsK-ecNHXbfnt1GaXUuZctNaA1CAa/Oeffentliche_Niederschrift_Bau-_und_Feuerwehrausschuss_25.02.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bau- und Feuerwehrausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Bau- und Feuerwehrausschusses vom 03.12.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Bauliche Maßnahmen an den Feuerwehrgerätehäusern gem. Brandschutzbedarfsplan und Bericht der Unfallkasse NRW - Einstimmiger Beschluss
+- TOP 4.: Bauliche Maßnahmen gem. Brandschutzbedarfsplan und Unfallverhütungsvorschriften am Feuerwehrgerätehaus Nöthen - Einstimmiger Beschluss
+- TOP 5.: Bauliche Maßnahmen gem. Brandschutzbedarfsplan und Unfallverhütungsvorschriften am Feuerwehrgerätehaus Bad Münstereifel - Einstimmiger Beschluss
+- TOP 6.: Bauliche Maßnahmen gem. Brandschutzbedarfsplan und Unfallverhütungsvorschriften am Feuerwehrgerätehaus Eicherscheid - Einstimmiger Beschluss
+- TOP 7.: Umsetzung Brandschutzbedarfsplan; hier: Fahrzeugkonzept - Beschluss mit 1 Nein-Stimme und 2 Enthaltungen
+- TOP -: Umsetzung Brandschutzbedarfsplan; hier: Fahrzeugkonzept - Beschluss mit 1 Nein-Stimme und 1 Enthaltung
+- TOP 8.: Straßenbenennung einer Straße in Bad Münstereifel-Iversheim hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss
+- TOP 9.: Veräußerung eines Löschfahrzeugs, Rüstwagen Houverath - Einstimmiger Beschluss
+- TOP 10.: Straßenbenennung einer Straße in Bad-Münstereifel Eschweiler, Auf Schildrig - Einstimmiger Beschluss
+- TOP 11.: Straßenausbauprogramm hier: a) Grundkonzept b) Straßen- und Wegekonzept nach § 8 a) Kommunalabgabengesetz (KAG) NRW - Einstimmiger Beschluss
+- TOP 12.: Straßenausbau Fichtenweg in Bad Münstereifel-Nitterscheid hier: Maßnahmenbeschreibung - Einstimmiger Beschluss
+- TOP 13.: Straßenausbau Varusstraße in Bad Münstereifel-Kalkar hier: Maßnahmenbeschreibung - Einstimmiger Beschluss
+- TOP 14.: ISEK A.12.1 Neuordnung / Umgestaltung Stadtpark 1.BA Europaplatz hier: Maßnahmenbeschreibung - Beschluss mit 2 Enthaltungen
+- TOP 15.: Sanierung der Stadtmauer im Bereich Wallgraben auf der Stadtinnenseite (Mauerabschnitt 1.1) hier: Maßnahmenbeschreibung und Vergabekriterium - Einstimmiger Beschluss
+- TOP 16.: TGA Planung-Digitalisierung der Schulen in Bad Münstereifel hier: Ausschreibung der TGA Planung - Beschluss mit 1 Enthaltung
+- TOP 17.: Ersatzbeschaffung eines Transportfahrzeuges für den Städt. Bauhof - Einstimmiger Beschluss
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Übersicht der geleisteten Dienste der Feuerwehr im Jahre 2020
+- TOP 18.2: Rettungspunkte im Wald hier: Anfrage der UWV-Fraktion vom 04.02.2021
+- TOP 18.3: Haftungsfragen und Kostenübernahme durch Schäden an Straßen und Wegen hier: Antrag der CDU-Fraktion vom 10.02.2021
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Grunderwerb in Bad Münstereifel, Kölner Straße - Empfehlungsbeschluss mit 2 Enthaltungen
+- TOP -: Grunderwerb in Bad Münstereifel, Kölner Straße
+- TOP -: Grunderwerb in Bad Münstereifel, Kölner Straße
+- TOP 2.: Sanierung des Biologiefachraumes im St. Michael Gymnasium hier : Auftragsvergabe Baugewerke - Einstimmiger Beschluss
+- TOP 3.: Straßenausbau Fichtenweg in Bad Münstereifel-Nitterscheid hier: Ausschreibung und Auftragsvergabe - Einstimmiger Beschluss
+- TOP 4.: Straßenausbau Varusstraße in Bad Münstereifel-Kalkar hier: Ausschreibung und Auftragsvergabe - Einstimmiger Beschluss
+- TOP 5.: ISEK A.12.1 Neuordnung / Umgestaltung Stadtpark 1.BA Europaplatz hier: Ausschreibung und Auftragsvergabe - Beschluss mit 2 Enthaltungen
+- TOP 6.: Sanierung der Stadtmauer im Bereich Wallgraben auf der Stadtinnenseite (Mauerabschnitt 1.1) hier: Auftragsvergabe der Ingenieurleistungen und der Mauerwerksarbeiten - Einstimmiger Beschluss
+- TOP 7.: TGA Planung-Digitalisierung der Schulen in Bad Münstereifel hier: Ausschreibung der TGA Planung - Einstimmiger Beschluss
+- TOP -: TGA Planung-Digitalisierung der Schulen in Bad Münstereifel hier: Ausschreibung der TGA Planung
+- TOP 8.: Ersatzbeschaffung eines Transportfahrzeuges für den Städt. Bauhof hier: Auftragsvergabe - Einstimmiger Beschluss
+- TOP 9.: Erschließungsvertrag Limbach bauliche Erweiterung an der Straße „Im Bendchen“ hier: Antrag vom 18.10.2020 Bauinteressenten - Einstimmiger Beschluss
+- TOP 10.: Anfragen und Mitteilungen
+- TOP 10.1: Einbau einer Licht- und Beschallungsanlage in der Konviktkapelle Hier: Ergebnis der Ausschreibung
