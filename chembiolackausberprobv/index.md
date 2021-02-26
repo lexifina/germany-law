@@ -2,3 +2,4 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 11 Übergangsregelung](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)

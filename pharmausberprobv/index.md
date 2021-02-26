@@ -2,3 +2,4 @@
 Berufsausbildung zum Pharmakanten/zur Pharmakantin
 
 - [§ 5 Übergangsregelung](0005.md)
+- [§ 6 Inkrafttreten, Außerkrafttreten](0006.md)
