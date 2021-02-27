@@ -170,7 +170,7 @@ Eilenburg | Vom Landkreis Nordsachsen die Gemeinden Bad Düben, Delitzsch, Dober
 Freiberg | Vom Landkreis Mittelsachsen die Gemeinden Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Dorfchemnitz, Eppendorf, Flöha, Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Halsbrücke, Leubsdorf, Lichtenberg/Erzgeb., Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Sayda, Weißenborn/Erzgeb. |  |  |  | 
 Görlitz | Vom Landkreis Görlitz die Gemeinden Bad Muskau, Boxberg/O.L., Gablenz, Görlitz, Groß Düben, Hähnichen, Hohendubrau, Horka, Kodersdorf, Königshain, Krauschwitz/O.L., Kreba-Neudorf, Markersdorf, Mücka, Neißeaue, Niesky, Quitzdorf am See, Reichenbach/O.L., Rietschen, Rothenburg/O.L., Schleife, Schöpstal, Trebendorf, Vierkirchen, Waldhufen, Weißkeißel, Weißwasser/O.L. |  |  |  | 
 Grimma | Landkreis Leipzig |  |  |  | 
-Hoyerswerda | Vom Landkreis Bautzen die Gemeinden Arnsdorf, Bernsdorf, Crostwitz, Elsterheide, Elstra, Großnaundorf, Großröhrsdorf, Haselbachtal, Hoyerswerda, Kamenz, Königsbrück, Laußnitz, Lauta, Lichtenberg, Lohsa, Nebelschütz, Neukirch, Ohorn, Oßling, Ottendorf-Okrilla, Panschwitz-Kuckau, Pulsnitz, Räckelwitz, Radeberg, Ralbitz-Rosenthal, Schönteichen, Schwepnitz, Spreetal, Steina, Wachau, Wittichenau |  |  |  | 
+Hoyerswerda | Vom Landkreis Bautzen die Gemeinden Arnsdorf, Bernsdorf, Crostwitz, Elsterheide, Elstra, Großnaundorf, Großröhrsdorf, Haselbachtal, Hoyerswerda, Kamenz, Königsbrück, Laußnitz, Lauta, Lichtenberg, Lohsa, Nebelschütz, Neukirch, Ohorn, Oßling, Ottendorf-Okrilla, Panschwitz-Kuckau, Pulsnitz, Räckelwitz, Radeberg, Ralbitz-Rosenthal, Schwepnitz, Spreetal, Steina, Wachau, Wittichenau |  |  |  | 
 Leipzig I, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke | Bewertung des Grundbesitzes | Leipzig II |  | 
  | Alt-West |  |  |  | 
  | Nord |  |  |  | 
@@ -189,7 +189,7 @@ Mittweida | Vom Landkreis Mittelsachsen die Gemeinden Altmittweida, Burgstädt, 
 Oschatz | Vom Landkreis Nordsachsen die Gemeinden Arzberg, Beilrode, Belgern-Schildau, Cavertitz, Dahlen, Dommitzsch, Dreiheide, Elsnig, Liebschützberg, Mockrehna, Mügeln, Naundorf, Oschatz, Torgau, Trossin, Wermsdorf |  |  |  | 
 Pirna | Landkreis Sächsische Schweiz-Osterzgebirge |  |  |  | 
 Plauen | Vogtlandkreis |  |  |  | 
-Schwarzenberg | Vom Erzgebirgskreis die Gemeinden Aue, Bad Schlema, Bockau, Breitenbrunn, Eibenstock, Grünhain-Beierfeld, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Stützengrün, Zschorlau |  |  |  | 
+Schwarzenberg | Vom Erzgebirgskreis die Gemeinden Aue-Bad Schlema, Bockau, Breitenbrunn, Eibenstock, Grünhain-Beierfeld, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Stützengrün, Zschorlau |  |  |  | 
 Stollberg | Vom Erzgebirgskreis die Gemeinden Auerbach, Burkhardtsdorf, Gornsdorf, Hohndorf, Jahnsdorf/Erzgeb., Lugau/Erzgeb., Neukirchen, Niederdorf, Niederwürschnitz, Oelsnitz/Erzgeb., Stollberg/Erzgeb., Thalheim/Erzgeb., Zwönitz |  |  |  | 
 Zschopau | Vom Erzgebirgskreis die Gemeinden Amtsberg, Börnichen/Erzgeb., Deutschneudorf, Drebach, Gornau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhainichen, Heidersdorf, Marienberg, Olbernhau, Pockau-Lengefeld, Seiffen/Erzgeb., Wolkenstein, Zschopau |  |  |  | 
 Zwickau | Landkreis Zwickau |  |  |  | 
