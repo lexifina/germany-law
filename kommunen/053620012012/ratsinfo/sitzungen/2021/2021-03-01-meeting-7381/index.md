@@ -1,0 +1,75 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-03-01T17:02:00+01:00
+- Ende: 2021-03-01T22:16:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZHnyMHS0aYCI7ySE8Tu86w
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7381
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSzkdRWK9FamxYyD9vfnMMMNPVuenA7AAEyd-HxGAPJl/Bekanntmachung_Rat_01.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfp7eMJpSHSVdN8EG3Q7s9gK9SyXYDVmLRuq-fLeVQvj/Oeffentliche_Niederschrift_Rat_01.03.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: "Seebrücke Brühl"
+- TOP 2.: Niederschrift vom 14.12.2020
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Seebrücke Brühl Bezug: Bürgerantrag nach § 24 GO der "Seebrücke Brühl" c/o Ralph-Werner Jeckel vom 26.01.2021; Vorl.-Nr.: 26/2021
+- TOP 4.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2021 - (kein Text vorhanden)
+- TOP 5.: Regelungen zur vorläufigen Haushaltsführung
+- TOP 6.: Briefwahl des Inklusionsbeirates am 29.01.2021 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 7.: Wahl des Präsidiums und des Hauptausschusses des Städte- und Gemeindebundes NRW hier: Entsendung von Delegierten für die Mitgliederversammlung - (kein Text vorhanden)
+- TOP 8.: Vertretung der Stadt Brühl im Wasser- und Bodenverband Dickopsbach -Verbandsversammlung- - (kein Text vorhanden)
+- TOP 9.: Kulturstiftung für die Stadt Brühl hier: Besetzung des Stiftungsrates - (kein Text vorhanden)
+- TOP 10.: Benennung von zwei Mitgliedern / zwei stellvertretenden Mitgliedern bis 30.04.2023 sowie die Benennung von zwei Mitgliedern / zwei stellvertretenden Mitgliedern ab dem 01.05.2023 für den Aufsichtsrat der Wirtschaftsförderung Rhein-Erft GmbH (WfG) - (kein Text vorhanden)
+- TOP 11.: Wirtschaftsförderung Rhein-Erft GmbH (WfG) hier: Änderung/Anpassung des Gesellschaftsvertrages Bezug: HA 3.2.2020, Vorlage Nr. 11/2020, RAT 27.4.2020, Vorlage Nr. 148/2020 - (kein Text vorhanden)
+- TOP 12.: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 13.: Kultur- und Festivalprogramm Februar bis Juni 2021 IST-Stand und finanzielle Auswirkungen durch mögliche coronabedingte Absagen / Durchführungen - (kein Text vorhanden)
+- TOP 14.: Rathaus B -Budgetanpassung wg. Fassade - (kein Text vorhanden)
+- TOP 15.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Dringlichkeitsentscheidung über eine überplanmäßige Ausgabe zur Weiterleitung einer Bundeszuweisung nach dem Kommunalen Corona-Solidarpaket an die Stadt Battir - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 29.01.2021 - (kein Text vorhanden)
+- TOP 16.2: Umbesetzung im Ausschuss für Verkehr und Mobilität Bezug: Antrag der Fraktion Linke&Piraten vom 08.02.2021 - (kein Text vorhanden)
+- TOP 16.3: Entsendung sachkundiger Einwohnerinnen und Einwohner gemäß § 58 Abs. 4 GO NW in den Sozialausschuss - (kein Text vorhanden)
+- TOP 16.4: Bestellung der Mitglieder des Umlegungsausschusses und deren Stellvertreter - (kein Text vorhanden)
+- TOP 16.5: Umbesetzung in Ausschüssen Bezug: Antrag der CDU-Fraktion vom 26.02.2021 - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Aussetzung der Einrichtung eines Fahrradverleih-Systems Bezug: Antrag der FDP-Fraktion vom 02.12.2020 - (kein Text vorhanden)
+- TOP 17.2: Optimierung von Wohn- und Pflegeheimen für Pandemie-Fälle Bezug: Antrag der CDU-Fraktion vom 10.02.2021 - (kein Text vorhanden)
+- TOP 17.2.1: Optimierung von Wohn- und Pflegeheimen für Pandemie-Fälle Bezug: Antrag der CDU Fraktion vom 10.02.2021 - Vorlage Nr. 51/2021
+- TOP 17.3: Realisierung eines Küchenbetriebs in städtischer Trägerschaft Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 13.02.2021 - (kein Text vorhanden)
+- TOP 18.: Mitteilungen
+- TOP 18.1: Rhein Ruhr City 2032
+- TOP 19.: Anfragen
+- TOP 19.1: Sachstandsbericht Asylsystem Brühl Bezug: Anfrage der AfD-Fraktion vom 07.02.2021
+- TOP 19.1.1: Sachstandsbericht zum Asylsystem Brühl, Bezug: Anfrage der Fraktion der AfD vom 08.02.2021 - Vorlage 43/2021
+- TOP 19.2: Erweiterungsbedarf der Hochschule des Bundes Beschluss des Rates vom 14.12.2020 Vorlage Nr. 540/2020 Bezug: Anfrage der FDP-Fraktion vom 09.02.2021
+- TOP 19.3: Kontrollen durch die Ordnungsbehörde
+- TOP 19.4: Wortbeitrag Ratssitzung 14.12.2020
+- TOP 19.5: Auflösung der Unterkunft Lupinenweg
+- TOP 19.6: Auguste-Viktoria-Straße
+- TOP 19.7: Neutralitätsgebot des Bürgermeisters
+- TOP 19.8: Schließung der KiTa St. Margareta
+- TOP 19.9: Haltestelle Brühl-Mitte
+- TOP 19.10: Corona-Schnelltests
+- TOP 19.11: Bürgerbeteiligung
+- TOP 19.12: Baumfällungen in Brühl-West
+- TOP 19.13: Versorgung von Menschen in Quarantäne
+- TOP B): Nichtöffentliche Sitzung
+- TOP 20.: Annahme eines Grundstücks als Schenkung - (kein Text vorhanden)
+- TOP 21.: Kreditaufnahme - (kein Text vorhanden)
+- TOP 22.: Stadtwerke Brühl GmbH Wahl der Arbeitnehmervertretung - (kein Text vorhanden)
+- TOP 23.: Änderung des Gesellschaftsvertrages der Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 24.: Mitteilungen
+- TOP 24.1: Bebauungsplan 06.15
+- TOP 24.2: Bebauungsplan 05.10; Schwadorf
+- TOP 25.: Anfragen
+- TOP 25.1: Hochschule des Bundes I
+- TOP 25.1.1: Erweiterungsbedarf der Hochschule des Bundes hier: Anfrage der FDP-Fraktion vom 09.02.2021 zum Beschluss des Rates vom14.12.2020 Vorlage 540/2020
+- TOP 26.: Hochschule des Bundes II
