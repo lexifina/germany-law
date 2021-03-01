@@ -1,7 +1,7 @@
 # Gesetz über Naturschutz und Landschaftspflege im Freistaat Sachsen (Sächsisches Naturschutzgesetz – SächsNatSchG)
 erlassen als Artikel 1 des Gesetzes zur Bereinigung des Rechts des Naturschutzes und der Landschaftspflege
 Vom 6. Juni 2013
-Rechtsbereinigt mit Stand vom 1. Januar 2019
+Rechtsbereinigt mit Stand vom 1. März 2021
 Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Verwirklichung der Ziele (zu § 2 BNatSchG)
