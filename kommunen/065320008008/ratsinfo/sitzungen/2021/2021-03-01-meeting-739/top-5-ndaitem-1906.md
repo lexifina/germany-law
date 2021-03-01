@@ -1,0 +1,10 @@
+# TOP 5.: Vereinsförderrichtlinien; Zuschüsse für Unterhaltungsmaßnahmen in Sanitärräumen und Energiesparmaßnahmen
+
+- Sitzung: Haupt - und Finanzausschuss (45. Sitzung / 17. WP) (2021-03-01)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/1906
+- Ergebnis: 8 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- Beratung: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/consultation/480
+- Beschluss (Datei): Beschlußtext (Vereinsförderrichtlinien;
+Zuschüsse für Unterhaltungsmaßnahmen in Sanitärräumen und Energiesparmaßnahmen) https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVmy6jhBtXWkSEy-f7PGH0aJxTR9n42kbx0G2bt-BWUf/Beschlusstext_VL-24-2021_-oeffentlich-_Haupt_-_und_Finanzausschuss_01.03.2021.pdf
