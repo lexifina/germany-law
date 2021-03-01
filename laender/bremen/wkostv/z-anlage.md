@@ -1,11 +1,9 @@
-# Anlage - Kostenverzeichnis Wirtschaft und Häfen
+# Anlage - Kostenverzeichnis Wirtschaft
 Anlage
 (zu § 1)
-Kostenverzeichnis Wirtschaft und Häfen
+Kostenverzeichnis Wirtschaft
 Nr. | Kostentatbestand | Kostensatz | 
 12 | Öffentliche Sicherheit und Ordnung |  | 
-122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten |  | 
-122.09 | Genehmigung zum Gebrauch von offenem Feuer im Hafengebiet | 11,50 bis 78,00 | 
 123 | Geldwäscheprävention nach dem Geldwäschegesetz (GwG) |  | 
 123.01 | Befreiung von der Dokumentation der Risikoanalyse nach § 5 GwG | 50,00 bis 1 000,00 | 
 123.02 | Anzeige der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 50,00 bis 1 000,00 | 
@@ -38,19 +36,6 @@ Nr. | Kostentatbestand | Kostensatz |
  | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
 130.12 | Beschäftigungs-/Tätigkeitsverbot nach § 25 Absatz 3 ProstSchG | 250,00 bis 2 500,00 | 
 130.13 | Nachkontrolle eines Prostitutionsgewerbebetriebes nach den §§ 29 bis 31 ProstSchG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-143 | Fischereiwesen |  | 
-143.00 | Fischereischein mit Fischereiprüfung | 64,00 | 
-143.01 | Fischereischein nach § 9 Fischereigesetz (Stockangler) | 32,00 | 
-143.02 | Zweitausfertigung eines Fischereischeines | 20,00 | 
-143.03 | Bestellung eines Fischereiaufsehers | gebührenfrei | 
-143.04 | Aufhebung der Bestellung eines Fischereiaufsehers | gebührenfrei | 
-143.05 | Maßnahmen zur Durchsetzung der Hegeverpflichtung gemäß § 18 Fischereigesetz | 32,00 bis 97,00 | 
-143.06 | Maßnahmen nach § 19 Abs. 2 Fischereigesetz | gebührenfrei | 
-143.07 | Genehmigung oder Versagung von Veranstaltungen gemäß § 19 Abs. 3 Fischereigesetz | 64,00 bis 193,00 | 
-143.08 | Ausnahmen gemäß § 21 Fischereigesetz (Fangmethoden) | 64,00 bis 193,00 | 
-143.09 | Anerkennung, Rücknahme und Widerruf der Anerkennung von Fischereivereinen gemäß § 29 Fischereigesetz | 129,00 bis 322,00 | 
-143.10 | Versagung, Widerruf und Rücknahme von Fischereischeinen | 64,00 bis 129,00 | 
-143.11 | Maßnahmen gemäß § 25 Abs. 2 Fischereigesetz | gebührenfrei | 
 15 | Gewerbewesen (aus genommen Gaststättenwesen) |  | 
 150 | Gewerbeordnung (GewO) und Durchführungsvorschriften |  | 
 150.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gewerbeangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
@@ -205,40 +190,3 @@ Nr. | Kostentatbestand | Kostensatz |
 703.02 | Sonstige Genehmigungen und andere Amtshandlungen nach dem Börsengesetz, für die weder eine besondere Gebühr bestimmt noch Gebührenfreiheit vorgesehen ist. | 100,00 bis 5.000,00 | 
 711 | Flurbereinigung |  | 
 711.00 | Amtshandlungen, die der Durchführung der Flurbereinigung dienen | gebührenfrei | 
-80 | Häfen |  | 
-800 | Allgemeine Hafenfragen, Ordnung u. Sicherheit in den Häfen |  | 
-800.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen und andere Amtshandlungen in Hafenangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | 5,00 bis 2.500,00 | 
-800.01 | Bescheinigungen in Hafenangelegenheiten, für die in diesem Gebührenverzeichnis oder in anderen Rechtsvorschriften weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | 4,00 bis 100,00 | 
- | Anmerkung zu 800.00 und 800.01: |  | 
- | Der Verwaltungsaufwand als Teil der Bemessungsgrundlagen nach § 4 Abs. 2 des BremGebBeitrG ist unter Berücksichtigung der sächlichen Verwaltungskosten und der Zeitgebühren nach den Vorgaben des Senators für Finanzen zu ermitteln. Sind im Gebührenverzeichnis vergleichbare Amtshandlungen enthalten, ist die Gebühr unter Berücksichtigung der vergleichbaren Gebühren zu bemessen. |  | 
-800.02 | Bestallung eines Hafenlotsen gem. § 6 ff. der Lotsenordnung für das Hafenlotswesen in Bremerhaven vom 28. Nov. 1979 | 50,00 bis 250,00 | 
-800.03 | Nutzung eines Sicherstellungsplatzes im Anschluss an die für Sicherungsmaßnahmen eingeräumte Zeit von 14 Tagen: |  | 
- | 15 bis 30 Tage | 1 Kanister bis 60 l | 13,00
- |  | 1 Fass bis 450 l | 52,00
- |  | 1 IBC bis 3.000 l | 70,00
- |  | 1 Container | 500,00
- | Jeder weitere begonnene Monat | 1 Kanister bis 60 l | 20,00
- |  | 1 Fass bis 450 l | 78,00
- |  | 1 IBC bis 3.000 l | 104,00
- |  | 1 Container | 750,00
-800.04 | Nutzung eines Bergungsfasses | bis 30 Tage | 8,00
- |  | Jeder weitere begonnene Monat | 12,00
-800.05 | Nutzung eines Begasungsplatzes für einen Container für einen Zeitraum von bis zu 3 Tagen | 20,00 | 
-81 | Schifffahrt - Seeschifffahrt |  | 
-810 | Maßnahmen nach der Schiffsoffizier-Ausbildungsverordnung Fundstelle ersetzen durch i.d.F. vom 28. Juli 1998 (BGBl.I S.1938) |  | 
-810.00 | Erteilung eines Befähigungszeugnisses Ersatz eines Befähigungszeugnisses Eintragung des Zusatzes in das Befähigungszeugnis BKü Entzug eines Befähigungszeugnisses Umtausch eines Befähigungszeugnisses | Die Gebührensätze richten sich nach der Kostenverordnung für Amtshandlungen der Wasser- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt | 
- |  | Zweite Verordnung zur Änderung der Kostenverordnung für Amtshandlungen der Wasser- u. Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt vom 28. September 1998 (BGBl. I S. 3120) | 
-810.01 | Bescheinigungen im Verfahren nach der Schiffsoffizier-Ausbildungsverordnung | 4,00 bis 23,00 | 
-811 | Bezeichnung der Fischereifahrzeuge |  | 
-811.00 | Eintragungsscheine nach der Verordnung betreffend die Eintragung und Bezeichnung der zur Fischerei in der Nordsee außerhalb der Küstengewässer bestimmten Fahrzeuge vom 1. Juni 1884 (SaBremR 9510-a-1) | 34,50 | 
-812 | Gefährliche Seefrachtgüter |  | 
-812.00 | Ausnahmegenehmigungen nach der en nach der Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen vom 4. November 2003 (BGBl. I S. 2286) | 20,00 bis 300,00 | 
-814 | Maßnahmen der Seemannsämter |  | 
-814.00 | Ausstellung eines Seefahrtbuches Verlängerung der Gültigkeitsdauer eines Seefahrtsbuches Ersatz eines Seefahrtbuches bei Verlust Ausfertigung einer Musterrolle bei Erstausfertigung oder Generalmusterung Änderung der Musterrolle Ausfertigung einer Beilage zur Musterrolle An-, Um- oder Abmusterung sowie Generalmusterung von Besatzungsmitgliedern etc. Befreiung von Musterungserfordernis je Schiff Widerruf oder Rücknahme eines Antrages auf Vornahme einer Amtshandlung Zurückweisung des Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Die Gebührensätze richten sich nach der Kostenverordnung für Amtshandlungen der Seemannsämter - SeemannsÄKostV - vom 21. Dezember 2001 (BGBl. I S. 4255) in der jeweiligen Fassung | 
-814.01 | Ausstellung einer Fahrzeitbescheinigung |  | 
- | für eine Seite | 8,60 | 
- | für jede weitere Seite | 5,75 | 
-814.02 | Hinterlegung von Gegenständen und Aufbewahrung von Effekten | 5,75 bis 34,50 | 
-82 | Schifffahrt - Binnenschifffahrt |  | 
-820 | Maßnahmen nach der Polizeiverordnung über den Verkehr auf dem Binnenschifffahrtsweg Elbe-Weser vom 31. August 1995 (SaBremR 950-c-1) |  | 
-820.00 | Ausnahmegenehmigung nach § 12 | 23,00 bis 173,00 | 
