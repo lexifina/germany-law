@@ -1,0 +1,99 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-03-01T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354310
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354310
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Gestaltung der Mauer am Mittleren Ring
+- TOP 2.2.: Zerstörung eines Kulturdenkmals durch den Neubau des Boulderzentrums an der Thalkirchner Straße
+- TOP 2.3.: Mehrgenerationenanlage Sendling
+- TOP 2.4.: Beschwerde an den Oberbürgermeister wegen Straßenumbenennung zur Kenntnisnahme
+- TOP 2.5.: Schreiben an die Bürgermeisterin zum Thema Müllvermeidung
+- TOP 2.6.: Straßenreinigung und Eigentümerpflicht
+- TOP 2.7.: Parkende Autos im bewirtschafteten Parkraum
+- TOP 2.8.: Verkauf von Mietshäuser im Erhaltungssatzungsgebiet
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Meindlstraße 14a (Mit der Bitte, eine Vertagung zu vermeiden)
+- TOP 4.2.2.: Vollzug der Baumschutzverordnung Meindlstraße 14a
+- TOP 4.2.3.: Erholungsraum Isar – Neugestaltung Isar-Map
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Mitteilung über Ablehnung eines Baumfällungsantrags Implerstraße
+- TOP 4.3.3.: Gasteig-Interim Antwort an Bürger
+- TOP 4.3.4.: Neugestaltung des Herzog-Ernst-Platzes [SPD]
+- TOP 4.3.5.: Mehr Bäume für Sendling
+- TOP 4.3.6.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2018 -2019 - - Bekanntgabe -
+- TOP 4.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.9.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Mülleimer an Parkbänken [SPD]
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Parkplatzsituation in Untersendling Antwort an Bürger
+- TOP 5.3.2.: Baumaßnahmen in der Dreimühlenstraße
+- TOP 5.3.3.: Anfrage Wand am Mittleren Ring
+- TOP 5.3.4.: Fahrzeug-Schieberinne für Treppe von Oberländerstraße zu Plinganserstraße
+- TOP 5.3.5.: (U) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig a) Münchner Mobilitätskongress parallel zur IAA – innovativ und nachhaltig Antrag Nr. 14-20 / A 6904 der Stadtratsfraktion die Grünen /Rosa Liste vom 03.03.2020, eingegangen am 04.03.2020 b) Verkehrswende zu Zeiten der IAA für die Münchner*innen erlebbar machen Antrag vom 05.10.20 SPD/Volt Fraktion Die Grünen/Rosa Liste Antrag Nr. 20-26 A00479 c) „Mobilität im Umbruch - Mobilitätsgipfel installieren“ Antrag Nr. 08-14 / A 06500 von Herrn BM Manuel Pretzl vom 14.01.2020, eingegangen am 14.01.2020 d) Vergabeermächtigung für Leistungen zur Unterstützung bei Vor- und Nachbereitung, Konzeption und Durchführung des Mobilitätskongresses 2021 und Leistungen zur Umsetzung des Konzepts virtuelle partizipative digitale Verkehrsplanung
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Umgestaltung der Leipartstraße [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Artmobil 2021 1.623,00€; Az. 0262.0-6-0260
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative „Erkenntnis durch Satire“ Erkenntnis durch Satire im 2. Quartal 2021 1.680,00 € / Az. 0262.0-6-0
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kultur&Spielraum e.V. Kinder- und Jugendfonds „Lasst uns mal ran“ vom 01.03.-31.12.2021 5.000,00€; Az. 0262.0-6-0311
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative „Passage“ Fotoausstellung „Passage 20>21“ vom 28.03.-30.07.2021 1.640,00€; Az. 0262.0-6-0312
+- TOP 6.1.5.: (E) Stadtbezirksbudget Himmelfahrtskirche München-Sendling Plastikfasten 2021 vom 13.03. - 17.04.2021 300,00€; Az. 0262.0-6-313
+- TOP 6.1.6.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00€; Az. 0262.0-6-0314
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Budget-Bescheide
+- TOP 6.3.2.: Virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen möglich
+- TOP 6.3.3.: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt; hier: Kürzung des Stadtbezirksbudgets in 2021
+- TOP 6.3.4.: Budget, Berichte über bewilligte Zuschüsse
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Demokratiemobil zur Bundestagswahl [FDP & FW]
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose
+- TOP 7.3.2.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2020 - 2024, Einzelplan 4 / Sozialbereich
+- TOP 7.3.3.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Sendling in action - Sendlinger Kinder und Jugendliche in der Corona-Krise unterstützen [UA Bildung und Soziales]
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Efsane Corbasi
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Erstattung der Mieten für Räumlichkeiten zu Bezirksausschuss-Sitzungen im 2021
+- TOP 9.4.: Anträge
+- TOP 9.4.1.: Digitale Fragestunde zum Interims-Gasteig [Die Grünen]
+- TOP 9.5.: Sonstiges
