@@ -1,0 +1,74 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (3. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-03-01T17:00:00+01:00
+- Ende: 2021-03-01T19:29:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZ_-93aL_p-5JqOPcyoQHD4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6452
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQiLZpDU-6dJ2M4Jv3qbzy7JPAXDcchFiKqrOrO0sN2Y/Bekanntmachung_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_01.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQaiWFCa06zB88OAqeKojZqVVIlzKRC_6Sgtuc9SLnIY/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_01.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sachstand der Baumaßnahme Grundschule Uhlandstraße
+- TOP 1.2: Änderung im Walder Baumbestand
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Hundewiesen, Hundekot-Problematik und Leinenpflicht im Bezirk Gem. Anfrage SPD, Bündnis 90/Die Grünee und Die Linke vom 10.02.2021
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 2. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 14.12.2020
+- TOP 4.: Antrag zur Fällung mehrerer Bäume für die Erschließung des Baugebiets Bielauer Weg
+- TOP 5.: Antrag zur Fällung eines Baumes an der Weyerstraße / Monhofer Straße
+- TOP 6.: Baumpflanzungen auf der Mankhauser Straße Antrag der CDU-Bezirksfraktion vom 28.01.2021
+- TOP 7.: Bauleitplanung Düsseldorfer Straße / Lippestraße Beschluss über die 1. Verlängerung der Veränderungssperre (Nr. 170/ 658) gem. § 17 Abs. 1 BauGB für das Gebiet südlich entlang der Düsseldorfer Straße zwischen der Straße Im Ohligs im Westen und der Weststraße im Osten – Stadtbezirk Ohligs –
+- TOP 8.: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 9.: A 3 - 8streifiger Ausbau zwischen der Anschlussstelle (AS) Leverkusen/Opladen und dem Autobahnkreuz (AK) Hilden Stellungnahme zur 2. TÖB-Beteiligung im Rahmen der Umweltverträglichkeitsuntersuchung
+- TOP 10.: Fortschreibung des Nahverkehrsplans – Sachstand und Hintergründe
+- TOP 10.1: Fortschreibung des Nahverkehrsplans – Sachstand und Hintergründe
+- TOP 11.: Sachstandsbericht Umgestaltung Verkehrsinsel Lennestraße /Weststraße / Emscherstraße/Lippestraße Antrag der CDU-Bezirksfraktion vom 12.02.2021
+- TOP 12.: Begrünung Talstraße Antrag der CDU-Bezirksfraktion vom 12.02.2021
+- TOP 13.: Bodenkennzeichnung im hinteren Mündungsbereich Keusenhof/Kottendorfer Straße Gemeinsamer Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 05.01.2021
+- TOP 14.: Grundhafte Erneuerung Mühlenstraße/Höhscheider Straße Hier: Verbesserung der Radverkehrsführung
+- TOP 15.: Spielplatzflächen Ohligs-Ost; hier Reservefläche Trommershausenstraße und Spielplätze Planetenweg
+- TOP 16.: Sachstand Neugestaltung der Fußgängerzone Ohligs Gemeinsamer Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 04.01.2021
+- TOP 16.1: Integriertes Stadtteilentwicklungskonzept Ohligs - Umgestaltung der Düsseldorfer Straße und des Ohligser Marktes – Sachstandsbericht
+- TOP 17.: Waldumbau Antrag der CDU-Bezirksfraktion vom 21.01.2021
+- TOP 18.: Zustand Waldweg zwischen Bussche-Kessel-Weg und Bonner Straße Antrag der CDU-Bezirksfraktion vom 26.01.2021
+- TOP 18.1: Zustand Waldweg zwischen Bussche-Kessel-Weg und Bonner Straße Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen, Die Linke vom 26.02.2021
+- TOP 19.: Probleme bei Räumung von Schnee auf Radwegeverbindungen im Stadtbezirk Antrag der CDU-Bezirksfraktion vom 26.01.2021
+- TOP 20.: Gefährdungslage altes Polizeigebäude Kamper Straße Antrag der CDU-Bezirksfraktion vom 28.01.2021
+- TOP 21.: Bau eines Stauraumkanals an der Tunnelstraße
+- TOP 22.: Einwohnersprechstunde gemeinsamer Antrag der Bezirksfraktionen Bündnis 90/Die Grünen, der SPD, Die Linke, der BfS vom 09.02.2021
+- TOP 23.: Freie Budgetmittel 2021
+- TOP 23.1: Freie Budgetmittel 2021
+- TOP 24.: Entsendung von Trägervertretungen in den Rat der Tageseinrichtung der Städt. Kindertagesstätten
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.1.1: Winterdienst und Reinigung auf Radwegen in Solingen
+- TOP 25.1.2: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen Ohligs/Aufderhöhe/Merscheid
+- TOP 25.1.3: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen Ohligs/Aufderhöhe/Merscheid
+- TOP 25.1.4: Vorbereitende Maßnahmen zum Neubau der Sportanlage Höher Heide II
+- TOP 25.1.5: Integriertes Stadtteilentwicklungskonzept Ohligs – Neugestaltung des östlichen Bahnhofsausganges - Ergebnisse Beteiligung und weitere Schritte
+- TOP 25.1.6: Stadtentwicklungsgesellschaft Solingen [SEG] – Realisierungswettbewerb zum Bau einer städtischen KiTa und geförderter Wohnungen auf dem Grundstück „Schwanenstraße 94
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP 25.3: Markierte Bäume auf der Merscheider Straße
+- TOP 25.4: Zukunft der Festhalle Ohligs
+- TOP 25.5: Toilettenanlage in der Ohligser Heide
+- TOP 25.6: Zustand des Waldweges am Brabant
+- TOP 25.7: Verkehrssituation an der Kreuzung Schwarze Pfähle/Merscheider Straße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 2. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 14.12.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.1.1: Antrag der CDU-Fraktion der BV Ohligs/Aufderhöhe/Merscheid vom 28.01.2021 zur Gefährdungslage des alten Polizeigebäudes Kamper Straße
+- TOP 4.2: Anfragen an die Verwaltung
