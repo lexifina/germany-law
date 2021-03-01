@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-01T15:00:00+01:00
+- Ende: 2021-03-01T16:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23607
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23607
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Bildung in Zeiten von Corona sicher und gerecht gewährleisten – Sofortmaßnahmen für den Schulbeginn treffen! - abgelehnt (in der Vorberatung)
+- TOP 2.2: Ersetzungsantrag zum Antrag AN/0269/2021 „Bildung in Zeiten von Corona sicher und gerecht gewährleisten – Sofortmaßnahmen für den Schulbeginn treffen!“ - geändert beschlossen
+- TOP 2.3: Entzerrung der Schulanfangszeiten - ungeändert beschlossen
+- TOP 2.4: Änderungsantrag zum Ersetzungsantrag „Bildung in Zeiten von Corona sicher und gerecht gewährleisten – Sofortmaßnahmen für den Schulbeginn treffen“ von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, FDP-Fraktion und Volt-Fraktion, DS AN/0356/2021, TO - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Geänderte Rechtslage zur Abwicklung von Geldern für Klassenfahrten gem. § 95 Abs. 3 SchulG NRW - Kenntnis genommen
+- TOP 3.2.2: Sanierung des Hölderlin-Gymnasiums in Köln-Mülheim - Kenntnis genommen
+- TOP 3.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4: Lehrschwimmbecken der Grundschule Hohe Straße in Köln-Porz/Westhoven - zu einer Anfrage der SPD-Fraktion, AN/0033/2021 und zum Beschluss der Bezirksvertretung Porz AN/0543/2020 - Kenntnis genommen
+- TOP 3.2.5: Gesamtschule am Standort Zusestraße in Köln-Lövenich? - Kenntnis genommen
+- TOP 3.2.6: Standortfragen an der Elsa-Brändström-Realschule und der Gesamtschule Lindenthal neu justieren? - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Schulsporthallen - ungeändert beschlossen
+- TOP 4.2: Planungsaufnahme zur Erneuerung und Erweiterung der OGS-Küche der GGS Martinusstr. 28, 50765 Köln-Esch - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Förderung Rom e. V. für das Haushaltsjahr 2021 ff. - Kenntnis genommen
+- TOP 5.2: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 5.3: Anfrage der SPD-Fraktion zu baulichen und perspektivischen Situation der KGS Horststraße - Kenntnis genommen
+- TOP 5.4: #LernenGehtImmer - Volkshochschule Köln setzt verstärkt auf Onlineangebote - Kenntnis genommen
+- TOP 5.5: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten inklusive Interimsbauten für das Gymnasium Kreuzgasse, Vogelsanger Straße 1 - Erweiterter Planungsbeschluss, 2486/2020 - Kenntnis genommen
+- TOP 5.6: Abbruch Neubau Gebäude des Hölderlin Gymnasiums, Graf- Adolf- Straße - Kenntnis genommen
+- TOP 5.7: Sachstandsmitteilung zur Umsetzung des Förderprogramms "DigitalPakt NRW" - Kenntnis genommen
+- TOP 5.8: Schulversuch "NRW-Musikprofil-Schulen" - Kenntnis genommen
+- TOP 5.9: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 5.10: Schulische Situation und Ausstattung in der Pandemie-Situation - aktueller Sachstand - Kenntnis genommen
+- TOP 5.11: Beschaffung von Luftreinigungsgeräten entsprechend Landesförderung - Kenntnis genommen
+- TOP 5.12: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Mündliche Anfrage der CDU-Fraktion zum Einsatz von Fördermitteln für Ganztagsausbau in Grundschulen
+- TOP 7: Verschiedenes
