@@ -1,8 +1,7 @@
-# Anlage 3 - Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil)
+# Anlage 3 - Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil) aus der Punktzahl des Gesamtergebnisses
 Anlage 3
-(zu § 6a Absatz 3)
-Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil)
-aus der Punktzahl des Gesamtergebnisses
+(zu § 11 Absatz 2 Nummer 6)
+Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil) aus der Punktzahl des Gesamtergebnisses
 Punkte | Durchschnittsnote
 285 - 261 | 1,0
 260 - 255 | 1,1
@@ -35,3 +34,4 @@ Punkte | Durchschnittsnote
 106 - 101 | 3,8
 100 - 96 | 3,9
 95 | 4,0
+Einzelansicht Seitenanfang
