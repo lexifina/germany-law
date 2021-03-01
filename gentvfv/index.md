@@ -11,7 +11,6 @@
 ## 2. Abschnitt Anforderungen an Unterlagen
 
 - [§ 4 Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten](0004.md)
-- [§ 5 Unterlagen bei Freisetzungen](0005.md)
 - [§ 6 Unterlagen bei Inverkehrbringen](0006.md)
 - [§ 7 Ausnahmen von Angaben und Maßnahmen](0007.md)
 - [§ 8 Unterlagen für eingeschlossene Entscheidungen](0008.md)
