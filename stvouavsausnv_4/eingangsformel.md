@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Absatz 1 Nummer 3 erster Halbsatz und Buchstabe d in Verbindung mit Absatz 2a und in Verbindung mit Absatz 3 des Straßenverkehrsgesetzes, von denen Absatz 1 im Satzteil vor Nummer 1 zuletzt durch Artikel 1 Nummer 6 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 28. November 2014 (BGBl. I S. 1802) und Absatz 2a zuletzt durch Artikel 325 Nummer 2 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden sind, verordnen das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach Anhörung der zuständigen obersten Landesbehörden:
