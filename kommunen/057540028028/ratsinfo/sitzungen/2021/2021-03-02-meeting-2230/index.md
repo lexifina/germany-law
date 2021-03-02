@@ -1,0 +1,56 @@
+# Rat der Stadt Rheda-Wiedenbrück (4. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2021-03-02T17:00:00+01:00
+- Ende: 2021-03-02T20:45:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX0E7OMqIe1Z6MpRGcQf51U
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2230
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLGruyW3HxOM0mJdhDNK0FaVeh6QJ42qFUYXXBUm52r/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_02.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTsHEJ39-7H1F6AvBbOJ7DVxB9gqbZcTEknBaI4pNYd3/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_02.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag der Fraktion Bündnis 90/Die Grünen: Einrichtung eines Beirates für Menschen mit Behinderung - Absetzung
+- TOP 5: Antrag der FWG-Fraktion vom 12.11.2021 zur Einstellung von Excel-Tabellen im Ratsinformationssystem - 27 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 6: Antrag der FDP-Ratsfraktion vom 25. Januar 2021 - Corona-Isolierungsgesetz - Einstimmig
+- TOP 7: Genehmigung der Dringlichkeitsentscheidung „Erhebung der Elternbeiträge für Kindertageseinrichtungen, Kindertagespflege und Offene Ganztagsschule, Regelung für Januar 2021“ Fraktionsübergreifender Antrag vom 11.01.2021
+- TOP 7.1: Genehmigung der Dringlichkeitsentscheidung „Erhebung der Elternbeiträge für Kindertageseinrichtungen, Kindertagespflege und Offene Ganztagsschule, Regelung für Januar 2021“ Fraktionsübergreifender Antrag vom 11.01.2021 - Einstimmig
+- TOP 8: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für August 2020 für das Haushaltsjahr 2019 und für August 2020 bis Januar 2021 für das Haushaltsjahr 2020 - Kenntnisnahme
+- TOP 9: Finanzcontrolling - Quartalsbericht IV/2020 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 10: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2021
+- TOP 10.1: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2021 - Einstimmig
+- TOP 11: Einstein-Gymnasium, klimaresiliente Gestaltung des Schulcampus - mehrheitlich bei 6 Enthaltungen zugestimmt
+- TOP 12: Überlassung eines bebauten Grundstücks - 27 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 13: Aussetzung der Sondernutzungsgebühren zur Unterstützung des lokalen Einzelhandels und der Gastronomie für das Jahr 2021 - Einstimmig
+- TOP 14: Dienstanweisung zur Übertragung von Ermächtigungen im Rahmen des Jahresabschlusses
+- TOP 14.1: Dienstanweisung zur Übertragung von Ermächtigungen im Rahmen des Jahresabschlusses - Einstimmig
+- TOP 15: Wahltermin zum Seniorenbeirat im Jahr 2021 - Einstimmig
+- TOP 16: Auf der Schanze | Aufstellungsbeschluss Bebauungsplan Nr. 434 "Auf der Schanze" - 26 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 17: Auf der Schanze | Entwicklungsperspektive - 26 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 18: 1. Änderung des Bebauungsplans Nr. 282 "Rietberger Straße" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffen - 21 Ja-Stimme(n), 7 Nein-Stimme(n)
+- TOP 19: Neuaufstellung des Regionalplans OWL - Stellungnahme zum Entwurf
+- TOP 19.1: Neuaufstellung des Regionalplans OWL - Stellungnahme zum Entwurf
+- TOP 20: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 21: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 22: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 23: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 24: Erklärung von Ausschließungsgründen
+- TOP 25: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2019 - 23 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 28: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2021-2025 - 23 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 29: Konzessionsvertragsangelegenheit - Einstimmig
+- TOP 30: Grundstücksverkauf - Einstimmig
+- TOP 31: Städtebaulicher Vertrag flankierend zu einem Bebauungsplanverfahren - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 4 Enthaltung(en)
+- TOP 32: Aktueller Stand der städtischen Geldanlagen
+- TOP 33: Bericht zur Beschlusskontrolle
+- TOP 34: Dringende Anfragen und Anregungen
