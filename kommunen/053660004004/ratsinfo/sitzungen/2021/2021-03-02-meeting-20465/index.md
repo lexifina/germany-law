@@ -1,0 +1,60 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-03-02T18:00:00+01:00
+- Ende: 2021-03-02T20:45:00+01:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZ2ibJc9TJ0hnzweJCvZEMU
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20465
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQK1UD4KQms3c-NS_z0i0nd5OwQi4VIE8BTWlj7Pbzw_/Bekanntmachung_Rat_02.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRHaJN-4RIF2MmkuQrSd8o7B8NLh2Xe4Exld-WuBK0IO/Oeffentliche_Niederschrift_Rat_02.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 15.12.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Bürgerbegehren "Keine Windenergieanlagen auf städtischen Grundstücken im Nöthener Wald" hier: Antrag auf Prüfung der Zulässigkeit nach § 26 Abs. 6 GO NRW - Einstimmiger Beschluss:
+- TOP 5.: Digitale Übertragung von Rats- und Ausschusssitzungen hier: Antrag der SPD-Fraktion vom 30.11.2020 - Beschluss mit 10 Ja- und 18 Nein-Stimmen sowie 3 Enthaltungen und somit abgelehnt:
+- TOP 6.: Fraktionssitzungen als Telefon- oder Videokonferenz hier: Anträge der SPD-Fraktion vom 03.12.2020 und 01.02.2021 - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 7.: Neubesetzung Ausschussvorsitz Betriebsausschuss „Forstbetrieb der Stadt Bad Münstereifel“ hier: Schreiben der UWV-Fraktion vom 19.01.21 und CDU-Fraktion vom 04.02.2021 - Einstimmiger Beschluss mit 29 Ja-Stimmen und 1 Enthaltung.Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 8.: Ausschussbesetzung/Wahl von weiteren stellvertretenden sachkundigen Bürger*innen hier: Antrag der UWV-Fraktion vom 25.01.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 9.: Wahl von weiteren stellvertretenden sachkundigen Bürgern der SPD-Fraktion hier: Antrag der SPD-Fraktion vom 01.02.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 10.: Neu-/Umbesetzung von Ausschüssen hier: Antrag der CDU-Fraktion vom 04.02.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. §§ 50 Abs. 3 und 58 GO NRW nicht mit.
+- TOP 11.: Bestellung eines/r Schriftführers/in und dessen/deren Stellvertreter/Stellvertreterinnen für den Stadtrat gemäß § 52 Abs. 1 Satz 2 Gemeindeordnung NRW (GO NRW) - Einstimmiger Beschluss:
+- TOP 12.: 5. Satzung zur Änderung der Satzung zur Durchführung von Bürgerentscheiden im Gebiet der Stadt Bad Münstereifel vom 22.12.2004 - Einstimmiger Beschluss:
+- TOP 13.: Umsetzung Brandschutzbedarfsplan; hier: Fahrzeugkonzept - Beschluss s. RD 165-XI/Z-2
+- TOP -: Umsetzung Brandschutzbedarfsplan; hier: Fahrzeugkonzept - Beschluss mit 7 Ja- und 21 Nein-Stimmen sowie 3 Enthaltungen und damit abgelehnt:
+- TOP 14.: Behindertenbeirat hier: Neubenennung der Mitglieder aus den Fraktionen - Beschluss mit 30 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 15.: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal - Einstimmiger Beschluss:
+- TOP -: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal - Einstimmiger Beschluss:
+- TOP 16.: Jahresabschluss zum 31.12.2019 des Eigenbetriebes Stadtwerke – Betriebszweig Abwasser; hier: Feststellung des Jahresabschlusses - Einstimmiger Beschluss:
+- TOP 17.: Jahresabschluss zum 31.12.2019 des Eigenbetriebes Stadtwerke - Betriebszweig Wasser; hier: Feststellung des Jahresabschlusses - Einstimmiger Beschluss:
+- TOP -: Jahresabschluss zum 31.12.2019 des Eigenbetriebes Stadtwerke - Betriebszweig Wasser; hier: Bestätigungsvermerk - Beschluss s. RD 112-XI/Z-1.
+- TOP 18.: Erlass der Wirtschaftspläne 2021 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Feststellung - Einstimmiger Beschluss:
+- TOP 19.: Entlastung für das Wirtschaftsjahr 2019 hier: Entlastung des Betriebsausschusses Stadtwerke durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses „Stadtwerke Bad Münstereifel“, die 2019 Mitglied im Ausschuss waren, nicht mit.
+- TOP 20.: Erlass des Wirtschaftsplanes 2021 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss:
+- TOP 21.: Erlass der Haushaltssatzung für das Haushaltsjahr 2021 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: 1. Veränderungsliste - Beschluss s. RD 74-XI/Z-7.
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2021 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: 2. Veränderungsliste - Beschluss s. R 74-XI/Z-7.
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2021 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: Aktualisiertes Investitionsprogramm für die Ortsteile und die Kernstadt - Einstimmiger Beschluss bei 3 Enthaltungen:
+- TOP 22.: Stellenplan für das Haushaltsjahr 2021 - Beschluss mit 20 Ja- und 7 Nein-Stimmen sowie 4 Enthaltungen:
+- TOP 23.: Anfragen und Mitteilungen
+- TOP 23.1: Mündliche Mitteilung gemäß Korruptionsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 23.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i. V. m. § 17 Abs. 2 der Hauptsatzung der Stadt Bad Münstereifel für das 2. Halbjahr 2020
+- TOP 23.3: Bebauungsplan Nr. 6 "Industriegebiet Iversheim" hier: Ergebnis des Revisionsverfahrens im Rahmen des Normenkontrolle zur 4. Änderung -      
+- TOP -: Bebauungsplan Nr. 6 "Industriegebiet Iversheim" hier: Urteil des Bundesverwaltungsgerichtes, Eingang am 28.12.2021 -      
+- TOP 23.4: Auswirkungen der Borkenkäferkalamität in der Fichte
+- TOP 23.5: Hinweise zu aktuellen Verfahren und Vorgehensweisen im weiteren Verlauf der Coronavirus-Epidemie hier: Erlass des Ministeriums für Heimat, Kommunales, Bau und Gleichstellung des Landes NRW vom 22.02.2021
+- TOP 23.6: Ratsjubiläum des Stadtverordneten Reiner Jansen
+- TOP 23.7: Mitteilung über den Eingang weiterer Anträge zur Errichtung von Windenerigeanlagen
+- TOP 23.8: Vereine - Sondersituation wegen Corona
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Veräußerung von Vermögensgegenständen - Beschluss mit 26 Ja- und 4 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 2.: Grunderwerb in Bad Münstereifel, Kölner Straße - Beschluss s. RD 46-XI/Z-2.
+- TOP -: Grunderwerb in Bad Münstereifel, Kölner Straße - Beschluss s. RD 46-XI/Z-2.
+- TOP -: Grunderwerb in Bad Münstereifel, Kölner Straße - Beschluss mit 24 Ja- und 6 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 3.: Anfragen und Mitteilungen
