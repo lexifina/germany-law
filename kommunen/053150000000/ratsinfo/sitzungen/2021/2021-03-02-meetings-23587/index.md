@@ -1,0 +1,89 @@
+# 2. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-02T16:12:00+01:00
+- Ende: 2021-03-02T17:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23587
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23587
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806231.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806231.pdf
+- Wortprotokoll: Tagesordnung (Stand 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806231.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Europäische Mobilitätswoche 2021 - Sache ist erledigt
+- TOP 1.1.1: Änderungsantrag zu AN/0236/2021: Europäische Mobilitätswoche 2021 - Sache ist erledigt
+- TOP 1.1.2: Änderungsantrag zu Top 1.1, Europäische Mobilitätswoche - ungeändert beschlossen
+- TOP 1.2: Regelmäßigen Informationsfluss und -austausch zu bedeutsamen Verkehrsinfrastrukturprojekten sicherstellen: Einrichtung politischer Begleitgremien für die Ausbauvorhaben "A4plus" und Leverkusener Brücke - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Einführung von Tempo 50 auf der gesamten Länge der Inneren Kanalstraße - geändert beschlossen
+- TOP 2.2: Überweg für zu Fuß Gehende und Radfahrende über die Cäcilienstraße - geändert beschlossen
+- TOP 2.2.1: Änderungsantrag zu TOP 2.2 - Überweg für zu Fuß Gehende und Radfahrende Cäcilienstraße - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss: Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - geändert beschlossen
+- TOP 3.1.1: Baubeschluss Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - endgültig abgelehnt
+- TOP 3.1.2: Ergänzungsantrag zu Top 3.4, Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - geändert beschlossen
+- TOP 3.1.3: ÄA zu TOP 3.4 Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - Sache ist erledigt
+- TOP 3.1.4: Änderungsantrag zu 3.1 - Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - geändert beschlossen
+- TOP 3.2: Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße - im ersten Durchgang verwiesen
+- TOP 3.2.1: Änderungsantrag zu TOP 3.2 - Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße (3111/2020) - endgültig abgelehnt
+- TOP 3.3: Finanzierung der Einrichtung erster Standorte für ein Fahrradverleihsystem außerhalb der Kernstadt - geändert beschlossen
+- TOP 3.3.1: Änderungsantrag zu TOP 3.3 - Finanzierung der Einrichtung erster Standorte für ein Fahrradverleihsystem außerhalb der Kernstadt (3725/2020) - endgültig abgelehnt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 10. Änderung des Gesamtverkehrskonzepts der Stadt Köln - geändert beschlossen
+- TOP 4.1.1: 10. Änderung des Gesamtverkehrskonzepts der Stadt - Sache ist erledigt
+- TOP 4.1.2: 10. Änderung des Gesamtverkehrskonzepts der Stadt - endgültig abgelehnt
+- TOP 4.2: Satzung über die abweichende Herstellung der Erschließungsanlage Hermann-Löns-Straße/An den Seen von Parzellen 259 und 261 einschließlich bis Hermann-Löns-Str. 78r bzw. An den Seen einschließlich in Köln-Auweiler - ungeändert empfohlen
+- TOP 4.3: Neunzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.4: Satzung über die abweichende Herstellung der Erschließungsanlage Tausendschönweg von Sürther Feldallee bis öffentliche Grünfläche in Köln-Sürth - ungeändert empfohlen
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Goldnesselweg von Kreisverkehr bis öffentliche Grünfläche in Köln-Sürth - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beschleunigung der ÖPNV Roadmap - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Rheinpendel - Sache ist erledigt
+- TOP 5.2.1.1: Rheinpendel – Prüfung eines Seilbahnsystems - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.2: Anfrage der KlimaFreunde vom 16.02.2021 betr. Verkehrserziehungsmaßnahme "Toter Winkel" - zurückgestellt
+- TOP 5.2.3: Auslastungsanzeige für die Fahrgäste der KVB - zurückgestellt
+- TOP 5.2.4: Stellung des Fußgängerbeauftragten - Sache ist erledigt
+- TOP 5.2.5: Mehr kostengünstige, klimaschonende Park & Ride – Plätze am Stadtrand - Sache ist erledigt
+- TOP 5.2.6: Mehr kostengünstige, klimaschonende Park&Ride-Plätze am Stadtrand und diese besser anbinden - Sache ist erledigt
+- TOP 5.2.7: Ausschreibung der Öffentlichkeitsarbeit zur Ost-West-Achse - Sache ist erledigt
+- TOP 5.2.8: LGBTIQ und Sicherheit im Kölner Straßenverkehr - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Busspur Innere Kanalstraße - Sache ist erledigt
+- TOP 6.2: Welches Gremium berät und entscheidet über Lückenschlüsse in Radverkehrskonzepten? - Sache ist erledigt
+- TOP 6.3: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Sache ist erledigt
+- TOP 6.4: E-Scooter und Freefloater-Leihräder im Straßenraum sind Sondernutzung – Was sind die Konsequenzen? – Anfrage der Fraktion Die Linke vom 19.01.2021 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: Stellungnahme zu einer mündlichen Anfrage, hier: Fragen zu der neuen Förderrichtlinie für Planungsleistungen von Schieneninfrastrukturvorhaben - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Verkehrsunfallentwicklung, Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2019 in Köln - Kenntnis genommen
+- TOP 7.2.2: Verkehrsführungskonzept Altstadt - Kenntnis genommen
+- TOP 7.2.3: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - Kenntnis genommen
+- TOP 7.2.4: Kostenentwicklung Städtischer Großprojekte - Kenntnis genommen
+- TOP 7.2.5: Machbarkeitsuntersuchung für ein Wasserbussystem auf dem Rhein: erster Zwischenbericht - Kenntnis genommen
+- TOP 7.2.6: Landstromversorgung für die Rheinschifffahrt - Kenntnis genommen
+- TOP 7.2.7: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 7.2.8: Standorte für (Lasten-)fahrräder, Fahrradverleih und E-Scooter in der Innenstadt - Kenntnis genommen
+- TOP 7.2.9: Machbarkeitsstudie zur Verbesserung der SPNV-Verbindungen zwischen Köln und Remscheid/Solingen sowie zwischen Opladen und Solingen/Düsseldorf (S1/S17) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.10: Werkstattbericht Deutzer Hafen - Kenntnis genommen
+- TOP 7.2.11: Einpendeln und Auspendeln in Köln - Über Muster beim Berufspendeln 2019 - Kenntnis genommen
+- TOP 7.2.12: Bericht über die Umsetzung von Anträgen des Verkehrsausschusses ab 2014 ff. - zurückgestellt
+- TOP 7.2.13: Sachstand Lastenradförderung 2020 - Kenntnis genommen
+- TOP 7.2.14: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 7.2.15: Digitale Informationsveranstaltung zur Vorstudie des Stadtbahnvorhabens Köln - Niederaußem am 17.02.2021 - Kenntnis genommen
+- TOP 7.2.16: Erziehung und Unterricht in Köln - endgültig zurückgezogen
+- TOP 7.2.17: Sanierung der Drehbrücke in Deutz, Provisorische Querung während der Bauzeit - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: "Abstandhalten in der Pandemie" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Umgestaltung Christophstraße/Gereonstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Förderprogramme für Radverkehr - zur weiteren Bearbeitung in die Verwaltung überwiesen
