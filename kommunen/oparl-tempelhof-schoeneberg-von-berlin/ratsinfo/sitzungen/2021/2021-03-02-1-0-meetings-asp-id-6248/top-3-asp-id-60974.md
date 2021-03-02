@@ -1,0 +1,7 @@
+# TOP 3: Genehmigung der Protokolle der 10., 27., 36., 38., 39. und 40. Sitzung, falls vorliegend
+
+- Sitzung: 41. öffentliche Sitzung des Ausschusses für Schule - Die Sitzung findet im Videocall, die Einwahldaten entnehmen Sie bitte dem INFOBLATT Videocall (2021-03-02)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=60974
+- Ergebnis: im Ausschuss abgelehnt
