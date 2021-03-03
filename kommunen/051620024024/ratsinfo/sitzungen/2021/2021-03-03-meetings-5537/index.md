@@ -1,0 +1,63 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-03-03T17:00:00+01:00
+- Ende: 2021-03-03T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5537
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5537
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Bestellung der Schriftführung für den Ausschuss für Planung, Stadtentwicklung und Mobilität der Stadt Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 4: Einwohnerfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: Aufstellungsbeschluss zum Bebauungsplan Nr. 505 - Hammfeld, Radschnellweg - nicht beraten aufgrund Sitzungsausfall
+- TOP 6: Bebauungsplan Nr. 502 - Allerheiligen, August-Macke-Straße - Aufstellungsbeschluss - nicht beraten aufgrund Sitzungsausfall
+- TOP 7: Veränderungssperre Nr. 37 für den Geltungsbereich des Bebauungsplans Nr. 487 - Barbaraviertel, Düsseldorfer Straße/Bockholtstraße/Leuschstraße - nicht beraten aufgrund Sitzungsausfall
+- TOP 8: Stadtmauerkonzept - Umsetzung der Stationen 9-17 - - nicht beraten aufgrund Sitzungsausfall
+- TOP 9: Gestaltungsbeirat der Stadt Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 10: Umgestaltung des Knotenpunktes Hochstadenstraße/Hoistener Schulstraße/Helpensteiner Kirchweg - nicht beraten aufgrund Sitzungsausfall
+- TOP 11: Volmerswerther Straße: Punktuelle Maßnahmen zur Verkehrsberuhigung - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 12: Bestellung eines Ausschussmitgliedes, das neben dem Ausschussvorsitzenden und dem Schriftführer die Niederschrift über die Sitzung des Ausschusses unterzeichnet sowie eines Stellvertreters/einer Stellvertreterin dieses Ausschussmitgliedes - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anträge
+- TOP 13: Antrag der CDU-Fraktion betr.: Förderprogramm "Städtische Logistik" des Bundesministeriums für Verkehr und digitale Infrastruktur nutzen - Micro-Hub realisieren - nicht beraten aufgrund Sitzungsausfall
+- TOP 14: Antrag der CDU-Fraktion betr.: Neubau der Fleher Brücke - zur Kenntnis genommen
+- TOP 15: Antrag der CDU-Fraktion betr.: Neue Entwicklungschancen für den Wendersplatz - nicht beraten aufgrund Sitzungsausfall
+- TOP 16: Antrag der CDU-Fraktion betr.: Eselspfad und Erftradweg verknüpfen - einen Radweg durch ganz Neuss schaffen - nicht beraten aufgrund Sitzungsausfall
+- TOP 17: Antrag der CDU-Fraktion betr.: Verkehrssicherheit der Kreuzung B9/Blankenwasser erhöhen - nicht beraten aufgrund Sitzungsausfall
+- TOP 18: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Prüfung einer E-Citybuslinie - nicht beraten aufgrund Sitzungsausfall
+- TOP 19: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Wettbewerbsverfahren Wendersplatz - nicht beraten aufgrund Sitzungsausfall
+- TOP 20: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr.: Erste Schritte zur autoreduzierten Innenstadt in Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP 21: Antrag der Fraktionen von SPD/Bündnis 90/Die Grünen/UWG/Aktiv für Neuss betr.: - nicht beraten aufgrund Sitzungsausfall
+- TOP 22: Antrag der CDU-Fraktion betr.: Einsatz von Dialog-Displays verstärken - nicht beraten aufgrund Sitzungsausfall
+- TOP 23: Antrag der CDU-Fraktion betr.: Fahrgemeinschaften fördern - Umwelt und Straßen entlasten - nicht beraten aufgrund Sitzungsausfall
+- TOP 24: Antrag der CDU-Fraktion betr.: Schulwege zur Grundschule Allerheiligen sicherer machen - nicht beraten aufgrund Sitzungsausfall
+- TOP 25: Antrag der CDU-Fraktion betr.: Verkehrsberuhigung auf der Pomona - nicht beraten aufgrund Sitzungsausfall
+- TOP 26: Antrag der CDU-Fraktion betr.: Radweglücke am Nixhütter Weg zur Kölner Straße schließen - nicht beraten aufgrund Sitzungsausfall
+- TOP 26.1: Antrag der CDU-Fraktion betr. Radweglücke an der Schillerstraße schließen - nicht beraten aufgrund Sitzungsausfall
+- TOP 26.2: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr. Verbessesrung für die Jahnstraße prüfen - nicht beraten aufgrund Sitzungsausfall
+- TOP 26.3: Antrag der Fraktionen von SPD, Bündnis90/Die Grünen und UWG/Aktiv für Neuss betr. Sachstandsbericht "Verkehrssicherheit entlang der Görresschule" - nicht beraten aufgrund Sitzungsausfall
+- TOP 26.4: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Aktiv für Neuss betr. Ausweisung weiterer "Tempo-30-Straßen" in der Stadt Neuss - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 27: Fleher Brücke - Sachstand - zur Kenntnis genommen
+- TOP 28: Sachstand zum Projekt "Neuss Wendersplatz - der Heimat einen Hafen geben - " - zur Kenntnis genommen
+- TOP 29: Mikro-Depots im interkommunalen Verbund am Beispiel der Kommunen Krefeld, Mönchengladbach und Neuss - Sachstand - - zur Kenntnis genommen
+- TOP 30: Neubau des Haltepunktes "Neuss Johanna-Etienne-Krankenhaus" - Sachstand - - zur Kenntnis genommen
+- TOP 31: Qualitätsvereinbarung zwischen der Stadtwerke Neuss GmbH und der Stadt Neuss - zur Kenntnis genommen
+- TOP 32: Anfrage zur Abschaffung Tarifwabe 521 - Sachstand - - zur Kenntnis genommen
+- TOP 33: Sachstand zu bestehenden Anträgen - zur Kenntnis genommen
+- TOP 34: Planfeststellungsverfahren zum geplanten Neubau der AS Dormagen-Delrath an der A 57 einschließlich Verbindungsstr. K 33n - zur Kenntnis genommen
+- TOP 35: Machbarkeitsstudie Landesgartenschau (LaGa 2026 in Neuss) - Sachstand und Zeitplanung - - zur Kenntnis genommen
+- TOP 36: Sachstand von Nachnutzungskonzepten der "Kathedrale" und der Giebelhäuser im Bauer und Schauerte Gelände - zur Kenntnis genommen
+- TOP 37: Einwohnerfragestunde
