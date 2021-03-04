@@ -1,0 +1,61 @@
+# Bezirksvertretung Mitte (5. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-03-04T17:00:00+01:00
+- Ende: 2021-03-04T20:15:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZV4eW4R5QBOpuf46yyEJcDU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6463
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfgUUlLmiGzabK30EO_QnzifPXsUZENCAON9O7X164ur/Bekanntmachung_Bezirksvertretung_Mitte_04.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc84ZnZ-xpNtSosElmuPu20JSqH-04nAuqNgUIMUZ6Tn/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_04.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Verbindungsweg zwischen Dorper Straße und dem Gleisdreieck
+- TOP 1.2: Wohnbebauung am geplanten Haltepunkt Meigen
+- TOP 1.3: Kita Bedarfsplanung in Mitte
+- TOP 1.4: Maskenpflicht im Umfeld von Kindertageseinrichtungen
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Sachstand Taubenhaus Anfrage der CDU-Bezirksfraktion vom 16.02.2021
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen
+- TOP 3.: Protokoll über die 3. Sitzung der Bezirksvertretung Mitte am 21.01.2021
+- TOP 4.: Zukünftige Entwicklung der Clemens-Galerien Gemeinsamer Antrag der Bezirksfraktionen Bündnis 90/Die Grünen und der SPD vom 17.02.2021
+- TOP 5.: Verfügungsfonds Soziale Stadt - Nordstadt - hier: Besetzung Beirat
+- TOP 6.: Wiederwahl einer Schiedsperson
+- TOP 7.: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 7.1: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW Gemeinsamer Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen, Die Linke und der BfS vom 03.03.2021
+- TOP 8.: Sachstandsbericht zur Stadtentwicklungsgesellschaft und der "Gläsernen Werkstatt" - mündlicher Bericht -
+- TOP 9.: Sachstand Birker Bad und Umgebung - mündlicher Bericht -
+- TOP 10.: Verlegung eines Weges in der Grünanlage Birkenweiher und Antrag zur Fällung von zwei Bäumen
+- TOP 11.: Straßenbenennung im Bebauungsplangebiet H 679 (Reiderstraße/ Gärtnerstraße) in Solingen-Mitte
+- TOP 12.: Waldumbau Antrag der CDU-Bezirksfraktion vom 21.01.2021
+- TOP 13.: Fortschreibung des Nahverkehrsplans – Sachstand und Hintergründe
+- TOP 14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Freie Budgetmittel 2021
+- TOP 15.1: Freie Budgetmittel 2021
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Mitte
+- TOP 16.1.2: Winterdienst und Reinigung auf Radwegen in Solingen
+- TOP 16.1.3: Öffentliche Toiletten in Mitte
+- TOP 16.2: Anfragen an die Verwaltung
+- TOP 16.3: Wegfall von Anwohnerparkplätzen am Klosterwall
+- TOP 16.4: Besetzung der Grün- und Wegekommission
+- TOP 16.5: Zwischenstand Fahrradboxen
+- TOP 16.6: Ausweisung von Parkplätzen am Neubau der Stadtsparkasse
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Entwicklung Birker Bad / Brühler Straße
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 3. Sitzung der Bezirksvertretung Mitte am 21.01.2021
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
