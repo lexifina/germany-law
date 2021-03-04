@@ -1,0 +1,8 @@
+# TOP 9: Frühjahrs- und Herbstmarkt 2021 – Festlegung der Anbietergruppen und der Verteilerschlüssel
+
+- Sitzung: 22. Sitzung des Stadtrates (2021-03-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/145633
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/47620
