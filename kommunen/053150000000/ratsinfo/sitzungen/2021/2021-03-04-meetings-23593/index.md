@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-04T16:00:00+01:00
+- Ende: 2021-03-04T16:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23593
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23593
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806260.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806260.pdf
+- Wortprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00806260.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Sektorale Ziele des Klimarates - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage betreffend Sektorale Ziele des Klimarates - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Die Linke betreffend Trinkwasserversorgung in Köln 02 - Sache ist erledigt
+- TOP 1.2.1: Beantwortung der Anfrage betreffend Trinkwasserversorgung in Köln 02 - Kenntnis genommen
+- TOP 1.3: Anfrage der FDP-Fraktion betreffend Private Hundehaltung in Köln - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage betreffend Private Hundehaltung in Köln - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Linke betreffend Umsetzung der Baumschutzsatzung der Stadt Köln in den vergangenen 3 Jahren - Sache ist erledigt
+- TOP 1.4.1: Beantwortung einer Anfrage Die Linke betreffend Umsetzung der Baumschutzsatzung der Stadt Köln in den vergangenen 3 Jahren - Kenntnis genommen
+- TOP 1.5: Anfrage der FDP-Fraktion betreffend Klimawandel und gestiegene Verantwortung der Stadt für Innovation als Marktführerin in der Binnenschifffahrt - Sache ist erledigt
+- TOP 1.5.1: Beantwortung einer Anfrage der FDP-Fraktion zu Klimawandel und gestiegene Verantwortung der Stadt für Innovation als Marktführerin in der Binnenschifffahrt - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betreffend Trockenheit trotzen, Gießwasserbrunnen aufstellen - geändert beschlossen
+- TOP -: zu TOP 2.1 Gemeinsamer Ersetzungsantrag der Fraktion Bündnis90/Die Grünen, SPD-Fraktion, CDU-Fraktion, Fraktion Die Linke, FDP-Fraktion, Volt-Fraktion und der Ratsgruppen GUT und Klimafreun betreffend Trockenheit trotzen, Gießwasserbrunnen aufstellen - ungeändert beschlossen
+- TOP 2.2: Antrag der Fraktion Die Linke betreffend Energieerzeugungsbilanz erstellen - endgültig zurückgezogen
+- TOP -: Stellungnahme zum Antrag AN/0969/2020 Energieerzeugungsbilanz erstellen - Kenntnis genommen
+- TOP 2.3: Antrag der FDP-Fraktion betreffend Einrichtung einer Wegbeleuchtung vom westlichen Ende des Rautenstrauchkanals bis Stadtwaldgürtel - zurückgestellt
+- TOP 2.4: Gemeinsamer Antrag von betreffend Photovoltaikausbau beschleunigen, am „Wattbewerb“ teilnehmen - geändert beschlossen
+- TOP 2.5: Dringlichkeitsantrag gem. § 12 der Geschäftsordnung der VOLT-Fraktion, Fraktion Bündnis 90 / Die Grünen und der CDU-Fraktion betrifftTeilnahme am Wettbewerb “Klimaaktive Kommune” - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Strategie Klimaneutrales Köln– Sachstand Februar 2021 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Satzung der Sport- und Erholungsanlage Fühlinger See - mit Änderungen empfohlen
+- TOP -: zu 4.1.1 Ergänzungsantrag der Fraktion Volt betreffend Satzung der Sport- und Erholungsanlage Fühlinger See - ungeändert empfohlen
+- TOP 4.1.2: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Wahl des Naturschutzbeirates bei der Unteren Naturschutzbehörde der Stadt Köln - ungeändert empfohlen
+- TOP 4.1.4: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2021 - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: PFC-Allgemeinverfügungen zum Verbot der Gartenbrunnennutzung zu Bewässerungszwecken - zurückgestellt
+- TOP 4.2.2: PFC-Belastung - Kölner Süden - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind - ohne Votum in nachfolgende Gremien
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Grüne Infrastruktur - Monitoring StadtNaturParke Ossendorf und Vogelsang - Kenntnis genommen
+- TOP 7.2: Landstromversorgung für die Rheinschifffahrt - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.4: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 7.5: Planfeststellungsverfahren für die Sanierung der Lindemauer in Köln-Sürth - Kenntnis genommen
+- TOP 7.6: Verlängerung des Mietvertrages für den Betriebshof des Amtes für Landschaftspflege und Grünflächen, Stolberger Straße 11 in Braunsfeld - Kenntnis genommen
+- TOP 7.7: Information zu den in 2020 umgesetzten Projekten aus dem Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - Kenntnis genommen
+- TOP 7.8: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 7.9: Erziehung und Unterricht in Köln - endgültig zurückgezogen
+- TOP 7.10: Einpendeln und Auspendeln in Köln - Über Muster beim Berufspendeln 2019 - Kenntnis genommen
+- TOP 7.11: Gutachten zur Ermittlung des künftigen Wohnungsbedarfes und der Wohnungsnachfrage in Köln bis 2040 liegt vor: Weitere Vorgehensweise - Kenntnis genommen
+- TOP 7.12: Energieberatung für Privathaushalte durch die Verbraucherzentrale NRW - Kenntnis genommen
+- TOP 7.13: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Rodenkirchen; hier Maßnahmen für 2021 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
