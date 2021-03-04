@@ -1,0 +1,8 @@
+# TOP 5: Leitlinien der Beteiligung von Bürgerinnen und Bürgern für Treptow-Köpenick
+
+- Sitzung: 38. (öffentliche) Sitzung des Ausschusses für Sport (2021-03-04)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=57141
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=57141
