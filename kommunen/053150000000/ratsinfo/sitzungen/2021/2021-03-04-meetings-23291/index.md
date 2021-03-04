@@ -1,0 +1,99 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-04T17:00:00+01:00
+- Ende: 2021-03-04T18:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23291
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23291
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Aktuelle Stunde
+- TOP -: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Aktuelle Stunde - Erweiterung der Forensik in Porz Westhoven" - zurückgestellt
+- TOP 1: Einwohnerfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Angepasster Baubeschluss für die Öffnung der Einbahnstraßen Houdainer Straße und Hauptstraße zwischen Schmittgasse und Burgweg für den gegenläufigen Radverkehr - zurückgestellt
+- TOP 6.2: Widmung der Straße Rolshover Kirchweg, von Allerseelenstraße bis Am Grauen Stein - zurückgestellt
+- TOP 6.3: Projektanträge im Rahmen des dritten Antragsdurchlaufs des Verfügungsfonds für das Gebiet „Soziale Stadt“ „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 6.4: Benennung eines Mitgliedes der Bezirksvertretung Porz zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - ungeändert beschlossen
+- TOP 6.5: Integriertes Stadtentwicklungskonzept Porz Mitte; - zurückgestellt
+- TOP 6.6: Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Porz - zurückgestellt
+- TOP 6.7: Gastronomiestand mit Außengastronomie im Bereich Porzer Groov - endgültig abgelehnt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - mit Änderungen empfohlen
+- TOP 7.2: Aufhebung des Bebauungsplan Nr. 73409/05 - Einleitungsbeschluss - Arbeitstitel: Grünzug Ensen in Köln-Porz-Ensen, 1.Änderung Feuerwache Ensen - zurückgestellt
+- TOP 7.3: Städtebauliche Entwicklungsmaßnahme 'Deutzer Hafen' – ergänzendes Verfahren - ungeändert empfohlen
+- TOP 7.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 7340/02 - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffen den Bebauungsplan-Entwurf Nummer 7340/20 - Arbeitstitel: Kölner Straße/ Hauptstraße in Köln-Porz-Ensen" - zurückgestellt
+- TOP 7.5: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 74410/02 Arbeitstitel: Eisenbahnersiedlung in Köln-Porz-Gremberghoven - mit Änderungen empfohlen
+- TOP 7.6: Förderprogramm "Dritte Orte" - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Vorgesehene Erweiterung der Forensik in Porz Westhoven" - zurückgestellt
+- TOP 8.2: gemeinsamer Antrag der SPD-Fraktion und der Fraktion DIE LINKE/Die PARTEI "Geplanter Ausbau der Forensik in Porz-Westhoven" - zurückgestellt
+- TOP 8.3: Antrag de Fraktion DIE LINKE/Die Partei "Resolution der Bezirksvertretung Porz: Für einen neuen Aufbruch zu einem vielfältigen und solidarischen Porz - gegen jede Form von Rassismus" - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Antrag der SPD-Fraktion "Standortsuche für ein neues Feuerwehrgerätehaus der Löschgruppe Ensen-Westhoven" - zurückgestellt
+- TOP 8.9: Antrag der Fraktion Bündnis 90/Die Grünen "E-Ladesäulen in Porz" - ungeändert beschlossen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Antrag der SPD-Fraktion "Ergänzung Querstreben an dem Geländer / Wegsicherung am Abgang - ungeändert beschlossen
+- TOP 8.12: Antrag der Fraktion Bündnis 90/Die Grünen "Plan der Leerung von Mülleimern in Urbach" - endgültig zurückgezogen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: AN 0278/2021 Leerungsvolumen von öffentlichen Müllbehälter im Bezirk Porz - Kenntnis genommen
+- TOP 8.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14: Antrag der SPD-Fraktion "Park- und Haltesituation Adolph-Kolping-Grundschule Porz-Wahn" - ungeändert beschlossen
+- TOP 8.15: Antrag der Fraktion Bündnis 90/Die Grünen "Hundekotbeutel an Mülleimern (Feld hinter Brucknerstraße) - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag der Fraktion Bündnis 90/Die Grünen "Hundekotbeutel an Mülleimern (Zuwegung Flüchtlingsunterkunft im Mühlenweg" - ungeändert beschlossen
+- TOP -: An 02020/2021 Installierung von Hundekottütenspender an Mülleimern Bruckner Straße/Feldweg - Kenntnis genommen
+- TOP 8.16: Antrag der SPD-Fraktion "Fahrbahn-Parkflächeninstandsetzung Müllergasse / Poll, im Abschnitt - zurückgestellt
+- TOP 8.17: Antrag der Fraktion Bündnis 90/Die Grünen "Bewohnerparkgebiet Ensen Heidbergweg/Schildgenweg" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Bewohnerparkgebiet Ensen Heidbergweg/Schildgenweg" - endgültig abgelehnt
+- TOP 8.18: Antrag der SPD-Fraktion "Einrichtung einer Spielstraße (Verkehrsberuhigter Bereich VZ 325) in der Jakob-Kneip-Straße im Bereich zwischen Laurenz-Kiesgen-Straße und - zurückgestellt
+- TOP 8.19: Antrag der Fraktion Bündnis 90/Die Grünen "Pflanzung von 6 Bäumen am Rande des Urbacher Marktplatzes" - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.20: Antrag der SPD-Fraktion "Sachstandsbericht zur Umgehung Zündorf/Porz L 82n" - ungeändert beschlossen
+- TOP 8.21: Antrag der Fraktion Bündnis 90/Die Grünen "Weiterentwicklung Kölner Kulturpfade - Pilot Porz" - ungeändert beschlossen
+- TOP 8.22: Antrag der SPD-Fraktion "Sachstandsbericht zur Verknüpfung der Linien 7 und 17" - ungeändert beschlossen
+- TOP 8.23: Antrag der SPD-Fraktion "Erneuerung der Fußgängerbrücke Porz-Mitte" - zurückgestellt
+- TOP 8.24: Antrag der SPD-Fraktion "Bushaltestellen Poller Damm und Im Wasserfeld barrierefrei ausbauen" - zurückgestellt
+- TOP 8.25: Antrag der SPD-Fraktion "Vereinheitlichung der Geschwindigkeiten in Zündorf" - ungeändert beschlossen
+- TOP 8.26: Antrag der SPD-Fraktion "Ausbau der Heerstraße bis zum Wermeshof" - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.27: Antrag der SPD-Fraktion "Herstellung der Verkehrssicherheit zur Querung der Glashüttenstraße an der südlichen Einmündung zur Friedrichstraße" - ungeändert beschlossen
+- TOP 8.28: Antrag der SPD-Fraktion "Beschilderung LKW-Durchfahrverbot Linder Mauspfad" - endgültig zurückgezogen
+- TOP 8.29: Antrag der SPD-Fraktion "Wege- oder Durchgangssperre am Eiler Parkweg" - ungeändert beschlossen
+- TOP 8.30: Antrag der SPD-Faktion "Stadtklima- und Verschönerungsprogramm 2019 und 2020 im Stadtbezirk Porz; hier 2. Parkplatz Leidenhausen- Sanierung und Beseitigung " - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.31: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Verbesserung der Sicherheit an der Kaserne Wahn entlang des Mauspfades zur Rolandstraße auf Wunsch der Kasernenkommandantur. OT vom 23.02.2021" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Bebauung Parkplatz Heidestraße Wahnheide" - zurückgestellt
+- TOP 9.2.2: Anfrage der CDU-Fraktion "Lehrschwimmbecken in Porz-Ensen" - zurückgestellt
+- TOP 9.2.3: Anfrage der CDU-Frakion "Wettbüro in Porz-Eil" - Sache ist erledigt
+- TOP 9.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6: Anfrage der SPD-Fraktion "Vorlage Nr. 0056/2021 – Beantwortung einer Anfrage, Lehrschwimmbecken Grundschule Hohe Straße in Köln-Porz/Ensen" - zurückgestellt
+- TOP 9.2.7: Anfrage der CDU-Fraktion "Standort Sparkassenbus auf öffentlichem Grund in Ensen" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vergabe der bezirksorientierten Mittel 2020, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.2: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 10.2.4: Werkstattbericht Deutzer Hafen - Kenntnis genommen
+- TOP 10.2.5: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 10.2.6: Lehrschwimmbecken der Grundschule Hohe Straße in Köln-Porz/Westhoven - zu einer Anfrage der SPD-Fraktion, AN/0033/2021 und zum Beschluss der Bezirksvertretung Porz AN/0543/2020 - Kenntnis genommen
+- TOP 10.2.7: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 10.2.8: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
