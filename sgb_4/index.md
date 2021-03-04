@@ -282,6 +282,8 @@
 - [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
 - [§ 128 Außerordentliche Hemmung der Verjährung](0128.md)
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)
+- [§ 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren](0130.md)
+- [§ 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren](0131.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
 (BGBl. II 1990, 889, 1046)
