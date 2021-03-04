@@ -1,0 +1,8 @@
+# TOP 6: Vergütung für Studierende mit einem Ausbildungsvertrag mit der Landeshauptstadt Dresden
+
+- Sitzung: 22. Sitzung des Stadtrates (2021-03-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/144629
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/39323
