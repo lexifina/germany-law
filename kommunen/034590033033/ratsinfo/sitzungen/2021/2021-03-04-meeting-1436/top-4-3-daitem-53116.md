@@ -1,0 +1,7 @@
+# TOP 4.3: Vorstellung des Klimafolgenanpassungskonzeptes des Landkreises Osnabrück
+
+- Sitzung: Ausschuss für Umwelt, Energie, Klimaschutz und digitale Entwicklung (15. Sitzung) (2021-03-04)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/53116
+- Beratung: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/15447
