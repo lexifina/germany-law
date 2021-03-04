@@ -1,0 +1,7 @@
+# TOP 4: Anfragen
+
+- Sitzung: Sitzung des Bau- und Umweltausschusses (2021-03-04)
+- Körperschaft: Gemeinde Petershausen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Gemeinde-Petershausen/agendaitems/11163
+- Ergebnis: zur Kenntnis genommen
