@@ -1,0 +1,73 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-04T18:00:00+01:00
+- Ende: 2021-03-04T19:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20443
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20443
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 04.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402975.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 04.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402975.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 04.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00402975.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Bezirkssportanlage Wilhelm-Heinrich-Weg 2 - Umbau Tennenspielfeld in eine Multifunktionale Sportfläche- Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 5: Erweiterung der Kindertageseinrichtung Fuldaer Str. 33a, Stadtbezirk 8 (Ausführungs- und Finanzierungsbeschluss) - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 7: Breidenplatz - Gestaltungskonzept und Bürgerbeteiligung- Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 8: Grünordnungsrahmenplan für den Stadtbezirk 8 - vertagt
+- TOP 9: Eller Kamp - Am Kleinforst, Markierung eines Radfahrstreifens in Fahrrichtung Unterbacher See - abweichend beschlossen
+- TOP 10: Zuschuss an den DüsseldorferAero-Klub e.V. - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Zuschuss der Bezirksvertretung 8 im Jahre 2021 - beschlossen
+- TOP 13: Spielplatz Posener Straße (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 14: Barrierefreie Umgestaltung S-Bahnhof Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 15: Querungssituation Königsberger Straße, Höherweg und Sandträger Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 16: Bericht Verkehrsunfallkommission für den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 17: Gewerbegebiet Jägerstraße / Cruthovener Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 18: Silvesterschäden an Wertstoffcontainern im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Containerstationen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 22: Gebäude Am Straußenkreuz 10 (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 23: Gebäude Jägerstraße / Cruthovener Straße (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 24: Kreuzung Reisholzer Straße/Kuthsweg/Schlesische Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Sitzungssaal Rathaus Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Zusätzliche Haltestelle "Jägerstraße" Buslinie 723 in Richtung Eller Mitte (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 27: Maßnahmen der Deutschen Bahn AG im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Rathelbeckstraße - Sitzgelegenheiten (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Parkplatz Großer Torfbruch (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 31: Fahrradstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Radweg Vennhauser Allee (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Waldklassenzimmer im Forstrevier Süd (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 34: Sportgeräte auf den Spielplätzen im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 35: Bienenweide im Bereich Friedrich-Engels-Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 36: Freiheitplatz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 37: Einrichtung eines runden Tisches Kissinger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 38: Fahrradschutzstreifen Karlsruher Straße / Bernburger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 39: Fahrradschutzstreifen in Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 40: Anregungen zum Toilettenkonzept - zur Kenntnis genommen
+- TOP 41: Straßen- und Wegekonzept 2021 - 2025 - zur Kenntnis genommen
+- TOP 42: Gertrudisplatz - aufsuchende Sozialarbeit - zur Kenntnis genommen
+- TOP 43: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Friedhofkapelle Unterbach - zur Kenntnis genommen
+- TOP 45: Brücke über die Bahnlinie Düsseldorf-Solingen Am Kleinforst - zur Kenntnis genommen
+- TOP 46: Bericht der Verkehrsunfallkommission im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 48: Lärmschutz Tempo 30 - zur Kenntnis genommen
+- TOP 49: Ladekonzept Elektromobilität - zur Kenntnis genommen
+- TOP 50: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 51: Regenrückhaltebecken Krippstraße - zur Kenntnis genommen
+- TOP 52: Sachstand Jugend checkt Düseldorf im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Freiheitplatz in Vennhausen - zur Kenntnis genommen
+- TOP 54: Sofortprogramm zur Stärkung unserer Innenstädte und Stadtteilzentren - zur Kenntnis genommen
+- TOP 55: Leerstand im Gewerbegebiet Jägerstraße / Cruthovener Straße - zur Kenntnis genommen
+- TOP 56: Barrierefreie Umgestaltung S-Bahnhof Eller Mitte - zur Kenntnis genommen
