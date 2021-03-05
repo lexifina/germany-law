@@ -1,6 +1,6 @@
 # Anlage 5 Liste "SUP-pflichtiger Pläne und Programme"
 
-Nachstehende Pläne und Programme fallen nach § 2 Absatz 7 in den Anwendungsbereich dieses Gesetzes.
+Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, § 2 Absatz 7 in den Anwendungsbereich dieses Gesetzes.
 | Legende: |  |  |
 | Nr. | = | Nummer des Plans oder Programms |
 | Plan oder Programm | = | Art des Plans oder Programms |

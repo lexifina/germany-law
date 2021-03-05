@@ -141,6 +141,7 @@
 - [§ 75 Kooperation von Hochschulen mit Hebammenschulen](0075.md)
 - [§ 76 Anwendung von Vorschriften über die fachschulische Ausbildung und die Ausbildung in der Form von Modellvorhaben](0076.md)
 - [§ 77 Abschluss begonnener fachschulischer Ausbildungen](0077.md)
+- [§ 77a Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen](0077a.md)
 - [§ 78 Abschluss begonnener Ausbildungen in Form von Modellvorhaben](0078.md)
 - [§ 79 Weitergeltung der staatlichen Anerkennung von Hebammenschulen](0079.md)
 - [§ 80 Evaluierung](0080.md)

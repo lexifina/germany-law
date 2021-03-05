@@ -311,8 +311,8 @@
 | § 117a | Regelung bei Stromeinspeisung in geringem Umfang |
 | § 117b | Verwaltungsvorschriften |
 | § 118 | Übergangsregelungen |
-| § 118a | (weggefallen) |
-| § 118b | (weggefallen) |
+| § 118a | Übergangsregelung zur Ausschreibung von Batteriespeicheranlagen, Festlegungskompetenz |
+| § 118b | Übergangsregelung zur Genehmigung von Batteriespeicheranlagen im Eigentum eines Betreibers von Übertragungsnetzen, Festlegungskompetenz |
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
 | Anlage (zu § 13g) | Berechnung der Vergütung |

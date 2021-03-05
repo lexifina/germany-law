@@ -5,6 +5,7 @@
 
 - [§ 1 Führen der Berufsbezeichnung](0001.md)
 - [§ 2 Voraussetzungen für die Erteilung der Erlaubnis](0002.md)
+- [§ 2a Eigenverantwortliche Durchführung heilkundlicher Maßnahmen durch Notfallsanitäterinnen und Notfallsanitäter](0002a.md)
 - [§ 3 Unterrichtungspflichten](0003.md)
 - [§ 3a Vorwarnmechanismus](0003a.md)
 

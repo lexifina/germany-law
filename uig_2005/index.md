@@ -13,6 +13,7 @@
 - [§ 5 Ablehnung des Antrags](0005.md)
 - [§ 6 Rechtsschutz](0006.md)
 - [§ 7 Unterstützung des Zugangs zu Umweltinformationen](0007.md)
+- [§ 7a Bundesbeauftragte für die Informationsfreiheit](0007a.md)
 
 ## Abschnitt 3 Ablehnungsgründe
 

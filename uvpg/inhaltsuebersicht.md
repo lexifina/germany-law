@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 
 | Teil 1 |
-| Allgemeine Vorschriften |
+| Allgemeine Vorschriften für die Umweltprüfungen |
 | § 1 | Anwendungsbereich |
 | § 2 | Begriffsbestimmungen |
 | § 3 | Grundsätze für Umweltprüfungen |
