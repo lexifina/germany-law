@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-08T17:00:00+01:00
+- Ende: 2021-03-08T17:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23610
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23610
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809218.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809218.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809218.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Bildung einer Einigungsstelle gem. § 67 LPVG NW - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalbericht 2019/2020 - Kenntnis genommen
+- TOP 4.2: Information und Zugang zu Beteiligungsverfahren in Köln - Kenntnis genommen
+- TOP 4.3: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 4.4: Mitteilung des Personal- und Verwaltungsmanagements zu den Themen Personalmarketing- und Personalgewinnungsmaßnahmen - zurückgestellt
+- TOP 4.5: Aktuelle Situation in der KFZ-Zulassungsstelle - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Videoüberwachung am Ebertplatz" - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion Die Partei betreffend "PR-Ausschreibung Ost-West-Achse Untenrum" - endgültig zurückgezogen
+- TOP 6.3: Anfrage der FDP-Fraktion betreffend "Bereitstellung von Räumen für Kölner Schiedsleute" - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU-Fraktion und Volt-Fraktion betreffend "Personalbericht 2019/2020" - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0410/2021 (TOP 6.,4) betreffend "Personalbericht 2019/2020" - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU-Fraktion, FDP-Fraktion, Volt-Fraktion und Ratsgruppe GUT betreffend "Realisierung Antrag Jobrad für städtische Mitarbeitende" - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0411/2021 (TOP 6.5) betreffend "Realisierung Antrag Jobrad städtische Mitarbeitende" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der Fraktion Die Linke betreffend "Personalbericht"
+- TOP 7.2: Mündliche Anfrage der FDP-Fraktion betreffend "Standesamtliche Trauungen in Köln"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Trauungen in Eventlocations weiter ermöglichen" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Controllingbericht zum 1. Gleichstellungsplan für 2019 - 2023 - zurückgestellt
+- TOP 10.2: Entgelt- und Benutzungsordnung der artothek - Raum für junge Kunst - ungeändert beschlossen
+- TOP 10.3: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.3 "Herstellung von Barrierefreiheit auf Kölner Gehwegen" - zurückgestellt
+- TOP 10.4: Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Linke zu TOP 10.4 betreffend "Stellplatzsatzung für Köln" - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Veranstaltungen 1. Halbjahr auf dem Neumarkt - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
