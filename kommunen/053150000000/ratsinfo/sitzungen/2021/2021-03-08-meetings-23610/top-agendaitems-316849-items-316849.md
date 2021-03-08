@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.3 "Herstellung von Barrierefreiheit auf Kölner Gehwegen"
+
+- Sitzung: Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (2021-03-08)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/316849
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/141618
