@@ -1,0 +1,85 @@
+# 1. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2021-03-08T10:15:00+01:00
+- Ende: 2021-03-08T12:15:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2021-VA-52
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2021-VA-52
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-VA-52
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-VA-52
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 14.09.2020
+- TOP -: Bestellung und Abberufung der Schriftführung nebst Stellvertretung für die 14. Wahlperiode
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Förderprogramm für den kommunalen Straßenbau 2021 Beschlussfassung
+- TOP 1.2: Städtebauförderprogramme 2021 Beschlussfassung
+- TOP 1.3: Städtebauförderung hier: Vorschlag für den Investitionspakt zur Förderung von Sportstätten 2021
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 1.4: Änderungsverfahren 39 E des Regionalen Flächennutzungsplans (RFNP) - Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.5: Änderungsverfahren 40 E des Regionalen Flächennutzungsplans (RFNP) - Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.6: Änderungsverfahren 43 E des Regionalen Flächennutzungsplans (RFNP) - Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.7: Bekanntmachung in zwei Regionalplanänderungsverfahren
+- TOP -: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Wahlprüfungsausschuss
+- TOP 2.1: Wahl der Verbandsversammlung des Regionalverbandes Ruhr: Feststellung der Gültigkeit der Wahl
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.2: Organisationsmaßnahmen innerhalb der RVR-Verwaltung
+- TOP 2.3: Umbesetzungen und Bildungen von Arbeitskreisen
+- TOP 2.3.1: Umbesetzungen in den Gremien und Organen
+- TOP 2.3.2: Einrichtung von interfraktionellen Arbeitsgruppen für die Bereiche Kultur und Vielfalt sowie Sport
+- TOP 2.4: Angelegenheiten der Freizeitgesellschaften Revierpark Wischlingen GmbH - Wechsel im Verwaltungsrat
+- TOP 2.5: Ergänzungsvorlage Stellenplan 2020/ 2021 RVR und RVR Ruhr Grün
+- TOP 2.6: Informationen zur Besetzung des Arbeitskreises VRR-NWL-RVR
+- TOP 2.7: Einrichtung einer Planungskommission
+- TOP 2.8: Außerplanmäßige Mittelbereitstellung für die Baumaßnahme ?Emscher Park Radweg ? Lückenschluss Brakerstr.? (IRG-083)
+- TOP 2.9: Haushaltsangelegenheiten
+- TOP 2.9.1: Bekanntgabe der in der Zeit vom 01.08.2020 ? 31.12.2020 für das Haushaltsjahr 2020 genehmigten Haushaltsüberschreitungen
+- TOP 2.9.2: NKF-Gesamtabschluss zum 31.12.2018 und der Vorjahre
+- TOP 2.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.12: Dringlichkeitsentscheidung Außerplanmäßige Mittelbereitstellung für die Baumaßnahmen an der Entwässerungsleitung SKO Herne (Wiedehopfstr. / Resser Wäldchen)
+- TOP 2.13: Veröffentlichung von Tondokumenten der Verbandsversammlung
+- TOP 2.14: Ruhrparlaments-TV
+- TOP 2.15: 
+- TOP 2.16: Sanierungsmaßnahmen und Raumangelegenheiten
+- TOP 2.16.1: Machbarkeitsstudie RVR-Dienstgebäude Gutenbergstraße 47; Sachstand
+- TOP 2.16.2: Anmietung von externen Büroflächen
+- TOP 2.17: Regionale Abstimmung für die Europäische Förderperiode ab 2028, Antrag der Koalition
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.18: Regionaler Diskurs Hier: Zukünftige Besetzung und Aufgaben des Beirats für die aktuelle Wahlperiode
+- TOP 2.18.1: Regionaler Diskurs Hier: Zukünftige Besetzung und Aufgaben des Beirats für die aktuelle Wahlperiode
+- TOP 2.19: Aufnahme der Zeche Friedrich Heinrich (Kamp-Lintfort) als 27. Ankerpunkt der Route Industriekultur
+- TOP -: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 2.20: 
+- TOP -: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 2.21: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - IGA Metropole Ruhr 2027 gGmbH
+- TOP 2.22: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2019 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 2.23: Angelegenheiten der Freizeitgesellschaften Revierpark Gysenberg Herne GmbH ? Änderung des Gesellschaftsvertrages und Abschluss einer Gesellschaftervereinbarung zum 01.01.2021
+- TOP 2.23.1: Angelegenheiten der Freizeitgesellschaften Revierpark Gysenberg Herne GmbH ? Änderung des Gesellschaftsvertrages und Abschluss einer Gesellschaftervereinbarung zum 01.01.2021
+- TOP 2.24: Public Corporate Governance Kodex des Regionalverbandes Ruhr
+- TOP 2.25: Bericht über die Beteiligungen 2019 gemäß GO NRW
+- TOP 2.25.1: Bericht über die Beteiligungen 2019 gemäß GO NRW
+- TOP -: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 2.26: Integriertes Handlungskonzept 'Zukunft und Heimat Revierparks 2020'; hier: Wasserspielplatz Revierpark Vonderort
+- TOP -: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 2.27: Verstetigung der Ruhr Games bis 2030
+- TOP 2.27.1: Verstetigung der Ruhr Games bis 2030
+- TOP -: Anfragen und Mitteilungen
+- TOP 2.28: Ziele und Sachstand der aktuellen Initiativen des Regionalverbandes Ruhr zu Olympia 2032
+- TOP 2.28.1: Antwort auf die Anfrage der Fraktione B90/Die Grünen Ziele und Sachstand der aktuellen Initiativen des Regionalverbandes Ruhr zu Olympia 2032
+- TOP 2.28.2: Olympiade 2032 ? Übersicht über Sportstätten und Bürgerbefragung
+- TOP 2.29: Beteiligungsverfahren Sachlicher Teilplan Regionale Kooperationsstandorte
+- TOP 2.29.1: Antwort der Verwaltung auf die Anfrage der Fraktion Die Linke Sachlicher Teilplan Regionale Kooperationsstandorte ? Stand des Verfahrens und Möglichkeit der Minimierung von auszuweisenden Standorten
+- TOP 2.30: Einbindung der regionalen Kooperationsstandorte in den Regionalplan Ruhr
+- TOP 2.30.1: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen Einbindung der regionalen Kooperationsstandorte in den Regionalplan Ruhr
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
