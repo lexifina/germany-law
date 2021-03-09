@@ -1,0 +1,74 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-09T14:05:00+01:00
+- Ende: 2021-03-09T14:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23611
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23611
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.5: Aktueller Sachstand zur Corona-Situation in der Jugendhilfe
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Förderung eines Projekts für Alleinerziehende durchgeführt durch das Bürgerzentrum Ehrenfeld - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anerkennung von Kindertagesstätten als plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - geändert beschlossen
+- TOP 2.3.2: Live Stream der Sitzungen des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Neuwahl beratender Mitglieder für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Trägervielfalt bei der Kinderbetreuung sichern – kleine Kita-Träger in Köln unterstützen! - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, hier: Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 6.1.2: Unterstützung von Jugendeinrichtungen bei der Eventplanung bezüglich Mitteilung 3492/2020 - Kenntnis genommen
+- TOP -: Digitale Alternativen für Jugendliche bezüglich Mitteilung 3492/2020 - Kenntnis genommen
+- TOP 6.1.3: Anfrage der FDP-Fraktion zu plusKITA - Kenntnis genommen
+- TOP 6.1.4: Neue Wohnsiedlungen in der Spielplatzplanung berücksichtigen - Kenntnis genommen
+- TOP -: Anfrage SPD_Fraktion in Rat und Fraktion DIE LINKE im Rat - AN1113/2020 vom 26.01.2021 (JHA) zu Neue Wohnsiedlungen in der Spielplatzplanung berücksichtigen - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sensibler Umgang mit Pumptracks im Kölner Grün - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Schließung Kindertageseinrichtung Am Gräfenhof, Köln-Brück - Kenntnis genommen
+- TOP -: Schließung Kindertageseinrichtung Am Gräfenhof, Köln-Brück - Nachfrage der SPD-Fraktion zu Mitteilung 0542/2021 - Kenntnis genommen
+- TOP 8.2.2: Baubeginn der Maßnahme Mehrzweckraum Pavillion „ im Jugendzentrum Alte Schule Widdersdorf" - Kenntnis genommen
+- TOP 8.2.3: Schließung Kindertageseinrichtung Volksgartenstr. (Gotland) - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Förderung Rom e. V. für das Haushaltsjahr 2021 ff. - Kenntnis genommen
+- TOP 8.3.2: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2020 in der Stadt Köln - Kenntnis genommen
+- TOP 8.3.3: Mitteilung zur Empfehlungen des LVR zur Wahrnehmung des Schutzauftrags gemäß § 8a SGB VIII - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Neugestaltung Spielplatz Alte Kölnstraße in Köln-Meschenich - Kenntnis genommen
+- TOP 8.4.2: Trägerwechsel Jugendeinrichtung Kalk-Ost/Kalk-Nord - Kenntnis genommen
+- TOP 8.4.3: Jugendberufsagentur: Aktueller Stand - Kenntnis genommen
+- TOP 8.4.4: TBS Zukunftswerkstatt transnational: Aktueller Stand - Kenntnis genommen
+- TOP 8.4.5: Umgestaltung des öffentlichen Spielplatzes Christrosenweg in Köln-Zündorf - Kenntnis genommen
+- TOP 8.4.6: Umgestaltung Spielplatz Heckenweg in Köln-Libur - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Schuleingangsuntersuchung 2021/2022 - Kenntnis genommen
+- TOP 8.5.2: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 8.5.3: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 8.5.4: Beantwortung der schriftlichen Anfrage AN/0231/2021 der Fraktion Die Linke im Rat der Stadt Köln vom 04.02.2021: Beitrag der Bühnen der Stadt Köln zur musisch-kulturellen Bildung in Kölner Kitas und Schulen - Kenntnis genommen
+- TOP 8.5.5: Jubiläumsausgabe Broschüre „30 Jahre Digitale Spiele pädagogisch beurteilt“ - Kenntnis genommen
+- TOP 8.5.6: Webserie KUNTERGRAU aus Köln/Jugendzentrum anyway für den Grimme-Preis nominiert - Kenntnis genommen
+- TOP 8.5.7: Zuschuss für die Jugendeinrichtung Mädchenzentrum II des Trägers "Lobby für Mädchen e.V." - Kenntnis genommen
+- TOP 8.5.8: Neugestaltung der Spielplätze „Rixdorfer Str.“ und „Wuppertaler Str./Stegwiese“ - Kenntnis genommen
