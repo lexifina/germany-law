@@ -1,0 +1,51 @@
+# Ausschuss für Schule und Weiterbildung (2. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-03-09T17:03:00+01:00
+- Ende: 2021-03-09T18:34:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-32
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZc5zTNpEMboHAdl3PQG5MQY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6420
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Schule und Weiterbildung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfm9IM4IbgZe7PCuFxRGPfTS0xvoI42Z3LHylN2szq96/Bekanntmachung_Ausschuss_fuer_Schule_und_Weiterbildung_09.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Schule und Weiterbildung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUEHZE9buAsyqNy58tLMszm7IdK9bAeblC2Qw2FV31EW/Oeffentliche_Niederschrift_Ausschuss_fuer_Schule_und_Weiterbildung_09.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sachstand der Baumaßnahme Grundschule Uhlandstraße
+- TOP 1.2: Endgeräte in Schulen
+- TOP 1.3: Prüfauftrag der FDP Fraktion vom 20.11.2020 zum Einbau von einfachen Lüftungsanlagen in Schulräumen und Sporthallen
+- TOP 1.4: Anschaffung von Luftreinigungsgeräten
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Ausschusses für Schule und Weiterbildung am 01.12.2020
+- TOP 4.: Wirtschaftsplan 2021 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 5.: Jahresabschluss 2019 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 6.: Wiederaufnahme des Schulbetriebes an den Grundschulen - mündlicher Bericht -
+- TOP 7.: Sicherstellung von zusätzlichem Raum- und Personalbedarf während der Corona-Pandemie
+- TOP 8.: Zeitlich befristete Personalstelle für das Projekt „Solinger Schulen und Kindertagesstätten für den Klimaschutz“ (100% Förderung)
+- TOP 9.: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. - mündlicher Bericht -
+- TOP 9.1: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. Anträge der Ratsfraktionen FDP und DIE LINKE.Die PARTEI vom 05.03.2021
+- TOP 9.2: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. Interfraktioneller Antrag vom 05.03.2021
+- TOP 10.: Verlängerung der Teilauslagerung der Erika-Rothstein-Schule
+- TOP 11.: Sachstandsbericht Offener Ganztag
+- TOP 12.: Sachstand Digitalisierung an Schulen
+- TOP 13.: Bildungsbericht 2020
+- TOP 14.: Verschiedenes
+- TOP 14.1: Mitteilungen der Verwaltung
+- TOP 14.1.1: Anmeldeverfahren an den Grundschulen für das Schuljahr 2021/2022
+- TOP 14.1.2: Anmeldung an den weiterführenden Schulen zum Schuljahr 2021/2022
+- TOP 14.2: Anfragen an die Verwaltung
+- TOP 14.2.1: Chat-Funktion bei zoom-Konferenzen
+- TOP 14.2.2: Versicherung privater Geräte
+- TOP 14.3: sonstiges
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Ausschusses für Schule und Weiterbildung am 01.12.2020
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
