@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-03-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Bannwaldseestraße 65
+- TOP 6.2.2: Zentralländstraße 41
+- TOP 6.2.3: Isarwinkel 4
+- TOP 6.2.4: Ascholdinger Straße Fl.Nr. 553/11
+- TOP 6.2.5: Hofmannstraße 61
+- TOP 6.2.6: Sörgelstraße 15b
+- TOP 6.2.7: Fürstenackerstraße 19
+- TOP 6.2.8: Buchendorfer Straße 37
+- TOP 6.2.9: Bertelestraße 76 (VB)
+- TOP 6.2.10: Rothspitzstraße 3
+- TOP 6.2.11: Wolfratshauser Straße 270
+- TOP 6.2.12: Reismühlenstraße 47
+- TOP 6.2.13: Voltzweg 6
+- TOP 6.2.14: Steinkirchner Straße 1 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 09.02.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Satzungsänderung: Corona-Pandemie; Verlängerung Sonderausschüsse bis 31.12.2021
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kultur & Mehr, Trägerverein Bürgersaal Fürstenried e.V. Anschaffung eines Beamers 1.841,51€; Az. 0262.0-19-0358
+- TOP 3.3.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00€; Az. 0262.0-19-0359
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Diskriminierung von Fußgängern in Wertstoffhöfen
+- TOP 4.4.: (A) Erholungsraum Isar - Neugestaltung Isar-Map
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Steinkirchner Straße - Jägerhuberstraße, Rad- und Fußgängerverkehr sicherer gestalten
+- TOP 5.3.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Hol- und Bringzone Kita Fertigstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Rahmenplan / Gewerbeband Obersendling
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Änderung Flächennutzungsplan mit integrierter Landschaftsplanung für den Bereich III/28 und Bebauungsplan mit Grünordnung Nr. 1930d - Campus Süd
+- TOP 6.4.: - NACHTRAG - (Antrag) Bauvorhaben Isarwinkel 4
+- TOP 6.5.: - NACHTRAG - (Antrag) Campingplatz Thalkirchen
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Ersatzstandort während der Sanierung des kath. Kindergartens St. Karl Borromäus, Berner Str. 101
+- TOP 7.2.: - NACHTRAG - (A) Spiellandschaft Stadt e.V.: Spielaktionen 2021 im 19. Stadtbezirk
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Neue Förderrichtlinie der Bundesregierung für Lüftungsanlage im Bürgersaal Fürstenried nutzen
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
