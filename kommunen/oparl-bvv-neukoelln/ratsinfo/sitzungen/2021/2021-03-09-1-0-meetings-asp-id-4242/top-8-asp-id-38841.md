@@ -1,0 +1,8 @@
+# TOP 8: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“
+
+- Sitzung: 49. öffentliche Sitzung des Ausschusses für Haushalt, Wirtschaft, Verwaltung und Gleichstellung (2021-03-09)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=38841
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=38841
