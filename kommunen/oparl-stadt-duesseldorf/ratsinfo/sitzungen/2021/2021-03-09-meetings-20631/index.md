@@ -1,0 +1,54 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-09T17:00:00+01:00
+- Ende: 2021-03-09T19:45:00+01:00
+- Ort: Franz-Jürgens-Berufskolleg, Aula, Färberstraße 34
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20631
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20631
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404060.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404060.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404060.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften 6/2020, 8/2020 und 9/2020 vom 15.09.2020, 17.11.2020 und 08.12.2020 - einstimmig beschlossen
+- TOP 3: Zulassung von Vertretungen betroffener Bevölkerungsgruppen (Senioren, Jugend, Behinderte) gem. § 58 Abs. 3 GO NRW
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Neusser Straße / Düsselstraße - Radfahrerquerung - einstimmig beschlossen
+- TOP 7: Bebauungsplan Nr. 5674/26 - Nördlich Harffstraße - einstimmig beschlossen
+- TOP 7.1: Plan Nr. 03/034 Südlich Haroldstraße - abweichend beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Genehmigung eines Dringlichkeitsbeschlusses; Heerstraße 18,18a BV3/010/2021 - einstimmig beschlossen
+- TOP 16: Baumfällungen im Rahmen der Kanalerneuerungsmaßnahme Friedrichstraße (zwischen Fürstenwall und Luisenstraße) - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 17: Bericht zur RRX-Planung im Abschnitt PFA 2.1 - einstimmig beschlossen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Korrektur von Anhängen an Straßenschildern Friedrich- und Elisabethstraße - abweichend beschlossen
+- TOP 20: Pandemiebekämpfung ja, aber nicht auf den Schultern von kleinen Kindern und Eltern - zurückgezogen
+- TOP 21: Verbesserung der Radwege - Anlieger und Radfahrer frei! - abweichend beschlossen
+- TOP 22: Batterieweg zwischen Hammer Deich und Viehfahrtsweg; Beleuchtung - einstimmig beschlossen
+- TOP 23: Innovatives Verkehrskonzept für die Lorettostraße - zurückgezogen
+- TOP 24: Lessingplatz; Beleuchtung - einstimmig beschlossen
+- TOP -: Anfrage
+- TOP 25: Supermarkt für die Stadtteile Hamm, Hafen und Unterbilk - schriftlich beantwortet
+- TOP 26: Sachstand Freigabe alles Einbahnstraßen als Zweirichtungsradweg - vertagt
+- TOP 27: Zuschuss an den Verein DüsseldorferPaddlergilde e.V. - einstimmig beschlossen
+- TOP 28: Zuschussantrag Neugestaltung des Spielplatzes der Spieloase - vertagt
+- TOP 29: Zuschussantrag Umbau - einstimmig beschlossen
+- TOP 29.1: Blumenkübel 2021 - einstimmig beschlossen
+- TOP 29.2: Zuschussantrag Malerarbeiten - zurückgestellt
+- TOP 29.3: Zuschussantrag Einzäunung - zurückgezogen
+- TOP 30: Mitteilungen des Bezirksbürgermeisters
