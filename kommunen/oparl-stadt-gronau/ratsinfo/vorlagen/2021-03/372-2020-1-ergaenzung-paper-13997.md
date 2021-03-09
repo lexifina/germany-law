@@ -1,0 +1,28 @@
+# Kindsein in Corona-Zeiten
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 372/2020 1. Ergänzung
+- Art: Kenntnisnahme
+- Datum: 2021-03-09
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZ_vdqRgBIBGDPp-kdtRBls
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/13997
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Kenntnisnahme (Kindsein in Corona-Zeiten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYnTcFzcwAm6E40F_KgjW4EPKGPiswLgkHUTl3pGjVEp/Kenntnisnahme_372-2020_1._Ergaenzung.pdf
+- Anlage: Kenntnisnahme (1. Allgemeiner Sozialer Dienst (ASD)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX4G2v2FB7qrloHOc6UXqJsd34NTo0Tln1vsVrsrBunv/1._Allgemeiner_Sozialer_Dienst_-ASD-.pdf
+- Anlage: Kenntnisnahme (2. Pflegekinderdienst (PKD)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXO1lE-tUZ_gy5MByCPBNjHdjGqJAbn0hlVit17pMn0u/2._Pflegekinderdienst_-PKD-.pdf
+- Anlage: Kenntnisnahme (3. Eingliederungshilfe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfbPB9TdLtJh0BjLzk0QbHXG7_K-G8hKQQmQvXjha5u1/3._Eingliederungshilfe.pdf
+- Anlage: Kenntnisnahme (4. Jugendberufshilfe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZblW7PXhkvh9ImOgcajwbF2TFWdfgugAyz3Ebzx197Ve/4._Jugendberufshilfe.pdf
+- Anlage: Kenntnisnahme (5. Jugendgerichtshilfe im Strafverfahren) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU_8YhuQ4_2-zt6x2WtwRGNK9YTEIe599R22LdDW8E8o/5._Jugendgerichtshilfe_im_Strafverfahren.pdf
+- Anlage: Kenntnisnahme (6. Vormundschaften Beistandschaften) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-_UXY4K74JTYCLUrs-vij2AB2lU2f9_QZfLOg-yE7o/6._Vormundschaften_Beistandschaften.pdf
+- Anlage: Kenntnisnahme (7. Städt. Kitas) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaanaejbzAme5a7z-OnUSTJVpJUuBvZHH90NUwuNrf-M/7._Staedt._Kitas.pdf
+- Anlage: Kenntnisnahme (8 Hort Auenland) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZzT4GdavLXzJTokOkb-Kujy8k6d_9SjSS-8-RT2VKRx/8_Hort_Auenland.pdf
+- Anlage: Kenntnisnahme (9. Projektgruppe Übergang Kita Grundschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZ4AoHI9Fn8bvcMX44Kj91j6hrXrNzkHUyRdVzhn5Q5/9._Projektgruppe_Uebergang_Kita_Grundschule.pdf
+- Anlage: Kenntnisnahme (10. Kinder- und Jugendzentrum Luise) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenmdXyKsv4xubrG2z3hLB8bZ2hikDRXGC4Pw22lHsZx/10._Kinder-_und_Jugendzentrum_Luise.pdf
+- Anlage: Kenntnisnahme (11. Jugendzentrum Stop) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfgli-jgTcKef5KLsbgF1HEeaAEFDdXQvp1vNvwsiug0/11._Jugendzentrum_Stop.pdf
+- Anlage: Kenntnisnahme (12. Ferienspiele 2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3CMWQ_JqXs0DH0zXSqSa71aerA3YS3iLQdmKT4GSjF/12._Ferienspiele_2021.pdf
+- Anlage: Kenntnisnahme (13. Schulsozzialarbeit) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSbTQE9iQMcL68x-8mUywAqcRcTYe8wtk2JEt1bO7VbL/13._Schulsozzialarbeit.pdf
+- Anlage: Kenntnisnahme (14 Streetwork) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZel9xFUo3JLBg2j-abt09SnSGe-SxAoYlnPemjgx2kXT/14_Streetwork.pdf
+- Anlage: Kenntnisnahme (15. Projekt Plan G) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ3JqInXqztR9gzz2T1KB36XsOChfpwc3TyTRFP4M4Zd/15._Projekt_Plan_G.pdf
+- Anlage: Kenntnisnahme (16. personelle u. sächliche Ressourcen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbohY_Ig56KlJ_udC5KFaUUsCkJ2E8AbGtGEcTYvHgJD/16._personelle_u._saechliche_Ressourcen.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4717 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-78
