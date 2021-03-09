@@ -1,0 +1,59 @@
+# 2. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-09T15:38:00+01:00
+- Ende: 2021-03-09T16:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23599
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23599
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers und dessen Stellvertreterin für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - ungeändert beschlossen
+- TOP -: Verpflichtung von sachkundigen Einwohnern
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Schriftlicher Antrag der FDP und Freie Wähler Köln; Ein Radiomuseum ins historische WERAG-Funkhaus, Raderthal - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Benutzungsordnung der Kunst- und Museumsbibliothek der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO – „Ankaufsetat der Artothek" - ungeändert beschlossen
+- TOP 4.3: Entgelt- und Benutzungsordnung der artothek - Raum für junge Kunst - ungeändert beschlossen
+- TOP 4.4: Bestellung der Mitglieder im Beirat Popkultur 2021 bis 2025 - ungeändert beschlossen
+- TOP 4.5: Bestellung der Mitglieder der Jurys zur Vergabe der Förderstipendien der Stadt Köln - ungeändert beschlossen
+- TOP 4.6: Erweiterung der Corona-Sondermaßnahmen Kultur 2021 des Kulturamtes gemäß Änderungsantrag - ungeändert beschlossen
+- TOP 4.7: MAKK-Förderstiftung-Bestellung des Kuratoriums - ungeändert beschlossen
+- TOP 4.8: Renovierungsprogramm Museen und Kulturbauten 2020 - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Verteilung der disponiblen Mittel aus dem Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" für das Haushaltsjahr 2021 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Geschäftsbericht Kulturamt 2019 - Kenntnis genommen
+- TOP 8.2: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen. Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen
+- TOP 8.3: Vergabe der Restmittel 2020 im Förderschwerpunkt "Cologne Music Export" - Kenntnis genommen
+- TOP 8.4: Aktualisierung der Geschäftsordnung der Jury zur Vergabe des Holger Czukay-Preises für Popmusik der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Statusbericht Programme zur digitalen Bildung – MINTköln Festival der Stadtbibliothek - Kenntnis genommen
+- TOP 8.6: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 8.7: Vorlage eines Konzepts zur Förderung des Open-Air-Angebots ab April bis September 2021 – Sommer Köln 2021 - Kenntnis genommen
+- TOP 8.8: Vorstellung des Spielplans der Puppenspiele der Stadt Köln für die Spielzeit 2021/2022 - Kenntnis genommen
+- TOP 8.9: Vorschau auf die Sonderausstellungen und Sammlungspräsentationen der Museen der Stadt Köln mit Ausnahme des Wallraf-RichartzMuseums & Fondation Corboud 2019 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua)
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 19. Februar 2021 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer Anfrage der SPD Fraktion zum Otto-Langen-Quartier - zurückgestellt
+- TOP 10.2: Beantwortung der Anfrage der SPD-Fraktion betr.: "Perspektiven für die Fotostadt Köln sicherstellen!" - zurückgestellt
+- TOP 10.3: Workshop Partiziption im Rahmen der Kulturentwicklungsplanung - zurückgestellt
+- TOP 10.4: Kulturentwicklungsplanung: Sachstand Raummanagement - zurückgestellt
+- TOP 10.5: Sicherung, Weiterentwicklung und Neuaufstellung des Literaturfestivals "lit.COLOGNE" - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage Die Linke-Fraktion: Rassistische und/oder koloniale Denkmäler und Namen von Straßen, Wegen, Plätzen - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Kündigungen von Ateliers in stadteigenen Ateliers aus Coronagründen bis 31.03.2021 auszusetzen
