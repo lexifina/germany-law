@@ -1,0 +1,8 @@
+# TOP -: Digitale Alternativen für Jugendliche bezüglich Mitteilung 3492/2020
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2021-03-09)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/317299
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/149466
