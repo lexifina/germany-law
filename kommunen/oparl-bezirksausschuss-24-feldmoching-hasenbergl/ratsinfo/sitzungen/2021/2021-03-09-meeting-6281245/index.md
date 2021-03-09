@@ -1,0 +1,90 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-03-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6281245
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6281245
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Tennis im Stadtbezirk 24" Freies Tennis-Training im Stadtbezirk 24 800,00 € / Az. 0262.0-24-0350
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Toni-Pfülf-Straße "Osternester für Schülerinnen und Schüler" 85,00 € / Az. 0262.0-24-0357
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Volkshochschule GmbH "Urban Sketching & Writing - Schreib- und Zeichenprojekt fürs Hasenbergl" 2500,00 € / Az. 0262.0-24-0356
+- TOP 3.1.: Schaffung einer sicheren Querung in Form von Fußgängerüberwegen an der Lassallestr. und der Max-Wönner-Str.
+- TOP 3.2.: a) Verkehrslage Franz-Sperr-Weg; Erklärung zur Einbahnstraße b) Erneuerung der Straßenmarkierungen an der Kreuzung Max-Wönner-Str./Lassallestr.
+- TOP 3.3.: Tempo 30 Regelgeschwindigkeit im 24. Stadtbezirk
+- TOP 3.4.: Abhaltung digitaler bzw. hybride BA und UA-Sitzungen, sofern die rechtlichen Voraussetzungen dafür vorliegen
+- TOP 3.5.: Anschaffung der nötigen Hard- und Software zukünftig auch digitale bzw. hybride BA und UA-Sitzungen durchzuführen und Unterweisung der IT-Beauftragten im BA 24
+- TOP 3.6.: Wiederherstellung des Platzes vor dem Bahnhof Feldmoching - Maßnahmen
+- TOP 3.7.: Ausweisung von Quartieren mit Gartenstadtcharakter
+- TOP 3.8.: Einrichtung von Lastenradstationen an den S1-Haltepunkten Feldmoching und Fasanerie und am Haltepunkt der U2 Hasenbergl
+- TOP 3.9.: Bedarfsgerechte Schaltung der Verkehrsampel an der Querung Christl-Marie-Schultes-Weg/Wilhelmine-Reichard-Straße
+- TOP 3.10.: Beauftragte gegen Rechtsextremismus im 24. Stadtbezirk; Tätigkeitsbericht, Tätigkeitsfelder, Turnus Berichterstattung
+- TOP 3.11.: Aufklärung zu der im BA 24 gelegenen Ausgleichsfläche westlich der Lassallestraße
+- TOP 3.12.: Resolution zur Unterstützung der Vereine im 24. Stadtbezirk
+- TOP 3.13.: Parkplatzproblem Grohmannstraße; Lösungsgesuch
+- TOP 3.14.: Kleinere Umbaumaßnahmen am Jugendspielplatz Pappelallee
+- TOP 3.15.: Wiederaufnahme der Planungen für die Tunnelanbindung Schleißheimer Straße / A99
+- TOP 3.16.: Ausweisung eines geeigneten Standortes für die Errichtung einer Leichtbauhalle für die Turner in Feldmoching
+- TOP 5.1.1.: Harpprechtstr. 1 - 7 - TEKTUR
+- TOP 5.1.2.: Heppstr. 8
+- TOP 5.1.3.: Feldmochinger Str. 206
+- TOP 5.1.4.: Reigersbachstr. 6
+- TOP 5.1.5.: Seuffertstr. 4
+- TOP 5.1.6.: Himmelschlüsselstr. 41
+- TOP 5.1.7.: Glyzinienstr. 23
+- TOP 5.1.8.: Grashofstr. 77
+- TOP 5.1.9.: Feldmochinger Str. 212a
+- TOP 5.1.10.: Freudstr. 15
+- TOP 5.2.1.: Harpprechtstr. 1 - 7 - TEKTUR
+- TOP 5.2.2.: Heppstr. 8
+- TOP 5.2.3.: Feldmochinger Str. 206
+- TOP 5.2.4.: Petrarcastr. 1
+- TOP 5.2.5.: Freudstr. 15
+- TOP 5.3.1.: Veranstaltung: Kreisjugendring Zirkus Nordini, Zirkuswiese Weitlstraße, 02.08. bis 07.08.2021
+- TOP 5.4.1.: Corona-Pandemie / Änderung der Bezirksausschusssatzung / Sonderausschüsse / Verlängerung bis zum 31.12.2021
+- TOP 5.4.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse
+- TOP 5.4.3.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 5.4.4.: Erinnerungsverfahren gem. § 6.1 AufgrO zu Baustellen: a) Lerchenstr. 56 Bahnübergang b) Pappelallee 30 b - 36 a
+- TOP 5.4.5.: Baumfällungen (BaumSchVO): a) Am Schnepfenweg 36 b) Glyzinienstr. 20 c) Trollblumenstr. 24
+- TOP 5.4.6.: verkehrsrechtliche Anordnung nach § 45 StVO: Absolutes Haltverbot, Nordseite Waldrebenstraße
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Brückenprüfung der Schwabenbächlbrücke
+- TOP 2.: Reinigung der Querrinnen auf den Fahrradwegen im Rangierbahnhofgelände
+- TOP 3.: Einstellung Restgelder des Stadtbezirksbudgets von 2019 in das Haushaltsjahr 2021
+- TOP 4.: Sechszügige Grundschule im Baugebiet Lerchenauer Feld
+- TOP 5.: Einrichtung weiterer Haltverbotszonen in der Weitlstraße im Abschnitt zwischen Eduard-Spranger-Straße/Riemerschmidstraße und Ratoldstraße
+- TOP 6.: Hinweis auf Tempo-30 in der Gustav-Schiefer-Straße; zusätzliche Hinweisschilder bzw. Anbringen von Straßenmarkierungen
+- TOP 7.: Kreuzung Dülferstr./Schaarschmidtstr.; Anbringung großflächiger Markierungen auf der Fahrbahn sowohl östlich als auch westlich der Schaarschmidtstr.
+- TOP 8.: Fußgängerunterführung im Rangierbahnhofgelände unterhalb der Feldmochinger Str.; Trennung der Fahrbahn in einen Fußgänger-/Radfahrerbereich, regelmäßige Reinigung der Fahrbahn -> Zuständigkeit DB Bahn
+- TOP 9.: Bauvorhaben Georg-Zech-Allee 15
+- TOP 10.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Änderung Gefahrzeichen Gundermannstraße Höhe Waldmeisterstraße b) Tempo-30-Zone Ferchenbachstraße / Kaiserhölzlstraße (Zone Nr. 453)
+- TOP 11.: Unveränderte Fortführung eines Gaststättenbetriebes; Feldmochinger Str. 389
+- TOP 12.: (U) Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Benennung von sechs Straßen im Baugebiet zwischen Hochmuttinger Straße, Herbergstraße und Paul-Preuß-Straße
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anträge
