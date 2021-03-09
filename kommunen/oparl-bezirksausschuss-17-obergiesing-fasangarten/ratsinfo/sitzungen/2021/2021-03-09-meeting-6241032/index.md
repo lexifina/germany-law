@@ -1,0 +1,165 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2021-03-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6241032
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6241032
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Kinderbeauftragte/r
+- TOP 3.2: Jugendbeauftragte/r
+- TOP 3.3: Inklusion (Beauftragte/r für Menschen mit Behinderung)
+- TOP 3.4: Gleichstellungsbeauftragte/r
+- TOP 3.5: Beauftragte/r gegen Rechtsextremismus
+- TOP 3.6: Beauftragte/r für Integration
+- TOP 3.7: Internetbeauftragte/r
+- TOP 3.8: Seniorenbeauftragte/r
+- TOP 3.9: Mieterbeirätin / Mieterbeirat
+- TOP 3.10: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Ampel in Giesing bei der Stadelheimer Str. / Schwarzenbergerstraße - Bürgeranliegen vom 28.01.2021 - (FF UA Mobilität und Verkehr)
+- TOP 2.1.2.2.: Laubbläser verbieten - Bürgeranliegen vom 17.02.2021 - (FF UA Umwelt)
+- TOP 2.1.2.3.: Fahrradweg Grünspitz Richtung Giesinger Berg - Bürgeranliegen vom 04.12.2020 - (FF UA Mobilität & Verkehr)
+- TOP 2.1.2.4.: Parksituation Bacherstraße - Bürgeranliegen vom 14.12.2020 - (FF UA Mobilität & Verkehr)
+- TOP 2.3.1.: Protokoll des BA-Vorsitzenden Treffens vom 14.01.2021
+- TOP 3.10.1.: Bantingstr. 11
+- TOP 3.10.2.: Stadelheimer Str. 12
+- TOP 3.10.3.: Arzberger Str. 22
+- TOP 3.10.4.: Arzberger Str. 6
+- TOP 3.10.5.: Schwanseestr. 9 - 31
+- TOP 3.10.6.: Alzstr. 15-19
+- TOP 5.1.1.: (E) Stadtbezirksbudget Initiative Zeitkapsel Zeitkapsel Giesing vom 01.05. - 25.09.2021 6.895,20 € / Az. 0262.0-17-0280 (FF UA Kultur)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Real München e.V. Ois Giasing 3000 vom 01.04. - 30.08.2021 15.000,00 € / Az. 0262.0-17-0281 (FF UA Kultur)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Sankt-Martin-Straße Theaterprojekt "Die Odysee" nach Homer vom 12.-16.04.2021 2.999,52 € / Az. 0262.0-17-0283 (FF UA FSA)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Initiative "Kulturspaziergang" Kulturspaziergang Obergiesing am 19.06.2021 12.300,00 € / Az. 0262.0-17-0278 (FF UA Kultur)
+- TOP 5.1.5.: (E) Stadtbezirksbudget Initiative Giesing Denk(t)Mal Giesing Denk(t)Mal vom 01.06.21 - 30.06.2022 5000,00 € / Az. 0262.0-17-0284 (FF UA Kultur)
+- TOP 5.1.6.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00 € / Az. 0262.0-17-0285 (FF UA Kultur)
+- TOP 5.1.7.: (E) Stadtbezirksbudget Wir in Giesing e.V. Ois Giasing – Kultursommer 2021 vom 09.04. - 23.10.2021 11.009,07 / Az. 0262.0-17-0287 (FF UA Kultur)
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Informationsschreiben: Kürzung Stadtbezirksbudget 2021 - Schreiben des Direktoriums vom 03.02.2021 -
+- TOP 5.4.2.: Erfahrungsabfrage Evaluierung Stadtbezirksbudget - Schreiben des Direktoriums vom 23.02.2021 - (FF liegt bei allen UA)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.4.1.: Liste der Baumaßnahmen der Stadtwerke München - Schreiben der SWM Services GmbH vom 01.02.2021 -
+- TOP 6.1.4.2.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 08.02.-14.02.21
+- TOP 6.1.4.3.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 15.02.-21.02.21
+- TOP 6.1.5.1.: Verzicht auf Stellplatzablöse bei nachträglichem Dachgeschossausbau durch sozialen Wohnungsbauunternehmen und Genossenschaften - Antrag der Fraktion CSU vom 18.02.2021 -
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose - Schreiben des Sozialreferates vom 03.02.2021
+- TOP 6.2.4.2.: Anita Augspurg Preis 2021 - Schreiben der Gleichstellungsstelle für Frauen vom 01.02.2021 -
+- TOP 6.2.4.3.: Spielplatzbeschilderung neuer Spielplatz Hohenschwangauplatz Ecke Scharfreiterplatz
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: Projektplangenehmigung Neuschwansteinplatz Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung / Beschluss des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 18.02.2021
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Checkliste und Meldeformular für die Sommerstraßen 2021 - Schreiben des Mobilitätsreferates vom 03.02.2021 -
+- TOP 6.3.3.2.: Lincolnstraße, Südeingang Friedhof, Kurzzeitparkplatz auf Probe - Schreiben des Mobilitätsreferates vom 04.02.2021 -
+- TOP 6.3.3.3.: Personenbezogener Behindertenparkplatz Hohenwaldeckstr. 27 - Schreiben des Mobilitätsreferates vom 10.02.2021 -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Parkplätze an der Lincolnstraße - Verkürzung des einseitigen Halteverbotes von 17.00 Uhr auf 16.00 Uhr
+- TOP 6.3.4.2.: Verkehrslage an der Einrichtung Pöllatinsel
+- TOP 6.3.4.3.: Verkehrssituation in der Traunsteiner Straße
+- TOP 6.3.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.5.: Anbringung Parkschilder bei Parkbuchten Lincolnstraße
+- TOP 6.3.4.6.: Anpassung Parkzeitregelung Deisenhofer Straße;
+- TOP 6.3.4.7.: Verkehrsberuhigung in der Setzbergstraße
+- TOP 6.3.4.8.: Gehsteige entlang der Tegernseer Landstraße barrierefrei einrichten - Bürgeranliegen vom 01.11.2020 -
+- TOP 6.3.4.9.: Ella-Lingens-Platz: Häufiges Befahren und Parken von Fahrzeugen auf dem Platz sowie dem Fuß- und Radweg und Störung des Fuß- und Radweges durch ein Bistro
+- TOP 6.3.4.10.: Planung Regerbrücke
+- TOP 6.3.4.11.: Tegernseer Platz u. Tela Nord - Schreiben des Mobilitätsreferates vom 13.02.2021 -
+- TOP 6.3.4.12.: Anlieferzonen, Kurzhaltebuchten oder Park- und Halteverbote vor Altenheim St. Martin der Münchenstift GmbH
+- TOP 6.3.5: Anträge
+- TOP 6.3.5.1.: Auch in 2021 eine Sommerstraße in Obergiesing: St.-Martin-Straße / Zugspitzstaße saisonal umnutzen! - Antrag der Fraktion B90/Die Grünen vom 25.01.2021 -
+- TOP 6.3.5.2.: Querungsmöglichkeit der St.-Bonifatius-Straße - Antrag der Fraktion B90/Die Grünen vom 04.01.2021 -
+- TOP 6.3.5.3.: Gehwege freihalten (II) - Wertstoffcontainer an der Ecke St.-Bonifatius-Str./Zugspitzstr. - Antrag der Fraktion B90 / Die Grünen vom 21.02.2021 -
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Ausnahmezulassung Reinigungsarbeiten an den U-Bahnhöfen - Schreiben des Referates für Gesundheit und Umwelt vom 27.11.2020 -
+- TOP 6.4.4.2.: Baumschutz wg. Baumaßnahme Schwandorfer Str. 10
+- TOP 6.4.4.3.: Zu wenige Wertstoffinseln im Bezirk Fasangarten - Bürgeranliegen vom 21.12.2020 -
+- TOP 6.4.4.4.: Bänke im Agfa Park - Bürgeranliegen vom 09.11.2020 - (FF UA Umwelt)
+- TOP 6.4.4.5.: Kronepark instand setzen ! Beseitigung der Verschmutzungen an Mauern und Sitzbänken, sowie Erneuerung von Schildern, um Aufenthaltsqualität zu verbessern (Information aus dem BA 5)
+- TOP 6.4.4.6.: Anfrage zu aktuellem Stand: Maßnahmen zur Pflege, Erhaltung und Restaurierung des Kroneparks - Einbeziehung des Bezirksausschusses (Information aus dem BA 5)
+- TOP 6.4.5: Anträge
+- TOP 6.4.5.1.: Mehr Hundekottütenspender und größere Müllbehälter in der Siedlung am Perlacher Forst - Antrag der Fraktion CSU vom 22.02.2021 -
+- TOP 6.4.5.2.: Impfmöglichkeiten gegen COVID 19 in Obergiesing und Fasangarten bereitstellen - Dringlichkeitsantrag der CSU-Fraktion vom 28.02.2021 -
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Bürgeranliegen (Freischankflächen und dicht nebeneinander speisende Gäste) - Antwort des Kreisverwaltungsreferates (BI-Süd) vom 03.02.2021 -
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Verlängerung Sonderausschüsse 2021 - Schreiben des Direktoriums vom 18.02.2021 -
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
