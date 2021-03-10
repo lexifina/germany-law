@@ -1,0 +1,180 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6403873
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6403873
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Unterstützung der Europäischen Janusz Korczak Akademie bei der Suche nach Räumlichkeiten im Viertel
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Tanztendenz München e.V. Residenzprogramm der Tanztendenz von März - Dezember 2021 7.962,80 Euro, Az.: 0262.0-2-0375
+- TOP 2.2.: (E) Stadtbezirksbudget BI Piazza Zenetti Betrieb und Erhalt der Piazza Zenetti vom 24.03.2021 - 31.12.2021
+- TOP 2.3.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00 Euro, Az.: 0262.0-2-0381
+- TOP 5.1.: Durchsetzung Alkoholverbot Alter Südlicher Friedhof; Bürgeranliegen
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Auf der Kapuzinerstraße wird von der Lindwurmstraße aus an der Kreuzung mit der Adlzreiterstraße ein Radweg auf der Straße markiert; Antrag der SPD-Fraktion vom 01.02.2021
+- TOP 1.2.: Tempo 30 in der Müllerstraße; interfraktioneller Antrag des BA vom 13.02.2021
+- TOP 1.3.: Für Gastronomie-Betriebe im Gebiet des BA 2 wird bei der Umstellung auf ein Mehrweg-Pfand-System auf Antrag ein Zuschuss gewährt; Antrag der SPD-Fraktion vom 18.02.2021
+- TOP 1.4.: Regenbogen Fußgänger*innenüberweg; Antrag der Fraktion Die Grünen / Rosa Liste vom 22.02.2021
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Sperrzeitaufhebung, Schillerstraße 19
+- TOP 2.2.1.: Antrag zur Aufstellung von Warenauslagen, Schwanthalerstraße 21
+- TOP 2.3.1.: Projektplanung Dreimühlenstraße / Isartalstraße, Projekt-Nr. 100994
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Anhörung zu möglichen Sommerstraßen im Jahr 2021
+- TOP 3.3.2.: Coronabedingter Freischankflächenantrag zur Nutzung von Parkplätzen vor einer Gaststätte, Westermühlstraße 39
+- TOP 3.3.3.: Gehbahnsanierung im Rahmen des KVR-Umbaus, Ruppertstraße 19
+- TOP 3.3.4.: Aufhebung der zeitlichen Beschränkung für die Motorradstellplätze an der Ehrengutstraße/Roecklplatz
+- TOP 3.3.5.: Ausdehnungsantrag Freischankfläche, Klenzestraße 32
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Wegfall von Parkplätzen wegen Bauarbeiten im Schlachthofviertel bzw. Dreimühlenviertel; Bürgeranliegen
+- TOP 5.2.: Beschwerde zu Kleidercontainer am Glockenbach sowie zu Haltverbotsschildern für Fahrradständer in der Kurve Jahnstraße; Bürgeranliegen
+- TOP 5.3.: Planung und Umsetzung der Straßensanierung Glockenbach; Bürgeranliegen
+- TOP 5.4.: Schutzstreifen Kapuzinerstraße; Bürgeranliegen
+- TOP 5.5.: Verlagerung der Fahrradstellplätze zugunsten eines Schanigartens; Bürgeranliegen
+- TOP 5.6.: Installation einer Geschwindigkeitsmessung in der Fraunhoferstraße; Bürger*innenanliegen
+- TOP 5.7.: Verkehrsführung Müllerstraße Ecke Papa-Schmid-Straße; Bürger*innenanliegen
+- TOP 5.8.: Einrichtung eines Fahrradstellplatzes am Holzplatz; Bürger*innenanliegen
+- TOP 5.9.: Ausweisung des Holzplatzes als Sommerstraße; Bürger*innenanliegen
+- TOP 5.10.: Antrag auf Radabstellplätze Höhe Häberlstraße 17; Bürgeranliegen
+- TOP 5.11.: Defekte Toilettenanlagen im Sperrgeschoss Goethestraße; Bürger*innenanliegen
+- TOP 5.12.: Mehrwegschalen zur Müllreduzierung; Anliegen aus der Gastronomie
+- TOP 5.13.: Zustand Spielplatz Ecke Schmellerstrasse/Fleischerstrasse; Bürgeranliegen
+- TOP 5.14.: Parksituation Glockenbach, insbesondere Jahnstrasse/ Am Glockenbach; Bürgeranliegen
+- TOP 5.15.: Lärm, Ruhestörung, Müll und Notdurft rundum den Gärtnerplatz; Bürger*innenanliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Schmellerstraße 16 Neubau eines Rückgebäudes
+- TOP 3.1.2.: Kohlstraße 7, Tektur Umbau und Nutzungsänderung eines Gewerbes in einen Beherbergungsbetrieb
+- TOP 3.1.3.: Baaderstraße 78 Zusammenlegung Wohnung Nr. 5 (1. OG) mit Wohnung Nr. 7 (2. OG), Neubau einer innenliegenden Treppe mit Deckenöffnung
+- TOP 3.1.4.: Landwehrstraße 25 Nutzungsänderung: Gaststätte zu Wettbüro mit Wettannahme und -automaten
+- TOP 3.1.5.: Bayerstraße 2 Nutzungsänderung eines Geschäftshauses zu einem Boutique-Hotel mit Bäckerei
+- TOP 3.1.6.: Corneliusstraße 15 DG-Erneuerung eines Wohn- und Geschäftshauses; Anbau Balkone
+- TOP 3.1.7.: Baumstraße 9 Anbau dreier Balkone
+- TOP 3.1.8.: Hans-Sachs-Straße 11 Um- und Ausbaumaßnahmen (4. OG mit DG), Anbau Aufzugsanlage, Abbruch und Neubau Balkone, Neugestaltung Innenhof, Rekonstruktion historischer Schaufensteranlage, Notleiteranlage bis ins DG
+- TOP 3.1.9.: Erhardtstraße 11 VGB: Nutzungsänderung einer Wohnung im EG links zu Nebenräumen der angrenzenden Zahnarztpraxis
+- TOP 3.1.10.: Schillerstraße 30 Erweiterung eines Sportwettbüros und Einbau einer Doppelparkanlage
+- TOP 3.1.11.: Rothmundstraße 1 Anbau von Balkonen an ein Bestandsgebäude
+- TOP 3.1.12.: Grimmstraße 6 Anbau von Balkonen an ein Wohnhaus
+- TOP 3.1.13.: Schubertstraße 8, Tektur Sanierung eines denkmalgeschützten Gebäudes mit DG-Neubau, Anbau eines Erkers, eines Aufzugs und von Balkonen, Neubau eines an den Bestand anschließenden Tiefkellers mit Parksystem und Pkw-Lift sowie Erstellung eines Nebengebäudes im Hof
+- TOP 3.1.14.: Dreimühlenstraße 18, RGB Anbau von Balkonen und Fluchtleitern am Rückgebäude
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Schmellerstraße 16, Vollzug der Baumschutzverordnung
+- TOP 3.2.2.: Bavariaring 16, Vollzug der Baumschutzverordnung
+- TOP 3.2.3.: Antrag auf Baumfällung bzw. Baumveränderung, Schwanthalerstraße 64 und 68; vertagt aus der Sitzung am 09.02.2021
+- TOP 3.2.4.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 1 (Altstadt-Lehel) und 2 (Ludwigsvorstadt-Isarvorstadt); Sitzungsvorlage Nr. 20-26 / V 02659
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Viel Neues über und unter der Erde - Planerische/Bauliche Veränderungen rund um den Bahnhof; Bürgeranliegen
+- TOP 5.2.: Handlungsbedarf Denkmalschutz/Leerstand Thalkirchner Straße 80
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 1.1.: Taubenschutz und Taubenreduzierung - Teil I „Konzept zu dauerhaften Problemlösung"; Antrag der Fraktion Die Grünen / Rosa Liste vom 10.02.2021
+- TOP 1.2.: Taubenschutz und Taubenreduzierung - Teil II „Taubenschläge für den Stadtbezirk 2"; Antrag der Fraktion Die Grünen / Rosa Liste vom 10.02.2021
+- TOP 1.3.: Taubenschutz und Taubenreduzierung - Teil III Tierschutzgesetz gilt auch für Tauben; Antrag der Fraktion Die Grünen / Rosa Liste vom 10.02.2021
+- TOP 1.4.: Nutzung der Theresienwiese: Naherholung, Sport & Kultur; interfraktioneller Antrag vom 20.02.2021
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Baumfällungsantrag, Geyerstraße 19
+- TOP 3.1.2.: Baumfällungsantrag, St.-Pauls-Platz 4
+- TOP 3.1.3.: Baumfällungsantrag, Schwanthalerstraße 51
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Erholungsraum Isar – Neugestaltung der Isar-Map
+- TOP 3.2.2.: Beschwerde über Bänke am Baaderplatz - weiteres Vorgehen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Möglichkeit zum Skaten für Teenager, Bürgeranliegen
+- TOP 5.2.: Baumplanung nach dem Straßenumbau Thalkirchner Straße Höhe Viehof; Bürgeranliegen
+- TOP 5.3.: Fütterungsverbot von Tauben im Gärtnerplatzviertel; Bürgeranliegen
+- TOP 5.4.: Pop-up Gärtnerei; Bürgeranliegen
+- TOP E: Angelegenheiten des BA
+- TOP 1.1.: Änderung der Bezirksausschusssatzung Verlängerung der Möglichkeit der Bildung eines Sonderausschusses bis 31.12.2021
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose Dezember 2020
+- TOP A 4.4.: Klassenstärken so gering wie möglich halten, Sprengelgrenzen zum Ausgleich flexibler nutzen
+- TOP A 4.5.: Dokumentation Oktoberfest-Attentat: Sichtbarkeit und Umgebung; Antwortschreiben
+- TOP A 4.6.: Protokoll mit Anlage zur BA-Infoveranstaltung des Sozialreferats am 03.02.2021
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Antragsunterlagen für den Weihnachtsmarkt „Pink Christmas“ 2021 vorab zur Kenntnis
+- TOP B 4.8.: Zwischenbericht Nahverkehrsplan, Ergänzung vom 27.01.2021, Anlage 7 und 8; Sitzungsvorlage Nr. 20-26 / V 01848
+- TOP B 4.9.: Jahresgenehmigung 2021 für Reinigungsarbeiten an U-Bahnhöfen
+- TOP B 4.10.: E-Scooter fahren auf Gehsteigen; Antwortschreiben auf Bürgeranliegen
+- TOP B 4.11.: Zustimmung durch Eilentscheidung zur Ausdehnung Corona-Parkplatzfreischankfläche, Reichenbachstraße 13
+- TOP B 4.12.: Errichtung von Park und Lademöglichkeiten für elektronische Roller in der Dreimühlenstraße; Antwort auf Bürgeranliegen
+- TOP B 4.13.: (U) Winterstrand / Isarstrand im Winter
+- TOP B 4.14.: Korrektur der Beschilderung in der Isartalstraße; Antwort auf Bürgeranliegen
+- TOP B 4.15.: Sanierung asphaltierter Gehweg Zenettistraße 21 (vor dem neuen Volkstheater)
+- TOP B 4.16.: Stellungnahme per Eilentscheidung zur Änderung der Beschilderung der Lieferzone Morassistraße / Zweibrückenstraße
+- TOP B 4.17.: Gefährdung der Kinder bei Abholung, Klenzestraße 27 – zeitliche Verlängerung der Haltverbotszone auf 17.30 Uhr
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: Gesamtstädtische Stellungnahme Rückbau und Anpassung Starnberger Flügelbahnhof
+- TOP C 4.3.: Baumaßnahmen der SWM in der Sonnen- und der Bayerstraße – Mitteilung zweier Änderungen
+- TOP C 4.4.: Beschwerde über Hotelneubau in der Lindwurmstraße 35; Antwortschreiben auf Bürgeranliegen
+- TOP C 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.6.: Baugenehmigung für den Neubau eines Büro- und Geschäftshauses mit Tiefgarage, Bayerstraße 25 / Schillerstraße 4
+- TOP C 4.7.: Haus Klenzestraße 15; Teilantwort auf BA-Antrag Nr. 20-26 / B 01425
+- TOP C 4.8.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 mit verbindlicher Planung für 2025 für das Baureferat
+- TOP C 4.9.: Negativer Vorbescheid, Klenzestraße 66
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Toilettenanlagen auf der Theresienwiese; Antwortschreiben auf Bürgeranliegen
+- TOP D 4.2.: Fünf Verbesserungsvorschläge rund um die Dreimühlenstraße; Antwortschreiben auf Bürgeranliegen
+- TOP D 4.3.: Ortsteilbezogene Prüfung der Bevölkerungsdichte in den Vierteln des 2. Stadtbezirks
+- TOP D 4.4.: Natur-Eislauffläche auf der Theresienwiese
+- TOP D 4.5.: Stufenplan für ein feuerwerkfreies Stadtviertel
+- TOP D 4.6.: Abfallbehälter am St.-Pauls-Platz; Antwort auf Bürgeranliegen
+- TOP D 4.7.: Mülleimer Wittelsbacherstraße Isarseite, Antwortschreiben
+- TOP D 4.8.: Beleuchtung Dammweg Isar; Antwort auf Bürgeranliegen
+- TOP D 4.9.: Gesamtantwort auf drei BA-Anträge zum Thema Schlachthof: Nr. 14-20/B 07306, Nr. 14-20/B 07624 und Nr. 20-26/B 00412
+- TOP D 4.10.: Erstellung von zwei weiteren Tischtennisplatten auf der Grünfläche zwischen dem alten und dem neuen Teil des Alten Südlichen Friedhofes
+- TOP D 4.11.: Vorschläge zum Nußbaumpark; Antwort auf Bürgeranliegen
+- TOP D 4.12.: Taubenschlag an der Lindwurm- / Hermann-Schmid-Straße; Antwort auf Bürgeranliegen
+- TOP D 4.13.: Alternativstandorte für Nachpflanzungen
+- TOP D 4.14.: Die Beschilderung des Grillverbots am Isarhochufer des Landschaftsschutzgebiets soll effektiver werden. Das schließt die Weideninsel mit ein.; Zwischennachricht zu BA-Antrag Nr. 14-20 / B 03677
+- TOP D 4.15.: Schädlingsproblem am Reichenbachplatz; Antwort auf Bürgeranliegen
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt; Kürzung des Stadtbezirksbudgets 2021
