@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-03-10T17:00:00+01:00
+- Ende: 2021-03-10T18:30:00+01:00
+- Ort: Eurogress Aachen
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4678
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4678
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung von Niederschriften:
+- TOP 2.1: Genehmigung der Niederschrift über die Sitzung des Hauptausschusses der Stadt vom 16.12.2020 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die Sitzung des Hauptausschusses vom 27.01.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 2.3: Genehmigung der Niederschrift über die Sitzung des Hauptausschusses vom 10.02.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Haushaltsberatungen 2021 des Hauptausschusses - ungeändert beschlossen
+- TOP 4: Bestellung einer stellvertretenden Schriftführerin - ungeändert beschlossen
+- TOP 5: Rettungsschirm für Kulturschaffende erwirken;Gemeinsamer Ratsantrag Nr. 636/17 der sechs Ratsfraktionen vom 03.08.2020 - ungeändert beschlossen
+- TOP 6: Bedarfsplanung für die Kindertagesbetreuung in der Stadt Aachen für das KiTa-Jahr 2021/2022 - geändert beschlossen
+- TOP 7: Satzung der Stadt Aachen über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz), hier: Verlängerung der Beitragsabsenkung - geändert beschlossen
+- TOP 8: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz), hier: Verlängerung der Beitragsabsenkung - ungeändert beschlossen
+- TOP 9: Genehmigung der Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRWBeschaffen der Anton-Schullizenz-Plus für die Grund- und einige weiterführende Schulen - ungeändert beschlossen
+- TOP 10: Beschluss über eine Veränderungssperre für das Grundstück Grünenthaler Straße, Gemarkung Richterich, Flur 4, Flurstück 2482 im Stadtbezirk Aachen-Richterich - ungeändert beschlossen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 998 – Vaalser Straße / Neuenhofer Weghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - zurückgezogen
+- TOP 12: Aufhebung des Bebauungsplanes Nr. 559 im Bereich östlich der Süsterfeldstraßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 14: Stellenplan 2021: - zurückgezogen
+- TOP 14.1: Einrichtung einer Vollzeitstelle im Fachbereich Wirtschaft, Wissenschaft, Digitalisierung und Europa (FB 02) zur Wahrnehmung eines strategischen Smart City Managements - ungeändert beschlossen
+- TOP 14.2: Einrichtung einer Vollzeitstelle im Fachbereich Stadtentwicklung, -planung und Mobilitätsinfrastruktur (FB 61) zur Steuerung von Infrastrukturmaßnahmen zum Bau und zur Unterhaltung von Straßen, Gas-, Wasser-, Kanal-, Fernwärme-, Strom- und Telekommunikationsnetzen im Aachener Stadtgebiet in Kooperation mit der Regionetz GmbH - ungeändert beschlossen
+- TOP 14.3: Stellenplan 2021 und Entwicklung der Personal- und Versorgungsaufwendungen 2021 - zurückgezogen
+- TOP 14.4: Rodung des schützenswerten Baumbestandes am Chorusberghier: Tagesordnungsantag der SPD-Fraktion vom 02.03.2021
+- TOP 15: Anfragen:
+- TOP 15.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 15.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 16: Ratsanträge - zur Kenntnis genommen
+- TOP 17: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 17.1: Umbesetzungsantrag der Fraktion DIE Zukunft vom 24.02.2021 - ungeändert beschlossen
+- TOP 17.2: Umbesetzungsantrag der SPD-Fraktion vom 09.03.2021 - ungeändert beschlossen
+- TOP 17.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 09.03.2021 - ungeändert beschlossen
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
