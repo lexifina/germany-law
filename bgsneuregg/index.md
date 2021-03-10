@@ -7,10 +7,10 @@
 ## -
 
 
-## Art 1
+## Art 1 Gesetz über den Bundesgrenzschutz (Bundesgrenzschutzgesetz - BGSG)
 
 
-## Art 2
+## Art 2 Folgeänderungen
 
 
 ## Art 2
