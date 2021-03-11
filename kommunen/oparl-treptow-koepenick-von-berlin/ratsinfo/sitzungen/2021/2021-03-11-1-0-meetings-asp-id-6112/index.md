@@ -1,0 +1,65 @@
+# 51. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-03-11T18:00:00+01:00
+- Ende: 2021-03-11T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6112
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6112
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Überweisungen aus der BVV - (offen)
+- TOP 4.1: Stellungnahmen / Empfehlungen zu Schlussberichten - (offen)
+- TOP 4.1.1: Neubau einer Brücke über die Dahme - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.2: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.3: Schöner Fahrradparken - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.4: Bürgerhaus Altglienicke sichtbar machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.5: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 4.1.6: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 4.1.7: Veränderung der Verkehrsführung in Adlershof - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.8: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.9: Sichere Querung des Fürstenwalder Damms - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Stellungnahmen bzw. Empfehlungen - (offen)
+- TOP 4.2.1: Sicherung der Straßenbeleuchtung in der Siedlung Spreewiesen - vertagt
+- TOP 4.2.2: Verkehrskonzept für den 1. FC Union - vertagt
+- TOP 4.2.3: Fahrradstraße im Agavensteig prüfen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.2.4: Schulwegsicherheit rund um die Sophie-Brahe-Schule - vertagt
+- TOP 4.2.5: "Traumstrand küsst Hauptstadt" - Zwischennutzung ermöglichen - vertagt
+- TOP 4.2.6: Gehweg in der Lohmühlenstraße in Alt-Treptow befestigen - vertagt
+- TOP 4.2.7: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 4.2.8: Einrichtung eines Fußgängerüberweges in der Buntzelstraße / Ecke Zur Gartenstadt - vertagt
+- TOP 4.2.9: Prüfung der Errichtung einer Fahrradhochstraße auf der Johannisthaler Chaussee - vertagt
+- TOP 4.2.10: Unfallgefahren am Bohnsdorfer Kreisel minimieren - vertagt
+- TOP 4.2.11: Trotz Bauphase Zwei-Richtungs-Verkehr am Bahnhof Schöneweide ermöglichen - vertagt
+- TOP 4.2.12: Durchfahrtverbot für Lkw in Oberschöneweide - vertagt
+- TOP 4.2.13: Radfahrfreundliches Pflaster statt Asphalt für die Straße Am Goldmannpark - vertagt
+- TOP 4.2.14: Bölschestraße sicher queren - vertagt
+- TOP 4.2.15: Tempo 30 in der Baumschulenstraße - vertagt
+- TOP 4.2.16: Umweltzone ausweiten - vertagt
+- TOP 4.2.17: Zusätzlichen Halt der Straßenbahn in der Dörpfeldstraße errichten - vertagt
+- TOP 4.2.18: Verkehrssicherheit an der Lohmühlenstraße verbessern - vertagt
+- TOP 4.2.19: Schulwegsicherheit Grundschule am Berg - mit Änderungen im Ausschuss beschlossen
+- TOP 4.2.20: Heidelberger Straße vom Durchgangsverkehr befreien - vertagt
+- TOP 4.2.21: Ausbau des Fahrradwegs in Neu-Venedig - vertagt
+- TOP 4.2.22: Kurzzeitparkplatz Altglienicke - vertagt
+- TOP 4.2.23: Radinfrastrukturanalyse vorlegen - vertagt
+- TOP 4.2.24: Bouchéstraße fußgänger- und fahrradfreundlich gestalten - vertagt
+- TOP 4.2.25: Herstellung eines befestigten Gehwegs im ehemaligen Fischerdorf Rahnsdorf - vertagt
+- TOP 4.2.26: Kiezblock Alt-Treptow - vertagt
+- TOP 4.2.27: Endlich geltendes Recht umsetzen – Baustellenumleitungen /-hinweise für Radfahrende im Bezirk schaffen - vertagt
+- TOP 4.2.28: Gründerstraße in Bohnsdorf wieder verkehrssicher machen - vertagt
+- TOP 4.2.29: Kreuzungen in Alt-Treptow sicherer machen - vertagt
+- TOP 4.2.30: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - vertagt
+- TOP 4.2.31: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - vertagt
+- TOP 4.2.32: Tempo 30 in der Dörpfeldstraße ermöglichen - vertagt
+- TOP 4.2.33: Vorrang für den ÖPNV in Bohnsdorf - vertagt
+- TOP 4.3: Beratung Vorlage zur Kenntnisnahme - (offen)
+- TOP 4.3.1: Leitlinien der Beteiligung von Bürgerinnen und Bürgern für Treptow-Köpenick - vertagt
+- TOP 5: Sonstiges - im Ausschuss abgelehnt
