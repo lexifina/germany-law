@@ -1,0 +1,99 @@
+# 2. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-11T15:05:00+01:00
+- Ende: 2021-03-11T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23612
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23612
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: „Raum 13 dauerhaft sichern."
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Stadtentwicklungsausschusses vom 03.09.20, betr. "Abweichung vom Höhenkonzept für die linksrheinische Innenstadt" - Kenntnis genommen
+- TOP 1.2: Wohnraumprognosen für Köln von Land NRW und Stadt Köln - Kenntnis genommen
+- TOP 1.3: Anfrage gem. § 4 der Geschäftsordnung des Rates der FDP-Fraktion im Rat der Stadt Köln AN/0171/2021 Umgestaltung der Komödienstraße - Kenntnis genommen
+- TOP 1.4: Beantwortung einer mündlichen Anfrage des RM Zimmermann (GUT) zur Vorlage "Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungsbeschluss 1939/2020 " aus der 1. Sitzung des Stadtentwicklungsausschusses am 28 - Kenntnis genommen
+- TOP 1.5: Nachfragen zum Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 1.6: Beantwortung einer mdl. Anfrage aus der Sitzung des Stadtentwicklungsausschusses am 28.01.2021 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Umwandlung von Miet- in Eigentumswohnungen - Sache ist erledigt
+- TOP 2.2: Schlachthofgelände – neue Perspektiven? - Sache ist erledigt
+- TOP 2.3: Entwicklung des Otto & Langen-Quartiers
+- TOP 2.4: Eilt! Raum 13 / Otto-Langen-Quartier
+- TOP 2.5: Übersicht zum Stand der Großbauprojekte in Köln - Sache ist erledigt
+- TOP 2.6: Übersicht aller Projekte im Bebauungsplanverfahren - Sache ist erledigt
+- TOP 2.7: Welchen Beitrag leisten Mikro-Apartments auf einem angespannten Wohnungsmarkt? - Sache ist erledigt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Städtebaulicher Masterplan Innenstadt Köln Umgestaltung des Ebertplatzes - Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Vorlage 1939/2020 „Städtebaulicher Masterplan Innenstadt Köln, Umgestaltung des Ebertplatzes – Bedarfsfeststellungs-beschluss “ - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Parkstadt Süd, Begleitgremium - geändert beschlossen
+- TOP 4.3: Bedarfsfeststellungsbeschluss für die Erarbeitung der verbindlichen Bauleitplanung (fünf Teilbebauungspläne und ein Bebauungsplan-Änderungsverfahren) und der Durchführung der Vergabe von Fachgutachten für das StädtebauGesamtprojekt Parkstadt Süd - ungeändert beschlossen
+- TOP 4.4: Mülheimer Süden Hier: Ständige Jury - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die Sanierung der Hochwasserschutzanlagen im Deichverband Dormagen/Zons - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Vorlage 3217/2019 „Stellplatzsatzung für Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - ungeändert beschlossen
+- TOP 6.3: Integriertes Stadtentwicklungskonzept Porz Mitte - geändert beschlossen
+- TOP 6.4: Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Ostheim und Neubrück“ - im ersten Durchgang verwiesen
+- TOP 6.5: Integriertes Handlungskonzept Lindweiler, hier: Änderung der Geschäftsordnung des Veedelsberiates Lindweiler - ungeändert beschlossen
+- TOP 6.6: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - im ersten Durchgang verwiesen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 4. Fortschreibung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler,Arbeitstitel: Teilraum Nordwest, Wohnbauflächen in Köln-Esch/ Auweiler; hier: Feststellungsbeschluss - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Esch, Pesch und Auweiler angemessen verdichten, regional verflechten und Infrastruktur rechtzeitig herstellen Änderungsantrag zu Top 7.1. - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes - ungeändert beschlossen
+- TOP 7.3: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - im ersten Durchgang verwiesen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - ungeändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Arbeitstitel: „Campus Kartause (Kartäuserwall 24b)“in Köln-Altstadt/Süd Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschl - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Heliosgelände in Köln-Ehrenfeld Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorga-ben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 9.3: Städtebauliches Planungskonzept Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord; hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes für das nördliche Baufeld - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffent-lichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP -: Hier: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Linder Höhe in Köln-Porz-Lind 2182/2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 7340/02
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf mit der Nummer 74490/07
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 58485/02 - ohne Votum in nachfolgende Gremien
+- TOP 12.4: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05 - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Vorlage 0314/2021, Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05, Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - ohne Votum in nachfolgende Gremien
+- TOP -: Bebauungsplan-Entwurf 65450/05 Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - ohne Votum in nachfolgende Gremien
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 74410/02 Arbeitstitel: Eisenbahnersiedlung in Köln-Porz-Gremberghoven - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Aufhebung des Bebauungsplan Nr. 73409/05 - Einleitungsbeschluss - Arbeitstitel: Grünzug Ensen in Köln-Porz-Ensen, 1.Änderung Feuerwache Ensen - ungeändert beschlossen
+- TOP 14.2: Aufhebung des Bebauungsplans 66458/07 (664 Na 2/07)-Arbeitstitel: Enggasse/Auf dem Hunnenrücken/Tunisstraße in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Betreff: Offenlage gemäß § 3 Abs. 2 BauGB zur 219. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen, Arbeitstitel: Parkstadt Süd in Köln-Zollstock, -Raderberg und -Bayenthal - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Kölner Statistische Nachrichten 11/2020 - Kenntnis genommen
+- TOP 18.2: Förderung von Wohnraum mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2020 und Ausblick auf 2021 - Kenntnis genommen
+- TOP 18.3: Werkstattbericht Deutzer Hafen - Kenntnis genommen
+- TOP 18.4: Neuer Kölner Mietspiegel (Stand: Februar 2021) - Kenntnis genommen
+- TOP 18.5: Einpendeln und Auspendeln in Köln - Über Muster beim Berufspendeln 2019 - Kenntnis genommen
+- TOP 18.6: Entwicklung des kommunalen Vorkaufsrechts im Jahr 2020 - Kenntnis genommen
+- TOP 18.7: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 18.8: Verschiebung des Fachsymposiums - Kenntnis genommen
+- TOP 18.9: Information zum Zielbildprozess Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld mit Fokusraum Max Becker-Areal - Kenntnis genommen
+- TOP 18.10: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 18.11: Beantwortung der Anfrage AN/1138/2020 der SPD-Fraktion vom 26.08.2020 betr. "Wann kommt der Lebensmittel-Markt in Merkenich? – Planungs- und Prüfauftrag muss endlich umgesetzt werden!" Hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 18.12: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Kenntnis genommen
+- TOP 18.13: Bebauungsplan Nr. 73490/06; Arbeitstitel: August-Strindberg-Straße, Teilaufhebung in Köln Holweide - Kenntnis genommen
+- TOP 18.14: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 18.15: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.16: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd (V 3700/2019) Hier: Auftragserweiterung - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
