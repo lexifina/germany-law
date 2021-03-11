@@ -52,7 +52,8 @@
 
 - [§ 10 Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung](0010.md)
 - [§ 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung](0010a.md)
-- [§ 10b Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung](0010b.md)
+- [§ 10b (weggefallen)](0010b.md)
+- [§ 10b Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung](0010b-2.md)
 - [§ 10c Kapitalerhaltungspuffer](0010c.md)
 - [§ 10d Antizyklischer Kapitalpuffer](0010d.md)
 - [§ 10e Kapitalpuffer für systemische Risiken](0010e.md)
