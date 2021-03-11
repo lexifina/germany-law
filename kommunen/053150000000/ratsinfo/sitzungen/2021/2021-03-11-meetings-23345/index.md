@@ -1,0 +1,127 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-11T16:00:00+01:00
+- Ende: 2021-03-11T16:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23345
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23345
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen - ungeändert beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Förderprogramm "Dritte Orte" - zurückgestellt
+- TOP 3.2: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 3.3: Städtebauliches Planungskonzept Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord; hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes für das nördliche Baufeld - ungeändert beschlossen
+- TOP 3.4: Überweg für zu Fuß Gehende und Radfahrende über die Cäcilienstraße - zurückgestellt
+- TOP 3.5: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - ungeändert beschlossen
+- TOP 3.6: Vergabekonzept Chlodwigplatz ab 07/2021 bis 12/2025 - ungeändert beschlossen
+- TOP 3.7: Benennung eines Mitgliedes der Bezirksvertretung Innenstadt zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - zurückgestellt
+- TOP 3.8: Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße - geändert beschlossen
+- TOP 3.8.1: Änderungsantrag zu 3.8 - Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße, gem. Änderungsantrag Grüne, SPD, Die Linke, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 3.9: Aufhebung des Bebauungsplans 66458/07 (664 Na 2/07)-Arbeitstitel: Enggasse/Auf dem Hunnenrücken/Tunisstraße in Köln-Altstadt/Nord - zurückgestellt
+- TOP 3.10: Abbau von sieben Lichtsignalanlagen im Belgischen Viertel durch den Einsatz alternativer Betriebsformen - zurückgestellt
+- TOP 3.11: Benennung eines Weges in Köln-Neustadt/Süd - zurückgestellt
+- TOP 3.12: Genehmigung Dringlichkeitsentscheidung: Annahme einer Schenkung für das Köln-Kolleg - ungeändert beschlossen
+- TOP 3.12.1: Annahme einer Schenkung für das Köln-Kolleg - Sache ist erledigt
+- TOP 3.13: Genehmigung Dringlichkeitsentscheidung - Städtebauliche Entwicklungsmaßnahme 'Deutzer Hafen' – ergänzendes Verfahren - ungeändert beschlossen
+- TOP 3.13.1: Städtebauliche Entwicklungsmaßnahme 'Deutzer Hafen' – ergänzendes Verfahren - Sache ist erledigt
+- TOP 3.14: Genehmigung Dringlichkeitsentscheidung - Gem. Dringlichkeitsantrag Grüne, SPD, Die Linke, Klimafreund, Die Partei betreffend: Errichtung eines Provisoriums während der sanierungsbedingten Sperrung der Deutzer Drehbrücke - ungeändert beschlossen
+- TOP 3.14.1: Gemeinsamer Dringlichkeitsantrag - Errichtung eines Provisoriums während der sanierungsbedingten Sperrung der Deutzer Drehbrücke - Sache ist erledigt
+- TOP 3.15: Genehmigung Dringlichkeitsentscheidung - Veranstaltungen 1. Halbjahr auf dem Neumarkt - ungeändert beschlossen
+- TOP 3.16: Genehmigung Dringlichkeitsentscheidung - Baubeschluss: Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - geändert beschlossen
+- TOP 3.16.1: Baubeschluss: Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - Sache ist erledigt
+- TOP 3.16.1.1: Änderungsantrag zu 3.1. Baubeschluss: Radstreifen auf Höhe Aachener Weihers (Stadteinwärts), Änderungsantrag Grüne - Sache ist erledigt
+- TOP 3.16.1.2: Baubeschluss Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - Sache ist erledigt
+- TOP 3.16.1.3: Ergänzungsantrag zu Top 3.4, Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - Sache ist erledigt
+- TOP 3.16.1.4: ÄA zu TOP 3.4 Radfahrstreifen auf Höhe des Aachener Weihers stadteinwärts - Sache ist erledigt
+- TOP 3.17: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05 - geändert beschlossen
+- TOP 3.17.1: Gem. Änderungsantrag zu Beschlussvorlage 0314/2021- Beabuungsplan Belgisches Viertel, gem Änderungsantrag Grüne, CDU, Die Linke, FDP - ungeändert beschlossen
+- TOP 3.17.2: Änderungsantrag zur Vorlage 0314/2021 - Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05, Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord, Änderungsantrag SPD - endgültig abgelehnt
+- TOP 3.18: Fachraumerneuerung des naturwissenschaftlichen Bereiches am Schulstandort Dagobertstraße 79, 50668 Köln - ungeändert beschlossen
+- TOP 3.19: Neue Verkehrsführung im Bereich der Straße Eigelstein - Auswertung Bürgerinformationsveranstaltung und Baubeschluss - geändert beschlossen
+- TOP 3.19.1: Änderungsantrag zu Beschlussvorlage 0243/2021 - Neue Verkehrsführung im Bereich der Straße Eigelstein, gem. Änderungsantrag Grüne, SPD, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation Brüsseler Straße (AZ.: 02-1600-260/18) - zurückgestellt
+- TOP 4.1.1: Änderungsantrag - Parksituation Brüsseler Straße - Änderungsantrag Grüne - zurückgestellt
+- TOP 4.2: Bügereingabe nach § 24 GO - Zusatzschilder Rheinauhafen - Az: 125/20 B - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Sicherung des restaurierten Severinsdenkmals an der Kirche St. Johann Baptist (Az.: 02-1600-277/19) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Parkraumoptimierung in der Engelbertstraße - zurückgestellt
+- TOP 5.1.2: Fahrradschutzstreifen Hohenzollernring Einbiegung in die Maastrichter Straße, Antrag SPD - zurückgestellt
+- TOP 5.1.3: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.1.4: Verkehrsführung im Bereich Friesenstraße / Friesenwall, Antrag Grüne - zurückgestellt
+- TOP 5.1.4.1: Änderungsantrag - Verkehrsführung im Bereich Friesenstraße / Friesenwall - Änderungsantrag FDP - zurückgestellt
+- TOP 5.1.5: Lückenschluss der verkehrsberuhigten Bereich im Bereich Severinswall, An der Bottmühle, Karl-Korn-Straße und Dreikönigenstraße, Zwirnerstraße - sowie Öffnung der Einbahnstraßen Dreikönigenstraße und An der Bottmühle für den Radverkehr, Antrag Grüne - zurückgestellt
+- TOP 5.1.6: Autofreie Altstadt - Umsetzung weiterer kurzfristiger Maßnahmen, Antrag Grüne - zurückgestellt
+- TOP 5.1.7: Reste der Stollwerck-Fabrik erhalten/sanieren, Antrag SPD - zurückgestellt
+- TOP 5.1.8: Verbesserung der Rad- und Fußverkehrsführung an der Bahnunterführung Bachemer Straße/Lindenstraße, gem. Antrag Klimafreunde, SPD, Die Linke und FDP - zurückgestellt
+- TOP 5.1.8.1: Anderungsantrag Radschnellweg Bachemer Straße 0021/2021, Änderungsantrag Die Linke - zurückgestellt
+- TOP 5.1.8.2: Gem. Änderungsantrag Verbesserung der Rad- und Fußverkehrsführung an der Bahnunterführung Bachemer Straße / Lindenstraße - zurückgestellt
+- TOP 5.1.9: Neue Verkehrsführung / Runder Tisch im Bereich der Severinsstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.1.10: Anbringen einer Anzeige der Zeit bis zum Aufbrauchen des verbleibenden CO2-Budgets zur Einhaltung des 1,5-Grad-Zieles, gem. Antrag Klimafreunde und Grüne - zurückgestellt
+- TOP 5.1.11: Vermeidung von Radparken auf Mittelalleen/Grünanlagen, Antrag Grüne - zurückgestellt
+- TOP 5.1.12: Zebrastreifen Spichernstr./Kamekestr., Antrag Grüne - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Erhöhung der Personalressourcen im Amt für Straßen und Verkehrstechnik, gem. Antrag Grüne, CDU, SPD, Die Linke, FDP und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.1.1: Stellungnahme zum gem. Antrag Grüne, CDU, SPD, Die Linke, FDP und Klimafreunde zur Erhöhung der Personalressourcen im Amt für Straßen und Verkehrstechnik, AN/0341/2021 - Kenntnis genommen
+- TOP 5.2.2: Erhalt der KITA Gotland (Schwedenhaus) im Volksgarten, gem. Antrag Grüne, CDU, SPD, Die Linke, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 5.2.2.1: Erhalt der Kita Gotland (Schwedenhaus) im Volksgarten - Kenntnis genommen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - Sache ist erledigt
+- TOP 6.1.1.1: Aufwertung der Ehrenstraße - Aktueller Stand - Kenntnis genommen
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.5: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad, Anfrage Grüne - zurückgestellt
+- TOP 6.1.6: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.1.7: Lüftung und Klimatisierung von Klassenräumen, Dimensionierung von Schulhöfen, Anfrage Grüne - Sache ist erledigt
+- TOP 6.1.8: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.1.9: Begrünung insbesondere des Ubierring, Karolingerring und Sachsenring - Sache ist erledigt
+- TOP 6.1.10: Anfrage Sachstand Soziale Erhaltungssatzung für das Rathenauviertel (AN/05092019) - Sache ist erledigt
+- TOP 6.1.10.1: Bezug: Anfrage der Fraktion Bündnis 90/Die Grünen AN/0003/2021 gem. § 4 der Geschäftsordnung des Rates: - Kenntnis genommen
+- TOP 6.1.11: Videobeobachtung im Gerlingquartier, Anfrage Die Linke - Sache ist erledigt
+- TOP 6.1.11.1: Videobeobachtung im Gerlingquartier, Beantwortung Anfrage Die Linke - Kenntnis genommen
+- TOP 6.1.12: Barrierefreie Ampeln, Anfrage SPD - Sache ist erledigt
+- TOP 6.1.12.1: Barrierefreie Ampeln - Kenntnis genommen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Sanierungsmaßnahmen im Historischen Rathaus - Kenntnis genommen
+- TOP 9.2: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 9.3: Änderungen zum Fahrplanwechsel 2020 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 9.5: Umbaumaßnahmen der Straße "Am Kümpchenshof" - Kenntnis genommen
+- TOP 9.6: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - Kenntnis genommen
+- TOP 9.7: Gemeinschaftsprojekt „Hecken und Säume“ - Kenntnis genommen
+- TOP 9.8: Verkehrsberuhigter Geschäftsbereich Severinstraße - Kenntnis genommen
+- TOP 9.9: Zielvereinbarungen 2021 Bürgerzentrum Alte Feuerwache, Quäker Nachbarschaftsheim, Bürgerhaus Stollwerck, Bürgerzentrum Deutz - Kenntnis genommen
+- TOP 9.10: Verkehrsführungskonzept Altstadt - Kenntnis genommen
+- TOP 9.11: Nachfrage zum aktuellen Stand beim Baui in der Südstadt - Kenntnis genommen
+- TOP 9.12: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - Kenntnis genommen
+- TOP 9.13: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 9.14: Vergabe der bezirksorientierten Mittel 2020, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 9.15: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 9.16: Standorte für (Lasten-)fahrräder, Fahrradverleih und E-Scooter in der Innenstadt - Kenntnis genommen
+- TOP 9.17: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 9.18: Werkstattbericht Deutzer Hafen - Kenntnis genommen
+- TOP 9.19: Bericht über den Ausgang des verwaltungsgerichtlichen Verfahrens "Bezirksvertretung Innenstadt gegen den Rat der Stadt Köln", VG Köln, 4 K 1511/20 - Kenntnis genommen
+- TOP 9.20: Colonius - Stand der Dinge? (AN/0260/2021) - Kenntnis genommen
+- TOP 9.21: Bewohnerreservierungen im Bewohnerparkgebiet Südbahnhof (SBF) - Kenntnis genommen
+- TOP 9.22: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 9.23: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 9.24: Sanierung der Drehbrücke in Deutz, Provisorische Querung während der Bauzeit - Kenntnis genommen
+- TOP 9.25: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 9.26: Schließung Kindertageseinrichtung Volksgartenstr. (Gotland) - Kenntnis genommen
+- TOP 9.27: 275. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - Kenntnis genommen
+- TOP 9.28: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Kenntnis genommen
+- TOP 9.29: Sachstand Bezirksrathaus Innenstadt - zu AN/1047/2018, Stand: Februar 2021 - Kenntnis genommen
+- TOP 9.30: Bike-and-Ride-Offensive an Bahnhöfen in Kooperation mit der DB - Kenntnis genommen
