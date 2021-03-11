@@ -108,6 +108,7 @@ Erlaubnis](0047.md)
 ## 12. Abschnitt Entschädigung in besonderen Fällen
 
 - [§ 56 Entschädigung](0056.md)
+- [§ 56 Entschädigung](0056-2.md)
 - [§ 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung](0057.md)
 - [§ 58 Aufwendungserstattung](0058.md)
 - [§ 59 Sondervorschrift für Ausscheider](0059.md)
