@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112) und des § 27 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), die zuletzt durch Artikel 212 Nr. 2 sowie Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden sind, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
