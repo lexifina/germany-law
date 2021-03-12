@@ -1,0 +1,25 @@
+# Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2021 - 2025
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 2101/XX
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2021-03-12
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7441
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=7441
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=263643
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4281 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4179 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=42
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4186 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4241 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4283 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4164 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4193 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=43
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4170 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4176 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4213 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4258 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4201 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4251 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4153 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=45
