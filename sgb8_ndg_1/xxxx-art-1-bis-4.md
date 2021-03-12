@@ -1,3 +1,3 @@
-# (XXXX) Art 1 bis 4
+# (XXXX) Art 1 bis 4 (Änderungsvorschriften)
 
 

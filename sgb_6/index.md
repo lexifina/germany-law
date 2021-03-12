@@ -908,7 +908,7 @@ für Renten nach den Vorschriften des Beitrittsgebiets
 - [Anlage 1 Durchschnittsentgelt in Euro/DM/RM](anlage-1.md)
 - [Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM](anlage-2.md)
 - [Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM](anlage-2a.md)
-- [Anlage 2b](anlage-2b.md)
+- [Anlage 2b Jährliche Höchstwerte an Entgeltpunkten](anlage-2b.md)
 - [Anlage 3 Entgeltpunkte für Beiträge nach Lohn-, Beitrags- oder
 Gehaltsklassen](anlage-3.md)
 - [Anlage 4 Beitragsbemessungsgrundlage für Beitragsklassen](anlage-4.md)

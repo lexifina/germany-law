@@ -1,8 +1,7 @@
-# Anlage 2b
+# Anlage 2b Jährliche Höchstwerte an Entgeltpunkten
 
 Fundstelle des Originaltextes: BGBl. I 2002, 873,
 bzgl. der einzelnen Änderungen vgl. Fußnote
-| Jährliche Höchstwerte an Entgeltpunkten |
 | Zeitraum | Allgemeine Rentenversicherung | Knappschaftliche Rentenversicherung |
 | Arbeiter | Angestellten |
 | 1.1.1935 - 31.12.1935 | 1,2482 | 4,2553 |  |
@@ -65,7 +64,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | 1.1.1988 - 31.12.1988 | 1,8511 | 2,2522 |
 | 1.1.1989 - 31.12.1989 | 1,8271 | 2,2465 |
 | 1.1.1990 - 31.12.1990 | 1,8023 | 2,2314 |
-| Jährliche Höchstwerte an Entgeltpunkten |
+|  | Jährliche Höchstwerte an Entgeltpunkten |
 | Zeitraum | Allgemeine Rentenversicherung | Knappschaftliche Rentenversicherung |
 | endgültige | vorläufige | endgültige | vorläufige |
 | 1.1.1991 - 31.12.1991 | 1,7559 | 1,7761 | 2,1611 | 2,1859 |
