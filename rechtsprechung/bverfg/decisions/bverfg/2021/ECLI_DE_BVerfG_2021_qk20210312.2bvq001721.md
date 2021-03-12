@@ -1,0 +1,146 @@
+---
+ecli: "ECLI:DE:BVerfG:2021:qk20210312.2bvq001721"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvQ 17/21"
+decided: "2021-03-12"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 12. März 2021\n- 2 BvQ 17/21 -, Rn. 1-7,\n                    https://www.bverfg.de/e/qk20210312_2bvq001721"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/qk20210312_2bvq001721.html"
+corpus_doc_id: "BVerfG_2021-03-12_K_2_BvQ_0017_21_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0092.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/vwgo/0123.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvQ 17/21 vom 2021-03-12
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvQ 17/21 -
+
+
+
+
+                              In dem Verfahren
+                              über den Antrag,
+                     im Wege der einstweiligen Anordnung
+
+ 1. die Beschlüsse des Verwaltungsgerichts Köln
+    vom 26. Januar 2021 - 13 L 104/21 - und des
+    Oberverwaltungsgerichts für das Land Nordrhein-Westfalen
+    vom 18. Februar 2021 - 5 B 175/21 - aufzuheben,
+
+ 2. der Bundesrepublik Deutschland vorläufig bis zur Entscheidung des Verwaltungsgerichts Köln über den Antrag der dortigen Antragstellerin auf Erlass einer einstweiligen Anordnung nach § 123 VwGO vom 21. Januar 2021
+    - 13 L 104/21 -, längstens jedoch für die Dauer von sechs Monaten zu
+    untersagen, in Bezug auf die Antragstellerin öffentlich bekanntzugeben,
+    ihrer Mitgliedschaft gehörten aktuell „etwa 7.000“ Mitglieder beziehungsweise
+    Anhänger des sogenannten „Flügels“ an,
+
+ 3. hilfsweise die Sache zur erneuten Entscheidung über den Erlass einer Zwischenentscheidung an das Oberverwaltungsgericht für das Land Nordrhein-Westfalen zurückzuverweisen,
+
+ 4. anzuordnen, dass die Bundesrepublik Deutschland der Antragstellerin die notwendigen Auslagen des einstweiligen Anordnungsverfahrens zu erstatten hat,
+
+ 5. den Wert des Gegenstands der anwaltlichen Tätigkeit festzusetzen
+
+
+Antragstellerin: Alternative für Deutschland (AfD)
+                 Bundesverband,
+                 vertreten durch den Bundesvorstand,
+
+- Bevollmächtigte: … -
+hat die 1. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                 die Vizepräsidentin König
+
+                                 und die Richter Müller,
+
+                                 Maidowski
+
+
+                                         1/4
+
+gemäß § 32 Abs. 1 in Verbindung mit § 93d Abs. 2 BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+am 12. März 2021 einstimmig beschlossen:
+
+        Der Antrag auf Erlass einer einstweiligen Anordnung wird abgelehnt.
+
+        Der Antrag, die Erstattung der notwendigen Auslagen anzuordnen,
+        wird abgelehnt.
+
+        Der Antrag auf Festsetzung des Gegenstandswerts wird verworfen.
+
+                                    Gründe:
+  Der Antrag auf Erlass einer einstweiligen Anordnung, der auf eine Zwischenentscheidung in einem verwaltungsgerichtlichen Eilverfahren gerichtet ist, hat keinen Erfolg, da er den an die Begründung eines solchen Antrags zu stellenden Anforderungen nicht genügt.
+
+  1. Nach § 32 Abs. 1 BVerfGG kann das Bundesverfassungsgericht im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr
+schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen
+wichtigen Grund zum gemeinen Wohl dringend geboten ist. Dabei haben die Gründe,
+die für die Verfassungswidrigkeit des angegriffenen Hoheitsaktes vorgetragen werden, grundsätzlich außer Betracht zu bleiben, es sei denn, das in der Hauptsache zu
+verfolgende Begehren erweist sich von vornherein als unzulässig oder offensichtlich
+unbegründet (vgl. BVerfGE 88, 185 <186>; 103, 41 <42>). Zu den Zulässigkeitsanforderungen an einen Antrag nach § 32 Abs. 1 BVerfGG gehört die substantiierte
+Darlegung aller Voraussetzungen für den Erlass einer einstweiligen Anordnung (vgl.
+BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 23. August 2017 - 1 BvR
+1783/17 -, Rn. 9). Darzulegen ist dabei auch, dass der Antrag in der zugehörigen
+Hauptsache weder unzulässig noch offensichtlich unbegründet ist. Wird isoliert eine
+einstweilige Anordnung beantragt, muss der Antrag die Angaben enthalten, die zur
+Begründung der noch zu erhebenden Verfassungsbeschwerde erforderlich sind (vgl.
+BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 1. Oktober 2020 - 2 BvQ
+63/20 -, Rn. 10).
+
+ 2. Danach kann eine einstweilige Anordnung hier nicht erlassen werden.                  3
+
+  a) Dem steht bereits entgegen, dass eine auf der Grundlage des Sachvortrags der        4
+Antragstellerin erhobene Verfassungsbeschwerde unzulässig wäre. Die Antragstellerin stellt der von den Fachgerichten bei der Entscheidung über den Erlass einer Zwischenentscheidung vorgenommenen Interessenabwägung lediglich ihre eigene Bewertung drohender Nachteile entgegen. Dies allein genügt den Anforderungen an die
+substantiierte Behauptung einer Grundrechtsverletzung jedoch nicht. Weder der geltend gemachte Art. 19 Abs. 4 GG noch der in der verfassungsgerichtlichen Rechtsprechung anerkannte Justizgewährungsanspruch gewährleistet eine Richtigkeitskontrolle       fachgerichtlicher    (Zwischen-)Entscheidungen       durch      das
+
+
+
+                                          2/4
+
+Bundesverfassungsgericht. Zur Begründung einer Grundrechtsverletzung hätte die
+Antragstellerin vielmehr darlegen müssen, dass die angegriffenen Entscheidungen
+auf der Verkennung der Bedeutung und Tragweite ihrer Grundrechte oder sonstigen
+sachwidrigen Gründen beruhten. Dazu verhält die Antragstellerin sich nicht in einer
+den Begründungsanforderungen gemäß § 23 Abs. 1 Satz 2, § 92 BVerfGG genügenden Weise.
+
+  b) Die Antragstellerin trägt außerdem nicht substantiiert vor, dass der Erlass der begehrten einstweiligen Anordnung zur Abwehr schwerer Nachteile oder aus einem anderen wichtigen Grund zum gemeinen Wohl im Sinne von § 32 Abs. 1 BVerfGG dringend geboten ist. Dies käme nur in Betracht, wenn die Antragstellerin
+nachvollziehbar dargelegt hätte, dass das Bundesamt für Verfassungsschutz beabsichtigt, vor der Entscheidung des Verwaltungsgerichts Köln über den Antrag der Antragstellerin auf Erlass einer diesbezüglichen einstweiligen Anordnung gemäß § 123
+VwGO öffentlich bekanntzugeben, dass der Mitgliedschaft der Antragstellerin aktuell
+„etwa 7.000“ Mitglieder beziehungsweise Anhänger des sogenannten „Flügels“ angehören. Dies kann dem Vortrag der Antragstellerin aber nicht entnommen werden.
+Sie legt insoweit lediglich eine Presseerklärung des Bundesamtes für Verfassungsschutz vom 12. März 2020 vor. Diese ein Jahr zurückliegende Erklärung rechtfertigt
+jedoch die Annahme nicht, dass das Bundesamt für Verfassungsschutz beabsichtigt,
+bis zur Entscheidung des Verwaltungsgerichts Köln über den Antrag der Antragstellerin auf Erlass einer einstweiligen Anordnung öffentliche Erklärungen zur Frage der
+Zahl der Mitglieder der Antragstellerin, die dem sogenannten „Flügel“ angehören, abzugeben. Auch aus der bloßen Behauptung der Antragstellerin, dass das Bundesamt
+für Verfassungsschutz dem Begehren nach Abgabe einer Stillhalteerklärung nicht
+entsprochen habe, ergibt sich nichts Anderes.
+
+  3. Der Antrag auf Anordnung der Auslagenerstattung war abzulehnen. Gründe, die           6
+trotz der Erfolglosigkeit des Eilantrags gemäß § 34a Abs. 3 BVerfGG für eine Auslagenerstattung streiten, wurden weder vorgetragen, noch sind solche sonst ersichtlich. Für den Antrag auf Festsetzung des Gegenstandswerts besteht folglich kein
+Rechtsschutzbedürfnis, so dass dieser zu verwerfen war (vgl. BVerfG, Beschluss der
+3. Kammer des Zweiten Senats vom 28. Oktober 2019 - 2 BvR 962/19 -, juris,
+Rn. 4 f.).
+
+ Diese Entscheidung ist unanfechtbar.                                                      7
+
+                    König                        Müller                     Maidowski
+
+
+
+
+                                           3/4
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Zweiten Senats vom
+12. März 2021 - 2 BvQ 17/21
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom
+                12. März 2021 - 2 BvQ 17/21 - Rn. (1 - 7), http://www.bverfg.de/e/
+                qk20210312_2bvq001721.html
+
+ECLI             ECLI:DE:BVerfG:2021:qk20210312.2bvq001721
+
+
+
+
+                                         4/4
