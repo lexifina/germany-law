@@ -1,0 +1,115 @@
+# Haupt- und Sicherheitsausschusses
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-03-12T16:00:00+01:00
+- Ende: 2021-03-12T21:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/221
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5653
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5653
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00141985.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00141985.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00141985.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Wahl der/des stellvertretenden Vorsitzenden des Haupt- und Sicherheitsausschusses - einstimmig zugestimmt
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 6: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Schulausschuss
+- TOP 7: Anpassung der OGS-Budgets zum 01.08.2021 - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 8: Straßenbenennung im Bereich Pierburg - alt; B-Plan 487 - einstimmig zugestimmt
+- TOP 9: VHS Bildungsprogramm politische Bildung Änderung 1. Semester 2021 - einstimmig zugestimmt
+- TOP 10: Entfristung der Entgeltordnung der VHS Neuss - einstimmig zugestimmt
+- TOP 11: Servicefreie Öffnungszeiten in der Stadtbibliothek - einstimmig zugestimmt
+- TOP -: Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung
+- TOP 12: Freigabe der Krefelder Straße für den Radverkehr - einstimmig zugestimmt
+- TOP -: Sportausschuss
+- TOP 13: Genehmigung der Dringlichkeitsentscheidung Nr. 364 bzgl. der Bereitstellung überplanmäßiger Mittel für weitere Planungskosten für das Projekt "Sportzentrum Schorlemerstraße" - einstimmig zugestimmt
+- TOP 14: Antrag des Neusser Rudervereins auf einen Zuschuss zur Erweiterung des Kraftsportraums im vereinseigenen Bootshaus in Grimlinghausen - einstimmig zugestimmt
+- TOP 15: Antrag des TSV Norf auf einen Zuschuss zum Bau einer Freilufthalle im Von-Waldthausen-Stadion Norf - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 16: An der Obererft: Straßenwiederherstellung nach Kanalbau - einstimmig zugestimmt
+- TOP 17: Knotenpunkt Neuenberger Straße / Neukirchener Straße / Waldstraße / Alte Hauptstraße: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 18: Novellierung des Kommunalabgabengesetz NRW (KAG) - einstimmig zugestimmt
+- TOP 19: Verkehrliche Erschließung des BPL Nr. 485 - Holzheim, Kreitzer Straße (Gewerbegebiet und Grünspange): Realisierung einer weiteren Stichstraße (Ringofenstraße) ; Errichtung von Lärmschutzanlagen - verwiesen
+- TOP 20: Vellbrüggener Straße: Barrierefreier Umbau der Bushaltestelle "Norf Brücke" (stadtauswärts) - einstimmig zugestimmt
+- TOP 21: Saarstraße: Barrierefreier Umbau der Bushaltestelle "Jülicher Landstraße" - einstimmig zugestimmt
+- TOP 22: Nachrüstung vorhandener Bushaltestellen mit taktilen Elementen (1. Maßnahmenpaket für das Förderprogramm 2022) - einstimmig zugestimmt
+- TOP 23: Brückenbauwerk "Bootshaus" in Minkel: Grundhafte Instandsetzung - einstimmig zugestimmt
+- TOP 24: Rohrdurchlass Erftmühlengraben in Höhe Zollstraße: Inlinersanierung - einstimmig zugestimmt
+- TOP 25: Deckenerneuerungsprogramm 2021 - einstimmig zugestimmt
+- TOP 26: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2019 - einstimmig zugestimmt
+- TOP 27: Wirtschaftsplan 2021 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 28: Spielraumplanung: Ausbauplanung inkl. Folgekosten Kinderspielplatzprogramm 2020/21 - einstimmig zugestimmt
+- TOP 29: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2021/22 - einstimmig zugestimmt
+- TOP 30: Kinder- und Jugendförderplan 2020-2025 - einstimmig zugestimmt
+- TOP 31: Vergabe der Trägerschaft der Kindertageseinrichtung Weißenberger Weg - einstimmig zugestimmt
+- TOP -: Betriebsausschuss GMN
+- TOP 32: 2. Änderungssatzung der Betriebssatzung für das „Gebäudemanagement der Stadt Neuss“ vom 16. Dezember 2005 - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 33: Satzung zur Wahrung der Belange von Menschen mit Behinderungen und chronischen Erkrankungen in der Stadt Neuss, Einrichtung des Inklusionsbeirats und Verabschiedung der Geschäftsordnung für das Gremium und Benennung der Mitglieder für den Beirat - einstimmig zugestimmt
+- TOP 34: - entfällt -
+- TOP 35: - entfällt -
+- TOP -: Finanzausschuss
+- TOP 36: Errichtung einer provisorischen Containeranlage am Gymnasium Norf - einstimmig zugestimmt
+- TOP 37: Wirtschaftsplan 2021 für das Gebäudemanagement der Stadt Neuss (GMN) - mehrheitlich zugestimmt
+- TOP 38: Maßnahmen zur Berufsorientierung - einstimmig zugestimmt
+- TOP 39: Maßnahmefinanzierung IKK - mehrheitlich zugestimmt
+- TOP 40: Beratung des Haushaltsplan-Entwurfes 2021 - einstimmig zugestimmt
+- TOP 41: Beratung der mittelfristigen Ergebnisplanung 2020 - 2024 - mehrheitlich zugestimmt
+- TOP 42: Beratung des Investitionsprogramms (investive Finanzplanung) 2020 - 2024 - mehrheitlich zugestimmt
+- TOP 43: Erlass einer Hebesatzsatzung für das Jahr 2021 - einstimmig zugestimmt
+- TOP 44: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 45: Umgestaltung des Knotenpunktes Hochstadenstraße/Hoistener Schulstraße/Helpensteiner Kirchweg - einstimmig zugestimmt
+- TOP 46: Aufstellungsbeschluss zum Bebauungsplan Nr. 505 - Hammfeld, Radschnellweg - einstimmig zugestimmt
+- TOP 47: Bebauungsplan Nr. 502 - Allerheiligen, August-Macke-Straße - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 48: Stadtmauerkonzept - Umsetzung der Stationen 9-17 - - einstimmig zugestimmt
+- TOP 49: Volmerswerther Straße: Punktuelle Maßnahmen zur Verkehrsberuhigung - einstimmig zugestimmt
+- TOP 50: Gestaltungsbeirat der Stadt Neuss - einstimmig zugestimmt
+- TOP 51: Veränderungssperre Nr. 37 für den Geltungsbereich des Bebauungsplans Nr. 487 - Barbaraviertel, Düsseldorfer Straße/Bockholtstraße/Leuschstraße - einstimmig zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 52: Gemeindeprüfungsanstalt (GPA) NRW – überörtliche Prüfung Informationstechnik der Stadt Neuss - einstimmig zugestimmt
+- TOP 53: Prüfung des Jahresabschlusses 2019 sowie der Jahresabschlüsse 2019 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 54: Fortführung Maßnahmen zur Stützung der Gastronomie in der Corona-Pandemie - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 55: Fachplanung Kindertagesbetreuung hier: Einrichtungsscharfe Bedarfsplanung für das Kindergartenjahr 2021/2022 - einstimmig zugestimmt
+- TOP 56: Fachplanung Kindertagesbetreuung hier: Zuschuss zur Flexibilisierung der Betreuungszeiten - einstimmig zugestimmt
+- TOP 57: Beratendes Mitglied im Jugendhilfeausschuss der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Beschlüsse des Hauptausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 58: Aufhebung der Vergabeordnung - einstimmig zugestimmt
+- TOP 59: Erstattung nicht vereinnahmter Elternbeiträge - einstimmig zugestimmt
+- TOP 60: Personelle Besetzung in Wasser- und Bodenverbänden hier: Entsendung eines Vertreters der Stadt Neuss in den Ausschuss des Eichverbandes "Neue Deichschau Heerdt" - einstimmig zugestimmt
+- TOP 61: Elternbeiträge Kita, Kindertagespflege und OGS für den Monat Februar 2021 - einstimmig zugestimmt
+- TOP 62: Bestellung von Ausschussmitgliedern und deren Vertreter*innen für die Bezirksausschüsse - einstimmig zugestimmt
+- TOP 63: Wahl/Wiederwahl einer Schiedsperson/stellvertretenden Schiedsperson - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 64: Antrag der CDU-Fraktion betr.: Einsatz von Dialog-Displays verstärken - verwiesen
+- TOP 65: Antrag der CDU-Fraktion betr.: Anliegen des Stadtelternrates unterstützen - vertagt
+- TOP 66: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Beitritt zur „Europäische Städtekoalition gegen Rassismus und ethnische Diskriminierung“ - mehrheitlich zugestimmt
+- TOP 67: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Neukonzeption des städtischen Gebäudemanagements - einstimmig zugestimmt
+- TOP 68: Antrag der CDU-Fraktion betr.: Masterplan Innenstadt - Die Neusser Innenstadt gesamtheitlich für die Zukunft aufstellen - verwiesen
+- TOP 69: Antrag der CDU-Fraktion betr.: Neuorganisation des Gebäudemanagements - einstimmig zugestimmt
+- TOP 70: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Entlastungspotentiale nutzen - Kreisumlage senken - mehrheitlich zugestimmt
+- TOP 71: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Beschlussfassung über den Haushalt - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 72: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 73: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 73.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 73.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 74: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer im III. und IV. Quartal 2020 genehmigt hat - zur Kenntnis genommen
+- TOP 75: Vermarktung zweites Teilgebiet der Klimaschutzsiedlung Blausteinsweg - zur Kenntnis genommen
+- TOP 75.1: Bestellung eines Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 76: Einwohner*innenfragestunde
