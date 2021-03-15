@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-15T16:00:00+01:00
+- Ende: 2021-03-15T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23284
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23284
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809307.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809307.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00809307.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Gleueler Straße Höhe Militärring (Az.: 02-1600-211/19) - geändert beschlossen
+- TOP 5.1.1: Ergänzungsantrag zu 5.1 - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Dauerhafte Anordnung der Einbahnstraßenregelung auf der Joseph-Stelzmann-Straße (Az.: 02-1600-87/20) - zurückgestellt
+- TOP 5.3: Bürgereingabe gem. § 24 GO, betr.: Markierung einer Radverkehrsanlage auf der Stolberger Straße - ungeändert beschlossen
+- TOP 5.4: Bürgereingabe gem. § 24 GO, betr.: Kurzfristige Verbesserung der Fahrradinfrastruktur in Lindenthal/ Kurzfristige Umsetzung von Teilbereichen des geplanten Radschnellwegs Köln-Frechen (Az.: 02-1600-31/20) - geändert beschlossen
+- TOP 5.4.1: Ergänzungsantrag zu 5.4 - ungeändert beschlossen
+- TOP 5.5: Bürgereingabe gem. § 24 GO, betr.: Nutzung ehemaliger PKW-Stellplätze (Az.: 02-1600-175/20) - Alternative beschlossen
+- TOP 5.5.1: Alternativer Beschluss 5.5 - ungeändert beschlossen
+- TOP 5.6: Bürgereingabe gem. § 24 GO, betr.: Querungsstellen entlang der Militärringstraße Fußgänger- und fahrradfreundlicher gestalten (Az.: 02-1600-79/20) - ungeändert beschlossen
+- TOP 5.7: Bürgereingabe gem. § 24 GO, betr.: Durchfahrtsbeschränkung Kreuzung Aachener Straße/Piusstraße (Az.: 02-1600-227/20) - Alternative beschlossen
+- TOP 5.7.1: Alternativer Beschluss 5.7 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Maßnahmen gegen illegale Sprayaktionen, Beantwortung der Anfrage AN/0362/2020 - Kenntnis genommen
+- TOP 7.1.2: Kreisverkehre in Lindenthal - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baugenehmigung VIKZ - zurückgestellt
+- TOP 7.2.2: Deckensanierung Lindenthal - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Erhöhung der Verkehrssicherheit auf der Gleueler Straße - ungeändert beschlossen
+- TOP 8.1.2: Anbau Liegehalle Freiluga - ungeändert beschlossen
+- TOP 8.1.3: Mischgebiet Röndorfer Str. - ungeändert beschlossen
+- TOP 8.1.4: Gehwegparken Alter Militärring - ungeändert beschlossen
+- TOP 8.1.5: Aufstellen von Papierkörben am Braunsfelder Markt - ungeändert beschlossen
+- TOP 8.1.6: Stadtwaldrampe - ungeändert beschlossen
+- TOP 8.1.7: Beschilderung Tempo 30 Sterrenhofweg - ungeändert beschlossen
+- TOP 8.1.8: Beleuchtung Grünanlagenabschnitt zwischen Parkplatz „Neue Sandkaul“ und "Mozartstraße" in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.9: Dringlichkeitsantrag Bennennung Platz Radstadion - ungeändert beschlossen
+- TOP 8.1.10: Bekräftigung des Beschlusses zur digitalen Öffnung vom 31.08.2020 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Fahrbahndeckensanierung Alter Militärring - ungeändert beschlossen
+- TOP 9.1.2: Fahrbahnsanierung Neuenhöfer Allee - geändert beschlossen
+- TOP 9.1.2.1: Ergänzungsantrag - ungeändert beschlossen
+- TOP 9.1.3: Benennung eines Mitgliedes der Bezirksvertretung Lindenthal zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - ungeändert beschlossen
+- TOP 9.1.4: Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 58485/02 - ungeändert beschlossen
+- TOP 9.2.2: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - ungeändert beschlossen
+- TOP 9.2.3: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - geändert beschlossen
+- TOP 9.2.4.1: Ergänzungsantrag TOP 9.2.4 - ungeändert beschlossen
+- TOP 9.2.5: Förderprogramm "Dritte Orte" - ungeändert beschlossen
+- TOP 9.2.6: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sachstandsbericht 2020 zur Umsetzung des Maßnahmenkonzeptes der Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld - Kenntnis genommen
+- TOP 11.1.2: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: E-Ladestationen Tiefgarage Bürgeramt Lindenthal - zu AN/0134/2021 und AN/0980/2020 - Kenntnis genommen
+- TOP 11.2.2: Beschilderung Römergrab - Kenntnis genommen
+- TOP 11.2.3: Straßenbäume Leichtensternstraße - Kenntnis genommen
+- TOP 11.2.4: Benennung des neuen Vorplatzes am Radstadion in Köln-Müngersdorf in Ernst-Berliner-Platz - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Vergabe der bezirksorientierten Mittel 2020, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 11.3.2: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 11.3.3: Baubeginn der Maßnahme Mehrzweckraum Pavillion „ im Jugendzentrum Alte Schule Widdersdorf" - Kenntnis genommen
+- TOP 11.3.4: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 11.3.5: Information zum Zielbildprozess Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld mit Fokusraum Max Becker-Areal - Kenntnis genommen
+- TOP 11.3.6: Verlängerung des Mietvertrages für den Betriebshof des Amtes für Landschaftspflege und Grünflächen, Stolberger Straße 11 in Braunsfeld - Kenntnis genommen
+- TOP 11.3.7: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 11.3.8: Digitale Informationsveranstaltung zur Vorstudie des Stadtbahnvorhabens Köln - Niederaußem am 17.02.2021 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
