@@ -1,0 +1,54 @@
+# Haupt-, Finanz- und Steuerungsausschuss (113. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-03-15T17:01:00+01:00
+- Ende: 2021-03-15T20:26:00+01:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZT64Tvnl74Y1GJAsqjLGnF4
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16702
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWDXd-iXepXBlf3JDPiupMZS2XDDk275y_xh9xNrb_X0/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_15.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYq-9IO6dtQiSgG0ghrzx6Ieowsv2P3c-kR2GEotd_AD/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_15.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 11.01.2021
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Straßenbenennung im Zuge der 5. Änderung des Bebauungsplans 29A "Habichtshöhe Nord" und Planstraße B im Bebauungsplan 31 a - 13 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 4.: Mitgliedschaft des Landwirtschaftlichen Ortsverbandes Emsdetten im Ausschuss für Klima, Umwelt und Mobilität - Einstimmig
+- TOP 5.: Beratende Mitgliedschaft der Emsdettener Schulleitungen im Ausschuss für Schule und Bildung - Einstimmig
+- TOP 6.: Wahl der Mitglieder des Beirates für Seniorinnen und Senioren und des Inklusionsbeirates im Briefwahlverfahren - Einstimmig
+- TOP 7.: Sitzungsgelder für die Mitglieder des Fachbeirats für Digitalisierung und Mitgliedschaft des E.E.M. e.V. im Fachbeirat für Digitalisierung - Einstimmig
+- TOP 8.: Aufstellung eines qualifizierten Mietspiegels für nicht preisgebundenen Wohnraum in Emsdetten - Zur Kenntnis genommen
+- TOP 9.: Allgemeine Stadtentwicklungsplanung
+- TOP 9.1: Geförderter Wohnungsbau - Sachstand und Beratung politischer Anträge - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.: Bürgerbeteiligung Bau / Realisierung der Westumgehung - K53 N Durchführung einer direkten Bürgerbefragung/Abstimmung aller Bürgerinnen und Bürgern der Stadt Emsdetten - Ohne Abstimmung
+- TOP 11.: Verwaltungsorganisation
+- TOP 11.1: Organisation der Gebäudereinigung - Einstimmig
+- TOP 12.: Mitgliedschaft der Stadt Emsdetten im Freundeskreis des Hospizes "haus hannah" - Einstimmig
+- TOP 13.: Finanzangelegenheiten
+- TOP 13.1: Beteiligungsbericht 2019 - Einstimmig
+- TOP 13.2: Vertreter in der Gesellschafterversammlung Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 14.: Stadtwerke Emsdetten GmbH
+- TOP 14.1: Stadtwerke Emsdetten GmbH und tkrz Stadtwerke GmbH: Änderung der Gesellschaftsverträge - Einstimmig
+- TOP 15.: Bebauungsplan
+- TOP 15.1: Vorhabenbezogener Bebauungsplan VEP Nr. 5 "Nahversorgungsstandort Im Hagenkamp" - Satzungsbeschluss - Einstimmig
+- TOP 15.2: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 17. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 16.: Förderantragstellung zum Anbau Heimatmuseum August-Holländer-Museum - Einstimmig
+- TOP 17.: Einreichen einer Projektskizze im Rahmen des Dritten Förderaufrufes "Modellprojekte Smart Cities - Förderrunde 2021¿ - Einstimmig
+- TOP 18.: Antrag der Fraktion DIE GRÜNEN auf Einrichtung eines offenen WLAN in städtischen Unterkünften - 11 Ja-Stimme(n), 1 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 19.: Satzungsrecht
+- TOP 19.1: Änderung der Richtlinie zur Förderung von Lastenfahrrädern und Lastenanhängern - (kein Text vorhanden)
+- TOP 19.1.1: Änderung der Richtlinie zur Förderung von Lastenfahrrädern und Lastenanhängern - 14 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Investitionskostenzuschüsse 2021 an Sportvereine - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 21.: Vertragliche Vereinbarung mit dem Caritasverband Emsdetten-Greven über die Förderung der Leitung des Kaufhaus der Caritas (KadeCa) - 10 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Umbau, Erweiterung sowie energetische Sanierung der Wilhelmschule Vorstellung der Vorentwurfsplanung - Einstimmig
+- TOP 23.: EMS-HALLE - Projektstand - Zur Kenntnis genommen
+- TOP 24.: Stellenplan
+- TOP 24.1: Stellenplan 2021 - Einstimmig
+- TOP 25.: Etat/Budget
+- TOP 25.1: Entwurf Haushaltssatzung und Haushaltsplan 2021 - Einstimmig
+- TOP 26.: Verschiedenes
