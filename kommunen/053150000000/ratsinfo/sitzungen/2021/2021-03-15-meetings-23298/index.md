@@ -1,0 +1,127 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-15T17:05:00+01:00
+- Ende: 2021-03-15T17:40:00+01:00
+- Ort: Aula - Gymnasium Rodenkirchen, Sürther Str. 55, 50996 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23298
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23298
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Jugendarbeit im Corona-Lockdown, Kontakt zu Jugendlichen, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Jugendarbeit im Corona-Lockdown, Kontakt zu Jugendlichen - Kenntnis genommen
+- TOP 7.2.2: Bewohnerparken in Bayenthal, Stand Umsetzung, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2.1: Bewohnerparken in Bayenthal, Stand Umsetzung - Kenntnis genommen
+- TOP 7.2.3: Erstellen eines Verkehrskonzeptes der Verwaltung mit Parteienvertretern, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Ausfälle des Bücherbusses der Stadtbibliothek Köln am Haltepunkt Köln-Meschenich, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4.1: Ausfälle des Bücherbusses der Stadtbibliothek Köln am Haltepunkt Köln-Meschenich - Kenntnis genommen
+- TOP 7.2.5: Digitale Ausstattung an Schulen im Stadtbezirk Köln-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Sachstand Gewerbegebiet Immendorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6.1: Sachstand Gewerbegebiet Immendorf (AN/0146/2021) - Kenntnis genommen
+- TOP 7.2.7: Sportanlage an der Kapellenstraße/Husarenstraße in Rondorf: Aktueller Planungsstand, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7.1: Anfrage zum SC Rondorf Kapellenstr. - Kenntnis genommen
+- TOP 7.2.8: Zu- und Abfahrten für Anlieger der Zaunhofstraße in Köln-Immendorf/Meschenich, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8.1: Zu- und Abfahrten für Anlieger der Zaunhofstraße in Köln-Immendorf/Meschenich - Kenntnis genommen
+- TOP 7.2.9: Sachstand sanierungsbedürfige Immobilie Sürther Hauptstraße 74 in Köln-Sürth, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.10: Einbindung der Bezirksvertretung Rodenkirchen in den Bezirk betreffende Entscheidungen übergeordneter Instanzen, Anfrage der Fraktion Die Grüne/Bündnis 90 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.10.1: Einbindung der Bezirksvertretung Rodenkirchen in den Bezirk betreffende Entscheidungen übergeordneter Instanzen - Kenntnis genommen
+- TOP 7.2.11: Minimierung der negativen Folgen von Starkregen in Rondorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.11.1: Minimierung der negativen Folgen von Starkregen in Rondorf; - Kenntnis genommen
+- TOP 7.3: Offene Anfragen
+- TOP 7.3.1: Durchgangsverkehrs und Aufenthaltsqualität auf Straßen in Bayenthal, Offene Anfrage der CDU-Fraktion (AN/0935/2019) aus der Sitzung am 01.07.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.2: Bahnhof Sürth: Vorplatz, Planung und Umsetzung, Offene gemeinsame Anfrage der Fraktion Bündnis90/Die Grünen und der FDP-Fraktion (AN/1337/2019) aus der Sitzung vom 11.11.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.3: Erhaltenswerte Bäume an Rändern von B-Plan-Gebieten: Offene gemeinsame Anfrage der Fraktion Die Grünen und der FDP-Fraktion (AN/1337/2019) aus der Sitzung vom 11.11.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.4: Emil-Hoffmann-Straße: Bushaltestelle, Sicherheit, Offene Anfrage der Fraktion Die Grünen (AN/0279/2020) aus der Sitzung am 23.03.2020 bzw 11.05.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.4.1: Emil-Hoffmann-Straße: Bushaltestelle, Sicherheit der dort Querenden - Kenntnis genommen
+- TOP 7.3.5: Top 2 der nicht realisierten ÖPNV-Verbindungen im Stadtbezirk 2, Offene Anfrage der CDU-Fraktion (AN/0427/2020) aus der Sitzung vom 23.03.2020 bzw 11.05.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.6: Querung des Heinrich-Lübke-Ufers unter der Rodenkirchener Brücke, Offene Anfrage der CDU-Fraktion (AN/0692/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7: Erinnerung an Anfrage AN/0970/2016 Wasservögel am Kalscheurer Weiher; Offene Anfrage der CDU-Fraktion (AN/0794/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7.1: Beantwortung Anfrage der CDU-Fraktion AN/0794/2020 bzw. AN/0970/2016 - Kenntnis genommen
+- TOP 7.3.8: Öffentliche Erörterung zur Ansiedlung der Fa. Theo Steil GmbH in Godorf, Offene Anfrage der CDU-Fraktion (AN/0792/2020) aus der Sitzung vom 15.06.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.9: Ströer Campus in Sürth: geplante Erweiterung, Verschattungsaspekt, Offene Anfrage der Fraktion Bündnis90/Die Grünen (AN/1377/2020) aus der Sitzung am 14.12.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.10: Wohnbebauung in Köln-Weiß auf dem Grundstück Auf der Ruhr Nr. 105, Offene Anfrage der SPD-Fraktion (AN/1460/2020) aus der Sitzung am 14.12.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.10.1: AN/1460/2020 Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.3.11: Sachstand beim Ausbau der Infrastruktur für Elektromobilität, Offene Anfrage der CDU-Fraktion (AN/1467/2020) aus der Sitzung am 14.12.2020 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.12.1: Neues Beleuchtungskonzept für den Eisenbahntunnel am Gottesweg - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einrichtung von Fahrradspuren; Vorgebirgstraße, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgestellt
+- TOP 8.1.2: Einrichtung eines Rathaus-Kioskes während der Bauzeit des neuen Bezirksrathauses, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.3: Rückbau der freilaufenden Rechtsabbieger an der Kreuzung Brühler Straße / Gürtel in Köln-Raderthal, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.4: Versorgungssituation mit Ladepunkten für Elektroautos im öffentlichen Raum im Stadtbezirk Köln-Rodenkirchen, Antrag der FDP-Fraktion - zurückgestellt
+- TOP 8.1.5: Barrierefreie Gehwege; Goltsteinstraße Bayenthal, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgestellt
+- TOP 8.1.5.1: Wertstoffsammelbehälter von Altglas am Standort Goltsteinstraße in Bayenthal - zurückgestellt
+- TOP 8.1.6: Verbesserung der ÖPNV-Anbindung für Schüler zwischen Meschenich und Godorf, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Verlegung der LKW Ein-/ Ausfahrt zur Shell Raffinerie in Godorf auf die Industriestraße, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.8: Schutz Straßenbegleitgrün; Siegfriedstraße Rodenkirchen, Antrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 8.1.9: Erhöhung der Verkehrssicherheit und Aufwertung der Umgebung des Wegekreuzes an der Industriestraße / Römerstraße / An den Vier Linden in Köln-Rodenkirchen, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.10: Schaffung weiterer Fahrrad-Abstellplätze in Köln-Zollstock, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.11: Maßnahmen zum Lärmschutz der AnwohnerInnen an der BAB 555, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.12: Gestaltung des Weges im Äußeren Grüngürtel von der Fußgängerbrücke am Südfriedhof nach Süden, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.12.1: TOP 8.1.12 (Weg-Gestaltung im Äußeren Grüngürtel) - Ersetzungsantrag
+- TOP 8.1.13: Renaturierung Schotterfläche Sürther Aue, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.14: Sürther Feld: Ansätze zur Lösung von Verkehrsproblemen, Gemeinsamer Antrag aller Fraktionen - geändert beschlossen
+- TOP 8.1.15: Rodenkirchener Brücke: Appell an die Autobahn GmbH zu deren Vorgehen, Gemeinsamer Antrag aller Fraktionen - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Verbesserung Schulinfrastruktur; hier: Neubau 2-fach-Turnhalle Gymn. Rodenkirchen, Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - ungeändert beschlossen
+- TOP 8.2.2: Reglementierung des Abstellens von Mietfahrrädern, E-Scootern u.ä. im öffentlichen Straßenraum und Gehwegen, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.2.3: Vermüllung entlang Verbindungsstraßen; Gegenmaßnahmen/Prävention, Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.2.4: Verbesserung Schulinfrastruktur; hier: Container für das Familiengrundschulzentrum Grundschule IM Süden, Gemeinsamer Antrag der Fraktionen Die Grünen/Bündnis 90, SPD und FDP
+- TOP 8.2.4.1: Verbesserung Schulinfrastruktur; hier: Container für die Elternarbeit Familiengrundschulzentrum an der Schule IM Süden, Meschenich
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gestaltungsbeirat der Stadt Köln, Benennung eines Mitgliedes der Bezirksvertretung Rodenkirchen zur Teilnahme an den Sitzungen des Gestaltungsbeirates für 2020 - 2025 - ungeändert beschlossen
+- TOP 9.1.2: Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Rodenkirchen - zurückgestellt
+- TOP 9.1.3: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Rodenkirchen; hier Maßnahmen für 2021 - ungeändert beschlossen
+- TOP 9.1.3.1: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Rodenkirchen; hier Maßnahmen für 2021 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - mit Änderungen empfohlen
+- TOP 9.2.1.1: Änderungsantrag zu TOP 9.2.1 - Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen - ungeändert beschlossen
+- TOP 9.2.2: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg - Baubeschluss - ungeändert empfohlen
+- TOP 9.2.2.1: Änderungsantrag zu Vorlage 2952/2020 Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Straße o. Nr. - ungeändert beschlossen
+- TOP 9.2.3: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 9.2.4: Bedarfsfeststellungsbeschluss für die Erarbeitung der verbindlichen Bauleitplanung (fünf Teilbebauungspläne und ein Bebauungsplan-Änderungsverfahren) und der Durchführung der Vergabe von Fachgutachten für das StädtebauGesamtprojekt Parkstadt Süd - ungeändert empfohlen
+- TOP 9.2.5: Satzung über die abweichende Herstellung der Erschließungsanlage Goldnesselweg von Kreisverkehr bis öffentliche Grünfläche in Köln-Sürth - ungeändert empfohlen
+- TOP 9.2.6: Satzung über die abweichende Herstellung der Erschließungsanlage Tausendschönweg von Sürther Feldallee bis öffentliche Grünfläche in Köln-Sürth - ungeändert empfohlen
+- TOP 9.2.7: Förderprogramm "Dritte Orte" - zurückgestellt
+- TOP 9.2.8: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 3. Baustufe Nord-Süd Stadtbahn / aktueller Zeit-/Maßnahmenplan - Kenntnis genommen
+- TOP 10.2.2: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 10.2.3: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 10.2.4: Gemeinschaftsprojekt „Hecken und Säume“ - Kenntnis genommen
+- TOP 10.2.5: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - Kenntnis genommen
+- TOP 10.2.6: Stellungnahme der Polizei zu AN 1355-2020 der FDP-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom 14.12.2020 - Kenntnis genommen
+- TOP 10.2.7: Sichere Querung des Radweges über den Robinienweg - Kenntnis genommen
+- TOP 10.2.8: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - Kenntnis genommen
+- TOP 10.2.9: Mitteilung StEB - Sanierung der Lindemauer, Sürth; Schreiben 20.01.2021 - Kenntnis genommen
+- TOP 10.2.10: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 10.2.11: Vergabe der bezirksorientierten Mittel 2020, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.12: Buslinie 134: Taktverdichtung in den Abendstunden (Beschluss der BV Rodenkirchen vom 25.02.2019, TOP 8.1.1) - Kenntnis genommen
+- TOP 10.2.13: Stadtbahnanbindung Rondorf-Meschenich; hier: Untersuchung der Alternativen und Zeitmaßnahmenplanung - Kenntnis genommen
+- TOP 10.2.14: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 10.2.15: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 10.2.16: Künstlerische Gestaltung der Lärmschutzwand des Flüchtlingswohnheims an der Industriestraße in Köln-Sürth AN/1005/2020 - Kenntnis genommen
+- TOP 10.2.17: Verkehrssituation Meschenich: Planung und Stand Umgehungsstraße, Durchfahrtsverbot LKW - Kenntnis genommen
+- TOP 10.2.18: Planfeststellungsverfahren für die Sanierung der Lindemauer in Köln-Sürth - Kenntnis genommen
+- TOP 10.2.19: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 10.2.20: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 10.2.21: Betreff: Offenlage gemäß § 3 Abs. 2 BauGB zur 219. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen, Arbeitstitel: Parkstadt Süd in Köln-Zollstock, -Raderberg und -Bayenthal - Kenntnis genommen
+- TOP 10.2.22: Sachstandsbericht Europaschule, Raderthalgürtel 3, 50968 Köln-Zollstock - Kenntnis genommen
+- TOP 10.2.23: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Gesamtprojekt Parkstadt Süd (V 3700/2019) Hier: Auftragserweiterung - Kenntnis genommen
