@@ -1,0 +1,72 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-03-15T14:40:00+01:00
+- Ende: 2021-03-15T16:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23614
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23614
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung Sachkundiger Einwohner
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2019
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.01.2021 - Kenntnis genommen
+- TOP 2.4: Sachstand Lastenradförderung 2020 - Kenntnis genommen
+- TOP 2.5: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 2.6: Geldanlage der Bühnen Köln bei der Greensill Bank - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Optimierung der Bankenstrategie in den Eigenbetrieben der Stadt Köln - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Kosten für das ungenutzte Kölner Impfzentrum - Anfrage der FDP-Fraktion vom 19.01.2021 - Kenntnis genommen
+- TOP 4.1.1: Beantwortung der Anfrage der FDP-Fraktion betr.: "Kosten für das ungenutzte Kölner Impfzentrum" (AN/0170/2021) - Kenntnis genommen
+- TOP 4.2: Kontrollmöglichkeiten der Stadt bei Finanzgeschäften der Eigenbetriebe am Beispiel der Anlage des Eigenbetriebs Bühnen bei der Greesill Bank - Kenntnis genommen
+- TOP 4.2.1: Beantwortung der Anfrage AN/0511/2021 - Kenntnis genommen
+- TOP 4.3: Finanzskandal bei den Städtischen Bühnen - Kenntnis genommen
+- TOP 4.4: Transparenz von Geldanlagen - Kenntnis genommen
+- TOP 4.4.1: Beantwortung der schriftlichen Anfrage AN/0524/2021 der AFD-Fraktion "Transparenz von Geldanlagen" - Kenntnis genommen
+- TOP 4.5: Aufnahme von Darlehen und Anlagestrategien bei den Bühnen Köln vor dem Hintergrund eines gesamtstädtischen Liquiditätsmanagements - Kenntnis genommen
+- TOP 4.6: Anfragen zum TOP 2.6 - Geldanlage der Bühnen Köln bei der Greensill Bank - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Generalsanierung des Umkleidegebäudes auf der Sportanlage Rixdorfer Str. 56, 51145 Köln - Kenntnis genommen
+- TOP 6.2.2: Neugestaltung der Spielplätze „Rixdorfer Str.“ und „Wuppertaler Str./Stegwiese“ - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 7.2: Sportentwicklungsplanung: Planungsbeschluss für die Sanierung der Kampfbahn und des Werferplatzes auf der Bezirkssportanlage Merianstraße - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. o. Nr. 2, 51143 Köln - Baubeschluss - geändert beschlossen
+- TOP 10.2: Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - geändert beschlossen
+- TOP 10.3: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellungsbeschluss für die Erarbeitung der verbindlichen Bauleitplanung (fünf Teilbebauungspläne und ein Bebauungsplan-Änderungsverfahren) und der Durchführung der Vergabe von Fachgutachten für das StädtebauGesamtprojekt Parkstadt Süd - unter Vorbehalt beschlossen
+- TOP 10.5: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg - Baubeschluss - geändert beschlossen
+- TOP 10.6: Baubeschluss für die Umgestaltung der Jesuitengasse im Bereich zwischen Amboßstraße und Schmiedegasse sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-5-1086, Umgestaltung Jesuitengasse - ungeändert beschlossen
+- TOP 10.7: Entgelt- und Benutzungsordnung der artothek - Raum für junge Kunst - ungeändert beschlossen
+- TOP 10.8: GAG Immobilien AG: Satzungsänderung GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - zurückgestellt
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - unter Vorbehalt beschlossen
+- TOP 10.10: AchtBrücken GmbH - Betriebskostenzuschuss für die Jahre 2022-2024 - ungeändert beschlossen
+- TOP 10.11: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2021 - ungeändert beschlossen
+- TOP 10.12: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Gemeinsame Errichtung einer Klärschlammverbrennungsanlage in Köln-Merkenich - zurückgestellt
+- TOP 10.13: Kinderoper Köln – Förderung durch das Programm „Neue Wege“ des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen in Zusammenarbeit mit dem NRWKULTURsekretariat - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.13 : Kinderoper Köln – Förderung durch das Programm „Neue Wege„ des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen in Zusammenarbeit mit dem NRWKULTURsekretariat - ungeändert beschlossen
+- TOP 10.14: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Rodenkirchen; hier Maßnahmen für 2021 - ungeändert beschlossen
+- TOP 10.15: Förderprogramm "Dritte Orte" - zurückgestellt
+- TOP 10.16: Renovierungsprogramm Museen und Kulturbauten 2020 - ungeändert beschlossen
+- TOP 10.17: Fachraumerneuerung des naturwissenschaftlichen Bereiches am Schulstandort Dagobertstraße 79, 50668 Köln - ungeändert beschlossen
+- TOP 10.18: Teilnahme der Stadt Köln am Landesprojekt „Guter Lebensabend NRW“ - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Ankauf des Kunstwerkes Sympathische Kommunistin von Martin Kippenberger für das Museum Ludwig - ungeändert beschlossen
+- TOP 10.20: Generalsanierung der Gemeinschaftsgrundschule Halfengasse 25 in 50739 Köln - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.21: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
