@@ -1,0 +1,149 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-03-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6433906
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6433906
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.1.: Vorstellung Planungsstand der IAA
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.3.: Entsendung BA Mitglied Kommission Kunst am Bau
+- TOP -: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Drei Anliegen Maxvorstadt
+- TOP 5.2.2.: Baumpflanzungen Kreittmayerstraße
+- TOP 5.2.3.: Fahrradständer am Ferdinand Miller Platz / Ecke Loristraße errichten
+- TOP 5.2.4.: Anfrage bzgl. der Parksituation Maxvorstadt
+- TOP 5.2.5.: Altstadtringtunnel
+- TOP 5.2.6.: Verkehrssituation Theresienstraße (zw. Augustenstraße und Schleißheimerstraße)
+- TOP 5.2.7.: Öffentliche Toiletten am Josephsplatz (U-Bahnhof)
+- TOP 5.2.8.: Erweiterung des Erhaltungssatzungsgebietes „Maxvorstadt“ um das Schönfeldviertel
+- TOP 5.2.9.: Durchfahrtsverkehr Lothstraße
+- TOP 5.2.10.: Vorschlag Sommerstraße – Rottmannstraße
+- TOP 5.2.11.: Baumaßnahme Winzerer-/Lothstraße Parksituation
+- TOP 5.2.12.: Veterinärstr.8 Monatelanger Leerstand
+- TOP 5.2.13.: Fehlende Rotdornbäume in der Amalienstraße
+- TOP 5.2.14.: Baumverlust Heßstraße
+- TOP 5.2.15.: Tengstraße Falschparker Behinderung
+- TOP 5.2.16.: Schleißheimer Str. Tempo 30
+- TOP 5.2.17.: Die Straße ist völlig drüber, Türkenstraße
+- TOP 5.2.18.: Einrichtung eines Zebrastreifens über die Königinstraße
+- TOP 5.2.19.: Verstärkte Kontrolle Lärmschutz Linprunstr. 13-19
+- TOP 5.2.20.: Toilettensituation am Alten Botanischen Garten
+- TOP 5.3.2.: Protokoll zur BA-Infoveranstaltung des SozRef am 03-02-2021
+- TOP 6.1.: Fahrradstellplatz Ludwigstr.21
+- TOP 6.2.: Tramverbindung 12
+- TOP 6.3.: Antwort auf Schreiben BA zu Baumfällung Heßstraße 14
+- TOP 6.4.: Enhuberstr. 4 – Vorbescheid und Schreiben
+- TOP 6.5.: Baumfäll- und Rückschnittsarbeiten auf dem Gelände der Neuen Pinakothek
+- TOP 6.6.: Grüne Infrastruktur (Dachbegrünung) fßr die Maxvorstadt
+- TOP 6.7.: Konkretisierung und weiterführende Fragen zur Zweckentfremdung
+- TOP 6.8.: Zweckentfremdungsmelder attraktiver gestalten
+- TOP 6.9.: Unverzügliche Instandsetzung des Fußwegs vor Barer Straße 77
+- TOP 6.10.: Entsperrung des Spielplatzes am Königsplatz
+- TOP 6.11.: Durchgangsverkehr in der Zieblandstraße
+- TOP 6.12.: Aufstellung eines mobilen Fahrradständers auf öffentlichem Verkehrsgrund, Ludwigstr. 21- Antwort Oberbürgermeister
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Schaffung neuer Aufenthalts- und Grünflächen in der Maxvorstadt
+- TOP 2.1.1.: Baulisten der LBK: 4., 5., 6., 7. und 8. KW,
+- TOP 2.1.2.: WEB-Listen der LBK: 3. und 4., 5. und 6. KW
+- TOP 2.1.3.: Starnberger Flügelbahnhof
+- TOP 2.1.4.: Briennerstr. 50- Neubau eines Verwaltungsgebäudes mit teilw. Wohn- und Gastronomienutzung und TG- Bayerischer Fußball-Verband e.V.
+- TOP 2.1.5.: Gabelsbergerstr. 48-50 (Vertagung aus 02/21) VORBESCHEID, Neubau eines Mehrfamilienhauses mit Seitengebäude
+- TOP 2.1.6.: Luisenstr. 64, Neubau eines Rückgebäudes mit Tiefgarage
+- TOP 2.1.7.: Nymphenburger Str. 67 VORBESCHEID, Neubau eines Wohnhauses mit TG
+- TOP 3.1.1.: Luisenstraße 64 Baumfällung
+- TOP 3.1.2.: Gabelsbergerstr. 48-50 VORBESCHEID, Neubau eines Mehrfamilienhauses mit Seitengebäude (siehe C 2.1.5) beantragte Baumfällungen
+- TOP 5.1.: Aktualisierter Aufstellungsbeschluss BR Sitzungsvorlage Nr. 20-26/ V 02666
+- TOP 5.2.: Wohnen in München VI, Erfahrungsbericht für 2020
+- TOP 5.3.: Bauarbeiten Winzerer-/ Lothstraße
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Belegungsanzeigetafeln in städtischen Einrichtungen in der Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Personenbezogener Behindertenparkplatz, Marlene-Dietrich-Straße
+- TOP 2.2.1.: Neue Baumstandorte im öffentlichen Raum
+- TOP 2.2.2.: Sommerstraßen Vorschläge zu Sommerstraßen 2021 in der Maxvorstadt
+- TOP 2.2.3.: Vorschläge zur Optimierung der Beleuchtung für den "Nachtspaziergang" Erhöhung des Sicherheitsgefühls
+- TOP 2.3.1.: Ausdehnungsantrag Freischankfläche Seidlstr. 2a
+- TOP 2.3.2.: Genehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund oder auf Grünflächen vor Gaststätten, Augustenstraße 52 Reguläre Freischankfläche
+- TOP 2.3.3.: Genehmigungen zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund oder auf Grünflächen vor Gaststätten, Bäckereiladen, Zieblandstr. 22, 80798 München, Reguläre Freischankfläche
+- TOP 2.3.4.: Genehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Grund oder auf Grünflächen vor Gaststätten während Geltung der Pandemie Einschränkungen, Amalienstr. 81, Eilentscheid
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schwindstraße 18 Stellplatzumwandlung
+- TOP 3.2.: Türkenstr.71, Lastenradstellplätze
+- TOP 3.3.: Kreisverwaltungsreferat, Antrag auf unveränderte Fortführung eines Gaststättenbetriebs a) Oskar von Miller Ring 36, b) Schwindstr. 14, c) Ottostr. 5, d) Schleißheimer Str. 5
+- TOP 3.4.: Reinigungsarbeiten an U-Bahnhöfen
+- TOP 3.5.: Verkehrsrechtliche Anordnung Erweiterung Lizenzgebiet St. Vinzenz Viertel
+- TOP 3.6.: Verkehrsrechtliche Anordnung Erweiterung Lizenzgebiet Marsfeld/ Arnulfpark
+- TOP 3.7.: Sanierung Loth-/Winzerer-/Georgenstr.
+- TOP 3.8.: Verkehrsrechtliche Anordnung, Radwegsanierung Landshuter Allee/ Blutenburgstr.
+- TOP 3.9.: Verkehrsrechtliche Anordnung, Prielmayerstr. Nordseite, absolutes Halteverbot
+- TOP 3.10.: Antrag des BA17 an alle BA: Leben Retten – Abbiegeassistenen unverzüglich verpflichtend einführen!
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Verkehrsrechtliche Anordnung, Sandstraße – Geschwindigkeitsreduzierung (T30) – nördlicher Teil – ausgeführt
+- TOP 3.13.: Verkehrsrechtliche Anordnung, Steinickeweg 7- Haltverbot für Feuerwehrzufahrt
+- TOP 3.14.: Verkehrsrechtliche Anordnung, Hiltensperger 11, Ladezone Netto
+- TOP 3.15.: Teilwiderruf einer verkehrsrechtlichen Anordnung, Tengstraße/ Georgenstraße (Kreuzungsbereich)
+- TOP 3.16.: Verkehrsrechtliche Anordnung, Türkenstr. 51, 66 auf gegenüber und 93 auf gegenüber; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Sportstätten Königsplatz
+- TOP 1.2.: Nachbarschaftstreff Arnulfpark
+- TOP 1.3.: Schachfelder an der Glyptothek
+- TOP 1.4.: Unterricht und Workshops im Freien erleichtern
+- TOP 1.5.: Mobile Einheiten für Unterricht
+- TOP 1.6.: Anfrage zu den Planungen der LHM im Zusammenhang mit der SARS-CoV-2-Pandemie
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget democraticArts GbR Unruly Ghosts&#039; Zip Zap Show vom 15.05. - 15.10.2021 9.500,00 Euro, Az.: 0262.0-3-0335
+- TOP 2.2.: Budget: Verzicht auf Eigenmittelanteil eines bereits bewilligten Budgetantrags (11.02.2020) Antragssteller: Refugee Law Clinic Munich e.V. Maßnahme: Ausbildungswochenende für neue Berater Eigenmittelanteil alt 1.251 €, neu: 0 €, somit Förderung 1000 € statt 2.929,05 €.
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00 Euro, Az.: 0262.0-3-0336
+- TOP 2.2.: Budget: Antrag auf reduzierten Eigenmittelanteil eines bereits bewilligten Budgetantrags (21.07.2020) Antragssteller: Akademie der bildenden Künste Maßnahme: Alternative Jahresausstellung 2020 Eigenmittelanteil alt: 30.700 €, neu: 14.300 €.
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Teildigitalisierung der Schaukästen
+- TOP F.2.: BA-Resolution zu den Anti-Coronademos
+- TOP F.4.: Kunstarealfest 14.-18.07.21 – Beitrag des BAs
+- TOP F.5.: Kürzung Stadtbezirksbudget
+- TOP F.6.: Corona-Pandemie / Änderung der Bezirksausschusssatzung / Sonderausschüsse / Verlängerung bis zum 31.12.2021
+- TOP F.7.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse
+- TOP 1.: Nächste BA- und UA-Sitzungen UA Kultur und Demokratieförderung, 08.03.2021, 19.00 Uhr, Fremdspracheninstitut, Amalienstr. 36 UA Klima, Umwelt und Planung, 10.03.2021, 19.30 Uhr, Bürgerbüro, Schellingstraße 28 a UA Mobilität und öffentl. Raum, 16.03.2021, 19.00 Uhr, Turnhalle des städtischen Fremdspracheninstituts, Amalienstraße 36 UA Soziales und Bildung 16.03.2021, 19.00 Uhr, Turnhalle des städtischen Fremdspracheninstituts, Amalienstraße 36 Die nächste Sitzung des Bezirksausschusses 3 Maxvorstadt findet am 20.04.2021 in der Kirche St. Markus, Gabelsbergerstr. 6 statt.
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
