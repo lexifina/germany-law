@@ -1,0 +1,180 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2021-03-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6127253
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6127253
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2: UA Mobilität
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Harthauser Str. 34: Zusammenlegung 2er Wohneinheiten und Erweiterung dieser neuen Wohneinheit um einen Anbau - VORBESCHEID
+- TOP 3.5.4.1.2.: Harthauser Str. 94: Schulbauoffensive - Errichtung eines Wohngebäudes und einer Kindertagesstätte - VORBESCHEID
+- TOP 3.5.4.1.3.: Naupliastr. 103: Neubau zweier Mehrfamilienhäuser mit Erker - VORBESCHEID
+- TOP 3.5.4.1.4.: Reisachstr. 9: Neubau eines Mehrfamilienhauses (3 WE) mit Tiefgarage
+- TOP 3.5.4.1.5.: Reinekestr. 20: Anbau einer eingeschossigen Wohnraumerweiterung
+- TOP 3.5.4.1.6.: Rabenkopfstr. 7: Neubau zweier Mehrfamilienhäuser mit Tiefgarage; nochmalige Stellungnahme
+- TOP 3.5.4.1.7.: Gabriel-Max-Str. 35: Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Gabriel-Max-Str. 35 / Prößlstr. 15)
+- TOP 3.5.4.1.8.: Tegelbergstr. 27: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.4.1.10.: Reinekestr. 1: Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Initiative „Pumpkin“ The Pumpkin Machine am 10.05.2021 2.500,00€; Az. 0262.0-18-0239
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00€; Az. 0262.0-18-0240
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Aktionsgruppe Untergiesing e.V. Stadtgöttin „Resi Stenzia“ von Mai – Oktober 2021 12.041,00 € / Az. 0262.0-18-0229
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Altenbach + Honsel GbR Erzählen in der Schule – Die Geschichtenstunde vom 15.02.-30.09.2021 2.000,00€; Az.: 0262.0-18-0231
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget spiel raum e.V. bildung – gesundheit - sport online Lungensport ab 20.02.2021 2.400,00€; Az. 0262.0-18-0232
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Stadtbezirksbudget: Erfahrungen des BA 18
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Bescheid: Initiative Kulturspaziergang
+- TOP 3.1.6.2.: Bescheid: BRK ASZ Harlaching
+- TOP 3.1.6.3.: Bescheid: BIKU e.V.
+- TOP 3.1.6.4.: Bescheid: Bürgerinitiative Mehr Platz zum Leben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Birkenleiten: Parkplatzproblematik; Bürgeranliegen
+- TOP 3.2.3.2.: Schönstr./Candidplatz: Wiederinbetriebnahme des Parkplatzes; Bürgeranliegen
+- TOP 3.2.3.3.: Hans-Mielich-Str.: Begrünung und bürgerfreundliche Umgestaltung; Fraktionsantrag Bündnis fürs Viertel
+- TOP 3.2.3.4.: Parksituation am Klinikum Harlaching verbessern; Antrag der CSU
+- TOP 3.2.3.5.: Mobilität im Stadtbezirk; diverse Bürgeranliegen
+- TOP 3.2.3.6.: Otkerstr.: Trittplatten über die Grünstreifen; Bürgeranliegen
+- TOP 3.2.3.7.: Schönstr.: Überflüssige Verkehrszeichen; Bürgeranliegen
+- TOP 3.2.3.8.: Candidstr.: Erweiterung der Parklizenz für Parkfläche; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Harlachinger Str.: Verlegung der Behindertenparkplätze am Grünwalder Stadion
+- TOP 3.2.4.2.: Karolingerallee: Aufhebung der Radwegbenutzungspflicht
+- TOP 3.2.4.3.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! - Antrag der Fraktion B90/Die Grünen vom 04.01.2021 -
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: McGraw-Express -Antrag der Fraktion B90/Die Grünen-
+- TOP 3.2.5.2.: Maßnahmen zur Weiterentwicklung der Wendeschleife Tram Großhesseloher Brücke
+- TOP 3.2.5.3.: Fußgängerüberweg Tierpark: bauliche Veränderungen der Umlaufsperre
+- TOP 3.2.5.4.: Benediktenwandstr.: Regelung der Straßenbeleuchtung
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Harlachinger Str.: Baustelle
+- TOP 3.2.6.2.: Parklizenzgebiet Schönstraße Süd: Verkehrsrechtliche Anordnung
+- TOP 3.2.6.3.: Parklizenzgebiet Schönstraße Nord: Verkehrsrechtliche Anordnung
+- TOP 3.2.6.4.: Parklizenzgebiet Wettersteinplatz: Verkehrsrechtliche Anordnung
+- TOP 3.2.6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.6.: Lohstraße: Errichtung von Gefahrzeichen 101 StVO mit Zusatz „Radfahrer langsam fahren“
+- TOP 3.2.6.7.: Lohstraße, Schrafnagelberg: Anzeige des Endes des gemeinsamen Geh- und Radweges
+- TOP 3.2.6.8.: Armanspergstr.: Kurzparkzone für Kindertagesstätte
+- TOP 3.2.6.9.: Grünwalder Straße, gegenüber Wettersteinplatz: Verdeutlichung der Radverkehrsregelungen
+- TOP 3.2.6.10.: Parkdauerbegrenzung Seybothstr. 3; Antrag der Grünen-Fraktion
+- TOP 3.2.6.11.: Schilcherweg: absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr im Wendehammer
+- TOP 3.2.6.12.: Harthauser Straße: absolutes Haltverbot (Sichthaltverbot)
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Lebscheestr.: Reinigung Containerplatz; Bürgeranliegen
+- TOP 3.3.3.2.: Mountainbiker in den Isarwäldern; Bürgeranliegen
+- TOP 3.3.3.3.: Christbaum-Entsorgung; Fraktionsantrag Bündnis fürs Viertel
+- TOP 3.3.3.4.: Fußgängerbrücke Waltramstraße: Ablagerung Sperrmüll und Verschmutzung; Bürgeranliegen
+- TOP 3.3.3.5.: Green City: Wanderbaumallee in der Unteren Weidenstraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Baumfällungen (Anhörungen): - Grünwalder Str. 14 - Hans-Mielich-Str. 14 - Harthauser Str. 5 - Herzog-Garibald-Str. 8 - Traminer Str. 9
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Traminer Str.: Baumfällung
+- TOP 3.3.6.2.: Hochkalterstr: Vollzug der Grünanlagensatzung
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Soziale Einrichtungen im Stadtbezirk; diverse Bürgeranliegen
+- TOP 3.4.3.2.: Anforderung von Datenmaterial zur Stadtteil- und Siedlungsentwicklung im BA 18; Fraktionsantrag der Grünen
+- TOP 3.4.3.3.: Klausener Platz: Renovierung Spielplatz; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Rotbuchenschule: Verstärkerbusse, Dringlichkeitsantrag UA Soziales vom 12.11.2020
+- TOP 3.4.5.2.: Athener Platz: Aufwertung des Spielplatzes
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Migrationsbeirat München: Jahresbericht 2020
+- TOP 3.4.6.2.: Reisachstr.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 3.4.7: Sonstiges
+- TOP 3.4.7.1.: Untergiesing/Untere und Obere Au: Erlass einer Erhaltungssatzung (sh. TOP 3.5.4.1.)
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Tegelbergstr: Neubau eines Mehrfamilienhauses mit Tiefgarage; Bürgeranliegen
+- TOP 3.5.3.2.: Untergiesing: Erhaltungssatzungsgebiete; Bürgeranliegen
+- TOP 3.5.3.3.: Bauprojekte im Stadtbezirk; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Untergiesing/Untere und Obere Au: Erlass einer Erhaltungssatzung
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Photovoltaikanlage auf dem Dach des Neubaus Klinik-Campus in Harlaching
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Reginfriedstr.: Modernisierungsmaßnahmen
+- TOP 3.5.6.2.: Mailänder Str.: Unterrichtung über Abbruch eines Objekts
+- TOP 3.5.6.3.: SWM: Trinkwasser-Projekt in der Quagliostraße
+- TOP 3.5.6.4.: SWM: Strom-Projekt am Sanatoriumsplatz
+- TOP 3.5.6.5.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 2 Nr. 2 BauGB im Stadtbezirk 18 - Untergiesing-Harlaching Satzungsbeschluss Satzung "Wettersteinplatz" der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung "Wettersteinplatz")
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Ausnahmegenehmigung bezüglich Erweiterung der Öffnungszeiten für das Café "Hexenhäusl"; Bitte um Nichtstattgeben des Antrags des BA 18; Bürgeranliegen vom 26.07.2020
+- TOP 3.6.3.2.: Beantragte Sondergenehmigung für das "Hexenhäusl" nicht genehmigen; Bürgeranliegen vom 04.08.2020
+- TOP 3.6.3.3.: Kulturprojekte in Harlaching; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Modernisierung der Skateanlage am Mangfallplatz und Neugestaltung der Boulderwand; Antrag der SPD-Fraktion
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Corona-Pandemie - Änderung der Bezirksausschusssatzung: Sonderausschüsse - Verlängerung bis zum 31.12.2021
+- TOP 6.3.1.: Terminanfrage: Webex-Meeting zur Hochhausstudie
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4.1.9.: Grünwalder Str. 114: Neubau einer Dreifachturnhalle mit Verwaltungsgebäude und Parkdeck
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
