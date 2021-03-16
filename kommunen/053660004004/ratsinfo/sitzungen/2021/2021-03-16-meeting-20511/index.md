@@ -1,0 +1,51 @@
+# Ausschuss für Umwelt, Tourismus und Mobilität (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-03-16T18:01:00+01:00
+- Ende: 2021-03-16T20:47:00+01:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-255
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe69QcTcLODyBUJqKqB5Lj4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20511
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Umwelt, Tourismus und Mobilität) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeDRpIfbqomPjKQodrc_GHBa9roGFdn5i9WvE3eZMk4N/Bekanntmachung_Ausschuss_fuer_Umwelt-_Tourismus_und_Mobilitaet_16.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Umwelt, Tourismus und Mobilität) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6yLJU636qdepPYQ2TMExYtfyjNugZyCJgqjmPu_0zH/Oeffentliche_Niederschrift_Ausschuss_fuer_Umwelt-_Tourismus_und_Mobilitaet_16.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Ausschusses für Umwelt, Tourismus und Mobilität Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die NR.Sitzung des Ausschusses für Umwelt, Tourismus und Mobilität vom 18.11.2020 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Integration des Schülerspezialverkehrs in den ÖPNV - Einstimmiger Beschluss bei einer Enthaltung
+- TOP 4.: City Bus hier: Antrag der UWV-Fraktion vom 04.02.2021 - Mehrheitlicher Beschluss bei zwei Gegenstimmen und einer Enthaltung
+- TOP 5.: Bessere Anbindung der Buslinie 801 in Kalkar hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 10.02.2021 - Einstimmiger Beschluss
+- TOP 6.: Kleine Maßnahmen zur besseren Verkehrssicherheit in Effelsberg-Lethert hier: Antrag der CDU-Fraktion vom 16.11.2020 - Einstimmiger Beschluss
+- TOP 7.: Antrag zur Verkehrsberuhigung und Aufwertung des Stadtbildes in der Hardtburgstraße in Kirspenich hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 10.02.2021 - Einstimmiger Beschluss
+- TOP 8.: Ausdehnung der Geschwindigkeitsbegrenzung auf 30 km/h auf der L 165/Nöthener Straße hier: Antrag der SPD-Fraktion vom 24.11.2020 - Einstimmiger Beschluss
+- TOP 9.: Tempo 70 auf der L165 Ortsausgang Fahrtrichtung Nöthen hier: CDU-Antrag vom 01.03.2021 - Einstimmiger Beschluss
+- TOP 10.: Halteverbot und 30iger Zone hier: Antrag der UWV-Fraktion vom 04.02.2021 - Einstimmiger Beschluss
+- TOP 11.: LKW-Durchfahrtverbot Lingscheider Weg/Brigidastraße hier: Antrag der SPD-Fraktion vom 02.12.2020 - Einstimmiger Beschluss
+- TOP 12.: Verkehrsmaßnahmen in Eschweiler hier: Antrag der CDU-Fraktion vom 06.12.2020 - Einstimmiger Beschluss
+- TOP 13.: Abbinden des Erftbegleitweges hier: Antrag der CDU-Fraktion vom 16.11.2020 - Einstimmiger Beschluss
+- TOP 14.: Radwegebau an Landesstraßen beschleunigen hier: SPD-Antrag vom 18.01.2021 - Einstimmiger Beschluss
+- TOP 15.: Geh- und Radwege zum Nahversorgungszentrum Wald hier: SPD-Antrag vom 18.01.2021 - Einstimmiger Beschluss
+- TOP 16.: Nordic-Walking-Routen reaktivieren hier: SPD-Antrag vom 18.01.2021 - Einstimmiger Beschluss
+- TOP 17.: Teilnahme an ALTBAUNEU - Mehrheitlicher Beschluss bei fünf Gegenstimmen und zwei Enthaltungen
+- TOP 18.: Mitgliedschaft Klimabündnis - Mehrheitlicher Beschluss bei drei Gegenstimmen 
+- TOP 19.: Verpachtung von städtischen Dachflächen für Photovoltaikanlagen hier: KiTa Arloff und KiTa Mahlberg - Einstimmiger Beschluss
+- TOP 20.: Klimaanpassung in sozialen Einrichtungen hier: Antrag der SPD-Fraktion vom 24.11.2020 - Einstimmiger Beschluss
+- TOP -: Klimaanpassung in sozialen Einrichtungen hier: Antrag der SPD-Fraktion vom 24.11.2020 - Einstimmiger Beschluss
+- TOP 21.: Nutzung von Wasserkraft an der Erft hier: Antrag der CDU-Fraktion vom 01.03.2021 - Einstimmiger Beschluss
+- TOP 22.: Zukunftskonzeption Romanisches Haus - Einstimmiger Beschluss bei vier Enthaltungen
+- TOP 23.: Anfragen und Mitteilungen
+- TOP 23.1: Einrichtung eines kreisweiten E-Bike-Verleihystems am Bahnhof Bad Münstereifel hier: Information zum Sachstand
+- TOP 23.2: Photovoltaikanlage auf dem Bauhof Bad Münstereifel
+- TOP 23.3: Städtische CO2-Bilanz mit Klimaschutzplaner
+- TOP 23.4: Sachstandsmitteilung von Verkehrsanträgen aus den Fraktionen
+- TOP 23.5: Anfrage zum Sachstand beim Thema "Radweg Arloff - Kalkar" hier: SPD-Anfrage vom 18.01.2021
+- TOP 23.6: Autobahnanbindung Satzvey hier: Antrag der Stadt Mechernich
+- TOP 23.7: Sachstand beim Ausbau des Bahnhofs Bad Münstereifel hier: Anfrage der SPD-Fraktion vom 01.03.2021
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Integration des Schülerspezialverkehrs in den ÖPNV Hier: Vertragliche Konsequenzen - Beschluss
+- TOP 2.: Anfragen und Mitteilungen
