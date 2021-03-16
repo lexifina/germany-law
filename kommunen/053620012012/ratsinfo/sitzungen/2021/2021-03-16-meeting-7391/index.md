@@ -1,0 +1,63 @@
+# Ausschuss für Verkehr und Mobilität (2. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-03-16T18:00:00+01:00
+- Ende: 2021-03-16T20:55:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSqeOE2gf7zdKzuIJYHjgjc
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7391
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXB8RBudlz4TuS7lcS1d1nn64IY3UagvhdsxcE6VmMmW/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_16.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxuf5s5xq3TOy_COZoNibghIMXoNP4OwALxA9fvqwyW/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_16.03.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 01.12.2020
+- TOP 2.: Vorstellung Abteilung 61/3 mit Aufgabenspektrum 2021
+- TOP 3.: Information zu aktuellen Fahrgastzahlenentwicklungen des Stadtbussystems
+- TOP 4.: Verdichtung Samstagstakt Linie 18 - (kein Text vorhanden)
+- TOP 5.: Errichtung und Ausstattung von sieben Mobilstationen in Brühl
+- TOP 6.: Haushaltssatzung 2021 hier: Entwurf Haushaltsplan 2021 Sachgebiet Verkehr im TEP 5403 und 5404 Bezug: Rat vom 01.03.2021
+- TOP 7.: Anträge
+- TOP 7.1: Auswirkungen der geplanten Rheinspange auf das Brühler Verkehrsaufkommen Bezug: Antrag der CDU-Fraktion vom 20.02.2021 - (kein Text vorhanden)
+- TOP 7.1.1: Rheinspange 553 - Resolution der Stadt Brühl - (kein Text vorhanden)
+- TOP 7.2: Aussetzung der Einrichtung eines Fahrradverleih-Systems Bezug: Antrag der FDP-Fraktion vom 02.12.2020
+- TOP 7.2.1: FDP-Antrag zur Aussetzung des Fahrrad-Verleihsystems
+- TOP 7.3: Lärmschutzmaßnahmen auf den Brühler Abschnitten entlang der Autobahn 553 Bezug: Antrag der CDU-Fraktion vom 25.02.2021 - (kein Text vorhanden)
+- TOP 7.4: Gesamtkonzept „Klimafreundliche Mobilität für Brühls Zukunft“ Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 27.02.2021 - (kein Text vorhanden)
+- TOP 8.: Mitteilungen
+- TOP 8.1: Mitteilungen über laufende Beschlüsse
+- TOP 8.2: Geplante Workshops
+- TOP 9.: Anfragen
+- TOP 9.1: Sachstand Grundstücksverhandlungen mit HGK in Schwadorf
+- TOP 9.2: Planung weiteres Vorgehen nach Abschluss der Baumaßnahmen Am Krausen Baum
+- TOP 9.3: Verkehrssituation Carl-Schurz-Straße / Clemens-August-Straße
+- TOP 9.4: Verkehrssituation "An der alten Brauerei" / Liblarer Straße
+- TOP 9.5: Wasser- und Eisbildung auf Fußweg Bergstraße / Talstraße
+- TOP 9.6: Mauserwerke und LKW-Durchfahrtsverbot
+- TOP 9.7: Ende der Baumaßnahmen Bergerstraße
+- TOP 9.8: Parksituation Maria-Montessori-Schule Bergstraße Brühl Heide
+- TOP 9.9: Öffnungszeiten Parkhaus Franziskanerhof
+- TOP 9.10: Bundesprogramm Ladeinfrastruktur
+- TOP 9.11: Vorstellung der (Kinder)-Unfallzahlen im nächsten AfVM
+- TOP 9.12: Beschilderung in Neubaugebiet an der Gesamtschule
+- TOP 9.13: Mögliche Radabstellanlage Marktpassage / Durchgang Kreissparkasse
+- TOP 9.14: Behinderung durch Blumenkübel Carl-Schurz-Straße
+- TOP 9.15: Situation für Radfahrer an Baustelle Carl-Schurz-Straße
+- TOP 9.16: Tempo 30-Piktogramm Heinrich-Esser-Straße
+- TOP 9.17: Behinderung durch Barke Carl-Schurz-Straße
+- TOP 9.18: Schlagloch Alte Bonnstraße 179
+- TOP 9.19: Radwege-Säuberung nach Sturmereignissen
+- TOP 9.20: Rankenschnitt und Instandhaltung Weg bei Talstraße / Schutzmauer
+- TOP 9.21: Geschwindigkeitsmessung Winterburg / Lohmühle
+- TOP 9.22: Resolution der Stadt Brühl zu mobilen Geschwindigkeitskontrollen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 10.: Bericht über die 156. Sitzung des Aufsichtsrates der REVG mbH am 17.12.2020
+- TOP 11.: Bericht über die 156. Sitzung des Aufsichtsrates der REVG mbH am 17.12.2020
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen
+- TOP 13.1: Hintergrundinformationen zu geplantem Carsharing-Angebot
+- TOP 13.2: Regelmäßige Informationen der Stadtwerke im AfVM
