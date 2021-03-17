@@ -1,2 +1,2 @@
 # Gemeinsame Verordnung der Sächsischen Staatsregierung und der Sächsischen Staatsministerien der Finanzen, des Innern, der Justiz, für Kultus, für Soziales und Verbraucherschutz, für Umwelt und Landwirtschaft, für Wirtschaft, Arbeit und Verkehr sowie für Wissenschaft und Kunst zur Ausführung des Berufsbildungsgesetzes, des Berufsqualifikationsfeststellungsgesetzes und des Sächsischen Berufsqualifikationsfeststellungsgesetzes (Sächsische Ausführungsverordnung zum Berufsbildungsgesetz und zu den Berufsqualifikationsfeststellungsgesetzen – SächsBBiGAVO)
-Rechtsbereinigt mit Stand vom 20. Oktober 2018
+Rechtsbereinigt mit Stand vom 17. März 2021
