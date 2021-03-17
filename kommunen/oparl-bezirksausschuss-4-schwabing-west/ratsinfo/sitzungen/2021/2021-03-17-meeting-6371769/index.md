@@ -1,0 +1,138 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6371769
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6371769
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.2: Unveränderte Fortführung von Gaststätten
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP F.1.: Neuwahl einer/eines Beauftragten für Menschen mit Behinderung
+- TOP F.4.: BA-Website
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales, Bildung und Kultur
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Kooperationsgemeinschaft "Gabriele": Jugendprojekt "Halle 23-shared space"
+- TOP 2.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020; Erfahrungen der Bezirksausschüsse
+- TOP 2.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 10.02. - 31.12.2021 2.500,00 Euro, Az.: 0262.0-4-0327
+- TOP 2.3.: (E) Stadtbezirksbudget Stadt und Kunst e.V. Open Air Kurzfilmfestival vom 11. - 13.08.2021 8.000,00 Euro, Az.: 0262.0-4-0326
+- TOP 2.4.: Spielaktionen der AG Spiellandschaft: MobilSpiel-Fest am 25.04.2021 im Luitpoldpark
+- TOP 2.5.: (E) Stadtbezirksbudget MobilSpiel e.V. MobisSpiel-Fest 2021 am 25.04.2021 5.950,00 € / Az. 0262.0-4-0329
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2.1.: Bewilligungsbescheid an Jugendhaus Schwabing (Tütenaktion)
+- TOP 3.3.1.: Produktion "Maria 2.0" am 04.02.2021 auf dem Luitpoldhügel
+- TOP 3.3.2.: "Rosins Restaurant" am 23.02.2021 in der Herzogstr. 88
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Auswirkungen der Corona-Pandemie auf den städtischen Haushalt: Kürzung des Stadtbezirksbudgets in 2021 (Schreiben des Direktoriums vom 03.02.2021)
+- TOP C: Bauen, Wohnen und Wirtschaft
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgerin: Neubebauung des Karstadt-Geländes: Parzellierung und Höhenstaffelung
+- TOP 1.2.: Bürger*innen: Baumfällungen in der Wohnanlage Gernotstr. 1-9/Schleißheimer Str. 238-244 verhindern (vgl. dazu Abdruck der Baugenehmigung unter TOP C 3.5.1)
+- TOP 1.3.: Antrag SPD: Erhaltung der Post in der Agnesstraße
+- TOP 1.4.: Antrag DIE LINKE: Drohende Schließung der Postfiliale Agnesstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Herzogstr. 85: Nutzungsänderung eines Ladens zu einer Gaststätte (Tagescafé) im EG links, Austausch des Schaufensterelements
+- TOP 2.2.: Georgenstr. 50: Nachgenehmigung eines eingeschossigen Anbaus mit Toilettenanlag und Vorraum an eine Gaststätte mit Freischankfläche
+- TOP 2.3.: Infanteriestr. 11 a: Neubau Pavillon VI für Büro- und Verwaltungsnutzung a) Bauvorhaben b) in Zusammenhang damit beantragte Baumfällungen
+- TOP 2.4.: Hohenzollernplatz 7: Umbau und Nutzungsänderung von Verwaltung-Empfang zu Verwaltungsräumen im EG und 1. OG
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Lärmbelästigung durch Baustelle am Elisabethplatz (Antwort der LBK auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 16.12.2020)
+- TOP 3.1.2.: Erhaltung der Postfiliale in der Angererstraße
+- TOP 3.2.1.: "Benvido Cafébar", Franz-Joseph-Str. 30
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Gernotstr. 1-9: Abdruck der Baugenehmigung zur Aufstockung einer Wohnanlage mit Neubau von 29 Wohneinheiten, Anbau von Aufzügen, Balkonen, einer Notleiteranlage und Neubau einer Tiefgarage
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgerin: Verparkte Gehwegabsenkungen in der James-Loeb-, Bumm- und Rümannstraße
+- TOP 1.2.: Bürger: Verkehrsaufkommen und Tempo-30-Bereiche Karl-Theodor-/Schleißheimer Straße
+- TOP 1.3.: Bürger: Parkraumüberwachung Schwabing West
+- TOP 1.4.: Bürger: Belgradstraße: Auf dem Gehweg abgestellte Räum- und Streufahrzeuge
+- TOP 1.5.: Antrag Grüne: Sichere Kreuzung und zuverlässig nutzbarer Gehweg für alle - Sailer-/Fürstenbergstraße
+- TOP 1.6.: Antrag SPD: Grünzeit für Fußgänger*innen an der Belgrad-/Destouchesstraße verlängern
+- TOP 1.7.: Antrag Grüne: Sichere Kreuzung und barrierefreie Straßenquerung Herzog-/Erich-Kästner-Straße
+- TOP 1.8.: Bürgerin: Verlegung des Radwegs vor Herzogstr. 86 auf die Fahrbahn wg. Schanigarten
+- TOP 1.9.: Bürger: Parkraumbewirtschaftung Ackermannbogen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Direkte Tramverbindung zwischen Schwabing und Nymphenburg beibehalten (Antwort der MVG auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 20.01.2021)
+- TOP 3.1.2.: Verbesserungen der Infrastruktur am Gisela-Gymnasium
+- TOP 3.1.3.: Einbahnregelung an der Baustelle Hiltenspergerstr. 84 (Zwischennachricht des Kreisverwaltungsreferats zu weitergeleitetem Bürgeranliegen aus der Sitzung vom 20.01.2021)
+- TOP 3.1.4.: Einhaltung von Tempo 30 in der Herzogstraße (Antwort des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 20.01.2021)
+- TOP 3.1.5.: E-Ladesäulen nicht mehr auf dem Gehweg (Antwort des Mobiliätsreferats auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 16.12.2020)
+- TOP 3.1.6.: Verkehrssicherheit Kreuzung Mainzer Straße/Hörwarthstraße (Antwort der Polizeiinspektion 13 auf BA-Anfrage vom 10.02.2021)
+- TOP 3.1.7.: Schleißheimer Straße zwischen Mitterwieser- und Hohenzollernstraße: Radweg statt Rechtsabbiegespur (Antwort auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 16.12.2020)
+- TOP 3.1.8.: Umbau Querung Elisabethstraße (Antwort des Baureferats Tiefbau zum BA-Schreiben vom 10.02.2021)
+- TOP 3.2.1.: Absolutes Haltverbot in der Apianstraße
+- TOP 3.2.2.: Entfernung der innenbeleuchteten Überkopfbeschilderung an der Kreuzung Teng-/Georgenstraße
+- TOP 3.2.3.: Erweiterung des Parklizenzgebietes Winzererstraße um den Bereich "Ackermannbogen"
+- TOP 3.2.4.: Nochmalige Verkürzung des Haltverbots vor der ehemaligen Feuerwache in der Nordendstraße
+- TOP 3.2.5.: Infanteriestr. 25: Einrichtung einer Anfahrtszone für die neue Grundschule
+- TOP 3.3.1.: Umbau Kreuzungsbereich Winzerer-/Loth-/Georgenstraße a) Verkehrsrechtiche Anordnung b) Anliegerinformation des Baureferats
+- TOP 3.3.2.: Stromprojekt Elisabethplatz (Infoflyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! (Antrag des BA 17 Obergiesing-Fasangarten)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger*innen: Vorschläge für Baumpflanzungen im öffentlichen Raum
+- TOP 1.2.: Bürger: Tischtennis im Luitpoldpark (Neuer Vorschlag aufgrund einer Baumfällung)
+- TOP 1.3.: Stadibau: Städtische Straßenreinigung und Winterdienst im Karree Oberwiesenfeld
+- TOP 1.4.: Ackermannbogen e.V.: Beleuchtung des Bolzplatzes Elisabeth-Kohn-Straße
+- TOP 1.5.: Bürger: Gefahrenstelle durch Container der Straßenreinigung am Scheidplatz
+- TOP 1.6.: Bürger: Toilette im Bereich des neuen Spielplatzes am Schuttberg
+- TOP 1.7.: Bürger: Privat installierte Flutlichtanlagen im Luitpoldpark
+- TOP 1.8.: Antrag Grüne: Spitzahorn im Luitpoldpark schützen
+- TOP 1.9.: Bürgerin: Tieffrequentes Geräusch nachts in der Destouchesstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Infanteriestr. 6: Antrag auf Fällung zweier Ahornbäume sowie einer Winterlinde
+- TOP 2.1.2.: Bonner Platz 4-5: Antrag auf Fällung dreier Silberahornbäume
+- TOP 2.2.1.: Sommerstraßen 2021
+- TOP 2.2.2.: Hohenzollernstr. 62: Aufstellung eines weiteren Postkartenständers vor der "Schreiboase" (vgl. TOP E 2.2.3 11/20): Bitte der Bezirksinspektion um erneute Entscheidung
+- TOP 2.2.3.: Elisabethstr. 27 "Lotto Acinal": Aufstellung von neuen Verkaufseinrichtungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Mehr M-WLAN in Schwabing West
+- TOP 3.1.2.: Grünen Poller im Luitpoldpark aus Gefahrengründen versetzen
+- TOP 3.1.3.: Verbesserung der Situation der Gewerbetreibenden des Interimsmarktes auf dem Elisabethplatz
+- TOP 3.1.4.: Öffentliche Toilette am Hohenzollernplatz (Zwischennachricht des Baureferats zu BA-Schreiben vom 10.02.2021)
+- TOP 3.1.5.: Baumpflanzungen auf der Nordseite der Karl-Theodor-Straße möglich? (Antwort des Baureferats auf BA-Anfrage vom 10.02.2021)
+- TOP 3.1.6.: Pflanzung von Straßenbäumen, hier: Viktor-Scheffel-Straße (Antwort des Baureferats Tiefbau auf BA-Anfrage vom 10.02.2021)
+- TOP 3.2.1.: Hiltenspergerstr. 84: Genehmigung zur Fällung von fünf Bäumen
+- TOP 3.2.2.: Heßstraße ggü. Nr. 90: Fällung eines Spitzahorn als Gefahrenbaum
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Versammlungsanzeige: "Kulturlieferdienst" am 15.02.2021 um 16 Uhr auf dem Stadtplatz Ackermannbogen
+- TOP 3.4.2.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen (Antrag des BA 21 Pasing-Obermenzing)
+- TOP F: BA-Angelegenheiten
+- TOP F.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.3.: Corona-Pandemie: Sonderausschüsse - Verlängerung bis zum 31.12.2021 (Anhörung zur geplanten Änderung der BA-Satzung)
+- TOP F.5.: Virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen möglich (Schreiben des Direktoríums vom 05.02.2021)
+- TOP G: Verschiedenes
+- TOP H: Termine
