@@ -1,0 +1,8 @@
+# TOP 6: Grundsatzbeschluss für ein "Integriertes Parkraumkonzept Münster"
+
+- Sitzung: 3. Sitzung (Etat) (2021-03-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/209710
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/74278
