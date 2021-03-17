@@ -1,0 +1,71 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-17T15:00:00+01:00
+- Ende: 2021-03-17T16:58:00+01:00
+- Ort: Achtung geänderter Sitzungsort! Cecilien-Gymnasium, Schorlemerstraße 99, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20362
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20362
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich BV 4 17.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404111.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich BV 4 17.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404111.pdf
+- Wortprotokoll: Sitzungspaket öffentlich BV 4 17.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00404111.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/07/2020 vom 11.11.2020 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/08/2020 vom 02.12.2020 - einstimmig beschlossen
+- TOP 4: Erweiterung der Kindertageseinrichtung Stürzelberger Straße 33, Stadtbezirk 4 (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW zum Thema "Bebauungsplan – Entwurf Nr. 04/020 – Heerdterhof-Garten – Aufstellung, Öffentlichkeitsbeteiligung, Behördenbeteiligung, Öffentliche Auslegung" - mehrheitlich beschlossen
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW zum Thema "Bau von zwei multifunktionalen Sportanlagen an Standorten in der Freizeitanlage Heerdt und im Rheinpark in Heerdt" - einstimmig beschlossen
+- TOP 8: Kleingärten an der Schanzenstraße/Alberichweg erhalten, Gemeinschaftsgärten fördern, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 9: Einbau von Raumlüftungsanlagen für Grundschulen zeitnah umsetzen, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 10: Wie kommt es zum unansehnlichen Zaun am Neubau KITA Niederkasseler Kirchweg?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 11: Neue Entwicklungen im Belsenpark, Anfrage des Bezirksvertreters Markus Loh - zur Kenntnis genommen
+- TOP 12: Verkehrsberuhigung Salierplatz, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 13: Präsenzunterricht sicher gestalten - Schulische Hygiene garantieren, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Versorgung der Schulkinder mit OGS-Plätzen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 16: Versorgung mit KiTa-Plätzen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 17: Wohnraum für junge Familien mit Kindern, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 18: Vereinssportmöglichkeiten für Kinder und Jugendliche im linksrheinischen Düsseldorf, Anfrage der FDP-Fraktion
+- TOP 19: Grundschulerweiterung am Standort Diesterwegstraße geplant?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 20: Der Belsenpark - Ein Beschwerdedauerbrenner, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 21: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - einstimmig beschlossen
+- TOP 22: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2021 - einstimmig beschlossen
+- TOP 23: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 24: Lebender Weihnachtsbaum, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 25: Verschmutzungen vermeiden - Papiercontainer im Stadtbezirk 4, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 26: Pflanzung eines immergrünen Baumes am neuen Hallenbad, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Warnsignal Bahnübergang Nibelungenstraße/Pariser Straße verlängern, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 29: Ersatzpflanzungen vornehmen, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 30: Präsenzveranstaltung zur Rheinquerung der U81 anbieten, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 31: Tempo 30-Zone auf dem Niederkasseler Lohweg, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 32: Erstellen eines Planungskonzeptes für den Belsenplatz, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 33: Hansaallee: Anwohner*innenparken, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 34: Rheinkniebrücke: Anbindung der Rad- und Fußwege auf Oberkasseler Seite verbessern, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 35: Der Heerdter Mühlenweg als Verlängerung der neuen Grünverbindung südlich des Friedhofs in Heerdt, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 36: Kröten schützen, Warnschilder aufstellen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 37: P&R ermöglichen - Simon-Gatzweiler-Platz sanieren, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 38: Spielstraßenpiktogramm für die Straße Am Mühlenberg, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 39: Verkehrslärmbelastung im Bereich der Rheinkniebrücke/Rheinalleetunnel abhelfen - zur Kenntnis genommen
+- TOP 40: Altpapiercontainer Nikolaus-Knopp-Platz - zur Kenntnis genommen
+- TOP 41: Bepflanzung der kleinen Grünfläche Columbusstr./Düsseldorfer Str. - zur Kenntnis genommen
+- TOP 42: Bedarfsgerechte Ampelschaltung: Sichere Querungen erlauben - zur Kenntnis genommen
+- TOP 43: Beleuchtung am Barbarossaplatz Nord Schorlemerstr./Arnulfstraße - zur Kenntnis genommen
+- TOP 44: Wiederaufstellung der Persil-Uhr am Luegplatz - zur Kenntnis genommen
+- TOP 45: Müllansamlungen vermeiden, Aufenthaltsqualität sichern - zur Kenntnis genommen
+- TOP 46: Sanierung des Simon-Gatzweiler-Platzes - zur Kenntnis genommen
+- TOP 47: Planung Straßenraum Heerdter Lohweg mit der Kreuzung Willstätterstraße - zur Kenntnis genommen
+- TOP 48: Übergang an der Habsburgerstraße oder Akanierstraße über den Kaiser-Friedrich-Ring - zur Kenntnis genommen
+- TOP 49: Freie Fahrt für den Bus auf der Oberkasseler Straße - anstatt Stau durch Falschparker - zur Kenntnis genommen
+- TOP 50: Fußgänger schützen - Überweg in Lörick schaffen - zur Kenntnis genommen
+- TOP 51: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 52: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 53: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2021 - einstimmig beschlossen
+- TOP 54: Wiederaufstellung der Persil-Uhr am Luegplatz - zur Kenntnis genommen
