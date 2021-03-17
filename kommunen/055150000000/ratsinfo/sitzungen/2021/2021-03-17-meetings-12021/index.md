@@ -1,0 +1,107 @@
+# 3. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-03-17T16:34:00+01:00
+- Ende: 2021-03-17T22:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12021
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12021
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00479269.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Maßnahmen seitens der Verwaltung für die Jahre 2021 und 2022 zum Ziel der Klimaneutralität im Jahr 2030
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Weitere Planungen zum Baugebiet 587 "Südlich Im Moorhock" beenden und das Vorhaben aufgeben - verwiesen
+- TOP 6.2: Optimierung der Buslinie 19 Richtung Sprakel - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP -: Beratungen zum Haushalt 2021
+- TOP 9: Haushaltssatzung 2021 - mehrheitlich beschlossen
+- TOP 10: Gedenken an die verfolgten Homosexuellen und vergessene Opfergruppen der NS-Zeit - einstimmig beschlossen
+- TOP 10.1: Gedenken an die verfolgten Homosexuellen und vergessene Opfergruppen der NS-Zeit
+- TOP 11: Wirtschaftspläne
+- TOP 11.1: Wirtschaftsplan 2021 der citeq - einstimmig beschlossen
+- TOP 11.1.1: Wirtschaftsplan 2021 der citeq
+- TOP 11.2: Wirtschaftsplan 2021 von Münster Marketing - einstimmig beschlossen
+- TOP 11.3: Wirtschaftsplan 2021/2022 des Theater Münster - einstimmig beschlossen
+- TOP 11.4: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2021 - einstimmig beschlossen
+- TOP 12: Leerung der städtischen Parkscheinautomaten und Parkuhren - - mehrheitlich geändert beschlossen
+- TOP 13: Teilnahme am Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" mit dem Beitrag - mehrheitlich geändert beschlossen
+- TOP 14: Vergabe- und Entgeltordnung für die Nutzung von Schulräumen und Schulhöfen der Stadt Münster durch Dritte - einstimmig beschlossen
+- TOP 14.1: Vergabe- und Entgeltordnung für die Nutzung von Schulräumen und Schulhöfen der Stadt Münster durch Dritte
+- TOP 14.2: Vergabe- und Entgeltordnung
+- TOP 15: Überleitung der Trägerschaft für die Offene Ganztagsschule in der städtischen evangelischen Martin-Luther-Schule - mehrheitlich beschlossen
+- TOP 16: Verzicht auf die Erhebung von Elternbeiträgen für die Betreuung in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen aufgrund der Corona-Krise - einstimmig beschlossen
+- TOP 17: Beschluss des Rates der Stadt Münster vom 24.06.2020 „Missbrauchsfall unter die Lupe nehmen und Lehren daraus ziehen“ zur Aufarbeitung des münsterschen Missbrauchkomplexes - einstimmig beschlossen
+- TOP 18: Errichtungsbeschluss zur Sanierung der Bestandssporthalle auf der York-Kaserne - einstimmig beschlossen
+- TOP 19: Neubau des Südbades am Inselbogen, Errichtungs- und Baubeschluss - mehrheitlich beschlossen
+- TOP 19.1: Neubau des Südbades am Inselbogen, Errichtungs- und Baubeschluss
+- TOP 20: Fortsetzung Kulturförderung in Corona-Zeiten - einstimmig geändert beschlossen
+- TOP 20.1: Fortsetzung Kulturförderung in Corona-Zeiten
+- TOP 20.1.1: Fortsetzung Kulturförderung in Corona-Zeiten
+- TOP 21: Sanierung Umkleidegebäude Sportanlage Schiffahrter Damm - einstimmig beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 22: Flughafen Münster/Osnabrück GmbH: Konzept zum Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH (Kapitalerhöhung durch den Gesellschafter Stadtwerke Münster GmbH für das Jahr 2021) - mehrheitlich geändert beschlossen
+- TOP 23: Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen der Stadt Münster - einstimmig geändert beschlossen
+- TOP 24: 1. Änderung der Zuständigkeitsordnung 2. Satzung zur Änderung der Betriebssatzung AWM - mehrheitlich beschlossen
+- TOP 25: Sachkundige Einwohnerinnen und Einwohner - Festlegung der Anzahl - von der Tagesordnung abgesetzt
+- TOP 25.1: Sachkundige Einwohnerinnen und Einwohner - Festlegung der Anzahl - von der Tagesordnung abgesetzt
+- TOP 26: Entsendung von Arbeitnehmervertreterinnen und Arbeitnehmervertretern in den Aufsichtsrat der Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 27: Entsendung von Arbeitnehmervertreterinnen und Arbeitnehmervertretern in den Aufsichtsrat der Westfälischen Landes-Eisenbahn GmbH - einstimmig beschlossen
+- TOP 28: Errichtungsbeschluss Stadthaus 4
+- TOP 28.1: Errichtungsbeschluss Stadthaus 4 - mehrheitlich geändert beschlossen
+- TOP 29: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 30: Ein vielfältiger und urbaner Ort am Servatiiplatz - Grundsatzbeschluss für das Modell zur Umsetzung - einstimmig beschlossen
+- TOP 31: Entwurf der Stellungnahme der Stadt Münster zur Reaktivierung der SPNV WLE-Strecke Sendenhorst-Münster, Strecke 9213 von Bahn-km 14,370 bis Bahn-km 35,531 m im Planfeststellungsverfahren - einstimmig beschlossen
+- TOP 32: Stadtverträgliche Mobilität: Moderiertes Dialogverfahren zur Neugestaltung des Straßenraums - einstimmig geändert beschlossen
+- TOP 33: Fahrplanmaßnahmen der - einstimmig beschlossen
+- TOP 34: Bewohnerparken Hansaviertel - mehrheitlich geändert beschlossen
+- TOP 35: Kongressinitiative Münster weiterentwickeln - mehrheitlich beschlossen
+- TOP 36: Hansa-Berufskolleg: Teilnahme am Schulversuch "Fachoberschule für Verwaltung und Rechtspflege, Schwerpunkt Polizeivollzugsdienst" zum Schuljahr 2022/2023 - einstimmig beschlossen
+- TOP 37: Trägervergaben für Kindertageseinrichtungen
+- TOP 37.1: Trägervergabe für die Kindertageseinrichtung an der Grevener Straße im Stadtteil Uppenberg, Bezirk Mitte - mehrheitlich beschlossen
+- TOP 37.2: Trägervergabe für die Kindertageseinrichtung am Sonja-Kutner-Weg (Oxford-Quartier) im Stadtteil Gievenbeck, Bezirk West - mehrheitlich beschlossen
+- TOP 37.3: Trägervergabe für die Kindertageseinrichtung am Langebusch im Stadtteil Kinderhaus, Bezirk Nord - mehrheitlich beschlossen
+- TOP 37.4: Trägervergabe für die Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf, Bezirk Südost - mehrheitlich beschlossen
+- TOP 37.5: Trägervergabe für die Kindertageseinrichtung An der Hiltruper Baumschule im Stadtteil Hiltrup, Bezirk Hiltrup - mehrheitlich beschlossen
+- TOP 38: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 39: Beitritt der Stadt Münster im Netzwerk der Biostädte, -gemeinden und -landkreise - mehrheitlich beschlossen
+- TOP 40: Lärmaktionsplan der 3. Runde für die Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 41: Sporthalle Berg Fidel, Am Berg Fidel 51 in 48153 Münster, Erneuerung des Sporthallenbodens - Baubeschluss - einstimmig beschlossen
+- TOP 42: Bauleitplanung
+- TOP 42.1: Stadtbezirk Münster-Mitte
+- TOP 42.1.1: FNP 97 - VBP 609 - Hafenmarkt - Beschluss zur öffentlichen Auslegung - mehrheitlich geändert beschlossen
+- TOP 42.1.2: VSP 108 2. Verlängerung - mehrheitlich beschlossen
+- TOP 42.2: Stadtbezirk Münster-West
+- TOP 42.2.1: FNP 64 - Albachten-Ost - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 42.2.2: Bebauungsplan Nr. 602: Stellungnahmen - Satzung - von der Tagesordnung abgesetzt
+- TOP 42.2.3: Bebauungsplan Nr. 621 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 43.1: Reduzierung der Verkehrsbelastungen im Europareservat/Naturerlebnisgebiet Rieselfelder - mehrheitlich beschlossen
+- TOP 43.2: Sicher mit dem Rad auf der Grevener Straße – Verkehrssicherheit zwischen Melcherstraße und York-/Friesenring Jetzt! - einstimmig beschlossen
+- TOP 43.3: Evaluation zum Einsatz der Luftfilter an Schulen durchführen - einstimmig geändert beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 44.1: Aufbau einer Kinderfeuerwehr in Münster - verwiesen
+- TOP 44.2: Freiwillig und ohne Verbote: Autofahrer:innen ein Angebot zum Umstieg machen - verwiesen
+- TOP 44.3: Nahwärmenetze mit erneuerbar erzeugter Wärme in neuen Baugebieten als Beitrag zum Klimaschutz - verwiesen
+- TOP 44.4: Baumschutz und Planungsrecht in Einklang bringen - verwiesen
+- TOP 44.5: Den FMO als Euregio-Airport stärken - verwiesen
+- TOP 44.6: Baulandentwicklung und Grünflächenentwicklung in Einklang bringen - Vertiefte Betrachtung der Bauprojekte in den Grünringen - Baulandentwicklung und Grünflächenentwicklung - verwiesen
+- TOP 44.7: Tempo 30 im Stadtgebiet ausweiten: Mehr Verkehrssicherheit, weniger Lärm und Emissionen - verwiesen
+- TOP 44.8: Eine Baumschutzsatzung für Münster - verwiesen
+- TOP 44.9: Münster schafft die Energiewende: Freiflächen-Photovoltaikanlagen entlang von Infrastruktur-Trassen - verwiesen
+- TOP 44.10: Die Haushaltssicherung abwenden - Städtische Finanzen genau im Blick behalten - Maßvolle Reduktion von Aufwendungen und wirtschaftliche Optimierung der Beteiligungen - verwiesen
+- TOP 44.11: Photovoltaik in Münster: Senkrecht denken - verwiesen
+- TOP 45: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 45.1: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 46: Verschiedenes
