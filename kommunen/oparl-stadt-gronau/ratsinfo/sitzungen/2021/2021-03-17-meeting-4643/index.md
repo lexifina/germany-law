@@ -1,0 +1,53 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-03-17T18:06:00+01:00
+- Ende: 2021-03-17T23:09:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZFBSr1m2EBM5bG8-1oWEwg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4643
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVK6QpuLCr1DCcJzGVDEIpWGLWTu3Dtj2gxjGwZ1BR-T/Bekanntmachung_Rat_17.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcFoEtKB4AGOXjtup5e_dIA7Zn6MVP0d_tyJsnIGiqY6/Oeffentliche_Niederschrift_Rat_17.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 10.02.2021
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der FDP-Fraktion vom 01.03.2021; Tierpark Gronau – Beschilderung erneuern, Bienenfutterautomat aufstellen, Aufwertungskonzept entwickeln - Einstimmig, 0 Enthaltungen
+- TOP 5.: Vorstellung der Klimaschutzmangerin
+- TOP 6.: Vorstellung Bewerbung neue Gastronomie Drilandsee
+- TOP 7.: Quartiersentwicklung Spinnerei Germania Vorstellung einer städtebaulichen Entwurfs zur Revitalisierung des Spinnereigeländes und einer Machbarkeitsstudie zur Nutzung des denkmalgeschützten Spinnereigebäudes - Einstimmig, 0 Enthaltungen
+- TOP 8.: Schulentwicklung Festlegung der künftigen Zügigkeit der Buterlandschule - Einstimmig, 5 Enthaltungen
+- TOP 9.: Sachstandsbericht Buterlandschule – Bauliche Bewertung und Schadstoffsituation des Altbaus - Einstimmig, 2 Enthaltungen
+- TOP 10.: Verzicht auf die Erhebung von Elternbeiträgen für die Kindertagesbetreuung im Zuge der Coronavirus-Pandemie - Einstimmig, 0 Enthaltungen
+- TOP 11.: Zusammenarbeit mit der Verbraucherzentrale NRW ab dem Jahr 2022 - Einstimmig, 0 Enthaltungen
+- TOP 12.: A. Neufassung der Satzung gem. § 23 Abs. 2 Denkmalschutz (DSchG) NRW B. Neufassung der Richtlinie der Stadt Gronau zur Förderung von privaten Denkmalpflegemaßnahmen - Einstimmig, 0 Enthaltungen
+- TOP 13.: Richtlinie der Stadt Gronau über die Gewährung von Zuwendungen zur Gestaltung von Fassaden in den innerstädtischen Bereichen der Stadtteile Gronau und Epe (Fassadenprogramm) - Einstimmig, 2 Enthaltungen
+- TOP 14.: 9. Änderung der Geschäftsordnung für den Rat der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Änderung Ortsrecht : Gewährung von Sozialleistungen der Stadt (50-02) - Einstimmig, 0 Enthaltungen
+- TOP 16.: Sachstand der Verwaltung zur Corona-Pandemie (Stand: 10.03.2021)
+- TOP 17.: Stellenplan 2021; Bewilligung einer Stelle im Wege des Vorgriffs - 39 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 18.: Bereitstellung von konsumtiven Mitteln für die Maßnahme „Deckensanierung Haberskamp und Vereinsstraße“ hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 1 Enthaltungen
+- TOP 19.: Bereitstellung von konsumtiven Mitteln für die Maßnahme Errichtung von zwei U3-Gruppen an der Kita Dinkelnest/Anmietung und Aufstellung von Containeranlagen Hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß §82 Abs. 1 Nr. 1 GO NW
+- TOP 19.1: Bereitstellung von investiven Mitteln für die Maßnahme Errichtung von zwei U3-Gruppen an der Kita Dinkelnest/Anmietung und Aufstellung von Containeranlagen Hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß §82 Abs. 1 Nr. 1 GO NW - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bereitstellung von konsumtiven Mitteln für die Maßnahme "Machbarkeitsstudie L510" hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 4 Enthaltungen
+- TOP 21.: Bereitstellung von investiven Mitteln für die Maßnahme „Neubau des Stichweges Iltisstraße“ hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bereitstellung von investiven Mitteln für die Maßnahme „Euregio-Quartier – Teilbereich 1a“ hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - 37 Jastimmen, 4 Neinstimmen, 3 Enthaltungen
+- TOP 23.: Bereitstellung von investiven Mitteln für die Maßnahme im Bereich des B-Planes 183 „Westlich der Brookstraße“ hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 1 Enthaltungen
+- TOP 24.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW, Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften sowie bindender Vorschlag für einen Aufsichtsratsvorsitz - Einstimmig, 0 Enthaltungen
+- TOP 25.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 26.: Mitteilungen der Verwaltung
+- TOP 26.1: Einberufung einer zusätzlichen Ratssitzung
+- TOP 27.: Anfragen
+- TOP 27.1: Gedenkveranstaltung im Stadtpark (Anfrage von RM Buchholz)
+- TOP 27.2: Kavernenfeld Epe (Anfrage von RM Krefter)
+- TOP 27.3: Kunstwerke am Wasserturm (Anfrage von RM Bohn)
+- TOP 27.4: Denkmalschutz der alten Oberrealschule (Anfrage von RM Bohn)
+- TOP 27.5: Maskenpflicht Innenstadt (Anfrage von RM Gabbe)
+- TOP 27.6: Nutzung der App "Luca" (Anfrage RM Bieber)
