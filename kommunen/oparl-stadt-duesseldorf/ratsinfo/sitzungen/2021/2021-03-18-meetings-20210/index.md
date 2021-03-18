@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-18T14:00:00+01:00
+- Ende: 2021-03-18T18:13:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20210
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20210
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405627.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405627.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405627.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 10.12.2020 (SI-RAT/07/2020) - einstimmig beschlossen
+- TOP 3: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Corona-Schnelltests - schriftlich beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Deutsche Oper - schriftlich beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der FDP-Ratsfraktion: Sachstand Raumlüfter in Grundschulen - schriftlich beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Baustraße an der Goltsteinstraße - schriftlich beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Einbaustopp von Deckenluftreinigungssystemen - schriftlich beantwortet
+- TOP 4.6: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Nachfragen zu schriftlichen Antworten der Verwaltung - schriftlich beantwortet
+- TOP 4.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Demonstrationen vom 13. März 2021 - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz FREIE WÄHLER: Beauftragung externer Experten - schriftlich beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz FREIE WÄHLER: COVID 19 Impfungen und SERODUS Studien I und II - schriftlich beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion SPD/Volt: Vorkommnisse Kinderspielplatz Peter-Behrens-Straße - schriftlich beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen der Düsseldorfer Ausländerbehörde 2020 - schriftlich beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Zukunft des Standorts “Am Wehrhahn 1” - schriftlich beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion SPD/Volt: Zukunft des Kulturbahnhofs Eller - schriftlich beantwortet
+- TOP 5.7: Anfrage des Ratsherrn Lemmer: Verbot der Nutzung von Parkhäusern für Elektro- und Hybridfahrzeuge - schriftlich beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Lemmer: Düsseldorfer Personen/Familien, die aus finanziellen Gründen ihre Wohnung/Haus nicht angemessen warmhalten können - schriftlich beantwortet
+- TOP 5.9: Anfrage der Ratsfrau Krüger: 2018 auf dem Messeparkplatz P 1 ausgepflanzte Bäume - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Krüger: Corona Infektionen in den Hallen- und Freibädern - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Opelt: Präventive Maßnahmen der Stadt Düsseldorf für "Corona-Opfer" - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Kraljic: "Verweilverbotsschilder" am Rhein - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Opelt: FFP2 Masken - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Jörres: Bussgelder durch Corona-Maßnahmen - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 11: Einkünfte aus Nebentätigkeiten im Jahr 2020 für Herrn Oberbürgermeister a.D. Thomas Geisel und Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 12: Einrichtung und Betrieb von dezentralen Hilfezentren für Menschen mit Opioidabhängigkeit, hier: Sicherstellung der Psychosozialen Betreuung (PSB) - mehrheitlich beschlossen
+- TOP 13: Lärmaktionsplan III für Düsseldorf - abweichend beschlossen
+- TOP 13.1: Ergänzungsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion zur Vorlage AUS/034/2021 - mehrheitlich abgelehnt
+- TOP 13.2: mündlicher Änderungantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage AUS/034/2020 - mehrheitlich beschlossen
+- TOP 14: Erinnerungsort für die LSBT* - Standort - mehrheitlich beschlossen
+- TOP 15: Sportbeirat der D.LIVE GmbH & Co. KG - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 16: Veranstaltergemeinschaft Lokaler Rundfunk Düsseldorf e.V. -Mitgliedschaften- - einstimmig beschlossen
+- TOP 17: Beirat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 18: Kuratorium der Stiftung Schloss und Park Benrath - Ersatzwahl - mehrheitlich beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - mehrheitlich beschlossen
+- TOP 20: 62. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 21: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 22: Anträge
+- TOP 22.1: Antrag der SPD/Volt-Ratsfraktion: Betriebsbedingte Kündigungen am Flughafen Düsseldorf verhindern - abweichend beschlossen
+- TOP 22.1.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/227/2021 - mehrheitlich abgelehnt
+- TOP 22.2: Antrag der AfD-Ratsfraktion: Neue Corona-Strategie für Düsseldorf - mehrheitlich abgelehnt
+- TOP 22.3: Antrag der FDP-Ratsfraktion: Konzept zur Neustrukturierung des Ordnungs- und Servicedienstes - mehrheitlich abgelehnt
+- TOP 22.3.1: Änderungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zur Vorlage RAT/247/2021 - mehrheitlich abgelehnt
+- TOP 22.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Drohnen-Show Silvester 2021: Spektakulär, sicher, umweltfreundlich - mehrheitlich beschlossen
+- TOP 22.4.1: Ergänzungsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion zur Vorlage RAT/248/2021 - mehrheitlich abgelehnt
+- TOP 22.4.2: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/248/2021 - mehrheitlich abgelehnt
+- TOP 22.5: Antrag der Ratsfraktion DIE LINKE: Autofreie Innenstadt zu den Osterfeiertagen - mehrheitlich abgelehnt
+- TOP 22.5.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/242/2021 - verwiesen
+- TOP 22.6: Antrag der Ratsfraktion DIE LINKE: Eindämmung des Infektionsgeschehens - mehrheitlich abgelehnt
+- TOP 22.7: Antrag der Ratsfraktion DIE LINKE: Erweiterung des Programms „Düsseldorfer Heimatsommer" - verwiesen
+- TOP 22.8: Antrag der Ratsfraktion DIE LINKE: Vereinbarung mit der Umwelthilfe erzielen - mehrheitlich abgelehnt
+- TOP 22.8.1: Änderungsantrag der Fraktion DIE PARTEI-Klima-Fraktion zur Vorlage RAT/251/2021 - mehrheitlich abgelehnt
+- TOP 22.9: Antrag der Ratsfraktion SPD/Volt: Umbenennung von Düsseldorfer Straßen - zurückgezogen
+- TOP 22.9.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/245/2021 - zurückgezogen
+- TOP 22.9.2: Ergänzungsantrag der Ratsfraktion DIE PARTEI-Klima-Fraktion zur Vorlage RAT/245/2021 - zurückgezogen
+- TOP 22.10: Antrag der Ratsfraktion DIE LINKE: Labore der Sana Kliniken erhalten - mehrheitlich abgelehnt
+- TOP 22.11: Resolution der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD/Volt zu den Laborschließungen bei den Sana Kliniken Düsseldorf GmbH - einstimmig beschlossen
+- TOP 22.12: Antrag der Ratsfraktion SPD/Volt: Kostenlose Taxifahrten zum Impfzentrum für die Empfänger*innen von Grundsicherung und Düsselpassbezieher*innen - mehrheitlich abgelehnt
+- TOP 22.12.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/257/2021
+- TOP 22.13: Antrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Teilnahme der Landeshauptstadt Düsseldorf am "Wattbewerb" - mehrheitlich beschlossen
+- TOP 22.14: Antrag der Ratsfraktion DIE PARTEI-Klima-Fraktion: Ausbildungsinitiative für Fachkräfte im Bereich erneuerbare Energie - verwiesen
+- TOP 23: Förderung Smart City - mehrheitlich beschlossen
