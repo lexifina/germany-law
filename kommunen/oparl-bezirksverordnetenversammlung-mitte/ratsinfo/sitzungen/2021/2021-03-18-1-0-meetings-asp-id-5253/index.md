@@ -1,0 +1,162 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-03-18T17:30:00+01:00
+- Ende: 2021-03-18T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5253
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5253
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=497834
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Verkehrssituation für Radfahrer/-innen in der Pankstraße - beantwortet
+- TOP 2.2: Müll vor der Bauruine in der Köpenicker Straße - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - gegenstandslos
+- TOP 7: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 7.1: Runder Tisch Engelbecken - mit Änderungen in der BVV beschlossen
+- TOP 7.2: Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Mühlendammbrücke - mit Änderungen in der BVV beschlossen
+- TOP 7.4: Hussitenstr. zwischen Gustav-Meyer-Allee und Usedomer Str. entschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Friedrichstraße II - Übergänge/Radparkplätze - erledigt
+- TOP 7.6: Queerbeauftragte*r für Mitte - mit Änderungen in der BVV beschlossen
+- TOP 7.7: Wohnungs- und obdachlose Frauen* während der Coronapandemie nicht allein lassen: Forderungen des Frauenbeirats Mitte und der Überparteilichen Fraueninitiative ÜPFI umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Corona-Quarantäne-Regeln präziser kommunizieren, Impfung gründlich vorbereiten - mit Änderungen in der BVV beschlossen
+- TOP 7.9: Umsatzsteuer in der Friedrichstraße - in der BVV abgelehnt
+- TOP 7.10: Hilfestellung für die Mietsenkung im Rahmen des Mietendeckels - ohne Änderungen in der BVV beschlossen
+- TOP 7.11: Müllerstr. 150 – Nutzungsmöglichkeit für Kinder- und Jugendliche sicherstellen! - in der BVV abgelehnt
+- TOP 7.12: Zukunft des Sportes umweltfreundlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 7.13: Gemeinsam statt Einsam: Einsame nicht allein lassen! - ohne Änderungen in der BVV beschlossen
+- TOP 7.14: Poststadion als Trainingsplatz für die Fußball Europameisterschaften „EURO2024“ - ohne Änderungen in der BVV beschlossen
+- TOP 7.15: Regelmäßige Corona-Schnelltestung für die Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Stillstand bei Autobahn zum Stern? - beantwortet
+- TOP 8.2: Unterkünfte für Wohnungslose und Kältehilfe in den leerstehenden Wohnungen in der Habersaathstraße 40-48? - beantwortet
+- TOP 8.3: Noch News oder Wahlwerbung? - beantwortet
+- TOP 8.4: Auswirkungen von Corona auf den Kurfürstenstrich - erledigt
+- TOP 8.5: Tischtennisplatten im Bezirk Mitte - beantwortet
+- TOP 8.6: Grünflächenreinigung hinter dem Rathausvorplatz - beantwortet
+- TOP 8.7: Wie gut läuft die Verfolgung des Infektionsgeschehen? - schriftlich beantwortet
+- TOP 8.8: Hausaufgabenhilfe für alle Schüler in der Bruno-Lösche-Bibliothek - schriftlich beantwortet
+- TOP 8.9: Ausnahmen von der Parkraumbewirtschaftung - schriftlich beantwortet
+- TOP 8.10: Wie weit ist Mitte bei der Digitalisierung der Schulen? - schriftlich beantwortet
+- TOP 8.11: Bezug: Große Anfrage 2913/V - „Verkehrskonzept für den Badstraßenkiez“ - schriftlich beantwortet
+- TOP 8.12: Wie kam es zur Auswahl der APP "LUCA"? - schriftlich beantwortet
+- TOP 8.13: Urheberrechtsverletzung bei Bauvorhaben in der Rathenower Straße 16 durch Bezirksamt Mitte und WBM? - schriftlich beantwortet
+- TOP 8.14: „Druckraum“ ins Afrikanische Viertel? - schriftlich beantwortet
+- TOP 8.15: Strafzahlung von 50.000 EURO durch den Bezirk? - schriftlich beantwortet
+- TOP 8.16: Wieso soll das Stadion Rehberge nicht gefunden werden? - schriftlich beantwortet
+- TOP 8.17: Inklusive Spielplätze - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Anna-Lindh-Grundschule: Schimmel und wie weiter? - schriftlich beantwortet
+- TOP 9.2: Mangelndes Controlling im Schulamt Mitte, wer hat hier den Hut auf? - schriftlich beantwortet
+- TOP 9.3: Corona-Schnelltest und medizinische Masken an Schulen in Mitte - schriftlich beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Damit der Müll endlich weg kommt: Unterstützung für die Mieter*innen in der Koloniestraße 122! - beantwortet
+- TOP 10.2: Jugendarbeitslosigkeit und duale Ausbildung im Bezirk Mitte - schriftlich beantwortet
+- TOP 10.3: Baumfäller im Bezirksamt - schriftlich beantwortet
+- TOP 10.4: Warum bekommt Mitte das Müllproblem nicht in den Griff? - schriftlich beantwortet
+- TOP 10.5: Schattenmiete - schriftlich beantwortet
+- TOP 10.6: Parkcafé Rehberge - Was ist mit den Leitungen? - schriftlich beantwortet
+- TOP 10.7: Wird das Bauaktenarchiv und seine Schimmelakten das "BER-Projekt" von Mitte? - schriftlich beantwortet
+- TOP 10.8: Spekulativer Leerstand und kein Ende - schriftlich beantwortet
+- TOP 10.9: Was sind BVV-Beschlüsse dem Bezirksamt wert? - schriftlich beantwortet
+- TOP 10.10: Abstellmöglichkeiten für Fahrräder - schriftlich beantwortet
+- TOP 10.11: Nutzungsänderung Lüderitzstraße 4 - schriftlich beantwortet
+- TOP 10.12: Leinenzwang in Mitte - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: fortlaufende Feststellung der außergewöhnlichen Notlage (§56, Ziffer 3, Absatz 2 GO der BVV Mitte) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - überwiesen
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: Sicherheit für Friedensstatue gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Beteiligungsverfahren zur Umgestaltung des Magdeburger Platzes einleiten - mit Änderungen in der BVV beschlossen
+- TOP 15.2: Wo Geld für hohe Immobilieninvestitionen vorhanden ist muss auch Geld für die Müllentsorgung in der Koloniestraße 122 da sein! - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - überwiesen
+- TOP 15.4: Inklusivität auf unseren Spielplätzen steigern - überwiesen
+- TOP 15.5: Bußgeldrahmen für Müllsünden endlich voll ausschöpfen - überwiesen
+- TOP 15.6: Haltebügel für Radfahrende in der Hauptstadtmitte - überwiesen
+- TOP 15.7: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - überwiesen
+- TOP 15.8: Parkcafé Rehberge - Kostenermittlung - überwiesen
+- TOP 15.9: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - überwiesen
+- TOP 15.10: Rassismus öffentlich entschieden entgegentreten – Strafanzeige gegen „Volkslehrer“, und betroffenen Gruppen Solidarität und praktische Unterstützung bekunden Die Bezirksverordnetenversammlung möge beschließen: - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: COVID19-Impfsituation in Berlin-Mitte schnell verbessern! - überwiesen
+- TOP 15.12: Mitte wird wieder lebendig - Gastronomie jetzt weiter unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15.13: Ehrenamtliches Engagement im Brüsseler Kiez unterstützen, statt den Müll nach Hause zu tragen - mit Änderungen in der BVV beschlossen
+- TOP 15.14: Landschaftsschutzgebiet in der Rehberge ausdehnen - überwiesen
+- TOP 15.15: Unterstützung für die Belegschaft von Siemens Energy! - ohne Änderungen in der BVV beschlossen
+- TOP 15.16: Magdeburger Platz - in der BVV abgelehnt
+- TOP 15.17: Verkaufsangebot auf Wochenmärkten während der Pandemie - überwiesen
+- TOP 15.18: Mehr kühlende Wasserelemente für Mitte - mit Änderungen in der BVV beschlossen
+- TOP 15.19: Rodelbahn wiederherstellen - überwiesen
+- TOP 15.20: Die Digitalisierung der Schulen braucht Technik UND professionelles Personal - ohne Änderungen in der BVV beschlossen
+- TOP 15.21: Weniger Müll in Mitte II - überwiesen
+- TOP 15.22: Integrationsfond ist unverzichtbar - ohne Änderungen in der BVV beschlossen
+- TOP 15.23: Mieter:innenrechte vom Schatten ins Licht führen: „Schattenmieten“ in Mitte untersagen - überwiesen
+- TOP 15.24: Planungssicherheit für Café Leo - ohne Änderungen in der BVV beschlossen
+- TOP 15.25: Weniger Sperrmüll in Mitte - überwiesen
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: Die BVV-Mitte missbilligt Trans- und Homophobie - in der BVV abgelehnt
+- TOP 16.2: Die BVV Mitte missbilligt Ausgrenzung queerer Lebensformen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2005 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Spielplatzentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Fläche für Urban Gardening Umfeld Tucholsky-/Torstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Die Chance auf eine moderne Verwaltung in Mitte nutzen – zügig E-Government-Gesetz umsetzen! - vertagt
+- TOP 17.5: Gemeinschaft schaffen – Grillen ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.6: Ehrenamtliche in der Sozialkommision besser entschädigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Nachhaltige Betreuung durch die Schuldnerberatung würdigen und Prävention ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: Calvinstraße 21 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Perleberger Straße 50 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: Erhebung der Lebenslagen von SeniorInnen in Mitte (LISA II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: Mehr Mittel für die Schuldnerberatung sinnvoll einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Seniorinnen und Senioren in Mitte stärken - Entwicklungsplan für Senior*innenarbeit auflegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.13: Engelbecken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Schnelle Lösung für die Berlichingenstraße 12 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: Mehr Grün in Mitte – auch auf Dächern und an Wänden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.16: Spielplatzsanierung fortführen – Landesmittel nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Vier Augen sehen mehr als zwei: Begehung von Wohnungslosenunterkünften gemeinsam mit Wohnungslosen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Sportanlage Lüderitzstraße benennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.19: Den Zentralen Festplatz auch als Schulstandort entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Öffentliche Nutzungen der Pavillons in der Karl-Marx-Allee planungsrechtlich sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.21: Haus der Gesundheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.22: Barrierefreiheit in Mitte herstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.23: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.24: Edinburger Straße 55 neu bauen oder grundsanieren - rasch ! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.25: Fahrplan für die Gewinnung von Schul- und Kitastandorten vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.26: Baumentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.27: Duale Ausbildung: Die öffentliche Hand muss über Bedarf ausbilden! - vertagt
+- TOP 17.28: Walter Lübcke in Namensliste für neue Straßennamen aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.29: Zusätzliche Plätze für Opfer häuslicher Gewalt verstetigen - vertagt
+- TOP 17.30: Lange Nacht der Bürgerämter - vertagt
+- TOP 17.31: Unterstützungsfonds für von Extremismus betroffene Akteure und Organisationen bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.32: Nicht übereinander, sondern miteinander reden: Gemeinsam Hilfen für die Obdachlosen vom Hansaplatz erarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.33: Das Parkcafé in den Rehbergen für die Bevölkerung erhalten und nutzbar machen! - vertagt
+- TOP 17.34: Blockade im Bezirksamt bei der Schaffung dringend benötigter Kitaplätze unverzüglich beenden! - vertagt
+- TOP 17.35: Leopoldplatz: Ein Platz für alle II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.36: Park am Nordbahnhof autofrei! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.37: Strandbad Plötzensee helfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.38: Gleiche Regeln für den Sport für alle – auch für Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.39: Ausbau der Frauenhäuser in Berlin - vertagt
+- TOP 17.40: Mieterberatung - Kein Anschluss unter dieser Nummer? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.41: Unterkünfte für Wohnungslose kurzfristig erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.42: IT-Sicherheit im Bezirksamt gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.43: Soziale Härten vermeiden – Hilfe und Unterstützung jederzeit sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.44: Bürger*innenbeteiligung auch für Arbeitnehmer*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.45: Beschluss über die Einstellung des Bebauungsplanverfahrens I-34 „Engelbecken“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.46: Mittelvergabe zur kiezorientierten Gewalt- und Kriminalitätsprävention der Landeskommis-sion Berlin gegen Gewalt (LaKogG) - mit Abschlussbericht zur Kenntnis genommen
