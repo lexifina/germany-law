@@ -1,0 +1,7 @@
+# TOP 11.: Ausgleich pandemiebedingter Belastungen des Jahres 2020 für die städtischen Gesellschaften
+
+- Sitzung: Rat (3. Sitzung) (2021-03-18)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/64966
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/34728
