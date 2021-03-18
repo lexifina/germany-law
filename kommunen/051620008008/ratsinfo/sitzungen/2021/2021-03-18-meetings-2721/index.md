@@ -1,0 +1,68 @@
+# Hauptausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-03-18T10:06:00+01:00
+- Ende: 2021-03-18T16:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2721
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2721
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112430.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112430.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112430.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Erstattung der KiTa-Beiträge für den Monat Februar 2021 - einstimmig
+- TOP 4: Haushaltsangelegenheiten
+- TOP 4.1: Beantwortung schriftlicher Anfragen von Fraktionen für das haushaltsjahr 2021
+- TOP 4.1.1: Fragen zum Haushaltsplan 2021 (Anfrage Nr. 80/2021)
+- TOP 4.1.2: Fragen zum Haushaltsplan 2021 (Anfrage Nr. 80/2021) - Kenntnisnahme
+- TOP 4.2: Für das Haushaltsjahr 2021 haushaltsrelevante schriftliche Anträge von Fraktionen (Übersicht)
+- TOP 4.2.1: Ggf. erforderliche Finanzmittel zur Übertragung der Rats- und Ausschusssitzungen im Internet in den Haushalt einstellen (Antrag Nr. 84/2021) - mehrheitlich abgelehnt
+- TOP 4.2.2: Stellenoptimierung (Antrag Nr. 66/2021) - vertagt
+- TOP 4.2.3: Reduzierung der Rückstellungen für Überstunden durch Schließung des Rathauses (Antrag Nr. 61/2021) - mehrheitlich abgelehnt
+- TOP 4.2.4: HH-Entwurf 2021 Produkt 12031 Verkehrsplanung (Antrag Nr. 64/2021)
+- TOP 4.2.5: Reduzierung der öffentlich- rechtlichen Leistungsentgelte Produkt 02022 Wochen- und Jahrmärkte (Kirmessen) (Antrag Nr. 62/2021) - mehrheitlich abgelehnt
+- TOP 4.2.6: Bewirtschaftung des Parkhauses am Grevenbroicher Bahnhof (Antrag Nr. 94/2021)
+- TOP 4.2.7: Aufwendungen für Sach- und Dienstleistungen reduzieren (Antrag Nr. 91/2021) - mehrheitlich abgelehnt
+- TOP 4.3: Erhöhung des Hebesatzes zur Festsetzung der Grundsteuer B und Änderung der Hebesatz-Satzung - mehrheitlich bei
+- TOP 4.3.1: Dauerhafter Verzicht auf die Erhöhung des Grundsteuer-B-Hebesatzes (Antrag Nr. 103/2021) - mehrheitlich abgelehnt
+- TOP 4.3.2: Erhöhung des Hebesatzes der Grundsteuer B auf 625% (Antrag Nr. 63/2021) - mehrheitlich abgelehnt
+- TOP 4.4: Haushalt 2021 (NEUE Vorlage!) - mehrheitlich bei
+- TOP 5: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 6: Schriftliche Anträge
+- TOP 6.1: Gemeinschaftsanträge
+- TOP 6.1.1: Verringerung der Anzahl der Wahlkreise und Verkleinerung des Stadtrates um 6 Mandate (Anfrage Nr. 65/2021) - mehrheitlich bei
+- TOP 6.1.2: LED-Retrofit Initiative (Antrag Nr. 68/2021) - einstimmig
+- TOP 6.1.3: Tablets an weiterführenden Schulen (Antrag Nr. 70/2021) - einstimmig
+- TOP 6.1.4: Entlastungspotentiale nutzen - Kreisumlage senken (Antrag Nr. 69/2021) - einstimmig
+- TOP 6.1.5: Moderne, bürgernahe Verwaltung für die Menschen und attraktiver Arbeitgeber für die Beschäftigten (Antrag Nr. 71/2021) - einstimmig
+- TOP 6.2: Anträge der CDU-Fraktion
+- TOP 6.2.1: Bewässerungskonzept zum Schutz städtischer Grünflächen (Antrag Nr. 93/2021) - einstimmig
+- TOP 6.2.2: Kostenverringerung Stadtbetriebe Grevenbroich AöR (Antrag Nr. 101/2021) - einstimmig
+- TOP 6.2.3: Inhaltlich begründete Aufstellung über die erhebliche Personalkostensteigerung (Antrag Nr. 98/2021)
+- TOP 6.3: Anträge der Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 6.3.1: Laufende Kosten reduzieren (Antrag Nr. 73/2021) - einstimmig
+- TOP 6.3.2: Vergünstigungen für Parteien aufheben (Antrag Nr. 74/2021)
+- TOP 6.3.3: Überprüfung laufender Verträge (Antrag Nr. 75/2021)
+- TOP 6.4: Anträge der FDP-Fraktion
+- TOP 6.4.1: Prüfung von Mitgliedschaften (Antrag Nr. 85/2021) - einstimmig
+- TOP 6.4.2: Maßnahmen zur Reduzierung der stetig wachsenden Rückstellungen in Bezug auf das Personal ergreifen (Antrag Nr. 87/2021) - einstimmig
+- TOP 6.4.3: Mobiles Arbeiten - Flächenreduktion in den Gebäuden der Stadtverwaltung (Antrag Nr. 88/2021) - einstimmig
+- TOP 6.4.4: Entwicklung eines Friedhofshallenkonzepts (Antrag Nr. 90/2021)
+- TOP 6.4.5: Wirtschaftlichkeit der Mitgliedschaft der Stadt Grevenbroich in der KoPart eG darlegen (Antrag Nr. 86/2021) - einstimmig
+- TOP 6.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 6.5.1: Anhebung der Verwarn- und Bußgelder für Müllsünder (Antrag Nr. 76/2021) - einstimmig
+- TOP 6.5.2: Kostenübersicht IT (Antrag Nr. 77/2021) - einstimmig
+- TOP 7: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 8: Schriftliche Anfragen
+- TOP 8.1: Nutzt die Stadt-Grevenbroich die Schulbus-Förderung des Landes? (Anfrage Nr. 59/2021)
+- TOP 8.1.1: Nutzt die Stadt-Grevenbroich die Schulbus-Förderung des Landes? (Anfrage Nr. 59/2021) - Kenntnisnahme
+- TOP 8.2: Kosten der Dienstleistungen im Bereich Revision (Anfrage Nr. 81/2021)
+- TOP 8.3: Produkt 01122 Projekt Um- und Anbau Gesamtschule III (Anfrage Nr. 82/2021)
+- TOP 9: Mitteilungen des Bürgermeisters
