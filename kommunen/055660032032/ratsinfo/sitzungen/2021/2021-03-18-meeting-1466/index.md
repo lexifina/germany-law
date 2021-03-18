@@ -1,0 +1,56 @@
+# Rat der Gemeinde Ladbergen (43. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2021-03-18T19:00:00+01:00
+- Ende: 2021-03-18T23:05:00+01:00
+- Ort: Sporthalle I, Jahnstraße 1a, 49549 Ladbergen, in der Sporthalle I
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcphZP_BvSwpgNBAUkGnNjU
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1466
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbEsmfQ24H4eyaaFEEY4T5o04n0-68jUvGRHNe5tJrMt/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_18.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBGEuZGVdFXVpwW1Iv-tP8vEotqMOMxmbjbqhCE_-Uv/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_18.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Plastikzäune
+- TOP 3: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Satz 2 GO NRW in Verbindung mit § 6 der Hauptsatzung der Gemeinde Ladbergen hier: Aussetzen der Beitragserhebung für die Betreuung von Kindern im Rahmen des Offenen Ganztages an Schulen - Einstimmig
+- TOP 3.2: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Absatz 1 Satz 2 GO NRW in Verbindung mit § 6 der Hauptsatzung der Gemeinde Ladbergen hier: Aussetzen der Beitragserhebung für die Betreuung von Kindern im Rahmen des Offenen Ganztages an Schulen der Primarstufe im Zuge von COVID-19 für den Monat Februar 2021 - Einstimmig
+- TOP 4: Haushalt 2020
+- TOP 4.1: Haushalt 2020 Ermächtigungsübertragungen gem. § 22 KomHVO
+- TOP 4.2: Jahresabschluss 2020 - Einstimmig
+- TOP 5: Haushalt
+- TOP 5.1: Antrag der CDU Fraktion hier: Erweiterung der Unterhaltungsmaßnahmen der Straßen und Radwege - 9 Ja, 14 Nein, 0 Enthaltung(en)
+- TOP 5.2: Antrag der CDU-Fraktion: hier: Sanierung des Daches auf dem Feuerwehrgerätehaus - (kein Text vorhanden)
+- TOP 5.3: Antrag der CDU Fraktion hier: Verschiebung der Maßnahme LED Rathaus / Produkt 11.111.090 „Technisches Immobilienmanagement“ - 7 Ja, 14 Nein, 2 Enthaltung(en)
+- TOP 5.4: Antrag der CDU Fraktion hier: Kürzung Investition 111.090-0007 - Umgestaltung des Eingangsbereiches im Rathaus - (kein Text vorhanden)
+- TOP 5.5: Antrag der CDU Fraktion hier: Verschiebung Maßnahme "Wohnmobilstellplatz" in das Haushaltsjahr 2022
+- TOP 5.6: Antrag der FDP-Fraktion hier: Aussetzung der Erhebung von Gebühren zur Nutzung der Bücherei in Ladbergen - 10 Ja, 13 Nein, 0 Enthaltung(en)
+- TOP 5.7: Antrag der FDP-Fraktion hier: Externe Vergabe der Gestaltung der Homepage der Gemeinde Ladbergen - 22 Ja, 0 Nein, 1 Enthaltung(en)
+- TOP 5.8: Antrag der FDP-Fraktion hier: Erweiterung des Leistungskataloges der LAKI-Card
+- TOP 5.9: Antrag der FDP-Fraktion hier: Erweiterung des Leistungskataloges der LAKI-Card - Einstimmig
+- TOP 5.10: Antrag der SPD-Fraktion hier: Straßenbeleuchtung am Wanderweg Mühlenbach - 18 Ja, 5 Nein, 0 Enthaltung(en)
+- TOP 5.11: Antrag der SPD-Fraktion hier: Optimierung der Situation am Dorfteich - Einstimmig
+- TOP 5.12: Antrag der SPD-Fraktion hier: Bau eines Hundeplatzes - 8 Ja, 15 Nein, 0 Enthaltung(en)
+- TOP 5.13: Antrag der SPD-Fraktion Hier: Haushaltsansatz im Produktbereich 11; Maßnahme 111.090-0007
+- TOP 5.14: Antrag der SPD-Fraktion hier: Optimierung der Situation am Rathausvorplatz und Wohnmobilstellplatz - (kein Text vorhanden)
+- TOP 5.15: Antrag der SPD-Fraktion hier: Stellenplan
+- TOP 5.16: Antrag der FDP-Fraktion hier: Weiterentwicklung der Spielarena 12+ durch Errichtung eines "Multifunktionscourts" - 10 Ja, 9 Nein, 4 Enthaltung(en)
+- TOP 5.17: Antrag der FDP-Fraktion hier: Neugestaltung Schulhof - (kein Text vorhanden)
+- TOP 5.18: Antrag der FDP-Fraktion hier: Haushaltsmittel Rathausumbau
+- TOP 5.19: Stellenplan 2021 - Einstimmig
+- TOP 5.20: Haushaltssatzung und Haushaltsplan für das Jahr 2021 - 22 Ja, 0 Nein, 1 Enthaltung(en)
+- TOP 6: Planung Umgestaltung der Ortsdurchfahrt Ladbergen – Mühlenstraße von der Mühlenbachbrücke bis zur Dorfstraße - Einstimmig
+- TOP 7: Verringerung von Schotter- und Steingärten in der Gemeinde Ladbergen hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 06.01.2021 - (kein Text vorhanden)
+- TOP 8: Bauleitplanung
+- TOP 8.1: Entwurfskonzept Bauvorhaben „Hotel zur Post“ - 18 Ja, 4 Nein, 1 Enthaltung(en)
+- TOP 8.2: 23. Änderung des Bebauungsplanes Nr. 4 „Ortslage“ der Gemeinde Ladbergen hier: Offenlegungsbeschluss - Einstimmig
+- TOP 9: Mitteilungen und Anfragen
+- TOP 9.1: TTC-Ladbergen
+- TOP 9.2: Korruptionsbekämpfungsgesetz
+- TOP 9.3: Stadtradeln
