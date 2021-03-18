@@ -1,0 +1,105 @@
+# 49. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-03-18T17:00:00+01:00
+- Ende: 2021-03-18T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4795
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4795
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=310366
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Technische Ausrüstung der Mitarbeiter des Bezirksamts im Homeoffice verbessern - vertagt
+- TOP 5.2: Ausschusssitzungen zukunftssicher sicherstellen - in der BVV zurückgezogen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Digitales Format für Sitzungen der BVV ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Neues Zentrum Hohenschönhausen - beantwortet
+- TOP 8.2: Bürger*innenbeteiligung bei Baumaßnahmen - beantwortet
+- TOP 8.3: Sperrmüllaktionstage in Lichtenberg - beantwortet
+- TOP 8.4: Erreichbarkeit des Sozialamtes bei Gefahr des Wohnungsverlustes - beantwortet
+- TOP 8.5: Umschulung von Kindern in die Sewanstraße? - beantwortet
+- TOP 8.6: Durchführung der Integrations-, Alpha- und Geflüchteten-Kurse an der Margarete-Steffin-Volkshochschule - beantwortet
+- TOP 8.7: Frauenpreis - beantwortet
+- TOP 8.8: Wann gibt es mal wieder Protokolle der Bezirksamtssitzungen? - in der BVV zurückgezogen
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen
+- TOP 9.1: Gabenzäune schnellstmöglich einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: BVV-Sondermittel zur Förderung des Projekts Stadtlichter (x) change - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für den ROTE NASEN Deutschland e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für Berliner Phoenix-Forum e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sitzgelegenheiten auf Baumbegrenzungen in der Weitlingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Kampagne "Luisa ist hier!" in Lichtenberg umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Barrierefreiheit am Löschteich ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Lückenschluss beim Gehweg in der Dorfstraße Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Instandsetzung der Rheinpfalzallee - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Umsetzung des § 46 Abs. 2 MobG BE - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Grillen im Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Haushaltstitel "Schüler*innenhaushalte" schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Sportstandort Karlshorst ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.15: UN-Behindertenrechtskonvention wirksam, kommunalpolitisch und dauerhaft begleiten - überwiesen
+- TOP 9.16: Vermessung öffentlicher Straßen in Falkenhöhe 1932 - überwiesen
+- TOP 9.17: Sicherung der Bürger*innenbeteiligung bei Bauprozessen - Bürger*innenbeteiligung ernst nehmen - überwiesen
+- TOP 9.18: Finanzielle Sicherung von Alpha-Bündnis - überwiesen
+- TOP 9.19: Frühzeitige Information über geplante Baumfällungen - überwiesen
+- TOP 9.20: Lösung für die ungefilterte Oberflächenwassereinleitung in den Rummelsburger See - überwiesen
+- TOP 9.21: Mehr Sicherheit an Radwegpollern - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Provisorische Lichtzeichenanlage (LZA) Hegemeister Weg/Treskowallee einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Eine Toilette für den Aktivspielplatz an der Dolgenseestraße - überwiesen
+- TOP 9.24: Ein größerer Briefkasten beim JobCenter - überwiesen
+- TOP 9.25: Für Respekt und Wertschätzung in Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Tägliche Dienstleistungen mitplanen - überwiesen
+- TOP 9.27: ÖPNV in Alt-Hohenschönhausen stärken - überwiesen
+- TOP 9.28: Ladeinfrastruktur für Elektromobilität zum Standard machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Leerstehende Wohnhäuser in der Andernacher Straße/Ecke Königswinterstraße - überwiesen
+- TOP 9.30: Wohnungsneubau an der Möllendorffstraße/Ecke Storkower Straße - überwiesen
+- TOP 9.31: Anmeldung zur Investitionsplanung 2021 – 2025 - überwiesen
+- TOP 9.32: Neue Impulse für das Bündnis für Wohnen im Bezirk Lichtenberg - überwiesen
+- TOP 9.33: Gleiches Geld für gleiche Arbeit am gleichen Ort in Jobcentern und Jugendberufsagentur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Verkehrssicherheit im Dorf Wartenberg erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.35: Dem Rückzug von Post und Banken aus den Kiezen entgegenwirken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Trinkwasserspender mit Leitungswasseranschluss in öffentlichen Gebäuden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.37: Tag der Umweltbildung an Lichtenberger Schulen einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.38: Private Silvesterfeuerwerke reduzieren - zentrale Feuerwerke in den Bezirken ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Keine Reduzierung des öffentlichen Grüns in Karlshorst! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Jugendherbergen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.41: Umweltpreis Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.42: Dringend notwendige Kapazitätserweiterung für Frauenhausplätze schaffen, jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Galeria Karstadt Kaufhof Warenhäuser in Hohenschönhausen und Lichtenberg erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.44: Sicheres Überqueren der Siegfriedstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.45: Bezirkspolitischen „Wahl-O-Maten“ einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.46: Sitzgelegenheiten rund um das Linden-Center - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.47: Politische Bildungsarbeit zu den U18-Wahlen stärken und sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.48: Bordsteinabsenkung in der Rheinsteinstraße an der Ecke zum "Marktplatz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.49: Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten im Bezirk Lichtenberg für das Grundstück Eitelstraße 10 A – 15 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.50: Zielematrix des Lichtenberger Gesundheitsbeirates – Gesundheitsziele; Bezug: DS/0301/VIII - überwiesen
+- TOP 9.51: Bebauungsplan 11-57a – Erneute eingeschränkte Beteiligung der von der Ände-rung des Bebauungsplans betroffenen Behörden und Öffentlichkeit; Arbeitstitel: Wandlitzstraße I - überwiesen
+- TOP 9.52: Bebauungsplan 11-165 – frühzeitige Öffentlichkeitsbeteiligung; Arbeitstitel: Quartier Gehrenseestraße / Wollenberger Straße - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Urbanes Zentrum Neu-Hohenschönhausen - schriftlich beantwortet
+- TOP 10.2: Lindencenter - Entwicklung mit Umgebung in Einklang bringen - in der BVV abgelehnt
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Grüne Höfe im Nibelungenviertel planungsrechtlich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bauvorhaben nach geltendem Recht beurteilen - in der BVV abgelehnt
+- TOP 11.3: Haushaltstitel: "Präventionsbudget" schaffen - überwiesen
+- TOP 11.4: Zielvereinbarung zwischen Bürgern und Verwaltung - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Nachweisung der im Haushaltsjahr 2019 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Bezirkshaushaltsrechnung 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Ankerverbot auf dem Rummelsburger See - mit Änderungen im Ausschuss beschlossen
+- TOP 13.2: Bürgerbeteiligung bei Bauvorhaben endlich ernst nehmen - überwiesen
+- TOP 13.3: Gehwegbeleuchtung Ahrensfelder Chaussee - überwiesen
+- TOP 14: Vorlagen zur Beschlussfassung - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 16: Schließung der Sitzung - erledigt
