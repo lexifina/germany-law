@@ -1,0 +1,81 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-03-18T17:00:00+01:00
+- Ende: 2021-03-18T18:00:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVRYKZa9rkfr61oTBQKplnM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6285
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeKMx2zuT5pPkbJWKGJmlHDki3jSlwKtl4RVpeAQWURZ/Bekanntmachung_Rat_18.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe3E1NSLyeIxBZzWS-T7t7nkFVDFvyz7f6OfKVDA2i-V/Oeffentliche_Niederschrift_Rat_18.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Beantwortung diverser Fragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff.
+- TOP 6.1: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI und der FDP vom 05.03.2021
+- TOP 6.2: Etatberatungen für das Haushaltsjahr 2021 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2024 und des Haushaltssanierungsplanes 2021 ff. gemeinsame Anträge der Ratsfraktionen DIE LINKE. Die PARTEI und der FDP vom 05.03.2021
+- TOP 7.: Ausschreibung der Stelle einer/ eines Beigeordneten für das Ressort 5 (Planung, Bauen, Verkehr und Umwelt)
+- TOP 8.: 41. Hauptversammlung des Deutschen Städtetages
+- TOP 9.: Beteiligung Stadt Solingen an der Partnerschaft Deutschland – Berater der öffentlichen Hand GmbH: Benennung Gesellschaftervertretung für die Gesellschafterversammlung
+- TOP 10.: Mehr Partizipation von Eltern und Schülerinnen und Schülern im Ausschuss für Schule und Weiterbildung gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI und der FPD vom 03.03.2021
+- TOP 11.: Ausgleich pandemiebedingter Belastungen des Jahres 2020 für die städtischen Gesellschaften
+- TOP 12.: Ausgleich pandemiebedingter Belastungen des Jahres 2021 für die städtischen Gesellschaften
+- TOP 13.: Bauleitplanung Düsseldorfer Straße / Lippestraße Beschluss über die 1. Verlängerung der Veränderungssperre (Nr. 170/ 658) gem. § 17 Abs. 1 BauGB für das Gebiet südlich entlang der Düsseldorfer Straße zwischen der Straße Im Ohligs im Westen und der Weststraße im Osten – Stadtbezirk Ohligs –
+- TOP 14.: Benennung von zwei weiteren Ersatzdelegierten für die Mitgliederversammlung des Landesintegrationsrates NRW
+- TOP 15.: Benennung einer Vertretung für den Beirat Nachhaltige Kommune Solingen
+- TOP 16.: Benennung einer Vertretung für die Steuerungsgruppe Integration
+- TOP 17.: TBS-Standortkonzept 2030, Vorbereitung des Ausschreibungsverfahrens für das Teilprojekt 1
+- TOP 18.: Integrationsprogramm 2021 des Kommunalen Jobcenters hier: Zweite Lesung und Beschlussfassung
+- TOP 19.: Entsendung von Trägervertretungen in den Rat der Tageseinrichtung der Städt. Kindertagesstätten
+- TOP 20.: Strukturplan 2021
+- TOP 21.: KiBiz – Kontingent für das Kindergartenjahr 2021/2022
+- TOP 22.: Jahresabschluss 2019 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 23.: Wirtschaftsplan 2021 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 24.: Grundhafte Erneuerung Mühlenstraße/Höhscheider Straße Hier: Verbesserung der Radverkehrsführung
+- TOP 25.: Änderung der Baumschutzsatzung § 24 GO NW Bürgerantrag
+- TOP 26.: Anregungen und Beschwerden nach § 24 GO NW zur geplanten Einrichtung eines Stauraumkanals im Bereich Tunnelstraße
+- TOP 27.: Austausch des Kunstrasenbelages von Freisportanlagen
+- TOP 28.: Verwendung der Sportpauschale Verwendung von Restmitteln aus der Sportpauschale aus Vorjahren
+- TOP 29.: Förderanträge
+- TOP 30.: Bauleitplanung Rembrandtstraße/ Locher Straße Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligung zu den Vorentwürfen des Bebauungsplanes W 568 sowie zur Flächennutzungsplanberichtigung Nr. B 28/04 und Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zu den Entwürfen des Bebauungsplanes W 568 sowie der Flächennutzungsplanberichtigung Nr. B28/04, beide für das Gebiet zwischen Locher Straße, Rembrandtstraße, Wiedenkamper Straße und dem evgl. Friedhof. (Beschluss 2) – Stadtbezirk Wald –
+- TOP 31.: Realisierungswettbewerb zum Bau einer städtischen KiTa sowie gefördertem Wohnungsbau auf dem Grundstück „Schwanenstraße 94“
+- TOP 32.: Verschiedenes
+- TOP 32.1: Mitteilungen der Verwaltung
+- TOP 32.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen 11.11.2020 - 31.12.2020
+- TOP 32.1.2: Erwartungen und Forderungen an den neuen Bundestag und die neue Bunderegierung
+- TOP 32.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Wirtschaftsförderung Solingen GmbH & Co. KG - Änderung des Gesellschaftsvertrages
+- TOP 5.: Altenzentren der Stadt Solingen gemeinnützige GmbH – Änderung Gesellschaftsvertrag
+- TOP 6.: Städtische Musikschule Solingen GmbH - Änderung des Gesellschaftsvertrages
+- TOP 7.: Beteiligung der Stadtwerke Solingen GmbH an der Versorger-Allianz 450 Beteiligungs-GmbH & Co. KG
+- TOP 8.: Auftragsvergabe Viehbachsammler III. Bauabschnitt
+- TOP 9.: Jahresabschluss 2019/2020 der Städtischen Musikschule Solingen GmbH
+- TOP 10.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2020
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH - Besetzung Chefarzt/-ärztin Onkologisches Zentrum
+- TOP 12.: Altenzentren der Stadt Solingen gemeinnützige GmbH – Abschluss eines Pachtvertrages
+- TOP 13.: Wirtschaftsplan 2021 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 14.: Bestellung eines Wirtschaftsprüfers für die Prüfung der Jahresabschlüsse 2021 und 2022 der Solinger Bädergesellschaft mbH
+- TOP 15.: Wiederbestellung einer Geschäftsführerin der Solinger Bädergesellschaft mbH (SBG)
+- TOP 16.: Wirtschaftsplan 2021 der Elba Omnibusreisen GmbH
+- TOP 17.: Schlussbilanz der RW Beteiligungs GmbH i.L.
+- TOP 18.: Genehmigung einer Dringlichkeitsentscheidung über die Vergabe eines Auftrages zur Erstellung der Freianlagen - Los 1 - der Freisportanlage Höher Heide 2
+- TOP 19.: Abberufung der Leiterin des Finanzmanagements Bestellung der Leitung des Finanzmanagements
+- TOP 20.: Vergabe der Rettungsdienstleistungen für die Stadt Solingen
+- TOP 21.: Beirat Solinger Kunst-Stiftung – Jahresabschluss 2020
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen der Verwaltung
+- TOP 22.2: Anfragen an die Verwaltung
