@@ -32,6 +32,7 @@
 ## Abschnitt 4 Rahmenbedingungen für Postdienstleistungen
 
 - [§ 18 Postdienstleistungsverordnung](0018.md)
+- [§ 18a Schlichtung](0018a.md)
 
 ## Abschnitt 5 Entgeltregulierung
 

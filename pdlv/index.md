@@ -11,6 +11,6 @@
 - [§ 7 Nachsendung und Lagerung](0007.md)
 - [§ 8 Nachforschung](0008.md)
 - [§ 9 Verjährung](0009.md)
-- [§ 10 Schlichtung](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Inkrafttreten](0011.md)
 - [Schlussformel](schlussformel.md)

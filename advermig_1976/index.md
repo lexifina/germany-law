@@ -20,7 +20,7 @@
 - [§ 10 Unterrichtung der zentralen Adoptionsstelle des
 Landesjugendamtes](0010.md)
 - [§ 11 Aufgaben der zentralen Adoptionsstelle des Landesjugendamtes](0011.md)
-- [§ 12](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 - [§ 13 Ausstattung der zentralen Adoptionsstelle des
 Landesjugendamtes](0013.md)
 
@@ -34,7 +34,7 @@ Landesjugendamtes](0013.md)
 ## Dritter Abschnitt Straf- und Bußgeldvorschriften
 
 - [§ 14 Bußgeldvorschriften](0014.md)
-- [§ 14a](0014a.md)
+- [§ 14a (weggefallen)](0014a.md)
 - [§ 14b Strafvorschriften gegen Ersatzmuttervermittlung](0014b.md)
 
 ## Vierter Abschnitt Übergangsvorschriften

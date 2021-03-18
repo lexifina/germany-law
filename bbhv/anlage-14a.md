@@ -1,11 +1,11 @@
-# Anlage 14a (zu § 41a Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
+# Anlage 14a (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
 
 Aufwendungen für die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko setzen sich aus den Aufwendungen für
 1. Risikofeststellung und interdisziplinäre Beratung,
 2. Tumorgewebsdiagnostik,
 3. genetische Analyse (Untersuchung auf Keimbahnmutation),
 4. Früherkennungsmaßnahmen
-zusammen und sind in Höhe der nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in einer in Nummer 4 aufgeführten Klinik durchgeführt werden.
+zusammen und sind in Höhe der nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in einer in nachstehender Nummer 5 aufgeführten Klinik durchgeführt werden.
 1. Risikofeststellung und interdisziplinäre Beratung
   Unter der Voraussetzung, dass die revidierten Bethesda-Kriterien in der Familie der ratsuchenden Person erfüllt sind, sind die Aufwendungen für die erstmalige Risikofeststellung und interdisziplinäre Beratung einschließlich Erhebung des Familienbefundes und Organisation der diagnostischen Abklärung einmalig in Höhe von 600 Euro beihilfefähig. Aufwendungen für jede weitere Beratung einer Person, in deren Familie bereits das Lynch-Syndrom oder Polyposis-Syndrom bekannt ist, sind in Höhe von 300 Euro beihilfefähig.
 2. Tumorgewebsdiagnostik

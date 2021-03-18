@@ -126,6 +126,6 @@
 - [Anlage 12 (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle](anlage-12.md)
 - [Anlage 13 (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen](anlage-13.md)
 - [Anlage 14 (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko](anlage-14.md)
-- [Anlage 14a (zu § 41a Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko](anlage-14a.md)
+- [Anlage 14a (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko](anlage-14a.md)
 - [Anlage 15 (weggefallen)](anlage-15.md)
 - [Anlage 16 (zu § 51a Absatz 2)](anlage-16.md)

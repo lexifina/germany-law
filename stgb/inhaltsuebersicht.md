@@ -617,7 +617,7 @@
 |  | § 259 | Hehlerei |
 |  | § 260 | Gewerbsmäßige Hehlerei; Bandenhehlerei |
 |  | § 260a | Gewerbsmäßige Bandenhehlerei |
-|  | § 261 | Geldwäsche; Verschleierung unrechtmäßig erlangter Vermögenswerte |
+|  | § 261 | Geldwäsche |
 |  | § 262 | Führungsaufsicht |
 |  |  |
 | Zweiundzwanzigster Abschnitt |

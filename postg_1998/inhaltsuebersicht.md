@@ -26,6 +26,7 @@
 | Abschnitt 4 |
 |  | Rahmenbedingungen für Postdienstleistungen |
 | § 18 | Postdienstleistungsverordnung |
+| § 18a |  | Schlichtung |
 | Abschnitt 5 |
 |  | Entgeltregulierung |
 | § 19 | Genehmigungsbedürftige Entgelte |

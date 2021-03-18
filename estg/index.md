@@ -358,7 +358,7 @@
 ## XIV. Sondervorschriften zur Bewältigung der Corona-Pandemie
 
 - [§ 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019](0110.md)
-- [§ 111 Vorläufiger Verlustrücktrag für 2020](0111.md)
+- [§ 111 Vorläufiger Verlustrücktrag für 2020 und 2021](0111.md)
 - [Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen](anlage-1.md)
 - [Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](anlage-1a.md)
 - [Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU](anlage-2.md)

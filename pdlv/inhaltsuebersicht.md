@@ -9,5 +9,5 @@
 | § 7 | Nachsendung und Lagerung |
 | § 8 | Nachforschung |
 | § 9 | Verjährung |
-| § 10 | Schlichtung |
+| § 10 | (weggefallen) |
 | § 11 | Inkrafttreten |

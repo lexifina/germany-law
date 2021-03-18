@@ -12,7 +12,7 @@ zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Un
   Die genetische Analyse wird bei den Indexfällen durchgeführt. Dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden. Dagegen werden die Kosten einer sich als prädiktiver Gentest darstellenden genetischen Analyse der Indexperson der gesunden ratsuchenden Person zugerechnet. Ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die genetische Analyse also keinen diagnostischen Charakter hat. Eine solche Situation ist gesondert durch eine schriftliche ärztliche Stellungnahme zu attestieren.
 3. Teilnahme an einem Strukturierten Früherkennungsprogramm
   Aufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal 580 Euro beihilfefähig.
-4. Kliniken des Deutschen HNPCC-Konsortiums
+4. Im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs zusammengeschlossene universitäre Zentren
   a) Berlin
     Charité – Universitätszentrum Berlin, Brustzentrum
   b) Dresden

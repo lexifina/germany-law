@@ -602,7 +602,7 @@ persönliche Freiheit
 - [§ 259 Hehlerei](0259.md)
 - [§ 260 Gewerbsmäßige Hehlerei; Bandenhehlerei](0260.md)
 - [§ 260a Gewerbsmäßige Bandenhehlerei](0260a.md)
-- [§ 261 Geldwäsche; Verschleierung unrechtmäßig erlangter Vermögenswerte](0261.md)
+- [§ 261 Geldwäsche](0261.md)
 - [§ 262 Führungsaufsicht](0262.md)
 
 ### Zweiundzwanzigster Abschnitt Betrug und Untreue
