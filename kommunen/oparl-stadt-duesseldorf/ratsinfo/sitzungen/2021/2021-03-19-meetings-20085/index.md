@@ -1,0 +1,54 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-19T16:30:00+01:00
+- Ende: 2021-03-19T18:17:00+01:00
+- Ort: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20085
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20085
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 20210319 Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405472.pdf
+- Ergebnisprotokoll: 20210319 Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405472.pdf
+- Wortprotokoll: 20210319 Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405472.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 05.03.2021 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 19.02.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Radweg Am Trippelsberg – Kompensationsmaßnahmen zum LKW-Parken - Empfehlung abweichend beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Sachstand Freiraumplanung "Nördlich Paulsmühlenstraße" - Informationsvorlage - zur Kenntnis genommen
+- TOP 4.4: Naturnaher Gewässerausbau Hoxbach - Altenbrückstraße bis Spandauer Straße (W-0013000000) - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Ehemaliger Radweg am Benrather Schlossufer/Am Alten Rhein - Interfraktionelle Anfrage - zur Kenntnis genommen
+- TOP 5.4: Gutshof/Kinderbauernhof Niederheid - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 5.5: Landesstraße 293, Hochwasserumleitung - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Radfahrstreifen Benrather Schlossallee - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Am Trippelsberg - Protected Bike Lane, Vorlage OVA/063/2020 - Anfrage der Fraktion Bündnis 90/ / Die Grünen - zur Kenntnis genommen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Sport- und Freizeitanlage Paulinenpark - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Literaturbüro NRW e. V. - Bücherschrank in Wersten - einstimmig beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Seniorengerechtes Quartier "Mittendrin" in Urdenbach - Anschaffung von Lenovo Tablets M10 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Itterstraße – Neubau einer Querungshilfe in Höhe Huvestraße - Nachtrag zur Informationsvorlage der BV9 aus der Sitzung am 27.11.2020; BV9/222/2020 - zur Kenntnis genommen
+- TOP 9.2: Erweiterung der Busspur auf der Münchener Straße - Beschluss der Bezirksvertretung 9 vom 28.02.2020; BV9/045/2020 - zur Kenntnis genommen
