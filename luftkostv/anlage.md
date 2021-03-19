@@ -269,7 +269,8 @@ IV. Erlaubnisse und Berechtigungen für Luftfahrt- und Flugsicherungspersonal
   |  | a) | im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 1 LuftPersV | 110 bis 600 EUR |
   |  | b) | im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 2 LuftPersV | 110 bis 250 EUR |
   |  | c) | im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 3 LuftPersV | 110 bis 1 250 EUR |
-  | 10. | (weggefallen) |  |
+  | 10. | Prüfung der Erklärung und Mitteilung der Registrierung von erklärten Ausbildungsorganisationen nach Anhang ARA.DTO.100 der Verordnung (EU) Nr. 1178/2011 | 40 bis 100 EUR |
+  | 10a. | Überprüfung von Ausbildungsprogrammen und schriftliche Mitteilung über die Einhaltung der Anforderungen von Verordnung (EU) Nr. 1178/2011, Anhang I (Teil-FCL), DVO(EU) 2018/1976, Anhang III (Teil-SFCL) beziehungsweise VO(EU) 2018/395, Anhang III (Teil-BFCL) und Genehmigung von Ausbildungsprogrammen nach Anhang ARA.DTO.110 der Verordnung (EU) Nr. 1178/2011 | 40 bis 400 EUR |
   | 11. | Verlängerung eines Ausweises für Prüfer von Luftfahrtgerät oder einer Lizenz für freigabeberechtigtes Personal in Verbindung mit der Erneuerung der Prüfererlaubnis (§§ 109, 111a LuftPersV; Anhang III 66.A.40 der Verordnung (EU) Nr. 1321/2014) | 40 EUR |
   | 12. | Erteilung der Auszubildendenlizenz und zusätzlicher Erlaubnisse und Befugnisse für Fluglotsen (§ 12 FSPersAV), Erteilung der Erlaubnisse für das sonstige Flugsicherungsbetriebspersonal und für flugsicherungstechnisches Personal (§ 36 FSPersAV) | 80 EUR |
   | 13. | Erteilung der Fluglotsenlizenz und zusätzlicher Berechtigungen für Fluglotsen (§§ 14 und 15 FSPersAV), Erteilung der Berechtigungen für das sonstige Flugsicherungsbetriebspersonal und für flugsicherungstechnisches Personal (§ 38 FSPersAV) | 80 EUR |

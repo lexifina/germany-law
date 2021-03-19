@@ -1,9 +1,9 @@
 # Anlage 2 (zu § 125a)
 
-( Fundstelle: BGBl. I 2008, 1837 - 1838 )
+(Fundstelle: BGBl. I 2008, 1837 - 1838)
 Voraussetzungen für die
 Anerkennung von Stellen für die Abnahme von Sprachprüfungen
-1. Stellen, die vom Luftfahrt-Bundesamt für die Abnahme von Sprachprüfungen anerkannt werden, müssen über Folgendes verfügen:
+1. Stellen, die vom Luftfahrt-Bundesamt oder vom Luftfahrtamt der Bundeswehr für die Abnahme von Sprachprüfungen anerkannt werden, müssen über Folgendes verfügen:
   a) eine angemessene Anzahl qualifizierten Personals,
   b) eine Beschreibung der Verfahren, mit denen sichergestellt wird, dass bei der Prüfung die Vorgaben nach § 125 und § 125a eingehalten werden, die mindestens Angaben zu folgenden Punkten umfasst:
     (1)
@@ -38,6 +38,6 @@ Anerkennung von Stellen für die Abnahme von Sprachprüfungen
     (8)
     Angaben zur Aufbewahrung von Bescheinigungen und Aufzeichnungen,
   d) Räumlichkeiten zur Abnahme der Prüfungen mit einer angemessenen Ausstattung innerhalb der Bundesrepublik Deutschland.
-2. Die Unterlagen und Aufzeichnungen über die Bewertung werden für einen vom Luftfahrt-Bundesamt festgelegten Zeitraum aufbewahrt. Die Stellen erklären sich bereit, es dem Luftfahrt-Bundesamt jederzeit zu ermöglichen, bei einer Prüfung anwesend zu sein.
+2. Die Unterlagen und Aufzeichnungen über die Bewertung werden für einen vom Luftfahrt-Bundesamt oder vom Luftfahrtamt der Bundeswehr für ihren jeweiligen Zuständigkeitsbereich festgelegten Zeitraum aufbewahrt. Die vom Luftfahrt-Bundesamt anerkannten Stellen erklären sich bereit, es dem Luftfahrt-Bundesamt jederzeit zu ermöglichen, bei einer Prüfung anwesend zu sein.
 3. Für Stellen, die ausschließlich Neubewertungen nach § 125 Absatz 2 für die Stufe Einsatzfähigkeit abnehmen, kann das Luftfahrt-Bundesamt Ausnahmen von den oben genannten Voraussetzungen zulassen. Für die Abnahme von Prüfungen zur Neubewertung der Stufe Einsatzfähigkeit können auch Einzelpersonen anerkannt werden. Bei der Zulassung von Ausnahmen ist sicherzustellen, dass eine gleichbleibende Qualität gewährleistet bleibt.
 4. Das Luftfahrt-Bundesamt kann Ausnahmen von dem Erfordernis nach Nummer 1 d) zulassen, wenn die beantragende Stelle bereits über eine Anerkennung zur Ausbildung von Luftfahrern nach § 24 verfügt.
