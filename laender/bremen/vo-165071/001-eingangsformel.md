@@ -1,0 +1,4 @@
+## Einzelansicht Seitenanfang
+# Eingangsformel
+Aufgrund von § 93 Satz 1 der Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1133), die zuletzt durch Artikel 17 des Gesetzes vom 20. November 2019 (BGBl. I S. 1724) geändert worden ist, in Verbindung mit § 126 Absatz 1 Satz 1 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), die zuletzt durch Artikel 6 des Gesetzes vom 16. Oktober 2020 (BGBl. I S. 2187) geändert worden ist, und § 73 Satz 1 der Verordnung zur Durchführung der Schiffsregisterordnung in der Fassung der Bekanntmachung vom 30. November 1994 (BGBl. I S. 3631; 1995 I S. 249), die zuletzt durch Artikel 18 des Gesetzes vom 20. November 2019 (BGBl. I S. 1724) geändert worden ist, wird verordnet:
+Einzelansicht Seitenanfang
