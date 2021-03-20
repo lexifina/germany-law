@@ -414,8 +414,9 @@
 |  | § 150 | Einziehung |
 |  | § 151 | Wertpapiere |
 |  | § 152 | Geld, Wertzeichen und Wertpapiere eines fremden Währungsgebiets |
-|  | § 152a | Fälschung von Zahlungskarten, Schecks und Wechseln |
-|  | § 152b | Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks |
+|  | § 152a | Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten |
+|  | § 152b | Fälschung von Zahlungskarten mit Garantiefunktion |
+|  | § 152c | Vorbereitung des Diebstahls und der Unterschlagung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten |
 |  |  |
 | Neunter Abschnitt |
 |  | Falsche uneidliche Aussage und Meineid |

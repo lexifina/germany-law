@@ -263,8 +263,7 @@ staatlich geschützter Zeichen
 - [§ 124 Benutzen von Wappen oder Dienstflaggen](0124.md)
 - [§ 125 Benutzen des Roten Kreuzes oder des Schweizer Wappens](0125.md)
 - [§ 126 Mißbrauch von Berufstrachten oder Berufsabzeichen](0126.md)
-- [§ 127 Herstellen oder Verwenden von Sachen, die zur
-Geld- oder Urkundenfälschung benutzt werden können](0127.md)
+- [§ 127 Herstellen oder Verwenden von Sachen, die zur Geld- oder Urkundenfälschung benutzt werden können](0127.md)
 - [§ 128 Herstellen oder Verbreiten von papiergeldähnlichen
 Drucksachen oder Abbildungen](0128.md)
 - [§ 129 Einziehung](0129.md)

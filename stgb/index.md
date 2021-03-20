@@ -403,8 +403,9 @@ Unfallverhütungs- und Nothilfemitteln](0145.md)
 - [§ 150 Einziehung](0150.md)
 - [§ 151 Wertpapiere](0151.md)
 - [§ 152 Geld, Wertzeichen und Wertpapiere eines fremden Währungsgebiets](0152.md)
-- [§ 152a Fälschung von Zahlungskarten, Schecks und Wechseln](0152a.md)
-- [§ 152b Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks](0152b.md)
+- [§ 152a Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten](0152a.md)
+- [§ 152b Fälschung von Zahlungskarten mit Garantiefunktion](0152b.md)
+- [§ 152c Vorbereitung des Diebstahls und der Unterschlagung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten](0152c.md)
 
 ### Neunter Abschnitt Falsche uneidliche Aussage
 und Meineid
