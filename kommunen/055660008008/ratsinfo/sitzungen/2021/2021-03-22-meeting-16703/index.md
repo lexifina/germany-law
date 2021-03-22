@@ -1,0 +1,70 @@
+# Rat (132. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-03-22T18:00:00+01:00
+- Ende: 2021-03-22T20:50:00+01:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZa7eTYxshzqXDfQmuwP2SPg
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16703
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTzv5ftkwSShjnx_V4S0reQhCr-xxv36HAvlJLkUQTpb/Bekanntmachung_Rat_22.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeWKeSwzO_RiOXThZvQdwPfDPRzN_4NAvzPvrh9-lDwO/Oeffentliche_Niederschrift_Rat_22.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 17.12.2020
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Resolution zur Aussetzung der Elternbeitragspflicht für den Besuch von Kindertageseinrichtungen, Kindertagespflege, OGS und außerschulischen Betreuungsmaßnahmen, ¿Schule von acht bis eins¿, ¿Dreizehn Plus¿, ¿Pädagogische Übermittagsbetreuung¿ - Einstimmig
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 5.1: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Daniel Hellwig zur Aussetzung der Elternbeitragspflicht nach der Satzung zur Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) für den Monat Januar 2021 und folgende - Einstimmig
+- TOP 5.2: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters Oliver Kellner und des Ratsmitgliedes Daniel Hellwig zur Bedarfsmeldung Kindertagesbetreuung - Einstimmig
+- TOP 5.3: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Hellwig zur Genehmigung des Aufwands zur Beschaffung von Lizenzen eines Mobile Device Management und entsprechender Ausschreibung vor Rechtskraft des Haushaltes 2021 - Einstimmig
+- TOP 5.4: Genehmigung der Dringlichkeitsentscheidung des Bürgermeisters und eines Ratsmitgliedes zur Drucksache 53-2021 Bebauungsplan Nr. 11 "Hansestraße / Schützenstraße", 12. Änderung - Aufstellungsbeschluss - - Einstimmig
+- TOP 6.: Mitgliedschaft des Landwirtschaftlichen Ortsverbandes Emsdetten im Ausschuss für Klima, Umwelt und Mobilität - Einstimmig
+- TOP 7.: Beratende Mitgliedschaft der Emsdettener Schulleitungen im Ausschuss für Schule und Bildung - Einstimmig
+- TOP 8.: Sitzungsgelder für die Mitglieder des Fachbeirats für Digitalisierung und Mitgliedschaft des E.E.M. e.V. im Fachbeirat für Digitalisierung - Einstimmig
+- TOP 9.: Aufstellung eines qualifizierten Mietspiegels für nicht preisgebundenen Wohnraum in Emsdetten - Zur Kenntnis genommen
+- TOP 10.: Allgemeine Stadtentwicklungsplanung
+- TOP 10.1: Geförderter Wohnungsbau - Sachstand und Beratung politischer Anträge - 38 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: Bürgerbeteiligung Bau / Realisierung der Westumgehung - K53 N Durchführung einer direkten Bürgerbefragung/Abstimmung aller Bürgerinnen und Bürgern der Stadt Emsdetten - 22 Ja-Stimme(n), 18 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 12.: Interessensbekundung "Engagierte Stadt" - Einstimmig
+- TOP 13.: Verwaltungsorganisation
+- TOP 13.1: Organisation der Gebäudereinigung - 32 Ja-Stimme(n), 9 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Mitgliedschaft der Stadt Emsdetten im Freundeskreis des Hospizes "haus hannah" - Einstimmig
+- TOP 15.: Finanzangelegenheiten
+- TOP 15.1: Beteiligungsbericht 2019 - Einstimmig
+- TOP 15.2: Vertreter in der Gesellschafterversammlung Stadtwerke Emsdetten GmbH - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 16.: Stadtwerke Emsdetten GmbH
+- TOP 16.1: Stadtwerke Emsdetten GmbH und tkrz Stadtwerke GmbH: Änderung der Gesellschaftsverträge - Einstimmig
+- TOP 17.: Bebauungspläne
+- TOP 17.1: Vorhabenbezogener Bebauungsplan VEP Nr. 5 "Nahversorgungsstandort Im Hagenkamp" - Satzungsbeschluss - Einstimmig
+- TOP 17.2: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 17. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 18.: Förderantragstellung zum Anbau Heimatmuseum August-Holländer-Museum - Einstimmig
+- TOP 19.: Einreichen einer Projektskizze im Rahmen des Dritten Förderaufrufes "Modellprojekte Smart Cities - Förderrunde 2021¿ - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 20.: Antrag der Fraktion DIE GRÜNEN auf Einrichtung eines offenen WLAN in städtischen Unterkünften - 30 Ja-Stimme(n), 3 Gegenstimme(n), 8 Enthaltung(en)
+- TOP 21.: Satzungsrecht
+- TOP 21.1: Änderung der Richtlinie zur Förderung von Lastenfahrrädern und Lastenanhängern - (kein Text vorhanden)
+- TOP 21.1.1: Änderung der Richtlinie zur Förderung von Lastenfahrrädern und Lastenanhängern - 33 Ja-Stimme(n), 8 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Vertragliche Vereinbarung mit dem Caritasverband Emsdetten-Greven über die Förderung der Leitung des Kaufhaus der Caritas (KadeCa) - 25 Ja-Stimme(n), 14 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 23.: Umbau, Erweiterung sowie energetische Sanierung der Wilhelmschule Vorstellung der Vorentwurfsplanung - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 24.: EMS-HALLE - Projektstand - Zur Kenntnis genommen
+- TOP 25.: Überprüfung der Gashochdruckleitung im Zusammenhang mit den 5 städtischen Eichen im Biekmeresch - Ergebnisse der Untersuchung der Alternativtrasse - - 40 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 26.: Bauprogramm Kanalerneuerung Marienstraße (zwischen Jutestraße/Bahntrasse und Münsterstraße) - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 27.: Umgestaltung Kirchstraße - 38 Ja-Stimme(n), 1 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 28.: Straßenplanung Blumenstraße
+- TOP 28.1: Beschluss über die Straßenplanung Blumenstraße - (kein Text vorhanden)
+- TOP 28.2: Ergänzung zur Beschlussvorlage Drucksache 6/2021 - Anregungen und Abwägungen aus der Bürgerinformationsveranstaltung und Abwägungen zu dem Antrag der SPD-Fraktion vom 18.01.2021 - (kein Text vorhanden)
+- TOP 28.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.: Ruhebänke im Stadtgebiet - Entscheidung über das Konzept - Einstimmig
+- TOP 30.: Ausbau einer Finnenbahn an der Blumenstraße - 8 Ja-Stimme(n), 31 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 31.: Einführung von Schrägbordsteinen zur regelmäßigen Absenkung in Grundstückszufahrten - Antrag der Fraktion "Die Linke" - Einstimmig
+- TOP 32.: Umrüstung Strassenbeleuchtung Innenstadt - Einstimmig
+- TOP 33.: Stellenplan
+- TOP 33.1: Stellenplan 2021 - 40 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 34.: Etat / Budget
+- TOP 34.1: Haushaltssatzung und Haushaltsplan 2021 - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 35.: Verschiedenes
