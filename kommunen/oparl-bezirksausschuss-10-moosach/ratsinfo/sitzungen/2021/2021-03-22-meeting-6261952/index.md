@@ -1,0 +1,62 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-03-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6261952
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6261952
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: 1. Ladung des Vollgremiums zur Sitzung am 22.03.2021 2. Aufhebung des in der Sitzung am 22.02.2021 gebildeten Sonderausschusses ab der Sitzung am 22.03.2021 3. Bildung eines erneuten Sonderausschusses für die Folgesitzungen am 19.04.2021 und 17.05.2021
+- TOP 2.1.: Einrichtung eines Zebrastreifens über die Eininger Straße (zwischen Günzburger Platz und Josef-Knogler-Straße)
+- TOP 2.2.: Geschwindigkeitsbegrenzung auf 30 km/h in der Lauinger Straße aus Lärmschutzgründen
+- TOP 2.3.: Drei neuralgische Stellen in Moosach in Bezug auf Sicherheit der (jungen) Verkehrsteilnehmer
+- TOP 2.4.: Parksituation (Gehwegparken) Meggendorfer Straße zur Hardenbergstraße; Einrichtung von Haltverboten
+- TOP 2.5.: BA21: "Verbesserung der Baumschutzverordnung gegen illegale Fällungen" mit der Bitte um Unterstützung
+- TOP 2.6.: Beteiligung an Planungen zur Gedenkveranstaltung OEZ-Attentat - nicht-öffentlich -
+- TOP 3.1.1.: Nachtspaziergang mit dem Baureferat zur Thematik "schlechte Beleuchtunssituation an diversen Örtlichkeiten im 10. Stadtbezirk"; hier: Vorschläge des BA10 zur örtlichen Verbesserung des Sicherheitsgefühls
+- TOP 3.2.1.: Einladung BA23 zu einem gemeinsamen Ortstermin Waldhornstraße/ Brieger Straße (-> vertagt aus Sitzung 12/2020, 01 und 02/2021]
+- TOP 3.3.1.: Bauvorhaben: 1. Bautzener Str. 6a, 12a, 18a, 26 2. Abensbergstr. 59-61
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Bautzener Str. 6a, 12a, 18a, 26 (-> BV siehe TOP 3.3.1.1) 2. Am Neubruch 39 - 41
+- TOP 3.3.3.: Baumfällungen (Baumschutz): - auf Aufruf -
+- TOP 3.3.4.: Werbeanlagen: 1. Dachauer Straße (Versetzung City-Light-Säule)
+- TOP 4.1.1.: Schulzentrum Gerastr. 6: Nächtliches Abschalten der Beleuchtung und Reduzierung Beheizung in Schließungszeiten
+- TOP 4.1.2.: Künstlerische Neugestaltung der Unterführung für Fußgänger*innen und Radfahrer*innen am Moosacher Bahnhof
+- TOP 5.1.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. / Münchner Kinder- und Jugendforum Abschlussveranstaltung für das Stadtteilprojekt „Ran an die Koffer!“ vom 26.06. - 09.07.2021 4.800,00 € / Az. 0262.0-10-0250
+- TOP 5.2.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München Heilig-Geist MooKi – Lern- und Freizeitangebot vom 14.04. - 31.12.2021 3.000,00 € / Az. 0262.0-10-0251
+- TOP 6.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG): Änderung (Erneuerung) der Eisenbahnüberführung über die Dachauer Straße in München-Moosach...
+- TOP 6.2.: Corona-Pandemie / Änderung der Bezirksausschusssatzung / Sonderausschüsse / Verlängerung bis zum 31.12.2021
+- TOP 6.3.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse
+- TOP 6.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Emmy-Noether-Str. 3; Einrichtung eingeschränktes Haltverbot an der Kita 2. Bauberger- und Großbeerenstraße: Einrichtung von 4 Haltverbotszonen
+- TOP 6.5.: Anschaffung eines Ersatzspielgerätes am Spielplatz Claudiusplatz
+- TOP 6.6.: "Waffelwerk" Pelkovenstr. 42: Neuantrag und Corona-FSF-Erweiterungsantrag für eine Freischankfläche
+- TOP 7.1.: Grünanforderung Ampel für Fußgänger Kreuzung Sapporobogen/ Postillonstraße - Dachauer Straße [Schreiben BA10 vom 25.01.2021; Erprobungsphase für eine Daueranforderung für Fußgängerquerungen seit 11.02.21 in verkehrsreichen Zeiten (wochentags zwischen 7.00 und 21.00 Uhr) mit Option auf Dauer]
+- TOP 7.2.: Maßnahmen zur Verbesserung der Verkehrssicherheit in der Eininger Straße Ecke Holledauer Straße und Donaustaufer Straße [BA-Antrag Nr. 20-26/B01234; keine Notwendigkeit für die Anbringung eines Verkehrsspiegels]
+- TOP 7.3.: Erweiterung des Revivals der Olympischen Spielstraßen [BA-Antrag Nr. 20-6/B01501; Einbeziehung des S-Bahnhof Olympiastadion und der Bewohner*innen der Olympiapressestadt ist in Organisation]
+- TOP 7.4.: Umgestaltung Radweg Dachauer Straße (2-Richtungsradweg) zwischen Georg-Brauchle-Ring und Feldmochinger Straße stadtauswärts (-> Zwischennachricht zu vom BA10 abgelehnter BV-Empfehlung; Sitzung 20.01.20, TOP 5.5) [geänderte Sachlage mit dem Beschluss zur Umsetzung des Bürgerbegehrens Radentscheid 3. und 4. Maßnahmenbündel: für den Knotenpunkt Dachauer Str/Wintrichring/ Georg-Brauchle-Ring wird Umverteilung zu Gunsten des Radverkehrs geplant]
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Einkaufszentrum "Meile Moosach"; Wegweisung zum Parkhaus 2. Bunzlauer Platz; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 8.2.: (U) Ausbau Bahnüberführung Dachauer Straße mit Offenthaltung der Durchfahrt für eine Tram
+- TOP 8.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 8.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2020 - 2024 mit verbindlicher Planung für 2025 für das Baureferat
+- TOP 8.5.: (U) A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/39 Bingener Straße (westlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße und Triebstraße und Bebauungsplan mit Grünordnung Nr. xxxx Bingener Straße (westlich), Thorner Straße (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße sowie Triebstraße Botanikum B) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes - Aufstellungs- und Eckdatenbeschluss - C) Bebauungsplan mit Grünordnung Nr. 1740 Feldmochinger Straße (westlich), Bahnlinie München-Regensburg (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße - Aufhebung eines Aufstellungsbeschlusses - Stadtbezirk 10 Moosach
+- TOP 8.6.: Eingeleitetes Vorkaufsrechtsprüfungsverfahren nach dem BauGB: - nicht-öffentlich - Bingener Straße
+- TOP 8.7.: Mobilfunk: - nicht-öffentlich - 1. Neubau einer Mobilfunksendeanlage: Puchheimer Straße
+- TOP 4.: Anträge
