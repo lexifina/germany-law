@@ -1,0 +1,69 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-23T16:00:00+01:00
+- Ende: 2021-03-23T19:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20497
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20497
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405063.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405063.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405063.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/002/2021 - vertagt
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Workshopverfahren Nr. 02/018 - Werdener Straße/Erkrather Straße (ehem.B8-Center) - Empfehlung einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 6: Einrichtung einer Radverkehrsspur auf der Graf-Recke-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 7: Anpassung der Bordsteinabsenkung an der Ecke Dorotheenstraße / Birkenstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 8: Verbesserung der Situation für Radfahrende auf der Heinrichstraße - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 9: Schallschutzwände Stadtwerkepark - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 10: Ortsumgehung Flingern - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Hanielpark / Eingang Hans-Sachs-Strasse - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 14: Gestaltung Eingangsbereiche Stadtwerkepark - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 15: Anwohnerparken im Stadtbezirk 2 - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 16: Zuschuss an die Carl-Sonnenschein-Schule für "Mein Körper gehört mir“ aus den bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Haushaltsmittel für die Carl Sonnenschein Schule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 18: Zuschuss an die Carl-Sonnenschein-Grundschule für das Präventionsstück "Mein Körper gehört mir" in Höhe von 2.276,00 Euro aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 19: Zuwendungsantrag zu den Blumenoasen von Pro Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 20: Bezirksbezogene Haushaltsmittel für Blumenkübel auf der Birkenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 21: Finanzierung von 50 Blumenkübeln für das Jahr 2021 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 22: Bezirksbezogene Haushaltsmittel für die Publikation „Earth Is Blue“ - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 23: Vorstellung des Projekts zur Realisierung einer Publikation zu der am Goethe-Gymnasium verwirklichten großformatigen Arbeit Earth is Blue durch die Künstlerin Selma Gültoprak - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 24: neue Bänke auf der Hans-Sachs-Straße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 25: Fußweg Lindemannstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 26: Ladesäuleninfrastruktur für Elektrofahrzeuge - Anfrage der FDP-Fraktion - beantwortet
+- TOP 27: Gleisanlage beginnend südlich der Birkenstraße 1 - Anfrage der FDP-Fraktion
+- TOP 28: Geplante und zu prüfende Ersatzpflanzungen von Straßenbäumen im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 29: Kleingärten Flinger Broich - Anfrage der FDP-Fraktion
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Bauvorhaben Otto-Petersen-Straße 40,42 - Anfrage der CDU-Fraktion
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Mobilitätshubs - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 35: Anwohner*innenparken & Parkraumbewirtschaftung im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Parkplätze Grafenberger Allee zwischen Ivo-Beucker-Straße und Sohnstraße, stadteinwärts - Anfrage der CDU-Fraktion
+- TOP 40: Anleitern der Feuerwehr über Vorgärten - Anfrage der CDU-Fraktion - beantwortet
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 43: Fußgängerüberweg Brehmstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/029/2021 - zur Kenntnis genommen
+- TOP 44: Haushalt 2021 - Stellungnahme zu den Beschlüssen der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 45: Vollzeitbetrieb für die Linie 708 - Beschluss der Bezirksvertretung 2, Vorlage BV2/126/2020 - zur Kenntnis genommen
+- TOP 46: Platz bzw. Mittelinsel Kreisverkehr Humboldtstraße/EckeSchumannstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/184/2020 - zur Kenntnis genommen
+- TOP 47: Beleuchtungs- und Bepflanzungskonzept Brehmplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/014/2021 - zur Kenntnis genommen
+- TOP 48: Schaffung zusätzlicher Fahrradabstellmöglichkeiten im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2 , Vorlage BV2/038/2021 - zur Kenntnis genommen
