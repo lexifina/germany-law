@@ -1,0 +1,8 @@
+# TOP -: Antwort der Verwaltung vom 23.03.2021
+
+- Sitzung: 5. Sitzung des Rates (2021-03-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/319606
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/150831
