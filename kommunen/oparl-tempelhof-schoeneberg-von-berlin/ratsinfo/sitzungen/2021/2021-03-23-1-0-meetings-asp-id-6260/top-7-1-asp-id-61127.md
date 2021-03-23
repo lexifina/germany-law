@@ -1,0 +1,8 @@
+# TOP 7.1: Geeignete Immobilien für Obdachlose benennen
+
+- Sitzung: 34. öffentliche Sitzung des Ausschusses für Facility Management - Die Sitzung wird im Videocall stattfinden, Informationen dazu entnehmen Sie bitte dem INFOBLATT Videocall (2021-03-23)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=61127
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=61127
