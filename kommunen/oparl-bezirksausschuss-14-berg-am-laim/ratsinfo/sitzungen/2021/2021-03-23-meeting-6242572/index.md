@@ -1,0 +1,111 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-03-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242572
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242572
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Bürgerfragen
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1.: Bitte wenden Sie sich am Sitzungstag des jeweiligen Unterausschusses an die BA-Geschäftsstelle und erfragen Sie, ob die Sitzung tatsächlich stattfindet bzw. ob Sie teilnehmen können. Aufgrund Corona finden die Sitzungen auch kurzfristig online statt.
+- TOP 5.1.1.1.: Am Dienstag, den 16.03.2021, um 19.00 Uhr, voraussichtlich im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.2.1.: Am Montag, den 15.03.2021, um 19.15 Uhr, voraussichtlich in der Mensa der Ludwig-Thoma-Realschule, Fehwiesenstr. 118.
+- TOP 5.1.3.1.: Am Dienstag, den 16.03.2021, um 18.00 Uhr, voraussichtlich im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.4.1.: Am Donnerstag, den 18.03.2021, um 18.30 Uhr, voraussichtlich im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.5.1.: Am Montag, den 15.03.2021, um 18.00 Uhr, voraussichtlich in der Mensa der Ludwig-Thoma-Realschule, Fehwiesenstr. 118.
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.2.1.: Protokoll/e vom 23.02.2021
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Mutschellestr. 36, Aufstockung eines Zweifamilienhauses für ein vollwertiges Obergeschoss und Fassadendämmung
+- TOP 3.1.2.: Blombergstr. 22, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.1.3.: Bitte um Unterstützung / Zustände Innenhof Berg-am-Laim-Str. 76-82, Bürgeranliegen
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Ergebnisse des Abschlussberichts zum Pilotprojekt "Gebietsmanagement Neumarkter Straße" umsetzen, Antrag CSU-Fraktion und FDP
+- TOP 3.2.2.: Verhinderung des Parkens auf dem Grünstreifen in der Truderinger Straße; Bürgeranliegen
+- TOP 3.2.3.: Öffnung der einbahngeregelten Heufelder Straße für den gegenläufigen Radverkehr - Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.4.: Installation einer Fußgängerampel an der Kreuzung Thomas-Hauser-/Xaver-Weismor-Straße; Bürgeranliegen
+- TOP 3.2.5.: Bad-Kissingen-Straße und Heilbrunner Straße; Lösungen für Müllabfuhr und Rettung - Anhörung durch das Mobilitätsreferat - (vertagt aus 02/2021) Fragenkatalog von Anwohner*innen der Bad-Kissingen-Straße und Heilbrunner Straße
+- TOP 3.2.6.: Parken auf dem Bürgersteig vor Abex Innsbrucker Ring 44; Bürgeranliegen
+- TOP 3.2.7.: Prüfung eines Halteverbotes in der Spielstraße Auf dem Wasen, Bürgeranliegen
+- TOP 3.2.8.: Weitere Planungen für die Kreillerstraße/Berg-am-Laim-Straße/Wasserburger Landstraße (B304): Bürgerbefragung zugrunde legen!, Antrag CSU-Fraktion
+- TOP 3.2.9.: Rotmarkierung der Kreuzung des Radwegs über die Haflinger Straße und Versetzung der Litfaßsäule, Antrag Fraktion Die Grünen
+- TOP 3.2.10.: Durchgängiger Weg für Fußgänger entlang der Waldstraße, Antrag FDP und CSU-Fraktion
+- TOP 3.2.11.: Wegeverbindung zur Ökologischen Vorrangfläche Baumkirchen Mitte, Antrag CSU-Fraktion
+- TOP 3.2.12.: Spurverengung in der Haager Straße zur Verkehrsberuhigung erhalten; Bürgeranliegen
+- TOP 3.2.13.: Anfrage temporärer Wochenmarkt, Flurstück Fl.Nr. 267/8, Gemarkung Berg am Laim; Marktwägen an der U-Bahnhaltestelle Michaelibad; BA-Antrag Nr. 20-26/B 00995 - Anfrage der Markthallen München -
+- TOP 3.2.14.: Etablierung eines Wochenmarktes im Umgriff um den ehemaligen Busbahnhof Michaelibad, Antrag BA 14
+- TOP 3.2.15.: Konzept zur Unterstützung der lokalen Ökonomie in Berg am Laim erarbeiten, Antrag CSU-Fraktion und FDP
+- TOP 3.2.16.: Runder Tisch - Leerstand Berg am Laim, Antrag CSU-Fraktion
+- TOP 3.2.17.: Kulturzentrum Trudering wird demnächst zum Sendestudio; BA 14 nutzt diese Technik und streamt die Sitzungen live; Antrag Fraktion FW/ÖDP (vertagt aus 01/21 und 02/21) - Antwortschreiben des Direktoriums auf Anfrage des BA 14 -
+- TOP 3.2.18.: Anfrage an die Stadtwerke zum weiteren Ausbau des Internet-Glasfasernetzes speziell in Berg am Laim, Antrag Fraktion FW/ÖDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Flutlichtanlage FC Phönix München; Antrag SPD-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.1.: Corona-Pandemie, Änderung der Bezirksausschusssatzung, Sonderausschüsse Verlängerung bis zum 31.12.2021 - Anhörung durch das Direktorium -
+- TOP 3.5.2.: (E) Stadtbezirksbudget AWO Kreisverband München-Land e.V. Naturpädagogisches Projekt für Kinder von März bis November 2021 7.071,50 € / Az. 0262.0-14-0286
+- TOP 3.5.3.: Antrag auf Bestellung städtischer Leistungen: hier: Errichtung von 2 Tischtennisplatten im kleinen Park am Maria-Eck-Platz Bürgeranliegen (vertagt aus 12/20 und 02/21)
+- TOP 3.5.4.: Installation einer wetterfesten Tischtennisplatte am Überseeplatz (vertagt aus 02/21)
+- TOP 3.5.5.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse - Anhörung durch das Direktorium -
+- TOP 3.6.1.: Praschlerstr. 29
+- TOP 3.6.2.: Kreuzjochstr. 9
+- TOP 3.6.3.: Schüleinplatz 4
+- TOP 3.6.4.: Hansjakobstr. 48b
+- TOP 3.6.5.: Truderingerstr. 219 Thomas-Hauser-Str. 1-3
+- TOP 3.6.6.: Blombergstr. 22, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 08.02.2021 bis 07.03.2021
+- TOP 4.1.2.: Firma RF 360 Europe GmbH - Änderungsgenehmigungsverfahren, Unterrichtung des BA über ergänzend eingereichte Antragsunterlagen bzw. um die Stellungnahme zum Schreiben des BA
+- TOP 4.1.3.: Baumkirchner Str. 1, Fl.Nr. 103/0, Gemarkung Berg am Laim Denkmal, Altort Café Mahlerhaus - Bitte um regelmäßige Prüfung des Zustands des Baudenkmals - Antwortschreiben durch das Referat für Stadtplanung und Bauordnung -
+- TOP 4.1.4.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 4.1.5.: Praschlerstr. 29, Überprüfung der Baustelle - Antwortschreiben des Referates für Stadtplanung und Bauordnung aufgrund Bürgerbeschwerde -
+- TOP 4.1.6.: Barrierefreiheit II: Öffentliche Sitzbänke in Online-Karten veröffentlichen
+- TOP 4.1.7.: Barrierefreie Müllentsorgung mit Unterflurcontainern
+- TOP 4.1.8.: Toilette für alle im Kulturbürgerhaus
+- TOP 4.1.9.: Zwischeninformation für den BA 14 und den BA 16 zum Projekt Geothermie Michaelibad
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! - Antrag des BA 17 mit der Bitte um Unterstützung -
+- TOP 4.2.2.: Ansprechpartner*innen für die BAs bei der MVG
+- TOP 4.2.3.: Behindertenparkplätze Mühldorfstraße/Innsbrucker Ring
+- TOP 4.2.4.: Parksituation Grafinger Str./ Piusplatz
+- TOP 4.2.5.: Fahrradroute quer durch Ramersdorf - Antrag des BA 16 mit der Bitte um Unterstützung -
+- TOP 4.2.6.: Ausschilderung Lift am Ostbahnhof
+- TOP 4.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.8.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Sammelantrag auf Spielaktionen der AG Spiellandschaft Stadt 2021 14. Stadtbezirk: Grünflächen Maikäfersiedlung, Rosenheimer Bahndamm (Schwanhildenweg/ Josef-Ritz-Weg), Grünzug St.-Veit-Straße, Piusplatz
+- TOP 4.3.2.: Bekanntmachung Anita-Augspurg-Preis
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Antrag: Vergabe von kostenlosen FFP2 Atemschutzmasken an Einwohner*innen im Stadtbezirk Berg am Laim
+- TOP 4.4.2.: (U) Haushaltsplan 2021 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2021 Vollzug des Haushaltsplanes 2021 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 4.4.3.: (U) Neuerrichtung eines Nachbarschaftstreffs im Werksviertel Bebauungsplan mit Gründordnung Nr. 2061 14. Stadtbezirk - Berg am Laim
+- TOP 4.4.4.: (U) Ausgabe von FFP2-Masken Bekanntgabe der Dringlichen Anordnung des Oberbürgermeisters vom 21.01.2021 Kostenlose FFP2-Masken für Sozialleistungs- und München-Passbeziehende Antrag Nr. 20-26 / A 00917 .... Corona-Maßnahmen sozial und gerecht - FFP2-Masken kostenlos für Sozialhilfeempfänger*innen, Schüler*innen und München-Pass-Träger*innen Antrag Nr. 20-26 / A 00923 .... Sozial benachteiligten Münchner*innen kostenfreien Zugang zu FFP2-Masken ermöglichen! Antrag Nr. 20-26 / A 00924 .... FFP2-Masken Antrag Nr. 20-26 / A 00887 ....
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Barrierefreiheit I: BA-Website in leichter Sprache
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen - Antrag des BA 21 mit der Bitte um Unterstützung -
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.3.1.: Pilotprojekt Lärmdisplays - Anfrage des Referates für Klima und Umwelt -
