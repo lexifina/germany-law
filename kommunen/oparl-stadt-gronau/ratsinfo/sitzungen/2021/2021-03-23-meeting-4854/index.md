@@ -1,0 +1,63 @@
+# Ausschuss für Mobilität, Umwelt und Klimaschutz (2. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-03-23T18:05:00+01:00
+- Ende: 2021-03-23T21:48:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXQMlAwqwhYpdpQl_opHcds
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4854
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Mobilität, Umwelt und Klimaschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRa8z3RZTS8xcV4hVd2NleTpp9tscvVS7m3ObMQPGk2o/Oeffentliche_Niederschrift_Ausschuss_fuer_Mobilitaet-_Umwelt_und_Klimaschutz_23.03.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 25.11.2020
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Bildung einer Baumschutzkommission – Antrag der Fraktion pro:Bürgerschaft - 9 Jastimmen, 5 Neinstimmen, 2 Enthaltungen
+- TOP 3.2: Verwendung gesammelter Spenden zur Förderung der Verkehrssicherheit – Antrag der WEG-Fraktion - Einstimmig, 0 Enthaltungen
+- TOP 3.3: Antrag der Fraktion pro:Bürgerschaft vom 28.01.2021; Einrichtung einer gesicherten Querungshilfe im Straßenraum Beethovenstraße / Gildehauser Straße / von-Steuben-Straße - Einstimmig, 0 Enthaltungen
+- TOP 3.4: Antrag der Fraktion pro:Bürgerschaft vom 09.02.2021; Abschaffung bzw. Reduzierung von Papiercontainer-Standorten - 13 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 3.5: Vermüllung der Containerstandorte Anträge der Fraktionen WEG, SPD und UWG - Einstimmig, 0 Enthaltungen
+- TOP 3.6: Antrag der UWG-Fraktion vom 05.03.2021; Maßnahmen gegen Verunreinigungen durch Hundekot - Einstimmig, 0 Enthaltungen
+- TOP 3.7: Antrag der Fraktion Bündnis 90/Die Grünen vom 10.03.2021; Aufstellung eines artenschonenden Pflegeplans für die Randstreifen an kommunalen Wirtschaftswegen - Einstimmig, 0 Enthaltungen
+- TOP 3.8: Antrag der Fraktion SPD vom 10.03.2021; Deutliche Kennzeichnung der Fahrradstraßen - 15 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 3.9: Antrag der Fraktion SPD vom 10.03.2021; Verlängerung der Fahrradstraße Eschweg und Anbindung an die Konrad-Adenauer-Straße - Einstimmig, 1 Enthaltungen
+- TOP 3.10: Antrag der Fraktionen SPD u. B90/Die Grünen vom 10.03.2021; Sachstandsbericht Arbeitskreis Klimaschutz - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anregungen und Beschwerden gem. §24 GO NW
+- TOP 4.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 2/2021: Bürgerantrag vom 28.01.2021 "Neubau am Parkweg in Gronau-Epe - Anpflanzung von Bäumen" - Einstimmig, 1 Enthaltungen
+- TOP 5.: Mobilitätskonzept Gronau - aktueller Stand
+- TOP 6.: Bildung von Arbeitskreisen als Unterausschuss des Ausschusses für Mobilität, Umwelt und Klimaschutz - Einstimmig, 0 Enthaltungen
+- TOP 7.: Vorstellung der Klimaschutzmangerin
+- TOP 8.: Neufassung der Satzung über die Abfallentsorgung in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 9.: Unterstützung der Arbeit des Naturschutzbundes Deutschland (NABU) Kreisverbandes Borken e. V. - Einstimmig, 0 Enthaltungen
+- TOP 10.: Wirtschaftswegeerneuerung 2021
+- TOP 11.: Budgetentwurf 2021 hier: Teilbudget des Vorstandsbereiches 4
+- TOP 11.1: Budgetentwurf 2021 hier: Teilbudget des Vorstandsbereiches 4 - 12 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 12.: Zusätzliche Fahrradbügel am Bahnhof Gronau - Einstimmig, 0 Enthaltungen
+- TOP 13.: Verkehrsberuhigung Gronauer Straße - Einstimmig, 1 Enthaltungen
+- TOP 14.: On-Demand-Verkehr Gronau - aktueller Stand
+- TOP 15.: Vertrag über die Organisation und den Aufwendungsersatz des Orts- und Stadtbusverkehrs in Gronau
+- TOP 16.: Straßenendausbau der Straßen im Geltungsbereich des Bebauungsplans Nr. 145 (Luisenstraße, Heinrich-Michalsky-Straße, Walburgweg, Clementinenweg, Glanemanns Weg und Kurfürstenstraße) Beschluss des Bauprogramms - 15 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Ausbauprogramm für die von-Keppel-Straße (von Agathastraße bis Hindenburgring) auf der Grundlage des Bestandsplans - Einstimmig, 1 Enthaltungen
+- TOP 18.: Benennung von neuen Straßen 1) Neubaugebiet östlich der Eichenhofstraße (B-Plan Nr.187) 2) Neubaugebiet zwischen Schöttelkotter Damm und Kurzer Weg (B-Plan Nr.172 Kurzer Weg) - Einstimmig, 3 Enthaltungen
+- TOP 19.: Benennung eines grenzüberschreitenden Radwegs im Bereich Tieker Damm - Einstimmig, 1 Enthaltungen
+- TOP 20.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Aktueller Stand Bahnhof Epe
+- TOP 21.2: Treppe Schulstraße
+- TOP 21.3: Ostumgehung Epe
+- TOP 21.4: Petition Kurfürstenstraße
+- TOP 21.5: Müllsammelaktion
+- TOP 22.: Anfragen
+- TOP 22.1: Schriftliche Anfrage CDU: Reparaturmaßnahmen Alfertring
+- TOP 22.2: Schriftliche Anfrage CDU: Bauweise Radweg Alfertring
+- TOP 22.3: Schriftliche Anfrage CDU: Zeitplan Alfertring
+- TOP 22.4: Schriftliche Anfrage WEG: Containerstandorte
+- TOP 22.5: Schriftliche Anfrage WEG: Arena-Frischemarkt
+- TOP 22.6: Schriftliche Anfrage WEG: Gefahrenstelle Steinstraße
+- TOP 22.7: Fahrradstellplätze Bürgerhalle
+- TOP 22.8: Schlaglöcher Containerstandort Alfertring
