@@ -1,0 +1,106 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-23T17:00:00+01:00
+- Ende: 2021-03-23T19:10:00+01:00
+- Ort: Marie-Curie-Gymnasium,  Pädagogisches Zentrum, Gräulinger Straße 15
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20419
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20419
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405052.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405052.pdf
+- Wortprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405052.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 09.03.2021 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 01.12.2020 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.2: Bebauungsplan-Entwurf Nr. 07/004 - Ernst-Poensgen-Allee 3 - Empfehlung mehrheitlich beschlossen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Wiederwahl einer Schiedsperson - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.7: Städtebaulicher Wettbewerb Nr. 07/013 - Park Ludenberg - Blanckertzstraße - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - einstimmig abgelehnt
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - abweichend beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - abweichend beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - einstimmig beschlossen
+- TOP 4.13: Sofortprogramm zur Stärkung unserer Innenstädte und Stadtteilzentren - zur Kenntnis genommen
+- TOP 4.14: "Landpartie Grafenberg" auf der Galopprennbahn im Jahre 2021 - einstimmig beschlossen
+- TOP 4.15: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Josef-Neuberger-Straße als Einbahnstraße - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.2: Wegeausbesserung Spazierweg Friedrich-Wilhelm-Straße Richtung Quadenhofstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.3: Sanierung Ottostraße/Vereinsstraße und Beteiligung der Netzgesellschaft - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.4: Tempo 30 auf der Heyestraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.5: Maßnahmen zur Verbesserung der Verkehrssicherheit der Kreuzung Quadenhofstraße/Rigastraße.- Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Verlängerung des Linksabbiegefahrstreifens Simrockstraße-Vautierstraße (B 7) - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.7: Recyclinghof - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.11: Unterflurcontaineranlage Grafenberger Allee 368 - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Benennung des Weges entlang der Limburgstraße/Ostpark nach Karl-Ludwig Resch - Antrag der Fraktionen von CDU, Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.14: Umbau Umlaufschranken - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.15: Pumptrack-Anlage - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.17: Neugestaltung des Spielbereiches der GGS Knittkuhl, Am Mergelsberg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.18: Einebnung und Sicherung des Spielbereiches und angrenzenden Walls der GGS Knittkuhl, Am Mergelsberg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.19: Einrichtung einer Stopp-Straße Im Brühl Einmündung Morper Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.20: Shared Space auf der Hülsmeyerstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.21: Geschwindigkeitsanzeigentafel Hardtstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.22: Hundekot – Beutelspender und Mülleimer für die Zugänge in den Grafenberger Wald - Antrag der FDP-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.23: Einrichtung einer Schnellbuslinie Flughafen – Ratingen – Knittkuhl – Hubbelrath – Erkrath – Gerresheim - Antrag der FDP-Fraktion - - vertagt
+- TOP 5.24: Platz für Jugendliche in Gerresheim schaffen - Antrag der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - abweichend beschlossen
+- TOP 5.25: Baumschutz und Neupflanzungen - Antrag der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Erwerb des Kasernengeländes „Bergische Kaserne“ durch die Stadt Düsseldorf - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Landesfördermittel für die Heyestraße - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.4: Behindertengerechte Spielplätze im Bezirk 7 - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Straßenbeleuchtung Pfeifferstraße -Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.3: Beginn Umbau Gerresheim S-Bahnhof - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Straßenbahn über Dreherstraße/Torfbruchstraße zur Anbindung des Neubaugebiets - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Digitalisierung an den Schulen im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.12: Entwicklung der E-Scooter im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.14: Fußweg Zamenhofweg - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 8.2: Ladestationen für E-Autos im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.3: Sammelstelle Gartenabfälle Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.4: "Essbare Stadt" für die Neugestaltung Gutenbergspielplatz - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.5: Barrierefreier Ausbau der Rampe Friedrich-Wilhelm-Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.6: Verkehrssicherheit Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.7: Hundeauslaufplatz an den Gerresheimer Höhen Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.8: Winterfällungen 2020/2021 - zur Kenntnis genommen
+- TOP 8.9: Parkbuchten Hardtstraße instand setzen - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.10: Befestigung der Wege am Pillebach - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.11: Geschwindigkeitsanzeige Sichelstraße - Informationsvorlage zum Beschluss der BV 7 vom 10.11.2020 - - zur Kenntnis genommen
+- TOP 8.12: Haushalt 2021: Bedarfsampel für die Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.13: Haushalt 2021: Bedarfsampel Torfbruchstraße - Josef-Neuberger-Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.14: Haushalt 2021: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbel- und Karlsbader Straße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.15: Haushalt 2021: Überbrückungshilfe Quartiersmanager Grafenberg und Düsseltal - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.16: Städtebaulicher Wettbewerb - Metro Campus - Durchführung des Wettbewerbsverfahrens - Informationsvorlage zum Beschluss der BV 7 vom 10.11.2020 - - zur Kenntnis genommen
