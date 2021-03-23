@@ -1,0 +1,72 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-23T17:00:00+01:00
+- Ende: 2021-03-23T19:00:00+01:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20107
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20107
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405168.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405168.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405168.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Verlagerung der 2 gruppigen Kindertageseinrichtung Otto-Braun-Straße 20 zum Standort Koblenzer Str. 123 und Erweiterung um zwei Gruppen - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Verfügungsmittel der BV 10, Zuschuss an den Förderverein des Montessori-Kinderhauses St. Matthäus - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Garath 2.0 - Gestaltungsleitfaden - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2021 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Zusätzliche Sitzungen der Bezirksvertretung 10 - Vorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Entwicklung der baulichen Barrierefreiheit in Gebäuden im Bereich der Einrichtungen für Kultur und Gesundheitsversorgung im Stadtbezirk 10 - Anfrage der BÜ90/Die Grünen-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Grundstück des ehemaligen Jugendclubs Lüderitzstraße - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Versorgungsquote der „Unter-Drei-Jährigen“ - Nachfrage der SPD-Fraktion zur Beantwortung der Vorlage BV10/008/2021 vom 26.01.2021 - - schriftlich beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Energieverbrauch im Stadtbezirk 10 und Perspektiven - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - zurückgestellt
+- TOP 6.7: Leistungsfähigkeit Stromnetz - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Regelmäßige Reinigung der Unterführung Koblenzer Straße (Nettomarkt) - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Einrichtung eines kostenfreien Hotspots in Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Aufstellung eines Papierkorbs an der Aussichtsplattform der Urdenbacher Kämpe - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Einsatz Ordnungs- und Servicedienst im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 7.5: Grundstücke für Ersatz- und Neupflanzungen von Bäumen - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 7.6: Information über stadtbezirksbezogene Konferenzen, Gremien, Arbeitsgruppen etc. - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.7: Linienführung Radschnellweg - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.8: Pflege Rad- und Fußwege im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.9: RRX-Ausbau / Lärmschutzwände - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Instandsetzung des gesamten Fuß- und Radweges entlang des Mühlenbachs - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.13: Aufnahme in die Radwegplanung des Kreisverkehrs an der Kreuzung Hellerhofweg / Rudolf Breitscheid-Straße / Graf von Stauffenberg-Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.14: Befestigung des Fußweges zum Aufgang Rodelberg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.15: Runder Tisch „Mehr Leben ins Garather Hauptzentrum“ - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Schnelles Internet im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/143/2020 vom 22.09.2020 - - zur Kenntnis genommen
+- TOP 8.2: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorf, Beschluss zur Konzeptvorstellung und weiteren Vorgehensweise, sowie zur bedarfsgerechten Versorgung - Informationsvorlage zur Beschlussvorlage BAU/004/2020 - zur Kenntnis genommen
+- TOP 8.3: Der Klimawandel hat Auswirkungen auf den Düsseldorfer Baumbestand – Hohe Anzahl an Baumfällungen an Straßen und in Anlagen - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.4: Einwohnerfragestunden - Informationsvorlage zum Beschluss BV10/006/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.5: Bepflanzung einer leeren Baumscheibe an der Städtischen Grundschule Josef-Kleesattel-Straße - Informationsvorlage zum Beschluss BV10/017/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.6: Blumenbepflanzung am Ortseingang - Informationsvorlage zum Beschluss BV10/019/2021 vom 26.01.2021 - - zur Kenntnis genommen
+- TOP 8.7: Schnellstmögliche Umsetzung des geplanten Umbaus des Spielplatzes an der Peter-Behrens-Straße 92 - Informationsvorlage zum Beschluss BV10/018/2021 vom 26.01.2021 - - zur Kenntnis genommen
+- TOP 8.8: Verlauf des Radschnellweges - Informationsvorlage zum Beschluss BV10/029/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.9: Anlage einer Radverkehrsanlage auf dem rechten Fahrstreifen der Koblenzer Straße zwischen Josef-Maria-Olbrich-Straße und Peter-Behrens-Straße - Informationsvorlage zum Beschluss BV10/026/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.10: Fahrradabstellanlagen im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/014/2021 vom 26.01.2021 - - zur Kenntnis genommen
+- TOP 8.11: Essbare Stadt und Urban Gardening im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/030/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.12: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2021 - Informationsvorlage der Bezirksverwaltungsstelle 10 – - zur Kenntnis genommen
+- TOP 9: Verschiedenes
