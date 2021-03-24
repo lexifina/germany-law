@@ -1,0 +1,78 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-03-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6178958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6178958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 8.6: Stadtbezirksbudget
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: Erleichterung beim Distanzunterricht
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Olympiazentrum – Bushaltestelle: Verbesserung der Reinigungsqualität
+- TOP 4.4.2.: Korbinianstraße - Stellplatzsituation vor der Post verbessern
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Init. Wunderbuch Wunderbuch vom 15.10.2021 - 15.10.2022 1.800,00 € / Az. 0262.0-11-0412
+- TOP 6.1.2.: (E) Stadtbezirksbudget BMW FIZ Strolche München e.V. Festakt zum 20 jährigen Jubiläum 16.04.2021 1.355,00 € / Az. 0262.0-11-0413
+- TOP 6.1.3.: (E) Stadtbezirksbudget Trägerverein Kulturhaus Milbertshofen Mini-München vom 27.07. - 07.08.2020 1.300,73 € / Az. 0262.0-11-0414
+- TOP 6.1.4.: (E) Stadtbezirksbudget Gemeinschaft Sant Egidio Gedenkveranstaltung Erhöhung des Zuschussbetrages
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.2.1.: Sachstand Wohncontainer Rathenau-/Thalhoferstraße
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Aufstellen von Sitzgelegenheiten im Olympiapark
+- TOP 7.3.2.: Pilotprojekt: Solarbänke im Olympiapark aufstellen
+- TOP 7.3.3.: Einführung eines Ehrenamtspreises für den 11. Stadtbezirk
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Wiederaufnahme der Planungen für die Tunnelanbindung Schleißheimer Straße / A99
+- TOP 7.4.2.: Neubausiedlung "Hofmark" optimal mittels Bushaltestelle an den ÖPNV anbinden
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Besserer Schutz von Straßenbegleitgrün und Grünanlagen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Corona-Pandemie / Änderung der Bezirksausschusssatzung / Sonderausschüsse / Verlängerung bis zum 31.12.2021
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Pfitznerstraße 5 - Neubau eines Mehrfamilienhauses (Antrag auf Vorbescheid)
+- TOP 8.2.2.: Schleißheimer Str. 420 - Neubau BMW Aeroakustik- und E-Antriebs-Zentrum (AEZ)
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Sommerstraßen 2021 - Infoveranstaltungen: Ergebnisse und weiteres Vorgehen
+- TOP 8.3.2.: Mobilspiel je freitags ab 01.05. bis 30.10.2021 am Zauneidechsenweg - Drachenfest am 24.09.21 am Hildegard-von-Bingen-Anger
+- TOP 8.3.3.: 2022: 50 Jahre Olympische Spiele in München - Stadtteil- und Nachbarschaftsprojekte
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Anhörung zu verkehrsrechtlichen Anordnungen: a) Dientzenhoferstraße 64 b) Neuherbergstraße / Frauenmantelanger c) Neuherbergstraße / Felsennelkenanger d) Keferloherstraße / Hirschkäferweg
+- TOP 8.4.2.: Corona-Freischankflächen-Antrag auf Parkplatz: Ingolstädter Str. 111A
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Pfitznerstraße 5 - Neubau eines Mehrfamilienhauses (Baumbestandsplan)
+- TOP 8.5.2.: BA21: "Verbesserung der Baumschutzverordnung gegen illegale Fällungen" mit der Bitte um Unterstützung
+- TOP 8.5.3.: Benennung von neuen Baumstandorten im öffentlichen Raum des Stadtbezirkes 11
+- TOP 8.6.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.2.: Unterrichtung zu verkehrsrechtlichen Anordnungen: - Kurzparkzone Korbinianstraße
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
