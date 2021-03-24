@@ -1,0 +1,8 @@
+# TOP 4.1: Entschließung zum Internationalen Tag für das Recht auf Wahrheit über schwere Menschenrechtsverletzungen und für die Würde der Opfer: Menschenrechte sind unverhandelbar. Überall und zu jeder Zeit. Zwangsumsiedlungen und Zerschlagung von Gewerkschaften sind Menschenrechtsverletzungen!
+
+- Sitzung: 57. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2021-03-24)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=39021
+- Ergebnis: in der BVV abgelehnt
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=39021
