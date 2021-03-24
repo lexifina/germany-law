@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-24T17:00:00+01:00
+- Ende: 2021-03-24T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20302
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20302
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 24.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405596.pdf
+- Ergebnisprotokoll: OVA 24.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405596.pdf
+- Wortprotokoll: OVA 24.03.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405596.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 18.11.2020 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Nutzung von Sonderfahrstreifen -Anfrage der FDP-Ratsfraktion- - beantwortet
+- TOP 4.2: Erhebung von Verkehrsdaten -Anfrage der FDP-Ratsfraktion- - beantwortet
+- TOP 4.3: Bau der ersten Protected Bike Lane in Düsseldorf - Anfrage der Ratsfraktion Die Linke - - beantwortet
+- TOP 4.4: Gespräche des Oberbürgermeister Dr. Keller mit der Deutschen Umwelthilfe zur Abschaffung der Düsseldorfer Umweltspuren - beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Parkverbote im Kreuzungs- und Einmündungsbereich durch Fahrbahnmarkierungen verdeutlichen - Antrag der Ratsfraktion Die Linke - - zurückgezogen
+- TOP 5.2: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/242/2021 - zurückgezogen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Zweiter Bericht zum Ratsbeschluss „Saubere Luft für Düsseldorf: Reduzierung von NOx-Emissionen vorantreiben!" - zur Kenntnis genommen
+- TOP 9: Förderrichtlinie Lastenräder - Empfehlung abweichend beschlossen
+- TOP 10: Erweiterung des Kunst am Bau Projekts neuer U-Bahnhof Flughafenterminal (U81) - Empfehlung mehrheitlich beschlossen
+- TOP 11: Wohngebiet rund um den Golzheimer Platz - Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 12: Wohngebiet Lichtenbroicher Weg- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 13: Erweiterung des Bewohnerparkgebietes Lichtenbroich (LB) - mehrheitlich beschlossen
+- TOP 14: Wohngebiet südlich des Reeser Platzes- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 15: S-Bahn-Halt Tannenhof / Wiederaufnahme der Planungen – Beschluss aus der Bezirksvertretung 8 - mehrheitlich abgelehnt
+- TOP 16: Nutzung des Mannesmannufers - zur Kenntnis genommen
+- TOP 17: Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78 – Errichtung besonderer Bahnkörper auf der Kaiserswerther Straße zwischen den Haltestellen „Kennedydamm“ u. „Reeser Platz“ u. Verlängerung der Haltestellen „Reeser Platz“ bis „Freiligrathplatz" - einstimmig beschlossen
+- TOP 18: Neusser Straße / Düsselstraße - Radfahrerquerung - mehrheitlich beschlossen
+- TOP 18.1: Ergänzungsantrag der Ratsfraktionen von CDU und B90/Grüne zu TOP 18, Vorlage OVA/003/2021/1 "Neusser Straße / Düsselstraße – Radfahrerquerung" - mehrheitlich beschlossen
+- TOP 19: Radweg Am Trippelsberg – Kompensationsmaßnahmen zum LKW-Parken - zurückgezogen
+- TOP 20: Förderantrag MOBILS - zur Kenntnis genommen
+- TOP 21: Altstadt-Scooter-Parken und Scooter-Management-Cockpit - zurückgezogen
+- TOP 22: Mobilstationen im Förderprojekt „Emissionsfreie Innenstadt“: Dialogformate und Baumbestand - zur Kenntnis genommen
+- TOP 23: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement -2. Halbjahr 2020- - zur Kenntnis genommen
+- TOP 24: Veranstaltungen Burgplatz – Jahresprogramm 2021 - einstimmig beschlossen
+- TOP 25: "Landpartie Grafenberg" auf der Galopprennbahn im Jahre 2021 - einstimmig beschlossen
+- TOP 26: Erfahrungsbericht über die Einführung des Einsatzstocks, kurz, ausziehbar (EKA) im Ordnungs- und Servicedienst (OSD) - zur Kenntnis genommen
