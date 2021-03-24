@@ -1,0 +1,123 @@
+# 57. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-03-24T17:00:00+01:00
+- Ende: 2021-03-24T22:01:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4154
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4154
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Verkehrliche Belastung der Kieze durch Umbau Hermannstraße - beantwortet
+- TOP 1.2: Umsetzung Bürgerbegehren "Saubere Schulen" - Stellenanmeldung - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Entschließung zum Internationalen Tag für das Recht auf Wahrheit über schwere Menschenrechtsverletzungen und für die Würde der Opfer: Menschenrechte sind unverhandelbar. Überall und zu jeder Zeit. Zwangsumsiedlungen und Zerschlagung von Gewerkschaften sind Menschenrechtsverletzungen! - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Unterstützung für SV Tasmania - beantwortet
+- TOP 8.2: "Kurze Beine, kurze Wege" - Eine unendliche Geschichte - beantwortet
+- TOP 8.3: Verkehrsplanung für die Oderstraße bis zur Silbersteinstraße erweitern? - beantwortet
+- TOP 8.4: Vorteil für Mieter*innen bei Vergesellschaftung gewinnorientierter großer Berliner Immobilienkonzerne nach §15 Grundgesetz - beantwortet
+- TOP 8.5: Verlust/Löschung von Konzessionen im Gastgewerbe infolge der Coronamaßnahmen - beantwortet
+- TOP 8.6: Personalentwicklung beim Jobcenter Neukölln - beantwortet
+- TOP 8.7: Rodungen im Grünzug Britz- Süd - beantwortet
+- TOP 8.8: Leerstand Alt-Buckow 17 seit vielen Jahren. Warum? - schriftlich beantwortet
+- TOP 8.9: Vermeidung von Fahrradunfällen auf aufgegebenen Bürgersteigradwegen - schriftlich beantwortet
+- TOP 8.10: THEMA HOMEOFFICE BEIM BEZIRKSAMT - schriftlich beantwortet
+- TOP 8.11: Zustände in der Nogatstraße 1 - schriftlich beantwortet
+- TOP 8.12: Fraueninfrastruktur in Südneukölln - schriftlich beantwortet
+- TOP 8.13: Nachnutzung Clay Oberschule - schriftlich beantwortet
+- TOP 8.14: Mietminderung oder nur Mietstundung für Gewerbetreibende - schriftlich beantwortet
+- TOP 8.15: Dauerleerstand in der Fritz-Karsen-Schule - schriftlich beantwortet
+- TOP 8.16: Fußgänger im Krischanweg schützen II - schriftlich beantwortet
+- TOP 8.17: Gefahren durch vernachlässigte Hochbordradwege - schriftlich beantwortet
+- TOP 8.18: Gehwege Alt-Britz - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Saubere Schulen- Eigenreinigung der Schulen mit Zeitplan unterlegen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Erhalt der Brunnengalerie im Glockenblumenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: 100 Jahre August Heyn Gartenarbeitsschule (AHGAS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Schüler*innenhaushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Schüler/innenhaushalt verstetigen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Sport in Zukunft müllfrei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Mädchen- und Frauen-Sportfest - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Mehr Schulgärten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Plastikmüll an Neuköllner Schulen vermeiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Unterstützung für die Guttempler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.10: Glas-Recycling für alle ermöglichen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Germaniapromenade“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.12: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Britz“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.13: Lastenfahrrädern auf den Recyclinghöfen den Vorzug gewähren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.14: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Gropiusstadt“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.15: Corona-Schulbeirat in Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Kosten der Umbenennung der Wissmannstr. erstatten - in der BVV abgelehnt
+- TOP 11.2: Anwendung Mietendeckel in Neukölln - beantwortet
+- TOP 11.3: Ergebnisse der Lebensmittelkontrollen, aber keine Veröffentlichung - beantwortet
+- TOP 11.4: Unterstellt das Bezirksamt den Buckowern Rassismus? - vertagt
+- TOP 11.5: Änderung der Geschäftsordnung II - Ergänzung der Tagesordnung außerordentlicher Sitzungen - überwiesen
+- TOP 11.6: Ältestenratssitzungen während der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Änderung der Geschäftsordnung (Vorlagen der/des Vorsteherin/Vorstehers) - in der BVV abgelehnt
+- TOP 11.8: Änderung der Geschäftsordnung (Vorlagen des Bezirksamtes) - in der BVV abgelehnt
+- TOP 11.9: Änderung Geschäftsordnung III § 40 Wortmeldungen, Worterteilungen und Rededauer - in der BVV abgelehnt
+- TOP 11.10: Umweltprüfung durchführen – Ausgleich sichern - vertagt
+- TOP 11.11: Amphibienschutz in Neukölln - vertagt
+- TOP 11.12: Partnerschaft mit Initiative(n) des globalen Südens - vertagt
+- TOP 11.13: Berlin hat bewiesen: Auch ohne Feuerwerk rutscht die Stadt gut ins neue Jahr - vertagt
+- TOP 11.14: Lokale Händler untersützen - vertagt
+- TOP 11.15: Neuer Radwegplan für Neukölln - vertagt
+- TOP 11.16: Mülleimer in Alt Rudow - vertagt
+- TOP 11.17: Geschwindigkeitsmessung in der Köpenicker Straße - vertagt
+- TOP 11.18: Trasse der Neukölln-Mittenwalder Eisenbahn sichern - vertagt
+- TOP 11.19: Gewerbetreibende auf dem Gelände des Bahnhof Rudow sichern - vertagt
+- TOP 11.20: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden - vertagt
+- TOP 11.21: ESTREL-Tower klimagerecht beheizen - vertagt
+- TOP 11.22: Arbeit der Schulen in der Pandemie wird zusätzlich erschwert - vertagt
+- TOP 11.23: Wie geht es weiter nach der Coronakrise? - vertagt
+- TOP 11.24: Mobbing noch immer kein Thema? - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Ausreichende Leerung von Papierkörben in Grünanlagen sicherstellen - vertagt
+- TOP 12.2: Gelder für Gewässerunterhaltung zweckbestimmt einsetzen und Artenschutz verbessern - vertagt
+- TOP 12.3: Arbeit der Schulen in der Pandemie nicht zusätzlich erschweren - vertagt
+- TOP 12.4: Plätze in Willkommensklassen für später dazukommende Kinder belassen - vertagt
+- TOP 12.5: kostenloses Mittagessensangebot für Schüler aller Schulen - vertagt
+- TOP 12.6: Heldenprämie für ALLE Held*innen - vertagt
+- TOP 12.7: Verantwortungslose Corona-Politiksofort beenden - vertagt
+- TOP 12.8: Saubere Schulen – Rekommunalisierung der Schulreinigung mit Stufenplan unterlegen - vertagt
+- TOP 12.9: Alt-Buckow 37: Illegal erworbenes Clanvermögen für soziale Infrastruktur! - vertagt
+- TOP 12.10: Homeoffice-Strategie - vertagt
+- TOP 12.11: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“ - vertagt
+- TOP 12.12: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen - vertagt
+- TOP 12.13: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen - vertagt
+- TOP 12.14: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen II - vertagt
+- TOP 12.15: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - vertagt
+- TOP 12.16: Neukölln fußgänger*innenfreundlich gestalten - vertagt
+- TOP 12.17: Mieter*innen im Mahlower Block schützen und beraten - vertagt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Eingreifen in der High-Deck-Siedlung - vertagt
+- TOP 13.2: Verkehrswende in Neukölln - vertagt
+- TOP 13.3: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Parkplätze für Gehbehinderte am Gesundheitszentrum Gropiusstadt - überwiesen
+- TOP 15.2: Pflegekonzept zur Pflege und Erhalt von Stadtgrün - überwiesen
+- TOP 15.3: Pop-Up Radweg an der Blaschkoallee verstetigen - überwiesen
+- TOP 15.4: Rekommunalisierung der Schulreinigung im Doppelhaushalt 2022/23 umsetzen - überwiesen
+- TOP 15.5: Digitalisierung der Schulen vorantreiben - überwiesen
+- TOP 15.6: Verkehrswende in Neukölln umsetzen - überwiesen
+- TOP 15.7: Digitales Routing von Kraftfahrzeugen durch Fahrradstraßen unterbinden - überwiesen
+- TOP 15.8: Kein Querparken auf der Grünfläche im Truseweg - überwiesen
+- TOP 15.9: Handbuch „Gute Pflege“ als Standard - überwiesen
+- TOP 15.10: Möglichkeit der Zwischennutzung für leerstehende Immobilien und Flächen prüfen - überwiesen
+- TOP 15.11: Geschichtliche Aufarbeitung Lucy-Lameck-Straße - überwiesen
