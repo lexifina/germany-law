@@ -1,0 +1,134 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Videokonferenz - Youtube Link: https://youtu.be/POr_AzSHhEs
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-03-24T17:00:00+01:00
+- Ende: 2021-03-24T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6255
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6255
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=375616
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - vertagt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Sicherheitsrelevante Verstöße gegen die StVO stärker ins Visier nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 69 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretende Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: 300 Parkplätze entfallen am Te-Damm, kaum Ausbau von Fahrradnebenrouten, neue Parkraumanordnungen in weiten Teilen Tempelhofs und der Lindenhofsiedlung – welche Auswirkungen hätten diese massiven Eingriffe? - beantwortet
+- TOP 6.2: Parkraumbewirtschaftung rund um den Tempelhofer Damm nicht überdehnen - mit Änderungen in der BVV beschlossen
+- TOP 6.3: Fahrradnebenrouten statt verkehrspolitischem Kahlschlag im Herzen Tempelhofs - in der BVV abgelehnt
+- TOP 6.4: Verwaltungsblockade gegen Elterninitiative - beantwortet
+- TOP 6.5: Parken in der Kolonnenstraße abends, nachts und am Wochenende erlauben - in der BVV zurückgezogen
+- TOP 6.6: Solidarität mit den Mitarbeiter_innen von „Durstexpress“ und Unterstützung ihrer Forderungen - in der BVV abgelehnt
+- TOP 6.7: Einen „Corona“- Schulhof für das Rheingau-Gymnasium auf der Schwalbacher Straße einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Bibliotheken mit Minimalkonzept wieder öffnen - in der BVV zurückgezogen
+- TOP 6.9: Stopp der radikalen „Ertüchtigungen“ im Alten- und im Lehnepark - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - schriftlich beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Heimliche Schließung der Gertrud-Kolmar-Bibliothek – vollendete Tatsachen ohne Einbindung der BVV - vertagt
+- TOP 8.2: Baumschutz in Tempelhof-Schöneberg - mehr Schein als Sein? - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Aufstellung des Entwurfs der Investitionsplanung 2021 bis 2025 - überwiesen
+- TOP 9.2: Errichtung eines Schulneubaus im Bezirk Tempelhof-Schöneberg in Amtshilfe durch die HOWOGE - überwiesen
+- TOP 9.3: Wahl von Gün Tank zur Bezirksbeauftragten für Menschen mit Behinderung durch die BVV - vertagt
+- TOP 10: Anträge - im Ausschuss abgelehnt
+- TOP 10.1: Auf ins Lern-Lab Schöneberg-Nord - überwiesen
+- TOP 10.2: Verkehrssicherheit für alle – Tempo 30 am Mariendorfer Damm anordnen - vertagt
+- TOP 10.3: Gastronomie unterstützen – Straßenlandsondernutzung pauschal genehmigen, auf Gebühren verzichten und Verbot von Heizpilzen im Frühjahr 2021 aussetzen - vertagt
+- TOP 10.4: Runder Tisch „Zukunft Wirtschaft“ - überwiesen
+- TOP 10.5: Bürohunde auch in Tempelhof-Schöneberg - überwiesen
+- TOP 10.6: Sichere Radwegführung vor dem Rathaus Schöneberg - überwiesen
+- TOP 10.7: Aufwertung der Grünanlage am Grazer Platz - überwiesen
+- TOP 10.8: Mit vereinten Kräften neuen Standort für die Gertrud-Kolmar-Bibliothek suchen und finden - überwiesen
+- TOP 10.9: Sondernutzung des öffentlichen Straßenlandes durch Apotheken - vertagt
+- TOP 10.10: Freie Fahrt für den Verkehrsversuch am Tempelhofer Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Verkaufsangebot auf Wochenmärkten während der Pandemie - vertagt
+- TOP 10.12: Informationen zu temporären Spiel- und Nachbarschaftsstraßen transparenter und bekannter machen - mit Änderungen in der BVV beschlossen
+- TOP 10.13: Kinder und Jugendliche brauchen Sport - Sportvereine und Trainer*innen Klarheit - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Schaffung von Planungsrecht für das EUREF-Gelände nicht in die Länge ziehen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Geregeltes Verfahren für die Umbenennung des Kaiser-Wilhelm-Platzes - vertagt
+- TOP 10.16: Ehrenamt darf nicht sterben - in der BVV abgelehnt
+- TOP 10.17: Amphibien schützen- Grüntenteich und kleiner Krapfenpfuhl zügig wiederherstellen - überwiesen
+- TOP 10.18: Bürgerschaftliches Engagement fördern – „Pflegepatenschaften“ für Grünflächen und Straßenbäume aktiv bewerben und unbürokratisch ermöglichen - überwiesen
+- TOP 10.19: Klimaneutralität in der bezirklichen Verwaltungssteuerung - überwiesen
+- TOP 10.20: Straßenfeste auf Tempelhof-Schöneberger Straßen und Plätzen nach Corona ermöglichen und ertüchtigen - überwiesen
+- TOP 10.21: Verkehrsversuch Tempelhofer Damm umsetzen - in der BVV zurückgezogen
+- TOP 10.22: Mehr Elektromobilität: Ladestationen für E-Bikes - überwiesen
+- TOP 10.23: Moratorium zur Verlagerung des Wenckebach-Klinikums - vertagt
+- TOP 10.24: Finanzmittel aus ökologischen Ausgleichsmaßnahmen auch für Straßenbegleitgrün nutzen - überwiesen
+- TOP 10.25: Straßen(um)benennungen: Ein geregeltes Verfahren sichern - überwiesen
+- TOP 10.26: Mehr Bäume für die Heilandsweide und die Grünanlage rund um die Sportanlage Marienfelde - überwiesen
+- TOP 10.27: Radtourismus ankurbeln! - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Verkehr auf der B 96 während der anstehenden U6-Sanierungsarbeiten mit Augenmaß sortieren - mit Änderungen in der BVV beschlossen
+- TOP 11: übrige Große Anfragen - im Ausschuss abgelehnt
+- TOP 11.1: Ist das Bezirksamt ausreichend auf Schadensereignisse wie dem Brand in der Motzener Straße vorbereitet? - vertagt
+- TOP 11.2: Aktuelle Strategien des Gesundheitsamtes zur Bekämpfung der Pandemie und Schutz der Bevölkerung vor Covid-19 - vertagt
+- TOP 12: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 12.1: Weiterentwicklung des IKEA-Areals zum urbanen gewerblichen Quartier - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Mehr Fußgängerampeln barrierefrei gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Legalität statt Illegalität von Sexarbeit fördern – Sexarbeiter*innen schützen, nicht verdrängen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Verkehrssicherheit auf der Rheinstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Priesterweg kurzfristig für den Fahrradverkehr besser nutzbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Lehrbienenstand in der Naturschutzstation Marienfelde erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Austausch zwischen der Vergabejury zur Verteilung der Spendengelder im Schöneberger Norden und BVV befördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Kinder nicht abhängen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Vorbild Pankows folgen – Smileysystem zur Information über Lebensmittelkontrollen unverzüglich einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Anbindung der südlichen Ortsteile unseres Bezirks ans Radschnellwegenetz durch eine Süd-Route - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Ein Präsentationsraum für die Lette-Schule - vertagt
+- TOP 12.12: Als Fußgänger sicherer über die Straße an der Umleitungsstrecke Goltzstraße/Briesingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Mehr Bänke am Tempelhofer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Haus der Jugend projektieren III - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Gewaltschutzberatung in Supermärkten - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Fahrradabstellplätze an Lichtenrader S-Bahnhöfen - Bedarfe erfüllen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Ausgestaltung der Gedenktafel für Klaus-Jürgen Rattay gem. Drucksache 0488/XX - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Förderung von Besuchskabinen in Pflegeheimen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Bezirkshaushaltsplan 2020 / 2021– Teilplan 2021 – hier: Eckwerte zur Umsetzung der Neuberechnung des Bezirksbudgets 2021 neu - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 3 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.2: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.3: Radverkehrsanlage Tempelhofer Damm - überwiesen
+- TOP 13.4: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz - Verkehrsversuch mit Radverkehrsanlagen auf dem Tempelhofer Damm - überwiesen
+- TOP 13.5: Personal an Bahnhöfen in Tempelhof-Schöneberg - überwiesen
+- TOP 13.6: Touristisches Wegeleitsystem für Tempelhof-Schöneberg verbessern - überwiesen
+- TOP 13.7: Verkehrskonzept für Sanierungsphasen am Tempelhofer und Mariendorfer Damm - überwiesen
+- TOP 13.8: Standardisierung für Verkehrsberuhigungen - überwiesen
+- TOP 13.9: Sportanlage Vorarlberger Damm 33 - überwiesen
+- TOP 13.10: Fahrrad- und fußgängerfreundlichere Überquerung der Kirchstraße im Verlauf des Fuß- und Radwegs An der Heilandsweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Leistungsfähige Busverbindung zwischen Lichtenrade und Alt-Mariendorf sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Radverkehrsanlage auf der Friedrich-Gerlach-Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Spielplatzanlage Belziger Straße nahe der Vorbergstraße besser vor Verschmutzung schützen - überwiesen
+- TOP 13.14: Online-Beratungsangebot von PAPATYA finanziell absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Größere Baumscheiben für Straßenbäume - überwiesen
+- TOP 13.16: Laubbeseitigung in Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Grünzug nach Gerda und Wolfgang Szepansky benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Cheruskerpark prioritär in Arbeitsplanung 2020 aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.19: Eingang zum Bahnhof Südkreuz an der zum Nord-Süd-Grünzug gelegenen Seite wieder öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Benennung des „Flaschenhalsparks“ in Dora-Duncker-Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Feuerwerkslärm und Feinstaubbelastung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Graffiti auf dem Spielplatz auf dem Ekensunder Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Direktes Gespräch mit Bewohner*innen der Unterkünfte suchen, Informationsdefizite verringern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Luisenmühle nicht vergessen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Naturdenkmal Kaisereiche pflegen - Blumentopf-Ruine ersetzen - überwiesen
+- TOP 13.26: Verbesserung von Straßenbaumstandorten in der Albrechtstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Kinder, Radfahrer und Fußgänger bei Einrichtung der Umleitungsstrecke für den ersten Bauabschnitt der Bahnhofstraße schützen - überwiesen
+- TOP 13.28: Sicherer über die Wünsdorfer Straße - überwiesen
+- TOP 13.29: Beleidigende Schriftzüge umgehend entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.30: Den Bezirken im Coronajahr eine faire Budgetierung ermöglichen - überwiesen
+- TOP 13.31: Kältehilfeplätze für Obdachlose mit Rollstuhl schaffen – Obdachlose nicht sterben lassen - überwiesen
+- TOP 13.32: Warmes Essen für Obdachlose während der Pandemiezeit ermöglichen - überwiesen
+- TOP 13.33: Benennung der Ausstellungshalle im Rathaus Schöneberg nach Heinz Jakob „Coco“ Schumann - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.34: Berufung der Mitglieder des Spendenfonds Schöneberger Norden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.35: Raumbedarf der Sophie-Scholl-Schule - überwiesen
+- TOP 13.36: Aufbau eines bezirklichen Kompensationsflächenkatasters - überwiesen
+- TOP 14: Termin der nächsten Sitzung - (offen)
