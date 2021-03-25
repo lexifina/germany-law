@@ -1,0 +1,9 @@
+# TOP 18.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung und Verbesserung der Straßenbeleuchtungseinrichtung an der Anlage Im Eckerngarten im Gemeindeteil Hiddenhausen
+
+- Sitzung: Haupt- und Finanzausschuss (2. /2021) (2021-03-25)
+- Körperschaft: Gemeinde Hiddenhausen
+- Öffentlich: ja
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/11454
+- Ergebnis: Beschlussfassung: Ja-Stimmen:12Nein-Stimmen:  1Enthaltungen:keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 10. – 21.Ratsmitglied Ulrich Hempelmann nimmt an Beratung und Beschlussfassung nicht teil.
+- Beratung: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2773
+- Beschluss (Datei): Beschlusstext (Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung und Verbesserung der Straßenbeleuchtungseinrichtung an der Anlage Im Eckerngarten im Gemeindeteil Hiddenhausen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTa9igopTKyBwoh3wgluFkMp3IkI5-4mJ7dAkSV6Uc8D/Beschlusstext_VL-33-2021_-oeffentlich-_Haupt-_und_Finanzausschuss_25.03.2021.pdf
