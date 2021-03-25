@@ -1,0 +1,6 @@
+# TOP 7.: Verabschiedung einer Geschäftsordnung für den Integrationsrat
+
+- Sitzung: Integrationsrat (1. Sitzung) (2021-03-25)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/31378
