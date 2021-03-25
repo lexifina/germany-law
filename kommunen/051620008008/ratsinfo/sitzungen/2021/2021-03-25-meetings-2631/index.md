@@ -1,0 +1,74 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-03-25T18:30:00+01:00
+- Ende: 2021-03-25T19:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2631
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2631
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112669.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112669.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00112669.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Erhöhung des Hebesatzes zur Festsetzung der Grundsteuer B und Änderung der Hebesatz-Satzung - mehrheitlich bei
+- TOP 5: Benehmensverfahren - Erhebung der Kreisumlage im Jahr 2021 - Kenntnisnahme
+- TOP 6: Ratsarbeit transparent online erlebbar machen (Antrag Nr. 165/2020)
+- TOP 7: Haushalt 2021
+- TOP 7.1: Reden der Fraktionsvorsitzenden zum Haushalt 2021
+- TOP 7.1.1: SPD-Fraktion
+- TOP 7.1.2: CDU-Fraktion
+- TOP 7.1.3: Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 7.1.4: FDP-Fraktion
+- TOP 7.1.5: Fraktion Mein Grevenbroich
+- TOP 7.1.6: UWG-Fraktion
+- TOP 7.2: Haushalt 2021
+- TOP 7.3: Haushalt 2021 - mehrheitlich bei
+- TOP 8: Beratungspunkte für den Betriebsausschuss Abwasseranlagen
+- TOP 8.1: Jahresabschluss 2018 - mehrheitlich bei
+- TOP 8.2: Wirtschaftsplan Eigenbetrieb 2021 - mehrheitlich bei
+- TOP 9: Beratungspunkte für den Ausschuss für Planung und Mobilität
+- TOP 9.1: 2. Änd. H 4 ern. Aufstellung und frühz. Bürgerbeteiligung - einstimmig
+- TOP 9.2: G 183 1. Änd. Auslegungsbeschluss - einstimmig
+- TOP 9.3: G 220 - städtebaulicher Vertrag - einstimmig
+- TOP 9.4: G 220 Satzungsbeschluss - einstimmig
+- TOP 9.5: N 40 1. Änd. Satzungsbeschluss - einstimmig
+- TOP 9.6: W 58 Aufstellungsbeschluss § 13 - mehrheitlich bei
+- TOP 9.7: Erlass VS W 58 - mehrheitlich bei
+- TOP 9.8: 5. Änd. RPD - Rücknahme einer Teilfläche im Bereich des Welchenbergs und Beantwortung der Anfrage 13/21 - einstimmig
+- TOP 10: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 10.1: Wege auf dem Windtestfeldgelände "Frimmersdorfer Höhe" (Anfrage Nr. 04/2021) - Kenntnisnahme
+- TOP 10.2: Internetzugang für alle Schülerinnen und Schüler (Anfrage Nr. 11/2021)
+- TOP 10.3: Zukunft des Windtestfeldes auf der Frimmersdorfer Höhe (Anfrage Nr. 14/2021) - Kenntnisnahme
+- TOP 10.4: Anteil Verpackungen in der Papierverwertung (Anfrage Nr. 12/2021) - Kenntnisnahme
+- TOP 10.5: Standort Obdachlosenheim (Anfrage Nr. 19/2021) - Kenntnisnahme
+- TOP 10.6: Inhaltlich begründete Aufstellung über die erhebliche Personalkostensteigerung (Antrag Nr. 98/2021) - Kenntnisnahme
+- TOP 10.7: Gebührenhaushalte (Anfrage Nr. 57/2021) - Kenntnisnahme
+- TOP 11: Schriftliche Anträge
+- TOP 11.1: Anträge der SPD-Fraktion
+- TOP 11.2: Anträge der CDU-Fraktion
+- TOP 11.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 11.4: Anträge der FDP-Fraktion
+- TOP 11.4.1: Kraftwerk Frimmersdorf würdig verabschieden und Industriearbeitsplätze weiter ermöglichen (Antrag Nr. 106/2021)
+- TOP 11.4.2: Grevenbroich als Modellkommune "sicheres Öffnen" beim Land Nordrhein-Westfalen platzieren (Antrag Nr. 107/2021)
+- TOP 11.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 11.5.1: Ergänzung der Abfallentsorgungssatzung (Antrag Nr. 79/2021) - mehrheitlich bei
+- TOP 11.6: Anträge der UWG-Fraktion
+- TOP 12: Gemeinschaftsanträge und -anfragen
+- TOP 12.1: Lärmschutz an der A540 (Antrag Nr. 105/2021) - einstimmig
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfragen der SPD-Fraktion
+- TOP 13.2: Anfragen der CDU-Fraktion
+- TOP 13.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Anfragen der FDP-Fraktion
+- TOP 13.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 13.6: Anfragen der UWG-Fraktion
+- TOP 13.6.1: Sachstand Zeltbauten "Am Hagelkreuz" (Anfrage Nr. 60/2021)
+- TOP 14: Mitteilungen des Bürgermeisters
