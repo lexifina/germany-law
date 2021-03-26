@@ -1,0 +1,64 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2021-03-26T17:00:00+01:00
+- Ende: 2021-03-26T20:47:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZapswT0MzInmUNyupW39IMs
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4132
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZxX_vdD7l1a2fVqVZy_OJloSUQll9KG9TdqQyM41-vr/Einladung_Rat_26.03.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZyg_Q7G7ZX_NPq5VGzBgS7jucpIvT5g-6mUCwWMTuZ/Oeffentliche_Niederschrift_Rat_26.03.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 26.02.2021
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Wahl von zwei Bewerbern zu Beigeordneten - Mehrheitlich wird folgender Beschluss gefasst:
+- TOP A.5: Bericht der Deutschen Bahn AG zur neuen ICE-Trasse / Deutschlandtakt
+- TOP zu A.5: Antrag der Fraktion Bündnis'90/DIE Grünen: Bahnstreckenverbindung Bielefeld - Hannover - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: Westfalen Weser Gruppe: Mittelbare Beteiligung an der 450connect GmbH über eine Beteiligung an der 450MHz Beteiligung GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6b: SWH Stadtwerke Herford GmbH: Gründung der Firma 5G Synergiewerk (Vermarktung von 5G- Antennenstandorten)
+- TOP A.6c: SVH Stadtverkehr Herford GmbH: Neuregelung der Bedingungen fürs zeitlich begrenztes Parken/digitales Parken auf öffentlichen Parkflächen im Stadtgebiet Herford ab dem 01.04.2021 - Mit drei Gegenstimmen und ohne Enthaltung wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.6d: WWS Wohn- und Wirtschafts-Service Herford GmbH: Ausübung des Vorkaufsrechts: Kauf der Objekte Kattenschling 8 und 12, Brahmstraße 1 und 2, Schumannstr. 24 und 28 sowie Stiftskamp 63 von der BImA - Mit großer Mehrheit wird folgender Beschluss gefasst:
+- TOP A.6e: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2020 der Beteiligungsunternehmen zum 31.12.2020
+- TOP A.6f: Wahl von Vertretern der Hansestadt Herford in Gremien des krz Kommunales Rechenzentrum Minden-Ravensberg/Lippe - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Benennung beratender Mitglieder des Schulausschusses: Nachbesetzung der Vertretungen für die Sekundarstufe II-Schulen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Antrag der Fraktion Liste 2004 / UWG HBB: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Antrag der FDP-Fraktion: Gremienumbesetzung im Verkehrsausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: IAB Immobilien- und Abwasser-Betrieb Herford: Anpassung Entgeltstufen Sparte Immobilien, Änderung des Stellenplans - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.12: Bestellung der 2. stellvertretenden Schriftführung für die Sitzungen des Rates - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Prüfung und Feststellung des Jahresabschlusses 2019, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2019 in den Rat
+- TOP A.13a: Prüfung und Feststellung des Jahresabschlusses 2019, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2019 in den Rat
+- TOP A.14: 4. Situationsbericht zur Haushaltswirtschaft 2020
+- TOP A.15: Umsetzungsstand zum Haushaltsbegleitbeschluss vom 07.02.2020
+- TOP A.16: Genehmigung von außerplanmäßigen/überplanmäßigen Auszahlungen für die Haushaltsjahre 2020/2021 für die Herrichtung von Gebäuden auf dem Bildungscampus und Erschließungsmaßnahmen des Hammersmith Areals - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: überplanmäßige Mittelbereitstellung gemäß § 83 GO NRW für die Anhebung der Fraktionszuwendungen in Höhe von maximal 39.120 € im städtischen Haushalt im Jahr 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Beschluss der 4. Fortschreibung des Brandschutzbedarfsplanes - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Neue Medien / Digitalisierung; hier: 1:1-Ausstattung mit mobilen Endgeräten an den weiterführenden Schulen der Hansestadt Herford - Danach ergeht einstimmig und ohne Enthaltung folgender Beschluss:
+- TOP A.20: Antrag der FDP-Fraktion: Live-Streaming der Sitzungen des Rates, des Haupt- und Finanzausschusses und des Bau- und Umweltausschusses - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: HerfordPlan - Einstimmig mit sechs Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21a: Bürgerantrag nach § 24 GO: Unterstützung der Herforder Gastronomie
+- TOP A.21b: Antrag der FDP-Fraktion: Fördermittelwettbewerb - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21c: Gemeinsamer Antrag der Fraktionen Bündnis'90/DIE Grünen, DIE LINKE, FDP, BfH und Liste 2004/UWG HBB: Erlass von Sondernutzungsgebühren - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Fortsetzung der unterstützende Maßnahmen gegen die CORONA-bedingten negativen Auswirkungen im 1. Quartal 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Förderprogramm "Smart City - Modellprojekte" des Bundesministeriums des Inneren, fürs Bauen und Heimat; hier: Förderantrag der Hansestadt Herford - Einstimmig mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Archäologisches Fenster am Münster (AFaM) - Einstimmig mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Stadttheater / Stadtgarten Schützenhof: Untersuchung des Neubaus einer neuen Veranstaltungsstätte, hier: Sachstandsbericht und weitere Projektplanung - Mit drei Gegenstimmen wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.26: Bekenntnis der Kommune zum Mehrgenerationenhaus Alte Schule Ottelau - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Aufstellung des Regionalplans OWL hier: Stellungnahme der Hansestadt Herford zum Entwurf 2020
+- TOP zu A.27: Aufstellung des Regionalplans OWL hier: Stellungnahme der Hansestadt Herford zum Entwurf 2020 - Mit drei Gegenstimmen wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.zu A.27a: Bürgerantrag nach § 24 GO: Regionalplan
+- TOP A.zu A.27b: (2.) Bürgerantrag nach § 24 GO: Regionalplan
+- TOP A.zu A.27c: (3.) Bürgerantrag nach § 24 GO NRW: Regionalplan
+- TOP A.zu A.27d: Antrag der Fraktion Bündnis'90/DIE Grünen: Regionalplan - Der Antrag der Fraktion Bündnis‘90/DIE Grünen wird mit vier Fürstimmen und zwei Enthaltungen abgelehnt.
+- TOP A.28: Bebauungsplan Nr. 6.80 "Hellerweg - ehem. Betonwerk" hier: Satzungsbeschluss - Mit zwei Gegenstimmen wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.29: Herstellung der Klimaneutralität städtischer Gebäude -    
+- TOP -: Genehmigung einer Dringlichkeitsentscheidung; hier: Aussetzen der Beitragserhebung für den Monat März 2021 für die Betreuung von Kindern im Rahmen des Offenen Ganztages an Schulen der Primarstufe im Zuge von COVID-19 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.30: Mitteilungen
