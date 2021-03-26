@@ -1,0 +1,97 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-03-26T14:00:00+01:00
+- Ende: 2021-03-26T15:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20839
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20839
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405301.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405301.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00405301.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 13.11.2020 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 04.12.2020 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Genehmigung eines Dringlichkeitsbeschlusses - Bauanträge Ulmenstraße 99 a-e, 91 a-c sowie Metzer Straße 54-72 - Neubau von Bürogebäuden mit einer Tiefgarage und Errichtung von 10 Wohnhäusern sowie eines Studentenwohnheims - einstimmig beschlossen
+- TOP 5.3: Genehmigung der Dringlichkeit - Errichtung von sieben Mobilstationen im Rahmen des Förderprojekts „Emissionsfreie Innenstadt Düsseldorf„ bis Mitte 2022 - einstimmig beschlossen
+- TOP 5.4: Genehmigung eines Dringlichkeitsbeschlusses - Fischmärkte auf dem Tonhallenufer im Jahre 2021 - einstimmig beschlossen
+- TOP 5.5: Genehmigung Dringlichkeitsbeschluss - Wohngebiet rund um den Golzheimer Platz - Einrichtung eines Bewohnerparkgebietes - einstimmig beschlossen
+- TOP 5.6: Genehmigung eines Dringlichkeitsbeschlusses - Wohngebiet südlich des Reeser Platzes- Einrichtung eines Bewohnerparkgebietes - einstimmig beschlossen
+- TOP 5.7: Genehmigung eines Dringlichkeitsbeschlusses - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 5.8: Genehmigung eines Dringlichkeitsbeschlusses - Erinnerungsort für die LSBT* - Standort - einstimmig beschlossen
+- TOP 5.9: Genehmigung eines Dringlichkeitsbeschlusses - Plan Nr. 03/034 Südlich Haroldstraße - Ergebnis Wettbewerb Südlich Haroldstraße, weiteres Vorgehen - einstimmig beschlossen
+- TOP 5.10: Genehmigung eines Dringlichkeitsbeschlusses - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 5.11: Genehmigung eines Dringlichkeitsbeschlusses - Veranstaltungen Burgplatz – Jahresprogramm 2021 - einstimmig beschlossen
+- TOP 5.12: Genehmigung eines Dringlichkeitsbeschlusses - Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78 – Errichtung eines besonderen Bahnkörpers auf der Kaiserswerther Straße zwischen den Haltestellen „Kennedydamm„ und „Reeser Platz“ und Verlängerung - einstimmig beschlossen
+- TOP 5.13: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 5.14: Städtebaulicher Workshop Nr. 01/021 - ehem. Kaufhof Am Wehrhahn - Empfehlung abweichend beschlossen
+- TOP 5.15: Sofortprogramm zur Stärkung unserer Innenstädte und Stadtteilzentren - zur Kenntnis genommen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 5.18: Gustaf-Gründgens-Platz- Nutzung für eine Open Air Installation "Third Space" - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Kunststoffverschmutzung im Hofgarten durch Hochzeitsgäste - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Baumschilder - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Konsequente Fortführung der Fußgängerzone Robert-Lehr-Ufer und deren Schutz vor unbefugtem Autoverkehr – Rückfrage zur Antwort der Verwaltung BV1/288/2020 - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6.4: Parkplätze auf der Eulerstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.5: Radweg Bagelstraße - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.6: Anzahl neuer Wohnungen im Stadtbezirk 1 - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 6.7: Lärmbelästigung durch „Raser“ auf der Prinz-Georg-Straße - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 6.8: Düsseldorfer Fahrradhäuschen - Anfrage der Fraktion Bündnis90/DieGrünen - zur Kenntnis genommen
+- TOP 6.9: Leerstand der Wohnhäuser Bismarckstraße 87 und 89 - Anfrage Jan Christoph Gail, Vertreter der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6.10: Airbnb-Nutzung - Anfrage Andreas Schendel, Vertreter der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.11: Standort des Zentrum Plus für die Innenstadt - Anfrage Sabine Schmidt, Vertreterin der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.12: Liegenschaft Akademiestr. 2 - Anfrage Sabine Schmidt, Vertreterin der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.13: „Doppeltes Geländer“ am Robert-Lehr-Ufer (Nähe Theodor-Heuss-Brücke) - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.14: Luftreinigungsfilter in Schulen und Kitas des Stadtbezirks 1 - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Sachstand S-Bahnhof Werhahn Zugang Grafenberger Allee, Nutzung ehemaliger Imbiss und öffentliche Toiletten - Anfrage Andrea Kraljic, Vertrerin AfD
+- TOP 7.2: Hölzerne Ententreppe in den neu gestalteten Düsselbett-Stufen zum Weiher im Hofgarten auf Höhe des Kö-Bogens - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7.3: Verkehrsregelung Heinrich-Heine-Allee von der Ratinger Straße bis zum Heinrich-Heine-Platz - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.4: Sachstand Mahnmal Schinkelstraße - Anfrage Andrea Kraljic, Vertreterin AfD - zur Kenntnis genommen
+- TOP 7.5: Zukunft des ehemaligen Arbeitsamtsgebäudes auf der Fritz-Roeber-Straße - Anfrage Peter Klein, Vertreter DIE LINKE
+- TOP 7.6: Leerstehendes Wohn- und Geschäftsgebäude Mühlenstraße 13 - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 7.7: Museumsschiff am Rheinufer - Anfrage der CDU-Fraktion
+- TOP 7.8: Parksituationen Platz der Ideen - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.9: Anfrage an das Garten-, Friedhofs- und Forstamt zu dem Gießen der Pflanzen auf dem Gelände der Grundschule Rolandstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 7.10: Leerstand des Hauses Graf-Adolf-Straße 56 / Ecke Oststraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 7.11: Preisgedämpfte Wohnungen auf dem Areal Ulmer Höh Südteil in Derendorf - Anfrage der SPD-Fraktion
+- TOP 7.12: Streusalzeinsatz im Stadtbezirk 1 - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.13: Baudenkmal Rotterdamer Straße 65 - Anfrage Moira Obendorf, Vertreterin der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.15: Kanalarbeiten Goltsteinstraße - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Sanierung der Mauer im Kinderhilfezentrum Eulerstraße - interfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Bessere Kennzeichnung und Ausbau der Ladestationen für elektrisch betriebene PKWs an der Marc-Chagall-Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Zufahrtsbeschränkungen Mannesmannufer - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.4: Piktogramme am Boden an den Einfahrten in die Carlstadt - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Parken und Halten auf nördlicher Königsallee/ Corneliusplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.6: Prüfantrag: Erneuerung bzw. Reparatur des Oberflächenbelages auf der Behelfsbrücke über den Kennedydamm - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.7: Erneuerung bzw. Reparatur des Oberflächenbelages an der Kaiserwerther Str. 156-122 Stadteinwärts - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.8: Instandsetzung Bürgersteig Vagedesstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.9: Sauberkeit von Grünanlagen & Spielplätzen – Frankenplatz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilung der Verwaltung (Januar) - zur Kenntnis genommen
+- TOP 9.2: Geschwindigkeitskontrolle auf der Mühlenstraße; Beschluss der Bezirksvertretung 1 vom 04.12.2020; Beschluss Nr. BV1/311/2020 - zur Kenntnis genommen
+- TOP 9.3: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 9.4: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 9.5: Planungen für die Tuchtinsel, Beschluss der Bezirksvertretung 1 vom 04.12.2020, BV1/310/2020 - zur Kenntnis genommen
+- TOP 9.6: Vorstellung der geplanten Straßenarbeiten im Bereich Rheinbabenstraße in der nächsten Sitzung der BV 1 am 29.01.2021, Beschluss der Bezirksvertretung 1 vom 04.12.2020; BV1/324/2020 - zur Kenntnis genommen
+- TOP 9.7: Antrag auf Konzeptentwicklung zur Verbesserung von Sauberkeit und Helligkeit im Bereich Hohenzollernstraße Ecke Stephanienstraße, Beschluss der Bezirksvertretung 1 vom 04.12.2020, BV1/323/2020 - zur Kenntnis genommen
+- TOP 9.8: Mitteilung der Verwaltung (März) - zur Kenntnis genommen
+- TOP 9.9: Haushaltsantrag: Überplanung der Nordstraße, Beschluss der Bezirksvertretung 1 vom 04.12.2020; BV1/328/2020 - zur Kenntnis genommen
+- TOP 9.10: Mitteilung der Verwaltung (Sondersitzung März) - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss zu "Raumkonzert an der Heinrich-Heine-Passage" - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Farbfieber e.V. - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss zu "Jazz und Weltmusik - Konzerte 2021" - einstimmig beschlossen
+- TOP 11: Verschiedenes
