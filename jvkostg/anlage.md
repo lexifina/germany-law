@@ -81,7 +81,7 @@ Gebühren
 | 1332 | Mitwirkung der Bundeszentralstelle für Auslandsadoption (§ 1 Abs. 1 AdÜbAG) bei Übermittlungen an die zentrale Behörde des Heimatstaates (§ 4 Abs. 6 AdÜbAG) .......... | 15,00 bis 155,00 € |
 | Die Gebühr wird in einem Adoptionsvermittlungsverfahren nur einmal erhoben. |  |
 | 1333 | Bestätigungen nach § 9 AdÜbAG .......... | 40,00 bis 100,00 € |
-| 1334 | Bescheinigungen nach § 7 Abs. 4 AdVermiG .......... | 40,00 bis 100,00 € |
+| 1334 | Bescheinigungen nach § 7d AdVermiG .......... | 40,00 bis 100,00 € |
 | 1335 | Ausstellung eines mehrsprachigen Formulars gemäß Artikel 7 der Verordnung (EU) 2016/1191 (§ 1119 ZPO) .......... | 25,00 € |
 |  | Sind die Kosten für die zugrunde liegende öffentliche Urkunde nachweislich geringer als der Gebührenbetrag, ist die Gebühr auf den Betrag der Kosten zu ermäßigen. |  |
 | Hauptabschnitt 4 Sonstige Gebühren |

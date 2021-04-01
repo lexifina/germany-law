@@ -352,7 +352,7 @@ Renten mit Einkommen
 
 - [§ 107 Beitragszuschüsse](0107.md)
 - [§ 107a Ausfertigung von Einkommensteuerbescheiden](0107a.md)
-- [§ 107b (weggefallen)](0107b.md)
+- [§ 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021](0107b.md)
 
 #### Siebter Unterabschnitt Rentenauskunft
 

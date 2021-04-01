@@ -13,7 +13,6 @@
 
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
 - [§ 5 Epidemische Lage von nationaler Tragweite](0005.md)
-- [§ 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung](0005a.md)
 
 ## 3. Abschnitt Überwachung
 
@@ -119,10 +118,13 @@ Erlaubnis](0047.md)
 - [§ 65 Entschädigung bei behördlichen Maßnahmen](0065.md)
 - [§ 66 Zahlungsverpflichteter](0066.md)
 - [§ 67 Pfändung](0067.md)
+
+## 13. Abschnitt (jetzt Überschrift nach § 67)
+
+
+## 13. Abschnitt Rechtsweg und Kosten
+
 - [§ 68 Rechtsweg](0068.md)
-
-## 13. Abschnitt Kosten
-
 - [§ 69 Kosten](0069.md)
 
 ## 14. Abschnitt Sondervorschriften

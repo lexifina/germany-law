@@ -485,9 +485,13 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 | 10.4 | Eigenständig betriebene Anlagen zur Abscheidung von Kohlendioxid-Strömen aus nach den Nummern dieses Anhangs genehmigungsbedürftiger Anlagen zum Zwecke der dauerhaften geologischen Speicherung, soweit in Spalte d mit dem Buchstaben E gekennzeichnet; | G | E |
 | 10.5 | (nicht besetzt) |  |  |
 | 10.6 | Anlagen zur Herstellung von Klebemitteln, ausgenommen Anlagen, die diese Mittel ausschließlich unter Verwendung von Wasser als Verdünnungsmittel herstellen, mit einer Kapazität von 1 Tonne oder mehr je Tag; | V |  |
-| 10.7 | Anlagen zum Vulkanisieren von Natur- oder Synthesekautschuk unter Verwendung von Schwefel oder Schwefelverbindungen mit einem Einsatz von |  |  |
-| 10.7.1 | 25 Tonnen oder mehr Kautschuk je Stunde, | G |  |
-| 10.7.2 | weniger als 25 Tonnen Kautschuk je Stunde, ausgenommen Anlagen, in denen weniger als 50 Kilogramm Kautschuk je Stunde verarbeitet werden oder ausschließlich vorvulkanisierter Kautschuk eingesetzt wird; | V |  |
+| 10.7 | Anlagen zum Vulkanisieren von Natur- oder Synthesekautschuk unter Verwendung von |  |  |
+| 10.7.1 | Schwefel oder Schwefelverbindungen mit einem Einsatz von |  |  |
+| 10.7.1.1 | 25 Tonnen oder mehr Kautschuk je Stunde, | G |  |
+| 10.7.1.2 | weniger als 25 Tonnen Kautschuk je Stunde, ausgenommen Anlagen, in denen weniger als 50 Kilogramm Kautschuk je Stunde verarbeitet werden oder ausschließlich vorvulkanisierter Kautschuk eingesetzt wird, | V |  |
+| 10.7.2 | halogenierten Peroxiden mit einem Einsatz von |  |  |
+| 10.7.2.1 | 25 Tonnen oder mehr Kautschuk je Stunde, | G |  |
+| 10.7.2.2 | weniger als 25 Tonnen Kautschuk je Stunde, ausgenommen Anlagen, in denen weniger als 30 Kilogramm Kautschuk je Stunde verarbeitet werden; | V |  |
 | 10.8 | Anlagen zur Herstellung von Bautenschutz-, Reinigungs- oder Holzschutzmitteln, soweit diese Produkte organische Lösungsmittel enthalten und von diesen 20 Tonnen oder mehr je Tag eingesetzt werden; | V |  |
 | 10.9 | Anlagen zur Herstellung von Holzschutzmitteln unter Verwendung von halogenierten aromatischen Kohlenwasserstoffen; | V |  |
 | 10.10 | Anlagen zur Vorbehandlung (Waschen, Bleichen, Mercerisieren) oder zum Färben von Fasern oder Textilien mit |  |  |

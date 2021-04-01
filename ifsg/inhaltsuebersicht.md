@@ -113,10 +113,10 @@
 | § 65 | Entschädigung bei behördlichen Maßnahmen |
 | § 66 | Zahlungsverpflichteter |
 | § 67 | Pfändung |
+|  |
+| 13. Abschnitt - Rechtsweg und Kosten |
+|  |
 | § 68 | Rechtsweg |
-|  |
-| 13. Abschnitt - Kosten |
-|  |
 | § 69 | Kosten |
 | §§ 70 – 72 | (weggefallen) |
 |  |

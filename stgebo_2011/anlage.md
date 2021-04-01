@@ -171,7 +171,7 @@ Gebühren der Behörden im Landesbereich
 | 215.6 |  | Zwangsweise Einziehung eines Erlaubnisbescheides. Diese Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist. | 14,30 bis 286,00 |
 | 215.7 |  | Überprüfung einer verkehrspsychologischen Teilmaßnahme des Fahreignungsseminars (§ 4a Absatz 8 Satz 1 Nummer 1 StVG). Die Gebühr ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne Verschulden der nach Landesrecht zuständigen Behörde und ohne ausreichende Entschuldigung des Inhabers der Seminarerlaubnis Verkehrspsychologie am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. | 30,70 bis 511,00 |
 | 215.8 |  | Versagung der Seminarerlaubnis | 33,20 bis 256,00 |
-| 216 |  | Eintragung der Schlüsselzahlen 96 und 196 im Führerschein | 28,60 |
+| 216 |  | Eintragung der Schlüsselzahlen 96, 196 und 197 im Führerschein | 28,60 |
 | 217 |  | Anerkennung des Trägers einer unabhängigen Stelle |  |
 | 217.1 |  | Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten | 250,00 bis 1 000,00 |
 | 217.2 |  | Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung | 250,00 bis 1 000,00 |

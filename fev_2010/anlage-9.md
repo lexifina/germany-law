@@ -187,7 +187,8 @@ II. nationale Schlüsselzahlen
 | 23 | 193 | Auflagen zu den Klassen D und DE: Bis zur Vollendung des 23. Lebensjahres nur bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42 und 43 PBefG bei Linienlängen von bis zu 50 Kilometer nach beschleunigter Grundqualifikation nach § 2 Absatz 2 BKrFQG. |
 | 24 | 194 | Klasse B berechtigt im Inland a) bis zur Vollendung des 21. Lebensjahres zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A1 b) nach Vollendung des nach Buchstabe a vorgeschriebenen Mindestalters zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A. |
 | 25 | 195 | Auflage zu der Klasse AM: Bis zur Vollendung des 16. Lebensjahres nur in den Ländern, die von der Ermächtigung des § 6 Absatz 5a StVG Gebrauch gemacht haben. |
-| 25 (doppelt) | 196 | Im Inland Krafträder (auch mit Beiwagen) mit einem Hubraum von bis zu 125 cm3, einer Motorleistung von nicht mehr als 11 kW, bei denen das Verhältnis der Leistung zum Gewicht 0,1 kW/kg nicht übersteigt. |
+| 26 | 196 | Im Inland Krafträder (auch mit Beiwagen) mit einem Hubraum von bis zu 125 cm3, einer Motorleistung von nicht mehr als 11 kW, bei denen das Verhältnis der Leistung zum Gewicht 0,1 kW/kg nicht übersteigt. |
+| 27 | 197 | Die Prüfung wurde auf einem Kraftfahrzeug mit Automatikgetriebe abgelegt und eine praktische Ausbildung zum Führen von Fahrzeugen der Klasse B mit Schaltgetriebe wurde absolviert (§ 17a FeV). |
 IIa. Entfallene nationale Schlüsselzahlen
 | Lfd. Nr. | Entfallene Schlüsselzahl |
 | 1 | 192 | Berechtigt abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung zum Führen von Fahrzeugen der Fahrerlaubnisklasse B, deren zulässige Gesamtmasse 3 500 kg übersteigt, jedoch nicht mehr als 4 250 kg beträgt, soweit 1.die Fahrzeuge a)elektrisch betrieben undb)im Bereich Gütertransport eingesetztsind und2.der Inhaber der Fahrerlaubnis an einer zusätzlichen Fahrzeugeinweisung teilgenommen hat. |

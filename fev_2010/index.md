@@ -33,6 +33,7 @@
 - [§ 15 Fahrerlaubnisprüfung](0015.md)
 - [§ 16 Theoretische Prüfung](0016.md)
 - [§ 17 Praktische Prüfung](0017.md)
+- [§ 17a Beschränkung auf Fahrzeuge mit Automatikgetriebe](0017a.md)
 - [§ 18 Gemeinsame Vorschriften für die theoretische und die praktische Prüfung](0018.md)
 - [§ 19 Schulung in Erster Hilfe](0019.md)
 - [§ 20 Neuerteilung einer Fahrerlaubnis](0020.md)

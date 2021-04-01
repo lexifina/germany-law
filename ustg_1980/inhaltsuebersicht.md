@@ -55,6 +55,9 @@
 |  | § 18f | Sicherheitsleistung |
 |  | § 18g | Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat |
 |  | § 18h | Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat |
+|  | § 18i | Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen |
+|  | § 18j | Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen |
+|  | § 18k | Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro |
 |  | § 19 | Besteuerung der Kleinunternehmer |
 |  | § 20 | Berechnung der Steuer nach vereinnahmten Entgelten |
 |  | § 21 | Besondere Vorschriften für die Einfuhrumsatzsteuer |

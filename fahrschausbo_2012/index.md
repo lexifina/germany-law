@@ -7,6 +7,8 @@
 - [§ 3 Allgemeine Ausbildungsgrundsätze](0003.md)
 - [§ 4 Theoretischer Unterricht](0004.md)
 - [§ 5 Praktischer Unterricht](0005.md)
+- [§ 5a Praktische Ausbildung auf Kraftfahrzeugen mit Schaltgetriebe der Klasse B gemäß § 17a der Fahrerlaubnis-Verordnung](0005a.md)
+- [§ 5b Evaluierung](0005b.md)
 - [§ 6 Abschluss der Ausbildung](0006.md)
 - [§ 7 Ausnahmen](0007.md)
 - [§ 8 Ordnungswidrigkeiten](0008.md)
@@ -25,3 +27,4 @@
 - [Anlage 4 (zu § 5 Absatz 3)Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE](anlage-4.md)
 - [Anlage 5 (zu § 5 Absatz 4)Praktische Mindestausbildung in den Klassen D1, D, D1E und DE](anlage-5.md)
 - [Anlage 6 (zu § 5 Absatz 5)Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und TFunktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit](anlage-6.md)
+- [Anlage 7 (zu § 5a Absatz 4)Nachweis über die praktische Ausbildung zum Führen von Fahrzeugen mit Schaltgetriebe der Klasse B](anlage-7.md)

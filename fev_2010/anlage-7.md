@@ -280,7 +280,7 @@
   | Klasse AM | 55 Minuten | 30 Minuten |
   | Klasse T | 70 Minuten | 35 Minuten, |
   falls der Bewerber nicht schon vorher gezeigt hat, dass er den Anforderungen der Prüfung nicht gewachsen ist.
-  Bei der Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen ohne Schaltgetriebe (ohne Kupplungspedal bei Fahrzeugen der Klasse B oder ohne Kupplungshebel bei Fahrzeugen der Klasse A, A2 oder A1) verkürzt sich die Dauer der praktischen Prüfung um 10 Minuten.
+  Bei der Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen mit Automatikgetriebe (§ 17a Absatz 2) verkürzt sich die Dauer der praktischen Prüfung um 10 Minuten.
 2.4 Prüfungsstrecke
   Etwa die Hälfte der Fahrzeit soll für Prüfungsstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden. Abweichend hiervon sind Prüfungen für die Klasse AM überwiegend innerhalb geschlossener Ortschaften durchzuführen. Die Prüfung für die Klasse T kann auch an Orten durchgeführt werden, die nicht Prüforte im Sinn von § 17 Absatz 4 sind.
 2.5 Bewertung der Prüfung

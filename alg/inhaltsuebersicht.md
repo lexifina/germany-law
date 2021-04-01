@@ -373,7 +373,7 @@
 |  |
 | § 107 | Beitragszuschüsse |
 | § 107a | Ausfertigung von Einkommensteuerbescheiden |
-| § 107b | (weggefallen) |
+| § 107b | Neuregelung des Zuschusses zum Beitrag zum 1. April 2021 |
 |  |
 | Siebter Unterabschnitt |
 | Rentenauskunft |
