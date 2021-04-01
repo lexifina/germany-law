@@ -18,3 +18,4 @@ Abschnitt 3 Zulagen in festen Monatsbeträgen
 § 13 | Zulage für besondere polizeiliche Einsätze
 § 14 | Zulage für die Beseitigung von Munition aus den Weltkriegen
 § 15 | Zulage für Tauchertätigkeit
+§ 16 | Zulage für Beamtinnen und Beamte des Landesamtes für Verfassungsschutz, die operativ tätig sind
