@@ -1,1 +1,1 @@
-# Verordnung über den Mindestlohn nach dem Landesmindestlohngesetz vom 23. September 2014
+# Verordnung über den Mindestlohn nach dem Landesmindestlohngesetz vom 9. Februar 2021
