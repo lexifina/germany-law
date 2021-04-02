@@ -1,8 +1,8 @@
-# Anlage 2 (zu § 1 Absatz 2)Gebührenverzeichnis Gebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# Anlage 2 (zu § 1 Absatz 2)GebührenverzeichnisGebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 Inhaltsübersicht
 |  | Gebührennummer |
-| I. Teil: Amtshandlungen nach § 11 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt | 001 bis 004 |
+| I. Teil: Amtshandlungen nach § 11 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt | 001 bis 006 |
 | II. Teil: Amtshandlungen nach § 13 der Gefahrgutverordnung See | 100 |
 I. Teil: Amtshandlungen nach § 11 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |

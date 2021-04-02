@@ -40,7 +40,7 @@
   – Prüfung des äußeren Zustands, diese schließt auch die Unversehrtheit der Flansch- und Deckelverbindungen ein,
   – Wanddickenmessung,
   – zerstörungsfreie Prüfung aller zugänglichen Schweißnähte.
-  Die maximale Frist für die Zwischenprüfung beträgt sechs Jahre. Dabei ist auch die Prüfung des inneren Zustands durch eine fachkundige Person in Verantwortung des Betreibers durchzuführen.
+  Die maximale Frist für die Zwischenprüfung beträgt sechs Jahre. Dabei ist auch die Prüfung des inneren Zustands durch eine fachkundige Person in Verantwortung des Betreibers des Tiegels durchzuführen.
 4.4 Wiederkehrende Prüfung der Tiegel
   Bei jeder Erneuerung der Feuerfestauskleidung (Ausmauerung), spätestens jedoch nach zwölf Jahren, ist eine wiederkehrende Prüfung durch eine Stelle nach § 12 der GGVSEB durchzuführen. Der Umfang der Prüfung entspricht der nach Nummer 4.3 dieser Anlage zzgl. einer Wasserdruckprüfung mit einem Prüfdruck von 4 Bar sowie einer Besichtigung der metallischen inneren Oberfläche des Tiegels. Die Wasserdruckprüfung ist auch mit einer Ersatzdichtung zulässig.
 4.5 Außerordentliche Prüfung der Tiegel
@@ -48,7 +48,7 @@
 4.6 Kennzeichnung der Tiegel
   Die Tiegel sind in entsprechender Anwendung des Absatzes 6.8.2.5.1 ADR/RID auf einem Tiegelschild zu kennzeichnen (Kennzeichnung für die Prüfung nach Absatz 6.8.2.4.1 und 6.8.2.4.2 ADR/RID mit „P“, für die Prüfung nach Absatz 6.8.2.4.3 ADR/RID mit „L“).
 4.7 Führen einer Tiegelakte (Wartungs- und Prüfbuch)
-  Die Ergebnisse aller Prüfungen und die der erstmaligen Prüfung zugrundeliegenden Unterlagen sind vom Betreiber in der Tiegelakte aufzubewahren.
+  Die Ergebnisse aller Prüfungen und die der erstmaligen Prüfung zugrundeliegenden Unterlagen sind vom Betreiber des Tiegels in der Tiegelakte aufzubewahren.
 4.8 Beförderung der Tiegel
   An die Fahrzeuge für den Straßenverkehr werden folgende zusätzlichen Anforderungen gestellt:
   – Das Kraftfahrzeug (Zugmaschine oder Motorwagen) muss seit dem 1. Juli 2017 und der Sattelanhänger oder Anhänger ab dem 1. Januar 2021 mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgestattet sein.

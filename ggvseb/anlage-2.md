@@ -1,38 +1,6 @@
 # Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-1. Im Straßen- und Eisenbahnverkehr gelten für innerstaatliche Beförderungen und in der Binnenschifffahrt gelten für innerstaatliche und grenzüberschreitende Beförderungen die nachstehenden Einschränkungen zu den Teilen 1 bis 7:
-1.1 Nachfolgende Güter sind abweichend von Abschnitt 1.1.2 ADR/RID/ADN von der Beförderung ausgeschlossen:
-  Güter, die
-  a) insgesamt mehr als 1 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a bzw. d oder
-  b) insgesamt mehr als 5 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a und b bzw. d und e oder
-  c) insgesamt mehr als 100 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a bis c
-  enthalten.
-1.2 Zu den giftigen organischen flüssigen und festen Stoffen der Klasse 6.1 nach Kapitel 3.2 Tabelle A ADR/RID/ADN UN-Nummern 2810 und 2811 der Verpackungsgruppe I zählen auch:
-  a) 2,3,7,8-Tetrachlordibenzo-p-dioxin (TCDD),
-    1,2,3,7,8-Penta-CDD,
-    2,3,7,8-Tetrachlordibenzofuran (TCDF),
-    2,3,4,7,8-Penta-CDF,
-  b) 1,2,3,4,7,8-Hexa-CDD,
-    1,2,3,7,8,9-Hexa-CDD,
-    1,2,3,6,7,8-Hexa-CDD,
-    1,2,3,7,8-Penta-CDF,
-    1,2,3,4,7,8-Hexa-CDF,
-    1,2,3,7,8,9-Hexa-CDF,
-    1,2,3,6,7,8-Hexa-CDF,
-    2,3,4,6,7,8-Hexa-CDF,
-  c) 1,2,3,4,6,7,8-Hepta-CDD,
-    1,2,3,4,6,7,8,9-Octa-CDD,
-    1,2,3,4,6,7,8-Hepta-CDF,
-    1,2,3,4,7,8,9-Hepta-CDF,
-    1,2,3,4,6,7,8,9-Octa-CDF,
-  d) 2,3,7,8-Tetrabromdibenzo-p-dioxin (TBDD),
-    1,2,3,7,8-Penta-BDD,
-    2,3,7,8-Tetrabromdibenzofuran (TBDF),
-    2,3,4,7,8-Penta-BDF,
-  e) 1,2,3,4,7,8-Hexa-BDD,
-    1,2,3,7,8,9-Hexa-BDD,
-    1,2,3,6,7,8-Hexa-BDD,
-    1,2,3,7,8-Penta-BDF.
+1. (weggefallen)
 2. Im Straßenverkehr gelten für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, und für innerstaatliche Beförderungen im Eisenbahnverkehr die nachstehenden Einschränkungen zu den Teilen 1 bis 7 des ADR/RID:
 2.1 Regelung zu den Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung nach Unterabschnitt 1.1.3.1 ADR/RID:
   a) Für die Anwendung des Buchstaben a gilt folgende Regelung:

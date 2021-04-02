@@ -3,7 +3,7 @@
 Erklärung der verwendeten Abkürzungen
 In dieser Anlage bedeuten:
 | ADN | Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen |
-| ADR | Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße |
+| ADR | Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße |
 | AGBwGGVSE | Allgemeine Ausnahmegenehmigungen der Bundeswehr zur Gefahrgutverordnung Straße und Eisenbahn |
 | Bem. | Bemerkung |
 | BGBl. | Bundesgesetzblatt |
@@ -17,18 +17,18 @@ In dieser Anlage bedeuten:
 | MEGC | Gascontainer mit mehreren Elementen |
 | MEMU | Mobile Einheit zur Herstellung von explosiven Stoffen oder Gegenständen mit Explosivstoff |
 | n.a.g. | nicht anderweitig genannt |
-| PBDD | Polybromierte Dibenzodioxine |
-| PBDF | Polybromierte Dibenzofurane |
-| PCB | Polychlorierte Biphenyle |
-| PCDD | Polychlorierte Dibenzodioxine |
-| PCDF | Polychlorierte Dibenzofurane |
-| PCT | Polychlorierte Terphenyle |
+| PBDD | (weggefallen) |
+| PBDF | (weggefallen) |
+| PCB | (weggefallen) |
+| PCDD | (weggefallen) |
+| PCDF | (weggefallen) |
+| PCT | (weggefallen) |
 | Richtlinie 2008/68/EG | Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates über die Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom 30.9.2008, S. 13), die zuletzt durch die Richtlinie 2018/1846/EU (ABl. L 299 vom 26.11.2018, S. 58) geändert worden ist |
 | RID | Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter |
 | S. | Seite |
 | StVZO | Straßenverkehrs-Zulassungs-Ordnung |
-| TCDD | Tetrachlordibenzo-p-dioxin |
-| TE | Toxizitätsäquivalent-Faktor |
+| TCDD | (weggefallen) |
+| TE | (weggefallen) |
 | UN | United Nations (Vereinte Nationen) |
 | VMBI | Ministerialblatt des Bundesministeriums der Verteidigung |
 Inhaltsverzeichnis
@@ -50,7 +50,7 @@ Inhaltsverzeichnis
 | Ausnahme 16 | – offen – |
 | Ausnahme 17 | – offen – |
 | Ausnahme 18 (S) | Beförderungspapier |
-| Ausnahme 19 (B, E, S) | Beförderung von Stoffen mit polyhalogenierten Dibenzodioxinen und -furanen |
+| Ausnahme 19 | – offen – |
 | Ausnahme 20 (B, E, S) | Beförderung verpackter gefährlicher Abfälle |
 | Ausnahme 21 (B, E, S) | Zusammenpacken von Patronen mit Waffenpflegemitteln |
 | Ausnahme 22 (E, S) | Saug-Druck-Tanks |
@@ -105,7 +105,7 @@ Beförderung gefährlicher Güter mit Fähren
 2.4.3 Die Stellplätze sind durch geeignete Maßnahmen gegen den Zutritt Unbefugter zu sichern.
 2.5 Die Antriebsmaschinen der Fähren müssen unter Deck oder in einem geschlossenen Maschinenraum aufgestellt sein. Der Maschinenraum muss so gebaut und eingerichtet sein, dass ein auf dem Fahrbahndeck oder Fahrzeugdeck frei werdendes Dampf/Luft-Gemisch weder von der Antriebsmaschine angesaugt werden kann, noch in das Innere des Maschinenraums gelangen kann.
 2.6 Es muss eine Sprechfunkanlage für den öffentlichen Fernsprechdienst vorhanden sein.
-2.7 Unbeschadet der Vorschriften der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) sind folgende Maßnahmen zu treffen:
+2.7 Unbeschadet der Vorschriften der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung sind folgende Maßnahmen zu treffen:
 2.7.1 Im Maschinenraum und in einem eventuell vorhandenen Heizungsraum muss eine fest eingebaute Feuerlöschanlage vorhanden sein, die im Steuerhaus ausgelöst werden kann. Für Fähren, deren Kiel vor dem 1. Januar 1994 gelegt worden ist, reicht es aus, wenn die Feuerlöschanlage außerhalb des Aufstellungsraumes von gut zugänglicher Stelle an Deck ausgelöst werden kann.
 2.7.2 Gedeckte/geschlossene Fähren
   Das Fahrzeugdeck muss mit einer Feuerlöschanlage ausgerüstet sein. Die Anlage muss entweder automatisch ausgelöst werden oder es muss eine ständige Überwachung der Beförderungseinheiten durch die Besatzung erfolgen oder es muss eine vollständige Videoüberwachung des Fahrzeugdecks vorhanden sein.
@@ -154,7 +154,7 @@ Beförderung gefährlicher Güter mit Fähren
 4 Zulassungszeugnis
   Im Zulassungszeugnis muss für die Fähre abweichend von Abschnitt 1.16.3 ADN von einer Schiffsuntersuchungskommission bestätigt sein, dass die Vorschriften der Nummer 2 eingehalten sind.
 5 Sonstige Vorschriften
-  Die Vorschriften der Fährenbetriebsverordnung vom 24. Mai 1995 (BGBl. I S. 752), die zuletzt durch Artikel 2 § 2 der Verordnung vom 2. März 2017 (BGBl. I S. 330) geändert worden ist, bleiben unberührt.
+  Die Vorschriften der Fährenbetriebsverordnung vom 24. Mai 1995 (BGBl. I S. 752) in der jeweils geltenden Fassung bleiben unberührt.
 Ausnahme 9 (B, E, S)
 Tanks aus glasfaserverstärktem Kunststoff
 1 Abweichend von § 1 Absatz 3 Nummer 1 bis 3 der GGVSEB in Verbindung mit den Teilen 4 und 6 ADR/RID/ADN sowie Abschnitt 7.4.1 ADR und Kapitel 7.4 RID dürfen bestimmte
@@ -190,7 +190,7 @@ Beförderungspapier
     bb) Gesamtmenge der gefährlichen Güter,
     wenn die nachfolgenden Bestimmungen eingehalten werden.
 2 Befreiung vom Beförderungspapier
-2.1 Gefährliche Güter in Versandstücken und ungereinigte leere Verpackungen, die für die Beförderung nicht an Dritte übergeben werden, dürfen ohne Beförderungspapier befördert werden, wenn die höchstzulässige Gesamtmenge je Beförderungseinheit nach Unterabschnitt 1.1.3.6 ADR nicht überschritten ist und eine Ausnahme dieser Verordnung, nach § 5 der GGVSEB oder eine multilaterale Vereinbarung nach Abschnitt 1.5.1 ADR nicht angewendet wird. Für gefährliche Güter nach Unterabschnitt 1.1.3.6 Beförderungskategorie 4 ADR sind für die Bestimmung der höchstzulässigen Gesamtmenge die Mengenangaben der Beförderungskategorie 3 in Verbindung mit Absatz 1.1.3.6.4 ADR anzuwenden.
+2.1 Gefährliche Güter in Versandstücken und ungereinigte leere Verpackungen, die für die Beförderung nicht an Dritte übergeben werden, dürfen ohne Beförderungspapier befördert werden, wenn die höchstzulässige Gesamtmenge je Beförderungseinheit nach Unterabschnitt 1.1.3.6 ADR nicht überschritten ist und eine Ausnahme dieser Verordnung, nach § 5 der GGVSEB oder eine multilaterale Vereinbarung nach Abschnitt 1.5.1 ADR nicht angewendet wird. Für gefährliche Güter nach Unterabschnitt 1.1.3.6 Beförderungskategorie 4 ADR, ausgenommen ungereinigte leere Verpackungen, sind für die Bestimmung der höchstzulässigen Gesamtmenge die Mengenangaben der Beförderungskategorie 3 in Verbindung mit Absatz 1.1.3.6.4 ADR anzuwenden.
 2.2 Bei der Beförderung von ungereinigten leeren Tankfahrzeugen, ungereinigten leeren Fahrzeugen, ungereinigten leeren Aufsetztanks, ungereinigten leeren ortsbeweglichen Tanks, ungereinigten leeren Tankcontainern, ungereinigten leeren Containern, ungereinigten leeren Schüttgut-Containern, ungereinigten leeren Batterie-Fahrzeugen, ungereinigten leeren MEGC oder ungereinigten leeren MEMU darf das Beförderungspapier für das zuletzt darin enthaltene Gut mitgeführt werden.
 3 Verzicht auf Angaben im Beförderungspapier
 3.1 Bei örtlich begrenzten Beförderungen (Verteilerverkehr, einschließlich Sammelverkehr) darf auf die Angabe
@@ -203,133 +203,9 @@ Beförderungspapier
 4 Sonstige Vorschriften
   Diese Ausnahme darf nicht angewendet werden für Beförderungen von Gütern der Klasse 7.
 5 Befristung
-  Die Ausnahme 18 ist bis zum 30. Juni 2021 befristet.
-Ausnahme 19 (B, E, S)
-Beförderung von Stoffen mit polyhalogenierten Dibenzodioxinen und -furanen
-1 Abweichend von Anlage 2 Nummer 1.1 und 1.2 der GGVSEB dürfen Lösungen und Gemische, die polyhalogenierte Dibenzodioxine und -furane der Tabelle 1 in Nummer 3.1 enthalten, und Stoffe der Nummer 5.3 unter Einhaltung der nachfolgenden Bestimmungen befördert werden.
-2 Freistellung
-  Lösungen und Gemische, die die Werte nach der Anlage 2 der GGVSEB erreichen oder unterschreiten, unterliegen nicht den Vorschriften der GGVSEB, sofern sie auf Grund ihrer Eigenschaften nicht einer anderen Klasse zuzuordnen sind. Dies gilt jedoch nicht für 2,3,7,8-Tetrachlordibenzo-p-dioxin.
-3 Bewertung der Toxizität von 2,3,7,8-Tetrachlordibenzo-p-dioxin (TCDD) und Bestimmung der Toxizitätsäquivalenz zu TCDD
-3.1 Für die in der nachstehenden Tabelle 1 enthaltenen Stoffe werden die dort angeführten Toxizitätsäquivalent-Faktoren bestimmt:
-  Tabelle 1
-  |  | Stoffbezeichnung | Buchstabe nach Anlage 2 Nummer 1.2 GGVSEB | Toxizitätsäquivalent-Faktor (TE) |
-  |  | 1 | 2 | 3 |
-  | A: | Polychlorierte Dibenzodioxine (PCDD) |
-  |  | 2,3,7,8-Tetrachlordibenzo-p-dioxin | a | 1 |
-  |  | 1,2,3,7,8-Penta-CDD | a | 0,5 |
-  |  | 1,2,3,4,7,8-Hexa-CDD | b | 0,1 |
-  |  | 1,2,3,7,8,9-Hexa-CDD | b | 0,1 |
-  |  | 1,2,3,6,7,8-Hexa-CDD | b | 0,1 |
-  |  | 1,2,3,4,6,7,8-Hepta-CDD | c | 0,01 |
-  |  | 1,2,3,4,6,7,8,9-Octa-CDD | c | 0,001 |
-  | B: | Polychlorierte Dibenzofurane (PCDF) |
-  |  | 2,3,7,8-Tetrachlordibenzofuran | a | 0,1 |
-  |  | 2,3,4,7,8-Penta-CDF | a | 0,5 |
-  |  | 1,2,3,7,8-Penta-CDF | b | 0,05 |
-  |  | 1,2,3,4,7,8-Hexa-CDF | b | 0,1 |
-  |  | 1,2,3,7,8,9-Hexa-CDF | b | 0,1 |
-  |  | 1,2,3,6,7,8-Hexa-CDF | b | 0,1 |
-  |  | 2,3,4,6,7,8-Hexa-CDF | b | 0,1 |
-  |  | 1,2,3,4,6,7,8-Hepta-CDF | c | 0,01 |
-  |  | 1,2,3,4,7,8,9-Hepta-CDF | c | 0,01 |
-  |  | 1,2,3,4,6,7,8,9-Octa-CDF | c | 0,001 |
-  | C: | Polybromierte Dibenzodioxine (PBDD) |
-  |  | 2,3,7,8-Tetrabromdibenzo-p-dioxin | d | 1 |
-  |  | 1,2,3,7,8-Penta-BDD | d | 0,5 |
-  |  | 1,2,3,4,7,8-Hexa-BDD | e | 0,1 |
-  |  | 1,2,3,7,8,9-Hexa-BDD | e | 0,1 |
-  |  | 1,2,3,6,7,8-Hexa-BDD | e | 0,1 |
-  | D: | Polybromierte Dibenzofurane (PBDF) |
-  |  | 2,3,7,8-Tetrabromdibenzofuran | d | 0,1 |
-  |  | 2,3,4,7,8-Penta-BDF | d | 0,5 |
-  |  | 1,2,3,7,8-Penta-BDF | e | 0,05 |
-3.2 Jeder in Mikrogramm je Kilogramm ermittelte Anteil eines Stoffes nach Nummer 3.1 in einer Lösung oder einem Gemisch ist mit dem für diesen Stoff in der Tabelle 1 in Nummer 3.1 bestimmten Toxizitätsäquivalent-Faktor zu multiplizieren. Das sich daraus ergebende Produkt, bei Anteilen mehrerer Stoffe nach Nummer 3.1 die Summe der sich jeweils ergebenden Produkte, stellt das 2,3,7,8-TCDD-Toxizitätsäquivalent (TCDD-TE) in Mikrogramm je Kilogramm der jeweiligen Lösung oder des jeweiligen Gemisches dar.
-4 Zuordnung von Lösungen und Gemischen mit einem Anteil bis 200 000 Mikrogramm TCDD-TE je Kilogramm zu den Klassen 3 und 6.1
-4.1 Die Lösungen und Gemische werden nach dieser Ausnahme in drei Gruppen eingeteilt, ausgenommen 2,3,7,8-Tetrachlordibenzo-p-dioxin:
-  Gruppe A:
-  Lösungen und Gemische mit einem Anteil von mehr als 20 000 Mikrogramm TCDD-TE je Kilogramm und höchstens 200 000 Mikrogramm TCDD-TE je Kilogramm.
-  Gruppe B:
-  Lösungen mit einem Anteil von mehr als 2 000 Mikrogramm TCDD-TE je Kilogramm und höchstens 20 000 Mikrogramm TCDD-TE je Kilogramm, Gemische mit einem Anteil von mehr als 5 000 Mikrogramm TCDD-TE je Kilogramm und höchstens 20 000 Mikrogramm TCDD-TE je Kilogramm.
-  Gruppe C:
-  Lösungen mit einem Anteil von höchstens 2 000 Mikrogramm TCDD-TE je Kilogramm, Gemische mit einem Anteil von höchstens 5 000 Mikrogramm TCDD-TE je Kilogramm.
-4.2 Lösungen der Gruppen A bis C sind entsprechend nachstehender Tabelle 2 als UN 1992 Entzündbarer flüssiger Stoff, giftig, n.a.g., in die Klasse 3 oder als UN 2810 Giftiger organischer flüssiger Stoff, n.a.g., in die Klasse 6.1 einzustufen.
-  Tabelle 2
-  | Gruppe nach Nummer 4.1 | Flammpunkt (Flp.) | Klasse | UN-Nummer Verpackungsgruppe |
-  | 1 | 2 | 3 | 4 |
-  | A | Flp. < 23 °C Flp.>/= 23 °C | 3 6.1 | 1992, I 2810, II |
-  | B | Flp. < 23 °C Flp.>/= 23 °C | 3 6.1 | 1992, I 2810, II |
-  | C | Flp. < 23 °C Flp.>/= 23 °C | 3 6.1 | 1992, I 2810, II |
-4.3 Gemische fester Stoffe sind nach ihrem TCDD-TE-Gehalt nach Nummer 4.1 wie UN 2811 Giftiger organischer fester Stoff, n.a.g., der Klasse 6.1 wie folgt zu behandeln:
-  Gruppe A: UN 2811, Verpackungsgruppe I,
-  Gruppe B: UN 2811, Verpackungsgruppe II und
-  Gruppe C: UN 2811, Verpackungsgruppe III.
-4.4 Abweichend von Nummer 4.3 darf Marsberger Kieselrot (PCDD/PCDF-haltige Schlacke mit geringer Bioverfügbarkeit) als UN 2811 Giftiger organischer fester Stoff, n.a.g. der Klasse 6.1, Verpackungsgruppe III eingestuft werden.
-4.5 In Ergänzung zu Nummer 4.3 sind Filteraschen, Filterkuchen und Schlacken aus Verbrennungsanlagen und Hüttenbetrieben, die nach Abschnitt 2.1.3 ADR/RID/ADN in die Klasse 8, Verpackungsgruppe III einzuordnen wären, als UN 2923 Ätzender fester Stoff, giftig, n.a.g., Verpackungsgruppe III einzustufen und der Gruppe C zuzuordnen.
-4.6 Absatz 2.1.3.4.2 ADR/RID/ADN ist auch für Stoffe der UN 2315, UN 3151, UN 3152 und UN 3432, die in Transformatoren und Kondensatoren enthalten sind, anzuwenden.
-5 Beförderungszulassung
-5.1 Für Beförderungen der in Nummer 4.6 genannten Stoffe gelten die Verpackungsvorschriften nach Unterabschnitt 4.1.4.1 P 906 ADR/RID.
-  Die Lösungen und Gemische der Gruppen A bis C dürfen wie Stoffe der Klassen, UN-Nummern, Verpackungsgruppen und Gruppen, denen sie in den Nummern 4.2, 4.3 und 4.5 zugeordnet sind, befördert werden. Ungereinigte leere Verpackungen, Tankcontainer, festverbundene Tanks, Aufsetztanks und Kesselwagen sind wie befüllte zu behandeln.
-5.2 Nach Maßgabe der unter den Nummern 5.2.1 bis 5.2.4 aufgeführten Vorschriften dürfen
-  a) Geräte auch mit Lösungen und Gemischen oder deren Restmengen der Gruppen B und C und
-  b) Gemische der Gruppe C
-  in loser Schüttung mit Binnenschiffen befördert werden.
-5.2.1 Schnelltests für Transformatoren und Kondensatoren mit polyhalogenierten Biphenylen und Terphenylen:
-  Für die Ermittlung des Anteils und die Zuordnung von polychlorierten Biphenylen und Terphenylen zu den Gruppen B und C dieser Ausnahme können Schnelltests herangezogen werden, die auf Chlorionen ansprechen. Führt das Testergebnis zu einem PCB-Gehalt bis 20 Prozent in der Lösung, dürfen Transformatoren, Kondensatoren, Flüssigkeiten und sonstige damit kontaminierte Stoffe (z. B. Bindemittel, Schutzzeug) der Gruppe C zugeordnet werden. Liegt das Testergebnis über 20 Prozent, sind sie der Gruppe B zuzuordnen.
-5.2.2 Beförderung von Geräten mit Straßen- und Eisenbahnfahrzeugen sowie mit Binnenschiffen:
-  Geräte sind z. B. Kondensatoren, Transformatoren und Arbeitsmittel mit hydraulischen Einrichtungen. Geräte mit Lösungen und Gemischen der UN 2810 oder UN 2811, Verpackungsgruppen II und III dürfen wie folgt befördert werden:
-5.2.2.1 Geräte sind wie die Stoffe zu verpacken, die in ihnen enthalten sind.
-5.2.2.2 Geräte dürfen auch in geschweißten Behältnissen aus Stahl, die folgenden Mindestanforderungen entsprechen müssen, verpackt werden:
-  a) Werkstoff: Unlegierter Baustahl, Wanddicke 2,5 Millimeter,
-  b) Höchstmasse: 2,5 Tonnen,
-  c) Verschlussart: Dicht verschlossen.
-  Die Geräte sind mit geeigneten Polsterstoffen in die Behältnisse aus Stahl einzusetzen. Die Polsterstoffe müssen mindestens 15 Prozent des Volumens des Behältnisses aus Stahl füllen und so beschaffen sein, dass auch bei einem Austreten von flüssigem Inhalt die Sicherheit des Behältnisses nicht beeinträchtigt wird.
-5.2.2.3 Soweit es die Abmessungen der Großgeräte zulassen, sind sie in Container zu verladen und ausreichend zu sichern. Die Container müssen flüssigkeitsdicht sein und die gleiche mechanische Stabilität besitzen wie Container, die nach dem Internationalen Übereinkommen über sichere Container (CSC) geprüft und zugelassen sind. Dies ist durch die Bescheinigung einer Stelle nach § 12 der GGVSEB nachzuweisen. Die Bescheinigung gilt jeweils längstens fünf Jahre.
-5.2.2.4 Geräte, die wegen ihrer Größe nicht verpackt werden können (Großgeräte), dürfen unverpackt befördert werden.
-5.2.2.5 Unverpackte entleerte Großgeräte auf Fahrzeugen und Großgeräte in Containern müssen so gesichert sein, dass sie bei der höchstzulässigen Masse folgende Kräfte aufnehmen können:
-  a) 3fache Gesamtmasse in Fahrtrichtung,
-  b) 3fache Gesamtmasse horizontal seitwärts,
-  c) 2fache Gesamtmasse vertikal aufwärts.
-5.2.2.6 Ungereinigte (ent)leer(t)e Großgeräte müssen dicht verschlossen sein.
-5.2.2.7 Ungereinigte Großgeräte, die sich wegen ihrer Größe und ihrer Masse nicht in einen Container verladen lassen, müssen in flüssigkeitsdichte Auffangbehältnisse (Wannen) eingestellt werden. Die Wannen müssen den Anforderungen des Unterabschnitts 4.1.4.1 P 906 ADR/RID entsprechen.
-  Großgeräte in Wannen müssen auf Straßen- oder Eisenbahnfahrzeugen sowie auf Binnenschiffen so verladen und durch geeignete Mittel gesichert werden, dass sie den üblichen Beanspruchungen während der Beförderung standhalten. Die Ladungssicherungsmaßnahmen sind so durchzuführen, dass eine Beschädigung der Großgeräte ausgeschlossen ist.
-5.2.3 Für die Beförderung von Gemischen der Gruppe C in loser Schüttung mit Binnenschiffen gelten zusätzlich folgende Regelungen:
-5.2.3.1 Bau und Ausrüstung
-  Die Schiffe müssen mit einem Zulassungszeugnis nach Abschnitt 8.1.8 ADN versehen sein. Die Schiffe müssen in Doppelhüllenbauweise, das heißt mit doppeltem Boden und Wallgängen, gebaut sein und über ein spritzwasserdichtes Lukendach aus Metall verfügen.
-5.2.3.2 Betrieb
-5.2.3.2.1 Es dürfen
-  a) nicht mehr als 300 Tonnen pro Schiff befördert werden, es sei denn, es handelt sich um Doppelhüllenschiffe nach Unterabschnitt 9.2.0.80 bis 9.2.0.95 ADN,
-  b) nicht mehr als ein Schubleichter in einen Schubverband eingestellt werden.
-5.2.3.2.2 Schiffe, die nicht ausschließlich zur Beförderung von Gemischen der Gruppe C verwendet werden, müssen nach jeder Beförderung vollständig vom Ladegut gereinigt werden.
-5.2.3.2.3 Es muss sichergestellt werden, dass die Besatzung nicht mit den Gemischen in Berührung kommt. Die notwendige Schutzkleidung zur Durchführung der Reinigungsarbeiten muss vorhanden sein.
-5.2.3.2.4 Den schriftlichen Weisungen nach Abschnitt 5.4.3 ADN ist eine Bescheinigung beizufügen, aus der sich für den Schiffsführer ergibt, wie hoch der Gehalt an Dioxin/Furan in TE nach dieser Ausnahme ist.
-5.2.4 Für die Beförderung von Stoffen mit einem Grenzwert über 200 ppm 2,3,7,8-TCDD-TE können die zuständigen Stellen Ausnahmen nach § 5 der GGVSEB zulassen, wenn die Transportbehälter unfallsicher sind.
-  Dies gilt als erfüllt, wenn sie Prüfungen unterzogen worden sind, die nachweislich den für Typ B-Versandstücke in Abschnitt 2.2.7 ADR/RID vorgeschriebenen Bedingungen entsprechen. Der Nachweis der Unfallsicherheit ist durch ein Sachverständigengutachten zu bestätigen.
-5.3 Reine kristalline Referenzmaterialien polyhalogenierter Dibenzodioxine und -furane dürfen in Verpackungen nach Unterabschnitt 4.1.4.1 P 620 und Abschnitt 6.3.2 ADR/RID verpackt befördert werden. Diese Stoffe dürfen in Mengen bis höchstens drei Milligramm je Glasampulle und bis höchstens drei zugeschmolzene Glasampullen je Versandstück verpackt werden.
-6 Sonstige Vorschriften
-6.1 Versandstücke und Tanks mit Stoffen, die nach Nummer 4.2 oder 4.3 der Klasse 6.1, UN 2810 oder UN 2811, Verpackungsgruppe I zugeordnet sind und deren Flammpunkt bis einschließlich 60 Grad Celsius beträgt, sind zusätzlich mit Zetteln nach Muster 3 zu kennzeichnen.
-6.2 Versandstücke und Tanks mit Stoffen, die nach Nummer 4.5 der Klasse 8, UN 2923, Verpackungsgruppe III zugeordnet sind, sind zusätzlich mit Zetteln nach Muster 6.1 zu kennzeichnen.
-6.3 Lösungen und Gemische mit einer Masse von mehr als 1 000 Kilogramm, die nach Nummer 4 der Klasse 6.1, UN 2810 oder UN 2811, Verpackungsgruppe I oder der Klasse 3, UN 1992, Verpackungsgruppe I zugeordnet sind, unterliegen bei der Beförderung im Straßenverkehr den Vorschriften der §§ 35 und 35a der GGVSEB.
-6.4 Bei der Beförderung im Straßenverkehr dürfen die Vorschriften des Unterabschnitts 1.1.3.6 ADR nicht angewendet werden.
-6.5 (weggefallen)
-6.6 Bei Beförderungen von Stoffen der Nummer 5.3 hat der Empfänger dem Absender den Eingang der Sendung zu bestätigen.
-6.7 Bei Beförderungen von Stoffen der Nummer 5.3 sind die erforderlichen Maßnahmen gegen den Zugriff Unbefugter zu treffen. Die Versandstücke sind zu beaufsichtigen, sofern sie sich an für die Öffentlichkeit zugänglichen Stellen befinden.
-7 Angaben im Beförderungspapier
-7.1 Als Bezeichnung des Gutes ist anzugeben:
-  a) In den Fällen der Nummern 4.2 bis 4.6:
-    aa) die nach den Nummern 4.2 bis 4.6 zutreffende UN-Nummer, der die Buchstaben „UN“ vorangestellt werden,
-    bb) der Begriff „Abfall“,
-    cc) die zutreffende offizielle Benennung für die Beförderung, ergänzt durch „(Lösung/Gemisch enthält polyhalogenierte Dibenzodioxine/-furane)“,
-    dd) die Nummer des Gefahrzettelmusters, wobei, sofern mehrere Nummern zutreffend sind, die Nummern nach der ersten Nummer in Klammern anzugeben sind,
-    ee) die zutreffende Verpackungsgruppe und
-    ff) der zugeordnete Tunnelbeschränkungscode nach Kapitel 3.2 Tabelle A ADR in Großbuchstaben und in Klammern.
-      Bem.: Sofern nach Absatz 5.4.1.1.1 Buchstabe k ADR erforderlich.
-    Beispiele:
-    „UN 2810 Abfall Giftiger organischer flüssiger Stoff, n.a.g. (Lösung enthält polyhalogenierte Dibenzodioxine), 6.1, II, (D/E)“;
-    „UN 3432 Abfall Polychlorierte Biphenyle, fest (Gemisch enthält polyhalogenierte Dibenzofurane und polychlorierte Biphenyle), 9, II, (D/E)“;
-    „UN 1992 Abfall Entzündbarer flüssiger Stoff, n.a.g. (Lösung enthält polyhalogenierte Dibenzodioxine und -furane sowie Kohlenwasserstoffe), 3 (6.1), I, (C/E)“.
-  b) in den Fällen der Nummer 5.3:
-    „UN 2811 Giftiger organischer fester Stoff, n.a.g. (enthält Dioxin), Klasse 6.1, Verpackungsgruppe I“.
-7.2 Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: „Ausnahme 19“.
+  Die Ausnahme 18 ist bis zum 30. Juni 2027 befristet.
+Ausnahme 19
+– offen –
 Ausnahme 20 (B, E, S)
 Beförderung verpackter gefährlicher Abfälle
 1 Abweichend von § 1 Absatz 3 Nummer 1 bis 3 sowie den §§ 18, 21 und 22 der GGVSEB in Verbindung mit den Teilen 1 bis 5 ADR/RID/ADN dürfen Abfälle, die nach den unter Nummer 2 aufgeführten Bestimmungen nach den Abfallgruppen 1 bis 15 klassifiziert, verpackt, gekennzeichnet und bezettelt sind, unter Einhaltung der Bestimmungen nach den Nummern 3 bis 5 befördert werden.
@@ -339,7 +215,7 @@ Beförderung verpackter gefährlicher Abfälle
   Die Abfallgruppen gliedern sich in Untergruppen. Werden Abfälle mehrerer Untergruppen innerhalb einer Abfallgruppe befördert, sind im Beförderungspapier die für die Klasse der überwiegenden Gefahr gemäß den Absätzen 2.1.3.5.2 und 2.1.3.5.3 in Verbindung mit Unterabschnitt 2.1.3.10 ADR/RID/ADN zutreffenden Gefahrzettel und, soweit vorhanden, die Verpackungsgruppe des höchsten Gefahrengrades, gekennzeichnet durch I, II oder III, anzugeben.
   Für die Abfallgruppe 1 sind im Beförderungspapier alle zutreffenden Gefahrzettel der Sendung anzugeben. Die Angabe der Verpackungsgruppe ist nicht erforderlich.
   Die Gefahrzettel sind entsprechend den Untergruppen der jeweiligen Abfallgruppe anzubringen.
-2.3 Wer Abfälle eigenverantwortlich verpackt oder verpacken lässt, muss feststellen, welcher Untergruppe innerhalb der Abfallgruppe die gefährlichen Abfälle zuzuordnen sind, damit der Nachweis der ausreichenden chemischen Verträglichkeit mit den vorgesehenen Verpackungen aus Kunststoff auf Grund der durchgeführten Bauartprüfung mit der/den Standardflüssigkeit(en) geführt werden kann. Werden innerhalb der Abfallgruppe verschiedene Untergruppen gemischt verpackt, muss der Nachweis der ausreichenden chemischen Verträglichkeit nach Unterabschnitt 4.1.1.21 in Verbindung mit Abschnitt 6.1.6 ADR/RID für alle in Spalte 8 der Tabelle in Nummer 2.4 der betreffenden Abfallgruppe aufgeführten Standardflüssigkeiten geführt worden sein. Dabei gilt dieser Verträglichkeitsnachweis für Essigsäure auch als erbracht, wenn die Verpackungsbauart für die Standardflüssigkeit Netzmittellösung zugelassen ist.
+2.3 Wer Abfälle eigenverantwortlich verpackt oder verpacken lässt, muss feststellen, welcher Untergruppe innerhalb der Abfallgruppe die gefährlichen Abfälle zuzuordnen sind, damit der Nachweis der ausreichenden chemischen Verträglichkeit mit den vorgesehenen Verpackungen aus Kunststoff auf Grund der durchgeführten Bauartprüfung mit der/den Standardflüssigkeit(en) geführt werden kann. Werden innerhalb der Abfallgruppe verschiedene Untergruppen gemischt verpackt, muss der Nachweis der ausreichenden chemischen Verträglichkeit nach Unterabschnitt 4.1.1.21 in Verbindung mit Abschnitt 6.1.6 ADR/RID für alle in Spalte 8 der Tabelle in Nummer 2.4 der betreffenden Abfallgruppe aufgeführten Standardflüssigkeiten geführt worden sein. Dabei gilt dieser Verträglichkeitsnachweis für Essigsäure auch als erbracht, wenn die Verpackungsbauart für die Standardflüssigkeit Netzmittellösung zugelassen ist. Für Verpackungen der Codierung 1H2, 3H2 und 4H2 gilt der Nachweis der ausreichenden chemischen Verträglichkeit als erbracht, wenn die Verträglichkeit des Werkstoffs mit den jeweiligen Standardflüssigkeiten im Rahmen einer Bauartprüfung und -zulassung für Verpackungen der Codierung 1H1 oder 3H1 nachgewiesen wurde.
 2.4 Tabelle der gefährlichen Abfälle
   Die in der nachfolgenden Tabelle angegebenen Klassen, Klassifizierungscodes (soweit anwendbar), Verpackungsgruppen (soweit anwendbar), Tunnelbeschränkungscodes (soweit anwendbar) und Nummern der Gefahrzettelmuster beziehen sich auf die jeweiligen gefahrgutrechtlichen Regelwerke ADN für die Binnenschifffahrt (B), RID für die Eisenbahn (E) und ADR für den Straßenverkehr (S).
 | Abfall-/ Unter- gruppe | Klasse(n) | Verpa- ckungs- gruppe(n) oder für Klasse 2: Klassifizie- rungscode | Benennung | Angaben im Beför- derungspapier | Gefahrzettel- muster Nummer | Die chemische Verträglichkeit der Werkstoffe der Verpackungen aus Kunststoff muss mindestens gegen- über folgenden Standardflüssig- keiten gegeben sein |
@@ -366,8 +242,7 @@ Beförderung verpackter gefährlicher Abfälle
 | 3.1 | 3 | I bis III | Entzündbare, flüssige, organische halogenhaltige oder organische sauerstoffhaltige, giftige Abfälle und solche, die nicht einer anderen Sammeleintragung zugeordnet werden können, der UN 1992, UN 2603 und UN 3248, z. B. Altöle, auch solche mit geringen Chloranteilen (z. B. polychlorierten Kohlenwasserstoffen) sowie Abfälle mit Methanol | (C/E) | I | 3 + 6.1 | Essigsäure, Kohlenwasserstoffgemisch |
 | 3.2 | 6.1 | I bis III | Abfälle mit halogenhaltigen Kohlenwasserstoffen mit Ausnahme von Isocyanaten der UN 2285, z. B. Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per), Methylenchlorid, Tetrachlorkohlenstoff, Chloroform, Filterpatronen aus chemischen Reinigungsbetrieben, Antiklopfmittel | (C/D) | I | 6.1 + 3 |  |
 | 3.3 | 9 | II | Polychlorierte Biphenyle (PCB) (UN 2315 und UN 3432), polyhalogenierte Biphenyle und Terphenyle (UN 3151 und UN 3152), auch in verpackten Kleingeräten, wie Kleinkondensatoren | (D/E) | II | 9 |  |
-|  |  |  | Bem. 1: Wegen PCB, PCT und polyhalogenierten Biphenylen und Terphenylen in unverpackten Geräten siehe Klasse 9, UN 2315, UN 3432, UN 3151 und UN 3152. |  |  |  |  |
-|  |  |  | Bem. 2: Geräte mit PCB, PCT und polyhalogenierten Biphenylen und Terphenylen, die polychlorierte Dibenzofurane (PCDF) der Klasse 6.1 enthalten, siehe Ausnahme 19 dieser Verordnung. |  |  |  |  |
+|  |  |  | Bem.: Wegen PCB, PCT und polyhalogenierten Biphenylen und Terphenylen in unverpackten Geräten siehe Klasse 9, UN 2315, UN 3432, UN 3151 und UN 3152. |  |  |  |  |
 | 3.4 | 3 | I und II | Abfälle mit flüssigen, entzündbaren, giftigen Schädlingsbekämpfungsmitteln und Pflanzenschutzmitteln mit einem Flammpunkt unter 23 °C | (C/E) | I | 3 + 6.1 |  |
 | 3.5 | 6.1 | I bis III | Abfälle mit flüssigen, giftigen, entzündbaren Schädlingsbekämpfungsmitteln und Pflanzenschutzmitteln | (C/E) | I | 6.1 + 3 |  |
 | 4.1 | 3 | I bis III | Entzündbare flüssige, ätzende Abfälle | (C/E) | I | 3 + 8 | Essigsäure, Kohlenwasser-stoffgemisch |
@@ -399,7 +274,6 @@ Beförderung verpackter gefährlicher Abfälle
 |  |  |  | Bem.: Dieser Gruppe dürfen auch Gegenstände mit Quecksilber beigegeben werden. |  |  |  |  |
 | 9.3 | 6.1 | I bis III | Abfälle mit Cyanidgehalt, z. B. Gold- und Silberputzmittel | (C/E) | I | 6.1 |  |
 | 9.4 | 6.1 | I bis III | Feste und flüssige Abfälle mit giftigen Stoffen, nicht ätzend und nicht entzündbar | (C/E) | I | 6.1 |  |
-|  |  |  | Bem.: Abfälle mit PCB, PCT und polyhalogenierten Biphenylen und Terphenylen, die polychlorierte Dibenzofurane (PCDF) der Klasse 6.1 enthalten, siehe Ausnahme 19 dieser Verordnung. |  |  |  |  |
 | 9.5 | 6.1 | I bis III | Feste und flüssige Abfälle mit giftigen Stoffen, ätzend | (C/E) | I | 6.1 + 8 |  |
 | 9.6 | 6.1 | I und II | Feste und flüssige Abfälle mit organischen giftigen Stoffen, entzündbar | (C/D) | I | 6.1 + 3 |  |
 | 9.7 | 6.1 | I bis III | Feste und flüssige Pflanzenschutz- und Schädlingsbekämpfungsmittel, ausgenommen solche der Abfallgruppe 7 | (C/E) | I | 6.1 |  |
@@ -485,7 +359,7 @@ Beförderung verpackter gefährlicher Abfälle
     Anstelle von „<<…>>“ sind die entsprechenden Angaben gemäß der Tabelle in Nummer 2.4 einzutragen. Die Verpackungsgruppe ist hierbei der Spalte 6 zu entnehmen.
   c) Zusätzlich ist zu vermerken: „Ausnahme 20“.
 6 Befristung
-  Die Ausnahme 20 ist bis zum 30. Juni 2021 befristet.
+  Die Ausnahme 20 ist bis zum 30. Juni 2027 befristet.
 Ausnahme 21 (B, E, S)
 Zusammenpacken von Patronen mit Waffenpflegemitteln
 1 Zusammenpackungszulassung
@@ -504,7 +378,7 @@ Zusammenpacken von Patronen mit Waffenpflegemitteln
   Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken:
   „Ausnahme 21“.
 5 Befristung
-  Die Ausnahme 21 ist bis zum 30. Juni 2021 befristet.
+  Die Ausnahme 21 ist bis zum 30. Juni 2027 befristet.
 Ausnahme 22 (E, S)
 Saug-Druck-Tanks
 1 Abweichend von § 1 Absatz 3 Nummer 1 und 2 der GGVSEB in Verbindung mit Kapitel 6.10 ADR/RID dürfen gefährliche Güter der Klassen 3, 4.1, 5.1, 6.1, 8 und 9
@@ -549,7 +423,7 @@ Beförderung von ungereinigten leeren Eichnormalen
 4 Sonstige Vorschriften
   Die übrigen Vorschriften des ADR finden keine Anwendung.
 5 Befristung
-  Die Ausnahme 24 ist bis zum 30. Juni 2021 befristet.
+  Die Ausnahme 24 ist bis zum 30. Juni 2027 befristet.
 Ausnahme 25
 – offen –
 Ausnahme 26
@@ -560,7 +434,7 @@ Ausnahme 28 (E, S)
 Zusammenladung von Automobilteilen der Klassifizierung 1.4G mit gefährlichen Gütern
 1 Abweichend von § 1 Absatz 3 Nummer 1 und 2 der GGVSEB in Verbindung mit Unterabschnitt 7.5.2.1 ADR/RID dürfen Automobilteile
   – UN 0431 PYROTECHNISCHE GEGENSTÄNDE für technische Zwecke sowie
-  – UN 0503 AIRBAG-GASGENERATOREN oder AIRBAG-MODULE oder GURTSTRAFFER
+  – UN 0503 SICHERHEITSEINRICHTUNGEN, PYROTECHNISCH
   der Klasse 1, Klassifizierungscode 1.4G mit den in der nachfolgenden Tabelle dargestellten Gefahrgütern der Klassen 2, 3, 8 und 9 unter Einhaltung der Bedingungen der Nummern 2 bis 6 zusammengeladen werden.
 2 Tabelle der Gefahrgüter
   | UN-Nummer | Benennung und Beschreibung | Klasse/ Klassifizierungs- code | Verpackungs- gruppe | Höchstzulässige Gesamtmenge je Beförderungs- einheit/Wagen/ Container |
@@ -589,11 +463,11 @@ Zusammenladung von Automobilteilen der Klassifizierung 1.4G mit gefährlichen G�
 4 Höchstzulässige Gesamtmenge je Beförderungseinheit oder Wagen
   Die Gesamtmenge aller gefährlichen Güter in einer Beförderungseinheit oder in einem Wagen darf die höchstzulässige Menge von 1 000 Kilogramm oder 1 000 Liter oder einer entsprechenden Summe beider Maßeinheiten nicht überschreiten. Bei der Berechnung sind die Mengen der gefährlichen Güter, deren Höchstmenge in der Tabelle in Nummer 2 auf 333 Liter oder 333 Kilogramm begrenzt ist, mit dem Faktor 3 zu multiplizieren.
 5 Sonstige Vorschriften
-  Die sonstigen, für die Beförderung von UN 0431 PYROTECHNISCHE GEGENSTÄNDE für technische Zwecke sowie UN 0503 AIRBAG-GASGENERATOREN oder AIRBAG-MODULE oder GURTSTRAFFER der Klasse 1, Klassifizierungscode 1.4G geltenden Vorschriften sind einzuhalten.
+  Die sonstigen, für die Beförderung von UN 0431 PYROTECHNISCHE GEGENSTÄNDE für technische Zwecke sowie UN 0503 SICHERHEITSEINRICHTUNGEN, PYROTECHNISCH der Klasse 1, Klassifizierungscode 1.4G geltenden Vorschriften sind einzuhalten.
 6 Angaben im Beförderungspapier
   Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: „Ausnahme 28“.
 7 Befristung
-  Die Ausnahme 28 ist bis zum 30. Juni 2021 befristet.
+  Die Ausnahme 28 ist bis zum 30. Juni 2027 befristet.
 Ausnahme 29
 – offen –
 Ausnahme 30
@@ -603,7 +477,7 @@ Prüfungsfahrten bei technischen Untersuchungen
 1 Abweichend von § 1 Absatz 3 Nummer 1 der GGVSEB in Verbindung mit Unterabschnitt 8.2.1.1 ADR müssen die nach § 14 Absatz 4 und 5 der GGVSEB zuständigen Sachverständigen und die Mitarbeiter der Technischen Dienste nicht im Besitz einer Bescheinigung über die Fahrzeugführerschulung sein, wenn die nachfolgenden Bestimmungen eingehalten werden.
 2 Bei Prüfungsfahrten im Zusammenhang mit der Durchführung von Untersuchungen nach den §§ 19, 21 und 29 der Straßenverkehrs-Zulassungs-Ordnung sowie technischen Untersuchungen gemäß Teil 9 ADR müssen die Personen von einem Inhaber der vorgenannten Bescheinigung begleitet werden. Der Inhaber der Bescheinigung ist verantwortlich für die Einhaltung der Gefahrgutvorschriften im Sinne der §§ 28 und 29 Absatz 1 bis 4 der GGVSEB.
 3 Befristung
-  Die Ausnahme ist bis zum 30. Juni 2021 befristet.
+  Die Ausnahme ist bis zum 30. Juni 2027 befristet.
 Ausnahme 32 (S, E)
 Beförderungen durch zivile Unternehmen im Auftrag und unter der Verantwortung der Bundeswehr
 1 Abweichend von § 1 Absatz 3 Nummer 1 in Verbindung mit § 5 Absatz 6 der GGVSEB dürfen folgende Allgemeine Ausnahmegenehmigungen der Bundeswehr zur Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB) auch durch zivile Unternehmen angewendet werden, die im Auftrag und unter der Verantwortung der Bundeswehr gefährliche Güter befördern:

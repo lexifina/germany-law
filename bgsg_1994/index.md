@@ -40,7 +40,7 @@ oder den Zustand von Sachen](0018.md)
 
 - [§ 21 Erhebung personenbezogener Daten](0021.md)
 - [§ 22 Befragung und Auskunftspflicht](0022.md)
-- [§ 22a Erhebung von Telekommunikationsdaten](0022a.md)
+- [§ 22a Bestandsdatenauskunft](0022a.md)
 - [§ 23 Identitätsfeststellung und Prüfung von Berechtigungsscheinen](0023.md)
 - [§ 24 Erkennungsdienstliche Maßnahmen](0024.md)
 - [§ 25 Vorladung](0025.md)

@@ -34,7 +34,7 @@
 - [§ 29 Pflichten mehrerer Beteiligter im Straßenverkehr](0029.md)
 - [§ 30 Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr](0030.md)
 - [§ 30a Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr](0030a.md)
-- [§ 31 Pflichten des Eisenbahninfrastrukturunternehmers im Eisenbahnverkehr](0031.md)
+- [§ 31 Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr](0031.md)
 - [§ 31a Pflichten des Triebfahrzeugführers im Eisenbahnverkehr](0031a.md)
 - [§ 32 Pflichten des Reisenden im Eisenbahnverkehr](0032.md)
 - [§ 33 Pflichten des Schiffsführers in der Binnenschifffahrt](0033.md)

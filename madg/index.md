@@ -5,7 +5,7 @@
 - [§ 3 Zusammenarbeit mit den Verfassungsschutzbehörden](0003.md)
 - [§ 4 Befugnisse des Militärischen Abschirmdienstes](0004.md)
 - [§ 4a Besondere Auskunftsverlangen](0004a.md)
-- [§ 4b Weitere Auskunftsverlangen](0004b.md)
+- [§ 4b Besondere Auskunftsverlangen zu Bestandsdaten](0004b.md)
 - [§ 5 Besondere Formen der Datenerhebung](0005.md)
 - [§ 6 Verwendung und Berichtigung personenbezogener Daten](0006.md)
 - [§ 7 Verwendung personenbezogener Daten von Minderjährigen](0007.md)

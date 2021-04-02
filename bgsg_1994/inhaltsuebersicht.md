@@ -33,7 +33,7 @@
 |  |  |  |  |  | Datenerhebung |
 |  |  | § 21 | Erhebung personenbezogener Daten |
 |  |  | § 22 | Befragung und Auskunftspflicht |
-|  |  | § 22a | Erhebung von Telekommunikationsdaten |
+|  |  | § 22a | Bestandsdatenauskunft |
 |  |  | § 23 | Identitätsfeststellung und Prüfung von Berechtigungsscheinen |
 |  |  | § 24 | Erkennungsdienstliche Maßnahmen |
 |  |  | § 25 | Vorladung |

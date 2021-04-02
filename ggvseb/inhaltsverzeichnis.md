@@ -33,7 +33,7 @@
 | § 29 | Pflichten mehrerer Beteiligter im Straßenverkehr |
 | § 30 | Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr |
 | § 30a | Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr |
-| § 31 | Pflichten des Eisenbahninfrastrukturunternehmers im Eisenbahnverkehr |
+| § 31 | Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr |
 | § 31a | Pflichten des Triebfahrzeugführers im Eisenbahnverkehr |
 | § 32 | Pflichten des Reisenden im Eisenbahnverkehr |
 | § 33 | Pflichten des Schiffsführers in der Binnenschifffahrt |

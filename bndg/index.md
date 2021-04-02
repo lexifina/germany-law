@@ -6,7 +6,7 @@
 - [§ 1 Organisation und Aufgaben](0001.md)
 - [§ 2 Befugnisse](0002.md)
 - [§ 3 Besondere Auskunftsverlangen](0003.md)
-- [§ 4 Weitere Auskunftsverlangen](0004.md)
+- [§ 4 Besondere Auskunftsverlangen zu Bestandsdaten](0004.md)
 - [§ 5 Besondere Formen der Datenerhebung](0005.md)
 
 ## Abschnitt 2 Ausland-Ausland-Fernmeldeaufklärung

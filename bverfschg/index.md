@@ -17,7 +17,7 @@
 - [§ 8a Besondere Auskunftsverlangen](0008a.md)
 - [§ 8b Verfahrensregelungen zu besonderen Auskunftsverlangen](0008b.md)
 - [§ 8c Einschränkungen eines Grundrechts](0008c.md)
-- [§ 8d Weitere Auskunftsverlangen](0008d.md)
+- [§ 8d Besondere Auskunftsverlangen zu Bestandsdaten](0008d.md)
 - [§ 9 Besondere Formen der Datenerhebung](0009.md)
 - [§ 9a Verdeckte Mitarbeiter](0009a.md)
 - [§ 9b Vertrauensleute](0009b.md)

@@ -8,7 +8,7 @@ Inhaltsübersicht
 | 2. Abschnitt: Gebühren der Landesbehörden | 102 bis 104 |
 | 3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 7 | 211 bis 227.1 |
 | III. Teil: Eisenbahnverkehr |  |
-| 1. Abschnitt: Gebühren der Bundesbehörden | 311.1 bis 312.2 |
+| 1. Abschnitt: Gebühren der Bundesbehörden | 311.1 bis 312.1 |
 | 2. Abschnitt: Gebühren der Landesbehörden | 411 |
 | 3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 4 | 611 bis 618.1 |
 | IV. Teil: Binnenschiffsverkehr |  |
@@ -77,7 +77,7 @@ II. Teil: Straßenverkehr
 | 225.5 | Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 und 6.8.3.4 ADR). | 40 je begonnene Viertelstunde |
 | 225.6 | Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 ADR). | 55 |
 | 225.7 | Änderung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR), einschließlich eventuell erforderlicher Prüfungen. | 40 je begonnene Viertelstunde |
-| 225.8 | Für die Prüfungen zur Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten (Absatz 6.8.2.1.23 Satz 1 ADR) werden Gebühren nach Gebührennummer 226 berechnet. |  |
+| 225.8 | Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 ADR) werden Gebühren nach Gebührennummer 226 berechnet. |  |
 | 226 | Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.7 und 6.8 ADR). Sind vergleichbare Prüfungen nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen. | 40 je begonnene Viertelstunde |
 | 227 | Getrennte Baumusterzulassung von Ventilen und anderen Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 ADR): |  |
 | 227.1 | Ausstellen der Baumusterzulassungsbescheinigung. | 40 je begonnene Viertelstunde |
@@ -87,8 +87,7 @@ III. Teil: Eisenbahnverkehr
 | 311.1 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 60 bis 2 000 |
 | 311.2 | Prüfung und Erteilung einer Genehmigung für die Fortsetzung einer Beförderung (§ 15 Absatz 1 Satz 1 Nummer 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 30 je begonnene Viertelstunde |
 | 312 | Tanks der Kesselwagen (Kapitel 6.8 RID, § 15 Absatz 1 Satz 1 Nummer 8 und 10 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt): |  |
-| 312.1 | Für die –Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten (Absatz 6.8.2.1.23 Satz 1 RID) sowie–Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 letzter Satz RID)werden Gebühren nach der Gebührennummer 617 berechnet. |  |
-| 312.2 | Für die –erstmalige Zulassung eines Baumusters,–Nachträge zu Zulassungen für Änderungen oder Ergänzungen,–Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie–Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617 berechnet. |  |
+| 312.1 | Für die –erstmalige Zulassung eines Baumusters,–Nachträge zu Zulassungen für Änderungen oder Ergänzungen,–Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie–Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2werden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617 berechnet. |  |
 2. Abschnitt: Gebühren der Landesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 411 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 1 Nummer 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 50 bis 2 000 |
@@ -119,7 +118,7 @@ III. Teil: Eisenbahnverkehr
 | 616.3 | Bei Eisenbahnkesselwagen, die nur mit Obenentleerung ausgerüstet sind (z. B. Klassen 3 bis 9), werden bei den Gebührennummern 613.3, 613.4, 614.2, 614.3 und 615 nur 70 Prozent der jeweiligen Gebühr berechnet. |  |
 | 616.4 | Außerordentliche Prüfungen (Absatz 6.8.2.4.4 RID): Für Prüfungen im Rahmen von außerordentlichen Prüfungen sind Gebühren wie für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen zu entrichten. |  |
 | 616.5 | Einzelne Funktionsprüfungen: Im Zusammenhang mit den Prüfungen nach Unterabschnitt 6.8.2.4 und 6.8.3.4 RID vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Armaturen. | 20 je Funktionsprüfung |
-| 616.6 | Für die Prüfungen zur Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten (Absatz 6.8.2.1.23 Satz 1 RID) werden Gebühren nach Gebührennummer 617 berechnet. |  |
+| 616.6 | Für die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen (Absatz 6.8.2.1.23 RID) werden Gebühren nach Gebührennummer 617 berechnet. |  |
 | 617 | Für andere als die aufgeführten Prüfungen werden Gebühren für vergleichbare Prüfungen berechnet (Kapitel 6.8 RID). Sind vergleichbare Prüfungen nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder einem erweiterten Prüfumfang ist der Mehraufwand ebenfalls nach dem Zeitaufwand zu berechnen. | 40 je begonnene Viertelstunde |
 | 618 | Getrennte Baumusterzulassung von Ventilen und anderen Bedienungsausrüstungen (Unterabschnitt 6.8.2.3 RID): |  |
 | 618.1 | Ausstellen der Baumusterzulassungsbescheinigung. | 40 je begonnene Viertelstunde |
@@ -129,7 +128,7 @@ IV. Teil: Binnenschiffsverkehr
 | 701 | Prüfung zur Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme, für Beförderungen innerhalb Deutschlands auf Bundeswasserstraßen (§ 5 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 50 bis 2 000 |
 | 702.1 | Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN). | 80 bis 320 |
 | 702.2 | Aufsicht über die ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.4 ADN). | 55 je Stunde |
-| 703 | Zulassung sowie Verlängerung und/oder Aufhebung einer Zulassung a)von Personen für die Bescheinigung der Rohrleitungstrennung vor derBeladung mit UN 1230 und UN 2983 und vor jeder Wiederaufnahme solcher Transporte (Unterabschnitt 3.2.3.2 Tabelle C Spalte 20 Nummer 12 Buchstabe q ADN),b)von sachkundigen Personen oder Firmen für die Reinigung von Ladetanks, in denen Wasserstoffperoxid-Lösungen befördert wurden (Unterabschnitt 3.2.3.2 Tabelle C Spalte 20 Nummer 33 Buchstabe i 2 ADN),c)für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche (Unterabschnitt 8.1.6.1 bis 8.1.6.3 ADN),d)für die Prüfung der elektrischen Anlagen und Geräte (Unterabschnitt 8.1.7.1 ADN),e)für die Prüfung der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ „begrenzte Explosionsgefahr“, Anlagen und Geräte, die Unterabschnitt 9.3.1.51, 9.3.2.51, 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme (Unterabschnitt 8.1.7.2 ADN),f)für die Prüfung der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord (Absatz 9.3.1.8.4, 9.3.2.8.4, 9.3.3.8.4 ADN) undg)für die Feststellung und Bescheinigung des Ergebnisses des Entgasens von Ladetanks und im Bereich der Ladung befindlicher Rohrleitungen von Binnentankschiffen (Absatz 7.2.3.7.1.6 und 7.2.3.7.2.6 ADN). | 150 bis 1 000 |
+| 703 | Zulassung sowie Verlängerung und/oder Aufhebung einer Zulassung a)von Personen für die Bescheinigung der Rohrleitungstrennung vor derBeladung mit UN 1230 und UN 2983 und vor jeder Wiederaufnahme solcher Transporte (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 12 Buchstabe q ADN),b)von sachkundigen Personen oder Firmen für die Reinigung von Ladetanks, in denen Wasserstoffperoxid-Lösungen befördert wurden (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 33 Buchstabe i 2 ADN),c)für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche (Unterabschnitt 8.1.6.1 bis 8.1.6.3 ADN),d)für die Prüfung der elektrischen Anlagen und Geräte (Unterabschnitt 8.1.7.1 ADN),e)für die Prüfung der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ „begrenzte Explosionsgefahr“, Anlagen und Geräte, die Unterabschnitt 9.3.1.51, 9.3.2.51, 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme (Unterabschnitt 8.1.7.2 ADN),f)für die Prüfung der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord (Absatz 9.3.1.8.4, 9.3.2.8.4, 9.3.3.8.4 ADN) undg)für die Feststellung und Bescheinigung des Ergebnisses des Entgasens von Ladetanks und im Bereich der Ladung befindlicher Rohrleitungen von Binnentankschiffen (Absatz 7.2.3.7.1.6 und 7.2.3.7.2.6 ADN). | 150 bis 1 000 |
 | 704 | Anerkennung von Dokumenten nach Unterabschnitt 8.2.1.9 und 8.2.1.10 ADN. | 55 bis 110 |
 | 705 | Eintragung eines Sichtvermerkes nach Absatz 1.6.7.2.2.2 und Abschnitt 8.1.2 ADN. | 30 |
 | 706 | Prüfung und Ausstellung eines normalen Zulassungszeugnisses (Abschnitt 1.16.2 und Unterabschnitt 1.16.6.3 ADN) oder Ausstellung einer Ersatzausfertigung (Abschnitt 1.16.14 ADN). | 40 bis 200 |
@@ -167,7 +166,7 @@ IV. Teil: Binnenschiffsverkehr
 | 733 und 734 | nicht vergeben |  |
 | 735 | Beaufsichtigung der Untersuchung eines Schiffes durch Untersuchungsstelle oder Klassifikationsgesellschaft (Unterabschnitt 1.16.3.1 ADN). | 50 je Stunde |
 | 736 | Prüfung und Zustimmung zum Entgasen an einer Annahmestelle, wenn nicht alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.3.7.2.2 ADN). | 100 |
-| 737 | Prüfung und Genehmigung von Ladeplänen bei der Beförderung von UN 1280 und UN 2983 (Unterabschnitt 3.2.3.2 Tabelle C Spalte 20 Bemerkung 12 Buchstabe p ADN). | 100 |
+| 737 | Prüfung und Genehmigung von Ladeplänen bei der Beförderung von UN 1280 und UN 2983 (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Bemerkung 12 Buchstabe p ADN). | 100 |
 | 738 | Prüfung und Genehmigung des Aufenthalts eines Schiffes an einer Lade- oder Löschstelle, bei der landseitig eine Explosionsschutzzone ausgewiesen ist, in dieser oder unmittelbar angrenzend an diese Zone, wenn das Schiff die Anforderungen des Absatzes 9.1.0.12.3 Buchstabe b oder c, des Unterabschnitts 9.1.0.51, der Absätze 9.1.0.52.1 und 9.1.0.52.2 nicht erfüllt (Absatz 7.1.4.7.3 ADN). | 100 |
 | 739 | Prüfung und Zulassung einer Ausnahme bezüglich des Aufhaltens des Schiffes in einer von der Landanlage ausgewiesenen Explosionsschutzzone, wenn das Schiff die Anforderungen des Absatzes 9.3.x.12.4 Buchstabe b oder c, des Unterabschnitts 9.3.x.51, der Absätze 9.3.x.52.1 und 9.3.x.52.3 nicht erfüllt (Absatz 7.2.4.7.1 ADN). | 100 |
 | 740 | Prüfung und Genehmigung des Aufenthalts eines Schiffes in einer oder unmittelbar angrenzend an eine landseitig ausgewiesene Explosionsschutzzone, wenn das Schiff die Anforderungen aus Absatz 7.1.3.51.5 und 7.1.3.51.6 nicht erfüllt (Absatz 7.1.3.51.8 ADN). | 100 |
@@ -207,6 +206,7 @@ V. Teil: Seeschiffsverkehr
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 901 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 7 Absatz 3 und 4 der Gefahrgutverordnung See). | 50 bis 2 000 |
 | 902 | Erteilung der Zustimmung nach Unterabschnitt 2.10.2.6 des IMDG-Codes (§ 14 der Gefahrgutverordnung See). | 25 je begonnene Viertelstunde |
+| 903 | Ausstellung von Bescheinigungen über die Übereinstimmung mit den besonderen Vorschriften für Schiffe, die gefährliche Güter befördern (§ 15 Nummer 1 der Gefahrgutverordnung See). | 50 bis 2 000 |
 2. Abschnitt: Gebühren der Landesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 1001 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 7 Absatz 1 der Gefahrgutverordnung See). | 50 bis 2 000 |
