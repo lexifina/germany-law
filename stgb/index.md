@@ -484,7 +484,7 @@ sexuelle Selbstbestimmung
 - [§ 185 Beleidigung](0185.md)
 - [§ 186 Üble Nachrede](0186.md)
 - [§ 187 Verleumdung](0187.md)
-- [§ 188 Üble Nachrede und Verleumdung gegen Personen des politischen Lebens](0188.md)
+- [§ 188 Gegen Personen des politischen Lebens gerichtete Beleidigung, üble Nachrede und Verleumdung](0188.md)
 - [§ 189 Verunglimpfung des Andenkens Verstorbener](0189.md)
 - [§ 190 Wahrheitsbeweis durch Strafurteil](0190.md)
 - [§ 191 (weggefallen)](0191.md)

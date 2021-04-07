@@ -498,7 +498,7 @@
 |  | § 185 | Beleidigung |
 |  | § 186 | Üble Nachrede |
 |  | § 187 | Verleumdung |
-|  | § 188 | Üble Nachrede und Verleumdung gegen Personen des politischen Lebens |
+|  | § 188 | Gegen Personen des politischen Lebens gerichtete Beleidigung, üble Nachrede und Verleumdung |
 |  | § 189 | Verunglimpfung des Andenkens Verstorbener |
 |  | § 190 | Wahrheitsbeweis durch Strafurteil |
 |  | § 191 | (weggefallen) |
