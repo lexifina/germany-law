@@ -1,0 +1,8 @@
+# TOP 8.6: Eine Toilette für den Aktivspielplatz an der Dolgenseestraße (mitberatend)
+
+- Sitzung: 31. Sitzung in der VIII. Wahlperiode des Ausschusses Umwelt und Klimaschutz (2021-04-07)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=55440
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=55440
