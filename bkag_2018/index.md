@@ -20,6 +20,7 @@
 
 - [§ 9 Allgemeine Datenerhebung durch und Datenübermittlung an das Bundeskriminalamt](0009.md)
 - [§ 10 Bestandsdatenauskunft](0010.md)
+- [§ 10a Erhebung von Nutzerdaten zur Identifizierung](0010a.md)
 - [§ 11 Aufzeichnung eingehender Telefonanrufe](0011.md)
 
 ### Unterabschnitt 2 Weiterverarbeitung von Daten
@@ -91,12 +92,14 @@
 ## Abschnitt 6 Befugnisse zum Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
 
 - [§ 63 Allgemeine Befugnisse](0063.md)
+- [§ 63a Bestandsdatenauskunft](0063a.md)
 - [§ 64 Besondere Mittel der Datenerhebung](0064.md)
 - [§ 65 Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle](0065.md)
 
 ## Abschnitt 7 Zeugenschutz
 
 - [§ 66 Befugnisse](0066.md)
+- [§ 66a Bestandsdatenauskunft](0066a.md)
 
 ## Abschnitt 8 Befugnisse zur Sicherung des Bundeskriminalamtes und zum behördlichen Eigenschutz
 

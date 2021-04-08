@@ -33,7 +33,10 @@ Datenschutz
 | § 14 | Bestandsdaten |
 | § 14a | Verarbeitung personenbezogener Daten Minderjähriger |
 | § 15 | Nutzungsdaten |
-| § 15a | Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten |
+| § 15a | Auskunftsverfahren bei Bestandsdaten |
+| § 15b | Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten |
+| § 15c | Auskunftsverfahren bei Nutzungsdaten |
+| § 15d | Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten |
 Abschnitt 6
 Bußgeldvorschriften
 | § 16 | Bußgeldvorschriften |

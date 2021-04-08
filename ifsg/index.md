@@ -13,6 +13,7 @@
 
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
 - [§ 5 Epidemische Lage von nationaler Tragweite](0005.md)
+- [§ 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung](0005a.md)
 
 ## 3. Abschnitt Überwachung
 
