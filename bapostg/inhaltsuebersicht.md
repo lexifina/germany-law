@@ -13,7 +13,7 @@
 | § 5 | Verwaltungsrat |
 | § 6 | Einspruch gegen Beschlüsse des Verwaltungsrats |
 | § 7 | Genehmigungen |
-| § 8 | Satzung |
+| § 8 | (weggefallen) |
 | Abschnitt 4 |
 |  | Postbeamtenversorgungskasse |
 | § 9 | Grundsätze |
@@ -65,4 +65,4 @@
 |  | Übergangsregelungen |
 | § 28 | Übergangsregelung im Sozialwesen |
 | § 29 | Vermögensübergang |
-| Anlage (zu § 8 Satz 1) |
+|  |

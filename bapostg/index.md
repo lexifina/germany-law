@@ -17,7 +17,7 @@
 - [§ 5 Verwaltungsrat](0005.md)
 - [§ 6 Einspruch gegen Beschlüsse des Verwaltungsrats](0006.md)
 - [§ 7 Genehmigungen](0007.md)
-- [§ 8 Satzung](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 
 ## Abschnitt 4 Postbeamtenversorgungskasse
 
@@ -78,5 +78,3 @@
 ## Abschnitt 9 Übergangsregelungen
 
 - [§ 29 Vermögensübergang](0029.md)
-- [§ 30 (weggefallen)](0030.md)
-- [Anlage (zu § 8 Satz 1)](anlage.md)
