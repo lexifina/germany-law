@@ -1,35 +1,32 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2021-02-03 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_03022021.pdf
+- Datum: 2021-04-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_09042021.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 23. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 3. Februar 2021
+in der Fassung der 24. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 9. April 2021
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
+II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
+III. Bezirksvertretungen § 18 Allgemeines § 19 Aufgaben der Bezirksvertretungen
 
 IV. Ausschüsse § 20 Hauptausschuss § 21 Sachkundige Bürgerinnen/Bürger und Einwohnerinnen/Einwohner
 V. Beiräte § 21 a Ältestenrat § 22 Integrationsrat § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik § 23 b Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (LST)
 VI. Finanzielle Entschädigungen für Mandatsträgerinnen und Mandatsträger § 24 Ersatz des Verdienstausfalles § 25 Allgemeine Aufwandsentschädigungen § 26 Sonderaufwandsentschädigungen
-
-II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
-
 VII. Verwaltung § 27 Gleichstellung von Frau und Mann § 28 Personalangelegenheiten § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen § 30 Zahl der Beigeordneten § 31 Inkrafttreten der Hauptsatzung
 
-III. Bezirksvertretungen § 18 Allgemeines § 19 Aufgaben der Bezirksvertretungen
-Aufgrund von §§ 7 Abs. 1, 41 Abs. 1 Satz 2 lit f Gemeindeordnung NRW i.d.F. der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch Artikel 1 des Gesetzes vom 15. November 2016 (GV.NRW.S. 966) hat der Rat folgende Änderungen der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die 22. Änderungssatzung der Hauptsatzung vom 17. Dezember 2020, in seinen
+Aufgrund von §§ 7 Abs. 1, 41 Abs. 1 Satz 2 lit f Gemeindeordnung NRW i.d.F. der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch Artikel 3 des Gesetzes vom 29. September 2020 (GV.NRW.S.916) hat der Rat folgende Änderungen der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die
 
 Seite 1 von 23
 
-Sitzungen vom 05.11.2020 (§ 1 Ziffer 1 und 2 dieser Satzung) und 10.12.2020 (§ 1 Ziffer 3 dieser Satzung) beschlossen:
-Der Rat der Stadt Köln hat in seiner Sitzung am 28. August 2008 auf Grund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) in der bei Erlass dieser Satzung geltenden Fassung diese Hauptsatzung beschlossen:
+23. Änderungssatzung der Hauptsatzung vom 3. Februar 2021, in seiner Sitzung am 23.03.2021 beschlossen:
 
 I. Allgemeines
 
@@ -64,10 +61,12 @@ Stadtbezirk 7
 
 Stadtbezirk 8 (Kalk) Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar, Vingst
 
+Stadtbezirk 9 (Mülheim) Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim, Stammheim
+
+(3) Die Grenzen der Stadtbezirke ergeben sich aus der in Absatz 1 genannten Karte. Die Karte ist Bestandteil dieser Satzung.
+
 Seite 2 von 23
 
-Stadtbezirk 9 (Mülheim) Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim, Stammheim
-(3) Die Grenzen der Stadtbezirke ergeben sich aus der in Absatz 1 genannten Karte. Die Karte ist Bestandteil dieser Satzung.
 §2 Siegel, Wappen und Flagge
 (§ 14 GO)
 (1) Die Stadt Köln führt das in der Anlage abgebildete Wappen.
@@ -80,11 +79,11 @@ Stadtbezirk 9 (Mülheim) Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, H
 (2) Der Rat wählt für die Dauer seiner Wahlzeit aus seiner Mitte ohne Aussprache ehrenamtliche Stellvertreterinnen/Stellvertreter der Oberbürgermeisterin/des Oberbürgermeisters. Diese führen die Bezeichnung "Bürgermeisterin/Bürgermeister". Ist die Oberbürgermeisterin/der Oberbürgermeister verhindert, ergibt sich die Vertretung durch die Bürgermeisterinnen/Bürgermeister bei der Repräsentation und der Leitung der Ratssitzungen aus der Reihenfolge ihrer Wahl nach dem in § 67 GO vorgesehenen Verfahren.
 (3) Jede Bezirksvertretung wählt aus ihrer Mitte ohne Aussprache die Bezirksbürgermeisterin / den Bezirksbürgermeister und eine oder mehrere Stellvertreterinnen/einen oder mehrere Stellvertreter. Diese führen die Bezeichnung "stellvertretende Bezirksbürgermeisterin/stellvertretender Bezirksbürgermeister". Ist die Bezirksbürgermeisterin/der Bezirksbürgermeister verhindert, gilt Absatz 2 Satz 3 entsprechend.
 (4) Frauen führen die Amts- und Funktionsbezeichnung in der jeweiligen weiblichen Form.
-Seite 3 von 23
-
 §4 Amtszeichen
 Die Oberbürgermeisterin/der Oberbürgermeister trägt bei feierlichen Anlässen eine Amtskette. Diese enthält unter anderem das Wappen der Stadt Köln.
 §5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse
+Seite 3 von 23
+
 und der Bezirksvertretungen (§ 36 Abs. 3, § 58 Absätze 1 bis 4, § 67 Abs. 3 GO)
 (1) Bei der Einführung werden die Bürgermeisterinnen/Bürgermeister, die Ratsmitglieder, die Bezirksbürgermeisterinnen/Bezirksbürgermeister, deren Stellvertreterinnen/ Stellvertreter und die Mitglieder der Bezirksvertretungen mit folgender Erklärung verpflichtet:
 "Ich verpflichte Sie, Ihre Aufgabe als ....... nach bestem Wissen und Können wahrzunehmen, das Grundgesetz, die Verfassung des Landes Nordrhein-Westfalen und die Gesetze zu beachten und Ihre Pflichten zum Wohle der Stadt Köln zu erfüllen."
@@ -99,12 +98,12 @@ d) Beteiligungen an Unternehmen;
 e) ausgeübter Beruf - bei Unselbständigen: Angabe des Arbeitgebers/Dienstherrn und Art der Beschäftigung; - bei Selbständigen: Angabe der Art der Tätigkeit; - bei mehreren ausgeübten Berufen: Angabe des Schwerpunktes der beruflichen Tätigkeit;
 f) Beraterverträge;
 g) die Mitgliedschaft in Aufsichträten und anderen Kontrollgremien im Sinne des § 125 Abs. 1 Satz 3 AktG;
-Seite 4 von 23
-
 h) die Mitgliedschaft in Organen von verselbständigten Aufgabenbereichen in öffentlich-rechtlicher oder privatrechtlicher Form der in § 1 Abs. 1 und 2 Landesorganisationsgesetz genannten Behörden und Einrichtungen;
 i) die Mitgliedschaft in Organen sonstiger privatwirtschaftlicher Unternehmen;
 j) die Funktionen in Vereinen oder vergleichbaren Gremien.
 (2) Änderungen der Angaben nach Absatz 1 sind der dort benannten Stelle unverzüglich mitzuteilen.
+Seite 4 von 23
+
 (3) Die Auskünfte sind vertraulich zu behandeln. Die Erklärungen der Ratsmitglieder, der Mitglieder der Ausschüsse und Bezirksvertretungen werden mit Ausnahme der Angaben zu Abs. 1 lit. a) bis d) auf der städtischen Internetseite veröffentlicht. Nach Ablauf der Wahlperiode oder beim vorzeitigen Ausscheiden sind die gespeicherten Daten der ausgeschiedenen Mitglieder zu löschen.
 (4) In beruflichen und geschäftlichen Angelegenheiten sind Hinweise auf die Mitgliedschaft im Rat, in den Ausschüssen oder in den Bezirksvertretungen zu unterlassen.
 §7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln
@@ -116,10 +115,11 @@ j) die Funktionen in Vereinen oder vergleichbaren Gremien.
 (1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden durch Bereitstellung des digitalisierten Dokuments unter www.stadt-koeln.de/Bekanntmachungen vollzogen, soweit gesetzlich nicht etwas anderes bestimmt ist. Auf die erfolgte Bereitstellung wird im „Amtsblatt der Stadt Köln“ nachrichtlich hingewiesen. Soweit gesetzlich erforderlich, wird die öffentliche Bekanntmachung zusätzlich im "Amtsblatt der Stadt Köln" vollzogen.
 (2) Zustellungen durch öffentliche Bekanntmachung werden durch Bereitstellung der Benachrichtigung im Internet für die Dauer von zwei Wochen unter www.stadtkoeln.de/oeffentliche-zustellungen vollzogen.
 (3) Sind öffentliche Bekanntmachungen in der durch Absatz 1 und 2 festgelegten Form infolge höherer Gewalt oder sonstiger unabwendbarer Ereignisse nicht möglich, so genügt die Bekanntmachung durch einen Aushang im Erdgeschoss des städtischen Dienstgebäudes Laurenzplatz 4, 50667 Köln, bis zur späteren nachrichtlichen Bekanntmachung unter www.stadt-koeln.de/Bekanntmachungen bzw. www.stadt-koeln.de/oeffentliche-zustellungen. Dies gilt entsprechend auch für den nachrichtlichen Hinweis in Absatz 1 Satz 3.
+§9 Zuständigkeitsordnung (§ 41 Absätze 2 und 3 GO)
+Die auf Fachausschüsse oder die Oberbürgermeisterin/den Oberbürgermeister übertragenen Entscheidungsbefugnisse sowie deren Abgrenzung zu den
 Seite 5 von 23
 
-§9 Zuständigkeitsordnung (§ 41 Absätze 2 und 3 GO)
-Die auf Fachausschüsse oder die Oberbürgermeisterin/den Oberbürgermeister übertragenen Entscheidungsbefugnisse sowie deren Abgrenzung zu den Zuständigkeiten der Bezirksvertretungen legt der Rat in einer Zuständigkeitsordnung fest.
+Zuständigkeiten der Bezirksvertretungen legt der Rat in einer Zuständigkeitsordnung fest.
 § 10 Dringlichkeitsentscheidungen (§ 60 Abs. 1 Satz 2, § 60 Abs. 2 Satz 1, § 36 Abs. 5 Satz 2 GO)
 (1) Dringlichkeitsentscheidungen gem. § 60 Abs. 1 Satz 2, § 60 Abs. 2 Satz 1, § 36 Abs. 5 Satz 2 GO müssen schriftlich erfolgen. Die Dringlichkeit ist in dem Entwurf der Dringlichkeitsentscheidung schriftlich zu begründen.
 (2) Hat die Oberbürgermeisterin/der Oberbürgermeister den Entwurf einer Dringlichkeitsentscheidung des Rates oder eines Ausschusses unterzeichnet, so leitet sie/er zugleich mit der Weiterleitung des Entwurfes an das mitunterzeichnende Rats- bzw. Ausschussmitglied Kopien der Vorlage den Ratsfraktionen und den nicht einer Fraktion angehörenden Ratsmitgliedern nachrichtlich zu.
@@ -132,9 +132,9 @@ beschränkter Ausschreibungen darstellen.
 Zu den leitenden Dienstkräften im Sinne dieses Paragrafen gehören die Beigeordneten, die Beamtinnen/Beamten von BesGr. A 16 an aufwärts und die Beschäftigten der Entgeltgruppen 15 und 15 Ü sowie mit außertariflicher Vergütung.
 § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes
 (§ 29 GO)
+Die Entscheidung, ob ein wichtiger Grund vorliegt, der eine Einwohnerin/einen Einwohner oder eine Bürgerin/einen Bürger berechtigt, die Übernahme einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes abzulehnen, die Ausübung zu verweigern oder das Ausscheiden zu verlangen, wird der Oberbürgermeisterin/dem Oberbürgermeister übertragen.
 Seite 6 von 23
 
-Die Entscheidung, ob ein wichtiger Grund vorliegt, der eine Einwohnerin/einen Einwohner oder eine Bürgerin/einen Bürger berechtigt, die Übernahme einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes abzulehnen, die Ausübung zu verweigern oder das Ausscheiden zu verlangen, wird der Oberbürgermeisterin/dem Oberbürgermeister übertragen.
 § 12a Städtepartnerschaften
 (1) Die Stadt Köln begründet und pflegt Städtepartnerschaften im In- und Ausland, um auf kommunaler Ebene einen Beitrag für einen dauerhaften Frieden zu leisten.
 (2) Bei Reisen in die Partnerstädte repräsentieren die Oberbürgermeisterin/ der Oberbürgermeister oder ein von ihr/ihm zu benennender Vertreterin/Vertreter sowie die/der für die Betreuung der jeweiligen Partnerstadt zuständige Bedienstete der Verwaltung die Stadt Köln. Bei Neubegründungen und Jubiläen von 10, 25, 50, 75 usw. Jahren des Bestehens von Städtepartnerschaften wählt der Hauptausschuss bei einer Einladung der Partnerstadt an Ratsmitglieder die zu entsendenden Teilnehmer nach dem in § 50 Abs. 3 GO in der jeweils gültigen Fassung vorgesehenen Verfahren. Über weitere Ausnahmen, insbesondere bei Einladungen der Partnerstädte an Ratsmitglieder außerhalb der in Satz 2 genannten Anlässe, entscheidet der Hauptausschuss.
@@ -146,10 +146,9 @@ II. Bürgerbeteiligung
 § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame
 Angelegenheiten (§ 23 GO)
 (1) Der Rat unterrichtet die Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten der Stadt, soweit eine Bürgerinformation nicht durch förmliches Verfahren aufgrund anderer Bestimmungen sichergestellt ist. Zu den allgemein bedeutsamen Angelegenheiten zählen wichtige mittel- und langfristige Vorhaben und Planungen der Stadt Köln, die raum- oder entwicklungsbedeutsam sind oder die das wirtschaftliche, soziale und kulturelle Wohl der Einwohnerinnen und Einwohner nachhaltig berühren.
-(2) Der Rat beschließt im Einzelfall, ob und in welcher Weise die Einwohnerinnen und Einwohner zu unterrichten sind. Er kann die Unterrichtung einer
+(2) Der Rat beschließt im Einzelfall, ob und in welcher Weise die Einwohnerinnen und Einwohner zu unterrichten sind. Er kann die Unterrichtung einer Bezirksvertretung oder der Oberbürgermeisterin/dem Oberbürgermeister übertragen. Je nach Bedeutung der Angelegenheit und der Zahl der betroffenen Einwohnerinnen und Einwohner kommen neben der Einwohnerversammlung nach Absatz 3 insbesondere Pressemitteilungen, Veröffentlichungen im Amtsblatt der Stadt Köln, Plakatanschläge, Einwohnerbriefe, Flugblattaktionen, Internet u. ä. in Betracht.
 Seite 7 von 23
 
-Bezirksvertretung oder der Oberbürgermeisterin/dem Oberbürgermeister übertragen. Je nach Bedeutung der Angelegenheit und der Zahl der betroffenen Einwohnerinnen und Einwohner kommen neben der Einwohnerversammlung nach Absatz 3 insbesondere Pressemitteilungen, Veröffentlichungen im Amtsblatt der Stadt Köln, Plakatanschläge, Einwohnerbriefe, Flugblattaktionen, Internet u. ä. in Betracht.
 (3) Einwohnerversammlungen werden auf Stadtbezirksebene durchgeführt. Soweit der Rat die Unterrichtung nicht gem. Absatz 2 Satz 2 übertragen hat, setzt die Oberbürgermeisterin/der Oberbürgermeister den Versammlungsort fest und lädt alle Einwohnerinnen und Einwohner des Stadtbezirks durch öffentliche Bekanntmachung ein. Der Oberbürgermeisterin/dem Oberbürgermeister obliegt die Durchführung der Einwohnerversammlung und die Unterrichtung über die allgemein bedeutsame Angelegenheit. Diese Aufgaben kann sie/er im Einzelfall auf die/den Vorsitzenden des zuständigen Fachausschusses oder die zuständige Bezirksbürgermeisterin/den zuständigen Bezirksbürgermeister übertragen. Zur Unterrichtung soll die Oberbürgermeisterin/der Oberbürgermeister einzelne Ratsmitglieder, die Bezirksbürgermeisterin/den Bezirksbürgermeister, in Absprache mit dieser/diesem einzelne Mitglieder der Bezirksvertretung und die zuständigen Beigeordneten hinzuziehen. Eine Beschlussfassung über das Ergebnis der Einwohnerversammlung erfolgt nicht.
 (4) Die Bezirksvertretung unterrichtet die Einwohnerinnen und Einwohner des Stadtbezirks über allgemein bedeutsame Angelegenheiten, deren Bedeutung nicht wesentlich über den Stadtbezirk hinausgeht, soweit eine Bürgerinformation nicht durch förmliches Verfahren aufgrund anderer Bestimmungen sichergestellt ist. Die vorstehenden Absätze 1 bis 3 gelten entsprechend.
 § 14 Anregungen und Beschwerden
@@ -158,11 +157,11 @@ Bezirksvertretung oder der Oberbürgermeisterin/dem Oberbürgermeister übertrag
 (2) Die Geschäftsstelle prüft die Zulässigkeit der Anregungen und Beschwerden. Mehrere wort- oder inhaltsgleiche Anregungen und Beschwerden können zusammengefasst bearbeitet und dem Ausschuss bzw. der Bezirksvertretung zusammen vorgelegt werden. Anregungen und Beschwerden werden ohne Behandlung im Ausschuss bzw. in der Bezirksvertretung von der Geschäftsstelle zurückgewiesen, wenn
 a) sie eine Angelegenheit beinhalten, für die die Stadt Köln örtlich oder sachlich nicht zuständig ist und die eine Befassung des Ausschusses bzw. der Bezirksvertretung unter dem Gesichtspunkt des Kontrollrechtes nicht zulässt;
 b) eine Behandlung wegen Unleserlichkeit, fehlender Namens- oder Anschriftenangabe oder mangels Sinnzusammenhanges nicht möglich ist;
-c) sie eine Dienstaufsichtsbeschwerde beinhalten;
+c) sie eine Dienstaufsichtsbeschwerde beinhalten; d) sie Anregungen und Beschwerden städtischer Bediensteter aus dem Dienst-
+oder Arbeitsverhältnis enthalten.
+Die Geschäftsstelle leitet die Anregungen und Beschwerden in den Fällen der Buchstaben a, c und d an die zuständigen Stellen weiter.
 Seite 8 von 23
 
-d) sie Anregungen und Beschwerden städtischer Bediensteter aus dem Dienstoder Arbeitsverhältnis enthalten.
-Die Geschäftsstelle leitet die Anregungen und Beschwerden in den Fällen der Buchstaben a, c und d an die zuständigen Stellen weiter.
 (3) Anregungen und Beschwerden können von der Geschäftsstelle ohne Behandlung im Ausschuss für Anregungen und Beschwerden bzw. in der Bezirksvertretung zurückgewiesen werden, wenn
 a) sie sich gegen Verwaltungshandlungen richten, gegen die Rechtsbehelfe oder Rechtsmittel eingelegt werden können;
 b) mit ihnen lediglich eine Rechtsauskunft begehrt wird; c) ihr Inhalt einen Straftatbestand erfüllt; d) sie gegenüber einer bereits beschiedenen Anregung oder Beschwerde kein
@@ -171,11 +170,11 @@ neues Sachvorbringen enthalten.
 (5) Betreffen die Anregungen und Beschwerden eine Angelegenheit, die Gegenstand eines schwebenden gerichtlichen Verfahrens ist, erfolgt keine sachliche Prüfung der Angelegenheit durch den Ausschuss. Dieser ist bei nächster Gelegenheit über die Angelegenheit zu informieren; nach Abschluss des gerichtlichen Verfahrens erfolgt eine nochmalige Information des Ausschusses. Eine Nachprüfung der richterlichen Entscheidung ist nicht zulässig. Satz 1 gilt entsprechend für Anregungen und Beschwerden, die anderen Petitionsausschüssen vorgelegt werden. Absatz 4 findet entsprechende Anwendung.
 (6) Betreffen die Anregungen und Beschwerden ein laufendes Bebauungsplanverfahren, so werden sie von der Geschäftsstelle unmittelbar an den Stadtentwicklungsausschuss weitergeleitet, soweit dieser noch nicht abschließend über die im Bebauungsplanverfahren eingebrachten Anregungen beraten hat. Die Geschäftsstelle unterrichtet die Antragstellerin/den Antragsteller und den Ausschuss für Anregungen und Beschwerden über die Weiterleitung.
 (7) Betreffen die Anregungen und Beschwerden eine Angelegenheit, in welcher ein anderes Gremium oder die Oberbürgermeisterin/der Oberbürgermeister entscheidungsbefugt ist, können diese vor einem Beschluss des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung dem Begehren folgen. Hiervon ist die Geschäftsstelle unmittelbar zu unterrichten. Betrifft eine Anregung oder Beschwerde eine Angelegenheit, mit der bereits ein Fachausschuss befasst ist, erhält der entsprechende Fachausschuss unverzüglich eine Mitteilung über die eingegangene Anregung oder Beschwerde. Der Ausschuss wird ebenfalls unverzüglich über die Beratungen im Fachausschuss unterrichtet. Außerdem ist die Antragstellerin/der Antragsteller über die Behandlung der Anregung oder Beschwerde im Fachausschuss vorab zu informieren.
-(8) Ist der Rat entscheidungsbefugt, so überweist der Ausschuss bzw. - soweit der Antrag an die Bezirksvertretung gerichtet ist - die Bezirksvertretung die Anregungen und Beschwerden mit einer Empfehlung an den Fachausschuss. Der Fachausschuss leitet die Anregungen und Beschwerden mit einer Stellungnahme zu der Empfehlung
+(8) Ist der Rat entscheidungsbefugt, so überweist der Ausschuss bzw. - soweit der Antrag an die Bezirksvertretung gerichtet ist - die Bezirksvertretung die Anregungen und Beschwerden mit einer Empfehlung an den Fachausschuss. Der Fachausschuss leitet die Anregungen und Beschwerden mit einer Stellungnahme zu der Empfehlung des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung an den Rat zur abschließenden Entscheidung weiter.
+(9) Ist ein Ausschuss oder die Oberbürgermeisterin/der Oberbürgermeister entscheidungsbefugt und macht der Rat von seinem Rückholrecht trotz Anregung
 Seite 9 von 23
 
-des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung an den Rat zur abschließenden Entscheidung weiter.
-(9) Ist ein Ausschuss oder die Oberbürgermeisterin/der Oberbürgermeister entscheidungsbefugt und macht der Rat von seinem Rückholrecht trotz Anregung des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung keinen Gebrauch, so kann der Ausschuss bzw. die Bezirksvertretung der zuständigen Stelle die Anregungen und Beschwerden mit einer Empfehlung überweisen.
+des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung keinen Gebrauch, so kann der Ausschuss bzw. die Bezirksvertretung der zuständigen Stelle die Anregungen und Beschwerden mit einer Empfehlung überweisen.
 (10) Ist eine Bezirksvertretung gem. § 19 Abs. 1 dieser Hauptsatzung zuständig, hat die Antragstellerin/der Antragsteller ihr/sein Anliegen aber an den Rat gerichtet, leitet die Geschäftsstelle die Anregungen und Beschwerden unmittelbar an die zuständige Bezirksvertretung zur Entscheidung weiter. Eine Vorberatung im Ausschuss für Anregungen und Beschwerden erfolgt nur auf Wunsch der Antragstellerin/des Antragstellers.
 (11) In den Fällen der Absätze 6, 8, 9 und 10 teilen die Stellen, die die abschließende Entscheidung getroffen haben, das Ergebnis der Geschäftsstelle zur Unterrichtung des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung mit.
 (12) Den Beschluss des Rates über die Anregungen und Beschwerden teilt die Oberbürgermeisterin/der Oberbürgermeister, den Beschluss des Ausschusses für Anregungen und Beschwerden in den Fällen der Absätze 9 und 10 die/der Ausschussvorsitzende und den Beschluss der Bezirksvertretung - auch in den Fällen der Absätze 8 und 9 – die Bezirksbürgermeisterin/der Bezirksbürgermeister der Antragstellerin/dem Antragsteller mit.
@@ -186,11 +185,10 @@ des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung an de
 (3) Der Rat berät zunächst über die Zulässigkeit des Einwohnerantrags in der auf den Abschluss der Vorprüfung folgenden ordentlichen Ratssitzung. Das Ergebnis der Vorprüfung ist den Sitzungsunterlagen zusammen mit dem Einwohnerantrag beizufügen. Sollte die Unzulässigkeit des Einwohnerantrages offensichtlich sein, so kann der Rat auch ohne Vorprüfung durch die Verwaltung über die Zulässigkeit entscheiden.
 (4) Der Rat beschließt über die Zulässigkeit des Antrages. Sollte der Antrag unzulässig sein, findet eine sachliche Beratung nicht statt. Die Vertreterinnen/Vertreter des Einwohnerantrags erhalten in diesem Fall einen schriftlichen Bescheid.
 Unzulässig sind Einwohneranträge, bei denen:
-1. das Quorum nach § 25 Abs. 3 Nr. 2 GO nicht erfüllt wurde;
+1. das Quorum nach § 25 Abs. 3 Nr. 2 GO nicht erfüllt wurde; 2. Personen, denen die Antragsberechtigung nach § 25 Abs. 1 GO fehlt,
+unterzeichnet haben und hierdurch das Quorum gem. § 25 Abs. 3 Nr. 2 GO nicht erfüllt wurde; 3. die Formerfordernisse des § 25 Abs. 2 Sätze 1, 2 und 3 GO nicht eingehalten wurden;
 Seite 10 von 23
 
-2. Personen, denen die Antragsberechtigung nach § 25 Abs. 1 GO fehlt, unterzeichnet haben und hierdurch das Quorum gem. § 25 Abs. 3 Nr. 2 GO nicht erfüllt wurde;
-3. die Formerfordernisse des § 25 Abs. 2 Sätze 1, 2 und 3 GO nicht eingehalten wurden;
 4. die Liste nicht den Ansprüchen des § 25 Abs. 4 Satz 1 GO genügt; 5. die Liste nicht den Ansprüchen des § 25 Abs. 4 Sätze 1 und 2 GO genügt und
 dadurch das Quorum gem. § 25 Abs. 3 Nr. 2 GO unterschritten wurde; 6. der Antrag vor Ablauf der in § 25 Abs. 5 GO bestimmten Frist erneut gestellt
 wurde.
@@ -202,10 +200,10 @@ Die Vorbereitung, Durchführung und Auswertung von Bürgerbegehren, Bürgerentsc
 III. Bezirksvertretungen
 § 18 Allgemeines (§§ 36, 37 GO)
 (1) Im Interesse und zum Wohle der Stadt Köln und aller Kölner Bürgerinnen und Bürger hat die Bezirksvertretung die Aufgabe, die Eigenart des Stadtbezirks und seiner Stadtteile zu bewahren und fortzuentwickeln sowie die Wünsche und Interessen seiner Einwohnerinnen und Einwohner zu erfassen und zur Geltung zu bringen. Die Bezirksvertretung hat alle den Stadtbezirk betreffenden Angelegenheiten zu erörtern, im Rahmen des § 19 dieser Satzung Entscheidungen zu treffen, Anregungen zu geben, auf Mängel hinzuweisen und Vorschläge zu machen (allgemeines Initiativrecht für bezirkliche Angelegenheiten).
-Seite 11 von 23
-
 (2) Die Bezirksvertretungen sind verpflichtet, bei ihren Entscheidungen die Belange der gesamten Stadt zu berücksichtigen. Allgemeine Richtlinien des Rates sind zu beachten.
 (3) Die Bezirksvertretungen jedes Stadtbezirks (§ 1 Abs. 2 dieser Satzung) haben 19 Mitglieder.
+Seite 11 von 23
+
 (4) Die Bezirksvertretungen dürfen keine Ausschüsse bilden.
 (5) Die Bezirksvertretungen können Sachverständige und Einwohnerinnen/Einwohner zu einzelnen Punkten der Tagesordnung hören. Einen Beschluss hierüber muss die Bezirksvertretung vor Eintritt in die Tagesordnung fassen. Das Nähere regelt die Geschäftsordnung.
 (6) Die Sitzungen der Bezirksvertretungen enthalten einen obligatorischen Tagesordnungspunkt „Einwohnerfragestunde“. Das Nähere regelt die Geschäftsordnung.
@@ -215,9 +213,10 @@ Seite 11 von 23
 (2) Die Bezirksvertretungen erfüllen ihre Aufgaben im Rahmen der vom Rat bereit gestellten Haushaltsmittel; hierbei sollen sie über den Verwendungszweck eines Teils dieser Haushaltsmittel allein entscheiden können. Für die Aufgaben nach § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung sind im bezirksorientierten Haushalt eigene Haushaltsstellen einzurichten. An den Beratungen über die Haushaltssatzung wirken die Bezirksvertretungen mit. Sie beraten über alle Haushaltsansätze, die ihren Bezirk und ihre Aufgaben betreffen und können dazu Vorschläge und Anregungen machen. Die bezirksbezogenen Haushaltsansätze sind getrennt nach Bezirken in einem besonderen Band des Haushaltsplans auszuweisen. Die Haushaltsansätze sollen nach den Gesamtausgaben der Stadt unter Berücksichtigung des Umfangs der entsprechenden Anlagen und Einrichtungen gem. § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung fortgeschrieben werden.
 (3) Zur Repräsentation in Angelegenheiten des Stadtbezirks stehen den Bezirksbürgermeisterinnen/Bezirksbürgermeistern Repräsentationsmittel zur Verfügung. Sie werden zu gleichen Teilen auf die Bezirke verteilt.
 (4) Die Bezirksvertretung ist zu allen wichtigen Angelegenheiten, die den Stadtbezirk berühren, zu hören. Die näheren Einzelheiten sind in der Zuständigkeitsordnung geregelt.
+(5) Die Bezirksvertretung führt das vorgezogene Bürgerbeteiligungsverfahren nach § 3 Baugesetzbuch bei der Aufstellung von Bebauungsplänen von räumlich auf den Stadtbezirk begrenzter Bedeutung durch, soweit der Rat oder der Stadtentwicklungsausschuss nicht im Einzelfall eine andere Regelung trifft oder
 Seite 12 von 23
 
-(5) Die Bezirksvertretung führt das vorgezogene Bürgerbeteiligungsverfahren nach § 3 Baugesetzbuch bei der Aufstellung von Bebauungsplänen von räumlich auf den Stadtbezirk begrenzter Bedeutung durch, soweit der Rat oder der Stadtentwicklungsausschuss nicht im Einzelfall eine andere Regelung trifft oder entsprechend den Voraussetzungen in § 3 Abs. 1 Satz 2 Baugesetzbuch von einer Anhörung absieht. (6) Auf Ersuchen des Rates oder des Hauptausschusses hat die Bezirksvertretung zu einer den Stadtbezirk berührenden Angelegenheit Stellung zu nehmen. (7) Den Bezirksbürgermeisterinnen/Bezirksbürgermeistern steht ein Akteneinsichtsrecht in den Angelegenheiten zu, in denen die Bezirksvertretungen nach § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung ein Entscheidungsrecht haben.
+entsprechend den Voraussetzungen in § 3 Abs. 1 Satz 2 Baugesetzbuch von einer Anhörung absieht. (6) Auf Ersuchen des Rates oder des Hauptausschusses hat die Bezirksvertretung zu einer den Stadtbezirk berührenden Angelegenheit Stellung zu nehmen. (7) Den Bezirksbürgermeisterinnen/Bezirksbürgermeistern steht ein Akteneinsichtsrecht in den Angelegenheiten zu, in denen die Bezirksvertretungen nach § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung ein Entscheidungsrecht haben.
 Seite 13 von 23
 
 IV. Ausschüsse
@@ -270,15 +269,9 @@ werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von d
 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 Seite 16 von 23
 
-(1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil.
-(2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse.
-(3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen in die für die Themen Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung, Anregungen und Beschwerden sowie Kinderund Jugendhilfeangelegenheiten zuständigen Ausschüsse entsenden. Für den Verhinderungsfall ist je eine persönliche Vertreterin/ ein persönlicher Vertreter zu bestimmen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
-(4) Die Einzelheiten regelt die vom Ausschuss Soziales und Senioren beschlossene Geschäftsordnung für die Stadtarbeitsgemeinschaft Behindertenpolitik der Stadt Köln.
+(1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil. (2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse. (3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen als sachkundige Einwohnerinnen und Einwohner in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung, Kinderund Jugendhilfeangelegenheiten, Allgemeine Verwaltung, Digitalisierung und Wirtschaft zuständigen Ausschüsse vorschlagen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese gem. § 58 Abs. 4 GO NRW in die Ausschüsse.
 § 23 b Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (LST)
-(1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft LST gebildet, in die die Lesben-, Schwulen- und Transgenderorganisationen und -selbsthilfegruppen sowie die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft LST teil.
-(2) Die Stadtarbeitsgemeinschaft LST berät lesben-, schwulen- und transgenderrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse.
-(3) Die Stadtarbeitsgemeinschaft LST kann Mitglieder der Lesben-, Schwulen- und Transgenderorganisationen und -selbsthilfegruppen in die für die Themen Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung sowie Kinder- und Jugendhilfeangelegenheiten zuständigen Ausschüsse entsenden. Für den Verhinderungsfall ist je eine persönliche Vertreterin/ ein persönlicher Vertreter zu bestimmen. Auf Vorschlag der Stadtarbeitsgemeinschaft LST wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
-(4) Die Einzelheiten regelt die vom Ausschuss Soziales und Senioren beschlossene Geschäftsordnung für die Stadtarbeitsgemeinschaft LST der Stadt Köln.
+(1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft LST gebildet, in die die Lesben-, Schwulen- und Transgenderorganisationen und -selbsthilfegruppen sowie die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft LST teil. (2) Die Stadtarbeitsgemeinschaft LST berät lesben-, schwulen- und transgenderrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse. (3) Die Stadtarbeitsgemeinschaft LST kann Mitglieder der Lesben-, Schwulen- und Transgenderorganisationen und –selbsthilfegruppen als sachkundige Einwohnerinnen und Einwohner in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung sowie Kinder- und Jugendhilfeangelegenheiten, Allgemeine Verwaltung, Digitalisierung und Wirtschaft zuständigen Ausschüsse vorschlagen. Auf Vorschlag der Stadtarbeitsgemeinschaft LST wählt der Rat diese gem. § 58Abs. 4 GO NRW in die Ausschüsse. (4) Die Einzelheiten regelt die vom Ausschuss Soziales und Senioren beschlossene Geschäftsordnung für die Stadtarbeitsgemeinschaft LST der Stadt Köln.
 Seite 17 von 23
 
 VI. Finanzielle Entschädigungen für Mandatsträgerinnen/Mandatsträger
@@ -342,16 +335,18 @@ Seite 21 von 23
 (4) Die Teilnahme der Gleichstellungsbeauftragten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 5 Absatz 4 Sätze 1 und 2 GO und § 27 Abs. 3 dieser Hauptsatzung.
 § 30 Zahl der Beigeordneten
 (§ 71 Abs. 1 GO)
-Die Zahl der zu wählenden Beigeordneten wird auf höchstens 8 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
+Die Zahl der zu wählenden Beigeordneten wird auf höchstens 9 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
 § 31 Inkrafttreten der Hauptsatzung
 (§ 7 Abs. 4 GO)
-Diese Hauptsatzung tritt am Tage nach der öffentlichen Bekanntmachung in Kraft. Gleichzeitig tritt die bisher geltende Hauptsatzung vom 13. August 2007 in der Fassung der 2. Änderungssatzung vom 18. März 2008 außer Kraft.
+Die Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
-(Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
+§7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
+„Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn, a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt, b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden, c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet oder d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
 
-Köln, den 10.02.2009
+Köln, den 09.04.2021
 
-Der Oberbürgermeister gez. Schramma
+Die Oberbürgermeisterin gez. Henriette Reker
 
 Seite 22 von 23
 
