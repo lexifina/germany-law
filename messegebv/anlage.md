@@ -113,7 +113,7 @@ Inhaltsverzeichnis
 |  | Zusatzeinrichtungen |  |
 | 2.2.3.14 | elektronische Datenspeicher, im Anzeigegerät integriert | 23,60 |
 | 2.2.3.15 | sonstige elektronische Datenspeicher | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
-|  | Prüfung einer Waage der Genauigkeitsklasse III mit angeschlossenem Kassensystem (Waagen-Kassensystem) |  |
+|  | Prüfung einer Waage der Genauigkeitsklasse III mit angeschlossenem oder integriertem Kassensystem (Waagen-Kassensystem) |  |
 | 2.2.4.1 | bis 5 kg | 119,00 |
 | 2.2.4.2 | über 5 kg bis 50 kg | 137,90 |
 | 2.2.4.3 | über 50 kg bis 350 kg | 196,60 |
@@ -122,7 +122,7 @@ Inhaltsverzeichnis
 | 2.2.9.2 | Vorprüfung von Auswägeeinrichtungen von Schalt- oder Laufgewichtswaagen | 138,40 |
 | 2.2.9.3 | zusätzlich je Schaltstufe oder Gewichtskerbe | 1,40 |
 |  | Sonstige Vorprüfungen für Eichungen |  |
-| 2.2.9.4 | Kompatibilitätsprüfungen von Modulen im Rahmen der Beschaffenheitsprüfung | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+| 2.2.9.4 | Kompatibilitätsprüfungen von Modulen im Rahmen der Prüfung der formalen Anforderungen | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 2.2.9.5 | jede Stillstandsicherung in Waagen | 16,30 |
 |  | Zusatzgebühren |  |
 |  | für Mehrbereichs- und Mehrteilungswaagen |  |
@@ -149,10 +149,11 @@ Inhaltsverzeichnis
 |  | für Verbundwaagen, die aus mehreren Lastaufnehmern bestehen oder im Netzverbund betrieben werden |  |
 | 2.2.12.1 | Prüfung von Verbundwaagen mit einem zeitlichen Aufwand von mehr als einer halben Stunde | nach Aufwand entsprechend den Schlüsselzahlen 19.1.2… |
 |  | Ermäßigungen |  |
+| H 2.2-5 | Die Ermäßigungen E 2.2-1, E 2.2-2 und E 2.2-4 schließen sich gegenseitig aus, es wird die höchste zutreffende Ermäßigung gewährt. |  |
 | E 2.2-1 | Auf die Grundgebühr gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.5 und 2.2.3.10 bis 2.2.3.12 wird bei Prüfung von Waagen in den Räumlichkeiten der zuständigen Stelle eine Gebührenermäßigung in Höhe von 50 Prozent gewährt. |  |
-| E 2.2-2 | Bei Gestellung von fachkundiger Arbeitshilfe und Normallast in geeigneter Form oder einem Belastungsgerät wird auf die Grundgebühr a) gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.5, 2.2.3.10 bis 2.2.3.12 oder 2.2.4… eine Gebührenermäßigung in Höhe von 35 Prozent gewährt und b) gemäß den Schlüsselzahlen 2.2.3.6 bis 2.2.3.9 eine Gebührenermäßigung in Höhe von 30 Prozent gewährt. |  |
+| E 2.2-2 | Bei Gestellung von fachkundiger Arbeitshilfe und Prüfmittel in geeigneter Form wird auf die Grundgebühr a) gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.5, 2.2.3.10 bis 2.2.3.12 oder 2.2.4… eine Gebührenermäßigung in Höhe von 35 Prozent gewährt und b) gemäß den Schlüsselzahlen 2.2.3.6 bis 2.2.3.9 eine Gebührenermäßigung in Höhe von 30 Prozent gewährt. |  |
 | E 2.2-3 | Auf die Grundgebühr gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.12 wird bei vorgeprüfter Auswägeeinrichtung eine Gebührenermäßigung in Höhe von 30 Prozent gewährt. |  |
-| E 2.2-4 | Auf die Grundgebühr gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.5 oder 2.2.3.10 bis 2.2.3.12 oder 2.2.4… wird bei einer Prüfung im Rahmen einer Rundfahrt eine Gebührenermäßigung in Höhe von 20 Prozent gewährt.Dies gilt nicht, wenn bereits eine Ermäßigung gemäß der Schlüsselzahl E 2.2-2 oder E 2.2-3 gewährt wird. |  |
+| E 2.2-4 | Auf die Grundgebühr gemäß den Schlüsselzahlen 2.2.1.1 bis 2.2.3.5 oder 2.2.3.10 bis 2.2.3.12 oder 2.2.4… wird bei einer Prüfung im Rahmen einer Rundfahrt eine Gebührenermäßigung in Höhe von 20 Prozent gewährt. |  |
 |  | 2. Befundprüfung |  |
 |  | Für eine beendete Befundprüfung an einem unter den Schlüsselzahlen 2.2.1…, 2.2.2…, 2.2.3.1 bis 2.2.3.12, 2.2.3.14, 2.2.4…, 2.2.10… oder 2.2.11… aufgeführten Messgerät, sonstigen Messgerät oder einer aufgeführten Zusatzeinrichtung ist eine Rahmengebühr zu erheben. Die für die Eichung der Messgeräte, sonstigen Messgeräte oder Zusatzeinrichtungen unter den Schlüsselzahlen 2.2.1…, 2.2.2…, 2.2.3.1 bis 2.2.3.12, 2.2.3.14, 2.2.4…, 2.2.10… oder 2.2.11… jeweils aufgeführte Festgebühr ist dabei die Untergrenze. Das Zweifache der unter den Schlüsselzahlen 2.2.1…, 2.2.2…, 2.2.3.1 bis 2.2.3.12, 2.2.3.14, 2.2.4…, 2.2.10… oder 2.2.11… jeweils aufgeführten Festgebühr ist die Obergrenze der zu erhebenden Rahmengebühr. |  |
 |  | Für eine beendete Befundprüfung an einem unter der Schlüsselzahl 2.2.3.13, 2.2.3.15 oder 2.2.12.1 aufgeführten Messgerät oder einer aufgeführten Zusatzeinrichtung ist eine Zeitgebühr gemäß § 4 zu erheben. |  |
@@ -205,11 +206,14 @@ Inhaltsverzeichnis
 |  | Zusatzgebühren |  |
 | 2.3.11.1 | Zusatzgebühr für Mehrbereichs- und Mehrteilungswaagen | 64,80 |
 |  | Sonstige Vorprüfungen für Eichungen |  |
-| 2.3.12.1 | Kompatibilitätsprüfung von Modulen im Rahmen der Beschaffenheitsprüfung | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+| 2.3.12.1 | Kompatibilitätsprüfung von Modulen im Rahmen der Prüfung der formalen Anforderungen | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 |  | Ermäßigungen |  |
-| E 2.3-1 | Bei den Schlüsselzahlen 2.3.1.1 bis 2.3.1.6, 2.3.2.1 bis 2.3.2.3, 2.3.3…, 2.3.5… und 2.3.7… wird eine Ermäßigung in Höhe von 25 Prozent bei Waagen bis 50 kg Höchstlast und von 40 Prozent bei Waagen über 50 kg Höchstlast auf die Grundgebühr gewährt, wenn vom Antragsteller fachkundige Arbeitshilfe und Prüfmittel in geeigneter Form zur Verfügung gestellt werden. |  |
+| E 2.3-1 | Bei den Schlüsselzahlen 2.3.1.1 bis 2.3.1.6, 2.3.3…, 2.3.5… und 2.3.7… wird eine Ermäßigung in Höhe von 25 Prozent bei Waagen bis 50 kg Höchstlast und von 40 Prozent bei Waagen über 50 kg Höchstlast auf die Grundgebühr gewährt, wenn vom Antragsteller fachkundige Arbeitshilfe und Prüfmittel in geeigneter Form zur Verfügung gestellt werden. |  |
 |  | 2. Befundprüfung |  |
 |  | Für eine beendete Befundprüfung an einem unter den Schlüsselzahlen 2.3.1…, 2.3.2.1 bis 2.3.2.3, 2.3.3…, 2.3.5…, 2.3.7…, 2.3.9.1 oder der Schlüsselzahl 2.3.11.1 aufgeführten Messgerät (einschließlich zusätzlich durchzuführender Prüfungen) ist eine Rahmengebühr zu erheben. Die für die Eichung der Messgeräte (einschließlich zusätzlich durchzuführender Prüfungen) unter den Schlüsselzahlen 2.3.1…, 2.3.2.1 bis 2.3.2.3, 2.3.3…, 2.3.5…, 2.3.7…, 2.3.9.1 oder der Schlüsselzahl 2.3.11.1 jeweils aufgeführte Festgebühr ist dabei die Untergrenze. Das Zweifache der unter den Schlüsselzahlen 2.3.1…, 2.3.2.1 bis 2.3.2.3, 2.3.3…, 2.3.5…, 2.3.7…, 2.3.9.1 oder der Schlüsselzahl 2.3.11.1 jeweils aufgeführten Festgebühr ist die Obergrenze der zu erhebenden Rahmengebühr.Für eine beendete Befundprüfung an einem unter der Schlüsselzahl 2.3.2.4, 2.3.4.1 oder 2.3.6.1 aufgeführten Messgerät ist eine Zeitgebühr gemäß § 4 zu erheben. |  |
+|  | Schlüsselzahlenuntergruppe 2.6: Kraftstoffzapfsäulen für unter Druck stehende GaseEichung und Befundprüfung |  |
+| 2.6.1.1 | Kraftstoffzapfsäulen für Wasserstoff nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |  |
+| 2.6.2.1 | Kraftstoffzapfsäulen für Erdgas nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |  |
 |  | Schlüsselzahlengruppe 3: Messgeräte zur Bestimmung der Temperatur (mit Ausnahme der medizinischen Thermometer, Kühlthermometer, Thermoelemente, Beckmann-, Siede-, Umkippthermometer und der Temperaturmesseinrichtungen für Lagerbehälter und Rohrleitungen) |  |
 |  | 1. Eichung |  |
 |  | Thermometer, Temperaturfühler (Temperaturbereich 0 °C bis 100 °C) |  |
@@ -314,6 +318,7 @@ Inhaltsverzeichnis
 |  | Hinweise: |  |
 | H 5.4-1 | In die Gebühren eingeschlossen sind – bei Kraftstoffzapfanlagen die Prüfung einer Fernübertragungsanlage, der Druckwerke und Tankautomaten, – bei der Prüfung von Messanlagen auf Tankwagen und sonstigen Messanlagen die Prüfung eines vorgeprüften Temperaturmengenumwerters, des Gasmessverhüters oder -abscheiders, des Druckers sowie die Ermittlung der Volumenausdehnung des Trommelschlauches. |  |
 | H 5.4-2 | Bei Gemischanlagen ist der größte Volumendurchfluss zugrunde zu legen. |  |
+| H 5.4-3 | Die Gebühren für Kraftstoffzapfsäulen für Erdgas oder Wasserstoff werden nach den Schlüsselzahlen 2.6… erhoben. |  |
 |  | Kraftstoffzapfanlage je Messanlage (Zapfpunkt) (ohne gravimetrisch zu prüfende Messanlagen) |  |
 | 5.4.1.1 | über 20 l/min bis 100 l/min | 177,50 |
 | 5.4.1.2 | über 20 l/min bis 100 l/min (mit Mengenumwertung) | 245,00 |
@@ -321,7 +326,7 @@ Inhaltsverzeichnis
 | 5.4.1.4 | über 100 l/min bis 500 l/min (mit Mengenumwertung) | 304,50 |
 | 5.4.1.5 | für unter Druck verflüssigte Gase bis 100 l/min | 517,40 |
 | 5.4.1.6 | für unter Druck verflüssigte Gase bis 100 l/min (mit Mengenumwertung) | 576,10 |
-| 5.4.1.7 | für Wasserstoff | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
+| 5.4.1.7 | (weggefallen) |  |
 |  | Messanlagen für Milch und Milchabgabeautomaten |  |
 | 5.4.2.1 | bis 100 l/min | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 5.4.2.2 | über 100 l/min bis 500 l/min | 420,40 |
@@ -341,12 +346,15 @@ Inhaltsverzeichnis
 | 5.4.6.1 | Messanlagen für die kontinuierliche und dynamische Messung von Mengen von Flüssigkeiten außer Wasser, die Mengen in Masseeinheiten anzeigen | Die Höhe der Gebühren richtet sich nach den unter den Schlüssel- zahlen 5.4.1… bis 5.4.5… aufgeführten Gebührensätzen. |
 |  | Hinweis: |  |
 | H 5.4-4 | Die bei den Gebührentatbeständen 5.4.1… bis 5.4.5… verwendete Bezeichnung „Volumen“ ist bei Gebührentatbestand 5.4.6.1 als „Masse“ und die Volumeneinheit „l“ ist als „kg“ zu lesen. |  |
-|  | Zapfanlagen für wässrige Harnstofflösungen (u. a. AdBlue-Zapfsäulen) |  |
+|  | Zapfanlagen für wässrige Harnstofflösungen (u. a. AdBlue-Zapfanlage) |  |
 | 5.4.7.1 | bis 10 l/min | 187,60 |
 | 5.4.7.2 | über 10 l/min | 211,10 |
+|  |  |  |  |
+|  | Hinweis: |  |
+| H 5.4-5 | Die Ermäßigungen E 5.4-1 bis E 5.4-3 schließen sich gegenseitig aus, es wird die höchste zutreffende Ermäßigung gewährt. |  |
 |  | Ermäßigungen |  |
-| E 5.4-1 | Für die Gestellung von Prüfmitteln und fachkundiger Arbeitshilfe wird eine Ermäßigung auf die Festgebühr für die Eichung oder Befundprüfung in folgender Höhe gewährt: a) bei Messanlagen auf Tankwagen für Kraftstoffe und Brennstoffe gemäß den Schlüsselzahlen 5.4.5… von 25 Prozent, b) bei Kraftstoffzapfanlagen (außer Flüssiggas) nach den Schlüsselzahlen 5.4.1.1 bis 5.4.1.4 und Messanlagen für Milch und Milchabgabeautomaten nach den Schlüsselzahlen 5.4.2.2 bis 5.4.2.4 von 30 Prozent und c) bei Kraftstoffzapfanlagen für Flüssiggas und bei weiteren Messanlagen von 50 Prozent. |  |
-| E 5.4-2 | Bei Vorlage von mindestens drei Schmierölmessanlagen, Messanlagen für Milch oder weiteren Messanlagen gleicher Art und Größe wird eine Ermäßigung von 25 Prozent auf die Festgebühr gewährt. Dies gilt nicht, wenn bereits eine Ermäßigung gemäß der Schlüsselzahl E 5.4-1 gewährt wird. |  |
+| E 5.4-1 | Für die Gestellung von Prüfmitteln in geeigneter Form und fachkundiger Arbeitshilfe wird eine Ermäßigung auf die Festgebühr für die Eichung oder Befundprüfung in folgender Höhe gewährt: a) bei Messanlagen auf Tankwagen für Kraftstoffe und Brennstoffe gemäß den Schlüsselzahlen 5.4.5… von 25 Prozent, b) bei Kraftstoffzapfanlagen (außer Flüssiggas) nach den Schlüsselzahlen 5.4.1.1 bis 5.4.1.4 und Messanlagen für Milch und Milchabgabeautomaten nach den Schlüsselzahlen 5.4.2.2 bis 5.4.2.4 von 30 Prozent und c) bei Kraftstoffzapfanlagen für Flüssiggas und bei weiteren Messanlagen von 50 Prozent. |  |
+| E 5.4-2 | Bei Vorlage von mindestens drei Schmierölmessanlagen, Messanlagen für Milch oder weiteren Messanlagen gleicher Art und Größe wird eine Ermäßigung von 25 Prozent auf die Festgebühr gewährt. |  |
 | E 5.4-3 | Bei Kraftstoffzapfanlagen (außer Flüssiggas) nach den Schlüsselzahlen 5.4.1.1 bis 5.4.1.4 und Schmierölmessanlagen wird bei Eichungen im Rahmen einer Rundfahrt eine Ermäßigung von 20 Prozent auf die Festgebühr gewährt. |  |
 |  | 2. Befundprüfung |  |
 |  | Für eine beendete Befundprüfung an einem unter den Schlüsselzahlen 5.4.1.1 bis 5.4.1.6, 5.4.2.2 bis 5.4.2.4, 5.4.3.1, 5.4.5…, 5.4.7… oder der Schlüsselzahl 5.4.6.1 aufgeführten Messgerät ist eine Rahmengebühr zu erheben. Die für die Eichung der Messgeräte unter den Schlüsselzahlen 5.4.1.1 bis 5.4.1.6, 5.4.2.2 bis 5.4.2.4, 5.4.3.1, 5.4.5…, 5.4.7… oder der Schlüsselzahl 5.4.6.1 jeweils aufgeführte Festgebühr ist dabei die Untergrenze. Das Zweifache der unter den Schlüsselzahlen 5.4.1.1 bis 5.4.1.6, 5.4.2.2 bis 5.4.2.4, 5.4.3.1, 5.4.5…, 5.4.7… oder der Schlüsselzahl 5.4.6.1 jeweils aufgeführten Festgebühr ist die Obergrenze der zu erhebenden Rahmengebühr.Für eine beendete Befundprüfung an einem unter der Schlüsselzahl 5.4.1.7 oder 5.4.2.1 aufgeführten Messgerät ist eine Zeitgebühr gemäß § 4 zu erheben. |  |
@@ -411,7 +419,7 @@ Inhaltsverzeichnis
 |  | Für eine beendete Befundprüfung an einem unter den Schlüsselzahlen 5.6.9… (mit Ausnahme der Schlüsselzahl 5.6.9.5) aufgeführten Teilgerät ist eine Rahmengebühr zu erheben. Die für die Eichung der Teilgeräte unter den Schlüsselzahlen 5.6.9… (mit Ausnahme der Schlüsselzahl 5.6.9.5) jeweils aufgeführte Festgebühr ist dabei die Untergrenze. Das Zweifache der unter den Schlüsselzahlen 5.6.9… (mit Ausnahme der Schlüsselzahl 5.6.9.5) jeweils aufgeführten Festgebühr ist die Obergrenze der zu erhebenden Rahmengebühr.Für eine beendete Befundprüfung an einem Zustands-Mengenumwerter in Bezug auf die Betriebspunktprüfung am Gebrauchsort (Schlüsselzahl 5.6.9.5) ist eine Zeitgebühr gemäß § 4 zu erheben. |  |
 |  | Schlüsselzahlengruppe 6: Messgeräte zur Bestimmung von Messgrößen bei der Lieferung von Elektrizität |  |
 |  | Hinweise: |  |
-| H 6.0-1 | Die unter den Schlüsselzahlen 6.0.1.1 bis 6.0.4.1 aufgeführten Gebühren gelten für die Prüfung des Basiszählers (bestehend aus einem Messwerk und einem Tarifzählwerk). |  |
+| H 6.0-1 | Die unter den Schlüsselzahlen 6.0.1.1 bis 6.0.4.1 und 6.0.7.1 aufgeführten Gebühren gelten für die Prüfung des Basiszählers (bestehend aus einem Messwerk und einem Tarifzählwerk). |  |
 | H 6.0-2 | Bei Kombizählern, direkt oder als Messwandlerzähler angeschlossen (z. B. Wirk- und Blindverbrauchszähler in einem gemeinsamen Gehäuse), ist die Gebühr für jeden vollständigen Basiszähler zu berechnen. |  |
 |  | Eichung und Befundprüfung von Elektrizitätszählern |  |
 |  | Direkt angeschlossene Elektrizitätszähler für Wirk-, Blind- oder Scheinverbrauch bis 1 kV Nennspannung |  |
@@ -552,18 +560,18 @@ Inhaltsverzeichnis
 |  | Schlüsselzahlengruppe 11: Messgeräte zur Bestimmung des Schalldruckpegels und daraus abgeleiteter Messgrößen |  |
 |  | 1. Eichung |  |
 | 11.1.1.1 | Gerätepauschale für jedes geprüfte Messgerät (Schallpegelmesser) | 88,80 |
-|  | Prüfung von Schallpegelmessern mit elektrischen Signalen an jeweils einem Kanal |  |
 | 11.1.2.1 | Grundeigenschaften nach DIN 651 (Frequenzgang, Peak, Gleichrichtung, Zeitbewertungen außer Impuls, Übersteuerung, Linearität) | 472,90 |
-| 11.1.3.1 | Grundeigenschaften nach IEC 61672 (Justierung, f-Bewertung, Rauschen, f- und t-Bewertung bei 1 kHz, Linearität, Tonimpulse, Übersteuerung) | 443,30 |
-| 11.1.4.1 | Zeitbewertung Impuls | 177,40 |
-| 11.1.5.1 | C-bewerteter Spitzenschallpegel | 177,40 |
-| 11.1.6.1 | Bildung des zeitlichen Mittelwertes (äquivalenter Schalldruckpegel und Schallexpositionspegel) | 266,00 |
-| 11.1.7.1 | Taktmaximalpegel | 118,20 |
-| 11.1.8.1 | AI-bewerteter Mittelungspegel | 118,20 |
-| 11.1.9.1 | Pegelhäufigkeitsverteilung (Percentilpegel) | 118,20 |
+| 11.1.2.2 | Grundeigenschaften nach IEC 61672 (Justierung, f-Bewertung, Rauschen, f- und t-Bewertung bei 1 kHz, Linearität, Tonimpulse, Übersteuerung) | 443,30 |
+|  | Zusatzgebühren für weitere Prüfpunkte |  |  |
+| 11.1.3.1 | Zeitbewertung Impuls | 177,40 |
+| 11.1.3.2 | C-bewerteter Spitzenschallpegel | 177,40 |
+| 11.1.3.3 | Bildung des zeitlichen Mittelwertes (äquivalenter Schalldruckpegel und Schallexpositionspegel) | 266,00 |
+| 11.1.3.4 | Taktmaximalpegel | 118,20 |
+| 11.1.3.5 | AI-bewerteter Mittelungspegel | 118,20 |
+| 11.1.3.6 | Pegelhäufigkeitsverteilung (Percentilpegel) | 118,20 |
 |  | Zusätzliche Prüfungen bei Schallpegelmessern mit akustischen Signalen |  |
-| 11.1.10.1 | akustische Prüfung eines Mikrofons | 106,40 |
-| 11.1.11.1 | je zusätzliche akustische Messung für Zubehör (z. B. Windschirm, Adapter) | 59,20 |
+| 11.1.4.1 | akustische Prüfung eines Mikrofons | 106,40 |
+| 11.1.4.2 | je zusätzliche akustische Messung für Zubehör (z. B. Windschirm, Adapter) | 59,20 |
 |  | Weiteres Messgerät |  |
 | 11.2.1.1 | Schallkalibrator | 236,50 |
 |  | 2. Befundprüfung |  |
@@ -640,7 +648,7 @@ Inhaltsverzeichnis
 |  | Schlüsselzahlengruppe 14: Entscheidungen über die Verwendung von Messgeräten sowie über die Befugniserteilung an Instandsetzer aufgrund von Vorschriften des Mess- und Eichgesetzes und der Mess- und Eichverordnung |  |
 |  | Weiterverwendung von Messgeräten, Eichfristverlängerung inklusive Stichprobenprüfung |  |
 | 14.1.1.1 | Entscheidung über die Erlaubnis zur Weiterverwendung eines Messgerätes bei verspäteter Antragstellung gemäß § 38 Satz 2 des Mess- und Eichgesetzes | 29,60 |
-| 14.2.1.1 | Entscheidung über die Verlängerung der Eichfrist aufgrund von Stichprobenverfahren gemäß § 35 der Mess- und Eichverordnung (Verbrauchsmessgeräte) zzgl. Stichprobenprüfung nach der Schlüsselzahl 14.2.1.2, je Los | 280,20 |
+| 14.2.1.1 | Bearbeitung eines Antrags und Entscheidung über die Verlängerung der Eichfrist aufgrund von Stichprobenverfahren gemäß § 35 der Mess- und Eichverordnung (Verbrauchsmessgeräte) zzgl. Stichprobenprüfung nach der Schlüsselzahl 14.2.1.2, je Los | 280,20 |
 | 14.2.1.2 | Stichprobenprüfung zur Verlängerung der Eichfrist gemäß § 35 der Mess- und Eichverordnung, je Los | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 14.2.1.3 | Überwachung einer Prüfenden Stelle während der Stichprobenprüfung und Treffen von Festlegungen zur Bestimmung einer Stichprobe nach § 35 Nummer 6 der Mess- und Eichverordnung | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 |  | Ausnahmen für geschlossene Grundstücksnutzung |  |
@@ -660,6 +668,7 @@ Inhaltsverzeichnis
 | 15.2.1.1 | Überwachung der Verwendung von Messgeräten und Messwerten gemäß § 54 Absatz 1 und 3 des Mess- und Eichgesetzes i. V. m. § 55 Absatz 1 Satz 2 Nummer 1 und 2 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 15.2.1.2 | Erlass von Maßnahmen der Verwendungsüberwachung gemäß § 55 Absatz 1 Nummer 3 bis 6 des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |
 | 15.3.1.1 | Überwachung von Arbeiten an geeichten Messgeräten nach § 37 Absatz 2 Nummer 4 Buchstabe a und b des Mess- und Eichgesetzes | nach Aufwand entsprechend den Schlüsselzahlen 19.1.1…oder 19.1.2… |
+| 15.4.1.1 | Entscheidung über die Genehmigung und Überwachung von Gasbeschaffenheitsverfolgungssystemen bzw. Gasbeschaffenheitszuordnungssystemen für die Bestimmung des Brennwertes und weiterer Beschaffenheitswerte von Gas gemäß § 25 Satz 1 Nummer 4 der Mess- und Eichverordnung nach Aufwand entsprechend den Schlüsselzahlen 19.1.1… oder 19.1.2… |  |
 |  | Schlüsselzahlengruppe 16: Marktüberwachung in Bezug auf Fertigpackungen, andere Verkaufseinheiten und Maßbehältnisse |  |
 | H 16-1 | Hinweis: |  |
 |  | Erfolgt bei Obst und Gemüse oder Backwaren ohne Vorverpackungen gemäß den §§ 17 und 18 der Fertigpackungsverordnung die letzte abgeschlossene Marktüberwachung ohne Beanstandung, dann sind im gleichen Kalenderjahr weitere beanstandungsfreie Marktüberwachungen bei diesen Lebensmitteln ohne Vorverpackungen vom selben Herstellungsort und beim selben Verantwortlichen gebührenfrei. |  |
@@ -686,7 +695,7 @@ Inhaltsverzeichnis
 |  | nicht-zerstörende Prüfung bei einer normalen Einfach-Stichprobenprüfung bei Berücksichtigung jedes Taraeinzelwertes gemäß Anlage 3 Nummer 3 Buchstabe a und bei einem Umfang der Stichprobe (Gebühr je Los) |  |
 | 16.1.3.1 | bis zu 50 Fertigpackungen oder anderen Verkaufseinheiten | 328,50 |
 | 16.1.3.2 | von 51 bis zu 80 Fertigpackungen oder anderen Verkaufseinheiten | 373,10 |
-| 16.1.3.3 | von 80 bis zu 125 Fertigpackungen oder anderen Verkaufseinheiten | 456,20 |
+| 16.1.3.3 | von 81 bis zu 125 Fertigpackungen oder anderen Verkaufseinheiten | 456,20 |
 | 16.1.3.4 | über 125 Fertigpackungen oder anderen Verkaufseinheiten | 520,80 |
 |  | zerstörende Prüfung bei Abtropfgewichtskennzeichnung nach Anlage 3 Nummer 3 Buchstabe d i. V. m. Anlage 3 Nummer 7 Buchstabe d bei einem Umfang der Stichprobe (Gebühr je Los) |  |
 | 16.1.4.1 | bis zu acht Fertigpackungen | 326,10 |

@@ -506,7 +506,6 @@ Besoldungsgruppe B 3
 Abteilungsdirektor, Abteilungspräsident
 – als der ständige Vertreter eines Direktionspräsidenten bei der Generalzolldirektion –
 – als Leiter der Zentralabteilung des Bundesinstituts für Berufsbildung –
-– als Leiter der Zentralstelle für Finanztransaktionsuntersuchungen bei der Generalzolldirektion –
 – beim Bundesamt für den Militärischen Abschirmdienst –
 – beim Informationstechnikzentrum Bund –
 – beim Bundeszentralamt für Steuern –
