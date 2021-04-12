@@ -1,0 +1,8 @@
+# TOP 2: Biologische Vielfalt und ökologische Qualität der Dresdner Teiche und Fließgewässer sichern und verbessern
+
+- Sitzung: 20. Sitzung des Ortschaftsrates Gompitz (2021-04-12)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/147597
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/47389
