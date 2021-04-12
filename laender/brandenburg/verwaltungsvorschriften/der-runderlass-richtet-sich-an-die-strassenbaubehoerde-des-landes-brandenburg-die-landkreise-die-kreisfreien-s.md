@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 09/20
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 24/20
 
 - Herausgeber: Land Brandenburg
-- Datum: 2020-10-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_tl_93
+- Datum: 2021-04-12 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tl_sob_stb_20
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Außerkrafttreten technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Schmelzkammergranulat im Straßenbau (TL SKG-StB 93) - Technische Lieferbedingungen für Steinkohlenflugasche im Straßenbau (TL SFA-StB 93)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Baustoffgemische zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2020 (TL SoB-StB 20)
 
-vom 30. Oktober 2020
+vom 12. April 2021
 
-(ABl./20, [Nr. 47], S.1140)
+(ABl./21, [Nr. 16], S.378)
 
 Der Runderlass richtet sich an
 
@@ -20,18 +20,16 @@ die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 09/2000 vom 13. März 2000 hat das damalige Bundes­ministerium für Verkehr die „Technischen Lieferbedingungen für Mineralstoffe im Straßenbau, Ausgabe 2000 (TL Min-StB 2000)“ bekannt gegeben. Die Einführung der TL Min-StB 2000 für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Straßen erfolgte mit Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Num­mer 37/2000 - Straßenbau vom 6. Dezember 2000 (ABl. 2001 S. 122).
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 24/2020 vom 18. November 2020 hat das Bundesministerium für Verkehr und digitale Infrastruktur die „Technischen Lieferbedingungen für Baustoffgemische zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2020 (TL SoB-StB 20)“ bekannt gegeben.
 
-Die TL Min-StB ersetzten unter anderem die folgenden Regelwerke:
+Die TL SoB-StB 20 beinhalten Anforderungen an Baustoffgemische, die bei der Herstellung von Schichten ohne Bindemittel im Straßen- und Wegebau sowie sonstiger Verkehrsflächen eingehalten werden müssen. Die ungebundenen Baustoffgemische werden in separaten Kapiteln behandelt.
 
-Technische Lieferbedingungen für Schmelzkammergranulat im Straßenbau, Ausgabe 1993 (TL SKG-StB 93) und
+Abweichend von den Regelungen im Abschnitt 1.4.2 Baustoffgemische ist für natürliche Gesteinskörnungen und Hochofenstückschlacke (HOS) beim Einsatz in Frostschutzschichten der Nachweis der Widerstandsfähigkeit gegen Zertrümmerung immer zu erbringen.
 
-Technische Lieferbedingungen für Steinkohlenflugasche im Straßenbau, Ausgabe 1993 (TL SFA-StB 93).
+Beim Einsatz von mineralischen Recycling-Baustoffen und industriell hergestellten Gesteinskörnungen und Baustoffgemischen sind die „Brandenburgischen Technischen Richt­linien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14)“ zu beachten.
 
-Damit sind die folgenden Runderlasse
+Hiermit werden die „Technischen Lieferbedingungen für Baustoffgemische zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2020 (TL SoB-StB 20)“ für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen verbindlich eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-„Technische Lieferbedingungen für Schmelzkammergranulat im Straßenbau (TL SKG-StB 93)“ des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 15/1997 - Straßenbau - vom 2. Juni 1997 (ABl.S. 649) und
+Der Runderlass „Einführung bautechnischer Regelwerke für das Straßenwesen in Brandenburg - Technische Lieferbedingungen für Baustoffgemische und Böden zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2004/Fassung 2007 (TL SoB-StB 04, Ausgabe 2004/Fassung 2007)“ vom 17. Juli 2008 (ABl. S. 2009) wird aufgehoben.
 
-„Technische Lieferbedingungen für Steinkohlenflugasche im Straßenbau (TL SFA-StB 93)“ des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 16/1997 - Straßenbau - vom 2. Juni 1997 (ABl.S. 649)
-
-mit Wirkung vom 6. Dezember 2000 außer Kraft getreten.
+Das Regelwerk ist bei der FGSV-Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
