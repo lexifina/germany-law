@@ -1,0 +1,143 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-04-12T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354388
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354388
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.2.: Bestimmung einer Wahlprüfungs- und Zählkommission (Optional)
+- TOP 1.4.: Wahl einer / eines Gleichstellungsbeauftragten
+- TOP 1.5.: Neue Besetzung der Unterausschüsse durch die Fraktion Bündnis 90 / Die Grünen
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.3.1.: Budget-Bescheide
+- TOP 6.3.2.: Verwendungsnachweise
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Wahl der / des Unterausschussvorsitzenden durch den Bezirksausschuss Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 2.1.: Serie von Totalbeschädigung von SWM-Leihfahrrädern
+- TOP 2.2.: Fassadenbegrünung der Gasteiginterimsphilharmonie in Sendling
+- TOP 2.3.: Berichterstattung - Gestaltung der Betonwand am Mittleren Ring vom 02.11.2020
+- TOP 2.4.: Kritische Situation durch falschparkende PKW-Fahrer*innen Resi-Huber-Platz, besonders Markttags
+- TOP 2.5.: Wertstoffinsel in der Alramstraße
+- TOP 2.6.: Zukünftiges Verkehrskonzept Schäftlarnstraße 64 - 172 und Wohnwagen_Kinderbetreuung Schäftlarnstraße 112
+- TOP 2.7.: Beschwerde über Nicht-Einhaltung der Hygieneregeln im Skateplatz / Neuhofen
+- TOP 2.8.: Takterhöhung der S-Bahn
+- TOP 2.9.: Wanderbäume in der Lindenschmitstraße / Meindlstraße
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällungen Daiserstraße 26
+- TOP 4.2.2.: Weitere Baumfällung Daiserstraße 26
+- TOP 4.2.3.: Baumfällung Implerstraße 48
+- TOP 4.2.4.: Baumfällung Kidlerstraße 25
+- TOP 4.2.5.: Baumfällung Lindenschmitstraße 24a
+- TOP 4.2.6.: Baumfällung Aberlestraße 46a
+- TOP 4.2.7.: Baumfällung Daiserstraße 45
+- TOP 4.2.8.: Bauvorhaben Karwendelstraße 28-30
+- TOP 4.2.9.: Bauvorhaben Pfeuferstraße 42
+- TOP 4.2.10.: Bauvorhaben Plinganserstraße 7 - 7a
+- TOP 4.2.11.: Bauvorhaben Senserstraße 11 - 13
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Freischankfläche Resi-Huber-Platz Eilentscheidung
+- TOP 4.3.3.: Baum an der Flössergasse / Heißstraße
+- TOP 4.3.4.: SWM Baumaßnahme Trinkwasser-Projekt Oberländerstraße
+- TOP 4.3.5.: Antrag des BA 21 Pasing-Obermenzing zur Kenntnisnahme Verbesserung der Baumschutzverordnung gegen illegale Fällungen
+- TOP 4.3.6.: Bäume zwischen Leipartstraße und Flößergasse Antwort an den Bürger
+- TOP 4.3.7.: Fragen zum Vollzug der Erhaltungssatzung Antwort an die Bürger
+- TOP 4.3.8.: Änderungen für die ehrenamtliche Arbeit im Bezirksausschuss aufgrund der Novelle der bayerischen Bauordnung
+- TOP 4.3.9.: Baustelleneinrichtung am Flaucher
+- TOP 4.3.10.: Haus für Kinder an der Wackersbergerstraße 71
+- TOP 4.3.11.: Anfrage: Fortschritt und Zeitplan Planung, Bebauung Grundstück mit vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2091 (Karwendelstr. 15)
+- TOP 4.3.12.: Information zur geplanten Herstellung der restlichen Seitenräume der Johannes-Timm-Straße und der Hans-Klein-Straße
+- TOP 4.3.13.: Wertstoffsammlung verbessern, Recyclingquoten erhöhen, weitere Wertstoffinseln umsetzen
+- TOP 4.3.14.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 4.3.15.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Steinerstr. 18 im 6. Stadtbezirk Sendling Leistung eines Baukostenzuschusses
+- TOP 4.3.16.: Wertstoffinsel Brudermühlstraße Antwort an den Bürger
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Sendlinger Pfarrgarten unter Denkmalschutz stellen!
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Neue Baumstandorte im öffentlichen Raum
+- TOP 5.1.2.: Lindwurmstraße - Radfahrstreifen Südseite Östlich Sendlinger Kirche bis Einmündung Aberlestraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Veranstaltung: Sommertreff Mütterzentrum Sendling e.V. in der Grünanlage Dietramszeller Platz (Spielplatz) vom 19.04. bis 30.09.2021
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung: Parkraummanagement; Lizenzgebiet Thalkirchen
+- TOP 5.3.2.: Verkehrsrechtliche Anordnung Valleystraße 21-31 und 42-44, Danklstraße 29
+- TOP 5.3.3.: Antrag des BA 17 Obergiesing-Fasangarten zur Kenntnisnahme Leben Retten - Abbiegeassistenen unverzüglich verpflichtend einführen!
+- TOP 5.3.4.: Erkennbarkeit der Ladezone an der Kraelerstraße
+- TOP 5.3.5.: Verkehrsführung in der Implerstraße - Fahrtrichtungsgebot Wackersberger Straße Antwort an die Bürgerin
+- TOP 5.3.6.: Information über Betriebskonzept während des Stromschienenwechsel Alte Heide – Münchner Freiheit Sonderfahrplan
+- TOP 5.3.7.: Tempo 30 in der Lindenschmitstraße Antwort an Bürgerin
+- TOP 5.3.8.: Verkehrslärm in der Radlkoferstraße Antwort an die Bürgerin
+- TOP 5.3.9.: Parkende Autos im bewirtschafteten Raum Antwort an den Bürger
+- TOP 5.3.10.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 5.3.11.: (U) Teilumbenennung Am Isarkanal in Kurt-Lichtwitz-Straße 6. Stadtbezirk Sendling Gemeinsamer Antrag des BA 6 und BA 19 auf Straßenumbenennung BA-Antrags-Nr. 14-20 / B 07690 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 02.03.2020
+- TOP 5.3.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Übergang / Querungshilfe in der Engelhardstraße
+- TOP 5.4.2.: Neue Fahrradstellplätze in der Engelhardstraße
+- TOP 5.4.3.: Neue Baumpflanzungen in Karwendelstraße-Sylvensteinstraße-Engelhardstraße
+- TOP 5.4.4.: Öffentliche Ladestation für E-Autos in der Engelhardstraße
+- TOP 5.4.5.: Errichtung eines Fußgängerüberwegs (FGÜ) zur Verbesserung der Verkehrsssicherheit an der Abbiegespur Plinganserstraße-Brudermühlstraße (Höhe Einmündung Alois-Johannes-Lippl-Weg)
+- TOP 5.4.6.: Errichtung von Fußgänger- und Radfahrerübergängen und weiterer dringlicher Verbesserungen der Barrierefreiheit und Verkehrssicherheit an der Kreuzung Engelhardstraße / Sylvensteinstraße
+- TOP 5.4.7.: Tempo 30
+- TOP 5.4.8.: Terminierung Umbau Fahrrad- und Fußwege in der Pfeuferstraße
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Ertüchtigung der Südseite des Mittleren Rings für gegenläufigen Radverkehr zwischen Tunnelausfahrt Brudermühlstraße und Passauerstraße BA-Antrags-Nr. 20-26 / B 00102 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 08.06.2020 Zwischennachricht
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative „Passage“ Fotoausstellung „Passage 20>21“ vom 28.03.-30.07.2021 1.640,00€; Az. 0262.0-6-0312
+- TOP 6.1.2.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Kulturprogramm für Kunst im Quadrat vom 31.07. - 15.08.2021 13.032,00 € / Az. 0262.0-6-0318
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kindergarten Apfelbäumchen e.V. Einbauschrank für den Gruppenraum vom 16.08.-03.09.2021 4.284,00€; Az. 0262.0-6-0317
+- TOP 6.1.4.: (E) Stadtbezirksbudget sendlinger theater-initiative Wirtshaus-Oper „Heid stirbt da Jedermann!“ vom 22.04.-29.05.2021 7.550,00€; Az. 0262.0-6-0316
+- TOP 6.1.5.: (E) Stadtbezirksbudget Kreislaufschränke e.V. Kreislaufschrank und Foodsharing Kühlschrank vom 15.02.-18.04.2021 1.500,00€; Az. 0262.0-6-0315
+- TOP 6.1.6.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. Ausstellung „Sendling a posto“ vom 29.04. - 20.05.2021 1.637,40 € / Az. 0262.0-6-0319
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.3.: Informationsschreiben Hybridsitzungen
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Antrag auf gendergerechte Tagesordnung
+- TOP 6.4.2.: Sendlinger Sommer
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Migrationsbeirat Jahresbericht 2020
+- TOP 7.3.2.: Digitale Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 03.02.2021 Protokoll
+- TOP 7.3.3.: (U) Neubau Spielplatz am Flaucher und Rückbau des Spielplatzes „Am Flieger“ im 6. Stadtbezirk Sendling Projektkosten (Ausführungskosten): 1.430.000 Euro Ausführungsgenehmigung
+- TOP 7.3.4.: Informationen zum Bürgerforum Altenpflege und zum Angebot der städtischen Beschwerdestelle für Probleme in der Altenpflege
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Einweihungsfeier Seidenspinner Spielplatz
+- TOP 7.4.2.: Anfrage zu einem Nachbarschaftstreff in Neuhofen
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Anmeldung für den Kinderstadtplan Sendling - Bericht
+- TOP 7.5.2.: Kinderstadtplan: Vorschlag zur Anmeldung für 2022+
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Bierstadl-Wirtschaft
+- TOP 8.3.2.: Unveränderte Fortführung Kiosk-Treff
+- TOP 8.3.3.: Bücherschrank auf dem Resi-Huber-Platz Bescheid
+- TOP 8.3.4.: Grillstationen am Flaucher Antwort an die Bürgerin
+- TOP 8.3.5.: Sommer in der Stadt
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
