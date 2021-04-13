@@ -1,0 +1,91 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-13T15:00:00+02:00
+- Ende: 2021-04-13T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23658
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23658
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage zum Polizeieinsatz am Kölner Hauptbahnhof am 9.5.2020 - AN/0655/2020 - Kenntnis genommen
+- TOP 3.2: Beantwortung von Anfragen zum 27. Bericht zur Situation Geflüchteter / 0417/2020 - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage AN/0518/2020 Sucht und Migration – Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migranten und Migrantinnen in Kölner Kliniken, LVR-Kliniken - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage der SPD-Fraktion, Session Nr. 0024/2021;"Umsetzung des Kommunalen Integrationsmanagements" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Nachfrage zur Beantwortung einer mündlichen Anfrage zum 27. Bericht zur Situation Geflüchteter aus einer früheren Sitzung - Kenntnis genommen
+- TOP 3.6: Wann wird Köln eine Stadt für Menschenrechte? - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP 4.2: Anfrage zur Förderung rassismuskritischer Projekte/1.Schritt – Vorlage Nr. 3597/2020 - Kenntnis genommen
+- TOP 4.3: Fragebogenaktion des Flüchtlingsrats NRW zur Unterbringung von Geflüchteten in NRW - Kenntnis genommen
+- TOP -: Beantwortung zur Fragebogenaktion des Flüchtlingsrats NRW zur Unterbringung von Geflüchteten in NRW - Kenntnis genommen
+- TOP 4.4: Lebenssituation von Menschen ohne Papiere in Köln – Modellprojekt „Anonymer Krankenschein in Köln“ starten? - Kenntnis genommen
+- TOP 4.5: 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - endgültig zurückgezogen
+- TOP 4.6: FINTA* mit Fluchtgeschichte - Kenntnis genommen
+- TOP 4.7: Internet / WLAN-Versorgung in den Flüchtlingsunterkünften der Stadt Köln - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Inklusionsbericht 2019 - Kenntnis genommen
+- TOP 5.2: Tätigkeitsbericht der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender für die Amtsperiode 2014-2020 - Kenntnis genommen
+- TOP 5.3: Corona-Pandemie: Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 5.4: Preisträgerinnen und Preisträger des "Miteinander Preis Köln für Demokratie und Vielfalt" - Kenntnis genommen
+- TOP 5.5: 30. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.6: Mitteilung zum 8. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.7: Antrag für einen Vorbescheid mit Einzelfragen für ein Wohngebäude mit gewerblichen Nutzungen an der Keupstr./Schanzenstr - Kenntnis genommen
+- TOP 5.8: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Kenntnis genommen
+- TOP 5.9: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 5.10: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 5.11: Sprach- und Integrationsmittler*innen-Pool 2021 - Ergebnis der Ausschreibung - Kenntnis genommen
+- TOP 5.12: Umbau, Modernisierung und Erweiterung Bürgerhaus MüTZe, Köln-Mülheim; Interimsbetrieb "MüTZe plus" 2021 -2023 - Kenntnis genommen
+- TOP 5.13: Förderung Rom e. V. für das Haushaltsjahr 2021 ff. - Kenntnis genommen
+- TOP 5.14: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 5.15: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2020 in der Stadt Köln - Kenntnis genommen
+- TOP 5.16: Inklusionsmonitoring, Stand Schuljahr 2019/20 - Kenntnis genommen
+- TOP 5.17: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII, hier: "Kurdish-European Society e.V. - Kenntnis genommen
+- TOP 5.18: Integrationsratswahlen 2020 - Aktivitäten zur Bewerbung - Kenntnis genommen
+- TOP 5.19: Mitteilung über die Beantwortung der schriftlichen Anfrage der SPD-Fraktion zu den Auswirkungen der Corona-Pandemie auf die Arbeitsmarktintegration und die Bleiberechte von Geflüchteten AN 0008/2021 - Kenntnis genommen
+- TOP 5.20: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 5.21: Sachstandsmitteilung Kriminalprävention - Kenntnis genommen
+- TOP 5.22: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 5.23: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 5.24: TBS Zukunftswerkstatt transnational: Aktueller Stand - Kenntnis genommen
+- TOP 5.25: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im Jahr 2020 - Kenntnis genommen
+- TOP 5.26: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 5.27: Amt für Weiterbildung/Volkshochschule Köln: Politische Bildung digital - Kenntnis genommen
+- TOP 5.28: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 5.29: Sprachförderung für Kinder mit Sprachförderbedarf ohne Kitaplatz (Non-Kita-Kinder) - Kenntnis genommen
+- TOP 5.30: Umbau der Unterbringungseinrichtung Herkulesstraße - Kenntnis genommen
+- TOP 5.31: Abschlussbericht der EHAP-Projekte ALVENI links und ALVENI rechts vom Rhein - Kenntnis genommen
+- TOP 5.32: ZMI - Zentrum für Mehrsprachigkeit und Integration: Kölner Sprachfest 2021 und Publikationen - Kenntnis genommen
+- TOP 5.33: 31. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.34: Landesprogramm "Guter Lebensabend NRW" - Kenntnis genommen
+- TOP 5.35: Jahresbericht 2020 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Rassismus in den Medien - geändert beschlossen
+- TOP 6.2: Antrag auf Fahrkostenersatz für direkt gewählte Integrationsratsmitglieder
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Anerkennung eines neuen Interkulturellen Zentrums in Köln: "23 Nisan e.V." - ungeändert beschlossen
+- TOP 8.2: Benennung von Delegierten für die Mitgliederversammlungen und die Hauptausschusssitzung des Landesintegrationsrates NRW - endgültig abgelehnt
+- TOP -: Änderungsantrag zur Benennung von Delegierten für die Mitgliederversammlungen und die Hauptausschusssitzung des Landesintegrationsrates NRW - ungeändert beschlossen
+- TOP 8.3: Teilnahme der Stadt Köln am Landesprojekt „Guter Lebensabend NRW“ - endgültig zurückgezogen
+- TOP 8.4: Wahl der Vorsitzenden bzw. Stellvertretungen der Arbeitskreise des Integrationsrates - ungeändert beschlossen
+- TOP 8.5: Erweiterung des bisherigen Projektes "Bleiberechstperspektiven für langjährig geduldete Menschen in Köln" zu Programm "Bleibeperspektiven in Köln" - ungeändert beschlossen
+- TOP 8.6: Kölner Lebenslagenbericht - geändert beschlossen
+- TOP -: Änderungsantrag zur Beschlussvorlage 1. Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 8.7: Neubau eines Wohngebäudes im öffentlich-geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg o. Nr., 51143 Köln-Porz-Mitte - Baubeschluss - ungeändert beschlossen
+- TOP 8.8: Förderkonzept Kulturelle Teilhabe - geändert beschlossen
+- TOP 8.9: Besetzung der Ausländerrechtlichen Beratungskommission (ABK) für die Wahlperiode 11-2020 - 2025 - ungeändert beschlossen
+- TOP 8.10: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“ - geändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
