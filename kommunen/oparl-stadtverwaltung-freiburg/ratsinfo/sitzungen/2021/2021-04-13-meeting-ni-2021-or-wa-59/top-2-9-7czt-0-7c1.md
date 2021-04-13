@@ -1,0 +1,7 @@
+# TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 3. Sitzung des Ortschaftsrates Waltershofen (2021-04-13)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2021-OR_WA-59%7Czt_0%7C1
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
