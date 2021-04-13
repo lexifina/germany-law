@@ -1,0 +1,8 @@
+# TOP 4.1: Bebauungsplan 6-24 (Fischerhüttenstraße) Entscheidung zur Anwendung des § 33 Abs. 2 Baugesetzbuch (BauGB) für das Bauvorhaben "Howoge" im Geltungsbereich des B-Plans 6-24 auf den Grundstücken Fischerhüttenstraße 39/43 und den Flurstücken 1294, 1295,1297, 92, 1455/16 sowie 1456/16 im Bezirk Steglitz-Zehlendorf, Ortsteil Zehlendorf
+
+- Sitzung: 47. öffentliche Sitzung des Ausschusses für Stadtplanung und Wirtschaft - Videokonferenz (2021-04-13)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=91943
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=91943
