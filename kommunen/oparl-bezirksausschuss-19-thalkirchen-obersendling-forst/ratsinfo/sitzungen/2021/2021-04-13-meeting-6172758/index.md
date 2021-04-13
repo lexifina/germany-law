@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-04-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172758
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172758
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 09.03.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; Erfahrungen der Bezirksausschüsse
+- TOP 3.3.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. MFM-Workshop 780,00 € / Az. 0262.0-19-0360
+- TOP 3.4.: (A) Änderung Kostenverteilung Zuwendungsbetrag: Circus Galliano; Sitzungsvorlage Nr. 14-20 / V 17794
+- TOP 3.5.: (A) Änderung Kostenverteilung Zuwendungsbetrag und Verlängerung Bewilligungszeitraum: Caritas München-Süd; Sitzungsvorlage Nr. 20-26 / V 01643
+- TOP 3.6.: (A) Mehrjahresinvestitionsprogramm (MIP) - Fortschreibung für die Jahre 2021 bis 2025
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Diskriminierung von Fußgängern in Wertstoffhöfen
+- TOP 4.4.: (A) Neue Baumstandorte im öffentlichen Raum
+- TOP 4.5.: (Antrag) Bestandserhaltungsmaßnahmen für das geschützte Siemenswäldchen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Einrichtung eines LKW Parkverbots in der Graubündener Straße
+- TOP 5.1.2: Tempolimit auf der A95
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Aufhebung Radwegebenutzungspflicht Passauerstraße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Aufhebung Radwegebenutzungspflicht Pognerstraße
+- TOP 5.4.: (Antrag) Erweiterung Parklizenzgebiet Thalkirchen
+- TOP 5.5.: (Antrag) Thalkirchen fußgängerfreundlicher machen
+- TOP 5.6.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Öffnung Leo-Graetz-Straße für gegenläufigen Radverkehr
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Änderung Flächennutzungsplan mit integrierter Landschaftsplanung für den Bereich III/28 und Bebauungsplan mit Grünordnung Nr. 1930d - Campus Süd
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Internet-Anschluss Wohnprojekt BEO im Jungen Quartier Obersendling
+- TOP 7.1.2: Ausreichend Fahrradständer auf dem Gelände der Grundschule an der Berner Straße
+- TOP 7.2.: (A) Standortbeschluss zur Unterbringung wohnungsloser Einzelpersonen und Paare Neubau eines Flexi-Heims Steinkirchner Str. 1; Sitzungsvorlage Nr. 20-26 / V 02853
+- TOP 7.3.: (Antrag) Jugendverbände und -vereine während Corona stärken und klare Verhältnisse schaffen
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Herterichstraße
+- TOP 8.3.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee 15.05.2021 bis 30.06.2021
+- TOP 8.4.: (A) Veranstaltung: Spielaktionen Spielen in der Stadt e.V. 04.05.2021 bis 30.10.2021
+- TOP 8.5.: (A) Tag des offenen Denkmals am 12.09.2021
+- TOP 8.6.: (A) Veranstaltung: Fit im Park 01.05.2021 bis 30.09.2021
+- TOP 6.2.1: Helfenriederstraße 12
+- TOP 6.2.2: Boschetsrieder Straße 41
+- TOP 6.2.3: Baierbrunner Straße 61
+- TOP 6.2.4: Am Vogelherd 24
+- TOP 6.2.5: Forstenrieder Allee 9 (T)
+- TOP 6.2.6: Isnystraße 5 (VB)
+- TOP 6.2.7: Seeshaupter Straße 4 (VB)
+- TOP 6.2.8: Machtlfinger Straße 1
+- TOP 6.2.9: Waterloostraße 63 (T)
+- TOP 6.2.10: Aidenbachstraße 127 (T)
