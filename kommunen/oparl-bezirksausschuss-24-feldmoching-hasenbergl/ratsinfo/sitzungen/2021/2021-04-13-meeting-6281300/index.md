@@ -1,0 +1,96 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-04-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6281300
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6281300
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Volkshochschule GmbH "Urban Sketching & Writing - Schreib- und Zeichenprojekt fürs Hasenbergl" 2500,00 € / Az. 0262.0-24-0356 (vertagter TOP 2.3 - 09.03.2021)
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative „Kunst für Kinder“ Kunstprojekt „Apfel-, Pflaumen, Mango-Baum – König Baum trägt eine Krone“ 5.081,00 € / Az. 0262.0-24-0359
+- TOP 2.3.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Mehrweg-Pfandsystem für Stadtteilcafe 599,76 € / Az. 0262.0-24-0358
+- TOP 2.4.: Sondernutzungserlaubnis gemäß OB-Vollmacht: Walter-Sedlmayr-Platz 6: Antrag auf Erweiterung einer bestehenden Warenauslage
+- TOP 3.1.: Schaffung einer sicheren Querung in Form von Fußgängerüberwegen an der Lassallestr. und der Max-Wönner-Str. (vertagter TOP 3.1 - 09.03.2021)
+- TOP 3.2.: Schaffung einer Unterführung für Rad- und Fußverkehr als Verlängerung Ponkratzstraße, Raheinstraße und Rambertweg im Rahmen des Bauvorhabens Rahein- / Ratoldstraße
+- TOP 3.3.: Öffnung der Hammerschmiedstraße (zwischen Gottesackerweg und Feldmochinger Straße) in beiden Richtungen für den Radverkehr
+- TOP 3.4.: Tempo 30 Regelgeschwindigkeit im 24. Stadtbezirk
+- TOP 3.5.: Sicherung eines Fußgängerüberwegs, z.B. in Form eines Zebrastreifens oder einer Ampelanlage auf der Feldmochinger Straße (Höhe nördlicher Teil der Borsigstraße)
+- TOP 3.6.: Sicherung eines Fußgängerüberüberwegs, z.B. in Form eines Zebrastreifens oder einer Ampelanlage auf der Schleißheimer Straße (in Höhe Harprrechtstraße)
+- TOP 3.7.: Verbesserung der Barrierefreiheit in den S-Bahnstationen Feldmoching und Fasanierie
+- TOP 3.8.: Umsetzung der nächsten Bürgerbeteiligung für Ludwigsfeld als Präsenz-Veranstaltung
+- TOP 3.9.: Einrichtung von Parkverbotszonen im Wohngebiet Feldmoching östlich der Bahnlinie
+- TOP 3.10.: Einrichtung eines Langzeit-Parkverbotes zwischen Anwesen Am Blütenanger 8 und 10
+- TOP 3.11.: Anordnung von zeitlich befristeten Parkerlaubnissen (Parkscheiben) am Parkplatz Lerchenauer See
+- TOP 3.12.: Schaffung einer sicheren Ausfahrt aus dem Anwesen Feldmochinger Str. 387 (z.B. Anbringen Verkehrsspiegel, Haltverbote, Parkbuchten, Geschwindigkeitsreduzierungen)
+- TOP 3.13.: Störung des Verkehrsflusses in der Lerchenstraße durch LKW Verkehr Anwesen Lerchenstr. 19 (Lieferverkehr, Parkende LKW&#039; s auf den Seitenstreifen)
+- TOP 3.14.: Sicherheitsproblem aufgrund in der Strasseneinfahrt zur Waldrebenstraße parkenden Autos
+- TOP 3.15.: Vorschläge zu Straßenbenennungen im neu entstehenden Wohngebiet in München-Ludwigsfeld
+- TOP 3.16.: Mögliche Geschwindigkeitsüberwachungen in der Josef-Frankl-Straße
+- TOP 3.17.: Schaffung eines in das Landschaftsbild passenden Zugangs mit Erholungsmöglichkeit für Bürger*innen zum angelegten Biotop (auf den Ausgleichsflächen nahe Feldmochinger Str. 193)
+- TOP 3.18.: Aufstellen von Müllbehältnissen an den Sitzbänken im Parkbereich an der Schittgablerstraße
+- TOP 3.19.: Ausbesserung der Beton-Fahrbahnbegrenzung in der Schwarzhölzlstraße
+- TOP 3.20.: Entwicklung eines Konzeptes zur Einführung des digitalen Antragsverfahrens durch die Stadt München und Unterstützung zur Durchsetzung und Einführung durch den BA 24
+- TOP 3.21.: BA21: "Verbesserung der Baumschutzverordnung gegen illegale Fällungen" mit der Bitte um Unterstützung
+- TOP 3.22.: Sitzungsvorlage Nr. 20-26 / V 01848 des Referates für Stadtplanung und Bauordnung - Zwischenbericht Nahverkehrsplan
+- TOP 3.23.: Tram zum Goldschmiedplatz nicht aus dem Nahverkehrsplan streichen, sondern realisieren
+- TOP 3.24.: Einbringung in die Trambahnplanungen um einen ordentlichen öffentlichen Verkehrsanschluss der gesamten Lerchenauer Straße (vom Olympiazentrum bis Feldmoching) zu erwirken
+- TOP 5.1.1.: Petrarcastr. 1
+- TOP 5.1.2.: Am Blütenanger 71
+- TOP 5.1.3.: Herbergstraße
+- TOP 5.1.4.: Feldmochinger Str. 353
+- TOP 5.1.5.: Auf den Schrederwiesen 54
+- TOP 5.1.6.: Lerchenauer Str. 321
+- TOP 5.1.7.: Lerchenstr. 74
+- TOP 5.1.8.: Prälat-Höck-Bogen 9
+- TOP 5.1.9.: Dahlienstr. 23
+- TOP 5.1.10.: Hammstr. 13
+- TOP 5.2.1.: Ebereschenstr. 4
+- TOP 5.2.2.: Am Blütenanger 71
+- TOP 5.4.1.: Billigungsbeschluss: Bebauungsplan mit Grünordnung Nr. 2108a; Raheinstraße.., Ratoldstraße..., Lerchenstraße.., Bahnlinie München-Regensburg.. (Bürgerversammlungsempfehlungen 14-20/ E 01405 und 14-20/ E 02553 und BA-Antrag Nr. 14-20/ B 06720)
+- TOP 5.4.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2021 - 2025
+- TOP 5.4.3.: Neue Baumstandorte im öffentlichen Raum
+- TOP 5.4.4.: Baumfällungen (BaumSchVO): Am Haselnussstrauch 24
+- TOP 5.4.5.: Baumfällungen (BaumSchVO): Ebereschenstr. 69
+- TOP 5.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Z 283 (absolutes Haltverbot) auf der Nordseite der Waldrebenstraße (→ siehe Bürgeranliegen TOP 3.14)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Reinigung von verschmutzten Schildern auf öffentlichen Straßengrund und in den Naherholungsgebieten im 24. Stadtbezirk
+- TOP 2.: Herstellung des Fuß-/Radweges westlich vom Löwenzahnweg zur Schittgabler-/Wilhelmine-Reichard-Str.
+- TOP 3.: Status des Projektes "kitafinder+"
+- TOP 4.: Aufstellen von Haltverbotsschildern im Bereich des Gehweges am südlichen Ende der Reigersbachstraße / Ecke Trollblumenstraße beidseitig (zu 3.10 - 09.02.2021)
+- TOP 5.: Querungsbehinderung in der Thelottstraße (zu 3.11 - 09.02.2021)
+- TOP 6.: Vorabzustimmungen des Vorsitzenden gemäß § 20 Abs. 1 BA-Satzung (unaufschiebbare Angelegenheiten): 1. Bauvorhaben Lassallestraße (Schulbau-Offensive) 2. Veranstaltung in städtischer Grünanlage: Skateboard Mobil im Skatepark Fasanerie vom 02.04. - 28.10.2021
+- TOP 7.: Information über den Sachstand zur Entwicklung der Siedlung Ludwigsfeld
+- TOP 8.: Münchner Nordosten und Feldmoching-Ludwigsfeld - Vergabebeschluss für Rechtsgutachten und Rechtsberatung - Änderungsbeschluss zum Vergabebeschluss vom 08.07.2020 - Sitzungsvorlagen Nr. 20-26/ V 02019 (-> siehe TOP 6.9)
+- TOP 9.: (U) Münchner Nordosten und Feldmoching-Ludwigsfeld - Vergabebeschluss für Rechtsgutachten und Rechtsberatung - Änderungsbeschluss zum Vergabebeschluss vom 08.07.2020 (SV 14-20 / V 17634) Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 10.: Planfeststellung für das Vorhaben A99 - Sanierung Tunnel Allach und Temporäre Seitenstreifenfreigabe, hier: Abdruck der gesamtstädtischen Stellungnahme vom 12.03.2021 an die Regierung von Oberbayern (zu 5.4.3 - 09.02.2021)
+- TOP 11.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot im Kurvenbereich Reigersbachstraße / Trollblumenstraße (zu 3.10 - 09.02.2021) b) Einrichtung weiterer Haltverbotszonen in der Weitlstraße
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 14.: (U) Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München Bürgerinitiative Ausspekuliert als ständiges beratendes Mitglied im Mieterbeirat Antrag Nr. 20-26 / A 00097 .......................
+- TOP 3.: Anträge
