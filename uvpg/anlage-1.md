@@ -1,12 +1,12 @@
-# Anlage 1 Liste "UVP-pflichtige Vorhaben"
+# Anlage 1 Liste „UVP-pflichtige Vorhaben“
 
 Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereich dieses Gesetzes. Soweit nachstehend eine allgemeine Vorprüfung oder eine standortbezogene Vorprüfung des Einzelfalls vorgesehen ist, nimmt dies Bezug auf die Regelungen des § 7 Absatz 1 und 2.
 | Legende: |
-| Nr. | = Nummer des Vorhabens |
-| Vorhaben | = Art des Vorhabens mit ggf. Größen- oder Leistungswerten nach § 6 Satz 2 sowie Prüfwerten für Größe oder Leistung nach § 7 Absatz 5 Satz 3 |
-| X in Spalte 1 | = Vorhaben ist UVP-pflichtig |
-| A in Spalte 2 | = allgemeine Vorprüfung des Einzelfalls: siehe § 7 Absatz 1 Satz 1 |
-| S in Spalte 2 | = standortbezogene Vorprüfung des Einzelfalls: siehe § 7 Absatz 2 |
+| Nr. | = | Nummer des Vorhabens |
+| Vorhaben | = | Art des Vorhabens mit ggf. Größen- oder Leistungswerten nach § 6 Satz 2 sowie Prüfwerten für Größe oder Leistung nach § 7 Absatz 5 Satz 3 |
+| X in Spalte 1 | = | Vorhaben ist UVP-pflichtig |
+| A in Spalte 2 | = | allgemeine Vorprüfung des Einzelfalls: siehe § 7 Absatz 1 Satz 1 |
+| S in Spalte 2 | = | standortbezogene Vorprüfung des Einzelfalls: siehe § 7 Absatz 2 |
 | Nr. | Vorhaben | Sp. 1 | Sp. 2 |
 | 1. | Wärmeerzeugung, Bergbau und Energie: |  |  |
 | 1.1 | Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas durch den Einsatz von Brennstoffen in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, Gasturbine, Verbrennungsmotoranlage, sonstige Feuerungsanlage), einschließlich des jeweils zugehörigen Dampfkessels, mit einer Feuerungswärmeleistung von |  |  |
@@ -31,7 +31,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 1.4.1.3 | 1 MW bis weniger als 50 MW, ausgenommen Verbrennungsmotoranlagen für Bohranlagen, |  | S |
 | 1.4.2 | anderen als in Nummer 1.4.1 genannten Brennstoffen mit einer Feuerungswärmeleistung von |  |  |
 | 1.4.2.1 | mehr als 200 MW, | X |  |
-| 1.4.2.2 | 50 MW bis 200 MW |  | A |
+| 1.4.2.2 | 50 MW bis 200 MW, |  | A |
 | 1.4.2.3 | 1 MW bis weniger als 50 MW; |  | S |
 | 1.5 | (weggefallen) |  |  |
 | 1.6 | Errichtung und Betrieb einer Windfarm mit Anlagen mit einer Gesamthöhe von jeweils mehr als 50 Metern mit |  |  |
@@ -163,7 +163,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 7.10.1 | 1 000 oder mehr Plätzen, |  | A |
 | 7.10.2 | 750 bis weniger als 1 000 Plätzen; |  | S |
 | 7.11 | Errichtung und Betrieb einer Anlage zur Intensivhaltung oder -aufzucht von Tieren in gemischten Beständen, wenn |  |  |
-| 7.11.1 | die jeweils unter den Nummern 7.1.1, 7.2.1, 7.3.1, 7.4.1, 7.7.1, 7.8.1, 7.9.1 und 7.10.1 genannten Platzzahlen nicht erreicht werden, die Summe der Vom-Hundert-Anteile, bis zu denen die Platzzahlen ausgeschöpft werden, aber den Wert 100 erreicht oder überschreitet, | X |  |
+| 7.11.1 | die jeweils unter den Nummern 7.1.1, 7.2.1, 7.3.1, 7.4.1, 7.7.1, 7.8.1, 7.9.1 genannten Platzzahlen nicht erreicht werden, die Summe der Vom-Hundert-Anteile, bis zu denen die Platzzahlen ausgeschöpft werden, aber den Wert 100 erreicht oder überschreitet, | X |  |
 | 7.11.2 | die jeweils unter den Nummern 7.1.2, 7.2.2, 7.3.2, 7.4.2, 7.5.1, 7.6.1, 7.7.2, 7.8.2, 7.9.2 und 7.10.1 genannten Platzzahlen nicht erreicht werden, die Summe der Vom-Hundert-Anteile, bis zu denen die Platzzahlen ausgeschöpft werden, aber den Wert von 100 erreicht oder überschreitet, |  | A |
 | 7.11.3 | die jeweils unter den Nummern 7.1.3, 7.2.3, 7.3.3, 7.4.3, 7.5.2, 7.6.2, 7.7.3, 7.8.3, 7.9.3 und 7.10.2 genannten Platzzahlen nicht erreicht werden, die Summe der Vom-Hundert-Anteile, bis zu denen die Platzzahlen ausgeschöpft werden, aber den Wert 100 erreicht oder überschreitet; |  | S |
 | 7.12 | (weggefallen) |  |  |
@@ -214,12 +214,12 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 7.28 | Errichtung und Betrieb einer Anlage zur Herstellung von Süßwaren oder Sirup aus pflanzlichen Rohstoffen mit einer Produktionskapazität von |  |  |
 | 7.28.1 | 600 t oder mehr Süßwaren oder Sirup je Tag, wenn die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist, |  | A |
 | 7.28.2 | 300 t oder mehr Süßwaren oder Sirup je Tag, wenn die Anlage an mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist, |  | A |
-| 7.28.3 | 50 kg bis weniger als den in den Nummern 7.28.1 oder 7.28. 2 angegebenen Kapazitäten für Tonnen Süßwaren je Tag und unter den dort genannten Voraussetzungen im Übrigen bei Herstellung von Kakaomasse aus Rohkakao oder bei thermischer Veredelung von Kakao- oder Schokoladenmasse; |  | S |
+| 7.28.3 | 50 kg bis weniger als den in den Nummern 7.28.1 oder 7.28.2 angegebenen Kapazitäten für Tonnen Süßwaren je Tag und unter den dort genannten Voraussetzungen im Übrigen bei Herstellung von Kakaomasse aus Rohkakao oder bei thermischer Veredelung von Kakao- oder Schokoladenmasse; |  | S |
 | 7.29 | Errichtung und Betrieb einer Anlage zur Behandlung oder Verarbeitung von Milch, Milcherzeugnissen oder Milchbestandteilen mit einer Produktionskapazität als Jahresdurchschnittswert von |  |  |
 | 7.29.1 | 200 t Milch oder mehr je Tag, |  | A |
 | 7.29.2 | 5 t bis weniger als 200 t Milch, Milcherzeugnissen oder Milchbestandteilen je Tag bei Sprühtrocknern; |  | S |
 | 8. | Verwertung und Beseitigung von Abfällen und sonstigen Stoffen: |  |  |
-| 8.1 | Errichtung und Betrieb einer Anlage zur Beseitigung oder Verwertung fester, flüssiger oder in Behältern gefasster gasförmiger Abfälle, Deponiegas oder anderer gasförmiger Stoffe mit brennbaren Bestandteilen durch |  |  |
+| 8.1. | Errichtung und Betrieb einer Anlage zur Beseitigung oder Verwertung fester, flüssiger oder in Behältern gefasster gasförmiger Abfälle, Deponiegas oder anderer gasförmiger Stoffe mit brennbaren Bestandteilen durch |  |  |
 | 8.1.1 | thermische Verfahren, insbesondere Entgasung, Plasmaverfahren, Pyrolyse, Vergasung, Verbrennung oder eine Kombination dieser Verfahren |  |  |
 | 8.1.1.1 | bei gefährlichen Abfällen, | X |  |
 | 8.1.1.2 | bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von 3 t Abfällen oder mehr je Stunde, | X |  |
@@ -229,13 +229,13 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 8.1.2.2 | 1 MW bis weniger als 50 MW, |  | A |
 | 8.1.2.3 | weniger als 1 MW, |  | S |
 | 8.1.3 | Abfackeln von Deponiegas oder anderen gasförmigen Stoffen, ausgenommen über Notfackeln, die für den nicht bestimmungsgemäßen Betrieb erforderlich sind; |  | S |
-| 8.2 | Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel, durch den Einsatz von – gestrichenem, lackiertem oder beschichtetem Holz oder – Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holzsowie daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind oder Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, mit einer Feuerungswärmeleistung von |  |  |
+| 8.2 | Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel, durch den Einsatz von –gestrichenem, lackiertem oder beschichtetem Holz oder–Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holzsowie daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind oder Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, mit einer Feuerungswärmeleistung von |  |  |
 | 8.2.1 | 50 MW oder mehr, | X |  |
 | 8.2.2 | 1 MW bis weniger als 50 MW; |  | S |
 | 8.3 | Errichtung und Betrieb einer Anlage zur biologischen Behandlung von gefährlichen Abfällen mit einer Durchsatzkapazität an Einsatzstoffen von |  |  |
 | 8.3.1 | 10 t oder mehr je Tag, | X |  |
 | 8.3.2 | 1 t bis weniger als 10 t je Tag; |  | S |
-| 8.4 | Errichtung und Betrieb einer Anlage zur biologischen Behandlung von |  |  |
+| 8.4. | Errichtung und Betrieb einer Anlage zur biologischen Behandlung von |  |  |
 | 8.4.1 | nicht gefährlichen Abfällen, soweit nicht durch Nummer 8.4.2 erfasst, mit einer Durchsatzkapazität an Einsatzstoffen von |  |  |
 | 8.4.1.1 | 50 t oder mehr je Tag, |  | A |
 | 8.4.1.2 | 10 t bis weniger als 50 t je Tag, |  | S |
@@ -369,13 +369,13 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 14.4 | Bau einer neuen vier- oder mehrstreifigen Bundesstraße, wenn diese neue Straße eine durchgehende Länge von 5 km oder mehr aufweist; | X |  |
 | 14.5 | Bau einer vier- oder mehrstreifigen Bundesstraße durch Verlegung und/oder Ausbau einer bestehenden Bundesstraße, wenn dieser geänderte Bundesstraßenabschnitt eine durchgehende Länge von 10 km oder mehr aufweist; | X |  |
 | 14.6 | Bau einer sonstigen Bundesstraße; |  | A |
-| 14.7 | Bau eines Schienenwegs von Eisenbahnen mit den dazugehörigen Betriebsanlagen sowie Bahnstromfernleitungen auf dem Gelände der Betriebsanlage oder entlang des Schienenwegs | X |  |
-| 14.8 | Soweit der Bau nicht Teil des Baus eines Schienenwegs nach Nummer 14.7 oder einer Bahnstromfernleitung nach Nummer 19.13 ist |  |  |
+| 14.7 | Bau eines Schienenwegs von Eisenbahnen mit den dazugehörigen Betriebsanlagen sowie Bahnstromfernleitungen auf dem Gelände der Betriebsanlage oder entlang des Schienenwegs; | X |  |
+| 14.8 | Soweit der Bau nicht Teil des Baus eines Schienenwegs nach Nummer 14.7 oder einer Bahnstromfernleitung nach Nummer 19.13 ist; |  |  |
 | 14.8.1 | Bau von Gleisanschlüssen mit einer Länge bis 2 000 m |  | S |
 | 14.8.2 | Bau von Zuführungs- und Industriestammgleisen mit einer Länge bis 3 000 m |  | S |
 | 14.8.3 | Bau einer sonstigen Betriebsanlage von Eisenbahnen, insbesondere einer intermodalen Umschlaganlage oder eines Terminals für Eisenbahnen, wenn diese eine Fläche |  |  |
 | 14.8.3.1 | von 5 000 m2 oder mehr in Anspruch nimmt, |  | A |
-| 14.8.3.2 | von 2 000 m2 bis weniger als 5 000 m2 in Anspruch nimmt. |  | S |
+| 14.8.3.2 | von 2 000 m2 bis weniger als 5 000 m2 in Anspruch nimmt; |  | S |
 | 14.9 | Bau einer Magnetschwebebahnstrecke mit den dazugehörenden Betriebsanlagen; | X |  |
 | 14.10 | Bau einer anderen Bahnstrecke für den öffentlichen spurgeführten Verkehr mit den dazugehörenden Betriebsanlagen; |  | A |
 | 14.11 | Bau einer Bahnstrecke für Straßenbahnen, Stadtschnellbahnen in Hochlage, Untergrundbahnen oder Hängebahnen im Sinne des Personenbeförderungsgesetzes, jeweils mit den dazugehörenden Betriebsanlagen; |  | A |
@@ -387,7 +387,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 15.2 | Errichtung, Betrieb und Stilllegung von Kohlendioxidspeichern; | X |  |
 | 16. | Flurbereinigung: |  |  |
 | 16.1 | Bau der gemeinschaftlichen und öffentlichen Anlagen im Sinne des Flurbereinigungsgesetzes; |  | A |
-| 17. | Forstliche und landwirtschaftliche Vorhaben |  |  |
+| 17. | Forstliche und landwirtschaftliche Vorhaben: |  |  |
 | 17.1 | Erstaufforstung im Sinne des Bundeswaldgesetzes mit |  |  |
 | 17.1.1 | 50 ha oder mehr Wald, | X |  |
 | 17.1.2 | 20 ha bis weniger als 50 ha Wald, |  | A |
@@ -416,7 +416,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 18.5 | Bau einer Industriezone für Industrieanlagen, für den im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs ein Bebauungsplan aufgestellt wird, mit einer zulässigen Grundfläche im Sinne des § 19 Absatz 2 der Baunutzungsverordnung oder einer festgesetzten Größe der Grundfläche von insgesamt |  |  |
 | 18.5.1 | 100 000 m2 oder mehr, | X |  |
 | 18.5.2 | 20 000 m2 bis weniger als 100 000 m2; |  | A |
-| 18.6 | Bau eines Einkaufszentrums, eines großflächigen Einzelhandelsbetriebes oder eines sonstigen großflächigen Handelbetriebes im Sinne des § 11 Absatz 3 Satz 1 der Baunutzungsverordnung, für den im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs ein Bebauungsplan aufgestellt wird, mit einer zulässigen Geschossfläche von |  |  |
+| 18.6 | Bau eines Einkaufszentrums, eines großflächigen Einzelhandelsbetriebes oder eines sonstigen großflächigen Handelsbetriebes im Sinne des § 11 Absatz 3 Satz 1 der Baunutzungsverordnung, für den im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs ein Bebauungsplan aufgestellt wird, mit einer zulässigen Geschossfläche von |  |  |
 | 18.6.1 | 5 000 m2 oder mehr, | X |  |
 | 18.6.2 | 1 200 m2 bis weniger als 5 000 m2; |  | A |
 | 18.7 | Bau eines Städtebauprojektes für sonstige bauliche Anlagen, für den im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs ein Bebauungsplan aufgestellt wird, mit einer zulässigen Grundfläche im Sinne des § 19 Absatz 2 der Baunutzungsverordnung oder einer festgesetzten Größe der Grundfläche von insgesamt |  |  |
@@ -460,7 +460,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 19.8 | Errichtung und Betrieb einer Rohrleitungsanlage, soweit sie nicht unter Nummer 19.6 fällt, zum Befördern von Wasser, die das Gebiet einer Gemeinde überschreitet (Wasserfernleitung), mit |  |  |
 | 19.8.1 | einer Länge von 10 km oder mehr, |  | A |
 | 19.8.2 | einer Länge von 2 km bis weniger als 10 km; |  | S |
-| 19.9 | Errichtung und Betrieb eines künstlichen Wasserspeichers mit |  |
+| 19.9 | Errichtung und Betrieb eines künstlichen Wasserspeichers mit |  |  |
 | 19.9.1 | 10 Mio. m3 oder mehr Wasser, | X |  |
 | 19.9.2 | 2 Mio. m3 bis weniger als 10 Mio. m3 Wasser, |  | A |
 | 19.9.3 | 5 000 m3 bis weniger als 2 Mio. m3 Wasser; |  | S |
@@ -468,13 +468,13 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 19.10.1 | einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung von mehr als 800 mm, | X |  |
 | 19.10.2 | einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung von 150 mm bis zu 800 mm, |  | A |
 | 19.10.3 | einer Länge von 2 km bis 40 km und einem Durchmesser der Rohrleitung von mehr als 150 mm, |  | A |
-| 19.10.4 | einer Länge von weniger als 2 km und einem Durchmesser der Rohrleitung von mehr als 150 mm. |  | S |
+| 19.10.4 | einer Länge von weniger als 2 km und einem Durchmesser der Rohrleitung von mehr als 150 mm; |  | S |
 | 19.11 | Errichtung und Betrieb eines Erdkabels nach § 2 Absatz 5 des Bundesbedarfsplangesetzes | X |  |
 | 19.12 | Errichtung und Betrieb einer Anbindungsleitung von LNG-Anlagen an das Fernleitungsnetz im Sinne des Energiewirtschaftsgesetzes, ausgenommen Leitungsanlagen, die den Bereich eines Werksgeländes nicht überschreiten, mit |  |  |
 | 19.12.1 | einer Länge von mehr als 40 km und einem Durchmesser von mehr als 800 mm, | X |  |
 | 19.12.2 | einer Länge von mehr als 40 km und einem Durchmesser von 300 mm bis zu 800 mm, |  | A |
 | 19.12.3 | einer Länge von 5 km bis 40 km und einem Durchmesser von mehr als 300 mm, |  | A |
-| 19.12.4 | einer Länge von weniger als 5 km und einem Durchmesser von mehr als 300 mm. |  | S |
+| 19.12.4 | einer Länge von weniger als 5 km und einem Durchmesser von mehr als 300 mm; |  | S |
 | 19.13 | Errichtung und Betrieb einer Bahnstromfernleitung mit einer Nennspannung von 110 kV bis weniger als 220 kV, soweit nicht von Nummer 14.7 erfasst, |  |  |
 | 19.13.1 | mit einer Länge von 15 km oder mehr |  | A |
 | 19.13.2 | mit einer Länge von weniger als 15 km |  | S |

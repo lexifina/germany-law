@@ -293,7 +293,6 @@
 - [§ 127 Zuschlag](0127.md)
 - [§ 128 Auftragsausführung](0128.md)
 - [§ 129 Zwingend zu berücksichtigende Ausführungsbedingungen](0129.md)
-- [(XXXX) §§ 129a bis 129b (weggefallen)](xxxx-129a-bis-129b.md)
 - [§ 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen](0130.md)
 - [§ 131 Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr](0131.md)
 - [§ 132 Auftragsänderungen während der Vertragslaufzeit](0132.md)
@@ -381,4 +380,3 @@
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
 - [§ 186 Übergangsbestimmungen](0186.md)
-- [Anlage (weggefallen)](anlage.md)

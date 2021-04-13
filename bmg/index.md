@@ -33,6 +33,7 @@
 - [§ 21 Mehrere Wohnungen](0021.md)
 - [§ 22 Bestimmung der Hauptwohnung](0022.md)
 - [§ 23 Erfüllung der allgemeinen Meldepflicht](0023.md)
+- [§ 23a Elektronische Anmeldung](0023a.md)
 - [§ 24 Datenerhebung, Meldebestätigung](0024.md)
 - [§ 25 Mitwirkungspflichten der meldepflichtigen Person](0025.md)
 - [§ 26 Befreiung von der Meldepflicht](0026.md)

@@ -47,4 +47,5 @@
 - [§ 23 Gebühren und Auslagen; Verordnungsermächtigung](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 25 Verordnungsermächtigung](0025.md)
+- [§ 25 Verordnungsermächtigung](0025-2.md)
 - [§ 26 Übergangsvorschrift](0026.md)

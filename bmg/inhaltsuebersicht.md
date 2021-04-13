@@ -29,6 +29,7 @@ Allgemeine Meldepflichten
 | § 21 | Mehrere Wohnungen |
 | § 22 | Bestimmung der Hauptwohnung |
 | § 23 | Erfüllung der allgemeinen Meldepflicht |
+| § 23a | Elektronische Anmeldung |
 | § 24 | Datenerhebung, Meldebestätigung |
 | § 25 | Mitwirkungspflichten der meldepflichtigen Person |
 | § 26 | Befreiung von der Meldepflicht |
