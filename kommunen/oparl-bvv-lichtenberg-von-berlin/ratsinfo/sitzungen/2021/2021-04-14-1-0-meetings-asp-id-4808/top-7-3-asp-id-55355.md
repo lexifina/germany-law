@@ -1,0 +1,8 @@
+# TOP 7.3: Gutachtermittel für die Sicherung von Kleingartenanlagen erhöhen (allein beratend)
+
+- Sitzung: 53. Sitzung in der VIII. Wahlperiode des Ausschusses Haushalt und Personal (2021-04-14)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=55355
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=55355
