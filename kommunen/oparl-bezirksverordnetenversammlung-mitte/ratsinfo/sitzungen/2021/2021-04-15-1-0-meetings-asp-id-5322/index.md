@@ -1,0 +1,55 @@
+# 53. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-04-15T17:30:00+02:00
+- Ende: 2021-04-15T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5322
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5322
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=500827
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=503994
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - erledigt
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 48. Sitzung am 18.11.2020 - vertagt
+- TOP 1.2.2: der 51. Sitzung am 26.01.2021 - vertagt
+- TOP 1.2.3: der 52. Sitzung am 03.03.2021 - vertagt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Erörterung zum Verfahren der Vorstellung von Spielplatzprojekten - erledigt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Beratung von Drucksachen - (offen)
+- TOP 5.1: Verkehrsberuhigung mit Anliegern - erledigt
+- TOP 5.2: Leipziger Park statt lauter Verkehrsschneise! - mit Änderungen im Ausschuss beschlossen
+- TOP 5.3: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - vertagt
+- TOP 5.4: Reale Verbesserungen im Nikolaiviertel – (k)eine unendliche Geschichte? - vertagt
+- TOP 5.5: Friedrichstraße III – Flaniermeile für ALLE Menschen! - im Ausschuss abgelehnt
+- TOP 5.6: Verkehrsberuhigung im Sprengelkiez - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Für sichere und lebenswerte Kieze - Durchgangsverkehr in den Wohnquartieren verhindern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.8: Ordnungsamt für Mitte - im Ausschuss abgelehnt
+- TOP 5.9: Mehr Photovoltaikanlagen für Mitte-Gebäude in öffentlicher Hand - erledigt
+- TOP 5.10: Roter Atlas gefährdeter Arten - vertagt
+- TOP 5.11: Fußgängerweg an der Panke durchgehend mit Zebrastreifen gestalten - mit Änderungen im Ausschuss beschlossen
+- TOP 5.12: Pilotprojekt kreative Eimer für Mitte - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.13: Sportangebote im Wedding erweitern – Möglichkeiten suchen, Lösungen finden! - mit Änderungen im Ausschuss beschlossen
+- TOP 5.14: Sicherheit bei der gemeinsamen Nutzung der Schillingstraße durch Fußgänger und Radfahrer erhöhen - vertagt
+- TOP 5.15: Bismarck-Denkmal reinigen! - vertagt
+- TOP 5.16: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - vertagt
+- TOP 5.17: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - vertagt
+- TOP 5.18: Inklusivität auf unseren Spielplätzen steigern - vertagt
+- TOP 5.19: Haltebügel für Radfahrende in der Hauptstadtmitte - vertagt
+- TOP 5.20: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - vertagt
+- TOP 5.21: Landschaftsschutzgebiet in der Rehberge ausdehnen - vertagt
+- TOP 5.22: Rodelbahn wiederherstellen - vertagt
+- TOP 5.23: Weniger Müll in Mitte II - vertagt
+- TOP 6: Verschiedenes - vertagt
+- TOP 7: Terminplanung - erledigt
