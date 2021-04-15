@@ -1,0 +1,162 @@
+# 3. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-15T17:00:00+02:00
+- Ende: 2021-04-15T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23321
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23321
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814631.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814631.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814631.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Thenhovener Straße und Thenhover-Escher Weg (Az.: 02-1600-132/20) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Unnötiger Lkw-Durchgangsverkehr in Fühlingen - Kenntnis genommen
+- TOP 7.1.2: Entfernte Sperrpoller im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.3: Entfernung von intaktem städtischen Grün im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.4: Anfragen zum Stadt und Feuerwehr bewässern Bäume in Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nahversorgung für Fühlingen und Merkenich Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.2: S-Bahnumfahrungen des Stadtbezirk Chorweiler Gemeinsame Anfrage der CDU-Fraktion und der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - zurückgestellt
+- TOP 7.2.3: Historischer Friedhof Esch Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Installierung eines zentralen Wasser- und Stromanschlusses auf dem Platz in Auweiler - Kenntnis genommen
+- TOP 7.2.5: Sauberkeit und Schutz vor Vermüllung Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Fahrradboxen im Stadtbezirk Köln-Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.7: Verkehrsführung auf dem Liverpooler Platz Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Wasserversorgung in Kleingartenanlagen im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.9: Fingernagel-Beauty-Studios Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.10: KVB-Fahrgastunterstand EKZ Heimersdorf Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.11: Ausweitung des KVB-Busnetzes in Blumenberg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.12: Elektronisch versenkbare Pfosten in der Geiersbergstraße und Ernstbergstraße in Köln-Blumenberg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.13: Fehlende und defekte Poller im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.14: Diskriminierung queere Jugendliche Anfrage der FDP - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.15: Sachstand Blumenbergsweg Anfrage der FDP - Kenntnis genommen
+- TOP 7.2.16: Schulrenovierungsmaßnahmen im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.17: Leerstand von Wohnungen und Häusern im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.18: Heizkraftwerk Merkenich Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.19: Stadtbezirk Chorweiler Modell-Stadtbezirk angelehnt an das Tübinger Modell Gemeinsame Anfrage der CDU-Fraktion und der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.20: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.21: Escher See Beach Club Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.22: Barrierefreiheit an Schulen Anfrage der FDP - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Antrag für dne Runden Tisch zur Beweidung in den Worringer Rheinauen - zurückgestellt
+- TOP 8.1.2: Ortstermin in der Bruchstraße - geändert beschlossen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen, der AfD-Fraktion, Die Linke und FDP - ungeändert beschlossen
+- TOP 8.2.2: Aufforderung des Rücktritts der fraktionslosen stellvertretenden Bezirksbürgermeisterin Heinrich Dringlichkeitsantrag der AfD-Fraktion - zurückgestellt
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Gelenkbusse für die Busse der KVB-Linie 121 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Aufstellung von Mülleimern in Langel Antrag der FDP - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag der FDP - ungeändert beschlossen
+- TOP 8.3.3: Ärztliche Versorgung im Stadtbezirk Chorweiler Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 8.3.4: Wiederaufbau der Luftmessstationen auf den Grundstücken der Grundschulen An den Kaulen in Köln-Worringen und Am Spoerkelhof in Köln-Merkenich Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 8.3.5: LKW-Durchfahrverbot Seeberg- Neusser Landstr. Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.6: Sicherung des Zebrastreifens auf der Schulstraße in Pesch Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.7: B9 Geschwindigkeit Maut Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP -: Ergänzungsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 8.3.8: Sicherung des neu ausgebauten Radweges vor Auweiler in Richtung Pulheim Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.9: Verbesserung der Kita-Versorgung im Stadtteil Merkenich Antrag der SPD-Fraktion und Die Linke - endgültig abgelehnt
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP -: Änderungsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen, Fraktion Die Linke und Lilo Heinrich und der FDP - ungeändert beschlossen
+- TOP 8.3.10: Baugrundstückkataster für den Stadtbezirk Chorweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.11: Leihradstationen im Stadtbezirk Köln-Chorweiler Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.3.12: Abwasserkanalnetz im Stadtbezirk Chorweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.13: Prioritätenliste der Bauvorhaben im Stadtbezirk Chorweiler Antrag der SPD-Fraktion - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung liegt vor. - zurückgestellt
+- TOP 8.3.14: Aufstellung einer Wanderbaumallee im öffentlichen Raum des Stadtbezirks Chorweiler Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.3.15: Impfzentrum Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen und der Fraktion Die Linke und Lilo Heinrich - endgültig abgelehnt
+- TOP -: Änderungsantrag der FDP - endgültig abgelehnt
+- TOP -: Änderungsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen, Fraktion Die Linke und Lilo Heinrich und der FDP - ungeändert beschlossen
+- TOP 8.3.16: Prüfauftrag: Unterstützung bei der elektronischen Terminvergabe vor Ort Dringlichkeitsantrag der AfD-Fraktion - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Zuschussgewährung an Worringer Vereinshaus e.V., Haushaltsjahr 2021 Sanierung der Dachentwässerung Vereinshaus Worringen, Sankt-Tönnis-Str. 68, 50769 Köln - ungeändert beschlossen
+- TOP 9.1.2: Sportentwicklungsplanung: Planungsbeschluss für die Sanierung der Kampfbahn und des Werferplatzes auf der Bezirkssportanlage Merianstraße - ungeändert beschlossen
+- TOP 9.1.3: Beschluss über die Planung und Durchführung von Maßnahmen zur Verbesserung der Situation auf dem Schulhof der Realschule Karl-Marx-Allee 43 in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.4: Integriertes Handlungskonzept Lindweiler hier: Änderung der Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds Lindweiler - ungeändert beschlossen
+- TOP 9.1.5: Benennung eines Mitgliedes der Bezirksvertretung Chorweiler zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - ungeändert beschlossen
+- TOP 9.1.6: Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Chorweiler - geändert beschlossen
+- TOP 9.1.7: Baubeschluss für die Sanierung der südlichen Nebenanlagen und den Umbau der Bushaltestelle auf der Merianstraße zwischen Neusser Landstraße und Brücke in Köln Fühlingen - ungeändert beschlossen
+- TOP 9.1.8: Integriertes Handlungskonzept Lindweiler - ungeändert beschlossen
+- TOP 9.1.9: Baubeschluss für den barrierefreien Umbau von 2 Bushaltestellen (4 Haltekanten) im Stadtbezirk Chorweiler auf der KVB-Linie 127 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Dringlichkeitsentscheidung - Abriss und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung in konventioneller Bauweise auf dem städtischen Grundstück Cohnenhofstraße o. Nr., 50769 Köln, Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.2: Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord Grüne Brückenschläge (Bedarfsanerkennung, Schenkungsannahme) - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 62547/02 Arbeitstitel: Damiansweg in Köln-Volkhoven/ Weiler - ungeändert beschlossen
+- TOP 9.2.4: Ersatzbeschaffung von Start- und Steganlagen auf der Sport- und Erholungsanlage Fühlinger See - ungeändert beschlossen
+- TOP 9.2.5: Satzung der Sport- und Erholungsanlage Fühlinger See - ungeändert beschlossen
+- TOP 9.2.6: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.7: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - ungeändert beschlossen
+- TOP 9.2.8: Planungsaufnahme zur Erneuerung und Erweiterung der OGS-Küche der GGS Martinusstr. 28, 50765 Köln-Esch Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.9: Satzung über die abweichende Herstellung der Erschließungsanlage Hermann-Löns-Straße/An den Seen von Parzellen 259 und 261 einschließlich bis Hermann-Löns-Str. 78r bzw. An den Seen einschließlich in Köln-Auweiler - ungeändert beschlossen
+- TOP 9.2.10: Änderung der GO Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.2.11: Förderprogramm "Dritte Orte" - ungeändert beschlossen
+- TOP 9.2.12: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - ungeändert beschlossen
+- TOP 9.2.13: Kölner Lebenslagenbericht - zurückgestellt
+- TOP 9.2.14: Fahrplanwechsel 2020 - Erneute Prüfung einer Taktverdichtung der Linie 126 an Sonntagen - ungeändert beschlossen
+- TOP 9.2.15: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Volkhovener Straße" in Köln-Esch/Auweiler,Stellungnahme der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.16: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Simultanhalle - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Änderungen zum Fahrplanwechsel 2020 - Kenntnis genommen
+- TOP 10.2.2: Entsiegelung von Schulhöfen - Verwendung der Mittel aus dem politischen Veränderungsnachweis zum Haushaltsplan 2020/2021 - Kenntnis genommen
+- TOP 10.2.3: Informationsflyer "Herkunftssprachlicher Unterricht (HSU) an Kölner Schulen" im Rahmen der interkulturellen Elternarbeit - Kenntnis genommen
+- TOP 10.2.4: Sachstandsbericht zum Projekt „Bildungslotsinnen und –lotsen“ 2020 - Kenntnis genommen
+- TOP 10.2.5: Grüne Infrastruktur - Bürgerschaftliches Engagement in extremen Trockenphasen - Kenntnis genommen
+- TOP 10.2.6: Fühlinger See Veranstaltungsplanung 2021 - Kenntnis genommen
+- TOP 10.2.7: Gemeinschaftsprojekt „Hecken und Säume“ - Kenntnis genommen
+- TOP 10.2.8: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 10.2.9: Zielvereinbarung 2021 Bürgerzentrum Chorweiler - Kenntnis genommen
+- TOP 10.2.10: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2020 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.11: Ausweitung des Busangebotes aufgrund der Corona-Pandemie: Zusätzliche Schülerfahrten - Kenntnis genommen
+- TOP 10.2.12: Vergabe der bezirksorientierten Mittel 2020, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.13: Ehrenamtspreis "KölnEngagiert 2021" - Kenntnis genommen
+- TOP 10.2.14: Teilnahme an der Klimaschutzaktion Earth Hour 2021 - Kenntnis genommen
+- TOP 10.2.15: Neubau eines sozialen Zentrums und Ausbau zu einem generationsübergreifenden Bürgerhaus in Köln- Lindweiler, Krombachweg 29 (Gemarkung Longerich, Flur 32, Flurstücke 407 und 2076) - Kenntnis genommen
+- TOP 10.2.16: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Aqualand" Köln Chorweiler - Kenntnis genommen
+- TOP 10.2.17: Beantwortung der Anfrage AN/1138/2020 der SPD-Fraktion vom 26.08.2020 betr. "Wann kommt der Lebensmittel-Markt in Merkenich? – Planungs- und Prüfauftrag muss endlich umgesetzt werden!" Hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 10.2.18: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 10.2.19: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 10.2.20: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 10.2.21: Bewirtschaftung von 6 Parkplätzen in der Rhonestraße in Köln-Chorweiler - Kenntnis genommen
+- TOP 10.2.22: Monitoring Streuobstwiesen Köln - Kenntnis genommen
+- TOP 10.2.23: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 10.2.24: Angebot der Offenen Kinder- und Jugendarbeit im Stadtbezirk 6 - Worringen - geändert beschlossen
+- TOP 10.2.25: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - zurückgestellt
+- TOP 10.2.26: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 im Stadtbezirk Chorweiler - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Impfzentren für den Kölner Norden - Kenntnis genommen
+- TOP 11.1.2: Zentrum für Therapeutisches Reiten - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
