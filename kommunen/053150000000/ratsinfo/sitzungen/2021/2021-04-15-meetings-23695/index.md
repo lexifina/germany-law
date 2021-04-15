@@ -1,0 +1,54 @@
+# 2. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-15T17:05:00+02:00
+- Ende: 2021-04-15T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23695
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23695
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00811165.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00811165.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00811165.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung der sachkundigen Einwohnerinnen und Einwohner
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Perspektiven und Möglichkeiten für Einzelhandel, Gastronomie und Kulturwirtschaft
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Gewerbemieten" - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung betr.: "Gewerbemieten" (AN/0337/2021) - Kenntnis genommen
+- TOP 3.2: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "(Außen-) Gastronomie und Handel" - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung betr.: "(Außen-)Gastronomie und Handel" (AN/0336/2021) - Kenntnis genommen
+- TOP 3.3: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betr.: „Sachstand Hilfe für den lokalen Einzelhandel“ - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung betr.: "Sachstand Hilfe für den lokalen Einzelhandel" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der FDP-Fraktion betr.: "Wettbüros" - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Dringlichkeitsantrag der Fraktionen SPD und FDP betr.: "Digitale Veedelsplattform" - endgültig abgelehnt
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Einpendeln und Auspendeln in Köln - Über Muster beim Berufspendeln 2019 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 15: Mitteilungen
+- TOP 15.1: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 15.2: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 15.3: Zweiter Sachbericht zum Umsetzungsstand des ZMI-Eckpunktepapiers zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - Kenntnis genommen
+- TOP 15.4: Sachstand Lastenradförderung 2020 - Kenntnis genommen
+- TOP 15.5: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Corona-Virus: Digitale Kontaktnachverfolgung" AN/0139/2021 - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Änderung der Hauptsatzung, hier: Erweiterung der Entsendung sachkundiger Einwohner*innen durch die Seniorenvertretung (Wirtschaftsausschuss, Digitalisierungsausschuss, Ausschuss Allgemeine Verwaltung und Rechtsfragen sowie Gleichstellungsausschuss) - ohne Votum in nachfolgende Gremien
+- TOP 16.2: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2021" - ungeändert beschlossen
+- TOP 17: Mündliche Anfragen
