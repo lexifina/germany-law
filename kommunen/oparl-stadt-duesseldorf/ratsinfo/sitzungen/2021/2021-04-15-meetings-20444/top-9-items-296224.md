@@ -1,0 +1,8 @@
+# TOP 9: Umwandlung von öffentlichen Wiesen in Blühwiesen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+
+- Sitzung: Bezirksvertretung 8 (2021-04-15)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/296224
+- Ergebnis: beantwortet
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/110561
