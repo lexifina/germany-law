@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-15T18:00:00+02:00
+- Ende: 2021-04-15T18:59:00+02:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20444
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20444
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 15.04.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407682.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 15.04.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407682.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 15.04.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407682.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Grünordnungsrahmenplan für den Stadtbezirk 8 - abweichend beschlossen
+- TOP 4.1: Grünordnungsrahmenplan für den Stadtbezirk 8 (Ergänzungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 5: Spezialmarkt „Düsseldorfer Herbstfestival“ im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2021 - einstimmig beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2021 - beschlossen
+- TOP 8: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 9: Umwandlung von öffentlichen Wiesen in Blühwiesen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Gestaltungswettbewerb und Lärmschutz RRX im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 12: D-Eller S - barrierefreie Erreichbarkeit der Bushaltestellen und Fahrgastinformation (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Baustelle Regenwasserkanal im Bereich Am Kleinforst/Kikweg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Grundstück Sturmstraße/Sodener Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Machbarkeitsstudie 100-Meter-Brücke Kikweg/Am Kleinforst (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 16: Fassadenbegrünung GGS Bingener Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 17: Unterführung westlich vom Eller Schlosspark - Beleuchtung (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 18: Schützenplatz Heidelberger Straße - Anlage einer geschlossenen naturnahen Hecke auf West- und Südseite (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 19: Radverkehrsführung Eller Kamp (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beschlossen
+- TOP 20: Oelser Straße/Am Hackenbruch - Haltverbot im Einmündungsbereich (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 21: Verbindungsweg Dellestraße/ Wittenbruchplatz (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Verkehrsregelung Alt-Eller (Antrag Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 23: Parken von LKW und Werbeanhänger im Bereich Königsberger Straße, Posener Straße und Waldenburger Weg (Antrag CDU-Fraktion) - mehrheitlich beschlossen
+- TOP 24: Fortschreibung des Radbezirksnetz und Verbesserung der Radverkehrsführung in Eller West (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren - zur Kenntnis genommen
+- TOP 26: Grünordnungsrahmenplan für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Containerstationen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Regenrückhaltebecken Krippstraße - zur Kenntnis genommen
+- TOP 29: Buslinie 723 - zur Kenntnis genommen
+- TOP 30: Fahrradschutzstreifen Karlsruher Straße / Bernburger Straße - zur Kenntnis genommen
+- TOP 31: Forstrevier Süd - zur Kenntnis genommen
+- TOP 32: Beschilderung Peter-Richarz-Straße - zur Kenntnis genommen
+- TOP 33: Radfahrstreifen Karlsruher Straße - zur Kenntnis genommen
+- TOP 34: Kreuzung Reisholzer Straße / Kuthsweg / Schlesische Straße - zur Kenntnis genommen
+- TOP 35: Fahrradschutzstreifen in Eller - zur Kenntnis genommen
+- TOP 36: Freifläche Friedrich-Engels-Straße - Gestaltung als Bienenweide - zur Kenntnis genommen
+- TOP 37: Kissinger Straße - zur Kenntnis genommen
+- TOP 38: Umwandlung von öffentlichen Wiesen in Blühwiesen - zur Kenntnis genommen
