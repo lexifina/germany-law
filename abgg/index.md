@@ -98,6 +98,7 @@ Bundestag](0038b.md)
 für das Ministerium für Staatssicherheit/Amt für Nationale
 Sicherheit der ehemaligen Deutschen Demokratischen Republik](0044c.md)
 - [§ 44d Verschwiegenheitspflicht und Aussagegenehmigung](0044d.md)
+- [§ 44e Ordnungsmaßnahmen gegen Mitglieder](0044e.md)
 
 ## Elfter Abschnitt Fraktionen
 
