@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates für Erwachsenenbildung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-08-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17051.3
+- Datum: 2021-04-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17051.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.08.2020
+16.04.2021
 bis
-15.04.2021
+06.03.2025
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates
 
@@ -110,10 +110,15 @@ ein Vertreter der kommunalen Spitzenverbände,
 
 l)
 
-ein Vertreter der Landesanstalt für privaten Rundfunk und neue Medien und
+ein Vertreter des Landessportbundes Sachsen,
 
 
 m)
+
+ein Vertreter der Landesanstalt für privaten Rundfunk und neue Medien und
+
+
+n)
 
 ein Vertreter des Landtagsausschusses für Schule und Bildung.
 
@@ -258,9 +263,9 @@ Fsn-Nr.: 713-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. August 2020
+Fassung gültig ab: 16. April 2021
 
-Fassung gültig bis: 15. April 2021
+Fassung gültig bis:  6. März 2025
 
 Drucken/Speichern
 
@@ -285,7 +290,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17051.3
+https://www.revosax.sachsen.de/vorschrift/17051.4
 Stand vom
 18.11.2026
 
