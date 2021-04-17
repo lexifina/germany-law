@@ -20,6 +20,6 @@
   3.1 Mehr als ein Stück
   3.1.1 Angaben nach Nummer 1
   3.2 Nur ein Stück
-3.2.1 Angaben nach den Nummern 1.1 bis 1.5 und 1.8.
-4. Kennzeichnung mit einem Pflanzenpass
-  Die Kennzeichnung erfolgt bei Vorstufenpflanzgut, Basispflanzgut, Zertifiziertem Pflanzgut und Standardpflanzgut sowie bei Pflanzgut von Zierreben und Tafeltrauben mit einem nach den in § 17a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben.
+  3.2.1 Angaben nach den Nummern 1.1 bis 1.5 und 1.8.
+  4. Kennzeichnung mit einem Pflanzenpass
+    Die Kennzeichnung erfolgt bei Vorstufenpflanzgut, Basispflanzgut, Zertifiziertem Pflanzgut und Standardpflanzgut sowie bei Pflanzgut von Zierreben und Tafeltrauben mit einem nach den in § 17a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben.
