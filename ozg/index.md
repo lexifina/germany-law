@@ -9,3 +9,5 @@
 - [§ 7 Für die Nutzerkonten zuständige Stelle](0007.md)
 - [§ 8 Rechtsgrundlagen der Datenverarbeitung](0008.md)
 - [§ 9 Bekanntgabe des Verwaltungsaktes](0009.md)
+- [§ 10 (bedingt zukünftig Inkraft)](0010.md)
+- [§ 11 Übergangsregelung zum Einsatz des Datencockpits](0011.md)
