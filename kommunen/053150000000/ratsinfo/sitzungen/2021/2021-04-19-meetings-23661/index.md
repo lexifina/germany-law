@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-19T15:00:00+02:00
+- Ende: 2021-04-19T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23661
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23661
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Aktuelle Stunde: geändertes Gymnasialanmeldeverfahren – Abschaffung des Zweitwunsches - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2.2: Schulplätze an den Gymnasien sichern – schnelle Lösungen für das diesjährige Anmeldeverfahren an den weiterführenden Schulen finden! - geändert beschlossen
+- TOP 2.3: Fläche der russischen Föderation sichern und für die Gesamtschule Lindenthal entwickeln - ungeändert beschlossen
+- TOP 2.4: CO2-Messgeräte - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Beantwortung der Anfrage AN/0358/2021 der Fraktionen Grüne, CDU und Volt zum Thema Sanierung des Hölderlin-Gymnasiums in Köln Mülheim - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.1.2: Beantwortung der Anfrage AN/0405/2021 nach der Geschäftsordnung des Rates: Standortfragen an der Elsa-Brandström-Realschule und der Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 3.1.3: Entzerrung der Schulanfangszeiten (AN/0379/2021) - Sache ist erledigt
+- TOP 3.1.4: Parkplätze für das Interimsgebäude des Dreikönigsgymnasiums an der Escher Straße - Beantwortung der Anfrage AN/0478/2021 der SPD-Fraktion zur Sitzung des Betriebsausschusses Gebäudewirtschaft am 08.03.2021, TOP 1.3 - Sache ist erledigt
+- TOP 3.1.5: Geänderte Rechtsgrundlage zur Abwicklung von Geldern für Klassenfahrten gem. § 95 Abs. 3 SchulG NRW - Sache ist erledigt
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Gebäudezustand Lehrschwimmbecken - Kenntnis genommen
+- TOP 3.2.2: Antisemitismus an Schulen - Kenntnis genommen
+- TOP 3.2.3: Sachstand KGS Zehnthofstraße - Kenntnis genommen
+- TOP 3.2.4: Technik-Support an Schulen - Kenntnis genommen
+- TOP 3.2.5: Tablets für alle Schüler*innen sicherstellen! - Kenntnis genommen
+- TOP 3.2.6: Luftreiniger in Klassenräumen - Kenntnis genommen
+- TOP 3.2.7: Schulessen für B.u.T.-Berechtigte - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Fachraumerneuerung des naturwissenschaftlichen Bereiches am Schulstandort Dagobertstraße 79, 50668 Köln - ungeändert beschlossen
+- TOP 4.2: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 4.3: Neubau einer Zweifachturnhalle an der Kurt-Tucholsky-Hauptschule, Helene-Weber-Platz 3 in 51109 Köln-Neubrück - Planungs- und Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: Jugendberufsagentur: Aktueller Stand - Kenntnis genommen
+- TOP 5.2: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 5.3: Generalsanierung der Gemeinschaftsgrundschule Halfengasse 25 in 50739 Köln - Baubeschluss - Kenntnis genommen
+- TOP 5.4: Jahresbericht 2020 des Amts für Weiterbildung / Volkshochschule liegt vor - Kenntnis genommen
+- TOP 5.5: Amt für Weiterbildung/Volkshochschule Köln: Politische Bildung digital - Kenntnis genommen
+- TOP 5.6: ZMI - Zentrum für Mehrsprachigkeit und Integration: Kölner Sprachfest 2021 und Publikationen - Kenntnis genommen
+- TOP 5.7: 31. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.8: Anmeldeverfahren an den städtischen Gymnasien zum Schuljahr 2021/22 - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen - Zuweisung von Förderschulen an nicht wohnortnahen Schulen
+- TOP 6.2: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen - Familiengrundschulzentrum Meschenich
+- TOP 6.3: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen - Sachstand zur Stelle politische Bildung
+- TOP 6.4: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen - Schulschließungen
+- TOP 6.5: Mündliche Anfrage der FDP-Fraktion - Ablehnende Bescheide für das Anmeldeverfahren inkl. Liste freier Plätze
+- TOP 6.6: Mündliche Anfrage der FDP-Fraktion - „Nachholen des verpassten Unterrichtsstoffes während der Sommerferien“
+- TOP 6.7: Mündliche Anfrage der SPD-Fraktion - Neue Gesamtschule am Standort Kurt-Tucholsky-Schule, Helene-Weber-Platz in Köln-Neubrück anstelle einer Turnhallenplanung?
+- TOP 6.8: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen - Kinderkrankenhaus Pallenbergstraße als vorgezogener Interimsstandort
+- TOP 6.9: Mündliche Anfrage der SPD-Fraktion - „Politische Bildung digital“
+- TOP 7: Verschiedenes
