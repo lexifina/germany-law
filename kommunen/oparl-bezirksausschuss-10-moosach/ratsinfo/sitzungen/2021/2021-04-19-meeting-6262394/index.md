@@ -1,0 +1,66 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262394
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262394
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Errichtung von Sperrpfosten oder Poller an der Bunzlauer Straße Nr. 6 bis 18 zur Verhinderung des Gehwegparkens
+- TOP 2.2.: Aufstellung von Abfallkörben an der Bunzlauer Straße zwischen Nr. 6 und 18
+- TOP 2.3.: Müllproblem vor der Kinderkrippe Moosach an der Bauberger Str. 4; Aufstellung eines Mülleimers
+- TOP 2.4.: Versetzung des Mülleimers vor der Kita Dillinger Str. 15
+- TOP 2.5.: Schaffung einer verkehrsberuhigten Zone an der Krezung Dillinger - / Lauinger Straße
+- TOP 2.6.: Gruppenansammlungen an der Durchfahrt Kapellenäckerstraße zur Bunzlauer Straße
+- TOP 3.2.1.: Einladung BA23 zu einem gemeinsamen Ortstermin Waldhornstraße/Brieger Straße ( Vertagt aus Sitzungen 12/2020 und 01/2021 bis 03/21; -> Stellungnahme MVG da?)
+- TOP 3.3.1.: Bauvorhaben: 1. Untermenzinger Str. 71 2. Bunzlauer Str. 9 3. Dachauer Str. 457
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Wichertstr. 9
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Eggmühler Str. 33 2. Meggendorferstr. 28-32 - ggf. weitere auf Aufruf -
+- TOP 3.3.4.: Neue Baumstandorte im öffentlichen Raum; hier: Ergebnisse der Bürgerbeteiligung "Bäume für Moosach" - Initiative des BA10 (-> vertagt aus Sitzungen 23.11. und 21.12.2020)
+- TOP 4.1.1.: Anfrage: Können die ursprünglich am Westfriedhof beheimateten und derzeit sich in Oberhaching befindlichen beiden Sphingen wieder in den Westfriedhof zurückgeholt werden?
+- TOP 4.1.2.: Ausweisung des gesamten Wohngebietes westlich der Dachauer Straße, nördlich der Bahnlinie, östlich des Parks am Hartmannshofer Bächl und südlich der Saarlouiser Straßen als Tempo-30-Zone
+- TOP 4.1.3.: Aufstellung von Kompressoren zum Aufpumpen von Fahrrädern an 3 oder 4 geeigneten Stellen in Moosach
+- TOP 4.1.4.: Teilnahme an den Sitzungen des Moosacher Bezirksausschusses und der Unterausschüsse durch Ton-Bild-Übertragung ermöglichen
+- TOP 5.1.: (E) Stadtbezirksbudget REGSAM e.V. Relaunch der Homepage „moosach live“ 1.400,00 € / Az. 0262.0-10-0252
+- TOP 5.2.: Stadtbezirksbudget - nachträgliche Reduzierung der Eigenmittel: Moosacher Faschingsclub - München e.V.; Faschingssaison 2020/2021 vom 01.10.2020 - 16.02.2020 (→ TOP 5.3, Sitzung am 19.10.2020)
+- TOP 6.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2021 bis 2025
+- TOP 6.2.: Jubiläumsprogramm Olympia 2022 - Beteiligungsmöglichkeiten
+- TOP 6.3.: Sammelantrag auf Spielaktionen der AG Spiellandschaft Stadt 2021 - Orten der Angebote (-> Vorabinfo vor offizieller Zuleitung des KVR)
+- TOP 6.4.: Veranstaltung in städtischen Grünanlagen: Streetball-Platz am Amphionpark; "High-Five-Streetball" an diversen Terminen Mai bis Oktober 2021
+- TOP 6.5.: Verkauf einer städtischen Immobilie (Grundstück mit Bebauung - Rückabwicklung Erbbaurecht) - nicht-öffentlich -
+- TOP 7.1.: Eine Bezirkssportanlage für Moosach und Allach-Untermenzing [BA-Antrag Nr. 20-26/B 01233; Bedarfsanmeldung erfolgt, Fläche noch nicht verfügbar, baurechtliches Verfahren läuft.]
+- TOP 7.2.: Benennung Zeitschiene für Errichtung einer Bezirkssportanlage für Moosach [ Schreiben BA10 vom 20.07.2018; Bedarfsanmeldung erfolgt, Fläche noch nicht verfügbar, baurechtliches Verfahren läuft.]
+- TOP 7.3.: Offizielle Benennung "Moosacher Stachus" [BA-Antrag Nr. 20-26/B 01502; keine Änderung der Entscheidung/Ablehnung durch Kommunalausschussvom 17.06.2010, SV Nr. 08-14/V 04369]
+- TOP 7.4.: Georg-Mooseder-Straße - Nachgenehmigung eines Omnibusparkplatzes [Bescheid vom 23.03.2021 gegen das Votum des BA10; Anforderungen Bplan und Emmissionsschutz sind erfüllt.]
+- TOP 7.5.: Änderung (Erneuerung der EÜ Dachauer Straße [Schreiben BA10 vom 25.03.2021; laut DB Baubeginn in 3 bis 4 Jahren und Bauzeit ca. 3 Jahre.]
+- TOP 7.6.: Freihaltung Tiefgaragen-Ausfahrt Dieselstr. 2 1. Antwortschreiben MOR vom 10.03.2021 [Zickzackmarkierungen sind für Anwohner kostenpflichtig]; 2. Schreiben BA10 an Antragsteller vom 15.03.2021 [Übermittlung Kostenübernahmeerklärung]; 3. Anschreiben BA10 an MOR vom 24.02.2021 [Beschluss zum Antrag TOP 2.1/ 22.02.2021]; 4. Schreiben Antragsteller an MOR und BA10 [Verzicht auf Zickzackmarkierung; Alternativvorschlag Einrichtung Haltverbote]
+- TOP 8.1.: Westfriedhof: Baubeginn des 2. Bauabschnittes der Mosaikgärten
+- TOP 8.2.: (U) Ausbau Bahnüberführung Dachauer Straße mit Offenthaltung der Durchfahrt für eine Tram
+- TOP 8.3.: (U) Stadtsanierung in München Untersuchungsgebiet "Moosach", Verhandlungsverfahren ohne Teinahmewettbewerb mit vorgeschaltetem städtebaulich- freiraumplanerischen Planungswettbewerb zur Neuordnung des Moosacher St.-Martins-Platzes mit Umfeld A) Durchführung eines städtebaulichen-freiraumplanerischen Planungswettbewerbes für den Bereich Pelkovenstraße (südlich), Quedlinburger Straße (nördlich), Leipziger Straße und Chemnitzer Platz (westlich), Meißener Straße (östlich) - Eckdatenbeschluss - B) Städetbauförderung C) Vergabe
+- TOP 8.4.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 8.5.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 8.6.: (U) Digitalisierung der Bauakten für das Referat für Stadtplanung und Bauordnung - Hauptabteilung IV und Implementierung in den Arbeitsalltag
+- TOP 8.7.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 8.8.: (U) Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München Bürgerinitiative Ausspekuliert als ständiges beratendes Mitglied im Mieterbeirat Antrag Nr. 20-26 / A 00097 .......................
+- TOP 8.9.: Abschluss Vorkaufsrechtprüfungsverfahren nach dem BauGB: - nicht-öffentlich - Bingener Straße
+- TOP 1.1.: 1. Ladung des Vollgremiums zur Sitzung am 19.04.2021 2. Aufhebung des in der Sitzung am 22.03.2021 gebildeten Sonderausschusses ab der Sitzung am 19.04.2021 3. Bildung eines erneuten Sonderausschusses für die Folgesitzungen am 17.05.2021 (und ggf. ab 14.06.2021 nach Änderung der BA-Satzung)
+- TOP 4.: Anträge
