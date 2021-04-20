@@ -1,0 +1,6 @@
+# TOP 5.2: Klimaschutzkonzept - Sachstandsbericht Berichterstatter: Julian Kucknat-Groß
+
+- Sitzung: Umweltausschuss (2. Sitzung) (2021-04-20)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/27820
