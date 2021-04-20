@@ -1,0 +1,8 @@
+# TOP 5: Straßenbenennung im Bereich des ehemaligen Dilthey-Geländes
+
+- Sitzung: Bezirksvertretung West (2021-04-20)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/144289
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/29969
