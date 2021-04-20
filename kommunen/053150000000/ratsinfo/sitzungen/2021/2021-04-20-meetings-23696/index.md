@@ -1,0 +1,86 @@
+# 3. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-20T16:07:00+02:00
+- Ende: 2021-04-20T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23696
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23696
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814385.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814385.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00814385.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des Seniorenvertreters Meurers vom 16.03.2021 betr. Abstellen von elektrischen Tretrollern - endgültig abgelehnt
+- TOP 1.2: Antrag des Seniorenvertreters Meurers vom 22.03.2021 betr. Zufahrt zum Rheinauhafen - geändert beschlossen
+- TOP 1.3: Anbindung der Poller Wiesen während der Sanierung der Drehbrü-cke verbessern: sichere Radwegeverbindung schaffen und bessere Erreichbarkeit für Fußgänger*innen sichern! - Sache ist erledigt
+- TOP 1.4: Aufnahme der Stadt Köln in die Applikation RADar - endgültig abgelehnt
+- TOP 1.5: Fahrbahnflächen Luxemburgerstraße Neuaufteilung - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Wieder einen Haltepunkt in Rath/Heumar einrichten! - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 2.1, Wieder einen Haltepunkt in Rath/Heumar einrichten - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 3.2: Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.2 - Radverkehrskonzept Innenstadt - Radfahrstreifen Riehler Straße - ungeändert beschlossen
+- TOP 3.3: Deutzer Brücke; Bedarfsfeststellungbeschluss zur Durchführung einer Nachrechnung auf Grundlage der „Richtlinie zur Nachrechnung von Straßenbrücken im Bestand (NaRiLi)“ Machbarkeitsstudie zur Bauwerksertüchtigung und Wirtschaftlichkeitsuntersuchungen - ungeändert beschlossen
+- TOP 3.4: Zoobrücke/Stadtautobahn B55a, im Bereich Zoo (Los Z1) und Deutz/Messe (Los D); Prüfingenieurleistungen im Zuge der Bauwerksertüchtigung - ungeändert beschlossen
+- TOP 3.5: Fahrplanwechsel 2020 - Erneute Prüfung einer Taktverdichtung der Linie 126 an Sonntagen - geändert beschlossen
+- TOP 3.6: Bedarfsfeststellungsbeschluss und Vergabe einer Modal Split-Erhebung im Rahmen der Erstellung des Sustainable Urban Mobility Plan (SUMP) - ungeändert beschlossen
+- TOP 3.7: Nachhaltige Urbane Mobilitätsplanung (Sustainable Urban Mobility Plan - SUMP): Bedarfsfeststellung für die externe Beauftragung von Stufe 1 - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe - ohne Votum in nachfolgende Gremien
+- TOP 4.1.1: Baubeschluss fu¨r den Umbau der Oskar-Ja¨ger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gela¨nde - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2.1: Änderungsantrag zu Top 4.1 "Stellplatzsatzung für Köln" - ohne Votum in nachfolgende Gremien
+- TOP 4.2.2: Änderungsantrag zur Vorlage 3217/2019 „Stellplatzsatzung für Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Baubeschluss für die Generalinstandsetzung des Perlengrabens zwischen Blaubach und der Severinsbrücke im Stadtbezirk Innenstadt sowie Freigabe von investiven Auszahlungsgsermächtigungen - hier: Finanzstelle - im ersten Durchgang verwiesen
+- TOP 4.4: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - ungeändert empfohlen
+- TOP 4.5: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes - ungeändert empfohlen
+- TOP 4.6: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Ersatzneubau der Kragplatte am Altstadtufer; Baubeschluss - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Auslastungsanzeige für die Fahrgäste der KVB - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Umlaufsperren - Sache ist erledigt
+- TOP 5.2.1.1: Umlaufsperren - Kenntnis genommen
+- TOP 5.2.2: Spielstraßen - Sache ist erledigt
+- TOP 5.2.3: Carsharing im öffentlichen Raum - Sache ist erledigt
+- TOP 5.2.4: Parkplätze an Kölner Schulen - zurückgestellt
+- TOP 5.2.5: Verzögerungen beim Umbau des Bahnhofs Süd - Sache ist erledigt
+- TOP 5.2.6: Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" - Sache ist erledigt
+- TOP 5.2.7: Ausschreibung von Machbarkeitsstudien zur Verlängerung der Linie 13 - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Ausschreibung der Öffentlichkeitsarbeit zur Ost-West-Achse - Sache ist erledigt
+- TOP 6.3: LGBTIQ und Sicherheit im Kölner Straßenverkehr - Sache ist erledigt
+- TOP 6.4: Beschleunigung der ÖPNV Roadmap - Sache ist erledigt
+- TOP 6.5: Mehr kostengünstige, klimaschonende Park&Ride-Plätze am Stadtrand - zurückgestellt
+- TOP 6.6: Mehr kostengünstige, klimaschonende Park&Ride-Plätze am Stadtrand und diese besser anbinden - zurückgestellt
+- TOP 6.7: Umgestaltung Christophstraße/Gereonstraße - Sache ist erledigt
+- TOP 6.8: Machbarkeitsstudie zur Verbesserung der SPNV-Verbindungen zwischen Köln und Remscheid/Solingen sowie zwischen Opladen und Solingen/Düsseldorf (S1/S17) - Sache ist erledigt
+- TOP 6.9: Stellung des Fußgängerbeauftragten - Sache ist erledigt
+- TOP 6.10: Förderprogramme für Radfahrer - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Bericht über die Umsetzung von Anträgen des Verkehrsausschusses ab 2014 ff. - zurückgestellt
+- TOP 7.2.2: Realisierung Antrag Jobrad für städtische Mitarbeitende, Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, FDP-Fraktion, Volt-Fraktion sowie der Ratsgruppe GUT, AN/0411/2021 - Kenntnis genommen
+- TOP 7.2.3: Roadmap - Sachstand 2021 - zurückgestellt
+- TOP 7.2.4: Gesamtinstandsetzung Mülheimer Brücke - Kenntnis genommen
+- TOP 7.2.5: Sanierung der nördlichen Nebenanlagen auf der Ostheimer Straße (L284) zwischen Frankfurter Straße und Vingster Ring - Kenntnis genommen
+- TOP 7.2.6: Fertigstellung Radfahrstreifen auf Tel-Aviv-Straße und neue Querungsmöglichkeit - Kenntnis genommen
+- TOP 7.2.7: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Ausgangssperre - Ausdünnung des KVB-Fahrplanes - Sache ist erledigt
+- TOP 8.2: Jurysitzung Brücke Deutzer Hafen - Sache ist erledigt
+- TOP 8.3: Gereonstraße/Christophstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Richard-Wagner-Straße/Moltkestraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
