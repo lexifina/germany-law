@@ -1,0 +1,7 @@
+# TOP 3: Aufstellung B-Plan 3-88 B Schlossparkkiez
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2021-04-20)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=50093
+- Ergebnis: erledigt
