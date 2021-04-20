@@ -1,0 +1,51 @@
+# 17. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2021-04-20T18:30:00+02:00
+- Ende: 2021-04-20T23:00:00+02:00
+- Ort: Elmar-Weiller-Festhalle, großer Saal, Bonifatiusstraße 22, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2021-200-145
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2021-200-145
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-200-145
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-200-145
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-200-145
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Bebauungsplan ?Eisenbahnstraße / Im Kalkofen / Am Bahnhof?
+- TOP 3: Bebauungsplan 'Untere Hauptstraße 118-130, 1. Änderung'
+- TOP 4: Bebauungsplan 'Obere Hauptstraße 107-117'
+- TOP 5: Bebauungsplan 'Hauptstraße, 3. Änderung'
+- TOP 6: Sanierung Jugendzentrum Herxheim; Grundkonzeption
+- TOP 7: Widmung von Straßen; Vorhabenbezogener Bebauungsplan 'Am Südring'
+- TOP 8: Erweiterung der Geschäftsbereiche der Gemeindewerke Herxheim
+- TOP 9: Badbetrieb 2021
+- TOP 10: Neues Forsteinrichtungswerk für den Gemeindewald Herxheim
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Auftragsvergaben; Erweiterung der Brandmeldeanlage im Altenzentrum St. Josef - Bauteile Ost und West
+- TOP 13: Änderung der Benutzungsordnung und Benutzungsentgelte für die Grillhütte Herxheim
+- TOP 14: Festsetzung Benutzungsordnung und Benutzungsentgelte für das Waldstadion Herxheim als Haus der Vereine
+- TOP 15: Kommunales Kulturprogramm 2021
+- TOP 16: Förderung Chawwerusch-Theater 2021
+- TOP 17: Weiterentwicklung der Kita Landschaft
+- TOP 18: Antrag der SPD-Fraktion: Vorlage eines Konzeptes zur Luftreinigung in den Kindergärten der Ortsgemeinde und gegebenenfalls Anschaffung und Installation von 2 Geräten zur Beurteilung der Zweckhaftigkeit und Praktikabilität
+- TOP 19: Mitteilungen und Anfragen
+- TOP 19.1: Mitteilungen und Anfragen; Abrechnung der Schulumlage 2020
+- TOP 19.2: Mitteilungen und Anfragen; Vollzug des Landesbeamtengesetzes: Bericht über ausgeübte Ehrenämter nach § 119 Abs. 3 LBG
+- TOP 19.3: Information über den Antrag auf Unterstützung für den Betrieb des Waldfreibades Herxheim Hier: Entscheidung des Verbandsgemeinderats Herxheim
+- TOP 19.4: Mitteilungen und Anfragen; Terminierung der Bürgerversammlung bezüglich der Bebauung 'Quartier Obere Hauptstraße 32-36 u. 45 II '
+- TOP 19.5: Mitteilungen und Anfragen; Information über erfolgte Auftragsvergaben
+- TOP 19.6: Mitteilungen und Anfragen; Anfrage der Fraktion Bündnis 90/die Grünen zum Waldfreibad
+- TOP 19.7: 
+- TOP 19.8: 
+- TOP 19.9: 
+- TOP 19.10: 
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
