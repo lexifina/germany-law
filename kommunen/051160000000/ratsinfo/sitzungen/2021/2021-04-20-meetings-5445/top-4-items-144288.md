@@ -1,0 +1,8 @@
+# TOP 4: Haltestellenumbauprogramm im Bezirk West
+
+- Sitzung: Bezirksvertretung West (2021-04-20)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/144288
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/29967
