@@ -1,0 +1,8 @@
+# TOP 6: Wiederwahl der Schiedsfrau Reinke für den Schiedsamtsbezirk Mönchengladbach-Ost 2 (Giesenkirchen)
+
+- Sitzung: Bezirksvertretung Ost (2021-04-20)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/144212
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/30019
