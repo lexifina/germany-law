@@ -1,0 +1,129 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-04-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6433988
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6433988
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellung MUCA
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.8.: Tag des offenen Denkmals
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Eilentscheid Augustenstr. 96
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.3.: Entsendung BA-Mitglied Preisrichtertätigkeit Wettbewerb Forum LMU Campus Königin straße
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Zebrastreifen zwischen Joseph- und Adalbertstraße
+- TOP 5.2.2.: Mehr Mülleimer in der Stadt
+- TOP 5.2.3.: Falschparker/ Zugang zum Englischen Garten. Königin-Schönfeldstr
+- TOP 5.2.4.: Schleißheimer Straße
+- TOP 5.2.5.: Fußgängergefährdung aufgrund Baustellenbeschilderung Augusten-/Ecke Heßstr.
+- TOP 5.2.6.: Königsplatz angrenzendes Gelände Beschwerde
+- TOP 5.2.7.: Alter Nördlicher Friedhof
+- TOP 5.2.8.: Grünfläche von Schrotträdern zerdrückt
+- TOP 5.2.9.: Einrichtung Schnelltestzentrum Maxvorstadt
+- TOP 5.2.10.: Vermüllte Parks und Anlagen
+- TOP 5.2.11.: Antrag auf Erweiterung des Erhaltungssatzungsgebietes München Maxvorstadt
+- TOP 5.2.12.: Kreuzung Dachauerstr. und Marsstr.
+- TOP 5.2.13.: Antrag wegen zunehmender Verschmutzung der Neureuther-, Schraudolph- und Arcis- Straße durch Hundekot
+- TOP 6.1.: Grüne Welle für Radfahrer auf der Blutenburg- und Karlstraße
+- TOP 6.2.: Verfahrensabschluss Kaugummi Massmannpark
+- TOP 6.3.: Falschparker/ Zugang zum Englischen Garten. Königin-Schönfeldsstraße
+- TOP 6.4.: Antwort Sichere Schutzeinhausung Nymphenburger Straße
+- TOP 6.5.: Was passiert mit den ehemaligen Popup-Radwegen in Theresien-, Elisen- und Gabelsbergerstraße?
+- TOP 6.6.: Antwort auf Bürgeranliegen: Durchgangsverkehr in der Zieblandstraße
+- TOP 6.7.: Grüne Infrastruktur in der Maxvorstadt umsetzen! hier: Fassadenbegrünung für das Heizkraftwerk in der Theresienstraße 36
+- TOP 6.8.: Antrag auf verstärkte Kontrollen von Baustelleneinrichtungen auf Genehmigungszeitraum und Größe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Antrag SPD vom 06.04.2021 Unterstützung von Gastronomie und Einzelhandel bei der Umstellung auf Mehrweg-Pfandsysteme
+- TOP 1.2.: Antrag SPD vom 06.04.2021 Zero Waste IAA MOBILITY
+- TOP 1.3.: Antrag Grüne vom 06.04.2021 Schaffung neuer Aufenthalts- und Grünflächen in der Maxvorstadt
+- TOP 1.4.: Antrag Grüne vom 06.04.2021 Zügige Flächenwiederherstellung im Nachgang zur IAA
+- TOP 2.1.1.: Baulisten der LBK: 9.,10., 11. und 12. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 9. -10. KW und 11.- 12. KW
+- TOP 2.1.3.: Förderanträge im Rahmen ‚Bürgerinnen und Bürger gestalten ihre Stadt’ a Aufwertung des Ferdinand-Miller-Platzes Beteiligung des BA 3: 800,00 Euro b Aufwertung der Kreuzung Karl-/ Pappenheimstraße zu einem Platz Beteiligung des BA 3: 1.000,00 Euro c Aufwertung des Rudi-Hierl-Platzes Beteiligung des BA 3: 1.000,00 Euro
+- TOP 2.1.4.: Anhörung Erhaltungssatzung Sankt-Vinzenz-Viertel
+- TOP 3.2.1.: Heßstr. 104 Baumfällung
+- TOP 5.1.: Mehrjahresinvestitionsprogramm
+- TOP 5.2.: Entscheidung zum Vorbescheid zu Gabelsbergerstr. 28
+- TOP 5.3.: Information der LBK zur Baugenehmigung Heßstr. 14
+- TOP 5.4.: Antwort zur Stellungnahme Gabelsbergerstr. 48
+- TOP 5.5.: Beschluss Reihenfolge Siedlungsmaßnahmen
+- TOP 5.6.: Beschluss Temporäre Nutzungsänderungssperren
+- TOP 5.7.: Beschluss Preis für Stadtbildpflege
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 06.04.2021 Nachgehakt - Tempo 30 Rottmannstr.-Schleißheimer Str.
+- TOP 1.2.: Antrag SPD vom 06.04.2021 Nachfragen zum Maßmannpark
+- TOP 1.3.: Antrag SPD vom 06.04.2021 Ladesäulen auf der IAA MOBILITY
+- TOP 1.4.: Antrag SPD vom 06.04.2021 Lizenznehmer der IAA MOBILITY
+- TOP 1.5.: Antrag Grüne vom 06.04.2021 Evaluation der Flächennutzung für die IAA nach Beendigung der Veranstaltung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Theresien- und Gabelsbergerstraße (letztjährige Pop-up-Radwege) - Markierung von Radfahrstreifen, Eilentscheid Elisentraße
+- TOP 2.1.2.: Erinnerungsverfahren BV Brienner Str. 37 u. Luisenstr. 29 Wiederherstellung Geh-, Radweg und Teile Fahrbahn
+- TOP 2.2.1.: Neue Baumstandorte im öffentlichen Raum – Vertagung aus 12.2020 a Baumvorschlag Bürgeranliegen Georgenstraße zwischen Schleißheimer Straße und Winzererstraße (von BA 4) b Baumvorschlag Bürgeranliegen Amalienstraße, Pflanzung von Rotdornbäumen
+- TOP 2.2.2.: BA-Beschluss-Vorlage Neuantrag Veterinärstr. 13 Obstverkaufsstand
+- TOP 2.2.3.: Anhörung Königsplatz Gedenkveranstaltung München liest
+- TOP 2.2.4.: Anhörung Königsplatz – Einweihung des Bodendenkmals zum Gedenken an die Bücherverbrennung am 06.05.2021
+- TOP 2.2.5.: Standortsuche KuKi Wagen
+- TOP 2.2.6.: Vorschläge zur Optimierung der Beleuchtung für den "Nachtspaziergang" (Erhöhung des Sicherheitsgefühls) – Vertagung aus 03.2021
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Mehrjahresinvestitionsprogramm
+- TOP 3.2.: Schienenwechsel U-Bahn Linie 4
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Erteilung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund, Heßstraße 90
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Die Maxvorstädter e.V. Hochebene für den Kindergarten 7.017,00 Euro, Az.: 0262.0-3-0324
+- TOP 2.2.: (E) Stadtbezirksbudget MobilSpiel e.V. Spielend durch das Jahr vom 21.05. - 24.05.2021 4.130,00 € / Az. 0262.0-3-0337
+- TOP 2.3.: (E) Stadtbezirksbudget Refugee Law Clinic Munich e.V. Ausbildungsvorträge vom 07.05. - 31.07.2021 1.125,00 € / Az. 0262.0-3-0338
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Mehrjahresinvestitionsprogramm
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 05.04.2021 Kultur auf der IAA MOBILITY
+- TOP 1.2.: Antrag CSU vom 26.03.2021 Zaun Weiße Rose
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Mehrjahresinvestitionsprogramm
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Antrag Grüne vom 20.03.2021 Leichte Sprache für Direktoriumsanträge
+- TOP F.2.: Infoschreiben Hybridsitzungen
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.3.2.: Eilentscheid Schellingstr. 130
+- TOP 3.: Aktuelle Sachstandsberichte
