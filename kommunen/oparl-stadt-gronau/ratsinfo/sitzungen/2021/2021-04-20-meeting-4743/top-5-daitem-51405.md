@@ -1,0 +1,6 @@
+# TOP 5.: Anregungen und Beschwerden gem. §24 GO NW
+
+- Sitzung: Ausschuss für Mobilität, Umwelt und Klimaschutz (3. Sitzung) (2021-04-20)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/51405
