@@ -1,0 +1,78 @@
+# 47. Öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-04-21T17:00:00+02:00
+- Ende: 2021-04-21T20:40:00+02:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4344
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4344
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Fehlende Gaslaterne an besonderem Ort - beantwortet
+- TOP 3.2: Inklusive Spielplätze in Steglitz-Zehlendorf? - beantwortet
+- TOP 3.3: Schutzunterkünfte bei Fällen häuslicher Gewalt – Umsetzung der Istanbul-Konvention - beantwortet
+- TOP 3.4: Wirtschaftsförderung unter verschärftem Infektionsschutzgesetz - beantwortet
+- TOP 3.5: Gewerbetreibende vom Bezirksamt Steglitz-Zehlendorf im Stich gelassen?! - beantwortet
+- TOP 3.6: Was setzt das Bezirksamt den Interessen des Investors am Ferdinandmarkt entgegen? - schriftlich beantwortet
+- TOP 3.7: Weitere Nachfragen zum Komplex Dialogdisplays - schriftlich beantwortet
+- TOP 3.8: Fehlbedarfsplanung Flüchtlingsunterkünfte führt zu Klimabelastung? - schriftlich beantwortet
+- TOP 3.9: Aktuelle Entwicklung rund um den S-Bahnhof Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sondermittel der BVV für die Baltische Segler-Vereinigung in Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Ertüchtigung des „Trimm-Dich-Pfades“ Berlin-Grunewald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Abriss des Wasserwerks Riemeisterfenn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Abstimmungen im schriftlichen Verfahren gemäß § 63 (1) GO - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Umgestaltung des Hermann-Ehlers-Platzes - Umgebung des „Kreisels" stadtplanerisch mitdenken! - überwiesen
+- TOP 5.2: Sicherer Fußgängerüberweg über den Dahlemer Weg - überwiesen
+- TOP 5.3: Lauenburger Platz regelmäßiger säubern - überwiesen
+- TOP 5.4: Übermittlung der Einwahldaten an die zuständigen Seniorenvertreter für den Ausschuss - überwiesen
+- TOP 5.5: Vorsicht an der Altdorfer Straße - überwiesen
+- TOP 5.6: Schutz der Insekten durch ein bezirkliches Bestäuberkonzept – bevor es keine mehr gibt - überwiesen
+- TOP 5.7: Militaristen aus dem Straßenbild entfernen – Opfer ehren - überwiesen
+- TOP 5.8: Vermeidung von Papiermüll im Sinne der Klima-Maßnahmen des Bezirks - überwiesen
+- TOP 5.9: Straßenzug Gutzmannstraße/Leo-Baeck-Straße für LKW ab 7,5 t sperren - überwiesen
+- TOP 5.10: Juniorwahl 2021 - überwiesen
+- TOP 5.11: Aufhebung des Verkehrszeichen 318/Parkscheibe in der Ladiusstraße/Ladenzeile - überwiesen
+- TOP 5.12: Vernünftiges Parken für Carsharing-Fahrzeuge - überwiesen
+- TOP 5.13: Tempo 30 einhalten auf der Matterhornstraße - überwiesen
+- TOP 5.14: Ehrenamtliches Engagement unterstützen: Angemessene Beschilderung der Blühflächen im Gemeindepark Lankwitz ermöglichen - überwiesen
+- TOP 5.15: Bedarfsabfrage für soziale Infrastruktur bei Trägern im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.16: Eine runde Parkbank und mehr Grün für die Schützenstraße in Steglitz - überwiesen
+- TOP 5.17: Fehlende Sitzbänke auf dem Asternplatz wieder aufstellen - überwiesen
+- TOP 5.18: Öffentliche Toilette an die Breisgauer Straße - überwiesen
+- TOP 5.19: Schüler- und Schülerinnenhaushalt - überwiesen
+- TOP 5.20: Sozialverantwortliche Beschaffung von Natursteinen im Fairtrade-Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.21: Parkbänke Rondell Stadtpark Steglitz und Denkmäler - überwiesen
+- TOP 5.22: Säuberung der Aussichtsplattform des Ruth-Andreas-Friedrich-Park - überwiesen
+- TOP 5.23: Neue Sitzbänke vor der Konzertmuschel im Stadtpark Steglitz - überwiesen
+- TOP 5.24: Kein Ausbau der AVUS – Kapazität intelligent nutzen - überwiesen
+- TOP 5.25: Dahlemer Weg 247: Klima-Maßnahmen machen Bebauung der "Geschützten Grünanlage" unmöglich - überwiesen
+- TOP 5.26: Wannsee-Strand: Entlastung von Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.27: Instandsetzung der Parkbank am Paul-Henckels-Platz - überwiesen
+- TOP 5.28: Instandsetzung eines öffentlichen Abfalleimers der Aussichtsplattform des Ruth-Andreas-Friedrich-Parks - überwiesen
+- TOP 5.29: Long-Covid-Ambulanz für Steglitz-Zehlendorf - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - im Ausschuss abgelehnt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1.1: Havelchaussee autofrei! - in der BVV abgelehnt
+- TOP 6.2: Vorlagen zur Kenntnisnahme - Beantwortung Große Anfrage - erledigt
+- TOP 6.2.1: Neubau Rathaus Zehlendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Abstimmungen im schriftlichen Verfahren - erledigt
+- TOP 7.1: Bebauungspläne - Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Bebauungsplan 6-24 (Fischerhüttenstraße) Entscheidung zur Anwendung des § 33 Abs. 2 Baugesetzbuch (BauGB) für das Bauvorhaben "Howoge" im Geltungsbereich des B-Plans 6-24 auf den Grundstücken Fischerhüttenstraße 39/43 und den Flurstücken 1294, 1295,1297, 92, 1455/16 sowie 1456/16 im Bezirk Steglitz-Zehlendorf, Ortsteil Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Ein Kinder- und Jugendparlament für Steglitz-Zehlendorf - überwiesen
+- TOP 8.2: Schritt für Schritt zur Rekommunalisierung der Schulreinigung - überwiesen
+- TOP 8.3: Tempo 30 markieren auf der Straße Am Großen Wannsee - überwiesen
+- TOP 8.4: Sicherer Überweg für Grundschüler - überwiesen
+- TOP 8.5: Gedenken für das „Jüdische Siechenheim" in Lichterfelde - überwiesen
+- TOP 8.6: Schiedsrichterinnen und Schiedsrichter im Ehrenamt wertschätzen und auszeichnen - überwiesen
+- TOP 8.7: Sitzbänke an die Breisgauer Straße - überwiesen
+- TOP 8.8: Trinkbrunnen an die Breisgauer Straße - überwiesen
