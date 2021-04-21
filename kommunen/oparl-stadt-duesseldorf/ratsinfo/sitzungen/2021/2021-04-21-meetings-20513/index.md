@@ -1,0 +1,100 @@
+# Bezirksvertretung 6 !! DIE SITZUNG WURDE ABGESAGT !!
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-21T17:00:00+02:00
+- Ende: 2021-04-21T00:00:00+02:00
+- Ort: !! Die Sitzung wurde abgesagt !!
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-04-21 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407865.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-04-21 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407865.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-04-21 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00407865.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Bestellung einer Schriftführung
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 am 27. Januar 2021
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan
+- TOP 5: Borbecker Straße - Errichtung einer 3-zügigen Realschule mit 2-Feld-Sporthalle und Betriebswohnung
+- TOP 6: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Vorlage APS/047/2020/1 - B-Plan 06/011 Airport City West - Aufstellung, Öffentlichkeitsbeteiligung, Behördenbeteiligung, öffentliche Auslegung
+- TOP 8: DEG-Platz 1 - Temporäre Nutzungsänderung des Außenbereichs des ISS-Dome
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - DEG Platz 1 - Temporäre Nutzungsänderung des Außenbereichs des ISS-DOME (Vorlage BV6/045/2021)
+- TOP -: Anfragen (aus vorherigen Sitzungen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der SPD-Fraktion: Umzugstermin der Jugendfreizeitstätte "Blue Rock"
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 18: Anfrage des Ratsherrn Mielczarek (BÜNDNIS 90/DIE GRÜNEN): Anbindung von Unterrath an die geplante U81
+- TOP 19: Anfrage des Ratsherrn Mielczarek (BÜNDNIS 90/DIE GRÜNEN): Sachstand Verlängerung der Linie 707 zum ISS DOME - Lückenschluss
+- TOP 20: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Verkehrssicherheit Unterrather Straße/Kalkumer Straße
+- TOP -: Anfragen
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Anfrage der CDU-Fraktion: Multifunktionale Sportfläche Sankt-Franziskus-Straße
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Anfrage der Fraktion BÜ90/Die Grünen: Fahrzeugbestand im Stadtbezirk 6
+- TOP 25: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Anfrage des Ratsherrn Lukas Mielczarek (BÜ90/Die Grünen): Ausmaß des Büroleerstands und Bedeutung für die weitere Flächenentwicklung
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 29: Antrag der SPD-Fraktion: Westfalenstraße Tempolimit
+- TOP 30: Antrag SPD-Fraktion: Fußgängerüberweg Westfalenstraße
+- TOP 31: Antrag der CDU-Fraktion und der FDP-Fraktion: Budget für Ökologische Erneuerung
+- TOP 32: Antrag der CDU-Fraktion und der FDP-Fraktion: Budget für Kulturförderung im Stadtbezirk 6
+- TOP 33: Antrag der CDU-Fraktion und der FDP-Fraktion: Erweiterung des Angebotes des Abenteuerspielplatzes Sankt-Franziskus-Straße zu einem Lernort
+- TOP 34: Antrag der CDU-Fraktion und der FDP-Fraktion: Fortschreibung Soziale Stadt - Erschließung von Bewegungsraum im Grünzug Ratherbroicher Grenzgraben
+- TOP 35: Antrag der CDU-Fraktion und der FDP-Fraktion: Fortschreibung Soziale Stadt - Schaffung eines Lernortes und Begegnungsstätte "Wir erleben unsere Natur und Umwelt"
+- TOP 36: Antrag der SPD-Fraktion: Verkehrsspiegel ggü. der Ausfahrt Recklinghauser Straße / Rather Kreuzweg
+- TOP 37: Antrag der SPD-Fraktion: Vermeidung von Pfützenbildung auf dem A44-Tunneldeckel hinter dem TuS Nord
+- TOP 38: Antrag der CDU-Fraktion: Installierung von Außenjalousien an der KGS Rather Kreuzweg
+- TOP 39: Antrag der CDU-Fraktion: Engstelle auf dem Gehweg vor dem Haus Rather Broich 153
+- TOP 40: Antrag der CDU-Fraktion: Neugestaltung der fahrradstellplätze auf dem Schulgelände der Heinrich-Heine-Gesamtschule
+- TOP 41: Antrag der CDU-Fraktion: Kurzparken auf der Westfalenstraße vor der neuen Postfiliale auf der Westfalenstraße 57
+- TOP 42: Antrag der CDU-Fraktion: Einrichtung einer Tempo-30-Zone auf der Liliencronstraße
+- TOP 43: Antrag der CDU-Fraktion: Unterflurcontainer in Mörsenbroich
+- TOP 44: Antrag der CDU-Fraktion: Einrichten von Fahrradstellplätzen in Höhe der Linie 701 Haltestelle Theodorstraße / Wahlerstraße
+- TOP 45: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines verkehrsberuhigten Bereichs auf dem Cloppenburger Weg - Platz zum Spielen!
+- TOP 46: Antrag der Fraktion BÜ90/Die Grünen: Prüfantrag zur Überarbeitung der Fußquerung Beedstraße / Im Huferfeld - Umwege beseitigen
+- TOP 47: Antrag der Fraktion BÜ90/Die Grünen: Sanierung Spielplatz Reitzenstein
+- TOP 48: Antrag der Fraktion BÜ90/Die Grünen: Prüfung sichere Schulwege zur Kartause-Hain-Grundschule
+- TOP 49: Antrag der Fraktion BÜ90/Die Grünen: Prüfung auf Zweckentfremdung gemäß Wohnraumschutzsatzung
+- TOP 50: Antrag der Fraktion BÜ90/Die Grünen: Prüfung sicherer Schulwege zur Heinrich-Heine-Gesamtschule und zum Lycée francais
+- TOP -: Verwaltungsvorlagen
+- TOP 51: Zuschuss 2021 - Antrag des Fördervereins der Elsa-Brandström-Schule zur Schulhofgestaltung
+- TOP 52: Genehmigung einer Dringlichkeitsentscheidung - Antrag des Fördervereins der Elsa-Brandström-Schule zur Neugestaltung des Schulhofes
+- TOP 53: Zuschuss 2021 - Antrag des AGON 08 für das Projekt "Sport statt Straße"
+- TOP 54: Genehmigung einer Dringlichkeitsentscheidung – Antrag des AGON 08 für das Projekt "Sport statt Straße"
+- TOP 55: Zuschuss 2021 - Antrag der St. Sebastianus Schützengesellschaft Mörsenbroich zur Restaurierung der Vereinsfahne
+- TOP 56: Genehmigung einer Dringlichkeitsentscheidung - Antrag der St. Sebastianus Schützengesellschaft Mörsenbroich zur Restaurierung der Vereinsfahne
+- TOP 57: Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Projekt Blumenoasen
+- TOP 58: Genehmigung einer Dringlichkeitsentscheidung - Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Blumenoasen
+- TOP 59: Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Projekt Blumenkästen- und -kübel im Stadtbezirk 6
+- TOP 60: Genehmigung einer Dringlichkeitsentscheidung – Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Blumenkästen und -kübel
+- TOP 61: Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Opernfundus
+- TOP 62: Genehmigung einer Dringlichkeitsentscheidung – Bauunterhaltungsmittel 2021 Teil B "sonstige Gebäude" - Projekt Opernfundus
+- TOP 63: Zuschussvergabe 2021 Antrag des Bürger-Schützenvereins 1925 e.V. Düsseldorf-Rath zur Vereinsinformationsschrift "Die Zielscheibe"
+- TOP 64: Zuschuss des Sportamtes (Amt 52) an den Tennisclub Blau-Weiss Mannesmann e.V.
+- TOP 65: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2021
+- TOP -: Informationsvorlagen
+- TOP 66: Bebauungsplan-Entwurf Nr. 05/014 - Ehemals Fashion House
+- TOP 67: Flächennutzungsplanänderung Nr. 196 - Ehemals Fashion House - Stellungnahmen, Planbeschluss
+- TOP 68: Ladestationen für E-Autos im Stadtbezirk 6 - Vorlage BV6/098/2020
+- TOP 69: Schaffung eines "sicheren Fußweges" für Anwohner Dülmener Weg sowie KiTa-Kinder und deren Angehörige - Vorlage BV6/083/2019
+- TOP 70: Bau eines barrierefreien Zugangs vom Wohngebiet Mintarder Weg zur Hamborner Straße und bessere Beleuchtung der Treppe - Vorlage BV6/140/2020
+- TOP 71: Tempo 30 auf dem Volkardeyer Weg - Vorlage 176/101/2019
+- TOP 72: Status der Planungen Ecke Kalkumer Straße/An der Piwipp/Thewissenweg ("Unterrather Tor") - Vorlage BV6/032/2021
+- TOP 73: Geschwindigkeitsanzeigetafel Auf der Reide
+- TOP 74: Sanierung des Gehweg Vogelsanger Weg - Vorlage 176/89/2017
+- TOP 75: Fahrbahnmarkierung Münsterstraße zwischen Heinrichstraße und Hülsmeyerplatz (Vorlagen 176/76/2015 und 176/ 219/2017)
+- TOP 76: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 77: Bebauungsplan-Entwurf Nr. 06/018 - Theodorstraße - zwischen A52 und Wahlerstraße
