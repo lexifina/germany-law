@@ -1,0 +1,142 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-04-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6161980
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6161980
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Vorstellung der aktuellen Planungen zur Blue Lane für die IAA Mobility durch das Referat für Arbeit und Wirtschaft
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP II.3.: Vorstellung der Planungen zur Nutzung des ehem. Pissoirs Kellerstraße Haidhausen
+- TOP 1.: Entscheidungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Begehung Nockherberg Areal mit der Bayerischen Hausbau am 09.07.2021 um 17 Uhr an der Ecke Welfen-/Regerstraße
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 2.1.: Die Tagesordnung wird folgendermaßen ergänzt: - A-Teil, zu TOP 5.6: Änderungsentwurf von UA Klima - UA Kultur, TOP 3: Vorstellung der Planungen zur Nutzung des ehem. Pissoirs Kellerstraße Haidhausen - UA Kultur, TOP 4: Vertagung der weiteren Planungen der Kulturtage um mindestens zwei Monate - UA Wirtschaft, TOP 2.3: Friedens- und Partnerschaftsfest auf dem Bordeauxplatz am 30.05.2021 - UA Planung, TOP 2.5-2.11: Bauvorhaben - UA Mobilität, zu TOP 3.6: Stellungnahme PI 21 - UA Mobilität, zu TOP 4.5: Entwurf Antrag Zebrastreifen für den Pariser Platz
+- TOP 5.1.: Verzicht auf die Stellplatzablöse bei nachträglichem Dachgeschossausbau durch soziale Wohnungsbauunternehmen und Genossenschaften
+- TOP 5.2.: Generalsanierung des Busbahnhofes am Orleansplatz
+- TOP 5.3.: Bebauungsplan Orleanshöfe: Keine Kompensation ermöglichen III
+- TOP 5.4.: Fortschreibung Schulbauoffensive: Pestalozzi Gymnasium endlich barrierefrei ausbauen
+- TOP 5.5.: Mehrjahresinvestionsprogramm besser im Alfresco darstellen
+- TOP 5.6.: Mehrweg-Pfandsysteme für Au-Haidhausen => dazu: Änderungsentwurf von UA Klima
+- TOP 5.7.: Messergebnisse auf der Rosenheimer Straße (Anfrage)
+- TOP 5.8.: Nördliches Haidhausen: Radabstellplätze schaffen
+- TOP 5.9.: Besuche in Pflegeeinrichtungen ermöglichen
+- TOP 5.10.: Immobilienspekulation in der Gallmayerstraße 9 verhindern, Wohnraum instandsetzen (Anfrage)
+- TOP 5.11.: Johannisplatz 7: Lässt der Eigentümer das Haus absichtlich verfallen? (Anfrage)
+- TOP 6.1.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2021 bis 2025
+- TOP 6.2.1.: Infoblatt April 2021
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Die Weisse Rose: 100. Geburtstag Sophie Scholl; Antrag 300 € aus dem Budget für eigene Veranstaltungen Verweisung aus der Sitzung vom 24.03.2021
+- TOP II.2.: Antragsformular-Vorschlag UA-Soziales (Budget) Vertagung aus der Sitzung vom 24.03.2021
+- TOP II.4.: Vertagung der weiteren Planungen der Kulturtage um mindestens zwei Monate
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.1.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Kinder- und Jugendliche in Au/Haidhausen (AGKJ) Angebot für Kinder und Jugendliche und Präsentation der AGKJ am 04.07.2021 935,00 € / Az. 0262.0-5-0335
+- TOP 1.2.: (E) Stadtbezirksbudget MobilSpiel e.V. Spielend durch das Jahr vom 07.05. - 11.05.2021 4.750,00 € / Az. 0262.0-5-0333
+- TOP 1.3.: Detailauskunft zu den TOPs 1.1. und 1.2
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Modernisierung der Postwiese
+- TOP 3.2.: Errichtung einer Tischtennisplatte auf der Postwiese Antwort AKIM und Baureferat zum Schreiben BA 5 vom 26.03.2021
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Entfernung / Umsetzung der Bank C am Kolumbusplatz
+- TOP 4.2.: Parkbänke Ernst Reuter Straße 1 und nahe Umgebung
+- TOP 4.3.: Zweckentfremdung des Spielplatzes Reichenbachbrücke und Umgebung als öffentliche Toilette
+- TOP 4.4.: Möglichkeit zum Skaten für Teenager in den Frühlingsanlagen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Mit Außenflächen Perspektiven für lokales Gewerbe schaffen Verweisung aus der Sitzung vom 24.03.2021
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative München Bordeaux e.V. Friedens- und Partnerschaftsfest München-Bordeaux am 30.05.2021 7.360,00 € / Az. 0262.0-5-0334
+- TOP 2.: Anhörungen
+- TOP 2.1.: Weißenburger Str. 8: Errichtung einer Freischankfläche
+- TOP 2.2.: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 15.05.2021 sowie 18.09.2021
+- TOP 2.3.: Friedens- und Partnerschaftsfest auf dem Bordeauxplatz am 30.05.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kulturstrand an der Corneliusbrücke vom 07.05.-07.08.2021 Antwort KVR zum Schreiben BA 5 vom 29.03.2021
+- TOP 3.2.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Veranstaltungen auf dem Orleansplatz: Zeitliche Begrenzung und ansprechende kulturelle Programme
+- TOP 4.2.: Standort für einen Kiosk im historischen Zugspitzbahn-Waggon in den Maximiliansanlagen - Bürgeranliegen -
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kellerstr. 1: Nutzungsänderung in einem Wohn- und Geschäftsgebäude: Verkleinerung einer Gastroeinheit, Nutzungsänderung Weinhandel zu Gastro, Vergrößerung einer Moschee, freie Lagerfläche
+- TOP 2.2.: Hochstr. 41: Dachgeschossausbau
+- TOP 2.3.: Weißenburger Straße 8: Einrichtung einer Freischankfläche (40 Sitzplätze / 62,80 qm) - siehe auch UA Wirtschaft -
+- TOP 2.4.: Weißenburger Str. 24: Anbau von 2 x 4 Balkonen mit Überdachung
+- TOP 2.5.: Oefelestr. 4: Reduzierung der Wohnungsanzahl auf 16 Wohneinheiten, Änderung Hauseingang und Fassade, Einbau Terrasse Dachgeschoss; Tektur
+- TOP 2.6.: Asamstr. 5: Anhebung und Ausbau des Dachgeschosses mit Spitzboden
+- TOP 2.7.: Wörthstr. 18: 1. OG: Zusammenlegung Wohnung links und rechts, Einbau Stahlträger zur Wandabfangung
+- TOP 2.8.: Falkenstr. 7a: Umbau und Aufstockung der Bestandsbebauung für eine gewerbliche Nutzung im EG und darüberliegend (5 Wohneinheiten), sowie 4 Duplexparker (8Stpl.) im EG, Vorbescheid
+- TOP 2.9.: Falkenstr. 7b: Umbau und Aufstockung der Bestandsbebauung für eine Büronutzung und zusätzlichen zwei Wohnungen, Errichten dreier oberirdischer Stellplätze im Hof, Vorbescheid
+- TOP 2.10.: Lothringer Str. 1: Nutzungsänderung eines Fitness-Studios zu einem Büro mit einem Verkaufsraum, Tektur
+- TOP 2.11.: Albanistr. 10b: Nutzungsänderung einer Büroeinheit zu einer Kindergroßtagespflege
+- TOP 2.12.: Schneckenburgerstr. 30-32: Tiefgarageninstandsetzung und Anbau von Notleiteranlagen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 3.2.: Bebauungsplan mit Grünordnung Nr. 1956 Haidenauplatz (südlich), Beteiligung der Öffentlichkeit Antwort Planungsreferat zum Schreiben BA 5 vom 02.03.2021
+- TOP 3.3.: Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches - Beschleunigtes Verfahren - Planungsgebiet: Bebauungsplan mit Grünordnung Nr. 1956 Haidenauplatz (südlich), Bahnlinie München-Rosenheim (westlich), Ostbahnhof (nördlich), Orleansstraße (östlich) „Orleanshöfe“ - Urbanes Gebiet, Kindertageseinrichtungen -
+- TOP 3.4.: (U) Änderung der Satzung über den Mieterbeirat der Landeshauptstadt München Bürgerinitiative Ausspekuliert als ständiges beratendes Mitglied im Mieterbeirat Antrag Nr. 20-26 / A 00097 .......................
+- TOP 3.5.: Plangenehmigung nach § 18 Abs. 1 AEG i. V. m. § 74 Abs. 6 VwVfG für das Bauvorhaben „Neubau ESTW München Ost Pbf, Teil 1: S-Bahn“, Bahn-km 3,053 bis 3,936 der Strecke 5550 München Hbf - Ost in München Ost hier: Antworten Deutsche Bahn und Planungsreferat zu Stellungnahme BA 5 vom 25.03.2021
+- TOP 3.6.: Digitalisierung im Planungsreferat jetzt vorantreiben
+- TOP 3.7.: Kellerstraße 3 – Was wird gegen den jahrelangen Leerstand unternommen? (Anfrage)
+- TOP 3.8.: Kellerstr. 4-8: Vorbescheid Gasteigsanierung
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Maßnahmen zum Schutz von Fußgängern am Preysingplatz hier: Beete quer anlegen
+- TOP 3.3.: Biotopverbundfläche am Ostbahnhof (Anfrage) Antwortschreiben zum BA-Antrag Nr. 20-26 / B 01394 - siehe auch UA Klima -
+- TOP 3.4.: Corona-Parkregelungen überarbeiten
+- TOP 3.5.: Ausgestaltung der IAA-Blue Lanes
+- TOP 3.6.: Seitenparken auf dem Hochstraßen-Gehsteig beenden => dazu: Stellungnahme PI 21
+- TOP 3.7.: Trambahnbau/Baumpflanzungen in der Welfenstraße (Anfrage)
+- TOP 3.8.: Ausführungsplanung Radfahrstreifen Rosenheimer Straße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrradstraße für den Bereich Zeppelinstraße / Mariahilfstraße / Bereiteranger
+- TOP 4.2.: Umgestaltung des Regerplatzes
+- TOP 4.3.: Taxi-Chaos in der Ismaninger Straße
+- TOP 4.4.: Entschärfung Unfallschwerpunkt Edlingerplatz, Ecke Oefelestraße
+- TOP 4.5.: Anträge 1. Poller an der Pariser-/Lothringer Straße 2. Kreisverkehr am Pariser Platz 3. Fußgängerzone in der Lothringer und Pariser Straße => dazu: Entwurf Antrag Zebrastreifen für den Pariser Platz
+- TOP 4.6.: Fahrradabstellanlagen für die Eki Kellerkinder e.V. in der Seeriederstraße
+- TOP 4.7.: Zaun für Bahngleise am Giesinger Feld
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Mehrweg-Pfandsysteme für Au-Haidhausen (Antrag SPD-Fraktion) - siehe auch TOP 5.6 im A-Teil -
+- TOP 2.: Anhörungen
+- TOP 2.1.: Asamstr. 23: Fällung von 1 Vogelbeere
+- TOP 2.2.: Nockherstr. 5: Fällung von 2 Gemeinen Eschen Frist bis 16.04.2021
+- TOP 2.3.: Nockherstr. 47: Fällung von 2 Eschen
+- TOP 2.4.: Neue Baumstandorte im öffentlichen Raum Konkrete Stellenbenennung in öffentlichen Grünanlagen, auf Plätzen und im Straßenbegleitgrün bis 03.05.2021 Vertagung aus der Sitzung vom 24.02.2021 mit der Bitte um Benennung von Baumstandorten
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Blühstreifen für Au-Haidhausen
+- TOP 3.2.: Biotopverbundfläche am Ostbahnhof (Anfrage) - siehe auch UA Mobilität -
+- TOP 3.3.: Entlastung für den Wertstoffcontainerstandort Kolumbusplatz
+- TOP 3.4.: Schutz für Igel in den Maxanlagen
+- TOP 3.5.: Fällungsgenehmigung Nockherstr. 11
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 10.05.2021, 19.30 Uhr, Videokonferenz UA Mobilität, 10.05.2021, 19.30 Uhr, Videokonferenz UA Wirtschaft, 11.05.2021, 19.30 Uhr, Videokonferenz UA Klima und Umwelt, 12.05.2021, 19.00 Uhr, Videokonferenz UA Kultur, 12.05.2021, 19.30 Uhr, Videokonferenz UA Planung, 12.05.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Donnerstag, 20.05.2021, 19.30 Uhr, Theatersaal im Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 04.05.2021, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
