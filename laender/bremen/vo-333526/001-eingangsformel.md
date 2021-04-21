@@ -1,4 +1,4 @@
 ## Einzelansicht Seitenanfang
 # Eingangsformel
-Auf Grund des § 9a des Bremischen Ladenschlussgesetzes vom 22. März 2007 (Brem.GBl. S. 221), zuletzt geändert durch Gesetz vom 14. März 2017 (Brem.GBl. S. 121), verordnet der Magistrat:
+Auf Grund des § 9a des Bremischen Ladenschlussgesetzes vom 22. März 2007 (Brem.GBl. S. 221), das zuletzt durch Gesetz vom 4. Februar 2020 (Brem.GBl. S. 7) geändert worden ist, verordnet der Magistrat:
 Einzelansicht Seitenanfang
