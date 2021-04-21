@@ -1,0 +1,8 @@
+# TOP 3: Einrichtung eines Teilstandortes für die Städtische Schule an der Tesche, Förderschule mit dem Förderschwerpunkt Sprache, Tescher Str. 10, Wuppertal im Schulgebäude Elfenhang 4
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Schule und Bildung (2021-04-21)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/105248
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/48987
