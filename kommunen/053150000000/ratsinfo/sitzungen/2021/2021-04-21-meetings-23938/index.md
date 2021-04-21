@@ -1,0 +1,62 @@
+# 1. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-21T17:00:00+02:00
+- Ende: 2021-04-21T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23938
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23938
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00810518.pdf
+- Ergebnisprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00810518.pdf
+- Wortprotokoll: Tagesordnung (Tischvorlage) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00810518.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung der Mitglieder der StadtAG LST
+- TOP 1: Bestellung der Schriftführung der StadtAG LST - ungeändert beschlossen
+- TOP 2: Aufzeichnung der Sitzungen der StadtAG LST - ungeändert beschlossen
+- TOP 3: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 3.1: Unisex-Toiletten in Schulen und anderen städtischen Gebäuden in Köln - Anfrage der SB Balke - Kenntnis genommen
+- TOP 3.2: Anfrage bezüglich neuer Zielgruppen in der LSBT*Q Jugendarbeit 2595/2020 - Kenntnis genommen
+- TOP 3.3: Prüfung Bereitstellung technischer Ausstattung für Audio- und Videokonferenzen der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 3.4: Ampelpärchen Heumarkt - Kenntnis genommen
+- TOP 3.5: Schriftliche Anfrage zum Konzept für zukünftige Sitzungen der StadtAG LST - Kenntnis genommen
+- TOP 3.6: Anfrage bezüglich der kommunalen Zuweisung von LSBT*I*Q Geflüchteten aus der ZUE nach Köln
+- TOP 3.6.1: Anfrage bezüglich der kommunalen Zuweisung von LSBT*I*Q Geflüchteten aus der ZUE nach Köln in die LSBT*I*Q Geflüchteten Unterkunft - Kenntnis genommen
+- TOP 3.7: Anfrage von TXKöln bzgl. Personenstandsänderungen 2020
+- TOP 3.7.1: Anfrage bezüglich Eintragungen und Änderungen des Personenstands in Köln - Kenntnis genommen
+- TOP 3.8: Rückfragen zu einer Beantwortung der Verwaltung zu Regenbogen-Zebrastreifen (2688/2020)
+- TOP 3.9: Anfrage des rubicon e.V. zu Präventionsdienstleistungen
+- TOP 4: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 4.1: Förderkonzept Kulturelle Teilhabe - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag des rubicon e.V. zum Förderkonzept Kulturelle Teilhabe - ungeändert beschlossen
+- TOP 4.2: Kölner Lebenslagenbericht - geändert beschlossen
+- TOP 4.2.1: Änderungsantrag des Völklinger Kreis e.V. zum Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 4.3: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“ - ungeändert beschlossen
+- TOP 4.4: Antrag des Völklinger Kreis e.V. zur Unterstützung der Initiative "Grundgesetz für Alle" - geändert beschlossen
+- TOP 5: Trans*
+- TOP 5.1: Trans* im Krankenhaus und in der Pflege
+- TOP 5.2: Schwimmzeiten für trans- und intergeschlechtliche Menschen
+- TOP 6: LSBTI Geflüchtete
+- TOP 6.1: Unterbringung von FINTA* mit Fluchtgeschichte - Kenntnis genommen
+- TOP 7: Sichtbarkeit von Lesben in Köln
+- TOP 8: Diversity
+- TOP 8.1: Respektvoll, diskriminierungsfrei und zugewandt: Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 8.2: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Wahl der Seniorenvertretung der Stadt Köln 2021 - Kenntnis genommen
+- TOP 9.2: Webserie KUNTERGRAU aus Köln/Jugendzentrum anyway für den Grimme-Preis nominiert - Kenntnis genommen
+- TOP 9.3: Sachstandsmitteilung Kriminalprävention - Kenntnis genommen
+- TOP 9.4: LGBTIQ und Sicherheit im Kölner Straßenverkehr - Kenntnis genommen
+- TOP 9.5: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 9.6: „Das ist alles unsere Lebenszeit. Ältere Lesben und Schwule in der Corona-Krise"; eine Publikation des rubicon e.V. - Kenntnis genommen
+- TOP 9.7: Ergebnisse einer Befragung zu den Auswirkungen der Corona-Pandemie auf LSBTIQ-Jugendliche - Kenntnis genommen
+- TOP 9.8: Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln 2021 - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 11: Neue Anfragen
+- TOP 12: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 13: Verschiedenes
+- TOP 13.1: IDAHOBIT 2021 und Cologne Pride 2021
