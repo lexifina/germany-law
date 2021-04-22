@@ -1,0 +1,61 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2021-04-22T17:00:00+02:00
+- Ende: 2021-04-22T19:00:00+02:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-130
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-130
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-RAT-130
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-130
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-130
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 3: Feststellung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2019
+- TOP 4: Änderung zur Geschäftsordnung (10.) für den Rat der Stadt Castrop-Rauxel und seine Ausschüsse
+- TOP 5: Antrag SPD Ratsfraktion und Bündnis90/ Die Grünen vom 30.03.2021 "Stand der Umsetzung des Kommunalen Integrationsmanagements in Castrop-Rauxel"
+- TOP 6: Antrag SPD Ratsfraktion und Bündnis90/Die Grünen vom 31.03.2021 "Aktualisiertes Schulentwicklungskonzept für die Primarstufe"
+- TOP 7: Antrag SPD Ratsfraktion und Bündnis90/ Die Grünen vom 30.03.2021 "Namensgebung der neuen Gesamtschule Ickern"
+- TOP 8: Antrag SPD Ratsfraktion und Bündnis90/ Die Grünen vom 30.03.2021 "Bestandsanalyse der derzeitigen Struktur der Mittagsverpflegung in Schulen und Kindertageseinrichtungen in Castrop-Rauxel sowie Modellprojekt „Gesundes Schulessen in der neuen Gesamtschule Ickern“
+- TOP 9: Antrag von CDU und FWI vom 31.03.2021 "Information über das Mensa-Konzept der Gesamtschule Waltrop"
+- TOP 10: Antrag der CDU und FWI vom 31.03.2021 "Ausgleich pandemiebedingter Lernrückstände"
+- TOP 11: Antrag der FDP-Fraktion: Attraktivierung der Waldstrecken für Freizeitsportler
+- TOP 12: Errichtung einer Fahrradabstellanlage am Hauptbahnhof in Castrop-Rauxel
+- TOP 13: Barrierefreier Ausbau von zehn Haltestellenpunkten in Castrop-Rauxel
+- TOP 14: Straßenrechtliche Widmung des Straßenneubaugebietes "Westhofenstraße" gemäß § 6 StrWG NW
+- TOP 15: Straßenrechtliche Widmung der "Lange Straße" gemäß § 6 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen
+- TOP 16: Einziehung einer Teilfläche des „Bärenplatzes“ in Deininghausen gemäß § 7 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NW)
+- TOP 17: Nahmobilitätskonzept der Stadt Castrop-Rauxel
+- TOP 17.1: Gemeinsamer Antrag Ratsfraktionen CDU, FWI und FDP vom 21.04.2021_Nahmobiliätskonzept_Ortsteilbezogene Bürgerbeteiligung vor Beschlussfassung
+- TOP 18: Sofortprogramm Innenstadt hier: Förderantrag zur städtebaulichen Neuordnung nordwestliche Innenstadt
+- TOP 19: Sonderprogramm des Landes Nordrhein-Westfalen „Klimaresilienz in Kommunen” hier: Förderanträge der Stadt Castrop-Rauxel zum Sonderprogramm mit den beiden Teilprojekten „Förderung von Dach- und Fassadenbegrünungen“ und „Wanderbäume“
+- TOP 19.1: Ergänzungsantrag CDU Fraktion zum Sonderprogramm des Landes Nordrhein-Westfalen vom 15.04.2021_ Klimaresilienz in Kommunen
+- TOP 20: Kenntnisnahme "Qualifizierter Mietspiegel für Castrop-Rauxel"
+- TOP 21: Außenbereichssatzung Nr. 005 „Waltroper Straße“ hier: Beschluss zur öffentlichen Auslegung der Satzung über die Zulässigkeit von Vorhaben im bebauten Außenbereich gem. § 35 Abs. 6 BauGB nach § 3 Abs. 2 BauGB
+- TOP 22: 11. Änderung des Flächennutzungsplans „Gewerbefläche Am Koksbach“ hier: Beschluss zur 11. Änderung des Flächennutzungsplans nach § 2 Abs. 1 BauGB
+- TOP 23: Bebauungsplan Nr. 244 „Gewebefläche Am Koksbach“ hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB
+- TOP 24: Bebauungsplan Nr. 242 Planbereich „südliche Altstadt“ hier: Beschluss zur erneuten öffentlichen Auslegung des Bebauungsplans nach § 3 Abs. 2 BauGB
+- TOP 25: Berufung und Entsendung der Sachkundigen Einwohnerinnen und Einwohner für den Umweltausschuss für die Wahlperiode 2020-2025
+- TOP 26: Antrag der SPD Ratsfraktion Castrop-Rauxel und der Fraktion Bündnis 90/ Die Grünen Hier: Entwicklung eines Konzeptes zur Verbesserung des ökologischen Zustandes der städtischen Gewässer
+- TOP 27: Klimaschutzbericht 2020 und Ausblick 2021 - Klimaoffensive Castrop-Rauxel
+- TOP 28: Übernahme der Trägerschaft durch die Kindergartengemeinschaft des Evangelischen Kirchenkreises Herne und Finanzierung der Trägeranteile für die Kindertagesstätte Grutholzallee 49, 44575 Castrop-Rauxel
+- TOP 29: Finanzierung zu den Trägeranteilen der zusätzlichen Gruppe in Gruppenform III für den Evangelischen Kindergarten Regenbogenhaus, Am Weißdorn 3a, 44577 Castrop-Rauxel
+- TOP 30: Gemeinsamer Antrag SPD Fraktion und B 90_Grüne vom 01.04.2021_Digitales Konzept für Gewerbetreibende
+- TOP 31: Änderung der Kommunalunternehmenssatzung
+- TOP 32: Kuratorium der wewole Stiftung e.V.
+- TOP 33: Antrag FWI Fraktion vom 06.04.2021_Eingliederung Castrop-Rauxels in das Bikesharing-Netz der nextbike GmbH
+- TOP 34: Sachstandsbericht Haushaltssanierungsplan 2021 - Stand 31.03.2021 Berichterstattung gegenüber der Bezirksregierung Münster
+- TOP 35: Beratende Mitglieder des Betriebsausschusses 2 hier: Ausschussumbesetzung
+- TOP 36: Berufung und Entsendung eines Vertreters und einer persönlichen Vertreterin des Stadtsportverbandes als sachkundige*r Einwohner*in
+- TOP 37: Gemeinsamer Antrag der Ratsfraktionen SPD, CDU, Bündnis 90/Die Grünen, FWI, DIE LINKE und FDP vom 21.04.2021_Erstellung eines Konzeptes zur Verkehrsleitplanung im Stadtgebiet als Reaktion auf die Brückensperrung auf der Autobahn A3
+- TOP 38: Anfragen der Ratsmitglieder
+- TOP 39: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
