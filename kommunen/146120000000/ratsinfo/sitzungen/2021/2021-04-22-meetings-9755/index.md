@@ -1,0 +1,54 @@
+# 24. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-04-22T16:00:00+02:00
+- Ende: 2021-04-22T22:00:00+02:00
+- Ort: MESSE Dresden, Halle 1 Messering , 01067 Dresden
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/9755
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/9755
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00538087.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema „Gemeinwohl, Nachhaltigkeit und Schonung vorhandener Res-sourcen statt Abriss von 800 bestehenden Fahrgastunterständen“ - erledigt
+- TOP 3: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 4: Einigungsverfahren Gremienbesetzung
+- TOP 4.1: Umbesetzung im Jugendhilfeausschuss - Einigung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Vertagungen letzte Stadtratssitzung am 25.03.2021
+- TOP 6.1: Kompensationspflicht bei Stellplatzwegfall - Vertagung durch Einreicher
+- TOP 6.2: Verkehrssichere Radwege im Bereich der Reicker Straße schaffen - Verweisung
+- TOP 6.3: Pflegedienste stärken – Parkerleichterung für ambulante Pflegedienste schaffen - Zustimmung
+- TOP 6.4: Erhaltungssatzung H-49, Dresden-Trachau, Wilder Mann - Zustimmung
+- TOP 7: Vorbehaltliche Befreiung von Elternbeitragszahlungen wegen der Schließung von Angeboten der Kindertagesbetreuung aufgrund Sächsischer Corona-Schutz-Verordnungen beginnend ab 14. Dezember 2020 - Zustimmung
+- TOP 8: Änderungsverordnung zur Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2021 - Zustimmung
+- TOP 9: Corona-Bewältigungsfonds 2021 für Kultur und Tourismus und Änderung der Förderrichtlinie Großveranstaltungen vom 21. März 2013 - Verweisung
+- TOP 10: Absichtserklärung zur Regelung der Rahmenbedingungen für die Wiedereröffnung des Dresdner Fernsehturms - Letter of Intent (LOI) - Zustimmung
+- TOP 11: Verkehrs- und Mobilitätskonzept Fernsehturm Dresden und Verbesserung der Gebietserschließung der Ortsteile Bühlau, Gönnsdorf, Wachwitz und Pappritz - Zustimmung
+- TOP 12: Fachförderrichtlinie zur Förderung der kommunalen Entwicklungszusammenarbeit mit der Partnerstadt Brazzaville - Zustimmung
+- TOP 13: Aufhebung und Fusionierung des Abendgymnasiums mit dem Gymnasium Dresden-Johannstadt - Verweisung
+- TOP 14: Gewährung von Freizeitausgleich unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und volljährigen Auszubildenden der Landeshauptstadt Dresden bei ehrenamtlichem Einsatz in den Wahlvorständen - Zustimmung
+- TOP 15: Konzept Kulturelle Bildung in Dresden 2020 - punktweise Zustimmung
+- TOP 16: Veränderungen im Busliniennetz im Dresdner Norden - Zustimmung
+- TOP 17: Vorhabenbezogener Bebauungsplan Nr. 6048, Dresden-Leutewitz, Wohnbebauung am Leutewitzer Park - Vertagung
+- TOP 18: Bebauungsplan Nr. 399, Dresden-Strehlen Nr. 4, Wissenschaftsstandort Dresden-Ost, Teilbereich II - Zustimmung
+- TOP 19: Fortschreibung Bankkonzept für das gesamte Stadtgebiet der Landeshauptstadt Dresden - Zustimmung
+- TOP 20: Sofortprogramm zur Entschärfung der gefährlichsten Stellen für Radfahrende - Zustimmung mit Ergänzung
+- TOP 21: Community Organizing für Dresden – Stadtteilmanager*innen für alle Stadtbezirke - Ablehnung
+- TOP 22: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung durch Einreicher
+- TOP 23: Verkehrssicherheit für Radfahrende auf dem Westabschnitt der Nöthnitzer Straße – alternative Radvorrangroute durch die Bienertstraße - Zustimmung
+- TOP 24: Novelle der StVO in Dresden schnell umsetzen, Verkehrssicherheit erhöhen, Radverkehr fördern, Verkehrsberuhigung in Wohngebieten ermöglichen - Vertagung durch Einreicher
+- TOP 25: Neues Wohnen auf städtischen Flächen fördern - Wagenplätze in Dresden ermöglichen - Vertagung durch Einreicher
+- TOP 26: Initiative für ein Museum zur Geschichte und Entwicklung jüdischen Lebens und jüdischer Kultur mit Standort Dresden unterstützen - Zustimmung
+- TOP 27: Monitoring von zweckentfremdeten Wohnraum - Zustimmung
+- TOP 28: Wiedereinführung der Möglichkeit von Bargeldzahlungen in den Bürgerbüros der Landeshauptstadt Dresden - Ablehnung
+- TOP 29: Schutz der Gedenkstätte am Altmarkt vor Verunreinigungen durch Graffitischmierereien - Vertagung durch Einreicher
+- TOP 30: Erfüllung von Stadtratsbeschlüssen - Zustimmung
+- TOP 31: Sicherheitspartnerschaft „Aktion Abbiegeassistent“ - Zustimmung
+- TOP 32: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Verweisung
+- TOP 33: Überprüfung der Einrichtung einer Gemeinschaftsschule - punktweise Zustimmung
+- TOP 34: Berufsfeuerwehr Dresden - Schaffung dringend benötigter Stellen - Ablehnung
