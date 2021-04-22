@@ -1,0 +1,70 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-22T16:48:00+02:00
+- Ende: 2021-04-22T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23697
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23697
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 19.04.2021, 15:30 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00815934.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 19.04.2021, 15:30 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00815934.pdf
+- Wortprotokoll: Tagesordnung, Stand 19.04.2021, 15:30 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00815934.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Solarkataster sowie Wärme- und Kältebedarfskataster - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage betreffend Solarkataster sowie Wärme- und Kältebedarfskataster - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betreffend Gesundes aus der Region – Mehr Bio-Produkte und regionale Lebensmittel in städtischen Kantinen, Schulen und Kitas! - zurückgestellt
+- TOP 1.3: Anfrage der SPD-Fraktion betreffend Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientierte Nahrung für unsere Stadt - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion betreffend Einrichtung einer Wegbeleuchtung vom westlichen Ende des Rautenstrauchkanals bis Stadtwaldgürtel - Sache ist erledigt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Strategie Klimaneutrales Köln– Zielformulierung und Sachstand April 2021 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - zurückgestellt
+- TOP 4.1.2: Förderprojekt "Wasser muss zum Baum" - ungeändert empfohlen
+- TOP 4.1.3: Ergänzung Baumkataster um neue Baumpflanzungsstandorte - ungeändert empfohlen
+- TOP 4.1.4: Kölner Lebenslagenbericht - zurückgestellt
+- TOP 4.1.5: Energieleitlinien Stadt Köln 2021 – Erweiterung der Ausnahmeregelung zur Kühlung von Sonderzonen in Gebäuden um Kindertagesstätten - ungeändert empfohlen
+- TOP 4.1.6: Stadtentwässerungsbetriebe Köln, AöR, Stadtwerke Köln GmbH - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 4.1.6 Stadtentwässerungsbetriebe Köln AöR, Stadtwerke Köln GmbH; Gründung und Beteiligung an der "KLAR GmbH" (Klärschlammverwertung am Rhein GmbH) 178/2021 - ungeändert beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: PFC-Allgemeinverfügungen zum Verbot der Gartenbrunnennutzung zu Bewässerungszwecken - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.2.1.1: PFC-Allgemeinverfügungen zum Verbot der Gartenbrunnennutzung zu Bewässerungszwecken - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.2.1.2: Änderungsantrag zu TOP 4.2.1, PFC - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.2.2: PFC-Belastung - Kölner Süden - zurückgestellt
+- TOP 4.2.2.1: PFC-Belastung Kölner Süden - zurückgestellt
+- TOP 4.2.3: Bewegungs-Parcours an der Jahnwiese - ungeändert beschlossen
+- TOP 4.2.4: Grüne Infrastruktur - Stadtgrün naturnah - Beweidungskonzept Äußerer Grüngürtel Süd - ungeändert beschlossen
+- TOP 4.2.5: Das Kölner Stadttauben-Modell - ungeändert beschlossen
+- TOP 4.2.6: Gestaltungsplanung des zweiten Bauabschnittes im Kooperationsgrabfeld auf Flur C des Kölner Westfriedhofes - ungeändert beschlossen
+- TOP 4.2.7: Zuwendung zur Erfassung von meteorologischen Daten und Ozonimmissionen durch die Universität zu Köln für ein langfristiges Umwelt-Monitoring in Köln - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes - ungeändert empfohlen
+- TOP 5.2: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - ungeändert empfohlen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Ausdehnung der Maßnahme "Hallo Nachbar, danke schön" auf drei neue Quartiere - Kenntnis genommen
+- TOP 7.2: Realisierung Antrag Jobrad für städtische Mitarbeitende, Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, FDP-Fraktion, Volt-Fraktion sowie der Ratsgruppe GUT, AN/0411/2021 - Kenntnis genommen
+- TOP -: zu 7.2 Beantwortung einer Anfrage der CDU-Fraktion zur Vorlage 0826/2021 (TOP 7.2) - Kenntnis genommen
+- TOP 7.3: Mitteilung - Monitoring Streuobstwiesen Köln - Kenntnis genommen
+- TOP 7.4: Vergabe der Stadtverschönerungsmittel 2021 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP -: zu 7.4 Vergabe der Stadtverschönerungsmittel Restmittel 2020 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 7.5: Bericht aus dem ämterübergreifenden Arbeitskreis zur Anpassung an den Klimawandel - Kenntnis genommen
+- TOP 7.6: Stadtklima- und Verschönerungsprogramm 2020 im Stadtbezirk Porz - Parkplatz Leidenhausen - Kenntnis genommen
+- TOP 7.7: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln Ossendorf - Kenntnis genommen
+- TOP 7.8: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Sanierung von Dach und Fassade der Trauerhalle Westfriedhof, Venloer Straße 1132, 50827 Köln - Nachfragen zu 1464/2020 - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: zu 8.2 und 8.3 Beantwortung der Fragen des SB Dr. Albach - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
