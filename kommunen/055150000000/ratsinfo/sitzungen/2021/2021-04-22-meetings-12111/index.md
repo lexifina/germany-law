@@ -1,0 +1,57 @@
+# Sitzung wurde abgesagt. 20.04.2021
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-04-22T17:00:00+02:00
+- Ende: 2021-04-22T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12111
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12111
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Schaffen eines sicheren Übergangs (Zebrastreifen, Ampel) an der Kreuzung Westfalenstraße/Hohe Ward/Zum Hiltruper See - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4: Beantwortung von Anfragen
+- TOP 5: Berichte
+- TOP 5.1: Weiterer Umgang mit der Skulptur "Rechnet mit uns Kindern in Berg Fidel" und ggfl. Ersatz oder Gestaltung
+- TOP 5.2: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.3: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.4: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.5: Geplante Veranlagungen in 2021 zu Erschließungsbeiträgen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6: Entscheidungen
+- TOP 6.1: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die bezirklichen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.2: Neugestaltung der öffentlichen Grünanlage "Begegnungsraum Berg Fidel" / Spielplatz "Pictoriusstraße" - Baubeschluss - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.3: Zuschüsse für Projekte und laufende Aufwendungen der Vereine, Vereinigungen und Verbände im Stadtbezirk Hiltrup; Stadtteilmarketing; Ortsbildgestaltung; Kulturarbeit - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.4: Skulpturen "Alltagsmenschen"; Standortfestlegung und weiteres Vorgehen
+- TOP 7: Anhörungen
+- TOP 7.1: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die überbezirklichen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.2: Erlass Naturdenkmalverordnung für den bebauten Bereich - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.3: Neuer § 8a KAG NRW (Straßenausbaubeiträge) und korrespondierendes Landesförderprogramm - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8: Anträge
+- TOP 8.1: Sauberkeit in Berg Fidel verbessern - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.2: Eine Straße nach Bezirksbürgermeister Joachim Schmidt benennen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.3: Trinkwasserspender für Hiltrup, Berg Fidel und Amelsbüren! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.4: Provisorischer Ausbau des Weges zwischen Am Berg Fidel und der Bushaltestelle Alte Reitbahn - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.5: Eine Mobilitätsstation für die Ostseite des Hiltruper Bahnhofs! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.6: Wegeverbindung zwischen Loddenweg und Im Hain ausbauen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.7: Mehr Sicherheit für Schul- und KiTa-Kinder sowie eine Verminderung der Lärm- und Abgasbelastung im Hiltruper Bahnhofsumfeld! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.8: Versorgung des Bezirkes mit Bibliotheksleistungen sicherstellen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.9: Ein Bach-Lehrpfad am Emmerbach in Hiltrup-Ost! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.10: Mögliche Kita-Standorte in Hiltrup-West prüfen! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.11: Berg Fidel barrierefreier, grüner, schöner und sauberer machen! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.12: Einrichtung eines Radweges auf der ortsauswärts gelegenen Seite des Osttors ab Abzweig Rohrkampstraße - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.13: Fahrradstraße von der Meinenkampstraße bis zur Prinzbrücke ("altes Osttor") - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.14: Piktogramme für Radweg auf großer Osttorbrücke - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.15: Tempo 50 für die Straßen Zur Börgerbrücke, Inkingrodde, Raringheide, Hartmannsbrook und Feuerstiege! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9: Anregungen
+- TOP 9.1: Bushaltestelle Gropiusstraße verkehrssicher ausbauen! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9.2: Mindestens 40.000 Bäume für Hiltrup, Berg Fidel und Amelsbüren! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9.3: Hiltrup-Mitte beim Knotenpunktsystem für Fahrräder berücksichtigen! - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9.4: Hansestraße: Querenden Fuß- und Radverkehr sicher gestalten) - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9.5: Durchgängig Tempo 30 auf dem Osttor bis zum Albersloher Weg - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 10: Verschiedenes
