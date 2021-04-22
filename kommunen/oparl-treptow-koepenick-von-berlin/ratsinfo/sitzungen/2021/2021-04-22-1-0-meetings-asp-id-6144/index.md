@@ -1,0 +1,51 @@
+# 54. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-04-22T18:00:00+02:00
+- Ende: 2021-04-22T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6144
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6144
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Sonderthema - erledigt
+- TOP 4.1: Anmeldung zum Investitionsprogramm 2021 bis 2025 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Beratung und Debatte zur Radverkehrsplanung - erledigt
+- TOP 4.3: Resolution zur Schöneicher-Rüdersdorfer-Straßenbahn - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Überweisungen aus der BVV - (offen)
+- TOP 5.1: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5.2: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 5.3: Verkehrskonzept für den 1. FC Union - vertagt
+- TOP 5.4: Raus aus dem Auto und rein in die Pfütze? Parkplatz im ehemaligen Fischerdorf Rahnsdorf befestigen! - im Ausschuss abgelehnt
+- TOP 5.5: Schulwegsicherheit rund um die Sophie-Brahe-Schule - mit Änderungen im Ausschuss beschlossen
+- TOP 5.6: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 5.7: Prüfung der Errichtung einer Fahrradhochstraße auf der Johannisthaler Chaussee - zurückgezogen
+- TOP 5.8: Radfahrfreundliches Pflaster statt Asphalt für die Straße Am Goldmannpark - zurückgezogen
+- TOP 5.9: Heidelberger Straße vom Durchgangsverkehr befreien - vertagt
+- TOP 5.10: Ausbau des Fahrradwegs in Neu-Venedig - vertagt
+- TOP 5.11: Kurzzeitparkplatz Altglienicke - vertagt
+- TOP 5.12: Radinfrastrukturanalyse vorlegen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.13: Bouchéstraße fußgänger- und fahrradfreundlich gestalten - vertagt
+- TOP 5.14: Herstellung eines befestigten Gehwegs im ehemaligen Fischerdorf Rahnsdorf - vertagt
+- TOP 5.15: Kiezblock Alt-Treptow - vertagt
+- TOP 5.16: Endlich geltendes Recht umsetzen – Baustellenumleitungen /-hinweise für Radfahrende im Bezirk schaffen - vertagt
+- TOP 5.17: Kreuzungen in Alt-Treptow sicherer machen - vertagt
+- TOP 5.18: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - vertagt
+- TOP 5.19: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - vertagt
+- TOP 5.20: Tempo 30 in der Dörpfeldstraße ermöglichen - vertagt
+- TOP 5.21: Vorrang für den ÖPNV in Bohnsdorf - vertagt
+- TOP 5.22: Freiflächen für Clubs temporär zur Verfügung stellen – mit Sicherheit und legal feiern - vertagt
+- TOP 5.23: Ohne Saft geht nix – mehr Ladesäulen für Treptow-Köpenick - vertagt
+- TOP 5.24: Errichtung eines Fuß- und Radweges entlang des Königsheideweges - vertagt
+- TOP 5.25: Temporäre Parkplätze während Baumaßnahmen - vertagt
+- TOP 5.26: Radweg auf der Brücke der A113 über den Britzer Verbindungskanal anlegen - vertagt
+- TOP 5.27: Schmollerplatz erlebbar machen - vertagt
+- TOP 5.28: Leitlinien der Beteiligung von Bürgerinnen und Bürgern für Treptow-Köpenick - vertagt
+- TOP 6: Verschiedenes - erledigt
