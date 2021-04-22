@@ -1,0 +1,68 @@
+# Sitzung wurde abgesagt. 21.04.2021
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-04-22T17:00:00+02:00
+- Ende: 2021-04-22T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12114
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12114
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage zu einer möglichen Bebauung der östlichen Seite der Osthofstraße - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 3.2: Antrag A-W/0002/2020 - Appelbreistiege radverkehrsfreundlicher gestalten - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 3.3: Anträge A-W/0029/2020 und A-W/0048/2020 - Geschwindigkeitsreduzierung für den Rüschhausweg - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 3.4: Sachstand illegale Baumfällungen in Mecklenbeck - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 3.5: Sachstand Nordumgehung Roxel - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4: Berichte
+- TOP 4.1: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4.2: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4.3: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4.4: Geplante Veranlagungen in 2021 zu Erschließungsbeiträgen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 4.5: 3. Gesamtschule Roxel - aktueller Stand
+- TOP 5: Entscheidungen
+- TOP 5.1: Verzicht auf die Benennung der Freizeit- und Grünanlage im Oxford-Quartier nach Emilie Koch - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.1.1: Benennung der Freizeit- und Grünfläche am Oxford Areal als Emilie-Koch-Park - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.2: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die bezirklichen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 5.3: Dorffeldstraße - Maßnahme zur Geschwindigkeitsreduzierung - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6: Anhörungen
+- TOP 6.1: Bebauungsplan Nr. 572 - Stellungnahmen - Satzung - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.2: Bebauungsplan Nr. 602: Stellungnahmen - Satzung - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.3: Städtebaulicher Wettbewerb "Nienberge - südlich Feldstiege" - Auslobung - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.4: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die überbezirklichen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.5: Querung des Dingbängerweges in Höhe des THC Münster e. V. - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.6: Plettendorfstraße / St. Lydia Kirche - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.7: 1.Kommunale Umsetzung des geänderten § 8a des Kommunalabgabengesetzes - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.8: Errichtungsbeschluss zum Neubau von kommunalen Funktionsgebäuden auf den Sportanlagen Dietrich-Bonhoeffer-Straße, Pleistermühlenweg und Arnheimweg - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.9: Masterplan Sentruper Höhe - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.10: Erweiterung der Mosaik-Schule in Münster zur vollen Dreizügigkeit, mit der Option zur Vierzügigkeit - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 6.11: Erlass Naturdenkmalverordnung für den bebauten Bereich - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7: Neue Anregungen/Anträge
+- TOP 7.1: Anregung an den Rat der Stadt Münster: Lebens- und Aufenthaltsqualität in den Aktiven Höfen im Oxford-Quartier erhöhen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.2: Radweg Am Hof Hesselmann als Teil der zentralen Mecklenbecker Radwegeverbindung optimieren - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.3: 100 Äpfelbäume für Mecklenbeck - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.4: Eine Streuobstwiese für Albachten - regional, saisonal, ungespritzt - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.5: Geschwindigkeitsmessungen und regelmäßige Geschwindigkeitskontrollen auf der Hülshoffstraße in Nienberge - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.6: Nutzung der alten Feuerwache an der Gievenbecker Reihe für die Zwecke der Internationalen Fahrradwerkstatt des Integrationsforums Münster e. V. - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.7: Begegnungs- und Bewegungsräume für Kinder und Jugendliche schaffen - Eine Pumptrack-Anlage für Roxel - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.8: Förderung der Elektromobilität - Aufbau von öffentlichen Ladestationen in Nienberge - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.9: Antrag an den Rat der Stadt Münster - Veloroute Altenberge-Münster (Vorlage V/0650/2020) - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.10: Infektionsschutz im Münsteraner Westen stärken - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.11: Förderung der Elektromobilität - Ladestationen für den Parkplatz am Mühlenhof - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.12: Geschwindigkeitsmessung auf der Redigerstraße (Stadtteil: Sentruper Höhe) - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.13: Fertigstellung des wegweisenden Verkehrsschilds für den Kreisverkehr Horstmarer Landweg/Austermannstraße auf dem Horstmarer Landweg - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.14: Zusätzlicher Bankstandort am Christoph-Bernhard-Graben - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 7.15: Fußweg links hinter dem Rölverdurchlass Richtung Waldstück zum Haus Rüschhaus - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 8.1: Lärmschutzwälle für Photovoltaikanlagen nutzen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.2: Gastronomie in Gievenbeck und anderen Stadtteilen - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.3: Geschwindigkeitsmessung Ramertsweg - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.4: Einrichtung eines zeitlich begrenzten Halteverbots auf der Straße Bernings Kotten - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 8.5: Maßnahmen zur Minimierung der Unfallgefährdung beim Abbiegen von "Am Braaken" auf die "Altenberger Straße" - keine Beschlussfassung wegen Sitzungsabsage
+- TOP 9: Verschiedenes
