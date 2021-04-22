@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Haupt- und Finanzausschusses und des Bauausschusses des Stadtrates der Stadt Montabaur (Videokonferenz) (2021-04-22)
+- Körperschaft: Stadt Montabaur
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2021-01BauA-75%7CMAnoe%7C2
