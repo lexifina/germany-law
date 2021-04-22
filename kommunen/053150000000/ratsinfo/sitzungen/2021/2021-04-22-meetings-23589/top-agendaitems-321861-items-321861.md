@@ -1,0 +1,8 @@
+# TOP -: Sachstand Kreisverkehr Dattenfelder Straße/Hans-Schulten-Straße in Köln-Brück
+
+- Sitzung: 4. Sitzung der Bezirksvertretung Kalk (2021-04-22)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/321861
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/151444
