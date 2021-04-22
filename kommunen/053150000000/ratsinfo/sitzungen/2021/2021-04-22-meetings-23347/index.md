@@ -1,0 +1,103 @@
+# 5. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-22T16:00:00+02:00
+- Ende: 2021-04-22T17:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23347
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23347
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817267.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817267.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817267.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Förderprogramm "Dritte Orte" - geändert beschlossen
+- TOP 3.2: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - zurückgestellt
+- TOP 3.3: Überweg für zu Fuß Gehende und Radfahrende über die Cäcilienstraße - geändert beschlossen
+- TOP 3.4: Benennung eines Mitgliedes der Bezirksvertretung Innenstadt zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - geändert beschlossen
+- TOP 3.5: Aufhebung des Bebauungsplans 66458/07 (664 Na 2/07)-Arbeitstitel: Enggasse/Auf dem Hunnenrücken/Tunisstraße in Köln-Altstadt/Nord - geändert beschlossen
+- TOP 3.5.1: Änderungsantrag zu 0284/2021, Enggasse/Auf dem Hunnenrücken/Tunisstraße - Änderungsantrag Die Linke - ungeändert beschlossen
+- TOP 3.6: Abbau von sieben Lichtsignalanlagen im Belgischen Viertel durch den Einsatz alternativer Betriebsformen - ungeändert beschlossen
+- TOP 3.7: Benennung eines Weges in Köln-Neustadt/Süd - ungeändert beschlossen
+- TOP 3.8: Baubeschluss für die Generalinstandsetzung des Perlengrabens zwischen Blaubach und der Severinsbrücke im Stadtbezirk Innenstadt sowie Freigabe von investiven Auszahlungsgsermächtigungen - hier: Finanzstelle - ungeändert beschlossen
+- TOP 3.9: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 3.10: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - ungeändert beschlossen
+- TOP 3.11: Straßenbaumkonzept Innenstadt - Alternative beschlossen
+- TOP 3.12: Vergabe der Stadtverschönerungsmittel 2021 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.13: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 3.14: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk A) über die Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 3.15: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.16: Namensgebung der Städtischen Katholischen Hauptschule Bülowstraße, derzeit noch Bülowstraße 90 in 50733 Köln (Nippes) - ungeändert beschlossen
+- TOP 3.17: Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2021 - ungeändert beschlossen
+- TOP 3.18: Genehmigung Dringlichkeitsentscheidung - Gem. Dringlichkeitsantrag - Blockierung der Einfahrt Altenheim Oberländer Wall 16 - 22 - ungeändert beschlossen
+- TOP 3.18.1: Blockierung der Einfahrt durch Falschparker am Altenheim Oberländer Wall 16 - 22, gem. Dringlichkeitsantrag Grüne, CDU, SPD, Die Linke, FDP, Die Partei und Klimafreunde - Sache ist erledigt
+- TOP 3.19: Genehmigung Dringlichkeitsentscheidung - Gem. Dringlichkeitsantrag - Sofortmaßnahmen im Bereich Poller Kirchweg - Am Schnellert - Alfred-Schütte-Allee - gem. Dringlichkeitsantrag Grüne, CDU, Die Linke, FDP und Klimafreunde - ungeändert beschlossen
+- TOP 3.19.1: Sofortmaßnahmen im Bereich Poller Kirchweg - Am Schnellert - Alfred-Schütte-Allee, gem. Dringlichkeitsantrag Grüne, CDU, Die Linke, FDP und Klimafreunde - Sache ist erledigt
+- TOP 3.20: Vergabe der Stadtverschönerungsmittel Restmittel 2020 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.21: Ersatzneubau der Kragplatte am Altstadtufer; Baubeschluss - geändert beschlossen
+- TOP 3.21.1: zu 3.21 * Ersatzneubau der Kragplatte am Altstadtufer; Baubeschluss - gem. Änderungsantrag Grüne, Linke, SPD, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 3.22: Aufstellung von zwei Gedenkstelen am Rosengarten im Volksgarten zu Ehren der Kölner Edelweißpiratinnen und Edelweißpiraten - ungeändert beschlossen
+- TOP 3.23: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil I - ungeändert beschlossen
+- TOP 3.24: Unterstützung der Konzeptionsphase Immobilien- und Standortgemeinschaft Severinstraße - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation Brüsseler Straße (AZ.: 02-1600-260/18) - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag - Parksituation Brüsseler Straße - Änderungsantrag Grüne - ungeändert beschlossen
+- TOP 4.2: Bügereingabe nach § 24 GO - Zusatzschilder Rheinauhafen - Az: 125/20 B - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Sicherung des restaurierten Severinsdenkmals an der Kirche St. Johann Baptist (Az.: 02-1600-277/19) - geändert beschlossen
+- TOP 4.4: Bürgereingabe nach § 24 GO – Gedenktafel für die Verstorbenen beim Bau der Severinsbrücke – AZ 46/20 - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Parkraumoptimierung in der Engelbertstraße - Sache ist erledigt
+- TOP 5.1.1.1: Gem. Änderungsantrag Engelbertstraße Parkraum, gem. Änderungsantrag Die Linke, Grüne und Klimafreunde - ungeändert beschlossen
+- TOP 5.1.2: Fahrradschutzstreifen Hohenzollernring Einbiegung in die Maastrichter Straße, Antrag SPD - zurückgestellt
+- TOP 5.1.3: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.1.4: Verkehrsführung im Bereich Friesenstraße / Friesenwall, Antrag Grüne - zurückgestellt
+- TOP 5.1.4.1: Änderungsantrag - Verkehrsführung im Bereich Friesenstraße / Friesenwall - Änderungsantrag FDP - zurückgestellt
+- TOP 5.1.5: Lückenschluss der verkehrsberuhigten Bereich im Bereich Severinswall, An der Bottmühle, Karl-Korn-Straße und Dreikönigenstraße, Zwirnerstraße - sowie Öffnung der Einbahnstraßen Dreikönigenstraße und An der Bottmühle für den Radverkehr, Antrag Grüne - ungeändert beschlossen
+- TOP 5.1.6: Autofreie Altstadt - Umsetzung weiterer kurzfristiger Maßnahmen, Antrag Grüne - ungeändert beschlossen
+- TOP 5.1.7: Reste der Stollwerck-Fabrik erhalten/sanieren, Antrag SPD - ungeändert beschlossen
+- TOP 5.1.8: Verbesserung der Rad- und Fußverkehrsführung an der Bahnunterführung Bachemer Straße/Lindenstraße, gem. Antrag Klimafreunde, SPD, Die Linke und FDP - geändert beschlossen
+- TOP 5.1.8.1: Anderungsantrag Radschnellweg Bachemer Straße 0021/2021, Änderungsantrag Die Linke - ungeändert beschlossen
+- TOP 5.1.8.2: Gem. Änderungsantrag Verbesserung der Rad- und Fußverkehrsführung an der Bahnunterführung Bachemer Straße / Lindenstraße, gem. Änderungsantrag FDP und CDU - endgültig abgelehnt
+- TOP 5.1.9: Anbringen einer Anzeige der Zeit bis zum Aufbrauchen des verbleibenden CO2-Budgets zur Einhaltung des 1,5-Grad-Zieles, gem. Antrag Klimafreunde und Grüne - ungeändert beschlossen
+- TOP 5.1.10: Vermeidung von Radparken auf Mittelalleen/Grünanlagen, Antrag Grüne - ungeändert beschlossen
+- TOP 5.1.11: Zebrastreifen Spichernstr./Kamekestr., Antrag Grüne - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Verkehrsberuhigung und Begrünung Kaesenstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Variantenprüfung Autofreie Trankgasse; gem Antrag Grüne, Die Linke, Die Partei und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.3: Nächstmögliche Aufstellung von Messgeräten an der Bastei, Nähe , gem. Antrag CDU und FDP - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Sachstand Sanierung Fort X (Neustadt/Nord) - Sache ist erledigt
+- TOP 6.1.2.1: Sachstand Sanierung Fort X (Neustadt/Nord) - Kenntnis genommen
+- TOP 6.1.3: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.4: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad, Anfrage Grüne - Sache ist erledigt
+- TOP 6.1.4.1: Beantwortung der Anfrage: Schulweg- und Radschulwegpläne bzw. Schulwegempfehlung für das Rad - Kenntnis genommen
+- TOP 6.1.5: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.1.6: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sachstandsanfrage zu zwei Spielplätzen, Anfrage CDU - zurückgestellt
+- TOP 6.2.2: Baulücke Richard-Wagner-Straße, Anfrage Die Linke - zurückgestellt
+- TOP 6.2.3: Sachstand Ausbau der Offenen Kinder- und Jugendarbeit im Bürgerhaus Stollwerck (Altstadt/Süd), gem. Anfrage Grüne und SPD - Sache ist erledigt
+- TOP 6.2.3.1: Sachstand Ausbau der Offenen Kinder- und Jugendarbeit im Bürgerhaus Stollwerck (Altstadt/Süd - Kenntnis genommen
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Interimsstandort für Schulen im Agnesviertel (Neustadt/Nord) während der Sanierung - zu AN/0955/2020 - Kenntnis genommen
+- TOP 9.2: Antrag CDU / Beschluss AN/0947/2020 BV1 vom 26.08.2020 Abgase des Holzkohleausstoßes in der Innenstadt - Kenntnis genommen
+- TOP 9.3: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 9.4: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kostenerhöhung - Kenntnis genommen
+- TOP 9.5: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 9.6: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - Kenntnis genommen
+- TOP 9.7: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 9.8: Parkplatzentfall Zülpicher Platz - Kenntnis genommen
+- TOP 9.9: Immobilien- und Standortgemeinschaft Severinstraße - Kenntnis genommen
+- TOP 9.10: Neue Verkehrsführung im Bereich der Straße Eigelstein - Kenntnis genommen
