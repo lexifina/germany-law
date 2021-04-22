@@ -1,0 +1,52 @@
+# Bezirksvertretung Mitte (6. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-04-22T17:00:00+02:00
+- Ende: 2021-04-22T20:12:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf6uckl1btEthEeLOAcjSAI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6464
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbUVA0-KHSw4wHU1zD8ytybCtZ96OvTpxWuwCnxuelt/Bekanntmachung_Bezirksvertretung_Mitte_22.04.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVlcVItKYPt1PEEOx3qhDtF8E0-e9UXUbmraa49jIVtl/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_22.04.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Maskenpflicht im Umfeld von Kindertageseinrichtungen
+- TOP 1.2: Integrativer Spielplatz in der Grünanlage Dickenbusch (Investitionspakt Soziale Integration im Quartier NRW 2018)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 4. Sitzung der Bezirksvertretung Mitte am 01.02.2021
+- TOP 4.: Protokoll über die 5. Sitzung der Bezirksvertretung Mitte am 04.03.2021
+- TOP 5.: Pflege des Coppelparks durch den Verein Wir in der Hasseldelle - mündlicher Bericht -
+- TOP 6.: Sachstand Aufstellung von Fahrradboxen und Ladestationen in der Innenstadt
+- TOP 7.: Toilettenanlagen in der Innenstadt Erstellung eines Konzeptes - mündlicher Bericht -
+- TOP 8.: Antrag zur Fällung von bis zu 13 Bäumen am Gymnasium Schwertstraße
+- TOP 9.: Auszüge aus dem Sozialbericht 2020 für den Bezirk Mitte Antrag der CDU-Bezirksfraktion vom 07.04.2021
+- TOP 10.: Sauberkeit und Ordnung im öffentlichen Raum Antrag der CDU-Bezirksfraktion vom 07.04.2021
+- TOP 11.: Kreativwettbewerb an Solinger Schulen im Stadtbezirk Mitte „Wir haben was auf dem Kasten!“ zur Verschönerung von Stromkästen Antrag der CDU-Bezirksfraktion vom 07.04.2021
+- TOP 12.: Anforderungen an die Oberflächenbeschaffenheit von Fuß- und Radwegen im Stadtgebiet und am Stadtrand Gemeinsamer Antrag der Bezirksfraktionen der SPD und Bündnis 90/Die Grünen vom 08.04.2021
+- TOP 13.: Allgemeine Richtlinien des Rates für die Bezirksvertretungen der Klingenstadt Solingen
+- TOP 14.: Hauptsatzung der Klingenstadt Solingen
+- TOP 15.: Besetzung der Grün- und Wegekommission
+- TOP 16.: Freie Budgetmittel 2021
+- TOP 17.: Verschiedenes
+- TOP 17.1: Mitteilungen der Verwaltung
+- TOP 17.1.1: Durchführung eines stadtweiten Dreck-weg-Tages
+- TOP 17.1.2: Situation Clemens-Galerien
+- TOP 17.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 3. Sitzung der Bezirksvertretung Mitte am 21.01.2021
+- TOP 4.: Protokoll über die 5. Sitzung der Bezirksvertretung Mitte am 04.03.2021
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
