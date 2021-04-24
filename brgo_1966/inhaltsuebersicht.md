@@ -26,11 +26,18 @@
 |  |  |  | Fragerecht | § 19 |
 |  |  |  | Leitung der Sitzung | § 20 |
 |  |  |  | Beteiligung des Präsidenten an den Verhandlungen | § 21 |
-|  |  |  | Ordnungsgewalt des Präsidenten | § 22 |
+|  |  |  | Ordnungsbefugnis der Präsidentin oder des Präsidenten | § 22 |
+|  |  |  | Dauer der Rede | § 22a |
+|  |  |  | Sachruf | § 22b |
+|  |  |  | Ordnungsruf | § 22c |
+|  |  |  | Entziehung des Wortes | § 22d |
+|  |  |  | Ausschluss von Mitgliedern des Bundesrates | § 22e |
+|  |  |  | Einspruch gegen Ordnungsmaßnahmen | § 22f |
+|  |  |  | Unterbrechung der Sitzung | § 22g |
 |  | 3. | Der Geschäftsgang im Bundesrat |  |
 |  |  |  | Feststellung und Durchführung der Tagesordnung | § 23 |
-|  |  |  | Verhandlungen | § 24 |
-|  |  |  | Berichterstattung | § 25 |
+|  |  |  | Redebeiträge | § 24 |
+|  |  |  | (weggefallen) | § 25 |
 |  |  |  | Anträge und Empfehlungen | § 26 |
 |  |  |  | Anzahl der Stimmen | § 27 |
 |  |  |  | Beschlußfähigkeit | § 28 |
@@ -48,13 +55,12 @@
 |  |  |  | Beratung | § 39 |
 |  |  |  | Teilnahme und Fragerecht | § 40 |
 |  |  |  | Berichterstattung im Ausschuß | § 41 |
-|  |  |  | Beschlüsse | § 42 |
+|  |  |  | Beschlüsse, Stimmberechtigung | § 42 |
 |  |  |  | Umfrageverfahren | § 43 |
 |  |  |  | Sitzungsniederschrift | § 44 |
 |  |  |  | Mitteilung der Empfehlungen der Ausschüsse | § 45 |
 | IVa. Das Verfahren in Angelegenheiten der Europäischen Union |  |
-|  |  |  | Zuweisung von Unterrichtungen über
-Vorhaben im Rahmen der Europäischen Union an die Ausschüsse | § 45a |
+|  |  |  | Zuweisung von Unterrichtungen über Vorhaben im Rahmen der Europäischen Union an die Ausschüsse | § 45a |
 |  |  |  | Europakammer | § 45b |
 |  |  |  | Vorsitzende der Europakammer | § 45c |
 |  |  |  | Zuständigkeit der Europakammer | § 45d |

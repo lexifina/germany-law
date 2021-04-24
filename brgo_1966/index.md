@@ -61,13 +61,20 @@
 - [§ 19 Fragerecht](0019.md)
 - [§ 20 Leitung der Sitzung](0020.md)
 - [§ 21 Beteiligung des Präsidenten an den Verhandlungen](0021.md)
-- [§ 22 Ordnungsgewalt des Präsidenten](0022.md)
+- [§ 22 Ordnungsbefugnis der Präsidentin oder des Präsidenten](0022.md)
+- [§ 22a Dauer der Rede](0022a.md)
+- [§ 22b Sachruf](0022b.md)
+- [§ 22c Ordnungsruf](0022c.md)
+- [§ 22d Entziehung des Wortes](0022d.md)
+- [§ 22e Ausschluss von Mitgliedern des Bundesrates](0022e.md)
+- [§ 22f Einspruch gegen Ordnungsmaßnahmen](0022f.md)
+- [§ 22g Unterbrechung der Sitzung](0022g.md)
 
 ### 3. Der Geschäftsgang im Bundesrat
 
 - [§ 23 Feststellung und Durchführung der Tagesordnung](0023.md)
-- [§ 24 Verhandlungen](0024.md)
-- [§ 25 Berichterstattung](0025.md)
+- [§ 24 Redebeiträge](0024.md)
+- [§ 25 (weggefallen)](0025.md)
 - [§ 26 Anträge und Empfehlungen](0026.md)
 
 #### - *Ku Artikel 51 Abs. 2 GG *KE
@@ -103,7 +110,7 @@ des Grundgesetzes](0031.md)
 
 - [§ 40 Teilnahme und Fragerecht](0040.md)
 - [§ 41 Berichterstattung im Ausschuß](0041.md)
-- [§ 42 Beschlüsse](0042.md)
+- [§ 42 Beschlüsse, Stimmberechtigung](0042.md)
 - [§ 43 Umfrageverfahren](0043.md)
 - [§ 44 Sitzungsniederschrift](0044.md)
 - [§ 45 Mitteilung der Empfehlungen der Ausschüsse](0045.md)
