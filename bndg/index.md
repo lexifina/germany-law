@@ -58,3 +58,18 @@
 ## Abschnitt 7 Schlussvorschriften
 
 - [§ 36 Übergangsregelung](0036.md)
+- [(XXXX) §§ 37 bis 40 (zukünftig in Kraft)](xxxx-37-bis-40.md)
+- [§ 41 Unabhängiger Kontrollrat](0041.md)
+- [§ 42 (zukünftig in Kraft)](0042.md)
+- [§ 43 Besetzung des gerichtsähnlichen Kontrollorgans; Wahl der Mitglieder; Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Unabhängigen Kontrollrates](0043.md)
+- [§ 44 Rechtsstellung und Ernennung der Mitglieder des gerichtsähnlichen Kontrollorgans](0044.md)
+- [§ 45 Amtszeit der Mitglieder des gerichtsähnlichen Kontrollorgans; Ruhestand](0045.md)
+- [§ 46 Besoldung der Mitglieder des gerichtsähnlichen Kontrollorgans](0046.md)
+- [§ 47 Weitere Rechte und Pflichten der Mitglieder des gerichtsähnlichen Kontrollorgans](0047.md)
+- [§ 48 Amtsbezeichnungen](0048.md)
+- [§ 49 Spruchkörper des gerichtsähnlichen Kontrollorgans; Beschlussfassung](0049.md)
+- [§ 50 Leitung des administrativen Kontrollorgans](0050.md)
+- [(XXXX) §§ 51 und 52 (zukünftig in Kraft)](xxxx-51-und-52.md)
+- [§ 53 Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates](0053.md)
+- [§ 54 Geheimhaltung; Aussagegenehmigung](0054.md)
+- [(XXXX) §§ 55 bis 62 (zukünftig in Kraft)](xxxx-55-bis-62.md)

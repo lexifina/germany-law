@@ -110,7 +110,7 @@ Stoffliste Nummer 1:
 Stofflisten Nummer 2 bis 4
 (weggefallen)
 Stoffliste Nummer 5:
-| UN-Nummer | Klasse undKlassifizierungscode | Verpackungs-gruppe | Benennung und Beschreibung |
+| UN- Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
 | 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
 | 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
 | 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |

@@ -84,13 +84,13 @@
 5.17 Während des Transports ist die Einfüllöffnung der Pfannen mit einem Deckel dicht zu verschließen.
 Anhang 1
 Bild 1
-[Bild: bgbl1_2019_j0258-1_0010.jpg]
+[Bild: bgbl1_2021_j0481-1_0010.jpg]
 Bild 2
-[Bild: bgbl1_2019_j0258-1_0020.jpg]
+[Bild: bgbl1_2021_j0481-1_0020.jpg]
 Anhang 2
 Schutzeinrichtung „Kragen“
-[Bild: bgbl1_2019_j0258-1_0030.jpg]
+[Bild: bgbl1_2021_j0481-1_0030.jpg]
 Schutzeinrichtung „Abweiser“
-[Bild: bgbl1_2019_j0258-1_0040.jpg]
+[Bild: bgbl1_2021_j0481-1_0040.jpg]
 Schutzeinrichtung „Käfig“
-[Bild: bgbl1_2019_j0258-1_0050.jpg]
+[Bild: bgbl1_2021_j0481-1_0050.jpg]
