@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-26T17:04:00+02:00
+- Ende: 2021-04-26T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23664
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23664
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Controllingbericht zum 1. Gleichstellungsplan für 2019 - 2023 (zurückgestellt aus der Sitzung vom 08.03.2021; bitte halten Sie Ihre Unterlagen bereit) - ohne Votum in nachfolgende Gremien
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mdl. Anfrage des RM Cremer zum Leitfaden für eine wertschätzende Kommunikation bei der Stadt Köln - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mdl. Anfrage der FDP-Fraktion betreffend "Standesamtliche Trauungen in Köln" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zum Antrag AN/1157/2020 - Kölner Ordnungsdienst darf nicht an den Stadtrand verlagert werden - Kenntnis genommen
+- TOP 4.2: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - zurückgestellt
+- TOP 4.3: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im Jahr 2020 - Kenntnis genommen
+- TOP 4.4: Transparenzbericht 2020 zur Verwaltungsreform #wirfürdiestadt und Innovationsplattform innovative-stadt.koeln - zurückgestellt
+- TOP 4.5: Mitteilung des Personal- und Verwaltungsmanagements zu den Themen Personalmarketing- und Personalgewinnungsmaßnahmen - Kenntnis genommen
+- TOP 4.6: Jahresbericht über die Zugriffszahlen von stadt.koeln in 2020 - Kenntnis genommen
+- TOP 4.7: Bußgeldkatalog der Stadt Köln zur Ahndung von Verstößen gegen die Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - Kenntnis genommen
+- TOP 4.8: Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud - zurückgestellt
+- TOP 4.8.1: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 7. April 2021 - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Videoüberwachung am Ebertplatz" (zurückgestellt aus den Sitzungen vom 31.08.2020, 25.01.2021 und 08.03.2021; bitte halten Sie die Unterlagen bereit)
+- TOP 6.2: Anfrage der FDP-Fraktion betreffend "Bereitstellung von Räumen für Kölner Schiedsleute" (zurückgestellt aus der Sitzung vom 08.03.2021; bitte halten Sie die Unterlagen bereit)
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU-Fraktion, FDP-Fraktion, Volt-Fraktion und Ratsgruppe GUT betreffend "Realisierung Antrag Jobrad für städtische Mitarbeitende" (zurückgestellt aus der Sitzung vom 08.03.2021)
+- TOP -: Realisierung Antrag Jobrad für städtische Mitarbeitende, Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, FDP-Fraktion, Volt-Fraktion sowie der Ratsgruppe GUT, AN/0411/2021 - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU Fraktion und Volt-Fraktion betreffend "Personalbericht 2019/2020"
+- TOP -: Beantwortung von Anfragen gem. § 4 der Geschäftsordnung des Rates zum Personalbericht 2019/2020 - Kenntnis genommen
+- TOP -: Anfrage der Fraktionen Grüne, CDU und Volt gem, § $ der Geschäftsordnung des Rates, AN/0410/2021 - Personalbericht 2019/2020 - Kenntnis genommen
+- TOP 6.5: Anfrage der AfD betreffend "Ordnungsmaßnahmen in der Corona Pandemie"
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0889/2021 der AfD-Fraktion - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der FDP-Fraktion betreffend: "Samstagstrauung an Ambienteorten"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Herstellung von Barrierefreiheit auf Kölner Gehwegen - Sitzen statt Parken – Außengastronomie auf Stellplätzen" (zurückgestellt aus der Sitzung 08.03.2021; bitte halten Sie die Unterlagen bereit)
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2021 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderungsverordnung zum Kölner Taxitarif - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Bedarfsfeststellung für ein Assessment Center - ungeändert beschlossen
+- TOP 10.3: Erweiterung des bisherigen Projektes "Bleiberechstperspektiven für langjährig geduldete Menschen in Köln" zu Programm "Bleibeperspektiven in Köln" - ungeändert beschlossen
+- TOP 10.4: Platzhalter, ehemalig: Controllingbericht zum 1. Gleichstellungsplan für 2019 - 2023 (zurückgestellt aus der Sitzung vom 08.03.2021; bitte halten Sie Ihre Unterlagen bereit) - Übergang zum nächsten Tagesordnungspunkt
+- TOP 10.5: Besetzung der Ausländerrechtlichen Beratungskommission (ABK) für die Wahlperiode 11-2020 - 2025 - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Satzung zur rückwirkenden Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren vom 19. Dezember 2012 - ungeändert beschlossen
+- TOP 10.7: Änderung der Hauptsatzung, hier: Erweiterung der Entsendung sachkundiger Einwohner*innen durch die Seniorenvertretung (Wirtschaftsausschuss, Digitalisierungsausschuss, Ausschuss Allgemeine Verwaltung und Rechtsfragen sowie Gleichstellungsausschuss) - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Bedarfsfeststellungsbeschluss im Zuge des erhöhten Risikomanagements der Stadt Köln für die Silvesterfeiern in den Jahren 2021 bis 2024 und Vergabe der Leistungen - ungeändert beschlossen
+- TOP 10.9: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“ - ungeändert beschlossen
+- TOP 10.10: Live-Stream attraktiver gestalten - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Erschließung von alternativen Spielstätten: Umsetzung Konzept zur Förderung des Open-Air-Angebots sowie Corona-Zwischennutzungfonds 2021 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
