@@ -1,0 +1,56 @@
+# 49. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt - Die Sitzung findet im VIDEOCALL statt. Die Zugangsdaten entnehmen Sie bitte dem INFOBLATT Videocall
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-04-26T17:00:00+02:00
+- Ende: 2021-04-26T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6385
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6385
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=377479
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung
+- TOP 2: Genehmigung vorliegender Protokolle
+- TOP 3: Wahl einer Schriftführerin/ eines Schriftführers (Vorschlagsrecht Fraktion der SPD)
+- TOP 4: Präsentation Fahrradstraßen im Bezirk
+- TOP 5: Bericht aus der Verwaltung
+- TOP 6: Anträge
+- TOP 6.1: Umbau der Grunewaldstraße zwischen Kleistpark und Bamberger Straße
+- TOP 6.2: Aufwertung Grünflächen Hohenstaufenstraße 1-2
+- TOP 6.3: Lets Dance - Andenken an David Bowie in Schöneberg
+- TOP 6.4: Mülleimer im Grünstreifen Bundesring wieder aufstellen
+- TOP 6.5: Die Kunstwerke im öffentlichen Raum im Bezirk Tempelhof-Schöneberg erhalten und pflegen
+- TOP 6.6: Neue Bäume für die Fritz-Reuter-Straße
+- TOP 6.7: Sichere Radwegführung vor dem Rathaus Schöneberg
+- TOP 6.8: Aufwertung der Grünanlage am Grazer Platz
+- TOP 6.9: Amphibien schützen - Grüntenteich und kleinen Karpfenpfuhl zügig wiederherstellen
+- TOP 6.10: Bürgerschaftliches Engagement fördern – „Pflegepatenschaften“ für Grünflächen und Straßenbäume aktiv bewerben und unbürokratisch ermöglichen
+- TOP 6.11: Straßenfeste auf Tempelhof-Schöneberger Straßen und Plätzen nach Corona ermöglichen
+- TOP 6.12: Mehr Elektromobilität: Ladestationen für E-Bikes
+- TOP 6.13: Mehr Bäume für die Heilandsweide und die Grünanlage rund um die Sportanlage Marienfelde
+- TOP 7: Mitteilungen zur Kenntnisnahme
+- TOP 7.1: Radverkehrsanlage Tempelhofer Damm
+- TOP 7.2: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz - Verkehrsversuch mit Radverkehrsanlagen auf dem Tempelhofer Damm
+- TOP 7.3: Bericht über den Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung innderhalb des S-Bahn-Rings
+- TOP 7.4: Verkehrskonzept für Sanierungsphasen am Tempelhofer und Mariendorfer Damm
+- TOP 7.5: Rad- und fußverkehrsfreundlicher Knoten Südwestkorso, Bundesallee, Varziner Straße
+- TOP 7.6: Standardisierung für Verkehrsberuhigungen
+- TOP 7.7: Tägliche Staubildung vermeiden – Ampelschaltung optimieren
+- TOP 7.8: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm
+- TOP 7.9: Spielplatzanlage Belziger Straße nahe der Vorbergstraße besser vor Verschmutzung schützen
+- TOP 7.10: Lichtsignalanlage Tempelhofer Damm / Peter-Strasser-Weg
+- TOP 7.11: Größere Baumscheiben für Straßenbäume
+- TOP 7.12: Grünanlagen im Zeichen der Klimaerwärmung
+- TOP 7.13: Zweigleisiger S-Bahnausbau nach Blankenfelde endlich bestellen und bauen
+- TOP 7.14: Ortshinweisschilder für ein sichtbares Lichtenrade
+- TOP 7.15: Umrüstung der Gasleuchten in der Manfred-von Richthofen-Straße auf LED
+- TOP 7.16: Kinder, Radfahrer und Fußgänger bei Einrichtung der Umleitungsstrecke für den ersten Bauabschnitt der Bahnhofstraße schützen
+- TOP 7.17: Sicherer über die Wünsdorfer Straße
+- TOP 7.18: Änderung der Ampelschaltung am Prellerweg Ecke Sembritzkistraße
+- TOP 7.19: Aufbau eines bezirklichen Kompensationsflächenkatasters
+- TOP 8: Verschiedenes
+- TOP 8.1: Nächster Termin 31.05.2021
