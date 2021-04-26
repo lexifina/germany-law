@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-26T16:00:00+02:00
+- Ende: 2021-04-26T16:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23285
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23285
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817505.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817505.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00817505.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Bürgereingabe gem. § 24 GO, betr.: Falschparker auf den Nebenanlagen Berrenrather Straße (Az.: 02-1600-195/20) - geändert beschlossen
+- TOP 5.1.1.1: Änderungsantrag zu 5.1 - ungeändert beschlossen
+- TOP 5.1.2: Bürgereingabe gem. § 24 GO, betr.: Modaler Filter Fahrradstraße Weyertal (Az.: 02-1600-01/21) - zurückgestellt
+- TOP 5.1.3: Bürgereingabe gem. § 24 GO, betr.: Dauerhafte Anordnung der Einbahnstraßenregelung auf der Joseph-Stelzmann-Straße (Az.: 02-1600-87/20) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Zülpicher Straße - ungeändert beschlossen
+- TOP 8.1.2: Durchfahrt im Kamp - ungeändert beschlossen
+- TOP 8.1.3: Zebrastreifen Clarenbachstraße - ungeändert beschlossen
+- TOP 8.1.4: Stellfläche E-Scooter - ungeändert beschlossen
+- TOP 8.1.5: Ankauf Häuser Friedrich-Engels-Str. - ungeändert beschlossen
+- TOP 8.1.6: Ladestation Bezirksrathaus - ungeändert beschlossen
+- TOP 8.1.7: Schule Salzburger Weg - ungeändert beschlossen
+- TOP 8.1.8: Verlängerung Linie 13 - endgültig zurückgezogen
+- TOP 8.1.9: MachbarkeitsstudieTangentialverbindung Linie 14 - ungeändert beschlossen
+- TOP 8.1.10: Folgeantrag Römergrab - ungeändert beschlossen
+- TOP 8.1.11: Fahrradständer und Bücherschrank Widdersdorf - ungeändert beschlossen
+- TOP 8.1.12: Bezirksorientierte Mittel 01/2021 - ungeändert beschlossen
+- TOP 8.1.13: Dringlichkeitsantrag Landschaftspark Marsdorf - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Grüne Infrastruktur - Stadtgrün naturnah - Beweidungskonzept Äußerer Grüngürtel Süd - geändert beschlossen
+- TOP 9.1.1.1: Ergänzungsantrag - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - ungeändert beschlossen
+- TOP 9.2.2: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 9.2.3: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 9.2.4: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: KinderReich Rheinland gGmbH - zurückgestellt
+- TOP 9.2.5: Bewegungs-Parcours an der Jahnwiese - geändert beschlossen
+- TOP 9.2.5.1: Änderungsantrag zu TOP 9.2.5 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.2.2: Prüfantrag zur Aufstockung der Taktzeiten der KVB Buslinie 144 und Errichtung eines weiteren Haltepunktes - Kenntnis genommen
+- TOP 11.2.3: Optimierung der Verkehrssituation in Widdersdorf - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Monitoring Streuobstwiesen Köln - Kenntnis genommen
+- TOP 11.3.2: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 11.3.3: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - Kenntnis genommen
+- TOP 11.3.4: Sportentwicklungsplanung - Modellprojekt „Innovation durch öffentliche Sportangebote“ - Kenntnis genommen
+- TOP 11.3.5: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
