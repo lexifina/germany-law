@@ -1,0 +1,84 @@
+# 5. Sitzung der Bezirksvertretung Ehrenfeld - Die Sitzung fällt aus!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-26T00:00:00+02:00
+- Ende: 2021-04-26T00:00:00+02:00
+- Ort: Die Sitzung fällt aus!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23103
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23103
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Herkulesstraße (Az.: 02-1600-07/2020) - zurückgestellt
+- TOP 3.1.1: Änderungsantrag der SPD-Fraktion zu TOP 3.1, betr.: Bürgereingabe Herkulesstraße - zurückgestellt
+- TOP 3.1.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu Top 3.1 betr.: Bürger*inneneingabe Herkulesstraße - zurückgestellt
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr. Überarbeitung des Umbaus der Vogelsanger Straße in Köln-Ehrenfeld (Az.: 02-1600-192/20) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Situation in Hüttenstraße - zurückgestellt
+- TOP 6.1.1: Verbesserung der Situation in der Hüttenstraße - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion, betr.: Sachstand ehemalige Hauptverwaltung Herbol - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Sachstand Konzeptvergabe Alpenerstraße 4-6 - zurückgestellt
+- TOP 6.3.1: Anfrage der SPD-Fraktion zum Sachstand Konzeptvergabe Alpenerstraße 4-6 - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Die Linke/Die Partei, betr.: Baumfällungen im Wassermannpark - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Die Linke/Die Partei, betr.: Hintergründe zur Lindenthaler Gesamtschule Wasseramselweg im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Die Linke/Die Partei, betr.: Welche Bedeutung hat das Wohnraumbedarfgutachten für den Stadtbezirk Ehrenfeld? - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke/Die Partei, betr.: Bauvorhaben Äußere Kanalstraße 86 - zurückgestellt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Schlangenbildung auf der Venloer Straße - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Die Linke/Die Partei BV 4, betr.: Boden behalten? Wie haben sich die Verkäufe öffentlichen Grund und Bodens entwickelt? - zurückgestellt
+- TOP 7.5: Anfrage der SPD-Fraktion, betr.: Notaufnahme für Geflüchtete Herkulesstraße 38-42 - zurückgestellt
+- TOP 7.5.1: Notaufnahme für Geflüchtete Herkulesstraße 38-42 - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Beschleunigung Bebauungsplanverfahren Heliosgelände - zurückgestellt
+- TOP 8.2: Antrag der Fraktion Die Linke/Die Partei, betr.: Lebenswertes Neuehrenfeld bewahren – Verdrängung frühzeitig identifizieren und verhindern! - zurückgestellt
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Gasspeicher der RheinEnergie, Maarweg - zurückgestellt
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Generalsanierung Vogelsanger Straße an der Heliosschule vor 2024 - zurückgestellt
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Grundstück der Fa. Max Becker GmbH und Co KG / Widdersdorferstraße und Maarweg - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Zielbildprozess für das Quartier zwischen Nippes und Neuehrenfeld mit Einrichtung eines Entwicklungsbeirats „LiebIG“ - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Nutzung des städtischen Grundstückes Herkulesstraße 38-42 als Schulstandort - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Verbreiterung der Kurve Dohlenweg Köln-Vogelsang - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Radverkehrskonzept Ehrenfeld - Radverkehrshauptnetz - zurückgestellt
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Änderungsantrag der SPD-Fraktion, betr.: Radverkehrskonzept - zurückgestellt
+- TOP 9.2: Planungsbeschluss für die Umgestaltung der Vogelsanger Straße zwischen Oskar-Jäger-Straße und Ehrenfeldgürtel - zurückgestellt
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 9.2, betr.: Umbau Vogelsanger Straße - zurückgestellt
+- TOP 9.3: Baubeschluss für den barrierefreien Umbau der Haltestelle Hugo-Eckener-Straße im Stadtbezirk Ehrenfeld auf der KVB-Linie 127 - zurückgestellt
+- TOP 9.4: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept Heliosgelände in Köln-Ehrenfeld Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorga-ben zur Ausarbeitung des Bebauungsplan-Entwurfes - zurückgestellt
+- TOP 10.1.1: Änderungsantrag der SPD-Fraktion zu TOP 10.1, betr..: Vorgabenbeschluss Heliosgelände - zurückgestellt
+- TOP 10.1.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 10.1, betr.: Vorgabenbeschluss Heliosgelände - zurückgestellt
+- TOP 10.2: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - zurückgestellt
+- TOP 10.3: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 10.4: Kölner Lebenslagenbericht - zurückgestellt
+- TOP 10.5: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 10.6: Gestaltungsplanung des zweiten Bauabschnittes im Kooperationsgrabfeld auf Flur C des Kölner Westfriedhofes - zurückgestellt
+- TOP 10.7: Fortsetzung der Gemeinwesenarbeit in den bestehenden Quartieren auf der Basis des neu entwickelten Förderprogramms - zurückgestellt
+- TOP 10.8: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Bepflasterung der neuen Baumscheiben an der Vogelsanger Straße - zurückgestellt
+- TOP 12.2: Starke Veedel – Starkes Köln - zurückgestellt
+- TOP 12.3: Monitoring Streuobstwiesen Köln - zurückgestellt
+- TOP 12.4: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - zurückgestellt
+- TOP 12.5: Beantwortung einer Anfrage der Ratsgruppe GUT AN/0361/2021: Schlachthofgelände – neue Perspektiven? - zurückgestellt
+- TOP 12.6: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln Ossendorf - zurückgestellt
+- TOP 12.7: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - zurückgestellt
+- TOP 12.8: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - zurückgestellt
+- TOP 12.9: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 12.10: Entfernung der Modalen Filter (Poller) an der Ecke Stammstraße/Körnerstraße - zurückgestellt
+- TOP 12.11: Entfernung vom Zebrastreifen auf der Nußbaumerstraße - zurückgestellt
+- TOP 12.12: Temporäre Spielstraßen - zurückgestellt
+- TOP 13: mündliche Anfragen
