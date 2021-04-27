@@ -1,0 +1,53 @@
+# Bezirksvertretung Gräfrath (5. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-04-27T17:00:00+02:00
+- Ende: 2021-04-27T20:50:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWUkt81jI6nYJs2fF7zgyY8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6437
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQy9zOqhwOr9IKy1vR9LDvozwljwivYjPVi9wzEKO2ch/Bekanntmachung_Bezirksvertretung_Graefrath_27.04.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaLVb3ZqjY7XwmXjx3uDFsQ593ng-5ZdhOkUdbFPCHFT/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_27.04.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Bodenaufbereitungsanlage Wuppertal-Vohwinkel
+- TOP 1.2: Zustand Nümmener Bach und Dycker Teiche
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 4. Sitzung der Bezirksvertretung Gräfrath am 23.02.2021
+- TOP 4.: Vorstellung der Planungen zum Bau der Bodenaufbereitungsanlage durch die AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - mündlicher Bericht -
+- TOP 5.: Tempo-30-Regelung im Ortskern Antrag der CDU-Bezirksfraktion vom 05.01.2021
+- TOP 6.: Freie Budgetmittel 2021
+- TOP 7.: Sachstandsbericht Bauplanungen im Rahmen der Schulentwicklungsplanung: Realisierungsstudie Vogelsang
+- TOP 8.: Bauleitplanung Schulzentrum Vogelsang Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplanes W 677 sowie zum Vorentwurf der Flächennutzungsplanänderung Nr. 29/ 04, beide für das Gebiet des Schulzentrums Vogelsang zwischen dem Eigener Feld im Nordwesten, der Straße Vogelsang im Osten, dem Botanischen Garten im Südosten, der Straße Frankfurter Damm im Südwesten und der Bernd-Kurzrock-Sportanlage im Westen – Stadtbezirke Gräfrath und Wald –
+- TOP 9.: Sachstandsbericht Bauplanungen im Rahmen der Schulentwicklungsplanung
+- TOP 10.: Einwohnersprechstunde in der Bezirksvertretung Gräfrath Gemeinsamer Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und DIE LINKE vom 15.04.2021
+- TOP 11.: Mountainbiking auf der Kirchtreppe Antrag der CDU-Bezirksfraktion vom 13.04.2021
+- TOP 12.: Sauberkeit und Ordnung im öffentlichen Raum Antrag der CDU-Bezirksfraktion vom 13.04.2021
+- TOP 13.: Zustand Nümmener Bach und Dycker Teich Antrag der CDU-Bezirksfraktion vom 13.04.2021
+- TOP 14.: Kreativwettbewerb an Solinger Schulen im Stadtbezirk Gräfrath Antrag der CDU-Bezirksfraktion vom 13.04.2021
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.1.1: Durchführung eines stadtweiten Dreck-weg-Tages
+- TOP 15.1.2: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Gräfrath
+- TOP 15.1.3: Radfahren im Wald Vorlage 555/2021
+- TOP 15.2: Anfragen an die Verwaltung
+- TOP 15.2.1: Sachstand Gartenstraße
+- TOP 15.2.2: Sachstand Bauplanungen an der Focher Straße
+- TOP 15.2.3: Beschlusskontrolle
+- TOP 15.2.4: Umbau Bushaltestelle Huttenstraße
+- TOP 15.2.5: Digitalisierung im Stadtbezirk Gräfrath
+- TOP 15.2.6: Rodungen im Bereich Flockertsholz
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 4. Sitzung der Bezirksvertretung Gräfrath am 23.02.2021
+- TOP 4.: Vorstellung der 3D-Produtkion für den Historischen Ortskern Gräfraths
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
