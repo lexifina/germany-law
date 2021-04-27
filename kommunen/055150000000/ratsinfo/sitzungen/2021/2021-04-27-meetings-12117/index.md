@@ -1,0 +1,61 @@
+# 4.Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-04-27T17:05:00+02:00
+- Ende: 2021-04-27T18:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12117
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12117
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich_korrigierte Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00480040.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - von der Tagesordnung abgesetzt
+- TOP 4: Berichte
+- TOP 4.1: Start des Stadtteilentwicklungskonzeptes Angelmodde- Vorstellung der Erarbeitungsschritte- mündlicher Bericht - von der Tagesordnung abgesetzt
+- TOP 4.2: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - von der Tagesordnung abgesetzt
+- TOP 4.3: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - von der Tagesordnung abgesetzt
+- TOP 4.4: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - von der Tagesordnung abgesetzt
+- TOP 5: Anhörungen
+- TOP 5.1: Multi- und intermodale Mobilität stärken - Neue Mobilstationen für Münster - von der Tagesordnung abgesetzt
+- TOP 5.2: Veränderungssperre Nr. 114 - einstimmig beschlossen
+- TOP 5.3: Verzicht auf die Umbenennung eines Teilstücks der Hiltruper Straße in Petersplatz - von der Tagesordnung abgesetzt
+- TOP 5.4: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngbiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde - von der Tagesordnung abgesetzt
+- TOP 5.5: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die überbezirklichen - von der Tagesordnung abgesetzt
+- TOP 5.6: Piepenbach - Naturnaher Ausbau und ökologische Verbesserung von der Telgter Straße bis zur Mündung in die Angel - einstimmig beschlossen
+- TOP 5.7: 1. 107. Änderung des FNP - 2. Bebauungsplan Nr. 616 - Beschluss zur Änderung / Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.8: Erlass Naturdenkmalverordnung für den bebauten Bereich - von der Tagesordnung abgesetzt
+- TOP 5.9: Bebauungsplan Nr. 595 I - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 5.10: 116. FNP-Änderung - Beschluss zur Änderung; Bebauungsplan Nr. 624 & Bebauungsplan Nr. 625 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.11: Entwicklung des ehemaligen Westfalen-Geländes in Angelmodde zu einen attraktiven Wohn- und Schulstandort - einstimmig beschlossen
+- TOP 5.12: 1.Kommunale Umsetzung des geänderten § 8a des Kommunalabgabengesetzes - von der Tagesordnung abgesetzt
+- TOP 6: Entscheidungen
+- TOP 6.1: Errichtung des Spielplatzes Weinbergweg (KSP Petersheide B-Plan Nr. 509) -Planungs- und Baubeschluss- - einstimmig beschlossen
+- TOP 6.2: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die bezirklichen - von der Tagesordnung abgesetzt
+- TOP 6.3: Sanierung des Spielplatzes Juffernkamp im Stadtbezirk Münster-Südost im Haushaltsjahr 2021 -Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 7: fristgerecht eingegangene Anträge
+- TOP 7.1: Gelände des "Alten Friedhofs" Am Steintor gestalterisch und gärtnerisch überarbeiten - einstimmig beschlossen
+- TOP 7.2: Lücke bei der Beleuchtung neben der Kanalpromenade schließen - einstimmig beschlossen
+- TOP 7.3: Umleitungsstrecke Schmitz-Kühlken/ Gewerbegebiet Kessler Weg für Radfahrer*innen sicher zu gestalten - einstimmig beschlossen
+- TOP 8: fristgerecht eingegangene Anregungen/Anfragen
+- TOP 8.1: Verkehrssicherung Gremmendorfer Weg - eingebracht
+- TOP 8.2: Erweiterung Recylinghof Eulerstraße, Gremmendorf - eingebracht
+- TOP 8.3: Ausbau/Umbau Münsterstraße zwischen Kreisverkehr Wolbecker Windmühle bis Ecke Borggarten/Eschstraße - eingebracht
+- TOP 8.4: Anbringung eines Spiegels im Bereich „Drostenhofstraße/Illa-Andreae-Weg“ - eingebracht
+- TOP 8.5: Schließung des Drostenhofparks in Wolbeck - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträgen / Anregungen / Anfragen
+- TOP 9.1: A-S/0013/2019 - Mehr Verkehrssicherheit in Wolbeck-Nord - Geschwindigkeitsbegrenzung endlich durchsetzen
+- TOP 9.2: Einhaltung der Geschwindigkeitsbegrenzung auf der Münsterstraße/Am Steintor im Wigbold Wolbeck - zur Kenntnis genommen
+- TOP 9.3: Fahrbahnsanierung Angelmodder Weg vornehmen - zur Kenntnis genommen
+- TOP 9.4: Beschilderung des Radwegenetzes mit Stadtplanausschnitten - zur Kenntnis genommen
+- TOP 9.5: Verkehrsberuhigende Maßnahmen im Bereich des Alten Postweges in Höhe Am Filk/Weberborg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.6: Schutzstreifen für Radfahrer einrichten / Tempo-30-Zone ausweiten - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.7: Beseitigung Engstelle Veloroute Altehof - zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
