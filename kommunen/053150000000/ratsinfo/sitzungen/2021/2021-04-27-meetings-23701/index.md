@@ -1,0 +1,77 @@
+# 3. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-27T15:38:00+02:00
+- Ende: 2021-04-27T16:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23701
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23701
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnern
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Ein Radiomuseum ins historische WERAG-Funkhaus, Raderthal - endgültig abgelehnt
+- TOP 3.2: Dringlichkeitsantrag der Fraktion SPD: Kunst auf die Bahnsteige! - ungeändert beschlossen
+- TOP 3.3: Dringlichkeitsantrag von der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt: Wallraf-Bibliothek – Restaurierung des wertvollen Bestandes - ungeändert beschlossen
+- TOP 3.4: Dringlichkeitsantrag von der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt: Römerturm – Sanierung sichern - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Errichtung von Probe- und Atelierräumen - zurückgestellt
+- TOP 4.2: Förderkonzept Kulturelle Teilhabe - zurückgestellt
+- TOP -: Änderungsantrag von der Fraktion SPD - zurückgestellt
+- TOP 4.3: Bestellung der Mitglieder der Jury zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 4.4: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 4.5: Bestellung der von den stimmberechtigten Fraktionen benannten Mitglieder der Jury zur Verleihung des Holger Czukay Preises - ungeändert beschlossen
+- TOP 4.6: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe - zurückgestellt
+- TOP 4.7: Freigabe von Mitteln der Kulturförderabgabe zur Förderung Vereine Stadtgeschichte - ungeändert beschlossen
+- TOP 4.8: Vergabe der Fördermittel 2021 in den Schwerpunkten „Produktionen und Sonderprojekte“ und „Cologne Music Export“ - ungeändert beschlossen
+- TOP 4.9: Verwendung der Mittel aus dem Sonderausstellungsetat - ungeändert beschlossen
+- TOP 4.10: Freigabe Kulturförderabgabe für die Erweiterung des NS-Dokumentationszentrums zum "Haus für Erinnern und Demokratie" - ungeändert beschlossen
+- TOP 4.11: Erschließung von alternativen Spielstätten: Umsetzung Konzept zur Förderung des Open-Air-Angebots sowie Corona-Zwischennutzungfonds 2021 - geändert beschlossen
+- TOP -: Änderungsantrag von der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt - ungeändert beschlossen
+- TOP 4.12: Zuschuss zur Erhaltung des Kölner Domes - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung an die Stadt Köln, Rheinisches Bildarchiv durch den Fotografen Manfred Wegener - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 8.2: Ankauf von Werken der Künstlerin Adrian Piper für das Museum Ludwig - Kenntnis genommen
+- TOP 8.3: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kostenerhöhung - Kenntnis genommen
+- TOP 8.4: Geschäftsordnung der Jury zur Vergabe des Heinrich-Böll-Preises der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Der Jahresbericht 2020 des NS-Dokumentationszentrums der Stadt Köln - Kenntnis genommen
+- TOP 8.6: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - zurückgestellt
+- TOP 8.7: Bericht zum internationalen Tag der Provenienzforschung am 14. April 2021 in Köln - Kenntnis genommen
+- TOP 8.8: Virtuelle Führung durch den Neubau des Historischen Archivs und des Rheinischen Bildarchivs am Eifelwall - Kenntnis genommen
+- TOP 8.9: Verschiebung Neuwahl Tanzbeirat - Kenntnis genommen
+- TOP 8.10: Sachstandsbericht zum Umzug des Kölnischen Stadtmuseums in das Haus Sauer, Minoritenstr. - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs - Kenntnis genommen
+- TOP 9.3.1: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 1. April 2021 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer Anfrage der SPD Fraktion (AN/0188/2021) zum Otto und Langen Quartier - Kenntnis genommen
+- TOP 10.2: Beantwortung der Anfrage der SPD-Fraktion betr.: "Perspektiven für die Fotostadt Köln sicherstellen!" (AN/0187/2021) - Kenntnis genommen
+- TOP 10.3: Workshop Partiziption im Rahmen der Kulturentwicklungsplanung - Kenntnis genommen
+- TOP 10.4: Kulturantwicklungsplanung: Sachstand Raummanagement - Kenntnis genommen
+- TOP 10.5: Sicherung, Weiterentwicklung und Neuaufstellung des Literaturfestivals "lit.COLOGNE" - Kenntnis genommen
+- TOP 10.6: Beantwortung der mündlichen Anfrage der SPD-Fraktion: Freier Eintritt in die Kölner Museen - Kenntnis genommen
+- TOP 10.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.8: Beantwortung der mündlichen Anfrage zum Stand der Handlungsempfehlungen zur Integration von Kulturräumen in die Stadtentwicklung - Kenntnis genommen
+- TOP 10.9: Rassistische und/oder koloniale Denkmäler und Namen von Straßen, Wegen, Plätzen - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion Volt: Sachstand Hallen Kalk und DOMiD e. V. - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion Bündnis90/Die Grünen: Konzeptvergabe Volkhovener Weg 209-211 - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktionen Bündnis90/Die Grünen & Volt: Kulturbaustein Helios - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Fraktionen Bündis90/Die Grünen, SPD, CDU, Die Linke, FDP, Volt: Raum 13 - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktionen Bündnis90/Die Grüne, CDU und Volt: Kalk ist ein Stadtbezirk im Umbruch. Projekte und Planungen, die den kulturellen Sektor und kulturell genutzte, bzw. nutzbare Räume betreffen.
+- TOP 12.2: Mündliche Anfrage der Fraktion SPD zu TOP 4.11 Erschließung von alternativen Spielstätten: Umsetzung Konzept zur Förderung des Open-Air-Angebots sowie Corona-Zwischennutzungsfonds 2021 (1217/2021)
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: zur Vorlage KUK TOP 4.1 Errichtung von Probe- und Atelierräumen
