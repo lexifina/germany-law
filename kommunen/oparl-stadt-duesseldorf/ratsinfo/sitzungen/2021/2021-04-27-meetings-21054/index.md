@@ -1,0 +1,57 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-27T17:00:00+02:00
+- Ende: 2021-04-27T19:15:00+02:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf-Garath
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21054
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21054
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408244.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408244.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408244.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Haushalt 2019, hier Liste C, Zuschuss für bauliche Maßnahmen Dritter - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - mehrheitlich beschlossen
+- TOP 4.5: Trödelmarkt in Garath auf dem Schützenplatz Frankfurter Straße im 2.Halbjahr 2021 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: „Grüne Welle“ Frankfurter Straße - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Nutzung des Angebotes der Notbetreuung in den Schulen im Stadtbezirk 10 und angrenzen den Schulen des Stadtbezirks 9 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Energieverbrauch im Stadtbezirk 10 und Perspektiven - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: RRX-Ausbau / Lärmschutzwände - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Garath Waldviertel (Nord-Ost), Parkplatz für die Apollonia Praxisklink - Interfraktioneller Antrag der CDU und SPD Fraktionen - - mehrheitlich beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Wilhelm-Kreis-Straße – Markierung an Fußweg - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.2: Aufnahme in die Radwegplanung des Kreisverkehrs an der Kreuzung Hellerhofweg/ Rudolf-Breitscheid-Straße/ Graf-von-Stauffenberg-Straße - Informationsvorlage zum Beschluss BV10/069/2021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.3: Pflege Rad- und Fußwege im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/064/02021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.4: Garath 2.0 – Den Wandel gestalten - zur Kenntnis genommen
+- TOP 8.5: Überprüfung und Instandsetzung des der Stichstraße Kapeller Feld 1-5 und des weiterführenden Rad- und Wanderweges entlang der Osteroder Str. /Garather Schlosspark - Informationsvorlage zum Beschluss BV10/009/2021 vom 26.01.2021 - - zur Kenntnis genommen
+- TOP 8.6: Befestigung des Fußweges zum Aufgang Rodelberg - Informationsvorlage zum Beschluss BV10/070/2021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.7: Instandsetzung des gesamten Fuß-und Radweges entlang des Mühlenbachs - Informationsvorlage zum Beschluss BV10/068/2021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.8: Regelmäßige Reinigung der Unterführung Koblenzer Straße - Informationsvorlage zum Beschluss BV10/047/2021 - - zur Kenntnis genommen
+- TOP 8.9: Negative Energiebilanz bei Gebäuden im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/027/2021 vom 23.02.2021 - zur Kenntnis genommen
+- TOP 8.10: Einsatz des Ordnungs- und Servicedienstes und der Verkehrsüberwachung im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/060/2021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.11: Aufstellung eines Abfallbehälters an der Aussichtsplattform der Urdenbacher Kämpe - Informationsvorlage zum Beschluss BV10/050/2021 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.12: Pflege Rad-und Fußwege im Stadtbezirk 10 - Zweite Informationsvorlage zum Beschluss BV10/064/2021 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
