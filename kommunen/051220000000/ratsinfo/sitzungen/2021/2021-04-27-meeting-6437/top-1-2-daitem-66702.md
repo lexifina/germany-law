@@ -1,0 +1,7 @@
+# TOP 1.2: Zustand Nümmener Bach und Dycker Teiche
+
+- Sitzung: Bezirksvertretung Gräfrath (5. Sitzung) (2021-04-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/66702
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/35333
