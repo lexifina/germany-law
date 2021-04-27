@@ -1,0 +1,87 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-27T17:00:00+02:00
+- Ende: 2021-04-27T19:02:00+02:00
+- Ort: Hotel Mutterhaus, Geschwister-Aufricht-Straße 1, 40489 Düsseldorf - Caroline Fliedner Saal
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20505
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20505
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408135.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408135.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408135.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 23. Februar 2021 - abweichend beschlossen
+- TOP 2.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Bebauungsplan-Entwurf Nr. 05/014 - Ehemals Fashion House - Empfehlung einstimmig beschlossen
+- TOP 11: Flächennutzungsplanänderung Nr. 196 - Ehemals Fashion House - Stellungnahmen, Planbeschluss - Empfehlung einstimmig beschlossen
+- TOP 12: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 13: Zuschuss an den Duisburg-Wittlaerer Reiterverein e.V. - einstimmig beschlossen
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW zum Thema "Arena-Straße 1- Temporäre Nutzungsänderung der Merkur-Spiel-Arena für eine Outdoor-Veranstaltung" - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2021 (Liste B), Blumenoasen im Stadtbezirk 5 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 16: Einrichtung eines Zebrastreifens auf der Niederrheinstraße zwischen Nordstern und Freiligrathplatz auf Höhe der Bushaltestelle Plüschowstraße. Alternativ Verlegung der Bushaltestelle Richtung Nordstern.
+- TOP 17: Radschutzstreifen auf der Bahnüberführung Angermunder Straße
+- TOP 18: Die Bezirksvertretung 5 bittet die Verwaltung eine Änderung der Verkehrsführung am Nordstern/Stockumer Höfe, zur Förderung des Verkehrsflusses auf der Niederrheinstraße aus Lohausen hinaus in Richtung Zentrum, zu prüfen. - beantwortet
+- TOP 19: Warum werden die AnwohnerInnen der Graf-Engelbert-Straße alleine gelassen?
+- TOP 20: Bekommt Angermund wirklich eine Straßenbahn? - beantwortet
+- TOP 21: Knotenpunktumbau B 8 - "Am Spielberg"
+- TOP 22: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 23: Fahrradwege auf breiten Bürgersteigen - hier beispielhaft auf dem Leuchtenberger Kirchweg
+- TOP -: Neue Anfragen
+- TOP 24: Fällung von 30 Bäumen entlang der Anger in Angermund - beantwortet
+- TOP 25: Müllentsorgung rund um den östlichen Angermunder Baggersee - beantwortet
+- TOP 26: Eigentumsverhältnisse östlicher Angermunder Baggersee - beantwortet
+- TOP 27: Sicherheit an den Angermunder DB Gleisen
+- TOP 28: Rodung von rund 100 (!!) Bäumen am Angermunder Baggersee - beantwortet
+- TOP 29: Kaiserswerther Markt - Wann findet der Workshop statt?
+- TOP 30: Bauvorhaben im Düsseldorfer Norden - beantwortet
+- TOP 31: "Verbessernde Instandsetzung" des Kaiserswerther Marktes – Eine echt machbare Alternative?
+- TOP 32: Stand des Bebauungsplanverfahrens Nr. 05/009 Nördlich Einbrunger Straße (APS/020/2019) - beantwortet
+- TOP 33: Stand- und Betriebssicherheit der Hochbahnsteige der U79 im Bezirk 5
+- TOP 34: Altlastenverdachtsfläche in Angermund, Auf der Krone - beantwortet
+- TOP 35: Stellungnahme der Stadt Düsseldorf zum Ausbau des Kreuzungsbereiches Am Spielberg der B8n
+- TOP 36: Sachstand PFT-Sanierungsanlage Kalkum - beantwortet
+- TOP 37: Freiligrathplatz/Sandweg Verkehrssicherheit prüfen - beantwortet
+- TOP 38: Planung Umbau Kaiserswerther Markt
+- TOP 39: Schlechte Arbeitsbedingungen im Recyclinghof Lohausen
+- TOP 40: Mehrgenerationencampus Kaiserswerth - Entwicklungsmöglichkeiten der Grundschule Kaiserswerth
+- TOP 41: Radfahren auf der Sankt-Göres-Straße
+- TOP 42: Beteiligung der Stadt Düsseldorf sowie Städtischer Töchter an der Bodenpreis- und Mietpreisentwicklung in Lohausen - zurückgezogen
+- TOP 43: Prüfung der Notwendigkeit der Errichtung von Lärmschutzmaßnahmen wie z.B. einer Lärmschutzwand an der Montessori-Grundschule Farnweg zur B8 hin - beantwortet
+- TOP 44: Mehrgenerationencampus Kaiserwerth - Bedarf an altengerechten Wohnungen im Bezirk 5
+- TOP -: Anträge
+- TOP 45: Inakzeptabler Kahlschlag an der B8n - mehrheitlich beschlossen
+- TOP 46: Beschilderung Kaiserswerther Markt - einstimmig beschlossen
+- TOP 47: Verbesserung von Fußgänger- bzw. Radwegsqualität zwischen Lohausen und Stockum - einstimmig beschlossen
+- TOP 48: Schaffung einer Bedarfshaltestelle "Spielberger Weg" - mehrheitlich beschlossen
+- TOP 49: Halbhüftiges Parken in Lohausen – Vorgehensweise wie bei der Unterdorfstraße in Kalkum - mehrheitlich beschlossen
+- TOP 50: Verkehrssituation auf dem Ginsterweg - abweichend beschlossen
+- TOP 51: Curt-Beckmann-Straße - Änderung eines verbliebenen Teilstückes 30 Zone in eine komplette Spielstraße - einstimmig beschlossen
+- TOP 52: Verfahrensvorschlag zur Neugestaltung der Rheinuferpromenade Kaiserswerth - abweichend beschlossen
+- TOP 53: Zwei Sitzgruppen für den Spielplatz im Lantz'schen Park - einstimmig beschlossen
+- TOP 54: Sicherheit Spielplatz Henri-Dunant-Straße - einstimmig beschlossen
+- TOP 55: Hygiene Konzept für Fahrer zum Impfzentrum - Schutz der vulnerablen Gruppen - abweichend beschlossen
+- TOP 56: Lohauser Dorfstraße sanieren - zurückgezogen
+- TOP 57: Erneuerung Spielplatz im Lantz'scher Park - einstimmig beschlossen
+- TOP 58: Angermunder Baggersee - Planungskonzept - einstimmig beschlossen
+- TOP 59: Aufwertung und klimaangepasste Bepflanzung des Hannes-Esser-Platzes - abweichend beschlossen
+- TOP 60: Nutzung von Busspuren und Sonderstreifen durch Krankenwagen/RTW’s und Notarzt-Fahrzeuge
+- TOP 61: Errichtung weiterer Corona-Schnellteststationen in der BV5 - mehrheitlich abgelehnt
+- TOP -: Informationsvorlagen
+- TOP 62: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 63: Neue Wasserrechtsverfahren zur Niederschlagswasserbeseitigung im Wohngebiet „Nördlich Einbrunger Straße“ - zur Kenntnis genommen
+- TOP 64: Verschiedenes
