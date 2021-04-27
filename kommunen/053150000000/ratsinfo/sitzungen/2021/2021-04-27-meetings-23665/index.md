@@ -1,0 +1,78 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-27T14:07:00+02:00
+- Ende: 2021-04-27T15:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23665
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23665
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kölner Arbeitskreis LRS & Dyskalkulie e.V." - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: KinderReich Rheinland gGmbH - zurückgestellt
+- TOP 2.1.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Dibber gGmbH" - ungeändert beschlossen
+- TOP 2.1.4: Anerkennung als Träger der freien Jugendhilfe gem. § 75 SGB VIII; hier: "Kolpingwerk Deutschland gemeinnützige GmbH - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Förderprogramm Familienhäuser - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung des Spielplatzes Jasminweg/Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 3.2: Umgestaltung des Spielplatzes Alter Friedhofsweg in Köln-Merheim - ungeändert beschlossen
+- TOP 3.3: Umgestaltung Spielplatz Buschgasse in Altstadt/Süd - geändert beschlossen
+- TOP 3.4: Energieleitlinien Stadt Köln 2021 - geändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 4.2: Neuwahl eines beratenden JHA-Mitglieds - ungeändert beschlossen
+- TOP 4.3: Neuwahl eines stellvertretend beratenden JHA-Mitglieds - ungeändert beschlossen
+- TOP 4.4: Neuwahl eines beratenden Mitglieds im Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie - ungeändert beschlossen
+- TOP 4.5: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“ - ungeändert beschlossen
+- TOP 4.6: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Antrag vom BDKJ für JHA am 27.04.2021 - ungeändert beschlossen
+- TOP 5.2.2: Kommunales Sonder-Schwimmlern-Programm in der Corona-Pandemie - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Sensibler Umgang mit Pumptracks im Kölner Grün - Kenntnis genommen
+- TOP -: Sensibler Umgang mit Pumptracks im Kölner Grün - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Überbrückende Unterstützung für Träger mit interkulturellen Angeboten der Jugendhilfe während der Coronazeit - zurückgestellt
+- TOP 6.2.2: Freiluga als außerschulischen Lernort dauerhaft etablieren und weiterentwickeln - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Skateranlage in Köln-Sülz - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage von Die Linke. zum Datenschutz
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Zusätzliche freiwillige Mietkostenförderung für Träger von Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.2: Sprachförderung für Kinder mit Sprachförderbedarf ohne Kitaplatz (Non-Kita-Kinder) - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Überörtliche Prüfung der Gemeindeprüfungsanstalt (gpa) NRW in den kreisfreien Städten 2018 - Kenntnis genommen
+- TOP 8.3.2: hier: Anfrage AfD-Fraktion Köln im Integrationsrat AN/0324/2021 anlässlich der Mitteilung der Verwaltung DSNr. 0186/2021 (Jahreszahlen UMA 2020) - Kenntnis genommen
+- TOP 8.3.3: Mitteilung an den Jugendhilfeausschuss zum Jugendkriminalitätsbericht 2020 des Polizeipräsidiums Köln - zurückgestellt
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Fertiggestellte Baumaßnahmen auf Spiel- , Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum 2020 - Kenntnis genommen
+- TOP 8.4.2: Angebote der Offenen Kinder- und Jugendarbeit im Stadtbezirk 6 - Worringen - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Kölner Lebenslagenbericht - verschoben unter TOP 4.6
+- TOP 8.5.2: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 8.5.3: Mittelbewirtschaftung im Bildungs- und Teilhabepaket ( BuT) - Kenntnis genommen
+- TOP 8.5.4: Abschlussbericht der EHAP-Projekte ALVENI links und ALVENI rechts vom Rhein - Kenntnis genommen
+- TOP 8.5.5: 31. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.6: Herrichtung von Trendsportangeboten für Kinder und Jugendliche, Stresemannstraße in Köln-Finkenberg - Kenntnis genommen
+- TOP 8.5.7: Sportentwicklungsplanung - Modellprojekt „Innovation durch öffentliche Sportangebote“ - Kenntnis genommen
+- TOP 8.5.8: Ergebnisse einer Befragung zu den Auswirkungen der Corona-Pandemie auf LSBTIQ-Jugendliche - Kenntnis genommen
