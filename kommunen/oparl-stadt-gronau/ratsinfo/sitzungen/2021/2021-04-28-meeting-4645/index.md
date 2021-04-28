@@ -1,0 +1,57 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-04-28T18:00:00+02:00
+- Ende: 2021-04-28T20:26:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe5LC0blOyw3SvCw4xYlSFo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4645
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrKQtvfIntuyNe_76ATf5Aupy7aUeEy3VnvwK1xnmMy/Bekanntmachung_Rat_28.04.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRA-j9i0f4mDodMoxuDfjaR5i_zXIp3H1bPIdBwMCguk/Oeffentliche_Niederschrift_Rat_28.04.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung neuer Ratsmitglieder
+- TOP 3.: Niederschrift vom 17.03.2021
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der WEG-Fraktion vom 02.04.2021; Klärung der rechtlichen und wirtschaftlichen Beziehungen der Chance gGmbH zum Verein Grenzenlos e.V.
+- TOP 4.2: Antrag der Fraktion pro:Bürgerschaft vom 10.04.2021; Verschmelzung, d.h. Auflösung der „LAGA Gronau/Losser 2003 GmbH i.L.“
+- TOP 4.2.1: Antrag der Fraktion pro:Bürgerschaft vom 10.04.2021; Verschmelzung, d.h. Auflösung der „LAGA Gronau/Losser 2003 GmbH i.L.“ - 36 Jastimmen, 3 Neinstimmen, 4 Enthaltungen
+- TOP 4.3: Antrag der CDU-Fraktion vom 16.04.2021; Chance gGmbH & GfA GmbH – Gemeinsame Gremiensitzungen - Einstimmig, 1 Enthaltungen
+- TOP 5.: Abschließende Beratung des Gesamtbudgets 2021 Verabschiedung der Haushaltssatzung
+- TOP 5.1: Abschließende Beratung des Gesamtbudgets 2021 Verabschiedung der Haushaltssatzung - 22 Jastimmen, 21 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Bildung und Zusammensetzung von Arbeitskreisen Mitgliedschaft des Seniorenbeirates - Einstimmig, 0 Enthaltungen
+- TOP 7.: Neufassung der Satzung über die Abfallentsorgung in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 8.: Bildung einer Baumschutzkommission – Antrag der Fraktion pro:Bürgerschaft - 39 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 9.: Quartiersentwicklung Spinnerei Germania im Stadtteil Epe 1. Vorstellung des städtebaulichen Entwurfs zur Revitalisierung des Spinnereigeländes und der Machbarkeitsstudie zur Nutzung des denkmalgeschützten Spinnereigebäudes 2. 108. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Germania-Quartier", Stadtteil Epe/Bebauungsplan Nr. 252 "Germania-Quartier", Stadtteil Epe - Einstimmig, 1 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 44 "Grüner Weg", 2. Änderung, Stadtteil Gronau (beschleunigtes Verfahren nach § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichekit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 60-I "Schwartenkamp" 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs.2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 12.: Benennung von neuen Straßen 1) Neubaugebiet östlich der Eichenhofstraße (B-Plan Nr.187) 2) Neubaugebiet zwischen Schöttelkotter Damm und Kurzer Weg (B-Plan Nr.172 Kurzer Weg) - Einstimmig, 0 Enthaltungen
+- TOP 13.: Benennung eines grenzüberschreitenden Radwegs im Bereich Tieker Damm - Einstimmig, 0 Enthaltungen
+- TOP 14.: Benennung einer neuen Straße im Bereich der "Weißen Dame" - 28 Jastimmen, 13 Neinstimmen, 1 Enthaltungen
+- TOP 15.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 16.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau (Stadtteil Epe) für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 17.: Abberufung einer/eines Prüfers/Prüferin für das Rechnungsprüfungsamt - Einstimmig, 0 Enthaltungen
+- TOP 18.: Anerkennung ruhegehaltfähiger Dienstzeiten für Wahlbeamte
+- TOP 19.: Sachstand zur Corona-Pandemie (Stand: 21.04.2021)
+- TOP 20.: Bereitstellung von investiven Mitteln für die Ausstattung des neuen Standortes der Euregio-Gesamtschule an der Gasstraße (Lehrküche + Kiosk, Mensaküche, Werkraum) hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß § 82 Abs. 1 Nr. 1 GO NW - Einstimmig, 0 Enthaltungen
+- TOP 21.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Schulische Inklusion - Urteil des VG Münster
+- TOP 22.2: Deutsche Bank - Standort Gronau
+- TOP 22.3: Verabschiedung ausgeschiedener Ratsmitglieder
+- TOP 22.4: Bürgerantrag zum internationalen Tag gegen Homophobie und Transphobie
+- TOP 23.: Anfragen
+- TOP 23.1: Fortsetzung von Ausgrabungen (Anfrage von RM Bohn)
+- TOP 23.2: Betreuungsplätze für Kinder (Anfrage von RM Pawlowski)
+- TOP 23.3: Eichenprozessionsspinner (Anfrage von RM Kernebeck)
+- TOP 23.4: Entwicklung Drilandsee (Anfrage von RM von Borczyskowski)
+- TOP 23.5: Stellenangebote einer Verkehrsgesellschaft (Anfrage von RM Krause)
+- TOP 23.6: Terminbuchungen über Chayns-App (Anfrage von RM Krefter)
+- TOP 23.7: Stadtradeln (Anfrage von RM Buchholz)
+- TOP 23.8: Hecken-Schnitt (Anfrage von RM Buchholz)
