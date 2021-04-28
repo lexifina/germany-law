@@ -1,0 +1,156 @@
+# 58. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-04-28T17:00:00+02:00
+- Ende: 2021-04-28T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4155
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4155
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Lärmschutzmaßnahmen - beantwortet
+- TOP 1.2: Berlin-Gropiusstadt: Anzahl der Sozialwohnungen - schriftlich beantwortet
+- TOP 1.3: Unterstützung der Gastronomie - schriftlich beantwortet
+- TOP 1.4: Drogenverkauf auf offener Str in der Wipperstr. - beantwortet
+- TOP 1.5: Wohnen - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Neukölln hat Eigenbedarf - in der BVV abgelehnt
+- TOP 4.2: Die Neuköllner Wirtschaft braucht die A 100! - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Benennung eines Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer stellvertretenden Bürgerdeputierten in den Grünflächenausschuss - gewählt
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - in der BVV abgelehnt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: 48 Stunden Neukölln 2021 - beantwortet
+- TOP 8.2: Keine Gedenktafel für getötete Polizisten? - beantwortet
+- TOP 8.3: Lucy-Lameck-Straße noch immer angefeindet? - beantwortet
+- TOP 8.4: Wohnungsamt personell verstärken - beantwortet
+- TOP 8.5: 1.Mai-Demo: Ab 22 Uhr wegen Ausgangssperre alles in die Heia? - beantwortet
+- TOP 8.6: Spielplatz am Sollmannweg - Wo sollen Kinder und Jugendliche hin? - beantwortet
+- TOP 8.7: Anwohnerinformation zur Busspur Britzer Damm - beantwortet
+- TOP 8.8: Corona-Testungen an den Neuköllner Schulen - beantwortet
+- TOP 8.9: Der Mietendeckel des Berliner Senats wurde gekippt. Was bedeutet das BVerfG-Urteil für die Bürger in Neukölln? - schriftlich beantwortet
+- TOP 8.10: Albrecht Dürers Lampenladen - schriftlich beantwortet
+- TOP 8.11: Friedhofskapellen - schriftlich beantwortet
+- TOP 8.12: Wie werden die von den Corona-Maßnahmen betroffenen selbstständig tätigen Bürger unterstützt? - schriftlich beantwortet
+- TOP 8.13: WLAN-Router für Hybrid-Unterricht - schriftlich beantwortet
+- TOP 8.14: Zweimal Pacht für gleiche Fläche in Kleingartenanlagen? - schriftlich beantwortet
+- TOP 8.15: Umbenennung der Wissmannstraße - schriftlich beantwortet
+- TOP 8.16: Laterne weg? - schriftlich beantwortet
+- TOP 8.17: Bauarbeiten am Britzer Damm - schriftlich beantwortet
+- TOP 8.18: Unterstützt das Neuköllner Jugendamt Randalierer und Maskenverweigerer? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Änderung der Geschäftsordnung (Entschließung) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Änderung Geschäftsordnung § 36 Einberufung, Termine und Ferien - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Änderung Geschäftsordnung II § 25 Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.4: Änderung der Geschäftsordnung - "Tagesordnung der BVV" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.5: Sichere Wissmannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.6: Ausgleichsmittel für das Kiehlufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Neukölln wird Fairtrade Town - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Fair gehandelte Bewirtung im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: „Schön wie wir“ nur eine Show?! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Brexit: Auswirkungen auf Neukölln kompensieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: fLotte Kommunal Neukölln - nachhaltig mobil mit Lastenrädern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Erarbeitung bezirklicher Leitlinien der Bürger*innenbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Mehrweg statt Einweg – Umweltgerecht feiern in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Fußgängerquerung Sonnenallee / Geygerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Erinnerung an Buckower Felder in Straßennamen bewahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.10: Sondernutzung öffentlicher Flächen an touristischen Hotspots - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Sondernutzung auf dem Böhmischen Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.12: Fußgänger im Krischanweg schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.13: Mehr Wohnungen im „Geschützten Marktsegment“ für Neukölln schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.14: Prinzessinnengärten - Vorbild für Friedhofs-Nachnutzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.15: Kurzes Ende der Nansenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.16: Ergänzung für den B-Plan XIV-269-1a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.17: Arbeit der Neuköllner Gleichstellungsbeauftragten absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.18: Vorkauf im Kauffall Heimstaden wahrnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.19: Informationen über Beiräte zentralisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.20: Bebauungsplan 8-83 („Schul- und Sportstandort Koppelweg“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Unterstellt das Bezirksamt den Buckowern Rassismus? - beantwortet
+- TOP 11.2: Umweltprüfung durchführen – Ausgleich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Amphibienschutz in Neukölln - vertagt
+- TOP 11.4: Partnerschaft mit Initiative(n) des globalen Südens - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Berlin hat bewiesen: Auch ohne Feuerwerk rutscht die Stadt gut ins neue Jahr - in der BVV abgelehnt
+- TOP 11.6: Lokale Händler untersützen - in der BVV abgelehnt
+- TOP 11.7: Neuer Radwegplan für Neukölln - in der BVV abgelehnt
+- TOP 11.8: Mülleimer in Alt Rudow - vertagt
+- TOP 11.9: Geschwindigkeitsmessung in der Köpenicker Straße - vertagt
+- TOP 11.10: Trasse der Neukölln-Mittenwalder Eisenbahn sichern - vertagt
+- TOP 11.11: Gewerbetreibende auf dem Gelände des Bahnhof Rudow sichern - vertagt
+- TOP 11.12: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden - vertagt
+- TOP 11.13: ESTREL-Tower klimagerecht beheizen - vertagt
+- TOP 11.14: Wie geht es weiter nach der Coronakrise? - vertagt
+- TOP 11.15: Ausreichende Leerung von Papierkörben in Grünanlagen sicherstellen - vertagt
+- TOP 11.16: Gelder für Gewässerunterhaltung zweckbestimmt einsetzen und Artenschutz verbessern - vertagt
+- TOP 11.17: Arbeit der Schulen in der Pandemie nicht zusätzlich erschweren - vertagt
+- TOP 11.18: Plätze in Willkommensklassen für später dazukommende Kinder belassen - vertagt
+- TOP 11.19: kostenloses Mittagessensangebot für Schüler aller Schulen - vertagt
+- TOP 11.20: Heldenprämie für ALLE Held*innen - vertagt
+- TOP 11.21: Verantwortungslose Corona-Politiksofort beenden - vertagt
+- TOP 11.22: Saubere Schulen – Rekommunalisierung der Schulreinigung mit Stufenplan unterlegen - vertagt
+- TOP 11.23: Alt-Buckow 37: Illegal erworbenes Clanvermögen für soziale Infrastruktur! - vertagt
+- TOP 11.24: Homeoffice-Strategie - vertagt
+- TOP 11.25: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“ - vertagt
+- TOP 11.26: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen - vertagt
+- TOP 11.27: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen - vertagt
+- TOP 11.28: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen II - vertagt
+- TOP 11.29: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - vertagt
+- TOP 11.30: Neukölln fußgänger*innenfreundlich gestalten - vertagt
+- TOP 11.31: Mieter*innen im Mahlower Block schützen und beraten - vertagt
+- TOP 11.32: Eingreifen in der High-Deck-Siedlung - vertagt
+- TOP 11.33: Verkehrswende in Neukölln - vertagt
+- TOP 11.34: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Partizipation Schwarzer Menschen im Bezirk - vertagt
+- TOP 12.2: Rekommunalisierung der Schulreinigung im Doppelhaushalt 2022/23 umsetzen - vertagt
+- TOP 12.3: Hitzeaktionsplan für Neukölln - vertagt
+- TOP 12.4: Öffentliches Erinnern an die Akteure und Schauplätze der Novemberrevolution in Neukölln - vertagt
+- TOP 12.5: Sicherer Schulweg für die Karlsgartenschule - vertagt
+- TOP 12.6: Grünflächen und Wasserversickerung in der Warthestraße - vertagt
+- TOP 12.7: Neugestaltung des Mittelstreifens der Warthestraße - vertagt
+- TOP 12.8: Mehr Flächengerechtigkeit: „Kiezblocks“ für Neukölln planen und umsetzen - vertagt
+- TOP 12.9: Parkplätze für Gehbehinderte am Gesundheitszentrum Gropiusstadt - vertagt
+- TOP 12.10: Sitzbank am Britzer Damm/Ecke Blaschkoallee - vertagt
+- TOP 12.11: 1.700 Jahre jüdisches Leben in Deutschland - vertagt
+- TOP 13: Große Anfragen - im Ausschuss abgelehnt
+- TOP 13.1: IGSV – Initiative Selbstbestimmung und Akzeptanz geschlechtlicher und sexueller Vielfalt - vertagt
+- TOP 13.2: Neupflanzungen - vertagt
+- TOP 13.3: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - vertagt
+- TOP 13.4: Sinn und Unsinn der Impfungen gegen COVID-19 - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 14.1: Arbeit der Schulen in der Pandemie wird zusätzlich erschwert - schriftlich beantwortet
+- TOP 15: Anträge - (offen)
+- TOP 15.1: SGB II-EmpfängerInnen vor Mietendeckel-Urteil schützen - überwiesen
+- TOP 15.2: Mülleimer mit Kippenbehältern am „großen Spielplatz“ im Ortolanweg/Möwenweg aufstellen - überwiesen
+- TOP 15.3: Sprechstunde für Betroffene rassistischer Vorfälle - überwiesen
+- TOP 15.4: Erinnerungstafel an Zwangsarbeiterlager in der Hufeisensiedlung - überwiesen
+- TOP 15.5: Friede, Freiheit und keine Diktatur - überwiesen
+- TOP 15.6: Personal ohne Arbeit? - überwiesen
+- TOP 15.7: Weiterentwicklung des Integrierten Friedhofsentwicklungskonzepts für die Evangelischen Friedhöfe an der Hermannstraße, IFEK 2.0 - überwiesen
+- TOP 15.8: Weitere Maßnahmen angesichts des tödlichen Radverkehrsunfalls an der Oderstraße - überwiesen
+- TOP 15.9: Ersatz für ausgefallene Einbürgerungsfeiern - überwiesen
+- TOP 15.10: Mieter*innen vor Nachzahlungen und Wohnungsverlust schützen - überwiesen
+- TOP 15.11: Bürgeramt und ein Ende der Wartezeit - überwiesen
+- TOP 15.12: Krischanweg - überwiesen
+- TOP 15.13: Vorbereitung der Wahl des Bezirksbeirats für Partizipation in der Migrationsgesellschaft - überwiesen
+- TOP 15.14: Geschäftsstelle der Bezirksbeauftragten für Partizipation in der Migrationsgesellschaft - überwiesen
+- TOP 15.15: Saubere Entsorgung sicherstellen! - überwiesen
+- TOP 15.16: Aktionsplan gegen Vermüllung - überwiesen
+- TOP 15.17: Öffentliche Toiletten - überwiesen
+- TOP 15.18: CO2-Reduzierung bei Bau- und Sanierungsprojekten! - überwiesen
+- TOP 15.19: „Dreckecke“ südliches Kiehlufer - überwiesen
+- TOP 15.20: Durchgangsverkehr auf der Achse Maybachufer–Harzer/Treptower Straße–Kiehlufer reduzieren - überwiesen
+- TOP 15.21: Modaler Filter für Fahrradstraße Pflügerstraße - überwiesen
