@@ -1,4 +1,4 @@
-# Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung – (Artikel 1 des Gesetzes vom 12. Dezember 2019, BGBl. I S. 2652)
+# Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

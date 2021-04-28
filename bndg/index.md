@@ -59,7 +59,7 @@
 
 - [§ 36 Übergangsregelung](0036.md)
 
-## Abschnitt 4 (neuer Abschn. 4 zukünftig in Kraft)
+## Abschnitt 4 (neuer Abschnitt 4 zukünftig in Kraft)
 
 - [(XXXX) §§ 37 bis 40 (zukünftig in Kraft)](xxxx-37-bis-40.md)
 - [§ 41 Unabhängiger Kontrollrat](0041.md)
