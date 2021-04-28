@@ -1,0 +1,154 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Der Link zum Stream der BVV finden Sie im INFOBLATT Livestream
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-04-28T17:00:00+02:00
+- Ende: 2021-04-28T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6359
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6359
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=378345
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - im Ausschuss abgelehnt
+- TOP 4.1: Bessere Sicht beim Linksabbiegen vom Lichtenrader Damm in die Fehlingstraße - vertagt
+- TOP 4.2: Längere Grünphase für die Fußgänger an der Ampel Rubensstraße Ecke Begasstraße - vertagt
+- TOP 4.3: Kostenfreie Menstruationsprodukte auf Mädchentoiletten - vertagt
+- TOP 4.4: Mehr Wahlpflichtunterricht an Schulen - vertagt
+- TOP 4.5: Umrüstung der Straßenlaternen in Lichtenrade auf LEDs - vertagt
+- TOP 4.6: Radweg am Lichtenrader Damm zwischen Grimmstraße und Goethestraße - vertagt
+- TOP 4.7: Mehr Sicherheit vor den Schulen - vertagt
+- TOP 4.8: Bessere Förderung an Grundschulen - vertagt
+- TOP 4.9: Ein sicherer Schulweg für die Kiepertschule - vertagt
+- TOP 4.10: Neue Fahrradständer für die Nahariya-Grundschule - vertagt
+- TOP 4.11: Begrünt Berlin - vertagt
+- TOP 4.12: Sanierung der Toilettenräume in der Nahariya-Grundschule - vertagt
+- TOP 4.13: Reparieren der Trennwände der Turnhalle in der Finow-Grundschule - vertagt
+- TOP 4.14: 30er-Zone auf der Grunewaldstraße - vertagt
+- TOP 4.15: Änderung der Ampelschaltungen an der Kaisereiche - vertagt
+- TOP 4.16: Klimaschutz – jetzt handeln! - vertagt
+- TOP 4.17: Gleichberechtigung bei den Bundesjugendspielen - vertagt
+- TOP 4.18: Synchronisierung der Ampeln am Südwestkorso 9 - vertagt
+- TOP 4.19: Laternen auf dem Vorarlberger Damm heller stellen - vertagt
+- TOP 4.20: Mehr Jugendfreizeit - vertagt
+- TOP 4.21: Mehr Jugendfreizeit! Skaterpoint am Winterfeldtplatz fördern. - vertagt
+- TOP 4.22: Bewegungsaktive Jugendfreizeit ausbauen! - vertagt
+- TOP 4.23: Überarbeitung der Klingelanlage - vertagt
+- TOP 4.24: Schultoiletten der Grundschule auf dem Tempelhofer Feld - vertagt
+- TOP 4.25: Inklusionslotsen für die Schulen - vertagt
+- TOP 4.26: Verlängerung der Grünphase der Fußgängerampel an der Hohenstaufenstraße Ecke Münchener Straße - vertagt
+- TOP 4.27: Die Blitzerampel - vertagt
+- TOP 4.28: Entfernung des Graffiti auf dem Spielplatz am Perelsplatz - vertagt
+- TOP 4.29: Wissen zum Umgang mit dem Internet - vertagt
+- TOP 4.30: Die parkenden Autos vor der Marienfelder-Grundschule - vertagt
+- TOP 4.31: Die Digitalisierung in den Schulen vorantreiben - vertagt
+- TOP 4.32: Änderung der Ampelschaltung (Goltzstraße, Lichtenrader Damm und Kirchhainer Damm) zwischen Edeka Kruse und Café Obergfell - vertagt
+- TOP 4.33: Eindeutiges Klingelzeichen an der Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.34: Besseres und abwechslungsreiches Schulessen an der Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.35: Die Käthe-Kollwitz-Grundschule braucht eine Renovierung - vertagt
+- TOP 4.36: Neue Möbel für die Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.37: Mehr geschlossene Mülleimer für die Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.38: Trampoline in der Umgebung der Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.39: Mehr/neue Pflanzen für die Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.40: Neues Spielzeug für die Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.41: Alle Schulen sollen mehr Geld bekommen - vertagt
+- TOP 4.42: Tischtennis im Cheruskerpark - vertagt
+- TOP 4.43: Fußballplatz an der Pöppelmannstraße - vertagt
+- TOP 4.44: Mangel an Fahrradständern - vertagt
+- TOP 4.45: Geschwindigkeitsbegrenzung von 30 km/h auf dem Schichauweg westlich der Motzener Straße - vertagt
+- TOP 4.46: Spiegel für die Ausfahrt am Kirchhainer Damm - vertagt
+- TOP 4.47: Neue Spielstraße in Friedenau - vertagt
+- TOP 4.48: Spielplätze für Kinder im Alter von 9 bis 15 Jahren - vertagt
+- TOP 4.49: Verlängerung des Fahrradweges am Tempelhofer Damm - vertagt
+- TOP 4.50: Ampelphasen an der Rubensstraße Ecke Grazer Platz - vertagt
+- TOP 4.51: Parkverbot Wilhelm-von-Siemens-Straße - vertagt
+- TOP 4.52: Die Digitalisierung in der Nahariya-Grundschule - vertagt
+- TOP 4.53: Fußballtore für den Merseburger Fußballplatz - vertagt
+- TOP 4.54: Keine barrierefreie Querungsmöglichkeit am Bahnübergang Säntisstraße - vertagt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - im Ausschuss abgelehnt
+- TOP 6.1: Wahl von Gün Tank zur Bezirksbeauftragten für Menschen mit Behinderung durch die BVV - gewählt
+- TOP 7: Mündliche Anfragen - schriftlich beantwortet
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Bezirkliche Auswirkungen und Konsequenzen des Mietendeckelurteils - beantwortet
+- TOP 8.2: Wie geht es weiter im Mietendeckel-Chaos? - beantwortet
+- TOP 8.3: Bauprojekt Friedenauer Höhe - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 9.1: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - überwiesen
+- TOP 9.2: Neuwahl eines Mitglieds des Beirates in Sozialhilfeangelegenheiten gemäß §34 des Gesetzes über die Zuständigkeit in der allgemeinen Berliner Verwaltung (AZG) - gewählt
+- TOP 9.3: Errichtung eines Schulneubaus im Bezirk Tempelhof-Schöneberg in Amtshilfe durch die HOWOGE - überwiesen
+- TOP 10: Anträge - im Ausschuss abgelehnt
+- TOP 10.1: Keine Entwidmung von Sportflächen in Tempelhof-Schöneberg - zurückgezogen
+- TOP 10.2: Baustellenmarketing am Tempelhofer Damm einrichten - überwiesen
+- TOP 10.3: Entfernung von Graffiti und Instandsetzung der Sitzgelegenheiten am Wasserspiel auf dem Bayerischen Platz - überwiesen
+- TOP 10.4: Kommunen für ein starkes Lieferkettengesetz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: POP-Up-Radwege sauber halten, Gefahren reduzieren - mit Änderungen in der BVV beschlossen
+- TOP 10.6: Bundesförderung für Energieeffizienz nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sichere Querung auf dem Weg zur Friedenauer Gemeinschaftsschule - überwiesen
+- TOP 10.8: Testzentrum Gemeinschaftshaus Lichtenrade – JETZT! - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Rattenplage auf und rund um den Platz der Luftbrücke bekämpfen - überwiesen
+- TOP 10.10: Ein Bürger:innenrat für die bezirkliche Klimagerechtigkeit - überwiesen
+- TOP 10.11: Beleuchtung Unterführung S-Bahnhof Friedenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Tempelhof-Schöneberg wird Host-Town bei den Special Olympics World Games 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Mehr Fahrradabstellmöglichkeiten am U-Bahnhof Alt-Mariendorf und U-/S-Bahnhof Tempelhof schaffen - mit Änderungen in der BVV beschlossen
+- TOP 10.14: Mehr Testzentren für den Bezirkssüden – so schnell wie möglich! - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Schaukasten für amtliche Vermeldungen und Vereine in Marienfelde schaffen - in der BVV abgelehnt
+- TOP 10.16: Fütterverbot Blümelteich - überwiesen
+- TOP 10.17: Kleinen Park am Innsbrucker Platz herrichten – Aufenthaltsqualität erhöhen - in der BVV abgelehnt
+- TOP 10.18: Verkehrssicherheit am Lokdepot - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten - überwiesen
+- TOP 10.20: Ampelschaltung am Prellerweg Ecke Sembritzkistraße endlich verkehrsgerecht anpassen! - überwiesen
+- TOP 10.21: In Aufzügen der städtischen Wohnungsbaugesellschaften Mund- und Nasenschutzmasken verbindlich anordnen - in der BVV abgelehnt
+- TOP 10.22: Leerstände Einzelhandelsflächen im Bezirk erfassen und handeln - überwiesen
+- TOP 10.23: Ein Natur- und Waldlehrpfad für Lichtenrade - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Schulmittagessen für diejenigen ermöglichen, die zur Mittagszeit nicht in der Schule sind - überwiesen
+- TOP 10.25: Neue Verkehrsführung am T-Damm im Bereich Alt-Tempelhof - U-Bahnhof Ullsteinstraße: Klarheit für die Anwohner schaffen - in der BVV abgelehnt
+- TOP 10.26: Platzspitze am Roseneck entsiegeln - überwiesen
+- TOP 10.27: Auskömmliche Finanzierung der Senior:innen-Vertretung sicher stellen - zurückgezogen
+- TOP 11: übrige Große Anfragen - im Ausschuss abgelehnt
+- TOP 12: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 12.1: Übergangssituation für Potse und Drugstore organisieren - vertagt
+- TOP 12.2: Queere Lebens- & Leidensgeschichten erinnern - Wanderausstellung zu § 175 unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Gute Nachbarschaft mit Sony Music entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Neues Leben im Festzentrum der Trabrennbahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Schutz und Sicherstellung von Beschulung in den Gemeinschaftsunterkünften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: W-Lan für Geflüchtetenunterkünfte in Tempelhof-Schöneberg schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Runder Tisch für den Einzelhandel und die Restaurants am Friedrich-Wilhelm-Platz - vertagt
+- TOP 12.8: Tisch und Bänke auf dem Platz des Picknicks wieder herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Denk mal! Kolonialgeschichte in Friedenau sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Dorfteich Lichtenrade fit für die Zukunft machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Die Räume der Galerie im Tempelhofer Rathaus wieder nutzbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Demokratie vor Ort - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Aufstellung des Entwurfs der Investitionsplanung 2021 bis 2025 - vertagt
+- TOP 12.14: Klimaneutralität in der bezirklichen Verwaltungssteuerung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Finanzmittel aus ökologischen Ausgleichsmaßnahmen auch für Straßenbegleitgrün nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Geordnetes Verfahren für Benennungsverfahren - vertagt
+- TOP 13: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 13.1: Tempelhof-Schöneberg als Fairtradestadt - überwiesen
+- TOP 13.2: Firmentickets fördern – für Arbeitnehmer und Unternehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: 70. Jubiläum der Berliner Luftbrücke würdig begehen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Umzug des Verwaltungsgerichts Berlin nach Schöneberg - überwiesen
+- TOP 13.5: Barrierefreie Überquerung der Bahnstrecke an der Buckower Chaussee während der Bauarbeiten zur Errichtung einer Brücke über das Gleisbett - überwiesen
+- TOP 13.6: Der Berliner Luftbrücke in Tempelhof-Schöneberg angemessen gedenken und Tempelhof-Schöneberger Jugendliche darüber informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: „TATORT LICHTENRADE – eine Hommage“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Eltern-Kind-Zimmer im Rathaus - überwiesen
+- TOP 13.9: fLotte kommunal: Freie Lastenfahrräder im Bezirk ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Gewerbestandort Motzener Straße sichern - Schichauweg an B101 anbinden - überwiesen
+- TOP 13.11: Kultur trotz(t) Corona - überwiesen
+- TOP 13.12: Vermeiden von Verspätungen durch zweistöckige Busse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Grünfläche zwischen General-Pape-Straße/Kolonnenstraße insekten-freundlich gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: Unterbringung für Trans*Personen in Tempelhof-Schöneberg schaffen - überwiesen
+- TOP 13.15: Neugestaltung Cosimaplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.16: Park am Innsbrucker Platz wieder herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Integriertes städtebauliches Entwicklungskonzept (ISEK) für das LZ-Fördergebiet Lichtenrade Bahnhofstraße, Aktualisierung 2021 - überwiesen
+- TOP 13.18: Veröffentlichung der Bezirksregionenprofile Teil II (Maßnahmenteil) für Friedenau, Mariendorf und Marienfelde - überwiesen
+- TOP 13.19: Änderung des Titels des im Verfahren befindlichen Bebauungsplan XI-231aba für die Verbreiterung (teilweise) des Tempelhofer Weges zwischen der westlichen Grenze des Grundstücks Tempelhofer Weg 9 und Wilhelm-Kabus-Straße, einschließlich des Grundstücks Gotenstraße 49 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Änderung des Titels des im Verfahren befindlichen Bebauungsplans XI-231abb für eine Teilfläche des Grundstücks Tempelhofer Weg 32-38 und Wilhelm-Kabus-Straße 88/92 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Moratorium zur Verlagerung des Wenckebach-Klinikums - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
