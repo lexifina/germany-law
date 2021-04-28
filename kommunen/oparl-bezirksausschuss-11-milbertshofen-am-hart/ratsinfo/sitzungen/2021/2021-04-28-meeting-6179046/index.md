@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-04-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6179046
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6179046
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 750,00 € / Az. 0262.0-11-0416
+- TOP 6.1.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00 € / Az. 0262.0-11-0417
+- TOP 6.1.3.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. SBZirkus OKTini vom 17.05. - 04.06.2021 1.425,13 € / Az. 0262.0-11-0418
+- TOP 6.1.4.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH FamilyOpenAir vom 05.06. - 05.09.2021 3.035,09 € / Az. 0262.0-11-0415
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Demokratiemobil für die Bundestagswahl in den 11. Stadtbezirk einladen
+- TOP 7.1.2.: Abänderung des Stadtbezirksnamen von "Milbertshofen-Am Hart in "Milbertshofen-Am Hart-Olympiadorf"
+- TOP 7.1.3.: BA-Sitzungen via Ton-Bild-Übertragung ermöglichen
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Einführung eines Ehrenamtspreises für den 11. Stadtbezirk
+- TOP 7.3.2.: Gewerbeband am Frankfurter Ring - Jugendzentrum und Halle für Livekonzerte und Kulturveranstaltungen
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Schleißheimer Straße (Höhe Rathenaustraße) - gefährliche Radwegkreuzung
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Christoph-von-Gluck-Platz / Milbertshofener Straße - Wertstoffinsel sanieren
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Moosacher Straße Bauvorhaben - beleuchtete Litfaßsäule an einer Verkehrsstraße
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Schleißheimer Str. 420 a) Bauvorhaben: Neubau eines Aeroakustik- und E-Antriebs-Zentrum (AEZ)
+- TOP 8.2.2.: Frankfurter Ring 83 - 85 a) Bauvorhaben - Neubau eines Gewerbe- und Bürogebäudes mit Tiefgarage - Vorbescheid
+- TOP 8.2.3.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2021 - 2025 - Anhörungsverfahren
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Schopenhauerstraße (Südseite) - absolutes Haltverbot (Feuerwehranfahrtszone) b) Dostlerstraße (westlich Riesenfeldstraße) - Beibehalt Einbahnregelung
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Schleißheimer Str. 420 b) Immissions-, Grundwasserschutz und Beseitigung von Baumbestand
+- TOP 8.5.2.: Frankfurter Ring 83 - 85 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.3.: Doeberlstraße 10 - Baumfällung
+- TOP 8.5.4.: Aufforderung der konkreten Benennung von neuen Baumstandorten im öffentlichen Raum des Stadtbezirkes 11 Milbertshofen-Am Hart
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Baustelleneinrichtung und Zufahrt am Kolehmainenweg
+- TOP 9.2.2.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 9.2.3.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 9.2.4.: (U) Mehr Bürgerbeteiligung bei Stadtteilentwicklungen bzw. -planungen Empfehlung Nr. 14-20 / E 02813 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 18.07.2019
+- TOP 9.2.5.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 9.2.6.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: (U) Soziografische Untersuchung Stadtbezirk 11 Milbertshofen - Am Hart Empfehlung Nr. 14-20 / E 02819 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 18.07.2019
+- TOP 9.3.2.: (U) A ) Rahmenplan für das Gewerbeband Frankfurter Ring Bahngleisanlagen DB-Nordring (südlich), Ungererstraße (westlich), Frankfurter Ring (nördlich), Straße Am Oberwiesenfeld (östlich) - Rahmenplan Gewerbeband Frankfurter Ring - und Beschluss zur Aufstellung und (Teil-) Änderung von Bebauungsplänen Bahngleisanlagen DB-Nordring (südlich), Ungererstraße (westlich), Frankfurter Ring (nördlich), Am Nordring (östlich) - Frankfurter Ring - Ost - B) Anträge 1. Gewerbegebiete Relaunch Antrag Nr. 20-26 / A 00798 der CSU-Fraktion im Stadtrat vom 04.12.2020 2. Ein Jugendzentrum und eine Halle für Livekonzerte und Kulturveranstaltung im Gewerbeband am Frankfurter Ring Antrag Nr. 20-26 / B 01852 des Bezirksausschusses des Stadtbezirks 12 Schwabing - Freimann vom 23.02.2021 Stadtbezirke 11 Milbertshofen - Am Hart und 12 Schwabing - Freimann
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Parklets und Sommerstraßen - Informationen und Sachstandsmitteilung
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
