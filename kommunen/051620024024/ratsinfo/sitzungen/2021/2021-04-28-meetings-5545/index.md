@@ -1,0 +1,63 @@
+# Ausschuss für Umwelt, Grünflächen und Klimaschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-04-28T17:00:00+02:00
+- Ende: 2021-04-28T20:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/225
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5545
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5545
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144141.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144141.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144141.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Verpflichtung von sachkundigen Bürger*innen
+- TOP 4: Bestellung der Schriftführerin und des Stellvertreters - nicht beraten aufgrund Sitzungsausfall
+- TOP 5: Bestellung eines Ausschussmitglieds, das neben dem Ausschussvorsitzenden und der/dem Schriftführer*in die Niederschriften über die Sitzungen des Ausschusses unterzeichnet - nicht beraten aufgrund Sitzungsausfall
+- TOP 6: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 7: Beschluss über die Behandlung der Kostenunterdeckung 2017 bei den Friedhofsgebühren - verwiesen
+- TOP 8: Zweckgebundener Zuschuss für die neuss-agenda 21 e.V. für das Jahr 2021 - verwiesen
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 9: Baumfällungen Preußenstraße - verwiesen
+- TOP 10: Baumfällungen auf dem Friedhof Holzheim - nicht beraten aufgrund Sitzungsausfall
+- TOP -: Anträge
+- TOP 11: Antrag der CDU-Fraktion betr.: Geburtsbäumchen - Klimaschutz greifbar machen - verwiesen
+- TOP 12: Antrag der CDU-Fraktion betr.: Mehr Hitzeschutz auf Spielplätzen - verwiesen
+- TOP 13: Antrag der CDU-Fraktion betr.: Teilnahme am Sonderförderprogramm "Klimaresilienz in Kommunen" - nicht beraten aufgrund Sitzungsausfall
+- TOP 14: Antrag der CDU-Fraktion betr.: Barrierefreiheit auf nicht versiegeltenFlächen bei Neuanlage/Sanierung - nicht beraten aufgrund Sitzungsausfall
+- TOP 15: Antrag der CDU-Fraktion betr. Hundeauslauffläche Kruchensbusch
+- TOP 16: Antrag der CDU-Fraktion betr.: Beleuchtung des Parkplatzes an der KiTa Entdeckerland - verwiesen
+- TOP 17: Antrag der CDU-Fraktion betr. Baumfällungen Parisstraße - nicht beraten aufgrund Sitzungsausfall
+- TOP 17.1: Antrag der SPD/B90 Die Grünen/UWG/Aktiv betr. ökologische Baubegleitung - verwiesen
+- TOP -: Anfragen
+- TOP 17.2: Anfrage der CDU-Fraktion betr.:Zerstörungen im Landschaftsschutzgebiet an der Erft ggü. der Brata-Mühle - nicht beraten aufgrund Sitzungsausfall
+- TOP 17.3: Anfrage der CDU-Fraktion betr. Mikroplastik im Rhein
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Bericht zu den Friedhofsgebühren (SFN)-Evaluierung - zur Kenntnis genommen
+- TOP 19: Bericht zum Jahresabschluss 2020 Friedhöfe (SFN) - zur Kenntnis genommen
+- TOP 20: Quartalsbericht für die Städtischen Friedhöfe Neuss (SFN) zum 31.03.2021 - zur Kenntnis genommen
+- TOP 21: Bericht des GMN zum Sachstand „Aufbau Energiemanagement“ - nicht beraten aufgrund Sitzungsausfall
+- TOP 22: Einsatz von Glyphosat und Anlage von Blühstreifen auf verpachteten Flächen - zur Kenntnis genommen
+- TOP 23: Aktueller Sachstandsbericht zum Klimaschutzkonzept und zur -matrix - zur Kenntnis genommen
+- TOP 24: Bewirtschaftungsplan 2022-2027 Wasserrahmenrichtlinie (WRRL) – Beteiligung Öffentlichkeit - zur Kenntnis genommen
+- TOP 25: Abschließender Vortrag zum Monitoring für den Tagebau Garzweiler II - zur Kenntnis genommen
+- TOP 26: Bericht der Gemeindeprüfungsanstalt 2017 (GPA): abschließender Sachstandsbericht zur Einführung des Grünflächenkatasters - zur Kenntnis genommen
+- TOP 27: Baumbilanz 2020 - zur Kenntnis genommen
+- TOP 28: Verbesserung der Sauberkeit und Grünflächenpflege in Neuss - zur Kenntnis genommen
+- TOP 29: zweckgebundene Verwendung des Zuschusses Neusser-Eine-Welt-Initiative e.V. im Jahr 2020 - zur Kenntnis genommen
+- TOP 30: zweckgebundene Verwendung des Zuschusses Neuss-Agenda 21 e.V. im Jahr 2020 - zur Kenntnis genommen
+- TOP 31: Sachstandsbericht zur Lufthygiene - zur Kenntnis genommen
+- TOP 32: Bericht zur Wirtschaftlichkeit von Hundekotbeutelspendern - zur Kenntnis genommen
+- TOP 33: Bericht zum Tiergehege im Selikumer Park
+- TOP 34: Beschlusskontrolle
+- TOP 35: Einwohner*innenfragestunde
