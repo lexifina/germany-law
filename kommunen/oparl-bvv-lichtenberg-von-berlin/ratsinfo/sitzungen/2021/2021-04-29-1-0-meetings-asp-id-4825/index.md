@@ -1,0 +1,139 @@
+# 51. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-04-29T17:00:00+02:00
+- Ende: 2021-04-29T22:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4825
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4825
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=313334
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Städtebaulicher Rahmenplan für Alt-Hohenschönhausen - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Gewerbeflächen Marzahner Straße 21 - beantwortet
+- TOP 8.2: Durchführung der Sitzungen der Spielplatzkommission - beantwortet
+- TOP 8.3: Stand der Umsetzung der Drucksache 2022/VIII - Endlich wieder ruhige Nächte auch im Seifertweg - beantwortet
+- TOP 8.4: Drehscheiben-Schule in der Schulplanungsregion 3 - beantwortet
+- TOP 8.5: Karlshorster Grundschule - beantwortet
+- TOP 8.6: Ordnungsrechtliche Unterbringung nach dem ASOG - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen
+- TOP 9.1: Einwohnerantrag: Keine Zerstörung der Trabrennbahn! - überwiesen
+- TOP 9.2: Vorschläge zum Bürgerhaushalt; Hier: Beschlussempfehlungen des Begleitgremiums II. Halbjahr 2020/ I. Quartal 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Ein Kinderbauernhof für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Pop-up-Radwege auch in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Der Radverkehrswende Schwung geben - Weitere Stellen für Radverkehrsplaner*innen im Bezirksamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: 22-Stunden-Anleger soll wieder attraktiv für Alle werden - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sicherer Radverkehr auf der Lückstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Gutachtermittel für die Sicherung von Kleingartenanlagen erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Bahnhofsvorplatz in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Anwohner in der Hedwigstraße beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Sicherer Radverkehr auf der Markt- und Karlshorster Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Radwege und Fahrbahn der Sewanstraße sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Vorfahrt ändern - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Mehr Licht auf den Wegen in Richtung S-Bahnhof Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Siedlung Wartenberg zur Nachtzeit anbinden - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: ÖPNV am Stadtrand von Wartenberg verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Sichere Querung der Konrad-Wolf-Straße für Kita- und Schulkinder - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Verkehrssicherheit Kreuzung Landsberger Allee/Zechliner Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Radschnellweg durch Lichtenberg - weit weg von den Autoverkehrstrassen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Tempo 30 in der Herzbergstraße zwischen Möllendorffstraße und Vulkanstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Straßenbau- und Tiefbauarbeiten rechtzeitig und transparent kommunizieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Machbarkeitsstudie für eine Radschnellverbindung vom Ostkreuz nach Biesdorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Für eine familienfreundlichere Gestaltung öffentlicher Straßenverkehrsflächen: weitere verkehrsberuhigte Bereiche anordnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Einrichtung eines Titels "Schutz und Pflege von Kunstwerken im öffentlichen Raum" im Haushaltsplan des Bezirkes - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Gedenken auch an verfolgte und ermordete Sinti und Roma - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Tägliche Dienstleistungen mitplanen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.27: Wohnungsneubau an der Möllendorffstraße/Ecke Storkower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.28: Sondermittel für Kulturring in Berlin e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Sondermittel für Kleingartenverein "Falkenhöhe-Nord" e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.30: Benennung einer weiteren Straße im Entwicklungsgebiet "Parkstadt Karlshorst", Bebauungsplan 11-47ba; Bezug: DS/1819/VIII - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.31: Gleichwertige Finanzierung der Schulstationen und der Schulsozialarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 9.32: Notwendige Infrastruktur für gewandelte Mobilitätskultur im wachsenden Karlshorst entwickeln: Neubau der Blockdammbrücke als Fußgänger- und Radwegbrücke - mit Änderungen in der BVV beschlossen
+- TOP 9.33: Durchführung von Erholungsreisen in den Sommerferien - ohne Änderungen in der BVV beschlossen
+- TOP 9.34: Task Force Ordnung und Sauberkeit einrichten - überwiesen
+- TOP 9.35: Runder Tisch Dong Xuan Center - überwiesen
+- TOP 9.36: "Alt-Hohenschönhausen" in Kombihaltestelle umwandeln - ohne Änderungen in der BVV beschlossen
+- TOP 9.37: Längere Züge für die Tramlinien M5/M6 - ohne Änderungen in der BVV beschlossen
+- TOP 9.38: Straßenbahngleise bis zur Landsberger Allee (M6) erweitern - überwiesen
+- TOP 9.39: Öffentlichen Sport an der Trabrennbahn ermöglichen - überwiesen
+- TOP 9.40: Taubenpopulation kontrollieren - überwiesen
+- TOP 9.41: An der Seite der rechtschaffenen Unternehmer stehen - überwiesen
+- TOP 9.42: Ufergestaltung Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 9.43: Hartung`sche Säulen erhalten und ausstellen - überwiesen
+- TOP 9.44: Verkehrsberuhigung im Fennpfuhlweg - überwiesen
+- TOP 9.45: Verkehrsberuhigung in Anwohnerstraßen - überwiesen
+- TOP 9.46: Mobilitätsstationen in Wohnquartieren - überwiesen
+- TOP 9.47: Sauberes und schönes Ostseeviertel - ohne Änderungen in der BVV beschlossen
+- TOP 9.48: Sauberkeit an Ersatzhaltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.49: Tauben auf der Fußgängerbrücke am S-Bahnhof Storkower Straße - überwiesen
+- TOP 9.50: Einen "Common Place" gemeinsam gestalten - überwiesen
+- TOP 9.51: Kiezblock-Initiativen unterstützen - überwiesen
+- TOP 9.52: Verordnung über die Verlängerung der Veränderungssperre 11-99/29 für die Grundstücke Frankfurter Allee 273, 275, 277 im Bezirk Lichtenberg, Ortsteil Rummelsburg - überwiesen
+- TOP 9.53: Bessere Anbindung des Jobcenters an das ÖPNV-Netz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.54: Sanierung des sowjetischen Ehrenmales in der Küstriner Straße planen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.55: Engagement der historischen Runden Tische würdigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.56: Neubau der Bogensporthalle unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.57: Unterrichtsräume für Deutschkurse für Geflüchtete - überwiesen
+- TOP 9.58: Reform des Preises „Lichtenberger Unternehmen des Jahres“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.59: Lichtenberger Handlungsstrategie zur Umweltgerechtigkeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.60: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege zwischen der Schule am Roederplatz und der Hans-Rosenthal-Grundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.61: Dem Klimawandel begegnen - den öffentlichen Raum wassersensibel gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.62: Geflüchtete über Arbeitsrechte aufklären - Ausbeutung verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.63: Lichtenberg wird fahrradfreundlicher Arbeitgeber - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.64: Mehr Sicherheit auf der Blockdammbrücke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.65: Freies W-Lan im Kulturhaus Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.66: Gehwegsanierung entlang der Treskowallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.67: Mauritiuskirchcenter als Standort sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.68: Sichere Fußgängerüberquerung in der Dolgenseestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.69: Schnelltests für freiberuflich Tätige im medizinischen Bereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.70: Sicherheit und Sauberkeit am Elefantenspielplatz erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.71: Auf die Wohnsiedlung "Am Gutshof" an der Dorfstraße hinweisen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.72: Bezirkseigene Vorlage für strategische Fachpläne der Fachämter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.73: Erstellung und Veröffentlichung des Energieberichts 2018 für die bezirklichen Gebäude entsprechend Berliner Energiewendegesetz (EWG Bln 2016) - überwiesen
+- TOP 9.74: Wirtschaftsbericht 2020; Bezug DS/0346/IV - überwiesen
+- TOP 9.75: Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten im Bezirk Lichtenberg für das Grundstück Emanuelstraße 15 - Lückstraße 58 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.76: Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten im Bezirk Lichtenberg für das Grundstück Spittastraße 3 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.77: Vorhabenbezogener Bebauungsplan 11-118 VE – öffentliche Auslegung; Arbeitstitel: Landsberger Allee 341/343 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.78: Vorhabenbezogener Bebauungsplan 11-126 VE – Behördenbeteiligung; Arbeitstitel: Sewanstraße 259 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.79: Vorhabenbezogener Bebauungsplan XXII-39-1 VE - Aufstellungsbeschluss; Arbeitstitel: Westlich Straße Am Gehrensee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.80: Bebauungsplan XXII-39-2 - Aufstellungsbeschluss; Arbeitstitel: Östlich Straße Am Gehrensee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.81: Bebauungsplan 11-158 – Frühzeitige Beteiligungen und Änderung des Geltungsbereiches; Arbeitstitel: „Zwieseler Straße/Nord“ - überwiesen
+- TOP 9.82: Vorhabenberzogener Bebauungsplan 11-115 VE Behördenbeteiligung; Arbeitstitel: Freienwalder Straße 12 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Schulbau in der Rheinpfalzallee mit Hochgeschwindigkeit vorantreiben und Geschosshöhe der geplanten MUF reduzieren - in der BVV abgelehnt
+- TOP 10.2: Wut der Bürger stoppen - politische Lösung finden, Baustopp erwirken und Schulbau absichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Gedenktafel für das Mordopfer Kurt Schneider - Todesopfer rechter Gewalt in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Priorisieren von Schulbaugenehmigungen - überwiesen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Übernahmemanagement in der Lichtenberger Verwaltung einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Einwohnerantrag Rheinpfalzallee 83 - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.3: Erschließung für das Bauvorhaben Detlevstraße nachhaltig sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Technische Ausrüstung der Mitarbeiter des Bezirksamts im Homeoffice verbessern - vertagt
+- TOP 12.2: Aufstellung von Mülleimern - vertagt
+- TOP 12.3: Öffentliche Informationsveranstaltung zum steigenden Verkehrsaufkommen im Dorf Wartenberg - vertagt
+- TOP 12.4: Modellprojekt für die Aufstockung von WBS-70 Bauten auf Anwendbarkeit für Schulgebäude in Typenbauweise - vertagt
+- TOP 12.5: Ausstellung für Toleranz, Zivilcourage und Mitmenschlichkeit - vertagt
+- TOP 12.6: Fahrradinfrastruktur in Karlshorst-West - vertagt
+- TOP 12.7: Nutzung der Brache an der Georg-Löwenstein-Straße - vertagt
+- TOP 12.8: Bezirklicher Wahl-O-Mat - vertagt
+- TOP 12.9: Entwicklungsplan für Seniorenbetreuung - vertagt
+- TOP 12.10: Verkehrslenkung im Planungsbereich des KuBiZ - vertagt
+- TOP 12.11: Ausweisung von Flächen für obdachlose Menschen - vertagt
+- TOP 12.12: Präzisierung der Investitionsplanung für die Jahre 2021 - 2025 - vertagt
+- TOP 13: Vorlagen zur Beschlussfassung - erledigt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Grillen im Fennpfuhl - vertagt
+- TOP 15: Schließung der Sitzung - erledigt
