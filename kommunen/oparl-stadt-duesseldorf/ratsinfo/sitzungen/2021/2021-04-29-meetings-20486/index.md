@@ -1,0 +1,77 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-29T14:00:00+02:00
+- Ende: 2021-04-29T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20486
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20486
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409479.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409479.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409479.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 04.02.2021 (SI-RAT/001/2021) - einstimmig beschlossen
+- TOP 4: Wahl eines Beigeordneten - einstimmig beschlossen
+- TOP 5: Wahl eines Beigeordneten - einstimmig beschlossen
+- TOP 6: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 7: Anfragen aus aktuellem Anlass
+- TOP 7.1: Anfrage aus aktuellem Anlass des Ratsherrn Born: Düsselpassinhaber:innen und FFP2-Maskenpflicht im ÖPNV - schriftlich beantwortet
+- TOP 8: Anfragen
+- TOP 8.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Folgen der erweiterten Maskenpflicht und des Verweilverbots - schriftlich beantwortet
+- TOP 8.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Bürgerbefragung - schriftlich beantwortet
+- TOP 8.3: Anfrage der Ratsfraktion DIE LINKE: Neubau Müllverbrennungsanlage - schriftlich beantwortet
+- TOP 8.4: Anfrage der AfD-Ratsfraktion: Brand im Bus-Depot der Rheinbahn in Düsseldorf-Heerdt - schriftlich beantwortet
+- TOP 8.5: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Konzept "Klimaneutralität 2035" - schriftlich beantwortet
+- TOP 8.6: Anfrage der Ratsfraktion SPD/Volt: Ergebnisse des ersten Pflegegipfels und weiteres Vorgehen - schriftlich beantwortet
+- TOP 8.7: Anfrage der Ratsfraktion DIE LINKE: Stadt darf nicht für Bundeswehr werben - schriftlich beantwortet
+- TOP 8.8: Anfrage der Ratsfraktion SPD/Volt: Auswirkungen der Querdenker-/ Coronaleugner-Demonstrationen in Düsseldorf - schriftlich beantwortet
+- TOP 8.9: Anfrage der Ratsfrau Opelt: "Düsseldorf gehört uns" - Nutzen die Behörden den vorhandenen rechtlichen Rahmen aus, um gegen "Migrantengangs" vorzugehen? - schriftlich beantwortet
+- TOP 8.10: Anfrage des Ratsherrn Jörres: Abgelehnte Asylbewerber - schriftlich beantwortet
+- TOP 8.11: Anfrage des Ratsherrn Jörres: Kosten für die neue Düsseldorfer Oper - schriftlich beantwortet
+- TOP 8.12: Anfrage der Ratsfrau Kraljic: SleepIn - Notschlafstellen ohne Rücksichtnahme auf Gefühle, Familie und emotionale Bindungen?! - schriftlich beantwortet
+- TOP 8.13: Anfrage der Ratsfrau Kraljic: Psychosoziales Zentrum für Flüchtlinge eV. - schriftlich beantwortet
+- TOP 8.14: Anfrage der Ratsfrau Vorspel: Brand des Rheinbahn-Busdepots Heerdt und Folgen für die Verkehrswende - schriftlich beantwortet
+- TOP 8.15: Anfrage der Ratsfrau Krüger: 30 Welpen aus Ungarn - schriftlich beantwortet
+- TOP 8.16: Anfrage der Ratsfrau Krüger: barrierefreier Ratssaal - schriftlich beantwortet
+- TOP 9: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 12: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 13: Förderrichtlinie Lastenräder - mehrheitlich beschlossen
+- TOP 13.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage AUS/021/2021/2 - mehrheitlich abgelehnt
+- TOP 14: Landtagswahl 2022 - Wahl der Mitglieder und stellvertretenden Mitglieder des Kreiswahlausschusses - mehrheitlich beschlossen
+- TOP 15: Sportbeirat der D.LIVE GmbH und Co. KG - Wahl eines weiteren Mitglieds - einstimmig beschlossen
+- TOP 16: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 17: Anträge
+- TOP 17.1: Antrag der Ratsfraktion DIE LINKE: Rückkauf von Anteilen an der Sana Kliniken Düsseldorf GmbH - mehrheitlich abgelehnt
+- TOP 17.2: Antrag der Ratsfraktion DIE LINKE: Keine Abschaffung des Schulfaches „Sozialwissenschaften“ in NRW - vertagt
+- TOP 17.3: Antrag der AfD-Ratsfraktion: Kommunale Demokratieklausel als Voraussetzung für die Vergabe von Fördermitteln - mehrheitlich abgelehnt
+- TOP 17.4: Antrag der AfD-Ratsfraktion: Düsseldorf schützt und öffnet - mehrheitlich abgelehnt
+- TOP 17.5: Antrag der AfD-Ratsfraktion: Erweiterung des kommunalen Handlungskonzepts gegen Rassismus und Rechtsextremismus - mehrheitlich abgelehnt
+- TOP 17.6: Antrag der AfD-Ratsfraktion: KDDM und Rücknahme der beschlossenen Förderung über 70.000 EUR - mehrheitlich abgelehnt
+- TOP 17.7: Antrag der AfD-Ratsfraktion: Abschiebeinitiative „Flughafen Düsseldorf 2021“ - mehrheitlich abgelehnt
+- TOP 17.8: Antrag der AfD-Ratsfraktion: Corona-Härtefallfonds für das gesamte Jahr 2021 neu auflegen - mehrheitlich abgelehnt
+- TOP 17.9: Antrag der AfD-Ratsfraktion: Masterplan "Sicherheit für die Bewohner der Düsseldorfer Innenstadt" - mehrheitlich abgelehnt
+- TOP 17.10: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Düsseldorf muss Testregion werden! #noCovid rettet Menschenleben UND unsere Wirtschaft - mehrheitlich abgelehnt
+- TOP 17.10.1: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/319/2021
+- TOP 17.11: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Solaroffensive die Zweite, jetzt erst recht! - zurückgezogen
+- TOP 17.12: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Zertifizierung der Verwaltung als fahrradfreundlicher Arbeitgeber - verwiesen
+- TOP 17.13: Antrag der Ratsfraktion DIE LINKE: Resolution zur Stärkung der Kommunalfinanzen - vertagt
+- TOP 17.13.1: Ergänzungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zu Vorlage RAT/292/2021
+- TOP 17.14: Antrag der Ratsfraktion SPD/Volt: Düsseldorf wird korporatives Mitglied bei Transparency International - vertagt
+- TOP 17.15: Antrag der Ratsfraktion SPD/Volt: Düsseldorf gegen Rassismus, Diskriminierung, Sexismus und Benachteiligung: Einrichtung einer Antidiskriminierungsstelle für alle Mitarbeiter*innen in Kulturinstituten - mehrheitlich abgelehnt
+- TOP 17.16: Antrag der Ratsfraktion SPD/Volt: Umverteilung des Öffentlichen Raumes am Mannesmannufer - für die Installation einer automatisierten Schranke/ elektromechanischer Poller zur Regulierung des Autoverkehrs am Mannesmannufer - zurückgezogen
+- TOP 17.17: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Solaroffensive - Wir machen Düsseldorf zur Sonnenstadt - abweichend beschlossen
+- TOP 17.18: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Umsetzung von maximalen energetischen Standards und einer Kreislaufwirtschaft („Cradle to cradle“-Prinzip) in der Stadtverwaltung - mehrheitlich beschlossen
+- TOP 17.18.1: mündlicher Ergänzungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/317/2021 - mehrheitlich abgelehnt
+- TOP 17.19: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: „Fairtrade Town“ Düsseldorf für ein starkes Lieferkettengesetz in Deutschland - mehrheitlich beschlossen
+- TOP 17.20: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ladekonzept Elektromobilität: Mehr Tempo beim Ausbau der Infrastruktur für E-Fahrzeuge - mehrheitlich beschlossen
+- TOP 18: Änderung der Satzung Düsseldorfer Jugendrat - einstimmig beschlossen
+- TOP 19: Aussetzung der Elternbeiträge für die Betreuung von Kindern im Rahmen des Offenen Ganztages (OGS) an Schulen der Primarstufe und Förderschulen und im Ganztag der Sekundarstufe I im Zuge von COVID-19 für die Monate Februar bis Mai 2021 - einstimmig beschlossen
