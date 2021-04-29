@@ -1,0 +1,97 @@
+# 3. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-29T15:07:00+02:00
+- Ende: 2021-04-29T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23666
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23666
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündliche Anfrage der SPD-Fraktion, Stadtentwicklungsausschuss 28.01.2021,TOP 18.2 - Kenntnis genommen
+- TOP 1.2: Beantwortung einer Anfrage der SPD-Fraktion und der Fraktion Die Linke betreffend "Planungssicherheit für Großmarkthändler und Ihre Beschäftigten oder Vorrang für Klientelpolitik" - Kenntnis genommen
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: 0063/2020 Integriertes Stadtentwicklungskonzept (ISEK) Äußerer Grüngürtel Nord, Grüne Brückenschläge - Kenntnis genommen
+- TOP 1.5: Beantwortung einer Anfrage der Ratsgruppe GUT AN/0361/2021: Schlachthofgelände – neue Perspektiven? - Kenntnis genommen
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Umwandlung von Miet- in Eigentumswohnungen - Kenntnis genommen
+- TOP 1.8: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Wohnraumprognosen für Köln von Land NRW und Stadt Köln" - Kenntnis genommen
+- TOP 1.9: Beantwortung der Anfrage der Volt Ratsfraktion betr. Übersicht zum Stand der Großprojekte Köln - Kenntnis genommen
+- TOP 1.10: Beantwortung der Anfrage der Ratsfraktion Volt AN/0493/2021 - Kenntnis genommen
+- TOP 1.11: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 1.12: Beantwortung einer Anfrage der SPD Fraktion (AN/0515/2021) zum Thema Olympische und Paralympische Spiele in Köln und NRW - Kenntnis genommen
+- TOP 1.13: Beantwortung der Anfrage der SPD-Fraktion im Rat der Stadt Köln, AN/0483/2021, betr. Entwicklung des Otto-Langen-Quartiers - Kenntnis genommen
+- TOP 1.14: Beantwortung der Anfrage der Ratsgruppe GUT Köln, AN/0491/2021 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Das Empirica-"Gutachten zur Ermittlung des künftigen Wohnungsbedarfes und der Wohnungsnachfrage in Köln bis 2040" und die Konsequenzen für die Stadtverwaltung
+- TOP 2.2: Köln baut mit Holz: Holzbau in der Stadt vorantreiben
+- TOP 2.3: Beschlossene Wohnbauprojekte ohne Bindung an das kooperative Baulandmodell - Sache ist erledigt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk A) über die Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 5.2: Wohnungsbauforum Köln - ungeändert beschlossen
+- TOP 5.3: Unterstützung der Konzeptionsphase Immobilien- und Standortgemeinschaft Severinstraße - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Höhenkonzept für die linksrheinische Kölner Innenstadt; hier: Bauvorhaben Hohenzollernring 62 - geändert beschlossen
+- TOP -: Änderungsantrag zu - Höhenkonzept für die linksrheinische Kölner Innenstadt - Sache ist erledigt
+- TOP -: gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, der CDU Fraktion und der Fraktion Volt zu Top 6.1: Höhenkonzept für die linksrheinische Kölner Innenstadt; - ungeändert beschlossen
+- TOP 6.2: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 6.3: Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 6.4: Freigabe Zuwendung für Planungskosten "Haus am Maarweg" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 6.5: Freigabe- und Baubeschluss der Maßnahme "Modernisierung und energetische Ertüchtigung Kulturbunker Mülheim"; Programm "Starke Veedel - Starkes Köln" - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - zurückgestellt
+- TOP 7.2: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes - ungeändert beschlossen
+- TOP 7.3: Betreff: 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim, Arbeitstitel: Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 7.4: 241. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld Arbeitstitel: "Alsdorfer Straße“ in Köln-Ehrenfeld/-Braunsfeld" - im ersten Durchgang verwiesen
+- TOP 7.5: 184. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3 (Köln-Lindenthal) beziehungsweise 4 (Köln-Ehrenfeld) Arbeitstitel: "Braunsfeld/Ehrenfeld" in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 7.6: 238. Änderung des Flächennutzungsplanes Arbeitstitel: "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Änderung der frühzeitigen Öffentlichkeitsbeteiligungen gemäß § 3 Absatz 1 und Absatz 2 Baugesetzbuch (BauGB) sowie der Behördenbeteiligungen und Beteiligungen von Trägern öffentlicher Belange gemäß § 4 Absatz 1 und 2 Baugesetzbuch (BauG - geändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungkonzept Möhl-Areal in Köln-Dellbrück; Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Volkhovener Straße" in Köln-Esch/Auweiler,Stellungnahme der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 9.3: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) 71453.02 "Kalker Hauptstraße/Wippermannstraße" in Köln-Kalk - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteilgung betreffend die Änderung des Bebauungsplanes Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - zurückgestellt
+- TOP -: gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, der CDU Fraktion und der Fraktion Volt zu TOP 10.2 - zurückgestellt
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes Nr. 7549/03 Arbeitstitel: Hatzfeldstraße/Radiusstraße in Köln Dellbrück - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 7340/02 Arbeitstitel: Kölner Str. / Hauptstraße in Köln-Porz und Köln-Porz-Ensen - ohne Votum in nachfolgende Gremien
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Aufhebung des Bebauungsplans 66458/07 (664 Na 2/07)-Arbeitstitel: Enggasse/Auf dem Hunnenrücken/Tunisstraße in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anregung der Bezirksvertretung Chorweiler zur Grenzänderung bei den Stadtteilen Merkenich und Fühlingen - zurückgestellt
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Erneute Offenlage gemäß § 3 Abs. 2 BauGB in Verbindung mit §4a Abs.3 BauGB zur 216. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim, Arbeitstitel: Mülheim Süd und Hafen in Köln-Mülheim - Kenntnis genommen
+- TOP 17.2: Erneute Offenlage gemäß § 3 Abs. 2 BauGB in Verbindung mit § 4a Abs. 3 BauGB zur 208. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim, - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); vorhabenbezogener Bebauungsplan Nr. 76381/02 und Vorhaben und Erschließungsplan - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 18.2: Änderungen der Wohnraumförderung 2021 - Kenntnis genommen
+- TOP 18.3: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren "Östlich Im Falkenhorst in Köln-Porz-Urbach" - Kenntnis genommen
+- TOP 18.4: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren "Leidenhausener Straße in Köln-Porz-Eil" - Kenntnis genommen
+- TOP 18.5: Abschlussbericht der Maßnahme „Büro für Quartiersmanagement und Aktivierung“ im Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - Kenntnis genommen
+- TOP 18.6: Abschlussbericht der Maßnahme „Büro für Quartiersmanagement und Aktivierung“ für das Gebiet der „Sozialen Stadt“ Meschenich im Sozialraum „Meschenich und Rondorf“ - Kenntnis genommen
+- TOP 18.7: Abschlussbericht der Maßnahme „Büro für Quartiersmanagement und Aktivierung“ im Sozial-raum „Buchheim, Buchforst und Mülheim-Nord, Keupstraße“ - Kenntnis genommen
+- TOP 18.8: Wohnraumstärkungsgesetz NRW erfordert Anpassung der Kölner Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 18.9: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 18.10: Immobilien- und Standortgemeinschaft Severinstraße - Kenntnis genommen
+- TOP 18.11: Kooperatives Baulandmodell Köln, 3. Sachstandsbericht Kooperatives Baulandmodell mit Stand 31.12.2020 - Kenntnis genommen
+- TOP 18.12: Vergabe von Grundstücken in KMU-Gebieten Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 18.13: Information zur neuen Leipzig-Charta - Kenntnis genommen
+- TOP 18.14: Abschluss des externen Vergabeverfahrens und Projektstart zur Entwicklung eines Leitbildes zu den Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt. - Kenntnis genommen
+- TOP 18.15: Kölner Statistische Nachrichte Kurzinformation Bevölkerungszahlen - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
