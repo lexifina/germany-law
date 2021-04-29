@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Nippes -- Die Sitzung fällt aus!!!
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-29T17:30:00+02:00
+- Ende: 2021-04-29T20:55:00+02:00
+- Ort: Die Sitzung fällt aus. Stattdessen findet ein Informationsaustausch in Form einer Videokonferenz statt. Wenn Sie hieran als Gast teilnehmen möchten, melden Sie sich bitte bei der Schriftführung (siehe Einladung).
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23364
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23364
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragestunde zum Thema "Anträge auf verkehrsberuhigende Maßnahmen wegen Lärms im Bezirk Nippes"
+- TOP 1.2: Einwohnerfragestunde zum Thema "Überwachung des ruhenden Verkehrs"
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Gefährliche Einmündung eines Rad-/Fußweges in die Sechzigstr. in Nippes (Az.: 02-1600-150/20) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bäume auf der Kempener Straße - zurückgestellt
+- TOP 7.1.2: Barrierefreiheit Slabystraße - zurückgestellt
+- TOP 7.1.3: Planungen zum Rückbau der Friedrich-Karl-Straße - zurückgestellt
+- TOP -: Planungen zum Rückbau der Friedrich-Karl-Straße - zurückgestellt
+- TOP 7.1.4: Umwandlung eines Teilbereichs der Stammheimer Straße in eine Einbahnstraße - zurückgestellt
+- TOP 7.1.5: Neugestaltung der Neusser Straße im Stadtteil Nippes - zurückgestellt
+- TOP -: Neugestaltung der Neusser Straße im Stadtteil Nippes - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Zufahrt zu den Tiefgaragen Ehrenberg- und Goldfußstraße in Riehl - zurückgestellt
+- TOP 7.2.2: Baugenehmigungen der Häuser Nordstr. 17 und Nordstr. 17a - zurückgestellt
+- TOP 7.2.3: Erneuerung des Bodenbelags des Bolzplatzes in Köln-Weidenpesch, An den Kreutzmorgen - zurückgestellt
+- TOP 7.2.4: Verkehrskonzept für das Neubauvorhaben an der Simonskaul in Köln-Weidenpesch - zurückgestellt
+- TOP 7.2.5: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Zielbildprozess für das Quartier zwischen Nippes, und Neuehrenfeld mit Einrichtung eines Entwicklungsbeirats „LiebIG “ - zurückgestellt
+- TOP 8.1.2: Aktualisierung der Richtlinien für bezirksorientierte Mittel - Sache ist erledigt
+- TOP -: Aktualisierung der Richtlinien für bezirksorientierte Mittel - Sache ist erledigt
+- TOP 8.1.3: Vorgartenschutz in Bilderstöckchen - Sache ist erledigt
+- TOP 8.1.4: Benennung einer Straße im Stadtteil Nippes nach den Eheleuten Safarowsky - zurückgestellt
+- TOP 8.1.5: Lösung des Abfallproblems im Bereich einer Niehler Bank am Niehler Damm/Ecke Westkai - Sache ist erledigt
+- TOP 8.1.6: LKW-Durchfahrtsverbot in der Kuenstraße - Sache ist erledigt
+- TOP 8.1.7: Ausweisung Heckhofweg/Escherstraße als Fahrradstraße - Sache ist erledigt
+- TOP 8.1.8: Ruhestörung und Sachbeschädigung in der "Autofreien Siedlung" - Rund um die Alte Kantine in Nippes - Sache ist erledigt
+- TOP 8.1.9: Herrichten Zuwegung in Höhe KVB-Trasse Amsterdamer Straße/Gürtel - zurückgestellt
+- TOP 8.1.10: Errichtung eines Denkmals auf dem Naumannplatz in Köln-Riehl - Sache ist erledigt
+- TOP 8.1.11: Prüfung der Einrichtung einer "Do-it-yourself-Repairwerkstatt" unter Führung der VHS im Stadtteil Weidenpesch oder Bilderstöckchen - zurückgestellt
+- TOP 8.1.12: Henner-Berzau-Weg und Marie-Luise-Nikuta-Weg im Toni-Steingass-Park - Sache ist erledigt
+- TOP 8.1.13: Umgestaltung des Naumannplatzes in Köln-Riehl - Sache ist erledigt
+- TOP 8.1.14: Parkplätze für Lastenfahrräder - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - Sache ist erledigt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bezirksorientierte Mittel für den St. Martinsumzug in Mauenheim - zurückgestellt
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an die Paria-Stiftung - Sache ist erledigt
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an die RIG e.V. - Sache ist erledigt
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an den Förderverein des Leonardo-da-Vinci-Gymnasiums - zurückgestellt
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an den Rheinischen Kulturverein Euterpe e.V. - zurückgestellt
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an den 1. FSV Köln 1899 - zurückgestellt
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an die Seniorenvertretung Nippes - zurückgestellt
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die Arbeiterwohlfahrt, OV Nippes - Sache ist erledigt
+- TOP 9.1.9: Baubeschluss für den barrierefreien Ausbau von zwei Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Nippes - zurückgestellt
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an Radeln ohne Alter Köln e.V. - Sache ist erledigt
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an DENK GLOBAL! - zurückgestellt
+- TOP 9.1.12: Baubeschluss für die Umgestaltung des Knotenpunktes Robert-Perthel-Straße/Longericher Straße in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6610, Straßenbaul. Maßnahmen Schul-/Kitabauten - Sache ist erledigt
+- TOP -: Baubeschluss für die Umgestaltung des Knotenpunktes Robert-Perthel-Straße/Longericher Straße in einen Kreisverkehr - Sache ist erledigt
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an das Flüchtlingszentrum FliehKraft - zurückgestellt
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an den Bürgerverein Bilderstöckchen - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - Sache ist erledigt
+- TOP 9.2.2: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP -: Kölner Einzelhandels- und Zentrenkonzept - zurückgestellt
+- TOP 9.2.3: Kölner Lebenslagenbericht - zurückgestellt
+- TOP 9.2.4: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - zurückgestellt
+- TOP 9.2.5: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Mitteilung über das Vorhaben einer systematischen Öffentlichkeitsbeteiligung zum Neubau der Kita Longericher Hauptstr. 73-75 (Session-Nr. 2293/2020)
+- TOP 10.1.2: Mitteilung über das Vorhaben einer systematischen Öffentlichkeitsbeteiligung zur Umgestaltung der Neusser Straße in Nippes (Session-Nr. 2293/2020)
+- TOP 10.1.3: Sonstige Mitteilungen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - zurückgestellt
+- TOP 10.2.2: Trennung von Fuß- und Radweg am Niederländer Ufer - zurückgestellt
+- TOP 10.2.3: Gesamtinstandsetzung Mülheimer Brücke - zurückgestellt
+- TOP 10.2.4: Fahrradnadeln Ecke Philipp-Wirtgen-Straße/Esenbeckstraße - zurückgestellt
+- TOP 10.2.5: Mitteilung über die Beschlussvorlage zur Namensgebung der Städt. Katholischen Hauptschule Bülowstraße, Bülowstraße 90, 50733 Köln (Stadtbezirk Nippes) bei Umzug in die Niederichstraße 1-3, 50668 Köln (Stadtbezirk Innenstadt) - zurückgestellt
+- TOP 10.2.6: Beantwortung des Antrags AN/0112/2021 von den Freien Demokraten Köln bezüglich eines Ausweisausgabautomaten vor dem Bürgeramt Nippes - zurückgestellt
+- TOP 10.2.7: Sachstandsbericht Starke Veedel – Starkes Köln - zurückgestellt
+- TOP 10.2.8: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - zurückgestellt
+- TOP 10.2.9: Sachstandsmitteilung zu den von der Bezirksvertretung Nippes priorisierten Straßenbaumaßnahmen - zurückgestellt
+- TOP 10.2.10: Bolzplatz im Bilderstöckchen - zu AN/0457/2021, TOP 8.1.18 der Sitzung vom 18. März 2021 - zurückgestellt
+- TOP 10.2.11: Knotenpunktumbau Nordstraße/Schwerinstraße zur Verbesserung der Schulwegsicherheit und Kapazitätserweiterung des Fahrradparkens - zurückgestellt
+- TOP 10.2.12: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 10.2.13: Temporäre Spielstraßen - zurückgestellt
