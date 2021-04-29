@@ -1,0 +1,129 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-04-29T17:15:00+02:00
+- Ende: 2021-04-29T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23292
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23292
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Aufhebung des Bebauungsplan Nr. 73409/05 - Einleitungsbeschluss - Arbeitstitel: Grünzug Ensen in Köln-Porz-Ensen, 1.Änderung Feuerwache Ensen - ungeändert beschlossen
+- TOP -: Antrag der SPD-Fraktion "Standortsuche für ein neues Feuerwehrgerätehaus der Löschgruppe Ensen-Westhoven" - endgültig abgelehnt
+- TOP 6.2: Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Porz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Porz" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Einrichtung erster Standorte für ein Fahrradverleihsystem im Bezirk Porz" - geändert beschlossen
+- TOP 6.3: Integriertes Stadtentwicklungskonzept Porz Mitte; - ungeändert beschlossen
+- TOP -: Antrag der SPD-Fraktion "Erneuerung der Fußgängerbrücke Porz-Mitte" - endgültig abgelehnt
+- TOP 6.4: Widmung der Straße Rolshover Kirchweg, von Allerseelenstraße bis Am Grauen Stein - zurückgestellt
+- TOP -: Widmung der Straße Rolshover Kirchweg von Allerseelenstraße bis Am Grauen Stein, hier: Beantwortung einer Nachfrage - zurückgestellt
+- TOP 6.5: Angepasster Baubeschluss für die Öffnung der Einbahnstraßen Houdainer Straße und Hauptstraße zwischen Schmittgasse und Burgweg für den gegenläufigen Radverkehr - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Angepasster Baubeschluss für die Öffnung der Ein - zurückgestellt
+- TOP 6.6: Benennung von zwei Planstraßen im Baugebiet südlich Friedensstraße in Köln-Porz/Elsdorf - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Förderprogramm der Bezirksvertretung Porz für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Porz für die Jahre 2021 bis 2025 - ungeändert beschlossen
+- TOP 6.8: Vergabe von bezirksorientierten Finanzmittel gemäß § 37 GO NW im Jahr 2021 - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ohne Votum in nachfolgende Gremien
+- TOP 7.2: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - ungeändert empfohlen
+- TOP 7.3: Neubau eines Wohngebäudes im öffentlich-geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg o. Nr., 51143 Köln-Porz-Mitte - Baubeschluss - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Neubau Deutzer Weg - Passivhaus-Standard umsetzten" - ungeändert beschlossen
+- TOP 7.4: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 7.5: Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 7340/02 Arbeitstitel: Kölner Str. / Hauptstraße in Köln-Porz und Köln-Porz-Ensen - ungeändert empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffen den Bebauungsplan-Entwurf Nummer 7340/20 - Arbeitstitel: Kölner Straße/ Hauptstraße in Köln-Porz-Ensen" - endgültig zurückgezogen
+- TOP 7.6: Stadtklima- und Verschönerungsprogramm 2020 im Stadtbezirk Porz - Parkplatz Leidenhausen - endgültig zurückgezogen
+- TOP 7.7: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.8: Baubeschluss für die Umgestaltung des Knotenpunktes Humboldtstraße/Theodor-Heuss-Straße in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Knotenpunkten - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "BO-Mittel für einen Bücherschrank in Langel" - endgültig zurückgezogen
+- TOP 8.2: Antrag der SPD-Fraktion "Fahrbahn-Parkflächeninstandsetzung Müllergasse / Poll, im Abschnitt - endgültig zurückgezogen
+- TOP -: Antrag (Neufassung) der SPD-Fraktion "Fahrbahn-Parkflächeninstandsetzung Müllergasse / Poll" - ungeändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: AN 0588 Reinigungsplan der AWB GmbH - zurückgestellt
+- TOP 8.4: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Packstation in Porz-Langel" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Ausbau der Heerstraße bis zum Wermeshof" - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag der SPD-Fraktion "Ausbau der Herrstraße bis zum Wermeshof" - endgültig abgelehnt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Sachstandsbericht Sanierung Loorweg" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Bushaltestellen Poller Damm und Im Wasserfeld barrierefrei ausbauen" - geändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Machbarkeitsstudie einer Straßenbahnverbindung südlich der Südbrücke" - zurückgestellt
+- TOP 8.10: Antrag der SPD-Fraktion "Einrichtung einer Spielstraße (Verkehrsberuhigter Bereich VZ 325) in der Jakob-Kneip-Straße im Bereich zwischen Laurenz-Kiesgen-Straße und - endgültig zurückgezogen
+- TOP -: Antrag (Neufassung) der SPD-Fraktion "Einrichtung einer Spielstraße (Verkehrsberuhigter Bereich VZ 325) in der Jakob-Kneip-Straße im Bereich zwischen Laurenz-Kiesgen-Straße und Poller Kirchweg" - zurückgestellt
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Ständige Tagesordnungspunkte" - geändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Sicherer Schulweg für die Grundschüler*innen der GGS Poller" - zurückgestellt
+- TOP 8.15: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Ortstermin Schwarzkiefer in Poll" - ungeändert beschlossen
+- TOP 8.16: Antrag der SPD-Fraktion "Illegale Rennen auf der Alfred-Schütte-Allee unterbinden" - zurückgestellt
+- TOP -: Illegale Rennen auf der Alfred-Schütte-Allee in Köln-Poll - zurückgestellt
+- TOP 8.17: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrssituation in der Heerstraße während des Schulbeginns" - ungeändert beschlossen
+- TOP 8.18: Antrag der SPD-Fraktion "Sachstandsbericht zur Bezirkssportanlage Poll" - ungeändert beschlossen
+- TOP 8.19: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Ausbau der Stellplätze und Pflanzbeete Houdainer Straße/ Rhabarberschlitten" - ungeändert beschlossen
+- TOP 8.20: Antrag der SPD-Fraktion "Halteverbote auf der Fahrradstraße Weidenweg durchsetzen" - ungeändert beschlossen
+- TOP 8.21: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Barrierefreier Übergang Asternweg" - ungeändert beschlossen
+- TOP 8.22: Antrag der SPD-Fraktion "Beleuchtung der Landesstraße L 99 Maarhäuser Weg zwischen B 8 und Kreuzung Hansestraße" - endgültig abgelehnt
+- TOP 8.23: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Parkverbot Hauptstraße/ Mellerhof" - ungeändert beschlossen
+- TOP 8.24: Antrag der SPD-Fraktion "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN_0742_2020)" - ungeändert beschlossen
+- TOP 8.25: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Beseitigung der Pfützenbildung und Schlaglöcher Houdainerstraße Kita/ev. Kirche" - ungeändert beschlossen
+- TOP 8.26: Antrag der SPD-Fraktion "Querungshilfe auf der Stresemannstr. in Höhe der GGS Friedrich List und der Lise-Meitner-Gesamtschule in 51149 Köln" - zurückgestellt
+- TOP 8.27: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Umbau Fussgängerüberweg Schmittgasse/ Westfeldgasse" - ungeändert beschlossen
+- TOP 8.28: Antrag der SPD-Fraktion "Querungshilfe an der Einmündung der Mühlenstraße in die Ernst-Mühlendyck-Straße" - geändert beschlossen
+- TOP 8.29: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Außengastronomie Porz Langel" - ungeändert beschlossen
+- TOP -: Außengastronomie für die Gaststätte "Zur Eule" auf der Grünfläche Lülsdorfer Str. (AN/0792/2021) - Kenntnis genommen
+- TOP 8.30: Antrag der SPD-Fraktion "Wochenmarkt für Zündorf" - Sache ist erledigt
+- TOP -: Ersetzungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Wochenmarkt für Zündorf" - geändert beschlossen
+- TOP 8.31: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Weiterer Spielplatz für Porz-Eil" - ungeändert beschlossen
+- TOP 8.32: Antrag der SPD-Fraktion "Einhaltung des LKW-Nachtfahrverbot Auf dem Sandberg / Poll" - geändert beschlossen
+- TOP 8.33: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Außengastronomie Zündorf" - ungeändert beschlossen
+- TOP 8.34: Antrag der SPD-Fraktion "Sperrung der Durchfahrtmöglichkeit auf dem Poller Weg /Westhoven" - ungeändert beschlossen
+- TOP 8.35: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Halteverbot Bergerstraße in Porz-Mitte" - ungeändert beschlossen
+- TOP 8.36: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrssituation durch Einrichtung alternierenden - ungeändert beschlossen
+- TOP 8.37: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Einrichtung von Fahrrad-Anlehnbügel vor den Geschäften an der Siegburger - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Buslinie über die Rodenkirchener Brücke - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Buslinie über die Rodenkirchener Brücke" - Sache ist erledigt
+- TOP 9.1.2: Lehrschwimmbecken Grundschule Hohe Straße in Köln-Porz/Ensen (Vorlage Nr. 0056/2021) - zur Anfrage der SPD-Fraktion AN/0424/2021 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Vorlage Nr. 0056/2021 – Beantwortung einer Anfrage, Lehrschwimmbecken Grundschule Hohe Straße in Köln-Porz/Ensen" - Sache ist erledigt
+- TOP 9.1.3: Glas- und Altkleiderstandorte (Anfrage der FDP) - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfrage zur Sitzung der Bezirksvertretung Porz am 29.04.2021 - Kenntnis genommen
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Sachstand Aufwertung Marktplatz Ensen" - zurückgestellt
+- TOP 9.2.3: Anfrage der Fraktion DIE LINKE/Die PARTEI "Erinnerung an das ehemalige SA-Lager Am Hochkreuz" - zurückgestellt
+- TOP 9.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5: Anfrage der SPD-Fraktion "Impf-Aktion in Gebieten mit hohen Inzidenzwerten" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); vorhabenbezogener Bebauungsplan Nr. 76381/02 und Vorhaben und Erschließungsplan - Kenntnis genommen
+- TOP 10.2.2: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Kenntnis genommen
+- TOP 10.2.3: Monitoring Streuobstwiesen Köln - Kenntnis genommen
+- TOP 10.2.4: Beleuchtung auf dem Fußweg entlang der Hafenbahntrasse in Poll - Kenntnis genommen
+- TOP 10.2.5: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren "Östlich Im Falkenhorst in Köln-Porz-Urbach" - Kenntnis genommen
+- TOP 10.2.6: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren "Leidenhausener Straße in Köln-Porz-Eil" - Kenntnis genommen
+- TOP 10.2.7: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 10.2.8: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 10.2.9: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - Kenntnis genommen
+- TOP 10.2.10: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.11: Verbesserung der Sicherheit an der Kaserne Wahn - Kenntnis genommen
+- TOP 10.2.12: Herrichtung von Trendsportangeboten für Kinder und Jugendliche, Stresemannstraße in Köln-Finkenberg - Kenntnis genommen
+- TOP 10.2.13: Schulwegsicherung Mendener Straße - Kenntnis genommen
+- TOP 10.2.14: Umbenennung der Mudra-Kaserne (Westhoven) in Gereon-Kaserne - Kenntnis genommen
+- TOP 10.2.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.16: Öffentlichkeitsbeteiligung Projekt Glashüttenstraße - Kenntnis genommen
+- TOP 10.2.17: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
