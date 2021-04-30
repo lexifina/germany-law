@@ -1,0 +1,61 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-04-30T14:00:00+02:00
+- Ende: 2021-04-30T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20177
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20177
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408473.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408473.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00408473.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 26.03.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Heinrich-Heine-Allee 14 - Beseitigung eines Gebäudes im Geltungsbereich der Gestaltungssatzung - einstimmig beschlossen
+- TOP 5.3: Bebauungsplanverfahren Nr. 01/022 Uerdinger Str. 67 - Empfehlung einstimmig beschlossen
+- TOP 5.4: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 5.5: Erweiterung der Kindertageseinrichtung Metzer Straße 11-13, Stadtbezirk 1 (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 5.6: Plan Nr. 01/017 -- Schwannstraße 3 und Kennedydamm 5 - zurückgezogen
+- TOP 5.7: Information der Verwaltung zu den Standorten der Stadtstrände - zur Kenntnis genommen
+- TOP 5.8: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren - zur Kenntnis genommen
+- TOP 5.9: Verlängerung Standzeit Riesenrad bis 31.05.2021 - zur Kenntnis genommen
+- TOP 5.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Preisgedämpfte Wohnungen auf dem Areal Ulmer Höh Südteil in Derendorf - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Museumsschiff am Rheinufer - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Gaslaternen im Quartier Gneisenaustraße / Goebenstraße / Parkstraße - Anfrage der SPD-Fraktion
+- TOP 7.2: Grünfläche auf der Verkehrsinsel an der Rheinterrasse - Anfrage der SPD-Fraktion
+- TOP 7.3: Einhaltung der Corona-Maßnahmen auf dem Carlsplatz - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 7.4: Zweitwohnungen im Stadtbezirk 1 - Anfrage Peter Klein, Vertreter DIE LINKE
+- TOP 7.5: Schulhof Städtische Katholische Grundschule Paul-Klee-Schule - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7.6: Telekomgebäude Moltkestraße 23 - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Instandsetzung und ggf. Ersatz der maroden Skateranlagen im Bezirk 1 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Taubenschläge im Bereich des Stadtbezirks 1 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.3: Ausweitung und Anpassung der Anwohnerparkgebiete im Stadtbezirk 1 - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 8.4: Vergrößerung von Baumscheiben im Stadtbezirk 1 - Antrag Peter Klein, Vertreter DIE LINKE - mehrheitlich beschlossen
+- TOP 8.5: Antrag auf bauliche Maßnahmen auf der Spielstraße An der Ulanenkaserne - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 8.6: Antrag auf Versetzung von Glascontainern auf der Vagedesstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.7: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Essener Straße - Antrag der Fraktion Bündnis90/Die Grünen - mehrheitlich beschlossen
+- TOP 8.8: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Paul-Klee-Schule - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.9: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Thomasschule - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.10: Prüfung sichere Schulwege zur Grundschule: Städtische Gemeinschaftsgrundschule Lennéstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.11: Sanierung der historischen Festungsmauer Bastion Diamantstein “Maria Amalia" - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Sauberkeit von Grünanlagen & Spielplätzen – Frankenplatz; Beschluss der BV 1 am 26.03.21; BV1/054/2021 - zur Kenntnis genommen
+- TOP 9.3: Bessere Kennzeichnung und Ausbau der Ladestationen für elektrisch betriebene PKWs an der Marc-Chagall-Straße, Beschluss der Bezirksvertretung 1 vom 26.03.2021, BV1/053/2021 - zur Kenntnis genommen
+- TOP 9.4: Prüfantrag: Erneuerung bzw. Reparatur Oberflächenbelag auf der Behelfsbrücke über den Kennedydamm; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/013/2021 - zur Kenntnis genommen
+- TOP 9.5: Zufahrtsbeschränkungen Mannesmannufer; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/070/2021 - zur Kenntnis genommen
+- TOP 10: Verschiedenes
