@@ -1,0 +1,1 @@
+# Bremische Verordnung über die Ausbildung und Prüfung für die Laufbahngruppe 2, zweites Einstiegsamt in der Fachrichtung allgemeine Dienste zur Verwendung im Archivdienst im Land Bremen (Bremische Ausbildungs- und Prüfungsordnung Archivdienst - APO-ArchivD
