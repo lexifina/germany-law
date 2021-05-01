@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages – Erschließungsbeitragssatzung –
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2020-04-08 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/erschliessungsbeitragssatzung_08_04_2020.pdf
+- Datum: 2021-05-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/erschliessungsbeitragssatzung_01_05_2021.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -11,10 +11,10 @@
 Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages
 – Erschließungsbeitragssatzung –
 vom 29. Juni 2001
-in der Fassung der 18. Satzung zur Änderung der Erschließungsbeitragssatzung vom 8. April 2020
-- ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175, S. 1087, S. 1088, 2010, S. 1013, 2011, S. 1134, 2013, S. 141, 2014, S. 44, S. 961, 2015, S. 514, 2017, S. 5, S. 461, 2019 S. 111, 2020, S. 491 -
+in der Fassung der 19. Satzung zur Änderung der Erschließungsbeitragssatzung vom 1. Mai 2021
+- ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175, S. 1087, S. 1088, 2010, S. 1013, 2011, S. 1134, 2013, S. 141, 2014, S. 44, S. 961, 2015, S. 514, 2017, S. 5, S. 461, 2019 S. 111, 2020, S. 491, 2021, S. 180 -
 
-Der Rat der Stadt Köln hat in seiner Sitzung am 26.03.2020 aufgrund des § 132 Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit §§ 7 und 77 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666/SGV. NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
+Der Rat der Stadt Köln hat in seiner Sitzung am 23.03.2021 aufgrund des § 132 Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit §§ 7 und 77 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666/SGV. NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 §1 Gegenstand der Satzung
 Der Erschließungsbeitrag wird nach den Bestimmungen des BauGB und dieser Satzung erhoben.
 §2 Art und Umfang der Erschließungsanlagen
@@ -137,19 +137,19 @@ Zum beitragsfähigen Aufwand gehören auch Fremdkapitalkosten. Sie sind nicht Be
 
 Einheitssatz für Erschließungsanlagen bzw. ihre Teileinrichtungen nach § 2 Abs. 1 Ziffer
 
-Herstellungszeitraum ab 01.01.2018 bis 31.12.2018
+Herstellungszeitraum ab 01.01.2019 bis 31.12.2019
 
 Euro/m²
 
-17 1 bis 4 Straßenbeleuchtung
+18 1 bis 4 Straßenbeleuchtung
 
 a) technische Leuchtstellen
 
-7,49
+8,27
 
 b) dekorative Leuchtstellen
 
-16,03
+16,72
 
 Die Verzeichnisse der Einheitssätze sind Bestandteil dieser Satzung.
 
@@ -239,7 +239,7 @@ b) diese gärtnerisch gestaltet sind.
 § 10 Immissionsschutzanlagen
 Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
 § 11 Inkrafttreten
-Die Satzung tritt rückwirkend zum 01.01.2018 in Kraft.
+Die Satzung tritt rückwirkend zum 01.01.2019 in Kraft.
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
 Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
 
@@ -253,7 +253,7 @@ c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet
 oder
 d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
 
-Köln, den 8.04.2020
+Köln, den 1.05.2021
 
 Henriette Reker Die Oberbürgermeisterin
 
