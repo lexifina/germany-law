@@ -1,0 +1,77 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-05-03T17:10:00+02:00
+- Ende: 2021-05-03T22:22:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTuOCgV2qoNzu7hqX93CTpw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7382
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUlmaR3XG9_lWKFhN6DVUSb6Yr-wOEhJD7JYfLk18UqV/Bekanntmachung_Rat_03.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfAlbUYBRb5zc1FEcJiSywTW2qge9A2T52kjAQQB_j7E/Oeffentliche_Niederschrift_Rat_03.05.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Bebauungsplan 06.15/südlich Otto-Wels-Straße
+- TOP 1.2: Freiflächen in Brühl
+- TOP 1.3: E-Scooter in Brühl
+- TOP 2.: Niederschrift vom 01.03.2021
+- TOP 3.: Bestellung einer stellvertretenden Schriftführerin - (kein Text vorhanden)
+- TOP 4.: Haushalt 2021
+- TOP 4.1: Haushaltssatzung 2021 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung
+- TOP 4.1.1: Haushaltssatzung 2021 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 4.2: Ersatz Wegfall Hauptsatzung § 17 Haushaltsüberschreitungen durch § 8 Haushaltssatzung - (kein Text vorhanden)
+- TOP 4.3: Erlass der Haushaltssatzung 2021 Rat 01.03.21 u. HA 22.03.21, 12.04.21, 19.04.21 - (kein Text vorhanden)
+- TOP 5.: Neue Namensgebung der Stadtbücherei - (kein Text vorhanden)
+- TOP 6.: Kulturstiftung für die Stadt Brühl hier: Besetzung des Stiftungsrates - (kein Text vorhanden)
+- TOP 7.: Bestellung eines Vorstandsmitgliedes und einer Stellvertretung für die WEPAG e.V. - (kein Text vorhanden)
+- TOP 8.: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen Hier: Zweckverbandsversammlung des Verkehrsverbundes Rhein-Sieg - (kein Text vorhanden)
+- TOP 9.: Räumliche und konzeptionelle Weiterentwicklung des CULTRA hier: Antrag des Arbeiter-Samariter-Bundes (ASB) - (kein Text vorhanden)
+- TOP 10.: Beantragung von Fördermitteln aus dem NRW Sofortprogramm „Zukunft Innenstadt“ - (kein Text vorhanden)
+- TOP 11.: Förderprogramm für Dachbegrünungsmaßnahmen Bezug: Rat vom 23.09.2019, Vorlage 358/2019, Rat vom 16.12.2019, Vorlagen-Nr. 358/2019 - (kein Text vorhanden)
+- TOP 12.: Kindertagesstätte „Rheinblick“ der Kinderzentren Kunterbunt auf dem Wingertsberg hier: Bauherrenwechsel Bezug: Beschluss des Rates zu Vorlagen-Nr. 385/2019 - (kein Text vorhanden)
+- TOP 13.: Rheinspange 553 - Resolution der Stadt Brühl - (kein Text vorhanden)
+- TOP 14.: Grundsatzbeschluss zum kommunalen Baulandmanagement – Beantwortung des Antrags der FDP Fraktion vom 05.09.2019 - (kein Text vorhanden)
+- TOP 14.1: Grundsatzbeschluss zum kommunalen Baulandmanagement Bezug: Gemeinsamer Änderungsantrag der Fraktionen SPD und Grüne vom 26.04.2021 - (kein Text vorhanden)
+- TOP 15.: Marktanalyse gem. § 107 Abs. 5 GO NRW - Beteiligung der Stadtwerke Brühl GmbH an der Walter hilft GmbH und Gründung einer Stadtverkehrsgesellschaft durch die Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 16.: Beteiligung der Stadtwerke Brühl GmbH an der "Versorgerallianz 450MHz Beteiligungs-GmbH" - (kein Text vorhanden)
+- TOP 17.: Satzungen
+- TOP 17.1: 16. Änderung der Hauptsatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 17.1.1: Ergänzung zu Top 16.1 „Änderung der Hauptsatzung“ Bezug: Antrag der Fraktion Linke&Piraten vom 29.04.2021 - (kein Text vorhanden)
+- TOP 17.2: Satzung für das Jugendamt der Stadt Brühl - (kein Text vorhanden)
+- TOP 17.3: Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - - (kein Text vorhanden)
+- TOP 18.: Umbesetzung in Ausschüssen
+- TOP 18.1: Wahl eines beratenden Mitglieds für den Jugendhilfeausschuss sowie Wahl eines stellvertretenden beratenden Mitglieds für den Jugendhilfeausschuss aus der Mitte des Integrationsrates
+- TOP 18.2: Entsendung sachkundiger Einwohnerinnen und Einwohner sowie deren Begleitung in verschiedene Ausschüsse - (kein Text vorhanden)
+- TOP 18.3: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 15.04.2021 - (kein Text vorhanden)
+- TOP 19.: Anträge
+- TOP 19.1: Vormontage von Blumenkästen-Halterungen am Rathaus Steinweg Bezug: Antrag der FDP-Fraktion vom 26.02.2021 - (kein Text vorhanden)
+- TOP 19.2: Resolution für mobile Geschwindigkeitskontrollen in der Stadt Brühl Bezug:Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 11.04.2021 - (kein Text vorhanden)
+- TOP 19.3: Prüfauftrag zur Einbindung der Open-Source-Plattform für digitale Bürgerbeteiligung „Consul“ auf der Internetseite der Stadt Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 15.04.2021
+- TOP 19.3.1: Prüfauftrag zur Einführung des Bürgerbeteiligungsportals „Consul“ und Einbindung auf der Website der Stadt Brühl hier: Antrag der LINKE & Piraten-Fraktion vom 15.04.2020, Vorlagen-Nr.: 205/2021
+- TOP 19.4: Hissen der Regenbogenfahne anlässlich des „Pride Month“ im Juni 2021 Bezug: Antrag der Fraktion Linke&Piraten vom 15.04.2021 - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Gebühren für die Kinderbetreuung in der Pandemie
+- TOP 21.: Anfragen
+- TOP 21.1: Sachstand Windpark Bleibtreusee Bezug: Anfrage der AfD-Fraktion vom 21.03.2021
+- TOP 21.1.1: Anfrage der AfD-Ratsfraktion vom 21.03.2021 zum Sachstand Windpark Bleibtreusee (Vorlagennummer 164/2021)
+- TOP 21.2: Nationaler Radverkehrsplan
+- TOP 21.3: Mobilitätsmesse
+- TOP 21.4: Temporäre Spielstraßen
+- TOP 21.5: Geschwindigkeitsmessungen
+- TOP 21.6: Niederschriften von Sitzungen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 22.: Kreditaufnahme zur Weiterleitung an die Stadtwerke GmbH - (kein Text vorhanden)
+- TOP 23.: Darlehensgewährung an Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 24.: Abberufung eines Rechnungsprüfers - (kein Text vorhanden)
+- TOP 25.: Bericht über die 156. Sitzung des Aufsichtsrates der REVG mbH am 17.12.2020
+- TOP 26.: Bericht über die 156. Sitzung des Aufsichtsrates der REVG mbH am 17.12.2020
+- TOP 27.: Kundencenter im Neubau Rathaus B hier: Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 28.: Mitteilungen
+- TOP 28.1: Windpark Bleibtreusee
+- TOP 29.: Anfragen
+- TOP 29.1: Stabstelle Integration
