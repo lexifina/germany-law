@@ -1,0 +1,86 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-05-03T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354463
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354463
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Neues Kunstwerk am Gasteig in Sendling
+- TOP 2.2.: Denkmalschutz der DAV Kletteranlage Thalkirchen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Reutbergerstraße 10
+- TOP 4.2.2.: Baumfällung Baumgartnerstraße 1
+- TOP 4.2.3.: Baumfällung Bavariastraße 17
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Fassadenbegrünung des Gasteigs
+- TOP 4.3.3.: Vollzug der abfallrechtlichen Bestimmungen; Müll Großmarkt Antwort an den Bürger
+- TOP 4.3.4.: Dosen und Flaschen am Harras Antwort an die Bürgerschaft
+- TOP 4.3.5.: Baumfällungsbescheid Kidlerstraße 25
+- TOP 4.3.6.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 4.3.7.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 4.3.8.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Anfrage an das Baureferat zur Notrufsäule in den Neuhofener Anlagen
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Isarauen 4 Umgestaltung der Zufahrt zur Schinderbrücke
+- TOP 5.2.2.: Wackersberger Straße 71 Bauschadenbehebung nach Neubau KiTA mit Grosssanierung
+- TOP 5.2.3.: MVV-Leistungsprogramm 2022
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Barrierefreier Zugang zur S-Bahn Mittersendling Antwort des Anliegens
+- TOP 5.3.2.: Parkraummanagement Erweiterung des Parklizenzgebiets Herzog-Ernst-Platz
+- TOP 5.3.3.: Beleuchtung in der Oberländerstraße Antwort an die Bürgerschaft
+- TOP 5.3.4.: Information Vorhaben "Neugestaltung Naturrasenfläche des HC Wacker München"
+- TOP 5.3.5.: Münchner Wochen- und Bauernmärkte Nutzung der Stromquellen auf den Marktstandorten durch Dritte
+- TOP 5.3.6.: Protokoll und Präsentation Info-Veranstaltung Parklets am 24.03.2021 und Sachstand Sommerstraßen
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Absolutes Halteverbot an der Flößergasse / Heißstraße
+- TOP 5.3.8.: Aktueller Stand zum Umbau der Tumblingerstraße
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 1.000,00€; Az. 0262.0-6-0321
+- TOP 6.1.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 1.000,00€; Az. 0262.0-6-0322
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Natükü“ !Natürlich – künstlich! „Natükü“ am 23./24.05.2021 1.280,00 € / Az. 0262.0-6-0323
+- TOP 6.1.4.: (E) Stadtbezirksbudget sendlinger theater-initiative Wirtshaus-Oper „Heid stirbt da Jedermann!“ vom 22.04.-29.05.2021 7.550,00€; Az. 0262.0-6-0316
+- TOP 6.1.5.: (E) Stadtbezirksbudget HIDALGO gGmbH HIDALGO Fuck Up Night am 09.05.2021 2.538,60 € / Az. 0262.0-6-0320
+- TOP 6.1.6.: (E) Stadtbezirksbudget NaturFreunde Deutschlands Bezirk München e.V. Programm „Kostenlos und Draußen“ vom 01.05.-31.12.2021 500,00€; Az. 0262.0-6-0324
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Kinderstadtplan: Vorschlag zur Anmeldung für 2022+
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung The Brother Mill Coffee & Bakery
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
