@@ -1,0 +1,75 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschusses WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-05-04T16:06:00+02:00
+- Ende: 2021-05-04T17:06:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19483
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19483
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 23.04.2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00270061.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00272120.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2020 der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2019 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2019 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2019 der WQG Wuppertaler Quartierentwicklungs GmbH i.L. - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2021 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Beteiligungsbericht der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.2: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2021 bis 31.12.2021 - ungeändert beschlossen
+- TOP 3.3: Zusammenarbeit zwischen Eigenbetrieb Straßenreinigung Wuppertal (ESW) und Abfallwirtschaftsgesellschaft Wuppertal (AWG) - ungeändert beschlossen
+- TOP 3.4: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2020/2021 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.5: Anerkennung einer Forderung im Jahresabschluss 2019 der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Bericht zum Sachstand "Digitalisierungsprogramm Förderal" und "Digitale Modellkommune in der Verwaltung" - Entgegennahme ohne Beschluss
+- TOP 5.2: Sachstandsbericht zur Prüfung einer möglichen Bewerbung um die Ausrichtung einer Bundesgartenschau - Entgegennahme ohne Beschluss
+- TOP 5.3: Situation im Einwohnermeldeamt; Vorbereitung auf das zu erwartende zusätzliche Publikums-/Antragsaufkommen - Entgegennahme ohne Beschluss
+- TOP 5.4: Stellungnahme und Bericht zum gemeinsamen Antrag von SPD und FDP zum Themenkomplex Hardt, ehemalige Justizvollzugsschule sowie mögliche alternative Ausweichquartiere - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Ersatzquartiere für das Ganztagsgymnasium Johannes Rau und die Else Lasker-Schüler-Gesamtschule während der jeweiligen Sanierungszeiten - ungeändert beschlossen
+- TOP 6.2: Inneneinrichtung des Pavillons am Döppersberg - ungeändert beschlossen
+- TOP 6.3: Verwendung der Ehrenamtspauschale - ungeändert beschlossen
+- TOP 6.4: Richtlinien über die Förderung in Kindertagespflege und über die Festsetzung der Höhe der Geldleistung für Kindertagespflegepersonen nach § 23 SGB VIII - vertagt auf Rat
+- TOP 6.5: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 6.6: Einmaliger Zuschuss für die Kulturgemeinde Volksbühne e.V. - ungeändert beschlossen
+- TOP 6.7: Verzicht auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 6.8: Bundesförderprojekt Modernisierung der Bühnenpodien und Punktzüge im Opernhaus - ungeändert beschlossen
+- TOP 6.9: Unterhaltung und Sanierung Gräber Verdienter Bürgerinnen und Bürger - ungeändert beschlossen
+- TOP 6.10: Satzungsänderungen der Freiherr Von der Heydt-Stiftung und der Hedwig-Wülfing-Stiftung - ungeändert beschlossen
+- TOP 6.11: Personalrekrutierung - Entgegennahme ohne Beschluss
+- TOP 6.11.1: Personalrekrutierung - Große Anfrage der Fraktionen von SPD und FDP sowie der Freien Wähler im Rat vom 16.04.21 (VO/0580/21) - Entgegennahme ohne Beschluss
+- TOP 6.12: Ausbildungskapazität ausbauen um Personalmangel entgegenzuwirken - ungeändert beschlossen
+- TOP 6.13: Grundsatzbeschluss Umwandlung des ehemaligen Freibades Mirke zu einem Naturfreibad - ungeändert beschlossen
+- TOP 6.14: Große Anfrage – Kosten und Struktur des Rechtsamtes der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6.14.1: Antwort auf die Große Anfrage der FDP-Fraktion zu Kosten und Struktur des Rechtsamtes der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6.15: Erlass der Elternbeitragserhebungen für die Monate Mai und – unter Vorbehalt – Juni 2021 - vertagt auf Rat
+- TOP 6.16: Erlass der Elternbeitragsgebühren - vertagt auf Rat
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Umsetzung des Haushaltssanierungsplans 2012 - 2021 zum 31.12.2020 - Entgegennahme ohne Beschluss
+- TOP 8.2: Beteiligungsformate zum Haushaltsplan 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 8.3: Finco-Bericht zum 31.03.2021 - Entgegennahme ohne Beschluss
+- TOP 8.4: Stand der Investitions- und Kassenkredite zum 31.03.2021 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Veröffentlichung des Prüfvermerks der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2019 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
