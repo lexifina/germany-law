@@ -1,0 +1,6 @@
+# TOP -: Teil C - Haushaltsangelegenheiten
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschusses WAW (2021-05-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/105138
