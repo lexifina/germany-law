@@ -121,9 +121,11 @@
 #### Unterabschnitt 1 Sektorübergreifende Prüfung von Unternehmenserwerben
 
 - [§ 55 Anwendungsbereich der sektorübergreifenden Prüfung](0055.md)
+- [§ 55a Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit](0055a.md)
 - [§ 56 Stimmrechtsanteile](0056.md)
 - [§ 57 (weggefallen)](0057.md)
 - [§ 58 Unbedenklichkeitsbescheinigung](0058.md)
+- [§ 58a Freigabe eines Erwerbs nach § 55](0058a.md)
 - [§ 59 Untersagung oder Anordnungen](0059.md)
 
 #### Unterabschnitt 2 Sektorspezifische Prüfung von Unternehmenserwerben
@@ -132,6 +134,10 @@
 - [§ 60a Stimmrechtsanteile](0060a.md)
 - [§ 61 Freigabe eines Erwerbs nach § 60](0061.md)
 - [§ 62 Untersagung oder Anordnungen](0062.md)
+
+#### Unterabschnitt 3 Verfahrensübergreifende Maßnahmen
+
+- [§ 62a Verfahrenswechsel im Prüfverfahren](0062a.md)
 
 ## Kapitel 7 Meldevorschriften im Kapital- und Zahlungsverkehr
 
@@ -193,8 +199,10 @@
 - [§ 81 Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung](0081.md)
 - [§ 82 Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union](0082.md)
 
-## Kapitel 10 Inkrafttreten
+## Kapitel 10 Übergangsbestimmungen, Evaluierung und Inkrafttreten, Außerkrafttreten
 
+- [§ 82a Übergangsbestimmungen](0082a.md)
+- [§ 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung](0082b.md)
 - [§ 83 Inkrafttreten, Außerkrafttreten](0083.md)
 - [Anlage 1 Anlage AL zur Außenwirtschaftsverordnung](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
