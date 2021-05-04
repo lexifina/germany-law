@@ -1,0 +1,57 @@
+# Hauptausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2021-05-04T18:00:00+02:00
+- Ende: 2021-05-04T19:50:00+02:00
+- Ort: Rheinforum Wesseling, Kölner Straße 42, 50389 Wesseling, Saal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWQkTMTgDnNMsJkCL6a1Hmk
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5940
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjezqbZYep7fmcXj-JyIGZ9Sfw-gi-eF9rIpfVaZsO6/Einladung_Hauptausschuss_04.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT6PLdmUf_kHEZsgP-tSz4RSGvkOOoWNnptSmqDnmBii/Oeffentliche_Niederschrift_Hauptausschuss_04.05.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Beratung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2021
+- TOP 6.1.: Beratung des Entwurfs des Wirtschaftsplans der Wald- und Parkanlagen für das Wirtschaftsjahr 2021
+- TOP 6.2.: Beratung des Haushaltsentwurfs für das Haushaltsjahr 2021 für die Bereiche 50 - Soziale Hilfen und Wohnungswesen - und 55 - Stabsstelle Senioren -
+- TOP 6.3.: Antrag der SPD zur Einrichtung einer Vollzeitstelle einer Hebamme bzw. Familienhebamme
+- TOP 6.4.: Antrag der SPD zur Einrichtung einer Kooperation mit dem Frauenforum Brühl/Hürth e. V. zur Beratung von Frauen
+- TOP 6.5.: Beratung des Haushaltsentwurfs des Produktbereiches Sportförderung und des Wirtschaftsplans Sportstätten für das Haushaltsjahr 2021
+- TOP 6.6.: Beratung des Haushaltsentwurfs des Produktbereiches Kultur und Wissenschaft und des Wirtschaftsplans Kulturbetriebe für das Haushaltsjahr 2021
+- TOP 6.7.: Antrag der Fraktion WIR/Freie Wähler Wesseling vom 31.03.2021 "Haushaltsberatungen 2021 hier: Tag des offenen Denkmals"
+- TOP 6.8.: Antrag der Fraktion WIR/Freie Wähler Wesseling vom 31.03.2021 "Haushaltsberatungen 2021 hier: Restaurierung des Epitaphs für russische Zwangsarbeiter auf dem Friedhof Berzdorf"
+- TOP 6.9.: Beratung des Haushaltsentwurfs für das Haushaltsjahr 2021 für den Teilbereich Wirtschaftsförderung (80) und das fachbereichsübergreifende Thema Digitalisierung
+- TOP 6.10.: Antrag der Fraktionen CDU und Bündnis 90 / Die Grünen: Haushaltsberatungen 2021 - AWDI
+- TOP 6.11.: Beratung des Haushaltsentwurfs für das Haushaltsjahr 2021 für den Bereich 61 - Stadtentwicklung und Umwelt - Produktbereich 51 Räumliche Planung und Entwicklung, Geoinformationen - Produktbereich 55 Natur- und Landschaftspflege - Produktbereich 56 Umweltschutz
+- TOP 6.12.: Antrag der SPD-Fraktion vom 29.03.2021 "Haushaltsberatungen für den Haushalt 2021 hier: Hundewiese im Rheinpark"
+- TOP 6.13.: Antrag der SPD-Fraktion vom 29.03.2021 "Haushaltsberatungen für den Haushalt 2021 hier: Verkehrsberuhigung An der Elsmaar"
+- TOP 6.14.: Antrag der SPD-Fraktion vom 29.03.2021 "Haushaltsberatungen für den Haushalt 2021 hier: Gehwege Friedhof Keldenich"
+- TOP 6.15.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen vom 31.03.2021 "Haushaltsberatungen 2021: ASU"
+- TOP 6.16.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen vom 31.03.2021 "Haushaltsberatungen 2021: ASU"
+- TOP 6.17.: Antrag der Fraktion WIR/Freie Wähler Wesseling vom 31.03.2021 „Haushaltsberatungen 2021 hier: Instandsetzung der Musikanlage der Göddertz-Uhr am Neuen Rathaus“
+- TOP 6.18.: Antrag der Fraktion WIR/Freie Wähler Wesseling "Haushaltsberatungen 2021 hier: Fahrradstraße zwischen L300 und Berzdorfer Straße"
+- TOP 6.19.: Antrag der Fraktion WIR/Freie Wähler Wesseling "Haushaltsberatungen 2021 hier: Bootsanleger für die Feuerwehr"
+- TOP 6.20.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Haushaltsberatungen 2021 hier: Sitzungsgeld für Seniorenbeiratsmitglieder
+- TOP 6.21.: Antrag der SPD-Fraktion zu den Haushaltsberatungen 2021: Wessinale als eigenständige Veranstaltung
+- TOP 6.22.: Antrag der SPD-Fraktion zu den Haushaltsberatungen 2021: Startpaket für Wesselinger Erstklässler*innen
+- TOP 6.23.: Antrag der SPD-Fraktion zu den Haushaltsberatungen 2021: Erweiterung der Berechtigten für den Familienpass
+- TOP 6.24.: Antrag der SPD-Fraktion zu den Haushaltsberatungen 2021: Erstattung des pandemiebedingten Mehraufwands der caritativ tätigen Vereine
+- TOP 7.: Benennung eines ehrenamtlichen stellvertretenden Behindertenbeauftragten - Einstimmig, 0 Enthaltungen
+- TOP 8.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Haushalt 2021: Stellenplan - 22 Ja-Stimmen, 1 Nein-Stimme
+- TOP 1.1.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Haushalt 2021: Aufnahme einer dritten Beigeordnetenstelle in den Stellenplan 2021 - 13 Ja-Stimmen, 3 Nein-Stimmen, 7 Enthaltungen
+- TOP 2.: Grunderwerb im Bereich „Auf der Hochfuhr“ in Wesseling-Urfeld - Einstimmig, 0 Enthaltungen
+- TOP 3.: Grundstücksvergabe im Wege des Erbbaurechtes im Bereich „Kreuz-Knippchen“ in Wesseling-Urfeld - Einstimmig, 0 Enthaltungen
+- TOP 4.: Vergabe von Rahmenverträgen für Leistungen im Bauunterhalt, hier die Gewerke Bodenbelag, Schreinerarbeiten, Dachdecker, Metallbau, Elektroarbeiten, Verglasungsarbeiten und Wege- / Galabau - Einstimmig, 0 Enthaltungen
+- TOP 5.: Mitteilungen und Anfragen
+- TOP 6.: Presseveröffentlichungen
