@@ -1,0 +1,54 @@
+# 54. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-05-05T17:40:00+02:00
+- Ende: 2021-05-05T20:07:00+02:00
+- Ort: UNVG , https://global.gotomeeting.com/join/487267477
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5323
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5323
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=502821
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=506378
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 48. Sitzung am 18.11.2020 (verschickt am 22.04.2021) - vertagt
+- TOP 1.2.2: der 51. Sitzung am 26.01.2020 (verschickt am 27.04.2021) - vertagt
+- TOP 1.2.3: der 52. Sitzung am 03.03.2020 - vertagt
+- TOP 1.2.4: der 53. Sitzung am 15.04.2021 (verschickt am 04.05.2021) - vertagt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Terminabstimmung Sondersitzung UNVG - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Beratung von Drucksachen - (offen)
+- TOP 5.1: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - vertagt
+- TOP 5.2: Reale Verbesserungen im Nikolaiviertel – (k)eine unendliche Geschichte? - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Verbesserungen durch Mobilitätsgesetz in der Invalidenstraße – Transparenz unterstreichen, Praxisauswertung einplanen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.4: Roter Atlas gefährdeter Arten - vertagt
+- TOP 5.5: Sicherheit bei der gemeinsamen Nutzung der Schillingstraße durch Fußgänger und Radfahrer erhöhen - vertagt
+- TOP 5.6: Straßenfeste auf Mittes Straßen nach Corona ermöglichen und ertüchtigen - vertagt
+- TOP 5.7: Mehr Platz in der Corona-Pandemie II - vertagt
+- TOP 5.8: Bismarck-Denkmal reinigen! - vertagt
+- TOP 5.9: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - vertagt
+- TOP 5.10: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - vertagt
+- TOP 5.11: Inklusivität auf unseren Spielplätzen steigern - vertagt
+- TOP 5.12: Haltebügel für Radfahrende in der Hauptstadtmitte - vertagt
+- TOP 5.13: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - vertagt
+- TOP 5.14: Landschaftsschutzgebiet in der Rehberge ausdehnen - vertagt
+- TOP 5.15: Rodelbahn wiederherstellen - vertagt
+- TOP 5.16: Weniger Müll in Mitte II - vertagt
+- TOP 5.17: Stolperfreies Spielen ermöglichen! - vertagt
+- TOP 5.18: Grünanlage an der Panke schützen - vertagt
+- TOP 5.19: Platz da, Mazda – Autofreie Zentralhaltestelle Turmstraße - vertagt
+- TOP 5.20: Ein neues Zentrum für Kinder und Jugendliche am Sprengelkiez! - vertagt
+- TOP 6: Verschiedenes - erledigt
+- TOP 7: Terminplanung - erledigt
