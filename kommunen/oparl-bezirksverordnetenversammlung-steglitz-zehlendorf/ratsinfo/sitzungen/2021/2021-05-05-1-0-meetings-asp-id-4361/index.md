@@ -1,0 +1,60 @@
+# 25. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-05-05T17:00:00+02:00
+- Ende: 2021-05-05T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4361
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4361
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 03.03.2021 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Bezirkliches Radnebenroutennetz in der Goerzallee absichern - vertagt
+- TOP 4.2: Keine PKW-Parkplätze in der Schloßstraße - vertagt
+- TOP 4.3: Verkehrschaos am Wochenende an Schlachtensee und Krumme Lanke - vertagt
+- TOP 4.4: Platz des 4. Juli – Was jetzt zu tun ist - vertagt
+- TOP 4.5: Bürgersteige Dahlemer Weg/Mörchinger Straße absenken - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Mehr Sauberkeit in Lichterfelde - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Fahrradabstellplätze an den Uferstraßen von Schlachtensee und Krumme Lanke - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Busspur Teltower Damm unter Erhalt der Parkplätze - im Ausschuss abgelehnt
+- TOP 4.9: Havelchaussee – erst prüfen, dann entscheiden - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.10: LZA Buhrowstraße/Steglitzer Damm - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: Temporäres Aufstellen des Verkehrsschildes 239 in der Finckensteinallee 3/Goerzallee - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.12: Gehwegverbreiterung Teltower Damm 279 und 281 - mit Änderungen im Ausschuss beschlossen
+- TOP 4.13: Verkehrssicherheit in der Breisgauer Straße in Schlachtensee verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Bordsteinabsenkung deutlich erkennbar machen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.15: Parkraumbewirtschaftung auf und um den Kranoldplatz - im Ausschuss abgelehnt
+- TOP 4.16: Gefährliche Schulwege - temporäre Anordnungen einsetzen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.17: Dahlemer Weg – Schäden auf dem „Nebenweg“ beseitigen - im Ausschuss abgelehnt
+- TOP 4.18: Poller in Am Birkenknick Ecke Teltower Damm sanieren - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.19: Steglitz – Parkraumbewirtschaftung neu ordnen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.20: 161 neue Fahrradparkplätze am S-Bahnhof Lichterfelde-West sind nötig und möglich - vertagt
+- TOP 4.21: Die Feuerbachstraße zur Fahrradstraße machen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.22: Eine Gesamtüberquerung zur Sicherheit von Fußgehenden an der Kreuzung Drakestraße/Goerzallee/Hindenburgdamm/Königsberger Straße ermöglichen - vertagt
+- TOP 4.23: Altglas- und Altkleidercontainer Nikolassee Kirchweg/ Mittelbusch - vertagt
+- TOP 4.24: Lichtsignalanlage an der Clayallee/Ecke Pücklerstraße - vertagt
+- TOP 4.25: Smiley-Dialogdisplays für den Bezirk - vertagt
+- TOP 4.26: Tempo 30 auf einem Teilstück der Feuerbachstraße ermöglichen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.27: Radroute RR1/TR4 am Breitenbachplatz zügig verbessern - vertagt
+- TOP 4.28: Schneeradstrecke B1 - vertagt
+- TOP 4.29: Feuerbachstraße zwischen Schloßstraße und Schöneberger Straße als Fahrradstraße ausweisen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.30: Umgestaltung des Hermann-Ehlers-Platzes - Umgebung des „Kreisels" stadtplanerisch mitdenken! - vertagt
+- TOP 4.31: Sicherer Fußgängerüberweg über den Dahlemer Weg - vertagt
+- TOP 4.32: Vorsicht an der Altdorfer Straße - vertagt
+- TOP 4.33: Straßenzug Gutzmannstraße/Leo-Baeck-Straße für LKW ab 7,5 t sperren - vertagt
+- TOP 4.34: Aufhebung des Verkehrszeichen 318/Parkscheibe in der Ladiusstraße/Ladenzeile - vertagt
+- TOP 4.35: Vernünftiges Parken für Carsharing-Fahrzeuge - vertagt
+- TOP 4.36: Tempo 30 einhalten auf der Matterhornstraße - vertagt
+- TOP 4.37: Tempo 30 markieren auf der Straße Am Großen Wannsee - vertagt
+- TOP 4.38: Sicherer Überweg für Grundschüler - vertagt
+- TOP 4.39: Eine runde Parkbank und mehr Grün für die Schützenstraße in Steglitz - vertagt
+- TOP 4.40: Trinkbrunnen an die Breisgauer Straße - vertagt
+- TOP 4.41: Kein Ausbau der AVUS – Kapazität intelligent nutzen - vertagt
+- TOP 5: Verschiedenes - erledigt
