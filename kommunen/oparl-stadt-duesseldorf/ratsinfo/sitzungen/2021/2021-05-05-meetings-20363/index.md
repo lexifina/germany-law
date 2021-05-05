@@ -1,0 +1,52 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-05-05T15:00:00+02:00
+- Ende: 2021-05-05T17:18:00+02:00
+- Ort: Achtung geänderter Sitzungsort! Cecilien-Gymnasium, Schorlemerstraße 99, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20363
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20363
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409137.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409137.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00409137.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/003/2021 vom 17.03.2021 - einstimmig beschlossen
+- TOP 3: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 4: Perspektivenworkshop - Südlich Oberlöricker Straße - Empfehlung einstimmig beschlossen
+- TOP 5: Bebauungsplanverfahren Nr. 04/021 - Niederkasseler Straße/Kanalstraße - Empfehlung mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Sachstand zum Grundstück Clarissenstraße 44 in Heerdt, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Pflasterung im öffentlichen Bereich um das Grundstück Kirche St. Antonius, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 9: Zustand Greifweg, Anfrage der FDP-Fraktion
+- TOP 10: Deichradweg in desolatem Zustand und renovierungsbedürftig, Anfrage der FDP-Fraktion
+- TOP 11: Straßenbeleuchtung im Stadtteil Lörick, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 12: Öffentliche Brachgelände an der Büttgenbachstraße, Anfrage des Bezirksvertreters Marco Staack
+- TOP 13: Luftfilteranlagen in linksrheinischen Schulen, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 14: Die Einstellung der Metrobuslinien - das Ende der Verkehrswende?, Anfrage der SPD-Fraktion
+- TOP 15: Radwegeanschluss Rheinkniebrücke, Anfrage des Bezirksvertreters Marco Staack
+- TOP 16: Hansaallee: Baumschutz, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 17: Lärmschutz durch Tempo 60 auf den linksrheinischen Stadtautobahnen, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 18: Düsseldorf investiert Millionen in Bäume - warum nicht auch in Heerdt? Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 19: Parkflächen fortentwickeln, Aufenthaltsqualität sichern - Unser Belsenpark, überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 20: Mobilität neu denken - linksrheinische Mobility Hubs, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 21: Standorte aufwerten - unattraktive Brachflächen beseitigen: Die Fläche unterhalb der Brüsseler Straße aufwerten, Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 22: Beteiligungsverfahren zur Gestaltung Belsenpark für Alle, überfraktioneller Antrag - mehrheitlich abgelehnt
+- TOP 23: Müllbehälter und Hundetoiletten im Belsenpark und auf der Theo-Champion-Straße in Oberkassel, Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 24: Wegeverbindung Ökotop - Büttgenbachstraße - Heerdter Freizeitanlage, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 25: Warnsignal Bahnübergang Nibelungenstraße/Pariser Straße verlängern - zur Kenntnis genommen
+- TOP 26: Beleuchtung am Barbarossaplatz Nord Schorlemerstr./ Arnulfstraße - zur Kenntnis genommen
+- TOP 27: Verschmutzungen vermeiden – Papiercontainer im Stadtbezirk 4 - zur Kenntnis genommen
+- TOP 28: Kröten schützen, Warnschilder aufstellen - zur Kenntnis genommen
+- TOP 29: Pflanzung eines immergrünen Baumes am neuen Hallenbad - zur Kenntnis genommen
+- TOP 30: P&R ermöglichen - Simon-Gatzweiler-Platz sanieren - zur Kenntnis genommen
+- TOP 31: Plan Nr. 04/029 - Südlich Oberlöricker Straße - vertagt
+- TOP 32: Flächennutzungsplanänderung Nr. 186 (Entwurf) - Heerdterhof-Garten - Empfehlung mehrheitlich beschlossen
+- TOP 33: Vereinssportmöglichkeiten für Kinder und Jugendliche im linksrheinischen Düsseldorf, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
