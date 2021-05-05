@@ -1,0 +1,8 @@
+# TOP 5: Kostenfreie FFP2-Masken
+
+- Sitzung: 51. öffentliche Sitzung des Ausschusses für Haushalt, Wirtschaft, Verwaltung und Gleichstellung (2021-05-05)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=39169
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=39169
