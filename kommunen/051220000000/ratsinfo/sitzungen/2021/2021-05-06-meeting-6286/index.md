@@ -1,0 +1,65 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-05-06T17:00:00+02:00
+- Ende: 2021-05-06T18:00:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW76rqXz4S51GwET88bDarE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6286
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQWdBsgugRGEbsWSytEhkpgwMPV97n2z1awaGsK0NKKq/Bekanntmachung_Rat_06.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS60V1qRpy-n6XPsE4L6KDJ0lJlWmdB_fw34VH9IAWtR/Oeffentliche_Niederschrift_Rat_06.05.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sterbefälle in Solingen
+- TOP 1.2: Integration von Neubürgerinnen und Neubürgern
+- TOP 1.3: Vergabe Wochenmärkte und Gebührenerlass
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Anpassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung)
+- TOP 7.: Kommunales Integrationsmanagement
+- TOP 8.: Resolution Kommunalfinanzen Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 22.04.2021
+- TOP 9.: Neufassung der Vergabeordnung der Stadt Solingen
+- TOP 10.: Überplanmäßige Auszahlung in 2021 gemäß § 83 GO NRW im Teilplan 55.01 –Natur- und Landschaftspflege- hier: Sonderbeitrag Hochwasserschutz Eschbach
+- TOP 11.: Überplanmäßige Auszahlung in 2021 gemäß § 83 GO NRW im Teilplan 5101 - Stadtentwicklungsplanung hier: Zustimmung zur Auszahlung der bereits in Vorjahren abgerufenen aber noch nicht ausgezahlten Fördermittel bei 100%-iger Deckung des Aufwandes aus Fördermitteln (Verbindlichkeiten) zur Durchführung und Fertigstellung diverser Stadtentwicklungsmaßnahmen
+- TOP 12.: Sachstandsbericht Bauplanungen im Rahmen der Schulentwicklungsplanung
+- TOP 13.: Sachstandsbericht Bauplanungen im Rahmen der Schulentwicklungsplanung: Realisierungsstudie Vogelsang
+- TOP 14.: Erweiterung der Grundschule Bogenstraße von zwei auf vier Züge auf Grundlage der Schulentwicklungsplanung 2019
+- TOP 15.: Zusätzliche mobile Luftreinigungsgeräte für die städtischen Grund- und Förderschulen; §24 GO NW Bürgerantrag
+- TOP 16.: Örtliche Planung der Klingenstadt Solingen gemäß § 7 Alten- und Pflegegesetz NRW zum Stichtag 31.12.2019
+- TOP 17.: Stauraumkanal Tunnelstraße Hier: Veto des Beirates Untere Naturschutzbehörde
+- TOP 18.: Grundhafte Erneuerung Mühlenstraße/Höhscheider Straße Hier: Verbesserung der Radverkehrsführung
+- TOP 19.: Fortschreibung Nahverkehrsplan - Sachstand
+- TOP 20.: Bauleitplanung Schulzentrum Vogelsang Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplanes W 677 sowie zum Vorentwurf der Flächennutzungsplanänderung Nr. 29/ 04, beide für das Gebiet des Schulzentrums Vogelsang zwischen dem Eigener Feld im Nordwesten, der Straße Vogelsang im Osten, dem Botanischen Garten im Südosten, der Straße Frankfurter Damm im Südwesten und der Bernd-Kurzrock-Sportanlage im Westen – Stadtbezirke Gräfrath und Wald –
+- TOP 21.: Verschiedenes
+- TOP 21.1: Mitteilungen der Verwaltung
+- TOP 21.1.1: Tätigkeitsbericht des Seniorenbeirats
+- TOP 21.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Jahresabschluss 2019 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 5.: Jahresabschluss 2019 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 6.: Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) – (Wieder-) Bestellung von Geschäftsführern
+- TOP 7.: Jahresabschluss 2019/20 der itec solingen gmbh (itec)
+- TOP 8.: itec solingen GmbH (itec) - Abberufung und Bestellung eines Geschäftsführers/in
+- TOP 9.: Jahresabschluss 2019/20 der EDL Solingen GmbH (EDL)
+- TOP 10.: EDL Solingen GmbH (EDL) - Bestellung eines Abschlussprüfers für den Jahresabschluss 2020/21
+- TOP 11.: Jahresabschluss 2020 der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 12.: Vergabe von Ingenieurleistungen Elektro für die Baumaßnahme Neubau Feuer- und Rettungswache II, Brunnenstraße nebst Neubau Feuerwehrgerätehaus
+- TOP 13.: Ankauf von Grundstücken zur Arrondierung Bertholdstraße 6, Gemarkung Wald, Flur 35, Flurstücke 110 und 111, Gesamtgröße 3.202 qm
+- TOP 14.: Vergabe des städtischen Grundstückes Schwabenstraße als Erbbaurecht an einen Investor mit Bauverpflichtung für eine 6- gruppige Kindertagesstätte
+- TOP 15.: Verkauf des städtischen Grundstückes Höher Straße an einen Investor mit Bauverpflichtung für eine 6- gruppige Kindertagesstätte
+- TOP 16.: Verkauf einer städtischen Liegenschaft an einen Investor - Bereich Lotsenstraße -
+- TOP 17.: Gerd-Kaimer-Bürgerstiftung Solingen - Jahresabschluss 2020 - Fördermaßnahmen
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.2: Anfragen an die Verwaltung
