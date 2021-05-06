@@ -1,0 +1,53 @@
+# Gemeinderat (5. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-05-06T18:00:00+02:00
+- Ende: 2021-05-06T21:30:00+02:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVhOZlW0r6WyIP1MModX09Y
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1848
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUFDDyw-Hbr5_YZ6bKtpWDfMsc_vn-dBTiiSPo2OXZrI/Bekanntmachung_Gemeinderat_06.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc0974KCMjNG1mjNWoy-bB6khjN4eodynN0sZrniMgfA/Oeffentliche_Niederschrift_Gemeinderat_06.05.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 3.1: 11. Änderung der Hauptsatzung vom 09.12.1999 hier: Anpassung an die geänderten gesetzlichen Regelungen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Wahlprüfungsausschusses
+- TOP 4.1: Gültigkeit der Bürgermeisterwahl am 13. September 2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Gültigkeit der Gemeinderatswahl am 13. September 2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der CDU-Fraktion hier: Breitbandausbau und Förderprogramm "Graue Flecken" - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Antrag der CDU-Fraktion hier: "Aktionsfläche" am Rand des Römerparks - 21 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.3: Antrag der SPD-Fraktion hier: Änderung der Besetzung des Bauverwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Antrag der SPD-Fraktion hier: Errichtung eines Rad- und Fußwegs an der L109 zwischen Siersdorf und Dürboslar sowie zwischen Siersdorf und Bettendorf - Einstimmig, 0 Enthaltung(en)
+- TOP 5.5: Antrag der SPD-Fraktion hier: Förderprogramm "Klimaschutz im kommunalen Umfeld" - Austausch von stromintensiven Elektroaltgeräten in Schulgebäuden - Einstimmig, 0 Enthaltung(en)
+- TOP 5.6: Antrag der SPD-Fraktion hier: Förderprogramm "Stadt & Land" - Beleuchtung des Fahrradwegs von der Einkaufsmeile über den Römerpark bis zur Gesamtschule und dem Gewerbegebiet - Einstimmig, 0 Enthaltung(en)
+- TOP 5.7: Antrag der FWG-Fraktion hier: Terminierung von Ausschusssitzungen vor Ratssitzungen - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung gemäß CoronaSchutzVO von 18:48 Uhr bis 18:58 Uhr.
+- TOP 6.: Nachschulische Betreuung Antrag von "Leben wie Zuhause e.V." auf Anteilsfinanzierung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Haushalt 2021 und Fortschreibung des Sanierungsplans
+- TOP 7.1.1: Beschluss des Haushaltes 2021 und der Fortschreibung des Sanierungsplans - 3 Ja-Stimme(n), 21 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Bericht aus der WOGA hier: Kündigung der Mietverhältnisse in Haus Vaahsen durch die WOGA - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Beteiligung der RURENERGIE an einer Windenergieanlage auf dem Gebiet der Stadt Heimbach - Einstimmig, 0 Enthaltung(en)
+- TOP 2.3: Berichte aus den Gremien
+- TOP 3.: Vermietungen, Verpachtungen
+- TOP 3.1: Erweiterung eines Pachtvertrages - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Verkauf einer Teilfläche einer gemeindlichen Parzelle - 19 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Stundung von Vergnügungssteuer - 21 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
