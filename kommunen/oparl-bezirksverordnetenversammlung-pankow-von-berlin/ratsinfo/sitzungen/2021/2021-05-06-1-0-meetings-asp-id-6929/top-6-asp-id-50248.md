@@ -1,0 +1,7 @@
+# TOP 6: vertagte Drucksachen
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Verkehr und Öffentliche Ordnung (2021-05-06)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=50248
+- Ergebnis: erledigt
