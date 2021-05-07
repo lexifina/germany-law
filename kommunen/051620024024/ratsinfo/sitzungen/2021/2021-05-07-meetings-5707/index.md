@@ -1,0 +1,77 @@
+# Haupt- und Sicherheitsausschusses
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-05-07T16:00:00+02:00
+- Ende: 2021-05-07T22:00:00+02:00
+- Ort: Zeughaus Neuss, Markt 42-44, 41460 Neuss
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/221
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5707
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5707
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144479.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144479.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00144479.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Sportausschuss
+- TOP 6: Benennung der Mitglieder der Jury "Sportehrengabe der Stadt Neuss" und "Mannschaft des Jahres" - einstimmig zugestimmt
+- TOP 7: Arbeitsgruppe Sportentwicklung: Benennung der Mitglieder - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 8: Wendersplatz
+- TOP 9: Alexianerplatz - Knotenpunktumbau im Zuge der angrenzenden Quartiersentwicklungen im Augustinusviertel - - einstimmig zugestimmt
+- TOP 10: Boulevard - Neuss an den Rhein - einstimmig zugestimmt
+- TOP 11: Weberstraße - Verbreiterung der Nebenanlagen - einstimmig zugestimmt
+- TOP 11.1: Volmerswerther Straße: Punktuelle Maßnahmen zur Verkehrsberuhigung - einstimmig zugestimmt
+- TOP 12: Zweckegebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) 2021 - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 13: Zweckgebundener Zuschuss für die neuss-agenda 21 e.V. für das Jahr 2021 - mehrheitlich zugestimmt
+- TOP 14: Beschluss über die Behandlung der Kostenunterdeckung 2017 bei den Friedhofsgebühren - einstimmig zugestimmt
+- TOP 15: Baumfällungen Preußenstraße - einstimmig zugestimmt
+- TOP -: Bezirksausschüsse
+- TOP 16: Verkehrliche Erschließung des BPL Nr. 485 - Holzheim, Kreitzer Straße (Gewerbegebiet und Grünspange): Realisierung einer weiteren Stichstraße (Ringofenstraße) ; Errichtung von Lärmschutzanlagen - einstimmig zugestimmt
+- TOP 17: Vorschläge zur Berufung weiterer beratender Mitglieder der Bezirksausschüsse
+- TOP -: Beschlüsse ohne Beschlussempfehlung der Fachausschüsse
+- TOP 18: Teilnahme der Ambulanz für Kinderschutz am Förderaufruf für den Ausbau der spezialisierten Beratung zum Thema "sexualisierte Gewalt gegen Kinder und Jugendliche" - einstimmig zugestimmt
+- TOP 19: 42. Internationaler Hansetag 2022 - einstimmig zugestimmt
+- TOP 20: Bewerbung der Stadt Neuss für die Auszeichnung als Europaaktive Kommune in Nordrhein-Westfalen - einstimmig zugestimmt
+- TOP 21: Einrichtung des 10. Lotsenpunktes in Grimlinghausen/Uedesheim - einstimmig zugestimmt
+- TOP 22: Änderung der Rechnungsprüfungsodnung - einstimmig zugestimmt
+- TOP 23: Elternbeiträge Kita, Kindertagespflege & OGS für die Monate März - Juli 2021 - einstimmig zugestimmt
+- TOP 24: Genehmigung der Dringlichkeitsentscheidung Nr. 42: Neubesetzung der Delegiertenversammlung des Erftverbandes - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 25: Antrag der CDU-Fraktion betr.: Neuss soll sich aktiv um Digitalpark bewerben - einstimmig zugestimmt
+- TOP 26: Antrag der CDU-Fraktion betr.: Bürgerinnen und Bürger früher transparent informieren - einstimmig zugestimmt
+- TOP 27: Antrag der FDP-Fraktion betr.: Einrichtung eines virtualisierten Bürgerservices (I)
+- TOP 28: Antrag der FDP-Fraktion betr.: Erweiterung des digitalen Bürgerservices (II)
+- TOP 29: Antrag der FDP-Fraktion betr.: Einrichtung eines virtualisierten Bürgerservices in Form eines Digitalisierungs-Radars (III)
+- TOP 30: Antrag der CDU-Fraktion betr.: Digitalisierung nicht unter dem Teppich kehren - Unterausschuss Digitaler Wandel einsetzen - mehrheitlich abgelehnt
+- TOP 31: Antrag der CDU-Fraktion betr.: Dem Charakter unserer Stadt systematisch auf den Grund gehen - Repräsentative Umfrage in der Neusser Bevölkerung durchführen - verwiesen
+- TOP 32: Antrag der CDU-Fraktion betr.: Schrottplatz an der Grenze zu Kaarst soll Handwerkerpark werden
+- TOP 33: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Verkehrswende statt Scheinlösungen - keine weiteren E-Scooter! - verwiesen
+- TOP 34: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Berichterstattung über die Kosten externer Beratungen
+- TOP 35: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Verkauf des Whitesell-Grundstücks
+- TOP 36: Antrag der CDU-Fraktion betr.: Geburtsbäumchen - Klimaschutz greifbar machen - einstimmig zugestimmt
+- TOP 37: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Ökologische Baubegleitung - mehrheitlich zugestimmt
+- TOP 38: Antrag der CDU-Fraktion betr.: Mehr Hitzeschutz auf Spielplätzen - mehrheitlich zugestimmt
+- TOP 38.1: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Sanierung und Modernisierung der Ringerhalle - mehrheitlich zugestimmt
+- TOP -: Anfragen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 42: Leostraße zwischen Further Straße und Frankenstraße: Bericht über die verbindliche Anliegerversammlung am 27.08.2020 - zur Kenntnis genommen
+- TOP 43: Antragstellung im Rahmen des „Sofortprogramm(s) zur Stärkung unserer Innenstädte und Zentren in Nordrhein-Westfalen“ - zur Kenntnis genommen
+- TOP 44: Bebauungsplan Nr.: 495 - Furth Süd, Further Straße, Josefstraße -; Eigentümerwechesel - zur Kenntnis genommen
+- TOP 45: Einwohner*innenfragestunde
