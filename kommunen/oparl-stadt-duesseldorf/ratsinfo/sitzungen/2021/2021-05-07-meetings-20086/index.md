@@ -1,0 +1,75 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-05-07T16:30:00+02:00
+- Ende: 2021-05-07T18:28:00+02:00
+- Ort: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20086
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20086
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung Einladung_Nachtrag Ö 07.05.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410512.pdf
+- Ergebnisprotokoll: BV9 Sitzung Einladung_Nachtrag Ö 07.05.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410512.pdf
+- Wortprotokoll: BV9 Sitzung Einladung_Nachtrag Ö 07.05.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410512.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 19.03.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Erweiterungsbau und Umbau der Kindertageseinrichtung Kaldenberger Straße inklusive Familienzentrum, Kaldenberger Str. 45, Stadtbezirk 9 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 4.4: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW - Zusätzliche Baumfällung Erich-Müller-Straße 31 - mehrheitlich beschlossen
+- TOP 4.5: Umgestaltung des Kinderspielplatzes Südpark -Vor dem Deich-, 3. Bauabschnitt, Rollarena - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 4.6: Aufhebung Bebauungspan Nr. 6170/064 - Forststraße/Hasselsstraße;Teilräumliche Aufhebung Bebauungsplan Nr. 09/007 - Westlich Kleinstraße; Aufhebung Bebauungsplan Nr. 09/012 - Forststraße/Hasselsstraße - Empfehlung mehrheitlich abgelehnt
+- TOP 4.7: Aufhebung der Baugebiete GE 4 und GE 5 in dem "Bebauungsplan (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9" - Empfehlung mehrheitlich abgelehnt
+- TOP 4.8: Aufstellung Bebauungsplan Nr. 09/023 - Südlich Bamberger Straße - Empfehlung mehrheitlich abgelehnt
+- TOP 4.9: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 4.10: Zuschuss an den Tennisclub Holthausen e.V. - einstimmig beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste C - einstimmig beschlossen
+- TOP 4.12: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2021 - einstimmig beschlossen
+- TOP 4.13: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2021 - mehrheitlich beschlossen
+- TOP 4.14: Zuschuss an den TSV Urdenbach 1894 e.V. - einstimmig beschlossen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Landesstraße 293, Hochwasserumleitung - Anfrage der Fraktion Bündnis 90/ Die Grünen - zur Kenntnis genommen
+- TOP 5.3: Radfahrstreifen Benrather Schlossallee - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Alte Dreifachsporthalle Koblenzer Straße - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Planungsauftrag Benrather Markt und Fußgängerzone - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Anbindung der Stadtteile Wersten /Himmelgeist an die Stadtbahnlinie U 73 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Beschlusskontrolle Bezirksvertretung 9 - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.9: Urdenbacher Dorfstraße / Baumberger Weg - Antrag der CDU-Fraktion und der Fraktion Bündnis90/ Die Grünen - mehrheitlich beschlossen
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Wanderparkplatz an der Kreuzung Am Schönenkamp / Forststraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.15: Benrather Schloßallee zwischen „Schöne Aussicht“ und Pigageallee - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: St.-Sebastianus-Schützenverein e. V. D.-Holthausen 1925 - Seniorenvormittag 2021 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Fahrradständer/Radstation Kamper Acker - Beschluss der Bezirksvertretung 9 vom 10.10.2019; BV9/052/2019 - zur Kenntnis genommen
+- TOP 9.2: Urdenbacher Dorfstraße – Markierung - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/184/2020 - zur Kenntnis genommen
+- TOP 9.3: Kreuzung Ickerswarder Straße/ Münchener Straße - Beschluss der Bezirksvertretung 9 vom 19.02.2021; BV9/036/2021 - zur Kenntnis genommen
+- TOP 9.4: Steinhauerstraße/Einsiedelstraße - Beschluss der Bezirksvertretung 9 vom 19.03.2021; BV9/066/2021 - zur Kenntnis genommen
+- TOP 9.5: Fußgängerüberweg Kölner Landstraße/Werstener Feld - Beschluss der Bezirksvertretung 9 vom 19.03.2021; BV9/071/2021 - zur Kenntnis genommen
+- TOP 9.6: Klare Regelungen für Hundebesitzer; Hundeauslaufwiese - Beschluss der BV 9 vom 19.02.2021; BV9/ 051/2021 - zur Kenntnis genommen
+- TOP 9.7: Radweg – Ende Haydnstraße Richtung Koblenzer Straße - Beschluss der BV 9 vom 19.03.2021; BV9/063/2021 - zur Kenntnis genommen
