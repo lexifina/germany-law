@@ -11,7 +11,7 @@
 | § 4 | Nachweis des Vorliegens von Prioritätskriterien |
 | § 4a | Nachweis der Lage im Anbaugebiet oder im Landweingebiet |
 | § 5 | Härtefallregelung für Neuanpflanzungen |
-| § 6 | (weggefallen) |
+| § 6 | Erzeugnisse aus Versuchsanbau |
 | § 7 | (weggefallen) |
 | § 7a | (weggefallen) |
 | § 8 | Umstrukturierung und Umstellung |
@@ -23,18 +23,18 @@
 | § 11 | Behandlungsverfahren und Behandlungsstoffe |
 | § 12 | Reinheitsanforderungen |
 | § 13 | Behandlungsverfahren und Gehalt an Stoffen |
-| § 13a | Herstellung von aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails und aromatisiertem Wein; Gehalt an Stoffen |
+| § 13a | (weggefallen) |
 | § 14 | Hygienische Anforderungen |
 | § 15 | Erhöhung des natürlichen Alkoholgehalts |
 | § 16 | Süßung |
-| § 16a | Restzuckergehalt bei Landwein |
+| § 16a | (weggefallen) |
 | § 17 | Umrechnung von Oechslegraden in Volumenprozent Alkohol |
 | § 18 | Weitere Verarbeitungsregeln |
 | Abschnitt 4 |
 | Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein |
 | § 19 | Herstellen von Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. außerhalb des bestimmten Anbaugebietes |
 | § 20 | Herstellen von Landwein außerhalb des Landweingebiets (zu § 22 Absatz 2 Nummer 2 des Weingesetzes) |
-| § 20a | (weggefallen) |
+| § 20a | Vorübergehende Änderung einer Produktspezifikation |
 | § 21 | Qualitätsprüfung |
 | § 22 | Antrag auf Erteilung einer Prüfungsnummer |
 | § 23 | Untersuchungsbefund |
@@ -51,7 +51,7 @@
 | § 31 | Weine für religiöse Zwecke |
 | § 32 | Angabe von Weinarten; Reifeangaben |
 | § 32a | Classic |
-| § 32b | (weggefallen) |
+| § 32b | Erstes Gewächs und Großes Gewächs |
 | § 32c | Weitere Bestimmungen für Classic |
 | § 32d | Abweichungen; Ausnahmen |
 | § 33 | Liebfrau(en)milch; Hock |

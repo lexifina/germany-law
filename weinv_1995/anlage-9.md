@@ -18,7 +18,8 @@ Der Antrag auf Zuteilung einer Prüfungsnummer nach den §§ 19 und 20 des Weing
   Weinart,
   Rebsorte(n),
   beantragte Bezeichnung „Classic“,
-  beantragte Bezeichnung „Selection“,
+  beantragte Bezeichnung „Blanc de Noirs“ oder „Blanc de Noir“,
+  beantragte Bezeichnung „Weißherbst“,
   beantragte Qualitätsbezeichnung,
   bei Sekt b.A.: Gärverfahren und Beginn der Lagerzeit,
 5. Zusammensetzung des Erzeugnisses:
