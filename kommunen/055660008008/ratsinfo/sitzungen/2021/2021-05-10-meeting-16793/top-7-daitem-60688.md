@@ -1,0 +1,6 @@
+# TOP 7.: Verkehrsangelegenheiten
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (114. Sitzung) (2021-05-10)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/60688
