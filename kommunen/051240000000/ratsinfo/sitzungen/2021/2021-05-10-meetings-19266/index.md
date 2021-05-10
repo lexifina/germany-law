@@ -1,0 +1,113 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-05-10T16:00:00+02:00
+- Ende: 2021-05-10T20:50:00+02:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19266
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19266
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand 03. Mai 2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00270898.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00271671.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Controllingliste
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Aktueller Stand zur Mehrsprachigkeit innerhalb der Verwaltung bzw. dem Serviceangebot der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antworten auf die Große Anfrage der Fraktion Bündnis 90/Die Grünen vom 26.01.2021 zum aktuellen Stand zur Mehrsprachigkeit innerhalb der Verwaltung bzw. dem Serviceangebot der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2: Aktueller Stand zur Unterstützung der Mehrsprachigkeit bei Kindern und Jugendlichen sowie deren Familien - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antworten auf die Große Anfrage der Fraktion Bündnis 90/Die Grünen vom 26.01.2021 zum aktuellen Stand zur Unterstützung der Mehrsprachigkeit bei Kindern und Jugendlichen sowie deren Familien - Entgegennahme ohne Beschluss
+- TOP 2.3: Stellenbesetzung Kommunaler Ordnungsdienst - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Stellenbesetzung Kommunaler Ordnungsdienst - Entgegennahme ohne Beschluss
+- TOP 2.4: Werbevertrag der Wuppertal Marketing Gesellschaft (WMG) mit der Bochumer Firma Athletic Sports Sponsoring (ASS) - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antworten auf die Große Anfrage der Fraktion DIE LINKE - Werbevertrag der Wuppertal Marketing Gesellschaft (WMG) mit der Bochumer Firma - Entgegennahme ohne Beschluss
+- TOP 2.5: Ausstattung von Schülerinnen und Schülern und Schulen mit digitalen Endgeräten - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antworten auf die Große Anfrage der Freien Wähler/WfW vom 15.04.2021 - zur Vorberatung verwiesen
+- TOP 2.6: Umsetzung des gemeinsamen Antrags zur Kostenübernahme der Taxikosten (VO/0316/21) - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Große Anfrage der Ratsgruppe Freie Wähler/WfW - Umsetzung des gemeinsamen Antrags zur Kostenübernahme der Taxikosten - Entgegennahme ohne Beschluss
+- TOP 2.7: Kosten der Unterkunft - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE - Kosten der Unterkunft - Entgegennahme ohne Beschluss
+- TOP 2.8: Corona-Testzahlen und Impf-Nebenwirkungen - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Große Anfrage der AfD-Fraktion - Corona-Testzahlen und Impf-Nebenwirkungen - Entgegennahme ohne Beschluss
+- TOP 2.9: Helfer*innen in Kindertagesstätten - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Große Anfrage der CDU-Fraktion - Helfer*innen in Kindertagesstätten - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag nach § 24 GO NRW - Wohnbaugrundstück Kruppstraße
+- TOP 3.2: Antrag nach § 24 GO NRW - Radverkehrsführung im Bereich Blombacher / Lenneper Straße
+- TOP 3.3: Antrag nach § 24 GO NRW - Kurzfristige Umwidmung von Straßen zu Fahrradspuren und Fußwegen (Pop Up Radwege) sowie Tempo 30 für mehr Sicherheit und Klimaschutz im Straßenverkehr
+- TOP 3.4: Antrag nach § 24 GO - Resolution zur Einhaltung der Feinstaubgrenzwerte ohne unzulässige Filteranlagen
+- TOP 3.5: Antrag nach § 24 GO NRW - Verschiedene verkehrliche Maßnahmen
+- TOP 3.6: Antrag nach § 24 GO NRW - Straßenverlauf Mörikestraße/Hubert-Pfeifer-Platz/Schubertstraße
+- TOP 3.7: Antrag nach § 24 GO NRW - Radverkehrfreigabe Fußgängerzonen
+- TOP 4: Anträge
+- TOP 4.1: Reinigung bzw. Räumung (Winterdienst) auf dem Radwegenetz - ungeändert beschlossen
+- TOP 4.2: Behindertenparkplätze Innenstadt Elberfeld, insbesondere Wall und Nähe Wall - ungeändert beschlossen
+- TOP 4.3: Mehr Erzieher*innen für Wuppertal - zur Vorberatung verwiesen
+- TOP 4.4: Teilnahme am Landeswettbewerb „Kommunale Gesamtkonzepte für kulturelle Bildung" - zurückgestellt
+- TOP 4.5: Ausbildungskapazität ausbauen um Personalmangel entgegenzuwirken - ungeändert beschlossen
+- TOP 4.6: Testphase für kostenlose Periodenprodukte / Gemeinsamer Antrag der Fraktionen von CDU und BÜNDNIS90/DIE GRÜNEN - geändert beschlossen
+- TOP 4.7: Grundsatzbeschluss Umwandlung des ehemaligen Freibades Mirke zu einem Naturfreibad - ungeändert beschlossen
+- TOP 4.8: Erlass der Elternbeitragsgebühren - in der Sache erledigt
+- TOP 4.9: Antraglose Ausgabe des Wuppertal Passes - ungeändert beschlossen
+- TOP 4.10: Auslobung eines „Inklusionspreises“ - ungeändert beschlossen
+- TOP 4.11: Einführung der Ehrenamtskarte - ungeändert beschlossen
+- TOP 4.12: Corona-Verantwortung wahrnehmen - abgelehnt
+- TOP 4.13: Unterstützung der Initiative "Kommunen für ein starkes Lieferkettengesetz in Deutschland" - ungeändert beschlossen
+- TOP 4.14: Standortnahe Wasserstoffwirtschaft stärken – Bundesratsinitiative unterstützen - ungeändert beschlossen
+- TOP 4.15: Radverkehrsförderung - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Aufhebung der Sanierungssatzung "Freizeitschwerpunkt Zoo/ Sambatrasse" vom 03.03.2005 - ungeändert beschlossen
+- TOP 6.2: Erlass einer neuen Rechnungsprüfungsordnung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Satzungsänderungen der Freiherr Von der Heydt-Stiftung und der Hedwig-Wülfing-Stiftung - ungeändert beschlossen
+- TOP 6.4: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 6.5: Erlass der Elternbeitragserhebungen für die Monate Mai, Juni und Juli 2021 - ungeändert beschlossen
+- TOP 6.6: Richtlinien über die Förderung in Kindertagespflege und über die Festsetzung der Höhe der Geldleistung für Kindertagespflegepersonen nach § 23 SGB VIII - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Unterhaltung und Sanierung Gräber Verdienter Bürgerinnen und Bürger - ungeändert beschlossen
+- TOP 7.2: Betriebskostenzuschüsse 2021 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 7.3: Einmaliger Zuschuss für die Kulturgemeinde Volksbühne e.V. - ungeändert beschlossen
+- TOP 7.4: Verzicht auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 7.5: Institutionelle Förderung von drei Kultureinrichtungen - ungeändert beschlossen
+- TOP 7.6: Verwaltungskostenzuschuss für den Stadtsportbund Wuppertal e. V. - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2021 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.2: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2021 bis 31.12.2021 - ungeändert beschlossen
+- TOP 8.3: Entlastung der Betriebsleitung des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 892 - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1241/1 - Bahnhof Heubruch - Nord - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1266 - Nördlich Tescher Treppe Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1268 - Karlstraße Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Bundesförderprojekt Modernisierung der Bühnenpodien und Punktzüge im Opernhaus - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Ersatzquartiere für das Ganztagsgymnasium Johannes Rau und die Else Lasker-Schüler-Gesamtschule während der jeweiligen Sanierungszeiten - ungeändert beschlossen
+- TOP 11.2: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 3 - geändert beschlossen
+- TOP 11.2.1: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal - Änderungsantrag zu VO/0094/21 - ungeändert beschlossen
+- TOP 11.2.2: Wirksame Lärmaktionsplanung für die Gesundheit der Bürger*innen in Wuppertal - abgesetzt
+- TOP 11.2.3: Wirksame Lärmaktionsplanung für die Gesundheit der Bürger*innen in Wuppertal - abgesetzt
+- TOP 11.3: Sachstandsbericht zur Prüfung einer möglichen Bewerbung um die Ausrichtung einer Bundesgartenschau - Entgegennahme ohne Beschluss
+- TOP 11.4: Fortschreibung des Abfallwirtschaftskonzeptes 2020 - ungeändert beschlossen
+- TOP 11.5: Einrichtung eines Teilstandortes für die Städtische Schule an der Tesche, Förderschule mit dem Förderschwerpunkt Sprache, Tescher Str. 10, Wuppertal im Schulgebäude Elfenhang 4 - ungeändert beschlossen
+- TOP 11.6: Verwendung der Ehrenamtspauschale - ungeändert beschlossen
+- TOP 11.7: Ausbau der offenen Ganztagsschule um weitere 25 Plätze zum Schuljahr 2021/2022 - ungeändert beschlossen
+- TOP 11.8: Förderprogramm zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder - ungeändert beschlossen
+- TOP 11.9: Inneneinrichtung des Pavillons am Döppersberg - ungeändert beschlossen
+- TOP 11.10: Zusammenarbeit zwischen Eigenbetrieb Straßenreinigung Wuppertal (ESW) und Abfallwirtschaftsgesellschaft Wuppertal (AWG) - ungeändert beschlossen
+- TOP 11.11: Bericht zum Sachstand "Digitalisierungsprogramm Förderal" und "Digitale Modellkommune in der Verwaltung" - Entgegennahme ohne Beschluss
+- TOP 11.12: Stellungnahme und Bericht zum gemeinsamer Antrag von SPD und FDP: "Schulentwicklungsplanung im Auge behalten und negative Auswirkungen durch alternative Planungen abfedern" - Entgegennahme ohne Beschluss
+- TOP 11.13: Stellungnahme und Bericht zum gemeinsamen Antrag von SPD und FDP zum Themenkomplex Hardt, ehemalige Justizvollzugsschule sowie mögliche alternative Ausweichquartiere - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.2: Benennung der beratenden Mitglieder der Kommission für eine Kultur des Erinnerns in der Kommunalwahlperiode 2020 - 2025 - ungeändert beschlossen
+- TOP 12.3: Besetzung des Kuratoriums der Dr.-Alfred-Springorum-Stiftung - ungeändert beschlossen
+- TOP 12.4: Besetzung und Aufgabenzuordnung der Unterausschüsse des Ausschusses für Finanzen und Beteiligungssteuerung - geändert beschlossen
+- TOP 12.5: Besetzung des Kuratoriums Von der Heydt-Kulturpreis mit fachkundigen Bürger*innen - ungeändert beschlossen
+- TOP 12.6: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.8: Gremienumbesetzung - ungeändert beschlossen
