@@ -26,9 +26,11 @@
 - [§ 11 Behandlungsverfahren und Behandlungsstoffe(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0011.md)
 - [§ 12 Reinheitsanforderungen(zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)](0012.md)
 - [§ 13 Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0013.md)
+- [§ 13a (weggefallen)](0013a.md)
 - [§ 14 Hygienische Anforderungen*%(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)](0014.md)
 - [§ 15 Erhöhung des natürlichen Alkoholgehaltes(zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)](0015.md)
 - [§ 16 Süßung (zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)](0016.md)
+- [§ 16a (weggefallen)](0016a.md)
 - [§ 17 Umrechnung von Oechslegraden in Volumenprozent Alkohol(zu § 15 Nummer 7 des Weingesetzes)](0017.md)
 - [§ 18 Weitere Verarbeitungsregeln (zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)](0018.md)
 
