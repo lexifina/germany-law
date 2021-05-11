@@ -1,0 +1,80 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-05-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172811
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172811
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Neurieder Straße 4
+- TOP 6.2.2: Sörgelstraße 15b
+- TOP 6.2.3: Feldafinger Straße 4 (T)
+- TOP 6.2.4: Perchastraße 3 (T)
+- TOP 6.2.5: Helfenriederstraße 12
+- TOP 6.2.6: Fertigstraße 7
+- TOP 6.2.7: Auf der Falkenbeiz 4
+- TOP 6.2.8: Ascholdinger Straße Fl.Nr. 553/11 (T)
+- TOP 6.2.9: Aidenbachstraße 127 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 13.04.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (Antrag) Zugang zu Informationsrunden der Verwaltung allen in die Bezirksausschüsse gewählten Parteien und Gruppierungen gewähren
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Maibaumverein Forstenried e.V. Aufstellen des neuen Maibaums am 01.05.2021 2.012,00€; Az. 0262.0-19-0362
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative „Meine Heimat in zwei Welten“ Fotoprojekt: „Meine Heimat in zwei Welten“ vom 01.05.-31.12.2021 6.000,00€; Az. 0262.0-19-0361
+- TOP 3.4.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 750,00€; Az. 0262.0-19-0364
+- TOP 3.5.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00€; Az. 0262.0-19-0365
+- TOP 3.6.: (E) Stadtbezirksbudget Ev.-Luth. Kirchengemeinde München-Solln Schauspielabend „Ich würde es genauso wieder machen“ am 12.06.2021 (Ausweichtermin 03.10.2021) 1.000,00€; Az. 0262.0-19-0363
+- TOP 3.7.: (E) Stadtbezirksbudget Initiative „Kraxlkollektiv“ Boulderwandbau am 16.04. - 01.05.2021 4.000,00 € / Az. 0262.0-19-0366
+- TOP 3.8.: (E) Stadtbezirksbudget NaturFreunde Deutschlands – Bezirk München e.V. Erneuerung des Spielplatzes 21.068,95 € / Az. 0262.0-19-0367
+- TOP 3.9.: (Antrag) Vorschlag für die Bestellung einer städtischen Leistung: Verbesserungsvorschläge Gilgwiese
+- TOP 3.10.: (Antrag) Bestellung einer städtischen Leistung: Ballfangzaun am Basketballplatz Obersendling
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Schallschutzmaßnahmen im ASZ Solln zügig umsetzen
+- TOP 4.1.2: Vermüllung der Wertstoffcontainer
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Aufwertung des Thalkirchner Franziska-Reindl-Platzes
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Tölzer Str. / Steinerstr.: bauliche Wiederherstellung des Straßenraums
+- TOP 5.2.: (Antrag) Fußwegsicherung im Bereich Wolfratshauser Straße
+- TOP 5.3.: (A) MVG Leistungsprogramm 2022
+- TOP 5.4.: (Antrag) MVG-Rad im 19. Stadtbezirk verbessern
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Sonderparkplatz Grünbauerstraße
+- TOP 5.6.: (A) Evaluation der Stellplatzsatzung der Landeshauptstadt München
+- TOP 5.7.: (A) Bedarf TOPO-Boxen zur Verkehrszählung und Geschwindigkeitsmessung
+- TOP 5.8.: (Antrag) Öffnung des Fahrradweges Ostseite Forstenrieder Allee Richtung Süden
+- TOP 5.9.: Errichtung Gehweg auf der westlichen Seite der Zielstattstraße zwischen 2a und Knick
+- TOP 5.10.: (Antrag) Thalkirchen fußgängerfreundlicher und lebenswerter machen
+- TOP 5.11.: - NACHTRAG - (Antrag) Errichtung Verkehrspfosten Hofmannstraße
+- TOP 5.12.: - NACHTRAG - (Antrag) Fahrradabstellplätze U-Bahnhof Aidenbachstraße
+- TOP 5.13.: - NACHTRAG - S-Bahnhof Solln: Unterführung Friedastraße / Dominik-Brunner-Weg
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Aufstellungsbeschluss Hochhaus an der Baierbrunner Straße 54; Sitzungsvorlage Nr. 20-26 / V 03215
+- TOP 6.4.: (Antrag) Wettbewerb für die Gestaltung der Fassaden im Campus Süd
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Ausschreibung Kinder-Aktions-Koffer 2022
+- TOP 7.3.: (Antrag) Östlicher Eingang Spielplatz Drygalski-Allee
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Tag des offenen Denkmals 12.09.2021
+- TOP 8.3.: (U) Gaststättenfortführung: Drygalski-Allee
+- TOP 8.4.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 01.05.2021 bis 03.08.2021
