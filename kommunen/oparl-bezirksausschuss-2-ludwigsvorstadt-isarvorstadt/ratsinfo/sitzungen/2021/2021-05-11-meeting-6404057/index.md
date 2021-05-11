@@ -1,0 +1,144 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-05-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6404057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6404057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Neue Benennung Beauftragte*r für Menschen mit Behinderung; vertagt aus der Sitzung am 13.04.2021
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 750,00€; Az. 0262.0-2-0389
+- TOP 2.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00€; Az. 0262.0-2-0388
+- TOP 2.3.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Kulturprogramm für Kunst im Quadrat vom 31.07. - 15.08.2021 13.032,00 € / Az. 0262.0-2-0384
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "1000 Sonnen" 20. Jubiläum Landart "Lass 1000 Sonnen blühen" 1.290,00 Euro, Az.: 0262.0-2-0390
+- TOP 2.5.: (E) Stadtbezirksbudget Sparkling Diamonds e.V. Erneuerung des Fußbodens vom 03. - 05.06.2021 4.603,17 Euro, Az.: 0262.0-2-0391
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative „Kreislauf Eck“ Errichtung eines Kreislauf Ecks – Aufstellung eines foodcaring Kühlschrankes von Mai 21 – Mai 22 1.970,00 € / Az. 0262.0-2-0
+- TOP 3.1.: Ausschreibung "Ran an die Koffer!" für den Einsatz in einem Stadtteil 2022
+- TOP 5.1.: Offener Bücherschrank am Stephansplatz; Bürger*innenanliegen
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Die Beethovenstraße wird in eine Fahrradstraße umgewidmet, Antrag der SPD-Fraktion vom 22.04.2021
+- TOP 1.2.: Die Mozartstraße wird zwischen Esperantoplatz und Herzog-Heinrich-Straße in eine Fahrradstraße umgewidmet, Antrag der SPD-Fraktion vom 22.04.2021
+- TOP 1.3.: Freiraum für Fußgänger*innen – neuer Parkraum für Motorräder und Roller, interfraktioneller Antrag vom 23.04.2021
+- TOP 1.4.: Fahrbahnsanierung der Straßen rund um den Glockenbachspielplatz, Antrag der Grünen-Fraktion vom 26.04.2021
+- TOP 1.5.: Ampelschaltung an der Kreuzung Fraunhoferstraße/Müllerstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Parkplatz-Freischankfläche, Landwehrstraße 83
+- TOP 2.1.2.: Erweiterung einer Parkplatz-Freischankfläche, St.-Paul-Straße 3
+- TOP 2.1.3.: Genehmigung einer Freischankfläche, Baaderstraße 86-90
+- TOP 2.3.1.: (E) Öffentliche Toilette in Gehweite zum Gärtnerplatz schaffen (Ziffer 3) Empfehlung Nr. 08-14 / E 01576 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012 Öffentliche Toilette am Gärtnerplatz schaffen, Toilettenanlage an der Reichenbachbrücke wieder in Betrieb nehmen (Ziffer 2) Empfehlung Nr. 08-14 / E 01578 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012 Öffentliche Toilette am Gärtnerplatz schaffen, Toilettenanlage an der Reichenbachbrücke wieder in Betrieb nehmen (Ziffer 2) Empfehlung Nr. 08-14 / E 01580 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Austausch von Lichtsignalanlagen: Goethe- / Pettenkoferstraße
+- TOP 3.3.2.: Evaluation der Stellplatzsatzung der Landeshauptstadt München
+- TOP 3.3.3.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021
+- TOP 3.3.4.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO-Boxen" Einschätzung und überschlägige Bedarfsmeldung der BAs
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Aktuelles Bild der Schillerstraße - Anfrage Alkoholverbot; Bürger*innenanliegen
+- TOP 5.2.: Ungestörtes Parken von Autos auf Fußwegen und Übergängen; Bürger*innenanliegen
+- TOP 5.3.: Ruhestörung durch Skater auf dem Platz der Berufsfachschule Ruppertstraße 3; Bürger*innenanliegen
+- TOP 5.4.: Beschwerde zum Zenettiplatz; Bürger*innenanliegen
+- TOP 5.5.: Tempo-30-Zone und Anliegerstraße: Rumfordstraße; vertagt aus der Sitzung am 13.04.2021
+- TOP 5.6.: Update Verkehr- und Parksituation Dreieck Thalkirchner-Müller-Pestalozzistraße; Bürger*innenanliegen
+- TOP 5.7.: Parksituation Glockenbach, insbesondere Jahnstraße/ Am Glockenbach; Bürger*innenanliegen
+- TOP 5.8.: Demonstrationen auf der Theresienwiese; Bürger*innenanliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Kapuzinerstraße 21 Nutzungsänderung: Umbau von Lagerflächen zu einer Wohnung
+- TOP 3.1.2.: Adlzreiterstraße 28 Nutzungsänderung eines Tagescafés zu einem Gastronomiebetrieb mit Speise- und Getränkeverkauf
+- TOP 3.1.3.: Schillerstraße 27 Nutzungsänderung einer Tabledance-Bar zu einem Wettbüro
+- TOP 3.1.4.: Baaderstraße 58 Aufstockung und Erweiterung des bestehenden Rückgebäudes
+- TOP 3.1.5.: Paul-Heyse-Straße 17 Anbau von einem Balkon im 4. OG
+- TOP 3.1.6.: Klenzestraße 73 - 75 Um- und Anbau Mehrfamilienhaus / Einbau eines Aufzugs und Anbau von Balkonen mit Notleitern sowie gewerbliche Nutzungsänderung im EG einschl. einer Gastronomie mit 40 Sitzplätzen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Aufstellungsbeschluss Karstadt am Bahnhofplatz
+- TOP 3.2.2.: Neubau Hauptbahnhof München, Sachstand und Masterplan Mobilität
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Beschwerde SWM Fernwärmeprojekt Holzstraße; Bürger*innenanliegen
+- TOP 5.2.: Beschwerde Neubau Wohngebäude mit Tiefgarage im Innenhof der Anwesen Pestalozzistraße 15 und 17; Bürger*innenanliegen
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V., Kreisgruppe München Projekt "Plattform - Verkehrswende, Erlebniscontainer 2021" vom 16.07. - 13.09.2021 5.000,00 Euro, Az.: 0262.0-2-0393
+- TOP 2.2.: Stadtbezirksbudget Bereits genehmigter Antrag auf Zuwendung der Bahnwärter Kulturstätten GmbH für die Maßnahme: Erweiterung der Bepflanzung des öffentlichen Bahngartens - Antrag auf Erhöhung der Zuwendung um 4.019,71 € auf insg. 8.179,37 €
+- TOP 3: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Erweiterung der Tischtennis-Anlagen auf der Ostseite der Theresienwiese um zusätzliche Platten; Bürger*innenanliegen
+- TOP 5.2.: Vorschläge Nutzung Theresienwiese Sommer 2021
+- TOP 5.3.: Taubenschutz Paul-Heyse-Unterführung; Bürger*innenanliegen
+- TOP 5.4.: Müllproblematik Dreimühlenviertel; Bürger*innenanliegen
+- TOP E: Angelegenheiten des BA
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Rückmeldung Einsatzplanung mobile Aktionen 2021
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Straßensanierung Am Glockenbach; Antwort auf Bürger*innenanliegen
+- TOP B 4.8.: Baustelle Paul-Heyse-Straße - Radverkehr; Antwort auf Bürger*innenanliegen
+- TOP B 4.9.: Lebensqualität in der Müllerstraße; Schreiben des BA 1
+- TOP B 4.10.: Standortbegehung für Elektro-Ladesäulen Ende März 2021, Änderung des Standortes von Morassi-/Zweibrückenstraße nach Rumfordstraße 49
+- TOP B 4.11.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP B 4.12.: Pilotprojekt „Berliner Kissen“ als Bremsschwelle vor der Stielerschule
+- TOP B 4.13.: Provisorischer Radfahrweg Tumblingerstraße Ecke Ruppertstraße
+- TOP B 4.14.: Umwandlung der Jahnstraße in eine Einbahnstraße / Fahrradstraße; Antwort auf Bürger*innenanliegen
+- TOP B 4.15.: Protokoll und Präsentation zur Info-Veranstaltung Parklets am 24.03.2021 und Sachstand Sommerstraßen
+- TOP B 4.16.: Aktueller Stand zum Umbau der Tumblingerstraße - Rad- und Fußwege zwischen Ruppertstraße, Tiefgarage LUISE und Lagerhausstraße (Unterführung); Antwort auf BA-Antrag Nr. 20-26 / B 01733 des BA 06 Sendling vom 11.01.2021
+- TOP B 4.17.: Münchner Wochen- und Bauernmärkte - Stromquellen der Markthallen München
+- TOP B 4.18.: Neuer Parkraum für Fahrräder im Glockenbachviertel
+- TOP B 4.19.: Brüstungssanierung am U-Bahnhof Max-Weber-Platz - Einschränkungen im Betrieb
+- TOP B 4.20.: Gesamtstädtisches Konzept zum Thema „Gehwegparken“, Schreiben des BA 20 Hadern
+- TOP B 4.21.: Tempo 30 in der Müllerstraße und Rumfordstraße; Antwort auf Bürger*innenanliegen
+- TOP B 4.22.: Motorland in der Thalkirchner Straße; Antwort auf Bürger*innenanliegen
+- TOP B 4.23.: Fernwärmeprojekt Holzstraße, Parkplätze; Antwort auf Bürger*innenanliegen
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 1 (Altstadt-Lehel) und 2 (Ludwigsvorstadt-Isarvorstadt) a) Satzungsbeschluss Satzung „Gärtnerplatz- / Glockenbachviertel“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Gärtnerplatz- / Glockenbachviertel“) b) Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Gärtnerplatz-/Glockenbachviertel Antrag BA-02 Ludwigsvorstadt-Isarvorstadt Nr. 20-26 / B 01264 vom 24.11.2020
+- TOP C 4.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP C 4.4.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP C 4.5.: Haus Klenzestraße 15
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Lärm der Glascontainer - Ecke Palmstraße/Baumstraße; Antwort auf Bürger*innenanliegen
+- TOP E 4: Bereich BA-Angelegenheiten
