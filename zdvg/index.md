@@ -1,4 +1,4 @@
-# Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden)
+# Gesetz über den Vertrauensmann der Zivildienstleistenden
 
 
 ## Abschnitt 1 Allgemeine Vorschriften
