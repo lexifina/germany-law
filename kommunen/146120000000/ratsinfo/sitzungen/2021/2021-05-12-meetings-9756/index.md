@@ -1,0 +1,55 @@
+# 25. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-05-12T16:00:00+02:00
+- Ende: 2021-05-12T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/9756
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/9756
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00542926.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1 Runde)
+- TOP 4: Aktuelle Stunde zum Thema „Gewaltfreiheit als unverhandelbare Grundlage politischer Meinungsbildung“ - erledigt
+- TOP 5: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Standortverlagerung des BSZ für Wirtschaft "Franz Ludwig Gehe" und Neubau Schulgebäude mit Dreifeld-Schulsporthalle am Standort Freiberger Straße 36 in 01159 Dresden - Zustimmung mit Änderung
+- TOP 8: Vertagungen letzte Stadtratssitzung am 22./23.04.2021
+- TOP 8.1: Kompensationspflicht bei Stellplatzwegfall - Vertagung
+- TOP 8.2: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung
+- TOP 8.3: Vorhabenbezogener Bebauungsplan Nr. 6048, Dresden-Leutewitz, Wohnbebauung am Leutewitzer Park - Verweisung
+- TOP 8.4: Novelle der StVO in Dresden schnell umsetzen, Verkehrssicherheit erhöhen, Radverkehr fördern, Verkehrsberuhigung in Wohngebieten ermöglichen - punktweise Abstimmung
+- TOP 8.5: Schutz der Gedenkstätte am Altmarkt vor Verunreinigungen durch Graffitischmierereien - Vertagung nach 22 Uhr
+- TOP 9: Neufassung Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Vertagung nach 22 Uhr
+- TOP 10: Aufhebung der Satzung der Landeshauptstadt Dresden für die Unterbringung von leistungsberechtigten Personen nach dem Asylbewerberleistungsgesetz - Zustimmung
+- TOP 11: Neufassung der Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) – Korrektur des Stadtratsbeschlusses V0166/19 vom 25. März 2021 - Vertagung nach 22 Uhr
+- TOP 12: Veränderungssperre für Bebauungsplan Nr. 3048, Dresden-Altstadt II Nr. 32, Budapester Straße/Zwickauer Straße - Zustimmung
+- TOP 13: Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung) - Vertagung nach 22 Uhr
+- TOP 14: Erste Teilaufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes „Dresden S–11, Dresden Friedrichstadt“ - Zustimmung mit Änderung
+- TOP 15: Richtlinie zur Benennung von kommunalen Sportstätten in Dresden - punktweise Zustimmung mit Änderung
+- TOP 16: Neubau der Orang-Utan-Anlage durch die Zoo Dresden GmbH - Zustimmung mit Änderung
+- TOP 17: Bestätigung von Mehrkosten im Rahmen der investiven Sportförderung für das Fördervorhaben: Neubau Trainingszentrum für die SG Dynamo Dresden e. V. im Ostragehege Dresden - Vertagung
+- TOP 18: 51. Grundschule ,,An den Platanen", Rosa-Menzer-Straße 24 in 01309 Dresden - Neubau erweiterte Einfeldsporthalle, Umnutzung Bestandssporthalle zur Mensa sowie barrierefreie Erschließung des Schulgebäudes - Zustimmung
+- TOP 19: Sanierung Hauptgebäude der 35. Grundschule „Heinrich Graf von Bünau“, Bünaustraße 12 in 01159 Dresden - Zustimmung mit Ergänzung
+- TOP 20: Zweitgutachten zur Restrukturierung des Städtischen Klinikums - Vertagung
+- TOP 21: Änderung der Ziffer 1 des Beschlusses des Stadtrates vom 2. Juni 2016 zu V0309/15 "Verkauf eines Grundstückes an der Ringstraße" - Vertagung
+- TOP 22: Bestätigung der Gebietsumgriffe und Entwicklungsstrategien für neue Fördergebiete der Stadterneu-erung und Auftrag zur Akquirierung von Fördermitteln - Vertagung nach 22 Uhr
+- TOP 23: Ergebnisse des Bürgerforums vom 19. April 2021 zur Zukunft des Sachsenbades - Zustimmung
+- TOP 24: Verkauf eines Grundstückes in Dresden-Pieschen und Ergebnisse der Einwohnerversammlung vom 16. November 2020 zur Zukunft des Sachsenbades - Zustimmung mit Änderung
+- TOP 25: Erhalt des Sachsenbades als Gesundheitsbad / Aufhebung der Konzeptausschreibung aus dem Jahr 2018 - erldedigt - siehe -01 Vorlage
+- TOP 26: Parkplatz neben dem „Blauen Wunder" - Vertagung durch Einreicher
+- TOP 27: Gebietshochwasserschutz Leipziger Vorstadt – Abschluss der vorbereitenden Untersuchungen - Zustimmung mit Ergänzung
+- TOP 28: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung durch Einreicher
+- TOP 29: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung durch Einreicher
+- TOP 30: Erfolgreiche Schwimmlernkurse in den Sommerferien 2021 fortsetzen und frühzeitige Schwimmangebote in Kitas einführen - Zustimmung mit Änderung
+- TOP 31: Neue Freizeitangebote, Begegnungsorte und Freiräume für Kinder und Jugendliche im Sommer unter Corona-Bedingungen schaffen - Zustimmung mit Änderung
+- TOP 32: Für mehr Gleichberechtigung im Straßenverkehr und Sicherheit von Fußgänger*innen: Fehlende Fußgängerampeln an Kreuzungen nachrüsten - Vertagung
+- TOP 33: Evaluation Schulbauleitlinien - Vertagung nach 22 Uhr
+- TOP 39: Übertragung der investiven Budgetreste vom Haushaltsjahr 2020 nach 2021 - zur Kenntnis genommen
+- TOP 40: Abschlussbericht zum Ersten Dresdner Gleichstellungs-Aktionsplan in Umsetzung der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene (2015 bis 2019) - zur Kenntnis genommen
