@@ -15,10 +15,12 @@ Förderung des Ausbaus von Hochgeschwindigkeitsnetzen und der Einrichtung von dr
 c)
 Institutionelle Förderung der Verbraucherzentrale Sachsen e. V.,
 d)
-Förderung der Unterbringungskosten von Arbeitgebern für Arbeitnehmer mit Wohnort in der Tschechischen Republik und der Republik Polen im Zusammenhang mit der COVID-19-Pandemie und
+Förderung der Unterbringungskosten von Arbeitgebern für Arbeitnehmer mit Wohnort in der Tschechischen Republik und der Republik Polen im Zusammenhang mit der COVID-19-Pandemie,
 e)
-Förderung von Ausbildungsverhältnissen im Zusammenhang mit der COVID-19-Pandemie.
-3. Das Landesamt für Straßenbau und Verkehr ist für die Durchführung folgender Förderprogramme und Fördermaßnahmen zuständig:
+Förderung von Ausbildungsverhältnissen im Zusammenhang mit der COVID-19-Pandemie und
+f)
+Förderung der Kosten von Arbeitgebern für Testungen von Arbeitnehmern mit Wohnort in der Tschechischen Republik, der Republik Polen und der Bundesrepublik Deutschland im Zusammenhang mit der COVID-19-Pandemie.
+3. Das Landesamt für Straßenbau und Verkehr ist für die Durchführung folgender Förderprogramme und Fördermaßnahmen sowie für die Gewährung folgender Billigkeitsleistungen zuständig:
 a)
 Förderung von Maßnahmen zur Verbesserung des schienen- und straßengebundenen öffentlichen Personennahverkehrs,
 b)
@@ -26,9 +28,11 @@ Förderung des kommunalen Straßen- und Brückenbaus,
 c)
 RL Verkehrsinfrastruktur vom 18. Juli 2016 (SächsABl. S. 1027), enthalten in der Verwaltungsvorschrift vom 1. Dezember 2017 (SächsABl. SDr. S. S 402), in der jeweils geltenden Fassung,
 d)
-Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln für Schmalspurbahnen vom 15. August 2014 (SächsABl. S. 1086), zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2017 (SächsABl. SDr. S. S 402), in der jeweils geltenden Fassung und
+Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln für Schmalspurbahnen vom 15. August 2014 (SächsABl. S. 1086), zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2017 (SächsABl. SDr. S. S 402), in der jeweils geltenden Fassung,
 e)
-RL Lastenfahrrad vom 29. Januar 2021 (SächsABl. S. 195), in der jeweils geltenden Fassung.
+RL Lastenfahrrad vom 29. Januar 2021 (SächsABl. S. 195), in der jeweils geltenden Fassung und
+f)
+Billigkeitsleistungen nach der RL Corona-Billigkeitsleistungen ÖPNV vom 15. September 2020 (SächsABl. SDr. S. S 390), die durch die Richtlinie vom 18. Dezember 2020 (SächsABl. 2021 S. 25) geändert worden ist, in der jeweils geltenden Fassung, und sonstige Billigkeitsleistungen nach § 53 der Sächsischen Haushaltsordnung im öffentlichen Personennahverkehr.
 4. Die VDI/VDE Innovation + Technik GmbH ist für die Durchführung folgender Fördermaßnahmen zuständig:
 a)
 Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des Gemeinsamen Unternehmens ECSEL (Electronic Components and Systems for European Leadership) und
