@@ -1,2 +1,2 @@
 # Sächsische Bauordnung (SächsBO)
-Rechtsbereinigt mit Stand vom 21. Dezember 2018
+Rechtsbereinigt mit Stand vom 13. Mai 2021
