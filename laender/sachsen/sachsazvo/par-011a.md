@@ -1,2 +1,0 @@
-# § 11a Einsatz in Katastrophen- und Unglücksfällen
-Abweichungen von § 2 Abs. 1 Satz 1 und Abs. 2, §§ 3, 4 Abs. 1 und 4 Satz 2, § 8 Abs. 2 und 3 sind in Katastrophen- und besonders schweren Unglücksfällen oder in Fällen anderer Art, die die Kräfte der Behörden mit Sicherheitsaufgaben in außergewöhnlichem Maße in Anspruch nehmen, zulässig, soweit dies aus zwingenden dienstlichen Gründen erforderlich ist. Die Dienststellen haben in diesen Fällen gleichwertige Ausgleichsruhezeiten zu gewährleisten.
