@@ -1,5 +1,6 @@
-# Verordnung des Sächsischen Staatsministeriums des Innern und des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft über die Ausbildung und Prüfung im Vorbereitungsdienst der Fachrichtung Naturwissenschaft und Technik mit dem fachlichen Schwerpunkt technischer Verwaltungsdienst für Aufgaben im Vermessungswesen und in der Geoinformation (Sächsische Ausbildungs- und Prüfungsordnung Vermessungswesen und Geoinformation – SächsVermGeoAPO)
+# Verordnung des Sächsischen Staatsministeriums für Regionalentwicklung über die Ausbildung und Prüfung im Vorbereitungsdienst der Fachrichtung Naturwissenschaft und Technik mit dem fachlichen Schwerpunkt technischer Verwaltungsdienst für Aufgaben im Vermessungswesen und in der Geoinformation (Sächsische Ausbildungs- und Prüfungsordnung Vermessungswesen und Geoinformation – SächsVermGeoAPO)
 Vom 24. August 2016
+Rechtsbereinigt mit Stand vom 13. Mai 2021
 Auf Grund des § 2 Absatz 2 Satz 5 und des § 30 Satz 1 und 2 des Sächsischen Beamtengesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970, 971) verordnen das Staatsministerium des Innern und das Staatsministerium für Umwelt und Landwirtschaft:
 Inhaltsübersicht
 Abschnitt 1 Allgemeines
