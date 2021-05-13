@@ -1,4 +1,3 @@
-## Gesetz zur Förderung der elektronischen Verwaltung im Freistaat Sachsen (Sächsisches E-Government-Gesetz – SächsEGovG)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Regelungen
 § 1 Anwendungsbereich
