@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-05-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262452
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262452
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Aufhebung des absoluten Haltverbots in der Ernst-Platz-Straße, Gaggenaystraße, Gleissmüllerstraße und Thümerstraße (15 Bürgeranliegen)
+- TOP 2.2.: Versetzung eines Zaunes zur Abgrenzung des Spielplatzes Borstei (zwischen dem SWM-Gelände und der Hengelerstraße)
+- TOP 2.3.: Aufstellung eines Bücherschrankes in der Borstei auf städtischem Grund
+- TOP 3.4.1.: BA-Vorsitzendentreffen mit dem Direktorium am 26.04.2021 zum Thema "Hybridsitzungen" (-> Aufgreifen TOP 4.1.4/ Sitzung am 19.04.21)
+- TOP 4.1.1.: Probeweise Einrichtung eines Sperrmüllcontainers an einer Wertstoffinsel (Vorschlag: Hugo-Troendle-Straße/ Wintrichring)
+- TOP 4.1.2.: Wegfall der Haltverbote vor ehemaligem Speditionsgelände Bauberger Str. 34
+- TOP 4.1.3.: Minimierung von baubedingten Haltverboten aufgrund Glasfasererschließungsarbeiten
+- TOP 4.1.4.: Ausbesserung von Unebenheiten auf dem Fuß- und Radweg der Grünanlage zwischen Borstei und SWM-Gelände
+- TOP 4.1.5.: Anfrage: Wohnungsleerstand in Hartmannshofen
+- TOP 4.1.6.: Nutzerkonflikte im Bereich "Meile Moosach"
+- TOP 4.1.7.: Häufigere Leerung von Abfallkörben in Moosach
+- TOP 4.1.8.: Ein Bücherschrank für die Borstei
+- TOP 4.1.9.: Linientausch der Trambahn-Linien 20 und 21
+- TOP 4.1.10.: Ausbau von W-Lan-Zonen an Moosacher Plätzen und Schulen
+- TOP 4.1.11.: Dringlichkeitsantrag: Zusätzliche Impfmöglichkeiten in Moosach
+- TOP 5.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 500,00 € / Az. 0262.0-10-0255
+- TOP 5.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren von 2022/23 500,00 € / Az. 0262.0-10-0257
+- TOP 5.3.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH FamilyOpenAir vom 05.06. - 05.09.2021 3.035,09 € / Az. 0262.0-10-0254
+- TOP 5.4.: (E) Stadtbezirksbudget REGSAM e.V. 23. Moosacher Stadtteilkulturtage vom 12.06. - 20.06.2021 3.500,00 € / Az. 0262.0-10-0256
+- TOP 5.5.: (E) Stadtbezirksbudget PSV München e.V. Sanierung der Laufbahn 3.700,00 € / Az. 0262.0-10-0253
+- TOP 6.1.: Evaluation der Münchner Stellplatzsatzung vom 19.12.2007 (Sitzungsvorlage Nr. 02-08/V 11225)
+- TOP 6.2.: Kita-Stadtteil- und Kinder-Aktions-Koffer - Ausschreibung für das Kalenderjahr 2022 (Anmerkung: -> Bewerbung 2021; Verfahren läuft)
+- TOP 6.3.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021
+- TOP 6.4.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen"; Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Hildebrandstraße; Errichtung absolutes Haltverbot
+- TOP 6.6.: Veranstaltung in städt. Grünanlage: Platz vor dem stillgelegten Olympia S-Bahnhof; "Psychedelik Fantasy Open Air" am 18.06.2021
+- TOP 6.7.: Sondernutzung auf öffentlichem Verkehrsgrund: Platz vor stillgelegtem Olympia S-Bahnhof; "DJ Bike-Soundtrack für München"
+- TOP 7.1.: Station "Wertstoffmobil" auch im Zentrum Moosachs [BA-Antrag Nr. 20-26/B 01642; ab 01.05.2021 wird der St.-Martinsplatz in die Tour aufgenommen (do 14.14 bis 15.00 Uhr)]
+- TOP 7.2.: Mobilitätsstationen in Moosacher GWG-Gebäuden mitplanen [BA-Antrag Nr. 20-26/B 01644; GWG plant im Zuge der Baumaßnahme an der Ecke Karlinger-/Gubestraße eine ebenerdige GWG-Mobilitätsstation mit fahrradbasierten Sharing-Angeboten ein.]
+- TOP 7.3.: Absenkung des Bordsteins an der Feuerwehr-/Krankenwagenzufahrt vor dem Pflegezentrum "Arche Noris", Baubergerstr. 49 [BA-Antrag Nr. 20-26/B 01770; keine Möglichkeit, da es sich um eine sog. Parkbucht handelt. Sicherheit für Fußgänger und Radfahrer ist zu gewährleisten.]
+- TOP 7.4.: Künstlerische Neugestaltung der Unterführung für Fußgänger*innen und Radfahrer*innen am Moosacher Bahnhof [BA-Antrag Nr. 20-26/B 02017; legale Neugestaltung gemäß den üblichen Auflagen des Baureferates ist möglich; weitere Veranlassung durch den BA10 notwendig].
+- TOP 7.5.: Fußgängerunterführung an der Holledauer-/ Liegnitzer Straße; hier Platzierung der Leitbarke [Schreiben BA10 vom 24.03.2021; Versetzung ist nicht veranlasst, da eine Drehung der Intension (Kurvenschneiden) entgegenstehen würde.]
+- TOP 7.6.: Versetzen des Mülleimers vor der Kita Dillinger Str. 15 [Top 2.4/ Sitzung 19.04.2021; Mülleimer wurde durch einen standfesten und größeren Eimer ersetzt und befestigt.]
+- TOP 7.7.: Personalmangel im städtischen Kindergarten Löfftzstr. 6/ Pickelstr. 13 [Schreiben BA10 vom 24.02.2021; Besetzung läuft mit Priorität 1 bei Ausschreibungen; die 2 Gruppen sind bereits wieder geöffnet].
+- TOP 8.1.: Planfeststellungsverfahren EÜ Dachauer Straße - gesamtstädtische Stellungnahme (1. Tektur) an die Regierung von Oberbayern
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Günzburger Straße; Errichtung absolutes Haltverbot 2. Ernst-Platz-Straße; Errichtung von Haltverboten 3. Thürmerstraße; Errichtung von Haltverboten 4. Gleißmüllerstraße; Errichtung von Haltverboten 5. Gaggenaystraße; Errichtung von Haltverboten
+- TOP 8.3.: (U) Gesamtkonzept Landshuter Allee - Mehr Ruhe, mehr Grün, mehr Lebensqualität Antrag Nr. 20-26 / A 00264 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 17.07.2020 Petition: Einsatz moderner und effizienter Filtersysteme bei der geplanten Untertunnelung des Mittleren Rings, Landshuter Allee
+- TOP 8.4.: (U) A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/39 Bingener Straße (westlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße und Triebstraße und Bebauungsplan mit Grünordnung Nr. xxxx Bingener Straße (westlich), Thorner Straße (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße sowie Triebstraße Botanikum B) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes - Aufstellungs- und Eckdatenbeschluss - C) Bebauungsplan mit Grünordnung Nr. 1740 Feldmochinger Straße (westlich), Bahnlinie München-Regensburg (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße - Aufhebung eines Aufstellungsbeschlusses - Stadtbezirk 10 Moosach
+- TOP 8.5.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 8.6.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 8.7.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 8.8.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung einer Sende- und Empfangsanlage: Agnes-Pockels-Bogen 2. Erweiterung einer Sende- und Empfangsanlage: Riesstraße
+- TOP 1.1.: 1. Ladung des Vollgremiums zur Sitzung am 17.05.2021 2. Aufhebung des in der Sitzung am 19.04.2021 gebildeten Sonderausschusses ab der Sitzung am 17.05.2021 3. Bildung eines erneuten Sonderausschusses für die Folgesitzungen am 14.06.2021, 26.07.2021, 20.09.2021, 25.10.2021, 22.11.2021 und 20.12.2021.
+- TOP 4.: Anträge
