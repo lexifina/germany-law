@@ -1,0 +1,7 @@
+# TOP 1.: Lernmittelbeschaffung Brühler Schulen für Schuljahr 2021/2022
+
+- Sitzung: Vergabe- und Liegenschaftsausschuss (7. Sitzung) (2021-05-17)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/31399
+- Ergebnis: (kein Text vorhanden)
