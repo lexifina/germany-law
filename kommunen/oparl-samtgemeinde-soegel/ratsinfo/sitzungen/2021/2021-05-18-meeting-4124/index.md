@@ -1,0 +1,25 @@
+# Gemeinderat Hüven (39. Sitzung)
+
+- Körperschaft: Samtgemeinde Sögel
+- Beginn: 2021-05-18T19:00:00+02:00
+- Ende: 2021-05-18T22:30:00+02:00
+- Ort: Dorfgemeinschaftshaus Hüven, Schulstr. 3, 49751 Hüven, Sitzungssaal
+- Status: 
+- Gremium: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-34
+- Ratsinformationssystem: https://soegel.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWhrQdCSOXmEvF1vkZ7icKU
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4124
+- Quelle: http://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat Hüven) https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbTqcx77I3q3UnohyZxfhV18HKmsYHEoQGFTk8oKPFMQ/Bekanntmachung_Gemeinderat_Hueven_18.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat Hüven) https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVuF0GUjaXgjI6aGubTqbnGGfnhTxLrekGqQYPXXEcLl/Oeffentliche_Niederschrift_Gemeinderat_Hueven_18.05.2021.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1.: Eröffnung, Feststellung der ordnungsgemäßen Ladung, Feststellung der Beschlussfähigkeit
+- TOP 2.: Feststellung der Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift über die öffentliche Sitzung des Rates der Gemeinde Hüven am 23.03.2021
+- TOP 4.: Beratung und Beschlussfassung der Haushaltssatzung, des Haushaltsplans, des Investitionsprogramms und des Stellenplans der Gemeinde Hüven für das Haushaltsjahr 2021 - (kein Text vorhanden)
+- TOP 5.: Bauleitplanung der Gemeinde Hüven Bebauungsplan Nr. 4 "Lilland", 1. Änderung Beratung und Beschlussfassung über Anregungen und Bedenken Satzungsbeschluss - (kein Text vorhanden)
+- TOP 6.: Kinderspielplätze - Zum Donshorn - Hüvener Mühle
+- TOP 7.: Verschiedenes
+- TOP 8.: Schließung der öffentlichen Sitzung
