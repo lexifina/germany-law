@@ -1,0 +1,56 @@
+# Hauptausschuss (3. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2021-05-18T18:00:00+02:00
+- Ende: 2021-05-18T21:40:00+02:00
+- Ort: Rheinforum Wesseling, Kölner Straße 42, 50389 Wesseling, Saal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa0qhyO78EvrFTaE3hiyVbs
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6011
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSXXI-GD6Qx99_klK8O0Lz6nn-wCdRILRCD-FSfGYcd3/Einladung_Hauptausschuss_18.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcHZummAW6lJ87Wj6sKTHN0wtR9o7StseuLX5aFIXK76/Oeffentliche_Niederschrift_Hauptausschuss_18.05.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2021 und seiner Anlagen
+- TOP 6.1.: Haushaltsreden
+- TOP 6.2.: 2. Veränderungsnachweis und Feststellung der Budgets
+- TOP 6.2.1.: Antrag der Fraktionen CDU und Bündnis 90 / Die Grünen: Haushaltsberatungen: Mittelansätze für Baumpflanzungen - a) Einstimmig, 1 Enthaltung b) 22 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 6.2.2.: Antrag der Fraktionen CDU und Bündnis 90 / Die Grünen: Haushaltsberatungen: Wasserversorgung städtischer Straßenbäume, Beschaffung von Bewässerungssäcken - Einstimmig, 0 Enthaltungen
+- TOP 6.2.3.: Antrag der Fraktionen CDU und Bündnis 90 / Die Grünen: Haushaltsberatungen: Einrichtung eines "Infoportal Bäume" im Internetauftritt der Stadt Wesseling - 20 Ja-Stimmen, 1 Nein-Stimme, 2 Enthaltungen 
+- TOP 6.2.4.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Haushaltsberatungen 2021: Rahmenverträge
+- TOP 6.2.5.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Haushaltsberatungen 2021: Betriebliche Sozialberatung - 22 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 6.3.: Haushalt 2021: Stellenplan - 20 Ja-Stimmen, 3 Nein-Stimmen, 0 Enthaltungen 
+- TOP 6.3.1.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen: Haushaltsberatungen: Stellenplan
+- TOP 6.4.: Neugestaltung der Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2021 hier: Beanstandung des gefassten Beschlusses des Hauptausschusses vom 17.03.2021 - Einstimmig, 0 Enthaltungen
+- TOP 6.4.1.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen: Haushaltsberatungen: Neugestaltung der Fraktionszuwendungen - 12 Ja-Stimmen, 10 Nein-Stimmen, 1 Enthaltung
+- TOP 6.5.: Digitalisierung der Ratsarbeit - Einstimmig, 6 Enthaltungen
+- TOP 6.5.1.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Digitalisierung der Ratsarbeit
+- TOP 6.5.2.: Antrag der Fraktionen SPD, FDP, WIR/FWW und Hr. Jügel: Digitalisierung der Ratsarbeit
+- TOP 6.6.: Weiterentwicklung des Stadtbahnangebotes der Linie 16 an Samstagen - Einstimmig, 0 Enthaltungen
+- TOP 6.7.: Jahresabschluss der Stadt Wesseling zum 31.12.2018 - Einstimmig, 0 Enthaltungen
+- TOP 6.8.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 6.9.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 6.10.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 6.11.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 6.12.: Leitentscheidungen
+- TOP 6.13.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2021
+- TOP 7.: Festlegung der Geschäftskreise der Beigeordneten - Abstimmung zu a) Einstimmig, 0 EnthaltungenAbstimmung zu b) Einstimmig, 0 EnthaltungenAbstimmung zu c) 13 Ja-Stimmen, 10 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.: Darstellung des aktuellen Planungsstands zur Gründung der Gesamtschule ab dem Schuljahr 2022-2023 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Bebauungsplan Nr. 1/129 „Ahrstraße“ hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 10.: Funktionslosigkeit des Bebauungsplans Nr. 3/36 in einem konkreten Einzelfall - Einstimmig, 0 Enthaltungen
+- TOP 11.: Überörtliche Prüfung der GPA-NRW hier: Staatszuweisungen "Offener Ganztag" an den Grundschulen Stellungnahme der Verwaltung zum Prüfbericht
+- TOP 12.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Abberufung eines Rechnungsprüfers - Einstimmig, 0 Enthaltungen
+- TOP 2.: Besetzung der Co-Dezernenten-Stelle "Soziales, Jugend, Familie" - Einstimmig, 0 Enthaltungen
+- TOP 3.: Mitteilungen und Anfragen
+- TOP 4.: Presseveröffentlichungen
