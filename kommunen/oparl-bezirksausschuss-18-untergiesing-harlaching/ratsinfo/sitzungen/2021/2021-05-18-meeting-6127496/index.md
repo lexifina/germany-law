@@ -1,0 +1,194 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2021-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6127496
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6127496
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2: UA Mobilität
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Söltlstr. 15: Neubau eines Dreifamilienhauses mit Garagen
+- TOP 3.5.4.1.2.: Geiselgasteigstr. 34: Umbau eines Wohnhauses
+- TOP 3.5.4.1.4.: Harthauser Str. 48: Abbruch Bestandsgebäude / Neubau eines Wohnhofs (ca. 83 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.5.4.1.8.: Vollmarstr. 2: Neubau eines Einfamilienhauses mit Garage
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00€; Az. 0262.0-18-0247
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 750,00€; Az. 0262.0-18-0246
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Pfarrverband Harlaching Sanierung der Burgmauer 6.210,13 € / AZ. 0262.0-18-0243
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Kinder- und Jugendtreff AKKU Graffitiprojekt „Menschenrechte“ vom 23.07. - 25.07.2021 1.905,00 € / Az. 0262.0-18-0248
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Raabennest Kindergarten e.V. Renovierung der Außenfläche ab Mitte Juni 2021 23.000,00€; Az. 0262.0-18-0249
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Initiative Pumpkin: Bescheid
+- TOP 3.1.6.2.: J.E.W.S. e.V.: Bescheid
+- TOP 3.1.6.3.: Green City e.V.: Bescheid
+- TOP 3.1.6.4.: Kairosis gUG: Änderungsbescheid
+- TOP 3.1.7: Sonstiges
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Anregung Andreas-Hofer-Str.; Bürgeranliegen
+- TOP 3.2.3.2.: Harthauserstr.: Zustand; Bürgeranliegen
+- TOP 3.2.3.3.: Fahrradpumpen am Verkehrsknotenpunkten Wettersteinplatz errichten; Antrag der SPD
+- TOP 3.2.3.4.: Am Hollerbusch, Säbener Str.: Gehwegabsenkungen; Antrag der Grünen
+- TOP 3.2.3.5.: Untere Weidenstr.: Schaffung von Fahrradstellplätzen; Antrag der Grünen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: MVG-Leistungsprogramm 2022: Anhörung der Bezirksausschüsse
+- TOP 3.2.4.2.: Anhörungs- und Beteiligungsverfahren zur Evaluation der Stellplatzsatzung der Landeshauptstadt München 18 Untergiesing-Harlaching
+- TOP 3.2.4.3.: Gehwegparken: gesamtstädtisches Konzept; Antrag des BA 20
+- TOP 3.2.4.4.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO-Boxen"
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Harlaching: Streupflicht der Hauseigentümer
+- TOP 3.2.5.2.: Griechenstr.: Zustand
+- TOP 3.2.5.3.: Oberbiberger Str.: Radweg
+- TOP 3.2.5.4.: Krumpterstr.: Straßenreinigung
+- TOP 3.2.5.5.: Hochkalterstr.: Straßenreinigung
+- TOP 3.2.5.6.: Zasinger Str.: Straßenreinigung
+- TOP 3.2.5.7.: Schönstr.: Kontrolle durch kommunale Verkehrsüberwachung
+- TOP 3.2.5.8.: Sanierung der Hangwege am Isarhochufer
+- TOP 3.2.5.9.: Ausbesserung von Straßenschäden im Stadtbezirk; Antrag der CSU
+- TOP 3.2.5.10.: Pilgersheimerstr.: Fußgängerampel
+- TOP 3.2.5.11.: Grenzmarkierung am Hohen Weg
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Geiselgasteigstr.: Straßenbauarbeiten
+- TOP 3.2.6.2.: Taxistandplatz Mangfallplatz zwischen Akelei- und Soyerhofstraße: Verkürzung
+- TOP 3.2.6.3.: Plattnerstr.: Stellplatzumwandlung
+- TOP 3.2.6.4.: Seybothstr.: Arbeiten im Straßenraum
+- TOP 3.2.6.5.: Authariplatz: Änderung der verkehrsrechtlichen Anordnung vom 09.07.2020
+- TOP 3.2.6.6.: Peter-Auzinger-Str.: Verlängerung der Kurzparkzone vor Anwesen Nr. 11
+- TOP 3.2.6.7.: Säbener Str.: Radwegsanierung
+- TOP 3.2.6.8.: Ampelschaltung Tiroler Platz
+- TOP 3.2.6.9.: Aggensteinstr. mit Widdersteinstr.: Bauschadenswiederherstellung mit Vorarbeiten für die geplante Fahrbahnsanierung
+- TOP 3.2.6.10.: Sommerstraßen: Dialogspiel
+- TOP 3.2.6.11.: Stilfser-Joch-Str. 3: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 3.2.6.12.: Informationsschreiben Sommerstraßen 2021
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Wettersteinplatz: Müllablagerung; Bürgeranliegen
+- TOP 3.3.3.2.: Am Perlacher Forst: Hundetoilette; Bürgeranliegen
+- TOP 3.3.3.3.: Kuntersweg: Verlöcherung; Bürgeranliegen
+- TOP 3.3.3.4.: Reichardweg: Vorschlag zur Baumpflanzung; Bürgeranliegen
+- TOP 3.3.3.5.: Vollmarpark: Baumpflanzung am Schlittenhügel; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Baumfällungen (Anhörungen): - Geiselgasteigstr. 102 - Harthauser Str 19 - Stilfser-Joch-Str. 43 - Braunstr. 3 - Autharistr. 56 - Reichenhaller Str. 30
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Gufidauner Str.: Mülleimer
+- TOP 3.3.5.2.: Silvesterfeuerwerk 2021
+- TOP 3.3.5.3.: Sammelplatz am Ende der Lebscheestraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Grüngutannahmestelle in der Carl-Wery-Straße
+- TOP 3.3.6.2.: Portiastr.: Gefahrenbaumfällerlaubnis
+- TOP 3.3.6.3.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 3.3.6.4.: Harthauserstr. 5: Gefahrenbaumfällerlaubnis
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Post-Covid-Plattform; Antrag der Grünen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Offensive zur Unterstützung der Schulen in Untergiesing-Harlaching in der Corona-Pandemie; Dringlichkeitsantrag der Grünen
+- TOP 3.4.5.2.: Impfzentrum für Giesing und Harlaching; Antrag SPD
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Spielen in der Stadt e.V.: Rückmeldung zu mobilen Einsätzen 2021
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2.1.: Parkouranlage Lohstr.
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Candidplatz: Instandsetzungsarbeiten; Bürgeranliegen
+- TOP 3.5.3.2.: Bauprojekte im Stadtbezirk; Bürgeranliegen
+- TOP 3.5.3.3.: Städtischer Reinigungstrupp zur Entfernung von Schmierereien; CSU-Antrag
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.3.: Harthauser Str. 48: Abbruch Bestandsgebäude / Neubau von 5 Stadtvillen (ca. 93 WE / ca. 84 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Hans-Mielich-Platz: Vorantreibung Genehmigungsverfahren für Kiosk; Antrag Bündnis fürs Viertel
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 3.5.6.2.: Säbener Str.: Bescheid zu Bauvorhaben
+- TOP 3.5.6.3.: Münchner Wochen- und Baumärkte: Nutzung der Stromquellen auf den Marktstandorten durch Dritte
+- TOP 3.5.6.4.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 2 Nr. 2 BauGB In den Stadtbezirken 5 – (Au-Haidhausen) und 18 (Untergiesing-Halrlaching) a) Satzungsbeschluss Satzung „Untere Au / Untergiesing“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Untere Au / Untergiesing“) b) Satzungsbeschluss Satzung „Obere Au“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Untere Au / Untergiesing“) c) Die Bevölkerung der Unteren und Oberen Au vor der nächsten Gentrifizierungswelle schützen – Mietpreisniveau stabilisieren – städtebauliche Eigenart wahren BA-Antrags Nr. 20-26 / B 00434 des Stadtbezirkes 05 Au-Haidhaisen vom 22.07.2020 (Antrag gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB)
+- TOP 3.5.6.5.: Tennisstüberl Oberbiberger Str.: Antrag auf unveränderte Fortführung
+- TOP 3.5.6.6.: Burgerhaus Naupliastr.: Antrag auf unveränderte Fortführung
+- TOP 3.5.6.7.: Landeshauptstadt München: Gesamtstellungnahme zum Bodenlandeplatz Klinikum Harlaching
+- TOP 3.5.6.8.: Dachlandeplatz Harlaching: Naturschutzfachliche Stellungnahme
+- TOP 3.5.6.9.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 3.5.6.10.: Bauvorhaben Seybothstr.: Bescheid
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.3.2.: Änderung der Grünwalder-Stadionverordnung; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Tischtennisplatten in Untergiesing
+- TOP 3.6.5.2.: Einrichtung einer Slacklining-Sportanlage auf der Grünfläche Säbener Platz⁄ Oberbiberger Straße
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Ausnahmegenehmigung Skateboard Mobil und Kurse High Five
+- TOP 3.6.6.2.: Grünwalder Stadion - Lichtinstallation und Vorträge Faces for the Names vom 2.5-7.5.2021: Sondernutzung und Anzeigenbestätigung BayVersG Bez. 18
+- TOP 3.6.7: Sonstiges
+- TOP 4.2.1.: Einhaltung der festgesetzten Sitzungstermine; Antrag Bündnis-fürs-Viertel
+- TOP 4.5.1.: Überprüfung historisch belasteter Straßennamen: Info für die BAs
+- TOP 4.5.2.: Münchner Europa-Mai
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4.1.5.: Harthauser Str. 48: Abbruch Bestandsgebäude / Neubau von hofartig angeordneten Wohnzeilen (ca. 95 WE / ca. 81 WE) - VORBESCHEID
+- TOP 3.5.4.1.6.: Traminer Str. 9: Umbau und Erweiterung eines Einfamilienhauses
+- TOP 3.5.4.1.7.: Tegelbergstr. 27: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
