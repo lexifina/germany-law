@@ -1,0 +1,100 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-05-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242686
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242686
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.2.: Ggf. Nachbesetzung FW/ÖDP
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.2.1.: Protokoll/e der Sitzung vom 27.04.2021
+- TOP 2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Einziehung einer Teilstrecke der Haager Straße (alter Verlauf) und einer Teilstrecke der Grafinger Straße (alter Verlauf)
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Erfassung der Boden- bzw. Flächenversiegelung in Berg am Laim; Antrag CSU-Fraktion
+- TOP 3.1.2.: Gisela-Stein-Straße; Neubau eines Bürogebäudes mit Tiefgarage im Werksviertel
+- TOP 3.1.3.: Anzinger Str. 13; RF 360 Europe GmbH - Errichtung eines Sauerstofftanks im Innenhof, Verlegung eines Gasflaschenlagers in den Innenhof
+- TOP 3.1.4.: Antrag: Bestehende Krautgartenfläche für einige Jahre weiter nutzen; Antrag Fraktion Die Grünen
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Hochhausstudie: An örtliche Gegebenheiten anpassen; Antrag CSU-Fraktion
+- TOP 3.2.2.: Parken und Stellplatzablösemittel: Zahlen darstellen; Antrag CSU-Fraktion (vertagt aus 04/2021)
+- TOP 3.2.3.: Umwandlung des eingeschränkten Halteverbotes in der Randorfer Straße in ein absolutes Halteverbot; Anliegen eines Bürgers
+- TOP 3.2.4.: Gewerbeband Steinhausen: Mehrbelastung für Berg am Laim verhindern; Antrag CSU-Fraktion
+- TOP 3.2.5.: Antrag: Einspurige Abfahrt auf den Mittleren Ring; Antrag Fraktion Die Grünen
+- TOP 3.2.6.: Evaluation der Stellplatzsatzung ("Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für KfZ") vom 19.12.2007 hier: Anhörungs- und Beteiligungsverfahren
+- TOP 3.2.7.: Ampfingstraße 8; Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 3.2.8.: MVG - Leistungsprogramm 2022 - Anhörung der Bezirksausschüsse -
+- TOP 3.2.9.: Aufhebung der Radwegebenutzungspflicht in der St.-Michael-Straße - Anhörung durch das Mobilitätsreferat -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Anfrage: Daten zur Entwicklung der Corona-Inzidenzwerte in Münchner Stadtbezirken; Antrag Die Linke
+- TOP 3.4.2.: Antrag: Testen und Impfen in der Gemeinschaftsunterkunft Neumarkter Straße 43; Antrag Fraktion Die Grünen
+- TOP 3.5.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00 € / Az. 0262.0-14-0289
+- TOP 3.5.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 750,00 € / Az. 0262.0-14-0288
+- TOP 3.5.3.: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ Besondere Sprach- und Lernförderung mit KIKUS vin September 2021 bis Juli 2022 2350,00 € / Az. 0262.0-14-0291
+- TOP 3.5.4.: Projekt "MehrLiebewenigerHass" // Berg-am-Laim; Vorstellung des Projektes incl. voraussichtlicher Kosten im UA Budget
+- TOP 3.5.5.: (E) Stadtbezirksbudget REGSAM e.V. Zwei Stadtteile – eine Rallye am 25.06.2021 825,00 € / Az. 0262.0-14-0292
+- TOP 3.6.1.: Gisela-Stein-Straße
+- TOP 3.6.2.: Anzinger Str. 13; RF 360 Europe GmbH - Errichtung eines Sauerstofftanks im Innenhof, Verlegung eines Gasflaschenlagers in den Innenhof
+- TOP 3.6.3.: Heinrich-Wieland-Str. 51
+- TOP 3.6.4.: Wildalpjochstr. 15
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 12.04.2021 bis 02.05.2021
+- TOP 4.1.2.: Aktivität des Kommunalreferats für den Erwerb des Bogner-Geländes in der St.-Veit-Straße durch die Stadt München
+- TOP 4.1.3.: Mehr Spiel- und Sportmöglichkeiten an der Grünanlage Xaver-Weismor-Straße
+- TOP 4.1.4.: Nachhaltiger Truderinger Acker
+- TOP 4.1.5.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 4.1.6.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 4.1.7.: Installation eines Mülleimers neben der Sitzbank an der Hansjakobstraße/Ecke St.-Veit-Straße; Bürgeranliegen
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Bebauung des Truderinger Ackers bzw. des daneben stehenden Fußballplatzes an der Truderinger Straße; Anliegen eines Bürgers
+- TOP 4.2.2.: Aufhebung Planfeststellungsbeschluss zum PFA 3A 2. Stammstrecke - öffentliche Auslegung -
+- TOP 4.2.3.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2020
+- TOP 4.2.4.: Verkehrssituation in der Spielstraße "Auf dem Wasen" - Antwortschreiben der PI 25 auf Bürgeranliegen -
+- TOP 4.2.5.: Erhalt der Trambahn-Stichstrecke zur St.-Veit-Straße auch nach der Streckenverlängerung in Richtung Haar; Antrag Fraktion FW/ÖDP
+- TOP 4.2.6.: Parken auf dem Bürgersteig vor dem Innsbrucker Ring 44, Abex - Antwortschreiben der PI 21 auf Bürgeranliegen -
+- TOP 4.2.7.: Beschleunigung der Ampelschaltung für Fußgänger*innen an der Kreuzung Kreiller-/Mutschellestraße; Bürgeranliegen
+- TOP 4.2.8.: Erweiterung Zone 30 auf die Else-Rosenfeld-Straße mit Beschilderung bereits an der Kreillerstraße
+- TOP 4.2.9.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten, sog. TOPO-Boxen - Information durch das Mobilitätsreferat -
+- TOP 4.2.10.: Gesamtstädtisches Konzept zum Gehwegparken - Anliegen des BA 20 Hadern -
+- TOP 4.2.11.: Haager Straße - Errichtung einer Schnelladesäule
+- TOP 4.2.12.: IAA Mobility 2021 - Blue Lane - Vorstellung der Planungen in den Bezirksausschüssen
+- TOP 4.2.13.: Antrag auf Prüfung einer Änderung der bestehenden Verkehrsregelung in der Streitfeldstraße (Tempo 30 Zone, "unechte" Fahrradstraße)
+- TOP 4.2.14.: Antrag: Fahrradvorrangnetz für Berg am Laim
+- TOP 4.2.15.: (U) Digitale Teilhabe an Bürgerversammlungen
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Diverse Kinderpielaktionen 2021 des AKA e.V. - Genehmigungsbescheid -
+- TOP 4.3.2.: Sommerstraßen und Parklets - Unterlagen zur Informationsveranstaltung -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Gesundheitsversorgung im Werksviertel sicherstellen (vertagt aus 04/2021)
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: (U) Gesetzentwurf der Fraktionen der Freien Wähler und der CSU im Bayerischen Landtag zur Änderung der Gemeindeordnung u.a. zur Bewältigung der Corona-Pandemie vom 03.02.2021
+- TOP 4.6.: Baumschutz
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 1.1.1.: Ergänzungen und Änderungen zur Tagesordnung der Sitzung des Bezirksausschusses 14 am 18.05.2021 TOP 3.2.9. - Aufhebung der Radwegebenutzungspflicht in der St.-Michael-Straße - Anhörung durch das Mobilitätsreferat - TOP 3.5.5. - (E) Stadtbezirksbudget REGSAM e.V. Zwei Stadtteile – eine Rallye am 25.06.2021 825,00 € / Az. 0262.0-14-0292
+- TOP 2.1.: Einberufung des Ferienausschusses für die Sitzung am 30.08.2021
