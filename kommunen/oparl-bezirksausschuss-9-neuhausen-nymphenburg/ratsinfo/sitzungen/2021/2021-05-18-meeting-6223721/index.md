@@ -1,0 +1,166 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2021-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6223721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6223721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Wortmeldungen
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.6.1.: Kulturgespräch 2021
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnisse (Freischankflächen): - Arnulfstraße 130 - Erweiterung - Fasaneriestraße 3c - Blutenburgstraße 53 - Leonrodstraße 77
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: "Schlupfloch" an der Tankstelle zwischen Kriemhildenstraße und Arnulfstraße schließen
+- TOP 3.2.2.: Erhöhung der Verkehrssicherheit auf der Westseite der Blutenburgstraße
+- TOP 3.2.3.: Barrierefreiheit an den Unterführungen Landshuter Allee verbessern
+- TOP 3.2.4.: Verschönerung des Platzes an der Ruffinistraße / Waisenhausstraße / Nymphenburger Straße
+- TOP 3.2.5.: Romanstraße bepflanzen und Fahrradschutzstreifen einrichten
+- TOP 3.2.6.: Benennung des Weges zwischen Maria-Ward-Straße und Menzinger Straße
+- TOP 3.2.7.: Straßenbahnlärm in der Arnulfstraße
+- TOP 3.2.8.: Anregungen bzgl. Markierungen / Baumgräben in der Blutenburgstraße
+- TOP 3.2.9.: Poller an Kreuzungen und Fußgängerüberwegen
+- TOP 3.2.10.: Abschnittsweise Unüberwindbarkeit der Landshuter Allee für mobilitätseingeschränkte Personen
+- TOP 3.2.11.: Übergang zw. Gertrud-Bäumer-Schule und FC Teutonia
+- TOP 3.2.12.: Hirschgartenparkplatz Winfried-/De-la-Paz-Straße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Verkehrsrechtliche Anordnungen: - Landshuter Allee - Nymphenburger Straße - Wotanstraße - Helene-Weber-Allee
+- TOP 3.3.2.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021
+- TOP 3.3.3.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen" - Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 3.3.4.: Evaluation der Münchner Stellplatzsatzung
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Simeonistraße: Durchfahrtverbot LKW 7,5 t zwischen 22:00 und 07:00 Uhr
+- TOP 3.4.2.: Fasaneriestraße 14 - Instandsetzung des Bürgersteigs
+- TOP 3.4.3.: Unterbindung Gehwegparken
+- TOP 3.4.4.: Parkende Roller auf Geh- und Radwegen im 9. Stadtbezirk
+- TOP 3.4.5.: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2021 - Ergebnisse und weiteres Vorgehen
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Gesamtkonzept Landshuter Allee - Mehr Ruhe, mehr Grün, mehr Lebensqualität Antrag Nr. 20-26 / A 00264 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 17.07.2020 Petition: Einsatz moderner und effizienter Filtersysteme bei der geplanten Untertunnelung des Mittleren Rings, Landshuter Allee
+- TOP 3.5.2.: Radverkehr Landshuter Allee / Blutenburgstraße
+- TOP 3.5.3.: Unterrichtungen zu verkehrsrechtlichen Anordnungen: - Hanebergstraße: Absolutes Haltverbot - Herthastraße: Absolutes Haltverbot - Fasoltstraße: Absolutes Haltverbot - Gertrud-Bäumer-Str. - Haltverbot
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Überprüfung Erweiterung des Museums Mensch und Natur (Biotopia)
+- TOP 4.2.2.: Kreativquartier: Aussagefähige Bautafel installieren
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Baugenehmigungsanträgen: - Arnulfstr. 93 - Schlagintweitstr. 10 - Schlagintweitstr. 11
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Bauvorhaben Sadelerstraße 27-31
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Grundstücksgeschäft zur Errichtung einer Kindertageseinrichtung
+- TOP 4.5.2.: Bauarbeiten Freifläche Richelstraße 1 (10. Planänderung zum Planfeststellungsbeschluss München-West der 2. Stammstrecke)
+- TOP 4.5.3.: (U) Veränderungssperre Nr. 657 - Zuccalistraße (südlich) Brunhildenstraße (westlich) Richeldenstraße (nördlich) Zuccalistraße (östlich) - Erste Verlängerung nach §17 Abs.1 Satz 3 Baugesetzbuch (BauGB) -
+- TOP 4.5.4.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 4.5.5.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 4.5.6.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 4.5.7.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 4.5.8.: (U) Erlass von Erhaltungssatzungen nach §172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 09 Neuhausen-Nymphenburg a) Satzungsbeschluss Satzung „Neuhausen“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Neuhausen“) b) Satzungsbeschluss Satzung „Ebenau“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Ebenau“) c) Satzungsbeschluss Satzung „St.-Vinzenz-Viertel“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „St.-Vinzenz-Viertel“) d) Mieter*innen schützen: Erhaltungssatzung für das St.-Vinzenz-Viertel schaffen Antrag Nr. 20-26 / A 00912 von der SPD / Volt- Fraktion, Fraktion Die Grünen – Rosa Liste vom 22.12.2020 e) Erhaltungssatzung St.-Vinzenz-Viertel ausweiten BA-Antrag Nr. 20-26 / B 01754 des Bezirksausschusses des Stadtbezirkes 03 – Maxvorstadt vom 09.02.2021
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Zwischennutzungsprojekt Schulstraße 16a
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Umweltkriterien bei Stadtbezirksbudgetanträgen
+- TOP 5.2.2.: Biologisch abbaubare Hundekotbeutel anstatt Kunststoffbeutel
+- TOP 5.2.3.: Anwohner besser über (temporären) Abbau von Wertstoffinseln informieren
+- TOP 5.2.4.: Mahdhäufigkeit im Stadtbezirk
+- TOP 5.2.5.: Finde eine Lücke für (d)einen Baum - Vorschläge zu Baumstandorten
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Klugstraße 19 - Lachnerstr. 32
+- TOP 5.3.2.: Errichtung von Wertstoffcontainerstandorten - Guntherstraße - Schäringerstr.
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: CO2-Ausstoß und Klimakompensation für den Bezirksausschuss 9
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Verschönerung der Grünflächen am Dom-Pedro-Platz
+- TOP 5.6.2.: Anbringung zweier Eichhörnchenseile in der Braganzastraße / Hanebergstraße - BA-Antrag Nr. 20-26 / B 00415
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstrasse e.V., Treff Mosaik Büchertausch-Schrank am Quartiersplatz, Rosa-Bavarese-Str. 2.125,00 € / Az. 0262.0-9-0502
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Skateranlage am Hirschgarten - Jugendliche
+- TOP 6.2.2.: Zuccalistraße - Anwohneranfrage
+- TOP 6.2.3.: Postwiese - Hunde gefährden Kinder
+- TOP 6.2.4.: Überdachte Aufenthaltsorte in Neuhausen-Nymphenburg errichten
+- TOP 6.2.5.: Reparatur der Informations- und Orientierungsstelen am Westfriedhof
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Sicherung von EU-Zuschüssen für den gemeinnützigen Jugendhilfeträger Kontrapunkt durch langfristige Raumüberlassung im Kreativquartier - Empfehlung Nr. 14-20 / E 02449 der Bürgerversammlung des Stadtbezirks 09 am 29.11.2018 - Sitzungsvorlage Nr. 20-26 / V 03145
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Öffentliche Toilette im Grünwaldpark
+- TOP 6.4.2.: Erhalt eines Wochenmarktstandes am Rotkreuzplatz
+- TOP 6.4.3.: Miethaus in der Nymphenburger Straße 88
+- TOP 6.4.4.: Neuhausen braucht einen Mädchentreff
+- TOP 6.4.5.: Jugendräume im neuen Wohnquartier Südliches Oberwiesenfeld schaffen
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Arnulfstraße 142 - Zweckentfremdung durch Abbruch
+- TOP 6.5.2.: Spielen in der Stadt - Einsatzplanung Pop-Ups 2021
+- TOP 6.5.3.: AKIM-Einsätze 2021
+- TOP 6.5.4.: Berichte der Beauftragten
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2021/22 500,00 € / Az. 0262.0-9-0499
+- TOP 7.1.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2022/23 500,00 € / Az. 0262.0-9-0500
+- TOP 7.1.3.: (E) Stadtbezirksbudget Institut für Kunst und Forschung Ausstellung „Maria Luiko – Leben und Werk einer Künstlerin“ 6.300,00 € / Az. 0262.0-9-0495
+- TOP 7.1.4.: (E) Stadtbezirksbudget European Union of Music Competitions for Youth Musical Storytelling von 02.07. - 12.07.2021 6.000,00 € / Az. 0262.0-9-0496
+- TOP 7.1.5.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH Veranstaltung „FamilyOpenAir“ vom 05.06. - 05.09.2021 3.035,09 € / Az. 0262.0-9-0501
+- TOP 7.1.6.: (E) Stadtbezirksbudget World Wo*Man GbR Kunstprojekt „World Wo*Man“ 5.200,00 € / Az. 0262.0-9-0498
+- TOP 7.1.7.: (E) Stadtbezirksbudget HOFSPIELHAUS gemeinnützige GmbH - Theater für Alle ohne Eintritt auf öff./priv. Plätzen - Juli bis Oktober 2021 - 5.690,00 €
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Halle 23 im Kreativquartier: Beteiligung BA 4 & 9 an Mieterauswahlverfahren
+- TOP 7.2.2.: Offenlegung der Mietpreise und Mietflächen nach qm im Kreativquartier
+- TOP 7.2.3.: Benennung einer Straße oder eines Platzes im Kreativquartier nach St. Benno, Schutzpatron Münchens
+- TOP 7.2.4.: Street Art am Leonrodhaus
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Straßenerläuterungsschilder für nach Stiftern benannte Straßen
+- TOP 7.4.2.: Städtischer Weihnachtsbaum am Rondell Romanplatz
+- TOP 7.4.3.: "Gabriele" retten
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.2.: Zwischennutzungsprojekt Schulstraße 16a - Bericht Ortstermin
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Initiative „Skatehalle“ Eröffnung und Instandhaltung einer Indoor-Skatehalle vom 25.05. - 25.08.2021 8.850,00 € / Az. 0262.0-9-0497
+- TOP 8.1.2.: (E) Stadtbezirksbudget TSV Neuhausen-Nymphenburg e.V. Errichtung einer Boule-Anlage 3.167,60 € / Az. 0262.0-9-0503
+- TOP 8.1.3.: (E) Stadtbezirksbudget Ev.-Luth. Dekanatsbezirk München KdöR, Offene Behindertenarbeit, Kult9 Digitale Teilhabe an Bildungs- und Kulturangeboten im Kult9 vom 01.07.2021 – 31.06.2022 6.986,70 € / Az. 0262.0-9-0504
+- TOP 8.1.4.: (E) Stadtbezirksbudget Reiterer Weber-Ebnet GbR - Woche der baukulturellen Bildung: Fachtag "Spielraum Stadt" am 07.07.2021 - 2.550,00 €
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Luftfiltergeräte für Schulen in Neuhausen-Nymphenburg
+- TOP 8.2.2.: Nutzung der Schulschwimmbäder für Vereine
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Kita-Stadtteil- und Kinder-Aktions-Koffer - Ausschreibung für das Kalenderjahr 2022
+- TOP 8.3.2.: FC Teutonia München e.V. - Verlängerung des bestehenden Mietvertrags über das Grundstück an der Schwere-Reiter-Straße 13 - Darlehen für die Errichtung eines Kunstrasenplatzes nach den Sportförderrichtlinien
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Schnellstmögliche Wiedereröffnung der Stadtbibliotheken
+- TOP 8.4.2.: Prüfung der Nutzung des "Waschhauses" auf dem Gelände des "Münchner Waisenhauses" nach Umbau ab Mitte 2021 für Kindergärten
+- TOP 8.4.3.: Impfzentrum für den Münchner Westen
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Öffentlicher Raum für Alle: BA 9 begrüßt Stadtterrassen und fördert diese aus seinem Budget.
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 – 2020; Erfahrungen der Bezirksausschüsse
+- TOP 9.3.2.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung 2020 – 2024
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: (U) Digitale Teilhabe an Bürgerversammlungen
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 9.6: Verschiedenes
