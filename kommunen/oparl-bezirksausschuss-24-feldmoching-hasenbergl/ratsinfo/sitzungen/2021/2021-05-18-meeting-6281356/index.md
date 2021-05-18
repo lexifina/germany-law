@@ -1,0 +1,93 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-05-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6281356
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6281356
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget FFW München Abteilung Harthof e.V. Anschaffung eines halbautomatischen Defibrillators (AED) 1.850,39 € / Az. 0262.0-24-0362
+- TOP 2.2.: (E) Stadtbezirksbudget ScienceLab e.V. MINT-Förderung in der Paulcke-Schule am Hasenbergl vom 07.06. - 22.07.2021 465,00 € / Az. 0262.0-24-0363
+- TOP 2.3.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2021/22 500,00 € / Az. 0262.0-24-0360
+- TOP 2.4.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2022/23 500,00 € / Az. 0262.0-24-0361
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Wunderbuch 2.0" für Grundschulkinder Theater "Wunderbuch 2.0" für Grundschulkinder in Feldmoching-Hasenbergl; sechs Zusatzvorstellungen vom 01.10.2020-01.06.2021 2.975,00 €, AZ: 0262.0-24-0324 Hier: Umwidmung der Kosten
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative „Wunderbuch 2.0“ für Grundschulkinder Folge-Tournee Theater „Wunderbuch 2.0“ für Grundschulkinder in Hasenbergl/ Feldmoching vom 01.10.2020-20.07.2021 2.040,00 € / Az. 0262.0-24-0333 Hier: Umwidmung der Kosten
+- TOP 3.1.: Schaffung einer sicheren Querung in Form von Fußgängerüberwegen an der Lassallestr. und der Max-Wönner-Str.
+- TOP 3.2.: Installation einer Einstiegshilfe bzw. eines barrierefreien Zugangs am Lerchenauer See und am Fasaneriesee
+- TOP 3.3.: Installation einer sicheren Querung an der Lassallestr. auf der Höhe der Grieserstr. für Radfahrende und Zu-Fuß-Gehende
+- TOP 3.4.: Städtebaulicher Vertrag zum Erhalt des Hauses Raheinstr. 3
+- TOP 3.5.: Umwidmung der Schwarzhölzlstraße und der Kuppelfeldstraße in eine für den Kraftverkehr freigegebene Fahrradstraße
+- TOP 3.6.: Sicherung eines Fußgängerüberwegs, z.B. in Form eines Zebrastreifens oder einer Ampelanlage auf der Feldmochinger Straße (Höhe nördlicher Teil der Borsigstraße)
+- TOP 3.7.: Aufstellung von 1100 l Restmülltonnen an Hotspot-Treffpunkten im 24. Stadtbezirk
+- TOP 3.8.: MVG-Radstationen für MVG-Mieträder im 24. Stadtbezirk schaffen
+- TOP 3.9.: Standorte für Baum-Pflanzungen im 24. Stadtbezirk
+- TOP 3.10.: Reinigung des Gebietes rund um die Grundschule Feldmochinger Str. und dem Spiel- und Fußballplatz Am Schnepfenweg neben der Grundschule durch das zuständige Referat
+- TOP 3.11.: Reinigung des mit Graffiti besprühten Toilettenhäuschens am Feldmochinger See
+- TOP 3.12.: Prüfung der Umsetzung der neuen Baumstandorte im öffentlichen Raum durch die Baumschutzbeauftragten des Bezirksausschusses 24
+- TOP 3.13.: Anordnung von zeitlich befristeten Parkerlaubnissen (Parkscheiben) am Parkplatz Lerchenauer See
+- TOP 3.14.: Vorschläge zu Straßenbenennungen im neu entstehenden Wohngebiet in München-Ludwigsfeld
+- TOP 3.15.: Aufhebung der Parkzeitbegrenzung an der Lerchenauer Str. 180
+- TOP 3.16.: Straßenerweiterung Schittgablerstraße für mehr Sicherheit im Straßenverkehr
+- TOP 3.17.: Verkehrssituation Feldmochinger Straße und Bergwachtstraße
+- TOP 3.18.: Ratoldstr. / Malvenweg / Weitlstr. - Parkraumsituation
+- TOP 3.19.: Zeitnahe erstmalige Herstellung der Reigersbachstraße südlich Blütenanger; Aufnahme in das Mehrjahresinvestitionsprogramm
+- TOP 3.20.: Aufstellung von Wertstoffcontainern an der Wilhelmine-Reichard-Straße
+- TOP 3.21.: Sich aktiv für den Tier- und Pflanzenschutz im Gesamtbereich der Biotopkartierung (Stadt) und der Ökoflächen (Kataster) des Bedarfssektors aussprechen,...
+- TOP 3.22.: Veröffentlichung der Protokolle der BA-Sitzungen des BA 24 a) - im Internet (Anregung) b) - im RIS-System (Antrag)
+- TOP 3.23.: Verlängerung des Lärmschutzes zur Raheinstr. 44-46
+- TOP 3.24.: Impfen im 24. Stadtbezirk
+- TOP 5.1.1.: Lerchenauer Str. 168
+- TOP 5.1.2.: Balsaminenstr. 3
+- TOP 5.4.1.: Kita-Stadtteil- und Kinder-Aktions-Koffer - Ausschreibung für das Kalenderjahr 2022
+- TOP 5.4.2.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen" - weiteres Vorgehen-
+- TOP 5.4.3.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021
+- TOP 5.4.4.: Evaluation der Münchner Stellplatzsatzung,...
+- TOP 5.4.5.: Baumfällungen (BaumSchVO): Am Erdbeerschlag 3
+- TOP 5.4.6.: Bebauungsplan mit Grünordnung Nr. 2138 „Lerchenauer Straße“; Ponkratzstraße (südlich), Lerchenstraße (westlich), Müllritterstraße (westlich), Drudhardstraße (westlich), Lerchenauer Straße (östlich), Joseph-Zintl-Straße (östlich); hier: Beteiligung der Träger und Behörden gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) - Spartenverfahren - Begründung des Bebauungsplanentwurfs mit Grünordnung
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Neubau einer Behindertentoilette am Lerchenauer See nach DIN 18040 - "Toilette für alle"
+- TOP 2.: Sechszügige Grundschule im Baugebiet Lerchenauer Feld; Hier: Baugebiet Lerchenstr. 66
+- TOP 3.: Fehlende Busanbindung der Fasanerie an das Gymnasium München-Feldmoching
+- TOP 4.: Bedarfsgerechte Schaltung der Verkehrsampel an der Querung Christl-Marie-Schultes-Weg/Wilhelmine-Reichard-Straße, 80935 München
+- TOP 5.: Querungsbehinderung in der Thelottstraße
+- TOP 6.: Schaffung einer sicheren Ausfahrt aus dem Anwesen Feldmochinger Str. 387 (z.B. Anbringen Verkehrsspiegel, Haltverbote, Parkbuchten, Geschwindigkeitsreduzierungen)
+- TOP 7.: Parkplatzproblem Grohmannstraße; Lösungsgesuch
+- TOP 8.: Einseitiges Haltverbot in der Udalrichstraße; Hier: Antrag auf Bodenmarkierung gegenüber der Garagenausfahrt
+- TOP 9.: Störung des Verkehrsflusses in der Lerchenstraße durch LKW Verkehr Anwesen Lerchenstr. 19 (Lieferverkehr, Parkende LKW&#039; s auf den Seitenstreifen)
+- TOP 10.: Umsetzung der nächsten Bürgerbeteiligung für Ludwigsfeld als Präsenz-Veranstaltung
+- TOP 11.: Bewerbung zum REGSAM-Schwerpunktthema INKLUSION ab 2021; Hier: Auswahlergebnis zum REGSAM-Schwerpunktthema Inklusion
+- TOP 12.: Versorgung wohnungsloser Haushalte an den Standorten... Karlsfelder Straße 25, 80995 München (Flst.-Nr. 4057/2) Beschlussentwurf für den Sozialausschuss am 20.05.2021 - Vorabstellungnahme durch BA-Vorsitzenden gem. Empfehlung des UA Schule, Sport, Soziales
+- TOP 13.: (U) Bebauungsplan mit Grünordnung Nr. 2143 DB-Nordring (nördlich) Lassallestraße (östlich), Wilhelmine-Reichard-Straße (südlich), Bahnlinie zwischen DB-Nordring und Feldmoching (westlich) A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes B) weiteres Vorgehen C) Charta Eggarten Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 14.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 15.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 16.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 17.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/61 Am Schnepfenweg (südlich), Kohlröschenstraße (westlich), Am Blütenanger (nördlich), Sonnentaustraße (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 18.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 19.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 3.: Anträge
