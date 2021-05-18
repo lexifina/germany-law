@@ -1,0 +1,59 @@
+# Bauausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-05-18T19:00:00+02:00
+- Ende: 2021-05-18T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2661
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2661
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115114.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115114.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115114.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bestellung eines Schriftführers für die 10. Wahlperiode - einstimmig
+- TOP 3: Verpflichtung von sachkundigen Bürgern
+- TOP 4: Verkehrsberuhigter Bereich "Am Gehöft" - mehrheitlich bei
+- TOP 5: Sanierung der Holzbrücke über die Nord-Süd-Kohlebahn - einstimmig
+- TOP 6: Privatstraße "Zur Hammhöhe", Grevenbroich-Gustorf - einstimmig
+- TOP 7: Mittlere Bahnstraße - einstimmig
+- TOP 8: Markierungsarbeiten im Stadtgebiet
+- TOP 9: Kanalerneuerung Damaschkestraße
+- TOP 10: Konzept zur Vorbereitung notwendiger Änderungen an Bahnübergängen (Antrag Nr. 157/2020)
+- TOP 11: Anwohnerparkzone Goethestraße (Antrag Nr. 149/2020) - mehrheitlich bei
+- TOP 12: Schulwegsicherung Schubert Straße / Ev. Kirche (Antrag Nr. 41/2021)
+- TOP 13: Geschwindigkeitsbegrenzung Kirchstraße (Antrag Nr. 37/2021) - einstimmig bei
+- TOP 14: Einrichtung einer Querungshilfe als Fußgängerüberweg an der Oststraße - mehrheitlich bei
+- TOP 15: Optimierung der geschwindigkeitsreduzierenden Maßmahmen "Am Erftgraben" (Antrag Nr. 40/2021) - von der Tagesordnung abgesetzt
+- TOP 16: Halteverbot Neubrück (Antrag Nr. 38/2021) - einstimmig
+- TOP 17: Eindämmung der Geschwindigkeitsüberschreitungen am Ortseingang Wevelinghoven Zehntstraße (Antrag Nr. 161/2020)
+- TOP 18: Separate Spur für Rechtsabbieger am Tribünenweg (Antrag Nr. 96/2020) - einstimmig bei
+- TOP 19: Gefährliche Einmündung in die Neuenhausener Straße (Antrag Nr. 125/2020) - von der Tagesordnung abgesetzt
+- TOP 20: Prüfauftrag und Ortstermin zur Verkehrssituation Von-Staufenberg-Straße (Antrag Nr. 174/2020) - von der Tagesordnung abgesetzt
+- TOP 21: Neugestaltung des Weges entlang der Waldwiese in der Südstadt (Antrag Nr. 86/2020)
+- TOP 22: Einbahnstraßenregelung Unterstraße/Burgstraße in Wevelinghoven (Antrag Nr. 101/2020) - einstimmig
+- TOP 23: Radweg/Fußweg auf der Kirchstraße in Gustorf (Antrag Nr. 01/2021)
+- TOP 24: Parksituation auf der Frimmersdorfer Straße in Neurath (Antrag Nr. 7/2021) - mehrheitlich bei
+- TOP 25: Lkw-Verkehr bzw. Durchfahrtsverbot in Neurath
+- TOP 26: Parkverbot am Kreisverkehr in Neukirchen vor der Apotheke - einstimmig
+- TOP 27: Fußgängerüberweg in Neukirchen auf der Hülchrather Straße
+- TOP 28: Zustand der Fahrradwege in Grevenbroich
+- TOP 29: Elektroladesäulen
+- TOP 30: Verkehrsspiegel auf der Provinzstraße in Gustorf - mehrheitlich bei
+- TOP 31: Fußgängerüberweg Muchhausener Straße - einstimmig
+- TOP 32: Parksituation Josef-Thienen-Straße - einstimmig
+- TOP 33: Anträge von Fraktionen
+- TOP 33.1: Damit die Kleinsten auf einem sicheren Weg sind - einstimmig
+- TOP 33.2: Radweg auf dem Tribünenweg errichten - einstimmig
+- TOP 33.3: Sicherung von Pollern an Brücken - einstimmig
+- TOP 33.4: Überholverbot von einspurigen Fahrzeugen - einstimmig
+- TOP 33.5: Einrichtung einer Tempo 30-Zone für die Karl-Oberbach-Straße bois zur Straße Auf der Schanze - einstimmig
+- TOP 33.6: Verkehrsspiegel an der Kreuzung Richard-Wagner-Str. / Hans-Sachs-Str. in Elsen/Orken - einstimmig
+- TOP 33.7: Verkehrssituation in Neuenhausen Verlängerung Willibrordusstraße - einstimmig
+- TOP 34: Beantwortung von Anfragen aus den letzten Sitzungen
+- TOP 35: Mitteilungen der Verwaltung
