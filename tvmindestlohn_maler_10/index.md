@@ -1,4 +1,4 @@
-# Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
+# Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
 
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Mindestlöhne](0002.md)
