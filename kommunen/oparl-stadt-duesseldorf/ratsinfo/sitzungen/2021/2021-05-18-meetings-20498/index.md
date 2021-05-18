@@ -1,0 +1,78 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-05-18T16:00:00+02:00
+- Ende: 2021-05-18T20:15:00+02:00
+- Ort: !!!  geänderter Sitzungsort  !!! Thomas-Edison-Realschule, Schlüterstraße 18-20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20498
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20498
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410929.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410929.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00410929.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/002/2021 vom 23.02.2021 und SI-BV2/003/2021 vom 23.03.2021 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 5: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - zur Kenntnis genommen
+- TOP 6: Bebauungsplanverfahren Nr. 02/010 Östlich Hanielpark/ Sohnstraße - mehrheitlich beschlossen
+- TOP 7: Städtebaulicher Wettbewerb - Sohnstraße 45 - einstimmig beschlossen
+- TOP 8: Umgestaltung Kinderspielplatz Hermannplatz - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 9: Projekt Grafenberger Allee zwischen Ivo-Beucker-Straße und Altenbergstraße, barrierefreier Ausbau der Haltestelle Schlüterstraße / Arbeitsagentur und begleitende Maßnahmen -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Bewohnerparkausweiszonen - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 14: Fahrradampel Heinrichstraße - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 15: Ladesäulen im Stadtbezirk 2 - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 16: Zuwendungsantrag für neue Spielgeräte für den KGV „Düsseldorf“ e.V.- Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 17: Zuwendung an den KGV Düsseldorf zur Anschaffung und Installation von Spielgeräten aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 18: Bezirksbezogene Haushaltsmittel aus der Liste C für den Kleingartenverein Düsseldorf Flingern (Flinger Broich 88) - zurückgezogen
+- TOP 19: Zuwendungsantrag für einen Ruheraum im Kinderspielhaus - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 20: Zuwendung an das Kinderspielhaus aus bezirksbezogenen Haushaltsmitteln zur Ausstattung des Ruheraums - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 21: Bezirksbezogene Haushaltsmittel für die Ausstattung eines Ruheraums im Kinderspielhaus - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 22: Zuwendungsantrag für die Ausstellung „Stare Limits“ von KunstConcept Düsseldorf e.V- Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für die Ausstellung „Stare Limit“ - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 24: Zuwendung an den Verein KunstConcept e.V. für die Ausstellung "Stare Limit" aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 25: Lückenschluss der Radverkehrsspur auf der Graf-Recke-Str. unter Einbeziehung der Faunastraße - Antrag der Fraktionen von Bündnis 90/Die Grünen und SPD - beschlossen
+- TOP 26: Mehr Raum für den Sommer in der Pandemie - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 27: Anlage von Blühstreifen im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 28: Sonnenuhr Jugendfreizeiteinrichtung Icklack - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 29: Fahrradständer vom Parkplatz Cranachstraße 6 verlegen - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 30: Höherweg Sperrung beenden - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 31: Ausstattung des Spielplatzes am Edisonplatz für Kleinkinder - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 32: Sitzbänke am neu gestalteten Plätzchen mit Baumscheibe im Kreuzungsbereich Beethoven-, Acker- und Lindenstraße zwischen Beethoven- und Lindenstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 33: Freilauffläche für Hunde in Flingern-Süd - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 34: Gleisanlage beginnend südlich der Birkenstraße 1 - Anfrage der FDP-Fraktion
+- TOP 35: Kleingärten Flinger Broich - Anfrage der FDP-Fraktion - beantwortet
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Bauvorhaben Otto-Petersen-Straße 40,42 - Anfrage der CDU-Fraktion
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Parkplätze Grafenberger Allee zwischen Ivo-Beucker-Straße und Sohnstraße, stadteinwärts - Anfrage der CDU-Fraktion - beantwortet
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Sperrspur Brehmplatz - Anfrage der FDP-Fraktion - beantwortet
+- TOP 46: Errichtung einer öffentlichen Toilettenanlage auf dem Schillerplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 47: Einführung von Tempo 30 auf der gesamten Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 48: Art des verwendeten Stroms in der Bezirksverwaltungsstelle 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 49: Verschönerung von Stromverteilerkästen im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 51: Entwicklung der Grün- und Freiflächen im Stadtbezirk - Beschluss der Bezirksvertretung 2, Vorlage-Nr. BV2/190/2020 - zur Kenntnis genommen
+- TOP 52: Radweg Grafenberger Allee zwischen Cranach- und Lindenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/198/2020 - zur Kenntnis genommen
+- TOP 53: Geschwindigkeitsmessung auf der Ahnfeldstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/039/2021 - zur Kenntnis genommen
+- TOP 54: Fußgängerampel an der Achenbachstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/185/2020 - zur Kenntnis genommen
+- TOP 55: Parkplätze Cranachstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/178/2020 - zur Kenntnis genommen
+- TOP 56: Wegeverbindung Stadtwerkepark/Behrenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/189/2020 - zur Kenntnis genommen
+- TOP 57: Sitzbänke Edisonplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/028/2021 - zur Kenntnis genommen
