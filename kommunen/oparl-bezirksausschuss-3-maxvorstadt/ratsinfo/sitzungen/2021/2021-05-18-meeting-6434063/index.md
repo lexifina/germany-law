@@ -1,0 +1,137 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434063
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434063
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.6.: Nymphenburger Str. 67
+- TOP 2.2: Budget
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Mobile Absperrungen
+- TOP 5.2.2.: Neue Radmarkierung Seidlstraße in Richtung Paul-Heyse-Unterführung
+- TOP 5.2.3.: Boulderwand auf dem Königsplatz im Sommer 2022
+- TOP 5.2.4.: Fehlende Poller und Wildparker am Rudi-Hierl-Platz – Maxvorstadt
+- TOP 5.2.5.: Arnulfsteg „reparieren“
+- TOP 5.2.6.: Aufruf der Anwohner zum Georg-Elser-Platz
+- TOP 5.2.7.: Türkenstraße Zustände
+- TOP 5.2.8.: Verkehrssituation Theresienstraße-neuer Vorschlag
+- TOP 5.2.9.: Gorillas / Lothstraße
+- TOP 5.2.10.: Übergang Luisenstraße/Zieblandstr.
+- TOP 5.2.11.: Lärm der Baustelle Neureutherstraße 16 überschreitet Grenzwerte deutlich - Extreme Lärmbelästigung eines ganzen Wohngebiets
+- TOP 5.2.12.: Parkverbotsschild in der Erika-Mann-Straße - Maxvorstadt
+- TOP 5.2.13.: Sommerstraße Kurfürstenstraße
+- TOP 5.2.14.: Grauzone Rudi-Hierl-Platz
+- TOP 5.2.15.: Elisenstraße
+- TOP 6.1.: Einzelfallprüfung für Schanigärten – auch bei Tempo 50!
+- TOP 6.2.: Grüne Infrastruktur für die Maxvorstadt schaffen: hier Straßenbegleitgrün als Langgraswiese anlegen
+- TOP 6.3.: Mehr Tischtennis in der Maxvorstadt
+- TOP 6.4.: Errichtung eines Mehrgenerationen-Bewegungsparks
+- TOP 6.5.: Nachpflanzung fehlender Bäume in vorhandenen Baumgräben
+- TOP 6.6.: Antwort der Polizei auf Bürgeranliegen zur Türkenstraße aus 03 2021
+- TOP 6.7.: Baufeld Türkenstr. 97 Antwort MOR zu - TOP A 5.2.1/03 2021
+- TOP 6.8.: Gabelsberger Str. 48-50, VORBESCHEID
+- TOP 6.9.: Neuaufteilung des Parkraums in der Gabelsbergerstraße
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.1.: Wie verändern sich die Grundwasserverhältnisse in der Maxvorstadt durch die zunehmende Bebauung des Untergrundes?
+- TOP 2.1.1.: Baulisten der LBK: 13.KW, 14.KW, 15.KW, 16. KW und 17. KW,
+- TOP 2.1.2.: WEB-Listen der LBK: 11.-13.KW, 13.-15.KW und 15.-17.KW
+- TOP 2.1.3.: Förderantrag im Rahmen „Bürgerinnen und Bürger gestalten ihre Stadt“ Verbesserung des Platzes Ecke Schelling-Luisenstraße
+- TOP 2.1.4.: Dachauer Str. 22-24
+- TOP 2.1.5.: Schönfeldstr. 14
+- TOP 2.2.1.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V., Kreisgruppe München Projekt "Plattform - Verkehrswende, Erlebniscontainer 2021" vom 16.07. - 13.09.2021 5.000,00 Euro, Az.: 0262.0-3-0342
+- TOP 5.1.: Aufstellungsbeschluss Karstadt am Bahnhofplatz
+- TOP 5.2.: Erlass von Erhaltungssatzungen im Stadtbezirk Neuhausen-Nymphenburg
+- TOP 5.3.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 5.4.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 5.5.: Antrag BA 20 Gesamtkonzept Gehwegparken
+- TOP 5.6.: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage Schellingstraße/Türkenstraße
+- TOP 5.7.: Bauvorhaben Luisenstraße 22
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Zeitgemäßes städtebauliches Gesamtkonzept für den Odeonsplatz über die Ludwigstraße bis zur von-der-Tann-Straße ermöglichen: Gestaltungswettbewerb zur Verbesserung der Aufenthaltsqualität ausloben
+- TOP 1.2.: Verkehrschaos für Fußgänger*innen und Radfahrer*innen in der Türkenstraße dringend durch Umwandlung von Mischparken in reines Anwohnerparken entschärfen
+- TOP 1.3.: Zugang zum Maßmannpark an der Heßstraße
+- TOP 1.4.: Antrag: Mehr Tempo 30 in der Maxvorstadt
+- TOP 1.5.: Öffentlicher Raum für Alle
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Anhörung Umgestaltung Augustenstraße
+- TOP 2.1.2.: Anhörung MVG-Leistungsprogramm 2022
+- TOP 2.1.3.: Neubau Hauptbahnhof Masterplan Mobilität
+- TOP 2.1.4.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO-Boxen"
+- TOP 2.1.5.: Anhörung Radschnellweg Entwurf einer Beschlussvorlage (VB) für den Mobilitätsausschuss am 15.06.2021
+- TOP 2.2.1.: Evaluation der Münchner Stellplatzsatzung
+- TOP 2.2.2.: Entscheidung über Sondernutzungserlaubnis Obst- und Gemüsestand, Augustenstr. 74
+- TOP 2.2.3.: Toiletten für den Königsplatz – weiteres Vorgehen?
+- TOP 2.3.1.: Gabelsbergerstr. 97 – Bescheid Corona-Parkplatz-Freischankfläche
+- TOP 2.3.2.: Augustenstr. 96, Bescheid Corona-Parkplatz-Freischankfläche
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: IAA Mobility Blue Lane
+- TOP 3.2.: Auswahl Sommerstraßen 2021
+- TOP 3.3.: Infoveranstaltung Parklets am 24.03.2021
+- TOP 3.4.: Baumaßnahmen Stromprojekt Nymphenburger Straße
+- TOP 3.5.: 3.5a Stellungnahme Pro Bahn zum MVG Leistungsprogramm 3.5b Stellungnahme Münchner Forum zum MVG Leistungsprogramm
+- TOP 3.6.: Spielplatz Luisenstraße (Königsplatz)
+- TOP 3.7.: Absage Einweihung Bodendenkmal auf dem Königsplatz
+- TOP 3.8.: Amalienstr. 81; Corona-Freischankfläche auf Parkstreifen vor dem Lokal
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Budget Antragsteller: Skateboarding München e.V. Maßnahme: Neue Curb für den Massmanskatepark beantragter Zuschuss: 3.094 €
+- TOP 2.2.: (E) Stadtbezirksbudget eigenleben gGmbH Treffpunkt "Raum für eigenleben" von Juni - Dezember 2021 15.000,00 Euro, Az.: 0262.0-3-0343
+- TOP 2.3.: Ausschreibung „ Ran an die Koffer!“ für den Einsatz in einem Stadtteil
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: AKIM Bericht 2020-Auswertung der Anwohnenden -Umfrage am Josephsplatz
+- TOP 4.2.: Spielen in der Stadt-Einsatzplanung Pop-up’s 2021
+- TOP 4.3.: Information der Bezirksausschüsse zu den AKIM-Einsätzen 2021
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Vernebelt" Theaterperformance "Vernebelt sind die Gehirne" vom 11. - 31.07.2021 2.000,00 Euro, Az.: 0262.0-3-0341
+- TOP 2.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 1.000,00 € / Az. 0262.0-3-0339
+- TOP 2.3.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 1.000,00 € / Az. 0262.0-3-0340
+- TOP 2.4.: Kunstpavillon e.V. & Karl-Stützel-Platz Künstlerische und architektonische Umgestaltung des Karl-Stützel-Platz
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Museum Brandhorst / Alexandra Bircken / Slip of the Tongue (2020)/ Außenskulptur ab Juli 2021
+- TOP 4.2.: Plenumssitzung Kunstareal // Protokoll und Präsentationen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Setzen Sie in Ihrem Bezirk ein Zeichen im Münchner Europa-Mai 2021
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
