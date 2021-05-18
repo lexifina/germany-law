@@ -1,0 +1,6 @@
+# TOP 9: Termine
+
+- Sitzung: 21. Sitzung des Ortschaftsrates Langebrück (2021-05-18)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/146373
