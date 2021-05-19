@@ -1,0 +1,7 @@
+# TOP 2.3: 2322/XX Wahl eines Bürgerdeputierten in den Jugendhilfeausschuss
+
+- Sitzung: 59. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2021-05-19)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=39729
+- Ergebnis: ohne Änderungen in der BVV beschlossen
