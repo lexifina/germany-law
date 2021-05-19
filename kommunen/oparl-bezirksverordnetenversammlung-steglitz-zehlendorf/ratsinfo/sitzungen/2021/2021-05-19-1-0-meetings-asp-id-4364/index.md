@@ -1,0 +1,85 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-05-19T17:00:00+02:00
+- Ende: 2021-05-19T22:30:00+02:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4364
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4364
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Aktualisierung der Straßenbenennungsliste am Sankt Nimmerleinstag? - beantwortet
+- TOP 3.2: Positive Identität als Voraussetzung erfolgreicher Integration - schriftlich beantwortet
+- TOP 3.3: Wie geht es weiter in der Ladenstraße? - beantwortet
+- TOP 3.4: Schulwegsicherung dringend: Umsetzung der Drs. 1622/V - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - im Ausschuss abgelehnt
+- TOP 4.1: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Sondermittel der BVV für den Potsdamer Yacht Club - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Kontakte für Senioren und andere Pflegebedürftige in ihren Einrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Permanente Rotlichtverstöße von Autofahrer/innen und Radfahrer/innen in Zehlendorf-Mitte ahnden - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Digitales Radwegeverzeichnis - in der BVV abgelehnt
+- TOP 4.6: Gemeindewäldchen Zehlendorf in den Blick nehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Abgrenzung naturbelassener Bereiche von Erholungsnutzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Erosionsschutz am Schlachtensee und Krumme Lanke beachten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Weitere Spielplätze sukzessive behindertengerecht ausbauen und weitere Inklusionsspielgeräte anschaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Solar-Mülleimer - in der BVV abgelehnt
+- TOP 4.11: Bürgersteige Dahlemer Weg/Mörchinger Straße absenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Mehr Sauberkeit in Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Rechtzeitige Planungen für einen barrierefreien Zugang zum Schlachtensee auf der Höhe des S-Bahnhofes und für eine entsprechende Herrichtung eines Abschnitts des Uferweges - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Busspur Teltower Damm unter Erhalt der Parkplätze - in der BVV abgelehnt
+- TOP 4.15: LZA Buhrowstraße/Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Ortsteil Schlachtensee durch Schilder sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Modellprojekt „Housing first“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Bordsteinabsenkung deutlich erkennbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Gefährliche Schulwege - schnellstmögliche Anordnungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Feuerbachstraße zwischen Schloßstraße und Schöneberger Straße als Fahrradstraße ausweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Nutzung der Schulhöfe zu Tageslichtzeiten durch Sportvereine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Nutzung der Bäder in Steglitz-Zehlendorf für die Schwimmausbildung durch Vereine großzügig bescheiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Long-Covid-Ambulanz in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Zurverfügungstellung der Sitzungseinwahldaten zur Herstellung der Öffentlichkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Temporäre Container für den Campus Dreilinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Sozialverantwortliche Beschaffung von Natursteinen im Fairtrade-Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - im Ausschuss abgelehnt
+- TOP 5.1: Umbenennung des Maerckerwegs in Maria-Rimkus-Weg - überwiesen
+- TOP 5.2: Treppenanlage Stölpchenweg endlich möglich machen! - überwiesen
+- TOP 5.3: Erhaltung des Gebäudes (Conrad-Villa) Straße zum Löwen 1 in Wannsee - überwiesen
+- TOP 5.4: Radwege sicher auf die Straße verlegen und „alte" Radwege auf dem Trottoir konsequent begrünen! - überwiesen
+- TOP 5.5: Radschnellweg am Teltowkanal - überwiesen
+- TOP 5.6: Eine Partnerschaft für Demokratie auch für Steglitz-Zehlendorf - überwiesen
+- TOP 5.7: Sondershauser Straße – Verkehr entschleunigen - überwiesen
+- TOP 5.8: Position des BA zur Umsetzung des MobG im Bezirk Steglitz-Zehlendorf klarstellen - überwiesen
+- TOP 5.9: Verwahrlosung Im Schwarzen Grund - überwiesen
+- TOP 5.10: Long-Covid-Ambulanz in Heckeshorn - überwiesen
+- TOP 5.11: Parkmöglichkeiten Ringstraße - überwiesen
+- TOP 5.12: Schulwegsicherheit Lindenthaler Allee - überwiesen
+- TOP 5.13: Rettungswege und mehr Sicherheit an Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.14: Abtransport des Reaktorabfalls des BER I und BER II - überwiesen
+- TOP 5.15: Ehemaligen Maerckerweg in Maria-Rimkus-Weg umbenennen - überwiesen
+- TOP 5.16: Kreuzungsbereich Argentinische Allee/Onkel-Tom-Straße verkehrssicher gestalten - überwiesen
+- TOP 5.17: Schulreinigung rekommunalisieren - überwiesen
+- TOP 5.18: Tempo 30 in der Garystraße durchziehen - überwiesen
+- TOP 5.19: Amtssprache Deutsch – Genus versus Sexus - überwiesen
+- TOP 5.20: Bürgerfreundlich: Umwidmung statt Umbenennung des Maerckerweges - überwiesen
+- TOP 5.21: Erhalt fahrbahnbegleitender Hecken - überwiesen
+- TOP 5.22: Gerodete Stadtbäume eins zu eins ersetzen - überwiesen
+- TOP 5.23: Wiederherrichtung von Sitzbänken und Reinigung einer geschützten Grünanlage in der Kaiser-Wilhelm-Straße/Ecke Dillgesstraße in Lankwitz - überwiesen
+- TOP 5.24: Schattenspender auf Spielplätzen - überwiesen
+- TOP 6: Dringlichkeiten - (offen)
+- TOP 6.1: Dringende Große Anfragen - (offen)
+- TOP 6.1.1: Unlautere Wahlkampfaktion – als Teststation getarnt - beantwortet
+- TOP 6.1.2: Aufgabe der Planungsabsicht für Flüchtlingsunterkunft am Dahlemer Weg 247 - beantwortet
+- TOP 6.2: Dringlichkeitsantrag - erledigt
+- TOP 6.2.1: Solidarität mit den Menschen in Israel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Ist die Plakatieraktion der Volksbegehren-Initiative „Deutsche Wohnen & Co. enteignen" im Bezirk genehmigt oder nicht? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Resolution - in der BVV zurückgezogen
+- TOP 8.2: Beitritt zum Gesunde Städte-Netzwerk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Gedenken für das „Jüdische Siechenheim" in Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
