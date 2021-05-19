@@ -1,0 +1,60 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-05-19T17:00:00+02:00
+- Ende: 2021-05-19T19:28:00+02:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4441
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4441
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Hauptausschusses vom 10.03.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 24.03.2021 (öffentlicher Teil) - zurückgezogen
+- TOP 5: Pandemische Lage - Bericht der Verwaltung - abgelehnt
+- TOP 5.1: Kommunale Projekte und Maßnahmen im zweiten Sommer der Corona-Pandemie;hier: Tagesordnungsantrag der GRÜNE-Fraktion vom 04.05.2021 - zur Kenntnis genommen
+- TOP 5.2: Freibad Hangeweiher- Ausweitung der Öffnungszeiten während der Coronapandemie - zur Kenntnis genommen
+- TOP 6: Ratsresolution "Aachen wird sicherer Hafen"hier: Gemeinsamer Antrag der Fraktionen von GRÜNE, CDU, SPD, ZUKUNFT, DIE LINKE und FDP vom 04.12.2020 - ungeändert beschlossen
+- TOP 7: Wirtschaftsplan für die Spielzeit 2021/2022 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 8: Vorläufiger Wirtschaftsplan für die Spielzeit 2022/2023 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 9: Integriertes Klimaschutzkonzept (IKSK), Maßnahme 5.1 Wiedereinführung eines Förderprogramms zur Altbausanierung - geändert beschlossen
+- TOP 10: Beschluss über die Verlängerung der Veränderungssperre für den Bereich Nikolausstraße, Antoniusstraße und Mefferdatisstraße im Stadtbezirk Aachen-Mitte um ein Jahr - ungeändert beschlossen
+- TOP 11: Beschluss über eine Veränderungssperre für das Grundstück Grünenthaler Straße Gemarkung Richterich, Flur 4, Flurstück 2481 im Stadtbezirk Aachen-Richterich - ungeändert beschlossen
+- TOP 12: 4. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 13: “Sachstandsbericht SPD AT 02/20 Transparenz: Öffentliche Fragestunde für Ratsleute vom 06.11.2020“;hier: Tagesordnungsantrag der SPD-Fraktion vom 13.04.2021 - zur Kenntnis genommen
+- TOP 14: Verlegung von Stolpersteinen - Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 15: Anfragen:
+- TOP 15.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 15.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 16: Ratsanträge - zur Kenntnis genommen
+- TOP 17: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 17.1: Besetzung Aufsichtsrat des aachen tourist service e.v. - ungeändert beschlossen
+- TOP 17.2: Umbesetzungsantrag der Fraktion DIE Zukunft vom 23.04.2021 - ungeändert beschlossen
+- TOP 17.3: Stellvertretung im Aufsichtsrat der GEGRA Gewerbegrundstücksgesellschaft mbH - ungeändert beschlossen
+- TOP 17.4: Stellvertretung im Aufsichtsrat der Flugplatz Aachen-Merzbrück GmbH (FAM) - ungeändert beschlossen
+- TOP 17.5: Umbesetzungsantrag der CDU-Fraktion vom 17.05.2021 - ungeändert beschlossen
+- TOP 17.6: Umbesetzungsanträge der GRÜNE-Fraktion vom 18.05.2021 - ungeändert beschlossen
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 19: Änderung der Hauptsatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 20: Gesamtabschluss 2017 - zur Kenntnis genommen
+- TOP 21: Zweite Wiederwahl von Frau Stadtdirektorin Annekathrin Grehling zur Beigeordneten für Dezernat II Finanzen, Recht und Ordnung unter gleichzeitiger Bestellung zur Stadtkämmerin - ungeändert beschlossen
+- TOP 22: Kommunales ArbeitsmarkförderungsprogrammRatsantrag der Fraktion der Grünen der Stadt Aachen vom 08.04.2019 „Arbeitsmarktintegrationsmaßnahmen in gemeinnützigen Einrichtungen“ - ungeändert beschlossen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Digitale Werkstatt für den Mittelstand - Kostenneutrale Verlängerung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
