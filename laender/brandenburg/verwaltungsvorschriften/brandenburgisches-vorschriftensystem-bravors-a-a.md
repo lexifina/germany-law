@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2020-11-25 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/zit_bb_2009
+- Datum: 2021-05-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/stechlin_ruppiner_land_2001
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -28,36 +28,82 @@ A |
 Aktuelle Fassung
 Anlagen (1)                    Änderungshistorie
 
-Erlass des Ministeriums des Innern zur Errichtung des Landesbetriebes „Brandenburgischer IT-Dienstleister“ (ZIT-BB) und zur Auflösung des Landesbetriebes für Datenverarbeitung und IT-Serviceaufgaben (LDS)
+Erklärung zum Naturpark „Stechlin-Ruppiner Land“
 
-vom 15. Dezember 2008
+vom 13. Juni 2001
 
-(ABl./08, [Nr. 52], S.2907)
+(ABl./01, [Nr. 27], S.450)
 
-zuletzt geändert durch Erlass des MIK vom 25. November 2020
+geändert durch Bekanntmachung des MLUK vom 19. Mai 2021
 
-(ABl./20, [Nr. 50], S.1243)
+(ABl./21, [Nr. 23], S.534)
 
-I.
+Auf Grundlage des § 26 des Brandenburgischen Naturschutzgesetzes vom 25. Juni 1992 (GVBl. I S. 208), zuletzt geändert durch Artikel 3 des Gesetzes vom 18. Dezember 1997 (GVBl. I S. 124), gibt der Minister für Landwirtschaft, Umweltschutz und Raumordnung bekannt:
 
-Auf der Grundlage des § 14 Absatz 2 Satz 1 erster Halbsatz des Landesorganisationsgesetzes in Verbindung mit Nummer 3.I.2 des Beschlusses Nr. 796/08 der Landesregierung vom 15. Juli 2008 erlässt das Ministerium des Innern folgende Regelungen:
+1. Erklärung zum Naturpark
 
-Im Geschäftsbereich des Ministeriums des Innern wird der Landesbetrieb „Brandenburgischer IT-Dienstleister" errichtet.
+1.1 Teilbereiche der Landkreise Ostprignitz-Ruppin und Oberhavel werden zum Naturpark erklärt. Der Naturpark erhält die Bezeichnung „Stechlin-Ruppiner Land“.
 
-Der mit Erlass des Ministeriums des Innern vom 19. Dezember 2000 (ABl. S. 1189), geändert durch Erlass des Ministeriums des Innern vom 22. Januar 2007 (ABl. S. 227), errichtete Landesbetrieb für Datenverarbeitung und IT-Serviceaufgaben wird aufgelöst.
+1.2    Der Naturpark umfasst den südlichen Bereich der Mecklenburgischen Seenplatte, die Ruppiner Schweiz, die Kyritz-Ruppiner Heide, Teile der Niederungen der Havel- und Rhingewässer und Teile der Granseer Platte. Der Naturpark hat eine Größe von rund 862 Quadratkilometern. Der Naturpark beinhaltet folgende Schutzgebiete:
 
-Der Landesbetrieb „Brandenburgischer IT-Dienstleister" übernimmt die Aufgaben und das Personal des Landesbetriebes für Datenverarbeitung und IT-Serviceaufgaben. Er ist dessen Rechtsnachfolger.
+Landschaftsschutzgebiet „Fürstenberger Wald- und Seengebiet“ (teilweise),
 
-Aufgaben, Betriebsführung, Umfang der Dienst- und Fachaufsicht sowie die Grundsätze der Aufgabenerledigung und Wirtschaftsführung ergeben sich aus der Betriebsanweisung für den Landesbetrieb „Brandenburgischer IT-Dienstleister", die Bestandteil dieses Erlasses ist.
+Landschaftsschutzgebiet „Ruppiner Wald- und Seengebiet“,
 
-Die für den Landesbetrieb für Datenverarbeitung und IT-Serviceaufgaben ergangenen Verwaltungsvorschriften, die allgemeinen Auftragsbedingungen und das Leistungs- und Entgeltverzeichnis sowie die Dienstvereinbarungen und weiteren internen Regelungen gelten fort, soweit sich aus diesem Erlass nichts anderes ergibt.
+Naturschutzgebiet „Stechlin“,
 
-II.
+Naturschutzgebiet „Wumm- und Twernsee“,
 
-Dieser Erlass tritt am 1. Januar 2009 in Kraft.
+Naturschutzgebiet „Kunsterspring“,
+
+Naturschutzgebiet „Ruppiner Schweiz“,
+
+Naturschutzgebiet „Buchheide“,
+
+Naturschutzgebiet „Himmelreichsee“,
+
+Naturschutzgebiet „Rheinsberger Rhin und Hellberge“,
+
+Naturschutzgebiet „Schwarzer See“.
+
+1.3 Eine Karte im Maßstab 1:100 000 ist dieser Bekanntmachung als Anlage beigefügt.
+
+2. Zweck des Naturparkes
+
+Zweck der Ausweisung des Naturparkes ist die Bewahrung des brandenburgischen Natur- und Kulturerbes. Es sollen beispielhaft umweltverträgliche Nutzungsformen, insbesondere  auch eine Erholungsnutzung  in Übereinstimmung mit Naturschutzerfordernissen praktiziert werden. Zweck ist weiterhin die einheitliche Pflege und Entwicklung des Gebietes für die Erhaltung und Förderung vielfältiger Lebensräume sowie die Bewahrung und Entwicklung einer eiszeitlich geprägten Landschaft.
+
+Die Bekanntmachung des Naturparkes dient daher insbesondere
+
+der Erhaltung und Förderung der landschaftlichen Eigenart und Schönheit einer reich strukturierten, weitgehend harmonischen Kulturlandschaft mit einer Vielzahl unterschiedlicher, stark miteinander verzahnter Landschaftselemente, vor allem  Klarwasserseen, Fließgewässern, ausgedehnten Buchenwäldern, Laubmischwäldern und Bruchwäldern, Mooren, Moorseen und Moorwäldern, Heiden, Alleen sowie weiteren kulturhistorisch und landschaftsästhetisch wertvollen und vielgestaltigen Landschaftsstrukturen,
+
+dem Schutz und der Entwicklung naturraumtypisch ausgebildeter, vielfältiger Lebensräume mit dem ihnen eigenen Reichtum an Tier- und Pflanzenarten,
+
+der Ergänzung und dem Aufbau eines Verbundsystems verschiedener miteinander vernetzter Biotope,
+
+der Entwicklung und Förderung einer naturverträglichen und mit den Zielen der Raumordnung und Landesplanung abgestimmten Nutzung durch Erholung und Tourismus,
+
+wobei eine weitere naturtouristische Entwicklung der Kyritz-Ruppiner Heide, die aufgrund der vorliegenden Kampfmittelbelastung Betretungsbeschränkungen unterliegt, als langfristiges Ziel schrittweise mit Fortgang der Munitionsräumung angestrebt wird,
+
+dem Erhalt traditioneller und der Förderung umweltverträglicher, nachhaltiger Nutzungsformen in den Bereichen Land-, Forst-, Fischerei- und Wasserwirtschaft  sowie der historisch gewachsenen Siedlungsstrukturen,
+
+der Förderung der Bildung für nachhaltige Entwicklung,
+
+der Förderung der kulturellen Angebote und regionalen Traditionen durch die Verknüpfung von Kultur, Natur und Landschaft zur Ausprägung des besonderen Charakters der Region,
+
+der Einwerbung und dem gezielten Einsatz von Mitteln zur Pflege und Entwicklung des Gebietes aus Förderprogrammen des Landes, des Bundes und der Europäischen Union,
+
+der Förderung der nachhaltigen Regionalentwicklung.
+
+3. Trägerschaft, Verwaltung
+
+Träger des Naturparkes ist das Land Brandenburg. Der Naturpark wird von der Fachbehörde für Naturschutz und Landschaftspflege gemäß § 32 Absatz 1 des Brandenburgischen Naturschutzausführungsgesetzes verwaltet.
+
+4. Wirksamwerden
+
+Die Erklärung zum Naturpark wird mit der Veröffentlichung im Amtsblatt für Brandenburg wirksam.
 
 Anlagen
 
 1
 
-Anlage zum Errichtungserlass vom 15. Dezember 2008 413.8 KB
+MLUK Naturpark Stechlin_Ruppiner Land 4.4 MB
