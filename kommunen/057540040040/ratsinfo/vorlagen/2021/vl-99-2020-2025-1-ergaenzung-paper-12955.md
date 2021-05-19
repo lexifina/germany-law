@@ -1,0 +1,22 @@
+# 3. Änderung des Bebauungsplanes Nr. 25 - Ortsteil Steinhagen - („Gewerbegebiet Düfelsiek“) hier: Gesamtabwägung und Satzungsbeschluss
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-99-2020/2025 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-05-19
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTT0eF8GwJSdPxpp2VL21Xw
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/12955
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (3. Änderung des Bebauungsplanes Nr. 25 - Ortsteil Steinhagen - („Gewerbegebiet Düfelsiek“) hier: Gesamtabwägung und Satzungsbeschluss) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUpHrm1HkX7zJ9N6fQw76g1wpaTPt6Pyrw3gFcsArqav/Beschlussvorlage_VL-99-2020-2025_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 - Abwägungsunterlagen) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVU_Wgmq0lQpV-I23077iODL_c8f2nAUaDoU73ic2gkQ/Anlage_1_-_Abwaegungsunterlagen.pdf
+- Anlage: Beschlussvorlage (Anlagen A - G) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfPyJH2gZP9NmEkFVrYU6IRawY1TNcAGxqB_z93i-G_6/Anlagen_A_-_G.pdf
+- Anlage: Beschlussvorlage (Anlagen H - X) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdwDVulK1tW7SUhgEoYtwv2CguiTYITGM2UsCKst3iNd/Anlagen_H_-_X.pdf
+- Anlage: Beschlussvorlage (Anlagen a) - d)) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTow7SHLnXA3PPMvs5UCu9FQpW05oGAK85klxmIm5ukl/Anlagen_a-_-_d-.pdf
+- Anlage: Beschlussvorlage (Anlagen e) - s)) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekyG0RoHQEu4QaWfmC0WXNosArzrdN7eUaNAhTNz9EY/Anlagen_e-_-_s-.pdf
+- Anlage: Beschlussvorlage (Anlage I - Bebauungsplan 3. Änd. Nr.25_Satzung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxvd_nRfMdgnKohWyDoKc6AyEyxSDQTN0cr3dz_N5mT/Anlage_I_-_Bebauungsplan_3._Aend._Nr.25_Satzung.pdf
+- Anlage: Beschlussvorlage (Anlage II - B-Plan_Nr.25.3_Satzung-A4) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQao22MiipJuaFT3ni3eYa6XxU8n39vEAiq2lv_7U1Su/Anlage_II_-_B-Plan_Nr.25.3_Satzung-A4.pdf
+- Anlage: Beschlussvorlage (Anlage III - Begründung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRmIzVpgTYeYqTWF31ZqUR35FTxPLVLwNj833OLdUECO/Anlage_III_-_Begru--ndung.pdf
+- Anlage: Beschlussvorlage (Anlage IV - Umweltbericht B-Plan Nr.25_Satzung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSU_zZyZpmhwYDduPIsKxoH5irYJBYsljqQL3OdQ9HAL/Anlage_IV_-_Umweltbericht_B-Plan_Nr.25_Satzung.pdf
+- Anlage: Beschlussvorlage (Anlage V - Artenschutzfachbeitrag B-Plan Nr.25_Satzung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV7e-tqxRl1LN9z110TNol7mPBbu4oQmnSLX14f5hNIs/Anlage_V_-_Artenschutzfachbeitrag_B-Plan_Nr.25_Satzung.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/3507 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-186
