@@ -1,0 +1,105 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6371980
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6371980
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.2: Unveränderte Fortführung von Gaststätten
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales, Bildung und Kultur
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Künstlerische Gestaltung des Trafohäuschens am Pündterplatz (vertagt aus 04/2021)
+- TOP 2.1.: (E) Stadtbezirksbudget World Wo*Man GbR Projekt "World Wo*Man" vom 15.05.2021 - 31.01.2022 2.500,00 Euro, Az.: 0262.04-0331
+- TOP 2.2.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V., Kreisgruppe München Projekt "Plattform - Verkehrswende, Erlebniscontainer 2021" vom 16.07. - 13.09.2021 5.000,00 Euro, Az.: 0262.0-4-0337
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "ZWINK" ZWINK - Objekt-Tanz im öffentlichen Raum vom 20.05. - 15.10.2021 3.030,00 Euro, Az.: 0262.0-4-0336
+- TOP 2.4.: (E) Stadtbezirksbudget eigenleben gGmbH Treffpunkt "Raum für eigenleben" von Juni - Dezember 2021 15.000,00 Euro, Az.: 0262.0-4-0338
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3.1.: "Das Streben nach Glück" am 10.05.2021, Gehweg Franz-Joseph-Str. 45
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP C: Bauen, Wohnen und Wirtschaft
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Evaluation der Münchner Stellplatzsatzung
+- TOP 2.2.: Vorbescheid Prinz-Eugen-Str. 5-11: Wohnbebauung mit Kindertagesstätte und Tiefgarage (3 Varianten) a) Bauvorhaben b) in Zusammenhang damit beantragte Bauvorhaben
+- TOP 2.3.: Apianstr. 6: Erneuerung des Dachs mit Firsterhöhung (VGB / Einzeldenkmal), Erneuerung des Dachs mit Schaffung einer Dachterrasse (RGB), Umbau einer DG-Wohnung mit Einbau einer Galerie und Loggia, Speicherausbau (DG+Dachspitz) zur Schaffung einer Maisonette-Wohnung, Rückbau zweier Kaminzüge und Einbau eines Innenlifts sowie Erneuerung von Bädern, Rückbau der hofseitigen Balkone und Neubau von abgehängten Balkonen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Kinderhaus Infanteriestr. 23: Zebrastreifen vor Haus für Kinder und Schule
+- TOP 1.2.: PENNY Hohenzollernstr. 56 Änderung der Anlieferzeit
+- TOP 1.3.: Bürgerin: Umbenennung des MVG "KolumBUS" (zu TOP D 2.1)
+- TOP 1.4.: Bürgerin: Aufhebung des nicht benutzungspflichtigen Radwegs in der Kurfürstenstraße als Voraussetzung für Schanigärten
+- TOP 1.5.: Bürgerin: Gefährdung von Zu Fuß Gehenden
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.6.: MVG-Leistungsprogramm 2022 (dazu: Stellungnahmen des Fahrgastverbandes ProBahn und des Arbeitskreises "Attraktiver Nahverkehr" im Münchner Forum)
+- TOP 2.7.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO Boxen" (Einschätzung und überschlägige Bedarfsmeldung des BA)
+- TOP 2.8.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Rümannstr. 5
+- TOP 2.9.: Erinnerungsverfahren Borschtallee/Voelderndorffstraße
+- TOP 2.10.: Fahrradabstellanlagen in der Herzog- und Fallmerayerstraße: Umsetzungsvorschläge zum BA-Antrag Nr. 20-26/B 01454 mit der Bitte um Rückmeldung
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Verkehrsaufkommen und Tempo 30-Bereiche in der Karl-Theodor- und der Schleißheimer Straße (Antworten der Kommunalen Verkehrsüberwachung und des Mobilitätsreferats auf BA-Schreiben vom 17.03.2021)
+- TOP 3.1.2.: Verparkte Gehwegabsenkungen in der James-Loeb-, Bumm- und Rümannstraße; Einrichtung eines allgemeinen Behindertenparkplatzes und Fahrradständer (Zwischennachricht des Baureferats Tiefbau und Antwort des Mobilitätsreferats zu weitergeleitetem Bürgeranliegen)
+- TOP 3.1.3.: Lückenschluss Radwegverbindung am Nordbad
+- TOP 3.1.4.: Sichere Kreuzung und zuverlässig nutzbarer Gehweg für alle - Sailerstraße/Fürstenbergstraße
+- TOP 3.2.1.: Errichtung eines absoluten Haltverbots auf der Westseite der Ackermannstraße gegenüber Elisabeth-Kohn-Straße
+- TOP 3.2.2.: Geänderte Baustelleneinrichtung und Radwegsperrung Herzogstr. 84
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Antrag BA 20 Hadern: Gesamtstädtisches Konzept zum Thema "Gehwegparken"
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürger: Verlegung von Rasengitter zum Schutz des Grünstreifens Schleißheimer Str. 158-164
+- TOP 1.2.: Bürger: Aufwertung des Streetballplatzes im Luitpoldpark/Scheidplatz
+- TOP 1.3.: Fraktionsübergreifender Antrag: Enzis für Schwabing West
+- TOP 1.4.: Antrag SPD: Förderung besonders kreativer "Stadtterrassen für alle"
+- TOP 1.5.: Bürger: Überfüllter Mülleimer in der Isabellastraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Barlachstr. 6: Antrag auf Fällung einer Robinie und eines Silber-Ahorn
+- TOP 2.1.2.: Baumpflanzungen im öffentlichen Raum: Weitere Vorschläge
+- TOP 2.2.1.: Agnesstr. 8 "Taverna Kalypso": Erweiterung der bestehenden Freischankfläche
+- TOP 2.2.2.: Aufnahme der Wohnanlage Oberwiesenfeld der Stadibau in die städtische Straßenreinigung und den Winterdienst
+- TOP 2.2.3.: Herzogstr. 86 "Nikkei Kitchen": Erweiterung der bestehenden Freischankfläche
+- TOP 2.2.4.: Arcisstr. 61 "Beefroom61": Erweiterung der bestehenden Freischankfläche (Schanigarten)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Auswahlverfahren Sommerstraßen 2021 - Ergebnisse und weiteres Vorgehen
+- TOP 3.4.2.: Erteilte Freischankflächen-Erlaubnisse a) Herzogstr. 85 "Suuapinga" b) Georgenstr. 144 "Il Borgo"
+- TOP 3.4.3.: Ausnahmezulassung für nächtliche Gleisbauarbeiten in der Schwere-Reiter-Straße
+- TOP 3.4.4.: AKIM-Bericht 1. Halbjahr 2021
+- TOP 3.4.5.: Versammlungsanzeige: "Tag der Pflege" am 12.05.2021 auf dem Kölner Platz
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Bildung eines zusätzlichen Unterausschusses 1. Beschluss über Bildung, Benennung und Zuständigkeiten des neuen Unterausschusses 2. Beschluss über die Anzahl der Mitglieder 3. Benennung der Mitglieder und Regelung der Stellvertretung durch die Fraktionen 4. Wahl der / des Vorsitzenden des Unterausschusses 5. Benennung der / des stellvertretenden Vorsitzenden des Unterausschusses (optional) 6. Tag und Uhrzeit sowie Ort der UA-Sitzungen
+- TOP G: Verschiedenes
+- TOP H: Termine
