@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2021-05-19T15:00:00+02:00
+- Ende: 2021-05-19T17:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5388
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5388
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00193631.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00193631.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00193631.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung einer Eilentscheidung - Einstimmiger Beschluss
+- TOP 1: Genehmigung einer Eilentscheidung - Einstimmiger Beschluss
+- TOP 2: Sachstandsbericht zur aktuellen Corona-Lage
+- TOP 2: Sachstandsbericht zur aktuellen Corona-Lage - Kenntnisnahme
+- TOP 3: Bildung eines Kreiswahlausschusses für die Landtagswahl 2022 - Gewählt nach Hare Niemeyer
+- TOP 3: Bildung eines Kreiswahlausschusses für die Landtagswahl 2022 - Gewählt nach Hare Niemeyer
+- TOP 4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach am 27. Juni 2021 im Zusammenhang mit dem Turmfest - Von Verwaltung zurückgezogen
+- TOP 4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach am 27. Juni 2021 im Zusammenhang mit dem Turmfest - Von Verwaltung zurückgezogen
+- TOP 5: Tarif für die Hallenbäder der Stadt Mönchengladbach und Inhalte einer Vereinbarung zwischen Stadt und NEW mobil aktiv Mönchengladbach GmbH zur Ausgestaltung weiterer Angebote in den Bädern - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 5: Tarif für die Hallenbäder der Stadt Mönchengladbach und Inhalte einer Vereinbarung zwischen Stadt und NEW mobil aktiv Mönchengladbach GmbH zur Ausgestaltung weiterer Angebote in den Bädern - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 6: Einlage von städtischen Grundstücken in die Kreisbau AG - Einstimmiger Beschluss
+- TOP 6: Einlage von städtischen Grundstücken in die Kreisbau AG - Einstimmiger Beschluss
+- TOP 7: HSP-Umsetzungsbericht 15.04.2021 - Kenntnisnahme
+- TOP 7: HSP-Umsetzungsbericht 15.04.2021 - Kenntnisnahme
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (6. Nachweisung) - Kenntnisnahme
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (6. Nachweisung) - Kenntnisnahme
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (1. Nachweisung) - Kenntnisnahme
+- TOP 10: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 10: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 11: Umbesetzung der Zweckverbandsversammlung ITK Rheinland - Einstimmiger Beschluss
+- TOP 11: Umbesetzung der Zweckverbandsversammlung ITK Rheinland - Einstimmiger Beschluss
+- TOP 12: Ausschreibung einer Beigeordnetenstelle (m/w/d) - Einstimmiger Beschluss
+- TOP 12: Ausschreibung einer Beigeordnetenstelle (m/w/d) - Einstimmiger Beschluss
+- TOP 13: Inangriffnahme Kunststoffrasen-Großspielfeld BSA Schlossstraße/Geneicken - Einstimmiger Beschluss
+- TOP 13: Inangriffnahme Kunststoffrasen-Großspielfeld BSA Schlossstraße/Geneicken - Einstimmiger Beschluss
+- TOP 14: Dauerhafte Erweiterung der Realschule Geschwister-Scholl auf drei Züge - Mit Stimmenmehrheit beschlossen
+- TOP 14: Dauerhafte Erweiterung der Realschule Geschwister-Scholl auf drei Züge - Mit Stimmenmehrheit beschlossen
+- TOP 15: Wiederwahl der Schiedsfrau Reinke für den Schiedsamtsbezirk Mönchengladbach-Ost 2 (Giesenkirchen) - Einstimmiger Beschluss
+- TOP 15: Wiederwahl der Schiedsfrau Reinke für den Schiedsamtsbezirk Mönchengladbach-Ost 2 (Giesenkirchen) - Einstimmiger Beschluss
+- TOP 16: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mönchengladbach-Nord/2 - Einstimmiger Beschluss
+- TOP 16: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mönchengladbach-Nord/2 - Einstimmiger Beschluss
+- TOP 17: Jahresabschluss 2020 der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg + - Einstimmiger Beschluss
+- TOP 17: Jahresabschluss 2020 der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg + - Einstimmiger Beschluss
+- TOP 18: 238. Änderung des Flächennutzungsplanes ("Maurus-Ahn-Straße") - Abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 18: 238. Änderung des Flächennutzungsplanes ("Maurus-Ahn-Straße") - Abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 798/O („Maurus-Ahn-Straße") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 798/O („Maurus-Ahn-Straße") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 20: Bebauungsplan Nr. 787/O ("Kruchenstraße"), Bebauungsplan der Innenentwicklung gemäß § 13a i. V. m. § 13b BauGB - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 787/O ("Kruchenstraße"), Bebauungsplan der Innenentwicklung gemäß § 13a i. V. m. § 13b BauGB - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 21: Patenschaft für eine Streuobstwiese an die Kath. Hauptschule Neuwerk in Zusammenarbeit mit der Kolpingfamilie Mönchengladbach - Einstimmiger Beschluss
+- TOP 21: Patenschaft für eine Streuobstwiese an die Kath. Hauptschule Neuwerk in Zusammenarbeit mit der Kolpingfamilie Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Anpassung der Gestaltungsrichtlinie zur Unterstützung von Handel und Gastronomie - Einstimmiger Beschluss
+- TOP 22: Anpassung der Gestaltungsrichtlinie zur Unterstützung von Handel und Gastronomie - Einstimmiger Beschluss
+- TOP 23: Fraktionsantrag zur Vorlage-Nr. 0605/X - Verfahren zur Neu- bzw. Umbenennung von Straßen; hier: Antrag der Ratsfraktion DIE LINKE vom 28.04.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Fraktionsantrag zur Vorlage-Nr. 0605/X - Verfahren zur Neu- bzw. Umbenennung von Straßen; hier: Antrag der Ratsfraktion DIE LINKE vom 28.04.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Rettung der Postfiliale Odenkirchen; hier: Einrichtung einer zweckgebundenen Ladezone - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Rettung der Postfiliale Odenkirchen; hier: Einrichtung einer zweckgebundenen Ladezone - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 25: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 26: Rechtsgutachten share2drive / Haftungsfrage - Vom Antragsteller zurückgezogen
+- TOP 26: Rechtsgutachten share2drive / Haftungsfrage - Vom Antragsteller zurückgezogen
+- TOP 26.1: Fraktionsantrag als Ergänzungsantrag zu TOP Ö25 im Rat am 19.05.2021 - Rechtsgutachten share2drive / Haftungsfrage - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 26.1: Fraktionsantrag als Ergänzungsantrag zu TOP Ö25 im Rat am 19.05.2021 - Rechtsgutachten share2drive / Haftungsfrage - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 27: Aufforsten gegen den Klimawandel - Vom Antragsteller zurückgezogen
+- TOP 27: Aufforsten gegen den Klimawandel - Vom Antragsteller zurückgezogen
+- TOP 28: Ausschussumbesetzung - Einstimmiger Beschluss
+- TOP 28: Ausschussumbesetzung - Einstimmiger Beschluss
+- TOP 29: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 10.05.2021 - Einstimmiger Beschluss
+- TOP 29: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 10.05.2021 - Einstimmiger Beschluss
+- TOP 30: Anfragen und Mitteilungen
+- TOP 30: Anfragen und Mitteilungen
+- TOP 30.1: Anfrage von RH Fegers zur Berichterstattung zum LOI in der Sache S 28
+- TOP 30.1: Anfrage von RH Fegers zur Berichterstattung zum LOI in der Sache S 28
+- TOP 30.2: Anfrage von RH Fegers zu den Kosten der neuen S 28-Studie
+- TOP 30.2: Anfrage von RH Fegers zu den Kosten der neuen S 28-Studie
+- TOP 30.3: Anfrage inkl. Antwort von RH Hexgen (AfD) zu Fördermitteln für die Zentren Mönchengladbach und Rheydt
+- TOP 30.4: Anfrage von RH Willi Schmitz (CDU) zu einer Einladung in Bezug auf das LOI in Neuwerk
+- TOP 30.5: Anfrage von RH Willi Schmitz (CDU) zu Problemen bei der Abholung der gelben Tonne
+- TOP 30.6: Mitteilung von Oberbürgermeister Heinrichs zu einer Umweltverträglichkeitsprüfung der belgischen Kernkraftwerke Doel-1 und Doel-2
+- TOP 33.1: Anfrage inkl. Antwort von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zum Sanierungsstau an Schulen
+- TOP 33.2: Anfrage von RH Schultz (DIE LINKE) zum Vergabemarktplatz NRW
