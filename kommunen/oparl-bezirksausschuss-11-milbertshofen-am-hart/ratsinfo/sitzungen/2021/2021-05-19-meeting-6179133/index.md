@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6179133
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6179133
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1: Plenum
+- TOP 4.1.1.: (U) Digitale Teilhabe an Bürgerversammlungen
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: U-Bahn-Station Olympiazentrum - Reinigungsqualität oberirdisch verbessern
+- TOP 4.2.2.: Vorstellung der Planungen zum Busbahnhof Olympiazentrum
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: Ehemaliger Busbahnhof Olympiazentrum - Nutzung als Street Food Bereich
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Dostlerstraße (westlich Riesenfeldstraße) - Beibehalt der Einbahnregelung - Antwortschreiben auf die Stellungnahme des BA 11
+- TOP 4.4.2.: Nietzschestraße – Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2021 – Ergebnisse und weiteres Vorgehen + Angebot zum Thema "Sommerstraßen Dialogspiel"
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: a) Keferloher Str. 103 - Presse-Kiosk - Genehmigung eines Verkaufsstandes b) Georgenschwaigstraße - NB Life Food Bike GmbH - Genehmigung einer Freischankfläche
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Einführung eines Ehrenamtspreises für den 11. Stadtbezirk
+- TOP 7.3.2.: Christoph-von-Gluck-Platz - Errichtung einer dritten Tischtennisplatte in der Grünanlage neben dem Spielplatz
+- TOP 7.3.3.: Olympiapark - „Fit im Park“ realisieren
+- TOP 7.3.4.: Stadtbezirk 11 - Ermittlung des Handlungsbedarfs bei allen öffentlichen Spielangebote durch Besichtigungstour(en) zur Bestandsaufnahme
+- TOP 7.3.5.: Olympiapark - Überprüfung der Beleuchtung für den Basketballplatz und die AOK-Bewegungsinsel
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.1: Plenum
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Frankfurter Ring 83 - 85 a) Bauvorhaben - Neubau eines Gewerbe- und Bürogebäudes mit Tiefgarage - Vorbescheid
+- TOP 8.2.2.: Schleißheimer Str. 420 a) Bauvorhaben: Neubau eines Aeroakustik- und E-Antriebs-Zentrum (AEZ) Hinweis: Ergänzte Unterlagen
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Kita-Stadtteil- und Kinder-Aktions-Koffer - Ausschreibung für das Kalenderjahr 2022
+- TOP 8.3.2.: Veranstaltung "Mountainbike-, BMX-, Triathlon-Europameisterschaften im Rahmen der European Championship Munich 2022" im Olympiapark vom 11. bis 20.08.2022
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021
+- TOP 8.4.2.: Anschaffung von Verkehrszähl- und Geschwindigkeitsmessgeräten "TOPO-Boxen"; Auswertung der Befragung der Bezirksausschüsse und weiteres Vorgehen
+- TOP 8.4.3.: Evaluation der Münchner Stellplatzsatzung vom 19.12.2007 hier: Anhörungs- und Beteiligungsverfahren
+- TOP 8.4.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Weyprechtstraße 72 - Anfahrtszone für das Haus für Kinder b) Olympiadorf - Parken nur für Pkw`s
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Frankfurter Ring 83 - 85 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Schleißheimer Str. 420 b) Immissions-, Grundwasserschutz und Beseitigung von Baumbestand Hinweis: Ergänzte Unterlagen
+- TOP 8.5.3.: Arnauer Str. 2 - Antrag auf Baumfällung
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Baustelleneinrichtung am Oberhofer Weg - Seite Taunusstraße
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Arbeiten im Straßenraum: a) Moosacher Straße – Verlegung einer Fernwärmeleitung und Baukranaufstellung
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Hugo-Wolf-Straße - Legalisierung des Gehwegparkens b) Humperdinckstraße (Nordseite) - absolutes Haltverbot c) Neuherbergstr (Südseite Ortsfahrbahn) - Einrichtung einer Kurzparkzone d) Neuherbergstr (Ostseite) - Ausdehnung einer Kurzparkzone e) Neuherbergstr (Nordseite) - Beschränkung auf PkW-Parken
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 9.5.2.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
