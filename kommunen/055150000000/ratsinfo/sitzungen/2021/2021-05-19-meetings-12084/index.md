@@ -1,0 +1,98 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-05-19T16:34:00+02:00
+- Ende: 2021-05-19T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12084
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12084
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00483060.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Vorgesehen für die Sitzung des Rates am 19.05.2021
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 2.2: Tarifmaßnahme Mobilität 01/2022 - Anpassung der Fahrpreise zum 1. Januar 2022 für das Stadtgebiet Münster innerhalb des Westfalentarifs - mehrheitlich geändert beschlossen
+- TOP 2.3: Zukünftige Klärschlammverwertung - einstimmig geändert beschlossen
+- TOP 2.4: Finanzierung des Kompetenzzentrums Digitale Wasserwirtschaft durch die Stadt Münster, - einstimmig beschlossen
+- TOP 2.5: „Erlass einer Sozialen Erhaltungssatzung für das Hafen-, Hansa-, Herz-Jesu-Viertel“ - mehrheitlich beschlossen
+- TOP 2.5.1: „Erlass einer Sozialen Erhaltungssatzung für das Hafen-, Hansa-, Herz-Jesu-Viertel“
+- TOP 2.6: Einrichtung eines Zentrenfonds - einstimmig beschlossen
+- TOP 2.7: Zentrenmanagement - einstimmig geändert beschlossen
+- TOP 2.8: Beschluss des Rates vom 09.12.2020 zu den Unterstützungsmaßnahmen der Gastronomie und des Schaustellergewerbes für den Winter 2020/21 und das Jahr 2021 - zur Kenntnis genommen
+- TOP 2.9: Verkehrsversuche
+- TOP 2.9.1: Verkehrsversuche 2021 - zur Kenntnis genommen
+- TOP 2.9.2: Verkehrsversuch Hörsterstraße - Bült - mehrheitlich geändert beschlossen
+- TOP 2.9.3: Verkehrsversuch Promenadenbevorrechtigung - Neubrückentor - mehrheitlich geändert beschlossen
+- TOP 2.9.4: Verkehrsversuch ÖPNV: Durchgängiger Bussonderfahrstreifen zwischen Ludgeriplatz und Landeshaus - einstimmig geändert beschlossen
+- TOP 2.10: Radverkehrsinfrastrukturmaßnahme „Flyover Aegidiitor“ - mehrheitlich geändert beschlossen
+- TOP 2.10.1: Radverkehrsinfrastrukturmaßnahme „Flyover Aegidiitor“
+- TOP 2.11: Kindertageseinrichtungen
+- TOP 2.11.1: Neubau und Erweiterung der Katholischen Kita St. Agnes an der Herz-Jesu-Kirche, Wolbecker Straße, Bezirk Mitte - einstimmig beschlossen
+- TOP 2.11.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Drostebusch (ehemals Kita Paul-Schneider-Haus) im Stadtteil Mauritz-Ost - einstimmig beschlossen
+- TOP 2.11.3: Umbau des ehemaligen Hauptzollamts zu einer 9-Gruppen-Kindertageseinrichtung und 2 Großtagespflegestellen in der Sonnenstr. 85-89 in Münster - einstimmig geändert beschlossen
+- TOP 2.12: Umbau der Qualifizierung in der Kindertagespflege - einstimmig beschlossen
+- TOP 2.13: Erstattung Eigenanteil für Lernmittel ab dem Schuljahr 2021/2022 - einstimmig beschlossen
+- TOP 2.14: Vorverlegung des Lehrgangsbeginns auf den 01.08. der Städtischen Berufsfachschule für pharmazeutisch-technische Assistenten/-innen - einstimmig beschlossen
+- TOP 2.15: Anmietung von Magazinflächen für das Stadtarchiv Münster - einstimmig beschlossen
+- TOP 2.16: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2019/2020 - einstimmig beschlossen
+- TOP 2.17: Verfahrensordnung Fachbeirat Geschichtsort Villa ten Hompel - einstimmig geändert beschlossen
+- TOP 2.18: Zentraldeponie Münster II - von der Tagesordnung abgesetzt
+- TOP 2.19: Erweiterung der Mosaik-Schule in Münster zur vollen Dreizügigkeit, mit der Option zur Vierzügigkeit - einstimmig beschlossen
+- TOP 2.20: Städtische Erbbaurechte - Bericht über die Stellungnahmen der städtischen Tochterunternehmen (Wohn + Stadtbau GmbH, Stadtwerke Münster GmbH, KonvOY GmbH, WBI GmbH und Wirtschaftsförderung Münster GmbH) - zur Kenntnis genommen
+- TOP 2.21: Entwicklung des ehemaligen Westfalen-Geländes in Angelmodde zu einen attraktiven Wohn- und Schulstandort - einstimmig beschlossen
+- TOP 2.22: Bauleitplanung
+- TOP 2.22.1: Stadtbezirk Südost
+- TOP 2.22.1.1: 116. FNP-Änderung - Beschluss zur Änderung; Bebauungsplan Nr. 624 & Bebauungsplan Nr. 625 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 2.22.1.2: 1. 107. Änderung des FNP - 2. Bebauungsplan Nr. 616 - Beschluss zur Änderung / Beschluss zur Aufstellung - mehrheitlich geändert beschlossen
+- TOP 2.22.1.3: Bebauungsplan Nr. 595 I - Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 2.22.1.4: Veränderungssperre Nr. 114 - mehrheitlich beschlossen
+- TOP 2.22.1.4.1: Veränderungssperre Nr. 114
+- TOP 2.23: Anträge nach § 3 Abs. 1 der Geschäftsordnung (sofortige Beschlussfassung)
+- TOP 2.23.1: Stau entsperren – Abgase verringern – Busse beschleunigen! - verwiesen
+- TOP 2.23.2: Ökologische Landwirtschaft im Münsterland stärken – Bewerbung als Öko-Modellregion auf den Weg bringen - mehrheitlich geändert beschlossen
+- TOP 2.23.3: Nahverkehr günstiger machen - mehrheitlich beschlossen
+- TOP 2.23.4: Landesregierung darf Eltern nicht im Regen stehen lassen – Keine Elternbeiträge für eingeschränkte Leistung - mehrheitlich beschlossen
+- TOP 2.24: Anträge nach § 3 Abs. 2 der Geschäftsordnung
+- TOP 2.24.1: Grünen Wasserstoff für Münster nutzbar machen - Münster baut professionelle Strukturen für die Zukunftstechnologie grüner Wasserstoff auf - verwiesen
+- TOP 2.24.2: Benennung einer Straße nach Marga Spiegel - verwiesen
+- TOP 2.24.3: Weichen jetzt richtigstellen: Klimaschutz effizient und mit Strategie angehen! - verwiesen
+- TOP 2.24.4: Urbanes Grün als Ressource für Mensch und Umwelt –Stadtklima verbessern, Grünoasen schaffen - verwiesen
+- TOP 2.24.5: Eine Preisoffensive für den ÖPNV: Flexibel, digital, nachhaltig -und machbar - verwiesen
+- TOP 2.24.6: Wie wird Münster wieder sauberer? Die Stadt geht die zunehmende Vermüllung des öffentlichen Raums nachdrücklich an - verwiesen
+- TOP 2.24.7: Verzicht auf Erhebung von Elternbeiträgen in der Kinderbetreuung aufgrund der Corona-Betreuung sowie verbindliche Lösungen bis zu den Sommerferien - verwiesen
+- TOP 2.24.8: Pandemiebedingte Anpassungen zur Erhebung von Elternbeiträgen - verwiesen
+- TOP 2.24.9: Schülerbeförderung zum Schwimmunterricht an Münsteraner Grundschulen - verwiesen
+- TOP 2.24.10: Freie Fahrt für Feuerwehr und Rettungsdienst durch Beeinflussung der Ampelsteuerungen - verwiesen
+- TOP 2.24.11: Halle Münsterland für die Zukunft nach Corona aufstellen - verwiesen
+- TOP 2.24.12: Ein Sport- und Freizeitbad für Münsters Westen: Jetzt mit der Planung beginnen! - verwiesen
+- TOP 2.24.13: Mieter*innberatungsscheine gegen Wohnmissstände in Münster jetzt verfügbar machen! - verwiesen
+- TOP 2.24.14: Anpassung der Altstadtsatzung und weiterer städtebaulicher Satzungen zur Erhaltung und Gestaltung baulicher Anlagen: Solarenergie auch in der Altstadt möglich machen - verwiesen
+- TOP 2.24.15: Das Recht auf Meinungsäußerung und Berücksichtigung junger Menschen auf kommunaler Ebene stärken: Jugendbefragungen in Münster - verwiesen
+- TOP 2.24.16: Versorgungssicherheit bei Schwangerschaftsabbrüchen in Münster - Einrichtung einer Koordinierungsstelle - verwiesen
+- TOP 2.24.17: Nachtbürgermeister*innen - verwiesen
+- TOP 2.24.18: Pflegeberufebericht Münster auf den Weg bringen - Pflegeausbildung in Münster stärken - verwiesen
+- TOP 2.24.19: Mit einem Managementkontrakt die Citeq stärken - verwiesen
+- TOP 2.24.20: Biodiversität fördern – Vertrauen pflanzen – gemeinsam - verwiesen
+- TOP 2.25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 2.25.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 2.26: Besetzung der Gremien der Klärschlammverwertung Buchenhofen GmbH - einstimmig geändert beschlossen
+- TOP 3: Vorgesehen für die Sitzung des Hauptausschusses am 19.05.2021
+- TOP 3.1: Umbenennung der Apffelstaedtstraße in Henriette-Son-Straße - einstimmig beschlossen
+- TOP 3.1.1: Umbenennung der Apffelstaedtstraße in Waltraut-Seitter-Straße
+- TOP 4: Vorgesehen für die Sitzung des Ausschusses für Verkehr und Mobilität am 06.05.2021
+- TOP 4.1: Anbindung des York-Quartiers an den Albersloher Weg in Höhe Gremmendorfer Weg (B-Plan Nr. 582) - einstimmig beschlossen
+- TOP 4.2: Bahnhofsvorplatz – Ostseite - von der Tagesordnung abgesetzt
+- TOP 4.3: Gittruper Straße, vom DEK bis Stadtgrenze - einstimmig geändert beschlossen
+- TOP 5: Vorgesehen für die Sitzung des Ausschusses für Umweltschutz, Klimaschutz und Bauwesen am 11.05.2021
+- TOP 5.1: Errichtung eines Lagerbehälters und einer Dosieranlage für Kohlenstoff auf der Kläranlage - einstimmig beschlossen
+- TOP 5.2: Canisiusgraben – Umlegung einer Regenwassereinleitung - einstimmig beschlossen
+- TOP 5.3: Erneuerung der Elektro-, Mess-, Steuer- und Regelungstechnik auf der Kläranlage Am Loddenbach - einstimmig beschlossen
+- TOP 5.4: Piepenbach - Naturnaher Ausbau und ökologische Verbesserung von der Telgter Straße bis zur Mündung in die Angel - einstimmig beschlossen
+- TOP 5.5: Plettendorfstraße / St. Lydia Kirche - einstimmig beschlossen
+- TOP 6: Verschiedenes
