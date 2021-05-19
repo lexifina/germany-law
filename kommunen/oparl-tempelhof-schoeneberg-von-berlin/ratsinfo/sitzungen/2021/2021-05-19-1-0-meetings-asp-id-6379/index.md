@@ -1,0 +1,145 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Die Sitzung findet im VIDEOCALL statt. Livestream auf Youtube: https://youtu.be/N5OWkRFRdk8
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-05-19T17:00:00+02:00
+- Ende: 2021-05-19T22:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6379
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6379
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=381365
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Bessere Sicht beim Linksabbiegen vom Lichtenrader Damm in die Fehlingstraße - überwiesen
+- TOP 4.2: Längere Grünphase für die Fußgänger an der Ampel Rubensstraße Ecke Begasstraße - überwiesen
+- TOP 4.3: Kostenfreie Menstruationsprodukte auf Mädchentoiletten - überwiesen
+- TOP 4.4: Mehr Wahlpflichtunterricht an Schulen - überwiesen
+- TOP 4.5: Umrüstung der Straßenlaternen in Lichtenrade auf LEDs - überwiesen
+- TOP 4.6: Radweg am Lichtenrader Damm zwischen Grimmstraße und Goethestraße - überwiesen
+- TOP 4.7: Mehr Sicherheit vor den Schulen - überwiesen
+- TOP 4.8: Bessere Förderung an Grundschulen - überwiesen
+- TOP 4.9: Ein sicherer Schulweg für die Kiepertschule - überwiesen
+- TOP 4.10: Neue Fahrradständer für die Nahariya-Grundschule - überwiesen
+- TOP 4.11: Begrünt Berlin - überwiesen
+- TOP 4.12: Sanierung der Toilettenräume in der Nahariya-Grundschule - überwiesen
+- TOP 4.13: Reparieren der Trennwände der Turnhalle in der Finow-Grundschule - überwiesen
+- TOP 4.14: 30er-Zone auf der Grunewaldstraße - überwiesen
+- TOP 4.15: Änderung der Ampelschaltungen an der Kaisereiche - überwiesen
+- TOP 4.16: Klimaschutz – jetzt handeln! - überwiesen
+- TOP 4.17: Gleichberechtigung bei den Bundesjugendspielen - überwiesen
+- TOP 4.18: Synchronisierung der Ampeln am Südwestkorso 9 - überwiesen
+- TOP 4.19: Laternen auf dem Vorarlberger Damm heller stellen - überwiesen
+- TOP 4.20: Mehr Jugendfreizeit - überwiesen
+- TOP 4.21: Mehr Jugendfreizeit! Skaterpoint am Winterfeldtplatz fördern. - überwiesen
+- TOP 4.22: Bewegungsaktive Jugendfreizeit ausbauen! - überwiesen
+- TOP 4.23: Überarbeitung der Klingelanlage - überwiesen
+- TOP 4.24: Schultoiletten der Grundschule auf dem Tempelhofer Feld - überwiesen
+- TOP 4.25: Inklusionslotsen für die Schulen - überwiesen
+- TOP 4.26: Verlängerung der Grünphase der Fußgängerampel an der Hohenstaufenstraße Ecke Münchener Straße - überwiesen
+- TOP 4.27: Die Blitzerampel - überwiesen
+- TOP 4.28: Entfernung des Graffiti auf dem Spielplatz am Perelsplatz - überwiesen
+- TOP 4.29: Wissen zum Umgang mit dem Internet - überwiesen
+- TOP 4.30: Die parkenden Autos vor der Marienfelder-Grundschule - überwiesen
+- TOP 4.31: Die Digitalisierung in den Schulen vorantreiben - überwiesen
+- TOP 4.32: Änderung der Ampelschaltung (Goltzstraße, Lichtenrader Damm und Kirchhainer Damm) zwischen Edeka Kruse und Café Obergfell - überwiesen
+- TOP 4.33: Eindeutiges Klingelzeichen an der Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.34: Besseres und abwechslungsreiches Schulessen an der Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.35: Die Käthe-Kollwitz-Grundschule braucht eine Renovierung - überwiesen
+- TOP 4.36: Neue Möbel für die Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.37: Mehr geschlossene Mülleimer für die Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.38: Trampoline in der Umgebung der Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.39: Mehr/neue Pflanzen für die Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.40: Neues Spielzeug für die Käthe-Kollwitz-Grundschule - überwiesen
+- TOP 4.41: Alle Schulen sollen mehr Geld bekommen - überwiesen
+- TOP 4.42: Tischtennis im Cheruskerpark - überwiesen
+- TOP 4.43: Fußballplatz an der Pöppelmannstraße - überwiesen
+- TOP 4.44: Mangel an Fahrradständern - überwiesen
+- TOP 4.45: Geschwindigkeitsbegrenzung von 30 km/h auf dem Schichauweg westlich der Motzener Straße - überwiesen
+- TOP 4.46: Spiegel für die Ausfahrt am Kirchhainer Damm - überwiesen
+- TOP 4.47: Neue Spielstraße in Friedenau - überwiesen
+- TOP 4.48: Spielplätze für Kinder im Alter von 9 bis 15 Jahren - überwiesen
+- TOP 4.49: Verlängerung des Fahrradweges am Tempelhofer Damm - überwiesen
+- TOP 4.50: Ampelphasen an der Rubensstraße Ecke Grazer Platz - überwiesen
+- TOP 4.51: Parkverbot Wilhelm-von-Siemens-Straße - überwiesen
+- TOP 4.52: Die Digitalisierung in der Nahariya-Grundschule - überwiesen
+- TOP 4.53: Fußballtore für den Merseburger Fußballplatz - überwiesen
+- TOP 4.54: Keine barrierefreie Querungsmöglichkeit am Bahnübergang Säntisstraße - überwiesen
+- TOP 5: Protokollgenehmigung - vertagt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Übergangssituation für Potse und Drugstore organisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Runder Tisch für den Einzelhandel und die Restaurants im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Aufstellung des Entwurfs der Investitionsplanung 2021 bis 2025 - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Geordnetes Verfahren für Benennungsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 7: Mündliche Anfragen - schriftlich beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Endlich wird in den Gemeinschaftsunterkünften des Bezirks geimpft - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Planreifeerklärung gemäß § 33 Absatz 1 BauGB für das Vorhaben im Geltungsbereich des vorhabenbezogenen Bebauungsplanentwurfs 7-86 VE - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: BVV verurteilt die Schändung der Stolpersteine in der Crellestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen - überwiesen
+- TOP 10.3: Grünstreifen General-Pape-Straße/Kolonnenstraße aufwerten II - in der BVV abgelehnt
+- TOP 10.4: Mobile Impfteams bzw. -zentren auch für Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 10.5: BVV Beschlüsse zur fahrradgerechten Stadt endlich umsetzen - in der BVV abgelehnt
+- TOP 10.6: Unbenannte Grünanlage benennen nach den Betreiberinnen des Damenklubs „Mali und Igel“ - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Information am Breslauer Platz - überwiesen
+- TOP 10.8: Sperrmüllaktionstage auch in Lichtenrade und Marienfelde einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Wilhelm-von-Siemens-Straße von Spurrinnen befreien - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Fahrradstraße in der (Kleinen) Bülowstraße - überwiesen
+- TOP 10.11: Durst ade: Trinkbrunnen am Kaiser-Wilhelm-Platz (zukünftig Richard-von-Weizsäcker-Platz) - überwiesen
+- TOP 10.12: Unvoreingenommenheit und Neutralität bei der Abwägung von Stellungnahmen zu Bebauungsplänen gewährleisten - in der BVV abgelehnt
+- TOP 10.13: Wasser für obdachlose Menschen zugänglich machen - überwiesen
+- TOP 10.14: Baumschonend sanieren – Bäume auf dem Mittelstreifen am Tempelhofer Damm zwischen Platz der Luftbrücke und Borussiastraße erhalten - überwiesen
+- TOP 10.15: Aufarbeitung des sogenannten „Kentler-Experiments“ im Bezirk - überwiesen
+- TOP 10.16: Wieder eine Kegelbahn für Marienfelde - in der BVV abgelehnt
+- TOP 10.17: Kooperation mit der Urania ausloten - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Querungshilfe an der Kreuzung Schöneberger Straße / Eresburgstraße / Borussiastraße - überwiesen
+- TOP 10.19: Auskömmliche Finanzierung der Senior:innen-Vertretung sicher stellen - überwiesen
+- TOP 10.20: Gedenken an Arnold Berliner wachhalten - überwiesen
+- TOP 10.21: Einrichtung eines Fußgängerüberwegs an der Kreuzung Hilbertstraße / Wolziger Zeile - mit Änderungen in der BVV beschlossen
+- TOP 10.22: Fußgängerüberweg Kettinger Straße / Buckower Chaussee sicher gestalten - überwiesen
+- TOP 10.23: Redezeit nach Ausschöpfung des Zeitkontingents - überwiesen
+- TOP 10.24: Tempelhof-Schöneberg steht fest an der Seite Israels und seiner Partnergemeinde Nahariya – wir zeigen Flagge! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Auf ins Lern-Lab Schöneberg-Nord - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Runder Tisch „Zukunft Wirtschaft“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Mit vereinten Kräften neuen Standort für die Gertrud-Kolmar-Bibliothek suchen und finden - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sondernutzung des öffentlichen Straßenlandes durch Apotheken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Lieferzonen am Tempelhofer und Mariendorfer Damm sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Rheumatologische Versorgung im Bezirk sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Frauen sichtbar machen - Grünanlage in der Höppnerstraße nach Gertrud Hanna benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Erinnerung an Dr. Kurt Gudell vorantreiben! - überwiesen
+- TOP 13.3: Zustand des U-Bahnhofs Yorckstraße verbessern - überwiesen
+- TOP 13.4: Der 8. Mai gehört dem Gedenken: ,,Tag der Befreiung vom Faschismus" muss Feiertag in Berlin werden! - überwiesen
+- TOP 13.5: Umbau des Nollendorfplatzes endlich beginnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Nollendorfplatz / Umbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Dezentrales Altglassammelsystem im Bezirk erhalten - überwiesen
+- TOP 13.8: Sperrmülltage im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.10: Zusätzliche Aschenbecher am Bayerischen Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Erinnerung an Dr. Kurt Gudell endlich umsetzen! - überwiesen
+- TOP 13.12: Kapp-Putsch-Gedenktafel wieder am Kaiser-Wilhelm-Platz 3a anbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.13: Einführung einer Parkverbotszone in der Goßler Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: Illegales Parken in zweiter Reihe - überwiesen
+- TOP 13.15: Bewässerung von Straßenbäumen - überwiesen
+- TOP 13.16: Bäume für die Potse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Flächen unter dem U-Bahn-Viadukt sauber halten - Maßnahmen gegen Taubenkotverschmutzungen ergreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Parkhaus am Bahnhof Südkreuz in einen sauberen und ordentlichen Zustand versetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.19: Tempo 30 auf dem Vorarlberger Damm - überwiesen
+- TOP 13.20: Skateparks in Tempelhof-Schöneberg qualifizieren und sanieren - überwiesen
+- TOP 13.21: Fußwege im Baustellenbereich zum S-Bahnhof Lichtenrade vernünftig ausleuchten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Key-Karte für Obdachlose für die Benutzung der Wall-Toilette in der Nähe des Nachtcafes Zum Guten Hirten am Friedrich-Wilhelm-Platz - überwiesen
+- TOP 13.23: Die Rechte von Pflegebedürftigen in Pflegeheimen und Altenheimen besser bewahren und stärken - überwiesen
+- TOP 13.24: Schaffung von Planungsrecht für das EUREF-Gelände nicht in die Länge ziehen - überwiesen
+- TOP 13.25: Geregeltes Verfahren für die Umbenennung des Kaiser-Wilhelm-Platzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Termin der nächsten Sitzung - erledigt
