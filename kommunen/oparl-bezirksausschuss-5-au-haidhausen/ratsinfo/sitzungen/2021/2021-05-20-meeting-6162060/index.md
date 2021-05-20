@@ -1,0 +1,162 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-05-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6162060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6162060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 1.: Entscheidungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP A: Allgemeines
+- TOP 2.1.: Die Tagesordnung wird folgendermaßen ergänzt: - UA Kultur, TOP 8: Einstein Kulturzentrum. Müllentsorgung, neuer Standort der Tonnen - UA Wirtschaft, TOP 1.6: Genehmigung einer Freischankfläche für die Gaststätte "Tagescafe White Rabbits room", Franziskanerstr. 19 - UA Wirtschaft, TOP 2.4: DJ Bike - Soundtrack für München am 22.09.2021, Terrasse an der Hochstr. 77 - UA Mobilität, TOP 1.3: Ergänzende Angaben von AKA e.V. zum Antrag TOP 1.2 - UA Mobilität, TOP 2.4: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Balanstr. 9 - UA Klima, TOP 2.4: Versetzung der Wertstoffcontainer Versailler Straße in die Bothestraße
+- TOP 4.1.: Umbenennung des Angebotes „KolumBus“ der MVG
+- TOP 5.1.: Johannisplatz 7: Lässt der Eigentümer das Haus absichtlich verfallen? Vertagung aus der Sitzung vom 21.04.2021
+- TOP 5.2.: Spekulativer Verfall? Abbruch von Wohnraum im Erhaltungssatzungsgebiet
+- TOP 5.3.: Überprüfung der Genehmigung für eine Werbetafel
+- TOP 5.4.: Grüner Pfeil für den Radverkehr in die Rosenheimer Straße
+- TOP 5.5.: Mobile Toiletten an öffentlichen Plätzen
+- TOP 5.6.: Dringlich:Plaster reparieren am Genoveva-Schauer-Platz
+- TOP 5.7.: Öffentlicher Raum: Förderung von "Stadtterrassen für Alle"
+- TOP 5.8.: Corona-Test-Möglichkeiten schnell erweitern
+- TOP 5.9.: Bewegungsparcours in städtischen Grünlagen installieren
+- TOP 5.10.: Busbeschleunigungen für die Linien 58/68, 62 und X30
+- TOP 5.11.: Radstellplätze in der Au und in Haidhausen einrichten
+- TOP 5.12.: Mülleimer an Tramhaltestellen öfter leeren
+- TOP 5.13.: Häufigere Müllbeseitigung am Orleansplatz
+- TOP 6.2.1.: Infoblatt Mai 2021
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2021 – 19.05.2022 1.750,00 € / Az. 0262.0-5-0336
+- TOP II.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 1.750,00 € / Az. 0262.0-5-0337
+- TOP II.3.: (E) Stadtbezirksbudget OBACHT! Kultur-im-quartier.de Obacht! Kultur-im-quartier.de Kulturbiennale Haidhausen vom 01.-04.07.2021 4.400,00 € / Az. 0262.0-5-0340
+- TOP II.4.: Detailauskunft zu den TOPs 1-3
+- TOP II.5.: Maßnahmen gegen Graffiti Punkt a) des Antrags
+- TOP II.6.: Nutzung Toilettenhäuschen am Gasteig
+- TOP II.7.: Anfrage des Ali Wunsch e.V. zur nachträglichen Senkung der Eigenmittel Unterrichtung Direktorium zum Beschluss des BA vom 24.03.2021
+- TOP II.8.: Einstein Kulturzentrum. Müllentsorgung, neuer Standort der Tonnen Ergänzung aus dem UA Kultur, TOP 8
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ausschreibung: „Ran an die Koffer!“ Mit dem Kinder-Aktions-Koffer und dem Kita-Stadtteil-Koffer Stadtteile kinderfreundlicher gestalten
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schnelltests für den BA
+- TOP 3.2.: Rückmeldung der PI 21 zu Fragen aus der letzten BA5-Sitzung
+- TOP 3.3.: Einschränkung Wlan am Kolumbusplatz
+- TOP 3.4.: Datenschutzrechtliche Prüfung eines Bürgeranliegens Antwort Rechtsabteilung zum Schreiben BA 5 vom 28.04.2021
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Öffentliche Toilette in den Frühlingsanlagen: Gebüsch?!
+- TOP 4.2.: Zweckentfremdung des Spielplatzes Reichenbachbrücke und Umgebung als öffentliche Toilette Vertagung aus der Sitzung vom 21.04.2021
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche für die Gaststätte "BrewsLi-Der Biermacher", Taubenstr. 2
+- TOP 1.2.: Genenehmigung einer Freischankfläche für die Gaststätte "Bar Italia", Lothringer Str. 10
+- TOP 1.3.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Mezzodi", Steinstr. 57
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Co Thao", Wörthstr. 7
+- TOP 1.5.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Delhi" , Flurstr. 32
+- TOP 1.6.: Genehmigung einer Freischankfläche auf Parkplätzen während der Corona-Einschränkungen für die Gaststätte "Tagescafe White Rabbits room", Franziskanerstr. 19
+- TOP 2.: Anhörungen
+- TOP 2.1.: Setzen Sie in Ihrem Bezirk ein Zeichen im Münchner Europa-Mai 2021
+- TOP 2.2.: Kultursommer "Ois Giasing" im Kronepark vom 16.04.-10.10.2021
+- TOP 2.3.: Erweiterung des Visualisierungskonzepts für Großveranstaltungen wie Leitmessen, Großkongresse und touristische Highlights
+- TOP 2.4.: DJ Bike - Soundtrack für München am 22.09.2021, Terrasse an der Hochstr. 77
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Genehmigung von Sitzgelegenheiten und Hochbeeten am "Breisässer Platz"
+- TOP 3.2.: Ungenehmigte Werbeanlagen an der Hochstraße (4 Plakattafeln unter der Gebsattelbrücke)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Edeka Einsteinstraße Ecke Lucile-Grahn-Straße
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Evaluation der Münchner Stellplatzsatzung („Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge“) vom 19. Dezember 2007 - siehe auch UA Mobilität -
+- TOP 2.2.: Einsteinstr. 99: Errichtung einer Außentreppe an einem Kindergarten
+- TOP 2.3.: Einsteinstr. 179: Errichtung einer Notleiteranlage nach DIN 14094-1 im Hinterhof
+- TOP 2.4.: Johannisplatz 18: Neubau einer Dachgaube hier: Verlängerung Aufzugschacht, Tektur
+- TOP 2.5.: Regerstr. 12: Nutzungsänderung Ladeneinheiten im EG (Mitte und Nord) zu Büro und Arztpraxis mit jeweils geringfügiger Grundrissänderung, Tektur
+- TOP 2.6.: Edlingerstr. 26: Rückbau eines Dachstuhls sowie Neuerrichten von Dachgauben (4. OG) und Einbau zweier Doppelparker in die Garagenanlage, Tektur
+- TOP 2.7.: Wörthstr. 20: Dachgeschossaus- und umbau mit 2 Wohnungen sowie Anbau eines Balkons, Vorbescheid
+- TOP 2.8.: Pariser Str. 25: Nutzungsänderung von Atelierräumen (ehemals Schreinerei) sowie eines Spänelagers im EG und UG zu Büroräume, Umbau und Modernisierung der Wohnungen vom 1. OG - 3. OG (Dachgeschoss), Anbau einer Balkonanlage vom 1.OG - 3. OG (Dachgeschoss)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Durchgang von der Falkenstraße zur Entenbachstraße
+- TOP 3.2.: Verengung des Gehwegs an der Kirchenstraße / Max-Weber-Platz durch einen Bauzaun
+- TOP 3.3.: (U) Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2020 - 2024 Infrastrukturversorgungskonzept 2020 - 2024 Anpassungsbeschluss zur Sitzungsvorlagen Nr. 20 - 26 / V 01214 vom 16.12.2020 (VV)
+- TOP 3.4.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 2 Nr. 2 BauGB In den Stadtbezirken 5 ? (Au-Haidhausen) und 18 (Untergiesing-Halrlaching) a) Satzungsbeschluss Satzung ?Untere Au / Untergiesing? der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung ?Untere Au / Untergiesing?) b) Satzungsbeschluss Satzung ?Obere Au? der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung ?Untere Au / Untergiesing?) c) Die Bevölkerung der Unteren und Oberen Au vor der nächsten Gentrifizierungswelle schützen ? Mietpreisniveau stabilisieren ? städtebauliche Eigenart wahren BA-Antrags Nr. 20-26 / B 00434 des Stadtbezirkes 05 Au-Haidhaisen vom 22.07.2020 (Antrag gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB) Sitzungsvorlage Nr. 20-26 / V 02490
+- TOP 3.5.: Johannisplatz 8, Baugenehmigung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Leerstand in der Kellerstr. 3
+- TOP 4.2.: Fahrbahnsanierung Regerstraße / Regerplatz in Zusammenhang mit der Großbaustelle Paulanergelände
+- TOP 4.3.: Drohender Verkauf des Anwesens Johannisplatz 10
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Widmung einer Teilstrecke des Tassiloplatzes
+- TOP 1.2.: (E) Stadtbezirksbudget AKA e.V. Anschaffung eines E-Lastenfahrrades 2.861,85 € / Az. 0262.0-5-0338
+- TOP 1.3.: Ergänzende Angaben von AKA e.V. zum Antrag TOP 1.2
+- TOP 2.: Anhörungen
+- TOP 2.1.: Leistungsprogramm 2022 der MVG zum Fahrplanwechsel Dezember 2021 dazu: Stellungnahme Fahrgastverband PRO BAHN dazu: Stellungnahme Arbeitskreis Attraktiver Nahverkehr (AAN) im Münchner Forum
+- TOP 2.2.: Innere Wiener Straße: Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 2.3.: Evaluation der Münchner Stellplatzsatzung („Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge“) vom 19. Dezember 2007 - siehe auch UA Planung -
+- TOP 2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Balanstr. 9
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fahrradstellplätze am S-Bahn-Halt Rosenheimer Platz einrichten
+- TOP 3.2.: Radabstellanlagen für Lastenräder in der Weißenburger Str. 41
+- TOP 3.3.: Haidenauplatz rot markieren
+- TOP 3.4.: Gesamtstädtisches Konzept zum Thema „Gehwegparken“ Schreiben BA 20 Hadern mit der Bitte um Unterstützung
+- TOP 3.5.: Verkehrsrechtliche Anordnungen: a) Sieboldstraße zwischen Auerfeld- und Barnabasstraße wegen Verkehrsbaumaßnahmen zwischen 14.05.-11.06.2021 b) Edlingerplatz 1 und Seite Oefelestraße; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze c) Entenbachstr. 50; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze d) Auerfeldstraße; Aufstellung eines Gefahrenzeichens 133-10 StVO (Fußgänger)
+- TOP 3.6.: Umbau der Reger-/Hiendlmayrstraße Antwort Baureferat zum Schreiben BA 5 vom 06.04.2021
+- TOP 3.7.: Umwandlung Pkw-Parkplatz zur Fahrradabstellfläche vor Kinderarztpraxis in der Kolumbusstr. 11
+- TOP 3.8.: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2021 – Ergebnisse und weiteres Vorgehen => dazu: 3 Bürgeranliegen
+- TOP 3.9.: Verkehrssicherheit Ernst-Reuter-Grundschule
+- TOP 3.10.: 2. S-Bahn Stammstrecke, Aufhebung Planfeststellungsbeschluss zum PFA 3A
+- TOP 3.11.: Spiegel in der Auerfeldstraße gegenüber Hofeinfahrt
+- TOP 3.12.: Planungssstand Projekt: Regerbrücke (Anfrage)
+- TOP 3.13.: Kauf von Geschwindigkeitsmessgeräten durch den BA und Verkehrszählung an der Ecke Ohlmüllerstr./Falkenstr. Bitte um Stellungnahme des BA
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bushaltestelle Ostbahnhof Bildungszentrum, Linie 155 - Maßnahmen gegen Zuparken
+- TOP 4.2.: Antrag für einen durchgehenden, sicheren Radweg zwischen Rosenheimer Platz und Silberhornstrasse
+- TOP 4.3.: Überlegungen zum Antrag" Regerplatz erweitern" des BA 05
+- TOP 4.4.: Errichtung von Pollern an der Einsteinstraße Ecke Lucile-Grahn-Straße
+- TOP 4.5.: Zufahrt zur Tiefgarage Tassiloplatz / Balanstraße
+- TOP 4.6.: Fahrradabsperrmöglichkeit vor dem Supermarkt OHNE in der Rosenheimer Str. 85
+- TOP 4.7.: Fußgängerfreundliche Verkehrsregelung in der Weißenburger Straße
+- TOP 4.8.: Kontrolle von Tempo 30 in der Falkenstraße
+- TOP 4.9.: Autosituation im Viertel
+- TOP 4.10.: Radverkehr Pariser Straße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Balanstr. 12: Fällung von 1 Birke
+- TOP 2.2.: Bazeillesstr. 17: Fällung von 1 Spitzahorn
+- TOP 2.3.: Schwalbenstr. 1-3, Taubenstr. 6: Fällung von 1 Robinia Pseudoacacia
+- TOP 2.4.: Versetzung der Wertstoffcontainer Versailler Straße in die Bothestraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Grünstreifen vom Tassilopark bis Regerstraße entlang der Bahnlinie Punkt b) des Antrags
+- TOP 3.2.: Müll an der Reichenbachbrücke: Bitte um größere und rattensichere Mülleimer
+- TOP 3.3.: Blühfläche am Friedensengel: Spaziergänger/innen informieren
+- TOP 3.4.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 3.5.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 3.6.: Alternative Begrünungskonzepte
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verlegung der Altglascontainer Lucile-Grahn-Straße Ecke Haidhauser Straße
+- TOP 4.2.: Blühstreifen zwischen Welfenstrasse und Bahnlinie
+- TOP 4.3.: Hundefreier Bereich am Zita-Zehner-Platz
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 14.06.2021, 19.30 Uhr, Videokonferenz UA Mobilität, 14.06.2021, 19.30 Uhr, Videokonferenz UA Wirtschaft, 15.06.2021, 19.30 Uhr, Videokonferenz UA Klima und Umwelt, 16.06.2021, 19.00 Uhr, Videokonferenz UA Kultur, 16.06.2021, 19.30 Uhr, Videokonferenz UA Planung, 17.06.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 23.06.2021, 19.00 Uhr, Theatersaal im Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 08.06.2021, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
