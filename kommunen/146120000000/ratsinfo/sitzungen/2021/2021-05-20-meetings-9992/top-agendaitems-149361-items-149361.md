@@ -1,0 +1,6 @@
+# TOP -: Aktuelles zum Coronavirus SARS-CoV-2
+
+- Sitzung: 21. Sitzung des Stadtbezirksbeirates Plauen (2021-05-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/149361
