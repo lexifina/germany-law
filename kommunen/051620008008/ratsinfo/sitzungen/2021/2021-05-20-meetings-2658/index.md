@@ -1,0 +1,61 @@
+# Ausschuss für Planung und Mobilität
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-05-20T18:36:00+02:00
+- Ende: 2021-05-20T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/67
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2658
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2658
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bestellung Schriftführung - einstimmig
+- TOP 3: Verpflichtung von sachkundigen Bürgerinnen und Bürgern
+- TOP 4: Einführung in das Planungsrecht - Kenntnisnahme
+- TOP 5: Vortrag des Büros HJP zum Rahmenplan Gierather Weg in Orken - Kenntnisnahme
+- TOP 6: Rahmenplan Gierather Weg - einstimmig bei
+- TOP 7: 25. FNP Änd. Genehmigungsbeschluss - einstimmig
+- TOP 8: 31. Änd. FNP - Aufstellungsbeschluss + frühz. Bet. - mehrheitlich bei
+- TOP 9: 36. FNP Änd. Aufstellung - von der Tagesordnung abgesetzt
+- TOP 10: G 115 Teilaufhebung Aufstellung+frühz. B.Bet. - einstimmig
+- TOP 11: G 115 1. Änd. Aufhebung Aufstellung und frühz. B.Bet. - einstimmig
+- TOP 12: G 115 2. Änd. (Teil-)Aufhebung - einstimmig
+- TOP 13: G 225 Aufstellung § 13 - einstimmig
+- TOP 14: G 203 Satzungsbeschluss § 13 - mehrheitlich bei
+- TOP 15: 12. Änd. G 158 Einstellung - einstimmig
+- TOP 16: Aufhebung VS 12. Änd. G 158 - einstimmig
+- TOP 17: G 224 Aufstellung § 13 - einstimmig
+- TOP 18: Erlass VS G 224 - mehrheitlich bei
+- TOP 19: 226 Aufstellung § 13a und frühz. B.Bet. - einstimmig
+- TOP 20: K 2 2. Änd. Satzungsbeschluss § 13a - einstimmig
+- TOP 21: Aufhebung 3. vereinf. Änd. K 8 Aufstellung und Auslegung - von der Tagesordnung abgesetzt
+- TOP 22: K 38 Aufstellung 13a - mehrheitlich bei
+- TOP 23: N 48 Auslegung - einstimmig
+- TOP 24: Aufhebung W 32 Aufstellungsbeschluss - einstimmig
+- TOP 25: 1. Änd. W 32 Einstellung - mehrheitlich bei
+- TOP 26: W 52 Einstellung des Verfahrens - mehrheitlich bei
+- TOP 27: W 54 städtebaulicher Vertrag - mehrheitlich bei
+- TOP 28: W 54 Satzungsbeschluss - mehrheitlich bei
+- TOP 29: 29. FNP Änd. Einstellung - einstimmig bei
+- TOP 30: Besetzung AK Denkmalschutz - einstimmig
+- TOP 31: Bildung eines Arbeitskreises Mobilität - einstimmig
+- TOP 32: Beantwortung von schriftlichen Anträgen und Anfragen
+- TOP 32.1: Zukunft des Windtestfeldes auf der Frimmersdorfer Höhe (Anfrage Nr. 14/2021) - Kenntnisnahme
+- TOP 32.2: Aktive Stadtplanung statt vorhabenbezogener Bebauungspläne (Antrag Nr. 98/2020) - Kenntnisnahme
+- TOP 32.3: Bebauungsplan für die historischen Straßenzüge in Wevelinghoven (Antrag Nr. 97/2020) - einstimmig
+- TOP 32.4: Entwicklungsperspektiven in Gustorf und Gindorf (Antrag Nr. 47/2021) - Kenntnisnahme
+- TOP 33: Anträge der Fraktionen
+- TOP 33.1: Antrag SPD neues Quartier für Neurath - einstimmig
+- TOP 34: Mitteilungen der Verwaltung/Betriebsleitung
+- TOP 34.1: Eintragung Kloster Langwaden - Kenntnisnahme
+- TOP 34.2: Teilnahme am Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" (Antrag Nr. 31/2021) - Kenntnisnahme
+- TOP 34.3: offene Anträge - Kenntnisnahme
+- TOP 34.4: Zwischenstände zu offenen Anträgen
+- TOP 34.4.1: Zwischenstand Anträge Mevissen - Kenntnisnahme
+- TOP 34.4.2: Zwischenstand offener Anträge - Kenntnisnahme
+- TOP 34.4.3: Zwischenstand Anträge Baubetriebshof/Am Flutgraben - Kenntnisnahme
+- TOP 34.4.4: Zwischenstand Antrag Smart Mobility - Kenntnisnahme
