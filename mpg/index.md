@@ -2,27 +2,21 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Erster Abschnitt Zweck, Anwendungsbereich
-des Gesetzes, Begriffsbestimmungen
+## Erster Abschnitt Zweck, Anwendungsbereich des Gesetzes, Begriffsbestimmungen
 
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Anwendungsbereich des Gesetzes](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 
-## Zweiter Abschnitt Anforderungen an
-Medizinprodukte und deren Betrieb
+## Zweiter Abschnitt Anforderungen an Medizinprodukte und deren Betrieb
 
-- [§ 4 Verbote zum Schutz von Patienten, Anwendern und
-Dritten](0004.md)
+- [§ 4 Verbote zum Schutz von Patienten, Anwendern und Dritten](0004.md)
 - [§ 5 Verantwortlicher für das erstmalige Inverkehrbringen](0005.md)
 - [§ 6 Voraussetzungen für das Inverkehrbringen und die Inbetriebnahme](0006.md)
 - [§ 7 Grundlegende Anforderungen](0007.md)
 - [§ 8 Harmonisierte Normen, Gemeinsame Technische Spezifikationen](0008.md)
 - [§ 9 CE-Kennzeichnung](0009.md)
-- [§ 10 Voraussetzungen für das erstmalige Inverkehrbringen
-und die Inbetriebnahme von Systemen und
-Behandlungseinheiten sowie für das Sterilisieren
-von Medizinprodukten](0010.md)
+- [§ 10 Voraussetzungen für das erstmalige Inverkehrbringen und die Inbetriebnahme von Systemen und Behandlungseinheiten sowie für das Sterilisieren von Medizinprodukten](0010.md)
 - [§ 11 Sondervorschriften für das Inverkehrbringen und die Inbetriebnahme](0011.md)
 - [§ 12 Sonderanfertigungen, Medizinprodukte aus Eigenherstellung, Medizinprodukte zur klinischen Prüfung oder für Leistungsbewertungszwecke, Ausstellen](0012.md)
 - [§ 13 Klassifizierung von Medizinprodukten, Abgrenzung zu anderen Produkten](0013.md)
@@ -36,8 +30,7 @@ von Medizinprodukten](0010.md)
 - [§ 17 Geltungsdauer von Bescheinigungen der Benannten Stellen](0017.md)
 - [§ 18 Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen, Unterrichtungspflichten](0018.md)
 
-## Vierter Abschnitt Klinische Bewertung, Leistungsbewertung,
-klinische Prüfung, Leistungsbewertungsprüfung
+## Vierter Abschnitt Klinische Bewertung, Leistungsbewertung, klinische Prüfung, Leistungsbewertungsprüfung
 
 - [§ 19 Klinische Bewertung, Leistungsbewertung](0019.md)
 - [§ 20 Allgemeine Voraussetzungen zur klinischen Prüfung](0020.md)
@@ -51,8 +44,10 @@ klinische Prüfung, Leistungsbewertungsprüfung
 - [§ 23b Ausnahmen zur klinischen Prüfung](0023b.md)
 - [§ 24 Leistungsbewertungsprüfung](0024.md)
 
-## Fünfter Abschnitt Überwachung und Schutz
-vor Risiken
+## Fünfter Abschnitt Überwachung und Schutz vor Risiken
+
+
+## Fünfter Abschnitt (weggefallen)
 
 - [§ 25 Allgemeine Anzeigepflicht](0025.md)
 - [§ 26 Durchführung der Überwachung](0026.md)
@@ -74,8 +69,7 @@ sonstige Bestimmungen
 - [§ 37 Verordnungsermächtigungen](0037.md)
 - [§ 37a Allgemeine Verwaltungsvorschriften](0037a.md)
 
-## Siebter Abschnitt Sondervorschriften für den Bereich
-der Bundeswehr
+## Siebter Abschnitt Sondervorschriften für den Bereich der Bundeswehr
 
 - [§ 38 Anwendung und Vollzug des Gesetzes](0038.md)
 - [§ 39 Ausnahmen](0039.md)

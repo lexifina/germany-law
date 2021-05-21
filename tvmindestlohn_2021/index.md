@@ -1,4 +1,4 @@
-# Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
+# Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
 
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Löhne der Lohngruppen 1 und 2/Mindestlöhne](0002.md)
