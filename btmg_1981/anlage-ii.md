@@ -110,6 +110,7 @@
 | Glutethimid | - | 3-Ethyl-3-phenylpiperidin-2,6-dion |
 | - | Isocodein | 4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol |
 | Isomethadon | - | 6-Dimethylamino-5-methyl-4,4-diphenylhexan-3-on |
+| - | Isotonitazen (Iso) | N,N-Diethyl-2-{[4-(1-methylethoxy)phenyl]methyl}-5-nitro-1H-benzimidazol-1-ethanamin |
 | - | JWH-007 | (2-Methyl-1-pentyl-1H-indol-3-yl)(naphthalin-1-yl)methanon |
 | - | JWH-015 | (2-Methyl-1-propyl-1H-indol-3-yl)(naphthalin-1-yl)methanon |
 | - | JWH-018 (1-Pentyl-3-(1-naphthoyl)indol) | (Naphthalin-1-yl)(1-pentyl-1H-indol-3-yl)methanon |
@@ -130,6 +131,7 @@
 | Mazindol | - | 5-(4-Chlorphenyl)-2,5-dihydro-3H-imidazol[2,1-a]isoindol-5-ol |
 | - | MDMB-CHMCZCA (EGMB-CHMINACA) | Methyl{2-[9-(cyclohexylmethyl)- 9H-carbazol-3-carboxamido]-3,3- dimethylbutanoat} |
 | - | MDMB-CHMICA | Methyl{2-[1-(cyclohexylmethyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
+| - | MDMB-4en-PINACA | Methyl{2-[1-(pent-4-en-1-yl)-1H-indazol-3-carboxamido]-3,3-dimethylbutanoat} |
 | Mefenorex | - | 3-Chlor-N-(1-phenylpropan-2-yl)propan-1-amin |
 | Meprobamat | - | (2-Methyl-2-propylpropan-1,3-diyl)dicarbamat |
 | Mesocarb | - | (Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl]azanid |
@@ -142,6 +144,7 @@
 | - | p-Methoxyethylamfetamin (PMEA) | N-Ethyl-1-(4-methoxyphenyl)propan-2-amin |
 | - | 3-Methoxyphencyclidin(3-MeO-PCP) | 1-[1-(3-Methoxyphenyl)cyclohexyl] piperidin |
 | - | 4-Methylamfetamin | 1-(4-Methylphenyl)propan-2-amin |
+| - | 2-Methyl-AP-237 (2-Methyl-Bucinnazin) | 1-[2-Methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl]butan-1-on |
 | - | Methylbenzylpiperazin (MBZP) | 1-Benzyl-4-methylpiperazin |
 | - | 3,4-Methylendioxypyrovaleron (MDPV) | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-on |
 | - | 4-Methylethcathinon (4-MEC) | 2-(Ethylamino)-1-(4-methylphenyl)propan-1-on |

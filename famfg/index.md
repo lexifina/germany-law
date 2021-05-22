@@ -251,6 +251,7 @@
 - [§ 166 Abänderung und Überprüfung von Entscheidungen und gerichtlich gebilligten Vergleichen](0166.md)
 - [§ 167 Anwendbare Vorschriften bei Unterbringung Minderjähriger und bei freiheitsentziehenden Maßnahmen bei Minderjährigen](0167.md)
 - [§ 167a Besondere Vorschriften für Verfahren nach § 1686a des Bürgerlichen Gesetzbuchs](0167a.md)
+- [§ 167b Genehmigungsverfahren nach § 1631e des Bürgerlichen Gesetzbuchs; Verordnungsermächtigung](0167b.md)
 - [§ 168 Beschluss über Zahlungen des Mündels](0168.md)
 - [§ 168a Mitteilungspflichten des Standesamts](0168a.md)
 

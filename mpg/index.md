@@ -46,9 +46,6 @@
 
 ## Fünfter Abschnitt Überwachung und Schutz vor Risiken
 
-
-## Fünfter Abschnitt (weggefallen)
-
 - [§ 25 Allgemeine Anzeigepflicht](0025.md)
 - [§ 26 Durchführung der Überwachung](0026.md)
 - [§ 27 Verfahren bei unrechtmäßiger und unzulässiger Anbringung der CE-Kennzeichnung](0027.md)

@@ -123,6 +123,8 @@
 | Prazepam | - | 7-Chlor-1-cyclopropylmethyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 20 mg Prazepam enthalten - |
 | Remifentanil | - | Methyl{3-[4-methoxycarbonyl-4-(N-phenylpropanamido)piperidino]propanoat} |
+| Remimazolam | - | Methyl{3-[(4S)-8-brom-1-methyl-6-(pyridin-2-yl)-4H-imidazo[1,2-a][1,4]benzodiazepin-4-yl]propanoat} |
+| - ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III als Lyophilisat nur zur parenteralen Anwendung bis zu 20 mg Remimazolam, berechnet als Base, enthalten - |
 | Secobarbital | - | 5-Allyl-5-(pentan-2-yl)barbitursäure |
 | Sufentanil | - | N-{4-Methoxymethyl-1-[2-(2-thienyl)ethyl]-4-piperidyl}-N-phenylpropanamid |
 | Tapentadol | - | 3-[(2R,3R)-1-Dimethylamino-2-methylpentan-3-yl]phenol |
