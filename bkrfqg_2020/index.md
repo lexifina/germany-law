@@ -22,9 +22,23 @@
 - [§ 10 Widerruf der Anerkennung, Untersagung der Tätigkeit](0010.md)
 - [§ 11 Überwachung anerkannter Ausbildungsstätten](0011.md)
 
-## Abschnitt 4 (zukünftig in Kraft)
+## Abschnitt 4 Berufskraftfahrerqualifikationsregister
 
-- [(XXXX) §§ 12 bis 26 (zukünftig in Kraft)](xxxx-12-bis-26.md)
+- [§ 12 Berufskraftfahrerqualifikationsregister](0012.md)
+- [§ 13 Registerführende Behörde](0013.md)
+- [§ 14 Inhalt des Berufskraftfahrerqualifikationsregisters](0014.md)
+- [§ 15 Datenübermittlung an den Hersteller des Fahrerqualifizierungsnachweises](0015.md)
+- [§ 16 Datenerhebung, -speicherung und -verwendung durch den Hersteller des Fahrerqualifizierungsnachweises](0016.md)
+- [§ 17 Datenübermittlung an das Kraftfahrt-Bundesamt durch den Hersteller des Fahrerqualifizierungsnachweises](0017.md)
+- [§ 18 Datenübermittlung an das Kraftfahrt-Bundesamt durch die nach Landesrecht zuständigen Behörden](0018.md)
+- [§ 19 Datenübermittlung an das Kraftfahrt-Bundesamt durch die zuständigen Stellen und die Ausbildungsstätten](0019.md)
+- [§ 20 Überwachungsbefugnis des Kraftfahrt-Bundesamtes](0020.md)
+- [§ 21 Datenübermittlung an inländische Behörden und Stellen](0021.md)
+- [§ 22 Datenübermittlung an Behörden in den anderen Mitgliedstaaten der Europäischen Union und an Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0022.md)
+- [§ 23 Ausführungsregeln für das automatisierte Verfahren](0023.md)
+- [§ 24 Zulässigkeit der Datenübermittlung im automatisierten Verfahren](0024.md)
+- [§ 25 Auskunftspflicht gegenüber Fahrern](0025.md)
+- [§ 26 Löschung der Daten](0026.md)
 
 ## Abschnitt 5 Schlussbestimmungen
 

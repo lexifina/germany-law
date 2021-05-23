@@ -340,8 +340,13 @@ Gebühren der Behörden im Landesbereich
 |  |  | Die Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist. |  |
 | 329 |  | Entscheidung über eine Ausnahme von den Vorschriften des Kraftfahrsachverständigengesetzes | 25,60 bis 511,00 |
 |  | F | Berufskraftfahrerqualifikationsgesetz (BKrFQG) und Berufskraftfahrerqualifikationsverordnung (BKrFQV) |  |
-| 343 |  | Eintrag der Schlüsselzahl 95 im Führerschein nach Grundqualifikation oder Weiterbildung nach § 5 Absatz 2 BKrFQV | 28,60 |
-| 344 |  | Entscheidung über Erteilung einer Bescheinigung nach § 5 Absatz 4 Satz 4 BKrFQV einschließlich Ausfertigung oder Widerruf | 28,60 bis 256,00 |
+| 343 |  | Fahrerqualifizierungsnachweis |  |
+| 343.1 |  | Prüfung eines Antrags auf Ausstellung eines Fahrerqualifizierungsnachweises oder eines neuen Fahrerqualifizierungsnachweises bei Änderungen oder Beschädigung sowie Entscheidung über den Antrag (§§ 8 und 9 BKrFQV) | 15,80 |
+| 343.2 |  | Prüfung eines Antrags auf Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Verlust oder Diebstahl sowie Entscheidung über den Antrag (§ 9 Absatz 2 BKrFQV) | 20,20 |
+| 343.3 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand innerhalb Deutschlands | 11,70 |
+| 343.4 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten | 12,80 |
+| 343.5 |  | Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises | 17,10 |
+| 344 |  | Prüfung eines Antrags auf Anrechnung anderer abgeschlossener spezieller Aus- und Weiterbildungsmaßnahmen sowie Entscheidung über den Antrag (§ 2 Absatz 5, § 4 Absatz 4 BKrFQV) | 7,00 |
 | 345 |  | Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
 | 346 |  | Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG | 30,70 bis 511,00 |
 |  |  | Die Gebühr ist auch zu entrichten, wenn die Überwachung ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Inhabers der Ausbildungsstätte am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. |  |
