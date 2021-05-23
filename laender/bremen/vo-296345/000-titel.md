@@ -1,1 +1,1 @@
-# Verordnung über die Zuständigkeiten nach dem Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG-ZuV) vom 4. August 2009
+# Verordnung über die Zuständigkeiten nach dem Berufskraftfahrerqualifikationsgesetz vom 25. Mai 2021
