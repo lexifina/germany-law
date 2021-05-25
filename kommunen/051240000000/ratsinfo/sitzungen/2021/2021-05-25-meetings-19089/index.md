@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-05-25T19:10:00+02:00
+- Ende: 2021-05-25T20:17:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19089
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19089
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00271993.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00273000.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Anträge nach § 24 GO NRW
+- TOP 3.1: Bürgerantrag § 24 GO: Tunnelstraße - Öffnung für den Radverkehr - geändert beschlossen
+- TOP 3.1.1: Bürgerantrag § 24 GO: Tunnelstraße - Öffnung für den Radverkehr - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 3.2: Bürgerantrag nach § 24 GO: Einbahnstraßenfreigabe und Gehwegparken Viktorstraße - abgelehnt
+- TOP 3.3: Bürgerantrag §24 GO - Durchsetzung des Durchfahrverbots Böhler Weg für Nichtanlieger - ungeändert beschlossen
+- TOP 4: Anträge
+- TOP 4.1: WSW-Arbeiten mit neuem Radwege-Projekt verbinden / gemeinsamer Antrag der Fraktionen von CDU, Bündnis90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 4.2: Parkplatzsituation Wilkhausstraße / Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 4.3: Antrag zur Ergänzung der Beschilderung für den Radverkehr an der Einmündung Zur Schafbru¨cke / Bleicherstraße / Antrag der Fraktion BÜndnis90/Die GRünen - ungeändert beschlossen
+- TOP 4.4: Den Nordpark für alle Wuppertaler erreichbar machen. Eine bessere Aus-schilderung für den Nordpark in Barmen / Antrag der Fraktion Bündnis90/Die Grünen - vertagen
+- TOP 4.5: Änderung der Parkstreifenmarkierungen in der Buchenstraße zwischen Rosen- und Nelkenstraße / Antrag der Fraktion Bündnis90/Die Grünen - geändert beschlossen
+- TOP 4.6: Neubau Brücke Saarbrücker Straße / Antrag der Fraktion Bündnis90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 4.6.1: Antwort auf die Anfrage der BV Barmen vom 25.05.2021: Neubau Brücke Saarbrücker Straße
+- TOP 4.7: Verbindung der Tempo-30-Strecken auf der Straße Klingelholl / Antrag der Fraktion Bündnis90/Die Grünen - ungeändert beschlossen
+- TOP 4.8: Fahrplanänderungen der WSW mobil GmbH im August 2021 / gemeinsamer Antrag der Fraktion von CDU und Bündnis90/DIE GRÜNEN - vertagen
+- TOP 4.9: Linie 614 / Antrag der SPD-Fraktion - vertagen
+- TOP 4.10: Schulwegsicherung / Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage zum Parkverbot an der Ecke Hirschstraße-Iltisstraße / Anfrage der Fraktion Bündnis90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 5.2: Bebauung Eschenstraße 83 / Anfrage der SPD-Fraktion - Entgegennahme ohne Beschluss
+- TOP 6: Erschließung und Erreichbarkeit des Nordparks - vertagen
+- TOP 7: Straßenbauprogramm im Stadtbezirk Barmen - Operatives Bauprogramm - ungeändert beschlossen
+- TOP 8: Verwendung der freien Mittel - ungeändert beschlossen
+- TOP 9: Sanierung Kuhler Viadukt - Bauabschnitt 7 - ungeändert beschlossen
+- TOP 10: Stadtentwässerung - Maßnahmenkatalog 20022/Katalogentwurf 2023 - ungeändert beschlossen
+- TOP 11: Verlängerung der Vertragslaufzeit für die Durchführung der Weihnachtsmärkte in Elberfeld, Barmen und auf dem Laurentiusplatz bis zum Jahr 2024 - ungeändert beschlossen
+- TOP 12: Bundesförderprojekt Modernisierung der Bühnenpodien und Punktzüge im Opernhaus - ungeändert beschlossen
+- TOP 13: Straßen- und Wegekonzept für den Stadtbezirk Barmen - ungeändert beschlossen
+- TOP 14: Grundhafte Erneuerung der Loher Brücke - ungeändert beschlossen
+- TOP 15: Situation im Einwohnermeldeamt; Vorbereitung auf das zu erwartende zusätzliche Publikums-/Antragsaufkommen - Entgegennahme ohne Beschluss
+- TOP 16: Sozialdatenatlas für Kinder und Jugendliche - Entgegennahme ohne Beschluss
+- TOP 17: Berichte und Mitteilungen
+- TOP 17.1: Schreiben Rotter Bürgerverein: Linie 614
