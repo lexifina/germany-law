@@ -1,0 +1,74 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-05-25T17:00:00+02:00
+- Ende: 2021-05-25T19:00:00+02:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20420
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20420
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411432.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411432.pdf
+- Wortprotokoll: digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411432.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 11.05.2021 eingegangene Fragen - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 23.03.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Projekt Grafenberger Allee zwischen Ivo-Beucker-Straße und Altenbergstraße, barrierefreier Ausbau der Haltestelle Schlüterstraße / Arbeitsagentur und begleitende Maßnahmen -Ausführungs- und Finanzierungsbeschluss- - Empfehlung mehrheitlich beschlossen
+- TOP 4.4: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren - zur Kenntnis genommen
+- TOP 4.5: Öffentlichkeitsbeteiligung zum Hochhausrahmenplan - einstimmig beschlossen
+- TOP 4.6: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Baumschutz und Neupflanzungen - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: 100 Jahre Max Kratz, Aufstellung der Sonnenbadenden im Ostpark - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.4: Glasfaseranschluss der Grundschulen im Stadtbezirk 7 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.5: Nachbesserung der Internetanschlüsse in den Klassenräumen der Gutenberg-Grundschule, Grafenberger Allee - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.6: Benutzungspflicht Radweg Mauresköthen aufheben - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.7: Neues Spielhaus auf Spielplatz an der Düssel - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Zustand des Stadtwalds im Stadtbezirk 7 und alternative Mountain-Bike-Strecke - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Einrichtung von drei Parkplätzen mit zeitlicher Begrenzung - Antrag der Fraktionen CDU, Bündnis 90/Die Grünen und FDP - - einstimmig beschlossen
+- TOP 5.13: Trinkwasserbrunnen an der Gutenbergstraße - Antrag der Fraktionen CDU, Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.14: Baumpflanzungen im Rahmen des "Stadtbaumkonzeptes" - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.15: Haltestelle Heinrich-Könn-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.16: Verbesserung der Radverkehrsführung an der Kreuzung Zamenhofweg/Bertastraße/Siedlerweg - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.17: Aufwertung der Bolzkäfige Eisenacher Weg / Weimarer Weg - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.18: Sachstandsbericht zur Begrünung der Parkanlage "Alter Gerresheimer Friedhof" - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.19: Einrichtung einer Schnellbuslinie Flughafen – Ratingen – Knittkuhl – Hubbelrath – Erkrath – Gerresheim - Antrag der Fraktion CDU, Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.20: Fußgängerverkehre an der Höherhofstraße an Gleis 3 sicherer gestalten - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.21: Dauerleihgabe der Plastik „Sonnenanbeterin“ im Stadtbezirk 7 ausstellen - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.22: Gehwegparken Heyestraße 76 legalisieren - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.23: Bolzplatz / Sportmöglichkeiten für Jugendliche - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Erwerb des Kasernengeländes „Bergische Kaserne“ durch die Stadt Düsseldorf - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Raumlüfter in Grundschulen - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Durchfahrt Anliegerstraße Hallesche Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Verkehrssituation Höherhofstraße/Heckteichstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Parkplätze Quellenbusch - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Bauvorhaben "Klotzbahn 4, 4a, 4b, 6, 8" - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.2: Wegeausbesserung Spazierweg Friedrich-Wilhelm-Straße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.3: Abholzung Fußweg Am Dernkamp entlang Teich und Sumpfgebiet Pillebach - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.4: Platz für Jugendliche in Gerresheim schaffen - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.5: Verlängerung des Linksabbiegefahrstreifens Simrockstraße-Vautierstaße (B7) - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.6: Shared Space auf der Hülsmeyerstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
