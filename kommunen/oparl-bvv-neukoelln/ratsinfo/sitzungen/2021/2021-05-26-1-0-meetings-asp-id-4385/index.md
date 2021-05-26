@@ -1,0 +1,91 @@
+# Fortsetzung der 59. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-05-26T17:00:00+02:00
+- Ende: 2021-05-26T22:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4385
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4385
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 1.1: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden - in der BVV abgelehnt
+- TOP 1.2: ESTREL-Tower klimagerecht beheizen - ohne Änderungen in der BVV beschlossen
+- TOP 1.3: Wie geht es weiter nach der Coronakrise? - beantwortet
+- TOP 1.4: Ausreichende Leerung von Papierkörben in Grünanlagen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Gelder für Gewässerunterhaltung zweckbestimmt einsetzen und Artenschutz verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.6: Arbeit der Schulen in der Pandemie nicht zusätzlich erschweren - ohne Änderungen in der BVV beschlossen
+- TOP 1.7: Plätze in Willkommensklassen für später dazukommende Kinder belassen - in der BVV abgelehnt
+- TOP 1.8: kostenloses Mittagessensangebot für Schüler aller Schulen - in der BVV abgelehnt
+- TOP 1.9: Heldenprämie für ALLE Held*innen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Verantwortungslose Corona-Politiksofort beenden - in der BVV abgelehnt
+- TOP 1.11: Saubere Schulen – Rekommunalisierung der Schulreinigung mit Stufenplan unterlegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Alt-Buckow 37: Illegal erworbenes Clanvermögen für soziale Infrastruktur! - in der BVV abgelehnt
+- TOP 1.13: Homeoffice-Strategie - in der BVV abgelehnt
+- TOP 1.14: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen - in der BVV abgelehnt
+- TOP 1.17: Bürger vor gesundheitsgefährdenden Zuständen in Lebensmittelbetrieben schützen II - in der BVV abgelehnt
+- TOP 1.18: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Neukölln fußgänger*innenfreundlich gestalten - vertagt
+- TOP 1.20: Mieter*innen im Mahlower Block schützen und beraten - vertagt
+- TOP 1.21: Eingreifen in der High-Deck-Siedlung - vertagt
+- TOP 1.22: Verkehrswende in Neukölln - vertagt
+- TOP 1.23: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 1.24: Partizipation Schwarzer Menschen im Bezirk - vertagt
+- TOP 1.25: Rekommunalisierung der Schulreinigung im Doppelhaushalt 2022/23 umsetzen - vertagt
+- TOP 1.26: Hitzeaktionsplan für Neukölln - vertagt
+- TOP 1.27: Öffentliches Erinnern an die Akteure und Schauplätze der Novemberrevolution in Neukölln - vertagt
+- TOP 1.28: Sicherer Schulweg für die Karlsgartenschule - vertagt
+- TOP 1.29: Grünflächen und Wasserversickerung in der Warthestraße - vertagt
+- TOP 1.30: Neugestaltung des Mittelstreifens der Warthestraße - vertagt
+- TOP 1.31: Mehr Flächengerechtigkeit: „Kiezblocks“ für Neukölln planen und umsetzen - vertagt
+- TOP 1.32: Parkplätze für Gehbehinderte am Gesundheitszentrum Gropiusstadt - vertagt
+- TOP 1.33: Sitzbank am Britzer Damm/Ecke Blaschkoallee - vertagt
+- TOP 1.34: 1.700 Jahre jüdisches Leben in Deutschland - vertagt
+- TOP 1.35: IGSV – Initiative Selbstbestimmung und Akzeptanz geschlechtlicher und sexueller Vielfalt - vertagt
+- TOP 1.36: Neupflanzungen - vertagt
+- TOP 1.37: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - vertagt
+- TOP 1.38: Sinn und Unsinn der Impfungen gegen COVID-19 - schriftlich beantwortet
+- TOP 2: Beschlussempfehlungen - (offen)
+- TOP 2.1: Bürger umfassend über das Infektionsgeschehen informieren - vertagt
+- TOP 2.2: Kostenfreie FFP2-Masken - vertagt
+- TOP 2.3: Durchführung einer Veranstaltung zur Zukunft des Philip-Morris-Geländes - vertagt
+- TOP 2.4: Möglichkeit der Zwischennutzung für leerstehende Immobilien und Flächen prüfen - vertagt
+- TOP 2.5: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - vertagt
+- TOP 2.6: Bestandsaufnahme im ehemaligen Schulgarten der Carl-Legien-Schule - vertagt
+- TOP 2.7: Geschichtliche Aufarbeitung Lucy-Lameck-Straße - vertagt
+- TOP 2.8: Erinnerungstafel an Zwangsarbeiterlager in der Hufeisensiedlung - vertagt
+- TOP 2.9: SGB II-EmpfängerInnen vor Mietendeckel-Urteil schützen - vertagt
+- TOP 2.10: Bürgeramt und ein Ende der Wartezeit - vertagt
+- TOP 2.11: Bürgerbeteiligung bei temporären Spielstraßen - vertagt
+- TOP 2.12: Bürgerbeteiligung stärken - vertagt
+- TOP 2.13: Halteverbot im Gockelweg auf die andere Straßenseite verlegen - vertagt
+- TOP 2.14: Verkehrswende in Neukölln umsetzen - vertagt
+- TOP 2.15: Digitales Routing von Kraftfahrzeugen durch Fahrradstraßen unterbinden - vertagt
+- TOP 2.16: Kein Querparken auf der Grünfläche im Truseweg - vertagt
+- TOP 2.17: Frequentierung von Pop-Up-Radwegen erfassen - vertagt
+- TOP 2.18: Weitere Maßnahmen angesichts des tödlichen Radverkehrsunfalls an der Oderstraße - vertagt
+- TOP 3: Große Anfragen - im Ausschuss abgelehnt
+- TOP 3.1: Gibt es nun doch Corona-Schwerpunkte in Neukölln? - vertagt
+- TOP 3.2: Steigerung der Einbürgerungszahlen auch in Neukölln ein Ziel? - vertagt
+- TOP 4: Große Anfragen - schriftlich - (offen)
+- TOP 5: Anträge - (offen)
+- TOP 5.1: Neuköllner Haushalt - überwiesen
+- TOP 5.2: Erhalt von StadtGrün für Natur- und Umweltbildung im Carl-Legien-Schulgarten - überwiesen
+- TOP 5.3: Ladeinfrastruktur für E-Fahrzeuge zügig ausbauen! - überwiesen
+- TOP 5.4: Alle im Rathaus Neukölln Tätigen auch im Rathaus Neukölln auf Corona testen! - überwiesen
+- TOP 5.5: Haltestelle umbenennen - überwiesen
+- TOP 5.6: Neukölln macht Schule– keine weitere Erhöhung der Klassenfrequenzen - überwiesen
+- TOP 5.7: Kein Fahrradschnellweg durch die Hasenheide - überwiesen
+- TOP 5.8: Müll „To go“ im Schillerkiez - überwiesen
+- TOP 5.9: Lärmbelästigung im Anita-Berber-Park - überwiesen
+- TOP 5.10: Zertifizierung FaireKITA - überwiesen
+- TOP 5.11: „ALBA macht Schule“ sichern! - überwiesen
+- TOP 5.12: Unfallgefahr in der Oderstraße verringern - überwiesen
+- TOP 5.13: Kreuzung Wildenbruchstraße/Hüttenroder Weg für Fußgänger*innen sicherer machen - überwiesen
+- TOP 5.14: Ein Parkraumkonzept für Neukölln - überwiesen
