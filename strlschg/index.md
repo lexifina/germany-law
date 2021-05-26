@@ -41,7 +41,7 @@
 - [§ 20 Prüfung des angezeigten Betriebs einer Röntgeneinrichtung](0020.md)
 - [§ 21 Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs](0021.md)
 - [§ 22 Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern](0022.md)
-- [§ 23 Verhältnis zum Medizinproduktegesetz](0023.md)
+- [§ 23 Verhältnis zur Verordnung (EU) 2017/745](0023.md)
 - [§ 24 Verordnungsermächtigungen](0024.md)
 
 #### Abschnitt 3 Beschäftigung in fremden Anlagen oder Einrichtungen oder im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler
