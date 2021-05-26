@@ -1,0 +1,8 @@
+# TOP 5: Flächennutzungsplanänderung Nr.188 (Entwurf) - Theodorstraße: Verlagerung Bau- und Gartenfachmarkt
+
+- Sitzung: Bezirksvertretung 6 - ISS DOME, DEG-Platz 1, Theodorstraße 281, 40474 Düsseldorf (2021-05-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/298905
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/110910
