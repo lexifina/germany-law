@@ -1,0 +1,7 @@
+# TOP 8: Aussegnungshalle - erneute Beratung und Beschlussfassung wegen neuer Schäden
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Eitelborn (2021-05-26)
+- Körperschaft: Ortsgemeinde Eitelborn
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2021-04OGR-35%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 8 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-04OGR-35%7Czt_0%7C1
