@@ -1,0 +1,8 @@
+# TOP 1.1: Bestehende Sportflächen im Werner-Seelenbinder-Sportpark erhalten - Standort für Schulsporthalle finden
+
+- Sitzung: Fortsetzung der 59. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2021-05-26)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=39774
+- Ergebnis: in der BVV abgelehnt
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=39774
