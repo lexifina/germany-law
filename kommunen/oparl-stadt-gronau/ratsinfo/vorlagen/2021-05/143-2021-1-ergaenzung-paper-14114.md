@@ -1,0 +1,21 @@
+# Vorstellung Bewerbung neue Gastronomie Drilandsee
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 143/2021 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-05-26
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZUHs3b7JWbGlpurcdaUfoJE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/14114
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Vorstellung Bewerbung neue Gastronomie Drilandsee) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXMlF4a8AlesL-XzPDzjNO4BLOL1_I8UvODJPXs5mtF8/Beschlussvorlage_143-2021_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (PowerPoint-Präsentation) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYp6ox3ZBmEmJczyOaaRMPETLqTV8x52QGc6cv89cPJ/PowerPoint-Praesentation.pdf
+- Anlage: Beschlussvorlage (Ansicht) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcaJ7VLZtL4FG4lbGmmabnvRYgfNGbspyjJ8WhfT53Mg/Ansicht.pdf
+- Anlage: Beschlussvorlage (Beschlussauszug PBD) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRK6Vn7HZjuJbw1hnULB2my84f9yWDrsvgclIbEyeBP4/Beschlussauszug_PBD.pdf
+- Anlage: Beschlussvorlage (Beschlussauszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWJC5Qi1WzCDUsWAITzttcgvaBBmi6hX2peDE9BLlBvu/Beschlussauszug_MUK.pdf
+- Anlage: Beschlussvorlage (Auszug HFA 19.05.21 TOP 4) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdjMO71hlmWFVDnUFUS94pbvo3HQKCBRRWSgG38g7rBb/Auszug_HFA_19.05.21_TOP_4.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4643 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4742 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4743 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4646 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4647 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-65
