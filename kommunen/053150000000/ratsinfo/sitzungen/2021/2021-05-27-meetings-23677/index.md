@@ -1,0 +1,86 @@
+# 4. Sitzung des Ausschusses Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-05-27T15:30:00+02:00
+- Ende: 2021-05-27T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23677
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23677
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Bürger*innen und Einwohner*innen
+- TOP -: Mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Beantwortung: Corona-Pandemie: Auswirkung auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 1.2: Sachstand zum 3. Frauenhaus (Beantwortung zu AN/0469/2021) - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Anfrage bezüglich der kommunalen Zuweisung von LSBT*I*Q Geflüchteten aus der ZUE nach Köln in die LSBT*I*Q Geflüchteten Unterkunft - Sache ist erledigt
+- TOP -: Beantwortung: Nachfragen zur Vorlage 1257/2021 - Fragen zur Unterbringung LSBT*I*Q Geflüchtete - Kenntnis genommen
+- TOP 2.1.2: Ergebnisse einer Befragung zu den Auswirkungen der Corona-Pandemie auf LSBTIQ-Jugendliche - Kenntnis genommen
+- TOP 2.1.3: Beantwortung einer Anfrage aus der Stadt AG LST: Dienstleistungen für Senior*innen - Berücksichtigung spezifischer Bedarfe? - Kenntnis genommen
+- TOP 2.1.4: Beschluss der StadtAG Seniorenpolitik zur Resolution der BezirksAG Seniorenpolitik Kalk zur Verbesserung der Palliativ- und Hospizversorgung im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 2.3: Praxishandbuch "Vielfalt Pflegen" - eine Publikation des Kompetenzzentrum Selbstbestimmt Leben (KSL) NRW - Kenntnis genommen
+- TOP 2.4: Digitale Konferenz Interkulturelles Köln - Dokumentation der Veranstaltung vom 22.1.2021 - Kenntnis genommen
+- TOP 2.5: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 2.6: Testphase im Programm der Seniorenberatung - Kenntnis genommen
+- TOP 2.7: Interkulturelle Zentren - Mitteilung über die Verwendung des übergreifenden Budgets im Jahr 2020 und Sachstand Qualitätsentwicklung - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten (Ersetzungsantrag zu AN/1090/2019) - zurückgestellt
+- TOP 3.2: Wohnungslosigkeit zielgruppenorientiert und bedarfsgerecht entgegenwirken - endgültig abgelehnt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - geändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Wilhelm-Schreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bauvorhabens und Rückbau - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1.: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grund-stück WilhelmSchreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bau-vorhabens und Rückbau - ungeändert beschlossen
+- TOP 5.2: Bedarfsfeststellungsbeschluss für die Ausstattung der Unterkünfte für Geflüchtete mit WLAN - ungeändert beschlossen
+- TOP 5.3: Mehrgenerationen Haus Lindweiler 2021 - ungeändert beschlossen
+- TOP 5.4: Anpassung der Kölner Wohnraumschutzsatzung an das Wohnraumstärkungsgesetz NRW - ungeändert beschlossen
+- TOP 5.5: Beschäftigung Langzeitarbeitsloser über § 16i SGB II – Erweiterung der Maßnahme - ohne Votum in nachfolgende Gremien
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Errichtung von Probe- und Atelierräumen - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu TOP 6.1 Errichtung von Probe- und Atelierräumen - ohne Votum in nachfolgende Gremien
+- TOP 7: Wohnen
+- TOP 7.1: Aktuelle Entwicklung im Objekt Gummersbacher Str. 25 - Kenntnis genommen
+- TOP 7.2: Kölner Statistische Nachrichten 8/2021 - Kenntnis genommen
+- TOP 7.3: Geplante Impfungen von untergebrachten Wohnungslosen und Geflüchteten vom Amt für Wohnungswesen - Kenntnis genommen
+- TOP 7.4: Beantwortung der Anfrage zur Auflösung von Sammelunterkünften - Kenntnis genommen
+- TOP 7.5: Beantwortung zum Wortbeitrag zu TOP 5.1 aus der Sitzung vom 26.04.2021 - Kenntnis genommen
+- TOP 7.6: Fortsetzung des abgestimmten Belegungsmanagements für die geförderten Wohnungen Kölns - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 31. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.2: 1. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.3: 32. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Ausbildung von Menschen mit Schwerbehinderung bei der Stadt Köln - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0666/2021:: Ausbildung von Menschen mit Schwerbehinderung bei der Stadt Köln - Kenntnis genommen
+- TOP 10.1.2: Sachstand zur Umsetzung des Beschlusses zur Einrichtung eines Runden Tisches Pflege - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Fraktion Die Linke: Beteiligung der Wohlfahrtsverbände an der Erstellung des Lebenslagenberichts - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktion DIE LINKE AN/1007/2021 zum Lebenslagenbericht - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung: Nachfrage aus der letzten Sitzung des Ausschusses für Soziales und Senioren vom 15.04.2021 zu TOP 5.2 Neubau öffentlich geförderter Wohnraum Porz, Deutzer Weg - Kenntnis genommen
+- TOP 11.2: Beantwortung: Nachfrage aus der Sitzung des Ausschusses für Soziales und Senioren vom 14.01.2021 zu TOP 7.5 Bericht "Wohnen in Köln" Fakten, Zahlen und Ergebnisse 2019, Ausblick 2020 (2821/2020) - Kenntnis genommen
+- TOP 11.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen zu TOP 14.16 „Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW)" vom 15. April 2021 - Kenntnis genommen
+- TOP 11.4: Beantwortung einer mündlichen Nachfrage der Fraktion Bündnis 90/Die Grünen zum 31. Bericht zur Situation Geflüchteter bzgl. psychischer Erkrankungen - Kenntnis genommen
+- TOP 11.5: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen: Häusliche Gewalt in der Corona-Krise - Kenntnis genommen
+- TOP 11.6: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Paul Intveen in der Sitzung des Ausschuss für Soziales, Seniorinnen und Senioren am 15.04.2021 TOP 5.6 Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“ - Kenntnis genommen
+- TOP 11.7: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen zum Sachstand Erwerbslosenberatungsstellen und Arbeitslosenzentren
+- TOP 12: Mitteilungen
+- TOP 12.1: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.2: Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln 2021 - zurückgestellt
+- TOP 12.3: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 12.4: Kooperatives Baulandmodell Köln, 3. Sachstandsbericht Kooperatives Baulandmodell mit Stand 31.12.2020 - Kenntnis genommen
+- TOP 12.5: Kölner Statistische Nachrichte Kurzinformation Bevölkerungszahlen - Kenntnis genommen
+- TOP 12.6: Befragung zur Umsetzung des BTHG in Köln unter dem Motto: „Erste Bilanz – 1 Jahr 3. Reformstufe BTHG“ - Kenntnis genommen
+- TOP 12.7: Arbeitsmarkt Köln - Corona-Krise: Rückblick 2020, bisherige Entwicklung und Ausblick 2021 - zurückgestellt
+- TOP 12.8: Kölner Statistische Nachrichten 4/2021 - zurückgestellt
+- TOP 12.9: Masterplan Dezernat V - zurückgestellt
