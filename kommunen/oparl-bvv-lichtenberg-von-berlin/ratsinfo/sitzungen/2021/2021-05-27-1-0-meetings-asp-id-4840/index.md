@@ -1,0 +1,109 @@
+# 52. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-05-27T17:00:00+02:00
+- Ende: 2021-05-27T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4840
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4840
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=315902
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Frauenpreis 2021 - beantwortet
+- TOP 8.2: Auch 2021 keine Brunnensaison in Neu-Hohenschönhausen? - beantwortet
+- TOP 8.3: Telekommunikationsgesetz - beantwortet
+- TOP 8.4: Ergebnisse der Kinderarmutskonferenz - beantwortet
+- TOP 8.5: Sportplatz Karlshorst - beantwortet
+- TOP 8.6: „Integrationsprojekte“ - beantwortet
+- TOP 8.7: Geschäftszimmer der Seniorenvertretung im Rathaus Lichtenberg - schriftlich beantwortet
+- TOP 8.8: Integrationsfond - schriftlich beantwortet
+- TOP 8.9: Kultschule - schriftlich beantwortet
+- TOP 8.10: Kunstprojekt - schriftlich beantwortet
+- TOP 8.11: Platzmanagement am Bahnhof Lichtenberg - schriftlich beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Öffentliche Informationsveranstaltung zum steigenden Verkehrsaufkommen im Dorf Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Modellprojekt für die Aufstockung von WBS-70 Bauten auf Anwendbarkeit für Schulgebäude in Typenbauweise - überwiesen
+- TOP 9.5: Fahrradinfrastruktur in Karlshorst-West - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Ausweisung von Flächen für obdachlose Menschen - überwiesen
+- TOP 9.7: Präzisierung der Investitionsplanung für die Jahre 2021 - 2025 - überwiesen
+- TOP 9.8: An der Seite der rechtschaffenen Unternehmer stehen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Verordnung über die Verlängerung der Veränderungssperre 11-99/29 für die Grundstücke Frankfurter Allee 273, 275, 277 im Bezirk Lichtenberg, Ortsteil Rummelsburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Entlastung der Martin-Niemöller- und der Matibi-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Naturschutzgebiet Biesenhorster Sand für Besucher offenhalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Fortsetzung des Programms LernBrücken - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Lösung für die ungefilterte Oberflächenwassereinleitung in den Rummelsburger See - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Leerstehende Wohnhäuser in der Andernacher Straße/Ecke Königswinterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Öffnung der Seniorenbegegnungsstätten - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Handlungsempfehlungen berichten oder aussitzen? - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Fahrradstraße in Karlshorst - überwiesen
+- TOP 9.18: Instandsetzung, Erneuerung und Einfriedung des Spielplatzes Ehrenfelsstraße/Ingelheimer Straße in Karlshorst - überwiesen
+- TOP 9.19: Übersicht vorhandener Bewegungsangebote im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Indoor Beachvolleyball in Lichtenberg unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Verkehrsberuhigung in der Rummelsburger Bucht - überwiesen
+- TOP 9.22: Freiwillige Feuerwehr und Jugendfeuerwehr in Karlshorst unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Feuerwache für Friedrichsfelde ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Neue Parkordnung im Prinzenviertel für das Durchkommen von Rettungsfahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Eine Quartiersgarage für den Weitlingkiez - überwiesen
+- TOP 9.26: Eine Fahrradstraße im Weitlingkiez - überwiesen
+- TOP 9.27: Tempo 30 auf der Hauptstraße - überwiesen
+- TOP 9.28: Kommunalpolitische Bildung interessierter Einwohner:innen fördern - überwiesen
+- TOP 9.29: Flächen für Wagenplätze - berlinweit - überwiesen
+- TOP 9.30: Das Ehrenamt im Sport politisch und finanziell stärken - überwiesen
+- TOP 9.31: Ein Hundeauslaufplatz für Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.32: Quartierspark Neubrandenburger Straße mit barrierefreien Toilette ausstatten - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.33: Dezentralisierte Wohnungen für Geflüchtete mit Bleibeperspektive - überwiesen
+- TOP 9.34: Schulweg von der Fahrbahn trennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.35: Zwieseler Straße instand setzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.36: Intakte Verkehrswege – Straßen grundlegend sanieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.37: Radwegeentwicklungsplan für Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.38: Barrierefreiheit am Löschteich ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Schwimmen in Kitas finanzieren - überwiesen
+- TOP 9.40: Buddhistische Grabstätte in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10: Wahlen - (offen)
+- TOP 11: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 11.1: Technische Ausrüstung der Mitarbeiter des Bezirksamts im Homeoffice verbessern - in der BVV abgelehnt
+- TOP 11.2: Aufstellung von Mülleimern - in der BVV abgelehnt
+- TOP 11.3: Ausstellung für Toleranz, Zivilcourage und Mitmenschlichkeit - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Nutzung der Brache an der Georg-Löwenstein-Straße - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Bezirklicher Wahl-O-Mat - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Entwicklungsplan für Seniorenbetreuung - überwiesen
+- TOP 11.7: Verkehrslenkung im Planungsbereich des KuBiZ - in der BVV abgelehnt
+- TOP 11.8: Grillen im Fennpfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Runden Tisch "Entwicklung rund um die Trabrennbahn Karlshorst" einberufen - überwiesen
+- TOP 12.2: Abschließende Stellungnahme zum "Runder Tisch Rheinpfalzallee" entfernen - in der BVV abgelehnt
+- TOP 12.3: Ghettoisierung verhindern - Eigentumswohnungen bauen - in der BVV abgelehnt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Änderung der Geschäftsordnung der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Chance für mehr Ärzte in Lichtenberg tatkräftig nutzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Resolution - Kein Platz für Antisemitismus in Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Städtebaulicher Rahmenplan für Alt-Hohenschönhausen - in der BVV abgelehnt
+- TOP 14.3: Das Tierwohl sichern - Die Personalsituation der Veterinär- und Lebensmittelaufsicht verbessern - überwiesen
+- TOP 14.4: Den Park am Gehrensee aufwerten - überwiesen
+- TOP 14.5: Entfernung gezeichneter Radweg, Wiederherstellung der dritten Fahrspur - in der BVV abgelehnt
+- TOP 14.6: Klimavorbehalt an der Barther Straße prüfen - Bauvorhaben versagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Sportfläche Hauptstraße 8 - überwiesen
+- TOP 14.8: Schulbau und Sportflächen an der Hauptstraße 8 und 9 ermöglichen - überwiesen
+- TOP 14.9: Baumfällgenehmigung zurücknehmen - in der BVV zurückgezogen
+- TOP 14.10: Ein Rodelberg für Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Schulneubau am Standort Weißenseer Weg 76 priorisieren und Planung beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Kostenlose Schwimmkurse für Nichtschwimmer:innen bis zum Ende der Grundschulzeit - ohne Änderungen im Ausschuss beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Grüne Höfe im Nibelungenviertel planungsrechtlich sichern - überwiesen
+- TOP 15.2: Neue Kleingärten in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16: Schließung der Sitzung - erledigt
