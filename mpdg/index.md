@@ -27,6 +27,9 @@
 ## Kapitel 3 Benannte Stellen, Prüflaboratorien, Konformitätsbewertungsstellen für Drittstaaten
 
 - [§ 17 Sprachenregelung für Konformitätsbewertungsstellen](0017.md)
+- [§ 17a Wahrnehmung der mit der Notifizierung und Benennung verbundenen Aufgaben](0017a.md)
+- [§ 17b Anerkennung von Benannten Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern](0017b.md)
+- [§ 17c Überwachung anerkannter Benannter Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern](0017c.md)
 - [§ 18 Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung](0018.md)
 - [§ 19 Überwachung anerkannter Prüflaboratorien](0019.md)
 - [§ 20 Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung](0020.md)

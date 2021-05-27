@@ -30,6 +30,9 @@ Benannte Stellen,
 Prüflaboratorien, Konformitäts-
 bewertungsstellen für Drittstaaten
 | § 17 | Sprachenregelung für Konformitätsbewertungsstellen |
+| § 17a | Wahrnehmung der mit der Notifizierung und Benennung verbundenen Aufgaben |
+| § 17b | Anerkennung von Benannten Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern |
+| § 17c | Überwachung anerkannter Benannter Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern |
 | § 18 | Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung |
 | § 19 | Überwachung anerkannter Prüflaboratorien |
 | § 20 | Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung |
