@@ -1,0 +1,58 @@
+# 55. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-05-27T18:00:00+02:00
+- Ende: 2021-05-27T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6175
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6175
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Debatten - (offen)
+- TOP 4.1: Debatte zur Verkehrssituation am S-Bahnhof Hirschgarten aufgrund einer Bürgeranfrage von Herrn - erledigt
+- TOP 4.2: Debatte zur Verknüfung der Straßenbahn der BVG mit der S-Bahn am S-Bahnhof Friedrichshagen - erledigt
+- TOP 5: Überweisungen aus der BVV - (offen)
+- TOP 5.1: Beratung Vorlage zur Kenntnisnahme - (offen)
+- TOP 5.1.1: Leitlinien der Beteiligung von Bürgerinnen und Bürgern für Treptow-Köpenick - erledigt
+- TOP 5.2: Empfehlungen zu Schlussberichten - (offen)
+- TOP 5.2.1: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 5.2.2: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 5.3: Empfehlungen - (offen)
+- TOP 5.3.1: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs - vertagt
+- TOP 5.3.2: Heidelberger Straße vom Durchgangsverkehr befreien - vertagt
+- TOP 5.3.3: Ausbau des Fahrradwegs in Neu-Venedig - vertagt
+- TOP 5.3.4: Kurzzeitparkplatz Altglienicke - vertagt
+- TOP 5.3.5: Bouchéstraße fußgänger- und fahrradfreundlich gestalten - vertagt
+- TOP 5.3.6: Kiezblock Alt-Treptow - vertagt
+- TOP 5.3.7: Endlich geltendes Recht umsetzen – Baustellenumleitungen /-hinweise für Radfahrende im Bezirk schaffen - vertagt
+- TOP 5.3.8: Kreuzungen in Alt-Treptow sicherer machen - vertagt
+- TOP 5.3.9: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - vertagt
+- TOP 5.3.10: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - vertagt
+- TOP 5.3.11: Tempo 30 in der Dörpfeldstraße ermöglichen - vertagt
+- TOP 5.3.12: Vorrang für den ÖPNV in Bohnsdorf - vertagt
+- TOP 5.3.13: Freiflächen für Clubs temporär zur Verfügung stellen – mit Sicherheit und legal feiern - vertagt
+- TOP 5.3.14: Ohne Saft geht nix – mehr Ladesäulen für Treptow-Köpenick - vertagt
+- TOP 5.3.15: Warte-Trittbretter für Radfahrende - vertagt
+- TOP 5.3.16: Errichtung eines Fuß- und Radweges entlang des Königsheideweges - vertagt
+- TOP 5.3.17: Temporäre Parkplätze während Baumaßnahmen - vertagt
+- TOP 5.3.18: Radweg auf der Brücke der A113 über den Britzer Verbindungskanal anlegen - vertagt
+- TOP 5.3.19: Kein Parken vor Straßenbäumen in der Coloniaallee - vertagt
+- TOP 5.3.20: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten - vertagt
+- TOP 5.3.21: Verlängerung der Grünphase für Fußgänger /-innen und Radfahrende an der Ampelanlage Oberspreestraße / Spindlersfelder Straße (Brücke) - vertagt
+- TOP 5.3.22: Erneuerung von Straßenbeleuchtung – Wilhelmshagen - vertagt
+- TOP 5.3.23: Konzept für Fahrradhochstraßen - vertagt
+- TOP 5.3.24: Kreuzung Karl-Kunger-Straße / Lohmühlenstraße fußgängerfreundlich umbauen - vertagt
+- TOP 5.3.25: Tempo 30 für die Neue Krugallee - vertagt
+- TOP 5.3.26: Geschwindigkeitsbegrenzung vor Ampel anpassen - vertagt
+- TOP 5.3.27: Tempo 30 in Oberschöneweide - vertagt
+- TOP 5.4: Stellungnahmen - (offen)
+- TOP 5.4.1: Verkehrskonzept für den 1. FC Union - vertagt
+- TOP 5.4.2: Clean-up-Aktionen für den Bezirk - im Ausschuss abgelehnt
+- TOP 6: Verschiedenes - erledigt
