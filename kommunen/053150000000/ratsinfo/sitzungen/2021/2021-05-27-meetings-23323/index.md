@@ -1,0 +1,72 @@
+# 6. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-05-27T17:00:00+02:00
+- Ende: 2021-05-27T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23323
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23323
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Heizkraftwerk Merkenich - Kenntnis genommen
+- TOP 7.1.2: S-Bahnumfahrungen des Stadtbezirks Chorweiler - zurückgestellt
+- TOP 7.1.3: Fahrradboxen im Stadtbezirk Köln-Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Fehlende und defekte Poller im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Strassenbäume in Chorweiler und Seeberg - Kenntnis genommen
+- TOP 7.2.2: Sachstand Sanierung Neusser Landstraße Ortslage Worringen - Kenntnis genommen
+- TOP 7.2.3: Parkplatz an der Johannesstraße - Kenntnis genommen
+- TOP 7.2.4: Auswertung der Impfaktion in Chorweiler - Kenntnis genommen
+- TOP 7.2.5: Spielplatzreaktivierung in Heimersdorf - Kenntnis genommen
+- TOP 7.2.6: Geschwindigkeitsbegrenzung der Straße Volkhovener Weg/Merianstraße - Kenntnis genommen
+- TOP 7.2.7: Escher See - Kenntnis genommen
+- TOP 7.2.8: Begegnungsstätten im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Verbesserung der Kita-Versorgung im Stadtteil Merkenich - Kenntnis genommen
+- TOP 8.1.2: Prüfauftrag: Unterstützung bei der elektronischen Terminvergabe vor Ort - Sache ist erledigt
+- TOP 8.1.3: Wiederaufbau der Luftmessstationen auf den Grundstücken der Grundschulen An den Kaulen in Köln-Worringen und Am Spoerkelhof in Köln-Merkenich - Kenntnis genommen
+- TOP 8.1.4: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Verwendung der Mittel des Stadtverschönerungsproramms 2021 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen, der AfD-Fraktion und der Fraktion Die Linke und Lilo Heinrich - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Prüfung zur Sperrung des Weilerweg für den Schwerlastverkehr Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Bessere Gesundheitsversorgung durch einen Medibus Gemeinsamer Antrag der SPD-Fraktion und der FDP - geändert beschlossen
+- TOP 8.3.3: Aufstellung einer Wanderbaumallee im öffentlichen Raum des Stadtbezirks Chorweiler - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Pesch Arbeitstitel: Donatusstraße in Köln-Pesch - ungeändert beschlossen
+- TOP 9.2.3: Städtebauliches Planungskonzept südlich Baptiststraße in Köln-Roggendorf/Thenhoven Anhörung der Bezirksvertretung 6 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurf - endgültig abgelehnt
+- TOP 9.2.4: Grünzug Chorweiler Nord - Wegebau - geändert beschlossen
+- TOP 9.2.5: Baubeschluss Rettungswache Worringen - ungeändert beschlossen
+- TOP 9.2.6: Mehrgenerationen Haus Lindweiler 2021 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.3: Abschlussbericht der Maßnahme „Büro für Quartiersmanagement und Aktivierung“ im Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - Kenntnis genommen
+- TOP 10.2.4: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 10.2.5: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 10.2.6: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.7: Gelenkbusse für die Busse der KVB-Linie 121 (Beschluss vom 15.04.2021, TOP 8.3.1) - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
