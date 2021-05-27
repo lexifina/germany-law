@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 6.1 Errichtung von Probe- und Atelierräumen
+
+- Sitzung: 4. Sitzung des Ausschusses Soziales, Seniorinnen und Senioren (2021-05-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/325066
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/153087
