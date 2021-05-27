@@ -1,0 +1,89 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-05-27T17:03:00+02:00
+- Ende: 2021-05-27T21:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12118
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12118
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00482076.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage zu einer möglichen Bebauung der östlichen Seite der Osthofstraße - zur Kenntnis genommen
+- TOP 4.2: Antrag A-W/0002/2020 - Appelbreistiege radverkehrsfreundlicher gestalten - zur Kenntnis genommen
+- TOP 4.3: Anträge A-W/0029/2020 und A-W/0048/2020 - Geschwindigkeitsreduzierung für den Rüschhausweg - zur Kenntnis genommen
+- TOP 4.4: Sachstand zum Bebauungsplan 601: Gievenbeck - Appelbreistiege / Von-Esmarch-Straße (Studierendenwohnungen/ Kindertagesstätte) - beantwortet
+- TOP 4.5: Sachstand illegale Baumfällungen in Mecklenbeck - zur Kenntnis genommen
+- TOP 4.6: Sachstand Nordumgehung Roxel - zur Kenntnis genommen
+- TOP 4.7: Sachstand zur Umgestaltung des öffentlichen Raums in der Gievenbecker Ortsmitte - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: 3. Gesamtschule Roxel - aktueller Stand - zur Kenntnis genommen
+- TOP 5.2: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 5.3: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - zur Kenntnis genommen
+- TOP 5.4: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 5.5: Geplante Veranlagungen in 2021 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.6: Zwischenbericht zur Umsetzung der Klimaneutralität 2030 für städtische Gebäude: Maßnahmenprogramm 2021 - 2024 - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Genehmigung der Dringlichkeitsentscheidungen zur Wahrnehmung des Anhörungsrechtes der Bezirksvertretung Münster-West - einstimmig beschlossen
+- TOP 6.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.3: Verzicht auf die Benennung der Freizeit- und Grünanlage im Oxford-Quartier nach Emilie Koch - einstimmig geändert beschlossen
+- TOP 6.3.1: Benennung der Freizeit- und Grünfläche am Oxford Areal als Emilie-Koch-Park - beantwortet
+- TOP 6.4: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die bezirklichen - einstimmig beschlossen
+- TOP 6.5: Dorffeldstraße - Maßnahme zur Geschwindigkeitsreduzierung - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Bebauungsplan Nr. 602: Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 7.2: Bebauungsplan Nr. 572 - Stellungnahmen - Satzung - einstimmig geändert beschlossen
+- TOP 7.3: Städtebaulicher Wettbewerb "Nienberge - südlich Feldstiege" - Auslobung - einstimmig beschlossen
+- TOP 7.4: Bebauungsplan Nr. 601 - Aufhebung - einstimmig beschlossen
+- TOP 7.5: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die überbezirklichen - einstimmig beschlossen
+- TOP 7.6: Querung des Dingbängerweges in Höhe des THC Münster e. V. - einstimmig beschlossen
+- TOP 7.7: 1.Kommunale Umsetzung des geänderten § 8a des Kommunalabgabengesetzes - einstimmig beschlossen
+- TOP 7.8: Masterplan für die kommunale Sportanlage Sentruper Höhe - einstimmig beschlossen
+- TOP 7.9: Erlass Naturdenkmalverordnung für den bebauten Bereich - einstimmig beschlossen
+- TOP 7.10: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - einstimmig beschlossen
+- TOP 7.11: Grünanlage Aasee - einstimmig geändert beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Anregung an den Rat der Stadt Münster: Lebens- und Aufenthaltsqualität in den Aktiven Höfen im Oxford-Quartier erhöhen - einstimmig beschlossen
+- TOP 8.2: Radweg Am Hof Hesselmann als Teil der zentralen Mecklenbecker Radwegeverbindung optimieren - zur Kenntnis genommen
+- TOP 8.3: 100 Äpfelbäume für Mecklenbeck - zur Kenntnis genommen
+- TOP 8.4: Eine Streuobstwiese für Albachten - regional, saisonal, ungespritzt - zur Kenntnis genommen
+- TOP 8.5: Geschwindigkeitsmessungen und regelmäßige Geschwindigkeitskontrollen auf der Hülshoffstraße in Nienberge - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.6: Nutzung der alten Feuerwache an der Gievenbecker Reihe für die Zwecke der Internationalen Fahrradwerkstatt des Integrationsforums Münster e. V. - eingebracht
+- TOP 8.7: Begegnungs- und Bewegungsräume für Kinder und Jugendliche schaffen - Eine Pumptrack-Anlage für Roxel - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.8: Förderung der Elektromobilität - Aufbau von öffentlichen Ladestationen in Nienberge - eingebracht
+- TOP 8.9: Antrag an den Rat der Stadt Münster - Veloroute Altenberge-Münster (Vorlage V/0650/2020) - einstimmig beschlossen
+- TOP 8.10: Infektionsschutz im Münsteraner Westen stärken - Stellungnahme zur Kenntnis genommen
+- TOP 8.11: Förderung der Elektromobilität - Ladestationen für den Parkplatz am Mühlenhof - eingebracht
+- TOP 8.12: Geschwindigkeitsmessung auf der Redigerstraße (Stadtteil: Sentruper Höhe) - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.13: Fertigstellung des wegweisenden Verkehrsschilds für den Kreisverkehr Horstmarer Landweg/Austermannstraße auf dem Horstmarer Landweg - eingebracht
+- TOP 8.14: Zusätzlicher Bankstandort am Christoph-Bernhard-Graben - eingebracht
+- TOP 8.15: Fußweg links hinter dem Rölverdurchlass Richtung Waldstück zum Haus Rüschhaus - eingebracht
+- TOP 8.16: Aufstellung eines mobilen Dialog-Displays auf der Osthofstraße, Höhe Bushaltestelle Sendener Stiege - Schulwegsicherung - eingebracht
+- TOP 8.17: Entwicklungskonzept für das Waldwegviertel in Mecklenbeck - eingebracht
+- TOP 8.18: Elektromobilität fördern - Konzept für die Versorgung Gievenbecks mit Ladesäulen - eingebracht
+- TOP 8.19: Elektromobilität fördern - Konzept für die Versorgung Sentrup mit Ladesäulen - eingebracht
+- TOP 8.20: Durchführung einer Verkehrszählung auf dem Dingbängerweg zwischen Mecklenbecker Straße/Weseler Straße und Fritz-Stricker-Straße - eingebracht
+- TOP 8.21: Umbenennung eines Teilstücks der Straße Bernings Kotten in Emilie-Koch-Straße - einstimmig beschlossen
+- TOP 8.22: Einrichtung von Saatgutecken in Bücherbussen - eingebracht
+- TOP 8.23: BAB Rüschhausbrücke - eingebracht
+- TOP 8.24: Sportpark Sentruper Höhe - eingebracht
+- TOP 8.25: Vereinsungebundene Freizeit- und Sportaktivitäten im Westen - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Schleichwege an den Rastanlagen Münsterland-Ost und -West schließen - zur Kenntnis genommen
+- TOP 9.2: Lärmschutzwälle für Photovoltaikanlagen nutzen - zur Kenntnis genommen
+- TOP 9.3: Lärmschutz Mecklenbeck - zur Kenntnis genommen
+- TOP 9.4: Gastronomie in Gievenbeck und anderen Stadtteilen - zur Kenntnis genommen
+- TOP 9.5: Geschwindigkeitsmessung Ramertsweg - zur Kenntnis genommen
+- TOP 9.6: Einrichtung eines zeitlich begrenzten Halteverbots auf der Straße Bernings Kotten - zur Kenntnis genommen
+- TOP 9.7: Maßnahmen zur Minimierung der Unfallgefährdung beim Abbiegen von "Am Braaken" auf die "Altenberger Straße" - zur Kenntnis genommen
+- TOP 9.8: Umbenennung der Apffelstaedtstraße in Henriette-Son-Straße - zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
