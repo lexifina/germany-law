@@ -1,0 +1,65 @@
+# Rat (Sondersitzung) (4. Sitzung (1. Sondersitzung))
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2021-05-27T17:00:00+02:00
+- Ende: 2021-05-27T17:51:00+02:00
+- Ort: Gymnasium Rahden, Freiherr-vom-Stein-Straße 5, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeB1AS-fVDabCY9vLZH5xoM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2378
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRDB9IYokfqBswhMZNpbXzmwMT5SCOF7meisAozDBVnx/Bekanntmachung_Rat_27.05.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU8R1JrBkuDjH1sICJuqji9zRI9N3ngmmbewiTNCU88G/Oeffentliche_Niederschrift_Rat_27.05.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.: Bericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen bis zum 07. Dezember 2020 - Ohne Abstimmung
+- TOP 6.: Entwurf der Haushaltssatzung 2021 mit Haushaltsplan und Anlagen - Einstimmig, 0 Enthaltungen
+- TOP 6.1: Entwurf der Haushaltssatzung 2021 mit Haushaltsplan und Anlagen - Einstimmig, 0 Enthaltungen
+- TOP 7.: Beratung über die Gültigkeit der am 13.09.2020 durchgeführten Wahlen des Bürgermeisters und des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 8.: Beschaffung eines Mehrzweckfahrzeugs (MZF) für die Löschgruppe Wehe - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beschaffung eines Mannschaftstransportfahrzeuges (MTF) für die Löschgruppe Varl-Sielhorst - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beschaffung eines Tanklöschfahrzeuges (TLF 3000) für den Löschzug Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bildung von Eingangsklassen im Schuljahr 2021/22 und Verteilung auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: 11. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Abwasserbeseitigungskonzept der Stadt Rahden, Fortschreibung des Abwasserbeseitigungskonzeptes für die Jahre 2021 – 2026 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2021
+- TOP 16.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Städtebauförderungsgebiet „Aktives Stadtzentrum“ Innenstadt Rahden; hier: Dringlichkeitsentscheidung zur Verlängerung der Sanierungssatzung „Rahden-Innenstadt“ - Einstimmig, 0 Enthaltungen
+- TOP 18.: Städtebauförderungsgebiet „Aktives Stadtzentrum“ Innenstadt Rahden; hier: Beratung und Beschlussfassung über die Neuaufstellung eines „Integrierten städtebaulichen Entwicklungskonzeptes Rahden-Innenstadt“(ISEK) sowie die Verlängerung und Erweiterung der Sanierungssatzung „Rahden-Innenstadt“ - Einstimmig, 0 Enthaltungen
+- TOP 19.: „Investitionspakt zur Förderung von Sportstätten“ Antragstellung für das Jahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Investitionspakt zur Förderung von Sportstätten 2020/2021 hier: Modernisierung, Erweiterung und energetische Sanierung des Sportlerheims Tonnenheide sowie Umfeldgestaltung zur Schaffung eines zentralen Sportparks in der Ortschaft Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 21.: Investitionspakt zur Förderung von Sportstätten 2020/2021 hier: bauliche Modernisierung der Stadtsporthalle - Abgesetzt
+- TOP 22.: Investitionspakt zur Förderung der Sportstätten 2020/21 hier: Erweiterung / Umbau der Sportanlage „Am Brullfeld“ sowie Sanierung der Umkleidekabinen - Abgesetzt
+- TOP 23.: Umsetzung von Maßnahmen aus dem Förderprogramm „Dorferneuerung“ für das Jahr 2021 - 24 Stimmen dafür, 0 dagegen, 6 Enthaltungen
+- TOP 24.: Entscheidung zum Aussetzen der Elternbeiträge für die Offene Ganztagsbetreuung an den Grundschulen im Stadtgebiet für den Monat Januar 2021 - Einstimmig, 0 Enthaltungen
+- TOP 25.: Entscheidung zum Aussetzen der Elternbeiträge für die Offene Ganztagsbetreuung an den Grundschulen im Stadtgebiet für den Monat Februar 2021 - Abgesetzt
+- TOP 26.: Antrag BÜNDNIS 90/DIE GRÜNEN: Bereitstellung von Haushaltsmitteln zur Erstellung einer Machbarkeitsstudie "Reaktivierung der Strecke Bünde-Bassum" - Einstimmig, 0 Enthaltungen
+- TOP 27.: Beratung und Beschlussfassung über den Stellenplan 2021 - Einstimmig, 0 Enthaltungen
+- TOP 28.: Schulentwicklungsplanung für die Grundschulen der Stadt Rahden in den Jahren 2021 - 2026 - Einstimmig, 0 Enthaltungen
+- TOP 29.: Übernahme von Elternbeiträgen bei Wohngeld- und Kinderzuschlagempfängern für außerunterrichtliche Betreuungsangebote an den Offenen Ganztagsgrundschulen in Rahden - Einstimmig, 0 Enthaltungen
+- TOP 30.: Einrichtung einer Baukommission „Schul- und Sportzentrum“ - Einstimmig, 0 Enthaltungen
+- TOP 31.: Einbau einer zentralen Lüftungsanlage mit 15.000 m³/h in den Erweiterungsbau der Sekundarschule Rahden - 30 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 32.: Aufstellung des Bebauungsplanes Nr.97 "Mindener Straße/Fasanenweg/Wiesenweg" sowie 85. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB b) Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 85. Änderung des Flächennutzungsplanes - 28 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 33.: Entwurf eines Brückenerhaltungsprogramms für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 34.: Entwurf eines gemeindlichen Straßen- und Wegekonzeptes für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 35.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 36.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 37.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 38.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 39.: Bekanntgabe der im II. Quartal 2020 und III. Quartal 2020 erteilten Aufträge - Ohne Abstimmung
+- TOP 40.: Bekanntgabe der Stundungen bei Beträgen von 5.000 € bis 25.000 € - Ohne Abstimmung
+- TOP 41.: Bekanntgabe der im IV. Quartal 2020 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 42.: Erwerb einer gewerblichen Entwicklungsfläche in der Ortschaft Rahden - 30 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 43.: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden - Süd - Einstimmig, 0 Enthaltungen
+- TOP 44.: Veräußerung einer Teilfläche in Rahden - Einstimmig, 0 Enthaltungen
+- TOP 45.: Grundstücksangelegenheiten
+- TOP 46.: Bekanntgaben und Anfragen
