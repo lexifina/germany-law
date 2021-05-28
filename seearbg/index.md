@@ -197,7 +197,7 @@
 
 ### Unterabschnitt 5 Zugang zu Sozialeinrichtungen an Land
 
-- [§ 119 Sozialeinrichtungen für Seeleute an Land](0119.md)
+- [§ 119 Sozialeinrichtungen für Seeleute an Land; Verordnungsermächtigungen](0119.md)
 
 ## Abschnitt 7 Ordnung an Bord und Beschwerderecht
 
@@ -292,4 +292,3 @@
 
 - [§ 152 Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen](0152.md)
 - [§ 153 Übergangsregelung für zugelassene Ärzte](0153.md)
-- [§ 154 Übergangsregelung für Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen](0154.md)
