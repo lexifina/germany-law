@@ -122,9 +122,6 @@ Erlaubnis](0047.md)
 - [§ 66 Zahlungsverpflichteter](0066.md)
 - [§ 67 Pfändung](0067.md)
 
-## 13. Abschnitt (jetzt Überschrift nach § 67)
-
-
 ## 13. Abschnitt Rechtsweg und Kosten
 
 - [§ 68 Rechtsweg](0068.md)
