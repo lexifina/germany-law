@@ -1,0 +1,55 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-05-28T14:00:00+02:00
+- Ende: 2021-05-28T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20178
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20178
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411421.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411421.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00411421.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 30.04.2021 - zurückgezogen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Lagedarstellung der Polizeiinspektion Mitte - zur Kenntnis genommen
+- TOP 4.2: Klimaanalyse 2020 - mündlicher Bericht - zur Kenntnis genommen
+- TOP 4.3: Plan Nr. 01/017 - Schwannstraße 3 und Kennedydamm 5 - Empfehlung mehrheitlich abgelehnt
+- TOP 4.4: Bebauungsplan-Entwurf Nr. 01/014 -- Schwannstraße Hochpunkt - Empfehlung einstimmig beschlossen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2021 - einstimmig beschlossen
+- TOP 4.7: Umsetzung von restriktiven Maßnahmen zur Reduzierung der Beschwerden im Kontext des Abstellens und des Nutzens von Elektro-Tretrollern in den Stadtteilen Carlstadt und Altstadt - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Grünfläche auf der Verkehrsinsel an der Rheinterrasse - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Gebäude Poststr. 18 - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Raumbedarf des Görres-Gymnasiums - Anfrage Sabine Schmidt, Verterterin der CDU-Fraktion und Daniela Masberg-Eikelau, Vertreterin der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Reservierte Parkplätze für Cambio-Carsharing im Stadtbezirk 1 - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.4: Parkplätze für Lastenfahrräder im Stadtbezirk 1 - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 6.5: Schulhof Gemeinschaftsgrundschule Rolandstraße - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6.6: Polizeilagebericht Stadtbezirk 1 - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Unbelegte Grabflächen auf dem Nordfriedhof insektenfreundlich gestalten - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Prüfung sichere Schulwege zur Grundschule: Gemeinschaftsgrundschule Rolandstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Errichtung von Fahrradstellplätzen auf der Klosterstraße - überfraktioneller Antrag - zurückgezogen
+- TOP 7.4: Prüfung sichere Schulwege zur Grundschule: Matthias-Claudius-Grundschule an der Ehrenstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Rechtsabbiegerpfeil für Radfahrer an der Kaiserstraße / Kapellstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.6: Netzkapazitäten für E-Ladeinfrastruktur im Stadtbezirk 1 - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 7.7: Bericht von Düsseldorf Tourismus über aktuelle und kommende Projekte des Stadtmarketings im Bezirk 1 - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 7.8: Barrierefreiheit im Rheinpark - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 7.9: Vorstellung von Maßnahmen der Verwaltung für eine positive Entwicklung des Worringer Platzes - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.10: Barrierefreie Rheinbahnhaltestelle Essener Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Sanierung der Mauer im Kinderhilfezentrum Eulerstraße; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/047/2021 - zur Kenntnis genommen
+- TOP 8.2: Erneuerung bzw. Reparatur des Oberflächenbelages an der Kaiserswerther Straße 156-122 stadteinwärts; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/014/2021 - zur Kenntnis genommen
+- TOP 8.3: Instandsetzung Bürgersteig Vagedesstraße; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/015/2021 - zur Kenntnis genommen
+- TOP 8.4: Verschmutzungen vermeiden – Glascontainerstandort Vagedesstraße; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/089/2021 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss zu "Ausstellung an den Kasematten" - einstimmig beschlossen
