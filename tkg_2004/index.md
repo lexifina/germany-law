@@ -238,7 +238,7 @@ Endnutzerleistungen
 ### Abschnitt 3 Öffentliche Sicherheit
 
 - [§ 108 Notruf](0108.md)
-- [§ 109 Technische Schutzmaßnahmen](0109.md)
+- [§ 109 Technische und organisatorische Schutzmaßnahmen](0109.md)
 - [§ 109a Daten- und Informationssicherheit](0109a.md)
 - [§ 110 Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften](0110.md)
 - [§ 111 Daten für Auskunftsersuchen der Sicherheitsbehörden](0111.md)

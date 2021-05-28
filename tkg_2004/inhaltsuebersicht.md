@@ -248,7 +248,7 @@
 | Öffentliche Sicherheit |
 |  |
 | § 108 | Notruf |
-| § 109 | Technische Schutzmaßnahmen |
+| § 109 | Technische und organisatorische Schutzmaßnahmen |
 | § 109a | Daten- und Informationssicherheit |
 | § 110 | Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften |
 | § 111 | Daten für Auskunftsersuchen der Sicherheitsbehörden |
