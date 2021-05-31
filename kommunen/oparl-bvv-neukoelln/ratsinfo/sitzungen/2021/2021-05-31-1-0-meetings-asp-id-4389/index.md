@@ -1,0 +1,57 @@
+# 60. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-05-31T17:00:00+02:00
+- Ende: 2021-05-31T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4389
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4389
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 3.1: nicht behandelte Drs. aus der Fortsetzung der 59. Bezirksverordnetenversammlung am 26.05.2021 - (offen)
+- TOP 3.2: Neukölln fußgänger*innenfreundlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Mieter*innen im Mahlower Block schützen und beraten - in der BVV abgelehnt
+- TOP 3.4: Partizipation Schwarzer Menschen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 3.5: Rekommunalisierung der Schulreinigung im Doppelhaushalt 2022/23 umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 3.6: Hitzeaktionsplan für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 3.7: Öffentliches Erinnern an die Akteure und Schauplätze der Novemberrevolution in Neukölln - in der BVV abgelehnt
+- TOP 3.8: Sicherer Schulweg für die Karlsgartenschule - ohne Änderungen in der BVV beschlossen
+- TOP 3.9: Grünflächen und Wasserversickerung in der Warthestraße - in der BVV abgelehnt
+- TOP 3.10: Neugestaltung des Mittelstreifens der Warthestraße - in der BVV abgelehnt
+- TOP 3.11: Mehr Flächengerechtigkeit: „Kiezblocks“ für Neukölln planen und umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 3.12: Parkplätze für Gehbehinderte am Gesundheitszentrum Gropiusstadt - ohne Änderungen in der BVV beschlossen
+- TOP 3.13: Sitzbank am Britzer Damm/Ecke Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 3.14: 1.700 Jahre jüdisches Leben in Deutschland - ohne Änderungen in der BVV beschlossen
+- TOP 3.15: Bürger umfassend über das Infektionsgeschehen informieren - in der BVV abgelehnt
+- TOP 3.16: Kostenfreie FFP2-Masken - ohne Änderungen in der BVV beschlossen
+- TOP 3.17: Durchführung einer Veranstaltung zur Zukunft des Philip-Morris-Geländes - in der BVV abgelehnt
+- TOP 3.18: Möglichkeit der Zwischennutzung für leerstehende Immobilien und Flächen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 3.19: Erhalt des Restschulgartens der Carl-Legien-Schule durch Denkmalschutz - in der BVV abgelehnt
+- TOP 3.20: Bestandsaufnahme im ehemaligen Schulgarten der Carl-Legien-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 3.21: Geschichtliche Aufarbeitung Lucy-Lameck-Straße - in der BVV abgelehnt
+- TOP 3.22: Erinnerungstafel an Zwangsarbeiterlager in der Hufeisensiedlung - ohne Änderungen in der BVV beschlossen
+- TOP 3.23: SGB II-EmpfängerInnen vor Mietendeckel-Urteil schützen - ohne Änderungen in der BVV beschlossen
+- TOP 3.24: Bürgeramt und ein Ende der Wartezeit - in der BVV abgelehnt
+- TOP 3.25: Bürgerbeteiligung bei temporären Spielstraßen - in der BVV abgelehnt
+- TOP 3.26: Bürgerbeteiligung stärken - vertagt
+- TOP 3.27: Halteverbot im Gockelweg auf die andere Straßenseite verlegen - vertagt
+- TOP 3.28: Verkehrswende in Neukölln umsetzen - vertagt
+- TOP 3.29: Digitales Routing von Kraftfahrzeugen durch Fahrradstraßen unterbinden - vertagt
+- TOP 3.30: Kein Querparken auf der Grünfläche im Truseweg - vertagt
+- TOP 3.31: Frequentierung von Pop-Up-Radwegen erfassen - vertagt
+- TOP 3.32: Weitere Maßnahmen angesichts des tödlichen Radverkehrsunfalls an der Oderstraße - vertagt
+- TOP 3.33: Eingreifen in der High-Deck-Siedlung - vertagt
+- TOP 3.34: Verkehrswende in Neukölln - vertagt
+- TOP 3.35: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 3.36: IGSV – Initiative Selbstbestimmung und Akzeptanz geschlechtlicher und sexueller Vielfalt - schriftlich beantwortet
+- TOP 3.37: Neupflanzungen - vertagt
+- TOP 3.38: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - vertagt
+- TOP 3.39: Gibt es nun doch Corona-Schwerpunkte in Neukölln? - vertagt
+- TOP 3.40: Steigerung der Einbürgerungszahlen auch in Neukölln ein Ziel? - schriftlich beantwortet
