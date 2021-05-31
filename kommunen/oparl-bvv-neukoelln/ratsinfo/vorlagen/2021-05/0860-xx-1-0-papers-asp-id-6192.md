@@ -1,0 +1,25 @@
+# Mieter*innen im Mahlower Block schützen und beraten
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 0860/XX
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2021-05-31
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6192
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=6192
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=205585
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3238 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3699 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3239 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3360 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3589 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3592 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4011 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4015 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4259 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4154 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4155 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4156 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4385 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4389 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=5
