@@ -1,0 +1,24 @@
+# Öffentliches Erinnern an die Akteure und Schauplätze der Novemberrevolution in Neukölln
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1078/XX
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2021-05-31
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6411
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=6411
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=213848
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3663 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3631 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3632 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3578 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3583 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4067 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4071 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4075 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4243 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4155 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4156 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4385 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4389 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=5
