@@ -1,0 +1,127 @@
+# 6. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-05-31T17:00:00+02:00
+- Ende: 2021-05-31T19:00:00+02:00
+- Ort: Bürgerzentrum Ehrenfeld, Venloer Straße 429, 50825 Köln,
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23104
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23104
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Herkulesstraße (Az.: 02-1600-07/2020) - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag der SPD-Fraktion zu TOP 3.1, betr.: Bürgereingabe Herkulesstraße - endgültig zurückgezogen
+- TOP 3.1.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu Top 3.1 betr.: Bürger*inneneingabe Herkulesstraße - endgültig zurückgezogen
+- TOP 3.1.3: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion, betr.: Bürger*inneneingabe TOP 3.1 Herkulesstraße - ungeändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr. Überarbeitung des Umbaus der Vogelsanger Straße in Köln-Ehrenfeld (Az.: 02-1600-192/20) - geändert beschlossen
+- TOP -: geänderter Beschlussvorschlag zu TOP 3.2
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Situation in Hüttenstraße - Kenntnis genommen
+- TOP 6.1.1: Verbesserung der Situation in der Hüttenstraße - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion, betr.: Sachstand ehemalige Hauptverwaltung Herbol - Kenntnis genommen
+- TOP -: Die Beantwortung erfolgt schriftlich zur Niederschrift
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Sachstand Konzeptvergabe Alpenerstraße 4-6 - Kenntnis genommen
+- TOP 6.3.1: Anfrage der SPD-Fraktion zum Sachstand Konzeptvergabe Alpenerstraße 4-6 - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Die Linke/Die Partei, betr.: Baumfällungen im Wassermannpark - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Die Linke/Die Partei, betr.: Hintergründe zur Lindenthaler Gesamtschule Wasseramselweg im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.5.1: Hintergründe zur Gesamtschule Wasseramselweg - zur Anfrage der Fraktion Die Linke/Die Partei AN/0488/2021 - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Die Linke/Die Partei, betr.: Welche Bedeutung hat das Wohnraumbedarfgutachten für den Stadtbezirk Ehrenfeld? - Kenntnis genommen
+- TOP -: Die Beantwortung erfolgt unter TOP 20.2 im nichtöffentlichen Teil
+- TOP 6.7: Anfrage der Fraktion Die Linke/Die Partei, betr.: Bauvorhaben Äußere Kanalstraße 86 - Kenntnis genommen
+- TOP 6.7.1: Bauvorhaben Äußere Kanalstr. 86 - Kenntnis genommen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Schlangenbildung auf der Venloer Straße - zurückgestellt
+- TOP 6.10: Anfrage der Fraktion Die Linke/Die Partei BV 4, betr.: Boden behalten? Wie haben sich die Verkäufe öffentlichen Grund und Bodens entwickelt? - zurückgestellt
+- TOP 6.11: Anfrage der SPD-Fraktion, betr.: Notaufnahme für Geflüchtete Herkulesstraße 38-42 - Kenntnis genommen
+- TOP 6.11.1: Notaufnahme für Geflüchtete Herkulesstraße 38-42 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke/Die Partei, betr.: Ein Anker für die Kultur? Welche Rolle kann die Fläche W401-021 (Dreieck südlich Bahnhof Ehrenfeld) für Kunst und Kultur im Stadtbezirk Ehrenfeld spielen? - Kenntnis genommen
+- TOP 7.1.1: Anfrage der Fraktion Die Linke/Die Partei, betr.: Ein Anker für die Kultur? Welche Rolle kann die Fläche W401-021 (Dreieck südlich Bahnhof Ehrenfeld) für Kunst und Kultur im Stadtbezirk Ehrenfeld spielen? (AN/0598/2021) - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gehwegparken Bocklemünd - Kenntnis genommen
+- TOP 7.2.1: Gehwegparken Bocklemünd - Kenntnis genommen
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Ampelschaltung neuer Überweg Innere Kanalstraße - Kenntnis genommen
+- TOP 7.3.1: Ampelschaltung neuer Überweg Innere Kanalstraße - Kenntnis genommen
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: BV Beschluss zu Bereitstellungzonen für kommerzielle Leihfahrzeuge - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Anträge aus der Sitzung am 26.04.2021
+- TOP 8.1.1: Antrag der SPD-Fraktion, betr.: Beschleunigung Bebauungsplanverfahren Heliosgelände - geändert beschlossen
+- TOP 8.1.2: Antrag der Fraktion Die Linke/Die Partei, betr.: Lebenswertes Neuehrenfeld bewahren – Verdrängung frühzeitig identifizieren und verhindern! - geändert beschlossen
+- TOP 8.1.3: Antrag der CDU-Fraktion, betr.: Gasspeicher der RheinEnergie, Maarweg - ungeändert beschlossen
+- TOP 8.1.4: Antrag der SPD-Fraktion, betr.: Generalsanierung Vogelsanger Straße an der Heliosschule vor 2024 - ungeändert beschlossen
+- TOP 8.1.5: Antrag der CDU-Fraktion, betr.: Grundstück der Fa. Max Becker GmbH und Co KG / Widdersdorferstraße und Maarweg - endgültig zurückgezogen
+- TOP 8.1.6: Antrag der SPD-Fraktion, betr.: Zielbildprozess für das Quartier zwischen Nippes und Neuehrenfeld mit Einrichtung eines Entwicklungsbeirats „LiebIG“ - ungeändert beschlossen
+- TOP 8.1.7: Antrag der SPD-Fraktion, betr.: Nutzung des städtischen Grundstückes Herkulesstraße 38-42 als Schulstandort - ungeändert beschlossen
+- TOP 8.1.8: Antrag der SPD-Fraktion, betr.: Verbreiterung der Kurve Dohlenweg Köln-Vogelsang - ungeändert beschlossen
+- TOP 8.2: neue Anträge
+- TOP 8.2.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sicherheit an der Wöhlerstraße - ungeändert beschlossen
+- TOP 8.2.2: Antrag der SPD-Fraktion, betr.: Arrondierung des Bebauungsplanes 61480/02 in Köln-Vogelsang - ungeändert beschlossen
+- TOP 8.2.3: Antrag der Fraktion Die Linke/Die Partei, betr.: Dreieck südlich Bahnhof Ehrenfeld entwickeln - ungeändert beschlossen
+- TOP 8.2.4: Antrag der CDU-Fraktion, betr.: Prüfantrag Vogelsanger Straße - endgültig abgelehnt
+- TOP 8.2.5: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der CDU-Fraktion, betr.: Toiletten am Lenauplatz - mobile Toiletten auf öffentlichen Plätzen und in Parks - ungeändert beschlossen
+- TOP 8.2.6: Antrag der SPD-Fraktion, betr.: Aufstellung eines Bebauungsplanes mit Veränderungssperre für den Bereich Wilhelm-Mauser-Straße, Venloer Straße / Bahntrasse HGK - ungeändert beschlossen
+- TOP 8.2.7: Antrag der Fraktion Die Linke/Die Partei, betr,: Mehr Transparenz wagen! Verwaltungshandeln und Stadtentwicklung nachvollziehbar machen - ungeändert beschlossen
+- TOP 8.2.8: Der Antrag wurde mit TOP 8.2.5 zu einem gemeinsamen Antrag zugsammengefasst.
+- TOP 9: Entscheidungen
+- TOP 9.1: Radverkehrskonzept Ehrenfeld - Radverkehrshauptnetz - geändert beschlossen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Änderungsantrag der SPD-Fraktion, betr.: Radverkehrskonzept - geändert beschlossen
+- TOP 9.2: Planungsbeschluss für die Umgestaltung der Vogelsanger Straße zwischen Oskar-Jäger-Straße und Ehrenfeldgürtel - geändert beschlossen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 9.2, betr.: Umbau Vogelsanger Straße - ungeändert beschlossen
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Baubeschluss für den barrierefreien Umbau der Haltestelle Hugo-Eckener-Straße im Stadtbezirk Ehrenfeld auf der KVB-Linie 127 - ungeändert beschlossen
+- TOP 9.4: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 9.4.1: Genehmigung einer Dringlichkeitsentscheidung: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.5: Sportanlage Apenrader Straße - Kunststoffrasen Belagswechsel - ungeändert beschlossen
+- TOP 9.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.7: Genehmigung einer Dringlichkeitsentscheidung: Beflaggung des Bezirksrathauses Ehrenfeld mit der Regenbogenfahne am 17. Mai 2021 - ungeändert beschlossen
+- TOP 9.8: Wahl eines stellvertretenden Mitglieds für den Beirat zur Begleitung der Umsetzung der Rahmenplanung Braunsfeld/Müngersdorf/Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Anhörungen und Stellungnahmen aus der Sitzung am 26.04.2021
+- TOP 10.1.1: Städtebauliches Planungskonzept Heliosgelände in Köln-Ehrenfeld Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorga-ben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 10.1.1.1: Änderungsantrag der SPD-Fraktion zu TOP 10.1, betr..: Vorgabenbeschluss Heliosgelände - endgültig zurückgezogen
+- TOP 10.1.1.2: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 10.1, betr.: Vorgabenbeschluss Heliosgelände - endgültig zurückgezogen
+- TOP 10.1.1.3: Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion sowie der Einzelmandatsträger Tobias Scholz und Jan Pehoviak betr.: TOP 10.1.1 Städtebauliches Planungskonzept Heliosgelände in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.1.2: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - ungeändert beschlossen
+- TOP 10.1.3: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 10.1.4: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 10.1.5: 276. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.1.6: Gestaltungsplanung des zweiten Bauabschnittes im Kooperationsgrabfeld auf Flur C des Kölner Westfriedhofes - ungeändert beschlossen
+- TOP 10.1.7: Fortsetzung der Gemeinwesenarbeit in den bestehenden Quartieren auf der Basis des neu entwickelten Förderprogramms - Sache ist erledigt
+- TOP 10.1.7.1: Dringlichkeitsentscheidung - Fortsetzung der Gemeinwesenarbeit in den bestehenden Quartieren auf der Basis des neu entwickelten Förderprogramms - ungeändert beschlossen
+- TOP 10.1.8: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - ungeändert beschlossen
+- TOP 10.2: neue Anhörungen und Stellungnahmen
+- TOP 10.2.1: 241. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld Arbeitstitel: "Alsdorfer Straße“ in Köln-Ehrenfeld/-Braunsfeld" - geändert beschlossen
+- TOP 10.2.2: 184. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3 (Köln-Lindenthal) beziehungsweise 4 (Köln-Ehrenfeld) Arbeitstitel: "Braunsfeld/Ehrenfeld" in Köln-Braunsfeld/Ehrenfeld - zurückgestellt
+- TOP 10.2.3: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Wilhelm-Schreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bauvorhabens und Rückbau - zurückgestellt
+- TOP 10.2.4: Rahmenplanung Braunsfeld/Müngerdorf/Ehrenfeld, hier: Änderung der Geschäftsordnung des Beirates zur Umsetzung der Rahmenplanung - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Mitteilungen aus der Sitzung am 26.04.2021
+- TOP 12.1.1: Bepflasterung der neuen Baumscheiben an der Vogelsanger Straße - Kenntnis genommen
+- TOP 12.1.2: Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 12.1.3: Monitoring Streuobstwiesen Köln - Kenntnis genommen
+- TOP 12.1.4: Projekt Integrationslots*innen - hier: neuer Träger In-Haus e.V. - Kenntnis genommen
+- TOP 12.1.5: Beantwortung einer Anfrage der Ratsgruppe GUT AN/0361/2021: Schlachthofgelände – neue Perspektiven? - Kenntnis genommen
+- TOP 12.1.6: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln Ossendorf - Kenntnis genommen
+- TOP 12.1.7: Allgemeine Informationen und Erläuterungen zu den Abläufen bei der Bearbeitung von Anträgen zur Entfernung von geschützten Bäumen und zu rechtlichen Rahmenbedingungen - Kenntnis genommen
+- TOP 12.1.8: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.1.9: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.1.10: Entfernung der Modalen Filter (Poller) an der Ecke Stammstraße/Körnerstraße - Kenntnis genommen
+- TOP 12.1.11: Entfernung vom Zebrastreifen auf der Nußbaumerstraße - Kenntnis genommen
+- TOP 12.1.12: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 12.2: neue Mitteilungen
+- TOP 12.2.1: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 12.2.2: Voranfrage Oskar-Jäger-Str. 158 - Kenntnis genommen
+- TOP 12.2.3: Gemeinsamer Antrag der Fraktionen und Bezirksvertreterin Pöttgen (FDP), betr.: Gasspeicher der RheinEnergie, Maarweg/Widdersdorfer Straße AN/0435/2021 - Kenntnis genommen
+- TOP 12.2.4: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
