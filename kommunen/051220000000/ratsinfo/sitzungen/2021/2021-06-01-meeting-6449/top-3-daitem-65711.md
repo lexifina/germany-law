@@ -1,0 +1,6 @@
+# TOP 3.: Protokoll über die 5. Sitzung der Bezirksvertretung Gräfrath am 27.04.2021
+
+- Sitzung: Bezirksvertretung Gräfrath (6. Sitzung) (2021-06-01)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/65711
