@@ -1,0 +1,54 @@
+# 44. öffentliche Sitzung des Jugendhilfeausschusses gemeinsam mit der 44. öffentlichen Sitzung des Ausschusses für Schule - Die Sitzung findet im VIDEOCALL statt. Die Zugangsdaten entnehmen Sie bitte dem Infoblatt VIDEOCALL.
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-06-01T17:00:00+02:00
+- Ende: 2021-06-01T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=20
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6487
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6487
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=382985
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Geneimigung der Tagesordnung
+- TOP 2: Genehmigung der Protokolle der 10., 27., 41., 42. und 43. Sitzung des Schulausschusses, falls vorliegend
+- TOP 3: Bericht zur Arbeit des Kinder- und Jugendparlaments
+- TOP 4: Kinder- und Jugendparlament
+- TOP 4.1: Kostenfreie Menstruationsprodukte auf Mädchentoiletten
+- TOP 4.2: Mehr Wahlpflichtunterricht an Schulen <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.3: Bessere Förderung an Grundschulen <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.4: Klimaschutz – jetzt handeln! <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.5: Gleichberechtigung bei den Bundesjugendspielen <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.6: Mehr Jugendfreizeit <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.7: Mehr Jugendfreizeit! Skaterpoint am Winterfeldtplatz fördern. <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.8: Bewegungsaktive Jugendfreizeit ausbauen! <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.9: Inklusionslotsen für die Schulen <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.10: Wissen zum Umgang mit dem Internet <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.11: Die Digitalisierung in den Schulen vorantreiben <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.12: Besseres und abwechslungsreiches Schulessen an der Käthe-Kollwitz-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.13: Neue Möbel für die Käthe-Kollwitz-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.14: Mehr geschlossene Mülleimer für die Käthe-Kollwitz-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.15: Mehr/neue Pflanzen für die Käthe-Kollwitz-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.16: Neues Spielzeug für die Käthe-Kollwitz-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.17: Fußballplatz an der Pöppelmannstraße <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.18: Die Digitalisierung in der Nahariya-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 4.19: Fußballtore für den Merseburger Fußballplatz <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 5: Schuleingangsuntersuchungen -Rückblick und Ausblick (neue Erkenntnisse und Folgen) dazu: Herr Stadtrat Schworck
+- TOP 6: neue Ausrichtung zum Kinderschutz an Schulen dazu: Herr Stadtrat Schworck
+- TOP 7: Bericht aus der Verwaltung
+- TOP 7.1: Bericht aus dem Bezirksamt
+- TOP 7.2: Bericht der Schulaufsicht
+- TOP 7.3: Bericht aus dem BSA
+- TOP 8: Anträge
+- TOP 8.1: Ein Natur- und Waldlehrpfad für Lichtenrade <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 8.2: Schulmittagessen für diejenigen ermöglichen, die zur Mittagszeit nicht in der Schule sind <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 8.3: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 9: Mitteilungen zur Kenntnisnahme
+- TOP 9.1: Alkoholwerbung hat nichts vor Schulen und Kitas verloren <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 9.2: Errichtung eines Schulneubaus im Bezirk Tempelhof-Schöneberg in Amtshilfe durch die HOWOGE <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 9.3: Bericht des Geschäftsbereiches StadtBau zu den Auflagenbeschlüssen der BVV zum Haushaltsplan 2020/ 2021 (hier: Pkt. 4.1 – 3306 Hochbauplanung und A-08 Bewirtschaftung fortschreiben und anpassen) <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Schulausschuss)</span>
+- TOP 10: Verschiedenes
+- TOP 10.1: Nächste Sitzungen des Schulausschusses: 07.09. Überweisung von DA, u.a. 2147/XX Ein Natur- und Waldlehrpfad für Lichtenrade (ggf. in der Naturschutzstation Marienfelde) 05.10.
