@@ -1,0 +1,76 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-01T15:00:00+02:00
+- Ende: 2021-06-01T16:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23682
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23682
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Internet / WLAN-Versorgung in den Flüchtlingsunterkünften der Stadt Köln - Kenntnis genommen
+- TOP 3.2: Unterbringung von FINTA* mit Fluchtgeschichte - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage der SPD-Fraktion zur Lebenssituation von Menschen ohne Papiere in Köln – Modellprojekt „Anonymer Krankenschein in Köln„ starten? - Kenntnis genommen
+- TOP 3.4: Anfrage zum Thema "Bescheinigungen nach § 51 Aufenthaltsgesetz" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage zur Förderung rassismuskritischer Projekte - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Befristung der Niederlassungserlaubnisse - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zum Thema "Gültigkeit Niederlassungserlaubnis" - Kenntnis genommen
+- TOP 4.2: Anfrage zu fremdsprachlichen Führungen in Kölner Museen - Kenntnis genommen
+- TOP -: Fremdsprachige Führungen - Kenntnis genommen
+- TOP 4.3: Anfrage zur Rückgabe der sogenannten Benin-Bronzen - Kenntnis genommen
+- TOP 4.4: Anfrage zum Sachstand herkunftssprachliche bilinguale Kitagruppen - Kenntnis genommen
+- TOP 4.5: Anfrage zur Auflösung von Sammelunterkünften - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage zur Auflösung von Sammelunterkünften - Kenntnis genommen
+- TOP 4.6: Anfrage: Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden - Kenntnis genommen
+- TOP 4.7: Anfrage zu mehrsprachigen Gebärdendolmetscher:innen - Kenntnis genommen
+- TOP 4.8: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 4.9: Anfrage: Weiterbildungsangebote für städtische Mitarbeitende zu Rassismuskritik und Diversitätssensibilität - Kenntnis genommen
+- TOP 4.10: Anfrage zu Wartezeiten in der Ausländerbehörde - Kenntnis genommen
+- TOP 4.11: Gegen jeden Antisemitismus – Prävention von und Schutz vor Antisemitismus - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Vorstellung des zweiten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 5.2: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 5.3: Mitteilung zur Anfrage bezüglich der kommunalen Zuweisung von LSBT*I*Q Geflüchteten aus der ZUE nach Köln in die LSBT*I*Q Geflüchteten Unterkunft - Kenntnis genommen
+- TOP 5.4: Ergebnisse einer Befragung zu den Auswirkungen der Corona-Pandemie auf LSBTIQ-Jugendliche - Kenntnis genommen
+- TOP 5.5: Bundesprogramm Kita-Einstieg: Brücken bauen in frühe Bildung - Kenntnis genommen
+- TOP 5.6: Digitale Konferenz Interkulturelles Köln - Dokumentation der Veranstaltung vom 22.1.2021 - Kenntnis genommen
+- TOP 5.7: Praxishandbuch "Vielfalt Pflegen" - eine Publikation des Kompetenzzentrum Selbstbestimmt Leben (KSL) NRW - Kenntnis genommen
+- TOP 5.8: Nachfragen zur Vorlage 1257/2021 - Fragen zur Unterbringung LSBT*I*Q Geflüchtete - Kenntnis genommen
+- TOP 5.9: Mitteilung zur Beantwortung von Anfragen gem. § 4 der Geschäftsordnung des Rates zum Personalbericht 2019/2020 - Kenntnis genommen
+- TOP 5.10: Kölner Statistische Nachrichten Kurzinformation Bevölkerungszahlen - Kenntnis genommen
+- TOP 5.11: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 5.12: 1. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.13: Geplante Impfungen von untergebrachten Wohnungslosen und Geflüchteten vom Amt für Wohnungswesen - Kenntnis genommen
+- TOP 5.14: Testphase im Programm der Seniorenberatung - Kenntnis genommen
+- TOP 5.15: 32. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.16: Beschluss der StadtAG Seniorenpolitik zur Resolution der BezirksAG Seniorenpolitik Kalk zur Verbesserung der Palliativ- und Hospizversorgung im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 5.17: Interkulturelle Zentren - Mitteilung über die Verwendung des übergreifenden Budgets im Jahr 2020 und Sachstand Qualitätsentwicklung - Kenntnis genommen
+- TOP 5.18: Mitteilung zur Beantwortung einer Anfrage der Fraktion Die Linke nach den Gründen für die Nichtversorgung der Kinder - Kenntnis genommen
+- TOP 5.19: Arbeitsmarkt Köln - Corona-Krise: Rückblick 2020, bisherige Entwicklung und Ausblick 2021 - Kenntnis genommen
+- TOP 5.20: Nachfrage zum 31. Bericht zur Situation Geflüchteter bzgl. psychischer Erkrankungen - Kenntnis genommen
+- TOP 5.21: Beantwortung zum Wortbeitrag zu TOP 5.1 aus der Sitzung vom 26.04.2021 - Kenntnis genommen
+- TOP 5.22: Stellungnahme der Verwaltung zum Beschluss des Intergrationsrates in der Sitzung am 13.04.2021 zu TOP 6.2 (AN/0609/2021) - Fahrtkostenersatz für Integrationsratsmitglieder - - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zum Förderkonzeptes kulturelle Teilhabe (0517/2021) - endgültig zurückgezogen
+- TOP -: Stellungnahme zum Änderungsantrag AN/1070/2021
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Mitwirkung des Integrationsrats in der Steuerungsgruppe des Kölner Netzwerks Bürgerengagement - ungeändert beschlossen
+- TOP 8.2: Bedarfsfeststellungsbeschluss für die Ausstattung der Unterkünfte für Geflüchtete mit WLAN - ungeändert beschlossen
+- TOP 8.3: Verteilung der Mittel zur Förderung eines neuen Interkulturellen Zentrums (23 Nisan e.V.) für das Haushaltsjahr 2021 - ungeändert beschlossen
+- TOP 8.4: Mehrgenerationen Haus Lindweiler 2021 - endgültig zurückgezogen
+- TOP 8.5: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Wilhelm-Schreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bauvorhabens und Rückbau - geändert beschlossen
+- TOP 8.6: Kölner Lebenslagenbericht - geändert beschlossen
+- TOP -: Änderungsantrag zum Beschluss des Integrationsrates 1. Kölner Lebenslagenbericht 2020 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
