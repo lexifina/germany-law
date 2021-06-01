@@ -14,6 +14,7 @@
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
 - [§ 5 Epidemische Lage von nationaler Tragweite](0005.md)
 - [§ 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung](0005a.md)
+- [§ 5b Schutzmasken in der Nationalen Reserve Gesundheitsschutz](0005b.md)
 
 ## 3. Abschnitt Überwachung
 
@@ -38,7 +39,7 @@
 - [§ 19 Aufgaben des Gesundheitsamtes in besonderen Fällen](0019.md)
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
 - [§ 21 Impfstoffe](0021.md)
-- [§ 22 Impfdokumentation](0022.md)
+- [§ 22 Impfdokumentation, COVID-19-Zertifikate](0022.md)
 - [§ 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder](0023.md)
 - [§ 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten](0023a.md)
 
@@ -136,8 +137,10 @@ Erlaubnis](0047.md)
 - [§ 73 Bußgeldvorschriften](0073.md)
 - [§ 74 Strafvorschriften](0074.md)
 - [§ 75 Weitere Strafvorschriften](0075.md)
+- [§ 75a Weitere Strafvorschriften](0075a.md)
 - [§ 76 Einziehung](0076.md)
 
 ## 15. Abschnitt Übergangsvorschriften
 
 - [§ 77 Übergangsvorschriften](0077.md)
+- [Anlage (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4](anlage.md)

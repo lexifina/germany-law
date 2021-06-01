@@ -12,6 +12,7 @@
 | § 4 | Aufgaben des Robert Koch-Instituts |
 | § 5 | Epidemische Lage von nationaler Tragweite |
 | § 5a | Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung |
+| § 5b | Schutzmasken in der Nationalen Reserve Gesundheitsschutz |
 |  |
 | 3. Abschnitt - Überwachung |
 |  |
@@ -37,7 +38,7 @@
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
 | § 21 | Impfstoffe |
-| § 22 | Impfdokumentation |
+| § 22 | Impfdokumentation, COVID-19-Zertifikate |
 | § 23 | Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder |
 | § 23a | Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten |
 |  |
@@ -127,6 +128,7 @@
 | § 73 | Bußgeldvorschriften |
 | § 74 | Strafvorschriften |
 | § 75 | Weitere Strafvorschriften |
+| § 75a | Weitere Strafvorschriften |
 | § 76 | Einziehung |
 |  |
 | 15. Abschnitt - Übergangsvorschriften |

@@ -284,6 +284,7 @@
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)
 - [§ 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren](0130.md)
 - [§ 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren](0131.md)
+- [§ 132 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit](0132.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
 (BGBl. II 1990, 889, 1046)
