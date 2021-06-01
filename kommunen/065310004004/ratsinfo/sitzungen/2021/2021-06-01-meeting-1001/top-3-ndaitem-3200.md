@@ -1,0 +1,10 @@
+# TOP 3.: Investitionsprogramm HESSENKASSE hier: Anmeldung einer Maßnahme i.R.d. Hessenkassegesetzes des Landes Abt. III
+
+- Sitzung: Gemeindevertretung (2. Sitzung) (2021-06-01)
+- Körperschaft: Gemeinde Fernwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/agendaitem/3200
+- Ergebnis: 24 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- Beratung: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/consultation/1370
+- Beschluss (Datei): Beschlußtext (Investitionsprogramm HESSENKASSE
+hier: Anmeldung einer Maßnahme i.R.d. Hessenkassegesetzes des Landes Abt. III) https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVaKUDRxF-jeQRItocn--88_xfrIjXjD_8XenlqrA4c4/Beschlusstext_VL-17-2021_-oeffentlich-_Gemeindevertretung_01.06.2021.pdf
