@@ -10,6 +10,7 @@
 - [§ 7 Automatisches Schiffsidentifizierungssystem](0007.md)
 - [§ 8 Unionsinspektoren](0008.md)
 - [§ 9 Mitwirkung der Zollbehörden bei der Überwachung der Einfuhr, Ausfuhr und Durchfuhr von Fischereierzeugnissen](0009.md)
+- [§ 9a Datenverarbeitung durch Zollverwaltung und Bundespolizei](0009a.md)
 - [§ 10 Datenbanken und Validierungssystem](0010.md)
 - [§ 11 Datenaustausch](0011.md)
 - [§ 12 Internetseite](0012.md)
