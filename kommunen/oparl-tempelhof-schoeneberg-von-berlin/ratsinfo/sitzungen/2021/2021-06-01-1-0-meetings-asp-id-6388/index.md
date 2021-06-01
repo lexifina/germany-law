@@ -1,0 +1,52 @@
+# 44. öffentliche Sitzung des Ausschusses für Schule gemeinsam mit der 44. öffentlichen Sitzung des Jugendhilfeausschusses - Die Sitzung findet im VIDEOCALL statt. Die Zugangsdaten entnehmen Sie bitte dem Infoblatt VIDEOCALL.
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-06-01T17:00:00+02:00
+- Ende: 2021-06-01T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22, https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=20
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6388
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6388
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=382979
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung der Protokolle der 10., 27., 41.,42. und 43. Sitzung des Schulausschusses, falls vorliegend - im Ausschuss abgelehnt
+- TOP 3: Bericht zur Arbeit des Kinder- und Jugendparlaments - im Ausschuss abgelehnt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Kostenfreie Menstruationsprodukte auf Mädchentoiletten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Mehr Wahlpflichtunterricht an Schulen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Bessere Förderung an Grundschulen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Klimaschutz – jetzt handeln! - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Gleichberechtigung bei den Bundesjugendspielen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.6: Mehr Jugendfreizeit <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Jugendhilfeausschuss)</span> - im Ausschuss abgelehnt
+- TOP 4.7: Mehr Jugendfreizeit! Skaterpoint am Winterfeldtplatz fördern. <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Jugendhilfeausschuss)</span> - im Ausschuss abgelehnt
+- TOP 4.8: Bewegungsaktive Jugendfreizeit ausbauen! <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Jugendhilfeausschuss)</span> - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.9: Inklusionslotsen für die Schulen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.10: Wissen zum Umgang mit dem Internet - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: Die Digitalisierung in den Schulen vorantreiben - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Besseres und abwechslungsreiches Schulessen an der Käthe-Kollwitz-Grundschule - vertagt
+- TOP 4.13: Neue Möbel für die Käthe-Kollwitz-Grundschule - im Ausschuss abgelehnt
+- TOP 4.14: Mehr geschlossene Mülleimer für die Käthe-Kollwitz-Grundschule - im Ausschuss abgelehnt
+- TOP 4.15: Mehr/neue Pflanzen für die Käthe-Kollwitz-Grundschule - im Ausschuss abgelehnt
+- TOP 4.16: Neues Spielzeug für die Käthe-Kollwitz-Grundschule - im Ausschuss abgelehnt
+- TOP 4.17: Fußballplatz an der Pöppelmannstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.18: Die Digitalisierung in der Nahariya-Grundschule - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Fußballtore für den Merseburger Fußballplatz - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Schuleingangsuntersuchungen – Rückblick und Ausblick (neue Erkenntnisse und Folgen) dazu: Herr Stadtrat Schworck - im Ausschuss abgelehnt
+- TOP 6: neue Ausrichtung zum Kinderschutz an Schulen dazu: Herr Stadtrat Schworck - im Ausschuss abgelehnt
+- TOP 7: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 7.1: Bericht aus dem Bezirksamt - im Ausschuss abgelehnt
+- TOP 7.2: Bericht der Schulaufsicht - im Ausschuss abgelehnt
+- TOP 7.3: Bericht aus dem BSA - im Ausschuss abgelehnt
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Ein Natur- und Waldlehrpfad für Lichtenrade - vertagt
+- TOP 8.2: Schulmittagessen für diejenigen ermöglichen, die zur Mittagszeit nicht in der Schule sind - vertagt
+- TOP 8.3: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen - vertagt
+- TOP 9: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 9.1: Alkoholwerbung hat nichts vor Schulen und Kitas verloren - vertagt
+- TOP 10: Verschiedenes - (offen)
+- TOP 10.1: Nächste Sitzungen: 07.09. Überweisung von DA, u.a. 2147 Ein Natur- und Waldlehrpfad für Lichtenrade (ggf. in der Naturschutzstation Marienfelde) 05.10. - im Ausschuss abgelehnt
