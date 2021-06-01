@@ -1,0 +1,56 @@
+# Bezirksvertretung Gräfrath (6. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-06-01T17:00:00+02:00
+- Ende: 2021-06-01T19:50:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf6IM_UJOB72QgX-g86DPG4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6449
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZhKe7i5u4Ll-IKFBE1sFZryDB2htiTj5PBIKjMCMqPk/Bekanntmachung_Bezirksvertretung_Graefrath_01.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS4CbILYx9GfuQDTmzaRJTU7sc3ur1X2sWV58mHvxKUx/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_01.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sauberkeit und Ordnung im öffentlichen Raum Antrag der CDU-Bezirksfraktion vom 13.04.2021
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung der Bezirksvertretung Gräfrath am 27.04.2021
+- TOP 4.: Tempo-30-Regelung im Ortskern Antrag der CDU-Bezirksfraktion vom 05.01.2021
+- TOP 5.: Sachstandsbericht Bauplanungen im Rahmen der Schulentwicklungsplanung hier: Vorstellung der Machbarkeitsstudie für Grundschule Gerber Straße
+- TOP 6.: Antragstellung für Zuwendungen zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung
+- TOP 7.: Erneuerung der Fahrbahndecke der B 224 Wuppertaler Straße zwischen Ringelstraße und Ahornstraße hier: Straßenbaumaßnahme im Rahmen der Verkehrssicherungspflicht
+- TOP 8.: Fördermittel des Heimatministeriums - mündlicher Bericht -
+- TOP 9.: Allgemeine Richtlinien des Rates für die Bezirksvertretungen der Klingenstadt Solingen
+- TOP 10.: Hauptsatzung der Klingenstadt Solingen
+- TOP 11.: Öffentliche Toiletten im Stadtbezirk Gräfrath
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Aktueller Sachstand zum Zustand der Toilettenanlage der Grundschule Yorkstraße
+- TOP 12.2: Anfragen an die Verwaltung
+- TOP 12.3: Sachstand Neubau Supermarkt auf dem alten Gräfrather Bahnhofsgelände
+- TOP 12.4: Sachstand Flüchtlingsunterkünfte an der Focher Straße und am Central
+- TOP 12.5: Bodenaufbereitungsanlage
+- TOP 12.6: Querungshilfe an der Gerberstraße
+- TOP 12.7: Markierung auf der Melanchthonstraße
+- TOP 12.8: Zustand des Briefkastens In der Freiheit
+- TOP 12.9: Bürgerantrag zum Parken in der Straße In der Freiheit
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sachstand des ehemaligen Silag-Gebäudes
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung der Bezirksvertretung Gräfrath am 27.04.2021
+- TOP 4.: Entwicklung und Vermarktung des städt. Grundstücks Wuppertaler Straße (gegenüber HARIBO)
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
