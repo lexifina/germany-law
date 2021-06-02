@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-02T14:00:00+02:00
+- Ende: 2021-06-02T19:24:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20211
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20211
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413433.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413433.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413433.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 18.03.2021 (SI-RAT/002/2021) - einstimmig beschlossen
+- TOP 4: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 5.1: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Betrug und Hygiene-Probleme bei Corona-Testzentren auch in Düsseldorf? - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Problematiken in und um den Hofgarten - schriftlich beantwortet
+- TOP 6.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: lebens- und liebenswerte Rheinuferpromenade an 24 Stunden, 7 Tagen in der Woche - schriftlich beantwortet
+- TOP 6.3: Anfrage der Ratsfraktion DIE LINKE: Konzepte und Maßnahmen gegen die Verbreitung rassistischen Gedankenguts durch die Bruderschaft Deutschland in einigen Stadtteilen - schriftlich beantwortet
+- TOP 6.4: Anfrage der Ratsfraktion SPD/Volt: Nutzung und Inanspruchnahme der Fördergelder aus der Kommunalrichtlinie des Bundesumweltministeriums (BMU) für den kommunalen Umwelt- und Klimaschutz in Düsseldorf - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion SPD/Volt: Auswirkungen der deutlichen Preissteigerungen bei Baumaterialien - schriftlich beantwortet
+- TOP 6.6: Anfrage der Ratsfraktion DIE LINKE: Sachstand Soziale Erhaltungssatzungen - schriftlich beantwortet
+- TOP 6.7: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Florabars und Zoo-Pavillon: Gastronomie und Kultur in den Düsseldorfer Parks - schriftlich beantwortet
+- TOP 6.8: Anfrage des Ratsherrn Lemmer: SARS-COV-2, Krankenhausbehandlungen und Impfungen - schriftlich beantwortet
+- TOP 6.9: Anfrage der Ratsfrau Krüger: Verabschieden Sterbender in Krankenhäusern bzw. Altenheimen - schriftlich beantwortet
+- TOP 6.10: Anfrage des Ratsherrn Lemmer: Brandereignis in der Nacht zum 1. April 2021 im Rheinbahndepot Heerdt - schriftlich beantwortet
+- TOP 6.11: Anfrage der Ratsfrau Krüger: Hundefreilaufflächen und Hundeschulen - schriftlich beantwortet
+- TOP 6.12: Anfrage der Ratsfrau Opelt: Impfstatistik Düsseldorf - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 12: Plan Nr. 05/019 - Kalkumer Schloßallee - mehrheitlich beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 06/018 - Theodorstraße - zwischen A52 und Wahlerstraße - mehrheitlich beschlossen
+- TOP 14: Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Betreuung von Kindern in Tageseinrichtungen, in Tagespflege und im Rahmen der Offenen Ganztagsschule im Primarbereich vom 09. Juli 2012 in der Fassung vom 15. Dezember 2016 - mehrheitlich beschlossen
+- TOP 14.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage JHA/030/2021/1 - mehrheitlich abgelehnt
+- TOP 15: Kinder und Jugendförderplan 2021 - 2025 - einstimmig beschlossen
+- TOP 15.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage JHA/032/2021/1 - mehrheitlich beschlossen
+- TOP 15.2: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage JHA/032/2021/1 - mehrheitlich abgelehnt
+- TOP 15.3: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage JHA/032/2021/1 - mehrheitlich abgelehnt
+- TOP 16: Projekt Grafenberger Allee zwischen Ivo-Beucker-Straße und Altenbergstraße, barrierefreier Ausbau der Haltestelle Schlüterstraße / Arbeitsagentur und begleitende Maßnahmen -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 16.1: Änderungsantrag der Ratsfraktion DIE LINKE und Die PARTEI-Klima-Fraktion zur Vorlage OVA/036/2021 - mehrheitlich abgelehnt
+- TOP 16.2: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage OVA/036/2021 - abweichend beschlossen
+- TOP 17: Aufsichtsrat der Düsseldorf Tourismus GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 18: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr -Ersatzbestellung- - einstimmig beschlossen
+- TOP 19: Resolution zur Stärkung der Kommunalfinanzen - zur Kenntnis genommen
+- TOP 20: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 21: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in den Ausschuss für Digitalisierung und allgemeine Verwaltungsorganisation - einstimmig beschlossen
+- TOP 22: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2017 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 23: Anträge
+- TOP 23.1: Antrag der Ratsfraktion DIE LINKE: Keine Abschaffung des Schulfaches „Sozialwissenschaften“ in NRW - mehrheitlich beschlossen
+- TOP 23.2: Antrag der Ratsfraktion DIE LINKE: Resolution zur Stärkung der Kommunalfinanzen - zurückgezogen
+- TOP 23.2.1: Ergänzungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zu Vorlage RAT/292/2021 - zurückgezogen
+- TOP 23.2.2: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/292/2021 - mehrheitlich beschlossen
+- TOP 23.3: Antrag der Ratsfraktion SPD/Volt: Düsseldorf wird korporatives Mitglied bei Transparency International - zurückgezogen
+- TOP 23.4: Antrag der Ratsfraktion DIE LINKE: Gleiche Bezahlung von Lehrkräften - mehrheitlich beschlossen
+- TOP 23.5: Antrag der Ratsfraktion SPD/Volt: Nachtbürgermeister*in für die Düsseldorfer Altstadt und weitere Stadtteilzentren - mehrheitlich abgelehnt
+- TOP 23.6: Antrag der Ratsfraktion SPD/Volt und Die PARTEI-Klima-Fraktion: Konzept zur kostenlosen Bereitstellung von Menstruationsartikeln in Behörden, Schulen und öffentlichen Einrichtungen - verwiesen
+- TOP 23.7: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, SPD/Volt, FDP und Die PARTEI-Klima-Fraktion: Stärkung der Antikorruptionsarbeit - mehrheitlich beschlossen
+- TOP 23.8: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Düsseldorf braucht eine digitale Oper - pandemie- und krisenfest! - mehrheitlich abgelehnt
+- TOP 23.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Kostenlose Menstruationsartikel für Düsseldorf - zurückgezogen
+- TOP 23.10: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Verbot von Schotter- und Kiesgärten bei Neu-und Umbauten - verwiesen
+- TOP 23.10.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/370/2021 - verwiesen
+- TOP 23.11: Antrag der AfD-Ratsfraktion: Aufhebung Maskenpflicht im öffentlichen Raum - mehrheitlich abgelehnt
+- TOP 23.12: Antrag der AfD-Ratsfraktion: Abschaffung der Gendersprache bei der Stadtverwaltung - mehrheitlich abgelehnt
+- TOP 23.13: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Die neuere Düsseldorfer Musikgeschichte als Teil der künftigen Dauerausstellung im „Haus der Geschichte Nordrhein-Westfalen“ - mehrheitlich beschlossen
+- TOP 23.14: Antrag der Ratsfraktion DIE LINKE: Leerstehende Wohneinheiten transparent machen - verwiesen
+- TOP 23.15: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Resolution gegen Antisemitismus - einstimmig beschlossen
+- TOP 24: Aufhebung der Freigabe des verkaufsoffenen Sonntagnachmittages in den Stadtteilen Bilk, Unterbilk und Friedrichstadt am Sonntag, dem 06.06.2021 - mehrheitlich beschlossen
+- TOP 25: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Förderprogramm für die Anschaffung von Lastenrädern, Aufstockung - mehrheitlich beschlossen
