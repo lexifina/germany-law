@@ -1,0 +1,56 @@
+# 55. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-06-02T17:34:00+02:00
+- Ende: 2021-06-02T20:15:00+02:00
+- Ort: UNVG , https://global.gotomeeting.com/join/487267477
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5324
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5324
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=506599
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=509615
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 48. Sitzung am 18.11.2020 - vertagt
+- TOP 1.2.2: der 51. Sitzung am 26.01.2021 (verschickt am 27.04.2021) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.3: der 52. Sitzung am 03.03.2021 (verschickt am 12.05.2021) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.4: der 53. Sitzung am 04.05.2021 (verschickt am 15.05.2021) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.5: der 54. Sitzung am 05.05.2021 (verschickt am 25.05.2021) - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Planungen des Weddingplatzes BE: Bezirksamt - erledigt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Beratung von Drucksachen - (offen)
+- TOP 5.1: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - vertagt
+- TOP 5.2: Roter Atlas gefährdeter Arten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Sicherheit bei der gemeinsamen Nutzung der Schillingstraße durch Fußgänger und Radfahrer erhöhen - im Ausschuss abgelehnt
+- TOP 5.4: Straßenfeste auf Mittes Straßen nach Corona ermöglichen und ertüchtigen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.5: Mehr Platz in der Corona-Pandemie II - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.6: Bismarck-Denkmal reinigen! - erledigt
+- TOP 5.7: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.8: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.9: Inklusivität auf unseren Spielplätzen steigern - vertagt
+- TOP 5.10: Haltebügel für Radfahrende in der Hauptstadtmitte - vertagt
+- TOP 5.11: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.12: Landschaftsschutzgebiet in der Rehberge ausdehnen - vertagt
+- TOP 5.13: Rodelbahn wiederherstellen - vertagt
+- TOP 5.14: Weniger Müll in Mitte II - vertagt
+- TOP 5.15: Stolperfreies Spielen ermöglichen! - vertagt
+- TOP 5.16: Grünanlage an der Panke schützen - vertagt
+- TOP 5.17: Platz da, Mazda – Autofreie Zentralhaltestelle Turmstraße - vertagt
+- TOP 5.18: Ein neues Zentrum für Kinder und Jugendliche am Sprengelkiez! - vertagt
+- TOP 5.19: Multimodale und autofreie Straßenbahnhaltestellen frühzeitig planen - vertagt
+- TOP 5.20: Hinterlandmauer zwischen Berg- und Gartenstraße dauerhaft für Graffiti-Kunst freigeben - vertagt
+- TOP 5.21: Mehr Graffiti-Sprühflächen für Mitte – Geduldete Hall of Fames am Nordbahnhof dauerhaft legalisieren und für die Allgemeinheit zugänglich machen! - vertagt
+- TOP 5.22: Café am Engelbecken – Durchwegung für alle öffnen - vertagt
+- TOP 6: Verschiedenes - erledigt
+- TOP 7: Terminplanung - (offen)
