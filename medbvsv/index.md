@@ -5,6 +5,7 @@
 - [§ 2 Beschaffung und Abgabe durch Behörden des Bundes](0002.md)
 - [§ 3 Ausnahmen vom Arzneimittelgesetz und der Arzneimittelhandelsverordnung zur Beschaffung und Abgabe gemäß § 2](0003.md)
 - [§ 4 Weitere Ausnahmen vom Arzneimittelgesetz, von der Arzneimittel- und Wirkstoffherstellungsverordnung und der Arzneimittel-Härtefall-Verordnung sowie Anordnung von Maßnahmen](0004.md)
+- [§ 4a Ausnahmen vom Heilmittelwerbegesetz](0004a.md)
 - [§ 5 Ausnahmen vom Transfusionsgesetz](0005.md)
 - [§ 6 Ausnahmen von der AMG-Kostenverordnung](0006.md)
 - [§ 7 Ausnahmen von der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz](0007.md)
