@@ -1,5 +1,5 @@
 # § 4b Schulstandorte im ländlichen Raum
-(1) Abweichend von § 4a Absatz 1 Satz 1 Nummer 1 können im ländlichen Raum außerhalb von Mittel- und Oberzentren bestehende Grundschulen fortgeführt werden:
+(1) Abweichend von § 4a Absatz 1 Satz 1 Nummer 1 können im ländlichen Raum außerhalb der Kernbereiche von Mittelzentren (Gebietsstand zum 1. Januar 1991) und von Oberzentren bestehende Grundschulen fortgeführt werden:
 1. mit einer Gesamtschülerzahl von mindestens 60 Schülern, wobei jede Klassenstufe mindestens zwölf Schüler aufweisen muss, oder
 2. als Grundschulstandorte mit jahrgangsübergreifendem Unterricht gemäß § 5 Absatz 2 Satz 3; die Mindestschülerzahl beträgt 15 Schüler für jede jahrgangsübergreifende Klasse.
 (2) Abweichend von § 4a Absatz 3 Satz 1 können im ländlichen Raum außerhalb von Oberzentren bestehende Oberschulen einzügig fortgeführt werden.
