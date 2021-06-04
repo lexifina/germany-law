@@ -1,0 +1,8 @@
+# TOP -: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss Klima, Umwelt und Grün
+
+- Sitzung: Sitzung des Ausschusses Klima, Umwelt und Grün (2021-06-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/325767
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/153350
