@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-04T16:00:00+02:00
+- Ende: 2021-06-04T16:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23709
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23709
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss Klima, Umwelt und Grün - ungeändert beschlossen
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln - ungeändert empfohlen
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Gesundes aus der Region – Mehr Bio-Produkte und regionale Lebensmittel in städtischen Kantinen, Schulen und Kitas! - Kenntnis genommen
+- TOP 1.2: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientierte Nahrung für unsere Stadt - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Wölfe in Köln - Kenntnis genommen
+- TOP 2.1.1: Wölfe in Köln AN/1235/2021 - Kenntnis genommen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Bedarfsfeststellungsbeschluss für eine kommunikative Begleitung der Strategie Klimaneutrales Köln: Entwicklung und Umsetzung einer Kommunikations- und Partizipationsstrategie - ohne Votum in nachfolgende Gremien
+- TOP 3.2: Projekte im Rahmen der Klimapartnerschaft mit Yarinacocha - zurückgestellt
+- TOP 3.3: Stadtradeln 2021 - Kenntnis genommen
+- TOP 3.4: Strategie Klimaneutrales Köln - Sachstand Mai 2021 und Sofortmaßnahmen der PG Energie und Mobilität - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Grundsatzbeschluss zur Umsetzung des im Rahmen des kooperativen Baulandmodells zu erbringenden Grünflächennachweises - zurückgestellt
+- TOP 4.1.2: Grünzug Chorweiler Nord - Wegebau - mit Änderungen empfohlen
+- TOP 4.1.3: Fortschreibung der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2021-2025 - mit Änderungen empfohlen
+- TOP 4.1.3.1: Dringlichkeitsantrag der Bündnis 90/Die GRÜNEN, CDU und Volt-Fraktion Förderung Umwandlung von Tennen- in Naturrasenplätze - ungeändert empfohlen
+- TOP 4.1.4: Kölner Lebenslagenbericht - ungeändert empfohlen
+- TOP 4.1.5: Mittelfreigabe zur Sanierung städtischer Brunnen - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Konzept: Obst-Aboretum Köln - geändert beschlossen
+- TOP 4.2.1.1: TOP 4.2.1 Konzept: Obst-Aboretum Köln - ungeändert beschlossen
+- TOP 4.2.2: StadtGrün naturnah: Anlage von Artenreichen Wiesen - ungeändert beschlossen
+- TOP 4.2.3: StadtGrün naturnah: Monitoringskonzept Artenreichen Wiesen - ungeändert beschlossen
+- TOP 4.2.4: Eingabe nach §24 GO - "Vertical Farming in Köln" Aktenzeichen 216/20 B - zurückgestellt
+- TOP 4.2.5: Beauftragung von technischen Prüfungen im Rahmen der Antragsbearbeitung im Förderprogramm „Altbausanierung und Energieeffizienz – klimafreundliches Wohnen“ - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Sachstand: Erfassung der Geruchslage im Bereich der Weidengasse durch ein Gutachten nach Geruchsimmissionsrichtlinie (GIRL) durch das Umwelt- und Verbraucherschutzamt der Stadt Köln - Kenntnis genommen
+- TOP 7.2: Öffentlichkeitsbeteiligung Projekt Glashüttenstraße - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.4: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 7.5: Förderprogramm Umweltbildung: Bilanz nach 8 Monaten - Kenntnis genommen
+- TOP 7.6: Masterplan Dezernat V - zurückgestellt
+- TOP 7.7: Markthochlauf der Wasserstoffwirtschaft in Köln und der Region - Kenntnis genommen
+- TOP 7.8: Gewässerunterhaltungsmaßnahme zum naturnahen Umbau des Fronweihers in Worringen - Kenntnis genommen
+- TOP 7.9: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 31. Mai 2021 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage zu Top 7.8 Baumschutzsatzung - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
