@@ -336,17 +336,9 @@ Druckanlagen
 | ZÜS/bP | 10 Jahre | ZÜS | 5 Jahre | entfällt | ZÜS | 5 Jahre |
 | bP | 10 Jahre | bP | 10 Jahre |
 |  | Für Schalldämpfer, die in Rohrleitungen im Sinne von Nr. 2.1 Satz 1 Buchstabe d eingebaut sind, findet Nr. 5.6 Satz 2 entsprechende Anwendung. |
-| 7.10 | Druckbehälter von Feuerlöschern und Löschmittelbehälter |
-|  | a) | Tragbare Feuerlöscher | Entfällt, sofern als funktionsfertige Baugruppe nach Richtlinie 2014/68/EU in Verkehr gebracht | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
-| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 10 Jahre |
-| bP | 10 Jahre | bP | 10 Jahre |
-|  |
-|  | b) | Druckbehälter von Feuer-löschern, die nur im Einsatzunter Druck gesetzt werden,oder CO2 enthalten | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
-| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 10 Jahre |
-| bP | 10 Jahre | bP | 10 Jahre |
-|  |  |
-|  | c) | Löschmittelbehälter für stationäre Löschanlagen,die zur Speicherung vonnicht korrosiv wirkendenLöschgasen dienen | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
-| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 10 Jahre |
+| 7.10 | Druckbehälter von Feuerlöschern und Löschmittelbehältern |
+|  |  | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
+| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 5 Jahre |
 | bP | 10 Jahre | bP | 10 Jahre |
 |  |  |
 | 7.11 | Druckbehälter und Rohrleitungen mit Auskleidung oder Ausmauerung |
@@ -372,13 +364,14 @@ Druckanlagen
 | bP | 10 Jahre |
 |  |  |
 | 7.13 | Fahrzeugbehälter für flüssige, körnige oder staubförmige Güter |
-|  | a) | Fahrzeugbehälter für körnigeoder staubförmige Güter | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
+|  | a) | Fahrzeugbehälter für körnige oder staubförmige Güter | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
 | entfällt | ZÜS | 2 Jahre | ZÜS | 5 Jahre | entfällt |
-| bP | 10 Jahre | bP | 10 Jahre |
+|  |  | bP | 10 Jahre |
 |  |  |
-|  | b) | Fahrzeugbehälter für flüssigeGüter | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
+|  | b) | Fahrzeugbehälter für flüssige Güter | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
 | entfällt | ZÜS | 2 Jahre | ZÜS | 5 Jahre | ZÜS | 10 Jahre |
-| bP | 10 Jahre | bP | 10 Jahre | bP | 10 Jahre |
+|  |  | bP | 10 Jahre | bP | 10 Jahre |
+|  |  |
 | 7.14 | Druckbehälter für Gase oder Gasgemische in flüssiger oder gasförmiger Phase |
 |  | a) | Die Aufstellung von Druckbehältern für Gase oder Gasgemische, die auf die drucktragende Wandung keine korrodierende Wirkung haben und die in Serie gefertigt wurden und die nach Nr. 6 Tabelle 3 und 4 in die Prüfzuständigkeit einer ZÜS fallen, kann von einer bP geprüft werden, wenn der Behälter mit Ausrüstung als Baugruppe im Sinne der Richtlinie 2014/68/EU in Verkehr gebracht wurde und die Ausrüstung im Sinne des Artikels 2 Nr. 4 und 5 der Richtlinie 2014/68/EU in der Baugruppe enthalten ist. |
 |  | b) | Bei Druckbehältern, die zur Durchführung wiederkehrender Prüfungen von ihrem Aufstellungsort entfernt und nach Durchführungen dieser Prüfungen an einem anderen Ort wieder aufgestellt werden, kann die erneute Prüfung vor Inbetriebnahme entfallen, aa) sofern die Anschlüsse und die Ausrüstungsteile des Druckbehälters nicht geändert worden sind und bb) am neuen Aufstellungsort bereits eine Prüfung der dort vorhandenen Anlagenteile vor Inbetriebnahme eines gleichartigen Druckbehälters durchgeführt worden ist. |

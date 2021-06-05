@@ -14,7 +14,7 @@ Krane
   d) über die für die Prüfung erforderlichen Einrichtungen und Unterlagen verfügen und
   e) ihre fachlichen Kenntnisse auf aktuellem Stand halten.
 3. Prüffristen, Prüfzuständigkeiten und Prüfaufzeichnungen
-3.1 Für kraftbetriebene Krane gelten die in Tabelle 1 festgelegten Prüffristen und Prüfzuständigkeiten.
+3.1 Für kraftbetriebene Krane gelten die in Tabelle 1 festgelegten Prüffristen und Prüfzuständigkeiten. Sofern dort eine wiederkehrende Prüfung durch einen Prüfsachverständigen vorgeschrieben ist, muss nicht zusätzlich eine Prüfung durch eine zur Prüfung befähigte Person durchgeführt werden.
 3.2 Für handbetriebene oder teilkraftbetriebene Krane gelten die in Tabelle 2 festgelegten Prüffristen und Prüfzuständigkeiten.
 3.3 Abweichend von § 14 Absatz 7 Satz 1 sind Aufzeichnungen über die gesamte Verwendungsdauer des Arbeitsmittels aufzubewahren.
 3.4 Die in den Tabellen 1 und 2 genannten Krane sind nach außergewöhnlichen Ereignissen durch eine zur Prüfung befähigte Person nach § 2 Absatz 6 und nach prüfpflichtigen Änderungen durch einen Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt.
@@ -82,7 +82,7 @@ Maschinentechnische Arbeitsmittel der Veranstaltungstechnik
   e) über die für die Prüfung erforderlichen Einrichtungen und Unterlagen verfügen und
   f) ihre fachlichen Kenntnisse auf aktuellem Stand halten.
 3. Prüfzuständigkeiten, Prüffristen und Prüfaufzeichnungen
-3.1 Für die unter Nummer 1 genannten Arbeitsmittel gelten die in der nachfolgenden Tabelle festgelegten Prüffristen und Prüfzuständigkeiten.
+3.1 Für die unter Nummer 1 genannten Arbeitsmittel gelten die in der nachfolgenden Tabelle festgelegten Prüffristen und Prüfzuständigkeiten. Sofern dort eine wiederkehrende Prüfung durch einen Prüfsachverständigen vorgeschrieben ist, muss nicht zusätzlich eine Prüfung durch eine zur Prüfung befähigte Person durchgeführt werden.
 3.2 Die in Tabelle 1 genannten maschinentechnischen Arbeitsmittel der Veranstaltungstechnik sind nach außergewöhnlichen Ereignissen und nach prüfpflichtigen Änderungen von einem Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 und 2 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt.
   | Tabelle 1 Prüfzuständigkeiten und Prüffristen |
   | maschinentechnisches Arbeitsmittelder Veranstaltungstechnik | Prüfung nach Montage, Installation und vor der ersten Inbetriebnahme | Wiederkehrende Prüfung |
