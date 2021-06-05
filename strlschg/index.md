@@ -51,7 +51,7 @@
 
 #### Abschnitt 4 Beförderung radioaktiver Stoffe; grenzüberschreitende Verbringung
 
-- [§ 27 Genehmigungsbedürftige Beförderung](0027.md)
+- [§ 27 Genehmigungsbedürftige Beförderung sonstiger radioaktiver Stoffe](0027.md)
 - [§ 28 Genehmigungsfreie Beförderung](0028.md)
 - [§ 29 Voraussetzungen für die Erteilung der Genehmigung](0029.md)
 - [§ 30 Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe](0030.md)
@@ -174,6 +174,7 @@
 - [§ 93 Referenzwerte für den Schutz der Bevölkerung; Verordnungsermächtigungen](0093.md)
 - [§ 94 Dosiswerte und Kontaminationswerte für den Schutz der Bevölkerung; Verordnungsermächtigungen](0094.md)
 - [§ 95 Bewirtschaftung von Abfällen, die infolge eines Notfalls kontaminiert sein können, Errichtung und Betrieb von Anlagen; Verordnungsermächtigungen](0095.md)
+- [§ 95a Auskunftsverlangen, Betretensrechte, Mitwirkungs- und Duldungspflichten](0095a.md)
 - [§ 96 Eilverordnungen](0096.md)
 
 #### Abschnitt 3 Notfallvorsorge
@@ -237,6 +238,7 @@
 - [§ 129 Anmeldung](0129.md)
 - [§ 130 Abschätzung der Exposition](0130.md)
 - [§ 131 Beruflicher Strahlenschutz](0131.md)
+- [§ 131a Aufgabe oder Änderung des angemeldeten Arbeitsplatzes](0131a.md)
 - [§ 132 Verordnungsermächtigung](0132.md)
 
 ### Kapitel 3 Schutz vor Radioaktivität in Bauprodukten
@@ -311,7 +313,7 @@
 ## Teil 6 Strahlenschutzrechtliche Aufsicht, Verwaltungsverfahren
 
 - [§ 178 Strahlenschutzrechtliche Aufsicht](0178.md)
-- [§ 179 Anwendung des Atomgesetzes](0179.md)
+- [§ 179 Anwendung des Atomgesetzes; Anordnungsbefugnis](0179.md)
 - [§ 180 Aufsichtsprogramm; Verordnungsermächtigung](0180.md)
 - [§ 181 Umweltverträglichkeitsprüfung](0181.md)
 - [§ 182 Schriftform, elektronische Kommunikation](0182.md)
@@ -329,6 +331,7 @@
 - [§ 191 Geschäftsbereich des Bundesministeriums der Verteidigung](0191.md)
 - [§ 192 Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung](0192.md)
 - [§ 193 Informationsübermittlung](0193.md)
+- [§ 193a Ausstattung der zuständigen Behörden](0193a.md)
 
 ## Teil 8 Schlussbestimmungen
 

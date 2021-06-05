@@ -38,13 +38,13 @@
 #### Abschnitt 3 Bauartzulassung
 
 - [§ 16 Technische Anforderungen an die Bauartzulassung einer Vorrichtung, die sonstige radioaktive Stoffe enthält](0016.md)
-- [§ 17 Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung](0017.md)
+- [§ 17 Technische Anforderungen an die Bauartzulassung von Störstrahlern](0017.md)
 - [§ 18 Technische Anforderungen an die Bauartzulassung von Röntgenstrahlern](0018.md)
 - [§ 19 Technische Anforderungen an die Bauartzulassung von Basisschutzgeräten](0019.md)
 - [§ 20 Technische Anforderungen an die Bauartzulassung von Hochschutzgeräten](0020.md)
 - [§ 21 Technische Anforderungen an die Bauartzulassung von Vollschutzgeräten](0021.md)
 - [§ 22 Technische Anforderungen an die Bauartzulassung von Schulröntgeneinrichtungen](0022.md)
-- [§ 23 Technische Anforderungen an die Bauartzulassung von Störstrahlern](0023.md)
+- [§ 23 Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung als Vollschutzanlage](0023.md)
 - [§ 24 Pflichten des Inhabers einer Bauartzulassung](0024.md)
 - [§ 25 Pflichten des Inhabers einer bauartzugelassenen Vorrichtung](0025.md)
 - [§ 26 Bekanntmachung](0026.md)

@@ -14,5 +14,5 @@ Rückstände im Sinne dieses Gesetzes sind auch
 2. Formstücke aus den in Satz 1 genannten Materialien sowie
 3. ausgehobener oder abgetragener Boden und Bauschutt aus dem Abbruch von Gebäuden oder sonstigen baulichen Anlagen, wenn dieser Boden und Bauschutt Rückstände nach Satz 1 enthält und gemäß § 64 nach der Beendigung von Tätigkeiten oder gemäß § 141 von Grundstücken entfernt wird.
 Keine Rückstände im Sinne dieses Gesetzes sind Materialien nach Satz 1,
-1. deren spezifische Aktivität für jedes Radionuklid der Nuklidketten U-238sec und Th-232sec unter 0,2 Becquerel durch Gramm (Bq/g) liegt und die nicht als Bauprodukte verwertet werden, oder
+1. deren spezifische Aktivität für jedes Radionuklid der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe unter 0,2 Becquerel durch Gramm (Bq/g) liegt und die nicht als Bauprodukte verwertet werden, oder
 2. die in dort genannte technologische Prozesse als Rohstoffe eingebracht werden.

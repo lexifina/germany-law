@@ -37,13 +37,13 @@ Verbringung radioaktiver Stoffe
 Abschnitt 3
 Bauartzulassung
 | § 16 | Technische Anforderungen an die Bauartzulassung einer Vorrichtung, die sonstige radioaktive Stoffe enthält |
-| § 17 | Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung |
+| § 17 | Technische Anforderungen an die Bauartzulassung von Störstrahlern |
 | § 18 | Technische Anforderungen an die Bauartzulassung von Röntgenstrahlern |
 | § 19 | Technische Anforderungen an die Bauartzulassung von Basisschutzgeräten |
 | § 20 | Technische Anforderungen an die Bauartzulassung von Hochschutzgeräten |
 | § 21 | Technische Anforderungen an die Bauartzulassung von Vollschutzgeräten |
 | § 22 | Technische Anforderungen an die Bauartzulassung von Schulröntgeneinrichtungen |
-| § 23 | Technische Anforderungen an die Bauartzulassung von Störstrahlern |
+| § 23 | Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung als Vollschutzanlage |
 | § 24 | Pflichten des Inhabers einer Bauartzulassung |
 | § 25 | Pflichten des Inhabers einer bauartzugelassenen Vorrichtung |
 | § 26 | Bekanntmachung |
