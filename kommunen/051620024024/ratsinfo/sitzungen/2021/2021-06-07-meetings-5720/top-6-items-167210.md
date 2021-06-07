@@ -1,0 +1,6 @@
+# TOP 6: Feststellung des Ergebnisses der Wiederholungswahl zum Integrationsausschuss
+
+- Sitzung: Wahlausschuss (2021-06-07)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/167210
