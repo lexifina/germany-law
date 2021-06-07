@@ -47,12 +47,14 @@
 - [§ 19a Recht der öffentlichen Zugänglichmachung](0019a.md)
 - [§ 20 Senderecht](0020.md)
 - [§ 20a Europäische Satellitensendung](0020a.md)
-- [§ 20b Kabelweitersendung](0020b.md)
+- [§ 20b Weitersendung](0020b.md)
+- [§ 20c Europäischer ergänzender Online-Dienst](0020c.md)
+- [§ 20d Direkteinspeisung](0020d.md)
 - [§ 21 Recht der Wiedergabe durch Bild- oder Tonträger](0021.md)
 - [§ 22 Recht der Wiedergabe von Funksendungen und von öffentlicher
 Zugänglichmachung](0022.md)
 - [§ 23 Bearbeitungen und Umgestaltungen](0023.md)
-- [§ 24 Freie Benutzung](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 
 #### Unterabschnitt 4 Sonstige Rechte des Urhebers
 
@@ -77,15 +79,19 @@ Zugänglichmachung](0022.md)
 - [§ 32a Weitere Beteiligung des Urhebers](0032a.md)
 - [§ 32b Zwingende Anwendung](0032b.md)
 - [§ 32c Vergütung für später bekannte Nutzungsarten](0032c.md)
-- [§ 32d Anspruch auf Auskunft und Rechenschaft](0032d.md)
-- [§ 32e Anspruch auf Auskunft und Rechenschaft in der Lizenzkette](0032e.md)
+- [§ 32d Auskunft und Rechenschaft des Vertragspartners](0032d.md)
+- [§ 32e Auskunft und Rechenschaft Dritter in der Lizenzkette](0032e.md)
+- [§ 32f Mediation und außergerichtliche Konfliktbeilegung](0032f.md)
+- [§ 32g Vertretung durch Vereinigungen](0032g.md)
 - [§ 33 Weiterwirkung von Nutzungsrechten](0033.md)
 - [§ 34 Übertragung von Nutzungsrechten](0034.md)
 - [§ 35 Einräumung weiterer Nutzungsrechte](0035.md)
+- [§ 35a Mediation und außergerichtliche Konfliktbeilegung bei Videoabrufdiensten](0035a.md)
 - [§ 36 Gemeinsame Vergütungsregeln](0036.md)
 - [§ 36a Schlichtungsstelle](0036a.md)
 - [§ 36b Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln](0036b.md)
 - [§ 36c Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln](0036c.md)
+- [§ 36d Unterlassungsanspruch bei Nichterteilung von Auskünften](0036d.md)
 - [§ 37 Verträge über die Einräumung von Nutzungsrechten](0037.md)
 - [§ 38 Beiträge zu Sammlungen](0038.md)
 - [§ 39 Änderungen des Werkes](0039.md)
@@ -103,6 +109,7 @@ Zugänglichmachung](0022.md)
 #### Unterabschnitt 1 Gesetzlich erlaubte Nutzungen
 
 - [§ 44a Vorübergehende Vervielfältigungshandlungen](0044a.md)
+- [§ 44b Text und Data Mining](0044b.md)
 - [§ 45 Rechtspflege und öffentliche Sicherheit](0045.md)
 - [§ 45a Menschen mit Behinderungen](0045a.md)
 - [§ 45b Menschen mit einer Seh- oder Lesebehinderung](0045b.md)
@@ -114,6 +121,7 @@ Zugänglichmachung](0022.md)
 - [§ 49 Zeitungsartikel und Rundfunkkommentare](0049.md)
 - [§ 50 Berichterstattung über Tagesereignisse](0050.md)
 - [§ 51 Zitate](0051.md)
+- [§ 51a Karikatur, Parodie und Pastiche](0051a.md)
 - [§ 52 Öffentliche Wiedergabe](0052.md)
 - [(XXXX) §§ 52a und 52b (weggefallen)](xxxx-52a-und-52b.md)
 - [§ 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch](0053.md)
@@ -146,7 +154,7 @@ Zugänglichmachung](0022.md)
 - [§ 60a Unterricht und Lehre](0060a.md)
 - [§ 60b Unterrichts- und Lehrmedien](0060b.md)
 - [§ 60c Wissenschaftliche Forschung](0060c.md)
-- [§ 60d Text und Data Mining](0060d.md)
+- [§ 60d Text und Data Mining für Zwecke der wissenschaftlichen Forschung](0060d.md)
 - [§ 60e Bibliotheken](0060e.md)
 - [§ 60f Archive, Museen und Bildungseinrichtungen](0060f.md)
 - [§ 60g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis](0060g.md)
@@ -158,6 +166,13 @@ Zugänglichmachung](0022.md)
 - [§ 61a Sorgfältige Suche und Dokumentationspflichten](0061a.md)
 - [§ 61b Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution](0061b.md)
 - [§ 61c Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten](0061c.md)
+
+#### Unterabschnitt 5a Besondere gesetzlich erlaubte Nutzungen nicht verfügbarer Werke
+
+- [§ 61d Nicht verfügbare Werke](0061d.md)
+- [§ 61e Verordnungsermächtigung](0061e.md)
+- [§ 61f Information über nicht verfügbare Werke](0061f.md)
+- [§ 61g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis](0061g.md)
 
 #### Unterabschnitt 6 Gemeinsame Vorschriften für gesetzlich erlaubte Nutzungen
 
@@ -171,7 +186,7 @@ Zugänglichmachung](0022.md)
 - [§ 65 Miturheber, Filmwerke, Musikkomposition mit Text](0065.md)
 - [§ 66 Anonyme und pseudonyme Werke](0066.md)
 - [§ 67 Lieferungswerke](0067.md)
-- [§ 68 (weggefallen)](0068.md)
+- [§ 68 Vervielfältigungen gemeinfreier visueller Werke](0068.md)
 - [§ 69 Berechnung der Fristen](0069.md)
 
 ### Abschnitt 8 Besondere Bestimmungen
@@ -182,7 +197,7 @@ für Computerprogramme
 - [§ 69c Zustimmungsbedürftige Handlungen](0069c.md)
 - [§ 69d Ausnahmen von den zustimmungsbedürftigen Handlungen](0069d.md)
 - [§ 69e Dekompilierung](0069e.md)
-- [§ 69f Rechtsverletzungen](0069f.md)
+- [§ 69f Rechtsverletzungen; ergänzende Schutzbestimmungen](0069f.md)
 - [§ 69g Anwendung sonstiger Rechtsvorschriften, Vertragsrecht](0069g.md)
 
 ## Teil 2 Verwandte Schutzrechte
@@ -234,9 +249,12 @@ Tonträgern
 
 ### Abschnitt 7 Schutz des Presseverlegers
 
-- [§ 87f Presseverleger](0087f.md)
-- [§ 87g Übertragbarkeit, Dauer und Schranken des Rechts](0087g.md)
-- [§ 87h Beteiligungsanspruch des Urhebers](0087h.md)
+- [§ 87f Begriffsbestimmungen](0087f.md)
+- [§ 87g Rechte des Presseverlegers](0087g.md)
+- [§ 87h Ausübung der Rechte des Presseverlegers](0087h.md)
+- [§ 87i Vermutung der Rechtsinhaberschaft; gesetzlich erlaubte Nutzungen](0087i.md)
+- [§ 87j Dauer der Rechte des Presseverlegers](0087j.md)
+- [§ 87k Beteiligungsanspruch](0087k.md)
 
 ## Teil 3 Besondere Bestimmungen für Filme
 
@@ -360,6 +378,7 @@ anderer EU-Staaten und EWR-Staaten](0120.md)
 - [§ 126 Schutz des Herstellers von Tonträgern](0126.md)
 - [§ 127 Schutz des Sendeunternehmens](0127.md)
 - [§ 127a Schutz des Datenbankherstellers](0127a.md)
+- [§ 127b Schutz des Presseverlegers](0127b.md)
 - [§ 128 Schutz des Filmherstellers](0128.md)
 
 ### Abschnitt 2 Übergangsbestimmungen
@@ -368,7 +387,7 @@ anderer EU-Staaten und EWR-Staaten](0120.md)
 - [§ 130 Übersetzungen](0130.md)
 - [§ 131 Vertonte Sprachwerke](0131.md)
 - [§ 132 Verträge](0132.md)
-- [§ 133 (weggefallen)](0133.md)
+- [§ 133 Übergangsregelung bei der Umsetzung vertragsrechtlicher Bestimmungen der Richtlinie (EU) 2019/790](0133.md)
 - [§ 134 Urheber](0134.md)
 - [§ 135 Inhaber verwandter Schutzrechte](0135.md)
 - [§ 135a Berechnung der Schutzfrist](0135a.md)
@@ -389,6 +408,9 @@ anderer EU-Staaten und EWR-Staaten](0120.md)
 - [§ 137m Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU](0137m.md)
 - [§ 137n Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU](0137n.md)
 - [§ 137o Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz](0137o.md)
+- [§ 137p Übergangsregelung aus Anlass der Umsetzung der Richtlinie (EU) 2019/789](0137p.md)
+- [§ 137q Übergangsregelung zur Verlegerbeteiligung](0137q.md)
+- [§ 137r Übergangsregelung zum Schutz des Presseverlegers](0137r.md)
 
 ### Abschnitt 3 Schlussbestimmungen
 
@@ -398,6 +420,6 @@ anderer EU-Staaten und EWR-Staaten](0120.md)
 - [§ 140 Änderung des Gesetzes über das am 6. September 1952
 unterzeichnete Welturheberrechtsabkommen](0140.md)
 - [§ 141 Aufgehobene Vorschriften](0141.md)
-- [§ 142 Evaluierung, Befristung](0142.md)
+- [§ 142 Evaluierung](0142.md)
 - [§ 143 Inkrafttreten](0143.md)
 - [Anlage (zu § 61a) Quellen einer sorgfältigen Suche](anlage-zu-61a.md)

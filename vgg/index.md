@@ -11,6 +11,7 @@
 - [§ 5 Rechtsinhaber](0005.md)
 - [§ 6 Berechtigter](0006.md)
 - [§ 7 Mitglieder](0007.md)
+- [§ 7a Außenstehender](0007a.md)
 - [§ 8 Nutzer](0008.md)
 
 ## Teil 2 Rechte und Pflichten der Verwertungsgesellschaft
@@ -47,6 +48,7 @@
 - [§ 26 Verwendung der Einnahmen aus den Rechten](0026.md)
 - [§ 27 Verteilungsplan](0027.md)
 - [§ 27a Einnahmen aus gesetzlichen Vergütungsansprüchen des Urhebers](0027a.md)
+- [§ 27b Mindestbeteiligung des Urhebers](0027b.md)
 - [§ 28 Verteilungsfrist](0028.md)
 - [§ 29 Feststellung der Berechtigten](0029.md)
 - [§ 30 Nicht verteilbare Einnahmen aus den Rechten](0030.md)
@@ -83,17 +85,23 @@
 - [§ 46 Verteilung](0046.md)
 - [§ 47 Informationspflichten](0047.md)
 
-### Abschnitt 4 Vermutungen; Außenseiter bei Kabelweitersendung
+### Abschnitt 4 Vermutungen; Außenstehende bei Weitersendung und Direkteinspeisung
 
 - [§ 48 Vermutung bei Auskunftsansprüchen](0048.md)
 - [§ 49 Vermutung bei gesetzlichen Vergütungsansprüchen](0049.md)
-- [§ 50 Außenseiter bei Kabelweitersendung](0050.md)
+- [§ 50 Außenstehende bei Weitersendung und Direkteinspeisung](0050.md)
 
-### Abschnitt 5 Vergriffene Werke
+### Abschnitt 5 Kollektive Lizenzen mit erweiterter Wirkung
 
-- [§ 51 Vergriffene Werke](0051.md)
-- [§ 52 Register vergriffener Werke; Verordnungsermächtigung](0052.md)
-- [§ 52a Datenschutz](0052a.md)
+- [§ 51 Kollektive Lizenzen mit erweiterter Wirkung](0051.md)
+- [§ 51a Wirksamkeit der Rechtseinräumung und dauerhafte Information](0051a.md)
+- [§ 51b Repräsentativität der Verwertungsgesellschaft](0051b.md)
+- [§ 52 Kollektive Lizenzen mit erweiterter Wirkung für nicht verfügbare Werke](0052.md)
+- [§ 52a Wirksamkeit der Rechtseinräumung und dauerhafte Information bei nicht verfügbaren Werken](0052a.md)
+- [§ 52b Nicht verfügbare Werke](0052b.md)
+- [§ 52c Repräsentativität der Verwertungsgesellschaft bei Werkreihen aus Drittstaaten](0052c.md)
+- [§ 52d Verordnungsermächtigung](0052d.md)
+- [§ 52e Anwendung auf verwandte Schutzrechte](0052e.md)
 
 ### Abschnitt 6 Informationspflichten; Rechnungslegung und Transparenzbericht
 
@@ -220,4 +228,6 @@
 - [§ 137 Übergangsvorschrift für Rechnungslegung und Transparenzbericht](0137.md)
 - [§ 138 Übergangsvorschrift für Verfahren der Aufsichtsbehörde](0138.md)
 - [§ 139 Übergangsvorschrift für Verfahren vor der Schiedsstelle und für die gerichtliche Geltendmachung](0139.md)
+- [§ 140 Übergangsvorschrift zur Regelung der Verlegerbeteiligung ab dem 7. Juni 2021](0140.md)
+- [§ 141 Übergangsvorschrift für vergriffene Werke; Verordnungsermächtigung](0141.md)
 - [Anlage (zu § 58 Absatz 2) Inhalt des jährlichen Transparenzberichts](anlage.md)
