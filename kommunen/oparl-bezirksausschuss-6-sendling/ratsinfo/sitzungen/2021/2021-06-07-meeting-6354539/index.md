@@ -1,0 +1,128 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-06-07T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354539
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354539
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.2.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 1.4.: Bestellung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus (optional)
+- TOP 1.5.: Wahl weiterer Zeichnungsberechtigter für die Konten des BA 6 Sendling
+- TOP 1.6.: Neue Besetzung der Unterausschüsse durch die Fraktion FDP & FW
+- TOP 2.: Bürgersprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Unterschriftensammlung für Anwohnerparken in Mittersendling
+- TOP 2.2.: Verkehrssituation in Sendling
+- TOP 2.3.: Bürger*innenschreiben im Nachgang zur Gasteig-Infoveranstaltung
+- TOP 2.4.: Lizenz für den McDonalds am Harras
+- TOP 2.5.: Abschaltung der Ampel in der Implerstraße / Ecke Wackersberger Straße
+- TOP 2.6.: Verbot von GLAS-Bierflaschen / Kronkorken an der ISAR und in öffentlichen Parks
+- TOP 2.7.: Erreichbarkeit des neuen Gasteigs
+- TOP 2.8.: Parksituation an der Brudermühlbrücke / Baustelle Gasteig Sendling
+- TOP 2.9.: Verkehrssituation an der Oberländerstraße
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Plinganserstraße 28
+- TOP 4.2.2.: Baumfällung Flößergasse 6e
+- TOP 4.2.3.: Baumfällung Ganghoferstraße 86-88
+- TOP 4.2.4.: Evaluation der Münchner Stellplatzsatzung („Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge“) vom 19. Dezember 2007
+- TOP 4.2.5.: Bauvorhaben Bavariastraße 25
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Bauvorhaben Lindwurmstraße 130 Bescheid
+- TOP 4.3.3.: Bauvorhaben Plinganserstraße 7 - 7a Bescheid
+- TOP 4.3.4.: Mülleimer an Parkbänken [SPD]
+- TOP 4.3.5.: Wertstoffinsel in der Alramstraße Antwort
+- TOP 4.3.6.: Lärmbelästigung in der Implerstraße Antwort
+- TOP 4.3.7.: Bußgeldkatalog Umweltschutz Antrag aus dem BA 23 Allach-Untermenzing
+- TOP 4.3.8.: Verwahrlosung der Grünfläche zwischen der Aral-Tankstelle und dem Altbau an der Engelhardstraße 29 Antwort
+- TOP 4.3.9.: Einladung zu Vorträgen BUND Naturschutz
+- TOP 4.3.10.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 4.3.11.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Blumenwiese und Insektenschutzgebiete in den Neuhofener Anlagen einrichten! [SPD-Fraktion]
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Aufstellung von Verkaufseinrichtung auf öffentlichem Grund Thalkirchner Straße 190
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Eisenbahnüberführung Tumblingerstraße
+- TOP 5.2.2.: Verkehrsrechtliche Anordnung Hans-Klein-Straße 15 Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 5.2.3.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse
+- TOP 5.2.4.: Vorratsbeschluss Sommerstraße Schöttlstraße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Gehweg Heißstraße Antwort
+- TOP 5.3.2.: Fahrradwege im Winter wie Straßen räumen - mehr Verkehrssicherheit schaffen [SPD]
+- TOP 5.3.3.: Terminschiene Fahrradstreifen Lindwurmstraße
+- TOP 5.3.4.: Fahrradabstellplätze in der Ecke Lindenschmitstraße / Kidlerstraße Antwort
+- TOP 5.3.5.: Projekt "Wanderbaumallee" Sondernutzungserlaubnis
+- TOP 5.3.6.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO-Boxen" Weiteres Vorgehen
+- TOP 5.3.7.: Historisch belastete Straßennamen in München
+- TOP 5.3.8.: Gehwegparken Schreiben aus dem Bezirksausschuss 20 - Hadern
+- TOP 5.3.9.: Serie von Totalbeschädigung von SWM-Leihfahrrädern Antwort
+- TOP 5.3.10.: Öffentlicher Raum für alle: Einrichtung von „Stadtterrassen“ ermöglichen Sitzungsvorlage Nr. 20-26 / V 03496
+- TOP 5.3.11.: (U) Durchführung einer vergleichenden Haushaltsbefragung zum Mobilitätsverhalten in den Modellquartieren City2Share, CIVITAS ECCENTRIC und Smarter Together – Verlängerung und Erweiterung der Satzung Erlass einer Haushaltsbefragungssatzung
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Übergang / Querungshilfe in der Engelhardstraße
+- TOP 5.4.2.: Neue Fahrradstellplätze in der Engelhardstraße
+- TOP 5.4.3.: Neue Baumpflanzungen in Karwendelstraße-Sylvensteinstraße-Engelhardstraße
+- TOP 5.4.4.: Öffentliche Ladestation für E-Autos in der Engelhardstraße
+- TOP 5.4.5.: Errichtung eines Fußgängerüberwegs (FGÜ) zur Verbesserung der Verkehrsssicherheit an der Abbiegespur Plinganserstraße-Brudermühlstraße (Höhe Einmündung Alois-Johannes-Lippl-Weg)
+- TOP 5.4.6.: Errichtung von Fußgänger- und Radfahrerübergängen und weiterer dringlicher Verbesserungen der Barrierefreiheit und Verkehrssicherheit an der Kreuzung Engelhardstraße / Sylvensteinstraße
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget sendlinger theater-initiative Wirtshaus-Oper „Heid stirbt da Jedermann!“ im Oktober - November 2021 7.550,00€; Az. 0262.0-6-0316
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative „Sünde“ WOCHEN DER SÜNDE vom 14.06.-24.07.2021 4.250,00€; Az. 0262.0-6-0326
+- TOP 6.1.3.: (E) Stadtbezirksbudget CYCLE & SUSTAIN Sendling CYCLE & SUSTAIN Sendling von Juli – September 2021 720,00€; Az. 0262.0-6-0627
+- TOP 6.1.4.: (E) Stadtbezirksbudget FFC Wacker München 99 e.V. Renovierung vom Kabinentrakt und Malerarbeiten in den Duschen vom 20.06.-18.07.2021 1.460,99€; Az. 0262.0-6-0329
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative „Sendlinger Rundgang“ Kunst- und kulturgeschichtlicher Rundgang durch Sendling am 15.08.2021 100,00€; Az. 0262.0-6-0330
+- TOP 6.1.6.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von Mai bis November 2021 9.649,00€; Az. 0262.0-6-0325
+- TOP 6.1.7.: (E) Stadtbezirksbudget Green City e.V. Wanderbaumallee vom 15.06.-31.12.2021 2.175,00€; Az. 0262.0-6-0328
+- TOP 6.1.8.: (E) Stadtbezirksbudget Initiative „Quetschenweiber“ Europäische Strassenlieder am 07. und 14.08.2021 540,00€; Az. 0262.0-6-0333
+- TOP 6.1.9.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Konzert im Rahmen des Münchner-Orgelsommers vom 18.07.-29.08.2021 2.080,00€; Az. 0262.0-6-0332
+- TOP 6.1.10.: (E) Stadtbezirksbudget Kulturzentrum LUISE (Trägerschaft: Glockenbachwerkstatt e.V.) Honorare für die Umsetzung des soziokulturellen Projekts KULTUR IM BLOCK vom 29.06.-30.09.2021 2.497,50€; Az. 0262.0-6-0331
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Budget-Bescheide
+- TOP 6.3.2.: Protokoll: Gesprächstermin zu Bürger*innenbeteiligungskonzept am Dienstag 11.05.
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.1.1.: Ausschreibung "Ran an die Koffer!" für 2022
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Etablierung eines Runden Tisch der Migrationsbeauftragten
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Corona-Schutzimpfung auch im Münchner Süden möglich machen!
+- TOP 7.3.2.: Spielen in der Stadt Pop-ups 2021
+- TOP 7.3.3.: AKIM-Bericht 1. Halbjahr 2021
+- TOP 7.3.4.: Infoblätter des Referats für Bildung und Sport für die Bürgerversammlungen
+- TOP 7.3.5.: Start mobile Aktionen & Programmheft Spielen in der Stadt
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Brot- & Feinbäckerei Neulinger
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 1.3.: Bestellung der / des stellvertretenden Unterausschussvorsitzenden für den Unterausschuss Kultur und Freizeit durch den Bezirksausschuss (optional)
