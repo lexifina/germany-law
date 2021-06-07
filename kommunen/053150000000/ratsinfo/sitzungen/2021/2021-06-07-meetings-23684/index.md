@@ -1,0 +1,92 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-07T15:07:00+02:00
+- Ende: 2021-06-07T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23684
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23684
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: TO 4.3 7.6. https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00824840.pdf
+- Ergebnisprotokoll: TO 4.3 7.6. https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00824840.pdf
+- Wortprotokoll: TO 4.3 7.6. https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00824840.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Dringlichkeitsantrag der FDP-Fraktion betreffend "Kommunales Sonder-Schwimmlern-Programm in der Corona-Pandemie" - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 2.2: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Fördermittelabruf und -einsatz" - geändert beschlossen
+- TOP 2.2.1: Änderungsantrag zum Antrag „Fördermittelabruf und -einsatz“ von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion, DS AN/1094/2021, TOP 2.2 - endgültig abgelehnt
+- TOP 2.3: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Bau eines vorgezogenen Interims für die geplante Gesamtschule in Köln- Ossendorf " - ungeändert beschlossen
+- TOP 2.4: Anftrag der FDP-Fraktion betreffend "Extra-Zeit zum Lernen": Förderprogramm der Landesregierung in den Kommunen realisieren - - endgültig zurückgezogen
+- TOP 2.5: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Schule – Parkpalette – Freifläche am Salzburger Weg in Köln Junkersdorf" - geändert beschlossen
+- TOP 2.5.1: Änderungsantrag zum Antrag "Schule - Parkpalette - Freifläche am Salzburger Weg in Köln-Junkersdorf" von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion im Ausschuss für Schule und Weiterbildung am 7.6.2021, TOP 2.5, Ds AN/1093/2021 - endgültig zurückgezogen
+- TOP 2.5.2: Änderungsantrag zu TOP 2.5, AN/1093/2021, „Schule – Parkpalette – Freifläche am Salzburger Weg in Köln-Junkersdorf“ - geändert beschlossen
+- TOP 2.6: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Neubau Hölderlingymnasium" - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 2.6.1: Hölderlingymnasium erweitern: Bildungscampus für Mülheim entwickeln! - endgültig zurückgezogen
+- TOP 2.7: Antrag der SPD-Fraktion betreffend "Impfstrategie für Kinder und Jugendliche zum Schuljahresbeginn 2021/22 entwickeln!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.7.1: Änderungsantrag zum Antrag „Impfstrategie für Kinder und Jugendliche zum Schuljahresbeginn 2021/22 entwickeln!“ von der SPD -Fraktion, DS AN/1116/2021, TOP 2.7 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.8: Antrag der SPD-Fraktion betreffend "Schulversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven verbessern, temporäre Lösungen zur Entlastung der Grundschulen ermöglichen!" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Anfrage der Fraktion Bündnis 90/Die Grünen, CDU und Volt vom 01.03.2021, TOP 3.2.2 betreffend Sanierung des Hölderlin-Gymnasiums in Köln Mülheim - Kenntnis genommen
+- TOP 3.1.2: Anfrage der SPD-Frakton beteffend "Gesamtschule am Standort Zusestraße in Köln-Lövenich" AN/0404/2021 - Kenntnis genommen
+- TOP 3.1.3: Anfrage der FDP-Fraktion betreffend "Antisemitismus an Schulen" AN/0523/2021 - Kenntnis genommen
+- TOP 3.1.4: Mündliche Anfrage der CDU-Fraktion betreffend "Einsatz von Fördermitteln für Ganztagsausbau in Grundschulen" - Kenntnis genommen
+- TOP 3.1.5: Anfrage der FDP-Fraktion betreffend "Sachstand an der KGS Zehnthofstraße 22 - 24" AN/0522/2021 - Kenntnis genommen
+- TOP 3.1.6: Anfrage der Ratsgruppe Gut betreffend "Tablets für alle Schüler*innen sicherstellen" AN/0732/2021 - Kenntnis genommen
+- TOP 3.1.7: Anfrage der Fraktion Volt betreffend "Schulessen für B.u.T.-Berechtigte" AN/0749/2021 - Kenntnis genommen
+- TOP 3.1.8: Anfrage der CDU-Fraktion betreffend "Zusätzliche Stellen für IT Administratorinnen und IT Administratoren an Schulen des Landes NRW" AN/0750/2021 - Kenntnis genommen
+- TOP 3.1.9: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Technik-Support an Schulen" AN/0602/2021 - Kenntnis genommen
+- TOP 3.1.10: Mündliche Anfrage der SPD-Fraktion betreffend „Politische Bildung digital“ - Kenntnis genommen
+- TOP 3.1.11: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, Volt betreffend "Coronakonforme Abschlusszeugnisübergabe und -feiern" AN/1096/202 - Kenntnis genommen
+- TOP 3.1.12: Datenschutzsensible Software für digitales Lernen in Kölner Schulen - Sache ist erledigt
+- TOP 3.1.13: Beantwortung einer Anfrage nach § 4 (SPD-Fraktion) betreffend Digitale Information an die Eltern über negative Testergebnisse bei Lolli-Tests an Schulen und Kitas AN/1215/2021 - Sache ist erledigt
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Anfrage der Fraktion Die Linke betreffend "Datenschutzsensible Software für digitales Lernen in Kölner Schulen" - Sache ist erledigt
+- TOP 3.2.2: Anfrage der Ratsgruppe GUT betreffend "Schwimmbäder prioritär für Nichtschwimmer*innen-Kinderkurse öffnen" - Sache ist erledigt
+- TOP 3.2.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Ausstattung von Räumen in Kindertagesstätten und Schulen mit Luftfiltergeräten" - Sache ist erledigt
+- TOP 3.2.4: Anfrage der SPD-Fraktion betreffend "Den Thurner Hof in Köln-Dellbrück endlich wieder zugänglich machen und mit Leben füllen!" - Sache ist erledigt
+- TOP 3.2.5: Anfrage der AfD-Fraktion betreffend "Covid 19-Testungen von Schülerinnen und Schülern an den Schulen" - Sache ist erledigt
+- TOP 3.2.6: Anfrage der Fraktionen Volt, Bündnis 90/Die Grünen und CDU betreffend "Nutzung von digitalen Klassenbüchern" - Sache ist erledigt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Baubeschluss für die Generalsanierung der Sportanlage Humboldtstraße, Platz 1 (an der Schule) - ungeändert beschlossen
+- TOP 4.2: Beschlussvorlage Mehrkostenbeschluss Fachraumerneuerung für die Mikrobiologieräume Berufskolleg 16, Kartäuserwall - ungeändert beschlossen
+- TOP 4.3: Verbesserung der Schulinfrastruktur; hier Container für die Elternarbeit, Beschluss der Bezirksvertretung Rodenkirchen - zurückgestellt
+- TOP 4.4: Schulrechtliche Errichtung des Gymnasiums Zusestraße 47, 50859 in Köln-Lövenich zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.5: Schulrechtliche Errichtung des Gymnasiums Aachener Str. 744-750 in Köln-Müngersdorf zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.6: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit mindestens drei Sportübungseinheiten im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Ergebnisse einer Befragung zu den Auswirkungen der Corona-Pandemie auf LSBTIQ-Jugendliche - Kenntnis genommen
+- TOP 5.2: Statusbericht Schulbaumaßnahmenliste, Stand: 31.12.2020 - Sache ist erledigt
+- TOP 5.3: Fläche der russischen Föderation für die Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 5.4: VHS ist wieder stärker in den "Veedeln" präsent - Kenntnis genommen
+- TOP 5.5: Kölner Statistische Nachrichte Kurzinformation Bevölkerungszahlen - Kenntnis genommen
+- TOP 5.6: Machbarkeitsstudie zum Lehrschwimmbecken Grundschule Hohe Straße in Köln-Porz/Ensen - Kenntnis genommen
+- TOP 5.7: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 5.8: Schalom Kölle - 1700 Jahre jüdisches Leben in Deutschland - Die Volkshochschule Köln beteiligt sich mit 40 Veranstaltungen - Kenntnis genommen
+- TOP 5.9: Monitoringbericht 2020: allgemeinbildende Schulen und Berufskollegs, bildungsstatistische Analysen und kommunale Steuerungsansätze - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.10: Hölderlin-Gymnasium Graf-Adolf-Str. 59, 51065 Köln Mülheim: Volumenstudie zum Neubau ausschließlich auf dem Grundstück Graf-Adolf-Str. 59 - Kenntnis genommen
+- TOP 5.11: "Tag der Jugend im Rathaus" Umsetzung unter Pandemiebedingungen - Ergebnis 2020 - Kenntnis genommen
+- TOP 5.12: Auslaufen von Bildungsgängen an Berufskollegs zum 01.08.2021 - Kenntnis genommen
+- TOP 5.13: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2021/2022 - Kenntnis genommen
+- TOP 5.14: Sommerferien während der Corona-Pandemie - Kenntnis genommen
+- TOP 5.15: Sachstandsmitteilung zur Umsetzung des Förderprogramms "DigitalPakt NRW" für die Kölner Schulen - Kenntnis genommen
+- TOP 5.16: Anmeldezahlen an den weiterführenden Schulen zum Schuljahr 2021/2022 - Kenntnis genommen
+- TOP 5.17: Information zum Schulschwimmen und zum Sonder-Schwimmlern-Programm - Kenntnis genommen
+- TOP 5.18: Sachstand zum Antrag "Bildung in Zeiten von Corona sicher und gerecht gewährleisten- Sofortmaßnahmen für den Schulbeginn treffen" - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Schriftliche Anfrage der SPD-Fraktion - "Statusbericht Schulbaumaßnahmenliste Stand Ende 2020"
+- TOP 6.2: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen - Sachstand KGS Zehnthofstraße
+- TOP 6.3: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen - Nachfragen zu Tablets für SuS
+- TOP 6.4: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen - VHS in den "Veedeln" präsent
+- TOP 6.5: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen - iPads der Lehrkräfte
+- TOP 7: Verschiedenes
