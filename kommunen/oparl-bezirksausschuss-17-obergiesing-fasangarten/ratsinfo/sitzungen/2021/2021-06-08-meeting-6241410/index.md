@@ -1,0 +1,172 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2021-06-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6241410
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6241410
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Kinderbeauftragte/r
+- TOP 3.2: Jugendbeauftragte/r
+- TOP 3.3: Inklusion (Beauftragte/r für Menschen mit Behinderung)
+- TOP 3.4: Gleichstellungsbeauftragte/r
+- TOP 3.5: Beauftragte/r gegen Rechtsextremismus
+- TOP 3.6: Beauftragte/r für Integration
+- TOP 3.7: Internetbeauftragte/r
+- TOP 3.8: Seniorenbeauftragte/r
+- TOP 3.9: Mieterbeirätin / Mieterbeirat
+- TOP 3.10: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: U-Bahnhaltestelle Silberhornstraße; Ansammlung von Drogenkranken - Bürgeranliegen vom 29.04.2021 - (FF UA FSA)
+- TOP 2.1.2.2.: Antrag auf Verbot von GLAS-Bierflaschen/Kronkorken an der ISAR und in öffentlichen Parks - Bürgeranliegen vom 10.05.2021 - (FF UA Umwelt)
+- TOP 2.1.2.3.: Initiative Spielplatz Bergstraße/Wirtstraße - Bürgeranliegen vom 12.04.2021 - (FF UA FSA)
+- TOP 2.1.2.4.: Geschwindigkeitsreduktion und mehr Kontrolle am Mittleren Ring - Bürgeranliegen vom 20.05.2021 - (FF UA MuV)
+- TOP 2.1.2.5.: Wohnmobilvermietung - Parken im Wohngebiet - Bürgeranliegen vom 24.05.2021 - (FF UA MuV)
+- TOP 2.1.2.6.: Beschwerde Wertstoffinsel Brecherspitzstrasse - Bürgeranliegen vom 25.05.2021 - (FF UA Umwelt)
+- TOP 2.1.2.7.: Nachbarbeteiligung zur 2. Textur (Neubau) - Bürgeranliegen vom 18.05.2021 - (FF UA BPW)
+- TOP 3.10.1.: Deisenhofener Str. 27
+- TOP 3.10.2.: Arzberger Str. 6 - Fällung japanischer Katsurabaum - Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 23.04.2021
+- TOP 3.10.3.: Kistlerstr. 11
+- TOP 3.10.4.: Fasangartenstr. 136 Neubau Doppelhaushälfte
+- TOP 3.10.5.: Fasangartenstr. 136 Neubau Einfamilienhaus
+- TOP 4.1.: Tempo 30 als Standard im Lebensbereich Stadtbezirk - Antrag der Fraktion SPD vom 27.04.2021 - (FF UA MuV)
+- TOP 4.2.: "Stadtteilterrassen für Alle" - Den öffentlichen Raum selberbauen - Antrag der Fraktion SPD vom 15.05.2021 - (FF UA Kultur)
+- TOP 4.3.: Mobilitätsstationen im 17. Stadtbezirks planen und einrichten - Antrag der Fraktion SPD vom 15.05.2021 - (FF UA MuV)
+- TOP 4.4.: Abstellflächen für Leih-E-Roller einrichten - Antrag der Fraktion SPD vom 15.05.2021 - (FF UA MuV)
+- TOP 5.1.1.: (E) Stadtbezirksbudget Freundschaft zwischen Ausländern und Deutschen e.V. Konzert-Reihe von Juni bis September 2021 2.159,83€; AZ. 0262.0-17-0299 (FF UA Kultur)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Frendschaft zwischen Ausländern und Deutschen e.V. Sommer in Giesing am 09.07.2021 956,26€; Az. 0262.0-17-0297 (FF UA Kultur)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Evang.-Luth.-Kirchengemeinde München Giesing Schauspielabend „Ich würde es genauso wieder machen“ am 11.06.2021 300,00€; Az. 0262.0-17-0300 (FF UA Kultur)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Spiellandschaft Stadt e.V. "Heute gehört die Straße uns“ im Juli und September 2021 1.560,00 € / Az. 0262.0-17-0303
+- TOP 5.1.5.: (E) Stadtbezirksbudget Nachbarschaftstreff Giesing (QuarterM gGmbH) Inklusive Aktionen anlässlich „Sommer in Giesing“ am 09.07.2021 1.875,00 € / Az. 0262.0-17-0298 (FF UA Kultur)
+- TOP 5.1.6.: (E) Stadtbezirksbudget 103er – Freizeittreff Obergiesing; KJR München-Stadt Sommer in Giesing am 09.07.2021 2.580,00 € / Az. 0262.0-17-0302 (FF UA Kultur)
+- TOP 5.1.7.: (E) Stadtbezirksbudget Initiative „Sommerstraße“ Sommerstraße Zugspitzplätzchen von Juli bis September 2021 12.040,00 € / Az. 0262.0-17-0304
+- TOP 5.2.1.: Vorschlag zur Bestellung einer städtischen Leistung: Beschaffung eines HotSpot / WLAN. - Antrag einer Bürgerin vom 28.04.2021 - (FF UA FSA & UA lokale Arbeit)
+- TOP 5.4: Sonstiges
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Eslaner Str. 36 - Umbau und Erweiterung Doppelhaushälfte mit Neubau Garage
+- TOP 6.1.3.2.: Hohenschwangaustr. 15 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID (3 Var.)
+- TOP 6.1.3.3.: Evaluation der Münchner Stellplatzsatzung - Schreiben des Referates für Stadtplanung und Bauordnung vom 21.04.2021 -
+- TOP 6.1.3.4.: Projekt Auguste-Kent-Platz und Umbau Cincinnati-/Marklandstraße - Schreiben des Baureferates vom 20.05.2021 -
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung Trauchberg-/Forggenseestraße - Schreiben des Sozialreferates vom 11.05.2021 -
+- TOP 6.1.4.2.: (U) Temporäre Nutzungsänderungssperren ermöglichen
+- TOP 6.1.4.3.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 10.05.21-16.05.21
+- TOP 6.1.4.4.: (U) Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2020; Prämierung von Wettbewerbsbeiträgen
+- TOP 6.1.4.5.: Aktueller Stand: Uhrmacherhäusl - Schreiben des Referates für Stadtplanung und Bauordnung vom 12.05.2021 -
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Ausschreibung "Ran an die Koffer!" - Schreiben des Sozialreferates vom 15.04.2021 -
+- TOP 6.2.4.1.: Direktoriums-Formulare in "Leichter Sprache" - Antrag der Fraktion B90 / Die Grünen vom 04.01.2021 -
+- TOP 6.2.4.2.: 1. AKIM Bericht 2021 - Schreiben des Sozialreferates vom 06.05.2021 -
+- TOP 6.2.4.3.: Ausweitung des städtischen und des privaten Angebotes an Schwimmkursen im 17. Stadtbezirk Obergiesing-Fasangarten
+- TOP 6.2.4.4.: Dienststellenverständigung - Haus für Kinder an der Plecherstraße 3 - Schreiben des Referates für Bildung und Sport vom 26.04.2021 -
+- TOP 6.2.4.5.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juni 2020 - Antwortschreiben des Sozialreferates vom 30.04.2021 in Bezug auf 6.2.4.1 aus 03_21 -
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Erinnerungsverfahren: Chiemgaustr. 2 - 76 (Radwegsanierung) - Schreiben des Baureferates vom 12.05.2021 -
+- TOP 6.3.3.2.: Aufhebung der Radwegbenutzungspflicht in der Balanstraße zwischen Puechenbergerstr und Fasangartenstr. - Schreiben des Mobilitätsreferates vom 25.05.2021 -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2021 - Ergebnisse und weiteres Vorgehen - Schreiben des Mobilitätsreferates vom 28.04.2021 -
+- TOP 6.3.4.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Tegernseer Landstr. 114 Einrichtung einer Ladezone (eingeschränktes Haltverbot) - Schreiben des Mobilitätsreferates vom 04.05.2021 -
+- TOP 6.3.4.3.: Verkehrsbelastung Marklandstraße - LKW-Fahrverbot / Verschmälerungen - Bürgeranliegen vom 04.01.2021 -
+- TOP 6.3.4.4.: Gehwege freihalten!
+- TOP 6.3.4.5.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! - Antwortschreiben des BA 16 -
+- TOP 6.3.4.6.: Ampel in Giesing bei der Stadelheimer Str. / Schwarzenbergerstraße
+- TOP 6.3.4.7.: Öffnung der Weinbauernstraße und der Zehentbauernstraße in gegenläufiger Fahrtrichtung für den Radverkehr
+- TOP 6.3.4.8.: Elektrobusse auf der Buslinie 59 einsetzen! - Antrag der Fraktion B90/Die Grünen vom 17.01.21 -
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Antrag des BA 23 mit der Bitte um Unterstützung: Bußgeldkatalog Umweltschutz - Schreiben der BAG West vom 17.05.2021 -
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Antwortschreiben PI23 in Bezug auf Bürgeranliegen "Rund um den Scharfreiterplatz" der Sitzung 04/2021 TOP 2.1.2.4. - Schreiben der PI23 vom 06.05.2021 -
+- TOP 6.4.4.2.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 6.4.4.3.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 6.4.4.4.: Ausnahmegenehmigung gem. §7 Abs.2 und 32 Bundes-Immissionsschutzgesetz Nächtliche Mäharbeiten Straßenbegleitgrün - Schreiben des Referates für Klima- und Umweltschutz vom 05.05.2021 -
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung "Ois Giesing - Giesing is a Feeling - Schreiben des Kreisverwaltungsreferates vom 03.05.2021 - (Fristverlängerung zur Stellungnahme bis 10.06.21)
+- TOP 6.5.3.2.: Sondernutzung auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG; "DJ Bike- Soundtrack für München" - Schreiben des Kreisverwaltungsreferates vom 12.05.2021 - (Fristverlängerung bis 11.06.2021)
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Wandgemälde Ois Giasing 3000 - Schreiben des 1. Vorsitzenden Real München e.V. vom 17.05.2021 -
+- TOP 6.5.4.2.: Öffentlicher Raum für alle: Einrichtung von "Stadtterrassen" ermöglichen - Schreiben des Kreisverwaltungsreferates vom 19.05.2021 -
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) - Schreiben des Kreisverwaltungsreferates vom 14.05.2021 -
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) - Schreiben des Kreisverwaltungsreferates vom 18.05.2021 -
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) - Schreiben des Kreisverwaltungsreferates vom 27.05.2021 -
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus - Schreiben des Direktoriums vom 21.05.2021 -
+- TOP 7.2.2.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse - Schreiben des Direktoriums vom 21.05.2021 -
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
