@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-06-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Feldafinger Straße 4 (T)
+- TOP 6.2.2: Kistlerhofstraße 102
+- TOP 6.2.3: Hofmannstraße 36
+- TOP 6.2.4: Hofmannstraße 23 (VB)
+- TOP 6.2.5: Münsinger Straße 48 (VB)
+- TOP 6.2.6: Herterichstraße 173
+- TOP 6.2.7: Voltzweg 3
+- TOP 6.2.8: Forstenrieder Allee 107 (VB)
+- TOP 6.2.9: Tölzer Straße 5 (T)
+- TOP 6.2.10: Maxhofstraße 32 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 11.05.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Satzungsänderung: Umbenennung Beauftragte gegen Rechtsextremismus §23a BA-Satzung
+- TOP 2.4.: (A) Einbindung der Bezirksausschüsse bei Nachbarschaftsstraßen (Antrag BA 21)
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget NaturFreunde Deutschlands – Bezirk München e.V. Kostenloser Sommer für Kinder/ Jugendliche vom 25.05.-31.12.2021 500,00€; Az. 0262.0-19-0368
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Klavierkonzert am Nachmittag vom 01.07.2021 – 30.06.2022 300,00€; Az. 0262.0-19-0369
+- TOP 3.4.: - NACHTRAG - (E) Stadtbezirksbudget Wasserwacht München Mitte Sanierung und Schutz der Wachstation vom 15.06. - 15.07.2021 2.164,18 Euro, Az.: 0262.0-19-0371
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Keine automatische Verlängerung des Pachtvertrages des Münchner Golfclubs MGC mit der Stadt München
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Brunnen am Vorplatz des Stadtteilzentrums Forum Fürstenried wieder in Betrieb nehmen
+- TOP 4.4.: (A) Ersatzstandort Wertstoffcontainer Züricher Straße Ecke Würmseestraße
+- TOP 4.5.: (Antrag) Verschmutzung von Wertstoffinseln - Bußgeldkatalog
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Evaluation der Stellplatzsatzung der Landeshauptstadt München
+- TOP 5.3.: (Antrag) Tiefgaragenausfahrt des Sparkassenhochhauses vor der Berner Schule für Ausfahrende und Fußgänger*innen sicherer gestalten
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Aufhebung Radwegebenutzungspflicht Herterichstraße
+- TOP 5.5.: (E) Sondernutzungserlaubnis: Freischankfläche Schäftlarnstraße
+- TOP 5.6.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Allgemeiner Behindertenparkplatz Frans-Hals-Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Bebauungsplan mit Grünordnung Nr. 2132 - Schulen an der Königswieser Straße
+- TOP 6.4.: (Antrag) Prüfung der Auswirkungen des Bauvorhabens Herterichstraße 173 auf den Ensembleschutz Forstenried
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Östlicher Eingang Spielplatz Drygalski-Allee
+- TOP 7.3.: (A) Beschlussentwurf: Einrichtung eines Nachbarschaftstreffs im „Campus Süd“ Bebauungsplan mit Grünordnung Nr. 1930 d; Sitzungsvorlage Nr. 20-26 / V 03239
+- TOP 7.4.: - NACHTRAG - (Antrag) Neue Fahrradständer auf dem Gelände der Grundschule Berner Straße
+- TOP 7.5.: - NACHTRAG - (Antrag) Personalsituation in den Flexi-Heimen am Südpark verbessern
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
