@@ -1,0 +1,56 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-06-08T16:05:00+02:00
+- Ende: 2021-06-08T18:40:00+02:00
+- Ort: Rathaus Barmen, Ratssaal, 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19408
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19408
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00273351.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00273792.pdf
+
+## Tagesordnung
+
+- TOP 1: Jahresunfallbericht 2020 der Polizei
+- TOP 2: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 3: Baustellensituation
+- TOP 4: Optimierung der Radverkehrsführung Am Diek/ Vor der Beule (Lückenschluss NBT) - Voruntersuchung - zurückgezogen
+- TOP 5: Einrichtung einer unechten Einbahnstraße im nördlichen Teil der Nathrather Straße - zurückgezogen
+- TOP 6: Bürgerantrag gem. § 24 GO NRW - Widmung der Sambatrasse als Rad- und Gehweg und Optimierung der Umlaufsperren - geändert beschlossen
+- TOP 7: Radfahrer und Fußgänger: Gemeinsam mit Rücksicht unterwegs - geändert beschlossen
+- TOP 8: Umsetzung Radverkehrskonzept Handlungsachse Nr. 6, Brücke im Autobahnkreuz Sonnborn - ungeändert beschlossen
+- TOP 9: Einrichtung von sicheren Fahrradstellplätzen in den Quartieren - ungeändert beschlossen
+- TOP 10: Barrierefreie Querung Wall/Neumarkt - ungeändert beschlossen
+- TOP 11: Linienwegänderungen des Busverkehrs im Bereich Agnes-Miegel-Straße - geändert beschlossen
+- TOP 12: Überprüfung der Ampelschaltungen aller Ampelanlagen im Wuppertaler Stadtgebiet - zur Vorberatung verwiesen
+- TOP 13: Straßen- und Wegekonzept für den Stadtbezirk Elberfeld - ungeändert beschlossen
+- TOP 14: Straßen- und Wegekonzept für den Stadtbezirk Cronenberg - ungeändert beschlossen
+- TOP 15: Straßen- und Wegekonzept für den Stadtbezirk Elberfeld-West - ungeändert beschlossen
+- TOP 16: Straßen- und Wegekonzept für den Stadtbezirk Oberbarmen - ungeändert beschlossen
+- TOP 17: Straßen- und Wegekonzept für den Stadtbezirk Heckinghausen - vertagen
+- TOP 18: Straßen- und Wegekonzept für den Stadtbezirk Vohwinkel - ungeändert beschlossen
+- TOP 19: Straßen- und Wegekonzept für den Stadtbezirk Uellendahl-Katernberg - ungeändert beschlossen
+- TOP 20: Straßen- und Wegekonzept für den Stadtbezirk Barmen - ungeändert beschlossen
+- TOP 21: Straßen- und Wegekonzept für den Stadtbezirk Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 22: Straßen- und Wegekonzept für den Stadtbezirk Ronsdorf - ungeändert beschlossen
+- TOP 23: Sanierung Kuhler Viadukt - Bauabschnitt 7 - ungeändert beschlossen
+- TOP 24: Grundhafte Erneuerung der Loher Brücke - ungeändert beschlossen
+- TOP 25: Personalsituation in der Abteilung 104.5 Straßen- und Verkehrsplanung - Entgegennahme ohne Beschluss
+- TOP 26: Ausbau Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 26.1: Antwort der Verwaltung zu der Anfrage der CDU-Fraktion vom 26.05.2021 - Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 27: Teilantwort der Verwaltung auf den gemeinsamen Antrag vom 06.05.2021 - Radverkehrsförderung - Entgegennahme ohne Beschluss
+- TOP 28: Sonderprogramm Stadt und Land für flächendeckende Fahrradinfrastruktur - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 29: Ergebnisbericht - Konzept für einen professionellen und öffentlichen Pedelec- und Lastenpedelecverleih in der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 30: Optimierung der Radverkehrsführung auf der Schwelmer Straße - Beschlussfassung zur VO/0093/21 - geändert beschlossen
+- TOP 31: Bahntrassen-Radwege - Entgegennahme ohne Beschluss
+- TOP 31.1: Antwort zur Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.05.2021: Bahntrassen Radwege - Entgegennahme ohne Beschluss
+- TOP 32: Lieferverkehr mit Elektrofahrzeugen - Entgegennahme ohne Beschluss
+- TOP 33: Erweiterung der Taxistellflächen am Döppersberg - Entgegennahme ohne Beschluss
+- TOP 33.1: Erweiterung der Taxistellflächen am Döppersberg - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 34: Barrierefreiheit der Haltestellen im ÖPNV im Wuppertaler Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 34.1: Barrierefreiheit der Haltestellen im ÖPNV im Wuppertaler Stadtgebiet - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 35: Stellwerksbedingte Ausfälle des Schienennahverkehrs im Bereich Wuppertal-Vohwinkel - vertagen
+- TOP 36: Erschließung und Erreichbarkeit des Nordparks - Entgegennahme ohne Beschluss
