@@ -1,0 +1,58 @@
+# 5.Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-06-08T17:00:00+02:00
+- Ende: 2021-06-08T18:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12122
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12122
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00482939.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Sachstandsbericht sowie Vorgehen Kommunikation an neu einzurichtenden Fahrradstraßen - zur Kenntnis genommen
+- TOP 4.2: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 4.3: Zwischenbericht zur Umsetzung der Klimaneutralität 2030 für städtische Gebäude: Maßnahmenprogramm 2021 - 2024 - zur Kenntnis genommen
+- TOP 4.4: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 4.5: Knotenpunktnetz - einstimmig geändert beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Verzicht auf die Umbenennung eines Teilstücks der Hiltruper Straße in Petersplatz - einstimmig beschlossen
+- TOP 5.2: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngbiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde - einstimmig geändert beschlossen
+- TOP 5.3: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die überbezirklichen - einstimmig beschlossen
+- TOP 5.4: Erlass Naturdenkmalverordnung für den bebauten Bereich - einstimmig geändert beschlossen
+- TOP 5.5: 1.Kommunale Umsetzung des geänderten § 8a des Kommunalabgabengesetzes - einstimmig beschlossen
+- TOP 5.6: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.7: Satzung zur Änderung der Hauptsatzung - einstimmig geändert beschlossen
+- TOP 5.8: Vorhabenbezogener Bebauungsplan Nr. 605 Wolbeck – Münsterstraße / Middelerstraße - einstimmig beschlossen
+- TOP 5.9: Quartiersentwicklung Kanalkante Südost und gegenüberliegender Teilflächen westlich DEK: Ausschreibung der Konzeptionierung, fachlichen Betreuung, Moderation und Dokumentation eines Werkstattverfahrens sowie städtebaulicher Qualifizierungsverfahren - einstimmig beschlossen
+- TOP 5.10: 109. FNP-Änderung - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 5.11: 96. Änderung des fortgeschriebenen Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Südost im Stadtteil Wolbeck für den Bereich „Münsterstraße / Middelerstraße“ - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau für die bezirklichen - einstimmig beschlossen
+- TOP 6.2: Umbau der Haltestelle Krögerweg - einstimmig beschlossen
+- TOP 6.3: Wahl einer stellvertretenden Schiedsperson für den Bezirk 12 Münster-Wolbeck - einstimmig beschlossen
+- TOP 6.4: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Südost - einstimmig beschlossen
+- TOP 7: fristgerecht eingegangene Anträge
+- TOP 8: fristgerecht eingegangene Anregungen und Anfragen
+- TOP 8.1: Umgestaltung alter Friedhof - eingebracht
+- TOP 8.2: Fahrradstraße Alter Postweg - eingebracht
+- TOP 8.3: Verkehrssicherung Petersheide - eingebracht
+- TOP 8.4: Ortsdurchfahrt erschweren und Radverkehr sichern durch Einfärbung der Fahrbahn - eingebracht
+- TOP 8.5: Verkehrsführung Kreuzung Am Steintor/Münsterstraße ändern - eingebracht
+- TOP 8.6: Wolbecks Ortskern entlasten- Verkehrswege um den Ort führen (Telgter Straße) - eingebracht
+- TOP 8.7: Wolbeck Ortskernentlastung Angelkamp, Berler Kamp - eingebracht
+- TOP 8.8: Gremmendorf, Müllbehälter Loddenbachsee - eingebracht
+- TOP 8.9: Gremmendorf, Sitzbänke Loddenbachsee - eingebracht
+- TOP 8.10: Wolbeck, Kreisverkehr Borggarten, Eschstraße - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträge, Anregungen und Anfragen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
