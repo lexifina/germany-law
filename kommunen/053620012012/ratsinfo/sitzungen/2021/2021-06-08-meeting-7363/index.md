@@ -1,0 +1,61 @@
+# Integrationsrat (2. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-06-08T18:01:00+02:00
+- Ende: 2021-06-08T21:15:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-182
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRvIwlQ7ax4GlHV4wtkpMYA
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7363
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Integrationsrat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYVSe2nPEPEHkRIGlbFTZNqpLlKTriGzLbFj0-eaHf5Y/Bekanntmachung_Integrationsrat_08.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Integrationsrat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIYY7da847f40gsNl2yvVzHSfTxGknGAWe_eH-R__q_/Oeffentliche_Niederschrift_Integrationsrat_08.06.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP -: Zur Tagesordnung:
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 26.11.2019
+- TOP 3.: Niederschrift vom 25.03.2021
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Integrationspreis 2020 - (kein Text vorhanden)
+- TOP 6.: Integrationspreis - (kein Text vorhanden)
+- TOP 7.: Sachstandbericht der Stabsstelle 03 Integration Bezug: Anfrage der Fraktion Linke&Piraten vom 20.05.2021
+- TOP 8.: Überarbeitung und Neuerstellung des Gesamtbetreuungskonzeptes für Flüchtlinge in der Stadt Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 20.05.2021 - (kein Text vorhanden)
+- TOP 9.: Änderung der Geschäftsordnung für den Integrationsrat
+- TOP 9.1: Entsendung sachkundiger Einwohnerinnen und Einwohner sowie deren Begleitung in den Integrationsrat hier: Änderung der Geschäftsordnung des Integrationsrates - (kein Text vorhanden)
+- TOP 9.2: Ergänzung zu Top 16.1 „Änderung der Hauptsatzung“ Bezug: Antrag der Fraktion Linke&Piraten vom 29.04.2021
+- TOP 9.2.1: Antrag der Fraktion Linke&Piraten vom 29.04.2021 Bezug: Rat 03.05.2021 / Ergänzung zu TOP 16.1 "Änderung der Hauptsatzung" - Ohne Abstimmung
+- TOP 10.: Interkulturelle Spielplätze Bezug: Anfrage der Liste "Brühl International" vom 10.03.2021
+- TOP 10.1: Anfrage der Liste „Brühl International“ vom 10.03.2021 hier: Interkulturelle Spielplätze - Ohne Abstimmung
+- TOP 11.: Einladung der Vertretung des Landesintegrationsrates NRW zur Vorstellung ihrer Arbeit Bezug: Antrag der Liste "Brühl International" vom 12.05.2021 - (kein Text vorhanden)
+- TOP 12.: Sachstandbericht Integrationslotsen Bezug: Anfrage der Liste „Brühl International“ vom 17.05.2021
+- TOP 12.1: Anfrage der Liste "Brühl International" vom 17.05.2021 hier: Sachstandbericht Integrationslotsen - Ohne Abstimmung
+- TOP 13.: Fördermittel des Landes NRW für die Integrationsarbeit in Brühl Bezug: Anfrage der Liste „Brühl International“ vom 18.05.2021
+- TOP 13.1: Anfrage Liste „Brühl International“ vom 18.05.2021 hier: Fördermittel des Landes NRW für die Integrationsarbeit in Brühl - Ohne Abstimmung
+- TOP 14.: Erneute Aufnahme der Vorlage 139/2021 "Antrags- und Beschlusskontrolle der Legislaturperiode 2014-2020 des Integrationsrates" auf die Tagesordnung Bezug: Antrag der Fraktion Linke&Piraten vom 12.05.2021
+- TOP 15.: Sachstand ehrenamtliche Sprachpaten Bezug: Anfrage der Liste „Brühl International“ vom 17.05.2021
+- TOP 15.1: Anfrage der Liste "Brühl International" vom 17.05.2021 hier: Sachstand ehrenamtliche Sprachpaten - Ohne Abstimmung
+- TOP 16.: Sachstand Bildungslotsen Bezug: Anfrage der Liste „Brühl International“ vom 18.05.2021
+- TOP 16.1: Anfrage der Liste "Brühl International" vom 18.05.2021 hier: Sachstand Bildungslotsen - Ohne Abstimmung
+- TOP 17.: Förderung der Mehrsprachigkeit in Brühl und Konzept für die Stadtbibliothek Bezug: Anfrage der Liste „Brühl International“ vom 20.05.2021
+- TOP 17.1: Anfrage der Liste "Brühl International" vom 20.05.2021 hier: Förderung der Mehrsprachigkeit in Brühl und Konzept für die Stadtbibliothek - Ohne Abstimmung
+- TOP 18.: Weiterbildung der Lehrpersonen zu sprachsensiblem Unterricht Bezug: Anfrage der Liste „Brühl International“ vom 20.05.2021
+- TOP 18.1: Anfrage der Liste "Brühl International" vom 20.05.2021 hier: Weiterbildung der Lehrpersonen zu sprachsensiblem Unterricht - Ohne Abstimmung
+- TOP 19.: Sachstand Impfung und Impflotsen Bezug: Anfrage der Liste „Brühl International“ vom 20.05.2021
+- TOP 19.1: Anfrage der Liste "Brühl International" vom 20.05.2021 hier: Sachstand Impfung und Impflotsen - Ohne Abstimmung
+- TOP 20.: Visitenkarten für den Vorsitzenden des Integrationsrates - (kein Text vorhanden)
+- TOP 21.: Mitteilungen
+- TOP 21.1: Erreichbarkeit Integrationsrat
+- TOP 21.2: "Schule ohne Rassismus"
+- TOP 22.: Anfragen
+- TOP 22.1: Adressen Übergangswohnheime
+- TOP 22.2: Interkulturelle Woche 2021
+- TOP 22.3: Sitzungstermine Integrationsrat 2021
+- TOP B): Nichtöffentliche Sitzung
+- TOP 23.: Mitteilungen
+- TOP 23.1: Kommunikation mit der Verwaltung
+- TOP 24.: Anfragen
+- TOP 24.1: Preisverleihung Integrationsrat
