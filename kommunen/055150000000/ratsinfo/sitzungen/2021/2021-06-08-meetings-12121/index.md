@@ -1,0 +1,52 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-06-08T17:03:00+02:00
+- Ende: 2021-06-08T19:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12121
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12121
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00482751.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Wahl oder Wiederwahl einer stellvertretenden Schiedsperson für den Bezirk 1 Münster-Altstadt - mehrheitlich geändert beschlossen
+- TOP 4.2: Maximilianstraße / Kanalstraße - Anpassung Knotenpunkt und LSA - mehrheitlich geändert beschlossen
+- TOP 4.3: Umgestaltung der Fahrradstraße Hittorfstraße - mehrheitlich geändert beschlossen
+- TOP 4.4: Ausbau, Umbau und energetische Sanierung der Turnhalle Josefschule - einstimmig beschlossen
+- TOP 4.5: Umgestaltung der öffentlichen Grünfläche am Kanonierplatz -Baubeschluss- - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Satzung zur Änderung der Hauptsatzung - einstimmig geändert beschlossen
+- TOP 5.2: Quartiersentwicklung Kanalkante Südost und gegenüberliegender Teilflächen westlich DEK: Ausschreibung der Konzeptionierung, fachlichen Betreuung, Moderation und Dokumentation eines Werkstattverfahrens sowie städtebaulicher Qualifizierungsverfahren - mehrheitlich beschlossen
+- TOP 5.3: Mecklenbecker Straße - Umbau und barrierefreier Ausbau der Haltestelle "Huberstraße Süd" - einstimmig beschlossen
+- TOP 5.4: Am Mittelhafen: Kai und Stichwege (B-Plan Nr. 541 Teilbereich A) - mehrheitlich beschlossen
+- TOP 5.5: Errichtungsbeschluss zum Neubau von kommunalen Funktionsgebäuden auf den Sportanlagen Dietrich-Bonhoeffer-Straße, Pleistermühlenweg und Arnheimweg - einstimmig beschlossen
+- TOP 5.6: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten - einstimmig beschlossen
+- TOP 5.7: Energetische Sanierung der sog. neuen Turnhalle am Schillergymnasium, Gertrudenstr.5,48149 Münster - einstimmig beschlossen
+- TOP 5.8: Ludwig-Erhard-Berufskolleg, Gut Insel 41, 48151 Münster - einstimmig beschlossen
+- TOP 5.9: Erlass Naturdenkmalverordnung für den bebauten Bereich - einstimmig beschlossen
+- TOP 5.10: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - mehrheitlich beschlossen
+- TOP 5.11: Grünanlage Aasee - bei Stimmengleichheit abgelehnt
+- TOP 5.12: Alternatives ÖPNV-Angebot im Verkehrsversuch Hörsterstraße-Bült - mehrheitlich beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Knotenpunktnetz - zur Kenntnis genommen
+- TOP 6.2: Dialogverfahren Wolbecker Straße - Sachstand und Ausblick - zur Kenntnis genommen
+- TOP 6.3: Zwischenbericht zur Umsetzung der Klimaneutralität 2030 für städtische Gebäude: Maßnahmenprogramm 2021 - 2024 - zur Kenntnis genommen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Schulwege sichern - Umgestaltung der Kreuzungsbereiche in der Langemarckstraße - eingebracht
+- TOP 7.2: Freies und offenes WLAN innerhalb des Promenadenringes - eingebracht
+- TOP 7.3: Zusätzliche Fahrradständer und eine bessere Beleuchtung - eingebracht
+- TOP 7.4: Weitere Querungshilfe auf der Boeselagerstraße - eingebracht
+- TOP 7.5: Umgang mit der Anregung gem. § 24 GO Nr. 2021-00050 - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
