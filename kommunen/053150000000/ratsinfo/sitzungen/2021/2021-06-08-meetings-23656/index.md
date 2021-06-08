@@ -1,0 +1,55 @@
+# 04. Sitzung des Gesundheitsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-08T17:00:00+02:00
+- Ende: 2021-06-08T19:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/72
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23656
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23656
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Aktuelle Stunde "Rattenplage in der Wohnsiedlung „Am Kölnberg“ bekämpfen!" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Corona-Screening im Abwasser - Dringlichkeitsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 1: Mündlicher Bericht über den aktuellen Sachstand zur SARS-CoV-2-Pandemie - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Köln als Corona-Modellkommune – zur falschen Zeit? - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage "Köln als Corona-Modellkommune – zur falschen Zeit?" - AN/0742/2021 - Kenntnis genommen
+- TOP 4.2: Wo bleibt der Kölner Lebenslagenbericht, und sind dessen Ergebnisse nicht bereits überholt? - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der SPD Fraktion AN/0363/2021 zum Sachstand Lebenslagenbericht - Kenntnis genommen
+- TOP 4.3: Sachstand der Umsetzung des Toilettenkonzepts Köln – Problemverschärfung: keine „Happy Toilets" in der Pandemie - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage zum Sachstand der Umsetzung des Toilettenkonzeptes Köln - Kenntnis genommen
+- TOP 4.4: Psychosoziale Betreuung des Kölner Klinik- und Altenpflegepersonals - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1068/2021 "Psychosoziale Betreuung des Kölner Klinik- und Altenpflegepersonals - Kenntnis genommen
+- TOP 4.5: Überprüfung von Auftragsvergaben im Zusammenhang mit der Pandemie - zurückgestellt
+- TOP 4.6: Wie können wir den Bedarf an Sexualpädagogik für Jungen und junge Männer decken? - zurückgestellt
+- TOP 4.7: Nachfragen zur Machbarkeitsstudie des geplanten Klinikverbundes Köln - Sache ist erledigt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5.1: Meldestelle für Coronaverstöße an Arbeitsstellen und Betrieben - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.2: Beantwortung einer Anfrage nach § 4 (SPD-Fraktion) aus dem Digitalisierungsausschuss vom 07.06.2021 betreffend Digitale Information an die Eltern über negative Testergebnisse bei Lolli-Tests an Schulen und Kitas AN/1215/2021 - Kenntnis genommen
+- TOP 5.3: Beantwortung der Anfrage AN/0518/2020 aus dem Integrationsrat vom 27.05.2020 zu Sucht und Migration - Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migrantinnen und Migranten in Kölner Kliniken, LVR Klinken - Kenntnis genommen
+- TOP 6: Beschlussvorlagen
+- TOP 6.1: Baubeschluss Rettungswache Worringen - ungeändert beschlossen
+- TOP 6.2: Fortführung der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern bei der Berufsfeuerwehr Köln - ungeändert beschlossen
+- TOP 6.3: Bedarfsfeststellung zur Beschaffung von 10 Löschfahrzeugen Logistik (LF-L) aufgrund von Fahrzeugtypenänderungen (Fahrzeug-Soll/Ist-Vergleich) der Feuerwehr Köln - ungeändert beschlossen
+- TOP 6.4: Drogenhilfeangebote am Neumarkt - ungeändert beschlossen
+- TOP 7: Mitteilungen
+- TOP 7.1: Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln 2021 - Kenntnis genommen
+- TOP 7.2: Praxishandbuch "Vielfalt Pflegen" - eine Publikation des Kompetenzzentrum Selbstbestimmt Leben (KSL) NRW - Kenntnis genommen
+- TOP 7.3: Beantwortung der Anfrage (AN/0312/2021) der SPD-Fraktion im Integrationsrat vom 13.04.2021 zur Lebenssituation von Menschen ohne Papiere in Köln – Modellprojekt „Anonymer Krankenschein in Köln„ starten? - Kenntnis genommen
+- TOP 7.4: 32. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 7.5: Nachfrage zum 31. Bericht zur Situation Geflüchteter bzgl. psychischer Erkrankungen - Kenntnis genommen
+- TOP 7.6: Beschluss der StadtAG Seniorenpolitik zur Resolution der BezirksAG Seniorenpolitik Kalk zur Verbesserung der Palliativ- und Hospizversorgung im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 7.7: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2020 - Kenntnis genommen
+- TOP 7.8: Masterplan Dezernat V - Kenntnis genommen
+- TOP 7.9: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 7.10: Mitteilung zum Stand der Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren (SPZ) - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer mündliche Anfrage: Schutz der vulnerablen Gruppen, insbesondere der älteren Generation, durch Impfung - Kenntnis genommen
