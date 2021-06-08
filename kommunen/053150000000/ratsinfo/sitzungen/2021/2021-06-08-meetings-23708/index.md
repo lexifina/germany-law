@@ -1,0 +1,84 @@
+# 5. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-08T16:05:00+02:00
+- Ende: 2021-06-08T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23708
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23708
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Einrichtung Zählstellen Transitverkehr - zurückgestellt
+- TOP 1.2: Online Kataster aller baulichen Verkehrsmaßnahmen für ganz Köln - endgültig abgelehnt
+- TOP 1.3: Zählung des Radverkehrs zwischen Hohenzollern- und Deutzer Brücke - zurückgestellt
+- TOP 1.4: Konzentrischer Netzplan - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 3.2: Radverkehrskonzept Innenstadt - Zülpicher Platz - geändert beschlossen
+- TOP 3.2.1: Verkehrsversuch Sichere Schiene - geändert beschlossen
+- TOP 3.3: Radverkehrskonzept Innenstadt - Siegburger Straße - geändert beschlossen
+- TOP 3.4: Machbarkeitsstudie zur Verbesserung der SPNV-Verbindungen zwischen Köln, Leverkusen-Opladen, Solingen, Remscheid und Düsseldorf (S1/S17) - ungeändert beschlossen
+- TOP 3.5: Baubeschluss für die fahrrad- und fußgängerfreundliche Umgestaltung der Kölner Ringe im Abschnitt Hohenzollernring, Kaiser-Wilhelm-Ring, Hansaring - geändert beschlossen
+- TOP 3.5.1: Änderungsantrag zu Top 3.5, Radverkehrskonzept Innenstadt - Kölner Ringe - Abschnitt Hohenzollernring, Kaiser-Wilhelm-Ring, Hansaring - ungeändert beschlossen
+- TOP 3.6: Trassenfindung in Teilabschnitten des Niehler Gürtels - ungeändert beschlossen
+- TOP 3.7: Carsharingkonzept - ungeändert beschlossen
+- TOP 3.8: Umgestaltung der Neusser Straße zwischen Innere Kanalstraße und Niehler Kirchweg - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Baubeschluss für die Generalinstandsetzung des Perlengrabens zwischen Blaubach und der Severinsbrücke im Stadtbezirk Innenstadt sowie Freigabe von investiven Auszahlungsgsermächtigungen - hier: Finanzstelle - mit Änderungen empfohlen
+- TOP 4.1.1: TOP 4.1 Baubeschluss für die Generalinstandsetzung des Perlengrabens zwischen Blaubach und der Severinsbrücke im Stadtbezirk Innenstadt sowie Freigabe von investiven Auszahlungsgsermächtigungen - hier: Finanzstelle - ungeändert empfohlen
+- TOP 4.2: Bau eines zusätzlichen Busbetriebshofs Köln Ost der Kölner Verkehrs-Betriebe AG (KVB) in Porz - mit Änderungen empfohlen
+- TOP 4.3: Ladeinfrastruktur im öffentlichen Straßenraum - mit Änderungen empfohlen
+- TOP 4.4: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - mit Änderungen empfohlen
+- TOP 4.5: Fahrplanwechsel 2021 - Anbindung der Ausweichquartiere des Bezirksrathauses Rodenkirchen - ungeändert empfohlen
+- TOP 4.6: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert empfohlen
+- TOP 4.7: Überplanmäßiger Aufwand im Teilergebnisplan 1201, Straßen, Wege, Plätze für das Haushaltsjahr 2020 - ungeändert empfohlen
+- TOP 4.8: Zuständigkeitsübertragung der Linie SB 60 für die Streckenabschnitte auf Kölner Gebiet auf die Stadt Bonn - ungeändert empfohlen
+- TOP 4.9: Erweiterung der P+R-Anlage Weiden West - mit Änderungen empfohlen
+- TOP 4.9.1: 0825/2021 Erweiterung der P&R-Anlage WeidenWest/Verzicht auf Baumfällungen - endgültig abgelehnt
+- TOP 4.10: Stadtbahnanbindung Mülheimer Süden - Bedarfsfeststellungsbeschluss mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-901109, Straßen- u. Stadtbahnbau Mülheimer Süden - ungeändert empfohlen
+- TOP 4.11: Bedarfsfeststellungsbeschluss für die Beschaffung eines Mobilitäts Cockpits Köln -innovativ – integrativ – intelligent (MoCKiii) - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Parkplätze an Kölner Schulen - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Bodenschwellen zur Geschwindigkeitsreduktion von KFZ - Sache ist erledigt
+- TOP 5.2.1.1: Bodenschwellen zur Geschwindigkeitsreduktion von KFZ - Kenntnis genommen
+- TOP 5.2.2: Abgestellte Wohnmobile, Wohnwagen und Freizeitmobile - Sache ist erledigt
+- TOP 5.2.3: Lösungsmöglichkeiten für sog. Protected Bike Lanes (PBL) - Sache ist erledigt
+- TOP 5.2.4: Auswertung von Daten aus der E-Scooter-Nutzung - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Mehr kostengünstige, klimaschonende Park&Ride-Plätze am Stadtrand - Sache ist erledigt
+- TOP 6.2: Mehr kostengünstige, klimaschonende Park&Ride-Plätze am Stadtrand und diese besser anbinden - Sache ist erledigt
+- TOP 6.3: Abstand halten in der Pandemie - Sache ist erledigt
+- TOP 6.4: Spielstraßen - Sache ist erledigt
+- TOP 6.5: Ausschreibung von Machbarkeitsstudien zur Verlängerung der Linie 13 - Sache ist erledigt
+- TOP 6.6: Landeswettbewerb "Mobil.NRW - Mobilität in lebenswerten Städten" - Sache ist erledigt
+- TOP 6.7: Carsharing im öffentlichen Raum - Sache ist erledigt
+- TOP 6.8: Auslastungsanzeige für die Fahrgäste der KVB - Sache ist erledigt
+- TOP 6.9: Verzögerung beim Umbau des Bahnhofs Süd - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Mitteilung über eine Erhöhung der investiven Gesamtauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V. m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2021 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Roadmap - Sachstand 2021 - Kenntnis genommen
+- TOP 7.2.2: Bericht über die Umsetzung von Anträgen des Verkehrsausschusses ab 2014 ff. - Kenntnis genommen
+- TOP 7.2.3: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 7.2.4: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Kenntnis genommen
+- TOP 7.2.5: Fortführung der Lastenradförderung 2020 - Kenntnis genommen
+- TOP 7.2.6: Ergebnis über den Wettbewerb zur Errichtung einer Kfz-Brücke und einer Rad-/ Gehwegbrücke über das Hafenbecken, Deutzer Hafen in Köln-Deutz - Kenntnis genommen
+- TOP 7.2.7: Markthochlauf der Wasserstoffwirtschaft in Köln und der Region - Kenntnis genommen
+- TOP 7.2.8: Stadtradeln 2021 - Kenntnis genommen
+- TOP 7.2.9: Positionspapier der Metropolregion Rheinland (MRR) zur Neuaufstellung des ÖPNV-Bedarfsplans NRW - zurückgestellt
+- TOP 7.2.10: Stadtbahnvorhaben Widdersdorf - Brauweiler - Glessen - Niederaußem - Kenntnis genommen
+- TOP 7.2.11: Ottoplatz - Kenntnis genommen
+- TOP 7.2.12: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Provisorium an der Severinsbrücke - Sache ist erledigt
