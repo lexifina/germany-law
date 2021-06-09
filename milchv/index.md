@@ -7,7 +7,7 @@
 - [§ 2a (weggefallen)](0002a.md)
 - [§ 3 Allgemeine Kennzeichnungsvorschriften](0003.md)
 - [§ 4 Besondere Kennzeichnungsvorschriften](0004.md)
-- [§ 5 Zulassung von Zusatzstoffen](0005.md)
+- [§ 5 Verwendung von Vitaminen](0005.md)
 - [§ 5a](0005a.md)
 - [§ 5b Analysenmethoden](0005b.md)
 - [§ 6 Ausländische Erzeugnisse](0006.md)
@@ -17,7 +17,5 @@
 - [§ 8 Inkrafttreten](0008.md)
 - [Anlage 1 (zu § 1 Abs. 1)](anlage-1.md)
 - [Anlage 1a (weggefallen)](anlage-1a.md)
-- [Anlage 2 (zu § 5 Abs. 1)
-
-Zugelassene Zusatzstoffe](anlage-2.md)
+- [Anlage 2 (zu § 5 Absatz 1)Vitamine](anlage-2.md)
 - [Anlage 3 (zu § 5b Abs. 1)Analysenmethoden](anlage-3.md)
