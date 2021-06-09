@@ -74,6 +74,7 @@
 | § 48 | Bürgerliche Rechtsstreitigkeiten |
 | § 49 | Beschlussklagen nach dem Wohnungseigentumsgesetz |
 | § 50 | Bestimmte Beschwerdeverfahren |
+| § 50a | Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz |
 | § 51 | Gewerblicher Rechtsschutz |
 | § 51a | Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz |
 | § 52 | Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit |

@@ -375,7 +375,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1652 | Reorganisationsverfahren .......... | 1,0 |
 | 1653 | Die Durchführung des Reorganisationsverfahrens wird nicht angeordnet: Die Gebühr 1652 beträgt .......... | 0,2 |
 | Hauptabschnitt 7 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 1700 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, auch i. V. m. § 122a PatG oder § 89a MarkenG, § 69 GWB): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 1700 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, auch i. V. m. § 122a PatG oder § 89a MarkenG, § 69 GWB, § 41 AgrarOLkG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
 | Hauptabschnitt 8 Sonstige Beschwerden und Rechtsbeschwerden |
 | Abschnitt 1 Sonstige Beschwerden |
 | 1810 | Verfahren über Beschwerden nach § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO .......... | 99,00 € |

@@ -84,6 +84,7 @@
 - [§ 48 Bürgerliche Rechtsstreitigkeiten](0048.md)
 - [§ 49 Beschlussklagen nach dem Wohnungseigentumsgesetz](0049.md)
 - [§ 50 Bestimmte Beschwerdeverfahren](0050.md)
+- [§ 50a Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz](0050a.md)
 - [§ 51 Gewerblicher Rechtsschutz](0051.md)
 - [§ 51a Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz](0051a.md)
 - [§ 52 Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit](0052.md)

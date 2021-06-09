@@ -84,7 +84,7 @@ Vorruhestandsgeld, Versorgungsbezügen und Erziehungsgeld oder Elterngeld](0030.
 ## Siebter Abschnitt Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz,
 Datentransparenz
 
-- [§ 56 Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz](0056.md)
+- [§ 56 Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz; Telematikinfrastruktur, Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal](0056.md)
 
 ## Achter Abschnitt Straf- und Bußgeldvorschriften, Anwendung sonstiger Vorschriften
 

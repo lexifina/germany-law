@@ -182,7 +182,9 @@ Beweismittel
 - [§ 88 Untersuchungsgrundsatz](0088.md)
 - [§ 88a Sammlung von geschützten Daten](0088a.md)
 - [§ 88b Länderübergreifender Abruf und Verwendung von Daten zur Verhütung, Ermittlung und Verfolgung von Steuerverkürzungen](0088b.md)
+- [§ 88c Informationsaustausch über kapitalmarktbezogene Gestaltungen](0088c.md)
 - [§ 89 Beratung, Auskunft](0089.md)
+- [§ 89a Vorabverständigungsverfahren](0089a.md)
 - [§ 90 Mitwirkungspflichten der Beteiligten](0090.md)
 - [§ 91 Anhörung Beteiligter](0091.md)
 - [§ 92 Beweismittel](0092.md)
@@ -378,7 +380,7 @@ Steuerbescheiden](0176.md)
 ##### IV. Kosten
 
 - [§ 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden](0178.md)
-- [§ 178a Kosten bei besonderer Inanspruchnahme der Finanzbehörden](0178a.md)
+- [§ 178a (weggefallen)](0178a.md)
 
 #### 2. Unterabschnitt Gesonderte Feststellung
 von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen

@@ -41,6 +41,7 @@ Personenkreis
 - [§ 20 Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung](0020.md)
 - [§ 21 Versicherungspflicht in der sozialen Pflegeversicherung
 für sonstige Personen](0021.md)
+- [§ 21a Versicherungspflicht in der sozialen Pflegeversicherung bei Mitgliedern von Solidargemeinschaften](0021a.md)
 - [§ 22 Befreiung von der Versicherungspflicht](0022.md)
 - [§ 23 Versicherungspflicht für Versicherte der privaten Krankenversicherungsunternehmen](0023.md)
 - [§ 24 Versicherungspflicht der Abgeordneten](0024.md)
@@ -79,7 +80,10 @@ für sonstige Personen](0021.md)
 - [§ 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)](0038.md)
 - [§ 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen](0038a.md)
 - [§ 39 Häusliche Pflege bei Verhinderung der Pflegeperson](0039.md)
+- [§ 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen](0039a.md)
 - [§ 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen](0040.md)
+- [§ 40a Digitale Pflegeanwendungen](0040a.md)
+- [§ 40b Leistungsanspruch beim Einsatz digitaler Pflegeanwendungen](0040b.md)
 
 #### Zweiter Titel Teilstationäre Pflege und
 Kurzzeitpflege
@@ -128,8 +132,7 @@ Kurzzeitpflege
 
 ### Zweiter Abschnitt Zuständigkeit, Mitgliedschaft
 
-- [§ 48 Zuständigkeit für Versicherte einer Krankenkasse
-und sonstige Versicherte](0048.md)
+- [§ 48 Zuständigkeit für Versicherte einer Krankenkasse und sonstige Versicherte](0048.md)
 - [§ 49 Mitgliedschaft](0049.md)
 
 ### Dritter Abschnitt Meldungen
@@ -206,6 +209,7 @@ Leistungserbringern
 
 - [§ 77 Häusliche Pflege durch Einzelpersonen](0077.md)
 - [§ 78 Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen](0078.md)
+- [§ 78a Verträge über digitale Pflegeanwendungen und Verzeichnis für digitale Pflegeanwendungen, Verordnungsermächtigung](0078a.md)
 
 ### Vierter Abschnitt Wirtschaftlichkeitsprüfungen
 
@@ -282,14 +286,14 @@ Pflegekassen
 - [§ 102 Angaben über Leistungsvoraussetzungen](0102.md)
 - [§ 103 Kennzeichen für Leistungsträger und Leistungserbringer](0103.md)
 
-### Zweiter Abschnitt Übermittlung von
-Leistungsdaten
+### Zweiter Abschnitt Übermittlung von Leistungsdaten, Nutzung der Telematikinfrastruktur
 
 - [§ 104 Pflichten der Leistungserbringer](0104.md)
 - [§ 105 Abrechnung pflegerischer Leistungen](0105.md)
 - [§ 106 Abweichende Vereinbarungen](0106.md)
 - [§ 106a Mitteilungspflichten](0106a.md)
 - [§ 106b Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0106b.md)
+- [§ 106c Einbindung der Medizinischen Dienste in die Telematikinfrastruktur](0106c.md)
 
 ### Dritter Abschnitt Datenlöschung, Auskunftspflicht
 
@@ -336,6 +340,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 123 Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung](0123.md)
 - [§ 124 Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat](0124.md)
 - [§ 125 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0125.md)
+- [§ 125a Modellvorhaben zur Erprobung von Telepflege](0125a.md)
 
 ## Vierzehntes Kapitel Zulagenförderung der privaten Pflegevorsorge
 

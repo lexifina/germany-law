@@ -243,8 +243,8 @@
 - [§ 44b Erstattung der Kapitalertragsteuer](0044b.md)
 - [§ 45 Ausschluss der Erstattung von Kapitalertragsteuer](0045.md)
 - [§ 45a Anmeldung und Bescheinigung der Kapitalertragsteuer](0045a.md)
-- [§ 45b (weggefallen)](0045b.md)
-- [§ 45c (weggefallen)](0045c.md)
+- [§ 45b Angaben zur Bescheinigung und Abführung der Kapitalertragsteuer](0045b.md)
+- [§ 45c Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer](0045c.md)
 - [§ 45d Mitteilungen an das Bundeszentralamt für Steuern](0045d.md)
 - [§ 45e Ermächtigung für Zinsinformationsverordnung](0045e.md)
 
@@ -270,8 +270,8 @@
 ## IX. Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften
 
 - [§ 50b Prüfungsrecht](0050b.md)
-- [§ 50c (weggefallen)](0050c.md)
-- [§ 50d Besonderheiten im Fall von Doppelbesteuerungsabkommen und der §§ 43b und 50g](0050d.md)
+- [§ 50c Entlastung vom Steuerabzug in bestimmten Fällen](0050c.md)
+- [§ 50d Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung](0050d.md)
 - [§ 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten](0050e.md)
 - [§ 50f Bußgeldvorschriften](0050f.md)
 - [§ 50g Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europäischen Union](0050g.md)

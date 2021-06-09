@@ -13,6 +13,7 @@
 - [§ 4 Anforderungen an Datenschutz und Datensicherheit](0004.md)
 - [§ 5 Anforderungen an Qualität](0005.md)
 - [§ 6 Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität](0006.md)
+- [§ 6a Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte](0006a.md)
 - [§ 7 Nachweis durch Zertifikate](0007.md)
 
 ## Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte

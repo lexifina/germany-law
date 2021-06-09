@@ -37,6 +37,7 @@
 | Versicherungspflichtiger Personenkreis |
 | § 20 | Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung |
 | § 21 | Versicherungspflicht in der sozialen Pflegeversicherung für sonstige Personen |
+| § 21a | Versicherungspflicht in der sozialen Pflegeversicherung bei Mitgliedern von Solidargemeinschaften |
 | § 22 | Befreiung von der Versicherungspflicht |
 | § 23 | Versicherungspflicht für Versicherte der privaten Krankenversicherungsunternehmen |
 | § 24 | Versicherungspflicht der Abgeordneten |
@@ -75,7 +76,10 @@
 | § 38 | Kombination von Geldleistung und Sachleistung (Kombinationsleistung) |
 | § 38a | Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen |
 | § 39 | Häusliche Pflege bei Verhinderung der Pflegeperson |
+| § 39a | Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen |
 | § 40 | Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen |
+| § 40a | Digitale Pflegeanwendungen |
+| § 40b | Leistungsanspruch beim Einsatz digitaler Pflegeanwendungen |
 |  |  |
 | Zweiter Titel |
 | Teilstationäre Pflege und Kurzzeitpflege |
@@ -197,6 +201,7 @@
 | Beziehungen zu sonstigen Leistungserbringern |
 | § 77 | Häusliche Pflege durch Einzelpersonen |
 | § 78 | Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen |
+| § 78a | Verträge über digitale Pflegeanwendungen und Verzeichnis für digitale Pflegeanwendungen, Verordnungsermächtigung |
 |  |  |
 | Vierter Abschnitt |
 | Wirtschaftlichkeitsprüfungen |
@@ -274,12 +279,13 @@
 | § 103 | Kennzeichen für Leistungsträger und Leistungserbringer |
 |  |  |
 | Zweiter Abschnitt |
-| Übermittlung von Leistungsdaten |
+| Übermittlung von Leistungsdaten, Nutzung der Telematikinfrastruktur |
 | § 104 | Pflichten der Leistungserbringer |
 | § 105 | Abrechnung pflegerischer Leistungen |
 | § 106 | Abweichende Vereinbarungen |
 | § 106a | Mitteilungspflichten |
 | § 106b | Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
+| § 106c | Einbindung der Medizinischen Dienste in die Telematikinfrastruktur |
 |  |  |
 | Dritter Abschnitt |
 | Datenlöschung, Auskunftspflicht |
@@ -326,6 +332,7 @@
 | § 123 | Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung |
 | § 124 | Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat |
 | § 125 | Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
+| § 125a | Modellvorhaben zur Erprobung von Telepflege |
 |  |
 | Vierzehntes Kapitel |
 | Zulagenförderung der privaten Pflegevorsorge |

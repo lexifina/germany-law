@@ -56,7 +56,7 @@ Ausnahmevorschriften
 - [§ 26a Anzeige der Ausübung der tatsächlichen Gewalt](0026a.md)
 - [§ 26b Übergangsregelungen für das in Artikel 3 des Einigungsvertrages genannte Gebiet](0026b.md)
 - [§ 27 Zwischenstaatliche Verträge](0027.md)
-- [§ 28 Berlin-Klausel](0028.md)
+- [§ 28 Gebühren](0028.md)
 - [§ 29 Inkrafttreten](0029.md)
 - [Anlage (zu § 1 Abs. 1)
 

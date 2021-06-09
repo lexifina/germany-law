@@ -4,6 +4,7 @@
 ## Erster Teil Internationale Verflechtungen
 
 - [§ 1 Berichtigung von Einkünften](0001.md)
+- [§ 1a Preisanpassungsklausel](0001a.md)
 
 ## Zweiter Teil Wohnsitzwechsel in niedrigbesteuernde
 Gebiete

@@ -194,7 +194,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 |  |  |  |
 | Vorbemerkung 3.3.1:Die Terminsgebühr bestimmt sich nach Abschnitt 1. |
 |  |
-| 3300 | Verfahrensgebühr1.für das Verfahren vor dem Oberlandesgericht nach § 129 VGG,2.für das erstinstanzliche Verfahren vor dem Bundesverwaltungsgericht, dem Bundessozialgericht, dem Oberverwaltungsgericht (Verwaltungsgerichtshof) und dem Landessozialgericht sowie3.für das Verfahren bei überlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren vor den Oberlandesgerichten, den Landessozialgerichten, den Oberverwaltungsgerichten, den Landesarbeitsgerichten oder einem obersten Gerichtshof des Bundes | 1,6 |
+| 3300 | Verfahrensgebühr1.für das Verfahren vor dem Oberlandesgericht nach § 129 VGG oder § 32 AgrarOLkG,2.für das erstinstanzliche Verfahren vor dem Bundesverwaltungsgericht, dem Bundessozialgericht, dem Oberverwaltungsgericht (Verwaltungsgerichtshof) und dem Landessozialgericht sowie3.für das Verfahren bei überlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren vor den Oberlandesgerichten, den Landessozialgerichten, den Oberverwaltungsgerichten, den Landesarbeitsgerichten oder einem obersten Gerichtshof des Bundes | 1,6 |
 | 3301 | Vorzeitige Beendigung des Auftrags:Die Gebühr 3300 beträgt ............................ | 1,0 |
 |  | Die Anmerkung zu Nummer 3201 gilt entsprechend. |  |
 |  |

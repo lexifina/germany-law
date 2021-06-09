@@ -170,7 +170,9 @@
 | § 88 | Untersuchungsgrundsatz |
 | § 88a | Sammlung von geschützten Daten |
 | § 88b | Länderübergreifender Abruf und Verwendung von Daten zur Verhütung, Ermittlung und Verfolgung von Steuerverkürzungen |
+| § 88c | Informationsaustausch über kapitalmarktbezogene Gestaltungen |
 | § 89 | Beratung, Auskunft |
+| § 89a | Vorabverständigungsverfahren |
 | § 90 | Mitwirkungspflichten der Beteiligten |
 | § 91 | Anhörung Beteiligter |
 | § 92 | Beweismittel |
@@ -342,7 +344,6 @@
 |  |  |
 | IV. Kosten |
 | § 178 | Kosten bei besonderer Inanspruchnahme der Zollbehörden |
-| § 178a | Kosten bei besonderer Inanspruchnahme der Finanzbehörden |
 |  |  |
 | 2. Unterabschnitt |
 | Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen |
