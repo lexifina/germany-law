@@ -27,7 +27,7 @@ Grundsätze und Fristen
       eine regionale oder überregionale, zentrale Einrichtung des Eisenbahnverkehrsunternehmens zur Überwachung des betrieblichen Ist-Zustandes, zur Einleitung von Maßnahmen bei Verspätungen oder Störungsfällen sowie zur Disposition der unternehmenseigenen Züge auf dem Netz.
   c) in der See- und Binnenschifffahrt
     aa) Anlage oder System zum Betrieb von Bundeswasserstraßen
-      eine Anlage oder System zum sicheren Betrieb einer Wasserstraße nach § 1 Absatz 4 Nummer 1 des Bundeswasserstraßengesetzes in der jeweils geltenden Fassung.
+      eine Anlage oder System zum sicheren Betrieb einer Wasserstraße nach § 1 Absatz 6 Nummer 1 des Bundeswasserstraßengesetzes in der jeweils geltenden Fassung.
     bb) Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt
       Revier- und Verkehrszentralen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.
     cc) Leitzentrale von Betreibern und Verkehrsunternehmen der Seeschifffahrt

@@ -14,7 +14,7 @@
 zur Verwendung in diätetischen Lebensmitteln
 
 - [§ 5](0005.md)
-- [§ 6](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7](0007.md)
 - [§ 7a](0007a.md)
 - [§ 7b](0007b.md)

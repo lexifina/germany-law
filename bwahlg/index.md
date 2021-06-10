@@ -86,6 +86,7 @@ im Deutschen Bundestag
 - [§ 50 Wahlkosten](0050.md)
 - [§ 51 (weggefallen)](0051.md)
 - [§ 52 Erlass von Rechtsverordnungen](0052.md)
+- [§ 52a Unterstützungsunterschriften bei der Bundestagswahl 2021](0052a.md)
 - [§ 53 Übergangsregelung](0053.md)
 - [§ 54 Fristen, Termine und Form](0054.md)
 - [§ 55 Reformkommission](0055.md)
