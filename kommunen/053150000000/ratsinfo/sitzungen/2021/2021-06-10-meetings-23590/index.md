@@ -1,0 +1,133 @@
+# 5. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-10T17:00:00+02:00
+- Ende: 2021-06-10T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23590
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23590
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Bezirksjugendpflegers Sascha Wolff - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage vom 15.04.2021 betreffend Nachpflanzung von Bäumen in Kalk Nord - zurückgestellt
+- TOP 1.2: Einwohnerfrage vom 31.05.2021 betreffend Zukunft des Kalkbergs - zurückgestellt
+- TOP 1.3: Einwohnerfrage vom 13.04.2021 betreffend Vernachlässigung des Stadtteils Neubrück - Kenntnis genommen
+- TOP 1.4: Einwohnerfrage vom 26.05.2021 betreffend Zukunft Spielplatz Gießener Straße (Spielplatznummer 8010107) - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Ampel für Ausfahrt Aldi und Lidl Olpener Straße (Az.: 02-1600-08/21) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Fahrradwegabsenkung und Erweiterung des Fahrradbereiches an der Kreuzung Frankfurter Straße/Höhenberger Ring in Richtung Merheimer Heide in Köln-Höhenberg - Sache ist erledigt
+- TOP -: Fahrradwegabsenkung und Erweiterung des Fahrradbereiches an der Kreuzung Frankfurter Straße/Höhenberger Ring in Richtung Merheimer Heide in Köln-Höhenberg - geändert beschlossen
+- TOP 7.2: Baumfällungen am Rather See in Köln-Rath/Heumar - endgültig zurückgezogen
+- TOP -: Baumfällungen am Rather See in Köln-Rath/Heumar - endgültig abgelehnt
+- TOP -: Betreff: Baumfällungen am Rather See in Köln-Rath/Heumar Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der Fraktion DIE LINKE. vom 19.04.2021 AN/0859/2021 und AN/0672/2021 - Kenntnis genommen
+- TOP -: Baumfällungen am Rather See in Köln-Rath/Heumar - geändert beschlossen
+- TOP 7.3: „Füchse im Stadtteil Merheim“ - endgültig abgelehnt
+- TOP 7.4: Unterbinden des unzulässigen Befahrens und Beparkens des Fuß- und Radwegs zwischen Kalk-Mülheimer Straße und Wipperfürther Straße in Köln-Kalk - geändert beschlossen
+- TOP -: Unterbinden des unzulässigen Befahrens und Beparkens des Fuß- und Radwegs zwischen Kalk-Mülheimer Straße und Wipperfürther Straße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.5: Mehr Freiraum für die Kalker Hauptstraße in Köln-Kalk - ungeändert beschlossen
+- TOP -: Mehr Freiraum für die Kalker Hauptstraße in Köln-Kalk - Sache ist erledigt
+- TOP 7.6: Bessere Informationen zu Baumfällungen und Ersatzpflanzungen im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: Bessere Informationen zu Baumfällungen und Ersatzpflanzungen im Stadtbezirk Kalk - Sache ist erledigt
+- TOP -: Bessere Informationen zu Baumfällungen und Ersatzpflanzungen im Stadtbezirk Kalk - geändert beschlossen
+- TOP 7.7: Frauen im Alltag sichtbar machen - geändert beschlossen
+- TOP 7.8: Die Durchwegung von der Kalker Hauptstraße bis zur Vorsterstraße in Köln-Kalk attraktiver gestalten - zurückgestellt
+- TOP 7.9: Verkehrssichere Schulwege an der zukünftigen Grundschule an der Thessaloniki-Allee in Köln-Kalk jetzt schon schaffen - geändert beschlossen
+- TOP 7.10: Einrichtung von Insektenhotels für Schmetterlinge, Bienen und Insekten - geändert beschlossen
+- TOP 7.11: Schaffung von Fahrradabstellplätzen auf der Olpener Straße zwischen Frankfurter Straße und Germaniastraße in Köln-Höhenberg - zurückgestellt
+- TOP 7.12: Baum-Kübelpflanzung in folgenden Nebenstraßen, wie zum Beispiel in der Eythstraße, Thumbstraße oder Neuerburgstraße in Köln-Kalk - geändert beschlossen
+- TOP 7.13: Gestaltung des Platzes an der Martha-Mense-Straße/Kapellenstraße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.14: Instandsetzung und Beleuchtung des Fußwegs zwischen Hans-Schulten-Straße und Astrid-Lindgren-Allee in Köln-Brück - ungeändert beschlossen
+- TOP 7.15: Lärm- und Schallschutzanlagen im Streckenbereich Autobahnkreuz (AK) Köln-Ost bis Anschlussstelle (AS) Refrath - geändert beschlossen
+- TOP 7.16: Verstetigung von Programmen über das Förderprogramm „Dritte Orte“ - ungeändert beschlossen
+- TOP 7.17: Freiräume in der Loéstraße in Köln-Kalk schaffen! - endgültig abgelehnt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für den barrierefreien Umbau von 5 Haltestellen (7 Haltekanten) auf der KVB-Linie 157 im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: Baubeschluss für den barrierefreien Umbau von 5 Haltestellen (7 Haltekanten) auf der KVB-Linie 157 im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP -: Baubeschluss für den barrierefreien Umbau von 5 Haltestellen (7 Haltekanten) auf der KVB-Linie 157 im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.1.2: Toilettensituation an der S-Bahnhaltestelle Trimbornstraße - Alternative beschlossen
+- TOP 8.1.3: Umgestaltung des Spielplatzes Alter Friedhofsweg in Köln-Merheim - ungeändert beschlossen
+- TOP 8.1.4: Sportpark Höhenberg - Kunststoffrasen Belagswechsel - ungeändert beschlossen
+- TOP 8.1.5: Baubeschluss für die Markierung eines Verkehrsübergangsparcours auf dem Ottmar-Pohl-Platz in Kalk - ungeändert beschlossen
+- TOP 8.1.6: Beflaggung des Bezirksrathauses Kalk mit der Regenbogenfahne am 17. Mai 2021 - ungeändert beschlossen
+- TOP 8.1.7: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 8.1.8: Projektanträge im Rahmen des vierten Antragsdurchlaufs des Verfügungsfonds für das Gebiet „Soziale Stadt“ „Humboldt/Gremberg und Kalk“ - geändert beschlossen
+- TOP 8.1.9: Planung verkehrlicher Maßnahmen zur Schulwegsicherung am neuen Schulstandort in der Vietorstraße/Thessaloniki-Allee in Kalk - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 8.2.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: - geändert beschlossen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) || Arbeitstitel: Astrid-Lindgren-Allee in Köln-Kalk (0997/2021) - geändert beschlossen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) || Arbeitstitel: Astrid-Lindgren-Allee in Köln-Kalk-Brück - endgültig zurückgezogen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) || Arbeitstitel: Astrid-Lindgren-Allee in Köln-Kalk (0997/2021) - ungeändert beschlossen
+- TOP 8.2.3: Zuschuss FC Viktoria Köln 1904 e.V. zur Errichtung eines Naturrasenplatzes - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Parkplätze der Kaiserin-Theophanu-Schule (KTS) entsiegeln - zur Anfrage von Bündnis90/Die Grünen AN/0695/2021 - Kenntnis genommen
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Gestaltung des Spielplatzes Gießener Straße in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.1.4: Falsch aufgestellte Bänke in der Merheimer Heide in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.5: Presseinformation „Temporäre Spielstraßen -Stadt Köln ermöglicht mehr Raum für Spiel im Freien“ - Kenntnis genommen
+- TOP 9.1.6: Grünüberwuchs entlang des Rather Kirchweges in Köln-Neubrück/-Brück - Kenntnis genommen
+- TOP 9.1.7: Fertigstellung und Eröffnung der Skateranlage am Günter-Kuxdorf-Weg in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.8: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der SPD-Fraktion in der Bezirksvertretung Kalk - Kenntnis genommen
+- TOP 9.1.9: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen der BV8, vom 26.01.2021, AN/0208/2021 - Kenntnis genommen
+- TOP 9.1.10: Beantwortung der Anfrage der Bezirksvertreterin Topp-Burghardt - Kenntnis genommen
+- TOP 9.1.11: Beantwortung der Anfrage der Bezirksvertreterin Grube (Bündnis90/Die Grünen) aus der Sitzung der Bezirksvertretung Kalk v. 04.03.2021 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Baumbestand im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.2: Sachstand Instandsetzung der Abgrenzung des Bachbetts in der Abshofstraße in Köln-Merheim - Kenntnis genommen
+- TOP -: Sachstand Instandsetzung des Bachbetts in der Abshofstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.3: Bedarf an Quartiersgaragen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.4: Lastenräder im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.5: Einsamer Baumstamm auf dem Merheimer Heideweg in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2.6: Verbindung zwischen den Veedeln Humboldt/Gremberg und Kalk im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.7: Halle 75 in Kalk Süd - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 9.4: Offene Anfragen aus früheren Sitzungen
+- TOP 9.4.1: Porzer Straße in Köln-Rath/Heumar
+- TOP 9.4.2: Betriebswirtschaftliche Entwicklung des Industriegebiets Kalk-Süd (Hallen Kalk)
+- TOP 9.4.3: Autos, Fußgänger, Alkohol und Turnhallen im Stadtbezirk Kalk
+- TOP 9.4.4: Entsiegelung von Plätzen und Flächen im Stadtbezirk Kalk
+- TOP 9.4.5: Sicherung des Marienstandbilds am der Wikinger Straße, Höhe Einfahrt Bahnhof Heumar, in Köln-Rath/Heumar
+- TOP 9.4.6: Instandsetzung und Beleuchtung des Fußwegs zwischen Hans-Schulten-Straße und Astrid-Lindgren-Allee in Köln-Brück
+- TOP 9.4.7: Grünstreifen zwischen Vietorstraße, Kalk-Mülheimer Straße, Vorsterstraße und Kalker Hauptstraße in Köln-Kalk
+- TOP 9.4.8: Mähen des Straßenbegleitgrüns im Stadtbezirk Kalk
+- TOP 9.4.9: Eröffnung eines Wettbüros im Ortskern des Stadtteils Rath/Heumar
+- TOP 9.4.10: Günter-Kuxdorf-Weg/Merheimer Heideweg in Köln-Merheim
+- TOP 9.4.11: Sind "Freizeit – Umwelt – Sport" Gegensätze oder vereinbar?
+- TOP 9.4.12: Bauvorhaben in der Straße Hainbuchenweg in Köln-Rath/Heumar
+- TOP 9.4.13: Kreisverkehr an der Olpener Straße/Burgstraße/Höhenberger Straße/Münchener Straße in Köln-Höhenberg (Antrag der SPD-Fraktion vom 17.11.2020) AN/1262/2020
+- TOP 9.4.14: Fehlende Neupflanzung von Bäumen an der Lüttringhauser Straße, Remscheider Straße und Wipperfürther Straße in Köln-Kalk
+- TOP 9.4.15: Offene bzw. nicht umgesetzte Beschlüsse aus der Bezirksvertretung Kalk
+- TOP 9.4.16: Situation an der Haltestelle Trimbornstraße in Köln-Kalk
+- TOP 9.4.17: Grünstreifen in Köln-Kalk
+- TOP 9.4.18: Geruchsbelästigung in den späteren Abendstunden in Köln-Brück und -Merheim
+- TOP 9.4.19: Grünflächenwachstum im Vergleich zum Einwohnerwachstum im Stadtteil Kalk
+- TOP 9.4.20: Hallen Kalk 75,76,77 in Köln-Kalk - Wie geht es weiter?
+- TOP 9.4.21: Durchführung von Ortsterminen mit der Bezirksvertretung und der Verwaltung
+- TOP 9.4.22: Informationen über Schutzmaßnahmen zur Corona-Pandemie für spezielle Bevölkerungsgruppen im Stadtbezirk Kalk
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht zu den Schulen GGS und KGS Kapitelstraße in Köln-Kalk und KGS Zehnthofstraße in Köln-Ostheim sowie zur Schulneubaumaßnahme Thessaloniki-Allee in Köln-Kalk - Kenntnis genommen
+- TOP -: Stellungnahme zum Sachstand an der KGS Zehnthofstraße 22-24 - Kenntnis genommen
+- TOP -: Sachstandsbericht Schulbauten im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 10.2.3: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 10.2.4: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Verbesserung der Helligkeit in der Unterführung Kalker Hauptstraße/Olpener Straße in Köln-Höhenberg/-Kalk - Kenntnis genommen
+- TOP 10.2.6: Verbesserung der Helligkeit in der Unterführung Ostheimer Straße/Dillenburger Straße in Köln-Vingst/-Kalk - Kenntnis genommen
+- TOP 10.2.7: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.8: Versetzen der Querungshilfe auf der Höhenberger Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 10.2.9: Überprüfung der Querungen und Ampelanlagen auf dem Rather Mauspfad in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.10: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
