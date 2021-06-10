@@ -1,0 +1,8 @@
+# TOP -: Sachstandsbericht Schulbauten im Stadtbezirk Kalk
+
+- Sitzung: 5. Sitzung der Bezirksvertretung Kalk (2021-06-10)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/325665
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/153257
