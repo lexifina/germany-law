@@ -1,0 +1,77 @@
+# 26. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-06-10T16:00:00+02:00
+- Ende: 2021-06-10T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/9757
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/9757
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00547783.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema „Fördermittelvergabe – Einschränkung der kommunalen Selbstverwaltung“ - erledigt
+- TOP 4: Aktuelle Stunde zum Thema: „Innenstadt nach Corona stärken und Ladenleerständen kreativ begegnen” - erledigt
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Einigungsverfahren Gremienbesetzung
+- TOP 6.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 6.2: Ausschuss für Finanzen - Einigung
+- TOP 6.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Einigung
+- TOP 6.4: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Einigung
+- TOP 6.5: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 6.6: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 6.7: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Einigung
+- TOP 6.8: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 6.9: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 6.10: Ausschuss für Umwelt und Kommunalwirtschaft (Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 6.11: Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 7: Förderung der Landeshauptstadt Dresden „Unternehmen helfen Unternehmen“ als Unterstützungsfonds zur Bewältigung der Auswirkungen durch die Corona-Pandemie - Zustimmung
+- TOP 8: Corona-Bewältigungsfonds 2021 für Kultur und Tourismus und Änderung der Förderrichtlinie Großveranstaltungen vom 21. März 2013 - Ersetzung
+- TOP 9: Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung) - Zustimmung mit Ergänzung
+- TOP 10: Neufassung der Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) – Korrektur des Stadtratsbeschlusses V0166/19 vom 25. März 2021 - Zustimmung
+- TOP 11: Medizinstrategische und bauliche Entwicklung des Städtischen Klinikums Dresden - Ersetzung
+- TOP 12: Zweitgutachten zur Restrukturierung des Städtischen Klinikums - zurückgezogen
+- TOP 13: Bestätigung von Mehrkosten im Rahmen der investiven Sportförderung für das Fördervorhaben: Neubau Trainingszentrum für die SG Dynamo Dresden e. V. im Ostragehege Dresden - Zustimmung mit Ergänzung
+- TOP 14: Betriebsbeihilfe für die Stadion Dresden Projektgesellschaft mbH & Co. KG - Zustimmung
+- TOP 15: Ausreichung eines Trägerdarlehens an den Eigenbetrieb Sportstätten Dresden - Zustimmung
+- TOP 16: Bereitstellung von Schwimmhallenkapazitäten für Grundschüler - Ablehnung
+- TOP 17: Sonderregelungen bei Eintritt von Fällen höherer Gewalt wie Pandemielagen für den Striezelmarkt 2021 - Zustimmung
+- TOP 18: Verlängerung des 587. Striezelmarktes im Jahr 2021 - Zustimmung
+- TOP 19: Verlängerung der thematischen Weihnachtsmärkte Dresdens im Jahr 2021 - Zustimmung
+- TOP 20: Ausschreibung von Dienstleistungskonzessionen für die Organisation und Durchführung von Thematischen Weihnachtsmärkten, einer Thematischen Weihnachtsveranstaltung sowie einer Jahreswechselveranstaltung in den Jahren 2022 bis 2024 einschließlich einer - Zustimmung mit Ergänzung
+- TOP 21: Anpassung der Preiskategorien und Platzgruppen der Staatsoperette Dresden - Zustimmung
+- TOP 22: Ertüchtigung der "ROBOTRON-KANTINE" für die OSTRALE Biennale O21 - Zustimmung
+- TOP 23: Kultursommer in Dresden 2021 - Zustimmung
+- TOP 24: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung durch Einreicher
+- TOP 25: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung durch Einreicher
+- TOP 26: Schaufenster „Sichere Digitale Identitäten“: Förderprojekt ID-Ideal - Management digitaler Identitäten - in der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 27: Feststellung des Jahresabschlusses 2019 der Landeshauptstadt Dresden - Zustimmung
+- TOP 28: Gewährung einer einmaligen außertariflichen Zahlung (Prämie) an die Beschäftigten des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden im Geschäftsjahr 2021 für ihre besonderen Leistungen während der Coronapandemie 2020/21 - Zustimmung
+- TOP 29: Gewährung von Bildungsurlaub unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und Auszubildenden der Landeshauptstadt Dresden; Aufhebung der Befristung - Zustimmung
+- TOP 30: Evaluation Schulbauleitlinien - Vertagung nach 22 Uhr
+- TOP 31: Aufnahme der Kindertageseinrichtung Maxim-Gorki-Straße 42 in 01127 Dresden, zum 1. des Monats nach Stadtratsbeschluss in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2021/2022 - Zustimmung
+- TOP 32: Schutz der Gedenkstätte am Altmarkt vor Verunreinigungen durch Graffitischmierereien - Vertagung nach 22 Uhr
+- TOP 33: Konzept zur Schaffung eines Vernetzungs- und Beteiligungszentrums in der inneren Altstadt - Ablehnung
+- TOP 34: An die Opfer gruppenbezogener Menschenfeindlichkeit erinnern. Gewaltprophylaxe systematisch betreiben. - Vertagung durch Einreicher
+- TOP 35: Neufassung Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung mit Ergänzung
+- TOP 36: Neues Wohnen auf städtischen Flächen fördern - Wagenplätze in Dresden ermöglichen - Ersetzung
+- TOP 37: Wohnungslosigkeit auch zukünftig bekämpfen - Vertagung
+- TOP 38: Menstruation ist kein Luxus – Für die kostenlose Bereitstellung von Monatshygiene auf städtischen Toiletten - Vertagung durch Einreicher
+- TOP 39: Neue Wohnbauflächen in der Neustadt entwickeln! - Vertagung nach 22 Uhr
+- TOP 40: Kompensationspflicht bei Stellplatzwegfall - Vertagung nach 22 Uhr
+- TOP 41: Bestätigung der Gebietsumgriffe und Entwicklungsstrategien für neue Fördergebiete der Stadterneu-erung und Auftrag zur Akquirierung von Fördermitteln - Vertagung nach 22 Uhr
+- TOP 42: Parkplatz neben dem „Blauen Wunder" - Ersetzung - punktweise Abstimmung
+- TOP 43: Für mehr Gleichberechtigung im Straßenverkehr und Sicherheit von Fußgänger*innen: Fehlende Fußgängerampeln an Kreuzungen nachrüsten - Vertagung
+- TOP 44: E-Petition "Neues Rathaus? Die Bürger sollen entscheiden!" - Zustimmung - Petition nicht abgeholfen
+- TOP 45: Liegenschaft Schloss Roßthal - Vertagung nach 22 Uhr
+- TOP 46: Neubenennung von Straßen - Zustimmung
+- TOP 47: Hochwasserrisikomanagementplan für den Kaitzbach - Zustimmung
+- TOP 48: Umstellung auf Ökostrom bei DREWAG und Stadt voranbringen - Vertagung durch Einreicher
+- TOP 49: Novellierung der Dresdner Gehölzschutzsatzung - Vertagung nach 22 Uhr
+- TOP 50: Fachkräftesicherungsstrategie für Dresden – transparent, lokal und regional koordiniert - Vertagung nach 22 Uhr
+- TOP 52: Der Konzentration auf dem Dresdner Wohnungsmarkt entgegenwirken - Ersetzung
