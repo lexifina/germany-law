@@ -1,0 +1,88 @@
+# 6. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-10T16:00:00+02:00
+- Ende: 2021-06-10T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23348
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23348
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: C - Torschlüssel des FHPD - Entgegennahme des Preises für besonderes ehrenamtliches Engagement im Bereich von Archäologie und Stadtgeschichte
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde - Vermüllung von Plätzen und Parkanlagen anhand des Beispiels Neusser Platz - auf Antrag der CDU
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln - ungeändert beschlossen
+- TOP 3.1.1: Rechte der Seniorenvertretungen stärken, Änderungsantrag Die Linke - endgültig abgelehnt
+- TOP 3.2: Umgestaltung Spielplatz Buschgasse in Altstadt/Süd - geändert beschlossen
+- TOP 3.3: Radverkehrskonzept Innenstadt - Siegburger Straße - geändert beschlossen
+- TOP 3.3.1: ÄA zur Vorlage 1071/2021 - Radfahrstreifen Siegburger Straße, Änderungsantrag Grüne - ungeändert beschlossen
+- TOP 3.3.2: Änderungsantrag Siegburger Straße, Änderungsantrag Die Linke - geändert beschlossen
+- TOP 3.4: Radverkehrskonzept Innenstadt - Zülpicher Platz - ungeändert beschlossen
+- TOP 3.5: Baubeschluss für die fahrrad- und fußgängerfreundliche Umgestaltung der Kölner Ringe im Abschnitt Hohenzollernring, Kaiser-Wilhelm-Ring, Hansaring - geändert beschlossen
+- TOP 3.5.1: Verkehrsversuch Pop-Up-Bike-Lane zwischen Kreuzung Kümpchenshof und Erftstraße, gem. Änderungsantrag Grüne, Die Linke, Klimafreunde und Die Partei - geändert beschlossen
+- TOP 3.5.2: ÄA zu 3.5 Gestaltung der Rechtsabiegemöglichkeit an der Kreuzung Kaiser-Wilhelm-Anlage/Christophstraße, gem. Änderungsantrag Grüne, Die Linke, Klimafreunde und Die Partei - ungeändert beschlossen
+- TOP 3.6: Baumneupflanzungen in der Veledastraße und der Vondelstraße - ungeändert beschlossen
+- TOP 3.7: Fläche für Urban Gardening Projekt „Sachsenring“ - ungeändert beschlossen
+- TOP 3.8: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 3.9: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Altstadt / Nord Arbeitstitel: "Westlich unter Goldschmied (Laurenz Carré)" - ungeändert beschlossen
+- TOP 3.10: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 3.11: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 3.12: Einbau eines Leckage-Schutzsystems und Trennung von Lösch- und Trinkwasser im Bürgerhaus Stollwerck - ungeändert beschlossen
+- TOP 3.13: Stadtbahnanbindung Mülheimer Süden - Bedarfsfeststellungsbeschluss mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-901109, Straßen- u. Stadtbahnbau Mülheimer Süden - ungeändert beschlossen
+- TOP 3.14: Neue Verkehrsführung im Apostelnquartier - ungeändert beschlossen
+- TOP 3.15: Neue Verkehrsführung im Bereich der Severinstraße - ungeändert beschlossen
+- TOP 3.16: Drogenhilfeangebote am Neumarkt - ungeändert beschlossen
+- TOP 3.17: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil I b - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO – „Einrichtung eines Europaplatzes" Aktenzeichen 34/21B - zurückgestellt
+- TOP 4.2: Bürgereingabe nach § 24 GO "Aufwertung Spielplatz Hafenpark an der Drehbrücke", AZ 58/21 S - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Fahrradparkplätze im Pantaleonsviertel (Az.: 02-1600-154/20) - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Severinskirchplatz und An St.Magdalenen, gem. Antrag Grüne und SPD - ungeändert beschlossen
+- TOP 5.2.2: Gedenktafel/-Plakette für Michael "Mike" Jovy, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.3: Fort X - ungeändert beschlossen
+- TOP 5.2.4: Neuordnung der Verkehre im Bereich Deutz-Mülheimer Str./Justinianstr./Opladener Str., Antrag Grüne - zurückgestellt
+- TOP 5.2.5: Maßnahmen zur Verstetigung der Soziale Erhaltungssatzung im Severinsviertel, gem. Antrag Grüne, SPD und Die Linke - ungeändert beschlossen
+- TOP 5.2.6: Neuordnung der Verkehrsführung an der LVR-Baustelle Ottoplatz, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Superblöcke für Köln - für Aufenthaltsqualität und die Verkehrswende im Veedel, gem. Antrag Grüne, Die Linke, Klimafreunde und Die Partei - zurückgestellt
+- TOP 5.2.8: Außengastronomie 2021/2022, gem. Antrag Grüne, CDU, SPD, Die Linke, FDP, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 5.2.9: DA zur Mitteilung 2144/2021 - Treppenturm/Sanierung Drehbrücke, Antrag Grüne - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.3: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.1.4: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016), Antrag SPD - zurückgestellt
+- TOP 6.1.5: Sachstandsanfrage zu zwei Spielplätzen, Anfrage CDU - Sache ist erledigt
+- TOP 6.1.5.1: Sachstandsanfrage zu zwei Spielplätzen (AN/0484/2021) Spielplatz "Perlengraben" (1 01 04 01) und " Von den Siebenburgen" (1 01 04 03) - Kenntnis genommen
+- TOP 6.1.6: Baulücke Richard-Wagner-Straße, Anfrage Die Linke - Sache ist erledigt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Straßenlärm macht krank – Lärmeinwirkungen im Bezirk Innenstadt, Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Ampelschaltung neuer Überweg Innere Kanalstraße, Anfrage Grüne - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet City-Martinsviertel (CITY) - Kenntnis genommen
+- TOP 9.2: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet Nördlich Neumarkt (NEU) - Kenntnis genommen
+- TOP 9.3: Temporäre Spielstraßen - Kenntnis genommen
+- TOP 9.4: Sachstand: Erfassung der Geruchslage im Bereich der Weidengasse durch ein Gutachten nach Geruchsimmissionsrichtlinie (GIRL) durch das Umwelt- und Verbraucherschutzamt der Stadt Köln - Kenntnis genommen
+- TOP 9.5: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 9.6: Ergebnis über den Wettbewerb zur Errichtung einer Kfz-Brücke und einer Rad-/ Gehwegbrücke über das Hafenbecken, Deutzer Hafen in Köln-Deutz - Kenntnis genommen
+- TOP 9.7: Verbreiterung des Geh-/ Radweges im Gereonswall/Klingelpütz - Kenntnis genommen
+- TOP 9.8: Aufstellung von Messgeräten an der Bastei (AN/0681/2021) - Kenntnis genommen
+- TOP 9.9: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 9.10: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 9.11: "Der Städtebauliche Masterplan für die Innenstadt Köln" hier: Aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 9.12: Ottoplatz - Kenntnis genommen
+- TOP 9.13: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
+- TOP 9.14: Sanierung der Drehbrücke im Deutzer Hafen - Sachstand zur Erstellung eines Treppenturms - Kenntnis genommen
