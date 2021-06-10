@@ -1,0 +1,85 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-06-10T18:41:00+02:00
+- Ende: 2021-06-10T22:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2633
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2633
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115862.pdf
+- Ergebnisprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115862.pdf
+- Wortprotokoll: Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00115862.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig
+- TOP 2: Verpflichtung eines neuen Ratsmitgliedes
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Ernennung des Brandinspektors Ingo Reiners zum stellvertretenden Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - einstimmig
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Halbjahresbericht über wichtige Gesellschafterbeschlüsse und Vorgänge in beteiligten Unternehmen 2020 2. Halbjahr - Kenntnisnahme
+- TOP 8: Sicherung Einzelhandel - einstimmig bei
+- TOP 9: Wahl der Schiedspersonen für die Schiedsamtsbezirke V und VI - einstimmig
+- TOP 10: Zuwendungsantrag auf Grundlage der Förderrichtlinie für IT-Administration - einstimmig
+- TOP 11: G 183 1. Änd. und Erg. städtebaulicher Vertrag - einstimmig
+- TOP 12: G 183 1. Änd. und Erg. Satzungsbeschluss - einstimmig
+- TOP 13: Gestaltung Synagogenplatz - einstimmig
+- TOP 14: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 14.1: Eintragung Kloster Langwaden - Kenntnisnahme
+- TOP 14.2: Erlass VS G 224 - mehrheitlich bei
+- TOP 14.3: Aufhebung VS 12. Änd. G 158 - einstimmig
+- TOP 14.4: W 52 Einstellung des Verfahrens - mehrheitlich bei
+- TOP 14.5: G 224 Aufstellung § 13 - mehrheitlich bei
+- TOP 14.6: K 38 Aufstellung 13a - mehrheitlich bei
+- TOP 14.7: Rahmenplan Gierather Weg - einstimmig bei
+- TOP 14.8: 25. FNP Änd. Genehmigungsbeschluss - einstimmig
+- TOP 14.9: G 203 Satzungsbeschluss § 13 - mehrheitlich bei
+- TOP 14.10: K 2 2. Änd. Satzungsbeschluss § 13a - einstimmig
+- TOP 14.11: W 54 städtebaulicher Vertrag - einstimmig bei
+- TOP 14.12: W 54 Satzungsbeschluss - einstimmig
+- TOP 14.13: 29. FNP Änd. Einstellung - einstimmig
+- TOP 14.14: Aufhebung W 32 Aufstellungsbeschluss - einstimmig
+- TOP 14.15: 31. Änd. FNP - Aufstellungsbeschluss + frühz. Bet. - mehrheitlich bei
+- TOP 14.16: 1. Änd. W 32 Einstellung - mehrheitlich bei
+- TOP 14.17: G 225 Aufstellung § 13 - einstimmig
+- TOP 14.18: 226 Aufstellung § 13a und frühz. B.Bet. - einstimmig
+- TOP 14.19: G 115 Teilaufhebung Aufstellung+frühz. B.Bet. - einstimmig
+- TOP 14.20: G 115 1. Änd. Aufhebung Aufstellung und frühz. B.Bet. - einstimmig
+- TOP 14.21: G 115 2. Änd. (Teil-)Aufhebung - einstimmig
+- TOP 14.22: 12. Änd. G 158 Einstellung - einstimmig
+- TOP 15: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 15.1: Gründung einer gemeinnützigen GmbH für die Kinder- und Jugendhilfe - mehrheitlich bei
+- TOP 15.2: Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder in der Stadt Grevenbroich - einstimmig
+- TOP 15.3: Satzung über die Erhebung von Kostenbeiträgen für die Inanspruchnahme der Kindertagespflege in der Stadt Grevenbroich - einstimmig
+- TOP 15.4: Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: Einrichtung eines Fördermittelmanagements (Antrag Nr. 52/2021) - Kenntnisnahme
+- TOP 16.2: Grevenbroicher Kulturkirmes 2021 konzipieren (Antrag NR. 80/2020) - Kenntnisnahme
+- TOP 17: Resolutionsentwurf„Modellregion NahFAIRkehr“ - einstimmig
+- TOP 18: Schriftliche Anträge
+- TOP 18.1: Anträge der SPD-Fraktion
+- TOP 18.1.1: Ausschussumbesetzung und Besetzung von Drittgremien (Antrag Nr. 146/2021) - einstimmig
+- TOP 18.2: Anträge der CDU-Fraktion
+- TOP 18.2.1: Informationsveranstaltung zum Rahmenplan Orken - einstimmig
+- TOP 18.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 18.4: Anträge der FDP-Fraktion
+- TOP 18.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 18.5.1: Ausschussumbesetzung (Antrag Nr. 145/2021) - einstimmig
+- TOP 18.6: Anträge der UWG-Fraktion
+- TOP 18.6.1: Verkehrssituation am Geldausgabeautomaten auf der Provinzstraße in Gustorf (Antrag Nr. 116/2021)
+- TOP 19: Gemeinschaftsanträge
+- TOP 20: Schriftliche Anfragen
+- TOP 20.1: Anfragen der SPD-Fraktion
+- TOP 20.2: Anfragen der CDU-Fraktion
+- TOP 20.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 20.4: Anfragen der FDP-Fraktion
+- TOP 20.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 20.6: Anfragen der UWG-Fraktion
+- TOP 21: Mitteilungen des Bürgermeisters
