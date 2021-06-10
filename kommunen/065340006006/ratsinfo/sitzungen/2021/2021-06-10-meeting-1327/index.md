@@ -1,0 +1,52 @@
+# Gemeindevertretung (2. Sitzung)
+
+- Körperschaft: Gemeinde Cölbe
+- Beginn: 2021-06-10T19:35:00+02:00
+- Ende: 2021-06-10T22:25:00+02:00
+- Ort: Mehrzweckhalle Bürgeln, Marburger Landstraße 1, 35091 Cölbe, großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/tops/?__=UGhVM0hpd2NXNFdFcExjZfG-_B0Fj1fsI_IxEsLaHAM
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1327
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ6a-qJjKH_jsIkrrib0upa6dT1chp00vHU4aF3SXwCQ/Bekanntmachung_Gemeindevertretung_10.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRih0TTSlxAvbATAmYtFzRegtRnAFU7IIxXbo079VVdy/Oeffentliche_Niederschrift_Gemeindevertretung_10.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Beschlussfähigkeit, der form- und fristgerechten Ladung und der Tagesordnung, Einwendungen gegen die Niederschrift über die letzte Sitzung vom 29.04.2021
+- TOP 2: Beantwortung von Anfragen gemäß § 15 GO
+- TOP 2.1: Ehrenamtspauschale (Anfrage der Fraktion Bündnis 90 / Die Grünen)
+- TOP 2.2: Wege in Schönstadt (Anfrage der Fraktion Bündnis 90 / Die Grünen)
+- TOP 2.3: Attraktivität des Mitteilungsblatts erhöhen (Anfrage der Fraktionen SPD und Bündnis 90 / Die Grünen)
+- TOP 3: Berichte
+- TOP 3.1: Resolution: Sicherung der Kommunalen Selbstverwaltung - volle Kompensation der Corona-bedingten Gewerbesteuerausfälle Antwortschreiben des Hessischen Ministerium der Finanzen vom 05.05.2021
+- TOP 3.2: Jahresabschluss 2020
+- TOP 3.3: 225. Vergleichende Prüfung "Haushaltsstruktur 2020: Städte und Gemeinden II" nach dem Gesetz zur Regelung der überörtlichen Prüfung kommunaler Körperschaften in Hessen (ÜPKKG); hier: Schlussbericht für die Gemeinde Cölbe
+- TOP 3.4: Mitteilung gemäß § 50 Abs. 3 HGO zur Verfügung des Landkreises gemäß § 8 Abs. 4 des Hessischen Gesetzes zur Ausführung des Bundes-Bodenschutzgesetzes und zur Altlastensanierung vom 08.02.2021
+- TOP 3.5: Alte Kirche Bürgeln
+- TOP 4: Einführung, Verpflichtung, Ernennung und Vereidigung eines ehrenamtlichen Beigeordneten
+- TOP 5: Ernennung und Vereidigung der Leiterinnen und Leiter der Verwaltungsaußenstellen
+- TOP 6: Überarbeitete Haushaltssatzung für das Haushaltsjahr 2021 - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7: Neubesetzung des Ortsgerichtes Cölbe Hier: Ortsgerichtsschöffe und stellvertretender Ortsgerichtsvorsteher - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8: Neubesetzung des Ortsgerichtes Cölbe hier: Neubesetzung Ortsgerichtsschöffin - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9: Benennung von Vertreterinnen/Vertretern und Stellvertreterinnen/Stellvertreter der Gemeinde Cölbe im Verbandsvorstand des Zweckverbandes Kommunaler Bauhof Lahntal-Wetter-Cölbe - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10: Erstellung eines Konzeptes im Rahmen der Teilnahme der Gemeinde Cölbe an den Förderprogrammen KfW 432 und 201/202 für den Ortsteil Reddehausen - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11: Aufstellung eines Bebauungsplanes Nr. 5.19 „Vorhabenbezogener Bebauungsplan - Im nassen Rodt II -“ Ortsteil Schönstadt - Zurückgestellt
+- TOP 12: Aufstellung des vorhabenbezogenen Bebauungsplans Nr. 3.13 „Auf der langen Mauer II“ Ortsteil Bürgeln - Beschlussfassung über den Städtebaulichen Vertrag – und Durchführungsvertrag - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 13: Aufstellung des vorhabenbezogenen Bebauungsplans Nr. 3.13 „Auf der langen Mauer II“, Ortsteil Bürgeln Hier: Abwägung und Satzungsbeschluss gem. § 10 BauGB - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14: Vergabe der Bauplätze im Baugebiet "Auf der langen Mauer II" im Ortsteil Bürgeln - hier: Beschluss der Richtlinien zur Vergabe - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 15: Widmung des Parkplatzes am Bahnhaltepunkt Bürgeln - ehemaliger Spielplatz - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 16: Beitritt der Gemeinde Cölbe als Gründungsmitglied zum Landschaftspflegeverband Marburg-Biedenkop - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 17: Antrag auf ein gemeindeeigenes Grünflächen-Management (Antrag der Fraktion Bürgerliste) - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18: Umsetzung zeitnaher und standortgerechter Pflanzaktionen auf kommunalen Flächen im laufenden Kalenderjahr „Fridays for nature“ (Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen) - 22 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 19: Wander- und Radwege rund um Cölbe (Antrag der SPD-Fraktion) - 21 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 20: Lokale Wirtschaftsförderung (Antrag der Fraktion Bündnis 90/Die Grünen) - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 21: Antrag zur Installierung einer Lichtzeichenanlage in Bernsdorf (Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen) - 17 Ja-Stimme(n), 1 Gegenstimme(n), 5 Stimmenthaltung(en)
+- TOP 22: Antrag im Hinblick auf Zugangserleichterung für Fahrradfahrer, Eltern mit Kinderwagen und Rollstuhlfahrer zu den Bahnsteigen am Bahnhof Cölbe (Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen) - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23: Park & Ride-Plätze am Bahnhof Cölbe (Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen) - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 24: Freigabe von öffentlichen Parkplätzen (Antrag der Fraktion Bürgerliste) - Zurückgestellt
+- TOP 25: Ausweisung von Gewerbeflächen (Antrag der Fraktionen Bürgerliste und CDU) - (kein Text vorhanden)
+- TOP 25.1: Ausweisung von Gewerbeflächen (Gemeinsamer Änderungsantrag der Fraktionen Bürgerliste, CDU, Bündnis 90/Die Grünen und SPD) - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 26: Teilnahme der Gemeinde Cölbe an "Lahntal total" am 05.06.2022 - 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
