@@ -249,6 +249,7 @@
 - [§ 164 Bekanntgabe der Entscheidung an das Kind](0164.md)
 - [§ 165 Vermittlungsverfahren](0165.md)
 - [§ 166 Abänderung und Überprüfung von Entscheidungen und gerichtlich gebilligten Vergleichen](0166.md)
+- [§ 166 Abänderung und Überprüfung von Entscheidungen und gerichtlich gebilligten Vergleichen](0166-2.md)
 - [§ 167 Anwendbare Vorschriften bei Unterbringung Minderjähriger und bei freiheitsentziehenden Maßnahmen bei Minderjährigen](0167.md)
 - [§ 167a Besondere Vorschriften für Verfahren nach § 1686a des Bürgerlichen Gesetzbuchs](0167a.md)
 - [§ 167b Genehmigungsverfahren nach § 1631e des Bürgerlichen Gesetzbuchs; Verordnungsermächtigung](0167b.md)
