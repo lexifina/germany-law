@@ -8,15 +8,14 @@
 - [§ 3 Drittverwahrung](0003.md)
 - [§ 4 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten](0004.md)
 - [§ 5 Sammelverwahrung](0005.md)
-- [§ 6 Miteigentum am Sammelbestand,
-Verwaltungsbefugnis des Verwahrers bei der Sammelverwahrung](0006.md)
+- [§ 6 Miteigentum am Sammelbestand, Verwaltungsbefugnis des Verwahrers bei der Sammelverwahrung](0006.md)
 - [§ 7 Auslieferungsansprüche des Hinterlegers bei der
 Sammelverwahrung](0007.md)
-- [§ 8 Ansprüche der Miteigentümer und sonstiger dinglich
-Berechtigter bei der Sammelverwahrung](0008.md)
+- [§ 8 Ansprüche der Miteigentümer und sonstiger dinglich Berechtigter bei der Sammelverwahrung](0008.md)
 - [§ 9 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten
 bei der Sammelverwahrung](0009.md)
 - [§ 9a Sammelurkunde](0009a.md)
+- [§ 9b Elektronische Schuldverschreibungen in Sammeleintragung](0009b.md)
 - [§ 10 Tauschverwahrung](0010.md)
 - [§ 11 Umfang der Ermächtigung zur Tauschverwahrung](0011.md)
 - [§ 12 Ermächtigungen zur Verpfändung](0012.md)

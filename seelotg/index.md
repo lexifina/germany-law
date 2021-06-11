@@ -17,7 +17,7 @@
 - [§ 5](0005.md)
 - [§ 6](0006.md)
 
-### 2. Bestallung der Seelotsen
+### 2. Bestallung der Seelotsinnen und Seelotsen
 
 - [§ 7](0007.md)
 - [§ 8](0008.md)
@@ -34,7 +34,7 @@
 - [§ 19](0019.md)
 - [§ 20](0020.md)
 
-### 3. Rechtsstellung und Pflichten der Seelotsen
+### 3. Rechtsstellung und Pflichten der Seelotsinnen und Seelotsen
 
 - [§ 21](0021.md)
 - [§ 22](0022.md)
@@ -86,11 +86,15 @@ Seelotsreviere
 
 - [§ 47](0047.md)
 
-## Siebenter Abschnitt Übergangs- und Schlußbestimmungen
+## Siebter Abschnitt Örtliche Zuständigkeit im gerichtlichen Verfahren; Seelotseignungsverzeichnis
 
 - [§ 48](0048.md)
 - [§ 49](0049.md)
+
+## Achter Abschnitt Übergangs- und Schlussbestimmungen
+
 - [§ 50](0050.md)
+- [§ 51](0051.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 (BGBl. II 1990, 889, 1108)](anhang-ev.md)

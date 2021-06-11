@@ -78,6 +78,7 @@
 - [§ 35 Jugendschöffen](0035.md)
 - [§ 36 Jugendstaatsanwalt](0036.md)
 - [§ 37 Auswahl der Jugendrichter und Jugendstaatsanwälte](0037.md)
+- [§ 37a Zusammenarbeit in gemeinsamen Gremien](0037a.md)
 - [§ 38 Jugendgerichtshilfe](0038.md)
 
 #### Zweiter Abschnitt Zuständigkeit

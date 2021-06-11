@@ -65,6 +65,7 @@
 |  |  | Jugendschöffen | § 35 |
 |  |  | Jugendstaatsanwalt | § 36 |
 |  |  | Auswahl der Jugendrichter und Jugendstaatsanwälte | § 37 |
+|  |  | Zusammenarbeit in gemeinsamen Gremien | § 37a |
 |  |  | Jugendgerichtshilfe | § 38 |
 | Zweiter Abschnitt |  |
 |  | Zuständigkeit |  |
