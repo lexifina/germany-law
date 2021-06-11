@@ -1,0 +1,15 @@
+# Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Sondernutzungsgebühren](0001.md)
+- [§ 2 Bemessungsgrundsätze](0002.md)
+- [§ 3 Festsetzung und Erhebung der Gebühren](0003.md)
+- [§ 4 Gebührenschuldner](0004.md)
+- [§ 5 Entstehung der Gebührenschuld, Fälligkeit der Gebühren](0005.md)
+- [§ 6 Gebührenfreiheit](0006.md)
+- [§ 7 Stundung, Niederschlagung, Erlass](0007.md)
+- [§ 8 Erstattung von Gebühren](0008.md)
+- [§ 9 Ablösung](0009.md)
+- [§ 10 Übergangsregelung](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Anlage (zu § 2 Absatz 1)Gebührenverzeichnis](anlage.md)

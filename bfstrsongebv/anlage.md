@@ -1,0 +1,66 @@
+# Anlage (zu § 2 Absatz 1)Gebührenverzeichnis
+
+|  |  | Gebühr in Euro |
+| Nr. | Art der Sondernutzung | jährlich | sonstige |
+| 1 | Zufahrten und Zugänge |  |  |
+| 1.1 | Zu bebauten oder in der Bebauung befindlichen, für Wohnzwecke bestimmten Grundstücken, je Wohneinheit | 25 bis 150 |  |
+| 1.2 | Zu sonstigen nicht gewerblich genutzten oder zu land- und forstwirtschaftlich genutzten Grundstücken | gebührenfrei |
+| 1.3 | Zu gewerblich genutzten Grundstücken, z. B. Industriewerken, Einkaufszentren, Tankstellen, Kiesgruben, Steinbrüchen, Gaststätten, Lager-, Camping- und Ausstellungsplätzen | 50 bis 5 000 |  |
+| 2 | Kreuzungen, soweit der Gemeingebrauch beeinträchtigt werden kann |  |  |
+| 2.1 | Leitungen der öffentlichen Versorgung (über- oder unterirdisch) für Elektrizität, Gas, Fernwärme, Wasser und Abwasser, jeweils mit den Hausanschlüssen | gebührenfrei |
+| 2.2 | Sonstige Leitungen im öffentlichen Interesse wie Mineralölleitungen, Bahnstromleitungen, militärische Betriebsstoffleitungen | gebührenfrei |
+| 2.3 | Andere Leitungen |  |  |
+| 2.3.1 | Gewerbliche Leitungen wie Brunnenleitungen zu einem Gewerbebetrieb sowie Baustellenleitungen und sonstige Betriebsleitungen je nach Durchmesser und wirtschaftlichem Vorteil des Leitungseigentümers |  |  |
+| 2.3.1.1 | Bis zu 1 Jahr |  | 20 bis 500 einmalig |
+| 2.3.1.2 | Längerdauernd | 90 bis 1 000 |  |
+| 2.3.2 | Nichtgewerbliche Leitungen wie private Wasserleitungen | gebührenfrei |
+| 2.4 | Schienenbahnen und Seilbahnen, die dem öffentlichen Verkehr dienen | gebührenfrei |
+| 2.5 | Schienenbahnen und Seilbahnen, die nicht dem öffentlichen Verkehr dienen, mit Ausnahme der Anschlussbahnen und der diesen gleichgestellten Bahnen im Sinne des Eisenbahnkreuzungsgesetzes |  |  |
+| 2.5.1 | Höhengleich |  |  |
+| 2.5.1.1 | Bis zu 1 Jahr |  | 20 bis 1 000 einmalig |
+| 2.5.1.2 | Längerdauernd | 70 bis 1 000 |  |
+| 2.5.2 | Höhenfrei |  |  |
+| 2.5.2.1 | Bis zu 1 Jahr |  | 20 bis 500 einmalig |
+| 2.5.2.2 | Längerdauernd | 45 bis 500 |  |
+| 2.6 | Förderbänder und ähnliches einschließlich Masten, Schächte und dergleichen |  |  |
+| 2.6.1 | Bis zu 1 Jahr |  | 20 bis 100 einmalig |
+| 2.6.2 | Längerdauernd | 50 bis 300 |  |
+| 2.7 | Über- oder Unterführungen privater Wege |  |  |
+| 2.7.1 | Bis zu 1 Jahr |  | 20 bis 500 einmalig |
+| 2.7.2 | Längerdauernd | 40 bis 500 |  |
+| 3 | Längsverlegungen, soweit der Gemeingebrauch beeinträchtigt werden kann |  |  |
+| 3.1 | Leitungen der öffentlichen Versorgung (über- oder unterirdisch) für Elektrizität, Gas, Fernwärme, Wasser und Abwasser, jeweils mit den Hausanschlüssen | gebührenfrei |
+| 3.2 | Sonstige Leitungen im öffentlichen Interesse wie Mineralölleitungen, Bahnstromleitungen, militärische Betriebsstoffleitungen | gebührenfrei |
+| 3.3 | Andere Leitungen je angefangene 100 m |  |  |
+| 3.3.1 | Gewerbliche Leitungen wie Brunnenleitungen zu einem Gewerbebetrieb sowie Baustellenleitungen und sonstige Betriebsleitungen je nach Durchmesser und wirtschaftlichem Vorteil des Leitungseigentümers |  |  |
+| 3.3.1.1 | Bis zu 1 Jahr |  | 20 bis 45 monatlich |
+| 3.3.1.2 | Längerdauernd | 50 bis 500 |  |
+| 3.3.2 | Nichtgewerbliche Leitungen wie private Wasserleitungen | gebührenfrei |
+| 3.4 | Gleise |  |  |
+| 3.4.1 | Schienenbahnen des öffentlichen Verkehrs | gebührenfrei |
+| 3.4.2 | Schienenbahnen, die nicht dem öffentlichen Verkehr dienen mit Ausnahme der Anschlussbahnen und der diesen gleichgestellten Bahnen im Sinne des Eisenbahnkreuzungsgesetzes je angefangene 100 m | 50 bis 1 000 |  |
+| 3.5 | O-Busleitungen einschließlich Masten | gebührenfrei |
+| 3.6 | Anlagen der Straßenbeleuchtung einschließlich Masten | gebührenfrei |
+| 4 | Bauliche Anlagen (einschließlich Werbeanlagen, Pfosten, Masten u. ä.) soweit der Gemeingebrauch beeinträchtigt werden kann |  |  |
+| 4.1 | Schilder einschließlich Masten und Pfosten |  |  |
+| 4.1.1 | Allgemein eingeführte Hinweisschilder z. B. auf Gottesdienste, Unfall- und Kfz-Hilfsdienste (Sammelhinweisschilder), Messen, Ausstellungen, sportliche Veranstaltungen, Werbung für öffentliche Wahlen und Baustellenschilder | gebührenfrei |
+| 4.1.2 | Hinweisschilder auf gewerbliche Betriebe z. B. Gaststätten, Fabriken, Auslieferungslager |  | 25 bis 200 einmalig |
+| 4.1.3 | Werbeanlagen z. B. Werbeschilder, Litfasssäulen, Fahnen einschließlich Masten, Pfosten, Transparente |  |  |
+| 4.1.3.1 | Bis zu 1 Jahr |  | 25 bis 500 einmalig |
+| 4.1.3.2 | Längerdauernd | 50 bis 500 |  |
+| 4.2 | Fahrkarten- und Auskunftsschalter, Fahrkarten- und Wechselautomaten sowie Wartehallen und Informationsstände ohne Verkaufsbetrieb außer Fahrkartenverkauf, Verkaufsstände für gemeinnützige Zwecke | gebührenfrei |
+| 4.3 | Wartehallen mit Verkaufsbetrieb, Kioske, Imbissstände, sonstige Verkaufsstände je m² in Anspruch genommener Straßenfläche |  |  |
+| 4.3.1 | Bis zu 1 Jahr |  | 20 bis 200 einmalig |
+| 4.3.2 | Längerdauernd | 40 bis 200 |  |
+| 4.4 | Automaten, mit Ausnahme der Fahrkartenautomaten der Straßenbahnen und Linienbusse | 40 bis 500 |  |
+| 4.5 | Verladestellen, Anlagen zur Holzbringung, Waagen, Abstellflächen | 50 bis 500 |  |
+| 4.6 | Baustelleneinrichtungen z. B. Gerüste, Bauzäune, Baracken, Maschinen, Geräte, Fahrzeuge, Hilfseinrichtungen, Lagerplätze je m² in Anspruch genommener Straßenfläche |  | 2 bis 10 wöchentlich (mindestens 20) |
+| 5 | Sonstige Benutzung der Straßenfläche, soweit der Gemeingebrauch beeinträchtigt werden kann |  |  |
+| 5.1 | Vorübergehendes Aufstellen von Maschinen, Geräten, Containern, Fahrzeugen (soweit nicht gemeingebräuchlich) einschließlich Hilfseinrichtungen (z. B. Kabel), Lagerung von Material |  | 10 bis 175 wöchentlich |
+| 5.2 | Gewerbliche Veranstaltungen z. B. Schaustellungseinrichtungen, fahrbare Geschäftsbetriebe, Straßenhandel ohne bauliche Anlagen, Märkte, Verkaufs- und Bewirtschaftungsplätze, Lagerplätze, je m² in Anspruch genommener Straßenfläche |  |  |
+| 5.2.1 | Bis zu 1 Jahr |  | 1 bis 20 wöchentlich (mindestens 20) |
+| 5.2.2 | Längerdauernd | 2 bis 50 (mindestens 85) |  |
+| 5.3 | Sondernutzungen im Zusammenhang mit Filmaufnahmen |  | 20 bis 400 täglich |
+| 5.4 | Sonstige Sondernutzungen, die in den vorstehenden Tarifnummern nicht erfasst sind |  |  |
+| 5.4.1 | Bis zu 1 Jahr |  | 5 bis 500 einmalig |
+| 5.4.2 | Längerdauernd | 50 bis 1 000 |  |
