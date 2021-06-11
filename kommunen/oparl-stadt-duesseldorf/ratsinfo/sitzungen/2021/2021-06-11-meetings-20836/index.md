@@ -1,0 +1,58 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-11T14:30:00+02:00
+- Ende: 2021-06-11T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20836
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20836
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 11.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413792.pdf
+- Ergebnisprotokoll: OVA 11.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413792.pdf
+- Wortprotokoll: OVA 11.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00413792.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Anfragen
+- TOP 4.1: Corona bedingten finanziellen Nachteilen bei der Rheinbahn -Anfrage der Ratsfraktion Tierschutz/Freie Wähler- - zur Kenntnis genommen
+- TOP 4.2: Elternhaltestellen vor Schulen -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.3: Planungsstand Ortsumgehung Oberbilk -Anfrage der Ratsfraktion SPD/Volt- - zur Kenntnis genommen
+- TOP 4.4: Einführung von Tempo 30 auf der Merowingerstraße in Bilk -Anfrage der Ratsfraktion SPD/Volt- - zur Kenntnis genommen
+- TOP 4.5: Weiteres Vorgehen bei der Umgestaltung der Merowingerstraße in Bilk -Anfrage der Ratsfrau Sabrina Proschmann- - zur Kenntnis genommen
+- TOP 4.6: Krankentransporte auf Sonderfahrstreifen -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.7: Fortentwicklung MetroBus-Linien -Anfrage der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - zur Kenntnis genommen
+- TOP 4.8: Sharing-Angebote im Stadtgebiet Düsseldorf und Umgebung -Anfrage der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Fahrbahnquerung erleichtern -Antrag der Ratsfraktion Die Linke- - mehrheitlich abgelehnt
+- TOP 5.2: Bürger*innen zugehört: Tempo 30 Am Röttchen! -Antrag der Ratsfraktion SPD/Volt- - mehrheitlich beschlossen
+- TOP 5.3: Tempo 30 am Worringer Platz - Mehr Sicherheit für alle! -Antrag der Ratsfraktion SPD/Volt- - mehrheitlich abgelehnt
+- TOP 5.4: Einführung eines Quittungssystems für OSD-Kontrollen -Antrag der Ratsfraktion Die PARTEI - Klima - Fraktion- - mehrheitlich abgelehnt
+- TOP 5.5: Freigabe der Sonderfahrstreifen für Einsatzfahrzeuge (geänderte Fassung) -Antrag der FDP-Ratsfraktion- - abweichend beschlossen
+- TOP 5.6: Protected Bike Lane Trippelsberg sofort umsetzen! -Antrag der Ratsfraktionen SPD/Volt, Die Linke und Die Partei-Klima-Fraktion- - abweichend beschlossen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Vorstellung des Projektes „Prävention, Ordnung und Sicherheit in Düsseldorf 2021+“ -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 8: BMVI-Förderantrag „Modellprojekte zur Stärkung des ÖPNV“ - zur Kenntnis genommen
+- TOP 9: Kooperationsvertrag und Machbarkeitsstudie zu einer Veloroute zwischen Düsseldorf und Wuppertal - zur Kenntnis genommen
+- TOP 10: Sachstandsbericht über die Einrichtung von Bewohnerparkgebieten und die Anschaffung neuer Parkscheinautomaten - zur Kenntnis genommen
+- TOP 11: Ludwig-Hammers-Platz - Umbau Knotenpunkt -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 11.1: Änderungsantrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen zu TOP 11, Vorlage OVA/048/2021 "Ludwig-Hammers-Platz - Umbau Knotenpunkt - Ausführungs- und Finanzierungsbeschluss -" - einstimmig beschlossen
+- TOP 12: Kampagne zum Verhalten auf Fahrtreppen in U-Bahnstationen: Links gehen – Rechts stehen! - einstimmig beschlossen
+- TOP 13: Zielkonzept Stadtbahn/Straßenbahn
+- TOP 14: Umsetzung von restriktiven Maßnahmen zur Reduzierung der Beschwerden im Kontext des Abstellens und des Nutzens von Elektro-Tretrollern in den Stadtteilen Carlstadt und Altstadt - einstimmig beschlossen
+- TOP 15: Vorgezogene Maßnahmen aus dem Mobilitätsplan D - vertagt
+- TOP 16: Weitere vorgezogene Maßnahmen aus dem Mobilitätsplan D - Ausblick - zur Kenntnis genommen
+- TOP 17: Sachstandsbericht Lichtsignalanlagen und Beschleunigung des ÖPNV in Düsseldorf - zur Kenntnis genommen
+- TOP 18: Umsetzungsstand Tempo 30 in Düsseldorf - zur Kenntnis genommen
+- TOP 19: Sachstand zur Aufhebung der Radwegebenutzungspflicht in Düsseldorf - vertagt
+- TOP 20: Verkehrsführung Am Trippelsberg – Vorübergehende Aussetzung der Realisierung der Protected Bike Lane - zur Kenntnis genommen
+- TOP 21: Qualitätsbericht der Rheinbahn 2020 - zur Kenntnis genommen
+- TOP 22: Rechtliche Prüfung zur Freigabe der Sonderfahrstreifen für Einsatzfahrzeuge - zur Kenntnis genommen
+- TOP 23: Endbericht zu den Fußverkehrschecks - zur Kenntnis genommen
+- TOP 24: Verlängerung Standzeit Riesenrad auf dem Burgplatz bis 27.06.2021 - einstimmig beschlossen
