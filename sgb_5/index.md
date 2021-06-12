@@ -263,7 +263,7 @@ Vereinigungen
 
 #### Vierter Titel Zahntechnische Leistungen
 
-- [§ 88 Bundesleistungsverzeichnis, Vergütungen](0088.md)
+- [§ 88 Bundesleistungsverzeichnis, Datenaustausch, Vergütungen](0088.md)
 
 #### Fünfter Titel Schiedswesen
 
@@ -529,7 +529,7 @@ Entwicklung im Gesundheitswesen
 
 #### Zweiter Titel (weggefallen)
 
-- [§ 176 (weggefallen)](0176.md)
+- [§ 176 Bestandschutzregelung für Solidargemeinschaften](0176.md)
 - [§ 177 (weggefallen)](0177.md)
 - [(XXXX) §§ 178 bis 185 (weggefallen)](xxxx-178-bis-185.md)
 
@@ -861,8 +861,7 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 329 Maßnahmen zur Abwehr von Gefahren für die Funktionsfähigkeit und Sicherheit der Telematikinfrastruktur](0329.md)
 - [§ 330 Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur](0330.md)
-- [§ 331 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0331.md)
-- [§ 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur](0331-2.md)
+- [§ 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur](0331.md)
 - [§ 332 Anforderungen an die Wartung von Diensten](0332.md)
 - [§ 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik](0333.md)
 
@@ -897,7 +896,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser](0348.md)
 - [§ 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte](0349.md)
 - [§ 350 Anspruch der Versicherten auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
-- [§ 351 Übertragung von Daten aus der elektronischen Gesundheitsakte in die elektronische Patientenakte](0351.md)
+- [§ 351 Übertragung von Daten aus der elektronischen Gesundheitsakte und aus Anwendungen nach § 33a in die elektronische Patientenakte](0351.md)
 
 ##### Dritter Untertitel Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
 
@@ -907,11 +906,11 @@ von Leistungsdaten, Datentransparenz
 ##### Vierter Untertitel Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
 
 - [§ 354 Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte](0354.md)
-- [§ 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans und der elektronischen Notfalldaten](0355.md)
+- [§ 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans, der elektronischen Notfalldaten und der elektronischen Patientenkurzakte](0355.md)
 
 #### Dritter Titel Erklärungen des Versicherten zur Organ- und Gewebespende sowie Hinweise auf deren Vorhandensein und Aufbewahrungsort
 
-- [§ 356 Zugriff auf Erklärungen der Versicherten zur Organ- und Gewebespende sowie auf Hinweise auf deren Vorhandensein und Aufbewahrungsort](0356.md)
+- [§ 356 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende](0356.md)
 
 #### Vierter Titel Hinweis des Versicherten auf das Vorhandensein und den Aufbewahrungsort von> Vorsorgevollmachten oder Patientenverfügungen
 
@@ -919,17 +918,18 @@ von Leistungsdaten, Datentransparenz
 
 #### Fünfter Titel Elektronischer Medikationsplan und elektronische Notfalldaten
 
-- [§ 358 Elektronischer Medikationsplan und elektronische Notfalldaten](0358.md)
-- [§ 359 Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten](0359.md)
+- [§ 358 Elektronische Notfalldaten, elektronische Patientenkurzakte und elektronischer Medikationsplan](0358.md)
+- [§ 359 Zugriff auf den elektronischen Medikationsplan, die elektronischen Notfalldaten und die elektronische Patientenkurzakte](0359.md)
 
 #### Sechster Titel Übermittlung ärztlicher Verordnungen
 
-- [§ 360 Übermittlung vertragsärztlicher Verordnungen in elektronischer Form](0360.md)
+- [§ 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen](0360.md)
 - [§ 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur](0361.md)
 
-#### Siebter Titel Nutzung der Anwendungen der Telematikinfrastruktur in der privaten Krankenversicherung
+#### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger
 
-- [§ 362 Nutzung von elektronischen Gesundheitskarten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr](0362.md)
+- [§ 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr](0362.md)
+- [§ 362a Nutzung der elektronischen Gesundheitskarte bei Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch](0362a.md)
 
 #### Achter Titel Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
 
@@ -941,16 +941,19 @@ von Leistungsdaten, Datentransparenz
 - [§ 365 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung](0365.md)
 - [§ 366 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung](0366.md)
 - [§ 367 Vereinbarung über technische Verfahren zu telemedizinischen Konsilien](0367.md)
+- [§ 367a Vereinbarung über technische Verfahren bei telemedizinischem Monitoring](0367a.md)
 - [§ 368 Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde](0368.md)
 - [§ 369 Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit](0369.md)
 - [§ 370 Entscheidung der Schlichtungsstelle](0370.md)
+- [§ 370a Unterstützung der Kassenärztlichen Vereinigungen bei der Vermittlung telemedizinischer Angebote durch die Kassenärztliche Bundesvereinigung, Verordnungsermächtigung](0370a.md)
 
 ### Siebter Abschnitt Anforderungen an Schnittstellen in informationstechnischen Systemen
 
 - [§ 371 Integration offener und standardisierter Schnittstellen in informationstechnische Systeme](0371.md)
 - [§ 372 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0372.md)
-- [§ 373 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung](0373.md)
+- [§ 373 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung](0373.md)
 - [§ 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben](0374.md)
+- [§ 374a Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten](0374a.md)
 - [§ 375 Verordnungsermächtigung](0375.md)
 
 ### Achter Abschnitt Finanzierung und Kostenerstattung
@@ -959,54 +962,58 @@ von Leistungsdaten, Datentransparenz
 - [§ 377 Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten](0377.md)
 - [§ 378 Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten](0378.md)
 - [§ 379 Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten](0379.md)
-- [§ 380 Finanzierung der den Hebammen und Physiotherapeuten entstehenden Ausstattungs- und Betriebskosten](0380.md)
+- [§ 380 Finanzierung der den Hebammen, Physiotherapeuten und anderen Heilmittelerbringern, Hilfsmittelerbringern, zahntechnischen Laboren, Erbringern von Soziotherapie nach § 37a sowie weiteren Leistungserbringern entstehenden Ausstattungs- und Betriebskosten](0380.md)
 - [§ 381 Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten](0381.md)
 - [§ 382 Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten](0382.md)
 - [§ 383 Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0383.md)
 
-## Zwölftes Kapitel Interoperabilitätsverzeichnis
+## Zwölftes Kapitel Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal
 
-- [§ 384 Interoperabilitätsverzeichnis](0384.md)
-- [§ 385 Beratung durch Experten](0385.md)
-- [§ 386 Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik](0386.md)
-- [§ 387 Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen](0387.md)
-- [§ 388 Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz](0388.md)
-- [§ 389 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0389.md)
-- [§ 390 Beteiligung der Fachöffentlichkeit](0390.md)
-- [§ 391 Informationsportal](0391.md)
-- [§ 392 Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis](0392.md)
-- [§ 393 Bericht über das Interoperabilitätsverzeichnis](0393.md)
+- [§ 384 Begriffsbestimmungen](0384.md)
+- [§ 385 Interoperabilitätsverzeichnis](0385.md)
+- [§ 386 Beratung durch Experten](0386.md)
+- [§ 387 Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik](0387.md)
+- [§ 388 Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen](0388.md)
+- [§ 389 Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz](0389.md)
+- [§ 390 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0390.md)
+- [§ 391 Beteiligung der Fachöffentlichkeit](0391.md)
+- [§ 392 Informationsportal](0392.md)
+- [§ 393 Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis](0393.md)
 
 ## Dreizehntes Kapitel Straf- und Bußgeldvorschriften
 
-- [§ 394 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0394.md)
-- [§ 395 Bußgeldvorschriften](0395.md)
-- [§ 396 Strafvorschriften](0396.md)
-- [§ 397 Strafvorschriften](0397.md)
+- [§ 394 Bericht über das Interoperabilitätsverzeichnis](0394.md)
+- [§ 394a Verordnungsermächtigung](0394a.md)
+- [§ 395 Nationales Gesundheitsportal](0395.md)
+- [§ 396 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0396.md)
+- [§ 397 Bußgeldvorschriften](0397.md)
 
 ## Vierzehntes Kapitel Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
-- [§ 398 Versicherter Personenkreis](0398.md)
-- [§ 399 Leistungen](0399.md)
-- [§ 400 Beziehungen der Krankenkassen zu den Leistungserbringern](0400.md)
+- [§ 398 Strafvorschriften](0398.md)
+- [§ 399 Strafvorschriften](0399.md)
+- [§ 400 Versicherter Personenkreis](0400.md)
+- [§ 401 Beitragszuschüsse für Beschäftigte](0401.md)
+- [§ 401 Leistungen](0401-2.md)
+- [§ 402 Standardtarif für Personen ohne Versicherungsschutz](0402.md)
+- [§ 402 Beziehungen der Krankenkassen zu den Leistungserbringern](0402-2.md)
 
 ## Fünfzehntes Kapitel Weitere Übergangsvorschriften
 
-- [§ 401 Beitragszuschüsse für Beschäftigte](0401.md)
-- [§ 402 Standardtarif für Personen ohne Versicherungsschutz](0402.md)
 - [§ 403 Übergangsregelung zur enteralen Ernährung](0403.md)
-- [§ 404 (weggefallen)](0404.md)
+- [§ 403a Beitragszuschüsse für Beschäftigte](0403a.md)
+- [§ 404 Standardtarif für Personen ohne Versicherungsschutz](0404.md)
 - [§ 405 Übergangsregelung für die knappschaftliche Krankenversicherung](0405.md)
 - [§ 406 Übergangsregelung zum Krankengeldwahltarif](0406.md)
-- [§ 407 Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften](0407.md)
-- [§ 408 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1](0408.md)
-- [§ 409 Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen](0409.md)
-- [§ 410 Bestandsbereinigung bei der freiwilligen Versicherung](0410.md)
-- [§ 411 (weggefallen)](0411.md)
-- [§ 412 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0412.md)
-- [§ 413 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0413.md)
+- [§ 407 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1](0407.md)
+- [§ 408 Bestandsbereinigung bei der freiwilligen Versicherung](0408.md)
+- [§ 409 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0409.md)
+- [§ 410 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0410.md)
+- [§ 411 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0411.md)
+- [§ 412 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0412.md)
+- [§ 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0413.md)
 - [§ 414 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0414.md)
-- [§ 415 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0415.md)
-- [§ 416 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0416.md)
-- [§ 416 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0416-2.md)
+- [§ 415 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0415.md)
+- [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
 - [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0417.md)
+- [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)
