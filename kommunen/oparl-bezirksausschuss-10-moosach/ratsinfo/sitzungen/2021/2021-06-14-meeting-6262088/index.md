@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-06-14T17:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262088
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262088
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: 1. Ladung des Vollgremiums zur Sitzung am 14.06.2021 2. Aufhebung des in der Sitzung am 17.05.2021 gebildeten Sonderausschusses ab der Sitzung am 14.06.2021 3. Bildung eines erneuten Sonderausschusses für die Folgesitzungen am 26.07.2021, 20.09.2021, 25.10.2021, 22.11.2021 und 20.12.2021.
+- TOP 2.1.: Vorschläge zur Behebung der Parkplatznot in der Lauinger Straße und Umgebung
+- TOP 2.2.: BA 23: "Die Landeshauptstadt München soll sich dafür einsetzen, die Geldbußen des bayerischen Bußgeldkatalogs "Umweltschutz", insbesondere für den Teil "Abfallentsorgung", deutlich zu erhöhen und Zuwiderhandlungen konsequenter zu verfolgen" mit der Bitte um Unterstützung
+- TOP 3.1.1.: Verfahrenswege und Möglichkeiten für eine Notbetreuung von Kindern...(-> Wiedervorlage TOP 3.1.2 (Empfehlung 2 des Protokolls der UA-Sitzung am 14.04.2021))
+- TOP 3.3.1.: Bauvorhaben: 1. Hanauer Str. 4-8 2. Dachauer Str. 184-188 3. Baubergerstr. 11-17 4. Bunzlauer Str. 1
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Baubergerstr. 11-17 (-> BV siehe TOP 3.3.1.3) 2. Sickingerstr. 15
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Mondscheinweg 18
+- TOP 3.4.1.: Städtebaulicher-freiraumplanerischer Planungswettbewerb "Wohnsiedlungen Moosach"; hier: Benennung von (stellvertretenden) Sachpreisrichter*innen
+- TOP 3.4.2.: Städtebaulicher-freiraumplanerischer Planungswettbewerb zur Neuordnung des Moosacher St.-Martins-Platzes...; hier: Ergänzung des Wettbewerbs-Preisgerichtes um (stellvertretende) Sachpreisrichter*innen aus dem BA 10.
+- TOP 3.4.3.: Gesamtkonzept Landshuter Allee - Mehr Ruhe, mehr Grün, mehr Lebensqualität; hier: Stellungnahme des BA 9 zur Sitzungsvorlage Nr. 20-26/V 02539 (-> Sitzungsvorlage war TOP 8.3 /Sitzung am 17.05.2021]
+- TOP 3.4.4.: Sommer in der Stadt 2021 - Angebote des Referates
+- TOP 4.1.1.: Anfrage: Umsetzung der Nord-Süd-Grünverbindung; hier: Information über den gegenwärtigen Planungsstand sowie den Zeitplan zur Umsetzung des Nutzungskonzeptes
+- TOP 4.1.2.: Markierung des Zebrastreifens in der Riesstraße in Regenbogenfarben in der Münchner Pride-Week (04. bis 11.07.21)
+- TOP 4.1.3.: Installierung eines Haltesignals für Radfahrer an der Dachauer Straße stadtauswärts (an der Fußgänger- und Radfahrer-Ampel Kreuzung Dachauer Str/ Voitstraße und Trambahnhaltestelle Borstei)
+- TOP 4.1.4.: Weiterer Abfallkorb auf dem Spielplatz an der Freizeiteinrichtung "Die Arche" (Briegerstraße/ Am Hartmannshofer Bächl)
+- TOP 4.2.1.: Stadtbezirksbudget: Mittelbereitstellung - eigene Veranstaltungen; hier: Veranstaltungsreihe "Wir alle sind Moosach"
+- TOP 5.1.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlinger Straße Moosacher Straßenklavier 2021 vom 10. - 25.07.2021 700,00 Euro, Az.: 0262.0-10-0259
+- TOP 5.2.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München West, Soziale Beratungsstelle Moosach Aktion MVVMVG – Fahrtkosten für Moosacher Bürger*innen in einer Notlage vom 01.07.2021 – 30.06.2022 869,40 € / Az. 0262.0-10-0261
+- TOP 5.3.: (E) Stadtbezirksbudget Initiative „OEZ-APP-WALK“ OEZ-APP-WALK vom 01.06. - 31.08.2021 3.500,00 € / Az. 0262.0-10-0258
+- TOP 5.4.: (E) Stadtbezirksbudget Das Aserbaidschanische Kulturzentrum in München e.V. Anschaffung eines Saugroboters und von Bürostühlen 949,99 € / Az. 0262.0-10-0260
+- TOP 5.5.: Stadtbezirksbudget - nachträgliche Erhöhung des Zuschussbetrages: REGSAM e.V.; 23. Moosacher Stadtteilkulturtage vom 12.06. - 20.06.2021 (→ TOP 5.4, Sitzung am 17.05.2021)
+- TOP 5.6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung einer Teilstrecke der Margarete-Steiff-Straße
+- TOP 6.1.: Standortsuche zur Festlegung einer geeigneten öffentlichen Sammelfläche zur Christbaumentsorgung; hier: Nennung 3 Termine und Teilnehmer*innen für Ortstermin (-> Antwortschreiben TOP 7.1)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund: Bunzlauer Platz und St.-Martinsplatz; "Infomobil zum Start der Stadtsanierung Moosach" vom 21.06. - 23.06.21 und 24.06. - 06.07.21
+- TOP 6.3.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus, Stadratsantrag Nr. 20-26 / A 01213 der AfD vom 18.03.2021
+- TOP 6.4.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse, BA-Antrag Nr. 20-26 / B 00475 des Bezirksausschusses des Stadtbezirks 21 - Pasing-Obermenzing vom 28.07.2020
+- TOP 6.5.: Beschlussentwurf Radwegrückbau in Tempo-30-Zonen
+- TOP 6.6.: Veranstaltung in städtischen Grünanlagen: Karl-Lipp-Park Familiennachmittag am 16.07.2021
+- TOP 7.1.: Schaffung wohnungsnahe Christbaum-Entsorgungsmöglichkeiten auch für Nicht-Autofahrer in Moosach [BA-Antrag Nr. 20-26/B 01646; AWM möchte in der nächsten Saison mehr Sammelplätze anbieten; ist in Verhandlung mit Baureferat]
+- TOP 7.2.: Müllproblem vor der Kinderkrippe Moosach an der Bauberger Str. 4; Aufstellen eines Abfallkorbes [Schreiben BA10 vom 19.04.2021; Ortsbeschau ergab, dass keine weitere Abfallkörbe notwendig sind. In der Umgebung befinden sich 3 solche.]
+- TOP 7.3.: Aufstellen von Abfallkörben an der Bunzlauer Straße zwischen Nr. 6 und 18 [Schreiben BA10 vom 21.04.2021] 1. Antwortschreiben Baureferat vom 10.05.2021[Es werden 2 weitere Abfallkörbe dort aufgestellt.] 2. Antwortschreiben SWM vom 26.05.2021 [Abfalllkorb an der Bushaltestelle wird nicht angebracht, da keine tägliche Fahrgastnutzung.]
+- TOP 7.4.: Neugestaltung der Unterführung am Sapporobogen zum Olympiapark [Schreiben BA10 vom 25.01.2021 und 27.01.2021] 1. Antwortschreiben Baureferat vom 19.05.2021 [Verbesserung der Beleuchtungssituation: Die Sanierung der Unterführung ist in längerfristiger Planung. Beleuchtung wurde instandgesetzt.] 2. Antwortschreiben Mobilitätsreferat vom 27.05.2021 [Aufgrund der Bautätigkeiten ("SAP-Arena") erfolgen regelmässig Untersuchungen der aktuellen Schulwegsicherheit und ggf. Maßnahmen zur Optimierung dieser]
+- TOP 7.5.: Herstellung Gehweg Saarlouiser Straße [Schreiben BA10 vom 18.12.2019; 2019 wurde Gehweg zwischen Simrockstraße und Osnabrücker Straße neu mit Randsteinen in Asphalt hergestellt. In einer Tempo-30-Zone darf kein benutzungspflichtiger Radweg hergestellt werden.]
+- TOP 7.6.: Gefahrenstelle an der Kreuzung Dachauer -/ Gröbenzeller Straße [Schreiben BA10 vom 21.10.2020; Eine Verlagerung der Haltlinie wurde nach hinten für den rechtsabbiegenden Fahrverkehr angeordnet, so dass Radfahrer besser in den Blickbereich von KFZ-Führern rücken.]
+- TOP 7.7.: Gehwegsicherung auf Höhe Anwesen Pelkovenstr. 35 [Schreiben BA10 vom 24.09.2020; keine bauliche Änderung möglich, Falschparker können nur durch Polizei geahndet werden.]
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Untermenzinger Straße; Errichtung absolutes Haltverbot 2. Bauberger- und Großbeerenstraße; Einrichtung von 4 Haltverbotszonen
+- TOP 8.2.: Öffentlicher Raum für alle: Einrichtung von "Stadtterrassen" ermöglichen; hier: Entwurf der Sitzungsvorlage Nr. 20-26/ V 03496 (vor BA-Beteiliung zur Kenntnis)
+- TOP 8.3.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Grundschulen - Dieselstraße 14 - Gertrud-Bäumer-Straße 19 - Emmy-Noether-Straße 5
+- TOP 8.4.: Vorkaufsrecht nach dem BauGB: - nicht-öffentlich - 1. Hardenbergstraße; Einleitung eines Vorkaufsrechtsprüfungsverfahrens
+- TOP 8.5.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung einer Mobilfunksendeanlage: Dachauer Straße 2. Vertragliche Sicherung eines Mobilfunkstandortes: Allacher Straße
+- TOP 4.: Anträge
