@@ -1,0 +1,60 @@
+# 61. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-06-14T18:05:00+02:00
+- Ende: 2021-06-14T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4396
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4396
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - im Ausschuss abgelehnt
+- TOP 3: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 3.1: Bürgerbeteiligung stärken - in der BVV abgelehnt
+- TOP 3.2: Halteverbot im Gockelweg auf die andere Straßenseite verlegen - vertagt
+- TOP 3.3: Verkehrswende in Neukölln umsetzen - in der BVV abgelehnt
+- TOP 3.4: Digitales Routing von Kraftfahrzeugen durch Fahrradstraßen unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 3.5: Kein Querparken auf der Grünfläche im Truseweg - ohne Änderungen in der BVV beschlossen
+- TOP 3.6: Frequentierung von Pop-Up-Radwegen erfassen - in der BVV abgelehnt
+- TOP 3.7: Weitere Maßnahmen angesichts des tödlichen Radverkehrsunfalls an der Oderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 3.8: Eingreifen in der High-Deck-Siedlung - beantwortet
+- TOP 3.9: Verkehrswende in Neukölln - beantwortet
+- TOP 3.10: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 3.11: Neupflanzungen - vertagt
+- TOP 3.12: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - vertagt
+- TOP 3.13: Gibt es nun doch Corona-Schwerpunkte in Neukölln? - vertagt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: Personal ohne Arbeit? - vertagt
+- TOP 4.2: Müll „To go“ im Schillerkiez - vertagt
+- TOP 4.3: Unfallgefahr in der Oderstraße verringern - vertagt
+- TOP 4.4: Öffentliche Toiletten - vertagt
+- TOP 5: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 5.1: Bürger*innenpreis für Demokratie und Courage in Neukölln - vertagt
+- TOP 5.2: Tag des guten Lebens in Neukölln unterstützen - vertagt
+- TOP 5.3: Stelle der/des Nachhaltigkeitsbeauftrag*ten - vertagt
+- TOP 5.4: Aktionsplan zur weiteren Umsetzung der UN-Behindertenrechtskonvention (UN-BRK) - vertagt
+- TOP 5.5: Bürgerhaushalt für Neukölln - vertagt
+- TOP 5.6: Klimanotstand! Neukölln handelt angesichts der Klimakrise - vertagt
+- TOP 5.7: Tempo 30 in der Hermannstraße - vertagt
+- TOP 5.8: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - vertagt
+- TOP 5.9: Earth Hour - vertagt
+- TOP 5.10: Eichenquast Tempo 30 - vertagt
+- TOP 5.11: „Lampenladen" dimmen - vertagt
+- TOP 5.12: Umbenennung der Wissmannstraße - vertagt
+- TOP 5.13: Keine Zuwendungskürzungen für EU-Projekte in Neukölln - vertagt
+- TOP 5.14: Verlängerung der Buslinie 179 - vertagt
+- TOP 6: Beschlussempfehlungen - (offen)
+- TOP 6.1: Mieter*innen vor Nachzahlungen und Wohnungsverlust schützen - vertagt
+- TOP 6.2: Krischanweg - vertagt
+- TOP 6.3: Kreuzung Wildenbruchstraße/Hüttenroder Weg für Fußgänger*innen sicherer machen - vertagt
+- TOP 6.4: Digitalisierung der Schulen vorantreiben - vertagt
+- TOP 6.5: Neukölln macht Schule– keine weitere Erhöhung der Klassenfrequenzen - vertagt
+- TOP 6.6: Neuköllner Haushalt - vertagt
+- TOP 6.7: CO2-Reduzierung bei Bau- und Sanierungsprojekten! - vertagt
+- TOP 6.8: Ersatz für ausgefallene Einbürgerungsfeiern - vertagt
+- TOP 6.9: Ladeinfrastruktur für E-Fahrzeuge zügig ausbauen! - vertagt
