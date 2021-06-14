@@ -1,0 +1,75 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-14T16:00:00+02:00
+- Ende: 2021-06-14T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23286
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23286
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Modaler Filter Fahrradstraße Weyertal (Az.: 02-1600-01/21) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Deckensanierungen im Bezirk Lindenthal - Kenntnis genommen
+- TOP 7.1.2: Ergreifung weiterer Maßnahmen zur Bekämpfung des Leerstands von Wohnungen im Stadtbezirk - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bedarf an Quartiersgaragen im Stadtbezirk Lindenthal - zurückgestellt
+- TOP 7.2.2: Sachstand Schulplätze für Sülz und KIettenberg - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Wiederaufbau einer Schaukel auf dem Spielplatz Paulistraße - ungeändert beschlossen
+- TOP 8.1.2: Halle "Alte Schule" - ungeändert beschlossen
+- TOP 8.1.3: Einrichten eines Bedarfsübergangs der Aachener Straße zum südlichen Haupteingang Melatenfriedhof - endgültig zurückgezogen
+- TOP 8.1.4: Zusätzliche Fahrradabstellplätze an der Fahrradstraßenecke Sülzburg/Euskirchenerstr. - ungeändert beschlossen
+- TOP 8.1.5: Petersberger Str. - ungeändert beschlossen
+- TOP 8.1.6: Leerstand Wohnungen - geändert beschlossen
+- TOP 8.1.7: Dringlichkeitsantrag zur Vermarktung Petershof in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.8: Dringlichkeitsantrag zur Neugestaltung Spielplatz Köln Weiden - ungeändert beschlossen
+- TOP 8.1.9: Dringlichkeitsantrag zur Sperrung der Kitschburger Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Beflaggung des Bezirksrathauses Lindenthal mit der Regenbogenfahne am 17. Mai 2021 - ungeändert beschlossen
+- TOP 9.1.2: Erweiterung des Anwohnerschutzkonzeptes RheinEnergieStadion - geändert beschlossen
+- TOP 9.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.4: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.1.5: Planung verkehrlicher Maßnahmen zur Schulwegsicherung am Schulstandort Statthalterhofallee in Junkersdorf - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - ungeändert beschlossen
+- TOP 9.2.1.1: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - ungeändert beschlossen
+- TOP 9.2.2: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 9.2.3: Einrichtung des Erweiterungsbaus für das Gymnasium Neue Sandkaul 29, 50859 Köln-Widdersdorf - ungeändert beschlossen
+- TOP 9.2.4: 241. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld Arbeitstitel: "Alsdorfer Straße“ in Köln-Ehrenfeld/-Braunsfeld" - ungeändert beschlossen
+- TOP 9.2.5: Erweiterung der P+R-Anlage Weiden West - geändert beschlossen
+- TOP 9.2.6: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: KinderReich Rheinland gGmbH - zurückgestellt
+- TOP 9.2.7: Rahmenplanung Braunsfeld/Müngerdorf/Ehrenfeld, hier: Änderung der Geschäftsordnung des Beirates zur Umsetzung der Rahmenplanung - geändert beschlossen
+- TOP 9.2.8: Schulrechtliche Errichtung des Gymnasiums Zusestraße 47, 50859 in Köln-Lövenich zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.9: Schulrechtliche Errichtung des Gymnasiums Aachener Str. 744-750 in Köln-Müngersdorf zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.10: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit mindestens drei Sportübungseinheiten im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 9.2.11: 184. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3 (Köln-Lindenthal) beziehungsweise 4 (Köln-Ehrenfeld) Arbeitstitel: "Braunsfeld/Ehrenfeld" in Köln-Braunsfeld/Ehrenfeld - zurückgestellt
+- TOP 9.2.12: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.1.2: "Der Städtebauliche Masterplan für die Innenstadt Köln" hier: Aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 11.3.2: Vermarktung des Petershofes in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3.3: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 11.3.4: Stadtbahnvorhaben Widdersdorf - Brauweiler - Glessen - Niederaußem - Kenntnis genommen
+- TOP 11.3.5: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
