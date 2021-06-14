@@ -1,0 +1,69 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (5. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-06-14T17:00:00+02:00
+- Ende: 2021-06-14T19:55:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZV8IjudF-qNRwTerQ-7Sy-k
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6454
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf0CWI-srJWwbxo8uen-kQTPGV5BTO3elLjtaqqkIVwk/Bekanntmachung_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_14.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZab4bFbU5SLmaHYzNMuMFpnrdhGiQUUaOIQ9KHpb7_P/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_14.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Lärmzunahme durch Rückschnitt an S-Bahnlinie S 1 Höhe Dunkelnberger Straße
+- TOP 1.2: Zustand Waldweg zwischen Bussche-Kessel-Weg und Bonner Straße
+- TOP 1.3: Toilettenanlage Engelsberger Hof
+- TOP 1.4: Zukunft der Festhalle Ohligs
+- TOP 1.5: Gehweg im Bereich Heiligenstock
+- TOP 1.6: Situation am Ammerweg
+- TOP 1.7: Beschilderung Kieler Straße/Zweibrücker Straße/Berliner Brücke
+- TOP 1.8: Verschmutzung Teich am Pohligshof
+- TOP 1.9: Radweg auf der Höhscheider Straße
+- TOP 1.10: Sachstandbericht Hotelbau am Bahnhof
+- TOP 1.11: Bahnhaltestelle am Vogelpark
+- TOP 1.12: Verschiedene Anfragen zu e-Scootern
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 4. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 03.05.2021
+- TOP 4.: Integriertes Stadtteilentwicklungskonzept Ohligs - Umgestaltung der Düsseldorfer Straße und des Ohligser Marktes - Konkrete Entwurfsplanung Marktplatz und Entwurfsplanung Düsseldorfer Straße
+- TOP 5.: Umgestaltung Ohligser Marktplatz Antrag der SPD-Bezirksfraktion vom 29.04.20121
+- TOP 6.: Bewässerungssystem der neuen Fußgängerzone in Ohligs Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+- TOP 7.: Bepflanzung der Ohligser Fußgängerzone Gemeinsamer Antrag der Ratsfraktionen Bündnis 90/Die Grünen, SPD, DIE LINKE/Die PARTEI vom 31.05.2021
+- TOP 8.: Integriertes Stadtteilentwicklungskonzept Ohligs - Vorentwurfsplanung für die Umgestaltung des Vorplatzes am östlichen Bahnhofausgang
+- TOP 9.: Ohligs Innenstadt Antrag der CDU-Bezirksfraktion vom 15.04.2021
+- TOP 10.: Umbau Lennestraße Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 27.05.2021
+- TOP 11.: Bauleitplanung Düsseldorfer Straße / Lippestraße Information über das Ergebnis der frühzeitigen Öffentlichkeits- und Trägerbeteiligungen zum Vorentwurf des Bebauungsplanes O 658 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes O 658 für das Gebiet zwischen der Düsseldorfer Straße, der Weststraße, der Lippestraße und der Straße Im Ohligs. (Beschluss) – Stadtbezirk Ohligs/Aufderhöhe/ Merscheid –
+- TOP 12.: Einrichtung eines durchgehenden Radweges zwischen Merscheid und Aufderhöhe, insbesondere an den Schwarzen Pfählen Anregung nach § 24 GO NRW
+- TOP 13.: Sachstand Fahrradboxen und Ladestationen im Stadtbezirk Ohligs/Aufderhöhe/Merscheid Antrag der CDU-Bezirksfraktion vom 15.04.2021
+- TOP 14.: Lärmbelästigung auf der Hildener Straße Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+- TOP 15.: Antragstellung für Zuwendungen zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung
+- TOP 16.: Verkaufsoffene Sonntage 2021
+- TOP 17.: Sachstand Neubauplanung Feuer- und Rettungswache II nebst Feuerwehrgerätehaus, Brunnenstraße 11
+- TOP 18.: Verkehrsregelung Radverkehr Kieler Straße/Wilhelmstraße Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+- TOP 19.: Toilettenanlage Engelsberger Hof Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+- TOP 20.: Nahverkehrsplan Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+- TOP 21.: Wiederwahl einer Schiedsperson für den Bezirk VI
+- TOP 22.: Kreativwettbewerb an Solingen Schulen im Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid zur Verschönerung von Stromkästen Antrag der CDU-Bezirksfraktion vom 15.03.2021
+- TOP 23.: Öffentliche Toiletten im Stadtbezirk Ohligs/Aufderhöhe/Merscheid
+- TOP 24.: Genehmigung der Beschlüsse der als Videokonferenz geführten letzten Sitzungen der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.1.1: Neues Sharing-System von E-Tretrollern im free-floating in der Klingenstadt
+- TOP 25.1.2: Vorab-Information über eine Anregung nach § 24 Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) hier: Erhalt der Kleingartenanlage am Bussche-Kessel-Weg
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP 25.3: Radwegeplanung auf der Höhscheider Straße
+- TOP 25.4: Pflege des Spielplatzes an der Merkurstraße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 4. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 03.05.2021
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
+- TOP 4.3: Gastronomie auf dem Ohligser Markplatz
