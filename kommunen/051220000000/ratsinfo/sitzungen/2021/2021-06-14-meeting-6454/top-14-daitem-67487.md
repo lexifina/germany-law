@@ -1,0 +1,9 @@
+# TOP 14.: Lärmbelästigung auf der Hildener Straße Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021
+
+- Sitzung: Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (5. Sitzung) (2021-06-14)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/67487
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/35749
+- Beschluss (Datei): Beschlusstext (Lärmbelästigung auf der Hildener Straße
+Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und Die Linke vom 26.05.2021) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTCORsH2XeRJeOOyfuqHmLNkQkXiSQFNz7yoZbEhgTeP/Beschlusstext_1120-2021_-oeffentlich-_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_14.06.2021.pdf
