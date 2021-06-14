@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-14T17:02:00+02:00
+- Ende: 2021-06-14T17:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23687
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23687
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage der FDP-Fraktion betreffend: „Samstagstrauung an Ambiente-Orten“ - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage betreffend: "Videoüberwachung am Ebertplatz" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage nach § 4 (Fraktion Bündnis 90/Die Grünen) betreffend: "Beschaffung Hardware für Schulen und Stadtverwaltung" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend: "Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im Jahr 2020" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0997/2021 der SPD-Fraktion "Angriffe auf Kölner Ordnungskräfte nehmen zu" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Evaluierungsbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 4.2: Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud - Kenntnis genommen
+- TOP 4.2.1: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 7. April 2021 - Kenntnis genommen
+- TOP 4.2.2: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 19. Mai 2021 - Kenntnis genommen
+- TOP 4.3: Digitale Konferenz Interkulturelles Köln - Dokumentation der Veranstaltung vom 22.1.2021 - Kenntnis genommen
+- TOP 4.4: Transparenzbericht 2020 zur Verwaltungsreform #wirfürdiestadt und Innovationsplattform innovative-stadt.koeln - Übergang zum nächsten Tagesordnungspunkt
+- TOP 4.5: Mitteilung des Personal- und Verwaltungsmanagements zu den Themen Personalmarketing- und Personalgewinnungsmaßnahmen - Kenntnis genommen
+- TOP -: Beantwortung der mündlichen Anfrage betreffend "Personalmarketing- und Personalgewinnungsmaßnahmen" - Kenntnis genommen
+- TOP 4.6: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 4.7: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU betreffend "Wettbüros und Spielhallen" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD betreffend "Sitzen statt parken: Höhenangleichung zur Herstellung der Barrierefreiheit" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Mündliche Anfrage der AfD-Fraktion betreffend "aktuelle Situation am Kölnberg"
+- TOP 7.3: Mündliche Anfrage der AfD-Fraktion betreffend "Maskengebot an den ausgewiesenen Straßen"
+- TOP 7.4: Mündliche Anfrage der Bündnis 90/ Die Grünen- Fraktion betreffend "Evaluierungsbericht des Sachstandsbericht der Stadt Kölm zum 10-Punke-Aktionsplan"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Die Linke betreffend "Meldestelle für Coronaverstöße an Arbeitsstellen und Betrieben" - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktionen 90/Die Grünen, CDU und Volt betreffend "Erhöhung der Ausbildungsquote von Menschen mit Behinderung" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2021 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Ladeinfrastruktur im öffentlichen Straßenraum - ungeändert beschlossen
+- TOP 10.2: Bedarfsfeststellung für die Landtagswahl 2022 - ungeändert beschlossen
+- TOP 10.3: Anregung der Bezirksvertretung Chorweiler zur Grenzänderung bei den Stadtteilen Merkenich und Fühlingen - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Bedarfsfeststellungsbeschluss für die Ausstattung der Unterkünfte für Geflüchtete mit WLAN - ungeändert beschlossen
+- TOP 10.5: Anpassung der Kölner Wohnraumschutzsatzung an das Wohnraumstärkungsgesetz NRW - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Projekte im Rahmen der Klimapartnerschaft mit Yarinacocha - zurückgestellt
+- TOP 10.7: Beschäftigung Langzeitarbeitsloser über § 16i SGB II – Erweiterung der Maßnahme - ungeändert beschlossen
+- TOP 10.8: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 10.9: Schulrechtliche Errichtung des Gymnasiums Aachener Str. 744-750 in Köln-Müngersdorf zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.10: Schulrechtliche Errichtung des Gymnasiums Zusestraße 47, 50859 in Köln-Lövenich zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.11: Konzept zur Durchführung einer Konferenz mit Kölner Hochschulen, Partnerstädten und Hochschulen aus Partnerstädten - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
