@@ -1,0 +1,54 @@
+# Rat der Stadt Rheda-Wiedenbrück (6. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2021-06-14T17:00:00+02:00
+- Ende: 2021-06-14T20:20:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVbXADpmtDtv0n4DirQvJk4
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2251
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZov9CbPUEDwiP4miRi-qYuhKw-t9LsEgfz0f19oV9K4/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_14.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWwp0Crgkx9mgXAcy-tkx92qpgSv2lqu5Oo3Vkc-roRk/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_14.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Wahl einer Beigeordneten / eines Beigeordneten und Bestellung zur Kämmerin / zum Kämmerer - Einstimmig
+- TOP 4.1: Umbesetzung im Fachausschuss - Einstimmig
+- TOP 4.2: Brandschutzbedarfsplan der Stadt Rheda-Wiedenbrück - Fortschreibung 2020/2021 - Einstimmig
+- TOP 5: Antrag der Move-Fraktion Erhöhung Ausbildungsquote bei der Stadt Rheda-Wiedenbrück - 19 Ja-Stimme(n), 10 Nein-Stimme(n)
+- TOP 5.1: Antrag der FWG-Fraktion vom 21.05.2021 zur Reduzierung der Freibad- Jahreskarte auf 50% - 9 Ja-Stimme(n), 17 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 5.2: Anfragen zum Infektionsgeschehen
+- TOP 6: Nutzung von Spiel- und Sportflächen in Rheda-Wiedenbrück
+- TOP 6.1: Nutzung von Spiel- und Sportflächen in Rheda-Wiedenbrück - Einstimmig
+- TOP 7: 4. Satzungsänderungen der Elternbeiträge in Kindertages-einrichtungen und der Elternbeiträge für Kindertagespflege zum 01.08.2021 und Antrag der move-Fraktion zum Haushalt 2021 - Produkt 060102 - Sachkonto 432101: Änderung der Elternbeitragstabelle für Kindertageseinrichtungen und Kindertagespflege ab dem Kindergartenjahr 2021 - 20 Ja-Stimme(n), 9 Nein-Stimme(n)
+- TOP 7.1: Verzicht auf Elternbeiträge für Kindertageseinrichtung, Kindertagespflege und Offene Ganztagsschule für die Monate Mai und Juni 2021 - Einstimmig
+- TOP 8: Haushaltsbeschluss 2021: Digitale Ausstattung und Analyse der Verwaltung Zeit- und Maßnahmenplan - Einstimmig
+- TOP 9: Finanzcontrolling - Quartalsbericht I/2021 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 10: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für Februar 2021 bis April 2021 für das Haushaltsjahr 2020 und für Januar 2021 bis April 2021 für das Haushaltsjahr 2021 - Kenntnisnahme
+- TOP 11: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 010801 - 27 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 12: Haushalt 2022: Eckwertebeschluss und Zeitplanung - Einstimmig
+- TOP 12.1: Wiedereinführung der Antragsvorlage - 28 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 13: Erlass einer Ablöse- und Stellplatzsatzung für die Stadt Rheda-Wiedenbrück - Absetzung
+- TOP 14: Betrieb Bauhof: Prüfung des Jahresabschlusses und des Lageberichtes zum 31.12.2020 einschließlich Entlastungen - Bericht der WIKOM AG, Essen - Einstimmig
+- TOP 15: ISEK Rheda | Gestaltleitlinien und Beschluss über die Gestaltungssatzungen im Bereich des historischen Stadtkerns Rheda - Absetzung
+- TOP 16: ISEK Rheda | Fassaden- & Hofflächenprogramm Innenstadt Rheda - Einstimmig
+- TOP 16.1: Eigenbetrieb Abwasser: Stellenplanänderung - 22 Ja-Stimme(n), 6 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 17: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 18: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 19: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 20: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 21: Erklärung von Ausschließungsgründen
+- TOP 22: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Eigenbetrieb Abwasser: Stellenplanänderung - 24 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 25: Wahl der Ersten Schiedsperson - 26 Ja-Stimme(n), 3 Nein-Stimme(n)
+- TOP 26: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 27: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 28: Dringende Anfragen und Anregungen
