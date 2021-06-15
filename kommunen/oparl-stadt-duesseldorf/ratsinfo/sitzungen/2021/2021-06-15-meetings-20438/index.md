@@ -1,0 +1,60 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-15T17:00:00+02:00
+- Ende: 2021-06-15T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20438
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20438
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00414640.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00414640.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00414640.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung vom 11.05.2021 - einstimmig beschlossen
+- TOP 3: Aktueller Lagebericht "Jugendhilfe in Zeiten von Corona" - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN - hier: Ferienfreizeitplanung für Kinder und Jugendliche in den Sommerferien 2021 unter Berücksichtigung der pandemischen Lage - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN - hier: Frühzeitige Prävention von Schulabbruch - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion SPD/Volt - hier: Handlungsfelder der Düsseldorfer Stadtteiltreffs und Bürgerhäuser - beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Antrag der FDP-Ratsfraktion - hier: Konzept für die Schulsozialarbeit - zurückgestellt
+- TOP 5.2: Antrag der Ratsfraktion SPD/Volt - hier: Freiwillige Kitaeingangsuntersuchung - zurückgestellt
+- TOP 5.3: Antrag der Ratsfraktion SPD/Volt - hier: Kita Otto-Pankok-Str. 29 - einstimmig beschlossen
+- TOP 6: Fachübergreifende Vorlagen
+- TOP 6.1: Aktuelles zur Umsetzung der Landesinitiative "Durchstarten in Ausbildung und Arbeit" in Düsseldorf - zur Kenntnis genommen
+- TOP 7: SGB VIII-Reform
+- TOP 7.1: Gesetz zur Stärkung von Kindern und Jugendlichen (Kinder- und Jugendstärkungsgesetz - KJSG) - zur Kenntnis genommen
+- TOP 8: Tageseinrichtungen für Kinder
+- TOP 8.1: Trägerwechsel des Vereins zur Förderung der Katholischen Kirche St. Ursula Düsseldorf-Grafenberg e.V. zum Träger Flingern mobil e.V. - einstimmig beschlossen
+- TOP 8.2: Anerkennung von Tageseinrichtungen für Kinder als plusKita im Sinne des KiBiz - einstimmig beschlossen
+- TOP 9: Jugendförderung
+- TOP 9.1: Stärkung des Jugendportals Youpod - hier: Finanzierung einer halben Stelle beim Jugendring ab 01.07.2021 - einstimmig beschlossen
+- TOP 9.2: Controllingbericht Jugendförderung 2020 - zur Kenntnis genommen
+- TOP 10: Soziale Dienste
+- TOP 10.1: Gesetz zur Verbesserung der Hilfen für Familien bei Adoption (Adoptionshilfe-Gesetz) - zur Kenntnis genommen
+- TOP 10.2: „Einbeziehung von Eltern in der Pflegekinderhilfe" - Ein Projekt zur Praxisentwicklung im Feld der Kinder- und Jugendhilfe für den Standort Düsseldorf - zur Kenntnis genommen
+- TOP 10.3: Controllingbericht Inobhutnahme in Düsseldorf 2020 - zur Kenntnis genommen
+- TOP 11: Präventionsketten Düsseldorf
+- TOP 11.1: Düsseldorfer Präventionsketten: Die Düsseldorfer Präventionsdatenbank: AchtungKind.de - zur Kenntnis genommen
+- TOP 11.2: Düsseldorfer Präventionsketten: Gründung der Arbeitsgemeinschaft nach § 78 SGB VIII - Prävention U27 - einstimmig beschlossen
+- TOP 11.3: Düsseldorfer Präventionsketten: 2. Düsseldorfer Symposium zu Kinderrechten und Kinderschutz - Kinder und Jugendliche in der Pandemie: Problemfelder – Lösungsansätze – Verstetigung - zur Kenntnis genommen
+- TOP 12: Gebäudeangelegenheiten
+- TOP 12.1: Erweiterung der Kindertageseinrichtung Otto-Hahn-Straße 40, Stadtbezirk 9 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 13: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 13.1: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Matthias-Erzberger-Straße 22 und Bekenntnis der Kommune zum Mehrgenerationenhaus (Stadtteil- und Familienzentrum) - Empfehlung einstimmig beschlossen
+- TOP 13.2: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Flurstraße 57 - einstimmig beschlossen
+- TOP 13.3: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Sigmaringenstraße 2 - einstimmig beschlossen
+- TOP 14: Anerkennungen als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 14.1: Anpassung der Grundsätze für die Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - einstimmig beschlossen
+- TOP 14.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: kohl eG - einstimmig beschlossen
+- TOP 14.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Kindertagesstätte „MaDi gGmbH“ - einstimmig beschlossen
+- TOP 14.4: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Kindertagesstätte „L’ile aux doudous - die Kuscheltierinsel gGmbH“ - einstimmig beschlossen
+- TOP 14.5: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Naturkindergarten Üllehütt e.V. - einstimmig beschlossen
+- TOP 15: Ausstattung von Düsseldorfer Schulen mit zusätzlichen Ressourcen in der Schulsozialarbeit - einstimmig beschlossen
+- TOP 16: Anpassungen in der Kindertagespflege - einstimmig beschlossen
