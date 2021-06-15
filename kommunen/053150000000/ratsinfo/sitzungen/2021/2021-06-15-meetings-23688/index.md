@@ -1,0 +1,89 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-15T14:05:00+02:00
+- Ende: 2021-06-15T16:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23688
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23688
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Allgemeines zur Pandemie-Situation
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Präsentation zum Kinder- und Jugendförderplan der Stadt Köln 2021 - 2025
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2021/22 - ungeändert beschlossen
+- TOP 2.3.2: Gaststatus mit Rederecht im Jugendhilfeausschuss für die Bezirksschüler*innenvertretung Köln - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mehrgenerationen Haus Lindweiler 2021 - ungeändert beschlossen
+- TOP 4.2: Neugestaltung des Bolzplatzes Georgestraße in Köln-Neubrück - ungeändert beschlossen
+- TOP 4.3: Neuwahl eines beratenden Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.4: Kindertagespflege nach § 23 SGB VIII - Änderungen nach dem neuen Kinderbildungsgesetz (KiBiz NRW) - ohne Votum in nachfolgende Gremien
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Mittagsverpflegung in der Kinderbetreuung - geändert beschlossen
+- TOP -: Mittagsverpflegung in der Kinderbetreuung - Kenntnis genommen
+- TOP 5.1.2: Beflaggung städtischer Gebäude mit der Regenbogenfahne am 17. Mai 2021 - Kenntnis genommen
+- TOP 5.1.3: Errichtung eines Fangnetzes zwischen den Volleyballplätzen und dem Skaterpark (KAP686) auf der Höhe Agrippinawerft - endgültig zurückgezogen
+- TOP -: Errichtung eines Fangnetzes zwischen den Volleyballplätzen und dem Skaterpark (KAP686) auf der Höhe Agrippinawerft - Kenntnis genommen
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Aktionsprogramm „Aufholen nach Corona für Kinder und Jugendliche“ für Ferienangebote nutzen! - geändert beschlossen
+- TOP 5.2.2: Kitaversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven bedarfsgerecht entwickeln! - geändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Überbrückende Unterstützung für Träger mit interkulturellen Angeboten der Jugendhilfe während der Coronazeit - Kenntnis genommen
+- TOP -: Überbrückende Unterstützung für Träger mit interkulturellen Angeboten der Jugendhilfe während der Coronazeit - Kenntnis genommen
+- TOP 6.1.2: Freiluga als außerschulischen Lernort dauerhaft etablieren und weiterentwickeln - Kenntnis genommen
+- TOP -: Freiluga als außerschulischen Lernort dauerhaft etablieren und weiterentwickeln - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Ausweitung der Angebote für die Juleika - Kenntnis genommen
+- TOP -: Gemeinsame Anfrage der Fraktion Bündnis 90/ die GRÜNEN und der CDU- Fraktion im Rat der Stadt Köln - Kenntnis genommen
+- TOP 6.2.2: Jugendarbeit in Post-Corona-Zeiten - Kenntnis genommen
+- TOP -: Jugendarbeit in Post-Corona-Zeiten - Kenntnis genommen
+- TOP 6.2.3: Jugendkriminalität 2020 - Auswertebericht für das Polizeipräsidium Köln - zurückgestellt
+- TOP 6.2.4: Drastischer Ausbildungsabbau aufgrund von Corona - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Schließung der Kindertageseinrichtung Volksgartenstraße (Gotland) - Nachfragen der SPD-Fraktion und der FDP-Fraktion zu 0350/2021 aus der Sitzung vom 09.03.2021 - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage des beratenden Mitglieds Wolfgang Zaschke in der Sitzung des Jugendhilfeausschusses am 27.4.2021 zu TOP 4.5 Teilnahme am Landesprogramm „Kommunales Integrationsmanagement“, hier: Umsetzung der Förderbausteine 1 und 2 - Kenntnis genommen
+- TOP 7.1.3: Beantwortung der Nachfragen der FDP- Fraktion zur Sitzung des Jugendhilfeausschusses am 09.03.21 - Kenntnis genommen
+- TOP 7.1.4: Datenschutz bei digitalen Angeboten - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer Anfrage der Fraktion Die Linke nach den Gründen für die Nichtversorgung der Kinder - Kenntnis genommen
+- TOP 7.1.6: Beantwortung einer mündlichen Anfrage aus dem JHA vom 27.04.2021 zu TOP 8.5.8, Vorlage 1342/2021 - Auswirkungen der Corona-Pandemie auf LSTBQI-Jugendliche - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Muendliche Anfrage aus dem Integrationsrat - Kenntnis genommen
+- TOP -: Anfrage kriegsverherrliche Veranstaltung auf dem Heumarkt - Kenntnis genommen
+- TOP 7.2.2: Anfrage der SPD-Fraktion zum Schreiben vom 3.6.21 des Personalrates der städt. Kitas zur Frage der Alltagshelferinnen und -helfer in Zeiten von Corona
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Bundesprogramm Kita-Einstieg: Brücken bauen in frühe Bildung - Kenntnis genommen
+- TOP 8.2.2: Monitoringbericht 2020: allgemeinbildende Schulen und Berufskollegs, bildungsstatistische Analysen und kommunale Steuerungsansätze - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung an den Jugendhilfeausschuss zum Jugendkriminalitätsbericht 2020 des Polizeipräsidiums Köln - zurückgestellt
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: "Tag der Jugend im Rathaus" Umsetzung unter Pandemiebedingungen - Ergebnis 2020 - Kenntnis genommen
+- TOP 8.4.2: Mitteilung über die Konzepterstellung zur Fachstelle „Hilfen für Kinder und Jugendliche aus mit Sucht und/oder psychisch belasteten Familien“ - Kenntnis genommen
+- TOP 8.4.3: Trägerschaft der Jugendeinrichtung im Sürther Feld Köln Rodenkirchen - Kenntnis genommen
+- TOP 8.4.4: Sommerferien während der Corona-Pandemie - Kenntnis genommen
+- TOP 8.4.5: Mitteilung der Kinder- und Jugendverwaltung zur Beschlussvorlage 0947/2021 Umgestaltung Spielplatz Buschgasse / Altstadt Süd - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Sachstandsbericht Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 8.5.2: Dezernat IV Berichtswesen - Teilbericht Jugendhilfeausschuss 2020 - Kenntnis genommen
+- TOP 8.5.3: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2021/2022 - Kenntnis genommen
+- TOP 8.5.4: Beantwortung einer Anfrage nach § 4 (SPD-Fraktion) betreffend Digitale Information an die Eltern über negative Testergebnisse bei Lolli-Tests an Schulen und Kitas AN/1215/2021 - Kenntnis genommen
+- TOP 8.5.5: Kölner KinderSportFest - Kenntnis genommen
+- TOP 8.5.6: Sonder-Schwimmlern-Programm - Kenntnis genommen
