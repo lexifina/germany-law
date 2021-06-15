@@ -1,0 +1,53 @@
+# 18. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2021-06-15T18:00:00+02:00
+- Ende: 2021-06-15T20:20:00+02:00
+- Ort: Elmar-Weiller-Festhalle, großer Saal, Bonifatiusstraße 22, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2021-200-146
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2021-200-146
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-200-146
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-200-146
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-200-146
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Ratsmitgliedern
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Bebauungsplan 'Südliche Friedhofstraße'
+- TOP 4: Fortschreibung Einheitlicher Regionalplan
+- TOP 5: Feststellung des Jahresabschlusses 2020 für das Altenzentrum St. Josef mit Beschlussfassung über die Behandlung des ausgabewirksamen Verlustes
+- TOP 6: Beauftragung eines Wirtschaftsprüfers für das Altenzentrum St. Josef für die Wirtschaftsjahre 2022 bis 2024
+- TOP 7: Geschwindigkeitsberuhigungsinseln im Südring
+- TOP 8: Anträge auf Sondernutzungserlaubnis für zweite Zufahrten zum Grundstück a) Franz-Schubert-Str. 13 b) Mozartstr. 6 c) Anton-Bruckner-Str. 6
+- TOP 9: Anhörung zur Verlängerung des eingeschränkten Haltverbotes in der Oberhohlstraße, nördlich Einmündung Landauer Weg
+- TOP 10: Kindertagesstätten: Umsetzung des Sozialraumbudgets des Landkreises Südliche Weinstraße
+- TOP 11: Nachwahlen in Ausschüsse -Haupt- und Finanzausschuss -Rechnungsprüfungsausschuss -Bauausschuss -Werkausschuss (E-Werk) -Friedhöfe, Umwelt-, Natur- und Klimaschutz, Land- und Forstwirtschaft
+- TOP 12.1: Ausbau des Musikerviertels und der Litzelhorststraße/Marktstraße Vergabe Straßenbauarbeiten
+- TOP 12.2: Auftragsvergaben; Ausschreibung Kühlzellen für die Küche im Altenzentrum St. Josef
+- TOP 12.3: Auftragsvergaben; Abbrucharbeiten im Altbau des Altenzentrum St. Josef
+- TOP 12.4: Auftragsvergabe; Machbarkeitsstudie zum Einbau von RLT-Anlagen in den Kitas
+- TOP 13: Antrag der SPD-Fraktion: Lärmgutachten für die Waldstraße in Hayna unter besonderer Berücksichtigung des nächtlichen Zulieferverkehres zur Trocknungsanlage
+- TOP 14: 
+- TOP 15: Unterrichtung gem. § 33 Abs. 2 GemO über die im Jahr 2020 abgeschlossenen Verträge bzw. erteilten Aufträge mit Mitgliedern vom Gemeinderat, Ausschüssen und Bediensteten
+- TOP 16: Übertragung von Haushaltsermächtigungen des Haushaltsjahres 2020 in das Haushaltsjahr 2021
+- TOP 17.1: 
+- TOP 17.2: Mitteilungen und Anfragen; Aufnahme eines Investitionsdarlehens in Höhe von 2.500.000 €
+- TOP 17.3: Mitteilungen und Anfragen Kostenbeteiligungen Spielplatz Neubaugebiet 'Im Kalkofen'
+- TOP 17.4: Mitteilungen und Anfragen; Informationen zum Badbetrieb 2021
+- TOP 17.5: Mitteilungen und Anfragen; Information über erfolgte Auftragsvergaben
+- TOP 17.6: 
+- TOP 17.7: 
+- TOP 17.8: 
+- TOP 17.9: 
+- TOP 17.10: Mitteilungen und Anfragen Ablösung von nicht angelegten Spielplätzen bei Mehrfamilienhäusern (Anfrage SPD)
+- TOP 17.11: Mitteilungen und Anfragen Tätigkeitsbericht des Jugendzentrums (Anfrage der CDU-Fraktion)
+- TOP 17.12: 
+- TOP 17.13: Mitteilungen und Anfragen Richtlinien Vergabeverfahren Neubaugebiete
+- TOP 17.14: Mitteilungen und Anfragen Leit- und Parkkonzept
+- TOP 17.15: Mitteilungen und Anfragen Barrierefreier Zugang Multifunktionsraum Altenzentrum:
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
