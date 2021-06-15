@@ -1,0 +1,142 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-06-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434146
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434146
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 1.1.5.: entfällt
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Sommerstraßen
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: BA-Angelegenheiten
+- TOP 2.: Sonstiges
+- TOP A: Allgemeines
+- TOP 6.1.: Erweiterung des Erhaltungssatzungsgebietes „Maxvorstadt“ um das Schönfeldviertel
+- TOP 6.2.: Pläne für den Unterausschuss Klima, Umwelt und Planung endlich digital zur Verfügung stellen
+- TOP 6.3.: Teildigitalisierung der Schaukästen
+- TOP 6.4.: Anregungen Maxvorstadt, Bürgeranliegen TOP A 5.2.1/03 2021
+- TOP 6.5.: Toilettensituation am Alten Botanischen Garten, Bürgeranliegen TOP A 5.2.20/03 2021
+- TOP 6.6.: Zaun Weiße Rose
+- TOP 6.7.: Maxvorstadt "Zero Waste Quarter" zum Zweiten
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Vorschläge zur Aufwertung des öffentlichen Raums Bürgeranliegen vom 06.05.2021
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 01.06.2021 Ausverkauf der Maxvorstadt verhindern. Erhalt der bestehenden Erhaltungssatzungsgebiete und Neuerlass von Erhaltungssatzungsgebieten in der Maxvorstadt überprüfen
+- TOP 2.1.1.: Baulisten der LBK: 18.,19., 20., 21. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 18.-19. KW und 20.-21. KW
+- TOP 2.1.3.: Hirtenstraße 2, Neubau eines Büro und Verwaltungsgebäudes – VORBESCHEID
+- TOP 2.1.4.: Türkenstraße 50, Neubau eines Wohn- und Geschäftsgebäudes mit TG (siehe B 3.1.1)
+- TOP 3.1.1.: Türkenstraße 50, beantragte Baumfällungen
+- TOP 3.2.1.: Zentnerstr. 19
+- TOP 3.2.2.: Linprunstr.36
+- TOP 5.1.: Hochbeete auf öffentlichem Grund, Information über Genehmigungsverfahren
+- TOP 5.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV/Jahresgenehmigung
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Autos auf Gehwegen: z.B. Kreuzung Winzerer-/Schellingstraße Bürgeranliegen vom 06.05.2021
+- TOP 1.1.2.: Parkcafe – Parklets unterstützen Bürgeranliegen vom 11.05.2021
+- TOP 1.1.3.: Schanigärten/Parkplätze Türkenstraße Bürgeranliegen vom 19.05.2021
+- TOP 1.1.4.: Beschwerde: E-Scooter Chaos in der Maxvorstadt Bürgeranliegen vom 23.05.2021
+- TOP 1.1.6.: Behinderungen Ein-/Ausfahrt Blutenburgstr. 40/42 Bürgeranliegen vom 07.04.2021
+- TOP 1.1.7.: Kritik an der Freigabe der Schwarzmannstraße für den gegenläufigen Radverkehr Bürgeranliegen vom 24.05.2021
+- TOP 1.1.8.: Lärmaufkommen Türkenstraße Bürgeranliegen vom 29.05.2021
+- TOP 1.1.9.: Blumenstand auf dem Bauernmarkt Josephsplatz Bürgeranliegen vom 31.05.2021
+- TOP 1.1.10.: Kreuzung Leopold-/Adalbertstraße Bürgeranliegen vom 31.05.2021
+- TOP 1.1.11.: Türkenstr. zwischen Schelling- und Blütenstr. Bürgeranliegen vom 01.06.2021
+- TOP 1.1.12.: Türkenstraße /Georg-Elser Platz Bürgeranliegen vom 31.05.2021
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag UA-Mitglieder vom 31.05.2021 Errichtung einer begrünten Besenstation mit Pfandnische am Josephsplatz
+- TOP 1.2.2.: Antrag SPD vom 31.05.2021 Ausbau der Bushaltestellen der Linie 153 in der Lothstraße
+- TOP 1.2.3.: Antrag Grüne vom 30.04.2021 (vertagt aus 05/21) Gesamtkonzept für den Odeonsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Radrennen Herren- Murnau – Odeonsplatz am 14.08.2022, European Championships 2022
+- TOP 2.2.: Radrennen Damen- L. a. L. – Odeonsplatz am 21.08.2022, European Championships 2022
+- TOP 2.3.: Austausch der Lichtsignalanlage am Knotenpunkt Maximiliansplatz / Prannerstr.
+- TOP 2.4.: Austausch der Lichtsignalanlage am Knotenpunkt Max-Joseph-Str./ Maximiliansplatz
+- TOP 2.5.: Austausch der Lichtsignalanlage am Platz d. Opfer d. Nationalsozialismus
+- TOP 2.6.: Erinnerungsverfahren Türkenstr. 68: Geh- und Fahrbahnerneuerung
+- TOP 2.2.2.: Evaluation der Münchner Stellplatzsatzung (Vertagung aus 05/21)
+- TOP 2.2.3.: Bücherschränke (vertagt aus 05/21)
+- TOP 2.2.4.: entfällt
+- TOP 2.2.5.: Erweiterung d. Warenauslagen für Fruchthaus Barer Str. 49
+- TOP 2.2.6.: Aufstellen neuer Verkaufseinrichtungen Nordendstr. 18
+- TOP 2.3.1.: Gabelsbergerstr. 22; Antrag Corona-Freischankfläche
+- TOP 2.3.2.: Gabelsbergerstr. 22; Antrag reguläre Freischankfläche
+- TOP 2.3.3.: Schellingstr. 128, Antrag auf Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.4.: Amalienstr. 42, Antrag Corona-Freischankfläche
+- TOP 2.3.5.: Amalienstr. 45, Antrag Corona-Freischankfläche
+- TOP 2.3.6.: Neureutherstr. 8, Antrag auf eine Parkplatzfreischankfläche
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Amalienstr. 21,Corona Freischankflächenbescheid
+- TOP 3.2.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze. a) Zieblandstr. 22 und Augustenstr.113 Seite Zieblandstraße b) Hirtenstr. 2 und Lämmerstr. 5 Seite Hirtenstraße c) Theresienstraße 53 Seite Enhuberstraße und Steinheilstraße 12 Seite Enhuberstraße
+- TOP 3.3.: Beschlussvorlage Stadtterrassen
+- TOP 3.4.: Mülleinsammlung im Bereich Brienner Straße/Oskar-von-Miller-Ring ab 05.30 Uhr
+- TOP 3.5.: (U) Durchführung einer vergleichenden Haushaltsbefragung zum Mobilitätsverhalten in den Modellquartieren City2Share, CIVITAS ECCENTRIC und Smarter Together – Verlängerung und Erweiterung der Satzung Erlass einer Haushaltsbefragungssatzung
+- TOP 3.6.: Lenbachplatz und Karlsplatz/Stachus: Einrichtung von Parkflächen für Elektrokleinstfahrzeuge und/oder Fahrräder und/oder Elektrokleinkrafträder
+- TOP 3.7.: Umwidmung der Blutenburgstraße zur Fahrradstraße
+- TOP 3.8.: Radschnellweg-Plan
+- TOP 3.9.: Leistungsprogramm der MVG 2022 – Stellungnahme des Facharbeitskreises Mobilität im Behindertenbeirat der LHM
+- TOP 3.10.: Ergebnisprotokoll OT 26.05.21 zur Problematik fehlender Abstellmöglichkeiten von Kickrollern (Tretrollern) vor der Türkenschule
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Nachbarschaftstreff Arnulfpark, Bildungsinsel im Arnulfpark / QuarterM gGmbH Anschaffung einer neuen Küche 4.300,00 Euro, Az.: 0262.0-3-0351
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Umbenennung der Busvermietung des MVG / KolumBUS kein akzeptabler Name Bürgeranliegen aus der Sitzung vom 18.05.2021
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "see it" Kunstareal Fest München - see it_sense it_photograph it vom 15.07. - 21.07.2021 560,00 Euro, Az.: 0262.0-3-0347
+- TOP 2.2.: (E) Stadtbezirksbudget Neue Klangkunst gGmbH Kunstareal-Fest München - Opposite, You, Me vom 15.07. - 21.07.2021 2.573,00 Euro, Az.: 0262.0-3-0348
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Ku:bik" Theaterproduktion Ku:bik vom 01.06. - 25.09.2021 7.050,00 Euro, Az.: 0262.0-3-0344
+- TOP 2.4.: (E) Stadtbezirksbudget Seriencamp UG Münchner Sommerkino, Screening von Seriencamp und anderen kleineren Festivals vom 11. - 15.07.2021 9.000,00 Euro, Az.: 0262.0-3-0353
+- TOP 2.5.: (E) Stadtbezirksbudget Kunstpavillon e.V. Intervention auf dem Karl-Stützel-Platz durch die NewFutures vom 13.07. - 15.09.2021 4.500,00 Euro, Az.: 0262.0-3-0354
+- TOP 2.6.: (E) Stadtbezirksbudget Gruppe "Tuija Komi Quartett" Jazz in the City-Konzert am 08., 09., 15. oder 16.07.2021 1.895,00 Euro, Az.: 0262.0-3-0356
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus / Stadtratsantrag Nr. 20-26 / A 01213 der AfD vom 18.03.2021
+- TOP 1.2.: Runden Tisch der Migrationsbeauftragten etablieren - Benennung einer Person aus dem BA als Migrations- bzw. Integrationsbeauftragte*r bis zum 30.06.2021
+- TOP 1.3.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
