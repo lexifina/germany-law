@@ -1,0 +1,51 @@
+# Ausschuss für Schule und Weiterbildung (4. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-06-15T17:00:00+02:00
+- Ende: 2021-06-15T19:13:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-32
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZaq1BDjikf595UGLyVyrwTY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6422
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Schule und Weiterbildung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcuYLinEtxgGRvsvjG3NhUuwppo0ce0x0pxeA2TnVrHD/Bekanntmachung_Ausschuss_fuer_Schule_und_Weiterbildung_15.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Schule und Weiterbildung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQuQidPWvC8y9z-ci18EyuqezjGVzpBefTybnhhwFCFa/Oeffentliche_Niederschrift_Ausschuss_fuer_Schule_und_Weiterbildung_15.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Aktuelle Informationen zur Schulsozialarbeit
+- TOP 1.2: Wanderbewegungen an den Grundschulen im Schuljahr 2021/2022
+- TOP 1.3: Neubau Vogelsang – wie nachhaltig, sicher und modern soll die Schule werden
+- TOP 1.4: Koordinierungsverfahren und Kriterien bei den Anmeldungen für die weiterführenden Schulen im Schuljahr 2021/2022
+- TOP 1.5: Schwimmen lernen in Solingen
+- TOP 1.6: Entwicklung der Schülerzahlen an den Bildungsgängen Fachoberschule und berufliches Gymnasium an den Berufskollegs
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 3. Sitzung des Ausschusses für Schule und Weiterbildung am 27.04.2021
+- TOP 4.: Zusätzliche mobile Luftreinigungsgeräte für die städtischen Grund- und Förderschulen; §24 GO NW Bürgerantrag
+- TOP 4.1: Zusätzliche mobile Luftreinigungsgeräte für die städtischen Grund- und Förderschulen; §24 GO NW Bürgerantrag
+- TOP 5.: Europäische Fachhochschule – Standort Solingen – Aktueller Stand Gem. Antrag der Fraktionen von Bündnis90/Die Grünen und SPD vom 28.05.2021
+- TOP 6.: Digitale Endgeräte für alle Schülerinnen und Schüler Antrag der BfS/ABI Fraktion vom 27.05.2021
+- TOP 7.: Extra-Zeit zum Lernen: Förderprogramm in Solingen realisieren Antrag der FDP-Fraktion vom 19.05.2021
+- TOP 8.: Antragstellung für Zuwendungen zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.1.1: Entwurf eines Ganztagsförderungsgesetzes (GaFäG-E)
+- TOP 9.1.2: Vertragsversand für die Offene Ganztagsschule im Schuljahr 2021/2022
+- TOP 9.1.3: Schulformempfehlungen der Anmeldungen für die weiterführenden Schulen im Schuljahr 2021/2022
+- TOP 9.1.4: Schulsituation Höhrath/Hünger
+- TOP 9.1.5: Zügigkeit der Sekundarschule Central
+- TOP 9.1.6: Versicherung der Endgeräte der Lehrer und Lehrerinnen
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 3. Sitzung des Ausschusses für Schule und Weiterbildung am 27.04.2021
+- TOP 4.: Beteiligung des Schulträgers gemäß § 61 Absatz 2 Schulgesetz für die Leitung der Friedrich-Albert-Lange-Schule
+- TOP 4.1: Beteiligung des Schulträgers gemäß § 61 Absatz 2 Schulgesetz für die Leitung des städtischen Gymnasiums August-Dicke-Schule
+- TOP 4.1.1: Beteiligung des Schulträgers gemäß § 61 Absatz 2 Schulgesetz für die Leitung des städtischen Gymnasiums August-Dicke-Schule
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
