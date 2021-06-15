@@ -1,0 +1,56 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-06-15T17:05:00+02:00
+- Ende: 2021-06-15T22:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12159
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12159
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00486325.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Hinweise zur Niederschrift der letzten Sitzung
+- TOP 3: Festsetzung der Tagesordnung
+- TOP 3.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Einbringen von Eingaben
+- TOP 6: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 6.1: Konzeptstudie Münster Klimaneutralität 2030 - Kurzfassung - einstimmig beschlossen
+- TOP 6.2: Energie- und Klimabilanz 1990 - 2019 - zur Kenntnis genommen
+- TOP 6.3: Zwischenbericht zur Umsetzung der Klimaneutralität 2030 für städtische Gebäude: Maßnahmenprogramm 2021 - 2024 - zur Kenntnis genommen
+- TOP 6.4: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster - von der Tagesordnung abgesetzt
+- TOP 6.5: Auslastung und Ausbau der münsteraner Kläranlagen: - einstimmig beschlossen
+- TOP -: Beschluss über Beschränkung der Redezeit
+- TOP 6.6: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (2021 - 2026) der Stadt Münster - einstimmig beschlossen
+- TOP 6.7: Sanierung der Belüftungseinrichtungen auf der Kläranlage Hiltrup - einstimmig beschlossen
+- TOP 6.8: Städtebaulicher Wettbewerb "Nienberge - südlich Feldstiege" - Auslobung - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 572 - Stellungnahmen - Satzung - mehrheitlich geändert beschlossen
+- TOP 6.10: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten - entfällt
+- TOP 6.10.1: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten - einstimmig beschlossen
+- TOP 6.11: Beschluss zum Rückbau der Westtribüne und der Herrichtung eines provisorischen Gästesektors auf der Nordtribüne des städtischen Stadions an der Hammer Straße - einstimmig geändert beschlossen
+- TOP 6.12: Errichtungsbeschluss zum Neubau von kommunalen Funktionsgebäuden auf den Sportanlagen Dietrich-Bonhoeffer-Straße, Pleistermühlenweg und Arnheimweg - einstimmig beschlossen
+- TOP 6.13: Masterplan für die kommunale Sportanlage Sentruper Höhe - einstimmig beschlossen
+- TOP 6.14: Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen: Anpassung an Vorgaben des Fördermittelgebers - einstimmig beschlossen
+- TOP 6.15: 5G Mobilfunk-Versorgung im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 6.16: Erlass Naturdenkmalverordnung für den bebauten Bereich - vertagt
+- TOP 6.17: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - mehrheitlich beschlossen
+- TOP 6.18: Bericht Ökologische Verpachtung - zur Kenntnis genommen
+- TOP 6.19: Verpachtung einer weiteren städtischen landwirtschaftlichen Ackerfläche am Reiner-Klimke-Weg, 48163 Münster, Stadtbezirk Münster-West, für ökologischen Landbau - mehrheitlich beschlossen
+- TOP 6.20: Gründachförderung der Stadt Münster – Erweiterung und Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - einstimmig beschlossen
+- TOP 6.21: Energiewende in Münster schaffen: Freiflächen-Photovoltaikanlage auf der Bodendeponie Coerheide - Ratsantrag A-R/0007/2020 vom 03.02.2020 - mehrheitlich beschlossen
+- TOP 6.22: Planfeststellungsverfahren Ausbau Dortmund-Ems-Kanal Los 13 - einstimmig beschlossen
+- TOP 6.23: Grünanlage Aasee - einstimmig geändert beschlossen
+- TOP 6.24: Fortschreibung Förderprogramm Passiver Schallschutz - einstimmig beschlossen
+- TOP 6.25: Neubau einer zweizügigen Grundschule mit der Option zur Erweiterung zur Dreizügigkeit und Neubau einer Zweifachsporthalle in Sprakel - einstimmig geändert beschlossen
+- TOP 6.26: Erweiterung der Pleisterschule zur vollen Zweizügigkeit - einstimmig geändert beschlossen
+- TOP 6.27: Schillergymnasium - Energetische Sanierung der neuen Turnhalle - einstimmig beschlossen
+- TOP 6.28: Ludwig-Erhard-Berufskolleg, Gut Insel 41, 48151 Münster - einstimmig beschlossen
+- TOP 6.29: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngbiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde - einstimmig geändert beschlossen
+- TOP 6.30: Maßnahmenprogramm 2021 - 2022 des Amtes für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Verschiedenes
