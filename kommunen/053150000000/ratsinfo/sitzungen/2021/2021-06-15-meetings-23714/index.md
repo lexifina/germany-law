@@ -1,0 +1,95 @@
+# 4. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-15T15:44:00+02:00
+- Ende: 2021-06-15T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23714
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23714
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde - Open-Air Flächen sofort für Veranstaltungen bereitstellen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Vorstellung des Projektes: Universale - Festspiel der vielen Künste - endgültig zurückgezogen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktion SPD Photoszene in Köln sichern und weiterentwickeln - endgültig abgelehnt
+- TOP 3.2: Antrag Gut Köln Soziokulturelle Winterprogramm Ebertplatz 2021/2022 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion SPD - Alternative beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU-Fraktion, Volt - ungeändert beschlossen
+- TOP 3.3: Antrag Gut Köln Kunst im öffentlichen Raum - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Errichtung von Probe- und Atelierräumen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt - ungeändert beschlossen
+- TOP 4.2: Förderkonzept Kulturelle Teilhabe - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion SPD - Alternative beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt - ungeändert beschlossen
+- TOP 4.3: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe - ungeändert beschlossen
+- TOP 4.4: Gewährung von Zuschüssen für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.5: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Umgestaltung der Stadtteilbibliothek Nippes - ungeändert beschlossen
+- TOP 4.6: Leitbild für Kulturelle Teilhabe und Vielfalt - zurückgestellt
+- TOP 4.7: Erhöhte Förderung aus Corona-Aufstockungsfonds für Betriebskostenzuschüsse - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU; Volt - ungeändert beschlossen
+- TOP 4.8: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe, Teil 2 - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt - ungeändert beschlossen
+- TOP 4.9: Generalsanierung der Zentralbibliothek der Stadt Köln, Josef-Haubrich-Hof 1, 50676 Köln - Kostenfortschreibungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Weiterführung der Programme zur digitalen Bildung – MINTköln Festival der Stadtbibliothek - ungeändert beschlossen
+- TOP 4.11: Umsetzung Maßnahmen aus der Kulturentwicklungsplanung, Anpassung des Medienetats der Kunst- und Museumsbibliothek der Stadt Köln für das Jahr 2021 - ungeändert beschlossen
+- TOP 4.12: Umsetzung Maßnahmen aus der Kulturentwicklungsplanung: Besucherstrukturanalyse für den Museumsstandort im Rahmen der Kulturentwicklungsplanung (KEP) - ungeändert beschlossen
+- TOP 4.13: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Ausbau der Online-Collections und Schaffung anderer digitaler Zugänge wie Multimediaguides - ungeändert beschlossen
+- TOP 4.14: Umsetzung Maßnahmen aus der Kulturentwicklungsplanung: Ausbau der Online-Collections durch die Entwicklung einer zentralen Basiskomponente - ungeändert beschlossen
+- TOP 4.15: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, hier: 1. Vorhaben 2021 - ungeändert beschlossen
+- TOP 4.16: Umsetzung Vergabe der Stipendien ohne Altersbegrenzung (Künstler*innenförderung Bildende Kunst) 2021-2023 - ungeändert beschlossen
+- TOP 4.17: Neu-Bestellung eines Mitglieds der Jury zur Verleihung des Holger Czukay Preises - ungeändert beschlossen
+- TOP 4.18: Zentralarchiv für deutsche und internationale Kunstmarktforschung ZADIK - Fördervertrag Mietkostenzuschuss - zurückgestellt
+- TOP 4.19: Filmforum NRW im Museum Ludwig - Satzungsänderung - ungeändert beschlossen
+- TOP 4.20: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Bildende Kunst: Schaffung zusätzlicher Atelierräume - zurückgestellt
+- TOP 4.21: Einrichtung eines Kunstbeirates für die Ratperiode 2020-2025 - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat, 1. Fortschreibung 2021 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung eines Kunstwerkes der Künstlerin Guan Xiao durch Nadine Zeidler und Amado Kraupa-Tuskany an das Museum Ludwig - ungeändert beschlossen
+- TOP 6.2: Schenkung eines Kunstwerkes des Künstlers Danh Võ - ungeändert beschlossen
+- TOP 6.3: Schenkung eines Kunstwerkes der Künstlerin Leiko Ikemura durch Frau C. Schwahlen an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe, Teil 1 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP -: Kulturmarketing: kurzer Bericht durch den Referenten
+- TOP 8.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen
+- TOP 8.2: Vorschau auf die Sonderausstellungen und Sammlungspräsentationen der Museen der Stadt Köln mit Ausnahme des Wallraf-Richartz-Museums & Fondation Corboud, hier: 2022 - Kenntnis genommen
+- TOP 8.3: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverbandes Rheinland für 2022 - Kenntnis genommen
+- TOP 8.5: Schalom Kölle - 1700 Jahre jüdisches Leben in Deutschland - Die Volkshochschule Köln beteiligt sich mit 40 Veranstaltungen - Kenntnis genommen
+- TOP 8.6: Regelmäßige Unterrichtung des Ausschusses für Kunst und Kultur über die Führung der Denkmalliste der Stadt Köln, Zeitraum vom 01.01.2019 – 31.12.2020 - Kenntnis genommen
+- TOP 8.7: Mitteilung über Freigabe der Zuwendung für Planungskosten "Haus am Maarweg" in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 8.8: Programmierung des „Kölner Bühnensommer 2021“ - Kenntnis genommen
+- TOP 8.9: Aktuelle Restitutionsverhandlungen zum Umgang Benin-Bronzen (Nigeria) im Rautenstrauch-Joest-Museum - Kenntnis genommen
+- TOP 8.10: Sachstand zum Filmhaus Maybachstraße - Kenntnis genommen
+- TOP 8.11: Museen, Menschen, Medien. Digitale Standortstrategie Museen 2022+ - zurückgestellt
+- TOP 8.12: Standort für Denkmal in der Keupstraße geklärt - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 19. Mai 2021 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 26. Mai 2021 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zum Römisch Germanischen Museum
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der Anfrage der Linke Fraktion: Rassistische und/oder koloniale Denkmäler und Namen von Straßen, Wegen, Plätzen - Kenntnis genommen
+- TOP 10.2: Beantwortung der Anfrage der SPD-Fraktion im Rat der Stadt Köln, AN/0483/2021 betreffend Entwicklung des Otto-Langen-Quartiers - Kenntnis genommen
+- TOP 10.3: Beantwortung der Anfrage der Ratsgruppe GUT Köln, AN/0491/2021 betreffend: Raum 13/Otto-Langen-Quartier - Kenntnis genommen
+- TOP 10.4: Beantwortung der Anfrage: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Nachfragen von Bürgermeisterin von Bülow zur Kostenerhöhung, Vorlage 0061/2021 - Kenntnis genommen
+- TOP 10.5: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen, Volt AN/0482/2021 Konzeptausschreibung Volkhovener Weg 209-211 - Kenntnis genommen
+- TOP 10.6: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen, Entwicklung Kulturbaustein Helios (AN/0481/2021) - Kenntnis genommen
+- TOP 10.7: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen, Volt Novelle des Denkmalschutzgesetzes NRW (AN1159/2021) - Kenntnis genommen
+- TOP 10.8: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen, Volt: Restaurierung der Wallraf-Bibliothek (AN/0959/2021) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt: Novelle des Denkmalschutzgesetzes NRW - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Volt: Sachstand Erhalt Zamus - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion FDP, Kostenentwicklung für Herrichtung und Betrieb des Stadtmuseums im Haus Sauer - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
