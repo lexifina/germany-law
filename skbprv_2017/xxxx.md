@@ -1,6 +1,6 @@
 # (XXXX)
 
-Bezirkspersonalräte werden bei folgenden militärischen Dienststellen gebildet, die den Behörden der Mittelstufe nach § 6 Absatz 2 Satz 2 des Bundespersonalvertretungsgesetzes entsprechen:
+Bezirkspersonalräte werden bei folgenden militärischen Dienststellen gebildet, die den Behörden der Mittelstufe nach § 4 Absatz 1 Nummer 4 des Bundespersonalvertretungsgesetzes entsprechen:
 1. Kommando Heer,
 2. Kommando Luftwaffe,
 3. Marinekommando,

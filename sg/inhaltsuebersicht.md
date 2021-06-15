@@ -149,7 +149,7 @@
 | § 88 | Entlassung von anderen Bewerbern |
 | § 89 | Mitteilungen in Strafsachen |
 | § 90 | Organisationsgesetz |
-| § 91 | Personalvertretung der Beamten, Angestellten und Arbeiter |
+| § 91 | (weggefallen) |
 | § 92 | Übergangsvorschrift für die Laufbahnen |
 | § 93 | Zuständigkeit für den Erlass von Rechtsverordnungen |
 | § 94 | Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179) |
