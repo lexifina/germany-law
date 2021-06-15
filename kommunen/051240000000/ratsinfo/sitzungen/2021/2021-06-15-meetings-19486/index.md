@@ -1,0 +1,89 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschusses WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-06-15T16:07:00+02:00
+- Ende: 2021-06-15T17:11:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19486
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19486
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 07.06.2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00273398.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00274759.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Zurückgezogen: Jahresabschluss 2019 des Eigenbetriebs GMW - zurückgezogen
+- TOP 1.1.1: Zurückgezogen: Jahresabschluss 2019 - Entlastung des Betriebsausschusses GMW - zurückgezogen
+- TOP 1.2: Jahresabschluss 2020 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2020 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2020 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.6.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss und Konzernabschluss 2020 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.7.1: Jahresabschluss 2020 - Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2020 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.8.1: Jahresabschluss 2020 - Entlastung des Aufsichtsrates der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2020 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.9.1: Jahresabschluss 2020 - Entlastung des Aufsichtsrates der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2020 der BinnenWind GmbH - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2020 BinnenWind Windpark Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2020 der Windpark Kahlenberg II GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss 2020 Windpark Kahlenberg III GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2020 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.14.1: Jahresabschluss 2020 - Entlastung des Aufsichtsrates der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2020 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2020 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss 2020 der Bliggit GmbH - ungeändert beschlossen
+- TOP 1.18: Jahresabschluss 2020 der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 1.19: Jahresabschluss 2020 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 1.20: Jahresabschluss 2019 der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.20.1: Jahresabschluss 2019 - Entlastung des Aufsichtsrates der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.21: Jahresabschluss 2020 der Neue Effizienz gGmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2021 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan 2021 der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Änderung der Satzung des ESW Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 3.2: Wechsel in der Geschäftsführung der Helios Klinikum Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Nutzung des Gebäudes Bromberger Straße durch APH - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Errichtung eines Ersatzneubaues für die Turnhalle Hardenberg, Hardenbergstr. 25 in Elberfeld - ungeändert beschlossen
+- TOP 6.2: Verlängerung der Vertragslaufzeit für die Durchführung der Weihnachtsmärkte in Elberfeld, Barmen und auf dem Laurentiusplatz bis zum Jahr 2024 - ungeändert beschlossen
+- TOP 6.3: Sanierung des städtischen Freibades Mählersbeck - ungeändert beschlossen
+- TOP 6.4: Vergabe von Planungsleistungen für das Vorhaben "4 Fields" am Schul-/Sportzentrum Süd - ungeändert beschlossen
+- TOP 6.5: Kooperationsvertrag zwischen der Stadt Wuppertal und der von der Heydt-Museum gGmbH - ungeändert beschlossen
+- TOP 6.6: Änderung/ Anpassung Grundsatzbeschluss „Bundesförderprojekt Museum für Industriekultur Wuppertal“ - ungeändert beschlossen
+- TOP 6.7: Entgeltordnung Museum Industriekultur - ungeändert beschlossen
+- TOP 6.8: Neuberechnung der Grundsteuer - Entgegennahme ohne Beschluss
+- TOP 6.8.1: Antwort auf Große Anfrage der Fraktion Bündnis 90 Die Grünen - Entgegennahme ohne Beschluss
+- TOP 6.9: Gewerbeflächen - vertagt auf Rat
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Verschiebung der Einbringung des Haushaltsplanentwurfes 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 30.04.2021 - Entgegennahme ohne Beschluss
+- TOP 8.3: Finco-Bericht zum 31.05.2021 - Entgegennahme ohne Beschluss
+- TOP 8.4: Finanzierung der coronabedingten Defizite der privat betriebenen und der Öffentlichkeit zur Verfügung stehenden Bäder Eckbusch und Vohwinkel in der Freibadsaison 2021 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Umgang mit Mehrkosten bei Investitionsvorhaben - vertagt auf Rat
+- TOP 9.2: Kostensteigerungen bei Investitionsvorhaben - Begleitantrag - vertagt auf Rat
+- TOP 9.3: Finanzieller Mehrbedarf im Zusammenhang mit dem Aufbau eines zweiten Rechenzentrums - ungeändert beschlossen
+- TOP 9.4: Mehrkosten im Bereich der Lernmittelfreiheit - ungeändert beschlossen
+- TOP 9.5: Überplanmäßige Mittelbereitstellung zur Bekämpfung des Eichenprozessionsspinners an Bäumen in Grünanlagen und an Straßenbäumen - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Stadtentwässerung - Maßnahmenkatalog 20022/Katalogentwurf 2023 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
