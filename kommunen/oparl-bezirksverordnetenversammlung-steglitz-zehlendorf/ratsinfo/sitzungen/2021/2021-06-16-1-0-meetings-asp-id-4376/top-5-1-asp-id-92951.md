@@ -1,0 +1,8 @@
+# TOP 5.1: Seepferdchen-Garantie in Steglitz-Zehlendorf – Weil es Leben retten kann!
+
+- Sitzung: 49. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz (2021-06-16)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=92951
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=92951
