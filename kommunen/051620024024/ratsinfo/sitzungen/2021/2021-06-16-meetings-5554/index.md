@@ -1,0 +1,59 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-06-16T17:00:00+02:00
+- Ende: 2021-06-16T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/26
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5554
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5554
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Vorstellung des neuen Kulturamtsleiters ab 01.08.2021, Dr. Benjamin Reissenberger
+- TOP 2: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2.1: Verpflichtung sachkundiger Bürgerinnen und Bürger
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Bestellung einer Schriftführerin und einer stellvertretenden Schriftführerin im Kulturausschuss - einstimmig zugestimmt
+- TOP 5: Bestellung eines Ausschussmitgliedes, das neben dem Vorsitzenden und der Schriftführerin die Niederschriften über die Sitzungen des Kulturausschusses unterzeichnet - einstimmig zugestimmt
+- TOP 6: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 7: Bildung von Untergremien des Kulturausschusses - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 8: Bildung der Ankaufkommission "Kunst aus Neuss" - einstimmig zugestimmt
+- TOP 9: Bildung des Beirates zur Sammlung „Kunst aus Neuss" - einstimmig zugestimmt
+- TOP 10: Genehmigung der Dringlichkeitsentscheidung Nr. 330 „Genehmigung politischer Vorträge bei vhs.wissen live“ der VHS Neuss - einstimmig zugestimmt
+- TOP 11: Genehmigung der Dringlichkeitsentscheidung Nr. 367 „Be-schluss über die Durchführung politischer Online-Vorträge“ der VHS Neuss - einstimmig zugestimmt
+- TOP 12: Genehmigung der Dringlichkeitsentscheidung Nr. 372 „Beschluss über die Durchführung politischer Online-Vorträge und Änderungen des laufenden Programmes der politi-schen Bildung“ der VHS Neuss - einstimmig zugestimmt
+- TOP 13: VHS Bildungsprogramm politische Bildung - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 14: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - vertagt
+- TOP 15: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - mehrheitlich beschlossen
+- TOP 16: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/FW - Aktiv für Neuss - zur Kenntnis genommen
+- TOP 17: Antrag der CDU-Stadtratsfraktion vom 02.02.2021 betr. Sicherung der römischen Mauern am RomaNEum - verwiesen
+- TOP 17.1: Antrag der Fraktion Die Linke/Die Partei betr. Zukunft des Clemens Sels Museums - einstimmig zugestimmt
+- TOP 17.2: Antrag der Fraktion Die Linke/Die Partei betr. Förderprogramm für Kleinkunst und Subkultur - vertagt
+- TOP 17.3: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen, UWG/Aktiv für Neuss und Die Linke/Die Partei - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Konzepte und Aufgabenstruktur des Kulturamtes 2021 - zur Kenntnis genommen
+- TOP 19: Unterstützung/Förderung von Künstler*innen während der Coronapandemie im Jahr 2021 - zur Kenntnis genommen
+- TOP 20: Förderung der öffentlich zugänglichen Büchereien - zur Kenntnis genommen
+- TOP 21: Stiftung Insel Hombroich - zur Kenntnis genommen
+- TOP 22: Internationaler Museumstag am 16.05.2021 - zur Kenntnis genommen
+- TOP 23: VHS Bildungsprogramm allgemeiner Teil 2. Semester 2021 - zur Kenntnis genommen
+- TOP 24: Gefördertes VHS-Projekt „Die Krise als Chance – Innovati-on in der Weiterbildung" - zur Kenntnis genommen
+- TOP 25: VHS Neuss – Verlängerung des Projekts „Kompass D„ - zur Kenntnis genommen
+- TOP 26: Nachlese zur diesjährigen digitalen „Nacht der Bibliotheken“ - zur Kenntnis genommen
+- TOP 27: Bestell- und Abholservice: erfolgreiche Umsetzung in der Pandemiezeit - zur Kenntnis genommen
+- TOP 28: Bundesweiter Digitaltag 18. bis 20. Juni 2021 - zur Kenntnis genommen
+- TOP 29: Erweiterung des Stadtarchivs - zur Kenntnis genommen
+- TOP 30: "Consilium Communis" - Projekt zur Erschließung der historischen Ratsprotokolle - zur Kenntnis genommen
+- TOP 31: Kultur- und Bildungsangebote für ältere Menschen in Neuss - zur Kenntnis genommen
+- TOP 31.1: Jahresbericht Kultur 2020 - zur Kenntnis genommen
+- TOP 32: Einwohner*innenfragestunde
