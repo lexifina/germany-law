@@ -12,11 +12,12 @@
 Finanzdienstleistungsaufsicht
 
 - [§ 4 Aufgaben und Befugnisse](0004.md)
-- [§ 5 Beirat](0005.md)
-- [§ 6 Widerspruchsausschuss](0006.md)
+- [§ 5 (weggefallen)](0005.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Zusammenarbeit mit Aufsichtsbehörden im Inland](0007.md)
 - [§ 8 Zusammenarbeit mit zuständigen Stellen im Ausland](0008.md)
 - [§ 9 Verschwiegenheitspflicht](0009.md)
+- [§ 9 Verschwiegenheitspflicht](0009-2.md)
 
 ## Abschnitt 3 Angebote zum Erwerb von Wertpapieren
 

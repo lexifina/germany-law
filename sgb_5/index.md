@@ -1012,7 +1012,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 411 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0411.md)
 - [§ 412 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund](0412.md)
 - [§ 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0413.md)
-- [§ 414 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen](0414.md)
+- [§ 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0414.md)
 - [§ 415 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0415.md)
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
 - [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0417.md)

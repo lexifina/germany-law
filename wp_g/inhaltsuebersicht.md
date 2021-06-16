@@ -11,8 +11,8 @@
 | Zuständigkeit der Bundesanstalt für Finanzdienstleistungsaufsicht |
 |  |
 | § 4 | Aufgaben und Befugnisse |
-| § 5 | Beirat |
-| § 6 | Widerspruchsausschuss |
+| § 5 | (weggefallen) |
+| § 6 | (weggefallen) |
 | § 7 | Zusammenarbeit mit Aufsichtsbehörden im Inland |
 | § 8 | Zusammenarbeit mit zuständigen Stellen im Ausland |
 | § 9 | Verschwiegenheitspflicht |

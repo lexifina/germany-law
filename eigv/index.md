@@ -82,8 +82,7 @@
 
 ## Teil 6 Register für Fahrzeuge und Fahrzeugkennzeichnung
 
-- [§ 38 Fahrzeugeinstellungsregister](0038.md)
-- [§ 38a Europäisches Fahrzeugeinstellungsregister](0038a.md)
+- [§ 38 (weggefallen)](0038.md)
 - [§ 39 Fahrzeugkennzeichnung](0039.md)
 - [§ 40 Europäisches Register genehmigter Fahrzeugtypen](0040.md)
 
