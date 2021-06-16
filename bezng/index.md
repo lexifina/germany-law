@@ -7,7 +7,7 @@
 - [§ 5 Haftung des Bundes](0005.md)
 - [§ 6 Verwaltungsaufbau](0006.md)
 - [§ 7 Personalwesen](0007.md)
-- [§ 8 Personalvertretung](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Schwerbehindertenvertretung](0009.md)
 - [§ 10 Vorgesetzte](0010.md)
 - [§ 11 Verwendung auf anderen Dienstposten](0011.md)
