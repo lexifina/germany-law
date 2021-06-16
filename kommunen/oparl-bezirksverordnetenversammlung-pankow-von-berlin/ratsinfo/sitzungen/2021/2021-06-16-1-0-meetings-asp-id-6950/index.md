@@ -1,0 +1,143 @@
+# 42. ordentliche digitale Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2021-06-16T17:30:00+02:00
+- Ende: 2021-06-16T22:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6950
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6950
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=238545
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.5.1: Wie weiter mit dem Logistikzentrum der Gorillas Technologies GmbH? - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Resolution: Pankow ist solidarisch mit den Jüdinnen und Juden in Pankow und trauert um die Toten seiner Partnerstadt Ashkelon - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Nachweis der im Haushaltsjahr 2020 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Danziger Straße Ost“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Änderung der Geschäftsordnung der Kommission Kunst im öffentlichen Raum (Stand: April 2014) - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Mobile Internetzugänge für Pankows Schüler*innen und Lehrer*innen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Anmeldung des Bezirks Pankow zum Investitionsprogramm 2021 bis 2025 - in der BVV abgelehnt
+- TOP 1.14: Bänke in Pankow schnell reparieren und neue Bänke aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Rahmenplan für Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Fußweg in der Leobschützer Straße/Straße Am Danewend - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Planungshoheit für das Gewerbegebiet Buchholz-Nord - in der BVV abgelehnt
+- TOP 1.18: »Ball der Vielfalt« nach der Pandemie weiterführen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Abschied nehmen zulassen! - Trauerfeiern bei Sozialbestattungen ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Attraktiver Arbeitgeber Bezirksamt Pankow durch Ermöglichung von Bürohunden! - in der BVV abgelehnt
+- TOP 1.21: Fußgängerkaps in Wohnstraßen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Leichter und sicher zur S-Bahn und Straßenbahn an der Haltestelle Landsberger Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Illegales Zelten im Volkspark Prenzlauer Berg unterbinden - in der BVV abgelehnt
+- TOP 1.24: Sicherer Schulweg, gefahrlos zum Ortskern: Pflege und Unterhaltung des Weges zwischen Hauptstraße und Elfenallee - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Kostenlose Bereitstellung von Menstruationsartikeln in Behörden, Schulen und öffentlichen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Schritte zur Kommunalisierung der Schulreinigung - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Grüne Wege durch die Sperrzone - Mauerweg-Planungen im Nassen Dreieck unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Gewerbegebiet Storkower Straße – Stärken ausbauen, Schwächen beseitigen - im Ausschuss abgelehnt
+- TOP 1.29: Schnell und sicher über die Oderbruchstraße - in der BVV abgelehnt
+- TOP 1.30: Pankows Mobilitätsbericht ist kein Papiertiger: Mapathon "barrierefreies Pankow" organisieren - in der BVV abgelehnt
+- TOP 1.31: Karow ist schön – und soll es auch bleiben; Aufhebung des Bezirksamtsbeschlusses zur Drucksache VIII-0927 - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Kein Gendern der Texte - in der BVV abgelehnt
+- TOP 1.33: Mehr legale Graffiti-Flächen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Späterer Eintritt in den Ruhestand des stellvertretenden Bezirksbürgermeisters und Bezirksstadtrats Vollrad Kuhn - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Gerechte Beteiligung der Schulaußenflächen an den Ausgaben des Grünflächenamtes - überwiesen
+- TOP 1.36: Verkehrsberuhigung und Schulwegsicherheit im Nesselweg jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Grünflächenpflege Lindenberger Weg Ecke Karower Damm - in der BVV abgelehnt
+- TOP 1.38: Die Mühe sollten wir uns nicht schenken: Das Aufstellen von Schenkschränken im öffentlichen Raum ermöglichen und vereinfachen - überwiesen
+- TOP 1.39: Sicherung des Kulturstandortes Kulturbrauerei - überwiesen
+- TOP 1.40: Wohnraum schaffen – Versiegelte Flächen ökologisch überbauen - überwiesen
+- TOP 1.41: U10 jetzt! U-Bahn vom Alexanderplatz über Weißensee und Blankenburg nach Buch planen und bauen - in der BVV abgelehnt
+- TOP 1.42: Barrierefreie Umgestaltung von Bushaltestellen im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Einrichtung von Staatlichen Europa-Schulen (SESB) in Pankow - überwiesen
+- TOP 1.44: Bunte Kiezkissen für Pankow - überwiesen
+- TOP 1.45: Rettungseinsätze ermöglichen: Ab- und Zufahrt der Feuerwache in der Pasewalker Straße sicherstellen - überwiesen
+- TOP 1.46: Skateranlage im Bürgerpark freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Keine Schließung von Pankower Sportanlagen - überwiesen
+- TOP 1.48: Zufluchtswohnungen in Pankow – Mehr Schutzplätze für Frauen schaffen - überwiesen
+- TOP 1.49: Behutsame Entwicklung der Elisabeth Aue - in der BVV abgelehnt
+- TOP 1.50: Änderung Terminplan - Aufhebung der zusätzlichen Sitzungstermine zu den Haushaltsberatungen 2022/2023 - ohne Änderungen in der BVV beschlossen
+- TOP 1.51: Für Natur, Menschen und Weidetiere - Wolfsmanagement koordinieren! - in der BVV abgelehnt
+- TOP 1.52: Stellplätze für Carsharing am S-Bahnhof Prenzlauer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.53: Aufhebung des Beschlusses zur Drucksache VIII-1356 „Parkverbot in der Frundsbergstraße“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.54: Lebenswerte Straßenräume in Modellprojekt erproben - überwiesen
+- TOP 1.55: Fahrradboxen für Pankow - überwiesen
+- TOP 1.56: Schäden durch LKW- und Logistikverkehre am Rosenthaler Anger reduzieren - in der BVV abgelehnt
+- TOP 1.57: Digitale Spendensäule für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.58: Zufahrt für Einsatz- und Rettungsfahrzeuge über die Straße „Am Nordgraben“ in das Siedlungsdreieck "Frohsinn“ sichern - überwiesen
+- TOP 1.59: Voraussetzungen zur Übernahme der Planung und Projektentwicklung des Gewerbegebietes Buchholz-Nord durch die WISTA Management GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 1.60: Sicher über die Hauptstraße in Rosenthal - überwiesen
+- TOP 1.61: Personelle Ausstattung zur Umsetzung und Weiterentwicklung des Sportentwicklungsplans für Pankow - überwiesen
+- TOP 1.62: Nutzungskonflikte im und um das Hundeauslaufgebiet Blankenfelde reduzieren – Hundeauslauf weiterhin sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.63: Sportentwicklungsplan für Pankow anwenden und umsetzen - überwiesen
+- TOP 1.64: Sportentwicklungsplan fortschreiben - ohne Änderungen in der BVV beschlossen
+- TOP 1.65: Thälmannpark Erhalten - Nicht Halbieren! - überwiesen
+- TOP 1.66: Neuausrichtung der Drucksache VIII-0502- Robert-Rössle- Ganzheitliche Betrachtungsweise und Anwohnerwillen beachten! - in der BVV abgelehnt
+- TOP 1.67: Pankower Mobilitätsbericht weiter umsetzen: Machbarkeitsstudie zur Parkraumbewirtschaftung 2.0 - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Fahrradabstellanlage vor der Schwimmhalle im Ernst-Thälmann-Park neu gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Errichtung von Velorouten in der Bötzowstraße und Hufelandstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Keine überörtliche Straßenverbindung durch die Erholungsanlage Blankenburg und Reduzierung der Flächeninanspruchnahme für eine Straßenbahnstrecke zum Bahnhof Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Informationsveranstaltung zum Bebauungsplan 3-59 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Gute Arbeit in zuwendungsgeförderten Projekten - vertagt
+- TOP 2.7: Für ein klimaneutrales Pankow! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Tourismuskonzept Pankow 18+ - vertagt
+- TOP 2.9: Planungsziele für die Reaktivierung der Stammstrecke der Heidekrautbahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Transparenz der KLR Zwischenergebnisse - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Arbeit bezirklicher Beiräte und Kommissionen für die Öffentlichkeit transparenter darstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Studentisches Wohnen in Pankow? Sozial-ökologisch! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrsberuhigung im Komponistenviertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Künstlerische Kommentierung des Thälmann-Denkmals - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Aufhebung des Bezirksamtsbeschlusses zur Drucksache VIII-0357: Klimaschutzprojekte durch Fördermöglichkeiten realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Saubere Schulen in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Unterstützung für Kommission Kunst im öffentlichen Raum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Mehr Home Office im Bezirksamt Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Sicherung der denkmalgeschützten Hinterlandsicherungsmauer an der Maximilianstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Informationsveranstaltung zum Bauvorhaben Alt-Buch 44-46 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: BVV Pankow spricht sich für den Inklusionssportpark aus - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Transparenz über die planungsrechtlichen Grundlagen gemäß BauGB im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Sehbehinderte unterstützen: Handläufe an Bahnhöfen und Haltestellen anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Fachtag zum Thema Rassismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Fest am Welttag der Muttersprachen - vertagt
+- TOP 2.26: VIII-1270 Vorlage zur Kenntnisnahme § BezVG / ZB Bezirksamt Bildung des Klimarates - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26.1: Bildung des Klimarates - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Tempo 30 in ganz Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Schulwegsicherheit an der Granitzstraße erhöhen - vertagt
+- TOP 2.29: Stationären Einzelhandel erhalten – Digitalisierung stärken – Digital Coaches einsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Erhöhung der personellen Unterstützung im Gesundheitsamt Pankow zur Eindämmung der zweiten Pandemiewelle durch die Bundeswehr - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Bundesmittel für den Klimaschutz auch in Berlin nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Pankower Schulen Digitalisierung ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Schildbürgerstreich am Schönerlinder Weg beenden – Endlich Verkehrssicherheit herstellen! - vertagt
+- TOP 2.34: Verkehrssicherheit in der Triftstraße in Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.35: Parkverbot in der Frundsbergstraße - vertagt
+- TOP 2.36: Durchgangsverkehre in der Anlage Blankenburg reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Geglättetes Pflaster für die Hufelandstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: „Digitale Hausmeister“? – Digitalisierung an Schulen auch personell ermöglichen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.39: Attraktivität und Sicherheit des Umfeldes des Bürgerparks Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Einschulungsuntersuchungen durchführen, Konzept und Maßnahmen entwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Denkmalschutz für Elemente des ehemaligen Mauerstreifens am S-Bahnhof Wollankstraße / Schulzestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Steinzeitdorf am Sandhaus erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.43: Dringende Bedürfnisse befriedigen – öffentliche Toiletten zur Verfügung stellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Aufstellung einer Bücherbox am Brennerberg (Andreas-Hofer-Platz) ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Verkehrsberuhigung der Eddastraße - vertagt
+- TOP 2.46: Lösung für die Überquerung der Ostseestr. schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.47: Pankow wird Mitglied im Netzwerk C2C Regionen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.48: Keine parallelen Sperrungen der Eisenbahnbrücken in Buch und Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.49: junior1stein: MINT-Cluster für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.50: Pankower Gastronomie unterstützen: Ausweitung der gastronomischen Außenflächen unbürokratisch ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.51: Aktualisierung des Frauenförderplans des Bezirksamtes Pankow (2020) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.52: Änderung der Anzahl der Schiedsamtsbezirke im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.53: Bebauungsplan 3-57 für die Grundstücke Friedrich-Engels-Straße 155, 157, 157 A, 157 B im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.54: Verlängerung der Veränderungssperre 3-61/17 im Bezirk Pankow, Ortsteil Prenzlauer Berg, für das Grundstück Lilli-Henoch-Straße 10/12, Ringbahn zwischen Prenzlauer Allee und Greifswalder Straße, Eisenbahn von S-Bahnhof Prenzlauer Allee nach S-BahnhofGreifswal-der Straße (Gemarkung Prenzlauer Berg, Flur 216, Flurstücke 128, 129, 130, 131, 132, 133, 134, 135, Flur 217, Flurstücke 223 bis 242, Flur 317, Flurstücke 177 bis 186, Flurstücke 188 bis 191 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.55: Förderprogramm „Nachhaltige Erneuerung“ (früher: Stadtumbau) - Ortsteil Buch - Ortsteil Prenzlauer Berg, Förderschwerpunkt Thälmannpark/Grüne Stadt - Ortsteil Prenzlauer Berg, Greifswalder Straße Vorschlagslisten für die Programmplanung 2022 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.56: Festsetzung der Eckwerte für die Aufstellung des Doppelhaushaltsplanes 2022/2023 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.57: Benennungsabsicht für eine Privatstraße im Ortsteil Pankow in „Paule-Panke-Straße“ - mit Abschlussbericht zur Kenntnis genommen
