@@ -1,0 +1,89 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-17T18:00:00+02:00
+- Ende: 2021-06-17T19:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20445
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20445
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415545.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415545.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415545.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Radverkehrsplanung Karlsruher Straße zwischen Heidelberger Straße und Vennhauser Allee - einstimmig beschlossen
+- TOP 5: Harffstraße - Ausbau Haltestelle „Dillenburger Weg“ (Steig 1) FR Vennhauser Allee - einstimmig beschlossen
+- TOP 6: Rad- und Gehwegbrücke Reichenbacher Weg - abweichend beschlossen
+- TOP 7: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 7.1: Änderungsantrag Zielkonzept Stadtbahn/Straßenbahn (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 7.2: Ergänzungsantrag Zielkonzept Stadtbahn/Straßenbahn (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Freiheitsstraße 74, Abweichungsantrag - Stellplatz im Vorgarten - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2021 - einstimmig beschlossen
+- TOP 16: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 17: Zuschüsse der Bezirksvertretung 8 im Jahre 2021 - einstimmig beschlossen
+- TOP 18: Fußgängerbrücke am Reichenbacher Weg und 2-3. Abschnitt Renaturierung Düsseldorf (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 19: Sommerferienprogramm der städtischen Jugendeinrichtungen (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 20: A46 Flüsterasphalt (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 21: Freilaufende Hunde im Bereich Südliche Düssel (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 22: Mehr Sicherheits- und Ordnungskräfte (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 23: Eller Forst - Freilaufende Hunde (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Bebauung im Bereich Festenbergstraße (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 26: Radhauptnetzmaßnahme Werstener Feld (Anfrage CDU-Fraktion und Fraktion Bündnis 90 /Die Grünen) - schriftlich beantwortet
+- TOP 27: Gertrudisplatz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 28: Radweg Reisholzer Straße stadteinwärts (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 29: Bürgerhaus und Bürgersaal Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 30: Hausmeisterwohnung Brorsstraße 5 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 31: Grundstück zwischen Vennstraße 90 und 94 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 32: Friedrich-Engels-Straße/Goldlackstraße - Parkverbot einrichten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Friedrich-Engels-Straße/Goldlackstraße - Einrichten einer Spielstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 34: Ausbesserung eines Teilstücks unter der Adresse der Heidelberger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 35: Bordsteinabsenkungen Am Karlshof (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 36: Am Karlshof - Erreichbarkeit von Abfallcontainern für mobilitätseingeschränkte Personen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 37: Kreuzung Heidelberger Straße / Schlossallee (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 38: Müllentsorgung in Grünanlagen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 39: Wege im Schlosspark Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 40: Weg am Eselsbach / Kreuzungsbereich mit der Straße Am Straußenkreuz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 41: Rathaus Eller - Rosengarten (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 42: Verkehrsführung Heimgarten (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 43: Spielplatz Vennstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 44: Einbahnstraße Pirmansener Weg – Freigabe in Gegenrichtung für den Radverkehr (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 45: Grünphasen für Fußgänger und Radfahrer ohne Zwangsstopp auf Verkehrsinsel („Querung in einem Zug“) (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 46: (Wieder-)Anpflanzung einer naturnahen Hecke westlich vom Eller Schlosspark (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 47: Zebrastreifen Bushaltestelle „Am Stammesberg“ (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 51: Barrierefreier Ausbau der Ein- und Ausstiegshaltestelle Lierenfeld Betriebshof - zur Kenntnis genommen
+- TOP 52: Grundstück Sturmstraße/Sodener Weg - zur Kenntnis genommen
+- TOP 53: Gestaltungswettbewerb und Lärmschutz RRX im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Eller Kamp – Radverkehrsführung - zur Kenntnis genommen
+- TOP 55: Eller Kamp – Am Kleinforst, Markierung eines Radfahrstreifens in Fahrtrichtung Unterbacher See - zur Kenntnis genommen
+- TOP 56: Kikweg 100m-Brücke, Bauschutt und Qualität der Ausführung des Regenwasserkanals - zur Kenntnis genommen
+- TOP 57: Kamper Weg und Wormser Weg - Haltverbot - zur Kenntnis genommen
+- TOP 58: Heidelberger Straße - Fahrradstraße - zur Kenntnis genommen
+- TOP 59: Platzgestaltung Breidenplatz - zur Kenntnis genommen
+- TOP 60: Großer Torfbruch - Parkplatz - zur Kenntnis genommen
+- TOP 61: Widmung von Straßen - zur Kenntnis genommen
+- TOP 62: 100-Meter-Brücke Kikweg / Am Kleinforst - Machbarkeitsstudie - zur Kenntnis genommen
+- TOP 63: Vennhauser Allee - Radweg - zur Kenntnis genommen
+- TOP 64: Rathelbeckstraße – Aufstellung von Bänken - zur Kenntnis genommen
+- TOP 65: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 66: Gertrudisplatz - zur Kenntnis genommen
+- TOP 67: Calisthenics-Park im Bereich Unterbacher See - zur Kenntnis genommen
+- TOP 68: Spielplätze im Stadtbezirk 8 - Sportgeräte - zur Kenntnis genommen
+- TOP 69: Unterführung westlich Eller Schlosspark - Beleuchtung - zur Kenntnis genommen
+- TOP 70: GGS Bingener Weg 10 - Fassadenbegrünung - zur Kenntnis genommen
