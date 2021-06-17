@@ -1,0 +1,72 @@
+# 7. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-17T17:00:00+02:00
+- Ende: 2021-06-17T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23324
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23324
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Elektronisch versenkbare Poller in Blumenberg - Kenntnis genommen
+- TOP 7.1.2: S-Bahnumfahrungen des Stadtbezirks Chorweiler - zurückgestellt
+- TOP 7.1.3: Baubeschluss für den barrierefreien Umbau von 2 Bushaltestellen (4 Haltekanten) im Stadtbezirk Chorweiler auf der KVB-Linie 127 - Kenntnis genommen
+- TOP 7.1.4: Spielplatzreaktivierung in Heimersdorf - Kenntnis genommen
+- TOP 7.1.5: Parkplatz an der Johannesstraße in Köln-Pesch - Kenntnis genommen
+- TOP 7.1.6: Anfrage der FDP-Fraktion - AN/1040/2021 - Auswertung der Impfaktion in Chorweiler
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sicherer Fußgängerüberweg über die Chorbuschstraße Kreuzung Martinusstraße/Griesbergerstraße - Kenntnis genommen
+- TOP 7.2.2: Insel im Pescher See - Kenntnis genommen
+- TOP 7.2.3: Wochenmarkt Chorweiler - Kenntnis genommen
+- TOP 7.2.4: Sachstand Krebelshof - Kenntnis genommen
+- TOP 7.2.5: Schwimmen in Chorweiler - Kenntnis genommen
+- TOP -: Antwort KölnBäder auf Anfrage der Grünen, Schwimmen in Chorweiler 1346/2021 - Kenntnis genommen
+- TOP 7.2.6: Schrebergärten im Bezirk - Kenntnis genommen
+- TOP 7.2.7: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch - Kenntnis genommen
+- TOP 7.2.8: Parksituation in Langel - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Aufstellung einer Wanderbaumallee im öffentlichen Raum des Stadtbezirks Chorweiler - zurückgestellt
+- TOP 8.2.2: Beflaggung des Bezirksrathauses Chorweiler mit der Regenbogenfahne zum CSD - endgültig zurückgezogen
+- TOP -: Beflaggung des Bezirksrathauses Chorweiler mit der Regenbogenfahne zum CSD 8.2.2 - ungeändert beschlossen
+- TOP 8.2.3: Digitalisierung der Einwohnerfragestunde - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu TOP 8.2.4 - ungeändert beschlossen
+- TOP 8.2.4: Kommunales Sonder-Schwimmlern-Programm in der Corona-Pandemie - ungeändert beschlossen
+- TOP 8.2.5: Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Prüfung alternativer Zugänge zum beweideten Bereich der Worringer Rheinaue - geändert beschlossen
+- TOP 8.3.2: Förderung des ÖPNV im Kölner Norden - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung einer Straße im Baugebiet Further Straße/Gilleshof in Köln-Roggendorf/Thenhoven - Alternative beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gewässerunterhaltungsmaßnahme zum naturnahen Umbau des Fronweihers in Worringen - Kenntnis genommen
+- TOP 10.2.2: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.3: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 10.2.4: Bewegungsparcours auf der Sport- und Erholungsanlage Fühlinger See - Kenntnis genommen
+- TOP 10.2.5: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
+- TOP 10.2.6: Bürgereingabe nach § 24 GO NRW - Antrag auf Änderung der Satzung für Kinderspielplätze- AZ.229-19 - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
