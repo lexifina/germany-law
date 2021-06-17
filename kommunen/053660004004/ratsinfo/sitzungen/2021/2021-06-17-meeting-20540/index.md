@@ -1,0 +1,51 @@
+# Bildungs- und Sozialausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-06-17T18:00:00+02:00
+- Ende: 2021-06-17T20:50:00+02:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-256
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQOmU1_NFbFE_DHUdQURqWI
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20540
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bildungs- und Sozialausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbmIPWr9E5L9Fk1RT7nq4jYtgAAErabv58zu-rS_0cHI/Bekanntmachung_Bildungs-_und_Sozialausschuss_17.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bildungs- und Sozialausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQWocsYDrw7L2SpMEyh0jRpW2ErbEYfHCoZVMkKtfkhY/Oeffentliche_Niederschrift_Bildungs-_und_Sozialausschuss_17.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bildungs- und Sozialausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die NR.Sitzung des Bildungs- und Sozialausschusses vom 18.03.2021 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP -: Sonstige Angelegenheiten
+- TOP 3.: KiTa-Bedarfsplanung für das KiTa-Jahr 2021/2022 - Ein Beschluss ist in dieser Angelegenheit nicht erforderlich.
+- TOP -: KiTa-Bedarfsplanung für das KiTa-Jahr 2021/2022 hier: Antrag der UWV-Fraktion vom 08.06.2021; Kindergarten Houverath -   
+- TOP -: KiTa-Bedarfsplanung für das KiTa-Jahr 2021/2022 hier: Antrag der UWV-Fraktion vom 08.06.2021; Kita Nöthen -   
+- TOP 4.: Baulicher Zustand der Kindertagesstätte Effelsberg hier: Antrag der SPD-Fraktion vom 22.04.2021 - Ein Beschluss in dieser Angelegenheit ist nicht erforderlich.
+- TOP 5.: Defibrillatoren im öffentlichen Raum hier: Antrag der SPD-Fraktion vom 22.03.2021 - Einstimmiger Beschluss
+- TOP 6.: Klimaanpassung in sozialen Einrichtungen hier: Antrag der SPD-Fraktion vom 24.11.2020 - Ein Empfehlungsbeschluss in dieser Angelegenheit ist nicht erforderlich.
+- TOP -: Klimaanpassung in sozialen Einrichtungen hier: Sachstandsbericht
+- TOP 7.: Behindertentoiletten hier: Antrag der UWV-Fraktion vom 10.05.2021 - Einstimmiger Beschluss
+- TOP 8.: Anfragen und Mitteilungen
+- TOP 8.1: Anfrage zum Jugendparlament
+- TOP -: Schulische Angelegenheiten
+- TOP 9.: Schulleitung Katholische Grundschule Bad Münstereifel-Arloff - Ein Beschluss in dieser Angelegenheit ist nicht erforderlich.
+- TOP 10.: Offene Ganztagsbetreuung und Kurzbetreuung hier: Bericht von Schülergarten e.V. - Einstimmiger Beschluss
+- TOP 11.: Betreuungszeiten der OGS für Eltern flexibler gestalten hier: Antrag der CDU-Fraktion vom 01.06.2021 - Einstimmiger Beschluss
+- TOP 12.: 5. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an einer offenen Ganztagsschule im Primarbereich der Stadt Bad Münstereifel - Empfehlungsbeschluss bei einer Gegenstimme und einer Enthaltung
+- TOP 13.: Aussetzen der Beitragserhebung für die Betreuung von Kindern in der Offenen Ganztagsschule im Zuge von Covid-19 hier: Antrag der SPD-Fraktion vom 09.05.2021 -   
+- TOP 14.: Förderung von IT-Administration - Einstimmiger Empfehlungsbeschluss
+- TOP 15.: Gemeinschaftsgrundschule Bad Münstereifel hier: bauliche Angelegenheiten - Ein Beschluss in dieser Angelegenheit ist nicht erforderlich.
+- TOP 16.: Anfragen und Mitteilungen
+- TOP 16.1: Grundschule Bad Münstereifel-Houverath hier: Anfrage der UWV-Fraktion vom 10.05.2021
+- TOP 16.2: Schulsozialarbeit
+- TOP 17.: Bericht aus den Schulen zur Corona-Pandemie
+- TOP II.: Nichtöffentliche Sitzung
+- TOP -: Schulische Angelegenheiten
+- TOP 1.: Fortschreibung der Schulentwicklungsplanung hier: Auftragsvergabe - Einstimmiger Beschluss
+- TOP 2.: Medienentwicklungsplanung für die Schulen in Trägerschaft der Stadt Bad Münstereifel hier: Auftragsvergabe - Einstimmiger Beschluss
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Ausschreibung für die Vergabe der Lehr- und Lernmittel für das Schuljahr 2020/2021
+- TOP -: Sonstige Angelegenheiten
+- TOP 4.: Auswirkungen der Pandemie auf die Betreibervereine der Sport-/Mehrzweckhallen - Einstimmiger Beschluss bei einer Enthaltung
+- TOP 5.: Anfragen und Mitteilungen
