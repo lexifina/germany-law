@@ -1,0 +1,51 @@
+# Jugendrat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-17T18:00:00+02:00
+- Ende: 2021-06-17T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/4
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20566
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20566
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415116.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415116.pdf
+- Wortprotokoll: Digitales Sitzungspaket 17.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415116.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen zur Sitzung - einstimmig beschlossen
+- TOP 3: Wahlen und Besetzungen von Gremien - zur Kenntnis genommen
+- TOP 3.1: Wahl des beratenden Mitglieds der Bezirksvertretung 10 - einstimmig beschlossen
+- TOP 3.2: Wahl des stellvertretenden Mitglieds für den Auschuss für Umwelt-, Klima- und Verbraucherschutz - einstimmig beschlossen
+- TOP 3.3: Wahl des beratenden Mitglieds für den Behindertenrat - einstimmig beschlossen
+- TOP 4: Antworten der Verwaltung zu den Anfragen und Anträgen - zur Kenntnis genommen
+- TOP 4.1: Antworten der Verwaltung zu JURAT/004/2021 - Prüfung der Errichtung eines Fußgängerüberwegs (Zebrastreifen) vor dem Görres-Gymnasium, Königsallee 57 - zur Kenntnis genommen
+- TOP 4.2: Antworten der Verwaltung zu JURAT/009/2021 - Aufklärungsarbeit an Schulen über sexuelle Gewalt - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 5.1: Bereitstellung von Schulbüchern als eBooks - einstimmig beschlossen
+- TOP 6: Anträge - zur Kenntnis genommen
+- TOP 6.1: #BusUndBahnWasLäuftNicht - NRW-weit gültiges Jugendticket - einstimmig beschlossen
+- TOP 6.2: #BusUndBahnWasLäuftNicht - Engere Taktungen im ÖPNV zu Stoßzeiten - einstimmig beschlossen
+- TOP 6.3: #BusUndBahnWasLäuftNicht - Einrichtung von Nachtexpressen - einstimmig beschlossen
+- TOP 6.4: #BusUndBahnWasLäuftNicht - Sicherheitskonzepte an Haltestellen - einstimmig beschlossen
+- TOP 6.5: #BusUndBahnWasLäuftNicht - Weitere Einbindung des OSD in die Umsetzung der Sicherheitskonzepte des Verkehrsbetriebs - einstimmig beschlossen
+- TOP 6.6: #BusUndBahnWasLäuftNicht - Einrichtung einer Arbeitsgruppe Radverkehrswende - mehrheitlich beschlossen
+- TOP 6.7: #BusUndBahnWasLäuftNicht - Förderung der Infrastruktur des umweltschonenden Modal Splits - einstimmig beschlossen
+- TOP 6.8: #BusUndBahnWasLäuftNicht - Erarbeitung eines Strategiekonzepts zur Verkehrswende - einstimmig beschlossen
+- TOP 6.9: #BusUndBahnWasLäuftNicht - Oberleitungsbusse für Düsseldorf - einstimmig beschlossen
+- TOP 6.10: #BusUndBahnWasLäuftNicht - Barrierefreier ÖPNV - einstimmig beschlossen
+- TOP 6.11: #BusUndBahnWasLäuftNicht - Barrierefreie Fahrgastinformationen - einstimmig beschlossen
+- TOP 6.12: #BusUndBahnWasLäuftNicht - Flächendeckende rollstuhlgerechte Infrastruktur im ÖPNV - einstimmig beschlossen
+- TOP 6.13: #BusUndBahnWasLäuftNicht - Zentral erreichbare Digitale Fahrgastinformationen - einstimmig beschlossen
+- TOP 6.14: #BusUndBahnWasLäuftNicht - Freies WLAN im ÖPNV - einstimmig beschlossen
+- TOP 6.15: #BusUndBahnWasLäuftNicht - Zukunftssichere Haltestellen - einstimmig beschlossen
+- TOP 6.16: Errichten von provisorischen Bremsschwellen in der Altstadt, sowie zur Errichtung eines „E-Roller-Highways“ - zurückgezogen
+- TOP 6.17: Beleuchtung an der Sportanlage an der Reusrather Straße einrichten - einstimmig beschlossen
+- TOP 6.18: Beleuchtung an der Sportanlage an der Stahlwerkstraße einrichten - einstimmig beschlossen
+- TOP 7: Berichte - zur Kenntnis genommen
+- TOP 7.1: Berichte aus den Ausschüssen und den Bezirksvertretungen - zur Kenntnis genommen
+- TOP 7.2: Berichte aus den Arbeitsgruppen und über die geplanten Veranstaltungen - zur Kenntnis genommen
+- TOP 8: Verschiedenes - zur Kenntnis genommen
