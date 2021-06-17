@@ -1,0 +1,171 @@
+# 50. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-06-17T17:30:00+02:00
+- Ende: 2021-06-17T23:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5388
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5388
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=509274
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Container für die Heinrich-von-Stephan-Gemeinschaftsschule - beantwortet
+- TOP 2.2: Bebauung der ehemaligen Kfz-Werkstatt der Deutschen Post zwischen Köpenicker-, Aldalbert-, Melchiorstr. und Engeldamm - beantwortet
+- TOP 2.3: Bezahlbare Mieten - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde; "Aufholen nach Corona für Kinder und Jugendliche" (DS: 3180/V, 3182/V, 3183/V, 3209/V) - erledigt
+- TOP 6.1: „Aktionsprogramm Aufholen nach Corona für Kinder und Jugendliche“ - Umsetzung in Mitte - beantwortet
+- TOP 6.2: Coronabedingte Lernrückstände - beantwortet
+- TOP 6.3: Schulabgänger:innen in Mitte und duale Ausbildung - was macht das Bezirksamt? - beantwortet
+- TOP 6.4: Maßnahmen zur Korrektur schulischer Bildungsdefizite sofort starten, duale Ausbildungsangebote erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Nutzungsänderungen zwecks Errichtung von Flüchtlings- oder Obdachlosenunterkünften - beantwortet
+- TOP 7.2: Tourismus nach der Corona-Pandemie - beantwortet
+- TOP 7.3: Reaktivierung der Liegenschaft Putbusser Straße 12 als Schulstandort (II): Warum ist praktisch nichts passiert seit der BVV-Beschlussfassung DS 2050/V - beantwortet
+- TOP 7.4: Der Sommer wird gut? Wie steht es um Planschen und Wasserspielplätze im Bezirk? - schriftlich beantwortet
+- TOP 7.5: Sicherheit im Rathaus - schriftlich beantwortet
+- TOP 7.6: Kontrollen von Spätis - schriftlich beantwortet
+- TOP 7.7: Bearbeitung von Anwohnerparkausweisen - schriftlich beantwortet
+- TOP 7.8: Prinzengarten: Noch ein Urban Gardening Projekt auf Flächensuche? - schriftlich beantwortet
+- TOP 7.9: Krisengipfel Bürgeramt - schriftlich beantwortet
+- TOP 7.10: Unterstützt das Bezirksamt die Gastronomie in der Hauptstadtmitte? - schriftlich beantwortet
+- TOP 7.11: Gorilla-Lager im Kiez? Probleme zwischen Anwohnenden und Lieferdiensten in Mitte - schriftlich beantwortet
+- TOP 7.12: Planschen – alle Jahre wieder - in der BVV zurückgezogen
+- TOP 7.13: Saubere Stadt auch in Mitte? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Welches Theater wurde am Wochenende im Monbijoupark aufgeführt? - beantwortet
+- TOP 8.2: Bezirksamt bringt Kultur in Not - schriftlich beantwortet
+- TOP 8.3: Gretchenfrage: Wie hält es das BA mit einem Monbijoutheater? - schriftlich beantwortet
+- TOP 8.4: Keine Kultur im Strandbad Plötzensee? - schriftlich beantwortet
+- TOP 8.5: Wieder ungebremste Feierszene Weinbergsweg/Rosenthaler Platz - Was ist mit der Nachtruhe der Anwohnenden? - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Gendern im Bezirksamt Mitte – Pflicht oder Kür? - beantwortet
+- TOP 9.2: Lärmbelastung entlang der Lüneburger Straße - beantwortet
+- TOP 9.3: War die Charlotte-Pfeffer-Schule kein Einzelfall - Wiederholter Verstoß gegen die Auflagen des Abgeordnetenhauses - beantwortet
+- TOP 9.4: Eckwertebeschluss- Wie geht es nun weiter mit dem Bezirkshaushalt - schriftlich beantwortet
+- TOP 9.5: Mitte ist Schwerpunkt registrierter Sexualdelikte – was tut das BA? - schriftlich beantwortet
+- TOP 9.6: Testzentren in Mitte - schriftlich beantwortet
+- TOP 9.7: Rot-weiße Poller in Mitte? - schriftlich beantwortet
+- TOP 9.8: Schutz der Fauna am Ufer des Plötzensees - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Feststellung der außergewöhnlichen Notlage nach GO - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: Bezirksgrenzänderung geringer Bedeutung der Bezirke Tempelhof-Schöneberg und Mitte im Bereich Kurfürstenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Fortschreibung des Einzelhandels- und Zentrenkonzeptes des Bezirkes Mitte als sektoralen Fachplan der BEP 2004 (Bereichsentwicklungsplanung). - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Die Lebenssituation von Kindern und Jugendlichen in ASOG -Unter-künften dringend verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: „Köpi“ & Wagenplatz retten - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Vorkaufsrecht der Alten Schönhauser Straße 26 - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Plansche im Schillerpark - in der BVV zurückgezogen
+- TOP 13.5: Kultur im Strandbad Plötzensee - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Theaters im Monbijoupark 2021 - gegenstandslos
+- TOP 13.7: Kultursommer am Plötzensee ermöglichen - gegenstandslos
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Nachweis der syrischen Staatsbürgerschaft bei Einbürgerungsanträgen - vertagt
+- TOP 14.2: Nahversorgung am Ackerplatz auch nach der Sanierung gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Soziale Hilfsangebote mit Schnelltests prüfen - vertagt
+- TOP 14.4: Kiezblocks für Mitte - vertagt
+- TOP 14.5: Standort für eine Ausweichlösung der Anna-Lindh-Schule suchen - vertagt
+- TOP 14.6: Zuwendungen nur bei Einhaltung politischer Neutralität - überwiesen
+- TOP 14.7: Gefährdungen durch Elektro-Vehikel abschalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Ein Kieztreff für das Hansaviertel und das südliche Moabit - überwiesen
+- TOP 14.9: Fußverkehr statt Durchgangsverkehr im Brüsseler Kiez - vertagt
+- TOP 14.10: Nutzungsverlängerung für das Café Leo - vertagt
+- TOP 14.11: Rehberge – wohin mit dem Müll - überwiesen
+- TOP 14.12: Kostenlose Menstruationsprodukte für Schüler:innen im Bezirk Mitte - überwiesen
+- TOP 14.13: Öffentliche Räume attraktiver machen - mehr Sitzbänke für Mitte - vertagt
+- TOP 14.14: Baudenkmäler schützen - überwiesen
+- TOP 14.15: Gefährlicher Legionellenbefall in der Wilhelmstraße – unverzügliche Beseitigung veranlassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Parkcafé Rehberge checken! - vertagt
+- TOP 14.17: Unterlagen digital - vertagt
+- TOP 14.18: Was macht Corona mit Unternehmerinnen und weiblichen Soloselbständigen in Mitte? - überwiesen
+- TOP 14.19: Zusammen für mehr Kitaplätze in Mitte - überwiesen
+- TOP 14.20: Parkcafé Rehberge fördern! - vertagt
+- TOP 14.21: Zeitgemäße Stellenbewertung in Mitte – Wirkt sich die 2019 weiterentwickelte Eingruppierungsordnung im TV-L für Beschäftigte im BA -Mitte aus? - überwiesen
+- TOP 14.22: Immobilienmanagement stärken – konsequent gegen Schimmel in Schulen und anderen öffentlichen Gebäuden vorgehen - vertagt
+- TOP 14.23: Klarheit für parkende Anwohner in Moabit schaffen! - überwiesen
+- TOP 14.24: BVG Haltestellen - überwiesen
+- TOP 14.25: Eine:n Graffiti-Beauftragte:n für Berlin-Mitte - überwiesen
+- TOP 14.26: Aufklärung sexueller Straftaten unterstützen! - vertagt
+- TOP 14.27: Bei der Entwicklung neuer Gewerbeflächen an Handwerksbetriebe, kulturaffines Gewerbe und Spin-Offs aus wissenschaftlichem Kontext denken - überwiesen
+- TOP 14.28: Anwohnerinnen und Anwohner der Drontheimer Straße 12-15 schützen! - vertagt
+- TOP 14.29: Ein Dekolonialisierungskonzept für Berlin-Mitte - überwiesen
+- TOP 14.30: Personal für das Bezirksamt gewinnen - vertagt
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Unterstützung und Anerkennung für eine kritische Erinnerungskultur vor Ort - vertagt
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: PANKE – Fließgeschwindigkeit reduzieren, Leben in die Panke bringen - erledigt
+- TOP 16.2: Ordnungsamt für Mitte - erledigt
+- TOP 16.3: Mehr Photovoltaikanlagen für Mitte-Gebäude in öffentlicher Hand - erledigt
+- TOP 16.4: Roter Atlas gefährdeter Arten - ohne Änderungen in der BVV beschlossen
+- TOP 16.5: Sportangebote im Wedding erweitern – Möglichkeiten suchen, Lösungen finden! - vertagt
+- TOP 16.6: Sicherheit bei der gemeinsamen Nutzung der Schillingstraße durch Fußgänger und Radfahrer erhöhen - in der BVV abgelehnt
+- TOP 16.7: Straßenfeste auf Mittes Straßen nach Corona ermöglichen und ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 16.8: Park statt Parkplätze: Bezahlbare Wohnungen und ein neuer Park für Moabit West - vertagt
+- TOP 16.9: Mehr Platz in der Corona-Pandemie II - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - vertagt
+- TOP 16.11: Haltebügel für Radfahrende in der Hauptstadtmitte - mit Änderungen in der BVV beschlossen
+- TOP 16.12: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - vertagt
+- TOP 16.13: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - mit Änderungen in der BVV beschlossen
+- TOP 16.14: Landschaftsschutzgebiet in der Rehberge ausdehnen - ohne Änderungen in der BVV beschlossen
+- TOP 16.15: Rodelbahn wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 16.16: Mieter:innenrechte vom Schatten ins Licht führen: „Schattenmieten“ in Mitte untersagen - vertagt
+- TOP 16.17: lllegale Plakate beseitigen – bürgerschaftliches Engagement fördern - vertagt
+- TOP 16.18: Stolperfreies Spielen ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 16.19: Mitte braucht ein CommUnity Zentrum (CUZ) im Afrikanischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 16.20: FFF-Forderungen umsetzen - Niedrigschwellige Informationen für eine klimagerechte Gesamtgesellschaft - in der BVV abgelehnt
+- TOP 16.21: Asylbewerberleistungsgesetz – Digitales Lernen für alle Schüler:innen sicherstellen - erledigt
+- TOP 16.22: Platz da, Mazda – Autofreie Zentralhaltestelle Turmstraße - vertagt
+- TOP 16.23: FFF-Forderungen umsetzen - Fortbildungen zum Klimaschutz für alle Beschäftigten des Bezirksamtes ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 16.24: Aufsuchende gesundheitliche Versorgung für wohnungslose Menschen ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 16.25: Rehberge – Parkplatz säubern! - vertagt
+- TOP 16.26: Menstruation für den kleinen Geldbeutel - vertagt
+- TOP 16.27: Multimodale und autofreie Straßenbahnhaltestellen frühzeitig planen - vertagt
+- TOP 16.28: Hinterlandmauer zwischen Berg- und Gartenstraße dauerhaft für Graffiti-Kunst freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 16.29: Schimmelbildung in den Kellern unsrer Schulen vorbeugen - mit Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Jährlicher Energiebericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Gender Mainstreaming konsequent umsetzen – Beratung zum zielgrichteten und zeitlich be-fristeten Einsatz von Förderinstrumenten im Sinne der Hilfe zur Selbsthilfe in der Servicestelle der Wirtschaftsförderung Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Feierliche Zusammenkunft und Informationsveranstaltung an der Marienkirche zum Judenpogrom von 1510 - vertagt
+- TOP 17.4: „Ich bin DIESE“: Bezirksamt Mitte wird Genossenschaftsmitglied bei Diese e.G. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Wer duale Ausbildung sucht, soll sie auch erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Zigarettenstummel richtig entsorgen - Aktionskampagne 2020 starten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Erklär- und Gendenktafel für Leonhard Euler auf dem Leonhard Euler Spielplatz im Gesundbrunnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.8: Beachprojekt Plötzensee ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Mühlendammbrücke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.10: Duale Ausbildung: Die öffentliche Hand muss über Bedarf ausbilden! - vertagt
+- TOP 17.11: Auch in Mitte Corona bekämpfen, Wohlstand sichern und Zukunftsfähigkeit stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Zusätzliche Plätze für Opfer häuslicher Gewalt verstetigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Lange Nacht der Bürgerämter - vertagt
+- TOP 17.14: Konzept Vorkaufsrecht gem. § 24 Abs. 1 Nr. 4 BauGB in sozialen Erhaltungsgebieten (Milieuschutz) III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: Aufgeschoben ist nicht aufgehoben: Zentrale Kund*innensteuerung für das Sozialamt etablieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.16: Das Parkcafé in den Rehbergen für die Bevölkerung erhalten und nutzbar machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Blockade im Bezirksamt bei der Schaffung dringend benötigter Kitaplätze unverzüglich beenden! - vertagt
+- TOP 17.18: Langfristige Perspektive für die Wilde 17 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.19: Ausbau der Frauenhäuser in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Mieterberatung - Kein Anschluss unter dieser Nummer? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.21: Leipziger Park statt lauter Verkehrsschneise! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.22: Friedensstatue bewahren – Gedenken an Opfer sexualisierter Gewalt ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.23: Ottilie Taube Pohl (geb. Levit) angemessen erinnern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.24: Angemessene Beratungsangebote für Selbständige sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.25: Keine faulen Kompromisse in der Habersaathstraße 40-48 Gutes und bezahlbares Wohnen in der Berliner Innenstadt erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.26: Keine Zweckentfremdung von Mitteln, die für Kinder und Jugendliche bestimmt sind! - vertagt
+- TOP 17.27: Keine Verdrängung von Vereinen am Poststadion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.28: Rassismus öffentlich entschieden entgegentreten – Strafanzeige gegen „Volkslehrer“, und betroffenen Gruppen Solidarität und praktische Unterstützung bekunden Die Bezirksverordnetenversammlung möge beschließen: - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.29: Ehrenamtliches Engagement im Brüsseler Kiez unterstützen, statt den Müll nach Hause zu tragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.30: Zielsystem für das Kalenderjahr 2020 – Bericht über das Erreichen der Ziele (Erfolgskon-trolle) zum 31. Dezember 2020 - vertagt
+- TOP 17.31: Beschluss über die Einstellung des Bebauungsplanverfahrens I-67 „Klosterstraße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.32: Eckwertebeschluss über die Aufteilung des Produktsummenbudgets, der Zuwei-sung für sonstige Transferausgaben und der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2022/2023 und Einbringung einer Vorlage - zur Kennt-nisnahme - bei der Bezirksverordnetenversammlung - vertagt
