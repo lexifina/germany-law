@@ -1,0 +1,104 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-17T17:07:00+02:00
+- Ende: 2021-06-17T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23293
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23293
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Autonom fahrender Pendelbus für Porz und Poll (Az.: 02-1600-223/20) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Widmung der Straße Rolshover Kirchweg, von Allerseelenstraße bis Am Grauen Stein - ungeändert beschlossen
+- TOP -: Widmung der Straße Rolshover Kirchweg von Allerseelenstraße bis Am Grauen Stein, hier: Beantwortung einer Nachfrage - Kenntnis genommen
+- TOP 6.2: Angepasster Baubeschluss für die Öffnung der Einbahnstraßen Houdainer Straße und Hauptstraße zwischen Schmittgasse und Burgweg für den gegenläufigen Radverkehr - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Angepasster Baubeschluss für die Öffnung der Ein - endgültig zurückgezogen
+- TOP 6.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 6.4: Beflaggung des Bezirksrathauses Porz mit der Regenbogenfahne am 17. Mai 2021 - ungeändert beschlossen
+- TOP 6.5: Widmung eines Teilstückes der Straße Am Poppenberg in Köln-Langel - ungeändert beschlossen
+- TOP 6.6: Projektanträge im Rahmen des vierten Antragsdurchlaufs des Verfügungsfonds für das Gebiet der Sozialen Stadt „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "Städtebauliches Planungskonzept Hochpunkt Siegburger Straße" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Sädtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz" - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Generalsanierung der Sportanlage Humboldtstraße, Platz 1 (an der Schule) - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Baubeschluss für die Generalsanierung der Sportanlage Humboldstraße, Platz 1" - ungeändert beschlossen
+- TOP 7.3: Umlegungsanordnung für das Umlegungsgebiet U 457 in Köln-Porz-Elsdorf (Südlich Friedensstraße) - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Machbarkeitsstudie einer Straßenbahnverbindung südlich der Südbrücke" - ungeändert beschlossen
+- TOP -: Ersetzungssantrag der SPD-Fraktion "Machbarkeitsstudie einer Straßenbahnverbindung südlich der Südbrücke“ - geändert beschlossen
+- TOP 8.2: Antrag (Neufassung) der SPD-Fraktion "Einrichtung einer Spielstraße (Verkehrsberuhigter Bereich VZ 325) in der Jakob-Kneip-Straße im Bereich zwischen Laurenz-Kiesgen-Straße und Poller Kirchweg" - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Einrichtung einer Spielstraße in der Jakob-Kneip-Straße im Bereich Laurenz-kiesgen- - endgültig zurückgezogen
+- TOP 8.3: Antrag der Fraktion DIE LINKE/Die PARTEI "Aufhebung der „Halben Einbahnstraße Hohenstaufenstraße" - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion "Hohenstaufenstraße" - Sache ist erledigt
+- TOP -: Ersetzungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Aufhebung der halben Einbahnstraße Hohenstaufenstraße" - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der CDU Fraktion und der Fraktion Bündnis 90/Die Grünen "Veröffentlichung von Terminen zur Straßenreinigung" - zurückgestellt
+- TOP -: AN 0588 Reinigungsplan der AWB GmbH - Kenntnis genommen
+- TOP 8.5: gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - "Neubau des Lehrschwimmbeckens der GGS Hohe Str. in Ensen" - geändert beschlossen
+- TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen "Neubau des Lehrschwimmbeckens der GGS Hohe Str. in Ensen" - geändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Illegale Rennen auf der Alfred-Schütte-Allee unterbinden" - Sache ist erledigt
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Illegale Rennen auf der Alfred-Schütte-Allee" - ungeändert beschlossen
+- TOP -: Illegale Rennen auf der Alfred-Schütte-Allee in Köln-Poll - Kenntnis genommen
+- TOP 8.7: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Sportboxen für Köln" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Sportboxen für Köln" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Anbringen von Legendenbeschilderungen bei Neubenennungen von Straßen" - ungeändert beschlossen
+- TOP 8.9: Antrag der CDU Fraktion und der Fraktion Bündnis 90/Die Grünen "Rückbauverpflichtung für die ehemalige Baustraße Flughafen" - ungeändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Verkehrsberuhigung Unter den Erlen und Lichpfad Porz-Urbach" - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Leerung von Mülleimern und Fachgespräch" - geändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion "Kreisverkehr Magazinstraße/Nachtigallenstraße" - ungeändert beschlossen
+- TOP 8.13: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Einrichtung von Insektenhotels für Schmetterlinge, Bienen und Insekten" - ungeändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Mehr Sicherheit auf der Porzer Ringstraße" - ungeändert beschlossen
+- TOP 8.15: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Wanderbaumallee" - ungeändert beschlossen
+- TOP -: Ersetzungsantrag der SPD-Fraktion "Wanderbaumallee" - endgültig abgelehnt
+- TOP 8.16: Antrag der SPD-Fraktion "Nothilfe für Porzer Karnevalsvereine" - geändert beschlossen
+- TOP -: Stellungnahme zu einem Antrag - Kenntnis genommen
+- TOP 8.17: Antrag der CDU-FRaktion und der Fraktion Bündnis 90/Die Grünen "Anbringung einer Bodenmarkierung zur Sichtbarmachung der Zu- und Ausfahrt des Parkplatzes der Wohnanlage in der Sankt Sebastianus Straße 3" - ungeändert beschlossen
+- TOP 8.18: Antrag der SPD-Fraktion "Vorgezogener Neubau des Lehrschwimmbeckens und der Turnhalle am Standort der GGS Hohe Straße sowie Interim und Bau einer weiteren Sporthalle am Standort Berliner Straße" - geändert beschlossen
+- TOP 8.19: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Fahrradstellplatz und E-Ladestation auf dem Pfarrer-Oermann-Platz in Porz-Eil" - geändert beschlossen
+- TOP -: Änderungsantrag SPD-Fraktion "Fahrradstellplatz und E-Ladestation auf dem Pfarrer-Oermann-Platz" - endgültig zurückgezogen
+- TOP 8.20: Antrag der SPD-Fraktion "Beleuchtung des Fuß- und Radwegs auf der Kölner Straße zwischen der Anschlussstelle Köln-Poll (A4) und Porzer Ringstraße" - zurückgestellt
+- TOP 8.21: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "Einrichtung eines fliegenden „Upbus„-Systems zwischen Porz und Köln" - ungeändert beschlossen
+- TOP 8.22: Antrag der SPD-Fraktion "Einrichtung von „verkehrsberuhigten Bereichen“ in der Wasserturmsiedlung in Westhoven (Drieschstraße, Wasserturmstraße undAuf dem Wasserfeld)" - zurückgestellt
+- TOP 8.23: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen "E-Scooter im öffentlichen Straßenland" - geändert beschlossen
+- TOP -: Ersetzungsantrag SPD-Fraktion "E-Scooter und E-Motorroller im öffentlichen Straßenland" - endgültig abgelehnt
+- TOP 8.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Sachstand Aufwertung Marktplatz Ensen - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand Aufwertung Marktplatz Ensen" - Sache ist erledigt
+- TOP 9.1.2: Sachstandsbericht zum Maßnahmenkatalog für Porz-Finkenberg (AN/0386/2021) - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen "Arbeit des Ordnungsamtes auf Poller Wiesen & Alfred-Schütte-Allee" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnungd des Rates, AN/1254/2021 der Fraktion Bündnis 90/Die Grünen "Arbeit des Ordnungsamtes auf Poller Wiesen & Alfred-Schütte-Allee - Kenntnis genommen
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Sachstand zur Umsetzung des Beschlusses AN/0382/2021 vom 04.03.2021" - zurückgestellt
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5: Anfrage der SPD-Fraktion "Ortstermin Grünfläche Hohe Straße / Kölner Straße am 10.05.2021 zu einem möglichen Bauvorhaben" - Sache ist erledigt
+- TOP -: Ortstermin Grünfläche Hohe Straße / Kölner Straße am 10.05.2021 zu einem möglichen Bauvorhaben - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: VHS ist wieder stärker in den "Veedeln" präsent - Kenntnis genommen
+- TOP 10.2.2: Machbarkeitsstudie zum Lehrschwimmbecken Grundschule Hohe Straße in Köln-Porz/Ensen - Kenntnis genommen
+- TOP 10.2.3: Verkehrssicherheit Langel - Kenntnis genommen
+- TOP 10.2.4: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Umbau der Räume der Fraktions- und Einzelmandatsträger und der Bezirksbürgermeisterin in der Bezirksvertretung Porz - Kenntnis genommen
+- TOP 10.2.6: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.7: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
+- TOP 10.2.8: Konzept: Obst - Arboretum Köln - Kenntnis genommen
+- TOP 10.2.9: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.10: Antrag der CDU-Fraktion und der Frakion Bündnis 90 / Die Grünen"Weiterer Spielplatz für Porz Eil" - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
