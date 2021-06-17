@@ -1,0 +1,26 @@
+# Kindsein in Corona-Zeiten
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 372/2020 2. Ergänzung
+- Art: Kenntnisnahme
+- Datum: 2021-06-17
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZSv_WaahOuR0j2CRj3gAvII
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/14320
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Kenntnisnahme (Kindsein in Corona-Zeiten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXDgLmQ_f53fv3lLzlWrH_LTsSTGk2b2eJ9VuE4vKnTp/Kenntnisnahme_372-2020_2._Ergaenzung.pdf
+- Anlage: Kenntnisnahme (1. Einschätzung des ASD) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYYOgl0ob1fMqd0-wGhqXqMv-F8bphnubuDIHwPmZE3_/1._Einschaetzung_des_ASD.pdf
+- Anlage: Kenntnisnahme (2. Gronauer Pflegekinderdienst) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUHUW3aBkx3lthe77nFBW1GWOAIIenQ7eUnHzwrs-PY6/2._Gronauer_Pflegekinderdienst.pdf
+- Anlage: Kenntnisnahme (3. Eingliederungshilfe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW6ZJf9JuRG_BRGP93iV5FnxSRt5kcCmFnCG38efoJMt/3._Eingliederungshilfe.pdf
+- Anlage: Kenntnisnahme (4. Update Jugendberufshilfe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUsGJ0hW-d_ymVLlmUM6Achlf6yXnVdocr-AeIC1Z253/4._Update_Jugendberufshilfe.pdf
+- Anlage: Kenntnisnahme (5. Jugendhilfe im Strafverfahren) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVVaByw0_NsBt_U0GQ06Z8uMi5_xq2V_C3v5eeM5hTCG/5._Jugendhilfe_im_Strafverfahren.pdf
+- Anlage: Kenntnisnahme (6a Beistandschaften) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVv3tPcwl8MbfiggoPI7Y0N6xKMbrnRL-E5Mdhtzmyna/6a_Beistandschaften.pdf
+- Anlage: Kenntnisnahme (6b Vormundschaften) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe_rmW850aahsoP0DTsOwJZ6vmMy-QWyGfe9rWo9O-uX/6b_Vormundschaften.pdf
+- Anlage: Kenntnisnahme (7 u. 8 städt. Kitas  einschl. Hort) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVJoxHCQpm6WCrS6Z1Xu90xx1brwEWAamJ2ZINAeYKgN/7_u._8_staedt._Kitas__einschl._Hort.pdf
+- Anlage: Kenntnisnahme (9. Projekt Übegang Kita-Grundschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe5RW5cmZ-nEUXC61PcrR73F-tC8Y9iFbOflyvfdWeq5/9._Projekt_Uebegang_Kita-Grundschule.pdf
+- Anlage: Kenntnisnahme (10 Kinder- und Jugendzentrum Luise) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUOdWf2WT2HjXFD5lA4wjywcEdYGnOrEnNRAOWhsWg4z/10_Kinder-_und_Jugendzentrum_Luise.pdf
+- Anlage: Kenntnisnahme (11. Jugendzentrum Stop) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMjPrwWP6vDBRrX-i61ZxERWndP-lACZPNi1yVLApZh/11._Jugendzentrum_Stop.pdf
+- Anlage: Kenntnisnahme (12. Einschätzung Ferienspiele) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUAMPNYSf3Eih1J2VUSbDGZZ_MGWg12uOjax-XfOYyk6/12._Einschaetzung_Ferienspiele.pdf
+- Anlage: Kenntnisnahme (13. Schulsozialarbeit) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQQkBnqCxg1sznGa3JadyfYS0hG1Hy4UAvQnBY8Fx7gE/13._Schulsozialarbeit.pdf
+- Anlage: Kenntnisnahme (14. Streetwork) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdzTGcGdTbI1LI2hGhXUewNYQulnpN9FwF8wobWW8376/14._Streetwork.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4748 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-78
