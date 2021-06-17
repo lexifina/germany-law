@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 9.4 - Städtebauliches Planungskonzept südlich Baptiststraße
+
+- Sitzung: 4. Sitzung des Stadtentwicklungsausschusses (2021-06-17)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/326647
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/153851
