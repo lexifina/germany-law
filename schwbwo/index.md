@@ -59,5 +59,5 @@ schwerbehinderten Richter und Richterinnen](0027.md)
 
 ## Fünfter Teil Schlußvorschriften
 
-- [§ 28 Berlin-Klausel](0028.md)
+- [§ 28 Sonderregelungen aus Anlass der COVID-19-Pandemie](0028.md)
 - [§ 29 (Inkrafttreten)](0029.md)

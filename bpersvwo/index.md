@@ -12,8 +12,7 @@
 - [§ 2 Feststellung der Beschäftigtenzahl, Wählerverzeichnis](0002.md)
 - [§ 3 Einsprüche gegen das Wählerverzeichnis](0003.md)
 - [§ 4 Vorabstimmungen](0004.md)
-- [§ 5 Ermittlung der Zahl der zu wählenden
-Personalratsmitglieder, Verteilung der Sitze auf die Gruppen](0005.md)
+- [§ 5 Ermittlung der Zahl der zu wählenden Personalratsmitglieder, Verteilung der Sitze auf die Gruppen](0005.md)
 - [§ 6 Wahlausschreiben](0006.md)
 - [§ 7 Wahlvorschläge, Einreichungsfrist](0007.md)
 - [§ 8 Inhalt der Wahlvorschläge](0008.md)
@@ -66,7 +65,7 @@ Wahlergebnis](0030.md)
 ### Vierter Abschnitt Wahl der Vertreter
 der nichtständig Beschäftigten
 
-- [§ 31 Vorbereitung und Durchführung der Wahl](0031.md)
+- [§ 31 (weggefallen)](0031.md)
 
 ## Zweiter Teil Wahl des Bezirkspersonalrates
 
@@ -74,9 +73,7 @@ der nichtständig Beschäftigten
 des Personalrates](0032.md)
 - [§ 33 Leitung der Wahl](0033.md)
 - [§ 34 Feststellung der Beschäftigtenzahl, Wählerverzeichnis](0034.md)
-- [§ 35 Ermittlung der Zahl der zu wählenden
-Bezirkspersonalratsmitglieder, Verteilung der Sitze auf die
-Gruppen](0035.md)
+- [§ 35 Ermittlung der Zahl der zu wählenden Bezirkspersonalratsmitglieder, Verteilung der Sitze auf die Gruppen](0035.md)
 - [§ 36 Gleichzeitige Wahl](0036.md)
 - [§ 37 Wahlausschreiben](0037.md)
 - [§ 38 Bekanntmachungen des Bezirkswahlvorstandes](0038.md)
@@ -98,20 +95,16 @@ Personalrates](0045.md)
 
 ## Fünfter Teil Wahl der Jugend- und Auszubildendenvertreter
 
-- [§ 46 Vorbereitung und Durchführung der Wahl der Jugend- und
-Auszubildendenvertretung](0046.md)
+- [§ 46 Vorbereitung und Durchführung der Wahl der Jugend- und Auszubildendenvertretung](0046.md)
 - [§ 47 Wahl der Jugend- und Auszubildendenstufenvertretungen](0047.md)
 
 ## Sechster Teil Besondere Verwaltungszweige
 
-- [§ 48 Vertrauensmann in der Bundespolizei](0048.md)
+- [§ 48 (weggefallen)](0048.md)
 - [§ 49 Personalvertretungen im Bundesnachrichtendienst](0049.md)
 - [§ 49a](0049a.md)
-- [§ 50 Wahl einer Personalvertretung im Inland durch
-Beschäftigte in Dienststellen des Bundes im Ausland](0050.md)
-- [§ 51 Vertrauensmann der Ortskräfte
-
-(§ 91 Abs. 2 des Gesetzes)](0051.md)
+- [§ 50 Wahl einer Personalvertretung im Inland durch Beschäftigte in Dienststellen des Bundes im Ausland](0050.md)
+- [§ 51 Vertrauensperson der lokal Beschäftigten (§ 120 des Gesetzes)](0051.md)
 
 ## Siebter Teil Schlußvorschriften
 

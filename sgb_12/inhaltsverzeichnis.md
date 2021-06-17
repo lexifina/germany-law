@@ -154,6 +154,8 @@
 | § 64g | Teilstationäre Pflege |
 | § 64h | Kurzzeitpflege |
 | § 64i | Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5 |
+| § 64j | Digitale Pflegeanwendungen |
+| § 64k | Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen |
 | § 65 | Stationäre Pflege |
 | § 66 | Entlastungsbetrag bei Pflegegrad 1 |
 | § 66a | Sonderregelungen zum Einsatz von Vermögen |
@@ -242,6 +244,7 @@
 |  | Erster Abschnitt |
 |  | Kostenersatz |
 | § 102 | Kostenersatz durch Erben |
+| § 102a | Rücküberweisung und Erstattung im Todesfall |
 | § 103 | Kostenersatz bei schuldhaftem Verhalten |
 | § 104 | Kostenersatz für zu Unrecht erbrachte Leistungen |
 | § 105 | Kostenersatz bei Doppelleistungen |

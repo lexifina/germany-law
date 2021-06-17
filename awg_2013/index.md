@@ -39,6 +39,10 @@
 - [§ 26 Übermittlung personenbezogener Daten aus Strafverfahren](0026.md)
 - [§ 27 Überwachung des Fracht-, Post- und Reiseverkehrs](0027.md)
 - [§ 28 Kosten](0028.md)
+
+## Teil 4 Schlussvorschriften
+
 - [§ 29 Verkündung von Rechtsverordnungen](0029.md)
-- [§ 30 Übergangsbestimmungen](0030.md)
-- [§ 31 Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze](0031.md)
+- [§ 30 Anwendung unmittelbar geltender Vorschriften der Europäischen Union](0030.md)
+- [§ 31 Übergangsbestimmungen](0031.md)
+- [§ 32 Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze](0032.md)

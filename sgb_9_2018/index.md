@@ -64,10 +64,11 @@
 - [§ 34 Sicherung der Beratung von Menschen mit Behinderungen](0034.md)
 - [§ 35 Landesärzte](0035.md)
 
-### Kapitel 7 Struktur, Qualitätssicherung und Verträge
+### Kapitel 7 Struktur, Qualitätssicherung, Gewaltschutz und Verträge
 
 - [§ 36 Rehabilitationsdienste und -einrichtungen](0036.md)
 - [§ 37 Qualitätssicherung, Zertifizierung](0037.md)
+- [§ 37a Gewaltschutz](0037a.md)
 - [§ 38 Verträge mit Leistungserbringern](0038.md)
 
 ### Kapitel 8 Bundesarbeitsgemeinschaft für Rehabilitation
@@ -84,6 +85,7 @@
 - [§ 45 Förderung der Selbsthilfe](0045.md)
 - [§ 46 Früherkennung und Frühförderung](0046.md)
 - [§ 47 Hilfsmittel](0047.md)
+- [§ 47a Digitale Gesundheitsanwendungen](0047a.md)
 - [§ 48 Verordnungsermächtigungen](0048.md)
 
 ### Kapitel 10 Leistungen zur Teilhabe am Arbeitsleben

@@ -109,6 +109,7 @@ Erwerbsminderung
 - [§ 44b Aufrechnung, Verrechnung](0044b.md)
 - [§ 44c Erstattungsansprüche zwischen Trägern](0044c.md)
 - [§ 45 Feststellung der dauerhaften vollen Erwerbsminderung](0045.md)
+- [§ 45a Ermittlung der durchschnittlichen Warmmiete](0045a.md)
 - [§ 46 Zusammenarbeit mit den Trägern der Rentenversicherung](0046.md)
 
 ### Dritter Abschnitt Erstattung und Zuständigkeit
@@ -150,6 +151,8 @@ Erwerbsminderung
 - [§ 64g Teilstationäre Pflege](0064g.md)
 - [§ 64h Kurzzeitpflege](0064h.md)
 - [§ 64i Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5](0064i.md)
+- [§ 64j Digitale Pflegeanwendungen](0064j.md)
+- [§ 64k Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen](0064k.md)
 - [§ 65 Stationäre Pflege](0065.md)
 - [§ 66 Entlastungsbetrag bei Pflegegrad 1](0066.md)
 - [§ 66a Sonderregelungen zum Einsatz von Vermögen](0066a.md)
@@ -240,6 +243,7 @@ nach dem Fünften bis Neunten Kapitel
 ### Erster Abschnitt Kostenersatz
 
 - [§ 102 Kostenersatz durch Erben](0102.md)
+- [§ 102a Rücküberweisung und Erstattung im Todesfall](0102a.md)
 - [§ 103 Kostenersatz bei schuldhaftem Verhalten](0103.md)
 - [§ 104 Kostenersatz für zu Unrecht erbrachte Leistungen](0104.md)
 - [§ 105 Kostenersatz bei Doppelleistungen](0105.md)

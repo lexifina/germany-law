@@ -45,7 +45,7 @@
 |  |  |  |  |  |  | § 30 | Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe, Wahlergebnis |
 |  |  | Vierter Abschnitt |
 |  |  |  | Wahl der Vertreter der nichtständig Beschäftigten |
-|  |  |  |  |  |  | § 31 | Vorbereitung und Durchführung der Wahl |
+|  |  |  |  |  |  | § 31 | (weggefallen) |
 | Zweiter Teil |
 |  | Wahl des Bezirkspersonalrates |
 |  |  |  |  |  |  | § 32 | Entsprechende Anwendungen der Vorschriften über die Wahl des Personalrates |
@@ -72,11 +72,11 @@
 |  |  |  |  |  |  | § 47 | Wahl der Jugend- und Auszubildendenstufenvertretungen |
 | Sechster Teil |
 |  | Besondere Verwaltungszweige |
-|  |  |  |  |  |  | § 48 | Vertrauensmann in der Bundespolizei |
+|  |  |  |  |  |  | § 48 | (weggefallen) |
 |  |  |  |  |  |  | § 49 | Personalvertretungen im Bundesnachrichtendienst |
 |  |  |  |  |  |  | § 49a | Personalvertretungen bei der Deutschen Bundespost |
 |  |  |  |  |  |  | § 50 | Wahl einer Personalvertretung im Inland durch Beschäftigte in Dienststellen des Bundes im Ausland |
-|  |  |  |  |  |  | § 51 | Vertrauensmann der Ortskräfte (§ 91 Abs. 2 des Gesetzes) |
+|  |  |  |  |  |  | § 51 | Vertrauensperson der lokal Beschäftigten (§ 120 des Gesetzes) |
 | Siebter Teil |
 |  | Schlußvorschriften |
 |  |  |  |  |  |  | § 52 | Berechnung von Fristen |
