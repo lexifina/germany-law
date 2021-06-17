@@ -1,0 +1,91 @@
+# 4. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-17T15:07:00+02:00
+- Ende: 2021-06-17T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23689
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23689
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen" - Kenntnis genommen
+- TOP 1.2: Beantwortung der Anfrage der Fraktion DIE LINKE AN/1008/2021 zum Lebenslagenbericht - Kenntnis genommen
+- TOP 1.3: Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 1.4: Das Empirica-„Gutachten zur Ermittlung des künftigen Wohnungsbedarfes und der Wohnungsnachfrage in Köln bis 2040 und die Konsequenzen für die Stadtverwaltung - Kenntnis genommen
+- TOP 1.5: Beantwortung einer mündliche Anfrage der SPD-Fraktion betreffend „Geschäftsbericht Wohnen in Köln 2019" hier: Bericht "Wohnen in Köln" Fakten, Zahlen und Ergebnisse 2019, Aus-blick 2020“ (2821/2020) - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktion DIE LINKE vom 08.03.2021 - Kenntnis genommen
+- TOP 1.7: Köln baut mit Holz: Holzbau in der Stadt vorantreiben - zu AN/0933/2021Köln baut mit Holz: Holzbau in der Stadt vorantreiben - zu AN/0933/2021 aus der Sitzung des Stadtentwicklungsausschusses am 29.04.2021, TOP 2.2 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Methodik des Lebenslagenberichts
+- TOP 2.2: Baulandmobilisierungsgesetz
+- TOP 2.3: Digitale Baugenehmigungen - Sachstand
+- TOP 3: Anträge
+- TOP 3.1: Weitere Entwicklung des Otto-Langen-Quartiers - ungeändert beschlossen
+- TOP 3.2: Otto-Langen-Quartier in Mülheim Süd: Das NRW.Urban-Gelände - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: "Der Städtebauliche Masterplan für die Innenstadt Köln" hier: Aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Grundsatzbeschluss zur Umsetzung des im Rahmen des kooperativen Baulandmodells zu erbringenden Grünflächennachweises - zurückgestellt
+- TOP 5.2: Integriertes Handlungskonzept (IHK) Lindweiler - ungeändert beschlossen
+- TOP 5.3: Mülheimer Süden Hier: Ständige Jury - ungeändert beschlossen
+- TOP 5.4: Konzept zur Durchführung einer Konferenz mit Kölner Hochschulen, Partnerstädten und Hochschulen aus Partnerstädten - ungeändert beschlossen
+- TOP 5.5: Gemeinsame Stellungnahme zur Laufzeitverlängerung des Kernkraftwerks Doel (Belgien) - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Ladeinfrastruktur im öffentlichen Straßenraum - geändert beschlossen
+- TOP 6.2: Mehrgenerationen Haus Lindweiler 2021 - ungeändert beschlossen
+- TOP 6.3: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 6.4: Anpassung der Kölner Wohnraumschutzsatzung an das Wohnraumstärkungsgesetz NRW - ungeändert beschlossen
+- TOP 6.5: Rahmenplanung Braunsfeld/Müngerdorf/Ehrenfeld, hier: Änderung der Geschäftsordnung des Beirates zur Umsetzung der Rahmenplanung - geändert beschlossen
+- TOP 6.6: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 6.7: Umsetzung Einzelhandels und Zentrenkonzept, hier: Zentrenbudget - Erhöhung des Budgetrahmens 2021 - ungeändert beschlossen
+- TOP 6.8: Umlegungsanordnung für das Umlegungsgebiet U 457 in Köln-Porz-Elsdorf (Südlich Friedensstraße) - ungeändert beschlossen
+- TOP 6.9: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 240. Änderung des Flächennutzungsplanes (FNP)Arbeitstitel: "gesamtstädtisches Radverkehrshauptroutennetz" - ungeändert beschlossen
+- TOP 7.2: 241. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld Arbeitstitel: "Alsdorfer Straße“ in Köln-Ehrenfeld/-Braunsfeld" - ungeändert beschlossen
+- TOP 7.3: 238. Änderung des Flächennutzungsplanes Arbeitstitel: "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben - Sache ist erledigt
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungkonzept Möhl-Areal in Köln-Dellbrück; Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - Sache ist erledigt
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Volkhovener Straße" in Köln-Esch/Auweiler,Stellungnahme der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.3: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 9.4: Städtebauliches Planungskonzept südlich Baptiststraße in Köln-Roggendorf/Thenhoven Anhörung der Bezirksvertretung 6 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurf - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.4 - Städtebauliches Planungskonzept südlich Baptiststraße - geändert beschlossen
+- TOP 9.5: Städtebauliches Planungskonzept Heliosgelände in Köln-Ehrenfeld Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorga-ben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteilgung betreffend die Änderung des Bebauungsplanes Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 6359/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - geändert beschlossen
+- TOP -: TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 63459/04 - Sache ist erledigt
+- TOP -: TOP 10.2: Beschluss über die Einleitung sowie zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung betreffend die Änderung des Bebauungsplanes Nummer 63459/04 - geändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: - geändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes Nr. 7549/03 Arbeitstitel: Hatzfeldstraße/Radiumstraße in Köln Dellbrück - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzungsbeschluss betreffend den Bebauungsplan-Entwurf mit der Nummer 74490/07 Arbeitstitel: Wasserwerkstraße in Köln Dellbrück sowie Aufhebung des Aufstellungsbeschlusses mit dem Arbeitstitel - Heidestraße - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Teilaufhebung des Bebauungsplanes Nr. 73490/06; - Stellungnahmen/Satzungsbeschluss -; Arbeitstitel: August - Strindberg Straße, Teilaufhebung in Köln - Holweide - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Pesch Arbeitstitel: Donatusstraße in Köln-Pesch - ungeändert beschlossen
+- TOP 15.2: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Altstadt / Nord Arbeitstitel: "Westlich unter Goldschmied (Laurenz Carré)" - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anregung der Bezirksvertretung Chorweiler zur Grenzänderung bei den Stadtteilen Merkenich und Fühlingen - zurückgestellt
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfs Nr. 62486/02 gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) Arbeitstitel: Ossendorfer Weg / Mühlenweg in Köln-Bickendorf - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Masterplan Dezernat V - Kenntnis genommen
+- TOP 18.2: Kölner Statistische Nachrichten 8/2021 - Kenntnis genommen
+- TOP 18.3: Kölner Statistische Nachrichten 4/2021 - Kenntnis genommen
+- TOP 18.4: Fortsetzung des abgestimmten Belegungsmanagements für die geförderten Wohnungen Kölns - Kenntnis genommen
+- TOP 18.5: Ottoplatz - Kenntnis genommen
+- TOP 18.6: Ergebnis über den Wettbewerb zur Errichtung einer Kfz-Brücke und einer Rad-/ Gehwegbrücke über das Hafenbecken, Deutzer Hafen in Köln-Deutz - Kenntnis genommen
+- TOP 18.7: Fortführung des Bebauungsplanverfahrens „Otto-Langen-Quartier“ im Mülheimer Süden – Erneute frühzeitige Öffentlichkeitsbeteiligung nach § 3 Abs. 1 BauGB – und Vergabeverfahren zur Veräußerung der Flächen im Eigentum des Landes NRW - Kenntnis genommen
+- TOP 18.8: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans - Kenntnis genommen
+- TOP 18.9: Sachstand zum Fachsymposium und Köln Katalog - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
