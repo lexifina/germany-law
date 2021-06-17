@@ -1,0 +1,119 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-06-17T16:00:00+02:00
+- Ende: 2021-06-17T20:50:00+02:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19267
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19267
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00273764.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00274352.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung der Schriftführung für den Hauptausschuss und den Rat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Evidenzbasierte Coronabekämpfung / Anfrage der FDP-Fraktion - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der FDP-Fraktion Evidenzbasierte Coronabekämpfung vom 25.05.2021 - Entgegennahme ohne Beschluss
+- TOP 2.2: Sachstandsbericht zu Treppen, Brücken und Fußwegen in Wuppertal / Große Anfrage der FDP-Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion Die Linke zu Treppen, Brücken und Fußwegen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.3: Ausschreibung der Asbestsanierung Gebäude der ehem. Pädagogischen Hochschule / Große Anfrage der Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE "Ausschreibung der Asbestsanierung Gebäude der ehemaligen Päd. Hochschule" - Entgegennahme ohne Beschluss
+- TOP 2.4: Sachstand Flächen Kindertagesstätten, Beschluss des Rates vom 01. März 2021 - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Große Anfrage von SPD und FDP - Sachstand Flächen Kindertagesstätten - Entgegennahme ohne Beschluss
+- TOP 2.5: Personalsituation mit dem Fokus auf Menschen mit Migrationsgeschichte und Minderheiten in der Wuppertaler Stadtverwaltung - ungeändert beschlossen
+- TOP 2.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6: Aktueller Stand zu Einbürgerungen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - Aktueller Stand zu Einbürgerungen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.7: Situation am Stadion am Zoo am 29. Mai 2021 - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8: Sachgrundlose Befristungen bei der Stadt Wuppertal und ihren Gesellschaften - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Sachgrundlose Befristungen bei der Stadt Wuppertal und ihren Gesellschaften - Antwort auf Anfrage der SPD-Fraktion - Entgegennahme ohne Beschluss
+- TOP 2.9: Untersuchung von Abwasser zur schnellen Entdeckung von Virenbelastung - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Große Anfrage der CDU-Fraktion zur Untersuchung von Abwasser zur schnellen Entdeckung von Virenbelastung - Entgegennahme ohne Beschluss
+- TOP 2.10: Sequenzierung von Coronaviren bei bereits positiv Getesteten - Entgegennahme ohne Beschluss
+- TOP 2.10.1: Antwort auf die Große Anfrage der CDU-Fraktion - Sequenzierung von Coronaviren bei bereits positiv Getesteten - Entgegennahme ohne Beschluss
+- TOP 2.11: Faires Parken in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.11.1: Faires Parken in Wuppertal - Antwort der Verwaltung auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 21.05.2021 - Entgegennahme ohne Beschluss
+- TOP 2.12: Wiederaufnahme des Normalbetriebs von Sportstätten - Entgegennahme ohne Beschluss
+- TOP 2.12.1: Antwort auf die Große Anfrage der AfD-Fraktion - Wiederaufnahme des Normalbetriebs von Sportstätten - Entgegennahme ohne Beschluss
+- TOP 2.13: Meldung von Impfnebenwirkungen - Entgegennahme ohne Beschluss
+- TOP 2.13.1: Antwort auf die Große Anfrage der AfD-Fraktion - Meldung von Impfnebenwirkungen - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag nach § 24 GO NRW - Umwandlung und Erweiterung von ungenutzten Spielflächen in Naturerlebnisräume
+- TOP 3.2: Antrag nach § 24 GO NRW - Motivation von Unternehmen zu einem Mobilitätskonzept
+- TOP 3.3: Antrag nach §24 GO NRW - Bauliche Trennung Radfahrstreifen Wall
+- TOP 3.4: Antrag nach § 24 GO NRW - Buslinie 614
+- TOP 3.5: Antrag nach § 24 GO NRW - Zusammenlegung der Fahrspuren Sonnborner Ufer/Siegfriedstraße
+- TOP 3.6: Antrag nach § 24 GO NRW - Anregungen zur Einrichtung einer Radspur und Anordnung von Tempo 30
+- TOP 3.7: Antrag nach § 24 GO NRW - Freigabe der Fußgängerzone(n) für den Radverkehr oder Kontrollen; „Duldung“ von Kfz
+- TOP 3.8: Antrag nach. § 24 GO NRW - Verbesserte Wirtschaftlichkeit der heutigen Buslinien 629 und 639
+- TOP 4: Anträge
+- TOP 4.1: Mehr Erzieher*innen für Wuppertal - ungeändert beschlossen
+- TOP 4.2: Teilnahme am Landeswettbewerb „Kommunale Gesamtkonzepte für kulturelle Bildung" - ungeändert beschlossen
+- TOP 4.3: Zuschuss Rosensonntagszug - ungeändert beschlossen
+- TOP 4.4: Döppersberg Mauer und Fassade: schriftlicher Bericht zu jeder Ratssitzung - zurückgezogen
+- TOP 4.5: Kultursilvester 2021: Spektakulär, sicher, umweltfreundlich - zur Vorberatung verwiesen
+- TOP 4.6: Gewerbeflächen - zur Vorberatung verwiesen
+- TOP 4.6.1: Gewerbeflächen - Antrag der Fraktionen von SPD und FDP vom 02.06.2021 - Stellungnahme der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 4.7: Ökobilanz Hängeseilbrücke zwischen Nützenberg und Königshöhe - abgelehnt
+- TOP 4.8: Resolution Osterholz - abgelehnt
+- TOP 4.8.1: Osterholz - Dialog-Prozess - ungeändert beschlossen
+- TOP 4.9: Sachstandsbericht zum gendergerechten Haushalt - ungeändert beschlossen
+- TOP 4.10: Abgesetzt. Die Anmeldung zur Tagersordnung wurde zurückgezogen. Auswirkungen der Pandemie reduzieren - zurückgezogen
+- TOP 4.11: Wirtschaftskompetenz stärken - abgelehnt
+- TOP 4.12: Pandemievorbeugung an Schulen und Kitas - zur Vorberatung verwiesen
+- TOP 4.13: Unterstützung in Zeiten der Pandemie - ungeändert beschlossen
+- TOP 4.14: Verkehrsführung im Bereich Laurentiusplatz - abgelehnt
+- TOP 4.14.1: Änderungsantrag zu VO/0952/21 „Verkehrsführung im Bereich Laurentiusplatz“ - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Satzung des ESW Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 6.2: Entgeltordnung Museum Industriekultur - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Finanzieller Mehrbedarf im Zusammenhang mit dem Aufbau eines zweiten Rechenzentrums - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Mittelbereitstellung zur Bekämpfung des Eichenprozessionsspinners an Bäumen in Grünanlagen und an Straßenbäumen - ungeändert beschlossen
+- TOP 7.3: Einbringung des Haushaltsplanentwurfes 2022/2023 - Terminplan - Entgegennahme ohne Beschluss
+- TOP 7.4: Umgang mit Mehrkosten bei Investitionsvorhaben - geändert beschlossen
+- TOP 7.4.1: Kostensteigerungen bei Investitionsvorhaben - abgelehnt
+- TOP 7.4.2: Änderungsantrag zu VO/0748/21 „Umgang mit Mehrkosten bei Investitionsvorhaben“ - abgelehnt
+- TOP 7.5: Vergabe von Planungsleistungen für das Vorhaben "4 Fields" am Schul-/Sportzentrum Süd - ungeändert beschlossen
+- TOP 7.6: Mehrkosten im Bereich der Lernmittelfreiheit - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2020 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Kooperationsvertrag zwischen der Stadt Wuppertal und der von der Heydt-Museum gGmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Planfeststellungsbeschluss für die Erweiterung der Halde Oetelshofen - Entgegennahme ohne Beschluss
+- TOP 9.2: Bebauungsplan 693 - Leibusch/ Thielestraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1231 - Friedenshort - - ungeändert beschlossen
+- TOP 9.4: 106. Flächennutzungsplanänderung - Friedenshort - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1236V -Wohnpark Barmenia-Allee - - Änderung des Durchführungsvertrages - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau der Grundschule Hainstr. als Offene Ganztagsgrundschule - ungeändert beschlossen
+- TOP 10.2: Errichtung eines Ersatzneubaues für die Turnhalle Hardenberg, Hardenbergstr. 25 in Elberfeld - ungeändert beschlossen
+- TOP 10.3: Sanierung des städtischen Freibades Mählersbeck - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2022/Katalogentwurf 2023 - ungeändert beschlossen
+- TOP 11.2: Verlängerung der Vertragslaufzeit für die Durchführung der Weihnachtsmärkte in Elberfeld, Barmen und auf dem Laurentiusplatz bis zum Jahr 2024 - ungeändert beschlossen
+- TOP 11.3: Straßen- und Wegekonzept für den Stadtbezirk Ronsdorf - ungeändert beschlossen
+- TOP 11.4: Straßen- und Wegekonzept für den Stadtbezirk Oberbarmen - ungeändert beschlossen
+- TOP 11.5: Straßen- und Wegekonzept für den Stadtbezirk Vohwinkel - ungeändert beschlossen
+- TOP 11.6: Straßen- und Wegekonzept für den Stadtbezirk Uellendahl-Katernberg - ungeändert beschlossen
+- TOP 11.7: Straßen- und Wegekonzept für den Stadtbezirk Barmen - ungeändert beschlossen
+- TOP 11.8: Straßen- und Wegekonzept für den Stadtbezirk Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 11.9: Straßen- und Wegekonzept für den Stadtbezirk Elberfeld - ungeändert beschlossen
+- TOP 11.10: Straßen- und Wegekonzept für den Stadtbezirk Elberfeld-West - ungeändert beschlossen
+- TOP 11.11: Straßen- und Wegekonzept für den Stadtbezirk Cronenberg - ungeändert beschlossen
+- TOP 11.12: Bericht zum Antrag "Schaffung von Wohnraum durch Innenverdichtung" (VO/0285/21) - Entgegennahme ohne Beschluss
+- TOP 11.13: Änderung/ Anpassung Grundsatzbeschluss „Bundesförderprojekt Museum für Industriekultur Wuppertal“ - ungeändert beschlossen
+- TOP 11.14: Sozialer Zusammenhalt (Soziale Stadt) Oberbarmen/ Wichlinghausen: Förderprojekt ‚Umfeldgestaltung Berliner Platz und Schöneberger Ufer‘ und andere Maßnahmen im Bereich des Berliner Platzes - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bildung eines Bewerbungsbeirates für die mögliche Bewerbung der Stadt Wuppertal um die Ausrichtung der Bundesgartenschau 2031 - geändert beschlossen
+- TOP 12.2: Bildung der Kreiswahlausschüsse für die Landtagswahl am 15. Mai 2022 für die Landtagswahlkreise - geändert beschlossen
+- TOP 12.3: Besetzung der Steuerungsgruppe für das Projekt zur Entwicklung einer individuellen Nachhaltigkeitsstrategie für die Stadt Wuppertal - geändert beschlossen
+- TOP 12.4: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
