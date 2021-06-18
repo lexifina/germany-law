@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-05-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.3
+- Datum: 2021-06-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-03.05.2019
+18.06.2021
 bis
-17.06.2021
+14.11.2024
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung 
 
@@ -128,46 +128,30 @@ Sächsischen Besoldungsgesetzes in Betracht.
 1.2.4                    
 
 
-Während eines Urlaubes nach § 98 Absatz 1 des                         
+Während eines Urlaubes nach § 98 Absatz 1 des
 
-Sächsischen Beamtengesetzes oder während der Inanspruchnahme von Elternzeit besteht die Beihilfeberechtigung gemäß § 80 Absatz 2 Satz 2 Nummer 2 des
+Sächsischen Beamtengesetzes besteht die Beihilfeberechtigung gemäß § 80 Absatz 2 Satz 2 Nummer 2 des
 
-Sächsischen Beamtengesetzes             fort, wenn kein Anspruch auf Familienversicherung gemäß § 10 des               Fünften Buches Sozialgesetzbuch besteht. Aufgrund der Rechtsprechung des Bundessozialgerichts ist Folgendes zu berücksichtigen:                                             
-
-
-a)                    
+Sächsischen Beamtengesetzes             fort, wenn kein Anspruch auf Familienversicherung gemäß § 10 des               Fünften Buches Sozialgesetzbuch besteht. Aufgrund der Rechtsprechung des Bundessozialgerichts ist Folgendes zu berücksichtigen:  
 
 
-Ist der Ehepartner oder eingetragene Lebenspartner (im Folgenden „Lebenspartner“ genannt) eines aus familiären Gründen nach § 98 Absatz 1 des                         
+Ist der Ehepartner oder eingetragene Lebenspartner (im Folgenden „Lebenspartner“ genannt) eines aus familiären Gründen nach § 98 Absatz 1 des
 
 Sächsischen Beamtengesetzes beurlaubten Beamten gesetzlich krankenversichert, ist davon auszugehen, dass ein Zugang des Beamten zur Familienversicherung besteht. Der beurlaubte Beamte hat den nicht bestehenden Anspruch auf Familienversicherung gegebenenfalls nachzuweisen. Dies gilt für Beurlaubungen, die ab dem 1. April 2014 beginnen. Beamte, deren Beurlaubung vor dem 1. April 2014 begann, erhalten unabhängig vom Anspruch auf Familienversicherung weiterhin Beihilfe, soweit nicht ein Wechsel gewünscht wird.
 
 
-b)                    
+1.2.5
 
 
-Die Regelung, dass während der Inanspruchnahme von Elternzeit vorrangig die Familienversicherung nach § 10 des               Fünften Buches Sozialgesetzbuch in Anspruch zu nehmen ist, geht grundsätzlich ins Leere (vergleiche BSG, Urteil vom 18. März 1999, B 12 KR 13/98 R; BSG, Urteil vom 28. März 2000, B 8 KN 10/98 KR R). Die Festsetzungsstelle kann davon ausgehen, dass regelmäßig kein Anspruch auf Familienversicherung besteht. Von dem in Elternzeit befindlichen Beamten ist kein Nachweis über einen etwaigen Anspruch aus einer Familienversicherung zu erbringen. Hat er aufgrund der besonderen Umstände des Einzelfalls dennoch Zugang zur Familienversicherung erlangt, ist er verpflichtet, die Beihilfestelle unverzüglich darüber zu informieren.                                                               
+Die Beihilfeberechtigung bei einer Beurlaubung ohne Dienstbezüge nach § 80 Absatz 2 Satz 2 Nummer 4 des
 
-1.2.5                    
-
-
-Die Beihilfeberechtigung bei einer Beurlaubung ohne Dienstbezüge nach § 80 Absatz 2 Satz 2 Nummer 3 des                         
-
-Sächsischen Beamtengesetzes betrifft solche Ausnahmefälle, in denen ein dringendes dienstliches Interesse an der Beurlaubung durch die oberste Dienstbehörde und im Einvernehmen mit dem Staatsministerium der Finanzen anerkannt ist. Ein dringendes dienstliches Interesse ist beispielsweise gegeben, wenn eine wichtige Position im staatlichen Bereich nur mit der zu beurlaubenden Person adäquat besetzt werden kann.
+Sächsischen Beamtengesetzes betrifft solche Ausnahmefälle, in denen ein dringendes dienstliches Interesse an der Beurlaubung durch die oberste Dienstbehörde und im Einvernehmen mit dem Staatsministerium der Finanzen anerkannt ist. Ein dringendes dienstliches Interesse ist beispielsweise gegeben, wenn eine wichtige Position im staatlichen Bereich nur mit der zu beurlaubenden Person adäquat besetzt werden kann. Werden Beamte oder Richter nach § 99 Absatz 1 des Sächsischen Beamtengesetzes oder § 8b Absatz 1 des Sächsischen Richtergesetzes unter Feststellung wichtiger dienstlicher Interessen ohne Dienstbezüge beurlaubt, ist das Einvernehmen des Staatsministeriums der Finanzen für das Fortbestehen der Beihilfeberechtigung bis zum Beginn des Ruhestandes im Sinne des § 80 Absatz 2 Satz 2 Nummer 4 des Sächsischen Beamtengesetzes generell erteilt.
 
 
 1.2.6                    
 
 
-Nach Ablauf der Monatsfrist des § 80 Absatz 2 Satz 2 Nummer 4 des                         
-
-Sächsischen Beamtengesetzes besteht eine Beihilfeberechtigung nur noch, wenn wieder Anspruch auf Dienstbezüge besteht oder eine Beihilfeberechtigung nach § 80 Absatz 2 Satz 2 Nummer 1, 2 oder 3 des
-
-Sächsischen Beamtengesetzes gegeben ist. Liegt ein neuer Freistellungsgrund im Sinne des § 80 Absatz 2 Satz 2 Nummer 4 des
-
-Sächsischen Beamtengesetzes vor, beginnt die Monatsfrist erneut, wenn vor der erneuten Freistellung eine Beihilfeberechtigung nach § 80 Absatz 2 Satz 1 oder Satz 2 Nummer 1, 2 oder 3 des
-
-Sächsischen Beamtengesetzes             bestanden hat. Für die Berechnung gelten die allgemeinen Bestimmungen der §§ 186 bis 193 des               Bürgerlichen Gesetzbuches.                                             
+Nach Ablauf der Monatsfrist des § 80 Absatz 2 Satz 2 Nummer 5 des Sächsischen Beamtengesetzes besteht eine Beihilfeberechtigung nur noch, wenn wieder Anspruch auf Dienstbezüge besteht oder eine Beihilfeberechtigung nach § 80 Absatz 2 Satz 2 Nummer 1, 2, 3 oder 4 des Sächsischen Beamtengesetzes gegeben ist. Liegt ein neuer Freistellungsgrund im Sinne des § 80 Absatz 2 Satz 2 Nummer 5 des Sächsischen Beamtengesetzes vor, beginnt die Monatsfrist erneut, wenn vor der erneuten Freistellung eine Beihilfeberechtigung nach § 80 Absatz 2 Satz 1 oder Satz 2 Nummer 1, 2, 3 oder 4 des Sächsischen Beamtengesetzes bestanden hat. Für die Berechnung gelten die allgemeinen Bestimmungen der §§ 186 bis 193 des Bürgerlichen Gesetzbuches.
 
 
 1.2.7                    
@@ -251,7 +235,7 @@ Forderungsgläubiger (zum Beispiel Ärzte) können die ihnen aus ihren Forderung
 1.3.3                    
 
 
-Wegen der Unübertragbarkeit des Beihilfeanspruchs ist eine Aufrechnung gegen Beihilfeansprüche nicht zulässig (BVerwG, Urteil vom 10. April 1997, 2 C 7/96; BGH, Beschluss vom 5. November 2004, IXa ZB 17/04). Im Unterschied zur bisherigen Rechtslage ist die Vererblichkeit des Beihilfeanspruchs nicht ausgeschlossen (BVerwG, Urteil vom 29. April 2010, 2 C 77/08).                    
+Eine Aufrechnung gegen Beihilfeansprüche ist nicht zulässig (BVerwG, Urteil vom 10. April 1997, 2 C 7/96; BGH, Beschluss vom 5. November 2004, IXa ZB 17/04), auch wenn der Anspruch, mit dem der Dienstherr aufrechnen will, auf einer vorsätzlichen unerlaubten Handlung beruht (OVG Münster, Beschluss vom 26. November 2018, 1 B 1281/18). Im Unterschied zur früheren Rechtslage ist die Vererblichkeit des Beihilfeanspruchs nicht ausgeschlossen (BVerwG, Urteil vom 29. April 2010, 2 C 77/08).
 
 
 1.4                     
@@ -269,7 +253,7 @@ Die Beihilfegewährung zu Aufwendungen des Beihilfeberechtigten und der berücks
 1.4.2                    
 
 
-Aufwendungen anlässlich des Todes von Beihilfeberechtigten und berücksichtigungsfähigen Angehörigen sind nur in den Fällen des § 35 Absatz 4 Satz 2 und des § 36 beihilfefähig.                    
+Aufwendungen anlässlich des Todes von Beihilfeberechtigten und berücksichtigungsfähigen Angehörigen sind nur in den Fällen des § 35 Absatz 3 Satz 2 und des § 36 beihilfefähig.
 
 
 1.4.3                    
@@ -331,7 +315,7 @@ Zu Absatz 2
 2.2.1                    
 
 
-Im Regelfall bestehen bei einer Verwendung im Ausland (Versetzung, Abordnung oder Zuweisung) der Anspruch auf Kindergeld und damit auch der Anspruch auf den Familienzuschlag für diese Kinder fort. In Einzelfällen kann jedoch der Kindergeldanspruch entfallen (zum Beispiel weil das Kind im Ausland nicht im Haushalt des Beamten lebt oder wegen der Anrechnung anderer Leistungen) und damit auch die Berücksichtigungsfähigkeit der Kinder im Familienzuschlag. In diesen Fällen wird auf den Auslandszuschlag abgestellt. Ein Kind ist auch dann berücksichtigungsfähig, wenn Anspruch auf den Auslandskinderzuschlag (ohne Berücksichtigung des § 63 Absatz 1 Satz 3 oder § 65 des               Einkommensteuergesetzes) besteht oder nur deshalb nicht besteht, weil das Kind im Inland lebt und dort ein Haushalt eines Elternteils besteht.                                                               
+Im Regelfall bestehen bei einer Verwendung im Ausland (Versetzung, Abordnung oder Zuweisung) der Anspruch auf Kindergeld und damit auch der Anspruch auf den Familienzuschlag für diese Kinder fort. In Einzelfällen kann jedoch der Kindergeldanspruch entfallen (zum Beispiel, weil das Kind im Ausland nicht im Haushalt des Beamten lebt oder wegen der Anrechnung anderer Leistungen) und damit auch die Berücksichtigungsfähigkeit der Kinder im Familienzuschlag. In diesen Fällen wird auf den Auslandszuschlag abgestellt. Ein Kind ist auch dann berücksichtigungsfähig, wenn Anspruch auf den Auslandskinderzuschlag (ohne Berücksichtigung des § 63 Absatz 1 Satz 3 oder § 65 des               Einkommensteuergesetzes) besteht oder nur deshalb nicht besteht, weil das Kind im Inland lebt und dort ein Haushalt eines Elternteils besteht.                                          
 
 
 2.3                     
@@ -396,7 +380,7 @@ Anders als in den in Absatz 1 genannten Fällen, schließt eine eigene Beihilfeb
 3.2.2                    
 
 
-Ausnahmeregelungen anderer Dienstherrn, wie beispielsweise die Regelung für Beamte im Geltungsbereich des Bayerischen Beamtengesetzes in Elternzeit, deren Berücksichtigungsfähigkeit als Angehöriger Vorrang vor dem eigenen Beihilfeanspruch hat (Artikel 99 Absatz 1 Satz 2 und 3 des Bayerischen Beamtengesetzes), entfalten keine Wirkung auf sächsisches Recht. Besteht die grundsätzliche Berücksichtigungsfähigkeit als Angehöriger bei einem sächsischen Beamten, läuft dieser Vorrang ins Leere. Der Beamte in Elternzeit ist auf den Beihilfeanspruch bei seinem Dienstherrn zu verweisen.
+Selbst beihilfeberechtigt ist ein Angehöriger auch dann, wenn er einen eigenständigen Anspruch auf Krankenfürsorge in entsprechender Anwendung der Beihilferegelungen für Beamte mit Anspruch auf Besoldung des anderen Dienstherrn hat. Regelungen anderer Dienstherrn, wonach Beihilfeansprüche oder vergleichbare Krankenfürsorgeansprüche entfallen, wenn der Beamte berücksichtigungsfähiger Angehöriger eines Beihilfeberechtigten wird (beispielsweise § 92 Absatz 5 Satz 2 des Bundesbeamtengesetzes, § 64 Absatz 5 Satz 2 des Beamtengesetzes Nordrhein-Westfalen, Artikel 89 Absatz 4 des Bayerischen Beamtengesetzes), entfalten wegen fehlender Gesetzgebungskompetenz und Regelungsbefugnis keine Wirkung auf sächsisches Recht, sondern können nur im Geltungsbereich des jeweils anderen Beamtengesetzes gelten. Der andere Dienstherr kann seine aus dem bei Beurlaubung weiterbestehenden Dienstverhältnis des Beamten zu ihm bestehende Einstands- und Fürsorgepflicht auch durch gesetzliche Regelungen nicht auf einen außerhalb seines Rechtskreises stehenden Dienstherrn abwälzen.                               
 
 
 3.3                     
@@ -504,13 +488,13 @@ Zu Absatz 2
 4.2.1                    
 
 
-Für die Beihilfegewährung an berücksichtigungsfähige Ehegatten und Lebenspartner kommt es nicht mehr auf die Stellung des Beihilfeantrages, sondern auf das Entstehen der Leistung an. Dadurch wird gewährleistet, dass die Beihilfe in dem Zeitpunkt der wirtschaftlichen Unselbständigkeit des Ehegatten oder Lebenspartners gewährt wird und ein Hinausschieben der entstandenen Aufwendungen auf das Folgejahr nicht mehr möglich ist. Maßgeblich sind die im Durchschnitt der letzten drei Jahre vor dem Entstehen der Aufwendungen erzielten Einkünfte.                    
+Für die Beihilfegewährung an berücksichtigungsfähige Ehegatten und Lebenspartner kommt es nicht auf die Stellung des Beihilfeantrages, sondern auf das Entstehen der Leistung an. Dadurch wird gewährleistet, dass die Beihilfe in dem Zeitpunkt der wirtschaftlichen Unselbständigkeit des Ehegatten oder Lebenspartners gewährt wird und ein Hinausschieben der entstandenen Aufwendungen auf das Folgejahr nicht mehr möglich ist. Maßgeblich sind die im Durchschnitt der letzten drei Jahre vor dem Entstehen der Aufwendungen erzielten Einkünfte.
 
 
 4.2.2
 
 
-Der Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes ist die Summe der Einkünfte, vermindert um den Altersentlastungsbetrag, den Entlastungsbetrag für Alleinerziehende und den Abzug bei Einkünften aus Land- und Forstwirtschaft nach § 13 Absatz 3 des Einkommensteuergesetzes.  Nach § 2 Absatz 2 des Einkommensteuergesetzes sind Einkünfte bei Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit der Gewinn (§§ 4 bis 7i des Einkommensteuergesetzes) und bei den anderen Einkunftsarten die Einnahmen abzüglich der Werbungskosten (§§ 8 bis 9a des Einkommensteuergesetzes).  Dabei sind Verluste aus einem Gewerbebetrieb nicht berücksichtigungsfähig (vergleiche OVG Münster, Beschluss vom 30. Mai 2016, 1 A 765/15).  Die von der Abgeltungssteuer erfassten Kapitaleinkünfte (§ 20 des Einkommensteuergesetzes) sind bei dem Gesamtbetrag der Einkünfte ebenfalls zu berücksichtigen.  Diese sind häufig nicht aus dem Steuerbescheid ersichtlich und deshalb gesondert anzugeben.  Der Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes ist durch geeignete Unterlagen, beispielsweise durch Übersendung der maßgeblichen Einkommensteuerbescheide, nachzuweisen.  Angaben, die nicht den Ehegatten oder eingetragenen Lebenspartner betreffen, können unkenntlich gemacht werden, soweit die maßgeblichen Angaben ersichtlich bleiben.  Steuerfreie Einkünfte, wie zum Beispiel der Unfallausgleich nach § 38 des Sächsischen Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 47 des Sächsischen Beamtenversorgungsgesetzes, zählen nicht zum Gesamtbetrag der Einkünfte.  Einkünfte, die nicht der Steuerpflicht nach § 2 des Einkommensteuergesetzes unterliegen, sind nicht zu berücksichtigen.  Verlustabzüge nach § 10d des Einkommensteuergesetzes sind im Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes nicht zu berücksichtigen.                            
+Der Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes ist die Summe der Einkünfte, vermindert um den Altersentlastungsbetrag, den Entlastungsbetrag für Alleinerziehende und den Abzug bei Einkünften aus Land- und Forstwirtschaft nach § 13 Absatz 3 des Einkommensteuergesetzes.    Nach § 2 Absatz 2 des Einkommensteuergesetzes sind Einkünfte bei Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit der Gewinn (§§ 4 bis 7i des Einkommensteuergesetzes) und bei den anderen Einkunftsarten die Einnahmen abzüglich der Werbungskosten (§§ 8 bis 9a des Einkommensteuergesetzes).    Die von der Abgeltungssteuer erfassten Kapitaleinkünfte (§ 20 des Einkommensteuergesetzes) sind bei dem Gesamtbetrag der Einkünfte ebenfalls zu berücksichtigen.    Diese sind häufig nicht aus dem Steuerbescheid ersichtlich und deshalb gesondert anzugeben.    Der Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes ist durch geeignete Unterlagen, beispielsweise durch Übersendung der maßgeblichen Einkommensteuerbescheide, nachzuweisen.    Angaben, die nicht den Ehegatten oder eingetragenen Lebenspartner betreffen, können unkenntlich gemacht werden, soweit die maßgeblichen Angaben ersichtlich bleiben.    Steuerfreie Einkünfte, wie zum Beispiel der Unfallausgleich nach § 38 des Sächsischen Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 47 des Sächsischen Beamtenversorgungsgesetzes, zählen nicht zum Gesamtbetrag der Einkünfte.    Einkünfte, die nicht der Steuerpflicht nach § 2 des Einkommensteuergesetzes unterliegen, sind nicht zu berücksichtigen.    Hat der berücksichtigungsfähige Angehörige eine rückwirkende Zahlung auf Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes erhalten (zum Beispiel Nachzahlung einer Erwerbsunfähigkeitsrente), ist diese dem Kalenderjahr zuzurechnen, in dem der Zahlungsanspruch bestanden hat. Nachzahlungen für mehrere Kalenderjahre sind entsprechend aufzusplitten. Wird dadurch der Ehegattengrenzbetrag rückwirkend überschritten, ist bereits ausgezahlte Beihilfe für Aufwendungen des berücksichtigungsfähigen Angehörigen aus den Jahren vor der erfolgten Nachzahlung zu belassen.  
 
 
 4.2.3                    
@@ -541,7 +525,7 @@ Zu Absatz 3
 4.3.1                    
 
 
-Aufwendungen für Vorsorgemaßnahmen sind nur nach Maßgabe des Abschnitts 4 beihilfefähig. Aufwendungen für andere vorbeugende Maßnahmen (zum Beispiel ungezielte umfassende Untersuchungen – sogenanntes Check-up) sind nicht beihilfefähig.                    
+Aufwendungen für Vorsorge- und Früherkennungsmaßnahmen sind nur nach Maßgabe des Abschnitts 4 beihilfefähig. Aufwendungen für andere vorbeugende Maßnahmen (zum Beispiel ungezielte umfassende Untersuchungen – sogenanntes Check-up) sind nicht beihilfefähig.
 
 
 4.3.2                    
@@ -599,33 +583,57 @@ Besteht eine Umsatzsteuerpflicht, erhöhen sich die dem Grunde nach beihilfefäh
 4.3.8
 
 
-In Ausnahmefällen kann die Beihilfefähigkeit von der Festsetzungsstelle ausdrücklich zugelassen werden. Damit sind Ausnahmefälle gemeint, in denen die Anwendung der Vorschriften dieser Verordnung zu einer unter Berücksichtigung des Fürsorgeprinzips nicht zu rechtfertigenden Härte führen würde. Es ist ein strenger Maßstab anzulegen. Ein Härtefall kann bei Vorliegen eines schwerwiegenden medizinischen Sachverhaltes oder bei unzumutbaren finanziellen Belastungen vorliegen, wobei die Aufwendungen für den Beihilfeberechtigten unausweichlich sein müssen, so dass er sich ihnen nicht entziehen kann. Der Nachweis einer unvermeidbaren Härte obliegt dem Beihilfeberechtigten als Mitwirkungshandlung (VGH Mannheim, Urteil vom 26. November 2015, 2 S 1075/14). Zu prüfen ist auch, ob der Härtefall eingetreten ist, weil der Beihilfeberechtigte seiner in § 193 Absatz 3 des               Versicherungsvertragsgesetzes                               statuierten Krankenversicherungspflicht beziehungsweise in § 23 Absatz 3 des                   Elften Buches Sozialgesetzbuch geregelten Pflegeversicherungspflicht nicht nachgekommen ist; gegebenenfalls ist der Beihilfeberechtigte auf die Bußgeldvorschrift des § 121 Absatz 1 Nummer 1 des                                 Elften Buches Sozialgesetzbuch hinzuweisen.                                                                             
+In Ausnahmefällen kann die Beihilfefähigkeit von der Festsetzungsstelle ausdrücklich zugelassen werden.
+
+
+Damit sind Ausnahmefälle gemeint, in denen die Anwendung der Vorschriften dieser Verordnung zu einer unter Berücksichtigung des Fürsorgeprinzips nicht zu rechtfertigenden Härte führen würde.
+
+
+Es ist ein strenger Maßstab anzulegen.
+
+
+Ein Härtefall kann bei Vorliegen eines schwerwiegenden medizinischen Sachverhaltes oder bei unzumutbaren finanziellen Belastungen vorliegen, wobei die Aufwendungen für den Beihilfeberechtigten unausweichlich sein müssen, so dass er sich ihnen nicht entziehen kann.
+
+
+Der Nachweis einer unvermeidbaren Härte obliegt dem Beihilfeberechtigten als Mitwirkungshandlung (VGH Mannheim,
+
+Urteil vom 26. November 2015, 2 S 1075/14).
 
 4.3.9
 
 
-In besonderen Härtefällen nach Satz 2 kann die Beihilfefähigkeit ausnahmsweise auch für Aufwendungen von Leistungen gegeben sein, die dem Grunde nach nicht medizinisch notwendig, nicht wirtschaftlich angemessen oder nicht wissenschaftlich anerkannt sind. Eine aus Fürsorgegesichtspunkten gebotene Erhöhung des Bemessungssatzes richtet sich nach § 57 Absatz 11 Nummer 2.                    
+Zu prüfen ist auch, ob der Härtefall eingetreten ist, weil der Beihilfeberechtigte seiner in § 193 Absatz 3 des Versicherungsvertragsgesetzes statuierten Krankenversicherungspflicht beziehungsweise in § 23 Absatz 3 des Elften Buches Sozialgesetzbuch geregelten Pflegeversicherungspflicht nicht nachgekommen ist; gegebenenfalls ist der Beihilfeberechtigte auf die Bußgeldvorschrift des § 121 Absatz 1 Nummer 1 des Elften Buches Sozialgesetzbuch hinzuweisen. Dies gilt ebenso für den berücksichtigungsfähigen Angehörigen. Mit Urteil vom 26. April 2018, 5 C 4/17 hat das Bundesverwaltungsgericht entschieden, dass ein Beamter über die Beihilfevorschriften hinausgehende Beihilfe zu pflegebedingten Aufwendungen nicht unmittelbar aus dem Fürsorgegrundsatz beanspruchen kann, wenn er oder sein berücksichtigungsfähiger Ehegatte es unterlassen haben, zumutbare Eigenvorsorge durch den Abschluss einer Pflegezusatzversicherung zu betreiben.
+
+4.3.10
 
 
-4.3.9.1
+In besonderen Härtefällen nach Satz 2 kann die Beihilfefähigkeit ausnahmsweise auch für Aufwendungen von Leistungen gegeben sein, die dem Grunde nach nicht medizinisch notwendig, nicht wirtschaftlich angemessen oder nicht wissenschaftlich anerkannt sind.
+
+Allein aus der Tatsache, dass eine Behandlung möglicherweise sinnvoll ist, folgt jedoch nicht, dass sie im Rahmen der Beihilfe als Härtefall zu erstatten wäre. Ebenso wenig kommt es darauf an, ob die wissenschaftlich nicht allgemein anerkannte Behandlungsmethode im konkreten Einzelfall zu einem therapeutischen Erfolg geführt hat, da eine solche „Erfolgsabhängigkeit“ dem Beihilferecht fremd ist (BVerwG, Urteil vom 29. Juni 1995, 2 C 15/94; OVG Berlin-Brandenburg, Beschluss vom 8. Oktober 2020, OVG 10 N 62/20 zu einer Beihilfe für eine Protonentherapie zur Behandlung eines lokal begrenzten Prostatakarzinoms).
 
 
-Hinsichtlich des Krankheitsbildes kommen als Ausnahmefall – ähnlich wie im Bereich der gesetzlichen Krankenversicherung – im Hinblick auf den Beschluss des Bundesverfassungsgerichts vom 6. Dezember 2005, 1 BvR 347/98, insbesondere Fälle einer lebensbedrohlichen oder regelmäßig tödlich verlaufenden Krankheit in Betracht (VGH Mannheim, Urteil vom 14. Juli 2010, 11 S 2730/09; vergleiche auch Beschluss des Gemeinsamen Bundesausschusses vom 20. Januar 2011, BAnz. Nr. 56 [S. 1342] vom 8. April 2011).                    
+Eine aus Fürsorgegesichtspunkten gebotene Erhöhung des Bemessungssatzes richtet sich nach § 57 Absatz 11 Nummer 2.
 
 
-4.3.9.2
+4.3.10.1
 
 
-Die Kostenerstattung einer wissenschaftlich nicht allgemein anerkannten Behandlungsmethode nach dem jeweiligen Bemessungssatz ist somit dann möglich, wenn sich eine wissenschaftlich allgemein anerkannte Methode für die Behandlung einer solchen Krankheit noch nicht herausgebildet hat, das anerkannte Heilverfahren nicht angewendet werden darf oder ein solches bereits ohne Erfolg eingesetzt worden ist. Wenn die Krankheit zwar lebensbedrohlich ist oder regelmäßig tödlich verläuft, aber zu ihrer Behandlung (Heilung, Besserung oder Linderung) allgemein anerkannte, dem medizinischen Standard entsprechende Therapien gegeben sind, besteht keine (verfassungsrechtliche) Verpflichtung, auch für die Kosten einer von dem Erkrankten zu seiner Behandlung gewählten nicht allgemein anerkannten Behandlungsmethode aufzukommen (VGH Mannheim, Urteil vom 14. Juli 2010, 11 S 2730/09). Darüber hinaus muss in diesen Fällen die nicht ganz entfernt liegende Möglichkeit bestehen, dass die nicht wissenschaftlich anerkannte Methode zu einer Heilung oder erkennbaren Linderung der Krankheitsfolgen führt. Ebenso wie im Bereich der gesetzlichen Krankenversicherung (BSG, Urteil vom 13. Oktober 2010, B 6 KA 48/09 R) ist eine reale Chance auf Heilung der Grunderkrankung selbst oder eine positive Einwirkung auf den Verlauf der Grunderkrankung ausreichend. Jedoch führt nicht jede Verbesserung der Lebensqualität, sondern nur die Erfüllung der Hoffnung des Erkrankten auf eine rettende Behandlung in einer aussichtslosen gesundheitlichen Situation dazu, dass auch die Kosten wissenschaftlich nicht anerkannter Behandlungsmethoden im Ausnahmefall von der Beihilfe zu übernehmen sind.                    
+Hinsichtlich des Krankheitsbildes kommen als Ausnahmefall – ähnlich wie im Bereich der gesetzlichen Krankenversicherung – im Hinblick auf den Beschluss des Bundesverfassungsgerichts vom 6. Dezember 2005, 1 BvR 347/98, insbesondere Fälle einer lebensbedrohlichen oder regelmäßig tödlich verlaufenden Krankheit in Betracht (VGH Mannheim, Urteil vom 14. Juli 2010, 11 S 2730/09; vergleiche auch Beschluss des Gemeinsamen Bundesausschusses vom 20. Januar 2011, BAnz. Nr. 56 [S. 1342] vom 8. April 2011).
 
 
-4.3.9.3
+4.3.10.2
+
+
+Die Kostenerstattung einer wissenschaftlich nicht allgemein anerkannten Behandlungsmethode nach dem jeweiligen Bemessungssatz ist somit dann möglich, wenn sich eine wissenschaftlich allgemein anerkannte Methode für die Behandlung einer solchen Krankheit noch nicht herausgebildet hat, das anerkannte Heilverfahren nicht angewendet werden darf oder ein solches bereits ohne Erfolg eingesetzt worden ist. Wenn die Krankheit zwar lebensbedrohlich ist oder regelmäßig tödlich verläuft, aber zu ihrer Behandlung (Heilung, Besserung oder Linderung) allgemein anerkannte, dem medizinischen Standard entsprechende Therapien gegeben sind, besteht keine (verfassungsrechtliche) Verpflichtung, auch für die Kosten einer von dem Erkrankten zu seiner Behandlung gewählten nicht allgemein anerkannten Behandlungsmethode aufzukommen (VGH Mannheim, Urteil vom 14. Juli 2010, 11 S 2730/09). Darüber hinaus muss in diesen Fällen die nicht ganz entfernt liegende Möglichkeit bestehen, dass die nicht wissenschaftlich anerkannte Methode zu einer Heilung oder erkennbaren Linderung der Krankheitsfolgen führt. Ebenso wie im Bereich der gesetzlichen Krankenversicherung (BSG, Urteil vom 13. Oktober 2010, B 6 KA 48/09 R) ist eine reale Chance auf Heilung der Grunderkrankung selbst oder eine positive Einwirkung auf den Verlauf der Grunderkrankung ausreichend. Jedoch führt nicht jede Verbesserung der Lebensqualität, sondern nur die Erfüllung der Hoffnung des Erkrankten auf eine rettende Behandlung in einer aussichtslosen gesundheitlichen Situation dazu, dass auch die Kosten wissenschaftlich nicht anerkannter Behandlungsmethoden im Ausnahmefall von der Beihilfe zu übernehmen sind.
+
+
+4.3.10.3
 
 
 Die ausgeschlossene Thymustherapie einschließlich einer Behandlung mit Thymuspräparaten oder die teilweise ausgeschlossene Hyperthermiebehandlung können demnach bei Krebserkrankungen beihilfefähig sein, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben.
 
 
-4.3.10
+4.3.11
 
 
 Ein genereller Ausschluss der Beihilfefähigkeit von Aufwendungen nach § 5 geht § 4 Absatz 3 Satz 2 vor. Nach § 5 ausgeschlossene Aufwendungen können daher nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein (vergleiche § 5 Absatz 5).                    
@@ -658,7 +666,10 @@ Im Regelfall sind von der gesetzlichen Krankenversicherung anerkannte neue Behan
 4.4.4                    
 
 
-Eine Beihilfefähigkeit der Aufwendungen für die in Anlage 1 zu § 4 in Nummer 1 Buchstabe L ausgeschlossene Laserbehandlung ist nur im Rahmen der Physikalischen Therapie nicht gegeben. Die Physikalische Therapie fasst medizinische Behandlungsformen (im Wesentlichen physiotherapeutische Maßnahmen) zusammen, die natürliche Reaktionen auf äußere Reizsetzungen nutzen (Reiz-Reaktions-Prinzip). Der Ausschluss der Laserbehandlung erstreckt sich nicht auf andere Behandlungsverfahren, wie zum Beispiel chirurgische. Aufwendungen für Liposuktion bei Lipödem sind nicht mehr generell von der Beihilfefähigkeit ausgeschlossen. Eine Beihilfefähigkeit der Aufwendungen kann im Einzelfall gegeben sein, weil es an anerkannten Heilverfahren fehlt, die eine Heilung oder wesentliche Besserung eines Lipödems bewirken könnten
+Eine Beihilfefähigkeit der Aufwendungen für die in Anlage 1 zu § 4 in Nummer 1 Buchstabe L ausgeschlossene Laserbehandlung ist nur im Rahmen der Physiotherapie nicht gegeben.
+
+
+Der Ausschluss der Laserbehandlung erstreckt sich nicht auf andere Behandlungsverfahren, wie zum Beispiel chirurgische. Aufwendungen für Liposuktion bei Lipödem sind nicht mehr generell von der Beihilfefähigkeit ausgeschlossen. Eine Beihilfefähigkeit der Aufwendungen kann im Einzelfall gegeben sein, weil es an anerkannten Heilverfahren fehlt, die eine Heilung oder wesentliche Besserung eines Lipödems bewirken könnten
 
 (vergleiche VG Köln, Urteil vom 2. Februar 2017, 1 K 1983/16). Zudem besteht Aussicht, dass die Liposuktion als Behandlungsmethode nach einer Erprobungsphase noch wissenschaftlich allgemein anerkannt werden kann. Die Notwendigkeit einer Liposuktion bei Lipödem ist gegeben, wenn ein Lipödem fortgeschrittenem Stadiums (ICD-10-Codes E 88.21 oder E 88.22) ärztlich diagnostiziert wurde und trotz konsequent durchgeführter konservativer Therapie (insbesondere Kompressionstherapie, manuelle Lymphdrainage, Bewegungstherapie, Ernährungsumstellung) Beschwerden fortbestehen (vergleiche hierzu S1-Leitlinie 037/012: Lipödem). Zur Feststellung der Notwendigkeit soll insbesondere in Zweifelsfällen (Abgrenzung zu kosmetischen Eingriffen) ein Gutachten eines Amts- oder Vertrauensarztes herangezogen werden.
 
@@ -684,7 +695,12 @@ Urteil vom 17. Januar 2019, 3 K 841/18).
 4.4.8
 
 
-Die Aufwendungen einer ambulant oder stationär durchgeführten Genexpressionsdiagnostik bei Mammakarzinom (zum Beispiel Mammaprint, OncotypeDX, EndoPredict und Prosigna-Test) sind im Einzelfall beihilfefähig, wenn die in der Richtlinie des Gemeinsamen Bundesausschusses über die ambulante spezialfachärztliche Versorgung (ASV) nach § 116b des Fünften Buches Sozialgesetzbuch genannten medizinischen Indikationen und Voraussetzungen (vergleiche Anlage 1.1 Buchstabe a Tumorgruppe 2) vorliegen. Die Durchführung kann auch außerhalb der ASV erfolgen. Im Rahmen einer stationären Behandlung sind die Aufwendungen ebenfalls gesondert beihilfefähig. Aufwendungen für einen notwendigen Oncotype DX Test sind bis zur Höhe von 3 296,14 Euro wirtschaftlich angemessen. Die Auslagen müssen nicht gesondert aufgeschlüsselt sein.    
+Die Aufwendungen für biomarkerbasierte Testverfahren zur Durchführung einer Genexpressionsdiagnostik beim primären Mammakarzinom sind dem Grunde nach im Rahmen der ambulanten und stationären Behandlung beihilfefähig. Diese Tests bestimmen das Rezidivrisiko beziehungsweise die Chancen einer Chemotherapie (vergleiche auch Nummer 30 der Richtlinie des Gemeinsamen Bundesausschusses zu Untersuchungs- und Behandlungsmethoden der vertragsärztlichen Versorgung). Die Notwendigkeit von Genexpressionsanalysen ist gegeben, wenn die in der Richtlinie des Gemeinsamen Bundesausschusses über die ambulante spezialfachärztliche Versorgung (ASV) nach § 116b des Fünften Buches Sozialgesetzbuch genannten medizinischen Indikationen und Voraussetzungen (vergleiche Anlage 1.1 Buchstabe a Tumorgruppe 2) vorliegen oder diese im Einzelfall nachvollziehbar begründet ist. Die Durchführung kann auch außerhalb der ASV erfolgen. Im Rahmen einer stationären Behandlung sind die Aufwendungen ebenfalls gesondert beihilfefähig. Beihilfefähig sind insbesondere die Aufwendungen für die vom Gemeinsamen Bundesausschuss zugelassenen Tests (Stand 1. Januar 2021: MammaPrint®, Oncotype DX Breast Recurrence Score®, EndoPredict® und Prosigna®) sowie die von der Arbeitsgemeinschaft Gynäkologische Onkologie (AGO) empfohlenen Genexpressionstests. Zur Beurteilung der wirtschaftlichen Angemessenheit der Aufwendungen können zur Orientierung die für den Bereich der gesetzlichen Krankenkassen vereinbarten Vergütungen herangezogen werden. Solange es keine Vergütungsvereinbarungen hierzu gibt, sind Aufwendungen bis zu 4 000 Euro dem Grunde nach beihilfefähig. Sofern Vereinbarungen mit privaten Krankenversicherungsunternehmen geschlossen werden, sind diese maßgeblich für die Beihilfefähigkeit. Das Staatsministerium der Finanzen wird über Vereinbarungen der PKV informieren. Die Auslagen müssen nicht gesondert aufgeschlüsselt sein.
+
+4.4.9
+
+
+Bei der Behandlung der sogenannten NICO (Neuralgia Inducing Cavitational Osteonecrosis), der fettig-degenerativen Osteolyse/Osteonekrose im Kieferknochen oder ähnlichen Diagnosen, handelt es sich um medizinisch nicht notwendige Maßnahmen, da die Wirksamkeit durch wissenschaftlich medizinisch fundierte Studienuntersuchungen nicht belegt ist. Darüber hinaus ist das vermeintliche Krankheitsbild der NICO weder nach ICD10 Schlüssel noch in den Verzeichnissen der WHO als Erkrankung gelistet. Es besteht daher keine medizinische Notwendigkeit für die Durchführung der Diagnostik und der Behandlungen dieser Erkrankung, wie zum Beispiel Cavitat-Diagnostik, OroTox-Tests sowie die Entfernung eines chronischen NICOStörfeldes. Aufwendungen für diese Maßnahmen sind nicht beihilfefähig.
 
 
 4.5                     
@@ -847,7 +863,7 @@ Der Zahnarzt kann Vergütungen für erbrachte Leistungen nur nach der Gebühreno
 
 Im Zusammenhang mit den in der zahnärztlichen Therapie gängigen Röntgenaufnahmen (Nummern 5000, 5002 und 5004 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte) ist eine Berechnung der Nummer 5298 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte nicht beihilfefähig. Von der Nummer 5000 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte ist die Röntgenaufnahme eines Zahns, Implantats oder zahnlosen Kieferabschnitts je Projektion umfasst. Die  Abrechnungsbestimmung nach der Nummer 5000 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte ist bei der Beurteilung der Beihilfefähigkeit zu beachten.  
 
-4.5.9.2                    
+4.5.9.2
 
 
 Zum Gebührenverzeichnis (Anlage 1 zur               Gebührenordnung für Zahnärzte)                                                               
@@ -972,7 +988,7 @@ Zu Nummern 2160 und 2170
 Nach der Leistungsbeschreibung handelt es sich nicht um Aufbaufüllungen (Nummern 2180 ff.), sondern ausschließlich um Füllungsversorgungen. Es besteht daher keine Beihilfefähigkeit für Aufwendungen der Gebührennummern 2160 und 2170 (analog) vor einer Überkronung von Zähnen, da es sich bei den vorbereitenden Tätigkeiten für eine prothetische Versorgung um Leistungen nach den Nummern 2180 ff. handelt (so auch AG Köln, Urteil vom 30. Juni 2003, 116 C 110/02).                     
 
 
-4.5.9.2.10                    
+4.5.9.2.10
 
 
 Zu Nummer 2197
@@ -993,7 +1009,7 @@ Im Zusammenhang mit der Versiegelung von kariesfreien Zahnfissuren mit aushärte
 c)                    
 
 
-Die Leistung nach Nummer 2197 ist für eine adhäsive Befestigung von Klebebrackets (Nummer 6100) nicht beihilfefähig (vergleiche OVG Bautzen,  Urteil vom 24. August 2018, 2 A 887/16), da deren Leistungsinhalt eine „Klebebefestigung“ umfasst (vergleiche Nummer 4.5.9.1.1).  Die Nummer 6100 umfasst als Leistung die Eingliederung eines Klebebrackets.  Der Begriff „Klebebracket“ setzt zwingend voraus, dass das Bracket „geklebt“ wird.  Auch wenn in der Gebührenordnung für Zahnärzte von „Klebebrackets“ und nicht von „adhäsiv befestigten Brackets“ die Rede ist, muss aufgrund der Synonymie beider Begriffe davon ausgegangen werden, dass § 4 Absatz 2 Satz 2 der Gebührenordnung für Zahnärzte für Klebebrackets in dem Sinn gilt, dass die Nummer 2197 für die adhäsive Befestigung nicht zusätzlich berechnet werden kann; das Kleben ist bereits Bestandteil der Leistung nach Nummer 6100.  Schon das Befestigen bei Verwendung von Kompositklebern stellt einen methodisch notwendigen Bestandteil für Leistungen nach Nummer 6100 dar und ist nicht gesondert beihilfefähig.  Zudem ist aufgrund des geringeren Aufwandes eine Vergleichbarkeit mit einer Leistung nach Nummer 2197 nicht gegeben (hierzu AG Burgdorf, Urteil vom 20. Januar 2014, 13 C 338/13 und AG Nürnberg, Urteil vom 21. April 2015, 12 C 7440/14).                      
+Die Leistung nach Nummer 2197 ist für eine adhäsive Befestigung von Klebebrackets (Nummer 6100) nicht beihilfefähig (vergleiche BVerwG, Urteil vom 5. März 2021, 5 C 11/19, OVG Bautzen, Urteile vom 24. August 2018, 2 A 887/16 und 5. Juli 2019, 2 A 301/17), da deren Leistungsinhalt eine „Klebebefestigung“ umfasst (vergleiche Nummer 4.5.9.1.1).  Die Nummer 6100 umfasst als Leistung die Eingliederung eines Klebebrackets.  Der Begriff „Klebebracket“ setzt zwingend voraus, dass das Bracket „geklebt“ wird.  Auch wenn in der Gebührenordnung für Zahnärzte von „Klebebrackets“ und nicht von „adhäsiv befestigten Brackets“ die Rede ist, muss aufgrund der Synonymie beider Begriffe davon ausgegangen werden, dass § 4 Absatz 2 Satz 2 der Gebührenordnung für Zahnärzte für Klebebrackets in dem Sinn gilt, dass die Nummer 2197 für die adhäsive Befestigung nicht zusätzlich berechnet werden kann; das Kleben ist bereits Bestandteil der Leistung nach Nummer 6100.  Schon das Befestigen bei Verwendung von Kompositklebern stellt einen methodisch notwendigen Bestandteil für Leistungen nach Nummer 6100 dar und ist nicht gesondert beihilfefähig.  Zudem ist aufgrund des geringeren Aufwandes eine Vergleichbarkeit mit einer Leistung nach Nummer 2197 nicht gegeben (hierzu OVG Bautzen, Urteil vom 5. Juli 2019, 2 A 301/17, AG Burgdorf, Urteil vom 20. Januar 2014, 13 C 338/13 und AG Nürnberg, Urteil vom 21. April 2015, 12 C 7440/14).                      
 
 
 d)                    
@@ -1035,7 +1051,7 @@ Die Leistung nach Nummer 2420 setzt ein spezielles elektrophysikalisch-chemische
 Zu Nummer 3050            
 
 
-Die Nummer 3050 ist im Rahmen der dentoalveolären Chirurgie gegebenenfalls als selbständige Leistung zusätzlich berechenbar und beihilfefähig, wenn die Blutung das typische Maß bei dem Eingriff deutlich übersteigt und eine Unterbrechung der eigentlichen operativen Maßnahme erfordert. In allen anderen Fällen sind Blutstillungsmaßnahmen (auch größeren Umfangs), die ortsgleich mit chirurgischen Leistungen erfolgen, Bestandteil der jeweiligen Hauptleistung. Die Leistung nach Nummer 3050 ist dann nicht gesondert beihilfefähig. Dies gilt auch für die chirurgischen Leistungen aus der                 Gebührenordnung für Ärzte, die für den Zahnarzt gemäß § 6 Absatz 2 der                             Gebührenordnung für Zahnärzte geöffnet sind.                                             
+Die Nummer 3050 ist im Rahmen der dentoalveolären Chirurgie gegebenenfalls als selbständige Leistung zusätzlich berechenbar und beihilfefähig, wenn die Blutung das typische Maß bei dem Eingriff deutlich übersteigt und eine Unterbrechung der eigentlichen operativen Maßnahme erfordert. In allen anderen Fällen sind Blutstillungsmaßnahmen (auch größeren Umfangs), die ortsgleich mit chirurgischen Leistungen erfolgen, Bestandteil der jeweiligen Hauptleistung. Die Leistung nach Nummer 3050 ist dann nicht gesondert beihilfefähig. Dies gilt auch für die chirurgischen Leistungen aus der                 Gebührenordnung für Ärzte, die für den Zahnarzt gemäß § 6 Absatz 2 der                             Gebührenordnung für Zahnärzte geöffnet sind.                                               
 
 
 4.5.9.2.15                    
@@ -1121,19 +1137,17 @@ Aufwendungen für eine Gebühr nach Nummer 5170 sind regelmäßig nur im Zusamme
 4.5.9.2.24
 
 
-Zu Abschnitt G Kieferorthopädische Leistungen
-
-
-Aufwendungen für Materialien, die auf Grund einer gesonderten Vereinbarung mit dem Beihilfeberechtigten nach den Allgemeinen Bestimmungen zu Abschnitt G berechnet werden, sind neben den Gebühren nach den Nummern 6100, 6120, 6140 oder 6150 nicht beihilfefähig (vergleiche § 14 Absatz 1 Satz 1 und Nummer 14.1.3). Die üblichen Materialien (Standardmaterialien) sind nach den Allgemeinen Bestimmungen zu Abschnitt G mit diesen Gebühren abgegolten.
+Zu Nummer 5210
+Im Falle einer sattelfreien, rein parodontal abgestützten teleskopierenden Brücke – im Gegensatz zu einer Teleskopprothese – sind die Aufwendungen für die Nummer 5210 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte nicht zusätzlich zu den Nummern 5040 und 5070 beihilfefähig.
 
 
 4.5.9.2.25
 
 
-Zu Nummern 6030 bis 6080
+Zu Abschnitt G Kieferorthopädische Leistungen
 
 
-Auf Nummer 12.3 wird hingewiesen.
+Aufwendungen für Materialien, die auf Grund einer gesonderten Vereinbarung mit dem Beihilfeberechtigten nach den Allgemeinen Bestimmungen zu Abschnitt G berechnet werden, sind neben den Gebühren nach den Nummern 6100, 6120, 6140 oder 6150 nicht beihilfefähig (vergleiche § 14 Absatz 1 Satz 1 und Nummer 14.1.3). Die üblichen Materialien (Standardmaterialien) sind nach den Allgemeinen Bestimmungen zu Abschnitt G mit diesen Gebühren abgegolten.
 
 
 4.5.9.2.26
@@ -1144,6 +1158,8 @@ Zu Nummern 6100 und 6140
 
 Maßnahmen zur Retention (dazu werden Lingualretainer eingesetzt) sind bereits in den Nummern 6030 bis 6080 berücksichtigt.
 
+Zusätzliche Aufwendungen in analoger Anwendung der Nummern 6100 und 6140 sind nicht beihilfefähig (BVerwG, Urteil vom 26. Februar 2021, 5 C 7/19).
+
 
 4.5.9.2.27
 
@@ -1151,7 +1167,7 @@ Maßnahmen zur Retention (dazu werden Lingualretainer eingesetzt) sind bereits i
 Zu Nummer 6130
 
 
-Die Aufwendungen für die Entfernung eines Bogens oder Teilbogens sind analog nach der Nummer 6130 beihilfefähig; der Ansatz der Nummer 2702 des  Gebührenverzeichnisses zur Gebührenordnung für Ärzte analog oder Nummer 2290 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte (hierzu OVG Münster, Urteil vom 23. November 2018, 1 A 2596/16) ist dagegen nicht angemessen.  
+Die Aufwendungen für die Entfernung eines Bogens oder Teilbogens sind analog nach der Nummer 6130 beihilfefähig; der Ansatz der Nummer 2702 des  Gebührenverzeichnisses zur Gebührenordnung für Ärzte analog oder Nummer 2290 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte (hierzu OVG Münster, Urteil vom 23. November 2018, 1 A 2596/16) ist dagegen nicht angemessen.    
 
 
 4.5.9.2.28
@@ -1201,8 +1217,35 @@ mit Eigenknochen im Bereich der Implantatschulter bei zeitgleicher Implantation 
 Zu Nummer 9140
 
 
-Die extraorale Entnahme von Knochen, zum Beispiel aus dem Beckenkamm oder der Schädelkalotte, ist im Gegensatz zur intraoralen Entnahme von Knochen (Nummer 9040) im Rahmen der              Gebührenordnung für Ärzte beihilfefähig. Die intraorale Einbringung von Knochenmaterial ist im Rahmen der Gebühren für die Leistung nach Nummer 9100 und gegebenenfalls Nummer 9150 beihilfefähig.              
+Die extraorale Entnahme von Knochen, zum Beispiel aus dem Beckenkamm oder der Schädelkalotte, ist im Gegensatz zur intraoralen Entnahme von Knochen (Nummer 9040) im Rahmen der              Gebührenordnung für Ärzte beihilfefähig. Die intraorale Einbringung von Knochenmaterial ist im Rahmen der Gebühren für die Leistung nach Nummer 9100 und gegebenenfalls Nummer 9150 beihilfefähig.                
 
+
+4.5.9.2.32
+
+
+Analogabrechnung gemäß § 6 Absatz 1 der Gebührenordnung für Zahnärzte
+
+
+a)
+
+Wurzelamputation
+Die Entfernung einer oder mehrerer Wurzeln eines mehrwurzeligen Zahnes (Wurzelamputation) unter Belassung der klinischen oder prothetischen Krone stellt eine selbstständige Leistung dar und wird gemäß § 6 Absatz 1 der Gebührenordnung für Zahnärzte analog berechnet. Angemessen sind insbesondere – je nach Aufwand – Aufwendungen für die Gebühren nach den Nummern 3110, 3120 oder 3130.
+
+
+b)
+
+„Table Tops“
+„Table Tops“ als langzeitprovisorische Maßnahme im indirekten Verfahren (laborgefertigt) stellen eine selbstständige Leistung dar und werden gemäß § 6 Absatz 1 der Gebührenordnung für Zahnärzte analog berechnet. Angemessen sind insbesondere Aufwendungen nach Nummer 7080. Im Falle einer adhäsiven Befestigung sind zusätzlich Aufwendungen nach Nummer 2197 beihilfefähig.
+
+
+c)
+
+„Table Tops“ als definitive Maßnahme sind als Oberbegriff für die Versorgung von verlorengegangenen Funktionsflächen als Folge einer Fehlfunktion der Okklusion und Artikulation zu verstehen. Entsprechend des Defektes unterscheiden sich die Table Tops in ihrer Ausdehnung voneinander. Dementsprechend richtet sich die Beihilfefähigkeit der analog abgerechneten Aufwendungen nach der konkreten Ausdehnung der verlorengegangenen Funktionsflächen. Table Tops sind nur beihilfefähig, wenn alle notwendigen Schritte einer Funktionsdiagnostik/-therapie durchgeführt worden sind (zum Beispiel Schienentherapie).
+
+
+d)
+
+Das Umarbeiten einer definitiven Krone oder Brücke zu einem Provisorium sowie die Wiederbefestigung der definitiven Krone oder Brücke zum provisorischen Verbleib sind im Gebührenverzeichnis der Gebührenordnung für Zahnärzte nicht beschrieben. Die Leistung wird gemäß § 6 Absatz 1 der Gebührenordnung für Zahnärzte analog berechnet. Angemessen sind die Aufwendungen insbesondere – je nach Aufwand – für die Nummern 2260, 2270 oder 5120 je Zahn beziehungsweise Brückenpfeiler. Das Wiedereingliedern dieses Provisoriums, gegebenenfalls auch mehrmals, einschließlich Entfernung, ist mit der Analoggebühr abgegolten und nicht gesondert beihilfefähig.
 
 4.5.9.3
 
@@ -1235,7 +1278,31 @@ Zu Absatz 6
 4.6.1                    
 
 
-Die beihilferechtliche Berücksichtigung von Pauschalabrechnungen nach Maßgabe eines Vertrages oder einer Vereinbarung von Krankenkassen nach dem Fünften Buch Sozialgesetzbuch, von Unternehmen privater Krankenversicherungen oder anderen Kostenträgern mit Leistungserbringern setzt voraus, dass in den Abrechnungsunterlagen in geeigneter Weise auf die vertragliche Vereinbarung Bezug genommen wird. Kostenträger sind beispielsweise auch der Bund, die Länder, die Postbeamtenkrankenkasse oder die Krankenversorgung der Bundesbahnbeamten. Die Rechnungen bedürfen keiner weiteren Prüfung durch die Festsetzungsstelle. Die Pauschalbeträge können als beihilfefähig anerkannt werden (zum Beispiel Vergütungsvereinbarungen des PKVVerbandes mit Cyberknife-Zentren, Kooperationsvereinbarung des PKV-Verbandes mit der Tele-Arzt-GmbH).  Sofern ein Unternehmen der privaten Krankenversicherung unterschiedliche Tarifvereinbarungen mit dem Leistungserbringer abgeschlossen hat, gilt dies nur für den Bereich des Grundtarifs einschließlich wahlärztlicher Leistungen, der im Regelfall bereits die Unterbringung im Zweibettzimmer umfasst. Ausgewiesene Komforttarife, die ein besonderes Wahlleistungsangebot über den beihilfefähigen Umfang hinaus umfassen (zum Beispiel Einbettzimmer), beinhalten insoweit Leistungen, die nicht notwendig und wirtschaftlich angemessen und damit nicht beihilfefähig sind. Bestehen Verträge mit verschiedenen Versicherungsunternehmen, ist vorrangig der Vertrag der Beihilfefestsetzung zu Grunde zu legen, der mit dem Unternehmen, bei dem der Beihilfeberechtigte versichert ist, abgeschlossen wurde.                                           
+Die beihilferechtliche Berücksichtigung von Pauschalabrechnungen nach Maßgabe eines Vertrages oder einer Vereinbarung von Krankenkassen nach dem Fünften Buch Sozialgesetzbuch, von Unternehmen privater Krankenversicherungen oder anderen Kostenträgern mit Leistungserbringern setzt voraus, dass in den Abrechnungsunterlagen in geeigneter Weise auf die vertragliche Vereinbarung Bezug genommen wird.    Kostenträger sind beispielsweise auch der Bund, die Länder, die Postbeamtenkrankenkasse oder die Krankenversorgung der Bundesbahnbeamten.    Die Rechnungen bedürfen keiner weiteren Prüfung durch die Festsetzungsstelle.    Die Pauschalbeträge können als beihilfefähig anerkannt werden. Beispiele sind:
+
+
+a)
+
+Vergütungsvereinbarungen des PKV-Verbandes mit Cyberknife-Zentren,
+
+
+b)
+
+Kooperationsvereinbarung des PKV-Verbandes mit der Tele-Arzt-GmbH,
+
+
+c)
+
+Rahmenvereinbarung des PKV-Verbandes mit dem Universitätsklinikum Köln und Kooperationspartnern über die Implementierung von molekularer Diagnostik und personalisierter Therapie bei Lungenkrebs im Netzwerk Genomische Medizin (NGM).
+
+
+Sofern ein Unternehmen der privaten Krankenversicherung unterschiedliche Tarifvereinbarungen mit dem Leistungserbringer abgeschlossen hat, gilt dies nur für den Bereich des Grundtarifs einschließlich wahlärztlicher Leistungen, der im Regelfall bereits die Unterbringung im Zweibettzimmer umfasst.
+
+
+Ausgewiesene Komforttarife, die ein besonderes Wahlleistungsangebot über den beihilfefähigen Umfang hinaus umfassen (zum Beispiel Einbettzimmer), beinhalten insoweit Leistungen, die nicht notwendig und wirtschaftlich angemessen und damit nicht beihilfefähig sind.
+
+
+Bestehen Verträge mit verschiedenen Versicherungsunternehmen, ist vorrangig der Vertrag der Beihilfefestsetzung zu Grunde zu legen, der mit dem Unternehmen, bei dem der Beihilfeberechtigte versichert ist, abgeschlossen wurde.                      
 
 4.6.2                    
 
@@ -1269,7 +1336,19 @@ Zu Absatz 7
 4.7.1                    
 
 
-Für aktive Beamte, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet oder zugewiesen sind (§ 4 Absatz 7), sind die bei einzelnen Paragraphen (zum Beispiel § 20 Absatz 4, § 32 Absatz 4, § 33 Absatz 2, § 35 Absatz 5, § 38 Absatz 4, § 44 Absatz 5) genannten Sonderregelungen zu beachten. Ein Kaufkraftausgleich wird nicht berücksichtigt. Der dienstliche Wohnsitz bestimmt sich nach § 66 Absatz 1 Satz 2 des Sächsischen Besoldungsgesetzes in Verbindung mit § 15 des Bundesbesoldungsgesetzes.            
+Für aktive Beamte, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet oder zugewiesen sind (§ 4 Absatz 7), sind die bei einzelnen Paragraphen (zum Beispiel § 20 Absatz 4, § 32 Absatz 4, § 33 Absatz 2, § 35 Absatz 5, § 38 Absatz 4, § 44 Absatz 5) genannten Sonderregelungen zu beachten. Ein Kaufkraftausgleich wird nicht berücksichtigt. Der dienstliche Wohnsitz bestimmt sich nach § 66 Absatz 1 Satz 2 des Sächsischen Besoldungsgesetzes in Verbindung mit § 15 des Bundesbesoldungsgesetzes.  
+
+
+4.8
+
+
+Zu Absatz 8
+
+
+4.8.1
+
+
+Das Staatsministerium der Finanzen gibt die vorübergehenden Änderungen einschließlich deren Geltungsdauer bekannt.
 
 
 5                     
@@ -1287,7 +1366,7 @@ Zu Absatz 1
 5.1.1                    
 
 
-Zu den von der Beihilfe ausgeschlossenen pädagogischen Maßnahmen zählen zum Beispiel Maßnahmen der Heilpädagogik, der Sprachheilpädagogik, der Motopädie, der Sozialpädagogik und der Montessoripädagogik. Aufwendungen zur Behandlung einer Legasthenie oder Dyskalkulie sind deshalb nur beihilfefähig, wenn die Behandlung unter ärztlicher oder gegebenenfalls psychotherapeutischer Leitung und Aufsicht durchgeführt wird (VGH München, Urteil vom 26. Oktober 1994, 3 B 94.138; OVG Hamburg, Urteil vom 31. Oktober 1996, Bf I 16/96).                    
+Zu den von der Beihilfe ausgeschlossenen pädagogischen Maßnahmen zählen zum Beispiel Maßnahmen der Heilpädagogik, der Motopädie, der Sozialpädagogik und der Montessoripädagogik. Aufwendungen zur Behandlung einer Legasthenie oder Dyskalkulie sind deshalb nur beihilfefähig, wenn die Behandlung unter ärztlicher oder gegebenenfalls psychotherapeutischer Leitung und Aufsicht durchgeführt wird (VGH München, Urteil vom 26. Oktober 1994, 3 B 94.138; OVG Hamburg, Urteil vom 31. Oktober 1996, Bf I 16/96).
 
 
 5.1.2                    
@@ -1304,84 +1383,60 @@ Sofern der Ersatzanspruch auf einem Ereignis beruht, welches nach § 90 des
 Sächsischen Beamtengesetzes auf den Dienstherrn übergeht, sind die damit zusammenhängenden Aufwendungen beihilfefähig.
 
 
-5.2                     
+5.2
 
 
-Zu Absatz 2                     
+Zu Absatz 2
 
 
-5.2.1                    
-
-
-Der Beihilfeanspruch ist dann nicht ausgeschlossen, wenn die behandelte Person durch eine Person behandelt wird, die mit dem nahen Angehörigen eine Gemeinschaftspraxis betreibt.                    
-
-
-5.2.2                    
-
-
-Der Ausschluss besteht nur, wenn es sich um Heilmaßnahmen, also zum Beispiel ärztliche Leistungen oder Heilmittel, handelt. Auch Untersuchungen, wie Vorsorgeuntersuchungen oder diagnostische Untersuchungen sind den Heilmaßnahmen in diesem Sinne zuzuordnen. Nicht ausgeschlossen sind beispielsweise Pflegeleistungen (vergleiche § 30 Absatz 3, § 51 Absatz 2) oder Leistungen der Familien- und Haushaltshilfe von Angehörigen (vergleiche § 35 Absatz 3).                    
-
-
-5.2.3                    
-
-
-Der Ausschluss besteht auch nicht in den Fällen des § 47 Absatz 1 (Erste Hilfe). Konnte die erforderliche medizinische Behandlung nur in der Praxis des nahen Angehörigen durchgeführt werden oder war es der behandelten Person aus tatsächlichen Gründen nicht möglich oder zumutbar, eine andere Praxis aufzusuchen und übersteigt der Umfang der Behandlung deutlich das Maß dessen, was üblicherweise noch unentgeltlich geleistet wird, ist die Beihilfefähigkeit ebenfalls nicht ausgeschlossen (vergleiche hierzu BVerwG, Urteil vom 29. September 2011, 2 C 80/10). Das kann etwa in Betracht kommen, wenn die Behandlung durch den nahen Angehörigen aus medizinischen Gründen geboten ist, weil dieser zu den wenigen Spezialisten gehört, die die in Frage kommende Behandlung überhaupt durchführen können.                    
-
-
-5.3                     
-
-
-Zu Absatz 3                     
-
-
-5.3.1                    
+5.2.1
 
 
 Die Beihilfefähigkeit von Aufwendungen ist grundsätzlich auf notwendige Aufwendungen in angemessenem Umfang begrenzt. Deshalb sind Aufwendungen, die durch einen krankheitsbedingt erforderlichen Rücktransport anlässlich einer privaten Reise veranlasst werden, nicht beihilfefähig. Reisekosten sind anlässlich Behandlungen außerhalb der Europäischen Union und Rückbeförderungen wegen Erkrankung während der Urlaubsreise auch von Urlaubsorten innerhalb der Europäischen Union nicht beihilfefähig. Da die Wahl von Behandlungsorten außerhalb der Europäischen Union und von Urlaubsorten in der Einflusssphäre des Beihilfeberechtigen und der berücksichtigungsfähigen Angehörigen liegt, ist eine Fürsorgeleistung des Dienstherrn grundsätzlich nicht geboten. In den seltenen Fällen, in denen eine medizinische Behandlung in Staaten der Europäischen Union nicht erfolgen kann, ist über die allgemeine Härtefallklausel des § 4 Absatz 3 Satz 2 die Möglichkeit eröffnet, Fahrtkosten zu erstatten. Bei der Entscheidung ist ein strenger Maßstab anzulegen.                    
 
 
-5.3.2                    
+5.2.2
 
 
 Fahrtkosten für genehmigte stationäre Rehabilitationsmaßnahmen (§ 7 Absatz 2, § 38 Absatz 4) oder Kuraufenthalte am Toten Meer (§ 39 Absatz 5) sind nach den dortigen Spezialvorschriften beihilfefähig.                    
 
 
-5.4                     
+5.3
 
 
-Zu Absatz 4                     
+Zu Absatz 3
 
 
-5.4.1
+5.3.1
 
 Der Beihilfeberechtigte und seine berücksichtigungsfähigen Angehörigen können ihr Sicherungssystem (Gesetzliche Krankenversicherung [GKV] oder Private Krankenversicherung [PKV] und Beihilfe) frei wählen. Ist der Beihilfeberechtigte beihilfekonform in der PKV versichert oder ist er heilfürsorgeberechtigt, können die berücksichtigungsfähigen Kinder unabhängig vom Versicherungsstatus des anderen Elternteils beihilfekonform in der PKV versichert werden. Für deren Aufwendungen wird Beihilfe zum Bemessungssatz gewährt. Die Kinder müssen nicht zwangsläufig Leistungen aus einer gegebenenfalls bestehenden Familienversicherung des Ehepartners bei der GKV in Anspruch nehmen. Besteht jedoch keine beihilfekonforme Versicherung für die Kinder bei der PKV und nehmen diese die Sachleistungen der GKV in Anspruch oder ist der Beihilfeberechtigte selbst in der GKV versichert, kann für die Aufwendungen der Kinder nur für die in § 80 Absatz 5 des Sächsischen Beamtengesetzes genannten Leistungsarten (Zahnersatz, Heilpraktiker, Sehhilfen nach Vollendung des 18. Lebensjahres und auf Wahlleistungen im Krankenhaus) Beihilfe gewährt werden.
 
 
-5.4.2
+5.3.2
 
 
 Zahnersatz ist für Mitglieder von gesetzlichen Krankenkassen und deren familienversicherten Angehörigen nach den Maßgaben der §§ 10 bis 14 und § 57 Absatz 7 beihilfefähig. Zur Versorgung mit Zahnersatz gehören insbesondere prothetische Leistungen, implantologische Leistungen gegebenenfalls mit Knochenaufbau, Interimszahnersatz, funktionsanalytische und funktionstherapeutische Leistungen und Kronen. Bei Zahnersatz auf Implantaten kann beispielsweise zu den implantologischen Leistungen und den darauf aufbauenden Suprakonstruktionen (Krone, Brücke, Prothese) Beihilfe gewährt werden. Nicht beihilfefähig sind demgegenüber Aufwendungen für die in Satz 1 und 2 genannten Leistungen, wenn diese außerhalb der Versorgung mit Zahnersatz erbracht werden, oder für andere Leistungen, zum Beispiel kieferorthopädische Behandlungen gesetzlich Krankenversicherter, selbst wenn keine Leistungen der gesetzlichen Krankenversicherung hierzu erfolgen (BayVGH, Beschluss vom 26. Mai 2011, 14 BV 09.3028).
 
 
-5.4.3
+5.3.3
 
 
 Die Beschränkung der Beihilfefähigkeit auf Leistungen für Heilpraktiker hat zur Folge, dass Arzneimittel und Medizinprodukte, die vom Heilpraktiker verordnet werden, ebenso wie von ihm in Auftrag gegebene ärztliche Laborleistungen, für den betroffenen Personenkreis nicht beihilfefähig sind.                    
 
 
-5.4.4
+5.3.4
 
 
 Pflegeleistungen nach Abschnitt 6 sind von dem Sachleistungsverweis ebenso wenig erfasst wie die Geburtspauschale nach § 44 Absatz 4 (vergleiche Nummer 44.4.4).                    
 
 
-5.5                     
+5.4
 
 
-Zu Absatz 5                     
+Zu Absatz 4
 
 
-5.5.1                    
+5.4.1
 
 
 Ein Ausschluss nach § 5 geht § 4 Absatz 3 Satz 2 vor. Nach § 5 ausgeschlossene Aufwendungen können daher nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein.                    
@@ -1390,7 +1445,7 @@ Ein Ausschluss nach § 5 geht § 4 Absatz 3 Satz 2 vor. Nach § 5 ausgeschlossen
 6                     
 
 
-Zu § 6 Anrechnung von Erstattungen und Sachleistungen                     
+Zu § 6 Anrechnung von Erstattungen und Sachleistungen
 
 
 6.1                     
@@ -1421,10 +1476,20 @@ Zu den vorrangigen Leistungen nach § 6 Absatz 1 Satz 1 gehören Sachleistungen 
 
 Die Beihilfe geht den Leistungen nach dem Krankenfürsorgesystem der EU vor (Artikel 72 Absatz 1 des Beamtenstatutes EU). Die Beihilfe hat außerdem Vorrang vor den Leistungen nach dem Zwölften Buch Sozialgesetzbuch (§ 2 Absatz 1 des Zwölften Buches Sozialgesetzbuch), auch wenn nach dem Zwölften Buch Sozialgesetzbuch                 vorgeleistet wird. Gleiches gilt gegenüber Leistungen aus dem Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen nach § 12 Absatz 1 des                  Pflichtversicherungsgesetzes.          
 
-6.1.4                    
+6.1.4
 
 
 Ansprüche des nichtehelichen Kindes gegen seine Mutter oder seinen Vater auf Ersatz von Aufwendungen bei Krankheit sind im Rahmen der Unterhaltspflicht zu erfüllen (vergleiche § 1615a in Verbindung mit § 1610 Absatz 2 des Bürgerlichen Gesetzbuches). Der Unterhaltsanspruch des nichtehelichen Kindes gegen seine Mutter oder seinen Vater fällt jedoch nicht unter die Ansprüche auf Kostenerstattung nach § 6 Absatz 1 Satz 1; dies gilt ohne Rücksicht darauf, wem dieser Anspruch zusteht. Daher kann zum Beispiel die Mutter nicht auf etwaige Ansprüche gegen den Vater des Kindes verwiesen werden, wenn sie für Aufwendungen dieser Art Beihilfe beansprucht.          
+
+6.1.5
+
+
+Erstattungsleistungen können zum Beispiel auch aufgrund von Vorschriften, die auf § 10 Absatz 2, 4 oder 6 des Bundesversorgungsgesetzes Bezug nehmen (zum Beispiel § 4 des Häftlingshilfegesetzes, § 1 des Gesetzes über die Entschädigung für Opfer von Gewalttaten, §§ 80 ff. des Soldatenversorgungsgesetzes) bestehen.
+
+6.1.6
+
+
+Die Leistung einer die Beihilfe ergänzenden privaten Krankenversicherung ist keine anrechenbare vorrangige Erstattungsleistung im Sinne dieser Vorschrift (vergleiche Nummer 58.1.4).
 
 
 6.2                     
@@ -1436,7 +1501,7 @@ Zu Absatz 2
 6.2.1                    
 
 
-Die gesetzliche Krankenversicherung zahlt bei einer medizinisch notwendigen Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen (zahnärztliche und zahntechnische Leistungen) einen befundbezogenen Festzuschuss. Der Festzuschuss umfasst 50 Prozent der jeweiligen Regelversorgung. Unter den Voraussetzungen des § 55 Absatz 1 des               Fünften Buches Sozialgesetzbuch kann sich der Festzuschuss um maximal 30 Prozent erhöhen. Dieser maximal zu erreichende Festzuschuss entspricht damit 65 Prozent der jeweiligen Regelversorgung und wird sowohl bei freiwillig Versicherten als auch bei Pflichtversicherten in der gesetzlichen Krankenversicherung unabhängig von einer tatsächlichen Zahlung der gesetzlichen Krankenversicherung stets angerechnet.                                                               
+Die gesetzliche Krankenversicherung zahlt bei einer medizinisch notwendigen Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen (zahnärztliche und zahntechnische Leistungen) einen befundbezogenen Festzuschuss. Der Festzuschuss umfasst ab 1. Oktober 2020 60 Prozent (zuvor 50 Prozent) der jeweiligen Regelversorgung. Unter den Voraussetzungen des § 55 Absatz 1 des Fünften Buches Sozialgesetzbuch kann sich der Festzuschuss maximal auf 75 Prozent (zuvor 65 Prozent) erhöhen. Der maximal zu erreichende Festzuschuss der jeweiligen Regelversorgung wird sowohl bei freiwillig Versicherten als auch bei Pflichtversicherten in der gesetzlichen Krankenversicherung unabhängig von einer tatsächlichen Zahlung der gesetzlichen Krankenversicherung stets angerechnet.
 
 
 6.3                     
@@ -1448,7 +1513,7 @@ Zu Absatz 3
 6.3.1                    
 
 
-Erstattungsleistungen können zum Beispiel aufgrund von Vorschriften, die auf § 10 Absatz 2, 4 oder 6 des Bundesversorgungsgesetzes Bezug nehmen (zum Beispiel § 4 des Häftlingshilfegesetzes, § 1 des Gesetzes über die Entschädigung für Opfer von Gewalttaten, §§ 80 ff. des Soldatenversorgungsgesetzes) bestehen.          
+Absatz 3 bezieht sich auf die in Absatz 1 genannten Erstattungs- und Sachleistungen. Die Höhe der auf den beihilfefähigen Betrag anzurechnenden Erstattungsleistung ergibt sich aus der Differenz zwischen der gegenüber dem Dritten dem Grunde nach zustehenden Anspruchshöhe und etwaiger Eigenbeteiligungen und Selbstbehalte.
 
 
 6.4                     
@@ -1478,7 +1543,19 @@ Bei innerhalb der Europäischen Union entstandenen beihilfefähigen Aufwendungen
 7.1.2                    
 
 
-Auf den Kostenvergleich kann nur bei Aufwendungen verzichtet werden, die auf dem Hoheitsgebiet der Mitgliedsstaaten der EU entstanden sind. Hierzu zählen auch die in Artikel 349, 355 Absatz 1 der Konsolidierten Fassung des Vertrages über die Arbeitsweise der Europäischen Union (AEUV) (ABl. C 115 vom 9.5.2008, S. 47) genannten Gebiete in äußerster Randlage (zum Beispiel Guadeloupe, Französisch-Guayana, Madeira, Kanarische Inseln). Gleiches gilt für Staaten, mit denen besondere Abkommen geschlossen wurden, wie zum Beispiel mit der Schweiz. Mit dem Gesetz vom 2. September 2001 (BGBl. II S. 810) wurde das Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedsstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999 in den Rang einfachen Bundesrechts überführt (hierzu BVerwG, Urteil vom 17. Oktober 2011, 2 C 14/10). Für lediglich mit der EU assoziierte Länder und Hoheitsgebiete im Sinne des Anhangs II zum AEUV (zum Beispiel Grönland, Französisch-Polynesien, Niederländische Antillen) und sonstige besondere Gebiete (zum Beispiel Färöer, britische Kanalinseln, Insel Man – Artikel 355 Absatz 5 AEUV) beurteilt sich die Beihilfefähigkeit nach Absatz 2.
+Auf den Kostenvergleich kann nur bei Aufwendungen verzichtet werden, die auf dem Hoheitsgebiet der Mitgliedsstaaten der EU entstanden sind.
+
+
+Hierzu zählen auch die in Artikel 349, 355 Absatz 1 der Konsolidierten Fassung des Vertrages über die Arbeitsweise der Europäischen Union (AEUV) (ABl. C 115 vom 9.5.2008, S. 47) genannten Gebiete in äußerster Randlage (zum Beispiel Guadeloupe, Französisch-Guayana, Madeira, Kanarische Inseln).
+
+
+Gleiches gilt für Staaten, mit denen besondere Abkommen geschlossen wurden, wie zum Beispiel mit der Schweiz.
+
+
+Mit dem Gesetz vom 2. September 2001 (BGBl. II S. 810) wurde das Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedsstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999 in den Rang einfachen Bundesrechts überführt (hierzu BVerwG, Urteil vom 17. Oktober 2011, 2 C 14/10).
+
+
+Für die übrigen Mitglieder der Europäischen Freihandelsassoziation (EFTA) Island, Liechtenstein und Norwegen sowie für lediglich mit der EU assoziierte Länder und Hoheitsgebiete im Sinne des Anhangs II zum AEUV (zum Beispiel Grönland, Französisch-Polynesien, Aruba, Curaçao) und sonstige besondere Gebiete (zum Beispiel Färöer – Artikel 355 Absatz 5 AEUV) beurteilt sich die Beihilfefähigkeit nach Absatz 2. Die Beihilfefähigkeit von Aufwendungen, die ab dem 1. Januar 2021 im Vereinigten Königreich und Nordirland entstanden sind, ist ebenfalls nach Absatz 2 zu beurteilen.
 
 
 7.1.3                    
@@ -1687,7 +1764,13 @@ Zu § 8 Ärztliche Leistungen
 8.1                    
 
 
-Ob die Aufwendungen aus Anlass einer Krankheit entstanden sind und notwendig waren, ergibt sich aus der Diagnose. Handelt es sich um eine Vorsorgeuntersuchung, richtet sich die Beihilfefähigkeit nach den Vorschriften des Abschnitts 4. Ohne Angabe der Diagnose in der Rechnung können die Aufwendungen nicht geprüft werden. Dem Antragsteller ist Gelegenheit zu geben, die fehlenden Angaben beizubringen.                    
+Ob die Aufwendungen aus Anlass einer Krankheit entstanden sind und notwendig waren, ergibt sich aus der Diagnose.
+
+
+Handelt es sich um eine Vorsorge- oder Früherkennungsuntersuchung, richtet sich die Beihilfefähigkeit nach den Vorschriften des Abschnitts 4.
+
+
+Ohne Angabe der Diagnose in der Rechnung können die Aufwendungen nicht geprüft werden. Dem Antragsteller ist Gelegenheit zu geben, die fehlenden Angaben beizubringen.
 
 
 8.2                    
@@ -1789,10 +1872,15 @@ Werden physiotherapeutische Leistungen aufgrund einer ärztlichen Verordnung von
 Zu § 10 Zahnärztliche Leistungen                     
 
 
-10.1                    
+10.1
 
 
-Bei implantologischen Leistungen nach § 11 Absatz 2 sowie funktionsanalytischen und funktionstherapeutischen Leistungen nach § 13 ist zur Prüfung der Beihilfefähigkeit der Aufwendungen die Angabe der Diagnose auf den Belegen erforderlich.
+Bei implantologischen Leistungen nach § 11 Absatz 2 sowie funktionsanalytischen und funktionstherapeutischen Leistungen ist zur Prüfung der Beihilfefähigkeit der Aufwendungen die Angabe der Diagnose auf den Belegen erforderlich. Die Vorlage einer Dokumentation der klinischen Funktionsanalyse nach Nummer 8000 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte ist bei funktionsanalytischen und funktionstherapeutischen Leistungen nicht zwingend erforderlich.          
+
+10.2
+
+
+Nach § 1 des Gesetzes über die Ausübung der Zahnheilkunde sind die Feststellung und Behandlung von Zahn-, Mund- und Kieferkrankheiten, also Diagnose und Therapie einschließlich der Versorgung mit Zahnersatz dem Zahnarzt übertragen und diesem vorbehalten. Eine Übertragung zahnärztlicher Leistungen, insbesondere des intraoralen Scannens, des Eingliederns von Zahnersatz oder intraoraler manipulativer Tätigkeiten am Patienten oder der Zahntechnik und Ähnliches an Zahntechniker ist ein Verstoß gegen die Bestimmungen des Zahnheilkundegesetzes und nicht zulässig. Aufwendungen von Zahntechnikern für Leistungen, die durch Zahnärzte zu erbringen sind, sind nicht beihilfefähig.
 
 
 11                     
@@ -1857,7 +1945,13 @@ Zu Absatz 2
 11.2.1                    
 
 
-Das Vorliegen der Ausnahmeindikationen ist nach den Richtlinien des Bundesausschusses für Zahnärzte und Krankenkassen für eine ausreichende, zweckmäßige und wirtschaftliche vertragszahnärztliche Versorgung (Behandlungs-Richtlinien) zu bewerten. Liegt eine der genannten Indikationen vor, sind Implantate in der medizinisch notwendigen Anzahl beihilfefähig. Gleiches gilt für den Austausch von Sekundärteilen.                    
+Das Vorliegen der Ausnahmeindikationen ist nach den Richtlinien des Bundesausschusses für Zahnärzte und Krankenkassen für eine ausreichende, zweckmäßige und wirtschaftliche vertragszahnärztliche Versorgung (Behandlungs-Richtlinien) zu bewerten.
+
+
+Die Ausnahmeindikationen sind eng zu interpretieren.
+
+
+Liegt eine der genannten Indikationen vor, sind Implantate in der medizinisch notwendigen Anzahl beihilfefähig. Gleiches gilt für den Austausch von Sekundärteilen.
 
 
 11.2.2                    
@@ -1880,176 +1974,86 @@ Zu Absatz 1
 
 12.1.1
 
-Ist eine vorherige Anerkennung der Beihilfefähigkeit der Aufwendungen nicht möglich (zum Beispiel Behandlungsbeginn im Rahmen eines anderen Krankenversicherungsverhältnisses, besondere Eilbedürftigkeit), kann diese nachträglich erfolgen.
-
+Kieferorthopädische Behandlungen beginnen im Regelfall ab Beginn der zweiten Phase des Zahnwechsels (spätes Wechselgebiss). Im Einzelfall können auch frühere Behandlungen notwendig sein. Auf Absatz 3 und Nummer 12.3 wird hingewiesen.
 
 12.1.2
 
-Kieferorthopädische Behandlungen beginnen im Regelfall ab Beginn der zweiten Phase des Zahnwechsels
-
-(spätes Wechselgebiss). Im Einzelfall können auch frühere Behandlungen notwendig sein. Auf Absatz 2 und Nummer
-
-12.2 wird hingewiesen. Aufwendungen für eine kieferorthopädische Behandlung bei schweren Kieferanomalien
-
-nach Satz 1 Nummer 2 sind in der Regel beihilfefähig, wenn die in den nach § 29 Absatz 4 des Fünften Buches
-
-Sozialgesetzbuch erlassenen Richtlinien des Gemeinsamen Bundesausschusses (Kieferorthopädie-Richtlinien)
-
-genannten Indikationen vorliegen. Die Festsetzungsstelle kann für die Dokumentation Formblätter zur Verfügung
-
-stellen.
-
+Der beihilfefähige Höchstbetrag umfasst sämtliche in einem Behandlungszeitraum von bis zu 4 Jahren erbrachten Leistungen des Kieferorthopäden einschließlich Auslagen, Material- und Laborkosten einschließlich der Maßnahmen einer weiterführenden Retention. Eingeschlossen sind auch Nebenleistungen, wie beispielsweise eine professionelle Zahnreinigung vor dem Befestigen der Brackets oder Zahnversiegelungen. Aufwendungen, die über 7 000 Euro hinausgehen, sind nicht beihilfefähig. Bei einer Verlängerung der kieferorthopädischen Behandlung ist spätestens vier Wochen vor Beginn des Verlängerungszeitraumes (ab dem Tag des Eingangs bei der Festsetzungsstelle) zwingend ein Heil- und Kostenplan vorzulegen. Wird der Heil- und Kostenplan nicht rechtzeitig vorgelegt, sind über den Höchstbetrag nach Satz 1 hinausgehende Aufwendungen nicht beihilfefähig. Eine nachträgliche Anerkennung höherer Aufwendungen ist nicht zulässig. Entscheidet die Festsetzungsstelle nicht innerhalb von vier Wochen über die Anerkennung des neuen Heil- und Kostenplans zur Verlängerung der kieferorthopädischen Maßnahme, sind die beantragten Aufwendungen dem Grunde nach beihilfefähig.
 
 12.1.3
 
-Aus dem Heil- und Kostenplan, der der Festsetzungsstelle zur Genehmigung der Behandlung vorgelegt wird, muss
-
-neben den kieferorthopädischen Leistungen, die Behandlungsdauer, die Behandlungsmethode, die zum Einsatz
-
-kommenden Therapiegeräte und eine detaillierte Aufschlüsselung der Material- und Laborkosten ersichtlich sein.
-
-Die Beihilfefähigkeit pauschaler Material- und Laborkosten kann nicht geprüft und somit im Rahmen der Voranerkennung
-
-nicht bestätigt werden.
-
+Aus dem Heil- und Kostenplan, der der Festsetzungsstelle zur Genehmigung der Behandlung vorgelegt wird, müssen die Dokumentation des Befundes, die kieferorthopädischen Leistungen, die Behandlungsdauer, die Behandlungsmethode, die zum Einsatz kommenden Therapiegeräte und eine detaillierte Aufschlüsselung der zu erwartenden Material- und Laborkosten ersichtlich sein.
 
 12.1.4
 
-Die Leistungen nach den Nummern 6030 bis 6080 des Gebührenverzeichnisses zur Gebührenordnung für
-
-Zahnärzte umfassen alle Maßnahmen zur Kieferumformung und Einstellung des Unterkiefers in den Regelbiss
-
-innerhalb eines Zeitraumes von bis zu vier Jahren unabhängig von den angewandten Methoden oder den verwendeten
-
-Therapiegeräten. Abschläge für die vorgenannten Leistungen sollten nur in Zwölfteln veranschlagt und abgerechnet
-
-werden. Die Beendigung der Behandlung ist der Festsetzungsstelle anzuzeigen.
-
+Beihilfe kann auf Zwischen- oder Teilrechnungen je nach Behandlungsfortschritt gewährt werden. Der jeweils beihilfefähige Betrag ist unter Anwendung des § 4 Absatz 5 durch die Festsetzungsstelle zu ermitteln. Beispielsweise sind Schwellenwertüberschreitungen nur mit entsprechender Begründung beihilfefähig. Aufwendungen für Leistungen nach den Nummern 6030 bis 6080 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte sind im Behandlungszeitraum einmal oder in mehreren Bruchteilen, die zusammen Eins ergeben, beihilfefähig. Hat die Summe der beihilfefähigen Beträge den beihilfefähigen Höchstbetrag erreicht, ist die Gewährung von Beihilfe für den Behandlungsfall nicht mehr möglich, es sei denn, höhere Aufwendungen oder eine Verlängerung der Behandlung wurden von der Festsetzungsstelle anerkannt.
 
 12.1.5
 
-Die Beihilfefähigkeit der Aufwendungen bei einer Änderung der Therapieform (zum Beispiel Umstellung des Therapiegerätes
-
-während einer laufenden Behandlung) ist bei der Festsetzungsstelle genehmigen zu lassen. Dem Antrag
-
-ist eine Begründung des behandelnden Kieferorthopäden beizufügen, aus der die medizinische Notwendigkeit
-
-und die Änderungen zum Erstbehandlungsplan ersichtlich sind. Als beihilfefähig können nur die notwendigen Leistungen
-
-anerkannt werden, die über die Voranerkennung aufgrund des Erstbehandlungsplans hinausgehen.
-
+Zusätzliche Aufwendungen aufgrund einer Änderung der Therapieform (zum Beispiel Umstellung des Therapiegerätes während einer laufenden Behandlung) sind nur beihilfefähig, solange der beihilfefähige Höchstbetrag nicht überschritten wird.
 
 12.1.6
 
-Ist die kieferorthopädische Behandlung (Kieferumformung einschließlich Retention) nach Ablauf von vier Jahren  nicht abgeschlossen und eine kieferorthopädische Weiterbehandlung (Maßnahmen nach Nummern 6030 bis  6080 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte) medizinisch notwendig, ist die Vorlage  eines neuen Heil- und Kostenplanes erforderlich. Dieser ist im letzten Monat vor Ablauf der vierjährigen Behandlung  vorzulegen. Ist der Verlängerungszeitraum kürzer als vier Jahre, sind die Gebührenziffern der Langzeittherapie  (Nummern 6030 bis 6080 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte) nur anteilig  beihilfefähig (vergleiche BayVGH, Beschluss vom 24. März 1997, 3 B 95.1895).  
+Ist die kieferorthopädische Behandlung (Kieferumformung einschließlich Retention) nach Ablauf von vier Jahren nicht abgeschlossen und eine kieferorthopädische Weiterbehandlung (Maßnahmen nach Nummern 6030 bis 6080 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte) medizinisch notwendig, ist die Vorlage eines Heil- und Kostenplanes bei der Festsetzungsstelle erforderlich. Dieser ist im letzten Monat vor Ablauf der vierjährigen Behandlung vorzulegen.
 
 12.1.7
 
-Sind nach dem Regelbehandlungszeitraum von bis zu vier Jahren (vergleiche Nummer 12.1.4 Satz 1) ausschließlich  noch Retentionsmaßnahmen nach Nummer 6210 oder Begleitleistungen nach den Nummern 6180 bis 6230  des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte medizinisch notwendig, sind für einen Zeitraum  von bis zu zwei Jahren ein neuer Heil- und Kostenplan und eine Genehmigung nicht erforderlich.  
+Sind nach dem Regelbehandlungszeitraum von bis zu vier Jahren (vergleiche Nummer 12.1.2 Satz 1) noch Retentionsmaßnahmen nach Nummer 6210 oder Begleitleistungen nach den Nummern 6180 bis 6230 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte medizinisch notwendig, sind diese dem Grunde nach beihilfefähig, soweit der beihilfefähige Höchstbetrag noch nicht ausgeschöpft ist.
 
 12.1.8
 
-Aufwendungen für Leistungen nach den Nummern 6200 und 6240 des Gebührenverzeichnisses zur Gebührenordnung
-
-für Zahnärzte setzen nicht unmittelbar eine kieferorthopädische Behandlung im Sinne dieser Verordnung
-
-voraus. Für diese Leistungen ist kein Heil- und Kostenplan notwendig.
-
+Aufwendungen für Leistungen nach den Nummern 6200 und 6240 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte setzen nicht unmittelbar eine kieferorthopädische Behandlung im Sinne dieser Verordnung voraus.
 
 12.1.9
 
-Ein Abbruch im Sinne des Satzes 4 liegt vor, wenn der Beihilfeberechtigte oder der berücksichtigungsfähige Angehörige
-
-(Patient) die Beendigung der kieferorthopädischen Behandlung zu vertreten hat. In diesem Fall bleiben
-
-nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt
-
-hatte, noch nicht abgerechnet sind. Der Abbruch ist vom Patienten zu vertreten, wenn die Beendigung der Behandlung
-
-nicht medizinisch notwendig war. Dies ist im Einzelfall von der Festsetzungsstelle zu prüfen. Hat der Patient
-
-den Abbruch der Behandlung nicht zu vertreten, ist eine anschließende Behandlung erneut bei der Festsetzungsstelle
-
-zu beantragen; die Beschränkung der Beihilfefähigkeit des Satzes 4 auf die noch nicht abgerechneten
-
-Aufwendungen greift in diesem Fall nicht. Vergleichbares gilt in den Fällen des Wechsels des Kieferorthopäden.
-
-Bei einem Wechsel des Kieferorthopäden, auch im Fall einer Praxisnachfolge, kann die Festsetzungsstelle im
-
-Regelfall davon ausgehen, dass dieser nicht notwendig ist und die Beschränkungen des Satzes 4 zur Anwendung
-
-kommen. Bei einer vollständigen Praxisaufgabe oder dem Tod des bisherigen Kieferorthopäden kann die Festsetzungsstelle
-
-demgegenüber von der Notwendigkeit des Wechsels ausgehen.
-
+Ändert sich der Versicherungsstatus des Patienten während des Behandlungszeitraumes, ist der beihilfefähige Höchstbetrag anteilig für den Behandlungszeitraum, für den eine Beihilfeberechtigung oder Berücksichtigungsfähigkeit besteht, auf der Grundlage einer Gesamtbehandlungsdauer von vier Jahren zu ermitteln. Das bedeutet, dass eine bereits zwei Jahre über ein anderes Krankenfürsorgesystem (GKV) durchgeführte Behandlung im Regelfall noch weitere zwei Jahre andauern kann. Der beihilfefähige Höchstbetrag beträgt für den Restzeitraum in diesem Beispiel 3 500 Euro. Bei der Ermittlung des beihilfefähigen Höchstbetrages ist es unerheblich, ob der behandelnde Kieferorthopäde nur den ausstehenden Behandlungsanteil, eine vollumfänglich neue Behandlung oder einen Wechsel der Behandlungsform (Anwendung anderer Behandlungsgeräte, zum Beispiel Wechsel von einer Zahnspange zu Invisalign-Schienen) durchführt und abrechnet. Wurden beispielsweise bei der gesetzlichen Krankenkasse 6 Behandlungsquartale vor dem Versicherungswechsel abgerechnet, sind noch Aufwendungen für 10 Behandlungsquartale beihilfefähig. Aufwendungen sind in diesem Beispiel bis zu einem Höchstbetrag von 10/16 aus 7 000 Euro, somit bis zu 4 375 Euro beihilfefähig. Die Höhe der bei der Krankenkasse geltend gemachten Quartalspauschalen (zum Beispiel Zwölftel-Anteile oder Sechzehntel-Anteile) ist nicht zu berücksichtigen.
 
 12.1.10
 
-Ändert sich der Versicherungsstatus des Patienten während des Behandlungszeitraumes, sind die Leistungen entsprechend
-
-dem ursprünglichen Heil- und Kostenplan dem Erbringungszeitraum anteilig zuzuordnen und nur zu
-
-dem Anteil beihilfefähig, für den eine Beihilfeberechtigung oder Berücksichtigungsfähigkeit besteht.
-
+Eine vor Vollendung des 18. Lebensjahres begonnene Behandlung bleibt einschließlich einer gegebenenfalls erforderlichen Verlängerung auch nach Vollendung des 18. Lebensjahres weiterhin beihilfefähig.
 
 12.1.11
 
-Eine vor Vollendung des 18. Lebensjahres begonnene Behandlung bleibt einschließlich einer gegebenenfalls
+Mit der myofunktionellen Therapie werden Fehlfunktionen der Zungen-, Lippen-, Wangen- und Kaumuskulatur behandelt, um daraus entstehende Zahn- und Kieferfehlstellungen zu verhindern. Ist die myofunktionelle Therapie Bestandteil der kieferorthopädischen Behandlung, sind die Höchstbeträge nach § 12 anzuwenden. Findet die myofunktionelle Therapie außerhalb einer kieferorthopädischen Behandlung statt, sind die Aufwendungen nach § 10 beihilfefähig. Im Rahmen der myofunktionellen Therapie entstehende Aufwendungen für vom Zahnarzt oder Kieferorthopäden verordnete Heilmittel (zum Beispiel gezielte Übungsbehandlungen, manuelle Therapie oder logopädische Behandlungen) sind nach § 26 in Verbindung mit der Anlage 3 im notwendigen Umfang beihilfefähig. Erbringt der Zahnarzt oder Kieferorthopäde im Rahmen einer kieferorthopädischen Behandlung auch Leistungen einer kieferorthopädischen Abschirmtherapie (Einsatz spezieller kieferorthopädischer Geräte, zum Beispiel Mundvorhofplatten, Face Former, Zungengitter) sind diese Aufwendungen den kieferorthopädischen Leistungen zuzuordnen und im Rahmen des § 12 beihilfefähig.
 
-erforderlichen Verlängerung auch nach Vollendung des 18. Lebensjahres weiterhin beihilfefähig.
+12.1.12
 
+Die Höchstbetragsregelungen sind nicht auf die vor Inkrafttreten der Vierten Verordnung zur Änderung der Sächsischen Beihilfeverordnung am 28. November 2020 schon begonnene oder von der Festsetzungsstelle bereits genehmigte Behandlungen anzuwenden. Diese richten sich nach der bis zum 27. November 2020 geltenden Fassung der Sächsischen Beihilfeverordnung.
 
 12.2
 
-
 Zu Absatz 2
-
 
 12.2.1
 
-Frühbehandlungen sind dem Grunde nach beihilfefähig, wenn die in Abschnitt B Nummer 8 der KFO-Richtlinien
-
-des Gemeinsamen Bundesausschusses genannten Indikationen einschließlich der in der Vereinbarung zwischen
-
-der Kassenzahnärztlichen Bundesvereinigung und den Spitzenverbänden der Krankenkassen zur Auslegung der
-
-Anlage 2 Abschnitt B Nummer 2 der geltenden KFO-Richtlinien zur Frühbehandlung genannten ergänzenden
-
-Einstufung vorliegen.
-
+Aufwendungen für eine kieferorthopädische Behandlung bei schweren Kieferanomalien, die eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfordern, sind beihilfefähig, wenn die in Abschnitt B Nummer 4 und Anlage 3 der Kieferorthopädie-Richtlinien genannten Indikationen vorliegen. Die Festsetzungsstelle kann für die Dokumentation Formblätter zur Verfügung stellen.
 
 12.2.2
 
-Zur Feststellung der Beihilfefähigkeit (Vorliegen der entsprechenden Indikationen, Angemessenheit der Kosten)
+Die Nummern 12.1.2 Satz 6 und 12.1.3 Satz 1 und 2 sind entsprechend anzuwenden.
 
-und Absicherung des Beihilfeberechtigten ist der Heil- und Kostenplan vor Beginn der Frühbehandlung der Festsetzungsstelle
+12.3
 
-zur Anerkennung vorzulegen. Wird der Heil- und Kostenplan später vorgelegt, kann Beihilfe unabhängig
+Zu Absatz 3
 
-von den schon angefallenen Kosten nur im notwendigen und angemessenen Umfang gewährt werden.“
+12.3.1
+
+Frühbehandlungen sind dem Grunde nach beihilfefähig, wenn die in Abschnitt B Nummer 8 der KFO-Richtlinien des Gemeinsamen Bundesausschusses genannten Indikationen einschließlich der in der Vereinbarung zwischen der Kassenzahnärztlichen Bundesvereinigung und den Spitzenverbänden der Krankenkassen zur Auslegung der Anlage 2 Abschnitt B Nummer 2 der geltenden KFO-Richtlinien zur Frühbehandlung genannten ergänzenden Einstufung vorliegen.
+
+12.3.2
+
+Der beihilfefähige Höchstbetrag umfasst sämtliche im Behandlungszeitraum erbrachten Leistungen des Kieferorthopäden einschließlich Auslagen, Material- und Laborkosten. Bei notwendigen Behandlungen, die Kosten über den Höchstbetrag hinaus verursachen, ist zur Feststellung der Beihilfefähigkeit (Vorliegen der entsprechenden Indikationen, Angemessenheit der Kosten) ein Heil- und Kostenplan vor Beginn der Frühbehandlung der Festsetzungsstelle zur Anerkennung vorzulegen. Die Nummern 12.1.3, 12.1.9, 12.1.11 und 12.1.12 sind entsprechend anzuwenden.
+
+12.4
+
+
+Zu Absatz 4 (bleibt frei)
 
 
 13
 
 
-Zu § 13 Funktionsanalytische und funktionstherapeutische Leistungen                     
-
-
-13.1                    
-
-
-Der Seitenzahnbereich beginnt in jedem Quadranten mit Zahn 4.                    
-
-
-13.2                    
-
-
-Die Dokumentation der klinischen Funktionsanalyse nach Nummer 8000 des Gebührenverzeichnisses zur               Gebührenordnung für Zahnärzte muss der Festsetzungsstelle nicht zu Behandlungsbeginn vorliegen, sondern kann nachgereicht werden. Die Festsetzungsstelle kann für die Dokumentation Formblätter zur Verfügung stellen.                                                               
-
-13.3                    
-
-
-Nach dem Gebührenverzeichnis zur                 Gebührenordnung für Zahnärzte in der seit dem 1. Januar 2012 geltenden Fassung können nun Material- und Laborkosten im Zusammenhang mit funktionsanalytischen und funktionstherapeutischen Leistungen zusätzlich berechnet werden (siehe Leistungsbeschreibung der Nummern 8010 bis 8065 des Gebührenverzeichnisses zur                             Gebührenordnung für Zahnärzte). Diese sind von der Begrenzung der Beihilfefähigkeit auf 60 Prozent nach § 14 Absatz 1 nicht erfasst. Dies gilt auch dann, wenn sie im Zusammenhang mit implantologischen oder zahnprothetischen (Haupt-)Leistungen erbracht worden sind.                                                          
+Zu § 13 (weggefallen)
 
 
 14                     
@@ -2072,12 +2076,7 @@ Aufwendungen für Material- und Labor- beziehungsweise Praxiskosten sind durch e
 14.1.2                    
 
 
-Die Begrenzung der Beihilfefähigkeit von Praxiskosten nach § 4 Absatz 3 der Gebührenordnung für Zahnärzte und von Auslagen nach § 9 der Gebührenordnung für Zahnärzte bezieht sich nur auf Leistungen nach Satz 1. Sollten diese Aufwendungen (Praxiskosten, soweit sie im Rahmen des § 10 der Gebührenordnung für Ärzte berechnungsfähig sind) bei anderen als in Satz 1 genannten Leistungen anfallen, sind diese zu 100 Prozent beihilfefähig.  
-
-14.1.3                    
-
-
-Nach den Allgemeinen Bestimmungen zu Abschnitt G der Anlage 1 zur Gebührenordnung für Zahnärzte sind mit dem Ansatz der Nummern 6100 (Eingliederung eines Klebebrackets), 6120 (Eingliederung eines Bogens), 6140 (Eingliederung eines Teilbogens) und 6150 (Eingliederung eines ungeteilte Bogens) auch die Kosten für Standardmaterialien mit abgegolten.  Mehrkosten, die nur auf der Basis einer gesonderten Vereinbarung zwischen Kieferorthopäden und Patient abrechenbar sind, sind neben diesen Leistungen nicht beihilfefähig.  Kommt ein anderes kieferorthopädisches Verfahren (zum Beispiel: Aligner-Verfahren) zur Anwendung, sind neben den Aufwendungen für die Umformleistung (Nummer 6030, 6040 oder 6050 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte) auch die notwendigen und angemessenen Materialkosten aufgrund einer Vereinbarung nach den allgemeinen Bestimmungen zu Abschnitt G des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte mit dem Patienten beihilfefähig.  Werden verschiedenartige Leistungen durchgeführt, sind diese bei der Beurteilung der Beihilfefähigkeit von Materialkosten voneinander unabhängig zu betrachten. Beispielsweise können Materialkosten für Invisalign-Schienen gesondert berechnet werden. Standardmaterialien für dabei zusätzlich angebrachte Attachments sind mit Berechnung der Leistung nach Nummer 6100 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte abgegolten.          
+Die Begrenzung der Beihilfefähigkeit von Praxiskosten nach § 4 Absatz 3 der Gebührenordnung für Zahnärzte und von Auslagen nach § 9 der Gebührenordnung für Zahnärzte bezieht sich nur auf Leistungen nach Satz 1. Sollten diese Aufwendungen (Praxiskosten, soweit sie im Rahmen des § 10 der Gebührenordnung für Ärzte berechnungsfähig sind) bei anderen als in Satz 1 genannten Leistungen anfallen, sind diese zu 100 Prozent beihilfefähig.  Eine Versorgung mit Inlays, Zahnkronen Zahnersatz oder Suprakonstruktionen beinhaltet alle erbrachten zahnärztlichen Leistungen im Behandlungszeitraum, unabhängig davon, welcher konkreten Leistung sie zuzuordnen sind. Wurde eine der in Satz 1 genannten Leistungen erbracht, ist die Beihilfefähigkeit der Material-, Labor- und Praxiskosten im gesamten Behandlungszeitraum auf 65 Prozent begrenzt. 
 
 
 14.2                     
@@ -2136,7 +2135,7 @@ Zu Absatz 1
 16.1.1                    
 
 
-Als psychotherapeutischen Leistungen im engeren Sinne gelten die Psychotherapieverfahren mit den Behandlungsformen der psychoanalytisch begründeten Verfahren und der Verhaltenstherapie. Darüber hinaus sind Aufwendungen für probatorische Sitzungen, die psychotherapeutische Akutbehandlung und die psychosomatische Grundversorgung beihilfefähig. Hinsichtlich der Behandlungsformen und Definitionen wird auf die Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie (Psychotherapie-Richtlinie) hingewiesen. Keine Psychotherapien im Sinne der §§ 16 bis 19 sind zum Beispiel ambulante Maßnahmen
+Als psychotherapeutischen Leistungen im engeren Sinne gelten die Psychotherapieverfahren mit den Behandlungsformen der psychoanalytisch begründeten Verfahren, der Verhaltenstherapie und der Systemischen Therapie. Darüber hinaus sind Aufwendungen für probatorische Sitzungen, die psychotherapeutische Akutbehandlung im Rahmen der Kurzzeittherapie und die psychosomatische Grundversorgung beihilfefähig. Hinsichtlich der Behandlungsformen und Definitionen wird auf die Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie (Psychotherapie-Richtlinie) hingewiesen. Keine Psychotherapien im Sinne der §§ 16 bis 19 sind zum Beispiel ambulante Maßnahmen
 
 
 a)                    
@@ -2225,7 +2224,7 @@ Zu Absatz 2
 16.2.1                    
 
 
-Eine seelische Krankheit wird verstanden als krankhafte Störung der Wahrnehmung, des Verhaltens, der Erlebnisverarbeitung, der sozialen Beziehung und der Körperfunktionen. Es gehört zum Wesen dieser Störungen, dass sie der willentlichen Steuerung durch den Patienten nicht mehr oder nur zum Teil zugänglich sind (vergleiche § 2 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie [Psychotherapie-Richtlinie]).
+Eine seelische Krankheit wird verstanden als krankhafte Störung der Wahrnehmung, des Verhaltens, der Erlebnisverarbeitung, der sozialen Beziehung und der Körperfunktionen. Es gehört zum Wesen dieser Störungen, dass sie der willentlichen Steuerung durch den Patienten nicht mehr oder nur zum Teil zugänglich sind (vergleiche § 2 der Psychotherapie-Richtlinie).
 
 
 16.3
@@ -2237,7 +2236,7 @@ Zu Absatz 3
 16.3.1                    
 
 
-Ist eine somatische Abklärung erforderlich, müssen Psychotherapeuten im Gutachterverfahren nach § 16b Absatz 3 Nummer 3 zusätzlich zu dem Bericht an den Gutachter mit dem Formblatt 2a im Anhang 3 den erforderlichen Konsiliarbericht eines Arztes zur Abklärung einer somatischen (organischen) Krankheit (vergleiche § 1 Absatz 3 Satz 2 des Psychotherapeutengesetzes) einholen. Auf Nummer 16b.3.6 wird hingewiesen.   
+Eine Suchtmittelfreiheit oder Abstinenz im Sinne des Satzes 2 Nummer 1 liegt nicht mehr vor, wenn es unter der ambulanten psychotherapeutischen Behandlung zu einem Rückfall in den Substanzgebrauch kommt und nicht unverzüglich geeignete Behandlungsmaßnahmen zur Wiederherstellung der Suchtmittelfreiheit oder Abstinenz ergriffen werden.
 
 
 16.4
@@ -2249,128 +2248,149 @@ Zu Absatz 4
 16.4.1
 
 
-Im gleichen Behandlungszeitraum sind nur Aufwendungen für ein Behandlungsverfahren beihilfefähig. Werden im Verlauf der Behandlung daneben (nicht genehmigte) Leistungen anderer Behandlungsverfahren abgerechnet, sind diese Aufwendungen nicht beihilfefähig. Aus Fürsorgegründen ist davon abzusehen, die Beihilfegewährung für die gesamte Maßnahme in Frage zu stellen und bereits gewährte Beihilfe zurückzufordern. Der Beihilfeberechtigte ist darüber zu informieren, dass bei einem weiteren Abweichen der Behandlung von der Genehmigung nach § 16b Absatz 3 eine Beihilfefähigkeit der künftigen Aufwendungen für die Behandlungsmaßnahme nicht mehr gegeben ist.
+Ist eine somatische Abklärung erforderlich, müssen Psychotherapeuten im Gutachterverfahren nach § 16a Absatz 5 Satz 2 zusätzlich zu dem Bericht an den Gutachter mit dem Formblatt 2a im Anhang 3 den erforderlichen Konsiliarbericht eines Arztes zur Abklärung einer somatischen (organischen) Krankheit (vergleiche § 1 Absatz 2 Satz 2 des Psychotherapeutengesetzes) einholen. Auf Nummer 16a.5.5 wird hingewiesen.  
 
 
 16a
 
 
-Zu § 16a Psychotherapeutische Akutbehandlung
+Zu § 16a Zu § 16a Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
 
 
 16a.1
 
-Die Akutbehandlung ist eine zeitnahe psychotherapeutische Intervention im Anschluss an mindestens eine probatorische Sitzung. Ziel ist es, die Fixierung oder Chronifizierung der psychischen Symptomatik zu vermeiden und die Symptomatik kurzfristig zu verbessern. Bei der Akutbehandlung ist ein Verfahren nach den § 17 oder § 18, für das die Anerkennung beantragt wurde, anzuwenden. Der Behandlungsbeginn erfolgt in der Akutsituation sofort, ohne dass bereits eine Anerkennung erteilt wurde. Die durchgeführten Sitzungen werden auf das später anerkannte Sitzungskontingent nach § 17 oder § 18 angerechnet. Beihilfefähig sind die Aufwendungen nach den Gebühren  der Nummern 860 bis 865 oder 870 und 871 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte. Das Ermessen über die Anerkennung der Beihilfefähigkeit von  Akutbehandlungen über 24 Sitzungen hinaus ist streng auszuüben. Die Beihilfefähigkeit ist insbesondere dann gegeben, wenn der Bescheid über die Anerkennung der Behandlung aus Gründen, die dem Gutachter oder der Verwaltung zuzurechnen sind, nicht rechtzeitig erteilt werden konnte.  
+Zu Absatz 1
+
+16a.1.1
+
+Die psychotherapeutische Behandlung ist je nach Behandlungserfordernis in Kurzzeit- oder Langzeittherapie beihilfefähig. Grundsätzlich ist ein persönlicher Psychotherapeut-Patienten-Kontakt erforderlich. In begründeten Ausnahmefällen (zum Beispiel Kontaktverbot aufgrund einer Epidemie) können einzelne Sitzungen auch per Videosprechstunde erbracht werden. Auf die Ausnahme in Nummer 17.1.2 wird hingewiesen.
 
 16a.2
 
-Ein Krankheitsfall umfasst die auf einer verbindenden Diagnose beruhende und im Wesentlichen einer einheitlichen Zielsetzung dienende Psychotherapie in einer akuten Krankheitsperiode.
-
-
-16b
-
-
-Zu § 16b Gemeinsame Vorschriften für die Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie
-
-
-16b.1
-
-
-Zu Absatz 1 (bleibt frei)
-
-
-16b.2
-
-
 Zu Absatz 2
 
+16a.2.1
 
-16b.2.1
+Probatorische Sitzungen werden grundsätzlich als Einzelbehandlung durchgeführt. Bei Kindern und Jugendlichen ist auch eine Einbeziehung der relevanten Bezugspersonen möglich. Satz 2 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung. In der Systemischen Therapie können auch probatorische Sitzungen im Mehrpersonensetting stattfinden.
 
-Eine Suchtmittelfreiheit oder Abstinenz im Sinne des Satzes 2 Nummer 1 liegt nicht mehr vor, wenn es unter der ambulanten psychotherapeutischen Behandlung zu einem Rückfall in den Substanzgebrauch kommt und nicht unverzüglich geeignete Behandlungsmaßnahmen zur Wiederherstellung der Suchtmittelfreiheit oder Abstinenz ergriffen werden.
+16a.2.2
 
+Für probatorische Sitzungen gilt die Höchstgrenze je Leistungserbringer.
 
-16b.3
-
+16a.3
 
 Zu Absatz 3
 
+16a.3.1
 
-16b.3.1
+Die Kurzzeittherapie ist durch die Festsetzungsstelle nicht genehmigungspflichtig. Hier liegt es in der Sorgfalt des Psychotherapeuten, die Feststellungen und Analyseergebnisse nach Satz 1 vor Behandlungsbeginn zu dokumentieren. Ist Langzeittherapie erforderlich, werden die Angaben im Rahmen des Begutachtungsverfahrens benötigt (vergleiche Nummer 16a.5).
 
-Für probatorische Sitzungen sind die Aufwendungen im Rahmen der Gebühren nach den Abschnitten B und G des Gebührenverzeichnisses zur Gebührenordnung für Ärzte ohne die Feststellung der Notwendigkeit der Behandlung durch einen Gutachter beihilfefähig (vergleiche Nummer 4.5.3).  
+16a.3.2
 
-16b.3.2
+Bei der Systemischen Therapie kann die behandlungsbedürftige Person zusammen mit relevanten Bezugspersonen aus Familie oder sozialem Umfeld (Mehrpersonensetting), auch in Kombination mit Einzel- und Gruppenbehandlung, behandelt werden.
 
-Für probatorische Sitzungen gilt die Höchstgrenze je Leistungserbringer. Geeignete Gutachter für die Durchführung einer Begutachtung nach Absatz 3 Satz 1  Nummer 3 sind die von der Kassenärztlichen Bundesvereinigung im Einvernehmen mit den Bundesverbänden der Vertragskassen nach § 12 der Vereinbarung über die Anwendung von Psychotherapie in der vertragsärztlichen Versorgung zwischen der Kassenärztlichen Bundesvereinigung, dem Verband der Angestellten-Krankenkassen e. V. und dem Arbeiter-Ersatzkassen-Verband e. V. bestellten Gutachter und Obergutachter. Auf der Internetseite der Kassenärztlichen Bundesvereinigung (www.kbv.de) ist die jeweils geltende Fassung der Gutachterliste veröffentlicht. In besonderen Einzelfällen können auch von der Festsetzungsstelle benannte Gutachter herangezogen werden.
+16a.4
 
+Zu Absatz 4
 
-16b.3.3
+16a.4.1
 
-Die Gutachter erstellen im Auftrag der Festsetzungsstelle ein Gutachten zur Notwendigkeit und zu Art und Umfang der Behandlung und bewerten die Angaben des Psychotherapeuten oder Arztes; dabei sind die Formblätter 1 und 2 im Anhang 3 zu verwenden. Die Einreichung der Unterlagen an den Gutachter hat in pseudonymisierter Form zu erfolgen. Die Festsetzungsstelle vergibt an den Beihilfeberechtigten einen von ihr festgelegten Code, der den Anfangsbuchstaben des Nachnamens und das Geburtsdatum enthalten soll. Bei Erstund Folgegutachten ist derselbe Pseudonymisierungscode zu verwenden.
+Ist eine zeitnahe psychotherapeutische Intervention im Anschluss an mindestens eine probatorische Sitzung (Akutbehandlung) erforderlich, ist diese im Rahmen der Kurzzeittherapie als Einzelbehandlung beihilfefähig. Ziel ist es, die Fixierung oder Chronifizierung der psychischen Symptomatik zu vermeiden und die Symptomatik kurzfristig zu verbessern. Für Akutbehandlungen sieht das Gebührenverzeichnis zur Gebührenordnung für Ärzte keine eigenständige Leistungsposition vor. Grundsätzlich sind die in §§ 17 und 18 genannten Gebührennummern der Gebührenordnung für Ärzte (analog) beihilfefähig. Aufwendungen für Akutbehandlungen sind deshalb auch dann angemessen, wenn sie von dem Rechnungssteller unter Hinweis auf § 18 Absatz 2 Satz 1 der Bundesbeihilfeverordnung in Höhe von bis zu 51 Euro je Sitzung für Einheiten von mindestens 25 Minuten berechnet wurden. Die erfolgten Sitzungen sind auf die beihilfefähige Höchstzahl an Sitzungen in Kurzzeittherapie anzurechnen. Dabei sind zwei Sitzungen Akutbehandlung (Einzeltherapie, mindestens 25 Minuten) einer Sitzung (mindestens 50 Minuten) Einzelbehandlung nach einem in den §§ 17 oder 18 genannten Verfahren gleichzusetzen.
 
+16a.5
 
-16b.3.4
+Zu Absatz 5
+
+16a.5.1
+
+Ist eine Langzeittherapie erforderlich, ist vor Beginn der Behandlung oder spätestens vor Abschluss der Kurzzeittherapie die Einleitung eines Begutachtungsverfahrens notwendig.
+
+16a.5.2
+
+Geeignete Gutachter für die Durchführung einer Begutachtung nach Satz 2 sind die von der Kassenärztlichen Bundesvereinigung im Einvernehmen mit den Bundesverbänden der Vertragskassen nach § 12 der Vereinbarung über die Anwendung von Psychotherapie in der vertragsärztlichen Versorgung zwischen der Kassenärztlichen Bundesvereinigung, dem Verband der Angestellten-Krankenkassen e. V. und dem Arbeiter-Ersatzkassen-Verband e. V. bestellten Gutachter und Zweitgutachter. Auf der Internetseite der Kassenärztlichen Bundesvereinigung (www.kbv.de) ist die jeweils geltende Fassung der Gutachterliste veröffentlicht. In besonderen Einzelfällen können auch von der Festsetzungsstelle benannte Gutachter herangezogen werden.
+
+16a.5.3
+
+Die Gutachter erstellen im Auftrag der Festsetzungsstelle ein Gutachten zur Notwendigkeit und zu Art und Umfang der Behandlung und bewerten die Angaben des Psychotherapeuten oder Arztes; dabei sind die Formblätter im Anhang 3 zu verwenden. Die Einreichung der Unterlagen an den Gutachter hat in pseudonymisierter Form zu erfolgen. Die Festsetzungsstelle vergibt dem Beihilfeberechtigten einen von ihr festgelegten Code. Bei Erst- und Folgegutachten ist derselbe Pseudonymisierungscode zu verwenden.
+
+16a.5.4
 
 Hat die gesetzliche oder private Krankenversicherung des Beihilfeberechtigten oder des berücksichtigungsfähigen Angehörigen bereits eine Leistungszusage aufgrund eines durchgeführten Gutachterverfahrens erteilt, aus der sich Art und Umfang der Behandlung und die Qualifikation des behandelnden Psychotherapeuten oder Arztes ergeben, kann auf die Durchführung eines beihilferechtlichen Voranerkennungsverfahrens verzichtet werden.
 
+16a.5.5
 
-16b.3.5
+Zur Beantragung einer psychotherapeutischen Behandlung erhält der Beihilfeberechtigte von der Festsetzungsstelle die mit einem Pseudonymisierungscode versehenen Formblätter 1 bis 5. Das Formblatt 1 (Antrag) ist vom Beihilfeberechtigten und das Formblatt 2 (Schweigepflichtentbindung) von der zu behandelnden Person oder dessen gesetzlichen Vertreter oder, wenn der Beihilfeberechtigte selbst behandelt wird, von dem Beihilfeberechtigten auszufüllen. Der Beihilfeberechtigte oder die zu behandelnde Person hat den behandelnden Psychotherapeuten oder Arzt zu ersuchen, auf dem Formblatt 3 die geplante Behandlung einzutragen und den Fachkundenachweis zu erbringen sowie auf dem Formblatt 4 einen Bericht für den Gutachter zu erstellen. Die Aufwendungen für den Bericht sind Bestandteil der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte. Werden neben der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte auch Aufwendungen für eine Leistung nach den Nummern 80, 85 oder 95 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte beantragt, sind diese nicht als beihilfefähig anzuerkennen (vergleiche OVG Münster, Urteil vom 18. September 2012, 1 A 2836/10). Wird die Behandlung durch einen Psychotherapeuten durchgeführt, ist zusätzlich von einem Arzt eine somatische Abklärung vorzunehmen und ein Konsiliarbericht (Formblatt 5) zu erstellen (vergleiche Nummer 16.4.1).
 
-Der Beihilfeberechtigte hat der Festsetzungsstelle das Formblatt 1 im Anhang 3 ausgefüllt vorzulegen. Außerdem hat der Beihilfeberechtigte oder der Patient den behandelnden Psychotherapeuten oder Arzt zu ersuchen, auf dem Formblatt 2 im Anhang 3 einen Bericht für den Gutachter zu erstellen. Die Aufwendungen für den Bericht sind Bestandteil der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte. Werden neben der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte auch Aufwendungen für eine Leistung nach den Nummern 80, 85 oder 95 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte beantragt, sind diese nicht als beihilfefähig anzuerkennen (vergleiche OVG Münster, Urteil vom 18. September 2012, 1 A 2836/10).  
+16a.5.6
 
-16b.3.6
+Der Psychotherapeut oder Arzt soll die ausgefüllten Formblätter möglichst insgesamt der Festsetzungsstelle übermitteln. Die Formblätter 4 und (wenn relevant) 5 sind dabei getrennt von den Formblättern 1 bis 3 in einem verschlossenen, als vertrauliche medizinische Unterlagen gekennzeichneten Umschlag an die Festsetzungsstelle zu senden.
 
-Der Psychotherapeut oder Arzt soll das ausgefüllte Formblatt 2 im Anhang 3 und gegebenenfalls das Formblatt 2a im Anhang 3 (vergleiche Nummer 16.3.1) in einem verschlossenen, als vertrauliche Arztsache gekennzeichneten Umschlag der Festsetzungsstelle zur Weiterleitung an den Gutachter übermitteln und dabei auf das Ersuchen des Beihilfeberechtigen oder Patienten verweisen.
+16a.5.7
+
+Nach Erhalt aller Unterlagen beauftragt die Festsetzungsstelle einen Gutachter mit der Erstellung des Gutachtens nach dem Formblatt 6 in zweifacher Ausfertigung. Dem Gutachter ist dabei mitzuteilen, dass eine Schweigepflichtentbindung vorliegt, da diese aufgrund der Unterschrift und der daraus möglichen Rückschlüsse auf die zu behandelnde Person nicht mehr mit zu übersenden ist. Sofern bereits ein Vorgutachten erstellt wurde, sind die diesbezüglichen Angaben (Datum und Namen des Vorgutachters) ebenfalls anzugeben. Die Übernahme der Kosten entsprechend der Nummer 16a.5.14 ist dem Gutachter zu erklären.
 
 
-16b.3.7
-
-Nach Erhalt aller Unterlagen beauftragt die Festsetzungsstelle mit dem Formblatt 3 im Anhang 3 einen Gutachter mit der Erstellung des Gutachtens nach dem Formblatt 4 im Anhang 3 und leitet ihm zugleich folgende Unterlagen zu:
+Dem Schreiben sind folgende Unterlagen beizufügen:
 
 
 a)
 
-den als vertrauliche Arztsache gekennzeichneten Umschlag des Arztes oder Psychotherapeuten (ungeöffnet!),
+das ausgefüllte Formblatt 3 (als Kopie),
 
 
 b)
 
-das ausgefüllte Formblatt 1 im Anhang 3 (als Kopie),
+den als vertrauliche medizinische Unterlagen gekennzeichneten Umschlag des Arztes oder Psychotherapeuten mit den Formblättern 4 und gegebenenfalls 5 (ungeöffnet!),
 
 
 c)
 
-das Formblatt 4 im Anhang 3, in dreifacher Ausfertigung,
+das Formblatt 6, in dreifacher Ausfertigung,
 
 
 d)
 
-einen an die Festsetzungsstelle adressierten, als vertrauliche Arztsache gekennzeichneten Freiumschlag.
+einen an die Festsetzungsstelle adressierten, als vertrauliche medizinische Unterlagen gekennzeichneten Freiumschlag.
 
 
-16b.3.8
+Die Formblätter 1 und 2 sind nicht mit zu übersenden.
 
-Der Gutachter übermittelt seine Stellungnahme nach dem Formblatt 4 im Anhang 3 – in zweifacher Ausfertigung – in dem Freiumschlag der Festsetzungsstelle.  Diese leitet eine Ausfertigung an den Psychotherapeuten oder Arzt weiter. Auf Grundlage dieser Stellungnahme erteilt die Festsetzungsstelle dem Beihilfeberechtigten einen rechtsmittelfähigen Bescheid über die Anerkennung der Beihilfefähigkeit der Aufwendungen für Psychotherapie nach dem Formblatt 5 im Anhang 3.
+16a.5.8
 
-
-16b.3.9
-
-Legt der Beihilfeberechtigte gegen den Bescheid der Festsetzungsstelle Widerspruch ein, kann die Festsetzungsstelle im Rahmen des Widerspruchsverfahrens ein Obergutachten einholen. Zu diesem Zweck hat der Beihilfeberechtigte oder der Patient den behandelnden Psychotherapeuten oder Arzt zu ersuchen, den Erstbericht an den Gutachter auf dem Formblatt 2 im Anhang 3 zu ergänzen, wobei insbesondere die Notwendigkeit der Behandlung erneut begründet und auf die Ablehnungsgründe der Festsetzungsstelle und des Gutachters eingegangen werden sollte. Der Psychotherapeut oder Arzt soll den ergänzten Bericht in einem verschlossenen, als vertrauliche
-
-Arztsache gekennzeichneten Umschlag der Festsetzungsstelle zur Weiterleitung an den Obergutachter übermitteln und dabei auf das Ersuchen des Beihilfeberechtigten oder
-
-des Patienten verweisen.
-
-
-16b.3.10
-
-Nach Erhalt der Unterlagen beauftragt die Festsetzungsstelle einen geeigneten Obergutachter mit der Erstellung eines Obergutachtens. Die Festsetzungsstelle leitet ihm zugleich folgende Unterlagen zu:
+Der Gutachter übermittelt seine Stellungnahme nach dem Formblatt 6 – in zweifacher Ausfertigung – in dem Freiumschlag der Festsetzungsstelle. Diese leitet eine Ausfertigung an den Psychotherapeuten oder Arzt weiter. Auf Grundlage dieser Stellungnahme erteilt die Festsetzungsstelle dem Beihilfeberechtigten einen rechtsmittelfähigen Bescheid über die Anerkennung der Beihilfefähigkeit der Aufwendungen für Psychotherapie. Der Bescheid beinhaltet:
 
 
 a)
 
-den als vertrauliche Arztsache gekennzeichneten Umschlag des Arztes oder Psychotherapeuten (ungeöffnet!),
+die anerkannte Therapieform,
+
+
+b)
+
+die zu behandelnde Person,
+
+
+c)
+
+den Namen des Therapeuten,
+
+
+d)
+
+die Anzahl der genehmigten Sitzungen in Einzel- oder Gruppenbehandlung/Mehrpersonensetting oder von überwiegend Einzel- oder Gruppenbehandlung bei Kombinationsbehandlung.
+
+16a.5.9
+
+Legt der Beihilfeberechtigte gegen den Bescheid der Festsetzungsstelle Widerspruch ein, kann die Festsetzungsstelle im Rahmen des Widerspruchsverfahrens ein Zweitgutachten einholen. Zu diesem Zweck hat der Beihilfeberechtigte oder der Patient den behandelnden Psychotherapeuten oder Arzt zu ersuchen, den Erstbericht an den Gutachter auf dem Formblatt 4 zu ergänzen, wobei insbesondere die Notwendigkeit der Behandlung erneut begründet und auf die Ablehnungsgründe der Festsetzungsstelle und des Gutachters eingegangen werden sollte. Der Psychotherapeut oder Arzt soll den ergänzten Bericht in einem verschlossenen, als vertrauliche medizinische Unterlagen gekennzeichneten Umschlag der Festsetzungsstelle zur Weiterleitung an den Zweitgutachter übermitteln und dabei auf das Ersuchen des Beihilfeberechtigten oder der zu behandelnden Person verweisen.
+
+16a.5.10
+
+Nach Erhalt der Unterlagen beauftragt die Festsetzungsstelle einen geeigneten Zweitgutachter mit der Erstellung eines Zweitgutachtens. Die Festsetzungsstelle leitet ihm zugleich folgende Unterlagen zu:
+
+
+a)
+
+den als vertrauliche medizinische Unterlagen gekennzeichneten Umschlag des Psychotherapeuten oder Arztes (ungeöffnet!),
 
 
 b)
@@ -2380,61 +2400,60 @@ Kopie des Psychotherapie-Gutachtens,
 
 c)
 
-einen an die Festsetzungsstelle adressierten, als vertrauliche Arztsache gekennzeichneten
-
-Freiumschlag.
+einen an die Festsetzungsstelle adressierten, als vertrauliche medizinische Unterlagen gekennzeichneten Freiumschlag.
 
 
-Ist der die psychotherapeutische Behandlung ablehnende Gutachter gleichzeitig Obergutachter, ist ein anderer Obergutachter einzuschalten. Ein Obergutachten ist nicht einzuholen, wenn die psychotherapeutische Behandlung aufgrund einer Stellungnahme des Gutachters abgelehnt wurde, weil der Psychotherapeut oder Arzt die in den §§ 16, 17 und 18 aufgeführten Voraussetzungen nicht erfüllt.
+Ist der die psychotherapeutische Behandlung ablehnende Gutachter gleichzeitig Zweitgutachter, ist ein anderer Zweitgutachter einzuschalten. Ein Zweitgutachten ist nicht einzuholen, wenn die psychotherapeutische Behandlung aufgrund einer Stellungnahme des Gutachters abgelehnt wurde, weil der Psychotherapeut oder Arzt die in den §§ 16 bis 18a aufgeführten Voraussetzungen nicht erfüllt.
 
+16a.5.11
 
-16b.3.11
+Der Zweitgutachter übermittelt seine Stellungnahme in dem Freiumschlag der Festsetzungsstelle. Auf Grundlage dieser Stellungnahme erteilt die Festsetzungsstelle dem Beihilfeberechtigten einen Widerspruchsbescheid.
 
-Der Obergutachter übermittelt seine Stellungnahme in dem Freiumschlag der Festsetzungsstelle. Auf Grundlage dieser Stellungnahme erteilt die Festsetzungsstelle dem Beihilfeberechtigten einen Widerspruchsbescheid.
+16a.5.12
 
+Bei einer Verlängerung der Behandlung oder Folgebehandlung leitet die Festsetzungsstelle den vom Psychotherapeuten oder Arzt begründeten Verlängerungsbericht (Bericht zum Fortführungsantrag) nach Formblatt 4 mit einem Freiumschlag dem Gutachter zu, welcher das Erstgutachten erstellt hat. Die Nummern 16a.5.6 bis 16a.5.9 gelten entsprechend.
 
-16b.3.12
+16a.5.13
 
-Bei einer Verlängerung der Behandlung oder Folgebehandlung leitet die Festsetzungsstelle den vom Psychotherapeuten oder Arzt begründeten  Verlängerungsbericht (Bericht zum Fortführungsantrag) nach Formblatt 2 im Anhang 3 mit einem Freiumschlag dem Gutachter zu, welcher das Erstgutachten erstellt hat. Dabei ist das Formblatt 4 im Anhang 3 um die zusätzlichen Angaben bei Folgebegutachtung zu ergänzen. Im Übrigen gelten die Nummern 16b.3.6 bis 16b.3.9 entsprechend.
+Um eine Konzentration auf einzelne Gutachter zu vermeiden, sind die Anträge zur Stellungnahme von der Festsetzungsstelle den Gutachtern oder Zweitgutachtern im Rotationsverfahren zuzuleiten.
 
+16a.5.14
 
-16b.3.13
+Die Kosten des Gutachtens in Höhe von 50 Euro und des Zweitgutachtens in Höhe von 85 Euro jeweils zuzüglich Umsatzsteuer, soweit diese in Rechnung gestellt wird, sowie die Aufwendungen für die Abrechnung der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte für die Einleitung des Gutachterverfahrens trägt die Festsetzungsstelle.
 
-Um eine Konzentration auf einzelne Gutachter zu vermeiden, sind die Anträge zur Stellungnahme von der Festsetzungsstelle den Gutachtern oder Obergutachtern im Rotationsverfahren zuzuleiten.
-
-
-16b.3.14
-
-Die Kosten des Gutachtens in Höhe von derzeit 41 Euro und des Obergutachtens in Höhe von derzeit 82 Euro jeweils zuzüglich Umsatzsteuer trägt die Festsetzungsstelle, soweit diese in Rechnung gestellt wird, sowie die Aufwendungen für die Abrechnung der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte für die Einleitung des Gutachterverfahrens.  
-
-16b.3.15
+16a.5.15
 
 Für Beamte im Ausland und ihre berücksichtigungsfähigen Angehörigen kann das Gutachten beim Gesundheitsdienst des Auswärtigen Amtes oder bei einem vom Gesundheitsdienst des Auswärtigen Amtes beauftragten Psychotherapeuten oder Arzt eingeholt werden.
 
+16a.6
 
-16b.4
+Zu Absatz 6
 
+16a.6.1
 
-Zu Absatz 4
+Im gleichen Behandlungszeitraum sind nur Aufwendungen für ein Behandlungsverfahren beihilfefähig. Werden im Verlauf der Behandlung daneben (nicht genehmigte) Leistungen anderer Behandlungsverfahren abgerechnet, sind diese Aufwendungen nicht beihilfefähig. Aus Fürsorgegründen ist davon abzusehen, die Beihilfegewährung für die gesamte Maßnahme in Frage zu stellen und bereits gewährte Beihilfe zurückzufordern.
 
+16a.6.2
 
-16b.4.1
+Ein Krankheitsfall umfasst die auf einer verbindenden Diagnose beruhende und im Wesentlichen einer einheitlichen Zielsetzung dienende Psychotherapie in einer akuten Krankheitsperiode.
+
+16a.7
+
+Zu Absatz 7
+
+16a.7.1
 
 Ist tiefenpsychologisch fundierte Psychotherapie oder Verhaltenstherapie in Gruppen oder analytische Psychotherapie als Einzel- oder Gruppentherapie anerkannt, kann diese Anerkennung nach Einholung eines erneuten Gutachtens in eine telekommunikationsgestützte Therapie umgewandelt werden.
 
+16a.7.2
 
-16b.4.2
+Die sich an eine in der Bundesrepublik Deutschland durchgeführte ambulante oder stationäre psychotherapeutische Behandlung anschließende Behandlung kann durch Einzelkontakt mittels Telefon oder in Form einer sogenannten E-Mail-Brücke erfolgen. Beim Einzelkontakt mittels Telefon sind Aufwendungen für fest vereinbarte Termine mit der üblichen Dauer psychotherapeutischer Sitzungen (50 Minuten) beihilfefähig. Beim Therapieverfahren mittels E-Mail-Brücke steht der Psychotherapeut oder Arzt üblicherweise eine Woche lang für Mail-Kontakte zur Verfügung unter der Zusicherung, dass jede E-Mail innerhalb von 24 Stunden beantwortet wird. Die Abrechnung für diese netzgestützte psychotherapeutische Intervention erfolgt einmal wöchentlich nach der Ziffer für Einzelpsychotherapie (Nummer 870 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte). Anfallende Telefon- oder Internetkosten für das internetgestützte Therapieverfahren gehören nicht zu den beihilfefähigen Aufwendungen.
 
-Die sich an eine in der Bundesrepublik Deutschland durchgeführte ambulante oder stationäre psychotherapeutische Behandlung anschließende Behandlung kann durch Einzelkontakt mittels Telefon oder in Form einer sogenannten E-Mail-Brücke erfolgen. Beim Einzelkontakt mittels Telefon sind Aufwendungen für fest vereinbarte Termine mit der üblichen Dauer psychotherapeutischer Sitzungen (50 Minuten) beihilfefähig. Beim Therapieverfahren mittels E-Mail-Brücke steht der Psychotherapeut oder Arzt üblicherweise eine Woche lang für Mail-Kontakte zur Verfügung unter der Zusicherung, dass jede E-Mail innerhalb von 24 Stunden beantwortet wird. Die Abrechnung für diese netzgestützte psychotherapeutische Intervention erfolgt einmal wöchentlich nach der Ziffer für Einzelpsychotherapie (Nummer 870 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte). Anfallende Telefonoder Internetkosten für das internetgestützte Therapieverfahren gehören nicht zu den beihilfefähigen Aufwendungen.    
+16a.8
 
+Zu Absatz 8
 
-16b.5
-
-
-Zu Absatz 5
-
-
-16b.5.1
+16a.8.1
 
 EMDR wird zur Behandlung traumatisierter Menschen und bei Störungsbildern wie zum Beispiel
 
@@ -2471,8 +2490,7 @@ chronischen komplexen Traumafolgestörungen nach schweren Belastungen in der Kin
 
 angewendet. Die Behandler müssen die Voraussetzungen des § 17 Absatz 2 bis 4 oder des § 18 Absatz 3 bis 5 erfüllen.
 
-
-16b.5.2
+16a.8.2
 
 EMDR ist nur beihilfefähig, wenn die behandelnde Person die erforderliche Qualifikation in der psychotherapeutischen Behandlung der posttraumatischen Belastungsstörung einschließlich der Methode EMDR im Rahmen der Weiterbildung erworben hat oder in mindestens 40 Stunden eingehende Kenntnisse in der Theorie der Traumabehandlung und der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben hat und mindestens 40 Stunden Einzeltherapie mit mindestens fünf abgeschlossenen Eye-Movement-Desensitization-and-Reprocessing-Behandlungsabschnitten unter Supervision von mindestens 10 Stunden mit Eye-Movement-Desensitization-and-Reprocessing-Behandlung durchgeführt hat. Entsprechende Zusatzqualifikationen müssen an oder über anerkannte Weiterbildungsstätten erworben worden sein.
 
@@ -2492,12 +2510,12 @@ Zu Absatz 1
 17.1.1                    
 
 
-Nummer 16a.2 gilt entsprechend.
+Nummer 16a.6.2 gilt entsprechend.
 
 
 17.1.2
 
-Bezugspersonen sind Personen aus dem engeren Umfeld (insbesondere Partner oder Familie) des Behandlungsbedürftigen. Bei der Behandlung von Kindern und Jugendlichen kann es notwendig sein, Bezugspersonen auch aus dem sozialen Umfeld einzubeziehen. Für die Einbeziehung von Bezugspersonen in die Therapie von Personen, die das 21. Lebensjahr vollendet haben, sind Sitzungen über das bewilligte Kontingent hinaus, nicht beihilfefähig.
+Bezugspersonen sind Personen aus dem engeren Umfeld (insbesondere Partner oder Familie) des Behandlungsbedürftigen. Bei der Behandlung von Kindern und Jugendlichen sowie von Menschen mit einer geistigen Behinderung kann es notwendig sein, Bezugspersonen auch aus dem sozialen Umfeld einzubeziehen. Die Sprechstunde kann auch mit relevanten Bezugspersonen ohne Anwesenheit des Kindes oder Jugendlichen stattfinden. Satz 3 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung. Für eine eingehende psychiatrische Beratung der Bezugspersonen nach Satz 2 bis 4 einschließlich der Erläuterung der Therapie ist die Leistung nach Nummer 817 der Gebühren des Gebührenverzeichnisses zur Gebührenordnung für Ärzte beihilfefähig. Für die Einbeziehung von Bezugspersonen in die Therapie von Personen, die das 21. Lebensjahr vollendet haben, und nicht geistig behindert sind, sind Sitzungen über das bewilligte Kontingent hinaus, nicht beihilfefähig.          
 
 
 17.2
@@ -2517,20 +2535,11 @@ Zu Absatz 3
 Ob die Qualifikationsvoraussetzungen erfüllt sind, kann in der Regel nach den Angaben des Psychotherapeuten beurteilt werden.
 
 
-17.3.2
-
-Psychologische Psychotherapeuten mit einer Approbation nach § 12 des Psychotherapeutengesetzes, die über eine abgeschlossene Ausbildung an einem anerkannten psychotherapeutischen Ausbildungsinstitut verfügen, können tiefenpsychologisch fundierte und analytische Psychotherapie durchführen (Nummern 860, 861 und 863 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte).          
-
-
 17.4                     
 
 
-Zu Absatz 4
+Zu Absatz 4 (bleibt frei)
 
-
-17.4.1
-
-Kinder- und Jugendlichenpsychotherapeuten können nur Leistungen für diejenige Psychotherapieform erbringen (tiefenpsychologisch fundierte und/oder analytische Psychotherapie), für die sie zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen oder in das Arztregister eingetragen sind. Kinder- und Jugendlichenpsychotherapeuten, die über eine abgeschlossene Ausbildung an einem anerkannten psychotherapeutischen Ausbildungsinstitut für Kinder- und  Jugendlichenpsychotherapie verfügen, können tiefenpsychologisch fundierte und analytische Psychotherapie durchführen (Nummern 860, 861 und 863 des Gebührenverzeichnisses zur  Gebührenordnung für Ärzte).  
 
 17.5
 
@@ -2582,7 +2591,7 @@ Zu Absatz 1
 18.1.1
 
 
-Die Nummern 16a.2 und 17.1.2 gelten entsprechend.
+Die Nummern 16a.6.2 und 17.1.2 gelten entsprechend.
 
 
 18.1.2                    
@@ -2592,26 +2601,19 @@ Der analoge Ansatz der Nummer 808 des Gebührenverzeichnisses zur Gebührenordnu
 
 18.1.3
 
-Wird die Verhaltenstherapie in der Gruppe durchgeführt, kann bei einer Mindestbehandlungsdauer von 100 Minuten (§ 16b Absatz 1) die Nummer 871 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte zweimal als beihilfefähig anerkannt werden. Der Gesamtumfang der beihilfefähigen Sitzungen bleibt hiervon unberührt.  
+Wird die Verhaltenstherapie in der Gruppe durchgeführt, kann bei einer Mindestbehandlungsdauer von 100 Minuten (§ 16 Absatz 2 Satz 2) die Nummer 871 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte zweimal als beihilfefähig anerkannt werden. Der Gesamtumfang der beihilfefähigen Sitzungen bleibt hiervon unberührt.  
 
 
 18.2                     
 
 
-Zu Absatz 2
-
-
-18.2.1
-
-Eine Verhaltenstherapie, die nicht mehr als 10 Einzel- oder 20 Gruppensitzungen beansprucht, kann ohne Durchführung eines Begutachtungsverfahrens
-
-genehmigt werden. In diesen Einzelfällen sind die Qualifikation des Behandlers und die Indikation durch die Festsetzungsstelle zu prüfen.
+Zu Absatz 2 (bleibt frei)
 
 
 18.3
 
 
-Zu Absatz 3 bleibt frei
+Zu Absatz 3 (bleibt frei)
 
 
 18.4                     
@@ -2620,29 +2622,90 @@ Zu Absatz 3 bleibt frei
 Zu Absatz 4
 
 
-18.4.1                    
+18.4.1
 
 
-Ob die Qualifikationsvoraussetzungen erfüllt sind, kann in der Regel nach den Angaben des Psychotherapeuten beurteilt werden.
+Nummer 17.3.1 gilt entsprechend.
 
 
 18.5                     
 
 
-Zu Absatz 5
+Zu Absatz 5 (bleibt frei)
 
 
-18.5.1
+18a
 
-Die fachliche Befähigung für die Behandlung von Kindern und Jugendlichen ist, sofern die Behandlung nicht durch einen Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie oder einen Kinder- und Jugendlichenpsychotherapeuten erfolgt, zusätzlich zu der Berechtigung nach den Absätzen 3 oder 4 durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen. Die fachliche Befähigung für Gruppenbehandlungen ist, sofern die Behandlung nicht durch einen Facharzt für Psychotherapeutische Medizin erfolgt, zusätzlich zu der Berechtigung nach den Absätzen 3 oder 4 durch eine entsprechende Berechtigung einer Kassenärztlichen
+Zu § 18a Systemische Therapie
 
-Vereinigung nachzuweisen.
+18a.1
+
+Zu Absatz 1
+
+18a.1.1
+
+Die Systemische Therapie fokussiert den sozialen Kontext psychischer Störungen und misst dem interpersonellen Kontext eine besondere ätiologische Relevanz bei. Symptome werden als kontraproduktiver Lösungsversuch psychosozialer und psychischer Probleme verstanden, die wechselseitig durch intrapsychische (kognitiv-emotive), biologisch-somatische sowie interpersonelle Prozesse beeinflusst sind. Theoretische Grundlage sind insbesondere die Kommunikations- und Systemtheorien, konstruktivistische und narrative Ansätze und das biopsychosoziale Systemmodell. Grundlage für Diagnostik und Therapie von psychischen Störungen ist die Analyse der Elemente der jeweiligen relevanten Systeme und ihrer wechselseitigen Beziehungen, sowohl unter struktureller als auch generationaler Perspektive und eine daraus abgeleitete Behandlungsstrategie. Der Behandlungsfokus liegt in der Veränderung von symptomfördernden, insbesondere familiären und sozialen Interaktionen, narrativen und intrapsychischen Mustern hin zu einer funktionaleren Selbst-Organisation der behandelten Person und des für die Behandlung relevanten sozialen Systems, wobei die Eigenkompetenz der Betroffenen genutzt wird. Schwerpunkte der systemischen Behandlungsmethoden sind insbesondere
 
 
-18.6                     
+–
+
+Methoden der systemischen Gesprächsführung und systemische Fragetechniken,
 
 
-Zu Absatz 6 (bleibt frei)
+–
+
+Narrative Methoden,
+
+
+–
+
+Lösungs- und ressourcenorientierte Methoden,
+
+
+–
+
+Strukturell-strategische Methoden,
+
+
+–
+
+Aktionsmethoden,
+
+
+–
+
+Methoden für die Arbeit am inneren System,
+
+
+–
+
+Methoden zur Affekt- und Aufmerksamkeitsregulation,
+
+
+–
+
+Symbolisch-metaphorische und expressive Methoden.
+
+18a.1.2
+
+Aufwendungen für Leistungen der Systemischen Therapie sind nur bei Erwachsenen beihilfefähig.
+
+18a.1.3
+
+Die Leistung der Systemischen Therapie ist im Gebührenverzeichnis zur Gebührenordnung für Ärzte nicht enthalten. Die Aufwendungen sind daher analog nach § 6 Absatz 2 der Gebührenordnung für Ärzte beihilfefähig.
+
+18a.2
+
+
+Zu Absatz 2 (bleibt frei)
+
+18a.3
+
+Zu Absatz 3
+
+18a.3.1
+
+Nummer 17.3.1 gilt entsprechend.
 
 
 19                     
@@ -2651,7 +2714,7 @@ Zu Absatz 6 (bleibt frei)
 Zu § 19 Psychosomatische Grundversorgung
 
 
-19.1                     
+19.1
 
 
 Zu Absatz 1                     
@@ -2672,7 +2735,7 @@ Zu Absatz 2
 19.2.1                    
 
 
-Nummer 16a.2 gilt entsprechend.
+Nummer 16a.6.2 gilt entsprechend.
 
 
 19.3                     
@@ -2707,7 +2770,7 @@ Hinsichtlich der Angemessenheit der Aufwendungen sind die Nummern 37.4.3 und 37.
 20                     
 
 
-Zu § 20 Krankenhausleistungen                     
+Zu § 20 Krankenhausleistungen
 
 
 20.1                     
@@ -2719,31 +2782,34 @@ Zu Absatz 1
 20.1.1                    
 
 
-Die Krankenhausbehandlung umfasst im Rahmen des Versorgungsauftrags des Krankenhauses alle Leistungen, die im Einzelfall nach Art und Schwere der Krankheit für die medizinische Versorgung der Versicherten im Krankenhaus notwendig sind, insbesondere ärztliche Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre Behandlung umfasst auch die im Einzelfall erforderlichen und zum frühestmöglichen Zeitpunkt einsetzenden Leistungen zur Frührehabilitation (vergleiche § 2 des Krankenhausentgeltgesetzes, § 39 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch). Die Krankenhausbehandlung im Sinne des § 20 kann vollstationär, stationsäquivalent, teilstationär oder vor- und nachstationär erbracht werden (vergleiche Nummer 20.2.8). Die Angemessenheit der stationsäquivalenten  Krankenhausbehandlung, die ab 1. Januar 2017 von psychiatrischen und psychosomatischen Einrichtungen erbracht werden kann, richtet sich nach der Bundespflegesatzverordnung.          
+Die Krankenhausbehandlung umfasst im Rahmen des Versorgungsauftrags des Krankenhauses alle Leistungen, die im Einzelfall nach Art und Schwere der Krankheit für die medizinische Versorgung der Versicherten im Krankenhaus notwendig sind, insbesondere ärztliche Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre Behandlung umfasst auch die im Einzelfall erforderlichen und zum frühestmöglichen Zeitpunkt einsetzenden Leistungen zur Frührehabilitation (vergleiche § 2 des Krankenhausentgeltgesetzes, § 39 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch).    Die Krankenhausbehandlung im Sinne des § 20 kann vollstationär, stationsäquivalent, teilstationär oder vor- und nachstationär erbracht werden (vergleiche Nummer 20.2.8).    Die Angemessenheit der stationsäquivalenten Krankenhausbehandlung, die seit 1. Januar 2017 von psychiatrischen und psychosomatischen Einrichtungen erbracht werden kann, richtet sich nach der Bundespflegesatzverordnung. Die Leistungsbeschreibung der stationsäquivalenten psychiatrischen Behandlung ergibt sich aus der Vereinbarung gemäß § 115d Absatz 3 des Fünften Buches Sozialgesetzbuch von GKV-Spitzenverband, Verband der Privaten Krankenversicherung und der Deutschen Krankenhausgesellschaft im Einvernehmen mit den Fachgesellschaften, die am 31. März 2017 in Kraft getreten ist. Sie ist auf der Internetseite des GKV-Spitzenverbandes veröffentlicht.
 
 20.1.2                    
 
 
-Bei Aufwendungen für allgemeine Krankenhausleistungen sind bezüglich des Beihilfeanspruchs grundsätzlich die Verhältnisse am ersten Tag des Aufenthaltes maßgebend. Ist bei der Zuordnung von Behandlungsfällen zu einem Entgelt auch das Alter der behandelten Person zu berücksichtigen, ist das Alter am Tag der Aufnahme in das Krankenhaus maßgeblich. Treten während des stationären Aufenthaltes Veränderungen ein, ist eine tagesanteilige Abrechnung entsprechend Nummer 57.1.1 vorzunehmen.                    
+Bei Aufwendungen für allgemeine Krankenhausleistungen sind bezüglich des Beihilfeanspruchs grundsätzlich die Verhältnisse am ersten Tag des Aufenthaltes maßgebend. Ist bei der Zuordnung von Behandlungsfällen zu einem Entgelt auch das Alter der behandelten Person zu berücksichtigen, ist das Alter am Tag der Aufnahme in das Krankenhaus maßgeblich. Treten während des stationären Aufenthaltes Veränderungen ein, ist eine tagesanteilige Abrechnung entsprechend Nummer 57.1.1 vorzunehmen.
+
+Findet ein Dienstherrenwechsel während eines Krankenhausaufenthaltes statt, ist eine Kostenaufteilung vorzunehmen und Beihilfe nur anteilig zu gewähren. Im Wege der Direktabrechnung wird der gesamte Krankenhausaufenthalt grundsätzlich mit dem Kostenträger abgerechnet, der am Tag der Aufnahme in das Krankenhaus leistungspflichtig war. Dies folgt aus den Festlegungen in § 10 der Fallpauschalenvereinbarung 2020 und § 9 der Vereinbarung über die pauschalierenden Entgelte für die Psychiatrie und Psychosomatik 2020 und den entsprechenden Festlegungen in den Folgevereinbarungen. In diesen Fällen sollte von einer Direktabrechnung abgesehen oder mit dem Krankenhaus eine anteilige Abrechnung vereinbart werden.
 
 
 20.1.3                    
 
 
-Aufwendungen für zusätzlich zu einer Fallpauschale berechenbare Zusatzentgelte, Zu- und Abschläge sowie sonstige festgelegte Entgelte nach § 8 Absatz 2 des Krankenhausentgeltgesetzes sind beihilfefähig.  Beihilfefähig sind auch die Zuschläge, die entsprechend dem Krankenhausfinanzierungsgesetz oder dem Krankenhausentgeltgesetz in Rechnung gestellt werden können, wie zum Beispiel DRG-Systemzuschlag, Sicherstellungszuschlag, Qualitätssicherungszuschlag, Zuschlag für Ausbildungsstätten und Ausbildungsvergütungen, Zuschlag für Arzt im Praktikum und berechenbare Zusatzentgelte.          
-
-20.1.4                    
+Für die Beihilfefähigkeit der allgemeinen Krankenhausleistungen sind die für das jeweilige Kalenderjahr gemäß § 9 Absatz 1 Nummern 1 bis 3 des Krankenhausentgeltgesetzes vereinbarten Kataloge (Fallpauschalen-Katalog, Katalog ergänzender Zusatzentgelte, Pflegeerlöskatalog) und die hierfür geltenden Abrechnungsbestimmungen maßgebend. Mit Artikel 1 des Pflegepersonal-Stärkungsgesetz vom 11. Dezember 2018 wurde § 17b Absatz 4 des Krankenhausfinanzierungsgesetzes dahingehend geändert, dass die Pflegepersonalkosten für die unmittelbare Patientenversorgung auf bettenführenden Stationen erstmals für das Jahr 2020 aus dem G-DRG-System ausgegliedert und in einen Pflegeerlöskatalog überführt werden. Die Vergütung der Pflegepersonalkosten wurde in eine separate Pflegepersonalkostenvergütung überführt. Die beihilfefähigen tagesbezogenen Pflegentgelte ergeben sich aus dem Produkt der Pflegerlös-Bewertungsrelation pro Tag (vergleiche Pflegerlöskatalog) und dem krankenhausindividuellen Pflegentgelt. Aufwendungen für gemäß § 8 Absatz 2 des Krankenhausentgeltgesetzes zusätzlich zu einer Fallpauschale in Rechnung gestellte Zusatzentgelte, Zu- und Abschläge (siehe auch Nummer 20.1.5) sowie sonstige festgelegte Entgelte sind beihilfefähig.
 
 
-Gemäß § 17d Absatz 1 des Krankenhausfinanzierungsgesetz in Verbindung mit der Bundespflegesatzverordnung  wird für die Vergütung der allgemeinen Krankenhausleistungen von  Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten Abteilungen an somatischen  Krankenhäusern für die Fachgebiete Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie  und -psychotherapie (psychiatrische Einrichtungen) sowie Psychosomatische  Medizin und Psychotherapie (psychosomatische Einrichtungen) ein durchgängiges, leistungsorientiertes  und pauschalierendes Vergütungssystem eingeführt. Dieses Vergütungssystem  basiert im Gegensatz zum DRG-System, das Fallpauschalen definiert, auf tagesbezogenen  Entgelten. Mit den Entgelten, die dem Grunde nach beihilfefähig sind, werden die voll- und teilstationären  sowie stationsäquivalenten allgemeinen Krankenhausleistungen vergütet. Die Vereinbarungen  zum pauschalierenden Entgeltsystem (PEPPV) und dessen Weiterentwicklung  treffen die Vertragsparteien (GKV-Spitzenverband, Verband der privaten Krankenversicherung,  Deutsche Krankenhausgesellschaft) grundsätzlich jährlich. Die Definition der Entgelte und  ihre Bewertungsrelationen werden bundeseinheitlich festgelegt. In Ausnahmefällen können  die Vertragsparteien Zusatzentgelte und deren Höhe vereinbaren. Für Leistungen, die mit den  nach § 17d des Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten  noch nicht sachgerecht vergütet werden können, können nach § 6 Absatz 1 der Bundespflegesatzverordnung  krankenhausindividuelle Entgelte verhandelt werden.
-Die Abrechnung der pauschalierenden Entgelte für die Psychiatrie und Psychosomatik (PEPP)  erfolgt durch die leistungserbringenden Krankenhäuser auf der Grundlage des am Tag der voll- oder  teilstationären Aufnahme geltenden Entgeltkataloges und den dazu gehörenden Abrechnungsbestimmungen  (vergleiche beispielsweise PEPPV 2018 für Krankenhausbehandlung im  Jahr 2018). Die Einstufung wird mittels Programmen (Grouper) in die jeweiligen Entgelte und  innerhalb der Entgelte in der Regel in Vergütungsklassen (abhängig von der Anzahl der Berechnungstage)  vorgenommen. Die Entgelthöhe je Tag wird ermittelt, indem die im Entgeltkatalog  ausgewiesene Bewertungsrelation (Anlage 1a oder Anlage 2a beziehungsweise Anlage 5 des  Entgeltkatalogs) mit dem Basisentgeltwert multipliziert wird. An den Tagen, an denen ein Aufwand  für ergänzende Tagesentgelte (ET) angefallen ist, ist (sind) zusätzlich die ausgewiesene  Bewertungsrelation(en) des (der) ergänzenden Tagesentgelte(s) ansatzfähig. Das Tagesentgelt  ergibt sich dann aus der Summe der (Tages-)Bewertungsrelationen multipliziert mit dem  Basisentgeltwert. Gegebenenfalls können noch vereinbarte Zusatzentgelte abgerechnet  werden. Dauert die Behandlung über den Kalenderjahreswechsel hinaus an, gilt § 15 der Bundespflegesatzverordnung  für die Abrechnung entsprechend. Berechnungstage sind der Aufnahmetag  sowie jeder weitere Tag des Krankenhausaufenthalts inklusive des Verlegungs- oder  Entlassungstages aus dem Krankenhaus; wird ein Patient am gleichen Tag (gegebenenfalls  auch mehrfach) aufgenommen und verlegt oder entlassen, gilt dieser Tag als Aufnahmetag  und zählt als ein Berechnungstag. Hinsichtlich Ergänzungen und Änderungen wird auf die zum  Behandlungszeitpunkt geltende PEPPV hingewiesen. Die nach den im Behandlungszeitraum  geltenden Entgeltkatalog und den dazu gehörenden Abrechnungsbestimmungen berechneten  Aufwendungen sind beihilfefähig.
-Das Psych-Entgeltsystem ersetzt die Entgelte nach § 17 Absatz 2 des Krankenhausfinanzierungsgesetzes  (tagesgleiche Pflegesätze). Bis Ende 2017 ist die Einführung des Vergütungssystems  für die Krankenhäuser freiwillig. Verbindlich für alle Krankenhäuser wird das Vergütungssystem  zum 1. Januar 2018 eingeführt. Bis Ende des Jahres 2019 wird das  Vergütungssystem für die Krankenhäuser budgetneutral umgesetzt. Ab dem Jahr 2020 sind  der krankenhausindividuelle Basisentgeltwert und der Gesamtbetrag nach den näheren Bestimmungen  der Bundespflegesatzverordnung von den Vertragsparteien anzupassen (Anpassungsphase).  Führen Krankenhäuser das Vergütungssystem für den Zeitraum bis Ende 2017  nicht ein, haben sie die Abrechnung gemäß § 18 der Bundespflegesatzverordnung durchzuführen  und die Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden  Fassung anzuwenden.    
+20.1.4
+
+
+Gemäß § 17d Absatz 1 des Krankenhausfinanzierungsgesetz in Verbindung mit der Bundespflegesatzverordnung  wird für die Vergütung der allgemeinen Krankenhausleistungen von  Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten Abteilungen an somatischen  Krankenhäusern für die Fachgebiete Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie  und -psychotherapie (psychiatrische Einrichtungen) sowie Psychosomatische  Medizin und Psychotherapie (psychosomatische Einrichtungen) ein durchgängiges, leistungsorientiertes  und pauschalierendes Vergütungssystem eingeführt.    Dieses Vergütungssystem  basiert im Gegensatz zum DRG-System, das Fallpauschalen definiert, auf tagesbezogenen  Entgelten.    Mit den Entgelten, die dem Grunde nach beihilfefähig sind, werden die voll- und teilstationären  sowie stationsäquivalenten allgemeinen Krankenhausleistungen vergütet.    Die Vereinbarungen  zum pauschalierenden Entgeltsystem (PEPPV) und dessen Weiterentwicklung  treffen die Vertragsparteien (GKV-Spitzenverband, Verband der privaten Krankenversicherung,  Deutsche Krankenhausgesellschaft) grundsätzlich jährlich.    Die Definition der Entgelte und  ihre Bewertungsrelationen werden bundeseinheitlich festgelegt.    In Ausnahmefällen können  die Vertragsparteien Zusatzentgelte und deren Höhe vereinbaren.    Für Leistungen, die mit den  nach § 17d des Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten  noch nicht sachgerecht vergütet werden können, können nach § 6 Absatz 1 der Bundespflegesatzverordnung  krankenhausindividuelle Entgelte verhandelt werden.
+Die Abrechnung der pauschalierenden Entgelte für die Psychiatrie und Psychosomatik (PEPP)  erfolgt durch die leistungserbringenden Krankenhäuser auf der Grundlage des am Tag der voll- oder  teilstationären Aufnahme geltenden Entgeltkataloges und den dazu gehörenden Abrechnungsbestimmungen.    Die Einstufung wird mittels Programmen (Grouper) in die jeweiligen Entgelte und  innerhalb der Entgelte in der Regel in Vergütungsklassen (abhängig von der Anzahl der Berechnungstage)  vorgenommen.    Die Entgelthöhe je Tag wird ermittelt, indem die im Entgeltkatalog  ausgewiesene Bewertungsrelation (Anlage 1a oder Anlage 2a beziehungsweise Anlage 5 des  Entgeltkatalogs) mit dem Basisentgeltwert multipliziert wird.    An den Tagen, an denen ein Aufwand für ergänzende Tagesentgelte (ET) angefallen ist, sind zusätzlich die ausgewiesenen Bewertungsrelationen der ergänzenden Tagesentgelte ansatzfähig.    Das Tagesentgelt  ergibt sich dann aus der Summe der (Tages-)Bewertungsrelationen multipliziert mit dem  Basisentgeltwert.    Gegebenenfalls können noch vereinbarte Zusatzentgelte abgerechnet  werden.    Dauert die Behandlung über den Kalenderjahreswechsel hinaus an, gilt § 15 der Bundespflegesatzverordnung  für die Abrechnung entsprechend.    Berechnungstage sind der Aufnahmetag  sowie jeder weitere Tag des Krankenhausaufenthalts inklusive des Verlegungs- oder  Entlassungstages aus dem Krankenhaus; wird ein Patient am gleichen Tag (gegebenenfalls  auch mehrfach) aufgenommen und verlegt oder entlassen, gilt dieser Tag als Aufnahmetag  und zählt als ein Berechnungstag.    Hinsichtlich Ergänzungen und Änderungen wird auf die zum  Behandlungszeitpunkt geltende PEPPV hingewiesen.    Die nach den im Behandlungszeitraum  geltenden Entgeltkatalog und den dazu gehörenden Abrechnungsbestimmungen berechneten  Aufwendungen sind beihilfefähig.
+Das Psych-Entgeltsystem ersetzt die Entgelte nach § 17 Absatz 2 des Krankenhausfinanzierungsgesetzes  (tagesgleiche Pflegesätze).    Bis Ende 2017 war die Einführung des Vergütungssystems  für die Krankenhäuser freiwillig.    Verbindlich für alle Krankenhäuser wurde das Vergütungssystem  zum 1. Januar 2018 eingeführt.    Bis Ende des Jahres 2019 wurde das  Vergütungssystem für die Krankenhäuser budgetneutral umgesetzt.    Ab dem Jahr 2020 sind  der krankenhausindividuelle Basisentgeltwert und der Gesamtbetrag nach den näheren Bestimmungen  der Bundespflegesatzverordnung von den Vertragsparteien anzupassen (Anpassungsphase).  
 
 
 20.1.5                    
 
 
-Erfolgt die Abrechnung einer Krankenhausbehandlung nach tagesgleichen Pflegesätzen, ist die Unterbringung einer Begleitperson im Krankenhaus, die aus medizinischen Gründen notwendig ist, durch den Pflegesatz nach der Bundespflegesatzverordnung abgegolten; die Kosten für die Unterbringung einer Begleitperson außerhalb des Krankenhauses sind in solchen Fällen nicht beihilfefähig. Werden Krankenhausbehandlungen nach den Vorgaben des                 Krankenhausentgeltgesetzes abgerechnet, kann für die Unterbringung einer Begleitperson im Krankenhaus, die aus medizinischen Gründen notwendig ist (§ 2 Absatz 2 Satz 2 Nummer 3 des                             Krankenhausentgeltgesetzes              ), auf der Basis von § 17b Absatz 1 Satz 4 und § 17d Absatz 2 Satz 3 des                 Krankenhausfinanzierungsgesetzes ein Zuschlag für die Aufnahme von Begleitpersonen, der auf einer Vereinbarung zwischen dem AOK-Bundesverband, den Ersatzkassen sowie dem PKV-Verband einerseits sowie der Deutschen Krankenhausgesellschaft anderseits basiert, berechnet werden; dies gilt nicht für Entlassungs- und Verlegungstage, die nicht zugleich Aufnahmetag sind. Entsprechende Kosten sind bis zu der vereinbarten Höhe für den Aufnahmetag und jeden weiteren Tag des vollstationären Krankenhausaufenthalts beihilfefähig. Besonders berechnete Kosten für eine medizinisch nicht notwendige Unterbringung einer Begleitperson sind nicht beihilfefähig. Der Zuschlag für die Aufnahme einer Begleitperson kann auf der Basis des § 2 Absatz 2 Satz 2 Nummer 3 der Bundespflegesatzverordnung vereinbart werden. Die Ausnahmen für die Beihilfefähigkeit von Aufwendungen für die Unterbringung einer Begleitperson außerhalb des Krankenhauses sind abschließend in Absatz 3 Satz 2 und 3 geregelt.                                                                             
+Soweit allgemeine Krankenhausleistungen nicht oder noch nicht in die pauschalen Entgelte nach § 17b Absatz 1 Satz 1 (DRG-System) oder § 17d Absatz 2 Satz 3 (PEPP-System) des Krankenhausfinanzierungsgesetzes einbezogen sind, richten sich diese nach Vereinbarungen für Zu- oder Abschläge auf Bundesebene (§ 17b Absatz 1a des Krankenhausfinanzierungsgesetzes). Sie werden in der Regel jährlich neu vereinbart. Die möglichen Zu- und Abschläge für das jeweilige Kalenderjahr veröffentlicht der GKV-Spitzenverband auf seiner Internetseite. Die Liste enthält auch den Zuschlag für die medizinisch notwendige Aufnahme einer Begleitperson im Krankenhaus, der auf einer vom AOK-Bundesverband, den Ersatzkassen, dem PKV-Verband sowie der Deutschen Krankenhausgesellschaft am 16. September 2004 getroffenen Vereinbarung nach § 17b Absatz 1 Satz 4 (aktuell § 17b Absatz 1a Nummer 3) des Krankenhausfinanzierungsgesetzes beruht. Für den Aufnahmetag und jeden weiteren vollstationären Aufenthaltstag ist ein Zuschlag in Höhe von 45 Euro für Unterkunft und Verpflegung der Begleitperson vereinbart. Dies gilt nicht für Entlassungs- und Verlegungstage, die nicht zugleich Aufnahmetag sind. Aufwendungen für berechnete Zuschläge sind im Fall der medizinisch notwendigen Aufnahme der Begleitperson beihilfefähig. Aufwendungen in dieser Höhe können auch bei der Ermittlung des beihilfefähigen Höchstbetrages für Krankenhäuser, die nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind (Absatz 2), als beihilfefähig berücksichtigt werden. Die Ausnahmen für die Beihilfefähigkeit von Aufwendungen für die Unterbringung einer Begleitperson außerhalb des Krankenhauses sind abschließend in Absatz 3 Satz 2 und 3 geregelt.
 
 20.1.6                    
 
@@ -2802,51 +2868,69 @@ Zu Absatz 2
 20.2.1                    
 
 
-Der beihilfefähige Höchstbetrag für allgemeine Krankenhausleistungen (Entgelte für Unterkunft, Verpflegung, therapeutische, pflegerische und ärztliche Leistungen) bei Behandlung in Krankenhäusern, die weder in den Geltungsbereich des Krankenhausentgeltgesetzes noch in den der Bundespflegesatzverordnung fallen und Indikationen behandeln, die über DRG-Fallpauschalen abgerechnet werden, ist aus dem Produkt der oberen Grenze des auf Bundesebene gemäß § 10 Absatz 9 des                Krankenhausentgeltgesetzes zu vereinbarenden einheitlichen Basisfallwertkorridors und der Bewertungsrelation gemäß Teil a des DRG-Fallpauschalenkatalogs (Bewertungsrelation bei Versorgung durch Hauptabteilungen) zu bilden. Der Bundesbasisfallwert und dessen Korridor werden jährlich neu vereinbart. Eine Überschreitung der durchschnittlichen Verweildauer und Zusatzentgelte sind bei dem Kostenvergleich nicht zu berücksichtigen. Neben den allgemeinen Krankenhausleistungen sind die gesondert berechenbare Wahlleistung „Unterkunft im Zweibettzimmer“ pauschal bis zu einer Höhe von 1,5 Prozent der oberen Korridorgrenze des Bundesbasisfallwertes gemäß § 10 Absatz 9 des Krankenhausentgeltgesetzes abzüglich der Eigenbeteiligung von 14,50 Euro je Aufenthaltstag und wahlärztliche Leistungen oder von niedergelassenen Ärzten nach der Gebührenordnung für Ärzte abgerechnete Leistungen (auch belegärztliche Leistungen) beihilfefähig (vergleiche § 59 Absatz 2). Diese sind nicht in den Kostenvergleich einzubeziehen.          
+Der beihilfefähige Höchstbetrag für allgemeine Krankenhausleistungen (Entgelte für Unterkunft, Verpflegung, therapeutische, pflegerische und ärztliche Leistungen) bei Untersuchungen und Behandlungen in Krankenhäusern, die weder in den Geltungsbereich des Krankenhausentgeltgesetzes noch in den der Bundespflegesatzverordnung fallen, richtet sich nach den Indikationen. Bei Indikationen, die über DRG-Fallpauschalen abgerechnet werden, ist die Berechnung nach Nummer 1 vorzunehmen. Der beihilfefähige Betrag ergibt sich aus der Summe der nach Nummer 1 Buchstaben a bis c ermittelten Beträge.
 
-20.2.2                    
+20.2.1.1
 
-
-Bei einer Behandlung in einer Privatklinik für psychische und psychosomatische Erkrankungen ist die Beihilfefähigkeit der Summe aus täglichem Basispflegesatz und Abteilungspflegesatz auf die in Buchstabe a und b genannten Höchstbeträge begrenzt. Ein Kostenvergleich mit Kliniken der Maximalversorgung ist nicht durchzuführen. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Wahlärztliche Leistungen sind nicht in den Kostenvergleich einzubeziehen. Als Kinder gelten Personen bis zur Vollendung des 18. Lebensjahres. Maßgebend sind die Verhältnisse am Aufnahmetag.                    
-
-
-20.2.3                    
+Zu Nummer 1 Buchstabe a:
 
 
-Die Frührehabilitation wird in der Bundesrepublik Deutschland nach dem Phasenmodell der Bundesarbeitsgemeinschaft Rehabilitation (BAR) als Rehabilitationsleistung oder als Krankenhausbehandlung nach dem               Krankenhausentgeltgesetz im Rahmen des Fallpauschalensystems durchgeführt. Die Abrechnung der Leistungen erfolgt je nach Zuordnung nach tagesgleichen Sätzen oder als Komplexpauschale im G-DRG-Fallpauschalensystem. Beihilferechtlich wird eine Frührehabilitation Phase B den Krankenhausleistungen zugeordnet. Die Beihilfefähigkeit der Summe aus täglichem Basispflegesatz und Abteilungspflegesatz ist auf den in Buchstabe c genannten Höchstbetrag begrenzt. Ein Kostenvergleich ist nicht durchzuführen. Darüber hinaus können Kosten im Einzelfall als beihilfefähig anerkannt werden, wenn diese Vergütungen in Verträgen der Einrichtung mit privaten Krankenversicherungsunternehmen, Sozialversicherungsträgern oder im Rahmen von Modellvorhaben der Sozialversicherungsträger vereinbart sind.                                          
+Der beihilfefähige Betrag berechnet sich aus dem Produkt des für das jeweilige Jahr gemäß § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbarten einheitlichen Basisfallwertes (im Jahr 2020: 3 679,62 Euro) und der Bewertungsrelation gemäß Teil a des DRG-Fallpauschalenkatalogs (Bewertungsrelation bei Versorgung durch Hauptabteilungen aufgrund der ermittelten Fallpauschale). Ab dem Jahr 2021 wird der jährliche Bundesbasisfallwert erst im März nach Festlegung der Landesbasisfallwerte vereinbart. Für Aufwendungen, die vor einer vorliegenden Vereinbarung für das laufende Jahr beantragt werden, ist die Beihilfe unter Anwendung des einheitlichen Basisfallwertes des Vorjahres festzusetzen. Wird die durchschnittliche Verweildauer über- oder unterschritten, ist dies mit dem entsprechenden Zu- oder Abschlag zu berücksichtigen.
 
-20.2.4                    
+20.2.1.2
+
+Zu Nummer 1 Buchstabe b:
 
 
-Die von Privatkliniken in Rechnung gestellte Umsatzsteuer ist grundsätzlich beihilfefähig und kann in die Vergleichsberechnung im Rahmen des errechneten beihilfefähigen Höchstbetrages einbezogen werden.
+Für die Ermittlung der beihilfefähigen ausgegliederten Pflegepersonalkosten ist der Pflegeentgeltwert nach § 15 Absatz 2a des Krankenhausentgeltgesetzes (ab 1. Januar 2021: 163,09 Euro) mit der entsprechenden Bewertungsrelation aus dem Pflegeerlöskatalog für jeden Belegungstag zu multiplizieren.
 
+20.2.1.3
+
+Zu Nummer 1 Buchstabe c:
+
+
+Sind in der Rechnung Zusatzentgelte ausgewiesen, sind diese bis zur Höhe des im Zusatzentgeltkatalog des Krankenhausentgeltgesetzes angegebenen Betrages beihilfefähig. Neben den allgemeinen Krankenhausleistungen sind die gesondert berechenbare Wahlleistung „Unterkunft im Zweibettzimmer“ pauschal bis zu einer Höhe von 1,5 Prozent der oberen Korridorgrenze des Bundesbasisfallwertes gemäß § 10 Absatz 9 des Krankenhausentgeltgesetzes abzüglich der Eigenbeteiligung von 14,50 Euro je Aufenthaltstag und wahlärztliche Leistungen oder von niedergelassenen Ärzten nach der Gebührenordnung für Ärzte abgerechnete Leistungen (auch belegärztliche Leistungen) beihilfefähig (vergleiche § 59 Absatz 2). Diese sind nicht in den Kostenvergleich einzubeziehen.
+
+20.2.2
+
+Bei Indikationen, die mit dem pauschaliertem Entgeltsystem PEPP in Krankenhäusern oder selbständigen Abteilungen der Psychiatrie, Psychotherapie oder psychosomatischen Medizin abgerechnet werden, ist der beihilfefähige Betrag nach Nummer 2 zu ermitteln:
+
+20.2.2.1
+
+Zu Nummer 2 Buchstabe a:
+
+
+Das PEPP-Entgelt ergibt sich entsprechend der Eingruppierung der erbrachten Leistung in eine PEPP nach Anlage 1a oder Anlage 2a des PEPP-Entgeltkataloges. Die in Abhängigkeit von der Anzahl der Berechnungstage (Vergütungsklasse) sich ergebende Bewertungsrelation ist je Aufenthaltstag mit dem krankenhausindividuellen Basisentgeltwert des dem Behandlungsort nächstgelegenen Krankenhauses der Maximalversorgung zu multiplizieren. Welche PEPP bei einem Krankheitsbild für die Abrechnung heranzuziehen ist, kann in der Regel erst aufgrund der erbrachten therapeutischen Leistungen und Diagnosen am Ende des stationären Aufenthaltes festgestellt werden. Die Beihilfeberechtigten sind bei Kostenzusagen (vergleiche Nummer 62.3.3.) von der Festsetzungsstelle auf diese Unsicherheiten hinzuweisen.
+
+20.2.2.2
+
+Zu Nummer 2 Buchstabe b:
+
+
+Zusatzentgelte sind zu berücksichtigen, wenn sie in der Rechnung ausgewiesen sind (Angabe der ZPD). Sie sind bis zu der Höhe, des sich aus Anlage 3 des PEPP-Entgeltkataloges ergebenden Betrages beihilfefähig.
+
+20.2.2.3
+
+Zu Nummer 2 Buchstabe c:
+
+
+Sind in der Rechnung ergänzende Tagesentgelte ausgewiesen (Angabe der ETD), sind diese bis zu der nach Anlage 5 des PEPP-Entgeltkataloges angegebenen Höhe beihilfefähig. Das beihilfefähige Entgelt je Tag wird ermittelt, indem die in Anlage 5 des Entgeltkatalogs ausgewiesene maßgebliche Bewertungsrelation je Berechnungstag mit dem Basisentgeltwert nach Nummer 2 Buchstabe a multipliziert wird. Wenn Angaben zu Zusatzentgelten und ergänzenden Tagesentgelten fehlen oder unvollständig sind und deshalb Aufwendungen ungedeckt bleiben, kann hierfür ein pauschales beihilfefähiges Entgelt in Höhe der Differenz des sich bei einer Vergleichsberechnung nach Nummer 3 Buchstaben a und b ergebenden beihilfefähigen Betrages und dem nach Nummer 2 ermittelten beihilfefähigen Betrages als beihilfefähig anerkannt werden.
+
+20.2.3
+
+Für psychiatrische, psychotherapeutische und psychosomatische Indikationen in Krankenhäusern sind auch DRG-Fallpauschalen festgelegt (Hauptdiagnosegruppe „MDC 19 Psychische Krankheiten und Störungen“). Eine DRG-Abrechnung beziehungsweise eine Höchstbetragsberechnung nach Nummer 1 ist sachgerecht, wenn es sich um einen akuten Behandlungsbedarf im Akutkrankenhaus oder um eine Notfallversorgung handelt. Behandlungen in privaten Fachkliniken mit einem psychiatrischen, psychotherapeutischen oder psychosomatischen Charakter der individuell durchgeführten therapeutischen Maßnahmen sind dem PEPP-Verfahren zuzuordnen. Mit den beihilfefähigen Höchstbeträgen nach Nummer 1 und 2 ist das Spektrum der beihilfefähigen Krankenhausbehandlung grundsätzlich vollständig erfasst, sodass es sich bei anderen Fällen im Sinne von Nummer 3 um Ausnahmefälle, insbesondere um Aufwendungen für neurologische Frührehabilitation, handelt. Auf die Höchstbeträge nach Nummer 3 kann auch dann zurückgegriffen werden, wenn der beihilfefähige Betrag nach Nummer 2 durch die Festsetzungsstelle nicht ermittelt werden kann. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Wahlärztliche Leistungen sind neben den allgemeinen Krankenhausleistungen beihilfefähig. Als Kinder gelten Personen bis zur Vollendung des 18. Lebensjahres. Maßgebend sind die Verhältnisse am Aufnahmetag. Nummer 20.1.2 gilt entsprechend.
+
+20.2.4
+
+Die neurologische Frührehabilitation wird in der Bundesrepublik Deutschland nach dem Phasenmodell der Bundesarbeitsgemeinschaft Rehabilitation (BAR) als Rehabilitationsleistung oder als Krankenhausbehandlung nach dem Krankenhausentgeltgesetz im Rahmen des Fallpauschalensystems durchgeführt. Die Abrechnung der Leistungen erfolgt je nach Zuordnung nach tagesgleichen Sätzen oder als Komplexpauschale im G-DRG-Fallpauschalensystem. Beihilferechtlich wird eine Frührehabilitation Phase A und B den Krankenhausleistungen zugeordnet. Die Beihilfefähigkeit der Summe aus täglichem Basispflegesatz und Abteilungspflegesatz ist auf den in Nummer 3 Buchstabe c genannten Höchstbetrag begrenzt. Ein Kostenvergleich ist nicht durchzuführen. Darüber hinaus können Kosten im Einzelfall als beihilfefähig anerkannt werden, wenn diese Vergütungen in Verträgen der Einrichtung mit privaten Krankenversicherungsunternehmen, Sozialversicherungsträgern oder im Rahmen von Modellvorhaben der Sozialversicherungsträger vereinbart sind.
 
 20.2.5
 
+Umsätze von Privatkliniken, die unter sozial vergleichbaren Bedingungen wie die einer öffentlich-rechtlichen Einrichtung erbracht wurden, sind im Rahmen von Artikel 132 Absatz 1 Buchstabe b der Richtlinie 2006/112/EG des Rates über das gemeinsame Mehrwertsteuersystem von der Umsatzsteuer befreit. Dies trifft insbesondere zu, wenn die Privatklinik die Voraussetzungen für die Zulassung nach § 108 des Fünften Buches Sozialgesetzbuch erfüllen würde (BFH, Urteil vom 23. Januar 2019, XI R 15/16). Wird von einer solchen Privatklinik die Umsatzsteuer in Rechnung gestellt, ist diese nur beihilfefähig und kann in die Vergleichsberechnung im Rahmen des errechneten beihilfefähigen Höchstbetrages einbezogen werden, wenn die Privatklinik nachweist, dass eine Umsatzsteuerbefreiung für die in der Rechnung ausgewiesenen Aufwendungen nicht vorliegt.
 
-Nummer 20.1.2 gilt entsprechend.                    
+20.2.6
 
-
-20.2.6                    
-
-
-Vor der Aufnahme in eine Einrichtung nach Absatz 2 Satz 1 kann der Beihilfeberechtigte eine Übersicht über die voraussichtlich entstehenden Kosten bei der Festsetzungsstelle zur Prüfung der Beihilfefähigkeit einreichen. Sind möglicherweise hohe nicht gedeckte Kosten zu erwarten, ist der Beihilfeberechtigte darüber zu informieren. Befindet sich das Krankenhaus, in dem die stationäre Heilbehandlung durchgeführt wird, in einem
-
-Kurort, kann je nach dem dort geltenden Kommunalabgabenrecht (Kommunalabgabenordnung, Kurtaxesatzung)
-
-eine Kurtaxe für die Aufenthaltsdauer anfallen. Die Aufwendungen hierfür sind beihilfefähig. Die
-
-Erhebung der Kurtaxe erfolgt insbesondere bei einer Behandlung in sogenannten gemischten Krankenanstalten.
-
-Dabei handelt es sich um Einrichtungen, die neben medizinisch notwendigen stationären Heilbehandlungen
-
-auch Kur- und Rehabilitationsmaßnahmen durchführen. Einwohner der betreffenden
-
-Kommune und in der Regel auch Patienten in reinen Akutkrankenhäusern sind von der Erhebung der
-
-Kurtaxe ausgenommen. Bei Maßnahmen nach Abschnitt 3 sind die dort geregelten Voraussetzungen
-
-der Beihilfefähigkeit von Aufwendungen zu berücksichtigen.
+Vor der Aufnahme in eine Einrichtung nach Satz 1 kann der Beihilfeberechtigte eine Übersicht über die voraussichtlich entstehenden Kosten bei der Festsetzungsstelle zur Prüfung der Beihilfefähigkeit einreichen. Sind möglicherweise hohe nicht gedeckte Kosten zu erwarten, ist der Beihilfeberechtigte darüber zu informieren. Befindet sich das Krankenhaus, in dem die stationäre Heilbehandlung durchgeführt wird, in einem Kurort, kann je nach dem dort geltenden Kommunalabgabenrecht (Kommunalabgabenordnung, Kurtaxesatzung) eine Kurtaxe für die Aufenthaltsdauer anfallen. Die Aufwendungen hierfür sind beihilfefähig. Die Erhebung der Kurtaxe erfolgt insbesondere bei einer Behandlung in sogenannten gemischten Krankenanstalten. Dabei handelt es sich um Einrichtungen, die neben medizinisch notwendigen stationären Heilbehandlungen auch Kur- und Rehabilitationsmaßnahmen durchführen. Einwohner der betreffenden Kommune und in der Regel auch Patienten in reinen Akutkrankenhäusern sind von der Erhebung der Kurtaxe ausgenommen. Bei Maßnahmen nach Abschnitt 3 sind die dort geregelten Voraussetzungen der Beihilfefähigkeit von Aufwendungen zu berücksichtigen.
 
 
 20.2.7                    
@@ -2899,7 +2983,13 @@ Eine nach physisch und organisatorischer Eingliederung des Patienten in das spez
 20.3
 
 
-Zu Absatz 3 (bleibt frei)                     
+Zu Absatz 3
+
+
+20.3.1
+
+
+Bezüglich der Beihilfefähigkeit von Aufwendungen der medizinisch notwendigen Mitaufnahme einer Begleitperson im Krankenhaus wird auf Nummer 20.1.5 hingewiesen. Entsprechendes gilt auch für die medizinisch notwendige Mitaufnahme einer Pflegekraft in das Krankenhaus.
 
 
 20.4                     
@@ -2920,10 +3010,10 @@ Zu § 21 Arzneimittel
 Zu Absatz 1                     
 
 
-21.1.1                    
+21.1.1
 
 
-Für den beihilferechtlichen Arzneimittelbegriff kommt es auf die arzneimittelrechtliche Zulassung des Präparates nicht an. Die arzneimittelrechtliche Zulassung oder Registrierung ist jedoch Indiz für dessen Arzneimittelcharakter. Eine Prüfung, ob das Arzneimittel im Einzelfall erforderlich ist, den Erfolg der Krankenbehandlung zu sichern beziehungsweise eine Erkrankung zu erkennen, findet durch die Festsetzungsstelle nicht statt. Ebenso wenig ist es für die Beihilfefähigkeit eines Arzneimittels von Belang, ob es verschreibungspflichtig ist oder nicht und ob es sich um ein Arzneimittel handelt, für das ein Festbetrag festgesetzt ist. Insoweit wird der Therapiehoheit des behandelnden Arztes Vorrang eingeräumt.                    
+Für den beihilferechtlichen Arzneimittelbegriff kommt es auf die arzneimittelrechtliche Zulassung des Präparates nicht an. Die arzneimittelrechtliche Zulassung oder Registrierung ist jedoch Indiz für dessen Arzneimittelcharakter. Eine Prüfung, ob das Arzneimittel im Einzelfall erforderlich ist, den Erfolg der Krankenbehandlung zu sichern beziehungsweise eine Erkrankung zu erkennen, findet durch die Festsetzungsstelle nicht statt. Ebenso wenig ist es für die Beihilfefähigkeit eines Arzneimittels von Belang, ob es verschreibungspflichtig ist oder nicht und ob es sich um ein Arzneimittel handelt, für das ein Festbetrag festgesetzt ist. Insoweit wird der Therapiehoheit des behandelnden Arztes Vorrang eingeräumt.
 
 
 21.1.2                    
@@ -2944,16 +3034,20 @@ Zu Absatz 2
 Die Verordnung nach Absatz 2 muss vor dem Kauf des Arzneimittels erfolgen.                    
 
 
-21.2.2                    
+21.2.2
 
 
-Das Arzneimittel muss aus Anlass einer Krankheit (Nummer 1.1.2) verordnet sein. Arzneimittel, die zur Vorbereitung einer Reise verschrieben wurden oder die ausschließlich der Prophylaxe einer Erkrankung, der Besserung des Allgemeinbefindens oder der Leistungssteigerung dienen, sind nicht beihilfefähig. Ebenso kann die Festsetzungsstelle davon ausgehen, dass Aufwendungen für Arzneimittel, die ausschließlich der Behebung von (Vitamin- oder Mineralstoff-)Mangelerscheinungen dienen, nicht beihilfefähig sind, wenn die Mangelerscheinung noch keinen Krankheitswert erreicht hat (AG Köln, Urteil vom 22. April 2008, 146 C 286/06).                    
+Das Arzneimittel muss aus Anlass einer Krankheit (Nummer 1.1.2) verordnet sein.
+
+Wurden Kontrazeptiva aus Anlass einer Krankheit verordnet, sind Aufwendungen hierfür beihilfefähig, wenn deren Anwendung medizinisch geboten und notwendig ist und es sich um eine wissenschaftlich allgemein anerkannte Behandlungsmethode zur Heilung oder Linderung der Krankheit handelt. Die Krankheit/Diagnose sollte aus den Rechnungsbelegen oder anderen geeigneten Unterlagen ersichtlich sein. Die Beihilfefähigkeit besteht auch, wenn die arzneimittelrechtliche Zulassung des Kontrazeptivums auf die Empfängnisverhütung beschränkt ist. Nicht zu einem Ausschluss der Beihilfefähigkeit führt in diesen Fällen, dass Kontrazeptiva üblicherweise von Gesunden benutzt werden (Absatz 3 Nummer 2). Auch die Altersbegrenzung der Spezialregelung des § 44 Absatz 3 Satz 2 ist nicht anzuwenden (vergleiche BVerwG, Urteil vom 26. Juni 2020, 5 C 4/19).
+
+Arzneimittel, die zur Vorbereitung einer Reise verschrieben wurden oder die ausschließlich der Prophylaxe einer Erkrankung, der Besserung des Allgemeinbefindens oder der Leistungssteigerung dienen, sind nicht beihilfefähig. Ebenso kann die Festsetzungsstelle davon ausgehen, dass Aufwendungen für Arzneimittel, die ausschließlich der Behebung von (Vitamin- oder Mineralstoff-)Mangelerscheinungen dienen, nicht beihilfefähig sind, wenn die Mangelerscheinung noch keinen Krankheitswert erreicht hat (AG Köln, Urteil vom 22. April 2008, 146 C 286/06).
 
 
 21.2.3                    
 
 
-Arzneimittel, die zur Verbesserung des Aussehens (zum Beispiel: VISTABEL, AZZALURE, BOCOUTURE VIAL) oder zur Verbesserung des Haarwuchses (zum Beispiel: ALOPEXY 5 Prozent, REGAINE, Minoxidil BIO-H-TIN-Pharma, PROPECIA, FINAHAIR, FINAPIL, generische Finasterid-Fertigarzneimittel, ALPICORT F, ELL CRANELL alpha, PANTOSTIN, PANTOVIGAR) verordnet sind, sind grundsätzlich nicht beihilfefähig. Ist die Beeinträchtigung des Aussehens oder des Haarwuchses im Einzelfall ausnahmsweise als Krankheit anzusehen (zum Beispiel bei einer erheblichen androgenetischen Alopezie oder einem androgenetischen Haarausfall bei Frauen; OVG Bautzen, Urteil vom 2. Juli 2012, 2 A 202/10), können die Aufwendungen für diese Mittel als beihilfefähig anerkannt werden.
+Arzneimittel, die zur Verbesserung des Aussehens (zum Beispiel: VISTABEL, AZZALURE, BOCOUTURE VIAL) oder zur Verbesserung des Haarwuchses (zum Beispiel: ALOPEXY 5 Prozent, REGAINE, Minoxidil BIO-H-TIN-Pharma, Minoxicutan, PROPECIA, FINAHAIR, FINAPIL, generische Finasterid-Fertigarzneimittel, ALPICORT F, ELL CRANELL, PANTOSTIN, PANTOVIGAR) verordnet sind, sind grundsätzlich nicht beihilfefähig. Ist die Beeinträchtigung des Aussehens oder des Haarwuchses im Einzelfall ausnahmsweise als Krankheit anzusehen (zum Beispiel bei einer erheblichen androgenetischen Alopezie oder einem androgenetischen Haarausfall bei Frauen; OVG Bautzen, Urteil vom 2. Juli 2012, 2 A 202/10), können die Aufwendungen für diese Mittel als beihilfefähig anerkannt werden.
 
 
 21.2.4                    
@@ -2965,21 +3059,12 @@ Aufwendungen für Arzneimittel, die ohne ausdrücklichen Wiederholungsvermerk de
 21.2.5                    
 
 
-Die beihilfefähigen Aufwendungen sind um die in § 59 Absatz 1 genannten Eigenbeteiligungen zu kürzen, soweit keine Ausnahme nach § 59 Absatz 1 Satz 3 vorliegt.
+Die beihilfefähigen Aufwendungen sind um die in § 59 Absatz 1 genannten Eigenbeteiligungen zu kürzen, soweit keine Ausnahme nach § 59 Absatz 1 Satz 3 vorliegt. Zur Berücksichtigung von Rabatten bei der Beihilfefestsetzung wird auf Nummer 59.1.6 hingewiesen.
 
 
 21.2.6.
 
-Versandkosten sind beihilfefähig, soweit sie das beihilfefähige Arzneimittel betreffen. Enthält
-
-die Sendung auch nicht beihilfefähige Produkte, sind die Aufwendungen für den Versand
-
-entsprechend der Anzahl der in der Lieferung enthaltenen Produkte zu quoteln. Zum Beispiel:
-
-Wird eine Versandkostenpauschale für drei Produkte berechnet, von denen nur eines ein
-
-beihilfefähiges Arzneimittel ist, sind die Versandkosten zu einem Drittel beihilfefähig.
-
+Versandkosten sind beihilfefähig, soweit sie das beihilfefähige Arzneimittel betreffen. Enthält  die Sendung auch nicht beihilfefähige Produkte, sind die Aufwendungen für den Versand  entsprechend der Anzahl der in der Lieferung enthaltenen Produkte zu quoteln. Zum Beispiel:  Wird eine Versandkostenpauschale für drei Produkte berechnet, von denen nur eines ein  beihilfefähiges Arzneimittel ist, sind die Versandkosten zu einem Drittel beihilfefähig.  Zu den beihilfefähigen Versandkosten gehören auch Aufwendungen für Botendienste von Apotheken bei der Abgabe verordneter Arzneimittel. Die Aufwendungen sind in Höhe des in § 129 Absatz 5g des Fünften Buches Sozialgesetzbuch für den GKV-Bereich geregelten pauschalen Betrages angemessen. Dieser beträgt ab dem 1. Januar 2021 je Lieferort und Tag 2,50 Euro zuzüglich Umsatzsteuer.  
 
 21.2.7
 
@@ -2989,7 +3074,7 @@ Patienten hergestellt und im Rahmen einer in diesem Krankenhaus ambulant durchge
 
 ärztlichen Heilbehandlung verabreicht werden, ist steuerfrei (BFH, Urteil vom
 
-24. September 2014, V R 19/11). Aufwendungen für Umsatzsteuer sind somit nicht beihilfefähig.
+24. September 2014, V R 19/11).
 
 Auf die Übergangsregelung des Bundesministeriums der Finanzen (Anwendungsschreiben
 
@@ -2998,6 +3083,11 @@ vom 28. September 2016, III C 3- S 7170/11/10004) für vor dem 1. April 2017 dur
 Umsätze, die rückwirkend steuerfrei oder weiterhin steuerpflichtig behandelt werden können,
 
 wird hingewiesen.
+
+
+21.2.9
+
+Die Beihilfefähigkeit von Kontrazeptiva, die nicht aus Anlass einer Krankheit verordnet sind, richtet sich nach § 44 Absatz 3 Satz 2.
 
 
 21.3                     
@@ -3035,8 +3125,7 @@ Regulierung des Körpergewichts (zentral wirkend)
 
 | Wirkstoff
 
-| Fertigarzneimittel,
-alle Wirkstärken
+| Fertigarzneimittel, alle Wirkstärken
 
 
 | A 08 AA 01 Phentermin
@@ -3051,8 +3140,7 @@ alle Wirkstärken
 
 | A 08 AA 03 Amfepramon
 
-| REGENON;
-TENUATE Retard
+| REGENON; TENUATE Retard
 
 
 | A 08 AA 04 Dexfenfluramin
@@ -3092,13 +3180,12 @@ TENUATE Retard
 
 | A 08 AA 13 Phenylpropanolamin
 
-| BOXOGETTEN S;
-RECATOL mono
+| 
 
 
-| A 08 AA 63 Phenylpropanolamin, Kombina­tionen
+| A 08 AA 63 Phenylpropanolamin, Kombinationen
 
-| Antiadipositum Riemser
+| 
 
 
 | A 08 AX 01 Rimonabant
@@ -3111,42 +3198,35 @@ RECATOL mono
 | Mysimba
 
 
-| A 10 BX 07 Liraglutid
+| A 08 AX 02 Liraglutid A 10 BJ 02
 
 | Saxenda
 
 
-| Fucus vesiculosus
+| A 08 AH 02 Fucus vesiculosus
 
-| Fucus-Gastreu S R59
-Gracia
-Redumax
+| Fucus-Gastreu S R59 Gracia Redumax
 
 
-| Calotropis gigantea (madar)
+| A 08 AH 01 Calotropis gigantea (madar)
 
 | Cefamadar
 
 
-| 
-
-Abmagerungsmittel (peripher wirkend)
+| Abmagerungsmittel (peripher wirkend)
 
 
 | Wirkstoff
 
-| Fertigarzneimittel,
-alle Wirkstärken
+| Fertigarzneimittel, alle Wirkstärken
 
 
 | A 08 AB 01 Orlistat
 
-| alli; XENICAL; alle generischen Orlistat-Fertig­arzneimittel
+| alli; XENICAL; alle generischen Orlistat- Fertigarzneimittel
 
 
-| 
-
-Sexuelle Dysfunktion
+| Sexuelle Dysfunktion
 
 
 | Wirkstoff
@@ -3171,10 +3251,11 @@ Sexuelle Dysfunktion
 
 | G 04 BE 04 Yohimbin
 
-| Procomil; YOCON GLENWOOD; YOHIMBIN SPIEGEL
+| YOCON GLENWOOD
 
 
-| G 04 BE 05 Phentolamin
+| V 03 AB 36 Phentolamin
+C 04 AB 01
 
 | 
 
@@ -3192,12 +3273,13 @@ Sexuelle Dysfunktion
 | G 04 BE 08 Tadalafil (Ausnahme Tadalafil 5 mg zur Behandlung des benignen Prostatasyndroms bei erwachsenen Männern)
 
 | CIALIS
-alle generischen Tadalafil Fertig­arzneimittel
+alle generischen Tadalafil Fertigarzneimittel
 
 
 | G 04 BE 09 Vardenafil
 
 | LEVITRA
+alle generischen Vardenafil Fertigarzneimittel
 
 
 | G 04 BE 10 Avanafil
@@ -3220,15 +3302,14 @@ alle generischen Tadalafil Fertig­arzneimittel
 | PRILIGY
 
 
-| Turnera diffusa 
+| Turnera diffusa
 
 | Cefagil; DESEO; Neradin
 
 
 | Turnera diffusa Kombinationen
 
-| Damiana N Oligoplex
-Virilis – Gastreu S R41
+| Damiana N Oligoplex Virilis – Gastreu S R41 Yohimbin Vitalkomplex
 
 
 | N 01 BB 20 Lidocain; Prilocain
@@ -3236,9 +3317,7 @@ Virilis – Gastreu S R41
 | Fortacin
 
 
-| 
-
-Nikotinabhängigkeit
+| Nikotinabhängigkeit
 
 
 | Wirkstoff
@@ -3248,10 +3327,11 @@ Nikotinabhängigkeit
 
 | N 07 BA 01 Nicotin
 
-| NIQUITIN; NICOPASS; NICOPATCH; NICORETTE; NICOTINELL; NIKOFRENON
+| NIQUITIN; NICOPASS; NICORETTE; NICOTINELL; NIKOFRENON
 
 
 | N 07 BA 02 Bupropion
+N 06 AX 12
 
 | ZYBAN
 
@@ -3261,9 +3341,7 @@ Nikotinabhängigkeit
 | CHAMPIX
 
 
-| 
-
-Steigerung des sexuellen Verlangens
+| Steigerung des sexuellen Verlangens
 
 
 | Wirkstoff
@@ -3276,7 +3354,7 @@ Steigerung des sexuellen Verlangens
 | 
 
 
-| Turnera diffusa 
+| Turnera diffusa
 
 | Cefagil; DESEO; Neradin; Remisens
 
@@ -3286,7 +3364,7 @@ Steigerung des sexuellen Verlangens
 | Damiana N Oligoplex; Virilis – Gastreu S R 41; Yohimbin Vitalkomplex
 
 
-Ein nach Absatz 3 Nummer 1 ausgeschlossenes Arzneimittel kann im Einzelfall aus Fürsorgegründen als medizinisch notwendig und beihilfefähig anerkannt werden, sofern das Mittel ausschließlich für die Behandlung einer anderen als in § 80 Absatz 5 Satz 1 Alternative 1 des Sächsischen Beamtengesetzes in Verbindung mit Absatz 3 Nummer 1 genannten Körperfunktionsstörung eingesetzt wird und es entweder kein anderes Mittel zur Behandlung der Krankheit gibt oder andere Mittel im Einzelfall  unverträglich sind oder sich als nicht wirksam erwiesen haben (BVerwG, Urteil vom 18. Februar 2009, 2 C 23/08). Im Zweifel sind die Voraussetzungen durch eine Stellungnahme des behandelnden Arztes nachzuweisen.
+Ein nach Absatz 3 Nummer 1 ausgeschlossenes Arzneimittel kann im Einzelfall aus Fürsorgegründen als medizinisch notwendig und beihilfefähig anerkannt werden, sofern das Mittel ausschließlich zur Behandlung einer anderen als in § 80 Absatz 5 Satz 1 Alternative 1 des Sächsischen Beamtengesetzes in Verbindung mit Absatz 3 Nummer 1 genannten Körperfunktionsstörung eingesetzt wird und es entweder kein anderes Mittel zur Behandlung der Krankheit gibt oder andere Mittel im Einzelfall unverträglich sind oder sich als nicht wirksam erwiesen haben (BVerwG, Urteil vom 18. Februar 2009, 2 C 23/08). Im Zweifel sind die Voraussetzungen durch eine Stellungnahme des behandelnden Arztes nachzuweisen.
 
 
 21.3.3
@@ -3304,7 +3382,7 @@ Die Festsetzungsstelle kann regelmäßig davon ausgehen, dass folgende Mittel de
 22                     
 
 
-Zu § 22 Medizinprodukte                     
+Zu § 22 Medizinprodukte
 
 
 22.1                     
@@ -3313,10 +3391,15 @@ Zu § 22 Medizinprodukte
 Zu Absatz 1                     
 
 
-22.1.1                    
+22.1.1
 
 
-Der beihilferechtliche Medizinproduktebegriff wird entsprechend dem               Medizinproduktegesetz                               definiert, wobei es nicht darauf ankommt, dass auch der Hersteller das Produkt zu den in § 3 Nummer 1 des                   Medizinproduktegesetzes genannten Zwecken bestimmt hat. Ausreichend ist insofern, dass das Produkt bei objektiver Betrachtung die in § 3 Nummer 1 bis 3 des                                 Medizinproduktegesetzes genannten Kriterien erfüllt. Die für die im Arzneimittel- und Medizinprodukterecht geltenden Abgrenzungskriterien finden auch im Beihilferecht Anwendung. Danach unterscheiden sich Medizinprodukte von Arzneimitteln durch ihre Funktionsweise. Medizinprodukte wirken in erster Linie physikalisch, während die Hauptwirkung von Arzneimitteln auf pharmakologische, immunologische oder metabolische Art erfolgt.                                                                             
+Der beihilferechtliche Medizinproduktebegriff wird entsprechend dem               Medizinproduktegesetz                               definiert, wobei es nicht darauf ankommt, dass auch der Hersteller das Produkt zu den in § 3 Nummer 1 des                   Medizinproduktegesetzes genannten Zwecken bestimmt hat. Ausreichend ist insofern, dass das Produkt bei objektiver Betrachtung die in § 3 Nummer 1 bis 3 des                                 Medizinproduktegesetzes genannten Kriterien erfüllt. Die für die im Arzneimittel- und Medizinprodukterecht geltenden Abgrenzungskriterien finden auch im Beihilferecht Anwendung. Danach unterscheiden sich Medizinprodukte von Arzneimitteln durch ihre Funktionsweise. Medizinprodukte wirken in erster Linie physikalisch, während die Hauptwirkung von Arzneimitteln auf pharmakologische, immunologische oder metabolische Art erfolgt.                                                        
+
+22.1.2
+
+
+Das Medizinproduktegesetz wird zum 26. Mai 2021 für alle Produkte im Anwendungsbereich der Verordnung (EU) 2017/745 durch das Medizinprodukterecht-Durchführungsgesetz abgelöst. Für In-vitro-Diagnostika ist es übergangsweise noch bis zum 25. Mai 2022 anzuwenden (§ 2 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes). Der Medizinproduktebegriff wird somit künftig entsprechend der Begriffsbestimmung in Artikel 2 Nummer 1 und für Zubehör nach Nummer 2 der Verordnung (EU) 2017/745 definiert.
 
 
 22.2                     
@@ -3331,12 +3414,17 @@ Zu Absatz 2
 Stoffliche Medizinprodukte werden im Wesentlichen wie Arzneimittel behandelt. Insofern gilt Nummer 21 für stoffliche Medizinprodukte entsprechend.                    
 
 
-22.2.2                    
+22.2.2
 
 
-Von einer „Eignung“ kann regelmäßig nur dann ausgegangen werden, wenn es sich um ein sogenanntes „arzneimittelähnliches Medizinprodukt“ handelt. Das sind stoffliche Medizinprodukte, die seit der Einführung des                 Medizinproduktegesetzes aufgrund ihrer andersartigen bestimmungsgemäßen Hauptwirkung Medizinprodukte sind und folglich nach § 2 Absatz 3 Nummer 7 des                             Arzneimittelgesetzes nicht (mehr) als Arzneimittel im arzneimittelrechtlichen Sinne gelten (VGH München, Beschluss vom 12. Januar 2011, 14 B 10.1975).                                                               
+Von einer „Eignung“ kann regelmäßig nur dann ausgegangen werden, wenn es sich um ein sogenanntes „arzneimittelähnliches Medizinprodukt“ handelt. Das sind stoffliche Medizinprodukte, die seit der Einführung des                 Medizinproduktegesetzes aufgrund ihrer andersartigen bestimmungsgemäßen Hauptwirkung Medizinprodukte sind und folglich nach § 2 Absatz 3 Nummer 7 des                             Arzneimittelgesetzes nicht (mehr) als Arzneimittel im arzneimittelrechtlichen Sinne gelten (VGH München, Beschluss vom 12. Januar 2011, 14 B 10.1975).                                          
 
-22.2.3                    
+22.2.3
+
+
+Die Beihilfefähigkeit von Aufwendungen für empfängnisverhütende Medizinprodukte, die aus Anlass einer Krankheit verordnet wurden, ist entsprechend der Nummer 21.2.2 Satz 2 bis 6 zu beurteilen. Die Beihilfefähigkeit von empfängnisverhütenden Medizinprodukten, die nicht aus Anlass einer Krankheit verordnet sind, richtet sich nach § 44 Absatz 3 Satz 2.
+
+22.2.4
 
 
 Nach § 59 Absatz 1 ist die Beihilfe für Verbandmittel als besondere Kategorie der Medizinprodukte und für stoffliche Medizinprodukte um eine Eigenbeteiligung zu kürzen, soweit keine Ausnahme nach § 59 Absatz 1 Satz 3 vorliegt und sie nicht für die Befestigung oder Funktion eines Hilfsmittels notwendig sind (zum Beispiel Stomaversorgung, künstliche Ernährung). Für andere Hilfsmittel als Verbandmittel fällt keine Eigenbeteiligung an.                    
@@ -3373,7 +3461,7 @@ Gegenstände, die üblicherweise auch von Gesunden benutzt werden, sind auch bei
 23                     
 
 
-Zu § 23 Hilfsmittel                     
+Zu § 23 Hilfsmittel
 
 
 23.1                     
@@ -3388,10 +3476,16 @@ Zu Absatz 1
 Zu den Anschaffungskosten eines Blindenführhundes gehören auch Geschirr, Hundeleine, Halsband und Maulkorb. Aufwendungen für Futter und Tierarzt sind im Rahmen des Absatzes 3 beihilfefähig.                    
 
 
-23.1.2                    
+23.1.2
 
 
-Betrieb und Unterhaltung der Hilfsmittel schließen die technischen Kontrollen und die Wartung dieser Gegenstände ein.                    
+Betrieb und Unterhaltung der Hilfsmittel schließen die technischen Kontrollen und die Wartung dieser Gegenstände ein.
+
+
+23.1.3
+
+
+Ein Eigenbehalt für Betriebs- und Unterhaltungskosten eines Hilfsmittels von höchstens 100 Euro ist nur dann vom beihilfefähigen Betrag abzuziehen, wenn die entsprechenden Kosten gesondert in der Rechnung ausgewiesen sind. Sind diese Kosten aus der Rechnung über eine Versorgungspauschale nicht ersichtlich, ist kein Eigenbehalt abzuziehen. Erstreckt sich der Versorgungszeitraum (laut Rechnung) über mehrere Kalenderjahre, ist für ausgewiesene Betriebs- und Unterhaltungskosten nur in dem Kalenderjahr der Rechnungsstellung (einmalig) ein Eigenbehalt nach Absatz 4 bei der Beihilfefestsetzung einzubehalten. Für die folgenden Kalenderjahre ist der Eigenbehalt nur dann wieder anzuwenden, wenn weitere Kosten für Betrieb und Unterhaltung dieses Hilfsmittels oder anderer Hilfsmittel angefallen sind.
 
 
 23.2
@@ -3694,7 +3788,13 @@ Communicator (bei dysarthrischen Sprachstörungen)
 d)                    
 
 
-Computerspezialausstattung für Behinderte (zum Beispiel Clear Reader); Spezialhard- und software bis zu insgesamt 3 500 Euro, gegebenenfalls zuzüglich für eine Braillezeile mit 40 Modulen bis zu 5 400 Euro                    
+Computerspezialausstattung für Behinderte (zum Beispiel Clear Reader); Spezialhard- und software bis zu insgesamt 3 500 Euro, gegebenenfalls zuzüglich für eine Braillezeile mit 40 Modulen bis zu 5 400 Euro
+
+
+e)
+
+
+CPM-Bewegungsschiene motorbetrieben (wenn Physiotherapie für einen alltagsrelevante Bewegungsumfang des Gelenks nicht ausreicht)
 
 
 D                     
@@ -3712,10 +3812,16 @@ b)
 Delta-Gehrad                    
 
 
-c)                    
+c)
 
 
-Duschsitz/-stuhl                    
+Digitale Gesundheitsanwendungen, soweit im Verzeichnis des Bundesinstituts für Arzneimittel und Medizinprodukte enthalten – https://diga.bfarm.de/de/verzeichnis
+
+
+d)
+
+
+Duschsitz/-stuhl
 
 
 E                     
@@ -3730,56 +3836,62 @@ Einkaufs-Fuchs für Blinde (Barcodelesegerät mit digitaler Sprachausgabe als Ei
 b)
 
 
-Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse (für bis zu 6 Paar Schuhe je Jahr)                    
+Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse (für bis zu 6 Paar Schuhe je Jahr)
 
 
 c)
 
 
-Einmal-Schutzhose zur Kontinenzsicherung bei Querschnittsgelähmten                    
+Einlagen, sensomotorische, wenn mit konventionellen orthopädischen Schuheinlagen kein ausreichender Behandlungserfolg erzielt werden kann
 
 
 d)
 
 
-Elektrisch oder Batteriebetriebenes Rollstuhlzuggerät bei handbetriebenem Rollstuhl
+Einmal-Schutzhose zur Kontinenzsicherung bei Querschnittsgelähmten
 
 
 e)
 
-Elektronische Systeme zur Informationsverarbeitung und Informationsausgabe für Blinde (zum Beispiel OrCam MyEye/MyReader)
+
+Elektrisch oder Batteriebetriebenes Rollstuhlzuggerät bei handbetriebenem Rollstuhl
 
 
 f)
+
+Elektronische Systeme zur Informationsverarbeitung und Informationsausgabe für Blinde (zum Beispiel OrCam MyEye/MyReader)
+
+
+g)
 
 
 Ekzem-Manschette
 
 
-g)
-
-Elektroscooter bis zu 2 500 Euro, ausgenommen Zulassung und Versicherung“
-
-
 h)
 
-
-Elektro-Stimulationsgerät (nicht zur Behandlung von Erektionsstörungen)
+Elektroscooter bis zu 2 500 Euro
 
 
 i)
 
 
-Epicondylitisbandage/-spange mit Pelotten
+Elektro-Stimulationsgerät (nicht zur Behandlung von Erektionsstörungen)
 
 
 j)
 
 
-Epitrain-Bandage
+Epicondylitisbandage/-spange mit Pelotten
 
 
 k)
+
+
+Epitrain-Bandage
+
+
+l)
 
 
 Ernährungssonde und -pumpe
@@ -4628,10 +4740,10 @@ Tragegurtsitz
 U                     
 
 
-a)                    
+a)
 
 
-Übungsschiene                    
+Übungsschiene
 
 
 b)                    
@@ -4646,13 +4758,19 @@ c)
 Umsetzhilfen (Drehscheibe, Aufrichteschlaufe und Ähnliches)
 
 
-d)                    
+d)
 
 
-Urinale, Urinflaschen                    
+Unterkiefer-Protrusionsschiene bei obstruktiver Schlafapnoe
 
 
-e)                    
+e)
+
+
+Urinale, Urinflaschen
+
+
+f)
 
 
 Urostomie-Beutel                    
@@ -5503,7 +5621,7 @@ Die Nummern 23.2.1 und 23.2.3 enthalten Oberbegriffe, die mehrere Ausführungen 
 23.2.6                    
 
 
-In allen Fällen ist eine vorherige schriftliche Verordnung durch einen Arzt erforderlich; eine Verordnung durch einen Zahnarzt, Psychotherapeuten oder Heilpraktiker genügt nicht.                    
+Für Hilfsmittel ist eine vorherige schriftliche Verordnung durch einen Arzt oder bei Hilfsmitteln im Zahn- und Kieferbereich durch einen Zahnarzt erforderlich. Digitale Gesundheitsanwendungen können auch von einem Psychotherapeuten verordnet werden. Eine Verordnung durch einen Heilpraktiker genügt nicht.
 
 
 23.2.7                    
@@ -5513,7 +5631,7 @@ Das vom Finanzministerium Rheinland-Pfalz als Datenbank geführte „Hilfsmittel
 
 Sächsischen Beamtengesetzes und die
 
-Sächsische Beihilfeverordnung             sowie besondere Fürsorgeaspekte (§ 45 des               Beamtenstatusgesetzes). Bei der Ausfüllung des verbleibenden Beurteilungsspielraums ist das HMV lediglich eine Arbeitshilfe, die nicht als Rechtsgrundlage für Entscheidungen dienen kann.                                             
+Sächsische Beihilfeverordnung             sowie besondere Fürsorgeaspekte (§ 45 des               Beamtenstatusgesetzes). Bei der Ausfüllung des verbleibenden Beurteilungsspielraums ist das HMV lediglich eine Arbeitshilfe, die nicht als Rechtsgrundlage für Entscheidungen dienen kann.                                               
 
 
 23.3                     
@@ -5549,9 +5667,9 @@ Zu Absatz 4
 23.4.1                    
 
 
-Ein Filterwechsel, zum Beispiel bei einem Beatmungsgerät, ist regelmäßig als Maßnahme für den Betrieb oder die Unterhaltung des Hilfsmittels und nicht als Reparatur zu qualifizieren. Aufwendungen für das wiederholte Verkleben von Kopfhaarersatzstücken sind Betriebs- und Unterhaltungskosten,
+Ein Filterwechsel, zum Beispiel bei einem Beatmungsgerät, ist regelmäßig als Maßnahme für den Betrieb oder die Unterhaltung des Hilfsmittels und nicht als Reparatur zu qualifizieren. Aufwendungen für das wiederholte Verkleben von Kopfhaarersatzstücken sind Betriebs- und Unterhaltungskosten, nicht aber die Aufwendungen für Pflege und Reinigung.
 
-nicht aber die Aufwendungen für Pflege und Reinigung.
+Aufwendungen für Zulassung und Versicherung von Hilfsmitteln (zum Beispiel für Elektroscooter) sind nicht den Betriebs- und Unterhaltungskosten zuzurechnen und somit nicht beihilfefähig.
 
 
 23.4.2                    
@@ -5560,10 +5678,16 @@ nicht aber die Aufwendungen für Pflege und Reinigung.
 Der Eigenanteil ist bei der Belastungsgrenze (§ 61) nicht zu berücksichtigen.
 
 
-23.4.3                    
+23.4.3
 
 
-Cochlea-Implantate sind keine Hörgeräte im Sinne des Absatzes 4. Batterien für diese Implantate sind daher nach Maßgabe des Halbsatzes 1 beihilfefähig.                    
+Cochlea-Implantate sind keine Hörgeräte im Sinne des Absatzes 4. Batterien für diese Implantate sind daher nach Maßgabe des Halbsatzes 1 beihilfefähig.
+
+
+23.4.4
+
+
+Zu den Batterien für Hörgeräte zählen auch Akkus und Ladegeräte.
 
 
 23.5                     
@@ -5599,13 +5723,33 @@ Zu Absatz 7
 23.7.1                    
 
 
-Der Höchstbetrag von 1 500 Euro kann bei Vorliegen einer besonderen Härte im Sinne des § 4 Absatz 3 Satz 2 überschritten werden (hierzu auch BVerwG, Urteil vom 2. April 2014, 5 C 40/12). Das ist in solchen Fällen möglich, in denen dies erforderlich ist, um bei einer beidseitigen an Taubheit grenzenden Schwerhörigkeit oder damit vergleichbaren Gesundheitsbeeinträchtigung eine ausreichende Versorgung zu gewährleisten. Besondere berufliche Anforderungen rechtfertigen keine Überschreitung des Höchstbetrages (OVG Münster, Beschluss vom 3. Februar 2012, 1 A 1249/10).                    
+Zu den beihilfefähigen Hörhilfen zählen:
 
 
-23.7.2                    
+a)
+
+Hörgeräte (Luftleitungsgeräte und Knochenleitungsgeräte) und Zubehör (zum Beispiel: Fernbedienung),
 
 
-Für Kinder unter 18 Jahren ist eine Ersatzbeschaffung auch innerhalb des Vierjahreszeitraumes beihilfefähig.                    
+b)
+
+Tinnitusgeräte (dazu zählen auch kombinierte Tinnitusgeräte/Hörgeräte, sogenannte Tinnitusinstrumente) und
+
+
+c)
+
+Übertragungsanlagen (nur zur Befriedigung von allgemeinen Grundbedürfnissen).
+
+
+23.7.2
+
+
+Der Höchstbetrag von 1 500 Euro kann bei Vorliegen einer besonderen Härte im Sinne des § 4 Absatz 3 Satz 2 überschritten werden (hierzu auch BVerwG, Urteil vom 2. April 2014, 5 C 40/12). Das ist in solchen Fällen möglich, in denen dies erforderlich ist, um bei einer beidseitigen an Taubheit grenzenden Schwerhörigkeit oder damit vergleichbaren Gesundheitsbeeinträchtigung eine ausreichende Versorgung zu gewährleisten. Besondere berufliche Anforderungen rechtfertigen keine Überschreitung des Höchstbetrages (OVG Münster, Beschluss vom 3. Februar 2012, 1 A 1249/10). 
+
+23.7.3
+
+
+Für Kinder unter 18 Jahren ist eine Ersatzbeschaffung auch innerhalb des Vierjahreszeitraumes beihilfefähig.
 
 
 23.8
@@ -5659,7 +5803,7 @@ Zu Absatz 11 (bleibt frei)
 24                     
 
 
-Zu § 24 Sehhilfen                     
+Zu § 24 Sehhilfen
 
 
 24.1                     
@@ -5671,7 +5815,7 @@ Zu Absatz 1
 24.1.1                    
 
 
-Brillen bestehen aus Brillengläsern und Brillenfassungen.                    
+Brillen bestehen aus Brillengläsern und Brillenfassungen.
 
 
 24.2                     
@@ -5713,16 +5857,29 @@ Zu Absatz 4
 24.4.1                    
 
 
-Aufwendungen für Brillengläser und Kontaktlinsen sind ab Vollendung des 18. Lebensjahres unabhängig von der Sehstärke und unabhängig von Indikationen einheitlich bis zu einem Höchstbetrag von 80 Euro alle zwei Jahre je Auge beihilfefähig. Die Zweijahresfrist beginnt am Tag des ersten Kaufs einer Sehhilfe ab dem 1. Januar 2013 zu laufen. Nach dem Ende der Zweijahresfrist beginnt der nächste Zweijahreszyklus, unabhängig davon, ob ein neuer Sehhilfenkauf getätigt wird. Werden innerhalb von zwei Jahren mehrmals Gläser einschließlich Handwerksleistung beschafft (zum Beispiel für Zweit- oder Ersatzbrille, zusätzliche Beschaffung von Kontaktlinsen) oder fallen Reparaturkosten an, kann so lange Beihilfe gewährt werden, bis der beihilfefähige Höchstbetrag von 80 Euro je Auge ausgeschöpft ist. Die Beihilfefähigkeit der Aufwendungen für Gläser ist im Rahmen des Höchstbetrages nicht auf bestimmte Materialien, Tönungen oder Entspiegelungen beschränkt. Eine Übertragung nicht genutzter (Teil-)Beträge in den nächsten Zweijahreszyklus ist nicht möglich.                    
+Aufwendungen für Brillengläser und Kontaktlinsen sind ab Vollendung des 18. Lebensjahres unabhängig von der Sehstärke und unabhängig von Indikationen einheitlich bis zu einem Höchstbetrag von 100 Euro (für Sehhilfenkauf bis 27. November 2020 80 Euro) alle zwei Jahre je Auge beihilfefähig.
+
+
+Die Zweijahresfrist beginnt am Tag des ersten Kaufs einer Sehhilfe ab dem 1. Januar 2013 zu laufen.
+
+
+Nach dem Ende der Zweijahresfrist beginnt der nächste Zweijahreszyklus, unabhängig davon, ob ein neuer Sehhilfenkauf getätigt wird.
+
+
+Werden innerhalb von zwei Jahren mehrmals Gläser einschließlich Handwerksleistung beschafft (zum Beispiel für Zweit- oder Ersatzbrille, zusätzliche Beschaffung von Kontaktlinsen) oder fallen Reparaturkosten an, kann so lange Beihilfe gewährt werden, bis der beihilfefähige Höchstbetrag von 100 Euro je Auge ausgeschöpft ist.
+
+
+Die Beihilfefähigkeit der Aufwendungen für Gläser ist im Rahmen des Höchstbetrages nicht auf bestimmte Materialien, Tönungen oder Entspiegelungen beschränkt. Eine Übertragung nicht genutzter (Teil-)Beträge in den nächsten Zweijahreszyklus ist nicht möglich.
 
 
 24.4.2                    
 
 
-Hat sich die Fehlsichtigkeit nach ärztlicher Bescheinigung vor Ablauf von zwei Jahren so stark geändert, dass Brillengläser oder Kontaktlinsen neu beschafft werden müssen (Änderung der Fehlsichtigkeit um mindestens 1 Dioptrie), kann im Hinblick auf die Fürsorgepflicht (§ 4 Absatz 3 Satz 2) nochmals Beihilfe im Rahmen des Höchstbetrages von 80 Euro je Auge gewährt werden. Die neue Zwei-Jahres-Frist beginnt dann mit dem Tag der Ersatzbeschaffung.            
+Hat sich die Fehlsichtigkeit nach ärztlicher Bescheinigung vor Ablauf von zwei Jahren so stark geändert, dass Brillengläser oder Kontaktlinsen neu beschafft werden müssen (Änderung der Fehlsichtigkeit um mindestens 1 Dioptrie), kann im Hinblick auf die Fürsorgepflicht (§ 4 Absatz 3 Satz 2) nochmals Beihilfe im Rahmen des Höchstbetrages von 100 Euro je Auge gewährt werden. Die neue Zwei-Jahres-Frist beginnt dann mit dem Tag der Ersatzbeschaffung. Eine Änderung der Sehstärke liegt nur vor, wenn gleichartige Sehbereiche betroffen sind. Zum Beispiel ist der Ersatz von Gläsern für eine Nahbrille durch Gläser für eine Fernbrille nicht beihilfefähig. Beihilfefähig können Aufwendungen für den Ersatz von Gläsern einer Nahbrille durch Gleitsichtgläser sein, wenn sich die Fehlsichtigkeit im Nahbereich um 1 Dioptrie geändert hat. Wird im Zwei-Jahres-Zeitraum Beihilfe für mehrere Sehhilfen beantragt, weil der beihilfefähige Höchstbetrag mit der ersten noch nicht ausgeschöpft war, sind Aufwendungen für eine Ersatzbeschaffung im vorgenannten Sinne nur für die zuerst beantragte Sehhilfe beihilfefähig. Wurde Beihilfe für zwei Sehhilfen gleichzeitig beantragt (zum Beispiel Nah- und Fernbrille) kann nur für eine davon im Wege der vorgenannten Ersatzbeschaffung Beihilfe vor Ablauf des Zwei-Jahres-Zeitraums gewährt werden.
 
+Beispiel:
 
-Beispiel: Die Erstbeschaffung der Brille erfolgte am 10. Januar 2016. Der beihilfefähige Betrag von 160 Euro wurde ausgeschöpft. Im Februar 2017 wurde eine Augenoperation an beiden Augen durchgeführt, durch die die Fehlsichtigkeit teilweise ausgeglichen wurde. Werden nun am 6. März 2017 neue Brillengläser gekauft, kann nochmals Beihilfe bis zum beihilfefähigen Höchstbetrag von 160 Euro gewährt werden. Die Aufwendungen für weitere Brillengläser sind erst ab dem Kaufdatum 6. März 2019 wieder beihilfefähig.                     
+Die Erstbeschaffung der Brille erfolgte am 10. September 2020. Der beihilfefähige Betrag von 160 Euro für zwei Gläser wurde bei der Beihilfefestsetzung ausgeschöpft. Der beihilfefähige Höchstbetrag könnte grundsätzlich erst wieder für ab dem 10. September 2022 entstehende Aufwendungen für Gläser in Anspruch genommen werden. Im Februar 2021 wird aber eine Augenoperation an beiden Augen durchgeführt, durch die die Fehlsichtigkeit teilweise ausgeglichen wird. Am 6. März 2021 werden neue Brillengläser mit den um mindestens 1 Dioptrie geänderten Sehstärkewerten gekauft. Die Aufwendungen sind pro Glas bis zur Höhe von 100 Euro beziehungsweise für beide Gläser bis zur Höhe von insgesamt 200 Euro beihilfefähig. Aufwendungen für weitere Brillengläser sind erst ab einem Kauf am 6. März 2023 wieder bis zur Höhe von 100 Euro pro Glas beihilfefähig.
 
 
 24.4.3                    
@@ -5734,7 +5891,7 @@ Aufwendungen für Brillenversicherungen und Brillenetuis sind nicht beihilfefäh
 24.4.4                    
 
 
-Aufwendungen für spezielle Bildschirmarbeitsplatzbrillen sind von der Beihilfefähigkeit aus Gründen der Subsidiarität der Beihilfe (§ 80 Absatz 1 Satz 1 des Sächsischen Beamtengesetzes) ausgeschlossen, da die Kosten hierfür bei Vorliegen der Voraussetzungen vom Dienstherrn übernommen werden (§ 6 der Bildschirmarbeitsverordnung in Verbindung mit Anhang Teil 4 Absatz 2 Nummer 1 der Verordnung zur arbeitsmedizinischen Vorsorge).            
+Aufwendungen für spezielle Bildschirmarbeitsplatzbrillen sind von der Beihilfefähigkeit aus Gründen der Subsidiarität der Beihilfe (§ 80 Absatz 1 Satz 1 des Sächsischen Beamtengesetzes) ausgeschlossen, da die Kosten hierfür bei Vorliegen der Voraussetzungen vom Dienstherrn übernommen werden (§ 6 der Bildschirmarbeitsverordnung in Verbindung mit Anhang Teil 4 Absatz 2 Nummer 1 der Verordnung zur arbeitsmedizinischen Vorsorge).              
 
 
 24.5
@@ -5758,7 +5915,7 @@ Zu Absatz 6
 24.6.1                    
 
 
-Wird bei eingesetzten Kontaktlinsen zusätzlich eine Brille benötigt, um die Fehlsichtigkeit im erforderlichen Umfang auszugleichen, sind auch die Aufwendungen für Brillengläser bis zu 80 Euro je Auge beihilfefähig; das Erfordernis muss augenärztlich festgestellt sein. Die Zweijahresfrist des Absatzes 4 Satz 2 gilt für diese Fälle nicht. Hat ein Augenarzt Aphakie festgestellt, können die Aufwendungen für Brillengläser für den Nahbereich einer weiteren (zweiten) Brille – ebenfalls bis zu 80 Euro je Auge – anerkannt werden. Die Gläser der ersten Brille müssen dabei nicht auf den Nahbereich beschränkt sein (zum Beispiel Gleitsichtgläser). Gläser pro Gleitsichtbrille sind nur einmal beihilfefähig und nicht wegen der Abdeckung zweier Sehbereiche als Doppelanschaffung von Brillengläsern zu bewerten (VG Chemnitz, Urteil vom 8. Juli 2015, 3 K 965/13). Der beihilfefähige Höchstbetrag kann somit pro Glas nur einmal zum Ansatz kommen. Ist die Aphakie durch die Implantation einer künstlichen Intraokularlinse ausgeglichen (Pseudoaphakie), sind die Aufwendungen für eine zweite Brille nicht beihilfefähig. Ob die Beihilfe für die Kontaktlinsen ebenfalls auf 80 Euro je Auge begrenzt ist, hängt davon ab, ob eine Indikation nach Absatz 5 vorliegt oder nicht.
+Wird bei eingesetzten Kontaktlinsen zusätzlich eine Brille benötigt, um die Fehlsichtigkeit im erforderlichen Umfang auszugleichen, sind auch die Aufwendungen für Brillengläser bis zu 100 Euro je Auge beihilfefähig; das Erfordernis muss augenärztlich festgestellt sein. Die Zweijahresfrist des Absatzes 4 Satz 2 gilt für diese Fälle nicht. Hat ein Augenarzt Aphakie festgestellt, können die Aufwendungen für Brillengläser für den Nahbereich einer weiteren (zweiten) Brille – ebenfalls bis zu 100 Euro je Auge – anerkannt werden. Die Gläser der ersten Brille müssen dabei nicht auf den Nahbereich beschränkt sein (zum Beispiel Gleitsichtgläser). Gläser pro Gleitsichtbrille sind nur einmal beihilfefähig und nicht wegen der Abdeckung zweier Sehbereiche als Doppelanschaffung von Brillengläsern zu bewerten (VG Chemnitz, Urteil vom 8. Juli 2015, 3 K 965/13). Der beihilfefähige Höchstbetrag kann somit pro Glas nur einmal zum Ansatz kommen. Ist die Aphakie durch die Implantation einer künstlichen Intraokularlinse ausgeglichen (Pseudoaphakie), sind die Aufwendungen für eine zweite Brille nicht beihilfefähig. Ob die Beihilfe für die Kontaktlinsen ebenfalls auf 100 Euro je Auge begrenzt ist, hängt davon ab, ob eine Indikation nach Absatz 5 vorliegt oder nicht.
 
 
 24.7                     
@@ -5898,7 +6055,7 @@ Zu Absatz 2
 26.2.1                    
 
 
-Die von Vertretern von Gesundheits- und Medizinalfachberufen angewandten Heilmittel sind unter den Voraussetzungen und bis zu den Höchstbeträgen der Anlage 3 zu § 26 Absatz 2 beihilfefähig. Die dortige Liste ist abschließend. Aufwendungen über die genannten Höchstbeträge hinaus sind nicht beihilfefähig; die  Höchstbeträge für Beamte im Ausland bemessen sich nach den ortsüblichen Gebühren (§ 4 Absatz 7). Aufwendungen für osteopathische Behandlungen sind bis zu dem Höchstbetrag für manuelle Therapie beihilfefähig.
+Aufwendungen für die von Vertretern von Gesundheits- und Medizinalfachberufen angewandten Heilmittel sind unter den Voraussetzungen der Absätze 2 bis 4 und der Anlage 3 zu § 26 Absatz 2 sowie den Voraussetzungen des § 38 Absatz 2 (Leistungen der Erweiterten Ambulanten Psychotherapie; vergleiche näher Nummer 38.2) beihilfefähig. Die Liste der Heilmittel ist abschließend. Bei den Beträgen handelt es sich um beihilfefähige Höchstbeträge. Die vorgegebene Mindestbehandlungsdauer ist die Regelbehandlungszeit. Bei einer durch den Verordner oder dem Leistungserbringer begründeten Abweichung von der Mindestbehandlungszeit ist eine anteilige Kürzung oder Erhöhung des jeweiligen Höchstbetrages möglich. Sogenannte Doppelbehandlungen sind nur beihilfefähig, wenn Doppelbehandlungen verordnet oder zwei der verordneten Behandlungen hintereinander durchgeführt worden sind (vergleiche VG Dresden, Urteil vom 12. November 2013, 11 K 1709/12). Die Höchstbeträge für Beamte im Ausland bemessen sich nach den ortsüblichen Gebühren (§ 4 Absatz 7). Aufwendungen für osteopathische Behandlungen sind bis zu dem Höchstbetrag für manuelle Therapie beihilfefähig.
 
 
 26.2.2                    
@@ -5909,7 +6066,7 @@ Werden vergleichbare Leistungen von einem Arzt oder Zahnarzt erbracht, richtet s
 26.2.3                    
 
 
-Die schriftliche Verordnung eines Heilmittels kann auch von einem Zahnarzt für seinen Fachbereich erfolgen (vergleiche Nummer 26.1.1).
+Die schriftliche Verordnung von Ergotherapie kann auch durch einen Psychotherapeuten (§ 16 Absatz 4 Satz 1) erfolgen, wenn eine Diagnose aus dem Indikationsspektrum zur Anwendung von Psychotherapie (§ 16 Absatz 2 und 3), neuropsychologischer Therapie (§ 27 Absatz 5) oder aus dem Indikationsspektrum des Kapitels V „Psychische und Verhaltensstörungen“ der ICD-10-GM Version 2020 vorliegt (vergleiche Heilmittel-RL des Gemeinsamen Bundesausschusses).
 
 
 26.2.4                    
@@ -5940,7 +6097,7 @@ Krankengymnast (vergleiche § 16 des Masseur- und Physiotherapeutengesetzes),
 
 b)
 
-Bereich Stimm-, Sprech- und Sprachtherapie
+Bereich Stimm-, Sprech-, Sprach- und Schlucktherapie
 
 
 –
@@ -5985,7 +6142,7 @@ Diplompatholinguist, Akademischer Sprachtherapeut,
 
 c)
 
-Bereich Ergotherapie (Beschäftigungstherapie)
+Bereich Ergotherapie (Beschäftigungstherapie) einschließlich ergänzende Kälte- und Wärmebehandlung
 
 
 –
@@ -6025,7 +6182,7 @@ Diätassistent,
 
 –
 
-Oecotrophologe,
+Ökotrophologe,
 
 
 –
@@ -6041,23 +6198,12 @@ Beihilfefähig sind nur Aufwendungen für Leistungen, die diese Personen in ihre
 
 26.2.6
 
-Nicht beihilfefähig sind insbesondere Aufwendungen für Leistungen, die von Diplom-Pädagogen, Eurhythmielehrern, Eutoniepädagogen und -therapeuten, Gymnastiklehren, Kunsttherapeuten, Maltherapeuten, Montessoritherapeuten, Musiktherapeuten, Sonder- oder Förderschullehrern, Sportlehrern, Motopäden, Orthoptisten
-
-oder Diplom-Ökotrophologen erbracht werden.
+Nicht beihilfefähig sind insbesondere Aufwendungen für Leistungen, die von Diplom-Pädagogen, Eurhythmielehrern, Eutoniepädagogen und -therapeuten, Gymnastiklehren, Kunsttherapeuten, Maltherapeuten, Montessoritherapeuten, Musiktherapeuten, Sonder- oder Förderschullehrern, Sportlehrern, Motopäden oder Orthoptisten erbracht werden.
 
 
 26.2.7
 
 Aufwendungen, die der traditionellen chinesischen Medizin zuzuordnen sind, wie Tui-Na, Qi-Gong, Tai Chi, Shiatsu-Therapie, Akupressur, gehören nicht zu den Heilmitteln der Anlage 3 zu § 26 Absatz 2.
-
-
-26.2.8
-
-Bei den in Anlage 3 zu § 26 Absatz 2 aufgeführten Beträgen handelt es sich um beihilfefähige Höchstbeträge. Die vorgegebene Mindestbehandlungsdauer
-
-ist die Regelbehandlungszeit. Bei einer durch den verordnenden Arzt, Zahnarzt oder dem Leistungserbringer begründeten Abweichung von der Mindestbehandlungszeit ist eine anteilige Kürzung oder Erhöhung des Höchstbetrages möglich. Sogenannte Doppelbehandlungen sind nur beihilfefähig, wenn Doppelbehandlungen verordnet oder zwei der verordneten
-
-Behandlungen hintereinander durchgeführt worden sind (vergleiche VG Dresden, Urteil vom 12. November 2013, 11 K 1709/12).
 
 
 26.3
@@ -6205,12 +6351,12 @@ Zu Absatz 1
 27.1.1                    
 
 
-Die Komplextherapie ist die Behandlung eines einheitlichen Krankheitsbildes durch ein berufsgruppenübergreifendes Team von Ärzten oder Psychotherapeuten und Angehörigen von Gesundheits- und Medizinalfachberufen. Die Beteiligung eines Arztes oder Psychotherapeuten (§ 1 Absatz 1 Satz 4 des Psychotherapeutengesetzes) muss sichergestellt sein.  Die Leistungen der Ärzte, Psychotherapeuten und der Angehörigen von Gesundheits- und Medizinalfachberufen müssen ihrer Ausbildung und ihrem Berufsbild entsprechen. Heilmittel im Sinne des § 26 Absatz 1 sind nur dann erstattungsfähig, wenn der Leistungserbringer die in § 26 Absatz 2 genannten persönlichen Voraussetzungen erfüllt.          
+Die Komplextherapie ist die Behandlung eines einheitlichen Krankheitsbildes durch ein berufsgruppenübergreifendes Team von Ärzten oder Psychotherapeuten und Angehörigen von Gesundheits- und Medizinalfachberufen. Die Beteiligung eines Arztes oder Psychotherapeuten muss sichergestellt sein.  Die Leistungen der Ärzte, Psychotherapeuten und der Angehörigen von Gesundheits- und Medizinalfachberufen müssen ihrer Ausbildung und ihrem Berufsbild entsprechen. Heilmittel im Sinne des § 26 Absatz 1 sind nur dann erstattungsfähig, wenn der Leistungserbringer die in § 26 Absatz 2 genannten persönlichen Voraussetzungen erfüllt.          
 
 27.1.2                    
 
 
-Zu den beihilfefähigen Komplextherapien gehören unter anderem Asthmaschulungen, COPD-Schulungen, integrierte Schmerztherapien, ambulante Tinnitustherapien, ambulante kardiologische Therapien, Diabetikerschulungen, Kasseler Stottertherapie, die Behandlung chronischer Wunden in Wundzentren (zum Beispiel der gvw-GmbH), Echotherapie bei benignen Schilddrüsenknoten und Fibroadenomen (zum Beispiel beim GesundheitsVerbund Nord), sozialmedizinische Nachsorge im Sinne des § 43 Absatz 2 des Fünften Buches Sozialgesetzbuch sowie medizinische Leistungen (Eingangs-, Quartalsuntersuchungen und Teamgespräche) im Rahmen einer Frühförderung behinderter und von Behinderung bedrohter Kinder durch interdisziplinäre Frühförderstellen nach § 30 des Neunten Buches Sozialgesetzbuch.  Komplextherapien sind auch im Rahmen der zwischen den Trägern der gesetzlichen Krankenversicherung und den Leistungserbringern vereinbarten speziellen Versorgungsformen, zum Beispiel im Rahmen der Ambulanten Spezialfachärztlichen Versorgung gemäß § 116b des Fünften Buches Sozialgesetzbuch oder der Integrierten Versorgung gemäß § 140a des Fünften Buches Sozialgesetzbuch und den hierfür getroffenen Vereinbarungen beihilfefähig.          
+Zu den beihilfefähigen Komplextherapien gehören unter anderem Asthmaschulungen, COPD-Schulungen, integrierte Schmerztherapien, ambulante Tinnitustherapien, ambulante kardiologische Therapien, Diabetikerschulungen, Kasseler Stottertherapie, Echotherapie bei benignen Schilddrüsenknoten und Fibroadenomen (zum Beispiel beim GesundheitsVerbund Nord), sozialmedizinische Nachsorge im Sinne des § 43 Absatz 2 des Fünften Buches Sozialgesetzbuch, medizinische Leistungen (Eingangs-, Quartalsuntersuchungen und Teamgespräche) im Rahmen einer Frühförderung behinderter und von Behinderung bedrohter Kinder durch interdisziplinäre Frühförderstellen nach § 30 des Neunten Buches Sozialgesetzbuch sowie die besonderen Leistungen für beihilfeberechtigte und berücksichtigungsfähige Personen mit psychischen Erkrankungen nach der Rahmenvereinbarung des Dachverbandes Gemeindepsychiatrie e. V. mit dem Land Rheinland-Pfalz vom 1. Juli 2020 (psyCardea).  Komplextherapien sind auch im Rahmen der zwischen den Trägern der gesetzlichen Krankenversicherung und den Leistungserbringern vereinbarten speziellen Versorgungsformen, zum Beispiel im Rahmen der Ambulanten Spezialfachärztlichen Versorgung gemäß § 116b des Fünften Buches Sozialgesetzbuch oder der Integrierten Versorgung gemäß § 140a des Fünften Buches Sozialgesetzbuch und den hierfür getroffenen Vereinbarungen beihilfefähig.          
 
 27.1.3                    
 
@@ -6369,7 +6515,7 @@ Zu § 29 Soziotherapie
 29.0.1
 
 
-Die Regelung der Beihilfefähigkeit der Soziotherapie orientiert sich an § 37a des                 Fünften Buches Sozialgesetzbuch. Nach § 37a Absatz 2 des                             Fünften Buches Sozialgesetzbuch bestimmen sich Inhalt und Ausgestaltung der Soziotherapie nach den Richtlinien des Bundesausschusses der Ärzte und Krankenkassen (jetzt: Gemeinsamer Bundesausschuss) über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung (Soziotherapie-Richtlinien).                                                               
+Die Regelung der Beihilfefähigkeit der Soziotherapie orientiert sich an § 37a des Fünften Buches Sozialgesetzbuch. Nach § 37a Absatz 2 des Fünften Buches Sozialgesetzbuch bestimmen sich Inhalt und Ausgestaltung der Soziotherapie nach den Richtlinien des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung (Soziotherapie-Richtlinien). Zwischenzeitliche Änderungen der Soziotherapie-Richtlinien, wie beispielsweise die Erweiterung des Personenkreises, der Soziotherapie verordnet wird, oder der Definition von schweren psychischen Erkrankungen können bei der Beihilfegewährung entsprechend berücksichtigt werden.
 
 29.0.2
 
@@ -6450,10 +6596,14 @@ eingeschränkte Fähigkeit zur selbständigen Inanspruchnahme ärztlicher und ä
 stark eingeschränkte Wegefähigkeit.                    
 
 
-29.1.2                    
+29.1.2
 
 
-Soziotherapie ist grundsätzlich beihilfefähig, wenn dadurch eine Krankenhausbehandlung vermieden oder verkürzt wird oder wenn diese geboten, aber nicht ausführbar ist. Davon ist regelmäßig bei einer fachärztlichen Verordnung auszugehen. Psychotherapeuten im Sinne des Absatzes 1 Satz 1 sind die in § 16 Absatz 3 Satz 2 genannten Personen. Soziotherapie, die im Rahmen des Entlassungsmanagements im Krankenhaus verordnet wurde, kann für einen Zeitraum von bis zu sieben Kalendertagen nach Entlassung als beihilfefähig anerkannt werden. Danach ist eine Verordnung durch einen der anderen genannten Fachärzte notwendig.
+Soziotherapie ist grundsätzlich beihilfefähig, wenn dadurch eine Krankenhausbehandlung vermieden oder verkürzt wird oder wenn diese geboten, aber nicht ausführbar ist.
+
+Davon ist regelmäßig bei einer fachärztlichen Verordnung auszugehen.
+
+Psychotherapeuten im Sinne des Absatzes 1 Satz 1 sind die in § 16 Absatz 4 Satz 1 genannten Personen. Soziotherapie, die im Rahmen des Entlassungsmanagements im Krankenhaus verordnet wurde, kann für einen Zeitraum von bis zu sieben Kalendertagen nach Entlassung als beihilfefähig anerkannt werden. Danach ist eine Verordnung durch einen der anderen genannten Fachärzte notwendig.
 
 
 29.1.3                    
@@ -6597,135 +6747,223 @@ Zu § 30 Häusliche Krankenpflege
 Zu Absatz 1                     
 
 
-30.1.1                    
+30.1.1
 
+Häusliche Krankenpflege kommt für Personen in Betracht, die wegen Krankheit vorübergehend der Grundpflege und hauswirtschaftlichen Versorgung sowie gegebenenfalls der Behandlungspflege bedürfen. Sie kann sowohl kurativ als auch palliativ indiziert sein. Die vorübergehende häusliche Krankenpflege ist klar gegenüber den Leistungen der dauernden häuslichen Pflege nach § 49 abzugrenzen. Die dauernde häusliche Pflege bedarf der Feststellung des Medizinischen Dienstes der Pflegeversichersicherung oder des Amtsarztes. Sie liegt vor, wenn eine wesentliche Besserung des Gesundheitszustandes des Pflegebedürftigen nicht oder kaum zu erwarten ist und endet in der Regel erst mit dem Tod des Pflegebedürftigen. Dagegen ist für eine erforderliche vorübergehende häusliche Krankenpflege die Verordnung eines Arztes ausreichend. Eine vorübergehende Pflegebedürftigkeit ist in der Regel dann anzunehmen, wenn eine Wiederherstellung des Gesundheitszustandes des Pflegebedürftigen in einem absehbaren Zeitraum wahrscheinlich und somit das Ende absehbar ist. Sie dauert grundsätzlich nicht länger als 4 Wochen. Ein vorübergehender Zeitraum kann im Einzelfall auch ein längerer Zeitraum sein, dessen Ende weder feststeht noch absehbar ist. Das trifft beispielsweise für Maßnahmen der speziellen Krankenbeobachtung während des Schulbesuchs eines an einer Bluterkrankung leidenden schulpflichtigen Kindes zu. Häusliche Krankenpflegeleistungen für Palliativpatienten sind ebenso nicht an eine zeitliche Begrenzung gebunden.
 
-Häusliche Krankenpflege kommt für Personen in Betracht, die wegen Krankheit vorübergehend der Grundpflege und hauswirtschaftlichen Versorgung sowie gegebenenfalls der Behandlungspflege bedürfen.
+30.1.2
 
-Sie kann sowohl kurativ als auch palliativ indiziert sein.
+Die ärztliche Verordnung muss Angaben über Art, Dauer und die tägliche Stundenzahl der Leistungen enthalten.
 
-Die vorübergehende häusliche Krankenpflege ist klar gegenüber den Leistungen der dauernden häuslichen Pflege nach § 49 abzugrenzen. Die dauernde häusliche Pflege bedarf der Feststellung des Medizinischen Dienstes der Pflegeversichersicherung oder des Amtsarztes.
+30.1.3
 
-Sie liegt vor, wenn eine wesentliche Besserung des Gesundheitszustandes des Pflegebedürftigen nicht oder kaum zu erwarten ist und endet in der Regel erst mit dem Tod des Pflegebedürftigen.
+Grundpflege umfasst die Grundverrichtungen des täglichen Lebens. Dazu zählen die Bereiche Mobilität und Motorik (zum Beispiel Betten, Lagern, Hilfe beim An- und Auskleiden), Hygiene (zum Beispiel Körperpflege, Benutzung der Toilette) und Nahrungsaufnahme.
 
-Dagegen ist für eine erforderliche vorübergehende häusliche Krankenpflege die Verordnung eines Arztes ausreichend.
+30.1.4
 
-Eine vorübergehende Pflegebedürftigkeit ist in der Regel dann anzunehmen, wenn eine Wiederherstellung des Gesundheitszustandes des Pflegebedürftigen in einem absehbaren Zeitraum wahrscheinlich und somit das Ende absehbar ist.
+Hauswirtschaftliche Versorgung sind Maßnahmen, die zur Aufrechterhaltung der grundlegenden Anforderungen einer eigenständigen Haushaltsführung allgemein notwendig sind. Die hauswirtschaftliche Versorgung umfasst insbesondere Einkaufen, Kochen, Reinigen der Wohnung, Spülen, Wechseln und Waschen der Wäsche und Kleidung und das Beheizen.
 
-Ein vorübergehender Zeitraum kann im Einzelfall auch ein längerer Zeitraum sein, dessen Ende weder feststeht noch absehbar ist. Das trifft beispielsweise für Maßnahmen der speziellen Krankenbeobachtung während des Schulbesuchs eines an einer Bluterkrankung leidenden schulpflichtigen Kindes zu.
+30.1.5.1
 
+Behandlungspflege sind Maßnahmen, die dazu dienen, Krankheiten zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern und die üblicherweise an Pflegefachkräfte delegiert werden können. Behandlungspflege umfasst insbesondere
 
-30.1.2                    
 
+–
 
-Die ärztliche Verordnung muss Angaben über Art, Dauer und die tägliche Stundenzahl der Leistungen enthalten.                    
+Absaugen der oberen Luftwege und Bronchialtoilette,
 
 
-30.1.3                    
+–
 
+Pflegeanleitung (des Patienten und ggf. anderer Personen im Haushalt),
 
-Behandlungspflege sind Maßnahmen, die dazu dienen, Krankheiten zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern und die üblicherweise an Pflegefachkräfte delegiert werden können. Behandlungspflege umfasst insbesondere Verbandwechsel, Injektionen, Katheterisierung, Einreibungen, Blasenspülung, Blutdruckmessung, Blutzuckermessung, Dekubitusbehandlung und Beatmungspflege. Aufwendungen für Behandlungspflege sind auch für dauernd pflegebedürftige Personen im Sinne des § 48 Absatz 1 Satz 1 im notwendigen Umfang beihilfefähig. Beihilfefähig sind auch Aufwendungen für Personen, die in einer stationären Pflegeeinrichtung untergebracht sind, wenn ein besonders hoher Bedarf an medizinischer Behandlungspflege besteht. Dies ist der Fall, wenn die ständige Anwesenheit einer geeigneten Pflegefachkraft zur individuellen Kontrolle und Einsatzbereitschaft erforderlich ist, zum Beispiel bei erforderlicher Bedienung und Überwachung eines Beatmungsgerätes am Tag und in der Nacht.
 
+–
 
-30.1.4                    
+Beatmungspflege (Bedienung und Überwachung des Beatmungsgeräts),
 
 
-Grundpflege umfasst die Grundverrichtungen des täglichen Lebens. Dazu zählen die Bereiche Mobilität und Motorik (zum Beispiel Betten, Lagern, Hilfe beim An- und Auskleiden), Hygiene (zum Beispiel Körperpflege, Benutzung der Toilette) und Nahrungsaufnahme.                    
+–
 
+Blasenspülung,
 
-30.1.5                    
 
+–
 
-Hauswirtschaftliche Versorgung sind Maßnahmen, die zur Aufrechterhaltung der grundlegenden Anforderungen einer eigenständigen Haushaltsführung allgemein notwendig sind. Die hauswirtschaftliche Versorgung umfasst insbesondere Einkaufen, Kochen, Reinigen der Wohnung, Spülen, Wechseln und Waschen der Wäsche und Kleidung und das Beheizen.                    
+Blutdruckmessung,
 
 
-30.1.6                    
+–
 
+Blutzuckermessung,
 
-Verrichtungsbezogene krankheitsspezifische Pflegemaßnahmen sind insbesondere:                    
 
+–
 
-–                    
+Interstitielle Glukosemessung (mit Real-Time-Messgeräten),
 
 
-Einreiben mit Dermatika oder (oro-)tracheale Sekretabsaugung bei der Verrichtung des Waschens/Duschens/Badens,                    
+–
 
+Dekubitusbehandlung (Positionswechsel),
 
-–                    
 
+–
 
-Verabreichung eines Klistiers, eines Einlaufs oder Einmalkatheterisierung bei der Verrichtung der Darm- und Blasenentleerung,                    
+Überprüfen und Versorgen von Drainagen,
 
 
-–                    
+–
 
+Verrichtungen der Darm- und Blasenentleerung (Einlauf, Klistier, Klysma, digitale Enddarmausräumung, Katheterisierung der Harnblase),
 
-(Oro-)tracheale Sekretabsaugung oder Wechseln einer Sprechkanüle gegen eine Dauerkanüle bei Tracheostoma bei der Verrichtung der Aufnahme der Nahrung,                    
 
+–
 
-–                    
+Flüssigkeitsbilanzierung,
 
 
-Maßnahmen zur Sekretelimination bei Mukoviszidose oder Erkrankungen mit vergleichbarem Hilfebedarf bei der Verrichtung des Aufstehens/Zu-Bett-Gehens,                    
+–
 
+Verrichtungen bei Infusionen oder Injektionen,
 
-–                    
 
+–
 
-Anziehen sowie Ausziehen von Kompressionsstrümpfen ab Kompressionsklasse 2 bei der Verrichtung des An- und Auskleidens.                    
+Inhalationen,
 
 
-30.1.7                    
+–
 
+Instillation,
 
-Maßnahmen der psychiatrischen Krankenpflege sind:                    
 
+–
 
-–                    
+Auflegen von Kälteträgern;
 
 
-Erarbeiten der Pflegeakzeptanz (Beziehungsaufbau),                    
+–
 
+Versorgung eines suprapubischen Katheters,
 
-–                    
 
+–
 
-Durchführen von Maßnahmen zur Bewältigung von Krisensituationen,                    
+Spezielle Krankenbeobachtung,
 
 
-–                    
+–
 
+Symptomkontrolle bei Palliativpatienten,
 
-Entwickeln kompensatorischer Hilfen bei krankheitsbedingten Fähigkeitsstörungen.                    
 
+–
 
-30.1.8                    
+Wechseln und Legen einer Magensonde,
 
 
-Für denselben Zeitraum ist die Beihilfefähigkeit der Aufwendungen von Maßnahmen der psychiatrischen Krankenpflege neben Aufwendungen inhaltlich gleicher Leistungen der Soziotherapie nicht notwendig und damit ausgeschlossen, es sei denn, die Maßnahmen ergänzen ihre jeweils spezifische Zielsetzung.                    
+–
 
+Richten und Verabreichen verordneter Medikamente (einschließlich Einreibungen, Bäder usw.),
 
-30.1.9                    
 
+–
 
-Hinsichtlich der Verordnung von häuslicher Krankenpflege und der Art, des Inhalts und des Umfangs der Leistungen ist regelmäßig die Richtlinie des Gemeinsamen Bundesausschusses über die Verordnung von häuslicher Krankenpflege (Häusliche Krankenpflege-Richtlinie) zu beachten.                    
+Durchführen der Sanierung von Methicillin-resistenten Staphylococcus aureus (MRSA)-Trägern mit gesicherter Diagnose,
 
 
-30.1.10                    
+–
 
+Versorgung bei perkutaner endoskopischer Gastrostomie (PEG),
 
-Andere geeignete Orte für eine häusliche Krankenpflege sind Orte, an denen sich der zu Pflegende regelmäßig wiederkehrend aufhält und die verordnete Maßnahme aus medizinisch-pflegerischen Gründen während des Aufenthaltes an diesem Ort notwendig ist.  Solche Orte können insbesondere Schulen, Kindergärten, betreute Wohnformen (zum Beispiel Alten-/Seniorenheim oder Wohngruppen/Appartements eines Pflegedienstes, stationäre Pflegeeinrichtung), Arbeitsstätten oder Werkstätten für behinderte Menschen sein. Auch in vollstationären Einrichtungen oder Räumlichkeiten der Hilfe für behinderte Menschen im Sinne von § 43a des Elften Buches Sozialgesetzbuch sind Aufwendungen für häusliche Krankenpflege beihilfefähig, wenn (vorübergehend) ein besonders hoher Bedarf an medizinischer Behandlungspflege besteht (zum Beispiel nach einem Krankenhausaufenthalt).                               
 
-30.1.11                    
+–
 
+Psychiatrische häusliche Krankenpflege,
 
-Bei einer vorübergehenden Krankenpflege einer in einem Alten-/Seniorenwohnheim nicht wegen dauernder Pflegebedürftigkeit wohnenden Person ist der zu den allgemeinen Unterbringungskosten berechnete Pflegezuschlag bis zur Höhe der Sätze nach Nummer 30.2.2 beihilfefähig. Aufwendungen für Unterkunft und Verpflegung sind nicht beihilfefähig.                    
+
+–
+
+Stomabehandlung,
+
+
+–
+
+Wechsel und Pflege der Trachealkanüle,
+
+
+–
+
+Pflege des zentralen Venenkatheters,
+
+
+–
+
+Wundversorgung einer akuten Wunde,
+
+
+–
+
+Wundversorgung einer chronischen und schwer heilenden Wunde,
+
+
+–
+
+An- oder Ausziehen von ärztlich verordneten Kompressionsstrümpfen/ -strumpfhosen der Kompressionsklassen I bis IV, Anlegen oder Abnehmen eines Kompressionsverbandes,
+
+
+–
+
+An- oder Ablegen von ärztlich verordneten Bandagen und Orthesen im Rahmen der Krankenbehandlung.
+
+30.1.5.2
+
+Maßnahmen der psychiatrischen häuslichen Krankenpflege müssen in Form eines Behandlungsplanes verordnet sein. Sie sind auch dann dem Grunde nach beihilfefähig, wenn sie von einem Psychotherapeuten (§ 16 Absatz 4 Satz 1) verordnet wurden. Die Notwendigkeit solcher Maßnahmen kann bei Indikationen aus dem Bereich psychische und Verhaltensstörungen (F00 bis F99 nach ICD-10-GM-Klassifizierung) im Zusammenhang mit den in § 4 Absatz 9 und 10 der die Richtlinie des Gemeinsamen Bundesausschusses über die Verordnung von häuslicher Krankenpflege (Häusliche Krankenpflege-Richtlinie) genannten Diagnosen gegeben sein. Zu den Maßnahmen der psychiatrischen häuslichen Krankenpflege gehören insbesondere:
+
+
+–
+
+Erarbeiten der Pflegeakzeptanz (Beziehungsaufbau),
+
+
+–
+
+Durchführen von Maßnahmen zur Bewältigung von Krisensituationen,
+
+
+–
+
+Entwickeln kompensatorischer Hilfen bei krankheitsbedingten Fähigkeitsstörungen.
+
+
+Die psychiatrische häusliche Krankenpflege wird in Form von Einheiten abgegeben. Eine Einheit umfasst 60 Minuten. Die Therapieeinheiten können in kleinere Zeiteinheiten maßnahmebezogen aufgeteilt werden. Für denselben Zeitraum ist die Beihilfefähigkeit der Aufwendungen von Maßnahmen der psychiatrischen Krankenpflege neben Aufwendungen inhaltlich gleicher Leistungen der Soziotherapie nicht notwendig und damit ausgeschlossen, es sei denn, die Maßnahmen ergänzen ihre jeweils spezifische Zielsetzung.
+
+30.1.5.3
+
+Die notwendige Versorgung von chronischen und schwer heilenden Wunden kann entsprechend der ärztlichen Verordnung im Haushalt des Beihilfeberechtigten oder berücksichtigungsfähigen Angehörigen erfolgen oder durch spezialisierte Einrichtungen (Wundzentren). Durch spezialisierte Leistungserbringer außerhalb der Häuslichkeit ist die Versorgung chronischer und schwer heilender Wunden insbesondere dann zu erbringen, wenn dies aufgrund der Komplexität der Wundversorgung oder den Gegebenheiten in der Häuslichkeit erforderlich ist. Neben der Wundversorgung können weitere pflegerische Maßnahmen erforderlich sein, die durch andere Pflegedienste erbracht werden. Sofern Verträge von Wundzentren mit privaten Krankenversicherungsunternehmen oder Sozialversicherungsträgern bestehen, richtet sich die Beihilfefähigkeit der Aufwendungen nach diesen Verträgen (zum Beispiel Vertrag der Debeka-Krankenversicherung mit den WZ-WundZentren GmbH über die recucare GmbH).
+
+30.1.5.4
+
+Aufwendungen für Behandlungspflege, auch in Form einer außerklinischen Intensivpflege (vergleiche § 37c des Fünften Buches Sozialgesetzbuch), sind auch für dauernd pflegebedürftige Personen im Sinne des § 48 Absatz 1 Satz 1 im notwendigen Umfang beihilfefähig. Beihilfefähig sind auch Aufwendungen für Personen, die in einer stationären Pflegeeinrichtung untergebracht sind, wenn ein besonders hoher Bedarf an medizinischer Behandlungspflege besteht. Dies ist der Fall, wenn die ständige Anwesenheit einer geeigneten Pflegefachkraft zur individuellen Kontrolle und Einsatzbereitschaft erforderlich ist, zum Beispiel bei erforderlicher Bedienung und Überwachung eines Beatmungsgerätes am Tag und in der Nacht.
+
+30.1.6
+
+Hinsichtlich der Verordnung von häuslicher Krankenpflege und der Art, des Inhalts und des Umfangs der Leistungen sowie der Versorgung chronischer Wunden in spezialisierten Einrichtungen wird auf die Richtlinie des Gemeinsamen Bundesausschusses über die Verordnung von häuslicher Krankenpflege (Häusliche Krankenpflege-Richtlinie) hingewiesen. Für die Zeit des Aufenthalts in Einrichtungen, in denen Behandlungspflege durch die Einrichtungen erbracht wird (zum Beispiel in Krankenhäusern, Rehabilitationseinrichtungen, Hospizen, Pflegeheimen), sind Aufwendungen für häusliche Krankenpflege nicht beihilfefähig. Dies gilt ebenso für den Zeitraum einer stationsäquivalenten psychiatrischen Behandlung.
+
+30.1.7
+
+Andere geeignete Orte für eine häusliche Krankenpflege sind Orte, an denen sich der zu Pflegende regelmäßig wiederkehrend aufhält und die verordnete Maßnahme aus medizinisch-pflegerischen Gründen während des Aufenthaltes an diesem Ort notwendig ist. Solche Orte können insbesondere Schulen, Kindergärten, betreute Wohnformen (zum Beispiel Alten-/Seniorenheim oder Wohngruppen/Appartements eines Pflegedienstes, stationäre Pflegeeinrichtung), Arbeitsstätten oder Werkstätten für behinderte Menschen sein. Auch in vollstationären Einrichtungen oder Räumlichkeiten der Hilfe für behinderte Menschen im Sinne von § 43a des Elften Buches Sozialgesetzbuch sind Aufwendungen für häusliche Krankenpflege beihilfefähig, wenn (vorübergehend) ein besonders hoher Bedarf an medizinischer Behandlungspflege besteht (zum Beispiel nach einem Krankenhausaufenthalt).
+
+30.1.8
+
+Bei einer vorübergehenden Krankenpflege einer in einem Alten-/Seniorenwohnheim nicht wegen dauernder Pflegebedürftigkeit wohnenden Person ist der zu den allgemeinen Unterbringungskosten berechnete Pflegezuschlag bis zur Höhe der Sätze nach Nummer 30.2.2 beihilfefähig. Aufwendungen für Unterkunft und Verpflegung sind nicht beihilfefähig.
 
 
 30.2                     
 
 
-Zu Absatz 2                     
+Zu Absatz 2
 
 
 30.2.1                    
@@ -6764,13 +7002,13 @@ Im Einzelfall kann die Pflege auch unter entsprechender Anleitung durch Angehör
 30.3.2                    
 
 
-Ausgefallene Arbeitseinkünfte sind der Verdienstausfall in Höhe des Nettolohnes. Als durchschnittliche Kosten einer Berufspflegekraft ist eine monatliche Vergütung nach dem jeweils geltenden Tarifvertrag für den Öffentlichen Dienst der Länder in Entgeltgruppe KR 7a, Stufe 5 einschließlich Pflegezulage, anteilige Sonderzahlung und Arbeitgeberanteile in der Sozialversicherung anzusetzen. Ausgefallene Arbeitseinkünfte sind auch die aufgrund einer vorübergehenden Beurlaubung ohne Entgelt entstandenen Verdienstausfälle. Eine mindestens halbtägige Erwerbstätigkeit umfasst in der Regel (Annahme einer 40-Stunden- und 5-Tage-Arbeitswoche) 4 Stunden arbeitstäglich oder 20 Stunden wöchentlich. Abweichungen vom Regelfall sind vom Beihilfeberechtigten glaubhaft nachzuweisen und von der Festsetzungsstelle im entsprechenden Umfang zu berücksichtigen.                    
+Ausgefallene Arbeitseinkünfte sind der Verdienstausfall in Höhe des Nettolohnes. Als durchschnittliche Kosten einer Berufspflegekraft ist eine monatliche Vergütung nach dem jeweils geltenden Tarifvertrag für den Öffentlichen Dienst der Länder in Entgeltgruppe KR 7, Stufe 5 einschließlich Pflegezulage, anteilige Sonderzahlung und Arbeitgeberanteile in der Sozialversicherung anzusetzen. Ausgefallene Arbeitseinkünfte sind auch die aufgrund einer vorübergehenden Beurlaubung ohne Entgelt entstandenen Verdienstausfälle. Eine mindestens halbtägige Erwerbstätigkeit umfasst in der Regel (Annahme einer 40-Stunden- und 5-Tage-Arbeitswoche) 4 Stunden arbeitstäglich oder 20 Stunden wöchentlich. Abweichungen vom Regelfall sind vom Beihilfeberechtigten glaubhaft nachzuweisen und von der Festsetzungsstelle im entsprechenden Umfang zu berücksichtigen.
 
 
 30.3.3                    
 
 
-Zu den nahen Angehörige im Sinne des Satzes 5 zählen der Ehegatte, der Lebenspartner, die Eltern oder die Kinder der behandelten Person (vergleiche § 5 Absatz 2 Satz 2).
+Die Personen, die mit dem Gepflegten bis zum zweiten Grade verwandt oder verschwägert sind, sind in Nummer 51.2.4 genannt.
 
 
 30a.
@@ -6840,7 +7078,7 @@ entstanden sind.
 31.1.3                    
 
 
-Beihilfefähig sind die Aufwendungen für die notwendigen ärztlichen und pflegerischen Leistungen einschließlich ihrer Koordination insbesondere zur Schmerztherapie und Symptomkontrolle bis zur Höhe der nach § 132d Absatz 1 Satz 1 SGB V von der gesetzlichen Krankenversicherung vereinbarten Vergütung. Erhöhte Aufwendungen, die auf Grund der besonderen Belange von zu betreuenden Kindern anfallen, sind beihilfefähig.   
+Beihilfefähig sind die Aufwendungen für die notwendigen ärztlichen und pflegerischen Leistungen einschließlich ihrer Koordination insbesondere zur Schmerztherapie und Symptomkontrolle bis zur Höhe der nach § 132d Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch von der gesetzlichen Krankenversicherung vereinbarten Vergütung. Erhöhte Aufwendungen, die auf Grund der besonderen Belange von zu betreuenden Kindern anfallen, sind beihilfefähig.   
 
 31.1.4
 
@@ -6857,58 +7095,28 @@ Zu Absatz 2
 31.2.1                    
 
 
-Hospize sind Einrichtungen, in denen unheilbar Kranke in ihrer letzten Lebensphase palliativ-medizinisch, das heißt leidensmindernd, pflegerisch und seelisch betreut werden. Das Hospiz muss einen Versorgungsvertrag mit der gesetzlichen Krankenversicherung abgeschlossen haben (§ 39a des               Fünften Buches Sozialgesetzbuch).                                                               
+Hospize sind Einrichtungen, in denen unheilbar Kranke in ihrer letzten Lebensphase palliativ-medizinisch, das heißt leidensmindernd, pflegerisch und seelisch betreut werden. Das Hospiz muss einen Versorgungsvertrag mit der gesetzlichen Krankenversicherung abgeschlossen haben (§ 39a des               Fünften Buches Sozialgesetzbuch).                                          
 
 31.2.2                    
 
 
-Mit Inkrafttreten des Gesetzes zur Verbesserung der Hospiz- und Palliativversorgung in der Bundesrepublik Deutschland am 8. Dezember 2015 trägt die Krankenkasse die zuschussfähigen Kosten unter Anrechnung der Leistungen nach dem Elften Buch Sozialgesetzbuch zu 95 Prozent (vor dem 8. Dezember 2015: zu 90 Prozent, bei Kinderhospizen: zu 95 Prozent). Der Zuschuss darf dabei kalendertäglich 9 Prozent (vor dem 8. Dezember 2015: 7 Prozent) der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch nicht unterschreiten. Beihilfefähig sind deshalb 95 Prozent (vor dem 8. Dezember 2015: 90 Prozent, bei Kinderhospizen: 95 Prozent) der tatsächlichen Aufwendungen (einschließlich Unterkunft und Verpflegung), mindestens jedoch kalendertäglich 9 Prozent der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch (vor dem 8. Dezember 2015: 7 Prozent). Es ergeben sich die folgenden kalendertäglichen Mindestbeträge in Euro:
+Die Aufwendungen sind in Höhe des nach § 39a Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch von der Krankenkasse zu gewährenden Zuschusses zu stationärer oder teilstationärer Versorgung in Hospizen, in denen palliativ-medizinische Behandlung erbracht wird, beihilfefähig. Der Zuschuss beträgt unter Anrechnung der Leistungen nach dem Elften Buch Sozialgesetzbuch 95 Prozent der zuschussfähigen Kosten (tagesbezogener Bedarfssatz). Der Zuschuss darf dabei kalendertäglich 9 Prozent der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch nicht unterschreiten und unter Anrechnung der Leistungen anderer Sozialleistungsträger oder Kostenträger (§ 6 Absatz 1) die tatsächlichen kalendertäglichen Kosten nicht überschreiten. Beihilfefähig sind deshalb 95 Prozent der tatsächlichen Aufwendungen (einschließlich Unterkunft und Verpflegung), mindestens jedoch kalendertäglich 9 Prozent der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch. Es ergeben sich die folgenden kalendertäglichen Mindestbeträge in Euro:
 
-Mindestbeträge         
-
-
-| Zeitraum                          
+Mindestbeträge
 
 
-| Ost                          
+| Zeitraum
+
+| Ost
+
+| West
 
 
-| West                          
+| Zeitraum
 
+| Ost
 
-| Zeitraum                       
-
-| Ost                       
-
-| West                   
-
-
-| 1. Januar 2015 bis 7. Dezember 2015                       
-
-| 169,05                       
-
-| 198,45                   
-
-
-| 8. Dezember 2015 bis 31. Dezember 2015                       
-
-| 217,35                       
-
-| 255,15                   
-
-
-| 1. Januar 2016 bis 31. Dezember 2016
-
-| 226,80
-
-| 261,45
-
-
-| 1. Januar 2017 bis 31. Dezember 2017
-
-| 239,40
-
-| 267,75
+| West
 
 
 | 1. Januar 2018 bis 31. Dezember 2018
@@ -6925,13 +7133,29 @@ Mindestbeträge
 | 280,35
 
 
-Soweit andere Sozialleistungsträger Zuschüsse gewähren, sind diese im Rahmen des § 6 Absatz 1 anzurechnen. Bei Vorliegen der Voraussetzungen kommt daneben auch eine Beihilfegewährung nach § 52 (Kurzzeitpflege) und § 55 (vollstationäre Pflege) in Betracht; im Bereich der gesetzlichen Krankenversicherung sind insoweit die Leistungen der Pflegekassen vorrangig auszuschöpfen.                    
+| 1. Januar 2020 bis 31. Dezember 2020
+
+| 270,90
+
+| 286,65
+
+
+| 1. Januar 2021 bis 31. Dezember 2021
+
+| 280,35
+
+| 296,10
+
+
+Bei Vorliegen der Voraussetzungen kommt daneben auch eine Beihilfegewährung nach § 52 (Kurzzeitpflege) und § 55 (vollstationäre Pflege) in Betracht; im Bereich der gesetzlichen Krankenversicherung sind insoweit die Leistungen der Pflegekassen vorrangig auszuschöpfen.
 
 
 31.2.3                    
 
 
-In Ausnahmefällen können die Kosten bis zur Höhe der Kosten einer Hospizbehandlung (vergleiche Nummer 31.2.2) auch in anderen Häusern, die keinen Versorgungsvertrag mit der gesetzlichen Krankenversicherung abgeschlossen haben und palliativ-medizinische Versorgung erbringen, als beihilfefähig anerkannt werden, wenn aufgrund der Besonderheit der Erkrankung oder eines Mangels an Hospizplätzen eine Unterbringung in einem wohnortnahen Hospiz nicht möglich ist. In diesem Fall bestimmt sich die Beihilfefähigkeit der Aufwendungen nach dem Betrag, den die gesetzliche Krankenversicherung ihrem Zuschuss zu Grunde legt. Zur Ermittlung dieses Betrages reicht die Bestätigung der Einrichtung über die Höhe der der gesetzlichen Krankenversicherung in Rechnung gestellten oder zu stellenden Vergütung aus.                    
+In Ausnahmefällen können die Kosten bis zur Höhe der Kosten einer Hospizbehandlung (vergleiche Nummer 31.2.2) auch in anderen Häusern, die keinen Versorgungsvertrag mit der gesetzlichen Krankenversicherung abgeschlossen haben und palliativ-medizinische Versorgung erbringen, als beihilfefähig anerkannt werden, wenn aufgrund der Besonderheit der Erkrankung oder eines Mangels an Hospizplätzen eine Unterbringung in einem wohnortnahen Hospiz nicht möglich ist. In diesem Fall bestimmt sich die Beihilfefähigkeit der Aufwendungen nach dem Betrag, den die gesetzliche Krankenversicherung ihrem Zuschuss zu Grunde legt. Zur Ermittlung dieses Betrages reicht die Bestätigung der Einrichtung über die Höhe der der gesetzlichen Krankenversicherung in Rechnung gestellten oder zu stellenden Vergütung aus.
+
+Gewährt die gesetzliche Krankenversicherung für diese Einrichtung keine Zuschüsse, können die Zuschüsse für die nächstgelegene vergleichbare Einrichtung herangezogen werden.
 
 
 31a                     
@@ -6943,24 +7167,7 @@ Zu § 31a Klinisches Krebsregister
 31a.1
 
 
-Im April 2014 ist das Krebsfrüherkennungs- und -registergesetz in Kraft getreten.
-
-Es verpflichtet die Länder, flächendeckende klinische Krebsregister einzurichten.
-
-Ein klinisches Krebsregister strebt die Erfassung aller Krebspatienten an, die in einem definierten Einzugsgebiet behandelt wurden.
-
-Hauptziele dieser Erfassung sind die Qualitätssicherung und die Darstellung der Ergebnisqualität der gesamten Behandlung von Krebspatienten.
-
-Pro Fall ist an das Krebsregister eine Registerpauschale (Stand 2015: 119 Euro) zu zahlen.
-
-Die Aufwendungen für Pauschalen und Gebühren sind einschließlich Umsatzsteuer beihilfefähig.
-
-Außerdem fallen Gebühren für die Meldungen der zu übermittelnden Identitäts- und medizinischen Daten sowie meldungsbezogener Daten an das klinische Krebsregister in unterschiedlicher Höhe pro Fall an (Erstmeldung, Stand 2015: 18 Euro).
-
-Hinsichtlich der Verfahrensweise der Abrechnung der Krebsregisterpauschale und der Meldevergütung mit den Beihilfeträgern besteht keine bundeseinheitliche Regelung, sodass je nach Wohnort des Beihilfeberechtigten oder berücksichtigungsfähigen Angehörigen ein anderes Verfahren geregelt sein kann.
-
-Eine Regelung für den Freistaat Sachsen soll im Laufe des Jahres 2016 in Kraft treten.
-
+Im April 2014 ist das Krebsfrüherkennungs- und -registergesetz in Kraft getreten. Es verpflichtet die Länder, flächendeckende klinische Krebsregister einzurichten. Ein klinisches Krebsregister strebt die Erfassung aller Krebspatienten an, die in einem definierten Einzugsgebiet behandelt wurden. Hauptziele dieser Erfassung sind die Qualitätssicherung und die Darstellung der Ergebnisqualität der gesamten Behandlung von Krebspatienten. Pro Fall ist an das Krebsregister eine Registerpauschale nach § 65c Absatz 4 des Fünften Buches Sozialgesetzbuch zu zahlen, die jährlich vom GKV-Spitzenverband angepasst wird. Sie beträgt im Jahr 2021 141,73 Euro. Außerdem fallen Gebühren für die Meldungen der zu übermittelnden Identitäts- und medizinischen Daten sowie meldungsbezogener Daten an das klinische Krebsregister in unterschiedlicher Höhe pro Fall an (zum Beispiel für die Erstmeldung im Jahr 2021, unverändert seit 2015, 18 Euro). Die Aufwendungen für Pauschalen und Gebühren sind einschließlich Umsatzsteuer beihilfefähig. Hinsichtlich der Verfahrensweise der Abrechnung der Krebsregisterpauschale und der Meldevergütung mit den Beihilfeträgern besteht keine bundeseinheitliche Regelung, sodass je nach Wohnort des Beihilfeberechtigten oder berücksichtigungsfähigen Angehörigen ein anderes Verfahren geregelt sein kann. Im Freistaat Sachsen wird das Abrechnungsverfahren mit der Beihilfe noch geregelt.                               
 
 31a.2                    
 
@@ -6992,7 +7199,7 @@ bb)
 pauschale Abrechnung von personenbezogenen Kosten und Aufwendungen (zum Beispiel unter Zugrundelegung eines einheitlichen Bemessungssatzes für alle Beihilfeberechtigten), die entweder mit Rechnungsstellung gegenüber dem Beihilfeberechtigten oder direkt gegenüber der zuständigen Festsetzungsstelle erfolgen kann.                    
 
 
-Bei einer generellen, nicht personenbezogenen Förderung der regionalen klinischen Krebsregisters im Freistaat Sachsen außerhalb des sächsischen Beihilferechts entfällt sowohl die Beihilfefähigkeit von Aufwendungen des Beihilfeberechtigten als auch von direkt bei der Beihilfestelle geltend gemachter Kosten für die Meldung und Registrierung bei diesen Krebsregistern (Satz 3). In diesen Fällen können – ebenso wie nach § 5 Absatz 5 – etwaige dennoch in Rechnung gestellte Aufwendungen oder Kosten auch nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein. Der Aspekt der Fürsorgepflicht des Dienstherrn kommt insofern nicht zum Tragen. Bei einer Registrierung im klinischen Krebsregister eines anderen Landes sind in diesem Fall hierfür in Rechnung gestellte Aufwendungen jedoch dem Grunde nach beihilfefähig.                    
+Bei einer generellen, nicht personenbezogenen Förderung der regionalen klinischen Krebsregisters im Freistaat Sachsen außerhalb des sächsischen Beihilferechts entfällt sowohl die Beihilfefähigkeit von Aufwendungen des Beihilfeberechtigten als auch von direkt bei der Beihilfestelle geltend gemachter Kosten für die Meldung und Registrierung bei diesen Krebsregistern (Satz 3). In diesen Fällen können – ebenso wie nach § 5 Absatz 4 – etwaige dennoch in Rechnung gestellte Aufwendungen oder Kosten auch nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein. Der Aspekt der Fürsorgepflicht des Dienstherrn kommt insofern nicht zum Tragen. Bei einer Registrierung im klinischen Krebsregister eines anderen Landes sind in diesem Fall hierfür in Rechnung gestellte Aufwendungen jedoch dem Grunde nach beihilfefähig.
 
 
 32                     
@@ -7012,15 +7219,21 @@ Zu Absatz 1
 
 Die Notwendigkeit der Beförderung bestätigt der behandelnde Arzt, Zahnarzt oder Psychotherapeut (im Sinne des
 
-§ 16 Absatz 3 Satz 2) mit der Verordnung der Beförderung. Aufwendungen sind für die Hin- und Rückfahrt gesondert
+§ 16 Absatz 4 Satz 1) mit der Verordnung der Beförderung.
 
-zu prüfen, insbesondere ist dabei der aktuelle Gesundheitszustand des Beihilfeberechtigten oder des berücksichtigungsfähigen
 
-Angehörigen und seine Gehfähigkeit zu berücksichtigen. Von Psychotherapeuten verordnete
+Aufwendungen sind für die Hin- und Rückfahrt gesondert zu prüfen, insbesondere ist dabei der aktuelle Gesundheitszustand des Beihilfeberechtigten oder des berücksichtigungsfähigen Angehörigen und seine Gehfähigkeit zu berücksichtigen.
 
-Fahrten sind beihilfefähig, wenn sie im Zusammenhang mit einer psychotherapeutischen Leistung zwingend
 
-notwendig sind. Soweit Psychotherapeuten zur Krankenhauseinweisung berechtigt sind, gilt dies auch für Fahrten
+Die ärztliche Verordnung muss sich ausdrücklich auf die medizinische Notwendigkeit der Beförderung beziehen. Die Bescheinigung eines Krankenhauses über die Notwendigkeit der Behandlung oder Mitteilung der Behandlungstermine begründet noch keine medizinische Notwendigkeit der Fahrten (BVerwG, Urteil vom 5. März 2021, 5 C 14/19).
+
+
+Von Psychotherapeuten verordnete Fahrten sind beihilfefähig, wenn sie im Zusammenhang mit einer psychotherapeutischen Leistung zwingend
+
+notwendig sind.
+
+
+Soweit Psychotherapeuten zur Krankenhauseinweisung berechtigt sind, gilt dies auch für Fahrten
 
 zur stationären Krankenhausbehandlung.
 
@@ -7088,10 +7301,18 @@ andere Störungen des Sehvermögens (zum Beispiel Gesichtsfeldeinengungen), die 
 –                    
 
 
-Hilflosigkeit „H“: Hilflos ist der schwerbehinderte Mensch, der infolge der Behinderung nicht nur vorübergehend für die gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf des täglichen Lebens in erheblichem Umfang dauernd fremder Hilfe bedarf. Bei bestimmten Funktionsbeeinträchtigungen (zum Beispiel Querschnittslähmung, Verlust mehrerer Gliedmaßen, schweren Hirnschäden mit einem Grad der Behinderung von 100) wird die Hilflosigkeit im Allgemeinen unterstellt.                    
+Hilflosigkeit „H“: Hilflos ist der schwerbehinderte Mensch, der infolge der Behinderung nicht nur vorübergehend für die gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf des täglichen Lebens in erheblichem Umfang dauernd fremder Hilfe bedarf. Bei bestimmten Funktionsbeeinträchtigungen (zum Beispiel Querschnittslähmung, Verlust mehrerer Gliedmaßen, schweren Hirnschäden mit einem Grad der Behinderung von 100) wird die Hilflosigkeit im Allgemeinen unterstellt.
 
 
-32.1.6                    
+–
+
+
+Pflegegrad 3 und höher: Die Einstufung der Pflegebedürftigkeit in Pflegegrade ergibt sich aus § 48 Absatz 1 in Verbindung mit § 15 des Elften Buches Sozialgesetzbuch.
+
+
+Bei Aufwendungen für Fahrten anlässlich einer notwendigen Verlegung in ein anderes Krankenhaus kann die Festsetzungsstelle im Regelfall davon ausgehen, dass eine ärztliche Verordnung vorliegt.
+
+32.1.6
 
 
 Die Beihilfefähigkeit von Fahrtkosten bei Rehabilitationsmaßnahmen und Kuren richtet sich nach den Spezialvorschriften von § 37 Absatz 3 Satz 2 Nummer 1 oder § 39 Absatz 3 Satz 3.                    
@@ -7132,13 +7353,15 @@ Liegen bei Benutzung eines privaten Kraftfahrzeuges triftige Gründe im reisekos
 32.3.3                    
 
 
-Aufwendungen für ein Taxi sind nur dann als beihilfefähig zu berücksichtigen, wenn nach ärztlicher Bescheinigung aus zwingenden medizinischen Gründen öffentliche Verkehrsmittel oder ein privates Kraftfahrzeug nicht benutzt werden können. Wird der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige statt mit dem Taxi mit einem privaten Pkw gebracht oder abgeholt, kann Wegstreckenentschädigung auch für die sogenannte Leerfahrt gewährt werden, wenn diese Fahrt ausschließlich aus Anlass des Bringens oder Abholens durchgeführt wird und keinem anderen Zweck dient.                    
+Aufwendungen für ein Taxi sind nur dann als beihilfefähig zu berücksichtigen, wenn nach ärztlicher Bescheinigung aus zwingenden medizinischen Gründen öffentliche Verkehrsmittel oder ein privates Kraftfahrzeug nicht benutzt werden können oder die Voraussetzungen des Absatzes 1 Satz 3 vorliegen (vergleiche auch Nummer 32.1.5). Wird der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige statt mit dem Taxi mit einem privaten Pkw gebracht oder abgeholt, kann Wegstreckenentschädigung auch für die sogenannte Leerfahrt gewährt werden, wenn diese Fahrt ausschließlich aus Anlass des Bringens oder Abholens durchgeführt wird und keinem anderen Zweck dient.
+
+Ist die Gesamtfahrtzeit (Hin- und Rückfahrt) bei notwendiger Nutzung eines Taxis erheblich länger als der Aufenthalt in der Behandlungseinrichtung, sodass eine zwischenzeitliche Rückfahrt oder Erledigung anderer Aufträge des berufsmäßigen Fahrers nicht möglich oder unwirtschaftlich ist, können im Einzelfall auch die nachgewiesenen Aufwendungen für die Wartezeit des Taxifahrers als dem Grunde nach beihilfefähig anerkannt werden. Die beihilfefähigen Kosten richten sich nach dem für die Region geltenden Taxitarif. Bei Fahrten, die von nicht berufsmäßigen Fahrern durchgeführt werden, sind Aufwendungen für Wartezeiten nicht beihilfefähig.
 
 
 32.3.4                    
 
 
-Die beihilfefähigen Fahrtkosten sind mit Ausnahme der in Satz 4 genannten Fälle um 10 Euro je einfache Fahrt zu mindern. Die Minderung erfolgt nicht bei schwer behinderten Menschen im Sinne des Absatzes 1 Satz 3 Nummer 1, Fahrten zur Dialyse, onkologischer Strahlen- oder Chemotherapie sowie bei Fahrten von Spendern im Zusammenhang mit Organspenden.                    
+Die beihilfefähigen Fahrtkosten sind mit Ausnahme der in Satz 4 genannten Fälle um 10 Euro je einfache Fahrt zu mindern. Die Minderung erfolgt nicht bei schwer behinderten Menschen im Sinne des Absatzes 1 Satz 3 Nummer 1, Fahrten zur Dialyse, onkologischer Strahlen- oder Chemotherapie sowie bei Fahrten von Spendern im Zusammenhang mit Organspenden.
 
 
 32.4                     
@@ -7224,15 +7447,13 @@ Zu § 34 Kommunikationshelfer
 
 Als beihilfefähige Kommunikationshelfer kommen die in § 2 Nummer 1 der
 
-Sächsischen Kommunikationshilfenverordnung aufgezählten Helfer in Betracht. Dies sind zum Beispiel Gebärdensprachdolmetscher und Oraldolmetscher. Aufgrund des Verweises auf § 5 Absatz 1 der
-
-Sächsischen Kommunikationshilfenverordnung             sind die nachgewiesenen Aufwendungen des Beihilfeberechtigten bis zur Höhe der im               Justizvergütungs- und -entschädigungsgesetz               vorgesehenen Sätze (ab 1. Januar 2014: im Regelfall 70 Euro je Stunde für Dolmetscher, § 9 Absatz 3 des                 Justizvergütungs- und -entschädigungsgesetzes) als beihilfefähig anzuerkennen.  
+Sächsischen Kommunikationshilfenverordnung aufgezählten Helfer in Betracht.    Dies sind zum Beispiel Gebärdensprachdolmetscher und Oraldolmetscher. Aufgrund des Verweises in § 5 Absatz 1 der Sächsischen Kommunikationshilfenverordnung sind die nachgewiesenen Aufwendungen des Beihilfeberechtigten für Kommunikationshelfer bis zu der Höhe beihilfefähig, die sich bei entsprechender Anwendung der Regelungen über die Vergütung von Dolmetschern und Übersetzern nach dem Abschnitt 3 des Justizvergütungs- und -entschädigungsgesetzes ergeben würde. Für das Honorar des Kommunikationshelfers ist der Stundensatz für Dolmetscher nach § 9 Absatz 5 und 6 des Justizvergütungs- und -entschädigungsgesetzes maßgebend. Er beträgt 85 Euro (Stand: 1. Januar 2021).    Aufgrund des Verweises auf § 5 Absatz 1 der            Sächsischen Kommunikationshilfenverordnung             sind die nachgewiesenen Aufwendungen des Beihilfeberechtigten bis zur Höhe der im               Justizvergütungs- und -entschädigungsgesetz               vorgesehenen Sätze (ab 1. Januar 2014: im Regelfall 70 Euro je Stunde für Dolmetscher, § 9 Absatz 3 des                 Justizvergütungs- und -entschädigungsgesetzes) als beihilfefähig anzuerkennen.    
 
 
 34.3                    
 
 
-Beihilfefähig sind insbesondere die Einsatzzeit zuzüglich erforderlicher Reisezeiten (§ 8 Absatz 2 des                 Justizvergütungs- und -entschädigungsgesetzes) und erforderliche Fahrtkosten (§ 8 Absatz 1 Nummer 2 in Verbindung mit § 5 des                             Justizvergütungs- und -entschädigungsgesetzes) der Kommunikationshilfe. Hierbei ist im Rahmen der Erforderlichkeit auch das Wirtschaftlichkeitsgebot zu beachten. So sind Reisezeiten und Fahrtkosten der Kommunikationshilfe dann nicht erforderlich, wenn zum Beispiel ohne besonderen sachlichen Grund ein weit entfernt ansässiger Kommunikationshelfer in Anspruch genommen wird, obwohl auch andere geeignete Kommunikationshelfer in der näheren Umgebung des Behandlungsortes in Anspruch genommen werden könnten.                                                               
+Beihilfefähig sind insbesondere auch die Einsatzzeit zuzüglich erforderlicher Reisezeiten (§ 8 Absatz 2 des                 Justizvergütungs- und -entschädigungsgesetzes) und erforderliche Fahrtkosten (§ 8 Absatz 1 Nummer 2 in Verbindung mit § 5 des                             Justizvergütungs- und -entschädigungsgesetzes) der Kommunikationshilfe. Hierbei ist im Rahmen der Erforderlichkeit auch das Wirtschaftlichkeitsgebot zu beachten. So sind Reisezeiten und Fahrtkosten der Kommunikationshilfe dann nicht erforderlich, wenn zum Beispiel ohne besonderen sachlichen Grund ein weit entfernt ansässiger Kommunikationshelfer in Anspruch genommen wird, obwohl auch andere geeignete Kommunikationshelfer in der näheren Umgebung des Behandlungsortes in Anspruch genommen werden könnten.                                          
 
 34.4                    
 
@@ -7251,7 +7472,7 @@ Sächsischen Kommunikationshilfenverordnung zugelassener Kommunikationshilfen ri
 35                     
 
 
-Zu § 35 Familien- und Haushaltshilfe                     
+Zu § 35 Familien- und Haushaltshilfe
 
 
 35.1                     
@@ -7308,12 +7529,7 @@ Die Aufwendungen sind in sinngemäßer Anwendung von Absatz 1 Satz 2 der Person 
 Zu Absatz 3                     
 
 
-35.3.1                    
-
-
-Nahe Angehörige sind der Ehegatte, der Lebenspartner, die Eltern oder die Kinder der hilfsbedürftigen Person (vergleiche § 5 Absatz 2 Satz 2).              
-
-35.3.2
+35.3.1
 
 Für die Zahlung der Aufwendungen an die Familien- und Haushaltshilfe gilt Nummer 30.3.1 Satz 2 bis 4 entsprechend.
 
@@ -7348,10 +7564,10 @@ Die Bezeichnung Elternteil schließt sowohl den Beihilfeberechtigten selbst als 
 Für Beamte im Ausland und deren berücksichtigungsfähige Angehörige bemisst sich die Angemessenheit der Aufwendungen für eine Familien- und Haushaltshilfe im Gastland unter Berücksichtigung der besonderen Verhältnisse im Ausland nach den ortsüblichen Entgeltsätzen.                    
 
 
-35.5.3                    
+35.6
 
 
-Nahe Angehörige sind die in § 5 Absatz 2 Satz 2 genannten Personen.                    
+Zu Absatz 6 (bleibt frei)
 
 
 36                     
@@ -7405,7 +7621,19 @@ Zu Absatz 1
 37.1.1                    
 
 
-Die medizinische Rehabilitation beinhaltet komplexe, interdisziplinäre und individuell ausgerichtete Maßnahmen. Sie können ambulant (einschließlich teilstationärer Maßnahmen) oder stationär durchgeführt werden. Je nach Behandlungsfall beinhaltet die Leistung die rehabilitationsspezifische Diagnostik, ärztliche Behandlung, Versorgung mit Arznei- und Verbandmitteln, physikalische Therapie, Funktionstraining, Sporttherapie, Logopädie, Ergotherapie, psychologische Betreuung, Psychotherapie, Soziotherapie, Gesundheitsbildung mit Informationen über Krankheit und Krankheitsbewältigungsstrategien, Sicherung der Versorgung mit Hilfsmitteln einschließlich Schulung, Patientenschulung, Diätetik und so weiter. Die medizinische Rehabilitation ist von der beruflichen und der sozialen Rehabilitation abzugrenzen. Aufwendungen für Letztere sind nicht beihilfefähig.                    
+Die medizinische Rehabilitation beinhaltet komplexe, interdisziplinäre und individuell ausgerichtete Maßnahmen.
+
+
+Sie können ambulant (einschließlich teilstationärer Maßnahmen) oder stationär durchgeführt werden.
+
+
+Je nach Behandlungsfall beinhaltet die Leistung die rehabilitationsspezifische Diagnostik, ärztliche Behandlung, Versorgung mit Arznei- und Verbandmitteln, Physiotherapie, Funktionstraining, Sporttherapie, Logopädie, Ergotherapie, psychologische Betreuung, Psychotherapie, Soziotherapie, Gesundheitsbildung mit Informationen über Krankheit und Krankheitsbewältigungsstrategien, Sicherung der Versorgung mit Hilfsmitteln einschließlich Schulung, Patientenschulung, Diätetik und so weiter.
+
+
+Die medizinische Rehabilitation ist von der beruflichen und der sozialen Rehabilitation abzugrenzen.
+
+
+Aufwendungen für Letztere sind nicht beihilfefähig.
 
 
 37.1.2                    
@@ -7423,7 +7651,7 @@ Zu Absatz 2
 37.2.1                    
 
 
-Der Begriff der Anschlussheilbehandlung ist identisch mit dem der Anschlussrehabilitation. Eine Anschlussheilbehandlung liegt vor, wenn die medizinische Rehabilitationsmaßnahme im unmittelbaren Anschluss an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung erfolgt, im Zusammenhang mit einer Krankenhausbehandlung steht oder in Ausnahmefällen auch dann, wenn die Rehabilitationsmaßnahme nach einer ambulanten Behandlung erfolgt, die im Zusammenhang mit einer vorangegangenen Krankenhausbehandlung stand. Im Rahmen der medizinischen Rehabilitationsleistungen kommen ambulante oder stationäre Behandlungen in Betracht. Als unmittelbar gilt der Anschluss auch, wenn die Maßnahme innerhalb von 14 Tagen beginnt, es sei denn, die Einhaltung dieser Frist ist aus zwingenden tatsächlichen oder medizinischen Gründen nicht möglich. Erfolgt die Versorgung nach einer Krankenhausbehandlung nach dem Phasenmodell der Bundesarbeitsgemeinschaft Rehabilitation (BAR), ist die Rehabilitation Phase B beihilferechtlich den Krankenhausleistungen (vergleiche Nummer 20.2.3) und die Rehabilitation Phase C und D beihilferechtlich der Anschlussheilbehandlung zuzuordnen.                    
+Der Begriff der Anschlussheilbehandlung ist identisch mit dem der Anschlussrehabilitation. Eine Anschlussheilbehandlung liegt vor, wenn die medizinische Rehabilitationsmaßnahme im unmittelbaren Anschluss an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung erfolgt, im Zusammenhang mit einer Krankenhausbehandlung steht oder in Ausnahmefällen auch dann, wenn die Rehabilitationsmaßnahme nach einer ambulanten Behandlung erfolgt, die im Zusammenhang mit einer vorangegangenen Krankenhausbehandlung stand. Im Rahmen der medizinischen Rehabilitationsleistungen kommen ambulante oder stationäre Behandlungen in Betracht. Als unmittelbar gilt der Anschluss auch, wenn die Maßnahme innerhalb von 14 Tagen beginnt, es sei denn, die Einhaltung dieser Frist ist aus zwingenden tatsächlichen oder medizinischen Gründen nicht möglich. Erfolgt die Versorgung nach einer Krankenhausbehandlung nach dem Phasenmodell der Bundesarbeitsgemeinschaft Rehabilitation (BAR), ist die Rehabilitation Phase B beihilferechtlich den Krankenhausleistungen (vergleiche Nummer 20.2.4) und die Rehabilitation Phase C und D beihilferechtlich der Anschlussheilbehandlung zuzuordnen.
 
 
 37.2.2                    
@@ -7524,6 +7752,8 @@ Ambulante Rehabilitation
 Maßnahmen der ambulanten medizinischen Rehabilitation sind interdisziplinäre therapeutische Angebote am Wohnort oder in Wohnortnähe, die den Erfordernissen des Einzelfalles flexibel angepasst werden können. Es handelt sich dabei in der Regel um spezielle Komplextherapien im Sinne des § 27, die nach einer akuten Behandlung zur Wiederherstellung oder Verbesserung der Funktion zur Anwendung kommen. Dazu gehören auch Rehabilitations-Nachsorgemaßnahmen nach Rahmenkonzepten der Deutschen Rentenversicherung (zum Beispiel die Intensivierte Rehabilitations-Nachsorge „IRENA“). Wohnortnähe bezeichnet das Einzugsgebiet im Umkreis von 30 Kilometern des Wohnortes in entsprechender Anwendung des § 2a Absatz 1 der
 
 Sächsischen Trennungsgeldverordnung, wobei eine tägliche Rückkehr gewährleistet sein muss. Die Abrechnung durch die Leistungserbringer erfolgt in der Regel pauschal (vergleiche Nummer 37.4).
+
+Verordnete Heilmittelanwendungen, die beispielsweise von einem Physiotherapeuten in einer Physiotherapiepraxis erbracht werden können, sind keine ambulanten medizinischen Rehabilitationsmaßnahmen in diesem Sinne. Die Beihilfefähigkeit von Heilmitteln richtet sich nach § 26 in Verbindung mit der Anlage 3 (vergleiche hierzu VG Chemnitz, Urteil vom 27. Mai 2020, 3 K 558/19).
 
 
 37.2.6.2                    
@@ -7677,7 +7907,7 @@ Aufwendungen für Anschlussheilbehandlungen, Suchtbehandlungen, familienorientie
 
 Die ärztliche Verordnung muss Angaben zu Art, Dauer und Inhalt der Rehabilitationsmaßnahme enthalten.
 
-Liegt eine Diagnose aus dem Indikationsspektrum zur Anwendung von Psychotherapie (vergleiche §§ 16 bis 19 und § 27 Absatz 5) vor, kann die Verordnung auch durch einen Psychotherapeuten im Sinne des § 16b Absatz 3 Satz 2 erfolgen. Darüber hinaus ist eine Verordnung durch einen Psychotherapeuten bei einer Diagnose aus dem Indikationsspektrum des Kapitels V „Psychische und Verhaltensstörungen“ der ICD-10-GM Version 2017 in Abstimmung mit dem behandelnden Arzt möglich.
+Liegt eine Diagnose aus dem Indikationsspektrum zur Anwendung von Psychotherapie (vergleiche §§ 16 bis 19 und § 27 Absatz 5) vor, kann die Verordnung auch durch einen Psychotherapeuten im Sinne des § 16 Absatz 4 Satz 1 erfolgen. Darüber hinaus ist eine Verordnung durch einen Psychotherapeuten bei einer Diagnose aus dem Indikationsspektrum des Kapitels V „Psychische und Verhaltensstörungen“ der ICD-10-GM Version 2017 in Abstimmung mit dem behandelnden Arzt möglich.
 
 Aufwendungen für Entwöhnungen im Rahmen stationärer Suchtbehandlungen und für eine familienorientierte Rehabilitation sind nur nach vorheriger Zustimmung der Festsetzungsstelle beihilfefähig. Eine nachträgliche Anerkennung der Beihilfefähigkeit der Maßnahme kann von der Festsetzungsstelle nur in begründeten Härtefällen im Sinne des § 4 Absatz 3 Satz 2 erfolgen. Für die der Entwöhnung vorausgehende ambulante oder stationäre Entgiftungsbehandlung ist eine Zustimmung der Festsetzungsstelle nicht erforderlich. Bei der Verordnung der familienorientierten Rehabilitation sind die in der Sozialversicherung angewendeten Kriterien maßgebend.
 
@@ -7697,7 +7927,9 @@ Zu Absatz 2
 38.2.1                    
 
 
-Die in Satz 1 Nummer 4 Buchstabe b genannte Schultergelenkläsion kann beispielsweise nach operativ versorgter Bankard-Läsion, Rotatorenmanschettenruptur, schwerer Schultersteife (frozen shoulder), Impingement-Syndrom, Schultergelenkluxation, tendinosis calcarea oder periathritis humero-scapularis (PHS) eintreten.                    
+Die in Satz 1 Nummer 4 Buchstabe b genannte Schultergelenkläsion kann beispielsweise nach operativ versorgter Bankard-Läsion, Rotatorenmanschettenruptur, schwerer Schultersteife (frozen shoulder), Impingement-Syndrom, Schultergelenkluxation, tendinosis calcarea oder periathritis humero-scapularis (PHS) eintreten.
+
+Weiterhin ist von den behandelten Gelenkerkrankungen nach Nummer 4 auch die Behandlung eines Knorpelschadens am Kniegelenk nach Durchführung einer Knorpelzelltransplantation oder nach Anwendung von Knorpelchips (sogenannte minced cartilage) erfasst.
 
 
 38.2.2                    
@@ -7721,7 +7953,7 @@ krankengymnastische Einzeltherapie,
 –                    
 
 
-physikalische Therapie nach Bedarf,
+Physiotherapie nach Bedarf,
 
 
 –                    
@@ -7748,7 +7980,7 @@ Die Beihilfefähigkeit einer stationären Rehabilitation nach § 37 Absatz 2 Num
 38.3.2                    
 
 
-Die Aufwendungen des für das Anerkennungsverfahren einzuholenden Gutachtens sind durch die Festsetzungsstelle zu tragen. Terminabsprachen mit dem Gutachter sind vom Beihilfeberechtigten oder seinen berücksichtigungsfähigen Angehörigen selbst vorzunehmen. Wird im Rahmen der Begutachtung der Pflegebedürftigkeit nach § 48 Absatz 1 die Notwendigkeit einer Rehabilitationsmaßnahme festgestellt und eine Rehabilitationsempfehlung erteilt, gilt diese als Gutachten im Sinne des § 38 Absatz 3 Satz 2.                    
+Die Aufwendungen eines gegebenenfalls von der Festsetzungsstelle eingeholten Gutachtens (vergleiche Nummer 62.7) trägt die Festsetzungsstelle. Terminabsprachen mit dem Gutachter sind vom Beihilfeberechtigten oder seinen berücksichtigungsfähigen Angehörigen selbst vorzunehmen. Wird im Rahmen der Begutachtung der Pflegebedürftigkeit nach § 48 Absatz 1 die Notwendigkeit einer Rehabilitationsmaßnahme festgestellt und eine Rehabilitationsempfehlung erteilt, kann die Maßnahme auch auf dieser Grundlage als beihilfefähig anerkannt werden.
 
 
 38.3.3                    
@@ -7772,7 +8004,7 @@ Zu Absatz 4
 38.4.1                    
 
 
-Die Aufwendungen für stationäre Rehabilitationsmaßnahmen für Beamte im Ausland (§ 4 Absatz 8) und ihre berücksichtigungsfähigen Angehörigen, deren stationäre Rehabilitation nicht in der Europäischen Union durchgeführt werden kann, sind auch in einer Einrichtung außerhalb der Europäischen Union beihilfefähig. Voraussetzung dafür ist jedoch, dass die Einrichtung nach der Erklärung eines von der Festsetzungsstelle beauftragten Arztes für die Durchführung der Rehabilitationsmaßnahme geeignet ist. Die Entscheidung über die Eignung trifft die Festsetzungsstelle.                    
+Die Aufwendungen für stationäre Rehabilitationsmaßnahmen für Beamte im Ausland (§ 4 Absatz 7) und ihre berücksichtigungsfähigen Angehörigen, deren stationäre Rehabilitation nicht in der Europäischen Union durchgeführt werden kann, sind auch in einer Einrichtung außerhalb der Europäischen Union beihilfefähig. Voraussetzung dafür ist jedoch, dass die Einrichtung nach der Erklärung eines von der Festsetzungsstelle beauftragten Arztes für die Durchführung der Rehabilitationsmaßnahme geeignet ist. Die Entscheidung über die Eignung trifft die Festsetzungsstelle.
 
 
 38.4.2                    
@@ -7894,10 +8126,10 @@ Zu Absatz 6 (bleibt frei)
 40                     
 
 
-Zu § 40 Schutzimpfungen                     
+Zu § 40 Schutzimpfungen und andere Vorsorgemaßnahmen
 
 
-40.1                     
+40.1
 
 
 Zu Absatz 1                     
@@ -7916,45 +8148,54 @@ Durch den Verweis auf § 20i Absatz 1 Satz 3 des                 Fünften Buches
 40.1.3                    
 
 
-Schutzimpfungen, die von der Sächsischen Impfkommission (SIKO) empfohlen werden, sind ebenfalls beihilfefähig. Damit sind beispielsweise Aufwendungen für Grippeschutzimpfungen (Influenza) und Frühsommer-Meningoenzephalitis (FSME) Schutzimpfungen ohne Einschränkungen beihilfefähig. Ferner ist damit auch die Schutzimpfung gegen Humane Papillomaviren (HPV) für Personen ab dem vollendeten 9. bis zum vollendeten 26. Lebensjahr beihilfefähig.
+Schutzimpfungen, die von der Sächsischen Impfkommission (SIKO) empfohlen werden, sind ebenfalls beihilfefähig.
+
+Damit sind beispielsweise Aufwendungen für Grippeschutzimpfungen (Influenza) ohne Einschränkungen beihilfefähig. Ferner ist damit auch die Schutzimpfung gegen Humane Papillomaviren (HPV) für Personen ab dem vollendeten 9. bis zum vollendeten 26. Lebensjahr beihilfefähig.
+
+Aufwendungen für Frühsommer-Meningoenzephalitis (FSME) Schutzimpfungen sind ohne Einschränkungen beihilfefähig. Eine Prüfung, ob sich die geimpfte Person tatsächlich in einem FSME-Risikogebiet aufhält, erfolgt nicht.
 
 
-40.1.4                    
+40.1.4
 
 
-Soweit die Schutzimpfung aus Anlass eines dienstlich veranlassten Auslandsaufenthaltes erfolgt (zum Beispiel Auslandsdienstreise), werden die entsprechenden Aufwendungen nach Maßgabe des Reisekostenrechts dort als Nebenkosten erstattet (vergleiche Abschnitt IX Nummer 1 Buchstabe b Doppelbuchstabe hh der                         
+Soweit bei Anwendung eines nach § 21 beihilfefähigen Arzneimittels eine Schutzimpfung zur Verringerung eines durch diese medikamentöse Therapie erhöhten Infektionsrisikos zu erfolgen hat, sind diese Aufwendungen unabhängig von einer Regelung in der Schutzimpfungs-Richtlinie beihilfefähig.
+
+40.1.5
+
+
+Soweit die Schutzimpfung aus Anlass eines dienstlich veranlassten Auslandsaufenthaltes erfolgt (zum Beispiel Auslandsdienstreise), werden die entsprechenden Aufwendungen nach Maßgabe des Reisekostenrechts dort als Nebenkosten erstattet (vergleiche Abschnitt IX Nummer 1 Buchstabe b Doppelbuchstabe hh der
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug des Sächsischen Reisekostengesetzes). In diesen Fällen können die Aufwendungen für Schutzimpfungen nicht als beihilfefähig anerkannt werden.
-
-
-40.1.5                    
-
-
-Wird die Schutzimpfung aus Anlass einer Abordnung oder Versetzung an eine Auslandsdienststelle vorgenommen, sind die entsprechenden Aufwendungen beihilfefähig. Voraussetzungen, Art und Umfang richten sich ebenfalls nach der Schutzimpfungs-Richtlinie.                    
 
 
 40.1.6
 
 
-Aufgrund der Schutzimpfungs-Richtlinie sind Impfungen aus Anlass einer nicht dienstlichen Auslandsreise (sogenannte Reiseschutzimpfungen) grundsätzlich nicht beihilfefähig. Soweit die Schutzimpfungs-Richtlinie für Reiseschutzimpfungen einen Leistungsanspruch der gesetzlichen Krankenversicherung vorsieht, sind entsprechende Aufwendungen beihilfefähig.
+Wird die Schutzimpfung aus Anlass einer Abordnung oder Versetzung an eine Auslandsdienststelle vorgenommen, sind die entsprechenden Aufwendungen beihilfefähig. Voraussetzungen, Art und Umfang richten sich ebenfalls nach der Schutzimpfungs-Richtlinie.                    
 
 
 40.1.7
 
 
-Aufwendungen für Schutzimpfungen aus Anlass eines Auslandsaufenthaltes sind nur dann ausnahmsweise beihilfefähig, wenn der Auslandsaufenthalt beruflich bedingt ist oder wenn zum Schutze der öffentlichen Gesundheit ein besonderes Interesse daran besteht, der Einschleppung einer übertragbaren Krankheit in die Bundesrepublik Deutschland vorzubeugen (zum Beispiel Poliomyelitis – Kinderlähmung). Erfolgt der Auslandsaufenthalt im Rahmen einer Ausbildung (insbesondere Studium oder Berufsausbildung), ist dieser einem beruflich bedingten Auslandsaufenthalt gleichgestellt, wenn die Ausbildungsstätte bestätigt, dass der Auslandsaufenthalt im Rahmen der Ausbildung durch eine Studien-, Ausbildungs- oder Prüfungsordnung vorgeschrieben ist.
+Aufgrund der Schutzimpfungs-Richtlinie sind Impfungen aus Anlass einer nicht dienstlichen Auslandsreise (sogenannte Reiseschutzimpfungen) grundsätzlich nicht beihilfefähig. Soweit die Schutzimpfungs-Richtlinie für Reiseschutzimpfungen einen Leistungsanspruch der gesetzlichen Krankenversicherung vorsieht, sind entsprechende Aufwendungen beihilfefähig.
 
 
 40.1.8
 
 
-Ein Auslandsaufenthalt im Rahmen eines freiwilligen Praktikums ist als nicht beruflich bedingt anzusehen. In diesen Fällen greift im Übrigen grundsätzlich der Ausschlusstatbestand des § 5 Absatz 1 Nummer 5, da ein freiwilliges Praktikum als berufsfördernde, berufsvorbereitende oder berufsbildende Maßnahme anzusehen ist. Soweit die Schutzimpfungs-Richtlinie für Reiseschutzimpfungen einen Leistungsanspruch der gesetzlichen Krankenversicherung vorsieht, sind entsprechende Aufwendungen dennoch beihilfefähig, da eine Person in einer Maßnahme nach § 5 Absatz 1 Nummer 5 nicht schlechter gestellt werden soll als bei einer privaten Urlaubsreise (vergleiche Nummer 40.1.6).
+Aufwendungen für Schutzimpfungen aus Anlass eines Auslandsaufenthaltes sind nur dann ausnahmsweise beihilfefähig, wenn der Auslandsaufenthalt beruflich bedingt ist oder wenn zum Schutze der öffentlichen Gesundheit ein besonderes Interesse daran besteht, der Einschleppung einer übertragbaren Krankheit in die Bundesrepublik Deutschland vorzubeugen (zum Beispiel Poliomyelitis – Kinderlähmung). Erfolgt der Auslandsaufenthalt im Rahmen einer Ausbildung (insbesondere Studium oder Berufsausbildung), ist dieser einem beruflich bedingten Auslandsaufenthalt gleichgestellt, wenn die Ausbildungsstätte bestätigt, dass der Auslandsaufenthalt im Rahmen der Ausbildung durch eine Studien-, Ausbildungs- oder Prüfungsordnung vorgeschrieben ist.
 
 
 40.1.9
 
 
-Wird die Impfung durch einen Amtsarzt beziehungsweise in einem öffentlichen Gesundheitsamt durchgeführt, sind die dafür anfallenden Verwaltungskosten (Verwaltungsgebühren und Auslagen, vergleiche § 1 Absatz 1 des                         
+Ein Auslandsaufenthalt im Rahmen eines freiwilligen Praktikums ist als nicht beruflich bedingt anzusehen. In diesen Fällen greift im Übrigen grundsätzlich der Ausschlusstatbestand des § 5 Absatz 1 Nummer 5, da ein freiwilliges Praktikum als berufsfördernde, berufsvorbereitende oder berufsbildende Maßnahme anzusehen ist. Soweit die Schutzimpfungs-Richtlinie für Reiseschutzimpfungen einen Leistungsanspruch der gesetzlichen Krankenversicherung vorsieht, sind entsprechende Aufwendungen dennoch beihilfefähig, da eine Person in einer Maßnahme nach § 5 Absatz 1 Nummer 5 nicht schlechter gestellt werden soll als bei einer privaten Urlaubsreise (vergleiche Nummer 40.1.7).
+
+
+40.1.10
+
+
+Wird die Impfung durch einen Amtsarzt beziehungsweise in einem öffentlichen Gesundheitsamt durchgeführt, sind die dafür anfallenden Verwaltungskosten (Verwaltungsgebühren und Auslagen, vergleiche § 1 Absatz 1 des
 
 Verwaltungskostengesetzes des Freistaates Sachsen), die in der Regel auf Grundlage des
 
@@ -7964,7 +8205,69 @@ Sächsischen Verwaltungskostengesetzes oder einer Kostensatzung erhoben werden, 
 40.2                     
 
 
-Zu Absatz 2 (bleibt frei)                     
+Zu Absatz 2 (bleibt frei)
+
+
+40.3
+
+
+Zu Absatz 3
+
+
+40.3.1
+
+
+Die Beihilfefähigkeit der Aufwendungen für ärztliche Beratung über Fragen der medikamentösen Präexpositionsprophylaxe zur Verhütung einer Ansteckung mit HIV sowie Untersuchungen, die bei Anwendung der für die medikamentöse Präexpositionsprophylaxe zugelassenen Arzneimittel erforderlich sind, bestimmt sich nach § 20j Absatz 2 des Fünften Buches Sozialgesetzbuch nach der Vereinbarung der Kassenärztlichen Bundesvereinigung und des Spitzenverbandes Bund der Krankenkassen über die HIV-Präexpositionsprophylaxe zur Prävention einer HIV-Infektion gemäß § 20j des Fünften Buches Sozialgesetzbuch (Anlage 33 zum Bundesmantelvertrag-Ärzte).
+
+40.3.2
+
+Die Voraussetzungen zur fachlichen Befähigung des Arztes zur Durchführung der Präexpositionsprophylaxe sind durch die Festsetzungsstelle nur bei begründeten Zweifeln zu prüfen.
+
+40.3.3
+
+Hinsichtlich der von einem Arzt schriftlich verordneten Arzneimittel zur Präexpositionsprophylaxe ist davon auszugehen, dass diese zur medikamentösen Präexpositionsprophylaxe zugelassen sind.
+
+40.3.4
+
+Bei Arzneimitteln zur Präexpositionsprophylaxe sind die Eigenbeteiligungen nach § 59 Absatz 1 zu berücksichtigen.
+
+40.3.5
+
+Aufwendungen für eine risikoadaptierte Untersuchung auf Lues, Gonorrhoe oder Chlamydien als Begleitdiagnostik sind beihilfefähig.
+
+40.3.6
+
+Soweit Aufwendungen für Präexpositionsprophylaxe in Verträgen geregelt sind, können diese nach § 4 Absatz 6 der Beihilfebemessung zu Grunde gelegt werden.
+
+40.4
+
+Zu Absatz 4
+
+40.4.1
+
+Soweit aufgrund einer Rechtsverordnung des Bundesministeriums für Gesundheit nach § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch Versicherte der gesetzlichen Krankenversicherung Anspruch auf weitere bestimmte Schutzimpfungen oder auf bestimmte andere Maßnahmen der spezifischen Prophylaxe haben, sind entsprechende Aufwendungen beihilfefähig, soweit diese Leistungen nicht zu Lasten anderer Kostenträger erbracht werden.
+
+40.4.2
+
+Im Falle einer Rechtsverordnung des Bundesministeriums für Gesundheit nach § 20i Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch aufgrund einer vom Deutschen Bundestag festgestellten epidemischen Lage von nationaler Tragweite (zum Beispiel Coronavirus-Impfverordnung, Coronavirus-Testverordnung und Coronavirus-Schutzmasken-Verordnung) sind entsprechende Aufwendungen für  
+
+
+a)
+
+bestimmte Schutzimpfungen oder auf bestimmte andere Maßnahmen der spezifischen Prophylaxe,
+
+
+b)
+
+bestimmte Testungen für den Nachweis des Vorliegens einer Infektion mit einem bestimmten Krankheitserreger oder auf das Vorhandensein von Antikörpern gegen diesen Krankheitserreger,
+
+
+c)
+
+bestimmte Schutzmasken
+
+
+nur beihilfefähig, soweit diese Leistungen nicht zu Lasten anderer Kostenträger erbracht werden. Eine pauschale Beteiligung der Beihilfe ist nicht vorgesehen. Insbesondere flächendeckende Tests nach Buchstabe b (wie zum Beispiel PCR-Test, PCR-Schnelltest, Antigen- oder Antikörpertests, gegebenenfalls auch als Selbsttest und damit in Zusammenhang stehende Nukleinsäurenachweise) sind grundsätzlich nicht beihilfefähig, da entsprechend der Ermächtigung in § 20i Absatz 3 Satz 2 Nummer 2 des Fünften Buches Sozialgesetzbuch Aufwendungen von nicht in der gesetzlichen Krankenversicherung Versicherten für diese Leistungen grundsätzlich zu Lasten anderer Kostenträger erbracht werden (zum Beispiel aus der Liquiditätsreserve des Gesundheitsfonds). Entsprechende Aufwendungen sind im Einzelfall nur dann beihilfefähig, wenn diese aus Anlass einer Krankheit entstanden sind (§ 8) und der Test medizinisch notwendig war (§ 4 Absatz 3). Die Entscheidung hierüber obliegt dem Arzt auf Basis der Kriterien des Robert Koch-Institutes.
 
 
 41                     
@@ -8006,25 +8309,28 @@ auf, dass sie rein diagnostischer Natur sind und daher nicht auf die Änderung d
 
 Körper-, Geistes- oder Seelenzustandes des Betroffenen gerichtet sind (BSG, Urteil vom 22. Januar 1981, 8/8a RK 17/79).
 
+Besteht hingegen ein spezielles Risiko oder ein Krankheitsverdacht, sind Aufwendungen zur Früherkennung von Krankheiten nach Maßgabe des Abschnittes 2 beihilfefähig.
+
 
 41.0.3
 
 
-Chromosomenuntersuchungen und andere Gentests sind mit Ausnahme des § 41 Absatz 4 und 5 keine Früherkennungs-
+Chromosomenuntersuchungen und andere Gentests sind mit Ausnahme des § 41 Absatz 4 und 5 keine Früherkennungsuntersuchungen im Sinne des § 41, der als abschließend anzusehen ist.
 
-und Vorsorgeuntersuchungen im Sinne des § 41, der als abschließend anzusehen ist. Insbesondere
-
-sind solche Gentests nicht beihilfefähig, die der Abklärung der Gefahren für das ungeborene
+Insbesondere sind solche Gentests nicht beihilfefähig, die der Abklärung der Gefahren für das ungeborene
 
 Leben dienen, sondern denen allenfalls durch die Entscheidung gegen eine Schwangerschaft begegnet
 
-werden können. Aufgrund dessen können Vorsorgeuntersuchungen bei Kindern (hierzu insbesondere
+werden können.
+
+Aufgrund dessen können Vorsorgeuntersuchungen bei Kindern (hierzu insbesondere
 
 §§ 42 und 44) nur bei diesen selbst und nicht bei ihrer Mutter noch vor Beginn der Schwangerschaft
 
 durchgeführt werden (VGH Mannheim, Urteil vom 29. Juni 2017, 2 S 2014/16).
 
-Zur Beihilfefähigkeit von Aufwendungen für das SCID-Screening für Kinder wird auf Nummer 42.5 verwiesen.
+
+Zur Beihilfefähigkeit von Aufwendungen für das Chromosomenuntersuchungen und andere Gentests für Kinder wird auf Nummer 42.5 verwiesen.
 
 
 41.1                     
@@ -8038,15 +8344,21 @@ Zu Absatz 1
 
 Hauptsächlicher Gegenstand der Untersuchung sind die „Volkskrankheiten“ der Herz-Kreislauf- und Nierenerkrankung sowie der Zuckerkrankheit (Diabetes Mellitus). Aus der Formulierung „insbesondere“ ergibt sich, dass die Herausstellung der drei Krankheitsformen keine abschließende Aufzählung bedeutet. Aufwendungen sind damit für alters-, geschlechter- und zielgruppengerechte ärztliche Gesundheitsuntersuchungen zur Erfassung und Bewertung gesundheitlicher Risiken und Belastungen, zur Früherkennung von bevölkerungsmedizinisch bedeutsamen Krankheiten und eine darauf abgestimmte präventionsorientierte Beratung, einschließlich einer Überprüfung des Impfstatus im Hinblick auf die Empfehlungen der Ständigen Impfkommission nach § 20 Absatz 2 des               Infektionsschutzgesetzes beihilfefähig.                                                               
 
-41.1.2                    
+41.1.2
 
 
-Aufwendungen sind nach § 25 Absatz 1 des               Fünften Buches Sozialgesetzbuch beihilfefähig, soweit der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige das 18. Lebensjahr vollendet hat. Die Aufwendungen sind jedes zweite Kalenderjahr beihilfefähig. Eine erneute Gesundheitsuntersuchung ist daher jeweils erst nach Ablauf des auf die vorangegangene Gesundheitsuntersuchung folgenden Kalenderjahres beihilfefähig.                                                               
+Aufwendungen sind nach § 25 Absatz 1 des Fünften Buches Sozialgesetzbuch beihilfefähig, soweit der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige das 18. Lebensjahr vollendet hat.  Bis zur Vollendung des 35. Lebensjahres ist eine Gesundheitsuntersuchung beihilfefähig. Ab Vollendung des 35. Lebensjahres sind Aufwendungen für Gesundheitsuntersuchungen alle drei Jahre beihilfefähig. Wird zu einer Gesundheitsuntersuchung Beihilfe gewährt, sind in den auf das Jahr der Gesundheitsuntersuchung folgenden zwei Kalenderjahren Aufwendungen für eine (erneute) Gesundheitsuntersuchung nicht beihilfefähig.
 
 41.1.3                    
 
 
-Die Beihilfefähigkeit der Untersuchungen bestimmt sich nach Maßgabe der Richtlinie des Gemeinsamen Bundesausschusses über die Gesundheitsuntersuchung zur Früherkennung von Krankheiten („Gesundheitsuntersuchungs-Richtlinien“).
+Die Beihilfefähigkeit der Untersuchungen bestimmt sich nach Maßgabe der Richtlinie des Gemeinsamen Bundesausschusses über die Gesundheitsuntersuchung zur Früherkennung von Krankheiten (Gesundheitsuntersuchungs-Richtlinie). Bei Beihilfeberechtigten oder berücksichtigungsfähigen Angehörigen, die das 18. Lebensjahr, aber noch nicht das 35. Lebensjahr vollendet haben, sind in dem in der Gesundheitsuntersuchungs-Richtlinie bestimmten Umfang Untersuchungen aus dem Urin nicht und Untersuchungen aus dem Blut nur bei entsprechendem Risikoprofil beihilfefähig. Entstehen bei diesem Personenkreis Aufwendungen für Untersuchungen aus dem Blut, kann davon ausgegangen werden, dass ein entsprechendes Risikoprofil vorliegt und die Maßnahme notwendig im Sinne des § 4 Absatz 3 ist.
+
+
+41.1.4
+
+
+Aufwendungen für die Teilnahme am Screening auf Bauchaortenaneurysmen sind nach Maßgabe der Gesundheitsuntersuchungs-Richtlinie für Männer ab dem Alter von 65 Jahren einmalig beihilfefähig. Zur Beihilfefähigkeit von entsprechenden Aufwendungen bei Frauen wird auf Nummer 41.3.5 verwiesen. Das Screeningergebnis gilt als auffällig, wenn ein Bauchaortendurchmesser von 2,5 cm oder größer gemessen wurde. Die Verlaufskontrollen und weitere Diagnostik nach Feststellung eines auffälligen Befundes erfolgen im Rahmen der Krankenbehandlung nach Abschnitt 2.
 
 
 41.2                     
@@ -8058,13 +8370,13 @@ Zu Absatz 2
 41.2.1                    
 
 
-Aufwendungen zur Früherkennung von Krebserkrankungen sind nach Maßgabe der Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie/KFE-RL) und der Richtlinie des Gemeinsamen Bundesausschusses für organisierte Krebsfrüherkennungsprogramme (oKFE-RL) beihilfefähig.
+Aufwendungen zur Früherkennung von Krebserkrankungen sind nach Maßgabe der Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie/KFE-RL) und der Richtlinie des Gemeinsamen Bundesausschusses für organisierte Krebsfrüherkennungsprogramme (oKFE-RL) im dort jeweils bestimmten Umfang beihilfefähig.
 
 
 41.2.2                    
 
 
-Danach sind insbesondere folgende Untersuchungen beihilfefähig:                    
+Danach sind insbesondere folgende Untersuchungen beihilfefähig:
 
 
 a)                    
@@ -8073,7 +8385,7 @@ a)
 bei Frauen            
 
 
-Früherkennung von Krebserkrankungen des Genitales ab dem Alter von 20 Jahren sowie zusätzlich der Brust ab dem Alter von 30 Jahren, sowie zusätzlich Früherkennung von Krebserkrankungen der Brust (Mammographie-Screening) ab dem Alter von 50 Jahren bis zum Ende des 70. Lebensjahres                     
+Früherkennung von Krebserkrankungen des Genitales und zur Früherkennung des Zervixkarzinoms ab dem Alter von 20 Jahren sowie zusätzlich der Brust ab dem Alter von 30 Jahren, sowie zusätzlich Früherkennung von Krebserkrankungen der Brust (Mammographie-Screening) ab dem Alter von 50 Jahren bis zum Ende des 70. Lebensjahres
 
 
 b)                    
@@ -8097,13 +8409,15 @@ Früherkennung von Krebserkrankungen der Haut ab dem Alter von 35 Jahren sowie d
 41.2.3
 
 
-Nicht jede der in Nummer 41.2.2 genannten Untersuchungen ist jedes Kalenderjahr beihilfefähig. So bestimmt sich beispielsweise die Häufigkeit des Mammographie-Screenings für Frauen nach § 10 der Krebsfrüherkennungs-Richtlinie des Gemeinsamen Bundesausschusses. Insoweit sind Aufwendungen grundsätzlich alle 24 Monate, erstmalig ab dem Alter von 50 Jahren und in der Folge frühestens 22 Monate nach der jeweils vorangegangenen Teilnahme und höchstens bis zum Ende des 70. Lebensjahres beihilfefähig. Aufwendungen für die Früherkennung von Krebserkrankungen der Haut bei Frauen und Männern sind beispielsweise jedes zweite Kalenderjahr beihilfefähig (vergleiche § 29 Absatz 1 der Krebsfrüherkennungs-Richtlinie des Gemeinsamen Bundesausschusses).
+Nicht jede der in Nummer 41.2.2 genannten Untersuchungen ist jedes Kalenderjahr beihilfefähig.
 
+So bestimmt sich beispielsweise die Häufigkeit des Mammographie-Screenings für Frauen nach § 10 der Krebsfrüherkennungs-Richtlinie.
 
-41.2.4
+Insoweit sind Aufwendungen grundsätzlich alle 24 Monate, erstmalig ab dem Alter von 50 Jahren und in der Folge frühestens 22 Monate nach der jeweils vorangegangenen Teilnahme und höchstens bis zum Ende des 70. Lebensjahres beihilfefähig.
 
+Aufwendungen für die Früherkennung von Krebserkrankungen der Haut bei Frauen und Männern ab dem Alter von 35 Jahren sind beispielsweise jedes zweite Kalenderjahr beihilfefähig (vergleiche § 29 Absatz 1 der Krebsfrüherkennungs-Richtlinie.
 
-Bei der Früherkennung von Gebärmutterhalskrebs sind Aufwendungen zum konventionellen Pap-Test beihilfefähig. Aufwendungen für einen ThinPrep-Test (Dünnschichtzytologie) sind nicht von der Krebsfrüherkennungs-Richtlinie des Gemeinsamen Bundesausschusses erfasst und deshalb nicht beihilfefähig. Aufwendungen für einen Test auf genitale Infektionen mit humanen Papillomaviren (HPV-Test) sind beihilfefähig, wenn ein auffälliger Pap-Befund vorliegt; zur HPV-Schutzimpfung vergleiche Nummer 40.1.3.
+Ebenso ist die Früherkennung des Zervixkarzinoms bei Frauen ab dem Alter von 35 Jahren (Ko-Testung) im Abstand von drei Kalenderjahren beihilfefähig (vergleiche Abschnitt III § 3 Absatz 3 der Richtlinie des Gemeinsamen Bundesausschusses für organisierte Krebsfrüherkennungsprogramme). Die Ko-Testung beinhaltet eine zytologische Untersuchung und einen HPV-Test.
 
 
 41.3                     
@@ -8115,12 +8429,12 @@ Zu Absatz 3
 41.3.1                    
 
 
-Das Staatsministerium der Finanzen kann für geeignete Gruppen eine von § 25 Absatz 1 und 2 des               Fünften Buches Sozialgesetzbuch abweichende Altersgrenze und eine von den Absätzen 1 und 2 abweichende Häufigkeit der Untersuchungen sowie weitere Untersuchungen bestimmen. Soweit die Gesundheitsuntersuchungs-Richtlinien oder die Krebsfrüherkennungs-Richtlinie des Gemeinsamen Bundesausschusses über die Bestimmungen der Absätze 1 und 2 hinausgehende Untersuchungen oder eine abweichende Altersgrenze und Häufigkeit der Untersuchungen vorsehen, sind diese nach Maßgabe dieser Richtlinien ebenfalls beihilfefähig.                              
+Das Staatsministerium der Finanzen kann für geeignete Gruppen eine von § 25 Absatz 1 und 2 des               Fünften Buches Sozialgesetzbuch abweichende Altersgrenze und Häufigkeit der Untersuchungen sowie weitere Untersuchungen bestimmen.  Soweit die Gesundheitsuntersuchungs-Richtlinie, die Krebsfrüherkennungs-Richtlinie oder die Richtlinie des Gemeinsamen Bundesausschusses für organisierte Krebsfrüherkennungsprogramme über die Bestimmungen der Absätze 1 und 2 hinausgehende Untersuchungen oder eine abweichende Altersgrenze und Häufigkeit der Untersuchungen vorsehen, sind diese nach Maßgabe dieser Richtlinien ebenfalls beihilfefähig.                              
 
 41.3.2
 
 
-Die Häufigkeit der Untersuchungen richtet sich ausschließlich nach der Gesundheitsuntersuchungs-Richtlinie oder der Krebsfrüherkennungs-Richtlinie des Gemeinsamen Bundesausschusses.
+Die Häufigkeit der Untersuchungen richtet sich ausschließlich nach der Gesundheitsuntersuchungs-Richtlinie, der Krebsfrüherkennungs-Richtlinie oder der Richtlinie des Gemeinsamen Bundesausschusses für organisierte Krebsfrüherkennungsprogramme.
 
 
 41.3.3
@@ -8132,9 +8446,13 @@ Im Rahmen der Untersuchungen zur Früherkennung von Krebserkrankungen des Genita
 41.3.4
 
 
-Aufwendungen für die Teilnahme am Screening auf Bauchaortenaneurysmen sind nach Maßgabe der Richtlinie des Gemeinsamen Bundesausschusses über das Ultraschallscreening auf Bauchaortenaneurysmen (Richtlinie Ultraschallscreening auf Bauchaortenaneurysmen/US-BAA-RL) für Männer ab dem Alter von 65 Jahren einmalig beihilfefähig. Das Screeningergebnis gilt als auffällig, wenn ein Bauchaortendurchmesser von 2,5 cm oder größer gemessen wurde. Die Verlaufskontrollen und weitere Diagnostik
+Nach Maßgabe der Gesundheitsuntersuchungs-Richtlinie sind auch Aufwendungen für eine Früherkennung einer Hepatitis-B- und Hepatitis-C-Virusinfektion für Personen ab Vollendung des 35. Lebensjahres beihilfefähig. Wiederholte Testungen im Rahmen der Gesundheitsuntersuchungen nach Absatz 1 sind beihilfefähig, wenn dies im Einzelfall erforderlich erscheint (zum Beispiel bei Zugehörigkeit zu einer Risikogruppe).
 
-nach Feststellung eines auffälligen Befundes erfolgen im Rahmen der Krankenbehandlung nach Abschnitt 2.
+
+41.3.5
+
+
+Aufwendungen für ein Screening auf Bauchaortenaneurysmen sind nach Maßgabe der Gesundheitsuntersuchungs-Richtlinie auch für Frauen ab dem Alter von 65 Jahren einmalig beihilfefähig.
 
 
 41.4                     
@@ -8176,12 +8494,22 @@ Universitätsklinikum Frankfurt, Klinik für Frauenheilkunde und Geburtshilfe
 
 –
 
+Universitätsklinikum Freiburg, Institut für Humangenetik
+
+
+–
+
 Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
 
 
 –
 
 Universitätsmedizin Greifswald, Institut für Humangenetik
+
+
+–
+
+Universitätsklinikum Halle, Klinik und Poliklinik für Gynäkologie
 
 
 –
@@ -8211,7 +8539,12 @@ Universitätsklinikum Köln, Zentrum Familiärer Brust- und Eierstockkrebs
 
 –
 
-Universität Leipzig, Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs
+Universitätsklinikum Leipzig, Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs
+
+
+–
+
+Universitätsmedizin Mainz, Zentrum für familiären Brust- und Eierstockkrebs, Institut für Humangenetik und Klinik für Frauengesundheit
 
 
 –
@@ -8221,12 +8554,7 @@ Technische Universität München, Klinikum Rechts der Isar, Zentrum Familiärer 
 
 –
 
-Ludwig-Maximilians-Universität München, Klinik für Frauenheilkunde und Geburtshilfe
-
-
-–
-
-Campus Großhadern
+Ludwig-Maximilians-Universität München, Klinik für Frauenheilkunde und Geburtshilfe – Campus Großhadern
 
 
 –
@@ -8241,7 +8569,12 @@ Universität Regensburg, Institut für Humangenetik
 
 –
 
-Universität Tübingen, Institut für Humangenetik – Universität Ulm, Klinik für Frauenheilkunde und Geburtshilfe
+Universität Tübingen, Institut für Humangenetik
+
+
+–
+
+Universität Ulm, Frauenklinik und Poliklinik
 
 
 –
@@ -8277,7 +8610,7 @@ Zu Absatz 5
 41.5.1                    
 
 
-Ziel des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko ist, Personen mit einem hohen Erkrankungsrisiko für Darmkrebs aufgrund einer genetischen Veränderung in einem für das Lynch-Syndrom verantwortlichen Gen zu identifizieren und dadurch das tatsächliche Erkrankungsrisiko festzustellen. Durch eine frühzeitige Identifizierung der Mutationsträger kann die strukturierte Früherkennung auf die Personen mit einem tatsächlich erhöhten Krebsrisiko beschränkt werden, so dass die Chancen für eine Heilung der Krankheit beziehungsweise eine Verbesserung des Krankheitsverlaufs erhöht werden können.
+Ziel des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko ist, Personen mit einem hohen Erkrankungsrisiko für Darmkrebs aufgrund einer genetischen Veränderung in einem für das Lynch- oder Polyposis-Syndrom verantwortlichen Gen zu identifizieren und dadurch das tatsächliche Erkrankungsrisiko festzustellen. Durch eine frühzeitige Identifizierung der Mutationsträger kann die strukturierte Früherkennung auf die Personen mit einem tatsächlich erhöhten Krebsrisiko beschränkt werden, so dass die Chancen für eine Heilung der Krankheit beziehungsweise eine Verbesserung des Krankheitsverlaufs erhöht werden können.
 
 
 41.5.2
@@ -8313,6 +8646,11 @@ Universitätsklinikum Düsseldorf, Institut für Humangenetik
 –
 
 Universitätsklinikum Halle (Saale), Institut für Humangenetik
+
+
+–
+
+Universitätsklinikum Hamburg-Eppendorf, Universitäres Cancer Center Hamburg
 
 
 –
@@ -8367,50 +8705,11 @@ HELIOS Universitätsklinikum Wuppertal, Universität Witten/Herdecke, Zentrum f�
 
 41.5.3
 
-Für die Einschlusskriterien sind die Revidierten Bethasda-Kriterien zu Grunde zu legen. Danach muss mindestens ein Kriterium erfüllt sein:
-
-
-–
-
-Patient mit kolorektalem Karzinom vor
-
-dem 50. Lebensjahr
-
-
-–
-
-Patient mit synchronen oder metachronen kolorektalen Karzinomen oder anderen HNPCC-assoziierten Tumoren (Tumoren in: Kolorektum, Endometrium,
-
-Magen, Ovarien, Pankreas, Ureter oder Nierenbecken, Gallengang, Dünndarm und Gehirn (meist Glioblastome wie bei Turcot-Syndrom) sowie Talgdrüsenadenome und Keratoakanthome (beim Muir-Torre-Syndrom), unabhängig vom Alter
-
-
-–
-
-Patient mit kolorektalem Karzinom mit MSI-H Histologie (Vorliegen von Tumorinfiltrierenden Lymphozyten, Crohnähnlicher lymphozytärer Reaktion, muzinöser/Siegelring-Differenzierung oder medullärem Wachstumsmuster) vor dem 60. Lebensjahr
-
-
-–
-
-Patient mit kolorektalem Karzinom (unabhängig vom Alter), der einen Verwandten 1. Grades mit einem kolorektalen Karzinom oder einem HNPCC-assoziierten
-
-Tumor vor dem 50. Lebensjahr hat
-
-
-–
-
-Patient mit kolorektalem Karzinom (unabhängig vom Alter), der mindestens zwei Verwandte 1. oder 2. Grades hat, bei denen ein kolorektales Karzinom
-
-oder ein HNPCC-assoziierter Tumor (unabhängig vom Alter) diagnostiziert wurde
-
+Die Prüfung der Einschlusskriterien in das Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko erfolgt durch die Kliniken des Deutschen Konsortiums Familiärer Darmkrebs. Wenn sich in der Beratung nach Anlage 5a Absatz 1 Nummer 1 herausstellt, dass die Einschlusskriterien nicht erfüllt sind, wird die Beratung nach der Gebührenordnung für Ärzte abgerechnet. Diese Aufwendungen sind beihilfefähig.  
 
 41.5.4
 
 Aufwendungen für präventive Operationen sind nicht Gegenstand der beihilfefähigen Pauschalen. Die Beihilfefähigkeit dieser Aufwendungen richtet sich nach Maßgabe des Abschnitts 2.
-
-
-41.5.5
-
-Im Ergebnis werden den Ratsuchenden in der sich der Genanalyse anschließenden interdisziplinären Beratung, die die Fachrichtungen Humangenetik, Gastroenterologische Onkologie, Gynäkologie und Chirurgie umfassen, individuelle Empfehlungen für die Krebsfrüherkennung gegeben. Aufwendungen für die Krebsfrüherkennung aufgrund der individuellen Empfehlungen sind beihilfefähig.
 
 
 41.6
@@ -8517,13 +8816,13 @@ U9
 J1                    
 
 
-12 bis 14 Jahre                    
+13 bis 14 Jahre
 
 
 42.3                    
 
 
-Die Schwerpunkte dieser Untersuchungen sowie die Toleranzgrenzen (Zeitpunkt der Untersuchungen) ergeben sich aus den Richtlinien des Gemeinsamen Bundesausschusses.                    
+Die Schwerpunkte dieser Untersuchungen sowie die Toleranzgrenzen (Zeitpunkt der Untersuchungen) einschließlich einer zulässigen Über- oder Unterschreitung der festgelegten Untersuchungszeiträume und Toleranzzeiten ergeben sich aus den Richtlinien des Gemeinsamen Bundesausschusses. Beihilfefähig sind auch die nach Abschnitt C der Kinder-Richtlinie vorgesehenen speziellen Früherkennungsuntersuchungen (Erweitertes Neugeborenen-Screening, Screening auf Mukoviszidose, Screening auf Hüftgelenksdysplasie und -luxation, Neugeborenen-Hörscreening und Screening auf kritische angeborene Herzfehler mittels Pulsoxymetrie bei Neugeborenen).
 
 
 42.4
@@ -8574,7 +8873,7 @@ beihilfefähige Aufwendungen
 
 42.5
 
-Beihilfefähig sind nach der Kinder-Richtlinie auch Aufwendungen für das Neugeborenen-Screening auf schwere kombinierte Immundefekte (Severe combined Immunodeficiency, SCID).
+Beihilfefähig sind nach der Kinder-Richtlinie auch Aufwendungen für Chromosomenuntersuchungen und andere Gentests im Rahmen des Neugeborenen-Screenings und des Screenings auf Mukoviszidose. Im Rahmen des Erweiterten Neugeborenen-Screenings gilt dies beispielsweise für das Screening auf schwere kombinierte Immundefekte (Severe combined Immunodeficiency, SCID).
 
 
 43                     
@@ -8592,21 +8891,27 @@ Zu Absatz 1
 43.1.1                    
 
 
-Die Beihilfefähigkeit für Aufwendungen für Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten richtet sich nach der Richtlinie des Bundesausschusses der Zahnärzte und Krankenkassen über die Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten (zahnärztliche Früherkennung gemäß § 26 Absatz 1 Satz 2 des               Fünften Buches Sozialgesetzbuch).                                                               
+Die Beihilfefähigkeit für Aufwendungen für Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten richtet sich nach der Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten (zahnärztliche Früherkennung gemäß § 26 Absatz 1 Satz 5 und Absatz 2 Satz 5 des Fünften Buches Sozialgesetzbuch).
 
 43.1.2                    
 
 
-Danach sind drei zahnärztliche Kinder-Früherkennungsuntersuchungen beihilfefähig. Die erste Untersuchung findet grundsätzlich im dritten Lebensjahr statt. Die beiden weiteren Untersuchungen finden bis zur Vollendung des sechsten Lebensjahres statt. Der Abstand zwischen den Zahnuntersuchungen beträgt mindestens zwölf Monate.                    
+Danach sind drei zahnärztliche Kinder-Früherkennungsuntersuchungen im Alter vom 6. bis zum vollendeten 33. Lebensmonat beihilfefähig, von denen jeweils eine im Alter vom 6. bis zum vollendeten 9., vom 10. bis zum vollendeten 20. und vom 21. bis zum vollendeten 33. Lebensmonat erfolgen soll. Der Abstand zwischen zwei Früherkennungsuntersuchungen beträgt mindestens vier Monate. Zusätzlich zu den Früherkennungsuntersuchungen sind im Alter vom 6. bis zum vollendeten 33. Lebensmonat zweimal je Kalenderhalbjahr Aufwendungen für eine Anwendung von Fluoridlack zur Zahnschmelzhärtung beihilfefähig.
 
 
-43.1.3                    
+43.1.3
 
 
-Im Übrigen richtet sich die Beihilfefähigkeit der Aufwendungen für prophylaktische zahnärztliche Leistungen nach Absatz 3.                    
+Drei zahnärztliche Kinder-Früherkennungsuntersuchungen sind ab dem 34. Lebensmonat bis zur Vollendung des 6. Lebensjahres beihilfefähig. Die erste Untersuchung findet grundsätzlich ab dem 34. Lebensmonat statt. Die beiden weiteren Untersuchungen finden bis zur Vollendung des sechsten Lebensjahres statt. Der Abstand zwischen den Zahnuntersuchungen beträgt mindestens zwölf Monate. Zusätzlich zu den Früherkennungsuntersuchungen sind im Alter vom 34. Lebensmonat bis zur Vollendung des 6. Lebensjahres zweimal je Kalenderhalbjahr Aufwendungen für eine Anwendung von Fluoridlack zur Kariesvorbeugung beihilfefähig.
 
 
-43.2                     
+43.1.4
+
+
+Im Übrigen richtet sich die Beihilfefähigkeit der Aufwendungen für prophylaktische zahnärztliche Leistungen nach Absatz 3.
+
+
+43.2
 
 
 Zu Absatz 2                     
@@ -8621,13 +8926,13 @@ Aufwendungen zur Verhütung von Zahnerkrankungen (Individualprophylaxe) sind nac
 43.2.2                    
 
 
-Bei Kindern und Jugendlichen ab sechs Jahren sind bis zum 18. Geburtstag einmal in jedem Kalenderhalbjahr zur Verhütung von Zahn- und Parodontalerkrankungen Kontrolluntersuchungen beihilfefähig.                    
+Bei Kindern und Jugendlichen ab sechs Jahren sind bis zum 18. Geburtstag einmal in jedem Kalenderhalbjahr zur Verhütung von Zahn- und Parodontalerkrankungen Kontrolluntersuchungen beihilfefähig.
 
 
 43.2.3                    
 
 
-Beihilfefähig sind im Rahmen der individualprophylaktischen Maßnahmen die Aufwendungen für die Untersuchung auf Zahn- und Kiefererkrankungen, die Erhebung des Mundhygienestatus, des Zustandes des Zahnfleisches, für Hinweise auf eine zahngesunde Ernährung oder die Behandlung mit lokaler Fluoridierung. Besteht nach einer Bescheinigung des Zahnarztes ein hohes Kariesrisiko, sind die Aufwendungen für die Behandlung mit lokaler Fluoridierung bis zum 18. Geburtstag zweimal je Kalenderhalbjahr beihilfefähig.                    
+Beihilfefähig sind im Rahmen der individualprophylaktischen Maßnahmen die Aufwendungen für die Untersuchung auf Zahn-, Mund- und Kiefererkrankungen, die Erhebung des Mundhygienestatus, des Zustandes des Zahnfleisches, für Hinweise auf eine zahngesunde Ernährung oder die Behandlung mit lokaler Fluoridierung. Besteht nach einer Bescheinigung des Zahnarztes ein hohes Kariesrisiko, sind die Aufwendungen für die Behandlung mit lokaler Fluoridierung bis zum 18. Geburtstag zweimal je Kalenderhalbjahr beihilfefähig.
 
 
 43.2.4                    
@@ -8660,7 +8965,15 @@ Zu Absatz 4
 
 43.4.1
 
-Art und Umfang der beihilfefähigen Aufwendungen im Sinne des Absatzes 4 richten sich nach der Richtlinie des Gemeinsamen Bundesausschusses über Maßnahmen zur Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen (Richtlinie nach § 22a SGB V).  	   
+Art und Umfang der beihilfefähigen Aufwendungen im Sinne des Absatzes 4 richten sich nach der Richtlinie des Gemeinsamen Bundesausschusses über Maßnahmen zur Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen (Richtlinie nach § 22a des Fünften Buches Sozialgesetzbuch).
+
+43.4.2
+
+Absatz 4 umfasst alle Pflegebedürftigen mit einem Pflegegrad. Demzufolge sind auch entsprechende Aufwendungen eines Pflegebedürftigen mit Pflegegrad 1 beihilfefähig.
+
+43.4.3
+
+Die Aufwendungen sind entsprechend der Richtlinie nach § 22a des Fünften Buches Sozialgesetzbuch einmal je Kalenderhalbjahr beihilfefähig.
 
 
 44                     
@@ -8721,23 +9034,13 @@ gegebenenfalls Komplikationen eingetragen.
 44.1.5
 
 
-Aufwendungen für molekulargenetische Tests (zum Beispiel Fruchtwasseruntersuchung, Chorionzottenbiopsie)
-
-zur Bestimmung des Risikos von fetaler Trisomie 21 (Ersttrimesterscreening) sind nur unter den in Abschnitt B der
-
-Mutterschafts-Richtlinien genannten engen Voraussetzungen beihilfefähig. Aufwendungen für einen pränatalen
-
-Bluttest zum nichtinvasiven Nachweis einer Trisomie 21 sind nur beihilfefähig, wenn die Voraussetzungen des
-
-Teils II Nummer 2 der Anlage 1c der Mutterschafts-Richtlinien vorliegen.
+Aufwendungen für molekulargenetische Tests (zum Beispiel Fruchtwasseruntersuchung/Amniozentese, Mutterkuchenpunktion/Chorionzottenbiopsie) zur Bestimmung des Risikos von fetaler Trisomie 21, weiterer Trisomien und anderer Erkrankungen (zum Beispiel Stoffwechselerkrankungen) oder für Untersuchungen an fetaler DNA aus mütterlichem Blut zur Frage des Vorliegens einer Trisomie 13, 18 oder 21 (Nicht-invasiver Pränataltest – NIPT) sind nur unter den in Abschnitt A Nummer 6 oder Abschnitt B der Mutterschafts-Richtlinien genannten engen Voraussetzungen beihilfefähig. Aufwendungen für Nabelschnurpunktion (Chordozentese) sind beihilfefähig, wenn diese aus ärztlicher Sicht notwendig sind. Die Notwendigkeit ist auf der Rechnung des Arztes zu vermerken.
 
 
 44.1.6
 
 
-Nicht beihilfefähig sind aufgrund der Mutterschafts-Richtlinien Aufwendungen für Nabelschnurpunktion (Chordozentese)
-
-oder den sogenannten Triple-Test (MoM-Test).
+Nicht beihilfefähig sind aufgrund der Mutterschafts-Richtlinien Aufwendungen für den sogenannten Triple-Test (MoM-Test) oder das Ersttrimesterscreening (FTS) zum Auffinden eines Down-Syndroms beim ungeborenen Kind.
 
 
 44.1.7
@@ -8764,6 +9067,12 @@ Zusammenhang sind bei Schwangeren auch die Aufwendungen für einen HIV-Test beih
 44.1.9
 
 
+Daneben ergibt sich die Beihilfefähigkeit von Aufwendungen von Frauen in der Schwangerschaft auch aus anderen Vorschriften. Nach der Schutzimpfungs-Richtlinie sind beispielsweise für Frauen in der Schwangerschaft auch Aufwendungen für eine Impfung gegen Pertussis (Keuchhusten) beihilfefähig (hierzu Nummer 40.1.2).
+
+
+44.1.10
+
+
 In den Mutterschafts-Richtlinien ist auch der Anspruch auf Untersuchungen und Beratungen von Wöchnerinnen
 
 geregelt, ebenso die Verordnung von Arznei-, Verbands- und Hilfsmitteln sowie Medizinprodukten und die Ausstellung
@@ -8787,13 +9096,13 @@ Hilfsmittel sowie Medizinprodukte sind daher grundsätzlich beihilfefähig, sowe
 besteht (zum Beispiel nach § 80 Absatz 5 Satz 1 des Sächsischen Beamtengesetzes).
 
 
-44.1.10
+44.1.11
 
 
 Die Beihilfefähigkeit für Aufwendungen von Hebammen oder Entbindungspflegern richtet sich entsprechend Absatz 2 nach den in der Anlage 6 zu § 44 Absatz 2 genannten Beträgen (vergleiche hierzu Nummer 44.2).
 
 
-44.1.11
+44.1.12
 
 
 Nach Satz 1 Nummer 4 sind die Aufwendungen für von Hebammen und Entbindungspflegern geleitete Einrichtungen  (sogenannte Geburtshäuser) bis zur Höhe der nach § 134a Absatz 1 des Fünften Buches Sozialgesetzbuch  abgeschlossenen Verträge beihilfefähig. Hierzu schließt der Spitzenverband Bund der Krankenkassen mit den  Berufsverbänden der Hebammen und Entbindungspflegern und den Verbänden der von Hebammen oder Entbindungspflegern  geleiteten Einrichtungen Verträge über die Versorgung mit Hebammenhilfe und die abrechnungsfähigen  Leistungen unter Einschluss einer Betriebskostenpauschale bei ambulanten Entbindungen in von Hebammen  und Entbindungspflegern geleiteten Einrichtungen und die Anforderungen an die Qualitätssicherung in diesen  Einrichtungen ab. Insoweit bestimmt sich die Beihilfefähigkeit der Aufwendungen nach dem Ergänzungsvertrag  nach § 134a des Fünften Buches Sozialgesetzbuch über Betriebskostenpauschalen bei ambulanten Geburten in  von Hebammen geleiteten Einrichtungen und die Anforderungen an die Qualitätssicherung in diesen Einrichtungen  zwischen den Verbänden der von Hebammen geleiteten Einrichtungen und den Spitzenverbänden der Krankenkassen,  der zum 27. Juni 2008 in Kraft getreten ist.  
@@ -8809,12 +9118,18 @@ Absatz 2 Satz 2 (Ehegatte, eingetragener Lebenspartner, Eltern oder Kinder der b
 44.1.13
 
 
+Wird nach Satz 1 Nummer 5 die Haus- und Wochenpflege der Wöchnerin durch Personen durchgeführt, die mit der Wöchnerin bis zum zweiten Grade verwandt oder verschwägert sind (hierzu Nummer 51.2.4) oder mit ihr in häuslicher Gemeinschaft leben, durchgeführt, sind nur die Fahrtkosten und das nachgewiesene ausgefallene Arbeitseinkommen der die Haus- und Wochenpflege durchführenden Person beihilfefähig (§ 30 Absatz 3).
+
+
+44.1.14
+
+
 Satz 1 Nummer 6 dient der besonderen Klarstellung, dass die Schwangere auch für das Neugeborene Anspruch
 
 auf Unterkunft, Pflege und Verpflegung nach Maßgabe des § 20 hat.
 
 
-44.1.14
+44.1.15
 
 
 Nach Satz 1 Nummer 7 sind Aufwendungen für Bescheinigungen des voraussichtlichen Geburtstermins für den
@@ -8822,7 +9137,7 @@ Nach Satz 1 Nummer 7 sind Aufwendungen für Bescheinigungen des voraussichtliche
 Dienstherrn des Beihilfeberechtigten ebenfalls zum Bemessungssatz beihilfefähig.
 
 
-44.1.15
+44.1.16
 
 
 Nach Satz 3 und 4 werden die Aufwendungen nach Satz 1 immer der Schwangeren, das heißt der Mutter, mit der
@@ -8864,7 +9179,7 @@ Abzugsbeträge nach Maßgabe des § 59 Absatz 1 sind bei angewandten Arzneimitte
 Zu Absatz 3                     
 
 
-44.3.1                    
+44.3.1
 
 
 Die Beihilfefähigkeit von Aufwendungen für die ärztliche Beratung über Fragen der Empfängnisregelung einschließlich hierzu erforderlicher Untersuchungen und die Verordnung von empfängnisregelnden Mitteln richtet sich nach der Richtlinie des Gemeinsamen Bundesausschusses zur Empfängnisregelung und zum Schwangerschaftsabbruch.                    
@@ -8879,7 +9194,7 @@ Die Verordnung von empfängnisregelnden Mitteln (Arzneimittel und Medizinprodukt
 44.3.3                    
 
 
-Die Beihilfefähigkeit der ärztlich verordneten empfängnisregelnden Mittel richtet sich, soweit die Verordnung nicht aus Anlass einer Krankheit erfolgt, ausschließlich nach Satz 2. In diesem Falle sind Aufwendungen nur für von einem Arzt schriftlich verordnete hormonelle Kontrazeptiva (einschließlich Notfallkontrazeptiva) und Intrauterinpessare bei Personen bis zum vollendeten 20. Lebensjahr beihilfefähig.                    
+Die Beihilfefähigkeit der ärztlich verordneten empfängnisregelnden Mittel richtet sich, soweit die Verordnung nicht aus Anlass einer Krankheit erfolgt, ausschließlich nach Satz 2. In diesem Falle sind Aufwendungen nur für von einem Arzt schriftlich verordnete hormonelle Kontrazeptiva (einschließlich Notfallkontrazeptiva) und Intrauterinpessare bei Personen bis zum vollendeten 22. Lebensjahr beihilfefähig.
 
 
 44.3.4                    
@@ -8891,7 +9206,7 @@ Werden die empfängnisregelnden Mittel aus Anlass einer Krankheit verordnet, ric
 44.3.5                    
 
 
-Die beihilfefähigen hormonellen Kontrazeptiva und Intrauterinpessare im Sinne des Satzes 2 können sowohl (empfängnisverhütende) Arzneimittel (vergleiche § 21) als auch Medizinprodukte (vergleiche § 22) sein. Empfängnisverhütendes Arzneimittel ist zum Beispiel die Hormonspirale, die auch als Intrauterinsystem bezeichnet wird. Empfängnisverhütendes Medizinprodukt ist zum Beispiel der Intrauterinpessar (Kupfer beziehungsweise Kupfer-Gold-Spirale), der – anders als die Hormonspirale – kein Arzneimittel ist.                    
+Die beihilfefähigen hormonellen Kontrazeptiva und Intrauterinpessare im Sinne des Satzes 2 können sowohl (empfängnisverhütende) Arzneimittel (vergleiche § 21) als auch Medizinprodukte (vergleiche § 22) sein. Empfängnisverhütendes Arzneimittel ist zum Beispiel die Hormonspirale, die auch als Intrauterinsystem bezeichnet wird. Empfängnisverhütendes Medizinprodukt ist zum Beispiel der Intrauterinpessar (Kupfer beziehungsweise Kupfer-Gold-Spirale), der – anders als die Hormonspirale – kein Arzneimittel ist.
 
 
 44.3.6                    
@@ -8985,7 +9300,7 @@ Bei Frühgeburten bestehen keine Bedenken, wenn der vor der Geburt nicht in Ansp
 44.5.4                    
 
 
-Aufwendungen für die Unterkunft der Schwangeren sind bis zur Höhe von 70 Euro je Übernachtung und für eine Begleitperson bis zur Höhe von 30 Euro je Übernachtung beihilfefähig. Dies gilt jedoch nicht, wenn die Unterkunft im Haushalt von nahen Angehörigen im Sinne des § 5 Absatz 2 Satz 2 (Ehegatte, eingetragener Lebenspartner, Eltern oder Kinder der behandelten Person) erfolgt.                    
+Aufwendungen für die Unterkunft der Schwangeren sind bis zur Höhe von 80 Euro je Übernachtung und für eine Begleitperson bis zur Höhe von 40 Euro je Übernachtung beihilfefähig.
 
 
 44.5.5                    
@@ -8993,7 +9308,7 @@ Aufwendungen für die Unterkunft der Schwangeren sind bis zur Höhe von 70 Euro 
 
 Aufwendungen für die Unterkunft umfassen ausschließlich die Unterkunftskosten. Zusätzliche Kosten (zum Beispiel für Frühstück) sind nicht beihilfefähig. Bei Übernachtungskosten, die die Kosten des Frühstücks pauschal einschließen, ist § 7 Absatz 1 des                         
 
-Sächsischen Reisekostengesetzes entsprechend anzuwenden. Danach sind Übernachtungskosten, die die Kosten des Frühstücks einschließen, vorab um 20 Prozent des bei einer Abwesenheit von 24 Stunden an einem Kalendertag zustehenden Tagegeldes (Stand 1. Januar 2016: 4,80 Euro) zu kürzen.
+Sächsischen Reisekostengesetzes entsprechend anzuwenden. Danach sind Übernachtungskosten, die die Kosten des Frühstücks einschließen, vorab um 20 Prozent des bei einer Abwesenheit von 24 Stunden an einem Kalendertag zustehenden Tagegeldes (Stand 1. Januar 2021: 5,60 Euro) zu kürzen.
 
 
 44.5.6                    
@@ -9109,7 +9424,7 @@ abgestellt werden. Hierbei ist ein strenger Maßstab anzulegen. Auf Nummer 4.3.8
 
 45.1.9
 
-Etwaige Zuwendungen des Freistaates Sachsen aufgrund der RL Familienförderung vom 3. September 2017 (SächsABl. S. 1209), enthalten in der Verwaltungsvorschrift vom 16. November 2017 (SächsABl. SDr. S. S 422), für eine In-Vitro-Fertilisations-Behandlung oder eine Intrazytoplasmatische Spermieninjektions-Behandlung werden gemäß § 6 Absatz 1 auf die beihilfefähigen Aufwendungen angerechnet, soweit der Beihilfeberechtigte oder der berücksichtigungsfähige Ehegatte diese Zuwendung unmittelbar erhalten hat.
+Etwaige Zuwendungen des Freistaates Sachsen aufgrund der RL Familienförderung vom 12. März 2020 (SächsABl. S. 295) für eine In-Vitro-Fertilisations-Behandlung oder eine Intrazytoplasmatische Spermieninjektions-Behandlung werden gemäß § 6 Absatz 1 auf die beihilfefähigen Aufwendungen angerechnet, soweit der Beihilfeberechtigte oder der berücksichtigungsfähige Ehegatte diese Zuwendung unmittelbar erhalten hat.
 
 
 45.1.10
@@ -9124,7 +9439,7 @@ Eine Anerkennung eines Behandlungsplanes vor Beginn der Behandlung durch die Fes
 
 45.1.12
 
-Die dem berücksichtigungsfähigen Ehegatten zuzurechnenden Aufwendungen sind aufgrund von § 5 Absatz 4 Satz 1 nicht beihilfefähig, wenn dieser gesetzlich
+Die dem berücksichtigungsfähigen Ehegatten zuzurechnenden Aufwendungen sind aufgrund von § 5 Absatz 3 Satz 1 nicht beihilfefähig, wenn dieser gesetzlich
 
 krankenversichert ist.
 
@@ -9346,7 +9661,7 @@ Zu Absatz 3
 47.3.1                    
 
 
-Aufwendungen für die Transplantation von Organen und Geweben sind immer dem Empfänger zuzuordnen und unmittelbar nach Abschnitt 2 und 3 beihilfefähig. Absatz 3 umfasst die mittelbaren Folgekosten einer Transplantation, die nicht unmittelbar nach den Abschnitten 2 und 3 beihilfefähig sind. Dies betrifft im Einzelnen Aufwendungen, die für die Vermittlung, Entnahme, Versorgung und den Transport sowie die Organisation für die Bereitstellung des Organs, Gewebes oder der Stammzellen anfallen. Der Begriff Gewebe bestimmt sich nach der Definition des § 1a Nummer 4 des               Transplantationsgesetzes. Demzufolge fallen auch Stammzellen unter den Gewebebegriff.                                                               
+Aufwendungen für die Transplantation von Organen, Geweben und von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen sind immer dem Empfänger zuzuordnen und unmittelbar nach Abschnitt 2 und 3 beihilfefähig. Absatz 3 umfasst die mittelbaren Folgekosten einer Transplantation, die nicht unmittelbar nach den Abschnitten 2 und 3 beihilfefähig sind. Dies betrifft im Einzelnen Aufwendungen, die für die Vermittlung, Entnahme, Versorgung und den Transport sowie die Organisation für die Bereitstellung des Organs, Gewebes oder des Blutes zur Separation von Blutstammzellen oder anderen Blutbestandteilen anfallen. Der Begriff Gewebe bestimmt sich nach der Definition des § 1a Nummer 4 des Transplantationsgesetzes. Demzufolge fallen auch Stammzellen unter den Gewebebegriff.
 
 47.3.2                    
 
@@ -9520,7 +9835,7 @@ Der landwirtschaftlichen Krankenkasse des Spenders wird auf Antrag die nach § 9
 47.4.7                    
 
 
-Abzugrenzen vom Vorgang der Spende sind Folgeerkrankungen, die in einem zeitlichen Abstand zur Spende eintreten. In diesem Falle ist grundsätzlich die Krankenkasse beziehungsweise Krankenversicherung der Spender für die Behandlung von Folgeerkrankungen zuständig (vergleiche auch § 27 Absatz 1a Satz 4 des               Fünften Buches Sozialgesetzbuch). Folglich sind Aufwendungen für Folgeerkrankungen des Spenders grundsätzlich nicht beihilfefähig, wenn dieser nicht Beihilfeberechtigter oder berücksichtigungsfähiger Angehöriger ist (zum Beispiel nach Lebendspende einer Niere Ausfall der zweiten Niere).                                                               
+Abzugrenzen vom Vorgang der Spende sind Folgeerkrankungen, die in einem zeitlichen Abstand zur Spende eintreten. In diesem Falle ist grundsätzlich die Krankenkasse beziehungsweise Krankenversicherung der Spender für die Behandlung von Folgeerkrankungen zuständig (vergleiche auch § 27 Absatz 1a Satz 7 des               Fünften Buches Sozialgesetzbuch). Folglich sind Aufwendungen für Folgeerkrankungen des Spenders grundsätzlich nicht beihilfefähig, wenn dieser nicht Beihilfeberechtigter oder berücksichtigungsfähiger Angehöriger ist (zum Beispiel nach Lebendspende einer Niere Ausfall der zweiten Niere).                                          
 
 47.4.8                    
 
@@ -9575,7 +9890,7 @@ Die Beihilfefähigkeit umfasst die bei einer häuslichen, teilstationären und (
 48.1.3
 
 
-Aufgrund der engen Anlehnung der beihilferechtlichen Regelungen bei dauernder Pflegebedürftigkeit an die entsprechenden Bestimmungen des Elften Buches Sozialgesetzbuch können in Zweifelsfällen ergänzend die Gemeinsamen Rundschreiben der Spitzenverbände herangezogen werden (unter anderem Gemeinsames Rundschreiben zu den leistungsrechtlichen Vorschriften des Elften Buches Sozialgesetzbuch vom 22. Dezember 2016), die auf der Homepage der gesetzlichen Krankenversicherung (www.gkv-spitzenverband.de) verfügbar sind.
+Aufgrund der engen Anlehnung der beihilferechtlichen Regelungen bei dauernder Pflegebedürftigkeit an die entsprechenden Bestimmungen des Elften Buches Sozialgesetzbuch können in Zweifelsfällen ergänzend die Gemeinsamen Rundschreiben der Spitzenverbände herangezogen werden (unter anderem Gemeinsames Rundschreiben zu den leistungsrechtlichen Vorschriften des Elften Buches Sozialgesetzbuch vom 21. April 2020), die auf der Homepage der gesetzlichen Krankenversicherung (www.gkv-spitzenverband.de) verfügbar sind.
 
 
 48.1.4
@@ -9943,7 +10258,7 @@ Bei Pflegebedürftigen, die in vollstationären Pflegeeinrichtungen leben und hi
 
 49.1.12
 
-Bei Pflegebedürftigen in vollstationären Einrichtungen der Hilfe für behinderte Menschen (Internatsunterbringung), für die Beihilfe nach § 56 gewährt wird, kann für die Zeit der Pflege im häuslichen Bereich (zum Beispiel an Wochenenden oder in Ferienzeiten) Beihilfe nach Absatz 1 für die tatsächlichen Pflegetage in der Familie gewährt werden. Dabei ist der Anspruch auf den sich aus den § 36 Absatz 3 des Elften Buches Sozialgesetzbuch ergebenden Höchstbetrag begrenzt. Insoweit sind die beihilfefähigen Aufwendungen nach Absatz 1 auf die Differenz zwischen dem sich aus den § 36 Absatz 3 des Elften Buches Sozialgesetzbuch ergebenden Höchstbetrag und den Leistungen der Beihilfe nach § 56 begrenzt.  
+Bei Pflegebedürftigen in vollstationären Einrichtungen im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch, in der die Teilhabe am Arbeitsleben, an Bildung oder die soziale Teilhabe, die schulische Ausbildung oder die Erziehung von Menschen mit Behinderungen im Vordergrund des Einrichtungszwecks stehen (zum Beispiel Internatsunterbringung) oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch, für die Beihilfe nach § 56 gewährt wird, kann für die Zeit der Pflege im häuslichen Bereich (zum Beispiel an Wochenenden oder in Ferienzeiten) Beihilfe nach Absatz 1 für die tatsächlichen Pflegetage in der Familie gewährt werden. Dabei ist der Anspruch auf den sich aus den § 36 Absatz 3 des Elften Buches Sozialgesetzbuch ergebenden Höchstbetrag begrenzt. Insoweit sind die beihilfefähigen Aufwendungen nach Absatz 1 auf die Differenz zwischen dem sich aus den § 36 Absatz 3 des Elften Buches Sozialgesetzbuch ergebenden Höchstbetrag und den Leistungen der Beihilfe nach § 56 begrenzt.  
 
 49.2
 
@@ -9976,7 +10291,7 @@ Zeiten einer vollstationären Krankenhausbehandlung nach § 20, einer stationär
 
 49.2.6
 
-Tritt ein Tatbestand (zum Beispiel vollstationäre Krankenhausbehandlung nach § 20) zu einem anderen (zum Beispiel stationäre Rehabilitation nach § 37) hinzu oder schließt er sich an, hat das zur Folge, dass die „Günstigkeitsregelung“ (§ 34 Absatz 2 Satz 2 des Elften Buches Sozialgesetzbuch) nur einmal Anwendung findet. Eine Kürzung der Pauschalbeihilfe erfolgt daher ab dem 29. Tag der einheitlich zu wertenden Unterbrechungstatbestände. Hingegen ist von zwei Tatbeständen auszugehen, wenn beispielsweise nach einer vollstationären Krankenhausbehandlung nach § 20 eine stationäre Rehabilitation nach § 37 durchgeführt wird und diese sich nicht direkt an die vollstationäre Krankenhausbehandlung anschließt.  
+Tritt ein Tatbestand (zum Beispiel vollstationäre Krankenhausbehandlung nach § 20) zu einem anderen (zum Beispiel stationäre Rehabilitation nach § 37) hinzu oder schließt er sich an, hat das zur Folge, dass die Regelung des § 34 Absatz 2 Satz 2 des Elften Buches Sozialgesetzbuch nur einmal Anwendung findet. Eine Kürzung der Pauschalbeihilfe erfolgt daher ab dem 29. Tag der einheitlich zu wertenden Unterbrechungstatbestände. Hingegen ist von zwei Tatbeständen auszugehen, wenn beispielsweise nach einer vollstationären Krankenhausbehandlung nach § 20 eine stationäre Rehabilitation nach § 37 durchgeführt wird und diese sich nicht direkt an die vollstationäre Krankenhausbehandlung anschließt.  
 
 49.2.7
 
@@ -10499,8 +10814,7 @@ Ist in der Pflegeversicherung die Inanspruchnahme von Leistungen nach § 38 des 
 
 49.3.5
 
-Pflegebedürftige in vollstationären Einrichtungen der Hilfe für behinderte Menschen (§ 56) haben Anspruch auf ungekürzte Pauschalbeihilfe anteilig für die Tage, in denen sie sich in häuslicher Pflege befinden. Demnach ist für jeden Tag der häuslichen Pflege zusätzlich zur Leistung nach § 56 1/30 der Pauschalbeihilfe zu gewähren. Bei einem vollen Monat wird die gesamte Pauschalbeihilfe gewährt.
-
+Pflegebedürftige in vollstationären Einrichtungen im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch, in der die Teilhabe am Arbeitsleben, an Bildung oder die soziale Teilhabe, die schulische Ausbildung oder die Erziehung von Menschen mit Behinderungen im Vordergrund des Einrichtungszwecks stehen (zum Beispiel Internatsunterbringung) oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch (§ 56) haben Anspruch auf ungekürzte Pauschalbeihilfe anteilig für die Tage, in denen sie sich in häuslicher Pflege befinden. Demnach ist für jeden Tag der häuslichen Pflege zusätzlich zur Leistung nach § 56 1/30 der Pauschalbeihilfe zu gewähren. Bei einem vollen Monat wird die gesamte Pauschalbeihilfe gewährt. Sie können die Leistungen nach Absatz 1 und 2 auch mit Leistungen nach § 56 kombinieren.  
 
 49.3.6
 
@@ -11179,27 +11493,27 @@ Für Personen, die nach § 28 Absatz 2 des Elften Buches Sozialgesetzbuch Leistu
 
 49.5.3
 
-Ab 1. Januar 2018 sind auf Grundlage des um 20 Prozent erhöhten Entgeltes des in Anlage C zum Tarifvertrag für den öffentlichen Dienst der Länder ausgewiesenen Entgeltes für eine Pflegekraft der Entgeltgruppe KR 7a Stufe 5 Aufwendungen bis zu folgenden Höchstbeträgen beihilfefähig:
+Ab 1. Januar 2021 sind auf Grundlage des um 20 Prozent erhöhten Entgeltes des in Anlage C zum Tarifvertrag für den öffentlichen Dienst der Länder ausgewiesenen Entgeltes für eine Pflegekraft der Entgeltgruppe KR 7 Stufe 5 Aufwendungen bis zu folgenden Höchstbeträgen beihilfefähig:
 
 
 Pflegegrad 2:
 
-960,70 Euro
+1 052,27 Euro
 
 
 Pflegegrad 3:
 
-1 921,39 Euro
+2 104,54 Euro
 
 
 Pflegegrad 4:
 
-2 882,09 Euro
+3 156,81 Euro
 
 
 Pflegegrad 5:
 
-3 842,78 Euro
+4 209,08 Euro
 
 
 Künftige Tariferhöhungen sind zu beachten.
@@ -11207,7 +11521,7 @@ Künftige Tariferhöhungen sind zu beachten.
 
 49.5.4
 
-Beispiele (jeweils zum Stand 1. Januar 2018):
+Beispiele (jeweils zum Stand 1. Januar 2021):
 
 
 49.5.4.1
@@ -11266,7 +11580,7 @@ Beispielberechnungen
 
 | Aufwendungen für die Berufspflegekraft laut Rechnung,
 
-Höchstgrenze nach Absatz 5 (1 921,39 Euro) wird nicht überschritten
+Höchstgrenze nach Absatz 5 (2 104,54 Euro) wird nicht überschritten
 
 | 1 500,00 Euro
 
@@ -11361,7 +11675,7 @@ Beispielberechnungen
 
 | Aufwendungen für die Berufspflegekraft laut Rechnung,
 
-Höchstgrenze nach Absatz 5 (2 882,09 Euro) wird nicht überschritten
+Höchstgrenze nach Absatz 5 (3 156,81 Euro) wird nicht überschritten
 
 | 2 000,00 Euro
 
@@ -11413,7 +11727,7 @@ Beihilfe wird zu Aufwendungen für Beratungsbesuche gewährt, wenn die Pflegever
 
 49.6.2
 
-Beihilfefähig ist in den Pflegegraden 1 bis 3 einmal halbjährlich, in den Pflegegraden 4 und 5 einmal vierteljährlich eine Beratung des Pflegebedürftigen. Beihilfefähig ist der sich aus § 37 Absatz 3 des Elften Buches Sozialgesetzbuch ergebende Betrag. Für die jeweilige beratende Stelle sind die Vergütungssätze von 23 beziehungsweise 33 Euro nach § 37 Absatz 3 Satz 5 in der am 31. Dezember 2018 geltenden Fassung so lange beihilfefähig, bis die Vergütung für Beratungseinsätze erstmals für die jeweilige beratende Stelle vereinbart oder durch die Landesverbände der Pflegekassen festgelegt wird (§ 146 des Elften Buches Sozialgesetzbuch).  
+Beihilfefähig ist in den Pflegegraden 1 bis 3 einmal halbjährlich, in den Pflegegraden 4 und 5 einmal vierteljährlich eine Beratung des Pflegebedürftigen. Beihilfefähig ist der sich aus § 37 Absatz 3 des Elften Buches Sozialgesetzbuch ergebende Betrag. Für die jeweilige beratende Stelle sind die Vergütungssätze von 23 beziehungsweise 33 Euro nach § 37 Absatz 3 Satz 5 in der am 31. Dezember 2018 geltenden Fassung so lange beihilfefähig, bis die Vergütung für Beratungseinsätze erstmals für die jeweilige beratende Stelle vereinbart oder durch die Landesverbände der Pflegekassen festgelegt wird (§ 146 des Elften Buches Sozialgesetzbuch). Liegen entsprechende Vereinbarungen vor, sind die jeweils mit der beratenden Stelle vereinbarten Beträge beihilfefähig. Die Vorlage der Vereinbarung ist in der Regel nicht erforderlich und sollte auf Ausnahmefälle beschränkt bleiben (zum Beispiel bei besonders hohen entstandenen Aufwendungen für den Beratungsbesuch). 
 
 49.6.3
 
@@ -11461,12 +11775,26 @@ Scheidet ein Bewohner dauerhaft (zum Beispiel durch Auszug oder Tod) aus der Woh
 
 49a.1.5
 
-Zweck der Wohngruppe muss die gemeinschaftlich organisierte pflegerische Versorgung sein. Dazu ist es erforderlich, dass die Bewohner der Wohngruppe eine Person zur Aufgabenerbringung gemeinschaftlich beauftragt haben, die unabhängig von der individuellen pflegerischen Versorgung auf einer gesondert erkennbaren vertraglichen Grundlage mit den Bewohnern der Wohngruppe tätig ist. Diese allgemein organisatorischen, verwaltenden, betreuenden oder das Gemeinschaftsleben fördernden Tätigkeiten oder hauswirtschaftlichen Unterstützungen müssen über die in der häuslichen Pflege üblichen Leistungen hinaus erbracht werden. Für die Erbringung von hauswirtschaftlicher Unterstützung ist die Einbeziehung des Pflegebedürftigen erforderlich. Eine solche Unterstützung liegt zum Beispiel beim gemeinschaftlichen Kochen vor. Keine hauswirtschaftliche Unterstützung liegt vor, wenn die beauftragte Person die hauswirtschaftliche Tätigkeit selbst vollständig übernimmt, ohne dabei die Bewohner der Wohngruppe einzubeziehen. Unterstützung ist vielmehr die teilweise Übernahme, aber auch die Beaufsichtigung der Ausführung von Verrichtungen oder die Anleitung zur Selbstvornahme.
+Zweck der Wohngruppe muss die gemeinschaftlich organisierte pflegerische Versorgung sein.
+
+Dazu ist es erforderlich, dass die Bewohner der Wohngruppe eine Person zur Aufgabenerbringung gemeinschaftlich beauftragt haben, die unabhängig von der individuellen pflegerischen Versorgung auf einer gesondert erkennbaren vertraglichen Grundlage mit den Bewohnern der Wohngruppe tätig ist.
+
+
+Diese allgemein organisatorischen, verwaltenden, betreuenden oder das Gemeinschaftsleben fördernden Tätigkeiten oder die Wohngruppenmitglieder bei der Haushaltsführung unterstützenden Tätigkeiten (hauswirtschaftliche Unterstützung) müssen über die in der häuslichen Pflege üblichen Leistungen hinaus erbracht werden.
+
+
+Für die Erbringung von hauswirtschaftlicher Unterstützung ist die Einbeziehung des Pflegebedürftigen erforderlich.
+
+Eine solche Unterstützung liegt zum Beispiel beim gemeinschaftlichen Kochen vor.
+
+Keine hauswirtschaftliche Unterstützung liegt vor, wenn die beauftragte Person die hauswirtschaftliche Tätigkeit selbst vollständig übernimmt, ohne dabei die Bewohner der Wohngruppe einzubeziehen.
+
+Unterstützung ist vielmehr die teilweise Übernahme, aber auch die Beaufsichtigung der Ausführung von Verrichtungen oder die Anleitung zur Selbstvornahme.
 
 
 49a.1.6
 
-Mindestens drei Bewohner der Wohngruppe müssen darüber hinaus Beihilfeleistungen nach § 49 Absatz 1 bis 3 (häusliche Pflegehilfe durch geeignete Pflegekräfte, Pauschalbeihilfe beziehungsweise Kombinationspflege) oder § 53 (Angebote zur Unterstützung im Alltag, Entlastungsbetrag) beziehen. Die Anspruchsvoraussetzungen sind auch erfüllt, wenn nicht beihilfeberechtigte Pflegebedürftige entsprechende Leistungen nach dem Elften Buch Sozialgesetzbuch beziehen. Dies sind ambulante Sachleistungen nach § 36 des Elften Buches Sozialgesetzbuch (§ 49 Absatz 1), Pflegegeld nach § 37 des Elften Buches Sozialgesetzbuch (Pauschalbeihilfe nach § 49 Absatz 2), Kombinationspflege nach § 38 des Elften Buches Sozialgesetzbuch (§ 49 Absatz 3), Angebote zur Unterstützung im Alltag nach § 45a des Elften Buches Sozialgesetzbuch (§ 53 Absatz 1) oder der Entlastungsbetrag nach § 45b des Elften Buches Sozialgesetzbuch (§ 53 Absatz 2). Die Beihilfefähigkeit des pauschalen Zuschlages ist auch dann gegeben, wenn für pflegebedürftige Bewohner die Leistungen nach § 34 Absatz 1 Nummer 2 des Elften Buches Sozialgesetzbuch ruhen. Der Bezug von Leistungen für vollstationäre Pflege nach § 43 des Elften Buches Sozialgesetzbuch (§ 55) oder Pflege in vollstationären Einrichtungen der Hilfe für behinderte Menschen nach § 43a des Elften Buches Sozialgesetzbuch (§ 56) schließt die ambulante Betreuung aus.  
+Mindestens drei Bewohner der Wohngruppe müssen darüber hinaus Beihilfeleistungen nach § 49 Absatz 1 bis 3 (häusliche Pflegehilfe durch geeignete Pflegekräfte, Pauschalbeihilfe beziehungsweise Kombinationspflege) oder § 53 (Angebote zur Unterstützung im Alltag, Entlastungsbetrag) beziehen.  Die Anspruchsvoraussetzungen sind auch erfüllt, wenn nicht beihilfeberechtigte Pflegebedürftige entsprechende Leistungen nach dem Elften Buch Sozialgesetzbuch beziehen.  Dies sind ambulante Sachleistungen nach § 36 des Elften Buches Sozialgesetzbuch (§ 49 Absatz 1), Pflegegeld nach § 37 des Elften Buches Sozialgesetzbuch (Pauschalbeihilfe nach § 49 Absatz 2), Kombinationspflege nach § 38 des Elften Buches Sozialgesetzbuch (§ 49 Absatz 3), Angebote zur Unterstützung im Alltag nach § 45a des Elften Buches Sozialgesetzbuch (§ 53 Absatz 1) oder der Entlastungsbetrag nach § 45b des Elften Buches Sozialgesetzbuch (§ 53 Absatz 2).  Die Beihilfefähigkeit des pauschalen Zuschlages ist auch dann gegeben, wenn für pflegebedürftige Bewohner die Leistungen nach § 34 Absatz 1 Nummer 2 des Elften Buches Sozialgesetzbuch ruhen.  Der Bezug von Leistungen für vollstationäre Pflege nach § 43 des Elften Buches Sozialgesetzbuch (§ 55) oder Pflege in vollstationären Einrichtungen im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 43a des Elften Buches Sozialgesetzbuch (§ 56) schließt die ambulante Betreuung aus.
 
 49a.1.7
 
@@ -11504,7 +11832,7 @@ Zur Förderung der Gründung von ambulant betreuten Wohngruppen (vergleiche § 3
 
 49a.2.2
 
-Der Anspruch nach § 45e des Elften Buches Sozialgesetzbuch endet mit Ablauf des Monats, in dem das Bundesversicherungsamt den Pflegekassen und dem Verband der privaten Krankenversicherung e. V. mitteilt, dass mit der Förderung eine Gesamthöhe von 30 Millionen Euro erreicht worden ist. Eine über diesen Zeitpunkt hinausgehende Beihilfegewährung wird insoweit ausgeschlossen, als die Zahlung des Zuschusses von der Leistung der Pflegeversicherung abhängig ist und die Pflegeversicherung ab diesem Zeitpunkt ebenfalls keine entsprechenden Leistungen mehr gewährt.  
+Der Anspruch nach § 45e des Elften Buches Sozialgesetzbuch endet mit Ablauf des Monats, in dem das Bundesamt für Soziale Sicherung den Pflegekassen und dem Verband der privaten Krankenversicherung e. V. mitteilt, dass mit der Förderung eine Gesamthöhe von 30 Millionen Euro erreicht worden ist. Eine über diesen Zeitpunkt hinausgehende Beihilfegewährung wird insoweit ausgeschlossen, als die Zahlung des Zuschusses von der Leistung der Pflegeversicherung abhängig ist und die Pflegeversicherung ab diesem Zeitpunkt ebenfalls keine entsprechenden Leistungen mehr gewährt.  
 
 49a.2.3
 
@@ -11616,15 +11944,15 @@ Die Höhe der Zuschüsse richtet sich nach der Höhe der Mindestbeiträge, die v
 
 49b.1.1.3
 
-Die Mindestbeitragsbemessungsgrundlage beträgt mindestens den neunzigsten Teil der monatlichen Bezugsgröße für den Kalendertag beziehungsweise 1/3 der monatlichen Bezugsgröße (§ 240 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch in Verbindung mit § 18 des Vierten Buches Sozialgesetzbuch), die sich nach der jeweils geltenden Verordnung über maßgebende Rechengrößen der Sozialversicherung richtet.  Nach der Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2019 beträgt die monatliche Bezugsgröße im Kalenderjahr 2019 3 115 Euro (West) beziehungsweise  2 870 Euro (Ost). Die Mindestbeitragsbemessungsgrundlage beträgt damit im Jahr 2019 monatlich 1 038,33 Euro (West) beziehungsweise 956,67 Euro (Ost).  Für die Ermittlung der beitragspflichtigen Einnahmen je Kalendertag ist die monatliche Beitragsbemessungsgrundlage durch 30 zu teilen.  
+Die Mindestbeitragsbemessungsgrundlage beträgt mindestens den neunzigsten Teil der monatlichen Bezugsgröße für den Kalendertag beziehungsweise 1/3 der monatlichen Bezugsgröße (§ 240 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch in Verbindung mit § 18 des Vierten Buches Sozialgesetzbuch), die sich nach der jeweils geltenden Verordnung über maßgebende Rechengrößen der Sozialversicherung richtet.  Nach der Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2021 beträgt die monatliche Bezugsgröße im Kalenderjahr 2021 3 290 Euro (West) beziehungsweise 3 115 Euro (Ost).  Die Mindestbeitragsbemessungsgrundlage beträgt damit im Jahr 2021 monatlich 1 096,67 Euro (West) beziehungsweise 1 038,33 Euro (Ost).  Für die Ermittlung der beitragspflichtigen Einnahmen je Kalendertag ist die monatliche Beitragsbemessungsgrundlage durch 30 zu teilen.  
 
 49b.1.1.4
 
-Für die Zuschussbemessung für die Krankenversicherung sind der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2019: 14,6 Prozent) sowie der kassenindividuelle Zusatzbeitragssatz nach § 242 Absatz 1 des Fünften Buches Sozialgesetzbuch zu Grunde zu legen.  Bei Mitgliedern der landwirtschaftlichen Krankenversicherung sowie bei Personen, die nicht in der gesetzlichen Krankenversicherung versichert sind, tritt an die Stelle des kassenindividuellen Zusatzbeitragssatzes der durchschnittliche Zusatzbeitragssatz nach § 242a des Fünften Buches (Stand 1. Januar 2019: 0,9 Prozent).  Unter Zugrundelegung des durchschnittlichen Zusatzbeitragssatzes beträgt der Beitragszuschuss zur Krankenversicherung daher im Kalenderjahr 2019 monatlich höchstens 160,94 Euro (West) beziehungsweise 148,28 Euro (Ost).  Bei Mitgliedern der gesetzlichen Krankenversicherung ergeben sich durch die Zugrundelegung des kassenindividuellen Zusatzbeitragssatzes abweichende Beträge.  
+Für die Zuschussbemessung für die Krankenversicherung sind der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2021: 14,6 Prozent) sowie der kassenindividuelle Zusatzbeitragssatz nach § 242 Absatz 1 des Fünften Buches Sozialgesetzbuch zu Grunde zu legen. Bei Mitgliedern der landwirtschaftlichen Krankenversicherung sowie bei Personen, die nicht in der gesetzlichen Krankenversicherung versichert sind, tritt an die Stelle des kassenindividuellen Zusatzbeitragssatzes der durchschnittliche Zusatzbeitragssatz nach § 242a des Fünften Buches (Stand 1. Januar 2021: 1,3 Prozent). Unter Zugrundelegung des durchschnittlichen Zusatzbeitragssatzes beträgt der Beitragszuschuss zur Krankenversicherung daher im Kalenderjahr 2021 monatlich höchstens 174,37 Euro (West) beziehungsweise 165,09 Euro (Ost). Bei Mitgliedern der gesetzlichen Krankenversicherung ergeben sich durch die Zugrundelegung des kassenindividuellen Zusatzbeitragssatzes abweichende Beträge.  
 
 49b.1.1.5
 
-Die Höhe des Zuschusses für die Pflegeversicherung wird unter Zugrundelegung des Beitragssatzes nach § 55 des Elften Buches Sozialgesetzbuch (Stand 1. Januar 2019: 3,05 Prozent; gegebenenfalls bei Versicherten in der sozialen Pflegeversicherung zuzüglich des Zuschlags für Kinderlose von 0,25 Prozent) auf die Mindestbeitragsbemessungsgrundlage ermittelt (2019 monatlich höchstens 31,67 Euro und 34,26 Euro [West] beziehungsweise 29,18 Euro und 31,57 Euro [Ost]).    
+Die Höhe des Zuschusses für die Pflegeversicherung wird unter Zugrundelegung des Beitragssatzes nach § 55 des Elften Buches Sozialgesetzbuch (Stand 1. Januar 2021: 3,05 Prozent; gegebenenfalls bei Versicherten in der sozialen Pflegeversicherung zuzüglich des Zuschlags für Kinderlose von 0,25 Prozent) auf die Mindestbeitragsbemessungsgrundlage ermittelt (2021 monatlich höchstens 33,45 Euro und 36,19 Euro [West] beziehungsweise 31,67 Euro und 34,26 Euro [Ost]).
 
 49b.1.1.6
 
@@ -11643,7 +11971,16 @@ Pflegeunterstützungsgeld
 
 49b.1.2.1
 
-Die Höhe des Pflegeunterstützungsgeldes beträgt grundsätzlich 90 Prozent des tatsächlich ausgefallenen Nettoarbeitsentgelts aus dem beitragspflichtigen Arbeitsentgelt des Beschäftigten. Bei Bezug von beitragspflichtigem einmalig gezahltem Arbeitsentgelt in den der Freistellung von der Arbeitsleistung vorangegangenen 12 Kalendermonaten beläuft sich das Pflegeunterstützungsgeld auf 100 Prozent des tatsächlich ausgefallenen Nettoarbeitsentgelts. Die Höhe des Pflegeunterstützungsgeldes ist begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung (Stand 1. Januar 2019: 4 537,50 Euro monatlich/151,25 Euro täglich, 70 Prozent hiervon sind 3 176,25 Euro monatlich/105,88 Euro täglich). Das Pflegeunterstützungsgeld wird für Kalendertage gezahlt.
+Die Höhe des Pflegeunterstützungsgeldes beträgt grundsätzlich 90 Prozent des tatsächlich ausgefallenen Nettoarbeitsentgelts aus dem beitragspflichtigen Arbeitsentgelt des Beschäftigten.
+
+
+Bei Bezug von beitragspflichtigem einmalig gezahltem Arbeitsentgelt in den der Freistellung von der Arbeitsleistung vorangegangenen 12 Kalendermonaten beläuft sich das Pflegeunterstützungsgeld auf 100 Prozent des tatsächlich ausgefallenen Nettoarbeitsentgelts.
+
+
+Die Höhe des Pflegeunterstützungsgeldes ist begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung (Stand 1. Januar 2021: 4 837,50 Euro monatlich/161,25 Euro täglich, 70 Prozent hiervon sind 3 386,25 Euro monatlich/112,88 Euro täglich).
+
+
+Das Pflegeunterstützungsgeld wird für Kalendertage gezahlt.
 
 
 49b.1.2.2
@@ -11668,7 +12005,7 @@ Allgemeines zur Arbeitslosen- und Rentenversicherungspflicht der Pflegepersonen 
 
 49b.2.1.1
 
-Die Entscheidung über die Versicherungspflicht einer nicht erwerbsmäßig tätigen Pflegeperson und über die Höhe der zu entrichtenden Beiträge trifft der Versicherungsträger, bei dem die behauptete Versicherungspflicht bestehen würde (BSG, Urteile vom 22. März 2001, B 12 P 3/00 R und vom 23. September 2003, B 12 P 2/02 R). Die Pflegeversicherung ist hierzu nicht berechtigt. Die Pflegeversicherung ist aber verpflichtet, ohne vorherige Entscheidung des Versicherungsträgers Beiträge für Pflegepersonen als Leistungen der sozialen Sicherung zu zahlen. Halten sie ihre Leistungspflicht für gegeben, so haben sie diese ebenso zu erfüllen wie Arbeitgeber, die bei unstreitigem Sachverhalt den Gesamtsozialversicherungsbeitrag ohne vorherige Entscheidung der Einzugsstelle zu zahlen haben. Dies gilt für die Festsetzungsstellen entsprechend; auf § 44 Absatz 5 des Elften Buches Sozialgesetzbuch wird verwiesen.  
+Die Entscheidung über die Versicherungspflicht einer nicht erwerbsmäßig tätigen Pflegeperson und über die Höhe der zu entrichtenden Beiträge trifft der Versicherungsträger, bei dem die behauptete Versicherungspflicht bestehen würde (BSG, Urteile vom 22. März 2001, B 12 P 3/00 R und vom 23. September 2003, B 12 P 2/02 R).    Die Pflegeversicherung ist hierzu nicht berechtigt.    Die Pflegeversicherung ist aber verpflichtet, ohne vorherige Entscheidung des Versicherungsträgers Beiträge für Pflegepersonen als Leistungen der sozialen Sicherung zu zahlen.    Halten sie ihre Leistungspflicht für gegeben, so haben sie diese ebenso zu erfüllen wie Arbeitgeber, die bei unstreitigem Sachverhalt den Gesamtsozialversicherungsbeitrag ohne vorherige Entscheidung der Einzugsstelle zu zahlen haben.  Dies gilt für die Festsetzungsstellen entsprechend; auf § 44 Absatz 5 des Elften Buches Sozialgesetzbuch wird verwiesen.  
 
 49b.2.1.2
 
@@ -12013,7 +12350,7 @@ Unterliegt ein Bezieher von Pflegeunterstützungsgeld aufgrund eines anderen Tat
 
 49b.2.7.5
 
-Für die Bemessung der Beiträge zur Krankenversicherung gilt im Regelfall der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2019: 14,6 Prozent). Hat das Mitglied dagegen vor dem Bezug des Pflegeunterstützungsgeldes keinen Anspruch auf Krankengeld, findet der ermäßigte Beitragssatz nach § 243 des Fünften Buches Sozialgesetzbuch Anwendung (Stand 1. Januar 2019: 14,0 Prozent).  
+Für die Bemessung der Beiträge zur Krankenversicherung gilt im Regelfall der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2021: 14,6 Prozent). Hat das Mitglied dagegen vor dem Bezug des Pflegeunterstützungsgeldes keinen Anspruch auf Krankengeld, findet der ermäßigte Beitragssatz nach § 243 des Fünften Buches Sozialgesetzbuch Anwendung (Stand 1. Januar 2021: 14,0 Prozent).  
 
 49b.2.7.6
 
@@ -12031,7 +12368,7 @@ Nach § 252 Absatz 2a in Verbindung mit Absatz 2 Satz 2 des Fünften Buches Sozi
 
 49b.2.7.9
 
-Bei der Überweisung der Beiträge an die zuständige Krankenkasse sind von der Festsetzungsstelle unter,Verwendungszweck‘
+Bei der Überweisung der Beiträge an die zuständige Krankenkasse sind von der Festsetzungsstelle unter „Verwendungszweck“
 
 folgende Angaben zu machen:
 
@@ -12133,22 +12470,22 @@ Nach § 44a Absatz 4 Satz 5 des Elften Buches Sozialgesetzbuch zahlen die in § 
 
 49b.2.9
 
-Beispiel zur Berechnung des Pflegeunterstützungsgeldes und der hierauf entfallenden Beiträge (Stand: 1. Januar 2019)
+Beispiel zur Berechnung des Pflegeunterstützungsgeldes und der hierauf entfallenden Beiträge (Stand: 1. Januar 2021)
 
 
 Das Beispiel bezieht sich auf eine Kostentragung des Leistungsträgers des Pflegeunterstützungsgeldes zu 100 Prozent und den Rechtskreis Ost. Die errechneten Beiträge sind in der Beihilfe entsprechend des Bemessungssatzes der beihilfeberechtigten oder berücksichtigungsfähigen zu pflegenden Person abzuführen.
 
 
-Eine vollzeitbeschäftigte Person arbeitet regelmäßig fünf Tage in der Woche von Montag bis Freitag. Wegen einer bei ihrem Vater akut aufgetretenen Pflegesituation nach § 2 des Pflegezeitgesetzes lässt sie sich vom 23. Februar bis 2. März (kein Schaltjahr) für insgesamt sechs Arbeitstage (acht Kalendertage) ohne  Fortzahlung des Arbeitsentgelts von der Arbeit freistellen. Aufgrund der Beschäftigung bestand bisher Versicherungspflicht in der Kranken-, Pflege-, Renten- und Arbeitslosenversicherung. ln der Krankenversicherung wurde bisher der allgemeine Beitragssatz zugrunde gelegt. Weitere Beschäftigungen werden nicht ausgeübt; weitere beitragspflichtige Einnahmen werden nicht erzielt. Das ausgefallene Arbeitsentgelt beträgt für den genannten Zeitraum brutto 1 280 Euro und netto 855,56 Euro.  
+Eine vollzeitbeschäftigte Person arbeitet regelmäßig fünf Tage in der Woche von Montag bis Freitag. Wegen einer bei ihrem Vater akut aufgetretenen Pflegesituation nach § 2 des Pflegezeitgesetzes lässt sie sich vom 23. Februar bis 2. März (kein Schaltjahr) für insgesamt sechs Arbeitstage (acht Kalendertage) ohne Fortzahlung des Arbeitsentgelts von der Arbeit freistellen. Aufgrund der Beschäftigung bestand bisher Versicherungspflicht in der Kranken-, Pflege-, Renten- und Arbeitslosenversicherung. ln der Krankenversicherung wurde bisher der allgemeine Beitragssatz zugrunde gelegt. Weitere Beschäftigungen werden nicht ausgeübt; weitere beitragspflichtige Einnahmen werden nicht erzielt. Das ausgefallene Arbeitsentgelt beträgt für den genannten Zeitraum brutto 1 500 Euro und netto 1 200 Euro.
 
 
-Berechnung
+Berechnung:
 
 
 Das Pflegeunterstützungsgeld sowie die hierauf zu entrichtenden Beiträge werden grundsätzlich für den Kalendertag berechnet. Für die Zeit vom 23. Februar bis 2. März sind deshalb 8 Kalendertage anzusetzen.
 
 
-Pflegeunterstützungsgeld
+Beispiel
 
 
 | Anstrich
@@ -12165,45 +12502,43 @@ Pflegeunterstützungsgeld
 
 | –
 
-| Brutto: 1 280 Euro/8 =
+| Brutto: 1 500 Euro/8 =
 
-| 160,00 Euro
+| 187,50 Euro
 
 
 | –
 
 | Netto: 855,56 Euro/8 =
 
-| 106,95 Euro
+| 150,00 Euro
 
 
 | Die kalendertäglichen Beitragsbemessungsgrenzen betragen in der
 
-| 
+
+| –
+
+| Krankenversicherung: 58 050 Euro/360 =
+
+| 161,25 Euro
 
 
 | –
 
-| Krankenversicherung: 54 450 Euro/360 =
+| Renten- und Arbeitslosenversicherung: 80 400 Euro/360 =
 
-| 151,25 Euro
-
-
-| –
-
-| Renten- und Arbeitslosenversicherung: 73 800 Euro/360 =
-
-| 205,00 Euro
+| 223,33 Euro
 
 
 | Für die Beiträge zur Krankenversicherung ist das kalendertägliche ausgefallene Bruttoarbeitsentgelt auf die Beitragsbemessungsgrenze zu kürzen:
 
-| 151,25 Euro
+| 161,25 Euro
 
 
 | Für die Beiträge zur Renten- und Arbeitslosenversicherung ist weiter zu rechnen mit:
 
-| 160,00 Euro
+| 187,50 Euro
 
 
 | Nach Kürzung auf 80 Prozent ergeben sich folgende beitragspflichtige Einnahmen:
@@ -12213,16 +12548,16 @@ Pflegeunterstützungsgeld
 
 | –
 
-| Krankenversicherung: 151,25 Euro x 80 Prozent =
+| Krankenversicherung: 161,25 Euro x 80 Prozent =
 
-| 121,00 Euro
+| 129,00 Euro
 
 
 | –
 
-| Renten- und Arbeitslosenversicherung: 160 Euro x 80 Prozent =
+| Renten- und Arbeitslosenversicherung: 187,50 Euro x 80 Prozent =
 
-| 128,00 Euro
+| 150,00 Euro
 
 
 | Höhe des Pflegeunterstützungsgeldes:
@@ -12232,26 +12567,26 @@ Pflegeunterstützungsgeld
 
 | –
 
-| 90 Prozent des ausgefallenen Nettoarbeitsentgelts: 106,95 Euro x 90 Prozent =
+| 90 Prozent des ausgefallenen Nettoarbeitsentgelts: 150,00 Euro x 90 Prozent =
 
-| 96,26 Euro
+| 135,00 Euro
 
 
 | –
 
-| begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung: 151,25 Euro x 70 Prozent =
+| begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung: 161,25 Euro x 70 Prozent =
 
-| 105,88 Euro
+| 112,88 Euro
 
 
-| Die Höchstgrenze wird nicht überschritten, das Pflegeunterstützungsgeld beträgt daher kalendertäglich
+| Die Höchstgrenze wird überschritten, das Pflegeunterstützungsgeld beträgt daher kalendertäglich
 
-| 96,26 Euro
+| 112,88 Euro
 
 
 | für acht Kalendertage
 
-| 770,08 Euro
+| 903,04 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Krankenversicherung:
@@ -12268,37 +12603,44 @@ Pflegeunterstützungsgeld
 
 | –
 
-| voller allgemeiner Beitrag: 121 Euro x 14,6 Prozent =
+| angenommener kassenindividueller Zusatzbeitragssatz: 1,3 Prozent
 
-| 17,67 Euro
+| 
 
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 96,26 Euro x 7,3 Prozent =
+| voller allgemeiner Beitrag: 129 Euro x 14,6 Prozent =
 
-| 7,03 Euro
+| 18,83 Euro
+
+
+| –
+
+| Beitragsanteil des Leistungsbeziehers: 112,88 Euro x 7,3 Prozent =
+
+| 8,24 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 10,64 Euro
+| 10,59 Euro
 
 
 | –
 
-| Zusatzbeitrag: 121 Euro x 0,8 Prozent =
+| Zusatzbeitrag: 129 Euro x 1,3 Prozent =
 
-| 0,97 Euro
+| 1,68 Euro
 
 
 | –
 
-| Gesamtbeitrag: 17,67 Euro + 0,97 Euro =
+| Gesamtbeitrag: 18,83 Euro + 1,68 Euro =
 
-| 18,64 Euro
+| 20,51 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Rentenversicherung:
@@ -12315,23 +12657,23 @@ Pflegeunterstützungsgeld
 
 | –
 
-| voller Beitrag: 128 Euro x 18,6 Prozent =
+| voller Beitrag: 150,00 Euro x 18,6 Prozent =
 
-| 23,81 Euro
+| 27,90 Euro
 
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 96,26 Euro x 9,3 Prozent =
+| Beitragsanteil des Leistungsbeziehers: 112,88 Euro x 9,3 Prozent =
 
-| 8,95 Euro
+| 10,50 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 14,86 Euro
+| 17,40 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Arbeitslosenversicherung:
@@ -12341,30 +12683,30 @@ Pflegeunterstützungsgeld
 
 | –
 
-| Beitragssatz: 2,5 Prozent
+| Beitragssatz: 2,4 Prozent
 
 | 
 
 
 | –
 
-| voller Beitrag: 128 Euro x 2,5 Prozent =
+| voller Beitrag: 150,00 Euro x 2,4 Prozent =
 
-| 3,20 Euro
+| 3,60 Euro
 
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 96,26 Euro x 1,25 Prozent =
+| Beitragsanteil des Leistungsbeziehers: 112,88 Euro x 1,2 Prozent =
 
-| 1,20 Euro
+| 1,35 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 2,00 Euro
+| 2,25 Euro
 
 
 49b.3
@@ -12425,7 +12767,7 @@ Pflegebedürftige können die Ansprüche auf Tages- und Nachtpflege mit der häu
 
 50.1.8
 
-Beispiel (zum Stand 1. Januar 2018):
+Beispiel (zum Stand 1. Januar 2021):
 
 
 Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 neben der Pflege in einer Tagespflegeeinrichtung (100 Prozent = 1 298 Euro) die Pflege durch Berufspflegekräfte (100 Prozent = 1 298 Euro) in Anspruch. Die Rechnung beträgt für die Tagespflegeeinrichtung 1 800 Euro und für die Pflege durch Berufspflegekräfte 1 400 Euro.
@@ -12524,7 +12866,7 @@ Beispielberechnungen
 
 | Aufwendungen für die Tagespflegeeinrichtung laut Rechnung,
 
-Höchstgrenze nach § 49 Absatz 5 (1 921,39 Euro) wird nicht überschritten
+Höchstgrenze nach § 49 Absatz 5 (2 104,54 Euro) wird nicht überschritten
 
 | 1 800,00 Euro
 
@@ -12556,7 +12898,7 @@ Höchstgrenze nach § 49 Absatz 5 (1 921,39 Euro) wird nicht überschritten
 
 | Aufwendungen für die Berufspflegekraft laut Rechnung,
 
-Höchstgrenze nach § 49 Absatz 5 (1 921,39 Euro) wird nicht überschritten
+Höchstgrenze nach § 49 Absatz 5 (2 104,54 Euro) wird nicht überschritten
 
 | 1 400,00 Euro
 
@@ -12610,7 +12952,7 @@ Zu Absatz 2
 
 50.2.1
 
-Aufwendungen für Tages- und Nachtpflege (teilstationäre Pflege nach § 50) sind neben dem pauschalen Zuschlag nach Absatz 1 nur beihilfefähig, wenn durch eine Prüfung des Medizinischen Dienstes der Krankenversicherung (soziale Pflegeversicherung) oder der MEDICPROOF Gesellschaft für medizinische Gutachten mbH (private Pflegeversicherung) nachgewiesen ist, dass die Pflege in der ambulant betreuten Wohngruppe ohne teilstationäre Pflege nicht in ausreichendem Umfang sichergestellt ist.
+Aufwendungen für Tages- und Nachtpflege (teilstationäre Pflege nach § 50) sind neben dem pauschalen Zuschlag nach § 49a Absatz 1 nur beihilfefähig, wenn durch eine Prüfung des Medizinischen Dienstes der Krankenversicherung (soziale Pflegeversicherung) oder der MEDICPROOF Gesellschaft für medizinische Gutachten mbH (private Pflegeversicherung) nachgewiesen ist, dass die Pflege in der ambulant betreuten Wohngruppe ohne teilstationäre Pflege nicht in ausreichendem Umfang sichergestellt ist.
 
 
 50.2.2
@@ -12724,8 +13066,7 @@ Wird die Verhinderungspflege außerhalb der Häuslichkeit des Pflegebedürftigen
 
 51.1.10
 
-Zum Zusammentreffen von Aufwendungen für Verhinderungspflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung der Hilfe für behinderte Menschen nach § 56 wird auf die Ausführungen unter Nummer 56.4 verwiesen.
-
+Zum Zusammentreffen von Aufwendungen für Verhinderungspflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 56 wird auf die Ausführungen unter Nummer 56.7 verwiesen.  
 
 51.2
 
@@ -12745,8 +13086,7 @@ Wird die Verhinderungspflege durch entfernte Verwandte oder Verschwägerte (ab d
 
 51.2.3
 
-§ 32 Absatz 3 Satz 1 gilt entsprechend (vergleiche Nummern 32.3.1 und 32.3.2).
-
+§ 32 Absatz 3 Satz 1 gilt entsprechend (vergleiche Nummern 32.3.1 und 32.3.2). Hat die Pflegeversicherung bei der Benutzung eines privaten Kraftfahrzeuges in Anlehnung an das Krankenversicherungsrecht (§ 60 Absatz 3 Nummer 4 des Fünften Buches Sozialgesetzbuch) pro gefahrenen Kilometer den nach § 5 Absatz 1 Bundesreisekostengesetz festgesetzten Betrag für die Wegstreckenentschädigung (0,20 Euro) der Abrechnung zu Grunde gelegt, bestehen keine Bedenken, diesen als beihilfefähig anzuerkennen.  
 
 51.2.4
 
@@ -12776,25 +13116,25 @@ Dies gilt nicht, wenn die Ersatzpflege im Zusammenhang mit einer kurzfristigen A
 
 51.2.6
 
-Beispiel (zum Stand 1. Januar 2018):
+Beispiel (zum Stand 1. Januar 2021):
 
 
-Die Verhinderungspflege bei einem Pflegebedürftigen des Pflegegrades 4 wird von dessen nicht mit ihm in häuslicher Gemeinschaft lebenden Sohn vom 20. April bis 10. Mai (21 Kalendertage) durchgeführt. Von der Pflegeperson werden pflegebedingte Aufwendungen in Höhe von 546 Euro, ein Verdienstausfall in Höhe von 1 445 Euro und Fahrtkosten in Höhe von 71,40 Euro (20 km x 0,17 Euro = 3,40 Euro x 21 Tage = 71,40 Euro) nachgewiesen.
+Die Verhinderungspflege bei einem Pflegebedürftigen des Pflegegrades 4 wird von dessen nicht mit ihm in häuslicher Gemeinschaft lebenden Sohn vom 20. April bis 10. Mai (21 Kalendertage) durchgeführt. Von der Pflegeperson werden pflegebedingte Aufwendungen in Höhe von 546 Euro, ein Verdienstausfall in Höhe von 1 445 Euro und Fahrtkosten in Höhe von 84,00 Euro (20 km x 0,20 Euro = 4,00 Euro x 21 Tage = 84,00 Euro) nachgewiesen.
 
 
-Beispielberechnungen
+Beispiel
 
 
 | Spiegelstrich
 
-| was wird berechnet
+| Beschreibung
 
 | Betrag
 
 
 | –
 
-| Beihilfefähigkeit der Verhinderungspflege in Höhe der 1,5-fachen Pauschalbeihilfe (Pflegegeld) des Pflegegrades 4 (728 Euro x 1,5 =) 1 092 Euro x 21 Kalendertage/42
+| Beihilfefähigkeit der Verhinderungspflege, begrenzt auf den eineinhalbfachen Betrag der Pauschalbeihilfe (Pflegegeld) des Pflegegrades 4 (728 Euro x 1,5 =) 1 092 Euro
 
 | 546,00 Euro
 
@@ -12803,7 +13143,7 @@ Beispielberechnungen
 
 | plus Fahrtkosten
 
-| 71,40 Euro
+| 84,00 Euro
 
 
 | –
@@ -12817,13 +13157,13 @@ Beispielberechnungen
 
 | Gesamt
 
-| 2 062,40 Euro
+| 2 075,00 Euro
 
 
-Der Höchstbetrag von 1 612 Euro nach Absatz 1 wird überschritten. Aufgrund der Anwendung des Absatzes 3 kann jedoch eine Erhöhung des beihilfefähigen Höchstbetrages durch nicht in Anspruch genommene Leistungen der Kurzzeitpflege um bis zu 806 Euro erfolgen. Es können damit 2 062,40 Euro als beihilfefähig anerkannt werden.
+Der Höchstbetrag von 1 612 Euro nach Absatz 1 wird überschritten. Aufgrund der Anwendung des Absatzes 3 kann jedoch eine Erhöhung des beihilfefähigen Höchstbetrages durch nicht in Anspruch genommene Leistungen der Kurzzeitpflege um bis zu 806 Euro erfolgen. Es können damit 2 075,00 Euro als beihilfefähig anerkannt werden.
 
 
-Aufwendungen für eine Kurzzeitpflege nach § 52 sind im restlichen Kalenderjahr bis zu 1 161,60 Euro beihilfefähig. Im Falle einer erneuten Verhinderungspflege sind aus nicht verwendeten Mitteln der Kurzzeitpflege Aufwendungen für bis zu 21 Tage bis zu 355,60 Euro beihilfefähig.
+Aufwendungen für eine Kurzzeitpflege nach § 52 sind im restlichen Kalenderjahr bis zu 1 149,00 Euro beihilfefähig. Im Falle einer erneuten Verhinderungspflege sind aus nicht verwendeten Mitteln der Kurzzeitpflege Aufwendungen für bis zu 21 Tage bis zu 343,00 Euro beihilfefähig.
 
 
 51.3
@@ -12912,8 +13252,7 @@ Bei einem Wechsel von einer Kurzzeitpflegeeinrichtung in eine vollstationäre Pf
 
 52.1.10
 
-Zum Zusammentreffen von Aufwendungen für Kurzzeitpflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung der Hilfe für behinderte Menschen nach § 56 wird auf die Ausführungen unter Nummer 56.4 verwiesen.
-
+Zum Zusammentreffen von Aufwendungen für Kurzzeitpflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 56 wird auf die Ausführungen unter Nummer 56.7 verwiesen.  
 
 52.2
 
@@ -12954,6 +13293,10 @@ Ist eine gleichzeitige Unterbringung des Pflegebedürftigen in der Vorsorge- ode
 52.3.5
 
 Neben den Aufwendungen nach Nummer 52.1.3 sind Aufwendungen der zusätzlichen Betreuung und Aktivierung (§ 55 Absatz 2) beihilfefähig. Eine Anrechnung auf den beihilfefähigen Höchstbetrag nach Absatz 1 erfolgt nicht.
+
+52.3.6
+
+Daneben sind Aufwendungen für Vergütungszuschläge für die Unterstützung der Leistungserbringung durch zusätzliches Pflegehilfskraftpersonal nach § 84 Absatz 9 des Elften Buches Sozialgesetzbuch beihilfefähig, da die Pflegebedürftigen mit den Vergütungszuschlägen weder ganz noch teilweise belastet werden dürfen.  
 
 
 53
@@ -13163,7 +13506,7 @@ die häusliche Pflege erheblich erleichtert und damit eine Überforderung der Le
 eine möglichst selbständige Lebensführung des Pflegebedürftigen wiederhergestellt, also die Abhängigkeit von personeller Hilfe verringert wird.
 
 
-Dabei sind die Maßnahmen zur Verbesserung des individuellen Wohnumfeldes nicht nur auf den Ausgleich und die Aufrechterhaltung der Selbständigkeit oder der Beeinträchtigung der Fähigkeiten im Sinne des § 14 des Elften Buches Sozialgesetzbuch beziehungsweise auf die Herbeiführung der Entbehrlichkeit solcher Hilfeleistungen beschränkt. Mögliche Maßnahmen zur Verbesserung des individuellen Wohnumfeldes des Pflegebedürftigen sind in Nummer 8 zu § 40 des Elften Buches Sozialgesetzbuch des Gemeinsamen Rundschreibens des GKV-Spitzenverbandes und der Verbände der Pflegekassen auf Bundesebene zu den leistungsrechtlichen Vorschriften des Elften Buches Sozialgesetzbuch vom 22. Dezember 2016 dargestellt.  
+Dabei sind die Maßnahmen zur Verbesserung des individuellen Wohnumfeldes nicht nur auf den Ausgleich und die Aufrechterhaltung der Selbständigkeit oder der Beeinträchtigung der Fähigkeiten im Sinne des § 14 des Elften Buches Sozialgesetzbuch beziehungsweise auf die Herbeiführung der Entbehrlichkeit solcher Hilfeleistungen beschränkt. Mögliche Maßnahmen zur Verbesserung des individuellen Wohnumfeldes des Pflegebedürftigen sind in Nummer 8 zu § 40 des Elften Buches Sozialgesetzbuch des Gemeinsamen Rundschreibens des GKV-Spitzenverbandes und der Verbände der Pflegekassen auf Bundesebene zu den leistungsrechtlichen Vorschriften des Elften Buches Sozialgesetzbuch vom 21. April 2020 dargestellt.  
 
 54.2.3
 
@@ -13295,12 +13638,16 @@ Zu Absatz 2
 
 55.2.1
 
-Aufwendungen für Vergütungszuschläge sind nach Absatz 2 in Verbindung mit § 43b des Elften Buches Sozialgesetzbuch beihilfefähig. Aufwendungen für Vergütungszuschläge sind in allen stationären Pflegeeinrichtungen, also auch in Einrichtungen der teilstationären Pflege (§ 50 Absatz 1) und Kurzzeitpflegeeinrichtungen (§ 52 Absatz 3), beihilfefähig.  
+Aufwendungen für Vergütungszuschläge sind nach Absatz 2 in Verbindung mit § 43b des Elften Buches Sozialgesetzbuch beihilfefähig. Aufwendungen für Vergütungszuschläge entsprechend § 84 Absatz 8 des Elften Buches Sozialgesetzbuch sind in allen stationären Pflegeeinrichtungen, also auch in Einrichtungen der teilstationären Pflege (§ 50 Absatz 1) und Kurzzeitpflegeeinrichtungen (§ 52 Absatz 3), beihilfefähig.  
 
 55.2.2
 
 Aufwendungen für Vergütungszuschläge sind neben dem Entlastungsbetrag nach § 53 Absatz 2 beihilfefähig. Sie sind auch beihilfefähig bei Aufenthalt in einer Kurzzeitpflegeeinrichtung, wenn hierfür Mittel der Verhinderungspflege nach § 51 in Anspruch genommen werden oder der Aufenthalt durch den Entlastungsbetrag nach § 53 Absatz 2, die Pauschalbeihilfe nach § 49 Absatz 2 oder durch eigene finanzielle Mittel finanziert wird.
 
+
+55.2.3
+
+Daneben sind Aufwendungen für Vergütungszuschläge für die Unterstützung der Leistungserbringung durch zusätzliches Pflegehilfskraftpersonal in vollstationären Pflegeeinrichtungen nach § 84 Absatz 9 des Elften Buches Sozialgesetzbuch beihilfefähig, da die Pflegebedürftigen mit den Vergütungszuschlägen weder ganz noch teilweise belastet werden dürfen.  
 
 55.3
 
@@ -13559,21 +13906,31 @@ Zu § 56 Vollstationäre Einrichtung der Behindertenhilfe
 
 56.1
 
-Beihilfefähig sind 10 Prozent des nach § 75 Absatz 3 des Zwölften Buches Sozialgesetzbuch vereinbarten Heimentgelts, höchstens jedoch 266 Euro monatlich. Wird für die Tage, an denen die pflegebedürftigen behinderten Menschen zu Hause gepflegt und betreut werden, anteilige Pauschalbeihilfe gewährt, gelten die Tage der An- und Abreise als volle Tage der häuslichen Pflege.  
+Beihilfefähig sind pflegebedingte Aufwendungen einschließlich der Aufwendungen für Betreuung und die Aufwendungen für Leistungen der medizinischen Behandlungspflege in vollstationären Einrichtungen im Sinne des § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch. Mit dem Verweis auf § 43a des Elften Buches Sozialgesetzbuch gilt dies auch für Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch.
 
 56.2
 
-Voraussetzung ist, dass der Pflegebedürftige die Voraussetzungen des Pflegegrades 2 erfüllt.
-
+Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch sind dadurch geprägt, dass die Bewohner die Überlassung des Wohnraums sowie die Erbringung von Leistungen der Eingliederungshilfe und gegebenenfalls darüber hinaus erforderliche Leistungen zur Pflege oder Betreuung in einer Weise erhalten, die sich im Rahmen einer Gesamtbetrachtung so darstellt, dass die Versorgung durch Leistungserbringer umfassend organisiert wird und die Mitbestimmungsmöglichkeiten vergleichbar wie in einer stationären Einrichtung eingeschränkt sind.
 
 56.3
 
-Bei zu Hause gepflegten Kindern bis zur Vollendung des 25. Lebensjahres, die ausnahmsweise eine Kurzzeitpflege in geeigneten Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten Einrichtungen erhalten, bestimmt sich die Beihilfefähigkeit der Aufwendungen ausschließlich nach § 52.
-
+Für die Feststellung, ob die Gesamtversorgung der in den Räumlichkeiten wohnenden Menschen mit Behinderungen durch Leistungserbringer regelmäßig einen Umfang erreicht, der weitgehend einer Versorgung in einer vollstationären Einrichtung entspricht (§ 71 Absatz 4 Nummer 3 Buchstabe c des Elften Buches Sozialgesetzbuch), soll die Entscheidung der Pflegeversicherung zu Grunde gelegt werden.
 
 56.4
 
-Ist bei Pflegebedürftigen, die sich während der Woche und an Wochenenden oder in den Ferienzeiten im häuslichen Bereich befinden und die Leistungen nach § 56 und der häuslichen Pflege (§ 49) erhalten, im häuslichen Bereich die Pflege (zum Beispiel an den Wochenenden oder in Ferienzeiten) nicht sichergestellt, kann Beihilfe nach Maßgabe des § 51 oder des § 52 gewährt werden. Eine Anrechnung auf die Beihilfe nach § 56 ist nicht vorzunehmen. Sofern für den Pflegebedürftigen in dieser Zeit, in der keine Pflege im häuslichen Bereich durchgeführt werden kann, die Unterbringung in derselben vollstationären Einrichtung der Hilfe für behinderte Menschen sichergestellt wird, kann eine Beihilfegewährung nach § 51 oder § 52 nicht erfolgen. Die dadurch entstehenden Aufwendungen sind mit § 56 abgegolten.
+Beihilfefähig sind 15 Prozent der nach Teil 2 Kapitel 8 des Neunten Buches Sozialgesetzbuch vereinbarten Vergütung (vergleiche § 125 Absatz 1 Nummer 2 und § 134 Absatz 1 Nummer 2 des Neunten Buches Sozialgesetzbuch), höchstens jedoch 266 Euro monatlich. Wird für die Tage, an denen die pflegebedürftigen behinderten Menschen zu Hause gepflegt und betreut werden, anteilige Pauschalbeihilfe gewährt, gelten die Tage der An- und Abreise als volle Tage der häuslichen Pflege.
+
+56.5
+
+Voraussetzung ist, dass der Pflegebedürftige die Voraussetzungen des Pflegegrades 2 erfüllt.
+
+56.6
+
+Bei zu Hause gepflegten Pflegebedürftigen, die ausnahmsweise eine Kurzzeitpflege in geeigneten Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten Einrichtungen erhalten, bestimmt sich die Beihilfefähigkeit der Aufwendungen ausschließlich nach § 52.
+
+56.7
+
+Ist bei Pflegebedürftigen, die sich während der Woche und an Wochenenden oder in den Ferienzeiten im häuslichen Bereich befinden und die Leistungen nach § 56 und der häuslichen Pflege (§ 49) erhalten, im häuslichen Bereich die Pflege (zum Beispiel an den Wochenenden oder in Ferienzeiten) nicht sichergestellt, kann Beihilfe nach Maßgabe des § 51 oder des § 52 gewährt werden. Eine Anrechnung auf die Beihilfe nach § 56 ist nicht vorzunehmen. Sofern für den Pflegebedürftigen in dieser Zeit, in der keine Pflege im häuslichen Bereich durchgeführt werden kann, die Unterbringung in derselben vollstationären Einrichtung oder Räumlichkeit im Sinne von § 71 Absatz 4 Nummer 1 oder 3 des Elften Buches Sozialgesetzbuch sichergestellt wird, kann eine Beihilfegewährung nach § 51 oder § 52 nicht erfolgen. Die dadurch entstehenden Aufwendungen sind mit § 56 abgegolten.          
 
 
 57
@@ -13591,7 +13948,7 @@ Zu Absatz 1
 57.1.1                    
 
 
-Ändern sich die für den Bemessungssatz maßgeblichen Verhältnisse während einer laufenden Behandlung, so sind die Aufwendungen aufzuteilen. Erfolgt eine pauschale Abrechnung, ist eine tagesanteilige Abrechnung vorzunehmen. Falls seitens der privaten Krankenversicherung eine andere Aufteilung vorgenommen wird, kann diese zu Grunde gelegt werden; § 58 ist zu beachten.                    
+Ändern sich die für den Bemessungssatz maßgeblichen Verhältnisse während einer laufenden Behandlung, so sind die Aufwendungen aufzuteilen. Erfolgt eine pauschale Abrechnung, ist eine tagesanteilige Abrechnung vorzunehmen. Falls seitens der privaten Krankenversicherung eine andere Aufteilung vorgenommen wird, kann diese zu Grunde gelegt werden; § 58 ist zu beachten.
 
 
 57.2
@@ -13702,7 +14059,7 @@ Zu Absatz 7
 57.7.1                    
 
 
-Die besonderen Erstattungsregelungen gelten nur für die in § 5 Absatz 4 ausdrücklich als beihilfefähig bezeichneten Leistungen sowie Leistungen für die dort genannten berücksichtigungsfähigen Kinder. Nicht zu den erstattungsfähigen Aufwendungen gehören Selbstbehalte nach speziellen Tarifen der gesetzlichen Krankenversicherung. Diese Selbstbehalte sind neben den gewährten Zuschüssen anzurechnen.                    
+Die besonderen Erstattungsregelungen gelten nur für die in § 5 Absatz 3 ausdrücklich als beihilfefähig bezeichneten Leistungen sowie Leistungen für die dort genannten berücksichtigungsfähigen Kinder. Nicht zu den erstattungsfähigen Aufwendungen gehören Selbstbehalte nach speziellen Tarifen der gesetzlichen Krankenversicherung. Diese Selbstbehalte sind neben den gewährten Zuschüssen anzurechnen.
 
 
 57.7.2                    
@@ -13800,7 +14157,7 @@ Sächsischen Beamtenversorgungsgesetzes.
 58.1.4                    
 
 
-Übersteigt der Betrag der festgesetzten Beihilfe (§ 1 Absatz 5 Nummer 5) zuzüglich der aus demselben Anlass gewährten Leistungen den Gesamtbetrag der dem Grunde nach beihilfefähigen Aufwendungen, ist die Beihilfe um den übersteigenden Betrag zu kürzen.                    
+Übersteigt der Betrag der festgesetzten Beihilfe (§ 1 Absatz 5 Nummer 5) zuzüglich der aus demselben Anlass gewährten Leistungen (in der Regel Leistungen der ergänzenden privaten Krankenversicherung) den Gesamtbetrag der dem Grunde nach beihilfefähigen Aufwendungen, ist die Beihilfe um den übersteigenden Betrag zu kürzen. Unter gewährten Leistungen sind tatsächlich erhaltene Erstattungen und Sachleistungen (abzüglich vereinbarter Eigenbeteiligungen und Selbstbehalte) zu verstehen. Ein Nachweis über zustehende, aber nicht gewährte Leistungen (zum Beispiel aus einer privaten Krankenversicherung) ist vorzulegen. Der Nachweis kann auch durch die Mitteilung des privaten Krankenversicherungsunternehmens über erhaltene Beitragsrückerstattungen geführt werden. Kann der Nachweis erst zu einem späteren Zeitpunkt erbracht werden, ist die Beihilfe unter dem Vorbehalt der Aufhebung und Rückforderung festzusetzen (hierzu Nummer 4.2.5) und der Nachweis später vorzulegen.
 
 
 58.2                     
@@ -13812,7 +14169,7 @@ Zu Absatz 2
 58.2.1                    
 
 
-Der Nachweis darüber, dass Versicherungsleistungen aufgrund des Versicherungsvertrages nach einem Prozentsatz bemessen sind, soll beim ersten Antrag durch Vorlage des Versicherungsscheines oder einer Bescheinigung der Krankenversicherung erbracht werden. Änderungen der Versicherungsverhältnisse sind bei der nächsten Antragstellung nachzuweisen. Abweichende geringere Erstattungen können im Einzelfall nachgewiesen werden.                    
+Der Nachweis darüber, dass Versicherungsleistungen aufgrund des Versicherungsvertrages nach einem Prozentsatz bemessen sind, soll beim ersten Antrag durch Vorlage des Versicherungsscheines oder einer Bescheinigung der Krankenversicherung erbracht werden. Änderungen der Versicherungsverhältnisse sind bei der nächsten Antragstellung nachzuweisen. Abweichende geringere Erstattungen oder nicht in Anspruch genommene Versicherungsleistungen können im Einzelfall nachgewiesen werden.
 
 
 59                     
@@ -13859,7 +14216,7 @@ Maßgebend für den Abzugsbetrag ist der Apothekenabgabepreis. Dies gilt auch be
 59.1.6                    
 
 
-Die Abzugsbetragsregelung gilt unabhängig vom Bezugsweg auch für Arznei- und Verbandmittel und stoffliche Medizinprodukte aus Versandapotheken. Gewährte Rabatte von Versandapotheken sind, sofern sie nicht bereits im Abgabepreis verrechnet sind, vor Ansatz des Abzugsbetrages vom beihilfefähigen Betrag abzuziehen.                    
+Die Abzugsbetragsregelung gilt unabhängig vom Bezugsweg auch für Arznei- und Verbandmittel und stoffliche Medizinprodukte aus Versandapotheken. Gewährte Sofort-Rabatte von Versandapotheken sind, sofern sie nicht bereits im Abgabepreis verrechnet sind, vor Ansatz des Abzugsbetrages vom beihilfefähigen Betrag abzuziehen. Erhält der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige durch den Erwerb des verordneten Arzneimittels eine Gutschrift für künftige Einkäufe bei der (Versand-)Apotheke, ist diese Gutschrift bei der Beihilfefestsetzung nicht anzurechnen. Der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige hat in diesem Fall für das auf Rezept verordnete Arzneimittel den vollen Preis gezahlt, während der Vorteil sich für ihn erst realisiert, wenn ein weiterer Kauf (in der Regel von nicht verschreibungspflichtigen Produkten) bei der Apotheke erfolgt. Er hat damit Anspruch auf Festsetzung der Beihilfe auf Grundlage der von ihm für das Arzneimittel in voller Höhe gezahlten Aufwendungen (vergleiche BGH, Urteil vom 20. Februar 220, I ZR 5/19).
 
 
 59.1.7                    
@@ -13913,7 +14270,7 @@ Eigenbeteiligungen nach § 59 Absatz 1, die bei Aufwendungen von Spendern nach �
 59.3.2                    
 
 
-Bei der Inanspruchnahme der Wahlleistung nach § 20 Absatz 1 Nummer 4 Buchstabe b oder Absatz 2 Nummer 3 ist die Eigenbeteiligung nur abzuziehen, wenn diese Leistungen nicht vom Versicherungsschutz des Spenders umfasst sind. Dies entspricht § 27 Absatz 1a des                 Fünften Buches Sozialgesetzbuch, wonach der Spender auch Anspruch auf Leistungen hat, die über die Leistungen nach dem Dritten Kapitel des                             Fünften Buches Sozialgesetzbuch hinausgehen, soweit sie vom Versicherungsschutz des Spenders umfasst sind.                                          
+Bei der Inanspruchnahme der Wahlleistung nach § 20 Absatz 1 Nummer 3 Buchstabe b oder Absatz 2 Nummer 3 ist die Eigenbeteiligung nur abzuziehen, wenn diese Leistungen nicht vom Versicherungsschutz des Spenders umfasst sind. Dies entspricht § 27 Absatz 1a des                 Fünften Buches Sozialgesetzbuch, wonach der Spender auch Anspruch auf Leistungen hat, die über die Leistungen nach dem Dritten Kapitel des                             Fünften Buches Sozialgesetzbuch hinausgehen, soweit sie vom Versicherungsschutz des Spenders umfasst sind.                                          
 
 
 60                     
@@ -13961,9 +14318,7 @@ Zu Absatz 3
 60.3.1                    
 
 
-Bei einem Wechsel eines bisher beim Bund oder einem anderen Land Beschäftigten sind die beim bisherigen Dienstherrn im Kalenderjahr angefallenen Selbstbehalte, Kostendämpfungspauschalen oder vergleichbare Eigenbehalte zu berücksichtigen. Wird nach dem Tod des Beihilfeberechtigten die Witwe selbst beihilfeberechtigt,
-
-ist der beim Verstorbenen schon für das Kalenderjahr einbehaltene Selbstbehalt bei der Beihilfefestsetzung für die Witwe entsprechend Satz 1 zu berücksichtigen.
+Eine Reduzierung des Selbstbehaltes kann nur bei einem Wechsel des Dienstherrn innerhalb des Geltungsbereichs des Sächsischen Beamtengesetzes erfolgen. Wird nach dem Tod des Beihilfeberechtigten die Witwe selbst beihilfeberechtigt, ist der beim Verstorbenen schon für das Kalenderjahr einbehaltene Selbstbehalt bei der Beihilfefestsetzung für die Witwe anzurechnen. Bei einem Wechsel eines bisher beim Bund oder einem anderen Land beschäftigten Beamten wird der Selbstbehalt unabhängig davon einbehalten, ob bei dem vorherigen Dienstherrn innerhalb des Kalenderjahres bereits Kostendämpfungspauschalen oder vergleichbare Eigenbehalte angefallen sind.
 
 
 61                     
@@ -14058,7 +14413,7 @@ Zu Absatz 1
 62.1.1
 
 
-Beihilfe ist bei der zuständigen Festsetzungsstelle zu beantragen. Im staatlichen Bereich ist gemäß § 1 Absatz 1 in Verbindung mit § 5 Absatz 1 Nummer 1 der Verordnung der Sächsischen Staatsregierung und der Sächsischen Staatsministerien über Zuständigkeiten für die Festsetzung, Regelung, Anordnung und Abrechnung der Bezüge von Bediensteten und Versorgungsempfängern sowie des Alters- und Hinterbliebenengeldes das Landesamt für Steuern und Finanzen zuständig.
+Beihilfe ist bei der zuständigen Festsetzungsstelle zu beantragen. Im staatlichen Bereich ist gemäß § 1 Absatz 1 in Verbindung mit § 5 Absatz 1 Nummer 1 der Sächsischen Bezügezuständigkeitsverordnung das Landesamt für Steuern und Finanzen zuständig.
 
 
 62.1.2
@@ -14164,6 +14519,12 @@ Bei der Gestaltung des Beihilfebescheides und von gesonderten Vordrucken durch d
 Auf die Rücksendung der Belege kann dann verzichtet werden, wenn diese elektronisch abgespeichert und bei Bedarf (zum Beispiel im Rechtsbehelfsverfahren) reproduzierbar sind. In diesem Fall kann die Festsetzungsstelle die eingereichten Belege vernichten, um Datenschutzbestimmungen zu erfüllen und das Persönlichkeitsrecht des Beamten zu schützen (VG München, Urteil vom 22. September 2016, M 17 K 15.5180).  Arzneimittelbelege, die für die Geltendmachung von Arzneimittelrabatten benötigt werden, werden einbehalten, bis sie für eine Prüfung durch Treuhänder gemäß § 3 des Gesetzes über Rabatte für Arzneimittel nicht mehr benötigt werden, längstens jedoch für die Dauer von zwei Jahren nach der Geltendmachung der Abschläge gegenüber den pharmazeutischen Unternehmern. Zahlt das pharmazeutische Unternehmen die Abschläge nicht innerhalb einer Frist von zwei Jahren, können die Belege längstens bis zu einer Dauer von zwei Jahren nach dem rechtskräftigen Abschluss eines hierüber geführten Verfahrens aufbewahrt werden (§ 117 Absatz 2 Satz 3 und 4 des Sächsischen Beamtengesetzes). Alle übrigen Belege sind spätestens vier Monate nach Bestandskraft der Entscheidung zurückzusenden. Aus Gründen des Datenschutzes sind elektronische Dokumente nach Ablauf der vorgenannten Frist zu löschen.
 
 
+62.3.3
+
+
+Die Festsetzungsstelle hat dem Beihilfeberechtigten zur Beihilfefähigkeit von Aufwendungen ab einem Rechnungsbetrag von 2 500 Euro auf Verlangen detaillierte Auskünfte zu erteilen. Für geringere Aufwendungen und für Aufenthalte in Privatkliniken sind Auskünfte zur grundsätzlichen Beihilfefähigkeit der Aufwendungen ausreichend. Bei Rechnungsbeträgen unter 1 000 Euro kann die Festsetzungsstelle auf allgemeine Informationen auf der Internetseitseite oder in Merkblättern verweisen.
+
+
 62.4                     
 
 
@@ -14209,7 +14570,7 @@ Zu Absatz 5
 62.5.1
 
 
-Begibt oder befindet sich der Beihilfeberechtigte oder ein berücksichtigungsfähiger Angehöriger in stationäre(r) Behandlung nach §§ 20, 31 Absatz 2, § 37 Absatz 2 Nummer 1 bis 5 oder § 55, kann er den Leistungserbringer oder Rechnungssteller bevollmächtigen, die Beihilfe direkt von der Festsetzungsstelle anzufordern. Der Leistungserbringer oder Rechnungssteller übersendet in diesen Fällen der Festsetzungsstelle neben der Rechnung einen vom Beihilfeberechtigten unterschriebenen Antrag auf Gewährung von Beihilfe und Direktabrechnung nach Anhang 6, 7 oder 8 und fügt die in dem Antrag geforderten begründenden Unterlagen (Aufnahmeanzeige, Entlassungsanzeige, Wahlleistungsvereinbarung) bei. Als Antrag des Beihilfeberechtigten kann auch ein Formblatt nach Anlage 2 des Rahmenvertrags der Deutschen Krankenhausgesellschaft mit dem Bundesministerium des Innern vom 11. Juli 2018 verwendet werden. Die Festsetzungsstelle überweist die Beihilfe an den Rechnungssteller. Der Beihilfeberechtigte erhält einen Bescheid über die geleistete Zahlung zusammen mit den Rechnungsbelegen. Ein gegebenenfalls noch offener Selbstbehalt ist bei dem nächsten Beihilfebescheid außerhalb einer Direktabrechnung zu berücksichtigen. Der Beihilfeberechtigte ist darauf entsprechend hinzuweisen. Bei stationären Aufenthalten in Krankenhäusern mit einer Zulassung nach § 108 SGB V kann auch das Verfahren des Rahmenvertrags der Deutschen Krankenhausgesellschaft mit dem Bundesministerium des Innern angewendet werden. Das Staatsministerium der Finanzen wird den Vertrag den sächsischen Festsetzungsstellen zur Verfügung stellen. Bei Aufwendungen für einen Aufenthalt in einer vollstationären Pflegeeinrichtung im Sinne des § 55 ist nach Nummer 62.5.2 zu verfahren.   
+Begibt oder befindet sich der Beihilfeberechtigte oder ein berücksichtigungsfähiger Angehöriger in stationäre(r) Behandlung nach §§ 20, 31 Absatz 2, § 37 Absatz 2 Nummer 1 bis 5 oder § 55, kann er den Leistungserbringer oder Rechnungssteller bevollmächtigen, die Beihilfe direkt von der Festsetzungsstelle anzufordern. Der Leistungserbringer oder Rechnungssteller übersendet in diesen Fällen der Festsetzungsstelle neben der Rechnung einen vom Beihilfeberechtigten unterschriebenen Antrag auf Gewährung von Beihilfe und Direktabrechnung nach Anhang 6, 7 oder 8 und fügt die in dem Antrag geforderten begründenden Unterlagen (Aufnahmeanzeige, Entlassungsanzeige, Wahlleistungsvereinbarung) bei. Als Antrag des Beihilfeberechtigten kann auch ein Formblatt nach Anlage 2 des Rahmenvertrags der Deutschen Krankenhausgesellschaft mit dem Bundesministerium des Innern vom 11. Juli 2018 verwendet werden. Die Festsetzungsstelle überweist die Beihilfe an den Rechnungssteller. Der Beihilfeberechtigte erhält einen Bescheid über die geleistete Zahlung zusammen mit den Rechnungsbelegen. Ein gegebenenfalls noch offener Selbstbehalt ist bei dem nächsten Beihilfebescheid außerhalb einer Direktabrechnung zu berücksichtigen. Der Beihilfeberechtigte ist darauf entsprechend hinzuweisen. Bei stationären Aufenthalten in Krankenhäusern mit einer Zulassung nach § 108 des Fünften Buches Sozialgesetzbuch kann auch das Verfahren des Rahmenvertrags der Deutschen Krankenhausgesellschaft mit dem Bundesministerium des Innern angewendet werden. Das Staatsministerium der Finanzen wird den Vertrag den sächsischen Festsetzungsstellen zur Verfügung stellen. Bei Aufwendungen für einen Aufenthalt in einer vollstationären Pflegeeinrichtung im Sinne des § 55 ist nach Nummer 62.5.2 zu verfahren.   
 
 62.5.2
 
@@ -14293,13 +14654,11 @@ Zu Absatz 7
 62.7.1
 
 
-Für von der Festsetzungsstelle eingeholte Gutachten übernimmt diese die gegebenenfalls entstandenen Kosten.
+Für von der Festsetzungsstelle eingeholte Gutachten übernimmt diese die gegebenenfalls entstandenen Kosten. Dies gilt auch für amts- oder vertrauensärztliche Gutachten zur Feststellung der Pflegebedürftigkeit und des Pflegegrades, wenn eine Pflegeversicherung nicht besteht.
 
-Dies gilt auch für amts- oder vertrauensärztliche Gutachten zur Feststellung der Pflegebedürftigkeit und des Pflegegrades, wenn eine Pflegeversicherung nicht besteht. Die Festsetzungsstelle veranlasst insbesondere Gutachten zur Feststellung der Notwendigkeit einer Behandlung im Ausland (§ 7 Absatz 2 Satz 3), einer Begleitung eines Kindes ins Krankenhaus (§ 20 Absatz 3 Satz 2), von stationären Rehabilitationsmaßnahmen, Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen (§ 38 Absatz 3) und von Kuren (§ 39 Absatz 4 und 5). Für amtsärztliche Gutachten fallen in der Regel keine Kosten an, weil Land und Kommunen innerhalb des Freistaates Sachsen von der Zahlung von Verwaltungsgebühren befreit sind (§ 4 Absatz 1 des
+Die Festsetzungsstelle veranlasst insbesondere Gutachten zur Feststellung der Notwendigkeit einer Behandlung im Ausland (§ 7 Absatz 2 Satz 3), einer Begleitung eines Kindes ins Krankenhaus (§ 20 Absatz 3 Satz 2) oder wenn die Notwendigkeit einer stationären Rehabilitationsmaßnahme, einer Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen (§ 38 Absatz 3) oder einer Kur (§ 39 Absatz 4 und 5) durch die vorgelegten ärztlichen Unterlagen nicht ausreichend begründet ist.
 
-Verwaltungskostengesetzes des Freistaates Sachsen). Die Erhebung von Auslagen im Sinne des § 12 des
-
-Verwaltungskostengesetzes des Freistaates Sachsen ist möglich.
+Für amtsärztliche Gutachten fallen in der Regel keine Kosten an, weil Land und Kommunen innerhalb des Freistaates Sachsen von der Zahlung von Verwaltungsgebühren befreit sind (§ 4 Absatz 1 des Verwaltungskostengesetzes des Freistaates Sachsen). Die Erhebung von Auslagen im Sinne des § 12 des Verwaltungskostengesetzes des Freistaates Sachsen ist möglich.
 
 
 62.7.2                    
@@ -14386,10 +14745,10 @@ Zu Absatz 8
 Die Auswahl der Gutachter obliegt der Festsetzungsstelle. Sachverständige können Amts- oder Vertrauensärzte oder auch andere Sachverständige (zum Beispiel Sachverständige bei Ärzte- und Apothekerkammern) sein. Gutachten sind mit vorherigem Einverständnis des Beihilfeberechtigten einzuholen, sofern dazu persönliche Daten weitergegeben werden. Wird das Einverständnis verweigert und kann die Berechtigung des Anspruchs nicht anderweitig nachgewiesen werden, wird eine Beihilfe nicht gewährt.                    
 
 
-62.8.2                    
+62.8.2
 
 
-Für die Zuerkennung der Eignung eines Vertrauensarztes oder eines sonstigen Sachverständigen ist gemäß § 9 des Sächsischen Datenschutzgesetzes zu prüfen, ob die mit der Bewertung betrauten Person nach dem Verpflichtungsgesetz zur Wahrung der Daten von der Festsetzungsstelle verpflichtet werden muss. Für die Verpflichtung von Gutachtern und Sachverständigen nach § 1 Absatz 1 des Verpflichtungsgesetzes ist im staatlichen Bereich das Landesamt für Steuern und Finanzen zuständig.            
+Für die Zuerkennung der Eignung eines Vertrauensarztes oder eines sonstigen Sachverständigen ist gemäß § 9 des Sächsischen Datenschutz-Umsetzungsgesetzes zu prüfen, ob die mit der Bewertung betrauten Person nach dem Verpflichtungsgesetz zur Wahrung der Daten von der Festsetzungsstelle verpflichtet werden muss. Für die Verpflichtung von Gutachtern und Sachverständigen nach § 1 Absatz 1 des Verpflichtungsgesetzes ist im staatlichen Bereich das Landesamt für Steuern und Finanzen zuständig.  
 
 
 62.9                     
@@ -14433,7 +14792,7 @@ Zu § 65 Übergangsvorschriften
 
 Die Verordnung gilt nur für Aufwendungen, die nach dem Inkrafttreten entstanden sind. Auf alle Aufwendungen, die bis zum Inkrafttreten dieser
 
-Verordnung entstanden sind, sind die bisherigen Regelungen der bis zum 31. Januar 2019 geltenden Fassung der Sächsischen Beihilfeverordnung weiterhin anzuwenden. Das kann dazu führen, dass gegebenenfalls die in einer Rechnung zusammengefassten Aufwendungen aufgeteilt werden müssen. Nach bisherigem Recht erteilte Bewilligungen gelten fort.
+Verordnung entstanden sind, sind die bisherigen Regelungen der bis zum 27. November 2020 geltenden Fassung der Sächsischen Beihilfeverordnung weiterhin anzuwenden. Das kann dazu führen, dass gegebenenfalls die in einer Rechnung zusammengefassten Aufwendungen aufgeteilt werden müssen. Nach bisherigem Recht erteilte Bewilligungen gelten fort.
 
 
 66.
@@ -14801,9 +15160,9 @@ Fsn-Nr.: 242-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  3. Mai 2019
+Fassung gültig ab: 18. Juni 2021
 
-Fassung gültig bis: 17. Juni 2021
+Fassung gültig bis: 14. November 2024
 
 Drucken/Speichern
 
@@ -14830,7 +15189,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16881.3
+https://www.revosax.sachsen.de/vorschrift/16881.4
 Stand vom
 18.11.2026
 
