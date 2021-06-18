@@ -25,8 +25,7 @@ alten Arbeitsverhältnisses](0012.md)
 Betriebsverfassung und Personalvertretung
 
 - [§ 15 Unzulässigkeit der Kündigung](0015.md)
-- [§ 16 Neues Arbeitsverhältnis, Auflösung des alten
-Arbeitsverhältnisses](0016.md)
+- [§ 16 Neues Arbeitsverhältnis, Auflösung des alten Arbeitsverhältnisses](0016.md)
 
 ## Dritter Abschnitt Anzeigepflichtige Entlassungen
 

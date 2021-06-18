@@ -1,22 +1,21 @@
 # Anlage 4 Erneuerung der Fenster oder Außentüren
 
-Die in nachfolgender Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
-Für Bauteile von Gebäuden mit Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz im Sinne des § 24 Absatz 1 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, gelten jeweils reduzierte Anforderungswerte. Für Bauteile ohne entsprechende Auflagen sind die nicht reduzierten Anforderungswerte einzuhalten.
+Die in der nachfolgenden Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
 Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile
-| lfd. Nummer | Bauteil | Maximaler U-Wert in W/(m² K) |
-| 4.1 | Fenster, Balkon- und Terrassentüren mit Mehrscheibenisolierverglasung | 0,95 |
+| lfd. Nummer | Bauteil | Höchstwerte der Wärmedurchgangskoeffizienten Umax in W/(m2 K) |
+| 4.1 | Fenster, Balkon- und Terrassentüren | 0,95 |
 | 4.2 | Barrierearme oder einbruchhemmende Fenster, Balkon- und Terrassentüren | 1,1 |
-| 4.3 | Ertüchtigung von Fenstern und Kastenfenstern sowie Fenster mit Sonderverglasung | 1,3 |
-| 4.4 | Dachflächenfenster | 1,0 |
-| 4.5 | Austausch von Fenstern an Baudenkmalen oder erhaltenswerter Bausubstanz | 1,4 bei echten glasteilenden Sprossen: 1,6 W/(m2 K) |
-| 4.6 | Ertüchtigung von Fenstern an Baudenkmalen oder erhaltenswerter Bausubstanz | 1,6 |
-| 4.7 | Außentüren beheizter Räume | 1,3 |
-Die Anforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, zur Begrenzung des Wärmedurchgangs bei erstmaligem Einbau, Ersatz oder Erneuerung von Außenbauteilen bestehender Gebäude sind zu beachten.
-Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten.
-Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
-Gefördert werden die Erneuerung durch Austausch oder Ertüchtigung von Fenstern, Fenstertüren und Außentüren sowie der erstmalige Einbau von Außentüren, Fenstern und Fenstertüren einschließlich außenliegender Sonnenschutzeinrichtungen nach DIN 4108-2. Dabei sind die in der Tabelle genannten Anforderungen an den Wärmedurchgangskoeffizienten (U-Werte) einzuhalten.
-Bedingung für die Förderung von Fenstern und Fenstertüren ist, dass der U-Wert der Außenwand und/oder des Daches kleiner ist als der UW-Wert der neu eingebauten Fenster und Fenstertüren. Diese Mindestanforderung darf gleichwertig erfüllt werden, indem durch weitere Maßnahmen Tauwasser- und Schimmelbildung weitestgehend ausgeschlossen werden.
-Ist aus Gründen des Denkmalschutzes oder des Schutzes sonstiger besonders erhaltenswerter Bausubstanz die Einhaltung der vorgegebenen UW-Werte bei der Erneuerung von Fenstern nicht möglich, können Fenster durch Ertüchtigung mit einem UW-Wert von maximal 1,6 W/(m² K) und ansonsten durch Austausch mit einem UW-Wert von maximal 1,4 W/(m² K), bei echten glasteilenden Sprossen 1,6 W/(m² K), gefördert werden. Voraussetzung ist die Bestätigung des Fachunternehmens, dass aufgrund von Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz die Erneuerung von Fenstern nur durch die Ertüchtigung oder den Austausch nach diesen UW-Werten möglich ist.
-Sonderverglasungen entsprechend Nummer 4.3 der Tabelle „Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile“ sind die in Anlage 3 Nummer 2 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, beschriebenen Verglasungen zum Schallschutz, Brandschutz sowie zur Durchschusshemmung, Durchbruchhemmung oder Sprengwirkungshemmung, die aufgrund von Vorschriften der Landesbauordnung oder anderer Vorschriften für den bestimmungsgemäßen Betrieb eines Gebäudes einzubauen sind.
-Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen diese mit einem geringen Kraftaufwand bedient werden können. Beim Ver- und Entriegeln der Fenster muss das Drehmoment am Fenstergriff kleiner als 5 Nm und die auf das Hebelende aufgebrachte Kraft kleiner 30 N sein. Die Fenstergriffe dürfen nicht höher als 1,05 m über dem Fußboden angeordnet sein. Ist dies baustrukturell nicht möglich, sind automatische Öffnungs- und Schließsysteme förderfähig. Bei Balkon- und Terrassentüren darf die untere Schwelle eine Höhe von 2 cm nicht überschreiten.
+| 4.3 | Fenster, Balkon- und Terrassentüren mit Sonderverglasung (Verglasung zum Schall- und Brandschutz sowie zur Durchschuss-, Durchbruch- und Sprengwirkungshemmung) | 1,1 |
+| 4.4 | Ertüchtigung von Fenstern, Balkon- und Terrassentüren, von Kastenfenstern sowie von Fenstern mit Sonderverglasung | 1,3 |
+| 4.5 | Dachflächenfenster | 1,0 |
+| 4.6 | Fenster, Balkon- und Terrassentüren von Baudenkmalen und von sonstiger besonders erhaltenswerter Bausubstanz | 1,4 |
+| 4.7 | Fenster, Balkon- und Terrassentüren mit echten glasteilenden Sprossen bei Baudenkmalen und bei sonstiger besonders erhaltenswerter Bausubstanz | 1,6 |
+| 4.8 | Ertüchtigung von Fenstern, Balkon- und Terrassentüren an Baudenkmalen oder sonstiger besonders erhaltenswerter Bausubstanz | 1,6 |
+| 4.9 | Außentüren beheizter Räume, Hauseingangstüren | 1,3 |
+| 4.10 | Glasdächer | 1,6 |
+| 4.11 | Lichtbänder und Lichtkuppeln | 1,5 |
+| 4.12 | Vorhangfassaden | 1,3 |
+Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
+Sonderverglasungen sind die in Fußnote 4 der Tabelle in Anlage 7 des Gebäudeenergiegesetzes beschriebenen Verglasungen zum Schallschutz, Brandschutz sowie zur Durchschusshemmung, Durchbruchhemmung oder Sprengwirkungshemmung, die aufgrund von Vorschriften der Landesbauordnung oder anderer Vorschriften für den bestimmungsgemäßen Betrieb eines Gebäudes einzubauen sind.
+Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen diese mit einem geringen Kraftaufwand bedient werden können. Beim Ver- und Entriegeln der Fenster muss das Drehmoment am Fenstergriff kleiner als 5 Nm und die auf das Hebelende aufgebrachte Kraft kleiner als 30 N sein. Die Fenstergriffe dürfen nicht höher als 1,05 m über dem Fußboden angeordnet sein. Ist dies baustrukturell nicht möglich, sind automatische Öffnungs- und Schließsysteme förderfähig. Bei Balkon- und Terrassentüren darf die untere Schwelle eine Höhe von 2 cm nicht überschreiten.
 Beim Einbau einbruchhemmender Fenster, Balkon- und Terrassentüren müssen diese die Widerstandsklasse RC 2 nach DIN EN 1627 oder besser aufweisen (auch ohne Nachweis über die Berücksichtigung der Festigkeit und Ausführung der umgebenden Wände).

@@ -142,6 +142,7 @@ Arbeitnehmer
 - [§ 78 Schutzbestimmungen](0078.md)
 - [§ 78a Schutz Auszubildender in besonderen Fällen](0078a.md)
 - [§ 79 Geheimhaltungspflicht](0079.md)
+- [§ 79a Datenschutz](0079a.md)
 - [§ 80 Allgemeine Aufgaben](0080.md)
 
 ### Zweiter Abschnitt Mitwirkungs- und
