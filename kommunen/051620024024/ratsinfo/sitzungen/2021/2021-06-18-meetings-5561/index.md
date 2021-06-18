@@ -1,0 +1,86 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-06-18T16:00:00+02:00
+- Ende: 2021-06-18T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5561
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5561
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00146743.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00146743.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00146743.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Einführung und Verpflichtung eines Ratsmitgliedes
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP 5: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 6: Bericht zur Bewältigung der Corona-Krise - verwiesen
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bauausschuss
+- TOP 7: Bebauungsplan 484 - Augustinusviertel, ehem. St. Alexius-Krankenhaus: Verkehrliche Erschließung - einstimmig zugestimmt
+- TOP 8: Genehmigung der Dringlichkeitsentscheidung Nr. 33: Benennung des Prüfers für den Jahresabschluss des Tiefbaumanagements Neuss zum 31.12.2020 - einstimmig zugestimmt
+- TOP -: Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung
+- TOP 9: Antrag der CDU-Fraktion betr.: Bürgerinnen und Bürger früher transparent informieren
+- TOP -: Schulausschuss
+- TOP 10: Anpassung der Zuschüsse für das Förderprogramm OGS "Ganztag Inklusiv" - einstimmig zugestimmt
+- TOP 11: Errichtung temporäre Containeranlage an der Kreuzschule - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 12: Feststellung des Jahresabschlusses 2020 der Liegenschaften und Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss 2020, sowei Beschluss über die Entlastung der Betriebsleitung - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 13: Landesgartenschau Neuss 2026 - Bewerbung - mehrheitlich zugestimmt
+- TOP 14: Ideenwerkstatt für den Wendersplatz - mehrheitlich zugestimmt
+- TOP 15: Zweite Verlängerung der Veränderungssperre Nr. 38 für den Geltungsbereich des Bebauungsplans Nr. 120/19 - Weckhoven, Otto-Wels-Straße - - einstimmig zugestimmt
+- TOP 16: B-Plan 200-2 Erfttal, Parisstraße (Kita) - einstimmig zugestimmt
+- TOP 17: Bebauungsplan Nr. 120/19 - Weckhoven, Otto-Wels-Straße - - einstimmig zugestimmt
+- TOP 18: Projektentwicklung zwischen Zolltor und Rosengarten - einstimmig zugestimmt
+- TOP 19: Radschnellweg Neuss-Düsseldorf-Langenfeld: Bestätigung des Streckenverlaufs - einstimmig zugestimmt
+- TOP -: Sportausschuss
+- TOP 20: Zuwendungen zur Durchführung von herausragenden Sportveranstaltungen 2021 - einstimmig zugestimmt
+- TOP 21: AG-Sportentwicklung - Benennung der/des Vorsitzenden und der/des stellvertretenden Vorsitzenden der Arbeitsgruppe Sportentwicklung - einstimmig zugestimmt
+- TOP 22: Förderung von Mannschaften in den höchsten Wettkampfklassen - einstimmig zugestimmt
+- TOP 23: Förderung von Projekten gemäß Punkt 9 der Sportförderrichtlinien
+- TOP 24: Antrag des TuS Reuschenberg auf einen Zuschuss in Höhe von 50% der Kosten zur Anschaffung von Spielerkabinen am Rasenplatz der BSA Reuschenberg
+- TOP 25: Antrag der DJK Rheinkraft Neuss und der Turngemeinde Neuss auf die Errichtung einer Überdachung für den Sportbetrieb und Veranstaltungen im Leichtathletikzentrum Ludwig-Wolker-Sportanlage - einstimmig zugestimmt
+- TOP 26: Wall of Fame des Neusser Sports - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 27: Bildung von Untergremien des Kulturausschusses - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 28: Fachplanung Kindertagesbetreuung hier: Dynamisierung Förderleistungen in Kindertagespflege - einstimmig zugestimmt
+- TOP 29: Fachplanung Kindertagesbetreuung hier: Bedarfsplan Kindertagesbetreuung - einstimmig zugestimmt
+- TOP 30: Fachplanung Kindertagesbetreuung hier: Vertretung in Kindertagespflege - einstimmig zugestimmt
+- TOP 30.1: Antrag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und UWG/Aktiv für Neuss betr.: Aktionsprogramm „Aufholen nach Corona für Kinder und Jugendliche in 2021 und 2022“
+- TOP -: Beschlussfassung des Rates
+- TOP 31: Umbenennung der Stadt Neuss in "Neuss am Rhein"
+- TOP 32: Unterstützung der Kampagne „Städte für das Leben – Städte gegen die Todesstrafe“ der Initiative Sant‘Egidio - verwiesen
+- TOP 33: Anpassung der Stadtwappensatzung (1. Änderungssatzung) - einstimmig zugestimmt
+- TOP 34: Heimatpreis 2021 - einstimmig zugestimmt
+- TOP 34.1: Mitgliedschaft im Wasserstoff-Hub Rhein-Kreis Neuss/ Rheinland e.V. - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 35: Antrag der CDU-Fraktion betr.: Den Coronafolgen begegnen: Förderung junger Menschen in Neuss ausweiten - verwiesen
+- TOP 36: Antrag der CDU-Fraktion betr.: Sachstand Elektromobilität - verwiesen
+- TOP 37: Antrag der CDU-Fraktion betr.: Bürgerinnen und Bürger früher transparent informieren II
+- TOP 38: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: "Ego sum rex Fridericus" - Erinnerung an Tile Kolup und die Rückkehr des falschen Kaisers - verwiesen
+- TOP 39: Antrag der AfD-Fraktion betr.: Versorgung von Empfängern von Sozialhilfe bzw. Grundsicherung im Alter mit FFP2 Masken - abgesetzt
+- TOP 40: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Sauberkeitsoffensive in der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 41: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Winterdienst auf Radwegen ausweiten - einstimmig zugestimmt
+- TOP 42: Antrag der CDU-Fraktion betr.: Konsolidierung des Haushaltes endlich anpacken - verwiesen
+- TOP 43: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Schwimmkursangebot erweitern - abgesetzt
+- TOP 44: Antrag der CDU-Stadtratsfraktion, hier: Herstellung der Barrierefreiheit zumRasenplatz auf der BSA Reuschenberg - einstimmig zugestimmt
+- TOP 44.1: Antrag der CDU-Fraktion betr.: Sebastianusstraße: Gemeinsame Lösung mit den Betroffenen erarbeiten - Verkehrsversuch bis dahin aussetzen - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 46: Novellierung des Kommunalabgabengesetz NRW (KAG) - zur Kenntnis genommen
+- TOP 47: Berichterstattung über aktuelle Digitalisierungsprojekte - zur Kenntnis genommen
+- TOP 48: Neuaufstellung des Rettungsdienstbedarfsplanes des Rhein-Kreises Neuss 2021 - zur Kenntnis genommen
+- TOP 49: Elternbeiträge ab Juni 2021 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
