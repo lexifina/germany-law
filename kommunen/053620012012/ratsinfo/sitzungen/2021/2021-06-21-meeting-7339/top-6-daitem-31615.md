@@ -1,0 +1,7 @@
+# TOP 6.: EKR - Abbruch Bodenplatten-Unterbau
+
+- Sitzung: Vergabe- und Liegenschaftsausschuss (8. Sitzung) (2021-06-21)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/31615
+- Ergebnis: (kein Text vorhanden)
