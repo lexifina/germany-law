@@ -1,0 +1,103 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-21T14:40:00+02:00
+- Ende: 2021-06-21T15:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23691
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23691
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2021
+- TOP 2.3: Projekt „Einführung von Nachhaltigkeitshaushalten“ – Zwischenbericht zur Evaluation - Kenntnis genommen
+- TOP 2.4: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.04.2021 - Kenntnis genommen
+- TOP 2.6: Sicherung der Gewerbesteuereinnahmen - Kenntnis genommen
+- TOP 2.7: Grundsteuerreform - - Kenntnis genommen
+- TOP 2.8: Köln baut mit Holz: Holzbau in der Stadt vorantreiben - zu AN/0933/2021Köln baut mit Holz: Holzbau in der Stadt vorantreiben - zu AN/0933/2021 aus der Sitzung des Stadtentwicklungsausschusses am 29.04.2021, TOP 2.2 - Kenntnis genommen
+- TOP 2.9: Ottoplatz - Kenntnis genommen
+- TOP 2.10: Auswirkungen der Steuerschätzung aus Mai 2021 auf den Haushalt der Stadt Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Temporäre Spielstraßen - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Lastenradförderprogramm 2021 - Kenntnis genommen
+- TOP 4.1.1: Fortführung der Lastenradprogramm 2021 - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mitteilung über eine Erhöhung der investiven Gesamtauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V. m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2021 - Kenntnis genommen
+- TOP 6.3: Unterrichtung des Rates gem. § 25 der Kommunalhaushaltsverordnung Nordrhein-Westfalen - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 7.2: Errichtung von Probe- und Atelierräumen - geändert beschlossen
+- TOP 7.2.1: TOP 6.1 Errichtung von Probe- und Atelierräumen - ungeändert beschlossen
+- TOP 7.3: Baubeschluss für den barrierefreien Umbau von 5 Haltestellen (7 Haltekanten) auf der KVB-Linie 157 im Stadtbezirk Kalk - geändert beschlossen
+- TOP 7.4: Zuschuss an den SC Rondorf e.V. - ungeändert beschlossen
+- TOP 7.5: Zuschuss FC Viktoria Köln 1904 e.V. zur Errichtung eines Naturrasenplatzes - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 0108 und Teilergebnisplan 0903 - ungeändert beschlossen
+- TOP 8.2: Überplanmäßiger Aufwand im Teilergebnisplan 1201, Straßen, Wege, Plätze für das Haushaltsjahr 2020 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Wilhelm-Schreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bauvorhabens und Rückbau - ungeändert beschlossen
+- TOP 10.2: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - zurückgestellt
+- TOP 10.3: Baubeschluss für die Generalinstandsetzung des Perlengrabens zwischen Blaubach und der Severinsbrücke im Stadtbezirk Innenstadt sowie Freigabe von investiven Auszahlungsgsermächtigungen - hier: Finanzstelle - geändert beschlossen
+- TOP 10.4: Baubeschluss Rettungswache Worringen - ungeändert beschlossen
+- TOP 10.5: Grünzug Chorweiler Nord - Wegebau - geändert beschlossen
+- TOP 10.6: Fortführung der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern bei der Berufsfeuerwehr Köln - ungeändert beschlossen
+- TOP 10.7: Beschäftigung Langzeitarbeitsloser über § 16i SGB II – Erweiterung der Maßnahme - ungeändert beschlossen
+- TOP 10.8: Fahrplanwechsel 2021 - Überarbeitung des Busnetzes im Kölner Westen - geändert beschlossen
+- TOP 10.9: Einrichtung des Erweiterungsbaus für das Gymnasium Neue Sandkaul 29, 50859 Köln-Widdersdorf - ungeändert beschlossen
+- TOP 10.10: Fahrplanwechsel 2021 - Anbindung der Ausweichquartiere des Bezirksrathauses Rodenkirchen - ungeändert beschlossen
+- TOP 10.11: Erweiterung der P+R-Anlage Weiden West - geändert beschlossen
+- TOP 10.12: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 10.13: Bedarfsfeststellungsbeschluss für die Ausstattung der Unterkünfte für Geflüchtete mit WLAN - ungeändert beschlossen
+- TOP 10.14: Wirtschaftsplan 2021 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.15: Baubeschluss für die fahrrad- und fußgängerfreundliche Umgestaltung der Kölner Ringe im Abschnitt Hohenzollernring, Kaiser-Wilhelm-Ring, Hansaring - ohne Votum in nachfolgende Gremien
+- TOP 10.16: Freigabe von Mitteln aus der Kulturförderabgabe zwecks Förderung von Projekten der Kreativwirtschaft - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 10.16.1: TOP 10.16: Freigabe von Mitteln aus der Kulturförderabgabe zwecks Förderung von Projekten der Kreativwirtschaft - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 10.17: Baubeschluss für die Generalsanierung der Sportanlage Humboldtstraße, Platz 1 (an der Schule) - geändert beschlossen
+- TOP 10.18: Bedarfsfeststellung für die Landtagswahl 2022 - ungeändert beschlossen
+- TOP 10.19: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 10.20: Beschlussvorlage Mehrkostenbeschluss Fachraumerneuerung für die Mikrobiologieräume Berufskolleg 16, Kartäuserwall - ungeändert beschlossen
+- TOP 10.21: Stadtbahnanbindung Mülheimer Süden - Bedarfsfeststellungsbeschluss mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-901109, Straßen- u. Stadtbahnbau Mülheimer Süden - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung - ungeändert beschlossen
+- TOP 10.23: Finanzielle Entschädigung für die Tätigkeit in Aufsichtsgremien städtischer Beteiligungsgesellschaften - ungeändert beschlossen
+- TOP 10.24: Generalsanierung der Zentralbibliothek der Stadt Köln, Josef-Haubrich-Hof 1, 50676 Köln - Kostenfortschreibungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.25: Neugestaltung des Bolzplatzes Georgestraße in Köln-Neubrück - ungeändert beschlossen
+- TOP 10.26: Weiterführung der Programme zur digitalen Bildung – MINTköln Festival der Stadtbibliothek - ungeändert beschlossen
+- TOP 10.27: Drogenhilfeangebote am Neumarkt - ungeändert beschlossen
+- TOP 10.28: Umsetzung Einzelhandels und Zentrenkonzept, hier: Zentrenbudget - Erhöhung des Budgetrahmens 2021 - ungeändert beschlossen
+- TOP 10.29: Bedarfsfeststellung zur Beschaffung von 10 Löschfahrzeugen Logistik (LF-L) aufgrund von Fahrzeugtypenänderungen (Fahrzeug-Soll/Ist-Vergleich) der Feuerwehr Köln - ungeändert beschlossen
+- TOP 10.30: Leitbild für Kulturelle Teilhabe und Vielfalt - zurückgestellt
+- TOP 10.31: Bedarfsfeststellungsbeschluss für die Beschaffung eines Mobilitäts Cockpits Köln - innovativ - integrativ - intelligent (MoCKiii) - ungeändert beschlossen
+- TOP 10.32: Radsportzentrum NRW - ungeändert beschlossen
+- TOP 10.33: Mittelfreigabe zur Sanierung städtischer Brunnen - ungeändert beschlossen
+- TOP 10.34: Schulrechtliche Errichtung des Gymnasiums Zusestraße 47, 50859 in Köln-Lövenich zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.35: Schulrechtliche Errichtung des Gymnasiums Aachener Str. 744-750 in Köln-Müngersdorf zum Schuljahr 2022/23 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.36: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, hier: 1. Vorhaben 2021 - ungeändert beschlossen
+- TOP 10.37: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Jahresabschluss 2020 - ungeändert beschlossen
+- TOP 10.38: Umsetzung Maßnahmen aus der Kulturentwicklungsplanung, "Anpassung des Medienetats der Kunst- und Museumsbibliothek der Stadt Köln für das Jahr 2021" - ungeändert beschlossen
+- TOP 10.39: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung hier: Besucherstrukturanalyse für den Museumsstandort im Rahmen der Kulturentwicklungsplanung (KEP) - ungeändert beschlossen
+- TOP 10.40: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung Hier: Ausbau der Online-Collections und Schaffung anderer digitaler Zugänge wie Multimediaguides - zurückgestellt
+- TOP 10.41: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung Hier: Ausbau der Online-Collections durch die Entwicklung einer zentralen Basiskomponente - zurückgestellt
+- TOP 10.42: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit mindestens drei Sportübungseinheiten im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 10.43: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.44: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 10.45: Umsetzung Vergabe der Stipendien ohne Altersbegrenzung (Künstler*innenförderung Bildende Kunst) 2021-2023 - ungeändert beschlossen
+- TOP 10.46: Zentralarchiv für deutsche und internationale Kunstmarktforschung ZADIK - Fördervertrag Mietkostenzuschuss - zurückgestellt
+- TOP 10.47: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Bildende Kunst: Schaffung zusätzlicher Atelierräume - zurückgestellt
+- TOP 10.48: Häfen und Güterverkehr Köln AG: Satzungsänderung - ungeändert beschlossen
+- TOP 10.49: Jahresabschluss Wirtschaftsjahr 2019/2020 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 10.50: Kindertagespflege nach § 23 SGB VIII - Änderungen nach dem neuen Kinderbildungsgesetz (KiBiz NRW) - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
