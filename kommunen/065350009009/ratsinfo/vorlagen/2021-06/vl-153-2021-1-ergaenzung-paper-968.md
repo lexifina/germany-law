@@ -1,0 +1,24 @@
+# Offene Drucksachen/Vorlagen im Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-153/2021 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-06-21
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZesCo5W58mFIx_EQUpFmwQM
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/968
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Offene Drucksachen/Vorlagen im Haupt- und Finanzausschuss) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUGyj4vF0YIQCblk4HttrQDMXsgJ3P39fP06jNIawvUJ/Beschlussvorlage_VL-153-2021_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Liste-Drucksachen 2016-2021 Stand Ende LP Februar 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfgOVkzJQ514LaeTdl0DWjsqSVRhBA6-ADBh8soBI4RM/Liste-Drucksachen_2016-2021_Stand_Ende_LP_Februar_2021.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 63) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZWiGaLZ_x0801z1CDgViMyCVH30BmWyhN5Hxq_wOsMO/Dr-Nr._63.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 88) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTRNN7Ojd8O9ZvmL4kUhx0mkk4ZDy-OYxlS0iUC0tgIU/Dr-Nr._88.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 88a) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUtp4_nniqgmrlS38fg5UzkyZNkwS7dveom8VnRovwEV/Dr-Nr._88a.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 89) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZUrUTuOttwDZdjcLpuk02eNeRaRFlc0_KDUUiy39ATP/Dr-Nr._89.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 89a) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW03iuR1VVCAGh9fwosp7-bH6S8V93Oz5-yZn-km_Rld/Dr-Nr._89a.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 90) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR1d_gdOtd_YJKbhH0TwF-gQzXs-ur-EqnX4EDn-uBkH/Dr-Nr._90.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 93) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbghhbSfuunj6O5wgWszMKaEcpjd3-31ioH52thEWZE/Dr-Nr._93.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 93a) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsor86ZBRl-wZOPdPnkDNj9orQtAL5YHkZeefXV25QY/Dr-Nr._93a.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 144) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZevaQgZQydJFusmnusxIfkNUlRyiRTh7naROSB-raXo0/Dr-Nr._144.pdf
+- Anlage: Beschlussvorlage (Dr-Nr. 165) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXPd4dY4WRZ6ZsSwlCfzxutWhFaC9m6jdvMRKY3YWC6N/Dr-Nr._165.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/819 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/824 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-1
