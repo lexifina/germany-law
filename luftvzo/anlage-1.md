@@ -3,9 +3,9 @@
 (Fundstelle: BGBl. I 2008, 1264 - 1265)
 I. Eintragungsschein und Lufttüchtigkeitszeugnis
 Eintragungsschein und Lufttüchtigkeitszeugnis sind nach den dieser Anlage beigefügten Mustern zu erteilen:
-für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge und bemannte Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern 3 und 4.
+für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge, unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern 3 und 4.
 II. Staatszugehörigkeits- und Eintragungszeichen
-1. Deutsche Flugzeuge, Drehflügler, Luftschiffe, Motorsegler und bemannte Ballone führen als Staatszugehörigkeitszeichen die Bundesflagge und den Buchstaben D sowie als besondere Kennzeichnung (Eintragungszeichen) vier weitere Buchstaben.
+1. Deutsche Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte Ballone führen als Staatszugehörigkeitszeichen die Bundesflagge und den Buchstaben D sowie als besondere Kennzeichnung (Eintragungszeichen) vier weitere Buchstaben.
 2. Folgende Buchstaben werden als erste Buchstaben des Eintragungszeichens verwendet:
 | Flugzeuge |
 |  | über 20 000 Kilogramm höchstzulässige Startmasse | A, |
@@ -21,6 +21,7 @@ II. Staatszugehörigkeits- und Eintragungszeichen
 | Luftsportgeräte, |
 |  | motorgetrieben | M, |
 |  | nichtmotorgetrieben | N, |
+|  | unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a | U, |
 | bemannte Ballone | O. |
 3. (1) Flugzeuge, Drehflügler und Motorsegler führen den Buchstaben D und das Eintragungszeichen an beiden Seiten des Rumpfes (Muster 6 und 7) oder an beiden Seiten des Seitenleitwerks (Muster 6a und 7a). Flugzeuge bis 5 700 Kilogramm höchstzulässiger Startmasse und Motorsegler führen den Buchstaben D und das Eintragungszeichen außerdem auf der unteren Seite des linken Flügels (Muster 8).
   (2)

@@ -238,7 +238,7 @@ III. Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal f�
   |  | a) | Abnahme der theoretischen Prüfung | 380 EUR |
   |  | b) | Abnahme der praktischen Prüfung | 130 EUR |
   | 25. | Abnahme der Prüfung zur Zulassung als Steuerer von sonstigem Luftfahrtgerät (§ 6 Absatz 1 Nummer 9 LuftVZO) | 25 bis 60 EUR |
-  | 25a. | Ausstellen der Bescheinigung nach § 21e Absatz 1 LuftVO | 25 EUR |
+  | 25a. | Ausstellen einer Bescheinigung nach § 21f Absatz 2 LuftVO | 25 EUR |
   | 26. | Abnahme der Prüfung zum Erwerb von Lizenzen, Erlaubnissen und Berechtigungen für Fluglotsen (§§ 10, 11, 13, 14, 19 FSPersAV) sowie Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen für das sonstige Flugsicherungsbetriebspersonal (§§ 34, 35, 37, 38, 41 FSPersAV) sowie Überprüfung im Rahmen der §§ 27 und 43 FSPersAV | 1 100 bis 3 750 EUR |
   | 27. | Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen für das flugsicherungstechnische Personal (§§ 34, 35, 37, 38, 41 FSPersAV) sowie Überprüfung im Rahmen des § 43 FSPersAV | 250 bis 1 100 EUR |
   | 28. | Abnahme der Prüfung bei Wiederholung einer nicht bestandenen Prüfung oder Überprüfung (§ 128 Absatz 6 und 7 sowie § 128a Absatz 3 und 4 LuftPersV; Anhang I FCL.025, FCL.125, FCL.235, FCL.320 und FCL.520.A und H der Verordnung (EU) Nr. 1178/2011) | 3/10 bis 10/10 der für die betreffende Prüfung oder Überprüfung vorgesehenen Gebühr |
@@ -255,6 +255,15 @@ III. Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal f�
   |  | g) | Erweiterung der Berechtigung der Kategorien A bis C | 5/10 bis 10/10 der jeweils für die Gesamtprüfung nach den Buchstaben a bis d vorgesehenen Gebühr |
   |  | h) | Muster- und Gruppenberechtigung | 130 bis 600 EUR |
   | 33. | Erneute Ladung wegen Nichtteilnahme an einer Prüfung | 40 EUR |
+  | 34. | Abnahme einer Online-Theorieprüfung und Ausstellung einer Bescheinigung zum Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb eines unbemannten Fluggerätes nach Punkt UAS.OPEN.020 Nummer 4 Buchstabe b in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist | 25 EUR |
+  | 35. | Verlängerung oder Änderung der Bescheinigung nach Nummer 34 | 15 EUR |
+  | 36. | Umwandlung einer Bescheinigung nach § 21a Absatz 4 Satz 3 Nummer 2 LuftVO in der bis zum 17. Juni 2021 geltenden Fassung in eine Bescheinigung über die erfolgreich abgelegte Prüfung zum Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb eines unbemannten Fluggerätes nach Punkt UAS.OPEN.020 Nummer 4 Buchstabe b in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 | 50 EUR |
+  | 37. | Fernpiloten-Zeugnis zum Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb eines unbemannten Fluggerätes im Sinne der Durchführungsverordnung (EU) 2019/947 |  |
+  |  | a) | Ausstellung eines Fernpiloten-Zeugnisses |  |
+  |  |  | aa)in der Betriebskategorie „offen“ nach Punkt UAS.OPEN.030 Nummer 2 in Teil A des Anhangs | 30 EUR |
+  |  |  | bb)in der Betriebskategorie „speziell“ nach Punkt UAS.STS-01.020 Nummer 1 Buchstabe e Ziffer i in Verbindung mit Nummer 2 in Anlage 1 des Anhangs oder nach Punkt UAS.STS-02.020 Nummer 7 Buchstabe a in Verbindung mit Nummer 9 in Anlage 1 des Anhangs | 30 EUR |
+  |  | b) | Verlängerung oder Änderung des Fernpiloten-Zeugnisses | 15 EUR |
+  | 38. |  | Ausstellung einer Bescheinigung über die Anerkennung einer Befähigung als Fernpilot aus einem Drittland nach Artikel 41 Absatz 3 der Delegierten Verordnung (EU) 2019/945 der Kommission vom 12. März 2019 über unbemannte Luftfahrzeugsysteme und Drittlandbetreiber unbemannter Luftfahrzeugsysteme (ABl. L 152 vom 11.6.2019, S. 1), die durch die Delegierte Verordnung (EU) 2020/1058 (ABl. L 232 vom 20.7.2020, S. 1) geändert worden ist | 80 EUR |
 IV. Erlaubnisse und Berechtigungen für Luftfahrt- und Flugsicherungspersonal
   | Gebührentatbestand | Gebühr |
   | 1. | Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal, einschließlich gleichzeitig einzutragender Klassen- und Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr. 1321/2014) | 50 bis 70 EUR |
@@ -281,6 +290,21 @@ IV. Erlaubnisse und Berechtigungen für Luftfahrt- und Flugsicherungspersonal
   | 18. | Überprüfung einer Stelle, die für die Abnahme von Sprachprüfungen anerkannt ist, auf Fortbestehen der Anerkennungsvoraussetzungen und Einhaltung der Nebenbestimmungen (§ 125a Absatz 2 LuftPersV) | 250 bis 2 200 EUR |
   | 19. | Erstmaliger Eintrag des Nachweises der Sprachkenntnisse in die Lizenz oder Ausstellung einer gesonderten Bescheinigung (Anhang I FCL.055 Buchstabe a der Verordnung (EU) Nr. 1178/2011; § 125 LuftPersV), je Sprache | 15 bis 35 EUR |
   | 20. | Ausstellung einer Zweitschrift | 35 EUR |
+  | 21. | Benannte Stelle im Sinne der Durchführungsverordnung (EU) 2019/947 |  |
+  |  | a) | Benennung einer Stelle einschließlich der Prüfung von Schulungsprogrammen für die Durchführung von theoretischen Schulungen und die Abnahme einer Theorieprüfung sowie der Überprüfung auf Fortbestehen der Benennungsvoraussetzungen und Einhaltung der Nebenbestimmungen während der Gültigkeitsdauer der Benennung |  |
+  |  |  | aa)in der Betriebskategorie „offen“ nach Punkt UAS.OPEN.030 Nummer 2 Buchstabe c in Teil A des Anhangs | 1 000 bis3 500 EUR |
+  |  |  | bb)in der Betriebskategorie „speziell“ nach Punkt UAS.STS-01.020 Nummer 2 Buchstabe b in Anlage 1 des Anhangs oder nach Punkt UAS.STS-02.020 Nummer 9 Buchstabe b in Anlage 1 des Anhangs | 1 000 bis3 500 EUR |
+  |  | b) | Änderung oder Erweiterung der Benennung | 35 bis 525 EUR |
+  |  | c) | Verlängerung der Benennung einschließlich Überprüfung auf Fortbestehen der Benennungsvoraussetzungen und Einhaltung der Nebenbestimmungen während der Gültigkeitsdauer der verlängerten Benennung | 500 bis 2 000 EUR |
+  |  | d) | Anordnung von Maßnahmen zur Aufrechterhaltung der Benennung | 50 bis 250 EUR |
+  |  | e) | Aussetzung oder Einschränkung der Benennung | 50 bis 250 EUR |
+  | 22. | Anerkannte Stelle für die Durchführung einer praktischen Ausbildung von Fernpiloten für den Betrieb unter Standardszenarien nach Anlage 3 des Anhangs der Durchführungsverordnung (EU) 2019/947 |  |
+  |  | a) | Anerkennung einer Stelle einschließlich Überprüfung auf Fortbestehen der Anerkennungsvoraussetzungen und Einhaltung der Nebenbestimmungen während der Gültigkeitsdauer der Anerkennung | 500 bis 1 500 EUR |
+  |  | b) | Änderung oder Erweiterung der Anerkennung | 35 bis 225 EUR |
+  |  | c) | Verlängerung der Anerkennung einschließlich Überprüfung auf Fortbestehen der Anerkennungsvoraussetzungen und Einhaltung der Nebenbestimmungen während der Gültigkeitsdauer der Anerkennung | 250 bis 1 000 EUR |
+  |  | d) | Anordnung von Maßnahmen zur Aufrechterhaltung der Anerkennung | 50 bis 250 EUR |
+  |  | e) | Aussetzung oder Einschränkung der Anerkennung | 50 bis 250 EUR |
+  | 23. | Überprüfung des Betreibers für die Durchführung einer praktischen Ausbildung von Fernpiloten für den Betrieb unter Standardszenarien nach Anlage 3 des Anhangs der Durchführungsverordnung (EU) 2019/947 auf Einhaltung der Erklärung nach Anlage 4 | 100 EUR |
 V. Anlage und Betrieb von Flugplätzen
   | Gebührentatbestand | Gebühr |
   | 1. | Genehmigung der Anlage und des Betriebes |  |
@@ -392,8 +416,8 @@ VI. Verwendung und Betrieb von Luftfahrtgerät
   | 16. | Erlaubnis nach § 20 LuftVO |  |
   |  | a) | allgemein | 30 bis 500 EUR |
   |  | b) | für Flugmodellgelände | 100 bis 3 500 EUR |
-  | 16a. | Erteilung der Erlaubnis für den Betrieb eines unbemannten Luftfahrtsystems oder Flugmodells nach § 21a Absatz 1 LuftVO | 30 bis 3 500 EUR |
-  | 16b. | Erteilung einer Ausnahmeerlaubnis nach § 21b Absatz 2 oder Absatz 3 LuftVO | 50 bis 3 500 EUR |
+  | 16a. | Erteilung einer Genehmigung nach § 21i Absatz 1 LuftVO | 50 bis 3 500 EUR |
+  | 16b. | (weggefallen) |  |
   | 17. | Aufsicht über Luftfahrtunternehmen |  |
   |  | a) | wirtschaftliche Überprüfung |  |
   |  |  | aa) | Entscheidung nach Artikel 4 Buchstabe c, Artikel 7, 8 Abs. 6, 9 Abs. 1, Artikel 12 und 13 Abs. 2 und 3 der Verordnung (EG) Nr. 1008/08 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (Neufassung) (ABl. L 293 vom 31.10.2008, S. 3) bei Unternehmen gemäß § 61 Abs. 1 Nr. 1 LuftVZO und Anweisungen der Behörde | 100 bis 1 600 EUR |
@@ -440,6 +464,29 @@ VI. Verwendung und Betrieb von Luftfahrtgerät
   | 33. | Genehmigung von Verträgen über das An- oder Vermieten eines Luftfahrzeugs (Anhang II ARO.OPS 110 der Verordnung (EU) Nr. 965/2012 in Verbindung mit Artikel 13 der Verordnung (EG) Nr. 1008/2008) |  |
   |  | a) | Vermietung eines Luftfahrzeugs (Lease-out) | 150 bis 500 EUR |
   |  | b) | Anmietung eines Luftfahrzeugs (Lease-in) | 500 bis 1 200 EUR |
+  | 34. | Betriebsgenehmigung für den Betrieb eines unbemannten Fluggerätes in der Betriebskategorie „speziell“ nach Artikel 5 Absatz 1 in Verbindung mit Artikel 12 Absatz 1 bis 4 und Teil B des Anhangs der Durchführungsverordnung (EU) 2019/947 |  |
+  |  | a) | Erteilung einer Betriebsgenehmigung einschließlich Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen und Vorgaben in der Betriebsgenehmigung während der Gültigkeitsdauer der Betriebsgenehmigung | 200 bis 2 000 EUR |
+  |  | b) | Verlängerung einer Betriebsgenehmigung einschließlich Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen und Vorgaben in der Betriebsgenehmigung während der verlängerten Gültigkeitsdauer der Betriebsgenehmigung | 40 bis 400 EUR |
+  |  | c) | Aktualisierung der Betriebsgenehmigung bei erheblichen Änderungen nach Punkt UAS.SPEC.030 Absatz 2 in Teil B des Anhangs | 50 bis 500 EUR |
+  |  | d) | Aktualisierung der Betriebsgenehmigung für den Betrieb in einem anderen Mitgliedstaat der Europäischen Union | 50 bis 500 EUR |
+  |  | e) | Aussetzung oder Einschränkung der Betriebsgenehmigung | 100 EUR |
+  | 35. | Überprüfung einer eingereichten Betriebserklärung über die Einhaltung eines Standardszenarios für den Betrieb eines unbemannten Fluggerätes in der Betriebskategorie „speziell“ nach Artikel 5 Absatz 5 in Verbindung mit Punkt UAS.SPEC.020 in Teil B des Anhangs und Artikel 12 Absatz 5 der Durchführungsverordnung (EU) 2019/947 auf Vollständigkeit und Ausstellung einer Bestätigung einschließlich Überprüfung zur fortlaufenden Einhaltung der Angaben in der Erklärung während der Gültigkeitsdauer der Betriebserklärung | 200 EUR |
+  | 36. | Betreiberzeugnis für den Betrieb eines unbemannten Fluggerätes in der Betriebskategorie „speziell“ nach Teil C des Anhangs der Durchführungsverordnung (EU) 2019/947 |  |
+  |  | a) | Erteilung eines Betreiberzeugnisses nach Punkt UAS.LUC.010 in Teil C des Anhangs einschließlich Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen und Vorgaben im Betreiberzeugnis in den ersten beiden Jahren | 1 000 bis6 000 EUR |
+  |  | b) | Änderung des Betreiberzeugnisses nach Punkt UAS.LUC.050 Nummer 2 in Teil C des Anhangs | 100 EUR |
+  |  | c) | Änderung des Sicherheits-Managementsystems nach Punkt UAS.LUC.070 in Teil C des Anhangs | 50 bis 500 EUR |
+  |  | d) | Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen und Vorgaben im Betreiberzeugnis ab dem dritten Jahr nach Erteilung, spätestens alle zwei Jahre, wobei innerhalb dieses Zeitraumes die Gebühr nur einmalig erhoben werden kann | 250 bis 2 500 EUR |
+  |  | e) | Aussetzung oder Einschränkung des Betreiberzeugnisses | 100 EUR |
+  | 37. | Ausstellung einer Bescheinigung über die Anerkennung einer Berechtigung eines Betreibers aus einem Drittland nach Artikel 41 Absatz 3 der Delegierten Verordnung (EU) 2019/945 zum Betrieb von unbemannten Fluggeräten | 500 bis 2 000 EUR |
+  | 38. | Ausstellung einer Bescheinigung zum Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ im deutschen Luftraum durch Betreiber aus einem anderen Mitgliedstaat der Europäischen Union nach Artikel 13 der Durchführungsverordnung (EU) 2019/947 | 100 bis 500 EUR |
+  | 39. | Erteilung einer Erlaubnis zum Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach § 21f Absatz 3 LuftVO | 30 bis 3 500 EUR |
+  | 40. | Genehmigung nach Artikel 16 Absatz 1 der Durchführungsverordnung (EU) 2019/947 in Verbindung mit § 21g Absatz 1 Satz 1 LuftVO |  |
+  |  | a) | Erteilung der Genehmigung einschließlich Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen | 2 000 EUR |
+  |  | b) | Änderung oder Erweiterung der Genehmigung | 50 bis 400 EUR |
+  | 41. | Registrierung eines Betreibers eines unbemannten Fluggerätes für den Betrieb in den Betriebskategorien „offen“ und „speziell“ nach § 66a LuftVG |  |
+  |  | a) | natürliche und juristische Personen nach Absatz 3 | 20 bis 50 EUR |
+  |  | b) | Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband registriertem Mitglied | 5 EUR |
+  | 42. | Registrierung eines unbemannten Fluggerätes für den Betrieb in der Betriebskategorie „zulassungspflichtig“ nach § 66b LuftVG | 100 EUR |
 VII. Sonstige Amtshandlungen der Luftfahrtverwaltungen
   | Gebührentatbestand | Gebühr |
   | 1. | Ausstellung von Besatzungsausweisen | 50 EUR |
@@ -496,4 +543,4 @@ VII. Sonstige Amtshandlungen der Luftfahrtverwaltungen
   | 33. | Anerkennung einer Lärmbescheinigung für ausländische Luftfahrzeuge (§ 10 LuftVZO) | 130 EUR |
   | 34. | Widerruf oder Rücknahme einer Amtshandlung, Antragsrücknahme, Antragsablehnung aus anderen Gründen als der Unzuständigkeit der Behörde | bis zu 8/10 der für die Amtshandlung vorgesehenen Gebühr |
   | 34a. | Erfolglose Widerspruchverfahren | Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung festgesetzten Gebühr erhoben. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 VwVfG unbeachtlich ist. War für die angefochtene Amtshandlung eine Gebühr nach diesem Verzeichnis nicht vorgesehen, war die Amtshandlung gebührenfrei oder ist der Widerspruch von einem Dritten eingelegt worden, wird eine Gebühr bis zu 2 500 EUR erhoben. Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen eine Kostenentscheidung richtet, beträgt die Gebühr höchstens 1/10 der Gebühr des streitigen Betrags. Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 3/4 der Gebühr nach den Sätzen 1 bis 3. In allen Fällen beträgt die Gebühr jedoch mindestens 40 EUR. |
-  | 35. | Anerkennung als Stelle zur Ausstellung einer Bescheinigung über nachgewiesene Kenntnisse in den Bereichen Luftrecht, Meteorologie und Flugbetrieb sowie über allgemeine praktische Kenntnisse und Fertigkeiten nach den §§ 21d und 21a Absatz 4 Satz 3 Nummer 2 LuftVO | bis 750 EUR |
+  | 35. | (weggefallen) |  |

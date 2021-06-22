@@ -32,13 +32,18 @@ Nutzung des Luftraums
 | § 20 | Erlaubnisbedürftige Nutzung des Luftraums |
 | § 21 | Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle |
 Abschnitt 5a
-Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
-| § 21a | Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen |
-| § 21b | Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen |
-| § 21c | Zuständige Behörde |
-| § 21d | Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen |
-| § 21e | Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen |
-| § 21f | Ausweichregeln für unbemannte Fluggeräte |
+Betrieb von unbemannten Fluggeräten
+| § 21a | Zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947 |
+| § 21b | Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947 |
+| § 21c | Zuständige Behörde für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „zulassungspflichtig“ nach der Durchführungsverordnung (EU) 2019/947; Verkehrsvorschriften |
+| § 21d | Zuständige Behörde für den Betrieb von unbemannten Fluggeräten nach der Durchführungsverordnung (EU) 2019/947 durch Betreiber aus Drittländern |
+| § 21e | Benannte und anerkannte Stellen |
+| § 21f | Regelungen für den Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach der Durchführungsverordnung (EU) 2019/947 |
+| § 21g | Regelungen für die Erteilung einer Genehmigung nach der Durchführungsverordnung (EU) 2019/947 an Luftsportverbände |
+| § 21h | Regelungen für den Betrieb von unbemannten Fluggeräten in geografischen Gebieten nach der Durchführungsverordnung (EU) 2019/947 |
+| § 21i | Erteilung einer Genehmigung |
+| § 21j | Ausweisung und Veröffentlichung geografischer Gebiete nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947 |
+| § 21k | Betrieb von unbemannten Fluggeräten durch Behörden und Organisationen mit Sicherheitsaufgaben |
 Abschnitt 6
 Flugplatzverkehr
 | § 22 | Regelung des Flugplatzverkehrs |
