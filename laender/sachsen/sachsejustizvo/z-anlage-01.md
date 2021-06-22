@@ -8,3 +8,7 @@ Nummer | Gericht
 4. | Arbeitsgericht Leipzig
 5. | Sächsisches Landesarbeitsgericht
 6. | Arbeitsgericht Chemnitz
+7. | Landgericht Zwickau
+8. | Landgericht Chemnitz
+9. | Landgericht Görlitz
+10. | Oberlandesgericht Dresden
