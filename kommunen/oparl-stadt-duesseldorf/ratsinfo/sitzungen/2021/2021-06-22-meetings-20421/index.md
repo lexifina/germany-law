@@ -1,0 +1,82 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-22T17:00:00+02:00
+- Ende: 2021-06-22T19:00:00+02:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20421
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20421
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415088.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415088.pdf
+- Wortprotokoll: digitales Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415088.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 08.06.2021 eingegangene Fragen. - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25.05.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Baugenehmigung Am Tiefenberg 23 - Neubau eines Einfamilienhauses mit Garage - - mehrheitlich beschlossen
+- TOP 4.7: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Marie-Curie-Gymnasium, Gräulinger Straße 15 – Umbau und Erweiterung" - Empfehlung einstimmig beschlossen
+- TOP 4.8: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 4.9: Terminverschiebung für den Spezialmarkt "Landpartie Grafenberg" auf der Galopprennbahn Grafenberg im Jahre 2021 - Empfehlung einstimmig beschlossen
+- TOP 4.10: Pillebach - naturnaher Gewässerausbau - Informationsvorlage - - zur Kenntnis genommen
+- TOP 4.11: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2022 - - zur Kenntnis genommen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2021) - - einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - einstimmig beschlossen
+- TOP 4.14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.15: Endbericht zu den Fußverkehrschecks - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Abfallbehälter am Neusser Tor - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.2: Baumpflanzungen Gerresheimer Friedhof - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.3: Blühwiesen - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.4: Tempo 30 Gräulinger Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.5: Metzkauser Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Öffnung der Fußgängerzone Flachsmarkt für den Radverkehr - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Überbrückungshilfe Quartiersmanager im „dasRund“ - Antrag der Fraktionen von CDU, Bündnis 90/Die Grünen, FDP und SPD - - mehrheitlich beschlossen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: „Essbare Stadt“ bei Spielplatzgestaltungen mit berücksichtigen - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.11: Tempo 30 Zone Wittelsbachstraße / Hardtstraße - Antrag der FDP-Fraktion - - vertagt
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Sicherung des Wasserstands im Ostparkweiher - Antrag der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - mehrheitlich beschlossen
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.16: Kooperation mit der AWO zum Erhalt des Quartiersmanagers im „Rund“ - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 5.17: Sicherung der Wassertiefe im Ostparkweiher - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.18: Radfahren entgegen Einbahnstraße in der Geibelstraße - Antrag der CDU-Fraktion - - vertagt
+- TOP 5.19: Einrichtung eines Parkplatzes Ludenberger Straße 64 - 88 - Antrag der CDU-Fraktion - - vertagt
+- TOP 5.20: Maßnahmen zum Verkehrsmanagement in der Hardtstraße nach Wohnraumverdichtung in der Ludenberger Str. 15 und 17 - Antrag der CDU-Fraktion - - vertagt
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Durchfahrt Anliegerstraße Hallesche Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.5: Verkehrssituation Höherhofstraße/Heckteichstraße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Parkplätze Quellenbusch - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Heimatsommer 2021 - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7.2: Außengastronomie im „Corona Sommer“ in Gerresheim: Benderstraße, Altstadt, Heyestraße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.3: Vertical Farming in Neubauplanungen im Stadtbezirk 7 - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Warnampel Gleisüberquerung Am Wallgraben/Haltestelle „Gerresheim Rathaus“ - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Freigabe der Fußgängerbrücke "Unter den Eichen" für den Radverkehr - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 8.2: Pumptrack-Anlage - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.3: Markierung für Radfahrer auf der Isenburgstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.4: Hinweisschild zum Fußweg Richtung Wildpark/Rennbahn - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.5: Baumschutz und Neupflanzungen - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.6: Einrichtung von drei Parkplätzen mit zeitlicher Begrenzung - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.7: Tempo 30 auf der Graf-Recke-Straße - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.8: Gehwegparken Heyestraße 76 legalisieren - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.9: Einrichtung einer Stopp-Straße Im Brühl Einmündung Morper Straße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
