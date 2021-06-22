@@ -1,0 +1,65 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-06-22T17:00:00+02:00
+- Ende: 2021-06-22T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12447
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12447
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00483594.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 10.03.2021
+- TOP 4: Eingänge/Mitteilungen
+- TOP 4.1: Vorstellung des Amtes für Finanzen und Beteiligungen
+- TOP 4.2: Bericht des Amtes für Wohnungswesen und Quartiersentwicklung zur Tätigkeit als Aufsichtsbehörde nach dem Wohnungsaufsichtsgesetz NRW (WAG)
+- TOP 4.3: Sonstige Mitteilungen
+- TOP 5: Wohnen
+- TOP 5.1: Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau (Benennungsrechtssatzung) - einstimmig beschlossen
+- TOP 6: Liegenschaften
+- TOP 6.1: Am Mittelhafen: Kai und Stichwege (B-Plan Nr. 541 Teilbereich A) - einstimmig beschlossen
+- TOP 6.2: Ausweitung der städtischen Wohnungs- und Grundstücksvermittlung auf aktive Mitglieder der Freiwilligen Feuerwehr Münster und Mitglieder des Katastrophenschutzes in Münster - einstimmig beschlossen
+- TOP 6.2.1: Ausweitung der städtischen Wohnungs- und Grundstücksvermittlung auf aktive Mitglieder der Freiwilligen Feuerwehr Münster und Mitglieder des Katastrophenschutzes in Münster
+- TOP 6.3: Bericht Ökologische Verpachtung - zur Kenntnis genommen
+- TOP 6.4: Verpachtung einer städtischen landwirtschaftlichen Ackerfläche am Reiner-Klimke-Weg, 48163 Münster, Stadtbezirk Münster-West, für ökologischen Landbau - mehrheitlich beschlossen
+- TOP 6.5: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster - von der Tagesordnung abgesetzt
+- TOP 7: Finanzen
+- TOP 7.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2020 - einstimmig beschlossen
+- TOP 7.2: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - zurückgezogen
+- TOP 7.3: Maßnahmen zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 7.4: Auslastung und Ausbau der münsteraner Kläranlagen: - einstimmig beschlossen
+- TOP 7.5: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (2021 - 2026) der Stadt Münster - einstimmig beschlossen
+- TOP 7.6: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2020 - einstimmig beschlossen
+- TOP 7.7: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Kiesekampweg im Stadtteil Coerde, Bezirk Nord - einstimmig beschlossen
+- TOP 7.8: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngbiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde - einstimmig geändert beschlossen
+- TOP 7.9: Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen: Anpassung an Vorgaben des Fördermittelgebers - einstimmig beschlossen
+- TOP 7.10: Digitallabor: Aufnahme des Betriebes in 2021 - zur Kenntnis genommen
+- TOP 7.11: Kommunales Integrationsmanagement NRW - Teilnahme der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 7.12: Satzung zur Änderung der Schulordnung und Gebührensatzung für die Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 7.13: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten - einstimmig beschlossen
+- TOP 7.13.1: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten
+- TOP 7.14: Bezuschussung der Anschaffung von Stoffwindeln - von der Tagesordnung abgesetzt
+- TOP 7.15: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2020 - einstimmig beschlossen
+- TOP 7.16: Neubau einer zweizügigen Grundschule mit der Option zur Erweiterung zur Dreizügigkeit und Neubau einer Zweifachsporthalle in Sprakel - einstimmig beschlossen
+- TOP 7.16.1: Neubau einer zweizügigen Grundschule mit der Option zur Erweiterung zur Dreizügigkeit und Neubau einer Zweifachsporthalle in Sprakel
+- TOP 7.17: Erweiterung der Pleisterschule zur vollen Zweizügigkeit - einstimmig beschlossen
+- TOP 7.17.1: Erweiterung der Pleisterschule zur vollen Zweizügigkeit
+- TOP 7.18: Wirtschaftsplan 2021 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 7.19: Entwicklung der städtischen Finanzlage - einstimmig beschlossen
+- TOP 7.20: Zeitliche Befristungen von städtischen Zuschüssen und Kostenerstattungen an Dritte - einstimmig beschlossen
+- TOP 7.21: Jahresabschluss 2020 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 7.22: Jahresabschluss 2020 der KonvOY GmbH (KonvOY) - einstimmig beschlossen
+- TOP 7.23: Erhöhung des Stammkapitals der NRW.URBAN Kommunale Entwicklung GmbH (NRW.URBAN KE) - einstimmig beschlossen
+- TOP 7.24: Bericht über die Beteiligungen der Stadt Münster im Jahr 2019 (Beteiligungsbericht 2019) - zur Kenntnis genommen
+- TOP 7.25: Jahresabschluss 2020 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 7.26: Jahresabschluss 2020 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 7.27: Schulden- und Liquiditätsbericht 2020 - zur Kenntnis genommen
+- TOP 8: Wirtschaft
+- TOP 8.1: 5G Mobilfunk-Versorgung im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 9: Verschiedenes
