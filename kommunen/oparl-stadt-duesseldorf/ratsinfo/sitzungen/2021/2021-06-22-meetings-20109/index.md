@@ -1,0 +1,60 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-22T17:10:00+02:00
+- Ende: 2021-06-22T19:40:00+02:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20109
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20109
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415117.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415117.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415117.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Projekt "i-Punkt Arbeit" - Berichterstattung durch Vertreter*innen der AWO - - zur Kenntnis genommen
+- TOP 5.2: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 5.3: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 5.4: Wilhelm-Kreis-Straße 2, Nutzungsänderung Autohaus in Verein Migrations-Selbsthilfe - einstimmig beschlossen
+- TOP 5.5: Verfügungsmittel der BV 10, Zuschuss an die KGS Josef-Kleesattel-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Helferkreis für Flüchtlinge Garath/Hellerhof - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.7: Festlegung des Trassenverlaufs des Radschnellwegs Neuss, Düsseldorf und Langenfeld im Rahmen des Linienbestimmungsverfahrens - Empfehlung einstimmig abgelehnt
+- TOP 5.8: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste A, Haushalt 2021 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.9: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste A, Haushalt 2021 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: „Nebenzentren und Wohnen“ im Prozess Garath 2.0 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Planung von Park+Ride Plätze - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7.5: Realisierung Schulwegsicherung Koblenzer Str. zum Schuljahresbeginn 2021/2022 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Verkehrsregulierung auf dem Dammweg zwischen Hellerhof und Urdenbach - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8.2: Fortschreibung Garath 2.0 – Treffpunkte für Jugendliche - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 8.3: Fortschreibung Garath 2.0 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 8.4: Schulwegsicherung Rostocker Straße/ Neustrelitzer Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.5: Vorstellung Wohnungstauschbörse in der Bezirksvertretung 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.6: Fortschreibung Garath 2.0 – Interdisziplinäres Beratungszentrum - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Einrichtung von Fußgängerüberwegen gem. StVO Paragraph 26 im Bezirk 10 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Farbige Gestaltung der Verteilerkästen für Strom,Telefon und Internet in Hellerhof - Informationsvorlage zum Beschluss BV10/ 060/2020 vom 10.06.2020 - - zur Kenntnis genommen
+- TOP 9.2: Änderung des Bebauungsplanes G267/07 in Garath - Informationsvorlage zum Beschluss BV10/082/2021 vom 27.04.2021 - - zur Kenntnis genommen
+- TOP 9.3: Der Klimawandel hat Auswirkungen auf die Bäume – Bedeutung und Konsequenz für den Baumbestand in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 9.4: Ersatz-und Neupflanzungen von Bäumen forcieren- Informationsvorlage zum Beschluss BV10/105/2021 vom 18.05.2021 - - zur Kenntnis genommen
+- TOP 9.5: Vergrößerung der Baumscheiben von Straßenbäumen - Informationsvorlage zum Beschluss BV10/111/2021 vom 18.05.2021 - - zur Kenntnis genommen
+- TOP 9.6: Einladung eines Vertreters der Stadtwerke - Informationsvorlage zum Beschluss BV10/070/2020 vom 24.03.2020 - - zur Kenntnis genommen
+- TOP 9.7: Einsatzmöglichkeiten von Photovoltaikanlagen an Reihenhausriegeln und an Mehrfamilienhäusern im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/099/2021 vom 18.05.2021 - - zur Kenntnis genommen
+- TOP 9.8: Berücksichtigung der Interessen des Stadtbezirks 10 und der dort lebenden Menschen bei Konzepten und Einzelstrategien zum Thema Mobilität; hier insbesondere beim Ausbau der Elektromobilität - zur Kenntnis genommen
+- TOP 10: Verschiedenes
