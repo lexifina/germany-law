@@ -1,0 +1,67 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-22T16:00:00+02:00
+- Ende: 2021-06-22T19:45:00+02:00
+- Ort: !!!  geänderter Sitzungsort  !!! Thomas-Edison-Realschule, Schlüterstraße 18-20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20499
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20499
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415306.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415306.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415306.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/004/2021 vom 18.05.2021 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung mehrheitlich beschlossen
+- TOP 5: Fritz-Wüst-Straße 20, Neubau eines Mehrfamilienhauses mit Tiefgarage - mehrheitlich abgelehnt
+- TOP 6: Heinrichstraße 24, Grunerstraße 133, Hallbergstraße 28, Umbau und Sanierung des bestehenden Büro- und Verwaltungsgebäudes - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2021 (Liste B) - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 8: Briefkasten Kinderwünsche - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 9: Schaustellerwagen - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 10: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 11: Prüfung sichere Schulwege zur Paulusschule - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 12: Neugestaltung des Platzes vor dem Haus Kühlwetterstraße 1 - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 13: Bezirksbezogene Haushaltsmittel für die Publikation „Earth Is Blue“ - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 14: Zuwendungsantrag zur Unterstützung von Aktionen zum 40. Kiefernstraßen-Jubiläum - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 15: Zuwendung für das Jubiläum 40 Jahre Kiefernstraße aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 16: Zuwendungsantrag für die Aufstellung neuer Stelen durch die Initiative FlingerPfad - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 17: Zuwendung an die Initiative Flinger Pfad zur Errichtung zweier Stelen aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel für 2 Stelen für den Flinger Pfad - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Vorstellung der amtlichen Kriminalstatistiken 2019 und 2020 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 23: Sonnenschutz für den Wasserspielplatz in Grafental - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 24: Fußgängerüberwege in Grafental - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Bauvorhaben Otto-Petersen-Straße 40,42 - Anfrage der CDU-Fraktion
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Einführung von Tempo 30 auf der gesamten Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Gleisanlage beginnend südlich der Birkenstraße 1 - Anfrage der FDP-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 31: Ortsumgehung Flingern - Anfrage der FDP-Fraktion
+- TOP 32: Sicherung der Qualität von Sanierungsmaßnahmen für Radwege im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Öffentliche Elektroladesäuleninfrastruktur im Stadtbezirk 2 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Untervermietungen auf der Kiefernstraße - Anfrage der CDU-Fraktion
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 41: Anpassung der Bordsteinabsenkung an der Ecke Dorotheenstraße/Birkenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/047/2021 - zur Kenntnis genommen
+- TOP 42: Brehmschule Schulwegsicherung - Beschluss der Bezirksvertretung 2, Vorlage BV2/125/2020 - zur Kenntnis genommen
+- TOP 43: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Finanzierung der Maßnahme Vielplatz Flurstraße - einstimmig beschlossen
