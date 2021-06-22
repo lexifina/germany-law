@@ -1,0 +1,66 @@
+# Haupt-, Personal- und Gleichstellungsausschuss (8. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-06-22T17:06:00+02:00
+- Ende: 2021-06-22T17:29:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-330
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW8VfjnqZ6UGbgC2q9l0F0c
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6413
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUm5b5EqGJG5i2K2iC9KE7GF2mpuNFiiAgujiWcB5DOr/Bekanntmachung_Haupt--_Personal-_und_Gleichstellungsausschuss_22.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXPlQmr5Uu_l8pukX1lT7f8mGxEtEw93leuaJrl8rDoL/Oeffentliche_Niederschrift_Haupt--_Personal-_und_Gleichstellungsausschuss_22.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Aktuelle Informationen zur Feuerwehr Solingen
+- TOP 1.1.1: Situation Wochenmarkt
+- TOP 1.1.2: Impfgeschehen in Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 6. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 04.05.2021
+- TOP 4.: Protokoll über die 7. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 06.05.2021
+- TOP 5.: Einrichtung eines durchgehenden Radweges zwischen Merscheid und Aufderhöhe, insbesondere an den Schwarzen Pfählen Anregung nach § 24 GO NRW
+- TOP 6.: Anregung nach § 24 Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) – hier: Erhalt der Kleingartenanlage am Bussche-Kessel-Weg Bericht zum Sachstand und Überweisung an die zuständigen Gremien
+- TOP 7.: Bildung und Besetzung des Kreiswahlausschusses für den Wahlkreis 35 Solingen I und den Wahlkreis 34 Wuppertal III – Solingen II
+- TOP 7.1: Bildung und Besetzung des Kreiswahlausschusses für den Wahlkreis 35 Solingen I und den Wahlkreis 34 Wuppertal III – Solingen II Antrag der CDU Ratsfraktion vom 16.06.2021
+- TOP 8.: Benennung eines Mitgliedes der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 9.: Vertretung der Stadt Solingen in der „Strategic Policy Group“ so-wie in der Mitgliederversammlung im Rahmen der Mitgliedschaft im Städtenetzwerk EUROTOWNS Benennung eines Vertreters der Kommunalpolitik
+- TOP 10.: Wartezeit vor dem Ausländeramt Gemeinsamer Antrag von der Internationalen Liste Solingen e.V., der Demokratischen Liste, des Internationalen Frauenzentrums Solingen e.V. und der Ratsfraktion Bündnis 90/Die Grünen vom 02.05.2021
+- TOP 11.: Verkaufsoffene Sonntage 2021
+- TOP 12.: Kündigung der Mitgliedschaft im Verein „Bergisches Studieninstitut für kommunale Verwaltung e.V.“
+- TOP 13.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2020 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht Verwendung des Jahresüberschusses der Sparkasse
+- TOP 14.: IV. Änderung der Betriebssatzung für die Technischen Betriebe
+- TOP 15.: I. Änderung der Betriebssatzung für den Eigenbetrieb Wasserversorgung Solingen
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.1.1: Erfolgreiche Rezertifizierung im European Energy Award und Auszeichnung Solingens als Energie- und Klimaschutzkommune
+- TOP 16.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 6. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 04.05.2021
+- TOP 4.: Protokoll über die 7. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 06.05.2021
+- TOP 5.: Bestellung der Leitung des Stadtdienstes Integration
+- TOP 6.: Bestellung der Leitung des Stadtdienstes Planung, Mobilität und Denkmalpflege
+- TOP 7.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Stöcken 17)
+- TOP 7.1: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Stöcken 17)
+- TOP 8.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Grundstücksverkauf (Dycker Feld)
+- TOP 9.: Jahresabschluss 2020 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 10.: Jahresabschluss 2020 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 11.: Neue Effizienz gemeinnützige GmbH - Bestellung der Geschäftsführung
+- TOP 12.: Neue Effizienz gemeinnützige GmbH - Bestellung von Prokuristen
+- TOP 13.: Jahresabschluss 2020 der Neue Effizienz GmbH
+- TOP 14.: Neue Effizienz gemeinnützige GmbH - Bestellung des Abschlussprüfers für das Jahr 2021
+- TOP 15.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG - Änderung des Gesellschaftsvertrages
+- TOP 16.: Jahresabschluss 2020 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 17.: Jahresabschluss 2019 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 18.: Wirtschaftsplan 2021 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 19.: Verschiedenes
+- TOP 19.1: Mitteilungen der Verwaltung
+- TOP 19.1.1: Beschaffung von fünf Beatmungsgeräten für neue Rettungswagen der Feuerwehr
+- TOP 19.1.2: Beschaffung von sechs Defibrillatoren für neue Rettungswagen der Feuerwehr
+- TOP 19.1.3: Situation Wochenmarkt
+- TOP 19.2: Anfragen an die Verwaltung
