@@ -1,0 +1,116 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-06-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6281411
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6281411
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2021/22 500,00 € / Az. 0262.0-24-0360
+- TOP 2.2.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen Filmprojekt München in den 1950er Jahren in 2022/23 500,00 € / Az. 0262.0-24-0361
+- TOP 2.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Mobile Spielaktionen: Schatzsucher und Sachenmacher" im August 2021 2.797,50 € / Az. 0262.0-24-0367
+- TOP 2.4.: (E) Stadtbezirksbudget DLRG OV München-Mitte / Wasserrettungsstation am Fasaneriesee Anschaffung eines Seabob Rescue Geräts 14.758 € / Az. 0262.0-24-0368
+- TOP 2.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B aus München für München vom 27.06. - 30.11.2021 9.499,00 € / Az. 0262.0-24-0369
+- TOP 2.6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Widmung von einer Teilstrecke der Meineckestraße und von einer Teilstrecke der Goerdelerstraße
+- TOP 2.7.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 09.04.20218; Genehmigung einer Freischankfläche, Leberblümchenstr. 20, 80995 München
+- TOP 3.1.: Kunst am Feldmochinger See; Graffitibemalung für das Toilettenhäuschen am Feldmochinger See
+- TOP 3.2.: Pflanzung schattenspendender Bäume am Spielplatz im Park zwischen Schittgabler- und Wilhelmine-Reichard-Straße
+- TOP 3.3.: Einrichtung eines durchgehenden absoluten Haltverbotes auf der Ostseite Rainfarnstr. 72 bis Rainfarnstr. 64
+- TOP 3.4.: Schließung der Abkürzung Wilhelmine-Reichard-Straße und Schittgablerstraße ab Löwenzahnweg durch bauliche Maßnahmen für Motorfahrzeuge
+- TOP 3.5.: Bau von zwei Parkbuchten auf dem Gehweg des Kindergartens Riemerschmidstraße als "Bring-In" und Abholspur für die Eltern, die ihre Kinder mit dem Kfz anfahren....
+- TOP 3.6.: Gymnasium im 24. Stadtbezirk; Übertrittsverfahren, Ausbau der Raumkapazitäten, etc.
+- TOP 3.7.: Aufkleber für die Mülleimer im Park, am Spielplatz sowie am Sportplatz Wilhelmine-Reichard-Straße/Schittgablerstraße, kürzerer Turnus für die Leerungen
+- TOP 3.8.: Realisierung der Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse (Sitzungsvorlage Nr. 14-20 / V 07889)
+- TOP 3.9.: Anfrage: KiTa/Hort Lerchenauer Str. 322 - Unterbringung der Kinder zum Schuljahr 2021/2022
+- TOP 3.10.: Gefahr der Straßensicherheit im Kurvenbereich der Heppstraße
+- TOP 3.11.: Spielplätze Hasenbergl-Nord; Weiterleitung der Ergebnisse der Spielplatzbegehungen, Beseitigung der Mängel
+- TOP 3.12.: Verbesserung des Umsturzschutzes der mobilen Toiletten
+- TOP 3.13.: Zunehmend katastrophale Parkplatzsituation im Wohngebiet östlich der Bahntrasse Feldmoching
+- TOP 3.14.: Parkplatzsituation Grohmannstraße; Ausweisung von mehr Parkflächen
+- TOP 3.15.: Parkplatznot insbesondere in der Blodigstraße und Linkstraße
+- TOP 3.16.: Baumerhalt Feldmochinger Str. 206
+- TOP 3.17.: Verbesserung der Aufenthaltsqualität am Walter-Sedlmayr-Platz
+- TOP 3.18.: Anfrage: Schwimmhalle des Augustinums; Kostenübernahme für den Schwimmunterricht an der GS Eduard-Spranger-Str.
+- TOP 3.19.: Schwimmhalle des Augustinums; Schwimmunterricht weiterhin ermöglichen
+- TOP 3.20.: Bebauung am Lerchenauer Feld; geplantes sechszügiges Gymnasium mit mindestens acht Zügen neu konzipieren
+- TOP 5.1.1.: Adlerfarnstr. 3
+- TOP 5.1.2.: Schneeglöckchenstr. 130
+- TOP 5.1.3.: Berberitzenstr. 48 a
+- TOP 5.1.4.: Hardenstr., Fl.Nr. 2840/8, Gemarkung Feldmoching
+- TOP 5.1.5.: Hainbuchenstr. 11 (Haus 1 - 3)
+- TOP 5.1.6.: Azaleenstr. 21
+- TOP 5.1.7.: Dahlienstr. 34
+- TOP 5.2.1.: Adlerfarnstr. 3
+- TOP 5.3.1.: Drei Veranstaltungen unter freiem Himmel in zwei städt. Grünanlagen und auf Privatgrund: Kunstaktion "geheiratet-ungefeiert", Parkplatz Thelottstr. 28 (PG), Dülferanger (GA) und Goldschmiedplatz (GA), am 09.07.2021, 16.07.2021 und 22.07.2021
+- TOP 5.3.2.: Veranstaltung unter freiem Himmel in einer städtischen Grünanlage: Mobile Spieleaktion, Skabiosenplatz, 09.08. - 13.08.2021
+- TOP 5.4.1.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus, Stadratsantrag Nr. 20-26 / A 01213 der AfD vom 18.03.2021
+- TOP 5.4.2.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse, BA-Antrag Nr. 20-26 / B 00475 des Bezirksausschusses des Stadtbezirks 21 - Pasing-Obermenzing vom 28.07.2020
+- TOP 5.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO; Einrichtung eines personenbezogenen Behindertenparkplatzes in der Linkstraße
+- TOP 5.4.4.: Erneute Anhörung zum Vollzug der Beschlussvorlage Neubewertung des Lämschutzes an den Bestandsgleisen im Münchner Norden, BVE-Nr. 14-20 / E 02560 vom 02.04.2019 (Beschluss BA 24 vom 17.12.2019, SV-Nr. 14-20 / V16196)
+- TOP 5.4.5.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben: „Neubau zweier Eisenbahnüberführungen bei Bahn- km 11,913 und Bahn-km 12,183 im Zuge der Bahnübergangsbeseitigung in Bahn-km 12,183 mit Anpassung der Straßen und Wege", Bahn-km 11,913 bis 12,183 der Strecke 5500 München - Regensburg in der Landeshauptstadt München
+- TOP 5.4.6.: Beschlussentwurf Radwegrückbau in Tempo-30-Zonen
+- TOP 5.4.7.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Aufhebung der abknickenden Vorfahrt an der Lassallestr./Franz-Fackler-Str. b) Lassallestr./Max-Wönner-Str; Zeichen 222 StVO und Zeichen 625-10 StVO im Zuge der Errichtung von zwei Verkehrsinseln durch das Baureferat
+- TOP 5.4.8.: Baumfällungen (BaumSchVO): Lerchenauer Str. 202
+- TOP 5.4.9.: Baumfällungen (BaumSchVO): Regattaweg 66 (LSG Schwarzhölzl)
+- TOP 5.4.10.: (E) Neubewertung des Lärmschutzes an Bestandsgleisen im Münchner Norden Empfehlung Nr. 14-20 / E 02560 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 02.04.2019
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 1.: Eilantrag zur sofortigen Verbesserung der Verkehrssituation für die Bebauungsgebiete Hochmuttinger Straße und Rahein-, Ratholdstraße; Baustellenlogistikkonzept auch für alle anderen Bebauungsgebiete im 24. Stadtbezirk
+- TOP 2.: Verkehrliche Infrastruktur Lerchenauer Feld
+- TOP 3.: Anfrage: Information des BA 24 über die Situation der Ausgleichsfläche bzgl. eines realisierten Bauvorhabens am Moosacher Bahnhof auf der Fläche westlich der Lassallestr. und östlich der Verlängerung der Lahntalstr.
+- TOP 4.: Ausweisung von Quartieren mit Gartenstadtcharakter im 24. Stadtbezirk - Zwischennachricht
+- TOP 5.: Radwegeverbindung im Nord-Süd-Grünzug - Zwischennachricht/Terminverlängerung
+- TOP 6.: Einrichtung von Sitzgelegenheiten an der Bushaltestelle Paidarstraße
+- TOP 7.: Erneute Verkehrszählung an der rechtwinkligen T-Mündung Wilhelmine-Reichard-Straße/Lassallestraße sowie Bereitstellung der Unfallstatistik vom 01.02.2018 – 01.08.2020
+- TOP 8.: Einrichtung eines Langzeitparkverbotes zwischen den Anwesen Am Blütenanger 8 und 10
+- TOP 9.: a) Verkehrslage Franz-Sperr-Weg; Erklärung zur Einbahnstraße - Zwischennachricht b) Erneuerung der Straßenmarkierungen an der Kreuzung Max-Wönner-Str./Lassallestr.
+- TOP 10.: Maßnahmen zur Verkehrsberuhigung in der Ponkratzstr. in Feldmoching
+- TOP 11.: Änderung der Wendeplatte in der Leonhard-Bugl-Straße/Gutmannstraße
+- TOP 12.: Mitteilung Sachstand zum Ausbau der Lerchen-/Herberg-/Pflaumstraße (voraussichtl. 2023); hier: vorzeitiger Ausbau, provisorische Maßnahmen
+- TOP 13.: Ratoldstr. / Malvenweg / Weitlstr. - Parkraumsituation a) "Parken nur für PKWs" am Malvenweg b) Parken auf städtischem Grund
+- TOP 14.: Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Benennung von sechs Straßen im Baugebiet zwischen Hochmuttinger Straße, Herbergstraße und Paul-Preuß-Straße; Beschluss des Kommunalausschusses vom 04.02.2021 (Sitzungsvorlage Nr. 20-26 / V 02319)
+- TOP 15.: Friedhof Felmoching; Parken Am Gottesackerweg Hier: Friedhofsparkplatz
+- TOP 16.: Aufstellung von Wertstoffcontainern an der Wilhelmine-Reichard-Straße
+- TOP 17.: Bauvorhaben: Morrigglstr. 12 Vorabstellungnahme durch BA-Vorsitzenden gem. Empfehlung des UA BKUBD
+- TOP 18.: Bauvorhaben: Dülferstr. 11 - 17 / Ittlingerstr. 40 - 80 (TEKTUR) Vorabstellungnahme durch BA-Vorsitzenden gem. Empfehlung des UA BKUBD
+- TOP 19.: Veranstaltung im Freien in einer städtischer Grünanlage; Zirkus Sorento Tour 21, Dülferanger, 28.06. – 12.07.2021
+- TOP 20.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Beschilderung Parkplatz Lassallestraße b) Verlängerung des absoluten Haltverbots Am Blütenanger über die Zufahrt Anwesen 8
+- TOP 21.: Unveränderte Fortführung eines Gaststättenbetriebes; Karlsfelder Str. 209 g
+- TOP 22.: (U) Beschluss zur Versorgung wohungsloser Haushalte am Standort Karlsfelder Straße 25, 80995 München (Flst.-Nr. 4057/2, Gemarkung Feldmoching) 24. Stadtbezirk - Feldmoching-Hasenbergl
+- TOP 23.: (U) Mehrjahresinvestionsprogramm (MIP) 2020 - 2024 1. Investionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 24.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen - Ittlingerstraße 36 - Eduard-Spranger-Straße 15
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.: (U) Öffentlicher Raum für alle: Einrichtung von "Stadtterrassen" ermöglichen
+- TOP 27.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/59 Raheinstraße (südlich und westlich), Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 24 Feldmoching - Hasenbergl
+- TOP 28.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 29.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 30.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 31.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.: (U) A) Bebauungsplan mit Grünordnung Nr. 2108a Raheinstraße (südlich und westlich) Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich) (Teilverdrängung der Bebauungspläne Nrn. 36c, 825 und 1119) - Billigungsbeschluss - B) Anträge und Empfehlungen - Neubauten Ratold/Raheinstraße 1. Einhaltung des Entwurfs der Architekten (hinsichtlich Obergrenzen Anzahl Wohnungen, Höhe der Gebäude) 2. Mehr Parkplätze 3. Schallschutzmaßnahme an der Ostseite der Bahngleise Empfehlung Nr. 14–20 / E 01405 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl am 30.03.2017 - Erhalt der Grünfläche (Biotop) zwischen der Raheinstraße und der Bahn, nördlich von der Dülferstraße Empfehlung Nr. 14–20 / E 02553 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl am 02.04.2019 - Bau einer Fuß- und Radwegbrücke über die Herbergstraße auf der Ostseite der Bahnlinie Antrag Nr. 14–20 / B 06720 des Bezirksausschusses des Stadtbezirkes 24 – Feldmoching-Hasenbergl vom 10.09.2019
+- TOP 33.: Stellungnahme zur Anhörung „Sommer in der Stadt 2021“ Vorabstellungnahme durch BA-Vorsitzenden gem. Empfehlung des UA K/B
+- TOP 3.: Anträge
