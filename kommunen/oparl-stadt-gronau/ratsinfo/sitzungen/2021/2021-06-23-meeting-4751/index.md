@@ -1,0 +1,57 @@
+# Ausschuss für Planen, Bauen und Denkmalschutz (4. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-06-23T18:03:00+02:00
+- Ende: 2021-06-23T20:19:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfnYjv3TnCgxVYbzTybzcSw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4751
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Planen, Bauen und Denkmalschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYr93FYfPsbnW8oLjTlZ4QIKmQla4tTgiGfNz767fk5T/Oeffentliche_Niederschrift_Ausschuss_fuer_Planen-_Bauen_und_Denkmalschutz_23.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 1.1: Antrag zur Geschäftsordnung
+- TOP 1.2: Antrag zur Geschäftsordnung: TO Punkt 20
+- TOP 2.: Anträge der Fraktionen
+- TOP 2.1: Anträge der Fraktionen Antrag der Fraktion Pro! Bürgerschaft vom 30.05.2021 Vorläufige Unterschutzstellung gem. § 4 Denkmalschutzgesetz NRW des Verwaltungsgebäudes der Baumwollspinnerei Germania an der Vennstraße - Einstimmig, 2 Enthaltungen
+- TOP 2.2: Anträge der Fraktionen Antrag der WEG-Fraktion vom 27.05.2021 Baulandqualität am gegenwärtigen Aldi-Standort in Epe - Einstimmig, 0 Enthaltungen
+- TOP 3.: Raumprogramm Buterlandschule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 3.1: Raumprogramm Buterlandschule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 4.: Buterlandschule - Vorstellung der hochbaulichen Konzeption unter Berücksichtigung der historischen Fassade - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 4.1: Buterlandschule - Vorstellung der hochbaulichen Konzeption unter Berücksichtigung der historischen Fassade - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 5.: Raumprogramm Bernhard-Overberg-Schule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 5.1: Raumprogramm Bernhard-Overberg-Schule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 6.: Raumprogramm Martin-Luther-Schule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 6.1: Raumprogramm Martin-Luther-Schule - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 7.: Raumprogramm "Städtische neue Grundschule im Stadtwesten" - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 8.: Vorstellung neuer Raumkonzepte für das Werner-von-Siemens-Gymnasium - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 9.: Sachdarstellung zum Thema "Sicherstellung der Raumluftqualität in Liegenschaften der Stadt Gronau" - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 10.: Beschlussvorschläge zur Quartiersentwicklung am Kurt-Schumacher-Platz - 6 Jastimmen, 9 Neinstimmen, 1 Enthaltungen
+- TOP 10.1: Beschlussvorschläge zur Quartiersentwicklung am Kurt-Schumacher-Platz Alternativer Umgang mit dem Bodendenkmal Bergfried Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 15/2019 Bürgerantrag „Zeitfenster auf den Ursprung Gronaus“ des Arbeitskreises „Ortsbild und Denkmalpflege“
+- TOP 11.: Förmliche Festlegung des Bereichs Innenstadt Gronau als Stadtumbaugebiet gem. § 171 b BauGB - 14 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Sportgebiet Eper Bülten Vorstellung eines Vorschlags der Vereine FC Epe und TV Epe für die Planung der neuen Sportanlage
+- TOP 13.: Richtlinie der Stadt Gronau über die Gewährung von Zuwendungen zur Gestaltung von Fassaden in den innerstädtischen Bereichen der Stadtteile Gronau und Epe (Fassadenprogramm) - Einstimmig, 0 Enthaltungen
+- TOP 14.: Vorhabenbezogener Bebauungsplan "Wohnquartier an der Zollstraße", Stadtteil Gronau Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 172 "Kurzer Weg", 1. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 14 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 190 "Markenfort", Stadtteil Gronau Erarbeitung einer Plankonzeption für die Fortführung des Bebauungsplanverfahrens - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 194 "Bahnhofstraße - Teilbereich I", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - 14 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 199 "Östlich der Lennestraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 11 Jastimmen, 1 Neinstimmen, 4 Enthaltungen
+- TOP 19.: Aufstellung des Bebauungsplans Nr. 252 „Nördlich der Friedrichstraße“, Stadtteil Epe. (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 20.: 109. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Nördlich der Oststraße", Stadtteil Epe Bebauungsplan Nr. 253 "Nördlich der Oststraße", Stadtteil Epe - 7 Jastimmen, 8 Neinstimmen, 1 Enthaltungen
+- TOP 21.: Zustimmung zur Entwurfsplanung Neubau des Umkleidegebäudes mit Sanitäranlagen - Einstimmig, 1 Enthaltungen
+- TOP 22.: Neufassung/Fortschreibung des Einzelhandelskonzepts für die Stadt Gronau - 11 Jastimmen, 3 Neinstimmen, 2 Enthaltungen
+- TOP 23.: Wohnbauentwicklung für Gronau und Epe (Westf.) - eine strategische Aufgabe - Einstimmig, 2 Enthaltungen
+- TOP 23.1: Wohnbauentwicklung für Gronau und Epe (Westf.) - eine strategische Aufgabe Fragenkatalog der CDU-Fraktion
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 24.1: Baustofflieferung und Preissteigerungen
+- TOP 24.2: Anfrage zur Brücke
+- TOP 24.3: PV-Anlagen
+- TOP 25.: Anfragen
+- TOP 25.1: Eilermarkschule
+- TOP 25.2: Feuer- und Rettungswache
+- TOP 25.3: Baugenehmigung
