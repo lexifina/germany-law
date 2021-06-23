@@ -1,0 +1,54 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-06-23T17:00:00+02:00
+- Ende: 2021-06-23T19:50:00+02:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4442
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4442
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 24.03.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 21.04.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Pandemische Lage - Bericht der Verwaltung
+- TOP 6: Sofortprogramm zum Ausbau ungenutzter Dachräume im Wohnraum und Identifizierung von Aufstockungspotenzialen im Bestand - Ratsantrag Nr. 409/17 der Fraktion ‚Grüne‘ vom 02.11.2018 - ungeändert beschlossen
+- TOP 7: Vorhabenbezogener Bebauungsplan Nr. 998 – Vaalser Straße / Neuenhofer Weghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Bebauungsplan Nr. 923 - Campus West - hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8.1: Bebauungsplan Nr. 923 - Campus West - hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Aachener Konzept für mehr Stadtsauberkeit - zurückgezogen
+- TOP 10: Städteregion - Abrechnungsschlüssel für die anteilige Regionsumlage der Stadt Aachen - ungeändert beschlossen
+- TOP 11: Entwurf Gesamtabschluss 2018 - ungeändert beschlossen
+- TOP 12: Einrichtung von 3,0 Stellen in den Fachbereichen Wirtschaft, Wissenschaft, Digitalisierung und Europa (FB 02) und Stadtentwicklung, -planung und Mobilitätsinfrastruktur (FB 61) für die Regionalplanung und -entwicklung - ungeändert beschlossen
+- TOP 13: Stelleneinrichtungen, Verlängerung von kw-Vermerken und Umwandlung der Stellen für therapeutische Kräfte im Bereich der städtischen Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 14: Wahl des Naturschutzbeirates bei der unteren Naturschutzbehörde der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Änderung der Taxenordnung und Erhöhung des Taxentarifes;Antrag der Fachvereinigung Personenverkehr Nordrhein Taxi-Mietwagen vom 03.02.2021 - ungeändert beschlossen
+- TOP 16: Erweiterung der Zielfeldkarte zum Haushalt um das Thema "Klimaschutz" hier: Ratsantrag Nr. 565/17 der GRÜNE-Fraktion vom 25.11.2019 - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 18: Ratsanträge - zur Kenntnis genommen
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 19.1: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 19.2: Umbesetzung von Ausschüssen;hier Entsendung der Mitglieder des Seniorenrats - ungeändert beschlossen
+- TOP 19.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 08.06.2021 - ungeändert beschlossen
+- TOP 20: Mitteilungen der Verwaltung
+- TOP 21: Bericht über die Prüfung des Jahresabschlusses 2019 - ungeändert beschlossen
+- TOP 22: Initiative für Tempo 30 in Städtenhier: Tagesordnungsantrag der Fraktionen Grüne, SPD, Die Zukunft und Die Linke vom 09.06.2021 - geändert beschlossen
+- TOP 23: Öffnung der Außengastronomie bis 24.00 Uhr - zur Kenntnis genommen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
