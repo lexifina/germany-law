@@ -1,0 +1,7 @@
+# TOP 3: Vorlagen des Vorstehers
+
+- Sitzung: 53. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Die Sitzung wird NICHT im Stream übertragen, Besucher_innen können sich mit der Teilnehmerregistrierung anmelden. ACHTUNG begrenzte Anzahl (2021-06-23)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=62654
+- Ergebnis: erledigt
