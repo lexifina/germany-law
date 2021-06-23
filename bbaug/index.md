@@ -317,6 +317,7 @@
 
 - [§ 175 Allgemeines](0175.md)
 - [§ 176 Baugebot](0176.md)
+- [§ 176a Städtebauliches Entwicklungskonzept zur Stärkung der Innenentwicklung](0176a.md)
 - [§ 177 Modernisierungs- und Instandsetzungsgebot](0177.md)
 - [§ 178 Pflanzgebot](0178.md)
 - [§ 179 Rückbau- und Entsiegelungsgebot](0179.md)
@@ -364,6 +365,7 @@
 - [§ 200 Grundstücke; Rechte an Grundstücken; Baulandkataster](0200.md)
 - [§ 200a Ersatzmaßnahmen](0200a.md)
 - [§ 201 Begriff der Landwirtschaft](0201.md)
+- [§ 201a Verordnungsermächtigung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt](0201a.md)
 - [§ 202 Schutz des Mutterbodens](0202.md)
 
 #### Zweiter Abschnitt Zuständigkeiten
@@ -430,6 +432,7 @@
 - [§ 245a Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts](0245a.md)
 - [§ 245b Überleitungsvorschriften für Vorhaben im Außenbereich](0245b.md)
 - [§ 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt](0245c.md)
+- [§ 245d Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland](0245d.md)
 
 ### Zweiter Teil Schlussvorschriften
 
@@ -439,5 +442,6 @@
 - [§ 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland](0247.md)
 - [§ 248 Sonderregelung zur sparsamen und effizienten Nutzung von Energie](0248.md)
 - [§ 249 Sonderregelungen zur Windenergie](0249.md)
+- [§ 250 Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten](0250.md)
 - [Anlage 1 (zu § 2 Absatz 4 und den §§ 2a und 4c)](anlage-1.md)
 - [Anlage 2 (zu § 13a Absatz 1 Satz 2 Nummer 2)](anlage-2.md)

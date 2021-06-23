@@ -6,14 +6,17 @@
 | § 2 | Aufgaben der Jugendhilfe |
 | § 3 | Freie und öffentliche Jugendhilfe |
 | § 4 | Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe |
+| § 4a | Selbstorganisierte Zusammenschlüsse zur Selbstvertretung |
 | § 5 | Wunsch- und Wahlrecht |
 | § 6 | Geltungsbereich |
 | § 7 | Begriffsbestimmungen |
 | § 8 | Beteiligung von Kindern und Jugendlichen |
 | § 8a | Schutzauftrag bei Kindeswohlgefährdung |
 | § 8b | Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen |
-| § 9 | Grundrichtung der Erziehung, Gleichberechtigung von Mädchen und Jungen |
+| § 9 | Grundrichtung der Erziehung, Gleichberechtigung von jungen Menschen |
+| § 9a | Ombudsstellen |
 | § 10 | Verhältnis zu anderen Leistungen und Verpflichtungen |
+| § 10a | Beratung |
 |  |  |
 | Zweites Kapitel |
 | Leistungen der Jugendhilfe |
@@ -24,6 +27,7 @@
 | § 11 | Jugendarbeit |
 | § 12 | Förderung der Jugendverbände |
 | § 13 | Jugendsozialarbeit |
+| § 13a | Schulsozialarbeit |
 | § 14 | Erzieherischer Kinder- und Jugendschutz |
 | § 15 | Landesrechtsvorbehalt |
 |  |  |
@@ -67,7 +71,7 @@
 | Zweiter Unterabschnitt |
 | Eingliederungshilfe für seelisch behinderte Kinder |
 | und Jugendliche |
-| § 35a | Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche |
+| § 35a | Eingliederungshilfe für Kinder und Jugendliche mit seelischer Behinderung oder drohender seelischer Behinderung |
 |  |  |
 | Dritter Unterabschnitt |
 | Gemeinsame Vorschriften für die Hilfe |
@@ -75,14 +79,19 @@
 | für seelisch behinderte Kinder und Jugendliche |
 | § 36 | Mitwirkung, Hilfeplan |
 | § 36a | Steuerungsverantwortung, Selbstbeschaffung |
-| § 37 | Zusammenarbeit bei Hilfen außerhalb der eigenen Familie |
-| § 38 | Vermittlung bei der Ausübung der Personensorge |
+| § 36b | Zusammenarbeit beim Zuständigkeitsübergang |
+| § 37 | Beratung und Unterstützung der Eltern, Zusammenarbeit bei Hilfen außerhalb der eigenen Familie |
+| § 37a | Beratung und Unterstützung der Pflegeperson |
+| § 37b | Sicherung der Rechte von Kindern und Jugendlichen in Familienpflege |
+| § 37c | Ergänzende Bestimmungen zur Hilfeplanung bei Hilfen außerhalb der eigenen Familie |
+| § 38 | Zulässigkeit von Auslandsmaßnahmen |
 | § 39 | Leistungen zum Unterhalt des Kindes oder des Jugendlichen |
 | § 40 | Krankenhilfe |
 |  |  |
 | Vierter Unterabschnitt |
 | Hilfe für junge Volljährige |
-| § 41 | Hilfe für junge Volljährige, Nachbetreuung |
+| § 41 | Hilfe für junge Volljährige |
+| § 41a | Nachbetreuung |
 |  |  |
 | Drittes Kapitel |
 | Andere Aufgaben der Jugendhilfe |
@@ -104,8 +113,9 @@
 | § 43 | Erlaubnis zur Kindertagespflege |
 | § 44 | Erlaubnis zur Vollzeitpflege |
 | § 45 | Erlaubnis für den Betrieb einer Einrichtung |
-| § 46 | Örtliche Prüfung |
-| § 47 | Meldepflichten |
+| § 45a | Einrichtung |
+| § 46 | Prüfung vor Ort und nach Aktenlage |
+| § 47 | Melde- und Dokumentationspflichten, Aufbewahrung von Unterlagen |
 | § 48 | Tätigkeitsuntersagung |
 | § 48a | Sonstige betreute Wohnform |
 | § 49 | Landesrechtsvorbehalt |
@@ -127,7 +137,7 @@
 | § 56 | Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft |
 | § 57 | Mitteilungspflicht des Jugendamts |
 | § 58 | Gegenvormundschaft des Jugendamts |
-| § 58a | Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister |
+| § 58a | Auskunft über Alleinsorge aus dem Sorgeregister |
 |  |  |
 | Fünfter Abschnitt |
 | Beurkundung, vollstreckbare Urkunden |
@@ -165,7 +175,7 @@
 | § 74a | Finanzierung von Tageseinrichtungen für Kinder |
 | § 75 | Anerkennung als Träger der freien Jugendhilfe |
 | § 76 | Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben |
-| § 77 | Vereinbarungen über die Höhe der Kosten |
+| § 77 | Vereinbarungen über Kostenübernahme und Qualitätsentwicklung bei ambulanten Leistungen |
 | § 78 | Arbeitsgemeinschaften |
 |  |  |
 | Dritter Abschnitt |
@@ -190,7 +200,7 @@
 | Sechstes Kapitel |
 | Zentrale Aufgaben |
 | § 82 | Aufgaben der Länder |
-| § 83 | Aufgaben des Bundes, Bundesjugendkuratorium |
+| § 83 | Aufgaben des Bundes, sachverständige Beratung |
 | § 84 | Jugendbericht |
 |  |  |
 | Siebtes Kapitel |
@@ -216,7 +226,7 @@
 | § 87 | Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen |
 | § 87a | Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung |
 | § 87b | Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren |
-| § 87c | Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a |
+| § 87c | Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die schriftliche Auskunft nach § 58a |
 | § 87d | Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen |
 | § 87e | Örtliche Zuständigkeit für Beurkundung und Beglaubigung |
 |  |  |
@@ -285,6 +295,7 @@
 | § 105 | Strafvorschriften |
 |  |  |
 | Elftes Kapitel |
-| Schlussvorschriften |
+| Übergangs- und Schlussvorschriften |
 | § 106 | Einschränkung eines Grundrechts |
+| § 107 | Übergangsregelung |
 |  |  |

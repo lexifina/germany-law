@@ -29,13 +29,16 @@ Planzeichen für Bauleitpläne
 | 1.2.1. | Dorfgebiete(§ 5 BauNVO) |  |  |  | Braun mittel |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.2.2. | Mischgebiete(§ 6 BauNVO) |  |  |  | Braun mittel |
+| 1.2.2. | DörflicheWohngebiete(§ 5a BauNVO) |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.2.3. | Urbane Gebiete(§ 6a BauNVO) |  |  |  | Braun mittel |
+| 1.2.3. | Mischgebiete(§ 6 BauNVO) |  |  |  | Braun mittel |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.2.4. | Kerngebiete(§ 7 BauNVO) |  |  |  | Braun mittel |
+| 1.2.4. | Urbane Gebiete(§ 6a BauNVO) |  |  |  | Braun mittel |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 1.2.5. | Kerngebiete(§ 7 BauNVO) |  |  |  | Braun mittel |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -348,7 +351,7 @@ Planzeichen für Bauleitpläne
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 11. | Flächen für Aufschüttungen, Abgrabungen oder für die Gewinnung von Bodenschätzen(§ 5 Abs. 2 Nr.8 und Abs. 4, § 9 Abs. 1 Nr. 17 und Abs. 6 BauGB) |  |
+| 11. | Flächen für Aufschüttungen, Abgrabungen oder für die Gewinnung von Bodenschätzen(§ 5 Abs. 2 Nr. 8 und Abs. 4, § 9 Abs. 1 Nr. 17 und Abs. 6 BauGB) |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 11.1. | Flächen für Aufschüttungen |  |

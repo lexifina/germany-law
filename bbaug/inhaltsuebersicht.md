@@ -285,6 +285,7 @@ Zweiter Abschnitt
 Städtebauliche Gebote
 | § 175 | Allgemeines |
 | § 176 | Baugebot |
+| § 176a | Städtebauliches Entwicklungskonzept zur Stärkung der Innenentwicklung |
 | § 177 | Modernisierungs- und Instandsetzungsgebot |
 | § 178 | Pflanzgebot |
 | § 179 | Rückbau- und Entsiegelungsgebot |
@@ -328,6 +329,7 @@ Allgemeine Vorschriften
 | § 200 | Grundstücke; Rechte an Grundstücken; Baulandkataster |
 | § 200a | Ersatzmaßnahmen |
 | § 201 | Begriff der Landwirtschaft |
+| § 201a | Verordnungsermächtigung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt |
 | § 202 | Schutz des Mutterbodens |
 Zweiter Abschnitt
 Zuständigkeiten
@@ -389,6 +391,7 @@ Erster Teil
 | § 245a | Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts |
 | § 245b | Überleitungsvorschriften für Vorhaben im Außenbereich |
 | § 245c | Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt |
+| § 245d | Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland |
 Zweiter Teil
 Schlussvorschriften
 | § 246 | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
@@ -397,5 +400,6 @@ Schlussvorschriften
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen zur Windenergie |
+| § 250 | Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten |
 | Anlage 1 | (zu § 2 Absatz 4 und den §§ 2a und 4c) |
 | Anlage 2 | (zu § 13a Absatz 1 Satz 2 Nummer 2) |

@@ -10,6 +10,7 @@
 - [§ 4 Allgemeine Wohngebiete](0004.md)
 - [§ 4a Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)](0004a.md)
 - [§ 5 Dorfgebiete](0005.md)
+- [§ 5a Dörfliche Wohngebiete](0005a.md)
 - [§ 6 Mischgebiete](0006.md)
 - [§ 6a Urbane Gebiete](0006a.md)
 - [§ 7 Kerngebiete](0007.md)
@@ -26,7 +27,7 @@
 ## Zweiter Abschnitt Maß der baulichen Nutzung
 
 - [§ 16 Bestimmung des Maßes der baulichen Nutzung](0016.md)
-- [§ 17 Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung](0017.md)
+- [§ 17 Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung](0017.md)
 - [§ 18 Höhe baulicher Anlagen](0018.md)
 - [§ 19 Grundflächenzahl, zulässige Grundfläche](0019.md)
 - [§ 20 Vollgeschosse, Geschossflächenzahl, Geschossfläche](0020.md)
@@ -49,6 +50,7 @@
 - [§ 25b Überleitungsvorschrift aus Anlass der dritten Änderungsverordnung](0025b.md)
 - [§ 25c Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung](0025c.md)
 - [§ 25d Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts](0025d.md)
+- [§ 25e Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland](0025e.md)
 - [§ 26 (Berlin-Klausel)](0026.md)
 - [§ 26a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands](0026a.md)
 - [§ 27 (Inkrafttreten)](0027.md)
