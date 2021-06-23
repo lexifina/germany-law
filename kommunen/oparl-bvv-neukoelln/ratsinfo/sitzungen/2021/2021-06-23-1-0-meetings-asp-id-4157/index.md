@@ -1,0 +1,116 @@
+# 62. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-06-23T17:00:00+02:00
+- Ende: 2021-06-23T22:24:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4157
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4157
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Problemimmobilien Nogatstr.1/ Kirchhofstr.14/15 - beantwortet
+- TOP 1.2: Neuzuschnitt der Schuleinzugsgebiete - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Von deutschem Boden darf nie wieder ein Krieg ausgehen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Veränderungssperre XIV-3-1/35 für das Grundstück Neuköllnische Allee 112, Schmalenbachstraße 7/9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-3-1 - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Verlängerung der Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 109 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bebauungsplan 8-86a „Glasower Straße - Ost“ - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Genehmigung der im Haushaltsjahr 2020 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Sanierungsstopp durch Denkmalschutz in der High-Deck-Siedlung - beantwortet
+- TOP 8.2: Standort Alt-Buckow - beantwortet
+- TOP 8.3: Unbewohnbarkeit Hinterhaus Karl-Marx-Straße 179 - beantwortet
+- TOP 8.4: Verwaltung privater Liegenschaften durch landeseigene Wohnungsgesellschaften auch in Neukölln? - beantwortet
+- TOP 8.5: 250.000 Termine stauen sich in den Bürgerämtern – Innensenator: Bezirksämter sind unfähig Bürgerämter zu leiten - beantwortet
+- TOP 8.6: Mehrmittel für Tagesreinigung - beantwortet
+- TOP 8.7: Mobile Bürgerämter in Rudow und Buckow - beantwortet
+- TOP 8.8: Schulbausanierungen in Neukölln der letzten Jahre - beantwortet
+- TOP 8.9: Sichere Überquerung der Buschkrugallee - schriftlich beantwortet
+- TOP 8.10: Schulabgänger:innen in Not - schriftlich beantwortet
+- TOP 8.11: Kooperation des Bezirksamts mit linksradikalen wie der „Extinction Rebellion“ - schriftlich beantwortet
+- TOP 8.12: Mülleimer Gerlinger Straße - schriftlich beantwortet
+- TOP 8.13: Flächeneinzäunungen „hinter Neue Welt/Bauhaus“ - schriftlich beantwortet
+- TOP 8.14: Minigolfplatz - schriftlich beantwortet
+- TOP 8.15: „Teilhabe am Arbeitsmarkt“ in Neukölln - schriftlich beantwortet
+- TOP 8.16: Wahlteilhabe für Blinde und sehbehinderte Menschen - schriftlich beantwortet
+- TOP 8.17: Beseitigung von Mähgutrückständen (Grannen) - schriftlich beantwortet
+- TOP 8.18: Straßenpumpen/Notwasserbrunnen – Stand der Reparatur/Instandsetzung - schriftlich beantwortet
+- TOP 8.19: Rathausvorplatz verdreckt - schriftlich beantwortet
+- TOP 9: Neukölln macht Schule– keine weitere Erhöhung der Klassenfrequenzen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Mitteilungen - (offen)
+- TOP 10.1: Personal ohne Arbeit? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Müll „To go“ im Schillerkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.3: Unfallgefahr in der Oderstraße verringern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.4: Öffentliche Toiletten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 11.1: Geschichtliche Aufarbeitung Wissmannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: „Kurze Beine, kurze Wege“ - Grundschulkinder nicht im Stich lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.3: Bürger*innenpreis für Demokratie und Courage in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.4: Tag des guten Lebens in Neukölln unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.5: Stelle der/des Nachhaltigkeitsbeauftrag*ten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.6: Aktionsplan zur weiteren Umsetzung der UN-Behindertenrechtskonvention (UN-BRK) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.7: Barrierefreie Dokumente - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.8: Bürgerhaushalt für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.9: Klimanotstand! Neukölln handelt angesichts der Klimakrise - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.10: Verbindliches Solarausbauziel für Neukölln festlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.11: Muttersprachlicher Unterricht statt Konsulatsunterricht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.12: Tempo 30 in der Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.13: Fahrradunterbringungskonzept in der Rollberg-Siedlung von Stadt und Land - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.14: Earth Hour - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.15: Eichenquast Tempo 30 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.16: „Lampenladen" dimmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.17: Umbenennung der Wissmannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.18: Keine Zuwendungskürzungen für EU-Projekte in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.19: Verlängerung der Buslinie 179 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.20: Kostenfreies Essen an Grundschulen während Pandemie – Auch ohne Präsenzunterricht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.21: 1.700 Jahre jüdisches Leben in Deutschland - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Halteverbot im Gockelweg auf die andere Straßenseite verlegen - in der BVV abgelehnt
+- TOP 12.2: Warum bekommt Neukölln das Müllproblem nicht in den Griff - vertagt
+- TOP 12.3: Neupflanzungen - vertagt
+- TOP 12.4: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - vertagt
+- TOP 12.5: Gibt es nun doch Corona-Schwerpunkte in Neukölln? - vertagt
+- TOP 13: Beschlussempfehlungen - (offen)
+- TOP 13.1: Mieter*innen vor Nachzahlungen und Wohnungsverlust schützen - in der BVV abgelehnt
+- TOP 13.2: Krischanweg - in der BVV abgelehnt
+- TOP 13.3: Kreuzung Wildenbruchstraße/Hüttenroder Weg für Fußgänger*innen sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Digitalisierung der Schulen vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Neuköllner Haushalt - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: CO2-Reduzierung bei Bau- und Sanierungsprojekten! - in der BVV abgelehnt
+- TOP 13.7: Ersatz für ausgefallene Einbürgerungsfeiern - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Ladeinfrastruktur für E-Fahrzeuge zügig ausbauen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Zertifizierung FaireKITA - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: „Dreckecke“ südliches Kiehlufer - vertagt
+- TOP 13.11: Durchgangsverkehr auf der Achse Maybachufer–Harzer/Treptower Straße–Kiehlufer reduzieren - vertagt
+- TOP 13.12: Modaler Filter für Fahrradstraße Pflügerstraße - vertagt
+- TOP 13.13: Hasenheide-Hygiene verbessern - in der BVV abgelehnt
+- TOP 13.14: Weiterentwicklung des Integrierten Friedhofsentwicklungskonzepts für die Evangelischen Friedhöfe an der Hermannstraße, IFEK 2.0 - in der BVV abgelehnt
+- TOP 13.15: Erhalt von StadtGrün für Natur- und Umweltbildung im Carl-Legien-Schulgarten - ohne Änderungen in der BVV beschlossen
+- TOP 13.16: Haltestelle umbenennen - in der BVV abgelehnt
+- TOP 13.17: Aktionsplan gegen Vermüllung - vertagt
+- TOP 13.18: Ein Parkraumkonzept für Neukölln - vertagt
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Bewegung „Schön wie Wir“ - vertagt
+- TOP 14.2: Eckwertebeschluss Haushalt 2022/23 – Sparzwänge für Neukölln? - vertagt
+- TOP 14.3: Jobcenter/Sozialamt wieder regelmäßig öffnen - schriftlich beantwortet
+- TOP 14.4: Pandemie; ein paar wenige machen Kasse? - vertagt
+- TOP 14.5: Radialroute RR 10 sicherer machen - vertagt
+- TOP 14.6: Ankauf von Wohnungsbeständen geplant? - vertagt
+- TOP 15: Große Anfragen - schriftlich - (offen)
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Gefährliche Schienenteile beseitigen - überwiesen
+- TOP 16.2: Notfallschalter für Ausweisdokumente im Bürgerbüro - überwiesen
+- TOP 16.3: Barrierefreiheit für Menschen mit einer Sehbehinderung oder Sehverlust - überwiesen
