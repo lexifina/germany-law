@@ -1,0 +1,115 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-06-23T16:30:00+02:00
+- Ende: 2021-06-23T20:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12017
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12017
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00484060.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Wird Münster erste klimaneutrale Stadt in Deutschland?
+- TOP 1.2: Alternativen zu einer Fahrradbrücke am Verkehrsknotenpunkt Aegidiitor, Adenauerallee, Bismarckallee und Am Kanonengraben
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Lebens- und Aufenthaltsqualität in den Aktiven Höfen im Oxford-Quartier erhöhen - verwiesen
+- TOP 6.2: Veloroute Münster - Altenberge: Routenführung - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Sachkundige Einwohnerinnen und Einwohner - Festlegung der Anzahl - mehrheitlich geändert beschlossen
+- TOP 11: Sachkundige Einwohnerinnen und Einwohner - Festlegung der Anzahl
+- TOP 12: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 15.5.2022 - einstimmig beschlossen
+- TOP 12.1: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 15.5.2022
+- TOP 13: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2020 - einstimmig beschlossen
+- TOP 14: 5G Mobilfunk-Versorgung im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 15: Maßnahmen zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 16: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2018 - einstimmig beschlossen
+- TOP 17: Feststellung des Jahresabschlusses 2019 der Stadt Münster - einstimmig beschlossen
+- TOP 18: Bericht über die Beteiligungen der Stadt Münster im Jahr 2019 (Beteiligungsbericht 2019) - zur Kenntnis genommen
+- TOP 19: Erhöhung des Stammkapitals der NRW.URBAN Kommunale Entwicklung GmbH (NRW.URBAN KE) - einstimmig beschlossen
+- TOP 20: Entwicklung der städtischen Finanzlage - einstimmig beschlossen
+- TOP 21: Zeitliche Befristungen von städtischen Zuschüssen und Kostenerstattungen an Dritte - einstimmig beschlossen
+- TOP 22: MünsterZukünfte 20|30|50: Zentrale Ergebnisse und weiteres Vorgehen - Vorlage eingebracht
+- TOP 23: Auslastung und Ausbau der münsteraner Kläranlagen: - einstimmig beschlossen
+- TOP 24: Quartiersentwicklung Kanalkante Südost und gegenüberliegender Teilflächen westlich DEK: Ausschreibung der Konzeptionierung, fachlichen Betreuung, Moderation und Dokumentation eines Werkstattverfahrens sowie städtebaulicher Qualifizierungsverfahren - mehrheitlich beschlossen
+- TOP 25: 1.Kommunale Umsetzung des geänderten § 8a des Kommunalabgabengesetzes - einstimmig beschlossen
+- TOP 26: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (2021 - 2026) der Stadt Münster - einstimmig beschlossen
+- TOP 27: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2020 - einstimmig beschlossen
+- TOP 28: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Kiesekampweg im Stadtteil Coerde, Bezirk Nord - mehrheitlich beschlossen
+- TOP 29: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngebiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde - mehrheitlich beschlossen
+- TOP 29.1: Errichtungsbeschluss: Errichtung einer 7-Gruppen-Kindertageseinrichtung im Wohngbiet südl. Hiltruper Straße, Stadtbezirk Südost, Stadtteil Angelmodde
+- TOP 30: Beibehaltung der bestehenden Verteilung des kommunal finanzierten Personals der Schulsozialarbeit und indikatorenbasierte Verteilung der Förderinseln für die Schuljahre 2021/2022 bis einschließlich 2023/2024 - mehrheitlich geändert beschlossen
+- TOP 31: Umsetzung des "DigitalPakt Schule 2019 bis 2024" für die städtischen Schulen: Anpassung an Vorgaben des Fördermittelgebers - einstimmig beschlossen
+- TOP 32: Beschluss zum Rückbau der Westtribüne und der Herrichtung eines provisorischen Gästesektors auf der Nordtribüne des städtischen Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 32.1: Beschluss zum Rückbau der Westtribüne und der Herrichtung eines provisorischen Gästesektors auf der Nordtribüne des städtischen Stadions an der Hammer Straße
+- TOP 33: Errichtungsbeschluss zum Neubau von kommunalen Funktionsgebäuden auf den Sportanlagen Dietrich-Bonhoeffer-Straße, Pleistermühlenweg und Arnheimweg - einstimmig beschlossen
+- TOP 33.1: Errichtungsbeschluss zum Neubau von kommunalen Funktionsgebäuden auf den Sportanlagen Dietrich-Bonhoeffer-Straße, Pleistermühlenweg und Arnheimweg
+- TOP 34: Finanzielle und konzeptionelle Weiterentwicklung der Kindertagespflege in der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 35: Masterplan für die kommunale Sportanlage Sentruper Höhe - einstimmig beschlossen
+- TOP 36: Kommunales Integrationsmanagement NRW - Teilnahme der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 37: Satzung zur Änderung der Schulordnung und Gebührensatzung für die Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 38: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten - einstimmig beschlossen
+- TOP 38.1: Entwicklung eines Produktionsortes für Kunst und Kultur am Hoppengarten
+- TOP 39: Neufassung der Satzung für das Stadtarchiv Münster einschließlich Benutzungs- und Gebührenordnung - einstimmig beschlossen
+- TOP 40: Wiederbesetzung der Ombudsstelle - einstimmig beschlossen
+- TOP 41: Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 42: Erlass Naturdenkmalverordnung für den bebauten Bereich - von der Tagesordnung abgesetzt
+- TOP 43: Bezuschussung der Anschaffung von Stoffwindeln - von der Tagesordnung abgesetzt
+- TOP 44: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2020 - einstimmig beschlossen
+- TOP 45: Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau (Benennungsrechtssatzung) - einstimmig beschlossen
+- TOP 46: Neubau einer zweizügigen Grundschule mit der Option zur Erweiterung zur Dreizügigkeit und Neubau einer Zweifachsporthalle in Sprakel - einstimmig beschlossen
+- TOP 46.1: Neubau einer zweizügigen Grundschule mit der Option zur Erweiterung zur Dreizügigkeit und Neubau einer Zweifachsporthalle in Sprakel
+- TOP 47: Erweiterung der Pleisterschule zur vollen Zweizügigkeit - einstimmig beschlossen
+- TOP 47.1: Erweiterung der Pleisterschule zur vollen Zweizügigkeit
+- TOP 48: Zwischenbericht zur Umsetzung der Klimaneutralität 2030 für städtische Gebäude: Maßnahmenprogramm 2021 - 2024 - zur Kenntnis genommen
+- TOP 49: Fortschreibung Förderprogramm Passiver Schallschutz - einstimmig beschlossen
+- TOP 50: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster - von der Tagesordnung abgesetzt
+- TOP 51: Gründachförderung der Stadt Münster – Erweiterung und Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - einstimmig beschlossen
+- TOP 52: Konzeptstudie Münster Klimaneutralität 2030 - Kurzfassung - mehrheitlich beschlossen
+- TOP 53: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - mehrheitlich beschlossen
+- TOP 54: Bauleitplanung
+- TOP 54.1: Stadtbezirk Münster-West
+- TOP 54.1.1: Bebauungsplan Nr. 602: Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 54.1.1.1: Bebauungsplan Nr. 602: Stellungnahmen - Satzung
+- TOP 54.1.2: Bebauungsplan Nr. 601 - Aufhebung - von der Tagesordnung abgesetzt
+- TOP 54.1.3: Bebauungsplan Nr. 572 - Stellungnahmen - Satzung - mehrheitlich beschlossen
+- TOP 54.1.3.1: Bebauungsplan Nr. 572 - Stellungnahmen - Satzung
+- TOP 54.2: Stadtbezirk Münster-Südost
+- TOP 54.2.1: 109. FNP-Änderung - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 54.2.2: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 54.2.3: 96. Änderung des fortgeschriebenen Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Südost im Stadtteil Wolbeck für den Bereich „Münsterstraße / Middelerstraße“ - mehrheitlich beschlossen
+- TOP 54.2.4: Vorhabenbezogener Bebauungsplan Nr. 605 Wolbeck – Münsterstraße / Middelerstraße - mehrheitlich beschlossen
+- TOP 55: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 55.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 56: Umbesetzung im Beirat nach dem Landesnaturschutzgesetz - einstimmig geändert beschlossen
+- TOP 57: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 57.1: Aasee als Naherholungsgebiet erhalten - einstimmig geändert beschlossen
+- TOP 57.2: Wahlbenachrichtigung in einfacher Sprache - verwiesen
+- TOP 57.3: Dauerhafte Unterbringung des Stadtmodells des Vereins - einstimmig geändert beschlossen
+- TOP 57.4: Resolution „Kommunen für ein starkes Lieferkettengesetz“ - mehrheitlich beschlossen
+- TOP 58: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 58.1: Setup für ein Personalentwicklungskonzept der Citeq - verwiesen
+- TOP 58.2: Unsere Kinder in guten Händen – Eine Expertenkonferenz für mehr Fachkräfte in Kitas und OGS - verwiesen
+- TOP 58.3: Zu Ehren des Kanzlers der Einheit – eine Helmut-Kohl-Straße in Münster - verwiesen
+- TOP 58.4: Digital Cafés in der offenen Kinder- und Jugendarbeit ermöglichen - verwiesen
+- TOP 58.5: Fördermittel abrufen - Feuerwehrhäuser sanieren und erweitern - verwiesen
+- TOP 58.6: Altstadtsatzung klimagerecht weiterentwickeln - verwiesen
+- TOP 58.7: Schwangerenkonfliktberatung umfänglich verstehen – Hilfen für Schwangere stärken - verwiesen
+- TOP 58.8: Grünflächen und Straßenbegleitgrün naturnah gestalten und pflegen - verwiesen
+- TOP 58.9: Münster übernimmt Verantwortung für den Artenschutz – durch ökologische Vergabe landwirtschaftlicher Flächen - verwiesen
+- TOP 58.10: Vermüllung vermeiden – Grünflächen, Freiräume und Innenstadt vor Littering schützen - verwiesen
+- TOP 58.11: Schwimmzeiten für FINT (Frauen, Inter, Nichtbinär, Trans) in städtischen Bädern - verwiesen
+- TOP 58.12: Busachse Südwest stärken: Busse in der Spinne und auf der Weseler Straße beschleunigen - verwiesen
+- TOP 59: Eiliger Handlungsbedarf zur Instandsetzung des Küchenbereichs im Bürgerhaus Bennohaus. - einstimmig beschlossen
+- TOP 60: Verschiedenes
