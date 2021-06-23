@@ -1,0 +1,153 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-06-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6372085
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6372085
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 2.3.: Realisierungswettbewerb Karstadt-Gelände: Preisrichter*in + Vertretung
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP 2.1: Kultur
+- TOP 2.1.5.: BA-Veranstaltung "Sommer in Schwabing West"
+- TOP 2.2: Wirtschaft
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Ackermannbogen e.V.: Forderung des Jugendamts nach Qualifikation von Spielgruppen-BetreuerInnen
+- TOP 2.1.: (E) Stadtbezirksbudget hpkj e.V. Graffitiworkshop für die betreuten Kinder und Jugendlichen am 15.05.2021 2.430,00 Euro, Az.: 0262.0-4-0339
+- TOP 2.2.: (E) Stadtbezirksbudget ClubIn Internationaler Treff Ausstattung für das Vorgartencafe von Juli - September/Oktober 2021 349,00 Euro, Az.: 0262.0-4-0342
+- TOP 2.3.: Jugendzentrum LIFE: Antrag auf Erhöhung des bewilligten Zuschusses für AktivFerien (Erhöhter Personalaufwand für Umsetzung des Hygienekonzeptes, weniger Großspielgeräte)
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Sexuelle Aufklärung" Projekttage zum Thema "Sexuelle Aufklärung" am 06./07.07.2021 250,00 Euro, Az.: 0262.0-4-0343
+- TOP 2.5.: Graffiti-Aktion Trafohäuschen Pündterplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2.1.: Bewilligungsbescheid Condrobs (Therapeutisches Reiten)
+- TOP 3.2.2.: Bewilligungsbescheid "eigenleben"
+- TOP 3.2.3.: Ablehnungsbescheid BUND Naturschutz
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Runden Tisch der Migrationsbeauftragten etablieren (Schreiben der Sozialreferentin)
+- TOP 3.4.2.: LILALU: Absage des kostenfreien Spielprogramms "Umsonst und Draußen" 2021
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Anfrage Grüne: Baustelle Herzogstr. 84
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Evaluation der Münchner Stellplatzsatzung
+- TOP 2.2.: Georgenstr. 138: VGB: Erneuerung eines Dachstuhles mit Einbau von 2 Wohnungen, Anbau eines Außenaufzuges, Anbau von Balkonen im Innenhof; Innenhof: Decke neu über Kellerabgang; RGB: Aufstockung eines Gebäudes mit Einbau einer Wohnung, energetische Sanierung Fassade, Nutzungsänderung EG (Labor zu Lager)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zweckentfremdung durch Leerstand in den Anwesen Schleißheimer Str. 238 und Gernotstr. 1 und 3 prüfen
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) Areal des ehemaligen Karstadt Nordbad A) Schleißheimer Straße (westlich) Wormser Straße (nördlich) Winzererstraße (östlich) Elisabethstraße (südlich) - Grundsatz- und Eckdatenbeschluss - B) Weiteres Vorgehen C) Sicherung der Städtebaulichen Qualität statt Schnellschuss für den Karstadt Nordbad Antrag Nr. 20-26 / A 00560 der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 21.10.2020 4. Stadtbezirk Schwabing-West
+- TOP 3.2.2.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 3.2.3.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 3.2.4.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Vorbescheid Winzererstr. 134 b (vgl. BA-Stellungnahme vom 29.04.2021)
+- TOP 3.3.2.: Bauvorhaben Schleißheimer Str. 238-244/Gernotstr. 1-9: Schreiben der Eigentümerfirma an die Mieter*innen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Radwege in der Franz-Joseph-Straße
+- TOP 1.2.: Bürgerin: Beruhigung der Schleißheimer Straße zwischen Görres- und Elisabethstraße
+- TOP 1.3.: Bürger: Tramlinie 27 am Nordbad - Verbesserung der Sicherheit für Pkws
+- TOP 1.4.: Bürger: Mischparkplätze Fahrrad-Auto in der Agnesstraße
+- TOP 1.5.: Bürgerin: Einbahnregelung in der Wormser Straße während Bauarbeiten Karstadt-Areal
+- TOP 1.6.: Bürgerin: Zusätzliche Fahrradabstellmöglichkeiten am Kurfürstenplatz
+- TOP 1.7.: Ackermannbogen eV: Verbesserungen am Ackermannbogen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ampelaustausch Heß-/Schwere-Reiter-Straße
+- TOP 2.2.: Erinnerungsverfahren: Fahrbahnsanierung Winzerer-/Saarstraße
+- TOP 2.3.: Erinnerungsverfahren: Verkleinerung der Einfahrt Schwere-Reiter-Str. 39
+- TOP 2.4.: Radwegrückbau in Tempo-30-Zonen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Aufnahme von Lastenrädern in das Mietrad-Angebot der MVG (Antwort der MVG auf weitergeleitetes Bürgeranliegen aus der Sitzung vom 28.04.2021)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Geteilte und vernetzte Mobilität - Shared Mobility (Präsentation aus der Informationsveranstaltung vom 06.05.2021)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Verbreiterung des Radwegs im Luitpoldpark zwischen Voelderndorff- und Brunnstraße
+- TOP 1.2.: SPD-Antrag: Förderung besonders kreativer "Stadtterrassen" aus dem Stadtbezirksbudget (vgl. Beschlussvorlage TOP E 3.3.1)
+- TOP 1.3.: Bürgerin: Urban Gardening in der Apianstraße
+- TOP 1.4.: CSU-Antrag: Kölner Platz. Parkraum schaffen. Stadtklima verbessern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hörwarthstr. 22: Fällung zweier Robinien, Fällung bzw. Rückschnitt einer Trauerweide
+- TOP 2.1.2.: Lerchenauer Str. 4: Fällung einer Buche
+- TOP 2.2.1.: Sommerstraße Apianstraße
+- TOP 2.2.2.: Ackermannbogen e.V.: Umgestaltung des Platzes an der Adams-Lehmann-Straße
+- TOP 2.2.3.: Stadtterrasse Viktor-Scheffel-Str. 1
+- TOP 2.2.4.: Herzogstr. 85 "Suuapinga": Erweiterung der Freischankfläche
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Luitpoldpark: Spitzahorn schützen
+- TOP 3.1.2.: Meldung von Baumstandorten im Projekt "Neue Baumstandorte im öffentlichen Grün" (Zwischennachricht des Baureferats Gartenbau)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Öffentlicher Raum für alle: Einrichtung von "Stadtterrassen" ermöglichen (Sitzungsvorlage Nr. 20-26 / V 03469)
+- TOP 3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Antrag des BA 23 Allach-Untermenzing: Deutliche Erhöhung der Geldbußen des bayerischen Bußgeldkatalogs "Umweltschutz"
+- TOP 3.4.2.: Hochbeete auf öffentlichem Grund (Information zum Genehmigungsverfahren)
+- TOP 3.4.3.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen
+- TOP 3.4.4.: Beginn der Mülleinsammlung im Bereich Schwere-Reiter-Straße, Ackermannstraße, Schleißheimer Straße, Winzererstraße baustellenbedingt bereits ab 05.30 Uhr
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Verkleinerung der Schanigärten der Gaststätte "Kalypso"
+- TOP 1.2.: Bürger: Entfernung von Zäunen und Bänken des Bamberger Hauses vom Grund des Luitpoldparks
+- TOP 1.3.: Antrag Grüne: Regenbogen(zebra)streifen in der Georgen- / Ecke Tengstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Stadtbezirksbudget PATHOS München e.V. Theater-Hofgestaltung vom 17.05.-30.09.2021 3.000,00€; Az. 0262.0-4-0340
+- TOP 2.1.2.: (E) Stadtbezirksbudget ZIRKEL für kulturelle Bildung e.V. Musik-Theater und Konzerte im Luitpoldpark vom 11.07. - 31.10.2021 10.500,00, Az.: 0262.0-4-0344
+- TOP 2.1.3.: (E) Stadtbezirksbudget Chorbande Schwabing Projekt "Die Zauberflöte" ab 19.05.2021 - Juli 2021 3.450,00 Euro, Az.: 0262.0-4-0341
+- TOP 2.1.4.: (E) Stadtbezirksbudget Svapinga Consort e.V. Wiederaufnahme der Konzertreihe "Alte Musik in Schwabing" vom 21. - 25.07.2021 4.615,00 Euro, Az.: 0262.0-4-0345
+- TOP 2.2.1.: Bauerstr. 2 "Das Weinheim": Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.2.: Tengstr. 16 "wein16": Genehmigung einer Freischankfläche
+- TOP 2.2.3.: Herzogstr. 88 "El Patio": Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.4.: Schleißheimer Str. 121 "Ho Guom": Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.5.: Hildeboldstr. 23 "Hofbräu am Oberwiesenfeld: Corona-Erweiterung der Freischankfläche
+- TOP 2.2.6.: "Pizza Verde", Franz-Joseph-Str. 35, Seite Habsburgerstraße: Schanigarten
+- TOP 2.2.7.: "Rheinpfalz", Kurfürstenstr. 35: Schanigarten
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Baustelle Elisabethplatz: "Aussichtsplattform" für Kinder (Antwort der Markthallen München auf weitergeleitetes Bürgeranliegen aus der Aprilsitzung)
+- TOP 3.1.2.: Erhaltung der Post in der Agnesstraße - Postdienstleistungen in Schwabing West
+- TOP 3.2.1.: Bewilligungsbescheid "fear.less!"
+- TOP 3.2.2.: Bewilligungsbescheid KulturBüro Ackermannbogen (Kunstaktion und Theaterworkshop)
+- TOP 3.2.3.: Bewilligungsbescheid Filmprojekt "München in den 1950er Jahren" 2021-2022
+- TOP 3.2.4.: Ablehnungsbescheid Filmprojekt "München in den 1950er Jahren" 2022-2023
+- TOP 3.2.5.: Ablehnungsbescheid Münchner Stadtmedien GmbH
+- TOP 3.2.6.: Ablehnungsbescheid World Wo*Man GbR
+- TOP 3.2.7.: Ablehnungsbescheid Initiative "ZWINK"
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.6.1.: (U) Postschließungen stoppen und Versorgung verbessern! Antrag Nr. 20-26 / A 01131 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 04.03.2021
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Genehmigungsbescheide für Freischankflächen a) Imbiss "Fishbowl", Römerstr. 16 a
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Beauftragter gegen Extremismus (Anhörung zum Stadtratsantrag der AfD auf Änderung der BA-Satzung)
+- TOP G.2.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse (Anhörung zum Antrag des BA 21 Pasing-Obermenzing auf Änderung der BA-Satzung)
+- TOP H: Termine
