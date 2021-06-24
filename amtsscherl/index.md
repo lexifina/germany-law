@@ -8,3 +8,4 @@
 - [5.](0005.md)
 - [6.](0006.md)
 - [Schlußformel](schlussformel.md)
+- [Muster](muster.md)
