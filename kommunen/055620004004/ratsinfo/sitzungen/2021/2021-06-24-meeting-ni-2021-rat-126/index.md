@@ -1,0 +1,68 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2021-06-24T17:00:00+02:00
+- Ende: 2021-06-24T20:30:00+02:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-126
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-126
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-RAT-126
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-126
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-126
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bürgerantrag nach § 24 Gemeindeordnung NRW vom 07.06.2021
+- TOP 3: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2020 (§ 116a GO NRW)
+- TOP 4: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel
+- TOP 5: Stärkung von Handel, Gastronomie und Dienstleistungen in Castrop-Rauxel
+- TOP 5.1: Antrag CDU Fraktion vom 09.06.2021_Kostenlose Erweiterung der Außengastronomiefläche
+- TOP 5.2: Antrag CDU Fraktion vom 09.06.2021_Öffnung der Außengastronomie bis 24.00 Uhr
+- TOP 6: Antrag der FDP-Fraktion vom 19.05.2021 - Extra Zeit zum Lernen -
+- TOP 7: Berufung beratender Mitglieder des Betriebsausschusses 2 (Familie, Jugend, Sooziales und Bildung)
+- TOP 8: Erstattung der Verpflegungsentgelte für die Monate Februar bis April 2021
+- TOP 8.1: Erstattung der Verpflegungsentgelte für die Monate Februar bis Juni 2021
+- TOP 8.2: (Teil-)Erlass der Elternbeiträge für die Monate Februar bis Mai 2021
+- TOP 9: Bebauungsplan Nr. 98 „Quer-, Georg-, Hugostraße“ hier: Beschluss zur Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan Nr. 98 „Quer-, Georg-, Hugostraße“
+- TOP 10: Vorhabenbezogener Bebauungsplan Nr. 14 „Mühlenhof“ hier: Beschluss zur Aufhebung des Aufstellungsbeschlusses zum vorhabenbezogenen Bebauungsplan Nr. 14 „Mühlenhof“
+- TOP 11: Beschluss des Klimaanpassungskonzeptes
+- TOP 12: 12. Änderung des Flächennutzungsplans „Sport-, Spiel- und Bewegungspark am Hallenbad“ hier: Beschluss zur 12. Änderung des Flächennutzungsplans nach § 2 Abs. 1 BauGB
+- TOP 13: Förderrichtlinie zur Förderung von Dach- und Fassadenbegrünungen
+- TOP 14: Satzung über die Zulässigkeit von Vorhaben im bebauten Außenbereich (Außenbereichssatzung) Nr. 005 nach § 35 Abs. 6 BauGB „Waltroper Straße“ hier: a) Entscheidung über die Stellungnahmen b) Satzungsbeschluss
+- TOP 15: Bebauungsplan Nr. 263 "Gewerbebrache Hermecke" - Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB
+- TOP 15.1: Antrag DIE LINKE vom 09.06.2021_ Sozialer Wohnraum im Bauprojekt Gewerbebrache Hermecke , Bebauungsplan Nr.263
+- TOP 16: Bebauungsplan Nr. 245H "Am Emscherufer" - Satzungsbeschluss
+- TOP 16.1: Antrag Die LINKE vom 11.06.2021_Wildschutz zum BPlan 245H
+- TOP 17: Einbeziehung weiterer beratender Mitglieder in den Jugendhilfeausschuss
+- TOP 18: Weiterentwicklung von Kindertageseinrichtungen zu Familienzentren in Castrop - Rauxel
+- TOP 19: Kinder- und Jugendförderplan der Stadt Castrop-Rauxel 2022 - 2026
+- TOP 19.1: Bürgerantrag nach § 24 Gemeindeordnung NRW vom 23.06.2021 Vorlage ist noch nicht veröffentlicht worden.
+- TOP 20: Umbesetzung des Jugendhilfeausschusses
+- TOP 21: Benennung eines Schriftführers und einer stellvertretenden Schriftführerin für den Ausschuss Generationen und Inklusion
+- TOP 22: Antrag der Fraktionen SPD und Bündnis 90/ Die Grünen vom 25.05.2021_Antrag zur Benennung von Straßen, Wegen und Plätzen in Castrop-Rauxel
+- TOP 22.1: Antrag UBP Fraktion vom 21.06.2021; Änderungsantrag zu TOP I.22 der Ratssitzung am 24.06.2021 Benennung von Straßen, Wegen und Plätzen in Castrop-Rauxel
+- TOP 23: Besetzung Ausschuss für Bürgerbeteiligung und Stadtteilentwicklung; Benennung von Mitgliedern aus dem Kinder- und Jugendparlament
+- TOP 24: Gemeinsamer_Antrag_FWI_Fraktion_Linke_vom 31.05.2021_Antrag_Klimaschutz
+- TOP 24.1: Gemeinsamer Antrag SPD Fraktion und Bündnis 90/Die Grünen vom 10.06.2021; Konzepterstellung für eine klimaneutrale Stadt Castrop-Rauxel vor 2040
+- TOP 24.2: Antrag CDU Fraktion vom 22.06.2021; Ergänzungsantrag zum Klimaschutz unter TOP I.24 (Sitzungsvorlage 2021/173)
+- TOP 25: Antrag UBP-Fraktion vom 06.06.2021_Bepflanzung der Bushaltestellendächer
+- TOP 26: Einbeziehung weiterer beratender Mitglieder in den Ausschuss für Generationen und Inklusion
+- TOP 27: Verlängerung der Liquiditätshilfen für Betriebe und Unternehmen zur Begegnung der wirtschaftlichen Folgen der Corona-Pandemie bis zum 30.09.2021
+- TOP 28: Antrag der CDU-Fraktion vom 22.06.2021_Dringlichkeitsantrag zur Verhinderung von großen Müllansammlungen
+- TOP 29: Antrag vom 23.06.2021 von der FDP Fraktion_Ecosoil
+- TOP 29.1: Antrag der SPD-Fraktion und Bündnis 90/Die Grünen vom 24.06.2021_Dringlichkeitsantrag Prüfung des Klageweges gegen die Ansiedlung der Firma „Ecosoil“ in Bochum Gerthe
+- TOP 30: Überplanmäßige Mittelbereitstellung gemäß § 83 GO im Haushaltsjahr 2021 in Höhe von insgesamt 213.900,00 € bei Kostenträger 214302 (Offene Ganztagsschule) aus der Förderung Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder in Nordrhein-Westfalen
+- TOP 31: Anfragen der Ratsmitglieder
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
