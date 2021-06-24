@@ -1,0 +1,64 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-06-24T17:02:00+02:00
+- Ende: 2021-06-24T18:44:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSyzSPu8uuu_lPcnBLa-hTg
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6287
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYWBhuHfTD2Jj0U9pDAsrKBVA4gMxugXnvFmmy6FaIgR/Bekanntmachung_Rat_24.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSrZVKnlKW_zOQE9P4K0DA9veQVHhmH80WNMwM8GE4Fz/Oeffentliche_Niederschrift_Rat_24.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Impfgeschehen in Solingen
+- TOP 1.2: Situation Wochenmarkt
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Abberufung einer Prüferin beim Revisionsdienst
+- TOP 7.: Bildung und Besetzung des Kreiswahlausschusses für den Wahlkreis 35 Solingen I und den Wahlkreis 34 Wuppertal III – Solingen II
+- TOP 7.1: Bildung und Besetzung des Kreiswahlausschusses für den Wahlkreis 35 Solingen I und den Wahlkreis 34 Wuppertal III – Solingen II Antrag der CDU Ratsfraktion vom 16.06.2021
+- TOP 8.: Benennung eines Mitgliedes der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 9.: Vertretung der Stadt Solingen in der „Strategic Policy Group“ so-wie in der Mitgliederversammlung im Rahmen der Mitgliedschaft im Städtenetzwerk EUROTOWNS Benennung eines Vertreters der Kommunalpolitik
+- TOP 10.: Städtisches Klinikum Solingen gemeinnützige GmbH - Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 11.: Kündigung der Mitgliedschaft im Verein „Bergisches Studieninstitut für kommunale Verwaltung e.V.“
+- TOP 12.: Sichere Kommunalfinanzen – Zukunft der Städte und Gemeinden gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen und der FDP vom 11.06.2021
+- TOP 12.1: Sichere Kommunalfinanzen – Zukunft der Städte und Gemeinden gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen, DIE LINKE. Die PARTEI und der FDP vom 23.06.2021
+- TOP 13.: Verkaufsoffene Sonntage 2021
+- TOP 13.1: Verkaufsoffene Sonntage 2021
+- TOP 14.: Antragstellung für Zuwendungen zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung
+- TOP 15.: Mehrausgaben bezüglich pandemiebedingter Aufwendungen im Bergischen Servicecenter
+- TOP 15.1: Mehrausgaben bezüglich pandemiebedingter Aufwendungen im Bergischen Servicecenter
+- TOP 16.: Erhöhung der Verwaltungsgebühren für steuerliche Unbedenklichkeitsbescheinigungen und für Ersatz-Hundemarken
+- TOP 17.: Überplanmäßige Aufwendungen gemäß § 83 GO NRW im Teilplan 55.01 -Land- und Forstwirtschaft- für das Jahr 2021 Hier: Neubau Brücke Strohn
+- TOP 18.: Stadtschnellbahnlinie (S 17) Bonn-Köln-Leverkusen-Opladen-Solingen (Durchbindung auf die S 1) Gemeinsamer Antrag der Ratsfraktionen Bündnis 90/Die Grünen und SPD vom 01.06.2021
+- TOP 19.: IV. Änderung der Betriebssatzung für die Technischen Betriebe
+- TOP 20.: I. Änderung der Betriebssatzung für den Eigenbetrieb Wasserversorgung Solingen
+- TOP 21.: Bergische Symphoniker GmbH – Sonderzuschuss zur Liquiditätssicherung und Wirtschaftsplan 2021/2022
+- TOP 22.: Entwurf des Jahresabschlusses 2020 der Stadt Solingen
+- TOP 23.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2020 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht Verwendung des Jahresüberschusses der Sparkasse
+- TOP 24.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2020 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht Entlastung der Organe der Sparkasse
+- TOP 25.: Jahresabschluss 2020 der Technischen Betriebe Solingen hier: Vorratsbeschluss für steuerliche Zwecke
+- TOP 26.: Jahresabschluss 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 27.: Jahresabschluss 2020 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 28.: Verschiedenes
+- TOP 28.1: Mitteilungen der Verwaltung
+- TOP 28.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 1. Sitzung des Rates am 05.11.2020
+- TOP 4.: Impfzentrum Solingen: Beauftragung von Sicherheitsdienstleistungen
+- TOP 5.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG - Änderung des Gesellschaftsvertrages
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
