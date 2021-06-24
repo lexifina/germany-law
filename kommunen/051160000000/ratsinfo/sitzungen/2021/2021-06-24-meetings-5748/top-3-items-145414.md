@@ -1,0 +1,7 @@
+# TOP 3: Abstimmung über die Aufzeichnung der Sitzung auf Tonträger
+
+- Sitzung: Naturschutzbeirat (2021-06-24)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/145414
+- Ergebnis: Einstimmiger Beschluss mit Enthaltung/en
