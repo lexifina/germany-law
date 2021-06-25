@@ -1,0 +1,21 @@
+# Durchführung von verkaufsoffenen Sonntagen am 05.09., 10.10. und 05.12.2021
+
+- Körperschaft: Stadt Herford
+- Drucksache/Vorlage: RA/79/2021 1. Ergänzung
+- Art: Vorlage
+- Datum: 2021-06-25
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZStNDhO7zBKjHPWW53Gg3ao
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/13657
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage (Durchführung von verkaufsoffenen Sonntagen am 05.09., 10.10. und 05.12.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW1m3uWxCdf-xssfVqiJ4ro-Q328Pb2dkN3ssJrJopi0/Vorlage_RA-79-2021_1._Ergaenzung.pdf
+- Anlage: Vorlage (Anlage 1: Antrag Sonderöffnungen für den 05.09., 10.10. und 05.12.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRLpgPGIEGxNJAbzYuemxSgGhoczQe5HSEK7rIDbQTiZ/Anlage_1-_Antrag_Sonderoeffnungen_fuer_den_05.09.-_10.10._und_05.12.2021.pdf
+- Anlage: Vorlage (Anlage 2: Beschreibung der Anlässe zum 05.09., 10.10. und 05.12.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe-wdXjuaSL6GsVjkUwBPqHZoI317D_4kJM21GtElYyl/Anlage_2-_Beschreibung_der_Anlaesse_zum_05.09.-_10.10._und_05.12.2021.pdf
+- Anlage: Vorlage (Anlage 3: Übersichtspläne für den 05.09.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTL41-0FCetiBDXHXSqySU1UpWokIQPrGagF30Fi6pzE/Anlage_3-_Uebersichtsplaene_fuer_den_05.09.2021.pdf
+- Anlage: Vorlage (Anlage 4: Übersichtspläne für den 10.10.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfQgkccLluldvBraJEMnL---xu12C_4S-V_dxhYhPXmu/Anlage_4-_Uebersichtsplaene_fuer_den_10.10.2021.pdf
+- Anlage: Vorlage (Anlage 5: Übersichtspläne für den 05.12.2021) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa22Eux33BgKuBRrx39b4Fc16iqnxyiNbP7v1M3K2_ji/Anlage_5-_Uebersichtsplaene_fuer_den_05.12.2021.pdf
+- Anlage: Vorlage (Anlage 6: Stellungnahme Kirche) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV8TikOdbhdrHWvyq8A_jojeQpgsPmKmVC5-8ChrLIbv/Anlage_6-_Stellungnahme_Kirche.pdf
+- Anlage: Vorlage (Anlage 7: Stellungnahme IHK) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQIKCtuOMnH05UzFRNvsVViAVfzn-AnwuFxrP4ToWi06/Anlage_7-_Stellungnahme_IHK.pdf
+- Anlage: Vorlage (Anlage 8: Stellungnahme ver.di) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVyhD6qSbKrST4_mn0MxKoRvKtAiGmm8qxEU6IagmH8P/Anlage_8-_Stellungnahme_ver.di.pdf
+- Anlage: Vorlage (Anlage 9: Positionspapier ver.di für eine lebenswerte (Innen-) Stadt) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfOJ1ELZFGr_Dp-zmD9p9g8ZJzN23A6wGCo9gwnbHyJU/Anlage_9-_Positionspapier_ver.di_fuer_eine_lebenswerte_-Innen--_Stadt.pdf
+- Beratung:  https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4134 https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-251
