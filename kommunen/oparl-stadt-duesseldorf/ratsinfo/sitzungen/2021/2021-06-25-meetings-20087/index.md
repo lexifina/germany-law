@@ -1,0 +1,100 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-25T16:00:00+02:00
+- Ende: 2021-06-25T18:55:00+02:00
+- Ort: Geänderter Sitzungsort und -beginn Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20087
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20087
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung Ö 25.06.2021, Stand 24.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416866.pdf
+- Ergebnisprotokoll: BV9 Sitzung Ö 25.06.2021, Stand 24.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416866.pdf
+- Wortprotokoll: BV9 Sitzung Ö 25.06.2021, Stand 24.06.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416866.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 07.05.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Kriminal- und Unfallstatistik im Stadtbezirk 9
+- TOP 6: Vorstellung einer Studie zum Sozialraum Geeststraße
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Mergelgasse/Robert-Mayer-Weg - Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 7.2: Verkehrsführung Am Trippelsberg – Vorübergehende Aussetzung der Realisierung der Protected Bike Lane - zur Kenntnis genommen
+- TOP 7.3: Festlegung des Trassenverlaufs des Radschnellwegs Neuss, Düsseldorf und Langenfeld im Rahmen des Linienbestimmungsverfahrens - mehrheitlich beschlossen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 7.9: Erweiterung der Kindertageseinrichtung Otto-Hahn-Straße 40, Stadtbezirk 9 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 7.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - beschlossen
+- TOP 7.10.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B (Ergänzung) - einstimmig beschlossen
+- TOP 7.11: Platzbenennung Margaretha-Rosen-Platz - einstimmig beschlossen
+- TOP 7.12: Workshop „Perspektiven Gewerbestandort Kappeler Straße“, Industriekernzone 9.3.A „Nördlich Münchener Straße“ - zur Kenntnis genommen
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Alte Dreifachsporthalle Koblenzer Straße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Parkraumkonzept „Rund um das Benrather Krankenhaus" - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Sportförderungsrichtlinien LHD - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.11: Radfahrstreifen in Hassels und Reisholz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.15: Anschaffung von 2 „Smileys“ für den Stadtbezirk 9 - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 10.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.19: Benrodestraße zwischen Görres- und Erich-Müller-Straße - Antrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.20: Paulsmühlenstraße, Zufahrt zum Kleingartengelände - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.21: Bonner Straße, Kurve gegenüber „Schöne Aussicht“ - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 10.22: Gehweg und Fahrbahngestaltung Benrodestraße - Antrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 10.23: Tempo 30 vor sozialen Einrichtungen, Vorlage OVA/056/2021 - Antrag der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 11: Verfügungsmittel
+- TOP 11.1: Wir in Wersten e. V. - Heimatsommer - einstimmig beschlossen
+- TOP 11.2: Wir in Wersten e. V. - Rock am Bach 2021 - einstimmig beschlossen
+- TOP 11.3: Allgemeiner Bürgerverein Urdenbach e. V. - Beleuchtung Gruppenbaum - einstimmig beschlossen
+- TOP 11.4: St. Hubertus-Schützenbruderschaft e.V. Itter - Restaurierungen am Schützenplatz/Ortseingangstafel - einstimmig beschlossen
+- TOP 11.5: KGS Itterstraße - Präventionsgrogramm"Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 11.6: Aktionsgemeinschaft Benrath e. V. - Blumenkübel für die Fußgängerzone Benrath - einstimmig beschlossen
+- TOP 11.7: KKG St. Antonius und Elisabeth Umweltgruppe - Aufstellung einer Bücherbox - einstimmig beschlossen
+- TOP 11.8: Pauls-Mühler Jecken e. V. - Renovierungsarbeiten Paulsmühler Bunker - einstimmig beschlossen
+- TOP 11.9: St. Sebastianus Reiterkorps D.-Wersten e. V.. - Werstener Reitertag 2021 - einstimmig beschlossen
+- TOP 11.10: SG Benrath-Hassels 1910/12 e. V. - Plattierung im Außenbereich des Sport- und Gesundheitszentrums Am Wald 132a - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Bouleplatz Max-Born-Straße - Beschluss der BV9 vom 28.08.2020; BV9/148/2020 - zur Kenntnis genommen
+- TOP 12.2: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2022 - zur Kenntnis genommen
+- TOP 12.3: Rad- und Gehweg Münchener Straße/ Itterstraße - Beschluss der BV9 vom 07.05.2021; BV9/100/2021 - zur Kenntnis genommen
+- TOP 12.4: Anwohnerparken Steinkribbenstraße - Beschluss der BV 9 vom 07.05.2021; BV9/110/2021 - zur Kenntnis genommen
+- TOP 12.5: Neue Mülleimer am Brückerbach - Beschluss der BV 9 vom 07.05.2021; BV9/089/2021 - zur Kenntnis genommen
+- TOP 12.6: Anbindung der Stadtteile Wersten/ Himmelgeist an die Stadtbahnlinie U73 - Beschluss der BV 9 vom 07.05.2021; BV9/095/2021 - zur Kenntnis genommen
+- TOP 12.7: Wegeverbindung Max-Born-Straße zum Rad-/Gehweg Münchener Straße - Beschluss der BV9 vom 07.05.2021; BV9/099/2021 - zur Kenntnis genommen
