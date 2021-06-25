@@ -1,0 +1,7 @@
+# TOP 1: Anerkennung der Tagesordnung
+
+- Sitzung: Bezirksvertretung 1 (2021-06-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/300326
+- Ergebnis: einstimmig beschlossen
