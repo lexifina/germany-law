@@ -1,0 +1,66 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2021-06-25T17:00:00+02:00
+- Ende: 2021-06-25T20:14:00+02:00
+- Ort: BildungsCampus Herford, Mary-Somervill-Boulevard 4, 32049 Herford, KongressCentrum, Auditorium, Mary-Somerville-Boulevard 4 in 32049 Herford
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZelEulDjmRqGrtTdkzaST80
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4134
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUyEwKmOAptuRTL56e7Sc-p05B4O-F2I2H53GlW1Zlxk/Einladung_Rat_25.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZWEX76wemPoPX95Nm0tjzLA4g6aPWjFSnBaQJ6DkM1n/Oeffentliche_Niederschrift_Rat_25.06.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Vereidigung des Stadtkämmerers und Beigeordneten für Finanzen und Zentrale Dienste: Jochen Strieckmann
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 21.05.2021
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Steuerung von Drittorganisationen:
+- TOP A.7a: HVV GmbH: Gesellschafterliste - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Feststellung des Jahresabschlusses 2020 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2020: a) Billigung des Konzernabschlusses b) Ergebnisverwendung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7d: Minden-Herforder Verkehrsgesellschaft mbH: Änderung des Gesellschaftsvertrages sowie des „Öffentlich- rechtlichen Vertrages zwischen den Kreisen Minden-Lübbecke und Herford sowie kreisangehörigen Städten und Gemeinden beider Kreise“ - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2020 b) Ergebnisverwendung c) Vorabausschüttung 2021 d) Bericht des Aufsichtsrates e) Entlastung des Aufsichtsrates f) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7f: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2021 der Beteiligungsunternehmen zum 31.03.2021
+- TOP A.7g: Kultur Herford gGmbH: Brandschutz Stadttheater Herford, Änderung Wirtschaftsplanung - Mit zwei Gegenstimmen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.7h: SWH Stadtwerke Herford GmbH: Beteiligung an der 5G Synergiewerk GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7i: Pro Herford GmbH a) Feststellung des Jahresabschlusses 2020 b) Ergebnisverwendung c) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Finanzierung HerfordPlan
+- TOP A.8a: Genehmigung von überplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW für die Pro Herford. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8b: Pro Herford GmbH: Änderung Wirtschaftsplan 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: 1. Situationsbericht zur Haushaltswirtschaft 2021
+- TOP A.10: Genehmigung von überplanmäßigen Auszahlungen für den Ausbau des Dachgeschosses im Gebäude F auf dem Bildungscampus - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Genehmigung von überplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW für Steuerrückzahlungen. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Auswirkungen der Covid-19-Pandemie auf den städtischen Haushalt
+- TOP A.13: IAB Immobilien- und Abwasser-Betrieb Herford: Änderung der Betriebssatzung und Besetzung des Betriebsausschusses - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Gebührensatzung zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt sind bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Änderung der Satzung über die Errichtung und Unterhaltung von städtischen Unterkünften für Wohnungslose der Hansestadt Herford sowie die Widmung weiterer Wohnungen
+- TOP zu A.15: Änderung der Satzung über die Errichtung und Unterhaltung von städtischen Unterkünften für Wohnungslose der Hansestadt Herford sowie die Widmung weiterer Wohnungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Neue AGB für die Benutzung der Sportstätten der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Familienhilfen: Fortsetzung der Kooperationsvereinbarung im Aufgabenbereich Pflegekinderdienst im Zusammenhang mit der Erarbeitung eines Gesamtkonzeptes für die bedarfsgerechte Betreuung von Kindern - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Wohnungsmarktbericht 2019/2020 der Hansestadt Herford
+- TOP A.18a: Antrag der Fraktion Bündnis'90/DIE Grünen: Wohnungspolitik
+- TOP A.19: Sozialplanung: 2. Demografie- & Sozialmonitoring 2020 - Lebenslagen von Älteren (65+) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Bebauungsplan Nr. 5.27 "Karlstraße/Hermannstraße" hier: Anordnung der Veränderungssperre Nr. 50 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Bebauungsplan Nr. 7.68 "Stedefreunder Straße/Im Obernholz" Hier: Satzungsbeschluss - Mit sechs Gegenstimmen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.22: Bebauungsplan Nr. 8.81 "Nahversorgungszentrum Westring" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Durchführung von verkaufsoffenen Sonntagen am 05.09., 10.10. und 05.12.2021
+- TOP zu A.23: Durchführung von verkaufsoffenen Sonntagen am 05.09., 10.10. und 05.12.2021 - Mit einer Gegenstimme und acht Enthaltungen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.24: ÖPNV-Konzept für Herford
+- TOP A.25: Wahl einer Schiedsperson für den Schiedsamtsbezirk Herford III - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.26: Frieda Nadig Denkmal – Ein Skulpturprojekt für die Hansestadt Herford - Mit 15 Gegenstimmen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.26a: Gemeinsamer Antrag von CDU- und SPD-Fraktion: Frieda-Nadig-Denkmal - Mit 15 Gegenstimmen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.27: Vertretung im Amt: Reihenfolge der allgemeinen Vertreter / Beigeordneten im Vertretungs-falle - Mit 15 Gegenstimmen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.28: Gremienbesetzungen
+- TOP A.28a: Entsendung von Mitgliedern des Seniorenbeirates als beratende Mitglieder in die städtischen Ausschüsse - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28b: Antrag der CDU-Fraktion: Gremienbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28c: Antrag der Fraktion Bündnis'90/DIE Grünen: Gremienbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.29: Antrag der CDU-Fraktion: Überprüfung der Anmeldungen zur Hundesteuer durch Ordnungskräfte in der Hansestadt Herford und fälschungssichere Identifikation der Hunde mittels einer Mikrochipnummer
+- TOP zu A.29: Antrag der CDU-Fraktion: Überprüfung der Anmeldungen zur Hundesteuer durch Ordnungskräfte in der Hansestadt Herford und fälschungssichere Identifikation der Hunde mittels einer Mikrochipnummer - Mit 10 Gegenstimmen und drei Enthaltungen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.30: Mitteilungen
