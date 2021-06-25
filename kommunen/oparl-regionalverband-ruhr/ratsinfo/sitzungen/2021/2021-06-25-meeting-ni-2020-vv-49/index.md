@@ -1,0 +1,85 @@
+# 2. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2021-06-25T10:00:00+02:00
+- Ende: 2021-06-25T13:50:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-49
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2020-VV-49
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-VV-49
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-VV-49
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2020-VV-49
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 11.12.2020
+- TOP 0.1: Bestellung und Abberufung der Schriftführung nebst Stellvertretung für die 14. Wahlperiode
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Städtebauförderung hier: Vorschlag für das Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in Nordrhein-Westfalen 2021
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 1.2: Aufstellungsbeschluss zur 15. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Marl ? Erweiterung eines Allgemeinen Siedlungsbereiches (ASB) im Rahmen eines Flächentausches
+- TOP 1.3: Sachlicher Teilplan 'Regionale Kooperationsstandorte' Hier: Aufstellungsbeschluss
+- TOP 1.3.1: Sachlicher Teilplan 'Regionale Kooperationsstandorte' Hier: Änderung des Aufstellungsbeschlusses
+- TOP 1.3.2: Änderungsantrag zum Sachlichen Teilplan Regionale Kooperationsstandorte
+- TOP 1.3.3: Begleitantrag zum Aufstellungsbeschluss Sachlicher Teilplan Regionale Kooperationsstandorte
+- TOP 1.4: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.0: Entwurf des Jahresabschlusses zum 31.12.2019 des Regionalverbandes Ruhr
+- TOP -: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 2.1: Public Corporate Governance Kodex des Regionalverbandes Ruhr
+- TOP 2.1.1: Public Corporate Governance Kodex des Regionalverbandes Ruhr (RVR)
+- TOP 2.2: Kommunikation der Wissensmetropole Ruhr als Teil der Standortmarketingkampagne
+- TOP 2.2.1: Kommunikation der Wissensmetropole Ruhr als Teil der Standortmarketingkampagne
+- TOP 2.3: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2020
+- TOP 2.4: Fraktionsanträge zum Thema 'Umgang mit der Koordinierung von Wasserstoffinitiativen in der Metropole Ruhr'
+- TOP 2.4.1: Koordination der Wasserstoffinitiativen durch den RVR
+- TOP 2.4.2: 
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.5: Ergänzungsvorlage Regionale Befahrung- Geonetzwerk.metropoleRuhr
+- TOP -: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 2.6: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Synopse zu den Stellungnahmen zum Entwurf des Endberichtes
+- TOP 2.6.1: Betreff: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Synopse zu den Stellungnahmen zum Entwurf des Endberichtes Drucksache Nr. 14 / 0039-1
+- TOP 2.6.2: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Synopse zu den Stellungnahmen zum Entwurf des Endberichtes Drucksache Nr. 14 / 0039-1 und Fraktionsantrag Drucksache Nr.: 14/0240
+- TOP 2.7: Leitbild metropolengerechter öffentlicher Personennahverkehr
+- TOP 2.7.1: Leitbild metropolengerechter öffentlicher Personennahverkehr Drucksache Nr. 14/0102-1
+- TOP 2.8: Synchrone Fortschreibung der Nahverkehrspläne in der Metropole Ruhr
+- TOP 2.8.1: Synchrone Fortschreibung der Nahverkehrspläne in der Metropole Ruhr Drucksache Nr. 14/ 0103-1
+- TOP 2.9: Fahrradverleihsystem metropolradruhr Hier: Jahresbericht 2020 und Weiterentwicklungsperspektiven
+- TOP 2.9.1: Weiterentwicklung metropolradruhr
+- TOP -: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 2.10: Fortführung Kooperationsvertrag Besucherzentrum Hoheward
+- TOP 2.11: Ergänzungsvorlage Klimaoffensive Ruhr; Klimaneutrale Metropole Ruhr
+- TOP 2.11.1: Antrag der Fraktion Die Linke Klimaoffensive Ruhr; Klimaneutrale Metropole Ruhr ? Entwicklung unterschiedlicher Szenarien bei der Masterplanentwicklung
+- TOP 2.11.2: Antrag der Fraktion B90/Die Grünen Klimaneutrale Metropole Ruhr
+- TOP -: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 2.12: Industrielle Kulturlandschaft Ruhr
+- TOP -: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 2.13: Projekt Innovationsberichterstattung für das Ruhrgebiet in Kooperation zwischen dem RWI ? Leibniz-Institut für Wirtschaftsforschung e.V. (RWI) und dem Regionalverband Ruhr (RVR)
+- TOP 2.14: Einrichtung eines regionalen Medienzentrums Ruhr
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.15: Bewerbung UNESCO Weltkulturerbe 'Industrielle Kulturlandschaft Ruhrgebiet'
+- TOP 2.15.1: Begleitantrag - UNESCO Weltkulturerbe ?Industrielle Kulturlandschaft Ruhrgebiet?
+- TOP 2.16: Informationen zur Besetzung des Arbeitskreises VRR-NWL-RVR
+- TOP 2.16.1: Information zur Besetzung des Arbeitskreises VRR-NWL-RVR
+- TOP 2.17: Interfraktionelle Arbeitsgruppe Europa (InterfrAG Europa), hier: personelle Besetzung
+- TOP 2.18: Wechsel im Aufsichtsrat der ruhr:HUB GmbH
+- TOP 2.19: Bekanntgabe der in der Zeit vom 01.01.2021 ? 31.03.2021 für das Haushaltsjahr 2021 genehmigten Haushaltsüberschreitungen
+- TOP 2.20: Resolution der Bezirksvertretung Gelsenkirchen-Ost zur Schließung der Zentraldeponie Emscherbruch (ZDE)
+- TOP -: Vorlagen aus dem letzten Sitzungsquartal
+- TOP 2.21: Stream und Archivierung von Ton- und/oder Videoaufnahmen der Gremiensitzungen
+- TOP 2.21.1: 
+- TOP 2.21.2: Anfrage zur Drucksache Nr. 14/0114
+- TOP 2.21.3: Antwort der Verwaltung auf die Anfrage der Koalitionsfraktionen SPD und CDU Anfrage zur Drucksache Nr. 14/0114 (Video-Streaming)
+- TOP 2.21.4: Ruhrparlaments-TV
+- TOP 2.21.5: Veröffentlichung von Tondokumenten der Verbandsversammlung
+- TOP -: Fraktionsanträge
+- TOP 2.22: Einrichtung eines verbindlichen öffentlichen Registers für Interessenvertreter*innen (Lobbyregister)
+- TOP 2.23: Resolution Wasserstoffzentrum Ruhr
+- TOP 2.24: Anfragen und Mitteilungen
+- TOP 2.24.1: Auswirkungen der Emschertal-Brücken-Sperrung
+- TOP 2.24.2: Anfrage der Fraktion Die Linke Sachstandsbericht zum Projekt ?Radschnellweg Ruhr ? RS1? von Straßen.NRW
+- TOP 2.24.3: Antwort der Verwaltung auf die Anfrage der Fraktion B90/Die Grünen Umweltbildung
