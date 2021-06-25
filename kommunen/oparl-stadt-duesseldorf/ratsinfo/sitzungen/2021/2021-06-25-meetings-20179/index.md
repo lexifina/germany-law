@@ -1,0 +1,73 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-25T14:00:00+02:00
+- Ende: 2021-06-25T16:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20179
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20179
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415477.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415477.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00415477.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 30.04.2021 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung der geplanten Radverbindungen aller drei Hofgartenbereiche - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der Arbeit des Hochhausbeirates - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Auflösung der öffentlichen Einrichtung Großmarkt - Empfehlung einstimmig beschlossen
+- TOP 4.5: Änderungssatzung: Aufhebung des § 1 der Großmarktsatzung - Empfehlung einstimmig beschlossen
+- TOP 4.6: Einrichtung einer Schrankenanlage am Mannesmannufer - abweichend beschlossen
+- TOP 4.7: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 4.8: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 4.9: Schumann-Denkmal von Prof. Lüpertz - Standortwahl - zur Kenntnis genommen
+- TOP 4.10: Bürger*innenbeteiligung zum 39er Denkmal auf dem Reeser Platz - zur Kenntnis genommen
+- TOP 4.11: „Design Classic Düsseldorf 2021“ in der Verkaufshalle des Blumengroßmarktes am Sonntag, dem 28.11.2021 - einstimmig beschlossen
+- TOP 4.12: Änderungen zum Maßnahmenpaket G9 (SOM VII) - Empfehlung einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Liste A 21 211 01 - 52415100 - einstimmig beschlossen
+- TOP 4.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 4.15: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 4.16: Benennung des bisher namenslosen Platzes Blücherstraße/Parkstraße/Marschallstraße nach Maria und Josef Otten in „Maria-und-Josef-Otten-Platz“ - einstimmig beschlossen
+- TOP 4.17: Information der Verwaltung zur Prämierung des Projektes „Neugestaltung Tonhallenufer“ in der ersten Stufe des Landeswettbewerb „Zukunft Stadtraum“ - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Gaslaternen im Quartier Gneisenaustraße / Goebenstraße / Parkstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 5.2: Zweitwohnungen im Stadtbezirk 1 - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Ersatz für Kunstwerk auf dem Reuterplätzchen - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Verzeichnis nicht aufgestellter Kunstwerke - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Beginn der Umsetzung von Maßnahmen zur Klimaanpassung auf dem Areal Ulmer Höh in Derendorf - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.4: Schulwegsicherung zum Humboldt Gymnasium - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Schulwegsicherung zum Leibniz-Montessori Gymnasium - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Neuer Standort des Musikpavillon am Heinrich-Heine-Platz im Hofgarten - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.2: Enten Füttern verboten - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 7.3: Sicherheit wiederherstellen, Roßstraße Ecke An der Ulanenkaserne - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.4: Sicherheit wiederherstellen, Roßstraße 101 Ecke Gravelottestraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.5: Baumpflanzung in der Füsilierstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.6: Sanierung und Aufwertung der Liesegangstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 7.7: Konzeptentwicklung zur Verbesserung der Sauberkeit der Immermannstraße - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 7.8: Vorstellung der Radverkehrsplanung am Kö-Bogen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.9: Neues Spielgerät für den Spielplatz an der Stephanienstraße - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 7.10: Radwegbeschilderung Marc-Chagall-Straße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Unbelegte Grabflächen auf dem Nordfriedhof insektenfreundlich gestalten; Beschluss der Bezirksvertretung 1 vom 28.05.2021; BV1/111/2021 - zur Kenntnis genommen
+- TOP 8.3: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Essener Straße; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/088/2021 - zur Kenntnis genommen
+- TOP 8.4: Piktogramme am Boden an den Einfahrten in die Carlstadt; Beschluss der Bezirksvertretung 1 vom 26.03.2021; BV1/071/2021 - zur Kenntnis genommen
+- TOP 8.5: Freie Sicht auf die Düsselmündung an der Unteren Werft; Beschluss der Bezirksvertretung 1 vom 24.05.2019; 171/ 95/2019 - zur Kenntnis genommen
+- TOP 8.6: Sanierung der historischen Festungsmauer Bastion Diamantstein "Maria Amalia"; Beschluss der Bezirksvertretung 1 vom 30.04.2021: BV1/095/2021 - zur Kenntnis genommen
+- TOP 8.7: Toulouser Allee - Straßenbauarbeiten im Bereich der Zufahrt zu Hochschule Düsseldorf - zur Kenntnis genommen
+- TOP 8.8: Netzkapazitäten für E-Ladeinfrastruktur im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 28.05.2021; BV/107/2021 - zur Kenntnis genommen
+- TOP 8.9: Nutzung der Parkplätze direkt am Carlsplatz durch die Markthändler, Beschluss der Bezirksvertretung 1 vom 04.12.2021; BV1/317/2020 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Reiner Rheinpark - einstimmig beschlossen
+- TOP 10: Verschiedenes
