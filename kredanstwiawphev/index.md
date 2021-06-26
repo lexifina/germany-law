@@ -16,7 +16,7 @@
 - [§ 6 Bestätigung durch Prüfer](0006.md)
 - [§ 7 Übergangsvorschriften](0007.md)
 - [§ 7a Übergangsvorschriften zur Fünften Verordnung zur Änderung der EdW-Beitragsverordnung](0007a.md)
-- [§ 7b Subdelegation](0007b.md)
+- [§ 7b (weggefallen)](0007b.md)
 - [§ 7c Übergangsvorschriften zur sechsten Verordnung zur Änderung der EdW-Beitragsverordnung](0007c.md)
 - [§ 7d Übergangsvorschriften zur Siebten Verordnung zur Änderung der EdW-Beitragsverordnung](0007d.md)
 - [§ 7e Übergangsvorschriften zur Achten Verordnung zur Änderung der EdW-Beitragsverordnung](0007e.md)

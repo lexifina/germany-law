@@ -90,7 +90,7 @@
 |  |  | b) | Courtage aus Poolausgleich |  | ... Euro" |
 | *6) | Kreditgenossenschaften, die das Warengeschäft betreiben, haben nach dem Aufwandposten 3 Nettoaufwand des Handelsbestands oder nach dem Ertragsposten 5 Nettoertrag des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten einzufügen: |
 |  |  | "3a./5a. | Rohergebnis aus Warenverkehr und Nebenbetrieben |  | ... Euro". |
-| *7) | Finanzdienstleistungsinstitute, sofern sie nicht Skontroführer im Sinne des § 27 Abs. 1 des Börsengesetzes sind, haben anstatt des Aufwandpostens 3 Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten aufzuführen: |
+| *7) | Finanzdienstleistungsinstitute und Wertpapierinstitute, sofern sie nicht Skontroführer im Sinne des § 27 Abs. 1 des Börsengesetzes sind, haben anstatt des Aufwandpostens 3 Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten aufzuführen: |
 |  |  | "3. Aufwand des Handelsbestands |  | ... Euro" |
 |  | und anstatt des Ertragspostens 5 Nettoertrag des Handelsbestands folgenden Posten aufzuführen: |
 |  |  | "5. Ertrag des Handelsbestands |  | ... Euro". |

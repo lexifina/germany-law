@@ -578,3 +578,4 @@
 - [§ 358 Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1](0358.md)
 - [§ 359 Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4](0359.md)
 - [§ 360 Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0360.md)
+- [§ 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3](0361.md)

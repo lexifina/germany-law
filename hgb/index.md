@@ -530,8 +530,7 @@ für eingetragene Genossenschaften
 Unternehmen bestimmter Geschäftszweige
 
 
-#### Erster Unterabschnitt Ergänzende Vorschriften
-für Kreditinstitute und Finanzdienstleistungsinstitute
+#### Erster Unterabschnitt Ergänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute
 
 
 ##### Erster Titel Anwendungsbereich

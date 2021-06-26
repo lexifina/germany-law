@@ -41,9 +41,7 @@ einschließlich Schuldverschreibungen aus deren Umtausch
 
 ### Unterabschnitt 2 Posten der Passivseite
 
-- [§ 21 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),
-
-Verbindlichkeiten gegenüber Kunden (Nr. 2)](0021.md)
+- [§ 21 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),Verbindlichkeiten gegenüber Kunden (Nr. 2)](0021.md)
 - [§ 22 Verbriefte Verbindlichkeiten (Nr. 3)](0022.md)
 - [§ 23 Rechnungsabgrenzungsposten (Nr. 6)](0023.md)
 - [§ 24 Rückstellungen (Nr. 7)](0024.md)
@@ -54,12 +52,9 @@ Verbindlichkeiten gegenüber Kunden (Nr. 2)](0021.md)
 ## Abschnitt 4 Vorschriften zu einzelnen
 Posten der Gewinn- und Verlustrechnung (Formblätter 2 und 3)
 
-- [§ 28 Zinserträge (Formblatt 2 Spalte Erträge Nr. 1,
-Formblatt 3 Nr. 1)](0028.md)
+- [§ 28 Zinserträge (Formblatt 2 Spalte Erträge Nr. 1, Formblatt 3 Nr. 1)](0028.md)
 - [§ 29 Zinsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 1, Formblatt 3 Nr. 2)](0029.md)
-- [§ 30 Provisionserträge (Formblatt 2 Spalte Erträge Nr. 4,
-Formblatt 3 Nr. 5), Provisionsaufwendungen (Formblatt 2
-Spalte Aufwendungen Nr. 2, Formblatt 3 Nr. 6)](0030.md)
+- [§ 30 Provisionserträge (Formblatt 2 Spalte Erträge Nr. 4, Formblatt 3 Nr. 5), Provisionsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 2, Formblatt 3 Nr. 6)](0030.md)
 - [§ 31 Allgemeine Verwaltungsaufwendungen (Formblatt 2 Spalte
 Aufwendungen Nr. 4, Formblatt 3 Nr. 10)](0031.md)
 - [§ 32 Abschreibungen und Wertberichtigungen auf Forderungen

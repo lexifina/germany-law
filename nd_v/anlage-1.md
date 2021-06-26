@@ -4,7 +4,7 @@
   Die Daten sind entweder zu übermitteln
   – entsprechend den nach den jeweils gültigen Normen des Normungsausschusses des Deutschen Instituts für Normung e. V. NA 043-03-03 AA – Elektronisches Geschäftswesen – festgelegten EDIFACT-Standards, zusammen mit einer begleitenden elektronischen Textdatei in einem üblichen, nicht proprietären Format, in der eine genaue und erschöpfende Angabe der verwendeten Nachrichtentypen und ihres Aufbaus enthalten ist, oder
   – als XML-Datensatz mit einer der Anfrage entsprechenden Schema-Definition (XSD), die der W3C-Empfehlung W3C XML entspricht (§ 5 Absatz 1).
-2. Kreditinstitute, Finanzdienstleistungsinstitute und Finanzunternehmen
+2. Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten und Finanzunternehmen
   Die Daten sind zu übermitteln,
   a) soweit die Daten dem Verpflichteten in einem elektronischen Format vorliegen, das eine Übermittlung in elektronischer Form ohne Medienbruch ermöglicht; dies ist insbesondere nur der Fall, wenn die zu übermittelnden Datensätze ohne Anwendung von Methoden optischer Zeichenerkennung erzeugt werden können und es automatisiert möglich ist, die angeforderten Datensätze bezogen auf ein oder mehrere Merkmale zu übermitteln, die auf einen Berechtigten oder Teilnehmer am Zahlungsverkehr bezogen sind (wie Nummern von Konten, Depots, Zahlungskarten)
     aa) für Verpflichtete, die die nachfolgend genannten Standards in ihrem Geschäftsbetrieb verwenden, für Daten, deren Darstellung die Standards vorsehen:

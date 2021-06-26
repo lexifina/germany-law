@@ -17,7 +17,6 @@ Finanzdienstleistungsaufsicht
 - [§ 7 Zusammenarbeit mit Aufsichtsbehörden im Inland](0007.md)
 - [§ 8 Zusammenarbeit mit zuständigen Stellen im Ausland](0008.md)
 - [§ 9 Verschwiegenheitspflicht](0009.md)
-- [§ 9 Verschwiegenheitspflicht](0009-2.md)
 
 ## Abschnitt 3 Angebote zum Erwerb von Wertpapieren
 
