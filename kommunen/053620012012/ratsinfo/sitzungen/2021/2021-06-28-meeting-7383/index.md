@@ -1,0 +1,64 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-06-28T18:04:00+02:00
+- Ende: 2021-06-28T19:56:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaOp3HTFWgyPGA3MVvG6KTk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7383
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR8T2S4Y8-gSJ6ZVk3Ym9SCX_G_xC0mQU5pSuygvHUtA/Bekanntmachung_Rat_28.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbIqMYOxQzVaQ9r_isBlvCVbm_cnmBuHD3ihVGDWMekS/Oeffentliche_Niederschrift_Rat_28.06.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Notfallkoffer
+- TOP 1.2: Ferienwohnungen
+- TOP 1.3: Geschäftsordnung für den Rat der Stadt Brühl und seine Ausschüsse
+- TOP 1.4: Geruchsbelästigung
+- TOP 2.: Niederschrift vom 03.05.2021
+- TOP 3.: Änderung der Geschäftsordnung für den Rat und die Ratsausschüsse der Stadt Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 15.10.2020 (413/2020); Beschluss Hauptausschuss vom 12.04.2021 - (kein Text vorhanden)
+- TOP 4.: Satzungen
+- TOP 4.1: 16. Änderung der Hauptsatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.2: 1. Satzung zur Änderung der Satzung für das Jugendamt der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.3: Satzung über die Stundung, Niederschlagung und den Erlass von Geldansprüchen der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.: Kindertagesbetreuung in Einrichtungen Bau und Einrichtung der fünfgruppigen Kindertagesstätte „Rheinblick“, Wingertsberg 27 - (kein Text vorhanden)
+- TOP 6.: Spielraumplanung hier: Öffnung weiterer Spielplätze als Treffpunkte für Jugendliche und Verlängerung der Testphase Bezug: Antrag der CDU-Fraktion vom 25.02.2021 - (kein Text vorhanden)
+- TOP 7.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahr 2020 hier: Schreiben der KSK vom 26.05.2021
+- TOP 8.: Ermächtigungsübertragung aus dem Haushaltsplan 2020 nach 2021
+- TOP 9.: Bebauungspläne
+- TOP 9.1: Bebauungsplan 11.02 TBB "Hauptstraße/Stiftstraße/Zum Sommersberg" - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 9.2: Bebauungsplan 01.18 „Innenstadt Brühl - zwischen Linie 18 (Pingsdorfer Straße) bis Heinrich-Esser-Straße zwischen Mühlenstraße im Westen und Fischmarkt, Franziskanerhof, Burgstraße, Gartenstraße im Osten“ - 1. Verlängerung der Veränderungssperre gemäß § 14-18 BauGB - - (kein Text vorhanden)
+- TOP 10.: Gründung der Stadtwerke Brühl Verkehrs GmbH (SWBV) - (kein Text vorhanden)
+- TOP 11.: ÖDA - Direktvergabe Stadtbus - (kein Text vorhanden)
+- TOP 12.: Entwurf des Jahresabschlusses 2020 - (kein Text vorhanden)
+- TOP 13.: Jahresabschluss 2020 der Gebausie - (kein Text vorhanden)
+- TOP 14.: Anträge
+- TOP 14.1: Israelische Partnerstadt für Brühl Bezug: Antrag der AfD-Fraktion vom 01.06.2021 - (kein Text vorhanden)
+- TOP 14.2: Anbringung einer Gedenktafel zur Erinnerung an das schwere Zugunglück vom 06.02.2000 an geeigneter Stelle am Bahnhof Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 10.06.2021 - (kein Text vorhanden)
+- TOP 15.: Umbesetzung in Ausschüssen
+- TOP 15.1: Umbesetzung in der SPD-Fraktion hier: mündlich gestellter Antrag vom 28.06.2021
+- TOP 16.: Überörtliche Prüfung durch die Gemeindeprüfungsanstalt NRW (gpaNRW) - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Smart-Parking
+- TOP 18.2: Resolution Rheinspange
+- TOP 18.3: Spielplatz Untermühle
+- TOP 18.4: Maskenpflicht
+- TOP 18.5: Fuß- und Radweg "An der Ville-Bahn"
+- TOP 18.6: Haltestelle Linie 18 Badorf; Abgang Eichweg
+- TOP 18.7: Café Giesler-Galerie
+- TOP 18.8: Baustelle Alte Bonnstraße / Vorgebirgsstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Abberufung eines Rechnungsprüfers - (kein Text vorhanden)
+- TOP 20.: Bildung der Einigungsstelle nach § 67 LPVG NW (Landespersonalvertretungsgesetz Nordrhein-Westfalen) - (kein Text vorhanden)
+- TOP 21.: Stellungnahme zur Besetzung der Schulleitung an der Erich-Kästner-Realschule gem. § 61 SchulG NRW - (kein Text vorhanden)
+- TOP 22.: Bestellung Geschäftsführung neue Stadtwerke Brühl Verkehrs GmbH (SWBV) - (kein Text vorhanden)
+- TOP 23.: Bericht über die 157. Sitzung des Aufsichtsrates der REVG mbH am 25.03.2021
+- TOP 24.: Mitteilungen
+- TOP 24.1: Einführung der gelben Tonnen
+- TOP 25.: Anfragen
