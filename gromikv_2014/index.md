@@ -9,23 +9,24 @@
 ### Kapitel 1 Ausnahmen von der Anwendung der Obergrenze für Großkredite
 
 - [§ 1 Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013](0001.md)
-- [§ 2 Weitere Ausnahmen von der Anwendung der Ober- grenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten](0002.md)
+- [§ 2 Weitere Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten](0002.md)
+- [§ 2a Gleichzeitige Anwendung von mehreren Ausnahmen auf eine Risikoposition](0002a.md)
 
 ### Kapitel 2 Beschlussfassungspflichten der Geschäftsleiter
 
 - [§ 3 Ausnahmen von der Beschlussfassungspflicht nach § 13 Absatz 2 des Kreditwesengesetzes](0003.md)
 - [§ 4 Beschlussfassungspflicht bei Großkreditüberschreitungen](0004.md)
 
-### Kapitel 3 Nutzung der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013
+### Kapitel 3 (weggefallen)
 
-- [§ 5 Anzeige der Nutzung der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013](0005.md)
-- [§ 6 Meldung der Positionen des Handelsbuchs](0006.md)
-- [§ 7 Organisatorische Maßnahmen](0007.md)
+- [§ 5 (weggefallen)](0005.md)
+- [§ 6 (weggefallen)](0006.md)
+- [§ 7 (weggefallen)](0007.md)
 
 ### Kapitel 4 Meldungen zu Großkrediten
 
 - [§ 8 Stammdaten der Großkreditnehmer](0008.md)
-- [§ 9 Stammdatenrückmeldung](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [§ 10 Aufbewahrungsfristen](0010.md)
 
 ## Teil 2 Bestimmungen für Millionenkredite
@@ -51,9 +52,9 @@
 
 ## Teil 4 Übergangs- und Schlussvorschriften
 
-- [§ 20 Übergangsbestimmungen](0020.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Inkrafttreten, Außerkrafttreten](0021.md)
-- [Anlage 1 HA](anlage-1.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 Meldeformular EA](anlage-2.md)
 - [Anlage 3 Meldeformular STA](anlage-3.md)
 - [Anlage 4 GbR](anlage-4.md)
