@@ -1,0 +1,8 @@
+# TOP 4.1: Anmeldezahlen zur Abraham-Frank-Sekundarschule für das kommende Schuljahr
+
+- Sitzung: Stadtrat (6. Sitzung) (2021-06-28)
+- Körperschaft: Stadt Velen
+- Öffentlich: ja
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/19325
+- Beratung: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/6122
+- Beschluss (Datei): Beschlußtext (Anmeldezahlen zur Abraham-Frank-Sekundarschule für das kommende Schuljahr) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaiN0U-a3yaUhykpasxmHwqTntIHx9318jndb4eCkKRy/Beschlusstext_28-2021_-oeffentlich-_Stadtrat_28.06.2021.pdf
