@@ -1,0 +1,76 @@
+# 7. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-06-28T17:00:00+02:00
+- Ende: 2021-06-28T19:15:00+02:00
+- Ort: Bürgerzentrum Ehrenfeld, Venloer Straße 429, 50825 Köln,
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23105
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23105
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Durchgehender Radweg für den Mühlenweg in Ossendorf (Az.: 02-1600-167/20) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Rochusstraße (Az.: 02-1600-222/20) und Bürgereingabe gem. § 24 GO, betr.: Fahrradstraße Rochusstraße in Köln-Bickendorf - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Butzweiler Hof (Az.: 02-1600-185/20) - geändert beschlossen
+- TOP 3.3.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 3.3., betr.: Bürger*inneneingabe Verkehrssituation Butzweiler Hof - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke/Die Partei, betr.: Baumfällungen im Wassermannpark - Kenntnis genommen
+- TOP 6.1.1: Baumfällungen im Wassermannpark - Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: die Beantwortung erfolgt schriftlich zur Niederschrift
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Schlangenbildung auf der Venloer Straße - Kenntnis genommen
+- TOP 6.3.1: Schlangenbildung auf der Venloer Straße - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Die Linke/Die Partei BV 4, betr.: Boden behalten? Wie haben sich die Verkäufe öffentlichen Grund und Bodens entwickelt? - Kenntnis genommen
+- TOP -: die Beantwortung erfolgt unter TOP 20.2 im nichtöffentlichen Teil
+- TOP 6.5: Anfrage der SPD-Fraktion, betr.: BV Beschluss zu Bereitstellungzonen für kommerzielle Leihfahrzeuge - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke/Die Partei, betr: Walls of Fame für Ehrenfeld? Wo und wie können legale Graffiti-Flächen entstehen? - Kenntnis genommen
+- TOP 7.1.1: Beantwortung der Anfrage AN/1245/2021 der Fraktion DIE LINKE./Die PARTEI, : Walls of Fame für Ehrenfeld? Wo und wie - Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Anfrage der FDP: Bedarf an Quartiersgaragen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Die Linke/Die Partei: Öffentliche Toiletten im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.5: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Raserei an der Glasstraße - zurückgestellt
+- TOP 7.6: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Führung des Rad- und Fußverkehrs in der Butzweilerstraße - zurückgestellt
+- TOP 7.7: Anfrage der SPD-Fraktion: Ausschreibung Fußgängerbeauftragte*r - zurückgestellt
+- TOP 7.8: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Führung des Radverkehrs Eichendorffstraße - zurückgestellt
+- TOP 7.9: Anfrage der SPD-Fraktion, betr.: Baumpflanzungen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.10: Anfrage der SPD-Fraktion, betr.: Sachstand „Neugestaltung der Bezirkssportanlage Everhardstraße“ - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion BÜNDIS 90/DIE GRÜNEN: Lichtsignale Innere Kanalstraße - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Nutzung des Grundstückes Wilhelm-Schreiber-Str. 49 a-c in 50827 Köln Ossendorf - endgültig zurückgezogen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der FDP: Kommunales Sonder-Schwimmlern-Programm in der Corona-Pandemie - ungeändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Grundstück der Fa. Max Becker GmbH und Co KG / Widdersdorferstraße und Maarweg - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Öffnung der Lichtstraße für den Zweirichtungsverkehr bis zu einer geplanten Tiefgaragenausfahrt - zurückgestellt
+- TOP 9.1.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: TOP 9.1 Öffnung der Lichtstraße für den Zweirichtungsverkehr bis zu einer geplanten Tiefgaragenausfahrt - zurückgestellt
+- TOP 9.2: Zuwendung aus dem städtischen Aktivierungsfonds für zwei Projekte im Sozialraum „Bocklemünd/Mengenich“ - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Wilhelm-Schreiber-Straße 49 a-c, 50827 Köln-Ossendorf – Einstellung des Bauvorhabens und Rückbau - geändert beschlossen
+- TOP 10.2: Genehmigung einer Dringlichkeitsentscheidung, betr.: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: VHS ist wieder stärker in den "Veedeln" präsent - Kenntnis genommen
+- TOP 12.2: Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
+- TOP 12.3: "Der Städtebauliche Masterplan für die Innenstadt Köln" hier: Aktueller Sachstand und Ausblick - Kenntnis genommen
+- TOP 12.4: Carsharing im öffentlichen Raum - Kenntnis genommen
+- TOP 12.5: Lichtsignalanlage Venloer Straße/Kolkrabenweg/Westendstraße - Kenntnis genommen
+- TOP 12.6: Lichtsignalanlagen Ehrenfeld Gürtel - Kenntnis genommen
+- TOP 12.7: Stadtbahnvorhaben Widdersdorf - Brauweiler - Glessen - Niederaußem - Kenntnis genommen
+- TOP 12.8: Mitteilung über Freigabe der Zuwendung für Planungskosten "Haus am Maarweg" in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.9: Umsetzung des Straßenbaumkonzeptes Ehrenfeld - Kenntnis genommen
+- TOP 12.10: Flächenbericht 2020 für die Gebäude- und Parkflächen des Sondervermögens der Gebäudewirtschaft der Stadt Köln (GW) wird verschoben - Kenntnis genommen
+- TOP 12.11: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfs Nr. 62486/02 gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) Arbeitstitel: Ossendorfer Weg / Mühlenweg in Köln-Bickendorf - Kenntnis genommen
+- TOP 12.12: Schulwegsicherung Schule Wasseramselweg - Kenntnis genommen
+- TOP 12.13: Kommunales Sonder-Schwimmlern-Programm in der Corona-Pandemie - Kenntnis genommen
+- TOP 12.14: Entwicklung Kulturbaustein Helios - Kenntnis genommen
+- TOP 13: mündliche Anfragen
