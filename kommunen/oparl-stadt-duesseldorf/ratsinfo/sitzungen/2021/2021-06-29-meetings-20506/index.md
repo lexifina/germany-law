@@ -1,0 +1,73 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-29T17:00:00+02:00
+- Ende: 2021-06-29T18:42:00+02:00
+- Ort: Hotel Mutterhaus, Geschwister-Aufricht-Straße 1, 40489 Düsseldorf - Caroline Fliedner Saal
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20506
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20506
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416114.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416114.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416114.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 27. April 2021 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 18. Mai 2021 - einstimmig beschlossen
+- TOP 4: "Städtebaulicher Wildwuchs in Kalkum und Lohausen" - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Qualitätssicherung - Nördlich Kalkumer Schloßallee - Empfehlung einstimmig beschlossen
+- TOP 14: Ersatzneubau Brücke Annostraße - einstimmig beschlossen
+- TOP 15: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 16: Zuschuss an den Angermunder Tennisclub e.V. - einstimmig beschlossen
+- TOP 17: Haushaltsmittel 2021 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 18: Knotenpunktumbau B 8 - "Am Spielberg"
+- TOP 19: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 20: Fahrradwege auf breiten Bürgersteigen - hier beispielhaft auf dem Leuchtenberger Kirchweg - beantwortet
+- TOP 21: Kaiserswerther Markt - Wann findet der Workshop statt? - beantwortet
+- TOP 22: "Verbessernde Instandsetzung" des Kaiserswerther Marktes – Eine echt machbare Alternative? - beantwortet
+- TOP 23: Stellungnahme der Stadt Düsseldorf zum Ausbau des Kreuzungsbereiches Am Spielberg der B8n
+- TOP 24: Planung Umbau Kaiserswerther Markt - beantwortet
+- TOP 25: Mehrgenerationencampus Kaiserswerth - Entwicklungsmöglichkeiten der Grundschule Kaiserswerth - beantwortet
+- TOP 26: Radfahren auf der Sankt-Göres-Straße - beantwortet
+- TOP 27: Mehrgenerationencampus Kaiserwerth - Bedarf an altengerechten Wohnungen im Bezirk 5
+- TOP -: Neue Anfragen
+- TOP 28: Schwarzbachauen
+- TOP 29: Beteiligung der Stadt Düsseldorf sowie Städtischer Töchter an der Bodenpreis- und Mietpreisentwicklung in Lohausen
+- TOP 30: Photovoltaikanlagen auf den neuen Anbauten der Montessori Grundschule Farnweg 10, sowie der Toni-Turek-Realschule Klapheckstraße 31
+- TOP 31: Leerstehender Wohnraum in Kaiserswerth
+- TOP 32: Angermunder Straße/Gerichtsschreiberweg - angepasste Geschwindigkeitsbegrenzung
+- TOP 33: Radwege auf der Einbrunger Straße
+- TOP 34: Umsetzung des Landschaftsschutzes am Himgesberg
+- TOP 35: Hochwasserschutzmauer Rheinuferpromenade
+- TOP -: Anträge
+- TOP 36: Was wird aus dem Kalkumer Schloss? - abweichend beschlossen
+- TOP 37: Schutz der Wege in der "Grünen Mitte" in Wittlaer-Einbrungen - einstimmig beschlossen
+- TOP 38: Ausbesserung der Fahrbahn am Kaiserswerther Markt - mehrheitlich abgelehnt
+- TOP 39: Taxiplätze temporär verlegen, Hol- und Bringverkehr aus Kaiserswerth halten! Beschluss der Bezirksvertretung 5 vom 10.09.2019 (BV5/018/2019) vollständig umsetzen! - einstimmig beschlossen
+- TOP 40: Renovierungsarbeiten Bürgerhaus Angermund - einstimmig beschlossen
+- TOP 41: Nichts ist dauerhafter als ein Provisorium!? Provisorische Holzkonstruktion zwischen Burgallee und Herbert-Eulenberg-Weg ersetzen! - einstimmig beschlossen
+- TOP 42: Zuständigkeit der Bezirksvertretung für Parkraumzuteilung wahren! - einstimmig beschlossen
+- TOP 43: Verschmutzungen in Kaiserswerth reduzieren - abweichend beschlossen
+- TOP 44: Ungesteuerte Siedlungsentwicklung in Kalkum-Unterdorf - zurückgezogen
+- TOP 45: Jüdische Erinnerungsorte im Stadtteil Kaiserswerth - Jüdischer Friedhof Alte Landstraße/Zeppenheimer Weg - einstimmig beschlossen
+- TOP 46: Deutliche Berücksichtigung von Bürger*innen, Klima und Umwelt im Plangebiet nördlich Kalkumer Schlossallee - einstimmig beschlossen
+- TOP 47: Eine Fundsachenklappe für das neue Bürgerbüro in Kaiserswerth - einstimmig beschlossen
+- TOP 48: Einen Zebrastreifen für die Lantzallee - für Alt und Jung - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 49: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 50: Verschiedenes
