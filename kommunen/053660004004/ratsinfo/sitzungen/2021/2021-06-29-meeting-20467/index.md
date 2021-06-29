@@ -1,0 +1,52 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-06-29T18:00:00+02:00
+- Ende: 2021-06-29T18:50:00+02:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZensLjlOg0Tr88PfsPLQcXc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20467
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdsZHTEDaFd42UlVck9Ocb38lZQLj3Rb56gjoTfdbO1R/Bekanntmachung_Rat_29.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZjulz9GK4YnhR8mtX9sp8zeSBIbwx-Zu69bGbweceP1/Oeffentliche_Niederschrift_Rat_29.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 11.05.2021 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Feststellung des Ergebnisses des Bürgerentscheids vom 30.05.2021 - Einstimmiger Beschluss:
+- TOP 5.: Umbesetzung im Bildungs- und Sozialausschuss hier: Antrag der CDU-Fraktion vom 04.06.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: Verbesserung der technischen Ausstattung im Rats- und Bürgersaal hier: Antrag der CDU-Fraktion vom 04.05.2021 - Einstimmiger Beschluss:
+- TOP 7.: Straßen- und Wegekonzept nach § 8 a) Kommunalabgabengesetz (KAG) NRW hier: Förmlicher Ausführungsbeschluss - Beschluss s. RD 387-XI/Z-1.
+- TOP -: Straßen- und Wegekonzept nach § 8 a) Kommunalabgabengesetz (KAG) NRW hier: Förmlicher Ausführungsbeschluss - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 8.: Wendeanlage in Eschweiler im Rahmen Integration Schülerspezialverkehr in den ÖPNV hier: Beschreibung Maßnahme - Einstimmiger Beschluss:
+- TOP -: Wendeanlage in Eschweiler im Rahmen Integration Schülerspezialverkehr in den ÖPNV hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 9.: 32. Änderung des Flächennutzungsplanes "Sondergebiet mit Zweckbestimmung Einzelhan-del/Nahversorgung" für den Bereich Bahnhofstraße / L 11 / L 194, Ortsteil Arloff hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen alle einstimmig bei 4 Enthaltungen und ohne die Mitwirkung des Stadtverordneten Thomas Bell.
+- TOP 10.: Bebauungsplan Nr. 95 "Arloff - Zur Waage" im beschleunigten Verfahren gem. § 13a BauGB "Bebauungspläne der Innenentwicklung" hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen mit folgenden Ausnahmen einstimmig:Kreis Euskirchen – NR. 11.2.3 und 11.2.4 Abwägungsbeschlüsse mit 1 Gegenstimme.
+- TOP 11.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortschreibung des ISEK und Beantragung von Maßnahmen für eine 2. Förderphase von 2023 – 2027 Beauftragung der Fortschreibung des ISEK - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 12.: 5. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an einer offenen Ganztagsschule im Primarbereich der Stadt Bad Münstereifel - Beschluss mit 14 Ja- und 16 Nein-Stimmen und damit abgelehnt:
+- TOP 13.: Medienentwicklungsplanung für die Schulen in Trägerschaft der Stadt Bad Münstereifel hier: Genehmigung einer überplanmäßige Ausgabe - Einstimmiger Beschluss:
+- TOP 14.: Förderung von IT-Administration - Einstimmiger Beschluss:
+- TOP 15.: Zukünftige Finanzierung der Nordeifel Tourismus (NeT) GmbH - Beschluss mit 1 Gegenstimme:
+- TOP 16.: Fachbeitrag "Erholung und Tourismus" zur Überarbeitung des Regionalplanes für den Regierungsbezirk Köln - Beschluss mit 1 Gegenstimme:
+- TOP 17.: 5. Satzung zur Änderung der Satzung über die Erhebung eines Fremdenverkehrsbeitrages in der Stadt Bad Münstereifel vom 11.12.2014 - Beschluss mit 1 Gegenstimme und 3 Enthaltungen:
+- TOP 18.: Förderprogramm "Feuerwehrhäuser in Dörfern 2022", hier: Um-/Erweiterungsbau Feuerwehrgerätehäuser Hohn/Eicherscheid/Bad Münstereifel - Beschlüsse s. RD 361-XI/Z-2 und 361-XI/Z-3.
+- TOP -: Förderprogramm "Feuerwehrhäuser in Dörfern 2022", hier: Um-/Erweiterungsbau Feuerwehrgerätehäuser Hohn/Eicherscheid/Bad Münstereifel - Einstimmiger Beschluss:
+- TOP -: Förderprogramm "Feuerwehrhäuser in Dörfern 2022", hier: Genehmigung einer außerplanmäßigen Auszahlung für Neubau Feuerwehrgerätehaus Eicherscheid - Einstimmiger Beschluss:
+- TOP 19.: Gesamtabschluss 2018 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie Feststellung und Entlastung gem. § 116 Abs. 5 GO NRW i.V.m. § 96 GO NRW - Einstimmiger Beschluss:
+- TOP 20.: Jahresabschluss 2020 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses 2020 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Private Nutzung der städtischen iPads
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Einstimmiger Beschluss:
+- TOP 2.: Wendeanlage in Eschweiler im Rahmen Integration Schülerspezialverkehr in den ÖPNV hier: Ausschreibung und Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 3.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der e-regio GmbH & Co. KG an einem Ingenieurbüro für techn. Gebäudeausrüstung - Einstimmiger Beschluss bei 3 Enthaltungen:
+- TOP 4.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der e-regio GmbH & Co. KG an der Versorger-Allianz 450 Beteiligungs-GmbH & Co. KG - Einstimmiger Beschluss bei 4 Enthaltungen:
+- TOP 5.: Errichtung von Windenergieanlagen hier: weiteres Vorgehen zur Verpachtung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP -: Errichtung von Windenergieanlagen hier: Information des Kirchenvorstandes St. Willibrord Nöthen - Beschluss s. RD 33-XI/Z-16.
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Anfragen und Mitteilungen: Abfallentsorgung hier: Abschluss einer öffentlich-rechtlichen Vereinbarung gemäß § 23 Absatz 1 des Gesetzes über die kommunale Gemeinschaftsarbeit (GkG) zwischen den Städten und Gemeinden Bad Münstereifel, Blankenheim, Dahlem, Hellenthal, Kall, Mechernich, Schleiden, Weilerswist und Zülpich über gemeinsame Regelungen bei der Abfallsammlung und -beförderung
