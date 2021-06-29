@@ -1,0 +1,59 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-29T17:00:00+02:00
+- Ende: 2021-06-29T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20652
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20652
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket TOP 13 - 19 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416747.pdf
+- Ergebnisprotokoll: Sitzungspaket TOP 13 - 19 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416747.pdf
+- Wortprotokoll: Sitzungspaket TOP 13 - 19 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416747.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 3: Bürgersprechstunde
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Uedesheimer Straße - Einrichtung wechselseitiges Parken mit Baumscheiben (§24 GO) - einstimmig beschlossen
+- TOP 6: Baumschutz und Neupflanzungen - Bericht der Verwaltung - zur Kenntnis genommen
+- TOP 7: Bebauungsplanverfahren Nr. 03/036 - Östlich Christophstraße - einstimmig beschlossen
+- TOP 8: Bebauungsplan-Entwurf Nr. 03/011 - Kaistraße 1 - einstimmig beschlossen
+- TOP 9: Ludwig-Hammers-Platz - Umbau Knotenpunkt -Ausführungs- und Finanzierungsbeschluss- - zur Kenntnis genommen
+- TOP 9.1: Änderungsantrag zum AuF Umbau Knotenpunkt Ludwig-Hammers-Platz (Antrag CDU-Fraktion) - zurückgezogen
+- TOP 10: Namensänderungen der KGS Fleher Straße 213 und der Bonifatius-Schule - einstimmig beschlossen
+- TOP 11: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „GGS Kronprinzenstraße – Erweiterung um Sporthalle und Mensa" - einstimmig beschlossen
+- TOP 12: Errichtung einer Grundschule am Schulstandort Heerstraße 18/18a - einstimmig beschlossen
+- TOP 13: Zielkonzept Stadtbahn/Straßenbahn - vertagt
+- TOP 14: Festlegung des Trassenverlaufs des Radschnellwegs Neuss, Düsseldorf und Langenfeld im Rahmen des Linienbestimmungsverfahrens - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Zuschussantrag Kajak Club Düsseldorf-Hamm e.V. - einstimmig beschlossen
+- TOP 23: Zuschuss an den Ruderclub Germania Düsseldorf 1904 e.v. - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Projekt Stadtgrün-naturnah (Anfrage der Fraktionen BÜNDNIS90/DIE GRÜNEN und SPD) - vertagt
+- TOP 27: Auswirkungen über die Einigung der Stadt Düsseldorf mit der Umwelthilfe (Anfrage der SPD-Fraktion) - vertagt
+- TOP 28: Umbau der Haltestelle Karolingerplatz aus 2020 (Anfrage der SPD-Fraktion) - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Antrag einer temporären Blühwiese am Kirchplatz (Antrag der Fraktionen Bündnis90/Die Grünen und SPD) - einstimmig beschlossen
+- TOP 32: Antrag Projekt Brückengalerie (Antrag der Fraktionen BÜNDNIS90/DIE GRÜNEN und SPD) - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 33: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 34: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 35: Trinkbrunnen am Zeitfeld/Volksgarten - zur Kenntnis genommen
+- TOP 36: Planung Fahrradständer Unterbilk - zur Kenntnis genommen
+- TOP 37: Prüfung sichere Schulwege zur Grundschule St. Peter - zur Kenntnis genommen
+- TOP 38: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
