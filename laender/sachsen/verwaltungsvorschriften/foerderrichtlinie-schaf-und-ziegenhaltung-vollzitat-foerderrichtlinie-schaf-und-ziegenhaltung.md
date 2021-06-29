@@ -1,8 +1,8 @@
 # Förderrichtlinie Schaf- und Ziegenhaltung Vollzitat: Förderrichtlinie Schaf- und Ziegenhaltung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-03-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.1
+- Datum: 2021-06-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.03.2021
+29.06.2021
 bis
-28.06.2021
+31.12.2021
 
 Förderrichtlinie Schaf- und Ziegenhaltung
 
@@ -66,6 +66,7 @@ den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur
 d)
 
 dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist,
+
 
 e)
 
@@ -164,7 +165,7 @@ Die Zuwendung wird als nicht rückzahlbarer Zuschuss (Festbetragsfinanzierung) g
 Höhe der Zuwendung
 
 
-Die Zuwendung beträgt bis zu 40 Euro je Tier und Jahr für jedes Tier, das die Voraussetzungen gemäß der Ziffer IV Nummern 1 bis 3 erfüllt. Der Betrag wird jedes Jahr neu und einheitlich in Abhängigkeit der zu fördernden Gesamttierzahl und den verfügbaren Haushaltsmitteln festgelegt.
+Die Zuwendung beträgt bis zu 55 Euro je Tier und Jahr für jedes Tier, das die Voraussetzungen gemäß der Ziffer IV Nummern 1 bis 3 erfüllt. Der Betrag wird jedes Jahr neu und einheitlich in Abhängigkeit der zu fördernden Gesamttierzahl und den verfügbaren Haushaltsmitteln festgelegt.
 
 4.
 
@@ -287,9 +288,9 @@ Fsn-Nr.: 5563-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. März 2021
+Fassung gültig ab: 29. Juni 2021
 
-Fassung gültig bis: 28. Juni 2021
+Fassung gültig bis: 31. Dezember 2021
 
 Drucken/Speichern
 
@@ -314,7 +315,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19055.1
+https://www.revosax.sachsen.de/vorschrift/19055.2
 Stand vom
 18.11.2026
 
