@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2021-06-30T15:00:00+02:00
+- Ende: 2021-06-30T22:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5389
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5389
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00194831.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00194831.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00194831.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachstandsbericht zur aktuellen Corona-Lage - Kenntnisnahme
+- TOP 2: Verleihung Heimat-Preis 2021 der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 3: Antrag des Integrationsrates gemäß § 4 Abs. 3 der Geschäftsordnung des Integrationsrates; hier: Ächtung des N*Wortes - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Änderungsantrag zu: Top 3 Vorlage 0808/X „Ächtung N*Wort“; hier: Antrag der Ratsfraktion DIE LINKE vom - Mit Stimmenmehrheit abgelehnt
+- TOP 3.2: Ergänzungsantrag zur Beratungsvorlage 0808/X: Antrag des Integrationsrates gemäß § 4 Abs. 3 der Geschäftsordnung des Integrationsrates; hier: Ächtung des N*Wortes; hier: Antrag der CDU-Ratsfraktion vom 30.06.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Resolution: Gegen jeden Antisemitismus: Der Rat der Stadt Mönchengladbach steht solidarisch an der Seite der jüdischen Gemeinde in unserer Stadt. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 4.1: Alternativer Antrag zu: Top 4 Vorlage 0855/X „Resolution: Gegen jeden Antisemitismus“; hier: Antrag der Ratsfraktion DIE LINKE vom 29.06.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 5: Mobil Hub der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 6: Gemeinsame Erklärung zwischen der Stadt Mönchengladbach, dem Kreis Viersen, der Stadt Viersen sowie der Stadt Willich zur gegenseitigen Unterstützung von regional bedeutsamen Schienenpersonenverkehrsprojekten zur Verbesserung der Verkehrsbedingungen - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Ergänzungsantrag zur Beratungsvorlage 0688/X; hier: Antrag der CDU Fraktion - Ohne Abstimmung
+- TOP 7: Straßenumbenennung Lettow-Vorbeck-Straße - Mit Stimmenmehrheit beschlossen
+- TOP 7.1: Ergänzungsantrag Antrag zu: Top 7 Vorlage 0865/X „Straßenumbenennung Lettow-Vorbeck-Straße“; hier: Antrag der Ratsfraktion DIE LINKE vom 29.06.2021 - Ohne Abstimmung
+- TOP 7.2: Beratungsvorlage Nr. 0865/X: Straßenumbenennung Lettow-Vorbeck-Straße; hier: Antrag der Ratsfraktionen von SPD, Bündnis 90/Die Grünen und FDP vom - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 8: Finanzbericht - Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie - Kenntnisnahme
+- TOP 9: Einlage des Grundstücks des Bahnhofs Rheydt in die EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 10: Weiterbetrieb des City-WLAN-Netzes "MG WiFi" in Mönchengladbach und Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 11: Gründung der Wissens- und Innovationscampus Mönchengladbach GmbH (WICMG) - Mit Stimmenmehrheit beschlossen
+- TOP 12: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2020 und Verwendung des Überschuisses - Einstimmiger Beschluss
+- TOP 13: Entlastung der Sparkassenorgane für das Geschäftsjahr 2020 - Einstimmiger Beschluss
+- TOP 14: Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2020 (7.Nachweisung) - Kenntnisnahme
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (2.Nachweisung) - Kenntnisnahme
+- TOP 17: Jahresrechnung 2020 - Einstimmiger Beschluss
+- TOP 18: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach für das zweite Halbjahr 2021 - Mit Stimmenmehrheit beschlossen
+- TOP 19: Vorstellung des "Sachverständigengutachten zur Erstellung der Fortschreibung des Rettungsdienstbedarfsplans der Stadt Mönchengladbach" als Grundlage für die weitere Rettungsdienstbedarfsplanung - Einstimmiger Beschluss
+- TOP 20: Satzung der Stadt Mönchengladbach über die Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Leistungsvereinbarungen mit zehn Trägern offener Kinder- und Jugendarbeit - Einstimmiger Beschluss
+- TOP 22: Fortführung der Kommunalen Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 23: Verlängerung Leistungsvereinbarung Café Pflaster - Einstimmiger Beschluss
+- TOP 24: Verlängerung Leistungsvereinbarung Selbsthilfe - Einstimmiger Beschluss
+- TOP 25: Verlängerung Leistungsvereinbarung SozialPsychiatrische Zentren - Einstimmiger Beschluss
+- TOP 26: Verlängerung Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 27: Beitritt CVUA-RRW - Einstimmiger Beschluss
+- TOP 28: Genehmigung einer Dringlichkeitsentscheidung Aussetzung der Zahlung von Elternbeiträgen für die Betreuung von Kindern in Kindertageseinrichtungen, Tagespflege und im offenen Ganztag - Einstimmiger Beschluss
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 30: Sanierung und Modernisierung des Kulturzentrum BIS, Ausführungsbeschluss - Einstimmiger Beschluss
+- TOP 31: Transparente Darstellung von Baumfällungen bei stadtplanerischen Projekten; hier: Gemeinsamer Antrag von SPD, Bündnis90/Die Grünen und FDP - Mit Stimmenmehrheit beschlossen
+- TOP 32: Busverkehr Hindenburgstraße - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 32.1: Antrag zum TOP 32, Busverkehr auf der Hindenburgstraße; hier: Antrag der CDU-Ratsfraktion vom 30.06.2021 - Ohne Abstimmung
+- TOP 33: Handlungskonzept Radwege - Mit Stimmenmehrheit beschlossen
+- TOP 34: Senkung des Hebesatzes der Grundsteuer B - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Anfragen und Mitteilungen
+- TOP 35.1: Anfrage von RH Safi zu Pop-Up-Radwegen
